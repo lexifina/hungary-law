@@ -1,10 +1,10 @@
-## 20. FPL összegyűjtése és szétosztása Budapest FIR-ben
+## 20. [^86] A repülési terv összegyűjtése és szétosztása Budapest FIR-ben
 
-31. § (1) A Légiforgalmi Szolgálatok Bejelentő Irodája a hozzá benyújtott repülési tervek esetén gondoskodik az FPL eljuttatásáról az érintett egységek számára.
+31. § (1)[^87] A Légiforgalmi Szolgálatok Bejelentő Irodája a hozzá benyújtott repülési tervek esetén gondoskodik a repülési terv eljuttatásáról az érintett egységek számára.
 
 (2) Az AFIS egységgel rendelkező repülőtéren benyújtott repülési tervet az AFIS-nak, ha a feladó AFIS egységnél AFTN terminál rendelkezésre áll,
 
-a) a belföldi VFR repülés FPL-jét
+a)[^88] a belföldi VFR repülés repülési tervét
 
 aa) a Budapest ATS Központ (LHCCZIZX),
 
@@ -16,11 +16,11 @@ ad) a rendeltetési repülőtér, ha AFTN terminál rendelkezésre áll,
 
 ae) a rendeltetési repülőtér által előírt vagy a légijármű vezetője által meghatározott egyéb címzettek,
 
-b) nemzetközi, IFR vagy vegyes (IFR/VFR, VFR/IFR) repülés FPL-jét a Légiforgalmi Szolgálatok Bejelentő Irodája (LHBPZPZX)
+b)[^89] nemzetközi, IFR vagy vegyes (IFR/VFR, VFR/IFR) repülés repülési tervét a Légiforgalmi Szolgálatok Bejelentő Irodája (LHBPZPZX)
 
 ## számára kell továbbítania.
 
-(3) Az AFIS egységgel rendelkező repülőtéren benyújtott repülési tervet az AFIS-nak, ha a feladó AFIS egységnél AFTN terminál nem áll rendelkezésre, a repülési tervet elsődlegesen elektronikus formában, ennek hiányában telefonon:
+(3)[^90] Az AFIS egységgel rendelkező repülőtéren benyújtott repülési tervet az AFIS-nak, ha a feladó AFIS egységnél AFTN terminál nem áll rendelkezésre, elsődlegesen elektronikus formában, ennek hiányában telefonon,
 
 a) belföldi VFR repülés esetén a Budapest ATS Központ,
 
@@ -33,3 +33,9 @@ b) nemzetközi, IFR vagy vegyes (IFR/VFR, VFR/IFR) repülés esetén a Légiforg
 a) ha az indulási és a rendeltetési repülőtéren rendelkezésre áll AFTN terminál, AFTN-en, vagy
 
 b) ha az indulási vagy a rendeltetési repülőtéren nem áll rendelkezésre AFTN terminál, telefonon
+
+[^86]: A 19. alcím címe a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^87]: A 31. § (1) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés i) pontja szerint módosított szöveg.
+[^88]: A 31. § (2) bekezdés a) pont nyitó szövegrésze a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés p) pontja szerint módosított szöveg.
+[^89]: A 31. § (2) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés p) pontja szerint módosított szöveg.
+[^90]: A 31. § (3) bekezdés nyitó szövegrésze a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés q) pontja szerint módosított szöveg.

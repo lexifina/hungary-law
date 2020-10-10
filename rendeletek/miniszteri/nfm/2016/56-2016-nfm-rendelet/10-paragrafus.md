@@ -1,5 +1,3 @@
-## 9. § Olyan légtérben, ahol RVSM-et alkalmaznak, polgári légijárművel nem hajtható végre kötelékrepülés.
-
 ## 9. Helikopterrel végrehajtott speciális feladatok
 
 10. § (1) Helikopterrel végrehajtott csörlőzés során személyt vagy terhet csörlőkötéllel fedélzetre emelni vagy leengedni csak rendszeresített és ellenőrzött emelőszerkezettel, és különösen a légijármű technikai adottságainak, az emelés környezetének, a feladat és a teher sajátosságainak figyelembevételével megválasztott biztonságos repülési és függési magasságon lehet.

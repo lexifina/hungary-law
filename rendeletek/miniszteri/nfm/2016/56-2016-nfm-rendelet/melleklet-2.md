@@ -1,20 +1,20 @@
 ## A REPÜLÉSI TERV ŰRLAP KITÖLTÉSE
 
-## 1. Az FPL űrlap
+## 1. A repülési terv űrlap
 
-## 1.1. Az egyedi repülési tervek írásban történő benyújtására szolgáló FPL űrlap három részből áll:
+## 1.1. Az egyedi repülési tervek írásban történő benyújtására szolgáló repülési terv űrlap három részből áll:
 
-## 1.1.1. A címzettek és a feladással kapcsolatos adatok feltüntetésére szolgáló fejrész. Ezt a részt az FPL-t átvevő egység tölti ki. Az FPL benyújtója által külön kért egyéb címzetteket itt kell feltüntetni.
+## 1.1.1. A címzettek és a feladással kapcsolatos adatok feltüntetésére szolgáló fejrész. Ezt a részt a repülési tervet átvevő egység tölti ki. A repülési terv benyújtója által külön kért egyéb címzetteket itt kell feltüntetni.
 
 ## 1.1.2.Az alapvető repülési tervadatokat tartalmazó középső rész, amelyet valamennyi címzetthez továbbítanak.
 
-## 1.1.3. Kiegészítő tájékoztatások feltüntetésére szolgáló rész. Ez a rész általában nem kerül továbbításra a címzettek számára, az itt közölt információk az esetlegesen szükséges kutatás és mentés szempontjából bírnak fontossággal, és ezeket csak külön kérésre továbbítják. Többszakaszos vagy visszaúti FPL esetén továbbítani kell az indulási repülőteret kiszolgáló légiforgalmi szolgálatok bejelentő irodájának vagy az illetékes ATS egységének.
+## 1.1.3. Kiegészítő tájékoztatások feltüntetésére szolgáló rész. Ez a rész általában nem kerül továbbításra a címzettek számára, az itt közölt információk az esetlegesen szükséges kutatás és mentés szempontjából bírnak fontossággal, és ezeket csak külön kérésre továbbítják. Többszakaszos vagy visszaúti repülési terv esetén továbbítani kell az indulási repülőteret kiszolgáló légiforgalmi szolgálatok bejelentő irodájának vagy az illetékes ATS egységének.
 
 ## 1.2. Az űrlapon az egyes repülési adatok beírására rovatok szolgálnak, egy rovat több elemből is állhat. Az egyes rovatok és elemek neve két nyelven (angol-magyar) van megadva.
 
 ## Az egyes rovatok számozottak (nem egymást követő számozással), a számozás és az írásjelek csak a repülési terv AFTN-en történő továbbítása és a rendeltetési oldalon történő feldolgozás szempontjából fontosak.
 
-## 2. Az FPL űrlap kitöltésére vonatkozó általános előírások
+## 2. A repülési terv űrlap kitöltésére vonatkozó általános előírások
 
 ## 2.1. Ha az egyes mezők viszonylatában külön jelezve nincs, valamennyi mezőt ki kell tölteni.
 
@@ -28,7 +28,7 @@
 
 ## 2.6. Az űrlapot jól olvasható nyomtatott nagybetűkkel kell kitölteni, faxon történő továbbítás esetén a kitöltéshez fekete színű íróeszközt (vagy írógépet) kell használni.
 
-## 3. FPL űrlap 7. rovat: LÉGIJÁRMŰ AZONOSÍTÓ JELE
+## 3. Repülési terv űrlap 7. rovat: LÉGIJÁRMŰ AZONOSÍTÓ JELE
 
 ## 3.1.Be kell írni min. 2, max. 7 alfanumerikus karakterrel:
 
@@ -54,7 +54,7 @@
 
 ## 3.7.3. T: Szállítás céljából végzett repülés. A repülést normál repülésként kezelik, a 18. rovatban semmit sem kell feltüntetni.
 
-## 4. FPL űrlap 8. rovat: REPÜLÉSI SZABÁLYOK ÉS A REPÜLÉS TÍPUSA
+## 4. Repülési terv űrlap 8. rovat: REPÜLÉSI SZABÁLYOK ÉS A REPÜLÉS TÍPUSA
 
 ## 4.1. Repülési szabályok (1 karakter)
 
@@ -92,7 +92,7 @@
 
 ## 4.2.3. X használata esetén STS/, RMK/, vagy STAYINFOn/ jelölést használva meg kell adni a repülés jellegét.
 
-## 5. FPL űrlap 9. rovat: LÉGIJÁRMŰVEK SZÁMA, TÍPUSA ÉS TURBULENCIA KATEGÓRIÁJA
+## 5. Repülési terv űrlap 9. rovat: LÉGIJÁRMŰVEK SZÁMA, TÍPUSA ÉS TURBULENCIA KATEGÓRIÁJA
 
 ## 5.1. Légijárművek száma (1 vagy 2 karakter):
 
@@ -136,7 +136,7 @@
 
 ## 5.3.1.3. L (Light) ha az MTOW 7000 kg, vagy kisebb.
 
-## 6. FPL űrlap 10. rovat: BERENDEZÉSEK (kommunikációs, navigációs és megközelítési) és KÉPESSÉGEK
+## 6. Repülési terv űrlap 10. rovat: BERENDEZÉSEK (kommunikációs, navigációs és megközelítési) és KÉPESSÉGEK
 
 ## 6.1. Képességek
 
@@ -182,7 +182,7 @@
 
 ## J2 CPDLC FANS 1/A HFDL
 
-## J3 CPDLC FANS 1/A VDL Mode 4
+## J3 CPDLC FANS 1/A VDL Mode A
 
 ## J4 CPDLC FANS 1/A VDL Mode 2
 
@@ -228,9 +228,9 @@
 
 ## 6.1.3.4. Az R a PBN szintek jelzésére szolgál, melyeket a 18-as rovatban a PBN/ jelölésben kell feltüntetni. Egy kijelölt útvonalra vagy légtérre a PBN használatára vonatkozó útmutató anyagot az ICAO Performance-Based Navigation Manual (Doc 9613) határozza meg.
 
-## 6.1.3.5. RNAV képességgel nem rendelkező állami légijármű EUR körzeten belül történő repülés során az S vagy R jelöléseket nem használhatja. Ezt a 10. rovatban Z-vel, a 18. rovatban NAV/NONRNAV jelöléssel kell feltüntetni.
+## 6.1.3.5. Területi navigációs képességgel nem rendelkező állami légijármű EUR körzeten belül történő repülés során az S vagy R jelöléseket nem használhatja. Ezt a 10. rovatban Z-vel, a 18. rovatban NAV/NONRNAV jelöléssel kell feltüntetni.
 
-## 6.1.3.6. Ha meghibásodás vagy egyéb ok miatt a légijármű indulás előtt nem képes megfelelni a B-RNAV követelményeknek, akkor nem használhatja az S, vagy R jelölést a repülési terv 10. rovatában. Mivel ebben az esetben a légijármű az ATC részéről különleges kezelést igényel, a repülési terv 10. rovatában Z-t, a 18. rovatában NAV/RNAVINOP jelölést kell alkalmazni. Ha a repülési terv benyújtása már megtörtént, akkor törölni kell azt és új repülési tervet kell benyújtani. Ha a repülésre RPL került benyújtásra, akkor az RPL-t törölni kell és új repülési tervet kell benyújtani.
+## 6.1.3.6. Ha meghibásodás vagy egyéb ok miatt a légijármű indulás előtt nem képes megfelelni az adott repülési szakaszra meghatározott területi navigációs előírásoknak, akkor nem használhatja az S, vagy R jelölést a repülési terv 10. rovatában. Mivel ebben az esetben a légijármű az ATC részéről különleges kezelést igényel, a repülési terv 10. rovatában Z-t, a 18. rovatában NAV/RNAVINOP jelölést kell alkalmazni. Ha a repülési terv benyújtása már megtörtént, akkor törölni kell azt és új repülési tervet kell benyújtani.
 
 ## 6.1.3.7. Az RVSM képességet a kért repülési szinttől függetlenül W beírásával jelezni kell a 10. rovatban. Kötelékrepülést végrehajtó állami légijárműveknek azonban - függetlenül RVSM engedélyezési státusuktól - nem szabad beírniuk a W betűt.
 
@@ -254,9 +254,9 @@
 
 ## 6.2.1.2. SSR „A” és „C” mód esetén:
 
-## 6.2.1.2.1. A „A” mód 4096 kód beállítási lehetőségű transzponder,
+## 6.2.1.2.1. A „A” módú 4096 kód beállítási lehetőségű transzponder,
 
-## 6.2.1.2.2. C „A” és „C” mód 4096 kód beállítású lehetőségű transzponder.
+## 6.2.1.2.2. C „A” és „C” módú 4096 kód beállítási lehetőséggel rendelkező transzponder.
 
 ## 6.2.1.3. SSR „S” mód esetén:
 
@@ -302,11 +302,11 @@
 
 ## 6.3. A navigációs képességre vonatkozó tájékoztatást az ATC részére továbbítani kell az engedély és útvonal beszerzése céljából.
 
-## 7. FPL űrlap 13. rovat: INDULÁSI REPÜLŐTÉR ÉS IDŐ
+## 7. Repülési terv űrlap 13. rovat: INDULÁSI REPÜLŐTÉR ÉS IDŐ
 
 ## 7.1. Indulási repülőtér (4 karakter):
 
-## 7.1.1. Be kell írni az indulási repülőtér négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint, pl. LHBP, EGKK.
+## 7.1.1. Be kell írni az indulási repülőtér négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators kiadványában meghatározottak szerint, pl. LHBP, EGKK.
 
 ## 7.1.2. Ha az indulási repülőtérnek nem osztottak ki helységjelölést, vagy a légijármű terepről hajtja végre a felszállást, ZZZZ-t kell beírni, és a 18. rovatban DEP/ jelölést használva meg kell adni az indulás helyét.
 
@@ -316,7 +316,7 @@
 
 ## 7.2.1. Be kell írni az EOBT-t UTC-ben, azaz azt az időpontot, amikorra a forgalmi előtérről a felszálláshoz történő elgurulást tervezik.
 
-## 8. FPL űrlap 15. rovat: ÚTVONAL
+## 8. Repülési terv űrlap 15. rovat: ÚTVONAL
 
 ## 8.1. Utazósebesség (max. 5 karakter)
 
@@ -426,7 +426,7 @@
 
 ## 8.3.4.1.2. a DCT betűket és a következő fontos pont kódjelölését, ha az indulási repülőtéren SID-ek nincsenek kijelölve, pl. LHBC DCT DODAR;
 
-## 8.3.4.1.3. a földi telepítésű navigációs berendezések kódjelölését, ha a fedélzeti rendszer nem teszi lehetővé az RNAV5-nek megfelelő üzemelést,pl. BUDOP DCT BKS DCT BUG DCT PTB DCT GYR DCT BEGLA;
+## 8.3.4.1.3. a földi telepítésű navigációs berendezések kódjelölését, ha a fedélzeti rendszer nem teszi lehetővé az RNAV 5-nek megfelelő üzemelést,pl. BUDOP DCT BKS DCT BUG DCT PTB DCT GYR DCT BEGLA;
 
 ## 8.3.4.2. Ezt követően be kell írni minden olyan fontos pontot, ahol az útvonal, az utazósebesség vagy utazómagasság, a repülési szabályok, vagy a repülés jellegének megváltoztatásáttervezik.
 
@@ -546,17 +546,17 @@
 
 ## 8.3.13.1.3. 3. kategóriájú (CDR3): Ezekre az útvonalakra repülési tervet nem lehet benyújtani, az ezeken történő repülésre az ATC egységek esetileg adnak engedélyt a pillanatnyi helyzet függvényében.
 
-## 8.3.13.2. CDR2 és CDR3 útvonalakat RPL-ekben nem lehet tervezni. A CDR1 útvonalak vonatkozásában az útvonalak felhasználhatóságának megfelelően RPL-t szükség szerint külön kell benyújtani.
+## 8.3.13.2.
 
 ## 8.3.13.3. Az EUROCONTROL NMOC az egyes tagállamoknak az AIP-kben közzétett repülési útvonalakra vonatkozó egyéb megkötéseit egy Route Availibility Document (RAD)-ban gyűjti.
 
 ## 8.3.13.4. A hozzá benyújtott repülési tervek esetében az IFPS ellenőrzi az útvonalak CDR és RAD szerinti használhatóságát.
 
-## 9. FPL űrlap 16. rovat: RENDELTETÉSI REPÜLŐTÉR ÉS TELJES SZÁMÍTOTT REPÜLÉSI IDŐ, Rendeltetési KITÉRŐ REPÜLŐTÉR(EK)
+## 9. Repülési terv űrlap 16. rovat: RENDELTETÉSI REPÜLŐTÉR ÉS TELJES SZÁMÍTOTT REPÜLÉSI IDŐ, Rendeltetési KITÉRŐ REPÜLŐTÉR(EK)
 
 ## 9.1. Rendeltetési repülőtér (4 karakter):
 
-## 9.1.1. Be kell írni a rendeltetési repülőtér négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint, pl. EDDF, LHBP.
+## 9.1.1. Be kell írni a rendeltetési repülőtér négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators kiadványában meghatározottak szerint, pl. EDDF, LHBP.
 
 ## 9.1.2. Ha a rendeltetési repülőtérnek nem osztottak ki helységjelölést, vagy a légijármű terepre tervezi a leszállás végrehajtását, írjon be ZZZZ-t, és a 18. rovatban DEST/ jelölést használva adja meg a rendeltetési repülőtér/leszállás helyét, valamint szóköz nélkül a teljes számított repülési időt.
 
@@ -576,13 +576,13 @@
 
 ## 9.3. Rendeltetési kitérő repülőtér(ek):
 
-## 9.3.1. Be kell írni a rendeltetési kitérő repülőtér vagy repülőterek négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint. Legfeljebb két rendeltetési kitérő repülőtér adható meg szóközökkel.
+## 9.3.1. Be kell írni a rendeltetési kitérő repülőtér vagy repülőterek négybetűs ICAO helységjelölését az ICAO Doc 7910 Location Indicators kiadványában meghatározottak szerint. Legfeljebb két rendeltetési kitérő repülőtér adható meg szóközökkel.
 
 ## 9.3.2. Ha a rendeltetési kitérő repülőtérnek nem osztottak ki helységjelölést, ZZZZ-t kell beírni, és a 18. rovatban ALTN/ jelölést használva kell megadni a rendeltetési kitérő repülőtér helyét.
 
-## 9.3.3. Az IFPS nem fogad el olyan FPL-t, ahol mindkét rendeltetési kitérő repülőtérként ZZZZ szerepel.
+## 9.3.3. Az IFPS nem fogad el olyan repülési tervet, ahol mindkét rendeltetési kitérő repülőtérként ZZZZ szerepel.
 
-## 10. FPL űrlap 18. rovat: EGYÉB TÁJÉKOZTATÁSOK
+## 10. Repülési terv űrlap 18. rovat: EGYÉB TÁJÉKOZTATÁSOK
 
 ## 10.1. Kötőjelek és törtvonások csak az alábbiakban meghatározottak szerint írhatók be.
 
@@ -592,37 +592,37 @@
 
 ## 10.1.2.1. STS/ Különleges kezelés igénylése az ATS-től és ennek oka, az alábbiak szerint:
 
-## 10.1.2.1.1. ATFMX: a nemzeti hatóságok által az ATFCM szabályozás alól kivont repülések, pl. a
+## 10.1.2.1.1. ALTRV: magasságfoglalással rendelkező repülések
 
-## Nyitott Égbolt keretében végrehajtott felderítő vagy bemutató repülések
+## 10.1.2.1.2. ATFMX: a nemzeti hatóságok által az ATFCM szabályozás alól kivont repülések
 
-## 10.1.2.1.2. FFR: tűzoltási célú repülések
+## 10.1.2.1.3. FFR: tűzoltási célú repülések
 
-## 10.1.2.1.3. FLTCK: navigációs berendezéseket kalibráló repülések
+## 10.1.2.1.4. FLTCK: navigációs berendezéseket kalibráló repülések
 
-## 10.1.2.1.4. HAZMAT: veszélyes anyagot szállító repülések
+## 10.1.2.1.5. HAZMAT: veszélyes anyagot szállító repülések
 
-## 10.1.2.1.5. HEAD: államfőt, kormányfőt szállító repülések
+## 10.1.2.1.6. HEAD: államfőt, kormányfőt szállító repülések
 
-## 10.1.2.1.6. HOSP: az egészségügyi hatóság által meghatározott mentőrepülések
+## 10.1.2.1.7. HOSP: az egészségügyi hatóság által meghatározott mentőrepülések
 
-## 10.1.2.1.7. HUM: humanitárius célú repülések
+## 10.1.2.1.8. HUM: humanitárius célú repülések
 
-## 10.1.2.1.8.MARSA: katonai repülések, melyek elkülönítésének felelősségét egy katonai szervezet viseli
+## 10.1.2.1.9. MARSA: katonai repülések, melyek elkülönítésének felelősségét egy katonai szervezet viseli
 
-## 10.1.2.1.9. MEDEVAC: életmentés célú evakuáló mentőrepülések
+## 10.1.2.1.10. MEDEVAC: életmentés célú evakuáló mentőrepülések
 
-## 10.1.2.1.10. NON RVSM: légtérben RVSM képesség nélkül üzemelő repülések
+## 10.1.2.1.11. NONRVSM: légtérben RVSM képesség nélkül üzemelő repülések
 
-## 10.1.2.1.11. SAR: kutató-mentő repülések
+## 10.1.2.1.12. SAR: kutató-mentő repülések
 
-## 10.1.2.1.12. STATE: katonai, vám vagy rendőrségi feladatokat végző repülések
+## 10.1.2.1.13. STATE: katonai, vám vagy rendőrségi feladatokat végző repülések
 
-## 10.1.2.1.13. Többszörös jelölés szintén alkalmazható. Ilyen esetben az egyes jelöléseket az STS után kell feltüntetni, azokat egymástól szóközzel elválasztva.
+## 10.1.2.1.14. Többszörös jelölés szintén alkalmazható. Ilyen esetben az egyes jelöléseket az STS után kell feltüntetni, azokat egymástól szóközzel elválasztva.
 
-## 10.1.2.1.14. A teljes egészében OAT repülést STS/OAT feltüntetésével kell jelezni.
+## 10.1.2.1.15. A teljes egészében OAT repülést STS/OAT feltüntetésével kell jelezni.
 
-## 10.1.2.1.15. Ha a légijármű felmentést kapott a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltség alól, ezt COM/EXM833-vel kell jelezni.
+## 10.1.2.1.16. Ha a légijármű felmentést kapott a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltség alól, ezt COM/EXM833-vel kell jelezni.
 
 ## 10.1.2.2. PBN/ RNAV, vagy RNP képesség jelzése
 
@@ -682,7 +682,7 @@
 
 | 26 | T2 | RNP AR APCH RF nélkül (külön engedély szükséges) |
 
-## 10.1.2.3. TYP/ A légijármű(vek) típusa(i), amelyet szükség esetén a légijárművek száma előz meg, ha a 9. rovatban ZZZZ-t használtak.
+## 10.1.2.3.
 
 ## 10.1.2.4. NAV/ a PBN/-ben fel nem sorolt navigációs berendezésekre vonatkozó lényeges adatok, ha a 10. rovatban Z-t használtak. Itt kell továbbá feltüntetni a GNSS kiegészítő rendszereket, kettőnél több esetében szóközzel, pl. NAV/GBAS SBAS.
 
@@ -690,7 +690,7 @@
 
 ## 10.1.2.6. DAT/ 10. rovat képességek részében fel nem sorolt adatok és képességek.
 
-## 10.1.2.7. SUR/ 10. rovat berendezések részében fel nem sorolt felderítő berendezések és képességek.
+## 10.1.2.7. SUR/ 10. rovat berendezések részében fel nem sorolt felderítő berendezések és képességek, valamint az egységes európai égbolton belüli légtérellenőrzés végrehajtására és átjárhatóságára vonatkozó követelmények megállapításáról szóló, 2011. november 22-i 1207/2011/EU bizottsági végrehajtási rendelet 14a. cikkében meghatározott tájékoztatás.
 
 ## 10.1.2.8. DEP/ az indulási repülőtér neve és helye, ha a 13. rovatban ZZZZ-t használnak, vagy AFIL esetén azon ATS egység, ahonnan a kiegészítő repülési tervadatok beszerezhetők.
 
@@ -718,27 +718,27 @@
 
 ## 10.1.2.11. REG/ A légijármű felségjele, vagy közös jele, ha az eltér a 7. rovatban feltüntetett légijármű azonosító jeltől, kötelékrepülés esetén a kísérő légijárművek lajstromjelei pl. REG/HAVAS, HASJR.
 
-## 10.1.2.12. EET/ Fontos pontok vagy FIR határ jelölések és az ezekre számított teljes repülési idők, ha az ATS hatóságok ezek megadását előírják, pl. EET/LITKU0220 vagy EET/LYBA0040 LHCC0 150 LOVV0215.
+## 10.1.2.12. EET/ Fontos pontok vagy FIR határ jelölések és az ezekre számított teljes repülési idők, ha az ATS egységek ezek megadását előírják, pl. EET/LITKU0220 vagy EET/LYBA0040 LHCC0 150 LOVV0215.
 
 ## 10.1.2.13. SEL/ SELCAL kód.
 
 ## 10.1.2.14. TYP/ A légijármű(vek) típusa(i), amelyet szükség esetén a légijárművek száma előz meg szóköz nélkül, és egy szóközzel, ha a 9. rovatban ZZZZ-t használtak.
 
-## 10.1.2.15. CODE/ A légijármű adatcíme (hat hexadecimális karakterrel kifejezve), ha ennek feltüntetését valamely érintett FIR ATS hatósága külön előírta.
+## 10.1.2.15. CODE/ A légijármű adatcíme (hat hexadecimális karakterrel kifejezve), ha ennek feltüntetését valamely érintett FIR ATS egysége külön előírta.
 
 ## 10.1.2.16. DLE/ Útvonalon történő késés vagy várakozás, ide kell beírni azt a fontos pontot(kat) az útvonalon, ahol a késést tervezik végrehajtani, és négy számjeggyel, órában és percben (hhmm) feltüntetve a késés időtartamát pl. DLE/BUG0030.
 
 ## 10.1.2.17. OPR/ Az üzembentartó neve, ha az a 7. rovatban megadott légijármű azonosító jelből nem egyértelműen nyilvánvaló, pl. OPR/AIR SERVICE.
 
-## 10.1.2.18. ORGN/ A feladó 8 betűs AFTN címe, vagy a megfelelő elérhetőségi adatok, abban az esetben amikor a repülési terv feladóját nem lehet azonosítani, ahogy az illetékes ATS hatóság előírja.
+## 10.1.2.18. ORGN/ A feladó 8 betűs AFTN címe, vagy a megfelelő elérhetőségi adatok, abban az esetben amikor a repülési terv feladóját nem lehet azonosítani, ahogy az illetékes ATS egység előírja.
 
-## 10.1.2.19. PER/ Légijármű teljesítmény adata, egyetlen betűvel jelölve, az ICAO Procedures for Air Navigation Service – Aircraft Operation (PANS-OPS, Doc 8168) Volume I – Flight Procedures-ben meghatározottak szerint, amennyiben az illetékes ATS hatóság ezt előírja.
+## 10.1.2.19. PER/ Légijármű teljesítmény adata, egyetlen betűvel jelölve, az ICAO Procedures for Air Navigation Service – Aircraft Operation (PANS-OPS, Doc 8168) Volume I – Flight Procedures-ben meghatározottak szerint, amennyiben az illetékes ATS egység ezt előírja.
 
 ## 10.1.2.20. ALTN/ Rendeltetési kitérő repülőtér(ek) neve, ha a 16. rovatba ZZZZ-t írtak. Az érintett AIP-ben nem szereplő repülőtér esetén be kell írni a repülőtér helyét földrajzi hosszúságban és szélességben, vagy a legközelebbi fontos ponthoz viszonyított irányszögét és távolságát.
 
 ## 10.1.2.21. RALT/ Útvonali kitérő repülőtér(ek) neve(i), az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint vagy amennyiben ilyen jelölést nem osztottak ki az útvonali kitérő repülőtér(ek) neve(i). Az érintett AIP-ben nem szereplő repülőtér esetén be kell írni a repülőtér helyét földrajzi hosszúságban és szélességben, vagy a legközelebbi fontos ponthoz viszonyított irányszögét és távolságát.
 
-## 10.1.2.22. TALT/ Felszállási kitérő repülőtér neve, az ICAO Doc 7910 Location Indicators-ban meghatározottak szerint vagy amennyiben ilyen jelölést nem osztottak ki a felszállási kitérő repülőtér(ek) neve(i). Az érintett AIP-ben nem szereplő repülőtér esetén be kell írni a repülőtér helyét földrajzi hosszúságban és szélességben, vagy a legközelebbi fontos ponthoz viszonyított irányszögét és távolságát.
+## 10.1.2.22. TALT/ Felszállási kitérő repülőtér neve, az ICAO Doc 7910 Location Indicators kiadványában meghatározottak szerint vagy amennyiben ilyen jelölést nem osztottak ki a felszállási kitérő repülőtér(ek) neve(i). Az érintett AIP-ben nem szereplő repülőtér esetén be kell írni a repülőtér helyét földrajzi hosszúságban és szélességben, vagy a legközelebbi fontos ponthoz viszonyított irányszögét és távolságát.
 
 ## 10.1.2.23. RIF/ Módosított rendeltetési repülőtérre vezető útvonaladatok, amelyet a módosított rendeltetési repülőtér négybetűs ICAO jelölése követ (a módosított rendeltetési repülőtérre történő repülés külön útvonalengedély függvénye), pl. RIF/TPS UM986 LONLA UR22 OGRUS R22 UK UUEE.
 
@@ -752,7 +752,7 @@
 
 ## 10.1.2.24.4. veszélyes anyagra vonatkozó információkat,
 
-## 10.1.2.24.5. az illetékes ATS hatóság által kért egyéb kiegészítő tájékoztatásokat,
+## 10.1.2.24.5. az illetékes ATS egység által kért egyéb kiegészítő tájékoztatásokat,
 
 ## 10.1.2.24.6. kötelékrepülés esetén szükség szerint a légijárművek típusait, valamint
 
@@ -764,7 +764,7 @@
 
 ## 10.2. Nemzetközi repülések esetén a nyílt szövegű részekhez angol nyelvet kell használni, belföldi repülések esetén a magyar nyelv használata megengedett.
 
-## 11. FPL űrlap 19. rovat: KIEGÉSZÍTŐ TÁJÉKOZTATÁSOK
+## 11. Repülési terv űrlap 19. rovat: KIEGÉSZÍTŐ TÁJÉKOZTATÁSOK
 
 ## 11.1. Üzemanyag:
 
@@ -842,6 +842,8 @@
 
 ## Be kell írni a repülési tervet kitöltő szervezet vagy személy nevét és a feladó elérhetőségi telefonszámát.
 
-## 12. Az FPL űrlap képe
+## 12. A repülési terv űrlap képe
 
-2. melléklet az 56/2016. (XII. 22.) NFM rendelethez
+2. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^162]
+
+[^162]: A 2. mellékletet a 33/2020. (X. 5.) ITM rendelet 34. § q) pontja hatályon kívül helyezte.

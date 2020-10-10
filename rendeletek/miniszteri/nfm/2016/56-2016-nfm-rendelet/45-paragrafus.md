@@ -1,4 +1,4 @@
-## 44. § Ha egy légijármű állomás vevőkészülék hiba miatt nem tud összeköttetést létesíteni, a „VAKADÁS VEVŐKÉSZÜLÉK HIBA MIATT”(„TRANSMITTING BLIND DUE TO RECEIVER FAILURE”) kifejezést követően jelentéseket kell továbbítania a használatos frekvencián a tervezett időpontokban vagy földrajzi helyeken. A közlemény leadása után azt teljes terjedelmében meg kell ismételni, és közölni kell a következő adás tervezett időpontját.
+## 44. §[^117]
 
 ## V. Fejezet
 
@@ -16,10 +16,13 @@
 
 (6) Az ellenőrzött légtéren kívül üzemeltetett, repülési tervet be nem nyújtott légijármű repüléstájékoztató és riasztó szolgálatot nem vehet igénybe, és tájékoztatást csak külön kérésre kaphat, továbbá az ATS egységek a légijárművet nem tekintik ismert forgalomnak.
 
-(7) A kért tájékoztatás nem helyettesíti a SERA rendelet melléklet 2. szakasz 2010. pont b) alpontjában meghatározott, repülésre történő megfelelő földi felkészülést.
+(7)[^118] A kért tájékoztatás nem helyettesíti a SERA rendelet melléklet 2. szakasz SERA.2010 pont b) alpontjában meghatározott, repülésre történő megfelelő földi felkészülést.
 
 (8) Ellenőrzött légtéren kívül VFR szerint működő légijárműnek ATS felderítő berendezésen alapuló forgalmi tájékoztatást vagy tanácsadást – repülési terv benyújtásától függetlenül – külön kell kérnie.
 
 (9) A repülési tervet be nem nyújtott légijárműnek kijelölt egyedi SSR kód nem jelenti azt, hogy az ATS egységek a légijárművet nyomon követik.
 
 (10) Az ellenőrzött légtéren kívül, VFR szerint működő légijármű csak a felderítő berendezések által észlelt légijárműről kaphat ATS felderítő berendezésen alapuló forgalmi tájékoztatást.
+
+[^117]: A 44. §-t a 33/2020. (X. 5.) ITM rendelet 34. § i) pontja hatályon kívül helyezte.
+[^118]: A 45. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés y) pontja szerint módosított szöveg.

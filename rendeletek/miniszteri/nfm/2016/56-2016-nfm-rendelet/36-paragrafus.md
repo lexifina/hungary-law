@@ -1,21 +1,9 @@
 ## 23. Különleges műveletekre vonatkozó mentességek igénylése
 
-36. § (1) A légijármű különleges műveletekre vonatkozó mentességet a légiforgalmi szolgálatoktól elsőbbség biztosítása és ATFCM intézkedések alóli felmentés tekintetében a kényszerhelyzetben lévő légijárműveken túl
+36. §[^99] (1) A légijármű különleges műveletekre vonatkozó mentességet kap a légiforgalmi szolgálatoktól elsőbbség biztosítása és ATFM intézkedések alóli felmentés tekintetében a kényszerhelyzetben lévő légijárműveken túl az 1. melléklet 10.1.2.1.3., 10.1.2.1.6., 10.1.2.1.10. és 10.1.2.1.12. pontjában meghatározott repülés végrehajtásakor.
 
-a) a humanitárius célú,
+(2) Az 1. melléklet 10.1.2.1.1., 10.1.2.1.2., 10.1.2.1.4., 10.1.2.1.5., 10.1.2.1.7., 10.1.2.1.8., 10.1.2.1.9., 10.1.2.1.11 és 10.1.2.1.13. pontjában meghatározott repülés végrehajtásakor a légijármű a légiforgalmi szolgáltatótól – a AIP-ben közzétett módon – az (1) bekezdésben meghatározott mentességet igényelhet.
 
-b) a betegszállítással és életmentéssel – beleértve az átültetendő szervek, vérplazma és gyógyszerek szállítását – kapcsolatos,
+(3) A légijárműnek a különleges kezelésre vonatkozó igényét a repülési terv 18. rovatában kell feltüntetnie az 1. melléklet 10. pontjában megadott kulcsszavak használatával.
 
-c) a kutató-mentő,
-
-d) a hivatalos úton lévő állam- és kormányfők szállítását szolgáló és
-
-e) a rendvédelmi célú
-
-## repülés végrehajtásakor igényelhet.
-
-(2) A megfigyelés vagy bemutatás céljából – a szállítást végző repülések kivételével – nemzetközi egyezmény alapján végrehajtott Nyitott Égbolt (Open Sky) repülések mentesülnek az ATFM intézkedések alól.
-
-(3) Különleges műveletekre vonatkozó mentességet kell igényelni az ATS-től az EUR RVSM légtérben GAT-ként működő állami légijárművekből álló kötelékrepülések üzembentartóinak, valamint a nem RVSM-engedélyezett állami légijárművek üzembentartóinak, ha a kért repülési szintjük FL290 vagy fölötti.
-
-(4) A légijárműnek a légiforgalmi szolgálatoktól különleges kezelésre vonatkozó igényét a 18. rovatban kell feltüntetnie az 1. melléklet 10. pontjában megadott kulcsszavak használatával.
+[^99]: A 36. § a 33/2020. (X. 5.) ITM rendelet 19. §-ával megállapított szöveg.

@@ -1,3 +1,5 @@
+## 50. §
+
 ## 34. Légiforgalmi esemény jelentése
 
 51. § (1) A légijárműnek a légiforgalmi eseményt jelentenie kell az érintett ATS egység részére a légiforgalmi szolgálatok ellátásával kapcsolatos különleges események – különösen légijárművek meg nem engedett közelsége, akadály a futópályán, futópálya-sértés, hibás eljárások, be nem tartott eljárások vagy a földi berendezések üzemzavara által okozott, a légijárműre veszélyt jelentő egyéb komoly nehézségek – észlelése esetén.
@@ -6,6 +8,9 @@
 
 (3) A (2) bekezdés szerinti űrlapon AIRPROX jelentés jelölése esetén a jelentést azonnal le kell adni rádión.
 
-(4) Az ACAS elkerülési javaslata alapján végrehajtott manőverek esetén az ellenőrzött légijárműnek jelentenie kell a kiadott ATC engedélytől történő eltérést, valamint hogy ezt ACAS javaslatra hajtotta végre.
+(4)[^129]
 
-(5) A légijárműnek jelentenie kell, ha ismételten visszatér a korábbi ATC engedélyben foglaltakhoz, vagy ha az ACAS javaslatra végrehajtott manővert követően kiadott módosított ATC engedélyt nem tudja végrehajtani egy másik ACAS elkerülési javaslat miatt.
+(5)[^130]
+
+[^129]: Az 51. § (4) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § l) pontja hatályon kívül helyezte.
+[^130]: Az 51. § (5) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § l) pontja hatályon kívül helyezte.

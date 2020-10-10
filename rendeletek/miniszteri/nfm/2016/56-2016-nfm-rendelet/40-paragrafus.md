@@ -1,16 +1,10 @@
 ## 27. Helyzetjelentések
 
-40. § (1) Az ellenőrzött légtérbe történő berepülést követő azonosítás után a légijármű a további helyzetjelentési kötelezettség alól mentesül.
+40. § (1)[^103] Az ellenőrzött légtérbe történő berepülést követő azonosítás után a légijármű – a SERA rendelet melléklet 8. szakasz SERA.8025 pont a) pont 2. alpontjában meghatározottak kivételével – a további helyzetjelentési kötelezettség alól mentesül.
 
 (2) Az (1) bekezdésben meghatározottaktól függetlenül a repülési magasságra vonatkozó információt a rádióösszeköttetési csatorna- vagy frekvenciaváltást követően az első összeköttetésbe bele kell foglalni.
 
-(3) A légijárműnek a helyzetjelentések adását akkor kell folytatnia, ha
-
-a) arra az ATC utasítást ad;
-
-b) a légijármű a FIR határt átrepüli; vagy
-
-c) tájékoztatást kapott arról, hogy az ATS felderítő szolgáltatás befejeződött vagy a radarkapcsolat elveszett.
+(3)[^104]
 
 (4) A helyzetjelentésnek a következőket kell tartalmaznia:
 
@@ -22,8 +16,13 @@ c) a légijármű magassága,
 
 d) a jelentőpont átrepülésének tényleges időpontja.
 
-(5) Ha a légijármű számára kijelölt sebesség tartását írták elő, a légijárműnek a helyzetjelentésekbe a kijelölt sebességet is bele kell foglalnia. A kijelölt sebességet, valamint a nehéz turbulencia kategóriába tartozó légijármű esetén a „Heavy” szót a rádió összeköttetési csatorna- vagy frekvenciaváltást követően az ATC egységnek szóló első jelentésbe is bele kell foglalni.
+(5)[^105] Ha a légijármű számára kijelölt sebesség tartását írták elő, a légijármű a helyzetjelentésekbe a kijelölt sebességet is belefoglalja. A kijelölt sebességet a rádió összeköttetési csatorna- vagy frekvenciaváltást követően az ATC egységnek szóló első jelentésbe is bele kell foglalni.
 
-(6) A beszédüzemű helyzetjelentések tartalmát a légiforgalmi szolgálati rendeletben meghatározottak szerint kell összeállítani.
+(6)[^106]
 
 (7) Az ellenőrzött légtéren belül a légijárműnek helyzetét fontos ponthoz, földi navigációs berendezéshez vagy repülőtérhez viszonyítva kell jelentenie.
+
+[^103]: A 40. § (1) bekezdése a 33/2020. (X. 5.) ITM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^104]: A 40. § (3) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § f) pontja hatályon kívül helyezte.
+[^105]: A 40. § (5) bekezdése a 33/2020. (X. 5.) ITM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^106]: A 40. § (6) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § f) pontja hatályon kívül helyezte.

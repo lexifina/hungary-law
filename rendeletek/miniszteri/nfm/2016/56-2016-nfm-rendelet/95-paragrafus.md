@@ -12,6 +12,13 @@ d) a közös repülési szabályok és a léginavigációs szolgáltatásokra é
 
 e) az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló 2012. november 16-i 1079/2012/EU bizottság rendelet; és
 
-f) az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló 1079/2012/EU végrehajtási rendelet módosításáról szóló, 2013. július 10-i 657/2013/EU bizottsági végrehajtási rendelet
+f) az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló 1079/2012/EU végrehajtási rendelet módosításáról szóló, 2013. július 10-i 657/2013/EU bizottsági végrehajtási rendelet;
+
+g)[^158] a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdése,
+
+h)[^159] a 923/2012/EU végrehajtási rendeletnek a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések (SERA C. rész) aktualizálása és kiegészítése tekintetében történő módosításáról, valamint a 730/2006/EK rendelet hatályon kívül helyezéséről szóló, 2016. július 20-i (EU) 2016/1185 EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^158]: A 95. § g) pontját a 33/2020. (X. 5.) ITM rendelet 31. §-a iktatta be.
+[^159]: A 95. § h) pontját a 33/2020. (X. 5.) ITM rendelet 31. §-a iktatta be.

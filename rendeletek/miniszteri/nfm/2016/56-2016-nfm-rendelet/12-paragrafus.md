@@ -1,4 +1,4 @@
-12. § (1) Helikopterrel terhet emelni csak a teher emelésében, szállításában részt vevőkkel, a teher tulajdonosával, kezelőjével vagy üzemeltetőjével és az emelés során érintett egyéb személyekkel folytatott egyeztetést, tervezést és felkészülést követően, a légijármű üzembentartójának kijelölésével lehet.
+12. § (1)[^49] Helikopterrel terhet emelni csak a teher emelésében, szállításában részt vevőkkel, a teher tulajdonosával, kezelőjével vagy üzemeltetőjével és az emelés során érintett egyéb személyekkel folytatott egyeztetést, tervezést és felkészülést követően, a légijármű üzembentartójának az engedélyével lehet.
 
 (2) Az emelést úgy kell megszervezni, hogy az a lehetőségekhez képest ideális napszakban, időben, légköri és meteorológiai viszonyok között történjen, és ne zavarja az emelés körzetében élők biztonságát.
 
@@ -11,3 +11,5 @@
 (6) Az emelés alatt rádión és előre kidolgozott, egyeztetett kézjelekkel folyamatos kapcsolatot kell tartani a teher rögzítését végző felszínen tartózkodó személyekkel.
 
 (7) Kényszerhelyzetben, ha a repülés a teherrel tovább nem folytatható, az adott légijármű-típus légiüzemeltetési utasításában foglaltak szerint kell eljárni.
+
+[^49]: A 12. § (1) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés c) pontja szerint módosított szöveg.

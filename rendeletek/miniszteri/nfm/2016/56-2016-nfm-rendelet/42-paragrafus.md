@@ -1,16 +1,8 @@
 ## 29. Összeköttetések
 
-42. § (1) A légiforgalmi irányítás alatt álló légijármű frekvenciaváltás utáni első hívásának a következőket kell tartalmaznia:
+42. § (1)[^111]
 
-a) a hívott állomás megnevezése;
-
-b) a légijármű hívójele, és nehéz turbulencia kategóriába tartozó légijárművek esetén a „Heavy” kifejezés;
-
-c) magasság, beleértve az éppen keresztezett és engedélyezett magasságot is, ha a légijármű nem az engedélyezett magasságot tartja;
-
-d) a légijármű sebessége, ha az ATC sebesség szabályozást alkalmaz.
-
-(2) Ha az összeköttetés megszakadása miatt lehetetlenné válik az (1) bekezdésben meghatározottak végrehajtása, a légijármű vezetőnek a 30. alcímben a rádióösszeköttetés elvesztése esetére előírt eljárásokat és a (3) és (4) bekezdésben meghatározott megfelelő eljárást kell végrehajtania, valamint ha a légijármű ellenőrzött repülőtér repülőtéri forgalmában vesz részt, figyelnie kell a látjelek útján is adható utasításokra.
+(2)[^112] Ha az összeköttetés megszakadása miatt lehetetlenné válik a SERA rendelet melléklet 14. szakasz SERA.14065 pontjában meghatározottak végrehajtása, a légijármű vezetőnek a 30. alcímben a rádióösszeköttetés elvesztése esetére előírt eljárásokat és a (3) és (4) bekezdésben meghatározott megfelelő eljárást kell végrehajtania, valamint ha a légijármű ellenőrzött repülőtér repülőtéri forgalmában vesz részt, figyelnie kell a látjelek útján is adható utasításokra.
 
 (3) VMC esetén a légijárműnek:
 
@@ -30,7 +22,7 @@ a) abban a légtérben, ahol eljárás elkülönítést alkalmaznak, és a légi
 
 b) abban a légtérben, ahol ATS felderítő rendszert használnak az ATC nyújtásakor, 7 percig tartania kell az utoljára kiadott sebességet és magasságot, vagy – ha az magasabb – a minimális repülési magasságot, és ezt követően folytatnia kell repülését a benyújtott repülési tervben szereplő magasságon és sebességgel;
 
-c) a vektorálás alatt álló vagy engedélyhatár megjelölés nélkül, párhuzamos kitéréssel RNAV szerint üzemeltett légijárműnek, a minimális repülési magasság figyelembevételével, a lehető legrövidebb úton – de nem később, mint a következő fontos pontnál – vissza kell térnie az érvényes repülési tervében szereplő útvonalára;
+c)[^113] a vektorálás alatt álló vagy engedélyhatár megjelölés nélkül, párhuzamos kitéréssel területi navigáció szerint üzemeltett légijárműnek, a minimális repülési magasság figyelembevételével, a lehető legrövidebb úton – de nem később, mint a következő fontos pontnál – vissza kell térnie az érvényes repülési tervében szereplő útvonalára;
 
 d) ha a rendeltetési repülőtérre közzétett STAR, TRANSITION vagy valamely műszer szerinti megközelítési eljárás végrehajtására utasították, a légijárműnek – nyugtázást követően – folytatnia kell az eljárást annak magassági profilját követve, majd végre kell hajtania a végső megközelítést a használatos futópályára;
 
@@ -38,7 +30,7 @@ e) ha a d) pontban meghatározott utasítást nem kapott, vagy azt nem nyugtázt
 
 f) az e) pontban megadott navigációs berendezés vagy pont felett meg kell kezdenie a süllyedést a korábban vett és nyugtázott várható bevezetési időben – ha ilyet kapott – vagy az érvényes repülési tervből számított érkezési időben;
 
-g) végre kell hajtania a navigációs berendezésre vagy pontra előírt SID-et; és
+g)[^114] végre kell hajtania a navigációs berendezésre vagy pontra előírt megközelítési eljárást; és
 
 h) le kell szállnia – ha lehetséges – az f) pontban megadott várható bevezetési időtől vagy a számított érkezési időtől számított 30 percen belül, attól függően, hogy melyik a későbbi.
 
@@ -52,10 +44,16 @@ ab) transzponderét 7600 kódra állította,
 
 vagy
 
-b) ha kötelező jelentőpontokkal kijelölt útvonalon üzemel és a helyzetjelentések elhagyására szóló utasítást nem kapott, és
+b)[^115] ha a légijármű kötelező jelentőpontokkal kijelölt útvonalon üzemel és a helyzetjelentések elhagyására szóló utasítást nem kapott,
 
-ba) az utoljára kijelölt magasságot vagy minimális repülési magasságot elérte, vagy
+ba) és az utoljára kijelölt magasságot vagy minimális repülési magasságot elérte, vagy
 
-bb) amikor az általa előzőleg a következő kötelező jelentőpontra jelentett számított időponttól, vagy
+bb) az általa előzőleg a következő kötelező jelentőpontra jelentett számított időponttól, vagy
 
 bc) a kötelező jelentőpont feletti helyzetjelentés kimaradásának időpontjától.
+
+[^111]: A 42. § (1) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § h) pontja hatályon kívül helyezte.
+[^112]: A 42. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés x) pontja szerint módosított szöveg.
+[^113]: A 42. § (4) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés x) pontja szerint módosított szöveg.
+[^114]: A 42. § (4) bekezdés g) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés x) pontja szerint módosított szöveg.
+[^115]: A 42. § (5) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 22. §-ával megállapított szöveg.

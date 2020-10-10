@@ -30,46 +30,36 @@
 
 | 14 | Tömeg | tonna, kilogramm |  |
 
-5. melléklet az 56/2016. (XII. 22.) NFM rendelethez
+5. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^164]
 
 ## FEDÉLZETI VÁLASZJELADÓ (TRANSZPONDER) ÜZEMELTETÉSÉNEK SZABÁLYAI
 
-1. A nyomásmagasság továbbítási képességgel rendelkező („C”, „S” mód) transzpondert minden esetben ilyen módban kell üzemeltetni, kivéve, ha az ATS egység egyéb utasítást ad.
-
-A repülőtér forgalmi körét elhagyó, működőképes transzponderrel felszerelt légijárműnek a transzpondert nem ellenőrzött légtérben is üzemeltetnie kell.
+1. Az S módú transzpondert minden esetben ilyen módban kell üzemeltetni, kivéve, ha az ATS egység egyéb utasítást ad.
 
 Azon az ellenőrzött repülőtéren, ahol az ATC „S” módon alapuló földi ellenőrző rendszert (pl. A-SMGCS) alkalmaz, a transzponder üzemeltetésére vonatkozó részletes eljárásokat a repülőtérrend határozza meg.
 
-2. A magasságtájékoztatás pontosságának ellenőrzését a légiforgalmi szolgálati rendelet 2. mellékletében meghatározottak szerint kell végrehajtani.
+2. A magasságtájékoztatás pontosságának ellenőrzését a légiforgalmi szolgálati rendelet 239. §-ában meghatározottak szerint kell végrehajtani.
 
 3. Az A/C módú transzpondert a mód/kód beállítása után közvetlenül a felszállás előtt lehet bekapcsolt állapotba helyezni, kivéve ha az adott repülőtérre eltérő eljárás vonatkozik. A transzpondert külön felszólítás nélkül ki kell kapcsolni vagy készenléti helyzetbe kell kapcsolni a leszállás végrehajtását követően.
 
-4. A transzponderen az alábbi kódokat kell beállítani, kivéve ha az ATS a légijárművet egyedi kód beállítására utasítja:
+4. A transzponder kódbeállítására a SERA rendelet melléklet 13. szakasz SERA.13005 pontjában meghatározottakat kell alkalmazni, azzal, hogy légiforgalmi szolgáltatásban nem részesülő légijármű esetén – a légijármű osztályba sorolásának megfelelően – a következő kódot kell beállítani:
 
-4.1. Ellenőrzött légtérben történő működés esetén: 2000-es kód.
+4.1. helikopterek esetén 7001,
 
-4.2. Ellenőrzött légtéren kívüli repülés esetén a légijármű osztályba sorolásának megfelelően:
+4.2. vitorlázó-repülőgépek esetén 7002,
 
-|  |  | A | B |
-
-|  | 1. | Légijármű osztály | SSR kód |
-
-|  | 2. | repülőgépek | 7000 |
-
-|  | 3. | helikopterek | 7001 |
-
-|  | 4. | vitorlázó-repülőgépek | 7002 |
-
-|  | 5. | levegőnél könnyebb légijárművek | 7003 |
+4.3. levegőnél könnyebb légijárművek esetén 7003.
 
 5. Speciális kódok használata
 
-5.1. A rádióhiba esetére beállítandó kódot a 43. § (3) bekezdés írja elő.
+5.1.
 
-5.2. Kényszerhelyzet esetén, ha a légijármű számára egyedi kódot jelöltek ki, meg kell tartani a kiosztott kódot mindaddig, amíg az ATC egyéb utasítást nem ad vagy a kényszerhelyzet jellegétől függően a légijármű vezetője szükségesnek ítéli a 7700-as kódbeállítását. Bekapcsolt állapotban a 75-tel, 76-tal vagy 77-tel kezdődő kódokra történő átállítások a földi egységeknél riasztást okozhatnak.
+5.2.
 
 5.3. „Nehéz”, személyzet nélküli szabad ballon esetén 0000 kódot kell beállítani.
 
 6. Az SPI (speciális helyzetazonosítás) csak az ATS egységek utasítására kapcsolható ki.
 
 7. Fedélzeti válaszjeladó repülés közbeni meghibásodása esetén a légijármű vezetőnek tájékoztatnia kell a vele rádióösszeköttetésben lévő ATS egységet a meghibásodásról.
+
+[^164]: Az 5. melléklet a 33/2020. (X. 5.) ITM rendelet 32. § (6) bekezdés b) pontja, 33. § (3) bekezdése, 34. § r) pontja szerint módosított szöveg.

@@ -14,16 +14,19 @@ c) külön erre a célra kijelölt légterekben.
 
 a) ellenőrzött légtérben
 
-aa) a (3) bekezdés a) és b) alpontja esetében,
+aa)[^45] az (1) bekezdés a) és b) alpontja esetében,
 
 ab) a Drop Zone légtérben végrehajtott ejtőernyős ugrások esetében az illetékes légiforgalmi irányító egységgel megkötött együttműködési megállapodásban meghatározott esetben
 
 ## az illetékes légiforgalmi irányító egység engedélye,
 
-b) nem ellenőrzött légtérben a (3) bekezdés a) alpontjában meghatározott esetben az illetékes repüléstájékoztató egység tájékoztatása
+b)[^46] nem ellenőrzött légtérben az (1) bekezdés a) alpontjában meghatározott esetben az illetékes repüléstájékoztató egység tájékoztatása
 
 ## alapján hajtható végre.
 
 (4) IFR szerint működő légijármű által végzett megközelítés, leszállás vagy indulás végrehajtásakor az ellenőrzött vagy AFIS egységgel rendelkező repülőtéren ejtőernyős ugrás nem hajtható végre.
 
 (5) Az illetékes ATS egységet tájékoztatni kell az ejtőernyős ugrás vagy ugrássorozat tényleges befejezéséről.
+
+[^45]: A 7. § (3) bekezdés a) pont aa) alpontja a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^46]: A 7. § (3) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés b) pontja szerint módosított szöveg.

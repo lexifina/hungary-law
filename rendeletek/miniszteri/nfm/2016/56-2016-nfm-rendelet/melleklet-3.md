@@ -1,6 +1,4 @@
-## VULKÁNI TEVÉKENYSÉGRŐL SZÓLÓ KÜLÖNLEGES LÉGI JELENTÉS (VAR) ŰRLAP
-
-3. melléklet az 56/2016. (XII. 22.) NFM rendelethez
+3. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^163]
 
 ## LÉGIFORGALMI ESEMÉNY JELENTÉS ŰRLAP
 
@@ -51,3 +49,5 @@ AIRPROX jelentés esetén a rendelet 51. § (3) bekezdése szerint kell eljárni
 3.5.2. E2 - Az ATS egység tevékenységének leírása, beleértve a nyújtott szolgálatot, a rádiófrekvenciát, a kijelölt SSR kódok, magasságmérő beállítás és a kiadott engedély. Az eseményt ATS felderítő rendszeren/szabad szemmel észlelték, a légijármű fedélzeti rendszere/ATS figyelmeztetést adott, és az erre történő érdeklődésre kapott magyarázat leírása.
 
 3.6. A mellékelt ábrát kell használni a légijárművek helyzetének jelzésére és szükség szerint csatolhatók további lapok az esemény leírásához.
+
+[^163]: A 3. melléklet a 33/2020. (X. 5.) ITM rendelet 32. § (6) bekezdés a) pontja, 33. § (2) bekezdése szerint módosított szöveg.
