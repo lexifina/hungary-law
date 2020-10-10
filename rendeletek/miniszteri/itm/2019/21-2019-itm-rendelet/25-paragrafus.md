@@ -10,10 +10,12 @@
 
 (4) Nem alkalmazható az AIRAC rendszer által meghatározott hatálybalépési dátumtól eltérő bevezetési dátum az olyan tervezett, üzemeltetést érintő változás esetén, amely térképészeti munkát igényel vagy navigációs adatbázis frissítésével jár.
 
-(5) Az AIS kizárólag a halasztást nem tűrő, más időszakban érvénybe nem léptethető, a légiforgalom biztonságát és gazdaságosságát érintő változások esetén használja a december 21. és január 17. közé eső hatálybalépési AIRAC dátumokat.
+(5)[^1]
 
 (6) A légiforgalmi adatbázisnak a légiközlekedési hatóság honlapján közzétett, meghatározott tájékoztatások vonatkozásában történő frissítésekor a hatálybalépés időpontja megegyezik az AIRAC rendszer által meghatározott hatálybalépési időponttal.
 
 (7) A légiközlekedési hatóság honlapján közzétett, meghatározott esetekre vonatkozó, elektronikus eszközökkel biztosított tájékoztatásokat az AIS oly módon teszi közzé, hogy a tájékoztatás legalább 28 nappal az AIRAC rendszer által meghatározott hatálybalépési dátum előtt eljusson a címzettekhez.
 
 (8) A légiközlekedési hatóság honlapján közzétett, meghatározott előzetes értesítést igénylő tájékoztatások esetén az elektronikus eszközökkel biztosított tájékoztatásokat az AIS legalább a hatálybalépési dátum előtt 56 nappal teszi közzé.
+
+[^1]: A 25. § (5) bekezdését a 33/2020. (X. 5.) ITM rendelet 66. §-a hatályon kívül helyezte.

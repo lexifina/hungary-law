@@ -1,3 +1,5 @@
+## 26. §[^2]
+
 ## 12. Az AIS ellátásának általános követelményei
 
 27. § (1) Az AIS biztosítja, hogy a légiforgalom biztonságos, rendszeres és hatékony áramlása szempontjából szükséges légiforgalmi tájékoztatások vagy adatok rendelkezésre álljanak
@@ -25,3 +27,5 @@ b) egyéb rendelkezésre álló forrásokból, így különösen az érintett l�
 (8) Az AIS biztosítja az AIP, az AIP módosítások és az AIP kiegészítések lehető leggyorsabb, leghatékonyabb módon történő szétosztását.
 
 (9) Az AIS folyamatos 24 órás tájékoztatásnyújtást biztosít.
+
+[^2]: A 26. §-t a 33/2020. (X. 5.) ITM rendelet 66. §-a hatályon kívül helyezte.
