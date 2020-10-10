@@ -12,15 +12,15 @@
 
 | 6 | VFR | Nem biztosítanak | Légiforgalmi irányító, forgalmi tájékoztatás a VFR és IFR, valamint VFR és VFR repülések között (és kérésre tanácsadás a forgalom elkerülése érdekében) | Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
 
-| 7 | NEM ELLENŐRZÖTT LÉGTÉR | G | 4000 láb (1200 m) és 9500 láb (2900 m) AMSL közötti nem ellenőrzött légterek, valamint a kijelölt TIZ-ek | IFR | Nem biztosítnak | Kérés esetén repüléstájékoztató | Nincs | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Nincs |
+| 7 | NEM ELLENŐRZÖTT LÉGTÉR | G | 4000 láb (1200 m) és 9500 láb (2900 m) AMSL közötti nem ellenőrzött légterek, valamint a kijelölt TIZ-ek | IFR | Nem biztosítnak | Kérés esetén repüléstájékoztató (beleértve radaralapú tájékoztatás, kivéve TIZ-ek) | Nincs | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Nincs |
 
-| 8 | VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató (radaralapú forgalmi tájékoztatás) | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú, kivéve a rádióval fel nem szerelt, hajtómű nélküli légijárműveket, ide nem értve a vitorlázó felhőrepüléseket, továbbá a TIZ légteret el nem hagyó helyi repüléseket, ha a TIZ-ben nincs RMZ kijelölve | Igen, kivéve a TIZ légteret el nem hagyó helyi repüléseket, valamint a hajtómű nélküli légijárműveket, ide nem értve a vitorlázó felhőrepüléseket | Nincs |
+| 8 | VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató (beleértve radaralapú tájékoztatás, kivéve TIZ-ek) | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú, kivéve a hajtómű nélküli légijárműveket, ide nem értve a vitorlázó felhőrepüléseket, továbbá a TIZ légteret el nem hagyó helyi repüléseket, ha a TIZ-ben nincs RMZ kijelölve | Igen, kivéve a TIZ légteret el nem hagyó helyi repüléseket, valamint a hajtómű nélküli légijárműveket, ide nem értve a vitorlázó felhőrepüléseket | Nincs |
 
-| 9 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: - legfeljebb 140 kt műszer szerinti sebességel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett |
+| 9 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: – 1500 m legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén, vagy ha más forgalommal való találkozás valószínűsége csekély, – helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését, – helikopterek számára korlát nélkül, állami célú repülés, kutató-mentő repülés, légijárművel végzett egészségügyi mentőrepülés és légi tűzoltás esetén. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett |
 
 | 10 | 4000 láb (1200 m) AMSL alatti nem ellenőrzött légterek, a vitorlázó- és siklórepülések céljára kijelölt légterek, valamint a műrepülő légterek | Csak VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Nincs, kivéve az éjszakai VFR repüléseket3 | Nincs, kivéve az éjszakai VFR repüléseket | Nincs |
 
-| 11 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: - legfeljebb 140 kt műszer szerinti sebességel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett |
+| 11 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: – 1500 m legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén, vagy ha más forgalommal való találkozás valószínűsége csekély, – helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését, – helikopterek számára korlát nélkül, állami célú repülés, kutató-mentő repülés, légijárművel végzett egészségügyi mentőrepülés és légi tűzoltás esetén. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett |
 
 ## További szabályok, eltérések:
 
@@ -36,7 +36,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^90]
+együttes rendelethez[^94]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -336,31 +336,25 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 | 3. | Budapest CTR végső megközelítési területe | 3500’ (1050 m) AMSL / GND | (ICAO „D”) |
 
-| 473546N | 0190523E |
-
 | 473457N | 0190856E |
 
-| 473230N | 0191930E |
+| 472950N | 0191231E |
 
-| 472400N | 0193400E |
+| 472458N | 0192023E |
 
 | 472307N | 0193247E |
 
 | 471632N | 0192347E |
 
-| 471457N | 0192138E |
+| 472243N | 0191757E |
 
-| 472410N | 0190642E |
-
-| 472613N | 0190619E |
-
-| 472941N | 0190336E |
+| 472837N | 0190826E |
 
 | 473022N | 0190325E |
 
 | 473038N | 0190321E |
 
-| 473546N | 0190523E |
+| 473457N | 0190856E |
 
 | 4. | Sármellék CTR | 2000’ (600 m) AMSL/GND | (ICAO „D”) közzétett üzemidő szerint csak Sármellék CTA légtérrel együtt működhet. |
 
@@ -438,7 +432,7 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 4. Katonai körzetek
 
-## 9K06384N_3
+## 0X06850N_3
 
 |  | A | B | C |
 
@@ -684,7 +678,7 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 | 471829N | 0202929E |
 
-| 47238N | 0201743E |
+| 472038N | 0201743E |
 
 | 472212N | 0200910E |
 
@@ -746,7 +740,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 9K06384N_4
+## 0X06850N_4
 
 |  | A | B | C | D |
 
@@ -1114,7 +1108,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 3. Vitorlázó- és siklórepülések céljára kijelölt légterek
 
-## 9K06384N_6
+## 0X06850N_6
 
 |  | A | B | C |
 
@@ -1768,4 +1762,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^90]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja szerint módosított szöveg.
+[^94]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése szerint módosított szöveg.

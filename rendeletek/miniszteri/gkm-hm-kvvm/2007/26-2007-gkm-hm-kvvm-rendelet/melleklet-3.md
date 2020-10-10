@@ -1,4 +1,4 @@
-## 9K06384N_8
+## 0X06850N_8
 
 |  | A | B | C | D |
 
@@ -494,7 +494,7 @@
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^91]
+együttes rendelethez[^95]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -1256,4 +1256,4 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
 
-[^91]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
+[^95]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
