@@ -16,4 +16,6 @@ b) ha az időjárási körülmények ezt indokolják, amelynek mérlegelésekor 
 
 c) a nagy kiterjedésű vízfelületek, hegyvidéki, lakatlan vagy sivatagi területek esetében szükséges lehet még akkor is, ha a repülések gyakorisága rendkívül ritka.
 
-(3) Egy adott területen belül a légiforgalmi szolgálatok szükségességének meghatározása során nem lehet tényezőként figyelembe venni a légijárművek összeütközési-veszély jelző fedélzeti rendszerrel (a továbbiakban: ACAS) történő felszereltségét.
+(3)[^62] Egy adott területen belül a légiforgalmi szolgálatok szükségességének meghatározása során nem lehet tényezőként figyelembe venni a légijárművek levegőben történő ütközések elkerülésére szolgáló rendszerrel (a továbbiakban: ACAS) történő felszereltségét.
+
+[^62]: A 7. § (3) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés c) pontja szerint módosított szöveg.

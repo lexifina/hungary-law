@@ -32,12 +32,9 @@ b) a légijárműnek a helyzetszimbólum, PSR jel, SSR válaszjel középpontjá
 
 c) minden olyan tényező, amely az ATS felderítő rendszertől származó információ pontosságát befolyásolhatja, így különösen a légijármű távolsága a radarállomástól, és a helyzetképernyőn használatos léptékállás.
 
-(4) Turbulencia esetén a 6. melléklet 2.1. pont szerinti táblázatban foglalt távolságon alapuló elkülönítési minimumokat kell alkalmazni az (5) bekezdésben meghatározott helyzetekben, a megközelítési és az indulási fázisban lévő, ATS felderítő szolgáltatásban részesülő légijárművek között.
+(4)[^156] Turbulencia esetén az ATS felderítő szolgáltatásban részesülő légijárművek között a 6. melléklet 2.1. pontja szerinti táblázatban meghatározott távolságon alapuló elkülönítési minimumokat kell alkalmazni a SERA rendelet melléklet 8. szakasz SERA.8012 pont a) pontjában meghatározott helyzetekben, a 6. melléklet 2.2.1. és 2.2.2. pontjában foglalt ábra szerint.
 
-(5) A (4) bekezdésben meghatározott minimumokat kell alkalmazni, ha:
+(5)[^157]
 
-a) egy légijármű közvetlenül egy másik légijármű mögött repül ugyanazon a magasságon, vagy kevesebb, mint 1000 lábbal (300 m) alatta, a 6. melléklet 2.2.1. pontban foglalt ábra szerint,
-
-b) mindkét légijármű ugyanazt a futópályát használja vagy olyan párhuzamos futópályákat használnak, amelyek között az oldaltávolság kisebb, mint 760 m (2500 láb) vagy
-
-c) egy légijármű keresztezést hajt végre egy másik légijármű mögött ugyanazon a magasságon, vagy 1000 lábat (300 m) meg nem haladóan alatta, a 6. melléklet 2.2.2. pontban foglalt ábra szerint.
+[^156]: A 258. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 53. §-ával megállapított szöveg.
+[^157]: A 258. § (5) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § o) pontja hatályon kívül helyezte.

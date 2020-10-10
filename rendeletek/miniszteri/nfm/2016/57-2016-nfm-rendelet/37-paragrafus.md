@@ -8,7 +8,7 @@ a) az érintett területen a GAT és OAT repülések ellenőrzésének radaradat
 
 b) a GAT és OAT légijárművek radarjeleinek az egyes önálló irányító egységeknél vagy szektoroknál
 
-ba) azonos radarforrásból vagy egy, az illetékes légiközlekedési hatóság által jóváhagyott multiradar adatfeldolgozó rendszertől kell származnia, és
+ba)[^83] azonos radarforrásból vagy egy, a légiközlekedési hatóság által jóváhagyott multiradar adatfeldolgozó rendszertől kell származnia, és
 
 bb) ugyanazon a radarernyőn kell megjelennie,
 
@@ -22,8 +22,9 @@ f) az érintett légtérben folyó összes GAT és OAT repülések esetén az al
 
 fa) ha a GAT és OAT repülések irányítása egy szervezeten belül különálló munkahelyekről történik, az együttműködést részletes munkahelyi előírásban kell szabályozni, vagy
 
-fb)[^9] ha a GAT és OAT repülések irányítását nem egy szervezet végzi, a szervezetek között együttműködési megállapodást kell kötni, amelynek tartalmaznia kell az irányítási felelősség megosztására, az alkalmazható elkülönítési minimumokra, valamint a koordinálást igénylő esetekre és a koordinálás módjára vonatkozó szabályokat, és
+fb)[^84] ha a GAT és OAT repülések irányítását nem egy szervezet végzi, a szervezetek között együttműködési megállapodást kell kötni, amelynek tartalmaznia kell az irányítási felelősség megosztására, az alkalmazható elkülönítési minimumokra, valamint a koordinálást igénylő esetekre és a koordinálás módjára vonatkozó szabályokat, és
 
 g) az irányító egységnek kellő ismerettel kell rendelkeznie a másik egység által kezelt forgalom irányításának szabályairól, valamint légijárműveinek műszaki jellemzőiről.
 
-[^9]: A 37. § (2) bekezdés f) pont fb) alpontja az 55/2017. (XII. 27.) NFM rendelet 105. §-ával megállapított szöveg.
+[^83]: A 37. § (2) bekezdés b) pont ba) alpontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^84]: A 37. § (2) bekezdés f) pont fb) alpontja az 55/2017. (XII. 27.) NFM rendelet 105. §-ával megállapított szöveg.

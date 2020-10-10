@@ -1,0 +1,8 @@
+## 2/A. §[^1] A légiforgalmi szolgálati funkciókat az arra kijelölt szervezet a légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-i (EU) 2017/373 bizottsági végrehajtási rendelettel [a továbbiakban: (EU) 2017/373 bizottsági végrehajtási rendelet] összhangban látja el.
+
+2/B. §[^2] (1) A léginavigációs szolgáltatásokat ellátó szervezet tevékenysége során figyelembe veszi az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendeletben [a továbbiakban: (EU) 2019/317 bizottsági végrehajtási rendelet] meghatározott, a légiközlekedési hatóság által nemzeti szinten vagy funkcionális légtérblokk szintjén létrehozott teljesítménytervben foglaltakat.
+
+(2) Az (1) bekezdésben említett teljesítménytervnek az (EU) 2019/317 bizottsági végrehajtási rendelet 12. és 16. cikkében foglaltak szerinti elfogadásáról a közlekedésért felelős miniszter által vezetett minisztérium közlekedésért felelős helyettes államtitkára gondoskodik.
+
+[^1]: A 2/A. §-t a 33/2020. (X. 5.) ITM rendelet 35. §-a iktatta be.
+[^2]: A 2/B. §-t a 33/2020. (X. 5.) ITM rendelet 35. §-a iktatta be.

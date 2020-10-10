@@ -1,4 +1,4 @@
-## 294. § A repülőtereken vagy a repülőtéri kényszerhelyzeti szolgálatok illetékességi területén előforduló kényszerhelyzet esetén a repülőtéri irányító toronynak vagy repüléstájékoztató egységnek először a helyi kényszerhelyzeti szolgálatokat kell riasztania, majd értesítenie kell a bajba jutott légijárművek megsegítését ellátó kutató-mentő szolgálatokról szóló miniszteri rendeletben meghatározott szervezetet (a továbbiakban: mentés koordinálására kijelölt szerv).
+## 294. §[^161] A repülőtereken vagy a repülőtéri kényszerhelyzeti szolgálatok illetékességi területén előforduló kényszerhelyzet esetén a repülőtéri irányító toronynak vagy repüléstájékoztató egységnek először a helyi kényszerhelyzeti szolgálatokat kell riasztania, majd értesítenie kell a bajba jutott légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetéről, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének rendjéről, e tevékenységek engedélyezésére vonatkozó szabályokról szóló kormányrendeletben meghatározott szervezetet (a továbbiakban: mentés koordinálására kijelölt szerv).
 
 295. § (1) Ha akkor áll elő kényszerhelyzet, amikor a légijármű a helyi kényszerhelyzeti szolgálatok illetékességi területén kívül üzemel, az illetékes légiforgalmi egységnek azonnal értesítenie kell a mentés koordinálására kijelölt szervet.
 
@@ -45,3 +45,5 @@ a) minden további hasznos tájékoztatást, különös tekintettel a kényszerh
 b) azt a tájékoztatást, hogy a kényszerhelyzet megszűnt.
 
 (8) A mentés koordinálására kijelölt szerv által kezdeményezett tevékenység megszüntetése ugyanezen szerv feladata.
+
+[^161]: A 294. § a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés l) pontja szerint módosított szöveg.

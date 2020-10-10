@@ -22,6 +22,9 @@ b) az elkülönítést fenntartják az azonosított repülések és minden egyé
 
 (9) A 113. alcímben meghatározott elkülönítés alkalmazható egy éppen felszálló légijármű és egy előzőleg már elindult légijármű, vagy egyéb, azonosított forgalom között, ha az induló légijárművet azonosítani fogják a futópálya végétől 1 NM-en (2 km) belül és abban az időpontban meglesz az előírt minimum.
 
-(10) A 113. alcímben meghatározott elkülönítés nem alkalmazható az ugyanazon várakozási pont fölött várakozó légijárművek között. A várakozó és más légijárművek között az ATS felderítő rendszeren vagy MLAT rendszeren alapuló térköz legalább 10 NM (20 km) kell, hogy legyen, kivéve a (11) bekezdésben meghatározottakat, vagy akkor, ha függőleges elkülönítést biztosítottak az érintett légijárművek között.
+(10)[^154] A 113. alcímben meghatározott elkülönítés nem alkalmazható az ugyanazon várakozási pont fölött várakozó légijárművek között. A várakozó és más légijárművek között az ATS felderítő rendszeren vagy MLAT rendszeren alapuló elkülönítés legalább 10 NM (20 km) kell, hogy legyen, kivéve a (11) bekezdésben meghatározottakat, vagy akkor, ha függőleges elkülönítést biztosítottak az érintett légijárművek között.
 
-(11) A várakozó és más légijárművek közötti vízszintes térközt az illetékes légiforgalmi szolgáltató nem kevesebb, mint 5 NM-re (9,3 km) csökkentheti, ha dokumentált repülésbiztonsági értékelés alapján a térköz megfelel az elfogadható repülésbiztonsági szintnek.
+(11)[^155] A várakozó és más légijárművek közötti vízszintes elkülönítést az illetékes légiforgalmi szolgáltató az illetékességi légterében alkalmazandó radar elkülönítésre csökkentheti, ha dokumentált repülésbiztonsági értékelés alapján az elkülönítés megfelel az elfogadható repülésbiztonsági szintnek.
+
+[^154]: A 256. § (10) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés j) pontja szerint módosított szöveg.
+[^155]: A 256. § (11) bekezdése a 33/2020. (X. 5.) ITM rendelet 52. §-ával megállapított szöveg.

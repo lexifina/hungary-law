@@ -1,8 +1,4 @@
-262. § (1) Ha az ATC egységek azt észlelik, hogy valamely azonosított, ellenőrzött légijármű más, ismeretlen, megítélésük szerint összeütközési veszélyt képező légijárművel konfliktust jelentő útvonalon halad, az ellenőrzött légijárművet
-
-a) tájékoztatni kell az ismeretlen légijárműről, és ha az ellenőrzött légijármű kéri, vagy ha a légiforgalmi irányító véleménye szerint a helyzet indokolja, javasolni kell olyan manőver végrehajtását, amellyel az összeütközési veszély elkerülhető, és
-
-b) értesíteni kell, ha az összeütközési veszély megszűnt.
+262. § (1)[^158]
 
 (2) Ha ellenőrzött légtéren kívül egy azonosított IFR repülést végrehajtó légjármű egy másik légijárművel konfliktust jelentő útvonalon halad, az azonosított légijárművet:
 
@@ -23,3 +19,5 @@ d) a légijármű magassága és típusa, vagy ha ez ismeretlen, akkor a konflik
 (4) A nyomásmagasságból származó magassági tájékoztatást, akkor is, ha azt nem ellenőrizték, fel kell használni az összeütközési veszélyről szóló tájékoztatásban, ezzel megkönnyítve az összeütközési veszély helyének behatárolását az ismert légijármű számára, különösen, ha a magassági tájékoztatás ismeretlen, adott esetben VFR légijárműtől származik.
 
 (5) Ha a (4) bekezdésben említett nyomásmagasságból származó magasságtájékoztatást ellenőrizték, a tájékoztatást a hajózó személyzetnek világos és félreérthetetlen módon kell továbbítani. Ha a magasságtájékoztatást nem ellenőrizték, annak pontossága kétes értékű és erre a hajózó személyzet figyelmét fel kell hívni.
+
+[^158]: A 262. § (1) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § p) pontja hatályon kívül helyezte.

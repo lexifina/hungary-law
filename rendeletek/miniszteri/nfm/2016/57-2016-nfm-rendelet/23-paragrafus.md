@@ -1,4 +1,4 @@
-23. § (1) Az ATS egységek, valamint a repülőtér üzembentartója vagy a kapcsolódó repülőtéri szolgálatok – ideértve az előtér-irányító szolgálatot is – közötti együttműködést megállapodásban kell rögzíteni. Az együttműködési megállapodást az érintett szolgálatok vagy egységek vezetői kötik meg és módosítják.
+23. § (1)[^71] Az ATS egységek, valamint a repülőtér üzembentartója vagy a kapcsolódó repülőtéri szolgálatok – ideértve az előtér-irányító szolgálatot is – közötti együttműködést megállapodásban kell rögzíteni. Az együttműködési megállapodást az érintett szolgálatok vagy egységek vezetői írják alá és módosítják.
 
 (2) Ha a repülőtéren nincs ATS egység, a repülőtér üzemben tartójának az alábbiakról kell tájékoztatnia a repüléstájékoztató központot:
 
@@ -35,3 +35,5 @@ az előtér biztonságos üzemelése érdekében.
 (5) Az előtér-irányító szolgálatnak közvetlen kapcsolatot kell fenntartania a repülőtéri légiforgalmi szolgálattal.
 
 (6) A járművek és a személyek az előtéren csak úgy mozoghatnak, hogy elkerüljék az összeütközést a légijárművekkel. Az ezzel összefüggésben a repülőtéren alkalmazandó részletes szabályokat a repülőtérrend tartalmazza.
+
+[^71]: A 23. § (1) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés g) pontja szerint módosított szöveg.

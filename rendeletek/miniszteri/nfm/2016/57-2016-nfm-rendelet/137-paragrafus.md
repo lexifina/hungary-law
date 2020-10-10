@@ -20,11 +20,11 @@ a) ugyanazt a futópályát használják a 6. melléklet 1.1. pontban foglalt á
 
 b) 760 m-nél kisebb oldaltávolságú párhuzamos futópályákat használnak a 6. melléklet 1.1. pontban foglalt ábra szerint,
 
-c) keresztező futópályákat használnak, és a másodiknak felszálló légijármű tervezett repülési pályája keresztezni fogja az elsőnek elindult légijármű tervezett repülési pályáját ugyanazon a magasságon, vagy kevesebb mint 1000 lábbal (300 m) alatta, a 6. melléklet 1.2. pontban foglalt ábra szerint,
+c)[^132] keresztező futópályákat használnak, és a másodiknak felszálló légijármű tervezett repülési pályája keresztezni fogja az elsőnek elindult légijármű tervezett repülési pályáját ugyanazon a magasságon, vagy kevesebb mint 1000 lábbal (300 m) alatta, a 6. melléklet 1.1. pontjában foglalt ábra szerint,
 
-d) 760 m-nél nagyobb oldaltávolságú párhuzamos futópályákat használnak, és a másodiknak felszálló légijármű tervezett repülési pályája keresztezni fogja az elsőnek elindult légijármű tervezett repülési pályáját ugyanazon a magasságon, vagy kevesebb, mint 1000 lábbal (300 m) alatta, a 6. melléklet 1.2. pontban foglalt ábra szerint.
+d)[^133] 760 m-nél nagyobb oldaltávolságú párhuzamos futópályákat használnak, és a másodiknak felszálló légijármű tervezett repülési pályája keresztezni fogja az elsőnek elindult légijármű tervezett repülési pályáját ugyanazon a magasságon, vagy kevesebb, mint 1000 lábbal (300 m) alatta, a 6. melléklet 1.1. pontjában foglalt ábra szerint.
 
-(5) Az ATC egységnek az (1) bekezdésben foglaltak kivételével legalább három perc elkülönítést kell biztosítania nehéz turbulencia kategóriájú légijármű mögött felszálló könnyű vagy közepes turbulencia kategóriájú légijármű, vagy egy közepes turbulencia kategóriájú légijármű mögött felszálló könnyű turbulencia kategóriájú légijármű között, ha a másodiknak felszálló légijármű, a 6. melléklet 1.3. pontban foglalt ábra szerint:
+(5)[^134] Az ATC egységnek az (1) bekezdésben foglaltak kivételével legalább három perc elkülönítést kell biztosítania nehéz turbulencia kategóriájú légijármű mögött felszálló könnyű vagy közepes turbulencia kategóriájú légijármű, vagy egy közepes turbulencia kategóriájú légijármű mögött felszálló könnyű turbulencia kategóriájú légijármű között, ha a másodiknak felszálló légijármű, a 6. melléklet 1.1. pontjában foglalt ábra szerint:
 
 a) ugyanannak a futópályának vagy
 
@@ -40,6 +40,12 @@ b) a nehéz turbulencia kategóriájú felszálló légijárművet könnyű vagy
 
 (7) Az ATC egységnek az (1) bekezdésben foglaltak kivételével ellentétes irányú üzemelés esetén két perc elkülönítési minimumot kell biztosítani a nehéz turbulencia kategóriájú légijárművet követő könnyű vagy közepes turbulencia kategóriájú légijármű, valamint a közepes turbulencia kategóriájú légijárművet követő könnyű turbulencia kategóriájú légijármű között, ha a nehezebb légijármű alacsony áthúzást vagy megszakított megközelítést hajt végre, és a könnyebb légijármű
 
-a) a felszálláshoz a futópálya ellentétes irányát használja a 6. melléklet 1.4. pontban foglalt ábra szerint, vagy
+a)[^135] a felszálláshoz a futópálya ellentétes irányát használja a 6. melléklet 1.1. pontjában foglalt ábra szerint, vagy
 
-b) ugyanarra a futópályára ellentétes irányból száll le, illetve egy olyan párhuzamos futópályára hajt végre ellentétes irányú leszállást, amely 760 m-nél kisebb oldaltávolságra helyezkedik el, a 6. melléklet 1.5. pontban foglalt ábra szerint.
+b)[^136] ugyanarra a futópályára ellentétes irányból száll le, illetve egy olyan párhuzamos futópályára hajt végre ellentétes irányú leszállást, amely 760 m-nél kisebb oldaltávolságra helyezkedik el, a 6. melléklet 1.1. pontjában foglalt ábra szerint.
+
+[^132]: A 137. § (4) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^133]: A 137. § (4) bekezdés d) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^134]: A 137. § (5) bekezdés nyitó szövegrésze a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^135]: A 137. § (7) bekezdés a) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^136]: A 137. § (7) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés d) pontja szerint módosított szöveg.

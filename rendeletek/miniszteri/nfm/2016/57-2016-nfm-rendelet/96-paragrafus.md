@@ -1,7 +1,12 @@
-## 95. § A magasságra vonatkozó engedélynek – a 71. alcímben és a 154. § (5) bekezdésében meghatározott standard indulási és érkezési engedély kivételével – a 351. § (4) bekezdésben meghatározottakat kell tartalmaznia.
+## 95. §[^109] A magasságra vonatkozó engedélynek – a 71. alcímben és a 76. alcímben meghatározott standard indulási és érkezési engedély kivételével – a 351. § (4) bekezdésben meghatározottakat kell tartalmaznia.
 
-96. § (1) Az útvonalat vagy magasságot érintő módosításra vonatkozó kérés engedélyezésekor az engedélynek tartalmaznia kell a pontos módosítást.
+96. § (1)[^110]
 
-(2) Ha a forgalmi körülmények nem teszik lehetővé a kért módosítás engedélyezését, a „NEM ENGEDÉLYEZHETEM” („UNABLE”) kifejezést kell alkalmazni. Ha a körülmények indokolják, alternatív útvonalat vagy más magasságot kell felajánlani.
+(2)[^111]
 
-(3) Ha a légiforgalmi irányító alternatív útvonalat ajánl fel, és azt a légijármű elfogadja, a módosított engedélyben kiadott új útvonalba bele kell foglalni azt a pontot, ahol a légijármű visszatér a korábban engedélyezett útvonalára. Ha a légijármű a továbbiakban nem csatlakozik a korábbi útvonalára, akkor a módosított engedélyt a rendeltetési repülőtérig kell kiadni.
+(3)[^112] Ha a légiforgalmi irányító a SERA rendelet melléklet 8. szakasz SERA.8015 pont ea) alpontjában meghatározott alternatív útvonalat ajánl fel, és azt a légijármű elfogadja, a módosított engedélyben kiadott új útvonalba bele kell foglalni azt a pontot, ahol a légijármű visszatér a korábban engedélyezett útvonalára. Ha a légijármű a továbbiakban nem csatlakozik a korábbi útvonalára, akkor a módosított engedélyt a rendeltetési repülőtérig kell kiadni.
+
+[^109]: A 95. § a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés w) pontja szerint módosított szöveg.
+[^110]: A 96. § (1) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § f) pontja hatályon kívül helyezte.
+[^111]: A 96. § (2) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § f) pontja hatályon kívül helyezte.
+[^112]: A 96. § (3) bekezdése a 33/2020. (X. 5.) ITM rendelet 45. §-ával megállapított szöveg.

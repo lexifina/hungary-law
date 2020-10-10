@@ -6,13 +6,13 @@ b) a körzeti ATS egységeket kiszolgáló meteorológiai iroda,
 
 c) az érdekelt légijármű üzemben tartók,
 
-d) a Légtérgazdálkodó Csoport (a továbbiakban: AMC),
+d)[^92] a légtérgazdálkodó egység (a továbbiakban: AMC),
 
 e) a mentés koordinálására kijelölt szerv,
 
 f) a körzeti ATS egységeket kiszolgáló NOTAM iroda,
 
-g) Légiforgalmi Áramlásszervező egység (a továbbiakban: FMP).
+g)[^93] légiforgalmi áramlásszervező egység (a továbbiakban: FMP).
 
 (2) A bevezető irányító egységnek és a repülőtéri irányító toronynak a felelősségi területén belül szolgálatot ellátó következő egységekkel kell biztosítania azösszeköttetés:
 
@@ -41,3 +41,6 @@ d) FMP.
 (4) Az (1) bekezdés a) pontjában és (2) bekezdés a) pontjában meghatározott összeköttetéshez használt eszközöknek gyors és megbízható összeköttetést kell biztosítaniuk az érintett ATS egységek és azon katonai repülésirányító egységek között, amelyek az ATS egységek felelősségi területén belül az elfogási műveletek irányításáért felelősek.
 
 (5) A veszélyes légtér közzétett üzemideje alatt a veszélyes légtérben folyó tevékenység koordinációjáért felelős személynek megfelelő kommunikációs összeköttetéssel kell rendelkeznie az érintett légiforgalmi szolgálati egységekkel, annak érdekében, hogy – ha egy kényszerhelyzetbe került légijármű biztonsága ezt megköveteli, vagy betegszállítással és az élet mentésével kapcsolatos be- és átrepülési igény merül fel – a veszélyes tevékenység felfüggeszthető legyen.
+
+[^92]: Az 50. § (1) bekezdés d) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés q) pontja szerint módosított szöveg.
+[^93]: Az 50. § (1) bekezdés g) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés q) pontja szerint módosított szöveg.

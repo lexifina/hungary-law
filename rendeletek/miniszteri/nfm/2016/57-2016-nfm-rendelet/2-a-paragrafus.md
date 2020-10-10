@@ -1,0 +1,1 @@
+## 2. § E rendelet rendelkezéseit a Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló miniszteri rendelettel (a továbbiakban: repülési rendelet), valamint a 923/2012/EU bizottsági végrehajtási rendelettel (a továbbiakban: SERA rendelet) összhangban kell alkalmazni.

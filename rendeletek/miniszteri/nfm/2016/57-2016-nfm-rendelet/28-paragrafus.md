@@ -16,4 +16,6 @@ e) bármely más, a légijármű üzemeltetése szempontjából lényegesnek ít
 
 (3) A léginavigációval kapcsolatos módosítás bevezetése előtt a légiforgalmi szolgálat figyelembe veszi az AIS időszükségletét a tájékoztatások összeállításához és kiadásához. Az érintett szervezetek és szolgálatok a tájékoztatás AIS-nak való mielőbbi átadása érdekében együttműködnek.
 
-(4) Az olyan módosítások esetén, amelyeket az AIS-nek a nemzetközileg elfogadott Légiforgalmi Tájékoztató Közlemények Szabályozott Kiadási Rendszere (Aeronautical Information Regulation And Control, a továbbiakban: AIRAC) szerint kell kiadnia, ideértve a térképeket vagy a számítógépes navigációs rendszereket érintő léginavigációs tájékoztatásokat, fokozott figyelmet kell fordítani a határidők betartásához szükséges feladatokra, a nemzetközileg előzetesen egyeztetett AIRAC hatálybalépési időpontokra.
+(4)[^74] Az olyan módosítások esetén, amelyeket az AIS-nek a nemzetközileg elfogadott légiforgalmi tájékoztató közlemények meghatározott kiadási rendje (Aeronautical Information Regulation And Control, a továbbiakban: AIRAC) szerint kell kiadnia, ideértve a térképeket vagy a számítógépes navigációs rendszereket érintő léginavigációs tájékoztatásokat, fokozott figyelmet kell fordítani a határidők betartásához szükséges feladatokra, a nemzetközileg előzetesen egyeztetett AIRAC hatálybalépési időpontokra.
+
+[^74]: A 28. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés h) pontja szerint módosított szöveg.

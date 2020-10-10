@@ -26,6 +26,8 @@ a) a repülőtéri légiforgalmi irányító, aki a futópályán lévő forgalo
 
 b) a gurító irányító, aki a munkaterület forgalmáért felelős, a futópályák kivételével,
 
-c) az engedélyt továbbító – ahol ilyen munkahelyet létesítettek –, aki az induló IFR forgalom részére a hajtómű indítási és ATC engedélyek továbbításáért felelős.
+c)[^139] az engedélyt továbbító irányító – ahol ilyen munkahelyet létesítettek –, aki az induló IFR forgalom részére a hajtómű indítási és ATC engedélyek továbbításáért felelős.
 
 (4) Ahol párhuzamos vagy közel párhuzamos futópályákat használnak egyidejű üzemelésre, szükség szerint futópályánként külön repülőtéri légiforgalmi irányító felelős az egyes futópályákon történő működésért.
+
+[^139]: A 174. § (3) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés f) pontja szerint módosított szöveg.

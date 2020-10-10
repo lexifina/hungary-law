@@ -1,6 +1,6 @@
 39. § (1) Ha több légiforgalmi irányító szolgálat feladatát egy légiforgalmi irányító egység látja el, a 38. §-ban meghatározottakat nem kell alkalmazni.
 
-(2) A légijármű irányítási felelősségének átadásához az átvevő irányító egység vagy szektor előzetes beleegyezése szükséges, amely a (2) bekezdésben meghatározottak szerint szerezhető be.
+(2)[^86] A légijármű irányítási felelősségének átadásához az átvevő irányító egység vagy szektor előzetes beleegyezése szükséges, amely a (3)–(5) bekezdésekben meghatározottak szerint szerezhető be.
 
 (3) Az átadó irányító egységnek vagy szektornak tájékoztatnia kell az átvevő irányító egységet vagy szektort az érvényes repülési terv vonatkozó részeiről, és meg kell adnia minden kért, az átadásra vonatkozó irányítói tájékoztatást.
 
@@ -15,3 +15,5 @@ b) közölnie kell bármely egyéb, a repülés következő szakaszára vonatkoz
 (6) Az átvevő irányító egységnek vagy szektornak tájékoztatnia kell az átadó irányító egységet vagy szektort, ha kétirányú beszédüzemű, adatkapcsolat összeköttetést vagy mindkettőt létesített az érintett légijárművel és átveszi annak irányítását, kivéve, ha a két érintett egység között együttműködési megállapodás vagy munkahelyi előírás eltérően rendelkezik.
 
 (7) Az alkalmazandó koordinálási eljárásokat, beleértve az irányítás átadásának pontjait is, együttműködési megállapodásokban vagy munkahelyi előírásokban kell szabályozni.
+
+[^86]: A 39. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés m) pontja szerint módosított szöveg.

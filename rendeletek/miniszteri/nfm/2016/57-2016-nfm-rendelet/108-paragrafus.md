@@ -2,18 +2,20 @@
 
 (2) Az ATS egységeknél a légijárműveknek való továbbítás céljából mindig rendelkezésre kell állnia a felelősségük alá tartozó, valamint a szomszédos FIR-re és az irányító körzetekre vonatkozó, megfelelő számú QNH jelentésnek vagy nyomás előrejelzésnek.
 
-(3) A süllyedésben lévő légijármű számára az átváltási szintet még azelőtt kell továbbítani, mielőtt azt eléri. Ez a tájékoztatás biztosítható beszédüzemű összeköttetéssel, ATIS adásban vagy adatkapcsolat útján.
+(3)[^118] A SERA rendelet melléklet 8. szakasz SERA.8015 pont eb) pont 2. alpontjában meghatározott tájékoztatás biztosítható beszédüzemű összeköttetéssel, ATIS adásban vagy adatkapcsolat útján.
 
 (4) Ha a megközelítési engedélyt az átváltási szint felett működő légijárműnek adják, a megközelítési engedélynek tartalmaznia kell az átváltási szintet is.
 
-(5) A QNH magasságmérő beállítási értéket meg kell adni a süllyedési engedélyben, ha a légijárművet először engedélyezik az átváltási szint alatti valamely tengerszint feletti magasságra, a bevezetési vagy a forgalmi körbe való belépési engedélyekben, valamint az induló légijárművek gurulási engedélyében, kivéve, ha ismert, hogy a légijármű már vette ezt a tájékoztatást.
+(5)[^119]
 
-(6) A légijármű számára kérésre vagy a munkahelyi előírásoknak megfelelően állandó jelleggel meg kell adni a QFE magasságmérő beállítást. Ennek az értéknek mindig a repülőtér tengerszinthez viszonyított magasságára kell vonatkoznia, kivéve:
+(6)[^120]
 
-a) azokat a nem-precíziós futópályákat, ahol a küszöb 7 lábbal (2 méterrel) vagy többel a repülőtér tengerszinthez viszonyított magassága alatt van,
+(7)[^121]
 
-b) az olyan futópályákat, amelyekre precíziós megközelítéseket hajtanak végre.
+(8)[^122] A légijármű részére adott magasságmérő beállítási értékeket a legközelebbi alacsonyabb, teljes hektopascal értékre kerekítve kell megadni.
 
-(7) A (6) bekezdés a)–b) pontban meghatározott esetekben a QFE értéket a vonatkozó futópálya küszöbére kell megadni.
-
-(8) A légijármű részére adott magasságmérő beállítási értékeket a legközelebbi alacsonyabb, teljes hectopascal értékre kerekítve kell megadni.
+[^118]: A 108. § (3) bekezdése a 33/2020. (X. 5.) ITM rendelet 46. §-ával megállapított szöveg.
+[^119]: A 108. § (5) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § i) pontja hatályon kívül helyezte.
+[^120]: A 108. § (6) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § i) pontja hatályon kívül helyezte.
+[^121]: A 108. § (7) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § i) pontja hatályon kívül helyezte.
+[^122]: A 108. § (8) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés a) pontja szerint módosított szöveg.

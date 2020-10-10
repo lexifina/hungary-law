@@ -1,13 +1,11 @@
 ## 93. Felhatalmazás különleges VFR repülések végrehajtására
 
-217. § (1) Ha a forgalmi körülmények lehetővé teszik, a (4) bekezdésben meghatározottak figyelembevételével kérésre felhatalmazás adható különleges VFR repülések végrehajtására.
+217. §[^143] (1) A Budapest CTR-ben végrehajtandó különleges VFR repülésre vonatkozó rendelkezéseket a SERA rendelet melléklet 5. szakasz SERA.5010 pontja határozza meg.
 
-(2) Az (1) bekezdés szerinti felhatalmazásra irányuló kéréseket egyedileg kell kezelni.
+(2) A SERA rendelet melléklet 5. szakasz SERA.5010 pontjában meghatározott különleges VFR repülés éjszaka is végrehajtható.
 
-(3) A X. Fejezetben és XI. Fejezetben meghatározott elkülönítési minimumokat kell biztosítani valamennyi IFR repülés és különleges VFR repülés között, valamint valamennyi különleges VFR repülés között.
+(3) A X. és XI. Fejezetben meghatározott elkülönítési minimumokat kell biztosítani valamennyi IFR és különleges VFR repülés között, valamint valamennyi különleges VFR repülés között.
 
-(4) Ha a földi látástávolság legalább 1500 m, a különleges VFR repülést végrehajtó légijármű felhatalmazható, hogy a CTR-be belépjen leszállás vagy átrepülés céljából, vagy hogy a CTR-ből közvetlenül elinduljon vagy abban helyi repülést végezzen.
+(4) A SERA rendelet melléklet 5. szakasz SERA.5010 pont c) pont 1. alpontjában előírtnál kisebb földi látástávolság esetén az állami célú repülést, a kutató-mentő repülést, a légijárművel végzett egészségügyi mentőrepülést, valamint a légi tűzoltást végzők számára engedélyezhető helikopterrel különleges VFR repülés végrehajtása, ha az ilyen repülések végrehajtására vonatkozó eljárásokat az illetékes ATC egység és az érintett légijárművek üzemben tartói között együttműködési eljárásban rögzítették.
 
-(5) A (4) bekezdésben előírtnál kisebb földi látástávolság esetén csak az állam- és vagyonvédelemmel, kutatással és mentéssel, valamint a sürgős betegszállítással, az életmentéssel, az átültetendő szervek, vérplazma és gyógyszerek szállításával kapcsolatos, valamint az ezeknek a rendeltetési repülőtérről történő elszállítása érdekében végzett helikopter-repülések részére engedélyezhető különleges VFR repülés végrehajtása, ha az ilyen repülések végrehajtására vonatkozó eljárásokat az illetékes ATC egység és az érintett légijárművek üzemben tartói között együttműködési eljárásban rögzítették.
-
-(6) Budapest CTR-ben a különleges VFR repülésre vonatkozó rendelkezéseket a SERA rendelet SERA.5010 pontja határozza meg.
+[^143]: A 217. § a 33/2020. (X. 5.) ITM rendelet 49. §-ával megállapított szöveg.

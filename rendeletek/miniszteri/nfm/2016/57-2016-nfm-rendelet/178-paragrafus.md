@@ -1,9 +1,5 @@
-## 82. Első összeköttetés a repülőtéri irányító toronnyal
+## 82.[^141]
 
-## 178. § Repülőtéri irányító szolgáltatásban részesülő légijárműnek a repülőtéri irányító toronnyal való első összeköttetéskor a következő adatokat kell közölnie:
+178. §
 
-a) a hívott állomás megnevezése,
-
-b) légijármű hívójele, és nehéz turbulencia kategóriájú légijármű esetén a „HEAVY” kifejezés,
-
-c) a légijármű helyzete.
+[^141]: A 82. alcímet (178. §) a 33/2020. (X. 5.) ITM rendelet 62. § m) pontja hatályon kívül helyezte.

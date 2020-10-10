@@ -1,4 +1,4 @@
-## 141. § A 2. és 3. mellékletben meghatározott elkülönítési minimumok Budapest FIR-ben a 111. alcímben meghatározottnak megfelelően csökkenthetők, ha gyors és megbízható összeköttetési eszközökön túlmenően az illetékes ATC egység számára ATS felderítő rendszeren alapuló légijármű helyzettájékoztatás áll rendelkezésre.
+## 141. § Az ATS felderítő rendszer alkalmazásán alapuló elkülönítési módszereket és minimumokat a 112., 113., 117. és 118. alcímek határozzák meg.
 
 ## XI. Fejezet
 

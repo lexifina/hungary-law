@@ -6,4 +6,6 @@
 
 (3) A repüléstájékoztató és légiforgalmi tanácsadó szolgálatban részesített légijármű parancsnokának felelősségét a repülési rendelet 45. § (3) bekezdése határozza meg.
 
-(4) A repüléstájékoztató és légiforgalmi tanácsadó egységek nem adnak engedélyeket, kizárólag a „tanácsolni” vagy „javasolni” kifejezéseket használják.
+(4)[^88]
+
+[^88]: A 43. § (4) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § b) pontja hatályon kívül helyezte.
