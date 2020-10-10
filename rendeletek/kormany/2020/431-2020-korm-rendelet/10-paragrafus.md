@@ -1,4 +1,4 @@
-## 9. § Az 1. §, a 2. § (3) és (4) bekezdése, a 4. § (5) bekezdése, az 5. §, a 6. § (2) bekezdése és a 7. § (1) bekezdése szerinti rendelkezés a Szabstv. 239/A. § (1) bekezdésében meghatározott védelmi intézkedés megszegése szabálysértés alkalmazásában védelmi intézkedésnek minősül.
+## 9. §[^6] Az 1. §, a 2. § (3) és (4) bekezdése, a 4. § (5) bekezdése, az 5. §, a 6. § (2) bekezdése, a 7. § (1) bekezdése és a 7/A. § szerinti rendelkezés a Szabstv. 239/A. § (1) bekezdésében meghatározott védelmi intézkedés megszegése szabálysértés alkalmazásában védelmi intézkedésnek minősül.
 
 10. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -7,3 +7,5 @@
 (3) A 3. § az e rendelet kihirdetését követő 15. napon lép hatályba.
 
 (4) A 4. § és az 5. § 2020. október 1-jén lép hatályba.
+
+[^6]: A 9. § a 453/2020. (X. 9.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.

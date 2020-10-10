@@ -16,12 +16,20 @@ c) gondoskodni e személynek a tömegközlekedési eszközről történő leszá
 
 (5) Az (1), (3) és (4) bekezdésben meghatározott kötelezettség betartását
 
-a) az 1. § (1) bekezdés a), d) és f)–i) pontja esetében a fővárosi és megyei kormányhivatal,
+a)[^1]
 
 b) az 1. § (1) bekezdés b), c) és e) pontja esetében a kereskedelmi hatóság
 
 ## köteles ellenőrizni.
 
-(6) Az (1), (3) és (4) bekezdésben meghatározott kötelezettség betartását az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) is ellenőrizheti.
+(6)[^2] Az (1), (3) és (4) bekezdésben meghatározott kötelezettség betartását
 
-(7) Ha a rendőrség az ellenőrzés során az (1), (3) vagy (4) bekezdés szerinti kötelezettség megsértését észleli, az üzemeltető figyelmét erre felhívja, és az esetről az (5) bekezdés a) vagy b) pontja szerinti hatáskörrel rendelkező szervet értesíti.
+a) – a b) pont szerinti kivétellel – az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) ellenőrzi,
+
+b) az 1. § (1) bekezdés b), c) és e) pontja esetében a rendőrség is ellenőrizheti.
+
+(7)[^3] Ha a rendőrség az ellenőrzés során az (1), (3) vagy (4) bekezdés szerinti kötelezettség megsértését észleli, az üzemeltető figyelmét erre felhívja, és az esetről az (5) bekezdés b) pontja szerinti hatáskörrel rendelkező szervet értesíti.
+
+[^1]: A 2. § (5) bekezdés a) pontját a 453/2020. (X. 9.) Korm. rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (6) bekezdése a 453/2020. (X. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (7) bekezdése a 453/2020. (X. 9.) Korm. rendelet 4. § (5) bekezdés b) pontja szerint módosított szöveg.
