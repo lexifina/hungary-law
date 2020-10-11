@@ -1,5 +1,3 @@
-## 14. § Az R4. 8. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 14. §[^15]
 
-## (Műrepülés hajtható végre)
-
-## „b) TRA-ban,”
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

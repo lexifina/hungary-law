@@ -1,1 +1,3 @@
-## „A repülési terv az átvételre kijelölt egység által meghatározottak – vagy az AIP-ben közzétettek – szerint benyújtható:”
+## 17. §[^18]
+
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

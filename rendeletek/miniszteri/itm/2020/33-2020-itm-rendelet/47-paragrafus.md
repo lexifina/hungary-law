@@ -1,3 +1,3 @@
-## 46. § Az R5. 108. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 46. §[^47]
 
-## „(3) A SERA rendelet melléklet 8. szakasz SERA.8015 pont eb) pont 2. alpontjában meghatározott tájékoztatás biztosítható beszédüzemű összeköttetéssel, ATIS adásban vagy adatkapcsolat útján.”
+[^47]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

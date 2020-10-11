@@ -1,3 +1,3 @@
-## 47. § Az R5. 127. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 47. §[^48]
 
-## „(1) Függőleges vagy vízszintes elkülönítést kell biztosítani a SERA rendelet melléklet 8. szakasz SERA.8005 pont b) pontjában foglalt esetekben, továbbá MCTR és MTMA légterekben végrehajtott GAT repülés esetén az IFR, valamint IFR és VFR repülések között.”
+[^48]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

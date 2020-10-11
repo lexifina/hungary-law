@@ -1,3 +1,3 @@
-## „171. TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic Information Zone);
+## 36. §[^37]
 
-## 172. TMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 37. pontjában meghatározott fogalom (Terminal Control Area);”
+[^37]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

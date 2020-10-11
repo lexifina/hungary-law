@@ -1,3 +1,3 @@
-## 44. § Az R5. 94. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 44. §[^45]
 
-## „(4) RNAV 1 képességű területi navigációs berendezéssel fel nem szerelt állami légijárműveket vagy az olyan légijárműveket, amelyek területi navigációs berendezése meghibásodott, nem területi navigációs berendezés használatán alapuló SID-eken és STAR-okon kell vezetni.”
+[^45]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

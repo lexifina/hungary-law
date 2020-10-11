@@ -1,5 +1,3 @@
-## lép.
+## 60. §[^61]
 
-61. § (1) Az R5. 3. melléklete a 6. melléklet szerint módosul.
-
-(2) Az R5. 15. melléklete a 7. melléklet szerint módosul.
+[^61]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

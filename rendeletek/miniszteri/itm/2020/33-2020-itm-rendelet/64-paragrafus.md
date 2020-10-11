@@ -1,3 +1,3 @@
-## 63. § A légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásáról szóló 21/2019. (VIII. 2.) ITM rendelet (a továbbiakban: R6.) 38. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 63. §[^64]
 
-## „(1) A 73/2010/EU bizottsági rendelet 6. cikk (1) bekezdésében és IV. melléklet A. részében meghatározott adatminőségi követelmények teljesítése érdekében az IAIP AIC-n kívüli elemeiben közzétett légiforgalmi adatok és tájékoztatások, Magyarország légiközlekedési terep és akadály adatbázisának elektronikus terep és akadály adatai, valamint a repülőtéri térképészeti adatok minősége megfelel az EUROCONTROL-nak az Adatminőségi követelmények leírásáról szóló, Specification for Data Quality Requirements (a továbbiakban: DQR) elnevezésű dokumentumában foglalt követelményeknek. A DQR-t a közlekedésért felelős miniszter közlemény formájában közzéteszi a Hivatalos Értesítőben.”
+[^64]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

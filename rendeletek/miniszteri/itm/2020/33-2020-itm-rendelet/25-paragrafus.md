@@ -1,5 +1,3 @@
-## 24. § Az R4. 48. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
+## 24. §[^25]
 
-## (Ha egy ellenőrzött repülést végrehajtó légijármű hirtelen dekompresszió vagy egyéb meghibásodás következtében kényszersüllyedést hajt végre, a légijárműnek – ha lehetőség van rá – a következők szerint kell eljárnia:)
-
-## „c) a SERA rendelet melléklet 13. szakasz SERA.13005 pont a) alpont 1. alpontjában meghatározottak végrehajtásán túl, ha CPDLC rendszerrel rendelkezik, ki kell választania a kényszerhelyzeti módot,”
+[^25]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

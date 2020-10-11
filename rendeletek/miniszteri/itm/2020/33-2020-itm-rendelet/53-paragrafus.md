@@ -1,3 +1,3 @@
-## 52. § Az R5. 256. § (11) bekezdése helyébe a következő rendelkezés lép:
+## 52. §[^53]
 
-## „(11) A várakozó és más légijárművek közötti vízszintes elkülönítést az illetékes légiforgalmi szolgáltató az illetékességi légterében alkalmazandó radar elkülönítésre csökkentheti, ha dokumentált repülésbiztonsági értékelés alapján az elkülönítés megfelel az elfogadható repülésbiztonsági szintnek.”
+[^53]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## 43. § Az R5. 45. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 43. §[^44]
 
-## (Budapest FIR-ben a riasztó szolgálatot)
-
-## „b) közepes tengerszint felett (a továbbiakban: AMSL) mért 9500 láb (2900 m) magasság alatti nem ellenőrzött légterekben üzemelő légijárművek számára a c) alpontban foglaltak kivételével a körzeti repüléstájékoztató szolgálatot ellátó egységnek,”
-
-## (kell ellátnia.)
+[^44]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

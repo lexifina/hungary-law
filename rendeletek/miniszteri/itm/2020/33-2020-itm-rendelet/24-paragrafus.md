@@ -1,1 +1,3 @@
-## „(2) A transzponderrel felszerelt, jogellenes beavatkozás alatt álló légijármű a transzponder beállításokra vonatkozóan a SERA rendelet melléklet 13. szakaszában, a légiforgalmi szolgálati rendeletben, valamint az ICAO PANS-OPS (Doc 8168) című kiadványában a jogellenes beavatkozások esetére meghatározott eljárásokat követi.”
+## 23. §[^24]
+
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
