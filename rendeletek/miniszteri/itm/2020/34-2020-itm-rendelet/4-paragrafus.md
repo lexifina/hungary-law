@@ -1,3 +1,3 @@
-## 3. § A tengeri hajók felszereléseinek alapvető követelményeiről, megfelelőségük tanúsításáról és a piacfelügyeleti eljárásról szóló 45/2016. (XI. 11.) NFM rendelet (a továbbiakban: R2.) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^2]
 
-## „(2) E rendelet hatálybalépésének időpontjában vagy azt követően hajó fedélzetén elhelyezett tengerészeti felszerelésnek meg kell felelnie a tengerészeti felszerelésekre vonatkozó tervezési, gyártási és teljesítménykövetelményekről és vizsgálati előírásokról, valamint az (EU) 2018/773 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. augusztus 6-i (EU) 2019/1397 bizottsági végrehajtási rendelet [a továbbiakban: (EU) 2019/1397 bizottsági végrehajtási rendelet] mellékletében megjelölt nemzetközi dokumentumok tervezési, gyártási és teljesítménykövetelményeinek.”
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
