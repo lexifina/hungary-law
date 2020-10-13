@@ -1,6 +1,6 @@
-63. § (1)[^44] Ha az adózó az EFER igénybevételével történő házibankos befizetést választja, az adóhatóság megküldi a felosztási rendelkezés befogadásáról szóló igazolást az adózó elektronikus tárhelyére.
+63. § (1)[^46] Ha az adózó az EFER igénybevételével történő házibankos befizetést választja, az adóhatóság megküldi a felosztási rendelkezés befogadásáról szóló igazolást az adózó elektronikus tárhelyére.
 
-(2)[^45] Az adóhatóság a fizetés kezdeményezésekor az EFER részére megadja:
+(2)[^47] Az adóhatóság a fizetés kezdeményezésekor az EFER részére megadja:
 
 a) a fizetendő összeget,
 
@@ -10,7 +10,7 @@ c) a terhelendő fizetési számla számát,
 
 d) a pénzforgalmi szolgáltató számára szükséges azonosító adatokat,
 
-e)[^46] az előkészített fizetési megbízás adóhatóság által meghatározott érvényességi idejét,
+e)[^48] az előkészített fizetési megbízás adóhatóság által meghatározott érvényességi idejét,
 
 f) az EFER elszámolási számla számát, és
 
@@ -22,6 +22,6 @@ g) tételes elszámolású fizetési kötelezettség esetén a határozatszámot
 
 (5) A házibank igénybevételével történő átutalás költsége az adózót terheli.
 
-[^44]: A 63. § (1) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
-[^45]: A 63. § (2) bekezdés nyitó szövegrésze a 260/2019. (XI. 7.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
-[^46]: A 63. § (2) bekezdés e) pontja a 260/2019. (XI. 7.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
+[^46]: A 63. § (1) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
+[^47]: A 63. § (2) bekezdés nyitó szövegrésze a 260/2019. (XI. 7.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
+[^48]: A 63. § (2) bekezdés e) pontja a 260/2019. (XI. 7.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
