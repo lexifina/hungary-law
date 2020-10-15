@@ -1,14 +1,8 @@
 ## 16. § Az alapfelszerelési illetmény összege 48 x 1, az utánpótlási illetmény összege 12 x 1 havi részre bontható. A jogosultságot hónapokra kerekítve, időarányosan kell megállapítani. Minden megkezdett hónapot egész hónapnak kell tekinteni.
 
-17. § (1) Az alapfelszerelési és az utánpótlási ruházati utalványfüzet 4 évig, a nyugdíjas ruházati utalványfüzet a tárgyévet követő év december 31-ig, a pót ruházati utalványfüzet a betelt ruházati utalványfüzettel megegyező ideig, de legfeljebb a szolgálati viszony megszűnésének, megszüntetésének napjáig érvényes.
+17. § (1)[^4] Az alapfelszerelési és az utánpótlási ruházati utalványfüzet 6 évig, a nyugdíjas ruházati utalványfüzet a tárgyévet követő év december 31-ig, a pót ruházati utalványfüzet a betelt ruházati utalványfüzettel megegyező ideig, de legfeljebb a szolgálati viszony megszűnésének, megszüntetésének napjáig érvényes.
 
-(2) A ruházati utalványfüzet – ide nem értve a nyugdíjas ruházati utalványfüzetet – érvényességi ideje az érvényességének lejártát követő 3 hónapon belül az érvényesség lejártát követő 12 hónappal, de legfeljebb a szolgálati viszony megszűnésének, megszüntetésének napjáig egy alkalommal meghosszabbítható, a következő korlátozások figyelembevételével:
-
-a) a meghosszabbítás kizárólag 1000 forint feletti illetménymaradvány esetén engedélyezhető;
-
-b) a ruházati utalványfüzet meghosszabbított érvényességi idejének bejegyzését a szakmai főnök hajtja végre;
-
-c)[^4] meghosszabbított ruházati utalványfüzetből pénzbeli juttatás nem teljesíthető, kivéve azt az esetet, ha a jogosult szolgálati viszonya a Hjt. 59. § (1) bekezdés a) pontja alapján szűnik meg.
+(2)[^5] Az alapfelszerelési és utánpótlási ruházati utalványfüzetek fedőlapján az érvényességi idő bejegyzését a szakmai főnök hajtja végre.
 
 (3) Az éves utánpótlási ruházati illetmény összege indokolt esetben előrehozható, a következő szabályok szerint:
 
@@ -20,6 +14,8 @@ c) előrehozott utánpótlási ruházati utalványfüzetből pénzbeli juttatás
 
 (4) A ruházati utalványfüzet elvesztését a károsultnak és az ellátó honvédelmi szervezetnek a ruházati szolgálat központi ellátást és raktározást végrehajtó szervezeti eleme felé együttesen írásban, haladéktalanul be kell jelentenie, amely intézkedik az utalványfüzet letiltása érdekében.
 
-(5) A nyugdíjas ruházati utalványfüzet meghosszabbítása nem engedélyezhető.
+(5)[^6]
 
-[^4]: A 13. § (2) bekezdés c) pontja a 9/2016. (VI. 29.) HM rendelet 8. §-ával megállapított szöveg.
+[^4]: A 17. § (1) bekezdése a 14/2020. (X. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 17. § (2) bekezdése a 14/2020. (X. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 17. § (5) bekezdését a 14/2020. (X. 14.) HM rendelet 3. § a) pontja hatályon kívül helyezte.

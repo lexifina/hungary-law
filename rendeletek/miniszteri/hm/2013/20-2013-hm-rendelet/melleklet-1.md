@@ -1,4 +1,4 @@
-## 29–30. §[^6]
+## 31. §[^10] E rendeletnek a ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosításáról szóló 14/2020. (X. 14.) HM rendelettel megállapított rendelkezéseit a 2015. évi és azt követő ruházati illetményeket tartalmazó utalványfüzetek vonatkozásában kell alkalmazni.
 
 1. melléklet a 20/2013. (IX. 16.) HM rendelethez
 
@@ -362,4 +362,4 @@ Megjegyzés:
 
 (6) Helyettesíthető cikként 2008 M általános bakancs is kiadható
 
-[^6]: A 29–30. §-t a 23/2016. (XII. 21.) HM rendelet 5. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 6. §-a.
+[^10]: A 31. §-t a 14/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
