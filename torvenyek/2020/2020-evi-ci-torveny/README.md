@@ -1,0 +1,7 @@
+# 2020. évi CI. törvény a Magyarország Kormánya és a Közép- és Kelet-Európai Regionális Környezetvédelmi Központ közötti Székhely-megállapodás megszüntetéséről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-101-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2020-10-15 | 2020. évi CI. törvény | 2020-101-00-00.0 (közlönyállapot) |
