@@ -1,6 +1,6 @@
-## 54. §[^160] A 28. § és a 46. § az állomány tagjának megbízása esetén is alkalmazható.
+## 54. §[^163] A 28. § és a 46. § az állomány tagjának megbízása esetén is alkalmazható.
 
-55. §[^161]
+55. §[^164]
 
-[^160]: Az 54. §-t a 4/2015. (VI. 22.) HM rendelet 29. § d) pontja hatályon kívül helyezte, újonnan a 10/2016. (VI. 29.) HM rendelet 13. §-a iktatta be.
-[^161]: Az 55. §-t a 4/2015. (VI. 22.) HM rendelet 29. § d) pontja hatályon kívül helyezte.
+[^163]: Az 54. §-t a 4/2015. (VI. 22.) HM rendelet 29. § d) pontja hatályon kívül helyezte, újonnan a 10/2016. (VI. 29.) HM rendelet 13. §-a iktatta be.
+[^164]: Az 55. §-t a 4/2015. (VI. 22.) HM rendelet 29. § d) pontja hatályon kívül helyezte.

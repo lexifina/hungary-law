@@ -1,3 +1,3 @@
-98. § (1) A központi személyügyi szerv minden év január 31-éig – az önálló munkaköri jegyzékkel, illetve állománytáblával rendelkező honvédségi szervezetek személyügyi szerveivel együttműködve – összeállítja az adott évben a központi előmenetel-tervezés során feltölthető beosztások jegyzékét.
+98. §[^233]
 
-(2) Az (1) bekezdés szerinti jegyzéken szereplő beosztásokra az állományilletékes parancsnok előzetesen jelöltet állíthat.
+[^233]: A 98. §-t a 13/2020. (X. 14.) HM rendelet 32. § 10. pontja hatályon kívül helyezte.

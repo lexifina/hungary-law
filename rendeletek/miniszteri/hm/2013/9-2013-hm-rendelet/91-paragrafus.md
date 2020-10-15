@@ -2,20 +2,11 @@
 
 (2) A minősítő vizsga sikertelen, ha a vizsgázó szerzett pontszáma nem éri el a szerezhető pontszám legalább 51%-át.
 
-(3)[^205] A minősítő vizsgák eredményét a tárgyévben legkésőbb december 15-ig a KGIR rendszerben rögzíteni kell.
+(3)[^213] A minősítő vizsgák eredményét a tárgyévben legkésőbb december 15-ig a KGIR rendszerben rögzíteni kell.
 
-(4)[^206] A minősítő vizsga eredménye a vizsga évét közvetlenül követő 4 évben vehető figyelembe. Ettől eltérően a tárgyévben tett minősítő vizsga eredménye is figyelembe vehető
-
-a) a Hjt. 77. § (1a) bekezdés a)–c) pontja szerinti szolgálati beosztásokban a rendszeresített rendfokozat eléréséig történő előléptetésnél,
-
-b)[^207] a 106. § szerinti esetben,
-
-c) a Hjt. 247/B. §-a szerinti esetben, vagy
-
-d) az MH PK engedélyével, közvetlenül a kinevezést megelőzően.
+(4)[^214] A minősítő vizsga eredménye a vizsga évében és a vizsga évét közvetlenül követő 4 évben vehető figyelembe.
 
 (5) Minősítő vizsga évente legfeljebb 2 alkalommal tehető. Az előmenetel során a sikeres vizsgák közül – az eredménytől függetlenül – a később tett minősítő vizsga eredménye vehető figyelembe.
 
-[^205]: A 91. § (3) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § h) pontja szerint módosított szöveg.
-[^206]: A 91. § (4) bekezdése a 20/2018. (XII. 28.) HM rendelet 26. §-ával megállapított szöveg.
-[^207]: [A 91. § (4) bekezdés b) pontjában a 20/2018. (XII. 28.) HM rendelet 72. § 8. pontjával elrendelt módosítás, amely szerint hatályát veszti a „vagy” szövegrész, nem vezethető át.]
+[^213]: A 91. § (3) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § h) pontja szerint módosított szöveg.
+[^214]: A 91. § (4) bekezdése a 13/2020. (X. 14.) HM rendelet 15. §-ával megállapított szöveg.

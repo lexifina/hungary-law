@@ -8,6 +8,6 @@ c) őr- és ügyeleti szolgálat után – a Hjt. 207. § (1) bekezdés d) pontj
 
 d) a b) és a c) pont szerint járó pihenőidő és szabadnap a külföldi szolgálatra vezénylés lejárta után nem érvényesíthető, és pénzben nem váltható meg, és
 
-e)[^362] az állomány tagja túlszolgálat, valamint őr-, ügyeleti és készenléti szolgálat után túlszolgálati díjra és illetménypótlékra nem jogosult.
+e)[^385] az állomány tagja túlszolgálat, valamint őr-, ügyeleti és készenléti szolgálat után túlszolgálati díjra és illetménypótlékra nem jogosult.
 
-[^362]: A 207. § e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 42. pontja szerint módosított szöveg.
+[^385]: A 207. § e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 42. pontja szerint módosított szöveg.

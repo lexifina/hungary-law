@@ -1,4 +1,4 @@
-## 31/D. [^265] Előre nem látott körülmények repülés közben
+## 31/D. [^284] Előre nem látott körülmények repülés közben
 
 117/G. § (1) A parancsnok
 
@@ -22,4 +22,4 @@ e) megküldi a jelentés üzembentartói záradékkal ellátott példányát az 
 
 (3) Az üzembentartó a művelet típusára vonatkozó típusalkalmassági előírásoknak megfelelően az előre nem látott körülmények esetére az üzembentartási kézikönyvben meghatározza a késleltetett jelentkezésre vonatkozó eljárásokat.
 
-[^265]: A 31/D. alcímet (117/G. §) a 20/2018. (XII. 28) HM rendelet 44. §-a iktatta be.
+[^284]: A 31/D. alcímet (117/G. §) a 20/2018. (XII. 28) HM rendelet 44. §-a iktatta be.

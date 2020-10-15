@@ -40,7 +40,7 @@ c) a megállapított eseti illetménypótlék megnevezését, a pótlék összeg
 
 d) a megállapított eseti kiegészítő illetmény megnevezését, és annak összegét.
 
-(4)[^76] Szerződéses pályakezdő esetén az (1) bekezdés b) pontjának alkalmazása szempontjából a tervezett beosztását kell figyelembe venni.
+(4)[^76]
 
 [^70]: A 17. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^71]: A 17. § (1) bekezdés d) pontja a 25/2016. (XII. 22.) HM rendelet 45. § a) pontja szerint módosított szöveg.
@@ -48,4 +48,4 @@ d) a megállapított eseti kiegészítő illetmény megnevezését, és annak ö
 [^73]: A 17. § (2) bekezdés a) pontja a 10/2016. (VI. 29.) HM rendelet 7. §-ával megállapított szöveg.
 [^74]: A 17. § (2) bekezdés c) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 16. pontja szerint módosított szöveg.
 [^75]: A 17. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 17. pontja szerint módosított szöveg.
-[^76]: A 17. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 6. § (2) bekezdése iktatta be.
+[^76]: A 17. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 13/2020. (X. 14.) HM rendelet 32. § 2. pontja.

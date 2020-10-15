@@ -4,11 +4,11 @@
 
 (2) A felmentés indokolása utólag nem módosítható, nem egészíthető ki.
 
-(3)[^176] A felmentési idő a felmentésről szóló jognyilatkozat közlését követően egyoldalúan nem módosítható.
+(3)[^179] A felmentési idő a felmentésről szóló jognyilatkozat közlését követően egyoldalúan nem módosítható.
 
-(3a)[^177] A munkáltatói jogkört gyakorló a Hjt. 62. § (1) bekezdés szerinti felmentést az állomány tagjának beleegyezésével a felmentési idő utolsó napjáig visszavonhatja.
+(3a)[^180] A munkáltatói jogkört gyakorló a Hjt. 62. § (1) bekezdés szerinti felmentést az állomány tagjának beleegyezésével a felmentési idő utolsó napjáig visszavonhatja.
 
 (4) A Hjt. 62. § (1) bekezdés a) és b) pontja kivételével a javaslati laphoz csatolni kell a felmentés okszerűségét bizonyító okmányokat.
 
-[^176]: A 65. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 45. § c) pontja szerint módosított szöveg.
-[^177]: A 65. § (3a) bekezdését a 20/2018. (XII. 28.) HM rendelet 21. §-a iktatta be.
+[^179]: A 65. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 45. § c) pontja szerint módosított szöveg.
+[^180]: A 65. § (3a) bekezdését a 20/2018. (XII. 28.) HM rendelet 21. §-a iktatta be.

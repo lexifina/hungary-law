@@ -1,5 +1,11 @@
 67. § (1) A személyügyi eljárás során az átvevő munkáltató kérésére – az állomány tagja hozzájárulása esetén – az érintett személyi okmánya az átvevő munkáltató részére betekintésre megküldhető.
 
-(2)[^180] Az állomány Hjt. 46. § (1) bekezdés r) vagy s) pontja szerinti rendelkezési állományba tartozó tagja más jogviszonyba történő áthelyezésének elősegítése érdekében a központi személyügyi szerv folyamatosan vizsgálja az üres és a megüresedő honvédelmi alkalmazotti, közalkalmazotti munkaköröket.
+(2)[^183] A Honvédség központi személyügyi szerve az üres vagy megüresedő munkakörbe történő kinevezés érdekében folyamatosan vizsgálja, hogy van-e olyan, a Hjt. 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba tartozó katona, akinek iskolai végzettsége, szakképzettsége, szakképesítése alapján az üres vagy megüresedő honvédelmi alkalmazotti munkakör felajánlható.
 
-[^180]: A 67. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 10. pontja, a 4/2020. (II. 28.) HM rendelet 19. § a) pontja szerint módosított szöveg.
+(3)[^184] A Honvédség központi személyügyi szerve írásban tájékoztatja a Hjt. 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba tartozó katonát az iskolai végzettségének és szakképzettségének, szakképesítésének megfelelő üres vagy megüresedő honvédelmi alkalmazotti munkakörről. A Hjt. 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba tartozó katona a tájékoztatás közlésétől számított 5 munkanapon belül írásban nyilatkozik a munkakörben történő továbbfoglalkoztatási lehetőség igénybevételéről. Ha a Hjt. 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba tartozó katona a határidő leteltéig a nyilatkozattételt elmulasztja, azt úgy kell tekinteni, hogy a továbbfoglalkoztatási lehetőséget nem veszi igénybe.
+
+(4)[^185] A továbbfoglalkoztatását kérő Hjt. 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba tartozó katonáról a Honvédség központi személyügyi szerve tájékoztatja a munkáltatót. Ha a Hjt. 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba tartozó katona az (1) bekezdés szerinti munkakör ellátására alkalmas, a munkáltató kinevezi, feltéve, hogy a kinevezést megelőző napon szolgálati viszonya megszűnik.
+
+[^183]: A 67. § (2) bekezdése a 13/2020. (X. 14.) HM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^184]: A 67. § (3) bekezdését a 13/2020. (X. 14.) HM rendelet 12. § (2) bekezdése iktatta be.
+[^185]: A 67. § (4) bekezdését a 13/2020. (X. 14.) HM rendelet 12. § (2) bekezdése iktatta be.

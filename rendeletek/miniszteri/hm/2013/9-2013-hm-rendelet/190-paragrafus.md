@@ -1,6 +1,6 @@
 ## 53. A vezénylésről szóló munkáltatói döntés formai és tartalmi követelményei
 
-190. §[^354] (1) A külföldi szolgálatra vezénylés a 13. §-on túl tartalmazza különösen
+190. §[^377] (1) A külföldi szolgálatra vezénylés a 13. §-on túl tartalmazza különösen
 
 a) az állomány tagjának hazai szolgálati beosztását, beosztási azonosítóját,
 
@@ -14,4 +14,4 @@ e) az 1. § 10. pont a), d)–f) alpontja szerinti külföldi szolgálat esetén
 
 (2) Az (1) bekezdés a) pontját a KNBSZ-nél szolgálatot teljesítőkre nem kell alkalmazni.
 
-[^354]: A 190. § a 20/2018. (XII. 28) HM rendelet 54. §-ával megállapított szöveg.
+[^377]: A 190. § a 20/2018. (XII. 28) HM rendelet 54. §-ával megállapított szöveg.

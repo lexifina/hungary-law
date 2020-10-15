@@ -2,13 +2,13 @@
 
 66. § (1) Más jogviszonyba történő áthelyezésről szóló megállapodás megkötését az állomány tagja, az állományilletékes parancsnok vagy az átvevő munkáltató kezdeményezheti azzal, hogy
 
-a)[^178] az állomány tagja kérelmét a munkáltatói jogkört gyakorlóhoz nyújthatja be,
+a)[^181] az állomány tagja kérelmét a munkáltatói jogkört gyakorlóhoz nyújthatja be,
 
 b) az állomány tagja az a) pont szerinti kérelméhez köteles csatolni az átvevő munkáltató előzetes egyetértését, és
 
 c) az a) pont alá nem tartozó kezdeményezéshez az állomány tagjának beleegyezése szükséges.
 
-(2)[^179] Ha nem az állományilletékes parancsnok a munkáltatói jogkört gyakorló, az állományilletékes parancsnok a más jogviszonyba történő áthelyezést az MH PK előzetes egyetértésével kezdeményezheti.
+(2)[^182] Ha nem az állományilletékes parancsnok a munkáltatói jogkört gyakorló, az állományilletékes parancsnok a más jogviszonyba történő áthelyezést az MH PK előzetes egyetértésével kezdeményezheti.
 
 (3) A javaslati laphoz csatolni kell
 
@@ -16,5 +16,5 @@ a) az (1) bekezdés a) pontja esetén az állomány tagjának kérelmét és az 
 
 b) a más jogviszonyba történő áthelyezésről előkészített megállapodást.
 
-[^178]: A 66. § (1) bekezdés a) pontja a 10/2016. (VI. 29.) HM rendelet 28. § 3. pontja szerint módosított szöveg.
-[^179]: A 66. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^181]: A 66. § (1) bekezdés a) pontja a 10/2016. (VI. 29.) HM rendelet 28. § 3. pontja szerint módosított szöveg.
+[^182]: A 66. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.

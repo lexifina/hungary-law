@@ -18,10 +18,10 @@ g) a honvéd jogállásával összefüggő jogainak érvényesítése és kötel
 
 h) a Hjt. 38. § (4) bekezdése esetén próbaidős rendfokozat elvesztéséről.
 
-(1a)[^128] A Hjt. 36. § (1a) bekezdése szerinti állomány esetében az (1) bekezdés szerinti tájékoztatást az (1) bekezdés d), e), g) és h) pontja szerinti tartalomra nézve kell megadni. A tájékoztatást az (1) bekezdés b), c), illetve f) pontja szerinti tartalomra nézve is meg kell adni, ha a szabadság megállapítására és kiadására a Honvédségnél irányadó szabályokat kell a vezényelt esetében alkalmazni, illetve az (1) bekezdés c) és f) pontja szerinti járandóságok költsége a Honvédséget terheli.
+(1a)[^131] A Hjt. 35. § (2) bekezdése szerinti állomány esetében az (1) bekezdés szerinti tájékoztatást az (1) bekezdés d), e), g) és h) pontja szerinti tartalomra nézve kell megadni. A tájékoztatást az (1) bekezdés b), c), illetve f) pontja szerinti tartalomra nézve is meg kell adni, ha a szabadság megállapítására és kiadására a Honvédségnél irányadó szabályokat kell a vezényelt esetében alkalmazni, illetve az (1) bekezdés c) és f) pontja szerinti járandóságok költsége a Honvédséget terheli.
 
 (2) Az (1) bekezdés a)–c), és f) pontja szerinti tájékoztatás megadható az érintett adatokra irányadó jogszabály, közjogi szervezetszabályozó eszköz vagy belső rendelkezés rendelkezésére történő hivatkozással.
 
 (3) Az (1) bekezdés g) pontja szerinti tájékoztatásra az Adat tv. rendelkezéseire történő hivatkozással kerül sor.
 
-[^128]: A 33. § (1a) bekezdését a 10/2017. (VIII. 31.) HM rendelet 8. §-a iktatta be.
+[^131]: A 33. § (1a) bekezdését a 10/2017. (VIII. 31.) HM rendelet 8. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 31. § d) pontja szerint módosított szöveg.

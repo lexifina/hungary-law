@@ -1,4 +1,4 @@
-## VI. Fejezet[^259]
+## VI. Fejezet[^278]
 
 ## SZOLGÁLATTELJESÍTÉSI IDŐ
 
@@ -12,9 +12,9 @@
 
 (4) A munkáltatói jogkört gyakorló a szolgálatteljesítési idő adott napra vonatkozó beosztását – továbbá szolgálatteljesítési időkeret alkalmazása esetén a heti pihenőnap kijelölését – előre nem látható körülmény esetén legalább kettő nappal korábban módosíthatja. A módosítást az állomány tagjával a helyben szokásos módon kell közölni.
 
-(5)[^260] Az állományilletékes parancsnok az állomány általános szolgálati rendben szolgálatot teljesítő tagjának indokolt kérelmére legfeljebb 1 évre, a napi szolgálatteljesítési idő kezdő és befejező időpontját érintően eltérő munkarendet is engedélyezhet, feltéve, hogy az engedély megadása a honvédelmi szervezet működőképességének fenntartását nem akadályozza.
+(5)[^279] Az állományilletékes parancsnok az állomány általános szolgálati rendben szolgálatot teljesítő tagjának indokolt kérelmére legfeljebb 1 évre, a napi szolgálatteljesítési idő kezdő és befejező időpontját érintően eltérő munkarendet is engedélyezhet, feltéve, hogy az engedély megadása a honvédelmi szervezet működőképességének fenntartását nem akadályozza.
 
-(6)[^261] A Hjt. 98. § (1) bekezdése szerinti katonai szakmai felkészítésnek minősül
+(6)[^280] A Hjt. 98. § (1) bekezdése szerinti katonai szakmai felkészítésnek minősül
 
 a) a katonai végzettséggel nem rendelkezők tiszti alaptanfolyama,
 
@@ -30,6 +30,6 @@ f) a KNBSZ főigazgatója által belső rendelkezésben meghatározott szakmai t
 
 g) a Hjt. 216. § (3) bekezdése szerinti, az önkéntes tartalékos beosztásra történő felkészítése.
 
-[^259]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.
-[^260]: A 117/A. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 23. §-a iktatta be.
-[^261]: A 117/A. § (6) bekezdését a 4/2020. (II. 28.) HM rendelet 9. §-a iktatta be.
+[^278]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.
+[^279]: A 117/A. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 23. §-a iktatta be.
+[^280]: A 117/A. § (6) bekezdését a 4/2020. (II. 28.) HM rendelet 9. §-a iktatta be.

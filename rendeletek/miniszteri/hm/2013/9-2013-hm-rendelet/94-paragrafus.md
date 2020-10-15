@@ -1,23 +1,8 @@
-94. § (1) A tiszti vagy az altiszti állomány előmenetelének tervezése
+94. § (1)[^229] A tiszti és az altiszti állomány előmenetelének tervezése helyi szinten, a honvédelmi szervezeten belül vagy a honvédelmi szervezetek között történik.
 
-a) őrnagy vagy annál magasabb rendfokozattal rendszeresített szolgálati beosztások, valamint a zászlósi rendfokozati csoportba tartozó szolgálati beosztások esetében központi szinten,
-
-b) az a) ponttól eltérő rendfokozattal rendszeresített szolgálati beosztások esetében helyi szinten
-
-ba) a honvédségi szervezeten belül vagy
-
-bb) a honvédségi szervezetek között
-
-történik.
-
-(2) Nem kell alkalmazni az (1) bekezdésben foglaltakat
-
-a) a tábori lelkészi szolgálat beosztásai,
-
-b) az oktatás, képzés, kiképzés munkakörcsalád miniszteri utasításban meghatározott egyes fegyvernemi, szakági azonosítója szerinti beosztások és
-
-c) a külszolgálati munkakörcsaládokba tartozó szolgálati beosztások, továbbá az 1 évet meghaladó külföldi szolgálatra történő vezénylések
-
-esetében.
+(2)[^230] Az előmenetel tervezését a feltölthető beosztás szerinti honvédelmi szervezet személyügyi szerve hajtja végre.
 
 (3) A KNBSZ az előmenetel tervezését saját hatáskörében hajtja végre.
+
+[^229]: A 94. § (1) bekezdése a 13/2020. (X. 14.) HM rendelet 17. §-ával megállapított szöveg.
+[^230]: A 94. § (2) bekezdése a 13/2020. (X. 14.) HM rendelet 17. §-ával megállapított szöveg.

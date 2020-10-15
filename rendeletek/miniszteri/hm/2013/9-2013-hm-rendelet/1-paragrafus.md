@@ -12,7 +12,7 @@
 
 3. elöljáró parancsnok: az állományilletékes parancsnok szolgálati elöljárója,
 
-4.[^1]
+4.[^1] értékelő központ (Assessment Center): a vezetői beosztásba jelöltek képességeinek feltárására szolgáló kiválasztási módszer, amely lehetőséget biztosít az előre meghatározott kompetenciák vizsgálatára,
 
 5. fegyelmi vizsgálat: azon eljárási cselekmények összessége, amelyek a fegyelmi jogkört gyakorló döntését megalapozó, a fegyelemsértéssel összefüggő tények, valamint a súlyosító és enyhítő körülmények feltárásához szükségesek, vagy azt elősegítik,
 
@@ -70,7 +70,7 @@ o)[^9] Magyarországon kívül települő, szövetségesi területen vagy légt�
 
 13.[^13]
 
-14.[^14] szakmai felelős: a miniszter által kijelölt, a munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős személy, honvédelmi szervezet vagy annak szervezeti egysége,
+14.[^14] szakmai felelős: a miniszter által kijelölt, az egyes munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős szervezet, szervezeti egység vagy e jogkörrel felruházott személy,
 
 14a.[^15] szektor: a repülési szolgálati idő azon szakasza, amely a légijármű első felszállási célú megmozdulásától a kijelölt parkolóhelyen történő leállásáig tart,
 
@@ -84,7 +84,7 @@ o)[^9] Magyarországon kívül települő, szövetségesi területen vagy légt�
 
 16.[^19] tanulmányi támogatás: a vezénylésben vagy a tanulmányi szerződésben rögzített, a Honvédség által az állomány tagjának a tanulmányai folytatásához jogszabályban meghatározottak szerint nyújtott juttatás.
 
-[^1]: Az 1. § 4. pontját a 12/2018. (VII. 27.) HM rendelet 23. § a) pontja hatályon kívül helyezte.
+[^1]: Az 1. § 4. pontját a 12/2018. (VII. 27.) HM rendelet 23. § a) pontja hatályon kívül helyezte, újonnan a 13/2020. (X. 14.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § 5a. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 6. pontja a 4/2020. (II. 28.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 7. pontját a 10/2017. (VIII. 31.) HM rendelet 26. § a) pontja hatályon kívül helyezte, újonnan a 12/2018. (VII. 27.) HM rendelet 3. §-a iktatta be.
@@ -97,7 +97,7 @@ o)[^9] Magyarországon kívül települő, szövetségesi területen vagy légt�
 [^11]: Az 1. § 10b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
 [^12]: Az 1. § 11. pontja a 10/2015. (VII. 30.) HM rendelet 82. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
 [^13]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
-[^14]: Az 1. § 14. pontja a 20/2018. (XII. 28.) HM rendelet 1. § (4) bekezdésével megállapított, a 4/2020. (II. 28.) HM rendelet 18. § a) pontja szerint módosított szöveg.
+[^14]: Az 1. § 14. pontja a 13/2020. (X. 14.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^15]: Az 1. § 14a. pontját a 10/2016. (VI. 29.) HM rendelet 1. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^16]: Az 1. § 14b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (6) bekezdése iktatta be.
 [^17]: Az 1. § 15a. pontját a 25/2016. (XII. 22.) HM rendelet 16. § (1) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 1. pontja szerint módosított szöveg.

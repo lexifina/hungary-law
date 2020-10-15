@@ -8,10 +8,10 @@
 
 (2) A legénységi állomány azon tagja, aki a Honvédség által szervezett, a kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, kérelmének megfelelően hivatásos állományba vehető.
 
-(3)[^85] A Hjt. 32. § (1) bekezdés d) pontja szerint hivatásos szolgálati viszonyt létesíteni kérelemre azzal a személlyel lehet, aki a hivatásos állományba vételt közvetlenül megelőzően, legalább 2 év egybefüggő tiszti, illetve altiszti szerződéses szolgálati viszonnyal, önkéntes tartalékos szolgálati viszonnyal, honvédelmi szervezettel fennálló kormányzati szolgálati jogviszonnyal, honvédelmi alkalmazotti jogviszonnyal, közalkalmazotti jogviszonnyal vagy munkaviszonnyal rendelkezik.
+(3)[^85]
 
-(4)[^86] A (3) bekezdés szerinti korlátozástól szolgálati érdekből az MH PK engedélyével el lehet térni.
+(4)[^86]
 
 [^84]: A 19. § a 10/2017. (VIII. 31.) HM rendelet 4. §-ával megállapított szöveg.
-[^85]: A 19. § (3) bekezdését a 20/2018. (XII. 28.) HM rendelet 9. §-a iktatta be.
-[^86]: A 19. § (4) bekezdését a 20/2018. (XII. 28.) HM rendelet 9. §-a iktatta be.
+[^85]: A 19. § (3) bekezdését a 20/2018. (XII. 28.) HM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 13/2020. (X. 14.) HM rendelet 32. § 3. pontja.
+[^86]: A 19. § (4) bekezdését a 20/2018. (XII. 28.) HM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 13/2020. (X. 14.) HM rendelet 32. § 3. pontja.

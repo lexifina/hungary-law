@@ -6,6 +6,6 @@
 
 (4) A pályázatot az állományilletékes parancsnok írja ki.
 
-(5)[^127] A (4) bekezdéshez a központi személyügyi szerv vezetőjének előzetes engedélye szükséges, kivéve, ha az állományilletékes parancsnoki jogkört az MH PK gyakorolja.
+(5)[^130]
 
-[^127]: A 29. § (5) bekezdése a 20/2018. (XII. 28.) HM rendelet 14. §-ával megállapított szöveg.
+[^130]: A 29. § (5) bekezdését a 13/2020. (X. 14.) HM rendelet 32. § 6. pontja hatályon kívül helyezte.

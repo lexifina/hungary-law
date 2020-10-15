@@ -1,6 +1,6 @@
-119/A. § (1)[^266] A számított napi szolgálatteljesítési időnek a nyolc órához viszonyított arányával szorozva kell teljesítettként figyelembe venni a nem tényleges munkaköri feladatellátást jelentő igénybevétel – így különösen a kiképzési foglalkozás, a fizikai állapotfelmérés, az alkalmassági vizsgálat, a, a vezénylés alapján ellátott szolgálati feladat – időtartamát, kivéve az őr-, ügyeleti, laktanyai készenléti szolgálatot és a gyakorlatot.
+119/A. § (1)[^285] A számított napi szolgálatteljesítési időnek a nyolc órához viszonyított arányával szorozva kell teljesítettként figyelembe venni a nem tényleges munkaköri feladatellátást jelentő igénybevétel – így különösen a kiképzési foglalkozás, a fizikai állapotfelmérés, az alkalmassági vizsgálat, a, a vezénylés alapján ellátott szolgálati feladat – időtartamát, kivéve az őr-, ügyeleti, laktanyai készenléti szolgálatot és a gyakorlatot.
 
-(1a)[^267] Az (1) bekezdéstől eltérően, a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladatra vezénylés esetén a számított napi szolgálatteljesítési idővel kell teljesítettként figyelembe venni a 119. § (1) és (2) bekezdés szerinti munkanapokat. Az ettől eltérő napokat az elszámolás során nem lehet figyelembe venni.
+(1a)[^286] Az (1) bekezdéstől eltérően, a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladatra vezénylés esetén a számított napi szolgálatteljesítési idővel kell teljesítettként figyelembe venni a 119. § (1) és (2) bekezdés szerinti munkanapokat. Az ettől eltérő napokat az elszámolás során nem lehet figyelembe venni.
 
 (2) A számított napi szolgálatteljesítési idővel kell teljesítettként figyelembe venni a munkanapokra eső
 
@@ -10,13 +10,13 @@ b) a Hjt. 107. §-a szerinti pihenőidő,
 
 c) gyakorlat,
 
-d)[^268] szabadság, szabadnap, továbbá szolgálatteljesítési kötelezettség alóli egy vagy több munkanapra történő mentesülés,
+d)[^287] szabadság, szabadnap, továbbá szolgálatteljesítési kötelezettség alóli egy vagy több munkanapra történő mentesülés,
 
-e)[^269] egészségügyi szabadság,
+e)[^288] egészségügyi szabadság,
 
-f)[^270] a Hjt. 131. § (1) bekezdése szerinti illetmény visszatartását megalapozó távollét, valamint
+f)[^289] a Hjt. 131. § (1) bekezdése szerinti illetmény visszatartását megalapozó távollét, valamint
 
-g)[^271] a Hjt. 42. § (2) bekezdés g) pontja szerinti vezénylés
+g)[^290] a Hjt. 42. § (2) bekezdés g) pontja szerinti vezénylés
 
 időtartamát.
 
@@ -30,7 +30,7 @@ időtartamát.
 
 a) a szolgálati viszony megszűnésének, megszüntetésének, szünetelésének,
 
-b)[^272] a szolgálatteljesítési időkeret befejező időpontján túlhaladó időtartamú
+b)[^291] a szolgálatteljesítési időkeret befejező időpontján túlhaladó időtartamú
 
 ba) illetmény nélküli szabadság igénybevételének,
 
@@ -38,7 +38,7 @@ bb) a Hjt. 42. § (2) bekezdés f) pontja szerinti vezénylés,
 
 c) a szülési szabadság igénybevételének,
 
-d) a Hjt. 46. § (1) bekezdés a)–e), g)–j), k)–m), p), r)–u) pontja szerinti rendelkezési állományba helyezés,
+d)[^292] a Hjt. 46. § (1) bekezdés a)–m), p), r)–u) pontja szerinti rendelkezési állományba helyezés,
 
 e) a szolgálatteljesítési időkeret változásával vagy mellőzésével járó beosztásba helyezés, illetve más honvédelmi szervezethez történő áthelyezés, kinevezés, és
 
@@ -48,10 +48,11 @@ kezdő napjával.
 
 (7) A szolgálatteljesítési időkeret megszakadása esetén az állomány tagjával – az időkeret tartamának kezdő időpontjától a megszakadásig eltelt, 119. § (2) bekezdése szerinti munkanapok száma és a számított napi szolgálatteljesítési idő szorzata alapján – e § szerint el kell számolni.
 
-[^266]: A 119/A. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 49. § c) pontja szerint módosított szöveg.
-[^267]: A 119/A. § (1a) bekezdését a 18/2015. (XII. 22.) HM rendelet 13. §-a iktatta be.
-[^268]: A 119/A. § (2) bekezdés d) pontja a 18/2015. (XII. 22.) HM rendelet 22. § e) pontja szerint módosított szöveg.
-[^269]: A 119/A. § (2) bekezdés e) pontja a 25/2016. (XII. 22.) HM rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^270]: A 119/A. § (2) bekezdés f) pontja a 25/2016. (XII. 22.) HM rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^271]: A 119/A. § (2) bekezdés g) pontját a 25/2016. (XII. 22.) HM rendelet 34. § (1) bekezdése iktatta be.
-[^272]: A 119/A. § (6) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^285]: A 119/A. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 49. § c) pontja szerint módosított szöveg.
+[^286]: A 119/A. § (1a) bekezdését a 18/2015. (XII. 22.) HM rendelet 13. §-a iktatta be.
+[^287]: A 119/A. § (2) bekezdés d) pontja a 18/2015. (XII. 22.) HM rendelet 22. § e) pontja szerint módosított szöveg.
+[^288]: A 119/A. § (2) bekezdés e) pontja a 25/2016. (XII. 22.) HM rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^289]: A 119/A. § (2) bekezdés f) pontja a 25/2016. (XII. 22.) HM rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^290]: A 119/A. § (2) bekezdés g) pontját a 25/2016. (XII. 22.) HM rendelet 34. § (1) bekezdése iktatta be.
+[^291]: A 119/A. § (6) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^292]: A 119/A. § (6) bekezdés d) pontja a 13/2020. (X. 14.) HM rendelet 31. § h) pontja szerint módosított szöveg.

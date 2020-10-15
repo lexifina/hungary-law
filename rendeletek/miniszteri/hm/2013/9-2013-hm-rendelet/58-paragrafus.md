@@ -24,12 +24,12 @@ a) a szerződéses szolgálati viszony a hivatásos állományba vétel napját 
 
 b) a megszűnést a hivatásos állományba vételről szóló munkáltatói döntésben rögzíteni kell.
 
-(3)[^163] A Hjt. 68. § (1) bekezdés n) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a mentesítést megállapító döntés kiadmányozásától számított 30. nap.
+(3)[^166] A Hjt. 68. § (1) bekezdés n) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a mentesítést megállapító döntés kiadmányozásától számított 30. nap.
 
-(4)[^164] A Hjt. 68. § (1) bekezdés o) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a munkaszerződés megkötését követő 30. nap.
+(4)[^167] A Hjt. 68. § (1) bekezdés o) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a munkaszerződés megkötését, kormányzati szolgálati jogviszony létesítése esetén a kinevezés elfogadását követő 30. nap.
 
-(5)[^165] A Hjt. 68/B. § (4) bekezdés b) pontja szerinti munkaszerződésben a munkaviszony kezdeteként a szolgálati viszony megszűnését követő napot kell meghatározni.
+(5)[^168] A Hjt. 68/B. § (4) bekezdés b) pontja szerinti munkaszerződésben vagy a kormányzati szolgálati jogviszonyba történő kinevezési okmányban a munkaviszony vagy a kormányzati szolgálati jogviszony kezdeteként a szolgálati viszony megszűnését követő napot kell meghatározni.
 
-[^163]: Az 58. § (3) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
-[^164]: Az 58. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
-[^165]: Az 58. § (5) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
+[^166]: Az 58. § (3) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
+[^167]: Az 58. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 11. §-ával megállapított szöveg.
+[^168]: Az 58. § (5) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 11. §-ával megállapított szöveg.
