@@ -6,7 +6,7 @@
 
 |  | 3. | katasztrófavédelmi pótlék, valamint a Hvt. 36. § (1) bekezdés h) pont szerinti feladat végrehajtásáért járó pótlék, naponta | 5,80 |
 
-9. melléklet a 7/2015. (VI. 22.) HM rendelethez[^186]
+9. melléklet a 7/2015. (VI. 22.) HM rendelethez[^202]
 
 ## A honvéd altiszt-jelölt ösztöndíja
 
@@ -48,4 +48,4 @@ III. Tanulmányi pótlék szorzószáma havonta, a honvéd altiszt-jelölt előz
 
 IV. Egyéb pótlék a honvédelmi illetményalap százalékában
 
-[^186]: A 9. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § b) pontja iktatta be.
+[^202]: A 9. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § b) pontja iktatta be.

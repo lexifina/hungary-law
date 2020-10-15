@@ -1,4 +1,4 @@
-## 29/D. [^80] Az egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetmény
+## 29/D. [^88] Az egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetmény
 
 48/D. § (1) Az állomány tagja egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetményre jogosult, ha
 
@@ -16,21 +16,21 @@ b) a Hjt. 65. és 66. §-a szerinti felmentési időre, vagy
 
 c) a Hjt. 147. § (1) bekezdés d) pontja szerinti fenyítés időtartamára.
 
-(3)[^81] Az (1) bekezdés alapján megállapítandó kiegészítő illetmény havi összegét
+(3)[^89] Az (1) bekezdés alapján megállapítandó kiegészítő illetmény havi összegét
 
 a) a betöltött szolgálati beosztás rendszeresített rendfokozatának alapulvételével, egészségügyi munkakör-csoportok szerinti bontásban a 6. mellékletben foglalt táblázat B–E oszlopa szerinti összeg,
 
-b)[^82] a Korm. R. 2016. december 31-én hatályos 3. melléklete szerinti – a betöltött szolgálati beosztás beazonosított közalkalmazotti besorolása alapján figyelembe vett – bérkiegészítés,
+b)[^90] a Korm. R. 2016. december 31-én hatályos 3. melléklete szerinti – a betöltött szolgálati beosztás beazonosított közalkalmazotti besorolása alapján figyelembe vett – bérkiegészítés,
 
-c)[^83] a Korm. R. 4–8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2017. november 1-jei változásából eredő növekmény,
+c)[^91] a Korm. R. 4–8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2017. november 1-jei változásából eredő növekmény,
 
-d)[^84] a Korm. R.
+d)[^92] a Korm. R.
 
 da) 2/A. § (4) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány és a Korm. R. 2. § (1b) bekezdés hatálya alá nem tartozó védőnők esetében a Korm. R. 7. melléklete szerinti garantált illetmény- vagy bértábla szerinti összeg 2019. július 1-jei változásából eredő növekmény,
 
-db)[^85] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2019. július 1-jei változásából eredő növekmény és,
+db)[^93] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2019. július 1-jei változásából eredő növekmény és,
 
-e)[^86] a Korm. R.
+e)[^94] a Korm. R.
 
 ea) 2/A. § (4) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány és a Korm. R. 2. § (1b) bekezdése hatálya alá nem tartozó védőnők esetében a Korm. R. 7. melléklete szerinti garantált illetmény- vagy bértábla szerinti összeg 2020. január 1-jei változásából eredő növekmény,
 
@@ -38,20 +38,20 @@ eb) 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt b
 
 ## együttes összege határozza meg.
 
-(3a)[^87] A (3) bekezdés c) pontjának végrehajtása során 2017. november 1-jei illetmény-növekményként az orvosok és fogorvosok esetében havi bruttó 50 000 Ft-ot, a gyógyszerészek esetében a Korm. R. 5. mellékletében a H fizetési osztályhoz tartozó összegeket kell figyelembe venni.
+(3a)[^95] A (3) bekezdés c) pontjának végrehajtása során 2017. november 1-jei illetmény-növekményként az orvosok és fogorvosok esetében havi bruttó 50 000 Ft-ot, a gyógyszerészek esetében a Korm. R. 5. mellékletében a H fizetési osztályhoz tartozó összegeket kell figyelembe venni.
 
-(4)[^88] A (3) bekezdés alkalmazásakor a 48. § (1a) bekezdése, valamint a Korm. R. 1. §-a figyelembevételével kell eljárni.
+(4)[^96] A (3) bekezdés alkalmazásakor a 48. § (1a) bekezdése, valamint a Korm. R. 1. §-a figyelembevételével kell eljárni.
 
 (5) Ha az állomány (1) bekezdés szerinti tagjának beazonosított közalkalmazotti besorolása változik, a részére korábban az (1) bekezdés alapján kiegészítő illetmény címén megállapított összeget a változás napjával felül kell vizsgálni.
 
 (6) Ha az állomány (1) bekezdés szerinti tagja kikerül az (1) bekezdés hatálya alá tartozó személyi körből, akkor az (1) bekezdés szerinti kiegészítő illetményre a továbbiakban már nem lesz jogosult.
 
-[^80]: A 29/D. alcímet (48/D. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
-[^81]: A 48/D. § (3) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^82]: A 48/D. § (3) bekezdés b) pontja a 10/2019. (X. 4.) HM rendelet 4. § c) pontja szerint módosított szöveg.
-[^83]: A 48/D. § (3) bekezdés c) pontja az 1/2020. (I. 17.) HM rendelet 9. § b) pontja szerint módosított szöveg.
-[^84]: A 48/D. § (3) bekezdés d) pontját a 10/2019. (X. 4.) HM rendelet 2. §-a iktatta be.
-[^85]: A 48/D. § (3) bekezdés d) pont db) alpontja az 1/2020. (I. 17.) HM rendelet 9. § c) pontja szerint módosított szöveg.
-[^86]: A 48/D. § (3) bekezdés e) pontját az 1/2020. (I. 17.) HM rendelet 2. §-a iktatta be.
-[^87]: A 48/D. § (3a) bekezdését a 17/2017. (XII. 18.) HM rendelet 4. § (2) bekezdése iktatta be.
-[^88]: A 48/D. § (4) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^88]: A 29/D. alcímet (48/D. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
+[^89]: A 48/D. § (3) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^90]: A 48/D. § (3) bekezdés b) pontja a 10/2019. (X. 4.) HM rendelet 4. § c) pontja szerint módosított szöveg.
+[^91]: A 48/D. § (3) bekezdés c) pontja az 1/2020. (I. 17.) HM rendelet 9. § b) pontja szerint módosított szöveg.
+[^92]: A 48/D. § (3) bekezdés d) pontját a 10/2019. (X. 4.) HM rendelet 2. §-a iktatta be.
+[^93]: A 48/D. § (3) bekezdés d) pont db) alpontja az 1/2020. (I. 17.) HM rendelet 9. § c) pontja szerint módosított szöveg.
+[^94]: A 48/D. § (3) bekezdés e) pontját az 1/2020. (I. 17.) HM rendelet 2. §-a iktatta be.
+[^95]: A 48/D. § (3a) bekezdését a 17/2017. (XII. 18.) HM rendelet 4. § (2) bekezdése iktatta be.
+[^96]: A 48/D. § (4) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.

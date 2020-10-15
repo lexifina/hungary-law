@@ -14,6 +14,6 @@
 
 | 6 | A légijármű üzemeltetésével nem kapcsolatos, egyéb a fedélzeten elhelyezett berendezések kezelését ellátó beosztás betöltésének idejére | 25 |
 
-5. melléklet a 7/2015. (VI. 22.) HM rendelethez[^182]
+5. melléklet a 7/2015. (VI. 22.) HM rendelethez[^198]
 
-[^182]: Az 5. mellékletet a 18/2015. (XII. 22.) HM rendelet 29. §-a iktatta be.
+[^198]: Az 5. mellékletet a 18/2015. (XII. 22.) HM rendelet 29. §-a iktatta be.

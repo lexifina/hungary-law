@@ -1,6 +1,6 @@
 ## 5. A munkaerő-piaci pótlék
 
-6. § (1)[^18] A Hjt. 128. § (5) bekezdése alapján az állomány tagja részére – a (4), (5), (7) és (7a) bekezdés figyelembevételével – munkaerő-piaci pótlék állapítható meg, ha
+6. § (1)[^21] A Hjt. 128. § (5) bekezdése alapján az állomány tagja részére – a (4), (5), (7) és (7a) bekezdés figyelembevételével – munkaerő-piaci pótlék állapítható meg, ha
 
 a) az általa betöltött beosztás
 
@@ -16,9 +16,9 @@ b) az általa betöltött beosztás szerepel a (4) bekezdés szerinti utasítás
 
 a) a többlet igénybevétel, a magasabb szintű szakmai követelmények, teljesítmény-elvárások, illetve a fokozott irányítási felelősség az állomány tagja részére más illetményelem megállapításával nem ismerhető el, és
 
-b) a pótlék megállapításáról a honvédelemért felelős miniszter (a továbbiakban: miniszter) előzetesen írásbeli döntést hozott.
+b)[^22] a pótlék megállapításáról a miniszter előzetesen írásbeli döntést hozott.
 
-(3)[^19] A (2) bekezdés b) pontja szerinti miniszteri döntésnek a következő adatokat kell tartalmaznia
+(3)[^23] A (2) bekezdés b) pontja szerinti miniszteri döntésnek a következő adatokat kell tartalmaznia
 
 a) – a c) pontban foglalt eset kivételével – a pótlékra jogosult személy
 
@@ -46,7 +46,7 @@ c) az a) pont aa)–ae) alpontjai szerinti adatok hiányában a pótlékra való
 
 (6) A (2) bekezdés szerinti beosztásokat betöltők esetében a munkáltatói jogkört gyakorló – a (2) bekezdés b) pontja szerinti miniszteri döntés alapján – határozott időre, az arra jogosító beosztás betöltésének idejére, de legfeljebb a tárgyév végéig állapítja meg az állomány tagja részére a munkaerő-piaci pótlékot.
 
-(7)[^20] A munkaerő-piaci pótlékot az érintett beosztásokban felül kell vizsgálni
+(7)[^24] A munkaerő-piaci pótlékot az érintett beosztásokban felül kell vizsgálni
 
 a) a (4) bekezdés szerinti utasítás módosítása, és
 
@@ -54,16 +54,17 @@ b) az állomány tagjának szolgálati beosztásából való felfüggesztése
 
 ## esetén.
 
-(7a)[^21] A munkáltatói jogkört gyakorló vezető az (1) bekezdés alapján megállapított munkaerő-piaci pótlékot
+(7a)[^25] A munkáltatói jogkört gyakorló vezető az (1) bekezdés alapján megállapított munkaerő-piaci pótlékot
 
 a) a (7) bekezdés a) pontja szerinti esetben a (4) bekezdés szerinti utasítás ez irányú módosításával összhangban megszünteti vagy a pótlék összegét annak megfelelően módosítja, vagy
 
 b) a (7) bekezdés b) pontja szerinti esetben a szolgálati beosztásból való felfüggesztés időtartamára megszünteti.
 
-(8)[^22] Ha a pótlék megállapításkor figyelembe vett, a (2) bekezdés a) pontja szerinti feltétel a jogosult vonatkozásában már nem, vagy a korábbinál alacsonyabb mértékben áll fenn, a miniszter ez alapján hozott döntése alapján a (2) bekezdés szerint megállapított munkaerő-piaci pótlék – a (3) bekezdés szerinti jogosultsági időtartam lejárta előtt is – megszüntethető, illetve annak összege módosítható.
+(8)[^26] Ha a pótlék megállapításkor figyelembe vett, a (2) bekezdés a) pontja szerinti feltétel a jogosult vonatkozásában már nem, vagy a korábbinál alacsonyabb mértékben áll fenn, a miniszter ez alapján hozott döntése alapján a (2) bekezdés szerint megállapított munkaerő-piaci pótlék – a (3) bekezdés szerinti jogosultsági időtartam lejárta előtt is – megszüntethető, illetve annak összege módosítható.
 
-[^18]: A 6. § (1) bekezdés nyitó szövegrésze a 9/2016. (VI. 29.) HM rendelet 20. § 4. pontja szerint módosított szöveg.
-[^19]: A 6. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 98. §-ával megállapított szöveg.
-[^20]: A 6. § (7) bekezdése a 9/2016. (VI. 29.) HM rendelet 11. §-ával megállapított szöveg.
-[^21]: A 6. § (7a) bekezdését a 9/2016. (VI. 29.) HM rendelet 11. §-a iktatta be.
-[^22]: A 6. § (8) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 5. pontja szerint módosított szöveg.
+[^21]: A 6. § (1) bekezdés nyitó szövegrésze a 9/2016. (VI. 29.) HM rendelet 20. § 4. pontja szerint módosított szöveg.
+[^22]: A 6. § (2) bekezdés b) pontja a 13/2020. (X. 14.) HM rendelet 49. § d) pontja szerint módosított szöveg.
+[^23]: A 6. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 98. §-ával megállapított szöveg.
+[^24]: A 6. § (7) bekezdése a 9/2016. (VI. 29.) HM rendelet 11. §-ával megállapított szöveg.
+[^25]: A 6. § (7a) bekezdését a 9/2016. (VI. 29.) HM rendelet 11. §-a iktatta be.
+[^26]: A 6. § (8) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 5. pontja szerint módosított szöveg.

@@ -6,4 +6,6 @@
 
 (3) Az állomány speciális előmeneteli rendbe tartozó beosztást betöltő tagja esetében a Hjt. 123. § (4) bekezdés f) pontjának alkalmazása során a beosztásban elérhetőnél eggyel alacsonyabb rendfokozatot a beosztás szempontjából irányadó honvédelmi szervezet, illetve a Hjt. 42. § (2) bekezdés d) pontja szerinti nem katonai oktatási intézmény munkaköri jegyzéke, illetve állománytáblája, a beosztásban elérhetőnél eggyel alacsonyabb rendfokozathoz tartozó besorolási kategóriát pedig a Hjt. 5. melléklete figyelembevételével kell megállapítani.
 
-(4) Szerződéses pályakezdő esetén az első tervezett beosztáshoz tartozó alapilletmény összegének – a Hjt. 123. § (4) bekezdés b) és f) pontja alapján történő – megállapítása során a (3) bekezdés figyelembevételével kell eljárni.
+(4)[^103]
+
+[^103]: Az 50. § (4) bekezdését a 13/2020. (X. 14.) HM rendelet 50. §-a hatályon kívül helyezte.
