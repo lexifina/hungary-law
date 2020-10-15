@@ -32,7 +32,7 @@
 
 ## 6. egyetért azzal, hogy a belügyminiszter az 5. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az Önkormányzat részére;
 
-## 7. egyetért a Karcagi Járásbíróság állami tulajdonú ingatlanban történő elhelyezésével, és ennek érdekében felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján – gondoskodjon az ingatlan-nyilvántartás szerinti Karcag belterület 154/2 helyrajzi számú, természetben az 5300 Karcag, Kossuth tér 5. szám alatt található ingatlan tulajdonjogának legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken, – az ingatlanon fennálló, közfeladat- ellátást szolgáló bérleti jogviszonyon és az ingatlan-nyilvántartásba bejegyzett vezetékjogokon felüli – per-, teher- és igénymentesen az állam javára történő megszerzéséről;
+## 7.[^1] egyetért a Karcagi Járásbíróság állami tulajdonú ingatlanban történő elhelyezésével, és ennek érdekében felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján – gondoskodjon az ingatlan-nyilvántartás szerinti Karcag belterület 154/2 helyrajzi számú, természetben az 5300 Karcag, Kossuth tér 5. szám alatt található ingatlan tulajdonjogának legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken az állam javára történő megszerzéséről;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -47,3 +47,5 @@
 ## Határidő: a felmerülés ütemében
 
 1. melléklet az 1263/2020. (V. 28.) Korm. határozathoz
+
+[^1]: A 7. pont az 1664/2020. (X. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
