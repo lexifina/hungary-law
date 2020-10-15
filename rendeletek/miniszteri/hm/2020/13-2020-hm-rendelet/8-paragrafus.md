@@ -1,0 +1,3 @@
+## 7. § Az R1. 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A szolgálati beosztásokat, a szolgálati beosztáshoz kapcsolódó alapvető követelményeket munkaköri jegyzékben, állománytáblában rögzíteni kell. A szolgálati beosztásokhoz kapcsolódó iskolai végzettséget, továbbá a szakképzettséget, a szakképesítést, a szakképzettséget vagy szakképesítést helyettesítő képzettséget (a továbbiakban együtt: szakképzettség), egyéb képzettségi követelményeket, valamint egészségi korlátozásokat és pszichikai alkalmassági követelményeket a 2. melléklet határozza meg. A fizikai alkalmassági követelményeket a honvédek egészségi, pszichikai és fizikai alkalmasságáról szóló jogszabály tartalmazza.”

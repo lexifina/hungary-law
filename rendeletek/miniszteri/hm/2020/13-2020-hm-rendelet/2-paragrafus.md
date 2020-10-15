@@ -1,0 +1,1 @@
+## „14. szakmai felelős: a miniszter által kijelölt, az egyes munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős szervezet, szervezeti egység vagy e jogkörrel felruházott személy,”
