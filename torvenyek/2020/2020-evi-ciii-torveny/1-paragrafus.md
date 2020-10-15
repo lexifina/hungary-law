@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Pakisztáni Iszlám Köztársaság között a kettős adóztatás elkerülésére a jövedelemadók területén Islamabadban, 1992. február 24. napján aláírt Egyezmény (a továbbiakban: Egyezmény) módosításáról szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
