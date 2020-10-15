@@ -2,7 +2,7 @@
 
 34. § (1) Étkezéstérítésre kötelezett beosztásban szolgálatot teljesítőnek, illetve ilyen munkakörben munkát végzőnek minősülnek az MH katonai szervezeteinél
 
-a)[^102] az élelmezési szakterület vezetéséért felelős tiszt, altiszt, honvédelmi alkalmazott, közalkalmazott,
+a)[^103] az élelmezési szakterület vezetéséért felelős tiszt, altiszt, honvédelmi alkalmazott, közalkalmazott,
 
 b) az ellátó-, logisztikai tiszt, altiszt, beosztott altiszt, élelmezési ellátó szakasz-, illetve rajparancsnok,
 
@@ -40,4 +40,4 @@ n) a konyhai-étkezdei anyag-előkészítő, kisegítő és segédmunkás
 
 (5) Azon személyek térítési kötelezettségét, akik élelmezési gazdálkodást nem folytató katonai szervezetnél töltenek be étkezéstérítésre kötelezett beosztást, az állományilletékes parancsnok vagy a munkáltatói jogkör gyakorlója a vezénylési időszakra külön parancsban vagy határozatban állapítja meg.
 
-[^102]: A 34. § (1) bekezdés a) pontja a 8/2019. (VII. 4.) HM rendelet 11. § 33. pontja szerint módosított szöveg.
+[^103]: A 34. § (1) bekezdés a) pontja a 8/2019. (VII. 4.) HM rendelet 11. § 33. pontja szerint módosított szöveg.

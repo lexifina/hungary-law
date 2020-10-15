@@ -8,50 +8,50 @@
 
 (4)[^16] Az Élelmezési alap- és pótnormák általános forgalmi adóval növelt bruttó értéke:
 
-a) I. számú élelmezési norma: 1500 Ft/fő/nap,
+1. I. számú élelmezési norma: 1660 Ft/fő/nap,
 
-b) II. számú élelmezési norma: 1600 Ft/fő/nap,
+2. II. számú élelmezési norma: 1760 Ft/fő/nap,
 
-c) III. számú élelmezési norma: 1900 Ft/fő/nap,
+3. III. számú élelmezési norma: 2080 Ft/fő/nap,
 
-d) V. számú élelmezési norma: 2375 Ft/fő/nap,
+4. V. számú élelmezési norma: 2555 Ft/fő/nap,
 
-e) VI. számú élelmezési norma: 2250 Ft/fő/nap,
+5. VI. számú élelmezési norma: 2520 Ft/fő/nap,
 
-f) START élelmezési pótnorma: 750 Ft/fő/nap,
+6. START élelmezési pótnorma: 750 Ft/fő/nap,
 
-g) pótélelmezési norma a 21. § (1) bekezdés
+7. pótélelmezési norma a 21. § (1) bekezdés
 
-ga) 1–5. pontja szerinti jogosultság esetén: 300 Ft/fő/nap,
+a) 1–5. pontja szerinti jogosultság esetén: 300 Ft/fő/nap,
 
-gb) 6. pontja szerinti jogosultság esetén: 750 Ft/fő,
+b) 6. pontja szerinti jogosultság esetén: 750 Ft/fő,
 
-gc) 7. pontja szerinti jogosultság esetén: 140 Ft/fő/nap,
+c) 7. pontja szerinti jogosultság esetén: 140 Ft/fő/nap,
 
-gd) 8. pontja szerinti jogosultság esetén: 305 Ft/fő,
+d) 8. pontja szerinti jogosultság esetén: 305 Ft/fő,
 
-ge) 9. pontja szerinti jogosultság esetén: 175 Ft/fő,
+e) 9. pontja szerinti jogosultság esetén: 290 Ft/fő,
 
-h) konyha, étkezde felszerelési norma: 40 Ft/fő/nap,
+8. konyha, étkezde felszerelési norma: 40 Ft/fő/nap,
 
-i) tisztítószer norma: 30 Ft/fő/főétkezés,
+9. tisztítószer norma: 30 Ft/fő/főétkezés,
 
-j) tisztálkodó szer norma: 125 Ft/fő/hónap,
+10. tisztálkodószer norma: 125 Ft/fő/hónap,
 
-k) tisztálkodó szer és bőrápoló készítmény norma: 635 Ft/fő/hónap,
+11. tisztálkodószer és bőrápoló készítmény norma: 635 Ft/fő/hónap,
 
-l) repülőműszaki élelmezési támogatás: 19 500 Ft/fő/hónap,
+12. repülőműszaki élelmezési támogatás: 19 500 Ft/fő/ hónap,
 
-m) 2. számú védőital: 60 Ft/fő/nap,
+13. 2. számú védőital: 60 Ft/fő/nap,
 
-n) 3. számú védőital: 110 Ft/fő/nap,
+14. 3. számú védőital: 110 Ft/fő/nap,
 
-o) élelmezési feljavítási norma: 250 Ft/fő/ebédétkezés és
+15. élelmezési feljavítási norma: 250 Ft/fő/ebédétkezés,
 
-p) I. számú élelmezési norma szerinti természetbeni munkahelyi ebéd térítési díja: 600 Ft.
+16. I. számú norma szerinti természetbeni munkahelyi ebéd térítési díja: 660 Ft.
 
 [^12]: A 4. § a 8/2019. (VII. 4.) HM rendelet 3. §-ával megállapított szöveg.
 [^13]: Az 5. § (1) bekezdése a 8/2019. (VII. 4.) HM rendelet 12. § c) pontja szerint módosított szöveg.
 [^14]: Az 5. § (2) bekezdése a 12/2019. (XII. 10.) HM rendelet 8. § a) pontja szerint módosított szöveg.
 [^15]: Az 5. § (3) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 4. pontja szerint módosított szöveg.
-[^16]: Az 5. § (4) bekezdése a 12/2019. (XII. 10.) HM rendelet 2. §-ával megállapított szöveg.
+[^16]: Az 5. § (4) bekezdése a 15/2020. (X. 14.) HM rendelet 1. §-ával megállapított szöveg.

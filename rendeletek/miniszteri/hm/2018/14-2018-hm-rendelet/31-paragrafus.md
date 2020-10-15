@@ -1,6 +1,6 @@
 31. § (1) A repülőműszaki élelmezési támogatás nem jár a 30. §-ban meghatározott igényjogosultnak,
 
-a)[^97] ha e rendelet szerint a részére biztosított repülőműszaki támogatás egy napra vetített értékét elérő összegű természetbeni élelmezési ellátásra vagy ennek kiváltására szolgáló készpénz-megváltásra jogosult,
+a)[^98] ha e rendelet szerint a részére biztosított repülőműszaki támogatás egy napra vetített értékét elérő összegű természetbeni élelmezési ellátásra vagy ennek kiváltására szolgáló készpénz-megváltásra jogosult,
 
 b) ha kórházi, rehabilitációs intézeti ápolás, kezelés alatt áll, vagy
 
@@ -8,4 +8,4 @@ c) ha felmentés, nyugállományba helyezés, más beosztásba vagy munkakörbe 
 
 (2) Az (1) bekezdésben felsorolt esetekben a havi járandóságot időarányosan, 30 naptári nappal számolva csökkenteni kell.
 
-[^97]: A 31. § (1) bekezdés a) pontja a 8/2019. (VII. 4.) HM rendelet 8. §-ával megállapított szöveg.
+[^98]: A 31. § (1) bekezdés a) pontja a 8/2019. (VII. 4.) HM rendelet 8. §-ával megállapított szöveg.
