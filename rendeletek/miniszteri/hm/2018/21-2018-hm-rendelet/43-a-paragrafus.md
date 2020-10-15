@@ -1,0 +1,1 @@
+## 43. § A honvédelmi továbbképzés tananyagának kidolgozását 2019. évben kell végrehajtani, a honvédelmi alkalmazottnak a honvédelmi továbbképzési kötelezettségét első alkalommal 2020. évben kell teljesítenie.

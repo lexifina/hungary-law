@@ -1,1 +1,3 @@
-## 43. § A honvédelmi továbbképzés tananyagának kidolgozását 2019. évben kell végrehajtani, a honvédelmi alkalmazottnak a honvédelmi továbbképzési kötelezettségét első alkalommal 2020. évben kell teljesítenie.
+## 43/A. §[^19] A Haj.tv. 99/A. § (1) bekezdésében érintett honvédelmi alkalmazottnak a honvédelmi továbbképzési kötelezettségét első alkalommal 2021. évben kell teljesítenie.
+
+[^19]: A 43/A. §-t a 13/2020. (X. 14.) HM rendelet 56. §-a iktatta be.

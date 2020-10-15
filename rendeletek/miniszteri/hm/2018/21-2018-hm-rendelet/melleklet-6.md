@@ -34,6 +34,6 @@
 
 | 16 | 15. | 1,564 | 1,719 | 1,809 |
 
-6. melléklet a 21/2018. (XII. 28.) HM rendelethez[^8]
+6. melléklet a 21/2018. (XII. 28.) HM rendelethez[^26]
 
-[^8]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

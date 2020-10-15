@@ -1,22 +1,12 @@
-23/A. §[^2] (1) A Haj. tv. 76. § (1) bekezdése alapján a honvédelmi alkalmazott részére
+23/A. §[^5] (1)[^6]
 
-a) a tárgyévre jóváhagyott külön keret terhére megállapítható,
+(2)[^7] A Haj.tv. 76. § (1a) bekezdése a) pontja szerinti keresetkiegészítést a munkáltatói jogkört gyakorló, a részére e célra a tárgyévre jóváhagyott külön keret terhére állapítja meg. Az igénybe vehető tárgyévi keretösszeg a tárgyévben a keresetbe tartozó juttatások előző évi bázis-előirányzatának 2%-ával egyezik meg.
 
-b) miniszteri döntésen alapuló,
+(3)[^8] A Haj.tv. 76. § (1a) bekezdése b) pontja szerinti keresetkiegészítés összegét miniszteri döntés alapján a munkáltatói jogkört gyakorló állapítja meg.
 
-c) az illetménygazdálkodási keret megtakarításának terhére megállapítható vagy
+(4)[^9] A Haj.tv. 76. § (1a) bekezdése c) pontja szerinti keresetkiegészítés összegét a munkáltatói jogkört gyakorló a részére meghatározott illetménygazdálkodási keret megtakarításának terhére határozott vagy határozatlan időtartamra biztosíthatja.
 
-d) határozott idejű projektben való részvételért járó
-
-keresetkiegészítés biztosítható.
-
-(2) Az (1) bekezdés a) pontja szerinti keresetkiegészítést a munkáltatói jogkört gyakorló, a részére e célra a tárgyévre jóváhagyott külön keret terhére állapítja meg. Az igénybe vehető tárgyévi keretösszeg a tárgyévben a keresetbe tartozó juttatások előző évi bázis-előirányzatának 2%-ával egyezik meg.
-
-(3) Az (1) bekezdés b) pontja szerinti keresetkiegészítés összegét miniszteri döntés alapján a munkáltatói jogkört gyakorló állapítja meg.
-
-(4) Az (1) bekezdés c) pontja szerinti keresetkiegészítés összegét a munkáltatói jogkört gyakorló a részére meghatározott illetménygazdálkodási keret megtakarításának terhére határozott vagy határozatlan időtartamra biztosíthatja.
-
-(5) Az (1) bekezdés d) pontja szerinti keresetkiegészítés összegét a munkáltatói jogkört gyakorló az adott feladat ellátása kapcsán rendelkezésre álló külön keret terhére állapíthatja meg.
+(5)[^10] A Haj.tv. 76. § (1a) bekezdése d) pontja szerinti keresetkiegészítés összegét a munkáltatói jogkört gyakorló az adott feladat ellátása kapcsán rendelkezésre álló külön keret terhére állapíthatja meg.
 
 (6) A keresetkiegészítés megállapításakor a következő szempontokat kell figyelembe venni:
 
@@ -24,8 +14,14 @@ a) a keresetkiegészítés összegének arányban kell állnia az elvégzendő m
 
 b) ugyanazon feladat ellátásáért egy személy részére egyszerre csak egy keresetkiegészítés állapítható meg, és
 
-c) egy személy egy időben több, az (1) bekezdésben meghatározott jogcímen is részesülhet keresetkiegészítésben.
+c)[^11] egy személy egy időben több, a Haj.tv. 76. § (1a) bekezdésében meghatározott jogcímen is részesülhet keresetkiegészítésben.
 
 (7) A honvédelmi alkalmazottat a keresetkiegészítés megállapításáról vagy a részére már megállapított keresetkiegészítés összegének változásáról írásban tájékoztatni kell.
 
-[^2]: A 23/A. §-t a 3/2020. (II. 25.) HM rendelet 4. §-a iktatta be.
+[^5]: A 23/A. §-t a 3/2020. (II. 25.) HM rendelet 4. §-a iktatta be.
+[^6]: A 23/A. § (1) bekezdését a 13/2020. (X. 14.) HM rendelet 59. § a) pontja hatályon kívül helyezte.
+[^7]: A 23/A. § (2) bekezdése a 13/2020. (X. 14.) HM rendelet 58. § a) pontja szerint módosított szöveg.
+[^8]: A 23/A. § (3) bekezdése a 13/2020. (X. 14.) HM rendelet 58. § a) pontja szerint módosított szöveg.
+[^9]: A 23/A. § (4) bekezdése a 13/2020. (X. 14.) HM rendelet 58. § a) pontja szerint módosított szöveg.
+[^10]: A 23/A. § (5) bekezdése a 13/2020. (X. 14.) HM rendelet 58. § a) pontja szerint módosított szöveg.
+[^11]: A 23/A. § (6) bekezdés c) pontja a 13/2020. (X. 14.) HM rendelet 58. § b) pontja szerint módosított szöveg.

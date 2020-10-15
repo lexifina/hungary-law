@@ -1,3 +1,3 @@
-7. melléklet a 21/2018. (XII. 28.) HM rendelethez[^9]
+7. melléklet a 21/2018. (XII. 28.) HM rendelethez[^27]
 
-[^9]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
