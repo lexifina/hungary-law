@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Hűtéstechnikai Intézet tárgyában Párizsban, 1954. évi december hó 1. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1956. évi 12. törvényerejű rendelettel kihirdetett, a Nemzetközi Hűtéstechnikai Intézetre vonatkozó Nemzetközi Egyezmény (a továbbiakban: Egyezmény) felmondására.
