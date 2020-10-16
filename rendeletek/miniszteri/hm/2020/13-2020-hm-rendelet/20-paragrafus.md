@@ -1,3 +1,3 @@
-## 19. § Az R1. 100. §-a helyébe a következő rendelkezés lép:
+## 19. §[^20]
 
-## „100. § Az alezredes, az őrnagy, a törzszászlós vagy a zászlós rendfokozattal rendszeresített beosztásba történő kinevezés esetén – a szakmai követelményeknek való megfelelés vonatkozásában – a szakmai felelős egyetértése szükséges akkor, ha az állomány tagja szolgálati beosztásának fegyvernemi, szakági alcsoportja eltér a tervezett beosztás fegyvernemi, szakági alcsoportjától.”
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

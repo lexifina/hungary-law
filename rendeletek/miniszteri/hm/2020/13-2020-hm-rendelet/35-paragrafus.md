@@ -1,1 +1,3 @@
-## „(1a) Az (1) bekezdésben foglaltakat a Hjt. 42. § (2) bekezdés d) pontja szerinti nem katonai oktatási intézmény tekintetében is alkalmazni kell.”
+## 34. §[^35]
+
+[^35]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

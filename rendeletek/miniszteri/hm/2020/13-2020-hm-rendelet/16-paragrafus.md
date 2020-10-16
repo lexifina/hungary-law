@@ -1,3 +1,3 @@
-## 15. § Az R1. 91. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^16]
 
-## „(4) A minősítő vizsga eredménye a vizsga évében és a vizsga évét közvetlenül követő 4 évben vehető figyelembe.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

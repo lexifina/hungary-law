@@ -1,3 +1,3 @@
-## 28. § Az R1. 171. §-a a következő (1) bekezdéssel egészül ki:
+## 28. §[^29]
 
-## „(1) A KNBSZ állománya tekintetében a szolgálati beosztásba kinevezésre, áthelyezésre tervezett személyt az idegennyelv-ismereti követelmény alól a KNBSZ főigazgatója munkáltatói döntésben mentesítheti annak figyelembevételével, hogy a szolgálati beosztás – mérlegelve a szolgálati beosztásban korábban jelentkező feladatok jellegét – ellátható-e eredményesen idegennyelv-ismeret nélkül.”
+[^29]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 56. § Az R3. a következő 43/A. §-sal egészül ki:
+## 56. §[^57]
 
-## „43/A. § A Haj.tv. 99/A. § (1) bekezdésében érintett honvédelmi alkalmazottnak a honvédelmi továbbképzési kötelezettségét első alkalommal 2021. évben kell teljesítenie.”
+[^57]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

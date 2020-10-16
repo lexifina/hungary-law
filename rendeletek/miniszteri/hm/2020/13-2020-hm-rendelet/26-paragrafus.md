@@ -1,3 +1,3 @@
-## 25. § Az R1. 126/D. §-a a következő (3) bekezdéssel egészül ki:
+## 25. §[^26]
 
-## „(3) Az (1) és (2) bekezdésben foglaltaktól eltérően, ha az egészségkárosodási ellátás megállapításával kapcsolatos eljárás a Hjt. 68/A. § (8) bekezdésében foglaltak szerint felfüggesztésre került, a távollétre, valamint az illetmény folyósítására a szolgálati kötelezettség teljesítése alóli mentesülés helyett a méltatlansági, fegyelmi vagy büntetőeljárás elrendelésével összefüggő szabályokat kell alkalmazni.”
+[^26]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 23. § Az R1. 109/A. §-a a következő (7) bekezdéssel egészül ki:
+## 23. §[^24]
 
-## „(7) Ha a (3)–(5) bekezdés szerint meghosszabbított határidő veszélyhelyzet időtartama alatt, vagy megszűnését követő 4 hónapon belül jár le, az előírt nyelvvizsga-bizonyítványt az állomány tagja a veszélyhelyzet megszűnését követő legrövidebb időn, de legkésőbb 9 hónapon belül köteles megszerezni.”
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

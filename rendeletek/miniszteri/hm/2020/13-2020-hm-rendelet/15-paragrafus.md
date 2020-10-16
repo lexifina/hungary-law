@@ -1,3 +1,3 @@
-## 14. § Az R1. a következő 69/C. §-sal egészül ki:
+## 14. §[^15]
 
-## „69/C. § Az állomány tagja a HM-ben rendszeresített szolgálati beosztásában a honvédelmi célú repülések és a katonai légiforgalmi irányítás támogatása érdekében Magyarország légterében a légiforgalmi szolgáltatások nyújtására és a légiforgalmi szakszemélyzet képzésére kijelölt polgári léginavigációs szolgáltatónál is teljesíthet szolgálatot.”
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

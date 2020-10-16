@@ -1,3 +1,3 @@
-## 24. § Az R1. 126/C. §-a a következő (4) bekezdéssel egészül ki:
+## 24. §[^25]
 
-## „(4) Nem alkalmazható az (1) bekezdés, ha a vezénylés időtartamára eső pihenő- vagy munkaszüneti napok azonos számú szabadnapokkal ellentételezésre kerülnek.”
+[^25]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## lép.
+## 58. §[^59]
 
-## 59. § Hatályát veszti az R3.
-
-a) 23/A. § (1) bekezdése,
-
-b) 26. § (1) bekezdésében az „a szakterületéhez kapcsolódó” szövegrész.
+[^59]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

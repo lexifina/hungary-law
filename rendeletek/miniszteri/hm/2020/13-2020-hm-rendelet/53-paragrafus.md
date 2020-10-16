@@ -1,3 +1,3 @@
-## 52. § Az R3. a következő 21/A. §-sal egészül ki:
+## 52. §[^53]
 
-## „21/A. § A honvédelmi alkalmazott a Haj.tv. 51. § (5a) bekezdése szerinti mentesülés időtartamára az időarányos távolléti díjának 50%-ára jogosult.”
+[^53]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

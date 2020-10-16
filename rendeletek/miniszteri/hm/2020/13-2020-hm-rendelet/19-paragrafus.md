@@ -1,7 +1,3 @@
-## 18. § Az R1. 96. §-a helyébe a következő rendelkezés lép:
+## 18. §[^19]
 
-## „96. § (1) Az előmenetel tervezése minden év február 1-je és november 30-a között kerül végrehajtásra.
-
-## (2) A magasabb beosztásba történő kinevezésre legkorábban március 1-jei, legkésőbb a következő év január 1-jei időponttal kerülhet sor.
-
-## (3) A (2) bekezdés szerinti korlátozást a tábornoki vagy az ezredes, valamint a főtörzszászlós rendfokozattal rendszeresített szolgálati beosztásba kiválasztottak esetében nem kell alkalmazni.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

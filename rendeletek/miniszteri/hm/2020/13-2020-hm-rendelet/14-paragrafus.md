@@ -1,9 +1,3 @@
-## „(6) Az MH Parancsnokságát támogató honvédségi szervezet állománytáblájában
+## 13. §[^14]
 
-## a) az MH Parancsnoksága vezetésbiztosító feladatok végrehajtására létrehozott szolgálati beosztások besorolására a (2) bekezdést,
-
-## b) az MH Parancsnoksága támogató feladatok végrehajtására létrehozott szolgálati beosztások besorolására a (3) bekezdést,
-
-## c) az MH Parancsnoksága stratégiai szintű feladatok végrehajtására létrehozott szolgálati beosztások besorolására a (4) bekezdést
-
-## kell megfelelően alkalmazni.”
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

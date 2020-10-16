@@ -1,3 +1,3 @@
-## 4. § Az R1. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „(1) A pályakezdő és a közkatona esetében az állományba vételi okmányban vagy szerződésben a szolgálati viszony kezdő időpontjaként az alapkiképzés megkezdésének napját kell meghatározni.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
