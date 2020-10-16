@@ -1,1 +1,3 @@
-## 2. § Az R. 9. § (2) bekezdésében a „950 Ft/fő/nap” szövegrész helyébe az „1250 Ft/fő/nap” szöveg lép.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
