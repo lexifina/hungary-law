@@ -40,6 +40,8 @@
 
 ## Határidő: azonnal
 
-## 2. A Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból és a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő előirányzat-átcsoportosításról, valamint a Karcagi Járásbíróság állami tulajdonú ingatlanban történő elhelyezéséről szóló 1263/2020. (V. 28.) Korm. határozat 7. pontjában az „ , – az ingatlanon fennálló, közfeladat-ellátást szolgáló bérleti jogviszonyon és az ingatlan-nyilvántartásba bejegyzett vezetékjogokon felüli – per-, teher- és igénymentesen az állam javára történő megszerzéséről” szövegrész helyébe az „az állam javára történő megszerzéséről” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1664/2020. (X. 15.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
