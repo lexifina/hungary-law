@@ -42,4 +42,6 @@ pénzügyminiszter
 
 Határidő: folyamatos
 
-2. A Kormány visszavonja a Kékes aktív kikapcsolódást szolgáló, turisztikai és sportcélú fejlesztési Programjának elkészítéséről és a sátoraljaújhelyi Zemplén Kalandpark négyévszakos fejlesztéséről szóló 2148/2017. (XII. 29.) Korm. határozat 1. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
