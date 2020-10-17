@@ -2,7 +2,7 @@
 
 (2) A jogosultsági feltételeknek megfelelő programjavaslatot a miniszter az 1. melléklet szerinti elsőbbségi feltételek (a továbbiakban: elsőbbségi feltételek) és az arra adható pontszámok figyelembevételével rangsorolja. A miniszternek az egyes elsőbbségi feltételek adott programjavaslatra vonatkozó pontszámának meghatározásában mérlegelési jogköre van.
 
-(3)[^2] A miniszter
+(3)[^3] A miniszter
 
 a) az első benyújtási időszakban benyújtott kérelmek vonatkozásában 2020. július 31-ig,
 
@@ -14,4 +14,4 @@ b) a második benyújtási időszakban benyújtott kérelmek vonatkozásában 20
 
 (5) A miniszter döntését a kérelmezővel, továbbá jóváhagyása esetén a Kincstárral is közli. A miniszter a döntés közlésével egyidejűleg a jóváhagyott programjavaslat másolati példányát elektronikus formában megküldi a Kincstár részére.
 
-[^2]: A 11. § (3) bekezdése a 34/2020. (VI. 29.) AM rendelet 17. §-ával megállapított szöveg.
+[^3]: A 11. § (3) bekezdése a 34/2020. (VI. 29.) AM rendelet 17. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 a) 2020. április 1. és 2020. május 11. között (a továbbiakban: első benyújtási időszak) vagy
 
-b) 2020. október 19. és 2020. november 2. között (a továbbiakban: második benyújtási időszak)
+b)[^2] 2020. november 9. és 2020. december 18. között (a továbbiakban: második benyújtási időszak)
 
 ## kell a minisztériumhoz benyújtani azzal, hogy a programjavaslat benyújtási napjának a programjavaslat postára adásának napját kell tekinteni.
 
@@ -33,3 +33,4 @@ j) annak részletes bemutatását, hogy a kérelmező korábban milyen támogato
 k) annak részletes bemutatását, hogy a kérelmező mely földrajzi árujelzőt és borászati terméket kívánja népszerűsíteni.
 
 [^1]: A 8. § (1) bekezdése a 34/2020. (VI. 29.) AM rendelet 16. §-ával megállapított szöveg.
+[^2]: A 8. § (1) bekezdés b) pontja az 50/2020. (X. 16.) AM rendelet 13. §-a szerint módosított szöveg.
