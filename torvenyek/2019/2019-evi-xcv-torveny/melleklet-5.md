@@ -6,8 +6,6 @@
 
 |
 
-|
-
 A
 
 |
@@ -20,9 +18,9 @@ C
 
 |
 
-|
+Előirányzat
 
-Előirányzat száma
+száma
 
 |
 
@@ -30,9 +28,9 @@ Előirányzat neve
 
 |
 
-Előirányzat összege
+Előirányzat
 
-|
+összege
 
 |
 
@@ -48,8 +46,6 @@ Továbbutalandó közszolgálati hozzájárulás
 
 |
 
-|
-
 1.1.
 
 |
@@ -59,8 +55,6 @@ Médiatanács
 |
 
 197,8
-
-|
 
 |
 
@@ -76,8 +70,6 @@ Médiatanács hivatali szervezete
 
 |
 
-|
-
 1.3.
 
 |
@@ -87,8 +79,6 @@ Közszolgálati Közalapítvány
 |
 
 232,4
-
-|
 
 |
 
@@ -104,8 +94,6 @@ Magyar Média Mecenatúra támogatás
 
 |
 
-|
-
 3.
 
 |
@@ -118,8 +106,6 @@ Duna Médiaszolgáltató Nonprofit Zrt.
 
 |
 
-|
-
 4.
 
 |
@@ -128,9 +114,7 @@ MTVA médiaszolgáltatás-támogatási és vagyonkezelési tevékenységének ki
 
 |
 
-77 306,3
-
-|
+87 068,5
 
 |
 
@@ -146,8 +130,6 @@ Személyi juttatások és járulékok
 
 |
 
-|
-
 4.2.
 
 |
@@ -156,9 +138,7 @@ Dologi kiadások
 
 |
 
-54 102,5
-
-|
+63 864,7
 
 |
 
@@ -174,8 +154,6 @@ Beruházások, felújítások
 
 |
 
-|
-
 5.
 
 |
@@ -185,8 +163,6 @@ Magyar Rádió Művészeti Együttesei Nonprofit Kft. támogatása
 |
 
 871,4
-
-|
 
 |
 
@@ -202,8 +178,6 @@ MTVA Digitalizációs Műhely Kft.
 
 |
 
-|
-
 7.
 
 |
@@ -213,8 +187,6 @@ Közszolgálati Médiaakadémia Alapítvány
 |
 
 184,1
-
-|
 
 |
 
@@ -230,8 +202,6 @@ A Médiatanácsot terhelő, a médiaszolgáltatók által be nem fizetett által
 
 |
 
-|
-
 9.
 
 |
@@ -241,8 +211,6 @@ Szerzői jogdíj (must carry)
 |
 
 266,1
-
-|
 
 |
 
@@ -258,8 +226,6 @@ Az Mttv. 134. § (5) bekezdése szerinti befizetések felhasználása
 
 |
 
-|
-
 11.
 
 |
@@ -272,15 +238,11 @@ MTVA kamatfizetési kötelezettsége, egyéb pénzügyi ráfordítások
 
 |
 
-|
-
 Költségvetési kiadások összesen
 
 |
 
-93 364,1
-
-|
+103 126,3
 
 |
 
@@ -288,13 +250,11 @@ Kiadások összesen
 
 |
 
-93 364,1
+103 126,3
 
 2. Az MTVA 2020. évi bevételi előirányzatai
 
 (adatok millió Ft-ban)
-
-|
 
 |
 
@@ -310,9 +270,9 @@ C
 
 |
 
-|
+Előirányzat
 
-Előirányzat száma
+száma
 
 |
 
@@ -320,9 +280,9 @@ Előirányzat neve
 
 |
 
-Előirányzat összege
+Előirányzat
 
-|
+összege
 
 |
 
@@ -334,9 +294,7 @@ Közszolgálati hozzájárulás
 
 |
 
-75 016,4
-
-|
+84 778,6
 
 |
 
@@ -352,8 +310,6 @@ Médiaszolgáltatási díj
 
 |
 
-|
-
 3.
 
 |
@@ -363,8 +319,6 @@ Pályázati díjak (támogatási, frekvencia)
 |
 
 20,0
-
-|
 
 |
 
@@ -380,8 +334,6 @@ Médiaszolgáltatási szerződésszegési kötbér, bírság, óvadék
 
 |
 
-|
-
 5.
 
 |
@@ -394,15 +346,11 @@ Az Mttv. 134. § (5) bekezdése szerinti befizetések
 
 |
 
-|
-
 Költségvetési bevételek összesen
 
 |
 
-85 016,4
-
-|
+94 778,6
 
 |
 
@@ -418,10 +366,8 @@ Kereskedelmi, vagyongazdálkodási és egyéb bevételek
 
 |
 
-|
-
 Bevételek összesen
 
 |
 
-93 364,1
+103 126,3

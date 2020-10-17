@@ -2,8 +2,8 @@
 
 (2) Az Országgyűlés az MTVA 2020. évi költségvetésének
 
-a) kiadási főösszegét 93 364,1 millió Ft-ban, azaz kilencvenhárommilliárd-háromszázhatvannégymillió-egyszázezer forintban,
+a) kiadási főösszegét 103 126,3 millió Ft-ban, azaz egyszázhárommilliárd-egyszázhuszonhatmillió-háromszázezer forintban,
 
-b) bevételi főösszegét 93 364,1 millió Ft-ban, azaz kilencvenhárommilliárd-háromszázhatvannégymillió-egyszázezer forintban
+b) bevételi főösszegét 103 126,3 millió Ft-ban, azaz egyszázhárommilliárd-egyszázhuszonhatmillió-háromszázezer forintban
 
 hagyja jóvá.
