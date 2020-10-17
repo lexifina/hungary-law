@@ -1,4 +1,4 @@
-## 16. §[^2]
+## 16. §[^4] E rendeletnek a 2020. évi átmeneti nemzeti támogatás jogcímeihez kapcsolódó támogatások összegeinek megállapításáról szóló 50/2020. (X. 16.) AM rendelettel megállapított 12. §-át a 2019. évi dohány termeléstől elválasztott támogatás kifizetése esetében kell alkalmazni.
 
 1. melléklet a 47/2019. (X. 14.) AM rendelethez
 
@@ -34,4 +34,4 @@ A termeléshez kötött közvetlen támogatások igénybevételének szabályair
 
 | 14. | szálas fehérjetakarmány-növény termesztés támogatása | 16 910 |
 
-[^2]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 16. §-t újonnan az 50/2020. (X. 16.) AM rendelet 11. § (1) bekezdése iktatta be.
