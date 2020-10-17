@@ -14,7 +14,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:36 mezőjében az „5,99” szövegrész helyébe a „6,03” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1669/2020. (X. 15.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, forint) | Hatályos támogatási szerződés szerinti támogatás (bruttó, forint) | Többlet- támogatás legfeljebb (bruttó, forint) | Megnövelt támogatás legfejebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.3.0-15- 2016-00010 | Belvízcsatornák fejlesztése és rekonstrukciója | Országos Vízügyi Főigazgatóság (konzorciumvezető) Alsó-Duna-völgyi Vízügyi Igazgatóság, Alsó-Tisza-vidéki Vízügyi Igazgatóság, Észak-dunántúli Vízügyi Igazgatóság, Észak-magyarországi Vízügyi Igazgatóság, Felső-Tisza-vidéki Vízügyi Igazgatóság, Közép-Tisza-vidéki Vízügyi Igazgatóság, Nyugat-dunántúli Vízügyi Igazgatóság, Tiszántúli Vízügyi Igazgatóság | 5 237 997 524 | 5 988 842 908 | 31 731 766 | 6 020 574 674 | A belvízelvezető csatornák elemeinek fejlesztésével, rekonstrukciójával és a vizek tározási feltételeinek megteremtésével csökkenthetők a belvízi kockázatok. A munkálatok eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. A projekt indikátora: a vízgazdálkodási fejlesztéssel érintett területek nagysága 148 941 hektár. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
