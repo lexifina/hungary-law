@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle finomrecés, a recéken a „CURIA CONSTITUTIONALIS SUPREMUS PROTECTOR CONSTITUTIONIS EST ⋅” szélfelirattal.
+
+(2) Az emlékérme előlapján az alkotmánybírók által viselt lánc részletének ábrázolása látható, az Aranybulla pecsétjét formázó medállal. Az emlékérme szélén, köriratban, fent, bal oldalon a „2000” értékjelzés és a „FORINT” felirat, lent, jobb oldalon a „MAGYARORSZÁG” felirat, felette, két – az emlékérme széléhez igazított – sorban a „BP.” verdejel és a „2020” verési évszám olvasható. Az emlékérme szélén, bal oldalon Bitó Balázs tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a jobb oldali mezőben az Aranybulla 1318 körüli hiteles másolata részletének ábrázolása látható. Az ábrázolástól balra, két függőleges sorban az „ALKOTMÁNYBÍRÓSÁG” és az „AZ ALAPTÖRVÉNY LEGFŐBB ŐRE” felirat, az emlékérme bal oldali szélén, lent az „1990” évszám olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
