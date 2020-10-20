@@ -1,8 +1,6 @@
-## 16. §[^158]
+1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^175]
 
-1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^159]
-
-## Nemzetközi felosztás
+Nemzetközi felosztás
 
 1. Az RR szerinti három földrajzi Körzet
 
@@ -28,5 +26,6 @@
 
 2.1.5. Amennyiben a rádiószolgálat megnevezése mellett zárójeles kiegészítés szerepel, akkor a rádiószolgálatra vonatkozó felosztás az így megjelölt működési típusra, alkalmazásra, frekvenciára korlátozódik.
 
-[^158]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^159]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése, az 1/2018. (V. 29.) NMHH rendelet 4. § (1) bekezdése és az 5. § (2) bekezdése, az 1/2019. (I. 22.) NMHH rendelet 6. § (1) bekezdése, 7. § (2) bekezdése, 8. § b) pontja, a 6/2019. (XII. 23.) NMHH rendelet 4. § (2) bekezdése szerint módosított szöveg.
+2.2. Táblázat
+
+[^175]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése, az 1/2018. (V. 29.) NMHH rendelet 4. § (1) bekezdése és az 5. § (2) bekezdése, az 1/2019. (I. 22.) NMHH rendelet 6. § (1) bekezdése, 7. § (2) bekezdése, 8. § b) pontja, a 6/2019. (XII. 23.) NMHH rendelet 4. § (2) bekezdése, a 3/2020. (X. 5.) NMHH rendelet 4. § (2) bekezdése szerint módosított szöveg.

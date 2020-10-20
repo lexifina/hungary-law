@@ -1,6 +1,6 @@
-## 14. §[^155] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+## 14. §[^166] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-## 15. §[^156] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2., 3. és 6. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti felosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
+## 15. §[^167] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2., 3. és 6. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti felosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
 
 1. ERC/DEC/(96)06: az ERC 1996. március 7-i határozata a „Határozat a digitális kis hatókörzetű rádió (DSRR) összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (93)01 ERC-határozat visszavonásáról;
 
@@ -8,9 +8,9 @@
 
 3. ERC/DEC/(99)24: az ERC 1999. november 29-i határozata a „Határozat a nagysebességű rádiós helyi hálózatok (HIPERLAN-ok) bevezetéséhez kijelölendő harmonizált frekvenciasávokról” című (96)03 ERC-határozat visszavonásáról;
 
-4. ECC/DEC/(01)01: az ECC 2001. november 15-i határozata a 900 MHz-es sávú analóg CT1 és CT1+ alkalmazások kivonásáról;
+4.[^168]
 
-5. ECC/DEC/(01)02: az ECC 2001. november 15-i határozata a 900 MHz-es sávú digitális CT2 alkalmazások kivonásáról;
+5.[^169]
 
 6. ECC/DEC/(02)02: az ECC 2002. március 15-i határozata a „Határozat a közúti közlekedés telematikai rendszereinek összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (92)02 ERC-határozat visszavonásáról;
 
@@ -46,12 +46,23 @@
 
 22. ECC/DEC/(16)03: ECC-határozat a (99)17 ERC-határozat visszavonásáról;
 
+22a.[^170] ECC/DEC/(17)01: ECC-határozat a 900 MHz-es sávú analóg CT1 és CT1+ alkalmazások kivonásáról szóló (01)01 ECC-határozat és a 900 MHz-es sávú digitális CT2 alkalmazások kivonásáról szóló (01)02 ECC-határozat visszavonásáról;
+
 23. ECC/DEC/(17)03: ECC-határozat az „Az Euteltracs rendszer Omnitracs végberendezéseinek az egyedi engedélyezés alóli mentesítéséről” című ERC/DEC/(98)15 Határozat visszavonásáról;
 
-24.[^157] ECC/DEC/(18)02: ECC-határozat a 3400–3800 MHz közötti frekvenciasávoknak a szélessávú vezetéknélküli hozzáférési rendszerek (BWA) harmonizált megvalósítása céljára történő hozzáférhetőségéről szóló
+24.[^171] ECC/DEC/(18)02: ECC-határozat a 3400–3800 MHz közötti frekvenciasávoknak a szélessávú vezetéknélküli hozzáférési rendszerek (BWA) harmonizált megvalósítása céljára történő hozzáférhetőségéről szóló
 
 (07)02 ECC-határozat visszavonásáról.
 
-[^155]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
-[^156]: A 15. § az 1/2019. (I. 22.) NMHH rendelet 5. §-ával megállapított szöveg.
-[^157]: A 15. § 24. pontját a 2/2019. (III. 22.) NMHH rendelet 10. §-a iktatta be.
+25.[^172] ECC/DEC/(18)03: ECC-határozat a 2400–2483,5 MHz frekvenciasávban működő – mozgásérzékelők és riasztók céljára használt – kis hatótávolságú eszközök harmonizált frekvenciáiról, műszaki jellemzőiről, valamint egyedi engedélyezés alóli mentesítéséről szóló (01)08 ERC-határozat visszavonásáról;
+
+26.[^173] ECC/DEC/(19)01: ECC-határozat a 80 MHz, 160 MHz, 380–470 MHz és a 800/900 MHz sávban a keskeny- és szélesebb sávú PMR/PAMR/PPDR rendszerek digitális végberendezéseinek egyedi engedélyezés alóli mentesítéséről, valamint a keskeny- és szélesebb sávú PPDR rendszerek digitális végberendezéseinek szabad mozgásáról és használatáról szóló (11)04 ECC-határozat visszavonásáról.
+
+[^166]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
+[^167]: A 15. § az 1/2019. (I. 22.) NMHH rendelet 5. §-ával megállapított szöveg.
+[^168]: A 15. § 4. pontját a 3/2020. (X. 5.) NMHH rendelet 5. § a) pontja hatályon kívül helyezte.
+[^169]: A 15. § 5. pontját a 3/2020. (X. 5.) NMHH rendelet 5. § a) pontja hatályon kívül helyezte.
+[^170]: A 15. § 22a. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (1) bekezdése iktatta be.
+[^171]: A 15. § 24. pontját a 2/2019. (III. 22.) NMHH rendelet 10. §-a iktatta be.
+[^172]: A 15. § 25. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (2) bekezdése iktatta be.
+[^173]: A 15. § 26. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (2) bekezdése iktatta be.

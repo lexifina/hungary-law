@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-7-20-3H
 | 2019-02-01 | 2015-7-20-3H.8 | 1/2019. (I. 22.) NMHH rendelet |
 | 2019-03-30 | 2015-7-20-3H.9 | 2/2019. (III. 22.) NMHH rendelet |
 | 2020-01-07 | 2015-7-20-3H.10 | 6/2019. (XII. 23.) NMHH rendelet |
+| 2020-10-20 | 2015-7-20-3H.11 | 3/2020. (X. 5.) NMHH rendelet |
