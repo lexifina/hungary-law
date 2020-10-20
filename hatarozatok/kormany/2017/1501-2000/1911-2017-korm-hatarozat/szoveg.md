@@ -22,13 +22,7 @@ Határidő: az átcsoportosítás tekintetében azonnal a fel nem használt rés
 
 6. felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások miniszterének bevonásával, az MNV Zrt. közreműködésével
 
-a)[^2] készítsen jelentést a Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: az 1. pont a) alpontja szerinti beruházás tekintetében 2019. november 30., az 1. pont b) alpontja szerinti beruházás tekintetében 2019. december 31.
+a)[^2]
 
 b)[^3] készítsen előterjesztést az 1. pont szerinti beruházások megvalósításának további kérdéseiről, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, az ütemezés és a felelősök bemutatásával.
 
@@ -45,6 +39,6 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 Határidő: a visszapótlás tekintetében a felmerülés ütemében, a fel nem használt rész visszafizetése tekintetében a 6. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül
 
 [^1]: A 2. pont az 1427/2018. (IX. 10.) Korm. határozat 2. pont a) alpontja, az 1710/2018. (XII. 17.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^2]: A 6. pont a) alpontja az 1427/2018. (IX. 10.) Korm. határozat 2. pont b) alpontja, az 1710/2018. (XII. 17.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^2]: A 6. pont a) alpontját az 1672/2020. (X. 20.) Korm. határozat 1. pont i) alpontja visszavonta.
 [^3]: A 6. pont b) alpontja az 1427/2018. (IX. 10.) Korm. határozat 2. pont c) alpontja, az 1710/2018. (XII. 17.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
 [^4]: A 7. pontot az 1427/2018. (IX. 10.) Korm. határozat 1. pontja iktatta be.
