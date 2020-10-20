@@ -26,7 +26,7 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2020. évi központi költségvetés végrehajtása során, az a) és b) alpont szerinti ütemezéssel
 
-5.[^1] felhívja a pénzügyminisztert, hogy a 4. pont alapján biztosított forrás terhére létesítsen támogatási jogviszonyt a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanáccsal, azzal, hogy az előkészítési feladatokat 2021. február 28-ig szükséges megvalósítani;
+5.[^1] felhívja a pénzügyminisztert, hogy a 4. pont alapján biztosított forrás terhére létesítsen támogatási jogviszonyt a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanáccsal, azzal, hogy az előkészítési feladatokat 2021. november 30-ig szükséges megvalósítani;
 
 Felelős: pénzügyminiszter
 
@@ -56,4 +56,4 @@ pénzügyminiszter
 
 Határidő: a 2. pont szerinti fejlesztés 4. pont eredményeként történő előkészítését követően
 
-[^1]: [Az 5. pontnak az 1574/2020. (IX. 9.) Korm. határozat 5. pontjával elrendelt módosítása, amely szerint a „2021. február 28.” szövegrész helyébe a „2021. november 30.” szöveg lép, nem vezethető át.]
+[^1]: Az 5. pont az 1672/2020. (X. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
