@@ -16,4 +16,7 @@ b) a Beruházásokhoz közvetlenül kapcsolódó útépítési, közmű csatlako
 
 (4) A Kormány kiemelten közérdekű beruházássá nyilvánítja az 1. melléklet 2. pontjában meghatározott beruházásokat, amelyek helyszíne az 1. melléklet 2. pontja szerinti ingatlanok területe.
 
+(5)[^2] A Kormány a Beruházások során az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát az 1. melléklet szerint határozza meg.
+
 [^1]: Az 1. § a 361/2019. (XII. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^2]: Az 1. § (5) bekezdését a 460/2020. (X. 20.) Korm. rendelet 1. §-a iktatta be.

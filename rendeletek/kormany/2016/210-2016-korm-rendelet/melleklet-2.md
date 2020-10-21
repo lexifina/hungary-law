@@ -1,10 +1,10 @@
-2. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^16]
+2. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^26]
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági eljárások,
 
-2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+2. örökségvédelmi hatósági engedélyezési, kötelezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -50,4 +50,4 @@
 
 24. az 1-23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^16]: A 2. mellékletet a 361/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdés b) pontja iktatta be. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^26]: A 2. mellékletet a 361/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdés b) pontja iktatta be, szövege a 460/2020. (X. 20.) Korm. rendelet 10. §-a szerint módosított szöveg.
