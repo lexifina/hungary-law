@@ -58,10 +58,13 @@
 
 ## h) az Országos Széchényi Könyvtár archívumainak elhelyezését szolgáló archivális és szolgáltató raktárak megvalósítását célzó beruházás előkészítéséhez szükséges forrás biztosításáról szóló 1911/2017. (XII. 7.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pont b) alpontjában foglaltaktól eltérően úgy dönt, hogy az előkészítési feladat megvalósítására nem kerül sor;
 
-## i) visszavonja a Korm. határozat 6. pont a) alpontját;
+## i)[^1]
 
 ## j) egyetért azzal, hogy a Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Járvány Elleni Védekezés Központi Tartalékából történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, továbbá a migrációs nyomás és a terrorellenes intézkedések kezeléséhez szükséges további források biztosításáról, valamint egyes kormányhatározatok módosításáról szóló 1574/2020. (IX. 9.) Korm. határozat 3. melléklete szerint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára átcsoportosított 175 758 000 forintból 110 000 000 forint a 7. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 6. Külgazdasági és Külügyminisztérium felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoporton kerüljön felhasználásra és elszámolásra.
 
-## 2. A Pannónia Szíve Program keretében a Váli Örökség turisztikai célú fejlesztéséről szóló 1740/2019. (XII. 19.) Korm. határozat 5. pontjában a „2021. február 28-ig” szövegrész helyébe a „2021. november 30-ig” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1672/2020. (X. 20.) Korm. határozathoz
+
+[^1]: Az 1. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
