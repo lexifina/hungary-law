@@ -1,0 +1,3 @@
+## 8. § Az R. a következő 11. §-sal egészül ki:
+
+## „11. § E rendeletnek a Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet, valamint a Mathias Corvinus Collegium tehetséggondozási központjának kivitelezési munkálataival kapcsolatos kiemelten közérdekű beruházásról és az azzal összefüggő nemzetgazdasági szempontból kiemelt jelentőségű ügyekről szóló 370/2020. (VII. 30.) Korm. rendelet módosításáról szóló 460/2020. (X. 20.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

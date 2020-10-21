@@ -1,0 +1,3 @@
+## 1. § A Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) A Kormány a Beruházások során az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát az 1. melléklet szerint határozza meg.”
