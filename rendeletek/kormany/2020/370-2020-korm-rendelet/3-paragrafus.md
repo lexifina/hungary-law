@@ -32,6 +32,8 @@ j) a telek beépítési módja szabadon álló.
 
 (7) Az Ingatlan, annak egyes elemei, illetve az Ingatlanon álló épületek vonatkozásában újonnan helyi védelmet megállapítani nem lehet.
 
-(8) Az Ingatlanon a járművek elhelyezésének kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 4. számú melléklete alapján számított személygépkocsik számának legalább 40%-a elhelyezését kell biztosítani.
+(8)[^1] Az Ingatlanon a járművek elhelyezésének kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 4. számú melléklete alapján számított személygépkocsik számának legalább 15%-a elhelyezését kell biztosítani.
 
 (9) A Beruházás keretében megvalósított építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a – helyi és fővárosi – településrendezési eszközökben előírt infrastruktúra-fejlesztések megvalósulása.
+
+[^1]: A 3. § (8) bekezdése a 460/2020. (X. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
