@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1-20-2T
 | 2018-02-15 | 2013-1-20-2T.10 | 3/2018. (II. 14.) MvM rendelet |
 | 2018-12-19 | 2013-1-20-2T.11 | 16/2018. (XII. 18.) MvM rendelet |
 | 2019-12-21 | 2013-1-20-2T.12 | 20/2019. (XII. 20.) MvM rendelet |
+| 2020-10-22 | 2013-1-20-2T.13 | 17/2020. (X. 21.) MvM rendelet |
