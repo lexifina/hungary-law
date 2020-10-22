@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-210-20-
 | 2019-10-01 | 2014-210-20-22.12 | 227/2019. (IX. 26.) Korm. rendelet |
 | 2020-07-31 | 2014-210-20-22.13 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2020-08-08 | 2014-210-20-22.14 | 386/2020. (VIII. 7.) Korm. rendelet |
+| 2020-10-22 | 2014-210-20-22.15 | 463/2020. (X. 21.) Korm. rendelet |

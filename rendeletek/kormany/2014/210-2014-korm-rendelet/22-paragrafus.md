@@ -1,20 +1,20 @@
-22. § (1)[^105] A támogatási kérelmet a lebonyolító szerv megvizsgálja, szükség esetén hiánypótlásra szólítja fel a beruházót.
+22. § (1)[^115] A támogatási kérelmet a lebonyolító szerv megvizsgálja, szükség esetén hiánypótlásra szólítja fel a beruházót.
 
-(2)[^106] A lebonyolító szerv a támogatási kérelem, az üzleti terv, valamint az ahhoz kapcsolódó esetleges szakértői vélemény szakmai elbírálását követően a támogató megbízásából a támogatóval egyeztetett feltételes támogatási ajánlatot tesz a beruházónak. A feltételes támogatási ajánlat nem minősül kötelezettségvállalásnak.
+(2)[^116] A lebonyolító szerv a támogatási kérelem, az üzleti terv, valamint az ahhoz kapcsolódó esetleges szakértői vélemény szakmai elbírálását követően a támogató megbízásából a támogatóval egyeztetett feltételes támogatási ajánlatot tesz a beruházónak. A feltételes támogatási ajánlat nem minősül kötelezettségvállalásnak.
 
-(3)[^107] Ha a beruházó a feltételes támogatási ajánlat elfogadására vonatkozó írásbeli nyilatkozatot tesz, a Kormány a támogató előterjesztése alapján határozatban dönt a támogatás nyújtásáról.
+(3)[^117] Ha a beruházó a feltételes támogatási ajánlat elfogadására vonatkozó írásbeli nyilatkozatot tesz, a Kormány a támogató előterjesztése alapján határozatban dönt a támogatás nyújtásáról.
 
-(4)[^108] A Kormány állásfoglalása alapján a támogató az e rendeletben meghatározott eljárás szerint támogatási szerződést köt a beruházóval. A támogatási szerződés megkötését megelőzően a lebonyolító szerv egy helyszíni vizsgálat keretében megvizsgálja a támogatás jogszabályi feltételeinek meglétét, így különösen azt, hogy a beruházó által rendelkezésre bocsátott üzleti terv kellően részletes és megalapozott. A támogatási szerződést kizárólag a helyszíni vizsgálat megtörténtét követően lehet megkötni.
+(4)[^118] A Kormány állásfoglalása alapján a támogató az e rendeletben meghatározott eljárás szerint támogatási szerződést köt a beruházóval. A támogatási szerződés megkötését megelőzően a lebonyolító szerv egy helyszíni vizsgálat keretében megvizsgálja a támogatás jogszabályi feltételeinek meglétét, így különösen azt, hogy a beruházó által rendelkezésre bocsátott üzleti terv kellően részletes és megalapozott. A támogatási szerződést kizárólag a helyszíni vizsgálat megtörténtét követően lehet megkötni.
 
-(5)[^109] A támogatási szerződés az abban foglalt felfüggesztő feltételek teljesítésének napján lép hatályba.
+(5)[^119] A támogatási szerződés az abban foglalt felfüggesztő feltételek teljesítésének napján lép hatályba.
 
 (6) A támogatásra vonatkozó közérdekű adatoknak a jogszabályi előírásoknak megfelelő nyilvánosságra hozataláról – ideértve különösen az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti, a támogatási szerződésnek az üzleti titok és a személyes adatok tiszteletben tartásával történő hozzáférhetővé tételére vonatkozó kötelezettséget – a támogató gondoskodik.
 
-(7)[^110]
+(7)[^120]
 
-[^105]: A 22. § (1) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^106]: A 22. § (2) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^107]: A 22. § (3) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
-[^108]: A 22. § (4) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^109]: A 22. § (5) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
-[^110]: A 22. § (7) bekezdését a 227/2019. (IX. 26.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^115]: A 22. § (1) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^116]: A 22. § (2) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^117]: A 22. § (3) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^118]: A 22. § (4) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^119]: A 22. § (5) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^120]: A 22. § (7) bekezdését a 227/2019. (IX. 26.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.

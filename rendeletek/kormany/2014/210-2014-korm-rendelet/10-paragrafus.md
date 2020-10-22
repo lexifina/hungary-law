@@ -6,7 +6,7 @@ a) a beruházás a 7. §-ban meghatározott iparágakban és gazdasági terület
 
 b) a beruházás nemzetgazdaságra, illetve államháztartásra gyakorolt hatása,
 
-c)[^54] a beruházás eredményeként megvalósuló árbevétel és bértömeg növekedés,
+c)[^61] a beruházás eredményeként megvalósuló árbevétel és bértömeg növekedés,
 
 d) a beruházás által érintett kistérség elmaradottsága,
 
@@ -14,16 +14,16 @@ e) a beruházó tartós magyarországi jelenléte,
 
 f) a beruházásnak a régiós munkaerőpiacra gyakorolt pozitív hatása,
 
-g)[^55] a kutatás-fejlesztési projektek és a regionális szolgáltató központok létrehozására vagy bővítésére irányuló beruházás esetén a szakképzett és felsőfokú végzettségű munkavállalók aránya,
+g)[^62] a kutatás-fejlesztési projektek és a regionális szolgáltató központok létrehozására vagy bővítésére irányuló beruházás esetén a szakképzett és felsőfokú végzettségű munkavállalók aránya,
 
-h)[^56] a beruházó közvetlenül vagy kapcsolt vállalkozása útján, szerződés alapján együttműködik a lebonyolító szervvel egy hatékony, erős, versenyképes, világpiaci igényeknek megfelelni képes magyarországi beszállítói háttéripar kifejlesztésében,
+h)[^63] a beruházó közvetlenül vagy kapcsolt vállalkozása útján, szerződés alapján együttműködik a lebonyolító szervvel egy hatékony, erős, versenyképes, világpiaci igényeknek megfelelni képes magyarországi beszállítói háttéripar kifejlesztésében,
 
-i)[^57] kutatás-fejlesztési projektek esetén a vállalkozás eddigi magyarországi kutatás-fejlesztési és innovációs tevékenységét, továbbá a meglévő valamint a beruházás kapcsán létesíteni vállalt, a hazai kutatás-fejlesztési intézményekkel, illetve felsőoktatási intézményekkel megvalósuló együttműködéseit,
+i)[^64] kutatás-fejlesztési projektek esetén a vállalkozás eddigi magyarországi kutatás-fejlesztési és innovációs tevékenységét, továbbá a meglévő valamint a beruházás kapcsán létesíteni vállalt, a hazai kutatás-fejlesztési intézményekkel, illetve felsőoktatási intézményekkel megvalósuló együttműködéseit,
 
-j)[^58] a beruházással létrehozott újonnan létesített munkahelyek, valamint az újonnan létesített kutatás-fejlesztési munkahelyek száma és azok fenntartására vállalt időtartam, amennyiben ezek fenntartására kötelezettséget kell vállalnia a beruházónak.
+j)[^65] a beruházással létrehozott újonnan létesített munkahelyek, valamint az újonnan létesített kutatás-fejlesztési munkahelyek száma és azok fenntartására vállalt időtartam, amennyiben ezek fenntartására kötelezettséget kell vállalnia a beruházónak.
 
-[^54]: A 10. § c) pontja a 227/2019. (IX. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^55]: A 10. § g) pontja a 227/2019. (IX. 26.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^56]: A 10. § h) pontja a 118/2018. (VII. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^57]: A 10. § i) pontját a 426/2016. (XII. 15.) Korm. rendelet 7. §-a iktatta be, szövege a 227/2019. (IX. 26.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
-[^58]: A 10. § j) pontját a 227/2019. (IX. 26.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^61]: A 10. § c) pontja a 227/2019. (IX. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^62]: A 10. § g) pontja a 227/2019. (IX. 26.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^63]: A 10. § h) pontja a 118/2018. (VII. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^64]: A 10. § i) pontját a 426/2016. (XII. 15.) Korm. rendelet 7. §-a iktatta be, szövege a 227/2019. (IX. 26.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^65]: A 10. § j) pontját a 227/2019. (IX. 26.) Korm. rendelet 5. § (3) bekezdése iktatta be.

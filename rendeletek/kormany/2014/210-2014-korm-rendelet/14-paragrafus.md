@@ -1,6 +1,6 @@
 ## 10. A támogatás nyújtásának alapvető feltételei
 
-14. §[^71] (1)[^72] A 2. § (1) bekezdés a) és c) pontjában foglalt támogatás feltétele, hogy
+14. §[^78] (1)[^79] A 2. § (1) bekezdés a) és c) pontjában foglalt támogatás feltétele, hogy
 
 a) a beruházás elszámolható költségeinek összege elérje a 9. § (1) és (2) bekezdésében meghatározott elszámolható költséget azzal, hogy amennyiben a beruházás több helyszínen valósul meg, és a beruházás helyszínei esetében az elszámolható költség előírt legkisebb mértéke különbözik, úgy a magasabb előírt összeget kell figyelembe venni a támogatás feltételeként; és
 
@@ -18,7 +18,7 @@ d) a beruházó a beruházást a támogatási szerződésben vállalt feltétele
 
 e) a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítsa és a beruházás megvalósításához szükséges költségek forrását – ideértve a támogatás összegét is – a támogató számára bemutassa;
 
-f)[^73] a beruházó a kötelező üzemeltetési időszak minden évében fenntartsa
+f)[^80] a beruházó a kötelező üzemeltetési időszak minden évében fenntartsa
 
 fa) a megtartott munkahelyek számát, vagy
 
@@ -26,7 +26,7 @@ fb) ha a beruházás regionális szolgáltató központ létrehozatalára vagy b
 
 fc) ha a beruházás a 9. § (1) bekezdés g) pontja szerinti szállodaépítésre irányul, akkor a megtartott munkahelyeken felül az újonnan létesített munkahelyek számát, amely el kell, hogy érje a 150-et.
 
-g)[^74] a 9. § (1) bekezdés g) pontja szerinti beruházás esetében az e bekezdés b) és c) pontját nem kell alkalmazni.
+g)[^81] a 9. § (1) bekezdés g) pontja szerinti beruházás esetében az e bekezdés b) és c) pontját nem kell alkalmazni.
 
 (2) Ha a beruházás
 
@@ -34,15 +34,15 @@ a) a termelési folyamat alapvető megváltozását eredményezi, a támogatás 
 
 b) meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás, valamint a meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás, a támogatás feltétele, hogy az elszámolható költségek legalább 200%-kal meghaladják az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett eszközök a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
 
-(3)[^75] Az (1) bekezdés f) pontja szerinti átlagos statisztikai állományi létszámába és az újonnan létesített munkahelyek számába csak azon munkavállalók számítanak bele, akikkel a beruházó a munka törvénykönyvéről szóló törvény szerinti munkaviszonyt létesített vagy létesít.
+(3)[^82] Az (1) bekezdés f) pontja szerinti átlagos statisztikai állományi létszámába és az újonnan létesített munkahelyek számába csak azon munkavállalók számítanak bele, akikkel a beruházó a munka törvénykönyvéről szóló törvény szerinti munkaviszonyt létesített vagy létesít.
 
 (4) Az (1) bekezdés d) pontja szerinti követelmény nem akadályozza a gyors technológiai változások miatt a meghatározott kötelező üzemeltetési időszak alatt korszerűtlenné vált vagy meghibásodott tárgyi eszköz cseréjét, ha a kötelező üzemeltetési időszak alatt a gazdasági tevékenység fenntartása az érintett régióban biztosított. A korszerűtlenné vált vagy meghibásodott és támogatásban már részesült tárgyi eszköz cseréjére a kötelező üzemeltetési időszakban a beruházó támogatásban nem részesülhet. Az új eszköznek a lecserélt tárgyi eszközökkel azonos funkcióval, azonos vagy nagyobb kapacitással kell rendelkeznie, továbbá a gyártási időpontja nem lehet korábbi, mint a lecserélt tárgyi eszközé. Az új eszközre vonatkozó, a jelen bekezdésben meghatározott feltételek fennállásának alátámasztására a beruházó köteles az ehhez szükséges dokumentumokat benyújtani a támogató számára.
 
-(5)[^76]
+(5)[^83]
 
-[^71]: A 14. § a 426/2016. (XII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^72]: A 14. § (1) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^73]: A 14. § (1) bekezdés f) pontja a 386/2020. (VIII. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^74]: A 14. § (1) bekezdés g) pontját a 386/2020. (VIII. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^75]: A 14. § (3) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^76]: A 14. § (5) bekezdését a 227/2019. (IX. 26.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^78]: A 14. § a 426/2016. (XII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^79]: A 14. § (1) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^80]: A 14. § (1) bekezdés f) pontja a 386/2020. (VIII. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^81]: A 14. § (1) bekezdés g) pontját a 386/2020. (VIII. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^82]: A 14. § (3) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^83]: A 14. § (5) bekezdését a 227/2019. (IX. 26.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.

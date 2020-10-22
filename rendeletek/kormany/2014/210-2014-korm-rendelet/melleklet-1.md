@@ -1,4 +1,4 @@
-1. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^143]
+1. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^158]
 
 A regionális szolgáltató központok által végezhető tevékenységek listája TEÁOR szerint
 
@@ -22,4 +22,4 @@ A regionális szolgáltató központok által végezhető tevékenységek listá
 
 | 9 | Adminisztratív, kiegészítő egyéb üzleti szolgáltatás (82) | 8211 Összetett adminisztratív szolgáltatás 8220 Telefoninformáció 8299 M. n. s. egyéb kiegészítő üzleti szolgáltatás |
 
-[^143]: Az 1. mellékletet a 426/2016. (XII. 15.) Korm. rendelet 26. §-a iktatta be, szövege a 36/2019. (III. 5.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^158]: Az 1. mellékletet a 426/2016. (XII. 15.) Korm. rendelet 26. §-a iktatta be, szövege a 36/2019. (III. 5.) Korm. rendelet 13. §-ával megállapított szöveg.
