@@ -34,7 +34,7 @@ g) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsé
 
 (5) Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
 
-(6) A 6. alcím szerinti támogatás kisvállalkozás részére, a 7., 26–27. és – a 65. § (4) bekezdés a) pontja figyelembevételével – a 34. alcím szerinti támogatás kis- és középvállalkozás részére nyújtható.
+(6)[^9] A 6. alcím szerinti támogatás kisvállalkozás részére, a 7., 26. és – a 65. § (4) bekezdés a) pontja figyelembevételével – a 34. alcím szerinti támogatás kis- és középvállalkozás részére nyújtható.
 
 (7) A 651/2014/EU bizottsági rendelet alapján támogatás – az induló vállalkozásnak nyújtott támogatás és a kultúrát és a kulturális örökség megőrzését előmozdító támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
@@ -57,3 +57,5 @@ g) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsé
 (16) A 32–34. alcím szerinti támogatások esetén az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
 
 (17) A mezőgazdasági ágazat részére nyújtott állami támogatások ugyanazon elszámolható költségek tekintetében nem halmozhatók az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2017. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet 81. cikk (2) bekezdésében és 82. cikkében említett kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az agrár- és erdészeti iránymutatásban megállapított intenzitást vagy összeget.
+
+[^9]: Az 5. § (6) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § b) pontja szerint módosított szöveg.

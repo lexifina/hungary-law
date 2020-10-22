@@ -12,6 +12,8 @@ b) – ha e rendelet a hatálya alá tartozó előirányzat esetében lebonyolí
 
 ## (a kezelő szerv és a lebonyolító szerv a továbbiakban együtt: szerv) által az e rendelet hatálya alá tartozó előirányzatok vonatkozásában az e rendelet hatálybalépését megelőzően tett kötelezettségvállalást és teljesített kifizetést az arra jogosult szerv által tett kötelezettségvállalásnak és teljesített kifizetésnek kell tekinteni.
 
+(2a)[^1] E rendelet 1. mellékletének 54. és 86. sora vonatkozásában az irányító szerv által a fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 14/2019. (VI. 12.) ITM rendelet módosításáról szóló 39/2020. (X. 21.) ITM rendelet hatálybalépését[^2] megelőzően tett kötelezettségvállalást és teljesített kifizetést az arra jogosult szerv által tett kötelezettségvállalásnak és teljesített kifizetésnek kell tekinteni.
+
 (3) Az e rendelet hatálya alá tartozó,
 
 a) 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából,
@@ -41,3 +43,6 @@ f) támogatás formája,
 g) támogatás célja,
 
 h) támogatást nyújtó hatóság megnevezése.
+
+[^1]: A 3. § (2a) bekezdését a 39/2020. (X. 21.) ITM rendelet 1. §-a iktatta be.
+[^2]: A hatálybalépés időpontja 2020. október 22.

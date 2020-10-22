@@ -4,13 +4,13 @@
 
 ## 3. Az európai uniós támogatásoknak való megfelelés
 
-## 4. §[^1] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
+## 4. §[^3] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
-1. 10., 33–37., 45., 48., 49., 51., 53., 56., 80. és 86–91. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
+1.[^4] 10., 22., 31/b., 33–37., 45., 48., 49., 51., 53., 56., 80., 86–91. és 122. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
 2. 35–36. sora alapján az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás;
 
-3. 7., 10., 35., 42., 49., 51., 60. és 88. sora alapján az 1370/2007/EK európai parlamenti és tanácsi rendelet szerinti személyszállítási közszolgáltatásért járó ellentételezés;
+3.[^5] 7., 10., 31/a., 35., 42., 49., 51., 60. és 88. sora alapján az 1370/2007/EK európai parlamenti és tanácsi rendelet szerinti személyszállítási közszolgáltatásért járó ellentételezés;
 
 4. 7., 10., 17., 35., 37., 40., 41., 44., 49. és 72. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás;
 
@@ -26,7 +26,7 @@
 
 10. 35., 48–49., 53., 86–87. és 89–91. sora alapján a 651/2014/EU bizottsági rendelet 22. cikke szerinti induló vállalkozásnak nyújtott támogatás;
 
-11. 35., 37., 48–49., 53., 56. és 86–79. sora alapján a 651/2014/EU bizottsági rendelet 25. cikke szerinti kutatás-fejlesztési projekthez nyújtott támogatás;
+11.[^6] 35., 37., 48–49., 53., 56. és 86–89. sora alapján a 651/2014/EU bizottsági rendelet 25. cikke szerinti kutatás-fejlesztési projekthez nyújtott támogatás;
 
 12. 35., 48–49., 53., 56., 86–88., 92. és 100. sora alapján a 651/2014/EU bizottsági rendelet 26. cikke szerinti kutatási infrastruktúrához nyújtott beruházási támogatás;
 
@@ -58,7 +58,7 @@
 
 26. 35., 37., 40., 48–49. és 91. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
-27. 22. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás;
+27.[^7] 22. és 31/b. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás;
 
 28. 35. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat (a továbbiakban: SA.46515 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás;
 
@@ -72,4 +72,11 @@
 
 33. 60. sora alapján a 651/2014/EU bizottsági rendelet 36. cikke szerinti uniós szabvány túlteljesítését vagy a környezetvédelem szintjének emelését lehetővé tevő beruházási támogatás
 
-[^1]: A 4. § a 49/2019. (XII. 30.) ITM rendelet 2. §-ával megállapított szöveg.
+34.[^8] 34. és 36. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, 2020/C 91 I/01. számú európai bizottsági közlemény szerinti átmeneti támogatás
+
+[^3]: A 4. § a 49/2019. (XII. 30.) ITM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § 1. pontja a 39/2020. (X. 21.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § 3. pontja a 39/2020. (X. 21.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § 11. pontja a 39/2020. (X. 21.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § 27. pontja a 39/2020. (X. 21.) ITM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § 34. pontját a 39/2020. (X. 21.) ITM rendelet 2. § (4) bekezdése iktatta be.
