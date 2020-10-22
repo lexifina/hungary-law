@@ -1,3 +1,0 @@
-## 3. § Az R. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Beruházásokkal összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a Kötv. 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány az adott beruházáshoz köthetően már rendelkezésre áll. A Beruházásokkal összefüggésben a Kötv. 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány készítése nem szükséges, ha az adott beruházáshoz köthetően már előzetes régészeti dokumentáció rendelkezésre áll. Ha az e bekezdés szerinti dokumentumok egyike sem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.”
