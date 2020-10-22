@@ -1,0 +1,112 @@
+# A Kormány 1685/2020. (X. 22.) Korm. határozata
+
+Magyar Közlöny 2020. évi 229. szám, 2020. október 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/o9h0QrPFcII1CPUIl0pF5f889b4468065/dokumentumok/42ec53ae2be33b27471002ad9e2214b27ef22cb5/letoltes)
+
+---
+
+A Kormány 1685/2020. (X. 22.) Korm. határozata
+az Európai Unió számára készített,„A nők szerepének erősítése a családban és a társadalomban”
+(2021–2030) akcióterv elfogadásáról, valamint a végrehajtásának a 2021−2022. évekre szóló Intézkedési
+Tervéről
+A Kormány a nők társadalmi szerepvállalásának, illetve családban betöltött szerepének erősítése érdekében
+1. elfogadja az Európai Unió számára készített, „A nők szerepének erősítése a családban és a társadalomban”
+(2021−2030) akciótervet (a továbbiakban: Akcióterv);
+2. elfogadja az 1. melléklet szerinti, az Európai Unió számára készített „A nők szerepének erősítése a családban
+és a társadalomban” (2021−2030) akcióterv végrehajtásának a 2021−2022. évekre szóló Intézkedési Tervét
+(a továbbiakban: Intézkedési Terv), és elrendeli annak a végrehajtását;
+3. felhívja a családokért felelős tárca nélküli minisztert, hogy
+a) gondoskodjon az Akciótervnek a kormányzati portálon történő közzétételéről,
+b) gondoskodjon az Akcióterv feladatainak a megvalósításáról a feladat- és hatáskörébe tartozó szakpolitikák
+tervezése és végrehajtása során,
+c) koordinálja az Intézkedési Terv végrehajtását;
+Felelős: családokért felelős tárca nélküli miniszter
+Határidő: az a) pont tekintetében e határozat közzétételét követő 15 napon belül
+a b) és a c) pont tekintetében folyamatos
+4. felhívja az érintett minisztereket, hogy az Intézkedési Terv végrehajtásában az adott évben rendelkezésre álló
+költségvetési és uniós források keretei között működjenek közre;
+Felelős: érintett miniszterek
+Határidő: folyamatos, az Intézkedési Tervben meghatározott határidőkkel összhangban
+5. felhívja a pénzügyminisztert, hogy az Intézkedési Tervben meghatározott célok végrehajtása érdekében
+– az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon legfeljebb 14 000 000 forint
+többletforrás rendelkezésre állásáról a 2022. évi központi költségvetés XVII. Innovációs és Technológiai Minisztérium
+fejezetben.
+Felelős: pénzügyminiszter
+innovációért és technológiáért felelős miniszter
+Határidő: a 2022. évi központi költségvetés tervezése során
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1685/2020. (X. 22.) Korm. határozathoz
+Az Európai Unió számára készített,„A nők szerepének erősítése a családban és a társadalomban”
+(2021−2030) akcióterv végrehajtásának a 2021−2022. évekre szóló Intézkedési Terve
+Az Akciótervben foglalt feladatok 2021−2022. évekre vonatkozó teljesítése érdekében a nők és férfiak társadalmi
+egyenlőségének megvalósítása céljából a következő intézkedések végrehajtása szükséges:
+1. a nők helyzetének vizsgálata érdekében kiterjedt kutatások folytatása, különös tekintettel a családi élet
+és munkavállalás összehangolásának támogatására, a női-férfi munkamegosztás elősegítésén keresztül,
+az atipikus foglalkoztatási formák alacsony mértéke okainak felmérésére, továbbá a kutatások eredményeinek
+figyelembevételével új intézkedések kidolgozása, különös tekintettel a digitalizáció előnyös hatásainak
+kihasználására is;
+
+Felelős: családokért felelős tárca nélküli miniszter
+innovációért és technológiáért felelős miniszter
+Határidő: 2022. január 31.
+Forrás: európai uniós forrásbevonással
+2. a nők „láthatatlan”, „fizetetlen” munkájának mérséklése és fokozottabb elismerése a nemzedékek közötti
+együttműködés előmozdításával, a nagyszülői szerep támogatásával, a hozzátartozók ápolásából fakadó terhek
+csökkentésével, továbbá figyelemfelhívó kommunikációs kampányokkal;
+Felelős: családokért felelős tárca nélküli miniszter
+Határidő: folyamatos
+Forrás: központi költségvetés XI. Miniszterelnökség fejezet 30/01/20/05
+3. szemléletmód-formálás az oktatásban a Családi Életre Nevelés program erősítésével, hangsúlyt helyezve a nők és
+férfiak közötti harmonikus együttműködésre;
+Felelős: családokért felelős tárca nélküli miniszter
+innovációért és technológiáért felelős miniszter
+Határidő: 2022. december 31.
+Forrás: központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet
+4. család- és gyermekbarát környezet kialakítása a meglévő pályázatok, hálózatok fenntartásával és bővítésével,
+a Családbarát Munkahely pályázat és a Család és Karrier Pontok fejlesztésével;
+Felelős: családokért felelős tárca nélküli miniszter
+innovációért és technológiáért felelős miniszter
+Határidő: folyamatos
+Forrás: központi költségvetés XI. Miniszterelnökség fejezet 30/01/20/05
+5. a nők vezetővé válásának elősegítése a gazdasági-vállalati szektorban, a családbarát munkahelyi programok,
+szemléletmód-formálás, pályázatok és családbarát felsőoktatás támogatásával;
+Felelős: családokért felelős tárca nélküli miniszter
+innovációért és technológiáért felelős miniszter
+Határidő: folyamatos
+Forrás: európai uniós forrásbevonással
+6. a nőpolitikai, női szempontokat figyelembe vevő szakértelem fejlesztése szakértők képzésével, valamint a szaktudás
+elterjesztésével a közigazgatásban;
+Felelős: családokért felelős tárca nélküli miniszter
+Miniszterelnökséget vezető miniszter
+innovációért és technológiáért felelős miniszter
+Határidő: 2022. december 31.
+Forrás: központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet
+7. a nők vállalkozóvá válásának támogatása szakmai programokkal, sikeres vállalkozó nők példájának bemutatásával;
+Felelős: családokért felelős tárca nélküli miniszter
+innovációért és technológiáért felelős miniszter
+pénzügyminiszter
+Határidő: 2022. december 31.
+Forrás: európai uniós forrásbevonással GINOP-5.2.7-18., GINOP-5.1.9-17, GINOP-1.1.2-VEKOP-17
+8. Családbarát Szülészet és Családbarát Kórház pályázatok további meghirdetése, kibővítése;
+Felelős: családokért felelős tárca nélküli miniszter
+emberi erőforrások minisztere
+Határidő: 2022. december 31.
+Forrás: európai uniós forrásbevonással
+9. a hátrányos helyzetű (elsősorban roma) nők egészségtudatosságát növelő, a szervezett népegészségügyi
+szűréseken való részvételt ösztönző programok kidolgozása, valamint a munkaerőpiacon és a családon belüli
+szerepüket támogató programok működtetése;
+Felelős: családokért felelős tárca nélküli miniszter
+emberi erőforrások minisztere
+belügyminiszter
+Határidő: 2022. december 31.
+Forrás: európai uniós forrásbevonással, központi költségvetés XI. Miniszterelnökség fejezet
+30/01/20/05, XX. Emberi Erőforrások Minisztériuma fejezet 20/22/28, illetve 20/22/1
+
+10. ingyenes mentálhigiénés tanácsadás, pszichológusok biztosítása az Egészségfejlesztési Irodákban a hátrányos
+helyzetű nők számára, a Család- és Karrier Pontok, az Egyszülős Központ és a Család, Esélyteremtő és Önkéntes
+Házak hálózatának bevonásával.
+Felelős: családokért felelős tárca nélküli miniszter
+emberi erőforrások minisztere
+Határidő: 2022. december 31.
+Forrás: európai uniós forrásbevonással, központi költségvetés XI. Miniszterelnökség fejezet
+30/01/20/05, XX. Emberi Erőforrások Minisztériuma fejezet 20/22/1
