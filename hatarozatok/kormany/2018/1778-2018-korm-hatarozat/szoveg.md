@@ -22,6 +22,8 @@ b) gondoskodjon a hitelintézetek által 2020. április 21. napjától kibocsát
 
 c) gondoskodjon a hitelintézetek által 2020. április 21. és 2020. december 31. napja között kibocsátott, legfeljebb 6 év futamidejű folyószámla-, forgóeszköz-finanszírozási, beruházási célú, valamint egyéb ügyletkörbe tartozó új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 90%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át;
 
+d)[^2] gondoskodjon a hitelintézetek által 2020. október 22. és 2020. december 31. napja között kibocsátott, legfeljebb tíz év futamidejű, beruházási célú új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) és c) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, maximálisan 100 000 000 forint hitelösszeg esetén a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás, 100 000 000 forintot meghaladó hitelösszeg esetén a teljes hitelösszeg legfeljebb 2%-át kitevő mértékű garanciadíj-támogatás biztosításáról, azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át;
+
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
@@ -44,34 +46,30 @@ Felelős: pénzügyminiszter
 
 Határidő: Magyarország 2021–2030. évi központi költségvetéseinek tervezése során
 
-6.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 5. Intézményi kezességi díjtámogatások jogcímcsoporton rendelkezésre álló előirányzat terhére vállalható tárgyéven túli kötelezettségek mértékét a 2021–2032. évekre az alábbiak szerint állapítja meg:
+6.[^3] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 5. Intézményi kezességi díjtámogatások jogcímcsoporton rendelkezésre álló előirányzat terhére vállalható tárgyéven túli kötelezettségek mértékét a 2021–2032. évekre az alábbiak szerint állapítja meg:
 
 a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 4 500 000 000 forint,
 
-b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 4 000 000 000 forint,
+b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 5 000 000 000 forint,
 
-c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 3 500 000 000 forint,
+c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 4 200 000 000 forint,
 
-d) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 3 000 000 000 forint,
+d) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 3 500 000 000 forint,
 
-e) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 2 500 000 000 forint,
+e) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 3 000 000 000 forint,
 
-f) a 2026–2032. évekre vonatkozó kötelezettségvállalások felső korlátja évente 2 000 000 000 forint;
+f) a 2026–2032. évekre vonatkozó kötelezettségvállalások felső korlátja évente 2 500 000 000 forint.
 
 Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-7. felhívja az innovációért és technológiáért felelős minisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával kétévente értékelje az 1. és 2. pontban foglalt feladatok teljesülését, és szükség esetén tegyen javaslatot a Kormány részére a kezességi díjtámogatások feltételrendszerének módosítására;
+7.[^4]
 
-Felelős: innovációért és technológiáért felelős miniszter
-
-nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-Határidő: első alkalommal 2020. október 31., ezt követően minden második év október 31. napja
-
-8–9.[^3]
+8–9.[^5]
 
 [^1]: A 2. pont az 1170/2020. (IV. 21.) Korm. határozat 9. pontjával megállapított szöveg.
-[^2]: A 6. pont az 1170/2020. (IV. 21.) Korm. határozat 9. pontjával megállapított szöveg.
-[^3]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont d) alpontját az 1684/2020. (X. 21.) Korm. határozat 3. pontja iktatta be.
+[^3]: A 6. pont az 1684/2020. (X. 21.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: A 7. pontot az 1684/2020. (X. 21.) Korm. határozat 7. pontjával visszavonta.
+[^5]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
