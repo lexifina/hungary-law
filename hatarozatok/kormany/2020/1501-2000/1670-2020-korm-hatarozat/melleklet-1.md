@@ -28,21 +28,7 @@
 
 ## Határidő: a REACT EU forrás felhasználására irányuló uniós rendelet hatálybalépését követően az Emberi Erőforrás Fejlesztési Operatív Programnak a REACT EU prioritás létrehozására irányuló módosítása Európai Bizottsághoz történő benyújtását követően haladéktalanul
 
-## 2. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. pont e) alpontjában az „50,14” szövegrész helyébe az „55,73” szöveg,
-
-## b) 1. melléklet 1. pontjában foglalt táblázat C:31c. mezőjében az „54,52 (ebből VEKOP: 3,43; ebből indikatív önerő: 14,15)” szövegrész helyébe a „41,47 (ebből VEKOP: 3,43; ebből indikatív önerő: 14,15)” szöveg,
-
-## c) 1. melléklet 1. pontjában foglalt táblázat C:44 mezőjében a „46,66 (ebből indikatív önerő: 14,00)” szövegrész helyébe a „65,31 (ebből indikatív önerő: 19,60)” szöveg,
-
-## d) 2. mellékletében foglalt táblázat
-
-## da) D:27 mezőjében a „32,67” szövegrész helyébe a „45,72” szöveg;
-
-## db) E:27 mezőjében a „14,00” szövegrész helyébe a „19,60” szöveg
-
-## lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -55,3 +41,5 @@
 | Az Emberi Erőforrás Fejlesztési Operatív Program (EFOP) keretében finanszírozandó összeg | Az Európai Unió felé nem elszámolható egyéb költségek (XIX. Uniós fejlesztések fejezet EFOP hazai társfinanszírozása) terhére finanszírozni tervezett összeg |
 
 | 2. | EFOP-1.9.6-16- 2017-00001 | Elektronikus egészségügyi ágazati fejlesztések | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Nemzeti Népegészségügyi Központ, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet, NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, Nemzeti Egészségbiztosítási Alapkezelő | 46 658 800 000 | 13 051 920 000 | 5 593 680 000 | 65 304 400 000 | A projekt célja – a Nemzeti Infokommunikációs Stratégia céljainak megfelelő komplex fejlesztési program végrehajtása által – az egészségügyi ágazat hatékonyságának és lakosság részére nyújtott szolgáltatásainak minőségfejlesztése. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
