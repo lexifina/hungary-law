@@ -534,12 +534,12 @@
 
 | 7. | Gyomos évelő pillangós után a második évben | 0 kg/ha |
 
-| 8. | Nagytömegű kukoricaszár, napraforgószár és tarlómaradványok időbeni lebontásához és a talaj biológiai feltáró folyamatainak elősegítéséhez a IV., V. (1), VI. (2) szántóföldi termőhelyen | 100 kg szárazanyaghoz további 0,8 kg N-t kell adni |
+| 8. | Nagytömegű kukoricaszár, napraforgószár és tarlómaradványok időbeni lebontásához és a talaj biológiai feltáró folyamatainak elősegítéséhez szántóföldi termőhelyen | 100 kg szárazanyaghoz további 0,8 kg N hatóanyagot lehet adni |
 
 ## (1)V. szántóföldi termőhely: szikes talajok
 
 ## (2) VI. szántóföldi termőhely: sekély termőrétegű, erodált talajok
 
-4. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^26]
+4. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^28]
 
-[^26]: A 4. számú melléklet a 147/2012. (XII. 27.) VM rendelet 6. §-a szerint módosított szöveg.
+[^28]: A 4. számú melléklet a 147/2012. (XII. 27.) VM rendelet 6. §-a szerint módosított szöveg.
