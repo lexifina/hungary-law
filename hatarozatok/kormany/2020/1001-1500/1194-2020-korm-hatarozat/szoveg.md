@@ -28,7 +28,7 @@ b) a Széchenyi Likviditási Hitel esetén a fennálló tőketartozásra vetítv
 
 c) a Széchenyi Beruházási Hitel Plusz esetén a fennálló tőketartozásra vetítve évi 4,0 százalékpont kamattámogatást és 0,5 százalékpont kezelési költség támogatást,
 
-d) valamint a hitelekhez nyújtott készfizető kezességvállalás díjához 1%-os kezességi díjtámogatást
+d)[^1] valamint a hitelekhez – ideértve a legfeljebb 100 000 000 forint összegű, a Garantiqa Krízis Garanciaprogram Investment Hitelgarancia keretében garantált hiteleket is – nyújtott készfizető kezességvállalás díjához 1%-os kezességi díjtámogatást, illetve a Garantiqa Krízis Garanciaprogram Investment Hitelgarancia keretében nyújtott, 100 000 000 forintot meghaladó Széchenyi Beruházási Hitel Plusz hitelek készfizető kezességvállalás díjához 2%-os kezességi díjtámogatást
 
 biztosít.
 
@@ -96,6 +96,7 @@ Határidő: Magyarország 2022–2031. évi központi költségvetésének terve
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5.[^1]
+5.[^2]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont d) alpontja az 1684/2020. (X. 21.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
