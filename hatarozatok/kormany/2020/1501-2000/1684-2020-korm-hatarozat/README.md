@@ -1,0 +1,9 @@
+# 1684/2020. (X. 21.) Korm. határozat
+
+a Garantiqa Krízis Garanciaprogram kiterjesztésével kapcsolatos feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1684-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-10-22 | 2020-1684-30-22.1 | 1684/2020. (X. 21.) Korm. határozat |
