@@ -1,6 +1,6 @@
 ## 10. §[^2]
 
-1. melléklet az 5/2014. (II. 7.) NGM rendelethez
+1. melléklet az 5/2014. (II. 7.) NGM rendelethez[^3]
 
 A nemzetgazdasági miniszter által meghagyásba bevont gazdasági szervek
 
@@ -10,7 +10,7 @@ A nemzetgazdasági miniszter által meghagyásba bevont gazdasági szervek
 
 | 1. | Magyar Turizmus Zrt. | 1115 Budapest, Bartók Béla út 105–113. |
 
-| 2. | Államadósság Kezelő Központ Zrt. | 1027 Budapest, Csalogány u. 9–11. |
+| 2. |  |  |
 
 | 3. | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. | 1113 Budapest, Diószegi út 37. |
 
@@ -67,3 +67,4 @@ A nemzetgazdasági miniszter által meghagyásba bevont gazdasági szervek
 | 29. | Érv Kft. | 2092 Budakeszi, Mezei M. u. 3/A. |
 
 [^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 10/2020. (X. 21.) PM rendelet 10. §-a szerint módosított szöveg.
