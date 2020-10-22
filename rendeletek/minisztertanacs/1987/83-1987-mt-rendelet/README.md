@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1987-83-20-6
 | 2018-01-01 | 1987-83-20-65.10 | 359/2017. (XI. 30.) Korm. rendelet |
 | 2019-01-01 | 1987-83-20-65.11 | 240/2018. (XII. 12.) Korm. rendelet |
 | 2020-01-01 | 1987-83-20-65.12 | 300/2019. (XII. 11.) Korm. rendelet |
+| 2020-10-22 | 1987-83-20-65.13 | 461/2020. (X. 21.) Korm. rendelet |
