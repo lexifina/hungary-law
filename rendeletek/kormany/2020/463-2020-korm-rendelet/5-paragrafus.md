@@ -1,1 +1,0 @@
-## „f) olyan vállalkozásnak, vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi, Magyarországnak címzett határozata alapján tiltott állami támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték, és ezen visszafizetési kötelezettségének nem tett eleget.”
