@@ -1,7 +1,3 @@
-## 2. § Az 59/2008. (IV. 29.) FVM rendelet 3. számú melléklete az 1. melléklet szerint módosul.
+## 2. §[^3]
 
-## 3. § Hatályát veszti az 59/2008. (IV. 29.) FVM rendelet
-
-a) 11. § (2) és (3) bekezdése,
-
-b) 6. számú melléklete.
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
