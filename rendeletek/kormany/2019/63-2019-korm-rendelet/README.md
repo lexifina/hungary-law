@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-63-20-2
 | 2019-06-12 | 2019-63-20-22.2 | 136/2019. (VI. 11.) Korm. rendelet |
 | 2020-02-01 | 2019-63-20-22.3 | 8/2020. (I. 31.) Korm. rendelet |
 | 2020-07-29 | 2019-63-20-22.4 | 8/2020. (I. 31.) Korm. rendelet |
+| 2020-10-23 | 2019-63-20-22.5 | 8/2020. (I. 31.) Korm. rendelet |
