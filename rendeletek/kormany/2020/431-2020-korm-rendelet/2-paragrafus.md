@@ -12,24 +12,35 @@ b) a szabálysértésekről, a szabálysértési eljárásról és a szabálysé
 
 c) gondoskodni e személynek a tömegközlekedési eszközről történő leszállításáról.
 
-(4) Azt a személyt, aki a maszkot az 1. § (1) bekezdés b)–i) pontja, valamint az 1. § (2) és (4) bekezdése esetében az üzemeltető felszólítására sem viseli az 1. § (1) bekezdésében meghatározott módon, az üzemeltető köteles a látogatásból kizárni, és gondoskodni arról, hogy e személy a helyiséget, illetve a területet elhagyja.
+(4)[^3] Azt a személyt, aki a maszkot az 1. § (1) bekezdés b)–k) pontja, valamint az 1. § (2) és (4) bekezdése esetében az üzemeltető felszólítására sem viseli az 1. § (1) bekezdésében meghatározott módon, az üzemeltető köteles a látogatásból kizárni, és gondoskodni arról, hogy e személy a helyiséget, illetve a területet elhagyja.
+
+(4a)[^4] Azt a személyt, aki a maszkot
+
+a) az 1. § (1) bekezdés j) pontja esetében a sportrendezvény szervezője felszólítására sem viseli az 1. § (1) bekezdésében meghatározott módon, a sportrendezvény szervezője köteles a látogatásból kizárni, és gondoskodni arról, hogy e személy a sportrendezvény helyszínét elhagyja;
+
+b) az 1. § (1) bekezdés k) pontja esetében a gyűlés szervezője felszólítására sem viseli az 1. § (1) bekezdésében meghatározott módon, a gyűlés szervezője köteles a gyűlés helyszínének elhagyására felhívni.
+
+(4b)[^5] Az 1. § (1) bekezdés j) pontja szerinti sportrendezvény szervezője, valamint az 1. § (1) bekezdés k) pontja szerinti gyűlés szervezője köteles gondoskodni a (4a) bekezdésben meghatározott szabályok betartásáról.
 
 (5) Az (1), (3) és (4) bekezdésben meghatározott kötelezettség betartását
 
-a)[^1]
+a)[^6]
 
 b) az 1. § (1) bekezdés b), c) és e) pontja esetében a kereskedelmi hatóság
 
 ## köteles ellenőrizni.
 
-(6)[^2] Az (1), (3) és (4) bekezdésben meghatározott kötelezettség betartását
+(6)[^7] Az (1), (3) és (4) bekezdésben meghatározott kötelezettség betartását
 
 a) – a b) pont szerinti kivétellel – az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) ellenőrzi,
 
 b) az 1. § (1) bekezdés b), c) és e) pontja esetében a rendőrség is ellenőrizheti.
 
-(7)[^3] Ha a rendőrség az ellenőrzés során az (1), (3) vagy (4) bekezdés szerinti kötelezettség megsértését észleli, az üzemeltető figyelmét erre felhívja, és az esetről az (5) bekezdés b) pontja szerinti hatáskörrel rendelkező szervet értesíti.
+(7)[^8] Ha a rendőrség az ellenőrzés során az (1), (3) vagy (4) bekezdés szerinti kötelezettség megsértését észleli, az üzemeltető figyelmét erre felhívja, és az esetről az (5) bekezdés b) pontja szerinti hatáskörrel rendelkező szervet értesíti.
 
-[^1]: A 2. § (5) bekezdés a) pontját a 453/2020. (X. 9.) Korm. rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.
-[^2]: A 2. § (6) bekezdése a 453/2020. (X. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (7) bekezdése a 453/2020. (X. 9.) Korm. rendelet 4. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 464/2020. (X. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^4]: A 2. § (4a) bekezdését a 464/2020. (X. 22.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 2. § (4b) bekezdését a 464/2020. (X. 22.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 2. § (5) bekezdés a) pontját a 453/2020. (X. 9.) Korm. rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (6) bekezdése a 453/2020. (X. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (7) bekezdése a 453/2020. (X. 9.) Korm. rendelet 4. § (5) bekezdés b) pontja szerint módosított szöveg.
