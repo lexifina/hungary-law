@@ -1,0 +1,1 @@
+A Kormány – tekintettel a Modern Városok Program részeként megvalósuló Pécsi Tudományegyetem idegen nyelvű képzései bővítéséhez kapcsolódó kapacitás fejlesztéséhez, valamint a kutatási-fejlesztési potenciáljának fejlesztéséhez szükséges források biztosításáról szóló 1035/2016. (II. 9.) Korm. határozatra –
