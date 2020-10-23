@@ -60,6 +60,16 @@
 
 ## Határidő: 2021. március 31.
 
+## 11.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter és a Társaság bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti beruházás megvalósításához szükséges ingatlanok független értékbecslés szerinti értéken történő megszerzéséről és annak beruházásra alkalmas területté nyilvánításáról legfeljebb 800 000 000 forint összeghatáron belül, továbbá a Társaság részére tulajdonosi joggyakorlásra történő átadásáról.
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## innovációért és technológiáért felelős miniszter
+
+## Határidő: az ingatlanok megszerzése vonatkozásában az innovációért és technológiáért felelős miniszter által a megszerezni szükséges ingatlanok megjelölését tartalmazó megkeresés nemzeti vagyon kezeléséért felelős tárca nélküli miniszter általi átvételét követő 90 napon belül;
+
+## az ingatlanok Társaság részére történő átadása vonatkozásában az ingatlanok állami tulajdonba kerülését követő 90 napon belül
+
 1. melléklet az 1399/2020. (VII. 15.) Korm. határozathoz
 
 | XVII. Innovációs és Technológiai Minisztérium XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
@@ -127,3 +137,5 @@
 |  |  | egyéb: |  | azonnal |  | 103 000 000 |  |  |  |  |  |  |  |  |  |  | 103 000 000 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 11. pontot az 1690/2020. (X. 23.) Korm. határozat 2. pontja iktatta be.
