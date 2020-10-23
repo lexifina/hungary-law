@@ -14,7 +14,7 @@ ac) október 23-a, az 1956-os Forradalom és Szabadságharc Emléknapja és
 
 b) a kiemelt fontosságú rendezvény.
 
-3. Kiemelt fontosságú rendezvény
+3.[^1] Kiemelt fontosságú rendezvény
 
 a) január 19-e, a Magyarországi Németek Elhurcolásának és Elűzetésének Emléknapja,
 
@@ -30,15 +30,17 @@ f) június 16-a, Nagy Imre és mártírtársai újratemetésének Emléknapja,
 
 g) július 22-e, a Nándorfehérvári Diadal Emléknapja,
 
-h) október 6-a, az Aradi Vértanúk Emléknapja,
+h) augusztus 23-a, a Totalitárius Diktatúrák Áldozatainak Európai Emléknapja,
 
-i) november 4-e, a Nemzeti Gyász Emléknapja,
+i) október 6-a, az Aradi Vértanúk Emléknapja,
 
-j) november 25-e, a Szovjetunióba hurcolt magyar politikai rabok és kényszermunkások Emléknapja,
+j) november 4-e, a Nemzeti Gyász Emléknapja,
 
-k) Magyarország karácsonya, valamint
+k) november 25-e, a Szovjetunióba hurcolt magyar politikai rabok és kényszermunkások Emléknapja,
 
-l) az országos jelentőségű, eseti jellegű, év közben keletkezett, ezért előre nem tervezhető egyéb olyan rendezvény, amelyet a miniszterelnök kabinetfőnöke kiemelt fontosságú rendezvénnyé minősített.
+l) Magyarország karácsonya, valamint
+
+m) az országos jelentőségű, eseti jellegű, év közben keletkezett, ezért előre nem tervezhető egyéb olyan rendezvény, amelyet a miniszterelnök kabinetfőnöke kiemelt fontosságú rendezvénnyé minősített.
 
 2. A Kormány tagjainak feladatai
 
@@ -108,12 +110,13 @@ szervezi meg, és ellátja a nemzeti rendezvény műszaki, művészeti, produkci
 
 17. Ez a határozat – a 18. pontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
-18.[^1]
+18.[^2]
 
-19.[^2]
+19.[^3]
 
-20.[^3]
+20.[^4]
 
-[^1]: A 18. pontot az 1565/2020. (VIII. 31.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^2]: A 19. pont az 1565/2020. (VIII. 31.) Korm. határozat 5. pontja alapján nem lép hatályba.
-[^3]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont az 1686/2020. (X. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 18. pontot az 1565/2020. (VIII. 31.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^3]: A 19. pont az 1565/2020. (VIII. 31.) Korm. határozat 5. pontja alapján nem lép hatályba.
+[^4]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
