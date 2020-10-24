@@ -1,11 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 465/2020. (X. 22.) Korm. rendelethez
+1. melléklet a 465/2020. (X. 22.) Korm. rendelethez[^3]
 
-A Rendelet 2. mellékletében foglalt II. táblázat a következő 4. sorral egészül ki:
-
-|  | (A | B |
-
-| 1 | Kiemelten közérdekű beruházás | Ingatlanok azonosító adatai) |
-
-| 4 | Debreceni Főnix Csarnok felújítása | Debrecen belterület 10897/6 és 10897/6/A helyrajzi számú ingatlanok |
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
