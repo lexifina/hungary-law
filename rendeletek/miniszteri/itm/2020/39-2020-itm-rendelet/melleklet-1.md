@@ -1,3 +1,0 @@
-1. melléklet a 39/2020. (X. 21.) ITM rendelethez[^3]
-
-[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
