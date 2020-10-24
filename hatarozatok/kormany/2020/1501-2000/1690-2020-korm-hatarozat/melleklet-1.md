@@ -28,18 +28,8 @@
 
 ## e) a Kvtv. 16. §-a és 4. melléklet 2. pontja alapján jóváhagyja a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 1. Szociális célú nem állami humánszolgáltatások támogatása jogcímcsoport legfeljebb 34 049 000 000 forint összeggel történő túllépését.
 
-## 2. A MotoGP kelet-magyarországi helyszínen történő megrendezésével, valamint egyes autó-motorsport stratégiai kérdésekkel kapcsolatos döntésekről szóló 1399/2020. (VII. 15.) Korm. határozat a következő 11. ponttal egészül ki:
-
-## (A Kormány)
-
-## „11. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter és a Társaság bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti beruházás megvalósításához szükséges ingatlanok független értékbecslés szerinti értéken történő megszerzéséről és annak beruházásra alkalmas területté nyilvánításáról legfeljebb 800 000 000 forint összeghatáron belül, továbbá a Társaság részére tulajdonosi joggyakorlásra történő átadásáról.
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: az ingatlanok megszerzése vonatkozásában az innovációért és technológiáért felelős miniszter által a megszerezni szükséges ingatlanok megjelölését tartalmazó megkeresés nemzeti vagyon kezeléséért felelős tárca nélküli miniszter általi átvételét követő 90 napon belül;
-
-## az ingatlanok Társaság részére történő átadása vonatkozásában az ingatlanok állami tulajdonba kerülését követő 90 napon belül”
+## 2.[^1]
 
 1. melléklet az 1690/2020. (X. 23.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
