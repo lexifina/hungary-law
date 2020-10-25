@@ -2,7 +2,7 @@
 
 ## 5. A keretmegállapodás
 
-9. § (1) A miniszter keretmegállapodást köthet azzal a sportszervezettel, amely vállalja a 3–7. §-ban megállapított követelmények teljesítését, feladatok ellátását és a miniszter által meghatározott sportakadémiai minőségbiztosítási rendszerben (a továbbiakban: minőségbiztosítási rendszer) foglalt követelményeknek való megfelelést.
+9. § (1)[^4] A miniszter keretmegállapodást köthet azzal a sportszervezettel, amely vállalja a 3–7/B. §-ban megállapított követelmények teljesítését, feladatok ellátását és a miniszter által meghatározott sportakadémiai minőségbiztosítási rendszerben (a továbbiakban: minőségbiztosítási rendszer) foglalt követelményeknek való megfelelést.
 
 (2) A miniszter keretmegállapodást az alábbi sportágak valamelyikében működő sportszervezettel köthet:
 
@@ -19,3 +19,5 @@ c) labdarúgás.
 (5) A miniszter igazolást állít ki a sportakadémia részére a keretmegállapodás megkötéséről és az „Államilag elismert sportakadémia” megnevezés használhatóságáról. Az igazolást a sportakadémia a honlapján közzéteszi.
 
 (6) A miniszter az általa vezetett minisztérium honlapján közzéteszi a hatályos keretmegállapodással rendelkező sportszervezetek listáját.
+
+[^4]: A 9. § (1) bekezdése a 457/2020. (X. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
