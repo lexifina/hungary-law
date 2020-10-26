@@ -1,3 +1,3 @@
-## 1. § A sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet (a továbbiakban: Rendelet) 6. §-a a következő (4) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(4) A sportakadémia az e rendeletben meghatározottak szerint együttműködik a 15/A. § szerinti sportakadémiai módszertani központtal.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
