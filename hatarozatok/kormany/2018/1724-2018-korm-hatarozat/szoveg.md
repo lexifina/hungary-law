@@ -22,11 +22,11 @@ dc) Luxembourgban (Luxemburgi Nagyhercegség),
 
 dd) Nürnbergben (Németországi Szövetségi Köztársaság),
 
-de) Harareban (Zimbabwei Köztársaság),
+de)[^1]
 
 df) Xiamenben (Kínai Népköztársaság),
 
-dg)[^1]
+dg)[^2]
 
 4. felhatalmazza a külgazdasági és külügyminisztert a 3. pont d) alpontjában felsorolt külképviseletek megnyitásához szükséges diplomáciai lépések megtételére és az érintett országok külügyminisztériumainak tájékoztatására, továbbá megbízza a nem önálló külképviseletek megnyitásával összefüggő feladatok végrehajtásával;
 
@@ -84,4 +84,5 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2021. június 30.
 
-[^1]: A 3. pont d) alpont dg) alpontját az 1685/2019. (XII. 10.) Korm. határozat 9. pontja visszavonta.
+[^1]: A 3. pont d) alpont de) alpontját az 1693/2020. (X. 27.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 3. pont d) alpont dg) alpontját az 1685/2019. (XII. 10.) Korm. határozat 9. pontja visszavonta.
