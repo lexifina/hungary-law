@@ -1,0 +1,5 @@
+3. § (1) A karanténkötelezett a Magyarországra történő belépést követően köteles közvetlenül a karanténlakáshoz közlekedni, a karanténlakáshoz történő közlekedése során az utazást kizárólag egészségügyi, műszaki, vagy – tömegközlekedési eszközzel történő utazás esetén – menetrendi okból szakíthatja meg.
+
+(2) A karanténkötelezett köteles a karanténlakást az oda történő megérkezéskor azonnal elfoglalni és a karanténlakás bejárati ajtaján a határellenőrzést végző rendőri szerv által részére átadott jelölést mindenki által jól láthatóan elhelyezni.
+
+(3) Ha az Eütv. 74/B. § szerinti, a hatósági házi karantén betartásának ellenőrzésére szolgáló szoftver (a továbbiakban: karanténszoftver) telepítésének feltételei rendelkezésre állnak és a karanténkötelezett ahhoz megfelelő eszközzel rendelkezik, akkor a karanténkötelezett a karanténlakásba történő megérkezésekor köteles a karanténszoftvert a telekommunikációs eszközére telepíteni, azt a hatósági házi karantén ideje alatt használni. A karanténszoftvert a karanténkötelezett a hatósági házi karantén lejártát követő napon távolíthatja el a telekommunikációs eszközéről.

@@ -1,0 +1,3 @@
+## „(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve a szakképzésről szóló 2019. évi LXXX. törvény 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több megye érintettsége esetén az Operatív Törzs dönt.”
+
+21. § Az Eütv. 229. §-a a következő (3a)–(3b) bekezdéssel egészül ki:

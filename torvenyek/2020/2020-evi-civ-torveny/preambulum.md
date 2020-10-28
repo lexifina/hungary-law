@@ -1,0 +1,1 @@
+Az Országgyűlés az emberi élet és egészség mindent megelőző védelmét szem előtt tartva, a járványügyi intézkedések hatékony megtétele, az érintettekkel történő gyors közlése, továbbá az intézkedéseken keresztül a járvánnyal szembeni hatékonyabb fellépés, valamint a jogkövetés elősegítése érdekében a következő törvényt alkotja:
