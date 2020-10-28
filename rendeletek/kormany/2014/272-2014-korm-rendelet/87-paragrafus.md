@@ -32,15 +32,17 @@ k) ha a támogatott tevékenység összköltsége csökken a tervezetthez képes
 
 l)[^500] a projekt fizikai befejezésének határideje csak az irányító hatóság előzetes hozzájárulása esetén haladhatja meg a felhívásban, pénzügyi eszközök esetén a pénzügyi közvetítővel megkötött finanszírozási megállapodásban rögzített végső határidőt azzal, hogy a módosított határidő meghatározása során figyelemmel kell lenni az adott operatív program zárásának időpontjára, valamint az elszámolhatósági szabályokra.
 
-(1a)[^501] Az (1) bekezdés c), e), j) és k) pontját a pénzügyi eszközökre nem kell alkalmazni.
+m)[^501] az irányító hatóság a 89/B. § (1) bekezdése szerinti esetben engedélyezheti a projekt más felhívás kerete terhére történő finanszírozását.
 
-(1b)[^502] Ha az (1) bekezdés c) pontja szerinti esetben az adott program érintett prioritása eredeti keretösszegének 110%-án belül szabad forrás áll rendelkezésre, akkor ennek terhére kell kezdeményezni a többlettámogatás biztosítását.
+(1a)[^502] Az (1) bekezdés c), e), j) és k) pontját a pénzügyi eszközökre nem kell alkalmazni.
 
-(1c)[^503] Ha az (1e) bekezdés szerinti finanszírozási lehetőségek nem állnak rendelkezésre, akkor a költségnövekmény támogatását – az (1) bekezdés c) pont ca) és cb) alpontja kivételével – az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendeletben meghatározottak szerint lehet kezdeményezni.
+(1b)[^503] Ha az (1) bekezdés c) pontja szerinti esetben az adott program érintett prioritása eredeti keretösszegének 110%-án belül szabad forrás áll rendelkezésre, akkor ennek terhére kell kezdeményezni a többlettámogatás biztosítását.
 
-(1d)[^504] Az eredményességi keretbe tartozó indikátorok célértékeihez nem vagy aránytalanul alacsony mértékben hozzájáruló projektek esetén nem lehetséges hazai költségvetési többletforrás biztosítása.
+(1c)[^504] Ha az (1e) bekezdés szerinti finanszírozási lehetőségek nem állnak rendelkezésre, akkor a költségnövekmény támogatását – az (1) bekezdés c) pont ca) és cb) alpontja kivételével – az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendeletben meghatározottak szerint lehet kezdeményezni.
 
-(1e)[^505] Az (1) bekezdés c) pontja szerinti esetben a Kormány döntését kezdeményező előterjesztésben be kell mutatni – az (1b) bekezdésben foglalt lehetőség hiányán túlmenően – különösen a következőket:
+(1d)[^505] Az eredményességi keretbe tartozó indikátorok célértékeihez nem vagy aránytalanul alacsony mértékben hozzájáruló projektek esetén nem lehetséges hazai költségvetési többletforrás biztosítása.
+
+(1e)[^506] Az (1) bekezdés c) pontja szerinti esetben a Kormány döntését kezdeményező előterjesztésben be kell mutatni – az (1b) bekezdésben foglalt lehetőség hiányán túlmenően – különösen a következőket:
 
 a) helyi önkormányzat kedvezményezett esetén:
 
@@ -62,13 +64,13 @@ bc) a fenntartó nem rendelkezik olyan forrással, amely a költségnövekmény 
 
 bd) hitelintézet vagy pénzügyi vállalkozás által nyújtható kedvezményes finanszírozási lehetőség nem biztosított.
 
-(1f)[^506] Az irányító hatóság a költségnövekmény támogatására irányuló igény benyújtását követően jogosult kezdeményezni az (1c) bekezdés szerinti kormányrendeletben előírt igazságügyi szakértő megbízását.
+(1f)[^507] Az irányító hatóság a költségnövekmény támogatására irányuló igény benyújtását követően jogosult kezdeményezni az (1c) bekezdés szerinti kormányrendeletben előírt igazságügyi szakértő megbízását.
 
-(1g)[^507] Az európai uniós források felhasználásáért felelős miniszter az (1) bekezdés c) pont ca) és cb) alpontja szerint meghozott döntésekről negyedévente tájékoztatja a Kormányt.
+(1g)[^508] Az európai uniós források felhasználásáért felelős miniszter az (1) bekezdés c) pont ca) és cb) alpontja szerint meghozott döntésekről negyedévente tájékoztatja a Kormányt.
 
-(1h)[^508] Projektfejlesztés esetén a 87. § (1) bekezdés c) pontja alkalmazásában a támogatási szerződés 56/C. § szerinti módosítása alapján megállapított támogatási összeget kell a támogatási döntésben meghatározott támogatási összegnek tekinteni.
+(1h)[^509] Projektfejlesztés esetén a 87. § (1) bekezdés c) pontja alkalmazásában a támogatási szerződés 56/C. § szerinti módosítása alapján megállapított támogatási összeget kell a támogatási döntésben meghatározott támogatási összegnek tekinteni.
 
-(1i)[^509] Az (1) bekezdés c) pont ca) alpontja szerinti esetben a költségnövekmény piaci árnak való megfelelését az irányító hatóság vizsgálja.
+(1i)[^510] Az (1) bekezdés c) pont ca) alpontja szerinti esetben a költségnövekmény piaci árnak való megfelelését az irányító hatóság vizsgálja.
 
 (2) Az 1303/2013/EU európai parlamenti és tanácsi rendelet 61. cikke szerinti, a befejezést követően nettó bevételt termelő projektek esetén az (1) bekezdésben foglaltakon túlmenően a módosításnak meg kell felelni a következő feltételeknek is:
 
@@ -87,12 +89,13 @@ b) ha a megvalósíthatósági tanulmányban kiválasztott változattól eltér�
 [^498]: A 87. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 100. pontja szerint módosított szöveg.
 [^499]: A 87. § (1) bekezdés i) pontja a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^500]: A 87. § (1) bekezdés l) pontja a 24/2017. (II. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^501]: A 87. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 52. § (2) bekezdése iktatta be.
-[^502]: A 87. § (1b) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
-[^503]: A 87. § (1c) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be, szövege a 153/2019. (VI. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^504]: A 87. § (1d) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
-[^505]: A 87. § (1e) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
-[^506]: A 87. § (1f) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
-[^507]: A 87. § (1g) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^508]: A 87. § (1h) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^509]: A 87. § (1i) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^501]: A 87. § (1) bekezdés m) pontját a 456/2020. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+[^502]: A 87. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 52. § (2) bekezdése iktatta be.
+[^503]: A 87. § (1b) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^504]: A 87. § (1c) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be, szövege a 153/2019. (VI. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^505]: A 87. § (1d) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^506]: A 87. § (1e) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^507]: A 87. § (1f) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^508]: A 87. § (1g) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^509]: A 87. § (1h) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^510]: A 87. § (1i) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
