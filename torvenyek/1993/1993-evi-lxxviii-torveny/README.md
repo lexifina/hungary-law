@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-78-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 1993-78-00-00.38 |
 | 2017-07-08 | 2017. évi LXVII. törvény | 1993-78-00-00.39 |
 | 2018-01-01 | 2005. évi CXXXII. törvény | 1993-78-00-00.40 |
+| 2020-10-28 | 2020. évi CIV. törvény | 1993-78-00-00.41 |
