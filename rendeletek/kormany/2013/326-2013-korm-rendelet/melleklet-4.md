@@ -24,6 +24,6 @@
 
 | 11 | tagintézmény-, intézmény-egységvezető-helyettes | intézményegységenként, tagintézményenként 750-nél több gyermek, tanuló | 2 |
 
-4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^279]
+4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^284]
 
-[^279]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a, a 275/2019. (XI. 21.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^284]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a, a 275/2019. (XI. 21.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

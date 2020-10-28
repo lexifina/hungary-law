@@ -10,8 +10,8 @@
 
 (3) Mellőzhető a pályázat kiírása abban az esetben, ha a munkakört olyan személlyel kívánják betölteni, akit határozott időre szóló közalkalmazotti jogviszonyban legalább tíz hónapot foglalkoztattak, feltéve, hogy a korábbi jogviszony megszűnése és az új jogviszony keletkezése között legfeljebb 183 nap telt el.
 
-(3a)[^198] Nem kell pályázatot kiírni arra a pedagógus munkakörre, amelyben a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet alapján ösztöndíjas támogatási szerződést kötött pedagógust a végzettsége, szakképzettsége megszerzését követően a támogatási szerződésben, valamint a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet 11. § (1) bekezdése alapján meghatározott feltételek szerint kívánnak alkalmazni.
+(3a)[^203] Nem kell pályázatot kiírni arra a pedagógus munkakörre, amelyben a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet alapján ösztöndíjas támogatási szerződést kötött pedagógust a végzettsége, szakképzettsége megszerzését követően a támogatási szerződésben, valamint a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet 11. § (1) bekezdése alapján meghatározott feltételek szerint kívánnak alkalmazni.
 
 (4) A megüresedett álláshelyekre a pályázatot a megüresedéstől számított harminc napon belül ki kell írni, ha a pályázati kiírás nem mellőzhető.
 
-[^198]: A 28. § (3a) bekezdését a 307/2017. (X. 27.) Korm. rendelet 23. §-a iktatta be.
+[^203]: A 28. § (3a) bekezdését a 307/2017. (X. 27.) Korm. rendelet 23. §-a iktatta be.

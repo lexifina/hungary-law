@@ -8,7 +8,15 @@
 
 (2)[^2] A IV. fejezet hatálya – a 12. és a 14. alcím, valamint a 32. § (5)–(6) bekezdése és a 32/A. § kivételével – csak a közalkalmazottakra terjed ki. A IV/A. fejezet hatálya az óraadókra is kiterjed.
 
-(2a)[^3] E rendeletnek a pedagógusok minősítési eljárására vonatkozó rendelkezéseit alkalmazni kell a szakképző intézmény munkaviszonyban álló oktatójára is, ha a szakképzésről szóló 2019. évi LXXX. törvény 127. § (5) bekezdése alapján önkéntes elhatározásából a pedagógus előmeneteli rendszerben részt kíván venni.
+(2a)[^3] A 3–4/A. alcímben foglalt rendelkezéseket – az e rendeletben meghatározott eltérésekkel – alkalmazni kell
+
+a) a szakképző intézmény pedagógus szakképzettséggel rendelkező oktatójára,
+
+b) az egyházi szolgálati jogviszony alapján köznevelési intézményben, szakképző intézményben, többcélú köznevelési intézményben, többcélú szakképző intézményben nevelő-oktató tevékenységet ellátó, pedagógus szakképzettséggel és oktatási azonosító számmal rendelkező személyre és felsőoktatási intézményben pedagógus szakképzettséggel rendelkező, tanári munkakört ellátó személyre, valamint
+
+c) a felsőoktatási intézmény pedagógus szakképzettséggel rendelkező, tanári munkakörben foglalkoztatott közalkalmazottjára és munkavállalójára,
+
+## ha az érintett a pedagógus előmeneteli rendszerben önkéntes elhatározásából vesz részt.
 
 (3) E rendeletben foglaltakat kell alkalmazni a Baross Imre Artistaképző Szakközépiskola és Szakiskola pedagógus-munkakörben foglalkoztatott dolgozóira is.
 
@@ -18,5 +26,5 @@
 
 [^1]: Az I. fejezet (1–1/A. §) a 249/2015. (IX. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 307/2017. (X. 27.) Korm. rendelet 24. § 1. pontja, a 417/2020. (VIII. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2a) bekezdését a 13/2020. (II. 7.) Korm. rendelet 86. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (2a) bekezdését a 13/2020. (II. 7.) Korm. rendelet 86. § (1) bekezdése iktatta be, szövege a 455/2020. (X. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: Az 1. § (4) bekezdése a 418/2015. (XII. 23.) Korm. rendelet 11. §-ával megállapított, a 417/2020. (VIII. 30.) Korm. rendelet 21. § b) pontja és 22. § a) pontja szerint módosított szöveg.

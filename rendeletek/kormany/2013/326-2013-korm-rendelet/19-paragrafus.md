@@ -1,4 +1,4 @@
-## 18. §[^175] A szakszervezetek tisztségviselőit, továbbá az üzemi tanács vagy a közalkalmazotti tanács tagjait és elnökét megillető munkaidő-kedvezményt a pedagógus kötött munkaidejének terhére kell kiadni oly módon, hogy a munkaidő-kedvezmény nyolcvan százaléka a neveléssel-oktatással lekötött munkaidőre, húsz százaléka a neveléssel-oktatással lekötött idő felső határa feletti kötött munkaidőre essen.
+## 18. §[^180] A szakszervezetek tisztségviselőit, továbbá az üzemi tanács vagy a közalkalmazotti tanács tagjait és elnökét megillető munkaidő-kedvezményt a pedagógus kötött munkaidejének terhére kell kiadni oly módon, hogy a munkaidő-kedvezmény nyolcvan százaléka a neveléssel-oktatással lekötött munkaidőre, húsz százaléka a neveléssel-oktatással lekötött idő felső határa feletti kötött munkaidőre essen.
 
 19. § (1) A köznevelési intézmény munkatervében – az intézményi feladatokkal összhangban – meg kell tervezni
 
@@ -14,4 +14,4 @@ c) a pedagógusok minősítésében és az országos-pedagógiai szakmai ellenő
 
 (3) A munkáltató a munkatervben meghatározott feladatok elosztása során az egyenlő bánásmód követelményét köteles megtartani. Ennek érdekében a tanítás elrendelésénél, és az egyéb feladatok szétosztásánál biztosítani kell az arányos és egyenletes feladatelosztást a nevelőtestület tagjai között.
 
-[^175]: A 18. § a 307/2017. (X. 27.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
+[^180]: A 18. § a 307/2017. (X. 27.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.

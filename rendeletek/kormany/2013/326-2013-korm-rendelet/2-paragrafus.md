@@ -10,7 +10,7 @@
 
 (3)[^10] Ha a foglalkoztatási jogviszony létesítésekor a pedagógus rendelkezik a 6. § (1) és (2) bekezdése szerinti egy vagy két év szakmai gyakorlattal, de nem rendelkezik a 6. § (3) bekezdése szerinti hat év munkaviszony jellegű jogviszonnyal, számára – kivéve, ha sikeres minősítő vizsgát tett – hat hónap gyakornoki időt kell kikötni.
 
-(4) Ha a korábbi foglalkoztatási jogviszonyának fennállása alatt sikertelen minősítő vizsgát tett pedagógus létesít újabb foglalkoztatási jogviszonyt, számára két év gyakornoki időt kell kikötni.
+(4)[^11] Ha a korábbi foglalkoztatási jogviszonyának vagy egyházi szolgálati jogviszonyának fennállása alatt sikertelen minősítő vizsgát tett pedagógus létesít újabb foglalkoztatási jogviszonyt, számára két év gyakornoki időt kell kikötni.
 
 (5) Ha a pedagógus határozott időre szóló foglalkoztatási jogviszonyának időtartama rövidebb, mint a gyakornok számára megállapítandó gyakornoki idő, akkor a gyakornoki időt a határozott idő lejártáig kell kikötni.
 
@@ -18,7 +18,7 @@
 
 a) az (1)–(5) bekezdés szerint megállapított gyakornoki idő lejártának hónapjában, vagy
 
-b)[^11] ha a gyakornoki idő május 1. és augusztus 31. között jár le, május hónapban
+b)[^12] ha a gyakornoki idő május 1. és augusztus 31. között jár le, május hónapban
 
 tesz minősítő vizsgát.
 
@@ -26,7 +26,7 @@ tesz minősítő vizsgát.
 
 (8) Ha a gyakornok minősítő vizsgája sikeres volt, őt a Pedagógus I. fokozatba kell besorolni.
 
-(9)[^12] A gyakornoki idő a kétéves gyakornoki idő lejártát követő nappal kezdődően két évvel meghosszabbodik, ha a pedagógus minősítő vizsgája sikertelenül zárult. A meghosszabbított gyakornoki időre az (1)–(8) bekezdésben foglaltakat kell megfelelően alkalmazni. A gyakornoki idő egyéb esetben nem hosszabbítható meg.
+(9)[^13] A gyakornoki idő a kétéves gyakornoki idő lejártát követő nappal kezdődően két évvel meghosszabbodik, ha a pedagógus minősítő vizsgája sikertelenül zárult. A meghosszabbított gyakornoki időre az (1)–(8) bekezdésben foglaltakat kell megfelelően alkalmazni. A gyakornoki idő egyéb esetben nem hosszabbítható meg.
 
 (10) Ha a (9) bekezdés szerint megismételt minősítő vizsga is sikertelenül zárult és a pedagógus pedagógus-munkakörre újabb foglalkoztatási jogviszonyt létesít, az (1)–(9) bekezdésben, valamint az Nkt. 64. § (8) bekezdésében foglaltakat ismételten alkalmazni kell.
 
@@ -36,5 +36,6 @@ tesz minősítő vizsgát.
 [^8]: A 2. § (1) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja, a 196/2019. (VIII. 1.) Korm. rendelet 14. § a) és b) pontja szerint módosított szöveg.
 [^9]: A 2. § (2) bekezdése a 307/2017. (X. 27.) Korm. rendelet 24. § 2. pontja, a 196/2019. (VIII. 1.) Korm. rendelet 14. § c) pontja, a 275/2019. (XI. 21.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 196/2019. (VIII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^11]: A 2. § (6) bekezdés b) pontja a 122/2018. (VII. 10.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^12]: A 2. § (9) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^11]: A 2. § (4) bekezdése a 455/2020. (X. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § (6) bekezdés b) pontja a 122/2018. (VII. 10.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^13]: A 2. § (9) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
