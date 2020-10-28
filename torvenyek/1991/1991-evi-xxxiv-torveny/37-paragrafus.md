@@ -38,7 +38,7 @@
 
 15. Szerencsejáték-szervező:
 
-a) az 1. § (3) bekezdésében meghatározott tevékenységet folytató koncessziós társaság, az állami játékszervező, a 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és az állam többségi részesedésével működő gazdálkodó szervezet, a liberalizált tevékenység gyakorlására létrehozott gazdasági társaság, valamint
+a) az 1. § (3) bekezdésében meghatározott tevékenység folytatására jogosult gazdasági társaság, illetve annak koncessziós társasága, az állami játékszervező, a 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és az állam többségi részesedésével működő gazdálkodó szervezet, a liberalizált tevékenység gyakorlására létrehozott gazdasági társaság, valamint
 
 b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott tevékenységet folytató szervezet vagy személy.
 
