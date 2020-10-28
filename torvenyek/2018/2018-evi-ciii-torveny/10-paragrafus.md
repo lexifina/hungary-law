@@ -21,3 +21,5 @@ i) a bérbeadó a lakóingatlan és a tartalék ingatlan állapotát és rendelt
 j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Lebonyolító a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen,
 
 k) bérlőtársi jogviszony esetén, ha a bérbeadó a lakásbérleti szerződést olyan okból mondja fel, amely felmondási ok valamennyi bérlőtárssal szemben fennáll, a felmondást elég, ha a bérbeadó az egyik bérlőtárssal közli.
+
+l) az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség esetén az i) pontban említett ellenőrzés az adott naptári évben nem kötelező.
