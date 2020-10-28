@@ -20,4 +20,6 @@ Határidő: az a) alpont tekintetében 2021. január 31.
 
 a b) alpont tekintetében 2021. március 31.
 
-5. visszavonja a Magyarország konzuli szolgálatának igénybe vétele esetén felmerülő ügyfél-várakozási idő csökkentése, illetve a schengeni vízumeljárás versenyképességet javító fejlesztés érdekében szükséges intézkedésekről szóló 1724/2018. (XII. 18.) Korm. határozat 3. pont d) alpont de) pontját.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
