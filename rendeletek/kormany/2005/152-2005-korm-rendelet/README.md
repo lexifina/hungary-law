@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-152-20-
 | 2017-01-01 | 2005-152-20-22.19 | 207/2013. (VI. 17.) Korm. rendelet |
 | 2018-07-11 | 2005-152-20-22.20 | 122/2018. (VII. 10.) Korm. rendelet |
 | 2020-02-15 | 2005-152-20-22.21 | 13/2020. (II. 7.) Korm. rendelet |
+| 2020-10-28 | 2005-152-20-22.22 | 455/2020. (X. 20.) Korm. rendelet |
