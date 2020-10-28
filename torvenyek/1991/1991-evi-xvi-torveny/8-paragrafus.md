@@ -31,3 +31,5 @@ e) az arra vonatkozó tájékoztatást, hogy a koncessziós szerződés létrej�
 f) a koncesszióba adott tevékenység árképzési szabályait, ideértve az ár, díj meghatározásának és változtatásának elveit és módszereit,
 
 g) egyéb, a pályázat kiírója által szükségesnek tartott információkat.
+
+(4) Az állam nevében lefolytatandó koncessziós szerződés megkötésére irányuló eljárás során a pályázati kiírásban, ajánlattételi felhívásban előírható, hogy a koncessziós pályázatot, ajánlatot benyújtó jogi személynek a pályázathoz, ajánlathoz teljes bizonyító erejű magánokiratban vagy közokiratban csatolnia kell a jogi személy döntéshozó szervének határozatát arról, hogy a koncessziós pályázaton, ajánlattételi eljárásban való részvételhez a tagok, vagy alapítók összességének pályázati kiírásban, ajánlattételi felhívásban meghatározott mértékű minősített többsége hozzájárult. Az önkormányzat nevében lefolytatandó koncessziós eljárásokban a minősített többségre vonatkozó követelmény nem írható elő.
