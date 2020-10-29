@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-22-20-2
 | 2015-05-11 | 2010-22-20-2W.3 | 22/2015. (V. 6.) NFM rendelet |
 | 2016-08-05 | 2010-22-20-2W.4 | 33/2016. (VIII. 2.) NFM rendelet |
 | 2017-07-07 | 2010-22-20-2W.5 | 20/2017. (VI. 22.) NFM rendelet |
+| 2020-10-29 | 2010-22-20-2W.6 | 37/2002. (X. 14.) ITM rendelet |

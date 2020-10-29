@@ -1,6 +1,6 @@
-4. melléklet a 22/2010. (XII. 20.) NFM rendelethez[^26]
+4. melléklet a 22/2010. (XII. 20.) NFM rendelethez[^27]
 
-## Az egyéb vasútvonalakra vonatkozó vasúti járművezetői engedély kérelmezésére szolgáló formanyomtatványhoz mellékelendő iratok jegyzéke[^27]
+## Az egyéb vasútvonalakra vonatkozó vasúti járművezetői engedély kérelmezésére szolgáló formanyomtatványhoz mellékelendő iratok jegyzéke[^28]
 
 1. Új engedély kérelmezésekor
 
@@ -52,5 +52,5 @@
 
 4.6. Általános szakmai alkalmasság igazolása
 
-[^26]: A 4. mellékletet a 7/2012. (II. 15.) NFM rendelet 5. §-a iktatta be.
-[^27]: A 4. melléklet címe a 33/2016. (VIII. 2.) NFM rendelet 11. § b) pontja szerint módosított szöveg.
+[^27]: A 4. mellékletet a 7/2012. (II. 15.) NFM rendelet 5. §-a iktatta be.
+[^28]: A 4. melléklet címe a 33/2016. (VIII. 2.) NFM rendelet 11. § b) pontja szerint módosított szöveg.

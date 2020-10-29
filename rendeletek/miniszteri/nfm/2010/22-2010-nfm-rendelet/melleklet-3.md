@@ -1,3 +1,3 @@
-3. melléklet a 22/2010. (XII. 20.) NFM rendelethez[^25]
+3. melléklet a 22/2010. (XII. 20.) NFM rendelethez[^26]
 
-[^25]: A 3. mellékletet a 22/2015. (V. 6.) NFM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^26]: A 3. mellékletet a 22/2015. (V. 6.) NFM rendelet 4. § b) pontja hatályon kívül helyezte.

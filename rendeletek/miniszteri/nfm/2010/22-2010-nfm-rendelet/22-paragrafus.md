@@ -4,8 +4,11 @@ a)[^24] a közösségi vasúti rendszereken mozdonyokat és vonatokat működtet
 
 b) a mozdonyvezetői engedélyek és a kiegészítő tanúsítványok vonatkozásában a 2007/59/EK európai parlamenti és tanácsi irányelvben meghatározott nyilvántartások alapvető paramétereinek elfogadásáról szóló 2009. október 29-i 2010/17/EK bizottsági határozatnak
 
+c)[^25] a vasútbiztonságról szóló, 2016. május 11-i (EU) 2016/798 európai parlamenti és tanácsi irányelv 13. cikk (1) bekezdésének
+
 való megfelelést szolgálja.
 
 (2) Ez a rendelet a mozdonyvezetői engedélyeknek, a kiegészítő tanúsítványoknak, a kiegészítő tanúsítványok hitelesített másolatának, valamint a mozdonyvezetői engedély kérelmezésére szolgáló formanyomtatványnak a 2007/59/EK európai parlamenti és tanácsi irányelv szerinti közösségi mintájáról szóló, 2009. december 3-i 2010/36/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^24]: A 22. § (1) bekezdés a) pontja a 22/2015. (V. 6.) NFM rendelet 4. § a) pontja, a 20/2017. (VI. 22.) NFM rendelet 3. §-a szerint módosított szöveg.
+[^25]: A 22. § (1) bekezdés c) pontját a 37/2002. (X. 14.) ITM rendelet 1. §-a iktatta be.
