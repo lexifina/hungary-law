@@ -1,0 +1,1 @@
+## 8. § Az R1. „30/A. Az alapképzésre és alapvizsgákra vonatkozó eltérő szabályok új, vagy átalakított vasúti pálya, új vasúti jármű vagy a vasútbiztonsági szabályok megváltozása esetén” alcím címében a „vasúti pálya” szövegrész helyébe a „vasúti infrastruktúra” szöveg lép.
