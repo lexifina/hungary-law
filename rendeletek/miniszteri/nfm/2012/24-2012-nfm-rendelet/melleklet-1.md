@@ -1,4 +1,4 @@
-## 23. §[^6]
+## 23. §[^10]
 
 1. melléklet a 24/2012. (V. 8.) NFM rendelethez
 
@@ -244,4 +244,4 @@ Amennyiben indokolt, a szakmai vizsgálat eredményeként meghatározott biztons
 
 Szükség esetén itt kell közölni minden egyéb, a jelentés megértése szempontjából szükségesnek tekinthető további információt.
 
-[^6]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

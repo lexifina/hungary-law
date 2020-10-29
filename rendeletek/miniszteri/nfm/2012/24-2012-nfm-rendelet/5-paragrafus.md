@@ -29,3 +29,7 @@ m) a bejelentés idejéig tett intézkedések,
 n) a bejelentő családi és utóneve, munkáltatójának megnevezése, beosztása, elérhetősége.
 
 (2) Az (1) bekezdésben felsorolt adatok valamelyikének hiánya nem mentesít az azonnali bejelentési kötelezettség alól.
+
+(3)[^2] Ha a bejelentőnek a bejelentésével összefüggésben újabb, korábban hiányzó vagy azzal összefüggő információ jut tudomására, a bejelentését az új információval haladéktalanul kiegészíti vagy módosítja.
+
+[^2]: Az 5. § (3) bekezdését a 37/2020. (X. 14.) ITM rendelet 18. §-a iktatta be.
