@@ -6,7 +6,7 @@ a) szakirányú felsőfokú végzettséggel,
 
 b) legalább 10 éves szakmai gyakorlattal a szakterületet érintő gyártási, építési, üzemeltetési vagy tanúsítási területen,
 
-c) a kijelölés területére – különösen a tervezésre, gyártmányra, a gyártási és a technológiai folyamatokra, tesztelési vizsgálati módszerekre – vonatkozó hazai és nemzetközi előírások dokumentumokkal igazolt ismeretével.
+c)[^4] a a kijelölésre, bejelentés területére – különösen a tervezésre, gyártmányra, a gyártási és a technológiai folyamatokra, tesztelési vizsgálati módszerekre – vonatkozó hazai és nemzetközi előírások dokumentumokkal igazolt ismeretével.
 
 (2) A kérelmező szervezet megfelelőségértékelési tevékenységet végző munkavállalója vagy a vele megfelelőségértékelési tevékenységgel kapcsolatos munkavégzésre irányuló egyéb jogviszonyban álló személynek rendelkeznie kell
 
@@ -28,7 +28,7 @@ c) az értékelendő területre vonatkozó szabványok, előírások – külön
 
 (8) A kérelmező szervezetnek a minőségirányítási kézikönyvében a megfelelőségértékelés tárgyát képező termék gyártásával, létrehozásával, telepítésével kapcsolatosan számításba vehető és vizsgálandó kockázati tényezőket meg kell jelenítenie.
 
-(9) Ha a kérelmező szervezet a kijelölést több – a kölcsönös átjárhatóságot lehetővé tévő műszaki előírások szerinti – vasúti alrendszerre kéri, akkor alrendszerenként rendelkeznie kell szakmai vezetővel.
+(9)[^5] Ha a kérelmező szervezet a kijelölést vagy bejelentést több – a kölcsönös átjárhatóságot lehetővé tévő műszaki előírások szerinti – vasúti alrendszerre kéri, akkor alrendszerenként rendelkeznie kell szakmai vezetővel.
 
 (10) Ha a kérelmezett megfelelőségértékelési terület harmonizációs uniós jogi aktus hatálya alá tartozik, a kérelmező szervezetnek rendelkeznie kell
 
@@ -37,3 +37,6 @@ a) angol, német vagy francia nyelvből legalább középfokú nyelvvizsgával r
 b) a megfelelőségértékelési tevékenysége során kiadott dokumentumok – így különösen a vizsgálati, ellenőrzési jegyzőkönyv, tanúsítvány – angol, német vagy francia nyelvű fordításával, és
 
 c) a megfelelőségértékelési tevékenységével összefüggő eljárásának bemutatására, a gazdasági szereplők tájékoztatására szolgáló dokumentumok angol, német vagy francia nyelvű fordításával.
+
+[^4]: A 2. § (1) bekezdés c) pontja a 37/2020. (X. 14.) ITM rendelet 16. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (9) bekezdése a 37/2020. (X. 14.) ITM rendelet 16. § c) pontja szerint módosított szöveg.

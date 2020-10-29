@@ -1,4 +1,4 @@
-2. melléklet a 60/2011. (XI. 25.) NFM rendelethez[^7]
+2. melléklet a 60/2011. (XI. 25.) NFM rendelethez[^17]
 
 A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke
 
@@ -20,4 +20,4 @@ A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mér
 
 | 7. | A kötélpálya-létesítményekről és a 2000/9/EK irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/424 európai parlamenti és tanácsi rendelet | 5 000 000 |
 
-[^7]: A 2. melléklet a 33/2016. (VIII. 2.) NFM rendelet 36. §-ával megállapított, a 36/2019. (IX. 20.) ITM rendelet 14. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 33/2016. (VIII. 2.) NFM rendelet 36. §-ával megállapított, a 36/2019. (IX. 20.) ITM rendelet 14. §-a szerint módosított szöveg.
