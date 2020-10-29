@@ -34,7 +34,7 @@
 
 | 5. | Elektronikus, vezetékes vagy mobil telefonos elérhetőség | központi képzési helyszínen 1 |  |
 
-9. melléklet a 19/2011. (V. 10.) NFM rendelethez[^215]
+9. melléklet a 19/2011. (V. 10.) NFM rendelethez[^218]
 
 ## E rendelet hatálya alá tartozó OKJ képzések a vasúti ágazatban
 
@@ -68,4 +68,4 @@
 
 | 2. | XXI. | Közlekedés | 5231/6 Jegyvizsgáló | – Jegyvizsgáló |
 
-[^215]: A 9. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés b) pontja iktatta be, szövege a 7/2018. (VII. 26.) ITM rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^218]: A 9. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés b) pontja iktatta be, szövege a 7/2018. (VII. 26.) ITM rendelet 15. § (5) bekezdésével megállapított szöveg.

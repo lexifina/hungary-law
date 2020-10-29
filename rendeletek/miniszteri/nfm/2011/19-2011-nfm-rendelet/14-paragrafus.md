@@ -20,7 +20,11 @@ b) a vizsga tárgyának megfelelő legalább 3 év szakmai irányítási és sza
 
 ## rendelkezik.
 
-(4)[^79] A hatóság 30 napon belül visszavonja a vizsgabiztosi kinevezést, ha a vizsgabiztos a 15. § (5) bekezdése szerinti továbbképzésen a tárgyév december 31-ig nem vesz részt.
+(4)[^79] A hatóság 30 napon belül visszavonja a vizsgabiztosi kinevezését annak a vizsgabiztosnak, aki nem vesz részt
+
+a) a képzési módszertani központ megváltozott biztonsági szabályokkal kapcsolatos továbbképzésén, vagy
+
+b) a 15. § (5) bekezdése szerinti éves továbbképzésen az adott év december 31-ig.
 
 (5)[^80] Az országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezetők gyakorlati vizsgáztatását végző vizsgabiztos kinevezésének a (2) bekezdésben meghatározottakon túli további feltételei:
 
@@ -42,7 +46,7 @@ d) nyilatkozik arról, hogy ismeri a vasúti járművezetők tanúsítási rends
 [^76]: A 14. § (2) bekezdés c) pontja a 22/2015. (V. 6.) NFM rendelet 39. § h) pontja, a 7/2018. (VII. 26.) ITM rendelet 16. § 9. pontja szerint módosított szöveg.
 [^77]: A 14. § (2) bekezdés d) pontját az 5/2013. (II. 12.) NFM rendelet 9. § (1) bekezdése iktatta be.
 [^78]: A 14. § (3) bekezdése a 10/2012. (II. 15.) NFM rendelet 5. §-ával megállapított, nyitó szövegrésze a 22/2015. (V. 6.) NFM rendelet 39. § h) pontja, a 7/2018. (VII. 26.) ITM rendelet 16. § 9. pontja szerint módosított szöveg.
-[^79]: A 15. § (4) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 32. § i) pontja szerint módosított szöveg.
+[^79]: A 14. § (4) bekezdése a 37/2020. (X. 14.) ITM rendelet 3. §-ával megállapított szöveg.
 [^80]: A 14. § (5) bekezdését az 5/2013. (II. 12.) NFM rendelet 9. § (2) bekezdése iktatta be, nyitó szövegrésze a 33/2016. (VIII. 2.) NFM rendelet 32. § a) pontja szerint módosított szöveg.
 [^81]: A 14. § (5) bekezdés a) pontja a 45/2019. (XII. 20.) ITM rendelet 48. § i) pontja szerint módosított szöveg.
 [^82]: A 14. § (6) bekezdését az 5/2013. (II. 12.) NFM rendelet 9. § (2) bekezdése iktatta be.

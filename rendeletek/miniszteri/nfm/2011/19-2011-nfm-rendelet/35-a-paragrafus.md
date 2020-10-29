@@ -1,10 +1,10 @@
-## 30/A. [^156] Az alapképzésre és alapvizsgákra vonatkozó eltérő szabályok új, vagy átalakított vasúti pálya, új vasúti jármű vagy a vasútbiztonsági szabályok megváltozása esetén
+## 30/A. [^156] Az alapképzésre és alapvizsgákra vonatkozó eltérő szabályok új, vagy átalakított vasúti infrastruktúra, új vasúti jármű vagy a vasútbiztonsági szabályok megváltozása esetén
 
-35/A. § (1)[^157] Új vasúti pálya építése esetén a műszaki átadás-átvételt megelőzően a pályahálózat-működtető köteles az új vonalra vonatkozó előképzési programot kidolgozni és azt közzétenni, valamint a vasúti társaságokat és a hatóságot erről értesíteni. A pályahálózat-működtető az előképzési programot tájékoztatásul a hatóságnak megküldi.
+35/A. § (1)[^157] Új vasúti pálya, vasúti biztosító berendezés, vonatbefolyásoló rendszer, valamint vontatási energia ellátó rendszer (továbbiakban együtt: vasúti infrastruktúra) építése esetén a hatósági használatbavételi engedély kiadásáig a pályahálózat-működtető az új vonalra vonatkozó előképzési programot dolgoz ki, azt a kivitelezési munkálatok ideje alatt legalább évente felülvizsgálja, módosítja és azt közzéteszi, valamint erről a vasúti társaságokat, a hatóságot, a Vasúti Képzési Módszertani Központot és a vizsgaközpontot írásban értesíti. A pályahálózat-működtető előképzési programja tartalmazza a vasúti infrastruktúra lényeges jellemzőit, továbbá az útvonalkönyv és a menetrendi segédkönyv kiegészítésére szolgáló adatokat.
 
 (2)[^158] A vasúti társaság, amelynek munkavállalói számára az új vasúti pályahálózat-ismeret a munkavégzés feltétele, az előképzési program alapján megszervezi a vizsgabiztosok, a vasútszakmai oktatók, a különleges kötöttpályás közlekedési szakmai oktatók és a munkavállalók részére a vasúti pályahálózat-ismeretre vonatkozó elméleti képzést. Az elméleti képzést az előképzési program alapján bármely vasútszakmai oktató vagy különleges kötöttpályás közlekedési szakmai oktató is megtarthatja, akinek általános vasúti pályahálózat-ismereti vagy forgalmi képesítése van.
 
-(3)[^159] A képzést követően a vasúti társaság saját hatáskörében szervez vasúti pályahálózat ismereti elővizsgát, és ad ki elővizsga-igazolást a sikeres vizsgázóknak. A sikeres elővizsgát tett munkavállalókat a vasúti társaság, vagy képzőszerv a hatóságnak bejelenti. A vasúti társaság által szervezett vasúti pályahálózat ismereti elővizsga az azt követő alapvizsgáig, de legfeljebb egy évig érvényes.
+(3)[^159] A képzést követően a vasúti társaság saját hatáskörében szervez vasúti pályahálózat ismereti elővizsgát, és ad ki elővizsga-igazolást a sikeres vizsgázóknak. A sikeres elővizsgát tett munkavállalókat a vasúti társaság, vagy képzőszerv a hatóságnak bejelenti. A vasúti társaság által szervezett vasúti pályahálózat ismereti elővizsga az azt követő alapvizsgáig, de legfeljebb egy évig érvényes. Az elővizsga legfeljebb 3 alkalommal ismételhető meg a kivitelezési munkák előrehaladásának ütemében. A kivitelezési munkák elhúzódása esetén az elővizsgák ismétlésére vonatkozó korlátozás alól – az ismétlési lehetőségek számának növelése érdekében – a vasúti társaság, vagy vasúti pályahálózat működtető kérelme alapján a hatóság felmentést adhat. A vasúti társaság elővizsgákat a hatósági használatbavételi engedély kiadását követő legfeljebb 180 napig szervezhet.
 
 (4) A vasúti társaság, vagy képzőszerv által szervezett elővizsgán vizsgabiztosként olyan, már vizsgabiztosi névjegyzékben szereplő vizsgabiztos szerepelhet, aki a képzésen maga is részt vett.
 
@@ -14,9 +14,9 @@
 
 (7)[^161] Az elővizsgát követő alapvizsga csak a vizsgához kapcsolódó vizsgamegnevezés meghatározását követően szervezhető. Az elővizsgával rendelkező munkavállaló mentesül a vonalismereti képzésen történő részvételi kötelezettség alól és e nélkül bejelenthető alapvizsgára.
 
-[^156]: A 30/A. alcímet (35/A–35/D. §) az 5/2013. (II. 12.) NFM rendelet 19. §-a iktatta be.
-[^157]: A 35/A. § (1) bekezdése a 22/2015. (V. 6.) NFM rendelet 31. § (1) bekezdésével megállapított, a 7/2018. (VII. 26.) ITM rendelet 16. § 23. pontja, a 45/2019. (XII. 20.) ITM rendelet 48. § m) pontja szerint módosított szöveg.
+[^156]: A 30/A. alcímet (35/A–35/D. §) az 5/2013. (II. 12.) NFM rendelet 19. §-a iktatta be, az alcím címe a 37/2020. (X. 14.) ITM rendelet 8. §-a szerint módosított szöveg.
+[^157]: A 35/A. § (1) bekezdése a 37/2020. (X. 14.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^158]: A 35/A. § (2) bekezdése a 7/2018. (VII. 26.) ITM rendelet 12. §-ával megállapított szöveg.
-[^159]: A 35/A. § (3) bekezdése a 20/2017. (VI. 22.) NFM rendelet 15. § g) pontja, a 7/2018. (VII. 26.) ITM rendelet 17. § c) pontja szerint módosított szöveg.
+[^159]: A 35/A. § (3) bekezdése a 37/2020. (X. 14.) ITM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^160]: A 35/A. § (5) bekezdése az 55/2017. (XII. 27.) NFM rendelet 44. §-a, a 7/2018. (VII. 26.) ITM rendelet 16. § 24. pontja szerint módosított szöveg.
 [^161]: A 35/A. § (7) bekezdését a 22/2015. (V. 6.) NFM rendelet 31. § (2) bekezdése iktatta be, szövege a 7/2018. (VII. 26.) ITM rendelet 16. § 25. pontja szerint módosított szöveg.

@@ -24,7 +24,7 @@ c) nyilatkozatban vállalja, hogy biztosítja, hogy a felügyelet alatti vezeté
 
 d) nyilatkozatban vállalja, hogy rendelkezik minőségirányítási rendszerrel, amely biztosítja, hogy a nyújtott képzés eleget tesz az e rendeletben meghatározott képzési követelményeknek;
 
-e)[^27] nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a képzési módszertani központ által szervezett továbbképzésén történő részvételét a szaktudásuk naprakészen tartása érdekében.
+e)[^27] nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a Vasúti Képzési Módszertani Központ (a továbbiakban: képzési módszertani központ) által szervezett továbbképzésen történő részvételét a szaktudásuk naprakészen tartása érdekében.
 
 (4) Ha a bejelentő országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezetők képzésével foglalkozó vasúti társaság, a vasútbiztonsági tanúsítvány vagy engedély nyilvántartási számának közlésével is eleget tehet a (3) bekezdés a) és d) pontja szerinti kötelezettségének.
 
@@ -37,4 +37,4 @@ e)[^27] nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a ké
 [^24]: A 4. alcím címe a 33/2016. (VIII. 2.) NFM rendelet 32. § d) pontjával megállapított szöveg.
 [^25]: A 4. § a 33/2016. (VIII. 2.) NFM rendelet 15. §-ával megállapított szöveg.
 [^26]: A 4. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 48. § a) pontja szerint módosított szöveg.
-[^27]: A 4. § (3) bekezdés e) pontja a 45/2019. (XII. 20.) ITM rendelet 48. § b) pontja szerint módosított szöveg.
+[^27]: A 4. § (3) bekezdés e) pontja a 37/2020. (X. 14.) ITM rendelet 2. §-ával megállapított szöveg.

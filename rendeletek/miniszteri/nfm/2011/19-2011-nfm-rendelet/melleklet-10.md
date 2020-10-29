@@ -1,4 +1,4 @@
-10. melléklet a 19/2011. (V. 10.) NFM rendelethez[^216]
+10. melléklet a 19/2011. (V. 10.) NFM rendelethez[^219]
 
 ## Egyéb vasúti hatósági képzések
 
@@ -16,4 +16,4 @@
 
 7. Felsőfokú kiegészítő hatósági műhely részterületi vezetői képzés
 
-[^216]: A 10. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (6) bekezdése iktatta be.
+[^219]: A 10. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (6) bekezdése iktatta be.
