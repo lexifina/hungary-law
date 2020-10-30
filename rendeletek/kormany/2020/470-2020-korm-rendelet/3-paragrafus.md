@@ -1,0 +1,11 @@
+## 2. § Az utazási vállalkozó az R. 8. § (6) bekezdése szerinti bejelentési kötelezettségét a 2020. évben november 15-ig köteles teljesíteni, és azzal egyidejűleg köteles a kereskedelmi hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) felé adatot szolgáltatni minden utazási szerződéssel összefüggésben az általa kibocsátott utazási utalványok számáról és összesített értékéről.
+
+3. § (1) Az utazási vállalkozó az R. 8. § (8) és (10) bekezdése szerinti vagyoni biztosíték igazolásának kötelezettségével összefüggésben a (2)–(5) bekezdésben foglaltak szerint jár el azzal, hogy a vagyoni biztosíték mértéke nem lehet kevesebb az R. 8. § (3) bekezdésében és az R. 10/A. §-ában meghatározott minimum összegeknél.
+
+(2) Ha az R. 8. § (8) bekezdése szerinti időszakra vonatkozó vagyoni biztosíték igazolásával összefüggésben az utazási vállalkozó által 2020. december 31-éig várható 2020. évi értékesítési nettó árbevétel nem éri el az R. 8. § (4) bekezdésében hivatkozott, a hitelintézettel kötött garanciaszerződés, a biztosítási szerződés megkötésének, illetve a pénzbeli letét elhelyezésének évét megelőző évben realizált, vagy az R. 8. § (6) bekezdésében meghatározott következő évre tervezett nettó értékesítési árbevétel 50%-át, akkor az R. 8. § (8) bekezdése szerinti időszakra vonatkozó vagyoni biztosíték mértékének meghatározásakor az R. 8. § (4) bekezdése szerinti legnagyobb árbevétel 50%-át kell alapul venni.
+
+(3) Az R. 8. § (3) bekezdés a) pontja szerinti vagyoni biztosíték mértékének meghatározása során a (2) bekezdés nem alkalmazható.
+
+(4) Az utazási vállalkozó a 2020. évben november 15-ig köteles a Kormányhivatalnak igazolni, hogy rendelkezik az előírt mértékű – a hitelintézettel kötött garanciaszerződés, illetve a biztosítási szerződés megkötése, illetve a pénzbeli letét elhelyezése évét követő év december 31-éig terjedő időszakára szóló – vagyoni biztosítékkal.
+
+(5) A vagyoni biztosítékra vonatkozó szerződés hatályának meghosszabbítására – a lejárat időpontjától függetlenül – 2020. november 15-ig köteles az utazási vállalkozó, és köteles ennek megtörténtét a Kormányhivatal felé igazolni. Ha a felek a szerződést nem hosszabbítják meg, az utazási vállalkozónak 2020. november 15-ig igazolnia kell a Kormányhivatal részére, hogy más hitelintézettel vagy biztosítóval kötött szerződést.
