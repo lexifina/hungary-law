@@ -1,4 +1,4 @@
-249. § (1) Ha a bíróság a kiadatás feltételeinek fennállását megállapította és a kiadott személy átadása a 248. § (1) bekezdése alapján nem hajtható végre, a bíróság az ideiglenes kiadatási bűnügyi felügyelet, illetve a kiadatási letartóztatás indokoltságát a kiadatás feltételeinek fennállásának megállapítását követően legfeljebb háromhavonta az ügyiratok alapján hivatalból felülvizsgálja.
+249. § (1) Ha a bíróság a kiadatás feltételeinek fennállását megállapította és a kiadott személy átadása a 248. § (1) bekezdése alapján nem hajtható végre, a bíróság az ideiglenes kiadatási bűnügyi felügyelet, a kiadatási bűnügyi felügyelet, illetve a kiadatási letartóztatás indokoltságát a kiadatás feltételeinek fennállásának megállapítását követően legfeljebb háromhavonta az ügyiratok alapján hivatalból felülvizsgálja.
 
 (2) A bíróság a kényszerintézkedés indokoltságának felülvizsgálata során a miniszter útján megkeresi a megkereső külföldi államot annak érdekében, hogy
 

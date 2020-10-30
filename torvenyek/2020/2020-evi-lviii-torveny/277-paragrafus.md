@@ -1,4 +1,4 @@
-277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés és a bejelentés tudomásulvétele szükséges 2020. december 31-ig az alábbi jogügyletekkel összefüggésben:
+277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés szükséges a 2021. június 30-ig létrejött jogügyletekkel összefüggésben:
 
 a) stratégiai társaságban fennálló tulajdoni részesedés részben, vagy egészben, bármilyen tulajdonjog átruházási jogcímen – ideértve az apportálást is –, ingyenesen vagy visszterhesen történő átruházása,
 
@@ -29,3 +29,5 @@ b) a 276. § 2. pontja szerinti külföldi befektető a tulajdonszerzés, a köt
 (4) A miniszterhez tett bejelentés és a bejelentés tudomásulvétele szükséges a 276. § 3. pontjában megjelölt ágazatokba tartozó tevékenység folytatásához nélkülözhetetlen infrastruktúrák, berendezések és eszközök átruházása, használati vagy működtetési jogának átengedése vagy ilyen vagyontárgyak biztosítékba adása (a továbbiakban együtt: üzemeltetési jog) esetén is, ha az üzemeltetési jogot külföldi befektető vagy olyan jogi személy vagy szervezet szerzi meg, amelyben a külföldi befektető közvetlenül vagy közvetetten a Polgári Törvénykönyvről szóló törvény szerint meghatározó befolyással rendelkezik.
 
 (5) Ezen alcím rendelkezései nem alkalmazhatók, ha a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött (1) bekezdés szerint jogügylet a külföldi székhelyű jogi személy vagy egyéb szervezet stratégiai társaságnak minősülő magyarországi székhelyű leányvállalata tekintetében eredményezi a (2)–(4) bekezdésében foglaltakat.
+
+(6) Ezen alcím rendelkezései nem alkalmazhatóak, ha a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött (1) bekezdés szerinti jogügylet a számvitelről szóló 2000. évi C. törvény szerinti kapcsolt vállalkozások tekintetében jön létre.
