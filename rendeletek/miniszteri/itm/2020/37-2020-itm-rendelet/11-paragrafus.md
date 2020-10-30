@@ -1,3 +1,0 @@
-## 10. § A közlekedésért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelöléséről szóló 60/2011. (XI. 25.) NFM rendelet (a továbbiakban: R2.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) E rendelet szerint kell eljárni – a (2) bekezdésben meghatározott kivétellel – azon termékek megfelelőségértékelését végző szervezetek kijelölése, bejelentése és a kijelölést valamint a bejelentett szervezetként történt nyilvántartásba vételt követő ellenőrzése tekintetében, amelyekre vonatkozó forgalmazási követelmény szabályozására a közlekedésért felelős miniszter (a továbbiakban: miniszter) rendelkezik feladat- és hatáskörrel.”
