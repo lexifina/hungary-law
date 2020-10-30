@@ -1,0 +1,10 @@
+## 27. §[^61] E rendeletnek az ÁAFK Kr. 29. § (1) és (2) bekezdésével megállapított rendelkezéseit akkor kell alkalmazni, ha az adott szervezet vonatkozásában az ÁAFK Kr. 26. § (2) bekezdése az ÁAFK Kr. 5. §, 7. §, 8. § és 12–24. § rendelkezései alkalmazását elrendelte.
+
+28. §[^62] (1) E rendelet alapján a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet módosításáról szóló 471/2020. (X. 29.) Korm. rendelet hatálybalépését[^63] követően új ellenőrzési eljárás nem kezdeményezhető, és azon közbeszerzések, illetve beszerzések tekintetében, amelyekre vonatkozóan még nem kezdeményezték az e rendelet szerinti ellenőrzést, az ajánlatkérőt nem terheli a 6. § (1) bekezdésében, a 13/A. §-ban, a 15. §-ban és a 18. §-ban meghatározott ellenőrzés kezdeményezésének kötelezettsége. Az érintett szervezeteknek nem kell teljesíteniük az e rendelet szerint fennálló azon adatszolgáltatási kötelezettségeket, amelyek határideje 2020. december 31. napja.
+
+(2) E rendelet rendelkezéseit továbbra is alkalmazni kell azon közbeszerzések, illetve beszerzések tekintetében, amelyek ellenőrzését a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet módosításáról szóló 471/2020. (X. 29.) Korm. rendelet hatálybalépését[^64] megelőzően kezdeményezték, azzal az eltéréssel, hogy azokban az ellenőrzési eljárásokban, amelyekben még nem került sor az eljárás megindítására vonatkozó tanúsítvány kiállítására, az ellenőrzés az eljárás megindítására vonatkozó tanúsítvány kiállításával lezárul, és az ajánlatkérőt az így lezárult ellenőrzéssel érintett közbeszerzések esetén nem terheli a 12. § (1) bekezdése szerinti kötelezettség.
+
+[^61]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 314/2018. (XII. 27.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^62]: A 28. §-t a 471/2020. (X. 29.) Korm. rendelet 1. §-a iktatta be.
+[^63]: A hatálybalépés időpontja 2020. október 30.
+[^64]: A hatálybalépés időpontja 2020. október 30.

@@ -1,6 +1,6 @@
 ## 6. Közbeszerzési szerződések módosításának ellenőrzése
 
-18. §[^53] (1) Az e rendelet hatálya alá tartozó közbeszerzési szerződések módosításának engedélyezésére, valamint a közbeszerzési eljárások utóellenőrzésére – az 1. melléklet szerinti szervezetek vonatkozásában, az informatikai eszközök és szolgáltatások fejlesztésére vagy üzemeltetésére irányuló szerződések tekintetében, jelen alcímben szabályozott módon az e-közigazgatásért felelős miniszter, a 4/A. § szerinti esetekben az e-közigazgatásért felelős miniszter, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter közreműködésével – a miniszter jogosult.
+18. §[^54] (1) Az e rendelet hatálya alá tartozó közbeszerzési szerződések módosításának engedélyezésére, valamint a közbeszerzési eljárások utóellenőrzésére – az 1. melléklet szerinti szervezetek vonatkozásában, az informatikai eszközök és szolgáltatások fejlesztésére vagy üzemeltetésére irányuló szerződések tekintetében, jelen alcímben szabályozott módon az e-közigazgatásért felelős miniszter, a 4/A. § szerinti esetekben az e-közigazgatásért felelős miniszter, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter közreműködésével – a miniszter jogosult.
 
 (2) A 20. § szerint kell eljárni az e rendelet hatálya alá tartozó közbeszerzési eljárások eredményeként megkötött szerződések módosítása, valamint e rendelet hatálybalépése előtt indult közbeszerzési eljárás eredményeként megkötött szerződések e rendelet hatálybalépését követő módosítása esetén.
 
@@ -8,4 +8,4 @@
 
 (4) A miniszter a központi beszerző szervezet portáljáról a keretmegállapodásokból történő beszerzéseket utólagos ellenőrzés keretében is ellenőrizheti. Az ellenőrzésben a központi beszerző szervezet köteles közreműködni, különös tekintettel a keretmegállapodásokból történt beszerzésekre vonatkozó adatszolgáltatásra.
 
-[^53]: A 18. § a 314/2018. (XII. 27.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^54]: A 18. § a 314/2018. (XII. 27.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.

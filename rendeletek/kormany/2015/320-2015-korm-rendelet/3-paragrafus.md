@@ -4,15 +4,15 @@
 
 (2) Ha a határidő utolsó napja nem munkanapra esik, a határidő csak az ezt követő legközelebbi munkanapon jár le.
 
-(3)[^11]
+(3)[^12]
 
-(4)[^12]
+(4)[^13]
 
-(5)[^13]
+(5)[^14]
 
-(6)[^14]
+(6)[^15]
 
-[^11]: A 3. § (3) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^12]: A 3. § (4) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^13]: A 3. § (5) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^14]: A 3. § (6) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^12]: A 3. § (3) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^13]: A 3. § (4) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^14]: A 3. § (5) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^15]: A 3. § (6) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.

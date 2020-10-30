@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-320-20-
 | 2019-07-27 | 2015-320-20-22.16 | 182/2019. (VII. 26.) Korm. rendelet |
 | 2019-12-21 | 2015-320-20-22.17 | 329/2019. (XII. 20.) Korm. rendelet |
 | 2020-02-01 | 2015-320-20-22.18 | 9/2020. (I. 31.) Korm. rendelet |
+| 2020-10-30 | 2015-320-20-22.19 | 471/2020. (X. 29.) Korm. rendelet |

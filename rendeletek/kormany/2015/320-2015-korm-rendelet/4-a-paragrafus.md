@@ -1,7 +1,7 @@
 4/A. § (1) Az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet (a továbbiakban: ÁAFK Kr.) hatálya alá tartozó szervezet esetében, ha a közbeszerzés tárgya az ÁAFK Kr. szerinti alkalmazásfejlesztés, úgy a 4. § (3)–(6) bekezdése alkalmazása helyett az ÁAFK Kr. hatálya alá tartozó szervezet az 5. § (1) bekezdése szerinti hozzájárulás megadására vonatkozó előterjesztések esetén köteles mellékelni az ÁAFK Kr. szerinti támogató tanúsítványt.
 
-(1a)[^19] A DKÜ rendelet 13. § (1) bekezdés b) pontja szerinti beszerzések esetében az (1) bekezdés szerinti tanúsítvánnyal egyenértékű az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter jóváhagyása is, ha arra a DKÜ rendelet 5. § (9) bekezdése szerinti miniszteri rendelet lehetőséget biztosít.
+(1a)[^20] A DKÜ rendelet 13. § (1) bekezdés b) pontja szerinti beszerzések esetében az (1) bekezdés szerinti tanúsítvánnyal egyenértékű az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter jóváhagyása is, ha arra a DKÜ rendelet 5. § (9) bekezdése szerinti miniszteri rendelet lehetőséget biztosít.
 
 (2) Az ÁAFK Kr. szerinti soron kívüli alkalmazásfejlesztés esetén az (1) bekezdés szerinti tanúsítvány helyett a soron kívüliség bejelentése is mellékelhető. Ha a támogató tanúsítványt az ÁAFK Kr. szerinti szerv az 5. § (1) bekezdése szerinti előterjesztés elbírálása ideje alatt megadta vagy megtagadta, az (1) bekezdés szerinti szervezet köteles azt a miniszter részére soron kívül megküldeni.
 
-[^19]: A 4/A. § (1a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^20]: A 4/A. § (1a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 3. § (4) bekezdése iktatta be.
