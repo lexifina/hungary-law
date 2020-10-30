@@ -4,13 +4,7 @@
 
 ## Határidő: a felmerülés ütemében
 
-## 2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gondoskodjon a Budapest X. kerület belterület 38303/51 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) tulajdonjogának a Magyar Állam javára adásvétel útján történő megszerzéséről, és az ehhez szükséges forrást a Kormány az 1. pontban hivatkozott 1. melléklet szerint a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan beruházások, ingatlanvásárlás jogcímcsoport, 1. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím javára biztosítsa;
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## pénzügyminiszter
-
-## Határidő: a felmerülés ütemében
+## 2.[^2]
 
 ## 3. egyetért azzal, hogy az 1. pontban biztosított összegből a XX. Emberi Erőforrások Minisztériuma fejezet, 14. Országos Mentőszolgálat cím részére jóváhagyott forrás kizárólag az Országos Mentőszolgálat 2015. és 2018. december 31. között a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság felé fennálló tartozásának rendezésére szolgál, amely összegre elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettség terheli az Országos Mentőszolgálatot;
 
@@ -64,17 +58,13 @@
 
 ## Határidő: a 2020. évi központi költségvetés tervezése során
 
-## 8.[^1] úgy határoz, hogy a 4–6. ponthoz kapcsolódó beszerzések lefolytatására a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni;
+## 8.[^3] úgy határoz, hogy a 4–6. ponthoz kapcsolódó beszerzések lefolytatására a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni;
 
-## 9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a belügyminiszter bevonásával, az MNV Zrt. útján gondoskodjon a 2. pontban megjelölt Ingatlan Belügyminisztérium részére történő vagyonkezelésbe adásáról.
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## belügyminiszter
-
-## Határidő: az Ingatlan állami tulajdonba kerülését követően azonnal
+## 9.[^4]
 
 1. melléklet az 1301/2019. (V. 27.) Korm. határozathoz
+
+9K03150_0
 
 | XIV. Belügyminisztérium |
 
@@ -220,4 +210,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 8. pont az 1405/2019. (VII. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^2]: A 2. pontot az 1722/2020. (X. 30.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 8. pont az 1405/2019. (VII. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^4]: A 9. pontot az 1722/2020. (X. 30.) Korm. határozat 4. pontja visszavonta.
