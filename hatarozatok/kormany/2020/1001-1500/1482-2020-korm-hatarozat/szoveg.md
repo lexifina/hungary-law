@@ -31,3 +31,7 @@ a miniszterelnök kabinetfőnöke
 emberi erőforrások minisztere
 
 Határidő: azonnal
+
+5.[^1] egyetért azzal, hogy a koronavírus által a turisztikai iparágban okozott károk enyhítése érdekében a Magyar Turisztikai Ügynökség a 4. pont a) alpontja alapján biztosított forrást belföldi turisztikai forgalomélénkítő marketingtevékenység támogatására is felhasználja.
+
+[^1]: Az 5. pontot az 1724/2020. (X. 30.) Korm. határozat iktatta be.
