@@ -1,4 +1,4 @@
-## 13. §[^13]
+## 13. § Az átjárhatóságot lehetővé tevő mobil alrendszerek kizárólag akkor hozhatóak forgalomba, ha azok tervezése, kivitelezése és beszerelése megfelel az alapvető követelményeknek. A kérelmező biztosítja, hogy a forgalomba hozatalhoz szükséges hitelesítési nyilatkozat rendelkezésre álljon.
 
 ## 13. Bejelentett szervezetek
 
@@ -11,5 +11,3 @@
 (4) Amennyiben a kijelölés feltételeit nem teljesítő szervezettől a hatóság a jóváhagyást visszavonja, erről az Európai Bizottságot és az EGT tagállamokat haladéktalanul tájékoztatja.
 
 (5) Amennyiben a hatóság megállapítja, hogy az EGT más tagállamában működő bejelentett szervezete nem felel meg a vonatkozó előírásoknak, haladéktalanul tájékoztatja az Európai Bizottságot a megállapításokról, a megtett intézkedésekről és a döntés indokairól.
-
-[^13]: A 13. § a 18. § (2) bekezdése alapján 2020. október 31-én lép hatályba.
