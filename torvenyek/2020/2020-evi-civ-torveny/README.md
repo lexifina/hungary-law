@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-104-00-00
 | 2020-10-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-104-00-00.1 |
 | 2020-10-29 | 2010. évi CXXX. törvény | 2020-104-00-00.2 |
 | 2020-10-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-104-00-00.3 |
+| 2020-10-31 | 2010. évi CXXX. törvény | 2020-104-00-00.4 |
