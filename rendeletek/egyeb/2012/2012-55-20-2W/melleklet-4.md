@@ -38,10 +38,10 @@
 
 ## r) A karbantartó személyzet gyakorlati felkészítéséhez biztosítani kell az inaktív képzési környezetet. Biztosítani kell a gyakorlóhelyszín oktató rendszerelemeinek, eszközeinek aktualitását.
 
-4. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^31]
+4. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^32]
 
 Az atomerőművi munkavállalók képzési programjaira vonatkozó részletes követelmények
 
 Az engedélyes feladata, hogy az 1. mellékletben felsorolt munkakörökben a képzési programokat az ismertetett követelményeknek eleget tevő, a nemzetközi nukleáris ajánlások, valamint a nukleáris létesítmények nukleáris biztonsági követelményeiről szóló jogszabályban foglalt Nukleáris Biztonsági Szabályzatok előírásai figyelembevételével, a pedagógiai, andragógiai alapelvek és módszertanok alkalmazásával részletesen kidolgozza, és azokat folyamatosan aktualizálva alkalmazza.
 
-[^31]: A 4. melléklet a 6/2018. (VII. 19.) ITM rendelet 2. § (3) bekezdése, a 32/2019. (IX. 6.) ITM rendelet 4. § (3) bekezdése szerint módosított szöveg. [A 4. mellékletnek a 77/2015. (XII. 30.) NFM rendelet 9. § c) pontjával elrendelt módosítása, amely szerint „R szerint” szövegrész helyébe „az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti” szöveg lép, nem vezethető át. A 4. melléklet 1.3. pontjának, 2.3. pontjának, 4.3. pontjának, 17.2. és 19.2. pontjának a 32/2019. (IX. 6.) ITM rendelet 4. § (3) bekezdésével és 3. melléklet 112.1., 112.2. és 112.4. pontjával elrendelt módosítása nem vezethető át.]
+[^32]: A 4. melléklet a 6/2018. (VII. 19.) ITM rendelet 2. § (3) bekezdése, a 32/2019. (IX. 6.) ITM rendelet 4. § (3) bekezdése, a 38/2020. (X. 16.) ITM rendelet 1. § (3) bekezdése szerint módosított szöveg. [A 4. mellékletnek a 77/2015. (XII. 30.) NFM rendelet 9. § c) pontjával elrendelt módosítása, amely szerint „R szerint” szövegrész helyébe „az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti” szöveg lép, nem vezethető át. A 4. melléklet 1.3. pontjának, 2.3. pontjának, 4.3. pontjának, 17.2. és 19.2. pontjának a 32/2019. (IX. 6.) ITM rendelet 4. § (3) bekezdésével és 3. melléklet 112.1., 112.2. és 112.4. pontjával elrendelt módosítása nem vezethető át.]
