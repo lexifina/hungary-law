@@ -14,4 +14,6 @@ Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-4. visszavonja a XIV. Belügyminisztérium fejezet 2019. évi egyes forrásigényeinek biztosításáról szóló 1301/2019. (V. 27.) Korm. határozat 2. és 9. pontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
