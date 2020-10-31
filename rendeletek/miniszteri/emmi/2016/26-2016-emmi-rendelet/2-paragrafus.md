@@ -86,27 +86,23 @@
 
 4.[^9] A Magyar Klasszikus Zene Ifjú Nagykövete cím.
 
-(7) A miniszter által adományozandó köznevelési és felsőoktatási díjak az oktatási ágazatban a következők:
+(7)[^10] A miniszter által adományozandó díjak a köznevelési ágazatban a következők:
 
-1. Eötvös József-díj,
+1. Eötvös József-díj (köznevelési tagozat),
 
-2. Apáczai Csere János-díj,
+2. Apáczai Csere János-díj (köznevelési tagozat),
 
-3.[^10]
+3. Németh László-díj,
 
-4. Trefort Ágoston-díj,
+4. Trefort Ágoston-díj (köznevelési tagozat),
 
-5. Kármán Tódor-díj,
+5. Pedagógus Szolgálati Emlékérem,
 
-6. Pedagógus Szolgálati Emlékérem.
+6. Brunszvik Teréz-díj.
 
-(8)[^11] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
+(8)[^11]
 
-1. Brunszvik Teréz-díj,
-
-2.[^12] Németh László-díj.
-
-(9)[^13]
+(9)[^12]
 
 (10) A miniszter által adományozandó díjak a sport ágazatban a következők:
 
@@ -120,7 +116,7 @@
 
 5. Kemény Ferenc-díj.
 
-(11)[^14] A miniszter által adományozandó díjak a szociális és családügyi ágazatban:
+(11)[^13] A miniszter által adományozandó díjak a szociális és családügyi ágazatban:
 
 1. Pro Caritate díj,
 
@@ -140,9 +136,9 @@
 
 9. Szent Anna a Nevelőszülőkért díj,
 
-10.[^15]
+10.[^14]
 
-(12)[^16]
+(12)[^15]
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
@@ -155,10 +151,9 @@
 [^7]: A 2. § (4) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § (6) bekezdés 3. pontját a 30/2017. (XI. 21.) EMMI rendelet 2. §-a iktatta be.
 [^9]: A 2. § (6) bekezdés 4. pontját a 9/2020. (III. 12.) EMMI rendelet 1. §-a iktatta be.
-[^10]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
-[^11]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
-[^12]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^13]: A 2. § (9) bekezdését a 7/2020. (II. 17.) ITM rendelet 39. § (3) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
-[^14]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^15]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
-[^16]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (7) bekezdése a 38/2020. (X. 30.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^11]: A 2. § (8) bekezdését a 38/2020. (X. 30.) EMMI rendelet 5. § a) pontja hatályon kívül helyezte.
+[^12]: A 2. § (9) bekezdését a 7/2020. (II. 17.) ITM rendelet 39. § (3) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^13]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^14]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^15]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
