@@ -1,0 +1,1 @@
+## „(7) Az adatszolgáltatást az egészségügyi szolgáltatók informatikai rendszereiben már rögzített adatokból – amennyiben az adatszolgáltatás célja így megvalósítható – automatizáltan kell előállítani. Az adatszolgáltatást az Eüak. 16. § (6) bekezdése szerint kell teljesíteni.”
