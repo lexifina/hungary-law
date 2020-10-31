@@ -4,40 +4,44 @@
 
 | C10AA | Hmg CoA reductase gátlók |
 
-8. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^150]
+8. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^153]
 
-A FELÍRÁSI IGAZOLÁS TARTALMI ELEMEI
+A FELÍRÁSI IGAZOLÁS KÖTELEZŐ TARTALMI ELEMEI
 
 1. A „Felírási igazolás” szöveg
 
-2. A felírási igazolás kiállításának dátuma és időpontja
+2. A felírási igazolás kiállításának dátuma
 
 3. Az ellátási esemény egyedi azonosítója (naplósorszám)
 
-4. A vényt rendelő orvos neve és alapnyilvántartási száma
+4. A vényt vagy vényeket rendelő orvos neve és alapnyilvántartási száma
 
 5. Ha értelmezett: az egészségügyi szolgáltató megnevezése, címe, működési engedély száma
 
-6. A vény jogosultjának neve, születési dátuma, lakcíme, neme, TAJ-a vagy más azonosítására használt okmány típusa és száma
+6. A vény vagy vények jogosultjának neve, születési dátuma, lakcíme, neme, valamint TAJ száma vagy más azonosítására használt okmány típusa és száma
 
-7. A rendelés jogcíme
+7. A felírási igazolásban szereplő vény vagy vények adatai, vényenként:
 
-8. A gyógyszer megnevezése, hatáserőssége, kiszerelése, a rendelt mennyisége (egyes elemek bizonyos felírási módok esetében értelemszerűen elmaradhatnak)
+7.1. A gyógyszer rendelésének időpontja
 
-9. Támogatással történő gyógyszerrendelés esetén az indikáció (BNO kód)
+7.2. A rendelés jogcíme
 
-10. A helyettesíthetőség esetleges tiltása
+7.3. A gyógyszer megnevezése, hatáserőssége, kiszerelése, a rendelt mennyisége, magisztrális készítmények esetén a részletes összetétel (egyes elemek bizonyos felírási módok esetében értelemszerűen elmaradhatnak)
 
-11. A csak szakorvosi javaslat alapján adható gyógyszerek esetén
+7.4. Támogatással történő gyógyszerrendelés esetén az indikáció (BNO kód)
 
-11.1. a szakorvosi javaslatot kiállító orvos alapnyilvántartási száma
+7.5. A helyettesíthetőség esetleges tiltása
 
-11.2. a szakorvosi javaslat kiállításának dátuma
+7.6. A csak szakorvosi javaslat alapján adható gyógyszerek esetén
 
-12. Adagolásra vonatkozó, illetve egyéb utasítások, a dózistúllépés jelölése
+7.6.1. a szakorvosi javaslatot kiállító orvos alapnyilvántartási száma
 
-13. A vény érvényességi ideje
+7.6.2. a szakorvosi javaslat kiállításának dátuma
 
-14. A vény EESZT azonosítója vonalkódos, illetve szövegesen olvasható formában is
+7.7. Adagolásra vonatkozó, illetve egyéb utasítások, a dózistúllépés jelölése
 
-[^150]: A 8. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (1) bekezdése iktatta be.
+7.8. A vény kiválthatóságának kezdő és záró időpontja
+
+7.9. A vény EESZT azonosítója vonalkódos, illetve szövegesen olvasható formában is
+
+[^153]: A 8. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (1) bekezdése iktatta be, szövege a 37/2020. (X. 30.) EMMI rendelet 2. § (7) bekezdésével megállapított szöveg.
