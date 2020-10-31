@@ -100,11 +100,11 @@
 
 ## * Az adatszolgáltatás beérkezési határideje: ha a megjelölt dátum munkaszüneti nap vagy heti pihenőnap, a határidő a következő munkanap.
 
-2. számú melléklet a 76/2004. (VIII. 19.) ESZCSM rendelethez[^12]
+2. számú melléklet a 76/2004. (VIII. 19.) ESZCSM rendelethez[^15]
 
-A NEAK adatközlése a finanszírozási adatokról[^13]
+A NEAK adatközlése a finanszírozási adatokról[^16]
 
-1.[^14] Tételes jelentési kötelezettség az egészségügyért felelős miniszter által vezetett minisztérium és az Állami Egészségügyi Ellátó Központ részére:
+1.[^17] Tételes jelentési kötelezettség az egészségügyért felelős miniszter által vezetett minisztérium és az Állami Egészségügyi Ellátó Központ részére:
 
 A NEAK az adatokat személyazonosításra alkalmatlan módon kapcsolati kóddal ellátva szolgáltatja, amely biztosítja az ellátott betegek megkülönböztetését, az egyes ellátási események összefűzését. A NEAK a gyógyszerforgalmi (vény) adatokat személy, gyógyszertár, orvos azonosítására alkalmatlan módon kapcsolati kóddal ellátva, a gyógyszertár irányítószámával kiegészített formában szolgáltatja. A NEAK valamennyi jelentésre vonatkozóan átadja a jelentési rekordszerkezet pontos technikai leírását, az egyes mezőkben szereplő kódok (ide nem értve a NEAK honlapján jogszabály szerint közzéteendő törzseket) pontos értelmezését, valamint ezek módosulását. Az adatokat a NEAK adattárába kerülő rekordokkal megegyező részletezettséggel kell átadni.
 
@@ -117,6 +117,8 @@ A NEAK az adatokat személyazonosításra alkalmatlan módon kapcsolati kóddal 
 1.4. Esetfinanszírozott körbe tartozó beavatkozások és eszközök tételes jelentési, besorolási és finanszírozási eljárás utáni adatai.
 
 1.5. A gyógyszerforgalmazás gyógyszertári elszámolásából származó, a jelentési, besorolási és finanszírozási eljárás hibajavításai utáni, rekordképnek megfelelően részletezett adatok.
+
+1.6.[^18] Az alapellátás (háziorvosi, házi gyermekorvosi és eseti ellátás, fogászat, alapellátási ügyelet) tételes forgalmi adatai.
 
 2. Jelentési kötelezettség az egészségügyért felelős miniszter által vezetett minisztérium és az Állami Egészségügyi Ellátó Központ részére (az elszámolást követően):
 
@@ -154,10 +156,15 @@ A NEAK az adatokat személyazonosításra alkalmatlan módon kapcsolati kóddal 
 
 2.3.2. egészségügyi szolgáltatónkénti finanszírozási adatok a természetbeni ellátások kasszái szerint,
 
-2.3.3. TAJ-t helyettesítő kapcsolati kódlista, mely tartalmazza az adott személy állandó lakóhelye szerinti irányítószámot,
+2.3.3.[^19] TAJ-t helyettesítő kapcsolati kódlista, mely tartalmazza az adott személy állandó lakóhelye szerinti irányítószámot, passziválás esetén a passziválás alapját képező esemény dátumát, illetve a passziválás okát.
 
 2.3.4. gyógyszertárak azonosítóját helyettesítő kapcsolati kódlista, mely tartalmazza a gyógyszertár irányítószámát.
 
-[^12]: A 2. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 69. § (2) bekezdésével megállapított szöveg.
-[^13]: A 2. melléklet címe az 54/2016. (XII. 30.) EMMI rendelet 42. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^14]: A 2. melléklet 1. pontja az 54/2016. (XII. 30.) EMMI rendelet 42. § (3) bekezdés e)–f) pontja szerint módosított szöveg.
+2.3.5.[^20] a háziorvosi praxisokhoz bejelentkezett biztosítottak TAJ-t helyettesítő kapcsolati kódállományát.
+
+[^15]: A 2. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 69. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. melléklet címe az 54/2016. (XII. 30.) EMMI rendelet 42. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet 1. pontja az 54/2016. (XII. 30.) EMMI rendelet 42. § (3) bekezdés e)–f) pontja szerint módosított szöveg.
+[^18]: A 2. számú melléklet 1. pont 1.6. alpontját a 37/2020. (X. 30.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+[^19]: A 2. számú melléklet 2. pont 2.3. alpont 2.3.3. pontja a 37/2020. (X. 30.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. számú melléklet 2. pont 2.3. alpont 2.3.5. pontját a 37/2020. (X. 30.) EMMI rendelet 3. § (2) bekezdése iktatta be.
