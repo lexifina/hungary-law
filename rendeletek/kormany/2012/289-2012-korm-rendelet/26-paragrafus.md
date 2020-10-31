@@ -4,11 +4,11 @@
 
 (2) A vasúti közlekedési hatóság abban az esetben engedélyezi új létesítésű vasúti építmény ideiglenes használatbavételét, ha az építmény, vagy annak egy része műszaki átadása megtörtént, az építési engedélynek megfelelően épült meg, rendeltetésszerű használatra alkalmas, valamint kielégíti a forgalombiztonsági követelményeket.
 
-(3)[^27] Ideiglenes használatbavételi engedélyt a vasúti közlekedési hatóság kizárólag határozott időtartamra, legfeljebb öt évre adhat, amely időtartamot a forgalomszervezési, műszaki, vagy technológiai igények és az építés ütemezésének figyelembevételével határoz meg.
+(3)[^36] Ideiglenes használatbavételi engedélyt a vasúti közlekedési hatóság kizárólag határozott időtartamra, legfeljebb öt évre adhat, amely időtartamot a forgalomszervezési, műszaki, vagy technológiai igények és az építés ütemezésének figyelembevételével határoz meg.
 
-(4)[^28] A vasúti közlekedési hatóság ideiglenes használatbavételi engedély időbeli hatályának időtartamát kérelemre legfeljebb két alkalommal, esetenként öt évvel meghosszabbíthatja.
+(4)[^37] A vasúti közlekedési hatóság ideiglenes használatbavételi engedély időbeli hatályának időtartamát kérelemre legfeljebb két alkalommal, esetenként öt évvel meghosszabbíthatja.
 
 (5) Az ideiglenes használatbavételi engedélynek tartalmaznia kell a végleges használatbavételi engedély megadásának feltételeit.
 
-[^27]: A 26. § (3) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^28]: A 26. § (4) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^36]: A 26. § (3) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^37]: A 26. § (4) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

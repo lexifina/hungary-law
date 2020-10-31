@@ -9,3 +9,7 @@ b) határozatlan időre
 adja ki.
 
 (3) A vasúti közlekedési hatóság – legalább öt éves – határozott időre adja ki a használatbavételi engedélyt annak a vasúti építményt üzemeltető szervezetnek, amely nem rendelkezik vasútbiztonsági engedéllyel.
+
+(4)[^29] Mindazon vasúti célú sajátos építmények esetében, amelyekre átjárhatósági műszaki előírás vonatkozik, és az átjárhatósági műszaki előírás előírásai alapján az alrendszer felújítását vagy átalakítását követően új használatbavételi engedély kiadása szükséges, a határozatlan ideig megadott használatbavételi engedély a használatbavételi engedélyben és a vasútbiztonsági engedélyben meghatározott változatlan műszaki és biztonsági feltételekkel az új használatbavételi engedély hatálybalépéséig hatályos.
+
+[^29]: A 20. § (4) bekezdését a 415/2020. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.

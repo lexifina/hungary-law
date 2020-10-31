@@ -1,4 +1,4 @@
-29. § (1)[^29] A vasúti építmény megszüntetéséről szóló határozat – az Ákr.-ben foglaltakon túlmenően – tartalmazza:
+29. § (1)[^38] A vasúti építmény megszüntetéséről szóló határozat – az Ákr.-ben foglaltakon túlmenően – tartalmazza:
 
 a) a megszüntetni kívánt vasúti építmény területének rekultivációjára irányuló kötelezést, vagy a megszüntetés iránti kérelemben foglalt hasznosítására vonatkozó engedélyt,
 
@@ -14,4 +14,4 @@ f) a vasúti létesítmény megszüntetésének bejelentését követő 30 napon
 
 (2) Megszüntetni kívánt vasúti létesítményekkel érintett vasúti átjáró esetében a megszüntetési engedély jogosultja a helyreállítás keretében a csatlakozó úttal azonos minőségű utat köteles építeni.
 
-[^29]: A 29. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 29. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
