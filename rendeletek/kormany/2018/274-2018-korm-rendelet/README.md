@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-274-20-
 | 2019-10-02 | 2018-274-20-22.5 | 2010: CXXX. törvény |
 | 2019-12-01 | 2018-274-20-22.6 | 283/2019. (XI. 28.) Korm. rendelet |
 | 2020-08-13 | 2018-274-20-22.7 | 373/2020. (VII. 30.) Korm. rendelet |
+| 2020-10-31 | 2018-274-20-22.8 | 373/2020. (VII. 30.) Korm. rendelet |

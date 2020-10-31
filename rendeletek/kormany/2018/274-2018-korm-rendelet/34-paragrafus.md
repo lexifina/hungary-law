@@ -2,9 +2,9 @@
 
 ## 20. Hatályon kívül helyező rendelkezés
 
-34. § (1)[^49]
+34. § (1)[^51]
 
-(2)[^50]
+(2)[^52]
 
-[^49]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
