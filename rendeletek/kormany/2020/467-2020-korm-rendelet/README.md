@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-467-20-
 | 2020-10-28 | 2020-467-20-22.1 | 467/2020. (X. 27.) Korm. rendelet |
 | 2020-10-29 | 2020-467-20-22.2 | 2010: CXXX. törvény |
 | 2020-10-30 | 2020-467-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-10-31 | 2020-467-20-22.4 | 2010: CXXX. törvény |
