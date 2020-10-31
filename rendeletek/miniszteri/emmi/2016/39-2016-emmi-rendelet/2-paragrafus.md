@@ -18,7 +18,7 @@ a) képes biztosítani a hozzáférés, azonosítás, szolgáltatáshívás, a k
 
 b) elvégezte az EESZT szolgáltatások igénybevételéhez szükséges, a csatlakozó adatkezelőhöz köthető hozzáférési jogosultságok beállítását.
 
-(3) A működtető a csatlakozó adatkezelő részére hozzáférhetővé teszi
+(3)[^6] A működtető a csatlakozó adatkezelő, és az Eüak. 35/B. § (5) bekezdése szerinti informatikai rendszer fejlesztője részére hozzáférhetővé teszi
 
 a) a csatlakozó adatkezelő saját informatikai rendszere és az EESZT közötti informatikai kapcsolat kiépítését lehetővé tévő csatlakoztatási felületet és a csatlakozási felület informatikai rendszerbe illesztéséhez, valamint a rendszerek közötti kapcsolat kialakításához szükséges technikai leírásokat, a csatlakozás informatikai feltételeit és informatikai biztonsági követelményeit,
 
@@ -33,3 +33,4 @@ d) a követelmények ellenőrzésének menetét.
 [^3]: A 2. § (1) bekezdés c) pontját a 24. § hatályon kívül helyezte, újonnan a 38/2018. (X. 31.) EMMI rendelet 26. §-a iktatta be.
 [^4]: A 2. § (1a) bekezdését a 23/2019. (X. 15.) EMMI rendelet 1. §-a iktatta be.
 [^5]: A 2. § (2) bekezdés nyitó szövegrésze a 23/2019. (X. 15.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdés nyitó szövegrésze a 37/2020. (X. 30.) EMMI rendelet 8. §-a szerint módosított szöveg.

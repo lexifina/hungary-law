@@ -16,7 +16,7 @@
 
 | 7 | Egyéb laboratóriumi ellátás lelete | 4 óra | opcionális |
 
-| 8 | CT és MR vizsgálatokról készült lelet | 1 óra | kötelező |
+| 8 | CT- és MR-vizsgálatokról készült lelet | 1 óra | kötelező |
 
 | 9 | Egyéb képalkotó vizsgálat lelete | 1 óra | kötelező |
 
@@ -26,8 +26,16 @@
 
 | 12 | Szakorvosi javaslat | 4 óra | kötelező |
 
+| 13 | Várandósgondozás dokumentációja VOIR-ból | 1 óra | kötelező |
+
+| 14 | Gyermekágyas gondozás dokumentációja VOIR-ból | 1 óra | kötelező |
+
+| 15 | Gyermekgondozás dokumentációja VOIR-ból | 1 óra | kötelező |
+
+| 16 | Szívkoszorúér CT (CCTA) lelete | 1 óra | kötelező |
+
+| 17 | Szívkoszorúér intervenciós beavatkozások műtéti leírása | 1 óra | kötelező |
+
+| 18 | Onkoteam jegyzőkönyv | 1 óra | kötelező |
+
 5. melléklet a 39/2016. (XII. 21.) EMMI rendelethez
-
-Jelentéstételi és adatszolgáltatási kötelezettségek
-
-Az Eüak. 15. §-a szerinti mikrobiológiai laboratórium vizsgálatának eredményéről teljesítendő jelentés.

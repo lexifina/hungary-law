@@ -10,7 +10,7 @@ c) a 19. §-ban meghatározott, az EESZT útján nyilvántartott egészségügyi
 
 d) a 20. §-ban meghatározott, jelentéstételi és adatszolgáltatási kötelezettségét,
 
-e)[^9] a 20/A. §-ban meghatározott adatszolgáltatást
+e)[^11] a 20/A. §-ban meghatározott adatszolgáltatást
 
 ## kell az üzemszünet esetén annak végét, üzemvar esetén annak tényleges megszűnését követő négy napon belül teljesítenie.
 
@@ -24,4 +24,4 @@ b) huszonnégy órát meghaladó hibajavítás esetén a hibaelhárítást köve
 
 c) az elmulasztott adatszolgáltatást az (1) bekezdés szerint teljesíti.
 
-[^9]: A 10. § (1) bekezdés e) pontját a 29/2017. (X. 31.) EMMI rendelet 23. §-a iktatta be.
+[^11]: A 10. § (1) bekezdés e) pontját a 29/2017. (X. 31.) EMMI rendelet 23. §-a iktatta be.

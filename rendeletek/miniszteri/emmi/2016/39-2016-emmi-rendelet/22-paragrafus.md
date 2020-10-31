@@ -12,7 +12,7 @@ d) az Eüak. 35/B. § (1) bekezdés c) pontja alapján csatlakozásra köteles �
 
 e) a 2. § (1) bekezdésében meghatározott szervezet 2017. március 1. napjáig,
 
-f)[^14] a 2. § (1a) bekezdése szerinti egészségügyi szolgáltató 2020. január 1-jéig
+f)[^17] a 2. § (1a) bekezdése szerinti egészségügyi szolgáltató 2020. január 1-jéig
 
 ## köteles teljesíteni.
 
@@ -30,11 +30,22 @@ b) a nem közfinanszírozott egészségügyi ellátások tekintetében 2018. nov
 
 (5) A kezelőorvos, ennek hiányában a háziorvos a 18. §-ban meghatározott feladatát 2017. november 1. napjától köteles teljesíteni.
 
-(5a)[^15] A 2. § (1a) bekezdése szerinti egészségügyi szolgáltató az adatszolgáltatási kötelezettségét legkésőbb 2020. június 1. napjától köteles teljesíteni.
+(5a)[^18] A 2. § (1a) bekezdése szerinti egészségügyi szolgáltató az adatszolgáltatási kötelezettségét legkésőbb 2020. június 1. napjától köteles teljesíteni.
 
 (6) 2017. január 1. napjáig automatikus információátadás helyett az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvény szerinti automatikus adatátadás útján kell az azonosítási és jogosultságkezelési nyilvántartás működéséhez szükséges nyilvántartások Eüak. szerinti adatait, valamint a törzsadat-nyilvántartásba történő közzétételt biztosítani.
 
 (7) 2017. január 1. napjáig a Kormány által kötelezően biztosítandó azonosítási szolgáltatás alatt a Kormány által kötelezően nyújtandó azonosítási szolgáltatást kell érteni.
 
-[^14]: A 22. § (1) bekezdés f) pontját a 23/2019. (X. 15.) EMMI rendelet 2. § (1) bekezdése iktatta be.
-[^15]: A 22. § (5a) bekezdését a 23/2019. (X. 15.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+(8)[^19] Az a fejlesztő, aki az Elektronikus Egészségügyi Szolgáltatási Tér működésével összefüggő egyes miniszteri rendeletek módosításáról szóló 37/2020. (X. 30.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépésekor az e rendeletnek a Módr.-rel megállapított 3/A. §-a szerinti informatikai rendszerrel rendelkezik, 2020. december 31-ig a működtető által a Módr. hatálybalépését[^20] megelőzően kiállított igazolással igazolhatja a 3/A. § szerinti követelmények teljesítését.
+
+(9)[^21] A működtető a Módr.-rel megállapított 3/A. § (8) bekezdése szerinti jegyzék részeként 2020. december 31-ig közzéteszi a (8) bekezdés szerinti igazolással rendelkező informatikai rendszerek jegyzékét is.
+
+(10)[^22] A csatlakozott adatkezelő az 1. és 4. melléklet szerinti adatszolgáltatási kötelezettség Módr.-rel megállapított követelményeinek megfelelő teljesítését legkésőbb a Módr. hatálybalépését[^23] követő 3 hónapon belül köteles biztosítani. Az 1. melléklet 21–24. pontja szerinti adatszolgáltatási kötelezettség Módr.-rel megállapított követelményeinek megfelelő teljesítést legkésőbb a Módr. hatálybalépését követő 6 hónapon belül kell biztosítani.
+
+[^17]: A 22. § (1) bekezdés f) pontját a 23/2019. (X. 15.) EMMI rendelet 2. § (1) bekezdése iktatta be.
+[^18]: A 22. § (5a) bekezdését a 23/2019. (X. 15.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^19]: A 22. § (8) bekezdését a 37/2020. (X. 30.) EMMI rendelet 6. §-a iktatta be.
+[^20]: A hatálybalépés időpontja 2020. október 31.
+[^21]: A 22. § (9) bekezdését a 37/2020. (X. 30.) EMMI rendelet 6. §-a iktatta be.
+[^22]: A 22. § (10) bekezdését a 37/2020. (X. 30.) EMMI rendelet 6. §-a iktatta be.
+[^23]: A hatálybalépés időpontja 2020. október 31.
