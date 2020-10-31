@@ -52,7 +52,7 @@
 
 ## a c) alpont tekintetében a 3. pont c) alpontban meghatározott forrás rendelkezésre állását követően azonnal
 
-## 6. úgy határoz, hogy a Magyarországi Evangélikus Egyház kórházának létrehozása érdekében szükséges előkészítési tevékenységek támogatásáról szóló 1308/2018. (VII. 5.) Korm. határozat 3. pontjában a „2020. június 30-ig” szövegrész helyébe a „2020. december 31-ig” szöveg lép.
+## 6.[^1]
 
 1. melléklet az 1732/2020. (X. 30.) Korm. határozathoz
 
@@ -69,3 +69,5 @@
 | 4. | Miniszterelnökség | Sajátos nevelésű gyermekek integrációja, felzárkóztatásának támogatása, ellátásuk biztosítása (evangélikus EGYMI elindítása) |  | 80 000 000 |  |  |
 
 | Összesen | 250 000 000 | 1 780 000 000 | 5 290 000 000 | 4 000 000 000 |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
