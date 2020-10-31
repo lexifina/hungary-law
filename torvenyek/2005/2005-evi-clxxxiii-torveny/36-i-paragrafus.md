@@ -1,4 +1,4 @@
-## A VASÚTI JÁRMŰVEK FORGALOMBA HOZATALA, JAVÍTÁSA, IDŐSZAKOS VIZSGÁLATA ÉS A KARBANTARTÁSÉRT FELELŐS SZERVEZET
+## A VASÚTI JÁRMŰVEK FORGALOMBA HOZATALA, ÜZEMBE HELYEZÉSE, JAVÍTÁSA, IDŐSZAKOS VIZSGÁLATA ÉS A KARBANTARTÁSÉRT FELELŐS SZERVEZET
 
 36/I. § (1) A vasúti jármű csak azt követően hozható forgalomba, hogy az Ügynökség vagy a közlekedési hatóság a forgalombahozatali járműengedélyt megadta.
 
@@ -22,15 +22,17 @@ c) a vonatkozó ÁME-k megkövetelik azt.
 
 (1g) Ha a kérelmező a vasúti járműre vonatkozó forgalombahozatali engedélyt kapott, a vasúti jármű első használatát megelőzően a közlekedési hatóság az üzembentartó kérésére a forgalombahozatali engedélyre vonatkozó adatokat a nemzeti vasúti járműnyilvántartásba bejegyzi.
 
+(1h) A vasúti járművek forgalomba hozatala, üzembe helyezése engedélyezéséről, időszakos és rendkívüli vizsgálatáról, hatósági járműnyilvántartásáról szóló kormányrendeletben meghatározott vasúti járművek üzembe helyezését a közlekedési hatóság engedélyezi.
+
 (2) A vasúti jármű üzemben tartója a műszaki állapot megvizsgálása érdekében a vasúti járművet a vasúti járművek üzembe helyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározottak szerint időszakos vizsgálatra bocsátja.
 
-(3) A közlekedési hatóság a forgalomba hozatal előtti vizsgálatában a közlekedési hatóság által kiadott műszaki engedéllyel rendelkező személy vagy szervezet tanúsító szervezetként közreműködhet. A műszaki engedélyhez kötött tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki rendelkezik a vasúti járművek időszakos műszaki vizsgálatát végző szervezetek engedélyezéséről és nyilvántartásáról szóló rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság a műszaki engedélyhez kötött tevékenységet folytató személyekről és szervezetekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait.
+(3) A közlekedési hatóság a forgalomba hozatal, valamint az üzembe helyezés előtti vizsgálatában a közlekedési hatóság által kiadott műszaki engedéllyel rendelkező személy vagy szervezet tanúsító szervezetként közreműködhet. A műszaki engedélyhez kötött tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki rendelkezik a vasúti járművek időszakos műszaki vizsgálatát végző szervezetek engedélyezéséről és nyilvántartásáról szóló rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság a műszaki engedélyhez kötött tevékenységet folytató személyekről és szervezetekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 
-(4) A forgalomba hozatal vagy a pályahálózaton való használat előtt valamennyi járműnek rendelkeznie kell karbantartásért felelős szervezettel. A karbantartó szervezetet a közlekedési hatóság a nemzeti vasúti járműnyilvántartásban nyilvántartásba veszi.
+(4) A forgalomba hozatal, az üzembe helyezés vagy a pályahálózaton való használat előtt valamennyi járműnek rendelkeznie kell karbantartásért felelős szervezettel. A karbantartásért felelős szervezetet a közlekedési hatóság a nemzeti vasúti járműnyilvántartásban nyilvántartásba veszi.
 
 (5) Különleges menet iránti kérelmet kell benyújtani a hatósághoz
 
-a) EGT-tagállamban hatályos típusengedéllyel vagy forgalombahozatali járműengedéllyel nem rendelkező,
+a) EGT-tagállamban hatályos típusengedéllyel, forgalombahozatali járműengedéllyel vagy üzembehelyezési engedéllyel nem rendelkező,
 
 b) pályaszámmal nem rendelkező történelmi, muzeális, valamint bemutató és vizsgálat céljából a vasúti pályahálózaton közlekedő vagy
 

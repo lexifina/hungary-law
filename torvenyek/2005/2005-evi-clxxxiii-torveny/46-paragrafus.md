@@ -6,6 +6,6 @@
 
 (4) A fejlesztési közreműködő vagy a GSM-R fejlesztő által végzett GSM-R rendszerhálózat-létesítés során az érintett vasúti pályahálózat tulajdonosa, vagyonkezelője és működtetője köteles együttműködni.
 
-(5) A vasúti pálya és tartozékai tervezésére, építésére, kivitelezésére, üzembe helyezésére és üzemeltetésére vonatkozó szabályokat a vasúti pálya és tartozékai tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályairól szóló miniszteri rendelet tartalmazza.
+(5)
 
 (6) A többségi állami tulajdonban álló gazdasági társaság részére történő GSM-R rendszerhálózat és tartozékai vagyonátadása során a 44/A. § (10), (12) és (13), valamint a 45. § (4), (5) és (8) bekezdése alkalmazandó.

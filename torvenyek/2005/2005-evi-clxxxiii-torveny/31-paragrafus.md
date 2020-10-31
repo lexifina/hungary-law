@@ -24,7 +24,9 @@ a) megteszi a szükséges korrekciós intézkedéseket az észlelt biztonsági k
 
 b) e kockázatokról értesíti a többi érintett felet annak érdekében, hogy azok megtehessenek minden olyan korrekciós intézkedést, amely a vasúti rendszer biztonsági teljesítményének folyamatos fenntartásához szükséges.
 
-(1d) A vasúti járműveknek a vállalkozó vasúti társaságok közötti cseréje esetén minden érintett szereplő megosztja a többivel a működés biztonsága szempontjából lényeges információkat, így különösen az érintett jármű állapotára és üzemi előzményeire, a nyomon követhetőség céljából a karbantartási nyilvántartás egyes elemeire, a rakodási műveletek nyomon követhetőségére és a fuvarlevelekre vonatkozóan.
+(1d) Ha az (1a) bekezdésben meghatározott szervezetek részéről az (1a)–(1c) bekezdésekben meghatározott kockázatelemzés elvégzése vagy kockázatkezelési intézkedés végrehajtása szükséges, ezeket a kijelölő hatóság engedélyével rendelkező kockázatértékelő szervezet értékeli. A kockázatkezelési intézkedés csak a kockázatértékelő szervezet jóváhagyása után hajtható végre.
+
+(1e) A vasúti járműveknek a vállalkozó vasúti társaságok közötti cseréje esetén minden érintett megosztja a többi érintettel a működés biztonsága szempontjából lényeges információkat, így különösen az érintett jármű állapotára és üzemi előzményeire, a nyomonkövethetőség céljából a karbantartási nyilvántartás egyes elemeire, a rakodási műveletek nyomonkövethetőségére és a fuvarlevelekre vonatkozóan.
 
 (2) A vasúti közlekedés biztonsága érdekében
 
@@ -44,4 +46,4 @@ c) a vasút területét igénybe vevő, illetve a vasút területén tartózkod�
 
 (7) A bejelentett szervezet az Ügynökség részre megküldi az alrendszerek EK-hitelesítési tanúsítványait, valamint a kölcsönös átjárhatóságot lehetővé tevő rendszerelemek EK-megfelelőségi tanúsítványait és EK-alkalmazhatósági tanúsítványait.
 
-(8) A pályahálózat-működtető, valamint a fejlesztési közreműködő NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) valamint a GSM-R fejlesztő az ÁME hatálybalépését követő 30 napon belül írásban tájékoztatja a közlekedési hatóságot az ÁME-vel érintetten megvalósuló és előrehaladott fejlesztési stádiumban lévő projektekről.
+(8) A vasúti társaság, valamint a fejlesztési közreműködő NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) valamint a GSM-R fejlesztő az ÁME hatálybalépését követő 30 napon belül írásban tájékoztatja a közlekedési hatóságot az ÁME-vel érintetten megvalósuló és előrehaladott fejlesztési stádiumban lévő projektekről.

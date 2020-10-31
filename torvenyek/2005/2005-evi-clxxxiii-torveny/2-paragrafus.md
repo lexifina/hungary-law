@@ -84,7 +84,7 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.18. stratégiai jelentőséggel nem bíró vasúti pályahálózat: olyan vasúti pálya vagy pályahálózat, amelynek hossza nem haladja meg a 30 kilométert, és kihasználtsági szintje, valamint a rajta folyó szállítási forgalom nem éri el az elméleti kapacitás 10%-át;
 
-2.19. tároló vágánycsoport: forgalombahozatali járműengedéllyel rendelkező vasúti járművek két szerződés alapján történő járműmozgás közötti, legfeljebb egyéves időtartamra történő tárolására szolgáló vágányok;
+2.19. tároló vágánycsoport: forgalombahozatali járműengedéllyel vagy üzembehelyezési engedéllyel rendelkező vasúti járművek két szerződés alapján történő járműmozgás közötti, legfeljebb egyéves időtartamra történő tárolására szolgáló vágányok;
 
 2.20. térségi vasúti pályahálózat: térségi vasúti szolgáltatás végzéséhez szükséges vasúti pályahálózat;
 
@@ -254,7 +254,7 @@ d) a vállalkozás különálló részlegekből áll, magában foglal egy pálya
 
 6.4. üzemszerű átjárhatóság: két vasúti pályahálózat olyan tulajdonsága, amely biztosítja a pályahálózatok közötti rendszeres vasúti közlekedés lehetőségét azáltal, hogy a két pályahálózat közötti fizikai összeköttetésen túl a két pályahálózat között a lényeges műszaki paraméterek – a nyomtáv, űrszelvény, tengelyterhelés, jelző- és biztosítóberendezések, az áramellátás módja és a vonatbefolyásoló berendezések –, valamint a vasúti járművekre érvényes műszaki előírások és a pályahálózatokra vonatkozó forgalmi szabályok tekintetében nincs eltérés, vagy – az áramellátás módja, a vonatbefolyásoló berendezések vagy a vasúti járműre érvényes műszaki szabályok és a pályahálózatokra vonatkozó eltérő forgalmi szabályok esetében – ez az eltérés mindkét hálózaton való közlekedésre alkalmas vasúti járművel megoldható;
 
-6.5. nemzeti szabályok: minden olyan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű vasútbiztonsági vagy műszaki követelményeket tartalmazó szabályok összessége, amelynek célja az Átjárhatósági Műszaki Előírások valamint a közös biztonsági célok és közös biztonsági módszerek mellett az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó vasútbiztonsági és műszaki feltételek és előírások szabályozása;
+6.5.
 
 6.6. Előrehaladott fejlesztési stádiumban lévő projekt: bármely olyan projekt, amelynek a tervezési vagy kivitelezési szakasza már elérte azt a pontot, hogy a műszaki előírások módosítása veszélyeztethetné a tervezett projekt életképességét.
 

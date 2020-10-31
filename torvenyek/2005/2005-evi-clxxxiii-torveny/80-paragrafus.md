@@ -2,21 +2,21 @@
 
 ## A közlekedési hatóság feladat- és hatásköre
 
-80. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik:
+80. § (1) közlekedési hatóság feladat- és hatáskörébe tartozik:
 
 a) a műszaki engedély kiadása,
 
-b) – ha a vállalkozó vasúti társaság szolgáltatási területe Magyarország területére korlátozódik, és a vállalkozó vasúti társaság a közlekedési hatóság eljárását kérelmezte – az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása, visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
+b) ha a vállalkozó vasúti társaság szolgáltatási területe Magyarország területére korlátozódik, és a vállalkozó vasúti társaság a közlekedési hatóság eljárását kérelmezte, az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása, visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése és felügyelete,
 
 c) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések munkavállalók, vállalkozó vasúti társaságok, pályahálózat-működtetők, oktatók, vizsgabiztosok és képzőszervek által történő betartásának rendszeres ellenőrzése, a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás rendszeres ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak rendszeres ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 
-d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak,
+d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése és felügyelete abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak, továbbá a járművek vagy járműtípusok az alapvető követelményeknek való megfelelőségének ellenőrzése és felügyelete,
 
-e) a vasúti járművek és a vasúti járműre szerelt vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
+e) a vasúti járművek és a vasúti járműre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
 
 f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
 
-g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok jóváhagyása,
+g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok kiadását megelőző vizsgálata,
 
 h) a (2) bekezdés szerinti éves jelentés elkészítése,
 
@@ -24,7 +24,7 @@ i) az egységes biztonsági tanúsítvány megszerzéséhez szükséges tudnival
 
 j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal döntéshozatali kritériumaik uniós szintű harmonizálása érdekében, elsősorban az Ügynökség által létrehozott hálózaton belül,
 
-k) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése, amely nem érinti a munkaügyi hatóságnak a rá irányadó jogszabályban foglalt ellenőrzési hatáskörét,
+k) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése és felügyelete, amely nem érinti a munkaügyi hatóságnak a rá irányadó jogszabályban foglalt ellenőrzési hatáskörét,
 
 l) a vasúti járművezetői engedélyek kiállítása, megújítása, nyilvántartása, másolatok készítése, az engedélyek felfüggesztése és visszavonása, valamint a kiállító vasúti társaság értesítése a tanúsítványok felfüggesztésének kéréséről, továbbá a tanúsítvánnyal kapcsolatos munkáltatói döntés felülvizsgálata,
 
@@ -34,19 +34,19 @@ n) a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgá
 
 o) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása,
 
-p) a vasúti járművek – e törvényben foglaltak szerinti – forgalomba hozatalának engedélyezése, típusengedélyek kiadása,
+p) együttműködés az Ügynökséggel a forgalombahozatali járműengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 21. cikke (5) bekezdésének megfelelően, vagy jármű-típusengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 24. cikkének megfelelően történő kiállításában, megújításában, módosításában és visszavonásában, az (EU) 2016/798 európai parlamenti és tanácsi irányelv 10. cikk (5) bekezdése szerinti egységes biztonsági tanúsítványok kiállításában, megújításában, módosításában és visszavonásában, az ÁME-k kidolgozásában és felülvizsgálatában, valamint az Ügynökségnek a vasútbiztonság uniós szintű fejlesztésének nyomon követésével kapcsolatos munkájában,
 
-q) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban a hatósági engedélyezési és ellenőrzési feladatok ellátása,
+q) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokkal összefüggő hatósági engedélyezési, ellenőrzési és felügyeleti feladatok ellátása,
 
-r) a vasúti járművek forgalomba hozatalára vonatkozó nemzeti szabályozása mint nemzeti referenciadokumentum (a továbbiakban: nemzeti referenciadokumentum) jóváhagyása, valamint a nemzeti referenciadokumentum módosításának ellenőrzése és a módosítás jóváhagyása,
+r) a vasúti járművek forgalomba hozatalára vonatkozó nemzeti szabályozás mint nemzeti referenciadokumentum (a továbbiakban: nemzeti referenciadokumentum) jóváhagyása, valamint a nemzeti referenciadokumentum módosításának a jóváhagyása,
 
-s) a tehervagonok karbantartásáért felelős szervezetek tanúsítása,
+s) a vasúti járművek karbantartásáért felelős szervezetek tanúsítása,
 
-t) együttműködés az Ügynökséggel a forgalombahozatali járműengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 21. cikke (5) bekezdésének megfelelően, vagy jármű-típusengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 24. cikkének megfelelően történő kiállításában, megújításában, módosításában és visszavonásában, valamint az (EU) 2016/798 európai parlamenti és tanácsi irányelv 10. cikk (5) bekezdése szerinti egységes biztonsági tanúsítványok kiállításában, megújításában, módosításában és visszavonásában, valamint az ÁME-k kidolgozásában és felülvizsgálatában,
+t) a vasúti járművezetők munkaidejére, vezetési idejére és pihenőidejére vonatkozó szabályok betartásának vasúti közlekedésbiztonsági szempontból történő ellenőrzése és felügyelete,
 
-u) a vasúti járművezetők munkaidejére, vezetési idejére és pihenőidejére vonatkozó szabályok betartásának vasúti közlekedésbiztonsági szempontból történő ellenőrzése,
+u) a vasúti műszaki bizottság bevonásával az éves biztonsági tervek kidolgozása és közzététele,
 
-v) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet feladatkörébe utal.
+v) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet a feladatkörébe utal.
 
 (2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
 
