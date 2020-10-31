@@ -44,6 +44,8 @@ d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkor
 
 (9) Regionális beruházási támogatás esetén a támogatás odaítélését megelőzően – a támogatási kérelemben és a támogatási szerződésben – a kedvezményezett a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
 
+(9a)[^12] A 2020. január 1. és 2021. június 30. között megszűnt munkahelyek a 2019. december 31-én vagy azt megelőzően tett, a (9) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
+
 (10) Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
@@ -153,3 +155,5 @@ d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már lét
 (29) A hálózat üzemeltetője a nagykereskedelmi hozzáférést az újgenerációs elérési hálózat esetén fizikai átengedés révén köteles biztosítani.
 
 (30) A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló pályáztatás alapján köteles dönteni.
+
+[^12]: A 11. § (9a) bekezdését a 4/2020. (X. 30.) MK rendelet 5. §-a iktatta be.
