@@ -1,0 +1,9 @@
+# 412/2020. (VIII. 30.) Korm. rendelet
+
+a vasúti járművek forgalomba hozatala, üzembehelyezése engedélyezéséről, időszakos és rendkívüli vizsgálatáról, hatósági járműnyilvántartásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-412-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-10-31 | 2020-412-20-22.1 | 412/2020. (VIII. 30.) Korm. rendelet |
