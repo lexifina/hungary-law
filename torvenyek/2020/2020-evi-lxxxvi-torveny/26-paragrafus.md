@@ -1,1 +1,3 @@
-26. §
+26. § A Vtv. 36/I. §-át megelőző alcím címe helyébe a következő cím lép:
+
+„A VASÚTI JÁRMŰVEK FORGALOMBA HOZATALA, ÜZEMBE HELYEZÉSE, JAVÍTÁSA, IDŐSZAKOS VIZSGÁLATA ÉS A KARBANTARTÁSÉRT FELELŐS SZERVEZET”
