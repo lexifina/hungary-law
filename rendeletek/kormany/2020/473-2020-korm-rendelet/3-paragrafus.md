@@ -1,3 +1,3 @@
-## 2. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 176. §-a a következő (26) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(26) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet és az egyes kormányrendeleteknek a Magyarország 2021. évi központi költségvetésének megalapozásával összefüggő módosításáról szóló 445/2020. (X. 1.) Korm. rendelet módosításáról szóló 473/2020. (X. 30.) Korm. rendelet 1. § 1. pontjával megállapított 1. melléklet I. pont 10. alpontját és 36. alpontját a 2020. október 1. napjától vállalt kötelezettségek és teljesített kifizetések tekintetében is alkalmazni kell.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
