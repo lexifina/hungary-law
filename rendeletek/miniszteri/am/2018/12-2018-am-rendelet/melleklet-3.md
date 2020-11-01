@@ -1,6 +1,6 @@
 3. melléklet a 12/2018. (VII. 3.) AM rendelethez
 
-## A vadállomány-szabályozás irányelvei, az egyes vadfajok szerint fenntartandó legkisebb vadlétszám (törzsállomány), valamint az élőhelyet még nem veszélyeztető legmagasabb vadlétszám
+A vadállomány-szabályozás irányelvei, az egyes vadfajok szerint fenntartandó legkisebb vadlétszám (törzsállomány), valamint az élőhelyet még nem veszélyeztető legmagasabb vadlétszám
 
 1. A gímszarvasállomány szabályozási irányelvei
 
@@ -168,7 +168,7 @@ az 512. számú Dunazugi vadgazdálkodási tájegységben 2400 egyed
 
 az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben 1300 egyed
 
-3.7. Az élőhelyet nem veszélyeztető legmagasabb szabadterületi őzlétszám:
+3.7.[^3] Az élőhelyet nem veszélyeztető legmagasabb szabadterületi őzlétszám:
 
 az 501. számú Hanság-mosoni vadgazdálkodási tájegységben 8200 egyed
 
@@ -184,7 +184,7 @@ az 506. számú Zala-kisbalatoni vadgazdálkodási tájegységben 4200 egyed
 
 az 507. számú Bakony vadgazdálkodási tájegységben 4400 egyed
 
-az 508. számú Marcal-medencei vadgazdálkodási tájegységben 4400 egyed
+az 508. számú Marcal-medencei vadgazdálkodási tájegységben 6400 egyed
 
 az 509. számú Bakonyalja-Komáromi vadgazdálkodási tájegységben 8200 egyed
 
@@ -365,3 +365,5 @@ az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben 900 egyed
 8.5. Az aranysakál megtelepedésének a megakadályozása, illetve az állományának csökkentése a cél, ezért legalább 2-es gyérítési ráta előírása szükséges.
 
 8.6. Csaliállatos élvefogó csapdák alkalmazása csak napi ellenőrzés mellett lehetséges, a csaliállat rendszeres takarmány- és frissvíz-ellátása, valamint 2-3 naponkénti cseréje mellett, úttól, lakott területtől távol.
+
+[^3]: A 3. melléklet 3.7. pontja az 52/2020. (X. 27.) AM rendelet 18. § (2) bekezdése szerint módosított szöveg.

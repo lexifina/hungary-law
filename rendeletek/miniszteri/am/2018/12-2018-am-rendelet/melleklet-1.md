@@ -1,8 +1,8 @@
-## 3. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+## 4. §[^1] Az egyes vadgazdálkodással összefüggő miniszteri rendeletek módosításáról szóló 52/2020. (X. 27.) AM rendelettel [a továbbiakban: 52/2020. (X. 27.) AM rendelet] megállapított trófeabírálatra vonatkozó rendelkezéseket az 52/2020. (X. 27.) AM rendelet hatálybalépését[^2] követően elejtett vad trófeabírálata során kell alkalmazni.
 
 1. melléklet a 12/2018. (VII. 3.) AM rendelethez
 
-## A vad élőhelyének általános jellemzése
+A vad élőhelyének általános jellemzése
 
 1. Az 501. számú Hanság-mosoni vadgazdálkodási tájegység területének mintegy 93%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének közel háromnegyedét (72,7%) borítják szántó- és gyepterületek, az erdő aránya 17,0%.
 
@@ -29,3 +29,6 @@
 12. Az 512. számú Dunazugi vadgazdálkodási tájegység területének mintegy 84%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének 41,1%-át borítják szántó- és gyepterületek, az erdő aránya 39,1%.
 
 13. Az 513. számú Balaton-felvidéki vadgazdálkodási tájegység területének mintegy 92%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének 38,8%-át borítják szántó- és gyepterületek, az erdő aránya 21,0%.
+
+[^1]: A 4. §-t az 52/2020. (X. 27.) AM rendelet 18. § (1) bekezdése iktatta be.
+[^2]: A hatálybalépés időpontja 2020. november 1.
