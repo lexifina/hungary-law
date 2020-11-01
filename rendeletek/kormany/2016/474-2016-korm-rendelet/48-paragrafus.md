@@ -26,13 +26,13 @@ k) a versenyrendezés (ideértve a jogdíjakat is) és más szakmai rendezvénye
 
 l) a hazai és külföldi szakmai programokon való részvétel költségei (ideértve a sportdiplomáciai feladatokkal összefüggő költségeket is)
 
-m)[^55] országos jelleggel működő szabadidősport szövetségek szakmai feladatai és azok ellátásához kapcsolódó működési költségek,
+m)[^80] országos jelleggel működő szabadidősport szövetségek szakmai feladatai és azok ellátásához kapcsolódó működési költségek,
 
-n)[^56] országos jelleggel megvalósuló szabadidősport programok működtetésének költségei
+n)[^81] országos jelleggel megvalósuló szabadidősport programok működtetésének költségei
 
 ## számolhatók el.
 
 (2) A költségvetési támogatás legfeljebb tíz százalékáig a sportrendezvény kommunikációjával kapcsolatos költségek elszámolhatók.
 
-[^55]: A 48. § (1) bekezdés m) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
-[^56]: A 48. § (1) bekezdés n) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^80]: A 48. § (1) bekezdés m) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^81]: A 48. § (1) bekezdés n) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 22. § (1) A költségvetési támogatás – a támogató és a kedvezményezett közötti támogatási szerződésben foglalt célra és feltételekkel – e rendelet és a támogatási szerződés előírásainak megfelelő harmadik személy által is felhasználható.
 
-(2)[^21] A költségvetési támogatás felhasználásáról történő beszámolót a támogató által előírt formában kell benyújtani. A költségvetési támogatás felhasználását igazoló összesített elszámolási táblázatot és a szöveges szakmai beszámolót papír alapon eredetiben kell benyújtani, és a támogatási szerződésben a támogató részéről megjelölt kapcsolattartó személy részére elektronikus úton is mellékelni kell szerkeszthető változatban.
+(2)[^32] A költségvetési támogatás felhasználásáról történő beszámolót a támogató által előírt formában kell benyújtani. A költségvetési támogatás felhasználását igazoló összesített elszámolási táblázatot és a szöveges szakmai beszámolót papír alapon eredetiben kell benyújtani, és a támogatási szerződésben a támogató részéről megjelölt kapcsolattartó személy részére elektronikus úton is mellékelni kell szerkeszthető változatban.
 
-[^21]: A 22. § (2) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^32]: A 22. § (2) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.

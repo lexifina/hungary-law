@@ -1,19 +1,25 @@
 ## 11. Országos sportági szakszövetségek akadémia rendszerének kialakítása, továbbá az MLSZ feladatainak támogatása
 
-## 42. § Az Országos sportági szakszövetségek akadémia rendszerének kialakítása,
+## 42. §[^62] Az Országos sportági szakszövetségek akadémia rendszerének kialakítása, továbbá az MLSZ feladatainak támogatása előirányzat szerinti költségvetési támogatás a Magyar Labdarúgó Szövetség alapszabályában és stratégiájában nevesített feladatainak és programjainak végrehajtásával, ideértve
 
-## továbbá az MLSZ feladatainak támogatása előirányzat szerinti költségvetési támogatás
+a) a szabadidős labdarúgás fejlesztésével és népszerűsítésével,
 
-a) kiemelt utánpótlás központok feladatai ellátásával összefüggő működési költségekre,
+b) versenyszervezéssel,
 
-b) a köznevelési intézményrendszerben megvalósuló köznevelési, képzési feladatokra,
+c) nemzeti válogatottak felkészítésével és versenyeztetésével,
 
-c) az akadémiai program megvalósítását segítő kollégiumi nevelésre és ellátásra, sportegészségügyi és sporttudományi feladatok elvégzésére,
+d) utánpótlás-neveléssel és tehetségképzéssel,
 
-d) az akadémiai programban részt vevő igazolt sportolók havonta legfeljebb bruttó százezer forint összegű, az akadémiai programban való részvétel céljaival összhangban álló támogatására,
+e) sportegészségüggyel és sporttudománnyal,
 
-e) versenyre, mérkőzésre, edzésre, edzőtáborba történő személyszállítás költségére,
+f) digitalizációs fejlesztésekkel,
 
-f) sportlétesítmény, sportpálya – igazolt használat alapján számított – bérleti díjára, valamint
+g) sportszakember képzéssel,
 
-g) felkészítéssel, edzőtáboroztatással és versenyeztetéssel közvetlenül összefüggő szállás és étkezés költségére
+h) sportlétesítmény-fejlesztési és -fenntartási feladatokkal,
+
+i) köznevelés intézményekkel történő együttműködések kialakításával és működtetésével és
+
+j) az a)–i) pontok szerinti feladatok ellátásával összefüggő irányítási, koordinációs és adminisztratív tevékenységek ellátásával
+
+[^62]: A 42. § a 472/2020. (X. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
