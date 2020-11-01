@@ -1,4 +1,4 @@
-12. §[^47] (1) A Hszt. 60. § (1) bekezdése, (3) bekezdése vagy 61. § (1) bekezdése szerinti átrendelést állományparancsban vagy az érintettnek címzett írásbeli utasítással kell elrendelni, amely tartalmazza
+12. §[^50] (1) A Hszt. 60. § (1) bekezdése, (3) bekezdése vagy 61. § (1) bekezdése szerinti átrendelést állományparancsban vagy az érintettnek címzett írásbeli utasítással kell elrendelni, amely tartalmazza
 
 a) az átrendelés helyét,
 
@@ -12,4 +12,4 @@ e) az átrendelés időtartama alatt a munkáltatói jogkör gyakorlójának meg
 
 (2) A hivatásos állomány tagjának Hszt. 61. § (1) bekezdése szerinti ideiglenes átrendelését a munkáltatói jogkör gyakorlója az általa vezetett vagy irányított szervezeti elemek között rendelheti el.
 
-[^47]: A 12. § a 38/2015. (VI. 18.) BM rendelet 6. §-ával megállapított szöveg.
+[^50]: A 12. § a 38/2015. (VI. 18.) BM rendelet 6. §-ával megállapított szöveg.

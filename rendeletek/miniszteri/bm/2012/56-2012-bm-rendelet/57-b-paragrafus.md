@@ -24,6 +24,8 @@ b) az egyes szolgálati beosztásokhoz kötődő szakmaspecifikus ismereteket
 
 (7) Az Országgyűlési Őrség parancsnoka a tananyagokhoz kapcsolódó konzulenseket írásban jelöli ki.
 
-(8) A rendfokozati vizsgát az Országgyűlési Őrség személyügyi munkatársa szervezi.
+(8)[^156] A rendfokozati vizsgát a humánigazgatási szakszolgálat szervezi.
 
 (9) A követelményrendszert és a felkészítő tananyagot folyamatosan, de legalább kétévente felül kell vizsgálni és az Országgyűlési Őrség parancsnoka részére felterjeszteni a tárgyévet megelőző év november 5-ig, majd az Országgyűlési Őrség parancsnokának jóváhagyását követően azt az Országgyűlési Őrség belső informatikai rendszerében a tárgyévet megelőző év november 15-ig közzé kell tenni.
+
+[^156]: Az 57/B. § (8) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § f) pontja szerint módosított szöveg.

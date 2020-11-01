@@ -100,17 +100,21 @@
 
 |  | 13. | objektumőr II. | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
+|  | 14. | járőr I. | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
+
+|  | 15. | járőr II. | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
+
 ## V. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei a nem alapfeladatokat ellátók esetében
 
 |  | A | B | C | D | E |
 
 | 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-| 2. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
+| 2. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
-| 2a. | csoportvezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
+| 2a. | csoportvezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
-| 3. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
+| 3. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
 ## VI. A táblázatokhoz tartozó magyarázatok
 
@@ -178,11 +182,15 @@
 
 ## 5. Megfeleltetések:
 
-## Rendészeti szakirányú felsőfokú végzettségnek kell tekinteni:
+## a) Rendészeti szakirányú felsőfokú végzettségnek kell tekinteni:
 
-## a) a Kossuth Lajos Katonai Főiskola határőr szakán szerzett főiskolai végzetséget,
+## aa) a Kossuth Lajos Katonai Főiskola határőr szakán szerzett főiskolai végzettséget,
 
-## b) a Zrínyi Miklós Katonai Akadémián (Zrínyi Miklós Nemzetvédelmi Egyetemen) határrendészeti és védelmi vezetői szakán szerzett végzettséget.
+## ab) a Zrínyi Miklós Katonai Akadémia (Zrínyi Miklós Nemzetvédelmi Egyetem) határrendészeti és védelmi vezetői szakán szerzett végzettséget.
+
+## b) Rendőr tiszthelyettes szakképzettségnek kell tekinteni:
+
+## ba) a Kun Béla zászlósképző iskolán szerzett rendőrképzettséget
 
 ## VII. Az elsődleges tűzoltási és tűzbiztonsági feladatokra rendszeresített szolgálati beosztások képesítési követelményei
 
@@ -286,7 +294,7 @@
 
 ## Ha a tűzoltás vezetői jogosultság megszerzése az a) pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakképesítést. Ha a szakképesítés, szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.
 
-3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^250]
+3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^292]
 
 ## Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolgálati beosztások
 
@@ -302,4 +310,4 @@
 
 6. az Országgyűlési Őrség parancsnoka által meghatározott egyéb szolgálati beosztások, ahol az idegen nyelv használata a szolgálat ellátásához szükséges
 
-[^250]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^292]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.

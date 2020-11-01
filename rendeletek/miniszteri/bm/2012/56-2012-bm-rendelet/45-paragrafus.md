@@ -1,4 +1,4 @@
-45. §[^108] (1) Az Országgyűlési Őrség parancsnoka a szolgálati elöljárót írásban hatalmazhatja fel arra, hogy túlszolgálatot rendeljen el. A túlszolgálatot előzetesen szükséges elrendelni. A túlszolgálat előzetes írásbeli elrendelésétől kizárólag indokolt esetben lehet eltekinteni, ilyenkor az írásbeli elrendelés utólag, a túlszolgálat teljesítését követően történik meg. A túlszolgálatot elrendelő lapon minden esetben fel kell tüntetni az elrendelés indokát és – a Hszt. 350. § (4) bekezdésében meghatározottakra figyelemmel – a túlszolgálat megváltásának módját.
+45. §[^126] (1) Az Országgyűlési Őrség parancsnoka a szolgálati elöljárót írásban hatalmazhatja fel arra, hogy túlszolgálatot rendeljen el. A túlszolgálatot előzetesen szükséges elrendelni. A túlszolgálat előzetes írásbeli elrendelésétől kizárólag indokolt esetben lehet eltekinteni, ilyenkor az írásbeli elrendelés utólag, a túlszolgálat teljesítését követően történik meg. A túlszolgálatot elrendelő lapon minden esetben fel kell tüntetni az elrendelés indokát és – a Hszt. 350. § (4) bekezdésében meghatározottakra figyelemmel – a túlszolgálat megváltásának módját.
 
 (2) Az Országgyűlési Őrség parancsnoka vagy a túlszolgálat elrendelésére felhatalmazott szolgálati elöljáró a túlszolgálat elrendelésekor a szolgálatszervezés elektronikus nyilvántartásának felhasználásával vagy írásban nyilatkoztatja a hivatásos állomány tagját, hogy a túlszolgálat ellentételezését szabadidő vagy díjazás formájában igényli-e.
 
@@ -22,4 +22,4 @@ fordított időt a szolgálatszervezés során figyelembe kell venni, és az azo
 
 (9) A készenlét elrendelésének szabályszerűségéért, dokumentáltságáért az azt elrendelő személy tartozik felelősséggel. A készenlétben töltött idő nem minősül szolgálatteljesítési időnek. Ha a készenlét ideje alatt a hivatásos állomány tagját szolgálatteljesítésre rendelik, akkor a szolgálatteljesítési helyre érkezéstől kezdődően a készenléti pótlék az állomány tagját nem illeti meg. A szolgálatteljesítési helyre érkezéstől kezdődően szolgálatban töltött időtartam szolgálatteljesítési időnek minősül.
 
-[^108]: A 45. § a 9/2018. (IV. 25.) BM rendelet 9. §-ával megállapított szöveg.
+[^126]: A 45. § a 9/2018. (IV. 25.) BM rendelet 9. §-ával megállapított szöveg.

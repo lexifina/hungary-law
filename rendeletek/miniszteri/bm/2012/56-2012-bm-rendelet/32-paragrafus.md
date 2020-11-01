@@ -4,4 +4,6 @@
 
 (3) A kiadott engedélyekről a szükséges adatokat a személyügyi nyilvántartásban is rögzíteni kell.
 
-(4) A korábban kiadott engedélyeket az Országgyűlési Őrség parancsnoka évente felülvizsgálja, és ha indokolt – a Hszt. 65. §-ában és e rendeletben meghatározott kizáró körülmények esetén –, az engedélyt visszavonja.
+(4)[^99] A korábban kiadott engedélyeket az Országgyűlési Őrség parancsnoka évente felülvizsgálja, és ha indokolt – a Hszt. 109. §-ában meghatározott kizáró körülmények esetén, a 30. § rendelkezéseire is figyelemmel –, az engedélyt visszavonja. A felülvizsgálati eljárás során a 30. § (5) bekezdésében foglalt szabályok az irányadóak.
+
+[^99]: A 32. § (4) bekezdése a 38/2020. (X. 14.) BM rendelet 11. §-ával megállapított szöveg.

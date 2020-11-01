@@ -14,10 +14,10 @@
 
 (8) A megismételt rendfokozati vizsgát a rendfokozati vizsga letételére megállapított új időpontban érvényes vizsgakövetelmények alapján kell teljesíteni, az általános szabályok alkalmazásával.
 
-(9)[^138] A vizsgaszervező a vizsgázó kérésére a rendfokozati vizsga eredményének közzétételét követő 5 munkanapon belül lehetőséget biztosít a vizsgajegyzőkönyv megtekintésére. Ezen határidő lejártát követően a vizsgázó a vizsgajegyzőkönyvet a személyes adataihoz való hozzáférésre vonatkozó jogait szabályozó előírások szerint tekintheti meg.
+(9)[^157] A vizsgaszervező a vizsgázó kérésére a rendfokozati vizsga eredményének közzétételét követő 5 munkanapon belül lehetőséget biztosít a vizsgajegyzőkönyv megtekintésére. Ezen határidő lejártát követően a vizsgázó a vizsgajegyzőkönyvet a személyes adataihoz való hozzáférésre vonatkozó jogait szabályozó előírások szerint tekintheti meg.
 
 (10) A rendfokozati vizsga lebonyolítására vonatkozó szabályok megsértésére hivatkozva a vizsgázó írásban panasszal élhet az Országgyűlési Őrség parancsnokánál a panaszra okot adó esemény vagy cselekmény bekövetkeztéről való tudomásszerzéstől számított 8 munkanapon belül. Az Országgyűlési Őrség parancsnoka a panaszt 15 munkanapon belül, indokolt határozattal bírálja el, mely döntéssel szemben további jogorvoslatnak helye nincs.
 
 (11) Eredményes rendfokozati vizsga esetén a rendészeti vizsgaszervező a vizsgázó számára – a vizsgajegyzőkönyv alapján – a vizsgaidőpontot követő 5 munkanapon belül bizonyítványt állít ki. A bizonyítványt a vizsgázó, a vizsgaszervező és a személyi anyaggyűjtő kapja.
 
-[^138]: Az 57/F. § (9) bekezdése a 33/2019. (VIII. 30.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^157]: Az 57/F. § (9) bekezdése a 33/2019. (VIII. 30.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.

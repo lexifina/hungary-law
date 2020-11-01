@@ -1,4 +1,4 @@
-43/E. §[^104] (1) A szolgálatot – a szolgálati érdekre, a célszerűségre, a költségtakarékossági szempontokra és a hivatásos állomány személyi körülményeire figyelemmel – úgy kell megtervezni és megszervezni, hogy a feladatok maradéktalanul végrehajthatóak legyenek.
+43/E. §[^122] (1) A szolgálatot – a szolgálati érdekre, a célszerűségre, a költségtakarékossági szempontokra és a hivatásos állomány személyi körülményeire figyelemmel – úgy kell megtervezni és megszervezni, hogy a feladatok maradéktalanul végrehajthatóak legyenek.
 
 (2) A szolgálatvezénylési terv készítése a munkaköri leírása szerint szolgálatszervezést végző személy (a továbbiakban: szolgálatszervezést végző személy) feladata. A hivatásos állomány tagjai részére szolgálatvezénylési tervet kell készíteni.
 
@@ -22,4 +22,4 @@
 
 (12) Rendkívüli munkavégzési körülmények esetén a szolgálatot át lehet szervezni úgy, hogy a hivatásos állomány tagja legfeljebb 2 órán keresztül legyen kitéve a feladat végrehajtását általában jellemző körülményektől eltérő körülményeknek, különösen a szélsőséges időjárási viszonyoknak. Rendkívüli munkavégzési körülmények esetén a szervezeti elem vezetője – a feladat végrehajtásának veszélyeztetése nélkül – legalább 2 óránként munkaközi szünet biztosításáról rendelkezhet.
 
-[^104]: A 43/E. §-t a 9/2018. (IV. 25.) BM rendelet 7. §-a iktatta be.
+[^122]: A 43/E. §-t a 9/2018. (IV. 25.) BM rendelet 7. §-a iktatta be.

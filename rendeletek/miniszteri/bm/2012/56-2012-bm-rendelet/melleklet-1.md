@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^248]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^290]
 
 ## Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -16,7 +16,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 5. | középvezető | szakirányító 1 | igazgató | 550 |  |
 
-| 6. | középvezető | szakirányító 2 | igazgató-helyettes | 550 |  |
+| 6. | középvezető | szakirányító 1 | igazgató-helyettes | 550 |  |
 
 | 7. | középvezető | szakirányító 2 | főosztályvezető | 550 | 550 |
 
@@ -38,7 +38,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 5. | D | ügyeletvezető II. | 450 |  |
 
-| 6. | D | kiemelt főreferens | 500 600* | 450 |
+| 6. | D | kiemelt főreferens | 500 600* 650* | 450 |
 
 | 7. | D | jogtanácsos |  | 550 |
 
@@ -46,7 +46,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 9. | C | kiemelt biztonsági főtiszt | 650 |  |
 
-| 10. | C | főmérnök | 550 |  |
+| 10. | C | főmérnök | 600 |  |
 
 | 11. | B | biztonsági főtiszt | 550 |  |
 
@@ -76,24 +76,28 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 9. | C | technikus | 450 |  |
 
-| 10. | C | helyszínbiztosító | 600 |  |
+| 10. | C | helyszínbiztosító | 650 |  |
 
-| 11. | C | lakásbiztosító | 600 |  |
+| 11. | C | lakásbiztosító | 650 |  |
 
 | 12. | C | biztonsági gépkocsivezető | 650 |  |
 
 | 13. | B | objektumőr I. | 450 |  |
 
+| 13a. | B | járőr I. | 100 |  |
+
 | 14. | B | beosztott tűzoltó I. | 450 |  |
 
 | 15. | A | objektumőr II. | 450 |  |
+
+| 15a. | A | járőr II. | 100 |  |
 
 | 16. | A | beosztott tűzoltó II. | 450 |  |
 
 IV. Megjegyzések
 
-1. 650*: Az Országgyűlési Őrség Személyvédelmi Igazgatóság vezetői beosztást betöltő állomány esetében a hivatásos pótlék mértéke 650%.
+1. 650*: Az Országgyűlési Őrség Személyvédelmi Igazgatóság beosztott vezetői és kiemelt főreferense esetében a hivatásos pótlék mértéke 650%.
 
-2. 600*: Az Országgyűlési Őrség Személyvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 600%.
+2. 600*: Az Országgyűlési Őrség Híradó- és Biztonságtechnikai Osztályán szolgálatot teljesítők esetében a hivatásos pótlék mértéke 600%.
 
-[^248]: Az 1. melléklet a 34/2018. (XII. 20.) BM rendelet 6. § a) pontjával megállapított szöveg.
+[^290]: Az 1. melléklet a 34/2018. (XII. 20.) BM rendelet 6. § a) pontjával megállapított, a 38/2020. (X. 14.) BM rendelet 18. § a) pontja szerint módosított szöveg.

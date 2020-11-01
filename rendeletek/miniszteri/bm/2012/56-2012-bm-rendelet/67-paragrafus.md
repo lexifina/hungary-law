@@ -1,4 +1,4 @@
-## 66. §[^140]
+## 66. §[^177]
 
 67. § (1) E rendelet alapján az Országgyűlési Őrség parancsnoka elismerésben a hivatásos állomány azon tagját részesítheti, aki beosztásából fakadó szolgálati feladatait huzamosabb ideje, az átlagosnál magasabb színvonalon és eredményességgel látja el, vagy meghatározott feladat végrehajtása során kimagasló helytállást, önfeláldozó magatartást tanúsított, avagy életpályája alapján példaképül állítható az Országgyűlési Őrség hivatásos állománya elé és vele szemben nem áll fenn a (2) bekezdésben meghatározott, elismerést kizáró ok.
 
@@ -18,4 +18,4 @@ d) ellen a bíróság pénzbüntetést szabott ki, legalább 6 hónapig, vagy ha
 
 (5) Az Országgyűlési Őrség hivatásos állományának tagja köteles az Országgyűlési Őrség parancsnokának bejelenteni a nem az Országgyűlés elnökétől vagy az Országgyűlési Őrség parancsnokától kapott elismerést. Nemzetközi szervezettől, külföldi állami szervtől származó elismerés, vagy miniszter által alapított kitüntető cím vagy díj viselését az Országgyűlési Őrség parancsnoka engedélyezi.
 
-[^140]: A 66. §-t a 9/2018. (IV. 25.) BM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^177]: A 66. §-t a 9/2018. (IV. 25.) BM rendelet 19. § d) pontja hatályon kívül helyezte.

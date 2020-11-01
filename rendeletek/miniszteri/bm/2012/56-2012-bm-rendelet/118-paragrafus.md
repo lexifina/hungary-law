@@ -1,6 +1,6 @@
 ## 117. § Az eljáró szerv személyesen hallgatja meg a károkozásért felelősnek tartott személyt, illetve képviselőjét, a tanút, a szakértőt.
 
-118. § (1)[^218] Az eljáró szerv tisztázza a határozathozatalhoz szükséges tényállást, ennek keretében vizsgálja
+118. § (1)[^260] Az eljáró szerv tisztázza a határozathozatalhoz szükséges tényállást, ennek keretében vizsgálja
 
 a) a kár összegét,
 
@@ -10,7 +10,7 @@ c) a károkozó személy kötelezettségszegő magatartása és a kár keletkez�
 
 d) a felróhatóság mértékének megítélését alátámasztó tényeket.
 
-(1a)[^219] Amennyiben a rendelkezésre álló adatok a tényállás tisztázásához nem elegendőek, az eljáró szerv bizonyítási eljárást folytat le.
+(1a)[^261] Amennyiben a rendelkezésre álló adatok a tényállás tisztázásához nem elegendőek, az eljáró szerv bizonyítási eljárást folytat le.
 
 (2) Az eljárás alá vont személy, illetve képviselője a tényállás tisztázása érdekében az eljáró szervnél írásban bizonyítási indítvánnyal élhet.
 
@@ -24,5 +24,5 @@ d) a felróhatóság mértékének megítélését alátámasztó tényeket.
 
 (7) Az eljáró szerv a bizonyítékokat egyenként és összességükben értékeli, és ezen alapuló meggyőződése szerint állapítja meg a tényállást.
 
-[^218]: A 118. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 38. §-ával megállapított szöveg.
-[^219]: A 118. § (1a) bekezdését a 81/2012. (XII. 28.) BM rendelet 39. §-a iktatta be.
+[^260]: A 118. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 38. §-ával megállapított szöveg.
+[^261]: A 118. § (1a) bekezdését a 81/2012. (XII. 28.) BM rendelet 39. §-a iktatta be.

@@ -9,3 +9,7 @@ a) az egyenruha viselésére,
 b) a lakás és egyéb hitelek kedvezményes törlesztésére és
 
 c) a szolgálati lakás használatára.
+
+d)[^60] a rendfokozat használatára.
+
+[^60]: A 19. § (3) bekezdés d) pontját a 38/2020. (X. 14.) BM rendelet 8. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 2. § (1) A hivatásos állományba kinevezést a hivatásos szolgálatra jelentkező kérelme alapján indult felvételi eljárás előzi meg. A kérelmet az Országgyűlési Őrség parancsnokához kell benyújtani.
 
-(2)[^2] Az Országgyűlési Őrség személyügyi munkatársa (a továbbiakban: személyügyi munkatárs) a hivatásos szolgálatra jelentkezőt a kérelem átvétele előtt tájékoztatja a hivatásos szolgálati jogviszony (a továbbiakban: szolgálati viszony) létesítésének és a szolgálati beosztásba helyezésének a feltételeiről, valamint a hivatásos állomány tagját a jogszabályok alapján megillető alapvető jogokról és az őt terhelő kötelezettségekről.
+(2)[^2] Az Országgyűlési Őrség humánigazgatási szakszolgálata (a továbbiakban: humánigazgatási szakszolgálat) a hivatásos szolgálatra jelentkezőt a kérelem átvétele előtt tájékoztatja a hivatásos szolgálati jogviszony (a továbbiakban: szolgálati viszony) létesítésének és a szolgálati beosztásba helyezésének a feltételeiről, valamint a hivatásos állomány tagját a jogszabályok alapján megillető alapvető jogokról és az őt terhelő kötelezettségekről.
 
 (3) A felvételre vonatkozó kérelemnek tartalmaznia kell:
 
@@ -36,11 +36,11 @@ i)[^9]
 
 j)[^10]
 
-k)[^11] által a nemzetbiztonsági ellenőrzés kezdeményezéséhez szükséges, kitöltött és aláírt – a személyügyi munkatárs által biztosított – biztonsági kérdőívet zárt borítékban.
+k)[^11] által a nemzetbiztonsági ellenőrzés kezdeményezéséhez szükséges, kitöltött és aláírt – a humánigazgatási szakszolgálat által biztosított – biztonsági kérdőívet zárt borítékban.
 
 (5)[^12] A (4) bekezdés f)–j) pontjában meghatározott nyilatkozatok, a kitöltött biztonsági kérdőív és adatlap csatolása hiányában a felvételi kérelmet el kell utasítani. Egyéb okból hiányos vagy hitelesnek nem tekinthető iratok pótlására, kiegészítésre a jelentkezőt fel kell szólítani. Ha a hiányosságok pótlása nem történik meg, a kérelmet el kell utasítani.
 
-[^2]: A 2. § (2) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 1–2. pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 1–2. pontja, a 38/2020. (X. 14.) BM rendelet 19. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdés b) pontja a 38/2015. (VI. 18.) BM rendelet 17. § 3. pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdés c) pontja a 38/2015. (VI. 18.) BM rendelet 17. § 4. pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdés e) pontja a 38/2015. (VI. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -49,5 +49,5 @@ k)[^11] által a nemzetbiztonsági ellenőrzés kezdeményezéséhez szükséges
 [^8]: A 2. § (4) bekezdés h) pontját a 33/2019. (VIII. 30.) BM rendelet 6. § (2) bekezdése hatályon kívül helyzte.
 [^9]: A 2. § (4) bekezdés i) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 33/2019. (VIII. 30.) BM rendelet 6. § (2) bekezdése.
 [^10]: A 2. § (4) bekezdés j) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 33/2019. (VIII. 30.) BM rendelet 6. § (2) bekezdése.
-[^11]: A 2. § (4) bekezdés k) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^11]: A 2. § (4) bekezdés k) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be, szövege a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
 [^12]: A 2. § (5) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 5. pontja szerint módosított szöveg.

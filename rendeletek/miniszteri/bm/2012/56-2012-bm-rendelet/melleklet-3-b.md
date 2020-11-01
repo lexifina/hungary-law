@@ -1,4 +1,4 @@
-3/B. melléklet az 56/2012. (XI. 22.) BM rendelethez[^254]
+3/B. melléklet az 56/2012. (XI. 22.) BM rendelethez[^296]
 
 ## A rendfokozati vizsga követelményrendszere az Országgyűlési Őrségnél
 
@@ -34,4 +34,4 @@ d) ismerje a hivatásos szolgálati jogviszony alapvető elemeit és szabályait
 
 e) kommunikáljon, a vizsgázó megjelenése a kommunikációjának kulturáltsága erősítse a rendvédelmi feladatokat ellátó szervbe vetett közbizalmat, a rendvédelmi feladatokat ellátó szerv és a rendfokozat tekintélyét.
 
-[^254]: A 3/B. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (5) bekezdése iktatta be.
+[^296]: A 3/B. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (5) bekezdése iktatta be.
