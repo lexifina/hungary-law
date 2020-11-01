@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2020-01-01 | 2000-257-20-22.38 | 272/2019. (XI. 20.) Korm. rendelet |
 | 2020-02-20 | 2000-257-20-22.39 | 18/2020. (II. 19.) Korm. rendelet |
 | 2020-07-03 | 2000-257-20-22.40 | 309/2020. (VI. 30.) Korm. rendelet |
+| 2020-11-01 | 2000-257-20-22.41 | 351/2017. (XI. 23.) Korm. rendelet |
