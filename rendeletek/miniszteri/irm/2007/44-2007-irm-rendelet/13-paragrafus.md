@@ -2,9 +2,9 @@
 
 13. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^12]
+(2)[^14]
 
-(3)[^13]
+(3)[^15]
 
-[^12]: A 13. § (2) bekezdése e rendelet 13. § (3) bekezdése alapján hatályát vesztette.
-[^13]: A 13. § (3) bekezdése ugyenezen bekezdés alapján hatályát vesztette.
+[^14]: A 13. § (2) bekezdése e rendelet 13. § (3) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § (3) bekezdése ugyenezen bekezdés alapján hatályát vesztette.
