@@ -126,6 +126,8 @@
 
 | 60. | Taktikai lámpa | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | – |
 
+| 61. | Szolgálati félcipő | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 3 |
+
 2. Az 1. pontban foglalt táblázat alkalmazásában a ruházati alapellátási normák megjelölései:
 
 2.1. E1: férfi egyenruhás alapellátási norma
@@ -156,4 +158,4 @@
 
 2.14. P2: női polgári ruhás alapellátási norma
 
-[^76]: Az 1. melléklet a 9/2018. (IV. 25.) BM rendelet 31. § (1) bekezdésével megállapított, a 46/2019. (XII. 18.) BM rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^76]: Az 1. melléklet a 9/2018. (IV. 25.) BM rendelet 31. § (1) bekezdésével megállapított, a 46/2019. (XII. 18.) BM rendelet 12. § (1) bekezdése, a 38/2020. (X. 14.) BM rendelet 20. §-a szerint módosított szöveg.
