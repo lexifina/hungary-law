@@ -1,0 +1,5 @@
+## 6. § A Vhr. 43. § (1) bekezdése helyébe a következő rendelkezés lép, és egyidejűleg a § a következő (1a) bekezdéssel egészül ki:
+
+## „(1) Az azonosító jel a Vtv. 57. § (2) bekezdésében felsorolt nagyvadfajok megjelölésére szolgáló, sorszámozott, egyszer használatos zárású, vadászati évenként eltérő színű műanyag szalag. Nagyvad zárttéri hasznosítása során az azonosító jel sorszáma „Z” betűvel kezdődik. Az azonosító jeleket a vadászati hatóság legkésőbb a vadászati év kezdő napjáig a vadászatra jogosult igényének megfelelő darabszámban adja ki. Az azonosító jelek a vadászatra jogosult vadászterületén és az éves vadgazdálkodási tervben hasznosításra jóváhagyott vadmennyiség mértékéig használhatók fel.
+
+## (1a) A kiadott azonosító jelek felhasználásáról a vadászatra jogosult legkésőbb a vadgazdálkodási jelentés leadásával egyidejűleg – valamint ellenőrzés során a vadászati hatóság felhívására – tételesen elszámol. A tételes elszámolás tartalmazza az azonosító jel számát, az elejtett vad faját, ivarát és az elejtés idejét.”
