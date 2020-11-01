@@ -372,15 +372,15 @@ d) műveleti csoportba vagy műveleti osztályra beosztottak.
 
 3. Őrszolgálati beosztások
 
-a) főápoló [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+a) főápoló [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
 
-b) szakápoló [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+b) szakápoló [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
 
-c) ápoló [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+c) ápoló [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
 
-d) vezető szakasszisztens [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+d) vezető szakasszisztens [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
 
-e) szakasszisztens [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+e) szakasszisztens [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
 
 f) biztonsági tiszt
 
@@ -394,4 +394,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^33]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a szerint módosított szöveg.
+[^33]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a szerint módosított szöveg.
