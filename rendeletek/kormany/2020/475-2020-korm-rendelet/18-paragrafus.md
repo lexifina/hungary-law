@@ -1,0 +1,3 @@
+18. § (1) A besorolás megállapításakor főiskolai szintű végzettségként kell figyelembe venni a tanítóképző intézeti népművelő-könyvtáros, továbbá a tanítóképző főiskolai szakkollégiumi (könyvtáros, népművelő) oklevelet, valamint a hároméves népművelő-könyvtáros szakot, illetőleg a könyvtárosképző szaktanfolyamot végzettek részére a főiskolai végzettség megszerzésének feltételeiről szóló 2/1976. (IX. 14.) OM rendelet alapján szerzett képzettséget.
+
+(2) A besorolás megállapításakor főiskolai végzettségként kell figyelembe venni zeneművészeti szakiskola, az állami zenekonzervatórium tanárképző tagozatán szerzett állami zenekonzervatóriumi, valamint a művészeti szaktanárképzőben szerzett oklevelet.
