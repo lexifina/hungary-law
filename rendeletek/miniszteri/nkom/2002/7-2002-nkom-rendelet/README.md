@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-7-20-86
 | 2009-03-07 | 2002-7-20-86.3 | 7/2002. (II. 27.) NKÖM rendelet |
 | 2010-05-01 | 2002-7-20-86.4 | 19/2010. (IV. 23.) OKM rendelet |
 | 2014-03-02 | 2002-7-20-86.5 | 12/2014. (II. 25.) EMMI rendelet |
+| 2020-11-01 | 2002-7-20-86.6 | 39/2020. (X. 30.) EMMI rendelet |
