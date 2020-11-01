@@ -1,12 +1,12 @@
-35. § Hatályát veszti a Vtv.
+35. §
 
-a) 2. § 6.5. alpontja,
+a)
 
-b) 36/G. §-át követő „A VASÚTI FORGALOM LEBONYOLÍTÁSA” alcím címe,
+b)
 
-c) 36/H. §-a,
+c)
 
-d) 46. § (5) bekezdése,
+d)
 
 e)
 

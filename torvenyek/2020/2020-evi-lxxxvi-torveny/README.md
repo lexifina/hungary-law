@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-86-00-00
 | 2020-07-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-86-00-00.3 |
 | 2020-07-31 | 2010. évi CXXX. törvény | 2020-86-00-00.4 |
 | 2020-10-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-86-00-00.5 |
+| 2020-11-01 | 2010. évi CXXX. törvény | 2020-86-00-00.6 |
