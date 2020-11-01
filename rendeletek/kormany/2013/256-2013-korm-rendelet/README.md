@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2019-07-01 | 2013-256-20-22.34 | 139/2019. (VI. 14.) Korm. rendelet |
 | 2019-12-21 | 2013-256-20-22.35 | 328/2019. (XII. 20.) Korm. rendelet |
 | 2020-01-01 | 2013-256-20-22.36 | 461/2016. (XII. 23.) Korm. rendelet |
+| 2020-11-01 | 2013-256-20-22.37 | 461/2016. (XII. 23.) Korm. rendelet |

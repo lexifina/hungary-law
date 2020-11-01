@@ -72,7 +72,7 @@
 
 | 36. | Bugát Pál Kórház | Gyöngyös |
 
-| 37. | Büntetés-végrehajtás Központi Kórház (Tököl) | Tököl |
+| 37. | Büntetés-végrehajtás Egészségügyi Központ | Berettyóújfalu |
 
 | 38. | Csenger Város Önkormányzat Népjóléti és Szociális Alapszolgáltatási Központ | Csenger |
 

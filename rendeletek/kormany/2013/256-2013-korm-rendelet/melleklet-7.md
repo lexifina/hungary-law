@@ -42,4 +42,4 @@
 
 7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^88]
 
-[^88]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (3) bekezdés a) pontjával megállapított szöveg.
+[^88]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (4) bekezdés a) pontjával megállapított szöveg.
