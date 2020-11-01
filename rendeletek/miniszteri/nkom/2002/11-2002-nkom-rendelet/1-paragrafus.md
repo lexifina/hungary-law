@@ -1,3 +1,5 @@
 1. § (1) E rendelet hatálya – a (2) bekezdésben foglalt kivétellel – a nemzeti kulturális örökség minisztere által kiadott működési engedéllyel rendelkező muzeális intézményekben szakmai munkakört betöltő munkavállalókra terjed ki.
 
-(2) E rendelet hatálya nem terjed ki a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény végrehajtásáról a művészeti, a közművelődési és a közgyűjteményi területen foglalkoztatott közalkalmazottak jogviszonyával összefüggő egyes kérdések rendezéséről szóló 150/1992. (XI. 20.) Korm. rendelet, valamint az egyes kulturális közalkalmazotti munkakörök betöltéséhez szükséges képesítési és egyéb feltételekről szóló 2/1993. (I. 30.) MKM rendelet hatálya alá tartozó intézmények közalkalmazottaira.
+(2)[^1] E rendelet hatálya nem terjed ki a kulturális tevékenységet végző közalkalmazottakról szóló 475/2020. (X. 30.) Korm. rendelet hatálya alá tartozó közalkalmazottakra, valamint a kulturális intézményben foglalkoztatottak munkaköreiről és foglalkoztatási követelményeiről, az intézményvezetői pályázat lefolytatásának rendjéről, valamint egyes kulturális tárgyú rendeletek módosításáról szóló 39/2020. (X. 30.) EMMI rendelet hatálya alá tartozó munkavállalókra.
+
+[^1]: Az 1. § (2) bekezdése a 39/2020. (X. 30.) EMMI rendelet 16. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 13. §-át.
