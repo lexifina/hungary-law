@@ -208,4 +208,6 @@
 
 ## 220–360 pontig: megfelelt
 
-6. melléklet a 126/2013. (XII. 17.) VM rendelethez
+6. melléklet a 126/2013. (XII. 17.) VM rendelethez[^26]
+
+[^26]: A 6. mellékletet az 52/2020. (X. 27) AM rendelet 15. §-a hatályon kívül helyezte.

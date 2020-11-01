@@ -6,13 +6,13 @@
 
 (4) A tanfolyamvezető gondoskodik a jelenléti ív vezetéséről.
 
-(5)[^13] A tanfolyam befejezését követően a tanfolyamszervező a tanfolyamvezető útján a hallgató számára igazolást állít ki, ha a hallgató a 2. melléklet szerinti elméleti foglalkozás legalább 80%-án és a gyakorlati foglalkozás 100%-án részt vett. A gyakorlati foglalkozás vonatkozásában nem tekintendő hiányzásnak a gyakorlati vadászlövészeti vizsgára nem kötelezett, kizárólag vadászíjjal, ragadozó madárral vagy magyar agárral vadászni kívánók távolmaradása a gyakorlati lővizsga előtti lőgyakorlatról.
+(5)[^14] A tanfolyam befejezését követően a tanfolyamszervező a tanfolyamvezető útján a hallgató számára igazolást állít ki, ha a hallgató a 2. melléklet szerinti elméleti foglalkozás legalább 80%-án és a gyakorlati foglalkozás 100%-án részt vett. A gyakorlati foglalkozás vonatkozásában nem tekintendő hiányzásnak a gyakorlati vadászlövészeti vizsgára nem kötelezett, kizárólag vadászíjjal, ragadozó madárral vagy magyar agárral vadászni kívánók távolmaradása a gyakorlati lővizsga előtti lőgyakorlatról.
 
 (6) A tanfolyam oktatója a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtására kiadott 79/2004. (V. 4.) FVM rendelet [a továbbiakban: 79/2004. (V. 4.) FVM rendelet] 8. számú melléklete szerinti felsőfokú vadgazdálkodási képzettséggel vagy az oktatott témakör szerinti felsőfokú szakirányú képzettséggel, valamint legalább 5 éves szakmai gyakorlattal rendelkező személy lehet.
 
 (7) Az elsősegélynyújtással kapcsolatos elméleti és gyakorlati ismeretek oktatása esetén államilag elismert egészségügyi szakképesítéssel rendelkező személy is oktathat, ha rendelkezik a (9) bekezdés c) pontja szerinti szakmai gyakorlattal.
 
-(8)[^14] A végzettséget, valamint a szakmai gyakorlatot a vadászati hatóság felé igazolni kell.
+(8)[^15] A végzettséget, valamint a szakmai gyakorlatot a vadászati hatóság felé igazolni kell.
 
 (9) A szakmai gyakorlat igazolására
 
@@ -22,5 +22,5 @@ b) a fegyvertani ismeretek oktatása esetén a rendőrhatóságnál a lőfegyver
 
 c) az elsősegélynyújtással és az újraélesztéssel kapcsolatos ismeretek oktatása esetén a baleseti mentésben és az egészségügyi intézmény sürgősségi, intenzív osztályán
 
-[^13]: A 4. § (5) bekezdése az 5/2019. (III. 14.) AM rendelet 6. §-ával megállapított szöveg.
-[^14]: A 4. § (8) bekezdése a 89/2016. (XII. 29.) FM rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 4. § (5) bekezdése az 5/2019. (III. 14.) AM rendelet 6. §-ával megállapított szöveg.
+[^15]: A 4. § (8) bekezdése a 89/2016. (XII. 29.) FM rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
