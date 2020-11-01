@@ -8,7 +8,7 @@ c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő kö
 
 d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, az Eötvös Loránd Kutatási Hálózat központi költségvetési szervei,, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
+(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, az Eötvös Loránd Kutatási Hálózat központi költségvetési szervei, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
 a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 
@@ -122,29 +122,7 @@ ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magy
 
 eg)
 
-f) a művészeti, a közművelődési és a közgyűjteményi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
-
-fa) a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
-
-fb) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
-
-fc) a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
-
-fd) a gyakornoki idő kikötése alól mentes munkaköröket,
-
-fe) a gyakornoki követelmények ágazati szakmai tartalmát,
-
-ff) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-
-fg) munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
-
-fh) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
-
-fi)
-
-fj) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
-
-fk) azt a magasabb vezető és vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható;
+f)
 
 g) a testnevelési és sportintézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt.
 
