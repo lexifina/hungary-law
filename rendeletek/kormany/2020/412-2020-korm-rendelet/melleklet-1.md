@@ -1,4 +1,4 @@
-## 44. § Hatályát veszti a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló 31/2010. (XII. 23.) NFM rendelet.
+## 44. §[^1]
 
 1. melléklet a 412/2020. (VIII. 30.) Korm. rendelethez
 
@@ -207,3 +207,5 @@ Az 1.2. pont szerinti jellegtervnek olyannak kell lennie, amelyből egyértelmű
 12.4. vasúti tartálykocsi esetében Magyarországon bejegyzett, független kazánbiztos vagy RID szakértő szakvéleményét a tartály és szerelvényei megfelelőségére vonatkozóan,
 
 12.5. a vasúti járműre vonatkozó, 1984. július 1-jét megelőzően készült, a vasúti jármű forgalomba helyezésének, üzembehelyezésének alapjául szolgáló iratok másolatait, 2 példányban (műszaki leírás, jellegterv, jegyzőkönyv, futópróba jegyzőkönyv, bizonylat stb.).
+
+[^1]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
