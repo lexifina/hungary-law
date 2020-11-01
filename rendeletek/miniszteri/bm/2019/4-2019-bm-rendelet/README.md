@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-4-20-0A
 | 2019-03-12 | 2019-4-20-0A.1 | 4/2019. (III. 11.) BM rendelet |
 | 2019-03-13 | 2019-4-20-0A.2 | 2010: CXXX. törvény |
 | 2019-07-01 | 2019-4-20-0A.3 | 20/2019. (V. 15.) BM rendelet |
+| 2020-11-01 | 2019-4-20-0A.4 | 21/2020. (VII. 9.) BM rendelet |

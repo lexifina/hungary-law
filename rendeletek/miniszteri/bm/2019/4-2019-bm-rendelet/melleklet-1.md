@@ -1,6 +1,6 @@
 1. melléklet a 4/2019. (III. 11.) BM rendelethez
 
-## Az értékelő lap tartalmi követelményei a teljesítménykövetelmények értékelésénél a felsőfokú munkaköri osztályba tartozó munkaköri kategóriába sorolt és a vezetői munkaköri kategóriába sorolt rendvédelmi alkalmazott esetében
+Az értékelő lap tartalmi követelményei a teljesítménykövetelmények értékelésénél a felsőfokú munkaköri osztályba tartozó munkaköri kategóriába sorolt és a vezetői munkaköri kategóriába sorolt rendvédelmi alkalmazott esetében
 
 I. Értékelési időszak
 

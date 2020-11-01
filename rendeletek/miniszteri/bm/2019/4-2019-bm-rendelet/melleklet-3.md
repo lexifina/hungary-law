@@ -51,3 +51,5 @@
 ## XII. Az értékelt és az értékelő vezető aláírása
 
 3. melléklet a 4/2019. (III. 11.) BM rendelethez
+
+A rendvédelmi alkalmazott teljesítményértékelésének százalékos értéksávjai, a hozzá kapcsolódó teljesítményfokozatok és teljesítményszintek

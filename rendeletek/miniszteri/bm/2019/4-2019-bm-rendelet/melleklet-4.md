@@ -1,5 +1,3 @@
-## A rendvédelmi alkalmazott teljesítményértékelésének százalékos értéksávjai, a hozzá kapcsolódó teljesítményfokozatok és teljesítményszintek
-
 |  | A | B | C |
 
 | 1. | Teljesítményszint | Teljesítményfokozat | Százalékos értéksávok |
@@ -16,7 +14,7 @@
 
 4. melléklet a 4/2019. (III. 11.) BM rendelethez
 
-## A nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett munkakörben foglalkoztatottak pótlékára jogosító munkakörök
+A nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett munkakörben foglalkoztatottak pótlékára jogosító munkakörök
 
 I. Az általános rendőrségi feladatok ellátására létrehozott szervnél
 
@@ -42,7 +40,7 @@ II. A terrorizmust elhárító szervnél
 
 ## főelőadó II., ha a munkakör betöltése élelmiszer szakfelügyelői vagy élelmiszer higiénikusi feladatok valamelyikének ellátását szolgálja.
 
-III. A büntetés-végrehajtási szervezetnél
+III.[^4] A büntetés-végrehajtási szervezetnél
 
 1. osztályvezető (ápolási igazgató),
 
@@ -68,7 +66,7 @@ III. A büntetés-végrehajtási szervezetnél
 
 12. előadó, főelőadó,
 
-ha munkaköri feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Központi Kórház és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett munkakörben látja el.
+ha munkaköri feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Egészségügyi Központ és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett munkakörben látja el.
 
 IV. A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél
 
@@ -77,3 +75,5 @@ IV. A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervn�
 2. orvos,
 
 ha a munkakör betöltése az orvos, egészségügyi asszisztens munkakörök valamelyikének ellátását szolgálja.
+
+[^4]: A 4. melléklet III. pontja a 21/2020. (VII. 9.) BM rendelet 6. §-a szerint módosított szöveg.

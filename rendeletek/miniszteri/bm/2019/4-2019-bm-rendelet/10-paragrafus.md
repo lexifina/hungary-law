@@ -10,6 +10,6 @@ b) a terrorizmust elhárító szervhez vagy
 
 c) a Belügyminisztériumba (a továbbiakban: minisztérium) vezetői álláshelyre
 
-## kirendelik.
+kirendelik.
 
 (4) A (3) bekezdés c) pontja szerinti kirendelés esetén a miniszter eltérést engedélyezhet a költségviselés rendjében.
