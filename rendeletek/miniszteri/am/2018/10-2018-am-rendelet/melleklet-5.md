@@ -1,266 +1,300 @@
 ## A vadgazdálkodási tájegység trófeabírálati irányelvei
 
-## Az elejtés szakszerűtlenségének minősítése során a táblázatokban részletezett hibapont megítélését a megadott trófeajellegek együttes értékelésével kell végezni, a hibapont-besoroláshoz minden paraméternek teljesülnie kell!
+## Az elejtés szakszerűtlenségének megállapítása során a hibapont megítélését a táblázatokban megadott trófeajellegek együttes értékelésével kell végezni. A hibapont-besoroláshoz valamennyi határértéknek együttesen kell teljesülnie.
 
-## I. A gímszarvasbikák szakszerűtlen elejtésének határértékei
+## Gímbika, dámbika, őzbak esetén a trófeatömegét a trófea kifőzését követő 24. órára visszaszámolva kell meghatározni.
 
-| A gímszarvasbikák szakszerűtlen elejtésének határértékei a 402. számú Külső-somogyi, 403. számú Kapos-tolnai, 404. számú Zselic-közép-somogyi, 405. számú Belső-Somogyi, 407. számú Dél-baranyai ártéri, 408. számú Tolnai-hegyháti, 410. számú Dél-balatoni vadgazdálkodási tájegységekben |
+## Gímbikánál, dámbikánál, őzbaknál szártörés esetén az ép oldalon mért szárhosszat kell figyelembe venni.
 
-| Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Jellege |
+## Gímbikánál, dámbikánál főágtörés esetén az ép főág hosszát kell figyelembe venni.
 
-| 1 | 1. (2.) | 1,5 | 30 | – | szabályos |
+## I. A gímbika szakszerűtlen elejtés határértékei
 
-| 2. (3.) | 3,0 | 60 | 15 | szabályos, min. 10 cm-es ágakkal villás vagy koronás |
+| A gímbika szakszerűtlen elejtés határértékei a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-somogyi, a 407. számú Dél-baranyai ártéri, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, valamint a 410. számú Dél-balatoni vadgazdálkodási tájegységben |
 
-| 3. (4.) | 3,5 | 70 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Trófea jellege |
 
-| 4–5. (5–6.) | 5,0 | 85 | 25 | szabályos, min. 3-as koronák, koronákban min. 2 db 10 cm-es ággal, esetleg egyik oldalon villával, villában min. 20 cm-es ágakkal |
+| 1 | 1. (2.) | - | 30 | - | szabályos |
 
-| 6–7. (7–8.) | 7,2 | 95 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 2. (3.) | 3,0 | 60 | 15 | szabályos; mindkét száron legalább 2 db min. 15 cm-es koronaág |
 
-| 8–9. (9–10.) | 9,0 | 100 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 3. (4.) | 4,0 | 70 | 20 | szabályos; mindkét száron legalább 2 db min. 15 cm-es koronaág |
 
-| 2 | 1. (2.) | 2,0 | 45 | – | szabályos, egyéb ág |
+| 4. (5.) | 5,5 | 85 | 25 | szabályos; min. 3-as koronák; koronánként min. 2 db 10 cm-es ággal, |
 
-| 2. (3.) | 3,5 | 65 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 5. (6.) | 6,5 | 90 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 3. (4.) | 4,0 | 75 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 6.(7.) | 7,5 | 100 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 4–5. (5–6.) | 5,5 | 90 | 25 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 7. (8.) | 8,5 | 100 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 6–7. (7–8.) | 7,8 | 100 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 8. (9.) | 9,5 | 105 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 8–9. (9–10.) | 10,0 | 105 | 35 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 9. (10.) | 10,5 | 110 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 3 | 1. (2.) | 2,5 | 50 | – | szabályos, egyéb ág vagy korona |
+| 10. (11.) | 11,0 | 110 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 2. (3.) | 4,0 | 70 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 2 | 1. (2.) | - | 40 | - | szabályos; |
 
-| 3. (4.) | 4,6 | 80 | 20 | szabályos, min. 20 cm-es ágakkal villás vagy koronás |
+| 2. (3.) | 3,5 | 65 | 20 | szabályos; mindkét száron legalább 2 db min. 20 cm-es koronaág |
 
-| 4–5. (5–6.) | 6,0 | 95 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 3. (4.) | 4,5 | 75 | 25 | szabályos; mindkét száron legalább 2 db min. 20 cm-es koronaág |
 
-| 6–7. (7–8.) | 8,5 | 105 | 35 | szabályos, minimum 3-as koronák, min. 15 cm-es koronaágakkal |
+| 4. (5.) | 6,0 | 85 | 30 | szabályos; min. 3-as koronák; koronánként min. 2 db 15 cm-es ággal |
 
-| 8–9. (9–10.) | 10,5 | 110 | 40 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 5. (6.) | 7,0 | 95 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| A gímszarvasbikák szakszerűtlen elejtésének határértékei a 409. számú Gemenci vadgazdálkodási tájegységben |
+| 6. (7.) | 8,0 | 100 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Jellege |
+| 7. (8.) | 9,0 | 105 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 1 | 1. (2.) | 1,5 | 30 | – | szabályos |
+| 8. (9.) | 10,0 | 110 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 25 cm-es ággal |
 
-| 2. (3.) | 3,0 | 60 | 15 | szabályos, min. 10 cm-es ágakkal villás vagy koronás |
+| 9. (10.) | 11,0 | 110 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 25 cm-es ággal |
 
-| 3. (4.) | 3,5 | 65 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 10. (11.) | 11,5 | 110 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 25 cm-es ággal |
 
-| 4–5. (5–6.) | 5,0 | 85 | 25 | szabályos, min. 3-as koronák, koronákban min. 2 db 15 cm-es ággal, esetleg egyik oldalon villával, villában min. 20 cm-es ágakkal |
+| 3 | 1. (2.) | - | 50 | - | szabályos |
 
-| 6–7. (7–8.) | 7,2 | 100 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 2. (3.) | 4,0 | 70 | 25 | szabályos; min. 3-as koronák; koronánként min. 2 db 10 cm-es ággal |
 
-| 8–9. (9–10.) | 9,0 | 105 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 3. (4.) | 5,0 | 80 | 30 | szabályos; min. 3-as koronák; koronánként min. 2 db 20 cm-es ággal |
 
-| 2 | 1. (2.) | 2,0 | 45 | – | szabályos, egyéb ág |
+| 4. (5.) | 6,5 | 90 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 2. (3.) | 3,5 | 65 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 5. (6.) | 7,5 | 100 | 40 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 3. (4.) | 4,0 | 70 | 20 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 6.(7.) | 8,5 | 105 | 40 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 4–5. (5–6.) | 5,2 | 90 | 25 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 7. (8.) | 9,5 | 110 | 40 | szabályos; min. 4-es koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 6–7. (7–8.) | 7,5 | 105 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 8. (9.) | 10,5 | 110 | 40 | szabályos; min. 4-es koronák; koronánként min. 3 db 25 cm-es ággal |
 
-| 8–9. (9–10.) | 9,5 | 110 | 35 | szabályos, minimum 4-es koronák, koronákban min. 3 db 20 cm-es ággal |
+| 9. (10.) | 11,5 | 110 | 40 | szabályos; min. 4-es koronák; koronánként min. 3 db 25 cm-es ággal |
 
-| 3 | 1. (2.) | 2,5 | 50 | – | szabályos, egyéb ág vagy korona |
+| 10. (11.) | 12,5 | 110 | 40 | szabályos; min. 4-es koronák; koronánként min. 3 db 25 cm-es ággal |
 
-| 2. (3.) | 4,0 | 70 | 20 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| A gímbika szakszerűtlen elejtés határértékei a 401. számú Mezőföldi, valamint a 406. számú Mecseki vadgazdálkodási tájegységben |
 
-| 3. (4.) | 4,5 | 75 | 20 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Trófea jellege |
 
-| 4–5. (5–6.) | 5,5 | 95 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 1 | 1. (2.) | - | 30 | - | szabályos |
 
-| 6–7. (7–8.) | 8,0 | 110 | 35 | szabályos, minimum 3-as koronák, min. 20 cm-es koronaágakkal |
+| 2. (3.) | 3,0 | 60 | 15 | szabályos; mindkét száron legalább 2 db min. 15 cm-es koronaág |
 
-| 8–9. (9–10.) | 10,0 | 112 | 40 | szabályos, minimum 4-es koronák, koronákban min. 3 db 25 cm-es ággal |
+| 3. (4.) | 4,0 | 70 | 20 | szabályos; mindkét száron legalább 2 db min. 20 cm-es koronaág |
 
-| A gímszarvasbikák szakszerűtlen elejtésének határértékei a 401. számú Mezőföldi, 406. számú Mecseki vadgazdálkodási tájegységekben |
+| 4. (5.) | 5,4 | 85 | 25 | szabályos; min. 3-as koronák; koronánként min. 2 db 10 cm-es ággal |
 
-| Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Jellege |
+| 5. (6.) | 6,0 | 90 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 1 | 1. (2.) | 1,3 | 25 | – | szabályos |
+| 6.(7.) | 7,0 | 100 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 2. (3.) | 2,8 | 50 | 15 | szabályos, min. 10 cm-es ágakkal villás vagy koronás |
+| 7. (8.) | 8,0 | 100 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 3. (4.) | 3,0 | 60 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 8. (9.) | 9,0 | 105 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 4–5. (5–6.) | 4,5 | 75 | 20 | szabályos, min. 3-as koronák, koronákban min. 2 db 10 cm-es ággal, esetleg egyik oldalon villával, villában min. 20 cm-es ágakkal |
+| 9. (10.) | 9,5 | 105 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 6–7. (7–8) | 6,2 | 85 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 2 | 1. (2.) | - | 35 | - | szabályos |
 
-| 8–9. (9–10.) | 8,0 | 95 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 2. (3.) | 3,2 | 65 | 15 | szabályos; mindkét száron legalább 2 db min. 15 cm-es koronaág |
 
-| 2 | 1. (2.) | 1,7 | 35 | – | szabályos, egyéb ág |
+| 3. (4.) | 4,4 | 75 | 20 | szabályos; mindkét száron legalább 2 db min. 20 cm-es koronaág |
 
-| 2. (3.) | 3,2 | 55 | 15 | szabályos, min. 10 cm-es ágakkal villás vagy koronás |
+| 4. (5.) | 5,6 | 85 | 25 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 3. (4.) | 3,6 | 65 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 5. (6.) | 6,5 | 90 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 4–5. (5–6.) | 4,8 | 80 | 20 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 6.(7.) | 7,5 | 100 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 6–7. (7–8.) | 6,8 | 90 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 7. (8.) | 8,5 | 100 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 8–9. (9–10.) | 9,2 | 100 | 30 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 8. (9.) | 9,5 | 105 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 3 | 1. (2.) | 2,2 | 45 | – | szabályos, egyéb ág vagy korona |
+| 9. (10.) | 10,0 | 105 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 2. (3.) | 3,6 | 60 | 15 | szabályos, min. 15 cm-es ágakkal villás vagy koronás |
+| 3 | 1. (2.) | - | 45 | - | szabályos |
 
-| 3. (4.) | 4,0 | 70 | 20 | szabályos, min. 20 cm-es ágakkal villás vagy koronás |
+| 2. (3.) | 3,6 | 70 | 15 | szabályos; mindkét száron legalább 2 db min. 15 cm-es koronaág |
 
-| 4–5. (5–6.) | 5,2 | 80 | 25 | szabályos, minimum 3-as koronák, koronákban min. 3 db 15 cm-es ággal |
+| 3. (4.) | 4,7 | 80 | 20 | szabályos; min. 3-as koronák; koronánként min. 2 db 10 cm-es ággal |
 
-| 6–7. (7–8.) | 7,2 | 95 | 30 | szabályos, minimum 3-as koronák, min. 15 cm-es koronaágakkal |
+| 4. (5.) | 6,0 | 90 | 25 | szabályos, min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| 8–9. (9–10.) | 9,5 | 100 | 35 | szabályos, minimum 3-as koronák, koronákban min. 3 db 20 cm-es ággal |
+| 5. (6.) | 7,0 | 90 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-## II. A dámszarvasbikák szakszerűtlen elejtésének határértékei
+| 6.(7.) | 8,0 | 100 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| A dámszarvasbikák szakszerűtlen elejtésének határértékei a 402. számú Külső-somogyi, 403. számú Kapos-tolnai, 404. számú Zselic-közép-somogyi, 406. számú Mecseki, 407. számú Dél-baranyai ártéri, 408. számú Tolnai-hegyháti, 410. számú Dél-balatoni vadgazdálkodási tájegységekben |
+| 7. (8.) | 9,0 | 105 | 30 | szabályos; min. 3-as koronák; koronánként min. 3 db 15 cm-es ággal |
 
-| Hibapont | Felrakás (bika kora, év) | Szemág (jelleg, hossz) | Lapát hossz/szélesség | Tömeg/pont | Lapát jellege |
+| 8. (9.) | 10,0 | 105 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| (cm) | (kg)/IP |
+| 9. (10.) | 10,5 | 105 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| 1 | 1. (2.) | – | – | – | – |  | szabályos, min. 15 cm-es csapos |
+## II. A dámbika szakszerűtlen elejtés határértékei
 
-| 2–3. (3–4.) | van | – | – | 1,8 |  | szabályos, elágazó, ellaposodó, pudvás |
+| A dámbika szakszerűtlen elejtés határértékei a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 406. számú Mecseki, a 407. számú Dél-baranyai, a 408. számú Tolna-hegyháti, valamint a 410. számú Dél-balatoni vadgazdálkodási tájegységben |
 
-| 4–5. (5–6.) | van | 30 | 15 | 3 |  | szabályos, zárt, csipkézett lapát |
+| Hibapont | Felrakás (bika kora, év) | Szemág hossza legalább (cm) | Lapát | Tömeg legalább (kg) | Trófea jellege |
 
-| 6–8. (7–9.) | van | 35 | 15 | 3,5 |  | szabályos, zárt, jól csipkézett lapát |
+| hossz | szélesség |
 
-| 2 | 1. (2.) |  | – | – | – |  | szabályos, min. 20 cm-es csapos |
+| legalább (cm) |
 
-| 2–3. (3–4.) | van | – | – | 2 |  | szabályos, min. 30 cm-es szár, kanalas, elágazó, pudvás |
+| 1 | 1. (2.) | - | - | - | - | szabályos; min. 15 cm-es szárak |
 
-| 4–5. (5–6.) | 20 cm | 35 | 15 | 3,3 |  | szabályos, zárt, egyenletesen csipkézett lapát |
+| 2. (3.) | 10 | - | - | 1,6 | szabályos; min. 25 cm-es szárak; legalább ellaposodó szárvégek |
 
-| 6–8. (7–9.) | 20 cm | 40 | 20 | 4 |  | szabályos, zárt, egyenletesen csipkézett lapát |
+| 3. (4.) | 15 | - | - | 1,9 | szabályos; min. 25 cm-es szárak; legalább elágazó szárvégek |
 
-| 3 | 1. (2.) |  | – | – | – |  | szabályos, min. 25 cm-es csapos |
+| 4. (5.) | 18 | 35 | 14 | 2,6 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 2–3. (3–4.) | 15 cm | – | – | 2,2 |  | szabályos, min. 45 cm-es szár, kanalas, elágazó, pudvás |
+| 5. (6.) | 20 | 35 | 14 | 3,0 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 4–5. (5–6.) | 20 cm | 38 | 17 | 3,5 |  | szabályos, zárt, egyenletesen csipkézett lapát |
+| 6. (7.) | 20 | 35 | 15 | 3,3 | szabályos, mindkét száron zárt, csipkézett lapát |
 
-| 6–8. (7–9.) | 20 cm | 40 | 23 | 4,5 |  | szabályos, zárt, erősen csipkézett lapát |
+| 7. (8.) | 22 | 38 | 15 | 3,7 | szabályos, mindkét száron zárt, csipkézett lapát |
 
-| A dámszarvasbikák szakszerűtlen elejtésének határértékei a 405. számú Belső-somogyi vadgazdálkodási tájegységekben |
+| 8. (9.) | 22 | 40 | 16 | 4,2 | szabályos, mindkét száron zárt, csipkézett lapát |
 
-| Hibapont | Felrakás (bika kora, év) | Szemág (jelleg, hossz) | Lapát hossz/szélesség | Tömeg/pont | Lapát jellege |
+| 2 | 1. (2.) | - | - | - | - | szabályos; min. 20 cm-es szárak |
 
-| (cm) | (kg)/IP |
+| 2. (3.) | 15 | - | - | 2,0 | szabályos; min. 35 cm-es szárak; legalább elágazó szárvégek |
 
-| 1 | 1. (2.) |  | – | – | – |  | szabályos, min. 12 cm-es csapos |
+| 3. (4.) | 15 | - | - | 2,3 | szabályos; min. 35 cm-es szárak; mindkét száron kanalas |
 
-| 2–3. (3–4.) | van | – | – | 1,3 |  | szabályos, elágazó, ellaposodó, pudvás |
+| 4. (5.) | 20 | 35 | 15 | 3,3 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 4–5. (5–6.) | van | 30 | 13 | 2,5 |  | szabályos, zárt, csipkézett lapát |
+| 5. (6.) | 20 | 35 | 15 | 3,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 6–8. (7–9.) | van | 30 | 14 | 3 |  | szabályos, zárt, jól csipkézett lapát |
+| 6. (7.) | 20 | 40 | 16 | 3,8 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 2 | 1. (2.) | – | – | – | – |  | szabályos, min. 15 cm-es csapos |
+| 7. (8.) | 22 | 40 | 18 | 4,0 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 2–3. (3–4.) | van | – | – | 1,5 |  | szabályos, min. 30 cm-es szár, kanalas, elágazó, pudvás |
+| 8. (9.) | 22 | 40 | 20 | 4,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 4–5. (5–6.) | van | 30 | 14 | 3 |  | szabályos, zárt, egyenletesen csipkézett lapát |
+| 3 | 1. (2.) | - | - | - | - | szabályos; min. 25 cm-es szárak |
 
-| 6–8. (7–9.) | 20 cm | 35 | 15 | 3,5 |  | szabályos, zárt, egyenletesen csipkézett lapát |
+| 2. (3.) | 15 | - | - | 2,2 | szabályos; min. 45 cm-es szárak; mindkét száron kanalas |
 
-| 3 | 1. (2.) |  | – | – | – |  | szabályos, min. 20 cm-es csapos |
+| 3. (4.) | 20 | - | - | 2,6 | szabályos; min. 45 cm-es szárak; mindkét száron kanalas |
 
-| 2–3. (3–4.) | van | – | – | 1,7 |  | szabályos, min. 45 cm-es szár, kanalas, elágazó, pudvás |
+| 4. (5.) | 20 | 38 | 16 | 3,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 4–5. (5–6.) | 20 cm | 35 | 16 | 3,5 |  | szabályos, zárt, egyenletesen csipkézett lapát |
+| 5. (6.) | 20 | 38 | 16 | 3,8 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 6–8. (7–9.) | 20 cm | 40 | 17 | 4 |  | szabályos, zárt, erősen csipkézett lapát |
+| 6. (7.) | 20 | 40 | 18 | 4,2 | szabályos, mindkét száron zárt, csipkézett lapát |
 
-## III. Az őzbakok szakszerűtlen elejtésének határértékei
+| 7. (8.) | 22 | 40 | 20 | 4,5 | szabályos, mindkét száron zárt, csipkézett lapát |
 
-| Az őzbakok szakszerűtlen elejtésének határértékei a 401. számú Mezőföldi, 402. számú Külső-somogyi, 403. számú Kapos-tolnai, 404. számú Zselic-közép-somogyi, 405. számú Belső-somogyi, 406. számú Mecseki, 407. számú Dél-baranyai ártéri, 408. számú Tolnai-hegyháti, 409. számú Gemenci, valamint a 410. számú Dél-balatoni vadgazdálkodási tájegységekben |
+| 8. (9.) | 22 | 40 | 20 | 4,8 | szabályos, mindkét száron zárt, csipkézett lapát |
 
-| Hibapont | Felrakás (bak kora) | Trófea tömege legalább (g) | Ágak hossza legalább (cm) | Általános jelleg |
+| A dámbika szakszerűtlen elejtés határértékei a 405. számú Belső-somogyi vadgazdálkodási tájegységben |
 
-| 1 | 1. (1.) | 150 |  | tömegre való kritérium nélkül, ha 15 cm-es nyársas, tompa ágvég vagy villás |
+| Hibapont | Felrakás (bika kora, év) | Szemág hossza legalább (cm) | Lapát | Tömeg legalább (kg) | Trófea jellege |
 
-| 2. (2.) | 200 | 2 | szabályos hatos |
+| hossz | szélesség |
 
-| 3. (3.) | 270 | 3 | szabályos hatos |
+| legalább (cm) |
 
-| 4. (4.) | 320 | 4 | szabályos hatos |
+| 1 | 1. (2.) | - | - | - | - | szabályos; min. 12 cm-es szárak |
 
-| 5. (5.) | 360 | 5 | szabályos hatos |
+| 2. (3.) | van | - | - | 1,4 | szabályos; min. 20 cm-es szárak; legalább ellaposodó szárvégek |
 
-| 2 | 1. (1.) | 200 |  | tömegre való kritérium nélkül, ha 15 cm-es, villás, tompa ágvég |
+| 3. (4.) | van | - | - | 1,7 | szabályos; min. 20 cm-es szárak; legalább elágazó szárvégek |
 
-| 2. (2.) | 270 | 2 | szabályos hatos |
+| 4. (5.) | 15 | 30 | 13 | 2,3 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 3. (3.) | 330 | 3 | szabályos hatos |
+| 5. (6.) | 15 | 30 | 13 | 2,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 4. (4.) | 380 | 4 | szabályos hatos |
+| 6. (7.) | 18 | 30 | 14 | 3,0 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 5. (5.) | 430 | 5 | szabályos hatos |
+| 7. (8.) | 20 | 32 | 14 | 3,3 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 3 | 1. (1.) | 250 |  | tömegre való kritérium nélkül, ha 15 cm-es hatos, tompa ágvég |
+| 8. (9.) | 20 | 32 | 15 | 3,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 2. (2.) | 300 | 3 | szabályos hatos |
+| 2 | 1. (2.) | - | - | - | - | szabályos; min. 15 cm-es szárak |
 
-| 3. (3.) | 380 | 4 | szabályos hatos |
+| 2. (3.) | van | - | - | 1,6 | szabályos; min. 35 cm-es szárak; legalább elágazó szárvégek |
 
-| 4. (4.) | 430 | 5 | szabályos hatos |
+| 3. (4.) | 15 | - | - | 2,0 | szabályos; min. 35 cm-es szár; mindkét száron kanalas |
 
-| 5. (5.) | 480 | 5 | szabályos hatos |
+| 4. (5.) | 20 | 32 | 14 | 2,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-## IV. Muflonkosok szakszerűtlen elejtésének határértékei
+| 5. (6.) | 20 | 35 | 15 | 3,0 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| A muflonkosok szakszerűtlen elejtésének határértékei a 402. számú Külső-somogyi, 404. számú Zselic-közép-somogyi, 405. számú Belső-somogyi vadgazdálkodási tájegységekben |
+| 6. (7.) | 20 | 35 | 15 | 3,2 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| Hibapont | Kos kora (év) | Csiga hossza legalább (cm) | Trófea összértéke (IP pont) |
+| 7. (8.) | 20 | 37 | 16 | 3,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 1 | 2. | 43 | szabályos |
+| 8. (9.) | 20 | 37 | 16 | 4,0 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 3. | 53 | szabályos |
+| 3 | 1. (2.) | - | - | - | - | szabályos; min. 20 cm-es szárak |
 
-| 4. | 63 | szabályos és min. 185 IP pont |
+| 2. (3.) | 15 | - | - | 1,9 | szabályos; min. 45 cm-es szárak; mindkét száron kanalas |
 
-| 5. | 65 |  |
+| 3. (4.) | 20 | - | - | 2,3 | szabályos; min. 45 cm-es szárak; mindkét száron kanalas |
 
-| 2 | 2. | 45 | szabályos |
+| 4. (5.) | 20 | 35 | 15 | 2,8 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 3. | 57 | szabályos |
+| 5. (6.) | 20 | 37 | 16 | 3,5 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 4. | 65 | szabályos és min. 190 IP pont |
+| 6. (7.) | 20 | 37 | 17 | 3,7 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 5. | 68 |  |
+| 7. (8.) | 20 | 40 | 17 | 4,0 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 3 | 2. | 50 | szabályos |
+| 8. (9.) | 20 | 40 | 17 | 4,3 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| 3. | 60 | szabályos |
+## III. Az őzbak szakszerűtlen elejtés határértékei
 
-| 4. | 70 | szabályos és min. 195 IP pont |
+| Az őzbak szakszerűtlen elejtés határértékei a 401. számú Mezőföldi, a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-somogyi, a 406. számú Mecseki, a 407. számú Dél-baranyai, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, valamint a 410. számú Dél-balatoni vadgazdálkodási tájegységben |
 
-| 5. | 75 |  |
+| Hibapont | Felrakás (bak kora, év) | Trófea tömege legalább (g) | Ágak hossza legalább (cm) | Trófea jellege |
+
+| 1 | 1. (1.) | - | - | szabályos; legalább15 cm-es szárak; barkás nyársas vagy nyársas; tompa ágvégek |
+
+| 2. (2.) | 200 | 2 | legalább szabályos hatos |
+
+| 3. (3.) | 270 | 3 | legalább szabályos hatos |
+
+| 4. (4.) | 320 | 4 | legalább szabályos hatos |
+
+| 5. (5.) | 360 | 5 | legalább szabályos hatos |
+
+| 2 | 1. (1.) | - | - | szabályos; legalább 15 cm-es szárak; barkás villás vagy villás; tompa ágvégek |
+
+| 2. (2.) | 270 | 2 | legalább szabályos hatos |
+
+| 3. (3.) | 330 | 3 | legalább szabályos hatos |
+
+| 4. (4.) | 380 | 4 | legalább szabályos hatos |
+
+| 5. (5.) | 430 | 5 | legalább szabályos hatos |
+
+| 3 | 1. (1.) | - | - | szabályos; legalább 15 cm-es szárak; barkás hatos vagy hatos; tompa ágvégek |
+
+| 2. (2.) | 300 | 3 | legalább szabályos hatos |
+
+| 3. (3.) | 380 | 4 | legalább szabályos hatos |
+
+| 4. (4.) | 430 | 5 | legalább szabályos hatos |
+
+| 5. (5.) | 480 | 5 | legalább szabályos hatos |
 
 ## A Dél-dunántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeiben érett
 
-## a) az a szarvasbika, amely elérte a 11 éves életkort, agancsa szabályos főágakkal (szemág, középág) és a minimum 3-as koronákban összesen legalább 5 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, az agancs tömege meghaladja a 8,50 kg-ot,
+## a) a legalább a 10. agancsát viselő (11. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 5 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
-## b) az a legalább 10 éves dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3 kg-ot.
+## b) a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-somogyi, a 407. számú Dél-baranyai ártéri, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, és a 410. számú Dél-balatoni vadgazdálkodási tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
+
+## c) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább
+
+## 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3 kg-ot.
 
 5. melléklet a 10/2018. (VII. 3.) AM rendelethez
 
-## A védett természeti területek természet- és tájvédelmi előírásai
+A védett természeti területek természet- és tájvédelmi előírásai
 
 A védett természeti területek természet- és tájvédelmi előírásait a természetvédelmi kezelési tervek tartalmazzák. Az alábbi természet- és tájvédelmi előírásokat kell figyelembe venni, amennyiben a vadgazdálkodási tájegységben található védett természeti terület vonatkozásában nincsen kihirdetett kezelési terv vagy annak vadgazdálkodásra vonatkozó előírásai nem rendelkeznek eltérően.
 

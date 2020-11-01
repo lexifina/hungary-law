@@ -11,3 +11,5 @@ d) vadgazdálkodási tájegységi trófeabírálat irányelveit a 4. melléklet,
 e) természet- és tájvédelmi előírásait védett természeti területen az 5. melléklet,
 
 f) hosszú távú természetvédelmi céljait a 6. melléklet
+
+tartalmazza.

@@ -1,8 +1,8 @@
-## 3. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+## 4. §[^1] Az egyes vadgazdálkodással összefüggő miniszteri rendeletek módosításáról szóló 52/2020. (X. 27.) AM rendelettel [a továbbiakban: 52/2020. (X. 27.) AM rendelet] megállapított trófeabírálatra vonatkozó rendelkezéseket az 52/2020. (X. 27.) AM rendelet hatálybalépését[^2] követően elejtett vad trófeabírálata során kell alkalmazni.
 
 1. melléklet a 10/2018. (VII. 3.) AM rendelethez
 
-## A vad élőhelyének általános jellemzése
+A vad élőhelyének általános jellemzése
 
 1. A 401. számú Mezőföldi vadgazdálkodási tájegység területének mintegy 93%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területén meghatározóak a szántó- és gyepterületek (82,4%), az erdő aránya 6,8%.
 
@@ -23,3 +23,6 @@
 9. A 409. számú Gemenci vadgazdálkodási tájegység területének mintegy 95%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének közel kétharmadát (69,4%) borítják szántó- és gyepterületek, az erdő aránya 19,2%.
 
 10. A 410. számú Dél-balatoni vadgazdálkodási tájegység területének mintegy 95%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének mintegy felét (52,6%) borítják szántó- és gyepterületek, az erdő aránya 28,7%.
+
+[^1]: A 4. §-t az 52/2020. (X. 27.) AM rendelet 16. § (1) bekezdése iktatta be.
+[^2]: A hatálybalépés időpontja 2020. november 1.
