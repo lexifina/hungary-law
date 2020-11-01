@@ -1,13 +1,3 @@
-## 18. § Az R6. 2. alcíme a következő 12/A. §-sal egészül ki:
+## 18. §[^19]
 
-## „12/A. § (1) A Nemzeti Veleszületett Szívbetegség Regiszter (a továbbiakban: Veleszületett Szívbetegség Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
-
-## (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott megbetegedésre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója Q20–Q26, Q87–Q89, Q96 tételeinek bármelyike (a továbbiakban: veleszületett szívrendellenesség).
-
-## (3) Ugyanazon beteg több, egymástól független veleszületett szívrendellenességét külön-külön kell jelenteni a Veleszületett Szívbetegség Regiszter részére.
-
-## (4) Az adatszolgáltatást az Eüak. 16. § (6) bekezdése figyelembevételével, a regisztervezető szerv által kiadott strukturált űrlapok kitöltésével kell teljesíteni.
-
-## (5) Az egészségügyi szolgáltatók az adatszolgáltatást legalább naptári negyedévente, a negyedévet követő hónap 15. napjáig teljesítik a Veleszületett Szívbetegség Regiszter részére.
-
-## (6) A Veleszületett Szívbetegség Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított veleszületett szívrendellenesség betegség indokolja.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

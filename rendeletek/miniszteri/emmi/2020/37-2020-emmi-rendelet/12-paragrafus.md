@@ -1,25 +1,3 @@
-## 11. § Az R6. a következő 5/A. és 5/B. §-sal egészül ki:
+## 11. §[^12]
 
-## „5/A. § (1) A Nemzeti Cisztás Fibrózis Regiszter (a továbbiakban: Cisztás Fibrózis Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
-
-## (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott cisztás fibrózis megbetegedésre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója E84 tétele (a továbbiakban: cisztás fibrózis megbetegedés).
-
-## (3) Az egészségügyi szolgáltatók legalább naptári negyedévente, a negyedévet követő hónap 15. napjáig teljesítik a Cisztás Fibrózis Regiszter részére az adatszolgáltatást.
-
-## (4) A NEAK negyedévente adatszolgáltatást teljesít a Cisztás Fibrózis Regiszter részére az (5) bekezdésben foglaltak szerint.
-
-## (5) A (4) bekezdés szerinti adatszolgáltatás teljesítése érdekében a NEAK az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendelet rendelkezései szerint gyűjtött azon szolgáltatások tételes ellátási adatait, továbbá a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló kormányrendelet rendelkezései szerint gyűjtött azon vényadatokat küldi meg, amelyek diagnózisai között a (2) bekezdés szerinti cisztás fibrózis szerepel.
-
-## (6) A Cisztás Fibrózis Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított cisztás fibrózis eredetű betegség indokolja.
-
-## 5/B. § (1) A Nemzeti Krónikus Obstruktív Tüdőbetegség Regiszter (a továbbiakban: COPD Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
-
-## (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott krónikus obstruktív tüdőbetegségre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója J41–J44 tételei (a továbbiakban: COPD megbetegedés).
-
-## (3) Az egészségügyi szolgáltatók legalább naptári negyedévente, a negyedévet követő hónap 15. napjáig teljesítik a COPD Regiszter részére az adatszolgáltatást.
-
-## (4) A NEAK negyedévente adatszolgáltatást teljesít a COPD Regiszter részére az (5) bekezdésben foglaltak szerint.
-
-## (5) A (4) bekezdés szerinti adatszolgáltatás teljesítése érdekében a NEAK az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendelet rendelkezései szerint gyűjtött azon szolgáltatások tételes ellátási adatait, továbbá a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló kormányrendelet rendelkezései szerint gyűjtött azon vényadatokat küldi meg, amelyek diagnózisai között a (2) bekezdés szerinti COPD megbetegedés szerepel.
-
-## (6) A COPD Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított COPD eredetű betegség indokolja.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
