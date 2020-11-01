@@ -1,4 +1,4 @@
-## 138. § Ha a miniszter a Bv. tv. 45. § (8) bekezdése alapján a szabadlábon lévő elítéltnek a Büntetés-végrehajtás Központi Kórházában, illetve az IMEI-ben történő szakorvosi vizsgálatát rendelte el, a miniszter erről írásban értesíti a Büntetés-végrehajtás Központi Kórházát vagy az IMEI-t.
+## 138. §[^4] Ha a miniszter a Bv. tv. 45. § (8) bekezdése alapján a szabadlábon lévő elítéltnek a Büntetés-végrehajtás Egészségügyi Központban, illetve az IMEI-ben történő szakorvosi vizsgálatát rendelte el, a miniszter erről írásban értesíti a Büntetés-végrehajtás Egészségügyi Központot vagy az IMEI-t.
 
 139. § (1) A kegyelmi döntésről szóló határozatot és a kegyelmi eljárás befejezéséről szóló tájékoztatást a miniszter az ügyben elsőfokon eljárt bíróságnak átirattal küldi meg, amelyben értesíti a bíróságot arról, ha
 
@@ -13,3 +13,5 @@ b) a szabadságvesztés elhalasztása vagy félbeszakítása esetén a BVOP rés
 (4) Az (1) és (2) bekezdés szerinti szöveges értesítéseket és értesítőlapokat soron kívül kell továbbítani, egyebekben a kegyelmi határozatban megállapított büntetés vagy intézkedés végrehajtására vonatkozó rendelkezések szerint kell eljárni.
 
 (5) Ha az elítélt büntetésének vagy javítóintézeti nevelésének végrehajtását a kegyelmi döntés meghozataláig elhalasztották vagy félbeszakították, és az elítélt nem részesült kegyelemben, az elsőfokon eljárt bíróság az általános szabályok szerint intézkedik a végrehajtás foganatosítása érdekében.
+
+[^4]: A 138. § a 14/2020. (X. 30.) IM rendelet 5. §-a szerint módosított szöveg.
