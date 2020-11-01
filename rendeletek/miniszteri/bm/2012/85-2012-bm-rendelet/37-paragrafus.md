@@ -1,6 +1,6 @@
-## 36. §[^81] A lakásigény mértéke, a lakáshelyzet, a vagyoni feltételek és a család jövedelmi helyzete – mint együttes feltételek – szempontjából a hivatásos állomány tagját, valamint azon együtt költöző, együtt lakó családtagot lehet figyelembe venni, akit a hivatásos állomány tagja a kérelmében megjelöl. A hivatásos állomány tagjánál és az általa megjelölt együtt költöző, együtt lakó családtagnál valamennyi felsorolt feltételt vizsgálni kell.
+## 36. §[^85] A lakásigény mértéke, a lakáshelyzet, a vagyoni feltételek és a család jövedelmi helyzete – mint együttes feltételek – szempontjából a hivatásos állomány tagját, valamint azon együtt költöző, együtt lakó családtagot lehet figyelembe venni, akit a hivatásos állomány tagja a kérelmében megjelöl. A hivatásos állomány tagjánál és az általa megjelölt együtt költöző, együtt lakó családtagnál valamennyi felsorolt feltételt vizsgálni kell.
 
-## 37. §[^82] A munkáltatói kölcsön-kérelmek vizsgálata során az alábbi elbírálási sorrend az irányadó:
+## 37. §[^86] A munkáltatói kölcsön-kérelmek vizsgálata során az alábbi elbírálási sorrend az irányadó:
 
 a) lakás vásárlására, építésére irányuló kérelem, ahol az igénylőnek, házastársának, élettársának, vele közös háztartásban lévő gyermekének, együtt költöző, együtt lakó családtagjának külön-külön vagy együttesen lakástulajdona, résztulajdona, lakásbérleti, bérlőtársi jogviszonya, állandó használati joga, haszonélvezeti joga korábban nem volt,
 
@@ -12,5 +12,5 @@ d) lakás vásárlására, építésére, cseréjére irányuló kérelem, ahol 
 
 e) egyéb, a 27. §-ban meghatározott feltételeknek megfelelő kérelem.
 
-[^81]: A 36. § a 9/2018. (IV. 25.) BM rendelet 64. § c) és m)–n) pontja szerint módosított szöveg.
-[^82]: A 37. § a 46/2019. (XII. 18.) BM rendelet 20. §-ával megállapított szöveg.
+[^85]: A 36. § a 9/2018. (IV. 25.) BM rendelet 64. § c) és m)–n) pontja szerint módosított szöveg.
+[^86]: A 37. § a 46/2019. (XII. 18.) BM rendelet 20. §-ával megállapított szöveg.

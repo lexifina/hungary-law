@@ -1,3 +1,3 @@
-## 74. §[^116]
+## 74. §[^120]
 
-[^116]: A 74. §-t a 9/2018. (IV. 25.) BM rendelet 65. § d) pontja hatályon kívül helyezte.
+[^120]: A 74. §-t a 9/2018. (IV. 25.) BM rendelet 65. § d) pontja hatályon kívül helyezte.

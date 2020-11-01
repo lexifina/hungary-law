@@ -1,4 +1,4 @@
-24/G. §[^39] (1) A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
+24/G. §[^43] (1) A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
 
 a) beosztási illetmény,
 
@@ -28,4 +28,4 @@ c) aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha az il
 
 (5) A kiegészítő juttatásra jogosultságról és annak mértékéről az Országgyűlési Őrség parancsnoka munkáltatói intézkedésben rendelkezik.
 
-[^39]: A 24/G. §-t a 3/2020. (I. 17.) BM rendelet 1. §-a iktatta be.
+[^43]: A 24/G. §-t a 3/2020. (I. 17.) BM rendelet 1. §-a iktatta be.

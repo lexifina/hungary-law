@@ -1,6 +1,6 @@
 60. § (1) A szociális bizottságot
 
-a)[^108] az igazgatóság szintű szervezeti elemek vezetői által delegált képviselő – amelyből legalább egy fő a személyügyi szakterület állományának tagja –, valamint
+a)[^112] az igazgatóság szintű szervezeti elemek vezetői által delegált képviselő – amelyből legalább egy fő a személyügyi szakterület állományának tagja –, valamint
 
 b) a Magyar Rendvédelmi Kar és az Országgyűlési Őrségnél képviselettel rendelkező szakszervezetek (a továbbiakban együtt: érdekképviselet) részéről delegált egy-egy képviselő
 
@@ -12,9 +12,9 @@ alkotja.
 
 (4) A szociális bizottság tagjai visszahívhatók. A megüresedett helyek betöltésére a szociális bizottság elnöke – az (1) bekezdésben foglaltak figyelembevételével – intézkedik.
 
-(4a)[^109] A szociális bizottság javaslatát szakmai előterjesztés alapján többségi szavazattal alakítja ki, szavazategyenlőség esetén az elnök szavazata dönt.
+(4a)[^113] A szociális bizottság javaslatát szakmai előterjesztés alapján többségi szavazattal alakítja ki, szavazategyenlőség esetén az elnök szavazata dönt.
 
 (5) A szociális bizottság ügyrendjét a bizottság alakítja ki és az Országgyűlési Őrség parancsnoka hagyja jóvá.
 
-[^108]: A 60. § (1) bekezdés a) pontja a 9/2018. (IV. 25.) BM rendelet 63. §-ával megállapított szöveg.
-[^109]: A 60. § (4a) bekezdését a 36/2015. (VI. 16.) BM rendelet 27. §-a iktatta be.
+[^112]: A 60. § (1) bekezdés a) pontja a 9/2018. (IV. 25.) BM rendelet 63. §-ával megállapított szöveg.
+[^113]: A 60. § (4a) bekezdését a 36/2015. (VI. 16.) BM rendelet 27. §-a iktatta be.

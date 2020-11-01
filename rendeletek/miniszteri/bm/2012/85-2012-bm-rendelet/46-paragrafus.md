@@ -4,7 +4,7 @@
 
 a) vásárlás, építés vagy csere alkalmával legfeljebb tíz év,
 
-b)[^87] korszerűsítés, bővítés, akadálymentesítés esetén legfeljebb négy év
+b)[^91] korszerűsítés, bővítés, akadálymentesítés esetén legfeljebb négy év
 
 ## alatt.
 
@@ -12,4 +12,4 @@ b)[^87] korszerűsítés, bővítés, akadálymentesítés esetén legfeljebb n�
 
 (3) A törlesztés havi összegét 20 000 Ft-nál kisebb összegben meghatározni nem lehet.
 
-[^87]: A 46. § (1) bekezdés b) pontja a 46/2019. (XII. 18.) BM rendelet 25. § l) pontja szerint módosított szöveg.
+[^91]: A 46. § (1) bekezdés b) pontja a 46/2019. (XII. 18.) BM rendelet 25. § l) pontja szerint módosított szöveg.
