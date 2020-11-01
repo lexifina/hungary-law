@@ -2,6 +2,9 @@
 
 6. § (1) A fogvatartott munkaképtelenségét a bv. intézet működésével és a fogvatartottak ellátásával kapcsolatos tevékenység keretében történő munkavégzésre vonatkozóan – legfeljebb egy évig terjedő időtartamra – a bv. orvos állapíthatja meg.
 
-(2) A fogvatartott munkaképtelenségének az (1) bekezdésben meghatározottnál hosszabb időtartamra, illetve véglegesen történő megállapítását a Büntetés-végrehajtás Központi Kórház (a továbbiakban: Központi Kórház) Felülvizsgáló Bizottsága (a továbbiakban: FÜV Bizottság) végzi.
+(2)[^3] A fogvatartott munkaképtelenségének az (1) bekezdésben meghatározottnál hosszabb időtartamra, illetve véglegesen történő megállapítását a Büntetés-végrehajtás Egészségügyi Központ (a továbbiakban: BVEK) Felülvizsgáló Bizottsága (a továbbiakban: FÜV Bizottság) végzi.
 
-(3) A fogvatartott az első fokú döntés ellen a FÜV Bizottsághoz, a FÜV Bizottság döntése ellen pedig a Központi Kórház főigazgató főorvosához tizenöt napon belül írásban panaszt jelenthet be. A panaszt tizenöt napon belül kell elbírálni, és arról a fogvatartottat írásban értesíteni.
+(3)[^4] A fogvatartott az első fokú döntés ellen a FÜV Bizottsághoz, a FÜV Bizottság döntése ellen pedig a BVEK főigazgatójához tizenöt napon belül írásban panaszt jelenthet be. A panaszt tizenöt napon belül kell elbírálni, és arról a fogvatartottat írásban értesíteni.
+
+[^3]: A 6. § (2) bekezdése a 14/2020. (X. 30.) IM rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § (3) bekezdése a 14/2020. (X. 30.) IM rendelet 2. § b) pontja szerint módosított szöveg.
