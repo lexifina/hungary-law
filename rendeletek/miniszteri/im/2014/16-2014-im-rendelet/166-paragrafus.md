@@ -6,6 +6,6 @@
 
 (3) Az elítélt az elhelyezésére szolgáló elkülönített részlegen belül a katonai fogda rendjének megtartásával szabadon mozoghat.
 
-(4)[^153] Ha a katona a bv. intézet engedélyezett elhagyásáról nem tért vissza időben, akkor a feljelentést a bv. intézet székhelye szerint illetékes, a legfőbb ügyész által katonai büntetőeljárás lefolytatására kijelölt ügyészségnél kell megtenni.
+(4)[^155] Ha a katona a bv. intézet engedélyezett elhagyásáról nem tért vissza időben, akkor a feljelentést a bv. intézet székhelye szerint illetékes, a legfőbb ügyész által katonai büntetőeljárás lefolytatására kijelölt ügyészségnél kell megtenni.
 
-[^153]: A 166. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 47. pontja szerint módosított szöveg.
+[^155]: A 166. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 47. pontja szerint módosított szöveg.

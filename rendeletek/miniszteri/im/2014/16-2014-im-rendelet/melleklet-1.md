@@ -38,7 +38,7 @@
 
 2.2. sportruházat,
 
-2.3.[^234] a letartóztatottnál és az elzárásra ítéltnél saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
+2.3.[^236] a letartóztatottnál és az elzárásra ítéltnél saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
 
 3. Élelmiszerek, étkezési eszközök:
 
@@ -106,4 +106,4 @@
 
 8. A bv. orvos által engedélyezett gyógyszerek, gyógyászati- vagy orvosi segédeszközök, vitaminok és tápszerek.
 
-[^234]: Az 1. melléklet 2.3. pontja a 14/2018. (VI. 15.) IM rendelet 19. § 65. pontja szerint módosított szöveg.
+[^236]: Az 1. melléklet 2.3. pontja a 14/2018. (VI. 15.) IM rendelet 19. § 65. pontja szerint módosított szöveg.

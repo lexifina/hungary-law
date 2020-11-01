@@ -18,10 +18,10 @@ h) az elítélt reintegrációs célkitűzések megvalósításában való közr
 
 i) az elkészítés indokára, valamint
 
-j)[^77] a bíróság, illetve a hatóság általi megkeresésre vagy adatkérésre írt értékelő vélemény esetében a kért adatokra
+j)[^79] a bíróság, illetve a hatóság általi megkeresésre vagy adatkérésre írt értékelő vélemény esetében a kért adatokra
 
 ## terjed ki.
 
 (2) A fogvatartotti nyilvántartásból törölt fenyítést az elítéltről készített értékelő véleményekben nem lehet feltüntetni.
 
-[^77]: A 94. § (1) bekezdés j) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 28. pontja szerint módosított szöveg.
+[^79]: A 94. § (1) bekezdés j) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 28. pontja szerint módosított szöveg.

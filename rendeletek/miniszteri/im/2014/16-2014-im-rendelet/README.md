@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-16-20-0
 | 2019-05-16 | 2014-16-20-06.12 | 13/2019. (V. 15.) IM rendelet |
 | 2019-08-10 | 2014-16-20-06.13 | 24/2019. (VIII. 2.) IM rendelet |
 | 2020-01-01 | 2014-16-20-06.14 | 30/2019. (XII. 20.) IM rendelet |
+| 2020-11-01 | 2014-16-20-06.15 | 14/2020. (X. 30.) IM rendelet |
