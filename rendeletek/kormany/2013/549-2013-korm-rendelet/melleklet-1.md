@@ -30,11 +30,11 @@ Kezelő szervi kijelölés
 
 | 13. | Társadalmi Infrastruktúra Operatív Program | szociál- és nyugdíjpolitikáért felelős miniszter |
 
-| 14. | Végrehajtás Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
+| 14. | Végrehajtás Operatív Program | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
 
-| 15. | Államreform Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
+| 15. | Államreform Operatív Program | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
 
-| 16. | Elektronikus Közigazgatás Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
+| 16. | Elektronikus Közigazgatás Operatív Program | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
 
 | 17. | EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus | európai uniós források felhasználásáért felelős miniszter |
 
@@ -54,7 +54,7 @@ Kezelő szervi kijelölés
 
 | 25. | Agrár- és Vidékfejlesztési Operatív Program | agrár-vidékfejlesztésért felelős miniszter |
 
-| 26. | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
+| 26. | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
 
 | 27. | Gazdaságfejlesztési és Innovációs Operatív Program | gazdaságpolitikáért felelős miniszter |
 
@@ -100,4 +100,4 @@ Kezelő szervi kijelölés
 
 | 48. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^255]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja, a 79/2019. (IV. 12.) Korm. rendelet 8. §-a, a 82/2019. (IV. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^255]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja, a 79/2019. (IV. 12.) Korm. rendelet 8. §-a, a 82/2019. (IV. 18.) Korm. rendelet 4. §-a, a 476/2020. (X. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
