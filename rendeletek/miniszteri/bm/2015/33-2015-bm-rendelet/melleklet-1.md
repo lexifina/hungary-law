@@ -50,7 +50,7 @@ III. A büntetés-végrehajtási szervezetnél
 
 10. osztályvezető (egészségügyi),
 
-ha szolgálati feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Központi Kórház és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásokban látja el.
+ha szolgálati feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Egészségügyi Központ és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásokban látja el.
 
 [^18]: Az 50. §-t a 18/2020. (VI. 30.) BM rendelet 15. §-a iktatta be.
-[^19]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a, a 21/2020. (VII. 9.) BM rendelet 5. §-a szerint módosított szöveg.
