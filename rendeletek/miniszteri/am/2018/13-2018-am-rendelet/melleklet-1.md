@@ -1,8 +1,8 @@
-## 5. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+## 6. §[^3] Az egyes vadgazdálkodással összefüggő miniszteri rendeletek módosításáról szóló 52/2020. (X. 27.) AM rendelettel [a továbbiakban: 52/2020. (X. 27.) AM rendelet] megállapított trófeabírálatra vonatkozó rendelkezéseket az 52/2020. (X. 27.) AM rendelet hatálybalépését[^4] követően elejtett vad trófeabírálata során kell alkalmazni.
 
 1. melléklet a 13/2018. (VII. 3.) AM rendelethez
 
-## A vad élőhelyének általános jellemzése
+A vad élőhelyének általános jellemzése
 
 1. A 101. számú Tiszazugi vadgazdálkodási tájegység területének mintegy 96%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének meghatározó részét (87,5%) borítják szántó- és gyepterületek, az erdő aránya <5%.
 
@@ -27,3 +27,6 @@
 11. A 111. számú Tiszamenti vadgazdálkodási tájegység területének mintegy 95%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének közel kétharmadát (67,9%) borítják szántó- és gyepterületek, az erdő aránya 17,4%.
 
 12. A 112. számú Sárrét-bihari vadgazdálkodási tájegység területének mintegy 95%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területén meghatározóak a szántó- és gyepterületek (91,7%), az erdő aránya <1%.
+
+[^3]: A 6. §-t az 52/2020. (X. 27.) AM rendelet 19. § (1) bekezdése iktatta be.
+[^4]: A hatálybalépés időpontja 2020. november 1.

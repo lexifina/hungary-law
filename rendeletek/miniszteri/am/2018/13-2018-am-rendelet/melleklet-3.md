@@ -1,6 +1,6 @@
 3. melléklet a 13/2018. (VII. 3.) AM rendelethez
 
-## A vadállomány-szabályozás irányelvei, az egyes vadfajok szerint fenntartandó legkisebb vadlétszám (törzsállomány), valamint az élőhelyet még nem veszélyeztető legmagasabb vadlétszám
+A vadállomány-szabályozás irányelvei, az egyes vadfajok szerint fenntartandó legkisebb vadlétszám (törzsállomány), valamint az élőhelyet még nem veszélyeztető legmagasabb vadlétszám
 
 1. A gímszarvasállomány szabályozási irányelvei
 

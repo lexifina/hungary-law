@@ -1,6 +1,6 @@
 6. melléklet a 13/2018. (VII. 3.) AM rendelethez
 
-## Hosszú távú természetvédelmi célok
+Hosszú távú természetvédelmi célok
 
 1. A természetvédelem hosszú távú, a vadgazdálkodást is érintő célja az ország teljes területén a biológiai sokféleség, valamint a fajok közötti természetes kapcsolatrendszerek megőrzése, a veszélyeztetett fajok és élőhelytípusok, életközösségek természetvédelmi helyzetének javítása, az élőhelyvesztésből, az élőhelyek minőségének romlásából, illetve a fajok túlhasznosításából származó veszélyek csökkentése. Ennek érdekében a vadállomány igénybevételével és terhelésével járó gazdasági, gazdálkodási és kereskedelmi tevékenységet a természeti értékek és rendszerek működőképességét és a biológiai sokféleséget fenntartva kell végezni.
 
