@@ -1,8 +1,8 @@
-## 3. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+## 4. §[^1] Az egyes vadgazdálkodással összefüggő miniszteri rendeletek módosításáról szóló 52/2020. (X. 27.) AM rendelettel [a továbbiakban: 52/2020. (X. 27.) AM rendelet] megállapított trófeabírálatra vonatkozó rendelkezéseket az 52/2020. (X. 27.) AM rendelet hatálybalépését[^2] követően elejtett vad trófeabírálata során kell alkalmazni.
 
 1. melléklet a 11/2018. (VII. 3.) AM rendelethez
 
-## A vad élőhelyének általános jellemzése
+A vad élőhelyének általános jellemzése
 
 1. A 301. számú Pesti-síksági vadgazdálkodási tájegység területének mintegy 75%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének mintegy felét (51%) borítják szántó- és gyepterületek, az erdő aránya 18%.
 
@@ -25,3 +25,6 @@
 10. A 310. számú Mátra-alja-dél-hevesi vadgazdálkodási tájegység területének mintegy 94% a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területén meghatározóak a szántó- és gyepterületek (87,6%), az erdő aránya <3%.
 
 11. A 311. számú Tiszatavi vadgazdálkodási tájegység területének mintegy 96%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének mintegy háromnegyedét (75,2%) borítják szántó- és gyepterületek, az erdő aránya 7,6%.
+
+[^1]: A 4. §-t az 52/2020. (X. 27.) AM rendelet 17. § (1) bekezdése iktatta be.
+[^2]: A hatálybalépés időpontja 2020. november 1.

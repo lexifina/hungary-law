@@ -1,6 +1,6 @@
 2. melléklet a 11/2018. (VII. 3.) AM rendelethez
 
-## Az egyes vadfajok állományának leírása
+Az egyes vadfajok állományának leírása
 
 1. Gímszarvas
 
