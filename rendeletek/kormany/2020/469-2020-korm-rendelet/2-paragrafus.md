@@ -1,5 +1,5 @@
-## 1. § A határellenőrzés ideiglenes visszaállításáról szóló 407/2020. (VIII. 30.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ez a rendelet 2020. december 1-jén hatályát veszti.”
+## 1. §[^2]
 
 2. § Ez a rendelet 2020. október 31-én lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
