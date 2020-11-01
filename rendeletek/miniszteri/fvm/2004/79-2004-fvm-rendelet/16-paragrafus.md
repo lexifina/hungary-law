@@ -1,5 +1,5 @@
 ## (A Vtv. 19. §-ához)
 
-16. §[^33]
+16. §[^35]
 
-[^33]: A Vhr. 16. §-át a 14/2016. (III. 2.) FM rendelet 11. §-a hatályon kívül helyezte.
+[^35]: A Vhr. 16. §-át a 14/2016. (III. 2.) FM rendelet 11. §-a hatályon kívül helyezte.

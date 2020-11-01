@@ -1,50 +1,54 @@
-## I. VADÁSZATI IDÉNYEK
+|  | A | B |
 
-| a) Nagyvadfajok |  |
+| 1 | I. VADÁSZATI IDÉNYEK |
 
-| gímszarvasbika – érett bika – tehén, -ünő – borjú | szeptember 1–január 31. szeptember 1–október 31. szeptember 1–január 31. szeptember 1–február utolsó napja |
+| 2 | a) Nagyvadfajok |
 
-| dámbika – érett bika – tehén, -ünő – borjú | október 1–február utolsó napja október 1–november 30. október 1–január 31. október 1–február utolsó napja |
+| 3 | gímszarvasbika – érett bika – tehén – ünő – borjú | szeptember 1. – január 31. szeptember 1. – október 31. szeptember 1. – január 31. május 1. – február utolsó napja szeptember 1. – április utolsó napja |
 
-| őzbak – suta, gida | április 15–szeptember 30. október 1–február utolsó napja |
+| 4 | dámbika – érett bika – tehén, -ünő – borjú | október 1.– február utolsó napja október 1.– november 30. október 1.– január 31. október 1.– február utolsó napja |
 
-| muflonkos – juh, -jerke – bárány | szeptember 1–február utolsó napja szeptember 1–január 31. szeptember 1–február utolsó napja |
+| 5 | őzbak – suta, gida | április 15.– szeptember 30. október 1.– február utolsó napja |
 
-| vaddisznó | egész évben |
+| 6 | muflonkos – juh, -jerke – bárány | egész évben szeptember 1. – január 31. szeptember 1. – február utolsó napja |
 
-| szikaszarvas | egész évben |
+| 7 | vaddisznó | egész évben |
 
-| b) Apróvadfajok |  |
+| 8 | szikaszarvas | egész évben |
 
-| mezei nyúl | október 1–december 31. |
+| 9 | b) Apróvadfajok |
 
-| üregi nyúl | egész évben |
+| 10 | mezei nyúl | október 1.– december 31. |
 
-| fácánkakas | október 1–február utolsó napja |
+| 11 | üregi nyúl | egész évben |
 
-| – fácántyúk | október 1–január 31. |
+| 12 | fácánkakas | október 1.– február utolsó napja |
 
-| fogoly | október 1–december 31. |
+| 13 | – fácántyúk | október 1.– január 31. |
 
-| nyári lúd | október 1–december 31. |
+| 14 | fogoly | október 1.– december 31. |
 
-| vetési lúd, nagy lilik, kanadai lúd, nílusi lúd | október 1–január 31. |
+| 15 | vörös fogoly | egész évben |
 
-| tőkés réce | augusztus 15–január 31. |
+| 16 | nyári lúd | október 1.– december 31. |
 
-| szárcsa | szeptember 1–január 31. |
+| 17 | vetési lúd, nagy lilik, kanadai lúd, nílusi lúd | október 1.– január 31. |
 
-| erdei szalonka | vadászati idény nélkül |
+| 18 | tőkés réce | augusztus 15.– január 31. |
 
-| örvös galamb, balkáni gerle | augusztus 15–január 31. |
+| 19 | szárcsa | szeptember 1.– január 31. |
 
-| c) Egyéb apróvadfajok |  |
+| 20 | erdei szalonka | vadászati idény nélkül |
 
-| róka, aranysakál, nyest, pézsmapocok, nyestkutya, mosómedve | egész évben |
+| 21 | örvös galamb, balkáni gerle | augusztus 15. – január 31. |
 
-| borz, házi görény, dolmányos varjú, szarka, szajkó | július 1–február utolsó napja |
+| 22 | c) Egyéb apróvadfajok |
 
-## Az a), b) és c) pontokban meghatározott vadászati idények alkalmazása során az egyes vadfajoknál a 27. és 27/A. §-ban foglalt rendelkezéseket is figyelembe kell venni.
+| 23 | róka, aranysakál, nyest, pézsmapocok, nyestkutya, mosómedve | egész évben |
+
+| 24 | borz, házi görény, dolmányos varjú, szarka, szajkó | július 1. – február utolsó napja |
+
+| 25 | Az a), b) és c) pontokban meghatározott vadászati idények alkalmazása során az egyes vadfajoknál a 27. és 27/A. §-ban foglalt rendelkezéseket is figyelembe kell venni. |
 
 ## II.
 
@@ -216,8 +220,8 @@
 
 6. számú melléklet
 
-79/2004. (V. 4.) FVM rendelethez[^241]
+79/2004. (V. 4.) FVM rendelethez[^251]
 
 A VADGAZDÁLKODÁSI ÜZEMTERV TARTALMI KÖVETELMÉNYEI
 
-[^241]: A Vhr. 6. számú melléklete a 13/2018. (VII. 3.) AM rendelet 4. §-ával megállapított szöveg.
+[^251]: A Vhr. 6. számú melléklete a 13/2018. (VII. 3.) AM rendelet 4. §-ával megállapított szöveg.

@@ -52,6 +52,8 @@ ba) hasznos apróvadfajok
 
 14. Örvös galamb (Columba palumbus),
 
+15.[^4] Vörös fogoly (Alectoris rufa).
+
 bb) egyéb apróvadfajok:
 
 1. Házi görény (Mustela putorius),
@@ -76,7 +78,7 @@ bb) egyéb apróvadfajok:
 
 11. Szajkó (Garrulus glandarius).
 
-(2)[^4] Közösségi jelentőségű vadászható állatfajok a következők:
+(2)[^5] Közösségi jelentőségű vadászható állatfajok a következők:
 
 1. Fácán (Phasianus colchicus),
 
@@ -110,7 +112,11 @@ bb) egyéb apróvadfajok:
 
 16. Szajkó (Garrulus glandarius).
 
+17.[^6] Vörös fogoly (Alectoris rufa).
+
 [^1]: A Vhr. 1. §-a a 7/2010. (II. 2.) FVM rendelet 1. §-ával megállapított szöveg.
 [^2]: A Vhr. 1. § (1) bekezdés a) pont 8. alpontját a 65/2015. (X. 26.) FM rendelet 4. § a) pontja hatályon kívül helyezte.
 [^3]: A Vhr. 1. § (1) bekezdés b) pontja a 72/2012. (VII. 24.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^4]: A Vhr. 1. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^4]: A Vhr. 1. § (1) bekezdés b) pont ba) alpont 15. pontját az 52/2020. (X. 27.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A Vhr. 1. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^6]: A Vhr. 1. § (2) bekezdés 17. pontját az 52/2020. (X. 27.) AM rendelet 1. § (2) bekezdése iktatta be.

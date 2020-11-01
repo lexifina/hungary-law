@@ -80,6 +80,6 @@
 
 ## a vadász-vadtenyésztő szakmunkás-bizonyítványt.
 
-9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^244]
+9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^254]
 
-[^244]: A Vhr. 9. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés a) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 3. § c) pontja, a 89/2016. (XII. 29.) FM rendelet 8. § e) pontja, a 24/2017. (V. 17.) FM rendelet 33. § (5) bekezdése szerint módosított szöveg. [A Vhr. 9. számú melléklet I. pontjában a 70/2013. (VII. 31.) VM rendelet 40. § g) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium ..... Megyei Vadászati Hatóság” szövegrész helyébe „.... Megyei Kormányhivatal Földművelésügyi Igazgatóság” szöveg lép, nem vezethető át.]
+[^254]: A Vhr. 9. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés a) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 3. § c) pontja, a 89/2016. (XII. 29.) FM rendelet 8. § e) pontja, a 24/2017. (V. 17.) FM rendelet 33. § (5) bekezdése szerint módosított szöveg. [A Vhr. 9. számú melléklet I. pontjában a 70/2013. (VII. 31.) VM rendelet 40. § g) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium ..... Megyei Vadászati Hatóság” szövegrész helyébe „.... Megyei Kormányhivatal Földművelésügyi Igazgatóság” szöveg lép, nem vezethető át.]

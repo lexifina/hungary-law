@@ -38,7 +38,7 @@
 
 ## 3.6. Tulajdoni hányadra eső terület hektárban:
 
-## 4.[^251] A meghatalmazás tárgya, valamint a meghatalmazó nyilatkozata, hogy a meghatalmazás aláírásával valamennyi, azonos tárgykörben korábban adott meghatalmazását visszavonja.
+## 4.[^261] A meghatalmazás tárgya, valamint a meghatalmazó nyilatkozata, hogy a meghatalmazás aláírásával valamennyi, azonos tárgykörben korábban adott meghatalmazását visszavonja.
 
 ## 5. Keltezés, a meghatalmazó aláírása
 
@@ -50,8 +50,9 @@
 
 ## 6.3. aláírása:
 
-16. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
+16. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^262]
 
-TRÓFEÁS VAD KOROSZTÁLY BESOROLÁSA
+GÍMSZARVAS, DÁMSZARVAS, ŐZ, MUFLON TRÓFEÁS EGYEDEINEK KOROSZTÁLY SZERINTI BESOROLÁSA
 
-[^251]: A Vhr. 15. számú melléklet 4. pontja a 41/2016. (VI. 22.) FM rendelet 3. §-a szerint módosított szöveg.
+[^261]: A Vhr. 15. számú melléklet 4. pontja a 41/2016. (VI. 22.) FM rendelet 3. §-a szerint módosított szöveg.
+[^262]: A Vhr. 16. számú melléklete az 52/2020. (X. 27.) AM rendelet 11. §-ával megállapított szöveg.

@@ -20,8 +20,8 @@
 
 | Fajta | Név | Ivar | Törzs- könyv vagy regisztrá- ciós szám | Igazol- vány szám | Vizsga- minősítés | Név | Cím | Vadász- jegy száma | Vadá- szatra jogosult |
 
-25. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^261]
+25. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^272]
 
 | Agrárminisztérium vadászati hatósági feladatainak ellátásához kapcsolódó előirányzat felhasználási számlaszáma: | 10032000-01494549-00000000 |
 
-[^261]: A Vhr. 25. számú mellékletét az 5/2019. (III. 14.) AM rendelet 3. §-a iktatta be.
+[^272]: A Vhr. 25. számú mellékletét az 5/2019. (III. 14.) AM rendelet 3. §-a iktatta be.

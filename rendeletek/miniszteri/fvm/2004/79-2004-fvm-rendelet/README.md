@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2018-07-08 | 2004-79-20-82.34 | 13/2018. (VII. 3.) AM rendelet |
 | 2019-01-01 | 2004-79-20-82.35 | 43/2018. (XII. 20.) AM rendelet |
 | 2019-04-14 | 2004-79-20-82.36 | 5/2019. (III. 14.) AM rendelet |
+| 2020-11-01 | 2004-79-20-82.37 | 52/2020. (X. 27.) AM rendelet |

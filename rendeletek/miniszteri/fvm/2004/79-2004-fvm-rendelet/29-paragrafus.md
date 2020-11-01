@@ -1,6 +1,6 @@
 ## (A Vtv. 47. §-ához)
 
-29. §[^66] (1) Éves vadgazdálkodási tervet legalább középfokú vadgazdálkodási képesítéssel, valamint ötéves szakmai gyakorlattal rendelkező személy készíthet.
+29. §[^69] (1) Éves vadgazdálkodási tervet legalább középfokú vadgazdálkodási képesítéssel, valamint ötéves szakmai gyakorlattal rendelkező személy készíthet.
 
 (2) A jóváhagyásra benyújtott éves vadgazdálkodási tervbe a tájegységi fővadász betekinthet.
 
@@ -16,4 +16,4 @@ ha a vadállományban vagy az élőhely állapotában, illetve a vadállomány h
 
 (5) A vadászati hatóság az éves vadgazdálkodási terv időarányos teljesítéséről év közbeni adatszolgáltatást is előírhat.
 
-[^66]: A Vhr. 29. §-a a 24/2017. (V. 17.) FM rendelet 8. §-ával megállapított szöveg.
+[^69]: A Vhr. 29. §-a a 24/2017. (V. 17.) FM rendelet 8. §-ával megállapított szöveg.

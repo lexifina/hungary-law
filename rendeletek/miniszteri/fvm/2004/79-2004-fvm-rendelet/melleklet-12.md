@@ -16,13 +16,7 @@
 
 ## 45 mm átmérőjű, zöld alapszínű jelvény, közepén jobbra néző gímszarvas bika fejalakjával, amelyet jobbról és balról félkört alkotó négy-négy darab tölgyfalevél díszít. Az alsó részén ,,HIVATÁSOS VADÁSZ” felirat látható.
 
-## III. A hivatásos vadász szolgálati naplója
-
-## 7K07246O_0
-
-|  | Szolgálat kezdete hó, nap, óra, perc | Esemény, intézkedés (területellenőrzés, vadvédelmi, vadkárelhárírási és vadászattal kapcsolatos bejegyzés) | Szolgálat vége hó, nap, óra, perc |  | ……….. TERÜLETI VADÁSZHATÓSÁG |
-
-|  |  |  |  |  | HIVATÁSOS VADÁSZ SZOLGÁLATI NAPLÓJA (Érvényes visszavonásig!) Igazolom, hogy e szolgálati napló vezetésére ………………………………………………….….. (név) ……………………….……. (születési hely, idő) jogosult A szolgálati napló 100 számozott oldalt tartalmaz. Kelt: 20… ………………… hó ….. napján ……………………………. vadászati hatóság |
+## III.
 
 ## IV. A hivatásos vadász szolgálati egyenruhája és felszerelése
 
@@ -94,6 +88,6 @@
 
 | 6. | Gázspray (tokkal) | 1 db |  |
 
-12. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^247]
+12. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^257]
 
-[^247]: A Vhr. 12. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^257]: A Vhr. 12. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 9. pontja hatályon kívül helyezte.

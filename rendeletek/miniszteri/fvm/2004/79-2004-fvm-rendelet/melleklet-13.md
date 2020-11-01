@@ -1,3 +1,3 @@
-13. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^248]
+13. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^258]
 
-[^248]: A Vhr. 13. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (7) bekezdésével megállapított szöveg.
+[^258]: A Vhr. 13. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (7) bekezdésével megállapított szöveg.

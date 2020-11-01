@@ -1,5 +1,5 @@
 ## (A Vtv. 50–51. §-aihoz)
 
-32. §[^69]
+32. §[^72]
 
-[^69]: A Vhr. 32. §-át a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^72]: A Vhr. 32. §-át a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 1. pontja hatályon kívül helyezte.

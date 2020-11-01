@@ -50,7 +50,7 @@
 
 ## 5.3. A tervben felhasznált adatok és szakirodalom forrásai
 
-7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^242]
+7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^252]
 
 I. A VADÁLLOMÁNYBECSLÉS ÉS AZ ÉVES VADGAZDÁLKODÁSI TERV TARTALMI KÖVETELMÉNYEI
 
@@ -72,7 +72,7 @@ I. A VADÁLLOMÁNYBECSLÉS ÉS AZ ÉVES VADGAZDÁLKODÁSI TERV TARTALMI KÖVETEL
 
 ## D) TÁBLA Mesterséges vadtenyésztés
 
-## Megnevezés (tervezett zárttéri törzsállomány, tervezett értékesítés, tervezett vásárlás, vadászatra történő tervezett kihelyezés, tervezett kihelyezés természetes állomány pótlására, zárttéri törzsállománynak tovább tartva) fácán, fogoly és vadkacsa esetében.
+## Megnevezés (tervezett zárttéri törzsállomány, tervezett értékesítés, tervezett vásárlás, vadászatra történő tervezett kihelyezés, tervezett kihelyezés természetes állomány pótlására, zárttéri törzsállománynak tovább tartva) fácán, fogoly, vörös fogoly és vadkacsa esetében.
 
 ## E) TÁBLA Vadföldek és vadtakarmányozás
 
@@ -136,4 +136,4 @@ tájegységi fővadász
 
 * A megfelelő rész aláhúzandó.
 
-[^242]: A Vhr. 7. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (3) bekezdésével megállapított szöveg.
+[^252]: A Vhr. 7. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (3) bekezdésével megállapított, az 52/2020. (X. 27.) AM rendelet 12. § d) pontja szerint módosított szöveg.
