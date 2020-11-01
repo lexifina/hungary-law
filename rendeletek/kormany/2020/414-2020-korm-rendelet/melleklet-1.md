@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti a vasútbiztonsági tanúsítványra, a biztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokról szóló 40/2006. (VI. 26.) GKM rendelet.
+## 19. §[^1]
 
 1. melléklet a 414/2020. (VIII. 30.) Korm. rendelethez
 
@@ -39,3 +39,5 @@ k) minden egyéb olyan elem, amely a pályahálózat-működtető és a vállalk
 l) az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
 
 m) a vasúti járművezetők ellenőrzésére hivatott rendszer, amelyben biztosítják és ellenőrzik, hogy az általuk alkalmazott vagy szerződtetett vasúti járművezetők engedélyei és tanúsítványai érvényesek legyenek; a rendszer tartalmazza továbbá azokat a megteendő intézkedéseket, amelyek alkalmazására akkor kerül sor, ha az ellenőrzés eredményei megkérdőjelezik egy vasúti járművezetőnek az állásra és az engedély vagy tanúsítvány érvényességének meghosszabbítására való alkalmasságát.
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
