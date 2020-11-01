@@ -1,0 +1,3 @@
+10. § (1) A kulturális munkakör betöltésének feltétele, hogy a munkaviszony létesítéséhez, valamint a munkakör betöltéséhez előírt képesítési és egyéb feltételek teljesítését a munkaviszony megkezdéséig a jelentkező hitelt érdemlően igazolja, az erről szóló iratokat vagy azok másolatát azok igazolása céljából a munkáltatói jogkör gyakorlója részére a munkaügyi irataival történő együttes megőrzésre átadja.
+
+(2) A Közös Európai Referenciakeret (a továbbiakban: KER) szerinti B2 szintet elérő idegennyelv-ismeret igazolása történhet különösen államilag elismert komplex típusú középfokú nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat vagy a szakmai gyakorlat külföldi teljesítéséről szóló igazolás bemutatásával.
