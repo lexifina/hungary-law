@@ -1,7 +1,3 @@
-## 3. § A vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet (a továbbiakban: R2.) 6. § (2) bekezdése a következő b) és c) ponttal egészül ki:
+## 3. §[^4]
 
-## (A kérelemhez csatolni kell:)
-
-## „b) azt a dokumentumot, amellyel a kérelmező igazolni tudja, hogy a szakhatóságokkal a szükséges egyeztetéseket elvégezte,
-
-## c) az érintett közműkezelők hozzájárulását igazoló dokumentumot,”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

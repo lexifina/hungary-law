@@ -1,3 +1,3 @@
-## 7. § Az R2. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(1) A vasúti közlekedési hatóság az építési engedélyt akkor adja meg, ha a tervezett építmény a hatályos jogszabályokban és – a nemzeti ajánlások kivételével – az egyéb vasúti műszaki előírásokban foglalt követelményeknek, az ERTMS-hez kapcsolódó pálya menti berendezések esetében pedig az Ügynökség jóváhagyásának, vagy amennyiben jóváhagyás után változott az ajánlattételhez szükséges dokumentáció tervezete vagy a tervezett műszaki megoldás leírása, az (EU) 2016/796 rendelet 30. cikk (2) bekezdése szerinti eljárás eredményének megfelel.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

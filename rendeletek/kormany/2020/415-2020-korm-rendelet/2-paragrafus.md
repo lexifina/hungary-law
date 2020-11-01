@@ -1,3 +1,3 @@
-## 1. § Az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet (a továbbiakban: R1.) a következő 14. §-sal egészül ki:
+## 1. §[^2]
 
-## „14. § A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvény szerinti súlyos vasúti baleset esetén a vasúti társaság segítséget nyújt a baleset áldozatainak az EK rendelet szerinti panasztételi eljárásokhoz. Ennek során a kommunikációs csatornákon keresztül kapcsolatba lép a baleset áldozatainak családtagjaival, és észszerű keretek között pszichológiai támogatást biztosít a baleset áldozatainak és családtagjainak.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

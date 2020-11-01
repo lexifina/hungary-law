@@ -1,3 +1,3 @@
-## 9. § Az R2. 19. §-a a következő (1a) bekezdéssel egészül ki:
+## 9. §[^10]
 
-## „(1a) Az átjárhatóságot lehetővé tévő pálya menti ellenőrző-irányító és jelző alrendszer, valamint az energia- és infrastruktúra-alrendszerek üzembe helyezésére kizárólag akkor kerülhet sor, ha azok tervezése, kivitelezése és beszerelése megfelel a vasúti rendszer kölcsönös átjárhatóságáról szóló kormányrendeletben meghatározott alapvető követelményeknek, és rendelkezik az e rendeletben meghatározott engedélyekkel.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
