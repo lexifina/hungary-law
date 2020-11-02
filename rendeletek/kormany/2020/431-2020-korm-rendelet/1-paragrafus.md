@@ -4,9 +4,9 @@
 
 a) a tömegközlekedési eszközön,
 
-b) – a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti vendéglátó üzlet (a továbbiakban: vendéglátó üzlet) vendégei kivételével – az üzletben történő vásárlás, illetve az üzletben történő munkavégzés során,
+b)[^1] az üzletben történő vásárlás, illetve az üzletben történő munkavégzés során,
 
-c) – a vendéglátó üzlet vendégei, továbbá az irodák, sportolás céljára szolgáló helyiségek és az üzemi helyiségek területének kivételével – a bevásárlóközpont területén,
+c)[^2] – az irodák, sportolás céljára szolgáló helyiségek és az üzemi helyiségek területének kivételével – a bevásárlóközpont területén,
 
 d) a fellépők kivételével az előadó-művészet valamennyi ágának fellépése céljából megtartott esemény helyszínén, függetlenül annak nyilvánosságától – így különösen színház, tánc-, zeneművészet –,
 
@@ -42,9 +42,17 @@ hc) minden egyéb olyan helyiségben, amelyben ügyintézés céljából ügyfé
 
 i) minden olyan helyiségben, amelyben tömegközlekedési eszközre várakoznak,
 
-j)[^1] a sportolók, az edzők, a mérkőzésvezető, a versenybíró és ezek segítői kivételével a sportrendezvény résztvevője a sportrendezvény helyszínén,
+j)[^3] a sportolók, az edzők, a mérkőzésvezető, a versenybíró és ezek segítői kivételével a sportrendezvény résztvevője a sportrendezvény helyszínén,
 
-k)[^2] a gyülekezési jogról szóló törvény szerinti szabadtéren megtartott gyűlésen részt vevők, ide nem értve a gyűlés felszólalóját a felszólalás időtartamára,
+k)[^4] a gyülekezési jogról szóló törvény szerinti szabadtéren megtartott gyűlésen részt vevők, ide nem értve a gyűlés felszólalóját a felszólalás időtartamára,
+
+l)[^5] a zenés, táncos rendezvény helyszínén – a 6. § (3)–(5) bekezdésében meghatározottak szerint –,
+
+m)[^6] a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti vendéglátó üzletben (a továbbiakban: vendéglátó üzlet)
+
+ma) történő munkavégzés során,
+
+mb) vendégként – a 7. § (3) és (4) bekezdésében meghatározottak szerint –
 
 ## orvosi maszkot, munkavédelmi maszkot, illetve textil vagy más anyagból készült maszkot (a továbbiakban együtt: maszk) olyan módon viselni, hogy az az orrot és a szájat folyamatosan elfedje.
 
@@ -58,5 +66,17 @@ a) az ott foglalkoztatottaknak az ellátottakkal való közvetlen érintkezésko
 
 b) az ellátottaknak a közösségi programok alkalmával és a közösségi terekben való tartózkodás esetén lehetőség szerint
 
-[^1]: Az 1. § (1) bekezdés j) pontját a 464/2020. (X. 22.) Korm. rendelet 1. §-a iktatta be.
-[^2]: Az 1. § (1) bekezdés k) pontját a 464/2020. (X. 22.) Korm. rendelet 1. §-a iktatta be.
+## az (1) bekezdésben meghatározott módon maszkot kell viselniük.
+
+(5)[^7] Az olyan üzletben, amelyben kiegészítő tevékenységként vendéglátó tevékenységet is folytatnak, az ott megvásárolt étel és ital elfogyasztásának időtartama alatt nem kell a maszkot viselni.
+
+(6)[^8] Ha az 1. § (1) bekezdés d)–g) pontja szerinti helyszínen vagy területen, valamint a sportrendezvény helyszínén (e bekezdés alkalmazásában a továbbiakban együtt: helyszín) vendéglátó tevékenységet is folytatnak, a helyszín étel, illetve ital kiszolgálására kialakított területén vagy helyiségében, kizárólag az ott megvásárolt étel és ital elfogyasztásának időtartama alatt nem kell a maszkot viselni.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 468/2020. (X. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöevg.
+[^2]: Az 1. § (1) bekezdés c) pontja a 468/2020. (X. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöevg.
+[^3]: Az 1. § (1) bekezdés j) pontját a 464/2020. (X. 22.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdés k) pontját a 464/2020. (X. 22.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (1) bekezdés l) pontját a 468/2020. (X. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (1) bekezdés m) pontját a 468/2020. (X. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (5) bekezdését a 468/2020. (X. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^8]: Az 1. § (6) bekezdését a 468/2020. (X. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
