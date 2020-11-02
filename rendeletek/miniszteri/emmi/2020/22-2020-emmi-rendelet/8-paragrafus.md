@@ -1,4 +1,4 @@
-## 7. §[^11]
+## 7. §[^21]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 2. § (2), (4)–(6) és (8) bekezdése, az 5. § (3) és (4) bekezdése, a 6. § (2) és (4) bekezdése, a 2., 4–6., 8., 12., 13., 15., 17. melléklet 2020. november 1-jén lép hatályba.
 
-[^11]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
