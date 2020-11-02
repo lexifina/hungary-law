@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból a borászati gépek, technológiai berendezések beszerzéséhez a 2011. évtől igényelhető támogatásról szóló 83/2011. (VIII. 31.) VM rendelet.
+## 19. §[^1]
 
 1. melléklet az 53/2020. (X. 27.) AM rendelethez
 
@@ -279,3 +279,5 @@
 137. Visegrád
 
 138. Zsámbék
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

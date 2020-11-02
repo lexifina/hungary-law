@@ -78,6 +78,6 @@ ad) az új borászati gép, technológiai berendezés gyártási időpontját ig
 
 ae) üzembehelyezési jegyzőkönyv
 
-másolati példányát és
+## másolati példányát és
 
 b) az angoltól eltérő idegen nyelven kiállított dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását.
