@@ -1,4 +1,4 @@
-## 11. §[^17]
+## 11. §[^18]
 
 ## 5. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) A 7. § (5) bekezdése, valamint a 12–14. melléklet 2022. január 1-jén lép hatályba.
 
-[^17]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
