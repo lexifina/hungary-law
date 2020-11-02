@@ -1,4 +1,4 @@
-## 6. §[^6]
+## 6. §[^8]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. § (2) bekezdése és a 2. melléklet 2020. november 1-jén lép hatályba.
 
-[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
