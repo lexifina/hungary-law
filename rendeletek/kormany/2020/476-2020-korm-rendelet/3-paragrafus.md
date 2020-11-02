@@ -1,5 +1,3 @@
-## 2. § Az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 1. melléklete a 3. melléklet szerint módosul.
-
 ## 3. Az e rendelet szerinti feladatátadással összefüggő egyes rendelkezések megállapítása
 
 3. § (1) E rendelet alapján a Miniszterelnöki Kabinetirodához, illetve a miniszterelnök kabinetfőnökéhez átkerülő feladatokkal összefüggésben – a feladat ellátását szolgáló álláshelyekre (ideértve a funkcionális feladatok ellátására szolgáló álláshelyeket is), a feladat finanszírozási forrásaihoz kapcsolódó jogokra és kötelezettségekre, valamint a feladatellátáshoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően –
