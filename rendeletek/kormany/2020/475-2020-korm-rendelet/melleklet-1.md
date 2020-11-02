@@ -1,3 +1,5 @@
-## 24. § Hatályát veszti a kulturális szakemberek szakmai továbbképzésének nyilvántartásba vételi szabályairól szóló 378/2017. (XII. 11.) Korm. rendelet 6. § a) pont ac) alpontja.
+## 24. §[^1]
 
 1. melléklet a 475/2020. (X. 30.) Korm. rendelethez
+
+[^1]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
