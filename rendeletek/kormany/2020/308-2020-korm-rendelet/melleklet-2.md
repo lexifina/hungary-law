@@ -1,9 +1,3 @@
-## Az R1. 2. mellékletében foglalt táblázat 37. sora helyébe a következő rendelkezés lép:
+2. melléklet a 308/2020. (VI. 30.) Korm. rendelethez[^5]
 
-|  | (A | B |
-
-| 1. | Egészségügyi szolgáltató neve | Település) |
-
-| 37. | Büntetés-végrehajtás Egészségügyi Központ | Berettyóújfalu |
-
-2. melléklet a 308/2020. (VI. 30.) Korm. rendelethez
+[^5]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
