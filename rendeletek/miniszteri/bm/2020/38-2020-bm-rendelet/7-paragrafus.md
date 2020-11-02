@@ -1,3 +1,0 @@
-## 6. § Az R1. 15. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2a) A hivatásos állomány Hszt. 78. § (1) bekezdésében meghatározott feltételekkel rendelkező tagja a nyugdíj előtti rendelkezési állományba helyezésre irányuló kérelmét a kérelemben megjelölt időpontot legalább hatvan nappal megelőzően, a szolgálati út betartásával az Országgyűlési Őrség parancsnoka részére nyújtja be. Az Országgyűlési Őrség parancsnoka a feltételek fennállása esetén a kérelem benyújtását követő negyvenöt napon belül állományparancsban rendelkezik a nyugdíj előtti rendelkezési állományba helyezésről és az illetmény összegének megállapításáról.”
