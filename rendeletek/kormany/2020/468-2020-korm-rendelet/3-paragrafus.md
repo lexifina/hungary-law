@@ -1,0 +1,1 @@
+## „(4) Ha az üzemeltető a (3) bekezdés szerinti, a jogellenes helyzet felszámolása érdekében szükséges intézkedéseket nem tette meg, vagy azokat csak részben tette meg, a kereskedelmi hatóság az (1) bekezdésben meghatározott jogkövetkezmények alkalmazásánál az üzemeltető által tett, a jogszerű állapot helyreállítására irányuló intézkedéseket figyelembe veszi.”
