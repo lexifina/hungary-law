@@ -14,4 +14,6 @@ c) részt vesz a feladatkörébe tartozó jogszabálytervezetek előkészítés�
 
 5. Ez a határozat 2020. november 1. napján lép hatályba.
 
-6. Hatályát veszti a kormánybiztos kinevezéséről szóló 1552/2018. (XI. 5.) Korm. határozat.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
