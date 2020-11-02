@@ -1,3 +1,3 @@
-## 3. § A Vhr. 34. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „(5) A vadászati hatóság az eskü letételét követően a hivatásos vadászt nyilvántartásba veszi. A hivatásos vadász tevékenységét csak a nyilvántartásba vételét követően kezdheti meg.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

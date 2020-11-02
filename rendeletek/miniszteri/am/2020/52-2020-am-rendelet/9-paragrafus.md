@@ -1,3 +1,3 @@
-## 8. § A Vhr. 77. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^9]
 
-## „(1) Az elejtett nagyvad trófeáját a bírálatra megfelelően előkészített állapotban, – a vaddisznó kivételével – teljes nagykoponyával kell bemutatni.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

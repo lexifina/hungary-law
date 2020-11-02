@@ -1,3 +1,3 @@
-## 4. § A Vhr. 36. §-a helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „36. § A hivatásos vadász a szolgálati tevékenysége során elejtett vadat a vadászati naplóba és a teríték-nyilvántartásba bejegyzi.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

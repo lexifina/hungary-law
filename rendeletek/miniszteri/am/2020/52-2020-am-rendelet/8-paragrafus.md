@@ -1,3 +1,3 @@
-## 7. § A Vhr. 60. §-a a következő (2) bekezdéssel egészül ki:
+## 7. §[^8]
 
-## „(2) Az (1) bekezdésben meghatározott célból és indokkal a vadászatra jogosult a vad befogásához jogszerű csapdázási módszert is alkalmazhat.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
