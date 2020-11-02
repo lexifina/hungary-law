@@ -1,3 +1,3 @@
-## 16. § A muzeális intézményekben foglalkoztatottak szakmai munkaköreinek betöltéséhez szükséges képesítési feltételekről szóló 11/2002. (IV. 13.) NKÖM rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 16. §[^2]
 
-## „(2) E rendelet hatálya nem terjed ki a kulturális tevékenységet végző közalkalmazottakról szóló 475/2020. (X. 30.) Korm. rendelet hatálya alá tartozó közalkalmazottakra, valamint a kulturális intézményben foglalkoztatottak munkaköreiről és foglalkoztatási követelményeiről, az intézményvezetői pályázat lefolytatásának rendjéről, valamint egyes kulturális tárgyú rendeletek módosításáról szóló 39/2020. (X. 30.) EMMI rendelet hatálya alá tartozó munkavállalókra.”
+[^2]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

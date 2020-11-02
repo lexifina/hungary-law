@@ -1,9 +1,11 @@
-## 17. § A kulturális szakemberek továbbképzéséről szóló 32/2017. (XII. 12.) EMMI rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
+## 17. §[^3]
 
-## „1. § Az e rendeletben foglaltakat kell alkalmazni a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) hatálya alá tartozó országos múzeum, országos szakmúzeum, megyei hatókörű városi múzeum, területi múzeum, nyilvános könyvtár, országos szakkönyvtár, megyei hatókörű városi könyvtár, közművelődési intézmény és közösségi színtér, valamint a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény hatálya alá tartozó közlevéltár (a továbbiakban együtt: kulturális intézmény) közalkalmazotti jogviszony vagy munkaviszony alapján, szakmai munkakörben, legalább 6 órában foglalkoztatott közép- és felsőfokú végzettségű szakemberei (a továbbiakban: kulturális szakemberek) továbbképzésének tervezésére, lebonyolítására, finanszírozására.”
+## 18. §
 
-## 18. § Hatályát veszti az R.
+a)[^4]
 
-a) 5. § b) pontjában az „Országos Képzési Jegyzékben szereplő,” szövegrész és
+b)[^5]
 
-b) 9. §-a.
+[^3]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 18. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 18. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
