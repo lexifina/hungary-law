@@ -1,3 +1,0 @@
-## 4. § Az R. 18. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) A támogatási szerződés előkészítése során a támogató arra figyelemmel dönt a támogatási igények jóváhagyásáról, hogy a költségtervben szereplő egyes támogatási igények nem haladhatják meg a miniszter által az egyes költségterv rovatokon nyújtható költségvetési támogatási tételekkel kapcsolatban meghatározott minőségbiztosítási rendszerben (a továbbiakban: benchmark-rendszer) foglaltakat és annak követelményeit. A miniszter a kedvezményezett – támogatási szerződés megkötése vagy módosítása során tett – egyedi írásbeli kérelme alapján, különös méltánylást érdemlő esetben engedélyezheti a benchmark-rendszertől és követelményeitől való eltérést.”
