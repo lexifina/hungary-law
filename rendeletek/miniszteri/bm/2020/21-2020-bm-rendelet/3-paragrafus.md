@@ -1,3 +1,5 @@
-## 2. § Az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet (a továbbiakban: R1.) 7. melléklete az 1. melléklet szerint módosul.
+## 2. §[^3]
 
 ## 3. A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet módosítása
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

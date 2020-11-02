@@ -1,3 +1,5 @@
-## 1. § A büntetés-végrehajtási szervek területére történő be- és kilépés, valamint a büntetés-végrehajtási szervek területén tartózkodás részletes szabályairól szóló 44/2007. (IX. 19.) IRM rendelet 11. § (1) bekezdésében a „Büntetés-végrehajtás Központi Kórház” szövegrész helyébe a „Büntetés-végrehajtás Egészségügyi Központ” szöveg lép.
+## 1. §[^2]
 
 ## 2. Az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
