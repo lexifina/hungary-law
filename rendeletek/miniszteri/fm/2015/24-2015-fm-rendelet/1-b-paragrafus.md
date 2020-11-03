@@ -1,12 +1,12 @@
 ## az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás is nyújtható,
 
-## 1/B. §[^6] A Kvtv. 1. melléklet XII. Agrárminisztérium fejezet 20/05/08/00 „Nemzeti agrártámogatások” előirányzata vonatkozásában a támogatási jogcím meghirdetését megelőzően öt munkanappal a pénzügyminiszter előzetes tájékoztatása szükséges a következő felhasználási célok esetében:
+## 1/B. §[^7] A Kvtv. 1. melléklet XII. Agrárminisztérium fejezet 20/05/08/00 „Nemzeti agrártámogatások” előirányzata vonatkozásában a támogatási jogcím meghirdetését megelőzően öt munkanappal a pénzügyminiszter előzetes tájékoztatása szükséges a következő felhasználási célok esetében:
 
-a)[^7] a sertés- és baromfiágazat rendkívüli jövedelempótló támogatása,
+a)[^8] a sertés- és baromfiágazat rendkívüli jövedelempótló támogatása,
 
 b) az időjárási és más előre nem látható körülmények miatt átmenetileg piaci zavarokkal küzdő növénytermesztési ágazatok jövedelempótló támogatása,
 
 c) az egyes speciális helyzetben lévő mezőgazdasági vállalkozások rendkívüli jövedelempótló támogatása.
 
-[^6]: Az 1/B. §-t a 46/2016. (VII. 13.) FM rendelet 2. §-a iktatta be, szövege a 86/2016. (XII. 20.) FM rendelet 3. § c) pontja, nyitó szövegrésze a 25/2018. (X. 1.) AM rendelet 2. § a) pontja, a 36/2019. (VII. 26.) AM rendelet 2. § 2. pontja szerint módosított szöveg.
-[^7]: Az 1/B. § a) pontja a 25/2018. (X. 1.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: Az 1/B. §-t a 46/2016. (VII. 13.) FM rendelet 2. §-a iktatta be, szövege a 86/2016. (XII. 20.) FM rendelet 3. § c) pontja, nyitó szövegrésze a 25/2018. (X. 1.) AM rendelet 2. § a) pontja, a 36/2019. (VII. 26.) AM rendelet 2. § 2. pontja szerint módosított szöveg.
+[^8]: Az 1/B. § a) pontja a 25/2018. (X. 1.) AM rendelet 2. § b) pontja szerint módosított szöveg.
