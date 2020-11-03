@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-31-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-11-02 | 2020-31-30-41.1 | 31/2020. (XI. 2.) OGY határozat |
+| 2020-11-03 | 2020-31-30-41.2 | 2010: CXXX. törvény |
