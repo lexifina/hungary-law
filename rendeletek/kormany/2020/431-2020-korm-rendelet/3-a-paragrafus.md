@@ -1,4 +1,4 @@
-## 1/A. [^20] A rendőrség kereskedelmi hatóságként történő kijelölése
+## 1/A. [^21] A rendőrség kereskedelmi hatóságként történő kijelölése
 
 ## 3/A. § A Kormány kereskedelmi hatóságként a rendőrséget is kijelöli
 
@@ -6,4 +6,4 @@ a) a 2. § (5) bekezdés b) pontja szerinti ellenőrzés lefolytatása, illetve
 
 b) a 3. § (1) bekezdése szerinti jogkövetkezmények alkalmazása
 
-[^20]: Az 1/A. alcímet (3/A. §) a 468/2020. (X. 29.) Korm. rendelet 3. §-a iktatta be.
+[^21]: Az 1/A. alcímet (3/A. §) a 468/2020. (X. 29.) Korm. rendelet 3. §-a iktatta be.

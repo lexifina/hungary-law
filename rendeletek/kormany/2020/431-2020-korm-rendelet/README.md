@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-431-20-
 | 2020-10-10 | 2020-431-20-22.6 | 453/2020. (X. 9.) Korm. rendelet |
 | 2020-10-23 | 2020-431-20-22.7 | 464/2020. (X. 22.) Korm. rendelet |
 | 2020-11-02 | 2020-431-20-22.8 | 468/2020. (X. 29.) Korm. rendelet |
+| 2020-11-04 | 2020-431-20-22.9 | 468/2020. (X. 29.) Korm. rendelet |

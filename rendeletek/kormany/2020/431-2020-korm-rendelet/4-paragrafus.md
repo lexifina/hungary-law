@@ -1,5 +1,3 @@
-## céljából.
-
 ## 2. A köznevelési és szakképzési védelmi intézkedések
 
 4. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti köznevelési intézménybe, valamint a szakképzésről szóló 2019. évi LXXX. törvény szerinti szakképző intézménybe (a továbbiakban együtt: intézmény)
