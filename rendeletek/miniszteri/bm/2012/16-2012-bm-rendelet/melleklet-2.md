@@ -24,7 +24,7 @@
 
 | 11. | Leszállóhely létesítésére és megszüntetésére irányuló eljárásban tűzvédelmi szakhatósági közreműködés | 13 000 |
 
-2. melléklet a 16/2012. (IV. 3.) BM rendelethez
+2. melléklet a 16/2012. (IV. 3.) BM rendelethez[^3]
 
 A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és területi szerveinek előirányzat-felhasználási keretszámla számai
 
@@ -40,7 +40,7 @@ A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és terü
 
 | 5. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
 
-| 6. | Csongrád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 6. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
 
 | 7. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
 
@@ -71,3 +71,5 @@ A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és terü
 | 20. | Veszprém Megyei Katasztrófavédelmi Igazgatóság | 10048005-00283717-00000000 |
 
 | 21. | Zala Megyei Katasztrófavédelmi Igazgatóság | 10049006-00283724-00000000 |
+
+[^3]: A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 10. §-a szerint módosított szöveg.
