@@ -4,7 +4,7 @@ a)[^11] az 1. § (1) bekezdés a)–c) és f) pontja szerinti kötelezettek eset
 
 b)[^12] ha az 1. § (1) bekezdés a)–c) és f) pontja szerinti kötelezett az engedélyesi tevékenységét a tárgyévben kezdi meg, akkor a felügyeleti díj előleget egy összegben az engedély véglegessé válását követő harmincadik napig.
 
-(2)[^13] Az (1) bekezdés a) pontja esetében a felügyeleti díj első részletének alapja a tárgyévet megelőző év engedélyesi tevékenysége várható értékesítési nettó árbevételének 50%-a, második részlete az engedélyesi tevékenységre vonatkozó értékesítés nettó árbevételéből az ágazati törvény előírásai szerint megállapított teljes felügyeleti díj és a felügyeleti díj első részletének különbözete.
+(2)[^13] Az (1) bekezdés a) pontja esetében a felügyeleti díj első részletének alapja a tárgyévet megelőző év engedélyesi tevékenysége várható értékesítési nettó árbevételének 50%-a, második részlete az engedélyesi tevékenységre vonatkozó értékesítés nettó árbevételéből az 1. § (1) bekezdés a)–c) és f) pontja szerinti törvényi rendelkezésben megállapított teljes felügyeleti díj és a felügyeleti díj első részletének különbözete.
 
 (3) Az 1. § (1) bekezdés e) pontja szerinti kötelezett a tárgyévre vonatkozó felügyeleti díjat két részletben, a tárgyév május 31. napjáig és november 30. napjáig fizeti meg. Ha az 1. § (1) bekezdés e) pontja szerinti kötelezett az engedélyesi tevékenységét a tárgyévben kezdi meg, akkor a felügyeleti díj időarányos részét egy összegben a Vksztv. szerinti működési engedély véglegessé válását követő harmincadik napig fizeti meg.
 
@@ -14,4 +14,4 @@ b)[^12] ha az 1. § (1) bekezdés a)–c) és f) pontja szerinti kötelezett az 
 
 [^11]: A 4. § (1) bekezdés a) pontja a 6/2020. (VI. 29.) MEKH rendelet 3. § a) pontja szerint módosított szöveg.
 [^12]: A 4. § (1) bekezdés b) pontja a 6/2020. (VI. 29.) MEKH rendelet 3. § a) pontja szerint módosított szöveg.
-[^13]: [A 4. § (2) bekezdésének a 6/2020. (VI. 29.) MEKH rendelet 3. § d) pontjával elrendelt módosítása, amely szerint az „ágazati törvényben” szövegrész helyébe az „1. § (1) bekezdés a)–c) és f) pontja szerinti törvényi rendelkezésben” szöveg lép, nem vezethető át.]
+[^13]: A 4. § (2) bekezdése a 10/2020. (XI. 4.) MEKH rendelet 1. §-ával megállapított szöveg.
