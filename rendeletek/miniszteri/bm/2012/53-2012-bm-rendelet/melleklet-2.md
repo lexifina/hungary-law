@@ -42,7 +42,7 @@ A megyei (fővárosi) rendőr-főkapitányságok előirányzat-felhasználási k
 
 | 6. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
 
-| 7. | Csongrád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| 7. | Csongrád-Csanád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
 
 | 8. | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
 
@@ -72,4 +72,4 @@ A megyei (fővárosi) rendőr-főkapitányságok előirányzat-felhasználási k
 
 | 21. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-[^2]: A 2. melléklet a 44/2017. (XII. 29.) BM rendelet 81. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 44/2017. (XII. 29.) BM rendelet 81. §-a, a 39/2020. (XI. 4.) BM rendelet 11. §-a szerint módosított szöveg.
