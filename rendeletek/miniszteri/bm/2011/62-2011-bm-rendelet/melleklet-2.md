@@ -84,7 +84,7 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 | 6. | KATASZTRÓFAVÉDELEM | 5130. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság |
 
-| 7. | KATASZTRÓFAVÉDELEM | 5140. | Csongrád Megyei Katasztrófavédelmi Igazgatóság |
+| 7. | KATASZTRÓFAVÉDELEM | 5140. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság |
 
 | 8. | KATASZTRÓFAVÉDELEM | 5150. | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
@@ -116,4 +116,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 5. Az igazolvány színe: kék
 
-[^22]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta.
+[^22]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta. A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 7. §-a szerint módosított szöveg.
