@@ -58,6 +58,14 @@
 
 | 1. | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-200849 | 2022. december 31. |
 
+## V. Tulajdonosi joggyakorló: a HUMDA Magyar Autó-Motorsport Fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság | 09-09-031988 | 2022. december 31. |
+
 4. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^6]
 
 A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
