@@ -50,7 +50,7 @@
 
 ## aláírás
 
-7. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^28]
+7. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^30]
 
 Foglalkozási-egészségügyi szolgálat (FESZ) orvosa által végzett védőoltások bejelentése
 
@@ -102,4 +102,4 @@ PH.
 
 aláírás
 
-[^28]: A 7. számú mellékletet a 62/2016. (XII. 29.) NGM rendelet 51. § (5) bekezdése iktatta be.
+[^30]: A 7. számú mellékletet a 62/2016. (XII. 29.) NGM rendelet 51. § (5) bekezdése iktatta be.

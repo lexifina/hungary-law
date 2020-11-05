@@ -12,4 +12,7 @@ a) az Európai Közösségek Tanácsának 1990. június 28-án kelt, a biológia
 
 b) a munkájuk során biológiai anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2000/54/EK irányelvnek
 
+c)[^24] a 2000/54/EK európai parlamenti és tanácsi irányelv III. mellékletének a SARS-CoV-2 vírusnak az emberek számára tudvalevőleg fertőző betegségeket okozó biológiai anyagok listájára való felvétele tekintetében történő módosításáról és az (EU) 2019/1833 bizottsági irányelv módosításáról szóló, 2020. június 3-i 2020/739 bizottsági irányelvnek
+
 [^23]: A 17. § (2) bekezdése a 18/2007. (V. 10.) SZMM rendelet 12. § (13) bekezdésével megállapított szöveg.
+[^24]: A 17. § (2) bekezdés c) pontját a 40/2020. (XI. 4.) ITM rendelet 1. §-a iktatta be.

@@ -4,15 +4,13 @@
 
 ## [Lásd: 2/1998. (I. 16.) MüM rendelet a munkahelyi egészségvédelmi és biztonsági jelzésekről]
 
-3. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^25]
+3. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^26]
 
 ## Biológiai tényezők csoportba való sorolása
 
-Biológiai tényezők csoportba való sorolása
-
 1. A jogszabály céljának megfelelően kizárólag azon tényezőket kell felvenni a besorolási listára, amelyekről ismeretes, hogy az embert megfertőzik. Adott esetben fel van tüntetve az említett tényezők toxikus és allergizáló hatása. Ki vannak zárva az olyan állati és növényi kórokozók, amelyekről ismeretes, hogy nem hatnak az emberre. A besorolt biológiai tényezők ezen első listájának összeállításakor a genetikailag módosított mikroorganizmusok nem kerültek figyelembevételre.
 
-2. A besorolt tényezők listája az említett tényezők egészséges munkavállalóra gyakorolt hatásán alapul. Nincsenek külön figyelembe véve az olyan személyekre gyakorolt sajátos hatások, akiknek érzékenységét egy vagy több egyéb ok befolyásolhatja, mint pl. előzetes betegség, gyógyszer alkalmazása, veszélyeztetett immunitás, terhesség vagy szoptatás.
+2. A besorolt tényezők listája az említett tényezők egészséges munkavállalóra gyakorolt hatásán alapul. Nincsenek külön figyelembe véve az olyan személyekre gyakorolt sajátos hatások, akiknek érzékenységét egy vagy több egyéb ok befolyásolhatja, mint pl. előzetes betegség, gyógyszer alkalmazása, károsodott immunműködés, terhesség vagy szoptatás.
 
 Az ilyen munkavállalók többletkockázatát a jogszabály által előírt kockázat értékelés részeként kell tekintetbe venni. Egyes ipari eljárások, egyes laboratóriumi munkák vagy olyan állatokkal végzett munkák esetében, amelyek során ténylegesen vagy potenciálisan fennáll a 3. vagy 4. csoportba tartozó biológiai tényezők expozíciójának a veszélye, minden technikai óvintézkedésnek meg kell felelnie a rendeletben előírtaknak.
 
@@ -24,866 +22,896 @@ Az ilyen munkavállalók többletkockázatát a jogszabály által előírt kock
 
 6. A besorolt tényezők listája a lista összeállításának időpontjában fennálló tudományos álláspontot tükrözi. A listát korszerűsíteni kell, mihelyt már nem tükrözi a tudomány legújabb álláspontját.
 
-7. Minden olyan vírus, amelyet emberben elkülönítettek, és amelyet a jelen melléklet még nem vett figyelembe és nem sorolt be, minimálisan a 2. csoportba kerüljön besorolásra, kivéve ha bizonyítható, hogy azok emberben nem okoznak betegséget.
+7. Minden olyan vírus, amelyet emberben elkülönítettek és amelyet a jelen melléklet még nem vett figyelembe és nem sorolt be, minimálisan a 2. csoportba kerüljön besorolásra, kivéve ha bizonyítható, hogy azok emberben nem okoznak betegséget.
 
 8. Egyes harmadik csoportba sorolt biológiai tényezők, amelyeket a mellékelt listában két csillag (**) jelöl, korlátozott fertőzésveszélyt jelenthetnek a munkavállalókra, mert általában belégzéssel nem fertőznek.
 
 9. A paraziták besorolásának megfelelő elkülönítési követelményei kizárólag a parazita életciklusának azon szakaszára vonatkoznak, amelyben a munkahelyen tartózkodó emberekre fertőzési veszélyt jelentenek.
 
-10. A lista azon esetekben, amelyekben a biológiai tényezők allergizáló vagy mérgező hatást válthatnak ki, külön jelzi azt, ha hatékony oltóanyag áll rendelkezésre, vagy ha célszerű a veszélyeztetett személyek listáját tíz évnél tovább megőrizni.
+10. A lista azon esetekben, amelyekben a biológiai tényezők allergizáló vagy mérgező hatást válthatnak ki, külön jelzi azt, ha hatékony oltóanyag áll rendelkezésre vagy ha célszerű a veszélyeztetett személyek listáját tíz évnél tovább megőrizni.
 
-Az alábbi táblázatok „Megjegyzés” oszlopában az előbbiekben említettek jelzése az alábbi betűkkel történik:
+11. Az alábbi táblázatok „Megjegyzés” oszlopában az előbbiekben említettek jelzése az alábbi betűkkel történik:
 
-A: Allergizáló hatás lehetséges.
+11.1. A: Allergizáló hatás lehetséges.
 
-D: Az ezen biológiai tényező veszélyének kitett munkavállalók listáját az utolsó ismert veszélyeztetettség időpontjától számított tíz évnél tovább meg kell őrizni.
+11.2. D: Az ezen biológiai tényező veszélyének kitett munkavállalók listáját az utolsó ismert veszélyeztetettség időpontjától számított tíz évnél tovább meg kell őrizni.
 
-T: Toxintermelés.
+11.3. T: Toxintermelés.
 
-V: Hatékony oltóanyag áll rendelkezésre.
+11.4. V: Hatékony oltóanyag áll rendelkezésre.
 
-BAKTÉRIUMOK ÉS HASONLÓ ORGANIZMUSOK
+12. BAKTÉRIUMOK ÉS HASONLÓ ORGANIZMUSOK
 
-A listában szereplő biológiai tényezők esetében az „spp.” megjelölés olyan egyéb fajokra utal, amelyek emberi kórokozóként ismeretesek.
+|  | A | B | C |
 
-| Biológiai tényező | Csoport | Megjegyzések |
+| 1. | Biológiai tényező | Csoport | Megjegyzések |
 
-| Actinobacillus actinomycetemcomitans | 2 |  |
+| 2. | Actinobacillus actinomycetemcomitans | 2 |  |
 
-| Actinomadura madurae | 2 |  |
+| 3. | Actinomadura madurae | 2 |  |
 
-| Actinomadura pelletieri | 2 |  |
+| 4. | Actinomadura pelletieri | 2 |  |
 
-| Actinomyces gerencseriae | 2 |  |
+| 5. | Actinomyces gerencseriae | 2 |  |
 
-| Actinomyces israelii | 2 |  |
+| 6. | Actinomyces israelii | 2 |  |
 
-| Actinomyces pyogenes | 2 |  |
+| 7. | Actinomyces pyogenes | 2 |  |
 
-| Actinomyces spp. | 2 |  |
+| 8. | Actinomyces spp. | 2 |  |
 
-| Arcanobacterium haemolyticum (Corynebacterium haenolyticum) | 2 |  |
+| 9. | Arcanobacterium haemolyticum (Corynebacterium haenolyticum) | 2 |  |
 
-| Bacillus anthracis | 3 |  |
+| 10. | Bacillus anthracis | 3 |  |
 
-| Bacteroides fragilis | 2 |  |
+| 11. | Bacteroides fragilis | 2 |  |
 
-| Bartonella bacillifonnis | 2 |  |
+| 12. | Bartonella bacillifonnis | 2 |  |
 
-| Bartonella quintana (Rochalimaea quintana) | 2 |  |
+| 13. | Bartonella quintana (Rochalimaea quintana) | 2 |  |
 
-| Bartonella (Rochalinea) spp. | 2 |  |
+| 14. | Bartonella (Rochalinea) spp. | 2 |  |
 
-| Bordetella bronchiseptica | 2 |  |
+| 15. | Bordetella bronchiseptica | 2 |  |
 
-| Bordetella parapertussis | 2 |  |
+| 16. | Bordetella parapertussis | 2 |  |
 
-| Bordetella pertussis | 2 | V |
+| 17. | Bordetella pertussis | 2 | V |
 
-| Borrelia burgdorferi | 2 |  |
+| 18. | Borrelia burgdorferi | 2 |  |
 
-| Borrelia duttonii | 2 |  |
+| 19. | Borrelia duttonii | 2 |  |
 
-| Borrelia recurrentis | 2 |  |
+| 20. | Borrelia recurrentis | 2 |  |
 
-| Borrelia spp. | 2 |  |
+| 21. | Borrelia spp. | 2 |  |
 
-| Brucella abortus | 3 |  |
+| 22. | Brucella abortus | 3 |  |
 
-| Brucella canis | 3 |  |
+| 23. | Brucella canis | 3 |  |
 
-| Brucella melitensis | 3 |  |
+| 24. | Brucella melitensis | 3 |  |
 
-| Brucella suis | 3 |  |
+| 25. | Brucella suis | 3 |  |
 
-| Burkholderia mallei (Pseudomonas mallei) | 3 |  |
+| 26. | Burkholderia mallei (Pseudomonas mallei) | 3 |  |
 
-| Burkholderia pseudomallei (Pseudomonas pseudomallei) | 3 |  |
+| 27. | Burkholderia pseudomallei (Pseudomonas pseudomallei) | 3 |  |
 
-| Campylobacter fetus | 2 |  |
+| 28. | Campylobacter fetus | 2 |  |
 
-| Campylobacter jejuni | 2 |  |
+| 29. | Campylobacter jejuni | 2 |  |
 
-| Campylobacter spp. | 2 |  |
+| 30. | Campylobacter spp. | 2 |  |
 
-| Cardiobacterium hominis | 2 |  |
+| 31. | Cardiobacterium hominis | 2 |  |
 
-| Chlamydia pneumoniae | 2 |  |
+| 32. | Chlamydia pneumoniae | 2 |  |
 
-| Chlamydia trachomatis | 2 |  |
+| 33. | Chlamydia trachomatis | 2 |  |
 
-| Chlamydia psittaci (madarakat fertőző törzsek) | 3 |  |
+| 34. | Chlamydia psittaci (madarakat fertőző törzsek) | 3 |  |
 
-| Chlamydia psittaci (egyéb törzsek) | 2 |  |
+| 35. | Chlamydia psittaci (egyéb törzsek) | 2 |  |
 
-| Clostridium botulinum | 2 | T |
+| 36. | Clostridium botulinum | 2 | T |
 
-| Clostridium perfringens | 2 |  |
+| 37. | Clostridium perfringens | 2 |  |
 
-| Clostridium tetani | 2 | T, V |
+| 38. | Clostridium tetani | 2 | T, V |
 
-| Clostridium spp. | 2 |  |
+| 39. | Clostridium spp. | 2 |  |
 
-| Corynebacterium diphtheriae | 2 | T, V |
+| 40. | Corynebacterium diphtheriae | 2 | T, V |
 
-| Corynebacterium minutissimum | 2 |  |
+| 41. | Corynebacterium minutissimum | 2 |  |
 
-| Corynebacterium pseudotuberculosis | 2 |  |
+| 42. | Corynebacterium pseudotuberculosis | 2 |  |
 
-| Corynebacterium spp. | 2 |  |
+| 43. | Corynebacterium spp. | 2 |  |
 
-| Coxiella burnetii | 3 |  |
+| 44. | Coxiella burnetii | 3 |  |
 
-| Edwardsiella tarda | 2 |  |
+| 45. | Edwardsiella tarda | 2 |  |
 
-| Ehrlichia sennetsu (Rickettsia sennetsu) | 2 |  |
+| 46. | Ehrlichia sennetsu (Rickettsia sennetsu) | 2 |  |
 
-| Ehrlichia spp. | 2 |  |
+| 47. | Ehrlichia spp. | 2 |  |
 
-| Eikenella corrodens | 2 |  |
+| 48. | Eikenella corrodens | 2 |  |
 
-| Enterobacter aerogenes/cloacae | 2 |  |
+| 49. | Enterobacter aerogenes/cloacae | 2 |  |
 
-| Enterobacter spp. | 2 |  |
+| 50. | Enterobacter spp. | 2 |  |
 
-| Enterococcus spp. | 2 |  |
+| 51. | Enterococcus spp. | 2 |  |
 
-| Erysipelothrix rhusiopathiae | 2 |  |
+| 52. | Erysipelothrix rhusiopathiae | 2 |  |
 
-| Escherichia coli (a nem kórokozó törzsek kivételével) | 2 |  |
+| 53. | Escherichia coli (a nem kórokozó törzsek kivételével) | 2 |  |
 
-| Escherichia coli, verocitotoxint képző törzsek (pl. O157:H7 vagy O103) | 3** |  |
+| 54. | Escherichia coli, verocitotoxint képző törzsek (pl. O157:H7 vagy O103) | 3** |  |
 
-| Flavobacterium meningosepticum | 2 |  |
+| 55. | Flavobacterium meningosepticum | 2 |  |
 
-| Fluoribacter bozemanae (Legionella) | 2 |  |
+| 56. | Fluoribacter bozemanae (Legionella) | 2 |  |
 
-| Francisella tularensis (A. típus) | 3 |  |
+| 57. | Francisella tularensis (A. típus) | 3 |  |
 
-| Francisella tularensis (B. típus) | 2 |  |
+| 58. | Francisella tularensis (B. típus) | 2 |  |
 
-| Fusobacterium necrophorum | 2 |  |
+| 59. | Fusobacterium necrophorum | 2 |  |
 
-| Gardnerella vaginalis | 2 |  |
+| 60. | Gardnerella vaginalis | 2 |  |
 
-| Haemophilus ducreyi | 2 |  |
+| 61. | Haemophilus ducreyi | 2 |  |
 
-| Haemophilus influenzae | 2 |  |
+| 62. | Haemophilus influenzae | 2 |  |
 
-| Haemophilus spp. | 2 |  |
+| 63. | Haemophilus spp. | 2 |  |
 
-| Helicobacter pylori | 2 |  |
+| 64. | Helicobacter pylori | 2 |  |
 
-| Klebsiella oxytoca | 2 |  |
+| 65. | Klebsiella oxytoca | 2 |  |
 
-| Klebsiella pneumoniae | 2 |  |
+| 66. | Klebsiella pneumoniae | 2 |  |
 
-| Klebsiella spp. | 2 |  |
+| 67. | Klebsiella spp. | 2 |  |
 
-| Legionella pneumophila | 2 |  |
+| 68. | Legionella pneumophila | 2 |  |
 
-| Legionella spp. | 2 |  |
+| 69. | Legionella spp. | 2 |  |
 
-| Leptospira interrogans (minden szerovariáns) | 2 |  |
+| 70. | Leptospira interrogans (minden szerovariáns) | 2 |  |
 
-| Listeria monocytogenes | 2 |  |
+| 71. | Listeria monocytogenes | 2 |  |
 
-| Listeria ivanovii | 2 |  |
+| 72. | Listeria ivanovii | 2 |  |
 
-| Morganella morganii | 2 |  |
+| 73. | Morganella morganii | 2 |  |
 
-| Mycobacterium africanum | 3 | V |
+| 74. | Mycobacterium africanum | 3 | V |
 
-| Mycobacterium avium/intracellulare | 2 |  |
+| 75. | Mycobacterium avium/intracellulare | 2 |  |
 
-| Mycobacterium bovis (a BCG törzs kivételével) | 3 | V |
+| 76. | Mycobacterium bovis (a BCG törzs kivételével) | 3 | V |
 
-| Mycobacterium chelonae | 2 |  |
+| 77. | Mycobacterium chelonae | 2 |  |
 
-| Mycobacterium fortuitum | 2 |  |
+| 78. | Mycobacterium fortuitum | 2 |  |
 
-| Mycobacterium kansasii | 2 |  |
+| 79. | Mycobacterium kansasii | 2 |  |
 
-| Mycobacterium leprae | 3 |  |
+| 80. | Mycobacterium leprae | 3 |  |
 
-| Mycobacterium malmoense | 2 |  |
+| 81. | Mycobacterium malmoense | 2 |  |
 
-| Mycobacterium marinum | 2 |  |
+| 82. | Mycobacterium marinum | 2 |  |
 
-| Mycobacterium microti | 3** |  |
+| 83. | Mycobacterium microti | 3** |  |
 
-| Mycobacterium paratuberculosis | 2 |  |
+| 84. | Mycobacterium paratuberculosis | 2 |  |
 
-| Mycobacterium scrofulaceum | 2 |  |
+| 85. | Mycobacterium scrofulaceum | 2 |  |
 
-| Mycobacterium simiae | 2 |  |
+| 86. | Mycobacterium simiae | 2 |  |
 
-| Mycobacterium szulgai | 2 |  |
+| 87. | Mycobacterium szulgai | 2 |  |
 
-| Mycobacterium tuberculosis | 3 | V |
+| 88. | Mycobacterium tuberculosis | 3 | V |
 
-| Mycobacterium ulcerans | 3** |  |
+| 89. | Mycobacterium ulcerans | 3** |  |
 
-| Mycobacterium xenopi | 2 |  |
+| 90. | Mycobacterium xenopi | 2 |  |
 
-| Mycoplasma caviae | 2 |  |
+| 91. | Mycoplasma caviae | 2 |  |
 
-| Mycoplasma hominis | 2 |  |
+| 92. | Mycoplasma hominis | 2 |  |
 
-| Mycoplasma pneumoniae | 2 |  |
+| 93. | Mycoplasma pneumoniae | 2 |  |
 
-| Neisseria gonorrhoeae | 2 |  |
+| 94. | Neisseria gonorrhoeae | 2 |  |
 
-| Neisseria meningitidis | 2 | V |
+| 95. | Neisseria meningitidis | 2 | V |
 
-| Nocardia asteroides | 2 |  |
+| 96. | Nocardia asteroides | 2 |  |
 
-| Nocardia brasiliensis | 2 |  |
+| 97. | Nocardia brasiliensis | 2 |  |
 
-| Nocardia farcinica | 2 |  |
+| 98. | Nocardia farcinica | 2 |  |
 
-| Nocardia nova | 2 |  |
+| 99. | Nocardia nova | 2 |  |
 
-| Nocardia otitidiscaviarum | 2 |  |
+| 100. | Nocardia otitidiscaviarum | 2 |  |
 
-| Pasteurella multocida | 2 |  |
+| 101. | Pasteurella multocida | 2 |  |
 
-| Pasteurella spp. | 2 |  |
+| 102. | Pasteurella spp. | 2 |  |
 
-| Peptostreptococcus anaerobius | 2 |  |
+| 103. | Peptostreptococcus anaerobius | 2 |  |
 
-| Plesiomonas shigelloides | 2 |  |
+| 104. | Plesiomonas shigelloides | 2 |  |
 
-| Porphyromonas spp. | 2 |  |
+| 105. | Porphyromonas spp. | 2 |  |
 
-| Prevotella spp. | 2 |  |
+| 106. | Prevotella spp. | 2 |  |
 
-| Proteus mirabilis | 2 |  |
+| 107. | Proteus mirabilis | 2 |  |
 
-| Proteus penneri | 2 |  |
+| 108. | Proteus penneri | 2 |  |
 
-| Proteus vulgaris | 2 |  |
+| 109. | Proteus vulgaris | 2 |  |
 
-| Providencia alcalifaciens | 2 |  |
+| 110. | Providencia alcalifaciens | 2 |  |
 
-| Providencia rettgeri | 2 |  |
+| 111. | Providencia rettgeri | 2 |  |
 
-| Providencia spp. | 2 |  |
+| 112. | Providencia spp. | 2 |  |
 
-| Pseudomonas aeruginosa | 2 |  |
+| 113. | Pseudomonas aeruginosa | 2 |  |
 
-| Rhodococcus equi | 2 |  |
+| 114. | Rhodococcus equi | 2 |  |
 
-| Rickettsia akari | 3** |  |
+| 115. | Rickettsia akari | 3** |  |
 
-| Rickettsia canada | 3** |  |
+| 116. | Rickettsia canada | 3** |  |
 
-| Rickettsia conorii | 3 |  |
+| 117. | Rickettsia conorii | 3 |  |
 
-| Rickettsia montana | 3** |  |
+| 118. | Rickettsia montana | 3** |  |
 
-| Rickettsia typhi (Rickettsia mooseri) | 3 |  |
+| 119. | Rickettsia typhi (Rickettsia mooseri) | 3 |  |
 
-| Rickettsia prowazekii | 3 |  |
+| 120. | Rickettsia prowazekii | 3 |  |
 
-| Rickettsia rickettsii | 3 |  |
+| 121. | Rickettsia rickettsii | 3 |  |
 
-| Rickettsia tsutsugamushi | 3 |  |
+| 122. | Rickettsia tsutsugamushi | 3 |  |
 
-| Rickettsia spp. | 2 |  |
+| 123. | Rickettsia spp. | 2 |  |
 
-| Salmonella arizonae | 2 |  |
+| 124. | Salmonella arizonae | 2 |  |
 
-| Salmonella enteritidis | 2 |  |
+| 125. | Salmonella enteritidis | 2 |  |
 
-| Salmonella typhimurium | 2 |  |
+| 126. | Salmonella typhimurium | 2 |  |
 
-| Salmonella paratyphi A, B, C | 2 | V |
+| 127. | Salmonella paratyphi A, B, C | 2 | V |
 
-| Salmonella typhi | 3** | V |
+| 128. | Salmonella typhi | 3** | V |
 
-| Salmonella (egyéb szerovariánsok) | 2 |  |
+| 129. | Salmonella (egyéb szerovariánsok) | 2 |  |
 
-| Serpulina spp. | 2 |  |
+| 130. | Serpulina spp. | 2 |  |
 
-| Shigella boydii | 2 |  |
+| 131. | Shigella boydii | 2 |  |
 
-| Shigella dysenteriae (1. típus) | 3** | T |
+| 132. | Shigella dysenteriae (1. típus) | 3** | T |
 
-| Shigella dysenteriae, az 1. típuson kívül egyéb | 2 |  |
+| 133. | Shigella dysenteriae, az 1. típuson kívül egyéb | 2 |  |
 
-| Shigella flexneri | 2 |  |
+| 134. | Shigella flexneri | 2 |  |
 
-| Shigella sonnei | 2 |  |
+| 135. | Shigella sonnei | 2 |  |
 
-| Staphylococcus aureus | 2 |  |
+| 136. | Staphylococcus aureus | 2 |  |
 
-| Streptobacillus moniliformis | 2 |  |
+| 137. | Streptobacillus moniliformis | 2 |  |
 
-| Streptococcus pneumoniae | 2 |  |
+| 138. | Streptococcus pneumoniae | 2 |  |
 
-| Streptococcus pyogenes | 2 |  |
+| 139. | Streptococcus pyogenes | 2 |  |
 
-| Streptococcus suis | 2 |  |
+| 140. | Streptococcus suis | 2 |  |
 
-| Streptococcus spp. | 2 |  |
+| 141. | Streptococcus spp. | 2 |  |
 
-| Treponema carateum | 2 |  |
+| 142. | Treponema carateum | 2 |  |
 
-| Treponema pallidum | 2 |  |
+| 143. | Treponema pallidum | 2 |  |
 
-| Treponema pertenue | 2 |  |
+| 144. | Treponema pertenue | 2 |  |
 
-| Treponema spp. | 2 |  |
+| 145. | Treponema spp. | 2 |  |
 
-| Vibrio cholerae (az El Torral együtt) | 2 |  |
+| 146. | Vibrio cholerae (az El Torral együtt) | 2 |  |
 
-| Vibrio parahaemolyticus | 2 |  |
+| 147. | Vibrio parahaemolyticus | 2 |  |
 
-| Vibrio spp. | 2 |  |
+| 148. | Vibrio spp. | 2 |  |
 
-| Yersinia enterocolitica | 2 |  |
+| 149. | Yersinia enterocolitica | 2 |  |
 
-| Yersinia pestis | 3 | V |
+| 150. | Yersinia pestis | 3 | V |
 
-| Yersinia pseudotuberculosis | 2 |  |
+| 151. | Yersinia pseudotuberculosis | 2 |  |
 
-| Yersinia spp. | 2 |  |
+| 152. | Yersinia spp. | 2 |  |
 
-| ** Lásd jelen melléklet 8. pontját. |
+12.1. Rövidítések:
 
-VÍRUSOK*
+12.1.1. ** Lásd jelen melléklet 8. pontját.
 
-| Biológiai anyagok | Csoport | Megjegyzések |
+12.2. Megjegyzések:
 
-| Adenoviridae | 2 |  |
+12.2.1. A listában szereplő biológiai tényezők esetében az „spp.” megjelölés olyan egyéb fajokra utal, amelyek emberi kórokozóként ismeretesek.
 
-| Arenaviridae |  |  |
+13. VÍRUSOK*
 
-| LCM-Lassa-víruscsoport (régi világi arenavírusok): |  |  |
+|  | A | B | C |
 
-| Lassa vírus | 4 |  |
+| 1. | Biológiai anyagok | Csoport | Megjegyzések |
 
-| Lymphocytás choriomeningitis vírus (neurotrop törzsek) | 3 |  |
+| 2. | Adenoviridae | 2 |  |
 
-| Lymfocytás choriomeningitis vírus (egyéb törzsek) | 2 |  |
+| 3. | Arenaviridae |  |  |
 
-| Mopeia vírus | 2 |  |
+| 4. | LCM-Lassa-víruscsoport (régi világi arenavírusok): |  |  |
 
-| Egyéb LCM-Lassa víruscsoportok | 2 |  |
+| 5. | Lassa vírus | 4 |  |
 
-| Tacaribe-víruscsoport (újvilági arenavírusok): |  |  |
+| 6. | Lymphocytás choriomeningitis vírus (neurotrop törzsek) | 3 |  |
 
-| Guanarito vírus | 4 |  |
+| 7. | Lymfocytás choriomeningitis vírus (egyéb törzsek) | 2 |  |
 
-| Junin vírus | 4 |  |
+| 8. | Mopeia vírus | 2 |  |
 
-| Sabia vírus | 4 |  |
+| 9. | Egyéb LCM-Lassa víruscsoportok | 2 |  |
 
-| Machupo vírus | 4 |  |
+| 10. | Tacaribe-víruscsoport (újvilági arenavírusok): |  |  |
 
-| Flexal vírus | 3 |  |
+| 11. | Guanarito vírus | 4 |  |
 
-| Egyéb Tacaribe-víruscsoportok | 2 |  |
+| 12. | Junin vírus | 4 |  |
 
-| Astroviridae | 2 |  |
+| 13. | Sabia vírus | 4 |  |
 
-| Bunyaviridae |  |  |
+| 14. | Machupo vírus | 4 |  |
 
-| Belgrade (más néven Dobrava) | 3 |  |
+| 15. | Flexal vírus | 3 |  |
 
-| Bhanja | 2 |  |
+| 16. | Egyéb Tacaribe-víruscsoportok | 2 |  |
 
-| Bunyamwera vírus | 2 |  |
+| 17. | Astroviridae | 2 |  |
 
-| Germiston | 2 |  |
+| 18. | Bunyaviridae |  |  |
 
-| Oropouche vírus | 3 |  |
+| 19. | Belgrade (más néven Dobrava) | 3 |  |
 
-| Sin Nombre (régebben: Muerto Canyon) | 3 |  |
+| 20. | Bhanja | 2 |  |
 
-| Kalifornia encephalitis vírus | 2 |  |
+| 21. | Bunyamwera vírus | 2 |  |
 
-| Hantavírusok: |  |  |
+| 22. | Germiston | 2 |  |
 
-| Hantaan (Koreai haemorrhagiás láz) | 3 |  |
+| 23. | Oropouche vírus | 3 |  |
 
-| Seoul vírus | 3 |  |
+| 24. | Sin Nombre (régebben: Muerto Canyon) | 3 |  |
 
-| Puumala vírus | 2 |  |
+| 25. | Kalifornia encephalitis vírus | 2 |  |
 
-| Prospect Hill vírus | 2 |  |
+| 26. | Hantavírusok: |  |  |
 
-| Egyéb hantavírusok | 2 |  |
+| 27. | Hantaan (Koreai haemorrhagiás láz) | 3 |  |
 
-| Nairovírusok: |  |  |
+| 28. | Seoul vírus | 3 |  |
 
-| Krími-kongói haemorrhagiás láz | 4 |  |
+| 29. | Puumala vírus | 2 |  |
 
-| Hazara vírus | 2 |  |
+| 30. | Prospect Hill vírus | 2 |  |
 
-| Phlebovirusok: |  |  |
+| 31. | Egyéb hantavírusok | 2 |  |
 
-| Rift Valley-láz | 3 | V |
+| 32. | Nairovírusok: |  |  |
 
-| Phlebotomus-láz | 2 |  |
+| 33. | Krími-kongói haemorrhagiás láz | 4 |  |
 
-| Toscana vírus | 2 |  |
+| 34. | Hazara vírus | 2 |  |
 
-| Egyéb, ismerten kórokozó bunyavírusok | 2 |  |
+| 35. | Phlebovirusok: |  |  |
 
-| Caliciviridae |  |  |
+| 36. | Rift Valley-láz | 3 | V |
 
-| Hepatitis E vírus | 3** |  |
+| 37. | Phlebotomus-láz | 2 |  |
 
-| Norwalk vírus | 2 |  |
+| 38. | Toscana vírus | 2 |  |
 
-| Egyéb Caliciviridae | 2 |  |
+| 39. | Egyéb, ismerten kórokozó bunyavírusok | 2 |  |
 
-| Coronaviridae | 2 |  |
+| 40. | Caliciviridae |  |  |
 
-| Filoviridae |  |  |
+| 41. | Hepatitis E vírus | 3** |  |
 
-| Ebola vírus | 4 |  |
+| 42. | Norwalk vírus | 2 |  |
 
-| Marburg vírus | 4 |  |
+| 43. | Egyéb Caliciviridae | 2 |  |
 
-| Flaviviridae |  |  |
+| 44. | Nidovirales (O) |  |  |
 
-| Australia encephalitis (Murray Valley encephalitis) | 3 |  |
+| 45. | Coronaviridae (F) |  |  |
 
-| Közép-európai kullancs hordozta encephalitis vírus | 3** | V |
+| 46. | Betacoronavírus (G) |  |  |
 
-| Absettarov | 3 |  |
+| 47. | Súlyos akut légzőszervi szindrómát okozó koronavírus (SARS-vírus) | 3 |  |
 
-| Hanzalova | 3 |  |
+| 48. | Súlyos akut légzőszervi szindrómát okozó koronavírus 2 (SARS-CoV-2) (j) | 3 |  |
 
-| Hypr | 3 |  |
+| 49. | Közel-keleti légzőszervi tünetegyüttest okozó koronavírus (MERS-vírus) | 3 |  |
 
-| Kumlinge | 3 |  |
+| 50. | Egyéb, ismerten kórokozó Coronaviridae | 2 |  |
 
-| Dengue vírus, 1-4. típus | 3 |  |
+| 51. | Filoviridae |  |  |
 
-| Hepatitis C vírus | 3** |  |
+| 52. | Ebola vírus | 4 |  |
 
-| Hepatitis G vírus | 3** | D |
+| 53. | Marburg vírus | 4 |  |
 
-| Japán B encephalitis | 3 | V |
+| 54. | Flaviviridae |  |  |
 
-| Kyasanur Forest | 3 | V |
+| 55. | Australia encephalitis (Murray Valley encephalitis) | 3 |  |
 
-| Louping ill | 3** |  |
+| 56. | Közép-európai kullancs hordozta encephalitis vírus | 3** | V |
 
-| Omsk (a) | 3 | V |
+| 57. | Absettarov | 3 |  |
 
-| Powassan | 3 |  |
+| 58. | Hanzalova | 3 |  |
 
-| Rocio | 3 |  |
+| 59. | Hypr | 3 |  |
 
-| Orosz tavaszi-nyári encephalitis (TBE) (a) | 3 | V |
+| 60. | Kumlinge | 3 |  |
 
-| St. Louis encephalitis | 3 |  |
+| 61. | Dengue vírus, 1–4. típus | 3 |  |
 
-| Wesselsbron vírus | 3** |  |
+| 62. | Hepatitis C vírus | 3** |  |
 
-| Nyugat-nílusi láz vírusa | 3 |  |
+| 63. | Hepatitis G vírus | 3** | D |
 
-| Sárgaláz | 3 | V |
+| 64. | Japán B encephalitis | 3 | V |
 
-| Egyéb, ismerten kórokozó flavivirusok | 2 |  |
+| 65. | Kyasanur Forest | 3 | V |
 
-| Hepadnaviridae |  |  |
+| 66. | Louping ill | 3** |  |
 
-| Hepatitis B vírus | 3** | V, D |
+| 67. | Omsk (a) | 3 | V |
 
-| Hepatitis D vírus (Delta) (b) | 3** | V, D |
+| 68. | Powassan | 3 |  |
 
-| Herpesviridae |  |  |
+| 69. | Rocio | 3 |  |
 
-| Cytomegalovírus | 2 |  |
+| 70. | Orosz tavaszi-nyári encephalitis (TBE) (a) | 3 | V |
 
-| Epstein-Barr vírus | 2 |  |
+| 71. | St. Louis encephalitis | 3 |  |
 
-| Herpesvirus simiae (B vírus) | 3 |  |
+| 72. | Wesselsbron vírus | 3** |  |
 
-| Herpes simplex vírus, 1. és 2. típus | 2 |  |
+| 73. | Nyugat-nílusi láz vírusa | 3 |  |
 
-| Herpes virus varicella-zoster | 2 |  |
+| 74. | Sárgaláz | 3 | V |
 
-| Humán B-lymphotróp vírus (HBLV-HHV6) | 2 |  |
+| 75. | Egyéb, ismerten kórokozó flavivirusok | 2 |  |
 
-| Humán herpeszvírus 7 | 2 |  |
+| 76. | Hepadnaviridae |  |  |
 
-| Humán herpeszvírus 8 | 2 | D |
+| 77. | Hepatitis B vírus | 3** | V, D |
 
-| Orthomyxoviridae |  |  |
+| 78. | Hepatitis D vírus (Delta) (b) | 3** | V, D |
 
-| Influenza vírusok A, B és C típus | 2 | V c) |
+| 79. | Herpesviridae |  |  |
 
-| Kullancs hordozta orthomyxoviridae: Dhori és Thogoto vírus | 2 |  |
+| 80. | Cytomegalovírus | 2 |  |
 
-| Papovaviridae |  |  |
+| 81. | Epstein-Barr vírus | 2 |  |
 
-| BK és JC vírus | 2 | D d) |
+| 82. | Herpesvirus simiae (B vírus) | 3 |  |
 
-| Humán papilloma vírusok | 2 | D d) |
+| 83. | Herpes simplex vírus, 1. és 2. típus | 2 |  |
 
-| Paramyxoviridae |  |  |
+| 84. | Herpes virus varicella-zoster | 2 |  |
 
-| Kanyaróvírus | 2 | V |
+| 85. | Humán B-lymphotróp vírus (HBLV-HHV6) | 2 |  |
 
-| Mumpszvírus | 2 | V |
+| 86. | Humán herpeszvírus 7 | 2 |  |
 
-| Newcastle-betegség vírus | 2 |  |
+| 87. | Humán herpeszvírus 8 | 2 | D |
 
-| Parainfluenza vírusok, 1-4. típus | 2 |  |
+| 88. | Orthomyxoviridae |  |  |
 
-| Légúti óriássejtes vírus | 2 |  |
+| 89. | Influenza vírusok A, B és C típus | 2 | V c) |
 
-| Parvoviridae |  |  |
+| 90. | Kullancs hordozta orthomyxoviridae: Dhori és Thogoto vírus | 2 |  |
 
-| Humán parvovírus (B 19) | 2 |  |
+| 91. | Papovaviridae |  |  |
 
-| Picomaviridae |  |  |
+| 92. | BK és JC vírus | 2 | D d) |
 
-| Akut haemorrhagiás conjunctivitis vírus (AHC) | 2 |  |
+| 93. | Humán papilloma vírusok | 2 | D d) |
 
-| Coxsackie vírusok | 2 |  |
+| 94. | Paramyxoviridae |  |  |
 
-| Echo vírusok | 2 |  |
+| 95. | Kanyaróvírus | 2 | V |
 
-| Hepatitis A vírus (humán enterovírus, 72. típus) | 2 | V |
+| 96. | Mumpszvírus | 2 | V |
 
-| Poliovírusok | 2 | V |
+| 97. | Newcastle-betegség vírus | 2 |  |
 
-| Rhinovírusok | 2 |  |
+| 98. | Parainfluenza vírusok, 1–4. típus | 2 |  |
 
-| Poxviridae |  |  |
+| 99. | Légúti óriássejtes vírus | 2 |  |
 
-| Bivalyhimlő vírus (e) | 2 |  |
+| 100. | Parvoviridae |  |  |
 
-| Tehénhimlő vírus | 2 |  |
+| 101. | Humán parvovírus (B 19) | 2 |  |
 
-| Elefánthimlő vírus (f) | 2 |  |
+| 102. | Picomaviridae |  |  |
 
-| Tehenészcsomó vírus | 2 |  |
+| 103. | Akut haemorrhagiás conjunctivitis vírus (AHC) | 2 |  |
 
-| Molluscum contagiosum vírus | 2 |  |
+| 104. | Coxsackie vírusok | 2 |  |
 
-| Majomhimlő vírus | 3 | V |
+| 105. | Echo vírusok | 2 |  |
 
-| Orf vírus | 2 |  |
+| 106. | Hepatitis A vírus (humán enterovírus, 72. típus) | 2 | V |
 
-| Nyúlpestis vírus (g) | 2 |  |
+| 107. | Poliovírusok | 2 | V |
 
-| Vaccinia vírus | 2 |  |
+| 108. | Rhinovírusok | 2 |  |
 
-| Variola (major és minor) vírus | 4 | V |
+| 109. | Poxviridae |  |  |
 
-| Fehérhimlő vírus („Variolavírus”) | 4 | V |
+| 110. | Bivalyhimlő vírus (e) | 2 |  |
 
-| Yatapox vírus (Tana &Yaba) | 2 |  |
+| 111. | Tehénhimlő vírus | 2 |  |
 
-| Reoviridae |  |  |
+| 112. | Elefánthimlő vírus (f) | 2 |  |
 
-| Coltivírus | 2 |  |
+| 113. | Tehenészcsomó vírus | 2 |  |
 
-| Humán rotavírusok | 2 |  |
+| 114. | Molluscum contagiosum vírus | 2 |  |
 
-| Orbivírusok | 2 |  |
+| 115. | Majomhimlő vírus | 3 | V |
 
-| Reuvírusok | 2 |  |
+| 116. | Orf vírus | 2 |  |
 
-| Retroviridae |  |  |
+| 117. | Nyúlpestis vírus (g) | 2 |  |
 
-| Humán immun-elégtelenség vírus | 3** | D |
+| 118. | Vaccinia vírus | 2 |  |
 
-| Humán T-sejtes lymphotróp vírusok (HTLV), 1. és 2. típus | 3** | D |
+| 119. | Variola (major és minor) vírus | 4 | V |
 
-| SIV (h) | 3** |  |
+| 120. | Fehérhimlő vírus („Variolavírus”) | 4 | V |
 
-| Rhabdoviridae |  |  |
+| 121. | Yatapox vírus (Tana & Yaba) | 2 |  |
 
-| Rabies-vírus | 3** | V |
+| 122. | Reoviridae |  |  |
 
-| Vesicular stomatitis vírus | 2 |  |
+| 123. | Coltivírus | 2 |  |
 
-| Togaviridae |  |  |
+| 124. | Humán rotavírusok | 2 |  |
 
-| Alphavírusok |  |  |
+| 125. | Orbivírusok | 2 |  |
 
-| Keleti ló encephalomyelitis | 3 | V |
+| 126. | Reuvírusok | 2 |  |
 
-| Bebaru vírus | 2 |  |
+| 127. | Retroviridae |  |  |
 
-| Chikungunya vírus | 3** |  |
+| 128. | Humán immun-elégtelenség vírus | 3** | D |
 
-| Everglades vírus | 3** |  |
+| 129. | Humán T-sejtes lymphotróp vírusok (HTLV), 1. és 2. típus | 3** | D |
 
-| Mayaro vírus | 3 |  |
+| 130. | SIV (h) | 3** |  |
 
-| Mucambo vírus | 3** |  |
+| 131. | Rhabdoviridae |  |  |
 
-| Ndumu vírus | 3 |  |
+| 132. | Rabies-vírus | 3** | V |
 
-| O'nyong-nyong vírus | 2 |  |
+| 133. | Vesicular stomatitis vírus | 2 |  |
 
-| Ross River vírus | 2 |  |
+| 134. | Togaviridae |  |  |
 
-| Semliki Forest vírus | 2 |  |
+| 135. | Alphavírusok |  |  |
 
-| Sindbis vírus | 2 |  |
+| 136. | Keleti ló encephalomyelitis | 3 | V |
 
-| Tonate vírus | 3** |  |
+| 137. | Bebaru vírus | 2 |  |
 
-| Venezuelai ló encephalomyelitis | 3 | V |
+| 138. | Chikungunya vírus | 3** |  |
 
-| Nyugati ló encephalomyelitis | 3 | V |
+| 139. | Everglades vírus | 3** |  |
 
-| Egyéb ismert alphavírusok | 2 |  |
+| 140. | Mayaro vírus | 3 |  |
 
-| Rubivírus (rubella) | 2 | V |
+| 141. | Mucambo vírus | 3** |  |
 
-| Toroviridae | 2 |  |
+| 142. | Ndumu vírus | 3 |  |
 
-| Be nem sorolt vírusok |  |  |
+| 143. | O’nyong-nyong vírus | 2 |  |
 
-| Lókanyaró vírus | 4 |  |
+| 144. | Ross River vírus | 2 |  |
 
-| Még azonosítatlan hepatitis vírusok | 3** | D |
+| 145. | Semliki Forest vírus | 2 |  |
 
-| A fertőző szivacsos encephalopathiákhoz (TSE) kapcsolódó szokatlan anyagok |  |  |
+| 146. | Sindbis vírus | 2 |  |
 
-| Creutzfeldt–Jakob-betegség | 3** | D (d) |
+| 147. | Tonate vírus | 3** |  |
 
-| A Creutzfeldt–Jakob-betegség variánsa | 3** | D (d) |
+| 148. | Venezuelai ló encephalomyelitis | 3 | V |
 
-| Szarvasmarhák szivacsos encephalopathiája (BSE) és egyéb rokon állati TSE-k (i) | 3** | D (d) |
+| 149. | Nyugati ló encephalomyelitis | 3 | V |
 
-| Gerstmann-Sträussler-Scheinker szindróma | 3** | D (d) |
+| 150. | Egyéb ismert alphavírusok | 2 |  |
 
-| Kuru | 3** | D (d) |
+| 151. | Rubivírus (rubella) | 2 | V |
 
-| * Lásd jelen melléklet 7. pontját. |
+| 152. | Toroviridae | 2 |  |
 
-| ** Lásd jelen melléklet 8. pontját. |
+| 153. | Be nem sorolt vírusok |  |  |
 
-| (a) Kullancs hordozta encephalitis. |
+| 154. | Lókanyaró vírus | 4 |  |
 
-| (b) A hepatitis D vírus csak a hepatitis B vírus okozta egyidejű, illetve másodlagos fertőzés jelenléte mellett válik kórokozóvá a munkavállalókban. Ebből következik, hogy a hepatitis B vírus elleni védőoltás védelmet biztosít a hepatitis D vírus (Delta) ellen, azon munkavállalóknak, akik a hepatitis B vírus által nem érintettek. |
+| 155. | Még azonosítatlan hepatitis vírusok | 3** | D |
 
-| (c) Csak az A és B típusok esetében. |
+| 156. | A fertőző szivacsos encephalopathiákhoz (TSE) kapcsolódó szokatlan anyagok |  |  |
 
-| (d) Az ilyen anyagokkal való közvetlen érintkezéssel járó munkavégzés esetén ajánlott. |
+| 157. | Creutzfeldt–Jakob-betegség | 3** | D (d) |
 
-| (e) Kétfajta vírus azonosított: az egyik egy bivalyhimlő-típusú vírus, a másik a Vaccinia vírus egy variánsa. |
+| 158. | A Creutzfeldt–Jakob-betegség variánsa | 3** | D (d) |
 
-| (f) A tehénhimlő vírus variánsa. |
+| 159. | Szarvasmarhák szivacsos encephalopathiája (BSE) és egyéb rokon állati TSE-k (i) | 3** | D (d) |
 
-| (g) A Vaccinia vírus variánsa. |
+| 160. | Gerstmann-Sträussler-Scheinker szindróma | 3** | D (d) |
 
-| (h) Jelenleg nincs bizonyíték arra, hogy más, majomból származó retrovírus megbetegedést okozna emberben. Elővigyázatosságként 3. biztonsági szint ajánlott a velük folytatott munka során. |
+| 161. | Még azonosítatlan hepatitis vírusok | 3** | D (d) |
 
-| (i) Az állatokban előforduló egyéb TSE-ket előidéző anyagok okozta fertőzések emberben történő előfordulására nincsen bizonyíték. Ennek ellenére a 3.** kockázati csoportba sorolt anyagokra megállapított biztonsági intézkedések ajánlottak elővigyázatossági intézkedésként a laboratóriumi munka esetében, a scrapie (surlókór) azonosított anyagával folytatott laboratóriumi munka kivételével, amikor a 2. szintű elkülönítés elégséges. |
+13.1. Rövidítések:
 
-PARAZITÁK
+13.1.1. * Lásd jelen melléklet 7. pontját.
 
-| Biológiai anyag | Csoport | Megjegyzések |
+13.1.2. ** Lásd jelen melléklet 8. pontját.
 
-| Acanthamoeba castellani | 2 |  |
+13.1.3. (a) Kullancs hordozta encephalitis.
 
-| Ancylostoma duodenale | 2 |  |
+13.1.4. (b) A hepatitis D vírus csak a hepatitis B vírus okozta egyidejű, illetve másodlagos fertőzés jelenléte mellett válik kórokozóvá a munkavállalókban. Ebből következik, hogy a hepatitis B vírus elleni védőoltás védelmet biztosít a hepatitis D vírus (Delta) ellen, azon munkavállalóknak, akik a hepatitis B vírus által nem érintettek.
 
-| Angiostrongylus cantonensis | 2 |  |
+13.1.5. (c) Csak az A és B típusok esetében.
 
-| Angiostrongylus costaricensis | 2 |  |
+13.1.6. (d) Az ilyen anyagokkal való közvetlen érintkezéssel járó munkavégzés esetén ajánlott.
 
-| Ascaris lumbricoides | 2 | A |
+13.1.7. (e) Kétfajta vírus azonosított: az egyik egy bivalyhimlő-típusú vírus, a másik a Vaccinia vírus egy variánsa.
 
-| Ascaris suum | 2 | A |
+13.1.8. (f) A tehénhimlő vírus variánsa.
 
-| Babesia divergens | 2 |  |
+13.1.9. (g) A Vaccinia vírus variánsa.
 
-| Babesia microti | 2 |  |
+13.1.10. (h) Jelenleg nincs bizonyíték arra, hogy más, majomból származó retrovírus megbetegedést okozna emberben. Elővigyázatosságként 3. biztonsági szint ajánlott a velük folytatott munka során.
 
-| Balantidium coli | 2 |  |
+13.1.11. (i) Az állatokban előforduló egyéb TSE-ket előidéző anyagok okozta fertőzések emberben történő előfordulására nincsen bizonyíték. Ennek ellenére a 3.** kockázati csoportba sorolt anyagokra megállapított biztonsági intézkedések ajánlottak elővigyázatossági intézkedésként a laboratóriumi munka esetében, a scrapie (surlókór) azonosított anyagával folytatott laboratóriumi munka kivételével, amikor a 2. szintű elkülönítés elégséges.
 
-| Brugia malayi | 2 |  |
+13.1.12. (j) A 16. § (2) bekezdésével összhangban a SARS-CoV-2 vírust érintő nem propagatív diagnosztikai laboratóriumi munkát legalább a 2. biztonsági szinttel egyenértékű eljárásokat alkalmazó létesítményben kell végezni. A SARS-CoV-2 vírust érintő propagatív munkát olyan 3. biztonsági szintű laboratóriumban kell végezni, amelyben a légnyomás kisebb a külső környezeti légnyomásnál.
 
-| Brugia pahangi | 2 |  |
+14. PARAZITÁK
 
-| Capillaria philippinensis | 2 |  |
+|  | A | B | C |
 
-| Capillaria spp. | 2 |  |
+| 1. | Biológiai anyag | Csoport | Megjegyzések |
 
-| Clonorchis sinensis | 2 |  |
+| 2. | Acanthamoeba castellani | 2 |  |
 
-| Clonorchis viverrini | 2 |  |
+| 3. | Ancylostoma duodenale | 2 |  |
 
-| Cryptosporidium parvum | 2 |  |
+| 4. | Angiostrongylus cantonensis | 2 |  |
 
-| Cryptosporidium spp. | 2 |  |
+| 5. | Angiostrongylus costaricensis | 2 |  |
 
-| Cyclospora cayetanensis | 2 |  |
+| 6. | Ascaris lumbricoides | 2 | A |
 
-| Dipetalonema streptocerca | 2 |  |
+| 7. | Ascaris suum | 2 | A |
 
-| Diphyllobothrium latum | 2 |  |
+| 8. | Babesia divergens | 2 |  |
 
-| Dracunculus medinensis | 2 |  |
+| 9. | Babesia microti | 2 |  |
 
-| Echinococcus granulosus | 3** |  |
+| 10. | Balantidium coli | 2 |  |
 
-| Echinococcus multilocularis | 3** |  |
+| 11. | Brugia malayi | 2 |  |
 
-| Echinococcus vogeli | 3** |  |
+| 12. | Brugia pahangi | 2 |  |
 
-| Entamoeba histolytica | 2 |  |
+| 13. | Capillaria philippinensis | 2 |  |
 
-| Fasciola gigantica | 2 |  |
+| 14. | Capillaria spp. | 2 |  |
 
-| Fasciola hepatica | 2 |  |
+| 15. | Clonorchis sinensis | 2 |  |
 
-| Fasciolopsis buski | 2 |  |
+| 16. | Clonorchis viverrini | 2 |  |
 
-| Giardia lamblia (Giardia intestinalis) | 2 |  |
+| 17. | Cryptosporidium parvum | 2 |  |
 
-| Hymenolepis diminuta | 2 |  |
+| 18. | Cryptosporidium spp. | 2 |  |
 
-| Hymenolepis nana | 2 |  |
+| 19. | Cyclospora cayetanensis | 2 |  |
 
-| Leishmania brasiliensis | 3** |  |
+| 20. | Dipetalonema streptocerca | 2 |  |
 
-| Leishmania donovani | 3** |  |
+| 21. | Diphyllobothrium latum | 2 |  |
 
-| Leishmania ethiopica | 2 |  |
+| 22. | Dracunculus medinensis | 2 |  |
 
-| Leishmania mexicana | 2 |  |
+| 23. | Echinococcus granulosus | 3** |  |
 
-| Leishmania peruviana | 2 |  |
+| 24. | Echinococcus multilocularis | 3** |  |
 
-| Leishmania tropica | 2 |  |
+| 25. | Echinococcus vogeli | 3** |  |
 
-| Leishmania major | 2 |  |
+| 26. | Entamoeba histolytica | 2 |  |
 
-| Leishmania spp. | 2 |  |
+| 27. | Fasciola gigantica | 2 |  |
 
-| Loa loa | 2 |  |
+| 28. | Fasciola hepatica | 2 |  |
 
-| Mansonella ozzardi | 2 |  |
+| 29. | Fasciolopsis buski | 2 |  |
 
-| Mansonella perstans | 2 |  |
+| 30. | Giardia lamblia (Giardia intestinalis) | 2 |  |
 
-| Naegleria fowleri | 3 |  |
+| 31. | Hymenolepis diminuta | 2 |  |
 
-| Necator americanus | 2 |  |
+| 32. | Hymenolepis nana | 2 |  |
 
-| Onchocerca volvulus | 2 |  |
+| 33. | Leishmania brasiliensis | 3** |  |
 
-| Opisthorchis felineus | 2 |  |
+| 34. | Leishmania donovani | 3** |  |
 
-| Opisthorchis spp. | 2 |  |
+| 35. | Leishmania ethiopica | 2 |  |
 
-| Paragonimus westermani | 2 |  |
+| 36. | Leishmania mexicana | 2 |  |
 
-| Plasmodium falciparum | 3** |  |
+| 37. | Leishmania peruviana | 2 |  |
 
-| Plasmodium spp. (humán és majomban előforduló) | 2 |  |
+| 38. | Leishmania tropica | 2 |  |
 
-| Sarcocystis suihominis | 2 |  |
+| 39. | Leishmania major | 2 |  |
 
-| Schistosoma haematobium | 2 |  |
+| 40. | Leishmania spp. | 2 |  |
 
-| Schistosoma intercalatum | 2 |  |
+| 41. | Loa loa | 2 |  |
 
-| Schistosoma japonicum | 2 |  |
+| 42. | Mansonella ozzardi | 2 |  |
 
-| Schistosoma mansoni | 2 |  |
+| 43. | Mansonella perstans | 2 |  |
 
-| Schistosoma mekongi | 2 |  |
+| 44. | Naegleria fowleri | 3 |  |
 
-| Strongyloides stercoralis | 2 |  |
+| 45. | Necator americanus | 2 |  |
 
-| Strongyloides spp. | 2 |  |
+| 46. | Onchocerca volvulus | 2 |  |
 
-| Taenia saginata | 2 |  |
+| 47. | Opisthorchis felineus | 2 |  |
 
-| Taenia solium | 3** |  |
+| 48. | Opisthorchis spp. | 2 |  |
 
-| Toxocara canis | 2 |  |
+| 49. | Paragonimus westermani | 2 |  |
 
-| Toxoplasma gondii | 2 |  |
+| 50. | Plasmodium falciparum | 3** |  |
 
-| Trichinella spiralis | 2 |  |
+| 51. | Plasmodium spp. (humán és majomban előforduló) | 2 |  |
 
-| Trichuris trichiura | 2 |  |
+| 52. | Sarcocystis suihominis | 2 |  |
 
-| Trypanosoma brucei brucei | 2 |  |
+| 53. | Schistosoma haematobium | 2 |  |
 
-| Trypanosoma brucei gambiense | 2 |  |
+| 54. | Schistosoma intercalatum | 2 |  |
 
-| Trypanosoma brucei rhodesiense | 3** |  |
+| 55. | Schistosoma japonicum | 2 |  |
 
-| Trypanosoma cruzi | 3 |  |
+| 56. | Schistosoma mansoni | 2 |  |
 
-| Wuchereria bancrofti | 2 |  |
+| 57. | Schistosoma mekongi | 2 |  |
 
-| ** Lásd jelen melléklet 8. pontját. |
+| 58. | Strongyloides stercoralis | 2 |  |
 
-GOMBÁK
+| 59. | Strongyloides spp. | 2 |  |
 
-| Biológiai anyag | Csoport | Megjegyzések |
+| 60. | Taenia saginata | 2 |  |
 
-| Aspergillus fumigatus | 2 | A |
+| 61. | Taenia solium | 3** |  |
 
-| Blastomyces dermatitidis (Ajellomyces dermatitidis) | 3 |  |
+| 62. | Toxocara canis | 2 |  |
 
-| Candida albicans | 2 | A |
+| 63. | Toxoplasma gondii | 2 |  |
 
-| Candida tropicalis | 2 |  |
+| 64. | Trichinella spiralis | 2 |  |
 
-| Cladophialophora bantiana (régebben: Xylohypha bantiana, Cladosporium bantianum vagy trichoides) | 3 |  |
+| 65. | Trichuris trichiura | 2 |  |
 
-| Coccidioides inunitis | 3 | A |
+| 66. | Trypanosoma brucei brucei | 2 |  |
 
-| Cryptococcus neoformans var. neofonnans (Filobasidiella neofonnans var. neofonnans) | 2 | A |
+| 67. | Trypanosoma brucei gambiense | 2 |  |
 
-| Cryptococcus neoformans var. gattii (Filobasidiella bacillispora) | 2 | A |
+| 68. | Trypanosoma brucei rhodesiense | 3** |  |
 
-| Emmonsia parva var. parva | 2 |  |
+| 69. | Trypanosoma cruzi | 3 |  |
 
-| Emmonsia parva var. crescens | 2 |  |
+| 70. | Wuchereria bancrofti | 2 |  |
 
-| Epidermophyton floccosum | 2 | A |
+14.1. Rövidítések:
 
-| Fonsecaea compacta | 2 |  |
+14.1.1. ** Lásd jelen melléklet 8. pontját.
 
-| Fonsecaea pedrosoi | 2 |  |
+15. GOMBÁK
 
-| Histoplasma capsulatum var. capsulatum (Ajellomyces capsulatus) | 3 |  |
+|  | A | B | C |
 
-| Histoplasma capsulatum duboisii | 3 |  |
+| 1. | Biológiai anyag | Csoport | Megjegyzések |
 
-| Madurella grisea | 2 |  |
+| 2. | Aspergillus fumigatus | 2 | A |
 
-| Madurella mycetomatis | 2 |  |
+| 3. | Blastomyces dermatitidis (Ajellomyces dermatitidis) | 3 |  |
 
-| Microsporum spp. | 2 | A |
+| 4. | Candida albicans | 2 | A |
 
-| Neotestudina rosatii | 2 |  |
+| 5. | Candida tropicalis | 2 |  |
 
-| Paracoccidioides brasiliensis | 3 |  |
+| 6. | Cladophialophora bantiana (régebben: Xylohypha bantiana, Cladosporium bantianum vagy trichoides) | 3 |  |
 
-| Penicillium marneffei | 2 | A |
+| 7. | Coccidioides inunitis | 3 | A |
 
-| Scedosporium apiospermum (Pseudallescheria boydii) | 2 |  |
+| 8. | Cryptococcus neoformans var. neofonnans (Filobasidiella neofonnans var. neofonnans) | 2 | A |
 
-| Scedosporium prolificans (inflatum) | 2 |  |
+| 9. | Cryptococcus neoformans var. gattii (Filobasidiella bacillispora) | 2 | A |
 
-| Sporothrix schenckii | 2 |  |
+| 10. | Emmonsia parva var. parva | 2 |  |
 
-| Trichophyton rubrum | 2 |  |
+| 11. | Emmonsia parva var. crescens | 2 |  |
 
-| Trichophyton spp. | 2 |  |
+| 12. | Epidermophyton floccosum | 2 | A |
 
-[^25]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (3) bekezdésével megállapított szöveg.
+| 13. | Fonsecaea compacta | 2 |  |
+
+| 14. | Fonsecaea pedrosoi | 2 |  |
+
+| 15. | Histoplasma capsulatum var. capsulatum (Ajellomyces capsulatus) | 3 |  |
+
+| 16. | Histoplasma capsulatum duboisii | 3 |  |
+
+| 17. | Madurella grisea | 2 |  |
+
+| 18. | Madurella mycetomatis | 2 |  |
+
+| 19. | Microsporum spp. | 2 | A |
+
+| 20. | Neotestudina rosatii | 2 |  |
+
+| 21. | Paracoccidioides brasiliensis | 3 |  |
+
+| 22. | Penicillium marneffei | 2 | A |
+
+| 23. | Scedosporium apiospermum (Pseudallescheria boydii) | 2 |  |
+
+| 24. | Scedosporium prolificans (inflatum) | 2 |  |
+
+| 25. | Sporothrix schenckii | 2 |  |
+
+| 26. | Trichophyton rubrum | 2 |  |
+
+| 27. | Trichophyton spp. | 2 |  |
+
+[^26]: A 3. számú melléklet a 40/2020. (XI. 4.) ITM rendelet 2. § a) pontjával megállapított szöveg.

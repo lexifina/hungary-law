@@ -1,4 +1,4 @@
-## 18. §[^24]
+## 18. §[^25]
 
 1. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez
 
@@ -18,4 +18,4 @@
 
 7. A szennyvíztisztító berendezésekben, járható szelvényű szennyvízelvezető művekben végzett munkák.
 
-[^24]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 187. pontja hatályon kívül helyezte.
+[^25]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 187. pontja hatályon kívül helyezte.
