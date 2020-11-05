@@ -10,7 +10,7 @@
 
 | 5. | jelvény cseréje, pótlása | 4350 |
 
-2. melléklet a 69/2012. (XII. 14.) BM rendelethez
+2. melléklet a 69/2012. (XII. 14.) BM rendelethez[^2]
 
 A megyei (fővárosi) rendőr-főkapitányságok előirányzat felhasználási keretszámla számai
 
@@ -28,7 +28,7 @@ A megyei (fővárosi) rendőr-főkapitányságok előirányzat felhasználási k
 
 | 6. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
 
-| 7. | Csongrád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| 7. | Csongrád-Csanád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
 
 | 8. | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
 
@@ -57,3 +57,5 @@ A megyei (fővárosi) rendőr-főkapitányságok előirányzat felhasználási k
 | 20. | Veszprém Megyei Rendőr-főkapitányság | 10048005-01451643-00000000 |
 
 | 21. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
+
+[^2]: A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 13. §-a szerint módosított szöveg.
