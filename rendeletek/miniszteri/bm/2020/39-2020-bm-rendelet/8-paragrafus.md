@@ -1,0 +1,3 @@
+## 7. § A katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendelet 2. melléklet 4. pontjában foglalt táblázat C:7 mezőjében a „Csongrád Megyei Katasztrófavédelmi Igazgatóság” szövegrész helyébe a „Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság” szöveg lép.
+
+## 8. A végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékéről, valamint megtérítésének részletes szabályairól szóló 10/2012. (III. 14.) BM rendelet módosítása
