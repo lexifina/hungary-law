@@ -1,4 +1,4 @@
-## 9/A. §[^6] A miniszter a 9. § b) pontja szerinti feladatát a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság bevonásával látja el.
+## 9/A. §[^6] A miniszter a 9. § b) pontja szerinti feladatát, valamint a közigazgatás-fejlesztésért felelős miniszter az 5. § (2) bekezdés b) pontja szerinti feladatát a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság bevonásával látja el.
 
 ## 4. A fővárosi és megyei kormányhivataloknál a munkáltatói jogok gyakorlása
 
@@ -20,4 +20,4 @@ vonatkozó munkáltatói jogokat.
 
 (5) A kormánymegbízott a járási hivatal kormánytisztviselői, kormányzati ügykezelői és munkavállalói tekintetében a (4) bekezdésben meghatározott munkáltatói jogokat célhoz kötötten, meghatározott esemény bekövetkezte esetén, továbbá a szakkérdések elbírálásával összefüggő feladatok hatékony ellátása érdekében gyakorolhatja. A kormánymegbízott az érintett hivatalvezetőket írásban tájékoztatja az általa elrendelt intézkedésekről. Ha az intézkedés elrendelése okafogyottá válik, a kormánymegbízott haladéktalanul írásban visszavonja a döntését.
 
-[^6]: A 9/A. §-t a 240/2019. (X. 16.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 9/A. §-t a 240/2019. (X. 16.) Korm. rendelet 1. §-a iktatta be, szövege a 482/2020. (XI. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
