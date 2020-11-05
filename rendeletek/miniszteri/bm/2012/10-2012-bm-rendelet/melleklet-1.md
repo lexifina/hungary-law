@@ -1,6 +1,6 @@
 ## 6. § Ez a rendelet 2012. március 15-én lép hatályba.
 
-1. melléklet a 10/2012. (III. 14.) BM rendelethez
+1. melléklet a 10/2012. (III. 14.) BM rendelethez[^1]
 
 A megyei (fővárosi) rendőr-főkapitányság Magyar Államkincstár számlaszámai:
 
@@ -16,7 +16,7 @@ A megyei (fővárosi) rendőr-főkapitányság Magyar Államkincstár számlasz�
 
 | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
 
-| Csongrád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| Csongrád-Csanád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
 
 | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
 
@@ -45,3 +45,5 @@ A megyei (fővárosi) rendőr-főkapitányság Magyar Államkincstár számlasz�
 | Veszprém Megyei Rendőr-főkapitányság | 10048005-01451643-00000000 |
 
 | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
+
+[^1]: Az 1. melléklet a 39/2020. (XI. 4.) BM rendelet 8. §-a szerint módosított szöveg.
