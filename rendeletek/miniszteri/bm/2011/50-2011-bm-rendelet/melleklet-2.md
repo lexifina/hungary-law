@@ -36,7 +36,7 @@
 
 |  | 05 | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság |
 
-|  | 06 | Csongrád Megyei Katasztrófavédelmi Igazgatóság |
+|  | 06 | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság |
 
 |  | 07 | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
