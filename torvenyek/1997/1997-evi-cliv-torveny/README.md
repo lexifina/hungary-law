@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2020-06-18 | 2020. évi LVIII. törvény | 1997-154-00-00.95 |
 | 2020-07-01 | 2020. évi XXX. törvény | 1997-154-00-00.96 |
 | 2020-10-28 | 2020. évi CIV. törvény | 1997-154-00-00.97 |
+| 2020-11-05 | 2020. évi CVIII. törvény | 1997-154-00-00.98 |

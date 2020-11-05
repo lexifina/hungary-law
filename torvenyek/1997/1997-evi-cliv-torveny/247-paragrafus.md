@@ -315,5 +315,3 @@ ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi f
 cj)
 
 ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
-
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
