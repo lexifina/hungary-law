@@ -70,7 +70,7 @@
 
 | 6. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
 
-| 7. | Csongrád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| 7. | Csongrád-Csanád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
 
 | 8. | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
 
@@ -102,4 +102,4 @@
 
 | 22. | Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
 
-[^19]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított szöveg.
+[^19]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított, a 39/2020. (XI. 4.) BM rendelet 1. §-a szerint módosított szöveg.
