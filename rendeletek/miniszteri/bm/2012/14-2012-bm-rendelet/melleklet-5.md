@@ -1,4 +1,4 @@
-5. melléklet a 14/2012. (III. 30.) BM rendelethez
+5. melléklet a 14/2012. (III. 30.) BM rendelethez[^40]
 
 ## A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai szolgálati igazolványának leírása
 
@@ -36,7 +36,7 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, piro
 
 | 9. |  | 513. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság |
 
-| 10. |  | 514. | Csongrád Megyei Katasztrófavédelmi Igazgatóság |
+| 10. |  | 514. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság |
 
 | 11. |  | 515. | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
@@ -65,3 +65,5 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, piro
 | 23. |  | 527. | Veszprém Megyei Katasztrófavédelmi Igazgatóság |
 
 | 24. |  | 528. | Zala Megyei Katasztrófavédelmi Igazgatóság |
+
+[^40]: Az 5. melléklet a 39/2020. (XI. 4.) BM rendelet 9. § b) pontja szerint módosított szöveg.

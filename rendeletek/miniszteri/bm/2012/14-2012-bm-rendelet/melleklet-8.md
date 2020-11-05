@@ -1,4 +1,4 @@
-8. melléklet a 14/2012. (III. 30.) BM rendelethez[^42]
+8. melléklet a 14/2012. (III. 30.) BM rendelethez[^43]
 
 ## A tisztjelölt szolgálati igazolványának leírása
 
@@ -54,4 +54,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 | 3. | KATASZTRÓFAVÉDELEM | 500. | BM OKF központi szervek |
 
-[^42]: A 8. mellékletet a 20/2016. (VI. 9.) BM rendelet 46. § (6) bekezdése iktatta be.
+[^43]: A 8. mellékletet a 20/2016. (VI. 9.) BM rendelet 46. § (6) bekezdése iktatta be.

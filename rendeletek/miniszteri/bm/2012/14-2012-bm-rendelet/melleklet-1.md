@@ -46,7 +46,7 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 
 | 12. |  | 305. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság |
 
-| 13. |  | 306. | Csongrád Megyei Rendőr-főkapitányság |
+| 13. |  | 306. | Csongrád-Csanád Megyei Rendőr-főkapitányság |
 
 | 14. |  | 307. | Fejér Megyei Rendőr-főkapitányság |
 
@@ -77,4 +77,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 | 27. |  | 320. | Zala Megyei Rendőr-főkapitányság |
 
 [^37]: A 12. §-t a 27/2019. (VI. 28.) BM rendelet 21. §-a iktatta be.
-[^38]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a, az 58/2016. (XII. 22.) BM rendelet 30. §-a szerint módosított szöveg.
+[^38]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a, az 58/2016. (XII. 22.) BM rendelet 30. §-a, a 39/2020. (XI. 4.) BM rendelet 9. § a) pontja szerint módosított szöveg.
