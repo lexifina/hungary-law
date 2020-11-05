@@ -50,7 +50,7 @@ A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és terü
 
 | 4. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
 
-| 5. | Csongrád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 5. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
 
 | 6. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
 
@@ -84,4 +84,4 @@ A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és terü
 
 | 21. | BM Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
 
-[^6]: A 2. mellékletet a 24/2012. (V. 8.) BM rendelet 17. § (3) bekezdése iktatta be, szövege a 35/2016. (VIII. 30.) BM rendelet 3. §-a szerint módosított szöveg.
+[^6]: A 2. mellékletet a 24/2012. (V. 8.) BM rendelet 17. § (3) bekezdése iktatta be, szövege a 35/2016. (VIII. 30.) BM rendelet 3. §-a, a 39/2020. (XI. 4.) BM rendelet 6. §-a szerint módosított szöveg.
