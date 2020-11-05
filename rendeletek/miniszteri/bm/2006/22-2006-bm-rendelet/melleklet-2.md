@@ -14,7 +14,7 @@
 
 | 7. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
 
-| 8. | Csongrád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| 8. | Csongrád-Csanád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
 
 | 9. | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
 
