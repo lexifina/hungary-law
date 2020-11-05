@@ -1836,7 +1836,7 @@
 
 | 47. | Vatta | II. |
 
-## CSONGRÁD MEGYE
+## CSONGRÁD-CSANÁD MEGYE
 
 ## Szeged székhelyű katasztrófavédelmi kirendeltség
 
