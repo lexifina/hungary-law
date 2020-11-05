@@ -1,6 +1,6 @@
-## 11/A. §[^49] Az OEP a munkáltató részére a 2016. augusztus és szeptember havi támogatási összeget 2016 augusztusában utalványozza.
+## 11/A. §[^52] Az OEP a munkáltató részére a 2016. augusztus és szeptember havi támogatási összeget 2016 augusztusában utalványozza.
 
-11/B. §[^50] (1) Azt a 2/B. § (1) bekezdése szerinti fiatal szakorvost, aki 2016. szeptember, október, november hónapban bérkiegészítésben részesült, és erre tekintettel őt bérhátrány érte ahhoz képest, mint ha a fiatal szakorvosok támogatásában részesült volna, egyszeri bérkülönbözet illeti meg a 2016. szeptember, október, november hónapra kifizetett bérre tekintettel.
+11/B. §[^53] (1) Azt a 2/B. § (1) bekezdése szerinti fiatal szakorvost, aki 2016. szeptember, október, november hónapban bérkiegészítésben részesült, és erre tekintettel őt bérhátrány érte ahhoz képest, mint ha a fiatal szakorvosok támogatásában részesült volna, egyszeri bérkülönbözet illeti meg a 2016. szeptember, október, november hónapra kifizetett bérre tekintettel.
 
 (2) Az egyszeri bérkülönbözet mértéke
 
@@ -18,5 +18,5 @@ b) a 2/A. § (1) bekezdése szerinti bérkiegészítésre vonatkozó szabályok 
 
 (6) Az egyszeri bérkülönbözet fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete szerinti Egészségügyi dolgozók 2016. évi béremelésének fedezete előirányzat szolgál.
 
-[^49]: A 11/A. §-t a 205/2016. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
-[^50]: A 11/B. §-t a 359/2016. (XI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^52]: A 11/A. §-t a 205/2016. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
+[^53]: A 11/B. §-t a 359/2016. (XI. 23.) Korm. rendelet 2. §-a iktatta be.

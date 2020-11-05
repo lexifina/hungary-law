@@ -212,7 +212,7 @@
 
 | 106. |  |  |
 
-| 107. | Kiskunhalasi Semmelweis Kórház | Kiskunhalas |
+| 107. | Kiskunhalasi Semmelweis Kórház a Szegedi Tudományegyetem Oktató Kórháza | Kiskunhalas |
 
 | 108. | Kiskunmajsai Kistérségi Közszolgáltató Nonprofit Kft. | Kiskunmajsa |
 
@@ -480,7 +480,7 @@
 
 | 240. | Zuglói Egészségügyi Szolgálat | Budapest |
 
-| 241. | Zsigmondy Vilmos Harkányi Gyógyfürdőkórház Nonprofit Kft. | Harkány |
+| 241. | Harkányi Termál Rehabilitációs Centrum Nonprofit Kft. | Harkány |
 
 | 242. | Magyar Máltai Szeretetszolgálat Egyesület Járóbeteg szakrendelés (Szarvas Gábor u.) | Budapest |
 
@@ -522,7 +522,17 @@
 
 | 261. | Százhalombattai Egészségügyi Közalapítvány | Százhalombatta |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^84]
+| 262. | Szent Lukács Görögkatolikus Korai Fejlesztő és Gyermekrehabilitációs Központ | Debrecen |
+
+| 263. | Forgács Intézet Egészségügyi és Szolgáltató Kft. | Budapest |
+
+| 264. | KAÁLI Ambuláns Nőgyógyászati Intézet Kft. | Budapest |
+
+| 265. | Sterilitás Egészségügyi Ellátó Kft. | Budapest |
+
+| 266. | Pannon Reprodukciós Intézet és Szolgáltató Kft. | Tapolca |
+
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^88]
 
 ## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
@@ -728,4 +738,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^84]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^88]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
