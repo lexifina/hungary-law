@@ -14,7 +14,7 @@
 
 | 6. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
 
-| 7. | Csongrád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 7. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
 
 | 8. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
 
@@ -30,7 +30,7 @@
 
 | 14. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-4. melléklet a 13/2015. (III. 31.) BM rendelethez[^6]
+4. melléklet a 13/2015. (III. 31.) BM rendelethez[^7]
 
 ## Az igazgatási szolgáltatási díj megállapítására és megfizetésére vonatkozó nyilatkozat
 
@@ -46,4 +46,4 @@ Kelt: ..................................., ................ (év) ..............
 
 aláírás
 
-[^6]: A 4. mellékletet a 42/2017. (XII. 29.) BM rendelet 10. § (2) bekezdése iktatta be.
+[^7]: A 4. mellékletet a 42/2017. (XII. 29.) BM rendelet 10. § (2) bekezdése iktatta be.

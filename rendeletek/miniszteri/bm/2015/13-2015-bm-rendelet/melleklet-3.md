@@ -44,4 +44,6 @@
 
 | 19. | Erdészeti hatósági eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 19. táblázat 19–20. sor] | 14 000 |
 
-3. melléklet a 13/2015. (III. 31.) BM rendelethez
+3. melléklet a 13/2015. (III. 31.) BM rendelethez[^6]
+
+[^6]: A 3. melléklet a 39/2020. (XI. 4.) BM rendelet 14. §-a szerint módosított szöveg.
