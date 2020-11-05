@@ -24,4 +24,6 @@ d) kérheti csoportos foglalkozáson való részvételét.
 
 (4a) Ha a pártfogolt magatartásáról a személyes kapcsolattartás keretében szerzett tapasztalatok alapján az állapítható meg, hogy a pártfogó felügyelet eredményes végrehajtása így is biztosítható, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt kapcsolattartási kötelezettsége teljesítésének módját telefon vagy egyéb elektronikus kapcsolattartás útján is meghatározhatja. A pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt magatartásának megváltozására figyelemmel az intézkedést visszavonhatja.
 
+(4b) A pártfogó felügyelet eredményes végrehajtása érdekében a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a külön magatartási szabály megtartásának ellenőrzése során a sértettől vagy a külön magatartási szabállyal érintett más személytől felvilágosítást kérhet.
+
 (5) Ha a pártfogó felügyelet eredményes végrehajtása érdekében a külön magatartási szabály módosítása vagy mellőzése indokoltnak tűnik, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, vagy a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály megváltoztatására a büntetés-végrehajtási bírónak javaslatot tesz.

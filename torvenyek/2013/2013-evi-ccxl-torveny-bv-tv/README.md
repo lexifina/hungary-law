@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-240-00-00
 | 2020-06-18 | 2020. évi LVIII. törvény | 2013-240-00-00.22 |
 | 2020-07-01 | 2019. évi CXXVI. törvény | 2013-240-00-00.23 |
 | 2020-07-09 | 2020. évi LXX. törvény | 2013-240-00-00.24 |
+| 2020-11-05 | 2020. évi CVIII. törvény | 2013-240-00-00.25 |
