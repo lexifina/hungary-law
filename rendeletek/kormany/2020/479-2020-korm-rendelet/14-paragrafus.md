@@ -1,17 +1,6 @@
-## 13. § Az R. 1/A. alcíme a következő 3/B. §-sal egészül ki:
+## 13. §[^2]
 
-## „3/B. § A 3/A. § szerinti hatáskör gyakorlója
+14. §[^3]
 
-## a) az ellenőrzés helye szerint illetékes rendőkapitányság,
-
-## b) a Budapest Liszt Ferenc Nemzetközi Repülőtéren a Repülőtéri Rendőr Igazgatóság.”
-
-## 14. § Hatályát veszti az R.
-
-a) 1. § (1) bekezdés l) pontja,
-
-b) 3. § (1) bekezdésében az „a 6. § (6) bekezdése,” szövegrész,
-
-c) 6. §-a,
-
-d) 9. §-ában az „a 6. § (2), (3) és (6) bekezdése,” szövegrész.
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
