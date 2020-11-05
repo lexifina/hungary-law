@@ -15,3 +15,5 @@ e) a feltételes ügyészi felfüggesztés tartama
 alatt pártfogó felügyelet alatt áll.
 
 (2) Fiatalkorúval szemben a jóvátételi munkavégzés előírása mellett pártfogó felügyeletet is el kell rendelni.
+
+(3) Fiatalkorúval szemben a 71. § (4) bekezdése nem alkalmazható.

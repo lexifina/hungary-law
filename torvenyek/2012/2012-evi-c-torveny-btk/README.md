@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-100-00-00
 | 2020-07-01 | 2020. évi V. törvény | 2012-100-00-00.42 |
 | 2020-07-16 | 2020. évi LXXIV. törvény | 2012-100-00-00.43 |
 | 2020-09-06 | 2020. évi LXXIV. törvény | 2012-100-00-00.44 |
+| 2020-11-05 | 2020. évi CVIII. törvény | 2012-100-00-00.45 |
