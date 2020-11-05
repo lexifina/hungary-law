@@ -1,6 +1,6 @@
 ## 7. § E rendelet rendelkezéseit az e rendelet hatálybalépését követően indult eljárások során kell alkalmazni.
 
-1. melléklet a 33/2018. (XII. 20.) BM rendelethez
+1. melléklet a 33/2018. (XII. 20.) BM rendelethez[^1]
 
 A megyei, fővárosi rendőr-főkapitányságok előirányzat-felhasználási keretszámla számai
 
@@ -18,7 +18,7 @@ A megyei, fővárosi rendőr-főkapitányságok előirányzat-felhasználási ke
 
 | 5. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
 
-| 6. | Csongrád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| 6. | Csongrád-Csanád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
 
 | 7. | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
 
@@ -49,3 +49,5 @@ A megyei, fővárosi rendőr-főkapitányságok előirányzat-felhasználási ke
 | 20. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
 | 21. | Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
+
+[^1]: Az 1. melléklet a 39/2020. (XI. 4.) BM rendelet 15. §-a szerint módosított szöveg.
