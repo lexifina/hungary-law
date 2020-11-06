@@ -1,3 +1,3 @@
-## 1. § A Magyar Energetikai és Közmű-szabályozási Hivatal igazgatási szolgáltatási díjainak mértékéről, valamint az igazgatási szolgáltatási, a felügyeleti díjak és egyéb bevételek beszedésére, kezelésére, nyilvántartására és visszatérítésére vonatkozó szabályokról szóló 1/2014. (III. 4.) MEKH rendelet (a továbbiakban: R.) 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „(2) Az (1) bekezdés a) pontja esetében a felügyeleti díj első részletének alapja a tárgyévet megelőző év engedélyesi tevékenysége várható értékesítési nettó árbevételének 50%-a, második részlete az engedélyesi tevékenységre vonatkozó értékesítés nettó árbevételéből az 1. § (1) bekezdés a)–c) és f) pontja szerinti törvényi rendelkezésben megállapított teljes felügyeleti díj és a felügyeleti díj első részletének különbözete.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
