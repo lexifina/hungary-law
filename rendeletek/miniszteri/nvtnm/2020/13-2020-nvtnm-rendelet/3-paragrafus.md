@@ -1,1 +1,3 @@
-## 2. § A Rendelet 1. melléklet VII. pontjában foglalt táblázat A:10 mezőjében a „VALOR HUNGARIAE” szövegrész helyébe a „HUMDA Magyar Autó-Motorsport Fejlesztési Ügynökség” szöveg lép.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
