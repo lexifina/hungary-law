@@ -1,1 +1,1 @@
-2. § Az Eütv. 200. § (2) bekezdésében a „büntetőeljárás során elrendelt kényszergyógykezelés megszűnése” szövegrész helyébe a „büntetőeljárás során elrendelt kényszergyógykezelés megszűnése, valamint kóros elmeállapotú elítélt szabadítása” szöveg lép.
+2. §
