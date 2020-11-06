@@ -1,3 +1,5 @@
-## 6. § A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés hatósági eljárásaiban az igazgatási szolgáltatási díj fizetési körébe tartozó hatósági eljárásokról, igazgatási jellegű szolgáltatásokról és bejelentésekről, továbbá a fizetendő díj mértékéről, valamint a fizetésre vonatkozó egyéb szabályokról szóló 51/2011. (XII. 21.) BM rendelet 2. mellékletében foglalt táblázat 5. sorában a „Csongrád Megyei Katasztrófavédelmi Igazgatóság” szövegrész helyébe a „Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság” szöveg lép.
+## 6. §[^7]
 
 ## 7. A katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendelet módosítása
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

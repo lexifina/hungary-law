@@ -1,3 +1,5 @@
-## 1. § A fegyverismereti vizsga, a fegyverforgalmazási vizsga, a lőfegyver, lőszer hatósági tárolása és a fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezésének igazgatási szolgáltatási díjairól szóló 50/2004. (VIII. 31.) BM rendelet 2. számú mellékletében foglalt táblázat A:7 mezőjében a „Csongrád Megyei Rendőr-főkapitányság” szövegrész helyébe a „Csongrád-Csanád Megyei Rendőr-főkapitányság” szöveg lép.
+## 1. §[^2]
 
 ## 2. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény végrehajtásáról szóló 22/2006. (IV. 25.) BM rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

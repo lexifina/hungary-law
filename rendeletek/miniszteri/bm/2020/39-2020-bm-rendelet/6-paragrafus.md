@@ -1,3 +1,5 @@
-## 5. § A bejelentés köteles tűzvédelmi szolgáltatási tevékenységek megkezdésének és folytatásának részletes szabályairól szóló 50/2011. (XII. 20.) BM rendelet 1. mellékletében a „Csongrád” szövegrész helyébe a „Csongrád-Csanád” szöveg lép.
+## 5. §[^6]
 
 ## 6. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés hatósági eljárásaiban az igazgatási szolgáltatási díj fizetési körébe tartozó hatósági eljárásokról, igazgatási jellegű szolgáltatásokról és bejelentésekről, továbbá a fizetendő díj mértékéről, valamint a fizetésre vonatkozó egyéb szabályokról szóló 51/2011. (XII. 21.) BM rendelet módosítása
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
