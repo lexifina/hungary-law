@@ -1,0 +1,1 @@
+## „n) a célországban megjelenő sajtótermékek szerzői, az európai uniós borok megismertetését elősegítő célországbeli szervezetek, társaságok képviselői, célországbeli szakértők, véleményformálók szállás- és étkezési költségei, amennyiben e költségek mértéke nem haladja meg a program jóváhagyott teljes költségvetésének 20%-át.”

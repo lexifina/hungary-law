@@ -1,0 +1,1 @@
+## „(12) A program költségvetésének módosítása nem eredményezheti a módosított költségvetés összegének 20%-ánál nagyobb mértékű eltérését az eredetileg jóváhagyott program költségvetési összegéhez képest.”
