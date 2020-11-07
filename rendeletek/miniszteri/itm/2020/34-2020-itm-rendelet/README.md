@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-34-20-7
 | --- | --- | --- |
 | 2020-10-10 | 2020-34-20-7Q.1 | 34/2020. (X. 7.) ITM rendelet |
 | 2020-10-11 | 2020-34-20-7Q.2 | 2010: CXXX. törvény |
+| 2020-11-07 | 2020-34-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
