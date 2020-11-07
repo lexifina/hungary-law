@@ -2,9 +2,9 @@
 
 ## 5. A helyhez kötött légszennyező forrás létesítésének levegőminőségi követelményei
 
-7. § (1)[^30] Amennyiben a levegőterheltség a tervezett helyhez kötött légszennyező forrás hatásterületén az Országos Légszennyezettségi Mérőhálózat (a továbbiakban: OLM) regionális adatai alapján nem haladja meg az egészségügyi határértéket, a helyhez kötött légszennyező forrás létesítésére irányuló engedélyezési eljárásban a levegővédelmi követelményeket úgy szükséges meghatározni, hogy annak várható levegőterhelése ne eredményezze az egészségügyi határértékek túllépését.
+7. § (1)[^36] Amennyiben a levegőterheltség a tervezett helyhez kötött légszennyező forrás hatásterületén az Országos Légszennyezettségi Mérőhálózat (a továbbiakban: OLM) regionális adatai alapján nem haladja meg az egészségügyi határértéket, a helyhez kötött légszennyező forrás létesítésére irányuló engedélyezési eljárásban a levegővédelmi követelményeket úgy szükséges meghatározni, hogy annak várható levegőterhelése ne eredményezze az egészségügyi határértékek túllépését.
 
-(1a)[^31] Amennyiben a levegőterheltség a tervezett helyhez kötött légszennyező forrás hatásterületén az OLM regionális adatai alapján meghaladja az egészségügyi határértéket, helyhez kötött légszennyező forrás akkor engedélyezhető, ha
+(1a)[^37] Amennyiben a levegőterheltség a tervezett helyhez kötött légszennyező forrás hatásterületén az OLM regionális adatai alapján meghaladja az egészségügyi határértéket, helyhez kötött légszennyező forrás akkor engedélyezhető, ha
 
 a) az engedélyes a légszennyező forrás hatásterületén az egészségügyi határértéket várhatóan meghaladó légszennyező anyag tekintetében, a levegőterheltségi szint szempontjából egyenértékű kibocsátás csökkentést biztosít,
 
@@ -18,5 +18,5 @@ c) az engedélyes bizonyítja, hogy a légszennyező forrás hatásterületén a
 
 (4) Amely légszennyező forrásnál kibocsátási határértéket annak sajátosságai miatt megállapítani nem lehet, a levegőterhelést legkisebb mértékűre csökkentő levegővédelmi követelmények határozandók meg.
 
-[^30]: A 7. § (1) bekezdése a 292/2015. (X. 8.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^31]: A 7. § (1a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 12. §-a iktatta be.
+[^36]: A 7. § (1) bekezdése a 292/2015. (X. 8.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^37]: A 7. § (1a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 12. §-a iktatta be.

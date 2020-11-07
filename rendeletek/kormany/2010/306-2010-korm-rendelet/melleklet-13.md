@@ -1,4 +1,4 @@
-13. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^138]
+13. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^144]
 
 A kibocsátások jelentésére vonatkozó előírások
 
@@ -76,4 +76,4 @@ A kibocsátások jelentésére vonatkozó előírások
 
 |  | 2 | Tájékoztató kataszterjelentés | – SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10; – Cd, Hg, Pb és korom; – POP-ok, összes PAH, dioxinok/furánok, PCB-k, HCB; – As, Cr, Cu, Ni, Se, Zn, valamint ezek vegyületei és TSP | évente | március 15. |
 
-[^138]: A 13. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § d) pontja iktatta be.
+[^144]: A 13. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § d) pontja iktatta be.

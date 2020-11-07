@@ -1,4 +1,4 @@
-## 19/A. [^80] Országos emisszió kataszter, légszennyezőanyagkibocsátás-előrejelzés, tájékoztató kataszterjelentés
+## 19/A. [^86] Országos emisszió kataszter, légszennyezőanyagkibocsátás-előrejelzés, tájékoztató kataszterjelentés
 
 32/A. § (1) A környezetvédelemért felelős miniszter az OMSZ által készített javaslat alapján
 
@@ -42,4 +42,4 @@ az OMSZ készít javaslatot.
 
 (9) Az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos országos jelentéssel való összhang biztosítása érdekében az OMSZ jogosult az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos nemzeti jelentés tartalmáról és elkészítésének módjáról, az adatszolgáltatás rendjéről, illetve az adatszolgáltatási kötelezettség megszegése esetén fizetendő bírságról szóló kormányrendelet keretében gyűjtött adatok felhasználására.
 
-[^80]: A 19/A. alcímet (32/A. §) a 133/2018. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^86]: A 19/A. alcímet (32/A. §) a 133/2018. (VII. 23.) Korm. rendelet 3. §-a iktatta be.

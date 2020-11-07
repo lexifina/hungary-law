@@ -1,6 +1,6 @@
 ## kibocsátásokat.
 
-## 12/B. [^50] Az országos légszennyezőanyag kibocsátás-csökkentési kötelezettségek teljesítésének értékelésénél alkalmazható eltérések
+## 12/B. [^56] Az országos légszennyezőanyag kibocsátás-csökkentési kötelezettségek teljesítésének értékelésénél alkalmazható eltérések
 
 21/C. § (1) A kén-dioxid-, a nitrogén-oxid-, az NMVOC-, az ammónia- és a PM2,5-kibocsátásra vonatkozó éves országos emisszió kataszterek a 11. melléklet 4. pontjával összhangban kiigazíthatók, amennyiben az országos légszennyezőanyag kibocsátás-csökkentési kötelezettség az emisszió kataszter összeállításához alkalmazott javított, tudományos ismeretek alapján aktualizált új módszer miatt nem teljesül. A kiigazított emisszió kataszterhez csatolni kell a 11. melléklet 4. pontjában foglalt igazoló dokumentumokat.
 
@@ -12,4 +12,4 @@ a) az eltérést mutató kibocsátási tényezők a forrásoldali levegőterhel�
 
 b) a Bizottság tájékoztatása a jelentős eltérésről megtörtént.
 
-[^50]: A 12/B. alcímet (21/C–21/G. §) a 133/2018. (VII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^56]: A 12/B. alcímet (21/C–21/G. §) a 133/2018. (VII. 23.) Korm. rendelet 2. §-a iktatta be.

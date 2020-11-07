@@ -1,4 +1,4 @@
-## 19/B. [^81] A levegőterhelés hatásainak nyomon követése
+## 19/B. [^87] A levegőterhelés hatásainak nyomon követése
 
 32/B. § (1) A környezetvédelemért felelős miniszter meghatározza a levegőterhelés ökoszisztémákra gyakorolt káros hatásainak nyomon követését biztosító hálózat megfigyelési helyszíneit és az alkalmazott megfigyelési mutatókat.
 
@@ -10,4 +10,4 @@
 
 (5) A vizsgálati adatokat valamint a megfigyelési helyszínekben és vizsgálatokban történt változást a környezetvédelemért felelős miniszter négyévente, július 1-ig megküldi a Bizottságnak.
 
-[^81]: A 19/B. alcímet (32/B. §) a 133/2018. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^87]: A 19/B. alcímet (32/B. §) a 133/2018. (VII. 23.) Korm. rendelet 3. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## A LÉGSZENNYEZŐ ANYAGOK KIBOCSÁTÁSÁNAK SZABÁLYOZÁSA
 
-## 12/A. [^49] Országos légszennyezőanyag kibocsátás-csökkentési kötelezettségek
+## 12/A. [^55] Országos légszennyezőanyag kibocsátás-csökkentési kötelezettségek
 
 21/A. § (1) Az országos légszennyezőanyag kibocsátás-csökkentési kötelezettséget a kén-dioxid, a nitrogén-oxidok, az NMVOC, az ammónia és a PM2,5 emberi eredetű kibocsátásai tekintetében a 10. melléklet tartalmazza.
 
@@ -12,4 +12,4 @@
 
 (4) A (3) bekezdés alkalmazása esetén az Országos Levegőterhelés-csökkentési Programban meg kell határozni a nem lineáris kibocsátás-csökkentési pályát és alkalmazásának indokait.
 
-[^49]: A 12/A. alcímet (21/A–21/B. §) a 133/2018. (VII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^55]: A 12/A. alcímet (21/A–21/B. §) a 133/2018. (VII. 23.) Korm. rendelet 2. §-a iktatta be.
