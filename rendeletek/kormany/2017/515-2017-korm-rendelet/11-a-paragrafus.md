@@ -24,7 +24,7 @@ e) olyan mértékben sérült vízi járműveknek, hogy azok már nem felelnek m
 
 f) olyan úszóműveknek vagy egyéb úszólétesítményeknek, amelyek esetében a különleges szállítási műveletekért felelős hatóságok a különleges szállítási művelet végrehajtására a tagállamok hajózási hatóságainak vonatkozó előírásai szerint abban az esetben adnak ki engedélyt, ha azok rendelkeznek ilyen ideiglenes uniós belvízi hajóbizonyítvánnyal;
 
-g) a 13/2001. (IV. 10.) KöViM rendelet 2. mellékletétől a rendeletben foglaltak szerint eltérő vízi járműveknek.
+g)[^3] a 13/2001. (IV. 10.) KöViM rendelet 2. mellékletétől az (EU) 2016/1629 európai parlamenti és tanácsi irányelv 25. és 26. cikkének megfelelően eltérő vízi járművek, a vonatkozó uniós végrehajtási jogi aktusok elfogadásáig.
 
 (8) Ideiglenes uniós belvízi hajóbizonyítványt akkor állít ki a hajózási hatóság, ha a vízi jármű, az úszómű vagy az egyéb úszólétesítmény hajózásra alkalmas. A hajóbizonyítványt a 13/2001. (IV. 10.) KöViM rendelet 2. mellékletében meghatározott minta szerint kell kiállítani.
 
@@ -48,4 +48,8 @@ b) az egyéb vízi járművek esetében a tíz év
 
 (12) Az uniós belvízi hajóbizonyítványban fel kell tüntetni annak időbeli hatályát, amelyet a hajózási hatóság a (10) és a (11) bekezdésben foglaltak alapján és az úszólétesítmény műszaki állapotától, korától és üzemeltetési körülményeitől függően határoz meg.
 
+(13)[^4] Az (EU) 2016/1629 európai parlamenti és tanácsi irányelv 25. és 26. cikke alapján elfogadott uniós végrehajtási jogi aktusokban meghatározott, alkalmazandó eltéréseket és az egyenértékűségek elismerését a hajózási hatóság bejegyzi az uniós belvízi hajóbizonyítványba.
+
 [^2]: A 11/A. §-t a 274/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 11/A. § (7) bekezdés g) pontja a 452/2020. (X. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 11/A. § (13) bekezdését a 452/2020. (X. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.

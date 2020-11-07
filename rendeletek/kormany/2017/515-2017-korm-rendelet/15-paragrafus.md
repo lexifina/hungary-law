@@ -1,4 +1,4 @@
-15. § (1)[^4] Hajózási tevékenység végzésére – a 14. §-ban említett hajózási engedélyen kívül –
+15. § (1)[^6] Hajózási tevékenység végzésére – a 14. §-ban említett hajózási engedélyen kívül –
 
 a) a kabotázs-engedély,
 
@@ -28,7 +28,7 @@ a) harmadik országos és harmadik lobogós engedély esetén 5 nap,
 
 b) a kabotázsengedély esetén 15 nap,
 
-c)[^5] nyaralóhajó bérbeadására, különleges szállításra, hajózási kísérletre vagy munkavégzésre vonatkozó engedély esetén – teljes eljárásban – 30 nap.
+c)[^7] nyaralóhajó bérbeadására, különleges szállításra, hajózási kísérletre vagy munkavégzésre vonatkozó engedély esetén – teljes eljárásban – 30 nap.
 
-[^4]: A 15. § (1) bekezdése a 193/2020. (V. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^5]: A 15. § (4) bekezdés c) pontja a 193/2020. (V. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^6]: A 15. § (1) bekezdése a 193/2020. (V. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^7]: A 15. § (4) bekezdés c) pontja a 193/2020. (V. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
