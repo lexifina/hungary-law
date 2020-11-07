@@ -10,4 +10,6 @@
 
 (5) A támogatási döntésről – annak meghozatalát követő tizenöt napon belül – a lebonyolító szerv írásban értesíti a kedvezményezettet.
 
-(6) E rendelet alapján támogatási döntés 2020. december 31-ig hozható.
+(6)[^1]
+
+[^1]: A 4. § (6) bekezdését az 56/2020. (XI. 6.) AM rendelet 31. §-a hatályon kívül helyezte.

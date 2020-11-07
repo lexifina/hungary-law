@@ -1,6 +1,6 @@
 ## 5. A támogatás forrása
 
-7. § (1)[^1] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény miniszter által vezetett minisztérium fejezetében az Agrármarketing célelőirányzatok jogcímcsoporton elkülönített keretösszeg.
+7. § (1)[^2] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény miniszter által vezetett minisztérium fejezetében az Agrármarketing célelőirányzatok jogcímcsoporton elkülönített keretösszeg.
 
 (2) Az (1) bekezdés szerinti előirányzaton rendelkezésre álló tárgyévi forrás
 
@@ -14,4 +14,4 @@ c) a lebonyolító szerv működésére
 
 (3) Pénzügyi kötelezettségvállalás csak a tárgyévben rendelkezésre álló támogatási keret mértékéig történhet.
 
-[^1]: A 7. § (1) bekezdése az 5/2017. (II. 7.) FM redelet 1. §-ával megállapított szöveg.
+[^2]: A 7. § (1) bekezdése az 5/2017. (II. 7.) FM redelet 1. §-ával megállapított szöveg.
