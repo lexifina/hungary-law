@@ -6,6 +6,8 @@
 
 (4) A külpiaci promóciós terv évente egy alkalommal módosítható. A módosítást a miniszter részére kell benyújtani egy eredeti példányban és elektronikus adathordozón.
 
-(5) A módosítás elfogadásáról vagy elutasításáról a miniszter dönt. Az elfogadott, módosított külpiaci promóciós terv a módosítás elfogadásának napját követő tizenötödik napot követően benyújtott programjavaslatokra vonatkozik.
+(5)[^10] A módosítás iránti kérelemről a miniszter dönt. A módosított külpiaci promóciós terv a módosítás elfogadásának napját követő tizenötödik napot követően benyújtott programjavaslatokra vonatkozik.
 
 (6) A miniszter az elfogadott módosításokat az általa vezetett minisztérium hivatalos lapjában közzéteszi.
+
+[^10]: A 6. § (5) bekezdése az 56/2020. (XI. 6.) AM rendelet 20. §-ával megállapított szöveg.

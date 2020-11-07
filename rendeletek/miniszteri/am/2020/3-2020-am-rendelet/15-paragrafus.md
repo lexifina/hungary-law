@@ -22,13 +22,13 @@ d) a beadvány érkeztetési számát.
 
 (7) Kifizetési kérelmet
 
-a)[^4] a program megvalósításának kezdetétől 2020. június 30-ig felmerült költségek vonatkozásában 2020. augusztus 3. és 2020. augusztus 17. között,
+a)[^56] a program megvalósításának kezdetétől 2020. június 30-ig felmerült költségek vonatkozásában 2020. augusztus 3. és 2020. augusztus 17. között,
 
-b)[^5] a 2020. július 1. és 2021. június 30. között felmerült költségek vonatkozásában 2021. július 1. és 2021. július 15. között,
+b)[^57] a 2020. július 1. és 2021. június 30. között felmerült költségek vonatkozásában 2021. július 1. és 2021. július 15. között,
 
-c)[^6] a 2021. július 1. és 2022. június 30. között felmerült költségek vonatkozásában 2022. július 1. és 2022. július 15. között,
+c)[^58] a 2021. július 1. és 2022. június 30. között felmerült költségek vonatkozásában 2022. július 1. és 2022. július 15. között,
 
-d)[^7] a 2022. július 1. és 2023. június 30. között felmerült költségek vonatkozásában 2023. július 1. és 2023. július 15. között
+d)[^59] a 2022. július 1. és 2023. június 30. között felmerült költségek vonatkozásában 2023. július 1. és 2023. július 15. között
 
 [az a)–d) pont a továbbiakban együtt: éves kifizetési kérelem] kell benyújtani.
 
@@ -40,7 +40,7 @@ d)[^7] a 2022. július 1. és 2023. június 30. között felmerült költségek 
 
 (11) A kifizetési kérelem minimális adattartalma:
 
-a) a kérelmező neve (cégneve), kapcsolattartási információi, a támogatási törvény 9. § (2) bekezdés b) pontja szerinti ügyfél-azonosítója,
+a)[^60] a kérelmező neve (cégneve), kapcsolattartási információi, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 9. § (2) bekezdés b) pontja szerinti ügyfél-azonosítója,
 
 b) az igényelt támogatás összege,
 
@@ -80,7 +80,8 @@ j) ha a kifizetési kérelemben szereplő bármely akció költségeltéréssel 
 
 (17) A támogatás alapjául szolgáló számlának az egyes gazdasági eseményeket és értéküket tételesen tartalmaznia kell.
 
-[^4]: A 15. § (7) bekezdés a) pontja a 34/2020. (VI. 29.) AM rendelet 18. § a) pontja szerint módosított szöveg.
-[^5]: A 15. § (7) bekezdés b) pontja a 34/2020. (VI. 29.) AM rendelet 18. § b) pontja szerint módosított szöveg.
-[^6]: A 15. § (7) bekezdés c) pontja a 34/2020. (VI. 29.) AM rendelet 18. § c) pontja szerint módosított szöveg.
-[^7]: A 15. § (7) bekezdés d) pontja a 34/2020. (VI. 29.) AM rendelet 18. § d) pontja szerint módosított szöveg.
+[^56]: A 15. § (7) bekezdés a) pontja a 34/2020. (VI. 29.) AM rendelet 18. § a) pontja szerint módosított szöveg.
+[^57]: A 15. § (7) bekezdés b) pontja a 34/2020. (VI. 29.) AM rendelet 18. § b) pontja szerint módosított szöveg.
+[^58]: A 15. § (7) bekezdés c) pontja a 34/2020. (VI. 29.) AM rendelet 18. § c) pontja szerint módosított szöveg.
+[^59]: A 15. § (7) bekezdés d) pontja a 34/2020. (VI. 29.) AM rendelet 18. § d) pontja szerint módosított szöveg.
+[^60]: A 15. § (11) bekezdés a) pontja az 56/2020. (XI. 6.) AM rendelet 29. § 27. pontja szerint módosított szöveg.

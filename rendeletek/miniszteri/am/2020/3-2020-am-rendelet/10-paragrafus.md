@@ -10,7 +10,7 @@ b) a kérelem hiánypótlására nem került sor határidőn belül,
 
 c) a programjavaslat a jogosultsági feltételek valamelyikének nem felel meg,
 
-d) a programjavaslat az elsőbbségi feltételekre adható összes pontszám legalább kétharmadát nem éri el, vagy
+d)[^19] a programjavaslat az elsőbbségi kritériumokra adható összes pontszám legalább kétharmadát nem éri el, vagy
 
 e) a támogatási keretösszeg kimerül.
 
@@ -19,3 +19,8 @@ e) a támogatási keretösszeg kimerül.
 a) a 7. § (3) bekezdésében meghatározott akcióhoz a 9. § i) pontjában meghatározott nyilatkozatokat nem nyújtották be, vagy
 
 b) a honlap készítésére vonatkozó akcióhoz a 9. § j) pontjában meghatározott nyilatkozatot nem nyújtották be.
+
+(4)[^20] A programjavaslat benyújtási határidejét követően nem pótolható a 9. § a) pontjában meghatározott, piaci ár igazolására szolgáló dokumentum.
+
+[^19]: A 10. § (2) bekezdés d) pontja az 56/2020. (XI. 6.) AM rendelet 29. § 6. pontja szerint módosított szöveg.
+[^20]: A 10. § (4) bekezdését az 56/2020. (XI. 6.) AM rendelet 23. §-a iktatta be.

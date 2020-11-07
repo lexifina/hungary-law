@@ -1,6 +1,6 @@
 ## 5. A programjavaslat
 
-7. § (1) A programjavaslat legalább tíz akcióból áll.
+7. § (1)[^11] A program legalább tíz akcióból áll.
 
 (2) Az akciók leírásában részletesen ki kell fejteni a megvalósítani kívánt cselekményeket és azok célját, fel kell tüntetni a megvalósítás naptári évét és negyedévét, helyszínét vagy helyszíneit közigazgatási egység szerint, valamint az 1308/2013/EU európai parlamenti és tanácsi rendelet 45. cikk (2) bekezdése a)–e) pontja szerinti akció típusát. Nyomdai kiadvány, vagy honlap készítését tartalmazó akció esetén azok tervezett tartalmát is be kell mutatni.
 
@@ -11,3 +11,5 @@
 (5) A (3) bekezdés szerinti akció eredményeként elkészült közösségi arculati alapelemek vonatkozásában a kérelmező nyilatkozik, hogy azokat az érintett földrajzi árujelző képviseletében eljáró hegyközségi tanács részére átadja.
 
 (6) Egy földrajzi árujelzővel kapcsolatban a hegyközségi tanács a (4) bekezdésre vonatkozóan kizárólag egy jóváhagyó nyilatkozatot tehet, ideértve az Európai Unió területén történő borpromóció támogatásáról szóló 2/2020. (II. 28.) AM rendelet szerinti, azonos árujelzőre vonatkozó nyilatkozatokat is.
+
+[^11]: A 7. § (1) bekezdése az 56/2020. (XI. 6.) AM rendelet 29. § 5. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 9. § A programjavaslathoz mellékelni kell
 
-a) az egyes akciók 8. § (2) bekezdés e) pontja szerinti költségtervét alátámasztó, legalább három különböző szolgáltatótól származó árajánlatot annak igazolása érdekében, hogy az akciók megvalósításának költsége nem haladja meg a szokásos piaci árat,
+a)[^18] a 8. § (2) bekezdés e) pontja szerinti tevékenységhez kapcsolódó, a 8. § (3) bekezdésében foglaltak igazolására szolgáló dokumentumokat,
 
 b) a 8. § (2) bekezdés h) pontja szerinti saját forrás rendelkezésre állásáról szóló, harminc napnál nem régebbi igazolást az igényelt támogatás 15%-ának megfelelő összegben,
 
@@ -21,3 +21,5 @@ i) a 7. § (3) bekezdése szerinti akció esetén a 7. § (4) és (5) bekezdése
 j) ha a programjavaslat tartalmaz honlap készítésére vonatkozó akciót, akkor nyilatkozatot arról, hogy a kérelmező vállalja a honlap üzemeltetését, frissítését és fenntartását a program befejezését követő legalább öt évig,
 
 k) a kérelmező nyilatkozatát arról, hogy közvetlenül vagy közeli hozzátartozója révén mely gazdasági társaságban és milyen mértékben van tulajdonosi érdekeltsége.
+
+[^18]: A 9. § a) pontja az 56/2020. (XI. 6.) AM rendelet 22. §-ával megállapított szöveg.
