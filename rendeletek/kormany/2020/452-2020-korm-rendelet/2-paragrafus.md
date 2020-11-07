@@ -1,0 +1,1 @@
+## „(13) Az (EU) 2016/1629 európai parlamenti és tanácsi irányelv 25. és 26. cikke alapján elfogadott uniós végrehajtási jogi aktusokban meghatározott, alkalmazandó eltéréseket és az egyenértékűségek elismerését a hajózási hatóság bejegyzi az uniós belvízi hajóbizonyítványba.”
