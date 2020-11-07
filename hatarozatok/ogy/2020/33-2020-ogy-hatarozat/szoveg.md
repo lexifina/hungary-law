@@ -1,7 +1,0 @@
-Az Országgyűlés – figyelemmel Magyarországnak az Egyesült Nemzetek Alapokmányából fakadó kötelezettségeire, az Egyesült Nemzetek Szervezete (a továbbiakban: ENSZ) Biztonsági Tanácsának határozataira, különösen a 2006. augusztus 11-én elfogadott 1701 (2006) számú BT-határozatra, valamint figyelemmel arra, hogy az Alaptörvény 47. cikk (1) bekezdése alapján a Kormány hatásköre dönteni az ENSZ békefenntartó misszióiban történő részvételről – a következő határozatot hozza:
-
-1.[^2]
-
-2. Ez a határozat a közzétételét követő napon lép hatályba.
-
-[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
