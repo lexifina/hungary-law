@@ -1,0 +1,3 @@
+8. § (1) A hajótulajdonosnak biztosítania kell a hajón a megfelelő minőségű, tápértékű és mennyiségű élelmiszert és ivóvizet a tengeri hajók hajózásra alkalmasságának a Tengerészeti Munkaügyi Egyezményen alapuló feltételeiről szóló 67/2015. (XI. 18.) NFM rendelet 2. mellékletében foglalt minimumkövetelményeknek megfelelően.
+
+(2) Az ételt és a vizet a halászhajó-tulajdonos a halászoknak díjmentesen biztosítja; ugyanakkor a jogszabályoknak megfelelően a költségeket működési költségként megtéríttetheti, ha a költségmegosztási rendszert szabályozó kollektív szerződés vagy a halászati munkaszerződés úgy rendelkezik.
