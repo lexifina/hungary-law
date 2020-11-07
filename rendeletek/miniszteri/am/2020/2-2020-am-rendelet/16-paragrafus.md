@@ -1,4 +1,4 @@
-16. § (1) A Kincstár a program költségvetését euróban tartja nyilván. A támogatási összeg megállapításakor a nem forintban kifejezett összegeket forintra, a megállapított támogatás összegét euróra, az Európai Központi Bank által a kifizetési kérelem beérkezésének napját megelőzően utoljára megállapított árfolyamon kell átváltani.
+16. § (1)[^62] A Kincstár a program költségvetését euróban tartja nyilván. A támogatási összeg megállapításakor a nem forintban kifejezett összegeket forintra, a megállapított támogatás összegét euróra, az Európai Központi Bank által a kifizetési kérelem benyújtásának napját megelőző hónapban utoljára közzétett, a benyújtás hónapjának első napján érvényes árfolyamon kell átváltani.
 
 (2) A Kincstár a kifizetési kérelmeket beérkezési sorrendben bírálja el. Ha a kérelmező a kérelmét módosítja, a kifizetési kérelemnek a sorrendben elfoglalt helyét a módosítás beérkezésének napja határozza meg. Ha a Kincstár a kérelmezőt hiánypótlásra szólítja fel, a kifizetési kérelem beérkezési napjának a határidőben teljesített hiánypótlás beérkezésének napját, ennek elmaradása esetén a hiánypótlási határidő utolsó napját követő ötödik munkanapot kell tekinteni. A Kincstár a beérkezési sorrendben azonos helyen szereplő kérelmeket a támogatási igények összegének növekvő sorrendjében bírálja el.
 
@@ -15,3 +15,5 @@ b) a kérelmező által képviselt borászati termékek eladásainak részletes 
 c) a kérelmező által képviselt borászati termékek piaci helyzetének elemzése és összehasonlítása a célországban a program elindulását megelőző állapottal.
 
 (6) Az értékelés eredeti példányát a Kincstár a benyújtástól számított tizenöt napon belül továbbítja a minisztérium részére a program utólagos értékelése céljából.
+
+[^62]: A 16. § (1) bekezdése az 56/2020. (XI. 6.) AM rendelet 14. § 25. pontja szerint módosított szöveg.

@@ -6,12 +6,15 @@
 
 (3) A kérelmező önhibáján kívül bekövetkezett körülmény fennállását a kérelmező bejelentése és az önhiba kizárásának igazolása alapján a Kincstár állapítja meg.
 
-(4) Ha a kedvezményezett a jóváhagyott program megvalósítása során – az (1) bekezdést figyelembe véve – nem teljesíti az 1. melléklet szerinti, a bírálat során a programjavaslatnak megítélt pontszámokhoz tartozó elsőbbségi feltételek valamelyikét, az elsőbbségi feltétel tekintetében megítélt többletpontot elveszíti.
+(4)[^63] Ha a kedvezményezett a jóváhagyott program megvalósítása során – az (1) bekezdést figyelembe véve – nem teljesíti az 1. melléklet szerinti, a bírálat során a programjavaslatnak megítélt pontszámokhoz tartozó elsőbbségi kritériumok valamelyikét, az elsőbbségi kritériumok tekintetében megítélt többletpontot elveszíti.
 
-(5) Ha a programjavaslat az elsőbbségi feltételek alapján megítélhető pontszáma a program tartalmi módosításával olyan érték alá csökken, amely pontszám esetén a programjavaslatot az eredeti elbírálás során el kellett volna utasítani, az addig kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+(5)[^64] Ha a programjavaslat az elsőbbségi kritériumok alapján megítélhető pontszáma a program tartalmi módosításával olyan érték alá csökken, amely pontszám esetén a programjavaslatot az eredeti elbírálás során el kellett volna utasítani, az addig kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
 (6) A kérelmező a támogatást jogosulatlanul veszi igénybe abban az esetben is, ha az akció megvalósításának ellenőrzését az akció megvalósításában közreműködő személy vagy szervezet akadályozza, továbbá akkor is, ha a kérelmező a 16. § (4) bekezdése szerinti értékelés benyújtását elmulasztja.
 
 (7) Ha a kérelmező a 9. § j) pontja szerinti nyilatkozata ellenére a program végrehajtása során készített honlap üzemeltetését, frissítését és fenntartását elmulasztja, az adott akcióra vagy akciókra kifizetett támogatási összeg jogosulatlan kifizetésnek minősül.
 
 (8) Ezen § szerinti jogkövetkezményeket nem kell alkalmazni, ha a kérelmező a programjavaslatban vállalt akciókat azért nem tudja megvalósítani, mert az akció megvalósítási helye szerinti tagállam a program megvalósítási ideje alatt az Európai Unióból kilépett.
+
+[^63]: A 17. § (4) bekezdése az 56/2020. (XI. 6.) AM rendelet 14. § 7. és 26. pontja szerint módosított szöveg.
+[^64]: A 17. § (5) bekezdése az 56/2020. (XI. 6.) AM rendelet 14. § 7. pontja szerint módosított szöveg.

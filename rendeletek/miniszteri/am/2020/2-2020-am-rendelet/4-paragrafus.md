@@ -12,6 +12,15 @@ d) az a–c) pontokban meghatározott borászati termelők vagy szervezetek tár
 
 [az a)–d) pont a továbbiakban együtt: kérelmező] nyújthat be.
 
-(2) Az (1) bekezdés a) pontja szerinti kérelmező kivételével egy természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet csak egy programjavaslatot nyújthat be, és csak a b)–d) pontok szerinti egy társulásnak lehet tagja.
+(2)[^8] Az (1) bekezdés a) pontja szerinti kérelmező kivételével egy természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet
 
-(3) A kérelmezőnek legkésőbb a programjavaslat benyújtásával egyidejűleg eleget kell tennie a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: támogatási törvény) előírt, az intézkedésben való részvételhez szükséges nyilvántartásba vételi kötelezettségének.
+a) az adott benyújtási időszakban csak egy programjavaslatot nyújthat be,
+
+b) e rendelet alapján egy programot hajthat végre, és
+
+c) csak az (1) bekezdés b)–d) pontja szerinti egy társulásnak lehet tagja.
+
+(3)[^9]
+
+[^8]: A 4. § (2) bekezdése az 56/2020. (XI. 6.) AM rendelet 4. §-ával megállapított szöveg.
+[^9]: A 4. § (3) bekezdését az 56/2020. (XI. 6.) AM rendelet 15. § a) pontja hatályon kívül helyezte.
