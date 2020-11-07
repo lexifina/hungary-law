@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1740-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-11-06 | 2020-1740-30-22.1 | 1740/2020. (XI. 5.) Korm. határozat |
+| 2020-11-07 | 2020-1740-30-22.2 | 2010: CXXX. törvény |
