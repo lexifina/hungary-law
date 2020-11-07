@@ -1,0 +1,17 @@
+1. § (1) E rendelet rendelkezéseit
+
+a) a Magyarország területén szolgálati céllal tartózkodó, az Észak-atlanti Szerződés Szervezete tagállamának fegyveres erejét az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 107. § (1) bekezdés c) pontja alapján megillető általános forgalmi adó alóli mentesség, valamint a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 9. § (1) bekezdés i)–j) pontja, 12. § c), g) és i) pontja, 13. § (6) bekezdése alapján megillető jövedéki adó alóli mentesség,
+
+b) a Magyarország területén szolgálati céllal tartózkodó, a Békepartnerség részes államainak fegyveres erejét az 1995. évi CII. törvénnyel kihirdetett, az Észak-atlanti Szerződés részes államai és a „Békepartnerség” más résztvevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodás és annak Kiegészítő Jegyzőkönyve alapján, a fegyveres erő és polgári állomány szolgálati járműveiben, légi járműveiben és hajóiban felhasznált üzemanyag-, olaj- és kenőanyag-ellátás tekintetében, a Jöt. 9. § (1) bekezdés i)–j) pontja és 12. § c), g) és i) pontja szerint megillető jövedéki adó alóli, valamint az Áfa tv. 107. § (5) bekezdése alapján megillető általános forgalmi adó alóli mentesség,
+
+c) az 1999. évi CXVI. törvénnyel kihirdetett, az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyv I. cikk b) vagy c) pontja vagy XIV. cikke hatálya alá tartozó, vagy nemzetközi szerződésben nemzetközi katonai parancsnokság jogállással felállított nemzetközi katonai szervezetet a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény (a továbbiakban: Küfe tv.) 14. § (1) bekezdésében foglaltak szerint hivatalos célú termékbeszerzés vagy szolgáltatás igénybevétele tekintetében megillető általános forgalmi adó és jövedéki adó alóli mentesség,
+
+d) a 2019. évi LI. törvénnyel kihirdetett, a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a védelmi együttműködésről szóló megállapodás (a továbbiakban: DCA) XVI. cikke alapján az Amerikai Egyesült Államok fegyveres erőit megillető általános forgalmi adó és jövedéki adó alóli, az egyes, az általános forgalmi adót és a jövedéki adót érintő kiváltságok, kedvezmények és mentességek érvényesítésének végrehajtásáról szóló 11/2010. (III. 31.) PM rendelet 3. § (2) bekezdésében meghatározott mentességi státusz,
+
+e) az USA vállalkozókat a DCA XVI. cikke alapján megillető általános forgalmi adó és jövedéki adó alóli, a Küfe tv. 15. §-ában meghatározott mentességi státusz, illetve hivatalos cél és
+
+f) az Amerikai Egyesült Államok fegyveres erőinek tagjait és hozzátartozóit a DCA XVII. cikke alapján megillető általános forgalmi adó és jövedéki adó alóli, a Küfe tv. 16. §-ában meghatározott mentességi státusz, illetve személyes cél
+
+igazolására irányuló eljárásokban kell alkalmazni.
+
+(2) E rendelet hatálya nem terjed ki az Észak-atlanti Szerződés Szervezetének tagállamai, valamint a Békepartnerség részes államai fegyveres erőinek a Jöt. 9. § (1) bekezdés i)–j) pontja, 12. § c) és i) pontja, valamint 13. § (6) bekezdése alapján a Magyar Honvédség által saját készletéből kiszolgált üzemanyagok és kenőanyagok adómentes kitárolásához kapcsolódó igazolási eljárásra.
