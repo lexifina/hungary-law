@@ -1,3 +1,5 @@
-## 6. § Hatályát veszti az egyes külföldi fegyveres erőket, nemzetközi katonai parancsnokságokat és azok állományát megillető egyes adómentességek fennálltának igazolásával kapcsolatos eljárási szabályokról szóló 5/2013. (VII. 3.) HM rendelet.
+## 6. §[^1]
 
 1. melléklet a 16/2020. (XI. 6.) HM rendelethez
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
