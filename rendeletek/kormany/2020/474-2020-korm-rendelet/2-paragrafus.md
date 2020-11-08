@@ -1,19 +1,22 @@
-## „d) szagvédelmi hatásterület meghatározása esetén a tervezési irányértékkel egyenlő vagy annál nagyobb;”
-
 ## 2. § Az R.
 
-a) 2. § 12c. pont b) alpontjában a „nagyobb vagy” szövegrész helyébe a „nagyobb,” szöveg,
+a)[^3]
 
-b) 2. § 12c. pont c) alpontjában a „nagyobb;” szövegrész helyébe a „nagyobb, vagy” szöveg,
+b)[^4]
 
-c) 2. § 14. pont b) alpontjában a „nagyobb, vagy” szövegrész helyébe a „nagyobb,” szöveg,
+c)[^5]
 
-d) 2. § 14. pont c) alpontjában a „nagyobb;” szövegrész helyébe a „nagyobb, vagy” szöveg,
+d)[^6]
 
-e) 25. § (1) bekezdésében a „Helyhez kötött” szövegrész helyébe az „A területi környezetvédelmi hatóság hatáskörébe tartozó, helyhez kötött” szöveg,
+e)[^7]
 
-f)[^1]
+f)[^8]
 
 lép.
 
-[^1]: A 2. § f) pontja a 4. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^3]: A 2. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 2. § f) pontja az 550/2020. (XII. 2.) Korm. rendelet 1. §-a alapján nem lép hatályba.

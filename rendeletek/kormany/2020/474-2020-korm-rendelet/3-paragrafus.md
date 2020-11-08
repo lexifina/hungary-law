@@ -1,3 +1,3 @@
-3. §[^2]
+3. §[^9]
 
-[^2]: A 3. § a 4. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^9]: A 3. § az 550/2020. (XII. 2.) Korm. rendelet 1. §-a alapján nem lép hatályba.
