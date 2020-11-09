@@ -1,3 +1,0 @@
-8. § (1) Ez a rendelet a belvízi hajókra vonatkozó műszaki követelmények megállapításáról, a 2009/100/EK irányelv módosításáról és a 2006/87/EK irányelv hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1629 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-(2) Ez a rendelet a tengerészeti felszerelésekre vonatkozó tervezési, gyártási és teljesítménykövetelményekről és vizsgálati előírásokról, valamint az (EU) 2018/773 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. augusztus 6-i (EU) 2019/1397 bizottsági végrehajtási rendelet alkalmazásához szükséges rendelkezéseket állapít meg.
