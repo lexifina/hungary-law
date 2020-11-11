@@ -24,7 +24,21 @@
 
 ## Határidő: azonnal
 
-## 4. felhívja a belügyminisztert arra, hogy a 3. pontban foglalt támogatási szerződésben a támogatás visszafizetésének határidejét 2020. december 1-jében kösse ki;
+## 4.[^1] felhívja a belügyminisztert, hogy a 3. pontban foglalt támogatási szerződésben a támogatás összegét és visszafizetésnek határidejét – a 2019. október 1-ig már visszafizetett 1 000 000 000 forint támogatásra figyelemmel – 5 540 000 000 forint összegre módosítsa az alábbi ütemezés szerint:
+
+## a) 2020. december 1-ig 740 000 000 forint,
+
+## b) 2021. szeptember 30-áig 1 200 000 000 forint,
+
+## c) 2022. szeptember 30-áig 1 200 000 000 forint,
+
+## d) 2023. szeptember 30-áig 1 200 000 000 forint,
+
+## e) 2024. szeptember 30-áig 1 200 000 000 forint;
+
+## Felelős: belügyminiszter
+
+## Határidő: a támogatási szerződés módosítása tekintetében azonnal
 
 ## 5. felhívja a belügyminisztert arra, hogy a 3. pontban foglalt támogatási szerződést csak abban az esetben kösse meg Pécs Megyei Jogú Várossal, ha az önkormányzat a támogatási szerződésben kötelezi magát arra, hogy
 
@@ -75,3 +89,5 @@
 |  |  |  | 19 |  |  |  |  |  | Környezet és Energia Operatív Program |  |
 
 |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -6 540 000 000 |
+
+[^1]: A 4. pont az 1784/2020. (XI. 11.) Korm. határozat 1. pontjával megállapított szöveg.
