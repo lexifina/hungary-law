@@ -20,7 +20,7 @@
 
 ## Felelős: a Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, belügyminiszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2019. június 30., a Bethlen Gábor Alap fejezet javára biztosított 562 000 000 forint tekintetében 2021. december 31., a Pécs Megyei Jogú Város támogatása II. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2020. december 15.
+## Határidő: 2019. június 30., a Bethlen Gábor Alap fejezet javára biztosított 562 000 000 forint tekintetében 2021. december 31., a Pécs Megyei Jogú Város támogatása II. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2024. október 15.
 
 ## c) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 43. Központi Maradványelszámolási Alap címmel történő kiegészítését;
 
@@ -60,7 +60,21 @@
 
 ## Határidő: 2018. február 28.
 
-## i) felhívja a belügyminisztert arra, hogy a h) alpontban meghatározott támogatási szerződésben a támogatás visszafizetésének határidejét 2020. december 1-jében kösse ki;
+## i)[^2] felhívja a belügyminisztert, hogy a h) alpontban meghatározott támogatási szerződésben a támogatás visszafizetésnek határidejét az alábbi ütemezés szerint módosítsa:
+
+## a) 2020. december 1-ig 800 000 000 forint,
+
+## b) 2021. szeptember 30-áig 550 000 000 forint,
+
+## c) 2022. szeptember 30-áig 550 000 000 forint,
+
+## d) 2023. szeptember 30-áig 550 000 000 forint,
+
+## e) 2024. szeptember 30-áig 550 000 000 forint;
+
+## Felelős: belügyminiszter
+
+## Határidő: a támogatási szerződés módosítása tekintetében azonnal
 
 ## j) felhívja a belügyminisztert arra, hogy az f) és h) alpont szerinti támogatási szerződést csak abban az esetben kösse meg Pécs Megyei Jogú Várossal, ha az önkormányzat a támogatási szerződésben kötelezi magát arra, hogy
 
@@ -100,16 +114,17 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1025/2014. (I. 30.) Korm. határozattal az Emberi Erőforrások Minisztériuma fejezet, Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 106,0 millió forint tekintetében az elszámolási határidő 2018. június 30.
 
-## 3–20.[^2]
+## 3–20.[^3]
 
 ## 21. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból, a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat 4. mellékletében a XX. Emberi Erőforrások Minisztériuma, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport, K6 Beruházások kiemelt előirányzat javára átcsoportosított 5 844 212 810 forint a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
 ## 22. A Kormány egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat (a továbbiakban: Határozat2.) 1. mellékletében a XV. Nemzetgazdasági Minisztérium, 25. Fejezeti kezelésű előirányzatok cím, 5. Belgazdasági feladatok alcím, 11. Irinyi terv végrehajtása jogcímcsoport, 2. a Beszállítói-fejlesztési Program jogcím K5 Egyéb működési célú kiadások kiemelt előirányzaton jelzett –840 500 000 forint átcsoportosításból –440 500 000 forint a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerül átcsoportosításra; valamint a Beruházás Előkészítési Alap előirányzatból történő átcsoportosítás a K5 Egyéb működési célú kiadások kiemelt előirányzat helyett a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére történik.
 
-## 23–28.[^3]
+## 23–28.[^4]
 
 1. melléklet az 1013/2018. (II. 2.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 19. pontja, az 1263/2019. (V. 7.) Korm. határozat 6. pontja, az 1210/2020. (V. 8.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^2]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 19. pontja, az 1263/2019. (V. 7.) Korm. határozat 6. pontja, az 1210/2020. (V. 8.) Korm. határozat 4. pontja, az 1784/2020. (XI. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. pont i) alpontja az 1784/2020. (XI. 11.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
