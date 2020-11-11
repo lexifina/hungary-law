@@ -1,0 +1,7 @@
+# 2020. évi CIX. törvény a koronavírus-világjárvány második hulláma elleni védekezésről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-109-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2020-11-11 | 2020. évi CIX. törvény | 2020-109-00-00.0 (közlönyállapot) |
