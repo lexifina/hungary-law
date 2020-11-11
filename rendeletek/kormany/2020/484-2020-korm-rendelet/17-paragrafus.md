@@ -1,0 +1,21 @@
+## foglalt előírásokat nem kell alkalmazni.
+
+## 10. A nevelési, oktatási intézményekre vonatkozó védelmi intézkedések
+
+17. § (1) A bölcsődék, az óvodák és az általános iskolák a 8. osztályig nyitva tartanak.
+
+(2) Az iskolák a középfokú oktatásban 9. osztálytól digitális munkarendben működnek. A középfokú intézmények kollégiumai az iskolaigazgató döntése szerint működnek. A középiskolák és szakképző intézmények kapcsán a kormányzati intézkedések végrehajtásáról a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény értelmében a köznevelésért, illetve a szakképzésért felelős miniszter határozatban rendelkezik.
+
+(3) A nevelési, oktatási intézménybe
+
+a) a 18. § (1) bekezdés a)–c) pontjában meghatározott személy, illetve a nagykorú tanuló csak abban az esetben léphet be, ha a testhőmérséklete nem haladja meg az országos tisztifőorvos által meghatározott mértéket,
+
+b) történő belépés során azt a gyermeket, illetve kiskorú tanulót, akinek a testhőmérséklete eléri vagy meghaladja az országos tisztifőorvos által meghatározott mértéket, a többi gyermektől, illetve tanulótól el kell különíteni, és erről a szülőt vagy a törvényes képviselőt távközlési eszköz útján haladéktalanul tájékoztatni kell.
+
+(4) Az országos tisztifőorvos határozatban közzéteszi a nevelési, oktatási intézménybe való belépéshez megengedett testhőmérséklet mértékét.
+
+(5) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 89. § (2) bekezdése szerinti közhírré tétel mellett a (4) bekezdés szerinti határozatról készült közleményt a Hivatalos Értesítőben is közzé kell tenni.
+
+(6) A nevelési, oktatási intézmény vezetője köteles gondoskodni a (3) bekezdés szerinti előírás végrehajtásáról.
+
+(7) A nevelési, oktatási intézménybe történő érkezéskor mindenki köteles magát a testhőmérséklet ellenőrzésnek alávetni.
