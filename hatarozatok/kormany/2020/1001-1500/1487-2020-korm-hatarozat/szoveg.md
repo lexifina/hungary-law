@@ -12,27 +12,25 @@ Felelős: miniszterelnök
 
 Határidő: azonnal
 
-5. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az Európa-bajnokság
+5.[^1] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az Európa-bajnokság
 
-a) pályázati letéti díj költségeinek biztosításához szükséges legfeljebb 20 000 eurónak megfelelő forint összeg, és
+a) pályázati letéti díj költségeinek biztosításához szükséges legfeljebb 20 000 eurónak megfelelő forint összeg biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára,
 
-b) rendezési jogának elnyerése esetén a teljes rendezési jogdíj első részletének a rendelkezésre állásához szükséges legfeljebb 40 000 eurónak megfelelő forint összeg
-
-biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoporton;
+b) rendezési jogának elnyerése esetén a teljes rendezési díj első részletének a rendelkezésre állásához szükséges legfeljebb 40 000 eurónak megfelelő forint összeg biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport és szakmai feladatok támogatása jogcímcsoport javára;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: az a) alpont tekintetében azonnal
 
-a b) alpont tekintetében a 2020. évben, az Európa-bajnokság rendezési jogának elnyerését követően 30 napon belül
+a b) alpont tekintetében 2021. évi központi költségvetés végrehajtása során, az Európa-bajnokság rendezési jogának elnyerését követő 30 napon belül
 
-6. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 5. pont a) és b) alpontjában meghatározott forrás terhére támogatói okirat kiadásáról a Társaság részére elszámolási, a fel nem használt támogatás tekintetében visszatérítési kötelezettséggel;
+6.[^2] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 5. pont a) és b) alpontjában meghatározott forrás terhére támogatói okirat kiadásáról a Társaság részére elszámolási, a fel nem használt támogatás tekintetében visszatérítési kötelezettséggel;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: az 5. pont a) alpontja tekintetében a forrás rendelkezésre állását követően 60 napon belül
 
-az 5. pont b) alpontja tekintetében a 2020. évben az Európa-bajnokság rendezési jogának elnyerése esetén, a forrás rendelkezésre állását követően 60 napon belül
+az 5. pont b) alpontja tekintetében a 2021. évben az Európa-bajnokság rendezési jogának elnyerése esetén, a forrás rendelkezésre állását követően 60 napon belül
 
 7. felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost, a Miniszterelnökséget vezető minisztert és az emberi erőforrások miniszterét, hogy az Európa-bajnokság rendezési jogának elnyerése esetén készítsenek előterjesztést az Európa-bajnokság megrendezéséhez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
 
@@ -49,3 +47,6 @@ Határidő: az Európa-bajnokság rendezési jogának elnyerése esetén 2020. d
 Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: az Európa-bajnokság szervezésével és lebonyolításával egyidejűleg, folyamatosan
+
+[^1]: Az 5. pont az 1778/2020. (XI. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: A 6. pont az 1778/2020. (XI. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
