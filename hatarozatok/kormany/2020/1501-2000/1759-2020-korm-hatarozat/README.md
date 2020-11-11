@@ -1,0 +1,9 @@
+# 1759/2020. (XI. 11.) Korm. határozat
+
+a Pannónia Szíve Fejlesztési Program keretében Bicske város területén megvalósuló Pannónia Szíve Sport és Kulturális Központ megvalósításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1759-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-11-11 | 2020-1759-30-22.1 | 1759/2020. (XI. 11.) Korm. határozat |
