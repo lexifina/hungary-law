@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
 
-## Határidő: 2020. december 31.
+## Határidő: 2020. december 31., a Versenysport támogatása előirányzat javára átcsoportosított 538 667 500 forint tekintetében 2022. június 30.[^1]
 
 1. melléklet az 1035/2020. (II. 13.) Korm. határozathoz
 
@@ -121,3 +121,5 @@
 |  |  | egyéb: |  | azonnal |  | 1 110 490 842 | 1 110 490 842 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A határozat az 1778/2020. (XI. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
