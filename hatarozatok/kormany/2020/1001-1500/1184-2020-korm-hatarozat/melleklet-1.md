@@ -24,6 +24,14 @@
 
 ## Határidő: a 2020. évi költségvetési támogatás folyósítására a támogatói okirat hatálybalépését követő 30 napon belül
 
+## 6/A.[^1] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához a 2020. évben szükséges 1 125 000 000 forint forrás biztosításáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport javára;
+
+## Felelős: pénzügyminiszter
+
+## Miniszterelnökséget vezető miniszter
+
+## Határidő: azonnal
+
 ## 7. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Beruházás 2021. évi megvalósításához szükséges 5 800 000 000 forint biztosításáról a 2021. évi központi költségvetés XI. Miniszterelnökség fejezetében;
 
 ## Felelős: Miniszterelnökséget vezető miniszter
@@ -113,3 +121,5 @@
 | Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 75 037 500 |  | 75 037 500 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 6/A. pontot az 1785/2020. (XI. 11.) Korm. határozat iktatta be.
