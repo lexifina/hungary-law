@@ -1,3 +1,5 @@
+## 5. §
+
 ## 4. A tömegközlekedéssel összefüggő járványügyi intézkedések
 
 6. § (1) A SARS-CoV-2 koronavírus világjárvány (a továbbiakban: koronavírus világjárvány) terjedésének csökkentése érdekében, Budapesten, valamint a megyei jogú városokban helyi tömegközlekedési szolgáltatást végző gazdasági társaság köteles járatsűrítési tervet készíteni a munkanapokon reggel 7 óra és délelőtt 9 óra közötti, valamint délután 15 óra és este 19 óra közötti időszakokra.
