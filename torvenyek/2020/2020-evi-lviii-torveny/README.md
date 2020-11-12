@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-58-00-00
 | 2020-06-19 | 2010. évi CXXX. törvény | 2020-58-00-00.2 |
 | 2020-07-22 | 2020. évi LXXXI. törvény | 2020-58-00-00.3 |
 | 2020-10-30 | 2020. évi CIV. törvény | 2020-58-00-00.4 |
+| 2020-11-12 | 2020. évi CIV. törvény | 2020-58-00-00.5 |
