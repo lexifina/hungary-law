@@ -2,6 +2,6 @@
 
 5. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
 
-(2)[^1]
+(2)[^3]
 
-[^1]: Az 5. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^3]: Az 5. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
