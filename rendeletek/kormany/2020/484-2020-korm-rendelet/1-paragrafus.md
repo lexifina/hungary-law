@@ -1,6 +1,6 @@
 ## 1. A maszkviselési szabályok megerősítése
 
-1. § (1) A hatodik életévét be nem töltött kiskorú kivételével mindenki köteles
+1. §[^2] (1) A hatodik életévét be nem töltött kiskorú kivételével mindenki köteles
 
 a) a tömegközlekedési eszközön,
 
@@ -43,3 +43,5 @@ hb) vendégként
 a) az ott foglalkoztatottaknak az ellátottakkal való közvetlen érintkezéskor, vagy ha tartósan 1,5 méteren belüli távolságban tartózkodnak az ellátottakkal,
 
 b) az ellátottaknak a közösségi programok alkalmával és a közösségi terekben való tartózkodás esetén lehetőség szerint
+
+[^2]: Az 1. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

@@ -1,6 +1,6 @@
 ## 5. Az üzletekre vonatkozó védelmi intézkedések
 
-9. § (1) Az ott foglalkoztatottak kivételével tilos este 7 óra és reggel 5 óra közötti időben
+9. §[^10] (1) Az ott foglalkoztatottak kivételével tilos este 7 óra és reggel 5 óra közötti időben
 
 a) az üzletben,
 
@@ -29,3 +29,5 @@ b) az üzemanyagtöltő-állomás
 ## nyitva tarthat.
 
 (4) E § alkalmazásában a vendéglátó üzlet nem minősül üzletnek.
+
+[^10]: A 9. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

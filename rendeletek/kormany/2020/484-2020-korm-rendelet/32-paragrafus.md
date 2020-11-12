@@ -1,11 +1,6 @@
-## 31. § Hatályát veszti az R1.
+## 31. §[^28]
 
-## 32. § Hatályát veszti az R2.
+32. §[^29]
 
-a) 1. alcíme,
-
-b) 2. alcíme,
-
-c) 3. alcíme,
-
-d) 10. §-a.
+[^28]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
