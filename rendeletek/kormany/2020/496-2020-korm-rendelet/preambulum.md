@@ -1,0 +1,1 @@
+A Kormány a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (1d) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
