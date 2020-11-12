@@ -1,4 +1,4 @@
-10/A. §[^46] (1) Más hazai minősített adatot kezelő szervnél történő minősített adat felhasználása céljából a minősített adatot felhasználó személy nemzeti és külföldi személyi biztonsági tanúsítványáról a biztonsági vezető igazolást állít ki, amelyet közvetlenül vagy a minősített adatot felhasználó személy útján megküld a minősített adat felhasználása szerinti szerv biztonsági vezetőjének.
+10/A. §[^48] (1) Más hazai minősített adatot kezelő szervnél történő minősített adat felhasználása céljából a minősített adatot felhasználó személy nemzeti és külföldi személyi biztonsági tanúsítványáról a biztonsági vezető igazolást állít ki, amelyet közvetlenül vagy a minősített adatot felhasználó személy útján megküld a minősített adat felhasználása szerinti szerv biztonsági vezetőjének.
 
 (2) Az igazolás tartalmazza
 
@@ -20,4 +20,4 @@ f) a biztonsági vezető aláírását.
 
 (5) Az igazolás kezelését és tárolását a biztonsági vezető vagy az e feladatra általa írásban kijelölt személy vagy szerv végzi.
 
-[^46]: A 10/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^48]: A 10/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 11. §-a iktatta be.

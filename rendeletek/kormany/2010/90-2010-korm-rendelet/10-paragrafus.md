@@ -4,7 +4,7 @@
 
 ## 6. A biztonsági vezetőnek a személyi biztonsági tanúsítvány kiadásával és kiadásának kezdeményezésével kapcsolatos feladatai
 
-10. § (1)[^42] A minősített adatot kezelő szervnél – a gazdálkodó szervezet kivételével – nemzeti minősített adatot felhasználó, valamint ilyen adatot felhasználó közreműködő részére a biztonsági vezető a Nemzeti Biztonsági Felügyelet honlapján közzétett minta alapján egy példányban kiadja a nemzeti minősített adatra érvényes személyi biztonsági tanúsítványt.
+10. § (1)[^44] A minősített adatot kezelő szervnél – a gazdálkodó szervezet kivételével – nemzeti minősített adatot felhasználó, valamint ilyen adatot felhasználó közreműködő részére a biztonsági vezető a Nemzeti Biztonsági Felügyelet honlapján közzétett minta alapján egy példányban kiadja a nemzeti minősített adatra érvényes személyi biztonsági tanúsítványt.
 
 (2) A nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány tartalmazza:
 
@@ -18,13 +18,13 @@ d) a személyi biztonsági tanúsítvány kiadására jogosult vezető aláírá
 
 (3) A nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány kezelését és tárolását a biztonsági vezető vagy az e feladattal általa írásban kijelölt személy vagy szerv végzi.
 
-(4)[^43] A nemzeti minősített adatra érvényes személyi biztonsági tanúsítványt vissza kell vonni, ha a felhasználó munkaviszonya, kormányzati szolgálati jogviszonya, állami szolgálati jogviszonya, közszolgálati jogviszonya, közalkalmazotti jogviszonya, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonya, a honvédek jogállásáról szóló törvény szerinti szolgálati viszonya, honvédelmi alkalmazotti vagy rendvédelmi igazgatási jogviszonya a minősített adatot kezelő szervnél megszűnik, továbbá, ha feladata ellátásához nemzeti minősített adat felhasználása a továbbiakban nem szükséges.
+(4)[^45] A nemzeti minősített adatra érvényes személyi biztonsági tanúsítványt vissza kell vonni, ha a felhasználó munkaviszonya, kormányzati szolgálati jogviszonya, állami szolgálati jogviszonya, közszolgálati jogviszonya, közalkalmazotti jogviszonya, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonya, a honvédek jogállásáról szóló törvény szerinti szolgálati viszonya, honvédelmi alkalmazotti vagy rendvédelmi igazgatási jogviszonya a minősített adatot kezelő szervnél megszűnik, továbbá, ha feladata ellátásához nemzeti minősített adat felhasználása a továbbiakban nem szükséges.
 
-(5)[^44] A nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány visszavonását vagy érvényességi idejének lejártát követően a biztonsági vezető intézkedik a személyi biztonsági tanúsítvány selejtezéséről.
+(5)[^46] A nemzeti minősített adatra érvényes személyi biztonsági tanúsítvány visszavonását vagy érvényességi idejének lejártát követően a biztonsági vezető intézkedik a személyi biztonsági tanúsítvány selejtezéséről.
 
-(6)[^45] A biztonsági vezető gondoskodik arról, hogy a titkos ügykezelő naprakész és pontos információval rendelkezzen a minősített adatot kezelő szervnél minősített adat felhasználására jogosult személyekről.
+(6)[^47] A biztonsági vezető gondoskodik arról, hogy a titkos ügykezelő naprakész és pontos információval rendelkezzen a minősített adatot kezelő szervnél minősített adat felhasználására jogosult személyekről.
 
-[^42]: A 10. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja, a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^43]: A 10. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított, a 375/2020. (VII. 30.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
-[^44]: A 10. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^45]: A 10. § (6) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^44]: A 10. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja, a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^45]: A 10. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított, a 375/2020. (VII. 30.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^46]: A 10. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^47]: A 10. § (6) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.

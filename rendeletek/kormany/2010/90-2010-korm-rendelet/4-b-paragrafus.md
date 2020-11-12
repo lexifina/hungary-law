@@ -2,13 +2,15 @@
 
 ## KÖZÖS HIVATALI SZERVEZET
 
-4/B. § (1) A 4/A. § (3) bekezdése szerinti közös biztonsági vezető a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti, a miniszterelnök
+4/B. § (1)[^29] A 4/A. § (3) bekezdése szerinti közös biztonsági vezető
 
-a) kormányzati igazgatási és
+a) a miniszterelnöknek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti kormányzati igazgatási munkaszervezete,
 
-b) politikai
+b) a miniszterelnöknek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti politikai munkaszervezete, és
 
-## munkaszervezete esetében a biztonsági vezető feladatait mindkét minősített adatot kezelő szerv vonatkozásában elláthatja.
+c) a b) pont szerinti munkaszervezetet vezető miniszter által irányított központi államigazgatási szerv
+
+## tekintetében a biztonsági vezetői feladatokat egyidejűleg több, az a)–c) pont szerinti minősített adatot kezelő szerv vonatkozásában is elláthatja.
 
 (2) Az (1) bekezdésben meghatározott esetben a biztonsági vezető az (1) bekezdés a) vagy b) pontja szerinti minősített adatot kezelő szervvel
 
@@ -28,6 +30,8 @@ g) a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszon
 
 ## áll.
 
-(3) A 4/A. § (3) bekezdése szerinti közös titkos ügykezelő feladatait az (1) bekezdés a) és b) pontja szerinti minősített adatot kezelő szervek vonatkozásában ellátja.
+(3)[^30] A 4/A. § (3) bekezdése szerinti közös titkos ügykezelő feladatait az (1) bekezdés szerinti minősített adatot kezelő szervek vonatkozásában ellátja.
 
 [^28]: A II/B. fejezetet (4/B. §-t) a 340/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 4/B. § (1) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^30]: A 4/B. § (3) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 8. §-a szerint módosított szöveg.
