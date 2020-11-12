@@ -14,7 +14,7 @@
 
 | 4. | Magyar Divat & Design Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049808 | 2022. december 31. |
 
-| 5. |  |  |  |
+| 5. | HÉVÍZ-BALATON AIRPORT Korlátolt Felelősségű Társaság | 20-09-072648 | 2022. december 31. |
 
 | 6. | Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049807 | 2022. december 31. |
 
