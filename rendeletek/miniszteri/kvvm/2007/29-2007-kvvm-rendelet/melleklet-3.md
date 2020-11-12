@@ -1,8 +1,10 @@
-## A Sümegi Fehér-kövek természetvédelmi terület fokozottan védett területének (egyben a Fehérsziklák Erdőrezervátum magterületének) ingatlan-nyilvántartási helyrajzi száma és erdőtervi jelei
+## A Sümegi Fehér-kövek természetvédelmi terület fokozottan védett területének (egyben a Fehérsziklák Erdőrezervátum magterületének) ingatlan-nyilvántartási helyrajzi számai
 
-## Csabrendek
+|  | A | B | C |
 
-## 0525/2 (Csabrendek 2C, 2D, 2E, 2F, 2G, 2H, 2I, 2J, 2K, 2L erdőrészletek)
+| 1. | Település | Fekvés | Területi lehatárolás ingatlan-nyilvántartási helyrajzi számok alapján |
+
+| 2. | Csabrendek | külterület | 0525/2 |
 
 3. számú melléklet a 29/2007. (X. 6.) KvVM rendelethez
 
@@ -50,7 +52,7 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 
 3.1. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-3.1.1.[^1] Erdők kezelése
+3.1.1.[^6] Erdők kezelése
 
 Erdőrezervátum magterület
 
@@ -70,7 +72,7 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 
 3.2. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-3.2.1.[^2] Vadgazdálkodás
+3.2.1.[^7] Vadgazdálkodás
 
 – A területen csak őshonos vadfajok tarthatók fenn a vadgazdálkodási üzemtervben meghatározott létszámban.
 
@@ -108,5 +110,5 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 
 – Biztosítani kell a Természetvédelmi Őrszolgálat tagjainak fokozott jelenlétét a területen.
 
-[^1]: A 3. melléklet 3. pont 3.1.1. alpontja a 32/2017. (VI. 9.) FM rendelet 12. §-a szerint módosított szöveg.
-[^2]: A 3. melléklet 3. pont 3.2.1. alpontja a 32/2017. (VI. 9.) FM rendelet 12. §-a szerint módosított szöveg.
+[^6]: A 3. melléklet 3. pont 3.1.1. alpontja a 32/2017. (VI. 9.) FM rendelet 12. §-a szerint módosított szöveg.
+[^7]: A 3. melléklet 3. pont 3.2.1. alpontja a 32/2017. (VI. 9.) FM rendelet 12. §-a szerint módosított szöveg.
