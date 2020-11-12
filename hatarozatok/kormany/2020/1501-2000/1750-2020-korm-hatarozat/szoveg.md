@@ -8,4 +8,6 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a feltételes közbeszerzési eljárást követő 60 napon belül
 
-3. visszavonja a Győr-Pér repülőtér fejlesztéséről szóló 1153/2017. (III. 20.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
