@@ -1,15 +1,13 @@
 ## A Kelemér-Serényfalva természetvédelmi terület ingatlan-nyilvántartási helyrajzi számai
 
-## Serényfalva
+|  | A | B | C |
 
-## 0159
+| 1. | Település | Fekvés | Területi lehatárolás ingatlan-nyilvántartási helyrajzi számok alapján |
 
-## 0160
+| 2. | Serényfalva | külterület | 0159, 0160, 0169, 0173, 0179/1 |
 
-## 0169
+## A mellékletben aláhúzással jelölt ingatlanok az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló 14/2010. (V. 11.) KvVM rendelet alapján európai közösségi jelentőségű természetvédelmi rendeltetésű területek.
 
-## 0173
+2. számú melléklet a 12/2007. (III. 30.) KvVM rendelethez[^4]
 
-## 0179/1
-
-2. számú melléklet a 12/2007. (III. 30.) KvVM rendelethez
+[^4]: A 2. számú melléklet az 55/2020. (XI. 4.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
