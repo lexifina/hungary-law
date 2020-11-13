@@ -18,21 +18,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat] 1. melléklet 2. pontjában foglalt táblázat
+## 3.[^1]
 
-## a) C:7 mezőjében a „31,00” szövegrész helyébe a „31,24” szöveg,
-
-## b) C:8 mezőjében a „322,73” szövegrész helyébe a „322,49” szöveg
-
-## lép.
-
-## 4. Az 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:235 mezőjében a „4,40” szövegrész helyébe a „4,88” szöveg,
-
-## b) E:235 mezőjében a „0,37” szövegrész helyébe a „0,41” szöveg
-
-## lép.
+## 4.[^2]
 
 1. melléklet az 1789/2020. (XI. 11.) Korm. határozathoz
 
@@ -45,3 +33,6 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) | Az EU felé el nem számolható költségek összege (Ft) | Megtérülő projekt-költségre jutó központi költségvetési forrás összege (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) | Az EU felé el nem számolható költségek összege (Ft) | Megtérülő projektkölt- ségre jutó központi költségvetési forrás összege (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) | Az EU felé el nem számolható költségek összege (Ft) |
 
 | 4. | KEHOP-2.2.1- 15-2015- 00009 | Közép- és Kelet-Magyar- országi szennyvíz- elvezetési és -kezelési fejlesztés 2. (KKMO 2) | Bácsbokod Nagyközség Önkormányzata, Bácsborsód Községi Önkormányzat, Cibakháza Nagyközség Önkormányzata és Tiszakécske Város Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 92,374060 | 4 394 987 596 | 362 828 176 | 1 019 541 020 | 0 | – | +483 486 801 | +39 914 250 | +141 318 284 | – | 92,374060 | 4 878 474 397 | 402 742 426 | 1 160 859 304 | 0 | 6 442 076 127 | Bácsbokod településen a csatornahálózat bővítése és meglévő szennyvíztisztító telep fejlesztése, Tiszakécske város közigazgatási területe, Kerekdomb és Tiszabög településrészeken szennyvízcsatornázás és szállítóvezeték- építés, Cibakházán csatorna- hálózat bővítése, Bácsborsód településen szennyvízcsatornázás és szállítóvezeték-építés valósul meg. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
