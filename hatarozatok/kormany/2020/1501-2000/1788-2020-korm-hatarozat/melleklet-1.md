@@ -24,15 +24,7 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „123,25%-áig” szövegrész helyébe a „123,82%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében a „617,075” szövegrész helyébe a „619,939” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:60 mezőjében a „4,75 (támogatási intenzitás: 94,16%)” szövegrész helyébe a „7,62 (támogatási intenzitás: 97,06%)” szöveg
-
-## lép.
+## 5.[^1]
 
 1. melléklet az 1788/2020. (XI. 11.) Korm. határozathoz
 
@@ -45,3 +37,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az Európai Unió (a továbbiak- ban: EU) felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |  |  |
 
 | 4. | IKOP-2.1.0-15- 2016-00026 | Új országos közforgalmú kikötő kiépítése Mohácson | Mohács Város Önkormányzata | 94,16 % | 4 750 000 000 | 0 | 0 | 0 | 2,9 % | 2 864 732 925 | 0 | 0 | 0 | 97,06 % | 7 614 732 925 | 0 | 0 | 0 | 7 845 771 832 | A Duna 1448+660- 1449+000 folyamkilométer- szelvények közötti szakaszán új kikötőterület kiépítése. |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
