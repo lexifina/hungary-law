@@ -1,3 +1,3 @@
-8. § (1) A 35/2007. (X. 18.) KvVM rendelet 2. §-ában a „310,9” szövegrész helyébe a „310,52” szöveg lép.
+## 7. §[^8]
 
-(2) A 35/2007. (X. 18.) KvVM rendelet 2. §-ában a „melléklet, fokozottan” szövegrész helyébe a „melléklet, 29,61 ha kiterjedésű fokozottan” szöveg lép.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
