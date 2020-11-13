@@ -252,7 +252,7 @@
 
 ## 65. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 66. Hatályát veszti az Európai Unió döntéshozatali tevékenységében való kormányzati részvétel összehangolásáról és az Európai Koordinációs Tárcaközi Bizottságról szóló 1742/2014. (XII. 15.) Korm. határozat.
+## 66.[^2]
 
 1. melléklet az 1741/2020. (XI. 11.) Korm. határozathoz
 
@@ -297,3 +297,5 @@ Az Európai Unió Tanácsa formációi előkészítésének kormányzati felelő
 8A felsőoktatás, a felnőttképzés, a szakképzés és az audiovizuális politika tekintetében az ITM az első helyi felelős minisztérium, míg a kultúra, a sport és a köznevelés területén az EMMI jár el. A CSTNM felel ugyanakkor a gyermek- és ifjúságpolitikáért, a gyermekek napközbeni ellátásával kapcsolatos jogszabályok kidolgozása körében az EMMI-vel megosztva.
 
 9 A kulturális örökségi témák felelőse a Miniszterelnökség.
+
+[^2]: A 66. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
