@@ -1,4 +1,4 @@
-## 8/H. §[^71] A 8/B. §-on felül nem nyújtható regionális beruházási támogatás
+## 8/H. §[^72] A 8/B. §-on felül nem nyújtható regionális beruházási támogatás
 
 a) acélipari tevékenységhez,
 
@@ -12,7 +12,7 @@ e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belví
 
 f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-g)[^72]
+g)[^73]
 
-[^71]: A 8/H. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
-[^72]: A 8/H. § g) pontját a 436/2017. (XII. 22.) Korm. rendelet 27. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^72]: A 8/H. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^73]: A 8/H. § g) pontját a 436/2017. (XII. 22.) Korm. rendelet 27. § (1) bekezdés d) pontja hatályon kívül helyezte.

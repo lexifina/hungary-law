@@ -8,6 +8,9 @@
 
 (5)[^70] A kedvezményezett a támogatási kérelem benyújtásával egy időben, az MVP támogatás visszafizetésének terhe mellett nyilatkozik, hogy a támogatási kérelem benyújtását megelőző két évben nem telepítette át azt a létesítményt, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy ilyet legalább két évig nem is hajt végre azt követően, hogy a támogatási kérelem tárgyát képező induló beruházás befejeződött.
 
+(6)[^71] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
+
 [^68]: A 8/G. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
 [^69]: A 8/G. § (4) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 26. § 17. pontja szerint módosított szöveg.
 [^70]: A 8/G. § (5) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 16. §-a iktatta be.
+[^71]: A 8/G. § (6) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 21. §-a iktatta be.

@@ -1,4 +1,4 @@
-8/I. §[^73] (1) A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Átr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (2)–(6) bekezdésben foglaltakra.
+8/I. §[^74] (1) A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Átr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (2)–(6) bekezdésben foglaltakra.
 
 (2) A támogatási intenzitás – a nagyberuházások kivételével – kisvállalkozás esetén 20 százalékponttal, középvállalkozás esetén 10 százalékponttal növelhető, ha a beruházó a kérelem benyújtásakor, valamint a döntés meghozatalakor is megfelel az adott vállalkozási méret feltételeinek.
 
@@ -10,4 +10,4 @@
 
 (6) Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken 50 millió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
-[^73]: A 8/I. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^74]: A 8/I. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-8/W. §[^93] (1) A regionális repülőterekhez nyújtott MVP támogatás beruházási támogatásként nyújtható.
+8/W. §[^94] (1) A regionális repülőterekhez nyújtott MVP támogatás beruházási támogatásként nyújtható.
 
 (2) A repülőtérnek valamennyi légitársaság számára hozzáférhetőnek kell lennie. A kapacitás fizikai korlátozottsága esetén a hozzáférést nyílt, átlátható és megkülönböztetés-mentes módon szükséges biztosítani.
 
@@ -32,4 +32,4 @@ a) előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-[^93]: A 8/W. §-t a 436/2017. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
+[^94]: A 8/W. §-t a 436/2017. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
