@@ -52,4 +52,7 @@ f) nagyvállalkozásnál a korábban már bárki által használatba vett tárgy
 
 (13) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, e tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
+(14)[^43] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, a (7) bekezdés szerinti kötelezettségvállalás szempontjából nem jelentenek áttelepítést.
+
 [^42]: A 9/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 8. §-a iktatta be.
+[^43]: A 9/A. § (14) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 22. §-a iktatta be.
