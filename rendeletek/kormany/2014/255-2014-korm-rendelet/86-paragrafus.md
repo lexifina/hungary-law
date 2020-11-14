@@ -1,3 +1,5 @@
+## 85/R. § A közlemény alapján fennálló közzétételi kötelezettségre figyelemmel, a támogatást nyújtó a 85/F. § szerinti tartalommal és határidő szerint adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásokról.
+
 ## 42. A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás
 
 86. § (1) A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az elszámolható költségek 100%-áig nyújtható.
@@ -6,7 +8,7 @@
 
 (3) A támogatás keretében
 
-a)[^204] a szükséges aktív és passzív szélessávú infrastruktúra kiépítésének beruházási költsége,
+a)[^217] a szükséges aktív és passzív szélessávú infrastruktúra kiépítésének beruházási költsége,
 
 b) a szélessávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munkák beruházási költsége,
 
@@ -16,7 +18,7 @@ d) a nagy sebességű újgenerációs hozzáférési hálózat kiépítésének 
 
 ## számolható el.
 
-(4)[^205] Ha a támogatást a (2) bekezdésben foglaltaknak megfelelő kiválasztási eljárás alapján ítélik oda, a projekthez kapcsolódó támogatás maximális összege a (3) bekezdésben meghatározott elszámolható költségek figyelembevételétől függetlenül is meghatározható.
+(4)[^218] Ha a támogatást a (2) bekezdésben foglaltaknak megfelelő kiválasztási eljárás alapján ítélik oda, a projekthez kapcsolódó támogatás maximális összege a (3) bekezdésben meghatározott elszámolható költségek figyelembevételétől függetlenül is meghatározható.
 
-[^204]: A 86. § (3) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 66. pontja szerint módosított szöveg.
-[^205]: A 86. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 15. §-a iktatta be.
+[^217]: A 86. § (3) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 66. pontja szerint módosított szöveg.
+[^218]: A 86. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 15. §-a iktatta be.

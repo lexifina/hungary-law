@@ -56,17 +56,17 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 22. energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
-23.[^169] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 75 millió eurónak megfelelő forintösszeget,
+23.[^176] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 75 millió eurónak megfelelő forintösszeget,
 
-24.[^170] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget,
+24.[^177] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget,
 
-24a.[^171] sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2 millió eurónak megfelelő forintösszeget,
+24a.[^178] sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
 25. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
 (2) A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 70 millió eurónak megfelelő forintösszeget.
 
-(3)[^172] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt elszámolható költsége meghaladja
+(3)[^179] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt elszámolható költsége meghaladja
 
 a) a 40 millió eurónak vagy
 
@@ -74,10 +74,10 @@ b) – a transzeurópai közlekedési hálózat fejlesztésére vonatkozó unió
 
 ## megfelelő forintösszeget. Ha a projekt kotrást is tartalmaz, jelen bekezdés alkalmazásában az adott belvízi kikötőben egy naptári éven belül végrehajtott összes kotrási tevékenység tekintendő a projekt részének.
 
-(4)[^173] A regionális városfejlesztési támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget.
+(4)[^180] A regionális városfejlesztési támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget.
 
-[^169]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított, a 365/2017. (XII. 5.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
-[^170]: A 23. § (1) bekezdés 24. pontja a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^171]: A 23. § (1) bekezdés 24a. pontját a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^172]: A 23. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^173]: A 23. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^176]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított, a 365/2017. (XII. 5.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
+[^177]: A 23. § (1) bekezdés 24. pontja a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^178]: A 23. § (1) bekezdés 24a. pontját a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^179]: A 23. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^180]: A 23. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.

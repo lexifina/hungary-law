@@ -1,13 +1,15 @@
-## 24. § E rendelet alapján
+## 24. §[^184] E rendelet alapján
 
-a) regionális beruházási támogatás esetén 2020. december 31-ig,
+a) a 11. alcím szerinti támogatás esetén 2021. december 31-ig,
 
-b) a 12–45. alcím szerinti támogatás esetén 2021. június 30-ig,
+b) a 12–41. és 42–45/A. alcím szerinti támogatás esetén 2024. június 30-ig,
 
-c) csekély összegű támogatás esetén 2021. június 30-ig,
+c) a 41/A. és 47. alcím szerinti támogatás esetén 2020. december 31-ig,
 
-d) csekély összegű közszolgáltatási támogatás esetén 2019. június 30-ig,
+d) a 46. alcím szerinti támogatás esetén 2024. június 30-ig,
 
-e)[^177] az 48/A. és az 50–69. alcím szerinti támogatás esetén 2021. június 30-ig
+e) a 48/A. és az 51–69. alcím szerinti támogatás esetén 2021. június 30-ig,
 
-[^177]: A 24. § e) pontját a 271/2015. (IX. 18.) Korm. rendelet 12. §-a iktatta be, szövege a 127/2016. (VI. 7.) Korm. rendelet 17. § 23. pontja, a 305/2016. (X. 13.) Korm. rendelet 18. § 8. pontja szerint módosított szöveg.
+f) az 50. alcím szerinti támogatás esetén 2028. június 30-ig
+
+[^184]: A 24. § a 491/2020. (XI. 11.) Korm. rendelet 9. §-ával megállapított szöveg.

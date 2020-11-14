@@ -64,6 +64,10 @@
 
 32.[^93] 12–15., 17., 22. és 24. pontja alapján mezőgazdasági csekély összegű támogatás
 
+33.[^94] 1–6. pontja alapján a koronavírus-járvány szempontjából releváns kutatáshoz és fejlesztéshez nyújtott támogatás,
+
+34.[^95] 1–6. pontja alapján a koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás
+
 [^80]: A 7. § 1. pontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
 [^81]: A 7. § 2. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
 [^82]: A 7. § 3. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
@@ -78,3 +82,5 @@
 [^91]: A 7. § 30. pontját a 305/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
 [^92]: A 7. § 31. pontját a 365/2017. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
 [^93]: A 7. § 32. pontját a 365/2017. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
+[^94]: A 7. § 33. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.
+[^95]: A 7. § 34. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.

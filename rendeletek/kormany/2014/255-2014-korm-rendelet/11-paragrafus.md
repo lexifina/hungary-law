@@ -34,6 +34,6 @@
 
 17. 9. és 12. pontja alapján csekély összegű közszolgáltatási támogatás,
 
-18.[^126] 1., 6–9.., 11., 12., 14–16., 18. és 19. pontja alapján közszolgáltatásért járó ellentételezés
+18.[^131] 1., 6–9.., 11., 12., 14–16., 18. és 19. pontja alapján közszolgáltatásért járó ellentételezés
 
-[^126]: A 11. § 18. pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.
+[^131]: A 11. § 18. pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.

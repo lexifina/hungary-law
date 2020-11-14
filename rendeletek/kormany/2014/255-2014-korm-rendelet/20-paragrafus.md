@@ -1,8 +1,8 @@
-20. §[^162] (1)[^163] A 651/2014/EU bizottsági rendelet vagy a 702/2014/EU bizottsági rendelet alapján támogatás – a 16., 17., 26–29., 41. és 43. alcím szerinti támogatás, valamint az 57. alcím szerinti támogatás a 103/H. § (1) bekezdés d) pontja szerinti elszámolható költség tekintetében nyújtandó támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
+20. §[^169] (1)[^170] A 651/2014/EU bizottsági rendelet vagy a 702/2014/EU bizottsági rendelet alapján támogatás – a 16., 17., 26–29., 41. és 43. alcím szerinti támogatás, valamint az 57. alcím szerinti támogatás a 103/H. § (1) bekezdés d) pontja szerinti elszámolható költség tekintetében nyújtandó támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
-(1a)[^164] Az (1) bekezdés szerinti támogatási kérelem benyújtása, valamint a 102. § (6) bekezdése szerinti megbízási aktus hatálybalépése előtt felmerült költségekre kizárólag az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet vagy a 360/2012/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
+(1a)[^171] Az (1) bekezdés szerinti támogatási kérelem benyújtása, valamint a 102. § (6) bekezdése szerinti megbízási aktus hatálybalépése előtt felmerült költségekre kizárólag az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet vagy a 360/2012/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
 
-(2)[^165] A 11. és 12. alcím szerinti támogatás esetén a beruházás megkezdésének napja
+(2)[^172] A 11. és 12. alcím szerinti támogatás esetén a beruházás megkezdésének napja
 
 a) építési munka esetén az építési naplóba történő első bejegyzés vagy az építésre vonatkozó első visszavonhatatlan kötelezettségvállalás időpontja,
 
@@ -18,7 +18,7 @@ c) létesítmény felvásárlása esetén a felvásárlás időpontja vagy
 
 d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont
 
-[^162]: A 20. § a 271/2015. (IX. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^163]: A 20. § (1) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 17. § 22. pontja, a 365/2017. (XII. 5.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
-[^164]: A 20. § (1a) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 10. §-a iktatta be.
-[^165]: A 20. § (2) bekezdés nyitó szövegrésze a 305/2016. (X. 13.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg.
+[^169]: A 20. § a 271/2015. (IX. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^170]: A 20. § (1) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 17. § 22. pontja, a 365/2017. (XII. 5.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
+[^171]: A 20. § (1a) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 10. §-a iktatta be.
+[^172]: A 20. § (2) bekezdés nyitó szövegrésze a 305/2016. (X. 13.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg.
