@@ -66,6 +66,8 @@ n) ha az adózó nem tett eleget az Európai Bizottság valamely korábbi támog
 
 (14)[^24] Az adózó a fejlesztési adókedvezmény iránti bejelentés vagy kérelem benyújtásával egyidejűleg nyilatkozatot tesz arról, hogy a bejelentés vagy kérelem benyújtását megelőző két naptári évben sem az adózó, sem pedig az adózótól független harmadik félnek nem minősülő személy nem hajtott végre áttelepítést azon tevékenységével kapcsolatosan, amelyhez az adókedvezményt kéri, és vállalja, hogy a támogatott beruházás befejezését követően két naptári évig sem az adózó, sem pedig az adózótól független harmadik félnek nem minősülő személy nem hajt végre áttelepítést.
 
+(15)[^25] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett (14) bekezdés szerinti nyilatkozat szempontjából nem eredményeznek áttelepítést.
+
 [^14]: A 3. § (1) bekezdése a 395/2017. (XII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^15]: A 3. § (2a) bekezdését a 395/2017. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^16]: A 3. § (3) bekezdését a 395/2017. (XII. 13.) Korm. rendelet 8. § 1. pontja hatályon kívül helyezte.
@@ -77,3 +79,4 @@ n) ha az adózó nem tett eleget az Európai Bizottság valamely korábbi támog
 [^22]: A 3. § (12) bekezdés i) pontja a 395/2017. (XII. 13.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^23]: A 3. § (13) bekezdését a 395/2017. (XII. 13.) Korm. rendelet 2. § (7) bekezdése iktatta be.
 [^24]: A 3. § (14) bekezdését a 395/2017. (XII. 13.) Korm. rendelet 2. § (7) bekezdése iktatta be.
+[^25]: A 3. § (15) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 2. §-a iktatta be.
