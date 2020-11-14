@@ -14,6 +14,6 @@ f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú 
 
 g) az 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
 
-h)[^26]
+h)[^29]
 
-[^26]: A 27. § h) pontját a 366/2017. (XII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^29]: A 27. § h) pontját a 366/2017. (XII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.

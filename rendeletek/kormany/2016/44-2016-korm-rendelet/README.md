@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-44-20-2
 | 2016-03-11 | 2016-44-20-22.1 | 44/2016. (III. 10.) Korm. rendelet |
 | 2016-07-23 | 2016-44-20-22.2 | 222/2016. (VII. 22.) Korm. rendelet |
 | 2017-12-06 | 2016-44-20-22.3 | 366/2017. (XII. 5.) Korm. rendelet |
+| 2020-11-14 | 2016-44-20-22.4 | 491/2020. (XI. 11.) Korm. rendelet |

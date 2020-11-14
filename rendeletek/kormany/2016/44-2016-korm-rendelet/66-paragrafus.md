@@ -1,4 +1,4 @@
-## 65/A. §[^32] E rendelet a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet (HL L 156., 2017.6.20., 1. o.) végrehajtásához szükséges rendelkezéseket állapít meg.
+## 65/A. §[^35] E rendelet a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet (HL L 156., 2017.6.20., 1. o.) végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ## 66. § E rendelet
 
@@ -8,4 +8,4 @@ b) 5. § 13. pontja, 7. § 10. pontja, 9. § 8. pontja, 11. § 8. pontja, 13. §
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^32]: A 65/A. §-t a 366/2017. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
+[^35]: A 65/A. §-t a 366/2017. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
