@@ -1,3 +1,3 @@
-9. §[^1]
+9. §[^3]
 
-[^1]: A 9. § a 8. § (2) bekezdése alapján 2020. november 26-án lép hatályba.
+[^3]: A 9. § a 8. § (2) bekezdése alapján 2020. november 26-án lép hatályba.
