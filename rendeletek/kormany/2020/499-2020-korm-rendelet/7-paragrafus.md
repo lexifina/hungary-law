@@ -1,3 +1,3 @@
-7. §[^1]
+7. §[^2]
 
-[^1]: A 7. § a 6. § (2) bekezdése alapján 2020. november 28-án lép hatályba.
+[^2]: A 7. § a 6. § (2) bekezdése alapján 2020. november 28-án lép hatályba.
