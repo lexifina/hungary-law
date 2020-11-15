@@ -1,5 +1,3 @@
-## 7. § A 255/2014. (X. 10.) Korm. rendelet 14. § 10. pontja helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## (A Környezeti és Energiahatékonysági Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:)
-
-## „10. klasszikus és intelligens hálózati és a hálózathoz kapcsolódó fejlesztések támogatása a villamosenergia-rendszer rugalmasságának és stabilitásának biztosítására.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

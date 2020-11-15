@@ -1,3 +1,5 @@
-## „(8) A támogatást nyújtó az 1408/2013/EU bizottsági rendelet 5. cikk (1) bekezdésében meghatározott feltételek teljesülését a Magyar Államkincstár által, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 26. § (1) bekezdés f) pontja alapján vezetett támogatások nyilvántartása alapján ellenőrzi.”
+## 15. §[^16]
 
 ## 4. A 2014–2020 programozási időszakra az Európai Területi Együttműködési Programokból rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 44/2016. (III. 10.) Korm. rendelet módosítása
+
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

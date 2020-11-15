@@ -1,3 +1,3 @@
-## 13. § A 255/2014. (X. 10.) Korm. rendelet 85/F. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 13. §[^14]
 
-## „(1) A 100 000 eurónak – mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások, továbbá halászati- és akvakultúra-ágazatban tevékeny vállalkozások esetén a 10 000 eurónak – megfelelő forintösszeget meghaladó támogatástartalmú egyedi támogatásoknak az Atr. 6. melléklete szerinti adatait a közlemény 4. szakasza alapján közzé kell tenni az Európai Bizottság közzétételi adatbázisában. Erre figyelemmel a támogatást nyújtó 2021. február 1-ig továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásoknak az Atr. 6. melléklete szerinti adatait.”
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

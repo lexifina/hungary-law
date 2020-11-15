@@ -1,3 +1,3 @@
-## 12. § A 255/2014. (X. 10.) Korm. rendelet 85/E. §-a helyébe a következő rendelkezés lép:
+## 12. §[^13]
 
-## „85/E. § Ha egy vállalkozás több ágazatban is tevékenykedik, és ezekre a 85/C. § (1)–(3) bekezdése szerint eltérő maximális összegek vonatkoznak, a vállalkozás a támogatásokról olyan elkülönített nyilvántartást köteles vezetni, amely biztosítja az érintett tevékenységekre vonatkozó felső határok betartását, és azt, hogy a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 800 000 eurónak megfelelő forintösszeget. Ha egy vállalkozás a 85/C. § (2) és (3) bekezdése szerinti ágazatokban tevékenykedik, a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 120 000 eurónak megfelelő forintösszeget.”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

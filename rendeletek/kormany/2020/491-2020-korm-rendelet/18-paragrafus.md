@@ -1,9 +1,3 @@
-## 17. § A 44/2016. (III. 10.) Korm. rendelet 24. §-a helyébe a következő rendelkezés lép:
+## 17. §[^18]
 
-## „24. § E rendelet alapján
-
-## a) regionális beruházási támogatás esetén 2021. december 31-ig,
-
-## b) a 12–29. alcím szerinti támogatás esetén 2024. június 30-ig
-
-## lehet támogatási döntést hozni.”
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

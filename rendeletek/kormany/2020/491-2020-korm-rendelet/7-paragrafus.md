@@ -1,9 +1,3 @@
-## 6. § A 255/2014. (X. 10.) Korm. rendelet 9. §-a a következő 34. és 35. ponttal egészül ki:
+## 6. §[^7]
 
-## (Ha a 8. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 8. §)
-
-## „34. 1–6. pontja alapján a koronavírus-járvány szempontjából releváns kutatáshoz és fejlesztéshez nyújtott támogatás,
-
-## 35. 1–6. pontja alapján a koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás”
-
-## (nyújtható.)
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
