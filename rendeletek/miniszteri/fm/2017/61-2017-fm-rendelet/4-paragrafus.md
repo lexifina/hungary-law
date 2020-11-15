@@ -30,4 +30,6 @@ f) engedélyköteles erdészeti létesítménynek minősülő erdei közjóléti
 
 g) ha a bejelentést nem az erdőgazdálkodó nyújtotta be, az erdőgazdálkodó hozzájáruló nyilatkozatát.
 
-(5) Ötnél több erdei közjóléti berendezést tartalmazó erdei közjóléti létesítmény bejelentésekor igazolni kell, hogy a terv megfelel a vonatkozó jogszabályi és szakmai előírásoknak.
+(5)[^12] Erdei közjóléti berendezés vagy erdei közjóléti létesítmény bejelentésekor igazolni kell, hogy annak létesítése megfelel a vonatkozó jogszabályi és szakmai előírásoknak.
+
+[^12]: A 4. § (5) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § a) pontja szerint módosított szöveg.

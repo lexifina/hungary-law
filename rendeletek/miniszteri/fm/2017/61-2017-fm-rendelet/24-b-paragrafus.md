@@ -1,4 +1,4 @@
-## 6/A. [^16] Az örökerdő kezelési terv, valamint az átalakítási és erdőfelújítási terv készítésének szabályai
+## 6/A. [^19] Az örökerdő kezelési terv, valamint az átalakítási és erdőfelújítási terv készítésének szabályai
 
 24/B. § (1) Az örökerdő kezelési terv tartalmi követelményeit a 10. melléklet tartalmazza.
 
@@ -36,4 +36,4 @@ b) kisebb vágásérettségi korral tervezett faállománytípusok esetén – l
 
 (8) Az Evt. 29. § (3) bekezdése alkalmazásában a végvágott területeket keletkeztető erdőfelújítási tervezési egységek egybefüggőnek minősülnek, ha legalább 10 méter hosszan csatlakoznak egymáshoz.
 
-[^16]: A 6/A. alcímet (24/B. §) a 13/2020. (IV. 8.) AM rendelet 3. §-a iktatta be.
+[^19]: A 6/A. alcímet (24/B. §) a 13/2020. (IV. 8.) AM rendelet 3. §-a iktatta be.

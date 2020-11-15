@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-61-20-1
 | 2018-01-02 | 2017-61-20-11.4 | 2010: CXXX. törvény |
 | 2018-08-11 | 2017-61-20-11.5 | 20/2018. (VII. 27.) AM rendelet |
 | 2020-05-01 | 2017-61-20-11.6 | 13/2020. (IV. 8.) AM rendelet |
+| 2020-11-15 | 2017-61-20-11.7 | 51/2020. (X. 16.) AM rendelet |

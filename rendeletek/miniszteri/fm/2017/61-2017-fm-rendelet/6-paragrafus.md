@@ -1,4 +1,4 @@
-## 5. § Erdőben, kerítés létesítésekor és fenntartásakor – ha az turistaútvonalat keresztez – biztosítani kell a gyalogos áthaladás biztonságos lehetőségét.
+## 5. §[^13] Erdőben, kerítés létesítésekor és fenntartásakor – ha az turistaútvonalat, erdei kerékpáros turista útvonalat vagy erdei kerékpáros ösvényt keresztez – biztosítani kell a gyalogos vagy kerékpáros áthaladás biztonságos lehetőségét.
 
 6. § (1) Az erdészeti magánút építésének engedélyezésére irányuló kérelemhez csatolt engedélyezési tervnek az alábbiakat kell tartalmaznia:
 
@@ -37,3 +37,5 @@ f) a vízműtani adatokat és számításokat.
 a) az épített közelítő nyom műszaki leírását,
 
 b) az épített közelítő nyom nyomvonalát ábrázoló erdészeti térkép mellékletet.
+
+[^13]: Az 5. § az 51/2020. (X. 16.) AM rendelet 2. § b) pontja szerint módosított szöveg.

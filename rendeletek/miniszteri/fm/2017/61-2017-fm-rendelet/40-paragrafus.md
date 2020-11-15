@@ -1,4 +1,4 @@
-40. § (1) Az erdészeti mérő- és megfigyelő rendszer országos erdőkár nyilvántartási rendszer működtetése keretében az erdészeti szakszemélyzet a szakirányítási tevékenysége során kezelt erdőt ért károsításokat a NÉBIH által rendszeresített, az alábbi adatokat tartalmazó „Erdővédelmi kárbejelentő lap”-on az erdészeti hatóság részére bejelenti:
+40. § (1)[^38] Az erdészeti mérő- és megfigyelő rendszer országos erdőkár nyilvántartási rendszer működtetése keretében az alkalmazott erdészeti szakszemélyzet a szakirányítási tevékenysége során kezelt erdőt ért károsításokat a NÉBIH által rendszeresített, az alábbi adatokat tartalmazó „Erdővédelmi kárbejelentő lap”-on az erdészeti hatóság részére bejelenti:
 
 a) bejelentő személy neve, szakszemélyzeti kódszáma,
 
@@ -16,7 +16,7 @@ g) a károsítás gyakorisága és kárerélye,
 
 h) a károsítással érintett terület,
 
-i)[^28] a károsítással érintett fatérfogat,
+i)[^39] a károsítással érintett fatérfogat,
 
 j) a károsítás észlelésének időpontja,
 
@@ -26,4 +26,5 @@ l) zárlati károsító megerősítése.
 
 (2) Az Erdővédelmi kárbejelentő lapokat naptári negyedévenkénti bontásban, az adott tárgynegyedévet követő hónap 8. napjáig, zárlati károsító esetén a káresemény észlelését követően haladéktalanul meg kell küldeni az erdészeti hatóság részére.
 
-[^28]: A 40. § (1) bekezdés i) pontja a 13/2020. (IV. 8.) AM rendelet 9. § f) pontja szerint módosított szöveg.
+[^38]: A 40. § (1) bekezdés nyitó szövegrésze az 51/2020. (X. 16.) AM rendelet 2. § f) pontja szerint módosított szöveg.
+[^39]: A 40. § (1) bekezdés i) pontja a 13/2020. (IV. 8.) AM rendelet 9. § f) pontja szerint módosított szöveg.
