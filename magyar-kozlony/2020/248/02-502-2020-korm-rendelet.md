@@ -1,0 +1,419 @@
+# A Kormány 502/2020. (XI. 16.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 248. szám, 2020. november 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/iAtcycEJPTEQNthx70VT5fac5bb3da06d/dokumentumok/b65260b0618962ad9a1370bc437c3e3e44f82793/letoltes)
+
+---
+
+A Kormány 502/2020. (XI. 16.) Korm. rendelete
+a veszélyhelyzet során a személy- és vagyonegyesítő szervezetek működésére vonatkozó eltérő
+rendelkezések újbóli bevezetéséről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 35. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény 2. § (1) bekezdése szerinti országgyűlési
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A jogi személyekre vonatkozó eltérő rendelkezések alkalmazásáról
+1. § (1) A veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet által elrendelt veszélyhelyzet (a továbbiakban:
+veszélyhelyzet) ideje alatt a polgári jogi szabályok alapján létrejött jogi személyeknek és a nem jogi személy
+szervezeteknek (ezen alcím alkalmazásában a továbbiakban együtt: jogi személy) e rendelet hatálybalépésének
+napjától a Polgári Törvénykönyvről szóló 2013. évi V. törvényt (a továbbiakban: Ptk.), illetve a jogi személyre
+vonatkozó jogszabályi rendelkezéseket az ezen alcímben foglalt eltérésekkel kell alkalmazniuk.
+(2) E rendelet hatálybalépésének napjától a jogi személyeknek a veszélyhelyzet megszűnésével összefüggő átmeneti
+szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény (a továbbiakban: Vmtv.) 51. alcímében
+foglalt rendelkezések helyett ezen alcím rendelkezéseit kell alkalmazniuk.
+2. § (1) Ha a jogi személy döntéshozó szerve vagy az egyszemélyes jogi személy tagja (alapítója, az alapítói jogok
+gyakorlására jogosult személy) a veszélyhelyzet idején alkalmazandó kijárási korlátozások, illetve a védelmi
+intézkedések betartása mellet sem akadályozott a döntéshozatalban, a döntéshozó szerv működésére vagy
+az egyszemélyi tag (alapító, az alapítói jogok gyakorlására jogosult személy) döntéshozatalára e rendeletben foglalt
+rendelkezéseket nem kell alkalmazni.
+(2) A 7. § rendelkezéseit, továbbá a jogi személynek a döntéshozó szerven kívüli szerveire a 6. § rendelkezéseit
+az (1) bekezdés szerinti esetben is alkalmazni lehet.
+3. § (1) A 2. §-ban foglalt kivétellel a jogi személy döntéshozó szervének ülése – ideértve küldöttgyűlést és
+a részközgyűlést is – nem tartható meg olyan módon, hogy az a tag személyes részvételét igényelje, abban
+az esetben sem, ha az ülés e rendelet hatálybalépésekor már összehívásra került.
+(2) A jogi személy döntéshozó szervének
+a) ülése a tag elektronikus hírközlő eszköz igénybevételével történő részvételével tartható meg, vagy
+b) határozathozatalára – ha a jogi személyre vonatkozó törvényi előírás az ülés tartása nélküli döntéshozatalt
+nem zárja ki – az ügyvezetés kezdeményezésére ülés tartása nélkül is sor kerülhet,
+akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak feltételeiről nem vagy az e rendeletben
+foglaltaktól eltérően rendelkezik.
+(3) Ha a jogi személy tagjainak száma legfeljebb öt fő, és a döntéshozó szerv határozatképessége a (2) bekezdésben
+meghatározott módon történő határozathozatallal előre láthatóan biztosítható, a döntéshozó szerv
+határozathozatalára a 4. § szerinti módon kell hogy sor kerüljön azzal, hogy a döntéshozatal módját és feltételeit
+úgy kell meghatározni, hogy a döntéshozatalban valamennyi tag részt tudjon venni. A döntéshozó szerv
+határozathozatalára a (2) bekezdés és a 4. § szerinti módon kerül sor akkor is, ha az öt főt meghaladó, de tíz főt
+meg nem haladó taglétszámú jogi személy esetén a szavazatok többségével rendelkező tagok azt kérik, a tíz főt
+meghaladó taglétszámú jogi személy esetén pedig, ha a jogi személy ügyvezetése – vagy az állam többségi
+befolyása alatt álló gazdasági társaság esetén a tulajdonosi joggyakorló – azt kezdeményezi.
+
+(4) Ha jogszabály a jogi személy döntéshozó szerve vagy más szerve ülésének nyilvánosságát írja elő, a veszélyhelyzet
+ideje alatt e rendelet szabályai szerint megtartott ülésre vagy más döntéshozatali eljárásra a nyilvánosság
+követelménye nem vonatkozik.
+(5) Ha a jogi személynek egy tagja vagy alapítója van – ideértve az alapítói jogok gyakorlására jogosult személyt is –,
+a döntéshozó szerv hatáskörében az egyedüli tag vagy alapító írásban határoz, és a döntés az ügyvezetéssel való
+közléssel válik hatályossá.
+4. § (1) Ha a jogi személy létesítő okirata az elektronikus hírközlő eszközök használatának, illetve az ülés tartása nélküli
+döntéshozatalnak a szabályairól nem, vagy e rendeletben foglaltaktól eltérően rendelkezik, ezeknek a szabályoknak
+a megállapítására és a tagokkal való közlésére a jogi személy ügyvezetése – több önállóan eljáró vezető
+tisztségviselő esetén a munkáltatói jogok gyakorlására feljogosított vezető tisztségviselő – jogosult a következő
+rendelkezések betartása mellett:
+a) a napirendre vonatkozó részletes tájékoztatás nem mellőzhető [Ptk. 3:17. § (3) bekezdése], és a határozat
+tervezetét a taggal közölni kell,
+b) elektronikus hírközlő eszköz útján való jelenlétre vonatkozóan
+ba) meg kell határozni az igénybe vehető, a tagok azonosítását és a tagok közötti kölcsönös és
+korlátozásmentes kommunikációt biztosító elektronikus hírközlő eszközöket és informatikai
+alkalmazásokat,
+bb) ha a jogi személy ügyvezetése a tagokat (képviselőiket) személyesen nem ismeri, meg kell határozni
+a személyazonosság igazolásának módját,
+c) ülés tartása nélküli döntéshozatal esetén
+ca) a szavazat megküldésére legalább 15 napot kell biztosítani,
+cb) a Ptk. 3:20. § (2) és (4) bekezdését alkalmazni kell,
+cc) a tag a döntéshozó szerv ülésének összehívását vagy az elektronikus hírközlő eszköz útján való
+megtartását nem kezdeményezheti,
+cd) a tag szavazata akkor érvényes, ha abból egyértelműen megállapítható a tag személye
+(név, lakóhely vagy székhely, szervezet esetén képviselőjének neve), a szavazásra bocsátott
+határozattervezet megjelölése – több határozati javaslat esetén a határozattervezetek sorszáma – és
+az arra adott szavazat, és
+ce) a tag a szavazatát a 7. §-ban meghatározott módon is megküldheti.
+(2) A jogi személy felügyelőbizottsága tagjának és a jogi személy állandó könyvvizsgálójának tájékoztatására és
+a döntéshozó szerv ülésén való részvételére a tagokkal azonos módon kerül sor.
+(3) A jogi személy erre kijelölt vezető tisztségviselője vezeti le a döntéshozó szerv ülését, és készíti el a döntéshozó
+szerv ülésének jegyzőkönyvét. A jegyzőkönyvben rögzíteni kell az ülés megtartásának körülményeit is. Jelenléti ívet
+nem kell készíteni, azonban a jegyzőkönyvnek tartalmaznia kell az ülésen elektronikus hírközlő eszköz útján részt
+vevő tagok adatait. A jegyzőkönyvet az ülést levezető vezető tisztségviselő írja alá.
+(4) A jogi személy ügyvezetése köteles – ideértve a rendelkezésére álló elektronikus hírközlő eszköz vagy más
+személyazonosítást lehetővé tevő elektronikus eszköz segítésével történő tájékoztatást is – megtenni mindent
+annak érdekében, hogy a tagok a döntéshozatallal összefüggő, az (1) bekezdés szerinti tájékoztatást és okiratokat
+megkapják, valamint, hogy a meghozott döntésekről tájékoztatást kapjanak.
+5. § (1) Ha a 3. § (3) bekezdésében meghatározott eset nem áll fenn, a döntéshozó szerv hatáskörbe tartozó, azonban
+a jogi személy törvényes működésének fenntartásához, a veszélyhelyzet miatt kialakult helyzet kezeléséhez
+szükséges, valamint az észszerű és felelős gazdálkodás körében felmerülő halaszthatatlan ügyekben, ideértve
+a számviteli törvény szerinti beszámoló elfogadását és az adózott eredmény felhasználásáról szóló döntést is,
+– a (2) bekezdésben meghatározott korlátozásokkal – a jogi személy ügyvezetése határoz.
+(2) A jogi személy ügyvezetése
+a) a jogi személy létesítő okiratát nem módosíthatja, kivéve, ha arra a veszélyhelyzet ideje alatt hatályba lépő
+jogszabály rendelkezése alapján van szükség,
+b) a jogi személy jogutód nélküli megszűnéséről nem dönthet,
+c) a jogi személy átalakulását, egyesülését vagy szétválását nem határozhatja el, és folyamatban lévő
+átalakulásban, egyesülésben vagy szétválásban a döntéshozó szerv hatáskörébe tartozó kérdésben nem
+dönthet,
+d) korlátolt felelősségű társaság, részvénytársaság esetén a jegyzett tőke leszállításáról nem dönthet,
+
+e) pótbefizetésről vagy egyéb tőkepótlásról csak akkor dönthet, ha az a tagok jogi személyben fennálló
+részesedése mértékét nem érinti, és a pótbefizetésre vagy egyéb befizetésre kötelezettek ehhez előzetesen
+írásban hozzájárulnak.
+(3) Az állam többségi befolyása alatt álló gazdasági társaság ügyvezetése az (1) bekezdésben meghatározott
+ügyekben csak akkor dönthet, ha a döntéshozatalra előzetesen felhatalmazást kapott az állami tulajdonostól, vagy
+a tulajdonosi joggyakorlótól és a (4) bekezdésben meghatározott feltétel is teljesül.
+(4) A jogi személy ügyvezetése az (1) bekezdés szerinti döntést csak akkor hozhat, ha a szavazatok 25%-át
+meghaladó részesedéssel rendelkező tagok a döntés meghozatalát megelőző írásbeli véleményükben legalább
+a szavazatok 51%-át elérő mértékben a határozati javaslattal szemben nem tiltakoznak, ha a jogi személynek a Ptk.
+szerinti többségi befolyással vagy minősített többséggel rendelkező tagja van, akkor e tag az előzetes írásbeli
+véleményében a határozati javaslattal szemben nem tiltakozik.
+(5) A számviteli törvény szerinti beszámoló könyvvizsgálata elvégezhető akkor is, ha beszámolóról az (1) bekezdés
+alapján a jogi személy ügyvezetése határoz. Ha a jogi személynél felügyelőbizottság működik, a jogi személy
+ügyvezetése a beszámolóról a felügyelőbizottság írásbeli jelentésének birtokában dönthet.
+(6) A jogi személy ügyvezetésének (1) bekezdés szerinti döntése a döntéshozó szerv határozatának minősül, és
+e rendelet eltérő rendelkezése hiányában végrehajtható. A jogi személy ügyvezetése az (1) bekezdés szerinti
+döntéséért a Ptk. 3:24. §-a szerint felel a jogi személlyel szemben.
+(7) Az (1) bekezdés szerint meghozott döntést a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó
+rendkívüli döntéshozó szervi ülés napirendjére kell tűzni. Ha az utólagos döntéshozó szervi határozat a korábbi
+döntést megváltoztatja vagy hatályon kívül helyezi, az nem érinti az azt megelőzően keletkezett jogokat és
+kötelezettségeket.
+(8) A jogi személy ügyvezetése köteles – ideértve a rendelkezésére álló elektronikus hírközlő eszköz vagy más
+személyazonosítást lehetővé tevő elektronikus eszköz segítésével történő tájékoztatást is – megtenni mindent
+annak érdekében, hogy az (1) bekezdés szerinti döntésekről a tagok tájékoztatást kapjanak. Ha a jogi személyre
+vonatkozó előírás a döntéshozó szerv határozatának vagy az üléssel összefüggő egyéb iratnak a közzétételéről vagy
+a nyilvántartó bírósághoz való benyújtásáról rendelkezik, a jogi személy ügyvezetésének e § szerint hozott döntését
+kell közzétenni, valamint benyújtani.
+6. § (1) A jogi személy vezető tisztségviselőkből álló ügyvezető testülete, felügyelőbizottsága, audit bizottsága, valamint
+jogszabály vagy a létesítő okirat rendelkezése alapján létrehozott más testületi szerve (a továbbiakban együtt:
+testület) üléseit elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz
+igénybevételével is megtarthatja, vagy írásbeli egyeztetést folytathat, és a jogi személy irányításával kapcsolatos
+döntéseket írásban is meghozhatja. Ha az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő
+elektronikus eszköz útján való tanácskozás és döntéshozatal szabályaira nincs elfogadott eljárásrend vagy az eltér
+az e rendeletben foglaltaktól, az ülésezés és a döntéshozatal szabályait a testület elnöke, akadályoztatása esetén
+helyettese, ennek hiányában az elnök által kijelölt, mindezek hiányában az ügyvezetés által felkért tag határozza
+meg és közli az érintettekkel. Az ülésezésre és a döntéshozatal szabályaira a veszélyhelyzet során a személy- és
+vagyonegyesítő szervezetek működésére vonatkozó eltérő rendelkezésekről szóló 102/2020. (IV. 10.) Korm. rendelet
+vagy a Vmtv. rendelkezéseinek alkalmazásával meghatározott korábbi eljárásrend e rendelet hatálya alatt is
+alkalmazható. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.
+(2) Ha a veszélyhelyzet ideje alatt a testület tagjainak létszáma a törvényben, illetve a létesítő okiratban előírt
+szám alá csökken, vagy a tag az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó
+humánjárvány miatt egyébként nem tud eljárni, a többi tag jogosult a határozathozatalra. A határozatképességre
+vonatkozó szabályokat a döntésképes tagok száma alapján kell meghatározni, és határozatot ebben az esetben
+is szótöbbséggel kell meghozni azzal, hogy a többi tag kiesése esetén a határozathozatalra – a (3) bekezdésben
+foglaltakra is figyelemmel – egy személy is jogosult.
+(3) Az állam többségi befolyása alatt álló gazdasági társaságok esetében, ha a tulajdonos vagy az állami tulajdonosi
+joggyakorló által jelölt testületi tag nem tud az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést
+okozó humánjárvány miatt eljárni, a tulajdonos vagy a tulajdonosi joggyakorló jogosult a testületbe helyettesítő
+tagot jelölni azzal, hogy a helyettesítő tag a testületi tag akadályoztatásának vagy a veszélyhelyzet megszűnéséig
+járhat el a tulajdonos vagy a tulajdonosi joggyakorló döntésének megfelelően.
+(4) Ha a jogi személy vezető tisztségviselőjének vagy testületi tagjának, valamint az állandó könyvvizsgálójának
+megbízatása a veszélyhelyzet ideje alatt szűnik meg – kivéve a Ptk. 3:25. § (1) bekezdés c), e), f) vagy g) pontja
+szerinti megszűnési okot, és a felügyeleti jogkörében eljáró hatóság vagy bíróság határozatával történő megszűnés
+
+esetét –, a megbízatás alapítói határozat vagy döntéshozó szervi határozat hiányában a veszélyhelyzet megszűnését
+követő 90. napig fennmarad, és a vezető tisztségviselő, a testületi tag, valamint az állandó könyvvizsgáló legkésőbb
+eddig az időpontig köteles feladatát ellátni. Az állandó könyvvizsgáló megbízatásának lejárta esetén a szükséges
+intézkedések meghozatalára az 5. § alkalmazása esetén a jogi személy ügyvezetése is jogosult.
+7. § (1) A jogi személy szervei az írásbeli jognyilatkozatokat – ideértve a döntéshozó szerv működésével összefüggő
+okiratokat is – a tag elektronikus levelezési címére (e-mail-cím) is megküldhetik. Ha a jogi személy létesítő okiratából
+más nem következik, az írásbeli jognyilatkozatot minősített vagy minősített tanúsítványon alapuló fokozott
+biztonságú elektronikus aláírással vagy elektronikus bélyegzővel, ennek hiányában azonosításra visszavezetett
+dokumentumhitelesítés-szolgáltatással való hitelesítéssel kell aláírni.
+(2) A tagok a jogi személlyel kapcsolatos jognyilatkozataikat elektronikus üzenetben (e-mail) is közölhetik a jogi
+személlyel. Ha a jogi személy létesítő okiratából más nem következik, a jogi személy tagnak a jognyilatkozatát
+minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, ennek hiányában
+azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással való hitelesítéssel kell aláírnia. Ha a jogi személy
+létesítő okiratából más nem következik, a természetes személy tag a jognyilatkozata elektronikus aláírására nem
+köteles, azonban a jognyilatkozatnak a tag azonosíthatóságához szükséges adatokat tartalmaznia kell.
+(3) Az e § szerinti, elektronikus üzenetben foglalt nyilatkozat elektronikus írásbeli jognyilatkozatnak minősül.
+8. § (1) A jogi személy döntéshozó szerve vagy ügyvezetése a Vmtv. vagy e rendelet rendelkezéseinek megfelelően hozott
+határozata bírósági felülvizsgálata során az érintett határozat bírósági hatályon kívül helyezésére annak létesítő
+okiratba ütközése miatt nem kerülhet sor, ha a határozat kizárólag a veszélyhelyzetben alkalmazandó jogszabályi
+rendezések alkalmazása miatt ütközik a létesítő okiratba.
+(2) Korlátolt felelősségű társaság esetén, ha a Ptk. 3:189. §-ában, illetve a törzstőke kötelező leszállítása esetén
+a Ptk. 3:202. § (1) bekezdésében és a Ptk. 3:205. § (2) bekezdésében megjelölt határozatok meghozatalára az 5. §
+(2) bekezdése szerinti korlátozás miatt nem kerülhet sor, a társaság a szükséges intézkedésekről a veszélyhelyzet
+megszűnését követő legfeljebb 90. napra összehívandó rendkívüli taggyűlésen köteles dönteni.
+(3) Zártkörűen működő részvénytársaság esetén, ha a Ptk. 3:270. §-ában, illetve kötelező alaptőke-leszállítás esetén
+a Ptk. 3:311. §-ában és a Ptk. 3:314. § (2) bekezdésében megjelölt határozatok meghozatalára az 5. § (2) bekezdése
+szerinti korlátozás miatt nem kerülhet sor, a zártkörűen működő részvénytársaság a szükséges intézkedésekről
+a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó rendkívüli közgyűlésen köteles dönteni.
+9. § (1) Nyilvánosan működő részvénytársaság esetén ezen alcím rendelkezéseit az e §-ban meghatározott eltérésekkel kell
+alkalmazni. A 3. §, a 4. §, az 5. § (4) bekezdése és a 8. § (3) bekezdése a nyilvánosan működő részvénytársaság esetén
+nem alkalmazható.
+(2) A nyilvánosan működő részvénytársaság a közgyűlés meghívóját és a Ptk. 3:272. § (3) bekezdés b) pontja szerinti
+iratokat akkor is köteles a honlapján közzétenni, ha e rendelet hatálybalépése napján a meghívó vagy a Ptk. 3:272. §
+(3) bekezdés b) pontja szerinti iratok még nem kerültek közzétételre azzal, hogy meghívót a közgyűlést megelőzően
+legalább 21 nappal, a Ptk. 3:272. § (3) bekezdés b) pontja szerinti iratokat a közgyűlést megelőzően legalább
+8 nappal kell közzétenni. A nyilvánosan működő részvénytársaság az e rendelet hatálybalépése napján már
+közzétett meghívójában foglaltaktól a társaság honlapján közzétett felhívásban eltérhet. A nyilvánosan működő
+részvénytársaság ügyvezetése a közzétett napirenden szereplő valamennyi kérdésben – ideértve az alapszabály
+módosítását is –, továbbá az 5. § (1) bekezdésében meghatározott kérdésekben is jogosult dönteni. Az ügyvezetés
+a közzétett napirenden szereplő kérdésekben a közzétett határozati javaslatoktól eltérően is dönthet. Az e bekezdés
+alapján a közgyűlési hatáskörben meghozott határozatokat a Ptk. 3:279. §-a szerint közzé kell tenni.
+(3) Ha a részvényesek a (7) bekezdés szerinti feltételek szerint kérik a közgyűlés összehívását a nyilvánosan működő
+részvénytársaság ügyvezetésének a (2) bekezdés szerinti alapszabály módosítása utólagos jóváhagyása céljából,
+az alapszabály módosítása a (7) bekezdés szerint összehívott közgyűlés napját követő napon hatályát veszti, ha azt
+a közgyűlés utólagosan nem hagyja jóvá.
+(4) Ha a közgyűlés a nyilvánosan működő részvénytársaság ügyvezetését döntések meghozatalára felhatalmazta
+– ideértve a saját részvény megszerzésére vonatkozó döntést is –, és a felhatalmazás időtartama a veszélyhelyzet
+ideje alatt jár le, a felhatalmazás időtartama a veszélyhelyzet megszűnését követő soron következő közgyűlés
+időpontjáig meghosszabbodik, kivéve, ha az ügyvezetés a felhatalmazás tárgyában a (2) bekezdés alapján döntést
+hozott.
+
+(5) A nyilvánosan működő részvénytársaság ügyvezetése az üzleti év mérlegfordulónapját követő negyedik hónap
+végéig köteles a társaság számviteli törvény szerinti beszámolójáról határozni. A beszámoló elfogadásával
+egyidejűleg az ügyvezetés az adózott eredmény felhasználásáról, ezen belül osztalékról is dönthet. Ha a közgyűlés
+összehívását a részvényesek a (6) bekezdés szerinti feltételek szerint kezdeményezték, az osztalék kifizetésére
+csak azt követően kerülhet sor, ha a beszámolót és az osztalék kifizetését a közgyűlés utólagosan jóváhagyta.
+Ha a részvényesek a (6) bekezdés szerinti jogvesztő határidőn belül nem kezdeményezik közgyűlés összehívását,
+az osztalék kifizetésre kerülhet, és az ügyvezetésnek a beszámoló elfogadásáról és az osztalékról szóló döntése,
+valamint az osztalék kifizetése a következő közgyűlés napirendjén nem szerepelhet.
+(6) A beszámolóról és az adózott eredmény felhasználásáról szóló döntés utólagos jóváhagyása céljából a (7) bekezdés
+szerint kezdeményezhető a közgyűlés összehívása azzal az eltéréssel, hogy a részvényeseket a közgyűlés
+összehívásának kezdeményezési joga az ügyvezetésnek a beszámolóról és az adózott eredmény felhasználásáról
+döntő határozatának nyilvánosságra hozatalától számított 30 napon belül illeti meg. E határidő elmulasztása
+– ideértve azt is, ha a részvényesi kérelem a határidő utolsó napjáig a nyilvánosan működő részvénytársasághoz
+nem érkezik meg – jogvesztéssel jár. A közgyűlés összehívásának kezdeményezése esetén a közgyűlési meghívót
+a veszélyhelyzet megszűnését követő 45 napon belül, ha a részvényesi kérelem kézhezvételekor a veszélyhelyzet
+már megszűnt, a részvényesi kérelem kézhezvételétől számított 45 napon belül kell közzétenni.
+(7) A veszélyhelyzet megszűnését követő 30 napos jogvesztő határidőn belül a szavazatok legalább 1%-ával
+rendelkező részvényesek kérhetik a közgyűlés összehívását az ügyvezetés által a veszélyhelyzet ideje alatt
+meghozott – az (5) bekezdésben nem említett – közgyűlési határozatok utólagos jóváhagyása céljából. A közgyűlés
+összehívásának joga azokat a részvényeseket illeti meg, akik az eredetileg közzétett meghívóban vagy e rendelet
+alapján közzétett felhívásban megjelölt közgyűléssel összefüggésben kért és lefolytatott tulajdonosi megfeleltetés
+alapján a nyilvánosan működő részvénytársaság részvénykönyvében szerepelnek. A felhívás alapján lefolytatott
+tulajdonosi megfeleltetésre és részvénykönyvi bejegyzésre a közgyűlést megelőző részvénykönyvi bejegyzésre
+vonatkozó rendelkezések alkalmazandók. A közgyűlési meghívót – a részvényesi kérelem jogvesztő határidőn belüli
+kézhezvételétől számított – 45 napon belül kell közzétenni.
+(8) Ha a veszélyhelyzet megszűnése és a következő naptári év április 1. napja, vagy ha a nyilvánosan működő
+részvénytársaság üzleti éve a naptári évtől eltér, az üzleti év mérlegfordulónapját követő negyedik hónap első
+napja közötti időtartam kevesebb, mint 180 nap, a közgyűlés összehívásának a (6), illetve a (7) bekezdés szerinti
+kezdeményezésére nincs lehetőség, azonban a soron következő közgyűlésen a társaság ügyvezetése által
+a veszélyhelyzet ideje alatt meghozott közgyűlési határozatok jóváhagyása napirendre tűzhető.
+(9) Ha a nyilvánosan működő részvénytársaság testületi tagjának, valamint állandó könyvvizsgálójának megbízatása
+a veszélyhelyzet ideje alatt szűnik meg – kivéve a Ptk. 3:25. § (1) bekezdés c), e), f) vagy g) pontja szerinti megszűnési
+okot és a felügyeleti jogkörben eljáró hatóság vagy bíróság határozatával történő megszűnés esetét, valamint azt
+az esetet, ha a nyilvánosan működő részvénytársaság ügyvezetése a (2) bekezdés alapján meghozza a szükséges
+döntéseket – a megbízatás a veszélyhelyzet lejártát követő soron következő közgyűlés napjáig fennmarad, és
+a testületi tag, valamint az állandó könyvvizsgáló eddig az időpontig köteles feladatát ellátni.
+2. A társasházakra vonatkozó eltérő rendelkezések alkalmazásáról
+10. §
+A veszélyhelyzet ideje alatt a társasházak – a társasházakról szóló jogszabályoktól eltérően – az ezen alcímben
+foglaltak szerint működhetnek.
+11. § (1) A veszélyhelyzet ideje alatt a társasház – a (2) bekezdésben foglalt kivétellel – nem tart közgyűlést. Ha az éves
+elszámolásról és a következő évi költségvetésről való döntés vagy más kötelező döntés határideje a veszélyhelyzet ideje
+alatt jár le, ezen tárgykörökben a veszélyhelyzet megszűnését követő 90 napon belül kell a közgyűlésnek döntenie.
+(2) Közgyűlést kell tartani, ha azt a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak a napirend, az ok és
+a közgyűlési határozatra tett javaslat megjelölésével írásban kérik. Ebben az esetben a döntés csak írásbeli
+szavazással hozható meg, ideértve azon tárgykörökben való döntést is, melyekben azt a szervezeti-működési
+szabályzat vagy korábban hozott közgyűlési döntés kizárja. Az írásbeli szavazás módjára a szervezeti-működési
+szabályzat rendelkezései az irányadók. Ilyen rendelkezés hiányában az írásbeli szavazás részletszabályait – ideértve
+az eredmény megállapítását is – a közgyűlési meghívóban kell megállapítani. Az írásbeli szavazás eredményét
+a közös képviselő vagy az intézőbizottság elnöke – a szavazásra megjelölt határidőt követő nyolc napon belül –
+írásban köteles a tulajdonostársakkal közölni.
+(3) A veszélyhelyzet ideje alatt a közös képviselő (intézőbizottság) fokozott felelősséggel köteles eljárni.
+
+12. §
+A társasház működése körében, valamint az érintettek egymás közti viszonyaiban írásbeli nyilatkozatnak, közlésnek
+(a továbbiakban együtt: nyilatkozat) minősül az írásbelinek nem minősülő elektronikus úton (pl. e-mail, internetes
+alkalmazás) tett nyilatkozat is, ha azonosítható
+a) a nyilatkozattevő személye,
+b) a nyilatkozat tartalma,
+c) a nyilatkozat megtételének időpontja és
+d) a címzett személye.
+13. §
+Az intézőbizottság abban az esetben is ellátja a feladatait, ha a feladatok ellátására képes tagok száma az eredetileg
+megválasztott taglétszámhoz képest – akár a társasházakról szóló 2003. évi CXXXIII. törvényben rögzített
+minimumlétszám alá – csökken.
+14. § (1) A közgyűlés nem mentheti fel megbízatásából a közös képviselőt (intézőbizottságot).
+(2) A közös képviselői (intézőbizottsági) megbízatását a közös képviselő (intézőbizottság) nem szüntetheti meg.
+(3) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt jár le, a közös képviselő
+(intézőbizottság) az új közös képviselő (intézőbizottság) megválasztásáig, de legkésőbb a veszélyhelyzet
+megszűnését követő 90. napig köteles a feladatait – változatlan díjazás mellett – ellátni.
+(4) Ha a közös képviselő (intézőbizottság) megbízatása a (3) bekezdésben foglaltakon kívüli okból szűnik meg, vagy
+a közös képviselő (intézőbizottság) a veszélyhelyzet folytán nem képes ellátni a feladatait, az új közös képviselő
+(intézőbizottság) megválasztásáig a feladatokat a számvizsgáló bizottság látja el. Számvizsgáló bizottság hiányában,
+vagy ha a veszélyhelyzet folytán a számvizsgáló bizottság sem képes eljárni, az új közös képviselő (intézőbizottság)
+megválasztásáig a feladatokat bármely tulajdonostárs elláthatja.
+(5) A (3) és (4) bekezdés szerinti esetben az új közös képviselőt (intézőbizottságot) a veszélyhelyzet megszűnését
+követő 90 napon belül kell megválasztani.
+3. A köztestületekre vonatkozó eltérő rendelkezések alkalmazásáról
+15. § (1) A veszélyhelyzet ideje alatt az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények
+módosításáról szóló 2006. évi LXV. törvény 8/A. §-a szerinti köztestületekre (a továbbiakban: köztestület) vonatkozó
+jogszabályok és a Vmtv. rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(2) Ezen alcím alkalmazásában köztestületnek minősül az a jogi személy is, amelynek működésére a köztestületekre
+vonatkozó szabályokat alkalmazni kell.
+16. § (1) A köztestület testületi szerveinek ülése a veszélyhelyzet fennállása alatt elektronikus hírközlő eszköz útján vagy más
+személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre
+és döntéshozatalra is sor kerülhet. Ha az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő
+elektronikus eszköz útján való tanácskozás és döntéshozatal szabályaira nincs elfogadott eljárásrend, az ülésezésre
+és a döntéshozatalra az országos elnök által meghatározott és a köztestület országos honlapján az érintettek
+számára hozzáférhetővé tett szabályokat kell alkalmazni. Az írásbeli egyeztetés és döntéshozatal elektronikus
+üzenetváltással (e-mail) is történhet.
+(2) Ha a köztestület határozott időre kinevezett vagy megválasztott tisztségviselője megbízatásának időtartama
+a veszélyhelyzet idején jár le, a határozott idő meghosszabbodik mindaddig, amíg a veszélyhelyzet megszűnését
+követően haladéktalanul megtartott választáson az új tisztségviselőt nem választják meg, vagy az új tisztségviselőt
+ki nem nevezik.
+17. § (1) A köztestületi szerv hatáskörébe tartozó ügy (a továbbiakban: köztestületi ügy) intézésével kapcsolatos eljárási
+cselekményeket elsősorban elektronikus kép és hang továbbítására alkalmas eszköz útján kell foganatosítani.
+Ha ennek feltételei nem biztosítottak, a szükséges nyilatkozatokat írásbeli formában vagy a személyazonosítást
+lehetővé tevő elektronikus eszköz igénybevétele útján kell beszerezni.
+(2) Ha a köztestületi ügy intézésével kapcsolatos eljárási cselekmény lefolytatása olyan személyes közreműködést
+igényel, amely az (1) bekezdésben foglaltak alkalmazásával nem foganatosítható, az érintett eljárási cselekmény
+a veszélyhelyzet megszűnéséig elhalasztható. Az eljárási cselekmény elhalasztásáról szóló döntés meghozatalától
+a veszélyhelyzet megszűnéséig terjedő időszak a köztestületi ügy elintézésére nyitva álló határidőbe nem számít
+
+bele. Az elhalasztott eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a veszélyhelyzet
+megszűnését követő nap.
+18. § (1) A fegyelmi vagy etikai büntetés kiszabásánál súlyosító körülményként kell figyelembe venni, ha fegyelmi vétséget
+a veszélyhelyzet ideje alatt követték el.
+(2) A fegyelmi vagy etikai felelősségre vonás elévülése a veszélyhelyzet ideje alatt nyugszik.
+19. §
+A köztestület költségvetését és beszámolóját a veszélyhelyzet ideje alatt az ügyvezetését ellátó szerv jogosult
+elfogadni. Az így meghozott határozatot a köztestület legfőbb szervének a veszélyhelyzet megszűnését követő
+legkésőbb 90. napra összehívandó rendkívüli ülése napirendjére kell tűzni. A köztestület legfőbb szervének
+határozata hiányában a költségvetés a veszélyhelyzet megszűnését követő 90. napon hatályát veszti, a beszámolót
+pedig legkésőbb a veszélyhelyzet megszűnését követő 90 napon belül a köztestület legfőbb szervének is el kell
+fogadnia.
+4. A közjegyzőkről szóló 1991. évi XLI. törvény rendelkezéseinek eltérő alkalmazásáról
+20. §
+A veszélyhelyzet ideje alatt a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) és
+a Vmtv. rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+21. § (1) A veszélyhelyzet ideje alatt a közjegyzői eskü tételére kötelezett az esküokmány elektronikus aláírásával
+megkezdheti a közjegyzői vagy közjegyzőhelyettesi tevékenységet azzal, hogy az esküt a veszélyhelyzet
+megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.
+(2) A Kjtv. 21. § (1) bekezdésében meghatározott határidőbe a veszélyhelyzet ideje nem számít bele.
+22. § (1) A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) országos elnöke a veszélyhelyzet ideje alatt
+a MOKK honlapján közzétett határozatában az alapszabálytól és a szabályzatoktól a veszélyhelyzet elhárításához,
+következményeinek megelőzéséhez, illetve enyhítéséhez kapcsolódó intézkedések végrehajtása és a kamarai
+névjegyzékbe vagy nyilvántartásba vett személyekre háruló terhek csökkentése érdekében e személyekre kötelező
+eltérő döntést hozhat.
+(2) Az (1) bekezdés szerint meghozott döntést a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó
+rendkívüli választmányi, illetve országos elnökségi ülés napirendjére kell tűzni, a testület tájékoztatása érdekében.
+23. §
+A Kjtv. 18. § (3) bekezdésében foglaltaktól eltérően a megüresedő közjegyzői állásra a pályázatot a veszélyhelyzet
+megszűnését követő három hónapon belül kell meghirdetni.
+5. A bírósági végrehajtásról szóló 1994. évi LIII. törvény rendelkezéseinek eltérő alkalmazásáról
+24. §
+A veszélyhelyzet ideje alatt a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) és
+a Vmtv. rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+25. § (1) A Magyar Bírósági Végrehajtói Kar (a továbbiakban: MBVK) elnökségének ülése a veszélyhelyzet fennállása alatt
+elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével
+is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Ha az elektronikus hírközlő eszköz
+vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal
+szabályaira nincs elfogadott eljárásrend, az ülésezésre és a döntéshozatalra az MBVK elnöke által meghatározott
+és az MBVK honlapján hozzáférhetővé tett szabályokat kell alkalmazni. Az írásbeli egyeztetés és döntéshozatal
+elektronikus üzenetváltással (e-mail) is történhet.
+(2) Az MBVK közgyűlése a veszélyhelyzet megszűnéséig nem hívható össze, nem tartható meg.
+(3) Az MBVK hivatali szerve a panaszügyek intézését a veszélyhelyzet megszűnéséig írásban, telefonon vagy
+elektronikus eszköz igénybevétele útján látja el.
+(4) A végrehajtójelölt, illetve végrehajtó-helyettes személyes meghallgatását és eskütételét az MBVK hivatali szerve
+a veszélyhelyzet megszűnését követő időpontra halasztja.
+
+26. §
+A Vht. 250. § (2) bekezdés 12. pontjában meghatározott végrehajtó-jelölti kézbesítési vizsga megszervezéséről
+a veszélyhelyzet ideje alatt nem kell gondoskodni.
+6. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény rendelkezéseinek eltérő alkalmazásáról
+27. §
+A veszélyhelyzet ideje alatt az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) és
+a Vmtv. rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+28. § (1) A veszélyhelyzet ideje alatt a szakértői eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdheti
+a szakértői vagy szakértői testületi tagi tevékenységet azzal, hogy az esküt a veszélyhelyzet megszűnését követő
+30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.
+(2) Az igazságügyi szakértő részére az igazságügyi szakértői igazolványt postai úton is át lehet adni.
+29. § (1) A Magyar Igazságügyi Szakértői Kamara (a továbbiakban: MISZK) elnöksége a veszélyhelyzet ideje alatt
+a MISZK honlapján közzétett határozatban az alapszabálytól és a szabályzatoktól a veszélyhelyzet elhárításához,
+következményeinek megelőzéséhez, illetve enyhítéséhez kapcsolódó intézkedések végrehajtása és az igazságügyi
+szakértőkre háruló terhek csökkentése érdekében a MISZK tagjaira vagy a kamarai nyilvántartásba vett személyekre
+kötelező eltérő rendelkezéseket állapíthat meg.
+(2) Az (1) bekezdés szerinti határozat törvényességét az igazságügyért felelős miniszter utólag ellenőrzi.
+(3) Az (1) bekezdés szerinti határozat a veszélyhelyzet megszűnését követő második hónap utolsó napján hatályát
+veszti.
+30. § (1) A Szaktv. 15. § (1) bekezdésében meghatározott jogi ismeretek oktatását és a jogi vizsgát, valamint a rendszeres jogi
+oktatást a veszélyhelyzet ideje alatt elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő
+elektronikus eszköz igénybevételével kell lebonyolítani.
+(2) Az (1) bekezdés szerinti oktatás és vizsga során a nyilvánosság követelményének nem kell eleget tenni.
+(3) Az igazságügyi szakértők részére előírt, a rendszeres jogi oktatáson való részvételre vonatkozóan megállapított
+kétéves határidőbe a veszélyhelyzet ideje nem számít bele.
+7. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény rendelkezéseinek eltérő alkalmazásáról
+31. §
+A veszélyhelyzet ideje alatt az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény és a Vmtv. rendelkezéseit
+az e rendeletben foglalt eltérésekkel kell alkalmazni.
+32. § (1) A Magyar Ügyvédi Kamara (a továbbiakban: MÜK) elnöksége a veszélyhelyzet ideje alatt határozatban, a területi
+kamarákra, a területi kamara tagjaira és a területi kamara által az ügyvédi kamarai nyilvántartásba vett személyekre
+kötelező szabályzatoktól – a kiemelt szabályzatok és az ügyvédi felelősségbiztosítás követelményeiről szóló
+szabályzat kivételével – a veszélyhelyzet elhárításához, következményeinek megelőzéséhez, illetve enyhítéséhez
+kapcsolódó intézkedések végrehajtása és az ügyvédi tevékenységet gyakorlókra háruló terhek csökkentése
+érdekében eltérő rendelkezéseket állapíthat meg.
+(2) Az (1) bekezdés szerinti határozat törvényességét az igazságügyért felelős miniszter utólag, a nem kiemelt
+szabályzatokra vonatkozó szabályok szerint ellenőrzi.
+(3) Az (1) bekezdés szerinti határozat a veszélyhelyzet megszűnését követő második hónap utolsó napján hatályát
+veszti.
+33. § (1) A MÜK elnöke önállóan intézi azokat az ügyeket, amelyek egyszerűek vagy sürgősek. A MÜK elnöke intézkedéséről
+az elnökséget vagy a küldöttgyűlést legkésőbb a veszélyhelyzet megszűnésétől számított 90. napra összehívott
+rendkívüli ülésen tájékoztatja.
+(2) Az ügyvédi tevékenység gyakorlására jogosultak részére az arcképes igazolványt postai úton is át lehet adni.
+8. Záró rendelkezések
+34. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 35. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+
+35. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi
+CIX. törvény hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet 2021. február 8-án hatályát veszti.
+36. § (1) E rendeletet a hatálybalépése napján folyamatban lévő eljárásokban is alkalmazni kell.
+(2) E rendelet eltérő előírásait a hatálybalépését megelőzően, de a veszélyhelyzet kihirdetését követően lejárt határidők
+esetében is alkalmazni kell.
+(3) E rendelet előírásait azon személyek esetében is alkalmazni kell, akik megbízatása, kinevezése, illetve választott
+tisztsége a veszélyhelyzet kihirdetését követően, de e rendelet hatálybalépését megelőzően szűnt meg, és
+e rendelet hatálybalépéséig e személyt vagy helyette más személyt nem bíztak meg, nem neveztek ki, illetve nem
+választottak meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
