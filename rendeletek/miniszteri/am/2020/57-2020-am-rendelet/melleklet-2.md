@@ -1,0 +1,155 @@
+## Elszámolható hektáronkénti költségátalányok és kompenzáció
+
+|  | A | B | C | D | E | F | G |
+
+| 1. |  | A szaporító- anyag típusa | A szaporító- anyag mennyisége | A szaporító- anyag kategóriája | Elszámolható maximális költségek és kompenzáció fajtaváltás esetén (EUR/hektár) | Elszámolható maximális költségek és kompenzáció áttelepítés esetén (EUR/hektár) | Elszámolható maximális költségek a szőlőültetvény termesztéstechnológiai módszereinek javítása esetén (EUR/hektár) |
+
+| 2. | támberendezés bontása, elszállítása, régi szőlőtőkék eltávolítása, elszállítása | – | 790 | – |
+
+| 3. | – | – |
+
+| 4. | talaj-előkészítés | – | 3 700 | – |
+
+| 5. | ültetési munka | oltvány | 5000 tő/hektár és a felett | bázis, certifikált | 10 500 | 0 |
+
+| 6. | standard | 9 200 | 0 |
+
+| 7. | 5000 tő/hektár alatt | bázis, certifikált | 8 000 | 0 |
+
+| 8. | standard | 7 500 | 0 |
+
+| 9. | dugvány | 5000 tő/hektár és a felett | bázis, certifikált | 8 000 | 0 |
+
+| 10. | standard | 7 600 | 0 |
+
+| 11. | 5000 tő/hektár alatt | bázis, certifikált | 6 800 | 0 |
+
+| 12. | standard | 6 300 | 0 |
+
+| 13. | támberendezés létesítés kevesebb, mint 4000 tő/hektár esetén |  |  |  | 5 900 |
+
+| 14. | támberendezés létesítés kevesebb, mint 5000 tő/hektár esetén |  |  |  | 6 900 |
+
+| 15. | támberendezés legalább 5000 tő/hektár ültetvény esetén |  |  |  | 8 200 |
+
+| 16. | költségnövekmény, ha a támogatással érintett terület átlagos lejtése 5% feletti és 12% vagy az alatti |  |  |  | 300 |
+
+| 17. | költségnövekmény, ha a támogatással érintett terület átlagos lejtése 12% feletti |  |  |  | 720 | 300 |
+
+| 18. | a költségek csökkentése, ha a telepítendő szaporítóanyag házi szőlőiskolából származik |  |  |  | 1 900 | 0 |
+
+| 19. | a termeléskiesést ellentételező kompenzáció |  |  |  | 2 400 | – |
+
+2. melléklet az 57/2020. (XI. 13.) AM rendelethez
+
+1. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – fajtaváltás, áttelepítés
+
+|  | A | B | C |
+
+| 1. | Javasolt szempont | Maximális pontérték | Pontérték |
+
+| 2. | A. A beruházással érintett ültetvény jellemzői |
+
+| 3. | Az egyéni tervben megjelölt létező vagy telepítendő ültetvény tőszáma legalább 4000 tő/hektár az összefüggő terület esetében | 10 | 10 |
+
+| 4. | B. A beruházás és a helyi fejlesztési célok összhangja |
+
+| 5. | Valamely földrajzi árujelző szerkezetátalakítási tervének való megfelelés | 4 | 4 |
+
+| 6. | C. Integráció | 14 |  |
+
+| 7. | A kérelmező igazolja, hogy a támogatással érintett ültetvény termésére a termőre fordulását követően legalább öt borpiaci évre szóló, az 1308/2013/EU rendelet 168. cikkének megfelelő, a termőre fordulást követően legalább három éves felmondási időt tartalmazó szerződéssel rendelkezik |  | 14 |
+
+| 8. | A kérelmező igazolja, hogy az elmúlt öt borpiaci év átlagában az általa művelt szőlőterület legalább 65%-ának termését legalább öt évre szóló, az 1308/2013/EU rendelet 168. cikkének megfelelő szerződés keretében értékesítette |  | 14 |
+
+| 9. | A kérelmező elismert integrációs szervezet tagja |  | 14 |
+
+| 10. | 10.1. A kérelmező 10.2. A kérelmező természetes személy 10.3. A kérelmező természetes személy közeli hozzátartozójának tulajdonában álló vállalkozás 10.4. A kérelmező vállalkozás természetes személy tagja 10.5. A kérelmező vállalkozás természetes személy tagjának közeli hozzátartozója, vagy 10.6. A kérelmező vállalkozással kapcsolt vállalkozási viszonyban lévő vállalkozásként rendelkezik borászati üzemengedéllyel |  | 14 |
+
+| 11. | D. A kérelmező háttere |
+
+| 12. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet 12. számú melléklet I. pontjában meghatározott, illetve azoknak megfeleltethető iskolai végzettségek valamelyikével | 2 | 2 |
+
+| 13. | E. A beruházással érintett terület jellemzői |
+
+| 14. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma | 3 |  |
+
+| 15. | a) legalább 344 pont |  | 3 |
+
+| 16. | b) legalább 309 pont, de kevesebb, mint 344 pont |  | 2,5 |
+
+| 17. | c) legalább 275 pont, de kevesebb, mint 309 pont |  | 2 |
+
+| 18. | d) legalább 210 pont, de kevesebb, mint 275 pont |  | 1 |
+
+| 19. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma legalább 200 pont | 10 | 10 |
+
+| 20. | Régiófejlesztési terv státusz | 2 |  |
+
+| 21. | a) tevékenységgel érintett terület a világörökségről szóló 2011. évi LXXVII. törvény 2. § 5. pontja szerinti világörökségi területen található |  | 2 |
+
+| 22. | b) a tevékenységgel érintett terület kiemelt turisztikai fejlesztési térségben található |  | 1,5 |
+
+| 23. | F. A beruházás egyéb jellemzői |
+
+| 24. | A felhasználni kívánt szaporítóanyag szaporítási foka prebázis, bázis vagy certifikált | 2 | 2 |
+
+| 25. | Az egyéni tervben szereplő összefüggő területek egybeszámított területnagysága | 3 |  |
+
+| 26. | a) 20 és 30 hektár között van |  | 2 |
+
+| 27. | b) 20 hektár alatt van |  | 3 |
+
+| 28. | Összesen elérhető pontszám | 50 |  |
+
+2. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – termesztéstechnológiai módszerek javítása
+
+|  | A | B | C |
+
+| 1. | Javasolt szempont | Maximális pontérték | Pontérték |
+
+| 2. | A. A szőlőültetvény jellemzői |
+
+| 3. | Az ültetvény kora legalább tizenöt év | 5 | 5 |
+
+| 4. | A tőke tenyészterülete szerint számított tőkesűrűség az érintett területen | 20 |  |
+
+| 5. | a) legalább 5000 tő/hektár |  | 20 |
+
+| 6. | b) legalább 4000 tő/hektár, de nem éri el az 5000 tő/hektárt |  | 19 |
+
+| 7. | B. A kérelmező háttere |
+
+| 8. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet 12. számú melléklet I. pontjában meghatározott, illetve azoknak megfeleltethető iskolai végzettségek valamelyikével | 1 | 1 |
+
+| 9. | C. A beruházással érintett terület jellemzői |
+
+| 10. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma | 3 |  |
+
+| 11. | a) legalább 344 pont |  | 3 |
+
+| 12. | b) legalább 309 pont, de kevesebb, mint 344 pont |  | 2,5 |
+
+| 13. | c) legalább 275 pont, de kevesebb, mint 309 pont |  | 2 |
+
+| 14. | d) legalább 210 pont, de kevesebb, mint 275 pont |  | 1 |
+
+| 15. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma legalább 200 pont | 15 | 15 |
+
+| 16. | Régiófejlesztési terv státusz | 1 |  |
+
+| 17. | a) tevékenységgel érintett terület a világörökségről szóló 2011. évi LXXVII. törvény 2. § 5. pontja szerinti világörökségi területen található |  | 1 |
+
+| 18. | b) a tevékenységgel érintett terület nemzeti turisztikai fejlesztési tervvel érintett területen található |  | 0,5 |
+
+| 19. | D. A beruházás egyéb jellemzői |
+
+| 20. | Az egyéni tervben szereplő összefüggő területek egybeszámított terület nagysága | 3 |  |
+
+| 21. | a) 20 és 30 hektár között van |  | 2 |
+
+| 22. | b) 20 hektár alatt van |  | 3 |
+
+| 23. | Az egyéni tervben szereplő támberendezés felújítással érintett területek egybeszámított területnagysága 5 hektár alatt van | 2 | 2 |
+
+| 24. | Összesen elérhető pontszám | 50 |  |
