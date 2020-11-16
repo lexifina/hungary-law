@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-25-20-2
 | 2019-01-01 | 2013-25-20-2W.12 | 27/2018. (XI. 8.) ITM rendelet |
 | 2020-01-03 | 2013-25-20-2W.13 | 47/2015. (VIII. 31.) NFM rendelet |
 | 2020-03-15 | 2013-25-20-2W.14 | 8/2020. (II. 28.) ITM rendelet |
+| 2020-11-16 | 2013-25-20-2W.15 | 2010: CXXX. törvény |

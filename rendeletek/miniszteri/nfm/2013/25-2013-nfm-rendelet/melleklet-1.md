@@ -1,3 +1,3 @@
-1. melléklet a 25/2013. (V. 31.) NFM rendelethez[^10]
+1. melléklet a 25/2013. (V. 31.) NFM rendelethez[^16]
 
-[^10]: Az 1. melléklet a 8/2020. (II. 28.) ITM rendelet 4. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet a 41/2020. (XI. 13.) ITM rendelet 1. §-ával megállapított szöveg.
