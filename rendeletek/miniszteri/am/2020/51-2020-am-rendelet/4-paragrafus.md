@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a 61/2017. (XII. 21.) FM rendelet 56. § (1) bekezdésében az „az érintett erdő elhelyezkedése szerinti megyében bejegyzett székhellyel vagy telephellyel rendelkező, ennek hiányában az érintett erdő elhelyezkedése szerint legközelebbi székhellyel vagy telephellyel rendelkező erdőkezelési szolgáltatást végző” szövegrész.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
