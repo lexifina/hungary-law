@@ -1,4 +1,4 @@
-## 6. §[^15] A befizetett vízumdíjat és igazgatási szolgáltatási díjat a költségvetési gazdálkodási rend szerint működő szervek részére előírt könyvvezetési és beszámolási kötelezettségekről szóló kormányrendeletben meghatározottak szerint kell kezelni és nyilvántartani.
+## 6. §[^16] A befizetett vízumdíjat és igazgatási szolgáltatási díjat a költségvetési gazdálkodási rend szerint működő szervek részére előírt könyvvezetési és beszámolási kötelezettségekről szóló kormányrendeletben meghatározottak szerint kell kezelni és nyilvántartani.
 
 ## 7. § Az e rendeletben meghatározott igazgatási szolgáltatási díjak tekintetében
 
@@ -14,4 +14,4 @@ e) a mulasztási bírságra az Itv. 82. §-ában foglaltakat,
 
 f) a behajtásra az Itv. 88. §-át
 
-[^15]: A 6. § a 38/2017. (XII. 27.) BM rendelet 11. §-ával megállapított szöveg.
+[^16]: A 6. § a 38/2017. (XII. 27.) BM rendelet 11. §-ával megállapított szöveg.

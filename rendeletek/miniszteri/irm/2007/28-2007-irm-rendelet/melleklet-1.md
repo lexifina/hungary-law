@@ -1,3 +1,3 @@
-1. melléklet a 28/2007. (V. 31.) IRM rendelethez[^21]
+1. melléklet a 28/2007. (V. 31.) IRM rendelethez[^22]
 
-[^21]: Az 1. mellékletet az 51/2007. (XII. 11.) IRM rendelet 7. § (5) bekezdése hatályon kívül helyezte.
+[^22]: Az 1. mellékletet az 51/2007. (XII. 11.) IRM rendelet 7. § (5) bekezdése hatályon kívül helyezte.
