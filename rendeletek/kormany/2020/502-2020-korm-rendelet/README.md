@@ -1,0 +1,9 @@
+# 502/2020. (XI. 16.) Korm. rendelet
+
+a veszélyhelyzet során a személy- és vagyonegyesítő szervezetek működésére vonatkozó eltérő rendelkezések újbóli bevezetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-502-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-11-17 | 2020-502-20-22.1 | 502/2020. (XI. 16.) Korm. rendelet |
