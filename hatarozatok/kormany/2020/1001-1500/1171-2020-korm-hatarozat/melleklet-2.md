@@ -1,37 +1,35 @@
 ## MFB Krízis Hitel feltételei
 
-| Sorszám | Program megnevezése | MFB Krízis Hitel |
+|  | A | B |
 
-| 1. | A kötelezett személye | mikro-, kis- és középvállalkozás |
+| 1. | Alapfeltételek |
 
-| 2. | A vállalható állami kezesség, viszontgarancia összege/mértéke | a hitel tőkeösszegének 80%-a |
+| 2. | A kötelezett személye | mikro-, kis- és középvállalkozás |
 
-| 3. | Az állami kezesség-, viszontgarancia-vállalással támogatott hitelcél | forgóeszköz, beruházás, működés, hitelkiváltás |
+| 3. | Állami kezességvállalás mértéke | a hitel tőkeösszegének 80%-a |
 
-| 4. | Futamidő | forgóeszközhitel: maximum 3 év likviditási hitel: maximum 3 év beruházási hitel: maximum10 év |
+| 4. | Az állami kezességvállalással támogatott hitelcél | beruházási hitel, forgóeszközhitel (ideértve a működési költségek és ezen belül a személyi jellegű ráfordítások finanszírozását, valamint a forgóeszközhitel végtörlesztését is), hitelkiváltás, ideértve a pénzügyi lízing kiváltását is |
 
-| 5. | Keretösszeg | 180 milliárd forint |
+| 5. | Hitelösszeg minimum-maximum | 1 millió forint – 150 millió forint |
 
-| 6. | Kezességvállalás mértéke | a hitel tőkeösszegének 80%-a |
+| 6. | Futamidő | forgóeszközhitel: maximum 3 év beruházási hitel és hitelkiváltás: maximum 15 év |
 
-| 7. | Hitelösszeg | max. 150 millió forint |
-
-2. melléklet az 1171/2020. (IV. 21.) Korm. határozathoz
+2. melléklet az 1171/2020. (IV. 21.) Korm. határozathoz[^5]
 
 MFB Versenyképességi Hitel feltételei
 
-| Sorszám | Program megnevezése | MFB Versenyképességi Hitel |
+|  | A | B |
 
-| 1. | A kötelezett személye | kis- és középvállalkozás, valamint nagyvállalat |
+| 1. | Alapfeltételek |
 
-| 2. | A vállalható állami kezesség, viszontgarancia összege/mértéke | a hitel tőkeösszegének 80%-a |
+| 2. | A kötelezett személye | mikro-, kis- és középvállalkozás, valamint nagyvállalat |
 
-| 3. | Az állami kezesség-, viszontgarancia-vállalással támogatott hitelcél | forgóeszköz, beruházás, akvizíció, működés, hitelkiváltás |
+| 3. | Állami kezességvállalás mértéke | a hitel tőkeösszegének 80%-a |
 
-| 4. | Futamidő | forgóeszközhitel: maximum 5 év beruházási, akvizíciós és hitelkiváltó hitel: maximum 15 év |
+| 4. | Az állami kezességvállalással támogatott hitelcél | beruházási hitel, forgóeszközhitel (ideértve a működési költségek és ezen belül a személyi jellegű ráfordítások finanszírozását is), hitelkiváltás, akvizíció |
 
-| 5. | Keretösszeg | 150 milliárd forint |
+| 5. | Hitelösszeg minimum-maximum | 1 milliárd forint – 10 milliárd forint / ügylet |
 
-| 6. | Kezességvállalás mértéke | a hitel tőkeösszegének 80%-a |
+| 6. | Futamidő | forgóeszközhitel: maximum 5 év beruházási, akvizíciós és hitelkiváltó hitel: maximum 15 év |
 
-| 7. | Hitelösszeg minimum–maximum | 1 milliárd forint – 10 milliárd forint / ügylet |
+[^5]: A 2. melléklet az 1799/2020. (XI. 17.) Korm. határozat 4. pontjával megállapított szöveg.
