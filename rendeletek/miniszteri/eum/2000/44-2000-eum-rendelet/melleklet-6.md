@@ -10,7 +10,7 @@
 
 ## 1.2.3. A bejelentő telefon és fax száma
 
-## 1.3.[^43] Az anyaggal folytatott tevékenység bejelentésének azonosító kódja
+## 1.3.[^45] Az anyaggal folytatott tevékenység bejelentésének azonosító kódja
 
 ## 1.4. Nyilatkozat a bejelentés díjának befizetéséről
 
@@ -20,7 +20,7 @@
 
 ## 2. A veszélyes anyag bejelentés visszaigazolásának adattartalma
 
-## 2.1.[^44] A bejelentés azonosítója
+## 2.1.[^46] A bejelentés azonosítója
 
 ## 2.2. Az anyag neve
 
@@ -42,7 +42,7 @@
 
 ## 3.2.3. A bejelentő telefon és fax száma
 
-## 3.3.[^45] A keverékkel folytatott tevékenység bejelentésének azonosító kódja
+## 3.3.[^47] A keverékkel folytatott tevékenység bejelentésének azonosító kódja
 
 ## 3.4. Nyilatkozat a bejelentés díjának befizetéséről
 
@@ -52,7 +52,7 @@
 
 ## 4. A veszélyes keverék bejelentés visszaigazolásának adattartalma
 
-## 4.1.[^46] A bejelentés azonosítója
+## 4.1.[^48] A bejelentés azonosítója
 
 ## 4.2. A keverék neve
 
@@ -66,7 +66,7 @@
 
 ## 5. Változás bejelentés adattartalma – veszélyes anyag
 
-## 5.1.[^47] A bejelentés azonosítója
+## 5.1.[^49] A bejelentés azonosítója
 
 ## 5.2. A veszélyes anyag neve
 
@@ -82,7 +82,7 @@
 
 ## 6. Változás bejelentés visszaigazolásának adattartalma – veszélyes anyag
 
-## 6.1.[^48] A bejelentés azonosítója
+## 6.1.[^50] A bejelentés azonosítója
 
 ## 6.2. Az anyag neve
 
@@ -96,7 +96,7 @@
 
 ## 7. Változás bejelentés adattartalma – veszélyes keverék
 
-## 7.1.[^49] A bejelentés azonosítója
+## 7.1.[^51] A bejelentés azonosítója
 
 ## 7.2. A veszélyes keverék neve
 
@@ -114,7 +114,7 @@
 
 ## 8. Változás bejelentés visszaigazolásának adattartalma – veszélyes keverék
 
-## 8.1.[^50] A bejelentés azonosítója
+## 8.1.[^52] A bejelentés azonosítója
 
 ## 8.2. A keverék neve
 
@@ -126,14 +126,14 @@
 
 ## 8.5. Dátum, aláírás
 
-6–7. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^51]
+6–7. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^53]
 
-[^43]: Az 5. melléklet 1. pont 1.3. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^44]: Az 5. melléklet 2. pont 2.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^45]: Az 5. melléklet 3. pont 3.3.. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^46]: Az 5. melléklet 4. pont 4.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^47]: Az 5. melléklet 5. pont 5.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^48]: Az 5. melléklet 6. pont 6.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^49]: Az 5. melléklet 7. pont 7.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^50]: Az 5. melléklet 8. pont 8.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^51]: A 6–7. számú mellékletet a 38/2008. (X. 3.) EüM rendelet 7. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^45]: Az 5. melléklet 1. pont 1.3. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^46]: Az 5. melléklet 2. pont 2.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^47]: Az 5. melléklet 3. pont 3.3.. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^48]: Az 5. melléklet 4. pont 4.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^49]: Az 5. melléklet 5. pont 5.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^50]: Az 5. melléklet 6. pont 6.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^51]: Az 5. melléklet 7. pont 7.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^52]: Az 5. melléklet 8. pont 8.1. alpontja az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^53]: A 6–7. számú mellékletet a 38/2008. (X. 3.) EüM rendelet 7. § (3) bekezdésének c) pontja hatályon kívül helyezte.
