@@ -12,7 +12,7 @@
 
 | 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00299561-00000000 |
 
-| 5. | Csongrád Megyei Kormányhivatal | 10028007-00299664-00000000 |
+| 5. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00299664-00000000 |
 
 | 6. | Fejér Megyei Kormányhivatal | 10029008-00299640-00000000 |
 

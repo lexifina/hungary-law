@@ -3,4 +3,4 @@
 1. melléklet a 95/2013. (X. 14.) VM rendelethez[^5]
 
 [^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 89/2016. (XII. 29.) FM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. melléklet a 89/2016. (XII. 29.) FM rendelet 19. § (1) bekezdésével megállapított, a 42/2020. (XI. 17.) ITM rendelet 4. §-a szerint módosított szöveg.
