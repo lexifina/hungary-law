@@ -468,7 +468,7 @@
 
 | 6. | Budapest Főváros Kormányhivatala | 10023002-00299592-00000000 |
 
-| 7. | Csongrád Megyei Kormányhivatal | 10028007-00299664-00000000 |
+| 7. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00299664-00000000 |
 
 | 8. | Fejér Megyei Kormányhivatal | 10029008-00299640-00000000 |
 
@@ -498,4 +498,4 @@
 
 | 21. | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
 
-[^12]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 6/2014. (II. 12.) NFM rendelet 3. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 6/2014. (II. 12.) NFM rendelet 3. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 10. § (2) bekezdése, a 42/2020. (XI. 17.) ITM rendelet 2. §-a szerint módosított szöveg.
