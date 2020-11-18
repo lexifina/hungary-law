@@ -36,17 +36,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont h) alpontjában a „200,26%-áig” szövegrész helyébe a „198,77%-áig” szöveg,
-
-## b) 1. melléklet 1. pontjában foglalt táblázat C:2 mezőjében a „665,05” szövegrész helyébe a „660,11” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:4 mezőjében a „12,97” szövegrész helyébe a „10,47” szöveg és
-
-## d) 2. mellékletében foglalt táblázat D:10 mezőjében a „72,75” szövegrész helyébe a „70,32” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1798/2020. (XI. 16.) Korm. határozathoz
 
@@ -99,3 +89,5 @@ f) a forgalomba helyezés és a vagyonátadás közötti időszakban felmerülő
 g) telekadó, építményadó a NIF Zrt. könyveiben lévő és az ingatlan-nyilvántartás szerint a NIF Zrt. vagyonkezelésében lévő ingatlanok tekintetében;
 
 17. IKOP vagy CEF támogatás terhére nem elszámolható, műszakilag megalapozott, a projekt megvalósításához szükséges pótmunka költsége.
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
