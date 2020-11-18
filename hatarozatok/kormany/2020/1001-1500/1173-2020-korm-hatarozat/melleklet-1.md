@@ -72,7 +72,7 @@
 
 ## Határidő: az a) pont vonatkozásában azonnal a b) pont vonatkozásában a 2021. évi központi költségvetés tervezése során
 
-## 1.12. egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.);
+## 1.12.[^3] egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -80,27 +80,24 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.13.[^3] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a DMRV Zrt. útján – gondoskodjon az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság bevonásáról annak érdekében, hogy az 1.10 alpont szerinti feladat előkészítése és megvalósítása keretében tervezési, mérnöki, műszaki ellenőri feladatokat lásson el, valamint a DMRV Zrt. nevében és javára a kivitelezési szerződéshez kapcsolódó közbeszerzési eljárásokat lefolytassa, és a kapcsolódó projektmenedzsment-feladatokat ellássa;
+## 1.13.[^4]
 
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: a forrás rendelkezésre állását követően azonnal
-
-## 1.14.[^4] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
+## 1.14.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## Határidő: a beruházás befejezését követően azonnal
 
-## 2.[^5]
+## 2.[^6]
 
-## 3.[^6]
+## 3.[^7]
 
 1. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
 
 [^1]: Az 1. pont 1.8. alpontja az 1581/2020. (IX. 10.) Korm. határozattal megállapított szöveg.
 [^2]: Az 1. pont 1.10. alpontja az 1248/2020. (V. 20.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 1. pont 1.13. alpontja az 1248/2020. (V. 20.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
-[^5]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: Az 1. pont 1.13. alpontját az 1821/2020. (XI. 18.) Korm. határozat 4. pontja visszavonta.
+[^5]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
+[^6]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
