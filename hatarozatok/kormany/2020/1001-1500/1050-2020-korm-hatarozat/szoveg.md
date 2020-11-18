@@ -46,7 +46,7 @@ pénzügyminiszter
 
 Határidő: azonnal
 
-4a.[^4] egyetért azzal, hogy a 2. pont a) és b) alpontja szerinti fejlesztés megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön Komárom Város Önkormányzatával;
+4a.[^4] egyetért azzal, hogy a 2. pont a) és b) alpontja szerinti fejlesztés megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön Komárom Város Önkormányzatával, az ÉDV Zrt.-vel és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -58,7 +58,7 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-6.[^5] egyetért azzal, hogy a Beruházást – elszámolási és visszatérítési kötelezettség terhe mellett – Komárom Város Önkormányzata az ÉDV Zrt. bevonásával valósítsa meg;
+6.[^5] egyetért azzal, hogy a Beruházást – elszámolási és visszatérítési kötelezettség terhe mellett – Komárom Város Önkormányzata az ÉDV Zrt. és az NFP Nonprofit Kft. mint Kedvezményezettek bevonásával valósítsa meg;
 
 7.[^6] egyetért a 2. pont a) és b) alpontja szerinti fejlesztések keretében megvalósuló vagyonnövekmények állami, illetve önkormányzati tulajdonba kerülésével, és azzal, hogy a létrejött víziközmű-elemek vagyonkezelését, illetve üzemeltetését – a víziközmű-szolgáltatásról szóló törvény rendelkezéseinek megfelelően – az ellátási terület szerint érintett ÉDV Zrt. lássa el;
 
@@ -71,7 +71,7 @@ Határidő: a 2. pont a) és b) alpontja szerinti fejlesztések megvalósítás�
 [^1]: A 2. pont az 1356/2020. (VI. 30.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 3. pont az 1356/2020. (VI. 30.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: A 3a. pontot az 1356/2020. (VI. 30.) Korm. határozat 2. pontja iktatta be.
-[^4]: A 4a. pontot az 1356/2020. (VI. 30.) Korm. határozat 3. pontja iktatta be.
-[^5]: A 6. pont az 1356/2020. (VI. 30.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: A 4a. pontot az 1356/2020. (VI. 30.) Korm. határozat 3. pontja iktatta be, szövege az 1821/2020. (XI. 18.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^5]: A 6. pont az 1356/2020. (VI. 30.) Korm. határozat 4. pontjával megállapított, az 1821/2020. (XI. 18.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^6]: A 7. pont az 1356/2020. (VI. 30.) Korm. határozat 5. pontjával megállapított szöveg.
 [^7]: A 8. pontot az 1356/2020. (VI. 30.) Korm. határozat 6. pontja iktatta be.
