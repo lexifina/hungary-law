@@ -1,0 +1,3 @@
+## 3. § Az OKFŐ feladata az egészségügyi ellátórendszer működésének figyelemmel kísérése, a felülvizsgálatát érintő stratégiai kormányzati döntések megalapozása, melynek keretében közreműködik az egységes és átlátható új nemzeti egészségügyi irányítási rendszer kialakításában.
+
+4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
