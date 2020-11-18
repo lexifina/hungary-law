@@ -22,7 +22,7 @@
 
 | 05 | Borsod-Abaúj-Zemplén |
 
-| 06 | Csongrád |
+| 06 | Csongrád-Csanád |
 
 | 07 | Fejér |
 
@@ -192,7 +192,7 @@
 
 ## A kódnégyzetekbe a sérült munkavállaló foglalkoztatási jogviszonyának jellegét (önfoglalkoztató, munkaviszony, egyéb foglalkozási jogviszony, ismeretlen), tartamát (határozott vagy határozatlan idejű), valamint a munkaidő mértékét (rész- vagy teljes munkaidő) kifejező kódszámot kell beírni.
 
-## 9K01784M_3
+## 0X07981M_3
 
 | Kód | Megjelölés |
 
@@ -306,7 +306,7 @@
 
 ## Annak a sérülésnek a típusát kell megjelölni, amely a munkaképtelenséget okozta. Többszörös sérülés esetén a legsúlyosabb sérülést kell figyelembe venni. Például: ha a munkavállaló elesés következtében ficamot és zárt törést szenvedett, akkor a „Zárt törések” elnevezésű (021) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (019, 029, 039, 059, 069, 079, 089, 099, 109, 119, 999), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérülést pontosan feltüntetni.
 
-## 9K01784M_6
+## 0X07981M_6
 
 | Kód | Megjelölés | Ide tartozik | Nem tartozik ide |
 
@@ -406,7 +406,7 @@
 
 ## Azt a testrészt kell pontosan megjelölni, amely a baleset során a legsúlyosabb mértékben sérült. Például: ha a bal kézen a mutató ujj sérült meg, akkor az „Ujj(ak)” elnevezésű (54-es) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (19, 29, 39, 49, 59, 69, 99), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérült testrészt pontosan feltüntetni.
 
-## 9K01784M_7
+## 0X07981M_7
 
 | Kód | Megjelölés |
 
