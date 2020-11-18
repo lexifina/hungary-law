@@ -40,9 +40,9 @@ Pénzforgalmi számla elnevezése: Budapesti és Pest Megyei Mérnöki Kamara
 
 Pénzforgalmi számla száma: 10102086-68836102-00000000
 
-1.2.6 A Csongrád Megyei Mérnöki Kamara illetékessége esetén:
+1.2.6 A Csongrád-Csanád Megyei Mérnöki Kamara illetékessége esetén:
 
-Pénzforgalmi számla elnevezése: Csongrád Megyei Mérnöki Kamara
+Pénzforgalmi számla elnevezése: Csongrád-Csanád Megyei Mérnöki Kamara
 
 Pénzforgalmi számla száma: 10102842-37119117-00000002
 
@@ -136,4 +136,4 @@ Pénzforgalmi számla elnevezése: Magyar Mérnöki Kamara
 
 Pénzforgalmi számla száma: 10102086-68905702-00000007
 
-[^6]: Az 1. melléklet a 3/2012. (II. 10.) NGM rendelet 23. § (1) bekezdése, az 55/2014. (XII. 31.) NGM rendelet 10. § (3) bekezdése, a 22/2020. (VI. 29.) ITM rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^6]: Az 1. melléklet a 3/2012. (II. 10.) NGM rendelet 23. § (1) bekezdése, az 55/2014. (XII. 31.) NGM rendelet 10. § (3) bekezdése, a 22/2020. (VI. 29.) ITM rendelet 21. § (1) bekezdése, a 42/2020. (XI. 17.) ITM rendelet 3. §-a szerint módosított szöveg.
