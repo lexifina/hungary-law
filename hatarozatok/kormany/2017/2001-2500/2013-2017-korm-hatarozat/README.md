@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2013-30
 | --- | --- | --- |
 | 2017-12-22 | 2017-2013-30-22.1 | 2013/2017. (XII. 22.) Korm. határozat |
 | 2019-12-05 | 2017-2013-30-22.2 | 1679/2019. (XII. 5.) Korm. határozat |
+| 2020-11-18 | 2017-2013-30-22.3 | 1822/2020. (XI. 18.) Korm. határozat |
