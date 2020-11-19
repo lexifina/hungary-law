@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az 1957. szeptember 30-án létrejött, a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) módosításáról szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
