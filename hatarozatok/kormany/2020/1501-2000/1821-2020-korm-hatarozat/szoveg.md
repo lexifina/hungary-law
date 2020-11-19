@@ -86,14 +86,12 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
-2. A komáromi ipari park víziközmű-hálózat fejlesztése érdekében szükséges intézkedésekről szóló 1050/2020. (II. 18.) Korm. határozat
+2.[^1]
 
-a) 4a. pontjában a „Komárom Város Önkormányzatával” szövegrész helyébe a „Komárom Város Önkormányzatával, az ÉDV Zrt.-vel és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel” szöveg,
+3.[^2]
 
-b) 6. pontjában az „az ÉDV Zrt.” szövegrész helyébe az „az ÉDV Zrt. és az NFP Nonprofit Kft. mint Kedvezményezettek” szöveg
+4.[^3]
 
-lép.
-
-3. A Gazdaságvédelmi Akcióterv keretében a gödi ipari-innovációs fejlesztési terület infrastruktúra-fejlesztéseiről szóló 1173/2020. (IV. 22.) Korm. határozat (a továbbiakban: 1173/2020. Korm. határozat) 1. pont 1.12. alpontjában a „DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.)” szövegrész helyébe a „DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel” szöveg lép.
-
-4. A Kormány visszavonja az 1173/2020. Korm. határozat 1. pont 1.13. alpontját.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
