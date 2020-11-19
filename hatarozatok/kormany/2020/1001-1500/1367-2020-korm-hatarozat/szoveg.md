@@ -10,7 +10,7 @@ Határidő: azonnal
 
 a) további 30 000 000 000 forint azonnali és
 
-b) további 20 000 000 000 forint a támogatási igények felmerülésének megfelelő ütemezésben történő
+b)[^1] további 20 000 000 000 forint a támogatási igények felmerülésének megfelelő ütemezésben történő
 
 többletforrás biztosításáról, amelyek tartalmazzák a lebonyolítás költségeit is.
 
@@ -20,4 +20,6 @@ külgazdasági és külügyminiszter
 
 Határidő: az a) alpont tekintetében azonnal
 
-a b) alpont tekintetében a felmerülés ütemében
+a b) alpont tekintetében azonnal
+
+[^1]: A 2. pont b) alpontja az 1826/2020. (XI. 19.) Korm. határozat 6. pontja szerint módosított szöveg.
