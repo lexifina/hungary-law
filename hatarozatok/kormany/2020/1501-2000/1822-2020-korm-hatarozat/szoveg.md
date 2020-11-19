@@ -26,4 +26,6 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-2. A Kormány visszavonja a Modern Városok Program keretében az „ELI” Science Park Szeged területén kialakítandó Inkubátorház fejlesztéséhez szükséges forrás biztosításáról szóló 2013/2017. (XII. 22.) Korm. határozat 3. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
