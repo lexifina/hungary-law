@@ -1,0 +1,3 @@
+221. § A Be. 593. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a másodfokú bíróság az ítélet megalapozatlanságának kiküszöbölése során – a helyes tényállás érdekében felvett bizonyítás, az ügyiratok tartalma vagy ténybeli következtetés alapján – az elsőfokú bíróságtól eltérő tényeket állapít meg, az eltérő tényekkel kapcsolatos bizonyítékokat eltérően értékelheti. A másodfokú bíróság nem értékelheti az elsőfokú bíróságtól eltérően a másodfokú bíróság által megállapított ténnyel össze nem függő, valamint a megalapozatlansággal nem érintett tényekkel kapcsolatos bizonyítékokat.”

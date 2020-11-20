@@ -1,0 +1,7 @@
+# 2020. évi XLIII. törvény a büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-43-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2020-11-20 | 2020. évi XLIII. törvény | 2020-43-00-00.0 (közlönyállapot) |

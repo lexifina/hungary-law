@@ -1,0 +1,3 @@
+170. § A Be. 284. §-a helyébe a következő rendelkezés lép:
+
+„284. § Az óvadék a bíróság által meghatározott pénzösszeg, amelynek célja a bíróság által elrendelt távoltartás, illetve bűnügyi felügyelet magatartási szabályai megtartásának, valamint a terhelt eljárási cselekményeken való jelenlétének elősegítése. Az óvadék megállapításának e törvény eltérő rendelkezése hiányában valamennyi, a személyi szabadságot érintő bírói engedélyes kényszerintézkedés 276. § (2) bekezdésében meghatározott oka esetén helye van.”
