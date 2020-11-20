@@ -1,3 +1,1 @@
-151. § A Be. 62. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A meghatalmazást írásba kell foglalni vagy jegyzőkönyvbe kell mondani. A meghatalmazott képviselő – a (3) bekezdésben foglalt kivétellel – köteles az eredeti meghatalmazását vagy annak hitelesített másolatát az első beadványához mellékelni, vagy ha erre előbb kerül sor, első jelentkezése alkalmával az ügyiratokhoz csatolás végett az eljáró bíróságnak, ügyészségnek vagy nyomozó hatóságnak átadni. Az európai közösségi jogász köteles az ügyvédi tevékenységről szóló törvény alapján ügyvéddel vagy ügyvédi irodával kötött eredeti együttműködési szerződést vagy annak hitelesített másolatát és – ha az nem magyar nyelvű – annak hiteles magyar fordítását az első beadványához mellékelni, vagy ha erre előbb kerül sor, első jelentkezése alkalmával az ügyiratokhoz csatolás végett az eljáró bíróságnak, ügyészségnek vagy nyomozó hatóságnak átadni.”
+151. §

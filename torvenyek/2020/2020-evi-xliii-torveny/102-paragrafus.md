@@ -1,3 +1,1 @@
-102. § A Bv. tv. 103. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A bv. intézet a döntés megalapozása érdekében az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentés készítése céljából megkeresheti az elítélt által az eltávozásra megjelölt lakcím, illetve tényleges tartózkodási hely szerint illetékes rendőrkapitányságot. Az elítélt átmeneti részlegre helyezhetőségéről a BFB javaslatára a bv. intézet parancsnoka határozattal dönt. Az átmeneti részlegre helyezésről való nemleges döntés esetén a határozat meghozatalától számított hat hónap elteltével az elítélt vagy a védője – egy alkalommal – kérelmet nyújthat be az átmeneti részlegre helyezés érdekében.”
+102. §
