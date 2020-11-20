@@ -2,7 +2,7 @@
 
 ## 7. A szabadidős létesítményekre vonatkozó védelmi intézkedések
 
-12. §[^13] (1) Az e rendeletben meghatározott kivétellel tilos
+12. §[^15] (1) Az e rendeletben meghatározott kivétellel tilos
 
 a) az előadó-művészet valamennyi ágának fellépése céljából megtartott eseménynek, függetlenül annak nyilvánosságától (így különösen színház, tánc-, zeneművészet, cirkusz),
 
@@ -44,4 +44,4 @@ jf) integrált kulturális intézménynek
 
 (4) A jégpályák, az uszodák, az edző- és fitnesztermek és a sportlétesítmények a sportról szóló törvény szerint versenyszerűen sportolók számára edzésen vagy sportrendezvényen való részvétel céljából látogathatóak.
 
-[^13]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^15]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

@@ -1,6 +1,6 @@
 ## 1. A maszkviselési szabályok megerősítése
 
-1. §[^2] (1) A hatodik életévét be nem töltött kiskorú kivételével mindenki köteles
+1. §[^2] (1)[^3] A hatodik életévét be nem töltött kiskorú, valamint az autizmus spektrumzavarral élő személy kivételével mindenki köteles
 
 a) a tömegközlekedési eszközön,
 
@@ -44,4 +44,18 @@ a) az ott foglalkoztatottaknak az ellátottakkal való közvetlen érintkezésko
 
 b) az ellátottaknak a közösségi programok alkalmával és a közösségi terekben való tartózkodás esetén lehetőség szerint
 
+## az (1) bekezdésben meghatározott módon maszkot kell viselniük.
+
+(5)[^4] Az autizmus spektrumzavarral élő személy
+
+a) a fogyatékosságügyi országos érdekvédelmi szervezet által kiállított
+
+aa) tagsági igazolvánnyal,
+
+ab) a maszkviselésre vonatkozó szabályok alóli mentesség érvényesítéséhez kiállított, fogyatékos állapot fennállását igazoló dokumentummal,
+
+b) orvosi igazolással
+
 [^2]: Az 1. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^3]: Az 1. § (1) bekezdés nyitó szövegrésze az 510/2020. (XI. 19.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdését az 510/2020. (XI. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
