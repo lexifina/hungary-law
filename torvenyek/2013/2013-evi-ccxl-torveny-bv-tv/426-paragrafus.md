@@ -8,7 +8,7 @@ b) az eljárás megszüntetése esetén, az erről szóló határozat kézbesít
 
 (3) Ha az ügyészség vagy a bíróság az előzetes kényszergyógykezelést megszünteti, a beteget – megfelelő igazolással ellátva – azon a napon kell elbocsátani, amelyen a kényszerintézkedés megszüntetéséről szóló értesítőlap az IMEI-be megérkezik.
 
-(4) Ha az előzetes kényszergyógykezelés megszüntetésekor a terhelt letartóztatását rendelték el, szabadságvesztésre, elzárásra ítélték, haladéktalanul intézkedni kell a bv. intézetbe történő átszállítása iránt. Ha a beteg fekvőbeteg-gyógyintézeti ápolásra szorul, úgy az IMEI megfelelő osztályán kell gyógykezelését folytatni, vagy a Központi Kórház megfelelő osztályára kell átszállítani. Részletes kórrajz-kivonatát a büntetés-végrehajtási egészségügyi anyagához csatolni kell.
+(4) Ha az előzetes kényszergyógykezelés megszüntetésekor a terhelt letartóztatását rendelték el, szabadságvesztésre, elzárásra ítélték, haladéktalanul intézkedni kell a bv. intézetbe történő átszállítása iránt. Ha a beteg fekvőbeteg-gyógyintézeti ápolásra szorul, úgy az IMEI megfelelő osztályán kell gyógykezelését folytatni, vagy a BVEK megfelelő osztályára kell átszállítani. Részletes kórrajz-kivonatát a büntetés-végrehajtási egészségügyi anyagához csatolni kell.
 
 (5) A (2) és (3) bekezdés eseteiben sem bocsátható el az előzetes kényszergyógykezelt és haladéktalanul intézkedni kell a bv. intézetbe történő átszállítása iránt, ha
 

@@ -8,7 +8,7 @@ a) a befogadást követően, vagy
 
 b) a 92. § (2) bekezdésében meghatározott kivizsgálást követően a kijelölt bv. intézetben
 
-a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. A befogadó részlegen való elhelyezés időtartamába nem számít be az IMEI-ben, a Központi Kórházban vagy a más bv. intézetben megőrzésen töltött idő.
+a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. A befogadó részlegen való elhelyezés időtartamába nem számít be az IMEI-ben, a BVEK-ban vagy a más bv. intézetben megőrzésen töltött idő.
 
 (3) A bv. intézeti befogadást követően a kockázatértékelési összefoglaló jelentés alapján a befogadó részleg vezetője az elítélt együttműködésével kialakítja és rögzíti az egyéniesített fogvatartási programtervet, majd a BFB az elítélt személyes meghallgatását követő nyolc napon belül dönt az elítélt rezsimbe sorolásáról és a bv. intézetben működő reintegrációs programokon való részvételéről.
 

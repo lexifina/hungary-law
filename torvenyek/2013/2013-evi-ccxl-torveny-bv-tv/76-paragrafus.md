@@ -48,6 +48,6 @@ t) az enyhébb végrehajtási szabályok alkalmazása és a társadalmi kötőd�
 
 (3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni az elítélt adatainak kezelésére akkor is, ha
 
-a) az igazságügyért felelős miniszter a kegyelmi eljárás során elrendeli az elítéltnek a Központi Kórházban történő szakorvosi vizsgálatát, vagy
+a) az igazságügyért felelős miniszter a kegyelmi eljárás során elrendeli az elítéltnek a BVEK-ban történő szakorvosi vizsgálatát, vagy
 
 b) a szabadlábon lévő elítélt feltételes szabadságra bocsátása a Btk. 92–92/B. §-a alapján beszámított időre figyelemmel esedékes, de a letartóztatást nem a bv. intézetben töltötte.

@@ -20,7 +20,7 @@ c) az elítélt életvitelével összefüggő nyilvános adatokról készített 
 
 (7) A döntéshez szükséges adatokat tartalmazó ügyiratokat és egyéb iratokat, valamint a kegyelmi kérelmet, illetve a kegyelmi kezdeményezést a tanács elnöke az adatok, iratok beszerzését követő nyolc napon belül az igazságügyért felelős miniszterhez felterjeszti.
 
-(8) Ha a kegyelmi eljárás során egészségügyi okra hivatkoznak, az igazságügyért felelős miniszter az előterjesztés előkészítése során – a büntetés végrehajtásának megkezdésére halasztó hatállyal – elrendelheti az elítéltnek a Büntetés-végrehajtás Központi Kórházában (a továbbiakban: Központi Kórház) vagy az IMEI-ben történő szakorvosi vizsgálatát.
+(8) Ha a kegyelmi eljárás során egészségügyi okra hivatkoznak, az igazságügyért felelős miniszter az előterjesztés előkészítése során – a büntetés végrehajtásának megkezdésére halasztó hatállyal – elrendelheti az elítéltnek a Büntetés-végrehajtás Egészségügyi Központban (a továbbiakban: BVEK) vagy az IMEI-ben történő szakorvosi vizsgálatát.
 
 (9) A büntetés vagy az intézkedés elengedése vagy mérséklése iránti kérelem vagy előterjesztés esetén az igazságügyért felelős miniszter elrendelheti a büntetés vagy javítóintézeti nevelés végrehajtásának a köztársasági elnök döntéséig történő elhalasztását vagy félbeszakítását.
 
