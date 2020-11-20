@@ -38,4 +38,6 @@ Felelős: pénzügyminiszter
 
 Határidő: a Külgazdasági és Külügyminisztérium befizetési kötelezettségének teljesítését követően azonnal
 
-6. úgy határoz, hogy a Korm. határozat 2. pont b) alpontjában „a felmerülés ütemében” szövegrész helyébe az „azonnal” szöveg lép.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
