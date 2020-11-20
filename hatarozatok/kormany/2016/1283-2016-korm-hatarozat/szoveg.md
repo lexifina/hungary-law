@@ -160,4 +160,17 @@ Felelős: az 1–8. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
 
+10.[^2] A Kormány Békéscsaba útfejlesztési céljainak végrehajtása érdekében
+
+a) egyetért a békéscsabai úthálózat fejlesztési céljainak megvalósításával, és
+
+b) felhívja a Miniszterelnökséget vezető minisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával és az Önkormányzattal egyeztetve tegyék meg a szükséges intézkedéseket az a) alpont szerinti beruházás előkészítéséhez és megvalósításához szükséges források biztosítása érdekében.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: azonnal
+
 [^1]: A 2. pont az 1878/2016. (XII. 28.) Korm. határozat szerint módosított szöveg.
+[^2]: A 10. pontot az 1836/2020. (XI. 20.) Korm. határozat iktatta be.
