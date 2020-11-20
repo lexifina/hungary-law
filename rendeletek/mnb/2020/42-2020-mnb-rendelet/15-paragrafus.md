@@ -1,0 +1,7 @@
+15. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglaltak kivételével – a kihirdetését követő napon lép hatályba.
+
+(2) A 7., 8. és 10–12. §, az 1. melléklet 1–4.1. és 4.3–5. pontja, a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 1–3., 5., 9–13., 20., 27–54. és 56–71. sora, az ott meghatározott felügyeleti jelentések táblái, az „ÖSSZEFOGLALÓ TÁBLA KONSZOLIDÁLT JELENTÉSEK” megnevezésű táblázat, az ott meghatározott felügyeleti jelentések táblái, a 3. melléklet II.1–3., II.5., II.7–9., II.13., II.16–42., II.44–55. és III. pontja, a 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–7., 12–31. és 33–37. sora, az ott meghatározott felügyeleti jelentések táblái, az 5. melléklet II–III.4.4., IV.1–15., IV.17–19. és V. pontja, a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–9., 14–20. és 22–29. sora, az ott meghatározott felügyeleti jelentések táblái, a 7. melléklet II–III.2.3., IV.1–5. és IV.7–10. pontja, valamint a 8–11. és 14–19. melléklet 2021. január 1-jén lép hatályba.
+
+(3) A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 6–8., 14–19. és 24–26. sora, az ott meghatározott felügyeleti jelentések táblái, valamint a 3. melléklet II.6., II.10–12. és II.15. pontja 2021. április 1-jén lép hatályba.
+
+(4) A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 4. és 21–23. sora, az ott meghatározott felügyeleti jelentések táblái, valamint a 3. melléklet II.4. és II.14. pontja 2021. június 1-jén lép hatályba.
