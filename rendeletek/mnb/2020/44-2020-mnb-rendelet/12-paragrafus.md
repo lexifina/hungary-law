@@ -1,0 +1,3 @@
+12. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő napon lép hatályba.
+
+(2) Az 5. §, a 6. § (3) bekezdése, a 7–9. §, a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–43. és 45–106. sora, az ott meghatározott felügyeleti jelentések táblái, a 3. melléklet II.2–42., II.44–47., III. és IV. pontja, a 4. és 5. melléklet, a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–16. és 18–47. sora, az ott meghatározott felügyeleti jelentések táblái, a 7. melléklet II.2–17., II.19–26. és III–VI. pontja, valamint a 8–13. melléklet 2021. január 1-jén lép hatályba.
