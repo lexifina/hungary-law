@@ -20,13 +20,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 7. pontjában foglalt táblázat C:2 mezőjében a „40,42” szövegrész helyébe a „41,86” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:26 mezőjében a „40,42” szövegrész helyébe a „41,86” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1827/2020. (XI. 19.) Korm. határozathoz
 
@@ -35,3 +29,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.1-15- 2016-00027 | A fertődi Esterházy-kastély turisztikai célú fejlesztése | NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 3 000 000 000 | 1 442 730 993 | 4 442 730 993 | A projekt keretében a fertődi Esterházy-kastély turisztikai célú fejlesztésére kerül sor. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
