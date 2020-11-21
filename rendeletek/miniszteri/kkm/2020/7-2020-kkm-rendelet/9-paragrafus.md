@@ -10,8 +10,11 @@ c) nyilatkozik arról, hogy nem felelős a gazdasági visszaesésért és a től
 
 d) nyilatkozik arról, hogy a felmerült veszteségekre nincs biztosítása, vagy a biztosítás alapján nincs lehetőség a felmerült károk teljes megtérítésére,
 
-e) vállalja, hogy a bázislétszámát a beruházás befejezéséig, de legalább 2020. december 31-ig fenntartja,
+e)[^22] vállalja, hogy a bázislétszámát a beruházás befejezéséig, de legalább 2021. június 30-ig fenntartja,
 
-f) vállalja, hogy 2021. június 30-ig legalább 150 000 euró értékű beruházást valósít meg Magyarországon,
+f)[^23] vállalja, hogy 2021. december 31-ig legalább 150 000 euró értékű beruházást valósít meg Magyarországon,
 
 g) nyilatkozik, hogy a pályázata benyújtását megelőzően nem kezdte meg a beruházást.
+
+[^22]: A 9. § e) pontja a 15/2020. (XI. 20.) KKM rendelet 1. §-ával megállapított szöveg.
+[^23]: A 9. § f) pontja a 15/2020. (XI. 20.) KKM rendelet 1. §-ával megállapított szöveg.

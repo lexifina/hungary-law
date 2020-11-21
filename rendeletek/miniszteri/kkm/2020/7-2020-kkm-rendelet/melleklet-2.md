@@ -8,7 +8,7 @@
 
 | 4. |  |  |  | A koronavírus- járvány következtében szükségessé vált versenyképesség- növelő támogatás | Az előirányzat fedezetet biztosít a koronavírus (COVID-19) következtében a gazdaság számára szükséges beruházások ösztönzésére, valamint az elszenvedett pénzügyi károk megtérítésére a vállalatoknak nyújtott egyszeri, vissza nem terítendő költségvetési támogatás nyújtása által. | A Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaságok, kivéve az alábbi ágazatok: acélipar, hajógyártás, szénipar, szintetikusszál-ipar, személy- vagy áruszállítási szolgáltatás, elsődleges mezőgazdasági termelés, akvakultúra, energiatermelés, kereskedelem, turizmus. Továbbá a HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvény- társaság mint lebonyolító szerv. | pályázat útján támogatói okirattal, valamint egyedi kérelemre támogatási szerződéssel | előleg biztosítható | költségvetési támogatás esetén közvetlen kifizetéssel egy összegben, egyéb kifizetés esetén közvetlen kifizetéssel egy összegben és/vagy részletekben, teljesítésarányosan; előirányzat- átcsoportosítással |  | Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat, illetve a rendeletben meghatározott esetekben bankgarancia |  | HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvény- társaság |  |
 
-2. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^25]
+2. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^32]
 
 A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás tekintetében vállalt beruházás keretében beszerzett tárgyi eszközökre és immateriális javakra vonatkozó szabályok
 
@@ -144,4 +144,4 @@ a) Olyan ingatlan, amelynek az ingatlan-nyilvántartás szerinti tulajdoni lapja
 
 b) A telekköltség a beruházás teljes elszámolható költségének 25%-áig vehető figyelembe.
 
-[^25]: A 2. mellékletet a 10/2020. (VII. 4.) KKM rendelet 15. §-a iktatta be.
+[^32]: A 2. mellékletet a 10/2020. (VII. 4.) KKM rendelet 15. §-a iktatta be.
