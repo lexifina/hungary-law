@@ -460,6 +460,6 @@
 
 ## III.
 
-4. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^9]
+4. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^10]
 
-[^9]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–7., 12–31. és 33–37. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^10]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–7., 12–31. és 33–37. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

@@ -146,6 +146,6 @@
 
 ## A táblák fentiekben nem nevesített sorait az 1. melléklet 2. pontjában meghatározott fogalmak alapján kell kitölteni.
 
-14. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^17]
+14. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^18]
 
-[^17]: A 14. melléklet a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^18]: A 14. melléklet a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-9. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^14]
+9. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^15]
 
-[^14]: A 9. melléklet a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^15]: A 9. melléklet a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

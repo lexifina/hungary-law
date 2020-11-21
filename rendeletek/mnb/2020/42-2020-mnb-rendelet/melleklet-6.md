@@ -176,6 +176,6 @@
 
 ## Minden negyedéves jelentést (PVF21A, PVF21B1, PVF21B2, PVF22A1, 20B, 20C, 21A, 21B, 21C, 21D, 21E, 21R, 22A, 23C, 24E, NPET, NPEA, NPEB, FBET, FBEA, FBEB, 24F, 24G, 24I, 25A, 25B, 25C, 27AA, 27AB kódú táblák) az auditált adatokkal is meg kell küldeni az MNB-nek.
 
-6. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^11]
+6. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^12]
 
-[^11]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–9., 14–20. és 22–29. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^12]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–9., 14–20. és 22–29. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
