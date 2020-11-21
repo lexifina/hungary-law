@@ -38,4 +38,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2021. március 31.
 
-8. visszavonja az egyes kiemelt sportcélú fejlesztési beruházások forrásszükségletének biztosításáról szóló 1801/2016. (XII. 20.) Korm. határozat 1. melléklet 4. sorát.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
