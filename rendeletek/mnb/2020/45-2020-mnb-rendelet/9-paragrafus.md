@@ -1,0 +1,3 @@
+9. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 5. §, a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–36., 38–44. és 46–55. sora, az ott meghatározott felügyeleti jelentések táblái, a 3. melléklet II–IV.4.6., V., VI.1. és VII–IX. pontja, a 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–26., 28. és 30–36. sora, az ott meghatározott felügyeleti jelentések táblái, az 5. melléklet II., III.1.1–1.3., IV.1.1., V. és VI. pontja, a 6. és 7. melléklet, a 8. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–35. sora, az ott meghatározott felügyeleti jelentések táblái és a 9. melléklet II., III.1–6. pontja 2021. január 1-jén lép hatályba.
