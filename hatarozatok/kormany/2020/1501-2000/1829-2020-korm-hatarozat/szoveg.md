@@ -18,4 +18,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2022. január 1.
 
-5. A Kormány a szociális ágazatot érintő egyes feladatokról szóló 1151/2013. (III. 26.) Korm. határozatot visszavonja.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
