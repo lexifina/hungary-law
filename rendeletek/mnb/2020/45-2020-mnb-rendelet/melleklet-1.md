@@ -1,4 +1,4 @@
-## 11. § Hatályát veszti a 41/2019. (XI. 21.) MNB rendelet.
+## 11. §[^2]
 
 1. melléklet a 45/2020. (XI. 20.) MNB rendelethez
 
@@ -119,3 +119,5 @@ Az azonosító kód első két karaktere a szektor azonosítására szolgál –
 A fentiek alapján lehetséges portfólió azonosító kód például ABC önkéntes nyugdíjpénztár esetében az „OPABC001”, ABC egészségpénztár esetében az „EPABC001”, ABC magánnyugdíjpénztár esetében „MPABC001”.
 
 Ugyanazon portfóliót következetesen, mindig azonos kódszámmal kell jelölni a felügyeleti jelentésben. Új azonosító kódot kell képezni új választható portfólió bevezetése, legalább kettő választható portfólió egyesítése, vagy egy választható portfólió szétválasztása esetén. Megszűnt portfólió kódja ismételten nem használható fel.
+
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

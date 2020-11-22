@@ -150,6 +150,6 @@
 
 ## VI.
 
-6. melléklet a 45/2020. (XI. 20.) MNB rendelethez[^6]
+6. melléklet a 45/2020. (XI. 20.) MNB rendelethez[^7]
 
-[^6]: A 6. melléklet a 9. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^7]: A 6. melléklet a 9. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

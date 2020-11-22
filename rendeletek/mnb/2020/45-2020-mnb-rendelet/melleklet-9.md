@@ -1,6 +1,6 @@
 ## 20202C20000045_7
 
-9. melléklet a 45/2020. (XI. 20.) MNB rendelethez[^9]
+9. melléklet a 45/2020. (XI. 20.) MNB rendelethez[^10]
 
 A foglalkoztatói nyugdíjszolgáltató intézmény felügyeleti jelentéseire vonatkozó
 
@@ -104,4 +104,4 @@ Azon ügyfél-átvilágítások száma, amelyeknél az üzleti kapcsolat létes�
 
 Azon ügyfél-átvilágítások száma, amelyeknél az ügyfél helyett és nevében meghatalmazott jár el és az ügyfél-átvilágítási intézkedéseket a foglalkoztatói nyugdíjszolgáltató intézmény a meghatalmazott részvételével végezte el.
 
-[^9]: A 9. melléklet II., III.1–6. pontja a 9. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^10]: A 9. melléklet II., III.1–6. pontja a 9. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
