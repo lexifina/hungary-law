@@ -62,6 +62,8 @@ e) a 76. § (1) bekezdés e) és i) pontját nem kell alkalmazni.
 
 (14)[^431] A (13) bekezdést a Kormány egyedi határozatában meghozott támogatási döntését módosító határozatának (a továbbiakban: módosító kormányhatározat) megjelenését megelőzően létrejött jogviszonyokra abban az esetben kell alkalmazni, ha a kedvezményezett a támogatott tevékenység megvalósítását és a részére támogatási előlegként nyújtott költségvetési támogatás felhasználását a módosító kormányhatározat megjelenésének időpontjában még nem kezdte meg, amely tényről a kedvezményezett a támogató felszólítását követően haladéktalanul, írásban köteles nyilatkozni. A nyilatkozattétel felszólítás ellenére való elmaradása esetén a támogató a jogosulatlanul igénybe vett támogatás jogkövetkezményeit alkalmazza.
 
+(15)[^432] A (14) bekezdést nem kell alkalmazni arra a Kormány egyedi határozatában meghozott támogatási döntésre, amely esetében az abban foglalt költségvetési támogatás az Áht. 14. § (3) bekezdése szerinti fejezet terhére került nyújtásra.
+
 [^424]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
 [^425]: Az Ávr. 101/A. § (1) bekezdése a 140/2018. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 445/2020. (X. 1.) Korm. rendelet 18. § (2) bekezdés 2. pontja szerint módosított szöveg.
 [^426]: Az Ávr. 101/A. § (1a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
@@ -70,3 +72,4 @@ e) a 76. § (1) bekezdés e) és i) pontját nem kell alkalmazni.
 [^429]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.
 [^430]: Az Ávr. 101/A. § (13) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
 [^431]: Az Ávr. 101/A. § (14) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
+[^432]: Az Ávr. 101/A. § (15) bekezdését az 503/2020. (XI. 17.) Korm. rendelet 1. §-a iktatta be.

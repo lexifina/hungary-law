@@ -1,3 +1,3 @@
-168. §[^760] A 6. mellékletben megjelöltek kötelesek az ott meghatározott adatokat a leírt módon és időpontokban közzétenni.
+168. §[^761] A 6. mellékletben megjelöltek kötelesek az ott meghatározott adatokat a leírt módon és időpontokban közzétenni.
 
-[^760]: Az Ávr. 168. §-t újonnan a 397/2014. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
+[^761]: Az Ávr. 168. §-t újonnan a 397/2014. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
