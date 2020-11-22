@@ -234,6 +234,6 @@
 
 ## III - IV.
 
-4. melléklet a 44/2020. (XI. 20.) MNB rendelethez[^8]
+4. melléklet a 44/2020. (XI. 20.) MNB rendelethez[^9]
 
-[^8]: A 4. melléklet a 12. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^9]: A 4. melléklet a 12. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
