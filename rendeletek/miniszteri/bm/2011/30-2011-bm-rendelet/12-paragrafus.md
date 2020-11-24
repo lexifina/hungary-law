@@ -1,4 +1,4 @@
-12. § (1)[^29] Közlekedési baleset helyszínén a rendőr a hatáskörébe nem tartozó ügyekben a helyszín megtekintése vagy a szemle lefolytatása érdekében a rendőrség ügyeletesét értesíti. A baleseti helyszínelő kiérkezéséig a rendőr gondoskodik az elsődleges intézkedések megtételére – különös tekintettel az elsősegélynyújtásra, értesítés adásra, helyszínbiztosításra, tanúkutatásra, adatgyűjtésre, kárelhárításra, a forgalom folyamatosságának biztosítására –, a kiérkezést követően segíti a baleseti helyszínelő munkáját, elvégzi a rábízott feladatokat, különös tekintettel a forgalomirányításra, valamint a helyszínfelmérésre.
+12. § (1)[^34] Közlekedési baleset helyszínén a rendőr a hatáskörébe nem tartozó ügyekben a helyszín megtekintése vagy a szemle lefolytatása érdekében a rendőrség ügyeletesét értesíti. A baleseti helyszínelő kiérkezéséig a rendőr gondoskodik az elsődleges intézkedések megtételére – különös tekintettel az elsősegélynyújtásra, értesítés adásra, helyszínbiztosításra, tanúkutatásra, adatgyűjtésre, kárelhárításra, a forgalom folyamatosságának biztosítására –, a kiérkezést követően segíti a baleseti helyszínelő munkáját, elvégzi a rábízott feladatokat, különös tekintettel a forgalomirányításra, valamint a helyszínfelmérésre.
 
 (2) A közúti járművezetésre vonatkozó szabályok megszegésével nem közúton súlyos sérülést vagy halált okozó közlekedési balesetnél is a közúti közlekedési balesetekre vonatkozó szabály szerint kell eljárni.
 
@@ -50,4 +50,4 @@ b) a baleset helyszínéről a mentőszolgálat értesítése, valamint helyszí
 
 (10) A rendőr vasúti, vízi vagy légiközlekedési balesetről – jelentéstételi kötelezettségével egyidejűleg – a közlekedésbiztonsági szervezetet értesíti.
 
-[^29]: A 12. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § b) pontja szerint módosított szöveg.
+[^34]: A 12. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § b) pontja szerint módosított szöveg.
