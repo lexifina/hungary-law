@@ -8,11 +8,11 @@
 
 3. járműtípus: jogszabályban meghatározott típusengedélynek megfelelő járműtípus;
 
-4.[^2] járműkarbantartás: megelőző és javító karbantartásból álló, adott járművön végzett munkák összessége, amely a műszaki állapot és a paraméterek megőrzésére irányul, célja, hogy a jármű a következő karbantartási ciklusig biztonságosan közlekedjen;
+4.[^3] járműkarbantartás: megelőző és javító karbantartásból álló, adott járművön végzett munkák összessége, amely a műszaki állapot és a paraméterek megőrzésére irányul, célja, hogy a jármű a következő karbantartási ciklusig biztonságosan közlekedjen;
 
 5. járműfelújítás: a tevékenység eredményeként a jármű a gyártásakor vagy az utolsó engedélyezett átalakításakor érvényes műszaki követelményeknek – az eredeti állapotával/teljesítőképességével azonos – megfelelő műszaki állapotba kerül, amelynek során a jármű típusmeghatározó adatai, tűzvédelmi, közlekedésbiztonsági, munka- és környezetvédelmi jellemzői nem változnak;
 
-6.[^3] járműjavítás: telepített vagy mobil műhelyben végzett tevékenység, amelynek célja a meghibásodott, megrongálódott, elhasználódott jármű, részegység, alkatrész kialakításának, működőképességének, műszaki paramétereinek helyreállítása annak érdekében, hogy a jármű, a jármű részegység és az alkatrész biztonságos üzemeltetésre újra alkalmas legyen a következő karbantartási ciklusig;
+6.[^4] járműjavítás: telepített vagy mobil műhelyben végzett tevékenység, amelynek célja a meghibásodott, megrongálódott, elhasználódott jármű, részegység, alkatrész kialakításának, működőképességének, műszaki paramétereinek helyreállítása annak érdekében, hogy a jármű, a jármű részegység és az alkatrész biztonságos üzemeltetésre újra alkalmas legyen a következő karbantartási ciklusig;
 
 7. javítási dokumentáció: az 1. mellékletben meghatározott dokumentumok összessége, amely igazolja, hogy a javítást, karbantartást végző személy, szervezet megfelelő szakértelemmel, vasúti alkalmazásra megfelelő alkatrészek, anyagok felhasználásával végezte tevékenységét;
 
@@ -24,10 +24,11 @@
 
 11. tanúsítvány: a hatóság vagy valamely nemzeti rendszerben akkreditált szervezet által kiállított dokumentum, amely egy deklarált követelményrendszer szerinti előírásoknak való megfelelést igazol;
 
-12.[^4] zárt láncú informatikai hálózat: olyan informatikai hálózat, amelynek berendezései képesek a műszaki engedéllyel rendelkező szervezetnél a külső beavatkozások blokkolására, és a rendszeren, az adatállományon végrehajtott módosítások naplózottak.
+12.[^5] zárt láncú informatikai hálózat: olyan informatikai hálózat, amelynek berendezései képesek a műszaki engedéllyel rendelkező szervezetnél a külső beavatkozások blokkolására, és a rendszeren, az adatállományon végrehajtott módosítások naplózottak.
 
-(2) E rendelet alkalmazása során a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben és a végrehajtására kiadott rendeletekben, továbbá a 445/2011/EU bizottsági rendeletben meghatározott fogalmakat is alkalmazni kell.
+(2)[^6] E rendelet alkalmazása során a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben és a végrehajtására kiadott rendeletekben, továbbá az (EU) 2019/779 bizottsági rendeletben meghatározott fogalmakat is alkalmazni kell.
 
-[^2]: A 2. § (1) bekezdés 4. pontja az 54/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 6. pontja az 54/2017. (XII. 27.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 12. pontját az 54/2017. (XII. 27.) NFM rendelet 6. § (3) bekezdése iktatta be.
+[^3]: A 2. § (1) bekezdés 4. pontja az 54/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 6. pontja az 54/2017. (XII. 27.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 12. pontját az 54/2017. (XII. 27.) NFM rendelet 6. § (3) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdése a 44/2020. (XI. 19.) ITM rendelet 9. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 4. Karbantartó, javító, felújító és korszerűsítő tevékenység végzésének feltételei
 
-10. § (1)[^19] Az engedélyes – a (2) bekezdésben foglalt kivétellel – tevékenységét
+10. § (1)[^21] Az engedélyes – a (2) bekezdésben foglalt kivétellel – tevékenységét
 
 a) az ISO 9001 követelményeknek történő megfelelést igazoló tanúsítvány,
 
@@ -16,4 +16,4 @@ e) műszaki engedély
 
 (2) Az (1) bekezdés b) pontjában meghatározott feltétel akkor is teljesül, ha a 13. § (5) bekezdésében meghatározottak szerinti alvállalkozó rendelkezik az (1) bekezdés b) pontjában meghatározott tanúsítvánnyal.
 
-[^19]: A 10. § (1) bekezdése az 54/2017. (XII. 27.) NFM rendelet 10. §-ával megállapított szöveg.
+[^21]: A 10. § (1) bekezdése az 54/2017. (XII. 27.) NFM rendelet 10. §-ával megállapított szöveg.

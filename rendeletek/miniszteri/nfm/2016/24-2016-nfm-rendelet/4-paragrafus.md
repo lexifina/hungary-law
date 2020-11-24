@@ -6,7 +6,7 @@ a) EGT-államban honos vállalkozás kérelmező esetén a kérelmező cégkivon
 
 b) a kérelmező és alvállalkozó alkalmasságát igazoló, a 10. §-ban foglaltakat igazoló iratokat,
 
-c)[^5] a 11. §-ban meghatározott felelősségbiztosítás vagy garanciaszerződés igazolására:
+c)[^7] a 11. §-ban meghatározott felelősségbiztosítás vagy garanciaszerződés igazolására:
 
 ca) a biztosítási kötvényt és a biztosítási díjjal rendezett időszakról szóló – ideértve a díjhalasztást is –, a biztosító által kiállított díjigazolást és a biztosítási szerződés általános és – amennyiben van – különös szerződési feltételeit és a kártérítési limit vizsgálata érdekében az adott biztosítási időszakban történt kárkifizetésről szóló biztosítói nyilatkozatot, vagy
 
@@ -18,7 +18,7 @@ e) az engedélyes 13. § (5) bekezdésében meghatározottak szerinti, engedély
 
 f) a közlekedési hatóság által végzett vasúti hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott igazgatási szolgáltatási díj befizetésének igazolását.
 
-(2a)[^6] A (2) bekezdés c) pontja szerinti biztosítási kötvény akkor megfelelő, ha tartalmazza:
+(2a)[^8] A (2) bekezdés c) pontja szerinti biztosítási kötvény akkor megfelelő, ha tartalmazza:
 
 a) a biztosítási szerződés azonosítóját (kötvényszámát),
 
@@ -46,7 +46,7 @@ l) a rendelkezést arról, hogy a szerződés bármely okból történő megszű
 
 m) a rendelkezést arra vonatkozóan, hogy a biztosítási kötvény e rendelet előírásainak mindenben megfelel.
 
-(2b)[^7] A (2) bekezdés c) pontja szerinti garanciaszerződés akkor megfelelő, ha tartalmazza:
+(2b)[^9] A (2) bekezdés c) pontja szerinti garanciaszerződés akkor megfelelő, ha tartalmazza:
 
 a) a szerződés azonosítóját,
 
@@ -70,14 +70,14 @@ j) a rendelkezést arról, hogy a szerződés bármely okból történő megszű
 
 k) a rendelkezést arra vonatkozóan, hogy a garanciaszerződés e rendelet előírásainak mindenben megfelel.
 
-(2c)[^8] Az újonnan műszaki engedélyt kérő kérelmező a kérelem benyújtásakor elegendő, ha a pénzintézet által kiállított szándéknyilatkozatot nyújtja be. A hatóság a kérelem elbírálását követően az engedélyt csak a 11. §-ban előírt felelősségbiztosítás vagy garanciaszerződés megkötése után és a 4. § (2) bekezdés c) pontjában meghatározott dokumentumok benyújtását és annak ellenőrzését követően adja meg.
+(2c)[^10] Az újonnan műszaki engedélyt kérő kérelmező a kérelem benyújtásakor elegendő, ha a pénzintézet által kiállított szándéknyilatkozatot nyújtja be. A hatóság a kérelem elbírálását követően az engedélyt csak a 11. §-ban előírt felelősségbiztosítás vagy garanciaszerződés megkötése után és a 4. § (2) bekezdés c) pontjában meghatározott dokumentumok benyújtását és annak ellenőrzését követően adja meg.
 
 (3) A nem EGT-államban honos vállalkozás esetén a (2) bekezdésben meghatározott dokumentumokat magyar nyelven, vagy az eredeti dokumentumot és annak hiteles fordítását kell csatolni a kérelemhez.
 
-(4)–(5)[^9]
+(4)–(5)[^11]
 
-[^5]: A 4. § (2) bekezdés c) pontja az 54/2017. (XII. 27.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^6]: A 4. § (2a) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
-[^7]: A 4. § (2b) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
-[^8]: A 4. § (2c) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
-[^9]: A 4. § (4)–(5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 94. § a) pontja hatályon kívül helyezte.
+[^7]: A 4. § (2) bekezdés c) pontja az 54/2017. (XII. 27.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (2a) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^9]: A 4. § (2b) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^10]: A 4. § (2c) bekezdését az 54/2017. (XII. 27.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^11]: A 4. § (4)–(5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 94. § a) pontja hatályon kívül helyezte.
