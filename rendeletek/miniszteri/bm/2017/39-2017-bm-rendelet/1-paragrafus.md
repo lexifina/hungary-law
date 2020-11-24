@@ -2,11 +2,7 @@
 
 1. § (1) E rendeletet
 
-a) a büntetőeljárásról szóló törvény alapján
-
-aa) elrendelt elővezetés,
-
-ab) a terhelt meghatározott bíróság, ügyészség, illetve nyomozó hatóság vagy végrehajtásért felelős szerv elé állítása,
+a)[^1] a büntetőeljárásról szóló törvény alapján elrendelt elővezetés,
 
 b) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény alapján
 
@@ -26,6 +22,9 @@ cc) az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költség
 
 (2) E rendelet alkalmazásában
 
-a) előállítás: az (1) bekezdés a) pont ab) alpontja, az (1) bekezdés b) pont bb) alpontja, valamint az (1) bekezdés c) pont cb) alpontja szerinti tevékenység,
+a)[^2] előállítás: az (1) bekezdés b) pont bb) alpontja, valamint az (1) bekezdés c) pont cb) alpontja szerinti tevékenység,
 
 b) kérelemre történő előállítás: az (1) bekezdés c) pont cc) alpontja szerinti tevékenység.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 40/2020. (XI. 16.) BM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontja a 40/2020. (XI. 16.) BM rendelet 6. § a) pontja szerint módosított szöveg.
