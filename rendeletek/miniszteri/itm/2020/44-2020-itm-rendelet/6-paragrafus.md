@@ -1,0 +1,3 @@
+6. § (1) A karbantartásért felelős szervezet a vasúti járművön végzett műhelyi felújításokról és javításokról a hatóságnak évente, a tárgyévet követő év február 28. napjáig adatokat szolgáltat a pályaszám, javítási nem (futójavítás vagy fővizsgálat), valamint a javítás jellegének megjelölésével. A hatóság az elektronikus adatszolgáltatást előírhatja.
+
+(2) Ha a karbantartásért felelős szervezet nem a nemzeti járműnyilvántartásban nyilvántartott szervezet, vagy a vasúti jármű tényleges karbantartását végző műhely nem a hatóság engedélyezési hatáskörébe tartozik, akkor az (1) bekezdésben foglalt adatszolgáltatási kötelezettség a jármű üzembentartóját terheli.
