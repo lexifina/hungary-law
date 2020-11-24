@@ -1,0 +1,1 @@
+## 3. A büntetőeljárásban, a szabálysértési eljárásban, valamint a büntetés-végrehajtás során elrendelt elővezetés és előállítás során felmerült költség megtérítésének részletes szabályairól szóló 39/2017. (XII. 29.) BM rendelet módosítása
