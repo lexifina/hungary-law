@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-484-20-
 | 2020-11-11 | 2020-484-20-22.1 | 484/2020. (XI. 10.) Korm. rendelet |
 | 2020-11-12 | 2020-484-20-22.2 | 505/2020. (XI. 17.) Korm. rendelet |
 | 2020-11-20 | 2020-484-20-22.3 | 510/2020. (XI. 19.) Korm. rendelet |
+| 2020-11-24 | 2020-484-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
