@@ -1,0 +1,139 @@
+# A Kormány 523/2020. (XI. 25.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 260. szám, 2020. november 25. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Q1Sct2fJ4nZIMKxUfkNm5fbbe3bd3b10a/dokumentumok/8c0c79ff7860ba737e0db16dc55dfddb6e16d250/letoltes)
+
+---
+
+A Kormány 523/2020. (XI. 25.) Korm. rendelete
+a szálláshely-szolgáltatók meghiúsuló foglalásaiból eredő bevételkiesés részleges megtérítéséről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 9. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény 2. § (1) bekezdése szerinti országgyűlési
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A veszélyhelyzet ideje alatt egyes gazdaságvédelmi intézkedésekről szóló 485/2020. (XI. 10.) Korm. rendelet
+[a továbbiakban: 485/2020. (XI. 10.) Korm. rendelet] 7. §-a szerinti támogatási igény (a továbbiakban: támogatási
+igény) elbírálására a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság jogosult, a Kisfaludy2030
+Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban együtt: Támogató)
+bevonásával.
+
+2. § (1) Az 1. § szerinti támogatás igénylésére és elbírálására az államháztartásról szóló 2011. évi CXCV. törvény
+(a továbbiakban: Áht.) és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+(a továbbiakban: Ávr.) támogatásokra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(2) A szálláshely-szolgáltatók foglalásainak kieséséből származó bevételek e rendelet szerinti megtérítése esetén nem
+kell alkalmazni az Áht. 50/A. §-át, az Ávr. 69–74. §-át, a 81. §-át és a 101–102/B. §-át.
+3. § (1) A támogatás egyösszegben, vissza nem térítendő költségvetési támogatásként, egyszerűsített elszámolási
+eljárás keretében a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet
+XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím,
+11. Turisztikai fejlesztési célelőirányzat jogcímcsoportból nyújtható.
+(2) Az Áht. 53. §-ában foglaltaktól eltérően, a szálláshely-szolgáltató a támogatással érintett évet követő február 28-ig
+számol el az 1. melléklet szerinti adattartalommal elkészített beszámolójában.
+(3) A szálláshely-szolgáltatók foglalásainak kieséséből származó bevételek megtérítésére irányuló támogatást a 4. §
+szerint benyújtott igény alapján támogatási előlegként kell kifizetni.
+4. § (1) Támogatási igény benyújtására a 485/2020. (XI. 10.) Korm. rendelet 7. § (1) bekezdése szerinti szálláshely-szolgáltató
+jogosult.
+(2) A támogatási igény elektronikus úton nyújtható be a turisztikai térségek fejlesztésének állami feladatairól szóló
+2016. évi CLVI. törvény 6/A. alcíme szerinti Nemzeti Turisztikai Adatszolgáltató Központon (a továbbiakban: NTAK)
+keresztül.
+(3) A támogatási igény benyújtásával kapcsolatos információk – különösen a benyújtási határidő – az NTAK információs
+felületén érhetőek el.
+(4) A szálláshely-szolgáltató a támogatási igény mellékleteként nyilatkozik:
+a) az Áht. 48/B. §-ának, valamint az 50. § (1) bekezdés a) és c) pontjának való megfelelésről,
+b) arról, hogy nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel
+elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs
+folyamatban,
+c) a szálláshelyen 2020. november 8-án meglévő foglalkoztatott munkavállalók létszámáról,
+d) a 485/2020. (XI. 10.) Korm. rendelet 9. § (3) vagy (4) bekezdése szerinti feltételek teljesüléséről,
+e) a 485/2020. (XI. 10.) Korm. rendelet 8. § (2) bekezdésére figyelemmel arról, hogy a 485/2020. (XI. 10.)
+Korm. rendelet 7. § (3) bekezdés c) pontja szerinti időszakban várható árbevétele az előrejelzései, várakozásai
+alapján legalább 30%-kal kisebb lesz a 2019 ugyanezen időszakában elért árbevételéhez képest, és arról,
+hogy az előrejelzései, várakozásai alapján a 485/2020. (XI. 10.) Korm. rendelet 10. § (1) és (2) bekezdése
+szerinti összeg meghaladja a 485/2020. (XI. 10.) Korm. rendelet 7. § (2) bekezdése szerinti térítés összegét,
+azaz a szálláshely-szolgáltató fedezetlen állandó költségekhez nyújtott támogatás jogcímen veszi igénybe
+a térítést,
+f) a túltámogatás visszafizetésének vállalásáról a 485/2020. (XI. 10.) Korm. rendelet 10. § (4) bekezdésében
+foglaltakra figyelemmel, és
+g) arról, hogy a támogatási igényben, valamint az ahhoz kapcsolódó nyilatkozatokban foglaltak és az NTAK-ban
+megadott adatok a valóságnak megfelelnek, teljeskörűek és hitelesek.
+(5) Ha a szálláshely-szolgáltató a 485/2020. (XI. 10.) Korm. rendelet 8. § (2) és (3) bekezdésére figyelemmel a 485/2020.
+(XI. 10.) Korm. rendelet 11–13. §-a szerinti átmeneti támogatás jogcímen veszi igénybe a térítést, köteles nyilatkozni
+arról is – a támogatási igény részeként –, hogy a térítés a számára és a kapcsolt vállalkozásai számára korábban
+odaítélt egyéb átmeneti támogatásokkal együtt sem haladja meg a 800 ezer eurónak megfelelő forintösszeget.
+(6) A Támogató a szálláshely-szolgáltató által benyújtott támogatási igényhez kapcsolódó nyilatkozatokban foglalt
+tartalommal kapcsolatban ellenőrzést végezhet a támogatói okirat kibocsátását követő tíz évig. A támogatási igény
+és a nyilatkozatok valóságnak való megfelelőségéért és helytállóságáért a szálláshely-szolgáltató felelős.
+5. § (1) A támogatási igény sikeres benyújtását követően a szálláshely-szolgáltató elektronikus úton értesítést kap, amely
+tartalmazza a támogatási igény egyedi azonosító számát.
+(2) A támogatási igény benyújtását követően legfeljebb 15 napon belül a támogatási döntésről a szálláshely-szolgáltató
+elektronikus úton tájékoztatást kap. A Támogató a támogatási döntésről szóló tájékoztatást a támogatási igény
+
+elfogadása esetén a 7. § szerinti támogatói okirat, elutasítás esetén az erről szóló elektronikus úton történő
+értesítéssel adja meg.
+(3) A tájékoztatást – az ellenkező bizonyításáig – közöltnek kell tekinteni az elektronikus megküldés napját követő
+7. napon.
+6. §
+A szálláshely-szolgáltató a 485/2020. (XI. 10.) Korm. rendelet 7. § (2) bekezdése alapján kizárólag a 485/2020. (XI. 10.)
+Korm. rendelet 7. § (3) bekezdés c) pontja szerinti, az NTAK-ban rögzítésre került adatok alapján számított nettó
+bevétel 80%-ára jogosult.
+7. § (1) A támogatás biztosítása támogatói okirat kibocsátásával történik.
+(2) A támogatói okiratban meg kell határozni az e rendeletben foglalt kötelezettségek megtartását biztosító
+feltételeket, ha azokról jogszabály nem rendelkezik, így különösen
+a) a támogatás célját,
+b) a támogatás összegét,
+c) a támogatás rendelkezésre bocsátásának módját és határidejét,
+d) a jogosulatlanul igénybe vett támogatás jogkövetkezményeit, visszafizetésének rendjét,
+e) a támogatással kapcsolatos iratok teljes körű megőrzésének határidejét,
+f) a támogatói okirattól történő elállás esetköreit.
+(3) A támogatás folyósítására a támogatói okirat kibocsátását követően haladéktalanul, de legkésőbb
+2020. december 31-ig kerül sor.
+(4) A Támogató a támogatói okiratban meghatározott esetek mellett jogosult a támogatás visszavonásáról rendelkezni,
+az alábbi esetekben:
+a) ha hitelt érdemlően bebizonyosodik, hogy a szálláshely-szolgáltató a támogatási döntést érdemben
+befolyásoló valótlan, hamis adatot szolgáltatott, vagy nyilatkozatot tett a támogatási igény benyújtásakor,
+b) ha a szálláshely-szolgáltató neki felróható okból megszegi az e rendeletben vagy a támogatói okiratban
+foglalt kötelezettségeit, így különösen nem tesz eleget ellenőrzéstűrési kötelezettségének.
+8. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 9. § az e rendelet kihirdetését követő 15. napon lép hatályba.
+9. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi
+CIX. törvény hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet 2021. február 8-án hatályát veszti.
+10. §
+A 485/2020. (XI. 10.) Korm. rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A fedezetlen állandó költségekhez nyújtott támogatás elszámolható költsége a kedvezményezettnek
+a támogatható időszakban felmerült valamennyi költségének az ugyanerre az időszakra eső változó költségeivel
+és árbevételével csökkentett azon része, amelyhez más forrás (például biztosítás vagy más állami forrás) nem nyújt
+fedezetet.”
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 523/2020. (XI. 25.) Korm. rendelethez
+A szálláshely-szolgáltatók meghiúsuló foglalásaiból eredő bevételkiesés részleges megtérítéséről
+szóló 523/2020. (XI. 25.) Korm. rendelet alapján biztosított támogatás felhasználásáról szóló
+beszámoló adattartalma
+1. Adatok
+A szálláshely-szolgáltató adatai:
+Név
+Cím
+Képviselő neve
+Adószám
+Szálláshely adatai:
+Név
+Cím
+Támogatási igény egyedi azonosító száma
+NTAK regisztrációs szám
+2. Pénzügyi beszámoló
+A tárgyévben kapott költségvetési támogatás összege:
+3. Szakmai beszámoló (rövid összefoglaló)
+A költségvetési támogatás felhasználásához az alábbiakról nyilatkozom:
+a) a szálláshely-szolgáltató a szálláshelyen 2020. november 8. napján foglalkoztatott …… fő munkavállaló
+munkaviszonyát 2020. november 30-ig fenntartotta,
+b) a szálláshely-szolgáltató a szálláshelyen foglalkoztatott munkavállalók bére a munkavállalók részére
+kifizetésre került,
+c) a megtérítendő összeg számításának alapját 485/2020. (XI. 10.) Korm. rendelet 7. § szerinti foglalások
+képezték.
+Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
+Tudomásul veszem, hogy a Támogató a támogatás felhasználását ellenőrizheti.
+Kelt: ....................................................................
