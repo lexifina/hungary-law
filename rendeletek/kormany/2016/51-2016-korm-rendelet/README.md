@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-51-20-2
 | 2017-04-29 | 2016-51-20-22.4 | 179/2016. (VII. 1.) Korm. rendelet |
 | 2018-12-28 | 2016-51-20-22.5 | 179/2016. (VII. 1.) Korm. rendelet |
 | 2019-10-17 | 2016-51-20-22.6 | 179/2016. (VII. 1.) Korm. rendelet |
+| 2020-11-25 | 2016-51-20-22.7 | 179/2016. (VII. 1.) Korm. rendelet |
