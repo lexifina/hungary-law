@@ -12,7 +12,7 @@
 
 ## a b) alpont tekintetében a Beruházás befejezését követően
 
-## 3. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 24 256 135 206 forintban határozza meg;
+## 3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 27 702 773 698 forintban határozza meg;
 
 ## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímének a 8. Tatabánya multifunkciós csarnok jogcímcsoporttal történő kiegészítését;
 
@@ -56,7 +56,7 @@
 
 ## Határidő: 2020. február 29.
 
-## 9.[^1]
+## 9.[^2]
 
 1. melléklet az 1535/2019. (IX. 18.) Korm. határozathoz
 
@@ -132,4 +132,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont az 1851/2020. (XI. 25.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
