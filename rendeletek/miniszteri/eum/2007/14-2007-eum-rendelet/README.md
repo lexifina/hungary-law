@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2020-04-29 | 2007-14-20-0B.48 | 15/2020. (IV. 28.) EMMI rendelet |
 | 2020-05-01 | 2007-14-20-0B.49 | 16/2020. (IV. 30.) EMMI rendelet |
 | 2020-06-27 | 2007-14-20-0B.50 | 23/2020. (VI. 26.) EMMI rendelet |
+| 2020-11-25 | 2007-14-20-0B.51 | 23/2020. (VI. 26.) EMMI rendelet |

@@ -1,5 +1,3 @@
-## 14/B. §[^114] A Kormány által kihirdetett veszélyhelyzet ideje alatt lejáró, a 13. § (7a) bekezdés szerinti kölcsönzési idő, valamint a vény 14. § (7) bekezdés szerinti beváltási határideje meghosszabbodik a veszélyhelyzet megszűnését követő 30. napig.
-
 15. § (1)[^115] A támogatással rendelt, egyedi méretvétel alapján készült gyógyászati segédeszköz alkalmasságát a beteg véleményezteti az azt rendelő orvossal. Amennyiben az orvos a gyógyászati segédeszközt nem tartja megfelelőnek, erről értesíti a gyártót vagy annak meghatalmazott képviselőjét és a NEAK-ot.
 
 (2)[^116] A forgalmazó, illetve a gyártó vagy annak meghatalmazott képviselője a Gyftv. 33. § (6) bekezdése szerinti közleményben meghatározott sorozatgyártású, illetve adaptív gyógyászati segédeszközt termékazonosító EAN kóddal köteles ellátni.
@@ -10,7 +8,6 @@
 
 (5) A (4) bekezdés szerinti információról, az eszköz gyártójáról vagy annak meghatalmazott képviselőjéről és elérhetőségéről, továbbá a használati útmutatóban foglaltakról vakok és gyengénlátók részére kérésükre szóbeli tájékoztatást kell adni.
 
-[^114]: A 14/B. §-t a 23/2020. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
 [^115]: A 15. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés l) pontja szerint módosított szöveg.
 [^116]: A 15. § (2) bekezdése a 34/2010. (V. 14.) EüM rendelet 13. § 18. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
 [^117]: A 15. § (3) bekezdését a 34/2010. (V. 14.) EüM rendelet 14. § (1) bekezdés d) pontja hatályon kívül helyezte.
