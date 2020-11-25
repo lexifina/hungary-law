@@ -1,3 +1,5 @@
-## 3. § Az R. 22. § (2) bekezdésében az „a 9. § (2) bekezdése,” szövegrész helyébe az „a 9. § (2) bekezdése, 9/A. § (2) bekezdése,” szöveg lép.
+## 1–3. §[^2]
 
 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
