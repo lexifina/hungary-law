@@ -1,3 +1,3 @@
-9. §[^29]
+9. §[^31]
 
-[^29]: A 8–10. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja hatályon kívül helyezte.
+[^31]: A 8–10. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-6. §[^26]
+6. §[^28]
 
-[^26]: A 6. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja hatályon kívül helyezte.
+[^28]: A 6. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja hatályon kívül helyezte.
