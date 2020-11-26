@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-209-20-
 | 2019-01-01 | 2013-209-20-22.15 | 204/2018. (XI. 8.) Korm. rendelet |
 | 2019-01-02 | 2013-209-20-22.16 | 289/2018. (XII. 21.) Korm. rendelet |
 | 2020-01-01 | 2013-209-20-22.17 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-11-26 | 2013-209-20-22.18 | 466/2020. (X. 27.) Korm. rendelet |

@@ -18,6 +18,6 @@
 
 ## C kategória: EURO I és rosszabb besorolású motorral felszerelt gépjárművek.
 
-2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^28]
+2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^32]
 
-[^28]: A 2. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 232. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^32]: A 2. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 232. § (3) bekezdés b) pontja hatályon kívül helyezte.
