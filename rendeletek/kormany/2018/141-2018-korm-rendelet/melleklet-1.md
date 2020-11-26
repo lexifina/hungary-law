@@ -1,4 +1,4 @@
-## 43. §[^95] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 388/2020. (VIII. 7.) Korm. rendelettel (a továbbiakban: Módr35.) módosított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, a megállapított 6/J. §-át, 6/K. §-át és a 2. mellékletben foglalt táblázat 48. és 49. sorát a Módr35. hatálybalépésekor[^96] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 44. §[^97] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 493/2020. (XI. 11.) Korm. rendelettel (a továbbiakban: Módr36.) megállapított 4. §-át és 2. mellékletében foglalt táblázat 50. sorát a Módr36. hatálybalépésekor[^98] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^95]: A 43. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
-[^96]: A hatálybalépés időpontja 2020. augusztus 8.
+[^97]: A 44. §-t a 493/2020. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A hatálybalépés időpontja 2020. november 26.

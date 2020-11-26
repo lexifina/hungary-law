@@ -102,7 +102,9 @@
 
 | 49. | Szállodafejlesztésre, valamint ahhoz kapcsolódó építmények, infrastrukturális fejlesztések és kapcsolódó ingatlanfejlesztés megvalósítására irányuló beruházás | Balatonvilágos közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Balatonvilágos belterület 291, 292, 293, 294, 295/5, 295/6, 295/7, 295/8, 295/9, 295/10, 295/11, 295/12, 295/13, 295/14, 295/15, 295/16, 295/17, 296, 297, 298, 301/1, 302, 303/2, 1392 és 1412 helyrajzi számú ingatlanok | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^98]
+| 50. | Győr-Pér Repülőtér fejlesztése | Pér közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti külterület 034/34, 052/2, 052/2/A, 054/44, 077/2, 084/79, 087/4, 087/12 helyrajzi számú ingatlanok | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^100]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -282,4 +284,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^98]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^100]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
