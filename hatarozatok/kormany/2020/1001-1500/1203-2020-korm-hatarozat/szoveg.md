@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért a békéscsabai Evangélikus Kistemplom felújítási és fejlesztési terveinek megvalósításával;
+1.[^1] egyetért a Békéscsabai Evangélikus Egyházközség felújítási és fejlesztési terveinek megvalósításával;
 
 2. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával a 2020. évre – a kifizetésekhez kapcsolódó kincstári díjakkal együtt – gondoskodjon az 1. pontban meghatározott cél megvalósítása érdekében 631 495 426 forint többletforrás rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 7. Egyházi épített örökség védelme és egyéb beruházások jogcím javára;
 
@@ -17,3 +17,5 @@ Felelős: a miniszterelnök általános helyettese
 Határidő: a 2. pontban meghatározott forrás rendelkezésre állását követően azonnal
 
 4. úgy határoz, hogy a 3. pont szerinti költségvetési támogatásra az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § rendelkezéseit nem kell alkalmazni.
+
+[^1]: Az 1. pont az 1856/2020. (XI. 26.) Korm. határozat 4. pontja szerint módosított szöveg.
