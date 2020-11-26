@@ -1,0 +1,5 @@
+## 1. § A veszélyhelyzet ideje alatt egyes gazdaságvédelmi intézkedésekről szóló 485/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 485/2020. (XI. 10.) Korm. rendelet] 7. §-a szerinti támogatási igény (a továbbiakban: támogatási igény) elbírálására a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság jogosult, a Kisfaludy2030 Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban együtt: Támogató) bevonásával.
+
+2. § (1) Az 1. § szerinti támogatás igénylésére és elbírálására az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) támogatásokra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+(2) A szálláshely-szolgáltatók foglalásainak kieséséből származó bevételek e rendelet szerinti megtérítése esetén nem kell alkalmazni az Áht. 50/A. §-át, az Ávr. 69–74. §-át, a 81. §-át és a 101–102/B. §-át.
