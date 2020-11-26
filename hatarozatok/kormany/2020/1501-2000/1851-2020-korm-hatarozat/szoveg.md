@@ -10,4 +10,6 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-2. A tatabányai multifunkciós csarnok beruházás megvalósításáról szóló 1535/2019. (IX. 18.) Korm. határozat 3. pontjában a „24 256 135 206” szövegrész helyébe a „27 702 773 698” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
