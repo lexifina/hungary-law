@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-488-20-
 | --- | --- | --- |
 | 2020-11-12 | 2020-488-20-22.1 | 488/2020. (XI. 11.) Korm. rendelet |
 | 2020-11-14 | 2020-488-20-22.2 | 499/2020. (XI. 13.) Korm. rendelet |
+| 2020-11-26 | 2020-488-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
