@@ -2,6 +2,6 @@
 
 (2) A bérleti szerződésben rögzíteni kell a bérbe adott orvostechnikai és egyéb eszköz – egészségügyi válsághelyzetben történő – haladéktalan visszaszolgáltatásának kötelezettségét.
 
-(3)[^14] Az ÁEEK a honlapján közzéteszi a bérbeadásra, valamint értékesítésre kijelölt tartalékelemek jegyzékét.
+(3)[^21] Az ÁEEK a honlapján közzéteszi a bérbeadásra, valamint értékesítésre kijelölt tartalékelemek jegyzékét.
 
-[^14]: A 8. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § c) pontja szerint módosított szöveg.
+[^21]: A 8. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § c) pontja szerint módosított szöveg.

@@ -1,12 +1,12 @@
-## 13. §[^16]
+## 13. §[^24]
 
-1. melléklet az 1/2016. (I. 13.) EMMI rendelethez
+1. melléklet az 1/2016. (I. 13.) EMMI rendelethez[^25]
 
-A tartalék normaelemei
+A tartalék szükséggyógyintézetei és moduljai
 
 |  | A | B | C |
 
-| 1. | Normaelem megnevezése, rövidítése | Orvostechnikai eszköznorma előírt minimum feltöltöttségi szintje (%) | Gyógyszernorma előírt minimum feltöltöttségi szintje (%) |
+| 1. | Szükséggyógyintézet és modul megnevezése, rövidítése | Orvostechnikai eszköznorma előírt minimum feltöltöttségi szintje (%) | Gyógyszernorma előírt minimum feltöltöttségi szintje (%) |
 
 | 2. | Mobil Orvosi Segélyhely (MOSH) | 100 | 100 |
 
@@ -38,4 +38,5 @@ A tartalék normaelemei
 
 * Önálló normaelemet nem alkotnak.
 
-[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet a 43/2020. (XI. 26.) EMMI rendelet 9. § e) és f) pontja szerint módosított szöveg.

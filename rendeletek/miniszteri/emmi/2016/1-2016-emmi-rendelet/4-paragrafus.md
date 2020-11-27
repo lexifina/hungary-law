@@ -1,4 +1,4 @@
-4. § (1)[^4] Az ÁEEK a tartalékkal való gazdálkodás keretében fő tevékenységként végzi:
+4. § (1)[^9] Az ÁEEK a tartalékkal való gazdálkodás keretében fő tevékenységként végzi:
 
 a) a tartalék
 
@@ -24,10 +24,13 @@ d) a külföldre irányuló vagy onnan érkező egészségügyi segélyszállít
 
 e) az igénytámasztó szerv részére tartalék kezelését és kiadását.
 
-(2)[^5] A tartalékelemek tárolása – az (1) bekezdés a) pont ab) alpontjában foglaltaktól eltérően – a gyártónál, a forgalmazónál vagy a nagykereskedőnél történő tárolás útján is megvalósítható, ha a gyártó, forgalmazó vagy nagykereskedő az ÁEEK-kel kötött szerződésben vállalja, hogy az ott tárolt mennyiséget vagy annak szükséges részét az ÁEEK felhívására az ÁEEK részére átadja vagy az ÁEEK által megadott címre kiszállítja.
+f)[^10] a szükséggyógyintézetek és modulok telepítésének és technikai üzemeltetésének irányítását és felügyeletét.
 
-(3)[^6] Ha az ÁEEK raktáraiban történő tárolás esetében nem biztosítható a tartalék egyes elemeinek minőségmegóvó cseréje, annak tárolására a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel tárolási csereszerződés köthető.
+(2)[^11] A tartalékelemek tárolása – az (1) bekezdés a) pont ab) alpontjában foglaltaktól eltérően – a gyártónál, a forgalmazónál vagy a nagykereskedőnél történő tárolás útján is megvalósítható, ha a gyártó, forgalmazó vagy nagykereskedő az ÁEEK-kel kötött szerződésben vállalja, hogy az ott tárolt mennyiséget vagy annak szükséges részét az ÁEEK felhívására az ÁEEK részére átadja vagy az ÁEEK által megadott címre kiszállítja.
 
-[^4]: A 4. § (1) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 102. § c) pontja szerint módosított szöveg.
-[^5]: A 4. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § b) és d) pontja szerint módosított szöveg.
-[^6]: A 4. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § c) pontja szerint módosított szöveg.
+(3)[^12] Ha az ÁEEK raktáraiban történő tárolás esetében nem biztosítható a tartalék egyes elemeinek minőségmegóvó cseréje, annak tárolására a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel tárolási csereszerződés köthető.
+
+[^9]: A 4. § (1) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 102. § c) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés f) pontját a 43/2020. (XI. 26.) EMMI rendelet 6. §-a iktatta be.
+[^11]: A 4. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § b) és d) pontja szerint módosított szöveg.
+[^12]: A 4. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § c) pontja szerint módosított szöveg.
