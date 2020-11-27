@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Kirgiz Köztársaság között a jövedelemadók területén a kettős adóztatás elkerüléséről és az adókijátszás és adóelkerülés megakadályozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
