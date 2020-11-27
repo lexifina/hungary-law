@@ -1,1 +1,3 @@
-## „(5) A 3. melléklet szerint megállapított infrastruktúra- és külsőköltségdíj mértéke a tárgyévet megelőző év augusztus hónapjára irányadó, a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző második év augusztusához viszonyított fogyasztói árindex emelkedése esetén, az emelkedéssel megegyező mértékben, a tárgyév első napjával két tizedesjegy pontossággal meghatározottan módosul.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
