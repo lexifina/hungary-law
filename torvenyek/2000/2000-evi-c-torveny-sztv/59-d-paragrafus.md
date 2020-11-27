@@ -12,7 +12,7 @@
 
 (7) A (4) bekezdés szerinti ügyletek valós értéke a (6) bekezdés, valamint az 59/B. § (3) bekezdés b) pontja, (4) bekezdése, (5) bekezdés b) pontja, (6) bekezdése szerint meghatározott módszertől eltérő általános értékelési eljárásokkal is megállapítható.
 
-(8) A kereskedési célú származékos elszámolási ügyletek zárásakor, az ügylet tárgyát képező áru, pénzügyi instrumentum záráskori piaci ára (árfolyama) és a kötési (határidős) árfolyama közötti különbözetet a pénzügyi műveletek egyéb bevételei, illetve a pénzügyi műveletek egyéb ráfordításai között kell elszámolni a pénzeszközök növekedésével, illetve csökkenésével szemben, ténylegesen realizált eredményként. A kereskedési célú származékos leszállítási ügyletek zárását az 59/B. § (14) bekezdése szerint kell elszámolni.
+(8) A kereskedési célú származékos elszámolási ügyletek zárásakor, az ügylet tárgyát képező áru, pénzügyi instrumentum záráskori piaci ára (árfolyama) és a kötési (határidős) árfolyama közötti különbözetet a pénzügyi műveletek egyéb bevételei, illetve a pénzügyi műveletek egyéb ráfordításai között kell elszámolni a pénzeszközök növekedésével, illetve csökkenésével szemben, ténylegesen realizált eredményként. A kereskedési célú származékos leszállítási ügyletek zárását a 47. § (12) bekezdése szerint kell elszámolni.
 
 (9) A (4) bekezdés szerinti származékos ügylet zárásakor az értékelési különbözet összegét meg kell szüntetni jellegétől függően:
 

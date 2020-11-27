@@ -38,7 +38,7 @@ j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor az át
 
 k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak, vagyoni értékű jogok nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a létesítő okiratban meghatározott érték a több;
 
-l) a tartozásátvállalás során harmadik személy által – ellentételezés nélkül – átvállalt kötelezettség szerződés (megállapodás) szerinti összegét, továbbá a hitelező által elengedett, valamint az elévült kötelezettség összegét, ha ahhoz beszerzett eszköz nem kapcsolódik;
+l) a tartozásátvállalás során harmadik személy által – ellentételezés nélkül – átvállalt kötelezettség szerződés (megállapodás) szerinti összegét, továbbá a hitelező által – osztaléktartozásnak nem minősülő – elengedett, valamint az elévült kötelezettség összegét, ha ahhoz beszerzett eszköz nem kapcsolódik;
 
 m) a visszafizetési kötelezettség nélkül kapott, a (2) bekezdés d) pontja alá nem tartozó, illetve nem fejlesztési célra kapott támogatás, véglegesen átvett pénzeszközök összegét;
 

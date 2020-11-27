@@ -83,7 +83,3 @@ V. Pénzeszközök mérleg szerinti változása (IV+27. sorok) +
 A cash flow-kimutatás sorainak tartalma
 
 A cash flow-kimutatásban a vállalkozó az előző év és a tárgyév adatait köteles feltüntetni.
-
-A cash flow-kimutatás elkészítéséhez nem elegendőek a mérleg és az eredménykimutatás adatai. Elkészítésénél abból kell kiindulni, hogy a cash flow-kimutatás fő sorai az elnevezéseknek megfelelő pénzeszköz-változásokat tartalmazzák. Ehhez olyan korrekciós tételeket kell alkalmazni, amelyek segítségével – a levezetés alapján mutatkozó – halmozódások kiszűrésre kerülnek.
-
-A pénzmozgással nem járó befektetési és finanszírozási tételek korrekciót idéznek elő a működési cash flow-ban. A korrekciókat az érintett mérlegsoroknál korrekciós sor beiktatásával kell végrehajtani. Ha valamely tétel a befektetési cash flow-ba tartozik (mint a kapott osztalék, a tárgyi eszközök eladásának bevétele), akkor azt a tételt a működési cash flow nem tartalmazhatja, annak eredményhatását ki kell szűrni. A véglegesen kapott pénzeszköz a finanszírozási cash flow-ba tartozik, így annak időbelileg elhatárolt összegét a működési cash flow passzív időbeli elhatárolások változása nem tartalmazhatja.
