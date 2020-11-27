@@ -1,6 +1,4 @@
-## 10. § A 485/2020. (XI. 10.) Korm. rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A fedezetlen állandó költségekhez nyújtott támogatás elszámolható költsége a kedvezményezettnek a támogatható időszakban felmerült valamennyi költségének az ugyanerre az időszakra eső változó költségeivel és árbevételével csökkentett azon része, amelyhez más forrás (például biztosítás vagy más állami forrás) nem nyújt fedezetet.”
+## 10. §[^2]
 
 1. melléklet az 523/2020. (XI. 25.) Korm. rendelethez
 
@@ -47,3 +45,5 @@ Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatok a valós
 Tudomásul veszem, hogy a Támogató a támogatás felhasználását ellenőrizheti.
 
 Kelt: ....................................................................
+
+[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
