@@ -62,4 +62,6 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
 
-2. A Kormány visszavonja a budapesti felsőoktatási intézmények egyes gyakorló intézményei infrastruktúrájának felújítása, korszerűsítése és bővítése beruházás előkészítésének támogatásáról szóló 1408/2019. (VII. 8.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
