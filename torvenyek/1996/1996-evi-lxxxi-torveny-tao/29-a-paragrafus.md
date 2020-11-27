@@ -205,3 +205,7 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (93) E törvénynek az egyes adózási tárgyú törvényeknek a koronavírus-járvány gazdasági hatásainak mérséklése érdekében szükséges módosításáról szóló 2020. évi XLVI. törvénnyel módosított 7. § (1) bekezdés f) pontját első alkalommal a 2020-ban kezdődő adóévre kell alkalmazni.
 
 (94) E törvénynek a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvénnyel megállapított 22/C. § (4c) bekezdése első alkalommal a 2020. április 16. napján folyamatban lévő, jóváhagyott sportfejlesztési programokkal összefüggésben alkalmazandó.
+
+(96) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 8. § (5e) bekezdését a 2020-ban kezdődő adóévében az adózó választása szerint alkalmazza.
+
+(97) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 22/C. § (1a) és (4d) bekezdését első alkalommal a 2020. évben kezdődő adóévre lehet alkalmazni.
