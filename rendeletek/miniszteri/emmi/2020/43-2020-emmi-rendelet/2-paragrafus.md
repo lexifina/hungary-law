@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi intézmények válsághelyzeti terveinek tartalmi követelményeiről, valamint egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 43/2014. (VIII. 19.) EMMI rendelet [a továbbiakban: 43/2014. (VIII. 19.) EMMI rendelet] 2. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+## „(11) A megyei kormányhivatal a jóváhagyott terveket az egészségügyi válsághelyzeti ellátásról szóló Korm. rendeletben meghatározott megyei részterv mellékleteként, illetve a (3) bekezdés szerinti igényeket a megyei résztervekkel egyidejűleg az országos tisztifőorvos útján megküldi az egészségügyért felelős miniszternek.”
