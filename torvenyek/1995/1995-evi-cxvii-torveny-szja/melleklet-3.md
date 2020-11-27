@@ -148,7 +148,7 @@ amennyiben az a szerződés alapján a magánszemélyt terheli.
 
 8. A 6. pontban foglaltaktól eltérően a mezőgazdasági őstermelő az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el saját tulajdonú személygépkocsi üzleti célú használata címén a költségek 3. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül a tevékenység teljes időtartamára – lehet alkalmazni.
 
-9. A magánszemély a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja.
+9. A magánszemély a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja. Zárt végű lízingbe vett vagy részletre vétellel megszerzett gépjármű esetében a tulajdonjog az ügyletre vonatkozó lízingszerződéssel, kölcsönszerződéssel igazolható.
 
 10.
 
