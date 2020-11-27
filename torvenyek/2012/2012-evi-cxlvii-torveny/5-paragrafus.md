@@ -6,7 +6,7 @@ b)
 
 c) a kisadózó egyéni vállalkozói jogállásának megszűnése napjával;
 
-d) a kisadózó vállalkozásnak minősülő egyéni cég, betéti társaság vagy közkereseti társaság jogutód nélküli megszűnésének napjával;
+d) a kisadózó vállalkozásnak minősülő egyéni cég, betéti társaság, közkereseti társaság, ügyvédi iroda jogutód nélküli megszűnésének napjával;
 
 e) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának halálát követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és 90 napon belül más kisadózó nem kerül bejelentésre;
 
