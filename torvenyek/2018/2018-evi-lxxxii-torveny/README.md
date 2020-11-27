@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-82-00-00
 | 2020-01-01 | 2019. évi LXXII. törvény | 2018-82-00-00.15 |
 | 2020-01-02 | 2010. évi CXXX. törvény | 2018-82-00-00.16 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 2018-82-00-00.17 |
+| 2020-11-27 | 2020. évi CXVIII. törvény | 2018-82-00-00.18 |
