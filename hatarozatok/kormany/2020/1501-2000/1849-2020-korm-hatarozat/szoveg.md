@@ -40,4 +40,6 @@ h) – a Kongresszus kormányzati kapcsolattartójaként – gondoskodik a Kongr
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-11. Hatályát veszti a 2021. évi „Egy a természettel” Nemzetközi Vadászati és Természeti Kiállítás és az ehhez kapcsolódó Rendezvénysorozat lebonyolításáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1633/2018. (XI. 30.) Korm. határozat.
+11.[^1]
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
