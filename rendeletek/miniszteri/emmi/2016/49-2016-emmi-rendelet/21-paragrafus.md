@@ -20,8 +20,12 @@ c) az (1) bekezdés b) pontja szerinti igényeket – kiegészítve az anyagi-te
 
 d) meghatározza az egészségügyi szolgáltató és a szükséggyógyintézet közötti kapcsolattartás és információcsere rendjét.
 
+e)[^6] az a) és b) pont szerinti adatokat megküldi az állami egészségügyi tartalék kezeléséért felelős szerv részére.
+
 (3) A szükséggyógyintézet telepítésére kijelölt egészségügyi szolgáltató vezetője a honvédelmi vonatkozású különleges jogrendi időszakban
 
 a) a fővárosi és megyei védelmi bizottsággal együttműködve gondoskodik a szükséggyógyintézet telepíthetőségéről és szükség esetén a telepítéséről, és
 
 b) felügyeli a szükséggyógyintézet szakmai tevékenységét és működtetését.
+
+[^6]: A 21. § (2) bekezdés e) pontját a 43/2020. (XI. 26.) EMMI rendelet 15. §-a iktatta be.

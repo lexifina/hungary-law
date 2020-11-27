@@ -7,3 +7,7 @@
 (4) A 3. § (2) bekezdés a) pontja szerinti egészségügyi szolgáltatók esetében az egészségügyi válsághelyzeti terv honvédelmi intézkedési tervnek minősül.
 
 (5) A minisztérium honvédelmi intézkedési terve tartalmazza a BNT-re vonatkozó részterveket is.
+
+(6)[^2] Azon köznevelési intézmények, amelyek a Köznevelési Információs Rendszerben minden év október 31. napjáig rögzítik a honvédelmi intézkedési tervükkel összefüggésben bekövetkezett változásokat, mentesülnek az 5. § (1) bekezdése szerinti kötelezettség alól.
+
+[^2]: A 4. § (6) bekezdését a 43/2020. (XI. 26.) EMMI rendelet 12. §-a iktatta be.
