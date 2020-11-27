@@ -120,9 +120,7 @@ Fülszámozás (fülkrotáliázás), fültetoválás.
 
 8.[^106] Csincsilla esetében: krotáliázás, fültetoválás.
 
-9.[^107] Ezüstróka és sarki róka esetében:
-
-fültetoválás.
+9.[^107]
 
 [^98]: A 6. számú melléklet bevezető szövegrészét a 20/2002. (III. 14.) FVM rendelet 16. § (2) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rndelet 10. § (5) bekezdésével megállapított szöveg.
 [^99]: A 6. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
@@ -133,4 +131,4 @@ fültetoválás.
 [^104]: A 6. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
 [^105]: A 6. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
 [^106]: A 6. számú melléklet 8. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
-[^107]: A 6. számú melléklet 9. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^107]: A 6. számú melléklet 9. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be, hatályon kívül helyezte az 58/2020. (XI. 24.) AM rendelet 2. § a) pontja.
