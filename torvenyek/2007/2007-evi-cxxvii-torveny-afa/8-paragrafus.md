@@ -36,9 +36,11 @@ cb) az (1) bekezdésben említett jogállás fennállásának igazolását;
 
 cc) kötelezettségvállalást a (7) bekezdés teljesítésére.
 
+(3a) A csoportos adóalanyiság létrehozására irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság létrehozását. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (3) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
+
 (4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
 
-(5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a (3) bekezdésben említett állami adóhatósági engedély véglegessé válásának napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
+(5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a csoportos adóalanyiság létrejöttét megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
 (6) A csoportos adóalanyiságban részt vevő bármely tag – mind a csoportos adóalanyiság időszakában, mind azt követően – egyetemlegesen felelős a csoportos adóalanyiságban részt vevő valamennyi többi taggal együtt a csoportos adóalanyiságban részt vevő tagnak
 
@@ -60,9 +62,13 @@ b) a csatlakozó új adóalany esetében pedig a (3) bekezdés b) pontjában
 
 meghatározott feltételek teljesítését.
 
-(9) Az a kívül maradó, illetőleg az a csatlakozó új adóalany, aki (amely) tagként csatlakozik a csoportos adóalanyisághoz, a (8) bekezdésben említett állami adóhatósági engedély véglegessé válásának napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
+(8a) A csoportos adóalanyisághoz történő csatlakozás iránti kérelmében a kívül maradó, illetve a csatlakozó új adóalany megjelölheti, hogy mely időponttal kéri a csatlakozását. A csoportos adóalanyisághoz történő csatlakozás a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (8) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
+
+(9) Az a kívül maradó, illetőleg az a csatlakozó új adóalany, aki (amely) tagként csatlakozik a csoportos adóalanyisághoz, a csoportos adóalanyisághoz történő csatlakozást megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
 (10) A csoportos adóalanyiságban részt vevő tag dönthet úgy is, hogy a csoportos adóalanyiságból kiválni szándékozik. A csoportos adóalanyiságból történő kiválás az állami adóhatóság engedélyével jön létre, a kiválni szándékozó tag erre irányuló kifejezett írásos kérelmére. A kérelemnek tartalmaznia kell még a csoportos adóalanyiságban részt vevő valamennyi többi tagnak a közös, kifejezett és egybehangzó beleegyező nyilatkozatát a tag kiválásáról. A kérelemnek tartalmaznia kell továbbá a kiválni szándékozó tag kötelezettségvállalását arra, hogy a kiválás véglegessé válásának napjától kívül maradó adóalanyként teljesíti a (3) bekezdés cc) alpontjában meghatározott feltételt.
+
+(10a) A csoportos adóalanyiságból történő kiválás iránti kérelmében a kiválni szándékozó tag megjelölheti, hogy mely időponttal kéri a kiválását. A csoportos adóalanyiságból történő kiválás a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (10) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
 
 (11) A csoportos adóalanyiság az állami adóhatósági engedély visszavonásával szűnik meg. Az engedélyt az állami adóhatóság visszavonja, ha
 
@@ -84,4 +90,6 @@ fb) csatlakozni kíván csatlakozó új tagként, de azt az állami adóhatósá
 
 g) a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül megszűnik.
 
-(12) A (11) bekezdésben említett állami adóhatósági engedély visszavonásának véglegessé válásának napjával, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.
+(11a) A csoportos adóalanyiság megszüntetésére irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság megszüntetését. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság engedélye visszavonásának véglegessé válása napjával szűnik meg. A csoportos adóalanyiság a (11) bekezdés b)–g) pontjában meghatározott esetben az állami adó- és vámhatóság engedélye visszavonásának véglegessé válása napjával szűnik meg.
+
+(12) A csoportos adóalanyiság megszűnését megelőző nappal, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.

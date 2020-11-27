@@ -370,7 +370,7 @@ Más, élő háziasított szarvasmarha
 
 0102 29 29-ből
 
-0201 29 41-ből
+0102 29 41-ből
 
 0102 29 49-ből
 

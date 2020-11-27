@@ -28,7 +28,7 @@ b) a szolgáltatásokat olyan nem adóalany részére nyújtja, aki (amely) a K�
 
 c) az adott naptári évben, valamint – feltéve, hogy ilyen szolgáltatást nyújtott – az adott naptári évet megelőző naptári évben a b) pontban meghatározott szolgáltatások ellenértékének – adó nélkül számított és éves szinten göngyölített – összege nem haladja meg a 10 000 eurónak megfelelő pénzösszeget.
 
-(4) A (3) bekezdés alkalmazhatósága megszűnik és nem alkalmazható az olyan szolgáltatásnyújtásra sem, amelynek – adó nélkül számított ellenértékével – a szolgáltatást nyújtó először meghaladja a (3) bekezdés c) pontjában említett felső értékhatárt.
+(4) A (3) bekezdés alkalmazhatósága megszűnik és nem alkalmazható az olyan szolgáltatásnyújtásra sem, amelynek – adó nélkül számított ellenértékével – a szolgáltatást nyújtó először meghaladja a (3) bekezdés c) pontja szerinti felső értékhatárt. Az értékhatár meghaladását az adóalany az Adóig. vhr. változásbejelentésre vonatkozó rendelkezései szerint az állami adó- és vámhatóságnak bejelenti.
 
 (5) A (3) bekezdésben említett feltételeknek megfelelő azon adóalany, aki (amely) belföldön telepedett le gazdasági céllal, gazdasági célú letelepedés hiányában belföldön van lakóhelye vagy szokásos tartózkodási helye, az állami adó- és vámhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy nem a (3) bekezdést, hanem az (1) bekezdést alkalmazza.
 

@@ -19,3 +19,5 @@ bc) éves bevallásra kötelezett esetében az 50 000 forintot.
 a) jogutódlással történik, és a jogelőd záróbevallásában bevallott összegre nem teljesül az (1) bekezdés b) pontja, a záróbevallásban bevallott összeggel való rendelkezés joga a jogutódra, illetőleg – több jogutód esetében – a felek által kijelölt jogutódra száll át, aki (amely) azt a rá vonatkozó rendelkezések szerint gyakorolhatja;
 
 b) jogutód nélkül történik, a belföldön nyilvántartásba vett adóalany a különbözet visszaigénylését akkor is kérelmezheti, ha a záróbevallásában bevallott összegre nem teljesül az (1) bekezdés b) pontja.
+
+(7) Ha az adóalany megszűnésekor vagy annak közvetlen következményeként a jogutód belföldön nyilvántartásba nem vett adóalany, a (6) bekezdés alkalmazásában úgy kell tekinteni, hogy az adóalany jogutód nélkül szűnt meg.

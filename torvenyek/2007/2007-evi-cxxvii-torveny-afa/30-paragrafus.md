@@ -8,7 +8,7 @@ c) a b) pontban említett feltétel az adott naptári évet megelőző naptári 
 
 (2) Az (1) bekezdés b) pontjában említett felső értékhatár Magyarország esetében 35 000 eurónak megfelelő pénzösszeg.
 
-(3) Az (1) bekezdés alkalmazhatósága megszűnik, és nem alkalmazható arra a termékértékesítésre sem, amelynek – adó nélkül számított – ellenértékével az adóalany először meghaladja az (1) bekezdés b) pontjában említett felső értékhatárt.
+(3) Az (1) bekezdés alkalmazhatósága megszűnik, és nem alkalmazható arra a termékértékesítésre sem, amelynek – adó nélkül számított – ellenértékével az adóalany először meghaladja az (1) bekezdés b) pontja szerinti felső értékhatárt. Az értékhatár meghaladását az adóalany az Adóig. vhr. változásbejelentésre vonatkozó rendelkezései szerint az állami adó- és vámhatóságnak bejelenti.
 
 (4) Az adóalany az (1) bekezdésben említett esetben arra a termékértékesítésére, amelynél a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor belföldön van, az állami adóhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy nem az (1) bekezdést, hanem a 29. §-t – az ott meghatározottak szerint – alkalmazza.
 

@@ -22,7 +22,7 @@ b) az a) pontban említett feltétel az adott naptári évet megelőző naptári
 
 (3) A (2) bekezdés a) pontjában említett felső értékhatárba a Közösség azon tagállamaiban megtérített vagy megtérítendő ellenérték számít, amelyekben a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor volt.
 
-(4) Az (1) bekezdés d) pontjának alkalmazhatósága megszűnik, és nem alkalmazható az olyan termék Közösségen belüli beszerzésére sem, amelynek – adó nélkül számított – ellenértékével a beszerző először meghaladja a (2) bekezdés a) pontjában említett felső értékhatárt.
+(4) Az (1) bekezdés d) pontjának alkalmazhatósága megszűnik, és nem alkalmazható az olyan termék Közösségen belüli beszerzésére sem, amelynek–adó nélkül számított–ellenértékével a beszerző először meghaladja a (2) bekezdés a) pontja szerinti felső értékhatárt. Az értékhatár meghaladását az adóalany az adóigazgatási eljárás részletszabályairól szóló kormányrendelet (a továbbiakban: Adóig. vhr.) változásbejelentésre vonatkozó rendelkezései szerint az állami adó- és vámhatóságnak bejelenti.
 
 (5) Az (1) bekezdés d) pontjában említett beszerző az állami adóhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy nem az (1) bekezdést, hanem a 19. § a) pontját – az ott meghatározottak szerint – alkalmazza.
 
