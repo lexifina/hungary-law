@@ -336,7 +336,7 @@
 
 9.2.1. vér és vérpótló szerek biztosítását, infúziós oldatok előállítását, az intézeti gyógyszertár feladatait,
 
-9.2.2. szűkített választékú gyógyszerkészlet használatának bevezetését az Állami Egészségügyi Tartaléknak a megyei kormányhivatalnál rendelkezésre álló gyógyszernormájának figyelembevételével,
+9.2.2. szűkített választékú gyógyszerkészlet használatának bevezetését az Állami Egészségügyi Tartaléknak (a továbbiakban: ÁEüT) a megyei kormányhivatalnál és az ÁEüT kezelőjénél rendelkezésre álló gyógyszernormájának figyelembevételével, amelyet a fekvőbeteg-ellátó szolgáltató köteles az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló EMMI rendeletben előírt minőségmegóvó csere igénybevételével kialakítani.
 
 9.2.3. gyógyszerek, kötszerek és a folyamatos működéshez szükséges egyéb anyagok beszerzését,
 
@@ -456,4 +456,4 @@
 
 14.3. Kapcsolódó tervek: Riasztási, berendelési Terv, Szállítási terv, Többletfeladatok ellátásának terve.
 
-[^25]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a, az 54/2016. (XII. 30.) EMMI rendelet 97. §-a szerint módosított szöveg.
+[^25]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a, az 54/2016. (XII. 30.) EMMI rendelet 97. §-a, a 43/2020. (XI. 26.) EMMI rendelet 2. §-a szerint módosított szöveg.

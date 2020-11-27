@@ -18,11 +18,11 @@
 
 (10)[^7] Ha a Terv készítésére kötelezett egészségügyi szolgáltató a (6), (8) és (9) bekezdésben meghatározott határidőre nem tesz eleget kötelezettségének, a megyei kormányhivatal a határidő leteltét követően határozatban rendeli el a Terv elkészítését, és erről egyidejűleg az egészségügyi szolgáltató fenntartóját és az egészségügyért felelős minisztert értesíti.
 
-(11)[^8] A megyei kormányhivatal a jóváhagyott terveket, illetve a (3) bekezdés szerinti igényeket az országos tisztifőorvos útján megküldi az egészségügyért felelős miniszternek.
+(11)[^8] A megyei kormányhivatal a jóváhagyott terveket az egészségügyi válsághelyzeti ellátásról szóló Korm. rendeletben meghatározott megyei részterv mellékleteként, illetve a (3) bekezdés szerinti igényeket a megyei résztervekkel egyidejűleg az országos tisztifőorvos útján megküldi az egészségügyért felelős miniszternek.
 
 [^3]: A 2. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § c)–d) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § e) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 165. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § f) pontja szerint módosított szöveg.
 [^7]: A 2. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § d) pontja szerint módosított szöveg.
-[^8]: A 2. § (11) bekezdését a 23/2015. (IV. 28.) EMMI rendelet 165. § (2) bekezdése iktatta be.
+[^8]: A 2. § (11) bekezdését a 23/2015. (IV. 28.) EMMI rendelet 165. § (2) bekezdése iktatta be, szövege a 43/2020. (XI. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
