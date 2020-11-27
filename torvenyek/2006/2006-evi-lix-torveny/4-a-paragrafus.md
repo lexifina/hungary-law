@@ -34,7 +34,7 @@ b)
 
 c) egyéb pénzügyi szervezet esetén:
 
-ca) pénzügyi vállalkozásnál a (4) bekezdés 3. pont a) pontjában meghatározott összeg 6,5 százaléka,
+ca) pénzügyi vállalkozásnál 6,5 százalék,
 
 cb)
 
