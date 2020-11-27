@@ -1,0 +1,5 @@
+93. § A Htv. 40/A. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A székhely, illetve a telephely szerinti önkormányzathoz az adóévre fizetendő adóból, legfeljebb azonban annak összegéig terjedően – a (2) bekezdésben meghatározott módon – levonható az adóalany által ráfordításként, költségként az adóévben elszámolt, a belföldön és külföldön autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjnak, az autópályák, autóutak és főutak használatáért fizetendő használati díjnak (a továbbiakban együtt: útdíj) a 7,5%-a.
+
+(2) Az adóévben megfizetett útdíj (1) bekezdés szerinti része a székhely, illetve telephely(ek) szerinti önkormányzatokhoz fizetendő adóból a vállalkozás szintjén képződő teljes törvényi adóalap és az egyes (székhely, illetve telephely(ek) szerinti) önkormányzatokhoz kimutatott települési adóalapok arányában vonható le.”

@@ -1,0 +1,3 @@
+76. § A Jöt. 77. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A 9. § (1) bekezdés a) pontja szerinti termékértékesítést végző adóraktár engedélyese az adózottan beszerzett és végső úti céllal harmadik országba utazó utas részére értékesített dohánygyártmány után a jövedéki adót visszaigényelheti és mentesül az (1) bekezdésben meghatározott kötelezettségek alól. Az adó-visszaigénylés esetén kiskereskedelmi eladási árként az adó-visszaigénylés állami adó- és vámhatósághoz történő benyújtását megelőző hat hónapban az adott dohánygyártmányra vonatkozóan – a 145. § (5) bekezdése szerint – közzétett legalacsonyabb kiskereskedelmi eladási ár vehető figyelembe.”

@@ -1,0 +1,3 @@
+146. § Az Air. 97. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az adózó, ha megítélése szerint az ellenőrzés határidejét az adóhatóság túllépte, az általa számított határidő lejártát követően kifogással fordulhat a felettes szervhez. A felettes szerv az adózó észrevételeinek figyelembevételével végzésben dönt a kifogás elutasításáról, az eljárási határidő meghosszabbításáról, vagy az eljáró adóhatóságot az ellenőrzés lezárására utasítja. Az eljárási határidő meghosszabbítására kizárólag akkor van lehetőség, ha az ellenőrzési határidő még nem járt le. Az ellenőrzési határidő meghosszabbításakor figyelemmel kell lenni a 94. § (3)–(4) bekezdésében és a 95. §-ban foglaltakra.”

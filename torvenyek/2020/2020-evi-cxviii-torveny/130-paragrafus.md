@@ -1,0 +1,3 @@
+130. § Az Art. 124. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, az állam közvetlen vagy közvetett többségi tulajdonában álló jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg, kivéve, ha e korlátozás alól az állami adó- és vámhatóságot irányító miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott határozott idejű egyedi felmentést ad.”
