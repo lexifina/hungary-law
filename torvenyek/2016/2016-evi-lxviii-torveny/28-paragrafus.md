@@ -12,7 +12,7 @@ c) sör, csendes és habzóbor, egyéb csendes és habzó erjesztett ital, közt
 
 (3) Az (1) bekezdéstől eltérően a nyújtandó jövedéki biztosíték összege, ha a jövedéki engedélyes kereskedő a tevékenyégét kizárólag
 
-a) 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű benzin vagy gázolaj adalékával folytatja, 1 millió forint,
+a) 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű benzin vagy gázolaj adalékával vagy 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű nem közúti járművek üzemanyagaként kínált, értékesített vagy felhasznált 2710 12 41 KN-kód szerinti termékkel folytatja, 1 millió forint,
 
 b) kisüzemi sörfőzdében előállított sörrel folytatja, 500 ezer forint,
 

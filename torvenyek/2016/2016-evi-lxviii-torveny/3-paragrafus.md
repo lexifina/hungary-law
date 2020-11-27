@@ -140,7 +140,7 @@ b) az adófelfüggesztési eljárás keretében végzett szállítás során a f
 
 c) a szabadforgalomba bocsátott jövedéki termék tagállamok közötti kereskedelmi célú és csomagküldő kereskedelem keretében végzett szállítása során a szállítmány egésze vagy annak egy része nem érkezik meg a címzetthez, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
 
-d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
+d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék, a 17. § (1) bekezdés a)–b) és d) pontja szerinti készletfelvétel során az állami adó- és vámhatóság jelenlétében és ellenőrzése mellett megállapított hiány és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
 
 e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
 
@@ -156,7 +156,7 @@ b) a termék tulajdonságaiból adódó, elismert mennyiségű hiány;
 
 46. uniós számítógépes rendszer: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló, 2003. július 16-ai 1152/2003/EK európai parlamenti és tanácsi határozattal létrehozott, az Európai Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer;
 
-47. üzemanyag: a benzin, az üzemanyag célú gázolaj, – a 0 adómérték alá tartozó és az egyéb motorikus célú termék kivételével – LPG, a biodízel, a bioüzemanyag, az üzemanyag célú földgáz és az E85;
+47. üzemanyag: – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű, nem közúti járművek üzemanyagaként kínált, értékesített vagy felhasznált 2710 12 41 KN-kód szerinti termék kivételével – a benzin, az üzemanyag célú gázolaj, – a 0 adómérték alá tartozó és az egyéb motorikus célú termék kivételével – LPG, a biodízel, a bioüzemanyag, az üzemanyag célú földgáz és az E85;
 
 48. üzemi motorikusgáztöltő-állomás: a mérésügyi szerv által hitelesített kútoszloppal és a hatáskörrel rendelkező hatóság által engedélyezett tárolótartállyal ellátott, az LPG kizárólag nem közúti járművekben, üzemen belüli felhasználás céljából történő kiszolgálását végző felhasználói hely;
 

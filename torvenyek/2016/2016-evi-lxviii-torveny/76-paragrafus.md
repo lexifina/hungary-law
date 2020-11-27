@@ -1,6 +1,6 @@
 ## 48. Zárjegy felhelyezése, pótlása
 
-76. § (1) A zárjegyet a legkisebb fogyasztói csomagolási egységre oly módon kell felhelyezni, hogy az sérülésmentesen ne legyen eltávolítható és – cigaretta, szivar és szivarka kivételével – a csomagolás kinyitásakor eltépődjön, valamint az azon feltüntetett szöveg, adat – a végrehajtási rendeletben meghatározott eltéréssel – teljes terjedelmében látható legyen.
+76. § (1) A zárjegyet a legkisebb fogyasztói csomagolási egységre oly módon kell felhelyezni, hogy az sérülésmentesen ne legyen eltávolítható és – a dohánygyártmányok kivételével – a csomagolás kinyitásakor eltépődjön, valamint az azon feltüntetett szöveg, adat – a végrehajtási rendeletben meghatározott eltéréssel – teljes terjedelmében látható legyen.
 
 (2) A zárjegyköteles jövedéki termékre felragasztott zárjegy a végrehajtási rendeletben meghatározott információkat tartalmazza.
 

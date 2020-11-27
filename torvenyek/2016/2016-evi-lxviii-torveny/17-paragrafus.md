@@ -16,4 +16,4 @@ a tényleges készletet.
 
 (4) A készletfelvétellel megállapított tényleges készlet és a nyilvántartás szerinti készlet különbözetével az elszámolási időszak zárókészletét módosítani kell.
 
-(5) Az (1) bekezdés a) pontja szerinti készletfelvétel a tárgyév utolsó napját és az üzleti év mérlegfordulónapját megelőző vagy követő 15 napon belül tartható meg, ilyen esetben a tárgyév utolsó napjának vagy az üzleti év mérlegfordulónapjának készletét az akkortól a készletfelvétel tényleges napjáig történt nyilvántartás szerinti készletváltozások figyelembevételével, számítással kell meghatározni.
+(5) Az (1) bekezdés a) pontja szerinti készletfelvétel a tárgyév utolsó napját és az üzleti év mérlegfordulónapját megelőző vagy követő 15 napon belül tartható meg, az (1) bekezdés d) pontja szerinti készletfelvétel a tárgyidőszak utolsó napját megelőző vagy követő 3 napon belül tartható meg. Ilyen esetben a tárgyév utolsó napjának vagy az üzleti év mérlegfordulónapjának készletét az akkortól a készletfelvétel tényleges napjáig történt nyilvántartás szerinti készletváltozások figyelembevételével, számítással kell meghatározni.

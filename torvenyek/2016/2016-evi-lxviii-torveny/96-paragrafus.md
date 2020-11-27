@@ -8,6 +8,8 @@
 
 (2) Az (1) bekezdés szerinti helyszíni ellenőrzéshez az Air. szerinti általános megbízólevélnek az állami adó- és vámhatóság tagjának intézkedésre jogosító szolgálati igazolványa minősül.
 
+(2a) Ha az ellenőrzés alá vont személy ismeretlen, az ellenőrzés az erről szóló előzetes értesítés, megbízólevél kézbesítésének, átadásának, bemutatásának hiányában is megindítható és a jegyzőkönyv átadása, kézbesítése nélkül befejezhető. Ha az ellenőrzés során az ellenőrzés alá vont személy ismertté válik, az állami adó- és vámhatóság a megbízólevelet haladéktalanul kézbesíti vagy átadja részére.
+
 (3) A jövedéki termék szállításának helyszíni ellenőrzésekor jogsértés hiányának megállapítása esetén csak abban az esetben kell jegyzőkönyvet kiállítani, ha azt az ellenőrzött személy kéri. Az állami adó- és vámhatóság az ellenőrzés tényét jegyzőkönyv készítésének hiányában a szállítási okmányon rögzíti.
 
 (4) Az Air. szerinti adózóra vonatkozó szabályokat az e törvény szerinti ellenőrzött személyre is alkalmazni kell.

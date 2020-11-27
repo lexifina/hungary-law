@@ -22,6 +22,8 @@ alapulvételével kell meghatározni.
 
 (6) A (2), (5), (8) és (9) bekezdés alá nem tartozó kötelezettségszegések esetén a magánszemély 300 ezer forintig, a gazdálkodó szervezet és a jövedéki termékkel gazdasági tevékenységet folytató egyéni vállalkozó 750 ezer forintig terjedő jövedéki bírsággal sújtható.
 
+(6a) A kötelezettség késedelmes teljesítése esetén nincs helye jövedéki bírság megállapításának, ha az adózó a kötelezettség teljesítése mellett késedelmét annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
+
 (7) A (2), az (5) és a (6) bekezdés szerinti jövedéki bírságra az Art.-nak a megbízható és a kockázatos adózói minősítésnek az adóbírság és a mulasztási bírság felső határát módosító és az ezek kiszabásával kapcsolatos szabályait alkalmazni kell.
 
 (8) A 39. § megsértése esetén a jövedéki bírság mértéke kilogrammonként 100 ezer forint.

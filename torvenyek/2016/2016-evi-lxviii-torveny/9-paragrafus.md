@@ -46,7 +46,7 @@ a) a benyújtott bizonyítékok alapján bírálja el, hogy milyen mennyiség mi
 
 b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében az agrárpolitikáért felelős miniszter rendeletében meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
 
-(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározott mértéktől eltérő mértékű elismert mennyiségű hiány alkalmazását, amennyiben azt a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szakértői vélemény alátámasztja.
+(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
 
 (5) Az állami adó- és vámhatóság a (4) bekezdés a) pontja szerinti döntéséről, ha a jövedéki termék feladója nem belföldi személy, kérésre tájékoztatja a jövedéki termék feladóját és a feladás helye szerinti tagállam illetékes hatóságát.
 

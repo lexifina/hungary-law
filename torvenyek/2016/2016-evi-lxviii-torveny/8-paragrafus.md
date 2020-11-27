@@ -42,6 +42,8 @@ oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalans
 
 p) 7. § (2) bekezdés i) pontja szerinti esetben a bejelentőt
 
+q) 7. § (2) bekezdés j) pontja szerinti esetben a bejelentőt
+
 terheli.
 
 (2) Ha az (1) bekezdés alapján több személy kötelezett az adófizetésre, felelősségük egyetemleges.

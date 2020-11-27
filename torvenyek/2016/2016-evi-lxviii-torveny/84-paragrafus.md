@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdéstől eltérően papíralapon is intézhető
 
-a) a magánszemély 43. § szerinti bejelentési kötelezettsége,
+a)
 
 b) a magánfőző által teljesítendő bejelentési kötelezettség, valamint a párlat adójegy igénylése és rendelkezésre bocsátása,
 

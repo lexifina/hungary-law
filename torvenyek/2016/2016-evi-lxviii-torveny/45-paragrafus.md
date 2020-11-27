@@ -1,1 +1,1 @@
-45. § Energiatermék kinyerését eredményező rekultivációs tevékenység megkezdését legkésőbb az azt megelőző 3 nappal, a tevékenység tervezett befejezésének időpont megjelölésével kell az állami adó- és vámhatósághoz bejelenteni.
+### 45. §
