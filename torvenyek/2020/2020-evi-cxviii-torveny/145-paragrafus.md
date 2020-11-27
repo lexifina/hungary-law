@@ -1,15 +1,1 @@
-145. § Az Air. 77/A. §-a helyébe a következő rendelkezés lép:
-
-„77/A. § [A hirdetményi közlés]
-
-A közlést hirdetmény útján kell teljesíteni, ha
-
-a) az adózó elektronikus kapcsolattartásra szolgáló elérhetősége, lakcíme, székhelye ismeretlen, vagy a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a címzett ismeretlen helyre költözött, és a személyiadat- és lakcímnyilvántartást vezető hatóság vagy más állami szerv megkeresése nem járt eredménnyel,
-
-b) a jogutód nem ismert,
-
-c) az adózó nem jelölt meg kézbesítési meghatalmazottat,
-
-d) a kézbesítés egyéb elháríthatatlan akadályba ütközik, vagy annak megkísérlése már előre is eredménytelennek mutatkozik, vagy
-
-e) azt törvény vagy kormányrendelet előírja.”
+### 145. §

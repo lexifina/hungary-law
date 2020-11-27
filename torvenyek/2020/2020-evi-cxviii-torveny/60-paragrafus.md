@@ -4,6 +4,4 @@
 
 (2) Az egyéb feltételek fennállása esetén a belföldön nyilvántartásba vett, személygépkocsi értékesítésével foglalkozó viszonteladó a 2021. január 1. napjával kezdődő időszakra vonatkozóan abban az esetben is dönthet úgy, hogy tevékenységének egészére e törvény XVI. Fejezet 2. alfejezetének rendelkezéseit alkalmazza, ha a 225. § (1) bekezdés c) pontjában rögzített időtartam még nem telt el, feltéve, hogy e döntéséről az állami adó- és vámhatóságnak 2020. december 31-ig nyilatkozik.”
 
-(2) Az Áfa tv. 341. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvénynek a Mód11 törvénnyel módosított 87. § c) pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2021. január 1-jére vagy azt követő időpontra esik.”
+(2)

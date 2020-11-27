@@ -20,6 +20,4 @@
 
 3. az ellenőrzött külföldi társaság részesedésének értékesítésekor, nem pénzbeli vagyoni hozzájárulásként történő kivezetésekor a kivezetés következtében az adóévben elszámolt bevétel csökkentve a részesedés (10) bekezdés szerinti bekerülési értékének a könyv szerinti értéket meghaladó részével, de legfeljebb a 8. § (1) bekezdésének f) pontja alapján az adózás előtti eredmény növeléseként elszámolt – az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazolt – és az adózás előtti eredmény csökkentéseként még figyelembe nem vett összeg,”
 
-(3) A Tao. törvény 7. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az (1) bekezdés n) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményét a kapcsolt vállalkozással szemben fennálló követelés bekerülési értékéből behajthatatlanná vált részre tekintettel, ha az érintett kapcsolt vállalkozásáról, továbbá az ügyletet megalapozó, valós gazdasági okokról külön nyilvántartás vezet.”
+(3)

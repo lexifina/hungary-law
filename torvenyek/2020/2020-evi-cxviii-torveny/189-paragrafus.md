@@ -15,11 +15,3 @@ való megfelelést szolgálja.
 (3) E törvény 83. § és 84. §-a, valamint 87. § g)–m) pontja az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló 92/83/EGK irányelv módosításáról szóló, 2020. július 29-i (EU) 2020/1151 tanácsi irányelvnek való megfelelést szolgálja.
 
 (4) E törvény 85. §-a a dohánygyártmányokra alkalmazott jövedéki adó szerkezetéről és adókulcsáról szóló, 2011. június 21-ei (EU) 2011/64 tanácsi irányelv 10. cikk (2) bekezdésének való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

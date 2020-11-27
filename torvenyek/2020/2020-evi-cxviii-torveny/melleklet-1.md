@@ -6,13 +6,7 @@
 
 „1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás, a honvédelmi alkalmazottak jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás;”
 
-2. Az Szja tv. 1. számú melléklet 2. pont 2.1. alpont 2.1.1 alpontja helyébe a következő rendelkezés lép:
-
-(A lakáshoz kapcsolódóan adómentes:
-
-a lakáscélú támogatás, ha az)
-
-„2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, valamint a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet szerinti támogatás,”
+2.
 
 3. Az Szja tv. 1. számú melléklet 4. pont 4.22. alpontja helyébe a következő rendelkezés lép:
 

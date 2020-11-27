@@ -16,9 +16,9 @@
 
 8. 97. § (3) bekezdésében a „teljesíteni” szövegrész helyébe a „teljesíteni. A (2) bekezdés szerinti gyakorlati időbe figyelembe vehető a kapcsolódó szabályozási és felügyeleti feladatokat ellátó jogviszonyban eltöltött idő” szöveg,
 
-9. 110. § (2) bekezdés b) pontjában az „50 főnél” szövegrész helyébe a „25 főnél” szöveg,
+9.
 
-10. 110. § (2) bekezdés c) pontjában az „50 tagonként” szövegrész helyébe a „25 tagonként” szöveg, továbbá az „az 50 főt” szövegrész helyébe az „a 25 főt” szöveg,
+10.
 
 11. 166. § (2) bekezdésében a „minőségellenőrzés” szövegrész helyébe a „minőségellenőrzést” szöveg,
 

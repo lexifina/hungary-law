@@ -1,6 +1,6 @@
 88. § Hatályát veszti a Jöt.
 
-a) 3. § (1) bekezdés 1. pontjában a „tekintetében a dohánygyártmányok” szövegrész,
+a)
 
 b) 7. § (2) bekezdés h) pontjában az „illetve” szövegrész,
 
@@ -10,16 +10,16 @@ d) 43. §-a,
 
 e) 45. §-a,
 
-f) 70. § (3) bekezdése,
+f)
 
-g) 71. § b) pont bb) alpontjában a „ , a 70. § (3) bekezdése szerinti bejelentés megtételével” szöveg,
+g)
 
 h) 84. § (2) bekezdés a) pontja,
 
 i) 93. § (3) bekezdésében az „a 40. § és” szövegrész,
 
-j) 145. § (5) bekezdésében a „zárjegyköteles” szövegrész,
+j)
 
-k) 98. alcím címében a „zárjeggyel ellátott” szövegrész,
+k)
 
-l) 147. §-ában a „zárjeggyel ellátott” szövegrészek.
+l)
