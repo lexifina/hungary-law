@@ -10,7 +10,7 @@
 
 (4) Rendkívüli minőségellenőrzést kell lefolytatni, ha azt
 
-a) a kamara fegyelmi megbízottja, fegyelmi bizottsága, szakértői bizottsága kezdeményezi,
+a) a kamara elnöke, fegyelmi megbízottja, fegyelmi bizottsága, szakértői bizottsága kezdeményezi,
 
 b) a kamarai tag könyvvizsgáló, a könyvvizsgáló cég saját magával szemben kéri,
 
@@ -68,4 +68,4 @@ f) az ellenőrzés dátumát és helyszínét.
 
 (14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
 
-(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 90 nap.
+(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 120 nap.

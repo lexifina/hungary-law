@@ -4,7 +4,7 @@
 
 (2) A könyvvizsgáló jelölt számára előírt gyakorlati idő a könyvvizsgáló jelölt névjegyzékbe vételétől számított legalább három, legfeljebb hat év, amelynek lejáratát követően a jelölt szakmai kompetencia vizsgát tesz.
 
-(3) A (2) bekezdés szerinti gyakorlati időből 1 évet a kamara alapszabályában és mentori szabályzatában meghatározott módon, legalább két évet pedig a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgálónál vagy könyvvizsgáló cégnél kell teljesíteni.
+(3) A (2) bekezdés szerinti gyakorlati időből 1 évet a kamara alapszabályában és mentori szabályzatában meghatározott módon, legalább két évet pedig a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgálónál vagy könyvvizsgáló cégnél kell teljesíteni. A (2) bekezdés szerinti gyakorlati időbe figyelembe vehető a kapcsolódó szabályozási és felügyeleti feladatokat ellátó jogviszonyban eltöltött idő.
 
 (4) Ha a könyvvizsgáló jelölt a (2) bekezdés szerinti gyakorlati időt megszakítja, az a könyvvizsgáló jelölt kérelmére és a kamara, vagy a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló, könyvvizsgáló cég hozzájárulásával meghosszabbítható, de nem lehet hosszabb hat évnél.
 

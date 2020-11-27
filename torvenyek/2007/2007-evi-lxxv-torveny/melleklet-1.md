@@ -44,7 +44,7 @@ Kibocsátói
 
 1. A legutóbbi minőségellenőrzés éve,
 
-2. A legutóbbi minőségellenőrzés eredménye (megfelelt; megfelelt, megjegyzéssel; nem megfelelt).
+2. A legutóbbi minőségellenőrzés eredménye (megfelelt; megfelelt, megjegyzéssel; nem felelt meg).
 
 6. A kérelemnek tartalmazni kell az alábbi, kérelmezővel szemben indított lezárt vagy folyamatban lévő fegyelmi eljárással kapcsolatos alábbi adatokat:
 

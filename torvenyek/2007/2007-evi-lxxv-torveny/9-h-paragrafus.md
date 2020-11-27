@@ -1,4 +1,4 @@
-9/H. § Nem adható meg az 9/G. § (1) bekezdés szerinti igazolás, annak a természetes személynek,
+9/H. § Nem adható meg a 9/G. § (1) bekezdés szerinti igazolás, annak a természetes személynek,
 
 a) aki büntetett előéletű,
 
