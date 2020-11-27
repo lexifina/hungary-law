@@ -16,7 +16,7 @@ f) adószakértők esetében az egyetemi vagy főiskolai végzettség megnevezé
 
 g) adószakértők esetében a tevékenység végzéséhez szükséges – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – a szakképesítés megszerzését követően, a 248. § szerinti bejelentést megelőzően adótanácsadás vagy pénzügyi tanácsadás területén megszerzett szakmai gyakorlat megszerzésének helye, időtartama, valamint annak a munkakörnek vagy tevékenységnek a megnevezése, amelyben a szakmai gyakorlatot jellemzően megszerezték,
 
-h) szakmai továbbképzési kötelezettség teljesítése, és annak bejelentése.
+h) szakmai továbbképzési kötelezettség teljesítése.
 
 (2) A nyilvántartás tartalmazhatja a bejelentő önkéntes adatszolgáltatása alapján a nyilvántartásba vett bejelentő személy
 
@@ -45,5 +45,7 @@ b) természetes személyazonosító adatait,
 c) teljesített továbbképzéseinek azonosító adatait és kreditpontértékét,
 
 d) teljesített továbbképzéseiről kiállított igazolás sorszámát.
+
+(6b) A (6a) bekezdés szerinti szervezet a résztvevők továbbképzési kötelezettsége teljesítésének igazolásához szükséges adatokat a (6a) bekezdés a)–c) pontja szerinti adattartalommal megküldi a nyilvántartásba vételt végző szervezetnek a (7) bekezdés szerinti kormányrendeletben meghatározott módon.
 
 (7) Az adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásának, továbbá a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenységet folytató személyek nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait, a nyilvántartás vezetésének szabályait a Kormány rendeletben állapítja meg azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.

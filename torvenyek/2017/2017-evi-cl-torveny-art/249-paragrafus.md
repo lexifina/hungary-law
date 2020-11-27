@@ -8,4 +8,4 @@
 
 (4) A nyilvántartásban szereplő adótanácsadók, adószakértők és okleveles adószakértők kötelesek a már megszerzett ismereteket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kötelesek szakmai továbbképzésen részt venni.
 
-(5) A határon átnyúló szolgáltatásnyújtás esetén a (3) és (4) bekezdést nem kell alkalmazni.
+(5) A határon átnyúló szolgáltatásnyújtás esetén a (3) és (4) bekezdést, valamint a 251. § (1) bekezdés d) pontját nem kell alkalmazni.

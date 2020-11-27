@@ -2,9 +2,9 @@
 
 (1) A nyilvántartásba vételt végző szervezet az adótanácsadói, adószakértői, vagy okleveles adószakértői tevékenység folytatását megtiltja annak a természetes személynek,
 
-a) aki az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzési kötelezettségének nem tett eleget,
+a) aki az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzési kötelezettségének nem tett eleget, és ezen mulasztását nem tudja kimenteni,
 
-b) aki az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzés teljesítéséről szóló bejelentési kötelezettségének a megadott határidőig nem tett eleget,
+b)
 
 c) aki a bejelentés és a nyilvántartással kapcsolatos adatszolgáltatás során valótlan adatot közölt,
 
