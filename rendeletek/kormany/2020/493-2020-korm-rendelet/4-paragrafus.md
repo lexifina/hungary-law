@@ -1,1 +1,3 @@
-## 3. § Az R. 4. § (1) és (2) bekezdésében az „és 49. sora” szövegrész helyébe a „ , 49. és 50. sora” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
