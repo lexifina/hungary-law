@@ -172,15 +172,23 @@ bc) az üzleti évben foglalkoztatottak átlagos létszáma: 250;
 
 (4b) A (4a) bekezdés 1–4. pontjában meg nem határozott fogalmak jelentése a III/A. Fejezet alkalmazásában, amennyiben a szövegösszefüggésből más nem következik, megegyezik azzal a jelentéssel, amely a vitás kérdést eredményező vagy a későbbiekben ahhoz vezető intézkedésről szóló első értesítés közlésének időpontjában hatályos, vonatkozó megállapodásban vagy egyezményben az adott időpontban szerepel. Amennyiben az említett megállapodásban vagy egyezményben nem szerepel egy adott fogalom meghatározása, a meg nem határozott fogalom jelentése megegyezik Magyarországnak az említett megállapodás vagy egyezmény hatálya alá tartozó adók tekintetében alkalmazandó jogszabályai szerinti, az adott időpontban érvényes jelentéssel azzal, hogy az alkalmazandó adójogszabályai szerinti jelentés elsőbbséget élvez a fogalomnak egyéb jogszabályban szereplő jelentésével szemben.
 
-(4c) A IV/A. Fejezet alkalmazásában:
+(4c) A IV. Fejezet alkalmazásában:
 
-1. adóegyezmények szerinti kölcsönös egyeztető eljárás: a jövedelem és adott esetben a vagyon kettős adóztatásának elkerülésére vonatkozó nemzetközi egyezmények (továbbiakban: adóegyezmények) értelmezéséből és alkalmazásából eredő vitás kérdés rendezésére irányuló eljárás;
+1. vitás kérdés: a Választottbírósági Egyezmény alkalmazásából eredő vitatott ügy;
+
+2. érintett személy: az a személy, aki vagy amely a Választottbírósági Egyezményben részes valamely államban belföldi adóügyi illetőségű és adóztatására a vitás kérdés közvetlen hatással van;
+
+3. érintett állam: vitás kérdésben érintett állam.
+
+(4d) A IV/A. Fejezet alkalmazásában:
+
+1. adóegyezmények szerinti kölcsönös egyeztető eljárás: a jövedelem és adott esetben a vagyon kettős adóztatásának elkerülésére vonatkozó nemzetközi egyezmények (a továbbiakban: adóegyezmények) értelmezéséből és alkalmazásából eredő vitás kérdés rendezésére irányuló eljárás;
 
 2. vitás kérdés: az adóegyezmények értelmezéséből és alkalmazásából eredő vitákhoz vezető ügy;
 
 3. érintett személy: a vitás kérdésben alkalmazandó adóegyezmény alapján magyar belföldi illetőségű személy – a természetes személyt is ideértve –, akinek vagy amelynek adóztatására a vitás kérdés közvetlen hatással van;
 
-4. érintett államok: vitás kérdésben érintett államok.
+4. érintett állam: vitás kérdésben érintett állam.
 
 (5) Az V/A. fejezet alkalmazásában:
 

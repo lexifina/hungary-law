@@ -15,3 +15,5 @@
 (7) A 4. § (4a) és (4b) bekezdése és a III/A. Fejezet az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
 
 (8) A 4. § (9) bekezdése, az V/F. Fejezet, a 45/J. §, valamint a 4. melléklet az adózás területén való közigazgatási együttműködésről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek az adatszolgáltatási kötelezettség alá tartozó, határokon átnyúló konstrukciókkal kapcsolatosan az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2018. május 25-i 2018/822/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+(9) A 45/J. § (1)–(6), valamint (8) bekezdése a 2011/16/EU tanácsi irányelvnek az adózás területén az információk benyújtására és cseréjére vonatkozó egyes határidőknek a Covid19-világjárvány miatti sürgetően szükséges halasztása kezelésének érdekében történő módosításáról szóló, 2020. június 24-i (EU) 2020/876 tanácsi irányelvnek való megfelelést szolgálja.
