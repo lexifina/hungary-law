@@ -20,9 +20,9 @@
 
 10.
 
-11. 252. § (1) bekezdés b) pontja,
+11.
 
-12. 255. § (1) bekezdés h) pontjában az „ , és annak bejelentése” szövegrész,
+12.
 
 13.
 

@@ -1,3 +1,1 @@
-181. § A Kkt. 104. § (2) bekezdés helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben foglaltakon túlmenően – a kamarai tagfelvételi követelmények teljesítése céljából – szakmai kompetencia vizsgát köteles tenni az a természetes személy is, akinek kamarai tagsága két évnél régebben szűnt meg, valamint az, akinek kamarai tagsága a korábbiakban már legalább két alkalommal megszűnt. Az ismételt kamarai tagfelvétel kezdeményezése esetén a 9/G. § (1) bekezdése szerinti igazolás megszerzése érdekében szakmai kompetencia vizsgát köteles továbbá tenni az a természetes személy, akinek a kamarai tagsága a fegyelmi eljárás keretében történő kizárásával, vagy a közfelügyeleti hatóságnak, a kamara minőségellenőrzési bizottságának jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló határozata alapján szűnt meg.”
+### 181. §

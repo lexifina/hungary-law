@@ -2,21 +2,21 @@
 
 a)
 
-b) 7. § (2) bekezdés h) pontjában az „illetve” szövegrész,
+b)
 
-c) 29. alcíme,
+c)
 
-d) 43. §-a,
+d)
 
-e) 45. §-a,
+e)
 
 f)
 
 g)
 
-h) 84. § (2) bekezdés a) pontja,
+h)
 
-i) 93. § (3) bekezdésében az „a 40. § és” szövegrész,
+i)
 
 j)
 
