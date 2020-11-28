@@ -10,7 +10,7 @@
 
 ## 3. a 2. pont szerinti beruházások előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-## 4. a 2. pont a) és b) alpontja szerinti beruházásoknak a Beruházás Előkészítési Alap terhére a vázlatterv készítésére, engedélyezési dokumentáció készítésére, valamint kivitelezési dokumentáció elkészítésére összesen 306 565 000 forintot biztosít, azzal, hogy az előkészítési fázisokat legkésőbb 2021. február 28. napjáig kell megvalósítani;
+## 4.[^1] a 2. pont a) és b) alpontja szerinti beruházásoknak a Beruházás Előkészítési Alap terhére a vázlatterv készítésére, engedélyezési dokumentáció készítésére, valamint kivitelezési dokumentáció elkészítésére összesen 306 565 000 forintot biztosít, azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 15. napjáig kell megvalósítani;
 
 ## 5. a 2. pont c) alpontja szerinti beruházásnak a vázlatterv készítésére, engedélyezési dokumentáció készítésére, valamint kivitelezési dokumentáció elkészítésére a 2021. évi központi költségvetés terhére összesen 145 510 000 forintot biztosít, azzal, hogy az előkészítési fázisokat legkésőbb 2022. március 31. napjáig kell megvalósítani;
 
@@ -22,7 +22,7 @@
 
 ## jelöli ki;
 
-## 7. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése szerinti jogkörében eljárva, a 2. pont a) és b) alpontja szerinti beruházások előkészítési feladatainak finanszírozása érdekében 306 565 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 66. Kiemelt sportegyesületek sportlétesítmény-fejlesztéseinek támogatása jogcímcsoport javára, az 1. melléklet szerint;
+## 7.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése szerinti jogkörében eljárva, a 2. pont a) és b) alpontja szerinti beruházások előkészítési feladatainak finanszírozása érdekében 306 565 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 66. Kiemelt sportegyesületek sportlétesítmény-fejlesztéseinek támogatása jogcímcsoport javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében:
 
@@ -36,7 +36,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2021. május 30.
+## Határidő: 2022. január 30.
 
 ## 8. felhívja az emberi erőforrások miniszterét, hogy az 5. pont szerinti feladat végrehajtásához szükséges források tervezéséről a 2021. évi központi költségvetés tervezése során a saját fejezetében gondoskodjon;
 
@@ -133,3 +133,6 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 306 565 000 |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont az 1861/2020. (XI. 28.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 7. pont az 1861/2020. (XI. 28.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
