@@ -18,7 +18,7 @@ e) a csatlakozó rendszerüzemeltető nem rendelkezik a szükséges kapacitások
 
 (2) A szállítási rendszerüzemeltető és a földgázelosztó a szállító-, illetőleg az elosztóvezetékekhez való csatlakozást egy adott csatlakozási pontra a szállító-, illetőleg az elosztóvezeték műszaki jellemzőire tekintettel megtagadhatja. Ha a szállítási rendszerüzemeltető vagy a földgázelosztó az (1) bekezdés a) pontjára való hivatkozással tagadta meg a csatlakozást, meg kell határozni azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható.
 
-(3) Ha a szállítási rendszerüzemeltető vagy a földgázelosztó elutasítja a szállító-, illetőleg az elosztóvezetékhez való csatlakozás iránti igényt, az igénybejelentő kérelmére a Hivatal dönt a csatlakozás kérdésében, és kötelezheti az érintett rendszerüzemeltetőt a csatlakozási kérelem teljesítésére, ha a felhasználó vállalja a Hivatal elnökének rendeletében meghatározott mértékű csatlakozási díj megfizetését.
+(3) Ha a szállítási rendszerüzemeltető vagy a földgázelosztó elutasítja a szállító-, illetőleg az elosztóvezetékhez való csatlakozás iránti igényt, az igénybejelentő kérelmére a Hivatal dönt a csatlakozás kérdésében, és kötelezheti az érintett rendszerüzemeltetőt a csatlakozási kérelem teljesítésére, ha a felhasználó vállalja Hivatal határozatában meghatározott mértékű csatlakozási díj megfizetését.
 
 (4) A rendszerüzemeltetők felelősek azért, hogy az általuk üzemeltetett szállító- és elosztóvezeték közép-, illetve hosszú távon alkalmas legyen a csatlakozási szerződésekben, és más rendszerüzemeltetőknek adott kapacitásnyilatkozatban meghatározott igények kielégítésére.
 
