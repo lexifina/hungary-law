@@ -4,7 +4,7 @@
 
 ## c) fejlesztési célú ügylet esetében az ügyletet csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-1. melléklet az 1579/2020. (IX. 10.) Korm. határozathoz
+1. melléklet az 1579/2020. (IX. 10.) Korm. határozathoz[^1]
 
 | Sorszám | Önkormányzat neve | Ügylet adatai | Fejlesztés adatai | Kormány által engedélyezett fejlesztéshez kapcsolódó ügyletérték | Kormány az ügylethez/ fejlesztéshez hozzájárul (Igen, Nem, Részben) | Jóváhagyott ügylet adatai |
 
@@ -38,7 +38,7 @@
 
 | 5 | MÁRIAPÓCS VÁROS ÖNKORMÁNYZATA | 1 | HUF | fejlesztés | Halasztott fizetés, részletfizetés | 13 | 31 698 408 | 1 | 7.5. Egyéb (nem köznevelési, szociális, kulturális és sportcélú) önkormányzati tulajdonú létesítmények felújítása, fejlesztés, valamint a fűtés- és világítási rendszer korszerűsítése | 31 698 408 | 31 698 408 | Igen | 1 320 768 | 2 641 536 | 2 641 536 | 25 094 568 |
 
-| 6 | NYÍRBÁTOR VÁROS ÖNKORMÁNYZATA | 1 | HUF | fejlesztés | Hitel | 16 | 300 000 000 | 1 | 7.11. Ipari park létesítéssel, bővítéssel összefüggő fejlesztés | 300 000 000 | 0 | Nem | 0 | 0 | 0 | 0 |
+| 6 | NYÍRBÁTOR VÁROS ÖNKORMÁNYZATA | 1 | HUF | fejlesztés | Hitel | 16 | 300 000 000 | 1 | 7.11. Ipari park létesítéssel, bővítéssel összefüggő fejlesztés | 300 000 000 | 300 000 000 | Igen | 300 000 000 | 0 | 0 | 0 |
 
 | 7 | ÓPÁLYI KÖZSÉG ÖNKORMÁNYZATA | 1 | HUF | fejlesztés | Halasztott fizetés, részletfizetés | 16 | 64 137 660 | 1 | 7.5. Egyéb (nem köznevelési, szociális, kulturális és sportcélú) önkormányzati tulajdonú létesítmények felújítása, fejlesztés, valamint a fűtés- és világítási rendszer korszerűsítése | 64 137 660 | 64 137 660 | Igen | 64 137 660 | 0 | 0 | 0 |
 
@@ -53,3 +53,5 @@
 | 12 | PÜSPÖKLADÁNY VÁROS ÖNKORMÁNYZATA | 5 | HUF | fejlesztés | Halasztott fizetés, részletfizetés | 14 | 310 156 028 | 5 | 7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 310 156 028 | 310 156 028 | Igen | 310 156 028 | 0 | 0 | 0 |
 
 | 13 | TISZAPÜSPÖKI KÖZSÉGI ÖNKORMÁNYZAT | 1 | HUF | fejlesztés | Hitel | 5 | 27 452 542 | 1 | 7.1. Közutak, hidak építése, felújítása | 27 452 542 | 27 452 542 | Igen | 27 452 542 | 0 | 0 | 0 |
+
+[^1]: Az 1. melléklet az 1859/2020. (XI. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
