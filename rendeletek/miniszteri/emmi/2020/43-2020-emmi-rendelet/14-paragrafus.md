@@ -1,1 +1,0 @@
-## „(4) Ha a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában meghatározott tevékenységi körében változás következik be, a köznevelési intézménynek új honvédelmi intézkedési tervet kell készítenie, amelyet az (1) bekezdés alapján kell megküldenie a miniszter részére.”
