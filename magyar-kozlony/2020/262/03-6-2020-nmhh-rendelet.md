@@ -1,0 +1,162 @@
+# A Nemzeti Média- és Hírközlési Hatóság elnökének 6/2020. (XI. 28.) NMHH rendelete
+
+Magyar Közlöny 2020. évi 262. szám, 2020. november 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/VRrR57kT4Y3Y72qRsXWW5fbe297593c8c/dokumentumok/2b7a2dd9af9c2d12f13e4a2ce4021adc30840eb0/letoltes)
+
+---
+
+A Nemzeti Média- és Hírközlési Hatóság elnökének 6/2020. (XI. 28.) NMHH rendelete
+a kiskereskedelmi barangolási többletdíj alkalmazásának, valamint az Európai Unión belüli szabályozott
+hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjaktól való eltérés engedélyezésének részletes
+szabályairól
+Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (3) bekezdés 38. pontjában kapott felhatalmazás alapján,
+a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (5) bekezdésében meghatározott
+feladatkörömben eljárva, a következőket rendelem el:
+1. Általános rendelkezések
+1. §
+A rendelet hatálya
+a) a barangolásszolgáltatóra és
+b) az Európai Unión (a továbbiakban: EU) belüli szabályozott hírközlési szolgáltatást nyújtó szolgáltatóra
+terjed ki.
+2. §
+E rendelet alkalmazásában
+a) barangolásszolgáltató: az EU-n belüli nyilvános mobilhírközlő hálózatok közötti barangolásról szóló,
+2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés a) pontjában
+meghatározott vállalkozás;
+b) EU-n belüli szabályozott hírközlési szolgáltatás: az Európai Elektronikus Hírközlési Szabályozók
+Testületének (BEREC) és a BEREC Működését Segítő Ügynökségnek (BEREC Hivatal) a létrehozásáról,
+
+az (EU) 2015/2120 rendelet módosításáról, valamint az 1211/2009/EK rendelet hatályon kívül helyezéséről
+szóló, 2018. december 11-i (EU) 2018/1971 európai parlamenti és a tanácsi rendelet 50. cikk 3. pontjában
+meghatározott szolgáltatás;
+c) kiskereskedelmi barangolási többletdíj: a barangolásszolgáltató által a belföldi kiskereskedelmi áron felül
+felszámított díj;
+d) kiskereskedelmi barangolási veszteség: a méltányos használatra vonatkozó feltételek alkalmazására és
+a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának értékelési módszertanára, valamint
+a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre vonatkozó részletes szabályok
+megállapításáról szóló, 2016. december 15-i (EU) 2016/2286 bizottsági végrehajtási rendelet szerinti negatív
+kiskereskedelmi barangolási nettó árrés, amely a szabályozott kiskereskedelmi barangolási szolgáltatások
+nyújtásából származó bevételek és az ilyen szolgáltatások nyújtására fordított költségek különbözeteként
+számított negatív összegnek felel meg.
+2. A kiskereskedelmi barangolási többletdíj alkalmazásának részletes szabályai
+3. § (1) A barangolásszolgáltató a belföldi díjszabási modellje fenntarthatóságának biztosítása érdekében, kiskereskedelmi
+barangolási többletdíj (a továbbiakban: többletdíj) alkalmazásának engedélyezése iránt a méltányos használatra
+vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának
+értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre
+vonatkozó részletes szabályok megállapításáról szóló, 2016. december 15-i (EU) 2016/2286 bizottsági végrehajtási
+rendelet (a továbbiakban: roaming végrehajtási rendelet) III. szakaszában meghatározott tartalom szerint kérelmet
+nyújthat be az Elnökhöz.
+(2) Az Elnök a kérelem alapján, az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming)
+szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: roaming rendelet)
+alkalmazásával jár el, és a többletdíj alkalmazását határozatában
+a) engedélyezi;
+b) elutasítja vagy
+c) a többletdíj kérelemben megjelölt mértékét módosítja.
+(3) A (2) bekezdés a) és c) pontjában foglalt esetben az Elnök határozatában megállapítja az igazolt kiskereskedelmi
+barangolási veszteség mértékét és a többletdíj meghatározásához figyelembe vett szolgáltatásmennyiséget is,
+továbbá a többletdíj alkalmazására vonatkozó hatósági engedély időbeli hatályát, amely a barangolásszolgáltató
+kérelmében megjelölt időtartam, de legfeljebb 12 hónap lehet.
+(4) Ha a kérelem a hiánypótlást és a barangolásszolgáltató meghallgatását követően is hiányos, illetve nyilvánvalóan
+megalapozatlan, az Elnök a rendelkezésre álló adatok alapján dönt vagy elutasítja a kérelmet.
+(5) Ha a kérelmező (2) bekezdés szerinti határozat időbeli hatályának lejárta előtt legalább 90 nappal benyújtott
+kérelme alapján az Elnök megállapítja, hogy
+a) a (2) bekezdés szerinti határozat alapjául szolgáló, a (3) bekezdés szerinti igazolt kiskereskedelmi barangolási
+veszteség mértéke nem változott, határozattal a kérelemben megjelölt időtartammal, de legfeljebb
+12 hónappal meghosszabbítja a kérelmező engedélyét;
+b) a (2) bekezdés szerinti határozat alapjául szolgáló, a (3) bekezdés szerinti igazolt kiskereskedelmi barangolási
+veszteség mértéke megváltozott, határozattal módosítja a (2) bekezdés szerinti határozatot a többletdíj
+mértéke tekintetében és a hatósági engedély időbeli hatályát legfeljebb 12 hónappal meghosszabbítja;
+c) a többletdíj felszámítása a roaming rendelet alapján nem megengedhető, elutasítja a kérelmet.
+(6) A kérelmező (5) bekezdésben foglalt határidőn túl benyújtott kérelme alapján a határozat időbeli hatálya nem
+hosszabbítható meg és nem is módosítható. Ebben az esetben az Elnök a kérelem alapján új hatósági eljárásban
+a (2)–(4) bekezdésben foglalt szabályok szerint jár el.
+(7) Ha a többletdíj engedélyezését követően a roaming végrehajtási rendelet III. szakaszában meghatározott adatok
+változása miatt a (3) bekezdés szerinti igazolt kiskereskedelmi barangolási veszteség mértéke megváltozik, vagy
+a roaming végrehajtási rendelet szerinti feltételek már nem állnak fenn, hivatalból indított vagy a kérelmező
+kérelmére induló hatósági eljárásban az Elnök a határozatot módosíthatja vagy visszavonhatja.
+
+3. Az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjaktól való
+eltérés engedélyezésének részletes szabályai
+4. § (1) Ha az EU-n belüli szabályozott hírközlési szolgáltatásokat (a továbbiakban: tagállamok közötti szolgáltatások)
+nyújtó szolgáltató (a továbbiakban: szolgáltató) megítélése szerint sajátos és rendkívüli, a legtöbb uniós szolgáltató
+esetében fennállótól eltérő körülmények miatt a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott
+hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjakkal kapcsolatos intézkedések meghozataláról, továbbá
+a 2002/22/EK irányelv és az 531/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2120 európai
+parlamenti és tanácsi rendeletben (a továbbiakban: díjrendelet) meghatározott felső határértékek alkalmazása
+jelentősen befolyásolná a belföldi hírközlési szolgáltatási díjainak fenntartására vonatkozó képességét, akkor
+a szolgáltató az említett felső határértékektől való eltérés engedélyezése iránt a Nemzeti Média- és Hírközlési
+Hatóság honlapján található nyomtatványon – elektronikus kapcsolattartás esetén elektronikus űrlapon – kérelmet
+nyújthat be az Elnökhöz.
+(2) A kérelem tartalmazza, hogy a kért eltérés mely felső határértékre vonatkozik, a kért eltérés mértékét, annak
+indokolását és számítási módját. Az (1) bekezdésben foglalt körülmények fennállását a szolgáltatónak bizonyítania
+kell.
+(3) Az Elnök a kérelem alapján határozatában a tagállamok közötti szolgáltatásokra vonatkozó kiskereskedelmi díjaktól
+való eltérést a díjrendeletben foglaltak szerint
+a) engedélyezi;
+b) elutasítja vagy
+c) az eltérés kérelemben megjelölt mértékét módosítja.
+(4) Ha a kérelem a hiánypótlást és a szolgáltató meghallgatását követően is nyilvánvalóan hiányos vagy
+megalapozatlan, az Elnök a rendelkezésre álló adatok alapján dönt vagy elutasítja a kérelmet.
+(5) A (2) bekezdés a) és c) pontjában foglalt esetben az Elnök határozatában megállapítja a díjrendeletben
+meghatározott felső határérték és az engedélyezett eltérés összegeként felszámítható maximális díjat is.
+(6) A kiskereskedelmi díjaktól való eltérésre és a maximális díjra vonatkozó hatósági engedély időbeli hatálya 12 hónap.
+(7) Az (5) bekezdés szerinti határozat időbeli hatályának meghosszabbítására irányuló kérelmét a kérelmező
+az (5) bekezdés szerinti határozat (6) bekezdés szerinti időbeli hatályának lejárta előtt legalább 60 nappal nyújthatja
+be, a (2) bekezdés és az 1. melléklet szerinti tartalommal. E határidő elmulasztása jogvesztő, igazolásnak nincs helye.
+(8) Ha a kérelmező (7) bekezdés szerinti kérelme alapján az Elnök megállapítja, hogy a tagállamok közötti
+szolgáltatásokért a fogyasztóknak felszámított maximális kiskereskedelmi díjaktól való eltérés
+a) az (5) bekezdés szerinti határozatban megállapított díjazással továbbra is indokolt, határozatával 12 hónappal
+meghosszabbítja a kérelmező engedélyét;
+b) az (5) bekezdés szerinti határozatban megállapított díjazásnál alacsonyabb vagy magasabb díjazással
+indokolt, határozatával módosítja az (5) bekezdés szerinti határozatot a maximális díj mértéke tekintetében,
+és a hatósági engedély időbeli hatályát 12 hónappal meghosszabbítja vagy
+c) már nem indokolt, elutasítja a kérelmet.
+4. Záró rendelkezések
+5. §
+Ez a rendelet 2020. december 21-én lép hatályba.
+6. §
+Ez a rendelet
+a) az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i
+531/2012/EU európai parlamenti és tanácsi rendelet 6c. cikke;
+b) a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó
+kiskereskedelmi díjakkal kapcsolatos intézkedések meghozataláról, továbbá a 2002/22/EK irányelv és
+az 531/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2120 számú európai parlamenti
+és tanácsi rendelet 7. cikke;
+c) a méltányos használatra vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak
+eltörlése fenntarthatóságának értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés
+céljából benyújtandó kérelemre vonatkozó részletes szabályok megállapításáról szóló, 2016. december 15-i
+(EU) 2016/2286 bizottsági végrehajtási rendelet 10. cikke és
+
+d) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és a BEREC Működését Segítő
+Ügynökségnek (BEREC Hivatal) a létrehozásáról, az (EU) 2015/2120 rendelet módosításáról, valamint
+az 1211/2009/EK rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1971 európai
+parlamenti és a tanácsi rendelet 50. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
+ Dr. Karas Monika s. k.,
+ a Nemzeti Média- és Hírközlési Hatóság elnöke
+1. melléklet a 6/2020. (XI. 28.) NMHH rendelethez
+Kérelem az EU-n belüli szabályozott hírközlési szolgáltatásokért a fogyasztóknak felszámítható
+maximális kiskereskedelmi díjaktól való eltérés engedélyezésére
+I. A KÉRELMEZŐ ADATAI
+ 1. A KÉRELMEZŐ NEVE:
+
+ 2. A KÉRELMEZŐ SZÉKHELYE/LAKCÍME:
+
+ 3. A KÉRELMEZŐ CÉGJEGYZÉKSZÁMA, ILLETVE NYILVÁNTARTÁSI SZÁMA VAGY EGYÉNI VÁLLALKOZÓI IGAZOLVÁNY
+ SZÁMA VAGY SZEMÉLYI IGAZOLVÁNY SZÁMA:
+
+ 4. A KÉRELMEZŐ VEZETŐ TISZTSÉGVISELŐJÉNEK, KÉPVISELŐJÉNEK NEVE:
+
+ 5. A KÉRELMEZŐ VEZETŐ TISZTSÉGVISELŐJÉNEK, KÉPVISELŐJÉNEK TELEFONSZÁMA:
+
+ 6. A KÉRELMEZŐ VEZETŐ TISZTSÉGVISELŐJÉNEK, KÉPVISELŐJÉNEK ELEKTRONIKUS LEVELEZÉSI CÍME:
+
+II. A KÉRELEM RÖVID ISMERTETÉSE
+Kérjük, itt ismertesse az eltérés kérelmezett mértékét és annak indoklását:
+III. RÉSZLETES SZÁMÍTÁSOK ÉS AZOK DOKUMENTÁCIÓJA
+Kérjük, adathordozón (CD, DVD) csatolja a részletes számításokat és azok dokumentációját a „BEREC GUIDELINES
+on Intra-EU communications”, magyar nyelven „IRÁNYMUTATÁSOK az EU-n belüli hírközlési szolgáltatásokról”
+című iránymutatás 2. számú mellékletében (Annex 2 – Template for derogation) szereplő Excel-táblázat
+figyelembevételével.
+Fenti iránymutatás a Nemzeti Média- és Hírközlési Hatóság honlapjáról az alábbi címen érhető el:
+http://nmhh.hu/szakmai-erdekeltek/hirkozles-szabalyozas
+
+V. A Kormány tagjainak rendeletei
