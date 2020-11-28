@@ -1,0 +1,3 @@
+4. § A Vet. 142. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A rendszerhasználati díjakat olyan módon kell szabályozni, hogy a legkisebb költség elvét alapul véve a hatékonyan működő engedélyes vállalkozás indokolt költsége – beleértve a tőkeköltséget is – kerüljön figyelembevételre, ugyanakkor tegye lehetővé a közcélú hálózat működőképességéhez szükséges beruházások megfelelő finanszírozását, valamint a szabályozás ösztönözze az érintett engedélyeseket rövid és hosszú távon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére.”
