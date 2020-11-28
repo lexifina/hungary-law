@@ -1,6 +1,6 @@
 ## 1. egyetért az egri Szent Antal Minorita templom és rendház további rekonstrukciója, korszerűsítése beruházás előkészítésével;
 
-## 2.[^1] az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés b), c), m), o) pontja szerinti előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 351 225 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű irányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. november 30. napjáig kell megvalósítani;
+## 2.[^1] az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés b), c), m), o) pontja szerinti előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 351 225 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű irányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2021. április 30. napjáig kell megvalósítani;
 
 ## 3. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként a miniszterelnök általános helyettesét jelöli ki;
 
@@ -118,4 +118,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1390/2020. (VII. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1861/2020. (XI. 28.) Korm. határozat 2. pontja szerint módosított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1651-30
 | --- | --- | --- |
 | 2018-12-06 | 2018-1651-30-22.1 | 1651/2018. (XII. 6.) Korm. határozat |
 | 2020-07-10 | 2018-1651-30-22.2 | 1390/2020. (VII. 10.) Korm. határozat |
+| 2020-11-28 | 2018-1651-30-22.3 | 1861/2020. (XI. 28.) Korm. határozat |
