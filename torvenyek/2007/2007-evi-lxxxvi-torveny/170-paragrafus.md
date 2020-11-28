@@ -194,11 +194,11 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
-1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
+1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait,
 
-2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
+2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait,
 
-3. a kiegyenlítő fizetés végrehajtása érdekében a kiegyenlítő befizetés, valamint a kiegyenlítő kifizetés mértékét és formáját, továbbá a kiegyenlítő fizetés elszámolási szabályait,
+3. a kiegyenlítő fizetés végrehajtása érdekében a kiegyenlítő fizetés formáját, továbbá a kiegyenlítő fizetés elszámolási szabályait,
 
 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
 
@@ -220,4 +220,4 @@ e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a 
 
 8. a demonstrációs projektté minősítés követelményeit és eljárásrendjét.
 
-9. az elosztó által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.
+9. az elosztó által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.

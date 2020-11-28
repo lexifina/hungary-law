@@ -10,13 +10,13 @@
 
 (6) Az (1) bekezdés szerinti hatósági árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon lehet eltérni.
 
-(7) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
+(7) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály vagy határozat megsértésével más árban állapodtak meg.
 
 (8) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
 (9) A hatósági árakra vonatkozó előírások betartását a Hivatal ellenőrzi.
 
-(10) A 142. § (1) bekezdés szerinti rendszerhasználati díjak, a 146. § (1) és (4) bekezdése szerinti külön díjak, valamint a 146/A. § (1) bekezdése szerinti csatlakozási díjak szabályozása négyéves árszabályozási ciklusok keretében történik. A Hivatal az árszabályozási ciklus indulását megelőzően eszköz- és költség-felülvizsgálatot végez.
+(10) A 142. § (1) bekezdése szerinti rendszerhasználati díjak, a 146. § (4) bekezdése szerinti külön díj, valamint a 146/A. § (1) bekezdése szerinti csatlakozási díjak szabályozása árszabályozási ciklusok keretében történik. A Hivatal az árszabályozási ciklus indulását megelőzően eszköz- és költség-felülvizsgálatot végez. A Hivatal elnöke a 143. § (2) bekezdése, 146. § (2) bekezdése és a 146/A. § (1) bekezdése szerinti rendeletben állapítja meg az árszabályozási ciklus kezdő és záró időpontját.
 
 (11) Az engedélyes köteles
 

@@ -40,15 +40,19 @@ e) a folyamatos ellátás vagy a folyamatos közvilágítás biztosítása érde
 
 f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit módosítja.
 
+g) rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait vagy csatlakozási díjakat állapít meg.
+
 (4) Közigazgatási perben a bíróság
 
 a) a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntést,
 
 b) a tanúsítási eljárás eredményeképpen hozott határozatot,
 
-c) a más engedélyes kijelölési eljárás során hozott határozatot továbbá
+c) a más engedélyes kijelölési eljárás során hozott határozatot,
 
 d) a végső menedékes kijelölési eljárásban hozott határozatot
+
+e) a rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait és a csatlakozási díjakat megállapító határozatot
 
 nem változtathatja meg.
 
