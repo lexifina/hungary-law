@@ -1,0 +1,1 @@
+## 5. § A veszélyhelyzet ideje alatt az állami fenntartású fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató intézmény vezetőjét a munkáltatói jogkör gyakorlója pályázat kiírása nélkül nevezi ki vagy bízza meg.
