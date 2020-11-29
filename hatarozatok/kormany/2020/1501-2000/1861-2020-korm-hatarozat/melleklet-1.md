@@ -30,15 +30,9 @@
 
 ## Határidő: azonnal
 
-## 2. Az egri Szent Antal Minorita templom és rendház további rekonstrukciója, korszerűsítése előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1651/2018. (XII. 6.) Korm. határozat 2. pontjában a „2020. november 30.” szövegrész helyébe a „2021. április 30.” szöveg lép.
+## 2.[^1]
 
-## 3. A Budapesti Honvéd Sportegyesület 2020–2023. évi sportcélú létesítményfejlesztési programja előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1166/2020. (IV. 21.) Korm. határozat
-
-## a) 4. pontjában a „2021. február 28.” szövegrész helyébe a „2021. december 15.” szöveg,
-
-## b) 7. pontjában a „2021. május 30.” szövegrész helyébe a „2022. január 30.” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1861/2020. (XI. 28.) Korm. határozathoz
 
@@ -67,3 +61,6 @@ XLVII. Gazdaságvédelmi Alap
 ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 
 Költségvetési év: 2020.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
