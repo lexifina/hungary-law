@@ -4,7 +4,7 @@
 
 (3) A kijelölő okirattal létrejövő állami elhelyezési célú ingatlanhasználati jogviszony keretében a kijelölő okiratban meghatározott (1) bekezdés szerinti költségvetési szerv az állami elhelyezési célú ingatlant díjfizetési kötelezettség nélkül jogosult használni az e törvényben és a végrehajtási rendeletében meghatározottak szerint. A központi költségvetési szerv közfeladat ellátására való tekintettel az állami elhelyezési célú ingatlanhasználati jogviszony nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti gazdasági tevékenységnek.
 
-(4) Állami elhelyezési céllal, az (1) bekezdés szerinti költségvetési szervek javára, kizárólag az MNV Zrt. jogosult nem állami tulajdonú, Magyarország területén található ingatlanra vonatkozó használati jogosultságot eredményező megállapodást kötni.
+(4) Állami elhelyezési céllal az (1) bekezdés szerinti költségvetési szervek javára, – az e törvény végrehajtási rendeletében meghatározott kivétellel – kizárólag az MNV Zrt. jogosult nem állami tulajdonú, Magyarország területén található ingatlanra vonatkozó használati jogosultságot eredményező megállapodást kötni.
 
 (5) Az állami elhelyezési célú ingatlanok vonatkozásában hasznosítási megállapodást – az e törvény végrehajtási rendeletében meghatározott kivétellel – kizárólag az MNV Zrt. köthet, azzal, hogy a hasznosítás a (2) bekezdés szerint kijelölt használó közfeladat ellátását nem akadályozhatja.
 
@@ -33,6 +33,8 @@ c) 100%-os vagy többségi állami tulajdonban álló gazdasági társaságot,
 d) többségi állami tulajdonban álló gazdasági társaság többségi tulajdonában álló gazdasági társaságot
 
 vonhat be.
+
+(8a) Az állami elhelyezési célú ingatlanokat érintő (8) bekezdés szerinti feladatok ellátásába bevont személyek vagy szervezetek jogosultak bontással járó munkálatok elvégzésére és az MNV Zrt. mindenkor hatályos selejtezési szabályzata alapján selejtezésre, a vissznyereményi anyag felújítás, beruházás során történő felhasználására, beépítésére. A (8) bekezdés szerint bevont szervezet a selejtezés műszaki és gazdasági megalapozottságáért, alátámasztottságáért teljes és kizárólagos felelősséggel tartozik, továbbá köteles a selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére.
 
 (9) E § alkalmazásában állami elhelyezési célú ingatlannak minősül:
 

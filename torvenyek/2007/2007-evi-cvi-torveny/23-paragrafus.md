@@ -2,7 +2,13 @@
 
 ## AZ ÁLLAMI VAGYONNAL VALÓ GAZDÁLKODÁS
 
-23. § (1) Az állami vagyonnal a tulajdonosi joggyakorló maga gazdálkodik, vagy szerződés – így különösen bérlet, haszonbérlet, megbízás – alapján hasznosításra átengedi, illetőleg vagyonkezelésbe, haszonélvezetbe adja.
+23. § (1) Az állami vagyonnal a tulajdonosi joggyakorló
+
+a) maga gazdálkodik,
+
+b) szerződés – így különösen bérlet, haszonbérlet, megbízás – alapján hasznosításra átengedi, vagy vagyonkezelésbe, haszonélvezetbe adja,
+
+c) egyoldalú nyilatkozatával – a 28/A. § (2) bekezdése szerinti állami elhelyezési célú ingatlanhasználati jogviszony keretében – központi költségvetési szerv használatába adja.
 
 (2) Az állami vagyon hasznosítására kötött szerződések elsődleges célja az állami vagyon hatékony működtetése, állagának védelme, értékének megőrzése, illetve gyarapítása, az állami és közfeladatok ellátásának elősegítése.
 
