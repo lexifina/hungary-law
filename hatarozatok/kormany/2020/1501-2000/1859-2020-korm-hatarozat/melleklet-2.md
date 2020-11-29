@@ -120,14 +120,6 @@
 
 | 12.2 |  |  |  |  |  |  |  | 2 | 4.1. Kulturális célú beruházások | 360 000 000 | 360 000 000 | Igen |  |  |  |  |
 
-2. melléklet az 1859/2020. (XI. 28.) Korm. határozathoz
+2. melléklet az 1859/2020. (XI. 28.) Korm. határozathoz[^2]
 
-Az 1579/2020. (IX. 10.) Korm. határozat 1. mellékletében foglalt táblázat 6. sora helyébe a következő rendelkezés lép:
-
-| [Sorszám | Önkormányzat neve | Ügylet adatai | Fejlesztés adatai | Kormány által engedélyezett fejlesztéshez kapcsolódó ügyletérték | Kormány az ügylethez/ fejlesztéshez hozzájárul (Igen, Nem, Részben) | Jóváhagyott ügylet adatai |
-
-| Ügylet sorszáma | Devizanem | Ügylet célja | Ügylet típusa | Futamideje (év) | Értéke (Ft) | Fejlesztés sorszáma | Fejlesztés célja | Fejlesztési célhoz az ügylet mekkora értékkel járul hozzá | Ügylet keletkeztetésének ütemezése keletkeztetett adósság nagysága szerint (Ft) |
-
-| 2020 | 2021 | 2022 | 2023-tól] |
-
-| 6 | NYÍRBÁTOR VÁROS ÖNKORMÁNYZATA | 1 | HUF | fejlesztés | Hitel | 16 | 300 000 000 | 1 | 7.11. Ipari park létesítéssel, bővítéssel összefüggő fejlesztés | 300 000 000 | 300 000 000 | Igen | 300 000 000 | 0 | 0 | 0 |
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

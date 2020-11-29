@@ -6,6 +6,8 @@
 
 ## c) fejlesztési célú ügylet esetében az ügyletet csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-## 2. Az önkormányzatok adósságot keletkeztető, valamint kezesség-, illetve garanciavállalásra vonatkozó ügyleteihez történő 2020. júniusi előzetes kormányzati hozzájárulásról szóló 1579/2020. (IX. 10.) Korm. határozat [a továbbiakban: 1579/2020. (IX. 10.) Korm. határozat] 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^1]
 
 1. melléklet az 1859/2020. (XI. 28.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
