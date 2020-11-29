@@ -26,26 +26,12 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-4. A kezességvállalási díjak költségvetési támogatásának összegéről szóló 1778/2018. (XII. 21.) Korm. határozat [a továbbiakban: 1778/2018. (XII. 21.) Korm. határozat] 2. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„2. felhívja az innovációért és technológiáért felelős minisztert, hogy a mikro-, kis- és középvállalkozások hitelezésének támogatása keretében
-
-a) gondoskodjon az intézményi garanciarendszer addicionális finanszírozásának növeléséhez szükséges intézkedésekről szóló 1783/2018. (XII. 21.) Korm. határozat 2. pontjában foglalt addicionalitási kritériumoknak megfelelő, a hitelintézetek által 2019. január 1. és 2020. április 20. napja között kibocsátott, legfeljebb tizenöt év futamidejű, éven túli beruházási és fejlesztési, valamint a négy évet meghaladó, de legfeljebb tizenöt év futamidejű forgóeszköz finanszírozási új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióit – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 0,4%-át kitevő mértékű garanciadíj-támogatás biztosításáról, azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 0,9%-át,
-
-b) gondoskodjon a hitelintézetek által 2020. április 21. napjától kibocsátott, legfeljebb tizenöt év futamidejű éven túli beruházási és fejlesztési, valamint a négy évet meghaladó, de legfeljebb tizenöt év futamidejű forgóeszköz finanszírozási új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióit – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 0,4%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 0,9%-át,
-
-c) gondoskodjon a hitelintézetek által 2020. április 21. napjától kezdődően az Európai Bizottság „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című közleménye (a továbbiakban: Közlemény) alapján az Európai Bizottság határozataiban jóváhagyott határidőig kibocsátott, legfeljebb 6 év futamidejű folyószámla-, forgóeszköz-finanszírozási, beruházási célú, valamint egyéb ügyletkörbe tartozó új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 90%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át,
-
-d) gondoskodjon a hitelintézetek által 2020. október 22. napjától kezdődően a Közlemény alapján az Európai Bizottság határozataiban jóváhagyott határidőig kibocsátott, legfeljebb 10 év futamidejű beruházási célú új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) és c) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, maximálisan 100 000 000 forint hitelösszeg esetén a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás, 100 000 000 forintot meghaladó hitelösszeg esetén a teljes hitelösszeg legfeljebb 2%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: folyamatos”
+4.[^1]
 
 5. A Kormány felhívja a pénzügyminisztert, hogy gondoskodjon az intézményi kezességi díjtámogatások finanszírozásához szükséges összeg, de legfeljebb 4 100 000 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 2. Gazdaságfejlesztési programok jogcím javára.
 
 Felelős: pénzügyminiszter
 
 Határidő: a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
