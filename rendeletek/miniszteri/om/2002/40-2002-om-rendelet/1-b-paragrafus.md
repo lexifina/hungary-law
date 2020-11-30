@@ -1,3 +1,0 @@
-## 1/A. §[^6] A vizsgaanyagok elkészítéséért felelős intézménynek az érettségi vizsgával összefüggő, az általános és részletes követelményekből levezethető, a vizsgaleírásnak megfelelő, a vizsgát érintő tartalmi és eljárásbeli tudnivalókat a május-júniusi vizsgaidőszak kezdete előtt legalább hatvan nappal nyilvánosságra kell hoznia, és a vizsgára jelentkezők számára elérhetővé kell tennie. A október-novemberi vizsgaidőszakban a május-júniusi vizsgaidőszakra nyilvánosságra hozott tudnivalók érvényesek.
-
-[^6]: Az 1/A. §-t a 3/2007. (I. 24.) OKM rendelet 1. §-a iktatta be, szövege a 36/2012. (XI. 14.) EMMI rendelet 2. § e) pontja, a 19/2016. (VIII. 23.) EMMI rendelet 5. §-a szerint módosított szöveg.
