@@ -1,3 +1,1 @@
-## 14. §[^14]
-
-[^14]: A 14. § a 18. § (3) bekezdése alapján 2020. november 30-án lép hatályba.
+## 14. § A 365/2016. (XI. 29.) Korm. rendelet a 3. melléklet szerinti 3. melléklettel egészül ki.
