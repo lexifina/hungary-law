@@ -2,17 +2,17 @@
 
 ## 16. Záró rendelkezések
 
-## 32. §[^88] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+## 32. §[^89] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
 
 a) a szállítható nyomástartó berendezés létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére és feladataira, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,
 
-b) az éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú gáztárolók és üzemi berendezés létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,[^89]
+b) az éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú gáztárolók és üzemi berendezés létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,[^90]
 
 c) a gázüzemű közúti jármű, munkagép és nem közúti gép üzemanyag-ellátó berendezés üzembe helyezésének és üzemeltetésének műszaki biztonsági követelményeire,
 
 d) a veszélyes áruk szállítására használt nem nyomástartó tartály, tartány, csomagolóeszköz (kivéve az ezek szállítására szolgáló szállítóeszköz) üzembe helyezésének és üzemeltetésének műszaki biztonsági követelményeire, feltételeire,
 
-e) ipari, mezőgazdasági vagy szolgáltatási célú hőfejlesztő-hőhasznosító, gáz- és olajfogyasztó technológiai rendszer, létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,[^90]
+e) ipari, mezőgazdasági vagy szolgáltatási célú hőfejlesztő-hőhasznosító, gáz- és olajfogyasztó technológiai rendszer, létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,[^91]
 
 f) a nyomástartó berendezésnek, gáztárolónak, veszélyes folyadékok és olvadékok tárolótartályának, valamint gáz- és olajfogyasztó technológiának nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú, megújuló energiaforrást átalakító, biogázt, biodízelt előállító vagy tároló berendezés, létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,
 
@@ -22,6 +22,6 @@ h) a hegesztett szerkezet gyártásánál, helyszíni szerelésénél, átalakí
 
 i) az adópolitikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékére, valamint a díjak fizetésére
 
-[^88]: A 32. § a 198/2019. (VIII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^89]: Lásd a 3/2020. (I. 13.) ITM rendeletet.
+[^89]: A 32. § a 198/2019. (VIII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^90]: Lásd a 3/2020. (I. 13.) ITM rendeletet.
+[^91]: Lásd a 3/2020. (I. 13.) ITM rendeletet.

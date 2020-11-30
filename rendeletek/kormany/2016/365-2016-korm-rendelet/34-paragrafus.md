@@ -1,4 +1,4 @@
-## 33/A. §[^91] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^92] folyamatban lévő ügyekben is alkalmazni kell.
+## 33/A. §[^92] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^93] folyamatban lévő ügyekben is alkalmazni kell.
 
 34. § (1) E rendelet
 
@@ -12,9 +12,9 @@
 
 5. a 2005/32/EK európai parlamenti és tanácsi irányelvnek az elektromos és elektronikus háztartási és irodai berendezések készenléti és kikapcsolt üzemmódban fellépő elektromosáram-fogyasztására vonatkozó környezetbarát tervezési követelmények tekintetében történő végrehajtásáról szóló, 2008. december 17-i 1275/2008/EK bizottsági rendelet 5. cikkének,
 
-6.[^93] a külső tápegységek környezettudatos tervezésére vonatkozó követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti meghatározásáról, valamint a 278/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1782 bizottsági rendelet 5. cikkének,
+6.[^94] a külső tápegységek környezettudatos tervezésére vonatkozó követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti meghatározásáról, valamint a 278/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1782 bizottsági rendelet 5. cikkének,
 
-7.[^94] a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet,
+7.[^95] a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet,
 
 8. az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló, 2005. december 20-i 2173/2005/EK tanácsi rendelet I. fejezet 2. cikk 8. pontjának, valamint az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló 2173/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes rendelkezések megállapításáról szóló, 2008. október 17-i 1024/2008/EK bizottsági rendelet I. fejezet 2. cikk 4. pontjának,
 
@@ -38,7 +38,7 @@
 
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2)[^95] Ez a rendelet
+(2)[^96] Ez a rendelet
 
 1. az aeroszoladagolókra vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. május 20-i 75/324/EGK tanácsi irányelvnek,
 
@@ -66,8 +66,8 @@
 
 13. a nyomástartó berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. május 15-i 2014/68/EU európai parlamenti és tanácsi irányelvnek
 
-[^91]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
-[^92]: A hatálybalépés időpontja 2017. november 17.
-[^93]: A 34. § (1) bekezdés 6. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^94]: A 34. § (1) bekezdés 7. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^95]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^92]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
+[^93]: A hatálybalépés időpontja 2017. november 17.
+[^94]: A 34. § (1) bekezdés 6. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^95]: A 34. § (1) bekezdés 7. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^96]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
