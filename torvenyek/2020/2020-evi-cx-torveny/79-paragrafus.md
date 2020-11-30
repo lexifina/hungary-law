@@ -1,5 +1,1 @@
-79. § Az MNBtv. 141. §-a helyébe a következő rendelkezés lép:
-
-„141. § (1) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások Hpt. és Bszt. szerinti javadalmazási politikájával kapcsolatban jogszabály alapján nyilvánosságra hozott adatokat, valamint a nemek közötti bérkülönbségről általuk szolgáltatott információkat a javadalmazási trendek értékelése céljából gyűjti. Az MNB ezt az információt megküldi az Európai Bankhatóságnak.
-
-(2) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások esetében a külön jogszabályban meghatározott javadalmazási politika elemzése céljából információt gyűjt azon vezető tisztségviselők és munkavállalók számáról, akik évi 300 millió forintos vagy afölötti javadalmazási kategóriában helyezkednek el, kiegészítve munkaköri feladataikkal, az érintett üzletággal, valamint a javadalmazás fő elemeivel, a teljesítményjavadalmazásokkal, a hosszú távú juttatásokkal és a nyugdíjjuttatásokkal. A befektetési vállalkozás a Felügyelet kérésére annak rendelkezésére bocsátja a vezető testület minden tagja vagy az ügyvezető teljes javadalmazására vonatkozó adatokat. Az MNB ezen információkat továbbítja az Európai Bankhatóságnak.”
+79. §

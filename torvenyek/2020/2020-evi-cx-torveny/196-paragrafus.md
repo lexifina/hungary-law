@@ -25,11 +25,3 @@ e) az (EU) 2016/1011 rendeletnek az uniós éghajlatváltozási referenciamutat�
 f) a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet 5–7. cikkének
 
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

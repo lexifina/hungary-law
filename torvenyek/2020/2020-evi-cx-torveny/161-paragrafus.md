@@ -1,5 +1,1 @@
-161. § A Szantv. VIII. Fejezet címének helyébe a következő rendelkezés lép:
-
-„VIII. FEJEZET
-
-TŐKEELEMEK ÉS LEÍRHATÓ, ILLETVE ÁTALAKÍTHATÓ KÖTELEZETTSÉGEK LEÍRÁSA VAGY ÁTALAKÍTÁSA, VALAMINT AZ ÁLLAMI PÉNZÜGYI STABILIZÁCIÓS ESZKÖZ”
+161. §

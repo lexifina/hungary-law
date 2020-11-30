@@ -1,7 +1,7 @@
 183. § Hatályát veszti a Szantv.
 
-a) 63. §-a,
+a)
 
-b) 64. §-a, és
+b)
 
-c) 151. § (2) bekezdés a) pontjában az „és a befektetési vállalkozásokra” szövegrész.
+c)

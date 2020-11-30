@@ -1,9 +1,1 @@
-169. § A Szantv. 87/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha másik EGT-állam szanálási hatósága gyakorolja leírási vagy átalakítási hatáskörét a hitelezői feltőkésítésbe bevonható kötelezettségek tekintetében – ideértve annak a 74. § szerinti, tőkeelemek kapcsán történő alkalmazását is – a szanálás alatt álló intézmény olyan kötelezettségei, illetve releváns tőkeelemei vonatkozásában, amelyek
-
-a) a magyar jog hatálya alá tartozó instrumentumok vagy kötelezettségek, illetve
-
-b) magyar hitelezőkkel szembeni kötelezettségek,
-
-ezen instrumentumok, illetve kötelezettségek tőkeösszegét a másik EGT-állam szanálási hatósága érvényes és végleges határozatának megfelelően kell csökkenteni, illetve a jogokat vagy kötelezettségeket a másik tagállam szanálási hatósága határozata alapján kell átalakítani abban az esetben is, ha a másik EGT-állam szanálási hatósága által hozott határozat alapján történő leírás vagy átalakítás a magyar jog szerint egyébként nem lenne érvényes.”
+169. §
