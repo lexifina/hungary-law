@@ -6,7 +6,7 @@
 
 | 1. | A megfelelőségértékelési területet szabályozó jogszabály | A felelősségbiztosítás legalább az alábbi összeghatárig nyújtson fedezetet (forint) |
 
-| 2. | a mutatványos berendezések biztonságosságáról szóló jogszabály | 10 000 000 |
+| 2. | az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról szóló jogszabály | 10 000 000 |
 
 | 3. | a csomagolás környezetvédelmi követelményeknek való megfelelősége igazolásának részletes szabályairól szóló jogszabály | 5 000 000 |
 
@@ -46,4 +46,4 @@
 
 | 21. | az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló jogszabály | 50 000 000 |
 
-[^13]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított, a 25/2019. (VIII. 26.) ITM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított, a 25/2019. (VIII. 26.) ITM rendelet 6. § (2) bekezdése, a 26/2020. (VII. 3.) ITM rendelet 1. §-a szerint módosított szöveg.
