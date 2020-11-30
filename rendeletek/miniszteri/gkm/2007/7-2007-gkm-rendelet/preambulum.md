@@ -1,1 +1,0 @@
-A kereskedelemről szóló 2005. évi CLXIV. törvény 12. §-a (2) bekezdésének e) pontjában, valamint a fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
