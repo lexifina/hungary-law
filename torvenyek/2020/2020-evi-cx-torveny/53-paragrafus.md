@@ -1,0 +1,9 @@
+## 6. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
+
+53. § A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) 13. §-a helyébe a következő rendelkezés lép:
+
+„13. § (1) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing igénylése esetén a hitelezőre nézve kötelező ajánlat megtételekor a szerződés tervezetét a fogyasztó kérése nélkül is legalább három nappal a tervezett szerződéskötést megelőzően a fogyasztó rendelkezésére kell bocsátani. A fogyasztó a három nap leteltéig az ajánlatot nem fogadhatja el. A hitelező ajánlati kötöttsége a szerződéstervezet fogyasztó részére történő rendelkezésre bocsátásától számított tizenöt napig áll fenn.
+
+(2) Az (1) bekezdés szerinti szerződések a felek (képviselőik) egyidejű fizikai jelenléte nélkül – a (3) bekezdésben írt kivételtől eltekintve – nem köthetők meg, ez azonban nem akadálya annak, hogy a tájékoztatási kötelezettség teljesítése és annak igazolása, valamint a szerződés tervezetének rendelkezésre bocsátása tekintetében a felek a 8. § (2), illetve (3) bekezdése szerinti utat vegyék igénybe, ha annak feltételei fennállnak.
+
+(3) A (2) bekezdésben foglalt előírás úgy is teljesíthető, ha az ügyfelek az általuk tanúk jelenlétében aláírt szerződést megküldik a hitelezőnek.”

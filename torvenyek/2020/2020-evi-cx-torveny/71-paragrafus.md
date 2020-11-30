@@ -1,0 +1,3 @@
+71. § Az MNBtv. 58. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha a pénzforgalmi szolgáltatónak kézbesített irat az MNB-nek olyan átutalási szolgáltatást érintő döntése, amely átutalás teljesítéséből a pénzforgalmi szolgáltatóra háruló feladatok teljesítésére – törvény vagy az MNB elnökének a pénzforgalom lebonyolításáról szóló rendelete eltérő rendelkezése hiányában – folyamatosan, minden napon 0 órától 24 óráig tartó munkanapot tart, akkor az iratot – az (5) bekezdéstől eltérően – a kézbesítési tárhelyen történt elhelyezését követő negyedik óra elteltével kell kézbesítettnek tekinteni.”

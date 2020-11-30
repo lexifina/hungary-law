@@ -1,0 +1,3 @@
+77. § Az MNBtv. 109. §-a helyébe a következő rendelkezés lép:
+
+„109. § A Pénzügyi Békéltető Testület eljárása során az iratokat a fogyasztónak – a fogyasztó választása szerint papíralapon vagy elektronikus formában – hivatalos iratként, a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet részére hivatalos iratként vagy elektronikus úton kézbesíti. A Pénzügyi Békéltető Testület a fogyasztóval, illetve a 39. §-ban meghatározott törvények hatálya alá tartozó személlyel vagy szervezettel a kézbesítés módjában megállapodhat.”

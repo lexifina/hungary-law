@@ -1,0 +1,3 @@
+171. § A Szantv. 90. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A szanálási feladatkörében eljáró MNB nem gyakorolhatja az (1) bekezdésben meghatározott jogosultságot a Tvt. alkalmazásában kijelölt rendszerek vagy rendszer-üzemeltetők, a 648/2012/EU rendelet 14. cikke alapján EGT-államban engedélyezett központi szerződő felek, valamint az Európai Értékpapír-piaci Hatóság által a 648/2012/EU rendelet 25. cikkének megfelelően elismert harmadik országbeli központi szerződő felek és központi bankok birtokában lévő olyan hitelbiztosíték esetén, amely olyan eszközre vonatkozik, melyre a szanálás alatt álló intézmény letéttel vagy más fedezettel biztosítékot nyújtott.”
