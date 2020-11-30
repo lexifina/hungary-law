@@ -12,9 +12,9 @@ Pleschinger Gyulát 2019. március 5-i hatállyal
 
 – hat évre – a Magyar Nemzeti Bank monetáris tanácsa tagjává
 
-dr. Báger Gusztávot
+dr. Gottfried Pétert 2021. január 1-jei hatállyal
 
-hat évre a Magyar Nemzeti Bank Monetáris Tanácsa tagjává
+a Magyar Nemzeti Bank monetáris tanácsa tagjává
 
 dr. Kardkovács Kolost
 
@@ -28,4 +28,4 @@ megválasztja.
 
 2. E határozat elfogadásakor lép hatályba.
 
-[^2]: Az 1. pont a 22/2011. (III. 22.) OGY határozat 1. pontja, a 10/2013. (III. 5.) OGY határozat 1. pontja, a 76/2013. (X. 1.) OGY határozat 1–2. pontja, a 33/2015. (VII. 7.) OGY határozat 1–2. pontja, a 15/2016. (IX. 14.) OGY határozat 1. pontja, a 8/2017. (III. 22.) OGY határozat 1. pontja alapján módosított szöveg.
+[^2]: Az 1. pont a 22/2011. (III. 22.) OGY határozat 1. pontja, a 10/2013. (III. 5.) OGY határozat 1. pontja, a 76/2013. (X. 1.) OGY határozat 1–2. pontja, a 33/2015. (VII. 7.) OGY határozat 1–2. pontja, a 15/2016. (IX. 14.) OGY határozat 1. pontja, a 8/2017. (III. 22.) OGY határozat 1. pontja, a 39/2020. (XII. 1.) OGY határozat 1. pontja alapján módosított szöveg.
