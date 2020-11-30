@@ -1,0 +1,9 @@
+## 15. § Az I. és a II. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt csak olyan személy kezelheti, akit az országos illetékességgel eljáró Budapest Főváros Kormányhivatala által feljogosított szervezet a berendezés biztonságos üzemeltetésére kioktatott, és ennek tényéről részére igazolást állított ki.
+
+## 8. A szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, szórakozási célú sporteszköz időszakos műszaki vizsgálata
+
+16. § (1) Az I. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezetet, valamint a vasalt út kivételével a szórakozási célú sporteszközt évenként, a II. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, a görgős sporteszközök létesítménye kivételével a szórakozási célú sporteszközt kétévenként, a III. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezet, valamint a vasalt út kivételével a szórakozási célú sporteszközt háromévenként időszakos műszaki vizsgálatnak kell alávetni.
+
+(2) Az I. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezetet háromévenként szétszerelt állapotban, majd azt követően összeszerelt állapotban kell bemutatni a kijelölt szervezetnek. A megbontás mértékét és a szétszerelt állapotban történő vizsgálat műszaki feltételeit a kijelölt szervezet előzetesen határozza meg a vizsgálat bejelentésekor.
+
+(3) Az üzemeltető a megfelelőségi tanúsítvány hatályának lejárta előtt kezdeményezi az időszakos műszaki vizsgálatot a kijelölt szervezetnél. A kijelölt szervezet a műszaki vizsgálatot a (2) bekezdés szerinti szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet telepítési helyén elvégzi. A szétszerelt állapotban történő vizsgálat műszaki feltételeit a kijelölt szervezet határozza meg.

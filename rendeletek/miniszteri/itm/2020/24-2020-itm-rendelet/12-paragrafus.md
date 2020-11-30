@@ -1,0 +1,5 @@
+## 11. § Az üzemeltető változása esetén az új üzemeltető a szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, valamint a vasalt út kivételével a szórakozási célú sporteszköz megfelelőségi tanúsítványát kiállító kijelölt szervezetnél harminc napon belül bejelenti az üzemeltetőváltást.
+
+12. § (1) Az üzemeltető üzemeltetési naplót vezet, amelyben a szórakoztatási célú berendezés, létesítmény minden telepítését követően feltünteti az előírásnak megfelelő szerelést, az üzemórák számát, valamint az üzemelés közben bekövetkezett esetleges hibákat és azok elhárítását. Az üzemeltető az üzemeltetési naplót az üzemeltetés helyszínén tartja.
+
+(2) Az üzemeltető a szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, valamint vasalt út kivételével a szórakozási célú sporteszköz valamennyi üzembe helyezése, illetve használata előtt meggyőződik arról, hogy a berendezés, létesítmény, sporteszköz állapota és szerelése, valamint az alkalmazott érintésvédelem megfelel a biztonságossági követelményeknek.
