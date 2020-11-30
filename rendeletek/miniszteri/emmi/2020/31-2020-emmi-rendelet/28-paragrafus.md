@@ -1,4 +1,4 @@
-## 27. §[^28]
+## 27. § Hatályát veszti az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet.
 
 ## 5. Záró rendelkezések
 
@@ -7,5 +7,3 @@
 (2) A 27. § 2020. november 30-án lép hatályba.
 
 (3) A 20. § (2) bekezdése 2023. szeptember 1-jén lép hatályba.
-
-[^28]: A 27. § a 28. § (2) bekezdése alapján 2020. november 30-án lép hatályba.
