@@ -18,13 +18,13 @@ A Kormány a Klíma- és Természetvédelmi Akciótervben foglaltak alapján, az
 
 (a továbbiakban együtt: közreműködő szervezetek),
 
-1.2. azzal, hogy a Projekt 2020 második félévében megvalósuló I. ütemének (a továbbiakban: I. ütem) végrehajtására összesen 13 000 000 000 forint kerüljön biztosításra,
+1.2.[^1] azzal, hogy a Projekt 2021. április 30-ig megvalósuló I. ütemének (a továbbiakban: I. ütem) végrehajtására összesen 13 000 000 000 forint kerüljön biztosításra,
 
 1.3. azzal, hogy a Projekt koordinációját – a hulladékgazdálkodásért való felelőssége keretében – az innovációért és technológiáért felelős miniszter lássa el (a továbbiakban: koordináló miniszter),
 
 1.4. azzal, hogy a Projekt I. ütemének 2020. szeptember 30. napjáig tartó első szakaszában – az 1.1. alpont 1.1.5. pontjában meghatározott esetben településkategóriánként – valamennyi közreműködő szervezeti kategóriában pilothelyszínek kerülnek kijelölésre,
 
-1.5. azzal, hogy a Projekt I. ütemének 2020. október 1. és december 31. közötti második szakaszában a pilothelyszíneken illegális hulladék összegyűjtésének hulladékgazdálkodási adatai – így különösen a hulladék becsült mennyisége, összetétele, az elszállítás feltételei – alapján kerül sor az ország közreműködő szervezetek által felügyelt, kezelt területei közül az illegális hulladékkal leginkább szennyezett területek felszámolására,
+1.5.[^2] azzal, hogy a Projekt I. ütemének 2020. október 1. és 2021. április 30. közötti második szakaszában a pilothelyszíneken illegális hulladék összegyűjtésének hulladékgazdálkodási adatai – így különösen a hulladék becsült mennyisége, összetétele, az elszállítás feltételei – alapján kerül sor az ország közreműködő szervezetek által felügyelt, kezelt területei közül az illegális hulladékkal leginkább szennyezett területek felszámolására,
 
 1.6. azzal, hogy Hulladék Radar elnevezéssel egy applikáció (a továbbiakban: applikáció) kerüljön kifejlesztésre, amely bárki számára, ingyenesen elérhető, és amely beazonosítható módon képes egy háttéradatbázisban a beérkezett bejelentésnek a közreműködő szervezetek – illetve ahol a bejelentés nem a Projektben közreműködő szervezetként részt vevő tulajdonában, vagyonkezelésében vagy kezelésében lévő ingatlant érint, a települési jegyző – részére történő automatikus továbbítására,
 
@@ -98,11 +98,15 @@ Határidő: azonnal
 
 5.1.8. építési és bontási hulladék pilot: Sümeg,
 
-5.2. pályázati konstrukció kimunkálásáról a civil szervezetek, gazdálkodó szervezetek és egyházi jogi személyek támogatása érdekében és a támogatási szerződések megkötéséről azzal, hogy a gazdasági társaságok a hulladék összegyűjtésére nem, csak a szállítására és a deponálására pályázhatnak,
+5.2.[^3] pályázati konstrukció kimunkálásáról a civil szervezetek, gazdálkodó szervezetek és egyházi jogi személyek támogatása érdekében, illetve egyedi támogatás biztosításáról a civil szervezetek támogatása érdekében, és a támogatási szerződések megkötéséről azzal, hogy a gazdasági társaságok a hulladék összegyűjtésére nem, csak a szállítására és a deponálására pályázhatnak,
 
 5.3. az applikáció és a háttéradatbázis működtetéséről, továbbfejlesztéséről legfeljebb 800 000 000 forint felhasználásával,
 
 5.4. a koordináló miniszter által ellátott projektmenedzsment feladatok ellátásáról legfeljebb 50 000 000 forint felhasználásával;
+
+5.5.[^4] ingatlanvédelmi eszközökre (így különösen kamera, sorompó, drón) fordítandó pályázati konstrukció kimunkálásáról a közreműködő szervezetek, az állami tulajdonú gazdasági társaságok támogatása érdekében, valamint a támogatási szerződések megkötéséről 1 000 000 000 forint felhasználásával,
+
+5.6.[^5] az 5.2., 5.4. és 5.5. alpontban meghatározott feladatnak – az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság közreműködésével történő – végrehajtásáról 8 137 486 378 forint felhasználásával;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -166,11 +170,11 @@ belügyminiszter
 
 Határidő: 2020. december 31.
 
-9. felhívja az innovációért és technológiáért felelős minisztert, hogy a Projekt I. ütemének lezárását – az önkormányzatok esetében a pilotok lezárását – követően készítsen előterjesztést a Kormány részére a 2021. évre vonatkozó II. ütem feladattervéről és költségkalkulációjáról;
+9.[^6] felhívja az innovációért és technológiáért felelős minisztert, hogy a Projekt I. ütemének lezárását – az önkormányzatok esetében a pilotok lezárását – követően készítsen előterjesztést a Kormány részére a 2021. évre vonatkozó II. ütem feladattervéről és költségkalkulációjáról;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
-Határidő: 2021. január 31.
+Határidő: 2021. május 31.
 
 10. felhívja
 
@@ -189,3 +193,10 @@ belügyminiszter
 innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
+
+[^1]: Az 1. pont 1.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.5. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^3]: Az 5. pont 5.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 5. pont 5.5. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
+[^5]: Az 5. pont 5.6. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
+[^6]: A 9. pont az 1862/2020. (XI. 30.) Korm. határozat 4. pontjával megállapított szöveg.
