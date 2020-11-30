@@ -4,4 +4,4 @@
 
 (2) A 11. § (2) bekezdése 2020. október 1-jén lép hatályba.
 
-(3) A 8. § (2) bekezdése, a 21. §, valamint a 22. § 2020. december 1-jén lép hatályba.
+(3) A 8. § (2) bekezdése, a 21. §, valamint a 22. § 2021. június 1-jén lép hatályba.
