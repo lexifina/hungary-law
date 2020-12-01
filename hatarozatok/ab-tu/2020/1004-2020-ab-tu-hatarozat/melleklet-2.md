@@ -1,4 +1,4 @@
-2. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz
+2. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^2]
 
 Állománytábla
 
@@ -12,7 +12,7 @@
 
 | Elnöki kabinet | Kabinetfőnök | 1 |
 
-| Elnöki kabineti jogászok | 5 |
+| Elnöki kabineti jogászok | 6 |
 
 | Nemzetközi és protokollügyi munkatárs | 1 |
 
@@ -58,6 +58,8 @@
 
 | Gépkocsivezetők | 17 |
 
-| Összesen |  | 140 |
+| Összesen |  | 141 |
 
 Alkotmánybírósági ügyszám: XVIII/549/2020.
+
+[^2]: A 2. melléklet az 1007/2020. (XI. 19.) AB Tü. határozat 1. pontjával megállapított szöveg.
