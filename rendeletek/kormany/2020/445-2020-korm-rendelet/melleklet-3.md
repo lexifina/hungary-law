@@ -1,3 +1,51 @@
-3. melléklet a 445/2020. (X. 1.) Korm. rendelethez[^47]
+3. melléklet a 445/2020. (X. 1.) Korm. rendelethez
 
-[^47]: A 3. melléklet a 24. § (2) bekezdése alapján 2020. december 1-jén lép hatályba.
+„1. melléklet a 121/2012. (VI. 26.) Korm. rendelethez
+
+A személyszállítási közszolgáltatás keretében nyújtott kedvezményes és díjmentes személyszállítási tevékenységhez kapcsolódóan igénybe vehető szociálpolitikai menetdíj-támogatás mértéke
+
+|  | A | B | C | D | E |
+
+| 1. | A támogatás |
+
+| 2. | feltétele | alapja | mértéke |
+
+| 3. | Országos, regionális és elővárosi személyszállítási közszolgáltatási tevékenység | kedvezményes | 50%-os jegy | a tárgyhónapban eladott kedvezményes árú jegy ára | 100% |
+
+| 4. | 90%-os jegy | 900% |
+
+| 5. | 90%-os bérlet | a tárgyhónapban eladott kedvezményes árú bérlet ára | 900% |
+
+| 6. | díjmentes | autóbusz-közlekedés esetén | a tárgyhónapban teljesített szolgáltatásból származó bruttó menetdíjbevétel | 20% |
+
+| 7. | vasúti közlekedés esetén | 30% |
+
+| 8. | Helyi személyszállítási közszolgáltatási tevékenység | kedvezményes | Budapest | a tárgyhónapban eladott kedvezményes árú bérlet száma | 3580 Ft/hó/db |
+
+| 9. | megyei jogú városok | kizárólag autóbuszra | 2030 Ft/hó/db |
+
+| 10. | kizárólag villamosra | 1330 Ft/hó/db |
+
+| 11. | villamosra vagy trolibuszra | 1330 Ft/hó/db |
+
+| 12. | villamosra és trolibuszra | 1380 Ft/hó/db |
+
+| 13. | autóbuszra, villamosra és trolibuszra (kombinált) | 2520 Ft/hó/db |
+
+| 14. | egyéb település | 1710 Ft/hó/db |
+
+| 15. | díjmentes | Budapest | a Központi Statisztikai Hivatal által az adott településre a támogatás igénylése időpontjában közzétett lakosságszám | 368 Ft/fő/ település/hó |
+
+| 16. | villamos- és autóbusz- közlekedéssel rendelkező megyei jogú város | 236 Ft/fő/ település/hó |
+
+| 17. | kizárólag autóbusz közlekedéssel rendelkező megyei jogú város | 120 Ft/fő/ település/hó |
+
+| 18. | egyéb település | 18 Ft/fő/ település/hó |
+
+| 19. | Komp- és révközlekedésben nyújtott személyszállítási közszolgáltatási tevékenység | kedvezményes | a tárgyhónapban eladott kedvezményes árú jegy darabszáma | 100 Ft/db/hó |
+
+| 20. | a tárgyhónapban eladott kedvezményes árú bérlet darabszáma | 1000 Ft/db |
+
+| 21. | díjmentes | a tárgyhónapban teljesített szolgáltatásból származó bruttó menetdíjbevétel | 5% |
+
+”
