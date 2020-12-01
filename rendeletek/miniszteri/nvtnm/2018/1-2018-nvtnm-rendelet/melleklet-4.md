@@ -18,7 +18,7 @@
 
 | 6. | Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049807 | 2022. december 31. |
 
-| 7. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2022. december 31. |
+| 7. |  |  |  |
 
 | 8. | Gödöllői Királyi Kastély Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-14-000003 | 2022. december 31. |
 

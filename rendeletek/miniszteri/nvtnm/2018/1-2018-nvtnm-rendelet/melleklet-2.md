@@ -300,6 +300,8 @@
 
 | 13. | Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 08-10-001916 | 2022. december 31. |
 
+| 14. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2022. december 31. |
+
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 
 |  | A | B | C |
