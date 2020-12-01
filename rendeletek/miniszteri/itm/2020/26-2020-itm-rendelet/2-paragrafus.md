@@ -1,3 +1,5 @@
-## 1. § Az iparügyekért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésének, valamint a megfelelőségértékelő szervezetek tevékenységének különös szabályairól szóló 5/2010. (I. 14.) NFGM rendelet 2. mellékletében foglalt táblázat A:2 mezőjében az „a mutatványos berendezések biztonságosságáról” szövegrész helyébe az „az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról” szöveg lép.
+## 1. §[^2]
 
 2. § Ez a rendelet 2020. november 30-án lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
