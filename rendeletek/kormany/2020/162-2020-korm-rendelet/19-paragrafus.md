@@ -1,0 +1,1 @@
+## 18. § Az e rendelet hatálybalépését megelőzően kommunikációs beszerzés vonatkozásában megindított eljárások, illetve azok eredményeként megkötött keretmegállapodások, keretszerződések, valamint egyedi szerződések hatályát e rendelet nem érinti.
