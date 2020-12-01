@@ -1,1 +1,0 @@
-## Díjfizetési kötelezettség
