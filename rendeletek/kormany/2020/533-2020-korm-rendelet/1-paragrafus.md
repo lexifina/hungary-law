@@ -1,0 +1,5 @@
+1. § (1) A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet (a továbbiakban: R.) 97. §-a a következő (3b) bekezdéssel egészül ki:
+
+## „(3b) A dinamikus beszerzési rendszer felállításakor vagy módosításakor – a becsült értéktől függetlenül – a 101–107. § szabályai szerint kell eljárni. A dinamikus beszerzési rendszer felállítását követően az ajánlattételi szakaszra és a dinamikus beszerzési rendszer keretében megkötött szerződések módosítására a 109. § szerinti utólagos ellenőrzés szabályait kell alkalmazni. A dinamikus beszerzési rendszer felállítását követően elbírált részvételi jelentkezések bírálati dokumentumait a részvételre jelentkezők dinamikus beszerzési rendszerbe történő felvételéről vagy annak elutasításáról való értesítését követő első ajánlattételi szakasz dokumentumaival együtt kell az irányító hatósághoz és a közbeszerzésekért felelős miniszterhez benyújtani, az utólagos ellenőrzés szabályainak megfelelően.”
+
+(2) Az R. 109. § (1) bekezdése helyébe a következő rendelkezés lép:
