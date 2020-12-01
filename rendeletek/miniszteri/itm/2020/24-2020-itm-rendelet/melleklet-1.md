@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti a mutatványos berendezések biztonságosságáról szóló 7/2007. (I. 22.) GKM rendelet.
+## 22. §[^1]
 
 1. melléklet a 24/2020. (VII. 3.) ITM rendelethez
 
@@ -129,3 +129,5 @@
 3.4. A 3.1. és 3.2. pontba tartozó berendezések vagy sporteszközök bármelyikével rendelkező játszóház.
 
 3.5. Egyéb olyan, külön nem nevesített szórakoztatási célú berendezés és létesítmény, szórakozási célú sporteszköz, amely a 3.1. vagy 3.2. pontban meghatározott műszaki kritériumokat kielégíti.
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
