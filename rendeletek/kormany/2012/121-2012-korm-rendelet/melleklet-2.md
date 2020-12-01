@@ -6,15 +6,15 @@
 
 | 2. | feltétele | alapja | mértéke |
 
-| 3. | Országos, regionális és elővárosi személyszállítási közszolgáltatási tevékenység | kedvezményes | 50%-os jegy | a tárgyhónapban eladott kedvezményes árú jegy ára | 45% |
+| 3. | Országos, regionális és elővárosi személyszállítási közszolgáltatási tevékenység | kedvezményes | 50%-os jegy | a tárgyhónapban eladott kedvezményes árú jegy ára | 100% |
 
-| 4. | 90%-os jegy | 445% |
+| 4. | 90%-os jegy | 900% |
 
-| 5. | 90%-os bérlet | a tárgyhónapban eladott kedvezményes árú bérlet ára | 600% |
+| 5. | 90%-os bérlet | a tárgyhónapban eladott kedvezményes árú bérlet ára | 900% |
 
-| 6. | díjmentes | autóbusz közlekedés esetén | a tárgyhónapban teljesített szolgáltatásból származó bruttó menetdíjbevétel | 9% |
+| 6. | díjmentes | autóbusz-közlekedés esetén | a tárgyhónapban teljesített szolgáltatásból származó bruttó menetdíjbevétel | 20% |
 
-| 7. | vasúti közlekedés esetén | 16% |
+| 7. | vasúti közlekedés esetén | 30% |
 
 | 8. | Helyi személyszállítási közszolgáltatási tevékenység | kedvezményes | Budapest | a tárgyhónapban eladott kedvezményes árú bérlet száma | 3580 Ft/hó/db |
 
@@ -32,7 +32,7 @@
 
 | 15. | díjmentes | Budapest | a Központi Statisztikai Hivatal által az adott településre a támogatás igénylése időpontjában közzétett lakosságszám | 368 Ft/fő/ település/hó |
 
-| 16. | villamos és autóbusz közlekedéssel rendelkező megyei jogú város | 236 Ft/fő/ település/hó |
+| 16. | villamos- és autóbusz- közlekedéssel rendelkező megyei jogú város | 236 Ft/fő/ település/hó |
 
 | 17. | kizárólag autóbusz közlekedéssel rendelkező megyei jogú város | 120 Ft/fő/ település/hó |
 

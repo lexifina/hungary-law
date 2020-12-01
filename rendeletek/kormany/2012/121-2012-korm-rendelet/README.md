@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-121-20-
 | 2012-07-02 | 2012-121-20-22.2 | 2010: CXXX. törvény |
 | 2012-07-03 | 2012-121-20-22.3 | 2010: CXXX. törvény |
 | 2013-11-01 | 2012-121-20-22.4 | 370/2013. (X. 24.) Korm. rendelet |
+| 2020-12-01 | 2012-121-20-22.5 | 445/2020. (X. 1.) Korm. rendelet |
