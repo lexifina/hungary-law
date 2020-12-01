@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-131-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-12-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-131-00-00.1 |
+| 2020-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-131-00-00.2 |
