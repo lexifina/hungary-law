@@ -1,0 +1,1 @@
+## 5. § A NÚSZ Zrt. a vele megállapodást kötő viszonteladóknak átalány-költségtérítést fizet, amelynek alapja az értékesített jogosultság általános forgalmi adó nélkül számított összege. A költségtérítés mértéke 1,9%.
