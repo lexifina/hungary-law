@@ -8,13 +8,16 @@
 
 (3a)[^564] A keretmegállapodásos eljárás második részében, ha a közvetlen megrendelésre a központosított közbeszerzési portálon keresztül kerül sor, értékhatártól függetlenül e fejezetet és az 1. melléklet XIX. Fejezetét nem, hanem a kifizetési igénylés, a beszámolás, elszámolás és az ellenőrzés, helyszíni ellenőrzés általános szabályait, így különösen a 122–126/A. és 127. §-t, a XXVI. Fejezetet, az 1. melléklet XI. Fejezetét és a 4. mellékletet kell alkalmazni, különösen a szokásos piaci árnak való megfelelést alátámasztó dokumentumokon keresztül.
 
+(3b)[^565] A dinamikus beszerzési rendszer felállításakor vagy módosításakor – a becsült értéktől függetlenül – a 101–107. § szabályai szerint kell eljárni. A dinamikus beszerzési rendszer felállítását követően az ajánlattételi szakaszra és a dinamikus beszerzési rendszer keretében megkötött szerződések módosítására a 109. § szerinti utólagos ellenőrzés szabályait kell alkalmazni. A dinamikus beszerzési rendszer felállítását követően elbírált részvételi jelentkezések bírálati dokumentumait a részvételre jelentkezők dinamikus beszerzési rendszerbe történő felvételéről vagy annak elutasításáról való értesítését követő első ajánlattételi szakasz dokumentumaival együtt kell az irányító hatósághoz és a közbeszerzésekért felelős miniszterhez benyújtani, az utólagos ellenőrzés szabályainak megfelelően.
+
 (4) A (2) és (3) bekezdés alkalmazásában, a keretmegállapodásos eljárás második része tekintetében, uniós értékhatár alatt a keretmegállapodásos eljárások második részében lefolytatott eljárás megkezdésekor hatályos uniós értékhatárt kell érteni.
 
-(5)[^565] EMVA forrásból nyújtott támogatás esetén a Kbt. 5. § (3) bekezdése szerinti támogatást igénylőnek vagy kedvezményezettnek – az (1) bekezdéstől eltérően – értékhatártól függetlenül a 98–100. §-t kell alkalmaznia.
+(5)[^566] EMVA forrásból nyújtott támogatás esetén a Kbt. 5. § (3) bekezdése szerinti támogatást igénylőnek vagy kedvezményezettnek – az (1) bekezdéstől eltérően – értékhatártól függetlenül a 98–100. §-t kell alkalmaznia.
 
 [^560]: A 97. § a 323/2015. (X. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg. E módosító rendelet 17. §-a alapján a 2015. november 1. után megkezdett közbeszerzési eljárásokra kell alkalmazni.
 [^561]: A 97. § (1) bekezdése a 478/2016. (XII. 27.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
 [^562]: A 97. § (1a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 28. §-a iktatta be, szövege a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 16. pontja szerint módosított szöveg.
 [^563]: A 97. § (2) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 14. §-a iktatta be.
 [^564]: A 97. § (3a) bekezdését az 59/2018. (III. 26.) Korm. rendelet 6. §-a iktatta be.
-[^565]: A 97. § (5) bekezdését a 478/2016. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^565]: A 97. § (3b) bekezdését az 533/2020. (XI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 2. §-át.
+[^566]: A 97. § (5) bekezdését a 478/2016. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
