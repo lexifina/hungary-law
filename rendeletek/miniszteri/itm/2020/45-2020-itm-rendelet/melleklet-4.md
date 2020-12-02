@@ -24,6 +24,6 @@
 
 | 5. | D1, D2, U | B2 | 52 050 forint | 208 200 forint |
 
-4. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^3]
+4. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^4]
 
-[^3]: A 4. melléklet a 21. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^4]: A 4. melléklet a 21. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
