@@ -1,7 +1,6 @@
-1. A Terrorelhárítási Központ műveleti komplexumának megvalósításáról szóló 1074/2020. (III. 5.) Korm. határozat [a továbbiakban: 1074/2020. (III. 5.) Korm. határozat] a következő 6. ponttal egészül ki:
+1.[^2]
 
-(A Kormány úgy határoz, hogy)
+2.[^3]
 
-„6. az 1. pont a) és b) alpontja szerinti beruházások előkészítésének és megvalósításának felelőseként a Terrorelhárítási Központ főigazgatóját jelöli ki azzal, hogy az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése, valamint az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: rendelet) 17. §-a alapján felmentést ad a rendeletben meghatározott eljárásrend alkalmazása alól.”
-
-2. A Kormány visszavonja az 1074/2020. (III. 5.) Korm. határozat 3. pontját.
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
