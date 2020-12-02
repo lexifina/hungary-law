@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti a Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet.
+## 19. §[^1]
 
 1. melléklet a 162/2020. (IV. 30.) Korm. rendelethez
 
@@ -19,3 +19,5 @@ Kommunikációs feladatok
 | 7 | Médiaügynökségi feladat | Médiakampányok előkészítése és megvalósítása során felmerülő feladat, így különösen: – médiastratégia, médiamix és médiaterv készítés, – médiavásárlás, – kampány nyomon követés, szükség szerint optimalizálás, – kampány utóértékelés, kampány hatékonyság vizsgálata, médiakutatás. |
 
 | 8 | Rendezvényszervezéshez kapcsolódó feladat | Eseti vagy rendszeres, előre meghatározott célból (így különösen társadalmi, tudományos, szakmai, kulturális, sport) adott helyen és időben tartott esemény (a továbbiakban: rendezvény) tervezése, előkészítése, koordinációja és megvalósítása során felmerülő feladat, így különösen: – rendezvénykoncepció kialakítás, rendezvényhez kapcsolódó prezentáció (ideértve a sportprezentációt), – rendezvény koordináció, – helyszínbiztosítás, – rendezvénytechnika (hang-, világítás-, színpad-, video- és vizuáltechnika, televízió- és biztonságtechnika) és a hozzá kapcsolódó háttérszolgáltatás, – rendezvénytechnikai eszközbiztosítás, – catering biztosítás, – kiegészítő programelem és előadó biztosítás, – szállásbiztosítás, – rendezvényhez kapcsolódó szállítás. |
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
