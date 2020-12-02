@@ -1,5 +1,5 @@
-## 20. §[^40]
+## 20. §[^41]
 
 ## 4. Az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet módosítása
 
-[^40]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
