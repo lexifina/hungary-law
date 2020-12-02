@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-16-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-01 | 2020-16-20-7P.1 | 16/2020. (XI. 30.) NVTNM rendelet |
+| 2020-12-02 | 2020-16-20-7P.2 | 2010: CXXX. törvény |
