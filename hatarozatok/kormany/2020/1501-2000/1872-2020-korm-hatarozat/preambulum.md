@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Békéscsaba Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1283/2016. (VI. 7.) Korm. határozat 1. pont c) alpontjához kapcsolódóan
