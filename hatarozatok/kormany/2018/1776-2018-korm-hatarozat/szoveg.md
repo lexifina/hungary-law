@@ -1,21 +1,11 @@
 A Kormány az állami magasépítési beruházások új rendszerének megvalósítása érdekében
 
-1. a Beruházási Ügynökség által megvalósítandó kormányzati magasépítési beruházások esetén a Beruházási Ügynökség által vállalható kötelezettségek felső korlátját 500 000 000 000 forint összegben állapítja meg;
+1.[^1] a Beruházási Ügynökség által megvalósítandó kormányzati magasépítési beruházások esetén a Beruházási Ügynökség által vállalható kötelezettségek felső korlátját 1 500 000 000 000 forint összegben állapítja meg;
 
-2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és a pénzügyminisztert, hogy a 2020. évi központi költségvetés előkészítése keretében vizsgálják felül az 1. pont szerinti kötelezettségvállalási felső korlát összegét a középtávú költségvetési előrejelzéssel való összhang megteremtése érdekében;
+2.[^2]
 
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+3.[^3]
 
-pénzügyminiszter
-
-Határidő: a 2020. évi központi költségvetési tervezés során
-
-3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, a pénzügyminisztert és az érintett minisztereket, hogy vizsgálják meg a kormányzati magasépítési beruházásokra vonatkozó azon kormányhatározatokat, amelyekhez kapcsolódó feladatokat 2019. január 1-jét követően a Beruházási Ügynökség látja el, és tegyenek javaslatot azok felülvizsgálatára.
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-pénzügyminiszter
-
-érintett miniszterek
-
-Határidő: 2019. március 31.
+[^1]: Az 1. pont az 1877/2020. (XII. 2.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 2. pontot az 1877/2020. (XII. 2.) Korm. határozat 2. pontja visszavonta.
+[^3]: A 3. pontot az 1877/2020. (XII. 2.) Korm. határozat 2. pontja visszavonta.
