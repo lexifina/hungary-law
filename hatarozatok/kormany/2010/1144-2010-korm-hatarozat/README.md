@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1144-30
 | 2019-12-21 | 2010-1144-30-22.19 | 1754/2019. (XII. 20.) Korm. határozat |
 | 2020-07-17 | 2010-1144-30-22.20 | 1754/2019. (XII. 20.) Korm. határozat |
 | 2020-10-01 | 2010-1144-30-22.21 | 1601/2020. (IX. 28.) Korm. határozat |
+| 2020-12-03 | 2010-1144-30-22.22 | 1876/2020. (XII. 2.) Korm. határozat |
