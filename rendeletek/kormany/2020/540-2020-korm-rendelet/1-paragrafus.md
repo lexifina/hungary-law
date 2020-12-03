@@ -1,0 +1,1 @@
+## [Az Európai Röntgen-szabadelektronlézer Létesítmény (European X-Ray Free-Electron Laser, XFEL) építéséről és üzemeltetéséről szóló Egyezményhez kapcsolódó, a Nagy-Britannia és Észak-Írország Egyesült Királysága csatlakozására vonatkozó jegyzőkönyvet 2018. március 19-től ideiglenesen alkalmazni kell.]
