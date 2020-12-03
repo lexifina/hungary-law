@@ -22,7 +22,7 @@ A KKB összetétele
 
 3. A KKB elnök-helyettese az elnök által kijelölt tag.
 
-4.[^3] A KKB tagjai az agrárminiszter, az emberi erőforrások minisztere, a honvédelmi miniszter, az igazságügyi miniszter, az innovációért és technológiáért felelős miniszter, a külgazdasági és külügyminiszter, a Miniszterelnökséget vezető miniszter, a miniszterelnök kabinetfőnöke és a pénzügyminiszter által kijelölt állami vezető, valamint a Belügyminisztérium közbiztonsági főigazgatója és az atomenergia felügyeletéért felelős központi államigazgatási szerv vezetője. A KKB tagjai díjazásban nem részesülnek.
+4.[^3] A KKB tagjai az agrárminiszter, az emberi erőforrások minisztere, a honvédelmi miniszter, az igazságügyi miniszter, az innovációért és technológiáért felelős miniszter, a külgazdasági és külügyminiszter, a Miniszterelnökséget vezető miniszter, a miniszterelnök kabinetfőnöke és a pénzügyminiszter által kijelölt állami vezető, valamint a Belügyminisztérium belbiztonsági államtitkára és az atomenergia felügyeletéért felelős központi államigazgatási szerv vezetője. A KKB tagjai díjazásban nem részesülnek.
 
 5. A KKB ülésén állandó jelleggel tanácskozási joggal részt vesz
 
@@ -38,7 +38,7 @@ e) a KKB Nemzeti Veszélyhelyzet-kezelési Központjának (a továbbiakban: KKB 
 
 f) a KKB adminisztratív feladatait ellátó szervezeti egység vezetője,
 
-g)[^5] a Belügyminisztérium közbiztonsági főigazgatója által kijelölt, a Belügyminisztérium állományába tartozó, vezetői munkakört betöltő személy.
+g)[^5] a Belügyminisztérium belbiztonsági államtitkára által kijelölt, a Belügyminisztérium állományába tartozó, vezetői munkakört betöltő személy.
 
 6.[^6] A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt
 
@@ -176,9 +176,9 @@ A KKB összehívásának és működésének rendje
 
 [^1]: A 3. pontot az 1019/2016. (I. 22.) Korm. határozat 2. pontja hatályon kívül helyezte.
 [^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet 4. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított, 2. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 4. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított, 2. pontja, az 1876/2020. (XII. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^4]: Az 1. melléklet 5. pont c) alpontja az 1754/2019. (XII. 20.) Korm. határozat 6. pontjával megállapított szöveg.
-[^5]: Az 1. melléklet 5. pont g) alpontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 5. pont g) alpontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított, az 1876/2020. (XII. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^6]: Az 1. melléklet 6. pontja az 1853/2016. (XII. 27.) Korm. határozat 14. pontjával megállapított szöveg.
 [^7]: Az 1. melléklet 6. pont a) alpontja az 1405/2019. (VII. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^8]: Az 1. mellékle 6. pont e) alpontját az 1590/2018. (XI. 22.) Korm. rendelet 2. pontja hatályon kívül helyezte.
