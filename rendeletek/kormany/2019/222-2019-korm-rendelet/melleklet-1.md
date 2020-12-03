@@ -1,4 +1,4 @@
-## 10. §[^1]
+## 10. §[^3]
 
 1. melléklet a 222/2019. (IX. 25.) Korm. rendelethez
 
@@ -166,4 +166,4 @@ d) autonómiája és felelőssége
 
 - Különböző bonyolultságú és különböző mértékben kiszámítható kontextusokban a módszerek és technikák széles körét alkalmazza önállóan a gyakorlatban.
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

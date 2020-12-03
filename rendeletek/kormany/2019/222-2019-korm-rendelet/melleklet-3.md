@@ -24,7 +24,7 @@
 
 | 11. |  |  |  |  | katonai gazdálkodási | Military Economics | közgazdász katonai gazdálkodási alapképzési szakon | Military Economist | 6 |
 
-| 12. |  |  |  |  | katonai üzemeltetés | Military Maintenance | katonai üzemeltető vezető | Military Maintenance Manager | 6 |
+| 12. |  |  |  |  | katonai info- kommunikáció | Military Info- communication | katonai info- kommunikációs vezető | Military Info- communication Manager | 6 |
 
 | 13. |  |  |  |  | katonai logisztika | Military Logistics | katonai logisztikai vezető | Military Logistic Leader | 6 |
 
@@ -68,7 +68,7 @@
 
 ## 5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## - a szak orientációja: elméletorientált (60-70 százalék)
+## - a szak orientációja: kiegyensúlyozott (40–60 százalék)
 
 ## - a szakdolgozat készítéséhez rendelt kreditérték: 10 kredit
 
@@ -286,7 +286,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, rendészettudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - közigazgatástudomány 65-85 kredit,
 
@@ -746,7 +746,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, rendészettudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## – társadalomtudományok (közgazdaságtudományok, állam- és jogtudományok, szociológiai tudományok): 12-20 kredit,
 
@@ -808,7 +808,7 @@
 
 ## 8.3. A szakmai gyakorlatra vonatkozó követelmények
 
-## Tanévenként 4 hét szakmai gyakorlat teljesítése kritériumkövetelmény, ami a szakirányhoz igazodó rendvédelmi szervnél történik. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
+## 10 hét szakmai gyakorlat teljesítése kritériumkövetelmény, ami a szakirányhoz igazodó rendvédelmi szervnél történik. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
 ## 3. BŰNÜGYI ALAPKÉPZÉSI SZAK
 
@@ -1308,7 +1308,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## Tanévenként 4 hét szakmai gyakorlat teljesítése kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
+## 14 hét szakmai gyakorlat teljesítése kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
 ## 4. RENDÉSZETI IGAZGATÁSI ALAPKÉPZÉSI SZAK
 
@@ -2140,7 +2140,7 @@
 
 ## - hatósági jogi ismeretek 10-30 kredit;
 
-## e) közeledésrendészeti szakirány
+## e) közlekedésrendészeti szakirány
 
 ## - közlekedésjogi ismeretek 5-15 kredit,
 
@@ -2148,7 +2148,7 @@
 
 ## - közlekedésrendészeti ismeretek 5-20 kredit,
 
-## - balesetelemezési és közlekedés-kriminológiai ismeretek 5-20 kredit;
+## - balesetelemzési és közlekedés-kriminológiai ismeretek 5-20 kredit;
 
 ## f) közrendvédelmi szakirány
 
@@ -2182,7 +2182,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## Tanévenként 4 hét szakmai gyakorlat teljesítése kritériumkövetelmény, ami alapvetően a szakirányhoz igazodó rendvédelmi szervnél történik. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
+## 10 hét szakmai gyakorlat teljesítése kritériumkövetelmény, ami alapvetően a szakirányhoz igazodó rendvédelmi szervnél történik. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
 ## 5. RENDÉSZETI ALAPKÉPZÉSI SZAK
 
@@ -2224,7 +2224,7 @@
 
 ## - Customs and Finance Guard Officer
 
-## - választható szakirányok: bevándorlási, büntetés-végrehajtási szervező, határrendészeti rendőr, igazgatásrendészeti rendőr, közeledésrendészeti rendőr, közrendvédelmi rendőr, vám- és pénzügyőri
+## - választható szakirányok: bevándorlási, büntetés-végrehajtási szervező, határrendészeti rendőr, igazgatásrendészeti rendőr, közlekedésrendészeti rendőr, közrendvédelmi rendőr, vám- és pénzügyőri
 
 ## 3. Képzési terület, az NKE tv. 3. §-ában meghatározott felsőoktatási terület: államtudományi, rendészeti
 
@@ -2826,13 +2826,13 @@
 
 ## – hatósági jogi ismeretek 10-20 kredit;
 
-## e) közeledésrendészeti rendőr szakirány
+## e) közlekedésrendészeti rendőr szakirány
 
 ## – forgalomszervezési, -ellenőrzési és -irányítási ismeretek 10-20 kredit,
 
 ## – közlekedésrendészeti ismeretek 10-30 kredit,
 
-## – balesetelemezési és közlekedés-kriminológiai ismeretek 10-30 kredit;
+## – balesetelemzési és közlekedés-kriminológiai ismeretek 10-30 kredit;
 
 ## f) közrendvédelmi rendőr szakirány
 
@@ -2856,7 +2856,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## A szakirányú rendészeti szervénél letöltendő szakmai gyakorlat időtartama tanévenként 4 hét, teljesítése kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
+## A szakirányú rendészeti szervnél letöltendő szakmai gyakorlat időtartama 14 hét, teljesítése kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
 ## 6. KATASZTRÓFAVÉDELEM ALAPKÉPZÉSI SZAK
 
@@ -2876,9 +2876,9 @@
 
 ## - szakképzettség angol nyelvű megjelölése:
 
-## - Disaster Manager in Disaster Managment Operational
+## - Disaster Manager in Disaster Management Operational
 
-## - Disaster Manager in Fire Prevention and Resuce Control
+## - Disaster Manager in Fire Prevention and Rescue Control
 
 ## - Disaster Manager in Industry Safety
 
@@ -3078,7 +3078,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, rendészettudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - katasztrófavédelmi szakmai ismeretek: 83-93 kredit, amelyből
 
@@ -3346,7 +3346,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, rendészettudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - társadalomtudományi ismeretek 20-40 kredit,
 
@@ -3494,7 +3494,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, rendészettudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - műszaki tudományok (informatika, informatikai védelem) 4-10 kredit,
 
@@ -3878,7 +3878,7 @@
 
 ## - Szakmai felkészültsége alapján tevékenysége során önálló döntéseket hoz.
 
-## - Önállóan együttműködik más fegyvernemek, hivatásrendek és nem kormányzati szervezetek (non-govermental organizations - NGO-k) képviselőivel, beleértve más országok képviselőit is.
+## - Önállóan együttműködik más fegyvernemek, hivatásrendek és nem kormányzati szervezetek (non-governmental organizations - NGO-k) képviselőivel, beleértve más országok képviselőit is.
 
 ## - Általános felügyelet mellett önállóan végzi és szervezi a részére meghatározott szakmai feladatokat.
 
@@ -4096,7 +4096,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - katonai alapismeretek 8-16 kredit,
 
@@ -4182,7 +4182,7 @@
 
 ## 8.2. Idegennyelvi követelmény
 
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. szerinti, 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -4430,7 +4430,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - katonai alapismeretek 16-24 kredit,
 
@@ -4456,25 +4456,25 @@
 
 ## 8.2. Idegennyelvi követelmények
 
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. szerinti, 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
 ## Az intézményen kívül teljesítendő szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat időtartama 10 hét. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
-## 11. KATONAI ÜZEMELTETÉS ALAPKÉPZÉSI SZAK
+## 11. KATONAI INFOKOMMUNIKÁCIÓ ALAPKÉPZÉSI SZAK
 
-## 1. Az alapképzési szak megnevezése: katonai üzemeltetés (Military Maintenance)
+## 1. Az alapképzési szak megnevezése: katonai infokommunikáció (Military Infocommunication)
 
 ## 2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
 
-## - végzettségi szint: alap- (baccalaureus, bachelor; rövidítve: BSc-) fokozat
+## – végzettségi szint: alap- (baccalaureus, bachelor; rövidítve: BSc-) fokozat
 
-## - szakképzettség: katonai üzemeltető vezető
+## – szakképzettség: katonai infokommunikációs vezető
 
-## - a szakképzettség angol nyelvű megjelölése: Military Maintenance Manager
+## – a szakképzettség angol nyelvű megjelölése: Military Infocommunication Manager
 
-## - választható specializációk: katonai informatika, katonai infokommunikáció és információvédelem, rádióelektronikai felderítő és elektronikai hadviselés, katonai repülőműszaki
+## – választható specializációk: katonai informatika, katonai kommunikáció és információvédelem, rádióelektronikai felderítő és elektronikai hadviselés
 
 ## 3. Képzési terület, az NKE tv. 3. §-ában meghatározott felsőoktatási terület: államtudományi, katonai
 
@@ -4482,371 +4482,301 @@
 
 ## 5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## - a szak orientációja: kiegyensúlyozott (40–60%)
+## – a szak orientációja: kiegyensúlyozott (40–60%)
 
-## - a szakdolgozat készítéséhez rendelt kreditérték: 14 kredit
+## – a szakdolgozat készítéséhez rendelt kreditérték: 14 kredit
 
-## - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 12 kredit
+## – a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 12 kredit
 
-## 6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 0714
+## 6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása:
+
+## 0688
 
 ## 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
-## A képzés célja olyan katonai infokommunikációs és katonai repülőműszaki üzemeltető szakemberek képzése, akik alkalmasak a Magyar Honvédség, a Honvédelmi Minisztérium, annak háttérintézményei, valamint a védelmi szféra haditechnikai és más szaktechnikai eszközeinek üzemeltetésére, az üzembentartás vezetésére, valamint az új haditechnikai eszközök és a hozzájuk kapcsolódó új technológiák bevezetésére, illetve alkalmazására. A választott specializációtól függően képesek alegységparancsnoki és szaktiszti beosztásokban honi területeken béke- és minősített időszakban, külföldön többnemzeti válságreagáló és háborús műveletekben haditechnikai rendszerek üzemeltetéséhez és üzembentartásához kapcsolódó gyakorlati tevékenységek tervezésére, szervezésére és irányítására.
+## A képzés célja olyan katonai infokommunikációs szakemberek képzése, akik alkalmasak a Magyar Honvédség, a Honvédelmi Minisztérium, annak háttérintézményei, valamint a védelmi szféra infokommunikációs eszközeinek üzemeltetésére, az üzemben tartás vezetésére, valamint az új infokommunikációs eszközök és a hozzájuk kapcsolódó új technológiák bevezetésére, illetve alkalmazására. A választott specializációtól függően képesek alegység-parancsnoki és szaktiszti beosztásokban honi területeken béke- és minősített időszakban, külföldön többnemzeti válságreagáló és háborús műveletekben infokommunikációs rendszerek üzemeltetéséhez és üzemben tartásához kapcsolódó gyakorlati tevékenységek tervezésére, szervezésére és irányítására.
 
 ## 7.1. Az elsajátítandó közös szakmai kompetenciák
 
-## 7.1.1. A katonai üzemeltető vezető
+## 7.1.1. A katonai infokommunikációs vezető
 
 ## a) tudása
 
-## - Alapvetően ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek és a fegyvernemek szervezeti felépítését, harceljárásait.
+## – Ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek és a fegyvernemek szervezeti felépítését, harceljárásait.
 
-## - Rendelkezik alapvető vezetői alapismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint a beosztottakat motiváló képességekkel.
+## – Rendelkezik vezetői alapismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges ismeretekkel, valamint a beosztottakat motiváló képességekkel.
 
-## - Rendelkezik az általános gazdálkodási, jogi, korszerű geoinformációs rendszerek alapjainak ismeretével.
+## – Rendelkezik az általános gazdálkodási, jogi, korszerű geoinformációs rendszerek alapjainak ismeretével.
 
-## - Ismeri a szakasz, század (zászlóalj) kiképzéséhez szükséges szakmódszertani elveket és eljárásokat.
+## – Ismeri a szakasz, század (zászlóalj) kiképzéséhez szükséges szakmódszertani elveket és eljárásokat.
 
-## - Ismeri a szakasz, század (zászlóalj) békevezetési okmányait és azok vezetésének rendjét.
+## – Ismeri a szakasz, század (zászlóalj) békevezetési okmányait és azok vezetésének rendjét.
 
-## - Ismeri a Magyar Honvédség katasztrófavédelmi feladatok megoldásához való hozzájárulás alegységszintű feladatait.
+## – Ismeri a Magyar Honvédség katasztrófavédelmi feladatok megoldásához való hozzájárulás alegységszintű feladatait.
 
-## - Rendelkezik korszerű katonai térképészeti, tereptani és katonaföldrajzi ismeretekkel.
+## – Rendelkezik korszerű katonai térképészeti, tereptani és katonaföldrajzi ismeretekkel.
 
-## - Ismeri a szakasz, század (zászlóalj) infokommunikációs eszközeit és azok alkalmazását.
+## – Ismeri a szakasz, század (zászlóalj) infokommunikációs eszközeit és azok alkalmazását.
 
-## - Ismeri az alapvető egészség- és járványügyi, valamint sebesültellátási feladatokat.
+## – Ismeri az alapvető egészség- és járványügyi, valamint sebesültellátási feladatokat.
 
 ## b) képességei
 
-## - Képes magas szinten alkalmazni a szakterminológiát magyarul és angolul is.
+## – Képes a szakalegységek vezetésére.
 
-## - Képes idegen nyelvű szakirodalom olvasására, feldolgozására.
+## – Képes a szaktechnikai eszközök hatékony, biztonságos üzemeltetésére, az üzembentartási folyamatok irányítására.
 
-## - Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
+## – Képes magas szinten alkalmazni a szakterminológiát magyarul és angolul is.
 
-## - Képes a munkájához szükséges módszerek és eljárások kiválasztására, azok egyedi és komplex alkalmazására.
+## – Képes idegen nyelvű szakirodalom olvasására, feldolgozására.
 
-## - Képes a munkájával járó pszichikai és fizikai stresszel szembeni alkalmazkodásra, illetve ismeri a stresszkezelés intézményi és egyéni megoldásait.
+## – Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
 
-## - Képes az együttműködésben folyó munkavégzésre.
+## – Képes a munkájához szükséges módszerek és eljárások kiválasztására, azok egyedi és komplex alkalmazására.
 
-## - Képes az angol nyelvű rádióforgalmazásra.
+## – Képes a munkájával járó pszichikai és fizikai stresszel szembeni alkalmazkodásra, illetve ismeri a stresszkezelés intézményi és egyéni megoldásait.
 
-## - A munkaköri feladatainak ellátásához megfelelő kitartással és monotóniatűréssel rendelkezik.
+## – Képes az együttműködésben folyó munkavégzésre.
+
+## – Képes a katonai rádióforgalmazásra magyar és angol nyelven.
+
+## – A munkaköri feladatainak ellátásához megfelelő kitartással és monotóniatűréssel rendelkezik.
 
 ## c) attitűdje
 
-## - Nyitott ismereteinek gyarapítása iránt.
+## – Elkötelezett a nemzeti érdekek, a haza védelme iránt.
 
-## - Feladatai ellátása során együttműködési készség jellemzi, törekszik a beosztottak bevonására a döntési folyamatokba.
+## – Nyitott ismereteinek gyarapítása iránt.
 
-## - Törekszik feladatellátása során a megfelelő önkontroll, tolerancia, empátia és az előítéletektől mentes gondolkodás és viselkedés tanúsítására.
+## – Feladatai ellátása során együttműködési készség jellemzi, törekszik a beosztottak bevonására a döntési folyamatokba.
 
-## - Munkájában és emberi kapcsolataiban megbízhatóság jellemzi.
+## – Törekszik feladatellátása során a megfelelő önkontroll, tolerancia, empátia és az előítéletektől mentes gondolkodás és viselkedés tanúsítására.
 
-## - Elkötelezett a minőségi szakmai munkavégzés iránt, különös tekintettel a légiközlekedés-biztonság szempontjainak figyelembevételére.
+## – Munkájában és emberi kapcsolataiban megbízhatóság jellemzi.
 
-## - Nyitott szakterülete új eredményei, innovációi iránt, törekszik azok megismerésére, megértésére és alkalmazására, elkötelezett önmaga folyamatos képzésére.
+## – Elkötelezett a minőségi szakmai munkavégzés iránt.
+
+## – Nyitott szakterülete új eredményei, innovációi iránt, törekszik azok megismerésére, megértésére és alkalmazására, elkötelezett önmaga folyamatos képzésére.
 
 ## d) autonómiája és felelőssége
 
-## - A szakterületén megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+## – A szakterületén megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
 
-## - Tisztában van döntéseinek, tevékenységének az alegysége egészére gyakorolt hatásaival, következményeivel.
+## – Tisztában van döntéseinek, tevékenységének az alegysége egészére gyakorolt hatásaival, következményeivel.
 
 ## 7.1.2. A specializáción szerezhető sajátos kompetenciák
 
-## 7.1.2.1. A katonai informatika specializáción továbbá a katonai üzemeltető vezető
+## 7.1.2.1. A katonai informatika specializáción továbbá a katonai infokommunikációs vezető
 
 ## a) tudása
 
-## - Rendelkezik megfelelő szintű társadalomtudományi ismeretekkel.
+## – Rendelkezik megfelelő szintű társadalomtudományi ismeretekkel.
 
-## - Rendelkezik katonai vezetői ismeretekkel, valamint hadműveleti, harcászati katonai szakmai ismeretekkel.
+## – Rendelkezik katonai vezetői ismeretekkel, valamint harcászati szintű katonai szakmai ismeretekkel.
 
-## - Ismeri az általános és katonai szakterületen alkalmazható vezetéselméleti elveket és módszereket.
+## – Ismeri a katonai szakterületen alkalmazható vezetéselméleti elveket és módszereket.
 
-## - Rendelkezik megfelelő szintű államigazgatási ismeretekkel.
+## – Ismeri a szakterület alkalmazási elveit.
 
-## - Rendelkezik hazai és nemzetközi közjogi és hadijogi ismeretekkel.
+## – Rendelkezik megfelelő szintű államigazgatási ismeretekkel.
 
-## - Ismeri a NATO és az Európai Unió szervezési-vezetési filozófiáit.
+## – Rendelkezik hazai és nemzetközi közjogi és hadijogi ismeretekkel.
 
 ## b) képességei
 
-## - Képes az általános műveltség és társadalomtudományi ismeretek alapján eligazodni a nemzetközi, a társadalmi, és a politikai eseményekben.
+## – Képes az általános műveltség és társadalomtudományi ismeretek alapján eligazodni a nemzetközi, a társadalmi és a politikai eseményekben.
 
-## - Képes helyesen értelmezni a modern hadsereg funkcióit, helyét és szerepét a demokratikus társadalmakban.
+## – Képes helyesen értelmezni a modern hadsereg funkcióit, helyét és szerepét a demokratikus társadalmakban.
 
-## - Képes a hivatásos tiszt számára előírt fizikai edzettségi és állóképességi követelmények folyamatos teljesítésére.
+## – Képes a hivatásos tiszt számára előírt fizikai edzettségi és állóképességi követelmények folyamatos teljesítésére.
 
-## - Képes a rendszeresített műszaki-technikai és haditechnikai eszközök üzemeltetésére.
+## – Képes a rendszeresített haditechnikai eszközök üzemeltetésére.
 
-## - Képes a komplex haditechnikai infokommunikációs és információvédelmi rendszerek üzemeltetésére.
+## – Képes a komplex infokommunikációs és információvédelmi rendszerek üzemeltetésére.
 
-## - Képes a környezettudatos katonai-szakmai tevékenység végzésére és a munkavédelmi feladatok megoldására.
+## – Képes a környezettudatos katonai-szakmai tevékenység végzésére és a munkavédelmi feladatok megoldására.
 
-## - Képes a modern vezetési módszerek és eszközök alkalmazására.
+## – Képes a modern vezetési módszerek és eszközök alkalmazására.
 
-## - Képes az összhaderőnemi műveletek, illetve saját tevékenységük törvényi, jogi alapjainak megértésére.
+## – Képes a katonai műveletek jogi alapjainak megértésére.
 
-## - Képes a vezetői ismeretei, jártassága, valamint szakmai tudása birtokában a rábízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos irányítására, a szervezet tevékenységében való hatékony részvételre, valamint az irányított szervezet munkájának, tevékenységének, gyakorlati problémáinak elemzésére, megoldására, a szervezet munkájának korszerűsítésére.
+## – Képes a vezetői ismeretei, jártassága, valamint szakmai tudása birtokában a rábízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos irányítására, a szervezet tevékenységében való hatékony részvételre, valamint az irányított szervezet munkájának, tevékenységének, gyakorlati problémáinak elemzésére, megoldására, a szervezet munkájának korszerűsítésére.
 
-## - Képes az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, hatékony ellenőrzésére.
+## – Képes az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, hatékony ellenőrzésére.
 
-## - Képes a katonai feladatok végrehajtása érdekében érdemi együttműködésre a fegyveres testületek és más polgári szervek vezetőivel vagy képviselőivel.
+## – Képes a katonai feladatok végrehajtása érdekében érdemi együttműködésre a rendvédelmi és közigazgatási szervek képviselőivel.
 
 ## c) attitűdje
 
-## - Nyitott ismereteinek gyarapítása iránt.
+## – Nyitott ismereteinek gyarapítása iránt.
 
-## - Feladatai ellátása során együttműködési készség jellemzi, törekszik a beosztottak bevonására a döntési folyamatokba.
+## – Feladatai ellátása során együttműködési készség jellemzi, törekszik a beosztottak bevonására a döntési folyamatokba.
 
-## - Törekszik feladatellátása során a megfelelő önkontroll, tolerancia, empátia és az előítéletektől mentes gondolkodás és viselkedés tanúsítására.
+## – Törekszik feladatellátása során a megfelelő önkontroll, tolerancia, empátia és az előítéletektől mentes gondolkodás és viselkedés tanúsítására.
 
-## - Munkájában és emberi kapcsolataiban megbízhatóság jellemzi.
+## – Munkájában és emberi kapcsolataiban megbízhatóság és példamutatás jellemzi.
 
-## - Elkötelezett a minőségi szakmai munkavégzés iránt.
+## – Elkötelezett a minőségi szakmai munkavégzés iránt.
 
-## - Nyitott szakterülete új eredményei, innovációi iránt, törekszik azok megismerésére, megértésére és alkalmazására, elkötelezett önmaga folyamatos képzésére.
+## – Nyitott szakterülete új eredményei, innovációi iránt, törekszik azok megismerésére, megértésére és alkalmazására, elkötelezett önmaga folyamatos képzésére.
 
 ## d) autonómiája és felelőssége
 
-## - A szakterületén megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+## – A szakterületén megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
 
-## - Tisztában van döntéseinek, tevékenységének az alegysége egészére gyakorolt hatásaival, következményeivel.
+## – Tisztában van döntéseinek, tevékenységének az alegysége egészére gyakorolt hatásaival, következményeivel.
 
-## 7.1.2.2. A katonai infokommunikáció és információvédelem specializáción továbbá a katonai üzemeltető vezető
+## 7.1.2.2. A katonai kommunikáció és információvédelem specializáción továbbá a katonai infokommunikációs vezető
 
 ## a) tudása
 
-## - Mélyrehatóan ismeri a Magyar Honvédségben rendszeresített, illetve alkalmazott stacioner és telepített infokommunikációs és információbiztonsági hardver- és szoftverelemeket és az ezekből kialakított rendszereket.
+## – Mélyrehatóan ismeri a Magyar Honvédségben rendszeresített, illetve alkalmazott stacioner és telepített infokommunikációs és információbiztonsági hardver- és szoftverelemeket és az ezekből kialakított rendszereket.
 
-## - Ismeri az összfegyvernemi műveleteknek a harcászati szintű infokommunikációs és információvédelmi rendszerekre gyakorolt hatásait.
+## – Ismeri az infokommunikációs és információvédelmi rendszerek katonai műveletekben történő alkalmazásának elveit.
 
-## - Ismeri a harcászati szintű infokommunikációs forrásokat, a beszéd, adat és média feldolgozási technikákat és az infokommunikációs folyamatokhoz kapcsolódó tevékenységek vezetésének elveit, más szakmai szervekkel az együttműködés kérdéseit.
+## – Ismeri a harcászati szintű infokommunikációs forrásokat, a beszéd-, adat- és médiafeldolgozási technikákat és az infokommunikációs folyamatokhoz kapcsolódó tevékenységek vezetésének elveit, más szakmai szervekkel az együttműködés kérdéseit.
 
-## - Ismeri az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletek során alkalmazható infokommunikációs eszközökkel történő biztosítási és információvédelmi feladatokhoz kapcsolódó tervezési, szervezési műveletek elveit és az eszközök harci alkalmazási jellemzőit.
+## – Ismeri az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletek során alkalmazható infokommunikációs eszközökkel történő biztosítási és információvédelmi feladatokhoz kapcsolódó tervezési, szervezési műveletek elveit és az eszközök harci alkalmazási jellemzőit.
 
-## - Birtokában van azon ismeretek körének, amelyek szükségesek az infokommunikációs eszközök és rendszerek üzemben tartásának koordinálására, az időszakos kiszolgálási tervek és jelentések kidolgozásárhoz, tervezéséhez, szervezéséhez, irányításához, valamint ellenőrzéséhez.
+## – Birtokában van azon ismeretek körének, amelyek szükségesek az infokommunikációs eszközök és rendszerek üzemben tartásának koordinálására, az időszakos kiszolgálási tervek és jelentések kidolgozásárhoz, tervezéséhez, szervezéséhez, irányításához, valamint ellenőrzéséhez.
 
-## - Mélyrehatóan ismeri a saját szárazföldi és fedélzeti kommunikációs és információvédelmi rendszerek, berendezések technikai paramétereit, működési elveit, üzemeltetési jellemzőit és harci alkalmazási elveit.
+## – Mélyrehatóan ismeri a saját szárazföldi és fedélzeti kommunikációs és információvédelmi rendszerek, berendezések technikai paramétereit, működési elveit, üzemeltetési jellemzőit és harci alkalmazási elveit.
 
-## - Átfogóan ismeri a szakterületét érintő szervezési és üzemeltetési jogszabályokat, szabályzókat.
+## – Átfogóan ismeri a szakterületét érintő szervezési és üzemeltetési jogszabályokat, szabályzókat.
 
-## - Átfogóan ismeri a technikai kiszolgáláshoz, karbantartási és javítási feladatokhoz kapcsolódó okmányrendszert.
+## – Átfogóan ismeri a technikai kiszolgáláshoz, karbantartási és javítási feladatokhoz kapcsolódó okmányrendszert.
 
-## - Rendelkezik azzal a tudással, ami szükséges a kommunikációs és információvédelmi szakalegységek kiképzésének és napi tevékenységének tervezéséhez, szervezéséhez és irányításához.
+## – Rendelkezik azzal a tudással, ami szükséges az infokommunikációs és információvédelmi szakalegységek kiképzésének és napi tevékenységének tervezéséhez, szervezéséhez és irányításához.
 
-## - Átfogóan ismeri a NATO Communications and Information Systems (CIS) üzemeltetésével kapcsolatos szabályzóit.
+## – Átfogóan ismeri a NATO Communications and Information Systems (CIS) üzemeltetésével kapcsolatos szabályzóit.
 
 ## b) képességei
 
-## - Képes szakismereteivel hozzájárulni az összfegyvernemi kötelékek kommunikációs és információvédelmi rendszereinek megtervezéséhez, megszervezéséhez és végrehajtásához.
+## – Képes szakismereteivel hozzájárulni a csapatok infokommunikációs és információvédelmi rendszereinek megtervezéséhez, megszervezéséhez és végrehajtásához.
 
-## - Képes az infokommunikációs hálózatok alegységszintű megtervezésére, megszervezésére és irányítására.
+## – Képes az infokommunikációs hálózatok alegységszintű megtervezésére, megszervezésére és irányítására.
 
-## - Képes a megszerzett adatok előzetes feldolgozására, az elektronikai objektumok értékelésére, a célok kiválasztására és az adatok továbbítására az elöljáró vezetési szint felé.
+## – Képes a megszerzett adatok előzetes feldolgozására, az elektronikai objektumok értékelésére, a célok kiválasztására és az adatok továbbítására az elöljáró vezetési szint felé.
 
-## - Képes az elektronikus információbiztonság menedzsmentjének, ezen belül különösen a kockázatmenedzsmenttel, valamint az akkreditációval és auditálással kapcsolatos alapvető elméleti és gyakorlati feladatok koordinálására, végrehajtására és ellenőrzésére.
+## – Képes az elektronikus információbiztonság menedzsmentjének, ezen belül különösen a kockázatmenedzsmenttel, valamint az akkreditációval és auditálással kapcsolatos alapvető elméleti és gyakorlati feladatok koordinálására, végrehajtására és ellenőrzésére.
 
-## - Képes a rejtjelbiztonsággal, elektromágneses kompatibilitással, átvitelbiztonsággal, számítógép- és helyi hálózat biztonsággal, hálózatok biztonságos összekapcsolásával összefüggő elméleti és gyakorlati feladatok koordinálására, végrehajtására és ellenőrzésére.
+## – Képes a rejtjelbiztonsággal, elektromágneses kompatibilitással, átvitelbiztonsággal, számítógép- és helyihálózat-biztonsággal, hálózatok biztonságos összekapcsolásával összefüggő elméleti és gyakorlati feladatok koordinálására, végrehajtására és ellenőrzésére.
 
-## - Képes az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletei során alkalmazható technikai kommunikációs eszközökkel történő támogatási feladatok tervezésére, szervezésére, irányítására alegység szinten.
+## – Képes az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletei során alkalmazható infokommunikációs eszközökkel történő támogatási feladatok tervezésére, szervezésére, irányítására alegység szinten.
 
-## - Képes az első tiszti beosztásában rendszeresített parancsnoki és más szakbeosztások betöltésére.
+## – Képes az első tiszti beosztásában rendszeresített parancsnoki és más szakbeosztások betöltésére.
 
-## - Képes más fegyvernemekkel, szakalegységekkel való együttműködésre.
+## – Képes más fegyvernemekkel, szakalegységekkel való együttműködésre.
 
-## - Alegységparancsnoki szinten képes a NATO kommunikációs és információvédelemmel kapcsolatos szabályzóinak nemzetközi és hazai környezetben való alkalmazására, gyakorlatokon és külszolgálatok során.
+## – Alegységparancsnoki szinten képes a NATO infokommunikációs és információvédelemmel kapcsolatos szabályzóinak nemzetközi és hazai környezetben való alkalmazására, gyakorlatokon és külszolgálatok során.
 
 ## c) attitűdje
 
-## - Nyitott ismereteinek gyarapítása iránt, fogékony a szakmai, technológiai fejlesztésekre és munkája során törekszik azok megvalósítására.
+## – Nyitott ismereteinek gyarapítása iránt, fogékony a szakmai, technológiai fejlesztésekre, és munkája során törekszik azok megvalósítására.
 
-## - Elkötelezett a technikai kommunikációval és az információvédelemmel kapcsolatos legújabb technológiai eljárások, új szakmai ismeretek, gyakorlatok és módszerek szakmai továbbképzéseken való megismerésére, elsajátítására.
+## – Elkötelezett az infokommunikációval és az információvédelemmel kapcsolatos legújabb technológiai eljárások, új szakmai ismeretek, gyakorlatok és módszerek szakmai továbbképzéseken való megismerésére, elsajátítására.
 
-## - Törekszik a problémák másokkal közösen, együttműködésben való megoldására.
+## – Törekszik a problémák másokkal közösen, együttműködésben való megoldására.
 
-## - Törekszik a szakmai céljainak leginkább megfelelő önképzési lehetőségek kihasználására.
+## – Törekszik a szakmai céljainak leginkább megfelelő önképzési lehetőségek kihasználására.
 
-## - Elkötelezett az infokommunikációs és információvédelmi rendszerekkel kapcsolatos érzékeny információk jogszabályok szerinti kezelésére.
+## – Elkötelezett az infokommunikációs és információvédelmi rendszerekkel kapcsolatos érzékeny információk jogszabályok szerinti kezelésére.
 
-## - Elkötelezett a minőségi munkavégzésre, valamint a minőségi követelmények betartására és betartatására.
+## – Elkötelezett a minőségi munkavégzésre, valamint a minőségi követelmények betartására és betartatására.
 
 ## d) autonómiája és felelőssége
 
-## - Az elöljárói feladatszabás és a parancsnoki hierarchia keretein belül, a tevékenységének kritikus értékelése és folyamatos korrekciója mellett, önállóan végzi szakmai munkáját.
+## – Az elöljárói feladatszabás és a parancsnoki hierarchia keretein belül, a tevékenységének kritikus értékelése és folyamatos korrekciója mellett, önállóan végzi szakmai munkáját.
 
-## - A szakterületén megjelenő folyamatokban szakmailag megalapozott, önálló döntéseket hoz, azokat felelősséggel, az érvényes jogszabályi keretek figyelembevételével végrehajtja.
+## – A szakterületén megjelenő folyamatokban szakmailag megalapozott, önálló döntéseket hoz, azokat felelősséggel, az érvényes jogszabályi keretek figyelembevételével végrehajtja.
 
-## - Felelős döntéseinek, vezetői és szakmai tevékenységének az általa vezetett szervezet egészére gyakorolt hatásaiért, rövid-, közép- és hosszú távú következményeiért.
+## – Felelős döntéseinek, vezetői és szakmai tevékenységének az általa vezetett szervezet egészére gyakorolt hatásaiért, rövid, közép- és hosszú távú következményeiért.
 
-## - Értékeli beosztottjai munkáját, kritikai észrevételekkel elősegíti szakmai fejlődésüket.
+## – Értékeli beosztottjai munkáját, kritikai észrevételekkel elősegíti szakmai fejlődésüket.
 
-## - Felelősséget vállal szakmai döntéseiért, illetve az általa irányított szakmai tevékenységekért.
+## – Felelősséget vállal szakmai döntéseiért, illetve az általa irányított szakmai tevékenységekért.
 
-## - Folyamatos önképzéssel és szervezett továbbképzésekkel fejleszti meglévő képességeit, új kompetenciákat fejleszt, amelyek birtokában alkalmassá válhat magasabb munkakör betöltésére.
+## – Folyamatos önképzéssel és szervezett továbbképzésekkel fejleszti meglévő képességeit, új kompetenciákat fejleszt, amelyek birtokában alkalmassá válhat magasabb munkakör betöltésére.
 
-## 7.1.2.3. A rádióelektronikai felderítő és elektronikai hadviselés specializáción továbbá a katonai üzemeltető vezető
+## 7.1.2.3. A rádióelektronikai felderítő és elektronikai hadviselés specializáción továbbá a katonai infokommunikációs vezető
 
 ## a) tudása
 
-## - Mélyrehatóan ismeri a rádióelektronikai felderítés és az elektronikai hadviselés alapelveit, feladatait, az összfegyvernemi kötelékek vezetési és fegyverirányítási rendszereinek elektronikai felderítési, támadási és védelmi kérdéseit.
+## – Mélyrehatóan ismeri a rádióelektronikai felderítés és az elektronikai hadviselés alapelveit, feladatait, a csapatok vezetési és fegyverirányítási rendszereinek elektronikai felderítési, támadási és védelmi kérdéseit.
 
-## - Ismeri az összfegyvernemi műveleteknek a harcászati szintű felderítő és elektronikai hadviselési rendszerekre gyakorolt hatásait.
+## – Ismeri az összfegyvernemi műveleteknek a harcászati szintű felderítő és elektronikai hadviselési rendszerekre gyakorolt hatásait.
 
-## - Ismeri a harcászati szintű adatforrásokat, az adatszerzési technikákat és az adatszerzési tevékenységek vezetésének elveit, valamint a más felderítő szervekkel való együttműködés kérdéseit.
+## – Ismeri a harcászati szintű adatforrásokat, az adatszerzési technikákat és az adatszerzési tevékenységek vezetésének elveit, valamint a más felderítő szervekkel való együttműködés kérdéseit.
 
-## - Ismeri a légi és földi robottechnikai eszközök konstrukciós, vezetési és harci alkalmazási kérdéseit.
+## – Ismeri a légi és földi robottechnikai eszközök konstrukciós, vezetési és harci alkalmazási kérdéseit.
 
-## - Átfogóan ismeri a más országok felderítő, híradó, rádiólokációs, rádiónavigációs, távérzékelési és elektronikai hadviselési rendszereinek, berendezéseinek technikai paramétereit, működési elveit és harci alkalmazási jellemzőit.
+## – Átfogóan ismeri a más országok felderítő, híradó, rádiólokációs, rádiónavigációs, távérzékelési és elektronikai hadviselési rendszereinek, berendezéseinek technikai paramétereit, működési elveit és harci alkalmazási jellemzőit.
 
-## - Birtokában van azon ismeretek körének, amelyek szükségesek a harcászati szintű rádióelektronikai felderítés és elektronikai hadviselés tervezéséhez, szervezéséhez, irányításához, valamint ellenőrzéséhez.
+## – Birtokában van azon ismeretek körének, amelyek szükségesek a harcászati szintű rádióelektronikai felderítés és elektronikai hadviselés tervezéséhez, szervezéséhez, irányításához, valamint ellenőrzéséhez.
 
-## - Átfogóan ismeri az információs műveletek és a kibertéri műveletek elveit, valamint azok összefüggéseit a rádióelektronikai felderítéssel és az elektronikai hadviseléssel.
+## – Átfogóan ismeri az információs műveletek és a kibertéri műveletek elveit, valamint azok összefüggéseit a rádióelektronikai felderítéssel és az elektronikai hadviseléssel.
 
-## - Mélyrehatóan ismeri a saját szárazföldi és fedélzeti rádióelektronikai felderítő, valamint elektronikai hadviselési rendszerek, berendezések technikai paramétereit, működési elveit, üzemeltetési jellemzőit és harci alkalmazási elveit.
+## – Mélyrehatóan ismeri a saját szárazföldi és fedélzeti rádióelektronikai felderítő, valamint elektronikai hadviselési rendszerek, berendezések technikai paramétereit, működési elveit, üzemeltetési jellemzőit és harci alkalmazási elveit.
 
-## - Átfogóan ismeri a szakterületét érintő szervezési és üzemeltetési jogszabályokat, szabályzókat.
+## – Átfogóan ismeri a szakterületét érintő szervezési és üzemeltetési jogszabályokat, szabályzókat.
 
-## - Átfogóan ismeri a technikai kiszolgáláshoz, karbantartási és javítási feladatokhoz kapcsolódó okmányrendszert.
+## – Átfogóan ismeri a technikai kiszolgáláshoz, karbantartási és javítási feladatokhoz kapcsolódó okmányrendszert.
 
-## - Rendelkezik azzal a tudással, ami szükséges a rádióelektronikai felderítő és elektronikai hadviselési szakalegységek kiképzésének és napi tevékenységének tervezéséhez, szervezéséhez és irányításához; átfogóan ismeri a NATO rádióelektronikai felderítő és elektronikai hadviselés szabályzóit.
-
-## b) képességei
-
-## - Képes szakismereteivel hozzájárulni az összfegyvernemi kötelékek rádióelektronikai felderítő és elektronikai hadviselési támogatásának megtervezéséhez, megszervezéséhez és végrehajtásához.
-
-## - Képes az adatszerzés alegységszintű megtervezésére, megszervezésére és irányítására.
-
-## - Képes a megszerzett adatok előzetes feldolgozására, az elektronikai objektumok értékelésére, a célok kiválasztására és az adatok továbbítására az elöljáró vezetési szint felé.
-
-## - Képes a rendszeresített szárazföldi és légi technikai eszközökkel a rádióelektronikai felderítési, zavarási és elektronikai védelmi feladatok körültekintő megtervezésére, megszervezésére, irányítására és végrehajtására.
-
-## - Képes az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletei során alkalmazható rádióelektronikai felderítő és elektronikai hadviselési eszközökkel történő támogatási feladatok tervezésére, szervezésére, irányítására alegység szinten.
-
-## - Képes az első tiszti beosztásában rendszeresített parancsnoki és más szakbeosztások betöltésére.
-
-## - Képes más fegyvernemekkel, szakalegységekkel való együttműködésre.
-
-## - Alegységparancsnoki szinten képes a NATO rádióelektronikai felderítő és elektronikai hadviselés szabályzóinak nemzetközi és hazai környezetben való alkalmazására, gyakorlatokon és külszolgálatok során.
-
-## c) attitűdje
-
-## - Nyitott és fogékony a szakmai, technológiai fejlesztésekre, és munkája során törekszik azok megvalósítására.
-
-## - Elkötelezett a legújabb elektronikai technológiai eljárások, új szakmai ismeretek, gyakorlatok és módszerek szakmai továbbképzéseken való megismerésére, elsajátítására.
-
-## - Törekszik a problémák másokkal közösen, együttműködésben való megoldására.
-
-## - Törekszik a szakmai céljainak leginkább megfelelő önképzési formák megvalósítására.
-
-## - Elkötelezett az elektronikai hadviseléshez kapcsolódó érzékeny információk jogszabályok szerinti kezelésére.
-
-## - Elkötelezett a minőségi munkavégzésre, valamint a minőségi követelmények betartására és betartatására.
-
-## d) autonómiája és felelőssége
-
-## - Az elöljárói feladatszabás és a parancsnoki hierarchia keretein belül, a tevékenységének kritikus értékelése és folyamatos korrekciója mellett, önállóan végzi szakmai munkáját.
-
-## - Értékeli beosztottjai munkáját, kritikai észrevételekkel elősegíti szakmai fejlődésüket.
-
-## - Felelősséget vállal szakmai döntéseiért, illetve az általa irányított szakmai tevékenységekért.
-
-## - Folyamatos önképzéssel és szervezett továbbképzésekkel fejleszti meglévő képességeit, új kompetenciákat fejleszt, amelyek birtokában alkalmassá válhat felelősségteljes munkakör betöltésére.
-
-## 7.1.2.4. A katonai repülőműszaki specializáción továbbá a katonai üzemeltető vezető
-
-## a) tudása
-
-## - Ismeri a repülőműszaki szakterület műveléséhez szükséges általános törvényszerűségeket, elméleteket, valamint az ezekhez kapcsolódó fogalomrendszert.
-
-## - Ismeri a légi járművek sárkány és hajtómű, valamint azok rendszereinek szerkezeti kialakításával, működésével kapcsolatos általános természettudományos törvényszerűségeket, elméleteket és ezek fogalomrendszerét.
-
-## - Ismeri a katonai légi járművek fedélzeti rendszereinek kialakításával és működésével kapcsolatos általános törvényszerűségeket, elméleteket, valamint az ezekhez kapcsolódó fogalomrendszert.
-
-## - Ismeri a korszerű légijárművek gépészeti rendszereinek feladatait, a rendszereket alkotó főbb berendezések szerkezeti kialakítását, működését és rendszeren belüli együttműködését.
-
-## - Ismeri a repülőtechnika üzemeltetési és javítási szabályait, a repülőeszközre vonatkozó üzemeltetési szabályzatokat és technológiákat, tájékozott a korszerű harci repülőgépek és helikopterek üzemeltetési eljárásairól.
-
-## - Ismeri a katonai repülések megszervezésével, a repülések műszaki biztosításához kapcsolódó környezetvédelmi, munkavédelmi előírásokat, a repülőműszaki tevékenység dokumentációs rendszerét.
-
-## - Magas szintű, széleskörű elméleti tudással és gyakorlati technológiai ismeretekkel bír a repülőtechnika szerkezeti sérüléseinek feltárása, a javíthatóság eldöntése és a javítási lehetőségek kiválasztása terén.
-
-## - Tájékozott a számítógépes szimuláció alapjairól, valamint elméleti ismereti számítógépes környezetben való alkalmazásának lehetőségeiről.
-
-## - Ismeri a repülőszerkezetek fedélzeti és földi villamos rendszereit, ezen belül energiaellátó és -szabályozó rendszerek elvi felépítését, működési és üzemeltetési sajátosságait.
-
-## - Ismeri a légijárműveken alkalmazott fedélzeti műszerek és műszerrendszerek működésének elméleti alapjait, azok szerkezeti felépítését és működését, és a legelterjedtebb berendezéseket.
-
-## - Általános ismeretekkel rendelkezik a légijárművek fedélzeti rádiónavigációs és híradástechnikai rendszereinek felépítéséről és az azokkal kommunikáló rendszerekről.
-
-## - Átfogó ismeretekkel bír a légijárművek rádiólokációs rendszereiről, azok együttműködéséről más rendszerekkel, valamint azok üzemeltetési sajátosságaival kapcsolatosan.
-
-## - Ismeri a repülőfedélzeti pusztító eszközök működésének elveit, jellemzőit, felépítését, birtokában van azok üzemeltetésének szabályaival és sajátosságaival.
-
-## - Átfogóan ismeri a repülőfedélzeti fegyverzeti rendszerek működésének elveit, jellemzőit, felépítését, birtokában van azok üzemeltetésének szabályaival és sajátosságaival.
+## – Rendelkezik azzal a tudással, ami szükséges a rádióelektronikai felderítő és elektronikai hadviselési szakalegységek kiképzésének és napi tevékenységének tervezéséhez, szervezéséhez és irányításához; átfogóan ismeri a NATO rádióelektronikai felderítő és elektronikai hadviselés szabályzóit.
 
 ## b) képességei
 
-## - Képes a légijárművek gépészeti rendszereinek szerkezeti és üzemeltetési sajátosságaival kapcsolatos elméleti ismeretei magas szintű alkalmazására, és gyakorlati hasznosítására.
+## – Képes szakismereteivel hozzájárulni az összfegyvernemi kötelékek rádióelektronikai felderítő és elektronikai hadviselési támogatásának megtervezéséhez, megszervezéséhez és végrehajtásához.
 
-## - Képes a légijárművek avionikai rendszereivel kapcsolatos elméleti ismeretei magas szintű alkalmazására az üzemeltetés gyakorlati folyamataiban.
+## – Képes az adatszerzés alegységszintű megtervezésére, megszervezésére és irányítására.
 
-## - Képes a műszaki-, repülés kiszolgálási-, karbantartási munkák megszervezésére és irányítására, a légijárművek biztonságos üzemeltetésére.
+## – Képes a megszerzett adatok előzetes feldolgozására, az elektronikai objektumok értékelésére, a célok kiválasztására és az adatok továbbítására az elöljáró vezetési szint felé.
 
-## - Magyar és idegen nyelven egyaránt képes a repülőtechnikával kapcsolatos alapdokumentációk és a kapcsolódó szakirodalom feldolgozására.
+## – Képes a rendszeresített szárazföldi és légi technikai eszközökkel a rádióelektronikai felderítési, zavarási és elektronikai védelmi feladatok körültekintő megtervezésére, megszervezésére, irányítására és végrehajtására.
 
-## - Képes szakterületének megfelelően a repülőtechnika üzemeltetési és javítási szabályainak, a repülőeszközre vonatkozó üzemeltetési szabályzatok és technológiák önálló feldolgozására és alkalmazására.
+## – Képes az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletei során alkalmazható rádióelektronikai felderítő és elektronikai hadviselési eszközökkel történő támogatási feladatok tervezésére, szervezésére, irányítására alegység szinten.
 
-## - Képes szakterületének megfelelően a repülőtechnika és berendezései meghibásodásának feltárására, azok a technológiai előírás szerinti szakszerű kijavítására, illetve kijavíttatására.
+## – Képes az első tiszti beosztásában rendszeresített parancsnoki és más szakbeosztások betöltésére.
 
-## - A szakterületének megfelelő üzemeltetési feladatok megoldása kapcsán képes a pontos, precíz munkavégzésre, végrehajtásra.
+## – Képes más fegyvernemekkel, szakalegységekkel való együttműködésre.
 
-## - Képes a repülések műszaki biztosításához kapcsolódó környezet-, munka- és tűzvédelmi előírások maradéktalan betartására.
-
-## - Képes az üzembentartási és javítási műszaki okmányok előírásszerű vezetésére.
+## – Alegységparancsnoki szinten képes a NATO rádióelektronikai felderítő és elektronikai hadviselés szabályzóinak nemzetközi és hazai környezetben való alkalmazására, gyakorlatokon és külszolgálatok során.
 
 ## c) attitűdje
 
-## - Vállalja és hitelesen közvetíti a katonai repülő műszaki szakma társadalmi szerepét, viszonyát szűkebb és tágabb környezetéhez.
+## – Nyitott és fogékony a szakmai, technológiai fejlesztésekre, és munkája során törekszik azok megvalósítására.
 
-## - Nyitott a repülőműszaki szakterülettel kapcsolatos szakmai ismereteinek gyarapítása iránt.
+## – Elkötelezett a legújabb elektronikai technológiai eljárások, új szakmai ismeretek, gyakorlatok és módszerek szakmai továbbképzéseken való megismerésére, elsajátítására.
 
-## - Feladatai ellátása során együttműködési készség jellemzi, törekszik munkatársainak bevonására a döntéshozatali folyamatokba.
+## – Törekszik a problémák másokkal közösen, együttműködésben való megoldására.
 
-## - Feladatellátása során törekszik a megfelelő önkontrollra, az előítéletektől mentes empatikus gondolkodásra és toleráns viselkedésre.
+## – Törekszik a szakmai céljainak leginkább megfelelő önképzési formák megvalósítására.
 
-## - A repülésbiztonság szempontjait szem előtt tartva elkötelezett a precíz, minőségi szakmai munkavégzés iránt.
+## – Elkötelezett az elektronikai hadviseléshez kapcsolódó érzékeny információk jogszabályok szerinti kezelésére.
 
-## - Elkötelezett a szakmai előmenetel feltételeinek teljesítésében.
+## – Elkötelezett a minőségi munkavégzésre, valamint a minőségi követelmények betartására és betartatására.
 
 ## d) autonómiája és felelőssége
 
-## - A repülések műszaki kiszolgálása során megjelenő folyamatokban szakmai képzettségének, szakterületének megfelelően képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+## – Az elöljárói feladatszabás és a parancsnoki hierarchia keretein belül, a tevékenységének kritikus értékelése és folyamatos korrekciója mellett, önállóan végzi szakmai munkáját.
 
-## - Tisztában van döntéseinek, tevékenységének a repülés-biztonságra gyakorolt hatásaival, következményeivel.
+## – Értékeli beosztottjai munkáját, kritikai észrevételekkel elősegíti szakmai fejlődésüket.
 
-## - Felelősen részt vesz a munkakörében hozzá rendelt szakemberek szakmai továbbképzésében, annak tervezésében és szervezésében.
+## – Felelősséget vállal szakmai döntéseiért, illetve az általa irányított szakmai tevékenységekért.
 
-## - A repülőeszközök műszaki üzembentartása során a hibabehatárolás és javítás folyamatában tevékenységét önállóan, a magas szintű minőségi munkavégzés felelősségének tudatával végzi.
-
-## - Az üzemeltetésben való részvételhez szükséges jogosultságok megszerzése érdekében önálló tanulással és felkészüléssel sajátítja el a munkaköréhez tartozó repülőgép típus üzemeltetési ismereteit.
+## – Folyamatos önképzéssel és szervezett továbbképzésekkel fejleszti meglévő képességeit, új kompetenciákat fejleszt, amelyek birtokában alkalmassá válhat felelősségteljes munkakör betöltésére.
 
 ## 8. Az alapképzés jellemzői
 
 ## 8.1. Szakmai jellemzők
 
-## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
+## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül
 
-## – műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4-8 kredit,
+## – műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4–8 kredit,
 
-## – államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
+## – államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5–20 kredit,
 
-## – egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## – egyetemi közös közszolgálati gyakorlat 2–4 kredit,
 
 ## – katonai alapismeretek 14–18 kredit,
 
@@ -4856,11 +4786,11 @@
 
 ## – műszaki és elektronikai ismeretek 24–40 kredit,
 
-## – katonai üzemeltetői szakmai alapismeretek 24-40 kredit.
+## – katonai infokommunikációs szakmai alapismeretek 24–40 kredit.
 
-## 8.1.2. A specializációk tudományágai, szakterületei és kreditaránya:
+## 8.1.2. A specializációk tudományágai, szakterületei és kreditaránya
 
-## A specializációk kreditaránya további 60-96 kredit
+## A specializációk kreditaránya további 60–96 kredit
 
 ## a) katonai informatika specializáció
 
@@ -4868,31 +4798,23 @@
 
 ## – infokommunikációs rendszerek üzemeltetésének ismeretei, hálózatfelügyeleti ismeretek, információbiztonsági ismeretek, a Magyar Honvédség és a NATO infokommunikációs rendszereinek ismerete, programozási ismeretek, informatikai alkalmazások tervezésének, szervezésének ismerete;
 
-## b) katonai infokommunikáció és információvédelem specializáció
+## b) katonai kommunikáció és információvédelem specializáció
 
 ## – polgári, kormányzati és katonai infokommunikációs hálózati ismeretek, információvédelmet, információbiztonságot alkotó technikai kommunikációs és informatikai rendszerismeretek, hálózatok speciális szervezési, működési, üzemeltetési, hálózatfelügyeleti elvei, sajátosságai,
 
 ## – nemzeti és külföldi nyílt, nem nyilvános és minősített infokommunikációs és elektronikus adatfeldolgozó rendszerek tervezési, üzemeltetési ismeretei,
 
-## – elektronikus információbiztonság technikai menedzsmentjének megvalósítása, a rejtjelbiztonsággal, EMC-vel, átvitelbiztonsággal, számítógép- és helyi hálózat biztonsággal, hálózatok biztonságos összekapcsolásával összefüggő elméleti és gyakorlati ismeretei;
+## – elektronikus információbiztonság technikai menedzsmentjének megvalósítása, a rejtjelbiztonsággal, EMC-vel, átvitelbiztonsággal, számítógép- és helyihálózat-biztonsággal, hálózatok biztonságos összekapcsolásával összefüggő elméleti és gyakorlati ismeretei;
 
 ## c) rádióelektronikai felderítő és elektronikai hadviselés specializáció
 
 ## – rádióelektronikai felderítő és elektronikai hadviselés specifikus ismeretek,
 
-## – szakmai elektronikai ismeretek, szaktechnikai berendezések és rendszertan ismeretek, szakharcászati ismeretek;
-
-## d) katonai repülőműszaki specializáció
-
-## – repülőműszaki alapozó ismeretek,
-
-## – repülő gépészeti és repülő fedélzeti rendszerek alapismeretek,
-
-## – repülő gépészeti, repülő műszer és automatikai, repülő rádióelektronikai és repülő fegyvertechnikai szakmai ismeretek, légijármű rendszerismeretek, légijármű üzemeltetési ismeretek.
+## – szakmai elektronikai ismeretek, szaktechnikai berendezések és rendszertan ismeretek, szakharcászati ismeretek.
 
 ## 8.2. Idegennyelvi követelmény
 
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. szerinti, 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -5322,7 +5244,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - katonai alapismeretek 16–24 kredit,
 
@@ -5380,7 +5302,7 @@
 
 ## 8.2. Idegennyelvi követelmény
 
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. szerinti, 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -5624,7 +5546,7 @@
 
 ## - Képes az irányítás során alkalmazott biztonsági rendszabályok figyelembevételével történő elkülönítési eljárások kiválasztására és alkalmazására.
 
-## - Képes az alkalmazott radar berendezések által előállított légi helyzetképek alapján történő döntések meghozatalára és ezek végrehajtására.
+## - Képes az alkalmazott radarberendezések által előállított légi helyzetképek alapján történő döntések meghozatalára és ezek végrehajtására.
 
 ## - Képes a NATO szabvány eljárásrend alkalmazására a légiforgalmi és légvédelmi irányítási folyamatban.
 
@@ -5732,7 +5654,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - katonai alapismeretek 16–24 kredit,
 
@@ -5772,7 +5694,7 @@
 
 ## 8.2. Idegennyelvi követelmény
 
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. szerinti, 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges. Az állami légijármű vezető és a katonai repülésirányító szakirányon végzettek minimum ICAO LEVEL 4 vizsgával kell, hogy rendelkezzenek.
+## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges. Az állami légijármű vezető és a katonai repülésirányító szakirányon végzettek minimum ICAO LEVEL 4 vizsgával kell, hogy rendelkezzenek.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -5882,7 +5804,7 @@
 
 ## - A magyar államszervezetben való munkavégzés esetén elkötelezett Magyarország érdekei, továbbá a társadalmi szolidaritás és az esélyegyenlőség, a demokratikus értékek, a jogállamiság, az európai és szövetségi értékközösség mellett.
 
-## - Nemzetközi szervezetben való munkavégzés esetén elkötelezett az adott szervezett céljai és érdekei mellett.
+## - Nemzetközi szervezetben való munkavégzés esetén elkötelezett az adott szervezet céljai és érdekei mellett.
 
 ## d) autonómiája és felelőssége
 
@@ -5900,7 +5822,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, rendészettudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - politikatudomány 10-40 kredit,
 
@@ -6044,7 +5966,7 @@
 
 ## - államtudományi modul (állam- és jogtudomány, hadtudomány, rendészettudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
 
-## - egyetemi közös köszszolgálati gyakorlat 2-4 kredit,
+## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
 
 ## - hadtudomány 30-75 kredit,
 
@@ -6070,6 +5992,74 @@
 
 ## Az abszolutórium megszerzésének feltétele legalább 200 óra szakmai gyakorlat elvégzése. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
-3. melléklet a 222/2019. (IX. 25.) Korm. rendelethez
+3. melléklet a 222/2019. (IX. 25.) Korm. rendelethez[^5]
 
 MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE
+
+|  | A | B | C | D | E | F | G | H | I | J |
+
+| 1. | Képzési terület | Képzési terület angol nyelvű megnevezése | Felsőoktatási terület | Felsőoktatási terület angol nyelvű megnevezése | Mesterképzési szak | Osztatlan szak | Mesterképzési szak, osztatlan szak angol nyelvű megnevezése | Szakképzettség | Mesterképzésben szerezhető szakképzettség angol nyelvű megnevezése | EKKR és MKKR szint |
+
+| 2. | állam- tudományi | Political Science and Public Governance | állam- tudományi és közigazgatási | Science of Public Governance and Public Administration |  | állam- tudományi | Science in Public Governance | okleveles államtudományi mester | Master in Public Governance | 7 |
+
+| 3. |  |  |  |  | közigazgatási |  | Public Administration | okleveles közigazgatási szakértő | Expert of Public Administration | 7 |
+
+| 4. |  |  |  |  | kiberbiztonsági |  | Cyber Security | okleveles kiberbiztonsági szakértő | Cyber Security Expert | 7 |
+
+| 5. |  |  |  |  | kormányzás és vezetés |  | Government and Leadership | kormányzás- és vezetéstudományok mestere | Master of Studies in Government and Leadership | 7 |
+
+| 6. |  |  |  |  | fejlesztéspolitikai program- menedzsment |  | Development Policy and Program Management | fejlesztéspolitikai program- menedzsment szakértő | Development Policy and Program Management Expert | 7 |
+
+| 7. |  |  |  |  | európai és nemzetközi igazgatás |  | European and International Administration | okleveles európai és nemzetközi igazgatásszervező | European and International Administration Expert | 7 |
+
+| 8. |  |  | rendészeti | Law Enforcement | rendészeti vezető |  | Law Enforcement Management | okleveles rendészeti vezető | Law Enforcement Manager | 7 |
+
+| 9. |  |  |  |  | biztonsági szervező |  | Security Manager | okleveles biztonsági szervező | Security Manager | 7 |
+
+| 10. |  |  |  |  | kriminalisztika |  | Criminalistics | a) okleveles kriminalista, rendészeti szakirányon b) okleveles kriminalista, polgári szakirányon | a) Certified Criminalist in Law Enforcement Specialisation b) Certified Criminalist in Civilian Specialisation | 7 |
+
+| 11. |  |  |  |  | katasztrófa- védelem |  | Disaster Management | okleveles katasztrófavédelmi vezető | Certified Disaster Manager | 7 |
+
+| 12. |  |  | nemzet- biztonsági | National Security | polgári nemzet- biztonsági |  | Civilian National Security Studies | okleveles polgári nemzetbiztonsági vezető szakértő | Senior Expert in Civilian National Security | 7 |
+
+| 13. |  |  |  |  | nemzet- biztonsági |  | National Security Studies | okleveles nemzetbiztonsági szakértő | National Security Expert | 7 |
+
+| 14. |  |  | katonai | Military | katonai vezetői |  | Military Leadership | okleveles katonai vezető | Military Leader | 7 |
+
+| 15. |  |  |  |  | katonai üzemeltetés |  | Military Maintenance | okleveles katonai üzemeltető | Military Maintenance (Technical) Manager | 7 |
+
+| 16. |  |  |  |  | katonai műveleti logisztika |  | Logistics of Military Operations | okleveles összhaderőnemi logisztikai vezető | Joint Logistics Leader | 7 |
+
+| 17. |  |  | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi közszolgálati kapcsolatok |  | International Public Service Studies | a) okleveles nemzetközi közszolgálati szakértő, nemzetközi közigazgatási tanulmányok szakirányon b) okleveles nemzetközi közszolgálati szakértő, biztonsági tanulmányok szakirányon c) okleveles nemzetközi közszolgálati szakértő, rendészeti tanulmányok szakirányon d) okleveles nemzetközi közszolgálati szakértő, Európa-tanulmányok szakirányon | a) Expert in International Public Service Studies, Specialised in International Public Administration Studies b) Expert in International Public Service Studies, Specialised in Security Studies c) Expert in International Public Service Studies, Specialised in Law Enforcement Studies d) Expert in International Public Service Studies, Specialised in European Studies | 7 |
+
+| 18. |  |  |  |  | International Public Service Relations |  | International Public Service Relations | nemzetközi közszolgálati szakértő | Expert in International Public Service | 7 |
+
+| 19. |  |  |  |  | nemzetközi biztonság- és védelem- politikai |  | International Security and Defence Policy | okleveles nemzetközi biztonság- és védelempolitikai szakértő | Expert in International Security and Defence Policy | 7 |
+
+| 20. |  |  |  |  | nemzetközi vízpolitika és vízdiplomácia |  | International Water Governance and Diplomacy | okleveles nemzetközi vízpolitikai menedzser | International Water Governance Manager | 7 |
+
+A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
+
+1. ÁLLAMTUDOMÁNYI MESTERKÉPZÉSI SZAK OSZTATLAN KÉPZÉS
+
+1. A mesterképzési szak megnevezése: államtudományi (Science of Public Governance)
+
+2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése
+
+- végzettségi szint: mester- (magister, master, rövidítve: MA-) fokozat
+
+- szakképzettség: okleveles államtudományi mester
+
+- a szakképzettség angol nyelvű megjelölése: Master in Public Governance
+
+Az oklevél doktori cím (dr. rer. pol.) használatára jogosít.
+
+3. Képzési terület, az NKE tv. 3. §-ában meghatározott felsőoktatási terület: államtudományi, államtudományi és közigazgatási
+
+4. A képzési idő félévekben: 10 félév
+
+5. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 300 kredit
+
+- a szak orientációja: kiegyensúlyozott (40-60 százalék)
+
+[^5]: A 3. melléklet az 544/2020. (XII. 2.) Korm. rendelet 5. §-a és 7. §-a szerint módosított szöveg.

@@ -9,3 +9,10 @@
 (5) A (3) bekezdésben meghatározott közigazgatási mesterképzési szak indítását az oktatási hivatal a felsőoktatási intézmény kérelme alapján – e rendelet hatálybalépését követően – nyilvántartásba veszi.
 
 (6) A (4) és (5) bekezdésben meghatározott kérelmet a felsőoktatási intézmény legkésőbb e rendelet hatálybalépését követő 30 napon belül nyújthatja be.
+
+(7)[^1] Azon szakot, valamint a kapcsolódó specializációt és szakképzettséget, amelynek megnevezését a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet, valamint az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló 222/2019. (IX. 25.) Korm. rendelet módosításáról szóló 544/2020. (XII. 2.) Korm. rendelet (a továbbiakban: Mód. Korm. rendelet) megváltoztatta, az oktatási hivatal hivatalból nyilvántartásba veszi. E szak tekintetében a Mód. Korm. rendelet által meghatározott képzési és kimeneti követelményeket, valamint az e követelmények alapján módosított képzési programot a 2021/2022. tanévben első évfolyamon tanulmányaikat kezdő hallgatókra, majd azt követően felmenő rendszerben kell alkalmazni.
+
+(8)[^2] A 2020/2021. tanévben megkezdett mesterképzésben folytatott tanulmányokra tekintettel meghatározott idegennyelvi követelmény a Mód. Korm. rendelet alapján is teljesíthető.
+
+[^1]: A 9. § (7) bekezdését az 544/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
+[^2]: A 9. § (8) bekezdését az 544/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
