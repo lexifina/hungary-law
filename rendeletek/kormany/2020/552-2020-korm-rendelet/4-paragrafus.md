@@ -1,0 +1,3 @@
+## 3. § Az R. 1. § (1) bekezdés c) pontjában az „illetve az üzletben történő munkavégzés során” szövegrész helyébe az „illetve – a (4a) bekezdés szerinti kivétellel – az üzletben történő munkavégzés során” szöveg lép.
+
+## 3. Az egészségügyi és az egészségügyben dolgozók, a nevelési, oktatási intézményekben nevelési, oktatási tevékenységet végző dolgozók, a szociális intézményekben dolgozók, valamint a bölcsődei ellátásban dolgozók SARS-CoV-2 koronavírus kimutatására alkalmas rendszeres vizsgálatáról és az egészségügyi ellátással összefüggő egyes kérdésekről szóló 509/2020. (XI. 19.) Korm. rendelet módosítása
