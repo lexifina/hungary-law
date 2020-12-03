@@ -1,0 +1,1 @@
+## 14. § A 272/2014. (XI. 5.) Korm. rendelet 145. § (2)–(4) bekezdésétől eltérően az irányító hatóság – ha kockázatelemzés mást nem indokol – a projekt záró kifizetési igénylését jóváhagyhatja akkor is, ha a projekt záró kifizetési igénylésének jóváhagyását megelőzően elvégzendő helyszíni ellenőrzésre nem kerül sor.

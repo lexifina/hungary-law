@@ -1,0 +1,3 @@
+19. § (1) A 272/2014. (XI. 5.) Korm. rendelet 122. § (1) bekezdésétől eltérően az elszámolható költségek valódiságának igazolása, valamint a szakmai beszámoló alátámasztása céljából a számlát vagy azzal egyenértékű bizonylatot, a kifizetés bizonylatát, valamint a szerződést vagy szerződés hiányában a visszaigazolt írásos megrendelőt szükséges benyújtani a kifizetési igénylésben.
+
+(2) Az irányító hatóság, EMVA esetén a kifizető ügynökség a 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat szerinti – az (1) bekezdésben nem szereplő – alátámasztó dokumentumok meglétét és tartalmát ellenőrizheti.
