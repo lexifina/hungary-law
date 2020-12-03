@@ -1,0 +1,3 @@
+## 9. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R.) 1. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A Kormány a 3. melléklet 23. és 42. pontja szerinti beruházások esetén az 1. melléklet szerinti közigazgatási hatósági eljárásokban, valamint a vízgazdálkodási és vízvédelmi célú projektek esetén, továbbá a gyorsforgalmi közúthálózat fejlesztése során az 1. melléklet 9. pontja szerinti táblázat 2. és 3. sorában meghatározott környezetvédelmi közigazgatási hatósági eljárásokban vízgazdálkodási és vízvédelmi szakkérdésben országos illetékességgel eljáró szakhatóságként az országos vízügyi hatóságot és az országos vízvédelmi hatóságot jelöli ki.”
