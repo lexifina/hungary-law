@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az Európai Röntgen-szabadelektronlézer Létesítmény (European X-Ray Free-Electron Laser, XFEL) építéséről és üzemeltetéséről szóló Egyezményhez (a továbbiakban: Egyezmény) kapcsolódó, a Spanyol Királyság csatlakozására vonatkozó jegyzőkönyv (a továbbiakban: Spanyol Csatlakozási Jegyzőkönyv) kötelező hatályának elismerésére.
