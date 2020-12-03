@@ -1,4 +1,4 @@
-6. §[^9] (1) A sportrendezvényen nézőként tartózkodni tilos.
+6. §[^12] (1) A sportrendezvényen nézőként tartózkodni tilos.
 
 (2) A sportrendezvény nézők nélkül, zárt körülmények között megtartható.
 
@@ -20,4 +20,4 @@ e) a házasulók testvérei és
 
 f) a házasulók gyermekei
 
-[^9]: A 6. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^12]: A 6. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
