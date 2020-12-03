@@ -1,4 +1,4 @@
-## 46. §[^36]
+## 46. §[^37]
 
 ## 20. Ideiglenes intézkedés
 
@@ -6,4 +6,4 @@
 
 (2) Az intézkedés meghosszabbításáról az elnök vagy az előadó alkotmánybíró kezdeményezésére a teljes ülés legkésőbb a felfüggesztő határozat hatályvesztését megelőző nyolc nappal dönt.
 
-[^36]: A 46. §-t az 1005/2016. (VI. 22.) AB Tü. határozat 7. §-a hatályon kívül helyezte, e módosító határozat 9. §-a alapján a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+[^37]: A 46. §-t az 1005/2016. (VI. 22.) AB Tü. határozat 7. §-a hatályon kívül helyezte, e módosító határozat 9. §-a alapján a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

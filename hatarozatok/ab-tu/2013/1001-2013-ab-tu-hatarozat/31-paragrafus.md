@@ -10,8 +10,8 @@ b) a tanács ülését megelőző munkanapig az Abtv. 49. § (6) bekezdés bb), 
 
 (4) A panasz visszautasításáról szóló végzést a visszautasítás okának és indokának rövid megjelölésével kell megindokolni.
 
-(5)[^19] A végzést az indítványozóval, valamint az elsőfokú bírósággal kell közölni. A panasz befogadásáról az előadó alkotmánybíró – Ve. és Nsztv. szerinti eljárások kivételével – az indítványozót és az elsőfokú bíróságot értesíti, más érdekeltet értesíthet.
+(5)[^20] A végzést az indítványozóval, valamint az elsőfokú bírósággal kell közölni. A panasz befogadásáról az előadó alkotmánybíró – Ve. és Nsztv. szerinti eljárások kivételével – az indítványozót és az elsőfokú bíróságot értesíti, más érdekeltet értesíthet.
 
 (6) Az előadó alkotmánybíró a panasz befogadásáról szóló döntés helyett a panasz érdemi elbírálását tartalmazó határozat-tervezetet a testület elé terjesztheti.
 
-[^19]: A 31. § (5) bekezdése az 1001/2018. (III. 8.) AB Tü. határozat 2. §-a szerint módosított szöveg.
+[^20]: A 31. § (5) bekezdése az 1001/2018. (III. 8.) AB Tü. határozat 2. §-a szerint módosított szöveg.

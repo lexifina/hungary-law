@@ -1,4 +1,4 @@
-## 54. §[^40]
+## 54. §[^41]
 
 55. § (1) A főtitkár, az előadó alkotmánybíró, a tanácsvezető kezdeményezésére, vagy saját hatáskörében az elnök elrendelheti az adott ügy gyorsított eljárásban történő, vagy soron kívüli elbírálását.
 
@@ -8,4 +8,4 @@
 
 (4) Az ítélkezési szünet időtartama a jelen ügyrendben meghatározott határidőkbe nem számít be.
 
-[^40]: Az 54. §-t az 1001/2014. (III. 20.) AB Tü. határozat 8. § (2) bekezdése hatályon kívül helyezte. E módosító határozat 8. § (3) bekezdése lapján az Ügyrend-módosítás szabályai a hatálybalépésekor folyamatban lévő eljárások tekintetében is alkalmazandóak.
+[^41]: Az 54. §-t az 1001/2014. (III. 20.) AB Tü. határozat 8. § (2) bekezdése hatályon kívül helyezte. E módosító határozat 8. § (3) bekezdése lapján az Ügyrend-módosítás szabályai a hatálybalépésekor folyamatban lévő eljárások tekintetében is alkalmazandóak.

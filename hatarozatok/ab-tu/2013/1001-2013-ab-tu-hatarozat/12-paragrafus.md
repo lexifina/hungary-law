@@ -1,4 +1,4 @@
-## 11. § Az Abtv. 55. § (5) bekezdésében meghatározott egyesbírói eljárásban az elnök által kijelölt két alkotmánybíró jár el, a kijelölés három hónapra szól. Az egyesbíróként kijelölt alkotmánybíró tizennyolc hónap elteltével jelölhető ismét egyesbírónak, kivéve, ha korábban történő kijelölését kéri.
+## 11. §[^12] Az Abtv. 55. § (5) bekezdésében meghatározott egyesbírói eljárásban egyidejűleg öt alkotmánybíró jár el. Az egyes bírókat az elnök javaslatára a teljes ülés választja egy évre.
 
 ## 4. A testületi működés és munkaszervezés általános szabályai
 
@@ -13,3 +13,5 @@
 (5) Amennyiben az összehívott testületi ülés nem határozatképes, az elnök, illetve a tanácsvezető megkísérli a határozatképesség helyreállítását, ennek eredménytelensége esetén a döntést elhalasztja.
 
 (6) Az ülések napirendjét az Alkotmánybíróság hivatalos honlapján közzé kell tenni.
+
+[^12]: A 11. § az 1009/2020. (XII. 2.) AB Tü. határozat 1. pontjával megállapított szöveg.
