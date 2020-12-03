@@ -40,6 +40,8 @@ n) a kutatás-fejlesztés és az innovációs szektor szereplői innovációs te
 
 o) közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az oktatói és kutatói kiválóság támogatása és ösztönzése kormányzati feladatainak ellátásában, ehhez kapcsolódóan működteti a nemzeti felsőoktatásról szóló törvény szerinti Országos Tudományos Diákköri Tanács titkárságát.
 
+p)[^1] a Nemzeti Tudománypolitikai Tanács titkárságának feladatait a Hivatal látja el.
+
 (2) A Hivatal a hazai közfinanszírozású támogatások tekintetében
 
 a) a pályaművek befogadásával,
@@ -77,3 +79,5 @@ g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsol
 (5) Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró érintett miniszterrel, államigazgatási szervvel, a Magyar Tudományos Akadémiával, az Eötvös Loránd Kutatási Hálózat Titkárságával és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
 
 (6) A Hivatal elnöke a Hivatal feladatkörét érintően a tudománypolitika koordinációjáért felelős miniszteren keresztül jogszabály megalkotását és módosítását kezdeményezheti.
+
+[^1]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
