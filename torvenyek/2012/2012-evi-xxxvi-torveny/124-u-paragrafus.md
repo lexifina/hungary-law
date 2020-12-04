@@ -8,9 +8,9 @@
 
 a) családi és utónevét,
 
-b) születési helyét,
+b) születési családi és utónevét,
 
-c) születési idejét,
+c) születési idejét és helyét,
 
 d) anyja születési családi és utónevét,
 
@@ -38,8 +38,14 @@ b) az (1) bekezdés h)–k) pontja szerinti személyes adatot az országgyűlés
 
 c) az (1) bekezdés a)–d) és i)–l) pontja szerinti személyes adatot – az (1) bekezdés a)–d) pontja tekintetében az a) pont, az (1) bekezdés i)–k) pontja tekintetében a b) pont szerinti adatkezelési célokon túlmenően – a társadalombiztosítási nyugellátásra való jogosultság igazolása
 
+d) az (1) bekezdés a)–f) és l) pontja szerinti személyes adatot a korábban országgyűlési képviselői megbízatással rendelkező személlyel való kapcsolattartás
+
 céljából, az országgyűlési képviselői megbízatás keletkezésétől kezdődően kezeli.
 
-(3) Az Országgyűlés Hivatala az (1) bekezdés e)–g) és h) pontja szerinti személyes adatot azon Országgyűlés megbízatásának megszűnését követő egy év elteltével törli, amelyben az érintett személy országgyűlési képviselői megbízatással rendelkezett.
+(2a) Az Országgyűlés Hivatala az országgyűlési képviselő, valamint a korábban országgyűlési képviselői megbízatással rendelkező személy közéleti tevékenységéről történő megemlékezés céljából kezeli az országgyűlési képviselő, valamint a korábban országgyűlési képviselői megbízatással rendelkező személy elhalálozása időpontjára vonatkozó adatot.
+
+(3) Az Országgyűlés Hivatala az (1) bekezdés g) és h) pontja szerinti személyes adatot azon Országgyűlés megbízatásának megszűnését követő egy év elteltével törli, amelyben az érintett személy országgyűlési képviselői megbízatással rendelkezett.
 
 (4) Az Országgyűlés Hivatala az (1) bekezdés a)–d) és i)–l) pontja szerinti személyes adatot – a (2) bekezdés c) pontja szerinti célból – az országgyűlési képviselői megbízatás megszűnésétől számított ötven évig kezeli. Ismételt képviselői megbízatás esetén az adatkezelés e bekezdésben meghatározott időtartama a legutóbbi képviselői megbízatás megszűnésekor kezdődik.
+
+(5) Az Országgyűlés Hivatala az (1) bekezdés a)–f) és l) pontja, valamint a (2a) bekezdés szerinti személyes adatot – a (2) bekezdés d) pontja és a (2a) bekezdés szerinti célból – az országgyűlési képviselő, valamint a korábban országgyűlési képviselői megbízatással rendelkező személy közéleti tevékenységéről történő megemlékezést követően egy évig kezeli.
