@@ -48,6 +48,16 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 (15) Az ügyfél az (1) bekezdés b) pontjában megjelölt elektronikus azonosítási szolgáltatás igénybevételére elektronikusan, a tároló elemet tartalmazó személyazonosító igazolvány használatával is regisztrálhat.
 
+(15a) Az ügyfél az (1) bekezdés b) pontjában megjelölt elektronikus azonosítási szolgáltatás igénybevételére a Kormány rendeletében megjelölt szerv által biztosított, kép- és hangfelvétel rögzítésén alapuló rendszer használatával is – a Kormány rendeletében meghatározott részletszabályok szerint – regisztrálhat.
+
+(15b) A (15a) bekezdés szerinti regisztráció esetén a Kormány rendeletében kijelölt regisztrációs szerv az ügyféllel létrejött teljes kommunikációt, az ügyfélnek szóló részletes tájékoztatást és az ügyfélnek az adatok kezelésére vonatkozó kifejezett hozzájárulását visszakereshető módon, kép- és hangfelvételen rögzíti és azt a felvételtől számított tíz évig megőrzi.
+
+(15c) A (15b) bekezdésben foglalt esetben a Kormány rendeletében kijelölt regisztrációs szerv jogosult az ügyfélnek a személyazonosságát igazoló okmányról készült képfelvételnek a (15b) bekezdés szerinti időtartamban történő tárolására.
+
+(15d) A (15a) bekezdés szerinti regisztráció során a Kormány rendeletében kijelölt regisztrációs szerv a videojel segítségével az okmányból kiolvasott természetes személyazonosító adatokat, az állampolgárságra vonatkozó adatot és az okmányszámot összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő természetes személyazonosító adatokkal, ellenőrzi a személyazonosság igazolására alkalmas hatósági igazolvány érvényességét, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/B. alcíme szerinti automatizált összehasonlítás igénybevételével az ügyfélről videojel útján készült arckép és a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásának az egymással történő megfeleltethetőségét. A nyilvántartásban szereplő adatok egyezősége, a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége, valamint az egyezőség feltételeként meghatározott értékszám elérése esetén az azonosítás sikeresen megtörténik.
+
+(15e) A regisztráció során a Kormány rendeletében kijelölt regisztrációs szerv a 31. §-ban és az (5)–(15) bekezdésben foglaltak szerint jár el, azzal, hogy a személyes megjelenésnek a (15a) bekezdés szerinti rendszer használatát kell tekinteni.
+
 (16) A tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás esetében regisztrációs eljárás alatt a tároló elemet tartalmazó személyazonosító igazolvány iránti kérelem benyújtására irányuló eljárást kell érteni.
 
 (17) A (16) bekezdésben foglalt esetben a Központi Ügyfél-regisztrációs Nyilvántartásba a (10) bekezdés a) pontja szerinti adatokat a személyiadat- és lakcímnyilvántartást kezelő szerv adatközlése alapján a tároló elemet tartalmazó személyazonosító igazolvány érvényessé válásakor kell bejegyezni.

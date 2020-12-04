@@ -44,6 +44,8 @@ r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató e
 
 s) az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos részletszabályokat.
 
+t) a bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszereket.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 a) a Felügyeletet,
@@ -57,6 +59,10 @@ d) a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet, valami
 e) az országos telefonos ügyfélszolgálatot működtető szervet,
 
 f) a tárhelyszolgáltatót.
+
+g) a 35. § (15a) bekezdése szerinti szervet,
+
+h) az elektronikus ügyintézési pont működtetőjét.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

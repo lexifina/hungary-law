@@ -86,7 +86,7 @@ l) a meghatározott ügyek e törvény szerinti elektronikus intézését önké
 
 18. Elektronikus Ügyintézési Felügyelet (a továbbiakban: Felügyelet): az elektronikus ügyintézés előmozdításáért, az elektronikus ügyintézés felügyeletéért, az együttműködő szervek együttműködéséért és koordinációjáért felelős, e törvényben és a törvény végrehajtására kiadott kormányrendeletben meghatározott feladatokat ellátó, Kormány által kijelölt szerv;
 
-19. elektronikus űrlapkitöltés-támogatási szolgáltatás: olyan szolgáltatás, amelynek keretében a jogszabályban kijelölt szolgáltató biztosítja az elektronikus ügyintézést biztosító szerv által meghatározott adattartalmú elektronikus űrlapok létrehozását, azok ügyfél általi kitöltésének és benyújtásának lehetőségét;
+19. elektronikus űrlapkitöltés-támogatási szolgáltatás: olyan szolgáltatás, amelynek keretében a jogszabályban kijelölt szolgáltató biztosítja az elektronikus ügyintézést biztosító szerv által meghatározott adattartalmú elektronikus űrlapok létrehozását, azok ügyfél általi kitöltésének, hitelesítésének és benyújtásának lehetőségét;
 
 20. érvényesítési adat: az eIDAS Rendelet 3. cikk 40. pontja szerinti adat;
 

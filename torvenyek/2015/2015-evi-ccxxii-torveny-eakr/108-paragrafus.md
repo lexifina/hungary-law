@@ -26,7 +26,7 @@
 
 (6c) A (6b) bekezdés szerinti tárhelyre kézbesített küldemény esetén a 14. § (4) bekezdésében foglalt kézbesítési szabályokat kell alkalmazni.
 
-(6d) 2020. december 31-ig természetes személy vagy egyéni vállalkozó sem tehet a rendelkezési nyilvántartásba adóügyekben a 22. § (1) bekezdés e) pontja szerinti rendelkezést.
+(6d) 2022. december 31-ig természetes személy vagy egyéni vállalkozó sem tehet a rendelkezési nyilvántartásba az állami adó- és vámhatóság hatáskörébe tartozó adóügyekben a 22. § (1) bekezdés e) pontja szerinti rendelkezést.
 
 (7) E törvény hatálybalépését követően elektronikus ügyintézés céljából az elektronikus ügyintézést biztosító szervek kizárólag olyan új informatikai rendszereket állíthatnak működésbe, amelyek e törvény szerinti elektronikus ügyintézésre alkalmasak.
 

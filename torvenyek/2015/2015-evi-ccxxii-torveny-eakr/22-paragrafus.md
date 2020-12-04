@@ -20,7 +20,7 @@ b) egy, több vagy valamennyi elektronikus ügyintézést biztosító szervnek c
 
 c) rendelkezhet arról, hogy valamely ügyintézési rendelkezését mely elektronikus ügyintézést biztosító szerv jogosult megismerni, ha ezen a körön belül megjelöli, hogy az ügyintézési rendelkezése mely elektronikus ügyintézést biztosító szervvel szemben hatályos,
 
-d) nyilatkozhat úgy, hogy a Kormány rendeletében meghatározott szolgáltató elektronikus úton, időszakonként összesítve – az ügyfél kérelme esetén valamennyi elektronikus ügyintézést biztosító szerv nevében együttesen – tájékoztassa az ügyfelet érintően lezajlott, jogszabályban meghatározott ügyintézési cselekményekről,
+d) nyilatkozhat úgy, hogy a Kormány rendeletében kijelölt szolgáltató elektronikus úton az ügyfél rendelkezése szerinti elektronikus ügyintézést biztosító szervek nevében tájékoztassa az ügyfelet érintő ügyintézési cselekményekről,
 
 e) megteheti a jogszabályban meghatározott más jognyilatkozatot.
 

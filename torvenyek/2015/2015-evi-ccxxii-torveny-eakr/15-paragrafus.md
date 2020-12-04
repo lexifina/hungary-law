@@ -12,4 +12,4 @@
 
 (7) Jogszabály eltérő rendelkezése hiányában az ügyfél ügyintézési rendelkezését a Kormány által kijelölt szervnél teheti meg.
 
-(8) A Kormány által kijelölt szerv a természetes személy (7) bekezdés szerinti ügyintézési rendelkezése során megadott elérhetőségét a Központi Statisztikai Hivatal részére adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal statisztikai célra jogosult kezelni.
+(8) A Kormány által kijelölt szerv a természetes személy (7) bekezdés szerinti ügyintézési rendelkezése során megadott elérhetőségét a Központi Statisztikai Hivatal (a továbbiakban: KSH) részére adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a KSH statisztikai célra jogosult kezelni. A Kormány által kijelölt szerv az adatszolgáltatást közvetlen bekérdezés útján is biztosíthatja. A KSH az átvett, valamint lekérdezett adatokat a statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli.
