@@ -22,7 +22,7 @@ d)[^703] – az a)–c) ponttól eltérően – 50%-a EMVA forrásból származ�
 
 e)[^704] – az a)–d) ponttól eltérően – 100%-a a 67. § (2) bekezdése szerinti felhívás esetén.
 
-(2a)[^705] A (2) bekezdés a) pontjától eltérően a támogatási előleg mértéke a megítélt támogatás összegének legfeljebb 50%-a, ETHA esetén legfeljebb 80%-a a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) kezelése érdekében elrendelt kormányzati intézkedésekkel érintett ágazatok esetén.
+(2a)[^705] A (2) bekezdés a) pontjától eltérően a támogatási előleg mértéke a megítélt támogatás összegének legfeljebb 50%-a, ETHA esetén legfeljebb 80%-a a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti és a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban együtt: veszélyhelyzet) kezelése érdekében elrendelt kormányzati intézkedésekkel érintett ágazatok esetén.
 
 (3)[^706] A (2) bekezdés a) és b) pontjában meghatározott százalékos mértéket, illetve összeghatárt a támogatási döntést követően a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja az államháztartásért felelős miniszter egyetértésével megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projektek esetén az irányító hatóság – a támogatási előlegnyújtás ütemezését alátámasztó likviditási tervet készít, és a magasabb támogatási előleg mértékének szükségességét megalapozottan indokolja.
 
@@ -45,7 +45,7 @@ e)[^704] – az a)–d) ponttól eltérően – 100%-a a 67. § (2) bekezdése s
 [^702]: A 116. § (2) bekezdés c) pontja a 397/2017. (XII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^703]: A 116. § (2) bekezdés d) pontját a 247/2016. (VIII. 17.) Korm. rendelet 14. §-a iktatta be.
 [^704]: A 116. § (2) bekezdés e) pontját a 153/2019. (VI. 26.) Korm. rendelet 22. § (1) bekezdése iktatta be.
-[^705]: A 116. § (2a) bekezdését a 293/2020. (VI. 17.) Korm. rendelet 3. §-a iktatta be.
+[^705]: A 116. § (2a) bekezdését a 293/2020. (VI. 17.) Korm. rendelet 3. §-a iktatta be, szövege az 554/2020. (XII. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^706]: A 116. § (3) bekezdése a 145/2016. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^707]: A 116. § (3a) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 397/2017. (XII. 13.) Korm. rendelet 3. §-a.
 [^708]: A 116. § (3b) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 4. §-a iktatta be, szövege az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 8. pontja szerint módosított szöveg.

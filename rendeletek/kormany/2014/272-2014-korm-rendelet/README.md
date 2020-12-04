@@ -68,3 +68,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2020-10-28 | 2014-272-20-22.60 | 456/2020. (X. 20.) Korm. rendelet |
 | 2020-11-01 | 2014-272-20-22.61 | 106/2018. (VI. 15.) Korm. rendelet |
 | 2020-12-01 | 2014-272-20-22.62 | 533/2020. (XI. 30.) Korm. rendelet |
+| 2020-12-04 | 2014-272-20-22.63 | 293/2020. (VI. 17.) Korm. rendelet |
