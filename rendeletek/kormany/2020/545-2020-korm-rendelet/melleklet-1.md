@@ -1,4 +1,4 @@
-## 10. § Az R. 3. melléklete a 2. melléklet szerint módosul.
+## 10. §[^2]
 
 1. melléklet az 545/2020. (XII. 2.) Korm. rendelethez
 
@@ -57,3 +57,5 @@
 26. azok az 1–25. pontban nem szereplő hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
