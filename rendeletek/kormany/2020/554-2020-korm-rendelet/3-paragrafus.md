@@ -1,0 +1,1 @@
+## 2. § A 272/2014. (XI. 5.) Korm. rendelet 116. § (2a) bekezdésében a „szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet)” szövegrész helyébe a „szerinti és a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban együtt: veszélyhelyzet)” szöveg lép.
