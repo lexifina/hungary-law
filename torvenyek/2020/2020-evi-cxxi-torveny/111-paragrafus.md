@@ -1,0 +1,13 @@
+## 22. Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény módosítása
+
+111. § (1) Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény (a továbbiakban: EEtv.) 3. § (3) bekezdésének az Nytv. 7. § (3) bekezdését megállapító rendelkezése a „titkolt terhesség, valamint a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása esetén.” szövegrész helyett a „titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén.” szöveggel lép hatályba.
+
+(2) Az EEtv. 3. § (3) bekezdésének az Nytv. 7. § (4) bekezdését megállapító rendelkezése a „– ha a házasuló hivatalbóli kiállítást megakadályozó nyilatkozatot nem tesz –” szövegrész helyett a „– ha a házasuló érvényes állandó személyazonosító igazolvánnyal rendelkezik és hivatalbóli kiállítást megakadályozó nyilatkozatot nem tesz –” szöveggel lép hatályba.
+
+(3) Az EEtv. 3. § (13) bekezdésének az Nytv. 16. § (1a) bekezdését megállapító rendelkezése az „a kincstárnak, valamint az egészségbiztosítási szervnek az adóigazolvány és a TAJ számot tartalmazó hatósági igazolvány kiállításával kapcsolatos hatósági feladatai ellátása céljából.” szövegrész helyett az „a kincstárnak jogszabályban meghatározott feladatai ellátása céljából.” szöveggel lép hatályba.
+
+(4) Az EEtv. 3. § (20) bekezdésének az Nytv. 22. § n) pontját megállapító rendelkezése az „az intézetben” szövegrész helyett az „az Elektronikus Egészségügyi Szolgáltatási Tér útján az intézetben” szöveggel, az „adatok Elektronikus Egészségügyi Szolgáltatási Tér útján történő továbbításával” szövegrész helyett az „adatok továbbításával” szöveggel lép hatályba.
+
+(5) Az EEtv. 3. § (21) bekezdésének az Nytv. 24. § (1) bekezdését megállapító rendelkezése a „feladatainak ellátásához,” szövegrész helyett a „feladatainak ellátásához, a büntetőeljárásban, a polgári peres és nemperes eljárásban, a közigazgatási perben és az egyéb közigazgatási bírósági eljárásban, valamint a hatósági eljárásban eljáró igazságügyi szakértő a tevékenységére vonatkozó törvény előírásai alapján végzett feladatai ellátásához,” szöveggel lép hatályba.
+
+(6) Az EEtv. 3. § (25) bekezdésének az Nytv. 24/H. §-át megállapító rendelkezése a „részére” szövegrész helyett a „részére – amennyiben kiállítást megakadályozó nyilatkozatot nem tettek –” szöveggel lép hatályba.

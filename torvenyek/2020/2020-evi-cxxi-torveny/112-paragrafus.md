@@ -1,0 +1,1 @@
+112. § Az EEtv. 14. § (4) bekezdésének a Szaz.tv. 21. § (7) bekezdését megállapító rendelkezése a „megállapításával” szövegrész helyett a „megállapításával, a kérelmek elbírálásával” szöveggel lép hatályba.
