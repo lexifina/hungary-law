@@ -1,1 +1,1 @@
-2. §
+2. § Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltaknak megfelelően az állami tulajdonban lévő, az Egri Főegyházmegye vagyonkezelésében álló, az Ingatlanhoz kapcsolódó ingó vagyontárgyak az Egri Főegyházmegye köznevelési, oktatási feladatainak elősegítése céljából, e feladat ellátására az Egri Főegyházmegye tulajdonába kerülnek azzal a feltétellel, hogy az átvevő egyházi jogi személy az ingóságokat terhelő kötelezettségeket a 3. § szerinti szerződés szerint teljeskörűen átvállalja.

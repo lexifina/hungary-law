@@ -1,1 +1,1 @@
-4. §
+4. § Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond az államnak az Egri Főegyházmegyével szemben, az egyházi jogi személy vagyonkezelésében lévő állami vagyonra vonatkozó visszapótlási kötelezettség alapján fennálló, a tulajdonosi joggyakorló által kezelt 130.922.538 forint összegű követeléséről azzal, hogy az egyházi jogi személy vállalja, hogy a vagyonkezelt állami ingatlanon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít az állammal szemben.
