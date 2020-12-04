@@ -25,3 +25,15 @@ e) külön jogszabályban meghatározott feltételek alapján más szerveket ada
 (7) Ha a bíróság a 118. § (1) bekezdése szerinti határozat ellen előterjesztett tárgyalás tartására irányuló kérelem alapján tart tárgyalást, a (4) bekezdésben írt módon állapítja meg a tényállást. Döntésének megfelelően a 118. § (1) bekezdése szerinti határozatát hatályban tartja, megváltoztatja, vagy hatályon kívül helyezi, és az eljárást megszünteti azzal, hogy a meghallgatás nélküli eljárásban hozott határozatban megállapított rendelkezéseknél hátrányosabb rendelkezést akkor hozhat, ha a tárgyaláson új bizonyíték merül fel.
 
 (8) A bíróság rendelkezik a szabálysértési költség viseléséről és – ha annak e törvényben meghatározott feltételei fennállnak – az eljárás alá vont személyt a szabálysértéssel okozott kár megtérítésére kötelezi.
+
+(9) A bíróság a tárgyaláson hozott végzését – a jogorvoslati jogról történő lemondás esetét kivéve – a kihirdetését követő 3 munkanapon belül írásba foglalja. A kihirdetéskor a fellebbezésre jogosultat tájékoztatni kell
+
+a) az írásba foglalás határidejéről,
+
+b) a fellebbezés bejelentésének határidejéről,
+
+c) arról, hogy az írásba foglalást követően a végzés a bíróságon megismerhető, illetve azt a bíróság az eljárás alá vont személy indítványára, az általa megjelölt elektronikus levelezési címre is továbbítja,
+
+d) arról, hogy a bíróság az írásba foglalt végzést a fellebbezésre jogosult részére kézbesíti, azonban a kézbesítés a fellebbezés határidejét nem érinti, valamint
+
+e) arról, hogy a fellebbezés bejelentésének határideje alatt a fellebbezés okát, célját és indokait módosíthatja vagy kiegészítheti.

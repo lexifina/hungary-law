@@ -4,7 +4,7 @@
 
 (1a) A méltányossági kérelem benyújtására vonatkozó meghatalmazás iránti nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás tényét a méltányossági kérelem benyújtásával egyidejűleg be kell jelenteni a bíróságnak, illetve szabálysértési hatóságnak.
 
-(2) A kérelmet a pénzbírságot kiszabó határozat, illetve végzés jogerőre emelkedésétől számított harminc napon belül, egyéb jogkövetkezmény esetén a végrehajtás megkezdéséig lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
+(2) A kérelmet a határozat, illetve a végzés jogerőre emelkedésétől számított harminc napon belül lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
 
 (3) A méltányossági kérelem elbírálása – a bíróság által kiszabott büntetés kivételével – a szabálysértési szabályozásért felelős miniszter hatáskörébe tartozik.
 
