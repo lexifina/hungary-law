@@ -38,4 +38,4 @@ i) az állami és önkormányzati szervek elektronikus információbiztonságár
 
 tevékenységi körökön belül a Kormány rendeletében meghatározott egyes tevékenységek.
 
-(5) A (4) bekezdés e)–h) pontja alapján a Kormány az e törvény felhatalmazása alapján kiadott rendeletében azon tevékenységet határozhatja meg, amely közvetlenül érinti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján meghatározott valamely nemzeti létfontosságú rendszerelemet vagy európai létfontosságú rendszerelemet.
+(5) A (4) bekezdés e)–h) pontja alapján a Kormány az e törvény felhatalmazása alapján kiadott rendeletében azon tevékenységet határozhatja meg, amelyet a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján meghatározott valamely nemzeti létfontosságú rendszerelem vagy európai létfontosságú rendszerelem közvetlen igénybevétele útján végeznek.

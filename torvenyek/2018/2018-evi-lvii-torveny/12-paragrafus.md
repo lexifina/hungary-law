@@ -9,3 +9,5 @@ c) a külföldi befektető általi tulajdonszerzés, az üzemeltetési jog külf
 d) azon tevékenységek engedélyezésére irányuló eljárásokat, amelyek esetében a 7. § (2) bekezdése alkalmazásának van helye,
 
 e) a 10. § szerinti bírság megállapításának szempontrendszerét és kiszabásának eljárására vonatkozó részletes szabályokat.
+
+f) a nemzeti kapcsolattartó pont feladatainak az ellátására az e törvény tekintetében kijelölt szervet, valamint az EU Rendelet 6–10. cikkének az e törvény alkalmazásában történő végrehajtása során irányadó részletes eljárási szabályokat.

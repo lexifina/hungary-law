@@ -16,7 +16,7 @@ b) a külföldi befektető általi tulajdonszerzéssel, az üzemeltetési jog k�
 
 (7) Az (1) bekezdés szerinti ellenőrzés határidejére a 6. § (4) és (5) bekezdésének rendelkezéseit kell megfelelően alkalmazni.
 
-(8) Nem folytatható hatósági ellenőrzés, illetve a jogsértés megállapítására irányuló eljárás az e törvény szerinti bejelentés elmulasztása miatt, ha
+(8) Nincs helye hatósági ellenőrzésnek, illetve a jogsértés megállapítására irányuló eljárásnak az e törvény szerinti bejelentés elmulasztása miatt, ha
 
 a) a tulajdonszerzésnek vagy az üzemeltetési jog megszerzésének,
 
@@ -24,6 +24,6 @@ b) a 2. § (4) bekezdése alapján kormányrendeletben meghatározott, az e tör
 
 c) az újonnan felvett tevékenység cégjegyzékbe való bejegyzésének
 
-az ellenőrzésre jogosult szerv tudomására jutásától számított 6 hónap, de legkésőbb az a) és b) pontban meghatározott körülményektől számított 5 év eltelt.
+az ellenőrzésre jogosult szerv tudomására jutásától számított 18 hónap, de legkésőbb az a) és a b) pontban meghatározott körülmények bekövetkezésétől számított 5 év eltelt.
 
 (9) A (2) bekezdés a) pontja szerinti esetben a 6. § (10) bekezdés b) pontjában foglalt rendelkezést megfelelően alkalmazni kell, továbbá a (2) bekezdés b) pontja szerinti esetben a 6. § (10) bekezdés a) pontjának első fordulatában meghatározott határidőt az ellenőrzés megindításától kell számítani.
