@@ -8,7 +8,7 @@ c) a szociális intézményben dolgozó személy,
 
 d) a bölcsődékben dolgozó személy
 
-e)[^1] egyéb, az Operatív Törzs által meghatározott hivatásrendekhez tartozó személyek, szakmacsoportokhoz tartozó személyek, intézményekben foglalkoztatottak, illetve személyi körök
+e)[^2] egyéb, az Operatív Törzs által meghatározott hivatásrendekhez tartozó személyek, szakmacsoportokhoz tartozó személyek, intézményekben foglalkoztatottak, illetve személyi körök
 
 ## esetében, amennyiben a vizsgálat elvégzéséhez előzetesen hozzájárult, és nem rendelkezik az esedékes szűrővizsgálat kiváltására alkalmas előzetesen elvégzett megfelelő szűrővizsgálati lelettel.
 
@@ -18,4 +18,4 @@ e)[^1] egyéb, az Operatív Törzs által meghatározott hivatásrendekhez tarto
 
 (4) A (3) bekezdésben meghatározott esetben kirendelt egészségügyi dolgozónak kell tekinteni a veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet alkalmazásában az orvos-, egészségtudományi képzésben részt vevő hallgatót.
 
-[^1]: Az 1. § (1) bekezdés e) pontját az 552/2020. (XII. 2.) Korm. rendelet 4. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés e) pontját az 552/2020. (XII. 2.) Korm. rendelet 4. §-a iktatta be.
