@@ -1,4 +1,4 @@
-8. § Az intézetet (intézményt) a parancsnok, főigazgató főorvos, igazgató (a továbbiakban: parancsnok) vezeti, aki
+8. § Az intézetet (intézményt) a parancsnok, főigazgató főorvos, főigazgató, igazgató (a továbbiakban együtt: parancsnok) vezeti, aki
 
 a) felelős az intézet (intézmény) feladatainak a törvényes végrehajtásáért, annak rendjéért és biztonságáért;
 
