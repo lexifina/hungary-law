@@ -18,6 +18,8 @@ d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésér
 
 (3a) Az útlevélhatóság, valamint a központi adatkezelő szerv az általa nyilvántartott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
+(3b) Az adatkezelő szerv az általa nyilvántartott adatok közül a természetes személyazonosító adatokat és a kapcsolattartási adatot a Központi Statisztikai Hivatal részére az Stt. által meghatározott feladatok végrehajtása érdekében történő kapcsolatfelvétel céljából térítésmentesen átadja. A Központi Statisztikai Hivatal az átvett adatokat a statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a Központi Statisztikai Hivatal törli.
+
 (4) Az e törvény alapján kezelt személyes adatok külföldi adatkezelő részére – ideértve a nemzetközi szervezeteket is – nemzetközi szerződés alapján továbbíthatók, feltéve, ha az adatkezelés feltételei a külföldi adatkezelőnél minden egyes adatra nézve azonosan teljesülnek.
 
 (5) Az adatszolgáltatási ügyekben az ügyintézési határidő 20 nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.

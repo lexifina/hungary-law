@@ -6,7 +6,7 @@ b) az adatkezelő szervtől a 24. § (1) bekezdése alapján kezelt adatokból, 
 
 c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, az állampolgársági ügyekben eljáró szervtől és az idegenrendészeti vagy menekültügyi hatóságtól,
 
-d) közvetlenül vagy az adatkezelő szerv útján a vezetői engedély tekintetében a közúti közlekedési nyilvántartás engedély-nyilvántartásából a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
+d) közvetlenül vagy az adatkezelő szerv útján a vezetői engedély tekintetében a közúti közlekedési nyilvántartás engedély-nyilvántartásából térítésmentesen a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokra vonatkozóan.
 
 (1a) Az útlevélhatóság – saját, illetve közreműködői feladatellátása céljából is – a kérelmező anyakönyvi adatainak beszerzése érdekében elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult adatokat átvenni az elektronikus anyakönyvből.
 

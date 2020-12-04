@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2019-07-27 | 2019. évi LV. törvény | 1998-12-00-00.51 |
 | 2020-02-01 | 2019. évi CXVI. törvény | 1998-12-00-00.52 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 1998-12-00-00.53 |
+| 2020-12-04 | 2020. évi CXXI. törvény | 1998-12-00-00.54 |

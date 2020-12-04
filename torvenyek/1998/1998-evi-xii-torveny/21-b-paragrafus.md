@@ -25,3 +25,5 @@ ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometri
 (9) A szülői hozzájáruló nyilatkozat megtételére elektronikus kapcsolattartás útján is sor kerülhet.
 
 (10) Ha a kérelmező a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti kérelem előterjesztésekor a személyazonossága igazolására útlevelet mutat be, és az útlevél tároló eleme tartalmaz második biometrikus adatot, a második biometrikus adatot az eljáró hatóság személyazonosítás céljából összeveti a polgár ujjnyomatával, kizárólag abból a célból, hogy a személyazonosság igazolására bemutatott útlevél és a polgár közötti kapcsolat kétséget kizáróan megállapítható legyen. Az eljáró hatóság az összevetés elvégzéséig kezelheti a második biometrikus adatot.
+
+(11) Az elektronikus ügyintézési pont útján felvett kérelem esetében az elkészült okmány átvétele kizárólag a kérelmező által személyesen történhet. Ennek során a személyazonosítást jogszabályban meghatározott automatizált ujjnyomat-összevetéssel is el kell végezni. Az eljáró hatóság az összevetés elvégzéséig kezeli a második biometrikus adatot.
