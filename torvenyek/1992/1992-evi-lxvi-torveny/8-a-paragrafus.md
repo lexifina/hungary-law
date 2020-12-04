@@ -13,3 +13,11 @@ e) ellátja az értesítési cím tudomásul vételével összefüggő – jogsz
 f) ellátja a jogszabályban hatáskörébe utalt egyéb hatósági feladatokat;
 
 g) ellátja a 4. § (2e) bekezdés szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
+
+h) törvényben meghatározott feltételek fennállása esetén adatszolgáltatást teljesít a nyilvántartásból;
+
+i) közokiratot ad ki a nyilvántartott adatokról;
+
+j) törvény hatálya alá tartozó tevékenységével összefüggésben gondoskodik a személyes adatok védelméről;
+
+k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.

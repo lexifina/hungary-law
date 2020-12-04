@@ -6,11 +6,11 @@ a) Magyarország területén élő magyar állampolgárok, a bevándorolt és �
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat Magyarország területén gyakorolják,
 
-c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) és (3a) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
+c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (2a), (3), (3a) és (7) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
 
 d) – e törvényben meghatározott esetekben – a külföldön élő magyar állampolgárok.
 
-(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) és (3a) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgár adatai az állampolgársági ügyekben eljáró szerv értesítése alapján hivatalból szerepelnek a nyilvántartásban.
+(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (2a), (3), (3a) és (7) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgár adatai az állampolgársági ügyekben eljáró szerv értesítése alapján hivatalból szerepelnek a nyilvántartásban.
 
 (2a) A külföldön élő magyar állampolgár adatai a nyilvántartásban akkor szerepelnek, ha
 
