@@ -10,6 +10,8 @@ Dr. Szalay Péter alkotmánybíró.
 
 2. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
-3. E határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg az Alkotmánybíróság háromtagú tanácsának összetételéről és a tanácsvezető személyéről szóló 1001/2019. (IX. 20.) AB Tü. határozata hatályát veszti.
+3.[^2] E határozat a közzétételét követő napon lép hatályba,
 
 Alkotmánybírósági ügyszám: XVIII/1978/2020.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
