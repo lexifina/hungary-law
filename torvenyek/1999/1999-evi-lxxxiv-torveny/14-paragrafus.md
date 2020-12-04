@@ -14,7 +14,7 @@ d) a tulajdonos (üzembentartó) bejelentése alapján a 9. § (1) bekezdésébe
 
 a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a végleges határozatáról, a járműokmány adatairól vagy az adatváltozásról;
 
-b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, illetve elhalálozásának idejéről;
+b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, elhalálozásának vagy a nyilvántartás hatálya alól történő kikerülésének időpontjáról;
 
 c) a jogszabályban meghatározott hatóság a 8. § (1) bekezdés a) pont ah) alpontjában megjelölt adatokról;
 
@@ -34,7 +34,7 @@ f) a biztosító elektronikus úton a külön jogszabályban meghatározott köt
 
 g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
 
-h) a vizsgaközpont elektronikusan
+h) a vizsgaközpont elektronikusan, haladéktalanul
 
 ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
 

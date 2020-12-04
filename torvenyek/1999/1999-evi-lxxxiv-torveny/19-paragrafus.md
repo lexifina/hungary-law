@@ -36,7 +36,7 @@ m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítás
 
 n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a (3) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat.
 
-o) a Központi Statisztikai Hivatal törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat;
+o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat és a 9. § (4) bekezdésében meghatározott adatokat. A KSH az átvett adatokat az statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli;
 
 p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében, a 9/C. §-ban, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
@@ -48,7 +48,7 @@ s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jo
 
 t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása, vagy a névváltozási eljárással összefüggő feladatainak ellátása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 
-u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, valamint (2) bekezdés a)–c) pontjában, valamint a 9/D. § (1) bekezdés a)–b) pontjában, (2) bekezdés a)–b) pontjában és (3) bekezdésében megjelölt adatokat;
+u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, valamint (2) bekezdés a)–c) pontjában, valamint a 9/D. § (1) bekezdés a)–b) pontjában, (2) bekezdés a)–b) pontjában és (3) bekezdésében megjelölt adatokat térítésmentesen;
 
 v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében és a 9/D. § (1) bekezdésében megjelölt adatokat;
 
@@ -68,11 +68,11 @@ b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizott
 
 c) a közlekedési hatóság a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1c) és (1d) bekezdésében, a 9. § (2) bekezdés a), d) és e) pontjában meghatározott nyilvántartási adatok kivételével
 
-ca) a közúti járművezető és közúti közlekedési szakember képzési, utánképzési és vizsgáztatási tevékenység ellenőrzésével és felügyeletével kapcsolatos feladatai ellátása tekintetében a 8. §-ban meghatározott adatokat,
+ca) a közúti járművezető és közúti közlekedési szakember képzési, utánképzési, pályaalkalmassági és vizsgáztatási tevékenység ellenőrzésével és felügyeletével kapcsolatos feladatai ellátása tekintetében a 8. §-ban meghatározott adatokat,
 
-cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat;
+cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat térítésmentesen;
 
-d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vonatkozóan,
+d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vagy iratokra vonatkozóan,
 
 e) a Gfbt.-ben meghatározott biztosító és a Kártalanítási Számla kezelője díjmentesen a káreseménnyel érintett jármű Gfbt.-ben meghatározott Kártörténeti nyilvántartásba (a továbbiakban: kárnyilvántartás) történő vétele során, a károsult jármű rendszámának és alvázszámának, valamint magyarországi nyilvántartásba vétele tényének elektronikus ellenőrzése érdekében a 9. § (2) bekezdés a) pontjában foglalt adatokból a járműazonosító adatokat;
 

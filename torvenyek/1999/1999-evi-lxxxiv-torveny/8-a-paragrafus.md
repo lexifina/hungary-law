@@ -1,10 +1,10 @@
 8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza
 
-a) a jogosult természetes személy esetén természetes személyazonosító és lakcímadatát, jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény esetén megnevezését, székhelyének (telephelyének) címét;
+a) a jogosult természetes személy esetén természetes személyazonosító és lakcímadatát, nem természetes személy jogosult intézmény esetén megnevezését, székhelyének (telephelyének) címét;
 
-b) a jogosult természetes személy fényképét (arcképmását), jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény működési engedély számát;
+b) a jogosult természetes személy fényképét (arcképmását), nem természetes személy jogosult intézmény működési engedély számát;
 
-c) a jogosult természetes személy aláírását, jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény esetében a képviselő aláírását;
+c) a jogosult természetes személy aláírását, nem természetes személy jogosult intézmény esetében a képviselő aláírását;
 
 d) a jogosult természetes személy törvényes képviselőjének természetes személyazonosító és lakcímadatát;
 

@@ -30,4 +30,4 @@ d) a 8. § (2) bekezdése szerinti adatokat jogszabályban meghatározott időta
 
 kezeli.
 
-(4) A nyilvántartó a 8/A. § adatait a parkolási igazolványra való jogosultság megszűnésétől számított öt évig kezeli.
+(4)

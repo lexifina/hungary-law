@@ -14,7 +14,7 @@
 
 6. Járműokmány: a jármű tulajdonjogát, forgalomban tarthatóságát igazoló okmányok.
 
-7. Egyedi adatszolgáltatás: egy személyre (jogi személyre és jogi személyiséggel nem rendelkező szervezetre), egy vezetői engedélyre, egy, a mozgásában korlátozott személy parkolási igazolványára (a továbbiakban: parkolási igazolvány), egy járműre, egy járműokmányra vonatkozó adat közlése.
+7. Egyedi adatszolgáltatás: egy személyre (ideértve a nem természetes személyt is), egy vezetői engedélyre, egy, a mozgásában korlátozott személy parkolási igazolványára (a továbbiakban: parkolási igazolvány), egy járműre, egy járműokmányra vonatkozó adat közlése.
 
 8. Csoportos adatszolgáltatás: az adatigénylő által meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése.
 
@@ -34,7 +34,7 @@
 
 16. Útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet, valamint a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
 
-17. Informatikai platform: számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó olyan informatikai rendszer, amely alkalmas a közúti közlekedési nyilvántartásból közvetlen hozzáféréssel, továbbá más törvényben megjelölt nyilvántartásokból egységes felületen történő adatszolgáltatások lebonyolítására.
+17. Informatikai platform: számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó olyan informatikai rendszer, amely alkalmas a közúti közlekedési nyilvántartásból közvetlen hozzáféréssel, továbbá más törvényben megjelölt nyilvántartásokból egységes, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti személyre szabott ügyintézési felületen történő, forgalmirendszám-alapú adatszolgáltatások lebonyolítására.
 
 18. Járműéletút-adatszolgáltatás: a nyilvántartó által az e célra szolgáló informatikai platformon keresztül, több nyilvántartás adatainak felhasználásával elektronikus úton nyújtott szolgáltatás.
 

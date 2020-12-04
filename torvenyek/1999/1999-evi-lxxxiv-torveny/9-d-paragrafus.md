@@ -6,7 +6,7 @@ b) lakcímét, egyéni vállalkozó esetében kérelmére székhelyét, telephel
 
 c) állampolgárságát (hontalanságát),
 
-d) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet
+d) a nem természetes személy
 
 da) megnevezését,
 

@@ -1,8 +1,8 @@
 9/C. § (1) Az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása tartalmazza
 
-a) a jármű forgalmi rendszámát,
+a) a jármű felségjelzéssel ellátott forgalmi rendszámát,
 
-b) a jármű azonosító- és műszaki adatait,
+b)
 
 c) a díjmentes használat vagy közútkezelői hozzájárulás beszerzése alóli mentesség jogcímének megjelölését, továbbá
 

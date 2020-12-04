@@ -1,4 +1,4 @@
-21. § A nyilvántartásból adatot igényelhet magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kérelmező):
+21. § A nyilvántartásból adatot igényelhet természetes és nem természetes személy (a továbbiakban: kérelmező):
 
 a) jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) alpontjában, a 8/A. § b)–c), e), i) pontjában meghatározott adatok kivételével;
 

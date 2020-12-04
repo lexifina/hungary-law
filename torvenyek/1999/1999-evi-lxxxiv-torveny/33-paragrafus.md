@@ -4,13 +4,13 @@
 
 33. § (1) A nyilvántartásba bejegyzett adatok módosítására okot adó körülmény bekövetkeztétől számított 15 napon belül köteles a bejegyzésre jogosult hatóságnál
 
-a) a járművezető, a járműtulajdonos, az üzembentartó a természetes személyazonosító adatának, jogi személy és jogi személyiséggel nem rendelkező szervezet a megnevezésének, székhelye, telephelye címének, cégjegyzék- vagy nyilvántartási számának megváltozásának,
+a) a járművezető, a járműtulajdonos, az üzembentartó a természetes személyazonosító adatának, nem természetes személy a megnevezésének, székhelye, telephelye címének, cégjegyzék- vagy nyilvántartási számának megváltozásának,
 
 b) a jármű új tulajdonosa a jármű tulajdonjoga megváltozásának,
 
 c) a járműtulajdonos az üzembentartó személye megváltozásának, valamint a járműokmányokban megjelölt műszaki adatok változásának,
 
-d) használt járművek, járműalkatrészek értékesítésével foglalkozó kereskedő a használt és a bontásra vásárolt jármű járműazonosító adatainak és az előző tulajdonosának természetes személyazonosító adatának, jogi személy és jogi személyiséggel nem rendelkező szervezet megnevezésének, székhelyének, telephelyének, valamint
+d) használt járművek, járműalkatrészek értékesítésével foglalkozó kereskedő a használt és a bontásra vásárolt jármű járműazonosító adatainak és az előző tulajdonosának természetes személyazonosító adatának, nem természetes személy megnevezésének, székhelyének, telephelyének, valamint
 
 e) a jogosult a parkolási igazolványra való jogosultság, továbbá a nyilvántartásban szereplő adatainak megváltozásának
 

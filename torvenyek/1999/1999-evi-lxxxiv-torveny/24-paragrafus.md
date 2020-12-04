@@ -22,7 +22,7 @@ aa) a jármű harmonizált forgalmi engedélyben feltüntetett műszaki adatai,
 
 ab) a kilométeróra-állás és annak rögzítési időpontja kronologikus sorrendben,
 
-ac) a forgalomból kivont állapot ténye, valamint az aktuális forgalomból való kivonás oka, jellege és a kivonás kezdő időpontja,
+ac) a forgalomból kivont állapot ténye, valamint a jármű aktuális és korábbi forgalomból való kivonásainak oka, jellege, kezdő és záró időpontja,
 
 ad) a jármű érvényes forgalmazási korlátozására vonatkozó adatok,
 
