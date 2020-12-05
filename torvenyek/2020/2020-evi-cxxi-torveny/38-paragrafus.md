@@ -1,3 +1,1 @@
-38. § Az Utv. 28. §-a a következő (3b) bekezdéssel egészül ki:
-
-„(3b) Az adatkezelő szerv az általa nyilvántartott adatok közül a természetes személyazonosító adatokat és a kapcsolattartási adatot a Központi Statisztikai Hivatal részére az Stt. által meghatározott feladatok végrehajtása érdekében történő kapcsolatfelvétel céljából térítésmentesen átadja. A Központi Statisztikai Hivatal az átvett adatokat a statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a Központi Statisztikai Hivatal törli.”
+38. §

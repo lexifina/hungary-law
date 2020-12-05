@@ -1,6 +1,6 @@
 59. § Hatályát veszti a Kknyt.
 
-a) 6. § (1a) bekezdése,
+a)
 
 b)
 
@@ -10,17 +10,17 @@ d)
 
 e)
 
-f) 9/C. § (1) bekezdés b) pontja,
+f)
 
 g)
 
-h) 15. § (4) bekezdése,
+h)
 
-i) 18. § (1) bekezdésében a „ , korlátozhatja” szövegrész,
+i)
 
-j) 18. § (2) bekezdésében a „korlátozó vagy” szövegrész,
+j)
 
-k) 18. § (4) bekezdésében a „korlátozó,” szövegrész,
+k)
 
 l)
 
