@@ -1,3 +1,9 @@
-2. melléklet az 59/2020. (XI. 30.) AM rendelethez[^5]
+2. melléklet az 59/2020. (XI. 30.) AM rendelethez
 
-[^5]: A 2. melléklet a 4. § (2) bekezdése alapján 2020. december 5-én lép hatályba.
+A 45/2019. (IX. 25.) AM rendelet 16. melléklet 2. pontjában foglalt táblázat a következő 4. sorral egészül ki:
+
+|  | (A | B |
+
+| 1. | Faj | Fajta) |
+
+| 4. | Ló: | akhal-teke |
