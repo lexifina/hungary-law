@@ -1,0 +1,7 @@
+23. § (1) Az állami fenntartású, egészségügyi szakellátást nyújtó egészségügyi szolgáltatók irányításának a veszélyhelyzetben alkalmazandó szabályairól szóló 507/2020. (XI. 17.) Korm. rendelet 9. § (1) bekezdésében az „5. §-t” szövegrész helyébe az „5. §-t és az (5) bekezdést” szöveg lép.
+
+(2) Az Országos Kórházi Főigazgatóságról szóló 506/2020. (XI. 17.) Korm. rendelettől eltérő, veszélyhelyzet idején alkalmazandó szabályokról szóló 517/2020. (XI. 25.) Korm. rendelet 2. § (2) bekezdés c) pontjában az „illetményét” szövegrész helyébe a „személyi illetményét” szöveg lép.
+
+(3) Az Országos Kórházi Főigazgatóságról szóló 506/2020. (XI. 17.) Korm. rendelettől eltérő, veszélyhelyzet idején alkalmazandó szabályokról szóló 517/2020. (XI. 25.) Korm. rendelet 2. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A veszélyhelyzet ideje alatt az országos kórház-főigazgató és az országos kórházfőigazgató-helyettes személyi illetményének vonatkozásában nem alkalmazandó a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény. Az országos kórház-főigazgató a (2) bekezdés c) pontja alapján megállapított személyi illetményére, valamint az országos kórházfőigazgató-helyettes az állami fenntartású, egészségügyi szakellátást nyújtó egészségügyi szolgáltatók irányításának a veszélyhelyzetben alkalmazandó szabályairól szóló 507/2020. (XI. 17.) Korm. rendelet 9. § (3) és (4) bekezdése alapján megállapított személyi illetményére a kinevezésének kezdőnapjára visszamenőleg jogosult.”

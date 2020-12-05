@@ -1,0 +1,9 @@
+## 21. §[^1]
+
+22. § (1) Az 1. §-ban és a 13. §-ban foglaltakat az e rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A 3. §-ban foglaltakat az egészségügyi szolgáltatásra való jogosultság ismételt megállapítása iránti kérelmek tekintetében az e rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(3) A 9. §-ban foglaltakat a rendszeres gyermekvédelmi kedvezményre való jogosultság, valamint a hátrányos, halmozottan hátrányos helyzet fennállásának ismételt megállapítása iránti kérelmek alapján indult, e rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+[^1]: A 21. § a 20. § (2) bekezdése alapján 2020. december 19-én lép hatályba.

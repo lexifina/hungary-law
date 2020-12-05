@@ -1,0 +1,1 @@
+## a fejlesztő foglalkoztatónál fejlesztési jogviszonyban vagy munkaviszonyban álltak, és jogviszonyuk a veszélyhelyzet ideje alatti elszámolási időszakban, valamint a veszélyhelyzet megszűnését követő harmincadik napig fennállt.

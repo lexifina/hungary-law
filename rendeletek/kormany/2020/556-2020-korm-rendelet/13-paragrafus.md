@@ -1,0 +1,1 @@
+## 12. § A veszélyhelyzet megszűnéséig az egészségi állapottól, személyiségállapottól vagy fogyatékosságtól függő ellátások felülvizsgálata nem végezhető el, a felülvizsgálathoz irat megküldése nem kérhető, erre hivatkozva az ellátás, kedvezmény, mentesség a veszélyhelyzet megszűnését követő második hónap utolsó napjáig nem szüntethető meg.
