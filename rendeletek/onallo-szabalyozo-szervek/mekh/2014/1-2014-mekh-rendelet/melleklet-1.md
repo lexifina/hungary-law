@@ -114,7 +114,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 54. | g) vezetékes PB-gáz szolgáltató esetében | 100 |
 
-| 55. | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 10 |
+| 55. | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 95 |
 
 | 55/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 100 |
 
@@ -176,7 +176,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 84. | b) módosításának jóváhagyása iránti kérelem elbírálása | 500 |
 
-| 85. | Hatósági ár alkalmazásának ellenőrzésére benyújtott kérelem elbírálása | 100 |
+| 85. |  |  |
 
 | 86. | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
 
@@ -306,6 +306,8 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 57 | i) egyéb esetben | az adott engedély kiadása díjának 20%-a |
 
+| 57/A. | j) ha a módosítás tárgya kézbesítési megbízott személyében vagy adataiban beállt változás, illetve ebből következő adatváltozás | 10 |
+
 | 58 | Engedély visszavonása iránti kérelem elbírálása, kivéve villamosenergia-termelők és villamosenergia-kereskedők esetében | az adott engedély kiadása díjának 50%-a |
 
 | 58/A | Engedély visszavonása iránti kérelem elbírálása villamosenergia-kereskedők esetében | 50 |
@@ -356,7 +358,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 81 | g) közvilágítási üzemeltetési engedélyes esetében | 200 |
 
-| 82 | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 10 |
+| 82 | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 95 |
 
 | 82/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 100 |
 
@@ -548,89 +550,99 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 172 | 2016/631 EU Rendelet 63. cikkelye szerinti kérelem elbírálása | 1 000 |
 
+| 173 | Uniós jogszabályokban szereplő előírások alóli felmentési kérelem elbírálása | 500 |
+
+| 174 | „Egyéb hálózati zavarrá” minősítés iránti kérelem elbírálása | 100 |
+
+| 175 | Átviteli hálózati távvezetéki üzemzavarok rendkívüli eseménynek történő minősítése iránti kérelem elbírálása | 100 |
+
 C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
 |  | A | B |
 
-| 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
+| 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint)] |
 
-| 2 | Távhőtermelő létesítményhez létesítési engedély kiadása, visszavonása és meghosszabbítása, vagy távhőtermelő létesítmény megszüntetése iránti kérelem elbírálása |  |
+| 2 | Távhőtermelő létesítményhez kapcsolódóan távhőtermelői létesítési engedély kiadása, visszavonása és meghosszabbítása iránti kérelem elbírálása |  |
 
-| 3 | a) | 5 MW-nál kisebb névleges hőteljesítmény esetében (csak megszüntetés iránti kérelem esetében) | 200 |
+|  | A kérelem tárgyát képező berendezések névleges hőteljesítménye alapján: |  |
 
-| 4 | b) | 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
+| 3 | a) 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
 
-| 5 | c) | 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 2 000 |
+| 4 | b) 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
 
-| 6 | d) | 200 MW-ot elérő névleges hőteljesítmény esetében | 5 000 |
+| 5 | c) 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 2000 |
+
+| 6 | d) 200 MW-ot elérő névleges hőteljesítmény esetében | 5000 |
 
 | 7 | Távhőtermelői működési engedély kiadása, illetve visszavonása iránti kérelem elbírálása |  |
 
-| 8 | a) | 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
+| 8 | a) 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
 
-| 9 | b) | 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
+| 9 | b) 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
 
-| 10 | c) | 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 2 000 |
+| 10 | c) 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 2000 |
 
-| 11 | d) | 200 MW-ot elérő névleges hőteljesítmény esetében | 5 000 |
+| 11 | d) 200 MW-ot elérő névleges hőteljesítmény esetében | 5000 |
 
 | 12 | Távhőszolgáltatásra vonatkozó működési engedély kiadása, illetve visszavonása iránti kérelem elbírálása |  |
 
-| 13 | a) | 1 000 lakásszámig | 200 |
+| 13 | a) 1000 lakásszámig | 200 |
 
-| 14 | b) | 1 001-2000 lakásszám esetében | 500 |
+| 14 | b) 1001–2000 lakásszám esetében | 500 |
 
-| 15 | c) | 2 001-10 000 lakásszám esetében | 900 |
+| 15 | c) 2001–10 000 lakásszám esetében | 900 |
 
-| 16 | d) | 10 001-50 000 lakásszám esetében | 1 500 |
+| 16 | d) 10 001–50 000 lakásszám esetében | 1500 |
 
-| 17 | e) | 50 000 lakásszám felett | 2 500 |
+| 17 | e) 50 000 lakásszám felett | 2500 |
+
+| 17/A. | Távhőtermelő létesítmény vagy távhőtermelői tevékenység megszüntetésére, illetve távhőszolgáltatói tevékenység megszüntetésére vonatkozó engedély iránti kérelem elbírálása | 100 |
 
 | 18 | Engedélymódosítás iránti kérelem elbírálása |  |
 
-| 19 | a) | ha a módosítás tárgya névváltozás vagy székhelyváltozás, illetve az ezekből következő cégjegyzékszám- és adószám-változás együttes díja | 10 |
+| 19 | a) ha a módosítás tárgya bármely okból bekövetkező név, székhely, közterület név, cégjegyzékszám, adószám, jegyzett-tőke-változás, továbbá távhőszolgáltató esetén a távhőszolgáltató részére értékesítő távhőtermelő változás | 10 |
 
-| 20 | b) | egyéb esetben | az adott engedély kiadása díjának 20%-a, de legalább 100 |
+| 20 | b) egyéb esetben | az adott engedély kiadása díjának 20%-a, de legalább 100 |
 
 | 21 | Engedélyes szétválásához, egyesüléséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő hozzájárulás iránti kérelem elbírálása |  |
 
-| 22 | a) | távhőtermelő esetében |  |
+| 22 | a) távhőtermelő esetében |  |
 
-| 23 | aa) | 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
+| 23 | aa) 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
 
-| 24 | ab) | 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
+| 24 | ab) 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
 
-| 25 | ac) | 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 1 000 |
+| 25 | ac) 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 1000 |
 
-| 26 | ad) | 200 MW-ot elérő névleges hőteljesítmény esetében | 3 000 |
+| 26 | ad) 200 MW-ot elérő névleges hőteljesítmény esetében | 3000 |
 
-| 27 | b) | távhőszolgáltató esetében |  |
+| 27 | b) távhőszolgáltató esetében |  |
 
-| 28 | ba) | 1 000 lakásszámig | 100 |
+| 28 | ba) 1000 lakásszámig | 100 |
 
-| 29 | bb) | 1 001-2 000 lakásszám esetében | 200 |
+| 29 | bb) 1001–2000 lakásszám esetében | 200 |
 
-| 30 | bc) | 2 001-10 000 lakásszám esetében | 300 |
+| 30 | bc) 2001–10 000 lakásszám esetében | 300 |
 
-| 31 | bd) | 10 001-50 000 lakásszám esetében | 500 |
+| 31 | bd) 10 001–50 000 lakásszám esetében | 500 |
 
-| 32 | be) | 50 000 lakásszám felett | 1 500 |
+| 32 | be) 50 000 lakásszám felett | 1500 |
 
 | 32/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 100 |
 
-| 33 | Távhőszolgáltatás csatlakozási díjának megváltoztatása iránti kérelem elbírálása |  |
+| 33 |  |  |
 
-| 34 | a) | 1 000 lakásszámig | 200 |
+| 34 |  |  |
 
-| 35 | b) | 1 001-2 000 lakásszám esetében | 500 |
+| 35 |  |  |
 
-| 36 | c) | 2 001-10 000 lakásszám esetében | 900 |
+| 36 |  |  |
 
-| 37 | d) | 10 001-50 000 lakásszám esetében | 1 500 |
+| 37 |  |  |
 
-| 38 | e) | 50 000 lakásszám felett | 2 500 |
+| 38 |  |  |
 
-| 39 | Nyereségkorlát feletti eredmény visszafizetése alóli mentesítés iránti kérelem elbírálása | 200 |
+| 39 |  |  |
 
 | 40 | Rendszeres adatszolgáltatási kötelezettség alóli mentesség | 50 |
 
@@ -750,4 +762,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^26]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a szerint módosított szöveg.
