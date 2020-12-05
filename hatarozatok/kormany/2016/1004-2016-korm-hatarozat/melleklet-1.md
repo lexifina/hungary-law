@@ -62,7 +62,7 @@
 
 ## m)[^15] egyetért azzal, hogy az irányító hatóság éves fejlesztési keret módosítására tett javaslata alapján a 2. mellékletben foglalt táblázat F oszlopában szakmai elvárásként meghatározott egyedi feltételekben meghatározott módon a projektmenedzsment költség 30%-kal történő csökkentésével érintett projektek támogatási kerete az éves fejlesztési keretben és a támogatási szerződésekben átvezetésre kerüljön,
 
-## n)[^16] egyetért azzal, hogy a Nemzeti Közszolgálati Egyetem a KÖFOP végrehajtásához kapcsolódóan végzett Jó Állam Mutatók mérésével összefüggő illeszkedésvizsgálatra és a mérési módszertan kidolgozásának támogatására irányuló feladatait a megkezdhető kiemelt projektek támogatási szerződésének megkötéséig végezze el,
+## n)[^16] egyetért azzal, hogy 2020. október 1-jétől a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság végezze el a KÖFOP végrehajtásához kapcsolódó Jó Állam Projekt Mutatók mérésével összefüggő illeszkedésvizsgálatra és a mérési módszertan kidolgozásának támogatására, valamint a mutatók elemzésére irányuló feladatokat,
 
 ## o)[^17] egyetért azzal, hogy az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény alapján meghatározott szociális hozzájárulási adó mindenkor hatályos mértékének alapulvételével az irányító hatóság vizsgálja felül az érintett, a KÖFOP forrásaiból finanszírozott projektekben felhasználni kívánt személyi jellegű költségek mértékét, és az így keletkező különbözettel az érintett projektek támogatási kerete az éves fejlesztési keretben csökkentésre kerüljön,
 
@@ -138,9 +138,11 @@
 
 ## c) a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1477/2020. (VIII. 7.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 9., 12., 13., 22., 25., és 32g. sora szerinti kiemelt projekt
 
+## d)[^29] a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1882/2020. (XII. 4.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 50. sora szerinti kiemelt projekt
+
 ## szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
-## 1/B.[^29] A Kormány
+## 1/B.[^30] A Kormány
 
 ## a) egyetért a KÖFOP módosításának indokoltságával, és felhatalmazza a Miniszterelnökséget vezető minisztert, hogy az irányító hatósággal együttműködve kezdje meg a KÖFOP módosításával kapcsolatos tárgyalást az Európai Bizottsággal, és felhívja a Miniszterelnökséget vezető minisztert, hogy tájékoztassa a Kormányt az Európai Bizottsággal folytatott tárgyalás eredményeképpen létrejött KÖFOP módosítás végleges javaslatáról,
 
@@ -156,9 +158,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^30]
+## 3.[^31]
 
-1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^31]
+1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^32]
 
 ## A KÖFOP éves fejlesztési kerete
 
@@ -306,11 +308,11 @@
 
 | 2. | KÖFOP-3.1.1-16 | Partnerek és a lakosság bevonása az operatív programok megvalósításába | 9,30 | kiemelt | Meghirdetve: 2016. június |
 
-| 3. | KÖFOP-3.2.1-16 | Az Audit Hatóság által végzett ellenőrzések színvonalának fenntartása | 7,889 | kiemelt | Meghirdetve: 2016. március |
+| 3. | KÖFOP-3.2.1-16 | Az Audit Hatóság által végzett ellenőrzések színvonalának fenntartása | 8,689 | kiemelt | Meghirdetve: 2016. március |
 
 | 4. | KÖFOP-3.2.2-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése az Emberi Erőforrás Fejlesztési Operatív Program végrehajtásánál | 2,776 | kiemelt | Meghirdetve: 2016. február |
 
-| 5. | KÖFOP-3.2.3-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Környezeti és Energiahatékonysági Operatív Program, valamint az Integrált Közlekedésfejlesztési Operatív Program végrehajtásánál | 2,791 | kiemelt | Meghirdetve: 2016. február |
+| 5. | KÖFOP-3.2.3-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Környezeti és Energiahatékonysági Operatív Program, valamint az Integrált Közlekedésfejlesztési Operatív Program végrehajtásánál | 2,031 | kiemelt | Meghirdetve: 2016. február |
 
 | 6. | KÖFOP-3.2.4-15 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Gazdaságfejlesztési és Innovációs Operatív Program, a Terület- és Településfejlesztési Operatív Program, valamint a Versenyképes Közép-Magyarország Operatív Program végrehajtásánál, továbbá az igazoló hatósági feladatok ellátásánál | 9,041 | kiemelt | Meghirdetve: 2016. február |
 
@@ -347,7 +349,7 @@
 [^13]: Az 1. pont k) alpontját újonnan az 1591/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
 [^14]: Az 1. pont l) alpontját újonnan az 1591/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
 [^15]: Az 1. pont m) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 3. pontjával megállapított szöveg.
-[^16]: Az 1. pont n) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be.
+[^16]: Az 1. pont n) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1882/2020. (XII. 4.) Korm. határozat 2. pontjával megállapított szöveg.
 [^17]: Az 1. pont o) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 4. pontjával megállapított, az 1056/2018. (II. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
 [^18]: Az 1. pont p) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
 [^19]: Az 1. pont q) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1287/2017. (VI. 2.) Korm. határozat 1. pontjával megállapított szöveg.
@@ -360,6 +362,7 @@
 [^26]: Az 1. pont x) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be, szövege az 1591/2018. (XI. 22.) Korm. határozat 2. pontjával megállapított szöveg.
 [^27]: Az 1. pont y) alpontját az 1056/2018. (II. 21.) Korm. határozat 2. pontja iktatta be.
 [^28]: Az 1/A. pontot az 1584/2019. (X. 15.) Korm. határozat 1. pontja iktatta be, szövege az 1477/2020. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
-[^29]: Az 1/B. pontot az 1477/2020. (VIII. 7.) Korm. határozat 2. pontja iktatta be.
-[^30]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja, az 1591/2018. (XI. 22.) Korm. határozat 3. pont a) alpontja és 4. pont 4.2–4.3. alpontja, az 1787/2018. (XII. 21.) Korm. határozat 4. pont a) alpontja, az 1584/2019. (X. 15.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.3. alpontja, az 1129/2020. (III. 25.) Korm. határozat 3. pont 3.1–3.2. alpontja, az 1477/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pont 4.1–4.3. alpontja szerint módosított szöveg.
+[^29]: Az 1/A. pont d) alpontját az 1882/2020. (XII. 4.) Korm. határozat 3. pontja iktatta be.
+[^30]: Az 1/B. pontot az 1477/2020. (VIII. 7.) Korm. határozat 2. pontja iktatta be.
+[^31]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja, az 1591/2018. (XI. 22.) Korm. határozat 3. pont a) alpontja és 4. pont 4.2–4.3. alpontja, az 1787/2018. (XII. 21.) Korm. határozat 4. pont a) alpontja, az 1584/2019. (X. 15.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.3. alpontja, az 1129/2020. (III. 25.) Korm. határozat 3. pont 3.1–3.2. alpontja, az 1477/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pont 4.1–4.3. alpontja, az 1882/2020. (XII. 4.) Korm. határozat 5. pontja szerint módosított szöveg.
