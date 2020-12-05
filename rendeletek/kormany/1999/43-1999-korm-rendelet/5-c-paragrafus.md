@@ -8,10 +8,11 @@ c) az ellátott beteg TAJ-számát, annak hiányában egyéb személyazonosító
 
 d) a felvétel és a távozás időpontját és
 
-e) az ellátó orvos kódját.
+e)[^63]
 
 (2) A finanszírozó ellenőrzi, hogy az elszámolásra jelentett ellátási esemény az (1) bekezdés szerinti adatok között szerepel-e. Az ellenőrzés szempontja az (1) bekezdésben szereplő adatok egyezősége.
 
 (3) Ha a finanszírozó megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel az EESZT-ben, úgy az ellátási eseményre vonatkozó finanszírozási díjat visszavonja.
 
 [^62]: Az 5/C. §-t a 154/2020. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
+[^63]: Az 5/C. § (1) bekezdés e) pontját az 557/2020. (XII. 4.) Korm. rendelet 8. §-a hatályon kívül helyezte.

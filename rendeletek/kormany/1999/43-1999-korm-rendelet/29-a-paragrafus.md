@@ -1,10 +1,10 @@
-29/A. §[^364] (1)[^365] Az R. 2. számú melléklete szerinti, laboratóriumi szakmai besorolású szervezeti egységek által végzett orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint a mintaszállítás – ide nem értve a mintavételt – teljesítménydíjazása az 5. mellékletben e feladatra meghatározott előirányzat terhére történik.
+29/A. §[^368] (1)[^369] Az R. 2. számú melléklete szerinti, laboratóriumi szakmai besorolású szervezeti egységek által végzett orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint a mintaszállítás – ide nem értve a mintavételt – teljesítménydíjazása az 5. mellékletben e feladatra meghatározott előirányzat terhére történik.
 
-(2)[^366] A molekuláris diagnosztikai vizsgálatok (PCR) teljesítménydíjazása az 5. számú mellékletben az erre a feladatra meghatározott előirányzat terhére történik.
+(2)[^370] A molekuláris diagnosztikai vizsgálatok (PCR) teljesítménydíjazása az 5. számú mellékletben az erre a feladatra meghatározott előirányzat terhére történik.
 
-(3)[^367]
+(3)[^371]
 
-[^364]: A 29/A. §-t a 257/2001. (XII. 19.) Korm. rendelet 13. §-a iktatta a szövegbe.
-[^365]: A 29/A. § (1) bekezdése a 318/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdésével megállapított, valamint a 7/2008. (I. 23.) Korm. rendelet 3. § (8) bekezdése szerint módosított szöveg.
-[^366]: A 29/A. § (2) bekezdését az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja hatályon kívül helyezte, újonnan a 328/2019. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
-[^367]: A 29/A. § (3) bekezdését a 329/2005. (XII. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja.
+[^368]: A 29/A. §-t a 257/2001. (XII. 19.) Korm. rendelet 13. §-a iktatta a szövegbe.
+[^369]: A 29/A. § (1) bekezdése a 318/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdésével megállapított, valamint a 7/2008. (I. 23.) Korm. rendelet 3. § (8) bekezdése szerint módosított szöveg.
+[^370]: A 29/A. § (2) bekezdését az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja hatályon kívül helyezte, újonnan a 328/2019. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^371]: A 29/A. § (3) bekezdését a 329/2005. (XII. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja.

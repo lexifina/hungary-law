@@ -1,6 +1,6 @@
-## 48/C. §[^539] A tuberkulózis esetfinanszírozási programban (a továbbiakban: TEF program) a Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház (a továbbiakban: ellátásszervező koordinátor) vesz részt. Az ellátásszervező koordinátor a kezeléssorozat szakmai vezetője.
+## 48/C. §[^545] A tuberkulózis esetfinanszírozási programban (a továbbiakban: TEF program) a Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház (a továbbiakban: ellátásszervező koordinátor) vesz részt. Az ellátásszervező koordinátor a kezeléssorozat szakmai vezetője.
 
-48/D. §[^540] (1) A TEF program szerinti kezeléssorozatban betegek bevonása a TBC Surveillance Központ engedélye alapján történhet. A TEF programba a multidrog rezisztens és a látens tuberkulózisban szenvedő betegek nem vonhatóak be.
+48/D. §[^546] (1) A TEF program szerinti kezeléssorozatban betegek bevonása a TBC Surveillance Központ engedélye alapján történhet. A TEF programba a multidrog rezisztens és a látens tuberkulózisban szenvedő betegek nem vonhatóak be.
 
 (2) A TBC Surveillance Központ minden hónap 5. munkanapjáig megküldi a finanszírozó részére a TEF program szerinti kezeléssorozatba bevont betegek TAJ azonosítóját.
 
@@ -10,8 +10,8 @@
 
 (5) A kezeléssorozat finanszírozási díja betegenként 800 000 forint.
 
-(6)[^541] A kezeléssorozat időtartama legalább 6, legfeljebb 12 hónap lehet. A kezeléssorozatba 2019. december 31-ét követően beteget bevonni nem lehet.
+(6)[^547] A kezeléssorozat időtartama legalább 6, legfeljebb 12 hónap lehet. A kezeléssorozatba 2019. december 31-ét követően beteget bevonni nem lehet.
 
-[^539]: A 48/C. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^540]: A 48/D. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^541]: A 48/D § (6) bekezdése a 139/2019. (VI. 14.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^545]: A 48/C. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^546]: A 48/D. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^547]: A 48/D § (6) bekezdése a 139/2019. (VI. 14.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
