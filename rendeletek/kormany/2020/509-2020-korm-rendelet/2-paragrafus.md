@@ -1,3 +1,5 @@
+## kezeli.
+
 2. § (1) Az 1. § (1) bekezdésében meghatározott vizsgálatban részt vevő foglalkoztatottnak (a továbbiakban: foglalkoztatott) a részére megadott időpontban a vizsgálat helyszínén meg kell jelennie.
 
 (2) A vizsgálatot lehetőség szerint a foglalkoztatottnak a foglalkoztatás helye szerinti intézményében kell végrehajtani.
