@@ -90,4 +90,6 @@
 
 |  | 3. | Juh: | magyar merinó |
 
-[^4]: A 16. melléklet az 1/2020. (II. 6.) AM rendelet 1. §-a szerint módosított szöveg.
+|  | 4. | Ló: | akhal-teke |
+
+[^4]: A 16. melléklet az 1/2020. (II. 6.) AM rendelet 1. §-a, az 59/2020. (XI. 30.) AM rendelet 2. §-a szerint módosított szöveg.
