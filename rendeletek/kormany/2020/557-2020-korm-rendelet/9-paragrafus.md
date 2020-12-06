@@ -1,1 +1,3 @@
-## 8. § Hatályát veszti az R. 5/C. § (1) bekezdés e) pontja.
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
