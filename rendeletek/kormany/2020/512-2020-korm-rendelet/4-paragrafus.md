@@ -1,3 +1,3 @@
-4. §[^1]
+4. § (1) A Kormány e rendelet hatályát a (2) bekezdés szerinti hatályvesztéséig meghosszabbítja.
 
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2020. december 11-én lép hatályba.
+(2) Ez a rendelet 2020. december 11-én hatályát veszti.
