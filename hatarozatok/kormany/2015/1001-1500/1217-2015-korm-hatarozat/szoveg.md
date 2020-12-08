@@ -56,4 +56,17 @@ külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
+6.[^2] a helyi gazdaság fejlesztése, a termelők piacra jutásának elősegítése és a lakosság friss élelmiszerekkel történő ellátásbiztonsága érdekében
+
+a) egyetért a soproni piac-vásárcsarnok és környezetének felújításával, korszerűsítésével,
+
+b) felhívja a Miniszterelnökséget vezető minisztert, hogy – az agrárminiszter bevonásával – Sopron Megyei Jogú Város Önkormányzatával egyeztetve tegye meg a szükséges intézkedéseket az a) alpont szerinti beruházás előkészítéséhez és megvalósításához szükséges források biztosítására.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+agrárminiszter
+
+Határidő: azonnal
+
 [^1]: A 2. pont az 1527/2017. (VIII. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 6. pontot az 1891/2020. (XII. 8.) Korm. határozat iktatta be.
