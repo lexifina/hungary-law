@@ -4,7 +4,7 @@
 
 9. § (1) A saját jogú igényjogosult a járóbeteg-szakellátást és a fekvőbeteg-gyógyintézeti ellátást
 
-a)[^41] az MH EK-nál, és
+a)[^43] az MH EK-nál, és
 
 b) a szolgálatteljesítés helye szerint a társadalombiztosítás keretében működő, területileg illetékes járó-, illetve fekvőbeteg-ellátást nyújtó egészségügyi szolgáltatónál
 
@@ -12,7 +12,7 @@ b) a szolgálatteljesítés helye szerint a társadalombiztosítás keretében m
 
 (2) Az (1) bekezdésen túlmenően a járóbeteg-szakellátást és a fekvőbeteg-gyógyintézeti ellátást
 
-a)[^42] a honvédelmi szervezet személyi állománya a szolgálatteljesítés helye szerinti csapatorvosi rendelőben;
+a)[^44] a honvédelmi szervezet személyi állománya a szolgálatteljesítés helye szerinti csapatorvosi rendelőben;
 
 b) a rendvédelmi szervek személyi állománya a rendvédelmi szerv szolgálatteljesítés helye szerinti rendelőjében;
 
@@ -22,5 +22,5 @@ c) a vasútegészségügyi szolgálat által fenntartott járóbeteg-szakellát�
 
 (3) A hivatásos vagy szerződéses állományú, valamint a vasutas igényjogosult a járóbeteg-szakellátás vagy a fekvőbeteg-gyógyintézeti ellátás igénybevétele után az ellátásról szóló igazolást az illetékes szerv alapellátó orvosának haladéktalanul, de legkésőbb a szolgálatképesség visszanyerésekor köteles bemutatni.
 
-[^41]: A 9. § (1) bekezdés a) pontja a 163/2019. (VII. 5.) Korm. rendelet 5. § l) pontja szerint módosított szöveg.
-[^42]: A 9. § (2) bekezdés a) pontja a 163/2019. (VII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^43]: A 9. § (1) bekezdés a) pontja a 163/2019. (VII. 5.) Korm. rendelet 5. § l) pontja szerint módosított szöveg.
+[^44]: A 9. § (2) bekezdés a) pontja a 163/2019. (VII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

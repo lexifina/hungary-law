@@ -1,10 +1,10 @@
 ## 6. § A nem az Egészségbiztosítási Alap terhére igénybe vehető vizsgálatok estében a saját jogú igényjogosultak a részükre szolgálati érdekből – így különösen a különleges feladatellátáshoz, misszióba tervezéshez, kötelező felülvizsgálathoz – előírt ellátás tekintetében a nem saját jogú igényjogosultakkal szemben előnyben részesíthetők azzal, hogy az igényjogosultak ilyen ellátásának sorrendje nem befolyásolja az Egészségbiztosítási Alap terhére, intézményi várólista alapján igénybe vehető ellátások rendjét.
 
-## AZ MH EK-BAN IGÉNYBE VEHETŐ SPECIÁLIS EGÉSZSÉGÜGYI ELLÁTÁS[^33]
+## AZ MH EK-BAN IGÉNYBE VEHETŐ SPECIÁLIS EGÉSZSÉGÜGYI ELLÁTÁS[^35]
 
-7. § (1)[^34] A rendvédelem területén nyújtott speciális egészségügyi tevékenységet az MH EK látja el, kivéve, ha azt e rendelet vagy jogszabály a rendvédelmi szerv feladatkörébe utalja.
+7. § (1)[^36] A rendvédelem területén nyújtott speciális egészségügyi tevékenységet az MH EK látja el, kivéve, ha azt e rendelet vagy jogszabály a rendvédelmi szerv feladatkörébe utalja.
 
-(2)[^35] A honvédelem és a rendvédelem terén ellátandó speciális állami feladatok különösen:
+(2)[^37] A honvédelem és a rendvédelem terén ellátandó speciális állami feladatok különösen:
 
 a) egészségügyi kiképzés, szakképzés;
 
@@ -58,12 +58,12 @@ i) a hivatásos állomány tagjai erőnléti állapotának felmérését
 
 ## kell érteni.
 
-(4)[^36] A rendvédelem területén a megváltozott egészségi állapotú hivatásos állományúak szolgálati alkalmasságát a rendvédelmi szerveket irányító miniszter által kijelölt szakorvosi bizottságok bírálják el.
+(4)[^38] A rendvédelem területén a megváltozott egészségi állapotú hivatásos állományúak szolgálati alkalmasságát a rendvédelmi szerveket irányító miniszter által kijelölt szakorvosi bizottságok bírálják el.
 
-(5)[^37] Az MH EK a saját jogú igényjogosultak munkáltatójának megkeresése alapján szakmai alkalmassági vizsgálatot végez. A szakmai alkalmassági vizsgálat költségeit az azt előíró az MH EK-nak külön megállapodás alapján megtéríti.
+(5)[^39] Az MH EK a saját jogú igényjogosultak munkáltatójának megkeresése alapján szakmai alkalmassági vizsgálatot végez. A szakmai alkalmassági vizsgálat költségeit az azt előíró az MH EK-nak külön megállapodás alapján megtéríti.
 
-[^33]: A 7. §-t megelőző alcím a 163/2019. (VII. 5.) Korm. rendelet 5. § i) pontja szerint módosított szöveg.
-[^34]: A 7. § (1) beekzdése a 318/2011. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 163/2019. (VII. 5.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
-[^35]: A 7. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^36]: A 7. § (4) bekezdése e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napjával, újonnan a 236/2009. (X. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 318/2011. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^37]: A 7. § (5) bekezdése a 163/2019. (VII. 5.) Korm. rendelet 5. § g) és j) pontja szerint módosított szöveg.
+[^35]: A 7. §-t megelőző alcím a 163/2019. (VII. 5.) Korm. rendelet 5. § i) pontja szerint módosított szöveg.
+[^36]: A 7. § (1) beekzdése a 318/2011. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 163/2019. (VII. 5.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^37]: A 7. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^38]: A 7. § (4) bekezdése e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napjával, újonnan a 236/2009. (X. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 318/2011. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^39]: A 7. § (5) bekezdése a 163/2019. (VII. 5.) Korm. rendelet 5. § g) és j) pontja szerint módosított szöveg.

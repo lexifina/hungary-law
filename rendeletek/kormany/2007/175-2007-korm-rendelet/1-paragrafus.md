@@ -46,6 +46,8 @@ q)[^9] Nemzeti Szakértői és Kutató Központ személyi állománya: a Nemzeti
 
 r)[^10] Országgyűlési Őrség személyi állománya: az Országgyűlésről szóló 2012. évi XXXVI. törvény 128. § (1) bekezdése szerinti állomány.
 
+s)[^11] Magyar Corvin-lánc Testület (a továbbiakban: Corvin-lánc Testület) tagja: a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 15. § (2) bekezdése szerinti tag.
+
 [^1]: Az 1. § a) pontja a 318/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 163/2019. (VII. 5.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § c) pontja a 318/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -56,3 +58,4 @@ r)[^10] Országgyűlési Őrség személyi állománya: az Országgyűlésről s
 [^8]: Az 1. § o) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^9]: Az 1. § q) pontját a 163/2019. (VII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^10]: Az 1. § r) pontját a 163/2019. (VII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^11]: Az 1. § s) pontját az 561/2020. (XII. 7.) Korm. rendelet 1. §-a iktatta be.
