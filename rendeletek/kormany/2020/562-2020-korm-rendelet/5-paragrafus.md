@@ -1,0 +1,1 @@
+## 4. § A Beruházással összefüggésben az előzetes régészeti dokumentáció elkészítésére a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság, a szükséges további régészeti előkészítés – megelőző feltárás, régészeti megfigyelés – elvégzésére a Budapesti Történeti Múzeum jogosult.
