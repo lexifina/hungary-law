@@ -34,4 +34,6 @@
 
 | 17 | Uzsoki utcai Kórház |
 
-2. melléklet az 1520/2020. (VIII. 14.) Korm. határozathoz
+2. melléklet az 1520/2020. (VIII. 14.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet az 1888/2020. (XII. 8.) Korm. határozat 2. pontja szerint módosított szöveg.

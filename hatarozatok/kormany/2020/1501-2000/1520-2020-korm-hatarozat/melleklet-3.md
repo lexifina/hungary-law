@@ -4,9 +4,11 @@
 
 | 2. | Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő SARS-CoV-2 járvány elleni védekezése | 100 000 000 |
 
-| 3. | Országos Korányi Pulmonológiai Intézet SARS-CoV-2 járvány elleni védekezése | 60 000 000 |
+| 3. | Országos Korányi Pulmonológiai Intézet SARS-CoV-2 járvány elleni védekezése | 100 000 000 |
 
 3. melléklet az 1520/2020. (VIII. 14.) Korm. határozathoz
+
+0X05970_0
 
 |  | LXXII. Egészségbiztosítási Alap |  |  |  |  |  |  |  |  |  |  |  |  |
 
