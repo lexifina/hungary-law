@@ -1,5 +1,1 @@
 ## 30. § A közúti járművezetők pályaalkalmassági vizsgálatáról szóló 444/2017. (XII. 27.) Korm. rendelet 3. § (5) és (6) bekezdésében foglaltaktól eltérően a korlátozott határidővel kiadott minősítések a veszélyhelyzet megszűnését követő 60. napig érvényesek.
-
-31. § (1) Az autóbuszos közúti személyszállítási tevékenységre, a közlekedésszervező tevékenységére vonatkozó piacfelügyeleti eljárásra és a piacfelügyeleti díj megfizetésére vonatkozó részletes szabályokról, továbbá a piacfelügyeleti bírság mértékére és alkalmazására vonatkozó szabályokról szóló 43/2019. (III. 12.) Korm. rendelet [a továbbiakban: 43/2019. (III. 12.) Korm. rendelet] 3. §-ában foglaltaktól eltérően a szolgáltató a piacfelügyeleti díjat a 2020. évben 2020. november 30. napjáig köteles megfizetni az autóbuszos hatóságnak.
-
-(2) A 43/2019. (III. 12.) Korm. rendeletben foglaltaktól eltérően piacfelügyeleti díjat a 2019. december 31. napján legfeljebb öt darab engedélyköteles autóbuszt üzemeltető szolgáltatóknak a 2020. évben nem kell megfizetniük. Erről az autóbuszos hatóság az érintett szolgáltatókat legkésőbb 2020. július 31. napjáig tájékoztatja.

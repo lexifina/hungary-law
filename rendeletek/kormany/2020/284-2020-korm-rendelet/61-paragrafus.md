@@ -1,3 +1,3 @@
-## 60. §[^27]
+## 60. §[^28]
 
-[^27]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

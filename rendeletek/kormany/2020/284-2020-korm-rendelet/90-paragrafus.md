@@ -1,4 +1,4 @@
-## 89. §[^56]
+## 89. §[^57]
 
 ## V. Fejezet
 
@@ -14,4 +14,4 @@
 
 (4) A 92. § 2021. július 1-jén lép hatályba.
 
-[^56]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

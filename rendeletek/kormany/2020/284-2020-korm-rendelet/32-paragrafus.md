@@ -1,3 +1,5 @@
+## 31. §[^2]
+
 ## III. Fejezet
 
 ## AZ EGYES KIEMELT GAZDASÁGI ÉS TÁRSADALMI ÜGYEK ELEKTRONIKUS ÚTJÁRA VONATKOZÓ RENDELKEZÉSEK
@@ -9,3 +11,5 @@
 a) Garanciaprogram: a Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság és a Garantiqa Zrt. által megvalósítandó garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 1170/2020. (IV. 21.) Korm. határozat 1. pont b) és c) alpontja szerinti, a mikro-, kis- és középvállalkozások, valamint nagyvállalatok ügyleteihez kapcsolódó készfizető kezességvállalási tevékenység,
 
 b) Garantiqa Zrt.: a Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság.
+
+[^2]: A 31. §-t az 559/2020. (XII. 4.) Korm. rendelet 5. §-a hatályon kívül helyezte.
