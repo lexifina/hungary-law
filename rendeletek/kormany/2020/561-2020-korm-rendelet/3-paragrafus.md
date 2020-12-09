@@ -1,7 +1,5 @@
-## 2. § A Korm. rendelet 2. § (1) bekezdése a következő i) ponttal egészül ki:
-
-## [A Magyar Honvédség Egészségügyi Központ (a továbbiakban: MH EK) egészségügyi szolgáltatásaira igényjogosult:]
-
-## „i) a Corvin-lánc Testület tagja, valamint biztosított közeli hozzátartozója.”
+## 2. §[^3]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
