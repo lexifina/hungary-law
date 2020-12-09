@@ -1,0 +1,3 @@
+## 3. § Az R. 42. §-a a következő (19) bekezdéssel egészül ki:
+
+## „(19) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet kiemelt budapesti közösségi fejlesztésekkel, valamint a fővárosi és megyei kormányhivatalok informatikai alkalmazások üzemeltetési feladatainak ellátásával, továbbá a Millenáris Tudományos Kulturális Alapítvány pénzbeli vagyoni juttatásával kapcsolatos módosításáról szóló 18/2020. (XII. 8.) MvM rendelettel (a továbbiakban: Módr17.) megállapított rendelkezéseit a Módr17. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
