@@ -1,4 +1,4 @@
-## 1. A Kormány felhívja a minisztereket, hogy 2020. november 23. napjától 2020. december 11. napjáig biztosítsák este 7 órától reggel 7 óráig – a 2. pontban foglalt kivétellel – a költségvetési szerv, valamint az állam közvetlen vagy közvetett többségi tulajdonában álló gazdasági társaság közterületen elhelyezkedő felszíni parkolói bárki számára ingyenesen igénybe vehetőek legyenek.
+## 1.[^1] A Kormány felhívja a minisztereket, hogy 2020. november 23. napjától a veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet 28. §-ában meghatározott dátumig biztosítsák este 7 órától reggel 7 óráig – a 2. pontban foglalt kivétellel – a költségvetési szerv, valamint az állam közvetlen vagy közvetett többségi tulajdonában álló gazdasági társaság közterületen elhelyezkedő felszíni parkolói bárki számára ingyenesen igénybe vehetőek legyenek.
 
 ## Felelős: valamennyi miniszter
 
@@ -6,7 +6,7 @@
 
 ## 2. Az 1. mellékletben felsorolt szervek közterületen elhelyezkedő parkolói az 1. pont alapján nem vehetőek igénybe.
 
-## 3. A Kormány felkéri a települési, a fővárosi és a területi önkormányzatokat, hogy 2020. november 23. napjától 2020. december 11. napjáig terjedő időtartamra saját hatáskörben rendelkezzenek az önkormányzat, vagy az önkormányzat közvetlen, vagy közvetett többségi tulajdonában álló gazdasági társaság parkolói bárki számára való megnyitásáról, és döntésükről a lakosságot 48 órán belül tájékoztassák.
+## 3.[^2] A Kormány felkéri a települési, a fővárosi és a területi önkormányzatokat, hogy 2020. november 23. napjától a veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet 28. §-ában meghatározott dátumig terjedő időtartamra saját hatáskörben rendelkezzenek az önkormányzat, vagy az önkormányzat közvetlen, vagy közvetett többségi tulajdonában álló gazdasági társaság parkolói bárki számára való megnyitásáról, és döntésükről a lakosságot 48 órán belül tájékoztassák.
 
 1. melléklet az 1839/2020. (XI. 21.) Korm. határozathoz
 
@@ -21,3 +21,6 @@
 4. a büntetés-végrehajtási szervek
 
 5. az atomenergia alkalmazását szolgáló üzemi létesítmények
+
+[^1]: Az 1. pont az 1893/2020. (XII. 9.) Korm. határozat szerint módosított szöveg.
+[^2]: A 3. pont az 1893/2020. (XII. 9.) Korm. határozat szerint módosított szöveg.
