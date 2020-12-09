@@ -18,7 +18,7 @@ bb) az Európa-bajnokságon a sportági versenyszámban legalább tíz állam ve
 
 c) az Európa Játékok a sportág hivatalos felnőtt, vagy a felnőtt alatti első utánpótlás-korosztály Európa-bajnokságának minősülnek és az olimpiai versenyszámban legalább az ab) vagy bb) alpontban meghatározott számú állam versenyzői vettek részt.
 
-(3) Olimpiai versenyszám esetén a versenyzői eredményességi támogatás összegét a 2. melléklet határozza meg, a 6. § (3) és (4) bekezdésben foglalt eltéréssel. Paralimpiai versenyszám esetén a versenyzői eredményességi támogatás összege az olimpiai versenyszám esetére meghatározott összeg 50 százaléka.
+(3)[^21] Olimpiai versenyszám esetén a versenyzői eredményességi támogatás összegét a 2. melléklet, paralimpiai versenyszám esetén a versenyzői eredményességi támogatás összegét a 2a. melléklet határozza meg.
 
 (4) Eredményességi támogatásban
 
@@ -32,9 +32,9 @@ bb) a felkészítésben közreműködő sportszakember
 
 ## részesülhet.
 
-(5) Edző, sportszakember nem részesülhet magasabb összegű támogatásban, mint a legeredményesebb versenyzőjének járó összeg. Csapatsportág esetében a szövetségi kapitány eredményességi támogatása nem lehet több mint a legnagyobb támogatásban részesülő versenyző részére javasolt összeg 150 százaléka.
+(5)[^22] Edző, sportszakember nem részesülhet magasabb összegű támogatásban, mint a legeredményesebb versenyzőjének járó összeg. Csapatsportág esetében a szövetségi kapitány eredményességi támogatásának mértéke nem lehet több, mint a versenyző részére a 2. melléklet vagy a 2a. melléklet szerint járó pénzjutalom 150 százaléka.
 
-(6)[^21] Az eredményességi támogatásban részesítendő személyekre és a támogatás összegére
+(6)[^23] Az eredményességi támogatásban részesítendő személyekre és a támogatás összegére
 
 a) olimpiai versenyszám esetén az országos sportági szakszövetség tesz javaslatot a MOB-nak,
 
@@ -50,4 +50,6 @@ c) a sakk világbajnokságon és Európa-bajnokságon klasszikus (sztenderd) ver
 
 [^19]: Az 5. § (1) bekezdése a 294/2015. (X. 8.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^20]: Az 5. § (2) bekezdése a 294/2015. (X. 8.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^21]: Az 5. § (6) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^21]: Az 5. § (3) bekezdése az 566/2020. (XII. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (5) bekezdése az 566/2020. (XII. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 5. § (6) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 23. §-ával megállapított szöveg.

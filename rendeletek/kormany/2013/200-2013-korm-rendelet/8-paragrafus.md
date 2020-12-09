@@ -1,8 +1,8 @@
 8. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^28]
+(2)[^31]
 
-(3)[^29]
+(3)[^32]
 
-[^28]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

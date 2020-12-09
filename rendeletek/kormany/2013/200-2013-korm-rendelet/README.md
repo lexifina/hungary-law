@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-200-20-
 | 2017-01-01 | 2013-200-20-22.6 | 475/2016. (XII. 27.) Korm. rendelet |
 | 2019-01-01 | 2013-200-20-22.7 | 234/2016. (VII. 29.) Korm. rendelet |
 | 2019-08-24 | 2013-200-20-22.8 | 294/2015. (X. 8.) Korm. rendelet |
+| 2020-12-09 | 2013-200-20-22.9 | 566/2020. (XII. 8.) Korm. rendelet |
