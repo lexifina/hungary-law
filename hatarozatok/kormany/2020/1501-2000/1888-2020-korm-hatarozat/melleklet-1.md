@@ -16,6 +16,8 @@
 
 ## Határidő: 2021. január 4.
 
-## 2. Az Egészséges Budapest Programban érintett állami fenntartású, közfinanszírozott kórházak fertőtlenítési célú felújításával kapcsolatos beruházásokhoz szükséges forrás biztosításáról szóló 1520/2020. (VIII. 14.) Korm. határozat 2. mellékletében foglalt táblázat 3. sorában a „60 000 000” szövegrész helyébe a „100 000 000” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1888/2020. (XII. 8.) Korm. határozathoz
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
