@@ -1,0 +1,1 @@
+## 1. § A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 19/C. § (3) bekezdése alapján fizetendő krízisbiztosítási hozzájárulás évenkénti mértékét az 1. melléklet tartalmazza.
