@@ -1,0 +1,3 @@
+## 7. § A veszélyhelyzet megszűnését követő 180. napig a telephelybiztonsági tanúsítvány és az egyszerűsített telephelybiztonsági tanúsítvány kiadása és érvényben tartása esetén a biztonsági vezető foglalkoztatásához a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendelet [a továbbiakban: 90/2010. (III. 26.) Korm. rendelet] 5. § (1) bekezdés b) pontjában foglaltaktól eltérően nem szükséges a 90/2010. (III. 26.) Korm. rendelet 7. § (1) bekezdésében meghatározott sikeres vizsga megléte.
+
+## 5. A személy- és vagyonőrökre vonatkozó eltérő szabályok

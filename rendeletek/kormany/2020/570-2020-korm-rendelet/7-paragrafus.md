@@ -1,0 +1,1 @@
+## 6. § Ha a személyi biztonsági tanúsítvány, a telephelybiztonsági tanúsítvány vagy biztonsági szakvélemény érvényessége a veszélyhelyzet ideje alatt jár le, érvényessége a veszélyhelyzet megszűnését követő 90. napig meghosszabbodik.
