@@ -8,11 +8,13 @@ b) mezőgazdasági és vidékfejlesztési támogatási szervként,
 
 c) agrárkárenyhítési szervként,
 
-d) az 1307/2013/EU és az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az információk és dokumentumok Bizottsághoz való eljuttatása tekintetében történő kiegészítéséről szóló, 2017. április 20-ai, 2017/1183/EU felhatalmazáson alapuló bizottsági rendelet 4. cikk (1) bekezdése alapján a Mezőgazdasági Menedzsment és Monitoring Információs Rendszer (a továbbiakban: ISAMM) működtetéséhez szükséges Nemzeti Felhasználó Nyilvántartó Testület és a tagállami ISAMM koordinátori feladatainak ellátására
+d) az 1307/2013/EU és az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az információk és dokumentumok Bizottsághoz való eljuttatása tekintetében történő kiegészítéséről szóló, 2017. április 20-ai, 2017/1183/EU felhatalmazáson alapuló bizottsági rendelet 4. cikk (1) bekezdése alapján a Mezőgazdasági Menedzsment és Monitoring Információs Rendszer (a továbbiakban: ISAMM) működtetéséhez szükséges Nemzeti Felhasználó Nyilvántartó Testület és a tagállami ISAMM koordinátori feladatainak ellátására,
+
+e)[^23] krízisbiztosítási szervként
 
 a Kincstárt jelöli ki.
 
-(2)[^23] A Kincstárnak az (1) bekezdésben, továbbá a 17. és 18. §-ban meghatározott feladatkörök gyakorlásával összefüggésben – figyelemmel a Kit. 36. § (2) bekezdésére és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 13. § (2) bekezdésére –
+(2)[^24] A Kincstárnak az (1) bekezdésben, továbbá a 17. és 18. §-ban meghatározott feladatkörök gyakorlásával összefüggésben – figyelemmel a Kit. 36. § (2) bekezdésére és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 13. § (2) bekezdésére –
 
 a) az agrárpolitikáért felelős miniszter a (3) bekezdésben meghatározottak szerint,
 
@@ -36,7 +38,7 @@ cc) ellátni az EMGA végrehajtására vonatkozó ellenőrzések, auditok koordi
 
 d) az Európai Unió szakbizottságai előtt képviselendő nemzeti álláspont kidolgozása keretében a kifizető ügynökségtől, átruházott feladatot ellátó szervtől adatot vagy tájékoztatást kér;
 
-e)[^24] szakmai értekezletet, egyeztetést tart, a mezőgazdasági és vidékfejlesztési támogatási szervet javaslattételre, véleményezésre felkéri, amely javaslattétel, illetve véleményezés kiterjed a Közös Agrárpolitika 2021–2027 tervezési dokumentációjára is;
+e)[^25] szakmai értekezletet, egyeztetést tart, a mezőgazdasági és vidékfejlesztési támogatási szervet javaslattételre, véleményezésre felkéri, amely javaslattétel, illetve véleményezés kiterjed a Közös Agrárpolitika 2021–2027 tervezési dokumentációjára is;
 
 f) a mezőgazdasági és vidékfejlesztési támogatási szervet és az átruházott feladatot ellátó szervet az általa nyilvántartott valamennyi adat tekintetében adatszolgáltatásra kötelezheti;
 
@@ -68,7 +70,7 @@ cc) ellátni az EMVA végrehajtására vonatkozó ellenőrzések, auditok koordi
 
 d) az Európai Unió szakbizottságai előtt képviselendő nemzeti álláspont kidolgozása keretében a kifizető ügynökségtől, közbenső szervezeti feladatot ellátó szervtől adatot vagy tájékoztatást kér;
 
-e)[^25] szakmai értekezletet, egyeztetést tart, a mezőgazdasági és vidékfejlesztési támogatási szervet javaslattételre, véleményezésre felkéri, amely javaslattétel, illetve véleményezés kiterjed a Közös Agrárpolitika 2021–2027 tervezési dokumentációjára is;
+e)[^26] szakmai értekezletet, egyeztetést tart, a mezőgazdasági és vidékfejlesztési támogatási szervet javaslattételre, véleményezésre felkéri, amely javaslattétel, illetve véleményezés kiterjed a Közös Agrárpolitika 2021–2027 tervezési dokumentációjára is;
 
 f) a közbenső szervezeti feladatot ellátó szervet az általa nyilvántartott valamennyi adat tekintetében adatszolgáltatásra kötelezheti;
 
@@ -82,9 +84,10 @@ j) az intézkedések végrehajtásához a közbenső szervezeti feladatot ellát
 
 k) a közbenső szervezeti feladatot ellátó szerv megkeresésére állásfoglalást ad ki az intézkedések vonatkozásában.
 
-(5)[^26] A megyei kormányhivatalok európai uniós és nemzeti mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő feladatai tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 40. § (4) bekezdés b) pontjában meghatározott irányítási hatásköröket a Kincstár gyakorolja.
+(5)[^27] A megyei kormányhivatalok európai uniós és nemzeti mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő feladatai tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 40. § (4) bekezdés b) pontjában meghatározott irányítási hatásköröket a Kincstár gyakorolja.
 
-[^23]: A 15. § (2) bekezdés nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 27. § 4. pontja szerint módosított szöveg.
-[^24]: A 15. § (3) bekezdés e) pontja a 111/2020. (IV. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^25]: A 15. § (4) bekezdés e) pontja a 111/2020. (IV. 14.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^26]: A 15. § (5) bekezdése a 30/2020. (II. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^23]: A 15. § (1) bekezdés e) pontját az 542/2020. (XII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 15. § (2) bekezdés nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 27. § 4. pontja szerint módosított szöveg.
+[^25]: A 15. § (3) bekezdés e) pontja a 111/2020. (IV. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^26]: A 15. § (4) bekezdés e) pontja a 111/2020. (IV. 14.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^27]: A 15. § (5) bekezdése a 30/2020. (II. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
