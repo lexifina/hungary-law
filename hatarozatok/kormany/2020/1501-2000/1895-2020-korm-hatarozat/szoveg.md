@@ -146,46 +146,39 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2024. évtől évente, az adott évi központi költségvetés tervezése során
 
-13. A DAS Korm. határozat 3. pontja helyébe a következő rendelkezés lép:
+13.[^1]
 
-(A Kormány)
+14.[^2]
 
-„3. a korszerű mezőgazdasági technológiák alkalmazásának elősegítése érdekében támogatja a mezőgazdasági termelők digitális kompetenciáinak és ismereteinek fejlesztését, ezért felhívja
+a)[^3]
 
-a) az agrárminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával tekintse át az e célok megvalósulását támogató, szakképzési és kapcsolódó felnőttképzési („Okos Gazda”) programok indítását, valamint a digitális kompetenciák és ismeretek megszerzésének, fejlesztésének szakmai megalapozását és a mezőgazdaság digitális átalakulásához szükséges tudásbázis működtetését szolgáló Digitális Agrárakadémia működésének lehetőségét,
+b)[^4]
 
-b) az innovációért és technológiáért felelős minisztert, hogy az agrárminiszter bevonásával tekintse át – az agrár-felsőoktatás hatékonyságának és színvonalának növelése érdekében – az agrár-felsőoktatási intézmények lehetőségeit a mezőgazdaság digitális átalakulásának elősegítése érdekében, továbbá tegyenek javaslatot a fejlesztéshez szükséges intézkedések megtételére, és terjesszék azt a Kormány elé;
+c)[^5]
 
-Felelős: az a) alpont tekintetében: agrárminiszter
+d)[^6]
 
-innovációért és technológiáért felelős miniszter
+e)[^7]
 
-a b) alpont tekintetében: innovációért és technológiáért felelős miniszter
+f)[^8]
 
-agrárminiszter
+g)[^9]
 
-Határidő: 2021. június 30.”
+h)[^10]
 
-14. A DAS Korm. határozat
+i)[^11]
 
-a) 5. pontjában a „2020. január 31.” szövegrész helyébe a „2021. július 31.” szöveg,
+j)[^12]
 
-b) 7. pontjában a „2021. december 31.” szövegrész helyébe a „2023. december 31.” szöveg,
-
-c) 8. pontjában a „2020. március 31.” szövegrész helyébe a „2021. június 30.” szöveg,
-
-d) 9. pontjában a „2020. december 31.” szövegrész helyébe a „2022. június 30.” szöveg,
-
-e) 10. pontjában a „2020. március 31.” szövegrész helyébe a „2022. július 31.” szöveg,
-
-f) 11. pontjában az „innovációért és technológiáért felelős miniszter agrárminiszter emberi erőforrások minisztere” szövegrész helyébe az „innovációért és technológiáért felelős miniszter agrárminiszter” szöveg,
-
-g) 12. pontjában a „2020. december 31.” szövegrész helyébe a „2021. június 30.” szöveg,
-
-h) 13. pontjában a „2020. március 31.” szövegrész helyébe a „2021. december 31.” szöveg,
-
-i) 14. pontjában a „2019. szeptember 30.” szövegrész helyébe a „2021. június 30.” szöveg,
-
-j) 17. pont b) alpontjában a „2020. december 1., majd kétévente december 1.” szövegrész helyébe a „2021. december 1., majd kétévente december 1.” szöveg
-
-lép.
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 14. pont nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 14. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 14. pont c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 14. pont d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 14. pont e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 14. pont f) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 14. pont g) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 14. pont h) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 14. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 14. pont j) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
