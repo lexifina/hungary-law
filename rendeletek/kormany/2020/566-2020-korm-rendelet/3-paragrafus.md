@@ -1,1 +1,3 @@
-## „(5) Edző, sportszakember nem részesülhet magasabb összegű támogatásban, mint a legeredményesebb versenyzőjének járó összeg. Csapatsportág esetében a szövetségi kapitány eredményességi támogatásának mértéke nem lehet több, mint a versenyző részére a 2. melléklet vagy a 2a. melléklet szerint járó pénzjutalom 150 százaléka.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

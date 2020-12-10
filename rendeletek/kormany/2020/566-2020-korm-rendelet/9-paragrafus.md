@@ -1,1 +1,3 @@
-## 8. § Az R. 6. § (5) bekezdésében a „2. melléklet” szövegrész helyébe a „2. vagy 2a. melléklet” szöveg lép.
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

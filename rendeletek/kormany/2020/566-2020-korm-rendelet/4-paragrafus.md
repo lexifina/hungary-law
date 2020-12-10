@@ -1,3 +1,3 @@
-## 3. § Az R. a következő 13. §-sal egészül ki:
+## 3. §[^4]
 
-## „13. § E rendeletnek az egyes kimagasló sporteredmények állami jutalmáról szóló 200/2013. (VI. 13.) Korm. rendelet módosításáról szóló 566/2020. (XII. 8.) Korm. rendelettel megállapított 1., 1a., 2. és 2a. mellékletét a 2020. január 1. napját követően elért, e rendelet hatálya alá tartozó sporteredmények esetében kell alkalmazni.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
