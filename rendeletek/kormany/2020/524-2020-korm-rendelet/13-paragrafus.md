@@ -1,3 +1,3 @@
-## 12. §[^11]
+## 12. §[^10]
 
-[^11]: A 12. § a 10. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^10]: A 12. § a 10. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
