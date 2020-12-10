@@ -8,4 +8,9 @@ illeti meg.
 
 (2) Az 1. § (1) bekezdése szerinti ingyenes szolgáltatásra való jogosultság megszűnik az 1. § szerinti bármely jogosultsági feltétel megszűnése esetén.
 
-(3) Az elektronikus hírközlésről szóló törvény szerinti szolgáltató (a továbbiakban: szolgáltató) 2020. december hónapban kibocsátásra kerülő számlában az 1. § (1) bekezdése szerinti 30 nap időtartamú kedvezményt jóváírja.
+(3)[^3] Az elektronikus hírközlésről szóló törvény szerinti szolgáltató (a továbbiakban: szolgáltató) 2020. év december hónapjában és 2021. év január hónapjában kibocsátásra kerülő számlában az 1. § (1) bekezdése szerinti – havi egyszeri 30 nap – kedvezményt jóváírja.
+
+(4)[^4] Az 1. § (1) bekezdése szerinti kedvezmény jóváírása a (3) bekezdés szerinti számla kibocsátását követően nem érvényesíthető.
+
+[^3]: A 2. § (3) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (4) bekezdését az 571/2020. (XII. 9.) Korm. rendelet 7. § (2) bekezdése iktatta be.
