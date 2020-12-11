@@ -1,3 +1,1 @@
-28. § A Kbt. 87. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A tárgyalásos eljárásban az ajánlatkérő a közbeszerzési dokumentumokban meghatározott feltételekhez, az ajánlattevő az ajánlatához a tárgyalások befejezésének időpontjától (a végleges ajánlat benyújtására meghatározott ajánlattételi határidő lejártától) van kötve. Az ajánlati kötöttség időtartamát az ajánlatkérő az ajánlattételi felhívásban nem határozhatja meg annak kezdetétől (a tárgyalások befejezése) számított harminc – építési beruházás esetén, valamint ha a közbeszerzési eljárást jogszabályban előírt folyamatba épített ellenőrzés mellett folytatják le hatvan – napnál későbbi időtartamban.”
+28. §

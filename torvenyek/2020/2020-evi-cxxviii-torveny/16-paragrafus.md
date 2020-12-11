@@ -1,7 +1,1 @@
-16. § (1) A Kbt. 54. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha az ajánlattevő az ajánlatát az ajánlati kötöttség ideje alatt visszavonja vagy a szerződés megkötése az ajánlattevő érdekkörében felmerült okból hiúsul meg, az ajánlati biztosíték az ajánlatkérőt illeti meg, kivéve a 131. § (9) bekezdése szerinti esetben.”
-
-(2) A Kbt. 54. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha az ajánlatkérő – az e törvényben foglalt esetekben – az ajánlati kötöttség lejártát megelőzően az ajánlattevőket ajánlataik további fenntartására kéri fel, és valamely vagy az összes ajánlattevő nem tartja fenn ajánlatát, a biztosítékot – a (6) bekezdés alkalmazása nélkül – vissza kell fizetni az ajánlattevő nyilatkozatának kézhezvételét, illetve az eljárás eredményéről az ajánlattevőknek megküldött értesítést követő tíz napon belül. Az ajánlatukat fenntartó ajánlattevőket az ajánlatkérő az ajánlat további fenntartására vonatkozó felkérésben felhívja az ajánlati kötöttség meghosszabbított idejére az addig érvényes biztosítékkal megegyező biztosíték fenntartására. Az ajánlattevők eljárást lezáró döntésről való értesítését megelőzően az ajánlati kötöttség kilencven napot – építési beruházás esetén, valamint ha a közbeszerzési eljárást jogszabályban előírt folyamatba épített ellenőrzés mellett folytatják le, százhúsz napot – meghaladó időszakra vonatkozó további fenntartására irányuló felhívás esetén azonban az ajánlatkérő nem kérheti a biztosíték fenntartását. Ebben az esetben a kilencven, illetve százhúsz nap leteltét követő tíz napon belül köteles az ajánlatkérő – a (6) bekezdés alkalmazása nélkül – a biztosítékot visszafizetni az ajánlattevők részére.”
+16. §

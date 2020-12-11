@@ -1,31 +1,31 @@
 57. § Hatályát veszti a Kbt.
 
-1. 4. § (3) bekezdése,
+1.
 
-2. 40. § (2) bekezdésében az „ , amely igazgatási szolgáltatási díjnak minősül” szövegrész,
+2.
 
-3. 62. § (1) bekezdés g) pontja,
+3.
 
-4. 62. § (1) bekezdés p) és q) pontja,
+4.
 
-5. 79. § (4) bekezdésében az „egy alkalommal – valamint ezenfelül a (4a) bekezdés alkalmazása esetén szintén egy alkalommal ugyanezen időpontig –” szövegrész,
+5.
 
-6. 79. § (4a) bekezdésében az „egy alkalommal, és” szövegrész,
+6.
 
-7. 98. § (2b) bekezdése,
+7.
 
-8. 119. § (2) bekezdés g) pontja,
+8.
 
-9. 135. § (2) bekezdése,
+9.
 
-10. 165. § (2) bekezdés f) pontja,
+10.
 
-11. 165. § (8)–(10) bekezdése,
+11.
 
-12. 195. § (4) bekezdése,
+12.
 
-13. 197. § (7) bekezdése,
+13.
 
-14. 198. § (1) bekezdés 20. pontja,
+14.
 
-15. 198. § (2) bekezdés d) pontjában az „– az adópolitikáért felelős miniszter egyetértésével meghatározott – igazgatási” szövegrész.
+15.

@@ -1,3 +1,1 @@
-32. § A Kbt. 106. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az ajánlatkérő a dinamikus beszerzési rendszert kategóriákra oszthatja, az adott kategóriában megvalósítandó közbeszerzések objektív jellemzői (különösen az adott részben megkötendő szerződések legnagyobb értéke vagy a teljesítés helye) alapján. Ebben az esetben az eljárást megindító vagy – előzetes tájékoztatóval meghirdetett eljárás esetén – meghirdető felhívásban fel kell tüntetnie az egyes kategóriákat és ezek jellemzőit. Az ajánlatkérőnek minden kategória tekintetében külön kell meghatároznia az alkalmassági feltételeket. A 61. § (4)–(6) bekezdése nem alkalmazandó.”
+32. §

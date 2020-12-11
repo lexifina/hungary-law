@@ -1,3 +1,1 @@
-36. § A Kbt. 114/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ajánlatkérő – kivéve a 3. melléklet szerinti szolgáltatás esetében, ha annak becsült értéke az uniós értékhatárt eléri vagy meghaladja – az eljárást megindító felhívásban előírhatja, hogy az e § szerinti bírálat keretében a kizáró okok, az alkalmassági követelmények, valamint a 82. § (5) bekezdése szerinti objektív kritériumok tekintetében a közbeszerzési dokumentumokban meghatározott igazolásokat a gazdasági szereplők a részvételi jelentkezésükben vagy az ajánlatukban nyújtsák be. Ebben az esetben a (2)–(6) bekezdés rendelkezéseit kell alkalmazni, a 67. § (1) bekezdés, a 69. § (2)–(9) bekezdés, valamint a 114. § (2) bekezdés rendelkezéseit nem kell alkalmazni. A 69. § (11) bekezdés szerinti adatbázisok adatait az ajánlatkérő a bírálat során valamennyi gazdasági szereplő ajánlata vonatkozásában ellenőrzi.”
+36. §
