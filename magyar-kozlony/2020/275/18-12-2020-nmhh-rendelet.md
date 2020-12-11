@@ -1,0 +1,836 @@
+# A Nemzeti Média- és Hírközlési Hatóság elnökének 12/2020. (XII. 11.) NMHH rendelete
+
+Magyar Közlöny 2020. évi 275. szám, 2020. december 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2dWIJW1ERdEoRQh6KmUH5fcfffa2b03f8/dokumentumok/b8f233b1e43e21d68ead00037b397c761f4536ee/letoltes)
+
+---
+
+A Nemzeti Média- és Hírközlési Hatóság elnökének 12/2020. (XII. 11.) NMHH rendelete
+a frekvencialekötés és -használat díjáról szóló 1/2011. (III. 31.) NMHH rendelet módosításáról
+A médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 206. § (1) bekezdésének a) pontjában
+kapott felhatalmazás alapján, a 109. § (5) bekezdésben meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+A frekvencialekötés és -használat díjáról szóló 1/2011. (III. 31.) NMHH rendelet (a továbbiakban: R.) 1/A. §
+(1) bekezdés 10–14. pontja helyébe a következő rendelkezések lépnek:
+„10. rendszeres rádióspektrumdíj: a rádióspektrum-használati jogért – beleértve a versenyeztetési eljárás
+eredményeként megállapított jogosultságon alapuló jogot – fizetendő díjak összefoglaló elnevezése, amelybe
+beletartozik a rádióspektrum-lekötési díj, a rádióspektrum-használati díj és a sávdíj;
+11. rádióspektrum-használat: rádióengedélyben meghatározott frekvencia vagy frekvenciablokk igénybevétele
+hálózat vagy állomás üzemben tartása céljából;
+12. rádióspektrum-használati díj: frekvencia vagy frekvenciablokk használatáért megállapított – meghatározott
+gyakorisággal, ismétlődően fizetendő – díj;
+13. rádióspektrum-lekötés: frekvenciakijelöléssel frekvencia vagy frekvenciablokk biztosítása hálózat vagy állomás
+telepítése céljából;
+14. rádióspektrum-lekötési díj: a rádióspektrum-lekötésért megállapított díj;”
+2. §
+Az R. 1/B. §-a helyébe a következő rendelkezés lép:
+„1/B. § (1) A rádióspektrum-lekötési díj egy alkalommal fizetendő díj, amelyet a hatóság a frekvenciakijelölésben
+állapít meg.
+(2) A rádióspektrum-használati díj a rádióengedély érvényességi ideje alatt rendszeresen fizetendő díj, amelyet
+a hatóság a rádióengedélyben állapít meg.
+(3) A sávdíj rendszeresen fizetendő díj, amelyet a hatóság, amennyiben a frekvenciaelosztás módja
+a) versenyeztetési eljárás, a versenyeztetési eljárást lezáró határozatban vagy a hatósági szerződésben,
+b) nem versenyeztetési eljárás, a frekvenciakijelölésben és a frekvenciakijelölés alapján kiadott rádióengedélyben
+állapít meg.”
+3. §
+Az R. 2. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A jogosítottnak nem kell rádióspektrumdíjat fizetnie,)
+„g) azon hálózatok és állomások telepítése, üzemben tartása esetén, amelyek az NFFF alapján az egyedi
+engedélyezési kötelezettség alól mentesülnek,”
+4. §
+Az R. 4. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A földi mozgószolgálat keretében működő intelligens közlekedési rendszerek helyhez kötött állomásai után
+a jogosítottnak rádióspektrum-lekötési díjat nem kell fizetnie, a rádióspektrum-használat díja állomásonként 600 Ft/hó.”
+5. §
+Az R. 5. §-át követő alcím helyébe a következő alcím lép:
+„A műsorszóró állomások rádióspektrumdíja
+6. § (1) A jogosított a földfelszíni rádió- és televízió-műsorszóró állomások vagy a 87,5–108 MHz frekvenciasávú
+PMSE alkalmazások adóállomásai esetén állomásonként fizet rádióspektrumdíjat.
+(2) A rádió- és televízió-műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások
+adóállomásainak rádióspektrum-lekötési díját az 1. számú mellékletben meghatározottak alapján kell megállapítani.
+(3) A rádió- és televízió-műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások
+adóállomásainak rádióspektrum-használati díját a 2. számú melléklet alapján kell megállapítani.
+(4) Ha a jogosított megosztott használatú frekvenciát kapott, a rádióspektrum-használati díj mértéke
+a (3) bekezdésben említett melléklet alapján megállapított díj 50%-a.
+(5) A jogosítottnak – az (1) bekezdéstől eltérően – nem kell rádióspektrum-lekötési díjat fizetnie azon rádió- és
+televízió-műsorszóró állomásokhoz vagy a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásaihoz
+lekötött frekvenciák után, amelyeknél a frekvenciakijelölésre a hatóság által kezdeményezett frekvenciacsere
+alapján kerül sor.
+
+7. § Az egy hónapnál rövidebb érvényességi időre kiadott rádióengedély alapján működő műsorszóró állomás után
+rádióspektrum-használati díjat egyszer fizet a jogosított. A rádióspektrum-használati díj összege
+a) televízió-műsorszóró állomás esetében 15 000 Ft/állomás;
+b) rádió-műsorszóró állomás esetében 8000 Ft/állomás.”
+6. §
+Az R. 7. §-át követő alcím helyébe a következő alcím lép:
+„A mozgószolgálatok rádióspektrumdíja
+Területre szóló, telephely nélküli frekvenciakijelölésű, saját igény kielégítésére szolgáló földi, belvízi és
+légi mozgószolgálati hálózatok, állomások rádióspektrumdíja
+8. § (1) A területre szóló, telephely nélküli frekvenciakijelölésű földi, belvízi és légi mozgószolgálati hálózatok
+rádióspektrum-lekötési díját – a kizárólag mozgóállomásokat tartalmazó hálózatokat kivéve – a 3. számú melléklet
+1. pontjában foglalt táblázat alapján kell megállapítani.
+(2) A helyhez kötött állomást tartalmazó hálózatok számára engedélyezett frekvenciák vagy frekvenciablokk
+rádióspektrum-használati díját a 4. számú melléklet 1. pontjában foglalt táblázat alapján kell megállapítani.
+(3) A hálózat állomásai és berendezései után – azok kategóriájától függően – a 4. számú melléklet 2. pontjában
+foglalt táblázat szerint kell a rádióspektrum-használati díjat megállapítani.
+(4) A jogosított rádióspektrum-használati díjként a 4. számú melléklet 1. és 2. pontjában foglalt táblázatok alapján
+megállapított rádióspektrum-használati díjak összegét fizeti.
+(5) A kizárólag mozgóállomásokat tartalmazó, valamint a helyhez kötött állomások ellátási területén kívül is működő
+mozgóállomásokat tartalmazó hálózatok után kizárólagos rádióspektrum-használat esetében a rádióspektrum-
+lekötési díj a 3. számú melléklet 1. pontjában foglalt táblázat szerint megállapított díj 50%-a, a rádióspektrum-
+használati díj mozgóállomásonként 20 000 Ft/hó. Közös rádióspektrum-használat esetében rádióspektrum-
+lekötési díjat nem kell fizetni, a rádióspektrum-használat díja állomásonként 1000 Ft/hó. A tartalék állomások után
+rádióspektrum-használati díjat nem kell fizetni.
+(6) Ha az eljáró hatóság engedélye olyan területre vonatkozik, amely 4000 km2-nél kisebb, és részben vagy egészben
+Budapest környezetében van, – a kizárólag mozgóállomásokat tartalmazó hálózatok kivételével – a rádióspektrum-
+lekötés és -használat díjának mértéke a 3. számú melléklet 1. pontjában foglalt táblázat, illetve a 4. számú melléklet
+1. és 2. pontjában foglalt táblázatok alapján megállapított díj kétszerese.”
+7. §
+Az R. 8. §-át követő alcím helyébe a következő alcím lép:
+„Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló földi, belvízi és légi
+mozgószolgálati hálózatok, állomások rádióspektrumdíja
+9. § (1) Az átjátszó vagy központi feladatot ellátó, helyhez kötött állomásokért a jogosított rádióspektrum-lekötési
+díjat a 3. számú melléklet 2. pontjában foglalt táblázat alapján fizet.
+(2) Az (1) bekezdés szerinti helyhez kötött állomások rádióspektrum-használati díját a 4. számú melléklet
+3–9. pontjában foglalt táblázatok alapján – állomásonként – kell megállapítani.
+(3) A hálózat állomásai és berendezései után – azok kategóriájától függően – a 4. számú melléklet 2. pontjában
+foglalt táblázat szerinti rádióspektrum-használati díjat kell megállapítani.
+(4) A jogosított rádióspektrum-használati díjként a 4. számú melléklet 2. pontjában foglalt táblázat, továbbá
+3–9. pontjában foglalt táblázatok alapján megállapított díjak összegét fizeti.
+(5) A helyhez kötött állomások rádióspektrum-használati díja – a (2) bekezdésben említett melléklet alapján –
+megosztott használatú frekvenciánál a díj 50%-a, közös használatú frekvenciánál a meghatározott díj 25%-a.
+(6) Ha az engedély olyan körzetre vonatkozik, amely részben vagy egészben Budapest környezetében van,
+– a kizárólag mozgóállomásokat tartalmazó hálózatok és a mozgóállomások kivételével – a rádióspektrum-lekötés
+és -használat díjának mértéke a 3. számú melléklet 2. pontjában foglalt táblázat, illetve a 4. számú melléklet
+2–9. pontjában foglalt táblázatok alapján megállapított díj kétszerese.”
+8. §
+Az R. 13. §-át követő alcím helyébe a következő alcím lép:
+„Területre szóló, telephely nélküli frekvenciakijelölésű, saját igény kielégítésére szolgáló 30 MHz-nél
+nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, állomásainak
+rádióspektrumdíja
+14. § (1) A jogosított minden kijelölt frekvencia vagy frekvenciablokk után a 3. számú melléklet 1. pontjában foglalt
+táblázat szerint rádióspektrum-lekötési díjat fizet.
+
+(2) Az állandóhelyű állomásokat tartalmazó hálózatok után a 4. számú melléklet 1. pontjában foglalt táblázat szerinti
+rádióspektrum-használati díjat kell fizetni.
+(3) A hálózat állomásai és berendezései után – azok kategóriájától függően – az 5. számú melléklet 1. pontjában
+foglalt táblázat alapján kell rádióspektrum-használati díjat fizetni.
+(4) A jogosított rádióspektrum-használati díjként a 4. számú melléklet 1. pontjában foglalt táblázat alapján, továbbá
+az 5. számú melléklet 1. pontjában foglalt táblázat alapján megállapított rádióspektrum-használati díjak összegét
+fizeti.
+(5) Ha a pont-többpont, illetve a pont-pont rendszerű hálózat esetében az összeköttetés legalább egyik pontja
+Budapest körzetében van, a rádióspektrum-lekötési és -használati díj az (1)–(4) bekezdésben említett mellékletek
+alapján megállapított díj kétszerese. Pont-pont közötti összeköttetés esetében az összeköttetés mindkét pontján
+lévő állomásra is kétszeres díjat kell megállapítani.”
+9. §
+Az R. 14. §-át követő alcím helyébe a következő alcím lép:
+„Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló 30 MHz-nél nagyobb és
+960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, állomásainak
+rádióspektrumdíja
+15. § (1) A pont-többpont rendszerű hálózatok esetében a jogosított rádióspektrum-lekötési díjat minden
+csillagponti állomás után fizet, a 3. számú melléklet 2. pontjában foglalt táblázat alapján.
+(2) A pont-pont rendszerű hálózatok esetében a jogosított által fizetendő rádióspektrum-lekötési díj állomásonként
+a 3. számú melléklet 2. pontjában foglalt táblázat alapján megállapított díj 50%-a.
+(3) A pont-többpont rendszerű hálózatok rádióspektrum-használati díját csillagponti állomásonként és
+frekvenciánként a 4. számú melléklet 3–9. pontjában foglalt táblázatok szerint kell fizetni.
+(4) A jogosított a hálózat állomásai és berendezései után – azok kategóriájától függően – az 5. számú melléklet
+1. pontjában foglalt táblázat szerinti rádióspektrum-használati díjat fizeti.
+(5) A jogosított rádióspektrum-használati díjként a 4. számú melléklet 3–9. pontjában foglalt táblázatok és
+az 5. számú melléklet 1. pontjában foglalt táblázat alapján megállapított rádióspektrumdíjak összegét fizeti.
+(6) Pont-pont rendszerű hálózat esetében az állandóhelyű állomások után fizetendő rádióspektrum-használati díj
+állomásonként a 4. számú melléklet 3–9. pontjában foglalt táblázatok alapján megállapított díj 50%-a.
+(7) Pont-többpont rendszer esetében minden Budapest környezetébe eső
+a) csillagponti állomás után az (1), (3) és (4) bekezdés és
+b) nem csillagponti állomás után a (4) bekezdés
+szerinti díj kétszeresét kell fizetni.
+(8) Pont-pont rendszer esetében – ha az összeköttetés legalább egyik pontja Budapest környezetében van –
+az összeköttetés mindkét pontján lévő állomásra a (2), (4) és (6) bekezdés szerinti díj kétszeresét kell fizetni.
+(9) Pont-többpont rendszerű hálózatban megosztott rádióspektrum-használat esetében a 4. számú melléklet
+3–9. pontjában foglalt táblázatok szerint megállapított díj 50%-a a rádióspektrum-használati díj.”
+10. § (1) Az R. 19. §-át követő alcím címe helyébe a következő cím lép:
+„Blokkgazdálkodás körébe tartozó sávok után fizetendő díjak”
+(2) Az R. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az NFFF alapján blokkgazdálkodás körébe tartozó,
+a) szolgáltatás célú és versenyeztetési eljárás eredményeként, a rádióspektrum-használati jogosultság
+meghosszabbítása eredményeként vagy a rádióspektrum-használati jogosultság megújítása eredményeként
+szerzett, valamint a szerzést követően továbbértékesített rádióspektrum esetén a rádióspektrum-használati
+jogosultság időtartama alatt a jogosítottnak a rádióengedély érvényességének a frekvenciahasználati jogosultság
+megszerzését szolgáló árverés és pályázat szabályairól szóló 4/2011. (X. 6.) NMHH rendelet 22. § (3) bekezdésében
+meghatározott legkorábbi időpontjától, és
+b) nem versenyeztetési eljárás eredményeként szerzett rádióspektrum esetén a rádióengedély érvényessége alatt
+a rádióspektrum-használati jogot szerzőnek
+havonta sávdíjat kell fizetnie a (2)–(5) bekezdésben foglaltak szerint.”
+
+11. §
+Az R. 20/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A díjfizetési kötelezettség szempontjából minden megkezdett hónap teljes hónapnak számít. A díjfizetésre
+kötelezettnek minden olyan hónapra a teljes havi díjat meg kell fizetnie, amelyben a jogosított
+a) rádióspektrum-használati jogosultsága miatt sávdíjfizetési kötelezettség keletkezett vagy fennállt, vagy
+b) rádióspektrum-használati joga keletkezett vagy fennállt.”
+12. §
+Az R.
+a) 1. számú melléklete helyébe az 1. melléklet,
+b) 2. számú melléklete helyébe a 2. melléklet,
+c) 3. számú melléklete helyébe a 3. melléklet,
+d) 4. számú melléklete helyébe a 4. melléklet,
+e) 8. számú melléklete helyébe az 5. melléklet
+lép.
+13. §
+Az R.
+ 1. 1. § (1) bekezdés b) pontjában a „frekvenciadíjra” szövegrész helyébe a „rendszeres rádióspektrumdíjra”
+szöveg, 1. § (2) bekezdésében a „frekvencialekötéséért és frekvenciahasználatáért” szövegrész
+helyébe a „rádióspektrum-lekötéséért és -használatáért” szöveg, 1. § (3) bekezdés a) pontjában
+a „frekvenciagazdálkodás” szövegrész helyébe a „rádióspektrum-gazdálkodás” szöveg, valamint 1. §
+(3) bekezdés b) pontjában a „NATO felhasználók” szövegrész helyébe a „NATO jogosultak” szöveg és
+a„frekvenciahasználatára”szövegrész helyébe a„rádióspektrum-használatára”szöveg,
+ 2. 1/A. § (1) bekezdés 2. pontjában az „átlagos effektív antennamagasság (átlagos heff):” szövegrész helyébe
+az„átlagos effektív antennamagasság:”szöveg és 26. pontjában a„frekvenciafelhasználás”szövegrész helyébe
+a „rádióspektrum használatának” szöveg, valamint 1/A. § (2) bekezdésében a „frekvenciagazdálkodási”
+szövegrész helyébe a„rádióspektrum-gazdálkodási”szöveg,
+ 3. 1/C. §-ában a „során” szövegrész helyébe az „eredményeként” szöveg és a „frekvenciahasználati jogosultság
+esetében”szövegrész helyébe a„rádióspektrum-használati jogosultság esetében”szöveg,
+
+4. 2. § (1) bekezdésében a „frekvenciadíjat” szövegrész helyébe a „rádióspektrumdíjat” szöveg, 2. §
+(2) bekezdésében a „frekvenciahasználati” szövegrész helyébe a „rádióspektrum-használati” szöveg,
+2. § (3) bekezdésében a „frekvenciadíj” szövegrész helyébe a „rádióspektrumdíj” szöveg és a „kijelölt
+és engedélyezett frekvenciáért” szövegrész helyébe a „lekötött vagy használt” szöveg, 2. § (4) és
+(5) bekezdésében a „frekvenciadíj” szövegrész helyébe a „rádióspektrumdíj” szöveg, 2. § (6) bekezdésében
+a „frekvenciadíj” szövegrész helyébe a „rádióspektrumdíj” szöveg és a „frekvenciahasználatáért” szövegrész
+helyébe a „rádióspektrum-használatáért” szöveg, valamint 2. § (7) bekezdésében a „frekvenciahasználati”
+szövegrész helyébe a„rádióspektrum-használati”szöveg,
+ 5. 3. §-ában a „rádió és televízió műsorszóró” szövegrész helyébe a „rádió- és televízió-műsorszóró” szöveg,
+a„frekvenciadíj” szövegrész helyébe a„rádióspektrumdíj” szöveg, valamint a„frekvenciadíj-fizetés” szövegrész
+helyébe a„rádióspektrumdíj-fizetés”szöveg,
+ 6. 4. § (1) bekezdésében a „frekvencialekötési” szövegrész helyébe a „rádióspektrum-lekötési” szöveg és
+a „frekvenciahasználat díja minden állomásért” szövegrész helyébe a „rádióspektrum-használat díja
+állomásonként” szöveg, valamint 4. § (2) bekezdésében a „frekvencialekötési” szövegrész helyébe
+a „rádióspektrum-lekötési” szöveg, a „frekvenciahasználat” szövegrész helyébe a „rádióspektrum-használat”
+szöveg és a„rádió és televízió műsorszóró”szövegrész helyébe a„rádió- és televízió-műsorszóró”szöveg,
+ 7. 5. §-ában a „frekvenciánként 25 000 Ft” szövegrész helyébe a „frekvenciánként egyszer 25 000 Ft” szöveg és
+a „tartozó minden állomás után 4000 Ft egyszeri frekvenciahasználati” szövegrész helyébe a „tartozó állomás
+esetén állomásonként egyszer 4000 Ft rádióspektrum-használati”szöveg,
+ 8. 9. §-át követő alcím címében a „légiforgalmi” szövegrész helyébe a „légi” szöveg és a „frekvenciadíja”
+szövegrész helyébe a„rádióspektrumdíja”szöveg,
+ 9. 10. §-ában a „jogosítottnak” szövegrész helyébe a „jogosított” szöveg, a „légiforgalmi” szövegrész helyébe
+a„légi”szöveg, a„frekvencialekötési díjat nem kell fizetnie”szövegrész helyébe a„rádióspektrum-lekötési díjat
+nem fizet”szöveg és a„frekvenciahasználat”szövegrész helyébe a„rádióspektrum-használat”szöveg,
+10. 10. §-át követő alcím címében a„frekvenciadíja”szövegrész helyébe a„rádióspektrumdíja”szöveg,
+11. 11. §-ában a „frekvencialekötési” szövegrész helyébe a „rádióspektrum-lekötési” szöveg és
+a„frekvenciahasználati”szövegrész helyébe a„rádióspektrum-használati”szöveg,
+
+12. 15. §-át követő alcím címében a„frekvenciadíja”szövegrész helyébe a„rádióspektrumdíja”szöveg,
+13. 16. § (1) bekezdésében az „Az egyszeri frekvencialekötési” szövegrész helyébe az „A rádióspektrum-lekötési”
+szöveg és a „frekvenciahasználati” szövegrész helyébe a „rádióspektrum-használati” szöveg, 16. § (2), (3), (4),
+(5) és (6) bekezdésében a„frekvenciahasználati”szövegrész helyébe a„rádióspektrum-használati”szöveg,
+14. 17. (2) bekezdés a) pontjában a „frekvencialekötési” szövegrész helyébe a „rádióspektrum-lekötési” szöveg és
+a 17. § (4) bekezdésében a„frekvenciahasználati”szövegrész helyébe a„rádióspektrum-használati”szöveg,
+15. 17. §-át követő alcím címében a„frekvenciadíja”szövegrész helyébe a„rádióspektrumdíja”szöveg,
+16. 18. §-ában a „frekvencialekötési” szövegrész helyébe a „rádióspektrum-lekötési” szöveg és
+a„frekvenciahasználati”szövegrész helyébe a„rádióspektrum-használati”szöveg,
+17. 18. §-át követő alcím címében a „frekvenciahasználati” szövegrész helyébe a „rádióspektrum-használati”
+szöveg,
+18. 19. § (1) és (2) bekezdésében a „frekvenciahasználati” szövegrész helyébe a „rádióspektrum-használati”
+szöveg,
+19. 20. § (2) bekezdésében az „az értékesített frekvenciasávok szélessége és az arra” szövegrész helyébe
+az „a megszerzett rádióspektrum mennyisége és az adott frekvenciasávra” szöveg, 20. § (3) bekezdésében
+az „és 1915–1920 MHz frekvenciasávok” szövegrész helyébe az „és az 1915–1920 MHz frekvenciasáv” szöveg,
+20. § (4) bekezdésében a „frekvenciahasználati” szövegrészek helyébe a „rádióspektrum-használati” szöveg,
+20. § (4a) bekezdésében a „frekvenciahasználati” szövegrész helyébe a „rádióspektrum-használati” szöveg,
+valamint 20. § (4b) bekezdésében a„frekvenciahasználati” szövegrészek helyébe a„rádióspektrum-használati”
+szöveg,
+20. 20. §-át követő alcím címében a„Frekvenciadíj”szövegrész helyébe a„Rádióspektrumdíj”szöveg,
+21. 20/A. § (1) bekezdésében a „frekvencialekötésért” szövegrész helyébe a „rádióspektrum-lekötésért”
+szöveg és a „frekvenciadíjat” szövegrész helyébe a „rádióspektrumdíjat” szöveg, 20/A. § (2) bekezdésében
+a „frekvenciadíjat” szövegrész helyébe a „rádióspektrumdíjat” szöveg, 20/A. § (4) bekezdésében
+a „frekvenciadíjról” szövegrész helyébe a „rádióspektrumdíjról” szöveg és a „frekvenciadíjat” szövegrész
+helyébe a„rádióspektrumdíjat”szöveg,
+22. 20/B. §-ában a „frekvenciadíjakról” szövegrész helyébe a „rádióspektrumdíjakról” szöveg, 20/B. § a) és
+b) pontjában a „frekvenciadíj” szövegrész helyébe a „rádióspektrumdíj” szöveg, valamint 20/B. § c) és
+d) pontjában a„díj”szövegrész helyébe a„rádióspektrumdíj”szöveg,
+23. 21. § (3) bekezdésében a „kötelezettségüket e rendelet 2011. április 1.” szövegrész helyébe
+a„kötelezettségüket 2011. április 1.”szöveg,
+24. 5. számú melléklet
+a) címében, 1. pontjában foglalt táblázat A:1–D:1 mezőjében és 2.1. pontjában a„frekvenciahasználati”
+szövegrész helyébe a„rádióspektrum-használati”szöveg,
+b) 1. pontjában a „frekvenciahasználati díjai” szövegrész helyébe a „rádióspektrum-használati díjai”
+szöveg,
+c) 2. pontjában a „frekvenciahasználati díjának” szövegrész helyébe a „rádióspektrum-használati
+díjának”szöveg,
+d) 2.2. pontjában a„frekvenciahasználati”szövegrészek helyébe a„rádióspektrum-használati”szöveg,
+25. 7. számú melléklet
+a) címében, valamint 1., 2.1. és 2.2. pontjában a „frekvenciahasználati” szövegrész helyébe
+a„rádióspektrum-használati”szöveg,
+b) 2. pontjában a „frekvenciahasználati díjának” szövegrész helyébe a „rádióspektrum-használati
+díjának”szöveg,
+26. 9. számú melléklet 1.1., 1.2. és 5. pontjában a „frekvenciahasználati” szövegrész helyébe a „rádióspektrum-
+használati”szöveg
+lép.
+14. §
+Hatályát veszti az R. 9. számú melléklet 4. pontja.
+15. §
+Ez a rendelet 2020. december 21-én lép hatályba.
+ Dr. Karas Monika s. k.,
+ a Nemzeti Média- és Hírközlési Hatóság elnöke
+
+1. melléklet a 12/2020. (XII. 11.) NMHH rendelethez
+„1. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez
+Műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai
+rádióspektrum-lekötési díjai
+1. TV és DVB-T állomások rádióspektrum-lekötési díjai (Ft/állomás)
+A B C D E F
+1 Maximális ERP ERP < 100 W
+100 W < ERP <
+1 kW
+1 kW < ERP < 10 kW
+10 kW < ERP <
+100 kW
+ERP > 100 kW
+
+Rádióspektrum-
+lekötési díj
+(Ft/állomás)
+65 000 150 000 260 000 400 000 650 000
+2. 87,5–108 MHz frekvenciasávú URH-FM rádió-műsorszóró állomások és PMSE alkalmazások adóállomásai
+rádióspektrum-lekötési díjai (Ft/állomás)
+A B C D E F
+1 Maximális ERP ERP < 100 W
+100 W < ERP <
+1 kW
+1 kW < ERP < 10 kW
+10 kW < ERP <
+100 kW
+ERP > 100 kW
+
+Rádióspektrum-
+lekötési díj
+(Ft/állomás)
+27 000 66 000 108 000 168 000 270 000
+3. T-DAB rádió-műsorszóró állomások rádióspektrum-lekötési díjai (Ft/állomás)
+A B C D E F
+1 Maximális ERP ERP < 100 W
+100 W < ERP <
+1 kW
+1 kW < ERP < 10 kW
+10 kW < ERP <
+100 kW
+ERP > 100 kW
+
+Rádióspektrum-
+lekötési díj
+(Ft/állomás)
+45 000 110 000 180 000 280 000 450 000
+4. KH rádió-műsorszóró állomások rádióspektrum-lekötési díjai (Ft/állomás)
+A B C D E
+
+Maximális
+adóteljesítmény
+(Pa)
+Pa < 1 kW 1 kW < Pa < 10 kW 10 kW < Pa < 100 kW Pa > 100 kW
+
+Rádióspektrum-
+lekötési díj
+(Ft/állomás)
+10 000 15 000 50 000 150 000
+5. RH rádió-műsorszóró állomások rádióspektrum-lekötési díjai (Ft/állomás)
+A B C D E
+
+Maximális
+adóteljesítmény
+(Pa)
+Pa < 1 kW 1 kW < Pa < 10 kW 10 kW < Pa < 100 kW Pa > 100 kW
+
+Rádióspektrum-
+lekötési díj
+(Ft/állomás)
+5 000 10 000 15 000 40 000
+
+6. Műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai rádióspektrum-
+lekötési díjának megállapítási módja
+6.1. Televízió (TV), ultrarövidhullámú rádió (URH-FM), digitális rádió (T-DAB) és televízió (DVB-T) műsorszóró
+állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai esetében
+az engedélyezett maximális effektív kisugárzott teljesítménynek (maximális ERP) megfelelő rádióspektrum-
+lekötési díjat (Ft/állomás) kell kiválasztani az 1–3. pontban foglalt táblázatokból.
+6.2. Középhullámú (KH) és rövidhullámú (RH) rádió-műsorszóró állomások esetében az engedélyezett maximális
+adóteljesítménynek (Pa) megfelelő rádióspektrum-lekötési díjat (Ft/állomás) kell kiválasztani a 4–5. pontban
+foglalt táblázatokból.”
+2. melléklet a 12/2020. (XII. 11.) NMHH rendelethez
+„2. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez
+Műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai
+rádióspektrum-használati díjai
+1. 174–230 MHz frekvenciasávú televízió-adók rádióspektrum-használati díjai (Ft/állomás/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott
+teljesítmény (ERP)
+Átlagos effektív antennamagasság
+2 h < 10 m
+10 m < h <
+30 m
+30 m < h <
+50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 3 W 500 1 500 2 600 4 400 8 750 14 900 25 400 68 300
+4 3 W < ERP < 10 W 1 000 2 300 4 400 7 900 19 300 34 100 49 000 98 000
+5 10 W < ERP < 100 W 1 800 3 900 8 800 19 300 42 000 68 300 77 900 175 000
+6 0,1 kW < ERP < 1 kW 3 500 7 000 14 000 31 500 68 300 113 800 126 000 280 000
+7 1 kW < ERP < 10 kW 8 800 14 000 22 800 49 000 107 600 175 000 199 500 448 000
+8 10 kW < ERP < 100 kW 23 600 35 000 52 500 78 800 171 500 280 000 318 500 717 500
+9 ERP > 100 kW 64 800 91 000 127 800 178 500 274 800 446 300 510 100 1 146 300
+2. 470–862 MHz frekvenciasávú televízió-, DVB-T-adók rádióspektrum-használati díjai (Ft/állomás/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott
+teljesítmény (ERP)
+Átlagos effektív antennamagasság
+2 h < 10 m
+10 m < h <
+30 m
+30 m < h <
+50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 3 W 900 2 500 4 500 7 500 15 000 25 500 43 500 117 000
+4 3 W < ERP < 10 W 1 800 3 900 7 500 13 500 33 000 58 500 84 000 168 000
+5 10 W < ERP < 100 W 3 000 6 600 15 000 33 000 72 000 117 000 133 500 300 000
+6 0,1 kW < ERP < 1 kW 6 000 12 000 24 000 54 000 117 000 195 000 216 000 480 000
+7 1 kW < ERP < 10 kW 15 000 24 000 39 000 84 000 184 500 300 000 342 000 768 000
+8 10 kW < ERP < 100 kW 40 500 60 000 90 000 135 000 294 000 480 000 546 000 1 230 000
+9 ERP > 100 kW 111 000 156 000 219 000 306 000 471 000 765 000 874 500 1 965 000
+
+3. 87,5–108 MHz frekvenciasávú URH-FM rádióadók és PMSE alkalmazások adóállomásai rádióspektrum-használati
+díjai (Ft/állomás/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott
+teljesítmény (ERP)
+Átlagos effektív antennamagasság
+2 h < 10 m
+10 m < h <
+30 m
+30 m < h <
+50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 3 W 800 2 100 3 800 6 300 12 500 21 300 36 300 97 500
+4 3 W < ERP < 10 W 1 500 3 300 6 300 11 300 27 500 48 800 70 000 140 000
+5 10 W < ERP < 100 W 2 500 5 500 12 500 27 500 60 000 97 500 111 300 250 000
+6 0,1 kW < ERP < 1 kW 5 000 10 000 20 000 45 000 97 500 162 500 180 000 400 000
+7 1 kW < ERP < 10 kW 12 500 20 000 32 500 70 000 153 800 250 000 285 000 640 000
+8 10 kW < ERP < 100 kW 33 800 50 000 75 000 112 500 245 000 400 000 455 000 1 025 000
+9 ERP > 100 kW 92 500 130 000 182 500 255 000 392 500 637 500 728 800 1 637 500
+4. 47–240 MHz frekvenciasávú T-DAB adók rádióspektrum-használati díjai (Ft/állomás/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott
+teljesítmény (ERP)
+Átlagos effektív antennamagasság
+2 h < 10 m
+10 m < h <
+30 m
+30 m < h <
+50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 3 W 600 1 800 3 100 5 300 10 500 17 800 30 400 81 900
+4 3 W < ERP < 10 W 1 300 2 600 5 300 9 400 23 000 40 900 58 800 117 500
+5 10 W < ERP < 100 W 2 000 4 500 10 500 23 000 50 400 81 900 93 400 210 000
+6 0,1 kW < ERP < 1 kW 4 100 8 400 16 800 37 800 81 900 136 500 151 100 336 000
+7 1 kW < ERP < 10 kW 10 500 16 800 27 300 58 800 129 100 210 000 239 400 537 500
+8 10 kW < ERP < 100 kW 28 300 42 000 63 000 94 500 205 800 336 000 382 100 861 000
+9 ERP > 100 kW 77 600 109 100 153 300 214 100 329 600 535 500 612 100 1 375 500
+5. Középhullámú rádióadók rádióspektrum-használati díjai (Ft/állomás/hó)
+A B
+
+Maximális adóteljesítmény
+(Pa)
+Rádióspektrum-használati díj
+(Ft/állomás/hó)
+2 Pa < 1 kW 6 300
+3 1 kW < Pa < 10 kW 12 500
+4 10 kW < Pa < 100 kW 25 000
+5 0,1 MW < Pa < 1 MW 75 000
+6 Pa > 1 MW 187 500
+6. Rövidhullámú rádióadók rádióspektrum-használati díjai (Ft/állomás/hó)
+A B
+
+Maximális adóteljesítmény
+(Pa)
+Rádióspektrum-használati díj
+(Ft/állomás/hó)
+2 Pa < 1 kW 1 900
+3 1 kW < Pa < 10 kW 3 100
+4 10 kW < Pa < 100 kW 12 500
+5 0,1 MW < Pa < 1 MW 25 000
+6 Pa > 1 MW 62 500
+
+7. Műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai rádióspektrum-
+használati díjának megállapítási módja
+7.1. Televízió (TV), ultrarövidhullámú rádió (URH-FM), digitális rádió (T-DAB) és televízió (DVB-T) műsorszóró
+állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai esetében
+7.1.1. az engedélyezett frekvenciát tartalmazó táblázatot kell kiválasztani az 1–4. pontban foglalt
+táblázatok közül,
+7.1.2. a kiválasztott táblázatban az engedélyezett átlagos effektív kisugárzott teljesítmény (átlagos ERP) és
+az átlagos effektív antennamagasság által együttesen meghatározott rádióspektrum-használati díjat
+(Ft/állomás/hó) kell kiválasztani.
+7.2. Középhullámú (KH) és rövidhullámú (RH) rádió-műsorszóró állomások esetében az engedélyezett maximális
+adóteljesítménynek (Pa) megfelelő rádióspektrum-használati díjat (Ft/állomás/hó) kell kiválasztani az 5. és
+a 6. pontban foglalt táblázatok közül.”
+3. melléklet a 12/2020. (XII. 11.) NMHH rendelethez
+„3. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez
+Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb
+frekvenciájú állandóhelyű szolgálatok rádióspektrum-lekötési díjai
+1. Telephely nélküli frekvenciakijelölésű mozgó- és állandóhelyű szolgálati hálózatok rádióspektrum-lekötési díjai (Ft)
+A B C D E F G
+1 Felhasználási körzet Mikro Helyi Kis Nagy Regionális Országos
+2 Terület (km2) < 1 < 300 < 2500 < 20 000 < 75 000 > 75 000
+3 Rádióspektrum-lekötési díj (Ft) 10 000 30 000 50 000 100 000 250 000 500 000
+2. Telephelyre szóló frekvenciakijelölésű mozgó- és állandóhelyű szolgálati hálózatok rádióspektrum-lekötési díjai
+(Ft/frekvencia)
+A B C D E F
+1 Frekvenciasáv (F)
+(MHz)
+Maximális effektív kisugárzott teljesítmény
+2 ERP > 250 W 250 W > ERP > 25 W 25 W > ERP > 1 W 1 W > ERP > 0,1 W ERP < 0,1 W
+3 26 < F < 47 68 000 40 000 15 000 7 500 4 500
+4 47 < F < 108 48 000 29 000 9 000 5 000 3 000
+5 108 < F < 240 60 000 36 000 12 000 6 500 4 000
+6 240 < F < 380 53 000 31 000 10 000 5 500 3 500
+7 380 < F < 790 48 000 29 000 9 000 5 000 3 000
+8 790 < F < 960 40 000 24 000 8 000 4 000 2 500
+9 960 < F < 10 000 25 000 15 000 5 000 2 500 1 500
+3. Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú
+állandóhelyű szolgálatok rádióspektrum-lekötési díjának megállapítási módja
+3.1. Telephely nélküli frekvenciakijelölésű mozgó- és állandóhelyű szolgálati hálózatok esetében
+az engedélyezett felhasználási körzetnek megfelelő rádióspektrum-lekötési díjat kell kiválasztani
+az 1. pontban foglalt táblázatból.
+3.2. Telephelyre szóló frekvenciakijelölésű mozgó- és állandóhelyű szolgálati hálózatok esetében
+3.2.1. az engedélyezett frekvenciát tartalmazó frekvenciasáv és a maximális effektív kisugárzott
+teljesítmény (maximális ERP) által együttesen meghatározott rádióspektrum-lekötési díjat
+(Ft/frekvencia) kell kiválasztani a 2. pontban foglalt táblázatból,
+3.2.2. a helyhez kötött és az állandóhelyű állomásokon a vételi frekvenciák díjmegállapításához is
+az állomás maximális effektív kisugárzott teljesítményét kell figyelembe venni,
+
+3.2.3. a hálózatra engedélyezett - azonos frekvenciasávba tartozó - több frekvencia esetében a 3.2.1. pont
+alatti rádióspektrum-lekötési díjat a frekvenciák darabszámával meg kell szorozni,
+3.2.4. ha a hálózatra engedélyezett frekvenciák különböző frekvenciasávokba tartoznak, akkor
+a 3.2.1. pont alatti eljárást minden egyes frekvenciára meg kell ismételni, és az eredményül kapott
+rádióspektrum-lekötési díjakat össze kell adni.
+3.3. A csak vételre szolgáló csillagponti állomás ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-i
+közül a legnagyobbat kell figyelembe venni a rádióspektrum-lekötési díj megállapításához.”
+4. melléklet a 12/2020. (XII. 11.) NMHH rendelethez
+„4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez
+Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb
+frekvenciájú állandóhelyű szolgálatok rádióspektrum-használati díjai
+1. Területre szóló, telephely nélküli frekvenciakijelölésű hálózatok 1 kHz sávszélességre vonatkoztatott rádióspektrum-
+használati egységdíjai (Ft/kHz/hó)
+A B C D E F G
+
+Frekvenciasáv (F)
+(MHz)
+Felhasználási körzet
+
+Mikro
+< 1 km2
+Helyi
+< 300 km2
+Kis
+< 2500 km2
+Nagy
+< 20 000 km2
+Regionális
+< 75 000 km2
+Országos
+> 75 000 km2
+3 26 < F < 47 25 120 180 420 2 700 4 800
+4 47 < F < 108 15 80 120 280 1 800 3 200
+5 108 < F < 240 15 80 120 280 1 800 3 200
+6 240 < F < 380 10 40 60 140 900 1 600
+7 380 < F < 790 5 20 30 70 450 800
+8 790 < F < 960 3 15 22 50 300 450
+9 960 < F < 10 000 2 10 15 40 250 350
+2. A mozgószolgálati hálózatok állomásainak és berendezéseinek kategória szerinti rádióspektrum-használati díja
+A B
+1 Állomás és berendezés kategória Ft/db/hó
+2 Mozgóállomások 100
+3 Helyhez kötött állomások 5 000
+4 Fix és változó telephelyű állomások 3 000
+5 Tartalék berendezések 100
+3. A 26–47 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
+(Ft/kHz/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott teljesítmény
+(ERP)
+Átlagos effektív antennamagasság
+
+h <
+10 m
+10 m < h
+< 30 m
+30 m < h
+< 50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 0,1 W 14 42 84 168 252 518 742 1 960
+4 0,1 W < ERP < 0,5 W 28 70 140 280 420 840 1 190 3 150
+5 0,5 W < ERP < 3 W 42 119 210 350 700 1190 2 030 5 460
+6 3 W < ERP < 10 W 84 182 350 630 1 540 2 730 3 920 7 840
+7 10 W < ERP < 100 W 140 308 700 1 540 3 360 5 460 6 230 14 000
+8 ERP > 100 W 280 560 1 120 2 520 5 460 9 100 10 080 22 400
+
+4. A 47–108 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
+(Ft/kHz/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott teljesítmény
+(ERP)
+Átlagos effektív antennamagasság
+2 h < 10 m
+10 m < h
+< 30 m
+30 m < h
+< 50 m
+50 m < h
+< 100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 0,1 W 6 18 36 72 108 222 318 840
+4 0,1 W < ERP < 0,5 W 12 30 60 120 180 360 510 1 350
+5 0,5 W < ERP < 3 W 18 51 90 150 300 510 870 2 340
+6 3 W < ERP < 10 W 36 78 150 270 660 1 170 1 680 3 360
+7 10 W < ERP < 100 W 60 132 300 660 1 440 2 340 2 670 6 000
+8 ERP > 100 W 120 240 480 1 080 2 340 3 900 4 320 9 600
+5. A 108–240 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
+(Ft/kHz/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott teljesítmény
+(ERP)
+Átlagos effektív antennamagasság
+
+h <
+10 m
+10 m < h
+< 30 m
+30 m < h
+< 50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 0,1 W 10 30 60 120 180 370 530 1 400
+4 0,1 W < ERP < 0,5 W 20 50 100 200 300 600 850 2 250
+5 0,5 W < ERP < 3 W 30 85 150 250 500 850 1 450 3 900
+6 3 W < ERP < 10 W 60 130 250 450 1 100 1 950 2 800 5 600
+7 10 W < ERP < 100 W 100 220 500 1 100 2 400 3 900 4 450 10 000
+8 ERP > 100 W 200 400 800 1 800 3 900 6 500 7 200 16 000
+6. A 240–380 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
+(Ft/kHz/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott teljesítmény
+(ERP)
+Átlagos effektív antennamagasság
+
+h <
+10 m
+10 m < h
+< 30 m
+30 m < h
+< 50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 0,1 W 8 22 43 87 130 267 382 1 008
+4 0,1 W < ERP < 0,5 W 15 36 72 144 216 432 612 1 620
+5 0,5 W < ERP < 3 W 22 61 108 180 360 612 1 044 2 808
+6 3 W < ERP < 10 W 43 94 180 324 792 1 404 2 016 4 032
+7 10 W < ERP < 100 W 72 158 360 792 1 728 2 808 3 204 7 200
+8 ERP > 100 W 144 288 576 1 296 2 808 4 680 5 184 11 520
+
+7. A 380–790 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
+(Ft/kHz/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott teljesítmény
+(ERP)
+Átlagos effektív antennamagasság
+
+h <
+10 m
+10 m < h
+< 30 m
+30 m < h
+< 50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 0,1 W 6 17 34 67 101 207 297 784
+4 0,1 W < ERP < 0,5 W 11 28 56 112 168 336 476 1 260
+5 0,5 W < ERP < 3 W 17 48 84 140 280 476 812 2 184
+6 3 W < ERP < 10 W 34 73 140 252 616 1 092 1 568 3 136
+7 10 W < ERP < 100 W 56 123 280 616 1 344 2 184 2 492 5 600
+8 ERP > 100 W 112 224 448 1 008 2 184 3 640 4 032 8 960
+8. A 790–960 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
+(Ft/kHz/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott teljesítmény
+(ERP)
+Átlagos effektív antennamagasság
+
+h <
+10 m
+10 m < h
+< 30 m
+30 m < h
+< 50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 0,1 W 4 12 24 48 72 148 212 560
+4 0,1 W < ERP < 0,5 W 8 20 40 80 120 240 340 900
+5 0,5 W < ERP < 3 W 12 34 60 100 200 340 580 1 560
+6 3 W < ERP < 10 W 24 52 100 180 440 780 1 120 2 240
+7 10 W < ERP < 100 W 40 88 200 440 960 1 560 1 780 4 000
+8 ERP > 100 W 80 160 320 720 1 560 2 600 2 880 6 400
+9. A 960–10 000 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
+(Ft/kHz/hó)
+A B C D E F G H I
+1 Átlagos effektív
+kisugárzott teljesítmény
+(ERP)
+Átlagos effektív antennamagasság
+
+h <
+10 m
+10 m < h
+< 30 m
+30 m < h
+< 50 m
+50 m < h <
+100 m
+100 m < h <
+250 m
+250 m < h <
+350 m
+350 m < h <
+500 m
+500 m < h
+3 ERP < 0,1 W 3 10 19 38 58 118 170 448
+4 0,1 W < ERP < 0,5 W 6 16 32 64 96 192 272 720
+5 0,5 W < ERP < 3 W 10 27 48 80 160 272 464 1 248
+6 3 W < ERP < 10 W 19 42 80 144 352 624 896 1 792
+7 10 W < ERP < 100 W 32 70 160 352 768 1 248 1 424 3 200
+8 ERP > 100 W 64 128 256 576 1 248 2 080 2 304 5 120
+10. Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú
+állandóhelyű szolgálatok rádióspektrum-használati díjának megállapítási módja
+10.1. Telephely nélküli frekvenciakijelölésű mozgó- és állandóhelyű szolgálati hálózatok esetében
+10.1.1. az engedélyezett frekvenciát tartalmazó frekvenciasáv és a felhasználási körzet által együttesen
+meghatározott rádióspektrum-használati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1. pontban
+foglalt táblázatból,
+10.1.2. a 10.1.1. pont alatti rádióspektrum-használati egységdíjat a hálózatra engedélyezett frekvenciák
+csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+
+10.2. Telephely nélküli, illetve telephelyre szóló frekvenciakijelölésű mozgószolgálati hálózatok állomásai,
+berendezései esetében
+10.2.1. azok kategóriájának megfelelő rádióspektrum-használati díjat (Ft/db/hó) kell kiválasztani
+a 2. pontban foglalt táblázatból,
+10.2.2. a 10.2.1. pont alatti rádióspektrum-használati díjat több engedélyezett állomás, berendezés
+esetében az azonos kategóriába tartozó állomások, illetve berendezések számával meg kell
+szorozni, és az eredményül kapott rádióspektrum-használati díjakat össze kell adni.
+10.3. Telephelyre szóló frekvenciakijelölésű mozgószolgálati hálózatok helyhez kötött állomásai és telephelyre
+szóló frekvenciakijelölésű állandóhelyű szolgálati hálózatok állandóhelyű állomásai esetében
+10.3.1. az engedélyezett frekvenciát tartalmazó táblázatot kell kiválasztani a 3–9. pontban foglalt
+táblázatok közül,
+10.3.2. a kiválasztott táblázatban az átlagos effektív kisugárzott teljesítmény (átlagos ERP) és az átlagos
+effektív antennamagasság által együttesen meghatározott rádióspektrum-használati egységdíjat
+(Ft/kHz/hó) kell kiválasztani,
+10.3.3. a 10.3.2. pont alatti rádióspektrum-használati egységdíjat az állomásra engedélyezett és egyidejűleg
+felhasználható frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+10.4. A helyhez kötött és az állandóhelyű állomásokon a vételi frekvenciák díjmegállapításához is az állomás
+átlagos effektív kisugárzott teljesítményét kell figyelembe venni.
+10.5. A csak vételre szolgáló csillagponti állomás ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-je
+közül a legnagyobbat kell figyelembe venni a rádióspektrum-díj megállapításához.
+10.6. A helyhez kötött és az állandóhelyű állomások átlagos effektív antennamagasságának kiszámításánál
+az effektív antennamagasság legkisebb figyelembe vehető értéke az antenna földfelszín feletti magassága.”
+5. melléklet a 12/2020. (XII. 11.) NMHH rendelethez
+„8. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez
+Műholdas szolgálatok rádióspektrum-használati díjai
+1. A 18. §-ban felsorolt földi állomások 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjai
+(Ft/kHz/hó)
+A B
+1 Frekvenciasáv (F)
+Díj
+(Ft/kHz/hó)
+2 960 MHz < F < 10 GHz 0,5
+3 10 GHz < F < 15,4 GHz 0,25
+4 F > 15,4 GHz 0,13
+2. A 18. §-ban felsorolt földi állomások rádióspektrum-használati díjának megállapítási módja
+2.1. A 18. §-ban felsorolt földi állomások esetében az engedélyezett frekvenciát tartalmazó frekvenciasávnak
+megfelelő rádióspektrum-használati egységdíjat (Ft/kHz/hó) kell kiválasztani a táblázatból,
+2.2. a 2.1. pont alatti rádióspektrum-használati egységdíjat az állomásra engedélyezett frekvenciák
+csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.”
