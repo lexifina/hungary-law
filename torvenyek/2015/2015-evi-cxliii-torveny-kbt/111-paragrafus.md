@@ -18,7 +18,7 @@ g) olyan szolgáltatás megrendelése esetében, amely az ajánlatkérő alaptev
 
 h) felelős akkreditált közbeszerzési szaktanácsadói tevékenység igénybevételére;
 
-i) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7. és 9. pontja, valamint szükség- vagy veszélyhelyzet esetén az állatok járványos megbetegedése, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
+i) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7. és 9. pontja, valamint veszélyhelyzet vagy egészségügyi válsághelyzet esetén humánjárvány vagy az állatok járványos megbetegedésének megelőzése vagy elhárítása, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
 
 j) fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások, illetve építési beruházás beszerzésére;
 
