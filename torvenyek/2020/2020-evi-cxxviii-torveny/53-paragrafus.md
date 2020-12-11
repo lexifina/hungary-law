@@ -1,0 +1,7 @@
+53. § (1) A Kbt. 197. §-a a következő (21) bekezdéssel egészül ki:
+
+„(21) E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvénnyel megállapított 43. § (1) és (1a) bekezdését alkalmazni kell az ezen rendelkezések hatálybalépését megelőzően kötött szerződésekre is.”
+
+(2) A Kbt. 197. §-a a következő (22) bekezdéssel egészül ki:
+
+„(22) E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvénnyel megállapított 138. § (3) bekezdését alkalmazni kell az ezen rendelkezés hatálybalépését megelőzően indult közbeszerzési eljárások alapján kötött szerződésekre is, a megkötött szerződéseknél a még be nem jelentett alvállalkozók tekintetében. A közbeszerzési dokumentumokba foglalt szerződéstervezet vagy a megkötött szerződés módosítása nem szükséges, a szerződés – adott esetben a 131. § (1) bekezdésétől eltérően – a 138. § (3) bekezdése szerinti tartalommal köthető meg, vagy a már megkötött szerződéseknél a nyertes ajánlattevő nem csak a szerződésbe foglaltan nyilatkozhat arról, hogy nem vesz igénybe a kizáró okok hatálya alatt álló alvállalkozót. E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvénnyel megállapított 152. § (2) bekezdését a hatálybalépését követően megvalósult jogsértések miatt kezdeményezett jogorvoslati eljárásokra kell alkalmazni.”

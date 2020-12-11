@@ -1,0 +1,3 @@
+7. § A Kbt. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A közbeszerzés becsült értékén a közbeszerzés megkezdésekor annak tárgyáért az adott piacon általában kért vagy kínált – általános forgalmi adó nélkül számított, a 17–20. §-ban foglaltakra tekintettel megállapított – teljes ellenszolgáltatást kell érteni. Opcionális részt tartalmazó ajánlatkérés esetén a teljes ellenszolgáltatásba az opcionális rész értékét is bele kell érteni. Mennyiségi eltérés meghatározása esetén a szerződésben megjelölt legnagyobb mennyiséget kell figyelembe venni a becsült érték meghatározása során.”

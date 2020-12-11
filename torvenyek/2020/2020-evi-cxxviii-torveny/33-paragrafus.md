@@ -1,0 +1,3 @@
+33. § A Kbt. 107. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A dinamikus beszerzési rendszer felállításakor a részvételi határidőt az ajánlatkérő nem határozhatja meg a részvételi felhívást tartalmazó hirdetmény feladásának vagy a közvetlen részvételi felhívás megküldésének napjától számított harminc napnál rövidebb időtartamban, a gyorsított eljárás szabályai nem alkalmazhatóak. Ez a részvételi határidő a rendszer – az első közbeszerzésre vonatkozó ajánlattételi felhívás megküldését megelőző – felállításakor irányadó. A rendszerben megvalósítandó további közbeszerzések tekintetében nem határozhatóak meg újabb részvételi határidők, a rendszer fennállásának teljes időtartama alatt lehet részvételre jelentkezni.”
