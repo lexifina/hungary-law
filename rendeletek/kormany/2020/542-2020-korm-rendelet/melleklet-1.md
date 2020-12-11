@@ -1,10 +1,4 @@
-## 3. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 15. § (1) bekezdése a következő e) ponttal egészül ki:
-
-## (A Kormány)
-
-## „e) krízisbiztosítási szervként”
-
-## (a Kincstárt jelöli ki.)
+## 3. §[^1]
 
 1. melléklet az 542/2020. (XII. 2.) Korm. rendelethez
 
@@ -117,3 +111,5 @@ A krízisbiztosítási hozzájárulás évenkénti mértéke
 | 12. | Méhészet |  | 100 | forint/méhcsalád |
 
 * Csak akkor kell figyelembe venni, ha az adott üzemben nincs nőivarú tenyészállat.
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
