@@ -5,4 +5,4 @@
 XX. Emberi Erőforrások Minisztériuma 2020. évi fejezeti kezelésű kiadási előirányzatainak feladatterve
 
 [^38]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: Az 1. melléklet a 35/2019. (XII. 30.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^39]: Az 1. melléklet a 44/2020. (XII. 8.) EMMI rendelet 3. §-ával megállapított szöveg.
