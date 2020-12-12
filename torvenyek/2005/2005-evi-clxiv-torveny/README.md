@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2019-12-28 | 2019. évi LXXXIII. törvény | 2005-164-00-00.38 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2005-164-00-00.39 |
 | 2020-08-01 | 2020. évi XCVI. törvény | 2005-164-00-00.40 |
+| 2020-12-12 | 2020. évi CXL. törvény | 2005-164-00-00.41 |
