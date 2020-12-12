@@ -4,15 +4,15 @@
 
 ## 1. A törvény alkalmazási köre
 
-1. § (1) Az Európai Unió programozási időszakához kapcsolódó támogatási kérelmek tartalmi értékelése közfeladat, amelyet az állami projektértékelői jogviszonyban állók látnak el.
+1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése közfeladat, amelyet az állami projektértékelői jogviszonyban állók látnak el.
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
-a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként vagy köztisztviselőként,
+a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, köztisztviselőként vagy munkavállalóként,
 
-b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, valamint állami felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
+b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, köztisztviselőként vagy munkavállalóként, valamint állami vagy vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
 
-c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként vagy közalkalmazottként vagy
+c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként vagy
 
 d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként
 

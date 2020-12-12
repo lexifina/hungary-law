@@ -2,7 +2,7 @@
 
 10. § (1) A munkáltató
 
-a) a 3. § (2) bekezdés a) pontjában foglalt feltételnek való megfelelés ellenőrzése,
+a) a 3. § (2) bekezdésében foglalt feltételnek való megfelelés ellenőrzése,
 
 b) az európai uniós források felhasználásával megvalósuló egyes projektek objektív és a piaci szereplők érdekeitől független értékelésének ellenőrzése,
 
@@ -12,7 +12,7 @@ d) az állami projektértékelői jogviszonnyal összefüggő jogok gyakorlásá
 
 céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó személy és az állami projektértékelő személyes adatait, valamint a 4. § (3) bekezdése szerinti nyilatkozatát, és azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – 2027. december 31-ig kezeli.
+(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – legfeljebb az érintett operatív programra irányadó dokumentum-megőrzési kötelezettség leteltéig kezeli.
 
 (3) A munkáltató a pályázó, illetve értékelő
 

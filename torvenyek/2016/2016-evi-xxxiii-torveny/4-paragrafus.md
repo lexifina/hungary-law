@@ -16,8 +16,10 @@ e) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír 
 
 (4) A miniszter gondoskodik arról, hogy a pályázati eljárás során megfelelt és kiválasztott személyt a szakértői névsorba bejegyezzék.
 
-(5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény rendelkezéseit megfelelően alkalmazni kell.
+(5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény és a nemzetbiztonsági szolgálatokról szóló törvény nemzetbiztonsági ellenőrzésre vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (6) A pályázat tartalmával, benyújtásával és elbírálásának rendjével kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (7) A pályázói adatlaphoz mellékelni kell a pályázó alapjogviszonya fennállásáról szóló munkáltatói igazolást és a Kormány rendeletében meghatározott nyilatkozatokat.
+
+(8) Ha az értékelő nem teljesíti a keretszerződésében vállalt kötelezettségeit, különös tekintettel a vagyonnyilatkozat-tételi kötelezettségre és a nemzetbiztonsági ellenőrzésnek való alávetésre, vele új állami projektértékelői jogviszony nem létesíthető.

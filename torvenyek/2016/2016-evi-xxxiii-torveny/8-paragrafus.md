@@ -8,7 +8,7 @@
 
 (4) A miniszter a díjazás általános alapelveit normatív utasításban meghatározhatja.
 
-(5) A miniszter az 1. § (3) és (8) bekezdésében, a 7. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott hatáskörét normatív utasításban átruházhatja.
+(5) A miniszter az 1. § (3) és (8) bekezdésében, a 4. § (2) és (4) bekezdésében, a 7. § (1) bekezdésében, a 10/A. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott hatáskörét normatív utasításban átruházhatja.
 
 (6) A feladatellátásból eredő kötelezettsége megszegésével okozott kárért az értékelő az alapjogviszonya szerinti kártérítési felelősséggel tartozik.
 
