@@ -22,7 +22,7 @@
 
 11.
 
-12. 111. § i) pontjában a „szükség- vagy veszélyhelyzet esetén az állatok járványos megbetegedése,” szövegrész helyébe a „veszélyhelyzet vagy egészségügyi válsághelyzet esetén humánjárvány vagy az állatok járványos megbetegedésének megelőzése vagy elhárítása,” szöveg,
+12.
 
 13.
 
