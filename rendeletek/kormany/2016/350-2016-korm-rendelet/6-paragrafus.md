@@ -26,4 +26,7 @@ j) igazságügyi szakértői tevékenység ellátására rendelkezésre álló k
 
 k)[^2] biztosítja a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 6. §-ában meghatározott, a bírák pályaalkalmassági vizsgálatához szükséges személyi és tárgyi feltételeket.
 
+l)[^3] a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1)–(3) bekezdésében meghatározottak tekintetében, a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (2) bekezdés d) pontjában biztosított jogkörében, igazságügyi szakértői tevékenység végzése céljából adatot és iratot igényelhet.
+
 [^2]: A 6. § (2) bekezdés k) pontját a 375/2020. (VII. 30.) Korm. rendelet 87. §-a iktatta be.
+[^3]: A 6. § (2) bekezdés l) pontját az 572/2020. (XII. 9.) Korm. rendelet 85. §-a iktatta be.
