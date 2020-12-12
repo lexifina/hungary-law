@@ -2,7 +2,7 @@
 
 11. §[^140] (1) A vízjogi engedély az engedélyes kérelmére módosítható, amennyiben:
 
-a) az engedélyes a vízilétesítményt át akarja alakítani, vagy az engedélyben meghatározott műszaki megoldástól eltérően kívánja megterveztetni, megépíteni, illetőleg üzemeltetni, továbbá a vízhasználatot az engedélytől eltérő módon (mértékben) kívánja gyakorolni;
+a)[^141] az engedélyes a vízilétesítményt át akarja alakítani, vagy az engedélyben meghatározott műszaki megoldástól eltérően kívánja megterveztetni, megépíteni vagy üzemeltetni – ideértve a 4. § (1) bekezdésében szabályozott esetben a bejelentést követően létesített ivóvíz-, illetve szennyvíz törzshálózat üzemeltetési engedélyezését –, továbbá a vízhasználatot az engedélytől eltérő módon (mértékben) kívánja gyakorolni;
 
 b) megváltozott a tulajdonos vagy az üzemeltető személye;
 
@@ -14,3 +14,4 @@ c) megváltoztak az engedély alapjául szolgáló körülmények és feltétele
 
 [^139]: A 10/A. §-t a 123/2012. (VI. 26.) Korm. rendelet 3. §-a iktatta be.
 [^140]: A 11. § a 123/2012. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^141]: A 11. § (1) bekezdés a) pontja az 572/2020. (XII. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
