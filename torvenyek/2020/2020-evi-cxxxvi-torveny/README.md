@@ -1,0 +1,7 @@
+# 2020. évi CXXXVI. törvény a fogyasztóvédelemmel összefüggő egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-136-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2020-12-12 | 2020. évi CXXXVI. törvény | 2020-136-00-00.0 (közlönyállapot) |

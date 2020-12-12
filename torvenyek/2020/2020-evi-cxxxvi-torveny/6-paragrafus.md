@@ -1,0 +1,1 @@
+6. § Az Fgytv. 1. melléklet 1.1.1. pont h) alpontjában az „a megyei (fővárosi) kereskedelmi és iparkamara mellett működő békéltető testület” szövegrész helyébe az „a megyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület” szöveg lép.
