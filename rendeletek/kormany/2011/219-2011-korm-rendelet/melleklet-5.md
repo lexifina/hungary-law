@@ -78,6 +78,8 @@ cf) beavatkozás, kárelhárítás, mentesítés végzése,
 
 cg) az üzem környezetében kialakult veszélyhelyzet elhárításához szükséges segítségnyújtás lehetőségei és feltételei;
 
+ch)[^153] súlyos balesetet követően a környezet helyreállítása és megtisztítása;
+
 d) az üzemi dolgozók védelme érdekében hozott intézkedések, beleértve a riasztásuk és a riasztás vételét követő magatartási rendszabályokat, a munka biztonságos szüneteltetésének, a kimenekítésnek, a gyülekezésnek a feltételeit;
 
 e) annak bemutatása, hogy a védelmi intézkedések arányban állnak a küszöbérték alatti üzem veszélyeztetésével;
@@ -88,7 +90,7 @@ f) a feltárt súlyos balesetekhez kapcsolódó kárelhárítási feladatok vég
 
 a) a külső védelmi terv beindításáért felelős szervezet riasztásának módja, a riasztáskor közlendő információk, a helyzet kialakulását követő részletes információk tartalma, és az információk átadásának módja,
 
-b)[^156] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
+b)[^154] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
 
 1.6. A védekezési tevékenységben érintett személyek felkészítésével kapcsolatos feladatok bemutatása.
 
@@ -100,4 +102,5 @@ b)[^156] a küszöbérték alatti üzem környezetében kialakult veszélyhelyze
 
 A súlyos káresemény elhárítási terv formai követelményei megegyeznek a 3. melléklet 2. pontjában foglalt formai követelményekkel.
 
-[^156]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
+[^153]: Az 5. melléklet 1.4. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § b) pontja iktatta be.
+[^154]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.

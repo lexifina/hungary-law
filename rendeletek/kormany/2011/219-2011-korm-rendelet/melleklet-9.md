@@ -14,7 +14,7 @@ a) a veszélyes anyagokkal kapcsolatos súlyos baleset következtében kialakul�
 
 b) a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésbe bevonható települési infrastruktúra, berendezések és anyagok;
 
-c)[^162] a lakosság, az anyagi javaik és a környezet védelme érdekében hozott intézkedések:
+c)[^161] a lakosság, az anyagi javaik és a környezet védelme érdekében hozott intézkedések:
 
 ca) vezetési és együttműködési feladatok,
 
@@ -41,6 +41,8 @@ ck) a tűzoltás,
 cl) a híradás, valamint
 
 cm) az áldozatokkal kapcsolatos tevékenység.
+
+cn)[^162] súlyos balesetet követően a környezet helyreállítása és megtisztítása.
 
 1.2.2. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés irányítása:
 
@@ -72,4 +74,5 @@ b) a hatóság tájékoztatásának tartalma és eszközei.
 
 2.2. A térképeken (vázlaton) ki kell emelni a veszélyes anyagokkal foglalkozó üzem, vagy a küszöbérték alatti üzem megközelítési útvonalait, valamint a kimenekítési és egyéb, a veszélyes anyagokkal kapcsolatos súlyos baleset hatásai elleni védekezéssel kapcsolatos tevékenységek során igénybe vehető útvonalakat.
 
-[^162]: A 9. melléklet 1.2.1. pont c) alpont nyitó szövegrésze a 34/2015. (II. 27.) Korm. rendelet 30. § (5) bekezdésével megállapított szöveg.
+[^161]: A 9. melléklet 1.2.1. pont c) alpont nyitó szövegrésze a 34/2015. (II. 27.) Korm. rendelet 30. § (5) bekezdésével megállapított szöveg.
+[^162]: A 9. melléklet 1.2.1. pont c) alpont cn) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § d) pontja iktatta be.
