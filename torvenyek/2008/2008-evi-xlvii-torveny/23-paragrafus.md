@@ -2,4 +2,4 @@
 
 (2) A Felügyelet hatáskörének vizsgálata keretében a Felügyelet felhívására a vállalkozás köteles nyilatkozni arról, hogy az adott kereskedelmi gyakorlattal összefüggésben milyen kommunikációs eszközök kerültek alkalmazásra.
 
-(3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti hatósági eljárás megindításáról, illetve ha bármely ellenőrzése során a tisztességtelen kereskedelmi gyakorlat tilalmának megsértését észleli, a Felügyelet az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a Gazdasági Versenyhivatalt.
+(3)

@@ -4,4 +4,4 @@
 
 (2) A fogyasztóvédelmi hatóság hatáskörének vizsgálata keretében a hatóság felhívására a vállalkozás köteles nyilatkozni arról, hogy az adott kereskedelmi gyakorlattal összefüggésben milyen kommunikációs eszközök kerültek alkalmazásra.
 
-(3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti eljárás megindításáról a fogyasztóvédelmi hatóság az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a Gazdasági Versenyhivatalt.
+(3)
