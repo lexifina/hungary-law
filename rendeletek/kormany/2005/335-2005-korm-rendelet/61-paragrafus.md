@@ -26,7 +26,15 @@ c) a 43. § (3) bekezdése szerint elkészített adathordozókat
 
 (7)[^152] Az 1. mellékletben és a 3. mellékletben felsorolt szervek a megőrzési kötelezettséget – a 47. § a)–j) pontjában és a 2. mellékletben foglalt iratok kivételével – az iratról az Eür. szerinti hiteles elektronikus másolat készítése és megőrzése útján teljesítik, a (8) bekezdésben meghatározott eltéréssel. Az 1. mellékletben és a 3. mellékletben fel nem sorolt, közfeladatot ellátó szerv a megőrzési kötelezettséget az iratról az Eür. szerinti hiteles elektronikus másolat készítése és megőrzése útján is teljesítheti. A közfeladatot ellátó szerv a (8) bekezdésben nem szereplő eredeti, papíralapú iratot a hiteles elektronikus másolat elkészítését és az annak megőrzése kezdő időpontját követően, az Ltv. 5. § (4)–(6) bekezdése szerinti eljárásban megsemmisíti.
 
-(8)[^153] A közfeladatot ellátó szerv az iratról készített hiteles elektronikus másolat megőrzése mellett is megőrzi a maradandó értékű eredeti papíralapú iratot, ha ez az illetékes levéltár megállapítása szerint indokolt. A közfeladatot ellátó szerv azon maradandó értékű irat esetében, amelyről hiteles elektronikus másolatot készített, a papíralapú példány megőrzéséről negyedéves időszakonként kérheti az illetékes levéltár nyilatkozatát. A maradandó értékű irat papíralapú változata az illetékes levéltár egyetértő nyilatkozata esetén az Ltv. 5. § (4)–(6) bekezdése szerinti eljárásban megsemmisíthető. Az illetékes levéltár által papír alapon is megőrzendőnek ítélt maradandó értékű iratot a közfeladatot ellátó szerv a levéltárba adásig papíralapú iratként megőrzi.
+(7a)[^153] A (7) bekezdés szerinti feladat ellátása során az 1. mellékletben, valamint a 3. mellékletben meghatározott államigazgatási szerv erre vonatkozó igénye esetén – azon iratok vonatkozásában, melyeket a 63/A. § (1) bekezdése szerinti központi szolgáltató kizárólagos digitalizálási feladatköre nem érint – az Eür. szerinti hiteles elektronikus irattá alakítást a NISZ Zrt.
+
+a) a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel kötött közszolgáltatási szerződés terhére vagy
+
+b) a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló miniszteri rendelet szerinti direktfinanszírozási szerződés alapján
+
+## végzi el.
+
+(8)[^154] A közfeladatot ellátó szerv az iratról készített hiteles elektronikus másolat megőrzése mellett is megőrzi a maradandó értékű eredeti papíralapú iratot, ha ez az illetékes levéltár megállapítása szerint indokolt. A közfeladatot ellátó szerv azon maradandó értékű irat esetében, amelyről hiteles elektronikus másolatot készített, a papíralapú példány megőrzéséről negyedéves időszakonként kérheti az illetékes levéltár nyilatkozatát. A maradandó értékű irat papíralapú változata az illetékes levéltár egyetértő nyilatkozata esetén az Ltv. 5. § (4)–(6) bekezdése szerinti eljárásban megsemmisíthető. Az illetékes levéltár által papír alapon is megőrzendőnek ítélt maradandó értékű iratot a közfeladatot ellátó szerv a levéltárba adásig papíralapú iratként megőrzi.
 
 [^146]: A 61. § (1) bekezdése a 64/2010. (III. 18.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^147]: A 61. § (3) bekezdése a 64/2010. (III. 18.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
@@ -35,4 +43,5 @@ c) a 43. § (3) bekezdése szerint elkészített adathordozókat
 [^150]: A 61. § (5) bekezdését a 64/2010. (III. 18.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
 [^151]: A 61. § (6) bekezdését a 64/2010. (III. 18.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított, a 137/2019. (VI. 11.) Korm. rendelet 14. § q) pontja szerint módosított szöveg.
 [^152]: A 61. § (7) bekezdését a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdése iktatta be, szövege a 137/2019. (VI. 11.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^153]: A 61. § (8) bekezdését a 137/2019. (VI. 11.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 272/2020. (VI. 12.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^153]: A 61. § (7a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 20. §-a iktatta be.
+[^154]: A 61. § (8) bekezdését a 137/2019. (VI. 11.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 272/2020. (VI. 12.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-63/B. §[^160] (1) A miniszter egyedi kérelemre felmentést adhat a központi szolgáltató igénybevételének kötelezettsége alól, ha
+63/B. §[^161] (1) A miniszter egyedi kérelemre felmentést adhat a központi szolgáltató igénybevételének kötelezettsége alól, ha
 
 a) a 3. mellékletben meghatározott szerv az iratok állagának védelme tekintetében, valamint adatvédelmi és adatbiztonsági szempontból megfelelő irattárral és elégséges irattári kapacitással rendelkezik,
 
@@ -34,4 +34,4 @@ bg) az európai uniós támogatásokkal és a pályázatkezelési feladatokat t�
 
 (5) A 3. mellékletben meghatározott szerv a központi szolgáltató számára kizárólag az előre tervezett és a miniszter által jóváhagyott mennyiségű iratot adhatja át.
 
-[^160]: A 63/B. §-t a 269/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^161]: A 63/B. §-t a 269/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
