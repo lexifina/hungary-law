@@ -206,7 +206,7 @@
 
 | 42 | KÖFOP-1.0.0-VEKOP- 15-2019-00057 | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság vagy az általa vezetett konzorcium | Az informatikai beszerzések központosítását támogató rendszer továbbfejlesztése | 42.1. Integrált DKÜ Portál Rendszer |
 
-3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^6]
+3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^13]
 
 A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban működő egyéb központi és szakrendszerek
 
@@ -326,6 +326,6 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 56. | Hatósági Házi Karantén Rendszer | szakrendszer |
 
-| 57. | Kórházi Központi Integrált Gazdálkodási Rendszer | szakrendszer |
+| 57. | Központi Kórházi Integrált Gazdálkodási Rendszer | szakrendszer |
 
-[^6]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 119. § c) pontja szerint módosított szöveg.

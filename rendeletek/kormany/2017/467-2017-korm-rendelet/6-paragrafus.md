@@ -8,8 +8,8 @@ c) olyan új rendszert fejleszt, amely infrastruktúrabővítéssel jár, vagy
 
 d) a 7. § (1) bekezdésében meghatározott sürgősségi esetekben veszi igénybe a szolgáltatást.
 
-(2)[^2] Az (1) bekezdésben foglalt vizsgálatot az érintett szervezet az ok felmerülésével egy időben, haladéktalanul kezdeményezi. Ha a vizsgálat eredményeként az 1. mellékletben foglalt adatközponti szolgáltatásokkal a szervezet által fenntartott rendszer vagy rendszerek működése biztosítható, a miniszter KÖFOP projekt esetében a 2. melléklet, egyéb szakrendszer esetében a 3. melléklet módosítását kezdeményezi.
+(2)[^7] Az (1) bekezdésben foglalt vizsgálatot az érintett szervezet az ok felmerülésével egy időben, haladéktalanul kezdeményezi. Ha a vizsgálat eredményeként az 1. mellékletben foglalt adatközponti szolgáltatásokkal a szervezet által fenntartott rendszer vagy rendszerek működése biztosítható, a miniszter KÖFOP projekt esetében a 2. melléklet, egyéb szakrendszer esetében a 3. melléklet módosítását kezdeményezi.
 
 (3) A (2) bekezdés szerinti esetben az érintett szervezet a miniszternél kezdeményezi – a központi szolgáltatóval előzetesen egyeztetett, az éves üzemeltetési költség összegével megegyező forrás átcsoportosításáról szóló előirányzat-átcsoportosítási megállapodás tervezetének megküldésével –, hogy legkésőbb a tárgyévet követő év első napjától az általa igénybe vett adatközponti szolgáltatásokat a 10. § (2) bekezdésében foglalt közszolgáltatási szerződés alapján biztosítsa a központi szolgáltató.
 
-[^2]: A 6. § (2) bekezdése a 112/2018. (VI. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 6. § (2) bekezdése a 112/2018. (VI. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

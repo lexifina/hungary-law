@@ -1,187 +1,122 @@
-## 15–16. §[^4]
+## 15–16. §[^10]
 
-1. melléklet a 467/2017. (XII. 28.) Korm. rendelethez
+1. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^11]
 
 1. KAK Hoszting szolgáltatás
 
-A szolgáltatás keretében a központi szolgáltató a Kormányzati Adatközpontban zárt, folyamatos felügyelet alatt működő géptermi környezetben nyújtott területhasználati vagy technológiai betelepülési lehetőséget biztosít. A szolgáltatás célja, hogy lehetőséget biztosítson a felhasználók számára saját informatikai eszközök elhelyezésére a szolgáltató által működtetett géptermekben. A központi szolgáltató a Kormányzati Adatközpontot a TIER-3-as követelményeknek megfelelően alakítja ki, amely által nagybiztonságú fizikai és műszaki üzemeltetési környezetet biztosít a kijelölt eszközök számára.
+A szolgáltatás keretében a központi szolgáltató a Kormányzati Adatközpontban zárt, folyamatos felügyelet alatt működő géptermi környezetben nyújtott területhasználati vagy technológiai betelepülési lehetőséget biztosít. A szolgáltatás célja, hogy lehetőséget biztosítson a felhasználók számára saját informatikai eszközök elhelyezésére a szolgáltató által működtetett géptermekben. A központi szolgáltató a Kormányzati Adatközpontot úgy alakítja ki, hogy általa nagybiztonságú fizikai és műszaki üzemeltetési környezetet biztosítson a kijelölt eszközök számára.
 
-2. KAK Felhő szolgáltatások
+2. KAK Virtuális adatközpont szolgáltatás
 
-A KAK Felhő egy informatikai felhő, mely az alábbi szolgáltatásokat nyújtja:
+A KAK – Virtuális adatközpont szolgáltatás keretében erőforráskvóták kerülnek definiálásra. Az erőforráslimiteken (erőforráskvótákon) belül tetszőlegesen hozhatók létre az erőforráskvótákat felhasználó alszolgáltatások és kiegészítő szolgáltatások.
 
-2.1 Infrastruktúra szintű ellátási szolgáltatások (IaaS)
+2.1. Alszolgáltatások
 
-3. Virtuális szerver szolgáltatás
+Alszolgáltatásnak nevezzük azon szolgáltatásokat, amelyeken keresztül a KAK Virtuális adatközpont erőforrásai igénybe vehetők. Az alszolgáltatások részletes leírását a központi szolgáltató ellátási szolgáltatáskatalógusa tartalmazza.
 
-A virtuális szerver szolgáltatás keretében definiálásra kerül egy virtuális gép (szoftveresen szimulált számítógép), a gépekhez tartozó minimum és maximum értékek közötti paraméterekkel együtt. A gépek különböző zárt virtuális hálózati szegmensekbe szervezhetők, melyek között az adatáramlást – tűzfalon keresztül – szabályok alapján lehet korlátozni. A virtuális szerverre telepítendő operációs rendszerekről, alkalmazásokról és ezeknek forrásairól, licenceiről a felhasználónak szükséges gondoskodnia. Erőforrások későbbi módosítása technológiailag megvalósítható szerződésmódosítás és előzetes jóváhagyást követően. A könnyebb telepíthetőség és biztonsági előírásoknak való megfelelés, valamint a hatékonyabb üzemeltetés érdekében a központi szolgáltató által biztosított képfájlokat, template-eket biztosít a telepítéshez.
+2.1.1. KAK – Virtuális szerver alszolgáltatás
 
-4. Virtuális adatközpont szolgáltatás
+A Szolgáltató az Adatközponti szolgáltatásban kötelezően igénybe veendő alszolgáltatás keretében biztosítja a Felhasználói számára a KAK Felhő erőforrásait IaaS szolgáltatási formában.
 
-A virtuális adatközpont szolgáltatás keretében definiálásra kerülnek erőforrás limitek, amiken belül tetszőlegesen létrehozható egy vagy több virtuális gép a felhasználó számára. A gépek különböző zárt virtuális hálózati szegmensekbe szervezhetők, melyek között az adatáramlást – tűzfalon keresztül – szabályok alapján lehet korlátozni. Az előre definiált limitek határáig lehetőség van az erőforrások dinamikus használatára.
+A gépek különböző zárt, virtuális hálózati szegmensekbe (VLAN) szervezhetők, melyek között az adatáramlást – tűzfalon keresztül – szabályok alapján lehet engedélyezni. A létrejövő architektúrán üzembe állítható a Felhasználó számára a saját infrastruktúrája.
 
-5. Docker konténer szolgáltatás
+2.1.2. KAK – Konténer alszolgáltatás
 
-A virtuális szerver szolgáltatáshoz hasonló szolgáltatás, mely esetben a szolgáltatások esetenként kedvezőbb licenc konstrukcióban érhetők el. Docker konténer esetében a központi szolgáltató üzemeltetése csak a Docker konténeren végez műveleteket (például konténer indítása vagy leállítása), a konténeren belül nem, ezért a konténeren belül használt technológiára nincs megkötés, de a központi szolgáltató üzemeltetése segítséget nem nyújt a konténeren belüli hibák elhárításához. A Docker konténer állapotmentes, így mentésre nincs szükség. Alternatívaként tárhely alapú kiegészítő szolgáltatásokra lehet felhasználói paraméterezéssel mentéseket elhelyezni.
+A szolgáltatás az iparágban szabványos konténer futtatását biztosítja egy vezérlési és skálázási réteg segítségével. Ez a réteg lehetővé teszi a konténerek automatizált üzembe helyezését, szükség esetén egy előző verzióra történő visszaállítását, terheléselosztót biztosít a konténerek elé, valamint figyeli a konténerek állapotát, és ha hibát észlel, újraindítja azokat.
 
-5.1 Adatbázis kiszolgáló szolgáltatások (DBaaS)
+A központi szolgáltató üzemeltetése nem végez műveleteket a konténeren belül, ezért a konténeren belül használt technológiára nincs megkötés. Azonban a különböző, nem konténerizálható szolgáltatásokat (például az adatok perzisztens tárolása NAS-eszközön vagy SQL-adatbázisban) a sztenderd KAK alszolgáltatások és kiegészítő szolgáltatások közül kell igénybe venni.
 
-DBaaS szolgáltatást infrastruktúra tervezési és biztonságtechnikai okokból a központi szolgáltató kizárólag kiegészítő szolgáltatásként biztosít. Ennek megfelelően a szolgáltatások leírásai a „22. Adatbázis kiszolgáló szolgáltatás (DBaaS)” pontnál találhatóak.
+2.1.3. KAK – Alkalmazáskiszolgáló alszolgáltatás
 
-5.2 Platform szintű ellátási szolgáltatások (PaaS)
+Az alszolgáltatás keretében a Szolgáltató Alkalmazáskiszolgáló szolgáltatás keretében biztosítja a Felhasználó számára a KAK Felhő erőforrásait PaaS szolgáltatási formában.
 
-A PaaS szolgáltatás olyan szoftver-keretrendszert futtató környezetet biztosít, amely alkalmazásokat képes futtatni. A szolgáltatás igénybevételével előre definiált alkalmazás sablon alapú alkalmazás-kiszolgálót lehet igénybe venni virtuális gép alapon. Az alkalmazás szerver felhasználói elhatárolása az IaaS-hoz hasonlóan virtuális szerver és virtuális hálózati szinten valósul meg. A szolgáltatás erőforrásainak paraméterei, a virtuális géphez hasonlóan választható ki.
+Szolgáltatás keretében komplex konténerszolgáltatásként gyártói támogatással rendelkező konténerkezelő környezet elhelyezését biztosítja a központi szolgáltató. Ez azt jelenti, hogy biztosítja a virtuális futtatókörnyezethez az olyan, alkalmazásprogramozási felület (API) szintű hozzáférést a konténerkezelő környezet számára, amely lehetővé teszi konténereket futtató virtuális gépek (az úgynevezett worker node-ok) automatikus fel- vagy leskálázását konténerkezelő platform oldalról. A Szolgáltató licenceket konténerkezelő platform futtatásához nem biztosít.
 
-A PaaS szintű szolgáltatások esetén általánosan elmondható, hogy a központi szolgáltató által biztosított szintig az üzemeltetést a központi szolgáltató végzi. Ez azt is jelenti többek között, hogy a központi szolgáltató rendszeres, előre bejelentett, tervezhető időközönként telepíti a javítócsomagokat (patch) először a fejlesztői, teszt, oktatói környezetekben, majd az éles környezetben is. A központi szolgáltató csak egy stabil verziójú szoftver kiadást üzemeltet a platform szolgáltatásokban.
+2.1.4. KAK – Levelezés, csoportmunka alszolgáltatás
 
-Szolgáltatás keretében Java (JVM), .NET kiszolgáló, Python kiszolgáló és PHP kiszolgáló környezeteket biztosítja a központi szolgáltató.
+A központi szolgáltató olcsó, könnyen skálázható, modern, webalapú levelező és csoportmunka alszolgáltatást biztosít, amely megfelelően támogatja a felhasználókezelést. Az alszolgáltatás célja, hogy teljeskörűen kiváltsa az ingyenes, illetve publikus levelezési szolgáltatások kormányzati célú felhasználását.
 
-5.3 SaaS szintű ellátási szolgáltatások
+2.1.5. KAK – Dokumentumkezelő rendszer alszolgáltatás
 
-Szoftver szintű szolgáltatások esetében a szolgáltatást biztosító alkalmazás, illetve az alatta levő operációs rendszer rendszeres frissítéséről és mentéséről központi szolgáltató gondoskodik. A mentés visszaállítást külön Service Desk jegyben lehet kérni.
+A központi szolgáltató olcsó, könnyen skálázható, modern, webalapú dokumentumkezelő alszolgáltatást biztosít, amely keretében minden felhasználó számára külön alkalmazáskörnyezet kerül kialakításra virtuális infrastruktúra szinten. Az alszolgáltatást biztosító szabad szoftveres alkalmazáshoz adminisztrátor jogosultságot kap a tenant adminisztrátor, azonban a dokumentumkezelő alkalmazás alatt levő operációs rendszerben és adatbázis-kezelőben nem kap jogosultságokat. Az alszolgáltatás beépítetten tartalmaz vírusvédelmi szolgáltatást.
 
-6. Levelezés, csoportmunka szolgáltatás
+2.1.6. KAK – Tartalomkezelő rendszer alszolgáltatás
 
-A központi szolgáltató olcsó, könnyen skálázható, modern, web alapú levelező- és csoportmunka szolgáltatást biztosít, amely megfelelően támogatja a felhasználókezelést. A szolgáltatásként történő igénybevétel és a gyors bevezetés különösen újonnan alakuló, vagy elavult rendszert használó szervezetek számára lehet előnyös. A szolgáltatás célja, hogy teljeskörűen kiváltsa az ingyenes, illetve publikus levelezési szolgáltatások kormányzati célú felhasználását.
+A Szolgáltató Tartalomkezelő rendszer szolgáltatás keretében biztosítja a Felhasználó számára a KAK Felhő erőforrásait SaaS szolgáltatási formában. Az alszolgáltatás keretében a Szolgáltató külön VM-en települő tartalomkezelő alkalmazás szolgáltatást nyújt.
 
-7. Dokumentumkezelő szolgáltatás
+2.1.7. KAK – E-Learning rendszer alszolgáltatás
 
-A központi szolgáltató olcsó, könnyen skálázható, modern, web alapú dokumentumkezelő szolgáltatást biztosít, amely keretében minden felhasználó számára külön alkalmazás környezet kerül kialakításra virtuális infrastruktúra szinten. A szolgáltatást biztosító szabad szoftveres alkalmazáshoz adminisztrátor jogosultságot kap a tenant adminisztrátor, azonban a dokumentumkezelő alkalmazás alatt levő operációs rendszerben és adatbázis kezelőben nem kap jogosultságokat. A szolgáltatás beépítetten tartalmaz vírusvédelmi szolgáltatást.
+Az alszolgáltatás célja egy közös kormányzati platform kialakítása, amely használata hatékonnyá és követhetővé teszi a belső képzések lebonyolítását. E-Learning alszolgáltatásként a központi szolgáltató nyílt forráskódú platformot szolgáltat. Minden felhasználó külön szeparált környezetet vagy környezeteket kap.
 
-8. Tartalomkezelő szolgáltatás
+2.1.8. KAK – Naplógyűjtő rendszer alszolgáltatás
 
-A szolgáltatás keretében a központi szolgáltató Drupal alapú tartalomkezelőt szolgáltat. A tenant kezelést nem a Drupalon belül kerül megoldásra, hanem minden tenant külön szeparált Drupal környezetet vagy környezeteket kap. A Drupal adminisztrátor jogosultságot megkapja a tenant adminisztrátor, a Drupal alatt levő operációs rendszerben, illetve adatbázis kezelőben viszont nem kap jogosultságokat. A Drupal szolgáltatás ClamAV vírusvédelmi megoldást tartalmaz beépítetten.
+Az alszolgáltatás keretében a Szolgáltató külön VM-en települő naplóállomány-gyűjtő alkalmazás szolgáltatást nyújt Felhasználói számára a Felhasználó saját környezetében. Az alkalmazás szeparációja VM és hálózati (VLAN) szinten valósul meg. Az alszolgáltatás által lefoglalt erőforrások a KAK – Virtuális Adatközpont szolgáltatás kvótáiból kerül felhasználásra.
 
-9. E-Learning szolgáltatás
+2.2. Kiegészítő szolgáltatások
 
-A Szolgáltatás célja egy közös kormányzati platform kialakítása, amely használata hatékonnyá és követhetővé teszi a belső képzések lebonyolítását. E-Learning szolgáltatásként a központi szolgáltató a Moodle nyílt forráskódú platformot szolgáltatja. Minden felhasználó külön szeparált Moodle környezetet vagy környezeteket kap. A Moodle adminisztrátor jogosultságot megkapja a tenant adminisztrátor, a Moodle alatt levő operációs rendszerben, illetve adatbázis kezelőben viszont nem kap jogosultságokat. A Moodle szolgáltatás ClamAV vírusvédelmi megoldást tartalmaz.
+Kiegészítő szolgáltatásnak nevezzük azon szolgáltatásokat, amelyek önállóan nem, csak valamely ellátási szolgáltatás vagy alszolgáltatás kiegészítéseként lehet igénybe venni. Az ellátási szolgáltatások mellé igényelhető kiegészítő szolgáltatások részletes leírását a központi szolgáltató ellátási szolgáltatáskatalógusa tartalmazza.
 
-9.1 Kiegészítő szolgáltatások
+2.2.1. KAK – Tárterület – Blokk alapú kiegészítő szolgáltatás
 
-Kiegészítő szolgáltatásnak nevezzük azon szolgáltatásokat, amelyek önállóan nem, csak valamely ellátási szolgáltatás kiegészítéseként lehet igénybe venni. Az ellátási szolgáltatások mellé igényelhető kiegészítő szolgáltatásokat a központi szolgáltató ellátási szolgáltatáskatalógusa tartalmazza.
+A Szolgáltató a Tárterület – Blokk alapú kiegészítő szolgáltatás keretében additívdiszk-erőforrásokat biztosít a Felhasználó számára a KAK Felhőből, kiegészítő szolgáltatás formájában a KAK – Virtuális Adatközpont szolgáltatásban meghatározott felső korlát erejéig. Block device tárhelyszolgáltatás keretében további diszk erőforrások adhatók meglevő virtuális gépekhez. Az addicionális tárterület bekonfigurálása, csatolása, illetve fájlrendszer létrehozása az operációs rendszer szintet üzemeltető feladata (IaaS szolgáltatás esetén a Felhasználó feladata).
 
-10. Adatközponti alap szoftver infrastruktúra szolgáltatások
+2.2.2. KAK – Tárterület – NAS alapú kiegészítő szolgáltatás
 
-Az adatközpontokban szokásos szoftver infrastruktúra elemek szolgáltatásait nyújtja a kialakított megoldás:
+A Szolgáltató a Tárterület – NAS alapú kiegészítő szolgáltatás keretében hálózati tárhelyet biztosít a Felhasználó számára a KAK Felhőből a KAK Felhő – Virtuális Adatközpont szolgáltatásban meghatározott felső korlát erejéig. A KAK Felhőbe települő alkalmazások számára gyakran szükséges közös, hálózati tárhely. A hálózati tárhelyet Szolgáltató CIFS és NFS alapú tárhely alapján központi NAS (Network Attached Storage) segítségével biztosítja.
 
-– SMTP szolgáltatás belső- vagy Internet felé küldendő levelezéshez,
+2.2.3. KAK – Tárterület – Objektumtár alapú kiegészítő szolgáltatás
 
-– NTP szolgáltatás,
+A Szolgáltató a Tárterület – Objektumtár alapú kiegészítő szolgáltatás keretében – objektumalapú adattárolást biztosít a Felhasználó számára a KAK Felhőből a KAK – Virtuális Adatközpont szolgáltatásban meghatározott felső korlát erejéig. A Felhő által biztosított OpenStack Object Storage (SWIFT) egy magas rendelkezésre állású, elosztott, konzisztens object/blob tároló. Az objektumok létrehozása, módosítása és kivétele Object Storage API-n keresztül történik, ami Representational State Transfer (REST) webszervizekként került implementálásra. Az objektumok dedikált konténerben kerülnek elhelyezésre.
 
-– DNS szolgáltatás.
+2.2.4. KAK – Mentés-visszaállítás kiegészítő szolgáltatás
 
-11. Több privát IP cím
+A Szolgáltató a Mentés-visszaállítás kiegészítő szolgáltatás keretében agent és image alapú mentést és mentés-visszaállítást biztosít Felhasználó számára. A KAK Felhő által biztosított felhő alapú működési környezetben beállítható mentés mind komplett virtuális gép (image szintű mentés), mind agent alapú mentés formájában. A mentés DDT (disc-to-disc-to-tape) formában kerül megvalósításra. A mentéseknek a VTL-ről a tape library-ba való ütemezését Szolgáltató végzi.
 
-Amennyiben valamelyik szolgáltatás szükségessé teszi több privát IP cím felvételét, úgy a virtuális gépeknek automatikusan kiosztott IP címek mellé a VLAN méretéig további IP címek foglalhatóak.
+2.2.5. KAK – Archiválás kiegészítő szolgáltatás
 
-12. Fix publikus IP cím
+Törvényességi vagy egyéb funkcionális szempontoknak megfelelően szükség lehet teljes szolgáltatások vagy akár a komplex alkalmazási rendszerek és kapcsolódó adatbázisok együttes állapotának hosszú távú, konzisztens és bizalmas megőrzésére. A Felhasználók számára a felhő ezt a típusú/szintű archiválást az előző alfejezetben részletezett mentés analógiájára, teljes konfigurációk (adatbázis és alkalmazási platformok), adatbázisok vagy egyéb tárterületek teljes körű mentésének hosszú távú megőrzésével biztosítja.
 
-A kiegészítő szolgáltatás keretében fix külső, publikus IP cím szolgáltatás rendelhető korlátozott mennyiségben. A nyilvános IP címekkel történő gazdálkodást és a címek Felhasználó részére történő kiosztását a központi szolgáltató végzi. Maga a publikus IP cím a felhő esetén a perimeter eszközön lesz beállítva, mint ami a szolgáltatást publikálja. A hosting környezet esetében az ügyfél valamelyik eszközén (legtöbb esetben tűzfalán) történik a beállítás.
+2.2.6. KAK – Nagyvállalati szintű relációs adatbázis-kezelő, zárt forráskódú adatbázis kiszolgáló szolgáltatás
 
-13. Tárhely szolgáltatás [IaaS (block device) alapú kiegészítő szolgáltatás]
+A Szolgáltató a kiegészítő szolgáltatás keretében biztosítja a Felhasználó számára a KAK Felhő erőforrásait. A kiegészítő szolgáltatás futtatásához szükséges számítási erőforrásokat a Szolgáltató egy dedikált virtuális erőforrás pool-ból vagy fizikai gépeken szolgáltatja. Az erőforrás pool-ban a számítási kapacitást rack szerverek, a tárolási kapacitást pedig a központi tároló által kerülnek biztosításra. A Felhasználók adatbázisainak futtatásához virtuális gépek kerülnek létrehozásra a két telephelyen. A szolgáltatás szintű, magas rendelkezésre állást és a katasztrófatűrő megoldást is a telephelyek között átnyúló fürtözési technológia adja.
 
-Block device tárhely szolgáltatás keretében további diszk volume-ok (például vmware alatt vmdk-k) adhatók meglevő virtuális gépekhez. A tárterület bekonfigurálása, csatolása, illetve fájlrendszer létrehozás a tárterület felett annak a feladata, aki az operációs rendszer szintet üzemelteti. Azaz IaaS szolgáltatásnál a felhasználó feladata, magasabb szintű szolgáltatásnál a központi szolgáltató feladata.
+2.2.7. KAK – Nyílt forráskódú relációs SQL adatbázis kezelő szolgáltatás
 
-Technikai okok miatt egy diszk volume mérete korlátozott. A korlátnál nagyobb méret esetén több volume-ot kell igényelni, és azokat (guest) operációs rendszer szinten kell összefogni.
+A Szolgáltató SQL adatbázisszolgáltatás (MariaDB, PostgreSQL) keretében biztosítja a Felhasználó számára a KAK Felhő erőforrásait PaaS/DBaaS jellegű szolgáltatási formában. A szolgáltatás által lefoglalt erőforrások a KAK – Virtuális Adatközpont szolgáltatás kvótáiból kerül felhasználásra. Az alszolgáltatás keretében a Szolgáltató külön VM-ken MariaDB és PostgreSQL alapú image-eket biztosít, amelyeken adatbázis-szolgáltatást nyújt a Felhasználó számára.
 
-14. Objektumtár szolgáltatás (IaaS alapú kiegészítő szolgáltatás)
+A szerver virtualizáció a szeparációt és a magas rendelkezésre állást is fizikai szinten biztosítja. A magas rendelkezésre állást, a horizontális skálázást és a hibatűrést (katasztrófaelhárítást) a platform szinten elérhető Multi-Master replikáció valósítja meg. Minden Felhasználói szolgáltatás esetén több példány alkalmazható a horizontális skálázás biztosítására, illetve a telephelyek közötti replikációval a katasztrófa jellegű meghibásodások kezelésére.
 
-A felhő által biztosított OpenStack Object Storage (SWIFT) egy magas rendelkezésre állású, elosztott, konzisztens object, illetve blob tároló. Az objektumok létrehozása, módosítása és kivétele Object Storage API-n keresztül történik, ami Representational State Transfer (REST) web szervizekként került implementálásra.
+2.2.8. KAK – Nyílt forráskódú nem relációs adatbázis kezelő szolgáltatás
 
-15. Fájlkiszolgáló (NAS) (IaaS alapú kiegészítő szolgáltatás)
+A nem relációs adatbáziskezelő a webes alkalmazások jelentős mennyiségű párhuzamos feldolgozási igényeinek kiszolgálását, a gyorsító tárak hatékonyabb és az adatstruktúrák rugalmasabb kezelését, valamint azok jobb skálázási lehetőségeit biztosító adatbázis platform szolgáltatás. Az adatbázis belső tárolási struktúrája kulcs-érték párok és dokumentumok tárolására, illetve kezelésére optimalizált. A Szolgáltató NoSQL adatbázis (MongoDB) alszolgáltatás keretében biztosítja a Felhasználó számára a KAK Felhő erőforrásait PaaS/DBaaS jellegű szolgáltatási formában. A szolgáltatás által lefoglalt erőforrások a KAK – Virtuális Adatközpont szolgáltatás kvótáiból kerül felhasználásra. A külön VM-eken települő MongoDB alapú adatbázis szolgáltatást nyújt a Felhasználói számára. A szerver virtualizáció a szeparációt infrastruktúra szinten, és a magas rendelkezésre állást is alapszinten biztosítja. A magas rendelkezésre állást és katasztrófatűrést a platform szinten elérhető replikációs megoldás támogatja.
 
-A KAK Felhőbe települő alkalmazások számára gyakran szükséges közös hálózati tárhely. A preferált megoldás ilyenkor az előző pontban említett objektumtár használata, de szükség esetén CIFS és NFSv4 alapú tárhelyet központi NAS (Network Attached Storage) segítségével tudják biztosítani.
+2.2.9. KAK – Perimeter kiegészítő szolgáltatás
 
-NAS storage-ból technikai korlátok miatt tenantonként egy darab NFSv4 és egy darab CIFS vehető igénybe.
+A Szolgáltató a Perimeter kiegészítő szolgáltatás keretében tűzfal, webalkalmazás-tűzfal, SSL-terminálás, terheléselosztás funkciót biztosít.
 
-16. Terheléselosztás
+2.2.9.1. Webalkalmazás-tűzfal (WAF)
 
-A szolgáltatás nagyteljesítményű hardveres terheléselosztást biztosít a felhő határát képező perimeter eszköz segítségével L4 vagy L7 szinten.
+A perimeter eszköz beépítve tartalmazza az elterjedtebb, általános, webalapú támadások, például XSS, SQL-Injection elleni védelmet.
 
-17. SSL terminálás, kliens oldali tanúsítvány kezelés
+2.2.9.2. Tűzfal funkciók
 
-A KAK Felhőn belül az adatok alapesetben titkosítás nélkül kerülnek továbbításra. Az SSL terminálást, azaz az SSL kapcsolatok (mint például a HTTPS kapcsolatok) esetén a komoly számítási kapacitást igénylő titkosítási folyamat központi kezelését a felhő határát képező perimeter eszköz biztosítja, így az alkalmazás szerverek felé már csak a titkosítás nélküli forgalom kerül elküldésre.
+A perimeter eszközön ezzel a funkcionalitással lehetséges szabályozni a Felhasználó VLAN-jai és a különböző zónák (a felhőben levő egyéb VLAN-ok, NTG, Internet, hostingban levő szerverek) közötti adatáramlást.
 
-Ennek a szolgáltatásnak egy alesete, amikor a felépített SSL csatornán a kliens (a kezdeményező) is SSL tanúsítvánnyal azonosítja magát annak bizonyítása érdekében, hogy jogosult igénybe venni a szolgáltatást. A kliens lehet, egy Internet felől érkező ügyfél, de lehet egy szolgáltatást igénybe vevő alkalmazás szerver is. Ilyen esetben megadható, hogy az SSL terminálást végző eszköz ellenőrizze, hogy
+2.2.9.3. Terheléselosztás
 
-– a kapott kliens oldali tanúsítvány érvényes-e (nem járt le, nem vonták vissza),
+A szolgáltatás nagy teljesítményű hardveres terheléselosztást biztosít a felhő határát képező perimeter eszköz segítségével.
 
-– az előre beállított aláíró tanúsítvánnyal írták-e alá.
+2.2.9.4. SSL terminálás, kliens oldali tanúsítványkezelés
 
-Lehetséges olyan megoldás, amikor az alkalmazás titkosított adatfolyamát nem a perimeter eszköz terminálja, hanem csak átengedi L4 szinten és a titkosítást az alkalmazás oldja fel. Az ilyen esetekben azonban – lévén az alkalmazás VLAN-jában nem csak titkosítatlan adatok forgalmazása történik – a kötelező NKI EWS (Early Warning System – korai riasztási rendszer)-hez való csatlakozás a tenant felhasználójának a feladata, egyéb esetekben ezt a KAK Felhő megoldja.
+A központi szolgáltató a 186/2015. kormányrendelet alapján biztosítja az SSL terminálást.
 
-18. Naplózási szolgáltatás
+Ebben az esetben az ügyfélnek adatkezelési megállapodást kell kötnie a Szolgáltatóval. Az adatkezelés részeként az ügyfél a Szolgáltató részére átadja az SSL/TLS-bontáshoz a tanúsítványhoz tartozó privát kulcsot, amit a Szolgáltató kizárólagosan a titkosítás feloldásához használ fel. A Szolgáltató által biztosított eszközön történő, titkosított kapcsolat terminálása és felépítése a bérlő részére nem jelent járulékos feladatot. A tanúsítvánnyal kapcsolatos adminisztratív teendők: lejárat figyelése, megújítás, visszavonás az ügyfél felelőssége és feladata.
 
-A központi szolgáltató a szolgáltatási katalógusban szereplő IaaS, PaaS és SaaS szinteken maga végzi a napló állományok gyűjtését és elemzését.
+Az SSL/TLS terminálásával szerverek felé a KAK belső hálózatán már csak a titkosítás nélküli forgalom kerül elküldésre.
 
-Az előző pontban nem meghatározott napló állományok felett létrejött naplók kezelésére a Felhasználó kiegészítő szolgáltatásként igénybe vehet naplógyűjtő szolgáltatást a szolgáltatási katalógusban meghatározott feltételek szerint.
+2.2.10. KAK – Fix publikus IP-cím kiegészítő szolgáltatás
 
-Naplóállományok hozzáférhetősége:
+A Szolgáltató a Fix publikus IP-cím kiegészítő szolgáltatás keretében fix, publikus IP-címet biztosít a Felhasználó számára a KAK – Virtuális Adatközpont szolgáltatásban meghatározott felső korlát erejéig. A kiegészítő szolgáltatás keretében a Szolgáltató fix, publikus IP-címet biztosít a Felhasználó számára, a rendelkezésére álló IP-címtartományából. Ez az IP-cím jellemzően a határvédelmi (perimeter) eszközön lesz beállítva, és azt biztosítja, hogy a Felhasználó által kialakított szolgáltatások az Internet felől is elérhetőek legyenek.
 
-Az igénybe vett kiegészítő szolgáltatáshoz a központi szolgáltató 30 napos hozzáférhetőséget biztosít a Felhasználó számára.
-
-– A központi szolgáltató a Felhasználó számára a napló állományokhoz való hozzáférést kizárólag olvasási jogosultsággal biztosítja.
-
-– A központi szolgáltató rögzíti a Felhasználó által a napló állományokhoz való hozzáférés módját, idejét és tevékenységét.
-
-IaaS, PaaS és SaaS szinten keletkezett napló állományok kiadását csak hatósági megkeresés alapján biztosítja a központi szolgáltató. Felhasználók számára a hozzáférhetőség nem biztosított.
-
-Megszűnő szolgáltatások esetén a Felhasználó bérleményében tárolt naplóállományok megsemmisítésre kerülnek.
-
-19. Webalkalmazás-tűzfal (WAF)
-
-A KAK Felhő határát képező perimeter eszköz beépítve tartalmazza az elterjedtebb általános web-alapú támadások elleni védelmet.
-
-20. Mentés szolgáltatás
-
-A KAK Felhő által biztosított felhő alapú működési környezetben Ellátási szolgáltatásonként külön-külön módon definiált formában beállítható mentés mind komplett virtuális gép (image szintű mentés), illetve agent alapú mentés formájában. A mentés DDT (disc-to-disc-to-tape: lemezről – lemezre – majd szalagra) formában kerül megvalósításra. A mentéseknek a VTL (Virtual Disk Library – virtuális lemezkötet) – ről a szalagos kötetre kerülésének ütemezését a központi szolgáltató végzi.
-
-21. Archiválás szolgáltatás
-
-Két típusú archiválási funkciót kínál a KAK Felhő:
-
-– egy-egy kiválasztott mentés hosszú távú megőrzését, és
-
-– API-t ahhoz, hogy az alkalmazások megvalósítsák saját archiválási funkciójukat.
-
-A második esetben az alkalmazásnak magának kell gondoskodnia arról, hogy képes legyen az adatok egy körében csak a metaadatokat, illetve kumulált értékeket élő adatbázisban tartani és a valós, ritkán használt adatokat a biztosított API-n keresztül lassabb elérésű tárolóra írni. Amennyiben hivatkozás történik ezekre az adatokra, szintén a biztosított API-n keresztül lehet visszaolvasni. A szolgáltatás csak az archiválás technikai feltételeit biztosítja, az archiválás egyéb funkcióit az alkalmazói rendszernek kell biztosítania.
-
-22. Adatbázis kiszolgáló szolgáltatás (DBaaS)
-
-A DBaaS szintű kiegészítő szolgáltatások esetén általánosan elmondható, hogy a központi szolgáltató által biztosított szintig az üzemeltetést a központi szolgáltató végzi. Ez azt jelenti, hogy a központi szolgáltató rendszeres, előre bejelentett, tervezhető időközönként telepíti a javítócsomagokat (patch) először a fejlesztői, teszt, oktatói környezetekben, majd az éles környezetben is. Központi szolgáltató csak egy stabil verziójú szoftver kiadást üzemeltet a platform szolgáltatásokban.
-
-Mivel az adatbázis szolgáltatás kiegészítő szolgáltatás,
-
-– szükséges egy olyan ellátási szolgáltatás elem megléte, amelyik igénybe veszi majd az adatbázis szolgáltatásait;
-
-– felhőn kívülre nem szolgáltatjuk.
-
-22.1.1.1 Zárt forráskódú Adatbázis kiszolgáló szolgáltatások
-
-a) A nagy tárolási és feldolgozási igényű, online tranzakció-feldolgozó adatbázis alkalmazásokhoz adattároló és – kezelő fürt van kialakítva. A két telephelyen azonos méretű hardvereken, redundáns fürtök adják a fizikai erőforrásokat. A szolgáltatás szintű magas rendelkezésre állást az adatbázis kiszolgálókon futó klaszter, míg a két telephely közötti adattárolási redundanciát a központi szolgáltató IP feletti aszinkronszinkron replikációval biztosítja.
-
-Szolgáltatás keretében a központi szolgáltató biztosít izolációs megoldást. Minden olyan beállítást, ami ez alatt a szint alatt van (például adatbázisok létrehozása) a tenant felhasználójának a saját adminisztrációs eszközét használva kell beállítania a szükséges jogosultságokkal.
-
-b) Nagyvállalati szintű relációs adatbázis kezelő platform szolgáltatás a felhasználói alkalmazások on-line tranzakciós igényeinek (OLTP) kezelését támogatja, ahol a szolgáltatás műszaki kialakítása a nagy adattárolási és feldolgozási igényű alkalmazások kiszolgálását is biztosítja. A platform szolgáltatás futtatásához szükséges számítási erőforrásokat dedikált szerverek, míg az adatok tárolására szolgáló tárterület a szerverekhez SAN (Storage Area Network) hálózaton keresztül csatolt külső, központi tároló egységek biztosítják.
-
-A szolgáltatás keretében megtörténik az elvárt felhasználói izoláció. Minden olyan beállítást, ami ez alatt a szint alatt van (például adatbázisok létrehozása) a tenant felhasználója a saját adminisztrációs eszközét használva fog beállítani, az adott instance-ra vonatkozó DBA Admin joggal.
-
-22.1.1.2 Nyílt forráskódú Adatbázis kiszolgáló szolgáltatások
-
-a) a központi szolgáltató adatbázis-kezelő rendszer szintű szolgáltatásokat nyílt forráskódú szabad szoftver adatbázis platformszolgáltatások által is biztosít.
-
-Az adatbázis szerver platform felhasználói szolgáltatásonként külön virtuális környezetre települ, így a szerver virtualizáció a szeparációt és a magas rendelkezésre állást is fizikai szinten biztosítja. A magas rendelkezésre állás és katasztrófa elhárítás követelményeit a platform szinten elérhető Multi-Master replikáció támogatja magasabb szinten. Minden felhasználói szolgáltatás esetén – az igényekhez illeszkedően – több szinkron és aszinkron példány alkalmazható oldal irányú skálázás biztosítására, illetve a telephelyek közötti aszinkron replikációval a katasztrófa jellegű meghibásodások kezelésére.
-
-b) A nem relációs adatbázis kezelő a webes alkalmazások jelentős mennyiségű párhuzamos feldolgozási igényeinek kiszolgálását, a gyorsító tárak hatékonyabb és az adatstruktúrák rugalmasabb kezelését, valamint azok jobb skálázási lehetőségeit biztosító adatbázis platform szolgáltatás. Az adatbázis belső tárolási struktúrája kulcs-érték párok és dokumentumok tárolására, illetve kezelésére optimalizált.
-
-3. Adatmegőrzési szolgáltatás
-
-Az adatmegőrzési szolgáltatás keretében a nemzeti adatvagyonba tartozó, továbbá jogszabály által kötelezően megőrzésre kijelölt informatikai alkalmazások, adatok és információk elektronikus formában történő tárolását és megőrzését biztosítja a Kormányzati Adatközpont.
-
-Az állam működése szempontjából létfontosságú adatvagyon védelme, ezek hasonló módon való biztonságos tárolása, kezelése kiemelt fontosságú. Ezen adatok vonatkozásában a különböző rendszerekben tervszerű és jogszabályban előírt módon történő mentési és archiválási feladatokat kell végrehajtani. A lementett állományokat el kell juttatni a redundáns adatközpontokba, mely azt fogadja és megfelelő módon biztonságosan tárolja. Katasztrófa helyzet esetében az adatok biztonságos megőrzéséről gondoskodik és ezen adatok felhasználásával újra építhetővé teszi a különböző informatikai rendszereket az előírt protokollok alapján.
-
-A katasztrófatűrő, nagy megbízhatóságú működési szempontok és az adatok biztonságos archiválásának, valamint mentésének megvalósításához a geo-redundancia elvei figyelembevételével elkülönített, megfelelő védettségű redundáns helyszínen kerülnek elhelyezésre. A feladata a hosszú távú archiválási feladatok ellátása. Az itt kialakított kapacitások legfontosabb célja a biztonsági mentési kapacitások és hosszú idejű archiválási kapacitások biztosítása.
-
-Adatmegőrzési szolgáltatáskeretében kezelt adatokkal kapcsolatban a szakrendszerek végponti felhasználói számára közvetlen adatkiszolgálás nincs, ez a terület a külvilágtól (a kormányzati, vagy a közcélú adatátviteli hálózatoktól) hermetikusan el lesz választva.
-
-[^4]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet az 572/2020. (XII. 9.) Korm. rendelet 118. § (1) bekezdésével megállapított szöveg.

@@ -1,3 +1,5 @@
+## 12. § Felhatalmazást kap a miniszter, hogy a szakminiszterrel egyetértésben az 5. § szerint csatlakozó szerveket, szakrendszereiket, valamint a csatlakozással kapcsolatos finanszírozás módját és a csatlakozók részére nyújtott adatközponti szolgáltatásokat, valamint szolgáltatás megszüntetésének módját rendeletben állapítsa meg.
+
 ## 7. Záró rendelkezések
 
 13. § (1) Ez a rendelet 2018. január 1-jén lép hatályba.
