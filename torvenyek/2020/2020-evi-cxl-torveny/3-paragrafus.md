@@ -1,0 +1,5 @@
+3. § A Kertv. 11/D. §-a helyébe a következő rendelkezés lép:
+
+„11/D. § (1) A kereskedelemről szóló 2005. évi CLXIV. törvény módosításáról szóló 2020. évi CXL. törvény (a továbbiakban: 2020. évi CXL. törvény) hatálybalépését megelőzően tett, a 7/B. §-ba ütköző jognyilatkozatok 2021. augusztus 1-jén hatályukat vesztik. A 2020. évi CXL. törvény hatálybalépését megelőzően tett jognyilatkozatoknak a 2020. évi CXL. törvény hatálybalépését követő módosítása során a 7/B. §-ban foglaltakat alkalmazni kell.
+
+(2) A 2020. évi CXL. törvény hatálybalépésekor a 7/B. § (1) bekezdése szerinti jognyilatkozattal rendelkező italt árusító vendéglátó üzlet a 7/B. § (2) bekezdését 2021. augusztus 1-jétől köteles alkalmazni. A 2020. évi CXL. törvény hatálybalépésekor a 7/B. § (1) bekezdése szerinti jognyilatkozattal nem rendelkező italt árusító vendéglátó üzlet a 7/B. § (2) bekezdését 2021. március 1-jétől köteles alkalmazni.”
