@@ -5,3 +5,7 @@
 (2) Az állandó és az ideiglenes forgalmi engedélyt, a lassú jármű, annak pótkocsija, valamint a négykerekű segédmotoros kerékpár igazolólapját a közlekedési igazgatási hatóság adja ki.
 
 (3) A forgalmi engedély (17. melléklet) érvényesség idejétől függően állandó vagy ideiglenes.
+
+(4)[^303] Az állandó forgalmi engedély határozatlan ideig, az ideiglenes forgalmi engedély a H adatmezőjében feltüntetett időpontig érvényes.
+
+[^303]: A 88. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 37. §-a iktatta be.
