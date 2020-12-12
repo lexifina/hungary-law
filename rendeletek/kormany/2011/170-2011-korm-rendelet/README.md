@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-170-20-
 | 2017-01-01 | 2011-170-20-22.8 | 463/2016. (XII. 23.) Korm. rendelet |
 | 2019-08-24 | 2011-170-20-22.9 | 203/2019. (VIII. 23.) Korm. rendelet |
 | 2020-09-01 | 2011-170-20-22.10 | 37/2020. (III. 5.) Korm. rendelet |
+| 2020-12-12 | 2011-170-20-22.11 | 203/2019. (VIII. 23.) Korm. rendelet |
