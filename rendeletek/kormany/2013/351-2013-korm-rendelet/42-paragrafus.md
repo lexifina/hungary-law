@@ -1,8 +1,8 @@
-42. § (1)[^16] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány kiállításáról – lehetőség szerint rövid úton – értesíti az eltemettetésre kötelezettet, majd a papír alapú halottvizsgálati bizonyítvány egy példányát átadja a holttest eltemettetésére kötelezett személynek vagy annak nevében eljáró temetkezési szolgáltatónak.
+42. § (1)[^18] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány kiállításáról – lehetőség szerint rövid úton – értesíti az eltemettetésre kötelezettet, majd a papír alapú halottvizsgálati bizonyítvány egy példányát átadja a holttest eltemettetésére kötelezett személynek vagy annak nevében eljáró temetkezési szolgáltatónak.
 
-(2)[^17] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak, valamint három példányát a haláleset helye szerint illetékes anyakönyvvezetőnek.
+(2)[^19] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak, valamint három példányát a haláleset helye szerint illetékes anyakönyvvezetőnek.
 
-(3)[^18] A haláleset helye szerint illetékes anyakönyvvezető a haláleset anyakönyvezése és a haláleset anyakönyvezése igazolásának a halottvizsgálati bizonyítványon történő feltüntetése után a halottvizsgálati bizonyítvány egy-egy példányát megküldi a Központi Statisztikai Hivatalnak (a továbbiakban: KSH) és a hagyatéki eljárás lefolytatására
+(3)[^20] A haláleset helye szerint illetékes anyakönyvvezető a haláleset anyakönyvezése és a haláleset anyakönyvezése igazolásának a halottvizsgálati bizonyítványon történő feltüntetése után a halottvizsgálati bizonyítvány egy-egy példányát megküldi a Központi Statisztikai Hivatalnak (a továbbiakban: KSH) és a hagyatéki eljárás lefolytatására
 
 a) az elhunyt utolsó belföldi lakóhelye,
 
@@ -12,11 +12,11 @@ c) az a) és b) pontokban foglaltak hiányában az elhunyt belföldi elhaláloz�
 
 ## szerint illetékes jegyző részére.
 
-(4)[^19] Ha a halál okát megállapító orvos a perinatális halottvizsgálati bizonyítványt halva született magzatról állítja ki, annak egy-egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak és a KSH-nak. Egyéb perinatális halálozás esetén a perinatális halottvizsgálati bizonyítványt a halottvizsgálati bizonyítvánnyal megegyező módon kell továbbítani.
+(4)[^21] Ha a halál okát megállapító orvos a perinatális halottvizsgálati bizonyítványt halva született magzatról állítja ki, annak egy-egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak és a KSH-nak. Egyéb perinatális halálozás esetén a perinatális halottvizsgálati bizonyítványt a halottvizsgálati bizonyítvánnyal megegyező módon kell továbbítani.
 
 (5) A halottvizsgálati bizonyítványt legkésőbb a halálok megállapítása napját követő első munkanapon kell továbbítani.
 
-(6)[^20] Ha
+(6)[^22] Ha
 
 a) nincs az elhunyt eltemettetésére kötelezett személy,
 
@@ -32,8 +32,8 @@ a halál okát megállapító orvos a halottvizsgálati bizonyítványt – az a
 
 (9) A halottvizsgálati bizonyítványt úgy kell továbbítani, hogy az anyakönyvvezető és a jegyző – a (6) és a (7) bekezdésben foglaltak kivételével – az 1. melléklet 25–31. pontjában és a 2. melléklet 24–26. pontjában foglalt adatokat ne ismerhesse meg.
 
-[^16]: A 42. § (1) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
-[^17]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
-[^18]: A 42. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 205. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^19]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
-[^20]: A 42. § (6) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^18]: A 42. § (1) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
+[^19]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
+[^20]: A 42. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 205. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
+[^22]: A 42. § (6) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 49. §-ával megállapított szöveg.
