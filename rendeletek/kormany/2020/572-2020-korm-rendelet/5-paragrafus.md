@@ -1,0 +1,3 @@
+## 4. §[^4]
+
+[^4]: A 4. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

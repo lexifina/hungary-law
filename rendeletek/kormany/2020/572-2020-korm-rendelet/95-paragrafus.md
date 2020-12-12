@@ -1,0 +1,1 @@
+## „(4) A költségvetési szervnek vagy nonprofit szervezetnek minősülő együttműködő szervek, valamint a költségvetési szervnek minősülő, adószámmal nem rendelkező gazdálkodó szervezetek számára a hivatali tárhely létesítése és fenntartása díjmentes.”
