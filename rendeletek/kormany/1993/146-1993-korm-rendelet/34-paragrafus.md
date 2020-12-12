@@ -30,7 +30,7 @@ b) szöveges üzenetközvetítési szolgáltatás igénybevételével a nyilván
 
 értesítést küld részére az elfogadott lakcímbejelentésről.
 
-(3)[^240] Ha a jegyző, illetve a járási hivatal a bejelentkezés elfogadása után állapítja meg, hogy a bejelentett lakcím nem valós, vagy a lakcímbejelentés nem felelt meg az (1) bekezdésben foglalt feltételeknek, akkor megállapítja a lakcím érvénytelenségét és a döntés véglegessé válását követően az érvénytelen lakcímadatot a nyilvántartásban fiktív jelzéssel szerepelteti mindaddig, amíg a polgár a valós lakcímét be nem jelenti.
+(3)[^240] Ha az érvénytelenítéssel vagy „fiktív” jelzés szerepeltetésével érintett lakcím szerint illetékes jegyző, illetve járási hivatal a bejelentkezés elfogadása után állapítja meg, hogy a bejelentett lakcím nem valós, vagy a lakcímbejelentés nem felelt meg az (1) bekezdésben foglalt feltételeknek, akkor megállapítja a lakcím érvénytelenségét, és a döntés véglegessé válását követően az érvénytelen lakcímadatot a nyilvántartásban érvénytelen vagy fiktív jelzéssel szerepelteti mindaddig, amíg a polgár a valós lakcímét be nem jelenti.
 
 (3a)[^241] Ha a járási hivatal a bejelentkezés elfogadása után állapítja meg, hogy a bejelentett értesítési cím nem valós, megállapítja az értesítési cím érvénytelenségét és a döntés véglegessé válását követően az érvénytelen értesítési címet törli a nyilvántartásból.
 
@@ -42,7 +42,7 @@ b) szöveges üzenetközvetítési szolgáltatás igénybevételével a nyilván
 [^237]: Az R. 34. § (1a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 1. és 5. pontja szerint módosított szöveg.
 [^238]: Az R. 34. § (2) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^239]: Az R. 34. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (15) bekezdésével megállapított szöveg.
-[^240]: Az R. 34. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 15. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^240]: Az R. 34. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^241]: Az R. 34. § (3a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 15. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^242]: Az R. 34. §-ának (4) bekezdését a 9/2004. (I. 31.) Korm. rendelet 9. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 1. § (13) bekezdésével megállapított és a 417/2012. (XII. 29.) Korm. rendelet 40. § t) pontja, 41. § j) pontja szerint módosított szöveg.
 [^243]: Az R. 34. § (5) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 4. §-a iktatta be.

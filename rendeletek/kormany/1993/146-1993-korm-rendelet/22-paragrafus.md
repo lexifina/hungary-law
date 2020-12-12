@@ -20,9 +20,13 @@
 
 (5)[^189] A nyilvántartás szerve
 
-a) az Nytv. 24. §-ában meghatározott szervek, valamint
+a) az Nytv. 24. §-ában meghatározott szervek,
 
-b) a konzuli szolgálatnak a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése és 11. § (1) bekezdése szerinti feladata ellátásához szükséges
+b) a konzuli szolgálatnak a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése és 11. § (1) bekezdése szerinti feladata ellátásához szükséges,
+
+c) a Nemzeti Népegészségügyi Központ, valamint
+
+d) a Nemzeti Választási Iroda
 
 kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő személyek adatait szolgáltatja.
 
@@ -37,4 +41,4 @@ kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő
 [^186]: Az R. 22. § (2b) bekezdését a 403/2015. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
 [^187]: A 22. § (2c) bekezdését a a 6/2020. (I. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^188]: Az R. 22. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 1. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^189]: A 22. § (2) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^189]: Az R. 22. § (5) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
