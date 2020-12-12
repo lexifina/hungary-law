@@ -22,6 +22,6 @@
 
 (11) A külföldön történt népmozgalmi események statisztikai számbavételénél az eseményhez tartozó, az (1) és (2), valamint (4)–(8) bekezdés szerinti tartalmú adatszolgáltatást a tárgyévben bekövetkezett események vonatkozásában a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv a tárgyévet követő év március 31-ig teljesíti a KSH felé.
 
-(12)[^9] A lakcímváltozásokról a személyiadat- és lakcímnyilvántartást kezelő szerv a nyilvántartásba vételt követő második hónap hetedik napjáig szolgáltat adatot a KSH-nak a 11. melléklet szerinti adattartalommal.
+(12)[^9]
 
-[^9]: A 21. § (12) bekezdése a 273/2019. (XI. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^9]: A 21. § (12) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 108. §-a hatályon kívül helyezte.
