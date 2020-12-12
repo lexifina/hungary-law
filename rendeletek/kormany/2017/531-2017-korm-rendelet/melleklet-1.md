@@ -496,9 +496,9 @@ Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóság
 
 |  | 6. | Útügyi hatósági eljárás. Építési engedélyezési eljárás (építés, építési engedélytől való eltérési engedély, hatályhosszabbítás) | Annak elbírálása, hogy az adott tevékenység megfelel-e a vizek lefolyására, az árvíz és a jég levonulására vonatkozó követelményeknek. | Gyorsforgalmi út, illetve ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, főút, összekötő út, bekötőút, állomáshoz vezető út, belterületi gyorsforgalmi út, belterületi elsőrendű főút, belterületi másodrendű főút, gyűjtőút, közforgalom elől el nem zárt magánút – a felsorolt utakon autóbusz öböl át-, kiépítése, forgalomba helyezése kivételével –, parkoló, zajárnyékoló fal, zajárnyékoló töltés, valamint híd, felüljáró, alagút, aluljáró, kerékpárút – ha ezen létesítmények nem kizárólag gyalogos vagy kerékpáros forgalom lebonyolítására szolgálnak – engedélyezése esetén. | Területi vízügyi hatóság | - | - |
 
-|  | 7. | Útügyi hatósági eljárás. Építési engedélyezési eljárás (építés, építési engedélytől való eltérési engedély, hatályhosszabbítás) | A létesítésre vonatkozó tűzvédelmi előírásoknak való megfelelés. | Abban az esetben, ha az eljárás - polgári repülőteret, a metró és földalatti vasúti létesítményét, az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményét, valamint az alábbi, első végleges használatbavétellel nem rendelkező építmény létesítményét érinti, - magas építmények, - 20000 m2 összesített szint alapterületűnél nagyobb, 14,00 métert meghaladó legfelső építményszinttel rendelkező építmény, - a 4000 főnél nagyobb befogadóképességű művelődési, kulturális rendeltetésű közhasználatú építmény, - a 10.000 főnél nagyobb befogadóképességű sport rendeltetésű közhasználatú építmény, - az 50 MW és annál nagyobb teljesítményű erőmű, - a fekvőbeteg-ellátásra, továbbá a menekülésben korlátozottak elhelyezésére szolgáló építmény, amennyiben az elhelyezés 14,00 méter felett történik. | A hivatásos katasztrófavédelmi szerv területi szerve | - | - |
+|  | 7. |  |  |  |  |  |  |
 
-|  | 8. | Útügyi hatósági eljárás. Építési engedélyezési eljárás (építés, építési engedélytől való eltérési engedély, hatályhosszabbítás) | A létesítésre vonatkozó tűzvédelmi előírásoknak való megfelelés. | Minden, a 7. sortól eltérő esetben. | A hivatásos katasztrófavédelmi szerv helyi szerve | - |  |
+|  | 8. |  |  |  |  |  |  |
 
 |  | 9. | A közutak, a közforgalom elől el nem zárt magánutak, a kerékpárutak, a gyalogutak, a gyalog- és kerékpárutak, a járdák, valamint ezek műtárgyai és tartozékai építésének, forgalomba helyezésének, fennmaradásának és megszüntetésének engedélyezésére, építésének elvi engedélyezésére, forgalomba helyezésének ideiglenes engedélyezésére, a közlekedési hatósági engedélyek időbeli hatályának meghosszabbítására irányuló, továbbá – ha a kérelem a szakhatóság korábbi állásfoglalásában foglalt feltételeket érinti – az építési engedélyben foglaltaktól való eltérés engedélyezésére irányuló útügyi hatósági eljárás. | Közúti jelzések, forgalomtechnikai elemek és elhelyezésük vizsgálata. | Gyorsforgalmi utak esetében. | Megyei (fővárosi) rendőr-főkapitányság | - | - |
 
@@ -868,6 +868,8 @@ Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóság
 
 |  | 194. | A 312/2012. (XI. 8.) Korm. rendelet szerinti összevont telepítési eljárás integrált építési engedélyezési szakaszában az építési engedélyezési eljárás és az országos építési követelményektől való eltérés engedélyezési eljárása esetén. | A Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e. | Honvédelmi és katonai célú építmény működési vagy védőterületén belüli építmény építése esetén. | A katonai légügyi hatóság | - | - |
 
+|  | 195. | Légügyi hatósági eljárás. Légiközlekedési tevékenység keretében légi járművel végzett személyszállítással és árufuvarozással (ideértve a postai küldemények fuvarozását) összefüggő engedélyezési eljárás. | Magyarország nemzetbiztonsági érdekét az engedély kiadása sérti vagy veszélyezteti-e. | Minden esetben. | Alkotmányvédelmi Hivatal | - | - |
+
 11. Mérésügyi ügyek
 
 |  |  | A | B | C | D | E | F |
@@ -906,7 +908,7 @@ Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóság
 
 |  | 12. | A 157/2005. (VIII. 15.)Korm. rendelet szerinti vezetékjog engedélyezési eljárás. | Az építmény elhelyezkedésének, magasságának, jellegének közvetlen és közvetett hatása az állami célú légiközlekedésre, a földi telepítésű berendezések működésére és az állami célú légiközlekedés biztonságára. | Távhővezeték nyomvonala, biztonsági övezete magyarországi repülőtértől,fel- és leszállóhelytől, rádiónavigációs ponttól számított 4 kilométeren belüli kijelölése esetén. | Katonai légügyi hatóság | – | – |
 
-|  | 13. | A 157/2005. (VIII. 15.)Korm. rendelet szerinti vezetékjog engedélyezési eljárás. | A vezeték megvalósítása a jogszabályban rögzített tűzvédelmi követelményekneka kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Minden eljárásban. | A hivatásos katasztrófavédelmi szerv helyi szerve | – | – |
+|  | 13. |  |  |  |  |  |  |
 
 |  | 14. | A veszélyes folyadékok és olvadékok tárolótartályainak és tároló-létesítményeinek létesítési és üzembe helyezési engedélyezési eljárása honvédelmi létesítmény területén. | A létesítésre vonatkozó tűzvédelmi előírásoknak és tűztávolságoknak való megfelelés. | Éghető töltet esetében tárolótartály létesítése és üzembe helyezése esetén. | Honvédelemért felelős miniszter | – | 21 nap |
 
@@ -1220,4 +1222,4 @@ Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóság
 
 [^5]: A 7. §-t a 363/2020. (VII. 23.) Korm. rendelet 7. §-a iktatta be.
 [^6]: A hatálybalépés időpontja 2020. július 24.
-[^7]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a, a 375/2020. (VII. 30.) Korm. rendelet 103. §-a, a 444/2020. (IX. 30.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a, a 375/2020. (VII. 30.) Korm. rendelet 103. §-a, a 444/2020. (IX. 30.) Korm. rendelet 9. §-a, az 572/2020. (XII. 9.) Korm. rendelet 121. §-a szerint módosított szöveg.
