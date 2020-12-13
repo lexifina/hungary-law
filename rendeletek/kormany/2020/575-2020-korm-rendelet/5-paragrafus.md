@@ -1,3 +1,3 @@
-## 4. § A 110/2016. (V. 25.) Korm. rendelet 13. §-a helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „13. § Az értékelő a feladatelrendelő dokumentum 14. § (4) bekezdése szerinti elfogadásával egyidejűleg nyilatkozik az adott programozási időszakhoz kapcsolódó, az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben meghatározott összeférhetetlenség fennállásával összefüggésben, azzal, hogy az adott programozási időszakhoz kapcsolódó, az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben meghatározott összeférhetetlenségi, valamint titoktartási nyilatkozatot a monitoring és információs rendszerben teszi meg.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
