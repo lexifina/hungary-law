@@ -30,4 +30,6 @@ c) a Honvédséget megillető vagyoni értékű jog és követelés,
 
 d) a gazdálkodó szervezeteknek vagy civil szervezeteknek átadott azon vagyontárgy és pénzeszköz, amelyet e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek.
 
-(2) Több személy együttes károkozása esetén az állományilletékes parancsnoki jogkört a közös elöljáró parancsnok, ennek hiányában a Honvéd Vezérkar főnöke gyakorolja.
+(2)[^1] Több személy együttes károkozása esetén az állományilletékes parancsnoki jogkört a közös elöljáró parancsnok, ennek hiányában a Magyar Honvédség parancsnoka gyakorolja.
+
+[^1]: Az 1. § (2) bekezdése a 17/2020. (XII. 12.) HM rendelet 1. §-ával megállapított szöveg.

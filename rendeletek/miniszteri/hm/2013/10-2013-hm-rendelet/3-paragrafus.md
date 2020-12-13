@@ -4,7 +4,7 @@
 
 (2) Szakértőként a szakértői névjegyzékben szereplő igazságügyi szakértő, vagy szakvélemény adására feljogosított gazdasági társaság, szakértői intézmény, vagy külön jogszabályban meghatározott állami szerv, intézmény, szervezet, ha ez nem lehetséges, kellő szakértelemmel rendelkező személy vagy intézmény vonható be.
 
-(3) A szakértő költségét az a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban együtt: honvédelmi szervezet) előlegezi meg, amelynél a károkozás történt.
+(3)[^5] A szakértő költségét az a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja szerinti honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) előlegezi meg, amelynél a káreljárás folyamatban van.
 
 (4) A katonát kell kötelezni a szakértői díj megtérítésére, ha
 
@@ -15,3 +15,5 @@ b) a szakértői vélemény azt állapította meg, hogy a kár mértékét a Hon
 c) a katona kártérítési felelőssége utóbb megállapításra került.
 
 (5) Haditechnikában okozott kár esetén az illetékes szakszolgálat véleményét is ki kell kérni, kivéve, ha a kár összegét szakértő állapította meg.
+
+[^5]: A 3. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 3. §-ával megállapított szöveg.

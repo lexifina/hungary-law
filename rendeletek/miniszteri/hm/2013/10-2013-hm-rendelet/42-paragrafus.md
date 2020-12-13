@@ -1,13 +1,14 @@
-42. § (1) A Honvédség hadrendje szerinti szervezeteinél a kezelésben, illetve gazdálkodási körbe tartozó testületi vagyonban keletkezett kárból – a pénzeszközökben keletkezett kár kivételével – a kárleírási jogkört – káresetenként – az önálló állománytáblával rendelkező szervezeteknél vagy a közvetlen alárendelt honvédelmi szervezetekkel rendelkező szervezeteknél, a parancsnokok, a vezetők a következők szerint gyakorolják:
+42. § (1)[^38] A Hvt. 80. § 14. pontja szerinti szervezetnél (a továbbiakban: honvédségi szervezet) a kezelésbe, illetve gazdálkodási körbe tartozó testületi vagyonban keletkezett kárból – a pénzeszközökben keletkezett kár kivételével – a kárleírási jogkört káresetenként a parancsnokok, illetve a vezetők a következők szerint gyakorolják:
 
-a) az önálló század-, zászlóalj-, osztály-, ezredparancsnok és az azzal azonos szintű parancsnok, vezető 1 000 000 Ft értékhatárig,
+a) az önálló század-, zászlóalj-, osztály-, ezredparancsnok és az azzal azonos szintű parancsnok, illetve vezető 1 000 000 Ft értékhatárig,
 
-b) a dandárparancsnok és az azzal azonos szintű parancsnok, vezető 2 500 000 Ft értékhatárig,
+b) a dandárparancsnok és az azzal azonos szintű parancsnok, illetve vezető 2 500 000 Ft értékhatárig,
 
-c)[^23] a Honvédség középszintű vezető szerv és a más magasabb szintű parancsnokság parancsnoka, vezetője 5 000 000 Ft értékhatárig,
+c) a más magasabb szintű parancsnokság parancsnoka, illetve vezetője 5 000 000 Ft értékhatárig,
 
-d) a Honvéd Vezérkar főnöke 10 000 000 Ft értékhatárig.
+d) a Magyar Honvédség parancsnoka 10 000 000 Ft értékhatárig.
 
-(2) A Honvédségnél keletkezett 10 000 000 Ft-nál nagyobb összegű kár esetén a leírási tanúsítványt a helyettes államtitkár adja ki.
+(2)[^39] A Honvédségnél keletkezett 10 000 000 Ft-nál nagyobb összegű kár esetén a leírási tanúsítványt a HM KÁT adja ki.
 
-[^23]: A 42. § (1) bekezdés c) pontja a 6/2014. (IV. 14.) HM rendelet 12. §-a szerint módosított szöveg.
+[^38]: A 42. § (1) bekezdése a 17/2020. (XII. 12.) HM rendelet 6. §-ával megállapított szöveg.
+[^39]: A 42. § (2) bekezdése a 17/2020. (XII. 12.) HM rendelet 8. § e) pontja szerint módosított szöveg.

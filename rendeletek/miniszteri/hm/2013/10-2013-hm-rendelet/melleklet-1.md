@@ -1,6 +1,6 @@
-## 49. §[^24]
+## 49. §[^42] E rendeletnek a honvédelmi miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról szóló 17/2020. (XII. 12.) HM rendelettel megállapított 18. § (5) bekezdését 2020. július 1-jétől kell alkalmazni.
 
-1. melléklet a 10/2013. (VIII. 12.) HM rendelethez[^25]
+1. melléklet a 10/2013. (VIII. 12.) HM rendelethez[^43]
 
 ## KÖTELEZVÉNY
 
@@ -50,5 +50,5 @@ Előjegyezve a .......................... tsz. alatt.
 
 __________* A megfelelő rész aláhúzandó.
 
-[^24]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: Az 1. melléklet a 25/2016. (XII. 22.) HM rendelet 51. §-ával megállapított szöveg.
+[^42]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 17/2020. (XII. 12.) HM rendelet 7. §-a iktatta be.
+[^43]: Az 1. melléklet a 25/2016. (XII. 22.) HM rendelet 51. §-ával megállapított szöveg.
