@@ -1,3 +1,3 @@
-## 72. §[^73]
+## 72. §[^128]
 
-[^73]: A 72. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^128]: A 72. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

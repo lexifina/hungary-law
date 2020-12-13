@@ -1,3 +1,3 @@
-## 71. §[^72]
+## 71. §[^127]
 
-[^72]: A 71. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^127]: A 71. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

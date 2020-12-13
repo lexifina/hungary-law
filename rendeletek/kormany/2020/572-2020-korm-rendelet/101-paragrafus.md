@@ -1,3 +1,3 @@
-## 100. § Az eVhr. V/A. Fejezete a következő 145/H. §-sal egészül ki:
+## 100. §[^168]
 
-## „145/H. § Az E-ügyintézési tv. 1. § 40. pontja szerinti személyre szabott ügyintézési felület szolgáltatás tekintetében kijelölt szolgáltató gondoskodik az Egységes Digitális Kapun a 145/C. § szerint közzétett tájékoztató leírások weboldalaira vonatkozó, az egységes digitális kapu szolgáltatásaira vonatkozó felhasználói statisztikáknak és visszajelzéseknek az (EU) 2018/1724 európai parlamenti és tanácsi rendelettel összhangban történő gyűjtéséről és megosztásáról szóló, 2020. július 29-i (EU) 2020/1121 bizottsági végrehajtási rendelet 3. cikkében meghatározott statisztikai adatok e cikk szerinti gyűjtéséről és továbbításáról.”
+[^168]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

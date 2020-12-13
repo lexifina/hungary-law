@@ -1,3 +1,3 @@
-## 30. §[^18]
+## 30. §[^31]
 
-[^18]: A 30. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^31]: A 30. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

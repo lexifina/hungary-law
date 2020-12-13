@@ -1,9 +1,9 @@
-## 43. §[^29]
+## 43. §[^45]
 
-44. § (1)[^30]
+44. § (1)[^46]
 
-(2)[^31]
+(2)[^47]
 
-[^29]: A 43. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^30]: A 44. § (1) bekezdése a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^31]: A 44. § (2) bekezdése a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^45]: A 43. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^46]: A 44. § (1) bekezdése a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^47]: A 44. § (2) bekezdése a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 59. §[^61]
+## 59. §[^114]
 
-[^61]: Az 59. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^114]: Az 59. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

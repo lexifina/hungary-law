@@ -1,3 +1,3 @@
-## 9. § A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet (a továbbiakban: 72/1996. Korm. rendelet) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^9]
 
-## „(1) A végleges vízjogi üzemeltetési engedéllyel rendelkező rendszeren vízimunka végzéséhez vagy vízilétesítmény építéséhez az építtető, a tulajdonos vagy a vagyonkezelő bejelentése szükséges, ha a víziközművek üzemeltetéséről, a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról, a felszíni vizek minősége védelmének szabályairól, valamint a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló rendeletekben meghatározott víziközmű hálózat olyan rekonstrukciója, illetve fejlesztése tervezett, amely nem érinti a víziközmű vízjogi engedélyben meghatározott ivóvíztermelésre és szennyvíztisztításra vonatkozó mértékadó kapacitását, vagy a törzshálózat kapacitását és nyomvonalát.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

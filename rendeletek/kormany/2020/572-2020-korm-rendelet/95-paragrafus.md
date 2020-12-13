@@ -1,1 +1,3 @@
-## „(4) A költségvetési szervnek vagy nonprofit szervezetnek minősülő együttműködő szervek, valamint a költségvetési szervnek minősülő, adószámmal nem rendelkező gazdálkodó szervezetek számára a hivatali tárhely létesítése és fenntartása díjmentes.”
+## 94. §[^162]
+
+[^162]: A 94. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(3) A (2) bekezdés a) és b) pontja alá nem tartozó piaci szereplő – a más SZEÜSZ, illetve KEÜSZ gépi igénybevételéhez technikailag szükséges bizalmi szolgáltatások kivételével – nem vehet igénybe a kormányzati hitelesítésszolgáltató által nyújtott bizalmi szolgáltatást.”
+## 89. §[^157] «
+
+[^157]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

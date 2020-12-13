@@ -1,3 +1,5 @@
-## 120. § A közúti közlekedési nyilvántartás működéséről és az adatszolgáltatás rendjéről szóló 513/2017. (XII. 29.) Korm. rendelet 2. melléklete helyébe a 15. melléklet lép.
+## 120. §[^190]
 
 ## 27. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról
+
+[^190]: A 120. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

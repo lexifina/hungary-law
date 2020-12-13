@@ -1,3 +1,3 @@
-## 90. §[^97]
+## 90. §[^158]
 
-[^97]: A 90. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^158]: A 90. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

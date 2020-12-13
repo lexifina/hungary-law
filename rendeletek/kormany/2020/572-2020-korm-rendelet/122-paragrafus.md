@@ -1,5 +1,6 @@
-## 121. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. melléklete a 16. melléklet szerint módosul.
+## 121. §[^191]
 
-## 28.[^111]
+## 28.[^192]
 
-[^111]: A 28. alcím (122. §) a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^191]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^192]: A 28. alcím (122. §) a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

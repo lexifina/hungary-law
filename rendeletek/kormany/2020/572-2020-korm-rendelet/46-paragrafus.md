@@ -2,21 +2,27 @@
 
 ## 46. § Hatályát veszti az R.
 
-a) 100. § (1a) bekezdése,
+a)[^88]
 
-b) 101. § (1) bekezdésében az „és (9)” szövegrész,
+b)[^89]
 
-c) 104. § (2) bekezdésében és 107/A. § (2) bekezdésében a „vagy ha a hatóság a határozatát azonnal végrehajthatóvá nyilvánítja a határozat végrehajthatóvá válása” szövegrész,
+c)[^90]
 
-d) 104. § (3) bekezdésében és 107/A. § (3) bekezdésében a „vagy ha a hatóság a határozatát azonnal végrehajthatóvá nyilvánítja a határozat végrehajthatóvá válása napjától” szövegrész,
+d)[^91]
 
-e) 108. § (2a) bekezdése,
+e)[^92]
 
-f)[^52]
+f)[^93]
 
-g)[^53]
+g)[^94]
 
-h) 118/C. §-ában a „korlátozó,” szövegrész.
+h)[^95]
 
-[^52]: A 46. § f) pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^53]: A 46. § g) pontja a 127. § (5) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^88]: A 46. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 46. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 46. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 46. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 46. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 46. § f) pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^94]: A 46. § g) pontja a 127. § (5) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^95]: A 46. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

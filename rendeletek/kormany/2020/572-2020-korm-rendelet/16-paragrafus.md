@@ -1,3 +1,3 @@
-## 15. §[^11]
+## 15. §[^16]
 
-[^11]: A 15. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^16]: A 15. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

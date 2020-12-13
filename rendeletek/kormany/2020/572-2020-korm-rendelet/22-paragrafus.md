@@ -1,5 +1,6 @@
-## 21. § A 335/2005. Korm. rendelet 3. melléklete a 2. melléklet szerint módosul.
+## 21. §[^21]
 
-## 9.[^15]
+## 9.[^22]
 
-[^15]: A 9. alcím (22. §) a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 9. alcím (22. §) a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.

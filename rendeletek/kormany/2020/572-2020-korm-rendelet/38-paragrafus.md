@@ -1,3 +1,3 @@
-## 37. § Az R. 88. §-a a következő (4) bekezdéssel egészül ki:
+## 37. §[^38]
 
-## „(4) Az állandó forgalmi engedély határozatlan ideig, az ideiglenes forgalmi engedély a H adatmezőjében feltüntetett időpontig érvényes.”
+[^38]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

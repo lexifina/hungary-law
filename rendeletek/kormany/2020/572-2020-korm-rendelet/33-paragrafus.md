@@ -1,3 +1,3 @@
-## 32. § Az R. 31. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 32. §[^33]
 
-## „(5) A (2) bekezdésben foglaltaktól eltérően, humánjárvány miatt kihirdetett veszélyhelyzet és a Kormány által elrendelt egészségügyi válsághelyzet idején az elkészült vezetői engedély – a (4) bekezdésben meghatározott kivétellel – kizárólag postai úton, hivatalos iratként kerül kézbesítésre az ügyfeleknek. Ha az ügyfél az eljárás megindításakor valamely közlekedési igazgatási hatóságot jelölte meg az átvétel helyeként, akkor az okmányt az ügyfél engedély-nyilvántartásban szereplő belföldi tartózkodási helyére, ennek hiányában belföldi lakóhelyére kell kézbesíteni. Az át nem vett okmányokra az (1) és (2) bekezdésben foglaltakat kell alkalmazni.”
+[^33]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

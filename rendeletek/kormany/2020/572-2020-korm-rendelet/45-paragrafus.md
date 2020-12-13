@@ -1,102 +1,122 @@
 ## 45. § Az R.
 
-1. 1/D. § (4) bekezdésében a „tulajdonjog változásokat” szövegrész helyébe a „tulajdonjog változásokat, valamint a jármű motorjának jogszerű megszerzését” szöveg,
+1.[^48]
 
-2.[^32]
+2.[^49]
 
-3.[^33]
+3.[^50]
 
-4.[^34]
+4.[^51]
 
-5.[^35]
+5.[^52]
 
-6.[^36]
+6.[^53]
 
-7.[^37]
+7.[^54]
 
-8.[^38]
+8.[^55]
 
-9.[^39]
+9.[^56]
 
-10.[^40]
+10.[^57]
 
-11.[^41]
+11.[^58]
 
-12.[^42]
+12.[^59]
 
-13.[^43]
+13.[^60]
 
-14.[^44]
+14.[^61]
 
-15.[^45]
+15.[^62]
 
-16.[^46]
+16.[^63]
 
-17.[^47]
+17.[^64]
 
-18.[^48]
+18.[^65]
 
-19. 52. § (1) bekezdésének d) pontjában a „tulajdonjogában bekövetkezett változás nyilvántartásba vételekor” szövegrész helyébe az „átírásakor” szöveg,
+19.[^66]
 
-20.[^49]
+20.[^67]
 
-21. 52. § (7) bekezdésében a „nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást” szövegrész helyébe az „át kell írni a járművet” szöveg,
+21.[^68]
 
-22. 81. § (3) bekezdésében a „tulajdonjogában bekövetkezett változás nyilvántartásba-vételekor” szövegrész helyébe az „átírásakor” szöveg,
+22.[^69]
 
-23. 83. § (5) bekezdésében az „a tulajdonjog változásának nyilvántartásba vételére irányuló hatósági eljárás megindítását” szövegrész helyébe az „az átírását” szöveg,
+23.[^70]
 
-24. 83. § (6) bekezdésében az „A tulajdonjog változásának nyilvántartásba vételére” szövegrész helyébe az „Az átírásra” szöveg,
+24.[^71]
 
-25. 84. § (6) bekezdés d) pontjában a „tulajdonjogában bekövetkezett változás nyilvántartásba vétele” szövegrész helyébe az „átírása” szöveg,
+25.[^72]
 
-26. 87. § (2) bekezdésében az „a bejelentést” szövegrész helyébe az „az átírás kezdeményezését” szöveg,
+26.[^73]
 
-27. 87. § (3) bekezdésében az „a nyilvántartásba vétellel” szövegrész helyébe az „az átírással” szöveg,
+27.[^74]
 
-28. 87. § (4) bekezdés a) pontjában a „bejelentési kötelezettségének a jogszabályban megjelölt határidőn belül nem tett eleget” szövegrész helyébe a „jármű átírását a jogszabályban megjelölt határidőn belül nem kezdeményezte” szöveg,
+28.[^75]
 
-29. 89. § (3) bekezdésében a „műszaki érvényességi ideje” szövegrész helyébe a „„Műszaki érvényesség” rovatába bejegyzett időpont” szöveg,
+29.[^76]
 
-30. 89. § (6) bekezdésében a „Ha nem kerül sor új forgalmi engedély kiállítására, az adatváltozást” szövegrész helyébe a „Ha e jogszabály megengedi a kiadás mellőzését, nem kerül sor új forgalmi engedély kiállítására. Az adatváltozást” szöveg,
+30.[^77]
 
-31. 95. §-ában az „igazolólapra is” szövegrész helyébe az „igazolólapra, továbbá az ideiglenes forgalmi engedélyre is” szöveg,
+31.[^78]
 
-32.[^50]
+32.[^79]
 
-33. 102. § (1) bekezdésében az „a bejelentési” szövegrész helyébe az „az átírás kezdeményezésének”, a „tulajdonjogot bejegyzi a nyilvántartásba” szövegrész helyébe a „járművet átírja” szöveg,
+33.[^80]
 
-34. 103. § (3) bekezdésében az „a bejelentési kötelezettséget” szövegrész helyébe az „az átírás kezdeményezésének kötelezettségét”, az „a változás bejegyzése” szövegrész helyébe az „az átírás” szöveg,
+34.[^81]
 
-35. 108. § (1) bekezdésében az „a tulajdonjog-változás bejegyzésére” szövegrész helyébe az „az átírásra” szöveg,
+35.[^82]
 
-36. 108. § (2b) bekezdésében a „tulajdonjogában bekövetkezett változás nyilvántartásba vételének” szövegrész helyébe az „átírásának” szöveg,
+36.[^83]
 
-37.[^51]
+37.[^84]
 
-38. 117. § (1) bekezdésében az „értékesítési céllal történő megvásárlását 15 napon belül a közlekedési igazgatási hatóságnál bejelenti” szövegrész helyébe az „értékesítési céllal történt megvásárlása esetén, a vásárlástól számított 15 napon belül köteles a közlekedési igazgatási hatóságnál az átírást kezdeményezni” szöveg,
+38.[^85]
 
-39. 117. § (3) bekezdésében a „nyilvántartásba veszi” szövegrész helyébe az „átírja” szöveg,
+39.[^86]
 
-40. 120. § (10) bekezdésében a „tulajdonjogában bekövetkezett változás nyilvántartásba vételére irányuló közlekedési igazgatási eljárás” szövegrész helyébe az „átírása” szöveg
+40.[^87]
 
-[^32]: A 45. § 2. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^33]: A 45. § 3. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^34]: A 45. § 4. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^35]: A 45. § 5. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^36]: A 45. § 6. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^37]: A 45. § 7. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^38]: A 45. § 8. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^39]: A 45. § 9. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^40]: A 45. § 10. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^41]: A 45. § 11. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^42]: A 45. § 12. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^43]: A 45. § 13. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^44]: A 45. § 14. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^45]: A 45. § 15. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^46]: A 45. § 16. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^47]: A 45. § 17. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^48]: A 45. § 18. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^49]: A 45. § 20. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^50]: A 45. § 32. pontja a 127. § (5) bekezdése alapján 2021. március 1-jén lép hatályba.
-[^51]: A 45. § 37. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^48]: A 45. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 45. § 2. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^50]: A 45. § 3. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^51]: A 45. § 4. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^52]: A 45. § 5. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^53]: A 45. § 6. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^54]: A 45. § 7. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^55]: A 45. § 8. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^56]: A 45. § 9. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^57]: A 45. § 10. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^58]: A 45. § 11. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^59]: A 45. § 12. pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^60]: A 45. § 13. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^61]: A 45. § 14. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^62]: A 45. § 15. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^63]: A 45. § 16. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^64]: A 45. § 17. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^65]: A 45. § 18. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^66]: A 45. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 45. § 20. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^68]: A 45. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 45. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 45. § 23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 45. § 24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: A 45. § 25. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 45. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 45. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 45. § 28. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 45. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 45. § 30. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 45. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 45. § 32. pontja a 127. § (5) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^80]: A 45. § 33. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 45. § 34. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 45. § 35. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 45. § 36. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 45. § 37. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^85]: A 45. § 38. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 45. § 39. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 45. § 40. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

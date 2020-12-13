@@ -1,3 +1,3 @@
-## 49. § A 84/2012. Korm. rendelet 4/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 49. §[^98]
 
-## „(2) Az (1) bekezdés b) és c) pontja szerinti tárhelyszolgáltatásokhoz gépi úton történő csatlakozások esetében az igénybevételi feltételeinek ellenőrzése, a gépi úton történő csatlakozó szervezetek nyilvántartása, a nem a KOPINT-DATORG Informatikai és Vagyonkezelő Kft. által fejlesztett alkalmazásokhoz kapcsolódó minőségbiztosítási feladatok, valamint az (1) bekezdés b) pontja szerinti tárhelyszolgáltatás részszolgáltatásait képező cégkapu-regisztrációt és a regisztrációk ellenőrzését támogató alkalmazás alkalmazásfejlesztési, alkalmazásüzemeltetés támogatási feladatait a KOPINT-DATORG Informatikai és Vagyonkezelő Kft. látja el.”
+[^98]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

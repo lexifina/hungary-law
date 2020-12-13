@@ -1,3 +1,3 @@
-## 36. §[^23]
+## 36. §[^37]
 
-[^23]: A 36. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^37]: A 36. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

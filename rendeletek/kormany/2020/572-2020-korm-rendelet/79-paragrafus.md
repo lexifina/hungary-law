@@ -1,3 +1,3 @@
-## 78. §[^79]
+## 78. §[^134]
 
-[^79]: A 78. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^134]: A 78. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

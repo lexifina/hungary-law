@@ -1,7 +1,3 @@
-## „q) a személyre szabott ügyintézési felület szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a szolgáltatás keretében elérhető elektronikus űrlapkitöltés támogatási alkalmazás alkalmazásfejlesztése, alkalmazásüzemeltetés támogatása, valamint a szolgáltatás igénybevételi feltételeinek ellenőrzése, a csatlakozó szervezetek nyilvántartása és a nem a KOPINT-DATORG Informatikai és Vagyonkezelő Kft. által fejlesztett alkalmazáshoz kapcsolódó minőségbiztosítási feladatok vonatkozásában a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
+## 48. §[^97]
 
-## r) az iratkezelő rendszerek közötti iratáthelyezés szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a szolgáltatás igénybevételi feltételeinek ellenőrzése, a csatlakozó szervezetek nyilvántartása és az alkalmazáshoz kapcsolódó minőségbiztosítási feladatok tekintetében a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
-
-## s) a központi érkeztetési ügynök szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a szolgáltatás igénybevételi feltételeinek ellenőrzése, a csatlakozó szervezetek nyilvántartása és az alkalmazáshoz kapcsolódó minőségbiztosítási feladatok tekintetében a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
-
-## t) a központi kézbesítési ügynök szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a szolgáltatás igénybevételi feltételeinek ellenőrzése, a csatlakozó szervezetek nyilvántartása és az alkalmazáshoz kapcsolódó minőségbiztosítási feladatok tekintetében a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,”
+[^97]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,13 +1,3 @@
-## 6. § Az Nytv. vhr. 22. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^6]
 
-## „(5) A nyilvántartás szerve
-
-## a) az Nytv. 24. §-ában meghatározott szervek,
-
-## b) a konzuli szolgálatnak a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése és 11. § (1) bekezdése szerinti feladata ellátásához szükséges,
-
-## c) a Nemzeti Népegészségügyi Központ, valamint
-
-## d) a Nemzeti Választási Iroda
-
-## kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő személyek adatait szolgáltatja.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

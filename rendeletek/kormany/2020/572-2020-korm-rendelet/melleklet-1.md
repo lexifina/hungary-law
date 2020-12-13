@@ -1,3 +1,3 @@
-1. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^115]
+1. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^197]
 
-[^115]: Az 1. melléklet a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^197]: Az 1. melléklet a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

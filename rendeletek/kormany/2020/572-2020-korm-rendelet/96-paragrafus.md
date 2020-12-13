@@ -1,7 +1,3 @@
-## 95. § Az eVhr. 85. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 95. §[^163]
 
-## (A hivatali tárhely használója, azon keresztül valamely szervezet nevében tevékenységet végző)
-
-## „a) a Kormány által biztosított elektronikus azonosítási szolgáltatással (a továbbiakban: KASZ) rendelkező és annak segítségével magát azonosító természetes személy,”
-
-## (lehet.)
+[^163]: A 95. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 7. § Az Nytv. vhr. 34. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^7]
 
-## „(3) Ha az érvénytelenítéssel vagy „fiktív” jelzés szerepeltetésével érintett lakcím szerint illetékes jegyző, illetve járási hivatal a bejelentkezés elfogadása után állapítja meg, hogy a bejelentett lakcím nem valós, vagy a lakcímbejelentés nem felelt meg az (1) bekezdésben foglalt feltételeknek, akkor megállapítja a lakcím érvénytelenségét, és a döntés véglegessé válását követően az érvénytelen lakcímadatot a nyilvántartásban érvénytelen vagy fiktív jelzéssel szerepelteti mindaddig, amíg a polgár a valós lakcímét be nem jelenti.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
