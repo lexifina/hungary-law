@@ -1,6 +1,6 @@
 ## 6. Családi átalány-költségtérítés
 
-9. § (1)[^15] Az állomány tagja hozzátartozói után családi átalány-költségtérítésre jogosult, melynek havi összege
+9. § (1)[^16] Az állomány tagja hozzátartozói után családi átalány-költségtérítésre jogosult, melynek havi összege
 
 a) házastárs után,
 
@@ -16,4 +16,4 @@ bb) a ba) ponttól eltérően a Cst., valamint a magasabb összegű családi pó
 
 (2) A juttatásra jogosító gyermek tankötelezettségének megszűnését követően az állomány tagjának a családi átalány-költségtérítés továbbfolyósításának előfeltételeként tanévenként, az állomáshely szerinti országban érvényes hivatalos tanévkezdést követő 15 napon belül iskolalátogatási igazolást kell benyújtania az illetékes személyügyi szervhez.
 
-[^15]: A 9. § (1) bekezdés nyitó szövegrésze a 2/2019. (I. 31.) HM rendelet 39. § d) pontja szerint módosított szöveg.
+[^16]: A 9. § (1) bekezdés nyitó szövegrésze a 2/2019. (I. 31.) HM rendelet 39. § d) pontja szerint módosított szöveg.

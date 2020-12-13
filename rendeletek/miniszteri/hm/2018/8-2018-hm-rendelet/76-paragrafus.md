@@ -2,14 +2,14 @@
 
 ## 44. Egyéb eljárási szabályok
 
-76. § (1)[^64] A fogadó fél által az állomány tartós külföldi képzésben részt vevő tagja részére folyósított pénzbeli juttatásokat – elnevezésüktől függetlenül – bele kell számítani a külszolgálati ellátmány, az átalány-költségtérítés, illetve a szállás-költségtérítés együttes összegébe. Nem lehet beszámítani az állomány tagjának a Honvédségtől és a fogadó féltől független szervtől, személytől nem a megélhetéssel összefüggésben biztosított juttatást, így különösen a tanulmányi verseny díját.
+76. § (1)[^87] A fogadó fél által az állomány tartós külföldi képzésben részt vevő tagja részére folyósított pénzbeli juttatásokat – elnevezésüktől függetlenül – bele kell számítani a külszolgálati ellátmány, az átalány-költségtérítés, illetve a szállás-költségtérítés együttes összegébe. Nem lehet beszámítani az állomány tagjának a Honvédségtől és a fogadó féltől független szervtől, személytől nem a megélhetéssel összefüggésben biztosított juttatást, így különösen a tanulmányi verseny díját.
 
 (2) A fogadó fél által biztosítandó különféle juttatásokat, azok mértékét a Honvédség központi személyügyi szerve az illetékes pénzügyi ellátó szerv részére megküldött igazolással igazolja.
 
-(3)[^65] Az állomány tartós külföldi képzésben részt vevő tagja a szolgálati út betartásával köteles írásban tájékoztatni a Honvédség központi személyügyi szervét a fogadó fél által folyósított pénzbeli juttatásokban bekövetkezett változásokról. A Honvédség által folyósított külszolgálati ellátmány, átalány-költségtérítés, illetve szállás-költségtérítés összegének megváltozásáról az illetékes pénzügyi ellátó szerv köteles írásban tájékoztatni az állomány tagját.
+(3)[^88] Az állomány tartós külföldi képzésben részt vevő tagja a szolgálati út betartásával köteles írásban tájékoztatni a Honvédség központi személyügyi szervét a fogadó fél által folyósított pénzbeli juttatásokban bekövetkezett változásokról. A Honvédség által folyósított külszolgálati ellátmány, átalány-költségtérítés, illetve szállás-költségtérítés összegének megváltozásáról az illetékes pénzügyi ellátó szerv köteles írásban tájékoztatni az állomány tagját.
 
-(4)[^66] A (3) bekezdésben foglaltakat kell megfelelően alkalmazni az állomány ideiglenes külföldi képzésben részt vevő tagja esetén is azzal, hogy a képzés ideje alatti változásokkal összefüggő pénzügyi elszámolást a képzés befejezése után, a hazaérkezést követően kell végrehajtani.
+(4)[^89] A (3) bekezdésben foglaltakat kell megfelelően alkalmazni az állomány ideiglenes külföldi képzésben részt vevő tagja esetén is azzal, hogy a képzés ideje alatti változásokkal összefüggő pénzügyi elszámolást a képzés befejezése után, a hazaérkezést követően kell végrehajtani.
 
-[^64]: A 76. § (1) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 21. pontja szerint módosított szöveg.
-[^65]: A 76. § (3) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 22. pontja szerint módosított szöveg.
-[^66]: A 76. § (4) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 23. pontja szerint módosított szöveg.
+[^87]: A 76. § (1) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 21. pontja szerint módosított szöveg.
+[^88]: A 76. § (3) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 22. pontja szerint módosított szöveg.
+[^89]: A 76. § (4) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 23. pontja szerint módosított szöveg.

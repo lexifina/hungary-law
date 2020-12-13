@@ -102,11 +102,11 @@ b) a KNBSZ-nek az e tevékenység tekintetében feladat- és hatáskörrel rende
 
 c)[^9] a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által az adott művelet vonatkozásában – Hvt. szerinti belső rendelkezésben – kijelölt pénzügyi és számviteli szervezet vagy szervezeti elem – időtartamtól függetlenül – a béketámogató műveletekben részt vevők és az állomány (2) bekezdés d) pontja szerinti tartós külföldi szolgálatot teljesítő tagja esetén és
 
-d) a HM védelemgazdaságért felelős helyettes államtitkára (a továbbiakban: HM VGHÁT) honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjéről szóló szakutasításában meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem az állomány (2) bekezdés e) pontja szerinti tagja esetén.
+d)[^10] a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjéről szóló szakutasításban meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem az állomány (2) bekezdés e) pontja szerinti tagja esetén.
 
 (5) A felszámítási alap összege 38 650 Ft.
 
-(6)[^10] E rendelet honvédelmi szervezetekre vonatkozó rendelkezéseit a miniszter fenntartói irányítása alá tartozó, katonai szervezetnek nem minősülő köznevelési intézményre is alkalmazni kell.
+(6)[^11] E rendelet honvédelmi szervezetekre vonatkozó rendelkezéseit a miniszter fenntartói irányítása alá tartozó, katonai szervezetnek nem minősülő köznevelési intézményre is alkalmazni kell.
 
 [^3]: A 2. § (1) bekezdés 2. pontja a 2/2019. (I. 31.) HM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés 3. pontját a 2/2019. (I. 31.) HM rendelet 39. § a) pontja hatályon kívül helyezte.
@@ -115,4 +115,5 @@ d) a HM védelemgazdaságért felelős helyettes államtitkára (a továbbiakban
 [^7]: A 2. § (2) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 3. pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 4. pontja szerint módosított szöveg.
 [^9]: A 2. § (4) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 5. pontja szerint módosított szöveg.
-[^10]: A 2. § (6) bekezdését a 2/2019. (I. 31.) HM rendelet 4. §-a iktatta be.
+[^10]: A 2. § (4) bekezdés d) pontja a 17/2020. (XII. 12.) HM rendelet 48. § a) pontja, 49. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (6) bekezdését a 2/2019. (I. 31.) HM rendelet 4. §-a iktatta be.

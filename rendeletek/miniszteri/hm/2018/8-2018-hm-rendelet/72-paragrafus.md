@@ -2,20 +2,30 @@
 
 ## 41. Szállás
 
-72. § (1) Az állomány tagja elhelyezését elsősorban a fogadó fél által rendelkezésre bocsátott szálláson kell biztosítani. Ez esetben a Honvédség megtéríti
+72. §[^83] (1) Az állomány tagja és családi átalány-költségtérítésre jogosító hozzátartozója elhelyezését elsősorban
 
-a) a szállás igénybevételével kapcsolatban felmerülő bérleti díjat, biztosítási díjat, valamint a szálláshoz kapcsolódó közüzemi szolgáltatások díját és
+a) a fogadó fél által rendelkezésre bocsátott szálláson, vagy
 
-b) az állomány tagja szolgálati célú telefonbeszélgetéseinek részletes számlával igazolt költségét.
+b) az illetékes logisztikai ellátó szerv által bérelt lakóingatlanban
 
-(2) Az állomány tagja viseli a tulajdonát képező vagyontárgyak biztosításának díját.
+## kell biztosítani.
 
-(3)[^58] Az (1) bekezdés szerinti elhelyezési lehetőség hiányában, vagy ha a családi átalány-költségtérítésre jogosító hozzátartozó is külföldön tartózkodik, az állomány tagja részére – a lakásigény jogos mértéke, valamint az észszerű takarékossági elvek szem előtt tartásával – lakóingatlant kell bérelni. Ez esetben az (1) bekezdés a) és b) pontját, továbbá a 19–22. §-t kell alkalmazni.
+(2) A Honvédség megtéríti
 
-(4)[^59] A (3) bekezdéstől eltérően, ha az állomány tagja családi átalány-költségtérítésre jogosító hozzátartozó nélkül tartózkodik külföldön, és saját elhatározásából költözik ki a fogadó fél által biztosított szállásról, részére szállásköltségként legfeljebb a felmondott szállás térítési díját kell megtéríteni.
+a) az (1) bekezdés a) pontja szerinti esetben a szállás igénybevételével kapcsolatban felmerülő bérleti díjat, biztosítási díjat, valamint a szálláshoz kapcsolódó közüzemi szolgáltatások díját,
 
-(5)[^60] Az (1)–(4) bekezdés szerinti költségek számla vagy a fogadó fél hivatalos igazolása alapján a 76. § és a 77. § figyelembevételével számolhatók el.
+b) az (1) bekezdés szerinti esetekben az állomány tagja szolgálati célú telefonbeszélgetéseinek részletes számlával igazolt költségét.
 
-[^58]: A 72. § (3) bekezdése a 2/2019. (I. 31.) HM rendelet 28. §-ával megállapított szöveg.
-[^59]: A 72. § (4) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 19. pontja szerint módosított szöveg.
-[^60]: A 72. § (5) bekezdése a 2/2019. (I. 31.) HM rendelet 39. § h) pontja szerint módosított szöveg.
+(3) A Honvédség viseli az (1) bekezdés b) pontja szerinti lakóingatlan igénybevételével kapcsolatban felmerült költségeket.
+
+(4) Az állomány tagja viseli a tulajdonát képező vagyontárgyak biztosításának díját.
+
+(5) Az (1) bekezdés a) pontja szerinti elhelyezési lehetőség hiányában, az ezt alátámasztó, a fogadó fél vagy annak hiányában a központi személyügyi szerv által kiállított igazolást az állomány tagja köteles az illetékes logisztikai és pénzügyi ellátó szerv részére az igazolás kiállítását követő 8 napon belül megküldeni.
+
+(6) Az (5) bekezdés szerinti esetben, továbbá az (1) bekezdés b) pontja szerinti lehetőség hiányában a 19–22. §-t kell alkalmazni.
+
+(7) Ha az állomány tagja saját elhatározásából nem veszi igénybe a fogadó fél által biztosított szállást, illetve az illetékes logisztikai ellátó szerv által bérelt lakóingatlant, részére szállásköltségként legfeljebb az igénybevételre nem kerülő szállás térítési díját kell megtéríteni.
+
+(8) A (2) és (7) bekezdés szerinti költségek számla vagy a fogadó fél hivatalos igazolása alapján számolhatóak el. A (2), a (6) és a (7) bekezdés szerinti elszámolásnál a 76–77. §-t is figyelembe kell venni.
+
+[^83]: A 72. § a 17/2020. (XII. 12.) HM rendelet 44. §-ával megállapított szöveg.

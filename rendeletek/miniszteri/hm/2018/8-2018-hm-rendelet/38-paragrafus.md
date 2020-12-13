@@ -1,6 +1,8 @@
 ## kell a Honvédség részére visszatéríteni.
 
-38. §[^40] (1) Az állomány tagjának írásbeli kérelmére, a külföldi szolgálat alatt egyszeri alkalommal, legfeljebb 6000 EUR vagy annak megfelelő összegű USD, CAD vagy GBP lakhatási átalány-költségtérítés előleg folyósítható az állomány tagja részére.
+38. §[^55] (1) Az állomány tagjának írásbeli kérelmére, a külföldi szolgálat alatt egyszeri alkalommal, legfeljebb 6000 EUR vagy annak megfelelő összegű USD, CAD vagy GBP lakhatási átalány-költségtérítés előleg folyósítható az állomány tagja részére.
+
+(1a)[^56] Az átalány-költségtérítés előleget abban a pénznemben kell folyósítani, amelyben a kiküldött a lakhatási átalány-költségtérítését kapja.
 
 (2) Az (1) bekezdés szerinti előleg kizárólag a lakásbérleti szerződés megkötésekor, a lakóingatlan és az ahhoz tartozó garázs bérleti díjának – ideértve az első havi lakbért – rendezésére használható fel.
 
@@ -10,4 +12,5 @@
 
 (5) A képviselet-vezető esetén az (1)–(3) bekezdés akkor alkalmazható, ha a 24. § (2) bekezdése alapján a képviselet-vezető a rezidencia felkutatására és a bérleti szerződés megkötésére kijelölt személy. A képviselet-vezető a lakhatási átalány-költségtérítés előleget az illetékes logisztikai ellátó szervtől kérheti, és az előleg felhasználásáról az illetékes logisztikai ellátó szerv felé számol el.
 
-[^40]: A 38. § a 2/2019. (I. 31.) HM rendelet 20. §-ával megállapított szöveg.
+[^55]: A 38. § a 2/2019. (I. 31.) HM rendelet 20. §-ával megállapított szöveg.
+[^56]: A 38. § (1a) bekezdését a 17/2020. (XII. 12.) HM rendelet 40. §-ával megállapított szöveg.

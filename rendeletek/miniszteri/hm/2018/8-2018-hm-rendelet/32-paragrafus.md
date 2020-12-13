@@ -16,15 +16,17 @@ e) a gyermek fogyatékos vagy tartósan beteg, amely miatt különleges odafigye
 
 (3) Az állomány tagja kérelmét a szolgálati elöljáróhoz nyújthatja be.
 
-(4) A tandíjköltséghez történő hozzájárulásról mérlegelési jogkörben – az állomány tagja külszolgálati ellátmánya és családi átalány-költségtérítése együttes összegének, valamint a szociális és a gazdaságossági szempontok figyelembevételével – a HM VGHÁT dönt. A tandíjköltséghez történő hozzájárulásra vonatkozó engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára szól.
+(4)[^48] A tandíjköltséghez történő hozzájárulásról mérlegelési jogkörben – az állomány tagja külszolgálati ellátmánya és családi átalány-költségtérítése együttes összegének, valamint a szociális és a gazdaságossági szempontok figyelembevételével – a HM KÁT dönt. A tandíjköltséghez történő hozzájárulásra vonatkozó engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára szól.
 
-(5) A tandíjköltséghez történő hozzájárulás mértékét a 3. melléklet tartalmazza. A tandíjköltséghez történő hozzájárulás mértékének megállapítása során
+(5)[^49] A tandíjköltséghez történő hozzájárulás tanévre, illetve nevelési évre vonatkozó mértékét a 3. melléklet tartalmazza. A tandíjköltséghez történő hozzájárulás mértékének megállapítása során
 
 a) a kettő vagy annál több juttatásra jogosító gyermek esetén elsőként a legalacsonyabb összegű tandíjköltséget kell alapul venni,
 
-b) a negyedik és minden további juttatásra jogosító gyermek esetén ugyanazt a százalékos mértéket kell alkalmazni, mint ami a harmadik gyermek esetén irányadó, és
+b) a negyedik és minden további juttatásra jogosító gyermek esetén ugyanazt a százalékos mértéket kell alkalmazni, mint ami a harmadik gyermek esetén irányadó,
 
-c) a juttatásra jogosító gyermekek számának megállapításánál a fogyatékos vagy tartósan beteg gyermeket nem kell figyelembe venni.
+c) a juttatásra jogosító gyermekek számának megállapításánál a fogyatékos vagy tartósan beteg gyermeket nem kell figyelembe venni, és
+
+d) kettő vagy annál több juttatásra jogosító gyermek esetén – ha a kérelmet az állomány tagja nem ugyanazon tanévben nyújtja be a gyermekekre vonatkozóan – a már jóváhagyott hozzájárulás összegét felül kell vizsgálni, és szükség esetén azt korrigálni kell.
 
 (6) A tandíjköltség tandíjköltség-hozzájáruláson felüli része (a továbbiakban: önerő) az állomány tagját terheli.
 
@@ -32,8 +34,16 @@ c) a juttatásra jogosító gyermekek számának megállapításánál a fogyat�
 
 (8) Az ugyanazon állomáshelyen külföldi szolgálatot teljesítő házastársak külszolgálati ellátmányát és családi átalány-költségtérítését együttesen kell figyelembe venni.
 
-(9)[^37] A tandíjköltséghez történő hozzájárulás összegét juttatásra jogosító gyermekenként abban a pénznemben kell megállapítani és folyósítani, amelyben az állomány tagja külszolgálati ellátmánya megállapításra került. Az ettől eltérő pénznemben felmerülő tandíjköltség esetén annak összegét a (3) bekezdés szerinti kérelem benyújtását megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell átszámítani. Az MNB által nem jegyzett, az MNB hivatalos devizalapján nem szereplő, egyéb árfolyamok esetében a kérelem benyújtását megelőző hónap 1. napján, az MNB által közzétett árfolyamon kell a tandíjköltséget EUR-ra átszámítani.
+(9)[^50] A tandíjköltséghez történő hozzájárulás összegét juttatásra jogosító gyermekenként abban a pénznemben kell megállapítani és folyósítani, amelyben az állomány tagja külszolgálati ellátmánya megállapításra került. Az ettől eltérő pénznemben felmerülő tandíjköltség esetén annak összegét a (3) bekezdés szerinti kérelem benyújtását megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell átszámítani. Az MNB által nem jegyzett, az MNB hivatalos devizalapján nem szereplő, egyéb árfolyamok esetében a kérelem benyújtását megelőző hónap 1. napján, az MNB által közzétett árfolyamon kell a tandíjköltséget EUR-ra átszámítani.
 
 (10) Az állomány tagja köteles a (3) bekezdés szerinti kérelemben nyilatkozni arról, hogy házastársa ugyanazon gyermek után hasonló juttatásban nem részesül.
 
-[^37]: A 32. § (9) bekezdése a 2/2019. (I. 31.) HM rendelet 17. §-ával megállapított szöveg.
+(11)[^51] Ha a tandíjköltséget az állomány tagjának egy összegben kell befizetnie, akkor a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője engedélyezheti a tandíjköltséghez történő hozzájárulás jóváhagyott összegének előlegként történő kifizetését. A folyósított előleggel az állomány tagja köteles a folyósítás napjától számított 30 napon belül elszámolni.
+
+(12)[^52] A tandíjköltséghez való hozzájárulást a számla beérkezését követő 15 napon belül, a tandíjköltség és a tandíjköltséghez való hozzájárulás engedélyezett éves összege figyelembevételével, arányosan kell kifizetni.
+
+[^48]: A 32. § (4) bekezdése a 17/2020. (XII. 12.) HM rendelet 48. § c) pontja szerint módosított szöveg.
+[^49]: A 32. § (5) bekezdése a 17/2020. (XII. 12.) HM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^50]: A 32. § (9) bekezdése a 2/2019. (I. 31.) HM rendelet 17. §-ával megállapított szöveg.
+[^51]: A 32. § (11) bekezdését a 17/2020. (XII. 12.) HM rendelet 39. § (2) bekezdése iktatta be.
+[^52]: A 32. § (12) bekezdését a 17/2020. (XII. 12.) HM rendelet 39. § (2) bekezdése iktatta be.

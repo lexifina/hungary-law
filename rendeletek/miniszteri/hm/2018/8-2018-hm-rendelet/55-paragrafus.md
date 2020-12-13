@@ -36,7 +36,7 @@ a) a lakóingatlanban elhelyezett honvédségi tulajdonú berendezési tárgyak 
 
 b) a lakóingatlan és a garázs biztosítási díját,
 
-c) a technikai biztosítás költségét, ha az állomány tagja személyi biztonsága érdekében annak szükségességét az illetékes logisztikai ellátó szerv javaslata alapján a HM VGHÁT megállapítja, és
+c)[^71] a technikai biztosítás költségét, ha az állomány tagja személyi biztonsága érdekében annak szükségességét az illetékes logisztikai ellátó szerv javaslata alapján a HM KÁT megállapítja, és
 
 d) a közüzemi szolgáltatások felhasznált mennyiségének mérésére szolgáló mérőkészülékek beszerelésének, cseréjének költségét.
 
@@ -59,3 +59,5 @@ e) köteles megtéríteni a Honvédségnek a közüzemi szolgáltatások tényle
 a) a bérbeadó tulajdonát képezik, de a bérlés ideje alatt azokat a lakóingatlanban hagyja, és használatra átengedi az állomány tagja részére, kivéve, ha a lakásbérletről szóló szerződés másként rendelkezik, valamint
 
 b) külön szolgáltatótól kerülnek bérlésre, és a bérlés díja a biztosítási díjat nem tartalmazza.
+
+[^71]: Az 55. § (10) bekezdés c) pontja a 17/2020. (XII. 12.) HM rendelet 48. § c) pontja szerint módosított szöveg.
