@@ -6,6 +6,7 @@
 
 (2) Évente összesen legfeljebb száz Miniszteri Elismerő Oklevél adományozható.
 
-(3) Az adományozó azokat a Miniszteri Elismerő Oklevélben részesülő természetes személyeket, akik a Miniszteri Elismerő Oklevélben a kivételesen áldozatkész munkájuk, kiemelkedő teljesítményük vagy rendkívüli helytállásuk miatt részesültek, pénzjutalomban is részesítheti. A pénzjutalom maximális összege a honvédelmi illetményalap tízszeresének megfelelő összeg, amely ajándékutalvány formájában is biztosítható.
+(3)[^16] Az adományozó azokat a Miniszteri Elismerő Oklevélben részesülő természetes személyeket, akik a Miniszteri Elismerő Oklevélben a kivételesen áldozatkész munkájuk, kiemelkedő teljesítményük vagy rendkívüli helytállásuk miatt részesültek, pénzjutalomban is részesítheti. A pénzjutalom maximális összege a honvédelmi illetményalap tízszeresének megfelelő összeg.
 
 [^15]: A 20. alcím (21. §) a 15/2016. (VIII. 31.) HM rendelet 6. §-ával megállapított szöveg.
+[^16]: A 21. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 19. §-a szerint módosított szöveg.

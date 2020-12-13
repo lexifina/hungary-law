@@ -1,8 +1,8 @@
 ## 21. Emléktárgyak
 
-22. § (1)[^16] Emléktárgy adományozható kiemelt feladat, gyakorlat végrehajtása során nyújtott kiemelkedő teljesítményért, különleges helytállásért, huzamos időn át példamutatóan ellátott szolgálatteljesítésért, jeles nap alkalmából, valamint az életút elismerésére a személyi állományból történő kiválás alkalmából.
+22. § (1)[^17] Emléktárgy adományozható kiemelt feladat, gyakorlat végrehajtása során nyújtott kiemelkedő teljesítményért, különleges helytállásért, huzamos időn át példamutatóan ellátott szolgálatteljesítésért, jeles nap alkalmából, valamint az életút elismerésére a személyi állományból történő kiválás alkalmából.
 
-(2)[^17] Az állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja részére 50. születésnapja alkalmából emléktárgyként:
+(2)[^18] Az állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja részére 50. születésnapja alkalmából emléktárgyként:
 
 a) a tábornoki állománycsoport, ezredes vagy főtörzszászlós rendfokozat esetén díszkard,
 
@@ -18,5 +18,5 @@ d) altiszti állománycsoport esetén dísztőr bronz kivitelben
 
 (4) A személyi állományból történő végleges kiválás alkalmából az emléktárgy mellett más, e rendelet szerinti elismerés is adományozható.
 
-[^16]: A 22. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § c) pontja szerint módosított szöveg.
-[^17]: A 22. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 83. §-ával megállapított szöveg.
+[^17]: A 22. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § c) pontja szerint módosított szöveg.
+[^18]: A 22. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 83. §-ával megállapított szöveg.

@@ -4,13 +4,13 @@
 
 (2) Az elismerések átadása központi ünnepségen, állománygyűlésen vagy külön ünnepségen történhet.
 
-(3)[^56] Az elismerést a Magyar Honvédség parancsnoka vagy az általa megbízott személy adja át.
+(3)[^59] Az elismerést a Magyar Honvédség parancsnoka vagy az általa megbízott személy adja át.
 
-(3a)[^57] Az Év Katonája Kitüntető Címet a Magyar Honvédség parancsnoka május 21-én adja át.
+(3a)[^60] Az Év Katonája Kitüntető Címet a Magyar Honvédség parancsnoka május 21-én adja át.
 
 (4) A Kiváló Tanulmányokért Kitüntető Címet a tanulmányok befejeztével az első beosztásba történő kinevezéssel egyidejűleg, ünnepélyes keretek között kell átadni.
 
 (5) Az elismerések átadására a 33. § (7) bekezdését, a közzétételre a 35. §-t alkalmazni kell.
 
-[^56]: A 44. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja szerint módosított szöveg.
-[^57]: A 44. § (3a) bekezdését a 14/2015. (XII. 17.) HM rendelet 9. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja szerint módosított szöveg.
+[^59]: A 44. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja szerint módosított szöveg.
+[^60]: A 44. § (3a) bekezdését a 14/2015. (XII. 17.) HM rendelet 9. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
 ## HARMADIK RÉSZ
 
-## A MAGYAR HONVÉDSÉG PARANCSNOKA ÁLTAL ALAPÍTHATÓ ÉS ADOMÁNYOZHATÓ ELISMERÉSEK[^46]
+## A MAGYAR HONVÉDSÉG PARANCSNOKA ÁLTAL ALAPÍTHATÓ ÉS ADOMÁNYOZHATÓ ELISMERÉSEK[^49]
 
-## VIII/A. Fejezet[^47]
+## VIII/A. Fejezet[^50]
 
 ## AZ ÉRDEMJELEK
 
@@ -26,5 +26,5 @@ b) ezüst fokozatban legfeljebb 30 fő,
 
 c) bronz fokozatban legfeljebb 50 fő
 
-[^46]: A Harmadik rész címe a 20/2018. (XII. 28.) HM rendelet 89. § h) pontja szerint módosított szöveg.
-[^47]: A VIII/A. fejezetet (38/A–38/C. §) a 20/2018. (XII. 28.) HM rendelet 85. §-a iktatta be.
+[^49]: A Harmadik rész címe a 20/2018. (XII. 28.) HM rendelet 89. § h) pontja szerint módosított szöveg.
+[^50]: A VIII/A. fejezetet (38/A–38/C. §) a 20/2018. (XII. 28.) HM rendelet 85. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 24/b. [^27] Görgei Artúr-életműdíj
+## 24/b. [^28] Görgei Artúr-életműdíj
 
 25/B. § (1) A katonai pályafutásának és a Magyar Honvédség érdekében végzett kiemelkedő szolgálatteljesítésének elismeréseként Görgei Artúr-életműdíj adományozható a Hjt. 2. § 30. pontja szerinti nyugállományú tiszt vagy altiszt részére.
 
@@ -10,4 +10,4 @@
 
 (5) A Görgei Artúr-életműdíj első alkalommal 2019-ben adományozható.
 
-[^27]: A 24/b. alcímet (25/B. §) a 11/2019. (XI. 19.) HM rendelet 3. §-a iktatta be.
+[^28]: A 24/b. alcímet (25/B. §) a 11/2019. (XI. 19.) HM rendelet 3. §-a iktatta be.

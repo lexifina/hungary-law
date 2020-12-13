@@ -2,12 +2,12 @@
 
 a) az állomány tagja esetén a Honvédség központi személyügyi szervének,
 
-b)[^31] az a) pontba nem tartozó személyek esetén a HM TVMCS elnökének.
+b)[^33] az a) pontba nem tartozó személyek esetén a HM TVMCS elnökének.
 
-(2)[^32]
+(2)[^34]
 
-(3)[^33] A Maléter Pál Emlékérmet a miniszter a HM TVMCS javaslata alapján adományozza. A HM TVMCS javaslatát évente szeptember 15-ig terjeszti fel a miniszternek.
+(3)[^35] A Maléter Pál Emlékérmet a miniszter a HM TVMCS javaslata alapján adományozza. A HM TVMCS javaslatát évente szeptember 15-ig terjeszti fel a miniszternek.
 
-[^31]: A 29. § (1) bekezdés b) pontja a 14/2015. (XII. 17.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^32]: A 29. § (2) bekezdését a 14/2015. (XII. 17.) HM rendelet 13. §-a hatályon kívül helyezte.
-[^33]: A 29. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^33]: A 29. § (1) bekezdés b) pontja a 14/2015. (XII. 17.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^34]: A 29. § (2) bekezdését a 14/2015. (XII. 17.) HM rendelet 13. §-a hatályon kívül helyezte.
+[^35]: A 29. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
