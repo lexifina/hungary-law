@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-140-00-00
 | --- | --- | --- |
 | 2020-12-12 | 2020. évi CXL. törvény | 2020-140-00-00.0 (közlönyállapot) |
 | 2020-12-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-140-00-00.1 |
+| 2020-12-13 | 2010. évi CXXX. törvény | 2020-140-00-00.2 |
