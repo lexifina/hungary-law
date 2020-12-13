@@ -1,4 +1,4 @@
-## 12/A. §[^1] A mindenkori Országos Képzési Jegyzékben nyilvántartott, korábban emelt szintű szakképesítésként megszerezhető szakképesítéseket a Haj.tv. 62. § (1) bekezdésének, valamint a Haj.tv. 64. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
+## 12/A. §[^2] A mindenkori Országos Képzési Jegyzékben nyilvántartott, korábban emelt szintű szakképesítésként megszerezhető szakképesítéseket a Haj.tv. 62. § (1) bekezdésének, valamint a Haj.tv. 64. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
 
 ## 4. A minősítés
 
@@ -34,4 +34,4 @@ minősítést kap a honvédelmi alkalmazott.
 
 (7) A honvédelmi alkalmazott minősítésének eredményét a HM KGIR alkalmazásban kell rögzíteni.
 
-[^1]: A 12/A. §-t a 13/2020. (X. 14.) HM rendelet 51. §-a iktatta be.
+[^2]: A 12/A. §-t a 13/2020. (X. 14.) HM rendelet 51. §-a iktatta be.

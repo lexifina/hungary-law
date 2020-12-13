@@ -5,3 +5,7 @@
 (3) A kiadmányozási jog átruházása nem érinti a munkáltatói jogkört gyakorló személyét, döntési jogát és felelősségét, valamint – ha a jogorvoslatot jogszabály biztosítja – a jogorvoslat igénybevételének lehetőségét, az elbírálás rendjét és jogosultját.
 
 (4) A munkáltatói jogkört gyakorlót – távolléte vagy akadályoztatása esetén, továbbá ha a beosztás, munkakör ideiglenesen nincs betöltve – az erre jogszabályban vagy a honvédelmi szervezet szervezeti és működési szabályzatában kijelölt személy helyettesíti.
+
+(5)[^1] A honvédelmi alkalmazott alap-, illetve pótszabadságának kiadására a munkáltatói jogkört gyakorló, vagy az általa belső rendelkezésben kijelölt hivatali felettes jogosult.
+
+[^1]: A 4. § (5) bekezdését a 17/2020. (XII. 12.) HM rendelet 50. §-a iktatta be.
