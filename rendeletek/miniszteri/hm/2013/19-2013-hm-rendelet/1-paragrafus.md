@@ -14,7 +14,7 @@
 
 4. helyközi utazás: a közigazgatási határon kívülről a lakóhely vagy a tartózkodási hely, valamint a szolgálatteljesítés vagy a munkavégzés (a továbbiakban együtt: szolgálatteljesítés) helye között szolgálatteljesítési célból történő utazás, ideértve az átutazás céljából helyi közösségi közlekedéssel megvalósuló utazást;
 
-5.[^5] honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény;
+5.[^5]
 
 6. honvédségi szálláshely: a Lakásrendeletben meghatározott helyőrségi szállón lévő szállóférőhely, valamint a laktanyai tiszti vagy altiszti szálláson lévő férőhely;
 
@@ -30,7 +30,7 @@ a) rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli szer
 
 b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli utaltsági rend szerinti pénzügyi és számviteli szervezeti elem;
 
-10.[^8] saját személygépkocsi: a honvéd, a honvédelmi alkalmazott, a közalkalmazott vagy ezeknek a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozója tulajdonában lévő, a közúti közlekedés szabályairól szóló jogszabály szerinti személygépkocsi;
+10.[^8] saját személygépkocsi: a honvéd, a honvédelmi alkalmazott, a közalkalmazott vagy ezeknek a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozója tulajdonában lévő, vagy általuk zárt végű lízingbe vett, a közúti közlekedés szabályairól szóló jogszabály szerinti személygépkocsi;
 
 11. vonzáskörzet: az a település, amely közelebb eső közigazgatási határa a szolgálatteljesítési hely szerinti település közigazgatási határától közforgalom számára nyitott, szilárd burkolatú úton mért, legfeljebb 40 km-es távolságra van, és amelytől a szolgálatteljesítési hely szerinti település menetrend szerint közlekedő közösségi közlekedési eszközzel legfeljebb egy óra alatt megközelíthető.
 
@@ -48,10 +48,10 @@ b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli 
 [^2]: Az 1. § (1) bekezdés 2. pontja a 10/2017. (VIII. 31.) HM rendelet 48. §-ával megállapított, a 20/2018. (XII. 28.) HM rendelet 95. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés 3. pontja a 4/2014. (III. 20.) HM rendelet 7. § c) pontja, a 20/2018. (XII. 28.) HM rendelet 95. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés 3a. pontját a 6/2015. (VI. 22.) HM rendelet 5. § (1) bekezdése iktatta be.
-[^5]: Az 1. § (1) bekezdés 5. pontja az 5/2015. (VI. 22.) HM rendelet 5. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés 5. pontját a 17/2020. (XII. 12.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § (1) bekezdés 8. pontja a 26/2016. (XII. 22.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (1) bekezdés 8a. pontját a 20/2018. (XII. 28.) HM rendelet 91. §-a iktatta be.
-[^8]: Az 1. § (1) bekezdés 10. pontja a 12/2018. (VII. 27.) HM rendelet 34. § (1) bekezdésével megállapított, a 20/2018. (XII. 28.) HM rendelet 95. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. § (1) bekezdés 10. pontja a 17/2020. (XII. 12.) HM rendelet 20. §-ával megállapított szöveg.
 [^9]: Az 1. § (1a) bekezdését a 12/2018. (VII. 27.) HM rendelet 34. § (2) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 95. § c) pontja szerint módosított szöveg.
 [^10]: Az 1. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 95. § d) pontja szerint módosított szöveg.
 [^11]: Az 1. § (3) bekezdése a 26/2016. (XII. 22.) HM rendelet 11. § (4) bekezdésével megállapított, a 12/2018. (VII. 27.) HM rendelet 38. §-a szerint módosított szöveg.

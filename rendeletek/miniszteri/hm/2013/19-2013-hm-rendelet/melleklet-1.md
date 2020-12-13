@@ -1,6 +1,4 @@
-## 40. §[^79] A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet időtartama alatt az állományilletékes parancsnok a 12. § (2) bekezdése szerinti CASCO biztosítás meglététől a veszélyhelyzettel kapcsolatos feladatok ellátása érdekében eltekinthet.
-
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^80]
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^84]
 
 ……………………………………….
 
@@ -164,13 +162,13 @@ A havi bérlet/egy útra szóló menetjegy* teljes ára: Ft
 
 – 100% (csak a vezényelt és a családjától különélő, szolgálat
 
-érdekében áthelyezett állomány esetében) – bérletszelvény és számla leadása ellenében
+érdekében áthelyezett állomány esetében) – bérletszelvény leadása ellenében
 
-– miniszteri utasításban meghatározott mérték – bérletszelvény és számla leadása ellenében
+– miniszteri utasításban meghatározott mérték – bérletszelvény leadása ellenében
 
 4.8.3. A szolgálatteljesítés helye/vezénylés helye* szerinti településen érvényes bérlet teljes ára: Ft
 
-4.8.4. Helyi bérlethez való hozzájárulás mértéke a lakóhely/tartózkodási hely szerinti településen*: miniszteri utasításban meghatározott mérték – bérletszelvény és számla leadása ellenében
+4.8.4. Helyi bérlethez való hozzájárulás mértéke a lakóhely/tartózkodási hely szerinti településen*: miniszteri utasításban meghatározott mérték – bérletszelvény leadása ellenében
 
 4.8.5. A lakóhely/tartózkodási hely szerinti településen* érvényes bérlet teljes ára: Ft
 
@@ -256,5 +254,4 @@ aláírás
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^79]: A 40. §-t az 5/2020. (III. 31.) HM rendelet 1. §-a iktatta be.
-[^80]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja szerint módosított szöveg.
+[^84]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja, a 17/2020. (XII. 12.) HM rendelet 29. § b) pontja szerint módosított szöveg.

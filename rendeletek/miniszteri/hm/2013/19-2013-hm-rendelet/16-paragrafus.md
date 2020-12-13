@@ -24,7 +24,7 @@ bd) helyőrségi szállóként hasznosított HM rendelkezésű lakást bérel va
 
 (6)[^30] A Korm. rendelet 5. §-a szerinti munkába járás költségeinek megtérítését az állományilletékes parancsnok a rendelkezésére álló költségvetési fedezet megléte esetén engedélyezheti. A költségvetési fedezet rendelkezésre állását illetően a Honvédség központi pénzügyi és számviteli feladatokat ellátó szervezete e tárgyban kiadott tájékoztatását kell irányadónak tekinteni.
 
-(7)[^31] A helyközi munkába járásra szolgáló félhavi, havi vagy 30 napos bérletektől eltérő időtartamra szóló és a helyközi munkába járással összefüggésben vásárolt helyi negyedéves, féléves és éves bérlet elszámolását a gazdaságosság és az esetleges visszatérítési lehetőség figyelembevételével az állományilletékes parancsnok jogosult engedélyezni. A MÁV START Klub kártyacsaládba tartozó kártya vásárlása esetén kizárólag a „Bónusz kártya” ára (1) bekezdés szerinti mértékének megfelelő összeg számolható el.
+(7)[^31] A helyközi munkába járásra szolgáló félhavi, havi vagy 30 napos bérletektől eltérő időtartamra szóló és a helyközi munkába járással összefüggésben vásárolt helyi negyedéves, féléves és éves bérlet elszámolását a gazdaságosság és az esetleges visszatérítési lehetőség figyelembevételével az állományilletékes parancsnok jogosult engedélyezni. A MÁV START Klub kártyacsaládba tartozó kártya vásárlása esetén kizárólag a „Bónusz kártya” ára (1) bekezdés szerinti mértékének jogosultat – az adó- és járulékkedvezmények figyelembevétele nélkül – terhelő közteherrel megnövelt összege számolható el.
 
 (8)[^32] A negyedévesnél hosszabb időszakra érvényes bérlet és a MÁV START Klub kártyacsaládba tartozó kártya gazdaságosságának megállapításakor figyelembe kell venni, hogy a bérlet vagy a MÁV START Klub kártyacsaládba tartozó kártya használatára jogosító feltételekben bekövetkező változások, különösen a szolgálati viszony, honvédelmi alkalmazotti jogviszony vagy a közalkalmazotti jogviszony esetleges megszűnése esetén az ezekkel összefüggésben keletkező túlfizetés előreláthatóan miként térül meg.
 
@@ -38,7 +38,7 @@ bd) helyőrségi szállóként hasznosított HM rendelkezésű lakást bérel va
 [^28]: A 16. § (4) bekezdése a 12/2018. (VII. 27.) HM rendelet 35. §-ával megállapított szöveg.
 [^29]: A 16. § (5) bekezdése a 26/2016. (XII. 22.) HM rendelet 14. § (1) bekezdésével megállapított, nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 95. § e) pontja szerint módosított szöveg.
 [^30]: A 16. § (6) bekezdése a 10/2017. (VIII. 31.) HM rendelet 49. §-ával megállapított szöveg.
-[^31]: A 16. § (7) bekezdése a 26/2016. (XII. 22.) HM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^31]: A 16. § (7) bekezdése a 17/2020. (XII. 12.) HM rendelet 23. §-ával megállapított szöveg.
 [^32]: A 16. § (8) bekezdése a 26/2016. (XII. 22.) HM rendelet 14. § (2) bekezdésével megállapított, a 20/2018. (XII. 28.) HM rendelet 95. § h) pontja szerint módosított szöveg.
 [^33]: A 16. § (9) bekezdése a 26/2016. (XII. 22.) HM rendelet 14. § (2) bekezdésével megállapított szöveg.
 [^34]: A 16. § (10) bekezdését a 26/2016. (XII. 22.) HM rendelet 14. § (3) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 95. § d) és i) pontja szerint módosított szöveg.
