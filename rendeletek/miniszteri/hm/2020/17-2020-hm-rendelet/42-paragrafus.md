@@ -1,0 +1,1 @@
+## „b) külföldi szolgálat megszűnése vagy megszüntetése esetén történő kifizetését a külföldi szolgálat vezénylésének megszűnését megállapító, vagy megszüntetését elrendelő okmány pénzügyi ellátást végző szervezethez történő megérkezését követő 10 munkanapon belül kell végrehajtani.”

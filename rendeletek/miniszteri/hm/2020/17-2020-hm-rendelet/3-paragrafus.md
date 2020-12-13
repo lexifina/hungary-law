@@ -1,0 +1,1 @@
+## „(1a) A Hvt. 79/C. §-ában nevesített gépjárművel vagy gépjárműben okozott kár esetén, ha a kárfelvételi jegyzőkönyv adatai alapján az állomány tagjának kártérítésre kötelezésére jogszabályban foglalt kizáró okok alapján nincs lehetőség, a 36. §-ban foglaltaknak megfelelően kell eljárni.”
