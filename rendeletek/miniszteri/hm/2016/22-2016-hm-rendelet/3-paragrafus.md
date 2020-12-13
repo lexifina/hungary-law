@@ -8,8 +8,8 @@ c) a 2. § (3) bekezdése szerinti jogosultnak legkésőbb a tárgyhónapot köv
 
 ## kell jóváírni.
 
-(2)[^11] A SZÉP juttatást – ha az állomány tagja, a honvédelmi alkalmazott vagy a közalkalmazott nem rendelkezik Széchenyi Pihenő Kártyával – a Széchenyi Pihenő Kártyával történő ellátást követő hónap 15. munkanapjáig kell jóváírni.
+(2)[^12] A SZÉP juttatást az átutaláshoz szükséges korlátozott rendeltetésű fizetési számla számának honvédelmi szervezet részére történő bejelentését követő hónapban, a jogosultság fennállásától kezdődően, visszamenőleg kell biztosítani.
 
 (3) A jogszerűen átutalt béren kívüli juttatást a jóváírását követően visszakövetelni nem lehet.
 
-[^11]: A 3. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 114. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése a 17/2020. (XII. 12.) HM rendelet 30. §-ával megállapított szöveg.
