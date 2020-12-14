@@ -40,13 +40,14 @@
 
 ## Határidő: azonnal
 
-## f) az Áht. 36. § (4b) bekezdésében, (4c) bekezdés a) pontjában, valamint az Ávr. 45/A. §-ában biztosított jogkörében eljárva egyetért azzal, hogy a honvédelmi miniszter – az irányítása alatt álló Védelemgazdasági Hivatal útján – a tatai Klapka György laktanya 20. épületének bővítése és felújítása érdekében a XIII. Honvédelmi Minisztérium fejezet, 2. Egyéb HM szervezetek címen a 2020. évben 2 200 000 000 forint, a 2021. évben 6 300 000 000 forint, mindösszesen a 2020–2021. években 8 500 000 000 forint összegben kötelezettséget vállaljon.
+## f)[^1] az Áht. 36. § (4b) bekezdésében, (4c) bekezdés a) pontjában, valamint az Ávr. 45/A. §-ában biztosított jogkörében eljárva egyetért azzal, hogy a honvédelmi miniszter – az irányítása alatt álló HM Védelemgazdasági Hivatal útján – a tatai Klapka György laktanya 20. épületének bővítése és felújítása érdekében a XIII. Honvédelmi Minisztérium fejezet, 1. Honvédelmi Minisztérium 2. Egyéb HM szervezetek költségvetési alcímen a 2020. évben 2 617 215 694 forint, a 2021. évben 6 300 000 000 forint, mindösszesen a 2020–2021. években 8 917 215 694 forint összegben kötelezettséget vállaljon.
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
 1. melléklet az 1273/2020. (VI. 2.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 1. pont f) alpontja az 1899/2020. (XII. 14.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
