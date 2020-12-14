@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1692-30
 | --- | --- | --- |
 | 2019-12-10 | 2019-1692-30-22.1 | 1692/2019. (XII. 10.) Korm. határozat |
 | 2020-10-05 | 2019-1692-30-22.2 | 1639/2020. (X. 5.) Korm. határozat |
+| 2020-12-14 | 2019-1692-30-22.3 | 1899/2020. (XII. 14.) Korm. határozat |

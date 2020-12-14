@@ -8,7 +8,7 @@
 
 ## 5.[^1] a fejlesztéseknek a megvalósíthatósági tanulmányainak elkészítésére a 4. pontban meghatározott forrást biztosítja azzal, hogy az előkészítési fázist legkésőbb 2020. október 15. napjáig kell megvalósítani;
 
-## 6. felhívja a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel – gondoskodjon az 5. pont szerinti összeg rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet javára;
+## 6.[^2] felhívja a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel – gondoskodjon az 5. pont szerinti összeg rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet javára;
 
 ## Az átcsoportosítás tekintetében
 
@@ -22,7 +22,7 @@
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-## Határidő: 2020. július 30.
+## Határidő: 2020. december 15.
 
 ## 7. egyetért azzal, hogy az osztott tulajdoni formák elkerülése érdekében az új iskola építése, létesítése típusú beruházások előfeltétele, hogy a beruházások helyszínéül szolgáló ingatlanok ingyenesen az állam tulajdonába kerüljenek;
 
@@ -30,9 +30,9 @@
 
 ## 9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy készítsen a Kormány részére
 
-## a)[^2]
+## a)[^3]
 
-## b)[^3] előterjesztést – az emberi erőforrások minisztere bevonásával – az 5. pont szerinti előkészítési fázis eredményeként a fejlesztések előkészítésének folytatásáról, annak ütemezett forrásigényének, valamint a fejlesztések helyszíneire vonatkozó javaslat bemutatásával.
+## b)[^4] előterjesztést – az emberi erőforrások minisztere bevonásával – az 5. pont szerinti előkészítési fázis eredményeként a fejlesztések előkészítésének folytatásáról, annak ütemezett forrásigényének, valamint a fejlesztések helyszíneire vonatkozó javaslat bemutatásával.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -77,5 +77,6 @@
 | 16. | Tahitótfalu | Váci | működő köznevelési intézmény bővítése | új 8 tantermes iskola |
 
 [^1]: Az 5. pont az 1639/2020. (X. 5.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
-[^2]: A 9. pont a) alpontját az 1639/2020. (X. 5.) Korm. határozat 2. pontja visszavonta.
-[^3]: A 9. pont b) alpontja az 1639/2020. (X. 5.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^2]: A 6. pont az 1899/2020. (XII. 14.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^3]: A 9. pont a) alpontját az 1639/2020. (X. 5.) Korm. határozat 2. pontja visszavonta.
+[^4]: A 9. pont b) alpontja az 1639/2020. (X. 5.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
