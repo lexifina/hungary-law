@@ -1,1 +1,0 @@
-## „(3) Ha az állomány tagjának ellátmánya a 7. § (5) bekezdése alkalmazásával került megállapításra, a kiküldetés időtartamára vonatkozóan a megállapított ellátmány összegét, a kiküldetés időtartama alatt biztosított térítésmentes élelmezési ellátás figyelembevételével felül kell vizsgálni.”

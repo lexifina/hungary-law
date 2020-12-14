@@ -1,3 +1,0 @@
-## „(11) Ha a tandíjköltséget az állomány tagjának egy összegben kell befizetnie, akkor a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője engedélyezheti a tandíjköltséghez történő hozzájárulás jóváhagyott összegének előlegként történő kifizetését. A folyósított előleggel az állomány tagja köteles a folyósítás napjától számított 30 napon belül elszámolni.
-
-## (12) A tandíjköltséghez való hozzájárulást a számla beérkezését követő 15 napon belül, a tandíjköltség és a tandíjköltséghez való hozzájárulás engedélyezett éves összege figyelembevételével, arányosan kell kifizetni.”

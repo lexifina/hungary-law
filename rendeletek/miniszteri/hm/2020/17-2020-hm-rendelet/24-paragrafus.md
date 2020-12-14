@@ -1,3 +1,0 @@
-## 23. § Az R4. 16. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A helyközi munkába járásra szolgáló félhavi, havi vagy 30 napos bérletektől eltérő időtartamra szóló és a helyközi munkába járással összefüggésben vásárolt helyi negyedéves, féléves és éves bérlet elszámolását a gazdaságosság és az esetleges visszatérítési lehetőség figyelembevételével az állományilletékes parancsnok jogosult engedélyezni. A MÁV START Klub kártyacsaládba tartozó kártya vásárlása esetén kizárólag a „Bónusz kártya” ára (1) bekezdés szerinti mértékének jogosultat – az adó- és járulékkedvezmények figyelembevétele nélkül – terhelő közteherrel megnövelt összege számolható el.”
