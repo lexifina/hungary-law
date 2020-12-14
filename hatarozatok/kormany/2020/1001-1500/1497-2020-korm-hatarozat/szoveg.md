@@ -8,7 +8,7 @@ a) az állami magasépítési beruházások megvalósításáról szóló 2018. 
 
 b) a Miskolci Tankerületi Központ vagyonkezelésébe kerüljenek;
 
-3. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 439 193 197 forintban határozza meg;
+3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 466 563 057 forintban határozza meg;
 
 4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 24. Kistokaji Általános Iskola tanterem fejlesztés megvalósítása alcímmel egészíti ki;
 
@@ -35,3 +35,5 @@ Határidő: a felmerülés ütemében
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. december 31.
+
+[^1]: A 3. pont az 1899/2020. (XII. 14.) Korm. határozat 10. pontja szerint módosított szöveg.
