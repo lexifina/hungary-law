@@ -14,7 +14,7 @@ Határidő: folyamatos
 
 5. támogatja, hogy az Európa-liga döntő rendezési jogának elnyerése esetén a Szövetség megrendezze az Európa-liga döntőt;
 
-6. felhívja az emberi erőforrások miniszterét, hogy az Európa-liga döntő rendezési jogának elnyerése esetén – a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos és a Miniszterelnökséget vezető miniszter bevonásával – készítsen előterjesztést az Európa-liga döntő megrendezéséhez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
+6.[^1] felhívja az emberi erőforrások miniszterét, hogy az Európa-liga döntő rendezési jogának elnyerése esetén – a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos és a Miniszterelnökséget vezető miniszter bevonásával – készítsen előterjesztést az Európa-liga döntő megrendezéséhez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
 
 Felelős: emberi erőforrások minisztere
 
@@ -22,7 +22,7 @@ kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felel�
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: az Európa-liga döntő rendezési jogának elnyerése esetén 2020. december 31.
+Határidő: 2021. december 31.
 
 7. felhívja a miniszterelnök kabinetfőnökét, hogy gondoskodjon a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság útján az Európa-liga döntő lebonyolításához kapcsolódó turisztikai szempontok érvényesítéséről;
 
@@ -35,3 +35,5 @@ Határidő: az Európa-liga döntő rendezési jogának elnyerése esetén az Eu
 Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: az Európa-liga döntő rendezési jogának elnyerése esetén az Európa-liga döntő szervezésével és lebonyolításával egyidejűleg, folyamatosan
+
+[^1]: A 6. pont az 1911/2020. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
