@@ -980,7 +980,7 @@
 
 | 66 | Avon folyó (Avon) | Bristol városi dokkok A Netham gát a Pulteney duzzasztógátig |
 
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^62]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^66]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -1492,7 +1492,7 @@ Uniós hajóbizonyítványok nyilvántartása
 
 Az 1. bekezdésben említett nyilvántartást ennek megfelelően frissítik.
 
-3. A hajózás biztonságának fenntartására és megkönnyítésére, valamint e melléklet 2.02–2.15 cikkének, továbbá 8., 10., 11., 12., 16. és 17. fejezetének végrehatására szolgáló közigazgatási intézkedések megtétele érdekében a tagállamok, a rajnai hajózásról szóló Mannheimi Egyezményben részes államok, valamint – közigazgatási megállapodás alapján a magánélet azonos szintű védelmét garantáló harmadik országok – illetékes hatóságai részére a hajózási hatóság a nyilvántartáshoz a 6. mellékletben foglalt mintának megfelelő, csak olvasható hozzáférést biztosít.
+3.
 
 2.18 cikk
 
@@ -3620,4 +3620,4 @@ A 24.08. cikket értelemszerűen kell alkalmazni.
 
 BIZTONSÁGTECHNIKAI JELEK
 
-[^62]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a, a 36/2019. (IX. 20.) ITM rendelet 11. §-a, 12. § a)–d) pontja, a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdése, a 45/2019. (XII. 20.) ITM rendelet 2. §-a, a 13/2020. (V. 8.) ITM rendelet 2. §-a, a 34/2020. (X. 7.) ITM rendelet 2. § (2) bekezdése szerint módosított szöveg. [A 2. mellékletnek a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdésével elrendelt módosítása, amely szerint a 7. melléklet I. rész 1. és 13 pontjában és 9. melléklet III. rész 8. cikkében a „közösségi” szövegrész helyébe „uniós” szöveg lép, nem vezethető át.]
+[^66]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a, a 36/2019. (IX. 20.) ITM rendelet 11. §-a, 12. § a)–d) pontja, a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdése, a 45/2019. (XII. 20.) ITM rendelet 2. §-a, a 13/2020. (V. 8.) ITM rendelet 2. §-a, a 34/2020. (X. 7.) ITM rendelet 2. § (2) bekezdése, a 46/2020. (XI. 30.) ITM rendelet 2. § 4–8. pontja, 3. §-a szerint módosított szöveg. [A 2. mellékletnek a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdésével elrendelt módosítása, amely szerint a 7. melléklet I. rész 1. és 13 pontjában és 9. melléklet III. rész 8. cikkében a „közösségi” szövegrész helyébe „uniós” szöveg lép, nem vezethető át.]
