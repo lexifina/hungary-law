@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-10-20-5
 | 2019-01-01 | 2016-10-20-5Z.6 | 12/2018. (XII. 15.) MEKH rendelet |
 | 2020-01-01 | 2016-10-20-5Z.7 | 16/2019. (XII. 14.) MEKH rendelet |
 | 2020-07-01 | 2016-10-20-5Z.8 | 16/2019. (XII. 14.) MEKH rendelet |
+| 2020-12-15 | 2016-10-20-5Z.9 | 13/2020. (XII. 14.) MEKH rendelet |

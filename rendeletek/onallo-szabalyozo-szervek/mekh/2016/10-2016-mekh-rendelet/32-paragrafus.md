@@ -2,7 +2,7 @@
 
 ## 17. A csatlakozóvezeték díja
 
-32. §[^19] (1) Csatlakozóvezeték díjat fizet – a (3) bekezdésben foglalt kivétellel – a csatlakozást igénylő a csatlakozóvezeték létesítéséért, ha az igényének kielégítése érdekében kiépítésre kerülő kisfeszültségű csatlakozóvezeték hossza meghaladja
+32. §[^20] (1) Csatlakozóvezeték díjat fizet – a (3) bekezdésben foglalt kivétellel – a csatlakozást igénylő a csatlakozóvezeték létesítéséért, ha az igényének kielégítése érdekében kiépítésre kerülő kisfeszültségű csatlakozóvezeték hossza meghaladja
 
 a) szabadvezetékes csatlakozás esetén a 30 métert,
 
@@ -18,4 +18,4 @@ b) földkábeles csatlakozás esetén a 15 métert.
 
 (6) Ha a (3) bekezdés szerinti csatlakozás létrejöttét követő 5 éven belül az adott felhasználási helyre vonatkozóan a csatlakozást igénylő olyan többletigény nyújt be, amely kapcsán a fázisonként igényelt névleges áramerősségek összege meghaladja a 32 ampert, akkor a csatlakozást igénylő köteles megfizetni a (3) bekezdés szerinti elsődleges igényhez kapcsolódó, de az (1) bekezdés figyelembevételével számított csatlakozóvezeték díjat is.
 
-[^19]: A 32. § a 6/2017. (VII. 13.) MEKH rendelet 6. §-ával megállapított szöveg.
+[^20]: A 32. § a 6/2017. (VII. 13.) MEKH rendelet 6. §-ával megállapított szöveg.

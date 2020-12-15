@@ -14,8 +14,8 @@ a) az elosztói alapdíj fizetés alapjául szolgáló mérési pontok vagy felh
 
 b) a közvilágítási berendezések teljesítményét,
 
-c)[^14] a forgalomarányos rendszerhasználati díjak megfizetéséhez az elszámolás alapjául szolgáló villamosenergia-mennyiségeket.
+c)[^15] a forgalomarányos rendszerhasználati díjak megfizetéséhez az elszámolás alapjául szolgáló villamosenergia-mennyiségeket.
 
 (3) A részszámlákon a fogyasztásarányos rendszerhasználati díjak – a tételenkénti feltüntetés helyett – összevontan is szerepeltethetők.
 
-[^14]: A 24. § (2) bekezdés c) pontja a 16/2016. (XII. 20.) MEKH rendelet 6. § (3) bekezdése, a 6/2017. (VII. 13.) MEKH rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 24. § (2) bekezdés c) pontja a 16/2016. (XII. 20.) MEKH rendelet 6. § (3) bekezdése, a 6/2017. (VII. 13.) MEKH rendelet 8. § (2) bekezdése szerint módosított szöveg.

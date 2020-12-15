@@ -10,7 +10,7 @@ a) a profil elszámolású felhasználó (a közvilágítási célra vételező 
 
 b) az okos mérés bevezetését célzó mintaprojektben részt vevő, 3×80 A-t nem meghaladó névleges csatlakozási teljesítményű, kisfeszültségen csatlakozó felhasználó.
 
-(4)[^12] A felhasználó (a közvilágítási célra vételező felhasználó kivételével) a kisfeszültségi csatlakozás kisfeszültségű vezérelt elosztási díját köteles megfizetni – figyelembe véve az (1) bekezdésben foglaltakat – a profil elszámolású csatlakozási pontján
+(4)[^13] A felhasználó (a közvilágítási célra vételező felhasználó kivételével) a kisfeszültségi csatlakozás kisfeszültségű vezérelt elosztási díját köteles megfizetni – figyelembe véve az (1) bekezdésben foglaltakat – a profil elszámolású csatlakozási pontján
 
 a) a bármely, szakaszosan is biztonságosan üzemeltethető, külön mért – az elosztó vezérlőberendezésével vezérelt felhasználói áramkörre állandó jelleggel, megfelelő segédeszköz hiányában állagsérelem nélkül nem leválasztható módon, nem dugaszolhatóan csatlakoztatott, arról más áramkörre nem átkapcsolható – felhasználói berendezés fogyasztása,
 
@@ -26,4 +26,4 @@ c) ha az adott felhasználási helyen kizárólag a megújuló energiaforrásbó
 
 (7) A közvilágítási elosztási díj fizetésének alapját a közvilágítási elosztó hálózatról vételezett, 16. § (4) bekezdése szerint meghatározott villamosenergia-mennyiség képezi.
 
-[^12]: A 20. § (4) bekezdése a 16/2019. (XII. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^13]: A 20. § (4) bekezdése a 16/2019. (XII. 14.) MEKH rendelet 2. §-ával megállapított szöveg.

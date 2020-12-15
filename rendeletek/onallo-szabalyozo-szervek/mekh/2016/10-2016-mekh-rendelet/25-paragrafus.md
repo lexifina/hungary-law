@@ -6,7 +6,7 @@
 
 ## A CSATLAKOZÁSI DÍJRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
-25. § (1)[^15] E rendelet csatlakozási díjra vonatkozó rendelkezéseit – e rendeletben foglalt kivételekkel – csatlakozási pontonként önállóan kell alkalmazni.
+25. § (1)[^16] E rendelet csatlakozási díjra vonatkozó rendelkezéseit – e rendeletben foglalt kivételekkel – csatlakozási pontonként önállóan kell alkalmazni.
 
 (2) A hálózati engedélyesek egymás hálózatára történő csatlakozásánál csatlakozási díjat nem fizetnek.
 
@@ -26,7 +26,7 @@ b) a csatlakozást igénylő és a hálózati engedélyes közötti megállapod�
 
 (7) A befizetett csatlakozási díjak összegét a hálózati engedélyes külön, a csatlakozások érdekében megvalósított beruházásokhoz hozzárendelve tartja nyilván, és azt kizárólag hálózatfejlesztésre vagy a 26. § (2) bekezdés és a 33. § (5) és (6) bekezdés szerinti visszafizetésekre használhatja fel.
 
-(8)[^16] A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári hónap első munkanapján honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható kiserőművi csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat a elosztói szabályzat tartalmazza.
+(8)[^17] A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári hónap első munkanapján honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható kiserőművi csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat a elosztói szabályzat tartalmazza.
 
-[^15]: A 25. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^16]: A 25. § (8) bekezdése a 12/2018. (XII. 15.) MEKH rendelet 3. §-ával megállapított, a 16/2019. (XII. 14.) MEKH rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 25. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^17]: A 25. § (8) bekezdése a 12/2018. (XII. 15.) MEKH rendelet 3. §-ával megállapított, a 16/2019. (XII. 14.) MEKH rendelet 3. § (2) bekezdése szerint módosított szöveg.

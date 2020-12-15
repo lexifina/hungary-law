@@ -4,7 +4,7 @@
 
 13. § (1) Az átviteli díjat – a 9. §-ban és a (2)–(5) bekezdésben foglaltak figyelembevételével – a villamos energia egész számú kWh-ban meghatározott havi mennyisége után kell megfizetni.
 
-(2)[^5] Az elosztó
+(2)[^6] Az elosztó
 
 a) az átviteli és az elosztó hálózat közötti elszámolási mérési pontoknak,
 
@@ -22,4 +22,4 @@ d) az elosztó hálózatára magánvezetéken keresztül közvetve csatlakozó, 
 
 (5) A villamos energiának az átviteli hálózatról történő kiszállításánál vagy az átviteli hálózatra történő beszállításánál a párhuzamos üzemű villamosenergia-rendszerek esetében menetrend alapján megállapított villamosenergia-mennyiség alapján kell az átviteli rendszerirányító részére az átviteli díjat megfizetni.
 
-[^5]: A 13. § (2) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^6]: A 13. § (2) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 3. §-ával megállapított szöveg.

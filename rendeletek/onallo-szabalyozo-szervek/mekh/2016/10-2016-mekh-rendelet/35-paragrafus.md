@@ -34,7 +34,7 @@
 
 13. a felhasználási helyen hibaelhárítás céljából történő megjelenés esetében, ha a hiba a csatlakozási pont után a felhasználói berendezésben van.
 
-(2)[^23] Az elosztó – a külön díjak meghatározásának keretszabályairól szóló rendeletben foglaltak szerint – külön díjat kérhet a kiserőművi csatlakozást igénylőtől (a háztartási méretű kiserőmű kivételével) kiserőművenként
+(2)[^24] Az elosztó – a külön díjak meghatározásának keretszabályairól szóló rendeletben foglaltak szerint – külön díjat kérhet a kiserőművi csatlakozást igénylőtől (a háztartási méretű kiserőmű kivételével) kiserőművenként
 
 1. az igénybejelentésre vonatkozó tájékoztató elkészítéséért,
 
@@ -42,4 +42,4 @@
 
 3. a csatlakozási terv felülvizsgálatáért.
 
-[^23]: A 35. § (2) bekezdése a 15/2017. (XII. 13.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^24]: A 35. § (2) bekezdése a 15/2017. (XII. 13.) MEKH rendelet 1. §-ával megállapított szöveg.

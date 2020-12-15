@@ -1,10 +1,10 @@
 ## vonatkoznak.
 
-9. § (1)[^1] A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának keretszabályairól szóló rendelet szerint a Ft/kWh mértékegységben megállapított rendszerhasználati díjakat (a továbbiakban: forgalomarányos rendszerhasználati díjak) a villamos energia egész számú kWh-ban – a (2)–(6) bekezdésben foglaltakat is figyelembe véve – meghatározott havi mennyisége után kell megfizetni.
+9. § (1)[^2] A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának keretszabályairól szóló rendelet szerint a Ft/kWh mértékegységben megállapított rendszerhasználati díjakat (a továbbiakban: forgalomarányos rendszerhasználati díjak) a villamos energia egész számú kWh-ban – a (2)–(6) bekezdésben foglaltakat is figyelembe véve – meghatározott havi mennyisége után kell megfizetni.
 
-(2)[^2] Kétirányú mérés esetén az elszámolás alapját képező villamosenergia-mennyiségeket az adott mérési ponton a kereskedelmi szabályzatban rögzített elszámolási mérési intervallumokban, irányonként kell megállapítani. A forgalomarányos rendszerhasználati díjakat elszámolási időszakonként az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell megfizetni. Háztartási méretű kiserőművek esetében a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján kell a forgalomarányos rendszerhasználati díjakat megfizetni.
+(2)[^3] Kétirányú mérés esetén az elszámolás alapját képező villamosenergia-mennyiségeket az adott mérési ponton a kereskedelmi szabályzatban rögzített elszámolási mérési intervallumokban, irányonként kell megállapítani. A forgalomarányos rendszerhasználati díjakat elszámolási időszakonként az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell megfizetni. Háztartási méretű kiserőművek esetében a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján kell a forgalomarányos rendszerhasználati díjakat megfizetni.
 
-(2a)[^3] A magánvezeték engedélyese vagy üzemeltetője által a hálózati engedélyes részére fizetendő forgalomarányos rendszerhasználati díjak elszámolásának alapját képező villamosenergia-mennyiségeket – a kereskedelmi szabályzatban rögzített elszámolási mérési intervallumok szerint – úgy kell megállapítani, hogy a közcélú hálózat és a magánvezeték közötti csatlakozási ponton mért, irányonként elkülönített és előjelhelyesen (a közcélú hálózatról történő vételezés pozitív, a közcélú hálózatba történő betáplálás negatív előjellel veendő figyelembe) összegzett villamosenergia-mennyiséghez
+(2a)[^4] A magánvezeték engedélyese vagy üzemeltetője által a hálózati engedélyes részére fizetendő forgalomarányos rendszerhasználati díjak elszámolásának alapját képező villamosenergia-mennyiségeket – a kereskedelmi szabályzatban rögzített elszámolási mérési intervallumok szerint – úgy kell megállapítani, hogy a közcélú hálózat és a magánvezeték közötti csatlakozási ponton mért, irányonként elkülönített és előjelhelyesen (a közcélú hálózatról történő vételezés pozitív, a közcélú hálózatba történő betáplálás negatív előjellel veendő figyelembe) összegzett villamosenergia-mennyiséghez
 
 a) hozzá kell adni a magánvezetékre csatlakozó, kötelező átvételi rendszerben értékesítő vagy prémium típusú támogatásban részesülő erőmű által a magánvezetékbe betáplált teljes villamosenergia-mennyiséget, és
 
@@ -26,6 +26,6 @@ c) 1000 kVA transzformátor névleges teljesítmény felett a mért energiaforga
 
 (6) A rendszerhasználó tulajdonában lévő, hálózatra kapcsolt terheletlen transzformátor esetében a transzformátor típusának megfelelő mérési lapokon feltüntetett, a hálózathasználati szerződés mellékletében szereplő üresjárási hatásos veszteséget (kWh/hó), valamint a transzformátor egyedi fázisjavítása hiányában – a meddő villamos energiát (kVArh/hó) is el kell számolni a csatlakozási ponthoz tartozó rendszerhasználati díjakkal.
 
-[^1]: A 9. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^2]: A 9. § (2) bekezdése a 16/2016. (XII. 20.) MEKH rendelet 2. §-ával megállapított, a 6/2017. (VII. 13.) MEKH rendelet 9. §-a szerint módosított szöveg.
-[^3]: A 9. § (2a) bekezdését a 6/2017. (VII. 13.) MEKH rendelet 2. §-a iktatta be.
+[^2]: A 9. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 9. § (2) bekezdése a 16/2016. (XII. 20.) MEKH rendelet 2. §-ával megállapított, a 6/2017. (VII. 13.) MEKH rendelet 9. §-a szerint módosított szöveg.
+[^4]: A 9. § (2a) bekezdését a 6/2017. (VII. 13.) MEKH rendelet 2. §-a iktatta be.
