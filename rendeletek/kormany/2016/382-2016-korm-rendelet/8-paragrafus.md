@@ -104,7 +104,7 @@ d) a (8) bekezdés szerinti ügyekben a Magyar Vitorlás Szövetséget
 
 22.[^65] a vízi repülőtér kivételével vízi sportpálya kijelölésével,
 
-23.[^66]
+23.[^66] az európai hajóazonosító szám kiadásával, a Vkt. 48/C. § (1) bekezdése szerinti adatrögzítéssel, az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendeletben meghatározott adatkezeléssel és annak 5. cikkében az egyedüli kapcsolattartó pont számára meghatározott feladatok ellátásával,
 
 24. a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével,
 
@@ -143,7 +143,7 @@ d) a (8) bekezdés szerinti ügyekben a Magyar Vitorlás Szövetséget
 [^63]: A 8. § (4) bekezdés 5. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^64]: A 8. § (4) bekezdés 21. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^65]: A 8. § (4) bekezdés 22. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^66]: A 8. § (4) bekezdés 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés g) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^66]: A 8. § (4) bekezdés 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés g) pontja hatályon kívül helyezte, újonnan az 534/2020. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
 [^67]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
 [^68]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^69]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.

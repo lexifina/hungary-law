@@ -1,4 +1,4 @@
-4. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^119]
+4. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^120]
 
 1. A kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint adatváltozás átvezetésére irányuló eljárásában, a tervtől eltérés engedélyezése iránti eljárásban közreműködő szakhatóságok
 
@@ -60,4 +60,4 @@
 
 | 1. | Vízisportpálya esetén, ha a tevékenység halgazdálkodási vízterületet érint. | Annak elbírálása kérdésében, hogy a tevékenység a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-[^119]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 158. § (12) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^120]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 158. § (12) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

@@ -108,6 +108,8 @@ q)[^111] a légiforgalmi szolgáltatási (ATM) hálózati funkciók végrehajtá
 
 r)[^112] a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet
 
+s)[^113] az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendelet
+
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (4) Ez a rendelet
@@ -124,7 +126,7 @@ e) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgá
 
 f) a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló, 2006. január 18-i 2006/1/EK európai parlamenti és tanácsi irányelvnek,
 
-g)[^113] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
+g)[^114] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
 
 h) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi irányelvnek,
 
@@ -134,7 +136,7 @@ j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközök
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
 
-l)[^114] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
+l)[^115] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
 
 [^100]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
 [^101]: A hatálybalépés időpontja 2017. július 1.
@@ -149,5 +151,6 @@ l)[^114] az Unió területén közlekedő haszonjárművek közlekedésre való 
 [^110]: A 26. § (3) bekezdés p) pontját a 402/2020. (VIII. 17.) Korm. rendelet 6. § (3) bekezdése iktatta be.
 [^111]: A 26. § (3) bekezdés q) pontját a 402/2020. (VIII. 17.) Korm. rendelet 6. § (3) bekezdése iktatta be.
 [^112]: A 26. § (3) bekezdés r) pontját a 402/2020. (VIII. 17.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^113]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^114]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^113]: A 26. § (3) bekezdés s) pontját az 534/2020. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^114]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^115]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
