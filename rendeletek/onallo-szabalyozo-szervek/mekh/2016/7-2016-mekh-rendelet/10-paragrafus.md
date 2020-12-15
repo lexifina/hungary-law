@@ -7,3 +7,7 @@
 (2) Az (1) bekezdés szerinti rendszerhasználati díjakat a mennyiségi változásokból adódó kockázatok csökkentése érdekében az ármegállapítással érintett évet (tárgyév) két évvel megelőző év tényleges mennyiségi adataira alapozva kell meghatározni.
 
 (3) Az árszabályozási ciklus további éveire vonatkozó ármegállapítás rendszerét, az indokolt költségek adott évi aktualizált értékének meghatározására alkalmazott módszerek leírását a Hivatal által a honlapján közzétett, a VET 143. § (3) bekezdés b) pontja szerinti módszertani útmutató tartalmazza.
+
+(4)[^5] Az 1. § szerinti árszabályozási ciklus utolsó éve 2020. január 1-jétől 2021. március 31-ig tart, ezért 2021. január 1-jével nem kerül sor ármegállapításra.
+
+[^5]: A 10. § (4) bekezdését a 13/2020. (XII. 14.) MEKH rendelet 1. §-a iktatta be.
