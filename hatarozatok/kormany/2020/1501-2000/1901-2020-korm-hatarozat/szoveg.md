@@ -14,4 +14,6 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-2. Az egyes fővárosi kulturális színterek és ingatlanok magyar állam általi megvásárlásához szükséges kormányzati intézkedésekről szóló 1149/2020. (IV. 10.) Korm. határozat 3. pontjában a „Határidő: 2020. december 31.” szövegrész helyébe a „Határidő: 2021. március 31.” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
