@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1794-30
 | 2019-11-28 | 2018-1794-30-22.2 | 1668/2019. (XI. 28.) Korm. határozat |
 | 2020-02-25 | 2018-1794-30-22.3 | 1061/2020. (II. 25.) Korm. határozat |
 | 2020-09-22 | 2018-1794-30-22.4 | 1599/2020. (IX. 22.) Korm. határozat |
+| 2020-12-15 | 2018-1794-30-22.5 | 1911/2020. (XII. 15.) Korm. határozat |
