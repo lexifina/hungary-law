@@ -6,7 +6,7 @@ A Kormány
 
 3. felhatalmazást ad a miniszterelnök számára, hogy a Világbajnokság megrendezésével összefüggésben az IHF által a pályázat feltételeként kötelezően előírt angol és magyar garanciavállaló nyilatkozatot a Kormány nevében aláírja;
 
-4. felhívja az emberi erőforrások miniszterét, hogy a Világbajnokság rendezési jogának elnyerése esetén – a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos és a Miniszterelnökséget vezető miniszter bevonásával – készítsen előterjesztést a Világbajnokság megrendezéséhez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
+4.[^1] felhívja az emberi erőforrások miniszterét, hogy a Világbajnokság rendezési jogának elnyerése esetén – a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos és a Miniszterelnökséget vezető miniszter bevonásával – készítsen előterjesztést a Világbajnokság megrendezéséhez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
 
 Felelős: emberi erőforrások minisztere
 
@@ -14,10 +14,12 @@ kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felel�
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: a Világbajnokság rendezési jogának elnyerése esetén 2020. december 31.
+Határidő: a Világbajnokság rendezési jogának elnyerése esetén 2022. december 31.
 
 5. felhívja a miniszterelnök kabinetfőnökét, hogy a Világbajnokság rendezési jogának elnyerése esetén gondoskodjon a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság útján a Világbajnokság lebonyolításához kapcsolódó turisztikai szempontok érvényesítéséről.
 
 Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: a Világbajnokság rendezési jogának elnyerése esetén a Világbajnokság szervezésével és lebonyolításával egyidejűleg, folyamatosan
+
+[^1]: A 4. pont az 1911/2020. (XII. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
