@@ -70,13 +70,13 @@
 
 ## a 2022–2024. évek esetében a központi költségvetés tervezése során
 
-## 11. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és az emberi erőforrások miniszterét, hogy tegyenek javaslatot a Beruházás során létrejövő vagyonelemek vagyonkezelőjére és üzemeltetőjére, az érintett vagyonelemek üzemeltetési modelljének bemutatásával;
+## 11.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és az emberi erőforrások miniszterét, hogy tegyenek javaslatot a Beruházás során létrejövő vagyonelemek vagyonkezelőjére és üzemeltetőjére, az érintett vagyonelemek üzemeltetési modelljének bemutatásával;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2020. december 31.
+## Határidő: 2021. április 30.
 
 ## 12. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával, a Nemzeti Atlétikai Központ – a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 1. melléklet 3. pontja, valamint a 2023. évi IAAF Atlétikai Világbajnokság megrendezése és az atlétikai központ megvalósítása érdekében szükséges további feladatokról szóló 1819/2019. (XII. 30.) Korm. határozat 1. pontjában megjelölt Fővárosi Közgyűlési határozatok szerinti – további elemeinek megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján – a 11. pont szerinti javaslatokra is figyelemmel – készítsen előterjesztést a Kormány részére azok megvalósításáról, a kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával;
 
@@ -195,3 +195,5 @@ A Beruházás megvalósításához szükséges ingatlanok
 | 46. | 38086/49 |
 
 | 47. | 38086/235 |
+
+[^1]: A 11. pont az 1911/2020. (XII. 15.) Korm. határozat 5. pontja szerint módosított szöveg.
