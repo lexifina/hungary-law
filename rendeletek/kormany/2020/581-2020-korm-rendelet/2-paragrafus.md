@@ -1,0 +1,3 @@
+## 1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) A 2. mellékletben foglalt táblázat 53. sora szerinti beruházás tekintetében a géntechnológiai hatósági eljárások és a géntechnológiai szakhatósági eljárások nem minősülnek nemzetgazdasági szempontból kiemelt jelentőségű ügynek.”
