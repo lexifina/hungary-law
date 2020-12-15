@@ -104,7 +104,15 @@
 
 | 50. | Győr-Pér Repülőtér fejlesztése | Pér közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti külterület 034/34, 052/2, 052/2/A, 054/44, 077/2, 084/79, 087/4, 087/12 helyrajzi számú ingatlanok | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^100]
+| 51. | Telephely bővítésére és fejlesztésére irányuló beruházás Sümegprága területén | Sümegprága közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 029/12 helyrajzi számú ingatlan | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 52. | Telephely bővítésére és fejlesztésére irányuló beruházás Töltéstava területén | Töltéstava közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 023/74 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 53. | Telephely bővítésére és fejlesztésre irányuló beruházás Kaba külterületén | Kaba közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 086/42 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 54. | Gyártócsarnok építésére irányuló beruházás Üllő területén | Üllő közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3757 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^106]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -284,4 +292,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^100]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^106]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
