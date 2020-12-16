@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-188-20-
 | 2020-02-15 | 2019-188-20-22.3 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-03-01 | 2019-188-20-22.4 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-08-01 | 2019-188-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-12-16 | 2019-188-20-22.6 | 564/2020. (XII. 8.) Korm. rendelet |

@@ -4,6 +4,6 @@
 
 (2) A jogosultság nélkül végzett teljesítményvizsgálatok adatait a NÉBIH nem jegyzi be az országos állattenyésztési adatbázisba.
 
-(3)[^6] A megbízás alapján végzett teljesítményvizsgálatokat a kormányhivatal évente felülvizsgálja.
+(3)[^7] A megbízás alapján végzett teljesítményvizsgálatokat a kormányhivatal évente felülvizsgálja.
 
-[^6]: Az 51. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^7]: Az 51. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
