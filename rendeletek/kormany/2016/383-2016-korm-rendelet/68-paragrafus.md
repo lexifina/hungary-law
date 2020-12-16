@@ -8,10 +8,10 @@ b) az erdőterület igénybevételére vonatkozó elvi engedély megadására ir
 
 c) az erdőterület igénybevételének engedélyezésére irányuló eljárásban,
 
-d)[^188] az engedély nélkül vagy engedélytől eltérően telepített erdő fennmaradásának engedélyezésére irányuló eljárásban, valamint
+d)[^189] az engedély nélkül vagy engedélytől eltérően telepített erdő fennmaradásának engedélyezésére irányuló eljárásban, valamint
 
 e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti eljárásban
 
 szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
-[^188]: A 68. § d) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^189]: A 68. § d) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés d) pontja szerint módosított szöveg.

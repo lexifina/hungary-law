@@ -2,6 +2,6 @@
 
 (2) A kulturális örökségvédelmi szakkérdés vizsgálata annak megállapítására irányul, hogy a termőföld újrahasznosítása, más célú hasznosításának engedélyezése, illetve az engedély nélküli más célú hasznosítása a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e a kulturális örökség védelme törvényben rögzített követelményeinek.
 
-(3)[^203]
+(3)[^204]
 
-[^203]: A 79/D. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 25. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^204]: A 79/D. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 25. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

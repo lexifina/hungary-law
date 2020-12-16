@@ -1,3 +1,3 @@
-40. §[^134]
+40. §[^135]
 
-[^134]: A 40. §-t a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés f) pontja hatályon kívül helyezte.
+[^135]: A 40. §-t a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés f) pontja hatályon kívül helyezte.

@@ -6,13 +6,13 @@ b) 10. § (3) bekezdésében, 23. § (2) bekezdés b) pontjában foglalt feladat
 
 c) 23. § (3) bekezdésében foglaltak tekintetében a fővárosi és megyei kormányhivatal irányítására kormányrendeletben kijelölt miniszter és a NÉBIH,
 
-d)[^153] 7. § (5) bekezdésében, 8. §-ában, 9. § (1) bekezdésében, 10. § (2) bekezdés a) pontjában, 12. §-ában, 14. § (1) bekezdésében, a közzététel vonatkozásában a (3) bekezdésében foglaltak, 15. § (8) bekezdésében a nyilvántartás vonatkozásában, 15. § (10) és (11) bekezdésében, 19. § (1) és (3) bekezdésében, 21/A. § (1) és (2) bekezdésében, 23. § (1) bekezdésében, (2) bekezdés a), c), e) pontjában, h) pont he) alpontjában, j) pont ja) alpontjában, (5) bekezdésében, 24. § b) pontjában, 26. § (2) bekezdés a), b) és d) pontjában foglaltak tekintetében a NÉBIH,
+d)[^154] 7. § (5) bekezdésében, 8. §-ában, 9. § (1) bekezdésében, 10. § (2) bekezdés a) pontjában, 12. §-ában, 14. § (1) bekezdésében, a közzététel vonatkozásában a (3) bekezdésében foglaltak, 15. § (8) bekezdésében a nyilvántartás vonatkozásában, 15. § (10) és (11) bekezdésében, 19. § (1) és (3) bekezdésében, 21/A. § (1) és (2) bekezdésében, 23. § (1) bekezdésében, (2) bekezdés a), c), e) pontjában, h) pont he) alpontjában, j) pont ja) alpontjában, (5) bekezdésében, 24. § b) pontjában, 26. § (2) bekezdés a), b) és d) pontjában foglaltak tekintetében a NÉBIH,
 
-e)[^154]
+e)[^155]
 
-f)[^155] 20. § (1) és (3)–(6) bekezdésében, 21/A. § (3) és (4) bekezdésében, 23. § (2) bekezdés g) pontjában, h) pont hc) alpontjában, i) pontjában, j) pont jb) és jc) alpontjában, k) pontjában, 26. § (2) bekezdés c) pontjában, 27. §-ában, 28. §-ában foglaltak tekintetében a NÉBIH és a növénytermesztési hatáskörben eljáró megyei kormányhivatal,
+f)[^156] 20. § (1) és (3)–(6) bekezdésében, 21/A. § (3) és (4) bekezdésében, 23. § (2) bekezdés g) pontjában, h) pont hc) alpontjában, i) pontjában, j) pont jb) és jc) alpontjában, k) pontjában, 26. § (2) bekezdés c) pontjában, 27. §-ában, 28. §-ában foglaltak tekintetében a NÉBIH és a növénytermesztési hatáskörben eljáró megyei kormányhivatal,
 
-g)[^156] 15. § (1a), (2), (7)–(9) bekezdésében, 18/C. § (3) bekezdésében, 23. § (2) bekezdés h) pont hd), hf) és hg) alpontjában, j) pont jd) alpontjában foglaltak tekintetében a növénytermesztési hatáskörben eljáró megyei kormányhivatal
+g)[^157] 15. § (1a), (2), (7)–(9) bekezdésében, 18/C. § (3) bekezdésében, 23. § (2) bekezdés h) pont hd), hf) és hg) alpontjában, j) pont jd) alpontjában foglaltak tekintetében a növénytermesztési hatáskörben eljáró megyei kormányhivatal
 
 a kijelölt növénytermesztési hatóság.
 
@@ -20,7 +20,7 @@ a kijelölt növénytermesztési hatóság.
 
 (3) A vetőmagvak és vegetatív szaporítóanyagok, valamint azok termesztésbe bocsátása esetén az érintett növényi kultúra géntechnológiai eredetének vizsgálata, hatósági ellenőrzése tekintetében a NÉBIH és a NÉBIH irányítása mellett közreműködőként a növénytermesztési hatáskörben eljáró járási hivatal jár el.
 
-[^153]: A 47. § (1) bekezdés d) pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (5) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 19. pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^154]: A 47. § (1) bekezdés e) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 19. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^155]: A 47. § (1) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 20. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^156]: A 47. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 20. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^154]: A 47. § (1) bekezdés d) pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (5) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 19. pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^155]: A 47. § (1) bekezdés e) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 19. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^156]: A 47. § (1) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 20. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^157]: A 47. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 20. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

@@ -4,7 +4,7 @@
 
 2. a számítógépes ingatlan-nyilvántartási rendszer kezelése, működtetése,
 
-3.[^121] a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételéhez szükséges, az ingatlan-nyilvántartásról szóló törvény szerinti hozzáférési jogosultság megadása, visszavonása vagy felfüggesztése tárgyában történő határozat meghozatala, valamint a hozzáférés biztosítása,
+3.[^122] a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételéhez szükséges, az ingatlan-nyilvántartásról szóló törvény szerinti hozzáférési jogosultság megadása, visszavonása vagy felfüggesztése tárgyában történő határozat meghozatala, valamint a hozzáférés biztosítása,
 
 4. a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevők adatlekérdezései jogszerűségének és a biztonsági előírások betartásának ellenőrzése,
 
@@ -38,16 +38,16 @@
 
 19. a hatáskörébe utalt földmérési és térképészeti szakfelügyeleti tevékenység,
 
-20.[^122] az ingatlan-nyilvántartásról szóló törvény szerinti, a magyarországi ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása,
+20.[^123] az ingatlan-nyilvántartásról szóló törvény szerinti, a magyarországi ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása,
 
-21.[^123] a föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló kormányrendeletben szabályozott biztonsági okmány beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása,
+21.[^124] a föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló kormányrendeletben szabályozott biztonsági okmány beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása,
 
-22.[^124] a papíralapú hiteles tulajdonilap-másolat kiállításához szükséges biztonsági elemek beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása.
+22.[^125] a papíralapú hiteles tulajdonilap-másolat kiállításához szükséges biztonsági elemek beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása.
 
-(2)[^125] A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 34. § (1) bekezdésében foglaltak tekintetében ingatlanügyi hatóság a földmérési és térinformatikai államigazgatási szerv, a földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal.
+(2)[^126] A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 34. § (1) bekezdésében foglaltak tekintetében ingatlanügyi hatóság a földmérési és térinformatikai államigazgatási szerv, a földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal.
 
-[^121]: A 38. § (1) bekezdés 3. pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
-[^122]: A 38. § (1) bekezdés 20. pontját a 473/2016. (XII. 27.) Korm. rendelet 23. § (4) bekezdése iktatta be.
-[^123]: A 38. § (1) bekezdés 21. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
-[^124]: A 38. § (1) bekezdés 22. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
-[^125]: A 38. § (2) bekezdése a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^122]: A 38. § (1) bekezdés 3. pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^123]: A 38. § (1) bekezdés 20. pontját a 473/2016. (XII. 27.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^124]: A 38. § (1) bekezdés 21. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
+[^125]: A 38. § (1) bekezdés 22. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
+[^126]: A 38. § (2) bekezdése a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés d) pontja szerint módosított szöveg.

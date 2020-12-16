@@ -20,6 +20,9 @@ b)[^54] koordinálja az engedélyköteles növényvédő szerek és termésnöve
 
 c) ellátja a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendeletben az illetékes hatóság számára megállapított feladatokat.
 
+d)[^55] ellátja az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet 21. cikke szerinti bejelentő hatóságra vonatkozó feladatokat.
+
 [^52]: A 17. § (1) bekezdés d) pontja a 425/2020. (IX. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^53]: A 17. § (2) bekezdés a) pontja a 446/2020. (X. 1.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^54]: A 17. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^55]: A 17. § (2) bekezdés d) pontját az 564/2020. (XII. 8.) Korm. rendelet 1. §-a iktatta be.

@@ -12,6 +12,8 @@ e) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük 
 
 f) a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet
 
+g)[^214] az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet 21. cikkének
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a rendelet
@@ -21,3 +23,5 @@ a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 b) a tudományos célokra felhasznált állatok védelméről szóló, 2010. szeptember 22-i 2010/63/EK európai parlamenti és a tanácsi irányelvnek
 
 való megfelelést szolgálja.
+
+[^214]: A 81. § (1) bekezdés g) pontját az 564/2020. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
