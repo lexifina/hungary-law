@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-580-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-15 | 2020-580-20-22.1 | 580/2020. (XII. 14.) Korm. rendelet |
+| 2020-12-16 | 2020-580-20-22.2 | 2010: CXXX. törvény |
