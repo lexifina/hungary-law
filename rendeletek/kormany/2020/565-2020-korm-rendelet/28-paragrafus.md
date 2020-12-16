@@ -1,0 +1,1 @@
+28. § Hatályát veszti a budapesti fejlesztések előkészítésével, megvalósításával és a kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos egyes feladatok ellátásáról szóló 175/2019. (VII. 16.) Korm. rendelet 7. alcíme.

@@ -1,0 +1,3 @@
+9. § (1) A pályázatot benyújtó szervezet a benyújtott pályázat eredményéről annak kihirdetését követő három napon belül elektronikus úton tájékoztatja a minisztert és a kormánybiztost.
+
+(2) Ha a jogtulajdonos a rendezési szerződésben állami szerv félként történő részvételét kívánja meg, vagy az egyéb szempontok alapján indokolt, az állami szerv részvételét a sportügynökség félként történő részvétele útján kell biztosítani. Ha a sportügynökség a rendezési szerződésben félként nem szerepel, a rendezési szerződést a pályázatot benyújtó szervezet a sportügynökség által előzetesen írásban jóváhagyott tartalommal kötheti meg.
