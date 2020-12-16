@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért a kulcsi hajóállomás és vendégház, valamint környezete aktív vízi turisztikai központtá fejlesztésére irányuló beruházásnak (a továbbiakban: Beruházás) a Kulcsi Községi Önkormányzat (a továbbiakban: Önkormányzat) kizárólagos tulajdonában álló, a Kulcs 2655 helyrajzi számú ingatlanon történő megvalósításával;
+1.[^1] egyetért a kulcsi hajóállomás és vendégház, valamint környezete aktív vízi turisztikai központtá fejlesztésére irányuló beruházásnak (a továbbiakban: Beruházás) a Kulcs Községi Önkormányzat (a továbbiakban: Önkormányzat) kizárólagos tulajdonában álló, az ingatlan-nyilvántartás szerinti Kulcs belterület 2654 és 2665/8 helyrajzi számú ingatlanon történő megvalósításával;
 
 2. egyetért azzal, hogy a Beruházást összesen 100 050 000 forint összegű költségvetési támogatásból az Önkormányzat valósítja meg;
 
@@ -41,3 +41,5 @@ Határidő: a forrás rendelkezésre állását követően azonnal
 a) a 2021. évben 94 967 460 forint,
 
 b) a 2022. évben 2 541 270 forint.
+
+[^1]: Az 1. pont az 1912/2020. (XII. 16.) Korm. határozat 3. pontjával megállapított szöveg.
