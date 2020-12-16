@@ -1,3 +1,3 @@
-101. §[^64]
+101. §[^69]
 
-[^64]: A 101. §-t a 209/2019. (VIII. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^69]: A 101. §-t a 209/2019. (VIII. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

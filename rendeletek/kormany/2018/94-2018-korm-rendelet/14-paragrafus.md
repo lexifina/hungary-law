@@ -8,7 +8,7 @@
 
 3. Budapest és a fővárosi agglomeráció fejlesztéséért,
 
-4.[^15]
+4.[^16]
 
 5. építésügyi szabályozásért és építéshatósági ügyekért,
 
@@ -38,13 +38,15 @@
 
 18. társadalmi és civil kapcsolatok fejlesztéséért,
 
-19.[^16] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
+19.[^17] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
 
-20.[^17] ingatlan-nyilvántartásért,
+20.[^18] ingatlan-nyilvántartásért,
 
-21.[^18] térképészetért,
+21.[^19] térképészetért,
 
-22.[^19] rozsdaövezeti akcióterületekkel kapcsolatos ügyekért
+22.[^20] rozsdaövezeti akcióterületekkel kapcsolatos ügyekért
+
+23.[^21] kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért,
 
 felelős tagja.
 
@@ -56,8 +58,9 @@ felelős tagja.
 
 (5) A miniszter a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kérhet a kormányzati szervektől, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek számára.
 
-[^15]: A 14. § (1) bekezdés 4. pontját a 157/2019. (VI. 28.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
-[^16]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
-[^17]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^18]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^19]: A 14. § (1) bekezdés 22. pontját a 344/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^16]: A 14. § (1) bekezdés 4. pontját a 157/2019. (VI. 28.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^17]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^19]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^20]: A 14. § (1) bekezdés 22. pontját a 344/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^21]: A 14. § (1) bekezdés 23. pontját az 565/2020. (XII. 8.) Korm. rendelet 26. § (1) bekezdése iktatta be.
