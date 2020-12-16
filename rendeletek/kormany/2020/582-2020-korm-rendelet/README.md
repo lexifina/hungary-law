@@ -1,0 +1,9 @@
+# 582/2020. (XII. 15.) Korm. rendelet
+
+a veszélyhelyzet ideje alatt biztosított utazási kedvezményekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-582-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-12-16 | 2020-582-20-22.1 | 582/2020. (XII. 15.) Korm. rendelet |
