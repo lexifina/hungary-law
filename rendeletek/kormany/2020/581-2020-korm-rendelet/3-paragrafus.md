@@ -1,3 +1,3 @@
-## 2. § Az R. a következő 46. §-sal egészül ki:
+## 2. §[^3]
 
-## „46. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 581/2020. (XII. 14.) Korm. rendelettel (a továbbiakban: Módr38.) megállapított 1. § (1) és (3) bekezdését, valamint a 2. mellékletben foglalt táblázat 52., 53. és 54. sorát a Módr38. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

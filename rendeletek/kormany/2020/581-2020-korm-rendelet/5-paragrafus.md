@@ -1,1 +1,3 @@
-## 4. § Az R. 1. § (1) bekezdésében a „Kormány” szövegrész helyébe a „Kormány – a (3) bekezdésben meghatározott kivétellel –” szöveg lép.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
