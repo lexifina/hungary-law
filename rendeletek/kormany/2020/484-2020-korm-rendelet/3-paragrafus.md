@@ -1,6 +1,6 @@
 ## 2. A kijárási tilalom és a közterületi magatartási szabályok
 
-3. §[^9] (1) Este 8 óra és reggel 5 óra között – e rendeletben meghatározott kivétellel – mindenki köteles a lakóhelyén, a tartózkodási helyén vagy a szálláshelyén tartózkodni.
+3. §[^11] (1) Este 8 óra és reggel 5 óra között – e rendeletben meghatározott kivétellel – mindenki köteles a lakóhelyén, a tartózkodási helyén vagy a szálláshelyén tartózkodni.
 
 (2) Az (1) bekezdéstől eltérően
 
@@ -30,4 +30,4 @@ dc) edzés vagy sportrendezvény helyszínéről a lakóhelyre, a tartózkodási
 
 (7) Az (5) bekezdésben meghatározott – a (6) bekezdés szerinti tartalmi követelményeknek megfelelő – okirat hiányában, este 8 óra és reggel 5 óra között, tilos a (2) bekezdés b)–d) pontja szerinti okból a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen történő tartózkodás.
 
-[^9]: A 3. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^11]: A 3. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

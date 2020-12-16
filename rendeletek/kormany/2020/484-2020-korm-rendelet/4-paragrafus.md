@@ -1,4 +1,4 @@
-4. §[^10] (1) Tilos a közterületen, illetve a nyilvános helyeken a csoportosulás, illetve a gyülekezés.
+4. §[^12] (1) Tilos a közterületen, illetve a nyilvános helyeken a csoportosulás, illetve a gyülekezés.
 
 (2) A közterületen, a nyilvános helyen, illetve a szabadtéri sportpályákon az egyéni szabadidős sporttevékenység – különösen futás, gyaloglás, kerékpározás – gyakorlása megengedett.
 
@@ -6,4 +6,4 @@
 
 (4) A (3) bekezdés szerinti védelmi intézkedést nem kell alkalmazni a sportról szóló törvény szerint versenyszerűen sportolók számára tartott edzés és sportrendezvény alkalmával.
 
-[^10]: A 4. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^12]: A 4. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

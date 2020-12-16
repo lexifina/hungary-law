@@ -2,11 +2,11 @@
 
 1. §[^2] (1)[^3] A hatodik életévét be nem töltött kiskorú, valamint az értelmi vagy pszichoszociális fogyatékossággal, illetve az autizmus spektrumzavarral élő személy kivételével mindenki köteles
 
-a) a tömegközlekedési eszközön,
+a)[^4] a tömegközlekedési eszközön utasként, illetve – a (6) bekezdés szerinti kivétellel – a tömegközlekedési eszközön történő munkavégzés során,
 
 b) a 10 000 főnél nagyobb lakónépességű település belterületén a települési önkormányzat által kijelölt közterületen, illetve nyilvános helyen, kivéve a sporttevékenység során, valamint a parkokban, illetve zöldterületeken,
 
-c)[^4] az üzletben történő vásárlás, illetve – a (4a) bekezdés szerinti kivétellel – az üzletben történő munkavégzés során,
+c)[^5] az üzletben történő vásárlás, illetve – a (4a) bekezdés szerinti kivétellel – az üzletben történő munkavégzés során,
 
 d) – az irodák, sportolás céljára szolgáló helyiségek és az üzemi helyiségek területének kivételével – a bevásárlóközpont területén,
 
@@ -46,15 +46,15 @@ b) az ellátottaknak a közösségi programok alkalmával és a közösségi ter
 
 ## az (1) bekezdésben meghatározott módon maszkot kell viselniük.
 
-(4a)[^5] A munkáltató és a munkavállaló megállapodhatnak abban, hogy az üzletben történő munkavégzés során az ott dolgozók számára a munkáltató vagy az üzletvezető olyan szünetet biztosít, amely során mellőzhetik a maszk használatát.
+(4a)[^6] A munkáltató és a munkavállaló megállapodhatnak abban, hogy az üzletben történő munkavégzés során az ott dolgozók számára a munkáltató vagy az üzletvezető olyan szünetet biztosít, amely során mellőzhetik a maszk használatát.
 
-(4b)[^6] A (4a) bekezdés szerinti szünet céljára a munkáltató vagy az üzletvezető kizárólag olyan helyiséget, illetve területet jelölhet ki,
+(4b)[^7] A (4a) bekezdés szerinti szünet céljára a munkáltató vagy az üzletvezető kizárólag olyan helyiséget, illetve területet jelölhet ki,
 
 a) amely nem szolgál az üzletben értékesített termékek tárolására és
 
 b) amelyben vásárló nem tartózkodhat.
 
-(5)[^7] Az értelmi vagy pszichoszociális fogyatékossággal, illetve az autizmus spektrumzavarral élő személy
+(5)[^8] Az értelmi vagy pszichoszociális fogyatékossággal, illetve az autizmus spektrumzavarral élő személy
 
 a) a fogyatékosságügyi országos érdekvédelmi szervezet által kiállított
 
@@ -64,9 +64,15 @@ ab) a maszkviselésre vonatkozó szabályok alóli mentesség érvényesítésé
 
 b) orvosi igazolással
 
+## igazolhatja állapotát.
+
+(6)[^9] Nem köteles a tömegközlekedési eszköz vezetője maszkot viselni a tömegközlekedési eszköz zárt kialakítású vezetőfülkéjében történő munkavégzés során.
+
 [^2]: Az 1. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
 [^3]: Az 1. § (1) bekezdés nyitó szövegrésze az 520/2020. (XI. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (1) bekezdés c) pontja az 552/2020. (XII. 2.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^5]: Az 1. § (4a) bekezdését az 552/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
-[^6]: Az 1. § (4b) bekezdését az 552/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
-[^7]: Az 1. § (5) bekezdését az 510/2020. (XI. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be, nyitó szövegrésze az 520/2020. (XI. 25.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés a) pontja az 583/2020. (XII. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés c) pontja az 552/2020. (XII. 2.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^6]: Az 1. § (4a) bekezdését az 552/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
+[^7]: Az 1. § (4b) bekezdését az 552/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
+[^8]: Az 1. § (5) bekezdését az 510/2020. (XI. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be, nyitó szövegrésze az 520/2020. (XI. 25.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
+[^9]: Az 1. § (6) bekezdését az 583/2020. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
