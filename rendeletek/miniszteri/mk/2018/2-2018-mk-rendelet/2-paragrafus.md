@@ -34,8 +34,11 @@ n) 8. sor, F:9 mező 10), 11), 15) és 19) pontja, F:10 mező 6) és 7) pontja, 
 
 o) 9–10., 13–16., 19. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat (a továbbiakban: SA.46515 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, tanácsadási szolgáltatásokhoz nyújtott támogatás, valamint mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás
 
+p)[^2] 10. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1. szakasza szerinti átmeneti támogatás és a 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás
+
 ## nyújtható.
 
 (3) A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges fordítási tevékenységet az Országos Fordító- és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság végzi.
 
 [^1]: A 2. § (2) bekezdése a 4/2020. (X. 30.) MK rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdés p) pontját az 5/2020. (XII. 15.) MK rendelet 1. §-a iktatta be.

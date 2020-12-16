@@ -1,4 +1,4 @@
-## 34. §[^20] Az 1. mellékletben foglalt táblázat
+## 34. §[^21] Az 1. mellékletben foglalt táblázat
 
 a) 8–10., 13–16., 19. sora az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
 
@@ -14,4 +14,4 @@ f) 8. sora, F:9 mező 10), 11), 15) és 19) pontja, F:10 mező 6) és 9) pontja,
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^20]: A 34. § a 4/2020. (X. 30.) MK rendelet 7. §-ával megállapított szöveg.
+[^21]: A 34. § a 4/2020. (X. 30.) MK rendelet 7. §-ával megállapított szöveg.

@@ -26,7 +26,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 7. bérköltség: a támogatás kedvezményezettje által ténylegesen fizetendő teljes összeg, amely egy meghatározott időszakban magában foglalja az adózás előtti bruttó bért, a kötelező járulékokat a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerint;
 
-7a.[^2] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet és az 1388/2014/EU bizottsági rendelet;
+7a.[^3] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet és az 1388/2014/EU bizottsági rendelet;
 
 8. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb;
 
@@ -128,7 +128,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 57. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás;
 
-58.[^3] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás;
+58.[^4] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás;
 
 59. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
 
@@ -204,5 +204,5 @@ f) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szó
 
 g) a 651/2014/EU bizottsági rendeletben
 
-[^2]: A 3. § (1) bekezdés 7a. pontját az 5/2019. (XII. 10.) MK rendelet 1. §-a iktatta be.
-[^3]: A 3. § (1) bekezdés 58. pontja a 4/2020. (X. 30.) MK rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés 7a. pontját az 5/2019. (XII. 10.) MK rendelet 1. §-a iktatta be.
+[^4]: A 3. § (1) bekezdés 58. pontja a 4/2020. (X. 30.) MK rendelet 2. §-ával megállapított szöveg.

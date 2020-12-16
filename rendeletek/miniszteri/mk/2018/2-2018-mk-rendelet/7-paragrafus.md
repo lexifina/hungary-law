@@ -32,7 +32,7 @@ d) sportlétesítményhez és multifunkcionális szabadidős létesítményhez n
 
 e) regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
 
-f)[^7]
+f)[^8]
 
 g) a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
@@ -52,17 +52,17 @@ k) helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás ese
 
 (8) E rendelet alapján
 
-a)[^8] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2024. június 30-ig,
+a)[^9] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2024. június 30-ig,
 
-b)[^9] csekély összegű támogatás és mezőgazdasági csekély összegű támogatás esetén 2024. június 30-ig,
+b)[^10] csekély összegű támogatás és mezőgazdasági csekély összegű támogatás esetén 2024. június 30-ig,
 
-c)[^10] regionális beruházási támogatás esetén 2021. december 31-ig,
+c)[^11] regionális beruházási támogatás esetén 2021. december 31-ig,
 
 d) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatás szerinti támogatás esetén 2020. december 31-ig,
 
 e) az SA.46515 sz. határozat szerinti támogatás esetében 2021. június 30-ig SA.46515 (2016/N) sz. bizottsági határozat 2.4. pontjában rögzített feltételek mellett)
 
-[^7]: A 7. § (6) bekezdés f) pontját a 4/2020. (X. 30.) MK rendelet 10. § 2. pontja hatályon kívül helyezte.
-[^8]: A 7. § (8) bekezdés a) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
-[^9]: A 7. § (8) bekezdés b) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
-[^10]: A 7. § (8) bekezdés c) pontja a 4/2020. (X. 30.) MK rendelet 8. § 2. pontja szerint módosított szöveg.
+[^8]: A 7. § (6) bekezdés f) pontját a 4/2020. (X. 30.) MK rendelet 10. § 2. pontja hatályon kívül helyezte.
+[^9]: A 7. § (8) bekezdés a) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
+[^10]: A 7. § (8) bekezdés b) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
+[^11]: A 7. § (8) bekezdés c) pontja a 4/2020. (X. 30.) MK rendelet 8. § 2. pontja szerint módosított szöveg.
