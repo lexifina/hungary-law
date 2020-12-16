@@ -94,6 +94,6 @@
 
 ## a képviseletre jogosult személy aláírása
 
-5/A. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^97]
+5/A. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^98]
 
-[^97]: Az 5/A. mellékletet a 282/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
+[^98]: Az 5/A. mellékletet a 282/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.

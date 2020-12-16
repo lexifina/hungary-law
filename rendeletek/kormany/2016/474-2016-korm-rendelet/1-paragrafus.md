@@ -34,7 +34,7 @@ c) az államháztartásról szóló törvény végrehajtásáról szóló 368/20
 
 10. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
-10a.[^1] kiemelt budapesti nemzetközi sportesemény: a Budapesten megvalósuló, kiemelt jelentőségű nemzetközi vagy nemzetközi érdeklődésre számot tartó, esetileg vagy ismétlődő jelleggel, jelentős részben központi költségvetési forrásból vagy egyéb állami támogatással lebonyolított sporteseményeknek – így többek között, de nem kizárólagosan az olimpiai sportágak felnőtt Európa- és világbajnokságai, egyéb világversenyei, a nemzetközi sportvilág ernyőszervezetei, a Nemzetközi Olimpiai Bizottság, a Nemzeti Olimpiai Bizottságok Szövetsége (ANOC), a Nemzetközi Sportszövetségek Szövetsége (GAISF), a téli és nyári olimpiai sportágak nemzetközi szövetségei (ASOIF, AIOWF) éves eseményei és jelentős fórumai.
+10a.[^1]
 
 11. mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék,
 
@@ -56,4 +56,4 @@ c) az államháztartásról szóló törvény végrehajtásáról szóló 368/20
 
 20. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz.
 
-[^1]: Az 1. § (2) bekezdés 10a. pontját a 282/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^1]: Az 1. § (2) bekezdés 10a. pontját a 282/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 565/2020. (XII. 8.) Korm. rendelet 27. § (2) bekezdés a) pontja.
