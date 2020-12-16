@@ -1,7 +1,3 @@
-## 2. § Az R. 26. § (3) bekezdése a következő s) ponttal egészül ki:
+## 2. §[^3]
 
-## (Ez a rendelet)
-
-## „s) az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendelet”
-
-## (végrehajtásához szükséges rendelkezéseket állapítja meg.)
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
