@@ -2,12 +2,15 @@
 
 a) törvényes képviselője vagy személyesen közreműködő tagja, egyéni vállalkozó esetén az egyéni vállalkozó személyében jogosult erdészeti szakszemélyzetként a nyilvántartásban „érvényes” státuszban szerepel,
 
-b) törvényes képviselője, személyesen közreműködő tagja, vagy munkaviszonyban álló foglalkoztatottja, vagy egyéni vállalkozó esetén az egyéni vállalkozó természetes személy
+b)[^1] törvényes képviselője, személyesen közreműködő tagja, egyéni vállalkozó esetén az egyéni vállalkozó természetes személy vagy a felsoroltak munkaviszonyban álló foglalkoztatottja
 
 ba) felsőfokú szakirányú végzettséggel rendelkezik,
 
-bb) rendészeti feladatokat ellátó erdészeti szakszemélyzet,
+bb) rendészeti feladatokat ellátó erdészeti szakszemélyzet, és
 
-bc) legalább 5 éves időtartamban, jogosult erdészeti szakszemélyzetként a nyilvántartásban bejegyzett, és
+bc) legalább 5 éves időtartamban jogosult erdészeti szakszemélyzetként a nyilvántartásban bejegyzett, és
 
-c) az erdészeti szakirányító vállalkozás – ide nem értve az egyéni vállalkozó szakirányító vállalkozást – az erdőgazdálkodásába vont összes terület alapulvételével, minden megkezdett ezer hektárja után legalább egy jogosult erdészeti szakszemélyzettel rendelkezik, törvényes képviselőjét, személyesen közreműködő tagját, munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló foglalkoztatottját, illetve egyéni vállalkozó esetén az egyéni vállalkozó természetes személyt figyelembe véve.
+c)[^2] az erdészeti szakirányító vállalkozás az erdőgazdálkodásába vont összes terület alapulvételével, minden megkezdett ezer hektárja után legalább egy jogosult erdészeti szakszemélyzettel rendelkezik, törvényes képviselőjét, személyesen közreműködő tagját, munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló foglalkoztatottját figyelembe véve.
+
+[^1]: A 10. § b) pontja az 564/2020. (XII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: A 10. § c) pontja az 564/2020. (XII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

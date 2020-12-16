@@ -1,4 +1,4 @@
-## 34. §[^1]
+## 34. §[^4]
 
 1. melléklet a 244/2020. (V. 28.) Korm. rendelethez
 
@@ -46,4 +46,4 @@ megszerzett erdőmérnök képesítés.
 
 szakképesítés.
 
-[^1]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
