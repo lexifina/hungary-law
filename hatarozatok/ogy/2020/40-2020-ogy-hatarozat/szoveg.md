@@ -1,0 +1,3 @@
+1. Az Országgyűlés elfogadja az Európai ügyek bizottságának a Menekültügyi és Migrációs Paktumot alkotó öt európai parlamenti és tanácsi rendelettervezet vonatkozásában az indokolt vélemény elfogadása feltételeinek fennállásáról szóló jelentését (a továbbiakban: Jelentés) és annak alapján megállapítja, hogy az öt rendelettervezet [COM (2020) 610; COM (2020) 611; COM (2020) 612; COM (2020) 613; COM (2020) 614] sérti a szubszidiaritás elvét.
+
+2. Az Országgyűlés felkéri az Országgyűlés elnökét, hogy a Jelentésben foglalt indokolt véleményt továbbítsa az Európai Parlament, a Tanács, illetve az Európai Bizottság elnökének, és egyidejűleg arról a Kormányt is tájékoztassa.
