@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a 13/2001. (IV. 10.) KöViM rendelet 2. melléklet 2.17 cikk 3. pontja.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
