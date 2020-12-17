@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1744-30
 | 2017-11-10 | 2013-1744-30-22.5 | 1429/2015. (VI. 30.) Korm. határozat |
 | 2019-10-23 | 2013-1744-30-22.6 | 1429/2015. (VI. 30.) Korm. határozat |
 | 2019-12-31 | 2013-1744-30-22.7 | 1429/2015. (VI. 30.) Korm. határozat |
+| 2020-12-17 | 2013-1744-30-22.8 | 1291/2023. (VII. 19.) Korm. határozat |
