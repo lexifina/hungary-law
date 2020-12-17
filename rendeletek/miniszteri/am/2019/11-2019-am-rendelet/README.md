@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-11-20-7
 | 2020-06-15 | 2019-11-20-7R.7 | 18/2020. (VI. 12.) AM rendelet |
 | 2020-08-02 | 2019-11-20-7R.8 | 39/2020. (VII. 30.) AM rendelet |
 | 2020-08-20 | 2019-11-20-7R.9 | 41/2020. (VIII. 19.) AM rendelet |
+| 2020-12-17 | 2019-11-20-7R.10 | 39/2020. (VII. 30.) AM rendelet |

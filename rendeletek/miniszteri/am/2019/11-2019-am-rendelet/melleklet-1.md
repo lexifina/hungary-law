@@ -1,6 +1,5 @@
-## 19. §[^27] E rendeletnek a védett és a fokozottan védett növény- és állatfajokról, a fokozottan védett barlangok köréről, valamint az Európai Közösségben természetvédelmi szempontból jelentős növény- és állatfajok közzétételéről szóló 13/2001. (V. 9.) KöM rendelet, valamint a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 11/2019. (IV. 1.) AM rendelet módosításáról szóló 39/2020. (VII. 30.) AM rendelettel [a továbbiakban: 39/2020. (VII. 30.) AM rendelet] megállapított 18. §-át a 39/2020. (VII. 30.) AM rendelet hatálybalépésekor[^28] folyamatban lévő eljárásokban is alkalmazni kell.
+## 20. §[^29] E rendeletnek az agrárpolitikáért felelős miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról 64/2020. (XII. 16.) AM rendelettel megállapított 2. mellékletét a 2020/2021. támogatási év II. tárgynegyedévre benyújtott kérelmekre indult eljárásokban kell alkalmazni.
 
 1. melléklet a 11/2019. (IV. 1.) AM rendelethez
 
-[^27]: A 19. §-t a 39/2020. (VII. 30.) AM rendelet 3. §-a iktatta be.
-[^28]: A hatálybalépés időpontja 2020. augusztus 2.
+[^29]: A 20. §-t a 64/2020. (XII. 16.) AM rendelet 11. §-a iktatta be.

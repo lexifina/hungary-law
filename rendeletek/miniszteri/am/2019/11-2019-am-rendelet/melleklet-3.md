@@ -4,7 +4,7 @@
 
 | 2. | növendék csirke, szabadtartásos csirke és gyöngyös | I. negyedév | 1 350,00 | 1 350,00 |
 
-| 3. | növendék csirke, szabadtartásos csirke és gyöngyös | II. negyedév | 1 350,00 | 1 200,00 |
+| 3. | növendék csirke, szabadtartásos csirke és gyöngyös | II. negyedév | 1 350,00 | 1 408,00 |
 
 | 4. | növendék csirke, szabadtartásos csirke és gyöngyös | III. negyedév | 1 350,00 | 1 350,00 |
 
