@@ -30,7 +30,9 @@ n) Borbála-nap (december 4.),
 
 o) nemzetközi polgári repülés világnapja (december 7.),
 
-p) kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter által kijelölt időpont.
+p)[^6] nemzetközi minőségügyi világnap (november 12.),
+
+q)[^7] kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter által kijelölt időpont.
 
 (2) Az elismeréseket a miniszter vagy az általa megbízott személy ünnepélyes keretek között adja át. A miniszter által megbízott személy az adományozást nem delegálhatja tovább.
 
@@ -45,3 +47,6 @@ p) kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter álta
 (7) A határidőn túl érkezett kezdeményezéseket a soron következő adományozási alkalomnál lehet figyelembe venni. Ez alól a miniszter különösen indokolt esetben felmentést adhat.
 
 (8) Az elismerések adományozásáról, illetve visszavonásáról rendelkező miniszteri közleményt a minisztérium honlapján, valamint a Hivatalos Értesítőben közzé kell tenni.
+
+[^6]: Az 5. § (1) bekezdés p) pontja a 49/2020. (XII. 16.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (1) bekezdés q) pontját a 49/2020. (XII. 16.) ITM rendelet 3. § (2) bekezdése iktatta be.

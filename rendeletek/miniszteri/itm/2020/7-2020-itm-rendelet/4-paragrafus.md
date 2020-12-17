@@ -1,3 +1,5 @@
+## 3/A. §[^5] A Nemzeti Kiválóság Díj tekintetében azok a belföldi székhelyű gazdálkodó szervezetek pályázhatnak, amelyek megfelelnek a pályázati kiírásban rögzített követelményeknek.
+
 4. § (1) Az elismerés adományozásához szükséges az elismerésre javasolt személy – 2. melléklet szerinti –
 
 a) hozzájáruló nyilatkozata az 1. mellékletben meghatározott adatainak az 5. § (5) bekezdésében meghatározott kezeléséhez és az elismeréssel összefüggő, 5. § (8) bekezdése szerinti közleményben szereplő adatai közzétételéhez, továbbá
@@ -15,3 +17,5 @@ c) aki legkésőbb az elismerésre történő felterjesztéskor az (1) bekezdés
 (3) Aki a (2) bekezdésben foglaltak ellenére elismerésben részesült, attól a miniszter az elismerést – a (2) bekezdésben foglaltakról való tudomásszerzését követően azonnal – visszavonja.
 
 (4) Méltatlanná válik a miniszter által adományozott elismerésre az a személy, akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek, jogerős bírói ítélettel a közügyektől vagy – ha az elismerésben a foglalkozással összefüggő tevékenységére tekintettel részesült – a foglalkozásától eltiltottak. A méltatlanná vált személytől a miniszter az elismerést visszavonja.
+
+[^5]: A 3/A. §-t a 49/2020. (XII. 16.) ITM rendelet 2. §-a iktatta be.

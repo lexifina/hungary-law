@@ -30,6 +30,8 @@ n) Kármán Tódor-díj,
 
 o) Szent-Györgyi Albert-díj.
 
+p)[^2] Nemzeti Kiválóság Díj.
+
 (2) A miniszter által adományozható szakmai érmek a következők:
 
 a) A Közlekedésért Érdemérem,
@@ -66,9 +68,9 @@ d) Klauzál Gábor Elismerő Oklevél,
 
 e) Miniszteri Elismerő Oklevél.
 
-(4) Szakmai díjhoz adományozó okirat, – a 2. § (1) bekezdés f), i) és l)–n) pontjában foglalt elismerések kivételével – bruttó 1 000 000 forint pénzjutalom és – a 2. § (1) bekezdés h) pontjában foglalt elismerés kivételével – érem, emlékplakett vagy kisplasztika jár.
+(4)[^3] Szakmai díjhoz adományozó okirat, – a 2. § (1) bekezdés f), i), l)–n) és p) pontjában foglalt elismerések kivételével – bruttó 1 000 000 forint pénzjutalom és – a 2. § (1) bekezdés h) pontjában foglalt elismerés kivételével – érem, emlékplakett vagy kisplasztika jár.
 
-(5) A Gyimesi Zoltán-díjhoz, a Klímavédelemért díjhoz, az Apáczai Csere János-díjhoz (felsőoktatási tagozat) és a Trefort Ágoston-díjhoz (felsőoktatási tagozat) bruttó 500 000 forint pénzjutalom jár, a Kármán Tódor-díjhoz nem jár pénzjutalom.
+(5)[^4] A Gyimesi Zoltán-díjhoz, a Klímavédelemért díjhoz, az Apáczai Csere János-díjhoz (felsőoktatási tagozat) és a Trefort Ágoston-díjhoz (felsőoktatási tagozat) bruttó 500 000 forint pénzjutalom jár, a Kármán Tódor-díjhoz és a Nemzeti Kiválóság Díjhoz nem jár pénzjutalom.
 
 (6) Szakmai éremhez adományozó okirat és érem vagy emlékplakett, illetve kitűző jár.
 
@@ -79,3 +81,7 @@ e) Miniszteri Elismerő Oklevél.
 (9) A Kiváló Bányász kitüntető címhez adományozó okirat és viselhető kitűző jár.
 
 (10) A pénzjutalom összegét – a Gyimesi Zoltán-díjjal járó pénzjutalom kivételével – az Innovációs és Technológiai Minisztérium (a továbbiakban: minisztérium) biztosítja a költségvetéséből. A Gyimesi Zoltán-díjjal járó pénzjutalmat az Országos Atomenergia Hivatal (a továbbiakban: OAH) költségvetése biztosítja.
+
+[^2]: A 2. § (1) bekezdés p) pontját a 49/2020. (XII. 16.) ITM rendelet 1. §-a iktatta be.
+[^3]: A 2. § (4) bekezdése a 49/2020. (XII. 16.) ITM rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (5) bekezdése a 49/2020. (XII. 16.) ITM rendelet 6. § c) pontja szerint módosított szöveg.
