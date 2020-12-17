@@ -12,7 +12,7 @@ d)[^47] a b) pontban meghatározott – Juh ENAR rendelet szerinti – tartós j
 
 (2)[^48] A támogatási kérelem 2015-ben az egységes kérelem benyújtásának kezdő napjától május 22-éig, azt követően tárgyévente február 1. és március 20. között nyújtható be.
 
-(3)[^49] A támogatási kérelemhez mellékelni kell a Magyar Juh- és Kecsketenyésztő Szövetség által kiállított, az igazolás kiállításakor a kérelmező tenyészetében tartott állatok létszámáról és az (1) bekezdés a) pontjában meghatározott feltételekről szóló igazolás másolatát.
+(3)[^49] A mezőgazdasági termelő mint tartó tenyészeteiben a kérelmező által tartott állatok létszámáról és az (1) bekezdés a) pontjában meghatározott feltételekről a Magyar Juh- és Kecsketenyésztő Szövetség – az agrárpolitikáért felelős miniszterrel kötött megállapodás alapján – térítésmentesen a Kincstár által rendszeresített nyomtatványnak megfelelő adattartalommal igazolást állít ki a mezőgazdasági termelő részére, valamint ezen tényekről a Kincstár megkeresésére adatot szolgáltat.
 
 (4) A mezőgazdasági termelő a (3) bekezdés szerinti igazoláson feltüntetett állatlétszámnál nagyobb állatlétszámot a támogatási jogcím vonatkozásában nem igényelhet.
 
@@ -27,7 +27,7 @@ d)[^47] a b) pontban meghatározott – Juh ENAR rendelet szerinti – tartós j
 [^46]: A 10. § (1) bekezdés a) pontja a 10/2020. (IV. 3.) AM rendelet 12. § d) pontja szerint módosított szöveg.
 [^47]: A 10. § (1) bekezdés d) pontját a 17/2017. (IV. 10.) FM rendelet 12. §-a iktatta be.
 [^48]: A 10. § (2) bekezdése a 22/2015. (V. 13.) FM rendelet 4. § a) pontja, a 4/2016. (I. 20.) FM rendelet 25. §-a szerint módosított szöveg.
-[^49]: A 10. § (3) bekezdése a 10/2019. (IV. 1.) AM rendelet 9. §-a szerint módosított szöveg.
+[^49]: A 10. § (3) bekezdése a 64/2020. (XII. 16.) AM rendelet 7. §-ával megállapított szöveg.
 [^50]: A 10. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 80. § e) pontja, a 10/2019. (IV. 1.) AM rendelet 9. §-a szerint módosított szöveg.
 [^51]: A 10. § (6) bekezdése a 17/2015. (IV. 9.) FM rendelet 16. § a) pontja szerint módosított szöveg.
 [^52]: A 10. § (7) bekezdése a 10/2019. (IV. 1.) AM rendelet 9. §-a szerint módosított szöveg.
