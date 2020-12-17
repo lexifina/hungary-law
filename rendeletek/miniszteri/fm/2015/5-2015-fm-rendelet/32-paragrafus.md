@@ -1,4 +1,4 @@
-## 31/G. §[^71] E rendeletnek az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendeletek módosításáról szóló 10/2020. (IV. 3.) AM rendelettel megállapított 10. § (3) bekezdését, 13. § (3) bekezdés a) és c) pontját, valamint 20. § (1) bekezdését a 2020. február 1-jétől benyújtott kérelemre indult eljárásokban is alkalmazni kell.
+## 31/G. §[^72] E rendeletnek az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendeletek módosításáról szóló 10/2020. (IV. 3.) AM rendelettel megállapított 10. § (3) bekezdését, 13. § (3) bekezdés a) és c) pontját, valamint 20. § (1) bekezdését a 2020. február 1-jétől benyújtott kérelemre indult eljárásokban is alkalmazni kell.
 
 ## 32. § Ez a rendelet
 
@@ -10,4 +10,4 @@ c) a közös agrárpolitika finanszírozásáról, irányításáról és monito
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU bizottsági felhatalmazáson alapuló rendeletnek
 
-[^71]: A 31/G. §-t a 10/2020. (IV. 3.) AM rendelet 6. §-a iktatta be.
+[^72]: A 31/G. §-t a 10/2020. (IV. 3.) AM rendelet 6. §-a iktatta be.
