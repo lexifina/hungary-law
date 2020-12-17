@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1537-30
 | --- | --- | --- |
 | 2019-09-20 | 2019-1537-30-22.1 | 1537/2019. (IX. 20.) Korm. határozat |
 | 2019-09-21 | 2019-1537-30-22.2 | 2010: CXXX. törvény |
+| 2020-12-17 | 2019-1537-30-22.3 | 1938/2020. (XII. 17.) Korm. határozat |

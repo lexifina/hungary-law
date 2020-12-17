@@ -38,17 +38,17 @@
 
 ## Határidő: 2020. március 31.
 
-## 7. a közösségi közlekedésben részt vevő autóbuszok környezeti fenntarthatóságának növelése érdekében egyetért azzal, hogy a helyi személyszállítási közszolgáltatási feladatokat ellátó autóbuszok tiszta és energiahatékony piacának ösztönzése szükséges azáltal, hogy a Magyar Állam 2020. és 2022. között támogatja az alacsony energiafogyasztású, továbbá alacsony szén-dioxid- és szennyezőanyag-kibocsátású EURO-6 kibocsátási normával rendelkező, vagy alternatív – elektromos vagy sűrített földgáz – meghajtású autóbuszok 2022. január 1-jétől pedig kizárólag az elektromos meghajtású autóbuszok beszerzését és továbbfejlesztését;
+## 7.[^1] a közösségi közlekedésben részt vevő autóbuszok környezeti fenntarthatóságának növelése érdekében egyetért azzal, hogy a helyi személyszállítási közszolgáltatási feladatokat ellátó autóbuszok tiszta és energiahatékony piacának ösztönzése szükséges azáltal, hogy a Magyar Állam a gazdaság újraindításának keretében 2020-tól kizárólag az elektromos meghajtású autóbuszok (akkumulátoros és üzemanyagcellás), valamint az akkumulátoros (felsővezeték nélküli önálló közlekedésre is alkalmas) segédhajtású önjáró trolibuszok gyártását, beszerzését és továbbfejlesztését támogatja azzal, hogy a nemzeti buszstratégiai-koncepció forrásait rendelkezésre bocsátja;
 
-## 8. a 7. pontban rögzített cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy konzorcium létrehozásával gondoskodjon egy olyan elektromos meghajtású autóbusz-beszerzést ösztönző mintaprojekt (a továbbiakban: Zöld Busz Mintaprojekt) megvalósításáról, melynek keretében
+## 8.[^2] a 7. pontban rögzített cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon egy olyan elektromos meghajtású autó- és önjáró trolibusz-beszerzést ösztönző mintaprojekt (a továbbiakban: Zöld Busz Mintaprojekt) megvalósításáról, melynek keretében
 
-## a) 2020. december 31-ig legfeljebb 800 000 000 forint keretösszegű állami forrás igénybevételével régiónként legalább egy, telephelyi infrastruktúrával rendelkező településen legalább három hónapos, demonstrációs (különösen műszaki, járatszervezési, vezetéstechnikai, kommunikációs) célú használat céljából megjelenjenek elektromos meghajtású buszok, továbbá
+## a) 2021. december 31-ig legfeljebb 800 000 000 forint keretösszegű állami forrás igénybevételével minimum hét, telephelyi infrastruktúrával rendelkező településen legalább egy hónapos, demonstrációs (különösen műszaki, járatszervezési, vezetéstechnikai, kommunikációs) célú használat céljából megjelennek elektromos meghajtású buszok, továbbá
 
-## b) 2020. december 31-ig legfeljebb 800 000 000 forint keretösszegű állami forrás biztosításával a megyei jogú városok számára lehetővé váljon a városi közszolgáltatási feladatok ellátása céljából a jelenlegi buszállomány részleges cseréje új, elektromos meghajtású autóbuszok beszerzése útján, a teljes beszerzési érték 20%-át meg nem haladó támogatási intenzitással;
+## b) 2021. december 31-ig legfeljebb 800 000 000 forint keretösszegű állami forrás biztosításával lehetővé válik a városi közlekedési közszolgáltatási feladatok ellátását biztosító városok és szolgáltatók számára a jelenlegi buszállomány részleges cseréje új, elektromos meghajtású autóbuszok vagy önjáró trolibuszok beszerzése útján;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2020. január 31.
+## Határidő: azonnal
 
 ## 9. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 20. Fenntartható városi buszok beszerzésének ösztönzése jogcímcsoporttal történő kiegészítését;
 
@@ -78,7 +78,19 @@
 
 ## Határidő: azonnal
 
-## 13.[^1]
+## 13.[^3]
+
+## 14.[^4] a 7. pontban rögzített cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelv (a továbbiakban: CVD Irányelv) előírásainak átültetése érdekében hatástanulmány keretében vizsgálja meg annak lehetőségét, és készítsen előterjesztést a Kormány részére arról, hogy 2021. augusztus 2-tól a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló, 2009. július 13-i 661/2009/EK európai parlamenti és tanácsi rendelet 3. cikk 2. és 3. pontjában meghatározott osztályú autóbuszok közbeszerzése esetén a CVD Irányelv rendelkezéseinél szigorúbb, akár 100%-os célérték megállapítása, valamint kizárólag tisztán elektromos meghajtású (akkumulátoros és üzemanyagcellás) autóbuszok közbeszerzésének előírása a COVID-19 világjárványból eredő gazdasági válság tükrében a hazai buszgyártói kapacitásokra és közszolgáltatói forrásigényre tekintettel meghatározható-e, és amennyiben igen, a CVD Irányelvet ennek megfelelően átültető jogszabály-módosításra tegyen javaslatot;
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2021. május 31.
+
+## 15.[^5] a 7. pontban rögzített cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy dolgozzon ki olyan támogatási feltételrendszert, amely előírja a helyi személyszállítási közszolgáltatások végrehajtásában részt vevők számára a járművek tervszerű, ütemezett cseréjéhez szükséges fejlesztési tervek elkészítését, valamint amely során differenciált mértékű önerőelvárás érvényesül.
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2021. május 31.
 
 1. melléklet az 1537/2019. (IX. 20.) Korm. határozathoz
 
@@ -156,4 +168,8 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. pont az 1938/2020. (XII. 17.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 8. pont az 1938/2020. (XII. 17.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14. pontot az 1938/2020. (XII. 17.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 15. pontot az 1938/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be.
