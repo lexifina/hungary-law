@@ -10,28 +10,6 @@ c) az országos közgyűjtemények kiállításokon jelenleg nem látható egyes
 
 d) a kulturális javak mobilitását biztosító országos vándorkiállítási program megvalósításának feltételrendszerét;
 
-2. az 1. pontban meghatározott célok megvalósítása érdekében
+2.[^1]
 
-a) felhívja az emberi erőforrások miniszterét, a Miniszterelnökséget vezető minisztert, a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és a pénzügyminisztert, hogy – a Nemzeti Kastélyprogram és a Nemzeti Várprogram végrehajtásával kapcsolatos feladatok ellátásáért felelős miniszteri biztos, az érintett közgyűjtemények, továbbá szükség esetén az érintett önkormányzatok bevonásával – dolgozzák ki az 1. pontban meghatározott célok részletes szakmai koncepcióját;
-
-Felelős: emberi erőforrások minisztere
-
-Miniszterelnökséget vezető miniszter
-
-nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-pénzügyminiszter
-
-Határidő: 2019. március 15.
-
-b) felhívja az emberi erőforrások miniszterét, hogy – a Miniszterelnökséget vezető miniszter, a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, a pénzügyminiszter, valamint a Nemzeti Kastélyprogram és a Nemzeti Várprogram végrehajtásával kapcsolatos feladatok ellátásáért felelős miniszteri biztos bevonásával – készítsen előterjesztést a Kormány részére a 2. pont a) alpontja szerinti szakmai koncepció megvalósításának pénzügyi, szakmai és egyéb feltételeiről, valamint a szakmai koncepció megvalósítását elősegítő jogszabály-módosítási javaslatokról.
-
-Felelős: emberi erőforrások minisztere
-
-Miniszterelnökséget vezető miniszter
-
-nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-pénzügyminiszter
-
-Határidő: 2019. május 15.
+[^1]: A 2. pontot az 1925/2020. (XII. 17.) Korm. határozat 12. pontja visszavonta.
