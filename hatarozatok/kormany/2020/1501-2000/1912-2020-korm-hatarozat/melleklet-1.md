@@ -52,12 +52,11 @@
 
 ## Határidő: 2021. december 31.
 
-## 2. A 2020. évi Nyári Dicsőítő Iskola megrendezésének támogatásáról szóló 1021/2020. (II. 6.) Korm. határozat 2. pontjában a „2020. december 31.” szövegrész helyébe a „2021. augusztus 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A Kulcs település turisztikai fejlesztéseinek támogatásáról szóló 1714/2020. (X. 30.) Korm. határozat 1. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „1. egyetért a kulcsi hajóállomás és vendégház, valamint környezete aktív vízi turisztikai központtá fejlesztésére irányuló beruházásnak (a továbbiakban: Beruházás) a Kulcs Községi Önkormányzat (a továbbiakban: Önkormányzat) kizárólagos tulajdonában álló, az ingatlan-nyilvántartás szerinti Kulcs belterület 2654 és 2665/8 helyrajzi számú ingatlanon történő megvalósításával;”
+## 3.[^2]
 
 1. melléklet az 1912/2020. (XII. 16.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
