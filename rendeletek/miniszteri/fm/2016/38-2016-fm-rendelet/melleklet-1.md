@@ -1,6 +1,5 @@
-## 9. §[^17] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel [a továbbiakban: 55/2017. (XI. 6.) FM rendelet] megállapított 3. § (1) bekezdést és 2. mellékletet az 55/2017. (XI. 6.) FM rendelet hatálybalépésekor[^18] folyamatban lévő eljárásokban is alkalmazni kell.
+## 9/A. §[^19] E rendeletnek az agrárpolitikáért felelős miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról szóló 64/2020. (XII. 16.) AM rendelettel megállapított 2. mellékletét a 2019/2020. tárgyévre benyújtott kérelmekre indult eljárásokban kell alkalmazni.
 
 1. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
-[^17]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 55/2017. (XI. 6.) FM rendelet 33. §-a iktatta be.
-[^18]: A hatálybalépés időpontja 2017. november 7.
+[^19]: A 9/A. §-t a 64/2020. (XII. 16.) AM rendelet 9. §-a iktatta be.
