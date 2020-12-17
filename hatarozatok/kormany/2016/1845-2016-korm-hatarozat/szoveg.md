@@ -44,23 +44,23 @@ honvédelmi miniszter
 
 Határidő: a 2019. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-c) felhívja a nemzetgazdasági minisztert, hogy – a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter bevonásával – gondoskodjon a fejlesztésekhez a 2020. évben szükséges 1 042 800 000 forint biztosításáról a központi költségvetés XI. Miniszterelnökség fejezetében;
+c)[^2] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a fejlesztésekhez a 2022. évben szükséges 1 042 800 000 forint biztosításáról a 2022. évi központi költségvetés Miniszterelnökség fejezetében;
 
-Felelős: nemzetgazdasági miniszter
+Felelős: pénzügyminiszter
 
-megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
+Miniszterelnökséget vezető miniszter
 
-Határidő: a 2020. évi központi költségvetés tervezése során
+Határidő: a 2022. évi központi költségvetés tervezése során
 
-d) felhívja a megyei jogú városok fejlesztéséért felelős tárca nélküli minisztert, hogy a honvédelmi miniszter bevonásával a fejlesztések megvalósításához a 2020. évben a XIII. Honvédelmi Minisztérium fejezet részére történő átcsoportosítás céljából nyújtson be előterjesztést az Áht. 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében;
+d)[^3] felhívja a Miniszterelnökséget vezető minisztert, hogy a honvédelmi miniszter bevonásával a fejlesztések megvalósításához a 2022. évben a Honvédelmi Minisztérium fejezet részére történő átcsoportosítás céljából nyújtson be előterjesztést az Áht. 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében;
 
-Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 honvédelmi miniszter
 
-Határidő: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-3.[^2]
+3.[^4]
 
 4. felhívja a honvédelmi minisztert, hogy a bizottsági bejelentést a polgári célú felhasználással összefüggő fejlesztések állami támogatásáról jelentse be az Európai Bizottság részére, a Miniszterelnökségen belül működő Támogatásokat Vizsgáló Iroda bevonásával, az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szerinti eljárásrenddel összhangban;
 
@@ -76,7 +76,7 @@ Felelős: honvédelmi miniszter
 
 Határidő: 2017. január 31.
 
-6.[^3] felhívja a honvédelmi minisztert, hogy – a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter bevonásával – a beruházás megvalósításához elengedhetetlen üzleti terv elkészítése során vizsgálja meg más költségvetési szerv vagy Kecskemét Megyei Jogú Város Önkormányzata közreműködésének a lehetőségét, valamint szükség szerint készítsen előterjesztést a Kormány részére.
+6.[^5] felhívja a honvédelmi minisztert, hogy – a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter bevonásával – a beruházás megvalósításához elengedhetetlen üzleti terv elkészítése során vizsgálja meg más költségvetési szerv vagy Kecskemét Megyei Jogú Város Önkormányzata közreműködésének a lehetőségét, valamint szükség szerint készítsen előterjesztést a Kormány részére.
 
 Felelős: honvédelmi miniszter
 
@@ -85,5 +85,7 @@ megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
 Határidő: folyamatos
 
 [^1]: A 2. pont az 1202/2018. (IV. 4.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 3. pontot az 1202/2018. (IV. 4.) Korm. határozat 3. pontja visszavonta.
-[^3]: A 6. pontot az 1202/2018. (IV. 4.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 2. pont c) alpontja az 1937/2020. (XII. 17.) Korm. határozattal megállapított szöveg.
+[^3]: A 2. pont d) alpontja az 1937/2020. (XII. 17.) Korm. határozattal megállapított szöveg.
+[^4]: A 3. pontot az 1202/2018. (IV. 4.) Korm. határozat 3. pontja visszavonta.
+[^5]: A 6. pontot az 1202/2018. (IV. 4.) Korm. határozat 2. pontja iktatta be.
