@@ -2,7 +2,7 @@ A Kormány a Magyar Falu Program keretében megvalósuló egyes programelemekkel
 
 1. egyetért a Magyar Falu Program keretében megvalósuló sportparkok építése alprogram második üteme szerinti 125 településen előkészített sportparkberuházás programszerű kormányzati magasépítési beruházásként történő megvalósításával;
 
-2. az 1. pont szerinti beruházások megvalósítása érdekében – a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére – a Beruházási Ügynökség által vállalható kötelezettség összegét 897 578 991 forintban határozza meg;
+2.[^1] az 1. pont szerinti beruházások megvalósítása érdekében – a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére – a Beruházási Ügynökség által vállalható kötelezettség összegét 904 696 195 forintban határozza meg;
 
 3. felhívja a pénzügyminisztert, hogy gondoskodjon a 2. pont szerinti összeg 2020. évi részének finanszírozása érdekében 541 566 104 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások cím, 9. Sportpark beruházások megvalósítása alcím javára;
 
@@ -27,3 +27,5 @@ pénzügyminiszter
 Modern Települések Fejlesztéséért felelős kormánybiztos
 
 Határidő: a 2021. évi központi költségvetés végrehajtása során, legkésőbb 2021. január 31. napjáig
+
+[^1]: A 2. pont az 1922/2020. (XII. 17.) Korm. határozat 2. pontja szerint módosított szöveg.
