@@ -2,8 +2,10 @@
 
 (2) Az agrárkár-megállapító szerv a helyszíni ellenőrzés megállapításait, az 5. § (3) bekezdés szerinti adatokat, valamint a kárbejelentéshez kapcsolódó 5. § (7) bekezdés szerinti kockázatelemzés adatait veszi figyelembe a (1) bekezdés szerinti ellenőrzés során.
 
-(3) Az agrárkár-megállapító szerv a 2. melléklet szerinti adatok, a (1) bekezdés szerinti határozatok, valamint a benyújtott fellebbezések adatai tekintetében az Mkk. tv. 14. § (7) bekezdésében meghatározottak szerint jár el. A fellebbezésről annak beérkezését követő hét napon belül, majd az eljárás lezárásáról szóló döntésről a mezőgazdasági termelő részére történő közléssel egyidejűleg az agrárkár-megállapító szerv értesítést küld az agrárkár-enyhítési szerv részére.
+(3)[^50] Az agrárkár-megállapító szerv a 2. melléklet szerinti adatok, a (1) bekezdés szerinti határozatok, valamint a benyújtott keresetlevelek adatai tekintetében az Mkk. tv. 14. § (7) bekezdésében meghatározottak szerint jár el. A keresetlevélről annak beérkezését követő hét napon belül, majd az eljárás lezárásáról szóló döntésről a mezőgazdasági termelő részére történő közléssel egyidejűleg az agrárkár-megállapító szerv értesítést küld az agrárkár-enyhítési szerv részére.
 
 (4) Az agrárkár-megállapító szerv a kárenyhítő juttatás iránti kérelmek ellenőrzött adataiból adatállományt készít és azt a tárgyévet követő év január 15-éig elérhetővé teszi az erre a célra létrehozott elektronikus felületen a mezőgazdasági igazgatási szerv és az agrárkár-enyhítési szerv részére. A mezőgazdasági igazgatási szerv a megküldött megyei adatállományokból országos összesítést készít, amelyet a tárgyévet követő év január 31-éig elektronikus úton elérhetővé tesz az agrárkár-enyhítési szerv részére, valamint az országosan összesített adatállományból megyeszintű és elemi káreseményenkénti bontásban, a tárgyévet követő év február 15-éig összefoglaló jelentést készít és azt az arra a célra létrehozott elektronikus felületen elérhetővé teszi a miniszter részére.
 
 (5) Az agrárkár-megállapító szerv az általa ellenőrzött kárenyhítő juttatás iránti kérelemhez kapcsolódóan kiállított, (1) bekezdés szerinti határozat egy példányát legkésőbb a tárgyévet követő év január 31-éig megküldi a mezőgazdasági termelő részére.
+
+[^50]: A 10. § (3) bekezdése a 60/2020. (XII. 9.) AM rendelet 8. § j) pontja szerint módosított szöveg.
