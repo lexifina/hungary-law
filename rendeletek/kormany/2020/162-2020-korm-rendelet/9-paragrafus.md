@@ -1,5 +1,3 @@
-## a Hivatal felé megküldeni.
-
 9. § (1) A Hivatal jogosult ellenőrizni az e rendeletben foglaltak betartását.
 
 (2) Az e rendeletben meghatározott kötelezettségek ismételt megsértése esetén a Hivatal jelzése alapján a miniszter az e rendeletben foglalt kötelezettség teljesítéséért felelős személy(ek) fegyelmi és kártérítési felelősségre vonását kezdeményezheti a fegyelmi jogkör gyakorlójánál.
