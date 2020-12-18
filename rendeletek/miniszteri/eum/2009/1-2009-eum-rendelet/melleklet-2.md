@@ -166,6 +166,12 @@
 
 | V.6. | ETTSZ szakvélemény | 4 070 Ft/anyag vagy készítmény |
 
+| V.7. | Méregközpontba történő bejelentés díjtételei |  |
+
+| V.7.1. | Bejelentés | 16 000 Ft/bejelentés |
+
+| V.7.2. | Bejelentés módosítása jelentős (az összetételt érintő) változás esetén | 12 000 Ft/módosítás |
+
 | VI. | Biocid anyagokkal kapcsolatos igazgatási szolgáltatások |  |
 
 | VI.1. | Biocid termék forgalomba hozatalának engedélyezése | 2 500 000 Ft |
@@ -428,7 +434,7 @@
 
 | XIII. 3. | A jogszabályban foglaltaktól eltérő dohányzási tilalmat jelző felirat engedélyezése | 15 000 Ft |
 
-2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^13]
+2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^14]
 
 |  | A | B |
 
@@ -480,4 +486,4 @@
 
 | 24 | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^13]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított szöveg.

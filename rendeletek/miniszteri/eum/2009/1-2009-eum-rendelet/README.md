@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-1-20-0B
 | 2016-01-16 | 2009-1-20-0B.15 | 34/2009. (X. 20.) EüM rendelet |
 | 2017-04-01 | 2009-1-20-0B.16 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2018-11-01 | 2009-1-20-0B.17 | 38/2018. (X. 31.) EMMI rendelet |
+| 2020-12-18 | 2009-1-20-0B.18 | 41/2020. (XI. 17.) EMMI rendelet |
