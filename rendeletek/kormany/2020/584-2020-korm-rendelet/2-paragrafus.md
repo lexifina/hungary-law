@@ -1,5 +1,5 @@
-## 1. § A járványügyi készültség bevezetéséről szóló 283/2020. (VI. 17.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § Ez a rendelet 2021. június 18-án hatályát veszti.”
+## 1. §[^2]
 
 2. § Ez a rendelet 2020. december 17-én lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
