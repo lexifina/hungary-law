@@ -6,4 +6,6 @@
 
 (3) A naturáliákat a 2018/2019. gázév adataiból kiindulva, a korábbi gázévek tendenciáira és az árszabályozási időszak során várható tendenciákra, valamint a földgázellátó rendszer kiépített kapacitásaira figyelemmel kell meghatározni.
 
-(4) Az induló díjak megállapítása során a figyelembe vehető kapacitáslekötések mértékéről az érintettek érdekeire tekintettel, a GET 104/B. § (2) bekezdés a) pontja szerinti módszertani útmutatóban részletezettek szerint kell dönteni olyan módon, hogy a fizikai és a lekötött kapacitás eltéréséből fakadó kockázatot meg kell osztani a rendszerüzemeltető és a felhasználó között.
+(4)[^6] Az induló díjak megállapítása során a figyelembe vehető kapacitáslekötések mértékéről az érintettek érdekeire tekintettel, a GET 104/B. § (2) bekezdés b) pontja szerinti módszertani útmutatóban részletezettek szerint kell dönteni olyan módon, hogy a fizikai és a lekötött kapacitás eltéréséből fakadó kockázatot meg kell osztani a rendszerüzemeltető és a felhasználó között.
+
+[^6]: A 13. § (4) bekezdése a 15/2020. (XII. 15.) MEKH rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
