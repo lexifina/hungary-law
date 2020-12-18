@@ -1,4 +1,4 @@
-## 46. §[^103] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 581/2020. (XII. 14.) Korm. rendelettel (a továbbiakban: Módr38.) megállapított 1. § (1) és (3) bekezdését, valamint a 2. mellékletben foglalt táblázat 52., 53. és 54. sorát a Módr38. hatálybalépésekor[^104] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 47. §[^105] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 600/2020. (XII. 17.) Korm. rendelettel (a továbbiakban: Módr39.) megállapított 2. mellékletben foglalt táblázat 55. sorát a Módr39. hatálybalépésekor[^106] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^103]: A 46. §-t az 581/2020. (XII. 14.) Korm. rendelet 2. §-a iktatta be.
-[^104]: A hatálybalépés időpontja 2020. december 15.
+[^105]: A 47. §-t a 600/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^106]: A hatálybalépés időpontja 2020. december 18.

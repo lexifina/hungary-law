@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2020-08-08 | 2018-141-20-22.36 | 388/2020. (VIII. 7.) Korm. rendelet |
 | 2020-11-26 | 2018-141-20-22.37 | 3/2019. (I. 24.) Korm. rendelet |
 | 2020-12-15 | 2018-141-20-22.38 | 581/2020. (XII. 14.) Korm. rendelet |
+| 2020-12-18 | 2018-141-20-22.39 | 600/2020. (XII. 17.) Korm. rendelet |
