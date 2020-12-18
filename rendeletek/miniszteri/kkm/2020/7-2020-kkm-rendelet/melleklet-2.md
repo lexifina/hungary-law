@@ -1,14 +1,4 @@
-|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
-
-| 1. | Áht. azonosító | Címnév | Alcím név | Jogcím csop. név | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Vissza- fizetés határ- ideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete |
-
-| 2. |  | Fejezeti kezelésű előirányzatok |
-
-| 3. |  |  | Célelőirányzatok |
-
-| 4. |  |  |  | A koronavírus- járvány következtében szükségessé vált versenyképesség- növelő támogatás | Az előirányzat fedezetet biztosít a koronavírus (COVID-19) következtében a gazdaság számára szükséges beruházások ösztönzésére, valamint az elszenvedett pénzügyi károk megtérítésére a vállalatoknak nyújtott egyszeri, vissza nem terítendő költségvetési támogatás nyújtása által. | A Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaságok, kivéve az alábbi ágazatok: acélipar, hajógyártás, szénipar, szintetikusszál-ipar, személy- vagy áruszállítási szolgáltatás, elsődleges mezőgazdasági termelés, akvakultúra, energiatermelés, kereskedelem, turizmus. Továbbá a HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvény- társaság mint lebonyolító szerv. | pályázat útján támogatói okirattal, valamint egyedi kérelemre támogatási szerződéssel | előleg biztosítható | költségvetési támogatás esetén közvetlen kifizetéssel egy összegben, egyéb kifizetés esetén közvetlen kifizetéssel egy összegben és/vagy részletekben, teljesítésarányosan; előirányzat- átcsoportosítással |  | Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat, illetve a rendeletben meghatározott esetekben bankgarancia |  | HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvény- társaság |  |
-
-2. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^32]
+2. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^35]
 
 A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás tekintetében vállalt beruházás keretében beszerzett tárgyi eszközökre és immateriális javakra vonatkozó szabályok
 
@@ -144,4 +134,4 @@ a) Olyan ingatlan, amelynek az ingatlan-nyilvántartás szerinti tulajdoni lapja
 
 b) A telekköltség a beruházás teljes elszámolható költségének 25%-áig vehető figyelembe.
 
-[^32]: A 2. mellékletet a 10/2020. (VII. 4.) KKM rendelet 15. §-a iktatta be.
+[^35]: A 2. mellékletet a 10/2020. (VII. 4.) KKM rendelet 15. §-a iktatta be.

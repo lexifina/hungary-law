@@ -1,5 +1,5 @@
 ## 14. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^31]
+1. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^34]
 
-[^31]: Az 1. melléklet a 10/2020. (VII. 4.) KKM rendelet 14. §-ával megállapított szöveg.
+[^34]: Az 1. mellékletet a 17/2020. (XII. 17.) KKM rendelet 6. § c) pontja hatályon kívül helyezte.

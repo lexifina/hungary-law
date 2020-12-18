@@ -8,7 +8,7 @@
 
 a) ellátja
 
-aa)[^18] a pályázatértékelési, a döntés-előkészítői, a támogatói okiratok kibocsátásával és támogatási szerződések létrehozásával, módosításával összefüggő előkészítő feladatokat,
+aa)[^19] a pályázatértékelési, a döntés-előkészítői, a támogatói okiratok kibocsátásával és támogatási szerződések létrehozásával, módosításával összefüggő előkészítő feladatokat,
 
 ab) a nyilvántartási és előrejelzési feladatokat,
 
@@ -24,14 +24,14 @@ ag) az előirányzathoz kapcsolódó analitikus nyilvántartások vezetésével 
 
 ah) a versenyképesség-növelő támogatásból megvalósuló támogatott tevékenység kapcsán felmerülő költségek elszámolhatóságát igazoló ellenőrzési feladatokat, beleértve a teljesítésre, és a kifizetés jogosságának vizsgálatára vonatkozó feladatokat is,
 
-ai)[^19] a támogatói okiratok és szerződések, valamint módosításaik, illetve a kapcsolódó dokumentumok teljes körű jogi és pénzügyi szempontú vizsgálatát és szakmai, jogi, illetve – az Ávr. 55. § (2) bekezdés j) pontja szerinti személy általi – pénzügyi ellenjegyzését,
+ai)[^20] a támogatói okiratok és szerződések, valamint módosításaik, illetve a kapcsolódó dokumentumok teljes körű jogi és pénzügyi szempontú vizsgálatát és szakmai, jogi, illetve – az Ávr. 55. § (2) bekezdés j) pontja szerinti személy általi – pénzügyi ellenjegyzését,
 
 b) ellátja a versenyképesség-növelő támogatás felhasználásával kapcsolatos ellenőrzési feladatokat,
 
 c) kivizsgálja a kedvezményezett által benyújtott kifogást, és javaslatot tesz a támogató részére a kifogás elbírálásához,
 
-d)[^20] gondoskodik a támogatói okiratok és szerződések lezárásáról, végzi az előirányzathoz kapcsolódó követeléskezelési feladatokat.
+d)[^21] gondoskodik a támogatói okiratok és szerződések lezárásáról, végzi az előirányzathoz kapcsolódó követeléskezelési feladatokat.
 
-[^18]: Az 5. § (2) bekezdés a) pont aa) alpontja a 10/2020. (VII. 4.) KKM rendelet 8. §-ával megállapított szöveg.
-[^19]: Az 5. § (2) bekezdés a) pont ai) alpontja a 10/2020. (VII. 4.) KKM rendelet 9. §-ával megállapított szöveg.
-[^20]: Az 5. § (2) bekezdés d) pontja a 10/2020. (VII. 4.) KKM rendelet 10. §-ával megállapított szöveg.
+[^19]: Az 5. § (2) bekezdés a) pont aa) alpontja a 10/2020. (VII. 4.) KKM rendelet 8. §-ával megállapított szöveg.
+[^20]: Az 5. § (2) bekezdés a) pont ai) alpontja a 10/2020. (VII. 4.) KKM rendelet 9. §-ával megállapított szöveg.
+[^21]: Az 5. § (2) bekezdés d) pontja a 10/2020. (VII. 4.) KKM rendelet 10. §-ával megállapított szöveg.
