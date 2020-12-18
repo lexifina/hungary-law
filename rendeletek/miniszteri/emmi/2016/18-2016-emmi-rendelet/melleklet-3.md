@@ -3294,7 +3294,7 @@
 
 ## A szakmai gyakorlat a képzés negyedik félévében a felsőoktatási intézményben, illetve annak gyakorlati képzést biztosító szervezeti egységében, valamint a felsőoktatási intézmény által alapított gazdálkodó szervezetnél, továbbá egyesületnél, alapítványnál, költségvetési szervnél, önkormányzatnál és egyéb gazdálkodó szervezetnél végzett gyakorlat.
 
-3. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez[^25]
+3. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez[^31]
 
 AZ ALAPKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -4220,187 +4220,7 @@ Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag 
 
 A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen három-öt hét gyakorlati képzésből, valamint egy félévig (tizenkettő-tizenöt hétig) tartó szakmai gyakorlatból.
 
-7. MEZŐGAZDASÁGI SZAKOKTATÓ ALAPKÉPZÉSI SZAK
-
-1. Az alapképzési szak megnevezése: mezőgazdasági szakoktató (Agricultural Instruction)
-
-2.Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
-
-- végzettségi szint: alap- (baccalaureus, bachelor; rövidítve: BSc-) fokozat
-
-- szakképzettség: mezőgazdasági szakoktató
-
-- a szakképzettség angol nyelvű megjelölése: Agricultural Instructor
-
-- választható specializációk:
-
-- mezőgazdasági
-
-- élelmiszer-ipari
-
-- környezetvédelemi, vízgazdálkodási
-
-3. Képzési terület: agrár
-
-4. A képzési idő félévekben: 7 félév
-
-5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180+30 kredit
-
-- a szak orientációja: gyakorlatorientált (60-70 százalék)
-
-- a szakdolgozat készítéséhez rendelt kreditérték: 5 kredit
-
-- intézményen kívüli összefüggő gyakorlati képzés minimális kreditértéke: 30 kredit
-
-- a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
-
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 146/0114
-
-7. Az alapképzési szak képzési célja és a szakmai kompetenciák
-
-A képzés célja mezőgazdasági szakoktatók képzése, akik felkészültek a specializációnak megfelelő, az Országos Képzési Jegyzék szerinti környezetvédelem-vízgazdálkodás, mezőgazdaság, élelmiszeripar szakmacsoportjaiba tartozó adekvát szakképesítések iskolarendszerű és iskolarendszeren kívüli képzéseiben folyó szakmai gyakorlati tárgyak oktatására, az összefüggő szakmai gyakorlatok megtervezésére, szervezésére, vezetésére, lebonyolítására felkészültek a pedagógus kompetenciaelvárások teljesítésére.
-
-A képzés része a szakmai gyakorlati tantárgyakhoz kapcsolódó tanműhelyi, szakképző intézményen belüli és kívüli összefüggő szakmai (vállalati képzőhelyeken folytatott üzemi, tanműhelyi) gyakorlatok lebonyolítása, illetve a felsőoktatási szakképzés, a felnőttképzés és átképzés, valamint a közoktatás gyakorlati képzési feladataira történő felkészítés.
-
-7.1. Az elsajátítandó szakmai kompetenciák
-
-7.1.1. A mezőgazdasági szakoktató
-
-a) tudása
-
-- Átfogóan ismeri a szakképzés jogszabályi elvárásait, a szakképesítések rendszerét.
-
-- Ismeri az agrár szakterületi szakmacsoportba tartozó szakképesítések rendszerét.
-
-- Ismeri az agrár irányultságú szakképesítések szakmai gyakorlati tantárgyait, az egyes tantárgyakhoz kapcsolódó összefüggő szakmai gyakorlati követelményeket.
-
-- Ismeri az egészségmegőrzéssel és az egészségfejlesztéssel kapcsolatos alapvető elvárásokat, különösen a szakképzés adekvát szakterületén érvényesítendő élelmiszerlánc-biztonsággal, környezet-, munka-, baleset- és fogyasztóvédelemmel kapcsolatos követelményeket.
-
-- Rendelkezik a mezőgazdasági szakoktatói tevékenységhez szükséges természettudományos, gazdasági menedzsment ismeretekkel, a speciális elméleti és módszertani alapokkal és gyakorlati ismeretekkel.
-
-- Ismeri az új, korszerű technológiákat, azok alkalmazását. Nyomon követi és beépíti a tananyagba a szakterületre jellemző termelési és gazdálkodási eljárásokat, technológiai fejlődéseket.
-
-- Folyamatosan figyelemmel kíséri a környezetvédelmi, higiéniai, élelmiszer-biztonsági, élelmezés-egészségügyi, munkavédelmi előírásokat, valamint betartja és betartatja azokat.
-
-- Új módszereket és eljárásokat alkalmaz az oktatásban, a specializációknak megfelelő területeken.
-
-b) képességei
-
-- Képes gyakorlati oktatói tevékenység folytatására.
-
-- Képes szakképzést nyújtó középiskolában és felnőttképzésében az adott szakiránynak megfelelő gyakorlati tárgyak oktatására, a gyakorlatok vezetésére, a 10. évfolyam elvégzéséhez vagy annál alacsonyabb iskolai előképzettséghez kötött szakképesítések esetén a képzés gyakorlattal összekötött szakmai elméleti tantárgyaiban, laboratóriumi, műhelygyakorlati foglalkozásain az oktatási feladatok ellátására.
-
-- Képes a szakterületi képzéssel kapcsolatba hozható tanügyi dokumentumok, jogszabályok és iskolai dokumentumok használatának oktatására.
-
-- Gyakorlati foglalkozásokat és összefüggő szakmai gyakorlatokat tervez, szervez, vezet és irányít.
-
-- Meghatározza a gyakorlati foglalkozások tantervhez igazodó céljait, követelményeit; a foglalkozásokhoz szükséges személyi, tárgyi, környezeti és pénzügyi feltételeket, továbbá biztosítja a tanulók egészségének, testi épségének védelmét.
-
-- Képes a szaktárgy tanórán és iskolán kívüli tanulás tervezésének oktatására, a végzettségének megfelelő korosztály, továbbá a felnőttképzés keretében.
-
-- Képes a tanulók személyiségének életkorukkal összhangban lévő fejlesztésére a gyakorlati munkavégzések folyamatában.
-
-- Képes a szakterületen alkalmazott technikai eszközök és technológiai folyamatok megismertetésére.
-
-- Képes a gyakorlati képzés során a szakmai feladatok ellátásához szükséges kompetenciák fejlesztésére.
-
-- Képes a sajátos nevelési igényű és a halmozottan hátrányos helyzetű tanulók kezelésére.
-
-- Képes a szakképzést folytató és a vizsgáztatással kapcsolatos feladatokat ellátó intézmények számára a gyakorlati képzési programok összeállítására, valamint az elméleti követelményekkel való összehangolására.
-
-- Képes a gyakorlati oktatás tartalmának ellenőrzésére és értékelésére.
-
-- Képes céljainak megfelelően az értékelés eszközeinek megválasztására vagy önálló eszközök elkészítésére.
-
-- Képes a gyakorlati vizsgák megszervezésére és lefolytatására.
-
-- Képes szakmai gyakorlati vizsgára történő felkészítésre, valamint szakmai bizottsági tagként gyakorlati vizsgáztatási feladatok ellátására.
-
-- Képes a szakképzéssel összefüggő tanórán kívüli nevelőmunkára, a szakképzést elősegítő pályaorientációs feladatok ellátására.
-
-- Képes a környezet-, munka-, baleset- és fogyasztóvédelemmel kapcsolatos követelmények érvényesítésére a szakmai gyakorlati képzésben.
-
-- Képes a szakterületére jellemző online és nyomtatott szakirodalom magyar és idegen nyelven történő megértésére és használatára.
-
-- Képes saját önálló tanulásának megtervezésére és megszervezésére.
-
-- Hatékonyan választja meg az elmélet és a gyakorlat kapcsolatát, egységét támogató munkaformákat, alkalmazza őket a szakképzés folyamatában.
-
-- A pedagógiai folyamatok tervezésével kapcsolatban képes szakmai önreflexióra, illetve önkorrekcióra.
-
-- Képes a termelési, szolgáltatási folyamatot alkotó munkafolyamatok meghatározására.
-
-- Képes a munkafolyamatokban alkalmazható eszközök, szerszámok, gépek és berendezések megválasztására, működtetésére.
-
-- Képes a szakmai szocializáció megalapozását segíteni.
-
-- Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés eredményeinek felhasználására.
-
-- Képes szakmai és érdekvédelmi szervezetekben való közreműködésre.
-
-c) attitűdje
-
-- Vállalja és hitelesen képviseli a pedagógus szakma társadalmi szerepét, alapvető viszonyát a világhoz.
-
-- Nyitott a pedagógus szakma átfogó gondolkodásmódjának és gyakorlati működése alapvető jellemzőinek hiteles közvetítésére, átadására.
-
-- Törekszik arra, hogy önképzése a szakmai céljai megvalósulásának egyik eszközévé váljon.
-
-- Váratlan döntési helyzetekben is törekszik a jogszabályok és az etikai normák teljes körű figyelembevételével meghozni döntését.
-
-- Törekszik arra, hogy a problémákat lehetőleg másokkal együttműködve oldja meg.
-
-d) autonómiája és felelőssége
-
-- Szakmai útmutatás alapján végzi átfogó és speciális szakmai kérdések végiggondolását és adott források alapján történő kidolgozását.
-
-- Felelősséggel részt vállal a szakképzéssel kapcsolatos szakmai nézetek kialakításában, indoklásában.
-
-- A szakmát megalapozó nézeteket felelősséggel vállalja.
-
-- Fejleszti a szakmával kapcsolatos hivatástudat kiépítését.
-
-- Ismeri a szakterületi, szakmai érvényesülési és szakmai mobilitási lehetőségeket, képes ezen ismeretek megosztására.
-
-- Rendszeres kapcsolatot tart a gazdálkodó vagy szolgáltató szervezetekkel, üzemekkel.
-
-- Képes az üzem és az iskola érdekeinek egyeztetésére, képviseletére.
-
-- Részt vesz az iskola vagy a szakképző intézmény külső és belső kapcsolatrendszerének kialakításában.
-
-- Közreműködik a település, a kistérség és a régió fejlesztésében.
-
-- Képes adott szakképesítés szerinti munkahelyek sajátos munkavédelmi és biztonságtechnikai ismereteinek közvetítésére.
-
-8. Az alapképzés jellemzői
-
-8.1. Szakmai jellemzők
-
-A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
-
-- A szakoktató képzésben közös képzési tartalmak ismeretei (Nemzeti alaptanterv szakterületi és szakmacsoportos ismeretei. Pedagógiai és pszichológiai elméleti, gyakorlati ismeretek.) 30-40 kredit;
-
-- A mezőgazdasági szakoktató képzés szakterületi ismeretei 120-130 kredit, melyből
-
-- szakoktatói tevékenységhez szükséges alapozó (természettudományos gazdasági és gazdaságmenedzsment) ismeretek 30-40 kredit;
-
-- a mezőgazdasági szakoktató – specializáció szerinti – adekvát (környezetvédelem és vízgazdálkodás, mezőgazdaság, élelmiszeripar) Országos Képzési Jegyzék szakmacsoportjába tartozó szakképesítések szakmai elméleti és gyakorlati tárgyainak oktatásához szükséges általános és speciális módszertani és gyakorlati ismeretei 80-90 kredit;
-
-- a mezőgazdasági szakoktató képzés specializációihoz kapcsolódó választható ismeretek (pedagógiai és pszichológiai ismeretek, Országos Képzési Jegyzék szakmai gyakorlati ismeretek) 15-25 kredit.
-
-8.2. Idegennyelvi követelmény
-
-Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
-
-8.3. A szakmai gyakorlat követelményei
-
-A szakmai gyakorlat legalább hat hét időtartamot elérő, iskolai és munkahelyi összefüggő gyakorlat és portfolió készítése, amelynek kreditértéke 30 kredit.
-
-8.4. A képzést megkülönböztető speciális jegyek
-
-A képzés folyamán a hallgatók különböző tantárgyaikhoz (Nemzeti alaptanterv szakterületi és Országos Képzési Jegyzék szerinti szakképesítés szakmacsoportos ismeretek, pedagógiai-pszichológiai gyakorlati ismeretek, a szakképesítés szakmai gyakorlati ismeretei) kötődően folyamatosan oldanak meg olyan projektfeladatokat, melyek feltétele a tantervben meghatározott iskolai gyakorlatokon való részvétel.
-
-A képzés utolsó félévében kötelező összefüggő iskolai és munkahelyi gyakorlaton kell részt venni. Ennek során a hallgatók elsajátítják szakterületük gyakorlati képzésének sajátosságait és feladatait a szakképző intézményekben és gyakorlati képzőhelyeken. A gyakorlat folyamán mentoraik irányításával önálló oktatási és szakmai tevékenységet folytatnak.
+7.
 
 8. SZŐLÉSZ-BORÁSZ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
@@ -5210,6 +5030,490 @@ Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, 
 
 A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább három hét gyakorlati képzésből, valamint egy félévig (tizenkettő-tizenöt hétig) tartó szakmai gyakorlatból áll, amely külső gyakorlati helyen is megszervezhető.
 
+13. AGRÁR- ÉS ÜZLETI DIGITALIZÁCIÓ ALAPKÉPZÉSI SZAK
+
+1. Az alapképzési szak megnevezése: agrár- és üzleti digitalizáció (Agricultural and Business Digitalization)
+
+2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése
+
+- végzettségi szint: alap- (baccalaureus, bachelor; rövidítve: BSc-) fokozat
+
+- szakképzettség: agrár-digitalizációs mérnök
+
+- a szakképzettség angol nyelvű megjelölése: Agri-digitalization Engineer
+
+3. Képzési terület: agrár
+
+4. A képzési idő félévekben: 7 félév
+
+5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180+30 kredit
+
+- a szak orientációja: kiegyensúlyozott (40-60 százalék)
+
+- a szakdolgozat elkészítéséhez rendelt kreditérték: 15 kredit
+
+- intézményen kívüli összefüggő gyakorlati képzés minimális kreditértéke: 30 kredit
+
+- a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
+
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621/0810
+
+7. Az alapképzési szak képzési célja és a szakmai kompetenciák
+
+A képzés célja agrár-digitalizációs mérnökök képzése, akik képesek a hazai és nemzetközi agrárgazdaság területén agrár-digitalizációs és IoT eszközöket üzemeltetni, működtetni, továbbá az ágazati sajátosságok figyelembevételével képesek agrár-digitalizációs fejlesztési feladatok megoldására, a hazai és nemzetközi agrár-digitalizáció különböző területein középvezetői feladatok ellátására. Felkészültek tanulmányaik mesterképzésben történő folytatására.
+
+7.1. Az elsajátítandó szakmai kompetenciák
+
+7.1.1. Az agrár-digitalizációs mérnök
+
+a) tudása
+
+- Részletekbe menően elsajátítja a gazdaságtudomány, illetve a gazdaság, agrárium mikro és makro szerveződési szintjeinek fogalmait, törvényszerűségeit, folyamatait és összefüggéseit, továbbá ismeri a kapcsolódó szakterületek terminológiáját. Jól ismeri az agrárökonómia szakszókincsét, az írott és beszélt nyelvi kommunikáció sajátosságait.
+
+- Érti a gazdálkodó szervezetek struktúráját, működését és hazai, illetve nemzeti határokon túlnyúló kapcsolatrendszerét, információs és motivációs tényezőit, különös tekintettel az intézményi környezetre. Ismeri az agrárgazdaság általános és specifikus jellemzőit, határait, legfontosabb fejlődési irányait, az agrárium kapcsolódását a közgazdasági és üzleti szférához.
+
+- Tisztában van az agrárüzleti szektor működésének és fejlődésének ügyviteli, számviteli és pénzügyi hátterével. Átfogóan ismeri az agráriumban használt fontosabb agrár-digitalizációs eszközöket, ügyviteli, tervezési, elemzési, telepirányítási szoftvereket.
+
+- Ismeri az európai integrációs folyamatot és az Európai Uniónak a tevékenységéhez kapcsolódó szakpolitikáit. Átfogóan ismeri az agrárgazdasághoz kapcsolódó hazai és európai uniós jogi szabályozást.
+
+- Ismeri az agrárgazdasági vállalkozások, egyéb gazdálkodó szervezetek által menedzselt projektek tervezési és vezetési szabályait, szakmai és etikai normáit. Rendelkezik azzal a tudással, amely szükséges ahhoz, hogy egyénileg, illetve csoportmunkában elkészítsen projektterveket, illetve uniós és hazai finanszírozású pályázatokat.
+
+- Ismeri és érti a hazai agrárgazdaság működéséhez kapcsolódó hazai és uniós szakigazgatás rendszerét, valamint a szakterületén lejátszódó folyamatokat, a köztük lévő összefüggéseket.
+
+- Ismeri a vidék- és területfejlesztés működésének sajátosságait (a mezőgazdaság vidékfenntartó és vidékfejlesztő szerepét) és a sajátosságok okait. Ismeri az emberi jólét és az agrárágazat kapcsolatát, az agrárágazat kulturális relációit, kultúrákon átívelő szerepét és hagyományait. Ismeri a vidékgazdaság, a társadalom és az agrárágazat viszonyát, a közösségfejlesztés társadalmi szükségességét, a kapcsolódó környezetpolitikai összefüggéseket.
+
+- Tisztában van a tájhasznosítási, az ökológiai és az integrált termelési technológiákkal, különös tekintettel a precíziós gazdálkodásra. Ismeri a gazdasági, társadalmi, ökológiai értelemben vett fenntartható élelmiszergazdaságban megvalósuló innovatív fejlesztések megvalósíthatóságának szakmai és pénzügyi feltételrendszerét és alapelveit. Ismeri a fejlesztések, beruházások megvalósításához szükséges finanszírozási források értékelését és pénzügyi megtérülési elemzések módszertanát.
+
+- Tisztában van a problémafelismerés, -megfogalmazás és -megoldás, az információgyűjtés és információ-feldolgozás korszerű, elméletileg is igényes matematikai-statisztikai, ökonometriai, modellezési módszereivel, valamint azok korlátaival is. Ismeri és használja az agrárökonómiai kutatások kvantitatív és kvalitatív elemzési és szoftvertámogatású módszereit. Ismeri az agrárökonómia sajátos kutatási módszereit, absztrakciós technikáit, az elvi kérdések gyakorlati vonatkozásainak kidolgozási módjait, a részterületek tervezésének, mérésének és elemzésének módszereit. Rendelkezik azon ismeretek körével, melyek szükségesek gazdaságtudományi képzési területen folyó mesterképzésbe való belépéshez.
+
+b) képességei
+
+- A gyakorlati tudás, tapasztalatok megszerzését követően képes kis-, közepes, esetleg nagyobb agrárvállalkozások szakterületével releváns szervezeti egységeinek vezetésére. Gazdálkodó szervezetekben átfogó agrárgazdasági és informatikai funkciót lát el, összetett agrárüzleti folyamatokat tervez, irányít, az erőforrásokkal gazdálkodik. A tanult ismeretek és megszerzett tapasztalatok birtokában képes akár saját vállalkozás irányítására és működtetésére is. Munkája során együttműködik a kapcsolódó szakterületek érintettjeivel.
+
+- Képes az agráriumban a termelési folyamatok megszervezésére, ellenőrzésére, elemzésére és értékelésére. Nemzetközi, multikulturális környezetben is képes hatékony munkavégzésre.
+
+- Gazdálkodási folyamatokban, projektekben, csoportos feladatmegoldásokban vesz részt, középvezetőként a szakterületéhez kapcsolódó tevékenységet tervezi, szervezi és értékeli. Képes az agrárgazdaság területén innovációs, tervezési, fejlesztési és kutatási feladatok elvégzésére és irányítására, továbbá a kutatási eredmények gyakorlatban történő hasznosításának menedzselésére.
+
+- Képes az agrárgazdaságban érdekelt vállalkozások alapításával, működtetésével, megszüntetésével kapcsolatos elemző, döntés-előkészítő és döntéshozatali tevékenységek magas színvonalú ellátására. Önállóan és csapatban dolgozva részt tud venni üzleti, operatív, taktikai és stratégiai tervek kidolgozásában és megvalósításában. Képes az agrárium működéséhez kapcsolódó korszerű informatikai eszközök, szoftverek alkalmazására, használatára, szakszerű és hatékony szóbeli és írásbeli kommunikációra magyar és legalább egy idegen nyelven.
+
+- Sokoldalú, interdiszciplináris megközelítéssel azonosít speciális szakmai problémákat, feltárja és megfogalmazza az azok megoldásához szükséges részletes elméleti és gyakorlati hátteret. Képes felismerni egy-egy gazdasági intézkedés környezetre gyakorolt negatív vagy pozitív hatásait.
+
+- Képes komplex módon elemezni egy meghatározott vidéki térség problémáit, lehetőségeit és képes tanácsot adni a fejlesztés lehetséges irányairól, aktívan bekapcsolódva a területi tervezési feladatok ellátásába. Képes mérlegelni az adott vállalati, intézményi vagy közösségi projektek hatásait a vidék gazdasági, társadalmi és természeti környezetére vonatkozóan. Alkalmas az agrobiznisz egyes területei által érintett vidéki területeken élő emberek életfeltételeinek, megélhetésének javítására, a rendelkezésre álló források integrálására, a lokális gazdaság fejlesztésére és a fenntartható fejlődés megteremtésére.
+
+- Önálló új következtetéseket, eredeti gondolatokat és megoldási módokat fogalmaz meg, képes az igényes elemzési, modellezési módszerek alkalmazására. Magas szinten használja az agrárökonómia ismeretközvetítési technikáit, és dolgozza fel a magyar és idegen nyelvű publikációs forrásait. Rendelkezik a hatékony információkutatás, -feldolgozás ismereteivel. Az agrárökonómia egyes résztémáiról önálló, szaktudományos formájú összefoglalókat, elemzéseket készít. Képes menedzselni a kutatási eredmények gyakorlati alkalmazását.
+
+c) attitűdje
+
+- Kreativitás szakmai kérdésekben; jó problémafelismerő és -megoldó képesség; elemző és szintetizáló képesség; elkötelezettség a fenntarthatóság elve mellett; jó kommunikációs és együttműködési képesség; szakmai felelősségtudat; szakmai továbbképzés iránti igény.
+
+- Fejlett szakmai identitással, hivatástudattal rendelkezik, melyet a szakmai és szélesebb társadalmi közösség felé is vállal. Kulturált, etikus és tárgyilagos értelmiségi hozzáállás jellemzi a személyekhez, illetve a társadalmi problémákhoz való viszonyulása során, munkájában figyel a szélesebb körű társadalmi, ágazati, regionális, nemzeti és európai értékekre. Az agrárgazdaság és informatika legfontosabb problémái kapcsán átlátja és képviseli az azokat meghatározó aktív állampolgári, műveltségi elemeket.
+
+- Kritikusan viszonyul saját, illetve a beosztottak munkájához és magatartásához, innovatív és proaktív magatartást tanúsít a gazdasági problémák kezelésében. Törekszik tudásának és munkakapcsolatainak fejlesztésére, erre munkatársait és beosztottjait is ösztönzi, segíti és támogatja.
+
+- Nyitott és befogadó az agrárium és a gazdaságtudomány, valamint a szakinformatika új eredményei iránt, továbbá azonosul a tudományos kutatás etikai szabályaival és normarendszerével. Nyitott mások eltérő véleményére, ha azok szakmai indokokkal kellően alátámasztottak és hitelesen közvetíti szakmája összefoglaló és részletezett problémaköreit.
+
+- Azonosul az élethosszig tartó tanulás koncepciójával, törekszik arra, hogy szakterülete legújabb eredményeit saját fejlődésének szolgálatába állítsa. Magáévá teszi azt az elvet, hogy a folyamatos szakmai szocializáció és a személyes tanulás a közjó szolgálatában áll.
+
+d) autonómiája és felelőssége
+
+- Jelentős mértékű önállósággal végzi átfogó és speciális agrár-digitalizáció menedzsment kérdések végiggondolását és adott források alapján történő kidolgozását. Kialakított szakmai véleményét döntési helyzetekben önállóan képviseli. Önállóan választja ki és alkalmazza a releváns probléma-megoldási módszereket, önállóan és csapatban lát el agrárgazdasági- és informatikai döntés-előkészítő feladatokat.
+
+- Felelősséget vállal saját munkájáért, az általa irányított szervezetért, vállalkozásáért, az alkalmazottakért. Önállóan azonosítja, tervezi és szervezi saját és beosztottjai szakmai és általános fejlődését, azokért felelősséget vállal és visel. Egy adott szervezeti cél elérése érdekében autonóm módon, a csoport többi tagjával együttműködve mozgósítja elméleti és gyakorlati tudását és képességeit.
+
+- Felelősen gondolkodik a gazdasági döntések környezeti és társadalmi hatásairól, valamint az agrárgazdaságban működő vállalkozások társadalmi és környezeti felelősségvállalásáról.
+
+8. Az alapképzés jellemzői
+
+8.1. Szakmai jellemzők
+
+A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
+
+- Gazdaságtudományi alapismeretek (gazdaságtudományi, jogi és közigazgatási ismeretkörök a gazdasági folyamatok megértéséhez elsajátításához) 25-35 kredit, amelyből
+
+- gazdaságmatematikai, informatikai ismeretek 5-15 kredit,
+
+- közgazdaságtani, statisztikai ismeretek 10-15 kredit,
+
+- agrár- és gazdasági jogi ismeretek, közigazgatási alapismeretek 5-15 kredit.
+
+- Agrártechnológiai és agrár-természettudományi alapismeretek (az egyes mezőgazdasági ágazatok termelési folyamataihoz szükséges agrár-természettudományi és mezőgazdasági alapismeretek 20-30 kredit, amelyből
+
+- növénytermesztési, kertészeti, állattenyésztési, élelmiszerlánc-biztonsági alapismeretek 15-25 kredit,
+
+- mezőgazdasági műszaki alapismeretek 4-10 kredit,
+
+- vízgazdálkodási, környezetgazdálkodási ismeretek 4-8 kredit.
+
+- Agrárgazdasági és vállalkozási alapismeretek (a gazdasági, agrárpolitikai, vállalkozástervezési folyamatok megértéséhez szükséges agrárgazdasági és vállalkozásfejlesztési ismeretek) 35-45 kredit amelyből
+
+- pénzügy és számviteli, pályázati támogatási ismeretek 5-15 kredit,
+
+- mezőgazdasági üzemtani ismeretek 5-15 kredit,
+
+- szaktanácsadási és agrárkereskedelmi ismeretek 5-10 kredit,
+
+- marketing, logisztikai ismeretek 5-10 kredit,
+
+- regionális gazdaságtani és vidékpolitikai ismeretek 5-15 kredit,
+
+- vidékfejlesztési ismeretek 4-10 kredit,
+
+- menedzsment és emberi erőforrás gazdálkodási ismeretek 5-10 kredit.
+
+- Agrárinformatikai és üzleti digitalizáció szakmai ismeretek 60-70 kredit
+
+- agrárinformatikai ismeretek, adatfeldolgozás és vizualizáció, agrár adatbázisrendszerek, agrármenedzsment rendszerek, mezőgazdasági telepirányítási rendszerek, a logisztika, a marketing, a minőségbiztosítás, a projektmenedzsment, az élelmiszerbiztonság informatikai támogatásának infokommunikációs eszközei, ágazati információs rendszerek, szakigazgatási rendszerek, ellátásilánc- és értékteremtő folyamatok menedzsmentje, okos (smart) mezőgazdaság, speciális szakágazati információs rendszerek, integrált vállalatirányítási rendszerek.
+
+8.2. Idegennyelvi követelmény
+
+Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+
+8.3. A szakmai gyakorlat követelmények
+
+A szakmai gyakorlat két részből tevődik össze:
+
+- a szakmai elméleti képzéshez kapcsolódó, összesen legalább három hét gyakorlati képzésből, valamint
+
+- egy félévig (tizenkettő-tizenöt hétig) tartó, külső gyakorlati helyen folyó szakmai gyakorlatból.
+
+14. ÁLLATTENYÉSZTŐ MÉRNÖKI ALAPKÉPZÉSI SZAK
+
+1. Az alapképzési szak megnevezése: állattenyésztő mérnöki (Animal Husbandry Engineering)
+
+2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+
+- végzettségi szint: alap- (baccalaureus, bachelor; rövidítve: BSc-) fokozat
+
+- szakképzettség: állattenyésztő mérnök
+
+- a szakképzettség angol nyelvű megjelölése: Animal Husbandry Engineer
+
+3. Képzési terület: agrár
+
+4. A képzési idő félévekben: 7 félév
+
+5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma:180+30 kredit
+
+- a szak orientációja: gyakorlatorientált (60-70 százalék)
+
+- a szakdolgozat elkészítéséhez rendelt kreditérték: 15 kredit
+
+- intézményen kívüli összefüggő gyakorlati képzés minimális kreditértéke: 30 kredit
+
+- a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
+
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621/0811
+
+7. Az alapképzési szak képzési célja és szakmai kompetenciák
+
+A képzés célja állattenyésztő mérnökök képzése, akik állattenyésztési, növénytermesztési, műszaki, gazdasági és informatikai tudásuk birtokában ismerik a hazai és Európai Unió mezőgazdaságát, azon belül is az állattenyésztés gazdasági és társadalmi szerepét. Képesek az állati termék-előállítás közvetlen irányítására, egy adott gazdaságban alkalmazott technológiai folyamatok szükség szerinti módosítására, új technológiák bevezetésére. Munkájuk során olyan megoldásokat keresnek és részesítenek előnyben, amelyek a társadalom és az egyének egészségének megóvását támogatják, illetve a környezet védelmét is szem előtt tartják. Felkészültek tanulmányaik mesterképzésben való folytatására.
+
+7.1. Az elsajátítandó szakmai kompetenciák
+
+7.1.1. Az állattenyésztő mérnök
+
+a) tudása
+
+- Ismeri a mezőgazdasági termelést, azon belül az állati termék-előállítást megalapozó természettudományi, műszaki-technológiai, élelmiszerlánc-biztonsági, gazdálkodási és gazdasági alapfogalmakat.
+
+- Ismeri a mezőgazdasági ágazatokban, de különösen az állattenyésztésben használatos korszerű technológiákat és azok gyakorlati alkalmazását, rendelkezik digitális kompetenciákkal.
+
+- Ismeri a precíziós gazdálkodás alapjait és annak gyakorlati alkalmazását.
+
+- Birtokában van a tevékenységi területén alkalmazható vezetéselméleti és szervezetirányítási ismereteknek, a munkaszervezetek hatékonyságának és egészséget támogató voltának erősítése érdekében.
+
+- Ismeri az agrárium intézményrendszerének felépítését, jogi szabályozását, támogatási és ösztönző rendszereit.
+
+- Birtokában van mindannak az ismeretnek, amely képessé teszi szabatos szakmai kommunikációra, mezőgazdasági termelésben való közvetlen részvételre, annak támogatására, továbbá K+F+I projektek gyakorlati megvalósításában való aktív – operatív – szereplésre.
+
+b) képességei
+
+- Képes állattenyésztési ágazatot, főágazatot vagy azt kiszolgáló más ágazatot vezetni, szakszerűen irányítani.
+
+- Képes családi gazdaságot alapítani és vezetni.
+
+- Képes a mezőgazdasági termelés, de különösen az állati termék-előállítás folyamatában fellépő rutinszerű problémák felismerésére és annak megszüntetésére.
+
+- Képes az élelmiszerlánc-biztonsági alapelveket betartani és betartatni az élelmiszer előállítása során.
+
+- Folyamatosan figyelemmel kíséri a környezetvédelmi, állatvédelmi, állatjóléti, higiéniai, élelmiszer-biztonsági, élelmezés-egészségügyi, munkavédelmi előírásokat, valamint betartja és betartatja azokat.
+
+- Ismeri a környezet és a mezőgazdasági termelés, állati termék-előállítás egymásra hatását és képes munkájában komplex szemlélettel dönteni.
+
+- Állattenyésztési, mezőgazdasági vállalkozások középvezetőjeként rendelkezik megfelelő kooperációs képességgel, melynek révén a szakmai utasításokat egyértelműen tudja értelmezni és közvetíteni a beosztottjai felé.
+
+- Képes a gazdasági haszonállatok, társ- és hobbiállatok egészségét veszélyeztető betegségek, elváltozások felismerésére, illetve azonosítására, a szükséges preventív és invazív állategészségügyi technológiák megtervezésére és végrehajtására.
+
+- Képes az állattenyésztési ágazatra vonatkozó előírások, jogszabályok értelmezésére, azokat betartja és betartatja.
+
+- Megfelelő kommunikációs képességgel rendelkezik, amely alkalmassá teszi szakmai véleményének, álláspontjának megfogalmazására és – vita esetén – annak megvédésére.
+
+c) attitűdje
+
+- Szakmai kérdésekhez konstruktívan, problémamegoldó módon áll hozzá.
+
+- Érdeklődő a mezőgazdaság bármely szektorában felmerülő problémák, az újabb termelési irányzatok megismerése iránt, és törekszik azok megoldására, illetve bevezetésére.
+
+- Felelősséget érez az élelmiszerlánc-biztonsági feltételek betartásáért.
+
+- Szakmai döntéseiben fontos szerepet játszik a társadalom és az egyéni egészség és a környezet védelme.
+
+- Munkája során önálló szakmai feladatellátásra törekszik.
+
+- Önállóan, felelősséggel tervezi meg szakmai életpályáját.
+
+- Ennek megfelelően folyamatosan képezi magát, tájékozódik a mezőgazdasági, állattenyésztési technológiák területén zajló kutatás-fejlesztési eredményekről, különös tekintettel a precíziós gazdálkodásra.
+
+- Érzékeny a mezőgazdasági, állattenyésztési termelés környezetvédelmi, állatjóléti, élelmiszerbiztonsági vonatkozásai iránt, és így nyilvánul meg álláspontjának megfogalmazásában és napi munkájában egyaránt.
+
+d) autonómiája és felelőssége
+
+- Képes önállóan tevékenykedni a mezőgazdasági termelést kiszolgáló szolgáltatói, kereskedelmi szektorokban, különböző méretű és jellegű mezőgazdasági vállalkozások termelői és operatív irányítói feladatainak ellátására, szakmai tanácsadásra.
+
+- A feladatai ellátása során fellépő döntéseiért, saját és a rábízott munkaerő munkájáért felelősséget vállal.
+
+- Szakmai ismeretei alapján képes a munkaterületét érintő K+F+I projektek munkatervének önálló összeállítására, és vállalja a fejlesztési tevékenység közvetlen irányításának felelősségét.
+
+- Érti és hitelesen képviseli a mezőgazdaság bármely szektorának fontosságát, hazai és nemzetközi viszonylatban egyaránt.
+
+- Elkötelezett a mezőgazdasági termelés pozitív társadalmi megítélésének fenntartása, javítása iránt.
+
+- Szakmai kommunikációjában felelősen képviseli szakmai meggyőződését.
+
+- Véleményét önállóan, szakmailag megalapozottan és felelőssége tudatában fogalmazza meg.
+
+8. Az alapképzés jellemzői
+
+8.1. Szakmai jellemzők
+
+8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
+
+- természettudományos alapismeretek [az általános és specifikus mezőgazdasági ismeretek megértéséhez és elsajátításához szükséges általános természettudományos (botanikai, zoológiai, kémiai, genetikai, állatélettani) ismeretek] 15-20 kredit;
+
+- mérnöki alapismeretek (műszaki, informatikai ismeretek) 5-10 kredit;
+
+- állattenyésztési, növénytermesztési és technológiai alapismeretek [az egyes állattenyésztési ágazatok specifikus ismereteinek elsajátításához szükséges alapozó mezőgazdasági (állattenyésztési, növénytermesztési, biotechnológiai, mikrobiológiai, takarmányozástani, élelmiszerlánc-biztonsági) ismeretek] 15-30 kredit;
+
+- gazdasági és humán alapismeretek (a hazai és nemzetközi agrárgazdaság intézményrendszere, a mezőgazdasági termelés jogi és gazdasági szabályozásának alapjai, vállalkozói és pénzügyi ismeretek, vidékfejlesztési, kommunikációs és vezetési ismeretek, projektmenedzsment szaktanácsadás ismeretek) 15-20 kredit;
+
+- állattenyésztő mérnöki szakmai ismeretek (az állati termék előállításához kapcsolódó gazdasági, társadalmi ismeretek, állattenyésztés, szaporítás és állatnemesítés, tartástechnológia, állategészségügy, állatjólét, takarmánynövény-termesztés, gyepgazdálkodás, telepirányítás, precíziós gazdálkodás, mezőgazdasági termék-előállítás ismeretei) 75-100 kredit.
+
+8.1.2. A sajátos kompetenciákat eredményező, az agrárium egy-egy szektorában történő elméleti, gyakorlati elmélyülést lehetővé tevő és a következő képzési szinten történő továbbtanulás lehetőségét megalapozó, választható ismeretek kredithányada a képzés egészén belül 10-20 kredit.
+
+8.2. Idegennyelvi követelmény
+
+Az alapfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány megszerzése szükséges.
+
+8.3. A szakmai gyakorlat követelményei
+
+A szakmai gyakorlat két részből tevődik össze:
+
+- a szakmai elméleti képzéshez kapcsolódóan tanévenként összesen két hét gyakorlati foglalkozásból (fizikai és állattenyésztési munkagyakorlat formájában – kritériumtárgyakként), valamint
+
+- egy félévig (tizenkettő-tizenöt hétig) tartó szakmai gyakorlatból (30 kredit; egy-egy állattenyésztési, mezőgazdasági ágazat, üzem működésének, a hatékony és gazdaságos termelés megvalósítási gyakorlatának komplex megismerése céljából).
+
+15. MEZŐGAZDASÁGI VÍZGAZDÁLKODÁSI ÉS KÖRNYEZETTECHNOLÓGIAI MÉRNÖKI ALAPKÉPZÉSI SZAK
+
+1. Az alapképzési szak megnevezése: mezőgazdasági vízgazdálkodási és környezettechnológiai mérnöki (Agricultural Water Management and Environmental Technology Engineering)
+
+2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése
+
+- végzettségi szint: alap- (baccalaureus, bachelor; rövidítve: BSc-) fokozat
+
+- szakképzettség: mezőgazdasági vízgazdálkodási és környezettechnológiai mérnök
+
+- a szakképzettség angol nyelvű megjelölése: Agricultural Water Management and Environmental Technology Engineer
+
+3. Képzési terület: agrár
+
+4. A képzési idő félévekben: 7 félév
+
+5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180+30 kredit
+
+- a szak orientációja: gyakorlatorientált (60-70 százalék)
+
+- a szakdolgozat készítéséhez rendelt kreditérték: 15 kredit
+
+- intézményen kívüli összefüggő gyakorlati képzés minimális kreditértéke: 30 kredit
+
+- a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
+
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621/0811
+
+7. Az alapképzési szak képzési célja és a szakmai kompetenciák
+
+A képzés célja mezőgazdasági vízgazdálkodási és környezettechnológiai mérnökök képzése, akik képesek a mezőgazdasági vízgazdálkodási és környezettechnológiai folyamatok üzemeltetési feladatainak ellátására, illetve a tervezésében való közreműködésre. Rendelkeznek a fenntartható termelés közvetlen irányításához, a technológiai folyamatok szükség szerinti módosításához, illetve új technológiák bevezetéséhez szükséges ismeretekkel. Ismerik az alkalmazható mezőgazdasági vízgazdálkodási és környezettechnológiákat és eljárásokat, melyek segítségével képesek klímaadaptációs megoldások kidolgozásában való részvételre, annak megvalósítására, szakterület érintő szakigazgatási alapfeladatok ellátására, regionális és határokon átnyúló agrár- és környezeti kérdések kezelésére. Felkészültek tanulmányaik mesterképzésben való folytatására.
+
+7.1. Az elsajátítandó szakmai kompetenciák
+
+7.1.1. A mezőgazdasági vízgazdálkodási és környezettechnológiai mérnök
+
+a) tudása
+
+- Ismeri a mezőgazdasági termelést megalapozó természettudományi, műszaki, informatikai, technológiai és gazdasági alapfogalmakat, azokat szabatosan kezeli.
+
+- Ismeri a hidrológiai alapfolyamatokat.
+
+- Ismeri a mezőgazdasági termelés hatásait a természetes ökoszisztémákra, tisztában van azok gazdasági hatásaival.
+
+- Ismeri a mezőgazdasági és élelmiszeripari, illetve az ezekhez kapcsolódó iparágak termelési folyamatait.
+
+- Ismeri a mezőgazdasági célú vízgazdálkodási problémákat és az azzal kapcsolatos prevenciós és kárelhárítási eljárásokat.
+
+- Ismeri a mezőgazdasági környezeti terhelési problémákat és az azzal kapcsolatos prevenciós és kárelhárítási eljárásokat.
+
+- Ismeri a természet és tájvédelem gyakorlati megoldásait.
+
+- Tisztában van a talaj- és vízvédelem fontosságával, annak elméleti és gyakorlati ismeretanyagával.
+
+- Ismeri a klímaváltozás okozta új kihívásokat, felismeri az adaptáció fontosságát.
+
+- Ismeri a mezőgazdaságban használatos modern öntözési és belvíz-gazdálkodási technológiákat, illetve azok gyakorlati alkalmazási és fejlesztési oldalát egyaránt.
+
+- Ismeri a különféle művelési ágak sajátosságait (szántóföldi, gyümölcsös, üvegházi), azok vízellátási igényeit és környezeti vonatkozásait.
+
+- Ismeri az integrált vízgyűjtő-gazdálkodás elveit és gyakorlatát.
+
+- Ismeri a felszín alatti vízkészletek védelmével kapcsolatos előírásokat.
+
+- Ismeri a mezőgazdasági hulladék hasznosításának gyakorlati alkalmazási és fejlesztési oldalát, a komposztálási és biogáz-hasznosítási lehetőségeket.
+
+- Tisztában van a fenntartható mezőgazdasági tevékenység alapelveivel, annak környezettechnológiai eszközkészletével.
+
+- A fenntartható gazdálkodás megvalósulása érdekében ismeri és alkalmazni tudja a körforgásos gazdálkodás, ökológiai gazdálkodás ismérveit, gyakorlatát.
+
+- Ismeri a mezőgazdaságban rejlő megújuló energia potenciált, a különféle energiatípusokat és azok gyakorlati hátterét.
+
+- Ismeri a mezőgazdasági vízgazdálkodási és környezettechnológiai K+F+I tevékenységet, érti annak összefüggéseit.
+
+- Ismeri és érti a széleskörűen értelmezett vízgazdálkodási és környezettechnológiai műveletek elveit, gépeit, berendezéseit és műszereit, valamint ezek működését a gyakorlatban is.
+
+- Ismeri továbbá a természetvédelmi területek, a vizes élőhelyek sajátosságait, illetve azok rekonstrukciós feladatait.
+
+- Ismeri a szakma hazai és nemzetközi helyzetét.
+
+- Rendelkezik a mezőgazdasági ágazatra vonatkozó etikai és jogszabályi ismeretekkel.
+
+b) képesség
+
+- Képes öntöző- és belvíz-gazdálkodási rendszerek üzemeltetésére.
+
+- Képes területi vízgazdálkodási folyamatok megoldásában részt venni.
+
+- Képes a víz-keretirányelvek vízgyűjtőszintű betartására.
+
+- Képes mezőgazdasági vízgazdálkodási folyamatok tervezésében való közreműködésre és az üzemeltetési feladatok ellátására.
+
+- Képes kisvízfolyások és csatornák üzemeltetésére, vizes élőhelyek rehabilitációjára és fenntartására.
+
+- Kompetens a talaj és vízminőség-védelmi analitikában.
+
+- Képes közreműködni árvízvédelmi feladatok végrehajtásában.
+
+- Képes meliorációs munkák megvalósítására.
+
+- Képes vízkárelhárítási munkákban közreműködni.
+
+- Képes talajok kármentesítésében részt venni.
+
+- Képes a természetvédelem és tájvédelem gyakorlati feladatainak ellátására.
+
+- Képes a mezőgazdasági és ahhoz kapcsolódó iparágak folyamatai során keletkező emisszió, hulladékok, szennyvizek menedzsment és technológiai feladatainak feltárására, kockázatértékelésre és megoldásra.
+
+- Képes bioenergetikai üzemeltetési feladatok elvégzésére.
+
+- Képes mezőgazdasági vízgazdálkodás és mezőgazdasági környezettechnológia szakterületén belül a fenntarthatóság kívánalmait szem előtt tartva mezőgazdasági klímaadaptációs folyamatok elvégzésére.
+
+- Jó kommunikációs képességekkel bír, a szakmai nyelvet adekvátan használja.
+
+- Egyaránt képes terepi és laboratóriumi munkavégzésre.
+
+- Jelentős a mezőgazdasági technológiai eljárások és öko-innovációk témakörében való jártassága.
+
+- Képes családi gazdaságot alapítani és vezetni.
+
+- Képes kutatómunka keretében fejlesztési és innovációs feladatokban való részvételre, a kapott utasításokat értelmezni és a szabályok betartásával végrehajtani azokat.
+
+- Alkalmas szaktanácsadási feladatok elvégzésére a vízgazdálkodás és a környezettechnológia témaköreiben.
+
+- Képes részfeladatok ellátására a technológiai rendszerek fejlesztésében, új eljárások, termékek kifejlesztésében.
+
+- Képes az önképzésre, az ehhez szükséges módszerek alkalmazására és források használatára.
+
+- Képes eligazodni a szakmájukhoz kapcsolódó gazdaságpolitikai és társadalmi eseményekben hazai és nemzetközi szinten egyaránt.
+
+- Képes követni a technológia fejlődését, amelyek közvetlenül vagy közvetve kapcsolódnak ágazatához.
+
+- Képes alkalmazni az új eljárásokat.
+
+- Képes szervezett keretek közt zajló csapatmunkában hatékonyan részt venni.
+
+- Képes projektekben való részvételre, különös tekintettel az előkészítési és kivitelezési feladatokra.
+
+c) attitűd
+
+- A feladatokhoz felmerülő problémákhoz konstruktívan áll hozzá.
+
+- Természet- és környezettudatos gondolkodású.
+
+- A fenntarthatóság alapelveit a gyakorlatban is követi, alkalmazza.
+
+- Felelősségtudatos.
+
+- Munkájára igényes.
+
+- Munkája és szakmája iránt elkötelezett.
+
+- Szakmai nyitottság jellemzi.
+
+- Magas szintű és kreatív problémafelismerő- és -megoldó képességű.
+
+- Fogékony az új szakmai ismeretek befogadására.
+
+d) autonómia és felelősség
+
+- Önálló észrevételei és szakmai meglátásai vannak.
+
+- Bizonyos szintű munkákban koordinálást igényel.
+
+- A szabályok szerint jár el a terepi és a laboratóriumi munkavégzése során.
+
+- Felelősséget érez a saját és munkatársai munkájával kapcsolatban.
+
+- A rábízott tárgyi eszközöket felelősen használja.
+
+- Szakmai feladatát önállóan végzi.
+
+- Csapatmunkában konstruktív.
+
+- Kommunikációjában szakmailag hiteles, a megfontoltság és a felelősségtudat jellemzi.
+
+- Önállóan tervezi meg saját szakmai előmenetelét.
+
+8. Az alapképzés jellemzői
+
+8.1. Szakmai jellemzők
+
+8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
+
+– mérnöki alapismeretek: mérnöki matematika, mérnöki fizika, hidraulika, általános gépészeti ismeretek, geodézia, statisztika, felszíni és felszín alatti vízkészletek hidrológiája 20-25 kredit;
+
+– természettudományos alapismeretek: kémia (szervetlen és szerves), biológia (mikrobiológia, hidrobiológia), mezőgazdasági vízgazdálkodás talajtani és agrokémiai alapjai, ökológia, természet és tájvédelem 15-25 kredit;
+
+– mezőgazdasági alapismeretek: földműveléstan, földhasználat, öntözéses növénytermesztés, gyepgazdálkodás, állattenyésztés, kertészeti termelés, növényvédelem; precíziós vízgazdálkodás, agrometeorológia 15-25 kredit;
+
+– agrár-gazdasági és humán alapismeretek: víz és környezetgazdaságtan, hazai és nemzetközi agrárgazdaság intézményrendszere, mezőgazdasági termelés, valamint környezet- és természetvédelem jogi és gazdasági szabályozásának alapjai, munkavédelmi és munkabiztonsági ismeretek; vízpolitika-vízjog 10-15 kredit;
+
+– vízkezelési, vízhasználati, talajvédelmi és környezettechnológiai ismeretek [vízgépészeti és vízépítési ismeretek, mezőgazdasági vízgazdálkodás, árvízvédelem és vízkárelhárítás, vizes élőhelyek üzemeltetése, öntözéstechnológia, belvízgazdálkodás, talajvédelem, akvakultúra, vízgazdálkodási informatika és monitoring (GIS, távérzékelés), környezetgazdálkodás-környezettechnológia (levegőtisztaság-védelem, talajkármentesítés, víz- és szennyvízkezelés, műszaki kockázatelemzés) mezőgazdasági és élelmiszeripari hulladékkezelés, megújuló energia, agrárerdészet] 70-90 kredit.
+
+8.2. Idegennyelvi követelmény
+
+Az alapfokozat megszerzéséhez valamelyik élő idegen nyelvből, amelyiken a szakmának tudományos irodalma van, komplex középfokú (B2 szintű) államilag elismert nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
+
+8.3. A szakmai gyakorlat követelményei
+
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan két hetes gyakorlati képzésből, valamint egy félévig tartó, külső gyakorlati helyen, gazdálkodó szervezetnél megszervezett szakmai gyakorlatból áll.
+
 II. BÖLCSÉSZETTUDOMÁNY KÉPZÉSI TERÜLET
 
 1. ANGLISZTIKA ALAPKÉPZÉSI SZAK
@@ -5494,414 +5798,4 @@ c) attitűdje
 
 - Érti és elfogadja, hogy a kulturális jelenségek történetileg és társadalmilag meghatározottak és változóak.
 
-- Igénye van az európai, és az azon kívüli kultúrák sokszínűségének megismerésére.
-
-- Elfogadja a magyar és az európai identitások vallási és társadalmi, történeti és jelenkori sokszínűségét.
-
-- Nyitott a problémák sokoldalú módszertani megközelítésének lehetősége irányába.
-
-- Elfogadja és a gyakorlatban is megvalósítja az egészségmegőrző szemléletet és életvitelt.
-
-d) autonómiája és felelőssége
-
-- Kialakít olyan történetileg és politikailag koherens egyéni álláspontot, amely segíti önmaga és környezete fejlődését, tudatosodását.
-
-- Hatékonyan együttműködik a germanisztika területéhez kapcsolódó hazai és nemzetközi kulturális közösségekkel.
-
-- A germanisztika területén szerzett ismereteit alkalmazza önművelésében, önismeretében.
-
-- Tudatosan képviseli azon módszereket, amelyekkel a germanisztika területén dolgozik, és elfogadja más tudományágak eltérő módszertani sajátosságait.
-
-- Felelősséget vállal egyének és csoportok szakmai fejlődéséért.
-
-- Szakmai hivatástudata kialakítására és önképzésre törekszik.
-
-7.1.2. Szakirányokon szerezhető további sajátos kompetenciák
-
-7.1.2.1. Német szakirányon továbbá a germanisztika, német alapszakos bölcsész
-
-a) tudása
-
-- Ismeri a beszélt és írott német nyelv szabályait, ismeretekkel rendelkezik a német nyelv variánsairól, regisztereiről.
-
-- Tájékozott a német nyelvű kultúrák területén, ismeri azok történeti vonatkozásait, hasonlóságait és különbségeit.
-
-- Ismeri a német nyelvű országok földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásainak rendszerét.
-
-- Ismeri a német nyelvű irodalmak, kultúrák jellemző szellemi, művészeti irányzatait, megjelenési formáit.
-
-- Ismeri a német nyelvű irodalmak, kultúrák jellemző írásbeli és szóbeli, tudományos és közéleti, népszerűsítő műfajait.
-
-- Átlátja a német nyelvű szövegek és kulturális jelenségek befogadásának bevett eljárásait, az értelmezés szakmailag elfogadott kontextusait.
-
-b) képességei
-
-- Képes Magyarország és a német nyelvű országok társadalmi, gazdasági, környezeti adottságainak ismeretében a megszerzett tudás közvetítésére és alkalmazására hivatása gyakorlása során.
-
-- Képes német nyelven hatékonyan kommunikálni az informatika legújabb eszközeivel is, és az információkat, érveket és elemzéseket különböző nézőpontok szerint bemutatni.
-
-7.1.2.2. Német nemzetiségi szakirányon továbbá a germanisztika, német nemzetiségi alapszakos bölcsész
-
-a) tudása
-
-- Ismeretekkel rendelkezik a magyarországi németek történetéről, jog- és intézményrendszeréről, tárgyi és szellemi kultúrájáról, nyelvéről és nyelvhasználatáról, valamint jelenkori irodalmáról.
-
-- Ismeretekkel rendelkezik a magyarországi németek kutatástörténetéről és a folyamatban lévő kutatási projektekről, valamint a főbb empirikus adatgyűjtési módszerekről.
-
-b) képességei
-
-- Képes önálló empirikus adatgyűjtésre és feldolgozásra, az empirikus kutatás különböző módszereinek alkalmazására.
-
-c) attitűdje
-
-- Különös érzékenységgel rendelkezik a többi hazai kisebbség és az európai nemzetiségek nyelve, története, kultúrája iránt.
-
-d) autonómiája és felelőssége
-
-- Elkötelezett a hazai német kisebbség nyelvének, kultúrájának hagyományozása, ápolása és dokumentálása irányában.
-
-7.1.2.3. Néderlandisztika szakirányon továbbá a germanisztika, néderlandisztika alapszakos bölcsész
-
-a) tudása
-
-- Ismeri a beszélt és írott holland nyelv szabályait, ismeretekkel rendelkezik a holland nyelv változatairól, regisztereiről.
-
-- Tájékozott a holland nyelvű és a régi németalföldi irodalom és kultúra területén.
-
-- Ismeri a célnyelvű ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásainak rendszerét.
-
-- Alapfokú ismeretekkel rendelkezik a holland üzleti kommunikáció nyelvében és kultúrájában.
-
-- Ismeri a holland kultúra írásbeli és szóbeli, tudományos és közéleti, népszerűsítő műfajait.
-
-- Átlátja a holland szövegek és kulturális jelenségek befogadásának bevett eljárásait, az értelmezés szakmailag elfogadott kontextusait.
-
-b) képességei
-
-- Képes Magyarország és a holland nyelvterület társadalmi, gazdasági, környezeti adottságainak ismeretében a megszerzett tudás közvetítésére és alkalmazására hivatása gyakorlása során.
-
-- Képes holland nyelven hatékonyan kommunikálni az informatika legújabb eszközeivel is, és az információkat, érveket és elemzéseket különböző nézőpontok szerint bemutatni.
-
-7.1.2.4. Skandinavisztika szakirányon továbbá a germanisztika, skandinavisztika alapszakos bölcsész
-
-a) tudása
-
-- Ismeri a beszélt és írott dán, norvég, vagy svéd nyelv szabályait, ismeretekkel rendelkezik a dán, norvég, svéd nyelv variánsairól, regisztereiről.
-
-- Tájékozott a dán, norvég vagy svéd nyelvű és az óészaki nyelv, irodalom és kultúra területén.
-
-- Ismeri a célnyelvű ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásainak rendszerét.
-
-- Ismeretekkel rendelkezik az interskandináv kommunikációról.
-
-- Ismeri a dán, norvég, vagy svéd kultúra írásbeli és szóbeli, tudományos és közéleti, népszerűsítő műfajait.
-
-- Átlátja a dán, norvég vagy svéd szövegek és kulturális jelenségek befogadásának bevett eljárásait, az értelmezés szakmailag elfogadott kontextusait.
-
-b) képességei
-
-- Képes Magyarország és a skandináv országok társadalmi, gazdasági, környezeti adottságainak ismeretében a megszerzett tudás közvetítésére és alkalmazására hivatása gyakorlása során.
-
-- Képes dán, norvég vagy svéd nyelven hatékonyan kommunikálni az informatika legújabb eszközeivel is, és az információkat, érveket és elemzéseket különböző nézőpontok szerint bemutatni.
-
-8. Az alapképzés jellemzői
-
-8.1. Szakmai jellemzők
-
-8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
-
-- általános kompetenciákat fejlesztő bölcsészettudományi és társadalomtudományi ismeretek (filozófiatörténet, társadalmi ismeretek, nyelvtudomány, irodalomtudomány, germán nyelvek és kultúrák, kommunikáció, informatika, könyvtárismeret) 10-16 kredit;
-
-- germanisztikai szakmai ismeretek: 150-164 kredit, amelyből
-
-- germanisztikai alapozó modul (nyelvgyakorlat: német, holland, svéd, norvég, illetve dán nyelvi ismeretek elmélyítése; kulturális ismeretek) 20-30 kredit,
-
-- a választott szakirány szerinti speciális nyelvészeti, irodalmi, kultúrtörténeti ismeretek (nyelvi ismeretek, nyelvészeti ismeretek, irodalmi ismeretek, kultúra- és médiatudományi ismeretek) 80-90 kredit,
-
-- választás szerinti szakmaspecifikus ismeretek legfeljebb 50 kredit.
-
-8.1.2. A szakirányok tudományágai, szakterületei és kreditaránya
-
-a) német szakirány
-
-- germanisztikai alapozó modul 20-30 kredit:
-
-- nyelvi kompetenciák fejlesztése [nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése, szövegfajták];
-
-- történelmi és jelenkori országismeret (a német nyelvű országok földrajza történelme, politikai, társadalmi, gazdasági ismeretei);
-
-- irodalomtudományi alapismeretek (elemi műfajismeret, alapvető terminológia, irodalmi szövegelemzés);
-
-- nyelvészeti alapismeretek (nyelvészeti terminológia, módszerek);
-
-- a német szakirány speciális szakmai ismeretei 80-90 kredit:
-
-- tartalomalapú nyelvi kompetenciafejlesztés (szókincsbővítés, fordítási gyakorlatok, stílusrétegek, szövegfajták, kontrasztivitás);
-
-- kommunikáció- és médiatudományi alapismeretek;
-
-- kultúratudományi alapismeretek (a kultúratudomány főbb területei, interkulturális germanisztika; a kortárs német kultúra, kultúraközvetítés);
-
-- irodalmi ismeretek (a német nyelvű irodalmak története: korszakok és korszakhatárok, fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés, módszerek);
-
-- nyelvészeti ismeretek [szinkrón rendszernyelvészet (fonetika, fonológia, morfológia, lexikológia, szintaktika), szövegnyelvészet, fejlődési tendenciák, nyelvi változatok);
-
-- kutatásmódszertan (a tudományos ismeretszerzés technikái, tudásbázisok használata, számítógépes bölcsészet, projektmunka és prezentációs technikák);
-
-b) német nemzetiségi szakirány
-
-- germanisztikai alapozó modul 20-30 kredit:
-
-- nyelvi kompetenciák fejlesztése [nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése, szövegfajták];
-
-- történelmi és jelenkori országismeret (a német nyelvű országok földrajza, történelme, politikai, társadalmi, gazdasági ismeretei);
-
-- irodalomtudományi alapismeretek (elemi műfajismeret, alapvető terminológia, irodalmi szövegelemzés, módszerek);
-
-- nyelvészeti alapismeretek: nyelvészeti terminológia, módszerek;
-
-- nemzetiségi ismeretek;
-
-- a német nemzetiségi szakirány speciális szakmai ismeretei 80-90 kredit:
-
-- tartalomalapú nyelvi kompetenciafejlesztés (szókincsbővítés, fordítási gyakorlatok, stílusrétegek, szövegfajták, kontrasztivitás);
-
-- kommunikáció- és médiatudományi alapismeretek;
-
-- kultúratudományi alapismeretek (a kultúratudomány főbb területei, interkulturális germanisztika; a kortárs német kultúra, kultúraközvetítés);
-
-- irodalmi ismeretek (a német nyelvű irodalmak története: korszakok és korszakhatárok, fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés);
-
-- nyelvészeti ismeretek (szinkrón rendszernyelvészet - fonetika, fonológia, morfológia, lexikológia, szintaktika, szövegnyelvészet, fejlődési tendenciák, nyelvi változatok);
-
-- kutatásmódszertan (a tudományos ismeretszerzés technikái, tudásbázisok használata, számítógépes bölcsészet, projektmunka és prezentációs technikák);
-
-- társadalomtudományi ismeretek (a magyarországi németek története, a magyarországi németek jog- és intézményrendszere);
-
-- néprajzi ismeretek (a magyarországi németek tárgyi és szellemi kultúrája);
-
-- nemzetiségi képzéshez kapcsolódó nyelvtudományi ismeretek (dialektológia, szociolingvisztika, kontaktusnyelvészet);
-
-- nemzetiségi képzéshez kapcsolódó irodalomtudományi ismeretek (az 1945 utáni magyarországi német irodalom);
-
-c) néderlandisztika szakirány
-
-- germanisztikai alapozó modul 20-30 kredit:
-
-- holland nyelvi kompetenciák fejlesztése [nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése, szövegfajták];
-
-- történelmi és jelenkori országismeret (a holland nyelvű országok földrajza, történelme, politikai, társadalmi, gazdasági ismeretei);
-
-- irodalomtudományi alapismeretek (elemi műfajismeret, alapvető terminológia, irodalmi szövegelemzés);
-
-- nyelvészeti alapismeretek (nyelvészeti terminológia, módszerek);
-
-- kultúrtörténet.
-
-- a néderlandisztika szakirány speciális szakmai ismeretei 80-90 kredit:
-
-- tartalomalapú nyelvi kompetenciafejlesztés (szókincsbővítés, fordítási gyakorlatok, stílusrétegek, szövegfajták, kontrasztivitás, holland grammatika);
-
-- kommunikáció- és médiatudományi alapismeretek;
-
-- kultúratudományi alapismeretek (a kultúratudomány főbb területei, interkulturális germanisztika; a kortárs holland nyelvű kultúra, kultúraközvetítés);
-
-- irodalmi ismeretek (a régi németalföldi irodalom és a modern holland és flamand irodalom, korszakok és korszakhatárok, fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés);
-
-- nyelvészeti ismeretek [a mai holland nyelv rendszere (fonetika, fonológia, morfológia, lexikológia, szintaxis), szövegnyelvészet, variációs nyelvészet];
-
-- kultúra- és médiatudományi ismeretek;
-
-- kutatásmódszertan (a tudományos ismeretszerzés technikái, tudásbázisok használata, számítógépes bölcsészet, projektmunka és prezentációs technikák);
-
-d) skandinavisztika szakirány
-
-- germanisztikai alapozó modul: 20-30 kredit
-
-- dán, norvég, svéd nyelvi kompetenciák fejlesztése [nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciák fejlesztése];
-
-- történelmi és jelenkori országismeret (a skandináv nyelvű országok földrajza, történelme, politikai, társadalmi, gazdasági ismeretei);
-
-- irodalomtudományi alapismeretek (elemi műfajismeret, alapvető terminológia, irodalmi szövegelemzés);
-
-- nyelvészeti alapismeretek (nyelvészeti terminológia, módszerek);
-
-- kultúrtörténet;
-
-- a skandinavisztika szakirány speciális szakmai ismeretei: 80-90 kredit
-
-- tartalomalapú nyelvi kompetenciafejlesztés (szókincsbővítés, fordítási gyakorlatok, stílusrétegek, szövegfajták, kontrasztivitás, dán, norvég, svéd grammatika);
-
-- kommunikáció- és médiatudományi alapismeretek;
-
-- kultúratudományi alapismeretek (a kultúratudomány főbb területei, interkulturális germanisztika; a kortárs skandináv kultúra, kultúraközvetítés);
-
-- irodalmi ismeretek (az óészaki irodalom és a modern skandináv irodalom, korszakok és korszakhatárok, fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés);
-
-- nyelvészeti ismeretek [a dán, a norvég, a svéd nyelv rendszere (fonetika, fonológia, morfológia, lexikológia, szintaktika), szövegnyelvészet];
-
-- kultúratudomány (Skandinávia kultúrtörténete);
-
-- kutatásmódszertan (a tudományos ismeretszerzés technikái, tudásbázisok használata, számítógépes bölcsészet, projektmunka és prezentációs technikák).
-
-8.1.3. A képző intézmény által ajánlott specializáció a szakterület műveléséhez alkalmas, a személyes képességeket fejlesztő, az egyéni érdeklődéshez kapcsolódóan sajátos kompetenciákat eredményező elméleti és gyakorlati ismeret.
-
-A germanisztika szakos bölcsész – a várható specializációkat is figyelembe véve – az alábbi területeken kaphat speciális ismeretet:
-
-- az alapképzési szak szakirány szerinti további szakterületi ismeretei,
-
-- az alapképzési szak másik szakiránya vagy
-
-- másik, elsősorban a bölcsészettudomány, a társadalomtudomány képzési területek alapképzési szakjának szakterületi ismeretei.
-
-8.2. Idegennyelvi követelmény
-
-Az alapfokozat megszerzéséhez a választott szakirány célnyelvének felsőfokú (C1), komplex típusú nyelvvizsgának megfelelő szintű ismerete szükséges. A záróvizsga letétele a nyelvvizsga-követelmények teljesítését igazolja.
-
-8.3. A szakmai gyakorlat követelményei
-
-A szakmai gyakorlat lehet a képző intézmény által ajánlott specializációhoz kapcsolódó, a szak tantervében meghatározott tantervi egység.
-
-8.4. A képzést megkülönböztető speciális jegyek
-
-A képzés az adott szakirány nyelvén folyik.
-
-A szak lehetővé teszi másik, elsősorban a bölcsészettudomány, társadalomtudomány képzési terület alapképzési szakja szakterületi ismereteinek 50 kredit értékű specializáció formájában történő felvételét.
-
-3. KELETI NYELVEK ÉS KULTÚRÁK ALAPKÉPZÉSI SZAK
-
-1. Az alapképzési szak megnevezése: keleti nyelvek és kultúrák (Oriental Languages and Cultures)
-
-2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése
-
-- végzettségi szint: alap- (baccalaureus, bachelor, rövidítve: BA-) fokozat
-
-- szakképzettség:
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, altajisztika szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, arab szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, hebraisztika szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, indológia szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, iranisztika szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, japán szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, kínai szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, koreai szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, mongol szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, tibeti szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, török szakirányon
-
-- keleti nyelvek és kultúrák alapszakos bölcsész, újgörög szakirányon
-
-- a szakképzettség angol nyelvű megjelölése:
-
-- Philologist in Eastern Languages and Cultures (Altaic Studies)
-
-- Philologist in Eastern Languages and Cultures (Arabian Studies)
-
-- Philologist in Eastern Languages and Cultures (Hebrew Studies)
-
-- Philologist in Eastern Languages and Cultures (Indological Studies)
-
-- Philologist in Eastern Languages and Cultures (Iranian Studies)
-
-- Philologist in Eastern Languages and Cultures (Japanese Studies)
-
-- Philologist in Eastern Languages and Cultures (Chinese Studies)
-
-- Philologist in Eastern Languages and Cultures (Korean Studies)
-
-- Philologist in Eastern Languages and Cultures (Mongolian Studies)
-
-- Philologist in Eastern Languages and Cultures (Tibetan Studies)
-
-- Philologist in Eastern Languages and Cultures (Turkish Studies)
-
-- Philologist in Eastern Languages and Cultures (Modern Greek Studies)
-
-választható szakirányok: altajisztika, arab, hebraisztika, indológia, iranisztika, japán, kínai, koreai, mongol, tibeti, török, újgörög
-
-3. Képzési terület: bölcsészettudomány
-
-4. A képzési idő félévekben: 6 félév
-
-5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
-
-- a szak orientációja: kiegyensúlyozott (40-60 százalék)
-
-- a szakdolgozat készítéséhez rendelt kreditérték: 4 kredit
-
-- a szakirányhoz rendelhető minimális kreditérték: 68 kredit
-
-- a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
-
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 222/0231
-
-7. Az alapképzési szak képzési célja és a szakmai kompetenciák
-
-A képzés célja olyan, gyakorlati ismeretekkel is rendelkező bölcsész szakemberek képzése, akik átfogó ismeretekkel rendelkeznek az orientalisztika területén, betekintést nyerve az ókortudományba. Ismerik Ázsia és Észak-Afrika népeinek, országainak vagy (az újgörög szakirányon) az ókor utáni görögségnek a történetét, kultúráját. Áttekintésük van továbbá a szakiránynak megfelelő terület történetéről és művelődéstörténetéről. Ismerik az orientalisztikában és a szakirány területén érvényes ismeretszerzés általános módjait és a főbb kutatási módszereket. Felkészültek tanulmányaik mesterképzésben történő folytatására.
-
-7.1. Az elsajátítandó szakmai kompetenciák
-
-7.1.1. A keleti nyelvek és kultúrák alapszakos bölcsész
-
-a) tudása
-
-- Tájékozott közel- és távol-keleti, illetve újgörög kulturális jelenségek történetiségének általánosan elfogadott jellemzői, adatai körében.
-
-- Ismeri a magyar, európai, valamint a közel- és távol-keleti identitás szakterületileg legfontosabb kulturális objektumait, szövegeit, kontextusait.
-
-- A közel- és távol-keleti vagy az újgörög kultúrák legfontosabb vonásait, valamint választott szakirányának megfelelően egy keleti vagy az újgörög kultúra nyelvét, irodalmát, történelmét, vallástörténetét behatóan ismeri.
-
-- Ismeri szakterületének jellemző írásbeli és szóbeli, tudományos és közéleti, népszerűsítő műfajait és azok szabályrendszerét.
-
-- Általános ismeretekkel rendelkezik a közel- és távol-keleti népekkel, illetve az újgörögséggel kapcsolatos szövegek és kulturális jelenségek befogadásának bevett eljárásairól, az értelmezés szakmailag elfogadott kontextusairól; a választott szakirányát érintő kulturális jelenségek, hagyományok értelmezéséhez szükséges módszereket ismeri.
-
-- Általános orientalisztikai vagy neogrecisztikai ismeretekkel rendelkezik.
-
-- Tisztában van a közel- és távol-keleti, illetve az újgörög kultúrák, különösképpen választott szakirányának jellemző kutatási kérdéseivel, elemzési és értelmezési módszereivel.
-
-- Összefüggéseiben értelmezi a bölcsész szakterület munkavállalással, vállalkozással kapcsolatos szabályait, előírásait.
-
-- Ismeri a választott szakirányán elsődlegesen elsajátított közel- vagy távol-keleti írott és beszélt nyelvet (hebraisztika szakirány esetében a klasszikus hébert), illetve az újgörögöt, nyelvtudása a középfokú (B2), komplex típusú nyelvvizsga szintjének felel meg.
-
-- A választott szakirányán elsődlegesen elsajátított nyelven kívül még egy választott közel- vagy távol-keleti nyelv írott szövegeit szótár segítségével tudja értelmezni (kivéve az újgörög, mongol és tibeti szakirányon, ahol nincs kötelezően előírt második keleti nyelv).
-
-b) képességei
-
-- Képes értelmezni a közel- és távol-keleti, illetve az újgörög kulturális jelenségeket és azok történeti beágyazottságát.
-
-- Képes átlátni a nemzeti identitásképző diskurzusok felépítését, működését, és a kulturális jelenségeket európai kontextusban értelmezni.
-
-- Képes a közel- és távol-keleti, illetve az újgörög kultúrák, eszmerendszerek szempontjából saját szakterületének jelenségeit értelmezni.
-
-- Több stílusregiszterben, az adott műfaj szabályrendszerének megfelelően, közérthetően, választékos stílusban képes írni és beszélni.
-
-- Képes műfajilag sokszínű szövegeket és kulturális jelenségeket értelmezni.
-
-- Képes a távol- és közel-keleti, illetve az újgörög kultúrák, kiemelten a választott szakirányának megfelelő kultúra, kultúrák történelmi és kulturális jelenségeinek értelmezésére, elemzésére.
-
-- Képes választott szakiránya idegen nyelvű forrásszövegeinek önálló történeti- nyelvészeti-filológiai elemzésére.
-
-- A közel- és távol-keleti, illetve az újgörög kultúrákról, kiemelten a választott szakirányának megfelelő kultúrákról szerzett ismereteit képes önállóan, összetett feladatok keretében is alkalmazni.
-
-- Legalább egy idegen nyelven képes hatékonyan kommunikálni írásban és szóban, valamint megérti a tudományterületéhez kapcsolódó idegen nyelvű szakmai szövegeket.
-
-c) attitűdje
-
-- Érti és elfogadja, hogy a kulturális jelenségek történetileg és társadalmilag meghatározottak és változóak.
-
-- Képviseli a magyar és az európai identitás vallási és társadalmi, történeti és jelenkori sokszínűségét.
-
-- Igénye van az Európán kívüli kultúrák megismerésére.
-
-[^25]: A 3. melléklet a 31/2017. (XII. 5.) EMMI rendelet 1. §-a, a 3/2019. (II. 11.) EMMI rendelet 11. §-a szerint módosított szöveg.
+[^31]: A 3. melléklet a 31/2017. (XII. 5.) EMMI rendelet 1. §-a, a 3/2019. (II. 11.) EMMI rendelet 11. §-a, a 47/2020. (XII. 10.) ITM rendelet 2. § 1. pontja, 3. § 1. pontja és 4. §-a szerint módosított szöveg.

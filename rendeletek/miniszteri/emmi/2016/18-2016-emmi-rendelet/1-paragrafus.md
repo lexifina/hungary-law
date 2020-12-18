@@ -10,9 +10,9 @@
 
 (6) A 6. melléklet a hitéleti képzés szakjainak képzési és kimeneti követelményeit határozza meg.
 
-(7)[^1] A 7. melléklet azon alap- és mesterképzési szakokat határozza meg, amelyeken csak a képzési és kimeneti követelményekben meghatározott specializáció indítható.
+(7)[^2] A 7. melléklet azon alap- és mesterképzési szakokat határozza meg, amelyeken csak a képzési és kimeneti követelményekben meghatározott specializáció indítható.
 
-(8)[^2] A 8. melléklet azon alap- és mesterképzési, valamint osztatlan szakokat határozza meg, amelyeken specializáció nem indítható.
+(8)[^3] A 8. melléklet azon alap- és mesterképzési, valamint osztatlan szakokat határozza meg, amelyeken specializáció nem indítható.
 
-[^1]: Az 1. § (7) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 53. §-a iktatta be.
-[^2]: Az 1. § (8) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 53. §-a iktatta be.
+[^2]: Az 1. § (7) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 53. §-a iktatta be.
+[^3]: Az 1. § (8) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 53. §-a iktatta be.
