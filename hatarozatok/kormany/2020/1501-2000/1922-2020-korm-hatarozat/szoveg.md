@@ -12,4 +12,6 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-2. A Magyar Falu Program – sportparkok építése alprogram keretében megvalósuló egyes beruházásokhoz szükséges fedezet biztosításáról szóló 1653/2020. (X. 9.) Korm. határozat 2. pontjában a „897 578 991” szövegrész helyébe a „904 696 195” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdésével megállapított szöveg.
