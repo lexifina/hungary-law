@@ -1,1 +1,3 @@
-## „(4a) Az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosításnak kell tekinteni az egységes kérelem, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamérték legalább felére kiterjedően megkötött mezőgazdasági biztosítási szerződést.”
+## 5. §[^14]
+
+[^14]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

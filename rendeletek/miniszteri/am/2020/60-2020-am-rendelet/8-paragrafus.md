@@ -1,33 +1,44 @@
-## 7. § A 27/2014. (XI. 25.) FM rendelet a következő 22. §-sal egészül ki:
-
-## „22. § E rendeletnek a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosításáról szóló 60/2020. (XII. 9.) AM rendelettel [a továbbiakban: 60/2020. (XII. 9.) AM rendelet] megállapított 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+## 7. §[^16]
 
 ## 8. § A 27/2014. (XI. 25.) FM rendelet
 
-a)[^8]
+a)[^17]
 
-b) 4. § (1a) bekezdésében az „április 1-je” szövegrész helyébe a „március 31-e” szöveg,
+b)[^18]
 
-c) 4. § (9) bekezdésében a „(8) bekezdésben” szövegrész helyébe a „(8) és (8a) bekezdésben” szöveg,
+c)[^19]
 
-d) 5. § (3) bekezdés b) pontjában a „Budapest Főváros Kormányhivatalának Földmérési, Távérzékelési és Földhivatali Főosztálya (a továbbiakban: FTFF)” szövegrész helyébe a „Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont)” szöveg,
+d)[^20]
 
-e) 5. § (4) bekezdésében a „Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara megyei ügyintéző szervezetéhez tartozó falugazdász” szövegrész helyébe a „Nemzeti Agrárgazdasági Kamara” szöveg,
+e)[^21]
 
-f) 5. § (8) bekezdésében a „hét” szövegrész helyébe a „tíz” szöveg,
+f)[^22]
 
-g) 7. § (5) bekezdésében a „2019. kárenyhítési évre” szövegrész helyébe a „zöldszürettel érintett kárenyhítési évre” szöveg,
+g)[^23]
 
-h) 7. § (6) bekezdésében a „2019. kárenyhítési évi” szövegrész helyébe a „zöldszürettel érintett kárenyhítési évi” szöveg,
+h)[^24]
 
-i) 9. § (8) bekezdésében az „(1), valamint a (4) és (5) bekezdésekben” szövegrész helyébe az „(1) bekezdésben” szöveg,
+i)[^25]
 
-j) 10. § (3) bekezdésében a „fellebbezések” szövegrész helyébe a „keresetlevelek” szöveg, a „fellebbezésről” szövegrész helyébe a „keresetlevélről” szöveg,
+j)[^26]
 
-k) 13. § (2) bekezdésében a „4. melléklet” szövegrész helyébe a „minisztérium honlapján közzétett nyomtatvány” szöveg,
+k)[^27]
 
-l) 13. § (6) bekezdés a) és b) pontjában a „kárenyhítési lebonyolítási számla” szövegrész helyébe a „Mezőgazdasági támogatások szakmai költségvetési fejezeti alszámla” szöveg,
+l)[^28]
 
-m) 15. § (3) bekezdésében az „FTFF-től” szövegrész helyébe a „Lechner Tudásközponttól” szöveg
+m)[^29]
 
-[^8]: A 8. § a) pontja a 10. § (2) bekezdése alapján 2021. március 9-én lép hatályba.
+[^16]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 8. § a) pontja a 10. § (2) bekezdése alapján 2021. március 9-én lép hatályba.
+[^18]: A 8. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 8. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 8. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 8. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 8. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 8. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 8. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 8. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 8. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 8. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 8. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 8. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
