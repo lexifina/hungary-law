@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-49-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-17 | 2020-49-20-7Q.1 | 49/2020. (XII. 16.) ITM rendelet |
+| 2020-12-18 | 2020-49-20-7Q.2 | 2010: CXXX. törvény |
