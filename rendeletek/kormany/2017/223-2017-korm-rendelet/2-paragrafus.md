@@ -16,8 +16,8 @@
 
 7. rendkívüli pénztárellenőrzés: a külképviselet vezetőjének utasítására legalább félévente elrendelt, a pénztárellenőr által végrehajtott rendkívüli, váratlan és átfogó ellenőrzés.
 
-8.[^2]
+8.[^3]
 
 9. realizált árfolyam-különbözet: a külföldi pénzértékre vonatkozó kötelezettséghez, követeléshez kapcsolódó, a pénzügyi teljesítés során elszámolt realizált árfolyamveszteség, illetve árfolyamnyereség.
 
-[^2]: A 2. § 8. pontját a 13/2020. (II. 7.) Korm. rendelet 123. §-a hatályon kívül helyezte.
+[^3]: A 2. § 8. pontját a 13/2020. (II. 7.) Korm. rendelet 123. §-a hatályon kívül helyezte.

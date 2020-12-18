@@ -18,6 +18,6 @@ g) a beszerzések és közbeszerzések lebonyolításában történő közreműk
 
 h) a külképviselet gazdasági vezetője, illetve a gazdasági felelős munkájának támogatásáért.
 
-(2)[^12] A gazdasági ügyintézői tartós külszolgálati munkakört elláthatja a Külszoltv. szerint tartós külszolgálatra kihelyezett közszolgálati tisztviselő vagy a Külszoltv. 2. § 16. pontja szerint a külképviselet által foglalkoztatott házastárs is.
+(2)[^13] A gazdasági ügyintézői tartós külszolgálati munkakört elláthatja a Külszoltv. szerint tartós külszolgálatra kihelyezett közszolgálati tisztviselő vagy a Külszoltv. 2. § 16. pontja szerint a külképviselet által foglalkoztatott házastárs is.
 
-[^12]: A 20. § (2) bekezdése a 127/2019. (V. 30.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^13]: A 20. § (2) bekezdése a 127/2019. (V. 30.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
