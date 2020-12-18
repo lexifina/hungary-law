@@ -1,5 +1,0 @@
-## 3. §[^4]
-
-## 3. Az erdészeti szakszemélyzet és az erdészeti szakirányító vállalkozás tevékenységének és nyilvántartásának, valamint az erdészeti szakszemélyzet továbbképzésének szabályairól szóló 244/2020. (V. 28.) Korm. rendelet módosítása
-
-[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
