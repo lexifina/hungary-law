@@ -1,0 +1,1051 @@
+# A Nemzeti Média és Hírközlési Hatóság elnökének 19/2020. (XII. 18.) NMHH rendelete
+
+Magyar Közlöny 2020. évi 282. szám, 2020. december 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/XgR1tl0uZq1C7EGl2CjL5fd7cb6e78afc/dokumentumok/e42e88131ea049d94c43876cfd1dde1536e519f4/letoltes)
+
+---
+
+A Nemzeti Média és Hírközlési Hatóság elnökének 19/2020. (XII. 18.) NMHH rendelete
+az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról
+Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (3) bekezdés 27. pontjában kapott felhatalmazás alapján,
+a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (5) bekezdésében meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+1. Általános rendelkezések
+1. §
+E rendelet hatálya
+a) az elektronikus hírközlési szolgáltatóra (a továbbiakban: szolgáltató);
+b) a természetes személy végfelhasználóra
+terjed ki.
+2. §
+E rendelet alkalmazásában
+ 1. ajánlat: az ajánlati felhívásra a szolgáltató által benyújtott, az egyetemes szolgáltatáselem nyújtásának
+önkéntes vállalására vonatkozó dokumentum;
+ 2. ajánlati felhívás: a Nemzeti Média- és Hírközlési Hatóság Elnöke (a továbbiakban: Elnök) által e rendelet
+szerint közzétett, az egyetemes szolgáltatáselem nyújtásának önkéntes vállalására vonatkozó felhívás;
+ 3. alacsony jövedelmű fogyasztó: a 4. melléklet 1. pontja szerinti fogyasztó;
+ 4. címhely: településre, utcára, házszámra kiterjedő címadattal vagy helyrajzi számmal meghatározott ingatlan,
+ahol legalább egy előfizetői hozzáférési pont létesítésére alkalmas épület vagy épületcsoport található;
+ 5. egyetemes szolgáltató: az egyetemes szolgáltatás nyújtására kijelölt szolgáltató;
+ 6. egyetemes szolgáltatáselem: 2020. december 21. napján fennálló, hatósági határozatban történő kijelölés
+alapján nyújtott egyetemes szolgáltatás körébe tartozó szolgáltatás;
+ 7. ellátási terület: az a terület, amelyen a hálózathoz tartozó valamennyi – egyetemes szolgáltatás nyújtását
+lehetővé tevő – helyhez kötött előfizetői hozzáférési pont hálózatépítő tevékenység nélkül elérhető;
+ 8. kijelölési eljárás: egyetemes szolgáltató kijelölésére irányuló hatósági eljárás;
+ 9. kijelölési határozat: egyetemes szolgáltató kijelölése tárgyában hozott hatósági határozat;
+10. közvetett előny: az egyetemes szolgáltatói minőség következtében szerzett, a bevételek közé be nem épült,
+közvetett haszon pénzben kifejezett becsült értéke, melynek számszerűsítése a piaci érték oldaláról történik;
+11. különleges szociális helyzetű fogyasztó: a 4. melléklet 2. pontja szerinti fogyasztó;
+12. megfizethető árú egyetemes szolgáltatás: legalább a 3. § (1) bekezdése szerinti sávszélességű, legfeljebb a 4. §
+(1) bekezdése szerinti árú egyetemes szolgáltatás;
+13. méltánytalan teher: az egyetemes szolgáltató tárgyévi elektronikus hírközlési szolgáltatásából származó nettó
+árbevétele 1 százalékát meghaladó, az egyetemes szolgáltatás nyújtásából származó nettó költség;
+14. rendes körülmények között elérhető sebesség: az elektronikus hírközlési szolgáltatás minőségének az előfizetők
+és felhasználók védelmével összefüggő követelményeiről, valamint a díjazás hitelességéről szóló
+NMHH rendeletben meghatározott fogalom;
+15. számozási körzet: az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről és
+az azonosítógazdálkodás rendjéről szóló NMHH rendelet szerinti földrajzi számozási terület;
+16. teljeskörű beszélgetési szolgáltatás: olyan multimédiás, valós idejű beszélgetést biztosító szolgáltatás, amely
+kétirányú, szimmetrikus mozgókép- (video-) átvitelt, valamint valós idejű szövegátvitelt és hangátvitelt tesz
+lehetővé két vagy több egymástól eltérő helyszínen tartózkodó személy számára.
+
+2. Az egyetemes szolgáltatás tartalma, ára, elérhetősége
+3. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 117. § (1) bekezdése szerinti egyetemes
+elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) körébe tartozó helyhez kötött
+telefonszolgáltatás és a helyhez kötött internet-hozzáférési szolgáltatás közül a helyhez kötött szélessávú internet-
+hozzáférési szolgáltatás
+a) rendes körülmények között elérhető letöltési sebessége legalább 8 Mbit/s és
+b) rendes körülmények között elérhető feltöltési sebessége legalább 2 Mbit/s
+kell, hogy legyen.
+(2) Az Elnök megvizsgálja a végfelhasználók számára elérhető szolgáltatásokat, és lefedetlen számozási körzetként
+azonosítja azokat a számozási körzeteket, ahol a végfelhasználók számára legalább az (1) bekezdés szerinti
+sávszélességű egyetemes szolgáltatás nem elérhető.
+(3) Az adott számozási körzetben az (1) bekezdés szerinti sávszélességű egyetemes szolgáltatás akkor nem elérhető
+a végfelhasználók számára, ha az adott számozási körzetben található címhelyek több mint 1%-a egyetlen
+szolgáltató ellátási területéhez sem tartozik, és az (1) bekezdés szerinti sávszélességű egyetemes szolgáltatás
+elérhetősége ezen címhelyek esetén állami eszközzel, beavatkozással sem biztosított.
+(4) A (2) bekezdés szerinti vizsgálatok során az Elnök felhasználhatja különösen
+a) az Eht. 62–66. § szerinti eljárással összefüggésben szolgáltatott adatokat;
+b) az Eht. 83/C. § szerinti eljárásban szolgáltatott adatokat;
+c) a szolgáltatók általános szerződési feltételeit és
+d) a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) hatósági nyilvántartásaiban elérhető
+adatokat.
+(5) Ha az Eht. 83/C. § szerinti eljárásban szolgáltatott adatok a vizsgálat időpontjában nem állnak rendelkezésre, és
+a rendelkezésre álló adatokból valamely vizsgált számozási körzet esetében nem állapítható meg egyértelműen
+a legalább az (1) bekezdés szerinti sávszélességű egyetemes szolgáltatás – (3) bekezdésnek megfelelő –
+elérhetősége, akkor az Elnök az adott számozási körzetet lefedetlen számozási körzetként azonosítja.
+4. § (1) Az Elnök a fogyasztói árak és a fogyasztói jövedelmek vizsgálata alapján meghatározza a 3. § (1) bekezdése szerinti
+sávszélességű egyetemes szolgáltatás tekintetében azt a maximális árat (a továbbiakban: megfizethető ár), amely
+az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó számára is biztosítja az egyetemes
+szolgáltatás igénybevételét. Az Elnök a megfizethető árat a csatlakozás létesítése és a csatlakozáson igénybe vett
+szolgáltatások tekintetében külön határozza meg a következőkre:
+a) csatlakozás létesítése;
+b) helyhez kötött telefonszolgáltatás igénybevétele;
+c) helyhez kötött szélessávú internet-hozzáférési szolgáltatás igénybevétele és
+d) helyhez kötött telefonszolgáltatás és helyhez kötött szélessávú internet-hozzáférési szolgáltatás együttes
+igénybevétele.
+(2) A megfizethető ár meghatározása során az Elnök felhasználhatja különösen
+a) a szolgáltatók általános szerződési feltételeit;
+b) a Központi Statisztikai Hivatal közzétett adatait és
+c) a Hatóság saját piackutatásaiból származó adatait.
+(3) Az (1) bekezdés szerinti vizsgálat során az Elnök különösen a következő szempontokat veszi figyelembe:
+a) a háztartások életszínvonalát, jövedelmi helyzetét, ezek változását;
+b) a háztartások által igénybe vett elektronikus hírközlési szolgáltatásokat, azok volumenét, az ezekkel
+kapcsolatos kiadásokat;
+c) a háztartások fogyasztási jellegű kiadásainak mértékét, a kiadások szerkezetét, különös tekintettel a hírközlési
+szolgáltatásokkal kapcsolatos kiadásokra; és
+d) a különböző jövedelmi szintekbe sorolt háztartások jövedelme és az egyetemes szolgáltatás körébe
+tartozó szolgáltatásokra – helyhez kötött telefonszolgáltatásra és a helyhez kötött internet-hozzáférési
+szolgáltatásra – fordított kiadásai közötti összefüggéseket.
+
+(4) Az (1) bekezdés szerinti vizsgálatot követően az Elnök azonosítja azokat a számozási körzeteket, ahol a szolgáltatók
+ellátási területén nem érhető el valamennyi fogyasztó számára a megfizethető árú egyetemes szolgáltatás, és
+nem áll rendelkezésre a megfizethető árú egyetemes szolgáltatás igénybevételét biztosító állami támogatás sem.
+Az Elnök a területek beazonosítása során az e rendelet 18. § szerinti kötelezettség alapján kialakított díjcsomagokat
+nem veszi figyelembe.
+(5) Ha a rendelkezésre álló adatokból valamely vizsgált számozási körzet esetében nem állapítható meg a megfizethető
+árú egyetemes szolgáltatás (4) bekezdés szerinti elérhetősége, akkor az Elnök az adott számozási körzetet ellátatlan
+területként azonosítja.
+5. § (1) A 3. és 4. § szerinti vizsgálatot az Elnök legkésőbb az egyetemes szolgáltatás nyújtására vonatkozóan a kijelölési
+határozatok időbeli hatályának lejártát megelőző 180 napon belül végzi el. Ha az Elnök az egyetemes szolgáltatás
+nyújtására vonatkozóan nem jelölt ki egyetemes szolgáltatót, akkor a 3. és 4. § szerinti vizsgálatot az egyetemes
+szolgáltatással kapcsolatos piaci körülmények jelentős megváltozása esetén haladéktalanul, egyéb esetben
+az előző vizsgálat eredményének közzétételét követő 3 éven belül végzi el. Az Elnök a vizsgálat során alkalmazott
+módszereket és a vizsgálat eredményét közzéteszi a Hatóság honlapján.
+(2) Az (1) bekezdés szerinti közzétételt követő 30 napon belül bárki megküldheti a vizsgálat eredményeként azonosított
+számozási körzetekkel és a megfizethető árral kapcsolatos észrevételeit. A beérkezett észrevételeket az Elnök
+megvizsgálja, és a megalapozott észrevételek alapján módosíthatja a vizsgálat eredményeként azonosított
+számozási körzeteket, illetve a megfizethető árat.
+3. Az egyetemes szolgáltató kijelölése az egyetemes szolgáltatás elérhetőségének biztosítására
+6. § (1) Ha a 3. §-ban foglalt vizsgálatok eredményeként az Elnök lefedetlen számozási körzetet azonosít, az Elnök hivatalból
+hatósági eljárást indít. Az Elnök a kijelölési határozatban az adott számozási körzet tekintetében legalább 40%-os
+hozzáférési hálózati lefedettséggel rendelkező szolgáltatót vagy szolgáltatókat jelöli ki egyetemes szolgáltatóként.
+Ha az adott számozási körzet vonatkozásában egy szolgáltató hozzáférési hálózati lefedettsége sem éri el a 40%-ot,
+akkor az Elnök a legnagyobb hozzáférési hálózati lefedettséggel rendelkező szolgáltatót jelöli ki egyetemes
+szolgáltatóként.
+(2) Ha az Eht. 83/C. § szerinti eljárásban szolgáltatott adatok a vizsgálat időpontjában nem állnak rendelkezésre, és
+a rendelkezésre álló adatok alapján az (1) bekezdés szerinti kijelölés nem végezhető el, az Elnök a helyhez kötött
+internet-hozzáférési szolgáltatás előfizetőinek száma alapján az adott számozási körzetben legalább 25%-os piaci
+részesedéssel rendelkező szolgáltatót vagy szolgáltatókat jelöli ki egyetemes szolgáltatóként. Ha az adott számozási
+körzet vonatkozásában egy szolgáltató piaci részesedése sem éri el a 25%-ot, akkor az Elnök a legnagyobb piaci
+részesedéssel rendelkező szolgáltatót jelöli ki egyetemes szolgáltatóként.
+(3) Az (1) és (2) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a tisztességtelen piaci
+magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 15. § szerint egy
+vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként
+történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden szolgáltatót egyetemes szolgáltatóként
+jelöl ki.
+(4) Az Elnök a kijelölési határozatok véglegessé válását követő 5 napon belül a kijelölt szolgáltatók listáját, és
+az egyetemes szolgáltatási kötelezettség részletes tartalmát számozási körzet szerinti bontásban közzéteszi
+a Hatóság honlapján.
+(5) A (4) bekezdés szerinti közzétételt követő 30 napon belül bármely szolgáltató jelezheti az egyetemes szolgáltatás
+nyújtására vonatkozó szándékát, és kérheti egyetemes szolgáltatóként történő kijelölését. A benyújtott kérelemnek
+tartalmaznia kell az egyetemes szolgáltatóként ellátni kívánt számozási körzetet vagy körzeteket és a szolgáltató
+nyilatkozatát arról, hogy az egyetemes szolgáltatásnyújtás (4) bekezdés szerint közzétett tartalmát magára nézve
+kötelezőként elfogadja. Az Elnök a kérelmet a beérkezést követő 15 napon belül elbírálja. Ha a kérelem megfelel
+e bekezdés szerinti feltételeknek, az Elnök hivatalból módosítja a kijelölési határozatot, és a kérelmet benyújtó
+szolgáltatót is egyetemes szolgáltatóként jelöli ki a kérelemben megjelölt számozási körzet vagy körzetek
+tekintetében.
+
+7. §
+A kijelölési határozat számozási körzetenként tartalmazza
+a) az egyetemes szolgáltató megnevezését;
+b) az egyetemes szolgáltatás tárgyát;
+c) az egyetemes szolgáltatás nyújtásának földrajzi területét;
+d) az egyetemes szolgáltatás nyújtása megkezdésének időpontját és az egyetemes szolgáltatás nyújtásának
+időtartamát és
+e) az egyetemes szolgáltatót az egyetemes szolgáltatással kapcsolatban terhelő kötelezettségeket.
+8. § (1) Ha
+a) a Hatóság az egyetemes szolgáltatót vagy az egyetemes szolgáltatónak az egyetemes szolgáltatást érintő
+szolgáltatását véglegessé vált határozatával törli az elektronikus hírközlő hálózatokról és szolgáltatásokról
+vezetett nyilvántartásából;
+b) az egyetemes szolgáltató kijelölése tárgyában hozott kijelölési határozat visszavonásra kerül, vagy
+c) az egyetemes szolgáltató a 14. § (3) bekezdés szerinti bejelentést tett,
+az Elnök e körülmény bekövetkezésétől számított 60 napon belül a 3. §-ban rögzített szempontok szerint
+megvizsgálja, hogy szükséges-e egyetemes szolgáltató kijelölése. Ha egyetemes szolgáltató kijelölése szükséges,
+az Elnök a 6. és 7. §-ban foglaltak szerint intézkedik az egyetemes szolgáltató kijelöléséről.
+(2) Az (1) bekezdés c) pontja szerinti esetben – ha az egyetemes szolgáltató az egyetemes szolgáltatás tekintetében
+előfizetői szerződés alapján szolgáltatást nyújtott – az egyetemes szolgáltató az előfizetői szerződésben rögzített
+időpontig, de legkésőbb az (1) bekezdés szerinti kijelölési eljárás – ideértve a kijelölési határozat bírósági
+felülvizsgálata iránti eljárást is – lezárultáig köteles az egyetemes szolgáltatást a korábbi kijelölési eljárásban hozott
+kijelölési határozatban foglalt változatlan feltételekkel nyújtani.
+9. §
+Az egyes számozási körzetekben kijelölt egyetemes szolgáltatók listáját, az egyetemes szolgáltatók 11. §
+(1) bekezdése szerinti elérhetőségeit az Elnök közzéteszi a Hatóság internetes honlapján.
+4. Az egyetemes szolgáltatás elérhetőségének biztosítására vonatkozó kötelezettség tartalma
+10. § (1) A 6. § szerint kijelölt egyetemes szolgáltató – a 12. §-ban rögzített kivételekkel – előfizetői szerződés alapján
+biztosítja a legalább a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatást a végfelhasználók számára.
+Az egyetemes szolgáltató a szélessávú internet-hozzáférési szolgáltatás és hangszolgáltatás elkülönült és együttes
+igénybevételét is köteles biztosítani a végfelhasználók számára az előfizető választása szerint. A szolgáltatásnyújtási
+kötelezettség – kiépített hozzáférés hiányában – az egyetemes szolgáltatás igénybevételéhez szükséges,
+végfelhasználónként egy előfizetői hozzáférési pont kiépítését is magában foglalja. Ha az Elnök a számozási körzetet
+a 4. § szerinti vizsgálatok alapján ellátatlan területként azonosította, akkor az egyetemes szolgáltató az adott
+számozási körzetben az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó számára
+az egyetemes szolgáltatást megfizethető áron köteles biztosítani.
+(2) A 3. § (1) bekezdése szerinti egyetemes szolgáltatásra, valamint az egyetemes szolgáltatás nyújtására kötött
+előfizetői szerződésre az elektronikus hírközlési előfizetői szerződések részletes szabályairól szóló NMHH rendelet
+(a továbbiakban: Eszr.) rendelkezései – az e rendeletben foglalt eltérésekkel – megfelelően alkalmazandók.
+(3) Az egyetemes szolgáltató nem tehet különbséget az egyetemes szolgáltatás keretében nyújtott szolgáltatások és
+a nem annak keretében nyújtott hasonló szolgáltatások szolgáltatásminőségi követelményei tekintetében.
+(4) Az egyetemes szolgáltató az egyetemes szolgáltatás nyújtása során nem számíthat fel díjat olyan szolgáltatásokra
+vonatkozóan, amelyek az előfizető által igényelt szolgáltatások nyújtásához nem szükségesek, illetve amelyek
+nyújtására az egyetemes szolgáltatásnyújtási kötelezettség alapján nem köteles.
+(5) Az egyetemes szolgáltató az e § szerinti kötelezettségét vezetékes és vezeték nélküli technológia alkalmazásával
+is teljesítheti. Az egyetemes szolgáltató az egyetemes szolgáltatás keretében nyújtott, 3. § (1) bekezdése szerinti
+sávszélességű internet-hozzáférési szolgáltatás tekintetében az elektronikus hírközlési szolgáltatás minőségének
+az előfizetők és felhasználók védelmével összefüggő követelményeiről, valamint a díjazás hitelességéről szóló
+NMHH rendelet helyhez kötött internet szolgáltatásra vonatkozó rendelkezéseit köteles alkalmazni, függetlenül
+attól, hogy az e § szerinti kötelezettségét vezetékes vagy vezeték nélküli technológia alkalmazásával teljesíti.
+
+11. § (1) A végfelhasználó egyetemes szolgáltatás nyújtására vonatkozó igénybejelentésének megtételére (ezen alcím
+alkalmazásában a továbbiakban: igénybejelentés) az egyetemes szolgáltató általános szerződési feltételeiben
+legalább egy nyilvánosan elérhető elektronikus hírközlési szolgáltatás igénybevételével történő, szóbeli vagy kétféle
+írásbeli módot biztosít, amelyek közül az egyik papíralapú.
+(2) A végfelhasználó az igénybejelentésben nyilatkozik arról, ha alacsony jövedelmű fogyasztóként vagy különleges
+szociális helyzetű fogyasztóként megfizethető áron igényli az egyetemes szolgáltatást. Ha a végfelhasználó
+az igénybejelentésben akként nyilatkozik, hogy alacsony jövedelmű fogyasztóként vagy különleges szociális
+helyzetű fogyasztóként igényli az egyetemes szolgáltatást, akkor nyilatkozatához mellékeli a 4. melléklet szerinti
+jogosultságot igazoló határozat vagy hatósági bizonyítvány másolatát.
+(3) Az Elnök legkésőbb a kijelölési határozat véglegessé válásával egy időben a 4. melléklet szerinti jogosultság
+igazolásával összefüggésben tájékoztatót tesz közzé a Hatóság honlapján, amelynek az Elnök által megjelölt részeit
+az egyetemes szolgáltató a honlapján közzéteszi.
+(4) Az igénybejelentést az egyetemes szolgáltató írásban, hangfelvétel útján vagy elektronikus formában rögzíti, és
+nyilvántartásba veszi.
+(5) Ha az igénybejelentés hiányos, az egyetemes szolgáltató – ha szükséges – legalább 15 napos határidő tűzésével
+az igénybejelentéssel azonos módon felkéri a végfelhasználót az igénybejelentés megfelelő kiegészítésére, amelyet
+írásban, hangfelvétel útján vagy elektronikus formában rögzít.
+(6) Az egyetemes szolgáltató az egyetemes szolgáltatás biztosításán túl a végfelhasználó számára – az igénybejelentés
+alapján történő előfizetői szerződéskötés során – ajánlatot tehet egyéb elektronikus hírközlési szolgáltatásra vagy
+szolgáltatáscsomagra vonatkozóan is.
+(7) Az egyetemes szolgáltató az igénybejelentés hiánytalan beérkezését követő 15 napon belül igazolható módon
+értesíti a végfelhasználót
+a) az igény elfogadásáról vagy
+b) indoklással ellátva az igény 12. § (1) bekezdése szerinti elutasításáról.
+(8) Ha az igénybejelentéssel érintett számozási körzetben a 10. § (1) bekezdése szerinti kötelezettség tekintetében
+más szolgáltató is kijelölésre került egyetemes szolgáltatóként, az egyetemes szolgáltató a (7) bekezdés szerinti
+értesítésben tájékoztathatja erről a végfelhasználót az adott számozási körzetben elérhető további egyetemes
+szolgáltató megnevezésével.
+(9) Ha az egyetemes szolgáltató az igénybejelentést elfogadja, az igénybejelentés elfogadásával egyidejűleg megjelöli,
+hogy az egyetemes szolgáltatás biztosítására mikortól vállal kötelezettséget.
+12. § (1) Az egyetemes szolgáltató az igénybejelentést kizárólag az alábbi esetekben utasíthatja el:
+a) ha az egyetemes szolgáltató a végfelhasználót a 11. § (5) bekezdése szerint az igénybejelentés kiegészítésére
+kéri fel, és a végfelhasználó a felkérésnek a határidőn belül nem tesz eleget, és a határidő meghosszabbítását
+sem kéri;
+b) ha az igényelt előfizetői hozzáférési pont földrajzi helyén elérhető olyan nyilvános helyhez kötött
+elektronikus hírközlési szolgáltatás, amely lehetővé teszi legalább a 3. § (1) bekezdése szerinti sávszélességű
+egyetemes szolgáltatásnak megfelelő tartalmú szolgáltatás (a továbbiakban: alternatív szolgáltatás)
+igénybevételét; vagy
+c) ha a szolgáltatásnyújtáshoz előfizetői hozzáférési pont kiépítésére van szükség, de az egyetemes szolgáltató
+az igénybejelentéssel érintett településen nem rendelkezik hozzáférési hálózattal, az adott településen
+ugyanakkor más, a 6. § szerinti kijelölt egyetemes szolgáltató rendelkezik hozzáférési hálózattal.
+(2) Ha az igény megfizethető árú egyetemes szolgáltatásra vonatkozik, és az Elnök az adott számozási körzetet a 4. §
+szerinti vizsgálatok eredményeként nem azonosította ellátatlan területként, akkor az egyetemes szolgáltató
+az egyetemes szolgáltatás megfizethető áron történő nyújtását elutasíthatja. Az egyetemes szolgáltató
+az egyetemes szolgáltatást ebben az esetben is köteles biztosítani a fogyasztó számára, az elutasítás csak
+a megfizethető ár biztosítására terjedhet ki.
+(3) Az egyetemes szolgáltató a 11. § (7) bekezdése szerinti értesítésben egyértelműen megjelöli
+a) az (1) bekezdés b) pontja szerinti esetben az alternatív szolgáltatást és az alternatív szolgáltatást biztosító
+szolgáltatót vagy
+b) az (1) bekezdés c) pontja szerinti esetben az adott településen a 6. § szerint kijelölt, hozzáférési hálózattal
+rendelkező egyetemes szolgáltatót.
+
+(4) Az (1) bekezdés b) pontjában foglalt elutasítási ok alacsony jövedelmű fogyasztó vagy különleges szociális helyzetű
+fogyasztó által benyújtott, megfizethető árú egyetemes szolgáltatásra vonatkozó igénybejelentés esetén nem
+alkalmazható, kivéve, ha az alternatív szolgáltatást biztosító szolgáltató az adott területen a 15. § szerint kijelölt
+egyetemes szolgáltató.
+(5) Az egyetemes szolgáltató ajánlatot tehet a végfelhasználó számára az igénybejelentésben megjelölt szolgáltatásnak
+vagy szolgáltatásoknak megfelelő, de az egyetemes szolgáltatástól szolgáltatásminőségi jellemzőiben eltérő,
+mobil rádiótelefon hálózaton megvalósított szolgáltatások nyújtására. Az egyetemes szolgáltató tájékoztatja
+a végfelhasználót, hogy a felajánlott alternatív szolgáltatást vagy szolgáltatásokat nem köteles elfogadni.
+13. § (1) Az egyetemes szolgáltató az általános szerződési feltételeiben feltünteti
+a) az általa egyetemes szolgáltatóként ellátott számozási körzetet vagy körzeteket, az adott számozási
+körzethez vagy körzetekhez tartozó településeket, továbbá – ha az adott számozási körzet vagy körzetek
+esetében a 10. § (1) bekezdése szerinti kötelezettség tekintetében további egyetemes szolgáltató
+is elérhető – az adott számozási körzetben vagy körzetekben elérhető más egyetemes szolgáltató
+megnevezését;
+b) az egyetemes szolgáltatás tartalmát;
+c) az egyetemes szolgáltatás igénybevételének feltételeit, és ha az egyetemes szolgáltató megfizethető áron
+köteles biztosítani az egyetemes szolgáltatást, akkor egyértelműen elkülönítve az alacsony jövedelmű
+fogyasztóra vagy a különleges szociális helyzetű fogyasztóra és a többi végfelhasználóra vonatkozó
+feltételeket;
+d) az egyetemes szolgáltatás díjait, és ha az egyetemes szolgáltató megfizethető áron köteles biztosítani
+az egyetemes szolgáltatást, akkor egyértelműen elkülönítve az alacsony jövedelmű fogyasztóra vagy
+a különleges szociális helyzetű fogyasztóra és a többi végfelhasználóra vonatkozó díjakat, és
+e) az előfizetői hozzáférési pont kiépítésének szükségessége esetén a kiépítéssel összefüggésben az alacsony
+jövedelmű fogyasztónak vagy a különleges szociális helyzetű fogyasztónak nem minősülő végfelhasználónak
+felszámított díj kialakításának elveit.
+(2) Az egyetemes szolgáltató az egyetemes szolgáltatásra vonatkozó információkat a hasonló szolgáltatásokra
+vonatkozóan a nem egyetemes szolgáltatást igénybe vevők számára kialakított ajánlataival közös elérési helyen
+helyezi el a honlapján. A honlapon elhelyezett tájékoztatásnak legalább az (1) bekezdés a)–d) pontjában szereplő
+információkat és a 11. § (3) bekezdése szerinti tájékoztatót kell tartalmaznia.
+(3) A megfizethető árú egyetemes szolgáltatás nyújtására a 15. § (1) bekezdése szerint nem kijelölt egyetemes
+szolgáltató az (1) bekezdés d) pontja szerinti kötelezettséget úgy is teljesítheti, hogy az alacsony jövedelmű
+fogyasztó vagy a különleges szociális helyzetű fogyasztó tekintetében elkülönült díjat nem alkalmaz, hanem
+az alacsony jövedelmű fogyasztót vagy a különleges szociális helyzetű fogyasztót informatikai rendszereiben
+valamely nyilvánosan elérhető díjcsomagjába sorolja be, és a díjcsomagban szereplő díj és a 4. § (1) bekezdése
+szerinti díj különbözetét minden hónapban jóváírja a fogyasztó számára. E jóváírás a kereskedelmi gyakorlatban
+nem tüntethető fel kedvezményként.
+14. § (1) Az egyetemes szolgáltató minden naptári évben az Elnök erre irányuló külön felhívása vagy döntése nélkül
+az e rendeletben és a kijelölési határozatban előírtaknak megfelelően megküldi az Elnök részére
+a) legkésőbb március 31-ig az 1. mellékletben foglaltaknak megfelelően az adatszolgáltatást megelőző naptári
+évre vonatkozóan, számozási körzetenként az alacsony jövedelmű fogyasztókra vagy különleges szociális
+helyzetű fogyasztókra és a többi végfelhasználóra vonatkozóan külön bemutatva
+aa) a beérkezett igénybejelentések számát,
+ab) az elfogadott és elutasított igénybejelentések számát, az elutasított igénybejelentések esetén a 12. §
+(1) bekezdésében rögzített elutasítási okok szerinti bontásban,
+ac) az igénybejelentés kézhezvételétől a 11. § (7) bekezdése szerinti értesítés végfelhasználónak
+történő megküldéséig eltelt, napokban kifejezett átlagos időtartamot,
+ad) az elfogadott igénybejelentések teljesítésének napokban kifejezett átlagos időtartamát a 11. §
+(9) bekezdésében meghatározott határidő kezdő napjától számítva,
+ae) azon esetek számát, amikor az egyetemes szolgáltatás létesítéséhez további hálózati elemek
+kiépítésére volt szükség,
+
+af) azon esetek számát, amikor az egyetemes szolgáltató a hozzáférés létesítéséért külön díjat számított
+fel, továbbá az ilyen díjakból származó nettó árbevételt, ezen belül külön bemutatva az ae) pont
+szerinti eseteket,
+ag) az egyetemes szolgáltatás előfizetőinek időszak végi számát, az előfizetési hónapok számát
+az időszakban,
+ah) az egyetemes szolgáltatás havi díjából származó nettó árbevételt,
+ai) az egyetemes szolgáltatás – havi díjon felüli – forgalmi díjából származó nettó árbevételt és
+aj) a nem vezetékes technológiával kiszolgált egyetemes előfizetők időszak végi számát;
+b) legkésőbb március 31-ig az egyetemes szolgáltató által ellátott számozási körzeten vagy körzeteken belüli
+azon települések listáját, ahol nem rendelkezik kiépített helyhez kötött előfizetői hozzáférési ponttal,
+valamint
+c) legkésőbb a számvitelről szóló törvény szerinti éves beszámoló elfogadásától számított 30 napon belül
+az éves beszámolóját és az egyetemes szolgáltatáshoz kapcsolódó – az Eht. 87. § (2) bekezdésben foglaltak
+szerint elkülönítetten nyilvántartott – bevételeit, költségeit, ráfordításait, eszközeit és forrásait.
+(2) Az egyetemes szolgáltató az egyetemes szolgáltatásnyújtás megkezdésével egy időben, ezt követően változás
+esetén a változást legalább 15 nappal megelőzően az Elnök számára bejelenti a 11. § (1) bekezdése szerinti
+elérhetőségeit, és az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó számára
+biztosított díjszabási lehetőségeket, díjcsomagokat.
+(3) Ha az egyetemes szolgáltató a helyi hozzáférési hálózati eszközeinek lényeges részét vagy azok egészét más
+tulajdonában lévő önálló jogalanyra kívánja átruházni, és ez befolyásolja a kijelölési határozatban rögzített
+szolgáltatásnyújtási kötelezettségét, az ezzel kapcsolatos szándékát a tervezett ügyletet megelőzően legalább
+90 nappal bejelenti az Elnöknek.
+5. Az egyetemes szolgáltató kijelölése a megfizethető árú egyetemes szolgáltatás biztosítására
+15. § (1) Ha a 4. §-ban foglalt vizsgálatok eredményeként az Elnök olyan számozási körzetet azonosít, ahol a megfizethető
+árú egyetemes szolgáltatás elérhetősége nem biztosított valamennyi fogyasztó számára, akkor az Elnök hivatalból
+hatósági eljárást indít. Az Elnök a kijelölési határozatban egy adott számozási körzetben a megfizethető árú
+egyetemes szolgáltatás biztosítására valamennyi, az adott számozási körzetben helyhez kötött internet-hozzáférési
+szolgáltatást nyújtó, a helyhez kötött internet-hozzáférési szolgáltatás tekintetében összességében, az adott
+számozási körzeten kívüli előfizetőket is figyelembe véve legalább 30 000 előfizetővel rendelkező szolgáltatót
+egyetemes szolgáltatóként jelöli ki.
+(2) Az (1) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a Tpvt. 15. §-a szerint egy
+vállalkozáscsoportban tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes
+szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden vállalkozást egyetemes
+szolgáltatóként jelöl ki.
+(3) Az Elnök a kijelölési határozatok véglegessé válását követő 5 napon belül a kijelölt szolgáltatók listáját és
+az egyetemes szolgáltatási kötelezettség részletes tartalmát számozási körzet szerinti bontásban közzéteszi
+a Hatóság honlapján.
+(4) A (3) bekezdés szerinti közzétételt követő 30 napon belül az Elnök számára bármely szolgáltató jelezheti
+a megfizethető árú egyetemes szolgáltatás nyújtására vonatkozó szándékát, és kérheti egyetemes szolgáltatóként
+történő kijelölését. A benyújtott kérelemnek tartalmaznia kell az egyetemes szolgáltatóként ellátni kívánt számozási
+körzetet vagy körzeteket és a szolgáltató nyilatkozatát arról, hogy az egyetemes szolgáltatásnyújtás (3) bekezdés
+szerint közzétett tartalmát magára nézve kötelezőként elfogadja. Az Elnök a kérelmet a beérkezést követő 15 napon
+belül elbírálja. Ha a kérelem megfelel e bekezdés szerinti feltételeknek, az Elnök hivatalból módosítja a kijelölési
+határozatot, és kérelmet benyújtó szolgáltatót is egyetemes szolgáltatóként jelöli ki a megfizethető árú egyetemes
+szolgáltatás biztosítására a kérelemben megjelölt számozási körzet vagy körzetek tekintetében.
+(5) A kijelölési határozat számozási körzetenként tartalmazza
+a) az egyetemes szolgáltató megnevezését;
+b) az egyetemes szolgáltatás tárgyát;
+c) az egyetemes szolgáltatás nyújtásának földrajzi területét;
+
+d) a megfizethető árú egyetemes szolgáltatás nyújtása megkezdésének időpontját és az egyetemes szolgáltatás
+nyújtásának időtartamát és
+e) az egyetemes szolgáltatót az egyetemes szolgáltatással kapcsolatban terhelő kötelezettségeket, ideértve
+a kedvezményes díjszabási lehetőségek vagy díjcsomagok nyújtásával kapcsolatos kötelezettség részletes
+tartalmát.
+16. § (1) Ha
+a) a Hatóság az egyetemes szolgáltatót vagy az egyetemes szolgáltatónak az egyetemes szolgáltatást érintő
+szolgáltatását véglegessé vált határozatával törli az elektronikus hírközlő hálózatokról és szolgáltatásokról
+vezetett nyilvántartásából,
+b) az egyetemes szolgáltató kijelölése tárgyában hozott kijelölési határozat visszavonásra kerül, vagy
+c) az egyetemes szolgáltató a 22. § (3) bekezdése szerinti bejelentést tett
+az Elnök e körülmény bekövetkezésétől számított 60 napon belül a 4. §-ban rögzített szempontok szerint
+megvizsgálja, hogy szükséges-e egyetemes szolgáltató kijelölése. Ha egyetemes szolgáltató kijelölése indokolt,
+az Elnök a 15. §-ban foglaltak szerint intézkedik az egyetemes szolgáltató kijelöléséről.
+(2) Az (1) bekezdés c) pontjában meghatározott esetekben – ha egyetemes szolgáltató az egyetemes szolgáltatás
+tekintetében előfizetői szerződés alapján szolgáltatást nyújt – az egyetemes szolgáltató az előfizetői
+szerződésekben rögzített időpontig, de legkésőbb az (1) bekezdés szerinti kijelölési eljárás – ideértve a kijelölési
+határozat bírósági felülvizsgálata iránti eljárást is – lezárultáig köteles a megfizethető árú egyetemes szolgáltatást
+a korábbi kijelölési eljárásban hozott kijelölési határozatban foglalt változatlan feltételekkel nyújtani.
+17. §
+Az egyes számozási körzetekben kijelölt egyetemes szolgáltatók listáját, az egyetemes szolgáltatók 19. §
+(1) bekezdése szerinti elérhetőségeit az Elnök közzéteszi a Hatóság internetes honlapján.
+6. A megfizethető árú egyetemes szolgáltatás biztosítására vonatkozó kötelezettség tartalma
+18. § (1) A 15. § szerint kijelölt egyetemes szolgáltató – a 20. §-ban rögzített kivételekkel – az ellátási területén előfizetői
+szerződés alapján köteles biztosítani a megfizethető árú egyetemes szolgáltatás igénybevételét az alacsony
+jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó számára.
+(2) A megfizethető árú egyetemes szolgáltatás nyújtására kötött előfizetői szerződésre az Eszr. rendelkezései
+– az e rendeletben foglalt eltérésekkel – megfelelően alkalmazandók.
+(3) Az egyetemes szolgáltató nem tehet különbséget az egyetemes szolgáltatás keretében nyújtott szolgáltatások és
+a nem annak keretében nyújtott hasonló szolgáltatások szolgáltatásminőségi követelményei tekintetében.
+19. § (1) Az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó a megfizethető árú egyetemes
+szolgáltatás nyújtására vonatkozó igénybejelentésének megtételére (ezen alcím alkalmazásában a továbbiakban:
+igénybejelentés) az egyetemes szolgáltató általános szerződési feltételeiben legalább egy nyilvánosan elérhető
+elektronikus hírközlési szolgáltatás igénybevételével történő, szóbeli vagy kétféle írásbeli módot biztosít, amelyek
+közül az egyik papíralapú.
+(2) Az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó az igénybejelentésben
+nyilatkozik arról, hogy alacsony jövedelmű fogyasztóként vagy különleges szociális helyzetű fogyasztóként igényli
+a megfizethető árú egyetemes szolgáltatást. Az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű
+fogyasztó a nyilatkozatához mellékeli a 4. melléklet szerinti jogosultságot igazoló, 30 napnál nem régebbi határozat
+vagy hatósági bizonyítvány másolatát.
+(3) Az Elnök legkésőbb a kijelölési határozatok véglegessé válásával egy időben a 4. melléklet szerinti jogosultság
+igazolásával összefüggésben tájékoztatót tesz közzé a Hatóság honlapján, amelynek az Elnök által megjelölt részeit
+az egyetemes szolgáltatók kötelesek a honlapjukon közzétenni.
+(4) Az igénybejelentést az egyetemes szolgáltató írásban, hangfelvétel útján vagy elektronikus formában rögzíti, és
+nyilvántartásba veszi.
+(5) Ha az igénybejelentés hiányos, az egyetemes szolgáltató legalább 15 napos határidő tűzésével
+az igénybejelentéssel azonos módon felkéri az alacsony jövedelmű fogyasztót vagy a különleges szociális helyzetű
+fogyasztót az igénybejelentés megfelelő kiegészítésére, amelyet írásban, hangfelvétel útján vagy elektronikus
+formában rögzít.
+
+(6) Az egyetemes szolgáltató a megfizethető árú egyetemes szolgáltatás biztosításán túl az alacsony jövedelmű
+fogyasztó vagy a különleges szociális helyzetű fogyasztó számára – az igénybejelentés alapján történő előfizetői
+szerződéskötés során – ajánlatot tehet egyéb elektronikus hírközlési szolgáltatásra vagy szolgáltatáscsomagra
+vonatkozóan is.
+(7) Az egyetemes szolgáltató az igénybejelentés hiánytalan beérkezését követő 15 napon belül igazolható módon
+értesíti a végfelhasználót
+a) az igény elfogadásáról vagy
+b) indoklással ellátva az igény 20. § (1) bekezdése szerinti elutasításáról.
+(8) Ha az egyetemes szolgáltató az igénybejelentést elfogadja, az igénybejelentés elfogadásával egyidejűleg megjelöli,
+hogy a megfizethető árú egyetemes szolgáltatás biztosítására milyen határnaptól vállal kötelezettséget. E határnap
+nem lehet későbbi, mint az igénybejelentés elfogadásától számított 90. nap.
+20. §
+Az egyetemes szolgáltató az igénybejelentést kizárólag az alábbi esetekben utasíthatja el:
+a) ha az egyetemes szolgáltató a 19. § (5) bekezdése szerint az alacsony jövedelmű fogyasztót vagy a különleges
+szociális helyzetű fogyasztót az igénybejelentés kiegészítésére kéri fel, és az alacsony jövedelmű fogyasztó
+vagy a különleges szociális helyzetű fogyasztó a felkérésnek a határidőn belül nem tesz eleget, és a határidő
+meghosszabbítását sem kéri, vagy
+b) ha az igénybejelentésben megjelölt előfizetői hozzáférési pont az egyetemes szolgáltató ellátási területén
+kívül esik, és az egyetemes szolgáltató az adott számozási körzet vonatkozásában nincs a 6. § szerint
+egyetemes szolgáltatóként kijelölve.
+21. § (1) Az egyetemes szolgáltató az általános szerződési feltételeiben feltünteti
+a) az általa egyetemes szolgáltatóként ellátott számozási körzetet vagy körzeteket, az adott számozási
+körzethez tartozó településeket;
+b) az egyetemes szolgáltatásnyújtási kötelezettség alapján kialakított, vagy annak megfelelő díjcsomagot,
+díjszabási lehetőséget és
+c) az egyetemes szolgáltatás igénybevételének feltételeit.
+(2) Az egyetemes szolgáltató a megfizethető árú egyetemes szolgáltatásra vonatkozó információkat a hasonló
+szolgáltatásokra vonatkozóan a nem egyetemes szolgáltatást igénybe vevők számára kialakított ajánlataival közös
+elérési helyen helyezi el a honlapján. A honlapon elhelyezett tájékoztatásnak legalább az (1) bekezdésben szereplő
+információkat és a 19. § (3) bekezdése szerinti tájékoztatót kell tartalmaznia. Az egyetemes szolgáltatásnyújtási
+kötelezettség alapján kialakított, vagy annak megfelelő díjcsomagra vonatkozóan a honlapon elhelyezett
+tájékoztatásból egyértelműen ki kell derülnie, hogy egyetemes szolgáltatáscsomagról van szó.
+22. § (1) Az egyetemes szolgáltató minden naptári évben az Elnök erre irányuló külön felhívása vagy döntése nélkül
+az e rendeletben, és a kijelölési határozatban előírt kötelezettségek teljesítésére vonatkozóan megküldi az Elnök
+részére
+a) legkésőbb március 31-ig az 1. mellékletben foglaltaknak megfelelően az adatszolgáltatást megelőző naptári
+évre vonatkozóan számozási körzetenként;
+aa) a beérkezett igénybejelentések számát,
+ab) az elfogadott és elutasított igénybejelentések számát, az elutasított igénybejelentések esetén a 20. §
+(1) bekezdésben rögzített elutasítási okok szerinti bontásban,
+ac) az igénybejelentés kézhezvételétől a 19. § (7) bekezdése szerinti értesítés végfelhasználónak
+történő megküldéséig eltelt, napokban kifejezett átlagos időtartamot,
+ad) az elfogadott igénybejelentések teljesítésének napokban kifejezett átlagos időtartamát a 19. §
+(8) bekezdésében meghatározott határidő kezdő napjától számítva,
+ae) az egyetemes szolgáltatás előfizetőinek időszak végi számát, az előfizetési hónapok számát
+az időszakban,
+af) az egyetemes szolgáltatás havi díjából származó nettó árbevételt és
+ag) az egyetemes szolgáltatás – havi díjon felüli – forgalmi díjából származó nettó árbevételt, valamint
+b) legkésőbb a számvitelről szóló törvény szerinti éves beszámoló elfogadásától számított 30 napon belül
+az éves beszámolóját és az egyetemes szolgáltatáshoz kapcsolódó – az Eht. 87. § (2) bekezdésében
+foglaltaknak megfelelően elkülönítetten nyilvántartott – bevételeit, költségeit, ráfordításait, eszközeit és
+forrásait.
+
+(2) Az egyetemes szolgáltató az egyetemes szolgáltatásnyújtás megkezdésével egy időben, ezt követően változás
+esetén a változást legalább 15 nappal megelőzően az Elnök számára bejelenti a 19. § (1) bekezdése szerinti
+elérhetőségeit, és az alacsony jövedelmű fogyasztók vagy különleges szociális helyzetű fogyasztó számára
+biztosított díjszabási lehetőségeket, díjcsomagokat.
+(3) Ha az egyetemes szolgáltató a helyi hozzáférési hálózati eszközeinek lényeges részét vagy azok egészét más
+tulajdonában lévő önálló jogalanyra kívánja átruházni, és ez befolyásolja a kijelölési határozatban rögzített
+szolgáltatásnyújtási kötelezettségét, az ezzel kapcsolatos szándékát a tervezett ügyletet legalább 90 nappal
+megelőzően bejelenti az Elnöknek.
+(4) A 14. § szerint adatszolgáltatásra kötelezett egyetemes szolgáltatókra az e §-ban foglalt rendelkezések nem
+alkalmazandók.
+7. Az Eht. 117. § (1) bekezdésében meghatározott szolgáltatáson kívüli egyetemes szolgáltatáselemek
+fenntartásának vizsgálata
+23. § (1) Az Elnök megvizsgálja az Eht. – 2020. december 21-ét megelőzően hatályos – 117. § (1) bekezdésében
+meghatározott következő szolgáltatáselemek egyetemes szolgáltatáselemként való fenntartásának indokoltságát:
+a) a lakosságszámhoz igazodva az Elnök által rendeletben meghatározott számú, de legalább településenként
+egy darab nyilvános telefonállomás működtetése, továbbá a kötelezően létesített nyilvános telefonállomások
+legalább 3%-a hallás-, illetve mozgáskorlátozottak által is használható kialakítással (a továbbiakban: nyilvános
+telefonállomások üzemeltetése);
+b) országos belföldi tudakozó nyújtása;
+c) előfizetői névjegyzék elérhetővé tétele.
+(2) Ha az (1) bekezdés szerinti vizsgálat alapján valamely szolgáltatáselemre vonatkozó egyetemes szolgáltatási
+kötelezettség további fenntartása vagy módosított formában történő fenntartása indokolt, akkor az Elnök
+meghatározza a szolgáltatáselem pontos tartalmát.
+(3) Ha az Elnök az (1) bekezdés szerinti vizsgálat alapján azt állapítja meg, hogy az (1) bekezdés a)–c) pontjában foglalt
+egy vagy több szolgáltatáselem egyetemes szolgáltatáselemként történő fenntartása nem indokolt, akkor az adott
+szolgáltatáselem tekintetében az egyetemes szolgáltató kijelölését megszünteti.
+(4) Az (1) bekezdés szerinti vizsgálat során az Elnök figyelembe veszi különösen
+a) a szolgáltatáselemek tényleges igénybevételét;
+b) a szolgáltatáselemek helyettesíthetőségét;
+c) a szolgáltatásnyújtással kapcsolatos tapasztalatokat;
+d) a szolgáltatáselemekkel kapcsolatos fogyasztói igényeket és
+e) a szolgáltatáselemek egyetemes szolgáltatáselemként való előírásának visszavonása esetén a fogyasztók
+társadalmi és gazdasági életben való teljes körű részvételére gyakorolt hatást.
+(5) Az (1) bekezdés szerinti vizsgálat elvégzéséhez az adott szolgáltatáselem tekintetében egyetemes szolgáltatóként
+kijelölt szolgáltatók az Elnök határozatában foglaltak szerint adatszolgáltatásra kötelesek.
+24. § (1) Az Elnök a 23. § (1) bekezdése szerinti vizsgálat eredményét közzéteszi a Hatóság honlapján, amelyben
+– a szolgáltatáselemek tervezett tartalmának ismertetésével együtt – megjelöli azon szolgáltatáselemet vagy
+szolgáltatáselemeket, amelyek egyetemes szolgáltatáselemként való további fenntartása indokolt.
+(2) Az (1) bekezdés szerinti közzétételt követően a szolgáltatók 30 napon belül megküldhetik a vizsgálat eredményével
+kapcsolatos észrevételeiket az Elnök számára. A beérkezett észrevételeket az Elnök megvizsgálja, és a megalapozott
+észrevételek alapján módosíthatja az egyetemes szolgáltatáselemek körét, tartalmát.
+25. §
+Ha a 23. § (1) bekezdése szerinti vizsgálat eredményeként az Elnök olyan szolgáltatáselemet azonosít, amely
+esetében az egyetemes szolgáltatási kötelezettség további fenntartása indokolt, az Elnök a 24. § (1) bekezdése
+szerinti közzétételt követő 60 napon belül a Hatóság internetes honlapján az egyetemes szolgáltatáselem
+vonatkozásában ajánlati felhívást tesz közzé.
+26. § (1) Az ajánlati felhívás legalább a következőket tartalmazza:
+a) az ajánlati felhívás tárgyát;
+b) az egyetemes szolgáltatáselemmel ellátandó földrajzi terület meghatározását;
+c) az egyetemes szolgáltatáselem tartalmát, nyújtásának pénzügyi, minőségi feltételeit;
+
+d) az egyetemes szolgáltatáselem nyújtása megkezdésének időpontját és az egyetemes szolgáltatáselem
+nyújtásának időtartamát;
+e) az ajánlat benyújtásának határidejét és helyét, valamint az ajánlat benyújtásának módját és formáját;
+f) a személyi, részvételi feltételeket;
+g) a szakmai alkalmasságra vonatkozó feltételeket, továbbá az ajánlathoz csatolandó dokumentumokat,
+nyilatkozatokat;
+h) az ajánlatok értékelésének elbírálási, súlyozási szempontjait, amelyek szerint valamely ajánlat a legjobb
+ajánlatnak minősülhet; és
+i) az ajánlati felhívásban foglaltak megsértésének jogkövetkezményét.
+(2) Az ajánlat benyújtására az Elnök az ajánlati felhívás közzétételétől számított legalább 45 napos határidőt biztosít.
+27. § (1) Egy ajánlattevő csak egy ajánlatot nyújthat be.
+(2) A 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem nyújtására vonatkozó ajánlat más szolgáltató
+szolgáltatásának igénybevételével, vagy valamennyi, a kijelölési eljárás eredményeként kijelölt egyetemes
+szolgáltató közötti együttműködés – az érintett szolgáltatók között e tárgyban kötött előszerződés vagy
+a szolgáltatók közötti együttműködésre vonatkozó szándéknyilatkozat alapján történő – megvalósításával is tehető.
+(3) Az ajánlattevő ajánlatában meghatározza
+a) a szolgáltatáselemet, amelyre az ajánlata irányul;
+b) ha ez az adott szolgáltatáselem vonatkozásában az ajánlati felhívás alapján értelmezhető, az ajánlattal
+érintett földrajzi területet;
+c) ha ez az adott szolgáltatáselem vonatkozásában az ajánlati felhívás alapján értelmezhető, a szolgáltatáselem
+nyújtásához az ajánlattevő által igénybe venni kívánt hálózat vagy hálózatok megjelölését, a hálózat vagy
+hálózatok üzemeltetőjét, ha az nem az ajánlattevő; és
+d) az ajánlati felhívásban előírt egyéb követelményekre vonatkozó ajánlatot.
+(4) Az ajánlattevő az ajánlatához csatolja
+a) a 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem esetében az előszerződést vagy az együttműködésre
+vonatkozó szándéknyilatkozatot, ha ezen szolgáltatáselemet más szolgáltató szolgáltatásának
+igénybevételével, vagy több szolgáltató együttműködésével kívánja nyújtani;
+b) a kijelölési eljárásban való részvételére vonatkozó egyértelmű nyilatkozatát, amely tartalmazza, hogy
+az ajánlattevő e nyilatkozatának benyújtásától kezdődően az ajánlati felhívásban foglaltakat magára nézve
+visszavonhatatlanul, jogfenntartás és korlátozás nélkül kötelezőnek ismeri el;
+c) a visszavonhatatlan és feltételt nem támasztó nyilatkozatát arra vonatkozóan, hogy a kijelölési eljárásban való
+nyertessége esetén kíván-e hatósági szerződést kötni az egyetemes szolgáltatáselem nyújtásának tárgyában;
+valamint
+d) az ajánlati felhívásban meghatározott egyéb dokumentumokat.
+28. § (1) Az Elnök az ajánlat benyújtására megállapított határidő elteltét követő 10 napon belül hivatalból, az ajánlati felhívás
+tárgyát képező szolgáltatáselemenként valamennyi ajánlatot tevő szolgáltatóval és a 29. § (3) bekezdés a) pontja
+szerinti valamennyi szolgáltatóval szemben megindítja a kijelölési eljárást.
+(2) Az Elnök az ajánlati felhívásban meghatározott elvek és szempontok alapján a legjobb ajánlat benyújtóját jelöli
+ki egyetemes szolgáltatóként. Ha valamely szolgáltatáselem vonatkozásában csak egy érvényes ajánlat került
+benyújtásra, az Elnök ezen ajánlat benyújtóját jelöli ki egyetemes szolgáltatóként az adott szolgáltatáselem
+vonatkozásában.
+29. § (1) Ha a benyújtott ajánlat és a tényállás tisztázása alapján az Elnök azt állapítja meg, hogy az ajánlat
+a) az ajánlati felhívás szerinti elbírálási, súlyozási szempontok körében nem értelmezhető, egymásnak
+ellentmondó vagy nyilvánvalóan lehetetlen vállalásokat, feltételeket tartalmaz, amelyek akadályozzák
+az ajánlat érdemi értékelését;
+b) lehetetlen, túlzottan magas vagy alacsony mértékű, illetve kirívóan aránytalan kötelezettségvállalást, vagy
+olyan nyilvánvalóan irracionális vagy megalapozatlan vállalást tartalmaz, amelyek ellentmondanak az Elnök
+rendelkezésére álló tényeknek, adatoknak, és ezáltal lehetetlenné teszik az ajánlati felhívásban foglalt
+elbírálási, súlyozási szempontok szerinti értékelést;
+
+c) megalapozatlansága miatt nem alkalmas az Eht.-ban vagy az ajánlati felhívásban meghatározott célok
+elérésére, megvalósítására, vagy
+d) az e rendeletben és az ajánlati felhívásban meghatározott érvényességi követelményeknek nem felel meg,
+érvénytelenné nyilvánítja az ajánlatot.
+(2) Az Elnök az ajánlat érvénytelenségét külön végzéssel nem állapítja meg, az ajánlat érvénytelenségét a kijelölési
+eljárást lezáró döntésébe foglalja.
+(3) Ha valamely szolgáltatáselemre vagy – ha értelmezhető – földrajzi területre vonatkozóan nem kerül sor ajánlat
+benyújtására, vagy az Elnök valamennyi benyújtott ajánlatot érvénytelennek nyilvánította, az Elnök
+a) a 23. § (1) bekezdés a) és c) pontjában szereplő szolgáltatáselem esetén az adott területen a helyhez kötött
+telefonszolgáltatás előfizetőinek száma alapján legnagyobb piaci részesedéssel rendelkező szolgáltatót vagy
+b) a 23. § (1) bekezdés b) pontjában szereplő szolgáltatáselem esetén az ország területén a helyhez kötött
+telefonszolgáltatás előfizetőinek száma alapján legnagyobb piaci részesedéssel rendelkező szolgáltatót
+jelöli ki egyetemes szolgáltatóként.
+(4) A (3) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a Tpvt. 15. §-a szerint egy
+vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként
+történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden szolgáltatót egyetemes szolgáltatóként
+jelöl ki, és a kijelölési határozatban rögzíti a vállalkozáscsoportba tartozó egyes szolgáltatók kötelezettségeit.
+30. § (1) A kijelölési határozat földrajzi területenként tartalmazza
+a) az egyetemes szolgáltató megnevezését;
+b) az egyetemes szolgáltatás tárgyát;
+c) az egyetemes szolgáltatáselem nyújtásának földrajzi területét;
+d) az egyetemes szolgáltatáselem nyújtása megkezdésének időpontját és az egyetemes szolgáltatás
+nyújtásának időtartamát;
+e) az egyetemes szolgáltatót az egyetemes szolgáltatáselem nyújtásával kapcsolatban terhelő
+kötelezettségeket; és
+f) érvénytelen ajánlat esetén az ajánlat érvénytelenségét.
+(2) Ha valamely szolgáltatáselem vonatkozásában az egyetemes szolgáltató kijelölésére érvényes ajánlat alapján kerül
+sor, a kijelölt egyetemes szolgáltató és az Elnök az egyetemes szolgáltatáselem tartalmáról hatósági szerződésben
+állapodnak meg, ha a kijelölt egyetemes szolgáltató a 27. § (4) bekezdés c) pontja alapján úgy nyilatkozott, hogy
+az egyetemes szolgáltatáselem nyújtásának tárgyában hatósági szerződést kíván kötni. A kijelölési határozat
+ebben az esetben csak az (1) bekezdés a)–c) pontjában meghatározott adatokat, továbbá – ha az ajánlati
+felhívásra érvénytelen ajánlat is érkezik – az (1) bekezdés f) pontjában foglaltakat tartalmazza, a kijelölési határozat
+(1) bekezdés d) és e) pontja szerinti további tartalmat a felek hatósági szerződésbe foglalják.
+(3) Ha a (2) bekezdés szerinti esetben az egyetemes szolgáltatáselem nyújtásához az egyetemes szolgáltató a saját
+hálózatán kívül más hálózatot vagy hálózatokat is igénybe kíván venni, a hatósági szerződés tartalmazza ezen
+hálózat vagy hálózatok üzemeltetőjét, továbbá az egyetemes szolgáltatáselem nyújtásához az egyetemes
+szolgáltató által igénybe venni kívánt hálózattal az (1) bekezdés c) pontja szerinti földrajzi területen ellátott
+települések megnevezését is.
+(4) A hatósági szerződés tartalmazza az egyetemes szolgáltató által az ajánlatában önkéntesen vállalt egyéb
+feltételeket.
+31. § (1) A 30. § (2) bekezdésében meghatározott esetben a kijelölési határozatnak a kijelölt egyetemes szolgáltatóval
+történő közlését követő 10 napon belül az Elnök – az egyetemes szolgáltatóval való hatósági szerződéskötés
+érdekében – hivatalból hatósági eljárást indít.
+(2) Ha az (1) bekezdés szerinti hatósági eljárásban a kijelölt egyetemes szolgáltató nem vesz részt, vagy a hatósági
+szerződés megkötésétől elzárkózik – ideértve azt is, ha a kijelölt egyetemes szolgáltató az ajánlatát visszavonja –,
+az ügyintézési határidőn túl a hatósági szerződés nem köthető meg. Ebben az esetben az Elnök az eljárást
+az ügyintézési határidő utolsó napján megszünteti.
+
+(3) Ha az Elnök a hatósági szerződés megkötésére irányuló eljárást a (2) bekezdés szerint megszünteti, de ugyanazon
+földrajzi terület vonatkozásában több érvényes ajánlat is benyújtásra került, az Elnök a második legjobb ajánlat
+benyújtóját nyilatkozattételre hívja fel a tekintetben, hogy az ajánlatában foglaltak szerint vállalja-e a hatósági
+szerződés megkötését. Ha a második legjobb ajánlatot benyújtó ajánlattevő úgy nyilatkozik, hogy vállalja a hatósági
+szerződés megkötését, az Elnök ezen nyilatkozat beérkezésétől számított 10 napon belül – a hatósági szerződés
+megkötése iránt – hivatalból hatósági eljárást indít. Ezen eljárásra az (1) és (2) bekezdésben foglaltakat megfelelően
+alkalmazni kell.
+(4) A (2) bekezdésben meghatározott esetben – ha a (3) bekezdés nem alkalmazható, vagy a (3) bekezdés szerinti
+második legjobb ajánlat benyújtója nem vállalja a hatósági szerződés megkötését – az Elnök a kijelölési határozatot
+módosítja, és az érintett földrajzi terület vonatkozásában a 29. § (3) bekezdése szerinti szolgáltatókat jelöli ki
+egyetemes szolgáltatóként, és a kijelölési határozatot kiegészíti a 30. § (1) bekezdésében foglalt azon tartalmi
+elemekkel, amelyeket a kijelölési határozat a 30. § (2) bekezdése alapján nem tartalmazott.
+(5) Ha a kijelölési határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig
+nem köthető meg.
+(6) A hatósági szerződés megkötése és hatálybalépése közötti időtartam legfeljebb három hónap lehet.
+32. § (1) Az Elnök az a)–d) pont szerinti körülmény bekövetkezésétől számított 60 napon belül ajánlati felhívást tesz közzé, és
+a 26–31. § szerint intézkedik egyetemes szolgáltató kijelöléséről, ha
+a) az egyetemes szolgáltató az egyetemes szolgáltatáselemet nem az elektronikus hírközlésre vonatkozó
+szabályban és az előfizetői szerződésben foglalt feltételekkel nyújtja, vagy az elektronikus hírközlésre
+vonatkozó szabályban foglalt egyéb okból az Elnök az egyetemes szolgáltatás nyújtása tárgyában megkötött
+hatósági szerződést véglegessé vált és végrehajtható határozatával felmondja;
+b) az egyetemes szolgáltató és az Elnök által az egyetemes szolgáltatáselem nyújtása tárgyában megkötött
+hatósági szerződés megszűnik;
+c) a Hatóság az egyetemes szolgáltatót vagy az egyetemes szolgáltatónak az egyetemes szolgáltatáselemet
+érintő szolgáltatását jogerősen törli az elektronikus hírközlő hálózatokról és szolgáltatásokról vezetett
+nyilvántartásából; vagy
+d) a kijelölési határozatot visszavonta.
+(2) Az (1) bekezdés a) és b) pontjában meghatározott esetben az egyetemes szolgáltató a kijelölési eljárás – ideértve
+a kijelölési határozat bírósági felülvizsgálata iránti eljárást is – lezárultáig köteles az egyetemes szolgáltatáselemet
+a kijelölési eljárást megelőző, korábbi kijelölési eljárásban hozott kijelölési határozatban vagy – ha az Elnök és
+az egyetemes szolgáltató az egyetemes szolgáltatáselem tartalmáról hatósági szerződésben állapodtak meg –
+hatósági szerződésben foglalt változatlan feltételekkel nyújtani.
+33. §
+A 23. § (1) bekezdése szerinti egyetemes szolgáltatáselemek tekintetében kijelölt egyetemes szolgáltatók listáját
+az Elnök közzéteszi a Hatóság honlapján.
+8. Az Eht. 117. § (1) bekezdésében meghatározott szolgáltatásokon kívüli egyetemes
+szolgáltatáselemek biztosítására vonatkozó kötelezettség tartalma
+34. §
+A 23. § (1) bekezdés a)–c) pontjában foglalt szolgáltatáselemeket az egyetemes szolgáltató a kijelölési határozatban,
+illetve a hatósági szerződésben foglalt részletes feltételek alapján biztosítja.
+35. § (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató a 23. § (1) bekezdés b) pontja szerinti
+szolgáltatáselem nyújtására kijelölt egyetemes szolgáltató erre irányuló írásbeli igénye alapján díjmentesen átadja
+az előfizetői adatokat az egyetemes szolgáltató számára első alkalommal az igény kézhezvételét követő 60 napon
+belül, azt követően heti rendszerességgel. Az adatátadási kötelezettség kiterjed valamennyi olyan előfizető nevére,
+lakcímének a szolgáltatóval nyilvánosságra hozatal céljából közölt részére és előfizetői hívószámára, akik az adataik
+előfizetői névjegyzékben történő megjelenéséhez hozzájárultak.
+
+(2) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató az (1) bekezdés szerinti, heti rendszerességű
+adatátadás keretében jelzi a 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem nyújtására kijelölt egyetemes
+szolgáltatónak, ha az előfizető bejelenti, hogy
+a) az adatai megváltoztak, vagy
+b) az adatai a hozzájárulásától eltérően szerepelnek az előfizetői névjegyzékben.
+Ezen esetekben az előfizetői névjegyzék adatainak módosítása díjmentes.
+(3) Ha az Elnök a 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem nyújtására a korábban kijelölt egyetemes
+szolgáltatótól eltérő szolgáltatót jelöl ki egyetemes szolgáltatóként (a továbbiakban: új egyetemes szolgáltató),
+a korábban kijelölt egyetemes szolgáltató az új egyetemes szolgáltató erre irányuló írásbeli igénye kézhezvételét
+követő 30 napon belül az általa készített előfizetői névjegyzéket díjmentesen az új egyetemes szolgáltató
+rendelkezésére bocsátja.
+(4) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató biztosítja, hogy a hálózatából az előfizetői
+a 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem nyújtására kijelölt egyetemes szolgáltató 23. § (1) bekezdés
+b) pontja szerinti szolgáltatását az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről és
+az azonosítógazdálkodás rendjéről szóló NMHH rendelet szerinti rövidített hívószámmal elérjék.
+36. § (1) A helyhez kötött telefonszolgáltatást nyújtó szolgáltató a 23. § (1) bekezdés c) pontja szerinti szolgáltatáselem
+nyújtására kijelölt egyetemes szolgáltató erre irányuló írásbeli igénye alapján díjmentesen átadja az előfizetői
+adatokat az egyetemes szolgáltató számára, a felek eltérő megállapodásának hiányában első alkalommal az igény
+kézhezvételét követő 60 napon belül, azt követően minden évben március 31-ig, június 30-ig, szeptember 30-ig és
+december 31-ig. Az adatátadási kötelezettség kiterjed a földrajzi terület valamennyi olyan előfizetőjének nevére,
+lakcímének a szolgáltatóval nyilvánosságra hozatal céljából közölt részére és előfizetői hívószámára, akik az adataik
+előfizetői névjegyzékben történő megjelenéséhez hozzájárultak.
+(2) A helyhez kötött telefonszolgáltatást nyújtó szolgáltató az (1) bekezdés szerinti adatátadás keretében jelzi
+az előfizetői névjegyzék készítésére kijelölt egyetemes szolgáltatónak, ha az előfizető bejelenti, hogy
+a) az adatai megváltoztak, vagy
+b) az adatai a hozzájárulásától eltérően szerepelnek az előfizetői névjegyzékben.
+Ezen esetekben az előfizetői névjegyzék adatainak módosítása díjmentes.
+37. §
+Természetes személy előfizető számára az előfizetői szerződés megkötésekor biztosítani kell, hogy írásban,
+hangfelvétel útján vagy más elektronikusan rögzített módon rendelkezhessen az adatai 23. § (1) bekezdés b) vagy
+c) pontja szerinti szolgáltatáselem nyújtására kijelölt egyetemes szolgáltató által készített névjegyzékben történő
+megjelentetéséhez való hozzájárulásról vagy annak megtagadásáról, továbbá – hozzájárulás esetén – arról, hogy
+milyen adatok feltüntetését kéri.
+38. §
+A 23. § (1) bekezdés a), b) vagy c) pontja szerinti szolgáltatáselem nyújtására kijelölt egyetemes szolgáltató
+a kijelölési határozatban előírt kötelezettségek teljesítéséről a kijelölési határozatban rögzített rendszerességgel és
+tartalommal adatot szolgáltat az Elnök részére.
+9. Az egyetemes szolgáltatás finanszírozása
+39. § (1) Az egyetemes szolgáltató – kérelmére – az egyetemes szolgáltatás nyújtásából keletkező nettó, kizárólag üzleti
+szempontok alkalmazása esetén elkerülhető és méltánytalan tehernek minősülő költségeinek Hatóság általi
+megtérítésére jogosult.
+(2) Az egyetemes szolgáltató a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás tekintetében csak
+az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó számára nyújtott megfizethető árú
+szolgáltatásra vonatkozóan jogosult méltánytalan terheinek megtérítésére.
+
+(3) Az egyetemes szolgáltató a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás havi díja tekintetében
+nem jogosult a megfizethető áron nyújtott egyetemes szolgáltatás méltánytalan terheinek megtérítésére, ha
+a) az egyetemes szolgáltató az alacsony jövedelmű fogyasztó vagy a különleges szociális helyzetű fogyasztó
+számára megfizethető áron nyújtott egyetemes szolgáltatás nyújtásával kapcsolatos kötelezettségét – a 13. §
+(3) bekezdésében foglalt eset kivételével – olyan díjcsomaggal teljesíti, amelyet más végfelhasználók számára
+is elérhetővé tesz, vagy a kínálatában szerepel olyan nyilvánosan elérhető díjcsomag, amely az egyetemes
+szolgáltatás tartalmának megfelelő szolgáltatást vagy szolgáltatásokat tartalmaz – az internet-hozzáférési
+szolgáltatás esetében az egyetemes szolgáltatásra vonatkozóan meghatározott vagy annál magasabb
+sávszélességgel –, és a díjcsomagban szereplő havi díj megegyezik vagy kedvezőbb a megfizethető árnál;
+b) valamely nyilvánosan elérhető, a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás körébe
+tartozó szolgáltatást vagy szolgáltatásokat – az internet-hozzáférési szolgáltatás esetében az egyetemes
+szolgáltatásra vonatkozóan meghatározott vagy annál magasabb sávszélességgel – és más, az egyetemes
+szolgáltatási kötelezettség körébe nem tartalmazó szolgáltatást is tartalmazó díjcsomag havi díjából
+az egyetemes szolgáltatás tartalmának megfelelő szolgáltatásra eső rész megegyezik vagy kedvezőbb
+a megfizethető árnál.
+(4) A (3) bekezdés a) és b) pontjában foglaltak teljesülését az Elnök a 40. § szerinti eljárás során vizsgálja.
+40. § (1) Ha az egyetemes szolgáltató az egyetemes szolgáltatásból eredő méltánytalan terhei megtérítésére igényt tart,
+a méltánytalan teher jóváhagyására irányuló kérelmét
+a) az igénnyel érintett évet (a továbbiakban: tárgyév) követő év szeptember 30-ig, vagy
+b) ha a naptári évtől eltérő üzleti évet választott, szeptember 30-át követően annyi nappal, amennyi nappal
+üzleti évének vége a naptári év végétől eltér
+nyújthatja be a Hatósághoz.
+Az egyetemes szolgáltató a kérelmet kizárólag valamennyi általa nyújtott egyetemes szolgáltatáselemre
+vonatkozóan együttesen nyújthatja be.
+(2) Az egyetemes szolgáltató az (1) bekezdés szerinti kérelméhez mellékelten megküldi a 2. melléklet szerinti adatokat,
+dokumentumokat. A dokumentumokat olyan formában kell mellékelni, hogy azok a Microsoft Office Word és
+Excel 2016 verzióival olvashatóak és ellenőrizhetőek legyenek. A dokumentumok másolatát a társaság vezető
+tisztségviselője minősített elektronikus aláírással és időbélyegzővel látja el.
+(3) Az Elnök a benyújtott és hiánytalan kérelem alapján a 3. mellékletben foglalt módszertan szerint kiszámítja
+az egyetemes szolgáltató által nyújtott egyetemes szolgáltatás nettó költségét, és dönt a méltánytalan teher
+fennállásáról. Ha az Elnök a méltánytalan teher megtérítésére irányuló kérelmet jóváhagyja, az e tárgyban hozott
+döntés véglegessé válásától számított 30 napon belül intézkedik a méltánytalan teher megtérítése iránt.
+(4) Az Elnök a (3) bekezdés szerinti döntését és a döntés alapjául szolgáló vizsgálatok eredményét a döntés
+meghozatalát követő 20 napon belül közzéteszi honlapján.
+10. Fogyatékossággal élő fogyasztókkal kapcsolatos rendelkezések
+41. § (1) Az Elnök a 15. § szerinti kijelölési határozatban az egyetemes szolgáltatás nyújtásának megkezdésére vonatkozóan
+meghatározott időponttól számított 6 hónapon belül megvizsgálja, hogy a 4. melléklet 2. pontjában meghatározott
+különleges szociális helyzetű fogyasztók számára elérhetők és megfizethetők-e a 3. § (1) bekezdése szerinti
+sávszélességű egyetemes szolgáltatás igénybevételéhez szükséges végberendezések, továbbá az egyenértékű
+hozzáférést elősegítő meghatározott berendezések és szolgáltatások, beleértve szükség esetén a teljes körű
+beszélgetési szolgáltatásokat és a közvetítő szolgáltatásokat is. A vizsgálat keretében az Elnök vizsgálja a 3. §
+(1) bekezdése szerinti sávszélességű egyetemes szolgáltatás igénybevételéhez szükséges végberendezések,
+az egyenértékű hozzáférést elősegítő meghatározott berendezések, illetve szolgáltatások
+a) körét;
+b) elérhetőségét az egyetemes szolgáltatók kínálatában; valamint
+c) megfizethetőségét.
+(2) Az Elnök az (1) bekezdés c) pontja szerinti vizsgálat során különösen a következő szempontokat veszi figyelembe:
+a) a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás igénybevételével kapcsolatban
+a különleges szociális helyzetű fogyasztóknál felmerülő kiadásokat, különös tekintettel az (1) bekezdés
+a) pontja szerinti vizsgálat eredményeként azonosított berendezésekkel, illetve szolgáltatásokkal kapcsolatos
+többletkiadásokra;
+
+b) a különleges szociális helyzetű fogyasztók által igénybe vett hírközlési szolgáltatásokat, azok volumenét,
+az ezekkel kapcsolatos kiadásokat;
+c) a különleges szociális helyzetű fogyasztók jövedelmi helyzetét, fogyasztási jellegű kiadásait és
+d) a 4. melléklet 2. pont a) alpontja és 2. pont b) alpontja szerinti támogatás, járadék mértékét, annak
+az (1) bekezdés a) pontja szerinti vizsgálat eredményeként azonosított berendezésekkel, szolgáltatásokkal
+kapcsolatos kiadásokhoz viszonyított arányát.
+(3) Az (1) bekezdés szerinti vizsgálat során az Elnök felhasználhatja különösen:
+a) a szolgáltatók általános szerződési feltételeit;
+b) a Hatóság piackutatásaiból származó adatait;
+c) a Központi Statisztikai Hivatal közzétett adatait és
+d) a (4) bekezdés szerinti adatszolgáltatásból származó adatokat.
+(4) Az (1) bekezdés szerinti vizsgálat elvégzéséhez az egyetemes szolgáltatóként kijelölt szolgáltatók az Elnök
+határozatában foglaltak szerint adatszolgáltatásra kötelesek.
+42. § (1) Az Elnök a 41. § szerinti vizsgálatok során alkalmazott módszereket és a vizsgálatok eredményét közzéteszi
+a Hatóság honlapján.
+(2) Az (1) bekezdés szerinti közzétételt követően 30 napon belül bárki megküldheti a vizsgálattal kapcsolatos
+észrevételeit. A beérkezett észrevételeket az Elnök megvizsgálja, és a megalapozott észrevételek alapján
+módosíthatja a vizsgálat eredményeit.
+43. §
+Ha az Elnök a 41. § szerinti vizsgálatok eredményeként megállapítja, hogy a 3. § (1) bekezdése szerinti sávszélességű
+egyetemes szolgáltatás igénybevételéhez szükséges végberendezések, továbbá az egyenértékű hozzáférést
+elősegítő meghatározott berendezések és szolgáltatások – beleértve szükség esetén a teljes körű beszélgetési
+szolgáltatásokat és a közvetítő szolgáltatásokat is – elérhetősége vagy megfizethetősége a 15. § szerint kijelölt
+valamely egyetemes szolgáltató esetében nem biztosított, akkor a fogyatékossággal élő fogyasztókkal kapcsolatos
+támogatási rendszer kidolgozása érdekében tájékoztatja a jogalkotásra jogosult szervet.
+11. Záró rendelkezések
+44. §
+Ez a rendelet 2020. december 21-én lép hatályba.
+45. § (1) A 3. § és 4. § szerinti vizsgálatokat az Elnök első alkalommal 2021. augusztus 31-ig végzi el.
+(2) A 14. § (1) bekezdése és a 22. § (1) bekezdése szerinti adatszolgáltatást az egyetemes szolgáltató első alkalommal
+a kijelölési határozat véglegessé válását követő évben köteles teljesíteni.
+(3) E rendelet hatálybalépését megelőzően kijelölt egyetemes szolgáltató köteles a 31. § szerinti hatósági szerződés
+hatálybalépéséig vagy ennek hiányában a 30. § (1) bekezdésében foglalt kijelölési határozatban meghatározott
+időpontig, továbbá ha az Elnök valamely szolgáltatáselem tekintetében az egyetemes szolgáltató kijelölését
+megszünteti, akkor a 23. § (3) bekezdése szerinti határozat véglegessé válásáig az egyetemes szolgáltatáselemet
+a kijelölési határozatban vagy – ha az Elnök és az egyetemes szolgáltató az egyetemes szolgáltatás tartalmáról
+hatósági szerződésben állapodtak meg – hatósági szerződésben foglalt változatlan feltételekkel nyújtani.
+46. §
+Hatályát veszti az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról szóló
+6/2015. (X. 26.) NMHH rendelet.
+47. §
+Ez a rendelet az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972
+európai parlamenti és tanácsi irányelv 84–92. cikkének és VII. mellékletének való megfelelést szolgálja.
+ Dr. Karas Monika s. k.,
+ a Nemzeti Média- és Hírközlési Hatóság elnöke
+
+1. melléklet a 19/2020. (XII. 18.) NMHH rendelethez
+Az egyetemes szolgáltató által kötelezően benyújtandó adatok
+Számozási körzet 1. Számozási körzet 2. …
+Alacsony jövedelmű
+fogyasztó vagy különleges
+szociális helyzetű fogyasztó
+Többi végfelhasználó
+Alacsony jövedelmű
+fogyasztó vagy különleges
+szociális helyzetű fogyasztó
+Többi végfelhasználó …
+A beérkezett igénybejelentések száma (db)
+Elfogadott igénybejelentések száma (db)
+Elutasított igénybejelentések száma (db)
+Ebből: 12. § (1) bekezdés a) pontja / 20. § a) pontja
+alapján elutasított (db)
+Ebből: 12. § (1) bekezdés b) pontja / 20. § b) pontja
+alapján elutasított (db)
+Ebből: 12. § (1) bekezdés c) pontja alapján
+elutasított (db)
+Ebből: 12. § (2) bekezdés alapján elutasított (db)
+Az igénybejelentés 11. § (7) bekezdése / 19. §
+(7) bekezdése szerinti értesítés végfelhasználónak
+történő megküldéséig eltelt átlagos időtartama (nap)
+Elfogadott igénybejelentések teljesítésének
+átlagos időtartama a 11. § (9) bekezdésében /
+19. § (8) bekezdésében meghatározott határidő
+kezdő napjától számítva (nap)
+Esetek száma, ahol az egyetemes szolgáltatás
+létesítéséhez további hálózati elemek kiépítésére volt
+szükség (db)
+Esetek száma, ahol a hozzáférés létesítéséért külön díjat
+számított fel (db)
+Hozzáférés létesítéséért külön felszámított díjakból
+származó nettó árbevétel (Ft)
+
+Ebből: azon esetekhez kapcsolódó díjakból származó
+nettó árbevétel, ahol az egyetemes szolgáltatás
+létesítéséhez további hálózati elemek kiépítésére volt
+szükség (Ft)
+Egyetemes szolgáltatás előfizetőinek időszak végi
+száma (db)
+Egyetemes szolgáltatás előfizetési hónapjainak száma
+az időszakban (db)
+Egyetemes szolgáltatás havi díjából származó nettó
+árbevétel (Ft)
+Egyetemes szolgáltatás (havi díjon felüli) forgalmi
+díjából származó nettó árbevétel (Ft)
+
+2. melléklet a 19/2020. (XII. 18.) NMHH rendelethez
+A méltánytalan teher jóváhagyására irányuló kérelemhez kötelezően mellékelt adatok,
+dokumentumok
+1. Az egyetemes szolgáltató a kérelméhez mellékeli
+a) – ha az egyetemes szolgáltató az Eht. 105. §-a szerinti számviteli szétválasztási kimutatás benyújtására nem
+kötelezett – az egyetemes szolgáltató éves beszámolóját;
+b) hatályos számviteli politikáját;
+c) a kérelmet alátámasztó, a nettó költség mértékére vonatkozóan az egyetemes szolgáltató által előzetesen
+elvégzett vizsgálatok eredményét;
+d) tárgyi eszköz nyilvántartását legalább olyan részletezettséggel, amiből az előzetesen kalkulált nettó költség
+számítás alapjául szolgáló valamennyi adat egyértelműen és pontosan beazonosítható;
+e) az egyetemes szolgáltatásnyújtáshoz kapcsolódó bevételeit, költségeit és ráfordításait, valamint az eszközeit
+és forrásait tartalmazó, az Eht. 87. § (2) bekezdése szerinti számviteli kimutatásait, a kimutatásban megjelenő
+tételek tartalmi leírását, több egyetemes szolgáltatás, illetve egyetemes szolgáltatáselem nyújtása esetén
+az egyes tételek, szolgáltatások, szolgáltatáselemek közötti megosztásának értékét és módszertanát,
+továbbá a nettó költség számításhoz szükséges, 2. pontban meghatározott további egyedi információt,
+dokumentumot és
+f) az előzetesen kalkulált nettó költség és a méltánytalan teher számításának részletes ismertetését annak
+megjelölésével, hogy a számítás alapjául szolgáló adat a saját számviteli nyilvántartásaiban, az Eht. 87. §
+(2) bekezdésében előírt számviteli kimutatásaiban pontosan hol található.
+2. Az egyetemes szolgáltatás, valamint az egyetemes szolgáltatáselemek nettó költségének meghatározásához
+a kérelem mellékleteként benyújtandó dokumentumok:
+2.1. Megfizethető egyetemes szolgáltatás nyújtása esetén az analitikus nyilvántartások olyan részletezettséggel,
+amelyből az alacsony jövedelmű fogyasztók és a különleges szociális helyzetű fogyasztók előfizetői
+hozzáférési vonalai egyenként egyértelműen azonosíthatók:
+a) az adott szerződéshez kapcsolódó tárgyévi beruházási számlák másolata vagy a saját teljesítésről
+készült számviteli bizonylatok másolata;
+b) a beruházás eredményeként kiépített kapacitások volumene hálózati elemenként, amely alatt
+az elektronikus hírközlő hálózat olyan, költségfelosztás céljára kialakított részegysége értendő, amit
+a hálózat egy vagy több rétegében a szolgáltatás biztosításához igénybe vett eszközök csoportja
+határoz meg;
+c) az eszköz aktiválási bizonylatának másolata, az eszköz hasznos élettartamával;
+d) az adott analitikákhoz rendelt számviteli értékcsökkenési leírás módszertana és mértéke, pontos
+hivatkozással a számviteli politikára és a tárgyi eszköz nyilvántartásra;
+e) az internet sávszélesség és a hangszolgáltatás költségeit alátámasztó dokumentumok és számítások;
+f) a bevételek részletes kimutatása, hozzáférési vonalanként;
+g) a tárgyidőszakban megkötött, valamint a megszüntetett, megfizethető egyetemes szolgáltatási
+szerződések másolata, vagy azoknak a szerződésben foglalt teljesítési időpontjára vonatkozó
+kivonatának benyújtása és
+h) a közvetett előnyök értéke és számítása, az azokat alátámasztó dokumentumok és módszertanok
+csatolásával.
+2.2. Nyilvános telefonállomás üzemeltetése esetén a nyilvános telefonállomások 3. melléklet 3.2. pontja szerinti
+kiválasztásához szükséges, benyújtandó adatok köre:
+a) a nyilvános állomások teljes listája, megjelölve az egyetemes szolgáltatási kötelezettség alapján
+működtetett nyilvános állomásokat;
+b) a tárgyévben üzembe helyezett új nyilvános állomások esetén a tárgyévi beruházási számlák
+másolata vagy a saját teljesítésről készült számviteli bizonylatok másolata;
+c) a beruházás eredményeként kiépített kapacitások volumene hálózati elemenként;
+d) az eszköz aktiválási bizonylatának másolata, az eszköz hasznos élettartamával;
+e) az adott analitikákhoz rendelt számviteli értékcsökkenési leírás módszertana és mértéke, pontos
+hivatkozással a számviteli politikára és a tárgyi eszköz nyilvántartásra;
+
+f) az év közben megszüntetett állomások listája, azok leszerelésének időpontjával, valamint ezek
+selejtezési bizonylatainak másolata, pontos hivatkozással a tárgyi eszköz nyilvántartásra;
+g) a nyilvános telefonállomásokon nyújtott hangszolgáltatás költségeit alátámasztó dokumentumok és
+számítások, különösen pontos hivatkozással a számviteli politikára és a tárgyi eszköz nyilvántartásra;
+h) a bevételek részletes kimutatása, nyilvános telefonállomásonként és
+i) a közvetett előnyök értéke és számítása, az azokat alátámasztó dokumentumok és módszertanok
+csatolásával.
+2.3. Országos belföldi tudakozó szolgáltatás esetén:
+a) az országos belföldi tudakozó üzemeltetésével kapcsolatos költségeit alátámasztó dokumentumok
+és számítások;
+b) a névjegyzék összeállításához kapcsolódó költségeket alátámasztó dokumentumok és számítások;
+c) a bevételek részletes kimutatása és
+d) a közvetett előnyök értéke és számítása, az azokat alátámasztó dokumentumok és módszertanok
+csatolásával.
+2.4. Előfizetői névjegyzék elérhetővé tétele szolgáltatáselem esetén:
+a) névjegyzék előállításával kapcsolatos költségeket alátámasztó dokumentumok és számítások;
+b) névjegyzék előfizetőkhöz való eljuttatásával kapcsolatos költségeket alátámasztó dokumentumok
+és számítások;
+c) a bevételek részletes kimutatása és
+d) a közvetett előnyök értéke és számítása, az azokat alátámasztó dokumentumok és módszertanok
+csatolásával.
+3. Az egyetemes szolgáltatás, valamint az egyetemes szolgáltatáselemek nettó költségének meghatározáshoz
+a kérelem mellékleteként benyújtandó dokumentumok:
+a) az általános szerződési feltételek kialakításával kapcsolatos költségeket alátámasztó részletes
+dokumentumok és számítások és
+b) az egyetemes szolgáltatási kötelezettséggel kapcsolatos szabályozói jellegű költségeket részletes
+alátámasztó dokumentumok és számítások.
+3. melléklet a 19/2020. (XII. 18.) NMHH rendelethez
+A nettó költség meghatározásának számítása
+1. Az Elnök a tárgyévi nettó költséget az Eht. 117. § (1) bekezdése szerinti egyetemes szolgáltatás és a 23. §
+(1) bekezdése szerinti egyetemes szolgáltatáselemek (a továbbiakban e melléklet alkalmazásában együttesen:
+egyetemes szolgáltatások) nyújtásához kapcsolódó, az egyetemes szolgáltatások nyújtásának hiányában fel nem
+merülő költségek és az egyetemes szolgáltatások nyújtásából származó bevételek és közvetett előnyök értékének
+különbségeként határozza meg.
+2. Az Elnök az egyetemes szolgáltató nettó költségét az egyetemes szolgáltatásokra vonatkozóan együttesen
+határozza meg.
+3. Az Elnök a következő költségeket veszi figyelembe a számítás során:
+3.1. A 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás esetén
+a) az egyetemes szolgáltatás nyújtása érdekében telepített és aktivált hozzáférési hálózati eszközöknek
+az egy évre jutó értékcsökkenését és tőkeköltségét;
+b) az egyetemes szolgáltatáshoz kapcsolódó éves üzemeltetési költségét;
+c) az internet szolgáltatás nyújtásához szükséges sávszélesség biztosításának éves költségét és
+d) az egyetemes szolgáltatás előfizetői által bonyolított hangforgalomhoz kapcsolódó alaphálózati és
+összekapcsolási költségek éves értékét.
+
+3.2. A 23. § (1) bekezdés a) pontja szerinti szolgáltatáselem esetén az egyetemes szolgáltatáselem nyújtása
+érdekében üzemeltetett nyilvános telefonállomások
+a) egy évre jutó értékcsökkenését és tőkeköltségét;
+b) üzemeltetésének éves költségét és
+c) a nyilvános telefonállomásokon bonyolított hangforgalomhoz kapcsolódó hálózati és
+összekapcsolási költségek éves értékét.
+3.3. A 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem esetén
+a) a belföldi tudakozó üzemeltetésével kapcsolatos éves hálózati költségeket és
+b) a névjegyzék összeállításához kapcsolódóan a tárgyévben felmerült költségeket, a fogyasztói,
+fogyasztási adatbázisok kialakításának költségét.
+3.4. A 23. § (1) bekezdés c) pontja szerinti szolgáltatáselem esetén
+a) a névjegyzék összeállításához kapcsolódó éves adminisztratív költségeket;
+b) a névjegyzék előállításával kapcsolatosan a tárgyévben felmerült költségeket és
+c) a névjegyzék előfizetőkhöz való eljuttatásával kapcsolatosan a tárgyévben felmerült költségeket.
+3.5. Az egyetemes szolgáltatás nyújtásához kapcsolódóan:
+a) az általános szerződési feltételek kialakításával kapcsolatosan a tárgyévben felmerült költségeket és
+b) az egyetemes szolgáltatási kötelezettséggel kapcsolatosan a tárgyévben felmerült szabályozói
+jellegű költségeket.
+4. Az Elnök a következő, a tárgyévre jutó bevételeket veszi figyelembe a számítás során:
+4.1. a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás esetén
+a) az egyetemes szolgáltatás előfizetői által a hozzáférés létesítéséért fizetett díjakból, az egyetemes
+szolgáltatás igénybevételéért fizetett havi díjból, a havi díjon felül fizetett forgalmi díjakból és
+az egyetemes szolgáltatással összefüggésben bármilyen jogcímen az előfizetőktől származó
+bevételeket és
+b) az egyetemes szolgáltatás nyújtásából származó nagykereskedelmi bevételeket.
+4.2. A 23. § (1) bekezdés a) pontja szerinti szolgáltatás esetén az egyetemes szolgáltatáselem nyújtása érdekében
+telepített és aktivált nyilvános telefonállomások
+a) forgalmi bevételeit;
+b) az egyetemes szolgáltatáselem nyújtásából származó nagykereskedelmi bevételeket és
+c) reklámcélú hasznosításából származó bevételeket.
+4.3. A 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem esetén a szolgáltatáselem által generált forgalomból
+származó, az egyetemes szolgáltatónál jelentkező bevételeket.
+4.4. A 23. § (1) bekezdés c) pontja szerinti szolgáltatáselem esetén az előfizetői névjegyzék marketing bevételeit.
+5. Az Elnök a következő közvetett előnyöket veszi figyelembe a számítás során:
+5.1. A 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás esetén az előfizetőkkel fennálló
+folyamatos kapcsolattartásból származó előnyöket, így különösen a rendszeres hírlevelek, értékesítési és
+marketingcélú megkeresési lehetőség piaci ráfordításait, az üzletfejlesztést és akciókat megalapozó forgalmi
+adatbázis értékét.
+5.2. A 23. § (1) bekezdés a) pontja szerinti szolgáltatáselem esetén az egyetemes szolgáltatáselem nyújtása
+érdekében telepített és működtetett nyilvános telefonállomások készülékei körül és a telefonfülkéken
+elhelyezhető hirdetési felület, valamint a szintén elhelyezhető szolgáltatói védjegy vagy logó összesített
+reklámértékét, kivéve a bevételek között már számításba vett reklámcélú hasznosítás értékét.
+5.3. A 23. § (1) bekezdés b) pontja szerinti szolgáltatáselem esetén a fogyasztói és fogyasztási adatbázisok értékét.
+5.4. A 23. § (1) bekezdés c) pontja szerinti szolgáltatáselem esetén a névjegyzék reklámhordozó felületként – így
+különösen kiemelt előfizetői megjelenés, előfizetői reklámok – céljából történő értékesítéséből származó
+potenciális bevétel és a bevételek között már számításba vett marketingbevétel különbségét.
+
+6. Az Elnök a 3–5. pont szerinti számítás során az alábbi részletszabályokat veszi figyelembe:
+6.1. A költségeket az „elkerülhető költségek” módszertana szerint veszi figyelembe. Az egyetemes szolgáltatások
+elkerülhető költségei az egyetemes szolgáltató azon költségei, költség elemei, amelyek nem merülnének fel,
+ha az egyetemes szolgáltatásokat nem nyújtaná. Az elkerülhető költségek között az általános költségeket
+nem veszi figyelembe. Ezek különösen a vezetés és irányítás költségei, a termékfejlesztési költségek,
+a marketingköltségek, a kis- és nagykereskedelmi ügyfélkezelési és értékesítési költségek, a számlázási
+költségek, a támogató jellegű tevékenységek költségei, különösen az emberierőforrás-menedzsment
+költségei, a pénzügy, számvitel és kontrolling költségei, az informatikai szakmai támogatás költségei, de ide
+nem értve a 3. pont 3.3. alpont b) pontja, 3. pont 3.4. alpont a) pontja, 3. pont 3.5. alpont a)–b) pontja szerinti
+költségeket.
+6.2. Az egyetemes szolgáltatások költségei, költségelemei tekintetében a hatékonysági követelményeket
+folyamatosan vizsgálja, és a nem hatékony működés költségeit nem veszi figyelembe az egyetemes
+szolgáltatások költségei, költségelemei tekintetében. A hatékonysági követelmények teljesülésének
+ellenőrzéséhez és az egyetemes szolgáltatások költségei, költségelemei megállapításához az Elnök
+figyelembe veheti más hazai egyetemes szolgáltató egyetemes szolgáltatásokra vonatkozó költségeit,
+költségelemeit és – ha az egyetemes szolgáltató az Eht. 105. §-a szerinti számviteli szétválasztási kimutatás
+benyújtására kötelezett – a számviteli szétválasztási kimutatásban szereplő információkat, adatokat.
+6.3. Az Elnök az egyetemes szolgáltatások költségei, költségelemei között az egyetemes szolgáltatáselem
+nyújtásához közvetlenül szükséges tevékenységek költségeit és a kizárólag az egyetemes szolgáltatások
+nyújtása érdekében létesített vagy beszerzett eszközök vállalati számviteli politika szerinti értékcsökkenését
+és tőkeköltségét számítja be. A tőkeköltséget az eszköz teljes élettartamára számított átlagos nettó
+eszközértékből kiindulva, a Hatóság honlapján legutoljára közzétett tőkeköltség-szorzó felhasználásával
+számítja ki.
+6.4. A megfelelő szélessávú internet-hozzáférést, illetve a hangszolgáltatást támogató hozzáférés tárgyévi
+költségének kiszámításakor a közvetlen költségeket, valamint a számításban szereplő tárgyi eszközök és
+immateriális javak tárgyévben aktivált értékeit annyiban veszi figyelembe, amennyiben megegyeznek
+az egyetemes szolgáltató főkönyvi és analitikus nyilvántartásaiban foglalt és egyértelműen azonosítható
+értékekkel.
+6.5. A nyilvános telefonállomások tárgyévi költségének kiszámításakor a közvetlen költségeket, valamint
+a kiszámításban szereplő tárgyi eszközök és immateriális javak tárgyévben aktivált értékeit annyiban veszi
+figyelembe, amennyiben megegyeznek az egyetemes szolgáltató főkönyvi és analitikus nyilvántartásaiban
+foglalt és egyértelműen azonosítható értékekkel.
+6.6. A nyilvános telefonállomások tekintetében, ha az egyetemes szolgáltató egy adott településen az egyetemes
+szolgáltatási kötelezettségénél több nyilvános telefonállomást üzemeltet, abban az esetben a legnagyobb
+bevétellel rendelkező nyilvános telefonállomást vagy telefonállomásokat tekinti az egyetemes szolgáltatási
+kötelezettség miatt üzemeltetendőnek.
+6.7. Az előfizetői névjegyzék elérhetővé tétele költségének kiszámításánál csak a ténylegesen felmerülő közvetlen
+költségeket veszi számításba.
+6.8. Az országos belföldi tudakozó szolgáltatás nyújtása tárgyévi költségének kiszámításakor a tudakozó szolgálat
+működtetésének közvetlen költségeit veszi figyelembe. Az eszköz jellegű költségek meghatározásakor
+a szolgáltatáshoz rendelt tárgyi eszközök és immateriális javak értékét annyiban veszi figyelembe,
+amennyiben megegyeznek az egyetemes szolgáltató főkönyvi és analitikus nyilvántartásaiban foglalt és
+egyértelműen azonosítható értékekkel.
+
+4. melléklet a 19/2020. (XII. 18.) NMHH rendelethez
+Az alacsony jövedelmű fogyasztó és a különleges szociális helyzetű fogyasztó meghatározása
+1. Alacsony jövedelmű fogyasztónak azt a szociálisan rászoruló természetes személyt kell tekinteni, aki, vagy akinek
+háztartásában élő személy
+a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a
+szerinti időskorúak járadékában részesül;
+b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult;
+c) a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez
+nyújtott települési támogatásban részesül;
+d) a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül;
+e) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül;
+f) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.)
+19. §-a szerinti rendszeres gyermekvédelmi kedvezményre jogosult;
+g) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított
+3 éven keresztül; vagy
+h) a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába
+helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
+2. Különleges szociális helyzetű fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek háztartásában
+élő személy
+a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény szerinti
+fogyatékossági támogatásban részesülő személy vagy
+b) a vakok személyi járadékában részesülő személy.
+Az 1. és 2. pontok alkalmazása során a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
