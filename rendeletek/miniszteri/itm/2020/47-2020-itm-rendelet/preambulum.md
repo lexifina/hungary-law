@@ -1,0 +1,1 @@
+A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (3) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 24. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
