@@ -148,7 +148,7 @@
 
 | 43 | 197535 |  | Fejezeti általános tartalék | Az előirányzat a minisztérium fejezetében más helyen nem tervezett feladatok végrehajtásának finanszírozására szolgál. Ezen felül az év közben szükségessé váló feladatok megoldására, eseti jellegű, elháríthatatlan igények finanszírozására is felhasználható a rendelkezésre álló forrás. | költségvetési szervek, fejezeti kezelésű előirányzatok |  |  | előirányzat átcsoportosítás |  |  |  |  |  |
 
-2. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^39]
+2. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^48]
 
 A XVIII. Külgazdasági és Külügyminisztérium fejezet 2020. évi költségvetési kiadási előirányzatainak feladatterve a központi kezelésű előirányzatokra vonatkozóan
 
@@ -180,4 +180,4 @@ A XVIII. Külgazdasági és Külügyminisztérium fejezet 2020. évi költségve
 
 | 14 | 383084 |  |  | Agro Rehab Nonprofit Korlátolt Felelősségű Társaság tőkeemelése | Az előirányzat fedezetet biztosít az Agro Rehab Nonprofit Korlátolt Felelősségű Társaság feletti tulajdonosi jogok gyakorlása keretében történő tőkeemelésre a Kormány egyedi határozatában foglaltak szerint. | Agro Rehab Nonprofit Korlátolt Felelősségű Társaság |  |  | Alapítói határozatban foglaltak szerint tőkeemelés jogcímén |  |  |  |  |  |
 
-[^39]: A 2. melléklet a 8/2020. (VI. 12.) KKM rendelet 4. § b) pontjával megállapított szöveg.
+[^48]: A 2. melléklet a 8/2020. (VI. 12.) KKM rendelet 4. § b) pontjával megállapított szöveg.
