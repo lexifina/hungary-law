@@ -110,7 +110,7 @@
 
 ## *minden program esetén egységes 350 HUF/EUR árfolyammal számolva
 
-2. melléklet az 1152/2020. (IV. 14.) Korm. határozathoz[^7]
+2. melléklet az 1152/2020. (IV. 14.) Korm. határozathoz[^8]
 
 Kötelezettségvállalási szükséglet a 2020. február 15. és 2020. december 31. közötti időszakban
 
@@ -208,7 +208,7 @@ Kötelezettségvállalási szükséglet a 2020. február 15. és 2020. december 
 
 | 46. | KEHOP 4 – Természetvédelmi és élővilág-védelmi fejlesztések | 4,63 | 38,66 |
 
-| 47. | KEHOP -5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 0,00 | 311,80 |
+| 47. | KEHOP -5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 0,00 | 312,37 |
 
 | 48. | Miniszterelnökség | Közigazgatás- és Közszolgáltatás- fejlesztés Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 10,88 | 205,94 |
 
@@ -220,4 +220,4 @@ Kötelezettségvállalási szükséglet a 2020. február 15. és 2020. december 
 
 | 52. | Magyar Halgazdálkodási Operatív Program | – | 8,53 | 19,24 |
 
-[^7]: A 2. melléklet az 1264/2020. (V. 28.) Korm. határozat 2. pont b) alpontjával megállapított szöveg.
+[^8]: A 2. melléklet az 1264/2020. (V. 28.) Korm. határozat 2. pont b) alpontjával megállapított, az 1943/2020. (XII. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
