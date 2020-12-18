@@ -92,4 +92,6 @@ Határidő: az a) alpont tekintetében a felmerülés ütemében
 
 a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-12. visszavonja az Emberi Erőforrások Minisztériuma fenntartásában működő, egyes országos közgyűjtemények vidéki elhelyezéséről és az általuk nyújtott vidéki szolgáltatások fejlesztéséről szóló 1703/2018. (XII. 17.) Korm. határozat 2. pontját.
+12.[^1]
+
+[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
