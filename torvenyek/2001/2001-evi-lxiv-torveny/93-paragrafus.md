@@ -66,6 +66,8 @@ e) a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében
 
 f) a Kiemelt Nemzeti Emlékhely Bizottságnak a nemzeti jelképek kiemelt nemzeti emlékhelyen történő használatával kapcsolatos egyes feladatait.
 
+g) a kiemelt nemzeti emlékhely részét képező közterülettel szomszédos ingatlanra vonatkozó elővásárlási jog gyakorlására jogosult szervet.
+
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
 a)–g)

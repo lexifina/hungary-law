@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2020-04-01 | 2020. évi XV. törvény | 2001-64-00-00.52 |
 | 2020-05-29 | 2020. évi XXX. törvény | 2001-64-00-00.53 |
 | 2020-09-01 | 2020. évi LXXXIX. törvény | 2001-64-00-00.54 |
+| 2020-12-19 | 2020. évi CXLVIII. törvény | 2001-64-00-00.55 |
