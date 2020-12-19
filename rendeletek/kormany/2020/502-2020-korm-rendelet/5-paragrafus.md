@@ -1,4 +1,4 @@
-5. § (1) Ha a 3. § (3) bekezdésében meghatározott eset nem áll fenn, a döntéshozó szerv hatáskörbe tartozó, azonban a jogi személy törvényes működésének fenntartásához, a veszélyhelyzet miatt kialakult helyzet kezeléséhez szükséges, valamint az észszerű és felelős gazdálkodás körében felmerülő halaszthatatlan ügyekben, ideértve a számviteli törvény szerinti beszámoló elfogadását és az adózott eredmény felhasználásáról szóló döntést is, – a (2) bekezdésben meghatározott korlátozásokkal – a jogi személy ügyvezetése határoz.
+5. § (1)[^2] Ha a 3. § (3) bekezdésében meghatározott eset nem áll fenn, a döntéshozó szerv hatáskörébe tartozó, azonban a jogi személy törvényes működésének fenntartásához, a veszélyhelyzet miatt kialakult helyzet kezeléséhez szükséges, valamint az észszerű és felelős gazdálkodás körében felmerülő halaszthatatlan ügyekben, ideértve a számviteli törvény szerinti beszámoló elfogadását és az adózott eredmény felhasználásáról szóló döntést is, – a (2) bekezdésben meghatározott korlátozásokkal – a jogi személy ügyvezetése határoz.
 
 (2) A jogi személy ügyvezetése
 
@@ -23,3 +23,5 @@ e) pótbefizetésről vagy egyéb tőkepótlásról csak akkor dönthet, ha az a
 (7) Az (1) bekezdés szerint meghozott döntést a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó rendkívüli döntéshozó szervi ülés napirendjére kell tűzni. Ha az utólagos döntéshozó szervi határozat a korábbi döntést megváltoztatja vagy hatályon kívül helyezi, az nem érinti az azt megelőzően keletkezett jogokat és kötelezettségeket.
 
 (8) A jogi személy ügyvezetése köteles – ideértve a rendelkezésére álló elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz segítésével történő tájékoztatást is – megtenni mindent annak érdekében, hogy az (1) bekezdés szerinti döntésekről a tagok tájékoztatást kapjanak. Ha a jogi személyre vonatkozó előírás a döntéshozó szerv határozatának vagy az üléssel összefüggő egyéb iratnak a közzétételéről vagy a nyilvántartó bírósághoz való benyújtásáról rendelkezik, a jogi személy ügyvezetésének e § szerint hozott döntését kell közzétenni, valamint benyújtani.
+
+[^2]: Az 5. § (1) bekezdése a 608/2020. (XII. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

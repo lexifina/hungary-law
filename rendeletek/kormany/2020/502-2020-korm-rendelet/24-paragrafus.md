@@ -1,3 +1,5 @@
-## 23. § A Kjtv. 18. § (3) bekezdésében foglaltaktól eltérően a megüresedő közjegyzői állásra a pályázatot a veszélyhelyzet megszűnését követő három hónapon belül kell meghirdetni.
+## 23. §[^7] A Kjtv. 18. §-a szerinti pályázatot a veszélyhelyzet megszűnését követő három hónapon belül kell kiírni.
 
 ## 5. A bírósági végrehajtásról szóló 1994. évi LIII. törvény rendelkezéseinek eltérő alkalmazásáról
+
+[^7]: A 23. § a 608/2020. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
