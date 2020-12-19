@@ -1,4 +1,4 @@
-48/C. § (1) Abból a célból, hogy ellenőrizhetővé váljon, hogy az EGT-állam lobogója alatt közlekedő úszólétesítmények csak egy európai hajóazonosító számot használnak, a hajózási hatóság a Bizottság elektronikus hajóadatbázisába a következő adatokat rögzíti:
+48/C. § (1) Abból a célból, hogy ellenőrizhetővé váljon, hogy az EGT-állam lobogója alatt közlekedő vízi járművek – kivéve a kompok – és úszómunkagépek csak egy európai hajóazonosító számot használnak, a hajózási hatóság a Bizottság elektronikus hajóadatbázisába a következő adatokat rögzíti:
 
 1. a hajózási hatóság által kibocsátott egységes európai hajóazonosító szám;
 
@@ -14,7 +14,7 @@ d) szélessége (a hajótest legnagyobb szélessége a külhéj külső éléig 
 
 e) merülése (T) (a hajótest legalsó pontja – a gerinc és a rögzített szerelvények figyelembevétele nélkül – és a legnagyobb merülési vonal között mért függőleges távolság méterben);
 
-3. annak az okmánynak a megnevezése, amelyben az egységes európai hajóazonosító szám és a 2. pontban lévő adatok szerepelnek (közösségi bizonyítvány);
+3. annak az okmánynak a megnevezése, amelyben az egységes európai hajóazonosító szám és a 2. pontban lévő adatok szerepelnek (uniós bizonyítvány);
 
 4. áruszállító hajók esetén, azok hordképessége;
 
@@ -24,9 +24,9 @@ e) merülése (T) (a hajótest legalsó pontja – a gerinc és a rögzített sz
 
 7. az okmányt kiállító hatóság;
 
-8. a közösségi belvízi hajóbizonyítvány száma;
+8. az uniós belvízi hajóbizonyítvány száma;
 
-9. a közösségi bizonyítvány érvényességének lejárata;
+9. az uniós bizonyítvány érvényességének lejárata;
 
 10. az adatbázis összeállítója;
 
@@ -52,17 +52,7 @@ c) hívójel;
 
 18. az egyéb bizonyítványok típusa, száma, kiállító hatósága és lejárati időpontja.
 
-(2) Az adatokat az EGT-államok egységes európai hajóazonosító számot kiadó hatóságai
-
-a) a biztonságos víziközlekedés,
-
-b) a hajóazonosító szám bejegyzése,
-
-c) hajóokmányok kiállítása, érvényességi idejének megállapítása, pótlása, ellenőrzése, adatainak módosítása, továbbá az
-
-d) üzemképesség vizsgálatára irányuló szemlék lefolytatása
-
-érdekében kezelhetik.
+(2)
 
 (3)
 
