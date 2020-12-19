@@ -1,1 +1,3 @@
-## 5. § A 18/2016. (VIII. 5.) EMMI rendelet 4. melléklete a 2. melléklet szerint módosul.
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
