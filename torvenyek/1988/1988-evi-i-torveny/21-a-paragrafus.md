@@ -4,6 +4,8 @@
 
 (3) Az üzemben tartó mentesül a 21. § (2) bekezdése alapján kiszabott közigazgatási bírság megfizetése alól, ha számára a szabályszegést más törvény lehetővé teszi.
 
+(3a) Az üzembentartó mentesül a 21. § (1) bekezdés d) pontja alapján – az össztömeg túllépése miatt – kiszabott közigazgatási bírság megfizetése alól, ha igazolja, hogy az arra jogosult a jármű össztömegéről jogszabályban meghatározott olyan jármű-tömegbizonylatot állított ki, amely alapján a jármű össztömege már a berakodás időpontjában meghaladta a megengedett össztömeget. Ebben az esetben a közigazgatási bírságot a jármű-tömegbizonylat kiállítójával szemben kell kiszabni.
+
 (4) A (2) bekezdés szerinti nyilatkozat, menetlevél, illetve fuvarlevél tartalmazza
 
 a) a gépjármű hatósági jelzését,

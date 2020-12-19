@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2020-07-01 | 2020. évi XXXI. törvény | 1988-1-00-00.111 |
 | 2020-07-22 | 2020. évi LXXXVI. törvény | 1988-1-00-00.112 |
 | 2020-07-30 | 2020. évi LXXXVI. törvény | 1988-1-00-00.113 |
+| 2020-12-19 | 2020. évi CXXXVII. törvény | 1988-1-00-00.114 |

@@ -226,11 +226,13 @@ g) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértés
 
 1. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
 
-2. a 33/A. § szerinti használati díj, valamint ezek megfizetésének elmaradása esetén a pótdíjat valamint a pótdíj megfizetésének elmaradása esetén a többletpótdíjat vagy meghatározásának módját,
+2. a 33/A. § szerinti használati díjat, a használati díj megfizetésének elmaradása esetén kiszabható pótdíjat, valamint a pótdíj megfizetésének elmaradása esetén kiszabható többletpótdíjat vagy meghatározásának módját,
 
-3. a díjfizetés módját és feltételeit,
+3. a 33/B. § (5) bekezdése szerinti pótdíjfizetési felszólítás kézbesítésére vonatkozó szabályokat,
 
-4. a 33/A. § szerinti időtartamot,
+4. a díjfizetés módját és feltételeit,
+
+5. a 33/A. § szerinti időtartamot,
 
 h) az iparügyekért felelős miniszter, hogy az elektromos töltőberendezésekre vonatkozó műszaki-biztonsági követelményeket
 
