@@ -12,7 +12,9 @@ e) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem
 
 f) a polgári célú légiközlekedési szakszemélyzet tagjainak körét, akiknek képzéséhez a légiközlekedési hatóság engedélye szükséges, továbbá a képzési engedély tartalmára vonatkozó általános szabályokat.
 
-g)–h)
+g) a légiközlekedési bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetése módjának részletes szabályait,
+
+h)
 
 i) a bérbeadott légijármű üzemben tartásával kapcsolatos általános szabályokat,
 

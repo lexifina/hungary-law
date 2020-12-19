@@ -36,7 +36,7 @@ folytatja le.
 
 (4)
 
-(5) A bírság kivetésének részletes szabályait a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+(5)
 
 (5a) A 66/A. § (1) bekezdés alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
