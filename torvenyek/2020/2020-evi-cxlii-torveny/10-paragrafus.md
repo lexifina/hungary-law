@@ -1,0 +1,1 @@
+10. § A 3. § (2) bekezdése, a 4. § (8) és (12) bekezdése, az 5. § (4) bekezdése, a 6. § (1) és (2) bekezdése, valamint a 7. § (9) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.

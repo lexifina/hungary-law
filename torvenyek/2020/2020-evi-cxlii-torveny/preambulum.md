@@ -1,0 +1,1 @@
+A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és környezetének új fejlődési pályára állítása, megújítása, az agrár- és élelmiszeripari ágazatok versenyképességének növelése és az agrárgazdaságban rejlő potenciál teljesebb kihasználása érdekében az Országgyűlés a következő törvényt alkotja:
