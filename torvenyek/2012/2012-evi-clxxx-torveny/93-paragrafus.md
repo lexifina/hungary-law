@@ -1,7 +1,3 @@
-## VI. Fejezet
-
-## A BIZONYÍTÁSI ESZKÖZ, AZ ELKOBZÁS ALÁ ESŐ DOLOG ÉS A VAGYONELKOBZÁS ALÁ ESŐ VAGYON MEGŐRZÉSÉT BIZTOSÍTÓ HATÁROZAT VÉGREHAJTÁSÁRA IRÁNYULÓ ELJÁRÁSI JOGSEGÉLY
-
 ## 40. A végrehajtás átvétele
 
 93. § (1) A magyar igazságügyi hatóság végrehajtja egy tagállami igazságügyi hatóság által

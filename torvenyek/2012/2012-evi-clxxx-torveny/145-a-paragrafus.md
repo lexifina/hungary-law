@@ -14,7 +14,7 @@ a) az 1. számú mellékletben meghatározott bűncselekményfajták esetében a
 
 b) abból az okból, hogy a vagyonelkobzást elrendelő tagállami határozat gyermekkor miatt nem vehető figyelembe, vagy
 
-c) abból az okból, hogy nincs figyelembe vehető tagállami ítélet, ha a vagyonelkobzást elrendelő tagállami határozat tekintetében a Btk. 72. § (4) bekezdése és 75. § (2) bekezdése alapján az elkobzásnak vagy a vagyonelkobzásnak, illetve a Be. 671. § 12. pontja szerinti egyszerűsített felülvizsgálati eljárás lefolytatásának feltételei fennállnak.
+c) abból az okból, hogy nincs figyelembe vehető tagállami ítélet, ha a tagállami határozat tekintetében a Btk. 72. §-a vagy a Btk. 74–75. §-a alapján az elkobzás vagy a vagyonelkobzás feltételei fennállnak.
 
 (3) A (2) bekezdés c) pontja esetén a figyelembevétel és a megfeleltetés szabályait a vagyonelkobzást elrendelő tagállami határozat tekintetében kell megfelelően alkalmazni.
 

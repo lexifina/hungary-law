@@ -1,7 +1,3 @@
-## IX/D. Fejezet
-
-## ELKOBZÁS ÉS VAGYONELKOBZÁS VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
-
 ## 53. Értelmező rendelkezések
 
 142. § (1) E fejezet alkalmazásában vagyonelkobzást elrendelő tagállami határozat: a tagállamban lefolytatott büntetőeljárásban hozott, azon dolog vagy vagyon végleges tulajdonvesztését elrendelő tagállami bírósági határozat,
@@ -13,3 +9,5 @@ b) amely a bűncselekmény elkövetéséből ered, amelyet az elkövető a bűnc
 c) amelyre kiterjesztett vagyonelkobzás rendelhető el.
 
 (2) E fejezet alkalmazásában a tagállami ítélet alatt a vagyonelkobzást elrendelő tagállami határozatot is érteni kell.
+
+(3) Az 53–54/C. alcím rendelkezéseit az Európai Unió azon tagállamaival folytatott jogsegélyre kell alkalmazni, amelyek tekintetében az (EU) 2018/1805 európai parlamenti és tanácsi rendelet nem alkalmazandó.
