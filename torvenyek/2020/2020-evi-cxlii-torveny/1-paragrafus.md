@@ -6,7 +6,7 @@
 
 (3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
 
-(4) A miniszter döntése alapján az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
+(4)
 
 (5) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
 
