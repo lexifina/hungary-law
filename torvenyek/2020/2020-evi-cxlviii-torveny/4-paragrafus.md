@@ -1,3 +1,1 @@
-4. § Az Nytv. IV. Fejezete a következő 24/J. §-sal egészül ki:
-
-„24/J. § Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek azonosítása, ellenőrzése és adatainak pontosítása céljából – a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, az értesítési cím adat és a nyilvántartásból kikerülés helye adatok kivételével – a 17. § (2) bekezdés b) pontja szerinti, valamint a nyilvántartás jogcíme adatokat jogosult igényelni a személyiadat- és lakcímnyilvántartást kezelő szervtől.”
+4. §

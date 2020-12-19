@@ -1,7 +1,1 @@
-64. § Az Nftv. 92. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdésben foglalt megállapodásban rögzített összeg szerinti, a 84. § (2) bekezdés b) pontjában meghatározottakon túl biztosított felsőoktatási támogatásokra nem vonatkozik pénzügyi elszámolási kötelezettség. Az egyházi jogi személy e támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét a felsőoktatási feladatot ellátó intézményei, illetve azok felsőoktatási feladatai támogatására fordítani.
-
-(1b) A miniszter az (1a) bekezdés szerinti támogatás terhére előírhatja a támogatási jogviszony keretében egyes felsőoktatási feladatok ellátásának kötelezettségét. A támogatási jogviszony keretében olyan feladat írható elő, amely szektorsemlegesen, a fenntartó személyétől függetlenül, többletfeladat keletkeztetése nélkül – kivéve, ha az valamely más feladat arányos csökkenésével jár együtt – bármely egyéb, közfinanszírozásban részesülő felsőoktatási intézmény részére is előírásra kerül.
-
-(1c) Az (1a) bekezdés szerinti támogatás kedvezményezettje a támogatást egyszerűsített költségterv benyújtásával igényli. A kedvezményezett a támogatás (1a) bekezdésben foglaltaknak megfelelő felhasználásáról és ennek részeként az (1b) bekezdés szerinti feladatok teljesüléséről szakmai beszámolót készít, pénzügyi teljesüléséről tájékoztatást ad a támogató részére. A támogatás éves rendszerességgel történő rendelkezésre bocsátása és a felhasználásra vonatkozó éves szakmai beszámolási és pénzügyi tájékoztatási kötelezettség nem korlátozza a támogatás felhasználásának időtartamát, a fel nem használt rész tekintetében visszafizetési kötelezettséget nem keletkeztet.”
+64. §
