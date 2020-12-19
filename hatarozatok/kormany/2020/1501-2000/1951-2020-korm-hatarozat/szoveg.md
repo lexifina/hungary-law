@@ -42,8 +42,6 @@ a b) alpont tekintetében az emberi erőforrások minisztere
 
 Határidő: 2021. január 31.
 
-6. visszavonja
+6.[^1]
 
-a) az Andrássy Emlékmúzeum létrehozásához szükséges kormányzati intézkedésekről szóló 1087/2018. (III. 13.) Korm. határozatot és
-
-b) az Andrássy Emlékmúzeum megvalósításának előkészítéséhez szükséges intézkedésekről szóló 1801/2018. (XII. 21.) Korm. határozatot.
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
