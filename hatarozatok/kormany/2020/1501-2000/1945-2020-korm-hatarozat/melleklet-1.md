@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Rászoruló Személyeket Támogató Operatív Program éves fejlesztési keretének megállapításáról szóló 1347/2016. (VII. 6.) Korm. határozat
-
-## a) 1. mellékletében foglalt táblázat C:2 mezőjében a „19,378” szövegrész helyébe a „20,594” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:3 mezőjében a „18,270” szövegrész helyébe a „19,487” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1945/2020. (XII. 17.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt összköltség (forint) | Projekt rövid bemutatása |
 
 | 2. | RSZTOP-1.1.1- 16-2016-00002 | Rászoruló személyek számára természetbeni juttatás biztosítása az RSZTOP-1.1.1-16 felhívás 2. szakasz keretében | Szociális és Gyermekvédelmi Főigazgatóság | 18 270 000 000 | 1 216 007 535 | 19 486 007 535 | A projekt célja élelmiszersegély biztosítása szegény, gyermekes családok számára. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
