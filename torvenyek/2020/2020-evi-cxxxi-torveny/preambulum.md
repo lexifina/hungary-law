@@ -1,0 +1,1 @@
+Az Országgyűlés a Nemzeti Média- és Hírközlési Hatóság 2019. évi egységes költségvetéséről szóló 2018. évi LXXXI. törvényben, valamint a Televíziós Film Mecenatúra 2019. évi költségvetéséről szóló 2019. évi XXV. törvényben meghatározott költségvetések végrehajtásáról a következő törvényt alkotja.
