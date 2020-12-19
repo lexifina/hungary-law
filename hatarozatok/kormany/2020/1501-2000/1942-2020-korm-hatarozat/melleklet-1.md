@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat C:8 mezőjében a „48,41” szövegrész helyébe a „48,72” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1942/2020. (XII. 17.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 2. | GINOP-7.1.9- 17-2017-00004 | Zalakaros gyógyhely komplex turisztikai fejlesztése | Zalakaros Város Önkormányzata (konzorciumvezető), Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 1 000 000 000 | 199 152 856 | 1 199 152 856 | A projekt eredményeként létrejön egy 6 hektár területű, összefüggő, átalakított, bővített, számos új funkcióval ellátott városközpont, új rendezvénytér létesül, és megépül egy új multifunkcionális gyógyhelyi fogadóépület. |
 
 | 3. | GINOP-7.1.9- 17-2018-00009 | Fenékpusztai Majorság fejlesztése I. ütem | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető), Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság, Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 1 364 755 398 | 108 999 338 | 1 473 754 736 | A fejlesztés célja a Fenékpusztai Majorságban rejlő turisztikai potenciál kiaknázása, a tervezett projektelemek összehangolása a meglévő és fejleszteni tervezett attrakciókkal, kínálati elemekkel, hozzájárulva a komplex élményszerzéshez, a desztináció idegenforgalmának további erősítéséhez. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
