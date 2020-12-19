@@ -28,4 +28,6 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. december 31.
 
-6. visszavonja a helyközi autóbusz-közlekedés közszolgáltatásának pályáztatásához szükséges intézkedésekről szóló 1729/2018. (XII. 18.) Korm. határozatot.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
