@@ -205,7 +205,3 @@
 ## fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 ## 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó a kérelem benyújtását megelőző két éven belül
-
-## 2.2.1. az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
-
-## 2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
