@@ -1,3 +1,3 @@
-## 2. § Az R. 3. alcíme a következő 3/A. §-sal egészül ki:
+## 2. §[^2]
 
-## „3/A. § Ha a bíróság a rendszerhasználati díjakat, a csatlakozási díjakat, a külön díjakat, a referenciár-módszertant vagy az (EU) 2017/460 bizottsági rendelet szerinti árkedvezményeket, szorzókat és szezonális faktorokat megállapító határozatot hatályon kívül helyezi, amennyiben szükséges, a Hivatal az általa megállapított díj és a bírósági ítélet alapján megállapítandó díj különbsége miatti korrekciót a következő gáz vagy tárolói évtől egy vagy több gázéven vagy tárolói éven keresztül hajtja végre, figyelembe véve a rendszerüzemeltetők és a felhasználók méltányos érdekeit.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
