@@ -3,3 +3,9 @@
 (1a) Más személy tulajdonában lévő ingatlanon a lakáscélú állami támogatásokkal kapcsolatban az állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételére az állam nevében a lakáscélú állami támogatások ügyében eljáró szerv jogosult.
 
 (2) Az államot megillető elővásárlási vagy vételi jog gyakorlására – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az MNV Zrt. jogosult.
+
+(3) Amennyiben az állam valamely vagyonelemet ellenérték fejében szerez meg és a vagyonelem létrehozásához, értéknövelő felújításához, fejlesztéséhez – annak állam általi megszerzését megelőzően – központi költségvetési forrás került felhasználásra, akkor a vagyonelem vételárának megállapításakor a vételárat csökkenteni kell a felhasznált központi költségvetési forrás összegével akként, hogy a vételár meghatározásának alapjául szolgáló becsült forgalmi értékből értéknövelő beruházás, felújítás esetén az értékelés fordulónapján fennálló könyv szerinti értékére jutó felhasznált központi költségvetési forrás összegét le kell vonni.
+
+(4) Társasági részesedés állam által történő megszerzése esetén, ha a gazdasági társaság, amelyben a részesedés fennáll – a társasági részesedés állam általi megszerzését megelőzően – központi költségvetésből származó fejlesztési támogatásban részesült, akkor a társasági részesedés vételárát csökkenteni kell a felhasznált központi költségvetési forrás összegével akként, hogy a vételár meghatározásának alapjául szolgáló becsült forgalmi értékből a gazdasági társaság értékelésének fordulónapján a számviteli nyilvántartásában szereplő központi költségvetésből származó fejlesztési támogatás elhatárolt összegét le kell vonni.
+
+(5) A vételár megállapítására vonatkozó (3) bekezdés szerinti rendelkezést az Nvtv. 14. § (2) bekezdésében foglaltak szerinti elővásárlási jog gyakorlása során is alkalmazni kell.
