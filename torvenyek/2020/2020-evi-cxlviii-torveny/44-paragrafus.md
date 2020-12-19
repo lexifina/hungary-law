@@ -1,0 +1,3 @@
+44. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény a következő 18/D. §-sal egészül ki:
+
+„18/D. § E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvénnyel (a továbbiakban: Módtv4.) megállapított 14/A. §-át a közfeladat-ellátás és a vagyonjuttatás feltételeinek, illetve az alapokiratnak a módosítása, valamint a közép- vagy hosszú távú finanszírozás tekintetében alkalmazni kell a Módtv4. hatálybalépése napját megelőzően a Módtv4. 14/A. § (1) bekezdése szerinti feltételeknek megfelelően megvalósult ingyenes vagyonjuttatás esetében is.”

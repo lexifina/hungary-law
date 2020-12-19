@@ -1,0 +1,11 @@
+52. § Az Nftv. a következő 26/A. §-sal egészül ki:
+
+„26/A. § (1) Az oktató – beleegyezésével –, a rektor és a diákotthont, illetve tehetséggondozó intézményt fenntartó közfeladatot ellátó közérdekű vagyonkezelő alapítvány vezetőjének megállapodásával, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott diákotthonban, illetve tehetséggondozó intézményben, annak tevékenységében történő részvétel útján is teljesítheti feladatait a 28. § (7) bekezdés a)–c) pontjában foglalt feltételek bármelyikének megfelelő képzés keretében. A megállapodás megkötését a rektor vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítvány vezetője kezdeményezheti.
+
+(2) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott diákotthonban, illetve tehetséggondozó intézményben történő feladatteljesítés időtartamáról, az oktató illetményéről, az alkalmazás megszüntetésének feltételeiről, az alkalmazás egyéb részleteiről, illetve az alkalmazással összefüggő együttműködési feladatokról az (1) bekezdés szerinti megállapodásban kell rendelkezni.
+
+(3) Az (1) bekezdés szerinti oktatónak a közfeladatot ellátó közérdekű vagyonkezelő alapítványnál megállapított illetménye vagy havi alapbérének és rendszeres bérpótlékainak együttes összege nem lehet kevesebb, mint az (1) bekezdés szerinti megállapodás megkötését megelőző napon érvényes illetménye alapján a távolléti díjba tartozó illetményelemek figyelembevételével számított összeg.
+
+(4) Az (1) bekezdés szerinti oktató havi illetményének, havi rendszeres illetménypótlékának, havi alapbérének és rendszeres bérpótlékainak, költségtérítéseinek, illetve egyéb juttatásainak a költsége a közfeladatot ellátó közérdekű vagyonkezelő alapítványt terheli.
+
+(5) A (2) bekezdés szerinti időtartam alatt az (1) bekezdés szerinti megállapodás tekintetében a munkáltatói jogokat a diákotthont, illetve tehetséggondozó intézményt fenntartó közfeladatot ellátó közérdekű vagyonkezelő alapítvány vezetője gyakorolja.”
