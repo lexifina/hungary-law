@@ -1,3 +1,3 @@
-## „j) 31. sora alapján – a koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatásról szóló 7/2020. (IV. 16.) KKM rendeletben meghatározott szabályok szerint – az Európai Bizottságnak a COVID-19-vírusjárvány idején a gazdaság segítése érdekében bevezethető állami támogatási intézkedésekre vonatkozó átmeneti keretszabályra vonatkozó közlemény 3.1. szakaszának feltételei szerint elfogadott, C(2020) 2332 final számú, 2020. április 8-i, C(2020) 3426 final számú, 2020. május 19-i és C(2020) 5721 final számú, 2020. augusztus 17-i határozatának, valamint a SA.57375 (2020/N) C(2020) 4286 final számú, 2020. június 23-i határozatának megfelelő támogatás”
+## 1. §[^2]
 
-## (nyújtható.)
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
