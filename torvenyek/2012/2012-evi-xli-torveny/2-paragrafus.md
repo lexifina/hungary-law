@@ -14,13 +14,15 @@ b) a települési (fővárosi) önkormányzat többségi befolyása alatt álló
 
 c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önkormányzat meghatározó befolyással rendelkezik;
 
-4. egységes egyeztetési eljárás: e törvény keretében meghatározott járművel végzett országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közszolgáltatási menetrendek elkészítésének folyamata, amelynek során a menetrendek mennyiségi és minőségi követelményeinek egységes rendszerét országos, regionális és elővárosi szinten a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás-nyújtás hatékony módjának megválasztása, valamint a csatlakozások összehangolása a közlekedésért felelős miniszter által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
+4. egységes egyeztetési eljárás: az e törvényben meghatározott járművel végzett országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közszolgáltatási menetrendek elkészítésének folyamata, amelynek során a menetrendek mennyiségi és minőségi követelményeinek egységes rendszerét országos, regionális és elővárosi szinten a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás-nyújtás hatékony módjának megválasztása, valamint a csatlakozások összehangolása a közlekedésért felelős miniszter által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
+
+4a. elkülönült vasútegészségügyi szervezet: Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint a MÁV Kórház és Rendelőintézet, Szolnok;
 
 5. ellátásért felelős: a 4. § (3)–(4) bekezdésében meghatározott, 1370/2007/EK rendelet 2. cikk b) pontja szerinti illetékes hatóság;
 
 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
 
-6a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+6a.
 
 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
 
@@ -44,13 +46,13 @@ d) különleges személyszállító szolgáltatást nyújtó jármű: személysz
 
 e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra szolgáló gépi hajtású vízi jármű, valamint a komp;
 
-13. kabotázs: a vasúti személyszállítás területén a közösségi vasutak fejlesztéséről szóló 91/440/EGK tanácsi irányelv, valamint a vasúti infrastruktúra-kapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról szóló 2001/14/EK irányelv módosításáról szóló 2007/58/EK irányelv 1.1. cikk. 8. pontja, a közúti személyszállítás területén a 1073/2009/EK rendelet 2. cikk 7. pontja szerinti tevékenység;
+13.
 
 14. közforgalmú személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyet – a közzétett feltételek alkalmazásával, díj ellenében – bárki igénybe vehet;
 
 15. közlekedési szolgáltató: a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben meghatározott vasúti igazgatási szerv, az e törvényben meghatározott közlekedési hatóság vagy a hajózási hatóság által kiadott, a tevékenység végzésére jogosító engedély vagy a vasúti igazgatási szerv által tudomásul vett bejelentés birtokában e törvény alapján személyszállítási szolgáltatási tevékenységet végző gazdálkodó szervezet;
 
-15a. közlekedési kártya: a 6/A. §-ban meghatározott hordozó vagy elektronikus rendszer;
+15a.
 
 16. közösségi busszal végzett személyszállítás: hazai vagy európai uniós forrásból vásárolt közúti járművel, saját számlás személyszállítás keretében végzett személyszállítás;
 
@@ -64,7 +66,7 @@ e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra
 
 21. különjárati személyszállítási szolgáltatás: a szállítás megrendelője vagy a szállítást végző közlekedési szolgáltató kezdeményezésére személyek előzetesen összeállított csoportjának szállítása alkalmi jelleggel közlekedő olyan járattal, amely nem felel meg sem a menetrend szerinti személyszállítás, sem a különcélú menetrend szerinti személyszállítás ismérveinek;
 
-22. meghatározó befolyás: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. § (2) bekezdése szerinti meghatározó befolyás;
+22.
 
 23. menetrend: a járat útvonalának kezdő- és végpontját, a megállóhelyeket, mindezekre vonatkozóan az indulási és érkezési időpontokat, vagy a járat napi első és utolsó indulási időpontját és a köztes járatgyakoriság ismertetését tartalmazó szolgáltatási előírás;
 
@@ -94,7 +96,7 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 
 33. szociálpolitikai menetdíj-támogatás: személyszállítási közszolgáltatások keretében megvalósuló utazásokhoz az állam által jogszabályban biztosított utazási kedvezmények ellentételezéséhez nyújtott támogatás;
 
-34. többségi befolyás: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. § (1) bekezdése szerinti többségi befolyás;
+34.
 
 35. vonal: a vasúti közlekedésben a vonatok, a közúti járművel végzett személyszállítási szolgáltatás esetén a közúti járművek indulási és végállomása között az egymás után elhelyezkedő megállási helyek, a hajózásban a kikötési helyeket rögzítő szolgáltatási előírás, függetlenül attól, hogy egy-egy járat megáll-e az adott helyen.
 

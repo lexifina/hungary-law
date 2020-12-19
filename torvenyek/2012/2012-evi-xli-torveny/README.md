@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-41-00-00
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2012-41-00-00.31 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2012-41-00-00.32 |
 | 2020-07-22 | 2020. évi LXXXVI. törvény | 2012-41-00-00.33 |
+| 2020-12-19 | 2020. évi CXXXVII. törvény | 2012-41-00-00.34 |

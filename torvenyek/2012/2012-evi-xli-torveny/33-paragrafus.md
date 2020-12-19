@@ -4,7 +4,7 @@
 
 (2) A személyszállítási közszolgáltatási utazási kedvezmények ellentételezésére szociálpolitikai menetdíj-támogatás vehető igénybe – az e törvényben meghatározott feltételek szerint – személyszállítási közszolgáltatás tevékenység közszolgáltatási szerződés alapján történő nyújtása esetén.
 
-(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
+(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
 
 (4) Nem vehető igénybe szociálpolitikai menetdíj-támogatás
 
@@ -14,7 +14,7 @@ b) azon utazási kedvezmények után, amelyet a támogatás alanya üzletpolitik
 
 c) a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére – a tankerületi központ által fenntartott intézmény esetében a tankerület, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlások kivételével – a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
 
-(5) A nemzeti mobil fizetési szervezet vagy közlekedésszervező általi továbbértékesítés esetén a (4) bekezdés alkalmazásában 2016. november 1-jétől a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy a közlekedésszervezőtől vagy ezek viszonteladójától megvásárolja.
+(5) A nemzeti mobil fizetési szervezet, vagy közlekedésszervező, vagy közlekedési szolgáltató általi továbbértékesítés esetén a (4) bekezdés alkalmazásában a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy a közlekedésszervezőtől vagy a közlekedési szolgáltatótól vagy ezek viszonteladójától megvásárolja.
 
 (6) A szociálpolitikai menetdíj-támogatást igénylő közlekedési szolgáltató köteles a (7)–(8) bekezdésekben meghatározott, támogatás igénybevételére nem jogosító jegy- és bérleteladásokat darabszám, érték és kedvezményes díjtípus szerint a támogatásra jogosító jegy- és bérleteladásoktól elkülönítve nyilvántartani.
 
