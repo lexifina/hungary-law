@@ -34,7 +34,7 @@
 
 1.15. nemzeti előírás: olyan vasúti műszaki előírás, amely a magyar vasúti rendszernek az uniós vasúti rendszerhez nem tartozó részére vonatkozóan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű, az egyes alrendszerekre vagy alrendszerrészekre, a vasúti társaságokra, pályahálózat-működtetőkre vagy harmadik felekre vonatkozó műszaki vagy biztonsági követelményeket határoz meg;
 
-1.16. nemzeti ajánlás: a megfelelés nemzeti szinten elfogadható módja, valamint a vasúti műszaki bizottság által kiadott, nem kötelező erejű vélemény, amely meghatározza a nemzeti előírásoknak való megfelelés megállapításának különböző módjait;
+1.16. nemzeti ajánlás: a vasúti műszaki bizottság által kiadott, nem kötelező erejű vélemény, amely meghatározza a megfelelés nemzeti szinten elfogadható módját, a nemzeti előírásoknak való megfelelés megállapításának különböző módjait, vagy a vasúti rendszer biztonságos üzemeltethetősége érdekében, a vasúti pályára és tartozékaira, a vasúti üzemi létesítményekre és az azokhoz kapcsolódó felvonókra, mozgólépcsőkre és mozgójárdákra, valamint a felszín alatti vasúti pályahálózat vasúti állomási épületeire vonatkozó elvárt rendszerintegritási követelményeket, a vasúti pálya és tartozékai, a vasúti üzemi létesítmények létesítése, átalakítása vagy korszerűsítése során az elvárt szintű rendszerintegritás érdekében teljesítendő feltételeket és eljárásokat;
 
 1.17. a megfelelés nemzeti szinten elfogadható módja: a vasúti műszaki bizottság által kiadott, nem kötelező erejű vélemény, amely meghatározza a nemzeti szabályoknak való megfelelés megállapításának különböző módjait;
 

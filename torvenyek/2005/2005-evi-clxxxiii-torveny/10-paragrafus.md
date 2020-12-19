@@ -1,51 +1,55 @@
 ## MŰSZAKI ENGEDÉLY
 
-10. § (1) E törvény alapján műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
+10. § (1) Műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
 
-a) jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai – ideértve a trolibusz felsővezetékét is –
+1. jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai, a vasúti üzemi létesítmények és az azokhoz kapcsolódó felvonók, mozgólépcsők és mozgójárdák, valamint a felszín alatti vasúti pályahálózat vasúti állomási épületei – ideértve a trolibusz felsővezetékét is –
 
-aa) tekintetében feltétfüzet alkalmazásához,
+1.1. tekintetében feltétfüzet alkalmazásához,
 
-ab) engedélyezési feltételeinek előzetes vizsgálatához (elvi építési engedély),
+1.2. engedélyezési feltételeinek előzetes vizsgálatához (elvi építési engedély),
 
-ac) építéséhez,
+1.3. építéséhez,
 
-ad) átalakításához, korszerűsítéséhez,
+1.4. átalakításához, korszerűsítéséhez,
 
-ae) használatbavételéhez,
+1.5. használatbavételéhez,
 
-af) ideiglenes használatbavételéhez,
+1.6. ideiglenes használatbavételéhez,
 
-ag) fennmaradásához,
+1.7. fennmaradásához,
 
-ah) megszüntetéséhez, bontásához,
+1.8. megszüntetéséhez, bontásához,
 
-ai) üzemszünetéhez,
+1.9. üzemszünetéhez,
 
-aj) tekintetében az építési engedélyben foglaltaktól való eltéréshez;
+1.10. tekintetében az építési engedélyben foglaltaktól való eltéréshez;
 
-b) jogszabály eltérő rendelkezése hiányában a vasúti jármű
+2. jogszabály eltérő rendelkezése hiányában a vasúti jármű
 
-ba) forgalomba hozatalához,
+2.1. forgalomba hozatalához,
 
-bb) típusának engedélyezéséhez,
+2.2. típusának engedélyezéséhez,
 
-bc) elvi előzetes típusa engedélyezéséhez,
+2.3. elvi előzetes típusa engedélyezéséhez,
 
-bd) előzetes típusa engedélyezéséhez,
+2.4. előzetes típusa engedélyezéséhez,
 
-be) üzembe helyezéséhez,
+2.5. üzembe helyezéséhez,
 
-bf) átalakításához,
+2.6. átalakításához,
 
-bg) honosításához,
+2.7. honosításához,
 
-bh) különleges menete engedélyezéséhez;
+2.8. különleges menete engedélyezéséhez;
 
-c) a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok, nyomástartó edények forgalomba hozatalához és üzemben tartásához, valamint átalakításához;
+3. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények forgalomba hozatalához és üzemben tartásához, valamint átalakításához;
 
-d) a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények vizsgálatát végző személyek és szervezetek tevékenységéhez;
+4. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények vizsgálatát végző személyek és szervezetek tevékenységéhez; valamint
 
-e) a vasúti járművek, vasúti járművek közlekedésbiztonsági berendezései – a futómű, a fék, a kocsiszekrény és a vonatbefolyásoló berendezés – javítását, karbantartását és időszakos vizsgálatát végző személyek és szervezetek tevékenységéhez.
+5. az (EU) 2016/798 európai parlamenti és tanácsi irányelv alapján a járművek karbantartásáért felelős szervezetek tanúsítási rendszerére vonatkozó részletes rendelkezések megállapításáról, valamint a 445/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. május 16-i (EU) 2019/779 bizottsági végrehajtási rendelet hatálya alá nem tartozó, a vasúti járművek, vasúti járművek közlekedésbiztonsági berendezései – a futómű, a fék, a kocsiszekrény és a vonatbefolyásoló berendezés – javítását, karbantartását és időszakos vizsgálatát végző személyek és szervezetek tevékenységéhez.
 
-(2) A műszaki engedélyt a közlekedési hatóság – az a)–b) pontok esetén e törvény felhatalmazása alapján kiadott kormányrendeletben, a c)–e) pontok esetén e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feltételek szerint – adja ki.
+(2) A műszaki engedélyt a közlekedési hatóság – az (1) bekezdés 1. és 2. pontja esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben, az (1) bekezdés 3–5. pontja esetén e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feltételek szerint – adja ki.
+
+(3) Ha a (2) bekezdés szerinti jogszabály nem zárja ki, az (1) bekezdés 1. és 2. pontjában felsorolt engedély kiadásának feltétele, hogy a kérelmező a jogszabályban meghatározottak szerint igazolja, hogy az építéssel, átalakítással vagy korszerűsítéssel érintett vasúti alrendszer vagy alrendszerek vasúti rendszerbe illesztése teljesíti az elvárt szintű rendszerintegritást. E feltétel teljesülését a közlekedési hatóság egyedi kockázatértékelési alapú rendszerintegritási vizsgálat során értékeli. Nincs szükség egyedi kockázatértékelési alapú vizsgálatra azon szempontok tekintetében, amelyekre vonatkozóan a kérelmező a (2) bekezdés szerinti jogszabályban meghatározottak szerint igazolja, hogy a 2. § 1. pont 1.16. alpontja szerinti nemzeti ajánlásokban meghatározott előírásoknak megfelelően járt el.
+
+(4) Jogszabály a (3) bekezdés szerinti feltételek teljesülésének igazolására megfelelőségértékelő szervezet által kiállított tanúsítványt írhat elő.

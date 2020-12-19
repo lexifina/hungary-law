@@ -20,7 +20,7 @@
 
 9. az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állami kezességre vonatkozó részletes szabályokat,
 
-10. a vasúti pályákkal, a vasúti pálya tartozékaival és a vasúti üzemi létesítményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, valamint üzemeltetése, és üzemben tartása ellenőrzésének szabályait,
+10. a vasúti pályákkal, a vasúti pálya tartozékaival és a vasúti üzemi létesítményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások és a rendszerintegritási vizsgálat lefolytatásának részletes szabályait, valamint üzemeltetése, és üzemben tartása ellenőrzésének szabályait,
 
 11. az országos vasúti mellékvonalak felsorolását,
 
@@ -163,6 +163,8 @@ rendeletben állapítsa meg.
 44. a vasúti forgalom lebonyolításával összefüggő alapvető szabályokat, a forgalomban részt vevő vonatok terhelésére, összeállítására, megfékezettségére, a kötelezően elvégzendő vizsgálatokra vonatkozó szabályokat,
 
 45. vasúti rendszer, a vasúti alrendszer és rendszerelem bevezetésével, módosításával és üzemeltetésével kapcsolatos kockázati besorolások rangsorolására, a kockázatértékelés módszertanára, a biztonságintegritás szintjére vonatkozó nemzeti értékek meghatározására és a rendelkezésre állással kapcsolatos követelményeket
+
+46. a vasúti egyes kocsi teherfuvarozás állami támogatási program részletes feltételeit az államháztartásért felelős miniszterrel egyetértésben, valamint a támogatási program lebonyolítását végző szervezet kijelölését
 
 rendeletben állapítsa meg.
 

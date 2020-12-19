@@ -4,7 +4,7 @@
 
 (3)
 
-(4) A hatóság a 10. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen az eljárás megindításától számított nyolc napon belül értesíti.
+(4) A hatóság a 10. § (1) bekezdés 1. pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen az eljárás megindításától számított nyolc napon belül értesíti.
 
 (5) A kiemelt jelentőségű ügynek nyilvánított, vagy jogszabályban közérdekűnek minősített vasúti pálya kialakításával kapcsolatos műszaki engedély – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatóvá nyilvánítható.
 
