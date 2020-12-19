@@ -1,0 +1,3 @@
+11/G. § (1) A 6/G. § a)–c) pontja szerinti nyilvántartások adattartalmát képező adatokat a kereskedelmi hatóság 2020. december 31-ig az önkormányzati ASP rendszeren keresztül közvetlen adatkapcsolat útján továbbítja az Országos Kereskedelmi Nyilvántartási Rendszer részére.
+
+(2) Az (1) bekezdés szerinti közvetlen adatkapcsolat útján történő adattovábbítást akadályozó körülmény fennállása esetén a kereskedelmi hatóság az adatok továbbítását az önkormányzati ASP rendszer ipar- és kereskedelmi szakrendszerének üzemeltetési és rendszertámogatási feladatait ellátó szerv közreműködésével is teljesítheti.
