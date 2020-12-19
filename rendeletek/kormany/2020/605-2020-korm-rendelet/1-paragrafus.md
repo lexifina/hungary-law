@@ -1,0 +1,5 @@
+## 1. § A veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 24. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a költségvetési szervként működő, orvos- és egészségtudományi képzést folytató egyetem alkalmazottja
+
+a) foglalkoztatására – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet 1. § (2) bekezdésében foglaltak, valamint az egészségügyi dolgozók és egészségügyben dolgozók jogviszonyával kapcsolatos egyes kérdésekről szóló 530/2020. (XI. 28.) Korm. rendeletben foglaltak figyelembevételével – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvényt alkalmazni kell,
+
+b) szakmai, oktatói, kutatói és tudományos tevékenységet – a tevékenységre irányadó képesítési és egyéb, jogszabályban meghatározott szakmai követelmények figyelembevételével – a jogviszonyától és beosztásától függetlenül végezhet.
