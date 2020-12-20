@@ -1,0 +1,1 @@
+## „(10) E fejezet alkalmazásában tulajdonosi joggyakorló: az az MNV Zrt.-től eltérő személy, aki állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására jogosult.”
