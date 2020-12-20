@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-4-20-2Y
 | 2019-01-01 | 2014-4-20-2Y.10 | 35/2018. (XII. 6.) AM rendelet |
 | 2019-04-11 | 2014-4-20-2Y.11 | 14/2019. (IV. 10.) AM rendelet |
 | 2020-01-02 | 2014-4-20-2Y.12 | 66/2019. (XII. 30.) AM rendelet |
+| 2020-12-20 | 2014-4-20-2Y.13 | 35/2018. (XII. 6.) AM rendelet |
