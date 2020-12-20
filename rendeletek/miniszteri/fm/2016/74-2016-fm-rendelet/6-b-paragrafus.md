@@ -1,4 +1,4 @@
-6/B. § (1) Az állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2020. október 1. és október 31. között benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult, amely átmeneti támogatás iránti kérelem ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+6/B. § (1)[^11] Az állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2020. október 1. és október 31., valamint 2021. április 1. és április 30. között benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult, amely átmeneti támogatás iránti kérelem ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) Az átmeneti támogatás iránti kérelem vonatkozásában nem kell alkalmazni a 2. § (4) és (6)–(8) bekezdésében, a 4. § (1) bekezdés b) pont bd) alpontjában, a 6. § (2) bekezdésében és a 6/A. § (3)–(5) bekezdésében foglaltakat.
 
@@ -27,3 +27,5 @@ be) arról, hogy rendelkezik a megkeresésére a Magyar Juhtenyésztők és Kecs
 (7) Az átmeneti támogatás iránti kérelem a benyújtását követő naptól számított két napon belül, de legkésőbb az (1) bekezdésben meghatározott benyújtási határidő végéig, az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó átmeneti támogatás iránti kérelmet kell elbírálni. Az (1) bekezdés szerinti átmeneti támogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
 
 (8) Az átmeneti támogatás iránti kérelem benyújtása esetén a Kincstár megkeresésére a Magyar Juhtenyésztők és Kecsketenyésztők Szövetsége adatot szolgáltat az 5. § (2) bekezdés b)–g) pontjában foglaltakról.
+
+[^11]: A 6/B. § (1) bekezdése a 65/2020. (XII. 17.) AM rendelet 6. § a) pontja szerint módosított szöveg.
