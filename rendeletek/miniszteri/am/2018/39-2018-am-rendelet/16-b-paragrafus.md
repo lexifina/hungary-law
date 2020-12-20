@@ -1,6 +1,6 @@
-16/B. § (1) Az igénylő a 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2020. támogatási év III. negyedévére – a 14. § (1) bekezdésében foglaltaktól eltérően – kizárólag átmeneti támogatás igénybevételére jogosult.
+16/B. § (1)[^7] Az igénylő a 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2020. támogatási év III., valamint IV. negyedévére – a 14. § (1) bekezdésében foglaltaktól eltérően – kizárólag átmeneti támogatás igénybevételére jogosult.
 
-(2) Az átmeneti támogatás iránti kérelem 2020. október 1. és október 31. között ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+(2)[^8] Az átmeneti támogatás iránti kérelem 2020. október 1. és október 31., valamint 2021. január 5. és 31. között ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (3) Az (1) bekezdés szerinti átmeneti támogatás vonatkozásában nem kell alkalmazni a 14. § (1a) bekezdésében, 14. § (2) bekezdés b) pontjában, 14. § (5a) bekezdésében, valamint a 16/A. § (3)–(5) bekezdésében foglaltakat.
 
@@ -10,7 +10,7 @@ a) a Tv. 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettsé
 
 b) az átmeneti támogatás iránti kérelem benyújtásával egyidejűleg nyilatkozik
 
-ba) arról, hogy 2019. december 31-én nem minősült az Atr. 6. § (4a) bekezdése szerinti nehéz helyzetben lévő vállalkozásnak,
+ba)[^9] arról, hogy középvállalkozóként 2019. december 31-én nem minősült az Atr. 6. § (4a) bekezdése szerinti nehéz helyzetben lévő vállalkozásnak,
 
 bb) a 20/2020. (VI. 19.) AM rendelet hatálya alá nem tartozó támogatási program vagy egyedi támogatás alapján általa a 20/2020. (VI. 19.) AM rendelet 1. § i) pontja szerinti vállalkozásnak (a továbbiakban: kapcsolt vállalkozás) minősülő vállalkozások által korábban már igénybe vett egyéb átmeneti támogatás összegéről euróban kifejezve,
 
@@ -24,4 +24,9 @@ bd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító 
 
 (7) Ha a kötelezettségek elektronikus úton történő teljesítése során az igénylő helyett és nevében meghatalmazottja jár el, a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-(8) Az átmeneti támogatás iránti kérelem a benyújtását követő naptól számított két napon belül, de legkésőbb a (2) bekezdésben meghatározott benyújtási határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó átmeneti támogatás iránti kérelmet kell elbírálni. Az átmeneti támogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
+(8)[^10] Az átmeneti támogatás iránti kérelem legkésőbb a (2) bekezdésben meghatározott benyújtási határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó átmeneti támogatás iránti kérelmet kell elbírálni. Az átmeneti támogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
+
+[^7]: A 16/B. § (1) bekezdése a 65/2020. (XII. 17.) AM rendelet 9. § b) pontja szerint módosított szöveg.
+[^8]: A 16/B. § (2) bekezdése a 65/2020. (XII. 17.) AM rendelet 9. § c) pontja szerint módosított szöveg.
+[^9]: A 16/B. § (4) bekezdés b) pont ba) alpontja a 65/2020. (XII. 17.) AM rendelet 9. § d) pontja szerint módosított szöveg.
+[^10]: A 16/B. § (8) bekezdése a 65/2020. (XII. 17.) AM rendelet 10. §-a szerint módosított szöveg.
