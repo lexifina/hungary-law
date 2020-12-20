@@ -30,10 +30,15 @@ cg) arról, hogy tevékenységei között mely támogatott tevékenységet folyt
 
 ch) nagyvállalkozói minőségéről,
 
-ci) a nagyvállalkozásnak minősülő kérelmező arról, hogy az általa előállított termékre az e rendelet alapján benyújtott támogatási kérelemre meghozott döntésben megállapított támogatási összeg 10%-ának megfelelő összeg erejéig 2020. december 31-éig adományozási megállapodást köt egy, a Karitatív Tanácsban tag szervezettel vagy a Magyar Élelmiszerbank Egyesülettel, és
+ci)[^2] a nagyvállalkozásnak minősülő kérelmező arról, hogy az általa előállított termékre az e rendelet alapján benyújtott támogatási kérelemre meghozott döntésben megállapított támogatási összeg 10%-ának megfelelő összeg erejéig 2020. december 31-éig adományozási megállapodást köt egy, a Karitatív Tanácsban tag szervezettel vagy annak valamely tagszervezetével vagy a Magyar Élelmiszerbank Egyesülettel (a továbbiakban: adományozás), és
 
 cj) a b) pontban foglaltakról.
+
+(1a)[^3] Az (1) bekezdés c) pont ci) alpontja szerinti adományozás pénzbeli adományként is teljesíthető.
 
 (2) Az átmeneti támogatás alapja a kérelmező támogatott tevékenysége keretében foglalkoztatottak száma, amelyet az (1) bekezdés c) pont ce) alpontja szerinti hányados és a kérelmező által a 2019. évben foglalkoztatottak átlagos statisztikai állományi létszámának szorzata alapján kell meghatározni.
 
 (3) Az átmeneti támogatás mértéke – a támogatás alapját képező állományba tartozó – foglalkoztatottanként legfeljebb 125 000 forint.
+
+[^2]: A 3. § (1) bekezdés c) pont ci) alpontja a 65/2020. (XII. 17.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (1a) bekezdését a 65/2020. (XII. 17.) AM rendelet 22. § (2) bekezdése iktatta be.
