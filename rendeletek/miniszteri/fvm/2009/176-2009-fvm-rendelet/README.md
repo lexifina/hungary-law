@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-176-20-
 | 2015-11-30 | 2009-176-20-82.9 | 67/2015. (X. 30.) FM rendelet |
 | 2017-08-18 | 2009-176-20-82.10 | 29/2015. (VI. 5.) FM rendelet |
 | 2020-09-05 | 2009-176-20-82.11 | 29/2015. (VI. 5.) FM rendelet |
+| 2020-12-20 | 2009-176-20-82.12 | 19/2020. (XII. 12.) MvM rendelet |

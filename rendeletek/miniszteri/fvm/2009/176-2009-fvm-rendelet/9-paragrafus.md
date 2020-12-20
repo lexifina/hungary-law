@@ -1,4 +1,4 @@
-## 8. §[^28] A földmérési és térinformatikai államigazgatási szerv az elektronikus adatszolgáltatásból őt megillető díjból biztosítja a TAKARNET rendszer üzemeltetését és fenntartását, valamint azt elsődlegesen a rendszer továbbfejlesztésére fordítja. A fennmaradó összeget jogszabályokban meghatározott feladatai ellátására használhatja fel.
+## 8. §[^29] A földmérési és térinformatikai államigazgatási szerv az elektronikus adatszolgáltatásból őt megillető díjból biztosítja a TAKARNET rendszer üzemeltetését és fenntartását, valamint azt elsődlegesen a rendszer továbbfejlesztésére fordítja. A fennmaradó összeget jogszabályokban meghatározott feladatai ellátására használhatja fel.
 
 ## Az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapítása, megfizetése és kezelése
 
@@ -16,4 +16,4 @@ c) minden más esetben a kérelem benyújtásakor önálló földrészletként n
 
 kell figyelembe venni.
 
-[^28]: A 8. § a 48/2010. (IV. 27.) FVM rendelet 96. §-a, a 42/2017. (VIII. 17.) FM rendelet 141. § c) pontja szerint módosított szöveg.
+[^29]: A 8. § a 48/2010. (IV. 27.) FVM rendelet 96. §-a, a 42/2017. (VIII. 17.) FM rendelet 141. § c) pontja szerint módosított szöveg.

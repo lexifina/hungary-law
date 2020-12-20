@@ -1,12 +1,12 @@
-18. §[^49]
+18. §[^50]
 
-Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^50]
+Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^51]
 
 |  | A | B |
 
 |  | Név | Számlaszám |
 
-| 1. | Földmérési és térinformatikai államigazgatási szerv | 10023002-00299592-38200001 |
+| 1. | A földmérési és térinformatikai államigazgatási szerv feladatait ellátó Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | 10032000-00332921-00000062 |
 
 | 2. | Baranya Megyei Kormányhivatal | 10024003-00300960-00000000 |
 
@@ -48,5 +48,5 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^50]
 
 | 21. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-[^49]: A 18. §-t a 29/2015. (VI. 5.) FM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 42/2017. (VIII. 17.) FM rendelet 142. §-a.
-[^50]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 140. §-a, a 16/2020. (IX. 4.) MvM rendelet 2. §-a szerint módosított szöveg.
+[^50]: A 18. §-t a 29/2015. (VI. 5.) FM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 42/2017. (VIII. 17.) FM rendelet 142. §-a.
+[^51]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 140. §-a, a 16/2020. (IX. 4.) MvM rendelet 2. §-a, a 19/2020. (XII. 12.) MvM rendelet 14. § e) és f) pontja szerint módosított szöveg.
