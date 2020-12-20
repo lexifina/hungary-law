@@ -12,9 +12,9 @@
 
 (4)[^24]
 
-(5)[^25] A földmérő szervezet átszervezése vagy jogutóddal történő megszüntetése esetén az átszervezett (megszűnő) szerv földmérési és térképészeti anyagainak további tárolási helyéről a jogutód tájékoztatja az ingatlanügyi hatóságként eljáró kormányhivatalt, a földmérési és térinformatikai államigazgatási szervet, valamint a honvédelem térképészeti támogatásáért felelős szervet.
+(5)[^25] A földmérő szervezet átszervezése vagy jogutóddal történő megszüntetése esetén az átszervezett (megszűnő) szerv földmérési és térképészeti anyagainak további tárolási helyéről a jogutód tájékoztatja az ingatlanügyi hatóságot, valamint a honvédelem térképészeti támogatásáért felelős szervet.
 
 [^22]: A 21/A. §-t a 39/2014. (XII. 18.) FM rendelet 10. §-a iktatta be.
 [^23]: A 22. § (1) bekezdése a 39/2014. (XII. 18.) FM rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^24]: A 22. § (4) bekezdését a 39/2014. (XII. 18.) FM rendelet 13. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^25]: A 22. § (5) bekezdése a 29/2015. (VI. 5.) FM rendelet 1. §-a, a 9/2020. (VI. 26.) MvM rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^25]: A 22. § (5) bekezdése a 29/2015. (VI. 5.) FM rendelet 1. §-a, a 9/2020. (VI. 26.) MvM rendelet 1. § (2) bekezdés a) pontja, a 19/2020. (XII. 12.) MvM rendeletet 1. §-a szerint módosított szöveg.
