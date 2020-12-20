@@ -1,0 +1,17 @@
+12/M. § (1) Az elektronikus bérleti licit eljárás során tett bérleti díj ajánlatot a bérleti licit rendszer útján automatikusan rögzíteni kell, és egyidejűleg automatikusan közzé kell tenni az elektronikus bérleti licit eljáráshoz tartozó licitnaplóban. A kezdő bérleti díj ajánlat nem lehet kevesebb a bérbeadásra kerülő ingatlan értékbecslésen alapuló becsült bérleti díjának egységnyi bérleti időszakra vonatkozó összegénél. A bérleti díj ajánlatot nem kell a bérleti licit rendszer útján rögzíteni, ha az nem éri el a kezdő bérleti díj ajánlat összegét, vagy legalább a licitlépcső összegével nem haladja meg a kezdő bérleti díj ajánlat összegét vagy a megelőzően közzétett bérleti díj ajánlat összegét.
+
+(2) Az elektronikus bérleti licit eljárás során a licitálásnál ezer forintra kerekítve kell a bérleti díj ajánlatot megtenni az adott egységnyi bérleti időszakra vonatkozóan. Az aktuális legmagasabb bérleti díj ajánlatnál csak magasabb összegű bérleti díj ajánlatot lehet tenni, a (3) bekezdésben meghatározott licitlépcső szabályai szerint.
+
+(3) A licitálható bérleti díj ajánlat összeget a bérleti licit rendszer legalább a megadott licitlépcső szerint automatikusan emeli.
+
+(4) Az elektronikus bérleti licit eljárás során a licitálásra rendelkezésre álló idő az üzemzavar, illetve rendszerkarbantartás időtartamával meghosszabbodik oly módon, hogy ha annak időtartama több mint 1 óra, vagy az üzemzavar a licitálás határidejének lezárását megelőző 1 órán belül keletkezik, akkor 24 óra a meghosszabbítás időtartama.
+
+(5) Ha az elektronikus bérleti licit eljárás lezárásának időpontja előtti öt percben érkezik érvényes bérleti díj ajánlat, az elektronikus bérleti licit eljárás időtartama automatikusan öt perccel meghosszabbodik, ezt az elektronikus bérleti licit eljárás lezárásának újabb időpontjaira is alkalmazni kell.
+
+(6) Ha azonos időpontban legmagasabb összegű bérleti díj ajánlatként azonos összegű kézi és automatikus ajánlat érkezik, a kézi ajánlat minősül nyertes bérleti díj ajánlatnak. Ha legmagasabb összegű bérleti díj ajánlatként azonos időpontban több azonos összegű automatikus ajánlat érkezik, nyertes ajánlatnak a bérleti licit rendszerben az automatikus licitajánlatot leghamarabb elindító licitáló ajánlata minősül.
+
+(7) A (6) bekezdés alkalmazása tekintetében kézi ajánlattételnek minősül, ha a licitáló a bérleti licit rendszer felületén az erre a célra szolgáló adatbeviteli mezőbe rögzíti a felajánlott bérleti díj összeget. Automatikus ajánlattételnek minősül, ha a bérleti licit rendszer erre szolgáló alkalmazása útján a licitáló nevében automatikusan kerül sor az aktuálisan legmagasabb összegű bérleti díj ajánlathoz képest magasabb bérleti díj ajánlat megtételére. Automatikus ajánlattétel választása esetén a licitáló a bérleti licit rendszer felületén az erre a célra szolgáló mezőbe rögzíti az általa elfogadható legmagasabb bérleti díj összeget. A kézi és az automatikus ajánlattétel részletes szabályait az elektronikus bérleti licit felhasználási szabályzatban kell meghatározni.
+
+(8) Az elektronikus bérleti licit eljárás befejezésekor az MNV Zrt. a bérleti licit rendszer útján a licitnaplót automatikusan lezárja és közzéteszi benne a lezárás időpontját.
+
+(9) Eredményes elektronikus bérleti licit eljárás esetén a legmagasabb bérleti díjat felajánló licitáló a licitnapló lezárását követően elektronikus értesítést kap az elektronikus bérleti licit eljárás eredményéről és a szerződéskötéshez kapcsolódó egyéb releváns információkról.

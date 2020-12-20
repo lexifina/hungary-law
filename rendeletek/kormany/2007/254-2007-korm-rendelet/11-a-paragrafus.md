@@ -1,4 +1,4 @@
-## A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége[^87]
+## A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége[^91]
 
 11/A. § (1) A központi költségvetési szerv vagyonkezelő évente – a tárgyévet követő év január 31-ig – adatot szolgáltat az MNV Zrt. részére az elhelyezését szolgáló, valamint az általa ellátandó állami feladathoz használt épületek, épületrészek, helyiségek (a továbbiakban e szakasz alkalmazásában: adatszolgáltatással érintett ingatlanok) vonatkozásában, a Melléklet III. pontja szerint.
 
@@ -22,4 +22,4 @@
 
 (11) A harmadik személy a tulajdonosi joggyakorló hasznosítási szerződésbe lépéséről szóló értesítést követően hatvan napon belül gyakorolhatja a felmondás jogát.
 
-[^87]: Az „A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége” alcímet (11/A. §) a 138/2020. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^91]: Az „A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége” alcímet (11/A. §) a 138/2020. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
