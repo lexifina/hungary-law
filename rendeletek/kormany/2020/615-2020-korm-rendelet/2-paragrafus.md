@@ -1,3 +1,5 @@
-## 1. § Hatályát veszti az Andrássy Emlékmúzeum megvalósítását célzó beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 297/2018. (XII. 21.) Korm. rendelet.
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
