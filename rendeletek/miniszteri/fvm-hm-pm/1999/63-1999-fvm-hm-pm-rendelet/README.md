@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-63-20-8
 | 2017-08-18 | 1999-63-20-82.9 | 29/2015. (VI. 5.) FM rendelet |
 | 2017-09-15 | 1999-63-20-82.10 | 2/2016. (I. 7.) FM rendelet |
 | 2020-09-05 | 1999-63-20-82.11 | 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet |
+| 2020-12-20 | 1999-63-20-82.12 | 19/2020. (XII. 12.) MvM rendelet |

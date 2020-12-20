@@ -4,9 +4,9 @@
 
 (2) Hitelesített adat igénylése esetén az adatszolgáltató záradékban igazolja, hogy a kiadott adat a kiadást megelőző napig megegyezik a nyilvántartott állapottal, eredeti iratok és térképek esetében az eredetivel.
 
-(3)[^16] Az 1. számú melléklet a hitelesített adatok szolgáltatásának díját tartalmazza. Hitelesítés nélküli állami alapadat igénylése esetén – kivéve a 11. § (4) bekezdés szerinti csökkentett adattartalmú adatszolgáltatást – az adatszolgáltatási díj 75%-át kell megfizetni.
+(3)[^19] Az 1. számú melléklet a hitelesített adatok szolgáltatásának díját tartalmazza. Hitelesítés nélküli állami alapadat igénylése esetén – kivéve a 11. § (4) bekezdés szerinti csökkentett adattartalmú adatszolgáltatást – az adatszolgáltatási díj 75%-át kell megfizetni.
 
-(4)[^17]
+(4)[^20]
 
 (5) A hitelesítési záradékkal ellátott és kiadott adatot, illetve térképmásolatot – kérelem esetén – az adatszolgáltató az érvényben lévő adatszolgáltatási díj 50%-ának megfizetése ellenében ismételten hitelesíti, amennyiben annak tartalma időközben nem változott.
 
@@ -14,5 +14,5 @@
 
 (7) Amennyiben az állami alapadatokon a változások még előzetesen sincsenek átvezetve, de a változásra vonatkozó munkarészek már beérkeztek az adatszolgáltatóhoz, a változásokat az adatigénylést követő 30 napon belül előzetesen érvényesíteni kell a szolgáltatandó adatokban.
 
-[^16]: A 10. § (3) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 4. §-ával megállapított, a 2/2016. (I. 7.) FM rendelet 6. § 3. pontja szerint módosított szöveg.
-[^17]: A 10. § (4) bekezdését a 15/2014. (II. 25.) VM rendelet 7. §-a hatályon kívül helyezte.
+[^19]: A 10. § (3) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 4. §-ával megállapított, a 2/2016. (I. 7.) FM rendelet 6. § 3. pontja szerint módosított szöveg.
+[^20]: A 10. § (4) bekezdését a 15/2014. (II. 25.) VM rendelet 7. §-a hatályon kívül helyezte.

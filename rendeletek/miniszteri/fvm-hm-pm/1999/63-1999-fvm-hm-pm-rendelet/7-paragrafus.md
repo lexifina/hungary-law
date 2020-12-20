@@ -1,1 +1,3 @@
-## 6. § E rendelet alkalmazásában különleges külterületeken a termőföldről szóló 1994. évi LV. törvény hatálybalépéséig zártkertnek minősült területeket kell érteni.
+## 6. §[^17] E rendelet alkalmazásában különleges külterület az a földrészlet, amely az ingatlan-nyilvántartás szerint zártkerti ingatlannak minősül.
+
+[^17]: A 6. § a 19/2020. (XII. 12.) MvM rendelet 3. §-ával megállapított szöveg.

@@ -1,26 +1,26 @@
 5. § (1) Állami alapadatot hitelesített vagy hitelesítés nélküli formában lehet szolgáltatni.
 
-(2)[^8] Az adatszolgáltatás iránti kérelmet az igényelt állami alapadat azonosítására alkalmas módon, a 3. számú melléklet szerinti igénylési lapon kell benyújtani.
+(2)[^9]
 
-(3)[^9] A díjat készpénzben, vagy az adatszolgáltató szervezetnek a 4. számú mellékletben megjelölt számlájára készpénz-átutalási megbízással, vagy banki átutalással legkésőbb a szolgáltatás teljesítésekor kell megfizetni, illetve az átutalást igazolni. Ha a kérelmező fizetési kötelezettségét az erre vonatkozó felhívástól számított nyolc napon túl teljesíti, az adatszolgáltató a befizetéstől számított harminc napon belül tesz eleget a kérelemnek.
+(3)[^10] A díjat készpénzben, vagy az adatszolgáltató szervezetnek a 4. számú mellékletben megjelölt számlájára készpénz-átutalási megbízással, vagy banki átutalással legkésőbb a szolgáltatás teljesítésekor kell megfizetni, illetve az átutalást igazolni. Ha a kérelmező fizetési kötelezettségét az erre vonatkozó felhívástól számított nyolc napon túl teljesíti, az adatszolgáltató a befizetéstől számított harminc napon belül tesz eleget a kérelemnek.
 
-(4)[^10] Díj visszatérítésére kizárólag abban az esetben kerülhet sor, ha az adatszolgáltatás az igénylőlapon szereplő megrendeléstől eltérő módon történt.
+(4)[^11] Díj visszatérítésére kizárólag abban az esetben kerülhet sor, ha az adatszolgáltatás az igénylőlapon szereplő megrendeléstől eltérő módon történt.
 
-(5)[^11] Az állami alapadatok forgalmazásából származó díj – kivéve az NKP keretében készült adatállományok ellenértékét – 50%-át új állami alapadatok előállítására kell fordítani, a fennmaradó 50%, valamint az 1. számú melléklet 1. táblázat g), a 2. táblázat f) és l), a 3. táblázat f), a 4. táblázat f) és a 7. táblázat d) pontja alapján befolyó díj az adatszolgáltatót illeti meg.
+(5)[^12] Az állami alapadatok forgalmazásából származó díj 70%-a a földmérési és térinformatikai államigazgatási szervet illeti meg, melynek 40%-át állami alapadatok előállítására köteles fordítani. A fennmaradó 30%, valamint az 1. számú melléklet 1. táblázat g), a 2. táblázat f) és l), a 3. táblázat f), a 4. táblázat f) és a 7. táblázat d) pontja alapján befolyó díj – a 15/A. § (5) bekezdésében meghatározottak kivételével – az adatszolgáltatót illeti meg.
 
-(6)[^12] A földmérési és térinformatikai államigazgatási szerv és az ingatlanügyi hatóságként eljáró járási hivatalok (a továbbiakban: járási hivatal) elszámolása alapján az ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatal (a továbbiakban együtt: kormányhivatal) díjbevételeiről a tárgyhónapot követő hó 10. napjáig a földügyért felelős miniszter részére, az NKP keretében készített DAT adatállományokból történő adatszolgáltatásról az NKP Nonprofit Kft. részére is jelentést készítenek. Az NKP Nonprofit Kft. és az adatszolgáltató közötti – az adatszolgáltatásra vonatkozó – együttműködés részleteit a felek szerződésben rögzítik.
+(6)[^13] A földmérési és térinformatikai államigazgatási szerv – az ingatlanügyi hatóságokként eljáró fővárosi és megyei kormányhivatalok javaslatai alapján – szakmai ütemtervet készít a következő évben elvégzendő állami alapmunkákról, és bemutatja a térképészetért felelős miniszternek, valamint a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért felelős miniszternek, minden év december 1. napjáig.
 
-(7)[^13] Az adatszolgáltató külön-külön nyilvántartást vezet az állami alapadatokból, illetve az NKP Nonprofit Kft. finanszírozásában előállított állami alapadatokból történt adatszolgáltatás díjbevételeiről.
+(7)[^14] A földmérési és térinformatikai államigazgatási szerv minden év május 31-ig szakmai és pénzügyi beszámolót készít a térképészetért felelős miniszter, valamint a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért felelős miniszter részére az előző évben elvégzett állami alapmunkákról és előállított új állami alapadatokról.
 
-(8)[^14] A 4. § (1) és (2) bekezdése szerinti szervezetek díjbevételeikről a tárgyhónapot követő hó 10. napjáig a földügyért felelős miniszter részére az NKP keretében készített adatállományokból történő adatszolgáltatásaikról az NKP Nonprofit Kft. részére is jelentést készítenek.
+(8)[^15] A díjbevétel azon részét, amely az (5) bekezdésben meghatározottak szerint a földmérési és térinformatikai államigazgatási szervet illeti meg, az adatszolgáltatás helye szerinti ingatlanügyi hatóság a tárgyhónap utolsó napját követő 15 napon belül köteles átutalni a földmérési és térinformatikai államigazgatási szerv 4. számú mellékletben meghatározott számlaszámára.
 
-(9)[^15] A díjak az egyes díjtételeknél meghatározott adathordozón történő adatszolgáltatásra vonatkoznak.
+(9)[^16] A díjak az egyes díjtételeknél meghatározott adathordozón történő adatszolgáltatásra vonatkoznak.
 
-[^8]: Az 5. § (2) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
-[^9]: Az 5. § (3) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
-[^10]: Az 5. § (4) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
-[^11]: Az 5. § (5) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
-[^12]: Az 5. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 9. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 17. § b) pontja szerint módosított szöveg.
-[^13]: Az 5. § (7) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. § (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^14]: Az 5. § (8) bekezdését a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. § (2) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés b) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^15]: Az 5. § (9) bekezdését a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^9]: Az 5. § (2) bekezdését a 19/2020. (XII. 12.) MvM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^10]: Az 5. § (3) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^11]: Az 5. § (4) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^12]: Az 5. § (5) bekezdése a 19/2020. (XII. 12.) MvM rendelet 2. §-ával megállapított szöveg.
+[^13]: Az 5. § (6) bekezdése a 19/2020. (XII. 12.) MvM rendelet 2. §-ával megállapított szöveg.
+[^14]: Az 5. § (7) bekezdése a 19/2020. (XII. 12.) MvM rendelet 2. §-ával megállapított szöveg.
+[^15]: Az 5. § (8) bekezdését a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. § (2) bekezdése iktatta be, szövege a 19/2020. (XII. 12.) MvM rendelet 2. §-ával megállapított szöveg.
+[^16]: Az 5. § (9) bekezdését a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 3. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.

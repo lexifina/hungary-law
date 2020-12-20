@@ -1,64 +1,10 @@
-## Földmérési és térképészeti adatok igénylése
-
-## ......../......... iktatószám
-
-## ........................................................................
-
-## az adatszolgáltató szervezet megnevezése
-
-## Alulírott kérem, hogy a(z) ..................................................................................... település .................................... hrsz.-ú földrészletről a következő földmérési adatokat, hitelesítve vagy hitelesítés nélkül* kiszolgáltatni szíveskedjenek.
-
-## Az adatok igénylése*:
-
-## – hatósági célra,
-
-## – földmérési célra:
-
-## = változási vázrajz készítéséhez
-
-## = kitűzéshez
-
-## = digitalizáláshoz
-
-## = egyéb földmérési célra, és pedig ..........................................................
-
-## – egyéb célra, és pedig ............................................................................ célra
-
-## történik.
-
-## A megbízó neve és címe: ..........................................................................................
-
-## Az igényelt adatok:
-
-## Kelt: .................................., ........ év ................. hó ...... nap
-
-|  | .......................................................... |
-
-|  | igénylő |
-
-## Lakcíme/székhelye: ....................................
-
-## Jogosultságra vonatkozó megjegyzés: .......................................................................................
-
-## A fent felsorolt földmérési adatokat átvettem:
-
-## Kelt: .................................., ........ év ................. hó ...... nap
-
-|  | ......................................................... |
-
-|  | átvevő |
-
-## _____________
-
-## * A megfelelő rész aláhúzandó vagy kitöltendő!
-
-4. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^54]
+4. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^65]
 
 |  | A | B |
 
 | 1. | Név | Számlaszám |
 
-| 2. | Földmérési és térinformatikai államigazgatási szerv |  |
+| 2. | A földmérési és térinformatikai államigazgatási szervként eljáró, Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | 10032000-00332921-00000062 |
 
 | 3. | Baranya Megyei Kormányhivatal | 10024003-00300960-00000000 |
 
@@ -102,6 +48,4 @@
 
 | 23. | HM Zrínyi Térképészeti és Kommunikációs Szolgáltató Közhasznú Nonprofit Kft. | 10023002-00286040-00000017 |
 
-| 24. | Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság | 10032000-00286576-00000017 |
-
-[^54]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 16. §-ával megállapított, a 16/2020. (IX. 4.) MvM rendelet 1. §-a szerint módosított szöveg.
+[^65]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 19/2020. (XII. 12.) MvM rendelet 9. §-ával megállapított szöveg.

@@ -32,7 +32,7 @@ a) az ingatlanrendező földmérői minősítés igazgatási szolgáltatási dí
 
 b) a földmérő igazolvány kiadásával kapcsolatos eljárás igazgatási szolgáltatási díjait,
 
-c) a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Földmérési törvény) 25/A. § (1) bekezdése szerinti nyilvántartásba vétel igazgatási szolgáltatási díját,
+c)[^4] a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 25/A. § (1) bekezdése szerinti nyilvántartásba vétel igazgatási szolgáltatási díját,
 
 d) a geodéziai tervezői, valamint a geodéziai szakértői minősítési eljárással kapcsolatos igazgatási szolgáltatási díját,
 
@@ -47,3 +47,4 @@ h) a térképi alapú nyilvántartási és térinformatikai rendszerek, valamint
 [^1]: Az 1. § a 2/2016. (I. 7.) FM rendelet 6. § 1. pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés h) pontja a 2/2016. (I. 7.) FM rendelet 6. § 2. pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 2/2016. (I. 7.) FM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdés c) pontja a 19/2020. (XII. 12.) MvM rendelet 10. § a) pontja szerint módosított szöveg.

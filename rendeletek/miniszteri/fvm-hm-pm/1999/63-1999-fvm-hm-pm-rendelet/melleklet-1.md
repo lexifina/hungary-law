@@ -1,4 +1,6 @@
-1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^48]
+## 21. §[^57] Az ingatlanügyi hatóságok bevételét képező egyes igazgatási szolgáltatási díjak megosztását szabályozó és a földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletek módosításáról szóló 19/2020. (XII. 12.) MvM rendelettel [a továbbiakban: 19/2020. (XII. 12.) MvM rendelet] megállapított 5. § (6) bekezdése szerinti szakmai ütemtervet a 2020. évre vonatkozóan a 19/2020. (XII. 12.) MvM rendelet hatálybalépését[^58] követő 60. napig kell elkészíteni.
+
+1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^59]
 
 ## Igazgatási szolgáltatási díjak
 
@@ -114,7 +116,7 @@ földmérési munkarészekről
 
 | 38. | Egyéb földmérési munkarészek | A/4 lap | 200 |
 
-| 39. | Utca, házszám, valamint a régi helyrajzi szám szerinti keresés és azonosítás | földrészlet | 800 |
+| 39. |  |  |  |
 
 Megjegyzések:
 
@@ -308,7 +310,7 @@ b) Analóg és digitális közműnyilvántartás esetében a díjat a települé
 
 c) A közműnyilvántartási térkép munkarészeinek szolgáltatási díját a szolgáltatást végző szervezet a közművek üzemeltetőivel közösen állapítja meg. A díj tartalmazza a szolgáltatáshoz szükséges költségeket és az e táblázat alapján évente fizetendő adatfelhasználási díjat is, melyet e rendelet 15. § (2) bekezdése szerint az adatszolgáltatónak kell megfizetnie.
 
-d) A nyilvántartási és térinformatikai rendszerek aktualizálása érdekében a járási hivatal által időközben átvezetett jogerős változásokért a 3. számú táblázat, digitális adatok esetében a 7., illetve a 8. számú táblázat szerinti díjat kell megfizetni.
+d) A nyilvántartási és térinformatikai rendszerek aktualizálása érdekében az ingatlanügyi hatóságok által időközben átvezetett jogerős változásokért a 3. számú táblázat, digitális adatok esetében a 7., illetve a 8. számú táblázat szerinti díjat kell megfizetni.
 
 7. Adatszolgáltatás digitális adatállományból
 
@@ -446,4 +448,6 @@ f) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 g) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^48]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja, a 2/2016. (I. 7.) FM rendelet 5. § (1) bekezdése és a 6. § 4., 8–10. pontja, a 42/2017. (VIII. 17.) FM rendelet 17. § f)–i) pontja szerint módosított szöveg.
+[^57]: A 21. §-t a 19/2020. (XII. 12.) MvM rendelet 8. §-a iktatta be.
+[^58]: A hatálybalépés időpontja 2020. december 20.
+[^59]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja, a 2/2016. (I. 7.) FM rendelet 5. § (1) bekezdése és a 6. § 4., 8–10. pontja, a 42/2017. (VIII. 17.) FM rendelet 17. § f)–i) pontja, a 19/2020. (XII. 12.) MvM rendelet 10. § g) pontja és 11. § h) pontja szerint módosított szöveg.
