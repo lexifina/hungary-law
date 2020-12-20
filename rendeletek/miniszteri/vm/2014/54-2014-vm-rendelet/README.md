@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-54-20-2
 | 2020-04-06 | 2014-54-20-2Y.12 | 10/2020. (IV. 3.) AM rendelet |
 | 2020-06-25 | 2014-54-20-2Y.13 | 69/2015. (XI. 2.) FM rendelet |
 | 2020-08-20 | 2014-54-20-2Y.14 | 41/2020. (VIII. 19.) AM rendelet |
+| 2020-12-20 | 2014-54-20-2Y.15 | 65/2020. (XII. 17.) AM rendelet |
