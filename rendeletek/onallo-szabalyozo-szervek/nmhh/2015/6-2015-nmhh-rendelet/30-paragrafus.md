@@ -1,5 +1,0 @@
-## 29. § Ez a rendelet 2015. november 1-jén lép hatályba.
-
-30. § (1) E rendelet hatálybalépését követően az egyes szolgáltatáselemek tekintetében az első kijelölési eljárás legkorábban az Eht. 117. § c) pontja szerinti szolgáltatáselem nyújtása tárgyában az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról szóló 13/2013. (IX. 25.) NMHH rendelet szerint megkötött hatósági szerződésben az egyetemes szolgáltatás nyújtása vonatkozásában meghatározott legrövidebb időtartam lejártát követő napon, legkésőbb az ezt követő 6. hónap utolsó napján indítható meg.
-
-(2) E rendelet hatálybalépését megelőzően kijelölt egyetemes szolgáltató a kijelölési eljárás – ideértve a kijelölési határozat bírósági felülvizsgálata iránti eljárást is – lezárultáig köteles az egyetemes szolgáltatást a kijelölési eljárást megelőző, korábbi kijelölési határozatban foglalt – illetve, ha az Elnök és az egyetemes szolgáltató az egyetemes szolgáltatás tartalmáról hatósági szerződésben állapodtak meg, ezen hatósági szerződésben foglalt – változatlan feltételekkel nyújtani.
