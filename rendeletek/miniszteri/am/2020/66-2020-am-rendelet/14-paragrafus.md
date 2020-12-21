@@ -1,0 +1,3 @@
+## 13. § A Gazdaságvédelmi Akcióterv keretében az Agrár Széchenyi Kártya Konstrukcióhoz nyújtott teljes körű csekély összegű támogatásról szóló 14/2020. (IV. 10.) AM rendelet [a továbbiakban: 14/2020. (IV. 10.) AM rendelet] 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A Kincstár csekély összegű vagy átmeneti támogatás nyújtása esetén a kamat-, a kezességi díj-, és a kezelési költség-támogatásról támogatástartalom-igazolást állít ki, amelyet a KAVOSZ Zrt.-től kapott adatok beérkezésétől számított harminc napon belül elektronikusan vagy postai úton megküld a vállalkozás részére.”
