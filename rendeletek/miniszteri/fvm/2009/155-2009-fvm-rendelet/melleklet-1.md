@@ -1,6 +1,6 @@
 ## 9. § E rendelet 2010. január 1-jén lép hatályba.
 
-1. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^18]
+1. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^20]
 
 |  | A | B |
 
@@ -48,4 +48,4 @@
 
 | 21. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-[^18]: Az 1. melléklet a 29/2015. (VI. 5.) FM rendelet 6. § (4) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 137. §-a szerint módosított szöveg.
+[^20]: Az 1. melléklet a 29/2015. (VI. 5.) FM rendelet 6. § (4) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 137. §-a szerint módosított szöveg.
