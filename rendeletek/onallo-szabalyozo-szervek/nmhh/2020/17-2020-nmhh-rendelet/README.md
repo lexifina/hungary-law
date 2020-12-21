@@ -1,0 +1,9 @@
+# 17/2020. (XII. 17.) NMHH rendelet
+
+a digitális médiaszolgáltatások vételére alkalmas készülékek együttműködő képessége érdekében szükséges intézkedésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-17-20-3H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-12-21 | 2020-17-20-3H.1 | 17/2020. (XII. 17.) NMHH rendelet |
