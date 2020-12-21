@@ -1,1 +1,0 @@
-A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés c) pontjában kapott felhatalmazás alapján, figyelemmel a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény rendelkezéseire, a következőket rendeli el:
