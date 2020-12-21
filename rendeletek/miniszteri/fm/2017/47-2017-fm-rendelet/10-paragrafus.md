@@ -20,4 +20,6 @@ h) a g) pontban megjelölt esetben az új földminősítési mintatér kijelöl�
 
 (3) A mintatérjegyzék elektronikusan is vezethető azzal, hogy az (1) és (2) bekezdésben felsorolt adatok változásainak a mintatérjegyzékben nyomon követhetőnek kell lennie.
 
-(4) A járási mintatérjegyzék adatait a járási hivatal, míg a községi mintatérjegyzék adatait a kormányhivatal részére is hozzáférhetővé kell tenni.
+(4)[^1]
+
+[^1]: A 10. § (4) bekezdését a 63/2020. (XII. 16.) AM rendelet 12. §-a hatályon kívül helyezte.
