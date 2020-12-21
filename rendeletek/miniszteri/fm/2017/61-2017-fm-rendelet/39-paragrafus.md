@@ -2,15 +2,15 @@
 
 (2) Az erdészeti mérő- és megfigyelőrendszer működtetése során
 
-a) a NÉBIH gondoskodik a 38. § (2) bekezdés a) és f)–k) pontjai szerinti,
+a)[^39] az NFK gondoskodik a 38. § (2) bekezdés a) és f)–k) pontjai szerinti,
 
 b) a Nemzeti Agrárkutatási és Innovációs Központ Erdészeti Tudományos Intézete (a továbbiakban: ERTI) gondoskodik a 38. § (2) bekezdés b)–c) pontjai szerinti, valamint – az Országos Erdőkár Nyilvántartás adatainak felhasználásával – a 38. § (2) bekezdés d) pontja szerinti,
 
-c) a NÉBIH és az ERTI – a szakmai irányító szervük által meghatározott feladatmegosztás alapján – együttesen gondoskodik a 38. § (2) bekezdés e) pontja szerinti
+c)[^40] az NFK és az ERTI – a szakmai irányító szervük által meghatározott feladatmegosztás alapján – együttesen gondoskodik a 38. § (2) bekezdés e) pontja szerinti
 
 ## alrendszerekben folyó adatgyűjtésről, és kiértékelésről.
 
-(3) A NÉBIH ellátja az erdővédelmi mérő és megfigyelő rendszer nemzeti és nemzetközi szintű koordinációs feladatait. Ennek keretében – az ERTI közreműködésével – gondoskodik:
+(3)[^41] Az NFK ellátja az erdővédelmi mérő és megfigyelő rendszer nemzeti és nemzetközi szintű koordinációs feladatait. Ennek keretében – az ERTI közreműködésével – gondoskodik:
 
 a) a rendszer egyes elemeinek összehangolásáról,
 
@@ -24,4 +24,9 @@ e) a nemzeti és nemzetközi együttműködésből származó információk szé
 
 f) az adatok tárolásáról.
 
-(4) A NÉBIH gondoskodik a vizsgálati adatokat és eredményeket tartalmazó adatállományok teljes körének – a 38. § (2) bekezdés szerinti alrendszerenként történő – hosszú távú, biztonságos tárolásáról és archiválásáról.
+(4)[^42] Az NFK gondoskodik a vizsgálati adatokat és eredményeket tartalmazó adatállományok teljes körének – a 38. § (2) bekezdés szerinti alrendszerenként történő – hosszú távú, biztonságos tárolásáról és archiválásáról.
+
+[^39]: A 39. § (2) bekezdés a) pontja a 63/2020. (XII. 16.) AM rendelet 14. § 2. pontja szerint módosított szöveg.
+[^40]: A 39. § (2) bekezdés c) pontja a 63/2020. (XII. 16.) AM rendelet 14. § 2. pontja szerint módosított szöveg.
+[^41]: A 39. § (3) bekezdés nyitó szövegrésze a 63/2020. (XII. 16.) AM rendelet 14. § 3. pontja szerint módosított szöveg.
+[^42]: A 39. § (4) bekezdése a 63/2020. (XII. 16.) AM rendelet 14. § 3. pontja szerint módosított szöveg.

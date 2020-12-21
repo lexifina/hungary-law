@@ -20,7 +20,7 @@ g) dátum, valamint
 
 h) adatszolgáltatást kérő személy aláírása.
 
-(4) Az erdészeti hatóság a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) honlapján közhitelesnek nem minősülő megjelenített generalizált erdőtérkép és az ahhoz kapcsolódó adatok megjelenítése útján bárkinek betekintést biztosít az Adattárba, a nyilvántartott erdőnek minősülő föld alábbi adataival, és egyéb térképi tartalommal:
+(4)[^20] Az erdészeti hatóság a Nemzeti Földügyi Központ (a továbbiakban: NFK) honlapján közhitelesnek nem minősülő megjelenített generalizált erdőtérkép és az ahhoz kapcsolódó adatok megjelenítése útján bárkinek betekintést biztosít az Adattárba, a nyilvántartott erdőnek minősülő föld alábbi adataival, és egyéb térképi tartalommal:
 
 a) erdészeti területazonosító adatai, területe, generalizált térképi alakzata,
 
@@ -45,3 +45,5 @@ j) ingatlan-nyilvántartási azonosítója, generalizált térképi alakzata,
 k) – ha az rendelkezésre áll – nagyvízi mederrel érintett területek határa, továbbá
 
 l) – ha az rendelkezésre áll – vadászterületek határa, azonosítója.
+
+[^20]: A 27. § (4) bekezdés nyitó szövegrésze a 63/2020. (XII. 16.) AM rendelet 14. § 1. pontja szerint módosított szöveg.

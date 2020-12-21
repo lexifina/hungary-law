@@ -1,8 +1,8 @@
-5. melléklet a 61/2017. (XII. 21.) FM rendelethez
+5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^63]
 
-## Az erdőtervezési körzetek, valamint a körzeteket alkotó helységek (név, erdészeti azonosító) listája a körzeti erdőtervezést végző járási hivatalok szerint
+## Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó helységek (név, erdészeti azonosító) listája az erdészeti hatóságként eljáró megyei kormányhivatalok illetékességi területe szerint
 
-1. Pest Megyei Kormányhivatal Érdi Járási Hivatala
+1. Pest Megyei Kormányhivatal
 
 1.1. Alsó-Tápió-vidéki erdőtervezési körzet
 
@@ -764,7 +764,7 @@
 
 1.17.5. Szigetmonostor (5550)
 
-2. Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala
+2. Veszprém Megyei Kormányhivatal
 
 2.1. Bakonyszentlászlói erdőtervezési körzet
 
@@ -1288,7 +1288,7 @@
 
 2.10.12. Zirc (8522)
 
-3. Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala
+3. Vas Megyei Kormányhivatal
 
 3.1. Alpokaljai erdőtervezési körzet
 
@@ -2108,7 +2108,7 @@
 
 3.15.33. Zsira (3158)
 
-4. Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala
+4. Zala Megyei Kormányhivatal
 
 4.1. Baki erdőtervezési körzet
 
@@ -2646,7 +2646,7 @@
 
 4.11.31. Zalavár (9418)
 
-5. Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala
+5. Somogy Megyei Kormányhivatal
 
 5.1. Barcsi erdőtervezési körzet
 
@@ -3182,7 +3182,7 @@
 
 5.13.41. Zics (6091)
 
-6. Baranya Megyei Kormányhivatal Pécsi Járási Hivatala
+6. Baranya Megyei Kormányhivatal
 
 6.1. Bátaszék-Bonyhádi erdőtervezési körzet
 
@@ -3750,6 +3750,4 @@
 
 6.14.27. Szörény (104)
 
-6.14.28. Teklafalu (105)
-
-6.14.29. Várad (107)
+[^63]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a szerint módosított szöveg.

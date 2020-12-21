@@ -1,5 +1,5 @@
-## 68. §[^52]
+## 68. §[^61]
 
 1. melléklet a 61/2017. (XII. 21.) FM rendelethez
 
-[^52]: A 68. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 68. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
