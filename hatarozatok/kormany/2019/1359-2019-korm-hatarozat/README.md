@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1359-30
 | --- | --- | --- |
 | 2019-06-19 | 2019-1359-30-22.1 | 1359/2019. (VI. 19.) Korm. határozat |
 | 2020-07-02 | 2019-1359-30-22.2 | 1360/2020. (VII. 1.) Korm. határozat |
+| 2020-12-21 | 2019-1359-30-22.3 | 1961/2020. (XII. 21.) Korm. határozat |
