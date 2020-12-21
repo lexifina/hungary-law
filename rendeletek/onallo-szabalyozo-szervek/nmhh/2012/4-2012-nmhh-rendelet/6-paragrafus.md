@@ -1,29 +1,45 @@
 ## 3. A hálózatok és a szolgáltatások biztonsága és integritása
 
-6. § (1) A szolgáltatók kötelesek haladéktalanul bejelenteni a Főügyelet részére a hálózatbiztonság megsértésének minden olyan esetét (e rendelet alkalmazásában: hálózatbiztonsági esemény), amely jelentős hatással volt a hálózatok, illetve a szolgáltatások működésére.
+6. §[^32] (1) A szolgáltató köteles haladéktalanul bejelenteni magyar vagy angol nyelven az Országos Informatikai és Hírközlési Főügyelet (a továbbiakban: OIHF) részére a Hivatal által biztosított elektronikus űrlapon minden olyan biztonsági eseményt, amely jelentős hatással volt a hálózatok, illetve a szolgáltatások működésére (a továbbiakban: biztonsági esemény).
 
-(2) A Főügyelet a Hatóság útján szükség szerint tájékoztatja a többi tagállam nemzeti szabályozó hatóságát és az Európai Hálózat- és Információbiztonsági Ügynökséget (a továbbiakban: ENISA).
+(2) Az OIHF a Hivatal útján szükség szerint tájékoztatja az (1) bekezdés szerinti bejelentésben foglalt eseményről a többi tagállam nemzeti szabályozó hatóságait és az Európai Uniós Kiberbiztonsági Ügynökséget (a továbbiakban: ENISA).
 
-(3) A Hatóság honlapján tájékoztathatja a nyilvánosságot, illetve a szolgáltatóknak határozatával tájékoztatási kötelezettséget írhat elő, amennyiben mérlegelése szerint a hálózatbiztonsági esemény nyilvánosságra hozatalának hiánya a közérdeket sértené vagy veszélyeztetné.
+(3) A Hivatal a biztonsági eseményről a honlapján tájékoztathatja a nyilvánosságot, illetve a szolgáltatónak határozatával tájékoztatási kötelezettséget írhat elő, amennyiben mérlegelése szerint a biztonsági esemény nyilvánosságra hozatalának hiánya a közérdeket sértené vagy veszélyeztetné.
 
 (4) A (3) bekezdésben foglalt szolgáltatói tájékoztatásnak tartalmaznia kell:
 
-a) a hálózatbiztonsági esemény időpontját;
+a) a biztonsági esemény időpontját;
 
-b) az érintett előfizetők, illetve más magánszemélyek számát;
+b) az érintett előfizetők, illetve felhasználók számát;
 
-c) azokat az elérhetőségeket, ahol az előfizetők a hálózatbiztonsági eseménnyel kapcsolatban további felvilágosítást kérhetnek;
+c) azokat az elérhetőségeket, ahol az előfizetők és a felhasználók a biztonsági eseménnyel kapcsolatban további felvilágosítást kérhetnek;
 
-d) a hálózatbiztonsági esemény várható következményeit;
+d) a biztonsági esemény várható következményeit;
 
-e) a hálózatbiztonsági esemény hátrányos következményeinek enyhítése érdekében tervezett intézkedéseket;
+e) a biztonsági esemény hátrányos következményeinek enyhítése érdekében tervezett intézkedéseket és
 
-f) amennyiben a Hatóságnak történő bejelentés időpontjában a nyilvánosság tájékoztatása már megtörtént, annak időpontját és módját.
+f) ha a Hivatalnak történő bejelentés időpontjában a nyilvánosság tájékoztatása már megtörtént, annak időpontját és módját.
 
-(5) A Hatóság a Főügyelethez beérkező bejelentésekről és a megtett intézkedésekről évente összefoglaló jelentést nyújt be az Európai Bizottságnak és az ENISA-nak.
+(5) A Hivatal az OIHF-hez beérkező bejelentésekről és a megtett intézkedésekről évente összefoglaló jelentést nyújt be az Európai Bizottságnak és az ENISA-nak.
 
-(6) A Hatóság az Eht. 47. § szerinti eljárásban és szabályok alapján felhívhatja – teljesítés hiányában pedig határozatával kötelezheti – a szolgáltatókat a szolgáltatásaik és a hálózataik biztonsági és integritási szintjének megállapításához szükséges adatok szolgáltatására, ideértve írásos biztonsági stratégiájuk átadását is.
+(6) A Hivatal az Eht. 47. §-a alapján felhívhatja – teljesítés hiányában pedig határozatával kötelezheti – a szolgáltatót a szolgáltatásai és a hálózatai biztonsági, illetve integritási szintjének megállapításához szükséges adatok szolgáltatására, ideértve írásos biztonsági stratégiájuk átadását is.
 
-(7) A Hatóság hatósági határozatban kötelezheti a szolgáltatókat arra, hogy a határozatban megjelölt független, minősített szervezet által végzett hálózatbiztonsági ellenőrzésen vegyenek részt. Az ellenőrzés költségei a kötelezett szolgáltatót terhelik.
+(7) A Hivatal hatósági határozatban kötelezheti a szolgáltatót arra, hogy a határozatban megjelölt független, minősített szervezet által végzett hálózatbiztonsági ellenőrzésen vegyen részt. Az ellenőrzés költségei a kötelezett szolgáltatót terhelik.
 
-(8) A Hatóság az e §-ban alkalmazott eljárása során figyelembe veszi az ENISA hálózatbiztonságra vonatkozó műszaki iránymutatásait.
+(8) A Hivatal az e §-ban alkalmazott eljárása során figyelembe veszi az ENISA hálózatbiztonságra vonatkozó műszaki iránymutatásait.
+
+(9) A biztonsági esemény hatása jelentőségének meghatározásához elsősorban az alábbi szempontokat kell figyelembe venni rendelkezésre állásuk esetén:
+
+a) a biztonsági esemény által érintett felhasználók száma;
+
+b) a biztonsági esemény időtartama;
+
+c) a biztonsági esemény által érintett terület földrajzi kiterjedése;
+
+d) a hálózatra vagy a szolgáltatás működésére gyakorolt hatás mértéke és
+
+e) a gazdasági és társadalmi tevékenységekre gyakorolt hatás mértéke.
+
+(10) A biztonsági esemény konkrét és jelentős szintű kockázata esetén a szolgáltatónak haladéktalanul értesítenie kell az előfizetőket és indokolt esetben a felhasználókat az ilyen kockázatról, és – ha a kockázat a szolgáltató által teendő intézkedések alkalmazási körén kívül esik – a lehetséges jogorvoslatokról, beleértve a valószínűleg felmerülő költségek megjelölését.
+
+[^32]: A 6. § a 11/2020. (XII. 11.) NMHH rendelet 4. §-ával megállapított szöveg.

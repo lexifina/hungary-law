@@ -1,6 +1,6 @@
 ## 5. Az azonosítókijelzés és a hívásátirányítás szabályai
 
-9. § (1) A szolgáltatónak ingyenesen biztosítania kell az előfizető írásbeli kérelme alapján
+9. §[^36] (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltatónak ingyenesen biztosítania kell az előfizető írásbeli kérelme alapján
 
 a) a hívó felhasználónak, hogy hívásonként letilthassa az azonosítója kijelzését a hívott készüléken;
 
@@ -12,14 +12,10 @@ d) a hívott előfizetőnek, hogy készülékén a hívó azonosítója ne jelen
 
 e) a hívott előfizetőnek, hogy megtagadja azon hívások fogadását, amelyek esetében a hívó az azonosítója kijelzését letiltotta.
 
-(2) Az (1) bekezdés a) és b) pontjában meghatározott letiltás nem alkalmazható a jogszabály szerinti – az állam működése, a lakosság ellátása szempontjából kiemelten fontos – létesítmények, valamint a segélyhívó szolgálatok (a rendőrség, a tűzoltóság és a mentőszolgálat) hívószámaira, beleértve a „112” egységes európai segélyhívószámra irányuló hívásokat is.
+(2) Az (1) bekezdés a) és b) pontjában meghatározott letiltás nem alkalmazható az Eht. 145. § (2) bekezdésében foglalt eseten túl a jogszabály szerinti – az állam működése, a lakosság ellátása szempontjából kiemelten fontos – létesítmények hívószámaira irányuló hívásokra sem.
 
-(3) A szolgáltató az Eht. 155. § (7) bekezdésben meghatározott hatóságokkal történő közreműködés keretében, az ott meghatározott eljárásban jogosult figyelmen kívül hagyni ideiglenes jelleggel a hívó vonal azonosításának letiltását, amennyiben az előfizető olyan hívások nyomon követése érdekében kéri ezt, amelyek esetén az Eht. 155. § (7) bekezdésben meghatározott bűncselekmény alapos gyanúja merül fel. Ebben az esetben a hívó előfizető azonosítását tartalmazó hívásadatokat a szolgáltató tárolja és az arra feljogosítottak részére hozzáférhetővé teszi.
+(3) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató ingyenesen köteles hívott előfizetője számára biztosítani, hogy annak kérésére az előfizető hívószámára irányuló hívások esetén a hívott vonal azonosítója ne jelenjen meg a hívó fél készülékén (kapcsolt vonal azonosító kijelzésének letiltása).
 
-(4) A szolgáltató ingyenesen köteles hívott előfizetője számára biztosítani, hogy annak kérésére az előfizető hívószámára irányuló hívások esetén a hívott vonal azonosítója ne jelenjen meg a hívó fél készülékén (kapcsolt vonal azonosító kijelzésének letiltása).
+(4) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató által az e § szerinti, előfizetők és felhasználók számára biztosítandó lehetőségekről köteles ügyfélszolgálatán és internetes honlapja mellett az egyéb szokásos módokon is tájékoztatást adni.
 
-(5) A mobil rádiótelefon szolgáltató az e §-ban foglaltakat csak a mobil rádiótelefon szolgáltatások beszédcélú alkalmazásakor köteles biztosítani.
-
-(6) A szolgáltató az e §-ban foglaltakat a saját hálózatán belül nemzetközi hívások esetén is köteles biztosítani.
-
-(7) A szolgáltató által az e § szerinti, előfizetők és felhasználók számára biztosítandó lehetőségekről köteles ügyfélszolgálatán és internetes honlapja mellett az egyéb szokásos módokon is tájékoztatást adni.
+[^36]: A 9. § a 11/2020. (XII. 11.) NMHH rendelet 5. §-ával megállapított szöveg.

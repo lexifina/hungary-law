@@ -1,12 +1,12 @@
-## 4. § A hálózati biztonság megsértésének magas szintű kockázata esetén a nyilvánosan elérhető hírközlési szolgáltatást nyújtó szolgáltatónak értesítenie kell az előfizetőket az ilyen kockázatról, és – amennyiben a kockázat a szolgáltató által teendő intézkedések alkalmazási körén kívül esik – a lehetséges jogorvoslatokról, beleértve a valószínűleg felmerülő költségek megemlítését.
+## 4. §[^4]
 
-5. §[^1] (1) A szolgáltató az Eht. 156. § (2)–(8) bekezdésében foglaltak alapján köteles haladéktalanul tájékoztatni a Hatóságot és az Eht. 156. § (5) bekezdésében meghatározott esetekben az előfizetőt, felhasználót, vagy más magánszemélyt is a személyes adatok megsértésének (e rendelet alkalmazásában: személyes adatok megsértése) észlelése esetén.
+5. §[^5] (1)[^6] A szolgáltató az Eht. 156. § (2)–(8) bekezdésében foglaltak alapján köteles haladéktalanul tájékoztatni a Nemzeti Média- és Hírközlési Hatóság Hivatalát (a továbbiakban: Hivatal) és az Eht. 156. § (5) bekezdésében meghatározott esetekben az előfizetőt vagy felhasználót a személyes adatok megsértésének (e rendelet alkalmazásában: személyes adatok megsértése) észlelése esetén.
 
-(2) A szolgáltató köteles a személyes adatok megsértését az észlelést követően haladéktalanul, de legfeljebb 24 órán belül elektronikus úton a Hatóságnak bejelenteni. A szolgáltató Hatósághoz intézett bejelentésének tartalmaznia kell az (5)–(9) bekezdésben foglalt adatokat. A személyes adatok megsértésének észlelésére került sor, ha a személyes adatok megsértését eredményező biztonsági esemény (a továbbiakban:esemény) bekövetkeztéről a szolgáltató kellő tudomást szerzett ahhoz, hogy a Hatóságnak a jelen § szerinti bejelentést tegyen.
+(2)[^7] A szolgáltató köteles a személyes adatok megsértését az észlelést követően haladéktalanul, de legfeljebb 24 órán belül elektronikus úton a Hivatalnak bejelenteni. A szolgáltató Hivatalhoz intézett bejelentésének tartalmaznia kell az (5)–(9) bekezdésben foglalt adatokat. A személyes adatok megsértésének észlelésére került sor, ha a személyes adatok megsértését eredményező biztonsági esemény (a továbbiakban:esemény) bekövetkeztéről a szolgáltató kellő tudomást szerzett ahhoz, hogy a Hivatalnak a jelen § szerinti bejelentést tegyen.
 
-(3) Amennyiben nem áll a szolgáltató rendelkezésére az (5)–(9) bekezdés szerinti valamennyi adat és a személyes adatok megsértésének esete további vizsgálatot igényel, a szolgáltató a személyes adatok megsértésének észlelését követően haladéktalanul, de legfeljebb 24 órán belül köteles első bejelentését megtenni a Hatóságnak (a továbbiakban: első bejelentés). A Hatósághoz intézett első bejelentésnek az (5)–(6) bekezdésben foglalt információkat kell tartalmaznia.
+(3)[^8] Amennyiben nem áll a szolgáltató rendelkezésére az (5)–(9) bekezdés szerinti valamennyi adat és a személyes adatok megsértésének esete további vizsgálatot igényel, a szolgáltató a személyes adatok megsértésének észlelését követően haladéktalanul, de legfeljebb 24 órán belül köteles első bejelentését megtenni a Hivatalnak (a továbbiakban: első bejelentés). A Hivatalhoz intézett első bejelentésnek az (5)–(6) bekezdésben foglalt információkat kell tartalmaznia.
 
-(4) A (3) bekezdés szerinti esetben a szolgáltató haladéktalanul, de legkésőbb az első bejelentést követő 72 órán belül köteles második bejelentését (a továbbiakban: második bejelentés) megtenni a Hatóságnak. A második bejelentésnek tartalmaznia kell a (7)–(9) bekezdésben foglalt információkat, és szükség esetén aktualizálni kell a már benyújtott információkat.
+(4)[^9] A (3) bekezdés szerinti esetben a szolgáltató haladéktalanul, de legkésőbb az első bejelentést követő 72 órán belül köteles második bejelentését (a továbbiakban: második bejelentés) megtenni a Hivatalnak. A második bejelentésnek tartalmaznia kell a (7)–(9) bekezdésben foglalt információkat, és szükség esetén aktualizálni kell a már benyújtott információkat.
 
 (5) A (2) bekezdésben foglalt bejelentésnek tartalmaznia kell a szolgáltató azonosító adatait, így az alábbiakat:
 
@@ -30,49 +30,49 @@ e) másik szolgáltató igénybevételével való összefüggés.
 
 (7) A személyes adatok megsértéséről szóló második bejelentésnek tartalmaznia kell az alábbiakat:
 
-a) az esemény összefoglalása, megjelölve az adatok megsértésének fizikai helyét és az érintett adathordozót is;
+a)[^10] az esemény összefoglalása, megjelölve az adatok megsértésének fizikai és logikai helyét és az érintett adathordozót is;
 
-b) az érintett előfizetők, felhasználók, vagy más magánszemélyek száma;
+b)[^11] az érintett előfizetők vagy felhasználók száma;
 
-c) a lehetséges következmények és kedvezőtlen hatások ismertetése az előfizetőkre, felhasználókra, vagy más magánszemélyekre nézve;
+c)[^12] a lehetséges következmények és kedvezőtlen hatások ismertetése az előfizetőkre vagy felhasználókra nézve;
 
 d) a lehetséges kedvezőtlen hatások enyhítésére a szolgáltató által alkalmazott műszaki és szervezeti intézkedések.
 
-(8) Amennyiben az előfizetők, felhasználók, és más magánszemélyek (12) bekezdés szerinti értesítése megtörténik, az erről szóló, a Hatósághoz intézett tájékoztatásnak az alábbiakat kell tartalmaznia:
+(8)[^13] Amennyiben az előfizetők vagy felhasználók (12) bekezdés szerinti értesítése megtörténik, az erről szóló, a Hivatalhoz intézett tájékoztatásnak az alábbiakat kell tartalmaznia:
 
-a) az értesítés időpontja és tartalma, beleértve azokat az elérhetőségeket, ahol az előfizetők, felhasználók, vagy más magánszemélyek a személyes adatok megsértésével kapcsolatban további felvilágosítást kérhetnek;
+a)[^14] az értesítés időpontja és tartalma, beleértve azokat az elérhetőségeket, ahol az előfizetők vagy felhasználók a személyes adatok megsértésével kapcsolatban további felvilágosítást kérhetnek;
 
 b) az értesítés során alkalmazott kommunikációs eszköz megnevezése;
 
-c) az értesített előfizetők, felhasználók és más magánszemélyek száma.
+c)[^15] az értesített előfizetők vagy felhasználók száma.
 
 (9) Amennyiben a személyes adatok megsértésének határon átnyúló vonatkozásai vannak és az érintett adatok rendelkezésre állnak, a (2)–(4) bekezdés szerinti bejelentéseknek a határon átnyúló vonatkozásokkal kapcsolatban az alábbiakat kell tartalmazniuk:
 
-a) tájékoztatás arról, hogy a személyes adatok megsértésének érintettje között vannak-e más tagállamokban található előfizetők, felhasználók vagy más magánszemélyek;
+a)[^16] tájékoztatás arról, hogy a személyes adatok megsértésének érintettje között vannak-e más tagállamokban található előfizetők vagy felhasználók;
 
 b) a más illetékes nemzeti hatóságok értesítéséről szóló tájékoztatás.
 
-(10) Amennyiben a szolgáltató az általa folytatott vizsgálat ellenére sem tudja valamennyi, a (7)–(9) bekezdésben foglalt információt az első bejelentéstől számított 72 órás határidőn belül benyújtani, köteles a rendelkezésére álló lehető legtöbb információt bejelenteni ezen határidőn belül a Hatóságnak, és a bejelentéshez köteles részletes indoklást csatolni arról, hogy a be nem jelentett információk bejelentését miért tudja csak az első bejelentéstől számított 72 órás határidőn túl teljesíteni. Ebben az esetben a szolgáltató köteles haladéktalanul bejelenteni a be nem jelentett információkat a Hatóságnak és – szükség esetén – köteles a már benyújtott információkat aktualizálni. A szolgáltató ezen felül a (2)–(9) bekezdés alapján bejelentett személyes adatok megsértésének utánkövetéséről az esemény végleges lezárásáig vagy a személyes adatok megsértését kiváltó okok végleges megszüntetéséig havonta köteles a Hatóságot elektronikus úton tájékoztatni.
+(10)[^17] Amennyiben a szolgáltató az általa folytatott vizsgálat ellenére sem tudja valamennyi, a (7)–(9) bekezdésben foglalt információt az első bejelentéstől számított 72 órás határidőn belül benyújtani, köteles a rendelkezésére álló lehető legtöbb információt bejelenteni ezen határidőn belül a Hivatalnak, és a bejelentéshez köteles részletes indoklást csatolni arról, hogy a be nem jelentett információk bejelentését miért tudja csak az első bejelentéstől számított 72 órás határidőn túl teljesíteni. Ebben az esetben a szolgáltató köteles haladéktalanul bejelenteni a be nem jelentett információkat a Hivatalnak és – szükség esetén – köteles a már benyújtott információkat aktualizálni. A szolgáltató a (2)–(9) bekezdés alapján bejelentett személyes adatok megsértésének utánkövetéséről az esemény végleges lezárásáig vagy a személyes adatok megsértését kiváltó okok végleges megszüntetéséig havonta elektronikus úton tájékoztatja a Hivatalt.
 
-(11) A Hatóság az Adatkapun keresztül bejelentő-felületet biztosít a szolgáltató számára a (2)–(9) bekezdésben foglalt bejelentés megtételére.
+(11)[^18] A (2)–(9) bekezdésben foglalt bejelentést a szolgáltató magyar vagy angol nyelven, a Hivatal által biztosított elektronikus űrlapon teheti meg.
 
-(12) Az Eht. 156. § (5) bekezdés első mondatában foglalt értesítést a szolgáltató a személyes adatok megsértésének észlelése után indokolatlan késedelem nélkül, de legfeljebb 24 órán belül, olyan kommunikációs eszközzel köteles teljesíteni, amely biztosítja az információ gyors célba érését és amely a tudomány és a technika mindenkori állása szerint megfelelően biztonságos. Ilyen kommunikációs eszköznek kell tekinteni különösen az elektronikus levélben vagy telefonon vagy rövid szöveges üzenetben, valamint a szolgáltató honlapján közzétett tájékoztatást. Nem szükséges a honlapon történő tájékoztatás, ha a személyes adatok megsértése az érintett szolgáltató előfizetőinek 0,01%-ánál kevesebb előfizetőt érint.
+(12)[^19] Az Eht. 156. § (5) bekezdése szerinti értesítést a szolgáltató a személyes adatok megsértésének észlelése után indokolatlan késedelem nélkül, de legfeljebb 24 órán belül, olyan kommunikációs eszközzel köteles teljesíteni, amely biztosítja az információ gyors célba érését, és amely a tudomány és a technika mindenkori állása szerint megfelelően biztonságos. Ilyen kommunikációs eszköznek kell tekinteni különösen az elektronikus levélben vagy telefonon vagy SMS-ben közzétett tájékoztatást.
 
 (13) A személyes adatok megsértéséről szóló értesítést világosan és közérthetően kell megfogalmazni. Az értesítés kizárólag a személyes adatok megsértésével kapcsolatos információkat tartalmazhat és más tárgyú tájékoztatással nem kapcsolható össze, nem használható fel új vagy kiegészítő szolgáltatások népszerűsítésére vagy reklámozására.
 
-(14) Ha a szolgáltató nem tudja azonosítani a (12) bekezdésben említett határidőn belül azokat a felhasználókat, vagy más magánszemélyeket, akiket a személyes adatok megsértése várhatóan hátrányosan érint, a szolgáltató ezeket a személyeket a megadott határidőn belül országos napilap útján közzétett hirdetményben is értesítheti. A hirdetménynek tartalmaznia kell a (18) bekezdésben meghatározott információkat, szükség esetén tömörített formában. Ezen értesítés megtételétől függetlenül a szolgáltatónak továbbra is minden ésszerű erőfeszítést meg kell tennie az érintett felhasználók és más magánszemélyek azonosítására és a (18) bekezdésben meghatározott információkról való mielőbbi értesítésére.
+(14)[^20] Ha a szolgáltató nem tudja azonosítani a (12) bekezdésben említett határidőn belül azokat a felhasználókat, akiket a személyes adatok megsértése várhatóan hátrányosan érint, a szolgáltató ezeket a személyeket a megadott határidőn belül internetes honlapján vagy az ügyfélszolgálatán közzétett hirdetményben is értesítheti. A hirdetménynek tartalmaznia kell a (18) bekezdésben meghatározott információkat, szükség esetén tömörített formában. Ezen értesítés megtételétől függetlenül a szolgáltatónak továbbra is minden ésszerű erőfeszítést meg kell tennie az érintett felhasználók azonosítására és a (18) bekezdésben meghatározott információkról való mielőbbi értesítésére.
 
 (15) Amennyiben a szolgáltató az elektronikus hírközlési szolgáltatást részben vagy egészben olyan más vállalkozástól bérelt, vagy bármilyen más formában igénybe vett eszközökkel, vagy szolgáltatásokkal valósítja meg, amely nem áll közvetlen előfizetői szerződéses jogviszonyban az előfizetővel, akkor a személyes adatok megsértése esetén ezen vállalkozás a szolgáltatót köteles haladéktalanul értesíteni.
 
-(16) Ha a személyes adatok megsértése az Európai Unió más tagállamában élő előfizetőket, felhasználókat, vagy más magánszemélyeket érint, a Hatóság 72 órán belül értesíti a többi érintett nemzeti hatóságot az Európai Bizottság által közzétett kapcsolattartási pontokon keresztül.
+(16)[^21] Ha a személyes adatok megsértése az Európai Unió más tagállamában élő előfizetőket vagy felhasználókat érint, a Hivatal 72 órán belül értesíti a többi érintett nemzeti hatóságot az Európai Bizottság által közzétett kapcsolattartási pontokon keresztül.
 
-(17) A személyes adatok megsértése esetén mérlegelni kell, hogy az várhatóan hátrányosan érinti-e az előfizető, felhasználó, vagy más magánszemély személyes adatainak vagy magánéletének védelmét. A mérlegelés során figyelembe kell venni különösen:
+(17)[^22] A személyes adatok megsértése esetén mérlegelni kell, hogy az várhatóan hátrányosan érinti-e az előfizető vagy felhasználó személyes adatainak vagy magánéletének védelmét. A mérlegelés során figyelembe kell venni különösen:
 
 a) az érintett személyes adatok jellegét és tartalmát, különösen akkor, ha azok pénzügyi információkat, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 3. § 3. pontja szerinti különleges adatokat, helymeghatározási adatokat, internetes naplófájlokat, internetes böngészési előzményeket, elektronikus levelezési adatokat és tételes híváslistákat érintenek;
 
-b) a személyes adatok megsértésének várható következményeit az érintett előfizetőre, felhasználóra, vagy más magánszemélyre nézve, különösen akkor, ha a személyes adatok megsértése személyes adattal visszaéléshez, testi épség sérelméhez, becsületsértéshez, rágalmazáshoz vagy a jóhírnév sérelméhez vezethet; valamint
+b)[^23] a személyes adatok megsértésének várható következményeit az érintett előfizetőre vagy felhasználóra nézve, különösen akkor, ha a személyes adatok megsértése személyes adattal visszaéléshez, testi épség sérelméhez, becsületsértéshez, rágalmazáshoz vagy a jóhírnév sérelméhez vezethet; valamint
 
-c) a személyes adatok megsértésének körülményeit, különösen akkor, ha a Büntető Törvénykönyvről szóló 2012. évi C. törvényben szabályozott tiltott adatszerzés vagy információs rendszer vagy adat megsértése, valamint az információs rendszer védelmét biztosító technikai intézkedés kijátszása bűncselekmények gyanúja merül fel, vagy a szolgáltató tudomással bír arról, hogy az adatokat az adatkezelésre nem jogosult személyek kezelik.
+c)[^24] a személyes adatok megsértésének körülményeit, különösen akkor, ha a Büntető Törvénykönyvről szóló 2012. évi C. törvényben szabályozott tiltott adatszerzés, információs rendszer vagy adat megsértése, az információs rendszer védelmét biztosító technikai intézkedés kijátszása vagy a személyes adattal visszaélés bűncselekmények gyanúja merül fel, vagy a szolgáltató tudomással bír arról, hogy az adatokat az adatkezelésre nem jogosult személyek jogellenesen kezelik.
 
 (18) A (12) bekezdésben foglalt értesítésnek tartalmaznia kell:
 
@@ -86,7 +86,7 @@ d) a személyes adatok megsértésének becsült időpontját;
 
 e) az érintett személyes adatok jellegét és tartalmát, a (17) bekezdésre is figyelemmel;
 
-f) a lehetséges következményeket és kedvezőtlen hatásokat az előfizetőkre, felhasználókra, vagy más magánszemélyekre nézve, a (17) bekezdésre is figyelemmel;
+f)[^25] a lehetséges következményeket és kedvezőtlen hatásokat az előfizetőkre vagy felhasználókra nézve, a (17) bekezdésre is figyelemmel;
 
 g) a személyes adatok megsértésének körülményeit, a (17) bekezdésre is figyelemmel;
 
@@ -94,9 +94,9 @@ h) a személyes adatok megsértésének kezelésére a szolgáltató által alka
 
 i) a lehetséges kedvezőtlen hatások enyhítésére a szolgáltató által javasolt intézkedéseket;
 
-j) amennyiben az előfizető, felhasználó vagy más magánszemély értesítésekor a szolgáltató a személyes adatok megsértését a Hatóságnak már bejelentette, úgy az annak megtörténtéről szóló tájékoztatást is.
+j)[^26] amennyiben az előfizető vagy felhasználó értesítésekor a szolgáltató a személyes adatok megsértését a Hivatalnak már bejelentette, úgy az annak megtörténtéről szóló tájékoztatást is.
 
-(19) Ha a (12) bekezdésben foglalt értesítés veszélyeztetheti a személyes adat megsértésének megfelelő kivizsgálását, a szolgáltató – a Hatóság előzetes engedélyével – olyan időpontra halaszthatja az előfizető, felhasználó vagy magánszemély értesítését, amelyet a Hatóság már alkalmasnak tart az értesítés megtételére.
+(19)[^27] Ha a (12) bekezdésben foglalt értesítés veszélyeztetheti a személyes adat megsértésének megfelelő kivizsgálását, a szolgáltató – a Hivatal előzetes engedélyével – olyan időpontra halaszthatja az előfizető vagy felhasználó értesítését, amelyet a Hivatal már alkalmasnak tart az értesítés megtételére.
 
 (20) A szolgáltató által a személyes adatok megsértésének eseteiről vezetett nyilvántartásnak az Eht. 156. § (4) bekezdésében foglaltak alapján tartalmaznia kell a személyes adatok megsértésének lényeges körülményeit, különösen:
 
@@ -104,14 +104,40 @@ a) az esemény bekövetkeztének időpontját, szükség esetén becslés alapj�
 
 b) az esemény összefoglalását, megjelölve a személyes adatok megsértésének módját és körülményeit, továbbá az adatok megsértésének fizikai helyét és az érintett adathordozót is;
 
-c) az érintett előfizetők, felhasználók, vagy más magánszemélyek számát;
+c)[^28] az érintett előfizetők vagy felhasználók számát;
 
 d) az érintett személyes adatok jellegét és tartalmát;
 
-e) a lehetséges következmények és kedvezőtlen hatások ismertetését az előfizetőkre, felhasználókra, vagy más magánszemélyekre nézve;
+e)[^29] a lehetséges következmények és kedvezőtlen hatások ismertetését az előfizetőkre vagy felhasználókra nézve;
 
 f) a szolgáltató által a személyes adatok megsértésének lehetséges kedvezőtlen hatásai enyhítésére alkalmazott, vagy alkalmazni tervezett műszaki és szervezeti intézkedéseket.
 
-(21) A (20) bekezdésben foglalt nyilvántartásnak tartalmaznia kell továbbá a Hatóságnak történő bejelentés, valamint az előfizetők, vagy más magánszemélyek értesítésének időpontjára és módjára vonatkozó információkat is.
+(21)[^30] A (20) bekezdésben foglalt nyilvántartásnak tartalmaznia kell továbbá a Hivatalnak történő bejelentés, valamint az előfizetők vagy felhasználók értesítésének időpontjára és módjára vonatkozó információkat is.
 
-[^1]: Az 5. § a 21/2013. (XII. 4.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^4]: A 4. §-t a 11/2020. (XII. 11.) NMHH rendelet 10. §-a hatályon kívül helyezte.
+[^5]: Az 5. § a 21/2013. (XII. 4.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 5. § (1) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^9]: Az 5. § (4) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^10]: Az 5. § (7) bekezdés a) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^11]: Az 5. § (7) bekezdés b) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^12]: Az 5. § (7) bekezdés c) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^13]: Az 5. § (8) bekezdés nyitó szövegrésze a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^14]: Az 5. § (8) bekezdés a) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^15]: Az 5. § (8) bekezdés c) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^16]: Az 5. § (9) bekezdés a) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^17]: Az 5. § (10) bekezdés a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^18]: Az 5. § (11) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 5. § (12) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 3. §-ával megállapított szöveg.
+[^20]: Az 5. § (14) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^21]: Az 5. § (16) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^22]: Az 5. § (17) bekezdés nyitó szövegrésze a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^23]: Az 5. § (17) bekezdés b) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^24]: Az 5. § (17) bekezdés c) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^25]: Az 5. § (18) bekezdés f) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^26]: Az 5. § (18) bekezdés j) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^27]: Az 5. § (19) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^28]: Az 5. § (20) bekezdés c) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^29]: Az 5. § (20) bekezdés e) pontja a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
+[^30]: Az 5. § (21) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.

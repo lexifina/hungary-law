@@ -1,7 +1,13 @@
 ## 1. A rendelet hatálya
 
-1. § (1) A rendelet hatálya kiterjed a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: Hatóság), az Országos Informatikai és Hírközlési Főügyeletre (a továbbiakban: Főügyelet), a Magyarországon nyilvános elektronikus hírközlési szolgáltatást nyújtó természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező szervezetre (a továbbiakban együtt: szolgáltató), a szolgáltatóval munkaviszonyban, tagsági, illetve megbízási jogviszonyban álló személyre, az elektronikus hírközlési szolgáltatások előfizetőire (a továbbiakban: előfizető), illetve az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 188. § 26. pontban meghatározott felhasználók közül a természetes személy felhasználóira (a továbbiakban: felhasználó), valamint más természetes személyekre (a továbbiakban: más magánszemély).
+1. §[^1] (1) E rendelet hatálya kiterjed
 
-(2) A rendelet 7. és 8. §-ában foglalt rendelkezések hatálya kizárólag a szolgáltatók által nyújtott, nyilvánosan elérhető telefonszolgáltatásra terjed ki.
+a) a Magyarországon nyilvánosan elérhető elektronikus hírközlési szolgáltatást nyújtó természetes személyre, jogi személyre és egyéb szervezetre (a továbbiakban együtt: szolgáltató),
 
-(3) A rendelet hatálya nem terjed ki a titkos információgyűjtésre és a titkos adatszerzésre felhatalmazott szervezetek részére, valamint a bírói engedélyhez kötött titkos adatszerzés alapján végzett adatszolgáltatásra, valamint a kormányzati célú hálózat létesítésével és működtetésével összefüggő adatkezelésre.
+b) az elektronikus hírközlési szolgáltatások előfizetőire (a továbbiakban: előfizető), valamint
+
+c) az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 188. § 31. pontjában meghatározott felhasználók közül a természetes személy felhasználóra (a továbbiakban: felhasználó).
+
+(2) E rendelet hatálya nem terjed ki a titkos információgyűjtésre és a leplezett eszközök alkalmazására törvényben feljogosított szervezetekre, valamint a kormányzati célú hálózat létesítésével és működtetésével összefüggő adatkezelésre.
+
+[^1]: Az 1. § a 11/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
