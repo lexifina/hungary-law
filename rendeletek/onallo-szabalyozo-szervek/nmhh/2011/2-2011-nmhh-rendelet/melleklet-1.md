@@ -1,5 +1,6 @@
-## való megfelelést szolgálja.
+## 17. §[^45]
 
-1. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^81]
+1. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^46]
 
-[^81]: Az 1. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (3)–(6) bekezdése, 5. § (1) bekezdése és 6. §-a, a 17/2013. (X. 14.) NMHH rendelet 6–8. §-a, az 1/2016. (I. 15.) NMHH rendelet 6. § a) pontja és 19. § (2) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.
+[^45]: A 17. §-t a 14/2020. (XII. 15.) NMHH rendelet 31. § (1) bekezdés a) pont ab) alpontja hatályon kívül helyezte.
+[^46]: Az 1. mellékletet a 14/2020. (XII. 15.) NMHH rendelet 31. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.

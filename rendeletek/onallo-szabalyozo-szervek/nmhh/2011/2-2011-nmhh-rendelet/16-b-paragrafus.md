@@ -1,8 +1,8 @@
-## Emelt díjas szolgáltatásokhoz kapcsolódó számhasználati jogviszony speciális szabályai[^63]
+## Emelt díjas szolgáltatásokhoz kapcsolódó számhasználati jogviszony speciális szabályai[^33]
 
-16/B. §[^64] (1)[^65] Emelt díjas szolgáltatás nyújtása céljából számhasználati jogviszony csak külön erre a célra kötött számhasználati szerződés útján hozható létre. A szerződést írásban vagy elektronikus úton is meg lehet kötni, amennyiben a felek olyan eljárásokat alkalmaznak, amelyek révén biztosított a szerződést kötő felek azonosíthatósága, a szerződés tartalmának későbbi megállapíthatósága, valamint kizárható a szerződés tartalmának jogosulatlan megváltoztatása vagy hozzáférhetetlenné tétele.
+16/B. §[^34] (1)[^35] Emelt díjas szolgáltatás nyújtása céljából számhasználati jogviszony csak külön erre a célra kötött számhasználati szerződés útján hozható létre. A szerződést írásban vagy elektronikus úton is meg lehet kötni, amennyiben a felek olyan eljárásokat alkalmaznak, amelyek révén biztosított a szerződést kötő felek azonosíthatósága, a szerződés tartalmának későbbi megállapíthatósága, valamint kizárható a szerződés tartalmának jogosulatlan megváltoztatása vagy hozzáférhetetlenné tétele.
 
-(2)[^66] Az (1) bekezdés szerinti szerződésnek a 16/A. § (2) bekezdésében meghatározottakon felül tartalmaznia kell a nyújtani kívánt emelt díjas szolgáltatással kapcsolatban minden használni kívánt azonosítóra külön-külön:
+(2)[^36] Az (1) bekezdés szerinti szerződésnek a 16/A. § (2) bekezdésében meghatározottakon felül tartalmaznia kell a nyújtani kívánt emelt díjas szolgáltatással kapcsolatban minden használni kívánt azonosítóra külön-külön:
 
 a) a számhasználó által nyújtani kívánt szolgáltatás megnevezését;
 
@@ -40,7 +40,7 @@ l) a számhasználó által nyújtani kívánt szolgáltatáshoz kapcsolódó ma
 
 (3) A (2) bekezdésben szabályozott számhasználati szerződés e rendeletben foglaltak szerinti megfelelőségéért a kijelölési engedély jogosultja és a számhasználó egyaránt felel.
 
-[^63]: A 16/B. §-t megelőző alcímet az 1/2012. (I. 3.) NMHH rendelet 2. § (2) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
-[^64]: A 16/B. §-t az 1/2012. (I. 3.) NMHH rendelet 2. § (2) bekezdése iktatta be.
-[^65]: A 16/B. § (1) bekezdése a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
-[^66]: A 16/B. § (2) bekezdés nyitó szövegrésze a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^33]: A 16/B. §-t megelőző alcímet az 1/2012. (I. 3.) NMHH rendelet 2. § (2) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^34]: A 16/B. §-t az 1/2012. (I. 3.) NMHH rendelet 2. § (2) bekezdése iktatta be.
+[^35]: A 16/B. § (1) bekezdése a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^36]: A 16/B. § (2) bekezdés nyitó szövegrésze a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
