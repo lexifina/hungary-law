@@ -1,0 +1,3 @@
+28. § (1) Az Elnök az ajánlat benyújtására megállapított határidő elteltét követő 10 napon belül hivatalból, az ajánlati felhívás tárgyát képező szolgáltatáselemenként valamennyi ajánlatot tevő szolgáltatóval és a 29. § (3) bekezdés a) pontja szerinti valamennyi szolgáltatóval szemben megindítja a kijelölési eljárást.
+
+(2) Az Elnök az ajánlati felhívásban meghatározott elvek és szempontok alapján a legjobb ajánlat benyújtóját jelöli ki egyetemes szolgáltatóként. Ha valamely szolgáltatáselem vonatkozásában csak egy érvényes ajánlat került benyújtásra, az Elnök ezen ajánlat benyújtóját jelöli ki egyetemes szolgáltatóként az adott szolgáltatáselem vonatkozásában.

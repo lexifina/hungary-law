@@ -1,0 +1,3 @@
+## 43. § Ha az Elnök a 41. § szerinti vizsgálatok eredményeként megállapítja, hogy a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás igénybevételéhez szükséges végberendezések, továbbá az egyenértékű hozzáférést elősegítő meghatározott berendezések és szolgáltatások – beleértve szükség esetén a teljes körű beszélgetési szolgáltatásokat és a közvetítő szolgáltatásokat is – elérhetősége vagy megfizethetősége a 15. § szerint kijelölt valamely egyetemes szolgáltató esetében nem biztosított, akkor a fogyatékossággal élő fogyasztókkal kapcsolatos támogatási rendszer kidolgozása érdekében tájékoztatja a jogalkotásra jogosult szervet.
+
+## 11. Záró rendelkezések

@@ -1,0 +1,3 @@
+24. § (1) Az Elnök a 23. § (1) bekezdése szerinti vizsgálat eredményét közzéteszi a Hatóság honlapján, amelyben – a szolgáltatáselemek tervezett tartalmának ismertetésével együtt – megjelöli azon szolgáltatáselemet vagy szolgáltatáselemeket, amelyek egyetemes szolgáltatáselemként való további fenntartása indokolt.
+
+(2) Az (1) bekezdés szerinti közzétételt követően a szolgáltatók 30 napon belül megküldhetik a vizsgálat eredményével kapcsolatos észrevételeiket az Elnök számára. A beérkezett észrevételeket az Elnök megvizsgálja, és a megalapozott észrevételek alapján módosíthatja az egyetemes szolgáltatáselemek körét, tartalmát.

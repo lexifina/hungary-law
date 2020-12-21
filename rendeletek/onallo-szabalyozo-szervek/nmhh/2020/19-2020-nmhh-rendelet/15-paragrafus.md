@@ -1,0 +1,21 @@
+## 5. Az egyetemes szolgáltató kijelölése a megfizethető árú egyetemes szolgáltatás biztosítására
+
+15. § (1) Ha a 4. §-ban foglalt vizsgálatok eredményeként az Elnök olyan számozási körzetet azonosít, ahol a megfizethető árú egyetemes szolgáltatás elérhetősége nem biztosított valamennyi fogyasztó számára, akkor az Elnök hivatalból hatósági eljárást indít. Az Elnök a kijelölési határozatban egy adott számozási körzetben a megfizethető árú egyetemes szolgáltatás biztosítására valamennyi, az adott számozási körzetben helyhez kötött internet-hozzáférési szolgáltatást nyújtó, a helyhez kötött internet-hozzáférési szolgáltatás tekintetében összességében, az adott számozási körzeten kívüli előfizetőket is figyelembe véve legalább 30 000 előfizetővel rendelkező szolgáltatót egyetemes szolgáltatóként jelöli ki.
+
+(2) Az (1) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a Tpvt. 15. §-a szerint egy vállalkozáscsoportban tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden vállalkozást egyetemes szolgáltatóként jelöl ki.
+
+(3) Az Elnök a kijelölési határozatok véglegessé válását követő 5 napon belül a kijelölt szolgáltatók listáját és az egyetemes szolgáltatási kötelezettség részletes tartalmát számozási körzet szerinti bontásban közzéteszi a Hatóság honlapján.
+
+(4) A (3) bekezdés szerinti közzétételt követő 30 napon belül az Elnök számára bármely szolgáltató jelezheti a megfizethető árú egyetemes szolgáltatás nyújtására vonatkozó szándékát, és kérheti egyetemes szolgáltatóként történő kijelölését. A benyújtott kérelemnek tartalmaznia kell az egyetemes szolgáltatóként ellátni kívánt számozási körzetet vagy körzeteket és a szolgáltató nyilatkozatát arról, hogy az egyetemes szolgáltatásnyújtás (3) bekezdés szerint közzétett tartalmát magára nézve kötelezőként elfogadja. Az Elnök a kérelmet a beérkezést követő 15 napon belül elbírálja. Ha a kérelem megfelel e bekezdés szerinti feltételeknek, az Elnök hivatalból módosítja a kijelölési határozatot, és kérelmet benyújtó szolgáltatót is egyetemes szolgáltatóként jelöli ki a megfizethető árú egyetemes szolgáltatás biztosítására a kérelemben megjelölt számozási körzet vagy körzetek tekintetében.
+
+(5) A kijelölési határozat számozási körzetenként tartalmazza
+
+a) az egyetemes szolgáltató megnevezését;
+
+b) az egyetemes szolgáltatás tárgyát;
+
+c) az egyetemes szolgáltatás nyújtásának földrajzi területét;
+
+d) a megfizethető árú egyetemes szolgáltatás nyújtása megkezdésének időpontját és az egyetemes szolgáltatás nyújtásának időtartamát és
+
+e) az egyetemes szolgáltatót az egyetemes szolgáltatással kapcsolatban terhelő kötelezettségeket, ideértve a kedvezményes díjszabási lehetőségek vagy díjcsomagok nyújtásával kapcsolatos kötelezettség részletes tartalmát.
