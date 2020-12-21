@@ -1192,7 +1192,7 @@
 
 | 14.9. | Elsőfokú eljárás díja | 2000 |
 
-| 15. | ERDÉSZETI HATÓSÁGI ELJÁRÁSOK DÍJTÉTELEI |  |
+| 15. | ERDÉSZETI KÖZIGAZGATÁSI ELJÁRÁSOK DÍJTÉTELEI |  |
 
 | 15.1. | Helyszínelést nem igénylő eljárások |  |
 
@@ -1334,13 +1334,13 @@
 
 | 15.5.12. | Adatszolgáltatás keretében erdészeti nyilvántartási térkép adott részének másolatának (A4-es méretben) kiadása | 1000 |
 
-| 15.6. | Jogorvoslati eljárások |  |
+| 15.6. |  |  |
 
 | 15.6.1. |  |  |
 
 | 15.6.2.1. |  |  |
 
-| 15.6.2.2. | A 15.1-15.5 pontban foglalt eljárásban hozott határozat ellen kezdeményezett másodfokú eljárás díja. | a jogorvoslati kérelemmel érintett erdőrészlet, földrészlet vagy vonalas létesítmény szakasz alapul-vételével számított összeg 200 %-a |
+| 15.6.2.2. |  |  |
 
 | 15.6.3. |  |  |
 
@@ -2848,6 +2848,10 @@
 
 10032000-00289782-00000000
 
+1/a. A Nemzeti Földügyi Központ fizetési számlája:
+
+MÁK10032000-00358688-00000000
+
 2. Megyei kormányhivatalok általános számlaszámai:
 
 | Kormányhivatal | Számlaszám |
@@ -3040,4 +3044,4 @@
 
 | Zala Megyei Kormányhivatal erdészeti feladatok | 10049006-00302986-00000000 |
 
-[^18]: A 2. melléklet a 46/2016. (VII. 13.) FM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 2. melléklet a 46/2016. (VII. 13.) FM rendelet 1. §-ával megállapított, a 63/2020. (XII. 16.) AM rendelet 5. §-a szerint módosított szöveg.
