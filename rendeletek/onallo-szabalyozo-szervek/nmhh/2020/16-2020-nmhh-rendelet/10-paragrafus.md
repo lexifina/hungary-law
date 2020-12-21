@@ -1,0 +1,1 @@
+## 9. § A kötelezettségvállalásra vonatkozóan benyújtott kérelem elbírálása során az Elnök az Eht. 66/B. § (4) bekezdésében és a 10–16. §-okban rögzített feltételeknek való együttes megfelelést vizsgálja.

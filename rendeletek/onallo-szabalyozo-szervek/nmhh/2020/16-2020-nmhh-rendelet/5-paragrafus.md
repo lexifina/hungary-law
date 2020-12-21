@@ -1,0 +1,3 @@
+5. § (1) A számviteli szétválasztási kimutatásnak az Eht. 68. §-a szerinti jóváhagyása során – kétség esetén – a kötelezett szolgáltatót terheli annak bizonyítása, hogy a benyújtott számviteli szétválasztási kimutatásban és a kapcsolódó dokumentumokban foglaltak megfelelnek az elektronikus hírközlésre vonatkozó szabálynak.
+
+(2) A Hatóság a számviteli szétválasztási kimutatásban foglalt adatokat a feladatainak ellátásához felhasználhatja, továbbá azokat az Eht. 20. § (3) bekezdésével és 33. § (5) bekezdésével összhangban a szükséges mértékig a versenyhatóság rendelkezésére bocsáthatja a kötelezett szolgáltató egyidejű értesítésével.
