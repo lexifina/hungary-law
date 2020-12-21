@@ -1,10 +1,10 @@
-1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^175]
+1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^246]
 
 Nemzetközi felosztás
 
 1. Az RR szerinti három földrajzi Körzet
 
-1.1. A frekvenciagazdálkodás az ENSZ szakági feladatait ellátó ITU Alapokmányában és Egyezményében meghatározottak szerint jut érvényre világszerte, így Magyarországon is.
+1.1. A rádióspektrum-gazdálkodás az ENSZ szakági feladatait ellátó ITU Alapokmányában és Egyezményében meghatározottak szerint jut érvényre világszerte, így Magyarországon is.
 
 1.2. Az ITU tagállamainak Meghatalmazotti Értekezlete által összehívott Rádiótávközlési Világértekezletek keretében az érintett államok együttműködésével határoznak a rádióspektrum felosztásáról, a rádiószolgálatok sávhatárairól. A három Körzet földrajzi határait az alábbi ábra mutatja.
 
@@ -12,11 +12,11 @@ Nemzetközi felosztás
 
 2.1. Általános leírás
 
-2.1.1. A 2.2. pontban foglalt táblázat A−C oszlopa az RR alapján közzéteszi az 1. pont szerinti Körzetekre érvényes felosztást. Ennek keretében meghatározza a felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően frekvenciasávonként, valamint a frekvenciafelhasználás feltételeit – különösen a helyettesítő és a járulékos felosztást, az eltérő szolgálati kategóriát, a korlátozásokat, a műszaki követelményeket, az eljárási és rádióforgalmazási szabályokat – tartalmazó lábjegyzetek hivatkozási számait. A lábjegyzetek hivatkozási számát – az RR szerinti számozással megegyezően, 5.53-tól kezdődően –, valamint szövegét a 3. pont tartalmazza.
+2.1.1. A 2.2. pontban foglalt táblázat A−C oszlopa az RR alapján közzéteszi az 1. pont szerinti Körzetekre érvényes felosztást. Ennek keretében meghatározza a felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően frekvenciasávonként, valamint a rádióspektrum-használat feltételeit – különösen a helyettesítő és a járulékos felosztást, az eltérő szolgálati kategóriát, a korlátozásokat, a műszaki követelményeket, az eljárási és rádióforgalmazási szabályokat – tartalmazó lábjegyzetek hivatkozási számait. A lábjegyzetek hivatkozási számát – az RR szerinti számozással megegyezően, 5.53-tól kezdődően –, valamint szövegét a 3. pont tartalmazza.
 
-2.1.2. A táblázat D oszlopa tartalmazza az RR szerint a Magyarországra érvényes felosztást. Ennek keretében meghatározza a Magyarországon felosztható rádiószolgálatokat szolgálati kategóriáiknak megfelelően, valamint a magyarországi frekvenciafelhasználásra vonatkozó, lábjegyzetekben foglalt feltételeket.
+2.1.2. A táblázat D oszlopa tartalmazza az RR szerint a Magyarországra érvényes felosztást. Ennek keretében meghatározza a Magyarországon felosztható rádiószolgálatokat szolgálati kategóriáiknak megfelelően, valamint a magyarországi rádióspektrum-használatra vonatkozó, lábjegyzetekben foglalt feltételeket.
 
-2.1.3. A táblázatban a szolgálati kategória a frekvenciafelhasználó részére nemzetközi szinten állapít meg zavarvédelmet vagy zavarokozás szempontjából használati korlátozást. A táblázatban meghatározott szolgálati kategóriától lábjegyzet eltérően is rendelkezhet. Az elsődleges rádiószolgálat – kiegészítés nélküli – megnevezése nagybetűvel, a másodlagosé nagy kezdőbetűt követően kisbetűvel van jelölve.
+2.1.3. A táblázatban a szolgálati kategória a rádióspektrum-használó részére nemzetközi szinten állapít meg zavarvédelmet vagy zavarokozás szempontjából használati korlátozást. A táblázatban meghatározott szolgálati kategóriától lábjegyzet eltérően is rendelkezhet. Az elsődleges rádiószolgálat – kiegészítés nélküli – megnevezése nagybetűvel, a másodlagosé nagy kezdőbetűt követően kisbetűvel van jelölve.
 
 2.1.4. A táblázat alkalmazása során az adott mezőben és a mező lábjegyzeteiben foglaltakat együttesen kell alkalmazni, arra figyelemmel, hogy a lábjegyzetben foglalt rendelkezés:
 
@@ -28,4 +28,4 @@ Nemzetközi felosztás
 
 2.2. Táblázat
 
-[^175]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése, az 1/2018. (V. 29.) NMHH rendelet 4. § (1) bekezdése és az 5. § (2) bekezdése, az 1/2019. (I. 22.) NMHH rendelet 6. § (1) bekezdése, 7. § (2) bekezdése, 8. § b) pontja, a 6/2019. (XII. 23.) NMHH rendelet 4. § (2) bekezdése, a 3/2020. (X. 5.) NMHH rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^246]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése, az 1/2018. (V. 29.) NMHH rendelet 4. § (1) bekezdése és az 5. § (2) bekezdése, az 1/2019. (I. 22.) NMHH rendelet 6. § (1) bekezdése, 7. § (2) bekezdése, 8. § b) pontja, a 6/2019. (XII. 23.) NMHH rendelet 4. § (2) bekezdése, a 3/2020. (X. 5.) NMHH rendelet 4. § (2) bekezdése, a 18/2020. (XII. 17.) NMHH rendelet 6. § (4) bekezdése szerint módosított szöveg.
