@@ -1,207 +1,221 @@
-4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^64]
+4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^94]
 
-Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok frekvenciahasználati díjai
+## Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok rádióspektrum-használati díjai
 
-Területre szóló, telephely nélküli frekvenciakijelölésű hálózatok 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
+1. Területre szóló, telephely nélküli frekvenciakijelölésű hálózatok 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjai (Ft/kHz/hó)
 
-| Frekvenciasáv (F) (MHz) | Felhasználási körzet |
+|  | A | B | C | D | E | F | G |
 
-| Mikro <1 km2 | Helyi <300 km2 | Kis <2500 km2 | Nagy <20 000 km2 | Regionális <75 000 km2 | Országos >75 000 km2 |
+| 1 | Frekvenciasáv (F) (MHz) | Felhasználási körzet |
 
-| 26<F<47 | 25 | 120 | 180 | 420 | 2700 | 4800 |
+| 2 | Mikro ≤1 km2 | Helyi ≤300 km2 | Kis ≤2500 km2 | Nagy ≤20 000 km2 | Regionális ≤75 000 km2 | Országos > 75 000 km2 |
 
-| 47<F<108 | 15 | 80 | 120 | 280 | 1800 | 3200 |
+| 3 | 26 < F ≤47 | 25 | 120 | 180 | 420 | 2 700 | 4 800 |
 
-| 108<F<240 | 15 | 80 | 120 | 280 | 1800 | 3200 |
+| 4 | 47 < F ≤108 | 15 | 80 | 120 | 280 | 1 800 | 3 200 |
 
-| 240<F<380 | 10 | 40 | 60 | 140 | 900 | 1600 |
+| 5 | 108 < F ≤240 | 15 | 80 | 120 | 280 | 1 800 | 3 200 |
 
-| 380<F<790 | 5 | 20 | 30 | 70 | 450 | 800 |
+| 6 | 240 < F ≤380 | 10 | 40 | 60 | 140 | 900 | 1 600 |
 
-| 790<F<960 | 3 | 15 | 22 | 50 | 300 | 450 |
+| 7 | 380 < F ≤790 | 5 | 20 | 30 | 70 | 450 | 800 |
 
-| 960<F<10000 | 2 | 10 | 15 | 40 | 250 | 350 |
+| 8 | 790 < F ≤960 | 3 | 15 | 22 | 50 | 300 | 450 |
 
-| 1. táblázat |
+| 9 | 960 < F ≤10 000 | 2 | 10 | 15 | 40 | 250 | 350 |
 
-| 2. táblázat |
+2. A mozgószolgálati hálózatok állomásainak és berendezéseinek kategória szerinti rádióspektrum-használati díja
 
-A mozgószolgálati hálózatok állomásainak és berendezéseinek kategória szerinti frekvenciahasználati díja
+|  | A | B |
 
-|  | Állomás és berendezés kategória | Ft/db/hó |
+| 1 | Állomás és berendezés kategória | Ft/db/hó |
 
-|  | Mozgó állomások | 100 |
+| 2 | Mozgóállomások | 100 |
 
-|  | Helyhez kötött állomások | 5000 |
+| 3 | Helyhez kötött állomások | 5 000 |
 
-|  | Fix és változó telephelyű állomások | 3000 |
+| 4 | Fix és változó telephelyű állomások | 3 000 |
 
-|  | Tartalék berendezések | 100 |
+| 5 | Tartalék berendezések | 100 |
 
-|  | 3. táblázat |
+3. A 26–47 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
 
-A 26-47 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
+(Ft/kHz/hó)
 
-|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
+| 1 | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
-|  | ERP<0,1 W | 14 | 42 | 84 | 168 | 252 | 518 | 742 | 1 960 |
+| 2 | h ≤10 m | 10 m < h ≤30 m | 30 m < h ≤50 m | 50 m < h ≤100 m | 100 m < h ≤250 m | 250 m < h ≤350 m | 350 m < h ≤500 m | 500 m < h |
 
-|  | 0,1 W<ERP<0,5 W | 28 | 70 | 140 | 280 | 420 | 840 | 1 190 | 3 150 |
+| 3 | ERP ≤0,1 W | 14 | 42 | 84 | 168 | 252 | 518 | 742 | 1 960 |
 
-|  | 0,5 W<ERP<3 W | 42 | 119 | 210 | 350 | 700 | 1190 | 2 030 | 5 460 |
+| 4 | 0,1 W < ERP ≤0,5 W | 28 | 70 | 140 | 280 | 420 | 840 | 1 190 | 3 150 |
 
-|  | 3 W<ERP<10 W | 84 | 182 | 350 | 630 | 1540 | 2730 | 3 920 | 7 840 |
+| 5 | 0,5 W < ERP ≤3 W | 42 | 119 | 210 | 350 | 700 | 1190 | 2 030 | 5 460 |
 
-|  | 10 W<ERP<100 W | 140 | 308 | 700 | 1540 | 3360 | 5460 | 6 230 | 14 000 |
+| 6 | 3 W < ERP ≤10 W | 84 | 182 | 350 | 630 | 1 540 | 2 730 | 3 920 | 7 840 |
 
-|  | ERP>100 W | 280 | 560 | 1120 | 2520 | 5460 | 9100 | 10 080 | 22 400 |
+| 7 | 10 W < ERP ≤100 W | 140 | 308 | 700 | 1 540 | 3 360 | 5 460 | 6 230 | 14 000 |
 
-| 4. táblázat |
+| 8 | ERP > 100 W | 280 | 560 | 1 120 | 2 520 | 5 460 | 9 100 | 10 080 | 22 400 |
 
-A 47-108 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
+4. A 47–108 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
 
-|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
+(Ft/kHz/hó)
 
-|  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | ERP<0,1 W | 6 | 18 | 36 | 72 | 108 | 222 | 318 | 840 |
+| 1 | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
-|  | 0,1 W<ERP<0,5 W | 12 | 30 | 60 | 120 | 180 | 360 | 510 | 1350 |
+| 2 | h ≤10 m | 10 m < h ≤30 m | 30 m < h ≤50 m | 50 m < h ≤100 m | 100 m < h ≤250 m | 250 m < h ≤350 m | 350 m < h ≤500 m | 500 m < h |
 
-|  | 0,5 W<ERP<3 W | 18 | 51 | 90 | 150 | 300 | 510 | 870 | 2340 |
+| 3 | ERP ≤0,1 W | 6 | 18 | 36 | 72 | 108 | 222 | 318 | 840 |
 
-|  | 3 W<ERP<10 W | 36 | 78 | 150 | 270 | 660 | 1170 | 1680 | 3360 |
+| 4 | 0,1 W < ERP ≤0,5 W | 12 | 30 | 60 | 120 | 180 | 360 | 510 | 1 350 |
 
-|  | 10 W<ERP<100 W | 60 | 132 | 300 | 660 | 1440 | 2340 | 2670 | 6000 |
+| 5 | 0,5 W < ERP ≤3 W | 18 | 51 | 90 | 150 | 300 | 510 | 870 | 2 340 |
 
-|  | ERP>100 W | 120 | 240 | 480 | 1080 | 2340 | 3900 | 4320 | 9600 |
+| 6 | 3 W < ERP ≤10 W | 36 | 78 | 150 | 270 | 660 | 1 170 | 1 680 | 3 360 |
 
-| 5. táblázat |
+| 7 | 10 W < ERP ≤100 W | 60 | 132 | 300 | 660 | 1 440 | 2 340 | 2 670 | 6 000 |
 
-A 108-240 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
+| 8 | ERP > 100 W | 120 | 240 | 480 | 1 080 | 2 340 | 3 900 | 4 320 | 9 600 |
 
-|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
+5. A 108–240 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
 
-|  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
+(Ft/kHz/hó)
 
-|  | ERP<0,1 W | 10 | 30 | 60 | 120 | 180 | 370 | 530 | 1 400 |
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | 0,1 W<ERP<0,5 W | 20 | 50 | 100 | 200 | 300 | 600 | 850 | 2 250 |
+| 1 | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
-|  | 0,5 W<ERP<3 W | 30 | 85 | 150 | 250 | 500 | 850 | 1450 | 3 900 |
+| 2 | h ≤10 m | 10 m < h ≤30 m | 30 m < h ≤50 m | 50 m < h ≤100 m | 100 m < h ≤250 m | 250 m < h ≤350 m | 350 m < h ≤500 m | 500 m < h |
 
-|  | 3 W<ERP<10 W | 60 | 130 | 250 | 450 | 1100 | 1950 | 2800 | 5 600 |
+| 3 | ERP ≤0,1 W | 10 | 30 | 60 | 120 | 180 | 370 | 530 | 1 400 |
 
-|  | 10 W<ERP<100 W | 100 | 220 | 500 | 1100 | 2400 | 3900 | 4450 | 10 000 |
+| 4 | 0,1 W < ERP ≤0,5 W | 20 | 50 | 100 | 200 | 300 | 600 | 850 | 2 250 |
 
-|  | ERP>100 W | 200 | 400 | 800 | 1800 | 3900 | 6500 | 7200 | 16 000 |
+| 5 | 0,5 W < ERP ≤3 W | 30 | 85 | 150 | 250 | 500 | 850 | 1 450 | 3 900 |
 
-| 6. táblázat |
+| 6 | 3 W < ERP ≤10 W | 60 | 130 | 250 | 450 | 1 100 | 1 950 | 2 800 | 5 600 |
 
-A 240-380 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
+| 7 | 10 W < ERP ≤100 W | 100 | 220 | 500 | 1 100 | 2 400 | 3 900 | 4 450 | 10 000 |
 
-|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
+| 8 | ERP > 100 W | 200 | 400 | 800 | 1 800 | 3 900 | 6 500 | 7 200 | 16 000 |
 
-|  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
+6. A 240–380 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
 
-|  | ERP<0,1 W | 8 | 22 | 43 | 87 | 130 | 267 | 382 | 1 008 |
+(Ft/kHz/hó)
 
-|  | 0,1 W<ERP<0,5 W | 15 | 36 | 72 | 144 | 216 | 432 | 612 | 1 620 |
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | 0,5 W<ERP<3 W | 22 | 61 | 108 | 180 | 360 | 612 | 1044 | 2 808 |
+| 1 | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
-|  | 3 W<ERP<10 W | 43 | 94 | 180 | 324 | 792 | 1404 | 2016 | 4 032 |
+| 2 | h ≤10 m | 10 m < h ≤30 m | 30 m < h ≤50 m | 50 m < h ≤100 m | 100 m < h ≤250 m | 250 m < h ≤350 m | 350 m < h ≤500 m | 500 m < h |
 
-|  | 10 W<ERP<100 W | 72 | 158 | 360 | 792 | 1728 | 2808 | 3204 | 7 200 |
+| 3 | ERP ≤0,1 W | 8 | 22 | 43 | 87 | 130 | 267 | 382 | 1 008 |
 
-|  | ERP>100 W | 144 | 288 | 576 | 1296 | 2808 | 4680 | 5184 | 11 520 |
+| 4 | 0,1 W < ERP ≤0,5 W | 15 | 36 | 72 | 144 | 216 | 432 | 612 | 1 620 |
 
-| 7. táblázat |
+| 5 | 0,5 W < ERP ≤3 W | 22 | 61 | 108 | 180 | 360 | 612 | 1 044 | 2 808 |
 
-A 380-790 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
+| 6 | 3 W < ERP ≤10 W | 43 | 94 | 180 | 324 | 792 | 1 404 | 2 016 | 4 032 |
 
-|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
+| 7 | 10 W < ERP ≤100 W | 72 | 158 | 360 | 792 | 1 728 | 2 808 | 3 204 | 7 200 |
 
-|  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
+| 8 | ERP > 100 W | 144 | 288 | 576 | 1 296 | 2 808 | 4 680 | 5 184 | 11 520 |
 
-|  | ERP<0,1 W | 6 | 17 | 34 | 67 | 101 | 207 | 297 | 784 |
+7. A 380–790 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
 
-|  | 0,1 W<ERP<0,5 W | 11 | 28 | 56 | 112 | 168 | 336 | 476 | 1260 |
+(Ft/kHz/hó)
 
-|  | 0,5 W<ERP<3 W | 17 | 48 | 84 | 140 | 280 | 476 | 812 | 2184 |
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | 3 W<ERP<10 W | 34 | 73 | 140 | 252 | 616 | 1092 | 1568 | 3136 |
+| 1 | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
-|  | 10 W<ERP<100 W | 56 | 123 | 280 | 616 | 1344 | 2184 | 2492 | 5600 |
+| 2 | h ≤10 m | 10 m < h ≤30 m | 30 m < h ≤50 m | 50 m < h ≤100 m | 100 m < h ≤250 m | 250 m < h ≤350 m | 350 m < h ≤500 m | 500 m < h |
 
-|  | ERP>100 W | 112 | 224 | 448 | 1008 | 2184 | 3640 | 4032 | 8960 |
+| 3 | ERP ≤0,1 W | 6 | 17 | 34 | 67 | 101 | 207 | 297 | 784 |
 
-| 8. táblázat |
+| 4 | 0,1 W < ERP ≤0,5 W | 11 | 28 | 56 | 112 | 168 | 336 | 476 | 1 260 |
 
-A 790-960 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
+| 5 | 0,5 W < ERP ≤3 W | 17 | 48 | 84 | 140 | 280 | 476 | 812 | 2 184 |
 
-|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
+| 6 | 3 W < ERP ≤10 W | 34 | 73 | 140 | 252 | 616 | 1 092 | 1 568 | 3 136 |
 
-|  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
+| 7 | 10 W < ERP ≤100 W | 56 | 123 | 280 | 616 | 1 344 | 2 184 | 2 492 | 5 600 |
 
-|  | ERP<0,1 W | 4 | 12 | 24 | 48 | 72 | 148 | 212 | 560 |
+| 8 | ERP > 100 W | 112 | 224 | 448 | 1 008 | 2 184 | 3 640 | 4 032 | 8 960 |
 
-|  | 0,1 W<ERP<0,5 W | 8 | 20 | 40 | 80 | 120 | 240 | 340 | 900 |
+8. A 790–960 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak
 
-|  | 0,5 W<ERP<3 W | 12 | 34 | 60 | 100 | 200 | 340 | 580 | 1560 |
+(Ft/kHz/hó)
 
-|  | 3 W<ERP<10 W | 24 | 52 | 100 | 180 | 440 | 780 | 1120 | 2240 |
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | 10 W<ERP<100 W | 40 | 88 | 200 | 440 | 960 | 1560 | 1780 | 4000 |
+| 1 | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
-|  | ERP>100 W | 80 | 160 | 320 | 720 | 1560 | 2600 | 2880 | 6400 |
+| 2 | h ≤10 m | 10 m < h ≤30 m | 30 m < h ≤50 m | 50 m < h ≤100 m | 100 m < h ≤250 m | 250 m < h ≤350 m | 350 m < h ≤500 m | 500 m < h |
 
-| 9. táblázat |
+| 3 | ERP ≤0,1 W | 4 | 12 | 24 | 48 | 72 | 148 | 212 | 560 |
 
-A 960-10 000 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
+| 4 | 0,1 W < ERP ≤0,5 W | 8 | 20 | 40 | 80 | 120 | 240 | 340 | 900 |
 
-|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
+| 5 | 0,5 W < ERP ≤3 W | 12 | 34 | 60 | 100 | 200 | 340 | 580 | 1 560 |
 
-|  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
+| 6 | 3 W < ERP ≤10 W | 24 | 52 | 100 | 180 | 440 | 780 | 1 120 | 2 240 |
 
-|  | ERP<0,1 W | 3 | 10 | 19 | 38 | 58 | 118 | 170 | 448 |
+| 7 | 10 W < ERP ≤100 W | 40 | 88 | 200 | 440 | 960 | 1 560 | 1 780 | 4 000 |
 
-|  | 0,1 W<ERP<0,5 W | 6 | 16 | 32 | 64 | 96 | 192 | 272 | 720 |
+| 8 | ERP > 100 W | 80 | 160 | 320 | 720 | 1 560 | 2 600 | 2 880 | 6 400 |
 
-|  | 0,5 W<ERP<3 W | 10 | 27 | 48 | 80 | 160 | 272 | 464 | 1248 |
+9. A 960–10 000 MHz frekvenciasávban az 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjak (Ft/kHz/hó)
 
-|  | 3 W<ERP<10 W | 19 | 42 | 80 | 144 | 352 | 624 | 896 | 1792 |
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | 10 W<ERP<100 W | 32 | 70 | 160 | 352 | 768 | 1248 | 1424 | 3200 |
+| 1 | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
-|  | ERP>100 W | 64 | 128 | 256 | 576 | 1248 | 2080 | 2304 | 5120 |
+| 2 | h ≤10 m | 10 m < h ≤30 m | 30 m < h ≤50 m | 50 m < h ≤100 m | 100 m < h ≤250 m | 250 m < h ≤350 m | 350 m < h ≤500 m | 500 m < h |
 
-| 10. táblázat |
+| 3 | ERP ≤0,1 W | 3 | 10 | 19 | 38 | 58 | 118 | 170 | 448 |
 
-Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok frekvenciahasználati díjának megállapítási módja
+| 4 | 0,1 W < ERP ≤0,5 W | 6 | 16 | 32 | 64 | 96 | 192 | 272 | 720 |
 
-1. a) Telephely nélküli frekvenciakijelölésű mozgó és állandóhelyű hálózatok esetében az engedélyezett frekvenciát tartalmazó frekvenciasáv és a felhasználási körzet által együttesen meghatározott frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1. táblázatból,
+| 5 | 0,5 W < ERP ≤3 W | 10 | 27 | 48 | 80 | 160 | 272 | 464 | 1 248 |
 
-b) az a) alatti frekvenciahasználati egységdíjat a hálózatra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+| 6 | 3 W < ERP ≤10 W | 19 | 42 | 80 | 144 | 352 | 624 | 896 | 1 792 |
 
-2.
+| 7 | 10 W < ERP ≤100 W | 32 | 70 | 160 | 352 | 768 | 1 248 | 1 424 | 3 200 |
 
-3. a) Telephely nélküli, illetőleg telephelyre szóló frekvenciakijelölésű mozgó szolgálati hálózatok állomásai, illetőleg berendezései esetében azok kategóriájának megfelelő frekvenciahasználati díjat (Ft/db/hó) kell kiválasztani a 3. táblázatból,
+| 8 | ERP > 100 W | 64 | 128 | 256 | 576 | 1 248 | 2 080 | 2 304 | 5 120 |
 
-b) az a) alatti frekvenciahasználati díjat több engedélyezett állomás, illetőleg berendezés esetében az azonos kategóriába tartozó állomások, illetve berendezések számával meg kell szorozni, és az eredményül kapott frekvenciahasználati díjakat össze kell adni.
+10. Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok rádióspektrum-használati díjának megállapítási módja
 
-4. a) Telephelyre szóló frekvenciakijelölésű mozgószolgálati hálózatok helyhez kötött állomásai és telephelyre szóló frekvenciakijelölésű állandóhelyű szolgálati hálózatok állandóhelyű állomásai esetében az engedélyezett frekvenciát tartalmazó táblázatot kell kiválasztani a 4–10. táblázatok közül,
+10.1. Telephely nélküli frekvenciakijelölésű mozgó- és állandóhelyű szolgálati hálózatok esetében
 
-b) a kiválasztott táblázatban az átlagos effektív kisugárzott teljesítmény (átlagos ERP) és az átlagos effektív antennamagasság (átlagos heff) által együttesen meghatározott frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani,
+10.1.1. az engedélyezett frekvenciát tartalmazó frekvenciasáv és a felhasználási körzet által együttesen meghatározott rádióspektrum-használati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1. pontban foglalt táblázatból,
 
-c) a b) alatti frekvenciahasználati egységdíjat az állomásra engedélyezett és egyidejűleg felhasználható frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+10.1.2. a 10.1.1. pont alatti rádióspektrum-használati egységdíjat a hálózatra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-5. A helyhez kötött és az állandóhelyű állomásokon a vételi frekvenciák díjmegállapításához is az állomás átlagos effektív kisugárzott teljesítményét kell figyelembe venni.
+10.2. Telephely nélküli, illetve telephelyre szóló frekvenciakijelölésű mozgószolgálati hálózatok állomásai, berendezései esetében
 
-6. A csak vételre szolgáló csillagponti állomás ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-je közül a legnagyobbat kell figyelembe venni a frekvenciadíj megállapításához.
+10.2.1. azok kategóriájának megfelelő rádióspektrum-használati díjat (Ft/db/hó) kell kiválasztani a 2. pontban foglalt táblázatból,
 
-7. A helyhez kötött és az állandóhelyű állomások átlagos effektív antenna magasságának kiszámításánál a heff legkisebb figyelembe vehető értéke az antenna földfelszín feletti magassága.
+10.2.2. a 10.2.1. pont alatti rádióspektrum-használati díjat több engedélyezett állomás, berendezés esetében az azonos kategóriába tartozó állomások, illetve berendezések számával meg kell szorozni, és az eredményül kapott rádióspektrum-használati díjakat össze kell adni.
 
-[^64]: A 4. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 10. § (2) bekezdése, a 11. § 17. pontja, a 12. § e) pontja szerint módosított szöveg.
+10.3. Telephelyre szóló frekvenciakijelölésű mozgószolgálati hálózatok helyhez kötött állomásai és telephelyre szóló frekvenciakijelölésű állandóhelyű szolgálati hálózatok állandóhelyű állomásai esetében
+
+10.3.1. az engedélyezett frekvenciát tartalmazó táblázatot kell kiválasztani a 3–9. pontban foglalt táblázatok közül,
+
+10.3.2. a kiválasztott táblázatban az átlagos effektív kisugárzott teljesítmény (átlagos ERP) és az átlagos effektív antennamagasság által együttesen meghatározott rádióspektrum-használati egységdíjat (Ft/kHz/hó) kell kiválasztani,
+
+10.3.3. a 10.3.2. pont alatti rádióspektrum-használati egységdíjat az állomásra engedélyezett és egyidejűleg felhasználható frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+
+10.4. A helyhez kötött és az állandóhelyű állomásokon a vételi frekvenciák díjmegállapításához is az állomás átlagos effektív kisugárzott teljesítményét kell figyelembe venni.
+
+10.5. A csak vételre szolgáló csillagponti állomás ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-je közül a legnagyobbat kell figyelembe venni a rádióspektrum-díj megállapításához.
+
+10.6. A helyhez kötött és az állandóhelyű állomások átlagos effektív antennamagasságának kiszámításánál az effektív antennamagasság legkisebb figyelembe vehető értéke az antenna földfelszín feletti magassága.
+
+[^94]: A 4. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § d) pontjával megállapított szöveg.

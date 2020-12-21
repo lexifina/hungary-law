@@ -1,33 +1,28 @@
-## Telephelyre szóló frekvenciakijelölésű, saját távközlési igény kielégítésére szolgáló 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, illetőleg állomásainak frekvenciadíja[^27]
+## Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, állomásainak rádióspektrumdíja[^48]
 
-15. § (1)[^28] A pont-többpont rendszerű hálózatok esetében a jogosított egyszeri frekvencialekötési díj megfizetésére köteles minden csillagponti állomás után, a 3. számú melléklet 2. táblázata alapján.
+15. §[^49] (1) A pont-többpont rendszerű hálózatok esetében a jogosított rádióspektrum-lekötési díjat minden csillagponti állomás után fizet, a 3. számú melléklet 2. pontjában foglalt táblázat alapján.
 
-(2) A pont-pont rendszerű hálózatok esetében a jogosítottnak egyszeri frekvencialekötési díjként a 3. számú melléklet 2. táblázata alapján megállapított díj 50%-át kell állomásonként megfizetnie.
+(2) A pont-pont rendszerű hálózatok esetében a jogosított által fizetendő rádióspektrum-lekötési díj állomásonként a 3. számú melléklet 2. pontjában foglalt táblázat alapján megállapított díj 50%-a.
 
-(3)[^29] A pont-többpont rendszerű hálózatok frekvenciahasználati díját csillagponti állomásonként és frekvenciánként a 4. számú melléklet 4–10. táblázata szerint kell fizetni.
+(3) A pont-többpont rendszerű hálózatok rádióspektrum-használati díját csillagponti állomásonként és frekvenciánként a 4. számú melléklet 3–9. pontjában foglalt táblázatok szerint kell fizetni.
 
-(4)[^30] A jogosított a hálózat állomásai és berendezései után – azok kategóriájától függően – az 5. számú melléklet 1. pontjában foglalt táblázat szerinti frekvenciahasználati díjat köteles megfizetni.
+(4) A jogosított a hálózat állomásai és berendezései után – azok kategóriájától függően – az 5. számú melléklet 1. pontjában foglalt táblázat szerinti rádióspektrum-használati díjat fizeti.
 
-(5)[^31] A jogosítottnak frekvenciahasználati díjként a 4. számú melléklet 4–10. táblázatai és az 5. számú melléklet 1. pontjában foglalt táblázat alapján megállapított díjak összegét kell megfizetnie.
+(5) A jogosított rádióspektrum-használati díjként a 4. számú melléklet 3–9. pontjában foglalt táblázatok és az 5. számú melléklet 1. pontjában foglalt táblázat alapján megállapított rádióspektrumdíjak összegét fizeti.
 
-(6) A pont-pont rendszerű hálózat esetében az állandóhelyű állomások frekvenciahasználati díja állomásonként a 4. számú melléklet 4–10. táblázatai alapján megállapított díj 50%-a.
+(6) Pont-pont rendszerű hálózat esetében az állandóhelyű állomások után fizetendő rádióspektrum-használati díj állomásonként a 4. számú melléklet 3–9. pontjában foglalt táblázatok alapján megállapított díj 50%-a.
 
-(7)[^32] Pont-többpont rendszer esetében minden Budapest környezetébe eső
+(7) Pont-többpont rendszer esetében minden Budapest környezetébe eső
 
-a) csillagponti állomás után az (1), (3) és (4) bekezdés, és
+a) csillagponti állomás után az (1), (3) és (4) bekezdés és
 
 b) nem csillagponti állomás után a (4) bekezdés
 
-szerinti díj kétszeresét kell fizetni.
+## szerinti díj kétszeresét kell fizetni.
 
-(7a)[^33] Pont-pont rendszer esetében – ha az összeköttetés legalább egyik pontja Budapest környezetében van – az összeköttetés mindkét pontján lévő állomásra a (2), (4) és (6) bekezdés szerinti díj kétszeresét kell fizetni.
+(8) Pont-pont rendszer esetében – ha az összeköttetés legalább egyik pontja Budapest környezetében van – az összeköttetés mindkét pontján lévő állomásra a (2), (4) és (6) bekezdés szerinti díj kétszeresét kell fizetni.
 
-(8) Pont-többpont rendszerű hálózatban megosztott frekvenciahasználat esetében a 4. számú melléklet 4–10. táblázatai szerint megállapított díj 50%-át kell frekvenciahasználati díjként megfizetni.
+(9) Pont-többpont rendszerű hálózatban megosztott rádióspektrum-használat esetében a 4. számú melléklet 3–9. pontjában foglalt táblázatok szerint megállapított díj 50%-a a rádióspektrum-használati díj.
 
-[^27]: A 15. §-t megelőző alcím cím a 2/2016. (II. 26.) NMHH rendelet 11. § 7. pontja szerint módosított szöveg.
-[^28]: A 15. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 8. pont a) alpontja szerint módosított szöveg.
-[^29]: A 15. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^30]: A 15. § (4) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 8. pont b) alpontja szerint módosított szöveg.
-[^31]: A 15. § (5) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 8. pont b) alpontja szerint módosított szöveg.
-[^32]: A 15. § (7) bekezdése a 2/2016. (II. 26.) NMHH rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^33]: A 15. § (7a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 5. § (2) bekezdése iktatta be.
+[^48]: A 15. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^49]: A 15. § a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.

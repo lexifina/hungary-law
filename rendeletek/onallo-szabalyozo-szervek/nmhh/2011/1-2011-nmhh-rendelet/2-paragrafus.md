@@ -1,6 +1,6 @@
-## 1/C. §[^8] Versenyeztetési eljárás során megszerzett frekvenciahasználati jogosultság esetében, a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló NMHH rendelet és a versenyeztetési eljárás kiírási dokumentációja alapján megkötött hatósági szerződésben a felek a sávdíj mértékére és megfizetésére vonatkozó, e rendeletben foglalt rendelkezésektől eltérhetnek.
+## 1/C. §[^19] Versenyeztetési eljárás eredményeként megszerzett rádióspektrum-használati jogosultság esetében, a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló NMHH rendelet és a versenyeztetési eljárás kiírási dokumentációja alapján megkötött hatósági szerződésben a felek a sávdíj mértékére és megfizetésére vonatkozó, e rendeletben foglalt rendelkezésektől eltérhetnek.
 
-2. § (1)[^9] A jogosítottnak nem kell frekvenciadíjat fizetnie,
+2. § (1)[^20] A jogosítottnak nem kell rádióspektrumdíjat fizetnie,
 
 a) ha diplomáciai mentességet élvező külképviseletként vagy kormányzati szervként az 1961. április 18-án diplomáciai kapcsolatokról, Bécsben aláírt nemzetközi szerződés 27. Cikkelyében foglaltaknak megfelelően nemzetközi célból, saját, az akkreditáló országgal való kapcsolattartást biztosító hírközlési igényeinek kielégítése érdekében működtetett állomásaihoz használ frekvenciát,
 
@@ -14,7 +14,7 @@ e) a kísérleti céllal vagy bemutatás céljára engedélyezett és egy hónap
 
 f) a Nemzetközi Rádiószabályzat szerinti segélykérő frekvenciák után,
 
-g) azon rádióállomások és hálózatok frekvenciahasználata után, amelyek az NFFF alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
+g)[^21] azon hálózatok és állomások telepítése, üzemben tartása esetén, amelyek az NFFF alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
 
 h) különleges jogrend esetén, valamint az azt kiváltó körülmények okozta következmények elhárítása érdekében az elektronikus hírközlésért felelős miniszter által átmenetileg korlátozott vagy szüneteltetett rádiótávközlési szolgálatok frekvenciái után, a korlátozás vagy szüneteltetés mértékéhez igazodóan,
 
@@ -30,9 +30,9 @@ m) az NFFF alapján harmadlagos jelleggel használt frekvenciák után, vagy
 
 n) földfelszín alatt kisugárzott olyan rádiófrekvenciás jel után, amelyet ugyanabban az időben, ugyanabban a térségben, a föld felszínén, nyitott térben felületi besugárzásra használnak.
 
-(2) Az állomások és berendezések rádióengedélyben rögzített szüneteltetésének időtartama alatt a jogosítottnak a frekvenciahasználati díj 50%-át kell megfizetnie.
+(2)[^22] Az állomások és berendezések rádióengedélyben rögzített szüneteltetésének időtartama alatt a jogosítottnak a rádióspektrum-használati díj 50%-át kell megfizetnie.
 
-(3)[^10] Az e rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetniük – kizárólag e tevékenységükkel összefüggésben kijelölt és engedélyezett frekvenciáért – az élet mentésével, megóvásával vagy baleset megelőzésével vagy elhárításával közvetlenül kapcsolatos tevékenységet végző, alábbi szervezeteknek:
+(3)[^23] Az e rendelet alapján megállapított rádióspektrumdíj 25%-át kell megfizetniük – kizárólag e tevékenységükkel összefüggésben lekötött vagy használt – az élet mentésével, megóvásával vagy baleset megelőzésével vagy elhárításával közvetlenül kapcsolatos tevékenységet végző, alábbi szervezeteknek:
 
 a) Országos Mentőszolgálat, valamint jogszabályban meghatározott működési engedély alapján mentési tevékenység végzésére feljogosított szervezet,
 
@@ -56,21 +56,23 @@ j) a belvízi hajózás forgalom- és közlekedésirányítását támogató, ha
 
 k) polgárőr szervezet.
 
-(3a)[^11] A (3) bekezdés szerinti kedvezményre az élet mentésével, megóvásával vagy baleset megelőzésével vagy elhárításával közvetlenül kapcsolatos tevékenységet végző szervezettel kötött megállapodás alapján berendezéseket üzemeltető szervezet is jogosult. A kedvezmény érvényesítéséhez a kérelmezőnek csatolnia kell a jogosultság alapjául szolgáló megállapodást.
+(3a)[^24] A (3) bekezdés szerinti kedvezményre az élet mentésével, megóvásával vagy baleset megelőzésével vagy elhárításával közvetlenül kapcsolatos tevékenységet végző szervezettel kötött megállapodás alapján berendezéseket üzemeltető szervezet is jogosult. A kedvezmény érvényesítéséhez a kérelmezőnek csatolnia kell a jogosultság alapjául szolgáló megállapodást.
 
-(4)[^12] A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés l) pontja alá.
+(4)[^25] A rendelet alapján megállapított rádióspektrumdíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés l) pontja alá.
 
-(5)[^13] A rendelet alapján megállapított frekvenciadíj 50%-át kell megfizetni azon sávok után, amelyekben elsődlegesen kormányzati célú szolgáltatás megvalósítását támogató rádiótávközlő rendszer – amely igazoltan legalább az alapszintű kiépítettséget elérte, azaz a központi vezérlő rendszer elemei és legalább egy hozzáférési eszköz a szükséges átviteli összeköttetésekkel üzembe helyezésre került – üzemel.
+(5)[^26] A rendelet alapján megállapított rádióspektrumdíj 50%-át kell megfizetni azon sávok után, amelyekben elsődlegesen kormányzati célú szolgáltatás megvalósítását támogató rádiótávközlő rendszer – amely igazoltan legalább az alapszintű kiépítettséget elérte, azaz a központi vezérlő rendszer elemei és legalább egy hozzáférési eszköz a szükséges átviteli összeköttetésekkel üzembe helyezésre került – üzemel.
 
-(6)[^14] A rendelet alapján megállapított frekvenciadíj 10%-át kell megfizetni GSM-R rendszer frekvenciahasználatáért.
+(6)[^27] A rendelet alapján megállapított rádióspektrumdíj 10%-át kell megfizetni GSM-R rendszer rádióspektrum-használatáért.
 
-(7)[^15] Az egyszerűsített rádióengedélyezési eljárásban engedélyezett állomások frekvenciahasználati díjára díjkedvezmény nem állapítható meg.
+(7)[^28] Az egyszerűsített rádióengedélyezési eljárásban engedélyezett állomások rádióspektrum-használati díjára díjkedvezmény nem állapítható meg.
 
-[^8]: Az 1/C. §-t a 2/2016. (II. 26.) NMHH rendelet 2. §-a iktatta be.
-[^9]: A 2. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^11]: A 2. § (3a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (3) bekezdése iktatta be.
-[^12]: A 2. § (4) bekezdése a 8/2017. (VII. 28.) NMHH rendelet 1. § a) pontja szerint módosított szöveg.
-[^13]: A 2. § (5) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be, szövege a 2/2016. (II. 26.) NMHH rendelet 11. § 2. pontja szerint módosított szöveg.
-[^14]: A 2. § (6) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.
-[^15]: A 2. § (7) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (4) bekezdése iktatta be.
+[^19]: Az 1/C. §-t a 2/2016. (II. 26.) NMHH rendelet 2. §-a iktatta be, szövege a 12/2020. (XII. 11.) NMHH rendelet 13. § 3. pontja szerint módosított szöveg.
+[^20]: A 2. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 12/2020. (XII. 11.) NMHH rendelet 13. § 4. pontja szerint módosított szöveg.
+[^21]: A 2. § (1) bekezdés g) pontja a 12/2020. (XII. 11.) NMHH rendelet 3. §-ával megállapított szöveg.
+[^22]: A 2. § (2) bekezdése a 12/2020. (XII. 11.) NMHH rendelet 13. § 4. pontja szerint módosított szöveg.
+[^23]: A 2. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 12/2020. (XII. 11.) NMHH rendelet 13. § 4. pontja szerint módosított szöveg.
+[^24]: A 2. § (3a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (3) bekezdése iktatta be.
+[^25]: A 2. § (4) bekezdése a 8/2017. (VII. 28.) NMHH rendelet 1. § a) pontja, a 12/2020. (XII. 11.) NMHH rendelet 13. § 4. pontja szerint módosított szöveg.
+[^26]: A 2. § (5) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be, szövege a 2/2016. (II. 26.) NMHH rendelet 11. § 2. pontja, a 12/2020. (XII. 11.) NMHH rendelet 13. § 4. pontja szerint módosított szöveg.
+[^27]: A 2. § (6) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be, szövege a 12/2020. (XII. 11.) NMHH rendelet 13. § 4. pontja szerint módosított szöveg.
+[^28]: A 2. § (7) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (4) bekezdése iktatta be, szövege a 12/2020. (XII. 11.) NMHH rendelet 13. § 4. pontja szerint módosított szöveg.

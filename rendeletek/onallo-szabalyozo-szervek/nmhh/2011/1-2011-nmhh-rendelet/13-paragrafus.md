@@ -1,3 +1,3 @@
-## 12. §[^22]
+13. §[^45]
 
-[^22]: A 12. §-t a 2/2016. (II. 26.) NMHH rendelet 12. § b) pontja hatályon kívül helyezte.
+[^45]: A 13. §-t és a megelőző alcím címet a 2/2016. (II. 26.) NMHH rendelet 12. § c) pontja hatályon kívül helyezte.

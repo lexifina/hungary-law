@@ -1,6 +1,6 @@
-## 960 MHz-nél nagyobb frekvenciájú pont-pont és pont-többpont rendszerek frekvenciahasználati díjai
+## 960 MHz-nél nagyobb frekvenciájú pont-pont és pont-többpont rendszerek rádióspektrum-használati díjai
 
-## 1. Pont-pont rendszerek állomásainak és pont-többpont rendszerek csillagponti állomásainak 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
+## 1. Pont-pont rendszerek állomásainak és pont-többpont rendszerek csillagponti állomásainak 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjai (Ft/kHz/hó)
 
 |  | A | B | C |
 
@@ -20,30 +20,32 @@
 
 | 8 | 55 GHz < F | 0,08 | 0,335 |
 
-## 2. 960 MHz-nél nagyobb frekvenciájú pont-pont és pont-többpont rendszerek frekvenciahasználati díjának megállapítási módja
+## 2. 960 MHz-nél nagyobb frekvenciájú pont-pont és pont-többpont rendszerek rádióspektrum-használati díjának megállapítási módja
 
-## 2.1. Pont-pont rendszerek állomásai, valamint pont-többpont rendszerek csillagponti állomásai esetében az engedélyezett frekvenciát (F) tartalmazó frekvenciasávnak megfelelő frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1. pontban foglalt táblázatból.
+## 2.1. Pont-pont rendszerek állomásai, valamint pont-többpont rendszerek csillagponti állomásai esetében az engedélyezett frekvenciát (F) tartalmazó frekvenciasávnak megfelelő rádióspektrum-használati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1. pontban foglalt táblázatból.
 
-## 2.2. A 2.1. pont alatti frekvenciahasználati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+## 2.2. A 2.1. pont alatti rádióspektrum-használati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-8. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^68]
+8. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^98]
 
-## Műholdas szolgálatok frekvenciahasználati díjai
+## Műholdas szolgálatok rádióspektrum-használati díjai
 
-A 18. §-ban felsorolt földi állomások 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
+1. A 18. §-ban felsorolt földi állomások 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjai (Ft/kHz/hó)
 
-|  | Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
+|  | A | B |
 
-|  | 960 MHz<F≤10 GHz | 0,5 |
+| 1 | Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
 
-|  | 10 GHz<F≤15,4 GHz | 0,25 |
+| 2 | 960 MHz < F ≤10 GHz | 0,5 |
 
-|  | F>15,4 GHz | 0,13 |
+| 3 | 10 GHz < F ≤15,4 GHz | 0,25 |
 
-A 18. §-ban felsorolt földi állomások frekvenciahasználati díjának megállapítási módja
+| 4 | F > 15,4 GHz | 0,13 |
 
-1. a) A 18. §-ban felsorolt földi állomások esetében az engedélyezett frekvenciát tartalmazó frekvenciasávnak megfelelő frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani a táblázatból,
+2. A 18. §-ban felsorolt földi állomások rádióspektrum-használati díjának megállapítási módja
 
-b) az a) alatti frekvenciahasználati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+2.1. A 18. §-ban felsorolt földi állomások esetében az engedélyezett frekvenciát tartalmazó frekvenciasávnak megfelelő rádióspektrum-használati egységdíjat (Ft/kHz/hó) kell kiválasztani a táblázatból,
 
-[^68]: A 8. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 11. § 18. pontja szerint módosított szöveg.
+2.2. a 2.1. pont alatti rádióspektrum-használati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
+
+[^98]: A 8. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § e) pontjával megállapított szöveg.

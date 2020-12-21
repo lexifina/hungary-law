@@ -1,15 +1,16 @@
-## Telephelyre szóló frekvenciakijelölésű, saját távközlési igény kielégítésére szolgáló földi,
+## Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló földi, belvízi és légi mozgószolgálati hálózatok, állomások rádióspektrumdíja[^38]
 
-## belvízi és légiforgalmi mozgószolgálati hálózatok, illetőleg állomások frekvenciadíja
+9. §[^39] (1) Az átjátszó vagy központi feladatot ellátó, helyhez kötött állomásokért a jogosított rádióspektrum-lekötési díjat a 3. számú melléklet 2. pontjában foglalt táblázat alapján fizet.
 
-9. § (1) Az átjátszó vagy központi feladatot ellátó, helyhez kötött állomásokért a jogosítottnak egyszeri frekvencialekötési díjat kell fizetnie a 3. számú melléklet 2. táblázata alapján.
+(2) Az (1) bekezdés szerinti helyhez kötött állomások rádióspektrum-használati díját a 4. számú melléklet 3–9. pontjában foglalt táblázatok alapján – állomásonként – kell megállapítani.
 
-(2) Az (1) bekezdés szerinti helyhez kötött állomások frekvenciahasználati díját a 4. számú melléklet 4–10. táblázatai alapján – állomásonként – kell megállapítani.
+(3) A hálózat állomásai és berendezései után – azok kategóriájától függően – a 4. számú melléklet 2. pontjában foglalt táblázat szerinti rádióspektrum-használati díjat kell megállapítani.
 
-(3) A hálózat állomásai és berendezései után – azok kategóriájától függően – a 4. számú melléklet 3. táblázata szerinti frekvenciahasználati díjat kell megállapítani.
+(4) A jogosított rádióspektrum-használati díjként a 4. számú melléklet 2. pontjában foglalt táblázat, továbbá 3–9. pontjában foglalt táblázatok alapján megállapított díjak összegét fizeti.
 
-(4) A jogosított frekvenciahasználati díjként a 4. számú melléklet 3. táblázata, továbbá a 4–10. táblázatai alapján megállapított díjak összegét köteles megfizetni.
+(5) A helyhez kötött állomások rádióspektrum-használati díja – a (2) bekezdésben említett melléklet alapján – megosztott használatú frekvenciánál a díj 50%-a, közös használatú frekvenciánál a meghatározott díj 25%-a.
 
-(5) A helyhez kötött állomások frekvenciahasználati díja – a (2) bekezdésben említett melléklet alapján – megosztott használatú frekvenciánál a díj 50%-a, közös használatú frekvenciánál a meghatározott díj 25%-a.
+(6) Ha az engedély olyan körzetre vonatkozik, amely részben vagy egészben Budapest környezetében van, – a kizárólag mozgóállomásokat tartalmazó hálózatok és a mozgóállomások kivételével – a rádióspektrum-lekötés és -használat díjának mértéke a 3. számú melléklet 2. pontjában foglalt táblázat, illetve a 4. számú melléklet 2–9. pontjában foglalt táblázatok alapján megállapított díj kétszerese.
 
-(6) Ha az eljáró hatóság engedélye olyan körzetre vonatkozik, amely részben vagy egészben Budapest környezetében van, – a kizárólag mozgó állomásokat tartalmazó hálózatok és a mozgó állomások kivételével – a frekvencialekötés és -használat díjának mértéke a 3. számú melléklet 2. táblázata, illetőleg 4. számú melléklet 3–10. táblázatai alapján megállapított díj kétszerese.
+[^38]: A 9. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 7. §-ával megállapított szöveg.
+[^39]: A 9. § a 12/2020. (XII. 11.) NMHH rendelet 7. §-ával megállapított szöveg.

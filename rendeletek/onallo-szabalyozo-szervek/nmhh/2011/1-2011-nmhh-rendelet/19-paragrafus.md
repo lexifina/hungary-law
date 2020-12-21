@@ -1,13 +1,16 @@
-## 18. §[^42] A műholdas szolgálatok központi földi állomásai, a HUB űrtávközlési állomások, a parti földi állomások, a kontrollállomások, a légi CGC állomások és a műsorfeladó állomások után a jogosítottnak frekvencialekötési díjat nem kell fizetnie, a frekvenciahasználati díjat pedig a 8. számú melléklet szerint kell megfizetnie.
+## 18. §[^62] A műholdas szolgálatok központi földi állomásai, a HUB űrtávközlési állomások, a parti földi állomások, a kontrollállomások, a légi CGC állomások és a műsorfeladó állomások után a jogosítottnak rádióspektrum-lekötési díjat nem kell fizetnie, a rádióspektrum-használati díjat pedig a 8. számú melléklet szerint kell megfizetnie.
 
-## Műholdas szolgálatok végberendezéseinek frekvenciahasználati díja
+## Műholdas szolgálatok végberendezéseinek rádióspektrum-használati díja[^63]
 
-19. § (1) A műholdas állandóhelyű szolgálatok Föld-űr irányú adásra is engedélyezett földi állomásainak (végberendezéseinek) frekvenciahasználati díja:
+19. § (1)[^64] A műholdas állandóhelyű szolgálatok Föld-űr irányú adásra is engedélyezett földi állomásainak (végberendezéseinek) rádióspektrum-használati díja:
 
 a) VSAT végberendezés után: 1 000 Ft/db/hó;
 
 b) SNG végberendezés után: 10 000 Ft/db/hó.
 
-(2) A műholdas földi és tengeri mozgószolgálati végberendezések után a frekvenciahasználati díj 250 Ft/db/hó.
+(2)[^65] A műholdas földi és tengeri mozgószolgálati végberendezések után a rádióspektrum-használati díj 250 Ft/db/hó.
 
-[^42]: A 18. § a 2/2016. (II. 26.) NMHH rendelet 8. §-ával megállapított, a 8/2017. (VII. 28.) NMHH rendelet 1. § b) pontja szerint módosított szöveg.
+[^62]: A 18. § a 2/2016. (II. 26.) NMHH rendelet 8. §-ával megállapított, a 8/2017. (VII. 28.) NMHH rendelet 1. § b) pontja, a 12/2020. (XII. 11.) NMHH rendelet 13. § 16. pontja szerint módosított szöveg.
+[^63]: A 19. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 13. § 17. pontja szerint módosított szöveg.
+[^64]: A 19. § (1) bekezdés nyitó szövegrésze a 12/2020. (XII. 11.) NMHH rendelet 13. § 18. pontja szerint módosított szöveg.
+[^65]: A 19. § (2) bekezdése a 12/2020. (XII. 11.) NMHH rendelet 13. § 18. pontja szerint módosított szöveg.
