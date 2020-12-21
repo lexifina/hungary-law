@@ -1,6 +1,6 @@
 ## 2. A támogatás címzettje, formája és mértéke
 
-2. § (1) A Folyószámlahitelhez az ASZK Konstrukciók keretében csekély összegű támogatást vehet igénybe az a 702/2014/EU bizottsági rendelet I. mellékletében meghatározott kis- és középvállalkozási kritériumoknak megfelelő
+2. § (1)[^1] A Folyószámlahitelhez az ASZK Konstrukciók keretében csekély összegű támogatást vagy a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatást (a továbbiakban: átmeneti támogatás) vehet igénybe az a 702/2014/EU bizottsági rendelet I. mellékletében meghatározott kis- és középvállalkozási kritériumoknak megfelelő
 
 a) elsődleges mezőgazdasági termelési,
 
@@ -26,7 +26,7 @@ c) halászati csekély összegű támogatás formában jogosult, ha főtevékeny
 
 ## tartozó tevékenység.
 
-(3) A Folyószámlahitelhez biztosított csekély összegű támogatás
+(3)[^2] A Folyószámlahitelhez biztosított támogatás
 
 a) kamattámogatás és kezelésiköltség-támogatás,
 
@@ -63,3 +63,6 @@ c) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslés
 (10) Az ASZK Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatása során a kamat-, kezelésiköltség-, kezességidíj-támogatásból származó csekély összegű támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
 (11) A (6) bekezdés c) pontja szerinti költség támogatása esetén a támogatás összegét – az 5. § (2) bekezdése szerinti – költségtámogatás iránti kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
+
+[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 66/2020. (XII. 18.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (3) bekezdés nyitó szövegrésze a 66/2020. (XII. 18.) AM rendelet 16. § b) pontjával megállapított szöveg.
