@@ -1,3 +1,3 @@
-## 18. §[^4]
+## 18. §[^18]
 
-[^4]: A 18. § a 24. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^18]: A 18. § a 24. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

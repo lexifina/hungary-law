@@ -1,3 +1,5 @@
-## 10. § Hatályát veszti a 39/2018. (XII. 13.) AM rendelet 16/B. § (8) bekezdésében az „a benyújtását követő naptól számított két napon belül, de” szövegrész.
+## 10. §[^10]
 
 ## 6. A baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 11/2019. (IV. 1.) AM rendelet módosítása
+
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

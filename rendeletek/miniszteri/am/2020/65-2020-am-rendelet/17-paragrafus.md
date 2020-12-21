@@ -1,3 +1,3 @@
-## 16. §[^2]
+## 16. §[^16]
 
-[^2]: A 16. § a 24. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^16]: A 16. § a 24. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
