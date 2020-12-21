@@ -1,6 +1,6 @@
 103. § (1) A Hatóság az átláthatóság biztosításának érdekében többek között előírhatja a határozatában foglaltaknak megfelelő bontású és részletezettségű referenciaajánlat készítését, a nyilvánosságra hozandó adatok körét és a nyilvánosságra hozatal módját.
 
-(2) Amennyiben e törvény vagy a Hatóság határozata alapján a szolgáltatót a hálózati infrastruktúrához való nagykereskedelmi hozzáféréssel kapcsolatos kötelezettség terheli, a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató köteles legalább a Hatóság határozatában meghatározott tartalmú referenciaajánlatot közzétenni.
+(2) Amennyiben a Hatóság határozata alapján a szolgáltatót a 106. §, illetve 106/A. § szerinti, a hálózati infrastruktúrához való nagykereskedelmi hozzáféréssel kapcsolatos kötelezettség terheli, a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató köteles legalább a Hatóság határozatában meghatározott tartalmú referenciaajánlatot közzétenni.
 
 (3) A referenciaajánlat készítésére köteles szolgáltató (e § alkalmazásában: kötelezett szolgáltató) a Hatóság határozatában meghatározott feltételekkel közzétett referenciaajánlatához annak hatálya alatt kötve van bármely összekapcsolást, illetve hozzáférést igénylő szolgáltatóval szemben (e § alkalmazásában: jogosult szolgáltató), attól a hálózati szerződéseiben a jogosult szolgáltató beleegyezésével sem térhet el.
 

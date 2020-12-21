@@ -2,7 +2,7 @@
 
 88. § (1) Az elektronikus hírközlési szolgáltatók az elektronikus hírközlésre vonatkozó szabályban meghatározott feltételekkel köthetnek hálózati szerződést.
 
-(2) A hálózati szerződéseket írásba kell foglalni, azokban a feleknek rendelkezniük kell:
+(2) A hálózati szerződéseket írásba kell foglalni, azokban a feleknek – a (2a) bekezdésben foglalt esetet ide nem értve – rendelkezniük kell:
 
 a) a szerződés tárgyáról, céljáról;
 
@@ -21,6 +21,8 @@ g) a szolgáltatás nyújtása során az adatvédelem követelményei teljesít�
 h) a szerződésszegés esetén alkalmazandó jogkövetkezményekről;
 
 i) a harmadik személyeknek nyújtott szolgáltatásokért fennálló felelősség viselésének módjáról és mértékéről.
+
+(2a) Amennyiben az Elnök a 62–66. § vagy a XI. fejezet szerinti eljárásaiban hozzáféréssel vagy összekapcsolással kapcsolatos kötelezettséget ír elő, a (2) bekezdéstől eltérően a hálózati szerződések tartalmi elemeit az Elnök határozatában határozza meg.
 
 (3) Az elektronikus hírközlési tevékenységet végző és az általa irányított, őt irányító vagy vele közös irányítás alatt álló más szolgáltatóval e törvény hatálybalépését követően létrejött hálózati szerződést a feleknek a szerződés megkötésétől számított 15 napon belül – tájékoztatás céljából – be kell nyújtaniuk a Hatósághoz.
 

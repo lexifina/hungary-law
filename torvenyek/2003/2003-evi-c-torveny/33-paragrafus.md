@@ -8,7 +8,7 @@
 
 (3) Referenciaajánlattal kapcsolatos eljárásokban nem minősül üzleti titoknak a referenciaajánlat azon része, amelyet a kötelezett szolgáltató harmadik feleknek a szerződéskötés során, elektronikus hírközlésre vonatkozó szabály alapján általában rendelkezésre bocsátana.
 
-(4) A 40. §-ban meghatározott érdekeltekkel történő egyeztetés során benyújtott észrevételek, valamint az Elnök 62–65. §-ok szerinti eljárásban hozott határozatában kirótt 102. § szerinti átláthatóság kötelezettség körében közzétenni rendelt adatok, információk nem minősülnek, nem minősíthetők üzleti titoknak.
+(4) A 40. §-ban meghatározott érdekeltekkel történő egyeztetés során benyújtott észrevételek, valamint az Elnök 62–65. § szerinti eljárásban hozott határozatában kirótt 102. § szerinti átláthatóság kötelezettség körében közzétenni rendelt adatok, információk nem minősülnek, nem minősíthetők üzleti titoknak. A jelentős piaci erővel rendelkező szolgáltató nem minősítheti üzleti titoknak az Elnök piacmeghatározás, jelentős piaci erővel rendelkező szolgáltatók azonosítása és kötelezettségek előírása tárgyában hozott határozatában meghatározott azon számviteli adatokat, amelyek tekintetében az Elnök a piacelemzés által feltárt versenyt korlátozó akadályok által indokolt, azokkal arányos 105. § szerinti kötelezettség körében közzétételt ír elő.
 
 (4a) A 47. § (1) bekezdés b) pontja alapján szolgáltatott adatok közül az előfizetők és a megkötött előfizetői szerződések számával, a szolgáltatás forgalmával (percforgalom, adatmennyiség, darabszám) és elérhetőségével (lefedettségével) kapcsolatos statisztikai adatok, továbbá ezen adatok bármely további megbontás, csoportosítás szerinti részadatai nem minősíthetők üzleti titoknak.
 

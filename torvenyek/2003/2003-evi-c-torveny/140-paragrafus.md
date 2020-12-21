@@ -4,4 +4,4 @@
 
 (3) Az előfizető az előfizetői szolgáltatás meghibásodását a szolgáltató által biztosított hibabejelentő szolgálatnál jelentheti be, amelyet a szolgáltató az ügyfélszolgálatán keresztül vagy közvetlenül köteles elérhetővé tenni, az ügyfélszolgálat elérhetőségével azonos feltételek szerint.
 
-(4) Az ügyfélszolgálat elérhetőségét biztosító telefonszolgáltatáson keresztül reklámközlemény vagy ajánlat csak abban az esetben továbbítható, ha ezt az előfizető kérte vagy ehhez a hívó fél előzetesen hozzájárul. Az ügyfélszolgálat elérhetősége e hozzájáruláshoz nem köthető.
+(4) Az ügyfélszolgálat elérhetőségét biztosító telefonszolgáltatáson keresztül gazdasági reklám vagy ajánlat csak abban az esetben továbbítható, ha ezt az előfizető kérte vagy ehhez a hívó fél előzetesen hozzájárul. Az ügyfélszolgálat elérhetősége e hozzájáruláshoz nem köthető.

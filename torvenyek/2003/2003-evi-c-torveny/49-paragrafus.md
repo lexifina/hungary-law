@@ -30,9 +30,9 @@ a) kötelezheti a jogsértőt a határozatban foglalt közleménynek vagy a hat�
 
 b) a jogsértő költségén a jogszabálysértést megállapító határozatát vagy a határozatban foglalt közleményt országos napilapban is nyilvánosságra hozhatja, különösen, ha ez súlyos érdeksérelem megelőzését, illetve csökkentését szolgálja;
 
-c) a kötelezettségek súlyos és ismétlődő megsértése esetén 10–90 napig terjedő időtartamra felfüggesztheti az elektronikus hírközlési szolgáltatás nyújtására vonatkozó jogosultságot, illetve a rádiófrekvenciák és azonosítók használatára vonatkozó engedélyeket;
+c) a kötelezettségek súlyos és ismétlődő megsértése esetén 10–90 napig terjedő időtartamra felfüggesztheti az elektronikus hírközlési szolgáltatás nyújtására vonatkozó jogosultságot, illetve a rádióspektrum- és azonosítóhasználatra vonatkozó engedélyeket;
 
-d) kiemelten súlyos és ismételt jogsértés esetén megtilthatja az elektronikus hírközlési tevékenység végzését, visszavonhatja a rádiófrekvenciák és azonosítók használatára vonatkozó engedélyeket;
+d) kiemelten súlyos és ismételt jogsértés esetén megtilthatja az elektronikus hírközlési tevékenység végzését, visszavonhatja a rádióspektrum- és azonosítóhasználatra vonatkozó engedélyeket;
 
 e) elrendelheti a frekvenciahasználati jog kényszerértékesítését vagy haszonbérbe adását;
 
@@ -40,7 +40,9 @@ f) elrendelheti a piacelemzést követően kiszabott kötelezettségek tekintet�
 
 g) a 2 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozásról – a fizetési kötelezettséget, annak mértékét, a lejárt határidejű díjtartozás megfizetésére előírt 15 napos teljesítési póthatáridőt, továbbá az önkéntes teljesítés elmaradásának jogkövetkezményeire való figyelmeztetést is tartalmazó – fizetési felszólítást küld, amelynek eredménytelensége esetén a jogosított engedélyeit (a frekvenciakijelölést, rádióengedélyt, illetve az azonosítókijelölést) visszavonja;
 
-h) egyéb, jogszabályban meghatározott szankciót alkalmazhat.
+h) azonosító felhasználásával elkövetett csalás, visszaélés esetén megtilthatja az azonosító további használatát, kötelezheti az érintett szolgáltatókat az azonosító elérésének megakadályozására, elrendelheti az azonosító eléréséért fizetendő díjak (így különösen a végződtetési díjak) visszatartását, és az előfizetőknek felszámított, vagy tőlük beszedett díj jóváírását, illetve visszatérítését;
+
+i) egyéb, törvényben meghatározott szankciót alkalmazhat.
 
 (8) A (4)–(7) bekezdésben meghatározott jogkövetkezmények együttesen is megállapíthatók.
 

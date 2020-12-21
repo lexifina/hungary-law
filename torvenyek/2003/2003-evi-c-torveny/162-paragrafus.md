@@ -6,4 +6,4 @@
 
 (3) Az előfizető kifejezett hozzájárulása ellenére sem lehetséges olyan közvetlen üzletszerzési, tájékoztatási, közvélemény- és piackutatási célú küldemény továbbítása, amelyből nem ismerhetők fel a feladó azonosító adatai.
 
-(4) A beszédcélú elektronikus hírközlési szolgáltatást nyújtó szolgáltatók kötelesek az egyetemes szolgáltatóknak átadni – az előfizető hozzájárulásától függően – az előfizetőkre vonatkozó azon adatokat, amelyek a 117. § c) és d) pontjában foglalt szolgáltatás nyújtása érdekében szükségesek. Az így átadott előfizetői adatok ettől eltérő célra nem használhatók fel.
+(4) A beszédcélú elektronikus hírközlési szolgáltatást nyújtó szolgáltatók kötelesek az egyetemes szolgáltatóknak átadni – az előfizető hozzájárulásától függően – az Elnök rendeletében meghatározott, az előfizetőkre vonatkozó, a beszédcélú elektronikus hírközlési szolgáltatást nyújtó szolgáltatók által e törvény alapján kezelt adatokat. Az így átadott előfizetői adatok ettől eltérő célra nem használhatók fel.

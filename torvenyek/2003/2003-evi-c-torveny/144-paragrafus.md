@@ -1,59 +1,47 @@
 ## Az előfizetők tájékoztatása és értesítése
 
-144. § (1) Ha jogszabály vagy a Hatóság valamely általános szerződési feltételnek vagy más tájékoztatásnak (e bekezdésben a továbbiakban: tájékoztatás) a szolgáltató ügyfélszolgálatán történő közzétételét rendeli el, ennek a szolgáltató a következők teljesítésével tesz eleget:
+144. § (1) Ha jogszabály vagy a Hatóság valamely tájékoztatásnak, általános szerződési feltételnek (e bekezdésben a továbbiakban együtt: tájékoztatás) a szolgáltató ügyfélszolgálatán történő közzétételét rendeli el, ennek a szolgáltató a következők teljesítésével tesz eleget:
 
 a) a tájékoztatást az ügyfélszolgálati helyiségben, ennek hiányában internetes honlapján közzéteszi, és
 
-b) az abban foglaltakról a telefonszolgáltatás igénybevételével elérhető ügyfélszolgálat szóbeli tájékoztatást ad.
+b) az abban foglaltakról a hangszolgáltatás igénybevételével elérhető ügyfélszolgálat szóbeli tájékoztatást ad.
 
-(2) A Hatóság előírhatja az elektronikus hírközlési szolgáltatók számára, hogy az előfizetőik, és felhasználóik tájékoztatása céljából a Hatóság által meghatározott módon közérdekű tájékoztatást állítsanak össze. A közérdekű tájékoztatás kiterjedhet – többek között – az alábbiakra:
+(2) Az internet-hozzáférési, illetve a nyilvánosan elérhető, számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató a Hatóság által meghatározott tartalommal, térítésmentesen közérdekű tájékoztatást köteles eljuttatni az előfizetői és a végfelhasználói számára. A közérdekű tájékoztatásnak ki kell terjednie legalább az alábbiakra:
 
-a) a szerzői jogok megsértésére, más törvénybe ütköző használatra és az ártalmas tartalom terjesztésével kapcsolatos információkra,
+a) a szerzői vagy adatvédelmi jogokkal, törvénybe ütköző használattal és az ártalmas tartalom terjesztésével kapcsolatos jogsértésekre és azok jogkövetkezményeire vonatkozó információkra, és
 
-b) a gyermekek és sérülékeny személyek védelmét lehetővé tevő könnyen használható és konfigurálható szoftverekre vagy szoftveropciók elérhetőségére, vagy
+b) az elektronikus hírközlési szolgáltatások használata során a személyes biztonságot, a magánéletet és a személyes adatokat fenyegető kockázatokkal szembeni védelem céljából rendelkezésére álló eszközökre.
 
-c) az elektronikus hírközlési szolgáltatások használata során a személyes biztonságot, a magánéletet és a személyes adatokat fenyegető kockázatokkal szembeni védelem céljából rendelkezésére álló eszközökre.
+(3) Az internet-hozzáférés szolgáltatást nyújtó szolgáltató köteles a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek vagy azokkal egyező célra szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó közérdekű tájékoztatót összeállítani, a tájékoztatót internetes honlapján közzétenni, a közzétételről és annak elérhetőségéről negyedévente – figyelemmel a (4)–(5) bekezdésre és a 149/A. §-ra is – az előfizetőt értesíteni.
 
-(2a) Az internethozzáférés-szolgáltatást nyújtó szolgáltató köteles a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek vagy azokkal egyező célra szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó közérdekű tájékoztatót összeállítani, a tájékoztatót internetes honlapján közzétenni, a közzétételről és annak elérhetőségéről negyedévente – figyelemmel a (3)–(5) bekezdésre és a 149/A. §-ra is – az előfizetőt értesíteni.
+(4) Ha elektronikus hírközlésre vonatkozó szabály az előfizető értesítésének módját nem határozza meg, a szolgáltató értesítési kötelezettségének választása szerint – az (5) és (6) bekezdésben foglaltakra figyelemmel – a következő módon tehet eleget:
 
-(3) Ha jogszabály az előfizető értesítését írja elő és amennyiben a szolgáltató számlalevelet is küld, a szolgáltató köteles a számlalevél mellékletében értesíteni az előfizetőt.
+a) tartós adathordozó útján, azzal, hogy a tartós adathordozó elérhetővé tételéről az előfizetőt igazolható módon külön értesíteni kell, kivéve, ha az alkalmazott tartós adathordozó jellege azt nem indokolja;
 
-(4) Ha jogszabály az előfizető értesítését írja elő és a szolgáltató a szolgáltatás jellegéből adódóan nem köteles számlalevelet küldeni, illetve ha az értesítés számlalevélben történő teljesítésére azért nincs mód, mert az értesítés jogszabály által előírt időpontja a számlalevél előfizetőnek történő, szolgáltató általános szerződési feltételei által meghatározott megküldési időpontját megelőzi, a szolgáltató választása szerint – a 144. § (5) és (6) bekezdésében foglaltakra figyelemmel – az értesítési kötelezettségének a következő módon tehet eleget:
-
-a) az előfizető közvetlen értesítésével, postai úton az elektronikus hírközlési szolgáltatás jellegéhez igazodó módon,
-
-b) elektronikus levélben az előfizető által e célra megjelölt e-mail címre;
+b) az előfizető közvetlen értesítésével, személyesen, postai úton, saját kézbesítés útján vagy az elektronikus hírközlési szolgáltatás jellegéhez igazodó módon;
 
 c) egyéb elektronikus hírközlés útján, az internetes honlapon történő közzétételre utalással, vagy
 
-d) az értesítendő előfizetők körétől függően országos vagy megyei napilapban legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is hozzáférhetővé tenni.
+d) az értesítendő előfizetők körétől függően országos vagy megyei napilapban és honlappal rendelkező média szerkesztőség, internetes újság vagy hírportál útján legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is hozzáférhetővé tenni.
 
 (5) A (4) bekezdés a)–c) pontjában meghatározott értesítési módokat a szolgáltató akkor alkalmazhatja, ha maradandó módon rögzíteni tudja, hogy
 
 a) a szóbeli értesítést az előfizető tudomásul vette,
 
-b) az elektronikus dokumentumban vagy az elektronikus levélben foglalt értesítést az elektronikus értesítés elfogadásáról előzetesen nyilatkozó előfizetőnek hitelesen igazolható módon megküldték, vagy
+b) az elektronikus dokumentumban vagy az elektronikus levélben foglalt értesítést az elektronikus értesítés elfogadásáról előzetesen nyilatkozó előfizetőnek igazolható módon megküldték, vagy
 
-c) a postai levélben foglalt értesítést az előfizetőnek igazolható módon megküldték.
+c) a postai levélben foglalt vagy saját kézbesítés útján továbbított értesítést az előfizetőnek igazolható módon megküldték.
 
-(6) A (4) bekezdés d) pontjában meghatározott értesítési módot a szolgáltató kizárólag e törvény 136. § (1) bekezdése és a 132. § (4) bekezdése szerinti értesítések esetén alkalmazhatja. Nem alkalmazhatja a (4) bekezdés d) pontjában meghatározott értesítési módot, ha az előfizetői szerződés tárgyát képező szolgáltatásra irányadó az előfizető által fizetendő előfizetési díjak és egyéb kapcsolódó díjak – beleértve a számhordozással kapcsolatos díjakat és a szerződés megszüntetésekor esedékes díjakat, az előfizető számára nyújtott kedvezmények, valamint a költségek mértéke, a díjak megfizetésének ideje, módja változik.
+(6) A (4) bekezdés d) pontjában meghatározott értesítési módot a szolgáltató kizárólag a 136. § (1) bekezdése szerinti értesítések esetén alkalmazhatja.
 
 (7) Az előfizető jogai gyakorlására nyitva álló határidőket a legkésőbbi értesítéstől kell számítani.
 
-(8) A Hatóság – annak érdekében, hogy az előfizetők, és felhasználók megfelelő információkkal rendelkezzenek – előírhatja, hogy a hírközlési szolgáltatók tájékoztassák az előfizetőiket:
+(8) Az internet-hozzáférési szolgáltatást vagy a nyilvánosan elérhető személyközi hírközlési szolgáltatást nyújtó szolgáltató köteles az ajánlatok átláthatósága, összehasonlíthatósága érdekében az általa nyújtott szolgáltatások jellemzőiről az Elnök által rendeletben meghatározott információkat, az ott meghatározott esetben, meghatározott gyakorisággal frissítve, világos, géppel olvasható, összehasonlításra alkalmas módon közzétenni, a fogyatékossággal élő végfelhasználók számára akadálymentes formátumban is.
 
-a) az általuk nyújtott szolgáltatásokról, különös tekintettel azon számokra, vagy szolgáltatásokra alkalmazandó díjakról, amelyre egyedi díjszabási feltételek vonatkoznak,
+(9) A végfelhasználó jogosult térítésmentesen hozzáférni legalább egy olyan független összehasonlító eszközhöz, amely segítségével összevetheti és értékelheti az internet-hozzáférési és a nyilvánosan elérhető, számfüggő személyközi hírközlési szolgáltatásokat, továbbá a számfüggetlen személyközi hírközlési szolgáltatásokat. A szolgáltatóktól független vállalkozás által működtetett összehasonlító eszközt a Hatóság kérelemre megfelelést igazoló tanúsítvánnyal látja el.
 
-b) a szolgáltató által az egy hálózati összeköttetésen átmenő forgalom mérésére és alakítására létrehozott bármely eljárásról, valamint arról, hogy ezen eljárások milyen hatással lehetnek a szolgáltatás minőségére,
+(10) A (9) bekezdés szerinti összehasonlító eszköz működtetése érdekében a független vállalkozás jogosult a szolgáltató által a (8) bekezdés szerint közzétett információkat díjmentesen felhasználni.
 
-c) a fogyatékos előfizetőiket a számukra kifejlesztett termékekről és szolgáltatásokról,
+(11) A szolgáltató az elektronikus hírközlésre vonatkozó szabályban foglalt, előfizetői szerződéssel kapcsolatos értesítési, tájékoztatási kötelezettségének egyértelműen és pontosan köteles eleget tenni.
 
-d) a szolgáltatásokhoz és alkalmazásokhoz való hozzáférés, illetve azok használatának korlátozására vonatkozó feltételek bárminemű változásáról.
-
-(9) A szolgáltatások egyes kategóriái tekintetében a Hatóság megkövetelheti, hogy a tájékoztatásra közvetlenül a hívás kapcsolása előtt kerüljön sor.
-
-(10) A Hatóság – annak érdekében, hogy az előfizetők és felhasználók megfelelő információkkal rendelkezve a szolgáltatások minőségéről, az árakról és díjszabásokról, összehasonlíthassák az egyes szolgáltatásokat és a választási szabadságnak megfelelően ésszerű döntéseket hozzanak – határozatával előírhatja, hogy a hírközlési szolgáltatók összehasonlításra alkalmas módon az általuk nyújtott szolgáltatások minőségéről, elérhetőségéről, áráról, valamint az összehasonlítást lehetővé tevő, azt megkönnyítő további jellemzőiről adatokat szolgáltassanak a Hatóságnak vagy ilyen adatokat tegyenek közzé.
-
-(11) A Hatóság a hírközlési szolgáltatók által benyújtott információk alapján összehasonlító adatokat tesz közzé, hogy lehetővé tegye a felhasználók és az előfizetők számára, interaktív útmutatók vagy hasonló műszaki megoldások, alkalmazások segítségével a független költségértékelést.
-
-(12) A szolgáltató az elektronikus hírközlésre vonatkozó szabályban foglalt, előfizetői szerződéssel kapcsolatos értesítési, tájékoztatási kötelezettségének egyértelműen és pontosan köteles eleget tenni.
+(12) A Hatóság határozata alapján a szolgáltató köteles a Hatóságnak a (8) bekezdés és a 139. § szerinti információkról adatokat szolgáltatni az információk Hatóság általi közzétételének céljából.

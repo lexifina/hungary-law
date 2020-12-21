@@ -1,25 +1,27 @@
-## Számhordozhatóság biztosítása
+## Szolgáltatóváltás és számhordozhatóság
 
-150. § (1) Az előfizetői hozzáférést nyújtó szolgáltató köteles lehetővé tenni előfizetője számára, hogy
+150. § (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató kérelemre köteles lehetővé tenni előfizetője számára, hogy megtarthassa a nemzeti számozási tervben szereplő
 
-a) helyhez kötött telefon szolgáltatás esetén, ha az előfizető a felhasználás földrajzi helyének megváltoztatása nélkül előfizetői hozzáférést nyújtó szolgáltatót változtat, megtarthassa földrajzi előfizetői számát,
+a) földrajzi számát a felhasználás földrajzi helyének megváltoztatása nélküli szolgáltatóváltás esetén,
 
-b) nemföldrajzi számmal elérhető szolgáltatás esetén, ha az előfizető szolgáltatót változtat, megtarthassa nemföldrajzi előfizetői számát,
+b) nemföldrajzi számát szolgáltatóváltás esetén
 
-c) mobil rádiótelefon szolgáltatás esetén, ha az előfizető mobil rádiótelefon szolgáltatót változtat, megtarthassa mobil előfizetői számát
+[az a) és b) pont a továbbiakban együtt: hordozott szám].
 
-(a továbbiakban: hordozott szám).
+(2) A számhordozás a számra vonatkozó előfizetői szerződés előfizető általi felmondása esetében az előfizetői szerződés megszűnését követő 31 napon belül is kérelmezhető, kivéve, ha e jogáról a végfelhasználó lemond.
 
-(2) A szolgáltató, amelynek előfizetője az előfizetői szerződés megszüntetését – vagy egyes hívószámok esetében módosítását – követően a hívószámát egy másik szolgáltatóhoz viszi át (a továbbiakban: átadó szolgáltató), azzal a szolgáltatóval, amelynek bármely jövőbeni előfizetője az előfizetői szerződés megkötésének keretében számát egy másik szolgáltatótól hozza át (a továbbiakban: átvevő szolgáltató), köteles hálózati szerződés keretében a számhordozhatóság feltételeiről megállapodni, amennyiben az átvevő szolgáltató az átadó szolgáltatónak az ezen szerződésekre irányadó elektronikus hírközlésre vonatkozó szabályoknak megfelelő ajánlatot tesz.
+(3) A szolgáltatóváltást és a számhordozást – ha ez műszakilag megvalósítható – a szolgáltatók kötelesek távoli konfigurációban elvégezni, kivéve, ha az előfizető másként kéri.
 
-(3) A hordozott számokra irányuló hívás díját a ténylegesen felépülő hívás, illetve szolgáltatás díjának megfelelően kell megállapítani. A hívó fél számára biztosítani kell annak a lehetőségét, hogy a hívás megkezdése előtt tájékozódni tudjon arról, hogy a hívás melyik szolgáltató hálózatában végződik, és annak tarifájáról.
+(4) Az érintett internet-hozzáférési szolgáltatók – ha ez műszakilag megvalósítható – kötelesek biztosítani az előfizető számára az internet-hozzáférési szolgáltatás folytonosságát internet-hozzáférési szolgáltatóváltás esetén.
 
-(4) A hívás- és jelzésirányítás költségeit, valamint a hívás- és jelzéstovábbítás járulékos többletköltségeit a hívás-, illetve jelzésirányításáért felelős, külön jogszabályban meghatározott szolgáltató viseli.
+(5) A szolgáltató, amelynek előfizetője számhordozással a hívószámát vagy szolgáltatóváltással az internet-hozzáférési szolgáltatását egy másik szolgáltatóhoz viszi át (a továbbiakban: átadó szolgáltató), azzal a szolgáltatóval, amelynek bármely jövőbeni előfizetője számát vagy internet-hozzáférési szolgáltatását egy másik szolgáltatótól hozza át (a továbbiakban: átvevő szolgáltató), köteles hálózati szerződés keretében a számhordozhatóság vagy szolgáltatóváltás feltételeiről megállapodni, amennyiben az átvevő szolgáltató az átadó szolgáltatónak az ezen szerződésekre irányadó elektronikus hírközlésre vonatkozó szabályoknak megfelelő ajánlatot tesz.
 
-(5) A szolgáltató által a hordozott számok tekintetében fizetendő azonosító használati díj megegyezik a nem hordozott számok használati díjával.
+(6) A hordozott számokra irányuló hívás díját a ténylegesen felépülő hívás, illetve szolgáltatás díjának megfelelően kell megállapítani. A hívó fél számára biztosítani kell annak a lehetőségét, hogy a hívás megkezdése előtt tájékozódni tudjon arról, hogy a hívott szám melyik szolgáltató előfizetőjét azonosítja.
 
-(6) A számhordozás igénybevételéért az átadó szolgáltató hordozásonkénti egyszeri díjat határozhat meg, amelyet az átvevő szolgáltató fizet meg az átadó szolgáltató részére. A fizetendő díj nem haladhatja meg a számhordozás teljesítésével összefüggésben felmerült indokolt költségeket. Ezen egyszeri díjat vagy annak egy részét az átvevő szolgáltató a számhordozást igénybevevő előfizetőre átterhelheti.
+(7) A hívás- és jelzésirányítás költségeit, valamint a hívás- és jelzéstovábbítás járulékos többletköltségeit a hívás-, illetve jelzésirányításáért felelős, jogszabályban meghatározott szolgáltató viseli.
 
-(7) Az átvevő szolgáltató köteles az előfizető hozzájárulásának megfelelően a hordozott előfizetői számnak az előfizetői nyilvántartásban, valamint a tudakozóban való közzétételéről gondoskodni.
+(8) A szolgáltató által a hordozott számok tekintetében fizetendő azonosító használati díj megegyezik a nem hordozott számok használati díjával.
 
-(8) A számhordozhatóság biztosításának részletes szabályait külön jogszabály tartalmazza.
+(9) A számhordozás igénybevételéért az átadó szolgáltató hordozásonként egyszeri díjat határozhat meg, amelyet az átvevő szolgáltató fizet meg az átadó szolgáltató részére. A fizetendő díj nem haladhatja meg a számhordozás teljesítésével összefüggésben felmerült indokolt költségeket. A számhordozás igénybevétele a végfelhasználó részére díjmentes.
+
+(10) Az átvevő szolgáltató köteles az előfizető hozzájárulásának megfelelően a hordozott számnak az előfizetői nyilvántartásban, valamint a tudakozóban való közzétételéről gondoskodni.

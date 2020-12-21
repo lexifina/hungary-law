@@ -8,6 +8,8 @@ a) a lényegét tekintve azonos szolgáltatásokat nyújtó más szolgáltatók 
 
 b) legalább ugyanolyan feltételekkel, legalább ugyanolyan minőségű szolgáltatásokat és információt nyújt mások számára, mint amelyeket saját szolgáltatásaira, illetve bármely általa irányított más szolgáltató szolgáltatásaira alkalmaz.
 
+(2a) A Hatóság a (2) bekezdésben foglalt kötelezettség keretében előírhatja a jelentős piaci erővel rendelkező szolgáltató számára, hogy valamennyi szolgáltatónak, továbbá a saját kiskereskedelmi területének is, egységes határidővel és feltételekkel – ideértve az árra és a szolgáltatás színvonalára vonatkozó feltételeket is –, továbbá azonos rendszerek és folyamatok révén biztosítsa a hozzáférést.
+
 (3) E törvény alkalmazásában az egyenlő elbánás elvébe ütköző magatartásnak minősülhet különösen, ha a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató:
 
 a) hálózati szolgáltatás nyújtását indokolatlanul olyan műszaki feltételekhez köti, amelyek teljesítésére csak egyetlen vagy kevés szolgáltató képes;

@@ -1,19 +1,5 @@
-## Funkcionális szétválasztás
+108/A. § (1) Ha a Bizottság valamely hívásvégződtetési piacon nem határoz meg maximális hívásvégződtetési díjat, és a Hatóság a piacelemzés során megállapította, hogy ezen hívásvégződtetési piacon a verseny nem hatékony, akkor a Hatóság az Elnök rendeletében meghatározott elvek, kritériumok és előírások figyelembevételével költségalapú hívásvégződtetési díj alkalmazására vonatkozó kötelezettséget írhat elő.
 
-108/A. § (1) Amennyiben a Hatóság megállapítja, hogy a valamely érintett piacon jelentős piaci erejűként azonosított szolgáltatóra kirótt 102. §–108. § szerinti kötelezettségek alkalmazásával sem valósult meg a hatékony verseny és egyes nagykereskedelmi hozzáférési szolgáltatások piacain jelentős és tartós versenyproblémák, piaci torzulások állnak fenn, arra kötelezheti a vertikálisan integrált, jelentős piaci erővel rendelkező szolgáltatót, hogy az érintett nagykereskedelmi hozzáférési szolgáltatásával kapcsolatos tevékenységét önálló gazdasági egység keretében végezze.
+(2) A Hatóság ellenőrzi a hívásvégződtetési szolgáltatók által alkalmazott hívásvégződtetési díjakat, és amennyiben valamely szolgáltató hívásvégződtetési díja nem felel meg a Bizottság rendeletében meghatározott díjnak, a Hatóság általános hatósági felügyeleti eljárásban kötelezheti a szolgáltatót a hívásvégződtetési díjának a többi szolgáltató által a bizottsági rendelet alapján alkalmazott díjhoz történő kiigazítására.
 
-(2) Ez az önálló gazdasági egység valamennyi szolgáltatónak – ideértve a felette legalább a Ptk. szerinti többségi befolyással rendelkező önálló gazdasági egységnek legalább többségi befolyása alatt álló más önálló gazdasági egységeit is – azonos szerződési feltételekkel – ideértve különösen az árra, a szolgáltatás színvonalára, a teljesítési határidőre vonatkozó feltételeket is – valamint azonos műszaki feltételek és eljárások alkalmazásával köteles nyújtani a hozzáférési szolgáltatásokat.
-
-(3) A Hatóság a határozatában előírja a szétválasztás részletes szabályait, meghatározva különösen:
-
-a) a létrejövő önálló gazdasági egység jogállását;
-
-b) a létrejövő önálló gazdasági egység eszközeit, valamint az általa szolgáltatandó termékeket vagy szolgáltatásokat;
-
-c) a létrejövő önálló gazdasági egység által foglalkoztatott munkavállalók személyzeti függetlenségét biztosító vezetési szabályokat és a kapcsolódó ösztönző rendszert;
-
-d) a kötelezettségek teljesítését biztosító szabályokat;
-
-e) a gazdasági tevékenység – különösen más érdekeltekkel szembeni – átláthatóságát biztosító szabályokat;
-
-f) a kötelezettségek teljesítését biztosító intézkedéseket, beleértve az éves jelentés közzétételét is.
+(3) Amennyiben a Hatóság az (1) bekezdés szerinti költségalapú hívásvégződtetési díj alkalmazását írja elő és valamely hívásvégződtetési szolgáltató által alkalmazott hívásvégződtetési díj nem felel meg az (1) bekezdés szerinti kötelezettség alapján kialakított költségalapú hívásvégződtetési díjnak, a Hatóság általános hatósági felügyeleti eljárásban kötelezheti a szolgáltatót az (1) bekezdés szerint a Hatóság által kialakított költségalapú hívásvégződtetési díj alkalmazására. A Hatóság évente jelentést tesz a Bizottság és a BEREC számára a jelen §-ban foglaltak alkalmazásáról.

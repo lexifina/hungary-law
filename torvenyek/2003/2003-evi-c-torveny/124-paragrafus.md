@@ -1,1 +1,1 @@
-124. § A kijelölési eljárás részletes feltételeit és szabályait, a nettó elkerülhető költség, és az egyetemes szolgáltatás nyújtásából származó közvetett előnyök számításának részletes szabályait, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait az Elnök rendeletben állapítja meg.
+124. §

@@ -20,6 +20,6 @@ f) betartani a környezet védelmével, az élet, a testi épség, az egészség
 
 g) az együttműködés során a fogyasztók védelmére különös figyelmet fordítani.
 
-(2) Az elektronikus hírközlési hálózat üzemeltetői jogosultak, illetve, amennyiben azt más szolgáltató igényli, kötelesek a hálózatok összekapcsolásáról jóhiszemű tárgyalásokat folytatni.
+(2) Az elektronikus hírközlési hálózat üzemeltetői jogosultak, illetve, amennyiben azt más szolgáltató igényli, kötelesek a hálózatok összekapcsolásáról és a hálózatokhoz való hozzáférésről jóhiszemű tárgyalásokat folytatni. A kötelezettség kiterjed a Magyarországon nem, de az Európai Unió más tagállamában elektronikus hírközlési szolgáltatást nyújtó szolgáltatókkal való együttműködésre is.
 
 (3) A szolgáltatók a hálózati szerződésekkel kapcsolatos tárgyalások alatt, illetve azokkal összefüggésben a tudomásukra jutott üzleti titkot kizárólag ezzel összefüggésben használhatják fel, és az üzleti titkot más személy, üzletág részére nem adhatják át, amennyiben az üzleti titok átadása tisztességtelen versenyelőnyt eredményezhet.

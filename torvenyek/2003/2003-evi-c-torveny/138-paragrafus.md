@@ -4,11 +4,11 @@
 
 (2) A szolgáltató köteles az előfizetőt az ügyfélszolgálatán közzétéve, internetes honlapján, valamint az előfizetői szerződésben tájékoztatni arról, hogy
 
-a) az előfizetői szolgáltatás nyújtásával kapcsolatos bejelentéseket, panaszokat milyen feltételek szerint teheti meg a szolgáltatónál, az egyes fogyasztóvédelmi szerveknél, illetve az illetékes hatóságoknál,
+a) az előfizetői szolgáltatás nyújtásával kapcsolatos bejelentéseket, panaszokat milyen feltételek szerint teheti meg a szolgáltatónál, illetve a hatáskörrel rendelkező hatóságoknál,
 
 b) az ügyfélszolgálathoz érkező egyes panaszokat mennyi időn belül fogja kivizsgálni, és a vizsgálat eredményéről mennyi időn belül és milyen módon értesíti az előfizetőt,
 
-c) az előfizetői szolgáltatás nyújtásával kapcsolatos viták rendezése végett az előfizető mely fogyasztóvédelmi szervekhez, szervezetekhez, hatósághoz vagy bírósághoz fordulhat.
+c) az előfizetői szolgáltatás nyújtásával kapcsolatos viták rendezése végett az előfizető mely hatósághoz vagy bírósághoz fordulhat.
 
 (3) Ha az előfizető a szolgáltató által felszámított díj összegét vitatja, a szolgáltató a bejelentést (díjreklamációt) haladéktalanul nyilvántartásba veszi, és a bejelentés megvizsgálásának befejezéséig nem jogosult az előfizetői szerződést a 134. § (7) bekezdésében foglaltak szerint felmondani.
 

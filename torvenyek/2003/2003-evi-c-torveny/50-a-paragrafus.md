@@ -2,23 +2,23 @@
 
 a) használatbavételi engedély iránti kérelem határidőre történő benyújtásának elmulasztása esetén 300 000 Ft;
 
-b) engedélytől eltérően létesített, bontott elektronikus hírközlési építmény esetén
+b) engedélytől, bejelentéstől eltérően létesített vagy bontott elektronikus hírközlési építmény esetén
 
-ba) 200 000 Ft/km, de minimum 250 000 Ft, ha a jogsértéssel érintett építményrész nyomvonalának hossza a 3 km-t nem éri el,
+ba) ha a jogsértéssel érintett építményrész nyomvonalának hossza a 3 km-t nem éri el, az 1 km-t meg nem haladó nyomvonalrész tekintetében 250 000 Ft, egyebekben a nyomvonal hosszának minden megkezdett km-e után 200 000 Ft;
 
-bb) 600 000 Ft, és ezenfelül minden megkezdett km után 150 000 Ft/km, ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 3 km, de a 10 km-t nem éri el,
+bb) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 3 km, de a 10 km-t nem éri el, 600 000 Ft, és a 3 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 150 000 Ft;
 
-bc) 1 650 000 Ft, és ezenfelül minden megkezdett km után 100 000 Ft/km, ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 10 km,
+bc) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 10 km, 1 650 000 Ft, és a 10 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 100 000 Ft;
 
 bd) antenna vagy antennatartó szerkezet esetén 750 000 Ft;
 
-c) engedély nélkül létesített, bontott elektronikus hírközlési építmény esetén
+c) engedély, bejelentés nélkül, jogsértően létesített vagy bontott elektronikus hírközlési építmény esetén
 
-ca) 450 000 Ft/km, de minimum 500 000 Ft, ha a jogsértéssel érintett építményrész nyomvonalának hossza a 3 km-t nem éri el,
+ca) ha a jogsértéssel érintett építményrész nyomvonalának hossza a 3 km-t nem éri el, az 1 km-t meg nem haladó nyomvonalrész tekintetében 500 000 Ft, egyebekben a nyomvonal hosszának minden megkezdett km-e után 450 000 Ft;
 
-cb) 1 350 000 Ft, és ezenfelül minden megkezdett km után 300 000 Ft/km, ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 3 km, de a 10 km-t nem éri el,
+cb) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 3 km, de a 10 km-t nem éri el, 1 350 000 Ft, és a 3 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 300 000 Ft;
 
-cc) 3 450 000 Ft, és ezenfelül minden megkezdett km után 200 000 Ft/km, ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 10 km,
+cc) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 10 km, 3 450 000 Ft, és a 10 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 200 000 Ft;
 
 cd) antenna vagy antennatartó szerkezet esetén 1 500 000 Ft;
 

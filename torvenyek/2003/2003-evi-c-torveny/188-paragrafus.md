@@ -4,155 +4,137 @@
 
 1. Alapkiépítésű monitoring alrendszer: olyan, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelmények szerint Magyarország területén létesített és működtetett rendszer, amely lehetővé teszi az elektronikus hírközlési feladatokat ellátó szervezet előfizetői, illetve felhasználói köréből tetszőlegesen kiválasztható, az előfizetők (felhasználók) összlétszámának legalább 0,1–0,6%-át kitevő, 150 000 előfizetői létszám alatt 0,6%, de legalább 60, 150 000–1 000 000 előfizetői létszám között 0,3%, de legalább 900, 1 000 000 előfizetői létszám felett 0,1%, de legalább 3000 (a teljes előfizetői körből egy előfizetőre számított átlagforgalom legfeljebb kétszeresével forgalmazó) előfizető vagy felhasználó kommunikációjának egyidejű ellenőrizhetőségét és azok kísérőadatainak késedelem nélküli, teljes körű, folyamatos, egyidejű kiválasztását és kiadását a kilépési pontra.
 
-1/a. Azonosítás szolgáltatás: olyan kapcsolódó szolgáltatás melyet az előfizető vagy felhasználó személyére vonatkozó adatok igénybevételével nyújtanak.
+2. Azonosítás szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó személyére vonatkozó adatok igénybevételével nyújtanak.
 
-1/b. Adatkicserélő központ: adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
+3. Adatkicserélő központ: adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
 
-1/c. Adatkicserélő szolgáltatás: előfizetők, elektronikus hírközlési szolgáltatók, vagy információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók által kezdeményezett, illetve fogadott IP alapú adatforgalom továbbítását lehetővé tevő, adatkicserélő központ útján természetes vagy jogi személy adatkicserélő szolgáltató által nyújtott elektronikus hírközlési szolgáltatás.
+4. Adatkicserélő szolgáltatás: természetes személy, jogi személy vagy egyéb szervezet által kezdeményezett, illetve fogadott IP-alapú adatforgalom továbbítását lehetővé tevő, adatkicserélő központ útján természetes vagy jogi személy adatkicserélő szolgáltató által nyújtott elektronikus hírközlési szolgáltatás.
 
-2. Azonosító: az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához, illetőleg az elektronikus hírközlő hálózatok és szolgáltatások együttműködéséhez szükséges, az információ, illetőleg a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból, illetve jelekből álló karaktersorozat.
+5. Alkalmazásprogramozási interfész (API): a műsorterjesztők vagy szolgáltatók által rendelkezésre bocsátott alkalmazások, valamint a továbbfejlesztett digitális vevődekóderekben digitális televíziós és rádiós szolgáltatáshoz rendelkezésre álló erőforrások közötti szoftver interfész.
 
-3. Azonosítógazdálkodás: azon állami tevékenységek összessége, mely – a nemzetközi előírások figyelembevételével – a hírközlő hálózatok, illetőleg az elektronikus hírközlési szolgáltatások eléréséhez szükséges azonosítók használatát az egyes szolgáltatók számára rendelkezésre bocsátja. Jelen törvény vonatkozásában a domain név, az e-mail cím és az IP (Internet Protokoll) címekkel kapcsolatos tevékenységek nem tartoznak bele az azonosítógazdálkodási tevékenységbe.
+6. Azonosító: az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához, továbbá az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások együttműködéséhez szükséges, az információ, valamint a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból, illetve jelekből álló karaktersorozat.
 
-4. Áthelyezés: A helyhez kötött előfizetői elektronikus hírközlési szolgáltatás előfizetői hozzáférési pontjának a szolgáltató földrajzi szolgáltatási területén belül másik földrajzi helyre áthelyezése.
+7. Azonosítógazdálkodás: azon állami tevékenységek összessége, amelyek – a nemzetközi előírások figyelembevételével – az elektronikus hírközlő hálózatok, valamint az elektronikus hírközlési szolgáltatások eléréséhez szükséges azonosítók használatát az egyes elektronikus hírközlési szolgáltatók számára rendelkezésre bocsátják. E törvény vonatkozásában a domain név, az e-mail-cím és az IP-(Internet Protokoll) címekkel kapcsolatos tevékenységek nem tartoznak az azonosítógazdálkodási tevékenység körébe.
 
-5. Átírás: Az előfizetői szerződésnek az előfizető személyében bekövetkezett jogutódlás miatti módosítása.
+8. Áthelyezés: a helyhez kötött elektronikus hírközlési szolgáltatás előfizetői hozzáférési pontjának a szolgáltató földrajzi szolgáltatási területén belül másik földrajzi helyre áthelyezése.
 
-5/a. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
+9. Barangolás mobil rádiótelefon-hálózaton: mobil rádiótelefon-hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon-szolgáltató vagy -üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna.
 
-6. Barangolás mobil rádiótávközlő hálózaton: mobil rádiótelefon hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon szolgáltató vagy üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt alap-, illetve a műszaki lehetőségek figyelembevételével további szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna.
+10. Bitfolyam hozzáférés: kétirányú, adott nagy sebességű digitális hálózati szolgáltatás, amelynek során aktív hálózati eszközeinek átviteli kapacitását engedi át, illetve osztja meg az arra kötelezett szolgáltató az arra jogosult szolgáltatóval.
 
-6/A. Belföldi forgalomba hozatal: Magyarországon első alkalommal történő forgalmazás.
+11. Biztonsági esemény: olyan nem kívánt vagy nem várt esemény, amely ténylegesen kedvezőtlen hatást gyakorol az elektronikus hírközlő hálózatok és információs rendszereik, vagy az azokon – közvetve vagy közvetlenül – nyújtott elektronikus hírközlési szolgáltatások biztonságára, különösen azáltal, hogy hátrányosan érinti a tárolt, továbbított vagy kezelt adatok rendelkezésre állását, használatát, hitelességét, sértetlenségét, biztonságát vagy bizalmasságát.
 
-6b. Barangolásszolgáltató: az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés a) pontjában meghatározott vállalkozás.
+12. E-segélyhívás: olyan, járműből az európai harmonizált segélyhívó számra érkező segélyhívás, amelyet vagy automatikusan a járműbe épített érzékelő aktiválása hatására, vagy manuálisan indítanak, és amely szabványos adatokat továbbít mobil rádiótelefon-hálózatok segítségével, és hangátviteli csatornát hoz létre a járműben tartózkodók és a segélyszolgálati állomás között.
 
-7. Belföldi hívás: minden olyan hívás, amelyet belföldön kezdeményeznek, és belföldön végződik.
+13. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
 
-8.
+14. Elektronikus hírközlési építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – többek között burkoló, tartó, védő, jelző – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket.
 
-9. Bitfolyam hozzáférés: kétirányú, adott nagysebességű digitális hálózati szolgáltatás, amelynek során aktív hálózati eszközeinek átviteli kapacitását engedi át, illetve osztja meg az arra kötelezett szolgáltató az arra jogosult szolgáltatóval.
+15. Elektronikus hírközlési építmény építési folyamatának résztvevője: az építőipari kivitelezési tevékenység megkezdésére és folytatására hatósági határozat alapján jogosult építtető, az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges tervdokumentáció elkészítéséhez jogosultsággal rendelkező tervező, kivitelező, az építési területen végzett építési-szerelési munkát irányító felelős műszaki vezető, az építőipari kivitelezési tevékenység teljes folyamatában a vonatkozó jogszabályok, hatósági előírások, szabványok, szerződések és a tervdokumentáció betartását elősegítő és ellenőrző építési műszaki ellenőr.
 
-9/a. E-segélyhívás: olyan, járműből az európai harmonizált segélyhívó számra érkező segélyhívás, amelyet vagy automatikusan a járműbe épített érzékelő aktiválása hatására, vagy manuálisan indítanak, és amely szabványos adatokat továbbít mobil rádiótelefon-hálózatok segítségével, és hangátviteli csatornát hoz létre a járműben tartózkodók és a segélyszolgálati állomás között.
+16. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért – jellemzően díjazás ellenében – nyújtott szolgáltatás, amely az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató, ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatások vagy az információs társadalommal összefüggő, jogszabályban meghatározott, személyközi hírközlési szolgáltatásnak nem minősülő szolgáltatások kivételével magában foglalja
 
-10. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
+a) az internet-hozzáférési szolgáltatást;
 
-11. Egyetemes elektronikus hírközlési szolgáltatás: az e törvényben meghatározott azon elektronikus hírközlési szolgáltatások, amelyek meghatározott minőségben, Magyarország területén bárhol, minden felhasználó számára megfizethető ár ellenében igénybe vehetők.
+b) a személyközi hírközlési szolgáltatást; és
 
-12. Elektronikus hírközlési építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket;
+c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából álló szolgáltatást, ideértve a gépek közötti szolgáltatást és a műsorterjesztésre használt átviteli szolgáltatást is.
 
-12/a. Elektronikus hírközlési építmény építési folyamatának résztvevője: az építőipari kivitelezési tevékenység megkezdésére és folytatására hatósági határozat alapján jogosult építtető, az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges tervdokumentáció elkészítéséhez jogosultsággal rendelkező tervező, kivitelező, az építési területen végzett építési-szerelési munkát irányító felelős műszaki vezető, az építőipari kivitelezési tevékenység teljes folyamatában a vonatkozó jogszabályok, hatósági előírások, szabványok, szerződések és a tervdokumentáció betartását elősegítő és ellenőrző építési műszaki ellenőr.
+17. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes személy, jogi személy vagy egyéb szervezet.
 
-13. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, ideértve az adatkicserélő szolgáltatást, valamint a nyilvános adatkicserélő szolgáltatást is, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
+18. Elektronikus hírközlési tevékenység: olyan tevékenység, amely bármely értelmezhető formában előállított jel, jelzés, írás, kép, hang vagy bármely természetű egyéb közlemény elektronikus hírközlő hálózaton keresztül egy vagy több felhasználóhoz történő eljuttatását szolgálja, így különösen az elektronikus hírközlési szolgáltatás nyújtása, elektronikus hírközlő hálózat vagy berendezés üzemeltetése, végberendezések forgalmazása és a kapcsolódó eszközök üzemeltetése, kapcsolódó szolgáltatások nyújtása.
 
-14. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy.
+19. Elektronikus hírközlésre vonatkozó szabály: e törvény, e törvény felhatalmazása alapján a törvény végrehajtása tárgyában kibocsátott jogszabály, elektronikus hírközlésre vonatkozó, közvetlenül alkalmazandó európai uniós jogi aktus, Hatóság határozata és a Hatóság által az ügyféllel kötött hatósági szerződés.
 
-15. Elektronikus hírközlési tevékenység: olyan tevékenység, amely bármely értelmezhető formában előállított jel, jelzés, írás, kép, hang vagy bármely természetű egyéb közlemény elektronikus hírközlő hálózaton keresztül egy vagy több felhasználóhoz történő eljuttatását szolgálja, így különösen az elektronikus hírközlési szolgáltatás nyújtása, elektronikus hírközlő hálózat vagy berendezés üzemeltetése, végberendezések forgalmazása és a kapcsolódó szolgáltatások.
+20. Elektronikus hírközlő berendezés: az elektronikus hírközlési tevékenység végzéséhez szükséges berendezés, ideértve többek között a készüléket.
 
-16. Elektronikus hírközlésre vonatkozó szabály: e törvény, e törvény felhatalmazása alapján a törvény végrehajtása tárgyában kibocsátott jogszabály, elektronikus hírközlésre vonatkozó, közvetlenül alkalmazandó európai uniós jogi aktus, Hatóság határozata és a Hatóság által az ügyféllel kötött hatósági szerződés.
+21. Elektronikus hírközlő eszköz: az elektronikus hírközlő berendezések és a kapcsolódó eszközök összessége, ideértve az antennákat is.
 
-17. Elektronikus hírközlő berendezés: az elektronikus hírközlési tevékenység végzéséhez szükséges berendezés, ideértve többek között a készüléket.
+22. Elektronikus hírközlő hálózat: jelek vezetékes vagy vezeték nélküli úton elektronikus hírközlő eszközökkel történő továbbítását lehetővé tevő, állandó infrastruktúrán vagy központilag adminisztrált kapacitáselosztáson alapuló rendszerek, továbbá adott esetben kapcsoló vagy útválasztó eszközök, valamint más erőforrások, beleértve a nem aktív hálózati elemeket is. Elektronikus hírközlő hálózat különösen a műholdas hálózat, a helyhez kötött – vezetékes vagy vezeték nélküli – hálózat és a mobil rádiótelefon-hálózat; az energiaellátó kábelrendszerek olyan mértékben, amennyiben azokat a jelek továbbítására használják, valamint a műsorterjesztő hálózat.
 
-18. Elektronikus hírközlő eszköz: az elektronikus hírközlő berendezések és a kapcsolódó eszközök összessége, ideértve az antennákat is.
+23. Elektronikus hírközlő végberendezés: a hálózati végponton vezetékes vagy vezeték nélküli módon közvetlenül vagy közvetve kapcsolódó eszköz, amelynek célja információk küldése, feldolgozása vagy fogadása, beleértve a műholdas földi állomások berendezéseit is.
 
-19. Elektronikus hírközlő hálózat: átviteli rendszerek és – ahol ez értelmezhető – a hálózatban jelek irányítására szolgáló berendezések, továbbá más erőforrások – beleértve a nem aktív hálózati elemeket is –, amelyek jelek továbbítását teszik lehetővé meghatározott végpontok között vezetéken, rádiós, optikai vagy egyéb elektromágneses úton, beleértve a műholdas hálózatokat, a helyhez kötött és a mobil földfelszíni hálózatokat, az energiaellátó kábelrendszereket, olyan mértékben, amennyiben azt a jelek továbbítására használják, a műsorszórásra használt hálózatokat és a kábeltelevíziós hálózatokat, tekintet nélkül a továbbított információ fajtájára.
+24. Előfizető: olyan természetes vagy jogi személy, vagy más szervezet, aki vagy amely a nyilvánosan elérhető elektronikus hírközlési szolgáltatás nyújtójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
 
-20. Elektronikus hírközlő hálózat üzemeltetője: nyilvános elektronikus hírközlő hálózat, illetve kapcsolódó eszközök feletti rendelkezési vagy használati jogot gyakorló természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet.
+25. Előfizetői hozzáférési pont: azon hálózati végpont, amelyen keresztül az előfizető, vagy felhasználó egy elektronikus hírközlő végberendezés fizikai és logikai csatlakoztatása révén hálózati funkciókat és a hálózaton nyújtott szolgáltatásokat vehet igénybe.
 
-21. Elektronikus hírközlő végberendezés: olyan termék vagy egy termék olyan része, amelynek rendeltetése az elektronikus hírközlő hálózatra való kapcsolódás közvetlenül vagy közvetve, az előfizetői hozzáférési ponton keresztül az elektronikus hírközlő hálózattal való együttműködés céljából.
+26. Előfizetői hozzáférést nyújtó szolgáltató: azon elektronikus hírközlési szolgáltató, amely valamely elektronikus hírközlő hálózathoz vagy annak részéhez elektronikus hírközlő végberendezés nyilvánosan elérhető elektronikus hírközlési szolgáltatások igénybevétele céljából történő fizikai és logikai csatlakoztatására vonatkozóan az előfizetővel előfizetői szerződést kötött.
 
-22. Előfizető: olyan természetes vagy jogi személy, vagy más szervezet, aki vagy amely a nyilvánosan elérhető elektronikus hírközlési szolgáltatás nyújtójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
+27. Előfizetői szolgáltatás: a nyilvánosan elérhető, e törvény értelmében hálózati szolgáltatásnak nem minősülő elektronikus hírközlési szolgáltatás.
 
-23. Előfizetői hozzáférési pont: azon hálózati végpont, amelyen keresztül az előfizető, vagy felhasználó egy elektronikus hírközlő végberendezés fizikai és logikai csatlakoztatása révén hálózati funkciókat és a hálózaton nyújtott szolgáltatásokat vehet igénybe.
+28. Építési munka: olyan építési vagy közművesítési munkák, amelyek összességében vett eredménye önmagában alkalmas valamely gazdasági vagy műszaki funkció ellátására, és amely egy fizikai infrastruktúra legalább egy elemét érinti.
 
-24. Előfizetői hozzáférést nyújtó szolgáltató: azon elektronikus hírközlési szolgáltató, amely valamely elektronikus hírközlő hálózathoz vagy annak részéhez elektronikus hírközlő végberendezés nyilvánosan elérhető elektronikus hírközlési szolgáltatások igénybevétele céljából történő fizikai és logikai csatlakoztatására vonatkozóan az előfizetővel előfizetői szerződést kötött.
+29. Épületen belüli fizikai infrastruktúra: az épület hozzáférési pontján végződő, a végfelhasználói helyen található fizikai infrastruktúra vagy létesítmény, ideértve a vezetékes vagy a vezeték nélküli hozzáférési hálózatok fogadására szánt, közös tulajdonban lévő elemeket is, amennyiben ezek a hozzáférési hálózatok alkalmasak előfizetői szolgáltatás nyújtására.
 
-25. Előfizetői szolgáltatás: a nyilvánosan elérhető, e törvény értelmében hálózati szolgáltatásnak nem minősülő elektronikus hírközlési szolgáltatás.
+30. Épület-hozzáférési pont: az épületen belül vagy kívül elhelyezkedő, elektronikus hírközlési szolgáltatás nyújtására hozzáférhető azon fizikai pont, amely lehetővé teszi az épületen belüli fizikai infrastruktúrához való fizikai és logikai csatlakozást.
 
-25/A. Az Európai Gazdasági Térség tagállama: az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+31. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
 
-25/B. Építési munka: olyan építési vagy közművesítési munkák, amelyek összességében vett eredménye önmagában alkalmas valamely gazdasági vagy műszaki funkció ellátására, és amely egy fizikai infrastruktúra legalább egy elemét érinti.
+32. Feltételes hozzáférési rendszer: műszaki intézkedéssel, hitelesítési rendszerrel vagy módszerrel a műsorterjesztésben alkalmazott hozzáférés-korlátozás, melynek során a védett tartalomhoz, szolgáltatáshoz értelmezhető formában történő hozzáférés előfizetéshez vagy más formában megjelenő előzetes engedélyhez kötött.
 
-25/C. Épületen belüli fizikai infrastruktúra: a végfelhasználói helyen található fizikai infrastruktúra vagy létesítmény, ideértve a vezetékes vagy a vezeték nélküli hozzáférési hálózatok fogadására szánt, közös tulajdonban lévő elemeket is, amennyiben ezek a hozzáférési hálózatok alkalmasak előfizetői szolgáltatás nyújtására és az épület hozzáférési pontjának az elektronikus hírközlő hálózat hálózati végpontjával való összekapcsolására.
+33. Fizikai helymegosztás: olyan helymegosztás, amelynek esetében a jogosult berendezései az arra kötelezett szolgáltató létesítményén belül, utóbbi által rendelkezésre bocsátott meghatározott helyen kerülnek elhelyezésre.
 
-25/D. Épület-hozzáférési pont: az épületen belül vagy kívül elhelyezkedő, a szolgáltatók számára hozzáférhető azon fizikai pont, amely lehetővé teszi a nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúrához való fizikai és logikai csatlakozást.
+34. Fizikai infrastruktúra: a hírközlő vezetékek, az aktív hálózati elemeket nélkülöző optikai szál, az ivóvíz-törzshálózat és az ivóvíz-bekötővezeték (azaz emberi fogyasztásra szánt víz szállítására használt hálózati elemek) kivételével a 47. pontban meghatározott rendeltetésű hálózathoz tartozó, különösen átviteli vagy elosztó hálózat elemek, csővezeték, védőcsövek, védőcsövek szerelvényei, alépítmény, ellenőrzőkamra, ellenőrzőakna, szekrény, építmény, antennaszerkezet, torony, tartóoszlop vagy más olyan elem, amely a hálózat más elemeinek fogadására szolgál anélkül, hogy maga is a hálózat aktív részévé válna.
 
-26. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, amely használja vagy igényli az elektronikus hírközlési tevékenységeket, így különösen az elektronikus hírközlési szolgáltatásokat.
+35. Fogyasztó: az a természetes személy, aki szakmáján, üzleti, kereskedelmi, művészeti tevékenységén vagy hivatásán kívül eső célból nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
 
-27. Fizikai helymegosztás: Olyan helymegosztás, amelynek esetében a helymegosztásra jogosult berendezései az arra kötelezett szolgáltató létesítményén belül, utóbbi által rendelkezésre bocsátott meghatározott helyen kerülnek elhelyezésre.
+36. Forgalmazás: a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i 2019/1020/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 2019/1020/EU rendelet) 3. cikk 1. pontjában meghatározott fogalom.
 
-27/a. Fizikai infrastruktúra: a hírközlő vezetékek, az aktív hálózati elemeket nélkülöző optikai szál, az ivóvíz-törzshálózat és az ivóvíz-bekötővezeték (azaz emberi fogyasztásra szánt víz szállítására használt hálózati elemek) kivételével a 33/a. pontban meghatározott rendeletetésű hálózathoz tartozó, különösen átviteli vagy elosztó hálózat elemek, csővezeték, védőcsövek, védőcsövek szerelvényei, alépítmény, ellenőrzőkamra, ellenőrzőakna, szekrény, építmény, antennaszerkezet, torony, tartóoszlop vagy más olyan elem, amely a hálózat más elemeinek fogadására szolgál anélkül, hogy maga is a hálózat aktív részévé válna,
+37. Forgalmazó: a 2019/1020/EU rendelet 3. cikk 10. pontjában meghatározott fogalom.
 
-28. Fogyasztó: bármilyen természetes személy, aki szakmáján, üzleti tevékenységén vagy hivatásán kívül eső célból nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
+38. Forgalomba hozatal: a 2019/1020/EU rendelet 3. cikk 2. pontjában meghatározott fogalom.
 
-29. Forgalmazás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 1. pontjában meghatározott fogalom.
+39. Földrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amelynek földrajzi helyre utaló számrészét az előfizetői hozzáférési pont fizikai helyére történő hívásirányításra használják.
 
-29/A. Forgalmazó: a 765/2008/EK rendelet 2. cikk 6. pontjában meghatározott fogalom.
+40. Frekvenciafelosztás: egy adott frekvenciasávhoz egy vagy több rádiószolgálat hozzárendelése abból a célból, hogy azok a frekvenciasávot meghatározott feltételek mellett használják.
 
-29/B. Forgalomba hozatal: a 765/2008/EK rendelet 2. cikk 2. pontjában meghatározott fogalom.
+41. Frekvenciagazdálkodás (rádióspektrum-gazdálkodás): azon állami tevékenységek összessége, amelyek a rádióspektrum szabályozott nemzeti és nemzetközi felhasználását szolgálják, célja a rádióspektrum hatékony és káros zavarástól mentes felhasználása, a frekvenciák biztosítása a rádiószolgálatok keretében működő rádiótávközlési, rádiócsillagászati és egyéb nem rádiótávközlési alkalmazások számára.
 
-30. Földrajzi szám: az ANFT-ben meghatározott olyan szám, amely földrajzi helyre utaló számrészét a számkijelölés szerinti előfizetői hozzáférési pont fizikai helyére történő irányítására használnak.
+42. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
-30/a. Frekvenciafelosztás: egy adott frekvenciasávhoz egy vagy több rádiószolgálat hozzárendelése abból a célból, hogy azok a frekvenciasávot meghatározott feltételek mellett használják.
+43. Gépek közötti szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amely az adatok és információk automatikus továbbítását foglalja magában eszközök vagy szoftveralapú alkalmazások között, korlátozott emberi beavatkozással vagy anélkül.
 
-31. Frekvenciagazdálkodás: azon állami tevékenységek összessége, melyek a rádióspektrum szabályozott nemzeti és nemzetközi felhasználását szolgálják, célja a rádióspektrum hatékony és káros zavarástól mentes felhasználása, a frekvenciák biztosítása a rádiószolgálatok keretében működő rádiótávközlési, rádiócsillagászati és egyéb nem rádiótávközlési alkalmazások számára.
+44. Gyártó: a 2019/1020/EU rendelet 3. cikk 8. pontjában meghatározott személy.
 
-31/a. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+45. Hálózat egysége: az elektronikus hírközlő hálózat létesítésére, működtetésére, módosítására és megszüntetésére vonatkozó műszaki követelményrendszernek való megfelelés, amely biztosítja az együttműködő hálózatok használatának és az ezekhez történő hozzáférésnek a zavartalanságát, továbbá a hálózatban tárolt adatok funkcionális változatlanságát.
 
-32. Gyártó: a 765/2008/EK rendelet 2. cikk 3. pontjában meghatározott személy.
+46. Hálózatok és szolgáltatások biztonsága: az elektronikus hírközlő hálózatok és hírközlési szolgáltatások arra való képessége, hogy adott bizonyossággal ellenálljanak minden olyan cselekménynek, amely veszélyezteti a hálózatok és szolgáltatások, a rajtuk tárolt, továbbított vagy kezelt adatok vagy az említett elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások keretében nyújtott vagy rajtuk keresztül elérhető kapcsolódó szolgáltatások rendelkezésre állását, hitelességét, sértetlenségét vagy bizalmasságát.
 
-33. Hálózat egysége: az elektronikus hírközlő hálózat létesítésére, működtetésére, módosítására és megszüntetésére vonatkozó műszaki követelményrendszernek való megfelelés, amely biztosítja az együttműködő hálózatok használatának és az ezekhez történő hozzáférésnek a zavartalanságát, továbbá a hálózatban tárolt adatok funkcionális változatlanságát.
+47. Hálózatüzemeltető: a földgáz, a villamos energia, a távhő előállításával, termelésével, szállításával, elosztásával vagy átvitelével kapcsolatos szolgáltatások, a közvilágítás, a víziközmű-szolgáltatás, valamint a vasúti, közúti, hajózási, repülőtéri, más közlekedési szolgáltatások nyújtására szolgáló fizikai infrastruktúra tulajdonosa, illetve annak üzemeltetője, valamint a nyilvános elektronikus hírközlő hálózat üzemeltetője.
 
-33/a. Hálózatüzemeltető: a földgáz, a villamos energia, a távhő előállításával, termelésével, szállításával, elosztásával vagy átvitelével kapcsolatos szolgáltatások, a közvilágítás, a víziközmű-szolgáltatás, valamint a vasúti, közúti, hajózási, repülőtéri, más közlekedési szolgáltatások nyújtására szolgáló fizikai infrastruktúra tulajdonosa, illetve annak üzemeltetője, valamint a nyilvános elektronikus hírközlő hálózat üzemeltetője.
+48. Hálózati hozzáférési pont: a hálózatnak más hálózat fizikai és logikai csatlakoztatására kijelölt olyan pontja, amelyen keresztül a hozzáférési szolgáltatás megvalósul.
 
-34. Hálózati hozzáférési pont: a hálózatnak más hálózat fizikai csatlakoztatására kijelölt olyan pontja, melyen keresztül a hozzáférési szolgáltatás megvalósul.
+49. Hálózati szerződés: a hálózati szolgáltatások igénybevételére, azokhoz való hozzáférésre irányuló, szolgáltatók vagy szolgáltató és valamely vállalkozás közötti szerződés, ideértve a hozzáférésre és összekapcsolásra irányuló szerződést, továbbá a lineáris médiaszolgáltató és a műsorterjesztő közötti, műsorterjesztés igénybevételére irányuló szerződést is.
 
-35. Hálózati szerződés: a hálózati szolgáltatások igénybevételére, azokhoz való hozzáférésre irányuló, szolgáltatók vagy szolgáltató és valamely vállalkozás közötti szerződés, ideértve a hozzáférésre és összekapcsolásra irányuló szerződést, továbbá a lineáris médiaszolgáltató és a műsorterjesztő közötti, műsorterjesztési szolgáltatás igénybevételére irányuló szerződést is.
+50. Hálózati szolgáltatás: hozzáférési illetve összekapcsolási szolgáltatás nyújtása más szolgáltató vagy vállalkozás számára, illetve az ezek nyújtásához szükséges kiegészítő szolgáltatások.
 
-36. Hálózati szolgáltatás: hozzáférési és/vagy összekapcsolási szolgáltatás nyújtása más szolgáltató vagy vállalkozás számára, illetve az ezek nyújtásához szükséges kiegészítő szolgáltatások.
+51. Hálózati végpont: az a fizikai és logikai csatlakozási pont, amelyen keresztül a végfelhasználó hozzáfér vagy hozzáférhet a nyilvános elektronikus hírközlő hálózathoz. A hálózati végpont azonosítására kapcsolással vagy irányítással működő hálózatok esetén egyedi, a végfelhasználói névhez vagy címhez kapcsolható hálózati cím szolgál.
 
-37. Hálózati végpont: az a fizikai és logikai csatlakozási pont vagy rádiós csatlakozási felület, amelyen keresztül a szolgáltató hozzáférést nyújt egy elektronikus hírközlő hálózathoz.
+52. Hatékony szolgáltató: az a szolgáltató, amelynek az egy termék-, illetve szolgáltatásegységre jutó költsége nemzetközi összehasonlításban elfogadható, figyelembe véve az adott piaci körülményeket, a szolgáltatás nyújtásának technológiáját és a szolgáltató méretét.
 
-38.
+53. Helyhez kötött telefonszolgáltatás: helyhez kötött hálózati végponton keresztül igénybe vehető nyilvánosan elérhető telefonszolgáltatás, amely nem minősül nyilvánosan elérhető mobil rádiótelefon-szolgáltatásnak.
 
-39.
+54. Helyi alhurok: a helyhez kötött nyilvános elektronikus hírközlő hálózatban alkalmazott helyi hurok egy olyan szakasza, amely egy előfizetői hozzáférési pontot összeköt egy aggregációs ponttal vagy egy meghatározott köztes hozzáférési ponttal.
 
-40. Hatékony szolgáltató: az a szolgáltató, amelynek az egy termék-, illetve szolgáltatásegységre jutó költsége nemzetközi összehasonlításban elfogadható, figyelembe véve az adott piaci körülményeket, a szolgáltatás nyújtásának technológiáját és a szolgáltató méretét.
+55. Helyi hurok: a nyilvános helyhez kötött elektronikus hírközlő hálózatban valamely hálózati végpontnak a kábelrendezőig vagy azzal egyenértékű eszközig terjedő transzparens elektronikus hírközlési jelkapcsolatát biztosító fizikai útvonal.
 
-41. Helyhez kötött telefonszolgáltatás: helyhez kötött előfizetői végponton keresztül igénybe vehető nyilvános telefonszolgáltatás, amely nem minősül nyilvánosan elérhető mobil rádiótelefon szolgáltatásnak.
+56. Helyi hurok átengedése: a helyi hurok teljes átengedése és a helyi hurok részleges átengedése, amely nem vonja maga után a helyi hurok tulajdonjogának megváltozását.
 
-42. Helyhez kötött telefonhálózat: helyhez kötött telefon szolgáltatás igénybevételét lehetővé tevő nyilvános telefonhálózat.
+57. Helyi hurok részleges átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult szolgáltató számára, amely lehetővé teszi a hálózati infrastruktúra egy meghatározott részének, például a frekvencia egy részének vagy ezzel egyenértékű résznek a használatát.
 
-43. Helyi alhurok: a helyhez kötött nyilvános elektronikus hírközlő hálózatban alkalmazott helyi hurok egy olyan szakasza, amely egy előfizetői hozzáférési pontot összeköt egy koncentrációs ponttal vagy egy meghatározott köztes hozzáférési ponttal.
+58. Helyi hurok teljes átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult számára, amely lehetővé teszi a hálózati infrastruktúra teljes kapacitásának használatát.
 
-44.
+59. Helymeghatározási adat: a nyilvános mobilhálózatokon a hálózati infrastruktúrából vagy mobil készülékekből származó mindazon feldolgozott adat, amely meghatározza a végfelhasználó mobil végberendezésének földrajzi helyzetét, illetve nyilvános helyhez kötött hálózatokon a hálózati végpont nyilvántartásban rögzített címét.
 
-45. Helyi hurok: a nyilvános helyhez kötött elektronikus hírközlő hálózatban valamely előfizetői hozzáférési pontot egy rendezővel vagy annak megfelelő eszközzel összekapcsoló transzparens fizikai áramkör (így különösen a sodrott rézérpáras, illetve koaxiális kábeles, illetve optikai szálas, vagy más, ezekkel egyenértékű átviteli közegen létesített kapcsolat).
+60. Helymeghatározási szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet helymeghatározási adatok megadásával nyújtanak.
 
-46. Helyi hurok átengedése: a helyi hurok teljes átengedése és a helyi hurok részleges átengedése, amely nem vonja maga után a helyi hurok tulajdonjogának megváltozását.
+61. Helymegosztás: erre kötelezett szolgáltató által fizikai tér és műszaki feltételek biztosítása a jogosult szolgáltató részére, annak berendezései megfelelő elhelyezése és bekapcsolása céljából fizikai, távoli, illetve virtuális helymegosztás útján.
 
-47. Helyi hurok részleges átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult szolgáltató számára, amely lehetővé teszi a hálózati infrastruktúra egy meghatározott részének, például a frekvencia egy részének vagy ezzel egyenértékű résznek a használatát.
+62. Hívás: nyilvánosan elérhető személyközi hírközlési szolgáltatás igénybevételével megvalósított, kétirányú hangalapú kommunikációt lehetővé tevő kapcsolat.
 
-48. Helyi hurok teljes átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult számára, amely lehetővé teszi a hálózati infrastruktúra teljes kapacitásának használatát.
+63. Hívásvégződtetés forgalmi szolgáltatás: hálózati szolgáltatás, a hívás továbbítása az összekapcsolási pontról a hívott előfizető hozzáférési pontjára.
 
-49. Helymeghatározási adat: az elektronikus hírközlő hálózatban vagy az elektronikus hírközlési szolgáltatás során kezelt bármely adat, amely egy elektronikus hírközlési szolgáltatás felhasználója végberendezésének földrajzi helyzetét jelzi.
-
-49/a. Helymeghatározási szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó helymeghatározási adatainak megadásával nyújtanak.
-
-50. Helymegosztás: erre kötelezett szolgáltató által fizikai tér és műszaki feltételek biztosítása a jogosult szolgáltató részére, annak berendezései megfelelő elhelyezése és bekapcsolása céljából fizikai, távoli, illetve virtuális helymegosztás útján.
-
-50/a. Hívás: nyilvánosan elérhető elektronikus hírközlési szolgáltatás igénybevételével megvalósított, kétirányú hangalapú kommunikációt lehetővé tevő csatlakozás.
-
-51. Híváskezdeményezés forgalmi szolgáltatás: hálózati szolgáltatás, hívás továbbítása a hívó előfizető hozzáférési pontjáról az összekapcsolási pontig.
-
-52.
-
-53. Hívásvégződtetés forgalmi szolgáltatás: hálózati szolgáltatás, a hívás továbbítása az összekapcsolási pontról a hívott előfizető hozzáférési pontjára.
-
-54.
-
-55. Hosszú távú, előremutató különbözeti költségek költségszámítási módszere (LRIC): az a költségszámítási módszer, amely a szolgáltatók számviteli nyilvántartásaiban szereplő tényadatokat és a szolgáltató meglévő elektronikus hírközlési struktúráját használja fel kiindulási pontként, a tárgyi eszközökre, immateriális javakra és működési költségekre, illetve ráfordításokra vonatkozó tényleges adatokat a működésében hosszú távon feltételezett változások és hatékonysági tényezők figyelembevételével átértékeli, majd ezek mennyiségtől függő részét a közvetett költségek megtérülését biztosító felár figyelembevételével költség-meghatározó tényezők és költségmennyiség függvények segítségével tevékenységekre és termékekre allokálja.
-
-56. Hozzáférés: eszközök vagy szolgáltatások rendelkezésre bocsátása más elektronikus hírközlési szolgáltató vagy vállalkozás részére meghatározott feltételek mellett, kizárólagos vagy nem kizárólagos jelleggel, elektronikus hírközlési szolgáltatások nyújtása céljából, beleértve azt is, amikor ezeket az információs társadalommal összefüggő szolgáltatások vagy lineáris médiaszolgáltatás nyújtására használják. A hozzáférés kiterjed többek között a hálózati elemekhez és kapcsolódó eszközökhöz történő hozzáférésre, amely magában foglalhatja
+64. Hozzáférés: eszközök vagy szolgáltatások rendelkezésre bocsátása más elektronikus hírközlési szolgáltató vagy vállalkozás részére meghatározott feltételek mellett, kizárólagos vagy nem kizárólagos jelleggel, elektronikus hírközlési szolgáltatások nyújtása céljából, beleértve azt is, amikor ezeket az információs társadalommal összefüggő szolgáltatások vagy lineáris médiaszolgáltatás nyújtására használják. A hozzáférés kiterjed többek között a hálózati elemekhez és kapcsolódó eszközökhöz történő hozzáférésre, amely magában foglalhatja
 
 a) a berendezések vezetékes vagy vezeték nélküli módon történő csatlakoztatását (ez tartalmazza különösen a helyi hurokhoz és a helyi hurok révén történő szolgáltatásnyújtáshoz szükséges eszközökhöz és szolgáltatásokhoz történő hozzáférést);
 
@@ -168,56 +150,104 @@ f) a megfelelő szoftverrendszerekhez való hozzáférést, beleértve a működ
 
 g) a helyhez kötött és mobil rendszerekhez való hozzáférést, különösen barangolás céljából;
 
-h) digitális televíziós szolgáltatások feltételes hozzáférési rendszereihez való hozzáférést;
+h) a digitális televíziós szolgáltatások feltételes hozzáférési rendszereihez való hozzáférést;
 
-i) virtuális hálózati szolgáltatásokhoz való hozzáférést.
+i) a virtuális hálózati szolgáltatásokhoz való hozzáférést.
 
-56/a. Importőr: a 765/2008/EK rendelet 2. cikk 5. pontjában meghatározott személy.
+65. Importőr: a 2019/1020/EU rendelet 3. cikk 9. pontjában meghatározott személy.
 
-57. Interfész: a jelen törvény alkalmazásában
+66. Interfész:
 
 a) hálózati interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amely más elektronikus hírközlő hálózathoz való hozzáférésre vagy hálózattal való összekapcsolásra szolgál,
 
-b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amelyen keresztül a szolgáltató a felhasználónak előfizetői hozzáférést nyújt az elektronikus hírközlő hálózathoz,
+b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amelyen keresztül a szolgáltató a felhasználónak előfizetői hozzáférést nyújt az elektronikus hírközlő hálózathoz.
 
-c)
+67. Internet-hozzáférés szolgáltatás: a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjakkal kapcsolatos intézkedések meghozataláról, továbbá a 2002/22/EK irányelv és az 531/2012/EU rendelet módosításáról szóló, 2015. november 25-i 2015/2120/EU európai parlamenti és tanácsi rendelet 2. cikkének 2. pontjában meghatározott szolgáltatás.
 
-58. Internet-hozzáférés szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amely során a szolgáltató IP-cím hozzárendelésével biztosítja az IP alapú adatátvitelt az előfizetői hozzáférési pont, valamint az internet legalább egy belföldi és egy nemzetközi nyilvános adatkicserélő központja között.
+68. Irányítás: a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 23. § (2) bekezdésében meghatározott kapcsolat.
 
-59.
+69. Jelenlét-ellenőrző szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó meghatározott állapotára vonatkozó adatok igénybevételével nyújtanak.
 
-60. Irányítás: a Tpvt. 23. § (2) bekezdésében így meghatározott kapcsolat.
+70. Kapcsolódó eszközök: azok a kapcsolódó szolgáltatások, elektronikus hírközlő hálózathoz, továbbá elektronikus hírközlési szolgáltatáshoz kapcsolódó fizikai infrastruktúrák és egyéb eszközök vagy elemek, amelyek alkalmasak hálózat vagy szolgáltatás útján történő szolgáltatásnyújtásra, illetve azt lehetővé teszik vagy támogatják. Ide tartoznak többek között az épületek, az épület-hozzáférési pontok, az épületek kábelezése, az antennák, a tornyok és egyéb támszerkezetek, az alépítmények, a csőnyílások, a védőcsövek, a tartóoszlopok, a kábelaknák és a kábelszekrények, kapcsolódó információs rendszerek.
 
-60/a. Jelenlét- ellenőrző szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó meghatározott állapotára vonatkozó adatok igénybevételével nyújtanak.
+71. Kapcsolódó szolgáltatások: azok az elektronikus hírközlő hálózathoz, illetve elektronikus hírközlési szolgáltatáshoz kapcsolódó szolgáltatások, amelyek alkalmasak az adott hálózaton keresztül vagy szolgáltatás útján történő, különösen automatizált szolgáltatás útján megvalósuló szolgáltatásnyújtásra, illetve azt lehetővé teszik vagy támogatják. Ide tartoznak többek között a számfordítási, és az azzal egyenértékű funkcióval rendelkező rendszerek, a feltételes hozzáférési rendszerek, az elektronikus műsortájékoztatók, valamint egyéb szolgáltatások, mint például az azonosítás szolgáltatás, a helymeghatározási szolgáltatás és a jelenlét-ellenőrző szolgáltatás.
 
-61. Kapcsolódó eszközök: elektronikus hírközlőhálózat üzemeltetéséhez, elektronikus hírközlési szolgáltatás nyújtásához kötődő, ahhoz igénybe vehető, arra alkalmas kapcsolódó szolgáltatások, fizikai eszközök és egyéb létesítmények vagy elemek, ideértve többek között az elektronikus hírközlési építményeket, az épületek vagy az épületek kábelbevezetését, az épületek kábelezését, az antennákat, a tornyokat és egyéb tartószerkezeteket, az alépítményeket, a kábelcsatornákat, a tartóoszlopokat, az ellenőrzőaknákat és a szekrényeket.
+72. Kábelrendező: a helyi hurok értelmezésében olyan csatlakozásra megfelelő szerelvény, amelyben az érintett helyi hurok vagy helyi alhurok egyedi leválasztó eszközei találhatók.
 
-61/a. Kapcsolódó szolgáltatások: azok az elektronikus hírközlő hálózathoz, illetve elektronikus hírközlési szolgáltatáshoz kapcsolódó szolgáltatások, amelyek lehetővé teszik, illetve támogatják az adott hálózat vagy szolgáltatás útján történő szolgáltatásnyújtást, vagy erre alkalmasak, beleértve a számfordítást, és az azzal egyenértékű funkcióval rendelkező rendszereket, a feltételes hozzáférésű rendszereket és az elektronikus műsortájékoztatókat, valamint egyéb szolgáltatásokat, mint például az azonosítás szolgáltatást, a helymeghatározási és a jelenlét-ellenőrző szolgáltatást.
+73. Káros zavarás: olyan zavarás, amely veszélyezteti egy rádiónavigáció szolgálat vagy más biztonsági szolgálat működését, vagy amely egyébként komolyan károsítja, akadályozza vagy ismételten megszakítja egy – a Nemzetközi Rádiószabályzatnak, illetve az alkalmazandó európai uniós vagy nemzeti szabályozásnak megfelelően használt – rádiótávközlési szolgálat működését.
 
-61/b. Kábelrendező: a helyi hurok értelmezésében olyan csatlakozásra megfelelő szerelvény, amelyben az érintett helyi hurok vagy helyi alhurok egyedi leválasztó eszközei találhatók.
+74. Készenléti segélyszolgálat: olyan szolgálat, amely a nemzeti joggal összhangban azonnali és gyors segélynyújtást biztosít különösen olyan helyzetekben, amelyek közvetlenül veszélyeztetik az életet vagy a testi épséget, az egyének egészségét vagy biztonságát, a közegészséget, a közbiztonságot, a magán- vagy köztulajdont, illetve a környezetet.
 
-62. Káros zavarás: olyan zavarás, amely veszélyezteti egy rádiónavigáció szolgálat vagy más biztonsági szolgálat működését, vagy amely egyébként komolyan károsítja, akadályozza vagy ismételten megszakítja egy – a Nemzetközi Rádiószabályzatnak, illetve az alkalmazandó európai uniós vagy nemzeti szabályozásnak megfelelően használt – rádiótávközlési szolgálat működését.
+75. Készülék: a rádióberendezés és az elektronikus hírközlő végberendezés.
 
-63. Készülék: a rádióberendezés és az elektronikus hírközlő végberendezés.
+76. Kilépési pont: a titkos információgyűjtés, illetve leplezett eszközök alkalmazása során az elektronikus hírközlési szolgáltató rendszeréből a monitoring alrendszerrel, alrendszerekkel kinyert közlések és kísérőadatok fizikai átadási pontja, pontjai a Nemzetbiztonsági Szakszolgálat felé, amelyet az elektronikus hírközlési szolgáltató a 92. § (4) bekezdésében meghatározottak szerint egyeztetetten, adott földrajzi helyen és formában, az elektronikus hírközlési szolgáltató területén biztosít.
 
-64. Kilépési pont: a titkos információgyűjtés, illetve leplezett eszközök alkalmazása során az elektronikus hírközlési szolgáltató rendszeréből a monitoring alrendszerrel, alrendszerekkel kinyert közlések és kísérőadatok fizikai átadási pontja, pontjai a Nemzetbiztonsági Szakszolgálat felé, amelyet az elektronikus hírközlési szolgáltató a 92. § (4) bekezdésében meghatározottak szerint egyeztetetten, adott földrajzi helyen és formában, az elektronikus hírközlési szolgáltató területén biztosít.
+77. Kis hatótávú, vezeték nélküli hozzáférési pont: engedélyköteles, engedélymentes, vagy engedélyköteles és engedélymentes rádióspektrum használatával üzemelő, kis teljesítményű, kis hatótávú, egy vagy több csekély vizuális hatású antennával rendelkező vezeték nélküli hálózati hozzáférést megvalósító kisméretű berendezés. Működhet nyilvános elektronikus hírközlő hálózat részeként, vagy biztosíthat a felhasználók számára vezeték nélküli hozzáférést tekintet nélkül a hálózati topológiára – akár állandóhelyű, akár mobil – elektronikus hírközlő hálózathoz.
 
-64/a. Kis és középvállalkozás: a kis és középvállalkozások támogatásáról szóló törvényben ekként meghatározott vállalkozások.
+78. Kizárólagos jog: egyetlen vállalkozásnak jogszabályban vagy közigazgatási határozatban biztosított olyan jog, amely alapján kizárólag az ilyen joggal rendelkező vállalkozás végezheti az adott tevékenységet egy adott földrajzi területen belül.
 
-65. Kizárólagos jogok: egyetlen vállalkozásnak jogszabályban vagy közigazgatási határozatban biztosított olyan jog, amely alapján kizárólag az ilyen joggal rendelkező vállalkozás végezheti az adott tevékenységet egy adott földrajzi területen belül.
+79. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök közös használata. A helymegosztás a közös eszközhasználat különös formája.
 
-66. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök, így többek között az információs rendszerek közös használata. A helymegosztás a közös eszközhasználat különös formája.
+80. Közterület: közhasználatra szolgáló minden állami vagy önkormányzati tulajdonban álló földrészlet, ideértve különösen az ingatlan-nyilvántartásban közterületként, közútként, kerékpárútként, járdaként, gyalogútként, útpadkaként, útárokként, zöldsávként, parkolóként, zöldterületként, térként, parkként nyilvántartott ingatlanokat.
 
-66a. Közterület: közhasználatra szolgáló minden állami vagy önkormányzati tulajdonban álló földrészlet, ideértve különösen az ingatlan-nyilvántartásban közterületként, közútként, kerékpárútként, járdaként, gyalogútként, útpadkaként, útárokként, zöldsávként, parkolóként, zöldterületként, térként, parkként nyilvántartott ingatlanokat.
+81. Közvetített szolgáltatás: a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 1. pontjában meghatározott szolgáltatás.
 
-67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése vagy az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződéses jogviszonyban álló harmadik elektronikus hírközlési szolgáltatóval kötött megállapodása alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérést.
+82. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Hatóság internetes oldalain haladéktalanul. A közzététel időpontja az információ Hatóság internetes oldalain történő hozzáférhetővé tételének időpontja.
 
-68. Közvetítőválasztás: az elektronikus hírközlési szolgáltató előfizetőjének az a lehetősége, hogy a hívott előfizető vagy szolgáltatás eléréséhez megválassza a közvetítő szolgáltatót, amely az előfizetői hozzáférést nyújtó szolgáltatóval összekapcsoláson keresztül nyilvánosan elérhető telefonszolgáltatást nyújt.
-
-69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Hatóság internetes oldalain haladéktalanul. A közzététel időpontja az információ Hatóság internetes oldalain történő hozzáférhetővé tételének időpontja.
-
-70. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
+83. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
 
 a) amelyek odaítélése során a feljogosított vállalkozások kijelölése, vagy azok számának korlátozása nem objektív, arányos és hátrányos megkülönböztetéstől mentes feltételek mellett történik, vagy
 
 b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megkülönböztetéstől mentes feltételek mellett biztosítanak olyan jogszabályi vagy szabályozási előnyöket, amelyek jelentős mértékben befolyásolják más vállalkozások lehetőségét arra, hogy ugyanolyan elektronikus hírközlési tevékenységre vállalkozzanak, ugyanazon földrajzi területen belül, lényegében azonos feltételek mellett.
+
+84. Meghatalmazott képviselő: a 2019/1020/EU rendelet 3. cikk 12. pontjában meghatározott személy.
+
+85. MMS: Multimédiás üzenetküldés szolgáltatás.
+
+86. Mobil rádiótelefon-hálózat: olyan földfelszíni elektronikus hírközlő hálózat, amely a nagy területen mozgó igénybe vevők között lehetővé teszi a kétirányú kommunikációt.
+
+87. Mobil rádiótelefon-szolgáltatás: olyan nyilvánosan elérhető telefonszolgáltatás, amelynek során e szolgáltatás nagy térben mozgó bármely előfizetője – mobil rádiótelefon-hálózat hálózati végpontján csatlakoztatott berendezésről indított hívással kommunikálhat egy másik hálózati végponttal. E szolgáltatás beszédátvitelre, valamint az ehhez kapcsolódó szolgáltatásokra és egyéb szolgáltatásokra (például adatátviteli szolgáltatások, rövid szöveges üzenetküldés) szolgál.
+
+88. Műsorszórás: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 49. pontjában meghatározott fogalom.
+
+89. Műsorterjesztés: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 50. pontjában meghatározott fogalom.
+
+90. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
+
+91. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (többek között készülékekben, eszközökben, járművekben) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
+
+92. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
+
+93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat, ideértve a kis hatótávú vezeték nélküli hozzáférési pontot.
+
+94. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
+
+95. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
+
+96. Nemföldrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amely nem földrajzi szám, különösen a mobilszámok, a díjmentes és az emelt díjas szolgáltatás hívószámai, továbbá a gépek közötti szolgáltatások hívószámai.
+
+97. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
+
+98. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
+
+99. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók, adatforgalmaik egymásnak történő átadása céljából.
+
+100. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
+
+101. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban nyilvános elektronikus hírközlési szolgáltatások nyújtására használt hálózati végpontok közötti információátvitelt támogató elektronikus hírközlő hálózat.
+
+102. Nyilvános elektronikus hírközlő hálózat üzemeltetője: nyilvános elektronikus hírközlő hálózat, illetve kapcsolódó eszközök feletti rendelkezési vagy használati jogot gyakorló természetes személy, jogi személy vagy egyéb szervezet.
+
+103. Nyilvánosan elérhető telefonszolgáltatás (telefonszolgáltatás vagy hangszolgáltatás): nyilvános elektronikus hírközlési szolgáltatás, amely nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi hívások kezdeményezését és fogadását.
+
+104. Nyilvános telefonállomás: bármely felhasználó számára nyilvánosan elérhető telefonszolgáltatás igénybevétele céljából hozzáférhetővé tett elektronikus hírközlő végberendezés. A szolgáltatás díjának kiegyenlítése történhez pénzérmével, bankkártyával, illetve egyéb készpénzt helyettesítő fizetési eszközzel.
+
+105. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlő hálózat vezetékes összeköttetésének burkoló, tartó, védő, jelző műtárgyai képeznek.
+
+106. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják.
+
+107. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
+
+108. Rádióberendezés: rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat kibocsátó, vevő vagy kibocsátó és vevő villamos vagy elektronikus termék, vagy olyan villamos vagy elektronikus termék, amelyet tartozékokkal, például antennával kell kiegészíteni ahhoz, hogy rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat tudjon kibocsátani, venni vagy kibocsátani és venni.
+
+109. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája kisebb, mint 3000 GHz.

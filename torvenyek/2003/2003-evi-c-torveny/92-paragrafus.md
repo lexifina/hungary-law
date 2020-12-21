@@ -16,7 +16,9 @@
 
 (7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a kormányzati célú hálózat működtetőjével.
 
-(8) Műszaki, forgalmi, katasztrófa- vagy egyéb veszély miatt keletkező üzemzavar elhárításához a szolgáltató köteles külön jogszabályban meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott felkészülési, zavarelhárítási, katasztrófaelhárítási és üzletmenet-folytonossági tervekkel és a felkészülésre vonatkozó jogszabályokból következő feladatok ellátásához szükséges mértékű és összetételű tartalékokkal rendelkezni.
+(8) Az Elnök rendeletében meghatározott szolgáltató köteles az ott meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott kockázatelemzéssel rendelkezni, és ennek alapján az azonosított kockázatokkal arányos védelmi intézkedéseket alkalmazni. Amennyiben a szolgáltatónál sor került a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény szerinti európai vagy nemzeti létfontosságú rendszerelem kijelölésére, akkor az ennek alapjául szolgáló azonosítási jelentés a kockázatelemzés részét képezi, a védelmi intézkedéseket pedig az üzemeltetői biztonsági terv figyelembevételével kell meghatározni. A szolgáltató köteles továbbá az üzemzavar és a katasztrófahelyzet kezelésére jogszabályban meghatározott tartalmú zavarelhárítási, katasztrófaelhárítási és üzletmenet-folytonossági tervekkel rendelkezni.
+
+(8a) A szolgáltató a különleges jogrend időszakára való felkészülésre vonatkozó jogszabályokban meghatározott feladatok ellátására felkészülési tervet köteles készíteni, valamint az ilyen feladatok ellátásához szükséges mértékű és összetételű tartalékkal köteles rendelkezni.
 
 (9) Minősített időszak esetében alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében az elektronikus hírközlési szolgáltatóknak külön jogszabályban meghatározott módon együtt kell működniük egymással, illetve az illetékes szervezetekkel.
 

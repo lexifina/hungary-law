@@ -1,8 +1,10 @@
 ## Előfizetői szerződés
 
-127. § (1) Az előfizetői szolgáltatás nyújtásáról a szolgáltató, az előfizető és az előfizetői szolgáltatást igénylő más felhasználók (a továbbiakban együtt: felek) kizárólag előfizetői szerződést köthetnek, amely az általános szerződési feltételekből, valamint egyedi előfizetői szerződésből áll. A szolgáltató az előfizetői szerződést úgy köteles kialakítani, hogy az megfeleljen a közérthetőség, ellentmondás-mentesség és áttekinthetőség követelményének.
+127. § (1) Az előfizetői szolgáltatás nyújtásáról a szolgáltató, a fogyasztó vagy más felhasználók (a továbbiakban együtt: felek) kizárólag előfizetői szerződést köthetnek, amely meg kell, hogy feleljen a közérthetőség és ellentmondás-mentesség követelményének. Az előfizetői szolgáltatásokat nyújtó elektronikus hírközlési szolgáltató az előfizetői szolgáltatásokra vonatkozóan általános szerződési feltételeket köteles készíteni, amelyek elektronikus hírközlési szabályoknak való megfelelőségét a Hatóság rendszeresen vizsgálja. Az előfizetői szerződés az általános szerződési feltételekből, valamint az egyedi előfizetői szerződésből áll.
 
-(2) Az előfizetői szerződésekre e törvény rendelkezéseit és e törvény felhatalmazása alapján kibocsátott előfizetői szerződésekre vonatkozó elnöki rendeletek rendelkezéseit kell alkalmazni. Az e törvényben és az e törvény felhatalmazása alapján kibocsátott előfizetői szerződésekre vonatkozó elnöki rendeletekben nem szabályozott esetekre a Ptk. szerződésekre vonatkozó rendelkezései megfelelően irányadók.
+(1a) Az előfizetői szerződés megkötésekor az előfizetői szerződés részévé válik az előfizetői szerződés megkötését megelőzően a szolgáltató által az előfizető rendelkezésére bocsátott tájékoztatás (a továbbiakban: előzetes tájékoztatás) és az előfizetői szerződés adatainak összefoglalója.
+
+(2) Az e törvényben és az e törvény felhatalmazása alapján kibocsátott, az előfizetői szerződések részletes szabályairól szóló NMHH rendeletben nem szabályozott esetekre a Ptk. szerződésekre vonatkozó rendelkezései irányadók.
 
 (2a) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője legfeljebb az Elnök rendeletében meghatározott számú előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződést köthet és az előfizetését nem értékesítheti tovább.
 
@@ -16,22 +18,24 @@ a) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra 
 
 b) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés igénybevételével összefüggésben – különösen az előfizető körülményei, az előfizetői szerződések száma vagy az előfizető által igénybe vett előfizetői szolgáltatások jellege alapján – bűncselekmény gyanúja merül fel.
 
-(3) E törvényben foglaltaktól a szolgáltató az előfizetői szerződésekben és az általános szerződési feltételekben csak akkor térhet el, ha az eltérést a törvény, illetve a felhatalmazása alapján kiadott Elnök által hozott rendelet kifejezetten megengedi. Az Elnök rendeletben meghatározhatja azon előfizetői szerződésekre és az általános szerződési feltételekre vonatkozó rendelkezések körét, amelyek alkalmazása üzleti előfizetők esetében nem kötelező. Kis- és középvállalkozások az előfizetői szerződés megkötésekor írásbeli nyilatkozattal kérhetik az egyéni előfizetőkre vonatkozó szabályok vonatkozásukban történő alkalmazását, amelyről a szolgáltató köteles részletes – az előnyöket és hátrányokat bemutató – tájékoztatást adni. A tájékoztatás megtörténtét a szolgáltató köteles igazolni. A tájékoztatás elmaradása esetén az előfizetői szerződés semmis.
+(3) Üzleti előfizető esetében a szolgáltató e fejezet rendelkezéseitől az előfizetői szerződések részletes szabályairól szóló NMHH rendeletben foglaltak szerint térhet el.
 
-(4) A felek az egyedi előfizetői szerződésben az e törvényben és az általános szerződési feltételekben foglaltaktól az előfizető javára egyező akarattal eltérhetnek.
+(4) A felek az egyedi előfizetői szerződésben az e törvényben, az e törvény felhatalmazása alapján kibocsátott, az előfizetői szerződések részletes szabályairól szóló NMHH rendeletben és az általános szerződési feltételekben foglaltaktól az előfizető javára egyező akarattal eltérhetnek.
 
 (4a) Az előfizetői szerződés időtartama a felek megállapodása szerint lehet határozatlan vagy határozott.
 
-(4b) A határozott időtartamú előfizetői szerződés – a (4c) és (4f) bekezdés kivételével – legfeljebb 12 hónapra köthető meg azzal, hogy a szerződés megkötését megelőzően fel kell ajánlani a határozatlan időtartamú előfizetői szerződés megkötésének lehetőségét, és be kell mutatni annak részletes feltételeit.
+(4b) A nyilvánosan elérhető elektronikus hírközlési szolgáltatások igénybevételére kötött határozott időtartamú előfizetői szerződés – a (4c) és (4f) bekezdés kivételével – legfeljebb 12 hónapra köthető meg azzal, hogy a szerződés megkötését megelőzően fel kell ajánlani a határozatlan időtartamú előfizetői szerződés megkötésének lehetőségét, és be kell mutatni annak részletes feltételeit.
 
 (4c) Az előfizető kérésére a határozott időtartamú előfizetői szerződés 24 hónapra is megköthető, ha az előfizetői szerződés megkötéséhez készülékvásárlás is kapcsolódik. Az ilyen módon 24 hónapra megkötött határozott idejű előfizetői szerződésnek a készülék vásárlásához kapcsolódó törlesztő részletek nélkül számított előfizetési díja nem lehet magasabb a (4b) bekezdés szerinti 12 hónapra kötött, azonos szolgáltatási tartalmú, határozott idejű szerződések előfizetési díjától.
 
-(4d) A határozott idejű előfizetői szerződés lejártát követően a szolgáltató az előfizető kérésére külön díjazás nélkül köteles gondoskodni arról, hogy az e szerződéssel együtt vásárolt készülék bármely szolgáltató előfizetőjeként használható legyen (hálózat-függetlenítés).
+(4d) A határozott idejű előfizetői szerződés lejártát vagy a 134. § (15) bekezdése szerinti elszámolást követően a szolgáltató az előfizető kérésére külön díjazás nélkül köteles gondoskodni arról, hogy az e szerződéssel együtt vásárolt készülék bármely szolgáltató előfizetőjeként használható legyen (hálózat-függetlenítés).
 
 (4e) A (4c) bekezdés alkalmazásában készülék alatt az internet-hozzáférési szolgáltatás, illetve a médiaszolgáltatásokról és a tömegkommunikációról szóló törvényben meghatározott audiovizuális médiaszolgáltatás igénybevételét lehetővé tevő, kép és hang megjelenítésére alkalmas készüléket kell érteni.
 
 (4f) Az állam által elismert követelményeken alapuló, az internet-hozzáférés elterjedését ösztönző, kedvezményes szerződéses feltételeket biztosító internethozzáférés-szolgáltatás igénybevételére vonatkozó határozott időtartamú előfizetői szerződés a kedvezményes szerződéses feltételek igénybevételére jogosult előfizetővel abban az esetben is megköthető 24 hónapra, ha ahhoz nem kapcsolódik a (4c) bekezdés szerinti készülékvásárlás.
 
-(5) Az előfizetői szerződésnek az előfizetők és felhasználók védelmével, a díjazás hitelességével, a felek jogaival és kötelezettségeivel összefüggő további feltételeit az Elnök rendeletben állapítja meg.
+(4g) A (4b), (4c) és (4f) bekezdésben rögzített maximális időtartam nem vonatkozik az olyan részletfizetési szerződés időtartamára, amelyben az előfizető vállalta, hogy kizárólag az előfizetői hozzáférési pont létesítését részletekben fizeti. Az előfizetői hozzáférési pont létesítésére vonatkozó részletfizetési szerződés nem terjedhet ki az elektronikus hírközlő végberendezésre, és nem akadályozhatja az előfizetőt az előfizetői szerződés időtartamához és megszűnéséhez kapcsolódó jogai gyakorlásában.
 
-(6) A határozott időtartamú előfizetői szerződés helyébe lépő új, határozatlan idejű szerződésben meghatározott, az előfizetői szolgáltatásra vonatkozó szerződési feltételek nem lehetnek az előfizetőre nézve hátrányosabbak a korábbi határozott idejű szerződésben szereplő szerződési feltételeknél.
+(5)
+
+(6)

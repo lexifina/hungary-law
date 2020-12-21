@@ -1,15 +1,21 @@
-## Személyes adatok védelme
+## Személyes adatok, hálózatok és szolgáltatások biztonságának védelme
 
-154. § (1) A szolgáltató az elektronikus hírközlési szolgáltatásra irányuló szerződés létrehozatala, tartalmának meghatározása, módosítása, teljesítésének figyelemmel kísérése, az abból származó díjak számlázása, valamint az azzal kapcsolatos követelések érvényesítése céljából kezelheti a felhasználó, illetve előfizető azonosításához szükséges és elégséges személyes adatot.
+154. § (1) A szolgáltató a szolgáltatási tevékenységével kapcsolatban tudomására jutott személyes adatot az Európai Unió általános adatvédelmi rendelete, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseinek megfelelően, az e törvényben foglalt kiegészítésekkel kezeli.
 
-(2) A szolgáltató a díjak számlázása céljából kezelheti az elektronikus hírközlési szolgáltatás igénybevételével kapcsolatos olyan személyes adatot, amely a díj meghatározásához és a számlázáshoz szükséges és elégséges, így különösen a szolgáltatás igénybevételének időpontjára, időtartamára és helyére vonatkozó adatot.
+(2) Ha az adott előfizető esetében értelmezhető, a szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtása körében kezeli az előfizető azonosításához szükséges alábbi adatokat:
 
-(3) A szolgáltató a szolgáltatás nyújtása céljából kezelheti az e § (1) és (2) bekezdésében említett azonosító és egyéb személyes adaton túl azon személyes adatot, amely a szolgáltatás nyújtásához műszakilag elengedhetetlenül szükséges.
+a) az előfizető neve, lakóhelye, tartózkodási helye, vagy székhelye;
 
-(4) A szolgáltató csak úgy választhatja meg és minden esetben úgy üzemeltetheti az elektronikus hírközlési szolgáltatás nyújtása során alkalmazott elektronikus hírközlő eszközöket, hogy biztosítani tudja, hogy személyes adat kezelésére csak akkor kerüljön sor, ha ez a szolgáltatás nyújtásához és az e törvényben meghatározott egyéb célok teljesüléséhez elengedhetetlenül szükséges.
+b) az előfizető számlázási címe, pénzforgalmi számlaszáma;
 
-(5) A szolgáltató a kezelt személyes adatot az adatkezelésről való tudomásszerzését követően haladéktalanul törli, ha a szolgáltatónál valamely e § (1)–(3) bekezdésében nem említett célból történő adatkezelésre került sor.
+c) az előfizető születési neve, születési helye és ideje, anyja születési neve;
 
-(6) Az elektronikus hírközlési szolgáltatás nyújtása nem tehető függővé az igénybevevőnek valamely e § (1)–(3) bekezdésében nem említett célból történő adatkezeléshez való hozzájárulásától.
+d) az előfizető képviselőjének a)–c) pont szerinti adatai;
 
-(7) Az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott tájékoztatáson kívül a szolgáltatónak biztosítania kell, hogy a felhasználó az elektronikus hírközlési szolgáltatás igénybevétele előtt és az igénybevétel során bármikor megismerhesse, hogy a szolgáltató mely adatkezelési célokból milyen személyes adatokat kezel.
+e) az előfizető cégjegyzékszáma vagy más nyilvántartási száma;
+
+f) az előfizető személyazonosság igazolására alkalmas hatósági igazolványának típusa és száma;
+
+g) az előfizető lakcímet igazoló hatósági igazolványának száma.
+
+(3) A szolgáltató a (2) bekezdés szerinti adatokat az ott meghatározott célból az előfizetői szerződés megszűnésétől számított egy évig köteles megőrizni.

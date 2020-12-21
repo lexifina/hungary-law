@@ -1,0 +1,13 @@
+63/A. § (1) Amennyiben a jelentős piaci erővel rendelkező szolgáltató kizárólag nagykereskedelmi tevékenységet végez, az Elnök – a 63. § (1) bekezdésében foglaltaktól eltérően – a XI–XIV. fejezetben meghatározott kötelezettségfajták közül kizárólag a 104. §-ban, a 106. §-ban foglalt kötelezettségek, illetve a 108. § szerinti kötelezettség keretében észszerű és méltányos árak alkalmazásával kapcsolatos kötelezettség alkalmazását írhatja elő, ha a jelentős piaci erővel rendelkezőként azonosított vállalkozás valószínűsíthető magatartásának előretekintő értékelésére is kiterjedő piacelemzés alapján indokolt.
+
+(2) Kizárólag nagykereskedelmi tevékenységet végző szolgáltatónak minősül a szolgáltató, amennyiben
+
+a) a szolgáltató és a szolgáltató többségi befolyása vagy irányítása alatt álló összes gazdálkodó szervezet, a szolgáltatón belüli összes gazdasági és üzleti egység, továbbá az összes olyan gazdálkodó szervezet, amelyben ugyanaz a harmadik személy vagy szervezet rendelkezik többségi befolyással vagy irányítási joggal, mint a szolgáltatóban, kizárólag az elektronikus hírközlési szolgáltatások nagykereskedelemi piacain folytat, illetve tervez folytatni tevékenységet, és ennek megfelelően az Unión belül a végfelhasználóknak nyújtott elektronikus hírközlési szolgáltatások kiskereskedelmi piacán nem folytat tevékenységet; és
+
+b) a szolgáltatót nem köti olyan kizárólagos megállapodás, vagy olyan, a gyakorlatban kizárólagos megállapodással egyenértékű megállapodás, amelynek értelmében csak egyetlen, tőle elkülönülő, az értékesítési lánc alacsonyabb szintjén álló olyan vállalkozással kereskedhet, amely végfelhasználóknak nyújtott elektronikus hírközlési szolgáltatások kiskereskedelmi piacán végez tevékenységet.
+
+(3) Amennyiben a (2) bekezdésben rögzített feltételekben változás következik be, a jelentős piaci erővel rendelkező szolgáltató köteles ezt a Hatóságnak haladéktalanul, de legkésőbb a bejelentésre okot adó körülmény bekövetkezésétől számított nyolc napon belül bejelenteni.
+
+(4) Amennyiben a (2) bekezdésben foglalt feltételek már nem állnak fenn, a Hatóság a 65. § (3) és (4) bekezdésében foglaltaknak megfelelően jár el.
+
+(5) Amennyiben a Hatóság megállapítja, hogy a csak nagykereskedelmi tevékenységet végző vállalkozás által kialakított szolgáltatási feltételek a végfelhasználókat hátrányosan érintő versenyproblémákat eredményeztek, vagy a versenyproblémák kialakulása valószínűsíthető, a Hatóság a 65. § (3) és (4) bekezdésében foglaltaknak megfelelően a piacelemzést haladéktalanul lefolytatja és dönthet a 102. §-ban, a 105. §-ban, és a 106/A. §-ban, illetve a 108. §-ban foglalt egyéb kötelezettségek előírásáról, illetve az (1) bekezdésben foglaltak alapján előírt kötelezettségek módosításáról.

@@ -1,6 +1,16 @@
 ## Az előfizetői szerződés létrejötte
 
-129. § (1) A felek az előfizetői szerződést írásban, szóban vagy ráutaló magatartással – az e törvényben és az Elnök rendeletében meghatározott módon – köthetik meg. A nyilvános előfizetői szolgáltatást nyújtó szolgáltató az előfizetői szerződést az általános szerződési feltételei szerint köti meg.
+129. § (1) A felek az előfizetői szerződést írásban, szóban vagy ráutaló magatartással – az e törvényben és az Elnök rendeletében meghatározott módon – köthetik meg. A nyilvánosan elérhető elektronikus hírközlési szolgáltatást nyújtó szolgáltató az előfizetői szerződést az általános szerződési feltételei szerint köti meg.
+
+(1a) Az előfizetői szerződés megkötését megelőzően a nyilvánosan elérhető elektronikus hírközlési szolgáltatást nyújtó szolgáltató köteles térítésmentesen az előfizető rendelkezésére bocsátani
+
+a) az előzetes tájékoztatást az Elnök rendeletében meghatározott tartalommal tartós adathordozón, vagy ha azon nem lehetséges, könnyen letölthető dokumentum útján, a fogyatékossággal élők számára – kérésre – akadálymentes formátumban is, továbbá
+
+b) az előfizetői szerződés adatainak összefoglalóját tömör és könnyen olvasható formában, az Elnök rendeletében meghatározott dokumentumminta szerint.
+
+(1b) Ha az előfizetői szerződés adatainak összefoglalóját technikai okok miatt nem lehetséges a szerződés megkötése előtt az előfizető rendelkezésére bocsátani, az előfizetői szerződés akkor lép hatályba, ha a szolgáltató által indokolatlan késedelem nélkül rendelkezésre bocsátott összefoglaló kézhezvételét követően az előfizető a szerződéskötésre vonatkozó szándékát megerősíti.
+
+(1c) Az előzetes tájékoztatás és az előfizetői szerződés adatainak összefoglalója az előfizető rendelkezésére bocsátott tartalommal válik az előfizetői szerződés részévé, kivéve, ha a felek a szerződés megkötésekor egyező akarattal eltérnek azok tartalmától.
 
 (2) A szolgáltató az előfizető személyazonosságának igazoló ellenőrzése érdekében az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően, illetve a (2b) bekezdés szerinti adategyeztetés érdekében köteles az egyéni előfizetőnek, valamint üzleti előfizető esetén a szerződést aláíró személynek a személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizni.
 
@@ -28,8 +38,8 @@ b) elvégezheti a (2b) bekezdés szerinti adategyeztetés során.
 
 (6)
 
-(7) Az elektronikus hírközlési szolgáltató – a 159/A. § (1) bekezdésben meghatározott célból – a nem írásban megkötött előfizetői szerződések esetén is köteles rögzíteni az (5) bekezdés a) pontjában foglalt adatokat, amennyiben ezt a szolgáltatás sajátosságai lehetővé teszik.
+(7)
 
-(8) Az előfizetői szerződés, annak létrejötte, módosítása, megszűnése részletes szabályait az Elnök rendeletben szabályozza.
+(8)
 
-(9) Fogyasztó esetében semmis az egyedi előfizetői szerződés azon rendelkezése, amely szerint az előfizető az általános szerződési feltételeket átolvasta, és az abban foglaltakat tudomásul vette.
+(9)

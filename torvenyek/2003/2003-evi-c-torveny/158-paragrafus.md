@@ -1,10 +1,10 @@
-158. § (1) Az elektronikus hírközlési szolgáltatók a díjfizetési, illetőleg a szerződésből eredő egyéb kötelezettségek kijátszásának megelőzése, illetve a 118. § (4) bekezdésében meghatározott feltételek fennállása esetén a szerződéskötés megtagadásának céljából jogosultak a 157. § szerint jogszerűen kezelhető adatok köréből az előfizető azonosításához szükséges adatokat, valamint az adatátadásnak a (3) bekezdés szerinti indokáról szóló tájékoztatást másik elektronikus hírközlési szolgáltatónak átadni vagy attól átvenni, illetőleg – azzal az adattartalommal – közös adatállományt létrehozni.
+158. § (1) Az elektronikus hírközlési szolgáltatók a díjfizetési, valamint a szerződésből eredő egyéb kötelezettségek kijátszásának megelőzése, illetve az Elnök rendeletében meghatározott feltételek fennállása esetén a szerződéskötés megtagadásának céljából a 154. § (2) bekezdése és a 157. § szerint jogszerűen kezelhető adatok köréből az előfizető azonosításához szükséges adatokat, valamint az adatátadásnak a (3) bekezdés szerinti indokáról szóló tájékoztatást tartalmazó közös adatállományt hoznak létre és működtetnek.
 
-(2) A szolgáltató az (1) bekezdésben meghatározott célból csak a 129. § (5) bekezdés a), c), illetve f) pontjában foglalt előfizetői adatokat adhatja tovább.
+(2) A szolgáltató az (1) bekezdésben meghatározott célból csak a 154. § (2) bekezdésében foglalt előfizetői adatokat, valamint a szerződés tárgyát képező előfizetői szolgáltatás megjelölését és az előfizető egyéni előfizetői minőségére vonatkozó nyilatkozatának tartalmát továbbíthatja a közös adatállományba.
 
-(3) Az előfizető adatai a 118. § (4) bekezdés szerinti feltételek fennállása esetén, illetőleg abban az esetben adhatók át, illetve kerülhetnek be a közös adatállományba, ha
+(3) Az előfizető (2) bekezdés szerinti adatait az Elnök rendelete szerinti feltételek fennállása esetén, illetve abban az esetben kell a közös adatállományba továbbítani, ha
 
-a) számlatartozás miatt a szolgáltató a szerződést felmondta, vagy a szolgáltatás igénybevételi lehetőségét az előfizető számára részben vagy egészben korlátozta, vagy
+a) számlatartozás miatt a szolgáltató a szerződést felmondta, vagy a szolgáltatás igénybevételi lehetőségét az előfizető számára részben vagy egészben korlátozta,
 
 b) számlatartozása miatt a szolgáltató bírósági vagy hatósági eljárást kezdeményezett az előfizető ellen, illetve az előfizető tartózkodási helye ismeretlen, vagy
 
@@ -22,6 +22,6 @@ a) az elektronikus hírközlési szolgáltató kizárólag az (1) bekezdés szer
 
 b) a 157. § (8)–(10) bekezdésében megjelölt szerv, illetve hatóság,
 
-c) bármely fogyasztó annak tekintetében, hogy a nyilvántartás milyen rá vonatkozó adatot tartalmaz.
+c) bármely előfizető annak tekintetében, hogy a nyilvántartás milyen rá vonatkozó adatot tartalmaz.
 
 (8) A közös adatállomány létrehozása, valamint az adatkezelő és az adatfeldolgozó megbízása, valamint azok jogai és kötelezettségei tekintetében az érintetteknek írásban kell megállapodniuk.

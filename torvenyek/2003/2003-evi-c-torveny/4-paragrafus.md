@@ -18,7 +18,7 @@ c) irányítja az európai uniós tagsággal összefüggő és más nemzetközi 
 
 d) gondoskodik a fogyasztói érdekek érvényre juttatásáról, önállóan gondoskodik a fogyasztók jogszabályban meghatározott csoportjainak kivételes támogatásáról;
 
-e)
+e) biztosítja, hogy a végfelhasználók rendelkezésére álljon egy, az eltűnt gyermekek bejelentésére fenntartott díjmentes forróvonalat működtető szolgálat;
 
 f)
 

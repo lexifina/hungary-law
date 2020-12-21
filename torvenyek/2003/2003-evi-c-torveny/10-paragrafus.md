@@ -8,7 +8,7 @@
 
 4. a szabályozói és hírközlés-politikai döntések és elemzések módszertani megalapozása érdekében, továbbá a hírközlési ágazat felhasználóbarát információ szolgáltatásának biztosítása érdekében folyamatosan értékeli a hírközlési piac helyzetét, és erről összehasonlító elemzéseket készít;
 
-5. az e törvényben meghatározottak szerint megállapítja az érintett píacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, azonosítja az egyes érintett piacokon jelentős piaci erővel rendelkező szolgáltatókat, valamint meghatározza a jelentős piaci erővel rendelkező szolgáltatókat terhelő kötelezettségeket;
+5. az e törvényben meghatározottak szerint megállapítja az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, azonosítja az egyes érintett piacokon jelentős piaci erővel rendelkező szolgáltatókat, valamint meghatározza a jelentős piaci erővel rendelkező szolgáltatókat terhelő kötelezettségeket;
 
 6. eljár a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó, illetve számára és a jelentős piaci erővel nem rendelkező szolgáltatóra megállapított egyes kötelezettségek teljesítésével, és megszegésével összefüggésben;
 
@@ -24,7 +24,7 @@
 
 12. eljár az elektronikus hírközlési szolgáltatások bejelentésével, a frekvenciagazdálkodással, az azonosítógazdálkodással, a hatályban lévő koncessziós szerződések felügyeletével, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
 
-13. – a 21. § (6)–(8) bekezdésben meghatározott kivételekkel – a felhasználók és előfizetők érdekeinek védelme körében általános hatósági felügyeleti és piacfelügyeleti tevékenység keretében ellenőrzi a 6–7. pontokban nem említett az elektronikus hírközlésre vonatkozó szabályok elektronikus hírközlési szolgáltatók általi betartását, és eljár azok megsértése esetén;
+13. a felhasználók és előfizetők érdekeinek védelme körében általános hatósági felügyeleti és piacfelügyeleti tevékenység keretében ellenőrzi a 6–7. pontokban nem említett az elektronikus hírközlésre vonatkozó szabályok elektronikus hírközlési szolgáltatók általi betartását, és eljár azok megsértése esetén;
 
 14. kormányzati célú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a kormányzati célú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
 
