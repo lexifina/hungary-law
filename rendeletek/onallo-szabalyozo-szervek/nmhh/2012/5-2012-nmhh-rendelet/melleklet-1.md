@@ -28,7 +28,7 @@
 
 | 12 | RÖVID KÓDOK | Éves díj Ft/kód |
 
-| 13 | kiegészítő szolgáltatás előtét (130-131) | 0 |
+| 13 |  |  |
 
 | 14 | harmonizált közérdekű szolgáltatások harmonizált számai (116def) | 0 |
 
@@ -44,9 +44,9 @@
 
 | 20 | díjmentes szolgáltatás 5-jegyű rövid szám (14cde) | 600 000 |
 
-| 21 | közvetítő választó előtét (15cd) (első előtét) | 1 320 000 |
+| 21 |  |  |
 
-| 22 | közvetítő választó előtét (15cd) (további előtét) | 2 400 000 |
+| 22 |  |  |
 
 | 23 | emelt díjas, díjkorlátos 5-jegyű rövid szám (160de) | 720 000 |
 
@@ -76,10 +76,10 @@
 
 | 36 | tesztelési célú mobil hálózati kód (teszt MNC) | 0 |
 
-| 37 | adathálózati azonosító kód (DNIC) | 660 000 |
+| 37 |  |  |
 
 | 38 | nemzetközi jelzéspont kód (ISPC) | 660 000 |
 
 | 39 | nemzeti összekötő hálózat jelzéspont kód (NISPC) | 66 000 |
 
-[^6]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a és 19. § (3) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a és 19. § (3) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a, a 14/2020. (XII. 15.) NMHH rendelet 31. § (1) bekezdés c) pontja szerint módosított szöveg.
