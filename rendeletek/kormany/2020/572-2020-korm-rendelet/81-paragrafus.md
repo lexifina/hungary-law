@@ -1,3 +1,3 @@
-## 80. §[^136]
+## 80. §[^135]
 
-[^136]: A 80. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^135]: A 80. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.

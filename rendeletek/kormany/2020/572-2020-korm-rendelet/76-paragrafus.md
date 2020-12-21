@@ -1,3 +1,3 @@
-## 75. §[^131]
+## 75. §[^130]
 
-[^131]: A 75. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^130]: A 75. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.

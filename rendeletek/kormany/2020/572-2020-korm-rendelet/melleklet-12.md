@@ -14,6 +14,6 @@
 
 ## 7.5. az anya házasságkötésének időpontja”
 
-12. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^207]
+12. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^205]
 
-[^207]: A 12. melléklet a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^205]: A 12. melléklet a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

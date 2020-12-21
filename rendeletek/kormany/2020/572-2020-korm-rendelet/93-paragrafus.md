@@ -1,3 +1,3 @@
-## 92. §[^160]
+## 92. §[^159]
 
-[^160]: A 92. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^159]: A 92. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

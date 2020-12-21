@@ -1,3 +1,3 @@
-## 96. §[^164]
+## 96. §[^163]
 
-[^164]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

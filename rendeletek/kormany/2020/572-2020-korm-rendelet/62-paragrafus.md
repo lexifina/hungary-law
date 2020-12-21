@@ -1,5 +1,3 @@
 ## lép.
 
-## 15.[^119]
-
-[^119]: A 15. alcím (62–64. §) a 127. § (2) bekezdése alapján 2020. december 21-én lép hatályba.
+## 15. A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet módosítása

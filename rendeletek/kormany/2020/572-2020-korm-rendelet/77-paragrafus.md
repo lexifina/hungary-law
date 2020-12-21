@@ -1,3 +1,3 @@
-## 76. §[^132]
+## 76. §[^131]
 
-[^132]: A 76. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^131]: A 76. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.

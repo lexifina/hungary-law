@@ -1,3 +1,3 @@
-## 17.[^152]
+## 17.[^151]
 
-[^152]: A 17. alcím (84. §) a 127. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^151]: A 17. alcím (84. §) a 127. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 67. §[^122]
+## 67. §[^121]
 
-[^122]: A 67. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^121]: A 67. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

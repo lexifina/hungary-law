@@ -1,3 +1,3 @@
-5. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^201]
+5. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^199]
 
-[^201]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^199]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

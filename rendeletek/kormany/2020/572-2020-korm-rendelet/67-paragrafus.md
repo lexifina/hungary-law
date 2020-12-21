@@ -1,3 +1,3 @@
-## 66. §[^121]
+## 66. §[^120]
 
-[^121]: A 66. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^120]: A 66. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

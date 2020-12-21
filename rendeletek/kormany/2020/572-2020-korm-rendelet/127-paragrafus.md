@@ -1,4 +1,4 @@
-## 126. §
+## 126. § A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjéről szóló 217/2020. (V. 21.) Korm. rendelet 1. § b) pontjában a „188. § 6. pontja” szövegrész helyébe a „188. § 9. pontja” szöveg lép.
 
 ## 33. Záró rendelkezések
 

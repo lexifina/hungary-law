@@ -1,3 +1,3 @@
-## 74. §[^130]
+## 74. §[^129]
 
-[^130]: A 74. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^129]: A 74. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

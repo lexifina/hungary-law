@@ -1,3 +1,3 @@
-## 94. §[^162]
+## 94. §[^161]
 
-[^162]: A 94. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^161]: A 94. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
