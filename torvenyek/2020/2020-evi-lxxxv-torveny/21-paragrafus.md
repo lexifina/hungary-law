@@ -1,1 +1,9 @@
-21. §
+21. § Az Eht. 57. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az a szolgáltató vagy egyéb vállalkozás, amelynek egy másik szolgáltató
+
+a) elektronikus hírközlésre vonatkozó szabályban, az ez alapján kötött szerződésben,
+
+b) részben vagy egészben európai uniós forrásból megvalósuló hálózatfejlesztési pályázatban a pályázat nyertese tekintetében előírt nagykereskedelmi nyílt hozzáférési kötelezettségekre vonatkozó követelményekben, vagy ezen követelmények alapján megkötött szerződésben, továbbá e törvény szerinti hálózati szerződésben
+
+meghatározott, elektronikus hírközlést érintő jogát vagy jogos érdekét megsértette, a Hatósághoz fordulhat.”
