@@ -10,8 +10,8 @@ d) a trifla fészket betemetetlenül hagyni, vagy azt nem az ott kitermelt talaj
 
 e) a trifla keresése és gyűjtése napnyugta és napkelte közötti időszakban;
 
-f)[^11] a mellékletben meghatározott gyűjtési időn kívüli gyűjtés;
+f)[^12] a mellékletben meghatározott gyűjtési időn kívüli gyűjtés;
 
 g) a trifla felszedése 5 cm-nél nagyobb élszélességű eszközzel.
 
-[^11]: A 6. § f) pontja a 25/2014. (III. 25.) VM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 6. § f) pontja a 25/2014. (III. 25.) VM rendelet 4. §-ával megállapított szöveg.

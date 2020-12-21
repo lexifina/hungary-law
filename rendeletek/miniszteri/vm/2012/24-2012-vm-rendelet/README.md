@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-24-20-2
 | 2016-05-12 | 2012-24-20-2Y.5 | 34/2016. (V. 4.) FM rendelet |
 | 2017-08-18 | 2012-24-20-2Y.6 | 42/2017. (VIII. 17.) FM rendelet |
 | 2019-04-16 | 2012-24-20-2Y.7 | 12/2019. (IV. 1.) AM rendelet |
+| 2020-12-21 | 2012-24-20-2Y.8 | 63/2020. (XII. 16.) AM rendelet |
