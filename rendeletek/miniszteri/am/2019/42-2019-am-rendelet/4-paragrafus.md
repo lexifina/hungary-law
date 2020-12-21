@@ -1,4 +1,4 @@
-4. § (1)[^6] Az igénylő a kamattámogatási kérelem benyújtását – a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon – a pénzügyi intézménynél kezdeményezi, amely azt legkésőbb 2020. december 31-ig továbbítja a Kincstár részére. A kamattámogatási kérelem benyújtásának időpontjáról a pénzügyi intézmény tájékoztatja az igénylőt.
+4. § (1)[^6] Az igénylő a kamattámogatási kérelem benyújtását – a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon – a pénzügyi intézménynél kezdeményezi, amely azt legkésőbb 2021. június 30-áig továbbítja a Kincstár részére. A kamattámogatási kérelem benyújtásának időpontjáról a pénzügyi intézmény tájékoztatja az igénylőt.
 
 (2) Az (1) bekezdés szerinti kamattámogatási kérelem az alábbi adatokat tartalmazza:
 
@@ -42,4 +42,4 @@ c) a pénzügyi intézménynek az e rendeletben, a 651/2014/EU bizottsági rende
 
 (7) A támogatástartalom összegét a kamattámogatási kérelem pénzügyi intézményhez történő benyújtás hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
-[^6]: A 4. § (1) bekezdése a 66/2019. (XII. 30.) AM rendelet 15. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdése a 66/2019. (XII. 30.) AM rendelet 15. §-ával megállapított, a 66/2020. (XII. 18.) AM rendelet 12. §-a szerint módosított szöveg.
