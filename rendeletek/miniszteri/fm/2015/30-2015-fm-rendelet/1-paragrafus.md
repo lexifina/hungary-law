@@ -1,4 +1,4 @@
-1. § (1)[^1] E rendelet hatálya a földvédelmi és a földminősítési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatalok, továbbá járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: eljáró hatóság) által lefolytatásra kerülő, a termőföld védelméről szóló 2007. évi CXXIX. törvényben (a továbbiakban: Tfvt.) meghatározott
+1. § (1)[^1] E rendelet hatálya a földvédelmi és a földminősítési hatósági hatáskörében eljáró hatóság által lefolytatásra kerülő, a termőföld védelméről szóló 2007. évi CXXIX. törvényben (a továbbiakban: Tfvt.) meghatározott
 
 a) földvédelmi hatósági és földvédelmi szakhatósági, valamint
 
@@ -8,4 +8,4 @@ b) földminősítési
 
 (2) E rendelet szerint megállapított díjak nem foglalják magukba a földvédelmi eljárás során – a földvédelmi szakkérdés vizsgálatának kivételével – más szakkérdések vizsgálatával kapcsolatos költségeket.
 
-[^1]: Az 1. § (1) bekezdése a 67/2017. (XII. 27.) FM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 67/2017. (XII. 27.) FM rendelet 1. §-ával megállapított, nyitó szövegrésze a 63/2020. (XII. 16.) AM rendelet 9. § 1. pontja szerint módosított szöveg.

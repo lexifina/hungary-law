@@ -1,6 +1,6 @@
-## 7. §[^7] Ahol e rendelet járási hivatalt említ, azon a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben megjelölt földügyi igazgatási hatáskörben eljáró járási hivatalt kell érteni.
+## 7. §[^16]
 
-## 4. [^8] Záró rendelkezések
+## 4. [^17] Záró rendelkezések
 
 8. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
@@ -50,5 +50,5 @@ Melléklet a 30/2015. (VI. 5.) FM rendelethez
 
 | 20. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-[^7]: A 7. § a 42/2017. (VIII. 17.) FM rendelet 214. §-ával megállapított szöveg.
-[^8]: A 4. alcím címet a 67/2017. (XII. 27.) FM rendelet 6. §-a iktatta be.
+[^16]: A 7. § a 63/2020. (XII. 16.) AM rendelet 10. § 6. pontja hatályon kívül helyezte.
+[^17]: A 4. alcím címet a 67/2017. (XII. 27.) FM rendelet 6. §-a iktatta be.
