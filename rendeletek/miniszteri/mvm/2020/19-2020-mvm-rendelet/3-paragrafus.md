@@ -1,9 +1,0 @@
-## 2. § A földmérési és térképészeti állami alapadatok kezeléséről, szolgáltatásáról és egyes igazgatási szolgáltatási díjakról szóló 63/1999. (VII. 21.) FVM–HM–PM együttes rendelet (a továbbiakban: R1.) 5. § (5)–(8) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(5) Az állami alapadatok forgalmazásából származó díj 70%-a a földmérési és térinformatikai államigazgatási szervet illeti meg, melynek 40%-át állami alapadatok előállítására köteles fordítani. A fennmaradó 30%, valamint az 1. számú melléklet 1. táblázat g), a 2. táblázat f) és l), a 3. táblázat f), a 4. táblázat f) és a 7. táblázat d) pontja alapján befolyó díj – a 15/A. § (5) bekezdésében meghatározottak kivételével – az adatszolgáltatót illeti meg.
-
-## (6) A földmérési és térinformatikai államigazgatási szerv – az ingatlanügyi hatóságokként eljáró fővárosi és megyei kormányhivatalok javaslatai alapján – szakmai ütemtervet készít a következő évben elvégzendő állami alapmunkákról, és bemutatja a térképészetért felelős miniszternek, valamint a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért felelős miniszternek, minden év december 1. napjáig.
-
-## (7) A földmérési és térinformatikai államigazgatási szerv minden év május 31-ig szakmai és pénzügyi beszámolót készít a térképészetért felelős miniszter, valamint a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért felelős miniszter részére az előző évben elvégzett állami alapmunkákról és előállított új állami alapadatokról.
-
-## (8) A díjbevétel azon részét, amely az (5) bekezdésben meghatározottak szerint a földmérési és térinformatikai államigazgatási szervet illeti meg, az adatszolgáltatás helye szerinti ingatlanügyi hatóság a tárgyhónap utolsó napját követő 15 napon belül köteles átutalni a földmérési és térinformatikai államigazgatási szerv 4. számú mellékletben meghatározott számlaszámára.”
