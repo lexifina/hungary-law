@@ -2,13 +2,13 @@
 
 34. § (1) A Hatóság köteles nyilvántartani:
 
-a)[^60] a jogosultak, az engedélyesek és a frekvenciadíj fizetésére kötelezettek személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát, adóazonosító jelét, jogi személy, jogi személyiséggel nem rendelkező más szervezet esetében a szervezet-nyilvántartási adatokat;
+a)[^107] a jogosultak, az engedélyesek és a rádióspektrumdíj fizetésére kötelezettek személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát, adóazonosító jelét, jogi személy vagy egyéb szervezet esetében a szervezet-nyilvántartási adatokat;
 
 b) a rádióállomások földrajzi és telepítési adatait;
 
 c) a rádióállomások sugárzási jellemzőit, hívó és azonosító jeleit;
 
-d) a rádiórendszerek, rádióberendezések műszaki jellemzőit, a frekvenciadíj mértékét;
+d)[^108] a rádiórendszerek, rádióberendezések műszaki jellemzőit, a rádióspektrumdíj mértékét;
 
 e) a rádiórendszerek műszaki felépítését, üzemidejét, telepítésük, üzemben tartásuk célját;
 
@@ -16,7 +16,7 @@ f) a rádiórendszerek más elektronikus hírközlő hálózattal való csatlako
 
 g) a lepecsételt rádióberendezés típusát vagy más azonosításra alkalmas megjelölését, az üzemeltető nevét és címét, az őrzés helyét, a pecsételés indokát, a pecsét eltávolításának okát, idejét;
 
-h)[^61] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító kódjait.
+h)[^109] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító kódjait.
 
 (2) Keretengedély esetében a Hatóság a 14. § (4) bekezdése szerint bejelentett adatokat nyilvántartásba veszi.
 
@@ -26,5 +26,6 @@ h)[^61] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító k
 
 (5) A nemzetközi megállapodások mellékletei szerinti frekvenciajegyzékek nem hozhatóak nyilvánosságra.
 
-[^60]: A 34. § (1) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 15. pontja szerint módosított szöveg.
-[^61]: A 34. § (1) bekezdés h) pontját a 14/2012. (IX. 28.) NMHH rendelet 5. §-a iktatta be.
+[^107]: A 34. § (1) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 15. pontja, a 10/2020. (XII. 10.) NMHH rendelet 11. § 23. pontja szerint módosított szöveg.
+[^108]: A 34. § (1) bekezdés d) pontja a 10/2020. (XII. 10.) NMHH rendelet 11. § 23. pontja szerint módosított szöveg.
+[^109]: A 34. § (1) bekezdés h) pontját a 14/2012. (IX. 28.) NMHH rendelet 5. §-a iktatta be.

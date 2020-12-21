@@ -1,4 +1,4 @@
-3. melléklet a 7/2012. (I. 26.) NMHH rendelethez
+3. melléklet a 7/2012. (I. 26.) NMHH rendelethez[^137]
 
 Üzemeltetési igazolás
 
@@ -18,18 +18,10 @@
 
 | 7. | Üzemi frekvenciák (csatornák) | Adó/Vevő |
 
-| 8. |  |  |
-
-| 9. |  |  |
-
-| 10. |  |  |
-
-| 11. |  |  |
-
-| 12. |  |  |
-
 Kelt:
 
 Kiállító neve:
 
 Aláírása:
+
+[^137]: A 3. melléklet a 10/2020. (XII. 10.) NMHH rendelet 12. § 10. pontja szerint módosított szöveg.
