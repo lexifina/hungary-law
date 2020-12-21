@@ -1,4 +1,4 @@
-4. §[^1] (1) A Hivatal az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 90. § és 107. §-ban szabályozott közös eszközhasználat és helymegosztás előmozdítása érdekében a (2) és (3) bekezdés alapján bejelentett adatokról az Eht. 52. § (2) bekezdés d) pontja szerinti hatáskörében nyilvántartást vezet.
+4. §[^2] (1)[^3] A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 90. § és 107. §-ban szabályozott közös eszközhasználat és helymegosztás előmozdítása érdekében a (2) és (3) bekezdés alapján bejelentett adatokról az Eht. 52. § (2) bekezdés d) pontja szerinti hatáskörében nyilvántartást vezet.
 
 (2) Amennyiben az elektronikus hírközlési építmény tulajdon- vagy használati jogával rendelkező szolgáltató az Eht. 90. §-a, illetve a 107. §-a alapján közös eszközhasználatról arra jogosult szolgáltatóval megállapodást köt, e megállapodást, az Eht. 52. § (2) bekezdés d) pontjában foglalt nyilvántartásba vétel céljából, annak megkötésétől számított 30 napon belül be kell jelentenie a Hivatalnak.
 
@@ -22,4 +22,5 @@ e) a megállapodás időbeli hatályának kezdő és lejárati időpontját.
 
 (7) A Hivatal az érdekelt szolgáltatónak az Eht. 90. § (1) bekezdése szerinti okokból benyújtott, indokolt kérelmére biztosítja a (6) bekezdés szerinti adatokba történő betekintést.
 
-[^1]: A 4. § az 1/2014. (II. 6.) NMHH rendelet 7. §-ával megállapított szöveg.
+[^2]: A 4. § az 1/2014. (II. 6.) NMHH rendelet 7. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 7/2020. (XII. 9.) NMHH rendelet 1. § b) pontja szerint módosított szöveg.

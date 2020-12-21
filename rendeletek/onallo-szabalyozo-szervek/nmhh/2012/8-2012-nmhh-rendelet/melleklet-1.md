@@ -1,4 +1,4 @@
-1. melléklet a 8/2012. (I. 26.) NMHH rendelethez[^5]
+1. melléklet a 8/2012. (I. 26.) NMHH rendelethez[^8]
 
 ## Az elektronikus hírközlési építmények egyéb nyomvonalas építményekkel való keresztezésének és megközelítésének műszaki követelményei
 
@@ -316,4 +316,4 @@ Föld feletti elektronikus hírközlési vezetékek esetében a keresztezésre e
 
 Az elektronikus hírközlés vezetékes összeköttetéseivel összefüggő műtárgyak, tartozékok és helyhez kötött egyéb építmények legfeljebb 0,5 méterre közelíthetik meg egymást.
 
-[^5]: Az 1. melléklet a 4/2017. (V. 8.) NMHH rendelet 1. §-a, a 10/2017. (IX. 14.) NMHH rendelet 16. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet a 4/2017. (V. 8.) NMHH rendelet 1. §-a, a 10/2017. (IX. 14.) NMHH rendelet 16. §-a szerint módosított szöveg.
