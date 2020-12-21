@@ -30,7 +30,7 @@ c) a segélyhívás alapjául szolgáló vészhelyzet vagy esemény leírását 
 
 d) a kikérdezés során ismertté vált egyéb szükséges információkat és adatokat.
 
-(4)[^1] A hívásfogadó rendszer a segélyhívás helyére vonatkozó – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 86. pontjában meghatározott, nyilvánosan elérhető belföldi telefonszolgáltatást nyújtó elektronikus hírközlési szolgáltató rendszeréből átvett, valamint a segélykérő mobiltelefon készülékébe beépített helymeghatározó rendszer által megállapított és automatikusan továbbított – helymeghatározási adatokat rögzíti.
+(4)[^1] A hívásfogadó rendszer a segélyhívás helyére vonatkozó – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 103. pontjában meghatározott, nyilvánosan elérhető belföldi telefonszolgáltatást nyújtó elektronikus hírközlési szolgáltató rendszeréből átvett, valamint a segélykérő mobiltelefon készülékébe beépített helymeghatározó rendszer által megállapított és automatikusan továbbított – helymeghatározási adatokat rögzíti.
 
 (5) A híváskezelő a segélyhívás alapján
 
@@ -42,4 +42,4 @@ c) a segélyhívást önállóan kezeli és rögzíti eljárásának indokolás�
 
 (6) A hívásfogadó központ a hívásfogadó rendszer útján hangfelvételt készít a segélyhívásokról, amelyről az Rtv.-ben meghatározott szabályok szerint adatot szolgáltat.
 
-[^1]: A 4. § (4) bekezdése a 6/2020. (I. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^1]: A 4. § (4) bekezdése a 6/2020. (I. 31.) Korm. rendelet 10. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 64. §-a szerint módosított szöveg.

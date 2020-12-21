@@ -2,7 +2,7 @@
 
 (2) Ez a rendelet
 
-a) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról („Egyetemes szolgáltatási irányelv”) szóló, 2002. március 7-i 2002/22/EK európai parlamenti és tanácsi irányelv I. melléklet e) pontjának,
+a)[^3] az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelvnek,
 
 b) az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről („Elektronikus hírközlési adatvédelmi irányelv”) szóló, 2002. július 12-i 2002/58/EK európai parlamenti és tanácsi irányelv bevezető rész (46) bekezdésének és 1. cikk (1) bekezdésének,
 
@@ -11,3 +11,5 @@ c) az intelligens közlekedési rendszereknek a közúti közlekedés területé
 d) a 112-es egységes európai segélyhívón alapuló, a járműből érkező vészhívások továbbítására szolgáló elektronikus hírközlő hálózatokon keresztül megvalósuló uniós szintű e-segélyhívó szolgáltatás („e-segélyhívás”) támogatásáról szóló, 2011. szeptember 8-i 2011/750/EU európai bizottsági ajánlás bevezető rész (15) bekezdésének
 
 való megfelelést szolgálja.
+
+[^3]: A 10. § (2) bekezdés a) pontja az 572/2020. (XII. 9.) Korm. rendelet 63. §-ával megállapított szöveg.

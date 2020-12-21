@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-361-20-
 | 2019-07-01 | 2013-361-20-22.7 | 126/2019. (V. 30.) Korm. rendelet |
 | 2019-09-01 | 2013-361-20-22.8 | 204/2019. (VIII. 23.) Korm. rendelet |
 | 2020-02-01 | 2013-361-20-22.9 | 6/2020. (I. 31.) Korm. rendelet |
+| 2020-12-21 | 2013-361-20-22.10 | 572/2020. (XII. 9.) Korm. rendelet |
