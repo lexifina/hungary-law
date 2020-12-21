@@ -4,11 +4,11 @@
 
 27. § (1) A pályázati kiírási dokumentációban a 4. §-ban foglaltakon túl szerepeltetni kell:
 
-a) az eljárás tárgyául szolgáló frekvenciakészlet felhasználásával végzett elektronikus hírközlési tevékenység, illetve nyújtott szolgáltatás feltételeinek azon pontjait, amelyekre a jelentkező ajánlatot tehet;
+a)[^94] az eljárás tárgyául szolgáló rádióspektrum használatával végzett elektronikus hírközlési tevékenység, illetve nyújtott szolgáltatás feltételeinek azon pontjait, amelyekre a jelentkező ajánlatot tehet;
 
 b) azokat az értékelési elveket és az értékeléskor kizárólagosan figyelembe vett szempontokat, amelyek alapján a jelentkezők egyenlő eséllyel megfelelő pályázati ajánlatot tehetnek;
 
-c)[^83] ha a Hatóság a pályázatokat több fordulóban értékeli, az egyes fordulók lebonyolítási rendjét, az egyes fordulókban értékelt pályázati vállalások érvényességi feltételeit, valamint az egyes fordulókban értékelt pályázati vállalások érvénytelenségének jogkövetkezményeit.
+c)[^95] ha a Hatóság a pályázatokat több fordulóban értékeli, az egyes fordulók lebonyolítási rendjét, az egyes fordulókban értékelt pályázati vállalások érvényességi feltételeit, valamint az egyes fordulókban értékelt pályázati vállalások érvénytelenségének jogkövetkezményeit.
 
 (2) A kiírási dokumentációban meghatározott értékelés elveinek pártatlannak, átláthatónak, megkülönböztetéstől mentesnek és arányosnak kell lenniük, valamint kialakításuk során figyelembe kell venni az Eht.-ban meghatározott célokat.
 
@@ -36,10 +36,11 @@ d) a kiírási dokumentációban meghatározott tartalmi követelményeknek nem 
 
 (10) A pályázati ajánlatokat a kiírási dokumentációban meghatározottaktól eltérően értékelni nem lehet.
 
-(11)[^84]
+(11)[^96]
 
-(12)[^85]
+(12)[^97]
 
-[^83]: A 27. § (1) bekezdés c) pontja a 4/2019. (V. 8.) NMHH rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^84]: A 27. § (11) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
-[^85]: A 27. § (12) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
+[^94]: A 27. § (1) bekezdés a) pontja a 2/2020. (IX. 9.) NMHH rendelet 13. § (2) bekezdés 14. pontja szerint módosított szöveg.
+[^95]: A 27. § (1) bekezdés c) pontja a 4/2019. (V. 8.) NMHH rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^96]: A 27. § (11) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
+[^97]: A 27. § (12) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
