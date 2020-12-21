@@ -1,1 +1,1 @@
-## 10. § Ez a rendelet az egy többéves rádióspektrum-politikai program létrehozásáról szóló 2012. március 14-i 243/2012/EU európai parlamenti és tanácsi határozat 5. cikk (2) bekezdés e) pontjának, valamint 6. cikk (8) bekezdésének való megfelelést szolgálja.
+## való megfelelést szolgálja.

@@ -1,6 +1,6 @@
-## 11–13. §[^7]
+## 13. §[^24]
 
-1–5. melléklet a 7/2013. (IX. 19.) NMHH rendelethez[^8]
+1. melléklet a 7/2013. (IX. 19.) NMHH rendelethez[^25]
 
-[^7]: A 11–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
