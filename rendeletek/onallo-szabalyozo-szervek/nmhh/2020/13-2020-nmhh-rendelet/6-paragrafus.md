@@ -1,0 +1,3 @@
+6. § (1) Ha az emelt díjas szolgáltatás elérhetőségével, igénybevehetőségével vagy a szolgáltató által kiszámlázott díjával kapcsolatban az előfizető a számára elektronikus hírközlési szolgáltatást nyújtó szolgáltatónál panaszt terjeszt elő, a szolgáltató gondoskodik annak a hatályos jogszabályoknak megfelelő kivizsgálásáról.
+
+(2) Az (1) bekezdés szerint vitatott díj meg nem fizetése miatt az előfizetői szolgáltatást nyújtó szolgáltató a számlapanasz az elektronikus hírközlésről szóló 2003. évi C. törvény szerinti kivizsgálásáig az elektronikus hírközlési szolgáltatás nyújtását nem korlátozhatja, nem szüneteltetheti, és az előfizetői szerződést erre hivatkozva felmondással nem szüntetheti meg.

@@ -1,0 +1,11 @@
+5. § (1) Az emelt díjas szolgáltatások elérését az előfizetője kérésére az előfizetői szolgáltatást nyújtó szolgáltató díjmentesen letiltja. Ennek lehetőségéről a szolgáltató az előfizetőket az előfizetői szerződéskötéskor, a honlapján, illetve ügyfélszolgálatán megfelelően tájékoztatja.
+
+(2) Az emelt díjas szolgáltatás nyújtására használható számokra vonatkozóan az előfizetői szolgáltatást nyújtó szolgáltató jogosult az előfizetői szerződéskötéskor az emelt díjas szolgáltatások elérését alapértelmezetten letiltani, amit az előfizetője kérésére, a (4) bekezdésben foglalt esetet kivéve, köteles díjmentesen feloldani. A szolgáltató jogosult a feloldást az első számla befizetéséhez kötni.
+
+(3) A fogadott emelt díjas szolgáltatás nyújtására használható számokra vonatkozóan az előfizetői szolgáltatást nyújtó szolgáltató minden előfizetőjénél díjmentesen alapértelmezett tiltást köteles beállítani. A tiltás csak az előfizető megfelelő azonosítását követően tett kifejezett és egyértelmű nyilatkozatára oldható fel.
+
+(4) Az előfizetői szolgáltatást nyújtó szolgáltatónak biztosítania kell, hogy az emelt díjas szolgáltatás nyújtására használható számok hívásának, illetve az ilyen számokra küldött vagy onnan fogadott üzeneteknek tiltására, illetve feloldásra vonatkozó nyilatkozatát az előfizető bármikor ingyenesen megtehesse, illetve visszavonhassa. A tiltás feloldására vonatkozó nyilatkozat megtétele, továbbá a tiltás újbóli beállítására vonatkozó nyilatkozat megtétele nem minősül az előfizetői szerződés módosításának. Ennek részletes feltételeit az előfizetői szolgáltatást nyújtó szolgáltató az általános szerződési feltételeiben határozza meg, de a nyilatkozat megtételének és visszavonásának lehetőségét legalább telefonos ügyfélszolgálatán biztosítania kell.
+
+(5) Az emelt díjas felnőtt szolgáltatás számain az előfizetői szolgáltatást nyújtó szolgáltatónak megfelelő intézkedésekkel biztosítania kell, hogy kiskorú előfizető ne érhessen el olyan szolgáltatást, amelyen keresztül felnőtt tartalom hozzáférhető. Ez a korlátozás a kiskorú előfizető esetében törvényes képviselőjének kérésére sem oldható fel.
+
+(6) Az emelt díjas, díjkorlátos szolgáltatás esetén a szolgáltató a hívó fél által fizetendő legmagasabb díjat úgy köteles meghatározni, hogy az ne haladja meg az ANFT rendelet szerint meghatározott díjat.
