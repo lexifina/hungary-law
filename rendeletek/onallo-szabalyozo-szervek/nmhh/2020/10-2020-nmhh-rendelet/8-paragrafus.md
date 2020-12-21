@@ -1,0 +1,1 @@
+## „(2) A Hatóság a versenyeztetési eljárás során szerzett rádióspektrum-használati jogosultságot megállapító határozatot a rádióspektrum-használati jogosultsággal rendelkező vállalkozás kérelmére visszavonja.”
