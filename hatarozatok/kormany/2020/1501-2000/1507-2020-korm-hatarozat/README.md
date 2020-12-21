@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1507-30
 | --- | --- | --- |
 | 2020-08-12 | 2020-1507-30-22.1 | 1507/2020. (VIII. 12.) Korm. határozat |
 | 2020-08-13 | 2020-1507-30-22.2 | 2010: CXXX. törvény |
+| 2020-12-21 | 2020-1507-30-22.3 | 1962/2020. (XII. 21.) Korm. határozat |
