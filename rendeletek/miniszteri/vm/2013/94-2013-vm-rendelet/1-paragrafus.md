@@ -34,13 +34,19 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 
 9.[^8] támogatástartalom: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott támogatási egyenérték;
 
-10. támogatástartalomról szóló igazolás: a támogatás támogatástartalmáról szóló igazolás, amely a megállapított támogatás „de minimis” jellegét is megjelöli utalva a támogatás alapját képező bizottsági rendeletre, annak pontos címére és az Európai Unió Hivatalos Lapjában való kihirdetésre.
+10.[^9] támogatástartalomról szóló igazolás: a támogatás támogatástartalmáról szóló igazolás, amely a megállapított támogatás „de minimis” vagy átmeneti támogatás jellegét is megjelöli utalva a támogatás alapját képező bizottsági rendeletre, annak pontos címére és az Európai Unió Hivatalos Lapjában való kihirdetésre.
 
-11.[^9] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+11.[^10] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
-12.[^10] egy és ugyanazon vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
+12.[^11] egy és ugyanazon vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
 
-13.[^11] mezőgazdasági termék: az EUMSz I. mellékletében felsorolt termékek, a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) hatálya alá tartozó halászati és akvakultúra-termékek kivételével,
+13.[^12] mezőgazdasági termék: az EUMSz I. mellékletében felsorolt termékek, a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) hatálya alá tartozó halászati és akvakultúra-termékek kivételével,
+
+14.[^13] átmeneti támogatás: a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatás;
+
+15.[^14] országos mezőgazdasági csekély összegű (de minimis) keret: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet II. melléklete alapján Magyarország rendelkezésére álló mezőgazdasági csekély összegű támogatási keret;
+
+16.[^15] országos halászati csekély összegű (de minimis) keret: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet melléklete alapján Magyarország rendelkezésére álló halászati csekély összegű támogatási keret.
 
 [^1]: Az 1. § 1. pont 1.1. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^2]: Az 1. § 1. pont 1.2. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
@@ -50,6 +56,10 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 [^6]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 14. § (2) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 8. §-ával megállapított szöveg.
 [^7]: Az 1. § 8. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
-[^10]: Az 1. § 12. pontját a 65/2016. (IX. 21.) FM rendelet 11. § (3) bekezdése iktatta be.
-[^11]: Az 1. § 13. pontját a 28/2018. (X. 5.) AM rendelet 3. §-a iktatta be.
+[^9]: Az 1. § 10. pontja a 66/2020. (XII. 18.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^10]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^11]: Az 1. § 12. pontját a 65/2016. (IX. 21.) FM rendelet 11. § (3) bekezdése iktatta be.
+[^12]: Az 1. § 13. pontját a 28/2018. (X. 5.) AM rendelet 3. §-a iktatta be.
+[^13]: Az 1. § 14. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.
+[^14]: Az 1. § 15. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.
+[^15]: Az 1. § 16. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.

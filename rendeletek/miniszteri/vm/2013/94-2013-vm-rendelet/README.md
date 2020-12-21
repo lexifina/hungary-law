@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-94-20-2
 | 2019-04-11 | 2013-94-20-2Y.15 | 14/2019. (IV. 10.) AM rendelet |
 | 2020-04-11 | 2013-94-20-2Y.16 | 4/2019. (III. 6.) AM rendelet |
 | 2020-06-22 | 2013-94-20-2Y.17 | 23/2020. (VI. 19.) AM rendelet |
+| 2020-12-21 | 2013-94-20-2Y.18 | 66/2020. (XII. 18.) AM rendelet |
