@@ -1,3 +1,3 @@
-## 1. § A rádiófrekvenciák másodlagos kereskedelméről szóló 7/2013. (IX. 19.) NMHH rendelet (a továbbiakban: R.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „(1) Az átruházási megállapodás tárgyát olyan frekvenciasávban meglévő rádióspektrum-készlet képezheti, amelynek rádióspektrum-használati jogosultsága, joga a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet (a továbbiakban: NFFF) szerint átruházható. Az átruházással érintett konkrét frekvencia vagy frekvenciatartomány a rádióspektrum-használati jogosultság tárgyát képező rádióspektrum-készlet egésze vagy része lehet.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
