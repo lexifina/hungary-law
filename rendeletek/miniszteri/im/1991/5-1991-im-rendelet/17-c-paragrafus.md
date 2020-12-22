@@ -1,18 +1,18 @@
-## 17/B. §[^68] E rendeletnek a jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet módosításáról szóló 22/2011. (VII. 20.) KIM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a 2. § (2) bekezdés c) pontja szerinti, a Módr. hatálybalépését[^69] megelőzően megkezdett ösztöndíjas szakmai gyakorlatokra is alkalmazni kell.
+## 17/B. §[^69] E rendeletnek a jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet módosításáról szóló 22/2011. (VII. 20.) KIM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a 2. § (2) bekezdés c) pontja szerinti, a Módr. hatálybalépését[^70] megelőzően megkezdett ösztöndíjas szakmai gyakorlatokra is alkalmazni kell.
 
-17/C. §[^70] (1) E rendeletnek a jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet módosításáról szóló 42/2012. (IX. 14.) KIM rendelettel (a továbbiakban: Módr.2.) megállapított rendelkezéseit – az R. 10. § (2) és (3) bekezdésében foglaltak kivételével – akkor is alkalmazni kell, ha a Módr.2. hatálybalépését[^71] megelőzően a jogi szakvizsgára bocsátás iránti kérelmet már benyújtották.
+17/C. §[^71] (1) E rendeletnek a jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet módosításáról szóló 42/2012. (IX. 14.) KIM rendelettel (a továbbiakban: Módr.2.) megállapított rendelkezéseit – az R. 10. § (2) és (3) bekezdésében foglaltak kivételével – akkor is alkalmazni kell, ha a Módr.2. hatálybalépését[^72] megelőzően a jogi szakvizsgára bocsátás iránti kérelmet már benyújtották.
 
-(2)[^72] A Módr.2.-vel megállapított R. 13. § (1) bekezdésében foglaltakat azon részvizsgák vonatkozásában nem kell alkalmazni, amelyekre a jelölt jelentkezése a Módr.2. hatálybalépését[^73] megelőzően már elfogadásra került.
+(2)[^73] A Módr.2.-vel megállapított R. 13. § (1) bekezdésében foglaltakat azon részvizsgák vonatkozásában nem kell alkalmazni, amelyekre a jelölt jelentkezése a Módr.2. hatálybalépését[^74] megelőzően már elfogadásra került.
 
 (3) A Szakvizsga Bizottság 2012. november 1-jén megszűnik. Az, aki 2012. október 31. napján a Szakvizsga Bizottság tagja, e tagságra való kinevezési idejének hátralévő időtartamára vizsgáztatónak minősül.
 
-(4)[^74] E rendeletnek a Módr.2.-vel megállapított 5. § (5) bekezdés harmadik mondatában foglaltakat azokra a jelöltekre kell alkalmazni, akik a jogi szakvizsgára bocsátás iránti kérelmüket a Módr.2. hatálybalépését[^75] követően nyújtották be.
+(4)[^75] E rendeletnek a Módr.2.-vel megállapított 5. § (5) bekezdés harmadik mondatában foglaltakat azokra a jelöltekre kell alkalmazni, akik a jogi szakvizsgára bocsátás iránti kérelmüket a Módr.2. hatálybalépését[^76] követően nyújtották be.
 
-[^68]: A 17/B. §-t a 22/2011. (VII. 20.) KIM rendelet 4. §-a iktatta be.
-[^69]: A hatálybalépés időpontja 2011. július 21.
-[^70]: A 17/C. §-t a 42/2012. (IX. 14.) KIM rendelet 14. §-a iktatta be.
-[^71]: A hatálybalépés napja 2012. szeptember 15.
-[^72]: A 17/C. § (2) bekezdése a 45/2012. (X. 15.) KIM rendelet 2. § (3) bekezdése szerint módosított szöveg.
-[^73]: A hatálybalépés napja 2012. szeptember 15.
-[^74]: A 17/C. § (4) bekezdését a 45/2012. (X. 15.) KIM rendelet 2. § (1) bekezdése iktatta be.
-[^75]: A hatálybalépés napja 2012. szeptember 15.
+[^69]: A 17/B. §-t a 22/2011. (VII. 20.) KIM rendelet 4. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2011. július 21.
+[^71]: A 17/C. §-t a 42/2012. (IX. 14.) KIM rendelet 14. §-a iktatta be.
+[^72]: A hatálybalépés napja 2012. szeptember 15.
+[^73]: A 17/C. § (2) bekezdése a 45/2012. (X. 15.) KIM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^74]: A hatálybalépés napja 2012. szeptember 15.
+[^75]: A 17/C. § (4) bekezdését a 45/2012. (X. 15.) KIM rendelet 2. § (1) bekezdése iktatta be.
+[^76]: A hatálybalépés napja 2012. szeptember 15.
