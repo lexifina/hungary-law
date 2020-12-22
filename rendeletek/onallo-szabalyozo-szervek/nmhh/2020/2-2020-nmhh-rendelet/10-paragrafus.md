@@ -1,7 +1,3 @@
-## „(7a) Ha a Hatóság a versenyeztetési eljárás tárgyát képező valamennyi értékesítési egységre vonatkozó rádióspektrum-használati jogosultság tekintetében egybefoglalt határozatot hoz, és a határozatot a bíróság jogerősen hatályon kívül helyezi, a Hatóság a bíróság által megállapított anyagi jogi jogszabálysértéssel közvetlenül nem érintett értékesítési egység nyertesével (e § alkalmazásában a továbbiakban: ügyfél) az általa elnyert értékesítési egységekre vonatkozó rádióspektrum-használati jogosultság tárgyában, továbbá az érintett frekvenciasávval összefüggő esetleges sávátrendezés feltételeiben – az ügynek a közérdek és az ügyfél szempontjából is előnyös rendezése érdekében – hatósági szerződést köthet, feltéve, hogy
+## 9. §[^12]
 
-## a) a bíróság nem állapított meg olyan anyagi jogi jogszabálysértést, amely alapján az adott értékesítési egység vonatkozásában a hatósági szerződést kötő ügyfél nyertességét nem lehetett volna megállapítani; és
-
-## b) a hatósági szerződés nem sérti a jogszabálysértéssel nem érintett más nyertesek jóhiszeműen szerzett és gyakorolt jogait, így különösen nem tartalmaz a kiírási dokumentációban, valamint a versenyeztetési eljárást lezáró határozatban meghatározott jogokon, kötelezettségeken és feltételeken felüli további jogokat, kötelezettségeket és feltételeket, azzal, hogy a rádióspektrum-használati jogosultság időtartama, a fizetendő díj és megfizetésének feltételei tekintetében a hatósági szerződés eltérhet a dokumentációban, valamint az eljárást lezáró határozatban meghatározottaktól; és
-
-## c) a hatósági szerződés megkötése az ügy összes körülményére, így különösen az ügyfél szolgáltatásai folytonosságának vagy az általa nyújtott szolgáltatás műszaki színvonalának biztosítása vagy az előfizetők védelme érdekében indokolt.”
+[^12]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
