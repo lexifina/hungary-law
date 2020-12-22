@@ -1,4 +1,4 @@
-## 126. § A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjéről szóló 217/2020. (V. 21.) Korm. rendelet 1. § b) pontjában a „188. § 6. pontja” szövegrész helyébe a „188. § 9. pontja” szöveg lép.
+## 126. §[^198]
 
 ## 33. Záró rendelkezések
 
@@ -21,3 +21,5 @@
 (9) A 24. alcím 2022. szeptember 1-jén lép hatályba.
 
 (10) A 101. § 2023. január 1-jén lép hatályba.
+
+[^198]: A 126. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

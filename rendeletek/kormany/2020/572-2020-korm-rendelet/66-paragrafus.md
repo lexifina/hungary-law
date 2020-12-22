@@ -1,3 +1,3 @@
-## 65. §[^119]
+## 65. §[^122]
 
-[^119]: A 65. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^122]: A 65. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
