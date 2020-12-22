@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-339-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-07-11 | 2020-339-20-22.1 | 339/2020. (VII. 10.) Korm. rendelet |
+| 2020-12-22 | 2020-339-20-22.2 | 617/2020. (XII. 21.) Korm. rendelet |
