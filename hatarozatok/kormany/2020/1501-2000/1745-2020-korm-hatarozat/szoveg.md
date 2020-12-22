@@ -38,31 +38,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. január 31.
 
-6. felhívja a pénzügyminisztert és az innovációért és technológiáért felelős minisztert, hogy gondoskodjanak az 1. pontban felsorolt projektek finanszírozásához a 2022–2024. évekre összesen 338 439 135 000 forint forrás biztosításáról a központi költségvetés kiemelt társadalmi igényeken alapuló közútfejlesztéseket finanszírozó előirányzata javára, az alábbiak szerint:
-
-a) a 2022. évre 120 801 470 550 forint,
-
-b) a 2023. évre 106 722 234 450 forint,
-
-c) a 2024. évre 110 915 430 000 forint;
-
-Felelős: pénzügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: az adott évre szóló központi költségvetési törvény tervezése során
-
-7. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 4. Kiemelt társadalmi igényeken alapuló közútfejlesztések jogcím kiadási előirányzata terhére vállalható kötelezettségek mértékét a 2021–2024. évekre az alábbiak szerint állapítja meg:
-
-a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 91 750 000 000 forint,
-
-b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 120 741 100 000 forint,
-
-c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 106 668 900 000 forint,
-
-d) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 110 860 000 000 forint;
-
-8. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében, a 7. pont szerinti éven túli korlátok mértékéig, 2021–2024. évek vonatkozásában összesen legfeljebb 430 020 000 000 forint összegben kötelezettségeket vállaljon;
+6–8.[^1]
 
 9. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. pontban szereplő projektek előrehaladása során folyamatosan vizsgálja felül a szükséges forrásigényeket, és azok változása esetén soron kívül készítsen előterjesztést a Kormány részére a projektek előrehaladásáról és a kivitelezéshez kapcsolódó pénzügyi ütemezés és kötelezettségvállalási összeg felülvizsgálatáról;
 
@@ -75,3 +51,5 @@ Határidő: folyamatos
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
+
+[^1]: A 6–8. pontot az 1974/2020. (XII. 22.) Korm. határozat 4. pontja visszavonta.
