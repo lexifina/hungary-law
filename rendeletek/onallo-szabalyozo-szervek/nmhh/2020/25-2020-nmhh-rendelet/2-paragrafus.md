@@ -1,0 +1,1 @@
+## „15. szolgáltatásminőségi követelmények: a szolgáltató által vállalt, kötelezően teljesítendő célértékek és a szolgáltatás minőségét meghatározó elektronikus hírközlésre vonatkozó szabályban rögzített előírások összessége;”
