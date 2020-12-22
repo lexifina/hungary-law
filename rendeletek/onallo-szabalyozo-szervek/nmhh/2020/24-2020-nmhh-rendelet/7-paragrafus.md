@@ -1,0 +1,1 @@
+## „(2a) A természetes személy kérelmező a díj megfizetését a Hatóság (1) bekezdésben meghatározott számlaszámára készpénzátutalási megbízás útján is teljesítheti, ez esetben a közlemény rovatban fel kell tüntetni az eljárás tárgyát.”
