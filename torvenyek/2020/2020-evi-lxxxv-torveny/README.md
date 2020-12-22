@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-85-00-00
 | 2020-07-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-85-00-00.1 |
 | 2020-07-16 | 2010. évi CXXX. törvény | 2020-85-00-00.2 |
 | 2020-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-85-00-00.3 |
+| 2020-12-22 | 2010. évi CXXX. törvény | 2020-85-00-00.4 |
