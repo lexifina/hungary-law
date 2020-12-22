@@ -4,6 +4,6 @@
 
 ## b) alapképzésben szerzett építész, épületszerkezeti konstruktőr vagy magasépítési szakirányán szerzett szakképzettség, mesterfokozatú képzésben szerzett tervező építészmérnöki, szerkezettervező építészmérnöki szakképzettség, osztatlan képzésben szerzett építész szakképzettség vagy ezekkel egyenértékűnek elismert szakképzettség.
 
-3. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^80]
+3. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^81]
 
-[^80]: A 3. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^81]: A 3. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte.
