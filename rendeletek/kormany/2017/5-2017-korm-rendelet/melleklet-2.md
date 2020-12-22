@@ -58,11 +58,11 @@
 
 19. közegészségügyi hatósági eljárások,
 
-19a.[^10] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
+19a.[^13] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
 
-20.[^11] azok az 1–19a. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+20.[^14] azok az 1–19a. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^10]: A 2. melléklet 19a. pontját a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^11]: A 2. melléklet 20. pontja a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 2. melléklet 19a. pontját a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^14]: A 2. melléklet 20. pontja a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
