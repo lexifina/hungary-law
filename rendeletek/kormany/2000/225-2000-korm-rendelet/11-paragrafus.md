@@ -4,7 +4,7 @@
 
 (1) Számviteli feladatok a felszámolás megindításakor (3. §-hoz):
 
-a)[^15] a zárómérlegben az egyszerűsített beszámoló adózott eredményét át kell vezetni az eredménytartalék tételbe, amely összeg az átvezetést követően adózott jövedelemből származó, rendelkezésre álló saját forrást mutatja,
+a)[^19] a zárómérlegben az egyszerűsített beszámoló adózott eredményét át kell vezetni az eredménytartalék tételbe, amely összeg az átvezetést követően adózott jövedelemből származó, rendelkezésre álló saját forrást mutatja,
 
 b) a zárlati kötelezettség a számviteli törvény 162. §-a szerint vezetett pénzforgalmi nyilvántartáshoz kapcsolódó részletező nyilvántartásokra is vonatkozik,
 
@@ -32,4 +32,4 @@ a) a 8. § (2) bekezdésében meghatározott különbözetet a pénzügyileg nem
 
 b) az átruházott követeléssel (engedményezés) kiegyenlített kötelezettséget a követelés, illetve a kötelezettség jellege szerint a pénzbevételt nem jelentő bevételek, illetve a ráfordítást jelentő elszámolások között, vagy a jövedelemadózás alá nem vont bevételek, illetve a jövedelemadózásban ráfordításként nem érvényesíthető kiadások között kell kimutatni.
 
-[^15]: A 11. § (1) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 55. § 2. pontja szerint módosított szöveg.
+[^19]: A 11. § (1) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 55. § 2. pontja szerint módosított szöveg.

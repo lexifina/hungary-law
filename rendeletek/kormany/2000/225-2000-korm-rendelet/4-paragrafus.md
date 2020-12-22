@@ -6,7 +6,7 @@
 
 (2) A gazdálkodó szervezet a felszámolás időszaka alatt a felszámolás kezdő időpontja előtti időszaknak megfelelően köteles az egyszeres, illetve a kettős könyvvitel rendszerében vezetni könyvviteli nyilvántartásait, a (3) bekezdésben foglalt eltéréssel.
 
-(3) A felszámoló dönthet úgy, hogy a gazdálkodó szervezet a felszámolás kezdő időpontjával, a felszámolási nyitó mérleg alapján a számviteli törvény 163. §-ában foglaltak szerint az egyszeres könyvvitelről áttér a kettős könyvvitelre azzal, hogy a kettős könyvvitelről az egyszeres könyvvitelre még a 13. § (1) bekezdésében leírt esetben sem lehet visszatérni.
+(3)[^9] A felszámoló dönthet úgy, hogy a gazdálkodó szervezet a felszámolás kezdő időpontjával, a nyitó felszámolási mérleg alapján a számviteli törvény 163. §-ában foglaltak szerint az egyszeres könyvvitelről áttér a kettős könyvvitelre azzal, hogy a kettős könyvvitelről az egyszeres könyvvitelre még a 13. § (1) bekezdésében leírt esetben sem lehet visszatérni.
 
 (4) A felszámoló jogosult a számviteli törvény 161. §-a alapján készített számlarendet írásban módosítani.
 
@@ -21,3 +21,4 @@
 (9) Az egyezségi tárgyalásra készítendő fizetőképesség helyreállítására alkalmas programot és egyezségi javaslatot a felszámolás időszaka alatt vezetett könyvviteli nyilvántartások adataival kell megalapozni.
 
 [^8]: A 3/A. §-t a 382/2012. (XII. 19.) Korm. rendelet 19. §-a iktatta be.
+[^9]: A 4. § (3) bekezdése a 616/2020. (XII. 21.) Korm. rendelet 6. § 1. pontja szerint módosított szöveg.

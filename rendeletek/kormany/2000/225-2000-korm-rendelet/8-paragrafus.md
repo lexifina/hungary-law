@@ -8,7 +8,7 @@
 
 a) a Cstv. 4. §-ának (3)–(5) bekezdése szerint a felszámolásba be nem vonható vagyoni eszközöket könyv szerinti értéken,
 
-b) a pénzeszközöket könyv szerinti értéken (pénzkészletek, elektronikus pénzeszközök, bankban lévő pénzeszközök, csekkek),
+b)[^15] a pénzeszközöket (pénzkészlet, elektronikus pénzeszközök, bankban lévő pénzeszközök, csekkek) könyv szerinti értéken (devizában fennálló pénzeszközök esetében a felszámolási zárómérleg fordulónapja szerinti árfolyamon átszámítva),
 
 c) a vagyoni eszközöket [az a)–b) és d) pontokban foglalt eszközök kivételével] piaci értéken (immateriális javak, tárgyi eszközök, befektetett pénzügyi eszközök, készletek, értékpapírok),
 
@@ -20,7 +20,7 @@ d) a be nem hajtott követeléseket a várhatóan megtérülő összegben
 
 a) a felszámolásba be nem vonható vagyont [Cstv. 4. §-ának (3)–(5) bekezdése] – mint kötelezettséget – a vagyoni eszközök között ilyen címen kimutatott összeggel egyezően,
 
-b) az a) ponthoz nem tartozó kötelezettségeket könyv szerinti értéken (a nyilvántartásba vett és még fennálló, ki nem egyenlített kötelezettségek – közte a környezetvédelmi kárelhárításból származó kötelezettségek – összege),
+b)[^16] az a) ponthoz nem tartozó kötelezettségeket könyv szerinti értéken (a nyilvántartásba vett és még fennálló, ki nem egyenlített kötelezettségek – közte a környezetvédelmi kárelhárításból származó kötelezettségek és a felszámolónak ki nem fizetett díjak – összege),
 
 c) a felosztható (a tulajdonosokat megillető) vagyont – amely a felszámolási zárómérleg szerinti vagyoni eszközök, valamint a kötelezettségek [b) pont] és a felszámolásba be nem vonható vagyon [a) pont] együttes összegének különbözete, amely negatív előjelű is lehet –
 
@@ -33,3 +33,6 @@ c) a felosztható (a tulajdonosokat megillető) vagyont – amely a felszámolá
 (7) A felszámolási zárómérlegben kimutatott követelések tekintetében a hitelezővel szembeni kötelezettség erejéig a Cstv. 52. §-ának (5) bekezdése alapján engedményezésnek van helye. Az átruházott követelés összegében az adós gazdálkodó szervezet kötelezettsége kiegyenlítetté válik.
 
 (8) A felszámoló a gazdálkodó szervezet számviteli bizonylatainak elhelyezéséről úgy köteles gondoskodni, hogy az megfeleljen a számviteli törvény 169. §-ában meghatározott bizonylatmegőrzési követelményeknek.
+
+[^15]: A 8. § (3) bekezdés b) pontja a 616/2020. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^16]: A 8. § (4) bekezdés b) pontja a 616/2020. (XII. 21.) Korm. rendelet 6. § 3. pontja szerint módosított szöveg.
