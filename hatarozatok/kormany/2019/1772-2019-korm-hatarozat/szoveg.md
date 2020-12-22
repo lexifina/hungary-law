@@ -2,7 +2,7 @@ A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. üte
 
 1. egyetért a Hevesi tanuszoda (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Heves belterület 1213/6 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 889 911 635 forintban határozza meg;
+2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 893 171 166 forintban határozza meg;
 
 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások címnek a 4. Tanuszoda fejlesztések megvalósítása alcímmel történő kiegészítését;
 
@@ -31,3 +31,5 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
+
+[^1]: A 2. pont az 1978/2020. (XII. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
