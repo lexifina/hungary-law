@@ -1,1 +1,3 @@
-## 14. § Hatályát veszti az R. 9. számú melléklet 4. pontja.
+## 14. §[^53]
+
+[^53]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

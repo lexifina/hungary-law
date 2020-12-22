@@ -1,5 +1,3 @@
-## 3. § Az R. 2. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## (A jogosítottnak nem kell rádióspektrumdíjat fizetnie,)
-
-## „g) azon hálózatok és állomások telepítése, üzemben tartása esetén, amelyek az NFFF alapján az egyedi engedélyezési kötelezettség alól mentesülnek,”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
