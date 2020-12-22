@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti a digitális televízió-médiaszolgáltatások vételére alkalmas készülékek együttműködő képessége érdekében szükséges intézkedésekről szóló 6/2012. (I. 26.) NMHH rendelet.
+## 10. §[^1]
 
 ## 11. § Ez a rendelet
 
@@ -7,3 +7,5 @@ a) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálóz
 b) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelv 113. cikk (1) és (3) bekezdésének és XI. mellékletének
 
 való megfelelést szolgálja.
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
