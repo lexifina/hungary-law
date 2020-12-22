@@ -449,3 +449,17 @@ Máriapócs Nemzeti Kegyhely
 |
 
 cím: 4326 Máriapócs, Kossuth tér 25.
+
+|
+
+|
+
+20.
+
+|
+
+A rákosmezei Királydomb
+
+|
+
+Budapest X. kerület, 42717 helyrajzi számon nyilvántartott ingatlan
