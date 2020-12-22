@@ -1,3 +1,3 @@
-## 2. § Az R. 2. §-a a következő (3) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(3) A szolgáltató a (2) bekezdés szerinti intézkedéseit az Eht. 156. § (8) és (9) bekezdése szerinti legjobb gyakorlatról szóló ajánlás figyelembevételével alakíthatja ki.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

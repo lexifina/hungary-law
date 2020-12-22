@@ -1,3 +1,3 @@
-## 7. § Az R. 14. §-a helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „14. § Az Eht. 156. § (13) bekezdése szerinti forgalmi adatokon kívüli helymeghatározó adatok feldolgozását csak olyan személy végezheti, aki a nyilvános elektronikus hírközlő hálózatok vagy nyilvánosan elérhető elektronikus hírközlési szolgáltatások szolgáltatójának irányítása alatt, vagy az értéknövelt szolgáltatást nyújtó harmadik személy irányítása alatt jár el; ezt az adatfeldolgozást az értéknövelt szolgáltatás nyújtásához szükséges mértékre kell korlátozni.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

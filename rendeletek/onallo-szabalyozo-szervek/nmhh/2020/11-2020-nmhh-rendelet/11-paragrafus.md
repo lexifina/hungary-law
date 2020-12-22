@@ -1,1 +1,3 @@
-## 10. § Hatályát veszti az R. 3. §-a, 4. §-a, 15. § (1) bekezdése és 16. §-a.
+## 10. §[^11]
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
