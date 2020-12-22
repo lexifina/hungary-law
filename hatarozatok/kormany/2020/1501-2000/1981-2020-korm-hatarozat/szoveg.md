@@ -1,0 +1,1 @@
+A Sátoraljaújhely város közigazgatási területén fekvő földrészletek beruházási célterületté nyilvánításáról szóló 1289/2020. (VI. 4.) Korm. határozatban a „10985/4, 10985/5 helyrajzi számú ingatlanokat” szövegrész helyébe a „10985/4, 10985/5, 10977, 10978 helyrajzi számú ingatlanokat” szöveg lép.
