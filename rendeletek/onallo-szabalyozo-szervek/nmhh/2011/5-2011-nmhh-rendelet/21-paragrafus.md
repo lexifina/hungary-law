@@ -2,12 +2,12 @@
 
 ## Záró rendelkezés
 
-21. §[^36] (1) Ez a rendelet 2011. november 1. napján lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+21. §[^60] (1) Ez a rendelet 2011. november 1. napján lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2)[^37]
+(2)[^61]
 
-(3)[^38]
+(3)[^62]
 
-[^36]: A 21. § a 12/2012. (VIII. 9.) NMHH rendelet 9. §-ával megállapított szöveg.
-[^37]: A 21. § (2) bekezdését a 2020: LXXXV. törvény 86. § (2) bekezdés a) pont ah) alpontja hatályon kívül helyezte.
-[^38]: A 21. § (3) bekezdését a 16/2013. (IX. 25.) NMHH rendelet 10. §-a iktatta be, a 2020: LXXXV. törvény 86. § (2) bekezdés a) pont ah) alpontja hatályon kívül helyezte.
+[^60]: A 21. § a 12/2012. (VIII. 9.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^61]: A 21. § (2) bekezdését a 2020: LXXXV. törvény 86. § (2) bekezdés a) pont ah) alpontja hatályon kívül helyezte.
+[^62]: A 21. § (3) bekezdését a 16/2013. (IX. 25.) NMHH rendelet 10. §-a iktatta be, a 2020: LXXXV. törvény 86. § (2) bekezdés a) pont ah) alpontja hatályon kívül helyezte.

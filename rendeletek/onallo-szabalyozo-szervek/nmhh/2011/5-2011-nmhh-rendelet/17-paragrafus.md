@@ -10,7 +10,7 @@
 
 (5) A Médiatanácsnak a médiaszolgáltató médiapiac sokszínűségének növelésére irányuló intézkedéseire vonatkozó hatósági szerződés megkötése tárgyában induló eljárásának díja 0 Ft. A Médiatanácsnak a médiaszolgáltató médiapiac sokszínűségének növelése érdekében tervezett intézkedéseinek jóváhagyása érdekében induló eljárásáért fizetendő díj összege 100 000 Ft.
 
-(6) Az Mttv. 65. § (1) bekezdése szerinti ideiglenes médiaszolgáltatási hatósági szerződés megkötésére irányuló eljárásért fizetendő díj összege 40 000 Ft. Az Mttv. 65. § (10) bekezdése szerinti ideiglenes médiaszolgáltatási hatósági szerződés megkötésére irányuló eljárásért fizetendő díj összege országos médiaszolgáltatás esetében 30 000 Ft, helyi, valamint körzeti médiaszolgáltatás esetében 5 000 Ft. Az Mttv. 65. § (11) bekezdése szerinti eljárás tekintetében e rendelet 2. § (1) bekezdése irányadó.
+(6)[^49] Az Mttv. 65. § (1) bekezdése szerinti ideiglenes médiaszolgáltatási hatósági szerződés megkötésére irányuló eljárásért fizetendő díj összege 40 000 Ft. Az Mttv. 65. § (11) bekezdése szerinti eljárás tekintetében e rendelet 2. § (1) bekezdése irányadó.
 
 (7) A hálózatba kapcsolódás engedélyezésére irányuló eljárásért fizetendő díj összege hálózatba kapcsolódó médiaszolgáltatási jogosultságonként 15 000 Ft.
 
@@ -20,7 +20,7 @@
 
 (10) Közösségi médiaszolgáltatásként való elismerésre irányuló eljárásért fizetendő díj összege 15 000 Ft.
 
-(11) Az Mttv. 48. § (4) bekezdése szerinti közfeladat ellátása érdekében történő médiaszolgáltatás végzésére feljogosító eljárásért fizetendő díj összege 50 000 Ft.
+(11)[^50]
 
 (12) Az Mttv. 20–21. § szerinti műsorkvóták teljesítése alóli éves mentesítésre irányuló eljárásért fizetendő összeg közösségi médiaszolgáltatás esetében 20 000 Ft, körzeti médiaszolgáltatás esetében 30 000 Ft, országos médiaszolgáltatás esetében 50 000 Ft.
 
@@ -35,3 +35,6 @@
 (17) A Médiatanácsnak az Mttv. 75. § (3) bekezdése alapján a továbbítási kötelezettség tekintetében szerződéskötési kötelezettség alá eső médiaszolgáltatók meghatározására irányuló eljárásáért fizetendő díj összege 10 000 Ft.
 
 (18) A Médiatanács másodfokú eljárásáért – amennyiben a fellebbezési eljárás tárgyának értéke pénzben megállapítható – a fellebbezéssel érintett vagy vitatott összeg minden megkezdett 10 000 forintja után 400 Ft, de legalább 5000 Ft, legfeljebb 500 000 Ft összegű díj fizetendő. Ha a fellebbezési eljárás tárgyának értéke pénzben nem állapítható meg, a fellebbezés díja 5000 Ft.
+
+[^49]: A 17. § (10) bekezdése a 24/2020. (XII. 21.) NMHH rendelet 10. § 4. pontja szerint módosított szöveg.
+[^50]: A 17. § (11) bekezdését a 24/2020. (XII. 21.) NMHH rendelet 10. § 4. pontja hatályon kívül helyezte.
