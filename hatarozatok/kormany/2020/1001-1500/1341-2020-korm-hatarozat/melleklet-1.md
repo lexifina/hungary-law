@@ -1,6 +1,6 @@
 ## 1. egyetért a rétsági tanuszoda programszerű kormányzati magasépítési beruházásként történő megvalósításával (a továbbiakban: Beruházás) az ingatlan-nyilvántartás szerinti Rétság belterület 356/61 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-## 2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 079 230 364 forintban határozza meg;
+## 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 091 999 239 forintban határozza meg;
 
 ## 3. a 2. pont szerinti összeg 2020. évi részének finanszírozása céljából az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 529 378 139 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
 
@@ -79,3 +79,5 @@
 |  |  | egyéb: |  | azonnal |  | 529 378 139 |  | 529 378 139 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont az 1978/2020. (XII. 22.) Korm. határozat 5. pontja szerint módosított szöveg.
