@@ -1,1 +1,3 @@
-## 46. § Hatályát veszti az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról szóló 6/2015. (X. 26.) NMHH rendelet.
+## 46. §[^1]
+
+[^1]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
