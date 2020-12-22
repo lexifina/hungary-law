@@ -1,9 +1,3 @@
-## lép.
+## 1. §[^2]
 
-## 2. § Hatályát veszti a 155/2009. (XI. 16.) FVM rendelet
-
-1. 3. § (2)–(5) bekezdése,
-
-2. 4. §-a,
-
-3. 8/A. §-a.
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

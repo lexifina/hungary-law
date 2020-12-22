@@ -1,7 +1,3 @@
-## A 63/2012. (VII. 2.) VM rendelet 2. melléklete a következő 1/a. ponttal egészül ki:
+2. melléklet a 63/2020. (XII. 16.) AM rendelethez[^18]
 
-## „1/a. A Nemzeti Földügyi Központ fizetési számlája:
-
-## MÁK10032000-00358688-00000000”
-
-2. melléklet a 63/2020. (XII. 16.) AM rendelethez
+[^18]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
