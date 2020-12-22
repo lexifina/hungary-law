@@ -1,0 +1,15 @@
+## 10. Az előfizetői szerződés megszűnése
+
+16. § (1) Az előfizetői szerződés megszűnése esetén – a (7) bekezdésben és az Eht. 134. § (6) és (7) bekezdésében meghatározott esetek kivételével – sem kiszállási díj, sem bármilyen egyéb költség, így különösen a szolgáltató tulajdonát képező eszköz amortizációs értékcsökkenése, nem hárítható át az előfizetőre.
+
+(2) Az előfizető az előfizetői szerződést egy általa megjelölt határnapra is felmondhatja. Ebben az esetben az előfizető a felmondásról szóló nyilatkozatában megjelöli azt a határnapot, amely naptól a nyújtott szolgáltatást nem kívánja igénybe venni. E határnap a felmondás megtételétől, vagy megküldésétől számított nyolcadik és harmincadik nap között lehet. A szolgáltató e határnapon a szolgáltatás nyújtását megszünteti.
+
+(3) Az elektronikus hírközlésre vonatkozó szabályoknak és az előfizetői szerződésnek megfelelő előfizetői felmondás esetében a szolgáltató nem kötheti ki az előfizetői szerződés megszűnése feltételeként a szolgáltató tulajdonát képező, az előfizető részére átadott eszközök visszaszolgáltatását. Az előfizető felmondása, az előfizetői szerződés megszűnése az előfizetői szerződéssel összefüggő elektronikus hírközlő végberendezésre vonatkozó polgári jogi jogviszonyt nem érinti, arra a Polgári Törvénykönyvről szóló törvény szabályai az irányadók.
+
+(4) Az előfizetői szerződés megszűnése esetén a szolgáltató valamennyi ügyfélszolgálatán lehetővé teszi az előfizető számára a szolgáltató tulajdonát képező, az előfizető részére átadott eszköz visszaszolgáltatását, valamint igazolást ad a visszaszolgáltatásról az előfizető részére. Nem írható elő a visszaszolgáltatásra olyan eljárás, amely az előfizető számára indokolatlan költséget vagy aránytalan nehézséget jelent.
+
+(5) A nyilvánosan elérhető műsorterjesztés szolgáltatást nyújtó szolgáltató az általa rendelkezésre bocsátott digitális televíziókészülék visszavételét az előfizetői szerződés megszűnésekor a (4) bekezdés szerinti módon biztosítja az előfizető számára, kivéve, ha bizonyítja, hogy a digitális televíziókészülék teljes körűen alkalmas más műsorterjesztési szolgáltatások – ha van ilyen, különösen az előfizető által választott új műsorterjesztési szolgáltatás – keretében terjesztett digitális televízió-médiaszolgáltatások vételére.
+
+(6) A digitális televíziókészülékekre vonatkozó, az (5) bekezdés szerinti alkalmassági követelményeket a digitális médiaszolgáltatások vételére alkalmas készülékek együttműködő képessége érdekében szükséges intézkedésekről szóló NMHH rendelet határozza meg.
+
+(7) Ha a szolgáltatás nyújtásának megkezdése a 8. § (1) bekezdése szerinti időpontban az előfizető érdekkörébe tartozó ok miatt nem volt lehetséges és a felek a 8. § (2) bekezdésében foglaltak szerint nem állapodnak meg a szolgáltatás nyújtása megkezdésének újabb időpontjában, az előfizetői szerződés az előfizetői szerződés megkötésétől vagy az Eht. 129. § (1b) bekezdése szerinti hatálybalépés napjától számított 16. napon, vagy a felek előfizetői szerződésben foglalt megállapodása szerinti későbbi időpontban megjelölt napot követő napon megszűnik.

@@ -1,0 +1,3 @@
+27. § (1) Előre fizetett díjú szolgáltatások egyenlegfeltöltéssel történő meghosszabbítása esetén a szolgáltató az előfizető által kifizetett, de az egyenlegfeltöltést megelőzően fel nem használt összeget az új előfizetői szerződéshez kapcsolódó egyenlegen jóváírja. A szolgáltató a szerződés újabb feltöltés nélküli megszűnésekor az előfizető – az Eht. 143. § (2) bekezdése szerinti elévülési időn belül előterjesztett – kérésére a fel nem használt összeget az előfizető részére visszafizeti. Semmis az előfizetői szerződés azon rendelkezése, mely szerint a fel nem használt egyenleg elvész, vagy az előfizetőnek nem jár vissza.
+
+(2) Egyenlegfeltöltéssel, előre fizetett díjú szolgáltatások esetében a 25. §, valamint a 26. § nem alkalmazható.

@@ -1,0 +1,9 @@
+9. § (1) Az előfizető a határozott idejű előfizetői szerződést a szolgáltatás nyújtásának megkezdésétől számított 14 napon belül azonnali hatállyal felmondhatja, ha
+
+a) az előfizetői szerződés további teljesítéséhez fűződő érdeke azon okból szűnt meg, hogy az előfizetői szerződésben megjelölt előfizetői hozzáférési ponton vagy cím, helyrajzi szám szerint megjelölt igénybevételi helyen a szolgáltatás minősége nem felel meg az előfizetői szerződésben foglaltaknak vagy nem vehető igénybe, vagy
+
+b) az internet-hozzáférés szolgáltatás nem teszi lehetővé a szolgáltató által az előfizetői szerződés részeként nyújtott digitális tartalom vagy alkalmazás elérését, használatát.
+
+(2) Az (1) bekezdés szerinti határozott idejű előfizetői szerződés felmondása esetén vagy, ha az előfizető a határozatlan idejű előfizetői szerződést az (1) bekezdésben meghatározott okokból mondja fel, a felek egymással elszámolnak, melynek keretében a szolgáltató a szerződéskötéstől vagy az Eht. 129. § (1b) bekezdésben foglalt hatálybalépéstől a felmondásig eltelt időre járó arányos havidíjat, valamint forgalomarányos díjat tartalmazó szolgáltatás esetében az előfizető által felhasznált forgalom díját vagy a szolgáltatással igénybe vett eseti díjas egyéb szolgáltatások ellenértékét követelheti. A szolgáltató egyéb költséget, így különösen felmondási vagy adminisztrációs díjat nem számíthat fel. Az előfizetői szerződés megkötésével egyidejűleg a szolgáltató igazolható módon tájékoztatja az előfizetőt a felmondási jog gyakorlásának lehetőségéről, feltételeiről és következményeiről.
+
+(3) A szolgáltató nem követelhet az előfizetőtől díjat, ellenszolgáltatást, ha olyan szolgáltatást, terméket vagy elektronikus hírközlő végberendezést értékesít, amelyet az előfizető nem rendelt meg. A szolgáltató erre vonatkozó ajánlata az előfizetőnek a 6. § (2) bekezdésével összhangban tett kifejezett jognyilatkozata alapján tekinthető elfogadottnak.
