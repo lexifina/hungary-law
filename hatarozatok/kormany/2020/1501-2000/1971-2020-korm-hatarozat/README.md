@@ -1,0 +1,9 @@
+# 1971/2020. (XII. 22.) Korm. határozat
+
+a Miniszterelnökség és az Innovációs és Technológiai Minisztérium fejezetek közötti előirányzat-átcsoportosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1971-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-12-22 | 2020-1971-30-22.1 | 1971/2020. (XII. 22.) Korm. határozat |
