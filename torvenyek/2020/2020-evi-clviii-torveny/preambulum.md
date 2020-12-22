@@ -1,0 +1,1 @@
+A műszaki képzési terület, ezen keresztül az innovációt támogatni kész magyar felsőoktatási intézményrendszer és környezete, ezzel a Közép-Dunántúli Régió megerősítése, a képzést folytató oktatók, kutatók, tanárok, a képzésben részt vevők támogatása érdekében az Országgyűlés a következő törvényt alkotja:
