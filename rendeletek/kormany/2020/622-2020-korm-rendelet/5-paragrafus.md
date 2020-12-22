@@ -1,0 +1,1 @@
+## 4. § A Beruházással összefüggésben az előzetes régészeti dokumentáció elkészítésére és a szükséges további régészeti előkészítés – megelőző feltárás, régészeti megfigyelés – elvégzésére a Soproni Múzeum jogosult.

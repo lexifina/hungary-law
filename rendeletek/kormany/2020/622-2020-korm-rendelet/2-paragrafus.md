@@ -1,0 +1,5 @@
+## 2. § A Beruházással összefüggésben
+
+a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni.
