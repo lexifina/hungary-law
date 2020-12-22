@@ -1,8 +1,8 @@
 ## 13. Jogkövetkezmények
 
-22. §[^31] (1) Az e rendeletben meghatározott védelmi intézkedések betartását a rendőrség a 20. § (2) bekezdés b) pontjára figyelemmel a Magyar Honvédség közreműködésével ellenőrzi.
+22. §[^32] (1) Az e rendeletben meghatározott védelmi intézkedések betartását a rendőrség a 20. § (2) bekezdés b) pontjára figyelemmel a Magyar Honvédség közreműködésével ellenőrzi.
 
-(2)[^32] Ha a rendőrség az ellenőrzés során, vagy a rendőrség a katona értesítése alapján a 2. § (1), (2) és (4) bekezdése, az 5. § (1) bekezdése, a 7. §, a 9. § (2) bekezdése, 9/A. § (2) bekezdése, a 11. §, a 12. § (3) bekezdése, a 13. §, valamint a 17. § (6) bekezdése szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
+(2)[^33] Ha a rendőrség az ellenőrzés során, vagy a rendőrség a katona értesítése alapján a 2. § (1), (2) és (4) bekezdése, az 5. § (1) bekezdése, a 7. §, a 9. § (2) bekezdése, 9/A. § (2) bekezdése, a 11. §, a 12. § (3) bekezdése, a 13. §, valamint a 17. § (6) bekezdése szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
 
 a) 100 000 forinttól 1 000 000 forintig terjedő bírságot szabhat ki,
 
@@ -32,5 +32,5 @@ a) az ellenőrzés helye szerint illetékes rendőrkapitányság,
 
 b) a Budapest Liszt Ferenc Nemzetközi Repülőtéren a Repülőtéri Rendőr Igazgatóság.
 
-[^31]: A 22. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^32]: A 22. § (2) bekezdése az 513/220. (XI. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^32]: A 22. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^33]: A 22. § (2) bekezdése az 513/220. (XI. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.

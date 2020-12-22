@@ -1,8 +1,8 @@
-## 7. §[^15] Az 5. § és a 6. § szerinti védelmi intézkedések betartatásáról a rendezvény szervezője, illetve a rendezvény helyszínéül szolgáló intézmény vagy helyiség üzemeltetője köteles gondoskodni.
+## 7. §[^16] Az 5. § és a 6. § szerinti védelmi intézkedések betartatásáról a rendezvény szervezője, illetve a rendezvény helyszínéül szolgáló intézmény vagy helyiség üzemeltetője köteles gondoskodni.
 
 ## 4. A vendéglátó üzletekre vonatkozó védelmi intézkedések
 
-8. §[^16] (1) Vendéglátó üzletben
+8. §[^17] (1) Vendéglátó üzletben
 
 a) az ott foglalkoztatottak kivételével és
 
@@ -22,5 +22,5 @@ c) a köznevelési intézmény, valamint a szakképző intézmény (a továbbiak
 
 d) az egészségügyi intézményben található étteremre, illetve büfére.
 
-[^15]: A 7. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^16]: A 8. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^16]: A 7. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^17]: A 8. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

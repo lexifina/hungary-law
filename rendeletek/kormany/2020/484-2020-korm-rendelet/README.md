@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-484-20-
 | 2020-12-10 | 2020-484-20-22.7 | 505/2020. (XI. 17.) Korm. rendelet |
 | 2020-12-12 | 2020-484-20-22.8 | 576/2020. (XII. 11.) Korm. rendelet |
 | 2020-12-16 | 2020-484-20-22.9 | 583/2020. (XII. 15.) Korm. rendelet |
+| 2020-12-22 | 2020-484-20-22.10 | 624/2020. (XII. 21.) Korm. rendelet |
