@@ -6,10 +6,11 @@ a) az előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgált
 
 b) az e rendeletben meghatározott tevékenységek megfelelőségértékelését végző szervezetekre,
 
-c) a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: Hatóság).
+c)[^1]
 
 (3) E rendeletet a kormányzati célú hírközlési szolgáltatóra és hálózatokra, valamint az ilyen szolgáltató által végzett elektronikus hírközlési tevékenységre – figyelemmel az Eht. 1. § (2) bekezdésére – a kormányzati célú hálózatokról szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.
 
-(4)[^1] A rendelet hatálya – a 4. §-ban foglaltak kivételével – nem terjed ki az Eht. 127. § (4) bekezdése alkalmazásával kötött előfizetői szerződés alapján nyújtott szolgáltatásokra.
+(4)[^2]
 
-[^1]: Az 1. § (4) bekezdése az 1/2014. (II. 6.) NMHH rendelet 5. §-a szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdés c) pontját a 25/2020. (XII. 21.) NMHH rendelet 12. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (4) bekezdését a 25/2020. (XII. 21.) NMHH rendelet 12. § a) pontja hatályon kívül helyezte.

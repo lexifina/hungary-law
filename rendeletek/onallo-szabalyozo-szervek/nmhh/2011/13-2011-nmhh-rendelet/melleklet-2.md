@@ -1,43 +1,119 @@
-2. melléklet a 13/2011. (XII. 27.) NMHH rendelethez
+2. melléklet a 13/2011. (XII. 27.) NMHH rendelethez[^49]
 
-A szolgáltatásminőségi követelményekre mértékadó dokumentumok
+## A szolgáltatásminőségi követelményekre mértékadó dokumentumok
 
-| FOGALOM | HÁLÓZATI (H) EGYEDI (E) | AZONOSÍTÓ | DOKUMENTUM CÍME | MÉRÉSI MÓDSZER |
+I. Általános alkalmazási körű normatív dokumentumok
 
-| Internet Protokoll | H/E | RFC 791 RFC 2460 | Internet Protocol DARPA Internet program protocol specification Internet Protocol, Version 6 (IPv6)Specification | - |
+|  | A | B | C |
 
-| le- és feltöltési adatátviteli sebesség | H/E | ETSI EG 202 057-4 V1.2.1 (2008-07) | Speech Processing, Transmission and Quality Aspects (STQ); User related QoS parameter definitions and measurements; Part 4: Internet access | ETSI EG 202 057-4 V1.2.1 (2008-07) 5.2 Mobil internet hozzáférési szolgáltatások esetén a méréseket kültérben, 2 m földfelszín feletti magasságban, 0 dBi (izotropikus antennára vonatkoztatott) nyereségű antennával kell elvégezni. |
+| 1 | FOGALOM | DOKUMENTUM CÍME | MÉRÉSI MÓDSZER |
 
-| SI mértékegység rendszer | H/E |  | BIPM - The International System of Units (SI) 8th edition 2006 |  |
+| 2 | SI mértékegység rendszer | BIPM – The International System of Units (SI) 8th edition 2006 |  |
 
-| beszédminőség | E | ITU T G.109 (09/99) ITU-T P.862 (02/01) | Definitions of Categories of Speech Transmission Quality Perceptual evaluation of speech quality (PESQ): An objective method for end-to-end speech quality assessment of narrow-band telephone networks and speech codecs | ETSI EG 202 057-2 V1.3.2 (2011-04) 5.3 ITU-T P.862 (02/01) Mobil rádiótelefon szolgáltatások esetén a méréseket kültérben, 2 m földfelszín feletti magasságban, 0 dBi (izotropikus antennára vonatkoztatott) nyereségű antennával kell elvégezni. |
+II. Egyedi szolgáltatásminőségi követelmények
 
-| ügyfélszolgálat bejelentkezése | H | ETSI EG 202 057-1 V1.3.1 (2008-07) | Speech processing transmission and quality aspects, User related QoS parameter definitions and measurements | ETSI EG 202 057-1 V1.3.1 (2008-07) |
+|  | A | B | C |
 
-| csatorna vivőszintje (analóg) | H/E | MSZ EN 60728-1:2008 | Televíziójelek, hangjelek és interaktív szolgáltatások kábelhálózatai 1. rész: Az előreirány rendszerjellemzői (IEC 60728-1:2007) | MSZ EN 60728-1:2008 5.4 |
+|  | FOGALOM | AZONOSÍTÓ | MÉRÉSI MÓDSZER |
 
-| a szomszédos televíziós csatornák közötti legnagyobb jelszintkülönbség (analóg) | H | MSZ EN 60728-1:2008 | Televíziójelek, hangjelek és interaktív szolgáltatások kábelhálózatai 1. rész: Az előreirány rendszerjellemzői (IEC 60728-1:2007) | MSZ EN 60728-1:2008 5.4.2 |
+| 1 | le- és feltöltési adatátviteli sebesség | ETSI EG 202 057-4 V1.2.1 (2008-07) | ETSI EG 202 057-4 V1.2.1 (2008-07) 5.2; RFC 6349 |
 
-| vivő/zaj viszony értéke (analóg) | H/E | MSZ EN 60728-1:2008 | Televíziójelek, hangjelek és interaktív szolgáltatások kábelhálózatai 1. rész: Az előreirány rendszerjellemzői (IEC 60728-1:2007) | MSZ EN 60728-1:2008 4.6 |
+| 2 |  |  | Mobil internet hozzáférési szolgáltatások esetén a méréseket kültérben, 2 m földfelszín feletti magasságban, 0 dBi (izotropikus antennára vonatkoztatott) nyereségű antennával kell elvégezni. |
 
-| a modulációs hibaarány (DVB-T) | H/E | MSZ ETSI TR 101 290:2005 | Digitális video-műsorszórás (DVB). DVB-rendszerek mérési útmutatója | MSZ ETSI TR 101 290:2005 9.18.2 |
+| 3 | beszéd- minőség | ITU T G. 109 (09/99) | ETSI EG 202 057-2 V1.3.2 (2011-04) 5.3 ITU-T P.862 (02/01) |
 
-| a modulációs hibaarány (DVB-C, DVB-S) | H/E | MSZ ETSI TR 101 290:2005 | Digitális video-műsorszórás (DVB). DVB-rendszerek mérési útmutatója | MSZ ETSI TR 101 290:2005 6.9.2 |
+| ITU-T P.862 (02/01) | Mobil rádiótelefon szolgáltatások esetén a méréseket kültérben, 2 m földfelszín feletti magasságban, 0 dBi (izotropikus antennára vonatkoztatott) nyereségű antennával kell elvégezni. |
 
-| bithiba arány (DVB-S) | H/E | MSZ ETSI TR 101 290:2005 | Digitális video-műsorszórás (DVB). DVB-rendszerek mérési útmutatója | MSZ ETSI TR 101 290:2005 6.3, 8.1. |
+| 4 | csatorna vivőszintje (analóg) | MSZ EN 60728-1:2015 | MSZ EN 60728-1:2015 |
 
-| bithiba arány (DVB-T) | H | MSZ ETSI TR 101 290:2005 | Digitális video-műsorszórás (DVB). DVB-rendszerek mérési útmutatója | MSZ ETSI TR 101 290:2005 9.15, 9.16 |
+| 5 | vivő/zaj viszony értéke (analóg) | MSZ EN 60728-1:2015 | MSZ EN 60728-1:2015 |
 
-| bithiba arány (DVB-T) | E | MSZ ETSI TR 101 290:2005 | Digitális video-műsorszórás (DVB). DVB-rendszerek mérési útmutatója | MSZ ETSI TR 101 290:2005 9.17 |
+| 6 | a modulációs hibaarány (DVB-T) | MSZ ETSI TR 101 290:2017 | MSZ ETSI TR 101 290:2017 9.18.2 |
 
-| térerősség (DVB-T) | H | ITU-R BT.1735 (2005) RRC-06 | Methods for objective quality coverage assessment of digital terrestrial television broadcasting signals of System B specified in Recommendation ITU-R BT.1306 FINAL ACTS of the Regional Radiocommunication Conference for planning of the digital terrestrial broadcasting service in parts of Regions 1 and 3, in the frequency bands 174-230 MHz and 470-862 MHz (RRC-06) | ITU-R BT.1735 (2005) Annex 1 RRC-06 3.4.3 |
+| 7 | a modulációs hibaarány (DVB-C, DVB-S) | MSZ ETSI TR 101 290:2017 | MSZ ETSI TR 101 290:2017 6.9.2 |
 
-| média továbbítási index (MDI) | H/E | RFC 4445 | A Proposed Media Delivery Index (MDI) | RFC 4445 3.1, 3.2 |
+| 8 | bithiba arány (DVB-S) | MSZ ETSI TR 101 290:2017 | MSZ ETSI TR 101 290:2017 6.3, 8.1. |
 
-| a sikeres hívások aránya | H | ETSI EG 202 057-2 V1.3.2 (2011-04) | User related QoS parameter definitions and measurements; Part 2: Voice telephony, Group 3 fax, modem data services and SMS | ETSI EG 202 057-2 V1.3.2 (2011-04) 5.1 |
+| 9 | bithiba arány (DVB-T) | MSZ ETSI TR 101 290:2017 | MSZ ETSI TR 101 290:2005 9.17 |
 
-| a hívás felépítési idő | H | ETSI EG 202 057-2 V1.3.2 (2011-04) | User related QoS parameter definitions and measurements; Part 2: Voice telephony, Group 3 fax, modem data services and SMS | ETSI EG 202 057-2 V1.3.2 (2011-04) 5.2 |
+| 10 | média továbbítási index (MDI) | RFC 4445 | RFC 4445 3.1, 3.2 |
 
-| sikeres SMS-továbbítás aránya | H | ETSI EG 202 057-2 V1.3.2 (2011-04) | User related QoS parameter definitions and measurements; Part 2: Voice telephony, Group 3 fax, modem data services and SMS | ETSI EG 202 057-2 V1.3.2 (2011-04) 5.6.2 |
+| 11 | késleltetés | IETF RFC 2681 | BoR (17) 178 3.2. |
 
-| SMS-továbbítási idő | H | ETSI EG 202 057-2 V1.3.2 (2011-04) | User related QoS parameter definitions and measurements; Part 2: Voice telephony, Group 3 fax, modem data services and SMS | ETSI EG 202 057-2 V1.3.2 (2011-04) 5.6.3 |
+| 12 | késleltetésingadozás | IETF RFC 3393 | BoR (17) 178 3.2. |
+
+| 13 | csomagvesztés | ITU-T Y.2617 | BoR (17) 178 3.3. |
+
+III. Az előfizetői hozzáférést nyújtó szolgáltató esetében alkalmazandó szolgáltatás minőségi paraméterek, meghatározásaik és mérési módszereik
+
+## Hálózati szolgáltatásminőségi követelmények
+
+|  | A | B | C |
+
+| 1 | FOGALOM | AZONOSÍTÓ | MÉRÉSI MÓDSZER |
+
+| 2 | első csatlakozás létesítési ideje | ETSI ES 202 057-1 (5.1. pont) | ETSI ES 202 057-1 (5.1.3. pont) |
+
+| 3 | hibaarány hozzáférési vonalanként | ETSI ES 202 057-1 (5.4. pont) | ETSI ES 202 057-1 (5.4.3. pont) |
+
+| 4 | hibajavítási idő | ETSI ES 202 057-1 (5.5. pont) | ETSI ES 202 057-1 (5.5.3. pont) |
+
+| 5 | ügyfél- szolgálat bejelent- kezése | ETSI EG 202 057-1 V1.3.1 (2008-07) | ETSI EG 202 057-1 V1.3.1 (2008-07) |
+
+| 6 | csatorna vivőszintje (analóg) | MSZ EN 60728-1:2008 | MSZ EN 60728-1:2008 5.4 |
+
+| 7 | a szomszédos televíziós csatornák közötti legnagyobb jelszint- különbség (analóg) | MSZ EN 60728-1:2008 | MSZ EN 60728-1:2008 5.4.2 |
+
+| 8 | vivő/zaj viszony értéke (analóg) | MSZ EN 60728-1:2008 | MSZ EN 60728-1:2008 4.6 |
+
+| 9 | a modulációs hibaarány (DVB-T) | MSZ ETSI TR 101 290:2005 | MSZ ETSI TR 101 290:2005 9.18.2 |
+
+| 10 | a modulációs hibaarány (DVB-C, DVB-S) | MSZ ETSI TR 101 290:2005 | MSZ ETSI TR 101 290:2005 6.9.2 |
+
+| 11 | bithiba arány (DVB-S) | MSZ ETSI TR 101 290:2005 | MSZ ETSI TR 101 290:2005 6.3, 8.1. |
+
+| 12 | bithiba arány (DVB-T) | MSZ ETSI TR 101 290:2005 | MSZ ETSI TR 101 290:2005 9.15, 9.16 |
+
+| 13 | térerősség (DVB-T) | ITU-R BT.1735 (2005) RRC-06 | ITU-R BT.1735 (2005) Annex 1 RRC-06 3.4.3 |
+
+| 14 | média továbbítási index (MDI) | RFC 4445 | RFC 4445 3.1, 3.2 |
+
+IV. Személyközi hírközlési szolgáltatást nyújtó azon szolgáltató esetében, aki legalább részben ellenőrzést gyakorol a szolgáltatás nyújtásához használt elektronikus hírközlő hálózat elemei felett, vagy a hálózatot üzemeltető szolgáltatóval a meghatározott szolgáltatásminőség biztosítására vonatkozó szerződést kötött
+
+## Hálózati szolgáltatásminőségi követelmények
+
+|  | A | B | C |
+
+| 1 | FOGALOM | AZONOSÍTÓ | MÉRÉSI MÓDSZER |
+
+| 2 | hívásfelépítési idő | ETSI EG 202 057-2 (5.2. pont) | ETSI EG 202 057-2 (5.2.3. pont) |
+
+|  |  | 3GPP TS 32.454 5.1.2. pont Hívás (session) felépítési ideje IMS esetén alkalmazandó (VoLTE KPI) A hívások (sessions) átlagos felépítési ideje | 3GPP TS 32.454 5.1.2. pont |
+
+| 3 | számlahelyességi panaszok | ETSI ES 202 057-1 (5.11. pont) | ETSI ES 202 057-1 (5.11.3. pont) |
+
+| 4 | hívás minősége | ETSI EG 202 057-2 (5.3. pont) ETSI TR 102 506 | ETSI EG 202 057-2 (5.3.2. pont) |
+
+| ITU-T G.1020: Hangminőség és IP-hálózati hangfrekvenciás alkalmazások teljesítményparamétereinek meghatározása. |
+
+| ITU-T G.1028: Szolgáltatásminőség végponttól végpontig 4G mobilhálózati hangátvitel esetén. |
+
+| ITU-T P.863: Az észlelt hangminőség objektív előrejelzése (POLQA) |
+
+| 5 | megszakadt hívások aránya | ETSI EG 202 057-3 (6.4.2. pont) | ETSI EG 202 057-3 (6.4.2.2. pont) |
+
+| 6 |  | 3GPP TS 32.454 5.2.1. pont Megszakadt IMS-hívások (sessions), IMS esetén alkalmazandó (VoLTE KPI) A megszakadt hívások (sessions) száma osztva a sikeresen létrejött hívások (sessions) számával. | 3GPP TS 32.454 5.2.1. pont |
+
+| 7 | sikertelen hívások aránya | ETSI EG 202 057-2 (5.1. pont) | ETSI EG 202 057-2 (5.1.3. pont) |
+
+| 8 | hívásfelépítési hiba valószínűsége | ETSI TS 102 024-9 (4.1.1. pont) | ETSI TS 102 024-9 (4.1.1. pont) |
+
+| 9 | hívásjelzési késedelmek | ETSI TS 102 024-9 (4.2. pont) | ETSI TS 102 024-9 (4.2. pont) |
+
+| 10 | sikeres SMS- továbbítás aránya | ETSI EG 202 057-2 V1.3.2 (2011-04) | ETSI EG 202 057-2 V1.3.2 (2011-04) 5.6.2 |
+
+V. A nyilvános internet-hozzáférési szolgáltatást nyújtó szolgáltató esetében alkalmazandó szolgáltatás minőségi paraméterek, meghatározásaik és mérési módszereik
+
+Hálózati szolgáltatásminőségi követelmények
+
+[^49]: A 2. melléklet a 25/2020. (XII. 21.) NMHH rendelet 10. § (1) bekezdésével megállapított szöveg.

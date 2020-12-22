@@ -1,6 +1,6 @@
 ## 15. § Az Eht. 138. § (3) bekezdése szerinti nyilvántartásnak legalább az alábbiakat kell tartalmaznia:
 
-a) az Eht. 129. § (5) bekezdésének a) és f) pontjai, valamint a 157. § (2) bekezdésének b) pontja figyelembevételével az előfizető azonosításához szükséges adatokat;
+a)[^43] az Eht. 154. § (2) bekezdése, valamint a 157. § (2) bekezdésének b) pontja figyelembevételével az előfizető azonosításához szükséges adatokat;
 
 b) a díjreklamáció tárgyát;
 
@@ -11,3 +11,5 @@ d) a díjreklamáció tárgyában tett intézkedéseket;
 e) a kivizsgálás eredményét;
 
 f) az előfizető értesítésének időpontját és módját.
+
+[^43]: A 15. § a) pontja a 25/2020. (XII. 21.) NMHH rendelet 11. § 7. pontja szerint módosított szöveg.

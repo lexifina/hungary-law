@@ -1,25 +1,21 @@
-7. § (1) Nyilvánosan elérhető telefonszolgáltatás esetén a szolgáltató köteles a beszédminőségre vonatkozóan százalékban kifejezett egyedi szolgáltatásminőségi követelmény célértéket meghatározni, melyet beszédmodellen alapuló, objektív, egybefüggő mérési sorozattal kell ellenőrizni.
+## meghatározott mértékű kötbért fizet a szolgáltató az előfizetőnek.
 
-(2) Internet hozzáférési szolgáltatás esetén a szolgáltató az egyes díjcsomagokba foglalt szolgáltatások vonatkozásában köteles meghatározni a kínált sávszélességre és az ehhez tartozó garantált le- és feltöltési sebességre vonatkozó egyedi szolgáltatásminőségi követelmény célértékeit, Mbit/s-ban megadva (két tizedes jegy pontossággal). A szolgáltatót érintő hatósági eljárásban a szolgáltatót terheli annak bizonyítása, hogy az előfizetői hozzáférési pont alkalmas a kínált sávszélesség elérésére.
+7. §[^25] (1) Helyhez kötött internet-hozzáférési szolgáltatás esetén a szolgáltató az egyes díjcsomagokba foglalt szolgáltatások vonatkozásában köteles meghatározni a sebességre mint egyedi szolgáltatásminőségi követelményre vonatkozó célértékeket az alábbiak szerint:
 
-(3) A garantált le- és feltöltési sebességet a kínált sávszélesség mellett, e rendelet szerinti megnevezés alkalmazásával fel kell tüntetni minden, az adott szolgáltatásra vonatkozó kereskedelmi kommunikációban, valamint a szolgáltató internetes honlapján.
+a) a maximális sebességet,
 
-(4) Amennyiben a szolgáltató nem tünteti fel a (2)–(3) bekezdések szerint a kínált sávszélességet, akkor az előfizetői szerződésben vagy a kereskedelmi kommunikációban feltüntetett legmagasabb sávszélesség vagy sebesség értéke minősül kínált sávszélességnek.
+b) a rendes körülmények között elérhető sebességet,
 
-(5) Amennyiben az adott szolgáltatás vonatkozásában a szolgáltató kizárólag az igénybe vehető adatmennyiségre köt szerződést és a kereskedelmi kommunikációban kizárólag ezt tünteti fel, a (2)–(4) bekezdéseket nem kell alkalmazni.
+c) a minimális sebességet.
 
-(6) Mobil internet hozzáférési szolgáltatás esetén hatósági eljárásban a szolgáltatót terheli annak bizonyítása, hogy a szolgáltatás a 12. § (8) bekezdése szerinti helyeken elérhető.
+(2) Mobil internet-hozzáférési szolgáltatás esetén a szolgáltató az egyes díjcsomagokba foglalt szolgáltatások vonatkozásában köteles meghatározni a becsült maximális sebességre vonatkozó egyedi szolgáltatásminőségi követelmény célértékét. A szolgáltató e célértéket az előfizető számára elérhető különböző hálózati technológiák esetén technológia szerint külön-külön is meghatározhatja.
 
-(7) Analóg műsorelosztási szolgáltatás esetén a szolgáltató köteles az alábbi egyedi szolgáltatásminőségi követelmények tekintetében célértékeket meghatározni:
+(3) A becsült maximális sebességre vonatkozó egyedi szolgáltatásminőségi követelmény célértékének nemteljesítése nem minősül a szolgáltatás hibás teljesítésének, így e tekintetben a 6. § nem alkalmazható.
 
-a) valamennyi csatorna vivőszintje, dBμV-ban megadva;
+(4) Mobil internet hozzáférési szolgáltatás esetén hatósági eljárásban a szolgáltatót terheli annak bizonyítása, hogy a szolgáltatás a 12. § (4) bekezdése szerinti helyeken elérhető.
 
-b) a vivő/zaj viszony értéke, dB-ben megadva.
+(5) A rendes körülmények között elérhető sebességnek naptári naponként legalább az idő 90%-ában az előfizető rendelkezésére kell állnia, kivéve a szolgáltatás korlátozásának, szüneteltetésének és felfüggesztésének esetét.
 
-(8) Digitális műsorterjesztés szolgáltatással kapcsolatban a szolgáltató köteles az alábbi egyedi szolgáltatásminőségi követelmények tekintetében célértékeket meghatározni:
+(6) A minimális sebességnek a szolgáltatás igénybevétele során folyamatosan az előfizető rendelkezésére kell állnia, kivéve a szolgáltatás korlátozásának, szüneteltetésének és felfüggesztésének esetét.
 
-a) digitális műsorelosztási szolgáltatás (DVB-C) esetén a modulációs hibaarány;
-
-b) digitális földfelszíni és műholdas műsorterjesztés (DVB-T és DVB-S) esetén a bithiba arány és a modulációs hibaarány.
-
-(9) Internet protokollon keresztül megvalósított műsorelosztás (IPTV) szolgáltatás esetén a szolgáltató köteles a média-továbbítási index (MDI) egyedi szolgáltatásminőségi követelményre célértékeket meghatározni, amely a csomagvesztési arány és a késleltetés ingadozás mérése alapján számítandó.
+[^25]: A 7. § a 25/2020. (XII. 21.) NMHH rendelet 4. §-ával megállapított szöveg.

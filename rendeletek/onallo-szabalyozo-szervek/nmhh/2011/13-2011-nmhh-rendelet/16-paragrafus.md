@@ -1,4 +1,4 @@
-## Átmeneti és záró rendelkezések
+## Záró rendelkezések[^44]
 
 16. § (1) Ez a rendelet – (2) bekezdés kivételével – 2012. január 1-jén lép hatályba.
 
@@ -13,3 +13,5 @@
 (6) A Korm. rendelet szerinti adatszolgáltatást utoljára 2012. január 31-éig köteles a szolgáltató teljesíteni azzal, hogy az a szolgáltató, amelynek előfizetői száma 2011. december 31-ei állapot szerint nem haladja meg az ezer főt, ilyen adatszolgáltatás benyújtására nem köteles.
 
 (7) E rendelet hatálybalépése napjáig kiadott – a szolgáltatás minőségére és a számlázási rendszerre vonatkozó – tanúsítványok érvényességét e rendelet nem érinti, azonban a 2012. július 1-je után kezdeményezett megfelelőségigazolási eljárások során e rendeletnek való megfelelőséget kell igazolni.
+
+[^44]: A 16. §-t megelőző alcím a 25/2020. (XII. 21.) NMHH rendelet 8. § (1) bekezdésével megállapított szöveg.
