@@ -48,15 +48,11 @@ gi) milyen tételeket kell a fióktelepnek, illetve a központnak az éves besz�
 
 (8) A befektetési vállalkozás köteles belső számviteli rendjét, illetve belső ellenőrzési rendszerét úgy kialakítani, hogy az alkalmas legyen a felügyeleti ellenőrzésre.
 
-(9)[^32] A befektetési vállalkozás a számviteli politikában köteles rendelkezni arról, hogy az adózott eredményből képzett és még fel nem használt általános tartalékot
-
-a) az üzleti év(ek) adózott eredményeként kialakult veszteség megszüntetésére kívánja felhasználni a veszteség összegében, de legfeljebb a meglévő tartalék erejéig, abban az üzleti évben, amelyben a veszteség keletkezett vagy
-
-b) egy összegben kívánja felhasználni az eredménytartalékba való átvezetéssel legkésőbb 2009. december 31-ig.
+(9)[^32] A befektetési vállalkozás a számviteli politikában köteles rendelkezni arról, hogy az adózott eredményből képzett és még fel nem használt általános tartalékot az üzleti év(ek) adózott eredményeként kialakult veszteség megszüntetésére kívánja felhasználni a veszteség összegében, de legfeljebb a meglévő tartalék erejéig, abban az üzleti évben, amelyben a veszteség keletkezett.
 
 [^27]: A 3. § (1) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése szerint a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^28]: A 3. § (6) bekezdés a) pontja a 480/2016. (XII. 28.) Korm. rendelet 60. §-ával megállapított szöveg.
 [^29]: A 3. § (6) bekezdés e) pontja a 480/2016. (XII. 28.) Korm. rendelet 70. § 1. pontja szerint módosított szöveg.
 [^30]: A 3. § (6) bekezdésének f) pontját a 347/2004. (XII. 22.) Korm. rendelet 11. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
 [^31]: A 3. § (6) bekezdésének g) pontját a 334/2005. (XII. 29.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^32]: A 3. § (9) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 43. § 1. pontja szerint módosított szöveg.
+[^32]: A 3. § (9) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 616/2020. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
