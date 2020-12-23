@@ -52,7 +52,7 @@ d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését
 
 (4c) Ha a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás 84. § (1) bekezdése szerinti fizetési számláját nem a kincstár vezeti, a 84. § (1) bekezdése szerinti fizetési számlája mellett az 51. § (4) bekezdése szerinti költségvetési támogatások fogadására a kincstárnál fizetési számlát vezethet.
 
-(4d) A kincstár fizetési számlát vezet a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára 51. § (4) bekezdése szerinti költségvetési támogatások fogadására.
+(4d) A (4c) bekezdés szerinti kedvezményezetteken kívül a kincstár fizetési számlát vezet erre irányuló megbízás alapján a kincstári körön kívüli számlatulajdonosnak nem minősülő jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet kedvezményezett részére a központi költségvetési forrásból nyújtott, fejlesztési célra biztosított költségvetési támogatás fogadása érdekében.
 
 (5) A kincstár az (1)–(4a) bekezdés szerinti tevékenysége és az általa nyújtott szolgáltatások után jutalékot, díjat számolhat fel, azonban – a felsőoktatási intézményekben állami részösztöndíjas és önköltséges tanulmányokat folytató hallgatók által fizetett önköltség és az államháztartáson kívülről érkező adományok elkülönített kezelésére a felsőoktatási intézmény számára jogszabályban foglaltak alapján vezetett fizetési számla pénzeszközei kivételével – kamatot nem fizethet. A kincstár jogosult az általa vezetett fizetési számlák megterhelésével továbbhárítani a pénzforgalmi szolgáltatások díját, továbbá jogszabályban meghatározott más esetben azokat megterhelni.
 
