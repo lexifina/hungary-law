@@ -1,1 +1,0 @@
-## 1. A földhasználati nyilvántartásból való adatszolgáltatásra vonatkozó igazgatási szolgáltatási díj mértékéről és a díjfizetés részletes szabályairól szóló 155/2009. (XI. 16.) FVM rendelet módosítása
