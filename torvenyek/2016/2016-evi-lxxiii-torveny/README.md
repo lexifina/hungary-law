@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-73-00-00
 | 2020-01-01 | 2019. évi CIX. törvény | 2016-73-00-00.11 |
 | 2020-06-10 | 2020. évi LIV. törvény | 2016-73-00-00.12 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 2016-73-00-00.13 |
+| 2020-12-23 | 2020. évi CLXXVII. törvény | 2016-73-00-00.14 |
