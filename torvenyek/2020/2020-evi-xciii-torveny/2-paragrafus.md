@@ -14,6 +14,6 @@
 
 (7) Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az 1. melléklet szerinti vagyonelem tulajdonjoga az államra száll vissza.
 
-(8) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik.
+(8) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik. Az Alapítvány 1. § (3) bekezdésében meghatározott közérdekű tevékenysége, közfeladata ellátása érdekében az Alapítvány részére a külgazdasági ügyekért felelős miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
 
 (9) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésben és 18. § (1) bekezdésben meghatározott feltételek szerinti juttatással esik egy tekintet alá.

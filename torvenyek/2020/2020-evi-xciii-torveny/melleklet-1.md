@@ -34,7 +34,7 @@ MANEVI Zártkörű Részvénytársaság
 
 |
 
-100 db törzsrészvény
+102 db törzsrészvény
 
 |
 
@@ -46,4 +46,4 @@ Comitatus-Energia Beruházási Kereskedelmi és Szolgáltató Zártkörűen Műk
 
 |
 
-8700 db törzsrészvény
+10.700 db törzsrészvény
