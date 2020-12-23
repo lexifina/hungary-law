@@ -1,1 +1,3 @@
-## „(2a) A természetes személy kérelmező a díj megfizetését a Hatóság (1) bekezdésben meghatározott számlaszámára készpénzátutalási megbízás útján is teljesítheti, ez esetben a közlemény rovatban fel kell tüntetni az eljárás tárgyát.”
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

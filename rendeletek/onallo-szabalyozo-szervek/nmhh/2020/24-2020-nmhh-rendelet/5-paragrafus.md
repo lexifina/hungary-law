@@ -1,3 +1,3 @@
-## 4. § Az R. 15. §-a a következő (1a) bekezdéssel egészül ki:
+## 4. §[^4]
 
-## „(1a) Az Elnöknek a jogvitás eljárásaiért – ideértve a nagy sebességű elektronikus hírközlő hálózatok kiépítésével összefüggő jogvitás eljárásokat is – fizetendő díj összege 75 000 Ft.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

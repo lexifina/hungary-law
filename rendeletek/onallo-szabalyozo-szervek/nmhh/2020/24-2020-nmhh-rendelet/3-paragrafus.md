@@ -1,5 +1,3 @@
-## 2. § Az R. 10. §-a a következő h) ponttal egészül ki:
+## 2. §[^2]
 
-## (A Hivatal polgári célú frekvenciagazdálkodással kapcsolatos egyes hatósági eljárásaiért fizetendő díj összege:)
-
-## „h) sávátrendezési, haszonbérleti és átruházási megállapodás jóváhagyása iránti eljárás díja 0 Ft,”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

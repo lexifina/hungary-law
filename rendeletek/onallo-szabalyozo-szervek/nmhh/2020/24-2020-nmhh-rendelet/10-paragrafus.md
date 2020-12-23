@@ -1,15 +1,20 @@
-## lép.
+## 9. §[^9]
 
 ## 10. § Hatályát veszti az R.
 
-1. 4. §-a,
+1.[^10]
 
-2.[^1]
+2.[^11]
 
-3. 13. § (2) bekezdése,
+3.[^12]
 
-4. 17. § (6) bekezdésében az „Az Mttv. 65. § (10) bekezdése szerinti ideiglenes médiaszolgáltatási hatósági szerződés megkötésére irányuló eljárásért fizetendő díj összege országos médiaszolgáltatás esetében 30 000 Ft, helyi, valamint körzeti médiaszolgáltatás esetében 5000 Ft.” szövegrész és a 17. § (11) bekezdése,
+4.[^13]
 
-5. 18. § (3) bekezdésében az „A befizetési bizonylaton a befizetés jogcímét fel kell tüntetni.” szöveg.
+5.[^14]
 
-[^1]: A 10. § 2. pontja a 11. § (2) bekezdése alapján 2021. február 15-én lép hatályba.
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § 2. pontja a 11. § (2) bekezdése alapján 2021. február 15-én lép hatályba.
+[^12]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

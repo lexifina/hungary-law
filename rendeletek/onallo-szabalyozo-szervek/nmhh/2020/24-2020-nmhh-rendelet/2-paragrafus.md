@@ -1,3 +1,3 @@
-## 1. § A Nemzeti Média- és Hírközlési Hatóság egyes eljárásainak igazgatási szolgáltatási díjairól és a díjfizetés módjáról szóló 5/2011. (X. 6.) NMHH rendelet (a továbbiakban: R.) 5. §-a a következő (8c) bekezdéssel egészül ki:
+## 1. §[^1]
 
-## „(8c) A kis területi lefedésű, vezeték nélküli hozzáférési pont kiépítése – a kiépítéstől számított 14 napon belüli nyilvántartásba vétel céljából történő – bejelentésének díja 0 Ft.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
