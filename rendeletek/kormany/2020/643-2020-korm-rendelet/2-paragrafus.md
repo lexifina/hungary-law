@@ -1,0 +1,1 @@
+## 1. § A veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet ideje alatt az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni.
