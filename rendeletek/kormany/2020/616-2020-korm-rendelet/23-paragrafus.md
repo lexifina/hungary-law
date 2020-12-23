@@ -1,3 +1,3 @@
-## 22. § Az Eszkr. 19. §-a a következő (2a) bekezdéssel egészül ki:
+## 22. §[^22]
 
-## „(2a) Ha az átalakulás során az egyéb szervezetnél külön jogszabály nem írja elő a vagyonmérlegek és a vagyonleltárak független könyvvizsgálóval történő ellenőrzését, akkor a vagyonmérlegeket és a vagyonleltárakat abban az esetben kell független könyvvizsgálóval ellenőriztetni, ha az egyéb szervezet az üzleti évi beszámolója tekintetében könyvvizsgálatra kötelezett.”
+[^22]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

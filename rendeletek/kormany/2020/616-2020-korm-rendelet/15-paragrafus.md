@@ -1,3 +1,3 @@
-## 14. §[^11]
+## 14. §[^14]
 
-[^11]: A 14. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^14]: A 14. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

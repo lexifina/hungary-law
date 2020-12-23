@@ -1,3 +1,3 @@
-## 9. § A befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 251/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Befkr.) 3. § (9) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^9]
 
-## „(9) A befektetési vállalkozás a számviteli politikában köteles rendelkezni arról, hogy az adózott eredményből képzett és még fel nem használt általános tartalékot az üzleti év(ek) adózott eredményeként kialakult veszteség megszüntetésére kívánja felhasználni a veszteség összegében, de legfeljebb a meglévő tartalék erejéig, abban az üzleti évben, amelyben a veszteség keletkezett.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
