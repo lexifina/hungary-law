@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1974-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-22 | 2020-1974-30-22.1 | 1974/2020. (XII. 22.) Korm. határozat |
+| 2020-12-23 | 2020-1974-30-22.2 | 2010: CXXX. törvény |

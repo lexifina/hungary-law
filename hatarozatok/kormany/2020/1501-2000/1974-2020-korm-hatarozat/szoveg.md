@@ -54,4 +54,6 @@ af) a 2026. évre 500 000 000 forintban
 
 b) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében, a 2020–2026. évek vonatkozásában összesen 512 080 000 000 forint összegben kötelezettséget vállaljon;
 
-4. visszavonja a kiemelt társadalmi igényeken alapuló egyes közútfejlesztések megvalósításához kapcsolódó intézkedésekről szóló 1745/2020. (XI. 11.) Korm. határozat 6., 7. és 8. pontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
