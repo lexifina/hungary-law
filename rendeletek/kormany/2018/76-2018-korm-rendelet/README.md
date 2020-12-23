@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-76-20-2
 | 2018-07-31 | 2018-76-20-22.3 | 131/2018. (VII. 23.) Korm. rendelet |
 | 2019-01-01 | 2018-76-20-22.4 | 311/2018. (XII. 27.) Korm. rendelet |
 | 2020-01-01 | 2018-76-20-22.5 | 302/2019. (XII. 11.) Korm. rendelet |
+| 2020-12-23 | 2018-76-20-22.6 | 634/2020. (XII. 22.) Korm. rendelet |
