@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1966-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-22 | 2020-1966-30-22.1 | 1966/2020. (XII. 21.) Korm. határozat |
+| 2020-12-23 | 2020-1966-30-22.2 | 2010: CXXX. törvény |
