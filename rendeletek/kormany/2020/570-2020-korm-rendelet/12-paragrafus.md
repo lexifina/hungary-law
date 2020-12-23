@@ -2,16 +2,20 @@
 
 ## 8. Az önkormányzat és a nemzetiségi önkormányzat működésével kapcsolatos eltérő rendelkezés
 
-12. § (1) A 2020. évben úgy kell alkalmazni a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 89. §-át, hogy legalább két képviselő-testületi ülést kell tartani.
+12. §[^2] (1) A 2020. évben nem kell alkalmazni
 
-(2) A 2020. évben nem kell alkalmazni
-
-a) a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 97. §-át, valamint
+a) a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Nek. tv.) 97. §-át, valamint
 
 b) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 44. és 54. §-át.
 
-(3) A 2021. évben a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 10. melléklet II. alcím 2. cím 2.3. pontját úgy kell alkalmazni, hogy a helyi nemzetiségi önkormányzat a feladatalapú támogatásra akkor is jogosult, ha a 2020. évben
+(2) A 2020. évben úgy kell alkalmazni a Nek. tv. 89. §-át, hogy legalább két képviselő-testületi ülést kell tartani.
 
-a) legalább két képviselő-testületi ülést tartott, és
+(3) A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 10. melléklet II. alcím 2. cím 2.3. pont 2.3.1–2.3.6. alpontja szerinti, a 2021. évi feladatalapú támogatás alapját képező pontszám megállapításának rendelkezései nem alkalmazhatóak. A helyi nemzetiségi önkormányzat 2021. évi feladatalapú támogatásra a (4) bekezdés szerint meghatározott pontszámok figyelembevételével jogosult.
 
-b) közmeghallgatást nem tartott.
+(4) A 2021. évi feladatalapú támogatás megalapozását szolgáló feladatmutató pontszám mértéke
+
+a) a helyi nemzetiségi önkormányzat 2018. év és 2020. év között kapott pontszámainak átlaga, vagy
+
+b) a 2019-ben újonnan alakult helyi nemzetiségi önkormányzatok esetében az adott helyi nemzetiségi önkormányzatot a Magyarország 2020. évi költségvetéséről szóló 2019. évi LXXI. törvény 9. melléklet 2. pontja alapján megillető 2020. évi pontszámainak átlaga.
+
+[^2]: A 12. § a 645/2020. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
