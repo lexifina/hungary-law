@@ -114,7 +114,11 @@
 
 | 55. | Ipartelep építésére irányuló beruházás Szurdokpüspöki külterületén | Szurdokpüspöki közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 045/10, 045/12, 045/14, 045/15, 045/16, 045/18, 049/2 helyrajzi számú ingatlanok | Nógrád Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^108]
+| 56. | Kapacitásbővítésre irányuló beruházás Ózd közigazgatási területén | Ózd közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti belterület 9104, 9105/1, 9105/3, 9105/4 és 9106 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 57. | Gyártócsarnok építésére irányuló beruházás Miskolc területén | Miskolc közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti belterület 12995/2 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^110]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -294,4 +298,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^108]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^110]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
