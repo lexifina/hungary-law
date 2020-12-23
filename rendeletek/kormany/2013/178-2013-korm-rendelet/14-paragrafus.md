@@ -2,4 +2,6 @@
 
 14. § (1) Az e rendelet hatálybalépését követő tíz napon belül a Tanács elnöke összehívja a Tanács alakuló ülését. Az alakuló ülésre a 2. § nem alkalmazható.
 
-(2) Ha e rendelet hatálybalépésekor veszélyhelyzet áll fenn, a Tanács ülésszaka – a 2. §-ban foglaltaktól eltérően – a Tanács ülésének soron kívüli összehívásával kezdődik.
+(2)[^15] Ha e rendelet hatálybalépésekor veszélyhelyzet vagy egészségügyi válsághelyzet áll fenn, a Tanács ülésszaka – a 2. §-ban foglaltaktól eltérően – a Tanács ülésének soron kívüli összehívásával kezdődik.
+
+[^15]: A 14. § (2) bekezdése a 629/2020. (XII. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
