@@ -1,3 +1,3 @@
-## 2. § A jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet 17/K. §-a helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „17/K. § A jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet módosításáról szóló 16/2020. (XII. 21.) IM rendelettel megállapított 16/A. § rendelkezéseit a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
