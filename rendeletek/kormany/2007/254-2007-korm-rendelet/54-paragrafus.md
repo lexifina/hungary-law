@@ -6,51 +6,51 @@
 
 54. § (1) E rendelet a kihirdetése napján lép hatályba.
 
-(2)–(3)[^260]
+(2)–(3)[^264]
 
-(4)[^261]
+(4)[^265]
 
-(5)[^262]
+(5)[^266]
 
-(6)[^263]
+(6)[^267]
 
-(7)[^264] A 2012. január 1-jét megelőzően létrejött vagyonkezelési szerződésre, valamint a vagyonkezelési szerződés szerinti vagyonkezelőre e rendeletnek a vagyonkezelési szerződésre és a vagyonkezelőre vonatkozó szabályait kell alkalmazni abban az esetben is, ha a vagyonkezelő személye nem felel meg az 1. § (7) bekezdés b) pontjában meghatározottaknak.
+(7)[^268] A 2012. január 1-jét megelőzően létrejött vagyonkezelési szerződésre, valamint a vagyonkezelési szerződés szerinti vagyonkezelőre e rendeletnek a vagyonkezelési szerződésre és a vagyonkezelőre vonatkozó szabályait kell alkalmazni abban az esetben is, ha a vagyonkezelő személye nem felel meg az 1. § (7) bekezdés b) pontjában meghatározottaknak.
 
-(8)[^265] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 457/2013. (XI. 29.) Korm. rendelettel (a továbbiakban: Rendelet1) megállapított 10. § (1) bekezdését, 10. § (3)–(5) bekezdését, 18. § (3), (3a)–(3c), (4) bekezdését a Rendelet1 hatálybalépésekor[^266] hatályos vagyonkezelési jogviszonyokban a felek a Rendelet1 hatálybalépéséig meg nem történt elszámolásokra is alkalmazhatják.
+(8)[^269] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 457/2013. (XI. 29.) Korm. rendelettel (a továbbiakban: Rendelet1) megállapított 10. § (1) bekezdését, 10. § (3)–(5) bekezdését, 18. § (3), (3a)–(3c), (4) bekezdését a Rendelet1 hatálybalépésekor[^270] hatályos vagyonkezelési jogviszonyokban a felek a Rendelet1 hatálybalépéséig meg nem történt elszámolásokra is alkalmazhatják.
 
-(9)[^267] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 178/2014. (VII. 18.) Korm. rendelettel (a továbbiakban: Rendelet2) módosított 2. § (1) és (7) bekezdését, valamint a Rendelet2-vel megállapított 2/A–2/C. §-át a Rendelet2 hatálybalépésekor[^268] folyamatban lévő vásárlásokra is alkalmazni kell, ha még nem került sor a tulajdonosi joggyakorló előzetes egyetértésének kezdeményezésére.
+(9)[^271] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 178/2014. (VII. 18.) Korm. rendelettel (a továbbiakban: Rendelet2) módosított 2. § (1) és (7) bekezdését, valamint a Rendelet2-vel megállapított 2/A–2/C. §-át a Rendelet2 hatálybalépésekor[^272] folyamatban lévő vásárlásokra is alkalmazni kell, ha még nem került sor a tulajdonosi joggyakorló előzetes egyetértésének kezdeményezésére.
 
-(10)[^269] Az a központi költségvetési szerv muzeális intézmény, amelynek képzőművészeti alkotások gyűjteménygondozása és gyarapítása a gyűjtőkörébe tartozik, vásárlási szabályzatot köteles készíteni, és azt jóváhagyásra a fenntartónak bemutatni. A vásárlási szabályzatban szabályozni kell az értékbecslés megállapításával összefüggő eljárásrendelet is. A Rendelet2 hatálybalépésekor[^270] működő központi költségvetési szerv muzeális intézmény 2014. október 1-jéig készíti el és mutatja be jóváhagyásra a fenntartónak a vásárlási szabályzatot.
+(10)[^273] Az a központi költségvetési szerv muzeális intézmény, amelynek képzőművészeti alkotások gyűjteménygondozása és gyarapítása a gyűjtőkörébe tartozik, vásárlási szabályzatot köteles készíteni, és azt jóváhagyásra a fenntartónak bemutatni. A vásárlási szabályzatban szabályozni kell az értékbecslés megállapításával összefüggő eljárásrendelet is. A Rendelet2 hatálybalépésekor[^274] működő központi költségvetési szerv muzeális intézmény 2014. október 1-jéig készíti el és mutatja be jóváhagyásra a fenntartónak a vásárlási szabályzatot.
 
-(10a)[^271] Vásárlási szabályzatot köteles készíteni a kulturális örökség védeleméért felelős miniszter.
+(10a)[^275] Vásárlási szabályzatot köteles készíteni a kulturális örökség védeleméért felelős miniszter.
 
-(11)[^272] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 244/2015. (IX. 8.) Korm. rendelettel (a továbbiakban: Rendelet3.) megállapított 1. § (7) bekezdés k) pontjában és 9/A. §-ában foglaltakat a Rendelet3. hatálybalépését[^273] követően benyújtott előzetes írásbeli engedély kiadása iránti kérelmek elbírálása, valamint az azok alapján történő elszámolások során kell először alkalmazni.
+(11)[^276] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 244/2015. (IX. 8.) Korm. rendelettel (a továbbiakban: Rendelet3.) megállapított 1. § (7) bekezdés k) pontjában és 9/A. §-ában foglaltakat a Rendelet3. hatálybalépését[^277] követően benyújtott előzetes írásbeli engedély kiadása iránti kérelmek elbírálása, valamint az azok alapján történő elszámolások során kell először alkalmazni.
 
-(12)[^274] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 411/2015. (XII. 16.) Korm. rendelettel (a továbbiakban: Rendelet4.) megállapított rendelkezéseket a Rendelet4. hatálybalépését[^275] követően megindított pályázati, árverési eljárások során kell először alkalmazni.
+(12)[^278] Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 411/2015. (XII. 16.) Korm. rendelettel (a továbbiakban: Rendelet4.) megállapított rendelkezéseket a Rendelet4. hatálybalépését[^279] követően megindított pályázati, árverési eljárások során kell először alkalmazni.
 
-(13)[^276] A központi költségvetési szervek által használt ingatlanokra vonatkozó adatszolgáltatási kötelezettség előírásáról, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 138/2020. (IV. 21.) Korm. rendelettel (a továbbiakban: Rendelet5.) megállapított 11/A. § (1) és (2) bekezdésében előírt adatszolgáltatási kötelezettséget a központi költségvetési szerv vagyonkezelők első alkalommal 2021. január 31-ig teljesítik.
+(13)[^280] A központi költségvetési szervek által használt ingatlanokra vonatkozó adatszolgáltatási kötelezettség előírásáról, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 138/2020. (IV. 21.) Korm. rendelettel (a továbbiakban: Rendelet5.) megállapított 11/A. § (1) és (2) bekezdésében előírt adatszolgáltatási kötelezettséget a központi költségvetési szerv vagyonkezelők első alkalommal 2021. január 31-ig teljesítik.
 
-(14)[^277] A Rendelet5. 11/A. § (6)–(11) bekezdése a Rendelet5. hatálybalépésekor hatályban lévő vagyonkezelési szerződések tekintetében is alkalmazható.
+(14)[^281] A Rendelet5. 11/A. § (6)–(11) bekezdése a Rendelet5. hatálybalépésekor hatályban lévő vagyonkezelési szerződések tekintetében is alkalmazható.
 
-(15)[^278] Az 52. § (1) bekezdésében előírt elhelyezési terv megküldését a központi költségvetési szervek első alkalommal 2020. október 31-ig teljesítik.
+(15)[^282] Az 52. § (1) bekezdésében előírt elhelyezési terv megküldését a központi költségvetési szervek első alkalommal 2020. október 31-ig teljesítik.
 
-(16)[^279] Ha a központi költségvetési szerv az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet, valamint a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet módosításáról szóló 384/2020. (VIII. 7.) Korm. rendelet hatálybalépését[^280] megelőzően Magyarország területén lévő elhelyezési célú vagy rekreációs célú ingatlan tekintetében állam javára történő tulajdonszerzésre vagy használati jogosultság bármely jogcímen történő megszerzésére az MNV Zrt.-től előzetesen engedélyt kapott, akkor az 53/D. § b) és d) pontjában foglaltaktól eltérően – az MNV Zrt. engedélyében foglaltak szerint – megkötheti az állam javára történő tulajdonszerzésre vonatkozós jogügyletet, illetve a használati jogosultságot eredményező megállapodást.
+(16)[^283] Ha a központi költségvetési szerv az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet, valamint a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet módosításáról szóló 384/2020. (VIII. 7.) Korm. rendelet hatálybalépését[^284] megelőzően Magyarország területén lévő elhelyezési célú vagy rekreációs célú ingatlan tekintetében állam javára történő tulajdonszerzésre vagy használati jogosultság bármely jogcímen történő megszerzésére az MNV Zrt.-től előzetesen engedélyt kapott, akkor az 53/D. § b) és d) pontjában foglaltaktól eltérően – az MNV Zrt. engedélyében foglaltak szerint – megkötheti az állam javára történő tulajdonszerzésre vonatkozós jogügyletet, illetve a használati jogosultságot eredményező megállapodást.
 
-(17)[^281] A (16) bekezdés szerinti használati jogosultságot eredményező megállapodással érintett ingatlan vonatkozásában – amennyiben a megállapodás nem az 53/E. § (1) bekezdése szerinti használati jogosultság létrehozására irányult – a központi költségvetési szerv köteles tájékoztatni az MNV Zrt.-t a használati jogosultságot eredményező megállapodás megkötéséről, és ezzel egyidejűleg kezdeményezni az MNV Zrt.-nél a kijelölő okirat kiállítását. A kijelölés kezdő napjával az MNV Zrt. a Törvény 148. § (8) bekezdése értelmében a használati jogosultságot eredményező megállapodásba, mint használatba vevő belép.
+(17)[^285] A (16) bekezdés szerinti használati jogosultságot eredményező megállapodással érintett ingatlan vonatkozásában – amennyiben a megállapodás nem az 53/E. § (1) bekezdése szerinti használati jogosultság létrehozására irányult – a központi költségvetési szerv köteles tájékoztatni az MNV Zrt.-t a használati jogosultságot eredményező megállapodás megkötéséről, és ezzel egyidejűleg kezdeményezni az MNV Zrt.-nél a kijelölő okirat kiállítását. A kijelölés kezdő napjával az MNV Zrt. a Törvény 148. § (8) bekezdése értelmében a használati jogosultságot eredményező megállapodásba, mint használatba vevő belép.
 
 Melléklet a 254/2007. (X. 4.) Korm. rendelethez
 
-I.[^282] A 14. § (1)–(1a) bekezdése alapján szolgáltatandó adatok köre
+I.[^286] A 14. § (1)–(1a) bekezdése alapján szolgáltatandó adatok köre
 
-1.[^283] Az adatszolgáltatás során vagyonelemenként, tételesen kell jelenteni az adott vagyonelemre vonatkozó adatokat földterület, épület, lakás és egyéb helyiség, gazdálkodó szervezetben fennálló részesedés, közhiteles nyilvántartásban szereplő jármű és közgyűjteményeken kívül elhelyezett, védelem alá eső műtárgyak és alkotások esetében.
+1.[^287] Az adatszolgáltatás során vagyonelemenként, tételesen kell jelenteni az adott vagyonelemre vonatkozó adatokat földterület, épület, lakás és egyéb helyiség, gazdálkodó szervezetben fennálló részesedés, közhiteles nyilvántartásban szereplő jármű és közgyűjteményeken kívül elhelyezett, védelem alá eső műtárgyak és alkotások esetében.
 
-2.[^284] Tételesen kell jelenteni az 1. pontban meghatározottakon túl a tulajdonosi joggyakorló vagyon-nyilvántartási szabályzatában megjelölt értékhatárt meghaladó immateriális javakra, építményekre, gépekre, eszközökre, berendezésekre, felszerelésekre, járművekre és tenyészállatokra vonatkozó adatokat.
+2.[^288] Tételesen kell jelenteni az 1. pontban meghatározottakon túl a tulajdonosi joggyakorló vagyon-nyilvántartási szabályzatában megjelölt értékhatárt meghaladó immateriális javakra, építményekre, gépekre, eszközökre, berendezésekre, felszerelésekre, járművekre és tenyészállatokra vonatkozó adatokat.
 
-3.[^285] Az 1. és 2. pontban nem szereplő vagyoncsoportokra vonatkozó adatokat összevontan kell jelenteni, kivéve a 4. pontban megjelölt esetet.
+3.[^289] Az 1. és 2. pontban nem szereplő vagyoncsoportokra vonatkozó adatokat összevontan kell jelenteni, kivéve a 4. pontban megjelölt esetet.
 
-4.[^286] A tulajdonosi joggyakorló a 3. ponttól eltérően vagyonnyilvántartási szabályzatában előírhatja, hogy az 1. és 2. pontban nem szereplő vagyoncsoportokra vagy azok egy részére vonatkozó adatokat is tételesen kell jelenteni.
+4.[^290] A tulajdonosi joggyakorló a 3. ponttól eltérően vagyonnyilvántartási szabályzatában előírhatja, hogy az 1. és 2. pontban nem szereplő vagyoncsoportokra vagy azok egy részére vonatkozó adatokat is tételesen kell jelenteni.
 
-II.[^287] Adatszolgáltatási határidők
+II.[^291] Adatszolgáltatási határidők
 
 A 14. § (1)–(1a) bekezdésében megjelölt adatszolgáltatást rendszeresen, az alábbi határidőkig kell teljesíteni:
 
@@ -68,7 +68,7 @@ A 14. § (1)–(1a) bekezdésében megjelölt adatszolgáltatást rendszeresen, 
 
 Az arra kötelezett a vagyonelemek adatait a tulajdonosi joggyakorló által előírt formában és tartalommal az 1–6. pontban, illetve a tulajdonosi joggyakorló által előírt határidőben jelenti.
 
-III.[^288] A vagyonkezelésben álló adatszolgáltatással érintett ingatlanokra vonatkozó adatok köre
+III.[^292] A vagyonkezelésben álló adatszolgáltatással érintett ingatlanokra vonatkozó adatok köre
 
 1. Az ingatlan tulajdoni lap szerinti alapadatai
 
@@ -274,7 +274,7 @@ Az ingatlan tulajdoni lap szerinti alapadatai
 
 10.13. Bontásra ítélt felépítmény (igen/nem, méretei, egyéb jellemzői, a bontás várható költsége)
 
-IV.[^289] A vagyonkezelt adatszolgáltatással érintett ingatlanok használatára és hasznosítására vonatkozó adatok köre (épületenként)
+IV.[^293] A vagyonkezelt adatszolgáltatással érintett ingatlanok használatára és hasznosítására vonatkozó adatok köre (épületenként)
 
 1. Az épület tényleges használóinak, az ingatlant elhelyezési célból természetben ténylegesen használó szervezetek használatának bemutatása a terület nagyságának, a használó(k) megnevezésének, a használat jogcímének és az adott használó által a területen elhelyezett dolgozói létszám megjelölésével
 
@@ -304,33 +304,33 @@ IV.[^289] A vagyonkezelt adatszolgáltatással érintett ingatlanok használatá
 
 2.4. Egyéb azonosító
 
-[^260]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 28. pontja hatályon kívül helyezte.
-[^261]: Az 54. § (4) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
-[^262]: Az 54. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § g) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
-[^263]: Az 54. § (6) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
-[^264]: Az 54. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 242/2012. (VIII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^265]: Az 54. § (8) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^266]: A hatálybalépés időpontja 2013. november 30.
-[^267]: Az 54. § (9) bekezdését a 178/2014. (VII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^268]: A hatálybalépés időpontja 2014. július 23.
-[^269]: Az 54. § (10) bekezdését a 178/2014. (VII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^270]: A hatálybalépés időpontja 2014. július 23.
-[^271]: Az 54. § (10a) bekezdését a 303/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
-[^272]: Az 54. § (11) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 11. §-a iktatta be.
-[^273]: A hatálybalépés időpontja 2015. szeptember 9.
-[^274]: Az 54. § (12) bekezdését a 411/2015. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
-[^275]: A hatálybalépés időpontja 2015. december 19.
-[^276]: Az 54. § (13) bekezdését a 138/2020. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
-[^277]: Az 54. § (14) bekezdését a 138/2020. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
-[^278]: A 54. § (15) bekezdését a 384/2020. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
-[^279]: A 54. § (16) bekezdését a 384/2020. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
-[^280]: A hatálybalépés időpontja 2020. augusztus 15.
-[^281]: A 54. § (17) bekezdését a 384/2020. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
-[^282]: A melléklet I. pontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^283]: A melléklet I. pont 1. alpontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^284]: A melléklet I. pont 2. alpontja a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^285]: A melléklet I. pont 3. alpontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^286]: A melléklet I. pont 4. alpontját a 148/2019. (VI. 25.) Korm. rendelet 21. §-a iktatta be.
-[^287]: A melléklet II. pontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^288]: A melléklet III. pontját a 138/2020. (IV. 21.) Korm. rendelet 7. §-a iktatta be.
-[^289]: A melléklet IV. pontját a 138/2020. (IV. 21.) Korm. rendelet 7. §-a iktatta be.
+[^264]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 28. pontja hatályon kívül helyezte.
+[^265]: Az 54. § (4) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^266]: Az 54. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § g) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
+[^267]: Az 54. § (6) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^268]: Az 54. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 242/2012. (VIII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^269]: Az 54. § (8) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^270]: A hatálybalépés időpontja 2013. november 30.
+[^271]: Az 54. § (9) bekezdését a 178/2014. (VII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^272]: A hatálybalépés időpontja 2014. július 23.
+[^273]: Az 54. § (10) bekezdését a 178/2014. (VII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^274]: A hatálybalépés időpontja 2014. július 23.
+[^275]: Az 54. § (10a) bekezdését a 303/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^276]: Az 54. § (11) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 11. §-a iktatta be.
+[^277]: A hatálybalépés időpontja 2015. szeptember 9.
+[^278]: Az 54. § (12) bekezdését a 411/2015. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^279]: A hatálybalépés időpontja 2015. december 19.
+[^280]: Az 54. § (13) bekezdését a 138/2020. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
+[^281]: Az 54. § (14) bekezdését a 138/2020. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
+[^282]: A 54. § (15) bekezdését a 384/2020. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^283]: A 54. § (16) bekezdését a 384/2020. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^284]: A hatálybalépés időpontja 2020. augusztus 15.
+[^285]: A 54. § (17) bekezdését a 384/2020. (VIII. 7.) Korm. rendelet 4. §-a iktatta be.
+[^286]: A melléklet I. pontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^287]: A melléklet I. pont 1. alpontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^288]: A melléklet I. pont 2. alpontja a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^289]: A melléklet I. pont 3. alpontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^290]: A melléklet I. pont 4. alpontját a 148/2019. (VI. 25.) Korm. rendelet 21. §-a iktatta be.
+[^291]: A melléklet II. pontja a 148/2019. (VI. 25.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^292]: A melléklet III. pontját a 138/2020. (IV. 21.) Korm. rendelet 7. §-a iktatta be.
+[^293]: A melléklet IV. pontját a 138/2020. (IV. 21.) Korm. rendelet 7. §-a iktatta be.
