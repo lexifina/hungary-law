@@ -1,3 +1,1 @@
-17. § A Ktv. 16. §-a helyébe a következő rendelkezés lép:
-
-„16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – magyar és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.”
+17. §
