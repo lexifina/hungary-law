@@ -1,8 +1,4 @@
-## 7. § Az építésügyi és építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3/B. § (1a) bekezdése a következő d) ponttal egészül ki:
-
-## [Az (1) bekezdés szerinti nemzetbiztonsági célú építmény, építményrész, épületegyüttes]
-
-## „d) a Sopron Rendészeti Integrált Központ elhelyezésére szolgáló építmény.”
+## 7. §[^1]
 
 1. melléklet a 622/2020. (XII. 21.) Korm. rendelethez
 
@@ -51,3 +47,5 @@
 21. azok az 1–20. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
