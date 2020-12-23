@@ -1,10 +1,10 @@
 ## 3. Bértámogatás igénybevétele
 
-14. § (1)[^13] Az 5. § (1) bekezdése szerinti és a munkaerőpiaci program szerinti személyek az ezen alcím szerinti rendelkezéseket alkalmazhatják.
+14. § (1)[^15] Az 5. § (1) bekezdése szerinti és a munkaerőpiaci program szerinti személyek az ezen alcím szerinti rendelkezéseket alkalmazhatják.
 
 (2) Az (1) bekezdés szerinti szolgáltatást nyújtó a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti munkaadó részére a munkaviszonyban foglalkoztatott személy bruttó munkabére ötven százalékának megfelelő összegű, munkaerőpiaci program szerinti támogatás nyújtható, amennyiben
 
-a)[^14] a munkaadó vállalja, hogy a támogatás időtartamának utolsó napját követő hónap végéig felmondással vagy közös megegyezéssel a munkavállaló jogviszonyát nem szünteti meg, és
+a)[^16] a munkaadó vállalja, hogy a támogatás időtartamának utolsó napját követő hónap végéig felmondással vagy közös megegyezéssel a munkavállaló jogviszonyát nem szünteti meg, és
 
 b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 
@@ -12,7 +12,7 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 
 (4) A főváros és megyei kormányhivatal nyolc munkanapon belül határozatban dönt.
 
-(5)[^15] A támogatás legfeljebb 2020. év november és december hónapjára, valamint 2021. év január hónapjára nyújtható. A támogatás, illetve az arányos támogatás a munkáltató részére a munkaerőpiaci programban meghatározottak szerint utólag kerül folyósításra.
+(5)[^17] A támogatás legfeljebb 2020. év november és december hónapjára, valamint 2021. év január hónapjára nyújtható. A támogatás, illetve az arányos támogatás a munkáltató részére a munkaerőpiaci programban meghatározottak szerint utólag kerül folyósításra.
 
 (6) A támogatásra az Flt. és a végrehajtási rendeleteinek szabályait a jelen alcímben és a munkaerőpiaci programban foglalt eltérésekkel kell alkalmazni.
 
@@ -24,6 +24,6 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 
 (10) A támogatással kapcsolatos minden iratot a támogatási döntést követő tíz évig meg kell őrizni.
 
-[^13]: A 14. § (1) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^14]: A 14. § (2) bekezdés a) pontja az 571/2020. (XII. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^15]: A 14. § (5) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^15]: A 14. § (1) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^16]: A 14. § (2) bekezdés a) pontja az 571/2020. (XII. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: A 14. § (5) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

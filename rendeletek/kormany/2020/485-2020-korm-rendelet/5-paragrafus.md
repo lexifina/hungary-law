@@ -50,13 +50,21 @@
 
 24.[^9] Utazásszervezés (TEÁOR 7912) tevékenységet
 
+25.[^10] M.n.s. egyéb szárazföldi személyszállítás (TEÁOR 4939) tevékenységet
+
 ## folytató kifizető jogosult.
 
 (2) Az (1) bekezdés 17. pontja szerinti tevékenységet végzőre akkor terjednek ki az 1–4. § szerinti rendelkezések, ha a tevékenységet végző megfelel a közfürdők létesítésének és üzemeltetésének közegészségügyi feltételeiről szóló 37/1996. (X. 18.) NM rendelet szabályainak.
 
+(2a)[^11] Az (1) bekezdés 25. pontja szerinti tevékenységet végzőre akkor terjednek ki az 1–4. §, valamint a 14. § szerinti rendelkezések, ha
+
+a) nem a személyszállítási szolgáltatásról szóló 2012. évi XLI. törvény szerinti közszolgáltatási kötelezettség ellátását célzó közlekedési szolgáltatást végez, és
+
+b) a tevékenységet végző rendelkezik a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet szerinti közúti személyszállítási engedéllyel.
+
 (3) Tényleges főtevékenységnek e rendelet alkalmazásában azt a tevékenységet kell érteni, amelyből a kifizetőnek, kisvállalati adóalanynak e rendelet hatálybalépését megelőző hat hónapban a legtöbb bevétele, de legalább bevételének 30%-a származott.
 
-(4)[^10] Az (1) bekezdés szerinti kifizetőt 2020. év november és december hónapjára, valamint 2021. év január hónapjára illeti meg az 1–4. § szerinti kedvezmény.
+(4)[^12] Az (1) bekezdés szerinti kifizetőt 2020. év november és december hónapjára, valamint 2021. év január hónapjára illeti meg az 1–4. § szerinti kedvezmény.
 
 [^3]: Az 5. § (1) bekezdés 17. pontja az 571/2020. (XII. 9.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^4]: Az 5. § (1) bekezdés 19. pontját az 571/2020. (XII. 9.) Korm. rendelet 1. §-a iktatta be.
@@ -65,4 +73,6 @@
 [^7]: Az 5. § (1) bekezdés 22. pontját az 571/2020. (XII. 9.) Korm. rendelet 1. §-a iktatta be.
 [^8]: Az 5. § (1) bekezdés 23. pontját az 571/2020. (XII. 9.) Korm. rendelet 1. §-a iktatta be.
 [^9]: Az 5. § (1) bekezdés 24. pontját az 571/2020. (XII. 9.) Korm. rendelet 1. §-a iktatta be.
-[^10]: Az 5. § (4) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés 25. pontját a 638/2020. (XII. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: Az 5. § (2a) bekezdését a 638/2020. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^12]: Az 5. § (4) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
