@@ -1,1 +1,1 @@
-12. § A közszolgálati életpálya kidolgozásáért felelős miniszter és a Központi Statisztikai Hivatal vezetőjének megállapodása alapján a foglalkoztatottakról munkaügyi statisztikai adatszolgáltatás keretében gyűjtött statisztikai adatokat a Központi Statisztikai Hivatal a közszolgálati életpálya kidolgozásáért felelős miniszter rendelkezésére bocsátja a statisztikai modulban történő felhasználás céljából.
+12. §

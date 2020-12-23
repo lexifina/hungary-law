@@ -1,1 +1,1 @@
-10. § A foglalkoztató szervezet a foglalkoztatottak 1–7. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és azok változásáról – különösen az államháztartásról szóló 2011. évi CXCV. törvény 106/A. §-ában foglaltakra figyelemmel – az adatgyűjtő modul útján szolgáltat adatot a kincstár által működtetett központosított illetményszámfejtés részére.
+10. §
