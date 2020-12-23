@@ -9,3 +9,5 @@
 (4) Nemzeti vagyon átruházására vagy hasznosítására vonatkozó szerződés csak olyan szervezettel köthető, amelynek tulajdonosi szerkezete, felépítése, valamint az átruházott vagy hasznosításra átengedett nemzeti vagyon kezelésére vonatkozó tevékenysége átlátható.
 
 (5) Az állam és a helyi önkormányzatok tulajdonában álló gazdálkodó szervezetek törvényben meghatározott módon, önállóan és felelősen gazdálkodnak a törvényesség, a célszerűség és az eredményesség követelményei szerint.
+
+(6) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány létrehozásáról, működéséről, megszüntetéséről, valamint közfeladata ellátásáról sarkalatos törvény rendelkezik.
