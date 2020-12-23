@@ -4,4 +4,4 @@
 
 „(4) A 8. §, a 9. § (1) és (2) bekezdése, a 10. és 11. §, a 15. és 16. §, a 21. és 22. §, az 57. § és a 70. § 2022. július 1-jén lép hatályba.”
 
-(2) Nem lép hatályba a 2019. évi CXV. törvény 9. § (1) bekezdése, továbbá a 15. és 16. §-a.
+(2)
