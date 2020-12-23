@@ -1,0 +1,1 @@
+9. § A 7. § szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az ingatlan forgalmi értékeként a könyv szerinti értéket kell megjelölni.
