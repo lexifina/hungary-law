@@ -1,0 +1,3 @@
+40. § A Hszt. 287/C. §-a a következő (34) bekezdéssel egészül ki:
+
+„(34) A rendvédelmi szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a hivatásos állomány tagja esetében releváns adatok kivételével – megegyezik a hivatásos állomány tagjai 1. melléklet szerinti személyügyi alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a személyügyi alapnyilvántartásra vonatkozó szabályokat kell alkalmazni azzal, hogy a rendvédelmi szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.”
