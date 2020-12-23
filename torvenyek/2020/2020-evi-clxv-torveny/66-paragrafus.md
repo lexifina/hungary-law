@@ -1,5 +1,1 @@
-66. § A Bjt. 166. §-a helyébe a következő rendelkezés lép:
-
-„166. § (1) A Kúria elnökét és helyettesét, a Kúria főtitkárát és főtitkár-helyettesét, továbbá az OBH elnökét és helyettesét megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetét terheli.
-
-(2) A Kúria elnöke és helyettese, a Kúria főtitkára és főtitkár-helyettese, továbbá az OBH elnöke és helyettese köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.”
+66. §
