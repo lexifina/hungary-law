@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-235-20-
 | 2020-09-01 | 2019-235-20-22.8 | 260/2020. (VI. 4.) Korm. rendelet |
 | 2020-09-15 | 2019-235-20-22.9 | 430/2020. (IX. 14.) Korm. rendelet |
 | 2020-10-01 | 2019-235-20-22.10 | 383/2020. (VIII. 7.) Korm. rendelet |
+| 2020-12-23 | 2019-235-20-22.11 | 633/2020. (XII. 22.) Korm. rendelet |
