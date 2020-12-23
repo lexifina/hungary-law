@@ -6,4 +6,4 @@
 
 (3) A 61. § és a 62. § 2020. július 1-jén lép hatályba.
 
-(4) A 3. alcím, az 5. alcím, a 7. alcím, a 12. alcím és a 16. alcím 2022. február 1-jén lép hatályba.
+(4) A 8. §, a 9. § (1) és (2) bekezdése, a 10. és 11. §, a 15. és 16. §, a 21. és 22. §, az 57. § és a 70. § 2022. július 1-jén lép hatályba.
