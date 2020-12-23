@@ -1,0 +1,1 @@
+87. § A Gyftv. 19. § (2) bekezdés b) pontjában az „a jogsértést elkövetőt határidővel felhívhatja a hiányosságok megszüntetésére” szövegrész helyébe az „a jogsértést elkövetőt figyelmeztetést tartalmazó döntésében, megfelelő határidő megállapításával felhívhatja a hiányosságok megszüntetésére” szöveg lép.

@@ -1,0 +1,1 @@
+13. § Hatályát veszti a Csődtv. 66. § (6) bekezdésében az „A bírság kiszabása során a hatóság figyelembe veszi a mulasztás vagy jogszabálysértés jellegét, súlyosságát, egyszeri vagy ismétlődő jellegét.” szövegrész.

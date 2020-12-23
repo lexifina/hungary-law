@@ -1,0 +1,1 @@
+19. § A Bt. 41. § (1) bekezdésében az „eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére.” szövegrész helyébe az „a jogsértő magatartás abbahagyására, valamint a jogosulatlanul kitermelt érték megfizetésére kötelezi.” szöveg lép.
