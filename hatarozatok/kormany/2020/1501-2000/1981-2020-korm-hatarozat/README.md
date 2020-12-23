@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1981-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-22 | 2020-1981-30-22.1 | 1981/2020. (XII. 22.) Korm. határozat |
+| 2020-12-23 | 2020-1981-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
