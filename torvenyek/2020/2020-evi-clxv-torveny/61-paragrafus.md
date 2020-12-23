@@ -1,0 +1,3 @@
+61. § A Bjt. 69/A. §-a helyébe a következő rendelkezés lép:
+
+„69/A. § Az OBH elnökének kinevezési jogkörébe tartozó vezető, továbbá a Kúria elnökének kinevezési jogkörébe tartozó határozott időre kinevezett vezető és a Kúria elnökhelyettese, valamint az OBH bíró elnökhelyettese a kinevezésének tartama alatt, az OBH-ba, az érintett szervhez és a Kúriára beosztott bíró a beosztásának tartama alatt mentesül a rendszeres bírói értékelés alól.”

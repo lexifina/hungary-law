@@ -1,0 +1,5 @@
+9. § A Kjtv. 37/D. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettes a kirendelésről szóló okirat közlésétől számított 8 napon belül a területi kamara elnökségének nyilatkozik arról, hogy a helyettesített közjegyző irodáját átveszi.
+
+(4) A (3) bekezdés szerinti esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető), és erről a cégbíróságot tájékoztatja. A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki, és erről a cégbíróságot tájékoztatja.”

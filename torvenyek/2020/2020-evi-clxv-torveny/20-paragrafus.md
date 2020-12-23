@@ -1,0 +1,5 @@
+20. § Az Iasz. „Egyéb javadalmazások, kedvezmények és költségtérítések” című alcíme a következő 121/C. §-sal és 121/D. §-sal egészül ki:
+
+„121/C. § Az igazságügyi szerv költségvetésében biztosított előirányzatoktól függően a nyugalmazott igazságügyi alkalmazott részére szociális és temetési segély, az igazságügyi alkalmazott és a nyugalmazott igazságügyi alkalmazott közeli hozzátartozója részére temetési segély adható.
+
+121/D. § A 121. § és a 121/C. § szerinti egyéb juttatások részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak és közeli hozzátartozóik, valamint a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak és közeli hozzátartozóik, valamint az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében a miniszter az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítja meg.”
