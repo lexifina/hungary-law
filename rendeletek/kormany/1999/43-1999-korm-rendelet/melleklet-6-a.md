@@ -36,7 +36,7 @@
 
 | 8. | Művesekezelés | 27 771,1 |
 
-| 11. | Működési költségelőleg | 4 000,0 |
+| 11. | Működési költségelőleg | 0 |
 
 |  | Célelőirányzatok |  |
 
@@ -44,11 +44,11 @@
 
 | Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
 
-| Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 1 250,0 |
+| Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 1 750,0 |
 
 | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
-| Egészségügyi dolgozók 2018–2020. évi béremelésének fedezete | 102 335,6 |
+| Egészségügyi dolgozók 2018–2020. évi béremelésének fedezete | 94 108,0 |
 
 | Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete | 3 830,1 |
 
@@ -60,7 +60,7 @@
 
 | 2020. évi egyszeri rendkívüli juttatás fedezete | 101 342,0 |
 
-| 13. | Célelőirányzatok összesen | 270 675,6 |
+| 13. | Célelőirányzatok összesen | 262 948,0 |
 
 | 15. | Mentés | 43 343,5 |
 
@@ -70,15 +70,15 @@
 
 |  | Járóbeteg-szakellátás | 179 438,1 |
 
-| Molekuláris diagnosztikai (PCR) ellátás | 3 501,4 |
+| Molekuláris diagnosztikai (PCR) ellátás | 3 901,4 |
 
-| Koronavírus járvánnyal kapcsolatos diagnosztika és ellátás | 1 440,0 |
+| Koronavírus járvánnyal kapcsolatos diagnosztika és ellátás | 1 600,0 |
 
-| Fekvőbeteg-szakellátás | 628 624,5 |
+| Fekvőbeteg-szakellátás | 623 224,5 |
 
-| aktív fekvőbeteg-szakellátás | 534 504,7 |
+| aktív fekvőbeteg-szakellátás | 532 004,7 |
 
-| krónikus fekvőbeteg-szakellátás | 87 484,8 |
+| krónikus fekvőbeteg-szakellátás | 84 584,8 |
 
 | fogvatartottak egészségügyi ellátása | 1 635,0 |
 
@@ -86,21 +86,21 @@
 
 | Extrafinanszírozás | 1 000,0 |
 
-| Nagyértékű gyógyszerfinanszírozás | 105 309,8 |
+| Nagyértékű gyógyszerfinanszírozás | 132 409,8 |
 
-| Speciális finanszírozású szakellátás | 45 061,9 |
+| Speciális finanszírozású szakellátás | 43 961,9 |
 
-| 18. | Összevont szakellátás összesen | 964 375,7 |
+| 18. | Összevont szakellátás összesen | 985 535,7 |
 
 | 19. | Népegészségügy fejlesztése | 656,8 |
 
 | 20. | Alapellátás fejlesztése | 0,0 |
 
-| 21. | Gyógyító-megelőző ellátás céltartalék | 4 723,4 |
+| 21. | Gyógyító-megelőző ellátás céltartalék | 0 |
 
 | 22. | Finanszírozási rendszer átalakítása | 17 764,0 |
 
-| ÖSSZESEN | 1 581 712,3 |
+| ÖSSZESEN | 1 586 421,3 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^645]
 

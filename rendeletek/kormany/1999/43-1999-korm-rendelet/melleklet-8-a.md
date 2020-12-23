@@ -98,44 +98,4 @@ A nem pszichiátriai rehabilitációs minősítési kritériumok
 
 Az egyes rehabilitációs osztályoknak a fenti feltételek teljesítése alapján történő minősítése a következők szerint alakul:
 
-| Fel- tétel | Minő- sítés | 1. Osztályvezető | 2. Rehabilitációs szakorvos létszám | 3. Orvos létszám összesen | 4/A.+4/B. Összes szakdolgozó létszám | 5. Átlagos ápolási idő | 6. Éves halálozás |
-
-| A | A | A | A | A | A,B | A |
-
-| A | A | A | A | B | A | A |
-
-| A | A | B | A | A | A | A |
-
-| B | A,B | A | A,B | A | A,B | B |
-
-| B | A,B | A | A,B | B | A | B |
-
-| B | A,B | B | A,B | A | A | B |
-
-| B | A,B | A | B | A | A,B | A,B |
-
-| B | A,B | A | B | B | A | A,B |
-
-| B | A,B | B | B | A | A | A,B |
-
-| B | B | A | A,B | A | A,B | A,B |
-
-| B | B | A | A,B | B | A | A,B |
-
-| B | B | B | A,B | A | A | A,B |
-
-| B | A,B | A | A,B | A | C | A,B |
-
-| B | A,B | A | A,B | B | B,C | A,B |
-
-| B | A,B | B | A,B | A | B,C | A,B |
-
-| B | A,B | B | A,B | B | A,B | A,B |
-
-| B | A,B | A | A,B | C | A,B | A,B |
-
-| B | A,B | C | A,B | A | A,B | A,B |
-
-Megjegyzés:
-
 [^651]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított, a 259/2012. (IX. 14.) Korm. rendelet 5. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 27. § k) pontja, a 364/2014. (XII. 30.) Korm. rendelet 40. § n) pontja szerint módosított szöveg.
