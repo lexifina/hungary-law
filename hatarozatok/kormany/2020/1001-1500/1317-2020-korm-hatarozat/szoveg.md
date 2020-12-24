@@ -34,7 +34,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-6. egyetért az Alapítvány működéséhez szükséges forrás biztosításával;
+6.[^1] egyetért az Alapítvány alapító okiratában meghatározott célok és azok elérése érdekében végzett tevékenységek megvalósításához szükséges forrás biztosításával;
 
 7. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a 6. pont szerinti támogatási cél megvalósításához kapcsolódóan az Alapítvány részére biztosítson 200 000 000 forint forrást a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 67. Felsőoktatási feladatok alcím, 2. Felsőoktatás speciális feladatai jogcímcsoport javára;
 
@@ -59,3 +59,5 @@ Felelős: pénzügyminiszter
 innovációért és technológiáért felelős miniszter
 
 Határidő: a 2022. évtől a központi költségvetés tervezése során
+
+[^1]: A 6. pont a 2006/2020. (XII. 24.) Korm. határozat 4. pontjával megállapított szöveg.
