@@ -24,8 +24,31 @@ emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
 
-4. felhívja az emberi erőforrások miniszterét, hogy – a Társaság bevonásával – készítsen előterjesztést a Kormány részére a Kocsis Zoltán Emlékház szakmai programjáról, annak működtetéséhez, valamint az Ingatlan felújításához kapcsolódó feladatokról a szükséges forrásigény bemutatásával.
+4.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy – a Társaság bevonásával – készítse el az Ingatlan felújításhoz (a továbbiakban: Beruházás) szükséges engedélyes terveket;
 
-Felelős: emberi erőforrások minisztere
+Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: 2021. június 30.
+Határidő: 2021. január 31.
+
+5.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy – a Társaság bevonásával – készítse el a Beruházáshoz szükséges kiviteli terveket;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: 2021. március 31.
+
+6.[^3] felhívja a Miniszterelnökséget vezető minisztert, hogy a 4. és 5. pontban meghatározott feladatok megvalósítása érdekében adjon ki támogatói okiratot 122 700 000 forint összegben a Kvtv. XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 33. Civil és nonprofit szervezetek támogatása jogcímcsoport terhére a Társaság mint kedvezményezett részére;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
+7.[^4] felhívja a Miniszterelnökséget vezető minisztert, hogy – a Társaság bevonásával – készítsen előterjesztést a Kormány részére a Kocsis Zoltán Emlékház szakmai programjáról, annak működtetéséhez, valamint az Ingatlan felújításához kapcsolódó feladatokról a szükséges forrásigény bemutatásával.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: 2021. november 30.
+
+[^1]: A 4. pont a 2014/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pontot a 2014/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 6. pontot a 2014/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be.
+[^4]: A 7. pontot a 2014/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be.
