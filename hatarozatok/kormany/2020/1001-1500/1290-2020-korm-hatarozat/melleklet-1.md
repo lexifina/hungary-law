@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1290/2020. (VI. 5.) Korm. határozathoz
+1. melléklet az 1290/2020. (VI. 5.) Korm. határozathoz[^1]
 
 I. A koronavírus világjárvány okozta gazdasági nehézségek enyhítése érdekében a Nemzeti Kulturális Tanács tagjai és egyéb intézmények támogatása
 
@@ -36,7 +36,9 @@ II. A kulturális intézmények által képviselt terület koronavírus világj�
 
 |  | 4. | Támogatási alap a magyarországi zeneműkiadók és kottakiadók veszélyhelyzet következményeként létrejött veszteségeinek kompenzálására (Filharmónia Magyarország Koncert és Fesztiválszervező Nonprofit Korlátolt Felelősségű Társaság) | 100 millió forint |
 
-|  | 5. | Hangszervásárlás és hangszerjavítási támogatási alap a magyar hangszerkészítők és hangszerkereskedők megsegítésére (Magyar Hangszerész Szövetség) | 60 millió forint |
+|  | 5.1. | Hangszervásárlás és hangszerjavítási támogatási alap a magyar hangszerkészítők és hangszerkereskedők megsegítésére (Liszt Ferenc Zeneművészeti Főiskola Szegedi Konzervatóriuma Alapítvány) | 30 millió forint |
+
+|  | 5.2. | Hangszervásárlás és hangszerjavítási támogatási alap a magyar hangszerkészítők és hangszerkereskedők megsegítésére (Potenton Alapítvány) | 30 millió forint |
 
 |  | 6. | A 2020/21-es szezonban fellépő művészek támogatási alapja (Filharmónia Magyarország Koncert és Fesztiválszervező Nonprofit Korlátolt Felelősségű Társaság) | 200 millió forint |
 
@@ -54,12 +56,14 @@ II. A kulturális intézmények által képviselt terület koronavírus világj�
 
 |  | 13. | Pályázati alap a könnyűzenei ipar egyéb szereplőinek támogatására (Petőfi Irodalmi Múzeum) | 50 millió forint |
 
-|  | 14. | Könnyűzenei klubok támogatási alapja (Petőfi Irodalmi Múzeum) | 80 millió forint |
+|  | 14. |  |  |
 
-|  | 15. | Öröm a zene! – a tehetségkutató rendszer nemzeti programmá emelése (Petőfi Irodalmi Múzeum) | 20 millió forint |
+|  | 15. | Öröm a zene! – a tehetségkutató rendszer nemzeti programmá emelése (Petőfi Irodalmi Múzeum) | 100 millió forint |
 
 |  | 16. | Kassai Lovasíjász Iskola támogatása (”KASSAI” Termékelőállító, Értékesítő és Szolgáltató Korlátolt Felelősségü Társaság) | 15 millió forint |
 
 |  | 17. | Közművelődési műszaki szakemberek (technikusok – vállalkozók) támogatási alapja (NMI Művelődési Intézet Nonprofit Közhasznú Korlátolt Felelősségű Társaság) | 400 millió forint |
 
 |  |  |  | összesen: 3708 millió forint |
+
+[^1]: Az 1. melléklet a 2005/2020. (XII. 24.) Korm. határozat 14. pontja szerint módosított szöveg.
