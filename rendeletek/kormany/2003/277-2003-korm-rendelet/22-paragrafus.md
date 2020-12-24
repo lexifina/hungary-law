@@ -1,3 +1,0 @@
-22. § (1) A kötelezett szolgáltató az előírt összes adatot tartalmazó kezdeményezést – a megjelölt helyi hurok átengedésre való egyedi alkalmasságát is megvizsgálva – 15 napon belül köteles elbírálni, a jogosult szolgáltatót szerződéskötésre irányuló kezdeményezésének elfogadásáról vagy annak objektív műszaki okokon alapuló elutasításáról tájékoztatni.
-
-(2) Ha a kötelezett szolgáltató a kezdeményezés elfogadása mellett dönt és a helymegosztás kialakításához építési engedély szükséges, az engedély iránti kérelmet a kötelezett szolgáltató az (1) bekezdés szerinti határidő lejártát követő 15 napon belül köteles benyújtani.
