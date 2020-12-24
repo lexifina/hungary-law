@@ -12,7 +12,7 @@
 
 | 6. | Körmend város feladatainak támogatása | útépítés | 30 000 000 |
 
-| 7. | Lasztonya község feladatainak támogatása | kultúrház épületének helyreállítása | 15 005 000 |
+| 7. | Lasztonya község feladatainak támogatása | kultúrház épületének bontása, új kultúrház kialakítása | 15 005 000 |
 
 | 8. | Máriakálnok község feladatainak támogatása | tartozás rendezése | 35 500 000 |
 
