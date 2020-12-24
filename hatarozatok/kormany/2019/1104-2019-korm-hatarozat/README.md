@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1104-30
 | 2019-03-08 | 2019-1104-30-22.1 | 1104/2019. (III. 8.) Korm. határozat |
 | 2019-03-09 | 2019-1104-30-22.2 | 2010: CXXX. törvény |
 | 2019-12-20 | 2019-1104-30-22.3 | 1755/2019. (XII. 20.) Korm. határozat |
+| 2020-12-24 | 2019-1104-30-22.4 | 1755/2019. (XII. 20.) Korm. határozat |

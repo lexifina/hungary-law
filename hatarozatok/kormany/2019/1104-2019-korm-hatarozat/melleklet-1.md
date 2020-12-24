@@ -22,7 +22,7 @@
 
 ## a Magyar Tudományos Akadémia elnöke
 
-## Határidő: 2019. december 31., a Turisztikai fejlesztési célelőirányzat jogcímcsoport javára átcsoportosított 1 493 465 000 forintból 990 000 000 forint tekintetében 2021. február 15.
+## Határidő: 2019. december 31., a Turisztikai fejlesztési célelőirányzat jogcímcsoport javára átcsoportosított 1 493 465 000 forintból 990 000 000 forint tekintetében 2021. február 15., a Kormányzati Informatikai Fejlesztési Ügynökség cím javára biztosított 163 500 000 forint tekintetében 2020. december 31.
 
 ## b) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása címet az 5. Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása alcímmel egészíti ki;
 
@@ -90,7 +90,7 @@
 
 1. melléklet az 1104/2019. (III. 8.) Korm. határozathoz
 
-[^1]: Az 1. pont a) alpontja az 1755/2019. (XII. 20.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja az 1755/2019. (XII. 20.) Korm. határozat 10. pontja, a 2005/2020. (XII. 24.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
