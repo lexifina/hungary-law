@@ -32,7 +32,7 @@ a) I. Országgyűlés fejezet, 1. Országgyűlés Hivatala cím javára 8 780 00
 
 b) X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára 145 730 000 forint,
 
-c) XI. Miniszterelnökség fejezet, 1. Miniszterelnökség igazgatása cím javára 100 153 000 forint,
+c)[^1] XI. Miniszterelnökség fejezet, 1. Miniszterelnökség igazgatása cím javára 195 153 000 forint,
 
 d) XII. Agrárminisztérium fejezet, 1. Agrárminisztérium igazgatása cím javára 27 177 000 forint,
 
@@ -48,7 +48,7 @@ gb) a 2. Külképviseletek igazgatása cím javára 280 694 000 forint,
 
 gc) a 7. Fejezeti kezelésű előirányzatok cím, 3. Nemzetközi tagdíjak és európai uniós befizetések alcím javára 170 000 000 forint,
 
-h) XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím javára 217 631 000 forint
+h)[^2] XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím javára 122 631 000 forint
 
 többletforrás rendelkezésre állásáról;
 
@@ -56,11 +56,13 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-5. felhívja az ET/MB magyar elnökség tevékenysége és prioritásai alapján érintett minisztereket, hogy a 3–4. pontban megjelölt források minisztériumok közötti elosztását figyelembe véve az elnökségi programra vonatkozó részletes terveket, a tervezett rendezvények koncepcióit és az ezek megvalósításához szükséges igényeket dolgozzák ki;
+5.[^3] felhívja az ET/MB magyar elnökség tevékenysége és prioritásai alapján érintett minisztereket, hogy a 3–4. pontban megjelölt források minisztériumok közötti elosztását figyelembe véve az elnökségi programra vonatkozó részletes terveket, a tervezett rendezvények koncepcióit és az ezek megvalósításához szükséges igényeket dolgozzák ki;
 
 Felelős: külgazdasági és külügyminiszter
 
-a miniszterelnök általános helyettese Miniszterelnökséget vezető miniszter
+a miniszterelnök általános helyettese
+
+Miniszterelnökséget vezető miniszter
 
 igazságügyi miniszter
 
@@ -72,7 +74,9 @@ emberi erőforrások minisztere
 
 innovációért és technológiáért felelős miniszter
 
-Határidő: 2020. november 15.
+családokért felelős tárca nélküli miniszter
+
+Határidő: azonnal
 
 6. felhatalmazza az ET/MB magyar elnökség tevékenysége és prioritásai alapján érintett minisztereket, hogy az 5. pontban megjelölt feladat végrehajtását követően felmerült további szakmai programelemeket az érintett fejezetek költségvetése terhére megvalósítsák;
 
@@ -95,3 +99,7 @@ innovációért és technológiáért felelős miniszter
 Határidő: a felmerülés ütemében
 
 7. úgy határoz, hogy az 1. pont szerinti célhoz kapcsolódó eszközbeszerzésre a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni.
+
+[^1]: A 4. pont c) alpontja a 2005/2020. (XII. 24.) Korm. határozat 15. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pont h) alpontja a 2005/2020. (XII. 24.) Korm. határozat 15. pont b) alpontja szerint módosított szöveg.
+[^3]: Az 5. pontja a 2005/2020. (XII. 24.) Korm. határozat 16. pontjával megállapított szöveg.
