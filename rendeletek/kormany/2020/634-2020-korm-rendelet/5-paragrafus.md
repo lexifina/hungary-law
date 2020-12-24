@@ -1,3 +1,0 @@
-## 4. § Az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet [a továbbiakban: 472/2017. (XII. 28.) Korm. rendelet] 15. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Az utazásszervező vagy az utazásközvetítő valamennyi olyan gazdasági reklámjában, amelyben az utazási csomag díját feltünteti, köteles azt a 14. § (2) bekezdés c) pontja szerint, egy összegben feltüntetni. Ha a 14. § (2) bekezdés c) pontja szerinti díjak nem számíthatók ki a szerződéskötés előtt, azokat akkor is meg kell jelölni az utazási csomag díját tartalmazó gazdasági reklámban.”
