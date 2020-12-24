@@ -6,49 +6,29 @@
 
 A kiégett üzemanyag és a radioaktív hulladék kezelésének nemzeti politikája
 
-1. Bevezetés
+1.[^2] Bevezetés
 
-Az atomenergia alkalmazásának története mintegy száz évre tekint vissza, jelentősége pedig az élet számos területén meghatározó. A radioaktív anyagok és az ionizáló sugárzások alkalmazása fontos szerepet tölt be Magyarországon a gyógyászat, az ipar, a mezőgazdaság, valamint az oktatás és a kutatás területén.
+1. Az Országgyűlés 2015-ben a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelv (a továbbiakban: 2011/70/Euratom irányelv) előírásaival összhangban első alkalommal elfogadta a kiégett üzemanyag és a radioaktív hulladék kezelésének nemzeti politikáját (a továbbiakban: nemzeti politika). Az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atomtörvény) 5/B. § (2) bekezdése szerint az Országgyűlés a Kormány előterjesztésére ötévente felülvizsgálja a hatályos nemzeti politikát. A nemzeti politika soron kívüli felülvizsgálatát nem indokolta sem új körülmény fellépése, sem a műszaki tudományos fejlődés, sem pedig egyéb műszaki projekt előrehaladása.
 
-A világ több mint harminc országában működnek atomerőművek. Az atomerőművek létesítése, üzemeltetése és leszerelése generációkon átívelő feladat, amelyhez megfelelő nemzeti infrastruktúrát kell működtetni. Többek között ez teszi egyedülállóvá az atomenergetikát a nemzetgazdaság ágazatai között.
+A jelen felülvizsgálatra az Atomtörvényben foglalt kötelezettség teljesítése érdekében volt szükség. A felülvizsgálat az egyes hatáskörök megváltozásának átvezetését, a jogszabályi követelmények módosítását, valamint terminológiai pontosításokat tartalmaz.
 
-Magyarországon a Paksi Atomerőmű jelentősen hozzájárul a hazai villamosenergia-termeléshez, 2011-ben 43,6%-át, 2012-ben 45,6%-át, 2013-ban 50,7%-át, 2014-ben 53,6%-át adta. Az előzetes adatok szerint 2014-ben a hazai villamosenergia-felhasználáshoz képest a Paksi Atomerőmű villamos energia termelésének részaránya 36,7% volt. Az Országgyűlés elfogadta a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény kihirdetéséről szóló
+2. Az atomenergia alkalmazásának története mintegy száz évre tekint vissza, jelentősége pedig az élet számos területén meghatározó. A radioaktív anyagok és az ionizáló sugárzások alkalmazása fontos szerepet tölt be Magyarországon a gyógyászat, az ipar, a mezőgazdaság, valamint az oktatás és a kutatás területén.
 
-2014. évi II. törvényt, így az atomenergiának a jövőben hosszú távon is fontos szerep jut.
+A világ több, mint harminc országában működnek atomerőművek. Az atomerőművek létesítése, üzemeltetése és leszerelése generációkon átívelő feladat, amelyhez megfelelő nemzeti infrastruktúrát kell működtetni. Többek között ez teszi egyedülállóvá az atomenergetikát a nemzetgazdaság ágazatai között.
 
-A kiégett fűtőelemek és a radioaktív hulladékok kezelésére vonatkozó nemzeti politika megalkotásának elsődleges célja megfogalmazni a radioaktív hulladék és a kiégett üzemanyag kezelésével kapcsolatos elvárásokat (alapelveket), amelyek biztosítják az emberi egészség és a környezet védelmét az ionizáló sugárzás káros hatásaival szemben, továbbá garantálják, hogy ne háruljon az indokolhatónál súlyosabb teher a jövő generációjára.
+3. Magyarországon a Paksi Atomerőmű jelentősen hozzájárul a hazai villamosenergia-termeléshez, a nukleáris termelés részaránya 50%. A hazai villamosenergia-felhasználáshoz képest a Paksi Atomerőmű villamosenergia-termelésének részaránya 34,5% – 36,5% közötti érték.
 
-A nemzeti politika megalkotása és rendszeres felülvizsgálata biztosítja a fejlődéshez és a globális működési környezet változásaihoz való alkalmazkodást, hozzájárul a fenntarthatóság mint a jövő generációk részéről elvárható általános követelmény teljesítéséhez, amely lépéskényszert jelent a technológiában rejlő további lehetőségek feltárására és (majdani) kiaknázására. A nemzeti politika alapot biztosít a nemzeti program elkészítéséhez is, ami a nemzeti politikában megfogalmazott célok megvalósításának módját adja meg.
+4. Az Országgyűlés elfogadta a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény kihirdetéséről szóló 2014. évi II. törvényt (a továbbiakban: 2014. évi II. törvény), így az atomenergiának a jövőben hosszú távon is fontos szerep jut. A Nemzeti Energiastratégia szerint is a tervezett villamosenergia-termelési portfólióban és a villamosenergia-szektor dekarbonizálásában kulcsszerepet tölt be Paks 2 megépítése és üzembe állása. A Nemzetközi Energiaügynökség is rávilágít arra, hogy a dekarbonizációs célok megvalósítsa érdekében a hatékonyság és a megújuló energiákba történő beruházások jelentős növelése mellett szükség van az atomenergia alkalmazására is.
 
-A társadalom számára elfogadható és a fenntarthatósághoz illeszkedő biztonságos megoldást kell alkalmazni a radioaktív hulladékok és a kiégett üzemanyag elhelyezésére, illetve további hasznosítására. E cél elérése érdekében a lehetséges műszaki megoldások közül kell válogatni, ami esetenként hazai, illetve nemzetközi kutatási és fejlesztési tevékenységet igényel, figyelembe véve az átmeneti tárolás lehetőségét is, amely rugalmasságot ad a rendszernek.
+A kiégett üzemanyag és a radioaktív hulladékok kezelésére vonatkozó nemzeti politika megalkotásának elsődleges célja, hogy megfogalmazza a radioaktív hulladék és a kiégett üzemanyag kezelésével kapcsolatos elvárásokat (alapelveket), amelyek biztosítják az emberi egészség és a környezet védelmét az ionizáló sugárzás káros hatásaival szemben, továbbá garantálják, hogy ne háruljon az indokolhatónál súlyosabb teher a jövő generációira.
 
-Az atomenergia biztonságos alkalmazásának érdekében kell a kiégett üzemanyag és a radioaktív hulladék kezelésének nemzeti politikáját megfogalmazni és az Országgyűlés elé terjeszteni.
+A nemzeti politika megalkotása és rendszeres felülvizsgálata biztosítja a fejlődéshez és a globális működési környezet változásaihoz való alkalmazkodást, hozzájárul a fenntarthatóság, mint a jövő generációk részéről elvárható általános követelmény teljesítéséhez, amely lépéskényszert jelent a technológiában rejlő további lehetőségek feltárására és (majdani) kiaknázására. A nemzeti politika alapot biztosít a nemzeti program elkészítéséhez is, ami a nemzeti politikában megfogalmazott célok megvalósításának módját adja meg.
 
-A jelen nemzeti politika legfontosabb elemei a vonatkozó jogszabályokban, a kormányzat elvárásaiban, a hatóságok és az atomenergia alkalmazóinak gyakorlatában már eddig is jelen voltak. Fontosságukra való tekintettel, megfelelve a nemzetközi elvárásoknak és kötelezettségeknek (különösen a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelvben foglaltaknak) került megalkotásra a nemzeti politika.
+A társadalom számára elfogadható és a fenntarthatósághoz illeszkedő biztonságos megoldást kell alkalmazni a radioaktív hulladékok és a kiégett üzemanyag kezelésére. E cél elérése érdekében a lehetséges műszaki megoldások közül kell válogatni, ami esetenként hazai, illetve nemzetközi kutatási és fejlesztési tevékenységet igényel, figyelembe véve az átmeneti tárolás lehetőségét is, amely rugalmasságot ad a rendszernek.
 
-1.1 Szabályozási háttér
+Az atomenergia hosszú távú biztonságos alkalmazásának érdekében kell a kiégett üzemanyag és a radioaktív hulladék kezelésének nemzeti politikáját megfogalmazni és az Országgyűlés elé terjeszteni.
 
-Az atomenergia békés célú alkalmazásának hazai hatályos jogi szabályozása a vonatkozó európai uniós előírásoknak maradéktalanul megfelel, teljesíti az aláírt nemzetközi egyezményekből eredő kötelezettségeket és összhangban van a Nemzetközi Atomenergia Ügynökség ajánlásaival.
-
-A kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelv (a továbbiakban: Irányelv) 4. cikke értelmében a tagállamok a kiégett fűtőelemek és a radioaktív hulladékok kezelésére vonatkozóan nemzeti politikákat dolgoznak ki és tartanak fenn.
-
-Az Irányelvben foglaltaknak való megfelelés céljából az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atomtörvény) előírja, hogy az Országgyűlés a Kormány előterjesztésére nemzeti politikát fogad el. A nemzeti politika és annak felülvizsgálata előkészítéséről az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv) felügyeletét ellátó miniszter (a továbbiakban: miniszter) gondoskodik. A radioaktív hulladékokkal és a kiégett üzemanyaggal kapcsolatos egyes feladatokat ellátó szerv kijelöléséről, tevékenységéről és annak pénzügyi forrásáról szóló 215/2013. (VI. 21.) Korm. rendeletben (a továbbiakban: Korm. rendelet) foglaltak szerint a Kormány által kijelölt szerv, a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. (a továbbiakban: Radioaktív Hulladékokat Kezelő Kft.) készíti elő a radioaktív hulladék és a kiégett üzemanyag kezelésére vonatkozó nemzeti politika tervezetét, valamint elvégzi a nemzeti politika szakmai felülvizsgálatát a miniszter részére.
-
-1.2 A nemzeti politika tárgya
-
-A nemzeti politika az országban képződött és képződő összes radioaktív hulladékra és kiégett üzemanyagra egyaránt vonatkozik, keletkezésüktől a végső elhelyezésükig, figyelembe véve a nukleáris létesítmények leszerelését is.
-
-A nemzeti politika hatálya nem terjed ki a nyersanyag-kitermelő iparágakból származó olyan hulladékokra, amelyek radioaktívak lehetnek, és amelyek az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló, 2006. március 15-i 2006/21/EK európai parlament és tanács irányelv hatálya alá tartoznak, így a jelen nemzeti politika nem foglalkozik az uránércbányászattal és annak hatásaival, amelyekre külön kormányhatározatok vonatkoznak.
-
-A kiégett üzemanyag és a radioaktív hulladék kezelésével kapcsolatos tennivalókat a vonatkozó jogszabályok szerinti közép- és hosszú távú tervek foglalják össze. A tervek a Paksi Atomerőmű négy üzemelő blokkját és azok üzemidő-hosszabbítását, továbbá az egyéb hazai nukleáris létesítményeket is figyelembe véve tartalmazzák a folyamatban lévő programokat és az elvégzendő feladatokat a radioaktívhulladék-tárolók lezárásáig.
-
-A közép- és hosszú távú tervekben figyelembe vett kiégett üzemanyag és radioaktív hulladék mennyisége tekintetében változást jelent, hogy az Országgyűlés elfogadta a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény kihirdetéséről szóló 2014. évi II. törvényt (a továbbiakban: 2014. évi II. törvény). E törvény értelmében a paksi telephelyen két új atomerőművi blokk létesül, amelyek üzemeltetése során kiégett üzemanyag és radioaktív hulladék képződik, a létesítmény leszerelése pedig további radioaktív hulladék képződésével jár. A nemzeti politika bemutatja azokat a követelményeket, amelyeket érvényesíteni kell az új atomerőművi blokkok kiégett üzemanyagának és radioaktív hulladékainak elhelyezése, valamint leszerelésének tervezése során, és kitér arra is, hogyan kell ezeket a tevékenységeket illeszteni a már elindult – az eddigi tervekben figyelembe vett – programokhoz.
-
-1.3 A nemzeti politika végrehajtása: a nemzeti program
-
-Az Atomtörvény értelmében a Kormány a kiégett üzemanyag és a radioaktív hulladék kezelésének a keletkezéstől a végleges elhelyezésig tartó valamennyi szakaszára és a nukleáris létesítmények leszerelésére kiterjedően – a nemzeti politika céljainak végrehajtását bemutató – nemzeti programot fogad el, amelynek peremfeltételeit a nemzeti politika és az évente felülvizsgált közép- és hosszú távú terv határozza meg. A nemzeti politika és a nemzeti program ötévenkénti felülvizsgálata előkészítéséről a kijelölt szerv – jelenleg a Radioaktív Hulladékokat Kezelő Kft. – javaslata alapján a miniszter gondoskodik. A politika és a program felülvizsgálatára szükség esetén hamarabb is sor kerülhet, ha azt új körülmények fellépése, a műszaki tudományos fejlődés vagy a nemzeti program végrehajtása során valamely műszaki projekt előrehaladása indokolttá teszi.
-
-A nemzeti politika összefoglalja a nemzeti program kidolgozásához és végrehajtásához alkalmazandó alapelveket. Bemutatja a jelenlegi helyzetet, ezen belül a radioaktív anyagok és az atomenergetika alkalmazását, a szabályozási és intézményi kereteket, valamint a radioaktív hulladékok osztályozásának szabályait. A jelen nemzeti politikában fogalmazódnak meg az üzemanyagciklus zárására, a radioaktív hulladékok kezelésére és a nukleáris létesítmények leszerelésére vonatkozó politikák. Végezetül a nemzeti politika összefoglalja a lakosságnak a döntések meghozatalába történő bekapcsolására vonatkozó követelményeket és módszereket, azaz a nyilvánosság biztosításának politikáját.
+A jelen nemzeti politika legfontosabb elemei a vonatkozó jogszabályokban, a kormányzat elvárásaiban, a hatóságok és az atomenergia alkalmazóinak gyakorlatában korábban is jelen voltak. Fontosságukra való tekintettel, a nemzetközi elvárásoknak és kötelezettségeknek (különösen a 2011/70/Euratom irányelvben foglaltaknak) megfelelően került megalkotásra a nemzeti politika.
 
 2. Alapelvek és kötelezettségek
 
@@ -60,13 +40,13 @@ A kiégett üzemanyag és a radioaktív hulladékok kezelésekor a nemzetközi k
 
 2. Az atomenergia alkalmazása során biztosítani kell a keletkező radioaktív hulladék és a kiégett üzemanyag biztonságos kezelését olyan módon, hogy ne háruljon az elfogadhatónál súlyosabb teher a jövő generációkra.
 
-3. A magyar államnak kell vállalnia a Magyarországon keletkező kiégett üzemanyag és radioaktív hulladék kezelésével kapcsolatban a végső felelősséget, kivéve a használaton kívüli zárt sugárforrást, ha azt az értékesítőhöz vagy a gyártóhoz visszaszállították, valamint a kutatóreaktor kiégett üzemanyagát, ha olyan országba szállították, ahol kutatóreaktorban használatos üzemanyagot értékesítenek vagy gyártanak, figyelembe véve az alkalmazandó nemzetközi megállapodásokat.
+3.[^3] A magyar államnak kell vállalnia a Magyarországon keletkező kiégett üzemanyag és radioaktív hulladék kezelésével kapcsolatban a végső felelősséget, kivéve azon külföldi eredetű használaton kívüli zárt sugárforrásokat (ahol az engedélyes felelőssége olyan intézkedések biztosítása, hogy ezek visszakerüljenek a külföldi értékesítőhöz vagy a gyártóhoz), valamint az oktató- és kutatóreaktor kiégett üzemanyagát, ha olyan országba szállították, ahol ilyen üzemanyagot értékesítenek vagy gyártanak, és azt véglegesen visszafogadják, figyelembe véve az alkalmazandó nemzetközi megállapodásokat.
 
 4. A magyar államnak kell viselnie a végső felelősséget a Magyarországon keletkező kiégett üzemanyagnak és radioaktív hulladéknak feldolgozás vagy újrafeldolgozás céljából Magyarországról az Európai Unió valamely tagállamába vagy harmadik országba történő szállítása esetén is ezen anyagok biztonságos és felelősségteljes végleges elhelyezéséért, a melléktermékként termelődő hulladékot is beleértve.
 
-5. A Magyarországon keletkezett radioaktív hulladékot és a magyarországi besugárzás során keletkezett kiégett üzemanyag feldolgozásából származó nagy aktivitású radioaktív hulladékot alapvetően Magyarországon kell véglegesen elhelyezni, kivéve ha a szállítás időpontjában a végleges elhelyezést vállaló országgal – a 2006/117/Euratom tanácsi irányelv 16. cikk (2) bekezdésével összhangban az Európai Bizottság által meghatározott kritériumok figyelembevételével – hatályba lépett olyan megállapodás, amely szerint a Magyarországon keletkezett radioaktív hulladék az érintett ország radioaktívhulladék-tárolójába szállítható végleges elhelyezés céljából.
+5.[^4] A Magyarországon keletkezett radioaktív hulladékot és a magyarországi besugárzás során keletkezett kiégett üzemanyag feldolgozásából származó nagy aktivitású radioaktív hulladékot alapvetően Magyarországon kell véglegesen elhelyezni, kivéve ha a szállítás időpontjában a végleges elhelyezést vállaló országgal – a radioaktív hulladékok és a kiégett fűtőelemek szállításának felügyeletéről és ellenőrzéséről szóló, 2006. november 20-i 2006/117/Euratom tanácsi irányelv 16. cikk (2) bekezdésével összhangban az Európai Bizottság által meghatározott kritériumok figyelembevételével – hatályban van olyan megállapodás, amely szerint a Magyarországon keletkezett radioaktív hulladék az érintett ország radioaktívhulladék-tárolójába szállítható végleges elhelyezés céljából.
 
-6. Rendszeresen felül kell vizsgálni és korszerűsíteni kell az atomenergia alkalmazásának biztonsági követelményeit a tudomány eredményeinek és a nemzetközi tapasztalatoknak a figyelembevételével. Az atomenergia békés célú, biztonságos alkalmazását Magyarország nemzetközi szerződések keretében vállalt együttműködéssel is elősegíti.
+6.[^5] Rendszeresen felül kell vizsgálni és korszerűsíteni kell az atomenergia alkalmazásának biztonsági követelményeit a tudomány eredményeinek és a nemzetközi tapasztalatoknak a figyelembevételével. Az atomenergia békés célú, biztonságos és védett alkalmazását Magyarország nemzetközi szerződések keretében vállalt együttműködéssel is elősegíti.
 
 7. Az atomenergia biztonságos alkalmazását a tudomány és a technika összehangolt fejlesztésével, a hazai, illetve a nemzetközi tudományos kutatások eredményeinek gyakorlati alkalmazásával, valamint szakemberek képzésével, továbbképzésével kell támogatni.
 
@@ -80,7 +60,7 @@ A kiégett üzemanyag és a radioaktív hulladékok kezelésekor a nemzetközi k
 
 2. A kiégett üzemanyagot és a radioaktív hulladékot biztonságosan kell kezelni hosszú távon is, passzív megoldások alkalmazásával.
 
-3. A biztonság érdekében a nukleáris létesítmények teljes élettartama alatt figyelembe kell venni az emberi teljesítőképesség lehetőségeit és korlátait.
+3.[^6] Az atomenergia alkalmazása során alapvető biztonsági célkitűzés az ember és a környezet védelme az ionizáló sugárzás káros hatásaival szemben.
 
 4. Az atomenergia alkalmazása során biztosítani kell, hogy ne jöhessen létre ellenőrizetlen és szabályozatlan nukleáris láncreakció.
 
@@ -90,27 +70,27 @@ A kiégett üzemanyag és a radioaktív hulladékok kezelésekor a nemzetközi k
 
 7. Az atomenergia alkalmazása során biztosítani kell, hogy a rendkívüli esemény bekövetkezésének kockázata csökkenjen, kialakulása megelőzhető, következménye tervszerűen elhárítható, az esetleg kiszabaduló radioaktív anyag és ionizáló sugárzás káros hatása az ésszerűen elérhető legalacsonyabb szintre csökkenthető legyen.
 
-2.3 A nemzeti rendszer kialakításával kapcsolatos kötelezettségek
+2.3[^7] A nemzeti rendszer kialakításával kapcsolatos kötelezettségek
 
-Az Irányelv 5. cikk (1) bekezdésében előírt kötelezettség szerint „a tagállamok a kiégett fűtőelemek és a radioaktív hulladékok kezelésére vonatkozóan olyan nemzeti jogalkotási, szabályozási és szervezeti rendszert (a továbbiakban: nemzeti rendszer) hoznak létre és tartanak fenn, amely megállapítja a hatásköröket, és rendelkezik az érintett hatáskörrel bíró szervek közötti koordinációról”. Fenti előírásoknak megfelelően a nemzeti rendszerrel kapcsolatos elvárások a következők:
+A 2011/70/Euratom irányelv 5. cikk (1) bekezdésében előírt kötelezettség szerint „a tagállamok a kiégett fűtőelemek és a radioaktív hulladékok kezelésére vonatkozóan olyan nemzeti jogalkotási, szabályozási és szervezeti rendszert (a továbbiakban: nemzeti rendszer) hoznak létre és tartanak fenn, amely megállapítja a hatásköröket, és rendelkezik az érintett hatáskörrel bíró szervek közötti koordinációról”. Fenti előírásoknak megfelelően a nemzeti rendszerrel kapcsolatos elvárások a következők:
 
 1. Nemzeti programot kell készíteni a kiégett üzemanyag és a radioaktív hulladék kezelésére vonatkozó tevékenységek és feladatok végrehajtására az Atomtörvényben előírt módon. Ezzel összefüggésben figyelembe kell venni a kiégett üzemanyag és a radioaktív hulladék keletkezésének és kezelésének valamennyi lépése közötti összefüggéseket. A vonatkozó intézkedéseket a fokozatosság elve alapján – azaz a kiégett üzemanyag és a radioaktív hulladék által jelentett kockázattal arányosan – kell végrehajtani.
 
-2. Hatékony jogi szabályozást kell készíteni és biztosítani kell annak rendszeres felülvizsgálatát. Az atomenergia békés célú felhasználásának biztonságát felügyelő – a hatósági tevékenység végzése során az indokolatlan befolyástól mentes, azaz ténylegesen – független szervet vagy szerveket kell létrehozni és fenntartani. Biztosítani kell, hogy a radioaktív hulladék és a kiégett üzemanyag kezelése megfelelő szerv kerüljön kijelölésre. A kijelölt szervezetek hatáskörét, feladatait, működésük és koordinációjuk módját jogszabályokban kell meghatározni.
+2.[^8] Hatékony jogi szabályozást kell készíteni és biztosítani kell annak rendszeres felülvizsgálatát. Az atomenergia békés célú felhasználásának biztonságát és védettségét felügyelő – a hatósági tevékenység végzése során az indokolatlan befolyástól mentes, azaz ténylegesen – független szervet vagy szerveket kell létrehozni és fenntartani. Biztosítani kell, hogy a radioaktív hulladék és a kiégett üzemanyag kezelése megfelelő szerv kerüljön kijelölésre. A kijelölt szervezetek hatáskörét, feladatait, működésük és koordinációjuk módját jogszabályokban kell meghatározni.
 
-3. Engedélyezési rendszert kell kialakítani a kiégett fűtőelemek és a radioaktív hulladékok kezelésére szolgáló tevékenységek, létesítmények vagy mindkettő vonatkozásában, beleértve a kiégett fűtőelemek vagy radioaktív hulladékok kezelésére szolgáló, nem engedélyezett tevékenységeknek, vagy a kiégett fűtőelemek vagy radioaktív hulladékok kezelésére szolgáló, engedéllyel nem rendelkező létesítmények üzemeltetésének vagy mindkettőnek a tilalmát, továbbá a tevékenység vagy a létesítmény, vagy mindkettő további irányítására vonatkozó feltételek megállapítását is.
+3.[^9] Engedélyezési rendszert kell kialakítani a kiégett üzemanyag és a radioaktív hulladékok kezelésére szolgáló tevékenységek, létesítmények vagy mindkettő vonatkozásában. Ebbe az engedélyezési rendszerbe bele kell érteni a kiégett üzemanyag vagy radioaktív hulladékok kezelésére szolgáló, nem engedélyezett tevékenységeknek, vagy a kiégett üzemanyag vagy radioaktív hulladékok kezelésére szolgáló, engedéllyel nem rendelkező létesítmények üzemeltetésének vagy mindkettőnek a tilalmát, továbbá a tevékenység vagy a létesítmény, vagy mindkettő további irányítására vonatkozó feltételek megállapítását is.
 
 4. Rendelkezni kell a végrehajtási intézkedésekről, beleértve a tevékenység felfüggesztését és az engedély módosítását, visszavonását vagy érvénytelenítését is, adott esetben a biztonságosabb körülményeket eredményező alternatív megoldásokra vonatkozó követelményekkel együtt.
 
-5. Megfelelő, tényeken alapuló és dokumentált ellenőrzési, irányítási, döntéshozatali, dokumentációs, jelentéstételi és hatósági rendszert kell kialakítani és fenntartani a radioaktív hulladékok és a kiégett fűtőelemek kezelésére szolgáló tevékenységek, illetve létesítmények vonatkozásában, beleértve azok valamennyi működési szakaszát.
+5.[^10] Megfelelő, tényeken alapuló és dokumentált ellenőrzési, irányítási, döntéshozatali, dokumentációs, jelentéstételi és hatósági rendszert kell kialakítani és fenntartani a radioaktív hulladékok és a kiégett üzemanyag kezelésére szolgáló tevékenységek, illetve létesítmények vonatkozásában, beleértve azok valamennyi működési szakaszát.
 
 6. Alapvető biztonsági célkitűzés az ember és a környezet védelme az ionizáló sugárzás káros hatásaival szemben, ennek elérése érdekében a biztonságért való elsődleges felelősség azt a személyt vagy szervezetet terheli, aki vagy amely a sugárzásból eredő kockázat növekedését okozó létesítmény vagy tevékenység engedélyese.
 
-7. Az alapvető biztonsági célkitűzés iránt elkötelezett vezetést és hatékony irányítási rendszert hoznak létre és tartanak fenn mind a biztonságot felügyelő szervek, mind a kockázattal járó tevékenységet végző szervezetek.
+7.[^11] Az alapvető biztonsági célkitűzés és a védettségi követelmények iránt elkötelezett vezetést és hatékony irányítási rendszert hoznak létre és tartanak fenn mind a biztonságot és védettséget felügyelő szervek, mind a kockázattal járó tevékenységet végző szervezetek.
 
-8. Az engedélyesnek és a hatáskörrel rendelkező szerveknek fel kell készülniük nukleáris vagy sugárbiztonságot sértő esemény bekövetkezésére és a szükséges intézkedések végrehajtására.
+8.[^12] Az engedélyesnek és a hatáskörrel rendelkező szerveknek fel kell készülniük nukleáris vagy sugárbiztonságot sértő esemény bekövetkezésére és a szükséges intézkedések végrehajtására (beleértve a hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos intézkedéseket is).
 
-9. A kiégett fűtőelemekre és a radioaktív hulladékokra vonatkozóan az elsődleges felelősség azt terheli, akinél azok keletkeznek, vagy meghatározott körülmények esetén az engedményest, akire a hatáskörrel rendelkező szervek ezt a felelősséget átruházták.
+9.[^13] A kiégett üzemanyagra és a radioaktív hulladékokra vonatkozóan az elsődleges felelősség azt terheli, akinél azok keletkeznek, vagy meghatározott körülmények esetén az engedményest, akire a hatáskörrel rendelkező szervek ezt a felelősséget átruházták.
 
 10. A kiégett üzemanyag és a radioaktív hulladék kezelésének költségeit annak kell viselnie, akinél ezek az anyagok keletkeznek.
 
@@ -118,19 +98,19 @@ Az Irányelv 5. cikk (1) bekezdésében előírt kötelezettség szerint „a ta
 
 12. A radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésének költsége az engedélyest, költségvetési intézmény esetén a központi költségvetést terheli.
 
-13. Az atomenergia alkalmazóinak az Atomtörvényben meghatározott köre – az abban előírt módon – egy elkülönített állami pénzalapba (Központi Nukleáris Pénzügyi Alap, a továbbiakban: Alap) befizeti a kiégett üzemanyag- és a radioaktívhulladék-kezelési, illetve a nukleáris létesítmény leszerelési költségeinek fedezetét.
+13.[^14] Az atomenergia alkalmazóinak az Atomtörvényben meghatározott köre – az abban előírt módon – elkülönített állami pénzalapba, a Központi Nukleáris Pénzügyi Alapba továbbiakban: Alap) befizeti a kiégett üzemanyag- és a radioaktívhulladék-kezelési, illetve a nukleáris létesítmény leszerelési költségeinek fedezetét.
 
 14. Az állam köteles az Atomtörvényben előírt módon gondoskodni az Alap értékállóságáról.
 
-15. Az engedélyest terhelik a nukleáris létesítmény biztonságának növeléséhez szükséges kutatási-fejlesztési tevékenység költségei.
+15.[^15] Az engedélyest terhelik a nukleáris létesítmény és a radioaktívhulladék-tároló biztonságának növeléséhez szükséges kutatási-fejlesztési tevékenység költségei.
 
 16. A központi költségvetésből kell fedezni az atomenergia biztonságos alkalmazásának hatósági felügyeletét szolgáló műszaki megalapozó tevékenységek költségét.
 
 17. Gondoskodni kell arról, hogy az atomenergia alkalmazásában szerepet játszó és felelősséggel rendelkező szervek és szervezetek alakítsanak ki a személyzetre vonatkozó megfelelő oktatási és képzési rendszereket.
 
-18. Biztosítani kell, hogy a kiégett fűtőelemek és a radioaktív hulladékok biztonságos kezelésével kapcsolatos információk mindenkinek rendelkezésre álljanak, beleértve annak biztosítását is, hogy a hatóságok a hatáskörükbe tartozó ügyekről tájékoztassák a nyilvánosságot. Az információkat a nemzeti jogszabályoknak és a nemzetközi kötelezettségeknek megfelelően a nyilvánosság rendelkezésére kell bocsátani addig a szintig, ameddig ez nem veszélyezteti a nemzeti jogszabályokban vagy a nemzetközi kötelezettségvállalásokban elismert egyéb érdekeket, többek között a védettséget.
+18.[^16] Biztosítani kell, hogy a kiégett üzemanyag és a radioaktív hulladékok biztonságos kezelésével kapcsolatos információk mindenkinek rendelkezésre álljanak, beleértve annak biztosítását is, hogy a hatóságok a hatáskörükbe tartozó ügyekről tájékoztassák a nyilvánosságot. Az információkat a nemzeti jogszabályoknak és a nemzetközi kötelezettségeknek megfelelően a nyilvánosság rendelkezésére kell bocsátani addig a szintig, ameddig ez nem veszélyezteti a nemzeti jogszabályokban vagy a nemzetközi kötelezettségvállalásokban elismert egyéb érdekeket, többek között a védettséget.
 
-19. Biztosítani kell a nemzeti jogszabályokkal és a nemzetközi kötelezettségekkel összhangban, hogy a lakosság megkapja a megfelelő lehetőségeket a kiégett fűtőelemek és a radioaktív hulladékok kezelésével kapcsolatos döntéshozatali folyamatban való tényleges részvételre.
+19.[^17] Biztosítani kell a nemzeti jogszabályokkal és a nemzetközi kötelezettségekkel összhangban, hogy a lakosság megkapja a megfelelő lehetőségeket a kiégett üzemanyag és a radioaktív hulladékok kezelésével kapcsolatos döntéshozatali folyamatban való tényleges részvételre.
 
 20. Az atomenergia alkalmazásával összefüggő alapvető, tudományos, technikai és egyéb ismereteket – a kockázatokra is kiterjedően – oktatni, valamint a közszolgálati hírközlés, a közművelődés útján az állampolgárokkal rendszeresen ismertetni kell.
 
@@ -142,19 +122,19 @@ Az Irányelv 5. cikk (1) bekezdésében előírt kötelezettség szerint „a ta
 
 3. Jelenlegi helyzet
 
-3.1 Radioaktív anyagok felhasználása és az atomenergia alkalmazása Magyarországon
+3.1[^18] Radioaktív anyagok felhasználása és az atomenergia alkalmazása Magyarországon
 
-Magyarországon a radioaktív anyagok és az ionizáló sugárzások alkalmazása a múlt század közepétől kezdve széleskörűen elterjedt a gyógyászatban diagnosztikai és daganatterápiás célokra. A modern képalkotó eszközök és a sugárzással sterilizált, egyszer használatos orvosi eszközök ma már nélkülözhetetlen módszerei és eszközei a korszerű orvosi gyakorlatnak. Az ionizáló sugárzást eredményesen használják káros mikroorganizmusok elpusztítására az élelmiszerek csomagolóanyagainál és a távoli, trópusi országokból importált fűszereknél. Az ipari radiográfia mindennapos eljárássá vált a gépek és alkatrészek anyaghibáinak feltárásában, az anyaghibákból eredő üzemzavarok megelőzésében és a gyártási folyamatok minőségellenőrzésében. Magyarországon közel 400 engedélyes alkalmaz radioaktív sugárforrásokat és közel 50 engedélyes alkalmaz nukleáris anyagokat.
+3.1.1. Magyarországon a radioaktív anyagok és az ionizáló sugárzások orvosdiagnosztikai és daganatterápiás célú alkalmazása a múlt század közepétől kezdve széleskörűen elterjedt a gyógyászatban. A modern képalkotó eszközök és a sugárzással sterilizált, egyszer használatos orvosi eszközök ma már nélkülözhetetlen módszerei és eszközei a korszerű orvosi gyakorlatnak. Az ionizáló sugárzást eredményesen használják káros mikroorganizmusok elpusztítására az élelmiszerek csomagolóanyagainál és a távoli, trópusi országokból importált fűszereknél. Az ipari radiográfia mindennapos eljárássá vált a gépek és alkatrészek anyaghibáinak feltárásában, az anyaghibákból eredő üzemzavarok megelőzésében és a gyártási folyamatok minőségellenőrzésében. Magyarországon közel 400 engedélyes alkalmaz radioaktív sugárforrásokat és közel 50 engedélyes alkalmaz nukleáris anyagokat. Az atomerőmű által termelt hőenergia távhő formájában ingatlanok fűtésére és meleg víz ellátására is alkalmazható.
 
-Az atomenergia alkalmazásának legismertebb és legjelentősebb területe a villamosenergiaδtermelés. A négy, egyenként 500 MW névleges villamos teljesítményű blokkból álló Paksi Atomerőmű meghatározó szereplője a hazai villamosenergia-termelésnek. A 2014. évi II. törvény értelmében a paksi telephelyen új atomerőművi blokkok létesülnek, így az atomenergiának a hazai villamosenergia-termelésben meglévő részaránya hosszú távon fennmarad.
+3.1.2. Az atomenergia alkalmazásának legismertebb és legjelentősebb területe a villamosenergia-termelés. A négy, egyenként 500 MW névleges villamos teljesítményű blokkból álló Paksi Atomerőmű meghatározó szereplője a hazai villamosenergia-termelésnek. A 2014. évi II. törvény értelmében a paksi telephelyen új atomerőművi blokkok létesülnek, így az atomenergiának a hazai villamosenergia-termelésben meglévő részaránya hosszú távon fennmarad. Az atomenergia meghatározó szerepet játszik már ma is és fog játszani hosszú távon is Magyarország klímavédelmi célkitűzéseinek teljesítésében, a villamosenergia-szektor üvegházhatásúgáz-kibocsátásának lehető legalacsonyabb szinten tartásában.
 
-Fontos kutatási és oktatási célokat szolgál a Magyar Tudományos Akadémia Energiatudományi Kutatóközpontjának Kutatóreaktora (a továbbiakban: Budapesti Kutatóreaktor), valamint a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézetének Oktatóreaktora (a továbbiakban: Oktatóreaktor). A Budapesti Kutatóreaktorban jelentős a gyógyászatban és az iparban használt radioaktív izotópok gyártása is.
+3.1.3. Fontos kutatási és oktatási célokat szolgál az Energiatudományi Kutatóközpont Kutatóreaktora (a továbbiakban: Budapesti Kutatóreaktor), valamint a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézetének Oktatóreaktora (a továbbiakban: Oktatóreaktor). A Budapesti Kutatóreaktorban jelentős tevékenység a gyógyászatban és az iparban használt radioaktív izotópok gyártása.
 
-3.2 Szabályozási és intézményi keretek
+3.2[^19] Szabályozási és intézményi keretek
 
-Az Atomtörvény rendelkezéseinek megfelelően az atomenergia biztonságos alkalmazásának irányítása és felügyelete – a nukleárisbaleset-elhárítást beleértve – a Kormány feladata. A fentieknek megfelelő kormányzati feladatok végrehajtásáról a Kormány egy kormányhivatal, az atomenergia-felügyeleti szerv és az illetékes miniszterek útján gondoskodik. Az atomenergia-felügyeleti szerv felügyeletét az Atomtörvénynek megfelelően a miniszter látja el. Az Atomtörvény részletesen meghatározza az atomenergia biztonságos alkalmazása érdekében a felelősségi köröket.
+3.2.1. Az Atomtörvény rendelkezéseinek megfelelően az atomenergia biztonságos alkalmazásának irányítása és felügyelete – a nukleárisbaleset-elhárítást beleértve – a Kormány feladata. A fentieknek megfelelő kormányzati feladatok végrehajtásáról a Kormány egy kormányzati főhivatal (az atomenergia-felügyeleti szerv) és az illetékes miniszterek útján gondoskodik. Az atomenergia-felügyeleti szerv felügyeletét az Atomtörvénynek megfelelően az energiapolitikáért felelős miniszter látja el. Az Atomtörvény részletesen meghatározza az atomenergia biztonságos alkalmazása érdekében a felelősségi köröket.
 
-Az atomenergia-felügyeleti szerv tevékenységi körében az Atomtörvényben meghatározott feladatok közül a nemzeti politika szempontjából alapvetően az alábbi hatáskörök emelendők ki:
+3.2.2. Az atomenergia-felügyeleti szerv tevékenységi körében az Atomtörvényben meghatározott feladatok közül a nemzeti politika szempontjából alapvetően az alábbi hatáskörök emelendők ki:
 
 1. a nukleáris létesítmények és radioaktívhulladék-tárolók biztonságával kapcsolatos engedélyezési, ellenőrzési, értékelési, érvényesítési feladatok;
 
@@ -168,27 +148,61 @@ Az atomenergia-felügyeleti szerv tevékenységi körében az Atomtörvényben m
 
 6. radioaktív hulladékok és kiégett fűtőelemek országhatáron át történő szállításának engedélyezése és a szállítás engedélyezéséhez való hozzájárulás;
 
-7. a nukleáris anyagok – nemzetközi szerződésekben rögzített előírásokkal összhangban lévő – központi nyilvántartása és ellenőrzése;
+7. a tervezési alapfenyegetettség megállapítása és felülvizsgálata, valamint az atomenergia alkalmazása körében a fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése és ellenőrzése;
 
-8. a radioaktív anyagok központi nyilvántartása;
+8. a nukleáris anyagok – nemzetközi szerződésekben rögzített előírásokkal összhangban lévő – központi nyilvántartása és ellenőrzése;
 
-9. radioaktívhulladék-tároló telephelye kiválasztásának, létesítésének, üzemeltetésének, átalakításának és lezárásának engedélyezése, ellenőrzése.
+9. a radioaktív anyagok központi nyilvántartása;
 
-Az Atomtörvény részletesen meghatározza az egészségügyért felelős miniszter hatáskörét és feladatait is. Ezeket a feladatokat az egészségügyért felelős miniszter jogszabályban meghatározott szerv útján látja el. A nemzeti politika szempontjából alapvetően az alábbi hatáskörök emelendők ki:
+10. radioaktívhulladék-tároló telephelye kiválasztásának, létesítésének, üzemeltetésének, átalakításának és lezárásának engedélyezése, ellenőrzése;
 
-1. a radioaktív anyagok tulajdonjoga megszerzésének, előállításának, termelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezése és ellenőrzése;
+11. a radioaktív anyagok tulajdonjoga megszerzésének, előállításának, termelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezése és ellenőrzése;
 
-2. a fent felsorolt tevékenységeket szolgáló, nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, javításának, megszüntetésének engedélyezése és ellenőrzése;
+12. a fent felsorolt tevékenységeket szolgáló, nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, javításának, megszüntetésének engedélyezése és ellenőrzése;
 
-3. az atomenergia alkalmazását szolgáló létesítményben működő sugárvédelmi szolgálat szervezetének és működésének felügyelete;
+13. a nukleáris üzemanyagciklussal összefüggő távlati tervezésre, kutatás-fejlesztési, gyártási és export-import tevékenységekre, valamint telephelyekre és azokhoz kapcsolódó helyszínekre vonatkozó adatok központi nyilvántartása és ellenőrzése;
 
-4. a radioaktív anyagokkal és az ionizáló sugárzást létrehozó berendezésekkel kapcsolatos közegészségügyi, sugár-egészségügyi feladatok, valamint a munkahelyi és környezeti sugárvédelmi normák és az atomenergia alkalmazása körében a munkavállalókra vonatkozó előírások érvényesítésének ellenőrzése.
+14. a radioaktív anyagot nem tartalmazó, ionizáló sugárzást létrehozó berendezés előállításának, forgalomba hozatalának, üzemeltetésének, átalakításának, karbantartásának engedélyezése, az üzemeltetés megszüntetéséről szóló bejelentés tudomásulvétele;
 
-Az Atomtörvény kijelöli a rendészetért, a katasztrófák elleni védekezésért, a földügyért, az építésügyért, a környezetvédelemért, a honvédelemért és az oktatásért felelős miniszterek feladatait is, akik a kapott felhatalmazás alapján kiadták, illetve kiadják a végrehajtási rendeleteket.
+15. az előző pont szerinti berendezés előállítását, üzemeltetését szolgáló nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
+
+16. nukleáris anyag, berendezés és létesítmény tulajdonjoga megszerzésére, átadására, a használat bármilyen jogcímen való átengedésére irányuló bejelentés tudomásulvétele;
+
+17. az ionizáló sugárzás elleni védőeszköz forgalomba hozatalának engedélyezése és sugárvédelmi minősítése;
+
+18. a kötelezően mérendő adatok meghatározásával és a jogszabályban meghatározott, környezeti sugárzást mérő szervek tevékenységének összehangolásával az országos sugárzási helyzetre vonatkozó adatok központi gyűjtése, feldolgozása, nyilvántartása és értékelése;
+
+19. a nukleáris és más radioaktív anyagok alkalmazásának befejezését követően a létesítmény, terület, helyszín inaktívvá nyilvánítása;
+
+20. a sugárterhelésnek kitett munkavállalók normál és rendkívüli személyi sugárvédelmi ellenőrzési kötelezettség megállapítása, a sugárterhelésnek kitett munkavállalók személyi dózisainak nyilvántartása;
+
+21. a lakossági sugárterhelésre vonatkozó dóziskorlátok és dózismegszorítások megállapítása, foglalkozási sugárterhelésre vonatkozó dóziskorlátok megállapítása, a dózismegszorítások jóváhagyása;
+
+22. az engedélyesnél működtetett sugárvédelmi szolgálat szervezetének és működésének felügyelete;
+
+23. az atomenergia alkalmazása körében a munkavállalókra érvényes sugárvédelmi előírások megtartásának ellenőrzése;
+
+24. a nukleáris és más radioaktív anyagok sugárvédelmével összefüggő rendkívüli események és nukleáris veszélyhelyzetek kezelési tervének jóváhagyása.
+
+3.2.3. Az Atomtörvény részletesen meghatározza az egészségügyért felelős miniszter hatáskörét és feladatait is. Ezeket a feladatokat az egészségügyért felelős miniszter jogszabályban meghatározott szerv útján látja el. A nemzeti politika szempontjából alapvetően az alábbi hatáskörök emelendők ki:
+
+1. az atomenergia alkalmazása körében a munkavállalókra érvényes sugáregészségügyi, munkavégzési, munkaköri alkalmassági szabályok ellenőrzése;
+
+2. az egészségügyi ágazat radiológiai mérő és adatszolgáltató hálózata működtetése;
+
+3. a sugáregészségügyi készenléti szolgálat létesítése és fenntartása;
+
+4. a sugársérültek vagy arra gyanús személyek egészségügyi ellátása;
+
+5. a nukleáris veszélyhelyzetben való közreműködés a döntések sugáregészségügyi megalapozásában;
+
+6. az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének felügyelete.
+
+3.2.4. Az Atomtörvény kijelöli a rendészetért, a katasztrófák elleni védekezésért, a földügyért, az építésügyért, a környezetvédelemért, a honvédelemért és az oktatásért felelős miniszterek feladatait is, akik a kapott felhatalmazás alapján kiadták, illetve kiadják a végrehajtási rendeleteket.
 
 Az Atomtörvény felhatalmazása alapján a Korm. rendelet által a radioaktív hulladékokkal és a kiégett üzemanyaggal kapcsolatos egyes feladatok ellátására kijelölt szerv a Radioaktív Hulladékokat Kezelő Kft.
 
-A Radioaktív Hulladékokat Kezelő Kft. az Atomtörvényben és a Korm. rendeletben előírt alapfeladatai ellátása érdekében
+3.2.5. A Radioaktív Hulladékokat Kezelő Kft. az Atomtörvényben és a Korm. rendeletben előírt alapfeladatai ellátása érdekében
 
 1. a tervezési és beszámolási feladatok körében:
 
@@ -204,7 +218,7 @@ A Radioaktív Hulladékokat Kezelő Kft. az Atomtörvényben és a Korm. rendele
 
 2. a létesítéssel kapcsolatos feladatok körében gondoskodik:
 
-2.1. a kis és közepes aktivitású radioaktív hulladék végleges elhelyezésére szolgáló tároló létesítésének előkészítéséről és megvalósításáról,
+2.1. a kis- és közepes aktivitású radioaktív hulladék végleges elhelyezésére szolgáló tároló létesítésének előkészítéséről és megvalósításáról,
 
 2.2. a kiégett üzemanyag átmeneti elhelyezésére szolgáló tároló létesítéséről és továbbépítéséről,
 
@@ -214,9 +228,9 @@ A Radioaktív Hulladékokat Kezelő Kft. az Atomtörvényben és a Korm. rendele
 
 3. a radioaktív hulladék és a kiégett üzemanyag tárolásával összefüggő feladatok körében gondoskodik:
 
-3.1. a kis és közepes aktivitású radioaktív hulladék végleges elhelyezésére szolgáló tároló működtetéséről, őrzéséről és lezárásáról,
+3.1. a kis- és közepes aktivitású radioaktív hulladék végleges elhelyezésére, illetve átmeneti tárolására szolgáló tároló működtetéséről, őrzéséről és lezárásáról,
 
-3.2. a kiégett üzemanyag átmeneti elhelyezésére szolgáló tároló működtetéséről és őrzéséről,
+3.2. a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény működtetéséről és őrzéséről,
 
 3.3. a nagy aktivitású radioaktív hulladék végleges elhelyezésére szolgáló tároló működtetéséről, őrzéséről és lezárásáról,
 
@@ -230,7 +244,7 @@ A Radioaktív Hulladékokat Kezelő Kft. az Atomtörvényben és a Korm. rendele
 
 4.3. a nukleáris létesítmény lebontásáról, helyszíne helyreállításáról;
 
-5. gondoskodik a nukleárisüzemanyag-ciklus lezárásával kapcsolatos, az előzőekben fel nem sorolt feladatok elvégzéséről.
+5. gondoskodik a nukleáris üzemanyagciklus záró szakaszával kapcsolatos, az előzőekben fel nem sorolt feladatok elvégzéséről.
 
 3.3 A tevékenységek finanszírozása, források
 
@@ -238,7 +252,7 @@ A nemzeti politika (és az azt megvalósító nemzeti program) keretében végze
 
 1. Az Alap terhére kizárólag az Atomtörvényben meghatározott tevékenységeket lehet finanszírozni.
 
-2. Az Alap kezelő szerve a miniszter által vezetett minisztérium, az Alap kezelőjének feladatait az Atomtörvény meghatározza.
+2.[^20] Az Alap kezelő szerve az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter által vezetett minisztérium, az Alap kezelőjének feladatait az Atomtörvény meghatározza.
 
 3. Az Alap kezelő szerve megvizsgálja, és egyetértése esetén az atomenergia-felügyeleti szerv előzetes szakmai értékelésével együtt jóváhagyásra a miniszter elé terjeszti az Alapból finanszírozandó tevékenységek közép- és hosszú távú terveit, és ezek részeként a befizetési kötelezettségekre vonatkozó javaslatokat, továbbá az éves munkaprogramokat és beszámolókat.
 
@@ -246,45 +260,45 @@ A nemzeti politika (és az azt megvalósító nemzeti program) keretében végze
 
 5. Atomerőmű esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze az Atomtörvényben meghatározott feladatok finanszírozását.
 
-6. A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetében az Atomtörvényben nevesített feladatok költségét azok felmerülésekor kell befizetni az Alapba. Az Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
+6.[^21] Az Oktatóreaktor, valamint a Kutatóreaktor esetén az Atomtörvényben nevesített feladatok költségét azok felmerülésekor kell befizetni az Alapba. Az Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
 
-7. Az Alap értékállóságának biztosítása a központi költségvetés feladata az Atomtörvényben meghatározott módon.
+7.[^22] Az Alap értékállóságának biztosítása a központi költségvetés feladata az Atomtörvényben meghatározott módon.
 
-Az új atomerőművi blokkok vonatkozásában a radioaktív hulladékok végleges elhelyezésére, valamint a kiégett üzemanyag átmeneti tárolására és a nukleárisüzemanyag-ciklus lezárására, továbbá a blokkok leszerelésére vonatkozó hosszú távú programokat és költségbecsléseket – a meglévő létesítményeket is figyelembe véve – kell kidolgozni, amely alapján a leendő engedélyesnek az Alapba történő befizetést az első blokk üzembe helyezését követő évben meg kell kezdenie.
+Az új atomerőművi blokkok vonatkozásában a radioaktív hulladékok végleges elhelyezésére, valamint a kiégett üzemanyag átmeneti tárolására és a nukleárisüzemanyag-ciklus lezárására, továbbá a blokkok leszerelésére vonatkozó hosszú távú programokat és költségbecsléseket – a meglévő létesítményeket is figyelembe véve – kell kidolgozni, amely alapján a leendő engedélyesnek az Alapba történő befizetést az első új blokk üzembe helyezését követő évben meg kell kezdenie.
 
-3.4 A radioaktív hulladékok osztályozása
+3.4[^23] A radioaktív hulladékok osztályozása
 
 A radioaktív hulladék további felhasználásra már nem kerülő olyan radioaktív anyag, amely sugárvédelmi jellemzők alapján nem kezelhető közönséges hulladékként.
 
-A kiégett üzemanyag az atomreaktorban besugárzott és a reaktorból véglegesen eltávolított nukleáris üzemanyag, amely az atomreaktoron kívüli újra-feldolgozhatósága miatt nem minősül hulladéknak, vagy ha radioaktív hulladéknak minősül, annak végleges elhelyezéséről gondoskodni kell.
+A kiégett üzemanyag az atomreaktorban besugárzott és a reaktorból véglegesen eltávolított nukleáris üzemanyag, amely az atomreaktoron kívüli újra-feldolgozhatósága miatt nem minősül hulladéknak, vagy ha erre vonatkozó döntés alapján nem kerül újrafeldolgozásra, akkor a továbbiakban radioaktív hulladéknak minősül és a végleges elhelyezéséről gondoskodni kell.
 
-Kis és közepes aktivitású radioaktív hulladéknak minősül az a radioaktív hulladék, amelyben a hőfejlődés az elhelyezés (és tárolás) során elhanyagolható.
+A radioaktív hulladékok osztályozását azok aktivitás tartalma, és a bennük található radionuklidok felezési ideje alapján az alábbiak szerint lehet elvégezni.
 
-Rövid élettartamú az a kis és közepes aktivitású radioaktív hulladék, amelyben a radionuklidok felezési ideje 30 év vagy annál rövidebb, és csak korlátozott koncentrációban tartalmaz hosszú élettartamú alfa-sugárzó radionuklidokat.
+Nagy aktivitású az a radioaktív hulladék, amelynek hőtermelését a tárolás és elhelyezés tervezése és üzemeltetése során figyelembe kell venni.
 
-Hosszú élettartamú az a kis és közepes aktivitású radioaktív hulladék, amelyben a radionuklidok felezési ideje, illetve az alfa-sugárzó radionuklidok koncentrációja meghaladja a rövid élettartamú radioaktív hulladékokra vonatkozó határértékeket.
+Kis- vagy közepes aktivitású radioaktív hulladéknak minősül az a radioaktív hulladék, amely nem tekinthető nagy aktivitású radioaktív hulladéknak.
 
-Nagy aktivitású az a radioaktív hulladék, amelynek hőtermelését a tárolás és elhelyezés tervezése és üzemeltetés során figyelembe kell venni.
+Rövid élettartamú az a kis vagy közepes aktivitású radioaktív hulladék, amely csak korlátozottan tartalmaz 30 évnél hosszabb felezési idejű radionuklidot.
+
+Hosszú élettartamú az a kis vagy közepes aktivitású radioaktív hulladék, amelyben a 30 évnél hosszabb felezési idejű radionuklid koncentrációja meghaladja a rövid élettartamú radioaktív hulladék határértékeit.
+
+Nagyon kis aktivitású az a kis aktivitású rövid élettartamú radioaktív hulladék, amelynél a 30 évnél nem hosszabb felezési idejű (egész évre kerekítve) izotópra a benne lévő aktivitás-koncentráció nem nagyobb a specifikus mentességi aktivitás-koncentráció ötvenszeresénél, valamint 30 évnél hosszabb felezési idejű (egész évre kerekítve) izotópra nem nagyobb az általános mentességi aktivitás-koncentráció értékénél.
 
 A jelen nemzeti politikában a nagy aktivitású, illetve hosszú élettartamú radioaktív hulladékok – mivel azok azonos kezelést igényelnek hosszú távon – a továbbiakban együttesen nagy aktivitású hulladékokként szerepelnek.
 
-A hazai hatályos jogrendszer jelenleg nem tartalmazza a „nagyon kis aktivitású hulladék”- osztályt, ami viszont jelen van a Nemzetközi Atomenergia Ügynökség hulladékkategorizálási rendszerében. A hazai osztályozási rendszer felülvizsgálata során Magyarországon is kívánatos bevezetni a „nagyon kis aktivitású hulladék” kategóriát.
+4.[^24] A nemzeti program mint a nemzeti politika céljainak végrehajtása
 
-4. A nemzeti program mint a nemzeti politika céljainak végrehajtása
+A kiégett üzemanyag és a radioaktív hulladék kezelésének a keletkezéstől a végleges elhelyezésig tartó valamennyi szakaszára és a nukleáris létesítmény leszerelésére kiterjedően a nemzeti politika céljainak végrehajtására a 2011/70/Euratom irányelvben foglaltaknak megfelelően, az Atomtörvényben előírt módon nemzeti programot kell készíteni. A nemzeti program készítésekor kell figyelembe venni a hulladékkezelési programok elemei közötti, a magyarországi sajátosságoknak megfelelő összefüggéseket, végrehajtva a hazai jogszabályokban megfogalmazott követelményeket. Meg kell vizsgálni a kiégett üzemanyag és a radioaktív hulladék keletkezésének és kezelésének valamennyi lépése közötti összefüggéseket, beleértve azok minden lehetséges összetevőjét és azok időbeliségét is.
 
-A kiégett üzemanyag és a radioaktív hulladék kezelésének a keletkezéstől a végleges elhelyezésig tartó valamennyi szakaszára és a nukleáris létesítmény leszerelésére kiterjedően a nemzeti politika céljainak végrehajtására az Irányelvben foglaltaknak megfelelően, az Atomtörvényben előírt módon nemzeti programot kell készíteni. A nemzeti program készítésekor kell figyelembe venni a hulladékkezelési programok elemei közötti, a magyarországi sajátosságoknak megfelelő összefüggéseket, végrehajtva a hazai jogszabályokban megfogalmazott követelményeket. Meg kell vizsgálni a kiégett üzemanyag és a radioaktív hulladék keletkezésének és kezelésének valamennyi lépése közötti összefüggéseket, beleértve azok minden lehetséges összetevőjét és azok időbeliségét is.
+A hulladékok keletkezését illetően hangsúlyosan figyelembe kell venni a nukleáris létesítmények jövőben esedékessé váló leszerelésének hatásait is. A kiégett üzemanyag és a radioaktív hulladék kezelésével kapcsolatos tevékenységek időzítésénél kiemelt figyelmet kell fordítani azok reális kivitelezhetőségére. A kiégett üzemanyag kezelése kapcsán az üzemanyagciklus záró szakaszának peremfeltételei követelik meg a leginkább, hogy a többi hulladékkezelési programelem hozzá igazítható és illeszkedő legyen. A vonatkozó intézkedéseket a fokozatosság elve alapján kell végrehajtani, a közvélemény tájékoztatása mellett.
 
-A hulladékok keletkezését illetően hangsúlyosan figyelembe kell venni a nukleáris létesítmények jövőben esedékessé váló leszerelésének hatásait is. A kiégett üzemanyag és a radioaktív hulladék kezelésével kapcsolatos tevékenységek időzítésénél kiemelt figyelmet kell fordítani azok reális kivitelezhetőségére. A kiégett üzemanyag kezelése kapcsán az üzemanyagciklus zárásának peremfeltételei követelik meg a leginkább, hogy a többi hulladékkezelési programelem hozzá igazítható és illeszkedő legyen. A vonatkozó intézkedéseket a fokozatosság elve alapján kell végrehajtani, a közvélemény tájékoztatása mellett.
-
-Olyan módon kell a nemzeti programot összeállítani, hogy a fentiekben bemutatott összefüggések figyelembevételére reális lehetőség kínálkozzon. Az teszi nehézzé a hulladékkezelési program elemei közötti keresztkapcsolatok figyelembevételének és a fokozatosság elvének egyidejű alkalmazását, hogy a peremfeltételek lassan bár, de csaknem folyamatosan változnak.
+A nemzeti politika felülvizsgálata során is törekedni kell arra, hogy a fentiekben bemutatott összefüggések figyelembevételére reális lehetőség kínálkozzon. Az teszi nehézzé a nemzeti program elemei közötti keresztkapcsolatok figyelembevételének és a fokozatosság elvének egyidejű alkalmazását, hogy a peremfeltételek lassan bár, de csaknem folyamatosan változnak.
 
 A nemzeti programot a „mérlegelve haladj előre” – a hulladékkezelésben érdekelt szervezetek körében angolul a „do and see” elnevezésű – elv alkalmazásával célszerű kialakítani. Ez az elv annak figyelembevételét jelenti, hogy minden folyamat vagy program egymást követő olyan fázisokat tartalmazhat, amelyeknek határánál elágazási csomópontok lehetnek. E csomópontoknál – megfelelő mérlegelések eredményeként – meg kell hozni a nemzeti programot érintő döntéseket. Ez az elv egyszerre jelenti a cselekvés (előrehaladás) és a megfontoltság (mérlegelés) követelményét.
 
 Az előrehaladás a Radioaktív Hulladékokat Kezelő Kft. által készített, közép- és hosszú távú tervekben rögzített referencia-forgatókönyvek alapján történik. E tervek az egyes programelemek adott peremfeltételek melletti legvalószínűbb megvalósulását mutatják, és a költségbecslések alapját képezik. A programelemeket meghatározó peremfeltételekben jelentős változást jelent a paksi telephelyen létesülő új atomerőművi blokkok kiégett üzemanyagának és radioaktív hulladékainak figyelembevétele mennyiségi és időütemezési szempontból egyaránt. A kiégett üzemanyag és a radioaktív hulladék kezelésére vonatkozó nemzeti programban a „mérlegelve haladj előre” elvnek megfelelően minden programelemnél meg kell jeleníteni azokat a döntési csomópontokat, amelyek lehetővé teszik az új atomerőművi blokkokban képződő kiégett üzemanyag és radioaktív hulladék kezelésének figyelembevételét.
 
-A nemzeti program a „mérlegelve haladj előre” elv alapján meghozott döntésekkel folyamatosan valósítja meg a nemzeti politikában meghatározott követelményeket a döntéshozatal nyíltságának szem előtt tartásával, biztosítva a program maximális rugalmasságát.
-
-Úgy kell kijelölni a programelemek tartalmát (az üzemanyagciklus lezárásának, a radioaktív hulladékok kezelésének és elhelyezésének, valamint a nukleáris létesítmények leszerelésének politikáját) és azok ütemezését, hogy azok változtatására folyamatosan alkalom nyíljon még lehetőleg hosszú ideig. Ezt segíti elő a „mérlegelve haladj előre” elvet megvalósító lépcsőzetes döntéshozatali folyamat alkalmazása. A biztonsági követelmények teljes mértékű érvényesítése mellett így lehetőség van a nemzeti program végrehajtása során szerzett ismereteknek és tapasztalatoknak, valamint a műszaki fejlődés eredményeinek figyelembevételére. A „mérlegelve haladj előre” elv alkalmazása a nemzeti program rugalmasságához vezet. Ez a rugalmasság nem tartható fenn a hulladékkezelési programelemek mindegyikében a nemzeti program végéig, törekedni kell azonban arra, hogy a rugalmas szakasz a lehető leghosszabb legyen. Természetesen a programelemek kidolgozásakor azok biztonsága és megvalósíthatósága alapvető szempont, ugyanakkor figyelemmel kell lenni kialakításukkor a gazdaságossági szempontokra is.
+A nemzeti program felülvizsgálatakor úgy kell kijelölni a programelemek tartalmát (az üzemanyagciklus záró szakaszának, a radioaktív hulladékok kezelésének és elhelyezésének, valamint a nukleáris létesítmények leszerelésének politikáját) és azok ütemezését, hogy azok változtatására folyamatosan alkalom nyíljon még lehetőleg hosszú ideig. Ezt segíti elő a „mérlegelve haladj előre” elvet megvalósító lépcsőzetes döntéshozatali folyamat alkalmazása. A biztonsági követelmények teljes mértékű érvényesítése mellett így lehetőség van a nemzeti program végrehajtása során szerzett ismereteknek és tapasztalatoknak, valamint a műszaki fejlődés eredményeinek figyelembevételére. A „mérlegelve haladj előre” elv alkalmazása a nemzeti program rugalmasságához vezet. Ez a rugalmasság nem tartható fenn a hulladékkezelési programelemek mindegyikében a nemzeti program végéig, törekedni kell azonban arra, hogy a rugalmas szakasz a lehető leghosszabb legyen. Természetesen a programelemek kidolgozásakor azok biztonsága és megvalósíthatósága alapvető szempont, ugyanakkor figyelemmel kell lenni kialakításukkor a gazdaságossági szempontokra is.
 
 5. A nemzeti program peremfeltételei
 
@@ -292,101 +306,99 @@ A nemzeti program peremfeltételei erősen függnek a nemzetközi műszaki tudom
 
 5.1 A kiégett üzemanyag forrása, kezelése, az üzemanyagciklus lezárására vonatkozó politika meghatározása
 
-5.1.1 A kiégett üzemanyag forrása, kezelése
+5.1.1[^25] A kiégett üzemanyag forrása, kezelése
 
-Magyarországon kiégett üzemanyag a Paksi Atomerőmű reaktoraiban zajló energiatermelés következtében, valamint a költségvetési intézmények által üzemeltetett nukleáris létesítményekben, így az Oktatóreaktor és a Budapesti Kutatóreaktor üzemeltetése során keletkezik. A jövőben a kiégett üzemanyag mennyiségének növekedéséhez fog hozzájárulni a paksi telephelyen létesülő két új atomerőművi blokk is. A nukleáris üzemanyag kiégésére az atomreaktorban zajló láncreakció következtében kerül sor. Ezt követően az üzemanyagot a reaktorból kiemelik, mert az további energiatermelésre (az energetikai reaktorok esetében), illetve felhasználásra (oktató- és kutatóreaktorok esetében) abban a formában már alkalmatlan.
+Magyarországon kiégett üzemanyag a Paksi Atomerőmű reaktoraiban zajló energiatermelés következtében, valamint a költségvetési intézmények által üzemeltetett nukleáris létesítményekben, így az Oktatóreaktor és a Budapesti Kutatóreaktor üzemeltetése során keletkezik. A jövőben a kiégett üzemanyag mennyiségének növekedéséhez fog hozzájárulni a paksi telephelyen létesülő két új atomerőművi blokk is. A nukleáris üzemanyag kiégésére az atomreaktorban zajló maghasadásos láncreakció következtében kerül sor. Ezt követően az üzemanyagot a reaktorból kiemelik, mert az további energiatermelésre (az energetikai reaktorok esetében), illetve felhasználásra (oktató- és kutatóreaktorok esetében) abban a formában már alkalmatlan.
 
 Az energetikai reaktorokban kiégett üzemanyag, miután eltávolítják a reaktorból, több évnyi hűtést igényel, ami a reaktorok mellett elhelyezett pihentető medencékben, víz alatt történik. Ez után kerül sor a kiégett üzemanyag további hűtését biztosító átmeneti tárolására, ami a nemzetközi példák alapján megvalósulhat vizes és száraz tároló-létesítményekben.
 
-Az üzemanyagciklus zárása kapcsán ma alapvetően két irányvonal létezik: a nyílt üzemanyagciklus, illetve az újrafeldolgozás (reprocesszálás). Nyílt üzemanyagciklus esetében a kiégett üzemanyag további feldolgozás nélkül (közvetlenül) kerül végleges elhelyezésre, egy erre a célra kialakított mélységi geológiai tárolóban. Az újrafeldolgozás esetében a kiégett üzemanyag feldolgozásra kerül, amelynek során a további energiatermelésre alkalmas urán és plutónium izotópokat elválasztják, és a feldolgozás melléktermékeként nagy aktivitású és hosszú élettartamú hulladék marad vissza, ami azonban jelentősen kisebb térfogatú, mint a feldolgozás előtti kiégett üzemanyag. A hulladékot a kiégett fűtőelemekhez hasonlóan, mélységi geológiai tárolóban kell véglegesen elhelyezni, ugyanakkor kiemelendő, hogy a hulladékcsomag izotóp-összetétele, hulladékformája jelentősen eltér a kiégett üzemanyagétól, így a feldolgozott hulladék tárolására létesített, mélységi geológiai tárolóra vonatkozó követelmények enyhébbek, a tároló mérete számottevően kisebb lehet. Az újrafeldolgozás során elválasztott plutóniumból és uránból újra fűtőelemeket lehet előállítani (újrafeldolgozott urán-, illetve plutóniumot is tartalmazó „mixed oxide”, azaz kevertoxid vagy MOX-üzemanyag), amelyek egyszeri újrahasznosítása energetikai reaktorokban megtörténhet. Ekkor beszélünk részlegesen zárt üzemanyagciklusról. Az újrafeldolgozás megvalósulhat az urán és plutónium újrahasznosítása nélkül is, de ebben az esetben az újrafeldolgozást végző országgal és az Európai Bizottsággal meg kell állapodni a hasadóanyagok értékesítésének módjáról.
+Az üzemanyagciklus záró szakasza kapcsán ma alapvetően két irányvonal létezik: a nyílt üzemanyagciklus, illetve a zárt üzemanyagciklus (az üzemanyag újrafeldolgozása, reprocesszálást alkalmazva). Nyílt üzemanyagciklus esetében a kiégett üzemanyag további feldolgozás nélkül (közvetlenül) kerül végleges elhelyezésre, egy erre a célra kialakított mélységi geológiai tárolóban. A zárt üzemanyagciklus esetén sor kerül a kiégett üzemanyag feldolgozására, amelynek során a további energiatermelésre alkalmas urán és plutónium izotópokat elválasztják, és a feldolgozás melléktermékeként nagy aktivitású hulladék marad vissza, ami azonban jelentősen kisebb térfogatú, mint a feldolgozás előtti kiégett üzemanyag. A hulladékot a kiégett fűtőelemekhez hasonlóan, mélységi geológiai tárolóban kell véglegesen elhelyezni, ugyanakkor kiemelendő, hogy a hulladékcsomag izotóp-összetétele, hulladékformája jelentősen eltér a kiégett üzemanyagétól, így a tároló mérete számottevően kisebb lehet. Az újrafeldolgozás során elválasztott plutóniumból és uránból újra fűtőelemeket lehet előállítani (újrafeldolgozott urán, illetve plutóniumot is tartalmazó „mixed oxide”, azaz kevertoxid vagy MOX-üzemanyag), amelyek újrahasznosítása energetikai reaktorokban megtörténhet. Ekkor beszélünk részlegesen zárt üzemanyagciklusról. Az újrafeldolgozás megvalósulhat az urán és plutónium újrahasznosítása nélkül is, de ebben az esetben az újrafeldolgozást végző országgal és az Európai Bizottsággal meg kell állapodni a hasadóanyagok értékesítésének módjáról.
 
-Az újrafeldolgozás komplex technológia, és ebből adódóan csak néhány ország rendelkezik vele. A jelenleg alkalmazott eljárásban az újrafeldolgozásból eredő hasadóanyagot tartalmazó kiégett fűtőelemekből – műszaki nehézségek miatt – már nem nyerik ki ismételten a maradék hasadóanyagot, azaz az üzemanyagciklus jelenleg tulajdonképpen csak részben tekinthető zártnak. Az üzemanyagciklus zárása az urán, plutónium és az egyéb aktinídák teljes újrahasznosításával valósulhat meg. Ez a cél intenzív, ma is folyó kutatások alapján előreláthatólag a 21. század második felében valósulhat meg, valószínűleg negyedik generációs reaktorok alkalmazása révén.
+Az újrafeldolgozás komplex technológia, és ebből adódóan csak néhány ország rendelkezik vele. A jelenleg alkalmazott eljárásban az újrafeldolgozásból eredő hasadóanyagot tartalmazó kiégett fűtőelemekből – műszaki nehézségek miatt – már nem nyerik ki ismételten a maradék hasadóanyagot, azaz az üzemanyagciklus jelenleg tulajdonképpen csak részben tekinthető zártnak. Az üzemanyagciklus teljes zárása az urán, plutónium és az egyéb aktinidák teljes újrahasznosításával valósulhat meg. Ez a cél intenzív, ma is folyó kutatások alapján előreláthatólag a 21. század második felében valósulhat meg, valószínűleg negyedik generációs reaktorok alkalmazása révén.
 
 Figyelemmel arra a körülményre, hogy e terület a reprocesszálási-, hulladékelhelyezési technológiák és a negyedik generációs reaktorok bevezetése szempontjából is kutatás-fejlesztési munka tárgyát képezi számos országban, indokolt a világ ez irányú történéseinek aktív nyomon követése, és lehetőségeink rendszeres időközönként történő újraértékelése környezeti, gazdasági, ellátásbiztonsági és egyéb szempontokból. A nemzeti program szintjén kerül megjelenítésre azon feladat, amely szerint az újrafeldolgozás technológiai, hulladék-elhelyezési, hulladékkezelési és gazdasági vonatkozásainak átfogó vizsgálatát meg kell kezdeni, mivel a további döntések meghozatalához ezen vizsgálatok eredményei szükségesek.
 
-Magyarországon a Paksi Atomerőműben keletkező kiégett üzemanyagot – a pihentető medencékből történő eltávolítás után – egy, az atomerőmű szomszédságában elhelyezkedő, moduláris rendszerű, szükség szerint bővíthető létesítménybe, a Kiégett Kazetták Átmeneti Tárolójába szállítják, ahol azt további ötven évig biztonságosan tárolják. Ennek a létesítménynek az engedélyese a Radioaktív Hulladékokat Kezelő Kft.
+Magyarországon a Paksi Atomerőműben keletkező kiégett üzemanyagot – a pihentető medencékből történő eltávolítás után – egy, az atomerőmű szomszédságában elhelyezkedő, moduláris rendszerű, szükség szerint bővíthető létesítménybe, a Kiégett Kazetták Átmeneti Tárolójába szállítják, ahol azt ötven évig biztonságosan tárolják. Ennek a létesítménynek az engedélyese a Radioaktív Hulladékokat Kezelő Kft.
 
-A kiégett üzemanyag több évtizedes átmeneti tárolása – annak ellenére, hogy az nem tekinthető végleges megoldásnak – fontos eleme az üzemanyagciklus záró szakaszának. Egyrészt azért, mert több évtizedes kutatási és létesítési folyamat szükséges ahhoz, hogy Magyarországon a kiégett üzemanyag vagy az újrafeldolgozás során keletkező nagy aktivitású és hosszú élettartamú hulladék elhelyezéséhez elengedhetetlenül szükséges mélységi geológiai tároló megvalósuljon, amely ezen anyagok kezelésének végleges megoldását jelenti. Másrészt az átmeneti tárolás lehetőséget ad arra, hogy az üzemanyagciklus zárására vonatkozó politikával kapcsolatban a „mérlegelve haladj előre” elv alkalmazása mellett megalapozott döntés szülessen.
+A kiégett üzemanyag több évtizedes átmeneti tárolása – annak ellenére, hogy az nem tekinthető végleges megoldásnak – fontos eleme az üzemanyagciklus záró szakaszának. Egyrészt azért, mert több évtizedes kutatási és létesítési folyamat szükséges ahhoz, hogy Magyarországon a kiégett üzemanyag vagy az újrafeldolgozás során keletkező nagy aktivitású és hosszú élettartamú hulladék elhelyezéséhez elengedhetetlenül szükséges mélységi geológiai tároló megvalósuljon, amely ezen anyagok végleges elhelyezését jelenti. Másrészt az átmeneti tárolás lehetőséget ad arra, hogy az üzemanyagciklus záró szakaszára vonatkozó politikával kapcsolatban a „mérlegelve haladj előre” elv alkalmazása mellett megalapozott döntés szülessen.
 
-A paksi telephelyen létesülő új atomerőművi blokkok üzemeltetése során kiégett üzemanyag keletkezik, amit a reaktorok mellett elhelyezett pihentető medencékben tárolnak majd néhány évig. A 2014. évi II. törvényben kihirdetett Egyezmény 7. cikk 2. pontja lehetőséget ad arra, hogy – a pihentető medencékben történő tárolást követően – az új atomerőművi blokkok üzemeltetése során keletkező kiégett üzemanyagot technológiai tárolásra vagy technológiai tárolásra és újrafeldolgozásra Oroszországba szállítsák. A technológiai tárolás vagy újrafeldolgozás esetén a nagy aktivitású radioaktív hulladék tárolásának időtartama a hivatkozott egyezmény szerint 20 év, a meghosszabbítás lehetőségével.
+A paksi telephelyen létesülő új atomerőművi blokkok üzemeltetése során kiégett üzemanyag fog keletkezni, amit a reaktorok mellett elhelyezett pihentető medencékben tárolnak majd néhány évig. A pihentető medencékből kiszállított kiégett üzemanyag hosszabb távú átmeneti tárolásáról vagy újrafeldolgozásáról ugyanakkor gondoskodni kell. A 2014. évi II. törvényben kihirdetett Egyezmény 7. cikk 2. pontja lehetőséget ad arra, hogy – a pihentető medencékben történő tárolást követően – az új atomerőművi blokkok üzemeltetése során keletkező kiégett üzemanyagot technológiai tárolásra vagy technológiai tárolásra és újrafeldolgozásra Oroszországba szállítsák. A technológiai tárolás vagy újrafeldolgozás esetén a nagy aktivitású radioaktív hulladék tárolásának időtartama a hivatkozott egyezmény szerint 20 év, a meghosszabbítás lehetőségével.
 
-A Budapesti Kutatóreaktor és az Oktatóreaktor kiégett üzemanyagának átmeneti tárolása az előbbi esetében a reaktor környezetében megvalósított medencékben, míg az utóbbi esetében száraz tárolócsövekben műszakilag lehetséges. A fenti létesítményekben, azok tervezett üzemidejének végéig, megoldott a kiégett kazetták átmeneti tárolása.
+A Budapesti Kutatóreaktor és az Oktatóreaktor kiégett üzemanyagának átmeneti tárolása az előbbi esetében a reaktor környezetében megvalósított medencékben, míg az utóbbi esetében száraz tárolócsövekben műszakilag lehetséges. A fenti létesítményekben, azok tervezett üzemidejének végéig, megoldott a kiégett üzemanyag átmeneti tárolása.
 
-5.1.2 Az üzemanyagciklus zárási politikája
+5.1.2[^26] Az üzemanyagciklus záró szakaszára vonatkozó politika
 
-Az üzemanyagciklus zárási politikájának – azaz a kiégett üzemanyag kezelési módjának – kiválasztása a nukleáris energiatermeléssel összefüggő legnagyobb kihívások közé tartozik. Az üzemanyagciklus zárási politikájának kiválasztásakor a 2.1–2.3 pontokban bemutatott alapelvek nagy többségét érvényesíteni kell, továbbá számos, hazánkra jellemző műszaki, gazdasági és lakossági elfogadhatósági szempontot is figyelembe kell venni.
+Az üzemanyagciklus záró szakaszára vonatkozó politika – azaz a kiégett üzemanyag kezelési módjának – kiválasztása a nukleáris energiatermeléssel összefüggő legnagyobb kihívások közé tartozik. Az üzemanyagciklus záró szakaszára vonatkozó politika kiválasztásakor a 2.1–2.3 pontokban bemutatott alapelvek nagy többségét érvényesíteni kell, továbbá számos, hazánkra jellemző műszaki, gazdasági és lakossági elfogadhatósági szempontot is figyelembe kell venni.
 
-Magyarországon a kiégett üzemanyag kezelését illetően még nem született végleges döntés, ezért a kiégett üzemanyag átmeneti tárolása mellett folyamatban van egy mélységi geológiai tároló helyszínének kiválasztása. E tárolóra az 5.1.1 pontban tárgyalt bármelyik üzemanyagciklus-zárási mód bevezetése esetén szükség lesz.
+Jóllehet Magyarországon a kiégett üzemanyag kezelését illetően még nem született végleges döntés, de a kiégett üzemanyag átmeneti tárolása mellett folyamatban van egy mélységi geológiai tároló helyszínének kiválasztása, mivel e tárolóra az 5.1.1 pontban tárgyalt bármelyik üzemanyagciklus záró szakasz opció bevezetése esetén szükség lesz.
 
-Korábban a Paksi Atomerőmű, később a radioaktív hulladék kezeléséért felelős szervezet szakemberei foglalkoztak a hazai cikluszárási alternatíva kiválasztásával. Ezek a vizsgálatok és elemzések többször is ugyanarra az eredményre vezettek. Legutoljára 2009–2010-ben a Radioaktív Hulladékokat Kezelő Kft. szakemberei tekintették át – a Paksi Atomerőmű szakértőinek jelentéseit is felhasználva – a nukleárisüzemanyag-ciklus zárásának lehetséges változatait. Az üzemanyagciklus-zárás politikájának kiválasztásával kapcsolatos vizsgálatok eddigi eredményei szerint a hazai körülményekre tekintettel – négy üzemelő atomerőművi blokkot figyelembe véve – a jelenlegi ismeretek mellett a kiégett üzemanyag közvetlen, hazai elhelyezését lenne célszerű választani. A kiégett üzemanyag hazai, végleges elhelyezését referencia-forgatókönyvként a közép- és hosszú távú tervekben kell meghatározni, az Alapba történő éves befizetések ennek alapján kerülnek meghatározásra. A „mérlegelve haladj előre” elvnek megfelelően az alkalmazandó referencia-forgatókönyvet indokolt esetben, de legalább a nemzeti politika aktualizálási ciklusához igazodóan, ötévente felül kell vizsgálni.
+Korábban a Paksi Atomerőmű, később a radioaktív hulladék kezeléséért felelős szervezet szakemberei foglalkoztak a hazai záró szakasz alternatíva kiválasztásával. Ezek a vizsgálatok és elemzések többször is ugyanarra az eredményre vezettek. Legutoljára 2009–2010-ben a Radioaktív Hulladékokat Kezelő Kft. szakemberei tekintették át – a Paksi Atomerőmű szakértőinek jelentéseit is felhasználva – a nukleáris üzemanyagciklus záró szakaszának lehetséges változatait.
 
-A nemzeti politika szintjén az energetikai reaktorok üzemanyagciklus-zárásával kapcsolatban ma még nem szükséges végső döntést hozni, viszont azt rögzíteni kell, hogy mélységi geológiai tárolóra az országnak az üzemanyagciklus-zárási módtól függetlenül szüksége van, az 5.2.2 pontban részletezettek szerint. Az üzemanyagciklus-zárási politikában a „mérlegelve haladj előre” elv alkalmazása azt jelenti, hogy az üzemanyagciklus zárására a nyílt üzemanyagciklus – azaz az atomerőművi eredetű kiégett üzemanyag közvetlen hazai elhelyezése – mint referencia-forgatókönyv kerül meghatározásra, amely a vonatkozó költségbecslések alapját képezi a jelenleg üzemelő négy blokk esetében. Az üzemanyagciklus zárása területén a hazai és nemzetközi változásokat figyelemmel kell kísérni, szükség esetén be kell azokat építeni a cikluszárási politikába, és ezzel egyidejűleg előre kell haladni a mélységi geológiai tároló telephelyének kiválasztásában.
+A nemzeti politika szintjén az energetikai reaktorok üzemanyagciklus záró szakaszával kapcsolatban ma még nem szükséges végső döntést hozni, viszont azt rögzíteni kell, hogy mélységi geológiai tárolóra az országnak az üzemanyagciklus záró szakaszára választott opciótól függetlenül szüksége van, az 5.2.2 pontban részletezettek szerint. Az üzemanyagciklus záró szakaszára vonatkozó politikában a „mérlegelve haladj előre” elv alkalmazása azt jelenti, hogy az üzemanyagciklus záró szakaszára a nyílt üzemanyagciklus – azaz az atomerőművi eredetű kiégett üzemanyag közvetlen hazai elhelyezése – mint referencia-forgatókönyv kerül meghatározásra, amely a vonatkozó költségbecslések alapját képezi a jelenleg üzemelő négy blokk esetében. Az üzemanyagciklus zárása területén a hazai és nemzetközi változásokat figyelemmel kell kísérni, szükség esetén be kell azokat építeni a záró szakaszra vonatkozó politikába, és ezzel egyidejűleg előre kell haladni a mélységi geológiai tároló telephelyének kiválasztásában. Jelenleg a Paksi Atomerőmű négy üzemelő blokkjára vonatkozó terveket (a közép- és hosszú távú terveket, valamint a nemzeti programot) a meghosszabbított üzemidő és a nyitott üzemanyagciklus figyelembevételével kell összeállítani. E tervek felülvizsgálatára lehetőség van, amit az új atomerőművi blokkok nukleáris-üzemanyagciklus zárási opciók vizsgálata is indokol. Az új blokkok kiégett üzemanyagának átmeneti tárolására és a nukleáris üzemanyagciklus záró szakaszára vonatkozó megoldás kialakítása során üzembiztonsági, stratégiai, ellátásbiztonsági, környezetvédelmi, fenntarthatósági, garanciális és gazdaságossági szempontokat is figyelembe kell venni.
 
-Jelenleg a Paksi Atomerőmű négy üzemelő blokkjára vonatkozó terveket (a közép- és hosszú távú terveket, valamint a nemzeti programot) a meghosszabbított üzemidő és a nyitott üzemanyagciklus figyelembevételével kell összeállítani. E tervek felülvizsgálatára lehetőség van, amit az új atomerőművi blokkok nukleárisüzemanyag-ciklus zárási módok vizsgálata is indokol. Az új blokkok kiégett üzemanyagának átmeneti tárolására és a nukleárisüzemanyag-ciklus lezárására vonatkozó megoldás kialakítása során üzembiztonsági, stratégiai, ellátásbiztonsági, környezetvédelmi, fenntarthatósági, garanciális és gazdaságossági szempontokat is figyelembe kell venni.
+A nukleáris üzemanyagciklus záró szakasza esetében a megoldás optimalizálását hat blokk üzeme során keletkező kiégett üzemanyag műszaki kérdéseit együtt kezelve célszerű elvégezni. Akármilyen megoldás kerül kiválasztásra az új atomerőművi blokkok figyelembevétele mellett a nukleáris üzemanyagciklus záró szakaszára, a tervezést arra a forgatókönyvre alapozva kell elvégezni, hogy a kiégett üzemanyag vagy az újrafeldolgozás során képződő nagy aktivitású radioaktív hulladékok hazai, mélységi geológiai tárolóban kerülnek majd végleges elhelyezésre.
 
-A nukleárisüzemanyag-ciklus lezárása esetében a megoldás optimalizálását a hat blokk üzeme során keletkező kiégett üzemanyag kérdéseit együtt kezelve célszerű elvégezni. Akármilyen megoldás kerül kiválasztásra az új atomerőművi blokkok figyelembevétele mellett a nukleárisüzemanyag-ciklus lezárására, a tervezést arra a forgatókönyvre alapozva kell elvégezni, hogy a kiégett üzemanyag vagy az újrafeldolgozás során képződő nagy aktivitású, illetve hosszú élettartamú radioaktív hulladékok hazai, mélységi geológiai tárolóban kerülnek majd végleges elhelyezésre.
-
-Az Oktatóreaktor és a Budapesti Kutatóreaktor üzemeltetetése során keletkező kiégett fűtőelemek tulajdonságai az energetikai reaktorokból kikerülő kiégett üzemanyaghoz több szempontból hasonlóak, lényegi eltérés, hogy a kutató- és az oktatóreaktorokban használatos üzemanyag mérete kisebb, dúsítási értéke pedig nagyobb.
+Az Oktatóreaktor és a Budapesti Kutatóreaktor üzemeltetetése során keletkező kiégett fűtőelemek tulajdonságai az energetikai reaktorokból kikerülő kiégett üzemanyaghoz több szempontból hasonlóak, ugyanakkor lényegi eltérés, hogy a kutató- és az oktatóreaktorokban használatos üzemanyag mérete kisebb, dúsítási értéke pedig nagyobb.
 
 A Budapesti Kutatóreaktor és az Oktatóreaktor kiégett fűtőelemeinek Oroszországba történő kiszállíthatóságának elvi lehetőségét az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködéséről szóló egyezmény kihirdetéséről szóló 204/2008. (VIII. 19.) Korm. rendelet biztosítja. Az egyezmény 5. cikk (3) bekezdése értelmében a kiégett fűtőelemek feldolgozási folyamatának eredményeként keletkező feldolgozási termékek, köztük a visszanyert urán, plutónium és a radioaktív hulladékok nem kerülnek vissza Magyarországra.
 
-Az üzemanyagciklus zárásának politikája a hazai, nem atomerőművi eredetű kiégett üzemanyagot illetően az, hogy hazánk él az Oroszországba való visszaszállítás lehetőségével.
+Az üzemanyagciklus záró szakaszára vonatkozó politika a hazai, nem atomerőművi eredetű kiégett üzemanyagot illetően az, hogy hazánk él az Oroszországba való visszaszállítás lehetőségével.
 
-Amennyiben a jövőben – stratégiai, műszaki és gazdasági szempontokat figyelembe véve – olyan döntés születik, hogy az ország mégsem él az oroszországi visszaszállítás lehetőségével, akkor a Magyarországon maradó kis dúsítású kiégett kutatóreaktori fűtőelemek további hazai átmeneti tárolását, valamint az atomerőművi eredetű kiégett üzemanyaggal együtt a végleges elhelyezés feltételeinek megteremtését haladéktalanul meg kell kezdeni.
+Amennyiben a jövőben – stratégiai, műszaki és gazdasági szempontokat figyelembe véve – olyan döntés születik, hogy az ország mégsem él az oroszországi visszaszállítás lehetőségével, akkor a Magyarországon maradó kis dúsítású kiégett kutatóreaktori fűtőelemek további hazai átmeneti tárolását, valamint az atomerőművi eredetű kiégett üzemanyaggal együtt végleges elhelyezés feltételeinek megteremtését haladéktalanul meg kell kezdeni.
 
 Az üzemanyagciklus-zárási politikájának fontos része az azzal összefüggő hazai kutatási-fejlesztési tevékenység támogatása és a nemzetközi kutatási-fejlesztési projektek figyelemmel kísérése, az ország lehetőségeinek figyelembevételével.
 
 5.2 A radioaktív hulladék forrása, kezelésére és elhelyezésére vonatkozó politika megfogalmazása
 
-5.2.1 A radioaktív hulladék forrása és elhelyezésének lehetőségei
+5.2.1[^27] A radioaktív hulladék forrása és elhelyezésének lehetőségei
 
 Magyarországon a radioaktív hulladékok döntő mennyisége a Paksi Atomerőműben megvalósuló energiatermelés következtében és az erőmű későbbiekben esedékes leszerelésekor keletkezik. Radioaktív hulladék képződik továbbá az egyéb nukleáris létesítmények üzemeltetése, e létesítmények később esedékes leszerelése, valamint az atomenergia egyéb (ipari, mezőgazdasági, orvosi és kutatási) alkalmazása során.
 
-A nemzeti politika általános szintű alapelveinek, valamint a biztonságos kezelés szavatolására irányuló alapelveknek a betartása érdekében, a nemzetközi gyakorlatot követve, a rövid élettartamú kis és közepes aktivitású radioaktív hulladékokat az e hulladék befogadására tervezett tároló-létesítményekben (felszíni vagy felszín alatti tárolóban) kell véglegesen elhelyezni. Magyarországon ma két, ilyen típusú hulladékok elhelyezésére tervezett hulladéktároló üzemel:
+A nemzeti politika általános szintű alapelveinek, valamint a biztonságos kezelés szavatolására irányuló alapelveknek a betartása érdekében, a nemzetközi gyakorlatot követve, a nagyon kis aktivitású radioaktív hulladékokat – a hulladék által jelentett potenciális kockázathoz igazodó – egyszerű felszíni tárolóban, a rövid élettartamú kis és közepes aktivitású radioaktív hulladékokat az e hulladék befogadására tervezett tároló-létesítményekben (felszíni vagy felszín alatti tárolóban) kell véglegesen elhelyezni. Magyarországon ma két, kis- és közepes aktivitású radioaktív hulladékok elhelyezésére tervezett hulladéktároló üzemel:
 
 ⋅ a Püspökszilágyon működő Radioaktív Hulladék Feldolgozó és Tároló felszíni kialakítású létesítmény, amely alapvetően a nem atomerőművi eredetű, rövid élettartamú kis és közepes aktivitású hulladékok végleges elhelyezését szolgálja. A létesítmény részeként üzemelő átmeneti tároló fogadja be a nem atomerőművi eredetű hosszú élettartamú hulladékokat, amelyeket a későbbiekben megvalósuló, mélységi geológiai radioaktívhulladék-tárolóban kell majd véglegesen elhelyezni a biztonsági alapelvek betarthatósága érdekében;
 
-⋅ a Bátaapátiban üzemelő Nemzeti Radioaktívhulladék-tároló, ami felszín alatti, de nem mélységi geológiai formációban kialakított tároló, amelyben az atomerőművi eredetű, rövid élettartamú, kis és közepes aktivitású, szilárd vagy szilárdított radioaktív hulladékok végleges elhelyezésére kerül sor.
+⋅ a Bátaapátiban üzemelő Nemzeti Radioaktívhulladék-tároló, ami felszín alatti, de nem mélységi geológiai formációban kialakított tároló, amelyben a hatóság által jóváhagyott hulladék átvételi követelményeknek megfelelő, kis és közepes aktivitású, szilárd vagy szilárdított radioaktív hulladékok végleges elhelyezésére kerül sor.
 
 A nagy aktivitású radioaktív hulladék, illetve a hosszú élettartamú kis és közepes aktivitású radioaktív hulladék elhelyezésére a nemzetközi konszenzust elfogadva mélységi geológiai hulladéktárolókban kerül sor. Abban is egységes álláspont alakult ki a hulladékkezelésben nemzetközileg érintett szervezetek körében, hogy a mélységi geológiai tárolók alkalmasak lehetnek a kiégett üzemanyag közvetlen elhelyezésére is, illetve ilyen tárolók szükségesek a feldolgozott kiégett üzemanyag maradékainak elhelyezéséhez is. A fentieket figyelembe véve kijelenthető, ahogyan ezt az 5.1 pont is bemutatta, hogy Magyarországnak az üzemanyagciklus-zárási politikájától függetlenül szüksége van egy mélységi geológiai tároló kialakítására, hiszen nagy aktivitású radioaktív hulladék, illetve hosszú élettartamú kis és közepes aktivitású radioaktív hulladék megjelenésére és elhelyezésére az üzemanyagciklus-zárási politikájától függetlenül is fel kell készülni.
 
 A nagy aktivitású és hosszú élettartamú hulladékok, valamint a kiégett üzemanyag átmeneti tárolására rendelkezésre álló megoldások mellett előre kell haladni a végleges elhelyezésre szolgáló tároló létesítmény telephelyének kiválasztásával, amelynek megvalósítása több évtizedet igényelhet. A nagy aktivitású radioaktív hulladék elhelyezésére alkalmas tároló telephelyének kiválasztása tárgyában évek óta folynak felszíni kutatások a Nyugat-Mecsek térségében. A jelenlegi ismeretek szerint a felszín alatti kutatásokat szolgáló laboratórium helyének kiválasztásához várhatóan még közel húsz év szükséges.
 
-5.2.2 A radioaktív hulladék elhelyezésének politikája
+5.2.2[^28] A radioaktív hulladék elhelyezésének politikája
 
-A hazánkban keletkező kis és közepes aktivitású radioaktív hulladék végleges elhelyezését Magyarországon létesített radioaktívhulladék-tárolókban kell megvalósítani. A tárolókat úgy kell kialakítani, hogy a telephely, a befogadó kőzet és az alkalmazott műszaki megoldások az elhelyezett hulladék jellemzőihez igazodóan együttesen biztosítsák a hulladék elszigetelését az élő környezettől. Ezen politika alkalmazása a végrehajtás fázisába jutott. Ez azt jelenti, hogy a kis és közepes aktivitású radioaktív hulladék elhelyezését erre a célra létrehozott tárolókban valósítjuk meg. Fejlesztésükkel, biztonságuk növelésével és folyamatos bővítésükkel a felmerülő igényeket kell követni a továbbiakban.
+A hazánkban keletkező kis és közepes aktivitású radioaktív hulladék végleges elhelyezését Magyarországon létesített radioaktívhulladék-tárolókban kell megvalósítani. A tárolókat úgy kell kialakítani, hogy a telephely, a befogadó kőzet és az alkalmazott műszaki megoldások az elhelyezett hulladék jellemzőihez igazodóan együttesen biztosítsák a hulladék elzárását és elszigetelését az élő környezettől. Ezen politika alkalmazása a kis- és közepes aktivitású hulladékok vonatkozásában a végrehajtás fázisába jutott, ami azt jelenti, hogy e hulladékok elhelyezését erre a célra létrehozott tárolókban valósítjuk meg. Fejlesztésükkel, biztonságuk növelésével és folyamatos bővítésükkel a felmerülő igényeket kell követni a továbbiakban.
 
 A nagy aktivitású radioaktív hulladékok elhelyezését Magyarországon egy stabil, mélységi geológiai formációban kialakítandó tárolóban kell megoldani. Az egységes nemzetközi álláspont szerint egy ilyen tároló felhasználható a kiégett üzemanyag közvetlen elhelyezésére, de alkalmas a kiégett üzemanyag feldolgozása során keletkezett hulladékok befogadására is annak függvényében, hogy milyen üzemanyagciklus-zárási politika kiválasztására kerül sor. Ezen a ponton a radioaktív hulladék elhelyezésének politikája összekapcsolódik az üzemanyagciklus-zárás politikájával; a mélységi geológiai radioaktívhulladék-tárolót úgy kell megtervezni és kialakítani, hogy abban együttesen elhelyezhető legyen a nagy aktivitású és a hosszú élettartamú radioaktív hulladék és a kiégett üzemanyag.
 
-Fontos eleme a radioaktív hulladékok elhelyezési politikájának a radioaktív hulladékok visszanyerhetőségének kérdése. A hulladék-elhelyezési rendszert olyan módon kell kialakítani, hogy a lezárást megelőzően, a betárolás során indokolt esetben a hulladékok visszanyerhetősége biztosítható legyen. Figyelemmel kell lenni azonban arra is, hogy a hulladékcsomagok visszanyerésére vonatkozó intézkedésnek nem lehet elfogadhatatlanul káros hatása a tároló- létesítmény lezárását követő biztonságos állapot fenntartására.
+Fontos eleme a radioaktív hulladékok elhelyezési politikájának a radioaktív hulladékok visszanyerhetőségének kérdése. A hulladék-elhelyezési rendszert olyan módon kell kialakítani, hogy a lezárást megelőzően, a betárolás során indokolt esetben a hulladékok visszanyerhetősége biztosítható legyen. Figyelemmel kell lenni azonban arra is, hogy a hulladékcsomagok visszanyerésének lehetőségére vonatkozó intézkedésnek nem lehet elfogadhatatlanul káros hatása a tároló- létesítmény lezárását követő biztonságos állapot fenntartására.
 
 5.3 A nukleáris létesítmények leszerelése
 
 A nukleáris létesítmények leszerelése a nukleáris létesítmények leállítás utáni fenntartását, ellenőrzését és védelmét foglalja magába az elbontásukig bezárólag.
 
-5.3.1 A nukleáris létesítmények üzemeltetésének időtávlata
+5.3.1[^29] A nukleáris létesítmények üzemeltetésének időtávlata
 
-Az Atomtörvény meghatározásai alapján a magyarországi nukleáris létesítmények körébe soroljuk:
+5.3.1.1. Az Atomtörvény meghatározásai alapján a magyarországi nukleáris létesítmények körébe soroljuk:
 
-⋅ a Paksi Atomerőmű létesítményeit,
+– a Paksi Atomerőmű létesítményeit,
 
-⋅ az Oktatóreaktort,
+– az Oktatóreaktort,
 
-⋅ a Budapesti Kutatóreaktort,
+– a Budapesti Kutatóreaktort,
 
-⋅ a Kiégett Kazetták Átmeneti Tárolóját.
+– a Kiégett Kazetták Átmeneti Tárolóját.
 
 A nukleáris létesítmények leszerelése és lebontása radioaktív hulladék keletkezésével jár együtt. E nukleáris létesítmények leszereléséért és a leszerelés során keletkező radioaktív hulladékok elhelyezéséért felelős szerv – az Atomtörvény értelmében – a Radioaktív Hulladékokat Kezelő Kft.
 
-A Paksi Atomerőmű 1982-ben kezdte meg üzemelését az első blokk üzembe helyezésével. A negyedik blokk 1987 óta üzemel. Az atomerőmű üzemidejének 30 évről 50 évre való meghosszabbítására irányuló eljárás folyamatban van, így az erőmű negyedik blokkját várhatóan 2037-ben állítja le az engedélyes. A Paksi Atomerőmű leszerelésére a közép- és hosszú távú tervekben elfogadott referencia-forgatókönyv a primer kör 20 évig tartó védett megőrzése.
+5.3.1.2. A Paksi Atomerőmű 1982-ben kezdte meg üzemelését az első blokk üzembe helyezésével. A negyedik blokk 1987 óta üzemel. Az atomerőmű üzemidejének 30 évről 50 évre való meghosszabbítására irányuló eljárás 2012 és 2017 között sikeresen lezajlott, így az erőmű negyedik blokkját 2037-ben állítja le az engedélyes. A Paksi Atomerőmű leszerelésére a közép- és hosszú távú tervekben elfogadott referencia-forgatókönyv az ellenőrzött zóna 20 évig tartó védett megőrzése.
 
-Az Oktatóreaktor 1971 óta üzemel, amelynek a hazai szakemberek képzésében van jelentős szerepe. Az Oktatóreaktor 2017-ig rendelkezik érvényes üzemeltetési engedéllyel. Az Oktatóreaktor a jó műszaki állapotára tekintettel, amennyiben az időszakos biztonsági felülvizsgálat eredményei alátámasztják, további üzemeltetési engedélyt kaphat 2027-ig. Fentiek alapján a létesítmény leszerelésével várhatóan 2027 után kell számolni.
+5.3.1.3. Az Oktatóreaktor 1971 óta üzemel, amelynek a hazai szakemberek képzésében van jelentős szerepe. Az Oktatóreaktor a jó műszaki állapotára tekintettel a 2017-ben lefolytatott időszakos biztonsági felülvizsgálat eredményei alapján jelenleg 2027-ig rendelkezik érvényes üzemeltetési engedéllyel, és az elmúlt években jelentős műszaki felújításon esett át. Jelenleg nem ismert olyan műszaki vagy jogi tényező, ami az üzemeltetési engedélyének további meghosszabbítását – a szükséges hatósági eljárások lefolytatása után – korlátozná. Az Oktatóreaktorra az energiapolitikában meghatározott célkitűzések teljesítése és a paksi új blokkok létesítéséhez kapcsolódó oktatási-kutatási feladatok okán továbbra is szükség van. Fentiek alapján a létesítmény leszerelésével sok évvel 2027 után kell csak számolni.
 
-A Budapesti Kutatóreaktor 1959 óta üzemel. A létesítmény kutatási és izotópgyártási feladatokat lát el. 1986 és 1992 között a létesítményt felújították és korszerűsítették, így a tervezett üzemideje további 30 év. Leszerelésével az üzemeltetést követően, 2023 után kell számolni.
+5.3.1.4. A Budapesti Kutatóreaktor 1959 óta üzemel. A létesítmény kutatási és izotópgyártási feladatokat lát el. 1986 és 1992 között a létesítményt felújították és korszerűsítették, így a tervezett üzemideje további 30 év. Leszerelésével az üzemeltetést követően, a 2020-as évtized második felében kell számolni.
 
-A Kiégett Kazetták Átmeneti Tárolója modulárisan bővíthető egységekből (kamramodulokból) áll. Az új kamramodulok megvalósítása a Paksi Atomerőmű igényeinek megfelelően ma is folyamatosan zajlik. A központi fogadó épület és a hozzá tartozó technológia üzembe helyezése az első három kamramodullal együtt 1997-ben történt meg, a létesítmény tervezett üzemideje 50 év volt. A Kiégett Kazetták Átmeneti Tárolójának leszerelése a Paksi Atomerőmű jelenleg működő blokkjainak leszerelésével együtt lesz esedékes. Ennek érdekében a szükséges műszaki megalapozás és biztonsági számítások alapján a létesítmény tervezett üzemidejét meg kell majd hosszabbítani. Miután a létesítmény üzemeltetése során kiemelt gondot fordít az üzemeltető az öregedés kezelésére, és a létesítmény biztonságát alapvetően passzív rendszerek szavatolják, az üzemidő meghosszabbításának engedélyezésére reális esély kínálkozik.
+5.3.1.5. A Kiégett Kazetták Átmeneti Tárolója modulárisan bővíthető egységekből (kamramodulokból) áll. Az új kamramodulok megvalósítása a Paksi Atomerőmű igényeinek megfelelően ma is folyamatosan zajlik. A központi fogadó épület és a hozzá tartozó technológia üzembe helyezése az első három kamramodullal együtt 1997-ben történt meg, a létesítmény tervezett üzemideje 50 év volt. A Kiégett Kazetták Átmeneti Tárolójának leszerelése a Paksi Atomerőmű jelenleg működő blokkjainak leszerelésével együtt lesz esedékes. Ennek érdekében a szükséges műszaki megalapozás és biztonsági számítások alapján a létesítmény tervezett üzemidejét meg kell majd hosszabbítani. Miután a létesítmény üzemeltetése során kiemelt gondot fordít az üzemeltető az öregedés kezelésére, és a létesítmény biztonságát alapvetően passzív rendszerek szavatolják, az üzemidő meghosszabbításának engedélyezésére reális esély kínálkozik.
 
-A paksi telephelyen létesülő két új atomerőművi blokk a 2020-as évek közepén kezdheti meg üzemelését 60 éves tervezett üzemidővel, így a blokkok leállítására előreláthatóan a 2080-as évek közepén kerül sor.
+5.3.1.6. A paksi telephelyen létesülő két új atomerőművi blokk a 2020-as évek végén kezdheti meg üzemelését 60 éves tervezett üzemidővel, így a blokkok leállítására előreláthatóan a 2080-as évek végén kerül sor.
 
 5.3.2 A nukleáris létesítmények leszerelési politikája
 
@@ -396,14 +408,44 @@ Amennyiben egy telephelyen több, különböző engedéllyel rendelkező nukleá
 
 Az új atomerőművi blokkok leszerelésére vonatkozó politikát a paksi telephelyen található többi nukleáris létesítmény leszerelési politikájával összhangban, a kiégett üzemanyag és a radioaktív hulladékok kezelésére vonatkozó programok időütemezését figyelembe véve kell kialakítani.
 
-6. A nyilvánosság biztosítása a radioaktív hulladék és a kiégett üzemanyag kezelésének folyamatában
+6.[^30] A nyilvánosság biztosítása a radioaktív hulladék és a kiégett üzemanyag kezelésének folyamatában
 
-Az atomenergia alkalmazásának kulcskérdése a lakosság bizalmának és támogatásának elnyerése és folyamatos fenntartása. A nemzetközi gyakorlat vizsgálata is több példán keresztül igazolja a lakosság bevonásának szükségességét; azok a nemzeti programok tudnak sikeresen előrehaladni, ahol a közvélemény partneri együttműködése segíti azokat. A nemzeti politika ezért, az Irányelvvel összhangban, az alapelvek között írja elő a nyilvánosság és az átláthatóság biztosítását, továbbá a lakosság bevonását a döntéshozatalba.
+Az atomenergia alkalmazásának kulcskérdése a lakosság bizalmának és támogatásának elnyerése és folyamatos fenntartása. A nemzetközi gyakorlat vizsgálata is több példán keresztül igazolja a lakosság bevonásának szükségességét; azok a nemzeti programok tudnak sikeresen előrehaladni, ahol a közvélemény partneri együttműködése segíti azokat. A nemzeti politika ezért, a 2011/70/Euratom irányelvvel összhangban, az alapelvek között írja elő a nyilvánosság és az átláthatóság biztosítását, továbbá a lakosság bevonását a döntéshozatalba.
 
 A nyilvánosság és az átláthatóság alapelvein nyugvó, a szakmai kérdéseket is megvilágító tájékoztatáspolitika megvalósításával együtt gondoskodni kell arról is, hogy a közvélemény a döntéshozatalba is bekapcsolódhasson. A lakosság a nemzeti politika tárgyát képező tevékenységekkel összefüggésben a környezetvédelmi és az atomenergia-felügyeleti szervek hatáskörébe tartozó döntések meghozatalába a jogszabályok keretein belül a közmeghallgatás jogintézménye útján kapcsolódhat be.
 
 A hazai lakossági kapcsolattartás alapjaiban a tervezett vagy a megvalósult létesítmények környezetében kialakult ellenőrzési és információs célú önkormányzati társulásokkal történő együttműködésre épül. Ezen partneri együttműködések a radioaktívhulladék-kezelési programok beindulásának kezdeti szakaszában alakultak ki és azóta is folyamatosan működnek. Ez tette és teszi lehetővé ma is a programok sikeres előrehaladását, a létesítmények megvalósítását és azok problémamentes üzemeltetését. A lakossági együttműködés hazai modellje világviszonylatban is elismerést vált ki.
 
-A hazai radioaktívhulladék- és kiégett üzemanyag-kezelési programok négy helyszínhez kötődnek [Radioaktív Hulladék Feldolgozó és Tároló, Püspökszilágy-Kisnémedi; Nemzeti Radioaktívhulladék-tároló, Bátaapáti; Kiégett Kazetták Átmeneti Tárolója, Paks; nagy aktivitású hulladék-elhelyezési program, Boda]. Az érintett települések lakóinak száma közel 90 000 fő, ami már országos viszonylatban is számottevő. Mindhárom üzemelő hulladéktároló-létesítmény esetében kijelenthető, hogy azok működését, illetve a nagy aktivitású radioaktívhulladék-tároló telephelyének kiválasztását célzó kutatást a környezetben élő lakosság támogatja. Ezt támasztják alá a térségekben kétévente elvégzett közvélemény-kutatások eredményei is.
+A hazai radioaktívhulladék- és kiégett üzemanyag-kezelési programok négy helyszínhez kötődnek [Radioaktív Hulladék Feldolgozó és Tároló, Püspökszilágy-Kisnémedi; Nemzeti Radioaktívhulladék-tároló, Bátaapáti; Kiégett Kazetták Átmeneti Tárolója, Paks; nagy aktivitású hulladék-elhelyezési program, Nyugat-mecseki terület]. Az érintett települések lakóinak száma több mint 90 000 fő, ami már országos viszonylatban is számottevő. Mindhárom üzemelő hulladéktároló-létesítmény esetében kijelenthető, hogy azok működését a környezetben élő lakosság támogatja. Ezt támasztják alá a térségekben rendszeresen elvégzett közvélemény-kutatások eredményei is.
 
 A helyben élő lakosoknak a kiégett üzemanyag- és radioaktívhulladék-kezelési programokhoz való pozitív hozzáállása megteremtéséhez jelentősen hozzájárul a Radioaktív Hulladékokat Kezelő Kft. és a térséget képviselő ellenőrzési és információs célú önkormányzati társulások konstruktív együttműködése.
+
+[^2]: Az 1. melléklet 1. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet 2. pont 2.1. alpont 3. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet 2. pont 2.1. alpont 5. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 2. pont 2.1. alpont 6. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 2. pont 2.2. alpont 3. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 2. pont 2.3. alpont nyitó szövegrésze a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 2. pont 2.3. alpont 2. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet 2. pont 2.3. alpont 3. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 2. pont 2.3. alpont 5. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 2. pont 2.3. alpont 7. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^12]: Az 1. melléklet 2. pont 2.3. alpont 8. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^13]: Az 1. melléklet 2. pont 2.3. alpont 9. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 2. pont 2.3. alpont 13. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 2. pont 2.3. alpont 15. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet 2. pont 2.3. alpont 18. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 2. pont 2.3. alpont 19. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 3. pont 3.1. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^19]: Az 1. melléklet 3. pont 3.2. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 3. pont 3.3. alpont 2. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 3. pont 3.3. alpont 6. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet 3. pont 3.3. alpont 7. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 3. pont 3.4. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^24]: Az 1. melléklet 4. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 5. pont 5.1.1. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^26]: Az 1. melléklet 5. pont 5.1.2. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^27]: Az 1. melléklet 5. pont 5.2.1. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet 5. pont 5.2.2. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 5. pont 5.3.1. alpontja a 41/2020. (XII. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^30]: Az 1. melléklet 6. pontja a 41/2020. (XII. 16.) OGY határozat 2. pontja szerint módosított szöveg.
