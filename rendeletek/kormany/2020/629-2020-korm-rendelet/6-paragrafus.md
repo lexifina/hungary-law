@@ -1,3 +1,0 @@
-## 5. § A Nemzeti Humanitárius Koordinációs Tanácsról szóló 178/2013. (VI. 4.) Korm. rendelet (a továbbiakban: NHKT Rendelet) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A Nemzeti Humanitárius Koordinációs Tanács (a továbbiakban: Tanács) a Kormány által az Alaptörvény 53. cikke alapján kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet), illetve a 2. § (2) bekezdés b) pontja szerinti esetben a Kormány által az egészségügyről szóló 1997. évi CLIV. törvény 228. §-a alapján elrendelt egészségügyi válsághelyzet (a továbbiakban: egészségügyi válsághelyzet) kezelése során ellátja a számára megállapított humanitárius jellegű feladatokat.”

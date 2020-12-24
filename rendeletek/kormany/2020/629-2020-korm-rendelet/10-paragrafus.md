@@ -1,3 +1,0 @@
-## „(3) A Tanács a döntéseit a Tanács ülésén jelen lévő tagok felének támogató szavazatával hozza meg, szavazategyenlőség esetén az elnök – távollétében vagy akadályoztatása esetén az általa kijelölt tag – szavazata dönt.
-
-## (4) A Tanács üléseiről, valamint a 7/A. § szerinti ülés tartása nélküli döntéshozatalról jegyzőkönyvet kell készíteni, amelyben fel kell tüntetni az ülés helyét, idejét, tárgyát, a jelenlevők nevét, a határozatképességre vonatkozó adatokat és a szavazás eredményét. A határozat eredeti példányát a jegyzőkönyvhöz kell csatolni. A jegyzőkönyvet az elnök – távollétében vagy akadályoztatása esetén az általa kijelölt tag – és a jegyzőkönyvvezető írja alá, és egy tag hitelesíti.”
