@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-71-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-19 | 2005-71-20-0L.3 | 71/2005. (IX. 27.) GKM rendelet |
+| 2020-12-24 | 2005-71-20-0L.4 | 44/2024. (XII. 9.) NGM rendelet |
