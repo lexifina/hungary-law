@@ -12,7 +12,7 @@
 
 ## b) az 1. pont b) alpont szerinti címre Pálmajor Község Önkormányzata gyermekétkeztetési feladatainak támogatására 1 000 000 forint,
 
-## c) az 1. pont c) alpont szerinti címre Üllés Nagyközség Önkormányzata részére temető fejlesztésére 105 600 000 forint
+## c)[^1] az 1. pont c) alpont szerinti címre Üllés Nagyközség Önkormányzata részére temető és belterületi kerékpárút fejlesztésére 105 600 000 forint
 
 ## egyszeri átcsoportosítását, az 1. melléklet szerint;
 
@@ -111,3 +111,5 @@
 |  |  |  |  |  |  |  |  | egyéb: | azonnal |  | 1 106 600 000 |  |  |  |  |  |  |  |  | 1 106 600 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont c) alpontja a 2005/2020. (XII. 24.) Korm. határozat 7. pontja szerint módosított szöveg.
