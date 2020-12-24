@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1244-30
 | 2019-10-16 | 2019-1244-30-22.3 | 1591/2019. (X. 16.) Korm. határozat |
 | 2019-11-28 | 2019-1244-30-22.4 | 1668/2019. (XI. 28.) Korm. határozat |
 | 2020-04-14 | 2019-1244-30-22.5 | 1591/2019. (X. 16.) Korm. határozat |
+| 2020-12-24 | 2019-1244-30-22.6 | 1591/2019. (X. 16.) Korm. határozat |
