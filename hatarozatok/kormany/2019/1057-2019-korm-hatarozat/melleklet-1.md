@@ -58,7 +58,7 @@
 
 ## külgazdasági és külügyminiszter
 
-## Határidő: 2019. december 31., a Közbeszerzési és Ellátási Főigazgatóság cím javára biztosított 450 000 000 forint tekintetében 2020. március 31.
+## Határidő: 2019. december 31., a Közbeszerzési és Ellátási Főigazgatóság cím javára biztosított 450 000 000 forint tekintetében 2020. március 31., a Határon túli felsőoktatási feladatok fejezeti kezelésű előirányzat javára biztosított 788 500 000 forint tekintetében 2021. január 31.
 
 ## g) az Ávr. 172/A. § (9) bekezdésében biztosított jogkörében eljárva, az Ávr. 172/A. § (3) bekezdése alapján a 2018. évben a szeptember–november hónapokra vonatkozóan, a XIX. Uniós fejlesztések fejezet részére megállapított befizetési kötelezettséget elengedi.
 
@@ -74,7 +74,7 @@
 
 1. melléklet az 1057/2019. (II. 22.) Korm. határozathoz
 
-[^1]: Az 1. pont f) alpontja az 1800/2019. (XII. 23.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1. pont f) alpontja az 1800/2019. (XII. 23.) Korm. határozat 4. pontja, a 2005/2020. (XII. 24.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
