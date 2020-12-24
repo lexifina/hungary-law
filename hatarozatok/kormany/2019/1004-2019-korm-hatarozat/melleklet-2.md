@@ -68,7 +68,7 @@
 
 | 33. | Nyíregyháza Megyei Jogú Város Önkormányzata feladatainak támogatása | önkormányzati fejlesztések | 1 677 950 000 |
 
-| 34. | Petneháza Község Önkormányzata feladatainak támogatása | bölcsődei eszközök beszerzésének támogatása | 20 000 000 |
+| 34. | Petneháza Község Önkormányzata feladatainak támogatása | sportfejlesztés | 20 000 000 |
 
 | 35. | Tarpa Község Önkormányzata feladatainak támogatása | ingatlanvásárlás támogatása | 10 000 000 |
 

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1004-30
 | 2019-02-22 | 2019-1004-30-22.2 | 1059/2019. (II. 22.) Korm. határozat |
 | 2019-04-18 | 2019-1004-30-22.3 | 1059/2019. (II. 22.) Korm. határozat |
 | 2019-07-18 | 2019-1004-30-22.4 | 1059/2019. (II. 22.) Korm. határozat |
+| 2020-12-24 | 2019-1004-30-22.5 | 1059/2019. (II. 22.) Korm. határozat |

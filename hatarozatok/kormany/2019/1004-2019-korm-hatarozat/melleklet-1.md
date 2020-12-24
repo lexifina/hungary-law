@@ -20,4 +20,4 @@
 
 1. melléklet az 1004/2019. (I. 18.) Korm. határozathoz[^1]
 
-[^1]: Az 1. melléklet az 1059/2019. (II. 22.) Korm. határozat 9. pontja, az 1215/2019. (IV. 18.) Korm. határozat 3. pontja, az 1423/2019. (VII. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1059/2019. (II. 22.) Korm. határozat 9. pontja, az 1215/2019. (IV. 18.) Korm. határozat 3. pontja, az 1423/2019. (VII. 18.) Korm. határozat 3. pontja, a 2005/2020. (XII. 24.) Korm. határozat 5. pontja szerint módosított szöveg.
