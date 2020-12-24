@@ -2,8 +2,8 @@
 
 a)
 
-b) 4. alpontjában foglalt táblázat 4.4. sora,
+b)
 
-c) 11. alpontjában foglalt táblázat 11.3. sora,
+c)
 
 d)
