@@ -1,0 +1,177 @@
+A Kormány
+
+1. az állam mint alapító nevében
+
+a) a Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény 1. §-ában, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1a) bekezdésében biztosított jogkörében eljárva közérdekű vagyonkezelő alapítványként létrehozza a Magyar Agrár- és Élettudományi Egyetemért Alapítványt (a továbbiakban: Alapítvány),
+
+b) a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására az innovációért és technológiáért felelős minisztert jelöli ki;
+
+2. a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 117/C. § (1) bekezdésének megfelelően a Magyar Agrár- és Élettudományi Egyetem fenntartói jogát mint vagyoni értékű jogot – az Nftv. 117/C. § (1) bekezdésében meghatározott időponttal – az Alapítványra ruházza át;
+
+3. felhívja az innovációért és technológiáért felelős minisztert, a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a 2. pont szerinti fenntartói jog átruházásához szükséges intézkedéseket tegyék meg;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+pénzügyminiszter
+
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+Határidő: 2021. február 1.
+
+4. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a fenntartói jog átruházásának megvalósítása érdekében gondoskodjon 670 000 000 forint többletforrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 14. Egyetemek, főiskolák cím javára;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: azonnal
+
+5. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – az Alapítvány induló vagyona fedezetére biztosítson egyszeri jelleggel 600 000 000 forint többletforrást a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 1. Innovációs és Technológiai Minisztérium igazgatása cím javára;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: azonnal
+
+6. egyetért az Alapítvány alapító okiratában meghatározott célok és az azok elérése érdekében végzett tevékenységek megvalósításához szükséges forrás biztosításával;
+
+7. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a 6. pont szerinti támogatási cél megvalósításához kapcsolódóan a 2021. évben az Alapítvány részére gondoskodjon 366 666 667 forint többletforrás rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: 2021. évi Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 67. Felsőoktatási feladatok alcím, 1. Nem állami felsőoktatási intézmények támogatása jogcímcsoport javára;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: a 2021. évi központi költségvetés végrehajtása során
+
+8. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával a 6. pont szerinti támogatási cél megvalósításához kapcsolódóan a 2022. évtől az Alapítvány részére gondoskodjon évi 400 000 000 forint forrás rendelkezésre állásáról a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezetében;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: a 2022. évtől a központi költségvetés tervezése során
+
+9. felhívja az agrárminisztert, hogy – az innovációért és technológiáért felelős miniszter és a pénzügyminiszter bevonásával – a Nemzeti Agrárkutatási és Innovációs Központ 2021. január 31. napjával való megszűnése érdekében gondoskodjon a költségvetési szerv megszüntető okiratának elkészítéséről, valamint annak benyújtásáról a Magyar Államkincstár részére, a következőek figyelembevételével:
+
+a) a Nemzeti Agrárkutatási és Innovációs Központ
+
+aa) agrár-közgazdasági és agrárstatisztikai feladatai vonatkozásában az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság,
+
+ab) Erdészeti Tudományos Intézet feladatai vonatkozásában a Soproni Egyetem,
+
+ac) valamennyi – az aa) és ab) alpontban fel nem sorolt – feladata vonatkozásában a Magyar Agrár- és Élettudományi Egyetem
+
+megnevezése szükséges jogutódként;
+
+b) a Nemzeti Agrárkutatási és Innovációs Központ megszüntetésének időpontjában fennálló jogait és kötelezettségeit a fent meghatározott szerv gyakorolja a hozzárendelt feladatokat érintő jogok és kötelezettségek tekintetében;
+
+Felelős: agrárminiszter
+
+innovációért és technológiáért felelős miniszter
+
+pénzügyminiszter
+
+Határidő: 2021. február 1.
+
+10. egyetért azzal, hogy a Nemzeti Agrárkutatási és Innovációs Központ megszűnésekor a vele szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni, és
+
+a) a megszűnés napjának fordulónapjával az államháztartási számviteli szabályok szerinti záró beszámolót szükséges készíteni, azzal hogy a záró beszámolót megalapozó könyvviteli zárlat során az aktív és a passzív időbeli elhatárolásokat nem kell kivezetni,
+
+b) a 9. pont a) alpont aa) és ab) alpontjában megjelölt szervek a jogelőd szerv megszűnését követő napon a megszűnő intézmény záró beszámolója mérlegében kimutatott, a jogutód szervekhez hozzárendelt feladatokat érintő vagyoni elemeket azok jellegének és a záró beszámoló mérlegében bemutatott könyv szerinti értékének megfelelően szükséges felvenni a jegyzőkönyvekbe azzal, hogy a saját tőkén belül a nemzeti vagyon induláskori értéke jegyzett tőkeként, a nemzeti vagyon változásai és az egyéb eszközök induláskori értéke és változásai tőketartalékként, a mérleg szerinti eredmény és a felhalmozott eredmény eredménytartalékként veendő fel a könyvekbe,
+
+c) a 9. pont a) alpont ac) alpontban megjelölt szerv a megszűnő intézmény záró beszámolója mérlegében kimutatott, a jogutód szervekhez hozzárendelt feladatokat érintő vagyoni elemeket azok jellegének és a záró beszámoló mérlegében bemutatott könyv szerinti értékének megfelelően a nyitómérlegbe veszi fel azzal, hogy a saját tőkén belül a nemzeti vagyon induláskori értékét jegyzett tőkeként, a nemzeti vagyon változásai és az egyéb eszközök induláskori értékét és változásait tőketartalékként, a mérleg szerinti eredményt és a felhalmozott eredményt eredménytartalékként kell kimutatni,
+
+d) a 9. pontban megjelölt jogutód szervek a jogelőd intézmény által az államháztartásról szóló 2011. évi CXCV. törvény 11. § (5) bekezdése alapján kijelölt szerv útján átadott pénzeszközt az eredménytartalékkal szemben kötelesek a könyveikbe felvenni;
+
+Felelős: agrárminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. április 21.
+
+11. egyetért azzal, hogy a Nemzeti Agrárkutatási és Innovációs Központ megszűnésekor az agrár-közgazdasági és agrárstatisztikai feladatok tekintetében az Agrárminisztérium közvetlen tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság tekintendő jogutódnak, és felhívja az agrárminisztert és az innovációért és technológiáért felelős minisztert, hogy tegyék meg a feladatok átadásához-átvételéhez szükséges intézkedéseket, felügyeljék a feladatátadáshoz szükséges megállapodások előkészítését és megkötését;
+
+Felelős: agrárminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február 1.
+
+12. egyetért azzal, hogy a Nemzeti Agrárkutatási és Innovációs Központ Gyümölcs- és Dísznövénytermesztési Kutatóintézet Újfehértói Kutatóállomása a Debreceni Egyetem részére átadásra kerüljön, és felhívja az agrárminisztert és az innovációért és technológiáért felelős minisztert, hogy az előkészítő egyeztetések lefolytatását követően tegyék meg az e pont szerinti feladat átadásához-átvételéhez szükséges intézkedéseket, felügyeljék a feladatátadáshoz szükséges megállapodások előkészítését és megkötését;
+
+Felelős: agrárminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február 1.
+
+13. egyetért azzal, hogy a Nemzeti Agrárkutatási és Innovációs Központ megszűnésekor az Erdészeti Tudományos Intézet feladatai vonatkozásában a Soproni Egyetem tekintendő jogutódnak, és felhívja az agrárminisztert és az innovációért és technológiáért felelős minisztert, hogy a Soproni Egyetemmel történő egyeztetést követően tegyék meg az e pont szerinti feladat átadásához-átvételéhez szükséges intézkedéseket, felügyeljék a feladatátadáshoz szükséges megállapodások előkészítését és megkötését;
+
+Felelős: agrárminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február 1.
+
+14. egyetért azzal, hogy az MKSZN Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság különválását követően az újfehértói telephelyen tevékenységet folytató jogutód nonprofit gazdasági társaság üzletrésze feletti tulajdonosi jogok gyakorlása a Debreceni Egyetem részére átadásra kerüljön a Szabolcs-Szatmár-Bereg megyei almatermesztéshez kapcsolódó komplex infrastruktúra- és szolgáltatás-fejlesztési projekt megvalósításával együtt, és felhívja az innovációért és technológiáért felelős minisztert, hogy az előkészítő egyeztetések lefolytatást követően tegye meg az e pont szerinti feladat átadásához-átvételéhez szükséges intézkedéseket;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. április 1.
+
+15. egyetért azzal, hogy a Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság különválását követően a Cegléd, Sarród, Érd és Budapest központi telephelyen tevékenységet folytató nonprofit gazdasági társaság 100%-os üzletrésze a Magyar Agrár- és Élettudományi Egyetem tulajdonába kerüljön, ezzel egyidejűleg felhívja az innovációért és technológiáért felelős minisztert, hogy az előkészítő egyeztetések lefolytatást követően tegye meg az e pont szerinti feladat átadásához-átvételéhez szükséges intézkedéseket;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. április 1.
+
+16. egyetért azzal, hogy a Debreceni Egyetem Agrár Kutatóintézetek és Tangazdaság Karcagi Kutatóintézet a Magyar Agrár- és Élettudományi Egyetem részére átadásra kerüljön, és felhívja az innovációért és technológiáért felelős minisztert, hogy a Szent István Egyetemmel történő egyeztetést követően tegye meg az e pont szerinti feladat átadásához-átvételéhez szükséges intézkedéseket, felügyelje a feladatátadáshoz szükséges megállapodások előkészítését és megkötését;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február 1.
+
+17. felhívja az agrárminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával, megállapodás útján gondoskodjon a 2021. évi Kvtv. 1. melléklet XII. Agrárminisztérium fejezet, 8. Nemzeti Agrárkutatási és Innovációs Központ címben rendelkezésre álló források – szükség esetén korrekciót követően – átadásáról a 2021. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 67. Felsőoktatási feladatok alcím, 1. Nem állami felsőoktatási intézmények támogatása jogcímcsoport javára;
+
+Felelős: agrárminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február 28.
+
+18. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával a Szent István Egyetem, illetve a Magyar Agrár- és Élettudományi Egyetem hosszú távú gazdaságos és hatékony működése érdekében biztosítson a 2020. évben 3 600 000 000 forint többletforrást a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 14. Egyetemek, főiskolák cím javára;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: azonnal
+
+19. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával a Magyar Agrár- és Élettudományi Egyetem hosszú távú gazdaságos és hatékony működése érdekében biztosítson a 2021. évben 2 696 000 000 forint többletforrást a 2021. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 67. Felsőoktatási feladatok alcím, 1. Nem állami felsőoktatási intézmények támogatása jogcímcsoport javára;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február 28.
+
+20. felhívja az innovációért és technológiáért felelős minisztert, hogy a Keszthely belterület 1227 helyrajzi számú ingatlan telekmegosztásának elősegítése érdekében a Szent István Egyetem és a Keszthely Város Önkormányzata között e tárgyban kötendő együttműködési megállapodás megkötésében működjön közre;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február
+
+21. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a Herceghalom belterület 267/2 helyrajzi számú ingatlan a Semmelweis Egyetem és a Szent István Egyetem közötti valós használati viszonyok alapján történő telekmegosztásáról;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2021. február 1.
+
+22. felhívja az agrárminisztert, hogy gondoskodjon a Nemzeti Agrárkutatási és Innovációs Központ megszűnésekor az Erdészeti Tudományos Intézet vagyonkezelésében lévő erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek TAEG Tanulmányi Erdőgazdaság Zártkörűen Működő Részvénytársaság részére történő vagyonkezelésbe adásáról.
+
+Felelős: agrárminiszter
+
+Határidő: 2021. február 1.
