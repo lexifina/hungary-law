@@ -1,6 +1,6 @@
 ## 8. § E rendelet rendelkezéseit a hatálybalépését követően megkötött 6. § szerinti szerződésekre kell alkalmazni.
 
-1. melléklet az 51/2016. (III. 17.) Korm. rendelethez[^3]
+1. melléklet az 51/2016. (III. 17.) Korm. rendelethez[^7]
 
 Kijelölt építési beruházások
 
@@ -28,4 +28,6 @@ Kijelölt építési beruházások
 
 | 11. | Budapest XI. kerület, belterület 5412 helyrajzi számú ingatlan |
 
-[^3]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a szerint módosított szöveg.
+| 12. | A ZalaZONE Ipari Park Zrt. által Zalaegerszeg megyei jogú város és Egervár község közigazgatási területén megvalósított projekt |
+
+[^7]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
