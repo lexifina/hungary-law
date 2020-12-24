@@ -1,10 +1,10 @@
 ## 1. egyetért az „Eger megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása” című projekt (a továbbiakban: beruházás) előkészítésével;
 
-## 2. a beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés a) és o) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen legfeljebb 327 598 044 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31-ig kell megvalósítani;
+## 2.[^1] a beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés a) és o) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen legfeljebb 327 598 044 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31-ig kell megvalósítani;
 
 ## 3. a beruházás előkészítésének kormányzati felelőseként az innovációért és technológiáért felelős minisztert jelöli ki;
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a beruházás 2. pont szerinti előkészítési feladatainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 327 598 044 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 42. Intermodális csomópontok fejlesztése jogcímcsoport javára, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
+## 4.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a beruházás 2. pont szerinti előkészítési feladatainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 327 598 044 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 42. Intermodális csomópontok fejlesztése jogcímcsoport javára, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
 
 ## Az átcsoportosítás tekintetében
 
@@ -20,23 +20,19 @@
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: a 6. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül
+## Határidő: 2022. március 15.
 
 ## 5. egyetért azzal, hogy a 2. pont szerinti előkészítési fázisokat a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság valósítsa meg;
 
 ## 6. felhívja az innovációért és technológiáért felelős minisztert, hogy
 
-## a) készítsen jelentést a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
+## a)[^3]
+
+## b)[^4] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2021. január 30.
-
-## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2021. január 30.
+## Határidő: 2022. május 15.
 
 1. melléklet az 1482/2018. (X. 5.) Korm. határozathoz
 
@@ -115,3 +111,8 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2005/2020. (XII. 24.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pont a 2005/2020. (XII. 24.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A 6. pont a) alpontját a 2005/2020. (XII. 24.) Korm. határozat 4. pontja visszavonta.
+[^4]: A 6. pont a) alpontja a 2005/2020. (XII. 24.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
