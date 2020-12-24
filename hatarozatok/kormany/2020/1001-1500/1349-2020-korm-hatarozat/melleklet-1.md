@@ -18,4 +18,6 @@
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a kedvezményezett települési önkormányzatok számára.
 
-1. melléklet az 1349/2020. (VI. 30.) Korm. határozathoz
+1. melléklet az 1349/2020. (VI. 30.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet a 2005/2020. (XII. 24.) Korm. határozat 11. pontja szerint módosított szöveg.

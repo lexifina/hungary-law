@@ -8,7 +8,7 @@
 
 | 4. | Komádi Város Önkormányzata szociális feladatainak támogatása | 200 000 000 | idősek otthona építése |
 
-| 5. | Komló Város Önkormányzata közlekedés fejlesztési feladatainak támogatása | 140 000 000 | út, járda és parkoló építése, felújítása |
+| 5. | Komló Város Önkormányzata közlekedés fejlesztési feladatainak támogatása | 140 000 000 | út, járda és parkoló építése, felújítása, szabadidős tevékenységhez kapcsolódó fejlesztések |
 
 2. melléklet az 1349/2020. (VI. 30.) Korm. határozathoz
 
