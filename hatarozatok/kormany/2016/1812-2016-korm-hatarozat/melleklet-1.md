@@ -20,7 +20,7 @@
 
 ## Határidő: 2016. december 30.
 
-1. melléklet az 1812/2016. (XII. 20.) Korm. határozathoz
+1. melléklet az 1812/2016. (XII. 20.) Korm. határozathoz[^1]
 
 | A támogatási cél/fejlesztés megnevezése | A támogatás célja | A támogatás összege (M Ft) | Kedvezményezett |
 
@@ -92,9 +92,7 @@
 
 | civil és egyéb szervezetek támogatása | Térségi Szenvedélybetegek Nappali Intézménye kialakítása, szervezetfejlesztés | 45,0 | Magyar Ökumenikus Segélyszervezet (Kastélyosdombó) |
 
-| civil és egyéb szervezetek támogatása | Bölcsőde, óvoda kialakításának támogatása, fejlesztése, szervezetfejlesztés | 300,0 | Magyar Ökumenikus Segélyszervezet – Kárpátalja |
-
-| civil és egyéb szervezetek támogatása | Bölcsőde, óvoda kialakításának támogatása, fejlesztése, szervezetfejlesztés | 300,0 | Magyar Ökumenikus Segélyszervezet – Vajdaság, Újvidék |
+| civil és egyéb szervezetek támogatása | Bölcsőde, óvoda kialakításának támogatása, fejlesztése, szervezetfejlesztés | 600,0 | Magyar Ökumenikus Segélyszervezet – Kárpátalja |
 
 | civil és egyéb szervezetek támogatása | A hospice ház kialakítása, fejlesztése, eszközbeszerzés | 30,0 | Debreceni Hospice Ház Alapítvány |
 
@@ -127,3 +125,5 @@
 | civil és egyéb szervezetek támogatása | A Vásárhelyi Pál Egyesület támogatása | 9,5 | Vásárhelyi Pál Egyesület |
 
 | civil és egyéb szervezetek támogatása | A Demokrácia és Politikai Kultúra Alapítvány (DEPOK) hosszú évek óta zajló tevékenységének támogatása a nemzeti politikai kultúra, a polgári, civil normák és értékek elterjesztéséért az egyetemista és főiskolai hallgató fiatalok körében | 10,0 | Demokrácia és Politikai Kultúra Alapítvány |
+
+[^1]: Az 1. melléklet a 2005/2020. (XII. 24.) Korm. határozat 2. pontja szerint módosított szöveg.
