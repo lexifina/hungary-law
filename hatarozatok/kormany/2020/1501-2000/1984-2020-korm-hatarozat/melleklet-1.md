@@ -22,13 +22,7 @@
 
 ## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
 
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „123,82%-áig” szövegrész helyébe a „124,00%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében a „619,939” szövegrész helyébe a „620,839” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:53 mezőjében a „3,30 (támogatási intenzitás: 100%)” szövegrész helyébe a „4,20 (támogatási intenzitás: 100%)” szöveg
-
-## lép.
+## a–c)[^1]
 
 1. melléklet az 1984/2020. (XII. 22.) Korm. határozathoz
 
@@ -41,3 +35,5 @@
 | 3. | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |  |  |
 
 | 4. | IKOP-2.1.0-15- 2017-00040 | Közlekedésbiztonság javítási program a MÁV hálózatán II/A. ütem – Közlekedésbiztonságot növelő fejlesztések | NIF Nemzeti Infrastruktúra Fejlesztő Zrt. | 100% | 3 300 000 000 | 0 | 873 029 586 | 0 | 100% | 899 179 073 | 0 | 242 778 349 | 0 | 100% | 4 199 179 073 | 0 | 1 115 807 935 | 0 | 5 314 987 008 | Szintbeli közúti-vasúti átjárók közlekedés-biztonsági fejlesztése. |
+
+[^1]: A 3. pont a–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
