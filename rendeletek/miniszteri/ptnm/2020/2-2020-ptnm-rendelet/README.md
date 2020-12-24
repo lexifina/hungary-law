@@ -1,0 +1,9 @@
+# 2/2020. (XII. 23.) PTNM rendelet
+
+a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter irányítása alá tartozó központi kezelésű előirányzat kezeléséről és felhasználásáról szóló 1/2017. (X. 31.) PTNM rendeletnek a központi költségvetés címrendjének módosításával kapcsolatos módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-2-20-2R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-12-24 | 2020-2-20-2R.1 | 2/2020. (XII. 23.) PTNM rendelet |
