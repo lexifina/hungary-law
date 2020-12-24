@@ -1,1 +1,3 @@
-## 1. § A turisztikai térségek fejlesztésének állami feladatairól szóló törvény végrehajtásáról szóló 235/2019. (X. 15.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+2. §[^3]
+
+[^3]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
