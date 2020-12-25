@@ -36,13 +36,15 @@
 
 ## m)[^14] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1474/2020. (VIII. 7.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 3a., 5., 6a., 7., 9., 12b. és 25c. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
 
+## n)[^15] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 2021/2020. (XII. 24.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 6b., 12. és 22a. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
+
 ## során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^15]
+## 3.[^16]
 
-1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^16]
+1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^17]
 
 ## A GINOP éves fejlesztési kerete
 
@@ -74,43 +76,45 @@
 
 | 4. | GINOP-1.2.1-14 | Mikro-, kis- és középvállalkozások termelési kapacitásainak bővítése | 25,57 | egyszerűsített | Meghirdetve 2014. októberben |
 
-| 5. | GINOP-1.2.1-15 | Mikro-, kis- és középvállalkozások termelési kapacitásainak bővítése | 79,64 | standard | Meghirdetve 2015. júniusban |
+| 5. | GINOP-1.2.1-15 | Mikro-, kis- és középvállalkozások termelési kapacitásainak bővítése | 79,34 | standard | Meghirdetve 2015. júniusban |
 
-| 5a. | GINOP-1.2.1-16 | Mikro-, kis- és középvállalkozások termelési kapacitásainak bővítése | 119,78 | standard | Meghirdetve 2016. decemberben |
+| 5a. | GINOP-1.2.1-16 | Mikro-, kis- és középvállalkozások termelési kapacitásainak bővítése | 118,83 | standard | Meghirdetve 2016. decemberben |
 
 | 6. | GINOP-1.2.2-15 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása | 34,39 | egyszerűsített | Meghirdetve 2015. júniusban |
 
 | 6a. | GINOP-1.2.2-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása | 24,11 | egyszerűsített | Meghirdetve 2016. decemberben |
 
-| 7. | GINOP-1.2.3-8.3.4-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 28,40 | egyszerűsített | Meghirdetve 2016. decemberben |
+| 7. | GINOP-1.2.3-8.3.4-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 27,60 | egyszerűsített | Meghirdetve 2016. decemberben |
 
 | 8. | GINOP-1.2.4-16 | Ipari parkok fejlesztése | 2,01 | standard | Meghirdetve 2016. áprilisban |
 
 | 9. | GINOP-1.2.5-15 | Logisztikai szolgáltató központok fejlesztéseinek támogatása | 2,68 | standard | Meghirdetve 2015. decemberben |
 
-| 10. | GINOP-1.2.6-8.3.4-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 24,064 | standard | Meghirdetve 2016. decemberben |
+| 10. | GINOP-1.2.6-8.3.4-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 22,06 | standard | Meghirdetve 2016. decemberben |
 
-| 10a. | GINOP-1.2.7-17 | Gyors növekedésű (gazella) vállalkozások komplex fejlesztéseinek támogatása | 8,131 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 10a. | GINOP-1.2.7-17 | Gyors növekedésű (gazella) vállalkozások komplex fejlesztéseinek támogatása | 7,53 | egyszerűsített | Meghirdetve 2017. márciusban |
 
-| 10b. | GINOP-1.2.7-19 | Magyar Multi Program III. – A kiemelt növekedési potenciállal bíró feldolgozóipari kis- és középvállalkozások komplex fejlesztéseinek támogatása | 8,72 | egyszerűsített | Meghirdetve 2019. októberben |
+| 10b. | GINOP-1.2.7-19 | Magyar Multi Program III. – A kiemelt növekedési potenciállal bíró feldolgozóipari kis- és középvállalkozások komplex fejlesztéseinek támogatása | 7,55 | egyszerűsített | Meghirdetve 2019. októberben |
 
 | 10c. | GINOP-1.2.7-20 | Magyar Multi Program III. – A kiemelt növekedési potenciállal bíró kis- és középvállalkozások komplex fejlesztéseinek támogatása | 12,00 | egyszerűsített | Megjelent 2020. júliusban |
 
 | 10d. | GINOP-1.2.8-17 | Kis- és középvállalkozások ipari digitalizációhoz (IPAR 4.0) kapcsolódó fejlesztéseinek támogatása | 2,887 | egyszerűsített | Meghirdetve 2017. márciusban |
 
-| 10e. | GINOP-1.2.8-20 | A mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 67,08 | egyszerűsített | Meghirdetve 2020. májusban |
+| 10e. | GINOP-1.2.8-20 | A mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 74,00 | egyszerűsített | Meghirdetve 2020. májusban |
 
-| 10f. | GINOP-1.2.9-20 | Hátrányos helyzetű településeken működő mikro- és kisvállalkozások fejlesztéseinek támogatása | 5,00 | egyszerűsített | 2020. augusztus |
+| 10f. | GINOP-1.2.9-20 | Hátrányos helyzetű településeken működő mikro- és kisvállalkozások fejlesztéseinek támogatása | 5,00 | egyszerűsített | Meghirdetve 2020. novemberben |
 
-| 10g. | GINOP-1.2.10-19 | Mikro-, kis- és középvállalkozások technológiai modernizációjának támogatása | 5,43 | egyszerűsített | Meghirdetve 2019. októberben |
+| 10g. | GINOP-1.2.10-19 | Mikro-, kis- és középvállalkozások technológiai modernizációjának támogatása | 4,33 | egyszerűsített | Meghirdetve 2019. októberben |
 
-| 10h. | GINOP-1.2.11-20 | Magyar Multi Program IV. – „Zöld Nemzeti Bajnokok” – Energiahatékonysági fejlesztéseket kiszolgálni képes mikro-, kis- és középvállalkozások technológiafejlesztése és kapacitásbővítése | 7,30 | egyszerűsített | 2020. augusztus |
+| 10h. | GINOP-1.2.11-20 | Magyar Multi Program IV. – „Zöld Nemzeti Bajnokok” – Energiahatékonysági fejlesztéseket kiszolgálni képes mikro-, kis- és középvállalkozások technológiafejlesztése és kapacitásbővítése | 10,75 | egyszerűsített | Meghirdetve 2020. augusztusban |
 
-| 10i. | GINOP-1.2.12-20 | Élelmiszeripari középvállalatok komplex beruházásainak támogatása | 5,149 | egyszerűsített | 2020. november |
+| 10i. | GINOP-1.2.12-21 | Élelmiszeripari középvállalatok komplex beruházásainak támogatása | 5,149 | egyszerűsített | 2021. január |
 
-| 10j. | GINOP-1.2.13-20 | Az egyszer használatos és egyéb műanyagtermékek forgalomba hozatalának korlátozásával érintett, valamint az ezeket helyettesítő termékek gyártásával foglalkozó vállalkozások technológiaváltásának és kapacitásbővítésének támogatása | 7,00 | egyszerűsített | 2020. október |
+| 10j. | GINOP-1.2.13-20 | Az egyszer használatos és egyéb műanyagtermékek forgalomba hozatalának korlátozásával érintett, valamint az ezeket helyettesítő termékek gyártásával foglalkozó vállalkozások technológiaváltásának és kapacitásbővítésének támogatása | 7,00 | egyszerűsített | 2020. december |
 
-| 10k. | GINOP-1.2.14-20 | Divat és Dizájnipari mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 7,00 | egyszerűsített | 2020. október |
+| 10k. | GINOP-1.2.14-20 | Divat és Dizájnipari mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 12,00 | egyszerűsített | Meghirdetve 2020. novemberben |
+
+| 10l. | GINOP-1.2.15-21 | Mikro-, kis- és középvállalkozások egészségipari termékek gyártására irányuló fejlesztéseinek támogatása | 23,12 | egyszerűsített | 2021. február |
 
 | 11. | GINOP-1.3.1-14 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 0,35 | egyszerűsített | Meghirdetve 2014. októberben |
 
@@ -140,7 +144,7 @@
 
 | 2a. |  |  |  |  |  |
 
-| 2b. | GINOP-2.1.2- 8.1.4-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hiteltermék keretében | 54,81 | standard | Meghirdetve 2016. decemberben |
+| 2b. | GINOP-2.1.2- 8.1.4-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hiteltermék keretében | 54,712 | standard | Meghirdetve 2016. decemberben |
 
 | 3. | GINOP-2.1.3-15 | Iparjog | 0,202 | egyszerűsített | Meghirdetve 2015. augusztusban |
 
@@ -158,9 +162,9 @@
 
 | 7. | GINOP-2.2.1-15 | Versenyképességi és kiválósági együttműködések | 93,24 | standard | Meghirdetve 2015. szeptemberben |
 
-| 8. | GINOP-2.2.1-18 | Versenyképességi és kiválósági együttműködések | 17,525 | standard | Meghirdetve 2018. szeptemberben |
+| 8. | GINOP-2.2.1-18 | Versenyképességi és kiválósági együttműködések | 17,599 | standard | Meghirdetve 2018. szeptemberben |
 
-| 9. | GINOP-2.3.1-20 | Regionális kutatóintézeti kapacitások megerősítése | 27,00 | standard | Meghirdetve 2020. áprilisban |
+| 9. | GINOP-2.3.1-20 | Regionális kutatóintézeti kapacitások megerősítése | 27,024 | standard | Meghirdetve 2020. áprilisban |
 
 | 10. | GINOP-2.3.2-15 | Stratégiai K+F műhelyek kiválósága | 64,20 | standard | Meghirdetve 2015. szeptemberben |
 
@@ -186,7 +190,7 @@
 
 | 5. | GINOP-3.1.5-20 | Szuperszámítástechnikai szolgáltatások kialakítása a hazai IKT vállalkozásoknak | 6,00 | kiemelt | Meghirdetve 2020. márciusban |
 
-| 5a. | GINOP-3.1.6-20 | Digitális élményközpontok hálózatának továbbfejlesztése és központi minőségbiztosítása | 2,40 | kiemelt | 2020. október |
+| 5a. | GINOP-3.1.6-20 | Digitális élményközpontok hálózatának továbbfejlesztése és központi minőségbiztosítása | 4,50 | kiemelt | 2020. december |
 
 | 6. | GINOP-3.2.1-15 | Infokommunikációs motivációs, szemléletformáló és kompetencia-fejlesztő program KKV-knak | 6,40 | kiemelt | Meghirdetve 2015. áprilisban |
 
@@ -196,9 +200,9 @@
 
 | 9. | GINOP-3.2.6-8.2.4-17 | Versenyképes vállalatok tevékenységének emelt szintű digitalizálása | 1,14 | standard | Meghirdetve 2017. márciusban |
 
-| 9a. | GINOP-3.2.7-20 | Komplex vállalati digitális megoldások, szolgáltatások bevezetésének célzott támogatása | 0,00 | egyszerűsített | 2020. augusztus |
+| 9a. |  |  |  |  |  |
 
-| 9b. | GINOP-3.2.8-20 | MI innovációs és kompetencia központ, adatvagyon-gazdálkodási kapacitás kialakítása a hazai KKV-k számára Mesterséges Intelligencia alkalmazások ösztönzésére | 1,00 | kiemelt | 2020. október |
+| 9b. | GINOP-3.2.8-20 | MI innovációs és kompetencia központ, adatvagyon-gazdálkodási kapacitás kialakítása a hazai KKV-k számára Mesterséges Intelligencia alkalmazások ösztönzésére | 1,00 | kiemelt | Meghirdetve 2020. novemberben |
 
 | 10. | GINOP-3.3.1-16 | Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése | 5,00 | kiemelt | Meghirdetve 2016. májusban |
 
@@ -206,7 +210,7 @@
 
 | 11a. | GINOP-3.3.3-17 | Online kormányzati, közigazgatási és e-egészségügyi szolgáltatások terjedésének és a digitális jólét megteremtésének elősegítése országos, illetve helyi civil és szakmai szervezetek támogatásával | 1,79 | egyszerűsített | Meghirdetve 2017. márciusban |
 
-| 12. | GINOP-3.4.1-15 | Újgenerációs NGA és felhordó hálózatok fejlesztése | 50,34 | standard | Meghirdetve 2015. augusztusban |
+| 12. | GINOP-3.4.1-15 | Újgenerációs NGA és felhordó hálózatok fejlesztése | 47,84 | standard | Meghirdetve 2015. augusztusban |
 
 | 12a. | GINOP-3.4.1-20 | Újgenerációs NGA és felhordó hálózatok fejlesztése (2. ütem) | 5,00 | standard | Meghirdetve 2020. márciusban |
 
@@ -214,7 +218,7 @@
 
 | 14. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 4,29 (ebből VEKOP: 1,29) | kiemelt | Meghirdetve 2015. decemberben |
 
-| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 1,80 | kiemelt | Meghirdetve 2016. júliusban |
+| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 2,20 | kiemelt | Meghirdetve 2016. júliusban |
 
 | 16. | GINOP-3.4.5-VEKOP-16 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése és intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 4,73 (ebből VEKOP: 1,73) | kiemelt | Meghirdetve 2016. decemberben |
 
@@ -232,7 +236,7 @@
 
 | 4. | GINOP-4.1.3-19 | Napelemes rendszer telepítésének támogatása mikro-, kis- és középvállalkozásoknak | 3,72 | egyszerűsített | Meghirdetve 2019. májusban |
 
-| 5. | GINOP-4.1.4-19 | Megújuló energia használatát, energiahatékonyság növelését célzó épületenergetikai fejlesztések támogatása | 32,00 | standard | Meghirdetve 2019. októberben |
+| 5. | GINOP-4.1.4-19 | Megújuló energia használatát, energiahatékonyság növelését célzó épületenergetikai fejlesztések támogatása | 55,60 | standard | Meghirdetve 2019. októberben |
 
 | 6. |  |  |  |  |  |
 
@@ -298,7 +302,7 @@
 
 | 18. |  |  |  |  |  |
 
-| 19. | GINOP-5.3.10- VEKOP-17 | A strukturális változásokhoz való alkalmazkodás segítése | 100,00 (ebből VEKOP: 27,80) | kiemelt | Meghirdetve 2017. márciusban |
+| 19. | GINOP-5.3.10- VEKOP-17 | A strukturális változásokhoz való alkalmazkodás segítése | 67,00 (ebből VEKOP: 27,98) | kiemelt | Meghirdetve 2017. márciusban |
 
 | 20. | GINOP-5.3.11-18 | Kisgyermeket nevelők munkaerőpiaci visszatérésének támogatása | 5,80 | kiemelt | Meghirdetve 2018. októberben |
 
@@ -306,9 +310,9 @@
 
 | 22. | GINOP-5.3.13-20 | Kisgyermeket nevelő szülők képzésének elősegítése, ösztöndíja és elhelyezkedésük támogatása | 3,00 | kiemelt | Meghirdetve 2020. januárban |
 
-| 23. | GINOP-5.3.16- VEKOP-20 | Veszélyhelyzeti bértámogatás kutatásfejlesztési munkahelymegőrzés céljából | 20,00 (ebből VEKOP: 12,98) | kiemelt | 2020. augusztus |
+| 23. | GINOP-5.3.16- VEKOP-20 | Veszélyhelyzeti bértámogatás kutatásfejlesztési munkahelymegőrzés céljából | 18,00 (ebből VEKOP: 11,68) | kiemelt | 2020. augusztus |
 
-| 24. |  |  |  |  |  |
+| 24. | GINOP-5.3.17-21 | KKV kapacitásbővítő válságtámogatás | 15,87 | kiemelt | 2021. január |
 
 6. A versenyképes munkaerőről szóló 6. prioritás
 
@@ -324,7 +328,7 @@
 
 | 5. | GINOP-6.1.4-16 | Munkaerőpiaci kompetenciák fejlesztése a konvergencia régiókban | 6,50 | kiemelt | Meghirdetve 2016. decemberben |
 
-| 6. | GINOP-6.1.5-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 6,508 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 6. | GINOP-6.1.5-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 5,917 | egyszerűsített | Meghirdetve 2017. márciusban |
 
 | 7. | GINOP-6.1.6-17 | Munkahelyi képzések támogatása mikro-, kis- és középvállalatok munkavállalói számára | 12,46 | egyszerűsített | Meghirdetve 2017. márciusban |
 
@@ -332,9 +336,9 @@
 
 | 7b. | GINOP-6.1.8-18 | Vállalati Képző Központok rendszerének kialakítása és működtetése | 0,179 | standard | Meghirdetve 2018. márciusban |
 
-| 7c. | GINOP-6.1.9-18 | Közlekedési képzési- és vizsgacentrum kialakítása | 6,00 | kiemelt | Meghirdetve 2018. decemberben |
+| 7c. | GINOP-6.1.9-18 | Közlekedési képzési- és vizsgacentrum kialakítása | 7,00 | kiemelt | Meghirdetve 2018. decemberben |
 
-| 7d. | GINOP-6.1.9-21 | Vállalati képzések támogatása a közlekedési ágazatban | 1,00 | egyszerűsített | 2021. szeptember |
+| 7d. |  |  |  |  |  |
 
 | 7e. | GINOP-6.1.10- VEKOP-19 | A gazdaság fokozatváltását támogató innovatív képzések | 10,941 (ebből VEKOP: 1,534) | kiemelt | Meghirdetve 2019. októberben |
 
@@ -350,7 +354,7 @@
 
 | 13. | GINOP-6.2.6-20 | Ágazati képzőközpontok, okos struktúrák és képzőhely alternatívák | 3,261 | kiemelt | Meghirdetve 2020. márciusban |
 
-| 14. | GINOP-6.2.7-20 | Ágazati képzőközpontok infrastrukturális és szakmai felkészítése az új szakképzési struktúrára | 5,40 | standard | 2020. augusztus |
+| 14. | GINOP-6.2.7-20 | Ágazati képzőközpontok infrastrukturális és szakmai felkészítése az új szakképzési struktúrára | 5,40 | standard | Meghirdetve 2020. augusztusban |
 
 | 15. | GINOP-6.2.8- VEKOP-20 | Egyes szakmák digitális tananyagfejlesztése | 9,90 (ebből VEKOP: 2,71) | kiemelt | Meghirdetve 2020. júliusban |
 
@@ -362,9 +366,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-7.1.1-15 | Nemzeti Kastély- és Várprogram turisztikai célú fejlesztéseinek támogatása | 41,86 | kiemelt | Meghirdetve 2015. augusztusban |
+| 2. | GINOP-7.1.1-15 | Nemzeti Kastély- és Várprogram turisztikai célú fejlesztéseinek támogatása | 42,71 | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 3. | GINOP-7.1.2-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 10,548 | kiemelt | Meghirdetve 2015. decemberben |
+| 3. | GINOP-7.1.2-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 10,563 | kiemelt | Meghirdetve 2015. decemberben |
 
 | 4. | GINOP-7.1.3-15 | Gyógyhelyek komplex turisztikai fejlesztése | 5,438 | standard | Meghirdetve 2015. novemberben |
 
@@ -372,11 +376,11 @@
 
 | 6. | GINOP-7.1.5-16 | Nemzeti parkok komplex turisztikai fejlesztése | 4,31 | standard | Meghirdetve 2016. márciusban |
 
-| 7. | GINOP-7.1.6-16 | Világörökségi helyszínek fejlesztése | 11,58 | standard | Meghirdetve 2016. októberben |
+| 7. | GINOP-7.1.6-16 | Világörökségi helyszínek fejlesztése | 11,594 | standard | Meghirdetve 2016. októberben |
 
 | 7a. | GINOP-7.1.8-18 | Turisztikai attrakciók minősítési feltételrendszerének kialakítása | 1,00 | kiemelt | Meghirdetve 2018. januárban |
 
-| 8. | GINOP-7.1.9-17 | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése | 48,72 | standard | Meghirdetve 2017. márciusban |
+| 8. | GINOP-7.1.9-17 | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése | 49,36 | standard | Meghirdetve 2017. márciusban |
 
 8. A pénzügyi eszközökről szóló 8. prioritás
 
@@ -384,7 +388,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Kapcsolódó felhívás azonosító jele (vissza nem térítendő) | Kapcsolódó felhívás keretösszege (vissza nem térítendő) (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-8.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hitel | 15,69 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 2. | GINOP-8.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hitel | 15,33 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 2a. |  |  |  |  |  |  |  |
 
@@ -394,37 +398,37 @@
 
 | 5. | GINOP-8.1.3/B-17 | Intelligens szakosodási kockázati tőkeprogram | 67,89 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
-| 5a. | GINOP-2.1.2-8.1.4-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hiteltermék keretében | 40,76 | GINOP-2.1.2- 8.1.4-16 | 54,81 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 5a. | GINOP-2.1.2-8.1.4-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hiteltermék keretében | 37,35 | GINOP-2.1.2- 8.1.4-16 | 54,712 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 6. | GINOP-8.2.1-3.4.1-15 | Újgenerációs Hozzáférési Hálózat (NGA) és körzethálózatok fejlesztése hitel | 3,10 | GINOP-3.4.1-15 | 50,34 | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | Meghirdetve 2015. szeptemberben |
+| 6. | GINOP-8.2.1-3.4.1-15 | Újgenerációs Hozzáférési Hálózat (NGA) és körzethálózatok fejlesztése hitel | 3,10 | GINOP-3.4.1-15 | 47,84 | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | Meghirdetve 2015. szeptemberben |
 
 | 7. | GINOP-8.2.3-17 | Specializált seed és pre-seed befektetési tőkealap induló IKT vállalkozások számára új ötletekhez, új piacra lépéshez – kockázati tőke | 6,30 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
-| 8. | GINOP-8.2.4-16 | Infokommunikációs-technológiai vállalati fejlesztéseket támogató kombinált hitel | 23,10 | GINOP-3.1.2- 8.2.4-16 GINOP-3.2.2- 8.2.4-16 GINOP-3.2.4- 8.2.4-16 GINOP-3.2.6- 8.2.4-17 | 17,142 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 8. | GINOP-8.2.4-16 | Infokommunikációs-technológiai vállalati fejlesztéseket támogató kombinált hitel | 22,60 | GINOP-3.1.2- 8.2.4-16 GINOP-3.2.2- 8.2.4-16 GINOP-3.2.4- 8.2.4-16 GINOP-3.2.6- 8.2.4-17 | 17,142 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 8a. | GINOP-8.2.5-17 | Üzleti infokommunikációs, digitalizációs tőkealap | 9,70 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
-| 8b. | GINOP-8.2.6-18 | Digitális Jólét Pénzügyi Program – hitelprogram | 2,05 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. júliusban |
+| 8b. | GINOP-8.2.6-18 | Digitális Jólét Pénzügyi Program – hitelprogram | 1,67 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. júliusban |
 
 | 8c. | GINOP-8.2.7-18 | Digitális Jólét Pénzügyi Program – tőkeprogram | 7,27 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. júliusban |
 
-| 9. | GINOP-8.3.1-16 | Mikro-, kis-és középvállalkozások versenyképességének növelése hitel | 70,03 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. májusban |
+| 9. | GINOP-8.3.1-16 | Mikro-, kis-és középvállalkozások versenyképességének növelése hitel | 69,08 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. májusban |
 
 | 10. |  |  |  |  |  |  |  |
 
-| 11. | GINOP-8.3.3-17 | Irinyi tőkeprogram | 8,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
+| 11. | GINOP-8.3.3-17 | Irinyi tőkeprogram | 7,76 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
-| 12. | GINOP-1.2.3-8.3.4-16 | Mikro-, kis-és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 61,87 | GINOP-1.2.3- 8.3.4-16 | 28,40 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 12. | GINOP-1.2.3-8.3.4-16 | Mikro-, kis-és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 60,89 | GINOP-1.2.3- 8.3.4-16 | 27,60 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 13. | GINOP-1.2.6-8.3.4-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 29,46 | GINOP-1.2.6- 8.3.4-16 | 24,064 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 13. | GINOP-1.2.6-8.3.4-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 24,51 | GINOP-1.2.6- 8.3.4-16 | 22,06 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 13a. | GINOP-8.3.5-18 | Mikro-, kis- és középvállalkozások technológiai korszerűsítése célú hitel | 264,64 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. szeptemberben |
+| 13a. | GINOP-8.3.5-18 | Mikro-, kis- és középvállalkozások technológiai korszerűsítése célú hitel | 276,40 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. szeptemberben |
 
-| 14. | GINOP-4.1.1-8.4.4-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 3,69 | GINOP-4.1.1- 8.4.4-16 | 3,49 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 14. | GINOP-4.1.1-8.4.4-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 3,53 | GINOP-4.1.1- 8.4.4-16 | 3,49 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 15. | GINOP-8.4.1/A-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 75,98 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. februárban |
+| 15. | GINOP-8.4.1/A-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 78,19 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. februárban |
 
-| 16. | GINOP-8.4.1/B-16 | KKV energia hitel | 50,04 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 16. | GINOP-8.4.1/B-16 | KKV energia hitel | 48,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 17. |  |  |  |  |  |  |  |
 
@@ -448,5 +452,6 @@
 [^12]: Az 1/A. pont k) alpontját az 1301/2020. (VI. 11.) Korm. határozat 1. pontja iktatta be.
 [^13]: Az 1/A. pont l) alpontját az 1362/2020. (VII. 2.) Korm. határozat 3. pontja iktatta be.
 [^14]: Az 1/A. pont m) alpontját az 1474/2020. (VIII. 7.) Korm. határozat 1. pontja iktatta be.
-[^15]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^15]: Az 1/A. pont n) alpontját a 2021/2020. (XII. 24.) Korm. határozat 3. pontja iktatta be.
+[^16]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja, a 2021/2020. (XII. 24.) Korm. határozat 4. pont a) alpontja, 5. pontja szerint módosított szöveg.
