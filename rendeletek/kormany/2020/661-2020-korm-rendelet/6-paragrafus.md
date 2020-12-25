@@ -1,0 +1,3 @@
+## 5. § A Rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Tájékoztatóban megjelenő felvételi hirdetmény tartalmazza azt a hallgatói kapacitást, amelyet a felsőoktatási intézmény – a különböző finanszírozási formákban együttesen, figyelembe véve az Nftv. 73. § (3) bekezdés h) pont hb) alpontja szerinti fenntartói hozzájárulást, valamint a rendelkezésére álló személyi és tárgyi feltételeket – szakonként, az adott évben meghirdet. A Tájékoztató szakos hallgatói kapacitásként a Hivatal által a működési engedélyben szereplő maximális hallgatói létszám alapulvételével kiszámított létszámkereteken belüli, a fenntartó által is jóváhagyott létszámot tartalmazhat.”

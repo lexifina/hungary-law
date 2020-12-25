@@ -1,0 +1,3 @@
+## 10. § A Rendelet 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Hivatal – a jelentkezők központi nyilvántartásának létrehozása után – a 12. § (3) bekezdésében meghatározott határidő lejártát követő 14. naptól biztosítja a jelentkezők számára, hogy a róluk nyilvántartott adatokat és a benyújtott dokumentumaik feldolgozottságának állapotát, elutasítás esetén annak indokát az elektronikus szolgáltatás keretében – a felvételi eljárás hivatalos honlapján nyújtott személyes ügyintézési felületen keresztül – folyamatosan megismerjék. A jelentkező a 12. § (4) bekezdésében meghatározott határidőn belül kérheti az igazolt adatainak kijavítását.”
