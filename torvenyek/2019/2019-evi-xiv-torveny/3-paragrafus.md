@@ -1,4 +1,4 @@
-3. § (1) A Beruházással, a rendezvények lebonyolításával és szervezésével, valamint a Projekttel összefüggésben lebonyolítandó közbeszerzési eljárások tekintetében az ajánlatkérő minden esetben jogosult a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására.
+3. § (1) A Magyarországi MotoGP megrendezésére irányuló vagyoni értékű jogok megszerzésével összefüggésben a Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság által lebonyolítandó közbeszerzési eljárások tekintetében az ajánlatkérő jogosult a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására.
 
 (2) Az (1) bekezdés szerinti, rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárása esetén
 
