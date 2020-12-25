@@ -1,0 +1,1 @@
+14. § Az Szjtv. 4. § (3), (3a) és (6) bekezdésében, 5. § (1) bekezdésében, 27. § (12) bekezdésében, valamint 40/A. § (6) bekezdésében a „szerencsejáték-szervezés állami felügyeletéért felelős miniszter” szövegrész helyébe a „Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv” szöveg lép.
