@@ -1,0 +1,1 @@
+13/A. § A 13. §-ban foglaltaktól eltérően a Közbeszerzési és Ellátási Főigazgatóság gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét az Egészségügyi Szolgáltató Zártkörűen Működő Részvénytársaság felett.
