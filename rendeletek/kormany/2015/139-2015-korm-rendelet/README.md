@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-139-20-
 | 2019-08-01 | 2015-139-20-22.9 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2019-09-30 | 2015-139-20-22.10 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2020-09-01 | 2015-139-20-22.11 | 393/2020. (VIII. 12.) Korm. rendelet |
+| 2020-12-25 | 2015-139-20-22.12 | 393/2020. (VIII. 12.) Korm. rendelet |

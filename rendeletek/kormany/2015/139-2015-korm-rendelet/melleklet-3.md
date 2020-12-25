@@ -62,7 +62,9 @@
 
 | 28. |  |  | történelem | History | történelem alapszakos bölcsész | Philologist in History | 6 |
 
-| 29. | Társadalomtudomány | Social Science | informatikus könyvtáros | Library and Information Science | informatikus könyvtáros | Library and Information Scientist | 6 |
+| 28/A. | Társadalomtudomány | Social Science |  | Philosophy, Politics, Economy | gazdaság és politikai kapcsolatok szakember | Expert in Political and Economy Studies | 6 |
+
+| 29. | informatikus könyvtáros | Library and Information Science | informatikus könyvtáros | Library and Information Science | 6 |
 
 | 30. |  |  | kommunikáció- és médiatudomány | Communication and Media Science | kommunikátor | Expert in Communication | 6 |
 
@@ -94,7 +96,7 @@
 
 | 42. |  |  | emberi erőforrások | Human Resources | közgazdász emberi erőforrások alapképzési szakon | Economist in Human Resource Management | 6 |
 
-| 42/A. |  |  | filozófia, politika, gazdaság | Philosophy, Politics, Economy | gazdaság és politikai kapcsolatok szakember | Expert in Political and Economy Studies | 6 |
+| 42/A. |  |  |  |  |  |  |  |
 
 | 43. |  |  | gazdálkodási és menedzsment | Business Administration and Management | közgazdász gazdálkodási és menedzsment alapképzési szakon | Economist in Business Administration and Management | 6 |
 
@@ -262,6 +264,6 @@
 
 | 112. |  |  | zenekultúra | Music Culture | zenekultúra szakember | Music Culture Expert | 6 |
 
-3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^59]
+3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^62]
 
-[^59]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 3. §-a, a 188/2018. (X. 12.) Korm. rendelet 6. §-a, a 191/2019. (VII. 30.) Korm. rendelet 71. §-a, a 393/2020. (VIII. 12.) Korm. rendelet 5. § b) pontja és 7. § 8–17. pontja szerint módosított szöveg.
+[^62]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 3. §-a, a 188/2018. (X. 12.) Korm. rendelet 6. §-a, a 191/2019. (VII. 30.) Korm. rendelet 71. §-a, a 393/2020. (VIII. 12.) Korm. rendelet 5. § b) pontja és 7. § 8–17. pontja, a 661/2020. (XII. 24.) Korm. rendelet 24. § b) pontja, 25. § d)–e) pontja, 26. § b) pontja szerint módosított szöveg.

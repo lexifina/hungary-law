@@ -10,11 +10,11 @@
 
 (5) A 4. melléklet tartalmazza a magyar és külföldi felsőoktatási intézmények közös képzéseinek jegyzékét.
 
-(6)[^4] Az 1. § (3) bekezdése szerinti képzések jegyzékét a 363/2011. (XII. 30.) Korm. rendelet 6/A. § (4) bekezdésének megfelelően az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló kormányrendelet tartalmazza.
+(6)[^5] Az 1. § (3) bekezdése szerinti képzések jegyzékét a 363/2011. (XII. 30.) Korm. rendelet 6/A. § (4) bekezdésének megfelelően az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló kormányrendelet tartalmazza.
 
-(7)[^5] A hitéleti képzési területen alapképzési szakon az MKKR 6. szintjének megfelelő, mesterképzési szakon az MKKR 7. szintjének megfelelő végzettség és szakképzettség szerezhető.
+(7)[^6] A hitéleti képzési területen alapképzési szakon az MKKR 6. szintjének megfelelő, mesterképzési szakon az MKKR 7. szintjének megfelelő végzettség és szakképzettség szerezhető.
 
-(8)[^6] Az Nftv. 15. § (6) bekezdésében és az 51. § (5) bekezdésében meghatározottakkal összhangban, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet szerinti,
+(8)[^7] Az Nftv. 15. § (6) bekezdésében és az 51. § (5) bekezdésében meghatározottakkal összhangban, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet szerinti,
 
 a) alapfokozatot követő, valamint alap- és mesterfokozatot követő szakirányú továbbképzésben az MKKR 6. szintjének megfelelő,
 
@@ -22,6 +22,6 @@ b) kizárólag mesterfokozatot követő szakirányú továbbképzésben az MKKR 
 
 szakképzettség szerezhető.
 
-[^4]: A 2. § (6) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 223/2019. (IX. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^5]: A 2. § (7) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be.
-[^6]: A 2. § (8) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be, nyitó szövegrésze a 407/2017. (XII. 15.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^5]: A 2. § (6) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 223/2019. (IX. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^6]: A 2. § (7) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be.
+[^7]: A 2. § (8) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be, nyitó szövegrésze a 407/2017. (XII. 15.) Korm. rendelet 43. §-a szerint módosított szöveg.

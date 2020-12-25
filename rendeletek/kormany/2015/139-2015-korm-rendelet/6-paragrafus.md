@@ -1,8 +1,8 @@
 ## 5. §
 
-## 5. [^13] Alapképzési és mesterképzési szak és a szakon szerezhető szakképzettség, valamint a felsőoktatási szakképzés felsőoktatási képesítési jegyzékbe történő felvételének kezdeményezése
+## 5. [^14] Alapképzési és mesterképzési szak és a szakon szerezhető szakképzettség, valamint a felsőoktatási szakképzés felsőoktatási képesítési jegyzékbe történő felvételének kezdeményezése
 
-6. § (1)[^14] Alapképzési és mesterképzési szak és szakképzettség, valamint felsőoktatási szakképzés felsőoktatási képesítési jegyzékbe történő felvételét felsőoktatási intézmény, felsőoktatási intézmények közösen vagy a miniszter kezdeményezheti.
+6. § (1)[^15] Alapképzési és mesterképzési szak és szakképzettség, valamint felsőoktatási szakképzés felsőoktatási képesítési jegyzékbe történő felvételét felsőoktatási intézmény, felsőoktatási intézmények közösen vagy a miniszter kezdeményezheti.
 
 (2) A létesítési dokumentumnak tartalmaznia kell:
 
@@ -28,15 +28,15 @@ df) pedagógus szakképzettséget adó szak létesítése esetén a szak és a s
 
 e) alapképzési szak létesítése esetén a Magyar Rektori Konferencia képzési terület szakszerkezetének módosítására vonatkozó álláspontját;
 
-f)[^15]
+f)[^16]
 
 g) a Magyar Felsőoktatási Akkreditációs Bizottság 7. § (1) bekezdése szerinti véleményét;
 
 h) a Felsőoktatási Tervezési Testület 7. § (2) bekezdése szerinti véleményét;
 
-i)[^16] az alapképzési, mesterképzési szak vagy felsőoktatási szakképzés képzési és kimeneti követelményeiről a felsőoktatási intézmény – Nftv. 12. § (3) bekezdés e) pont ea) alpontja és h) pont hf) alpontja alapján hozott – szenátusi döntésének hitelesített kivonatát, ha a létesítés kezdeményezője felsőoktatási intézmény.
+i)[^17] az alapképzési, mesterképzési szak vagy felsőoktatási szakképzés képzési és kimeneti követelményeiről a felsőoktatási intézmény – Nftv. 12. § (3) bekezdés e) pont ea) alpontja és h) pont hf) alpontja alapján hozott – szenátusi döntésének hitelesített kivonatát, ha a létesítés kezdeményezője felsőoktatási intézmény.
 
-[^13]: Az 5. alcím címe a 393/2020. (VIII. 12.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^14]: A 6. § (1) bekezdése a 393/2020. (VIII. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^15]: A 6. § (2) bekezdés f) pontját a 393/2020. (VIII. 12.) Korm. rendelet 7. § 3. pontja hatályon kívül helyezte.
-[^16]: A 6. § (2) bekezdés i) pontja a 393/2020. (VIII. 12.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^14]: Az 5. alcím címe a 393/2020. (VIII. 12.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdése a 393/2020. (VIII. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^16]: A 6. § (2) bekezdés f) pontját a 393/2020. (VIII. 12.) Korm. rendelet 7. § 3. pontja hatályon kívül helyezte.
+[^17]: A 6. § (2) bekezdés i) pontja a 393/2020. (VIII. 12.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

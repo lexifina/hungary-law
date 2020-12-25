@@ -232,6 +232,8 @@
 
 | 108. |  |  | nemzetközi tanulmányok |  | International Relations |  | okleveles nemzetközi kapcsolatok elemző |  | International Relations Expert | 7 |
 
+| 108/A. |  |  | politikai gazdaságtan |  |  | Political Economy |  | okleveles politológus közgazdász | Political Economist | 7 |
+
 | 109. |  |  | politikatudomány |  | Political Science |  | okleveles politológus |  | Political Scientist | 7 |
 
 | 110. |  |  |  | survey statisztika és adatanalitika |  |  |  | Survey Statistics and Data Analysis |  | okleveles survey statisztika és adatanalitikai szakértő |  | Survey Statistician and Data Analyst | 7 |
@@ -282,7 +284,7 @@
 
 | 130. |  |  | közgazdasági elemző |  | Economic Analysis |  | okleveles közgazdasági elemző |  | Economic Analyst | 7 |
 
-| 130/A. |  |  | kutatási menedzser |  | Research Management | okleveles közgazdász kutatási menedzser szakon | Economist in Reseacch Management | 7 |
+| 130/A. |  |  | kutatási menedzser |  | Research Management | okleveles közgazdász kutatási menedzser szakon | Economist in Research Management | 7 |
 
 | 131. |  |  | marketing |  | Marketing |  | okleveles közgazdász marketing szakon |  | Economist in Marketing | 7 |
 
@@ -296,7 +298,7 @@
 
 | 134. |  |  | pénzügy |  | Finance |  | okleveles közgazdász pénzügy szakon |  | Economist in Finance | 7 |
 
-| 134/A. |  |  | politikai gazdaságtan |  | Political Economy | okleveles politológus közgazdász | Political Economist | 7 |
+| 134/A. |  |  |  |  |  |  |  |  |
 
 | 135. |  |  | regionális és környezeti gazdaságtan |  | Regional and Environmental Economic Studies |  | okleveles közgazdász regionális és környezeti gazdaságtan szakon |  | Economist in Regional and Environmental Economic Studies | 7 |
 
@@ -386,7 +388,7 @@
 
 | 174. |  |  | településmérnöki |  | Urban Systems Engineering |  | okleveles településmérnök |  | Urban Systems Engineer | 7 |
 
-| 174/A. |  |  | űrmérnöki |  | Space Engineer | okleveles űrmérnök | Space Engineer | 7 |
+| 174/A. |  |  | űrmérnöki |  | Space Engineering | okleveles űrmérnök | Space Engineer | 7 |
 
 | 175. |  |  | védelmi infokommunikációs rendszertervező |  | Defence C3 Systems Management |  | okleveles védelmi infokommunikációs rendszertervező |  | Defence C3 Systems Manager | 7 |
 
@@ -422,7 +424,7 @@
 
 | 190. |  |  | táplálkozástudományi |  | Nutritional Sciences |  | okleveles táplálkozástudományi szakember |  | Nutritionist | 7 |
 
-| 190/A. |  |  | gyermekkultúra |  | Culture of Early Childhood | okleveles gyermekkultúra szakos pedagógus | Educator in Early Childhood Cultura Studies | 7 |
+| 190/A. | Pedagógusképzés | Teacher Training | gyermekkultúra |  |  |  | Culture of Early Childhood |  | okleveles gyermekkultúra szakos szakember |  | Expert in Early Childhood Cultura Studies | 7 |
 
 | 191. |  |  | gyógypedagógia |  | Special Needs Education | okleveles gyógypedagógus | Special Needs Educator | 7 |
 
@@ -580,8 +582,8 @@
 
 | 254. |  |  |  |  |  |  |  |  |  |  |  |
 
-| 255. | Művészetközvetítés | Art Education | művészeti instruktor |  | Arts Communication | okleveles művészeti instruktor | okleveles művészeti instruktor | 7 |
+| 255. | Művészet-közvetítés | Art Education | művészeti instruktor |  |  | Arts Communication |  | okleveles művészeti instruktor |  | Arts Communication Expert | 7 |
 
-4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^60]
+4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^63]
 
-[^60]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése, a 188/2018. (X. 12.) Korm. rendelet 7. §-a, a 191/2019. (VII. 30.) Korm. rendelet 72. § b)–d) pontja, a 393/2020. (VIII. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^63]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése, a 188/2018. (X. 12.) Korm. rendelet 7. §-a, a 191/2019. (VII. 30.) Korm. rendelet 72. § b)–d) pontja, a 393/2020. (VIII. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
