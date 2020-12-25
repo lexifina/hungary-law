@@ -32,7 +32,7 @@
 
 ## Határidő: a Külgazdasági és Külügyminisztérium befizetési kötelezettségének teljesítését követően azonnal
 
-## 7. visszavonja a MANEVI Zrt. tőkeemelésével, valamint a Közép-európai Épített Örökség Megőrző Alapítvány részére történő vagyonjuttatással kapcsolatos intézkedésekről szóló 1613/2020. (IX. 29.) Korm. határozatot.
+## 7.[^1]
 
 1. melléklet a 2009/2020. (XII. 24.) Korm. határozathoz
 
@@ -109,3 +109,5 @@
 |  |  | egyéb: |  | azonnal |  | 600 000 000 |  |  |  |  |  |  |  |  |  |  |  | 600 000 000 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
