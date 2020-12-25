@@ -20,9 +20,12 @@
 
 (9)[^79] A magyar nyelven folytatott és befejezett tanulmányokat igazoló, államilag elismert, külföldi köznevelési intézményben vagy külföldi szakképző intézményben szerzett érettségi bizonyítvány az adott külföldi állam hivatalos nyelve szerinti államilag elismert általános, egynyelvű, komplex típusú középfokú nyelvvizsgának felel meg. A külföldi középfokú oktatási intézményben az adott állam hivatalos nyelvén bármely közismereti tantárgyból legalább két tanévig folytatott és eredményesen befejezett tanulmányok teljesítése az adott külföldi állam hivatalos nyelve szempontjából államilag elismert általános, egynyelvű, komplex típusú felsőfokú nyelvvizsgának felel meg.
 
+(10)[^80] Amennyiben Magyarország és valamely külföldi állam között kulturális központok létesítéséről és működéséről szóló, nyelvvizsgák szervezését is megengedő kétoldalú nemzetközi egyezmény áll fenn, az egyezményben részes külföldi állam vizsgaközpontja által a külföldi államban elismert nyelvvizsgaként szervezett, olyan, az állam hivatalos nyelvéből szerzett nyelvvizsga, amelyre Magyarország mint fogadó állam területén működő kulturális központban is lehet jelentkezni, a 3. számú mellékletben meghatározott típusú és fokozatú, államilag elismert nyelvvizsgának felel meg.
+
 [^74]: A 13/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 220. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^75]: A 14. § (1) bekezdése a 260/2012. (IX. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 346/2019. (XII. 23.) Korm. rendelet 9. § 10. pontja, a 13/2020. (II. 7.) Korm. rendelet 44. § 1. pontja szerint módosított szöveg.
 [^76]: A 14. § (2) bekezdése a 346/2019. (XII. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^77]: A 14. § (5) bekezdése a 260/2012. (IX. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 13/2020. (II. 7.) Korm. rendelet 44. § 2. pontja szerint módosított szöveg.
 [^78]: A 14. § (6) bekezdése a 33/2014. (II. 18.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
 [^79]: A 14. § (9) bekezdését a 260/2012. (IX. 14.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 44. § 3. pontja szerint módosított szöveg.
+[^80]: A 14. § (10) bekezdését a 661/2020. (XII. 24.) Korm. rendelet 1. §-a iktatta be.
