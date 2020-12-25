@@ -2,7 +2,7 @@
 
 ## A KONCESSZIÓ
 
-8. § A miniszter belföldi vagy külföldi természetes személlyel vagy átlátható szervezettel kötött koncessziós szerződéssel meghatározott időre átengedheti:
+8. § A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv belföldi vagy külföldi természetes személlyel vagy átlátható szervezettel kötött koncessziós szerződéssel meghatározott időre átengedheti:
 
 a) zárt területen
 

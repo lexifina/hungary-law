@@ -84,7 +84,7 @@ f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosít
 
 (7) A bányajáradék mértéke geotermikus energia esetében a kitermelt geotermikus energia értékének 2%-a.
 
-(8) A bányajáradék mértékét koncessziós szerződés (12. §) alapján gyakorolt bányászati tevékenység esetén a miniszter
+(8) A bányajáradék mértékét koncessziós szerződés (12. §) alapján gyakorolt bányászati tevékenység esetén a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
 
 a) az ásványi nyersanyag fajták,
 

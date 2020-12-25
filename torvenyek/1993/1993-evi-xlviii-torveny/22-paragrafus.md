@@ -1,6 +1,6 @@
 ## A kutatás engedélyezése
 
-22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a miniszter a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
+22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
 
 (2) Az adományozott kutatási jog vagy a kutatási engedély a kutatási területen a bányavállalkozónak kizárólagos jogot ad az ásványinyersanyag-, illetve geotermikusenergia-kutatási műszaki üzemi terv benyújtására, a jóváhagyás kezdeményezésére és az ásványi nyersanyag, illetve geotermikus energia jóváhagyott kutatási műszaki üzemi terv alapján végzett kutatására és elfogadott kutatási zárójelentés alapján a bányatelek megállapításának, a geotermikus védőidom kijelölésének kezdeményezésére.
 
@@ -16,7 +16,7 @@
 
 (8) Az (1) bekezdésben foglaltak alapján adományozott vagy engedélyezett kutatási jog megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés hatálybalépésétől, illetve a kutatást engedélyező határozat véglegessé válásától számított 6 hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, vagy a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet véglegessé vált határozatában elutasította..
 
-(9) Ha a bányavállalkozó a munkaprogramban vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a kutatási engedélyt a bányafelügyelet visszavonja vagy a miniszternél kezdeményezi a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását.
+(9) Ha a bányavállalkozó a munkaprogramban vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a kutatási engedélyt a bányafelügyelet visszavonja vagy a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszternél vagy központi kormányzati igazgatási szervnél kezdeményezi a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását.
 
 (10) Ha a kutatási jogadomány vagy a kutatási engedély olyan, részben vagy egészben fedő vagy magában foglaló földtani szerkezetre vonatkozik, amelyre más bányavállalkozó bányászati jogát már megállapították, a kutatási jogadomány vagy a kutatási engedély jogosítottja köteles tevékenységét a már bányászati joggal rendelkező bányavállalkozóval összehangolni, és az erre vonatkozó megállapodást közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba foglalni. A megállapodás létrejöttéhez a bányafelügyelet – e törvény végrehajtására kiadott jogszabályban meghatározott szempontok alapján történő – jóváhagyása szükséges. A felek a megállapodástól a bányafelügyelet hozzájárulásával állhatnak el, azt a bányafelügyelet hozzájárulásával bonthatják fel, szüntethetik meg, mondhatják fel vagy módosíthatják.
 

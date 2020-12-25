@@ -4,7 +4,7 @@
 
 2. e törvény hatálya alá tartozó, hatósági engedély vagy koncessziós szerződés alapján végezhető tevékenységekre,
 
-3. a koncessziós pályázatok értékelését végző minősítő bizottság létrehozására és összetételére,
+3. a koncessziós pályázatok értékelését végző, a koncesszióról szóló 1991. évi XVI. törvény 30/A. § c) pontja szerinti bizottság létrehozására és összetételére,
 
 4. a bányajáradékra, annak befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
 
@@ -120,7 +120,7 @@ m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok,
 
 n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén-dioxid szállítóvezetékek biztonsági szabályzatára vonatkozó rendelkezések,
 
-o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
+o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási részletes szabályok
 
 p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
 

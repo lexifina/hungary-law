@@ -14,7 +14,7 @@
 
 (5)–(6)
 
-(7) A bányafelügyelet készíti elő a miniszter ásványvagyon-gazdálkodással, valamint a koncessziós szerződésekkel kapcsolatos döntéseit, továbbá előkészíti a 34. § (2) bekezdésében foglalt bányászati, valamint gázipari biztonsági szabályzatokat, és ellenőrzi azok végrehajtását.
+(7) A bányafelügyelet készíti elő a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv ásványvagyon-gazdálkodással, valamint a koncessziós szerződésekkel kapcsolatos döntéseit, továbbá előkészíti a 34. § (2) bekezdésében foglalt bányászati, valamint gázipari biztonsági szabályzatokat, és ellenőrzi azok végrehajtását.
 
 (8)
 

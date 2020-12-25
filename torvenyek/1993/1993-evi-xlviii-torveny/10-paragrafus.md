@@ -1,6 +1,6 @@
 ## A koncessziós pályázat
 
-10. § (1) A koncessziós szerződések megkötésére a miniszter nyilvános pályázatot ír ki.
+10. § (1) A koncessziós szerződések megkötésére a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv nyilvános pályázatot ír ki.
 
 (2) A pályázati kiírásnak a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakra is figyelemmel, tartalmaznia kell:
 
