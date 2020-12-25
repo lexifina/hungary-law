@@ -16,7 +16,7 @@
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
-|  | Iskolaegészségügyi ellátás | 2 317,1 |
+| Iskolaegészségügyi ellátás | 2 317,1 |
 
 | Védőnői ellátás | 24 009,8 |
 
@@ -36,11 +36,11 @@
 
 | 8. | Művesekezelés | 27 771,1 |
 
-| 11. | Működési költségelőleg | 0 |
+| 11. | Működési költségelőleg | 0,0 |
 
 |  | Célelőirányzatok |  |
 
-|  | Méltányossági alapon történő térítések | 3 372,7 |
+| Méltányossági alapon történő térítések | 3 372,7 |
 
 | Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
 
@@ -56,11 +56,11 @@
 
 | Fiatal szakorvosok támogatása | 326,3 |
 
-| Működési támogatás | 46 283,0 |
+| Működési támogatás | 90 755,9 |
 
-| 2020. évi egyszeri rendkívüli juttatás fedezete | 101 342,0 |
+| 2020. évi egyszeri rendkívüli juttatások fedezete | 101 342,0 |
 
-| 13. | Célelőirányzatok összesen | 262 948,0 |
+| 13. | Célelőirányzatok összesen | 307 420,9 |
 
 | 15. | Mentés | 43 343,5 |
 
@@ -68,7 +68,7 @@
 
 |  | Összevont szakellátás |  |
 
-|  | Járóbeteg-szakellátás | 179 438,1 |
+| Járóbeteg-szakellátás | 179 438,1 |
 
 | Molekuláris diagnosztikai (PCR) ellátás | 3 901,4 |
 
@@ -96,11 +96,11 @@
 
 | 20. | Alapellátás fejlesztése | 0,0 |
 
-| 21. | Gyógyító-megelőző ellátás céltartalék | 0 |
+| 21. | Gyógyító-megelőző ellátás céltartalék | 0,0 |
 
 | 22. | Finanszírozási rendszer átalakítása | 17 764,0 |
 
-| ÖSSZESEN | 1 586 421,3 |
+| ÖSSZESEN | 1 630 894,2 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^645]
 
