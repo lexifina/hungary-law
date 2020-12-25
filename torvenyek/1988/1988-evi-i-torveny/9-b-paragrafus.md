@@ -6,9 +6,9 @@
 
 (4) A koncessziós pályázatot
 
-a) az állam kizárólagos tulajdonát képező, az országos közúthálózatba tartozó autópályák, autóutak — illetőleg azok egyes szakaszai — és a műtárgyaik működtetésére a miniszter az állami vagyon felügyeletéért felelős miniszter egyetértésével;
+a) az állam kizárólagos tulajdonát képező, az országos közúthálózatba tartozó autópályák, autóutak – illetve azok egyes szakaszai – és a műtárgyaik működtetésére, felújítására, karbantartására, fejlesztésére a kormányrendeletben kijelölt miniszter, vagy központi kormányzati igazgatási szerv;
 
-b) az önkormányzat törzsvagyonának részét képező közutak és a műtárgyaik működtetésére az önkormányzat képviselő-testülete
+b) az önkormányzat törzsvagyonának részét képező közutak és a műtárgyaik működtetésére, felújítására, karbantartására, fejlesztésére az önkormányzat képviselő-testülete
 
 írja ki.
 
