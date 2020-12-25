@@ -1,3 +1,5 @@
+## kell érteni.
+
 7. § (1) A közzétételi kérelmet a haszonbérbeadónak kell benyújtania a jegyzőhöz. Ha a haszonbérleti szerződés tárgyát osztatlan közös tulajdonban álló föld képezi, és a szerződés szerint a haszonbérlet
 
 a) a földrészlet területének egészére jött létre, vagy

@@ -8,6 +8,9 @@
 
 (4) A közzétételi közlemény hiányos benyújtása esetén is alkalmazni kell a 3. § (1)–(3) bekezdésében foglaltakat.
 
-(5) A jegyzőnek az összefűzött haszonbérleti szerződések helyett a hiánytalanul kitöltött közzétételi közlemény egyik példányán kell felismerhetetlenné tenni a Földforgalmi tv. 49. § (3) bekezdésében előírtak szerinti természetes személyazonosító adatokat, és ezt kell a hirdetőtáblára kifüggeszteni.
+(5)[^31] A jegyzőnek az összefűzött haszonbérleti szerződések helyett a hiánytalanul kitöltött közzétételi közlemény egyik példányán felismerhetetlenné kell tenni a Földforgalmi tv. 49. § (3) bekezdésében előírtak szerinti természetes személyazonosító adatokat, valamint az aláírásokat, és ezt kell a kormányzati portálon közzétenni.
 
-(6) A 11. § (3) és (4) bekezdése szerinti irattovábbítás során a kifüggesztett közzétételi közleményt is meg kell küldeni a közzétételi kérelmet benyújtó haszonbérbeadó tulajdonostárs, illetve a mezőgazdasági igazgatási szerv részére.
+(6)[^32] A 11. § (3) bekezdése szerinti irattovábbítás során a közzétett közzétételi közleményt, a működtető szervezet által a közzététel időpontjáról és tartalmáról, valamint a levétel időpontjáról megküldött automatikus igazolást is meg kell küldeni a közzétételi kérelmet benyújtó haszonbérbeadó tulajdonostárs, illetve a mezőgazdasági igazgatási szerv részére.
+
+[^31]: A 12. § (5) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^32]: A 12. § (6) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
