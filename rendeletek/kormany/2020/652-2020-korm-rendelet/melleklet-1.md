@@ -1,11 +1,6 @@
-## 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 1–4. §[^2]
 
-1. melléklet a 652/2020. (XII. 23.) Korm. rendelethez
+1. melléklet a 652/2020. (XII. 23.) Korm. rendelethez[^3]
 
-Az R. 1. mellékletében foglalt táblázat a következő 12. sorral egészül ki:
-
-|  | (A |
-
-| 1. | Beruházás megnevezése) |
-
-| 12. | A ZalaZONE Ipari Park Zrt. által Zalaegerszeg megyei jogú város és Egervár község közigazgatási területén megvalósított projekt |
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## 1. § Az állami tulajdonban levő ÉMI Nonprofit Kft. állami építési beruházásokkal kapcsolatos egyes műszaki szolgáltatási feladatok elvégzésére vonatkozó kijelöléséről szóló 51/2016. (III. 17.) Korm. rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
