@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2020-07-30 | 2020. évi LXXXVI. törvény | 2005-183-00-00.63 |
 | 2020-10-31 | 2020. évi LXXXVI. törvény | 2005-183-00-00.64 |
 | 2020-12-19 | 2020. évi CXXXVII. törvény | 2005-183-00-00.65 |
+| 2020-12-25 | 2020. évi CLXXIII. törvény | 2005-183-00-00.66 |
