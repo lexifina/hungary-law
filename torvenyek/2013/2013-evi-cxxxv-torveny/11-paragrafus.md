@@ -28,7 +28,7 @@ l) a tagdíj megfizetésének rendjéről;
 
 m) az egyetemlegességet érintő eljárások kezeléséről és az erre vonatkozó tájékoztatási kötelezettségről, valamint
 
-n) minden olyan kérdésben, amelyben szabályzat alkotására e törvény vagy az Integrációs Szervezet alapszabálya felhatalmazza.
+n) minden olyan tárgykörben, amelyben szabályzat alkotására e törvény vagy az Integrációs Szervezet alapszabálya felhatalmazza.
 
 (1a)
 
@@ -76,8 +76,8 @@ i) a követeléskezelés és a követelések értékesítésének rendjét.
 
 (9) Az Integrációs Szervezetnek és tagjának, valamint az Integrációs Szervezet tagjainak egymás közötti jogvitáira a választottbírósági eljárás keretében történő vitarendezés kizárt.
 
-(10)
+(10) Az Integrációs Szervezet igazgatóságának – illetve a 9. § (4) bekezdés szerinti átruházott hatáskörben eljáró ügyvezetésnek – a 3. § (4) bekezdése, a 4. § (4a) bekezdése, a 9. § (2) bekezdés e), g) és h) pontja, a 15. § (2), (3) és (11) bekezdése, a 17/E. § (6) és (7) bekezdése, a 17/S. § (1) és (10) bekezdése, valamint a 17/T. § (1) bekezdése szerinti döntéséhez az Integrációs Szervezet közgyűlésének jóváhagyása szükséges.
 
-(11)
+(11) Az Integrációs Szervezet közgyűlése felhívhatja az igazgatóságot, illetve a 9. § (4) bekezdés szerinti átruházott hatáskörben eljáró ügyvezetést az e törvényben meghatározott hatáskörébe tartozó szükséges intézkedések megtételére és döntések meghozatalára.
 
 (12)

@@ -10,6 +10,6 @@ c) az alapszabálya megfelel a 15/E. §-ban meghatározott működésre vonatkoz
 
 (3) E törvénynek – a 2. Mód. tv.-vel megállapított – 17/T. §-át a folyamatban lévő átalakításokra is alkalmazni kell.
 
-(4) Ha a 2. Mód. tv. hatálybalépését követően az Integrációs Szervezet igazgatósági tagjának vagy felügyelőbizottsági tagjának a megbízatása megszűnik, az új tag a Holding Szövetkezet által – a 6. § (5) bekezdésének alkalmazásával – jelölt személyek közül, az Integrációs Szervezet integrált hitelintézeti tagjai többségének és a Holding Szövetkezetnek az egyetértő szavazatával választható meg mindaddig, amíg az Integrációs Szervezet igazgatóságának vagy felügyelőbizottságának ily módon megválasztott tagjainak a száma el nem éri az e törvényben előírt arányt.
+(4)
 
 (5) Az MFB Zrt. Integrációs Szervezetből történő kilépéséig az e törvény 2. Mód. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni az MFB Zrt. Integrációs Szervezetben fennálló tagsági jogviszonyára. Az Integrációs Szervezet közgyűlésén az Integrációs Szervezet tagjait megillető szavazatokra a 6. § (3) bekezdés 2. Mód. tv hatálybalépését megelőző napon hatályos rendelkezése irányadó az MFB Zrt. Integrációs Szervezetből történő kilépéséig.

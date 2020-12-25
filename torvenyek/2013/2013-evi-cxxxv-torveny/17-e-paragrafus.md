@@ -10,6 +10,6 @@
 
 (5)
 
-(6) Az Integrációs Szervezet a hitelintézetek integrációja céljainak és különösen a hatékony, prudens és biztonságos működés, valamint az alapszabályában meghatározott más célok megvalósítása érdekében hatáskörrel rendelkezik az integrációs üzleti irányító szervezettel előzetesen egyeztetett mintaalapszabály meghatározására és módosítására.
+(6) Az Integrációs Szervezet a hitelintézetek integrációja céljainak és a hatékony, prudens és biztonságos működésnek, valamint az alapszabályában meghatározott más céloknak a megvalósítása érdekében jogosult az integrációs üzleti irányító szervezettel előzetesen egyeztetett mintaalapszabály meghatározására és módosítására.
 
 (7) Az integrált hitelintézet alapszabálya az Integrációs Szervezet igazgatóságának előzetes jóváhagyása esetén fogadható el, módosítható, illetve, ha az Integrációs Szervezet igazgatósága új mintaalapszabályt ad ki, az integrált hitelintézet alapszabályát köteles az Integrációs Szervezet igazgatósága által meghatározott határidőn belül a mintaalapszabálynak megfelelően módosítani.

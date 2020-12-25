@@ -8,11 +8,11 @@
 
 (3) A közgyűlés – a (7)–(10) bekezdésben meghatározottak figyelembevételével – a határozatait a jelen lévő tagok szavazatainak többségével hozza meg. A közgyűlésen az Integrációs Szervezet minden tagjának egy szavazata van.
 
-(4) Az Integrációs Szervezet közgyűlésén az igazgatósági tagok és a felügyelőbizottsági tagok többsége a Holding Szövetkezet által jelölt személyek közül, az Integrációs Szervezet tagjai többségének az egyetértő szavazatával választható meg.
+(4) Az Integrációs Szervezet közgyűlésén az igazgatósági tagok és a felügyelőbizottsági tagok az Integrációs Szervezet tagjai többségének az egyetértő szavazatával választhatóak meg és hívhatóak vissza.
 
-(5) A Holding Szövetkezet azt a személyt jelölheti az Integrációs Szervezet igazgatósági vagy felügyelőbizottsági tagjának, akit a Holding Szövetkezet közgyűlésén a tagok többsége vagy küldöttgyűlésén a Holding Szövetkezet küldöttjeinek többsége jelölt személyként megválasztott.
+(5)
 
-(6) A (4) bekezdés szerint megválasztott tagok visszahívásához az Integrációs Szervezet tagjai többségének az egyetértő szavazata szükséges.
+(6)
 
 (7) Az 1/A. § g) pontjában meghatározott integrációs célok megvalósulása és a Szövetkezeti Hitelintézetek Integrációs Alapja által az Integrációs Szervezet rendelkezésére bocsátott vagyon felhasználásának folyamatos figyelemmel kísérése érdekében az Integrációs Szervezet közgyűlésen tanácskozási joggal részt vesz a nemzeti pénzügyi szolgáltatásokért felelős miniszter vagy az általa kijelölt személy.
 

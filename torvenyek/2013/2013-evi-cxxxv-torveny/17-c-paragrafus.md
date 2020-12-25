@@ -18,7 +18,7 @@ b) korlátozhatja, illetőleg megtilthatja az integrált hitelintézet számára
 
 ba) a tulajdonosok és az integrált hitelintézet közötti ügyleteket,
 
-bb) a Felügyelet előzetes hozzájárulását követően a betétek és más visszafizetendő források kifizetését,
+bb)
 
 bc) a kötelezettségek vállalását;
 
@@ -58,7 +58,7 @@ c) részére kötelezettségvállalást tartalmazó pénzügyi szolgáltatás ny
 
 (7) Ha a (6) bekezdésben felsorolt intézkedések megtörténtek, a tulajdonosok az integrált hitelintézettel szemben beszámítással nem élhetnek.
 
-(8) A (6) bekezdésben felsorolt korlátozásokat az integrált hitelintézet igazgatósága megszüntetheti, amennyiben a tulajdonosok az intézkedések megtételére szolgáló okot az integrált hitelintézet igazgatóságának és az Integrációs Szervezet igazgatóságának egybehangzó álláspontja szerint megszüntették, vagy az integrált hitelintézet felszámolását a bíróság el nem rendeli.
+(8) A (6) bekezdésben meghatározott intézkedéseket az integrált hitelintézet igazgatósága megszüntetheti, ha a tulajdonosok az intézkedések meghozatalának alapjául szolgáló okot az integrált hitelintézet igazgatóságának és az Integrációs Szervezet igazgatóságának egybehangzó álláspontja szerint megszüntették vagy az integrált hitelintézet felszámolását a bíróság el nem rendeli.
 
 (9) Az Integrációs Szervezet az e §-ban meghatározott intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten illetve más intézkedésekkel együtt is alkalmazhatja.
 

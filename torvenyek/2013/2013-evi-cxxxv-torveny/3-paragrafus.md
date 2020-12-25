@@ -6,7 +6,7 @@
 
 a) előzetes kötelezettségvállaló nyilatkozatot tett az integrációs üzleti irányító szervezet felé legalább egy darab, az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú, az integrációs üzleti irányító szervezet által kibocsátott részvény átvételére,
 
-b) az Integrációs Szervezet igazgatósága által előzetesen elfogadott mintának megfelelő alapszabályt vagy alapító okiratot fogadott el,
+b) az Integrációs Szervezet igazgatósága által elfogadott mintának megfelelő alapszabályt vagy alapító okiratot fogadott el,
 
 c) az Integrációs Szervezet által előírt formában nyilatkozott csatlakozási szándékáról az Integrációs Szervezet felé,
 

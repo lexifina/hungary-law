@@ -10,7 +10,7 @@ d) a hitelintézetek integrációja kockázatkezelésének javítása,
 
 e) a hitelintézetek integrációja integrált működésének és az ehhez szükséges infrastruktúrának a biztosítása,
 
-f) az a)–e) pontban foglaltak megvalósítása érdekében a működési szabályzatok egységesítése,
+f) az a)–e) pontban foglalt célok megvalósítása érdekében a működési szabályzatok egységességének biztosítása,
 
 g) a hitelintézetek integrációja intézményvédelmének biztosítása,
 
