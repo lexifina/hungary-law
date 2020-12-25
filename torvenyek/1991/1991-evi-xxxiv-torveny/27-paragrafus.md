@@ -20,6 +20,6 @@
 
 (11) A játékkaszinót 18 éven aluliak nem látogathatják.
 
-(12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a szerencsejáték-szervezés állami felügyeletéért felelős miniszter egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
+(12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
 
 (13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb négy és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád-Csanád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.
