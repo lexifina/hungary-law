@@ -14,7 +14,7 @@ a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a rés
 
 (5) Ha egy dohánytermék-kiskereskedelmi jogosultság gyakorlása – legalább két, 24 hónapon belül meghirdetett pályázati kiírást követően – az utolsó pályázati kiírás eredményhirdetését követő 90. napon belül sem folyik, az utolsó pályázat eredményhirdetését követő 36 hónap elteltéig nem kötelező új pályázatot kiírni.
 
-(6) A (3)–(5) bekezdéstől eltérően a miniszter is meghatározhatja az új pályázat kiírásának legkorábbi napját akkor, ha a részvénytársaság tájékoztatása alapján az adott településen a dohánytermék-kiskereskedelmi jogosultság gyakorlására nyilvánvalóan nincs érdeklődő. A részvénytársaság az érdeklődés felméréséről legalább évente – a település önkormányzata vagy jegyzője részére – megküldött megkeresés útján, valamint a honlapján folyamatosan fenntartott felhívással gondoskodik.
+(6) A (3)–(5) bekezdéstől eltérően a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv is meghatározhatja az új pályázat kiírásának legkorábbi napját akkor, ha a részvénytársaság tájékoztatása alapján az adott településen a dohánytermék-kiskereskedelmi jogosultság gyakorlására nyilvánvalóan nincs érdeklődő. A részvénytársaság az érdeklődés felméréséről legalább évente – a település önkormányzata vagy jegyzője részére – megküldött megkeresés útján, valamint a honlapján folyamatosan fenntartott felhívással gondoskodik.
 
 3. CÍM
 

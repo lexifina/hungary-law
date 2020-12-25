@@ -20,4 +20,4 @@ f) az ellenérték fizetési módját azzal, hogy az ellenértéket vagy teljes 
 
 (5) A (2)–(4) bekezdés rendelkezéseibe ütköző jogügylet semmis.
 
-(6) A (2)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell akkor is, ha a dohánytermék-nagykereskedő, vagy más személy az általa gyártott, vagy forgalmazott, az 1. § (1) bekezdés d)–f), valamint h) pontjában felsorolt termék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban.
+(6) A (2)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell akkor is, ha a dohánytermék-nagykereskedő, vagy más személy az általa gyártott, vagy forgalmazott, az 1. § (1) bekezdés d)–h) pontjában felsorolt termék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban.

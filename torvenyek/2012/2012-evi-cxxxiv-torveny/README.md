@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-134-00-00
 | 2020-01-01 | 2019. évi CIII. törvény | 2012-134-00-00.22 |
 | 2020-07-01 | 2020. évi XXXX. törvény | 2012-134-00-00.23 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2012-134-00-00.24 |
+| 2020-12-25 | 2020. évi CLXXIII. törvény | 2012-134-00-00.25 |

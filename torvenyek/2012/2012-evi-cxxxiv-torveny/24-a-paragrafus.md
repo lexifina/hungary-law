@@ -2,7 +2,7 @@
 
 (2) A Módtv.-vel megállapított 6. § (2) bekezdésében foglaltakat a Módtv. hatálybalépését követően indult pályázati eljárásokban kell alkalmazni. Ha egy településen a gyakorolható dohánytermék-kiskereskedelmi jogosultságok száma e törvény rendelkezései értelmében csökkent, a korábban átengedett jogosultságok tovább gyakorolhatók azzal, hogy bármelyik dohánytermék-kiskereskedelmi jogosultság gyakorlásának megszűnését követően e településen nem lehet új pályázatot kiírni addig, amíg az a Módtv.-vel megállapított 6. § (2) bekezdésében foglaltaknak meg nem felel.
 
-(3) A Módtv.-vel megállapított 6. § (2) bekezdés b) pontjában foglaltaktól eltérően, ha a településen legalább két jogosultságot már gyakorolnak és ameddig ezt a forgalmi adatok indokolják, a miniszter dönthet úgy, hogy a településen nem ír ki pályázatot valamennyi jogosultság átengedésére.
+(3) A Módtv.-vel megállapított 6. § (2) bekezdés b) pontjában foglaltaktól eltérően, ha a településen legalább két jogosultságot már gyakorolnak és ameddig ezt a forgalmi adatok indokolják, a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv dönthet úgy, hogy a településen nem ír ki pályázatot valamennyi jogosultság átengedésére.
 
 (4) A Módtv.-vel megállapított 11. § (2) bekezdés b) pontjában foglaltakat a Módtv. hatálybalépését követően indult pályázati eljárások alapján megkötött koncessziós szerződések esetén kell alkalmazni.
 
