@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-173-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2020-12-25 | 2020. évi CLXXIII. törvény | 2020-173-00-00.0 (közlönyállapot) |
+| 2020-12-25 | 2006. évi V. törvény | 2020-173-00-00.1 |
