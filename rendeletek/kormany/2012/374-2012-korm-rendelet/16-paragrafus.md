@@ -116,6 +116,14 @@
 
 58.[^54] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az egyes sugárzástűrő videókamera-csövekben használt kadmiumra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/364 felhatalmazáson alapuló bizottsági irányelvnek
 
+59.[^55] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítás céljából, a vezetőképesség-mérésekre használt platinázott platinaelektródokban lévő ólom mentesítése tekintetében történő módosításáról szóló, 2019. december 17-ei (EU) 2020/360 felhatalmazáson alapuló bizottsági irányelvnek,
+
+60.[^56] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként használt hat vegyértékű krómra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-ei (EU) 2020/361 felhatalmazáson alapuló bizottsági irányelvnek,
+
+61.[^57] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az egyes belső égésű kézi motorokban használt forraszanyagban és csatlakozások bevonatában lévő ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-ei (EU) 2020/365 felhatalmazáson alapuló bizottsági irányelvnek,
+
+62.[^58] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a vér és más testfolyadékok és testgázok elemzésére szolgáló in vitro diagnosztikai orvostechnikai eszközökben használt polivinilkloridban (PVC) hőstabilizátorként alkalmazott ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-ei (EU) 2020/366 felhatalmazáson alapuló bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 [^23]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -150,3 +158,7 @@ való megfelelést szolgálja.
 [^52]: A 16. § 56. pontját a 266/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
 [^53]: A 16. § 57. pontját a 266/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
 [^54]: A 16. § 58. pontját a 369/2020. (VII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^55]: A 16. § 59. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^56]: A 16. § 60. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^57]: A 16. § 61. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^58]: A 16. § 62. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.

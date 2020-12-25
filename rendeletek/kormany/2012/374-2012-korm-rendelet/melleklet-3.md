@@ -302,7 +302,15 @@
 
 | 77b. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatrétegében lévő ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
 
-| 78. | A gyújtásmodulokban és a belső égésű motorok egyéb elektromos és elektronikus vezérlőrendszereiben használt elektromos és elektronikus alkatrészek forraszanyagában és védőbevonatában, valamint az ilyen modulokban és motorokban található nyomtatott áramköri lapok bevonatában lévő ólom, amely alkatrészeket műszaki okokból közvetlenül a belső égésű kézi motorok (a 97/68/EK európai parlamenti és tanácsi irányelvben meghatározott SH:1, SH:2 és SH:3 osztályba tartozó motorok) forgattyúsházára vagy a forgattyúsházába, illetve hengerére vagy hengerébe kell szerelni | nincs korlátozás | 2018. december 31-ig |
+| 78. | A gyújtásmodulokban és a belső égésű motorok egyéb elektromos és elektronikus vezérlőrendszereiben használt elektromos és elektronikus alkatrészek forraszanyagában és védőbevonatában, valamint az ilyen modulokban és motorokban található nyomtatott áramköri lapok bevonatában lévő ólom, amely alkatrészeket műszaki okokból közvetlenül a belső égésű kézi motorok (a 97/68/EK európai parlamenti és tanácsi irányelvben meghatározott SH:1, SH:2 és SH:3 osztályba tartozó motorok) forgattyúsházára vagy a forgattyúsházába, illetve hengerére vagy hengerébe kell szerelni | – | – |
+
+| – az 1–7., a 10. és a 11. termékcsoport esetében | nincs korlátozás | 2022. március 31-ig |
+
+| – a 8. és a 9. termékcsoportba tartozó, az in vitro diagnosztikai orvostechnikai eszközöktől, valamint az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | nincs korlátozás | 2021. július 21-ig |
+
+| – 8. termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | nincs korlátozás | 2023. július 21-ig |
+
+| – a 9. kategóriába tartozó ipari felügyeleti és vezérlő eszközök esetében | nincs korlátozás | 2024. július 21-ig |
 
 | 78a. | Nem közúti használatra szánt járművekben alkalmazott, dízel vagy gáznemű tüzelőanyaggal működő belső égésű motorok csapágyaiban és csapágybéléseiben lévő ólom, amelynél a motor teljes lökettérfogata ≥ 15 liter. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik, kivéve az e melléklet 49–49b. sorainak hatálya alá tartozó alkalmazásokat. | nincs korlátozás | 2024. július 21-ig |
 
@@ -342,7 +350,17 @@
 
 | 87. | IV. KRÓMTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
-| 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
+| 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként használt, a hűtőközegben lévő króm, a 7. melléklet 8., 9. és a 11. pontjában szereplő termékcsoportok közül | ≤ 0,75 m/m% hat vegyértékű króm | – |
+
+| – 8. termékcsoportba tartozó, az in vitro diagnosztikai orvostechnikai eszközöktől, valamint az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | ≤ 0,75 m/m% hat vegyértékű króm | 2021. július 21-ig |
+
+| – 8. termékcsoportba tartozó, az in vitro diagnosztikai orvostechnikai eszközök esetében | ≤ 0,75 m/m% hat vegyértékű króm | 2023. július 21-ig |
+
+| – 9. termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 11. termékcsoport esetében | ≤ 0,75 m/m% hat vegyértékű króm | 2024. július 21-ig |
+
+| 88a. | Teljesen vagy részben elektromos hűtőberendezéssel működő, állandó üzemi feltételek mellett 75 W-nál kisebb felvett teljesítményű abszorpciós hűtőgépek (beleértve a minibárokat is) szénacél hűtőrendszerének hűtőközegében korróziógátló szerként használt, a hűtőközegben lévő króm, a 7. melléklet 1–7. és a 10. termékcsoportba tartozó eszközök esetében | ≤ 0,75 m/m% hat vegyértékű króm | 2021. március 5-ig |
+
+| 88b. | Abszorpciós hűtőgépek szénacél hűtőrendszerének hűtőközegében korróziógátló szerként használt króm, a 7. melléklet 1–7. és a 10. termékcsoportba tartozó eszközök esetében: – ha a hűtőgép teljesen vagy részben elektromos fűtőberendezéssel működik, és állandó üzemi feltételek mellett felvett teljesítménye legalább 75 W; – ha a hűtőgép teljes mértékben nem elektromos fűtőberendezéssel működik. | ≤ 0,75 m/m% hat vegyértékű króm | 2021. július 21-ig |
 
 | 89. | V. BISZ(2-ETIL-HEXIL)-FTALÁTRA (DEHP) VONATKOZÓ MENTESSÉGEK |
 
@@ -350,7 +368,7 @@
 
 | 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^58]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^62]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -480,9 +498,9 @@ A 2021. január 1. előtt forgalomba hozott ipari ellenőrző és vezérlő eszk
 
 41. Az olyan vezetőképesség-mérések során használt platinázott platinaelektródokban lévő ólom, amelyekre az alábbi feltételek közül legalább egy teljesül:
 
-41.1. széles tartományú mérések, amelyek ismeretlen koncentrációjú laboratóriumi alkalmazásokban több nagyságrendet átfogó (pl. 0,1 mS/m és 5 mS/m közötti) vezetőképesség-tartomány felmérésére irányulnak;
+41.1. laboratóriumi alkalmazásokban ismeretlen koncentráció mellett, széles tartományban végzett vezetőképesség-mérések, ahol a vezetőképesség tartománya több nagyságrendet felölel (pl. 0,1 mS/m és 5 mS/m között változhat);
 
-41.2. oldatok mérése, amely során az alábbi okok valamelyike miatt +/– 1% pontosságú mintatartományra és az elektród nagyfokú korrózióállóságára van szükség:
+41.2. oldatok mérése, amelyek során az alábbi okok valamelyike miatt +/– 1% pontosságú mintatartományra és az elektród nagyfokú korrózióállóságára van szükség:
 
 41.2.1. < pH 1 savasságú oldatok;
 
@@ -490,9 +508,7 @@ A 2021. január 1. előtt forgalomba hozott ipari ellenőrző és vezérlő eszk
 
 41.2.3. halogéngáz-tartalmú korrozív oldatok;
 
-41.3. a 100 mS/m érték feletti tartományra irányuló vezetőképesség-mérések, amelyeket hordozható műszerekkel kell végezni
-
-– a mentesség 2018. december 31-én lejár.
+41.3. a 100 mS/m érték feletti tartományban végzett vezetőképesség-mérések, amelyeket hordozható műszerekkel kell elvégezni – a mentesség 2025. december 31-én lejár.
 
 42. Az olyan nagy felületű, vertikálisan tokozott multichipstruktúrák (SDE: stacked die elements) forraszanyagában lévő ólom, amelyek interfészenként több mint 500 kapcsolódási ponttal rendelkeznek, és amelyeket CT- és röntgenrendszerek röntgendetektoraiban alkalmaznak – a mentesség 2019. december 31-én lejár.
 
@@ -528,7 +544,7 @@ lejár.
 
 44. Az ipari ellenőrző és vezérlő eszközök 125 V alatti névleges egyenfeszültségű vagy 250 V alatti névleges váltófeszültségű kondenzátoraiban található dielektromos kerámiaanyagokban lévő ólom – a mentesség 2020. december 31-én lejár. A 2021. január 1-je előtt forgalomba hozott ipari ellenőrző és vezérlő eszközök cserealkatrészeiben a fenti időpontot követően is felhasználható.
 
-45. Vér, egyéb testfolyadék és testgáz elemzésére szolgáló in vitro diagnosztikai orvostechnikai eszközök amperometriás, potenciometriás és konduktometriás elektrokémiai érzékelőinek alapanyagaként szolgáló polivinilklorid (PVC) hőstabilizálására használt ólom – a mentesség 2018. december 31-én lejár.
+45. Vér, egyéb testfolyadék és testgáz elemzésére szolgáló in vitro diagnosztikai orvostechnikai eszközök amperometriás, potenciometriás és konduktometriás elektrokémiai érzékelőinek alapanyagaként szolgáló polivinilklorid (PVC) hőstabilizálására használt ólom – a mentesség 2022. március 31-én lejár.
 
 46. A magas frekvenciájú (>50MHz) működési módokra képes intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben lévő higany – a mentesség 2019. június 30-án lejár.
 
@@ -536,4 +552,4 @@ lejár.
 
 48. A 100 Gy/órát meghaladó és a 100 kGy-t meghaladó teljes dózisú ionizáló sugárzásnak kitett környezetben használt, középen 450 TV sornál nagyobb felbontású kamerákhoz tervezett sugárzástűrő videókamera-csövekben lévő kadmium. A mentesség a 9. kategóriára vonatkozik és 2027. március 31-én lejár.
 
-[^58]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^62]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
