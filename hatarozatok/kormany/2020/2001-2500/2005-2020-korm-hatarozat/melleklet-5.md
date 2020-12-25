@@ -24,26 +24,6 @@
 
 | 12. | Tomajmonostora Község Önkormányzata fejlesztési feladatainak támogatása | 50 000 000 | fejlesztési feladatainak támogatása |
 
-5. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz
+5. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^16]
 
-1. Az egyes civil és egyéb szervezetek támogatása forrásszükségletének biztosításáról szóló 1812/2016. (XII. 20.) Korm. határozat 1. mellékletében foglalt táblázat
-
-| [A támogatási cél/fejlesztés megnevezése | A támogatás célja | A támogatás összege (M Ft) | Kedvezményezett] |
-
-| „civil és egyéb szervezetek támogatása | Bölcsőde, óvoda kialakításának támogatása, fejlesztése, szervezetfejlesztés | 300,0 | Magyar Ökumenikus Segélyszervezet – Kárpátalja” |
-
-sora helyébe a
-
-| [A támogatási cél/fejlesztés megnevezése | A támogatás célja | A támogatás összege (M Ft) | Kedvezményezett] |
-
-| „civil és egyéb szervezetek támogatása | Bölcsőde, óvoda kialakításának támogatása, fejlesztése, szervezetfejlesztés | 600,0 | Magyar Ökumenikus Segélyszervezet – Kárpátalja” |
-
-sor lép.
-
-2. A Kormány visszavonja az egyes civil és egyéb szervezetek támogatása forrásszükségletének biztosításáról szóló 1812/2016. (XII. 20.) Korm. határozat 1. mellékletében foglalt táblázat
-
-| [A támogatási cél/fejlesztés megnevezése | A támogatás célja | A támogatás összege (M Ft) | Kedvezményezett] |
-
-| „civil és egyéb szervezetek támogatása | Bölcsőde, óvoda kialakításának támogatása, fejlesztése, szervezetfejlesztés | 300,0 | Magyar Ökumenikus Segélyszervezet – Vajdaság, Újvidék” |
-
-sorát.
+[^16]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

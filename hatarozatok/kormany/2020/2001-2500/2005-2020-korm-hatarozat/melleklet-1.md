@@ -172,74 +172,52 @@
 
 ## Határidő: 2021. január 1-jét követően azonnal
 
-## 2. Az egyes civil és egyéb szervezetek támogatása forrásszükségletének biztosításáról szóló 1812/2016. (XII. 20.) Korm. határozat 1. melléklete az 5. melléklet szerint módosul.
+## 2.[^1]
 
-## 3. Az „Eger megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása” című projekt előkészítéséhez szükséges forrás biztosításáról szóló 1482/2018. (X. 5.) Korm. határozat (a továbbiakban: Határozat1.)
+## 3.[^2]
 
-## a) 2. pontjában a „2020. december 31-ig” szövegrész helyébe a „2021. december 31-ig” szöveg,
+## 4.[^3]
 
-## b) 4. pontjában az „a 6. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül” szövegrész helyébe a „2022. március 15.” szöveg,
+## 5.[^4]
 
-## c) 6. pont b) alpontjában a „2021. január 30.” szövegrész helyébe a „2022. május 15.” szöveg
+## 6.[^5]
 
-## lép.
+## 7.[^6]
 
-## 4. A Kormány visszavonja a Határozat1. 6. pont a) alpontját.
+## 8.[^7]
 
-## 5. A települési önkormányzatok 2019. évi feladatainak támogatásáról szóló 1004/2019. (I. 18.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlopának 34. sorában a „bölcsődei eszközök beszerzésének támogatása” szövegrész helyébe a „sportfejlesztés” szöveg lép.
+## 9.[^8]
 
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradvány-elszámolási Alapból történő előirányzat-átcsoportosításról, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben meghatározott befizetési kötelezettség egy részének elengedéséről, a központi költségvetést érintő címrendi módosításról, valamint egyes kormányhatározatok módosításáról szóló 1057/2019. (II. 22.) Korm. határozat 1. pont f) alpontjában a „2020. március 31.,” szövegrész helyébe a „2020. március 31., a Határon túli felsőoktatási feladatok fejezeti kezelésű előirányzat javára biztosított 788 500 000 forint tekintetében 2021. január 31.” szöveg lép.
+## 10.[^9]
 
-## 7. A települési önkormányzatok támogatásáról és egyes települési önkormányzatok támogatását érintő kormányhatározatok módosításáról szóló 1059/2019. (II. 22.) Korm. határozat 2. pont c) alpontjában az „Üllés Nagyközség Önkormányzata részére temető fejlesztésére” szövegrész helyébe az „Üllés Nagyközség Önkormányzata részére temető és belterületi kerékpárút fejlesztésére” szöveg lép.
+## 11.[^10]
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból történő és fejezetek közötti előirányzat-átcsoportosításról, a központi költségvetés címrendjének módosításáról, valamint egyes kormányhatározatok módosításáról szóló 1104/2019. (III. 8.) Korm. határozat 1. pont a) alpontjában a „2021. február 15.” szövegrész helyébe a „2021. február 15., a Kormányzati Informatikai Fejlesztési Ügynökség cím javára biztosított 163 500 000 forint tekintetében 2020. december 31.” szöveg lép.
+## 12.[^11]
 
-## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, az Országvédelmi Alapból, a Központi Maradványelszámolási Alapból történő előirányzat-átcsoportosításról, fejezetek közötti átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1244/2019. (IV. 30.) Korm. határozat (a továbbiakban: Határozat2.) 1. pont a) alpontjában az „az Agrárkutatás támogatása előirányzat javára biztosított 974 464 000 forint és a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára biztosított 100 000 000 forint tekintetében 2020. június 30., a Sport népszerűsítésével összefüggő kiadások jogcímcsoport javára biztosított 17 250 000 forint tekintetében 2020. december 31.” szövegrész helyébe az „a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára biztosított 100 000 000 forint tekintetében 2020. június 30., a Sport népszerűsítésével összefüggő kiadások jogcímcsoport javára biztosított 17 250 000 forint tekintetében 2020. december 31., az Innovációs és Technológiai Minisztérium fejezet javára biztosított források tekintetében 2021. június 30., az Agrárkutatás támogatása előirányzat javára biztosított 974 464 000 forint tekintetében 2021. december 31.” szöveg lép.
+## 13.[^12]
 
-## 10. A Határozat2. 1. pont b) alpontjában a „2020. december 31.” szövegrész helyébe a „2020. december 31., a Közúthálózat felújítása jogcímcsoport javára biztosított 28 337 350 000 forint tekintetében 2021. június 30.” szöveg lép.
+## 14.[^13]
 
-## 11. Az egyes települési önkormányzatok fejlesztési feladatainak támogatásáról szóló 1349/2020. (VI. 30.) szóló Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlopának 5. sorában az „út, járda és parkoló építése, felújítása” szövegrész helyébe az „út, járda és parkoló építése, felújítása, szabadidős tevékenységhez kapcsolódó fejlesztések” szöveg lép.
+## 15.[^14]
 
-## 12. A települési önkormányzatok fejlesztési és működési támogatásáról szóló 1551/2019. (IX. 26.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlopának 7. sorában a „kultúrház épületének helyreállítása” szövegrész helyébe a „kultúrház épületének bontása, új kultúrház kialakítása” szöveg lép.
-
-## 13. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1591/2019. (X. 16.) Korm. határozat 1. pont a) alpontjában a „2022. március 31.” szövegrész helyébe a „2022. március 31., Az építőipari ágazat technológiai korszerűsítésére, hatékonyságának növelésére irányuló támogatás jogcím javára biztosított 3 000 000 000 forint tekintetében 2021. június 30.” szöveg lép.
-
-## 14. A koronavírus világjárvány kulturális, művészeti szférát érintő hatásának enyhítéséről szóló 1290/2020. (VI. 5.) Korm. határozat 1. melléklete a 6. melléklet szerint módosul.
-
-## 15. Az Európa Tanács Miniszteri Bizottságának 2021. május–november közötti magyar elnökségét előkészítő feladatokról szóló 1616/2020. (X. 1.) Korm. határozat (a továbbiakban: Határozat3.)
-
-## a) 4. pont c) alpontjában a „100 153 000” szövegrész helyébe a „195 153 000” szöveg,
-
-## b) 4. pont h) alpontjában a „217 631 000” szövegrész helyébe a „122 631 000” szöveg
-
-## lép.
-
-## 16. A Határozat3. 5. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „5. felhívja az ET/MB magyar elnökség tevékenysége és prioritásai alapján érintett minisztereket, hogy a 3–4. pontban megjelölt források minisztériumok közötti elosztását figyelembe véve az elnökségi programra vonatkozó részletes terveket, a tervezett rendezvények koncepcióit és az ezek megvalósításához szükséges igényeket dolgozzák ki;
-
-## Felelős: külgazdasági és külügyminiszter
-
-## a miniszterelnök általános helyettese
-
-## Miniszterelnökséget vezető miniszter
-
-## igazságügyi miniszter
-
-## belügyminiszter
-
-## agrárminiszter
-
-## emberi erőforrások minisztere
-
-## innovációért és technológiáért felelős miniszter
-
-## családokért felelős tárca nélküli miniszter
-
-## Határidő: azonnal”
+## 16.[^15]
 
 ## 17. A Kormány egyetért azzal, hogy a Központi Maradványelszámolási Alapból, a Beruházás Előkészítési Alapból, a Gazdaságvédelmi programok előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1176/2020. (IV. 23.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára átcsoportosított 1 200 000 000 forintból 49 932 847 forint a XV. Pénzügyminisztérium fejezet, 5. Közbeszerzési és Ellátási Főigazgatóság címen a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
 1. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
