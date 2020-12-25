@@ -1,3 +1,3 @@
-57. §[^170] A Hivatal a 2020. évi általános felsőoktatási felvételi eljárás során a 2020. évben Ukrajnában érettségizők esetében, a besorolási döntés megküldésétől számított 15 napon belül, a jelentkező kérelmével egyidejűleg benyújtott ukrán középiskolai bizonyítvány és ukrán érettségi bizonyítvány figyelembevételével hivatalból módosíthatja a korábbi besorolási döntését.
+57. §[^194]
 
-[^170]: Az 57. §-t a 351/2020. (VII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^194]: Az 57. §-t a 351/2020. (VII. 16.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 661/2020. (XII. 24.) Korm. rendelet 22. § h) pontja.

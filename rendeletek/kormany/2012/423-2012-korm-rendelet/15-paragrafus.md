@@ -14,15 +14,9 @@ a) a középiskolai osztályzatai és az érettségi vizsgákon elért százalé
 
 b) a jelentkezés feltételéül meghatározott érettségi vizsgaeredményei alapján legfeljebb 200 érettségi pontot;
 
-c)[^64] az emelt szinten teljesített érettségi vizsgákért, vagy a felsőoktatási felvételi szakmai vizsgákért legfeljebb 100 érettségi többletpontot;
+c)[^73] az emelt szinten teljesített érettségi vizsgákért, vagy a felsőoktatási felvételi szakmai vizsgákért legfeljebb 100 érettségi többletpontot;
 
-d)[^65] a felsőoktatási szakképzés befejezését igazoló oklevél megszerzését követően, azonos képzési terület szakjára történő jelentkezés esetén
-
-da)[^66] jeles záróvizsga eredmény alapján 32 többletpontot,
-
-db) jó záróvizsga eredmény alapján 20 többletpontot,
-
-dc) közepes záróvizsga eredmény alapján 10 többletpontot;
+d)[^74]
 
 e) az esélyegyenlőség biztosítása érdekében a 24. §-ban meghatározott többletpontokat;
 
@@ -32,12 +26,11 @@ szerezhet.
 
 (4) A (3) bekezdés c)–f) pontja alapján adható többletpontok összege legfeljebb 100 pont lehet. A jelentkező abban az esetben is csak 100 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak az összege ezt meghaladná.
 
-(5)[^67] Ha egy jelentkező több olyan szakra, képzésre, intézménybe jelentkezik, ahol azonosak a szóbeli alkalmassági vizsga követelményei, vagy ahol ugyanazon érettségi tárgyhoz felsőoktatási felvételi szakmai vizsgát tesz, a szóbeli alkalmassági vizsgát vagy felsőoktatási felvételi szakmai vizsgát csak egyszer, a jelentkezéskor meghatározott elbírálási sorrendben előbb jelzett intézményben, szakon kell letenni. Ezekben az esetekben a vizsga eredményét a többi intézményben, szakon is el kell fogadni.
+(5)[^75] Ha egy jelentkező több olyan szakra, képzésre, intézménybe jelentkezik, ahol azonosak a szóbeli alkalmassági vizsga követelményei, vagy ahol ugyanazon érettségi tárgyhoz felsőoktatási felvételi szakmai vizsgát tesz, a szóbeli alkalmassági vizsgát vagy felsőoktatási felvételi szakmai vizsgát csak egyszer, a jelentkezéskor meghatározott elbírálási sorrendben előbb jelzett intézményben, szakon kell letenni. Ezekben az esetekben a vizsga eredményét a többi intézményben, szakon is el kell fogadni.
 
-(6)[^68] A felsőfokú végzettséggel rendelkező jelentkezőket – amennyiben alapképzésre, osztatlan képzésre vagy felsőoktatási szakképzésre jelentkeznek – a felsőoktatási intézmények a Tájékoztatóban közzétett módon a felsőfokú végzettséget tanúsító oklevél alapján, az emelt szintű érettségi követelménytől való eltekintéssel is rangsorolhatják. Ebben az esetben az oklevélért adható pontot az oklevél minősítése szerint a 14. § (5) bekezdésében, illetve a 23. § (1) bekezdésében megállapított ponthatár és 400 pont között arányosan kell megállapítani. Az így kapott pontszámhoz a jelentkező által elért összpontszám meghatározása érdekében hozzá kell adni a 20–21. §-ban és a 24. § (1) bekezdésében meghatározott többletpontokat. A jelentkezési kérelem csak akkor minősül a 11. § (2) bekezdés b)–d) és g) pontja szerint hiányosnak, ha a jelentkező az érettségi bizonyítványa és a középiskolai bizonyítványa alapján is kéri a pontszámítás elvégzését.
+(6)[^76] A felsőfokú végzettséggel rendelkező jelentkezőket – amennyiben alapképzésre, osztatlan képzésre vagy felsőoktatási szakképzésre jelentkeznek – a felsőoktatási intézmények a Tájékoztatóban közzétett módon a felsőfokú végzettséget tanúsító oklevél alapján, az emelt szintű érettségi követelménytől való eltekintéssel is rangsorolhatják. Ebben az esetben az oklevélért adható pontot az oklevél minősítése szerint a 14. § (5) bekezdésében, illetve a 23. § (1) bekezdésében megállapított ponthatár és 400 pont között arányosan kell megállapítani. Az így kapott pontszámhoz a jelentkező által elért összpontszám meghatározása érdekében hozzá kell adni a 20–21. §-ban és a 24. § (1) bekezdésében meghatározott többletpontokat. A jelentkezési kérelem csak akkor minősül a 11. § (2) bekezdés b)–d) és g) pontja szerint hiányosnak, ha a jelentkező az érettségi bizonyítványa és a középiskolai bizonyítványa alapján is kéri a pontszámítás elvégzését.
 
-[^64]: A 15. § (3) bekezdés c) pontja az 59/2016. (III. 25.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^65]: A 15. § (3) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^66]: A 15. § (3) bekezdés d) pont da) alpontja a 169/2016. (VII. 1.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^67]: A 15. § (5) bekezdése az 59/2016. (III. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^68]: A 15. § (6) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 6. §-ával megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § c) pontja, a 442/2016. (XII. 16.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^73]: A 15. § (3) bekezdés c) pontja az 59/2016. (III. 25.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^74]: A 15. § (3) bekezdés d) pontját a 661/2020. (XII. 24.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^75]: A 15. § (5) bekezdése az 59/2016. (III. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^76]: A 15. § (6) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 6. §-ával megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § c) pontja, a 442/2016. (XII. 16.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
