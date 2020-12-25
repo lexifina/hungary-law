@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-159-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2012-159-00-00.19 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 2012-159-00-00.20 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2012-159-00-00.21 |
+| 2020-12-25 | 2020. évi CLXXIII. törvény | 2012-159-00-00.22 |
