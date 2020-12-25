@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-16-00-00
 | 2018-12-19 | 2018. évi CV. törvény | 1991-16-00-00.43 |
 | 2020-07-29 | 2020. évi LXXVI. törvény | 1991-16-00-00.44 |
 | 2020-10-28 | 2020. évi CIV. törvény | 1991-16-00-00.45 |
+| 2020-12-25 | 2020. évi CLXXIII. törvény | 1991-16-00-00.46 |

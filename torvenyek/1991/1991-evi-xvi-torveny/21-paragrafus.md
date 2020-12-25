@@ -2,4 +2,4 @@
 
 (2) A hatósági engedély visszavonása, illetőleg az illetékes államigazgatási szervnek a jogellenes állapot megszüntetéséig a koncesszió-köteles tevékenység folytatását megtiltó határozata a koncessziós szerződést nem teszi érvénytelenné.
 
-(3) Ha a koncessziós társaság a koncessziós szerződés megkötésétől, illetőleg a hatósági engedély visszavonásáról rendelkező, valamint a tevékenység gyakorlását megtiltó határozat közlésétől számított hat hónapon belül nem válik a tevékenység gyakorlására jogosulttá, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a koncessziós szerződést felmondhatja.
+(3) Ha a koncessziós társaság a koncessziós szerződés koncessziós időszak kezdőidőpontját meghatározó rendelkezésének hatályba lépésétől, illetőleg a hatósági engedély visszavonásáról rendelkező, valamint a tevékenység gyakorlását megtiltó határozat közlésétől számított hat hónapon belül nem válik a tevékenység gyakorlására jogosulttá, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a koncessziós szerződést felmondhatja.
