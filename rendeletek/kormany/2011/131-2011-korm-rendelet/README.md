@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-131-20-
 | 2014-01-01 | 2011-131-20-22.2 | 537/2013. (XII. 30.) Korm. rendelet |
 | 2015-01-01 | 2011-131-20-22.3 | 315/2014. (XII. 12.) Korm. rendelet |
 | 2017-07-01 | 2011-131-20-22.4 | 537/2013. (XII. 30.) Korm. rendelet |
+| 2020-12-26 | 2011-131-20-22.5 | 586/2020. (XII. 15.) Korm. rendelet |
