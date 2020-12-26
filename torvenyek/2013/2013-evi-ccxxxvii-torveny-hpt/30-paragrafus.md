@@ -19,3 +19,5 @@ a) esetében az (1) bekezdésben említett valamely elutasítási ok fennáll,
 b) a szükséges személyi és tárgyi feltételekkel nem rendelkezik,
 
 c) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a prudens működésre vonatkozó jogszabályi előírásoknak.
+
+d) vállalatirányítási rendszerre, kockázatkezelési eljárásra és mechanizmusra vonatkozó leírása alapján azok nem alkalmasak a hatékony és eredményes kockázatkezelésre.

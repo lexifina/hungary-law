@@ -8,7 +8,7 @@
 
 (4) Az (1) és (2) bekezdés szerinti ellenőrzést a Felügyelet harmadik ország felügyeleti hatóságának kérésére is végezhet, valamint a viszonosság mérlegelése alapján vagy érvényben lévő felügyeleti megállapodás esetén hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő résztvegyen.
 
-(5) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A Felügyelet a vizsgálat során egyeztet az EBH-val. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
+(5) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A Felügyelet a vizsgálat során egyeztet az EBH-val. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
 
 (6) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor a Felügyelet látja el az összevont alapú felügyeleti feladatokat, és ennek érdekében minden lehetséges intézkedést megtesz.
 

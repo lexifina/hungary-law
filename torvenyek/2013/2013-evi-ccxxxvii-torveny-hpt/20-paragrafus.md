@@ -28,7 +28,7 @@ k) a központi hitelinformációs rendszerről szóló törvényben meghatározo
 
 l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 114. §-ban meghatározott egyedi helyreállítási tervét,
 
-m) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
+m) a szervezeti felépítését, amelyben szerepeltetni kell a csoporton belüli anyavállalatot, pénzügyi holding társaságot és vegyes pénzügyi holding társaságot is, az irányítási, döntési és ellenőrzési rendjét, a vállalatirányítási rendszer és a kockázatkezelési eljárások és mechanizmusok leírását és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
 
 n) szövetkezeti hitelintézet esetében a Szhitv.-ben meghatározott Integrációs Szervezethez benyújtott, csatlakozásról szóló nyilatkozatot,
 

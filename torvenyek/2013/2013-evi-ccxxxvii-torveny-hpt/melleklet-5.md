@@ -1,20 +1,56 @@
+## A rendszerkockázati tőkepuffer kiszámítása
+
+## A rendszerkockázati tőkepuffert a következőképpen kell kiszámítani:
+
+## ahol:
+
+## BSR = a rendszerkockázati tőkepuffer,
+
+## rT = a hitelintézet teljes kockázati kitettség értékére vonatkozó tőkepuffer mértéke,
+
+## ET = a hitelintézetre vonatkozó, az 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően számított teljes kockázati kitettség érték,
+
+## i = a kitettségnek a 92. § (2) bekezdés szerinti alcsoportját jelölő indexszám,
+
+## ri = az i kitettség-alcsoport kockázati kitettség értékére vonatkozó tőkepuffer-mérték,
+
+## Ei = a hitelintézet i kitettség-alcsoportjára vonatkozó, az 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően számított kockázati kitettség érték.
+
 ## Kifizetési szorzótényező
 
 ## A 94. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
 
-## a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+## a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
 
-## b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+## b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
 
-## c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+## c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
 
-## d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+## d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
 
 ## A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
 
-## 3K86080_0 |
+## ahol:
 
-## „Q n” az érintett kvartilis sorszáma.
+## Qn= az érintett kvartilis sorszáma
+
+## Tőkeáttételi mutató pufferkövetelmény esetében alkalmazandó tényező
+
+## A 96/A. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
+
+## a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+
+## b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+
+## c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+
+## d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+
+## A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
+
+## ahol:
+
+## Qn= az érintett kvartilis sorszáma
 
 5. melléklet a 2013. évi CCXXXVII. törvényhez
 
@@ -34,7 +70,7 @@ e) a 185. § (1) bekezdés f) pontjában a fogyasztói érdekek védelme érdek�
 
 f) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
 
-g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
+g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
 
 h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -51,3 +87,13 @@ m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrume
 n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
+
+2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdés végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
+
+3. Ez a törvény
+
+a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek és
+
+b) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendeletnek
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.

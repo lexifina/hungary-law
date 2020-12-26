@@ -7,3 +7,5 @@
 (4) A (3) bekezdésben foglalt rendelkezést nem kell alkalmazni azon hitelek esetében, amelyek megfelelnek a 106. § (3) és (5) bekezdésében foglalt feltételeknek.
 
 (5) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni, ha a kockázatvállalást megalapozó döntés olyan összevont felügyelet alá tartozó vállalkozásra vonatkozik, amely összevont alapú felügyelet kiterjed arra a pénzügyi intézményre is, amelynél a döntésben résztvevő vezető állású személy vagy az üzleti döntésre felhatalmazott alkalmazott tölt be vezető állást.
+
+(6) A hitelintézet pontosan dokumentálja és kérésre a Felügyelet rendelkezésére bocsátja a vezető testülete tagjának, a vezető testülete tagja közeli hozzátartozójának befolyásoló részesedése alatt álló vállalkozásnak nyújtott hiteleket és az olyan vállalkozásnak nyújtott hiteleket, amelyben a vezető testülete tagja, a vezető testülete tagjának közeli hozzátartozója a Ptk. szerinti vezető tisztségviselő.

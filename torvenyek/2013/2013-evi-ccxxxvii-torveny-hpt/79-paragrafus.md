@@ -10,11 +10,11 @@
 
 a) az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelmény,
 
-b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény, valamint
+b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény
 
 c)
 
-összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb jegyzett tőke értékénél.
+összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb induló tőke értékénél.
 
 (3) A hitelintézet a forrásgyűjtését és eszközkihelyezését likviditása folyamatos fenntartása mellett végzi.
 

@@ -22,6 +22,10 @@ j) nem teljesíti Pmt.-ben előírt kötelezettségét,
 
 k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelezettségének.
 
+l) a 31/A. §-t megsértve nem rendelkezik a felügyeleti engedéllyel,
+
+m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 169. § (2) és (3) bekezdése vagy a 181. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
+
 (2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
 
 a) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet végez,
@@ -95,3 +99,5 @@ b) irányítási rendszere, vállalatirányítási rendszere és kockázatkezel�
 (8) Ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, a Felügyelet a vele szemben alkalmazandó kivételes intézkedés előtt – a (9) bekezdésben meghatározott kivétellel – előzetesen egyeztet azon EGT-állam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre a hitelintézettel együttesen az összevont alapú felügyelet kiterjed.
 
 (9) A kivételes intézkedésről szóló határozat meghozatala előtt a Felügyelet nem köteles egyeztetni a másik EGT-állam illetékes felügyeleti hatóságával, ha az egyeztetéshez szükséges időtartam veszélyezteti a határozat végrehajthatóságát. Ebben az esetben a határozat meghozataláról a Felügyelet a másik EGT-állam illetékes felügyeleti hatóságát haladéktalanul tájékoztatja.
+
+(10) Ha a pénzügyi holding társaság, vegyes pénzügyi holding társaság már nem teljesíti a jóváhagyás 31/A. §-ban meghatározott feltételeit, akkor a Felügyelet minden szükséges intézkedést, kivételes intézkedést meghoz annak érdekében, hogy biztosítani lehessen vagy helyre lehessen állítani az összevont alapú felügyelet folyamatosságát és integritását, valamint az e törvényben és az 575/2013/EU rendeletben megállapított követelményeknek való összevont alapon történő megfelelést. A vegyes pénzügyi holding társasággal szembeni intézkedés meghatározásakor figyelembe kell venni különösen azt, hogy az intézkedés milyen hatást gyakorol az érintett pénzügyi konglomerátumra.

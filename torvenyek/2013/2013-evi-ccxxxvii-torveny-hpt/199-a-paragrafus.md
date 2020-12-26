@@ -12,4 +12,4 @@
 
 a) a szabályellenes helyzet megszüntetése érdekében a másik EGT-állam illetékes felügyeleti hatóságának tájékoztatását követően közvetlenül is intézkedhet, amelyről az intézkedés megtételét követően haladéktalanul tájékoztatja az EBH-t,
 
-b) az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikke alapján az EBH-hoz fordulhat.
+b) az 1093/2010/EU rendelet 19. cikke alapján az EBH-hoz fordulhat.

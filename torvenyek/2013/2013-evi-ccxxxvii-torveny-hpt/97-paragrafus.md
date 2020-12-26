@@ -4,7 +4,9 @@
 
 (2) A hitelintézet legalább évente felülvizsgálja az (1) bekezdés szerinti stratégiáját és eljárását annak érdekében, hogy azok összhangban legyenek a tevékenysége jellegével, nagyságrendjével és összetettségével.
 
-(3) A magyarországi székhelyű tagállami hitelintézet anyavállalat, tagállami pénzügyi holding társaság és vegyes pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendelet vonatkozásában összevont alapon felel meg.
+(2a) Az (1) bekezdés szerinti stratégiáknak és eljárásoknak megfelelően a hitelintézet a tőkemegfelelés belső értékelési eljárása alapján a szükséges nagyságú és összetételű szavatoló tőkéjét olyan megfelelő szinten határozza meg, amely elegendő az összes olyan kockázat fedezésére amelynek ki van téve, és biztosítja, hogy a szavatoló tőkéje képes legyen fedezni a stressz-forgatókönyvekből eredő potenciális veszteségeket, többek között a felügyeleti felülvizsgálat és értékelés elősegítése érdekében végzett felügyeleti stressz-teszt alapján azonosítottakat.
+
+(3) A magyarországi székhelyű tagállami hitelintézet anyavállalat az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendelet vonatkozásában összevont alapon felel meg.
 
 (4) Ha egy hitelintézet ellenőrző befolyás alatt áll vagy egy vállalkozás ezen hitelintézetben részesedési viszonnyal rendelkezik és a hitelintézet maga vagy a hitelintézet pénzügyi holding társaság anyavállalata vagy vegyes pénzügyi holding társaság anyavállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy harmadik országban székhellyel rendelkező hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban, befektetési alapkezelőben vagy járulékos vállalkozásban, akkor a hitelintézet az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendeletben meghatározott vállalkozások vonatkozásában összevont alapon felel meg.
 

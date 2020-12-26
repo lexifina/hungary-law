@@ -9,3 +9,5 @@
 (4) A pénzügyi intézmény és a független közvetítő a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
 
 (5) A pénzügyi intézmény és a független közvetítő fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelöli, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenti.
+
+(6) A panaszkezelés magyar nyelven történik, kivéve, ha a pénzügyi intézmény és az ügyfél eltérő nyelvben állapodtak meg.

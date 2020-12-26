@@ -38,7 +38,11 @@ b) nem forintban denomináltak, feltéve, hogy a tőke, a visszafizetés és a k
 
 pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügyletet tartalmazó, hitelviszonyt megtestesítő instrumentumoknak.
 
-(2) Hitelintézet felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
+(2) Pénzügyi intézmény, vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság felszámolása esetén
+
+a) ha egy instrumentumot csak részben ismernek el szavatoló tőke elemként, akkor a teljes instrumentum szavatoló tőkéből származó követelésnek tekintendő,
+
+b) az 575/2013/EU rendeletben meghatározott járulékos tőkeelemből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
 
 (3) A felszámolás során tartott egyezségi tárgyaláson az állam és az OBA képviselője – az általuk biztosított betétek tekintetében és értékében – hitelezőként vesznek részt, jogosultak megtenni az egyezség létrejöttéhez szükséges engedményeket.
 

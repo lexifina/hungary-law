@@ -14,7 +14,7 @@ cb) szakirányú felsőfokú iskolai végzettséggel és legalább ötéves, a F
 
 cc) szakirányú felsőfokú végzettséggel és vállalkozásnál vagy a közigazgatásban szerzett legalább hatéves szakirányú vezetői gyakorlattal, vagy
 
-cd) nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési társaságnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
+cd) nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési vállalkozásnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
 
 (2) Az (1) bekezdés b) pontja szerinti kérelem tartalmazza a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, valamint az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 

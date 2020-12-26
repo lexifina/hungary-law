@@ -16,7 +16,7 @@ f) a közvetítői díj meghatározásának és kifizetésének módjára, időb
 
 g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
 
-h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
+h)
 
 i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
 

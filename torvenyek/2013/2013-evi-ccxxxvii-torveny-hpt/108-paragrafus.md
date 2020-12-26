@@ -20,7 +20,7 @@ c) a piaci kockázatok valamennyi lényeges forrásának és hatásának mérés
 
 d) a nem kereskedési tevékenységet érintő, esetleges kamatváltozásokból származó kockázatok értékelésére, mérésére és kezelésére,
 
-e) működési kockázatok – ideértve a modellkockázatot is – mérésére, kezelésére, valamint vészhelyzeti és üzletmenet-folytonossági tervvel a folyamatos működés fenntartása, továbbá a súlyos üzletviteli fennakadásokból következő esetleges veszteségek mérséklése érdekében,
+e) működési kockázatok – ideértve a modellkockázatot és a kiszervezésből eredő kockázatot is – mérésére, kezelésére, valamint vészhelyzeti és üzletmenet-folytonossági tervvel a folyamatos működés fenntartása, továbbá a súlyos üzletviteli fennakadásokból következő esetleges veszteségek mérséklése érdekében,
 
 f) az egyes üzletágakhoz, devizanemekhez és a csoporthoz tartozó jogi személyekhez igazítva a likviditási kockázata megfelelő – akár egy napon belüli – időtávokon történő azonosítására, mérésére, kezelésére és nyomon követésére, ideértve a likviditási költség-, nyereség- és kockázat-allokációs eljárásokat is,
 
@@ -29,6 +29,18 @@ g) azon értékpapírosítási ügyletekből eredő kockázatok értékelésére
 h) a túlzott tőkeáttételi kockázat azonosítására, kezelésére és ellenőrzésére, különösen annak érdekében, hogy a hitelintézet elővigyázatosan kezelje a várt vagy realizált veszteségek miatti szavatolótőke-csökkenés okán bekövetkező tőkeáttétel növekedés kockázatát, és ezáltal ellenálljon a különböző stressz helyzetekben jelentkező túlzott tőkeáttétel kockázatának, valamint
 
 i) a hitel- és pénzkölcsönnyújtási tevékenység jóváhagyási, módosítási, megújítási, refinanszírozási és monitoringozási folyamataira.
+
+(5a) Az (5) bekezdés d) pontjában foglaltak teljesítése érdekében a hitelintézet
+
+a) belső rendszereket működtet, illetve sztenderd módszert vagy egyszerűsített sztenderd módszert használ a tőke gazdasági értékére és a nem kereskedési tevékenységből származó nettó kamatbevételre egyaránt kiható esetleges kamatlábváltozásokból származó kockázatok azonosítására, értékelésére, kezelésére és mérséklésére, és
+
+b) rendszereket működtet a hitelkockázati feláraknak a tőke gazdasági értékére és a nem kereskedési tevékenységből származó nettó kamatbevételre egyaránt kiható esetleges változásból származó kockázatok értékelésére és nyomon követésére.
+
+(5b) A Felügyelet döntése alapján
+
+a) a hitelintézet az (5a) bekezdés a) pontjában foglaltak teljesítése érdekében a sztenderd módszert alkalmazza, ha a Felügyelet megítélése szerint a belső rendszer nem alkalmas a kockázatok értékelésére,
+
+b) az 575/2013/EU rendeletben meghatározott kis méretű és nem összetett intézmény a sztenderd módszert alkalmazza, ha a Felügyelet megítélése szerint az egyszerűsített sztenderd módszer nem alkalmas a nem kereskedési tevékenységből származó kamatlábkockázat értékelésére.
 
 (6) Az (5) bekezdés f) pontjában foglaltak teljesítése érdekében:
 

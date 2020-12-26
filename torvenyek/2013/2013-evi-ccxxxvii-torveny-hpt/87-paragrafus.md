@@ -24,4 +24,4 @@ a) 0 százalék vagy
 
 b) 0,25 százalék valamely egész számértékkel szorzott többszöröse lehet.
 
-(7) A (6) bekezdéstől eltérve, a hitelintintézet számára a makroprudenciális feladatkörében eljáró MNB 2,5 százalékot meghaladó anticiklikus tőkepufferrátát is meghatározhat, ha a gazdaságban jelentős a hitel-betét arány vagy a hitel-GDP arány kedvezőtlen folyamatain túlmenően a makrogazdasági környezet jelentős kedvezőtlen tendenciát mutat.
+(7) A (6) bekezdéstől eltérve, a hitelintézet számára a makroprudenciális feladatkörében eljáró MNB 2,5 százalékot meghaladó anticiklikus tőkepufferrátát is meghatározhat, ha a gazdaságban jelentős a hitel-betét arány vagy a hitel-GDP arány kedvezőtlen folyamatain túlmenően a makrogazdasági környezet jelentős kedvezőtlen tendenciát mutat.

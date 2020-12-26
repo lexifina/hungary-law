@@ -2,13 +2,13 @@
 
 172. § (1) A Felügyelet látja el a Magyarországon bejegyzett hitelintézet összevont alapú felügyeletét.
 
-(2) Ha valamely hitelintézet anyavállalata befektetési vállalkozás, illetve a befektetési vállalkozás részesedési viszonnyal rendelkezik hitelintézetben és a hitelintézet nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, akkor a Bszt. összevont alapú felügyeletre vonatkozó szabályai alkalmazandóak.
+(2) Ha valamely befektetési vállalkozás részesedési viszonnyal rendelkezik hitelintézetben és a hitelintézet nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, akkor a Bszt. összevont alapú felügyeletre vonatkozó szabályai alkalmazandóak.
 
 (3) A Felügyelet nem vizsgálja a pénzügyi holding társaság, a külföldi hitelintézet, pénzügyi holding társaság és vegyes tevékenységű holding társaság prudens működését egyedi alapon.
 
 (4) Ha a Felügyelet dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, összevont alapú felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű hitelintézetet, és meghatározhatja, hogy valamely vállalkozásra az összevont alapú felügyelet kiterjed.
 
-(5) Az olyan hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik -, az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
+(5) Az olyan hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Az olyan leányvállalat esetében, amely nem tartozik e törvény hatálya alá, az anyavállalat biztosítja, hogy a leányvállalat egyedi alapon eleget tegyen az e törvényben foglalt feltételeknek. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
 
 (6) Az olyan hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól és járulékos vállalkozástól, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, a Felügyelet közvetlenül is kérhet az összevont alapú felügyelet érdekében szükségessé váló adatot és információt.
 

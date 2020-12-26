@@ -42,7 +42,7 @@ i) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatá
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
-(4) Ha az alapítók között befolyásoló részesedést szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosítóintézet vagy befektetési társaság van, az (1)–(2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez benyújtja a székhely szerinti ország illetékes felügyeleti hatóságának igazolását, vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
+(4) Ha az alapítók között befolyásoló részesedést szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító vagy befektetési vállalkozás van, az (1)–(2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez benyújtja a székhely szerinti ország illetékes felügyeleti hatóságának igazolását, vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
 (5) A pénzügyi holding társaság az engedély iránti kérelméhez mellékeli
 
@@ -55,5 +55,19 @@ c) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megk
 d) nyilatkozatát arról, hogy a jogszabályban meghatározott vagy jogszabályon alapuló adatszolgáltatások teljesítésére felkészült, valamint az adatszolgáltatáshoz szükséges számítógépes programok tesztfuttatásait,
 
 e) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a felügyelete érdekében szükséges adatot, tényt, információt, megoldást a Felügyelet rendelkezésére bocsátja.
+
+(5a) A pénzügyi holding társaság, vegyes pénzügyi holding társaság működésének 15/A. § szerinti jóváhagyásához a kérelmező mellékeli
+
+a) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot magába foglaló csoport szervezeti felépítését, feltüntetve a leányvállalatokat, anyavállalatokat, valamint a csoportba tartozó összes szervezet által folytatott tevékenységek típusát és helyét,
+
+b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot ténylegesen irányító legalább két személy kinevezéséről, megválasztásáról szóló igazolást,
+
+c) a (2) bekezdésben foglaltakat, ha a pénzügyi holding társaság, vegyes pénzügyi holding társaság hitelintézet leányvállalattal rendelkezik,
+
+d) a csoport belső szervezeti felépítését és a feladatok csoporton belüli megosztását, és
+
+e) minden olyan információt, amely a 15/A. §-ban és 31/A. §-ban meghatározott értékeléshez szükséges.
+
+(5b) Ha a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság 15/A. § szerinti jóváhagyására a befolyásoló részesedése megszerzésének engedélyezésével egyidejűleg kerül sor, a Felügyelet egyeztet a csoporthoz tartozó vállalkozások illetékes felügyeleti hatóságaival. Ha a befolyásoló részesedés megszerzését a Felügyelet engedélyezi, a befolyásoló részesedés megszerzésének engedélyezésére vonatkozó értékelését húsz munkanapot meghaladó időtartamra felfüggeszti, mindaddig, amíg a 173/A. §-ban meghatározott eljárás le nem zárul.
 
 (6) Alapítási engedély alapján a hitelintézet a banküzem létesítésével kapcsolatos tevékenységet végezhet.

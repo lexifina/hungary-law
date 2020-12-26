@@ -38,6 +38,8 @@ o) elektronikuspénz-értékesítői tevékenységet,
 
 p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
 
+q) az általa üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
+
 végezhet.
 
 (4) Fizetési rendszert működtető pénzügyi vállalkozás a (3) bekezdésben foglaltakon kívül egyéb pénzügyi szolgáltatásnak nem minősülő üzletszerű tevékenységet is folytathat, ha ezen tevékenysége a főtevékenységként végzett fizetési rendszer működtetését nem befolyásolja hátrányosan.

@@ -22,7 +22,7 @@
 
 9. betét és más, a nyilvánosságtól származó visszafizetendő pénzeszköz gyűjtése: pénzeszközök egyedileg előre meg nem határozott személyektől történő gyűjtése oly módon, hogy azzal a betétgyűjtő tulajdonosként rendelkezhet, de köteles azt – kamattal, más előny biztosításával vagy anélkül – visszafizetni;
 
-10. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
+10. csoport: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, likviditási vagy allokációs célú közösen végrehajtott pénzügyi művelete;
 
@@ -80,17 +80,13 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 31. főiroda: az a hely, ahol a pénzügyi intézmény, illetve a közvetítő főtevékenységét végzi, és ahol a központi döntéshozatal történik;
 
-32. globálisan rendszerszinten jelentős hitelintézet: olyan rendszerszinten jelentős hitelintézet, amelynek fizetésképtelenné válása vagy nem prudens működése globális szintű rendszerkockázathoz vezethet és amelynek nincs
-
-a) EU-szintű hitelintézeti anyavállalata,
-
-b) EU-szintű pénzügyi holding társaság anyavállalata,
-
-c) EU-szintű vegyes pénzügyi holding társaság anyavállalata;
+32. globálisan rendszerszinten jelentős hitelintézet: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 33. globálisan rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer-követelmény: a rendszerszintű kockázatokat hordozó, globálisan tevékenykedő intézmények csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény;
 
 34. harmadik ország: az az ország, amely nem EGT-állam;
+
+34a. harmadik országbeli csoport: olyan csoport, amelynek anyavállalata harmadik országban letelepedett;
 
 35. harmadik országbeli hitelintézet: az a hitelintézet, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik olyan tevékenységek végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés a), b), d), e) vagy f) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
 
@@ -246,6 +242,10 @@ b) amelynek igazolt célja az a) pontban meghatározott célokra nyújtott kölc
 
 83. működési kockázat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
+83a. nemek szempontjából semleges javadalmazási politika: a férfiak és a nők egyenlő vagy egyenlő értékű munkáért járó egyenlő díjazásának elvén alapuló javadalmazási politika;
+
+83b. nem EU-beli globálisan rendszerszinten jelentős intézmény: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
 84. nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszer feltételei alapján nyújtott felhalmozott juttatást;
 
 84a. pénz: a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott pénz;
@@ -324,6 +324,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 
 100. szabályozott piac: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
+100a. szanálási hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított hatóság;
+
 101. szavatoló tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 101a. számlainformációs szolgáltatás: olyan online szolgáltatás, amely összesített információk nyújtására szolgál egy vagy több olyan fizetési számláról, amelyet a pénzforgalmi szolgáltatást igénybe vevő egy másik pénzforgalmi szolgáltatónál vagy több pénzforgalmi szolgáltatónál nyitott;
@@ -353,6 +355,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 111a. tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) ekként meghatározott fogalom;
 
 112. tőkeáttétel: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
+112a. tőkeáttételi mutató pufferkövetelmény: az 575/2013/EU rendelet 92. cikk (1a) bekezdésében meghatározott pufferkövetelmény;
 
 113. tőkefenntartási pufferkövetelmény: a hitelintézet veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény;
 
@@ -483,3 +487,11 @@ d) az önkéntes kölcsönös biztosító pénztár által nyújtott tagi kölcs
 e) az önkormányzat által adott lakáscélú vagy szociális kölcsön.
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
+
+(7) Az e törvényben vagy az 575/2013/EU rendeletben megállapított követelmények vagy felügyeleti hatáskörök összevont vagy szubkonszolidált alapon, e törvénnyel és az 575/2013/EU rendelettel összhangban történő alkalmazásának biztosítása érdekében a „hitelintézet”, a „tagállami anyavállalat”, az „EU-szintű anyavállalat” és az „anyavállalat” fogalmába bele kell érteni a következőket is:
+
+a) azok a pénzügyi holding társaságok és vegyes pénzügyi holding társaságok, amelyek a 15/A. §-nak megfelelően megkapták a Felügyelettől a külön jóváhagyást,
+
+b) EU-szintű pénzügyi holding társaság anyavállalat, EU-szintű vegyes pénzügyi holding társaság anyavállalat, tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat által ellenőrzött, a 15/A. § (2) bekezdés c) pontjának megfelelően kijelölt hitelintézet, amely esetében a 15/A. § (2) bekezdése szerint az anyavállalatra nem vonatkozik a külön jóváhagyás követelménye, és
+
+c) a 192/A. § d) pontja értelmében kijelölt pénzügyi holding társaság, vegyes pénzügyi holding társaság vagy hitelintézet.

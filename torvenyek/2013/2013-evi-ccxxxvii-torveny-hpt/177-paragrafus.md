@@ -8,11 +8,9 @@
 
 (4) A Felügyelet a felülvizsgálati és értékelési eljárás során értékeli:
 
-a) azon kockázatokat, amelyeknek a hitelintézet ki van vagy ki lehet téve,
+a) azon kockázatokat, amelyeknek a hitelintézet ki van vagy ki lehet téve, és
 
-b) a hitelintézet pénzügyi közvetítőrendszerre gyakorolt rendszerszintű kockázatát, és
-
-c) azon kockázatokat, amelyeket a stressz-teszt során a hitelintézet tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak.
+b) azon kockázatokat, amelyeket a stressz-teszt során a hitelintézet tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak.
 
 (5) A felülvizsgálatnak és értékelésnek a hitel-, piaci és működési kockázatokon kívül ki kell terjednie:
 
@@ -36,7 +34,7 @@ i) arra, hogy a hitelintézet által értékpapírosított eszközökre vonatkoz
 
 j) a hitelintézet üzleti modelljére,
 
-k) a rendszerszintű kockázatra,
+k)
 
 l) a hitelintézet túlzott tőkeáttételi kockázatnak való kitettségére, és annak kezelése céljából működtetett rendszerek, stratégiák, eljárások és mechanizmusok megfelelőségére, valamint
 
@@ -52,9 +50,17 @@ m) a hitelintézet vállalatirányítási rendszereire, vállalati kultúrájár
 
 (10) A Felügyelet a felügyeleti felülvizsgálat és értékelés keretében ellenőrzi, hogy a hitelintézet nyújtott-e burkolt támogatást értékpapírosításhoz. Ha a hitelintézet egynél többször nyújtott már az 575/2013/EU rendelet 248. cikke szerinti burkolt támogatást, és ezzel nem ér el jelentős kockázat-transzferálást, akkor a Felügyeletnek meg kell tennie a 185. § szerinti intézkedéseket.
 
-(11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer elvégzi.
+(11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer elvégzi. A Felügyelet az arányosság elvét a honlapján közzétett feltételeknek megfelelően alkalmazza.
 
-(12) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a hitelintézet az (5) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint húsz százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva a kamatláb hirtelen és nem várt, 200 bázispontos vagy az EBH által meghatározott egyéb változás eredményeként, akkor a Felügyelet a 185–186. §-okban foglalt intézkedést alkalmaz.
+(11a) A Felügyelet – az EBH-nak történő bejelentés mellett – egységesítheti a felügyeleti felülvizsgálat és értékelés alkalmazására vonatkozó módszertanokat, hogy figyelembe vegye – különösen az üzleti modellek hasonlósága vagy a kitettségek hasonló földrajzi helye alapján – a hasonló kockázati profillal rendelkező hitelintézeteket. Az egységesített módszertanok a felügyeleti felülvizsgálat és értékelés alapján előírt többlettőke hitelintézet specifikus jellegét nem érintve kockázatorientált referenciaértékeket és számszerű mutatókat is tartalmazhatnak, valamint lehetővé kell tenniük azon egyedi kockázatok megfelelő mérlegelését, amelyeknek az egyes hitelintézetek ki lehetnek téve.
+
+(12) A Felügyelet a 185. és 186. §-ban foglalt intézkedéseket alkalmazhatja, ha a hitelintézet nem megfelelően kezeli a nem kereskedési könyvi tevékenységből fakadó kamatlábkockázatot és túlzott mértékben kitett a nem kereskedési könyvi tevékenységből származó kamatlábkockázatnak, így különösen
+
+a) a hitelintézet tőkéjének a 108. § (5a) bekezdés a) pontja szerinti gazdasági értéke a kamatlábnak a hat felügyeleti sokkforgatókönyv bármelyike általi hirtelen és váratlan változása következtében legalább az alapvető tőke 15 százalékának megfelelő mértékben csökken,
+
+b) a hitelintézet 108. § (5a) bekezdés a) pontja szerinti nettó kamatbevétele a kamatlábra alkalmazott két felügyeleti sokkforgatókönyv bármelyike általi hirtelen és váratlan változásának következtében jelentősen csökken,
+
+c) egyéb olyan esetekben, amikor a Felügyelet a nem kereskedési tevékenységből fakadó kamatlábkockázatot jelentősnek ítéli.
 
 (13) Az (5) bekezdés m) pontja szerinti felügyeleti felülvizsgálat és értékelés keretében a hitelintézet a Felügyelet rendelkezésére bocsátja legalább
 

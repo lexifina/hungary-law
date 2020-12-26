@@ -10,7 +10,7 @@ c) az alapítási engedély tekintetében valamennyi pénzügyi intézmény, eze
 
 d) a pénzügyi intézmény hat hónapon keresztül nem folytat pénzügyi szolgáltatási tevékenységet,
 
-e) a pénzügyi intézmény már nem felel meg e törvény vagy – a prudens működésre vonatkozó – más jogszabályban foglalt rendelkezéseknek,
+e) a pénzügyi intézmény már nem felel meg e törvény vagy a prudens működésre vonatkozó más jogszabályban, az 575/2013/EU rendelet harmadik, negyedik vagy hatodik részében – ide nem értve a 92a. és 92b. cikket – foglalt rendelkezéseknek,
 
 f) a pénzügyi intézmény több alkalommal súlyosan megsértette a számvitelre, a független és megbízható irányításra, illetve ellenőrzésre vonatkozó, továbbá az e törvényben, valamint a prudens működésre vonatkozó más jogszabályokban, illetve a Felügyelet határozataiban foglalt előírásokat,
 

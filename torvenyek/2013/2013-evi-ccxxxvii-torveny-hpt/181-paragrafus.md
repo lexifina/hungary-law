@@ -2,8 +2,6 @@
 
 a) a hitelintézet üzleti modelljét,
 
-b) a 108. § (5) bekezdés f) pontjában meghatározott rendszereket, eljárásokat és mechanizmusokat,
+b) a 108. § (5) bekezdés f) pontjában meghatározott rendszereket, eljárásokat és mechanizmusokat, és
 
-c) a felügyeleti felülvizsgálat és értékelés eredményét, valamint
-
-d) a Magyarországot fenyegető rendszerszintű likviditási kockázatot.
+c) a felügyeleti felülvizsgálat és értékelés eredményét.
