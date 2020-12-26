@@ -22,173 +22,161 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 (3) Az MNB írásban bejelenti az Európai Bizottságnak
 
-a) biztosító vagy viszontbiztosító részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
+1. a biztosító vagy viszontbiztosító részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
 
-b) harmadik országban székhellyel rendelkező hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt,
+2. a harmadik országban székhellyel rendelkező hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt,
 
-c) az olyan befektetési alapkezelő számára kiadott – átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások kezelésére vonatkozó – engedélyt, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
+3. az olyan befektetési alapkezelő számára kiadott – átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások kezelésére vonatkozó – engedélyt, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
 
-d) harmadik országban bejegyzett hitelintézet által Magyarországon bejegyzett hitelintézetben történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett hitelintézet harmadik országbeli hitelintézet leányvállalatává válik, illetve az ilyen részesedés megszűnését,
+4. a harmadik országban bejegyzett hitelintézet által Magyarországon bejegyzett hitelintézetben történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett hitelintézet harmadik országbeli hitelintézet leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 
-e) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnését,
+5. a harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 
-f) azokat az általános problémákat, amelyeket a Magyarországon működő biztosítók, viszontbiztosítók, biztosításközvetítők, viszontbiztosítás-közvetítők vagy kiegészítő biztosításközvetítői tevékenységet végző személyek tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
+6. azokat az általános problémákat, amelyeket a Magyarországon működő biztosítók, viszontbiztosítók, biztosításközvetítők, viszontbiztosítás-közvetítők vagy kiegészítő biztosításközvetítői tevékenységet végző személyek tapasztaltak harmadik országban történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
 
-g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
+7. pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
 
-h) azt, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
+8. azt, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
 
-i) összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
+9. összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
 
-j) a Tpt. 181/J. § (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet,
+10. a Magyarország területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
 
-k)
+11. a Hpt. 199. § (5) bekezdése, a Tpt. 404. § (2) bekezdése és a Bszt. 177. § (2) bekezdése szerinti intézkedését,
 
-l) a Magyarország területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
+12. a hatáskörök átruházása tekintetében megkötött megállapodásait, beleértve az ilyen átruházást szabályozó pontos feltételeket is,
 
-m) a Hpt. 199. § (5) bekezdése, a Tpt. 404. § (2) bekezdése és a Bszt. 177. § (2) bekezdése szerinti intézkedését,
+13. a biztosításkötési kötelezettséget előíró jogszabályokat, illetve azok módosítását,
 
-n) a hatáskörök átruházása tekintetében megkötött megállapodásait, beleértve az ilyen átruházást szabályozó pontos feltételeket is,
+14. az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 30/A. §-ának alkalmazásával kapcsolatban bejelentett eseteket, a kockázatelemzéseket, az azokra vonatkozó adatokat és az adatok közzétételi helyeit,
 
-o) a biztosításkötési kötelezettséget előíró jogszabályokat, illetve azok módosítását,
+15. azokra a kötvényekre, jelzálog-levelekre, továbbá ezek kibocsátóira vonatkozó adatokat, amelyek megfelelnek az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 2009. július 13-i 2009/65/EK irányelv (a továbbiakban: 2009/65/EK irányelv) 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést,
 
-p) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 30/A. §-ának alkalmazásával kapcsolatban bejelentett eseteket, a kockázatelemzéseket, az azokra vonatkozó adatokat és az adatok közzétételi helyeit,
-
-q) azokra a kötvényekre, jelzálog-levelekre, továbbá ezek kibocsátóira vonatkozó adatokat, amelyek megfelelnek az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 2009. július 13-i 2009/65/EK irányelv (a továbbiakban: 2009/65/EK irányelv) 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
-
-r)
-
-s) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmény nevét és azt, hogy a globálisan rendszerszinten jelentős intézmények melyik alkategóriába tartoznak,
-
-t) a 35/A. § (1) bekezdésében, a Hpt. 92. § (1) bekezdésében és a Bszt. 110/G. § (1) bekezdésében meghatározott felülvizsgálatok eredményét,
-
-u) a Bszt. 110/A. § (4) bekezdése és 110/B. § (8) bekezdése szerinti mentesítést,
-
-v) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
+16. a Bit. 279. § (5) bekezdésében és a Bit. 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
 
 (4) Az MNB tájékoztatja
 
-a) az Európai Értékpapír-piaci Hatóságot
+1. az Európai Értékpapír-piaci Hatóságot
 
-aa) a piaci visszaélésekről, valamint a befektetési vállalkozásokra és az árutőzsdei szolgáltatókra vonatkozó jogszabályi rendelkezések megsértésével kapcsolatban kiszabott közigazgatási intézkedésről vagy szankcióról a nyilvánosságra hozatalt követően, valamint évente összesítő jelleggel,
+1.1. a piaci visszaélésekről, valamint a befektetési vállalkozásokra és az árutőzsdei szolgáltatókra vonatkozó jogszabályi rendelkezések megsértésével kapcsolatban kiszabott közigazgatási intézkedésről vagy szankcióról a nyilvánosságra hozatalt követően, valamint évente összesítő jelleggel,
 
-ab)
+1.2. a befektetési szolgáltatási tevékenység végzésére jogosító engedély, tőzsde alapítására vonatkozó engedély, tőzsdei tevékenység végzésére, befektetési alapkezelési tevékenység végzésére jogosító engedély kiadásáról és visszavonásáról,
 
-ac) a befektetési szolgáltatási tevékenység végzésére jogosító engedély, tőzsde alapítására vonatkozó engedély, tőzsdei tevékenység végzésére, befektetési alapkezelési tevékenység végzésére jogosító engedély kiadásáról és visszavonásáról,
+1.3. a Magyarországon székhellyel rendelkező szabályozott piacokról, amelynek jegyzékét megküldi, illetve a jegyzék változásáról,
 
-ad) a Magyarországon székhellyel rendelkező szabályozott piacokról, amelynek jegyzékét megküldi, illetve a jegyzék változásáról,
+1.4. azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek rendelkezésére állnak,
 
-ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek rendelkezésére állnak,
+1.5. azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést,
 
-af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
+1.6. a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
-ag) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+1.7. a Bszt. 26/A. § (4) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
 
-ah) a Bszt. 26/A. § (4) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
+1.8. a Tpt. 310/A. § (10) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
 
-ai) a Tpt. 310/A. § (10) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
+1.9. a Bszt. 154/H. §-a alapján hozott engedélyről és az abban bekövetkezett változásról,
 
-aj) a Bszt. 154/H. §-a alapján hozott engedélyről és az abban bekövetkezett változásról,
+1.10. az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről;
 
-ak) az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
+2. az Európai Bankhatóságot
 
-ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
+2.1. a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyéről – hitelintézet esetén azzal, hogy melyik betétbiztosítási rendszerhez csatlakozott –, valamint annak visszavonásáról az indoklással együtt,
 
-b) az Európai Bankhatóságot
+2.2. a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
 
-ba) a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyéről – hitelintézet esetén azzal, hogy melyik betétbiztosítási rendszerhez csatlakozott –, valamint annak visszavonásáról az indoklással együtt,
+2.3. a Hpt. 36. § (5) bekezdése szerinti határozatáról,
 
-bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
+2.4. a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
 
-bc) a Hpt. 36. § (5) bekezdése szerinti határozatáról,
+2.5. a Hpt. 175. § (5) bekezdése, illetve a Bszt. 161/C. § (5) bekezdése szerinti megállapodásról, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
 
-bd) a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
+2.6. a Hpt. 167. § (4) és (5) bekezdése szerinti értékeléséről,
 
-be) a Hpt. 175. § (5) bekezdése, illetve a Bszt. 161/C. § (5) bekezdése szerinti megállapodásról, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
+2.7. a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
-bf) a Hpt. 167. § (4) és (5) bekezdése szerinti értékeléséről,
+2.8. azon hatóságok nevéről, amelyek a Hpt. 159. § (3) bekezdés b) pontja szerinti üzleti titok és 161. § (2) bekezdés c) pontja szerinti banktitok alóli mentesítés keretében információt kaptak,
 
-bg) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
+2.9. hitelintézetben megszerzett befolyásoló részesedésről,
 
-bh) azon hatóságok nevéről, amelyek a Hpt. 159. § (3) bekezdés b) pontja szerinti üzleti titok és 161. § (2) bekezdés c) pontja szerinti banktitok alóli mentesítés keretében információt kaptak,
+2.10. azon pénzügyi holding társaságról vagy vegyes pénzügyi holding társaságról, amely az 575/2013/EU rendelet 11. cikke alá tartozik,
 
-bi) hitelintézetben megszerzett befolyásoló részesedésről,
+2.11. ha a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény (a továbbiakban: Pkt.) 9. § (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
 
-bj) azon pénzügyi holding társaságról vagy vegyes pénzügyi holding társaságról, amely az 575/2013/EU rendelet 11. cikke alá tartozik,
+2.12. a Hpt. 126. § (5) bekezdésében meghatározott információkról,
 
-bk) ha a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény (a továbbiakban: Pkt.) 9. § (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
+2.13. a Hpt. 145. § (4) bekezdése alapján hozott engedélyről,
 
-bl) a Hpt. 126. § (5) bekezdésében meghatározott információkról,
+2.14. a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése és 164. §-a alapján hozott határozatokról,
 
-bm) a Hpt. 145. § (4) bekezdése alapján hozott engedélyről,
+2.15. a harmadik országban székhellyel rendelkező hitelintézet vagy befektetési vállalkozás magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
 
-bn) a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése és 164. §-a alapján hozott határozatokról,
+2.16. a Hpt. 114. §-a szerinti helyreállítási terv kialakításával és koordinálásával kapcsolatosan tervezett megbeszélésekről,
 
-bo) a harmadik országban székhellyel rendelkező hitelintézet vagy befektetési vállalkozás magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
+2.17. a Hpt. 180. § (1) bekezdésének és a Bszt. 162. § (5) bekezdésének alkalmazásáról,
 
-bp) a Hpt. 114. §-a szerinti helyreállítási terv kialakításával és koordinálásával kapcsolatosan tervezett megbeszélésekről,
+2.18. a Hpt. 177. § és Bszt. 163/A. § szerinti felügyeleti felülvizsgálati és értékelési eljárások működéséről és az MNB által alkalmazott módszerről,
 
-bq) a Hpt. 180. § (1) bekezdésének és a Bszt. 162. § (5) bekezdésének alkalmazásáról,
+2.19. ha a Pkt. 9. § (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
 
-br) a Hpt. 177. § és Bszt. 163/A. § szerinti felügyeleti felülvizsgálati és értékelési eljárások működéséről és az MNB által alkalmazott módszerről,”
+2.20. a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
 
-bs) a 35/A. § (2) bekezdésében meghatározott információkról,
+2.21. a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
 
-bt) a Hpt. 86. §-ával, 88. §-ával, valamint a Bszt. 110/A. §-ával és 110/C. §-ával kapcsolatos döntésről,
+2.22. a pénzforgalmi intézmény, elektronikuspénz kibocsátó intézmény nyilvántartásba vett pénzforgalmi közvetítőiről,
 
-bu) az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
+2.23. a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésekről,
 
-bv) a 35/A. §-ban, a Hpt. 92. §-ában, és a Bszt. 110/G. §-ában meghatározott felülvizsgálatok eredményéről,
+2.24. a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-a szerinti értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
 
-bw) ha a Pkt. 9. §-a (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
+2.25. a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról,
 
-bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
+2.26. szanálási feladatkörben a szavatoló tőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó azon minimumkövetelményről, amelyet a Szantv. 68/A. §-ával vagy 68/B. §-ával összhangban a Szantv. hatálya alá tartozó minden egyes szervezet tekintetében megállapítottak;
 
-by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
+3. az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 
-bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében és 68. § (1) bekezdésében meghatározott követelmények alkalmazásáról,
+3.1. a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
-bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről;
+3.2. a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
 
-c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
+3.3. – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – az olyan biztosító vagy viszontbiztosító számára kiadott tevékenységi engedélyről és annak visszavonásáról, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
 
-ca) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+3.4. a harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzéséről, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnéséről,
 
-cb) a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
+3.5. azokról az általános problémákról, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országban történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
 
-cc) – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – az olyan biztosító vagy viszontbiztosító számára kiadott tevékenységi engedélyről és annak visszavonásáról, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
+3.6. a Bit. 279. § (5) bekezdésében és 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról,
 
-cd) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzéséről, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnéséről,
+3.7. a Bit. 310. § (4) és (5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
 
-ce) azokról az általános problémákról, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
+3.8. a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti információkról, vizsgálatokról és határozatokról,
 
-cf) a Bit. 279. § (5) bekezdésében és 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról,
+3.9. az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) és (5c) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
 
-cg) a Bit. 310. § (4) és (5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról;
+3.10. minden évben, összesített tájékoztatás keretében a Bit. biztosítási és viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése okán hozott valamennyi határozatáról,
 
-ch) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti információkról, vizsgálatokról és határozatokról;
+3.11. arról, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést;
 
-ci) az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) és (5c) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
+4. az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről;
 
-cj) minden évben, összesített tájékoztatás keretében a Bit. biztosítási és viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése okán hozott valamennyi határozatáról,
+5. az Európai Rendszerkockázati Testületet
 
-ck) arról, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést;
+5.1. az egy vagy több rendszerkockázati tőkepufferráta meghatározása vagy módosítása esetén a 35/A. § (2) bekezdésben meghatározott információkról,
 
-d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
+5.2. a 33. § (4) bekezdése alapján meghatározott negyedéves anticiklikus pufferrátáról, és a 43. § (2) bekezdés m) pontja szerint nyilvánosságra hozott információkról,
 
-e) az Európai Rendszerkockázati Testületet
+5.3. a 35. § (2) bekezdésében meghatározott információkról,
 
-ea) a 33. § (4) bekezdése alapján meghatározott negyedéves anticiklikus pufferrátáról, és a 43. § (2) bekezdés m) pontja szerint nyilvánosságra hozott információkról,
+5.4. az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
 
-eb) a Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
+5.5. a 35. § (1) bekezdésében és a Hpt. 89. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
 
-ec) a 35. § (2) bekezdésében meghatározott információkról,
+5.6. a Szantv. 113. § (2) bekezdésében foglaltakról;
 
-ed) az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
+6. az EKB-t
 
-ee) a 35. § (1) bekezdésben, a Hpt. 89. § (9) bekezdésében, valamint a Bszt. 110/D. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
+6.1. a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-a szerinti értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
 
-ef) a Szantv. 113. § (2) bekezdésében foglaltakról.
+6.2. a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról.
 
 (4a) Az MNB tájékoztatja
 
@@ -210,13 +198,13 @@ bb) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott inf
 
 (4b) Ha a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett bejelentés mérlegelését követően az MNB azt állapítja meg, hogy az esemény releváns lehet a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek vagy személyek ellenőrzését ellátó más hatóságok vagy egyéb hatóságok számára, úgy ez utóbbiaknak is értesítést küld.
 
-(5) A (3) bekezdés a) pontja szerinti bejelentésben – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – jelezni kell azt is, ha a tevékenységi engedélyt olyan biztosítónak vagy viszontbiztosítónak adták ki vagy olyan biztosítótól vagy viszontbiztosítótól vonták vissza, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata.
+(5) A (3) bekezdés 1. pontja szerinti bejelentésben – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – jelezni kell azt is, ha a tevékenységi engedélyt olyan biztosítónak vagy viszontbiztosítónak adták ki vagy olyan biztosítótól vagy viszontbiztosítótól vonták vissza, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata.
 
-(6) A (3) bekezdés b) pontja szerinti hitelintézetre vonatkozó bejelentést az európai bankbizottság létrehozásáról szóló, 2003. november 5-i 2004/10/EK bizottsági határozattal létrehozott Európai Bankbizottságnak is meg kell küldeni.
+(6) A (3) bekezdés 2. pontja szerinti hitelintézetre vonatkozó bejelentést az európai bankbizottság létrehozásáról szóló, 2003. november 5-i 2004/10/EK bizottsági határozattal létrehozott Európai Bankbizottságnak is meg kell küldeni.
 
-(7) A (3) bekezdés c) pontja szerinti bejelentésben részletesen be kell mutatni a vállalatcsoport szerkezetét.
+(7) A (3) bekezdés 3. pontja szerinti bejelentésben részletesen be kell mutatni a vállalatcsoport szerkezetét.
 
-(8) Az MNB a (3) bekezdés a), e), g) és n) pontja szerinti bejelentést az EGT állama pénzügyi felügyeleti hatóságainak is megküldi.
+(8) Az MNB a (3) bekezdés 1., 5., 7. és 12. pontja szerinti bejelentést az EGT állama pénzügyi felügyeleti hatóságainak is megküldi.
 
 (9) A Pénzügyi Békéltető Testület tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást ad.
 

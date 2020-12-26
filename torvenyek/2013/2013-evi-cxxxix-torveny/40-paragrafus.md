@@ -59,3 +59,7 @@
 (30) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet végrehajtását.
 
 (31) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(32) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az (EU) 2016/1011 rendeletnek az uniós éghajlatváltozási referenciamutatók, a Párizsi Megállapodáshoz igazodó uniós referenciamutatók és a referenciamutatókra vonatkozó, fenntarthatósággal kapcsolatos közzétételek tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2089 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(33) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet 5–7. cikkének végrehajtását.

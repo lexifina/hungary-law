@@ -64,9 +64,9 @@ nd) indoklást, ha az nc) alpont szerinti időpont kevesebb, mint 12 hónappal k
 
 o) a 35/A. § (1) bekezdése alapján alkalmazandó rendszerkockázati tőkepufferrel kapcsolatban
 
-oa) a rendszerkockázati tőkepufferráta mértékét,
+oa) a rendszerkockázati tőkepufferráta vagy tőkepufferráták mértékét,
 
-ob) az érintett hitelintézetek vagy befektetési vállalkozások körét,
+ob) az érintett hitelintézetek vagy befektetési vállalkozások és rendszerkockázati tőkepufferrátával érintett kitettségek körét,
 
 oc) a rendszerkockázati tőkepuffer bevezetésének indokát, ha ennek nyilvánosságra hozatala nem veszélyezteti a pénzügyi közvetítőrendszer stabilitását,
 

@@ -1,14 +1,26 @@
-50/A. § (1) A természetes személy ügyfél lakóhelyére, tartózkodási helyére vagy a természetes személy ügyfél meghatalmazottja címére, illetve a nem természetes személy ügyfél cégjegyzékbe vagy a civil szervezetek bírósági nyilvántartásába bejegyzett székhelyére vagy meghatalmazottja címére, valamint a Magyarországon lakcímmel vagy székhellyel nem rendelkező külföldi személy magyarországi kézbesítési meghatalmazottja vagy kézbesítési megbízottja címére postai úton feladott hivatalos irat tekintetében
+50/A. § (1) Az MNB a hatósági döntését, egyéb hivatalos iratot – a (2)–(11) bekezdésben foglaltak, valamint a piacfelügyeleti eljárás kivételével – az 58. §-ban foglaltak szerint kézbesíti.
 
-a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadja vagy szándékosan megakadályozza vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a címzett ismeretlensége vagy a postai szolgáltatónak bejelentett elköltözése, elhalálozása (megszűnése) miatt meghiúsul, a kézbesítés megkísérlésének napján,
+(2) A hivatalos irat kézbesítése papíralapon egyetemes postai szolgáltatás útján vagy az MNB nevében eljáró munkavállaló által saját kézbesítés keretében is történhet
 
-b) ha az „nem kereste” kézbesíthetetlenségi ok jelzésével érkezik vissza a feladóhoz, az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon
+a) a pénzügyi közvetítőrendszer stabilitását és az ügyfelek érdekét veszélyeztető esetben,
 
-a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyújtott kifogásnak helyt ad.
+b) a fogyasztóvédelmi ellenőrzési eljárásban a Kormány által biztosított azonosítási szolgáltatást igénybe nem vevő természetes személy ügyfél részére történő kézbesítés esetén, vagy
 
-(2) Ha az MNB a hatósági döntését postai kézbesítés mellőzésével saját kézbesítés keretében kézbesíti, azt a személyes átadás megkísérlésének napján akkor is kézbesítettnek kell tekinteni, ha a nem természetes személy ügyfél cégjegyzékbe vagy a civil szervezetek bírósági nyilvántartásába bejegyzett székhelyén a hivatalos irat átvételére jogosult személy az átvételt megtagadja.
+c) ha ez egyéb okból indokolt.
 
-(3) Az MNB döntése közlését hirdetmény útján teljesítheti, ha
+(3) Ha a nem természetes személy ügyfélnek nincs meghatalmazottja, az MNB papíralapon történő kézbesítés esetén a hivatalos iratokat az ügyfélnek az adott nem természetes személyt nyilvántartó közhiteles nyilvántartásába bejegyzett székhelyére, illetve ha a cég székhelye nem azonos a központi ügyintézés helyével, a központi ügyintézés helyére kézbesíti. Ha a közhiteles nyilvántartásba bejegyzett székhelyre, illetve központi ügyintézés helyére történő kézbesítés sikertelen és ahhoz kézbesítési fikció sem fűzhető, az MNB a hivatalos iratokat a nem természetes személy ügyfél törvényes képviselőjének a vonatkozó közhiteles nyilvántartásba bejegyzett lakóhelyére, illetve székhelyére is kézbesítheti.
+
+(4) A papíralapon történő kézbesítés esetén az ügyfél vagy képviselője által az MNB-nek megadott értesítési címére, ennek hiányában a természetes személy ügyfél esetében a polgárok személyi, lakcím- és értesítésicím-adatait tartalmazó nyilvántartásba bejegyzett értesítési címére, illetve ennek hiányában lakcímére, nem természetes személy ügyfél esetén az adott nem természetes személyt nyilvántartó közhiteles nyilvántartásába bejegyzett székhelyére, illetve ha a cég székhelye nem azonos a központi ügyintézés helyével, akkor a központi ügyintézés helyére, valamint a Magyarországon lakcímmel vagy székhellyel nem rendelkező külföldi személy magyarországi kézbesítési meghatalmazottja vagy kézbesítési megbízottja bejelentett címére (a továbbiakban együtt: kézbesítési cím) egyetemes postai szolgáltatás útján papíralapon feladott hivatalos iratot,
+
+a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadja, szándékosan megakadályozza vagy utólag egyértelműen megállapítható, hogy a kézbesítés azért hiúsult meg, mert a kézbesítési címen nem található, a cím nem azonosítható, vagy a kézbesítés akadályozott, a kézbesítés megkísérlésének napján,
+
+b) ha az „nem kereste” jelzéssel érkezik vissza a feladóhoz, a kézbesítés második megkísérlésének napját követő ötödik munkanapon
+
+kézbesítettnek kell tekinteni. Ha a kifogásnak az MNB helyt ad, az igazolási kérelemre vonatkozó szabályokat kell alkalmazni.
+
+(5) Ha az MNB a hatósági döntését, egyéb hivatalos iratot papíralapon saját kézbesítés keretében kézbesíti, a (4) bekezdés a) pontjában foglaltak megfelelően alkalmazandók.
+
+(6) Az MNB döntése közlését hirdetmény útján teljesítheti, ha
 
 a) az ügyfél ismeretlen helyen tartózkodik,
 
@@ -20,9 +32,9 @@ d) az ügyfelek száma meghaladja az ötvenet vagy
 
 e) azt jogszabály előírja.
 
-(3a) Az MNB a 600/2014/EU rendelet 42. cikke alapján hozott határozata közlését – amelyben pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését tiltja meg vagy korlátozza – hirdetmény útján kézbesíti. A határozat közlése időpontjának a közzététel időpontja minősül.
+(7) Az MNB a 600/2014/EU rendelet 42. cikke alapján hozott határozata közlését – amelyben pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését tiltja meg vagy korlátozza – hirdetmény útján kézbesíti. A határozat közlése időpontjának a közzététel időpontja minősül.
 
-(4) A hirdetmény tartalmazza
+(8) A hirdetmény tartalmazza
 
 a) a honlapon történő közzététel napját,
 
@@ -36,8 +48,8 @@ e) a döntés rendelkező részét, továbbá
 
 f) azt a figyelemfelhívást, hogy az ügyfél vagy képviselője a döntést a hatóságnál megtekintheti.
 
-(5) A hirdetményt az MNB a honlapján helyezi el. A döntés a honlapon történt megjelentetés napját követő tizedik napon közöltnek tekintendő.
+(9) A hirdetményt az MNB a honlapján helyezi el. A döntés – a (7) bekezdésben foglaltak kivételével – a honlapon történt megjelentetés napját követő tizedik napon közöltnek tekintendő.
 
-(5a) A (3a) bekezdés szerinti határozat azonnal végrehajtandó.
+(10) A (7) bekezdés szerinti határozat azonnal végrehajtandó.
 
-(6) Egyebekben az Ákr. kézbesítésre vonatkozó szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(11) Az Ákr. kézbesítésre vonatkozó szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.

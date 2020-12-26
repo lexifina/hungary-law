@@ -16,7 +16,7 @@ e) az Európai Rendszerkockázati Testület anticiklikus tőkepufferráta meghat
 
 (3) Az MNB az irányadó pufferráta meghatározásának alapjául szolgáló módszertant közleményben teszi közzé.
 
-(4) Az MNB elnöke az (1) bekezdés szerinti rendeletében az irányadó pufferráta, a (2) bekezdés e) pontja szerinti iránymutatás, és a pénzügyi közvetítőrendszer stabilitásához kapcsolódó bármely egyéb tényező figyelembevételével meghatározza és honlapján közzéteszi a Magyarországon lévő féllel szembeni kitettségekre vonatkozóan az anticiklikus tőkepufferráta mértékét. Az MNB az anticiklikus tőkepufferráta mértékét negyedévente felülvizsgálja, és a felülvizsgálat eredményét honlapján közzéteszi előre megjelölt időpontokban.
+(4) Az MNB elnöke az (1) bekezdés szerinti rendeletében az irányadó pufferráta, a (2) bekezdés e) pontja szerinti iránymutatás, és a pénzügyi közvetítőrendszer stabilitásához kapcsolódó bármely egyéb tényező figyelembevételével meghatározza és honlapján közzéteszi a Magyarországon lévő féllel szembeni kitettségekre vonatkozóan az anticiklikus tőkepufferráta mértékét. Az MNB a ciklikus rendszerszintű kockázatok intenzitását és az anticiklikus tőkepufferráta mértékét negyedévente felülvizsgálja és szükség esetén módosítja, és a felülvizsgálat eredményét honlapján közzéteszi előre megjelölt időpontokban.
 
 (5) Ha az anticiklikus tőkepufferráta először kerül meghatározásra, és 0% feletti, vagy ha emelkedik, az MNB elnökének rendeletét annak alkalmazási kezdő időpontja előtt 12 hónappal kell kihirdetni. Ha ettől eltérően az MNB az anticiklikus tőkepuffer képzésére ennél rövidebb felkészülési időszakot határoz meg, akkor ennek részletes indokait honlapján közleményben teszi közzé.
 

@@ -30,6 +30,8 @@ d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tár
 
 (3) Az MNB a pénzügyi csoportnál, az összes csoporttag vonatkozásában együttesen is jogosult átfogó vizsgálatot végezni. A pénzügyi csoport vizsgálata kiterjed az összevont alapú felügyeletre vonatkozó jogszabályi előírások betartásának ellenőrzésére és magában foglalhatja az összes csoporttagra vonatkozó törvényi előírások betartásának egyedi alapú vizsgálatát is (a továbbiakban: csoportvizsgálat).
 
+(3a) Az MNB nem köteles átfogó vizsgálatot lefolytatni a felügyelt szervezet, illetve személy tevékenységének abban a körében, amelyre nézve a megelőző átfogó vizsgálat lezárását követően lezárt cél-, rendkívüli cél-, téma-, csoport-, illetve utóvizsgálat, vagy intézkedések alkalmazását eredményező folyamatos felügyeleti tevékenység is kiterjedt.
+
 (4) Az MNB célvizsgálatot a 62. § (1) bekezdésben meghatározott jogszabályi rendelkezések betartásának az eseti jellegű ellenőrzése céljából végezhet. A célvizsgálat jogszabályi rendelkezés megsértésének gyanúja esetén, továbbá egyes jogszabályi rendelkezések betartásának – nem átfogó – ellenőrzése céljából is folytatható.
 
 (5) Az MNB hivatalból témavizsgálatot több személynél és szervezetnél végezhet a 62. § (1) bekezdésben meghatározott az azonos vagy hasonló jellegű jogszabályi rendelkezések betartásának összehangolt és összehasonlító ellenőrzése céljából.
@@ -42,4 +44,4 @@ b) jelentős rendszerkockázattal jár vagy
 
 c) az adott piacba vetett bizalmat általánosan veszélyezteti.
 
-(7) Az MNB a határozatainak teljesülését utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.
+(7) Az MNB a határozatainak teljesülését átfogó vizsgálatban vagy utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.

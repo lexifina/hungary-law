@@ -8,10 +8,10 @@ b) egyéb rendszerszinten jelentős hitelintézetek és befektetési vállalkoz�
 
 és folyamatosan figyelemmel kíséri azok működését.
 
-(2) Ha az MNB a Hpt. 90. § és a Bszt. 110/E. § alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre és befektetési vállalkozásokra vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal tájékoztatnia kell az érintett tagállamok illetékes és kijelölt hatóságait a következőkről:
+(2) Ha az MNB a Hpt. 90. §-a alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal tájékoztatnia kell az Európai Rendszerkockázati Testületet
 
-a) indoklás arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek és befektetési vállalkozások rendszerszintű kockázatát,
+a) arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek rendszerszintű kockázatát,
 
-b) a tőkepuffer belső piacra gyakorolt várható hatása,
+b) a tőkepuffer belső piacra gyakorolt várható hatásáról, és
 
-c) az egyéb rendszerszinten jelentős hitelintézetekre és befektetési vállalkozásokra vonatkozó tőkepufferráta mértéke.
+c) az egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepufferráta mértékéről.

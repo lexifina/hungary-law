@@ -1,4 +1,4 @@
-86/A. § (1) Az MNB a hivatalból indított fogyasztóvédelmi ellenőrzési eljárás során tett megállapításait célvizsgálat esetében az ellenőrzési eljárás megindítását követő kilenc hónapon belül, témavizsgálat esetében egy éven belül vizsgálati jelentésben rögzíti, és azt az ellenőrzött személlyel vagy szervezettel közli.
+86/A. § (1) Az MNB a hivatalból indított fogyasztóvédelmi ellenőrzési eljárás során tett megállapításait célvizsgálat esetében az ellenőrzési eljárás megindítását követő kilenc hónapon belül, témavizsgálat esetében egy éven belül, utóvizsgálat esetében négy hónapon belül vizsgálati jelentésben rögzíti, és azt az ellenőrzött személlyel vagy szervezettel közli.
 
 (1a) Ha a célvizsgálat vagy a témavizsgálat során jogszabálysértés nem került megállapításra, a vizsgálati jelentés elkészítését az MNB mellőzheti. Ebben az esetben az MNB az eljárását végzéssel zárja le, amelyet közöl az érintett szervezettel.
 

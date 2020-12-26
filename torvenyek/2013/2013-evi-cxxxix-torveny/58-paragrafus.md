@@ -10,7 +10,7 @@
 
 (5) Az iratot a kézbesítési tárhelyen történt elhelyezését követő munkanapon kézbesítettnek kell tekinteni.
 
-(6) A pénzügyi közvetítőrendszer stabilitását és az ügyfelek érdekeit veszélyeztető esetben az irat kézbesítése papíralapon, az MNB nevében eljáró munkavállaló által vagy postai szolgáltató útján is történhet.
+(6) Ha a pénzforgalmi szolgáltatónak kézbesített irat az MNB-nek olyan átutalási szolgáltatást érintő döntése, amely átutalás teljesítéséből a pénzforgalmi szolgáltatóra háruló feladatok teljesítésére – törvény vagy az MNB elnökének a pénzforgalom lebonyolításáról szóló rendelete eltérő rendelkezése hiányában – folyamatosan, minden napon 0 órától 24 óráig tartó munkanapot tart, akkor az iratot – az (5) bekezdéstől eltérően – a kézbesítési tárhelyen történt elhelyezését követő negyedik óra elteltével kell kézbesítettnek tekinteni.
 
 (7) Az elektronikus kézbesítés megtörténtéről és a kézbesítési vélelem beállásáról az MNB automatikusan létrehozott elektronikus visszaigazolásban (elektronikus tértivevény) értesül.
 

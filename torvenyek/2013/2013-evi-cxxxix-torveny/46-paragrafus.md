@@ -6,7 +6,7 @@ b) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősít�
 
 c) az a) és b) pontban nem említett eljárásokban a 39. § (1) bekezdésében meghatározott törvények szerinti ügyfajtára irányadó különös eljárási szabályokban
 
-nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) (2) bekezdésben meghatározott rendelkezéseit megfelelően alkalmazni kell.
+nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) (2) bekezdésben meghatározott rendelkezéseit és e rendelkezésekhez kapcsolódó, az Ákr. 139. és 140. §-ában kapott felhatalmazás alapján kiadott rendeleteket megfelelően alkalmazni kell.
 
 (2) Az (1) bekezdésben foglaltakra figyelemmel az Ákr.-nek
 
