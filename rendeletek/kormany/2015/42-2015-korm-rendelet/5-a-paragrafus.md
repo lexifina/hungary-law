@@ -12,13 +12,13 @@ d) tagjai (részvényesei) és munkavállalói közül legalább öten rendelkez
 
 e) a tanúsító szervezet minimum 100 000 000 forintos határig kiterjedő szakmai felelősségbiztosítással rendelkezik;
 
-f) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó, az elmúlt 5 évben legalább 4 évnyi akkreditált státuszt igazoló okirattal;
+f)[^4] a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló – a tanúsító szervezet esetén tanúsításra, a vizsgáló laboratórium esetén vizsgálatra vonatkozó –, az elmúlt 5 évben legalább 4 évnyi akkreditált státuszt igazoló okirattal, amely a laboratórium esetén a tevékenység folytatására kiadott engedélyt jelent;
 
 g) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett – bármilyen ágazatból származó – legalább 3 referenciával;
 
 h) teljesíti a (12) bekezdésben foglalt feltételeket.
 
-(1a)[^4] A tanúsítási eljárást a tanúsító szervezet és a vizsgáló laboratórium akkor végezheti, ha
+(1a)[^5] A tanúsítási eljárást a tanúsító szervezet és a vizsgáló laboratórium akkor végezheti, ha
 
 a) a tanúsító szervezet rendelkezik
 
@@ -58,11 +58,11 @@ cd) a szabályozások és eljárások garantálják a rendszer biztonsági szint
 
 (5) Amennyiben a tanúsító szervezet a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, a hiba vagy hiányosság pontos meghatározását tartalmazó jegyzőkönyvet ad át a vizsgált intézmény részére, melynek kijavítására megfelelő határidőt biztosít. A vizsgált intézmény a jegyzőkönyvben foglaltak szerint készített tevékenységi terve alapján a hiba kijavítását vagy a hiányosság pótlását a tanúsító szervezet által megjelölt határidőn belül elvégzi. A tanúsító szervezet a hiba kijavítását vagy a hiányosság pótlását a megadott határidő leteltét követően ellenőrzi és ennek eredményétől függően dönt annak elfogadásáról vagy a tevékenységi terv elvégzéséhez szükséges határidő meghosszabbításáról.
 
-(5a)[^5] A tanúsító szervezet a tanúsítási eljárás befejezését követően tájékoztatja az MNB-t a tanúsítási eljárás eredményéről. Amennyiben az átadott dokumentáció alapján az MNB a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, az intézménnyel szemben intézkedést alkalmazhat.
+(5a)[^6] A tanúsító szervezet a tanúsítási eljárás befejezését követően tájékoztatja az MNB-t a tanúsítási eljárás eredményéről. Amennyiben az átadott dokumentáció alapján az MNB a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, az intézménnyel szemben intézkedést alkalmazhat.
 
-(5b)[^6] Amennyiben a tanúsító szervezet az általánosan elfogadott szakmai standardok alapján és az eljárás során feltárt hibák – (5) bekezdésben meghatározottak szerinti – kijavítása ellenére nem látja lehetségesnek a tanúsítvány kiadását, akkor erről a teljes dokumentáció megküldésével egyidejűleg értesíti az MNB-t, aki ezt követően dönt a szükséges intézkedések megtételéről.
+(5b)[^7] Amennyiben a tanúsító szervezet az általánosan elfogadott szakmai standardok alapján és az eljárás során feltárt hibák – (5) bekezdésben meghatározottak szerinti – kijavítása ellenére nem látja lehetségesnek a tanúsítvány kiadását, akkor erről a teljes dokumentáció megküldésével egyidejűleg értesíti az MNB-t, aki ezt követően dönt a szükséges intézkedések megtételéről.
 
-(6)[^7] A tanúsító szervezet a tanúsítvány kiadásával egyidejűleg átadja a vizsgált intézmény részére a tanúsítás alátámasztásához szükséges dokumentációt. A tanúsító szervezet a tanúsítási eljárás lefolytatásáért és a tanúsítvány kiadásáért együttesen legfeljebb az alábbi összegű díjazást kérhet az intézménytől:
+(6)[^8] A tanúsító szervezet a tanúsítvány kiadásával egyidejűleg átadja a vizsgált intézmény részére a tanúsítás alátámasztásához szükséges dokumentációt. A tanúsító szervezet a tanúsítási eljárás lefolytatásáért és a tanúsítvány kiadásáért együttesen legfeljebb az alábbi összegű díjazást kérhet az intézménytől:
 
 a) 10 milliárd forintot el nem érő mérlegfőösszeg esetén legfeljebb nettó 5 millió forint;
 
@@ -80,28 +80,30 @@ c) 1000 milliárd forintot meghaladó mérlegfőösszeg esetén legfeljebb nett�
 
 (11) A tanúsító szervezet a tanúsítási tevékenységének ellátása körében okozott kár megtérítéséért a Polgári Törvénykönyvről szóló törvény kártérítési felelősségre vonatkozó általános szabályai szerinti felelősséggel tartozik.
 
-(12) A vizsgált intézmények bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal. A tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell a kormányzati eseménykezelő központ és az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének, a biztonsági események műszaki vizsgálatának és a sérülékenységvizsgálat lefolytatásának szabályairól szóló 185/2015. (VII. 13.) Korm. rendelet 14. § (5) bekezdése szerinti nyilvántartásban.
+(12)[^9] A vizsgált intézmények bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephelybiztonsági tanúsítvánnyal. A tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének és műszaki vizsgálatának, továbbá a sérülékenységvizsgálat lefolytatásának szabályairól szóló 271/2018. (XII. 20.) Korm. rendelet 22. § (5) bekezdése szerinti nyilvántartásban.
 
-(13)[^8] A tanúsítási eljárás során az eljárás lefolytatását végző személyeknek rendelkezniük kell személyi biztonsági tanúsítvánnyal. A tanúsítási eljárás során az eljárás lefolytatását végző személy tudomására jutott adatok – így különösen a személyes adatok vagy üzleti titkot tartalmazó adatok – megismerése és felhasználása a tanúsítási eljárás lefolytatása és dokumentálása szabályainak betartásával tehető meg.
+(13)[^10] A tanúsítási eljárás során az eljárás lefolytatását végző személyeknek rendelkezniük kell személyi biztonsági tanúsítvánnyal. A tanúsítási eljárás során az eljárás lefolytatását végző személy tudomására jutott adatok – így különösen a személyes adatok vagy üzleti titkot tartalmazó adatok – megismerése és felhasználása a tanúsítási eljárás lefolytatása és dokumentálása szabályainak betartásával tehető meg.
 
-(14)[^9] A tanúsító szervezet és a vizsgáló laboratórium csak az MNB felé benyújtott vizsgálati és tanúsítási módszertan, illetve módszertanok alapján végezheti a tanúsítási eljárásokat.
+(14)[^11] A tanúsító szervezet és a vizsgáló laboratórium csak az MNB felé benyújtott vizsgálati és tanúsítási módszertan, illetve módszertanok alapján végezheti a tanúsítási eljárásokat.
 
-(15)[^10] A tanúsító szervezetnek és a vizsgáló laboratóriumnak a tanúsítás lefolytatásához szükséges adatok törlésére vonatkozó jogszabályi előírások teljesítése érdekében olyan törlési eljárásrenddel és megoldásokkal kell rendelkeznie, amelyek biztosítják az adatok visszaállíthatatlan módon történő törlését a rendszereikből, a levelezésekből, archív mentésekből. A tanúsító szervezet és a vizsgáló laboratórium csak az MNB felé benyújtott törlési eljárásrend és megoldások esetében végezheti a tanúsítási eljárásokat.
+(15)[^12] A tanúsító szervezetnek és a vizsgáló laboratóriumnak a tanúsítás lefolytatásához szükséges adatok törlésére vonatkozó jogszabályi előírások teljesítése érdekében olyan törlési eljárásrenddel és megoldásokkal kell rendelkeznie, amelyek biztosítják az adatok visszaállíthatatlan módon történő törlését a rendszereikből, a levelezésekből, archív mentésekből. A tanúsító szervezet és a vizsgáló laboratórium csak az MNB felé benyújtott törlési eljárásrend és megoldások esetében végezheti a tanúsítási eljárásokat.
 
-(16)[^11] A tanúsító szervezet és a vizsgáló laboratórium az éles rendszerek sérülékenységvizsgálata során csak olyan rendszert használhat, amely garantálja, hogy az adatforgalom a vizsgálat lezárása után is teljeskörűen megismerhető, és bizonyítható legyen, hogy a vizsgálat során milyen éles rendszerekben milyen adatokhoz, szolgáltatásokhoz fért hozzá a vizsgálatot végző szervezet.
+(16)[^13] A tanúsító szervezet és a vizsgáló laboratórium az éles rendszerek sérülékenységvizsgálata során csak olyan rendszert használhat, amely garantálja, hogy az adatforgalom a vizsgálat lezárása után is teljeskörűen megismerhető, és bizonyítható legyen, hogy a vizsgálat során milyen éles rendszerekben milyen adatokhoz, szolgáltatásokhoz fért hozzá a vizsgálatot végző szervezet.
 
-(17)[^12] A tanúsító szervezet és a vizsgáló laboratórium csak olyan biztonságos kommunikációs eszközöket, szoftvereket és csatornákat használhat az érintett szervezetekkel az eljárás lefolytatása során, amelyek garantálják a vizsgálathoz felhasznált adatok bizalmasságát, sértetlenségét és hitelességét.
+(17)[^14] A tanúsító szervezet és a vizsgáló laboratórium csak olyan biztonságos kommunikációs eszközöket, szoftvereket és csatornákat használhat az érintett szervezetekkel az eljárás lefolytatása során, amelyek garantálják a vizsgálathoz felhasznált adatok bizalmasságát, sértetlenségét és hitelességét.
 
-(18)[^13] A tanúsító szervezet és a vizsgáló laboratórium csak olyan verifikált és validált, az akkreditációja során elfogadott szoftvermegoldásokat és -rendszereket használhat az eljárás során, amelyek biztosítják az értékelési döntések szakszerűségét.
+(18)[^15] A tanúsító szervezet és a vizsgáló laboratórium csak olyan verifikált és validált, az akkreditációja során elfogadott szoftvermegoldásokat és -rendszereket használhat az eljárás során, amelyek biztosítják az értékelési döntések szakszerűségét.
 
 [^3]: Az 5/A. §-t a 157/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
-[^4]: Az 5/A. § (1a) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^5]: Az 5/A. § (5a) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
-[^6]: Az 5/A. § (5b) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
-[^7]: Az 5/A. § (6) bekezdése a 460/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: Az 5/A. § (13) bekezdését a 460/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 5/A. § (14) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^10]: Az 5/A. § (15) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^11]: Az 5/A. § (16) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^12]: Az 5/A. § (17) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^13]: Az 5/A. § (18) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^4]: Az 5/A. § (1) bekezdés f) pontja az 586/2020. (XII. 15.) Korm. rendelet 5. §-ával megállaíptott szöveg.
+[^5]: Az 5/A. § (1a) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^6]: Az 5/A. § (5a) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 5/A. § (5b) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 5/A. § (6) bekezdése a 460/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 5/A. § (12) bekezdése az 586/2020. (XII. 15.) Korm. rendelet 6. §-ával megállaíptott szöveg.
+[^10]: Az 5/A. § (13) bekezdését a 460/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 5/A. § (14) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^12]: Az 5/A. § (15) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^13]: Az 5/A. § (16) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^14]: Az 5/A. § (17) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^15]: Az 5/A. § (18) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
