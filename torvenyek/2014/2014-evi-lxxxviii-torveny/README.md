@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-88-00-00
 | 2019-01-13 | 2018. évi CXXVI. törvény | 2014-88-00-00.23 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2014-88-00-00.24 |
 | 2020-01-18 | 2019. évi CXVIII. törvény | 2014-88-00-00.25 |
+| 2020-12-26 | 2010. évi CXXX. törvény | 2014-88-00-00.26 |

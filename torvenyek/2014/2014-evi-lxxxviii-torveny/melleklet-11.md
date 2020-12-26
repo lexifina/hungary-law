@@ -41,31 +41,3 @@
 ## (It) «Kvietimas pateikti reikalavimą. Privalomieji terminai»
 
 ## (hu) «Felhívás követelés bejelentésére. Betartandó határidők»
-
-## (mt) «Stedina għal preżentazzjoni ta’ talba. Limiti taż-żmien li għandhom jiġu osservati»
-
-## (nl) «Oproep tot indiening van schuldvorderingen. In acht te nemen termijnen»
-
-## (pl) «Wezwanie do zgłoszenia wierzytelności. Przestrzegać terminów»
-
-## (pt) «Aviso de reclamação de créditos. Prazos legais a observar»
-
-## (ro) «Invitaţie de a prezenta o creanţă; termene ce trebuie respectate»
-
-## (sk) «Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny»
-
-## (sl) «Poziv k prijavi terjatve. Roki, ki jih je treba upoštevati!»
-
-## (fi) «Kehotus saatavan ilmoittamiseen. Noudatettavat määräajat»
-
-## (sv) «Anmodan att anmäla fordran. Tidsfrister att iaktta»
-
-## C) Rész
-
-## Reorganisation measures Reorganizációs intézkedések
-
-## Decision on a reorganisation measure in respect of (name of the insurance undertaking)
-
-## Határozat a/az (biztosító megnevezése) ellen indított reorganizációs intézkedésről
-
-## Publication made in accordance with Article 271 of Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II).
