@@ -1,0 +1,5 @@
+## 6. § A 42/2015. (III. 12.) Korm. rendelet 5/A. § (12) bekezdése helyébe a következő rendelkezés lép:
+
+## „(12) A vizsgált intézmények bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephelybiztonsági tanúsítvánnyal. A tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének és műszaki vizsgálatának, továbbá a sérülékenységvizsgálat lefolytatásának szabályairól szóló 271/2018. (XII. 20.) Korm. rendelet 22. § (5) bekezdése szerinti nyilvántartásban.”
+
+## 3. A biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló 43/2015. (III. 12.) Korm. rendelet módosítása

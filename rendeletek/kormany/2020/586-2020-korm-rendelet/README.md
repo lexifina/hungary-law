@@ -1,0 +1,9 @@
+# 586/2020. (XII. 15.) Korm. rendelet
+
+a pénzügyi közvetítőrendszert érintő egyes kormányrendeletek módosításáról és hatályon kívül helyezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-586-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-12-26 | 2020-586-20-22.1 | 586/2020. (XII. 15.) Korm. rendelet |
