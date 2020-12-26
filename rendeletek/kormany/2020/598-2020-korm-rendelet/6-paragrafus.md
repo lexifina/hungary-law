@@ -1,3 +1,3 @@
-## 5. § A Rendelet 70. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## „(3) Az uniós támogatás Európai Bizottságtól való igénylése és az Európai Unióval történő elszámolás benyújtása az IMIR 2014–2020 rendszerben vagy az INTERREG+ rendszerben teljeskörűen rögzített adatok alapján történhet.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
