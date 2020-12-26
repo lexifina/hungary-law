@@ -15,3 +15,5 @@ a) az adók, bírságok, illetékek megfizetésére irányuló befizetés vagy
 b) a belföldön kezdeményezett és belföldön teljesítendő áru- vagy szolgáltatásnyújtás igénybevételére irányuló, fizetési számlára történő befizetés
 
 jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető intézmény által meghatározott jelölés alkalmazására.
+
+(7) A Posta Elszámoló Központot működtető intézmény a Hpt. 172–176. §-a és a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 11–24. cikkének alkalmazásában pénzügyi vállalkozásnak minősül.
