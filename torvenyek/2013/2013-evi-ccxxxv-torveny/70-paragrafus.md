@@ -7,3 +7,5 @@
 (4) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
 
 (5) A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és az utalványkibocsátó a fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót jelöl ki, és a Felügyeletnek tizenöt napon belül a felelős személyét, és annak változását írásban bejelenti.
+
+(6) A panaszkezelés magyar nyelven történik, kivéve, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó és az ügyfél eltérő nyelvben állapodtak meg.

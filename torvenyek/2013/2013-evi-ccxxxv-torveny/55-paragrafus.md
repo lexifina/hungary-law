@@ -32,7 +32,7 @@ c) által alkalmazandó, a pénzmosás és a terrorizmus finanszírozása megel�
 
 (4) Az (1)–(3) bekezdésen kívül a 25. §-ban foglaltak is alkalmazandóak, ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény másik EGT-államban kíván pénzforgalmi szolgáltatási tevékenységéhez vagy elektronikuspénz-kibocsátási tevékenységéhez megbízási szerződés keretében pénzforgalmi közvetítőt igénybe venni.
 
-(4a) Ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény főirodája másik EGT-államban található és a pénzforgalmi szolgáltatási tevékenysége Magyarország területén történő végzéséhez pénzforgalmi közvetítőt kíván igénybe venni, akkor Magyarország területén központi kapcsolattartó pontot köteles kijelölni.
+(4a) Ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény főirodája másik EGT-államban található és a pénzforgalmi szolgáltatási tevékenysége Magyarország területén történő végzéséhez pénzforgalmi közvetítőt kíván igénybe venni, akkor Magyarország területén központi kapcsolattartó pontot köteles kijelölni, amennyiben megfelel az (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek a pénzforgalmi szolgáltatásokra vonatkozó központi kapcsolattartó pontok kijelölési kritériumait, illetve a központi kapcsolattartó pontok feladatait meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2019. március 14-i (EU) 2020/1423 bizottsági rendelet 1. cikkének.
 
 (4b) A Felügyelet a pénzforgalmi közvetítő nyilvántartásba vételéről a bejelentés hiánytalan kézhezvételét követő kettő hónapon belül dönt.
 

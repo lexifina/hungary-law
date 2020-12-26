@@ -36,7 +36,7 @@ l) a lakáscélú támogatások igénybevételének és felhasználásának jogs
 
 m) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
-n) a Magyar Könyvvizsgálói Kamara által a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával,
+n) a Magyar Könyvvizsgálói Kamara által a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó könyvvizsgálója vagy korábbi könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával, valamint az ügyvédi kamara által az ügyvéd által kezelt letétek kezelésére vonatkozó szabályok megtartásának hatósági ellenőrzése során, illetve az ügyvéd ellen indult előzetes vizsgálat, ügyvédi kamarai hatósági eljárás és fegyelmi eljárás keretében az ügyvédi kamarával,
 
 o) a feladatkörében eljáró kormányzati ellenőrzési szervvel, valamint
 
