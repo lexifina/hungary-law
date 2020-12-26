@@ -1,1 +1,0 @@
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 7. § (1) bekezdés 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
