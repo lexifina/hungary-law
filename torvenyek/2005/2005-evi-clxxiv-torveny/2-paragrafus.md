@@ -28,7 +28,7 @@ a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényb
 
 b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2012. évi XCVII. törvény hatálybalépését követően nyitott számla esetében a kincstár;
 
-8. belföldi szülő: a gyermeknek családi pótlékra jogosult szülője vagy családi pótlékra jogosult más törvényes képviselője,
+8. belföldi szülő: a gyermeknek családi pótlékra jogosult szülője vagy családi pótlékra jogosult más törvényes képviselője, vagy a nevelésbe vett gyermek törvényes képviseletét ellátó gyermekvédelmi gyám;
 
 8a. külföldi szülő: külföldi gyermek szülője vagy más törvényes képviselője;
 
