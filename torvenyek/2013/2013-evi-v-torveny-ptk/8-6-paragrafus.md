@@ -35,5 +35,3 @@ m) a társasági jog területén az egyszemélyes korlátolt felelősségű tár
 n)
 
 o) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanács irányelvnek;
-
-p)

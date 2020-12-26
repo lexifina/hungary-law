@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2020-03-01 | 2019. évi CXXVII. törvény | 2013-5-00-00.14 |
 | 2020-09-01 | 2020. évi LXV. törvény | 2013-5-00-00.15 |
 | 2020-09-03 | 2019. évi LXVII. törvény | 2013-5-00-00.16 |
+| 2020-12-26 | 2020. évi CX. törvény | 2013-5-00-00.17 |
