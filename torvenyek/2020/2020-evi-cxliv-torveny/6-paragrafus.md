@@ -1,0 +1,1 @@
+6. § A Beruházás a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) 11. §-a szerinti kiemelten közérdekű beruházásnak minősül.

@@ -1,0 +1,1 @@
+3. § A Beruházás megvalósítása, a Programsorozat megszervezése és lebonyolítása kiemelkedően fontos közérdek, amely érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendők, teljesítésükhöz kiemelkedően fontos közérdek fűződik.

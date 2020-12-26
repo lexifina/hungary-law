@@ -1,0 +1,7 @@
+2. § (1) Amennyiben e törvény felhatalmazása alapján kiadott jogszabály másként nem rendelkezik, a Beruházás építtetője és megvalósítója Veszprém Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat), illetve a Veszprém-Balaton 2023 Zártkörűen Működő Részvénytársaság (cégjegyzékszám: 19-10-500277); (a továbbiakban: Veszprém-Balaton 2023 Zrt.). A Programsorozat megszervezésével és lebonyolításával kapcsolatos egyes feladatok irányítója és lebonyolítója a Veszprém-Balaton 2023 Zrt.
+
+(2) A Veszprém-Balaton 2023 Zrt. jogosult a Programsorozat megszervezéséhez és lebonyolításához szükséges feladatok részletes meghatározására és azok végrehajtása érdekében szükséges beszerzési és egyéb tárgyú szerződések megkötésére. A Programsorozat lebonyolításával kapcsolatos feladat a pályázati konstrukciók kidolgozása és megvalósítása.
+
+(3) A Veszprémi Főegyházmegye tulajdonában lévő és a veszprémi vár területén található ingatlanokon megvalósuló felújítások és fejlesztések építtetője és megvalósítója, valamint az ingatlanok felújításával és fejlesztésével összefüggő feladatok irányítója és lebonyolítója a Veszprémi Főegyházmegye mint egyházi jogi személy.
+
+(4) A (3) bekezdés szerinti felújítások és fejlesztések megvalósításával érintett ingatlanok: Veszprém belterület 223, 224, 225, 226, 227, 228, 230, 231, 233, 234, 290, 291, 292, 293, 294, 295, 296, 297 helyrajzi számú ingatlanok, illetve ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanok.

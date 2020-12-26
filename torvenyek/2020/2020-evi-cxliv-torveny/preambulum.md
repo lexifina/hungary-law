@@ -1,0 +1,1 @@
+Az Országgyűlés a gazdaság és a turizmus élénkítése, a kulturális és szabadidős szolgáltatások színvonalának emelése céljából, továbbá az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat sikeres megrendezése és megszervezése érdekében a következő törvényt alkotja:
