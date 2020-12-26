@@ -1,0 +1,1 @@
+## 11. § A helyi településrendezési tervben előírt infrastruktúrafejlesztések elmaradása a Beruházással összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem lehet a feltétele.

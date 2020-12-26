@@ -1,0 +1,1 @@
+## 10. § A Beruházással összefüggésben az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet 6. melléklet IV. pont 1. alpontját azzal az eltéréssel kell alkalmazni, hogy az egyéb rendeltetésű épületeknél a minimálisan alkalmazandó megújulóenergia-részaránynak nem kell meghaladnia a 10 kWh/m2-évet.
