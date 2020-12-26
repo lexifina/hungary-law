@@ -2,7 +2,7 @@
 
 57. § (1) A szanálási feladatkörében eljáró MNB a hitelezői feltőkésítés keretében a szanálási célok érvényre juttatása érdekében és a szanálási feltételek fennálltakor a következő intézkedés alkalmazásáról és célok elérése érdekében hozhat határozatot:
 
-a) az intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás feltőkésítéséről, hogy a feltőkésítés által képes legyen újból megfelelni az engedélyezési feltételeknek, és folytatni tudja a pénzügyi, kiegészítő pénzügyi, befektetési és befektetési szolgáltatást kiegészítő szolgáltatását, valamint az intézménnyel szemben a piaci bizalom fenntartása megvalósítható legyen, vagy
+a) az intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezet feltőkésítéséről, hogy a feltőkésítés által képes legyen újból megfelelni az engedélyezési feltételeknek, és folytatni tudja a pénzügyi, kiegészítő pénzügyi, befektetési és befektetési szolgáltatást kiegészítő szolgáltatását, valamint az intézménnyel szemben a piaci bizalom fenntartása megvalósítható legyen, vagy
 
 b) az olyan hitelviszonyt megtestesítő értékpapírok vagy egyéb kötelezettségek értékének csökkentéséről vagy szavatoló tőkévé alakításáról, amelyek átruházásra kerültek
 

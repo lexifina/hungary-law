@@ -1,4 +1,4 @@
-87/B. § (1) Ha másik EGT-állam szanálási hatósága leírási vagy átalakítási hatáskörét gyakorolja – ideértve annak a 74. § szerinti, tőkeelemek kapcsán történő alkalmazását is – a szanálás alatt álló intézmény olyan kötelezettségei, illetve releváns tőkeelemei tekintetében, amelyek
+87/B. § (1) Ha másik EGT-állam szanálási hatósága gyakorolja leírási vagy átalakítási hatáskörét a hitelezői feltőkésítésbe bevonható kötelezettségek tekintetében – ideértve annak a 74. § szerinti, tőkeelemek kapcsán történő alkalmazását is – a szanálás alatt álló intézmény olyan kötelezettségei, illetve releváns tőkeelemei vonatkozásában, amelyek
 
 a) a magyar jog hatálya alá tartozó instrumentumok vagy kötelezettségek, illetve
 

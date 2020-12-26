@@ -2,7 +2,7 @@
 
 (2) A szanálási terv készítése során figyelmen kívül kell hagyni a bármilyen formában nyújtható rendkívüli állami pénzügyi támogatást és az MNB vagy más központi bank rendkívüli likviditási hitelét.
 
-(3) A szanálási terv felülvizsgálatára és módosítására akkor is sor kerül, ha az intézmény szervezetével, tevékenységével vagy pénzügyi helyzetével kapcsolatosan olyan változás történik, amely érdemben befolyásolhatja a szanálás eredményességét.
+(3) A szanálási terv felülvizsgálatára és módosítására akkor is sor kerül, ha az intézmény szervezetével, tevékenységével vagy pénzügyi helyzetével kapcsolatosan olyan változás történik, amely érdemben befolyásolhatja a szanálás eredményességét. E bekezdés szerinti felülvizsgálatot a szanálási feladatkörében eljáró MNB a szanálási intézkedések végrehajtását vagy a releváns tőkeinstrumentumok és leírható, illetve átalakítható kötelezettségek leírására vagy átalakítására vonatkozó hatáskör gyakorlását követően végzi.
 
 (4) Az egyedi és csoportszintű szanálási terv minimális tartalmi elemeit az 1. melléklet tartalmazza.
 

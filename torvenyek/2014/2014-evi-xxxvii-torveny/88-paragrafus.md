@@ -1,6 +1,6 @@
 ## 44. Egyes szerződéses feltételek kizárása a szanálás során
 
-88. § (1) A szanálási intézkedések alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése – önmagában még nem ismerhető el a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) értelmében vett jogérvényesítési vagy fizetésképtelenségi eljárásként, ha a szerződés szerinti érdemi kötelezettségeket, többek között a fizetési és szállítási kötelezettségeket, valamint a biztosíték rendelkezésre bocsátását továbbra is teljesítik.
+88. § (1) A szanálási intézkedések alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése – önmagában még nem ismerhető el a Tvt. értelmében vett jogérvényesítési vagy fizetésképtelenségi eljárásként, ha a szerződés szerinti érdemi kötelezettségeket, többek között a fizetési és szállítási kötelezettségeket, valamint a biztosíték rendelkezésre bocsátását továbbra is teljesítik.
 
 (2) A szanálási intézkedések alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése – nem teszi lehetővé:
 

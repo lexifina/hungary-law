@@ -8,7 +8,11 @@ c) a fedezett kötelezettségekre a fedezettség mértékéig, ideértve a fedez
 
 d) nem csoporton belüli intézménnyel szembeni, hét napnál rövidebb eredeti futamidejű kötelezettségre,
 
-e) legfeljebb hét nap hátralévő futamidejű kötelezettségre, amely a fizetési és elszámolási rendszerekkel vagy ezek résztvevőivel szemben áll fenn,
+e) legfeljebb hét nap hátralévő futamidejű kötelezettségre, amely
+
+ea) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) alkalmazásában kijelölt rendszerekkel vagy rendszer-üzemeltetőkkel vagy ezek résztvevőivel szemben áll fenn, és amely az ilyen rendszerekkel való részvételből keletkezik, vagy
+
+eb) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-i 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 14. cikke alapján EGT-államban engedélyezett központi szerződő felekkel, valamint az Európai Értékpapír-piaci Hatóság által a 648/2012/EU rendelet 25. cikkének megfelelően elismert harmadik országbeli központi szerződő felekkel szemben áll fenn,
 
 f) olyan kötelezettségre, amely
 
@@ -19,6 +23,8 @@ fb) kereskedelmi és nem fő tevékenységből (pénzügyi, kiegészítő pénz�
 fc) adó-, adójellegű kötelezettségek, járulékok és társadalombiztosítási hozzájárulások, ideértve az egészségbiztosítási járulékot, nyugdíjjárulékot, korkedvezmény-biztosítási járulékot, természetbeni egészségbiztosítási járulékot, pénzbeli egészségbiztosítási járulékot, munkaerő-piaci járulékot, szociális hozzájárulási adót, szakképzési hozzájárulást is,
 
 fd) OBA-val és Beva-val szemben fennálló, aktuális fizetési kötelezettség.
+
+g) olyan kötelezettségre, amely azonos szanálás alá vonható csoportba tartozó szanálás alá nem vonható intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezet felé áll fenn lejárati idejüktől függetlenül, kivéve azon kötelezettségekre, melyeket a Csődtv., illetve a Hpt. szerinti kielégítési sorrendben a rendes fedezetlen kötelezettségeket követően rendez, azzal, hogy ez utóbbi kivételi esetkörben az érintett szanálás alá nem vonható leányvállalat szanálási hatósága azt köteles megvizsgálni, hogy az előnyben részesített szanálási stratégia végrehajthatóságának támogatásához a 68/B. § (5) bekezdése szerinti összeg elegendő-e.
 
 (2) Az (1) bekezdés f) pont fa) alpontja szerinti mentesítés nem vonatkozik a Hpt. 117. § (2) bekezdésben, valamint a Bszt. 4. melléklet 2. pontjában említett személyek teljesítmény-javadalmazására.
 

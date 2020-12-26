@@ -1,7 +1,13 @@
-19. § (1) A magyarországi székhelyű pénzügyi holding társaság, vegyes pénzügyi holding társaság vagy vegyes tevékenységű holding társaság akkor vonható szanálás alá, ha a szanálási feltételek az említett holding társaság és annak egy vagy több leányvállalati intézményei vonatkozásában is teljesülnek. Harmadik országban székhellyel rendelkező leányvállalat esetében akkor indítható szanálási eljárás, ha a szanálási feltételek a harmadik ország joga szerint fennállnak.
+19. § (1) A magyarországi székhelyű pénzügyi holding társaság, vegyes pénzügyi holding társaság vagy vegyes tevékenységű holding társaság akkor vonható szanálás alá, ha a szanálási feltételek a holding társaság vonatkozásában teljesülnek.
 
-(2) Ha a vegyes tevékenységű holding társaság leányvállalata közvetlenül vagy közvetve pénzügyi holding társaság tulajdonában van, a csoportszintű szanálás céljából hozott szanálási intézkedések csak a pénzügyi holding társaságra irányulhatnak, a vegyes tevékenységű holding társaság vonatkozásában nem alkalmazhatóak.
+(2) Ha a vegyes tevékenységű holding társaság leányvállalata közvetlenül vagy közvetve pénzügyi holding társaság tulajdonában van, a szanálási tervben rögzíteni kell, hogy a közbenső pénzügyi holding társaságot szanálás alá vonható szervezetként kell azonosítani és a csoportszintű szanálás céljából hozott szanálási intézkedések csak a közbenső pénzügyi holding társaságra irányulhatnak, a vegyes tevékenységű holding társaság vonatkozásában nem alkalmazhatóak.
 
-(3) Az (1) bekezdésben foglaltaktól eltérően a szanálási feladatkörében eljáró MNB szanálási intézkedést hozhat az (1) bekezdésben említett holding társaságra akkor is, ha a szanálási feltételek kizárólag a leányvállalati intézmény tekintetében teljesülnek, és a holding társasággal szembeni szanálási intézkedések szükségesek a leányvállalati intézmény eredményes szanálásához.
+(3) Az (1) bekezdésben foglaltaktól eltérően a szanálási feladatkörében eljáró MNB szanálási intézkedést hozhat az (1) bekezdés szerinti holding társaságra akkor is, ha
 
-(4) Az (1) és (3) bekezdés alkalmazásában a szanálási feltételek teljesülésének megállapítása során, ha az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a másik érintett szanálási hatósággal megállapodhat arról, hogy figyelmen kívül hagyja a csoporton belüli pénzügyi támogatást, ideértve a leírási és átalakítási jogosultságok gyakorlását is.
+a) szanálás alá vonható szervezet,
+
+b) egy vagy több leányvállalati intézménye nem szanálás alá vonható szervezet, de megfelel a szanálási feltételeknek,
+
+c) a b) pont szerinti leányvállalat olyan eszközökkel és kötelezettségekkel rendelkezik, amelyek miatt a leányvállalatok fizetésképtelensége veszélyezteti a teljes szanálás alá vonható csoportot, és
+
+d) a pénzügyi holding társaság vonatkozásában szanálási intézkedésre van szükség leányvállalati intézményének vagy az érintett szanálás alá vonható csoport egészének a szanálásához.

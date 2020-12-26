@@ -14,19 +14,21 @@ c) a szanálás alatt álló intézmény által kibocsátott tagsági részesed�
 
 d) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei tekintetében a tőkeösszegnek vagy az esedékes összegnek a csökkentésére, ideértve a nullára csökkentést is;
 
-e) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei átalakítására annak az intézménynek, 1. § (1) bekezdés szerinti pénzügyi vállalkozásnak, szanálásban érintett anyaintézménynek vagy áthidaló intézménynek a tagsági részesedéseire, amelyhez az intézmény eszközeit, jogait és kötelezettségeit átruházták;
+e) a szanálás alatt álló intézmény hitelezői feltőkésítésbe bevonható kötelezettségei átalakítására annak az intézménynek, 1. § (1) bekezdés szerinti pénzügyi vállalkozásnak, szanálásban érintett anyaintézménynek vagy áthidaló intézménynek a tagsági részesedéseire, amelyhez az intézmény eszközeit, jogait és kötelezettségeit átruházták;
 
 f) a szanálás alatt álló intézmény által kibocsátott hitelviszonyt megtestesítő értékpapír névértékének – akár nullára – csökkentésére, valamint e hitelviszonyt megtestesítő értékpapírok bevonására, leírására;
 
 g) a szanálás alatt álló intézmény vagy a szanálásban érintett anyaintézmény számára előírni új tagsági részesedések, illetve egyéb tőkeelemek, többek között elsőbbségi részvények és feltételesen átalakítható instrumentumok kibocsátását;
 
-h) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei lejáratának, a fizetendő kamatösszegnek, vagy annak az időpontnak a módosítására, amelyen a kamatfizetés esedékessé válik, többek között a fizetés átmeneti felfüggesztésével is;
+h) a szanálás alatt álló intézmény általa kibocsátott hitelviszonyt megtestesítő értékpapírjai, hitelezői feltőkésítésbe bevonható kötelezettségei lejáratának, a fizetendő kamatösszegnek, vagy annak az időpontnak a módosítására, amelyen a kamatfizetés esedékessé válik, többek között a fizetés átmeneti felfüggesztésével is;
 
 i) pénzügyi szerződés vagy bármely más származtatott ügyletre vonatkozó szerződés lezárására vagy felmondására a 73. § szerinti rendelkezések alkalmazása céljából;
 
 j) a szanálás alatt álló intézmény vezetésének leváltására;
 
 k) a szanálás alatt álló intézmény meghatározott jogának, eszközének és kötelezettségének más szervezethez történő átruházására a más szervezet beleegyezésével.
+
+l) a szanálás alá vonást megelőzően az intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezet által kötött szerződésekből eredő kifizetéseket vagy kötelezettségteljesítéseket – a Felügyelettel való egyeztetést követően – felfüggeszteni.
 
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdésben meghatározott szanálási jogosultságokat külön-külön vagy együttesen is alkalmazhatja.
 

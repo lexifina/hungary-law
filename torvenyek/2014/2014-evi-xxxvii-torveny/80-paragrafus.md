@@ -1,14 +1,18 @@
 ## 38. Összevont alapon való alkalmazás, megállapítási eljárás
 
-80. § (1) A szavatoló tőke követelmények egyéni és összevont alapon történő teljesítéseként elismert kiegészítő alapvető és járulékos tőkeelemeket kibocsátó leányvállalatra vonatkozó, a 74. § (3) bekezdés a)–c) pontja szerinti megállapítás megtétele előtt a szanálási feladatkörében eljáró MNB-nek haladéktalanul értesítenie kell
+80. § (1) A 68/B. §-ban meghatározott követelmény egyedi alapon történő teljesítése céljából releváns tőkeelemeket vagy a 74. § (2c) bekezdése szerinti leírható, illetve átalakítható kötelezettségeket kibocsátó, vagy a szavatoló tőke követelmények egyedi vagy összevont alapon történő teljesítése céljából elismerhető releváns tőkeelemeket kibocsátó leányvállalatra vonatkozó, a 74. § (3) bekezdés a)–c) vagy e) pontja szerinti megállapítás megtétele előtt a szanálási feladatkörében eljáró MNB
 
-a) az összevont felügyeletet ellátó hatóságot és – ha az eltérő – az összevont alapú felügyeletet ellátó hatóság székhelye szerinti EGT-állam 74. § (3) bekezdése szerinti megállapítások megtételére jogosult hatóságát, ha a 74. § (3) bekezdése szerinti megállapítás megtételét mérlegeli,
+a) a 74. § (3) bekezdés a)–c) vagy e) pontja szerinti megállapítás megtétele mérlegelésekor az érintett szanálás alá vonható szervezet szanálási hatóságával történt konzultációt követő 24 órán belül értesíti
 
-b) minden olyan intézmény, 1. § (1) bekezdése szerinti pénzügyi vállalkozás felügyeleti hatóságát, valamint a felügyeleti hatóságok vagy az összevont felügyeletet ellátó hatóság székhelye szerinti EGT-állam 74. § (3) bekezdése szerinti megállapítások megtételére jogosult hatóságát, amely intézmény, 1. § (1) bekezdése szerinti pénzügyi vállalkozás által kibocsátott kiegészítő alapvető és járulékos tőkeelem tekintetében a 74. § (3) bekezdés c) pontja szerinti megállapítás megtételét mérlegeli.
+aa) az összevont felügyeletet ellátó hatóságot és – ha az eltérő – az összevont alapú felügyeletet ellátó hatóság székhelye szerinti EGT-állam 74. § (3) bekezdése szerinti megállapítások megtételére jogosult hatóságot,
+
+ab) az ugyanazon szanálás alá vonható csoportba tartozó olyan egyéb szervezet szanálási hatóságát, amely szervezet közvetlenül vagy közvetve a 68/B. § (5) bekezdés szerinti kötelezettséget vásárolt a 68/B. § (1)–(4) bekezdés hatálya alá tartozó szervezettől,
+
+b) a 74. § (3) bekezdés c) pontja szerinti megállapítás megtétele mérlegelésekor haladéktalanul értesíti azon releváns tőkeelemeket kibocsátó intézmény, 1. § (1) bekezdés b) és c) pontja szerinti szervezet felügyeleti hatóságát, amely tőkeelemek tekintetében leírási vagy átalakítási hatáskört kell gyakorolni, amennyiben a megállapítás megtételére kerül sor, valamint – amennyiben az egy másik hatóság – azon EGT-állam szanálási hatóságát, amelyben a felügyeleti hatóság és az összevont felügyeletet ellátó hatóság van.
 
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdés szerinti értesítésben a megállapítását indokolja.
 
-(3) Ha az (1) bekezdés szerinti értesítésre került sor, a szanálási feladatkörében eljáró MNB-nek az illetékes felügyeleti hatósággal folytatott konzultációt követően értékelnie kell, hogy
+(3) Ha az (1) bekezdés szerinti értesítésre került sor, a szanálási feladatkörében eljáró MNB-nek az (1) bekezdés a) pont aa) alpontjával vagy b) pontjával összhangban az illetékes felügyeleti hatósággal folytatott konzultációt követően értékelnie kell, hogy
 
 a) rendelkezésre áll-e a leírási vagy átalakítási jogosultságnak a 74. § szerinti gyakorlásától eltérő, alternatív intézkedése;
 

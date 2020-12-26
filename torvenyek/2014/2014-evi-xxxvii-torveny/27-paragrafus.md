@@ -8,7 +8,7 @@ b) csoportszintű szanálhatóság értékelése,
 
 c) csoportszintű szanálhatóság akadályainak elhárítása,
 
-d) hitelezői feltőkésítés minimumkövetelményei,
+d) szavatoló tőke és a leírható, illetve átalakítható kötelezettség minimumkövetelményei,
 
 e) leányvállalat szanálása,
 
@@ -34,7 +34,7 @@ e) koordinálja a csoportszintű szanálási stratégiáról, intézkedésekről
 
 f) összehangolja a finanszírozási rendszerek alkalmazását,
 
-g) megállapítja az összevont alapú és a leányvállalati szinten a 65–68. § szerinti minimumkövetelményeket, valamint
+g) megállapítja az összevont alapú és a leányvállalati szinten a szavatoló tőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelményeket, valamint
 
 h) megvitatja a határon átnyúló csoport szanálásával összefüggésben felmerült kérdéseket
 

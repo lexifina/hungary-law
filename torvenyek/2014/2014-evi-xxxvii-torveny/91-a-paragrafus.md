@@ -1,0 +1,5 @@
+91/A. § (1) Az intézmény és az 1. § (1) bekezdés b) és c) pontja szerinti szervezet által harmadik országbeli hitelintézettel, befektetési vállalkozással, pénzügyi vállalkozással (a továbbiakban: harmadik országbeli leányvállalattal) harmadik ország joga alapján e törvény hatálybalépését követően új kötelezettséget keletkeztető vagy meglévő kötelezettséget érdemben módosító pénzügyi szerződéseknek biztosítaniuk kell a szanálási feladatkörében eljáró MNB részére a szanálási jogkörének gyakorlására vonatkozó a 89. §, a 90. §, a 91. § és a 114. § szerinti jogosultságot és annak gyakorlásához szükséges felhatalmazást.
+
+(2) Pénzügyi szerződésnek minősül minden olyan szerződés, amely egy vagy több olyan felmondási vagy hitelbiztosíték-érvényesítési jog gyakorlását írja elő, amely vonatkozásában a 89. §, a 90. §, a 91. § és a 114. § alkalmazásának van helye.
+
+(3) Az (1) bekezdésben foglalt kötelezettség nem teljesítése nem akadályozza a szanálási feladatkörében eljáró MNB-t, hogy az adott pénzügyi szerződés vonatkozásában alkalmazza a 89. §-ban, a 90. §-ban, a 91. §-ban és a 114. §-ban biztosított szanálási jogosultságait.

@@ -1,0 +1,1 @@
+104/A. § A szanálási feladatkörében eljáró MNB 104. § (2) bekezdése szerinti eljárása során az e törvényben nem szabályozott kérdésekben az MNB tv. hatósági eljárások közös szabályaira vonatkozó fejezet rendelkezéseit megfelelően alkalmazni kell.

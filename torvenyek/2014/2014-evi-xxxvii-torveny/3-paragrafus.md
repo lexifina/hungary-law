@@ -4,9 +4,13 @@
 
 3. § E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában
 
-1. anyavállalat: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
+1. aggregált összeg: azon összeg, amellyel a hitelezői feltőkésítés alkalmazásakor a szanálási hatóság értékelése alapján le kell írni vagy át kell alakítani a hitelezői feltőkésítésbe bevonható kötelezettségeket;
 
-1a. állami támogatások uniós keretrendszere: az Európai Unió működéséről szóló szerződés 107–109. cikkei által és az Európai Unió működéséről szóló szerződés 108. cikk (4) bekezdése vagy 109. cikke alapján megalkotott vagy elfogadott rendeletek és valamennyi uniós aktus – többek között iránymutatások, közlemények és értesítések – által létrehozott keretrendszer;
+1a. alárendelt leírható instrumentumok: olyan instrumentumok, amelyek megfelelnek az 575/2013/EU rendelet 72a. cikkében – a 72b. cikk (3)–(5) bekezdése kivételével – meghatározott minden feltételnek;
+
+1b. anyavállalat: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
+
+1c. állami támogatások uniós keretrendszere: az Európai Unió működéséről szóló szerződés 107–109. cikkei által és az Európai Unió működéséről szóló szerződés 108. cikk (4) bekezdése vagy 109. cikke alapján megalkotott vagy elfogadott rendeletek és valamennyi uniós aktus – többek között iránymutatások, közlemények és értesítések – által létrehozott keretrendszer;
 
 2. átruházási jogosultság: a szanálás alatt álló intézményben lévő tagsági részesedés, hitelviszonyt megtestesítő instrumentum, eszköz, forrás, jogosultság és kötelezettség, illetve ezek valamilyen kombinációjának egy átvevőhöz történő átruházására vonatkozó jogosultság;
 
@@ -38,7 +42,7 @@
 
 16. ellenőrző befolyás: a Hpt. 6. § (1) bekezdés 18. pontjában meghatározott fogalom;
 
-17. elsődleges alapvető tőke: az Európai Parlamentnek és a Tanácsnak a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
+17. elsődleges alapvető tőke: az Európai Parlamentnek és a Tanácsnak a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
 
 17a. érintett anyaintézmény: olyan tagállami anyaintézmény, EU-szintű anyaintézmény, pénzügyi holding társaság, vegyes pénzügyi holding társaság, vegyes tevékenységű holding társaság, tagállami pénzügyi holding társaság anyavállalatok, EU-szintű pénzügyi holding társaság anyavállalatok, tagállami vegyes pénzügyi holding társaság anyavállalatok vagy EU-szintű vegyes pénzügyi holding társaság anyavállalatok, amelynek tekintetében a hitelezői feltőkésítés alkalmazására kerül sor;
 
@@ -70,11 +74,15 @@
 
 30. fő üzletágak: azok az üzletágak és a hozzájuk kapcsolódó tevékenységek, szolgáltatások, amelyek az intézmény fő bevételi vagy nyereségforrását és értékét jelentik;
 
+30a. globálisan rendszerszinten jelentős intézmény: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
 31. harmadik ország: az az ország, amely nem EGT-állam;
 
 32. harmadik országbeli szanálási eljárás: egy harmadik országbeli intézmény fizetésképtelenségének kezelésére szolgáló, harmadik ország joga szerinti intézkedés, amely a célok és a várható eredmények szempontjából hasonló az e törvény szerinti szanálási intézkedésekhez;
 
 33. határon átnyúló csoport: olyan csoport, amelyben több EGT-államban székhellyel rendelkező vállalkozás van;
+
+33a. hitelezői feltőkésítésbe bevonható kötelezettségek: az intézmény és az 1. § (1) bekezdés b) és c) pontja szerinti szervezet azon elsődleges alapvető tőkeelemnek, kiegészítő alapvető tőkeelemnek, járulékos tőkeelemnek nem minősülő kötelezettségei, amelyek nincsenek kizárva az 58. § (1) bekezdése szerint a hitelezői feltőkésítés köréből;
 
 34. hitelintézet: a Hpt. 8. § (1) bekezdésében meghatározott szervezet;
 
@@ -90,13 +98,21 @@
 
 39. jelentős fióktelep: a Hpt. vagy a Bszt. alapján rendszerszinten jelentős fióktelepnek minősülő szervezet;
 
+39a. jelentős leányvállalat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
 40. kiegészítő alapvető tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
+40a. kombinált pufferkövetelmény: a Hpt. 93. § (1) bekezdésében meghatározott kombinált tőkekövetelmény;
 
 41. kockázat átruházási ügylet: csoporton belüli két vállalkozás között létrejött olyan megállapodás, amelynek célja a csoporton belüli egyik vállalkozás és egy harmadik fél között létrejött ügylettel járó kockázat teljes vagy részben történő átruházása;
 
+41a. központi szervhez tartósan kapcsolt hitelintézet: az 575/2013/EU rendelet 10. cikke alapján mentesített hitelintézet;
+
 42. kritikus funkciók: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése és csak korlátozott helyettesíthetősége az intézmény vagy csoport méretéből vagy piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből, vagy határokon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően jelentősen megzavarná a gazdaság vagy a pénzügyi piacok működését;
 
-43. leányvállalat: a Hpt. 6. § (1) bekezdés 78. pontjában meghatározott fogalom;
+43. leányvállalat: a Hpt. 6. § (1) bekezdés 78. pontjában meghatározott leányvállalat, valamint a 7–9. §-ban, a 13–15. §-ban, a 32–32/A. §-ban, a 62. §-ban, a 65–68/F. §-ban, a 74. §-ban, a 79. §-ban a szanálás alá vonható csoportokra való alkalmazás céljából adott esetben és megfelelő módon a tartósan központi szervhez kapcsolt hitelintézet, maga a központi szerv és azok leányvállalatai, figyelembe véve, hogy az ilyen szanálás alá vonható csoport miként teljesíti a 68/A. § (3) bekezdés szerinti követelményt;
+
+43a. leírható, illetve átalakítható kötelezettségek: olyan, hitelezői feltőkésítésbe bevonható kötelezettségek, amelyek megfelelnek a 66. § vagy 68/B. § (5) bekezdés a) pontjában foglalt feltételeknek, valamint olyan járulékos tőkeinstrumentumok, amelyek megfelelnek az 575/2013/EU rendelet 72a. cikk (1) bekezdés b) pontjában meghatározott feltételeknek;
 
 44. MNB: Magyar Nemzeti Bank;
 
@@ -152,9 +168,29 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 
 54. rendszerszintű válság: a pénzügyi közvetítőrendszer olyan zavara, amely jelentős negatív következménnyel járhat a pénzügyi közvetítőrendszerre és az azt támogató infrastruktúrára, valamint a reálgazdaságra is;
 
+54a. releváns tőkeelem: kiegészítő alapvető és járulékos tőkeelem;
+
 55. szabályozott piac: a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 114. pontjában meghatározott piac;
 
 56. szanálás alatt álló intézmény: olyan intézmény vagy 1. § (1) bekezdés b) vagy c) pontja szerinti szervezet, amelynek szanálását határozattal elrendelte a szanálási feladatkörében eljáró MNB vagy valamely más szanálási hatóság, vagy amely tekintetében szanálási intézkedés alkalmazására került sor;
+
+56a. szanálás alá vonható csoport:
+
+a) szanálás alá vonható szervezet és annak olyan leányvállalatai, amelyek nem
+
+aa) szanálás alá vonható szervezetek,
+
+ab) más szanálás alá vonható szervezetek leányvállalatai, vagy
+
+ac) olyan harmadik országban székhellyel rendelkező szervezetek, amelyek a szanálási terv alapján nem tartoznak a szanálás alá vonható csoporthoz, valamint azok leányvállalatai, vagy
+
+b) központi szervhez tartósan kapcsolt hitelintézetek a központi szervükkel együtt, amennyiben a hitelintézetek vagy a központi szerv közül legalább egy szanálás alá vonható szervezet, valamint azok leányvállalatai;
+
+56b. szanálás alá vonható szervezet:
+
+a) EGT-államban letelepedett olyan jogi személy, amelyet szanálási hatóság olyan szervezetként azonosít, amellyel kapcsolatban szanálási terv szanálási intézkedésről rendelkezik, vagy
+
+b) összevont alapú felügyelet alá nem tartozó olyan intézmény, amelynek vonatkozásában szanálási terv szanálási intézkedésről rendelkezik;
 
 57. szanálási hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított EGT-állambeli hatóság;
 

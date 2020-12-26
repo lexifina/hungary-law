@@ -14,6 +14,8 @@ d) jogi személy esetében a jogi személy előző üzleti évi teljes éves net
 
 e) a jogsértésből származó anyagi előny vagy elmaradt veszteség legfeljebb 200 százalékának megfelelő pénzbírság.
 
+f) egyes nyereség kifizetésére vonatkozó tilalom.
+
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdésben foglalt szankciók alkalmazásakor különösen a következő szempontokat mérlegeli:
 
 a) a jogsértés súlyossága és időtartama;

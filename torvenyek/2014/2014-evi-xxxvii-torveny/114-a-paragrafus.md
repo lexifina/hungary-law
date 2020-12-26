@@ -1,0 +1,3 @@
+114/A. § (1) A szanálási feladatkörében eljáró MNB a 89. § szerinti fizetési vagy szállítási kötelezettségek felfüggesztésére vonatkozó jogosultság gyakorlása során a szanálást elrendelő határozathozatalt megelőzően, az intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezet fizetésképtelensége vagy várható fizetésképtelensége esetén értesíti a 113. § (2) bekezdésében meghatározott szervezeteket és személyeket.
+
+(2) Ha a szanálási feladatkörében eljáró MNB szanálást elrendelő határozat meghozatalát megelőzően gyakorolja a 89. § szerint fizetési vagy szállítási kötelezettségek felfüggesztésére vonatkozó jogosultságot, akkor a 114. § (3) bekezdésében foglaltaknak megfelelően közleményt tesz közzé.

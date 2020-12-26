@@ -4,7 +4,7 @@
 
 a) a meglévő tagsági részesedést jelentő értékpapírokat törli vagy a hitelezői feltőkésítésbe bevontak részére átadja,
 
-b) ha a független értékelés eredményeként a szanálás alatt álló intézmény pozitív sajáttőke értékkel rendelkezik, akkor hígítja a tagsági részesedést egyéb instrumentumokkal kapcsolatos,
+b) ha a független értékelés eredményeként a szanálás alatt álló intézmény pozitív sajáttőke értékkel rendelkezik, akkor hígítja a hitelezői feltőkésítésbe bevonható kötelezettséget az egyéb instrumentumokkal kapcsolatos,
 
 ba) a 79. § (1) bekezdésben foglalt eljárás, vagy
 
