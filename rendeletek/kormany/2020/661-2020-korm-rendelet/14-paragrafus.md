@@ -1,1 +1,0 @@
-## „(6) A 17. § (10) bekezdésében meghatározott kivétellel a Hivatal állapítja meg a külföldi vagy külföldi rendszerű érettségi vizsga értékelésének átszámítását. A Hivatal az értékelés átszámításának módszerét a Tájékoztatóban közzéteszi.”

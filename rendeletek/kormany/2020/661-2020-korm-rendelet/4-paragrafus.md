@@ -1,3 +1,5 @@
-## 3. § A 137/2008. (V. 16.) Korm. rendelet az 1. melléklet szerinti 3. számú melléklettel egészül ki.
+## 1–3. §[^1]
 
 ## 2. A felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet módosítása
+
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
