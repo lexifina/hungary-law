@@ -1,7 +1,7 @@
 183. § Hatályát veszti a Szantv.
 
-a)
+a) 63. §-a,
 
-b)
+b) 64. §-a, és
 
 c)

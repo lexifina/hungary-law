@@ -6,4 +6,4 @@ b)
 
 c)
 
-d)
+d) 184. §-ában az „a 44. § (1)–(4) bekezdése,” szövegrész.

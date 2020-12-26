@@ -1,1 +1,3 @@
-107. §
+107. § A Hpt. 97. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az (1) bekezdés szerinti stratégiáknak és eljárásoknak megfelelően a hitelintézet a tőkemegfelelés belső értékelési eljárása alapján a szükséges nagyságú és összetételű szavatoló tőkéjét olyan megfelelő szinten határozza meg, amely elegendő az összes olyan kockázat fedezésére amelynek ki van téve, és biztosítja, hogy a szavatoló tőkéje képes legyen fedezni a stressz-forgatókönyvekből eredő potenciális veszteségeket, többek között a felügyeleti felülvizsgálat és értékelés elősegítése érdekében végzett felügyeleti stressz-teszt alapján azonosítottakat.”

@@ -1,1 +1,3 @@
-52. §
+52. § A Pft. 45. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A pénzforgalmi szolgáltató mentesül az (1), (2) és (4) bekezdés szerinti felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta, így különösen ha a készpénz-helyettesítő fizetési eszköz használatához szükséges személyes hitelesítési adatait arra nem jogosult harmadik fél részére átadja vagy megismerhetővé teszi.”

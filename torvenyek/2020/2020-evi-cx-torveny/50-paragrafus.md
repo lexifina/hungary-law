@@ -1,1 +1,1 @@
-50. §
+50. § A Gfbt. 29. § (1) bekezdésében a „Kártalanítási Szervezethez, a levelezőhöz” szövegrész helyébe a „Kártalanítási Szervezethez, a MABISZ mint az e-kárbejelentő működtetője részére, a levelezőhöz” szöveg lép.
