@@ -14,6 +14,8 @@
 
 6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
 
+6a. e-kárbejelentő: a MABISZ által üzemeltetett, a kötelező gépjármű felelősségbiztosítási káresemények bejelentésére szolgáló online formában működtetett informatikai megoldás;
+
 7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
 
 8. forgalmi engedély: az állandó vagy ideiglenes forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a lassú jármű és a négykerekű segédmotoros kerékpár (quad) igazolólapja;

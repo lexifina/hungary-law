@@ -1,6 +1,6 @@
 ## Kártörténeti nyilvántartás
 
-51. § (1) Az e törvény szerinti biztosítók a szerződéskötésre kötelezettek veszélyközössége terheinek megfelelő elosztása érdekében, a szerződések díjának kockázatarányos megállapítása érdekében a kártörténeti adatok felhasználása, a kárrendezéssel kapcsolatos feladatok ellátása, továbbá a kártörténeti igazolások kiadása céljából kártörténeti nyilvántartást (a továbbiakban: kárnyilvántartás) hoznak létre.
+51. § (1) Az e törvény szerinti biztosítók a szerződéskötésre kötelezettek veszélyközössége terheinek megfelelő elosztása érdekében, a szerződések díjának kockázatarányos megállapítása érdekében a kártörténeti adatok felhasználása, a kárrendezéssel kapcsolatos feladatok ellátása, a kártörténeti igazolások kiadása, továbbá a 10. § (1) bekezdésében foglaltak ellenőrizhetősége céljából kártörténeti nyilvántartást (a továbbiakban: kárnyilvántartás) hoznak létre.
 
 (2) A kárnyilvántartással kapcsolatos feladatokat a kárnyilvántartó szerv látja el.
 
@@ -65,6 +65,8 @@ i) a (4) bekezdésben foglalt adatok tekintetében – közúti közlekedési fe
 j) a (4a) bekezdésben foglalt adatokat – a károk kezelése és rendezése céljából – a károkozó gépjármű üzemben tartójának biztosítója, a Kártalanítási Számla kezelője;
 
 k) a (4) bekezdés b)–c) és f) pontjában, továbbá a (4a) bekezdésben meghatározott adatokat elektronikus úton – a Kknyt. járműéletút-adatszolgáltatás céljából – a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv
+
+l) a (4) bekezdésben meghatározott adatokat az e-kárbejelentő rendszer működtetése céljából a MABISZ
 
 részére.
 

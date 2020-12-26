@@ -2,7 +2,7 @@
 
 ## A MABISZ ÁLTAL A KÖTELEZŐ GÉPJÁRMŰ-FELELŐSSÉGBIZTOSÍTÁS RENDSZERÉBEN ELLÁTOTT FELADATOKRA VONATKOZÓ SZABÁLYOK
 
-56. § (1) A MABISZ látja el a Nemzeti Iroda – ezen belül a Kártalanítási Szervezet, az Információs Központ és a kárnyilvántató szerv – feladatait, a Kártalanítási Számla kezelését, továbbá a Kártalanítási Alap kezelését.
+56. § (1) A MABISZ látja el a Nemzeti Iroda – ezen belül a Kártalanítási Szervezet, az Információs Központ és a kárnyilvántartó szerv – feladatait, a Kártalanítási Számla kezelését, a Kártalanítási Alap kezelését, valamint az e-kárbejelentő működtetésével kapcsolatos feladatokat.
 
 (2) A MABISZ az (1) bekezdésben meghatározott feladatait – az e körbe nem tartozó tevékenységeitől – elkülönített módon láthatja el, amely célból elkülönített szervezeti egységet (a továbbiakban: elkülönített szervezeti egység) hozhat létre.
 
