@@ -8,14 +8,6 @@
 
 | IKOP-2.1.0- 15-2017-00042 | Budapest Nyugati pályaudvar épület- felújítás | MÁV Zrt. | 100% | 1 067 854 800 | 0 | 0 | 0 | –1 067 854 800 | 0 | 0 | 0 | - | - | - | - | - |
 
-2. melléklet a 2022/2020. (XII. 24.) Korm. határozathoz
+2. melléklet a 2022/2020. (XII. 24.) Korm. határozathoz[^2]
 
-1. Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 65a. sor helyébe a következő rendelkezés lép:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 65a. | IKOP-2.1.0-15 | Budapest Keleti és Budapest Nyugati pályaudvar utasforgalmi fejlesztése | MÁV Zrt. | 2,06 (támogatási intenzitás: 100%) | Budapest Keleti és Nyugati pályaudvarok utasforgalmi létesítményeinek utastájékoztatást és utaskomfortot növelő megújítása. |
-
-2. Hatályát veszti az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 65b. sora.
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

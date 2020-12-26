@@ -12,8 +12,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016.
-
-## (V. 18.) Korm. határozat 2. melléklete a 2. melléklet szerint módosul.
+## 3.[^1]
 
 1. melléklet a 2022/2020. (XII. 24.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
