@@ -14,7 +14,7 @@ e) a pénzforgalmi szolgáltató a 41. § (3) bekezdésében foglalt kötelezett
 
 (2a) Ha a kedvezményezett vagy annak pénzforgalmi szolgáltatója nem fogadja el az erős ügyfél-hitelesítést, meg kell térítenie a fizető fél pénzforgalmi szolgáltatójának okozott kárt.
 
-(3) A pénzforgalmi szolgáltató mentesül az (1), (2) és (4) bekezdés szerinti felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta.
+(3) A pénzforgalmi szolgáltató mentesül az (1), (2) és (4) bekezdés szerinti felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta, így különösen ha a készpénz-helyettesítő fizetési eszköz használatához szükséges személyes hitelesítési adatait arra nem jogosult harmadik fél részére átadja vagy megismerhetővé teszi.
 
 (4) A 40. § (2) bekezdése szerinti bejelentést követően a pénzforgalmi szolgáltató viseli a kárt az olyan jóvá nem hagyott fizetési műveletek vonatkozásában, amelyek a fizető fél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történtek, vagy a készpénz-helyettesítő fizetési eszköz jogosulatlan használatából erednek.
 
