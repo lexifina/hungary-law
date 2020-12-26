@@ -4,7 +4,10 @@
 
 (3)[^101] Az (1) bekezdésben meghatározott termék megvásárlását a pénztártag saját (közeli hozzátartozója) nevére kiállított, a számviteli törvény előírásainak megfelelő általános alaki kellékekkel ellátott számla, egyszerűsített számla, vagy legalább a 24/C. § (3) bekezdésében meghatározott tartalommal rendelkező bizonylat, vagy a 24/C. § (4) bekezdésében meghatározott feltételeknek megfelelő elektronikus dokumentum pénztár részére történő eljuttatásával igazolja.
 
+(4)[^102] A tag a (3) bekezdésben hivatkozott számla, egyszerűsített számla vagy bizonylat egyszerű elektronikus másolatának megküldésével is igazolhatja a pénztárnak az (1) bekezdésben meghatározott termék megvásárlását.
+
 [^98]: A 24/D. §-t a 367/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
 [^99]: A 24/D. § (1) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
 [^100]: A 24/D. § (2) bekezdését a 65/2008. (III. 29.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 335/2008. (XII. 30.) Korm. rendelet 24. §-a iktatta be.
 [^101]: A 24/D. § (3) bekezdésének második mondatát a 65/2008. (III. 29.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^102]: A 24/D. § (4) bekezdését az 586/2020. (XII. 15.) Korm. rendelet 1. §-a iktatta be.

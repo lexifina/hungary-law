@@ -1,6 +1,6 @@
-## 28. §[^121]
+## 28. §[^122]
 
-1. számú melléklet a 268/1997. (XII. 22.) Korm. rendelethez[^122]
+1. számú melléklet a 268/1997. (XII. 22.) Korm. rendelethez[^123]
 
 1. A 2. § (1) bekezdése szerinti csoportokba a következők tartoznak:
 
@@ -8,13 +8,13 @@ a) házipénztár: forint- és valutapénztár;
 
 b) pénzforgalmi számla;
 
-c)[^123] betét (betétszerződés): hitelintézeti betétszámlán elhelyezett pénzösszeg;
+c)[^124] betét (betétszerződés): hitelintézeti betétszámlán elhelyezett pénzösszeg;
 
 d) hitelviszonyt megtestesítő értékpapírok (kötvények):
 
 d1) magyar állampapír,
 
-d2)[^124] értékpapír, amelyben foglalt kötelezettség teljesítéséért az állam készfizető kezességet vállal (ideértve a jegybank által kibocsátott értékpapírt),
+d2)[^125] értékpapír, amelyben foglalt kötelezettség teljesítéséért az állam készfizető kezességet vállal (ideértve a jegybank által kibocsátott értékpapírt),
 
 d3) külföldi állampapír,
 
@@ -32,7 +32,7 @@ d9) magyarországi helyi önkormányzat által nyilvánosan forgalomba hozott k�
 
 d10) külföldi önkormányzat által nyilvánosan forgalomba hozott kötvény;
 
-e)[^125] részvények:
+e)[^126] részvények:
 
 e1) a Budapesti Értéktőzsdére vagy más elismert értékpapírpiacra bevezetett, Magyarországon nyilvánosan forgalomba hozott részvény,
 
@@ -62,26 +62,26 @@ i) határidős ügyletek;
 
 j) opciós ügyletek;
 
-k)[^126] repo (fordított repo) ügyletek,
+k)[^127] repo (fordított repo) ügyletek,
 
-l)[^127] kockázati tőkealap-jegy,
+l)[^128] kockázati tőkealap-jegy,
 
-m)[^128] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
+m)[^129] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
 
 2. Az (1) bekezdésben leírtaktól eltérően a pénztár nem szabványosított határidős és opciós ügyletet csak devizaárfolyam-kockázat fedezeti céllal köthet.
 
 3. A pénztár nem köteles eladni a tulajdonában lévő, tőzsdéről kivezetésre kerülő részvényt az e rendelet befektetési kategóriáinak történő megfelelés céljából. Az ilyen értékpapírok aránya azonban nem haladhatja meg a befektetett pénztári eszközök 5%-át.
 
-4.[^129] A pénztár csak állampapír alapú repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
+4.[^130] A pénztár csak állampapír alapú repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
 
 5. Az egyéb kollektív befektetési értékpapírokra az e rendeletben a befektetési jegyekre meghatározott befektetési előírások az irányadók.
 
-[^121]: A 28. §-t a 330/2004. (XII. 11.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1300. pontja.
-[^122]: Az 1. számú melléklet a 263/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^123]: Az 1. melléklet 1. pont c) alpontja a 470/2015. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^124]: Az 1. számú melléklet 1. pont d) pont d2) alpontja a 221/2014. (IX. 4.) Korm. rendelet 183. § c) pontja szerint módosított szöveg.
-[^125]: Az 1. számú melléklet 1. e) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^126]: Az 1. számú melléklet 1. k) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^127]: Az 1. számú melléklet 1. l) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^128]: Az 1. számú melléklet 1. m) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^129]: Az 1. számú melléklet a 332/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^122]: A 28. §-t a 330/2004. (XII. 11.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1300. pontja.
+[^123]: Az 1. számú melléklet a 263/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^124]: Az 1. melléklet 1. pont c) alpontja a 470/2015. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^125]: Az 1. számú melléklet 1. pont d) pont d2) alpontja a 221/2014. (IX. 4.) Korm. rendelet 183. § c) pontja szerint módosított szöveg.
+[^126]: Az 1. számú melléklet 1. e) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^127]: Az 1. számú melléklet 1. k) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^128]: Az 1. számú melléklet 1. l) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^129]: Az 1. számú melléklet 1. m) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^130]: Az 1. számú melléklet a 332/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

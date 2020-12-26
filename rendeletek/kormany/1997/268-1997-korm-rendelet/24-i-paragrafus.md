@@ -1,6 +1,6 @@
 ## Zárolás
 
-24/I. §[^108] (1) A kártya-elfogadó a tag kezdeményezésére az igénybe vett szolgáltatás, illetve megvásárolt áru ellenértékét zároltatja.
+24/I. §[^109] (1) A kártya-elfogadó a tag kezdeményezésére az igénybe vett szolgáltatás, illetve megvásárolt áru ellenértékét zároltatja.
 
 (2) A pénztár a zárolt összeget csak a zárolással kapcsolatos követelés kiegyenlítésére használhatja fel. A 24/H. § szerinti elektronikus számla alkalmazása esetén a zárolt összeg felhasználása csak akkor történhet meg, ha az igénybe vett szolgáltatás jogszerűségéről a pénztár meggyőződött.
 
@@ -18,4 +18,4 @@ c) a jogszabály erejénél fogva legkésőbb a zárolás kezdeményezésétől 
 
 (6) A pénztár vagy az általa megbízott szolgáltató automatizált ellenőrzési rendszert működtethet. A kártya-elfogadó a finanszírozható termékekről számlát állít ki, amelyet a pénztár a (3) bekezdésben foglaltak szerint kiegyenlít.
 
-[^108]: A 24/I. §-t és az azt megelőző alcímet a 367/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^109]: A 24/I. §-t és az azt megelőző alcímet a 367/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
