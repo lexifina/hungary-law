@@ -24,7 +24,7 @@ b) vezető testületben betöltött, négy nem ügyvezetői tisztség.
 
 a) az ugyanazon csoporton belül betöltött ügyvezetői vagy vezető testületben betöltött, nem ügyvezetői tisztség,
 
-b) együttesen azon ügyvezetői és vezető testületben betöltött nem ügyvezetői tisztség, amelyet olyan vállalkozásnál töltenek be, amelyben a (7) bekezdésben meghatározott piacműködtető befolyásoló részesedéssel rendelkezik.
+b) együttesen azon ügyvezetői és vezető testületben betöltött nem ügyvezetői tisztség, amelyet olyan vállalkozásnál töltenek be, amelyben a (7) bekezdésben meghatározott piacműködtető minősített befolyással rendelkezik.
 
 (9) A (7) bekezdésben meghatározott korlátozás nem terjed ki az olyan szervezetben betöltött ügyvezetői tisztségre, amely nem folytat üzleti jellegű tevékenységet.
 

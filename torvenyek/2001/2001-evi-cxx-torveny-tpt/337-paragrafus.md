@@ -5,3 +5,5 @@
 (2) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek teljesítésével kapcsolatosan azt az időpontot, amelyet követően az ügyfél a megbízását nem vonhatja vissza.
 
 (3) A Felügyelet engedélyét követően a központi értéktár az üzletszabályzatát és szabályzatait a saját honlapján közzéteszi.
+
+(4) Nem szükséges a Felügyelet engedélye a szolgáltatást igénybe vevők részére felszámított díjakra vonatkozó szabályzathoz. A szabályzatot a központi értéktár a saját honlapján közzéteszi.

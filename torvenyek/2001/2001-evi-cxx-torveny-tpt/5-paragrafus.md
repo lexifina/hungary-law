@@ -138,7 +138,7 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
 
-49.
+49. fogadó tagállam: az V. Fejezet alkalmazásában az a – 140. pont b) alpontjában meghatározott székhely szerinti tagállamtól eltérő – tagállam, amelynek szabályozott piacára az értékpapírt bevezették,
 
 50. forgalomba hozatal: az értékpapír tulajdonjogának első ízben történő keletkeztetésére irányuló eljárás,
 
