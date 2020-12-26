@@ -1,1 +1,0 @@
-## 1. A referenciaajánlatokról, hálózati szerződésekről, valamint az ezekkel kapcsolatos eljárások részletes szabályairól szóló 277/2003. (XII. 24.) Korm. rendelet, és a távirat-szolgáltatás ellátásának részletes szabályairól szóló 236/2004. (VIII. 13.) Korm. rendelet hatályon kívül helyezése
