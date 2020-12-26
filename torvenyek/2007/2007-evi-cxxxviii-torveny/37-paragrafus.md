@@ -60,7 +60,7 @@ c) súlyosan vagy rendszeresen megsértette e törvény vagy más, a befektetés
 
 (6) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező, a befolyással rendelkező az (1)–(5) bekezdésekben meghatározott feltételeknek nem felel meg.
 
-(6a) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező minősített befolyás szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
+(6a) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező minősített befolyás szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt minősített befolyás szerzése növelheti ennek kockázatát.
 
 (6b) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja akkor is, ha valamely harmadik országnak a kérelmezővel szoros kapcsolatban álló egy vagy több természetes vagy jogi személyre irányadó jogszabályai vagy közigazgatási rendelkezései, vagy azok érvényesítésének nehézségei akadályozzák a Felügyelet felügyeleti funkcióinak hatékony ellátását.
 

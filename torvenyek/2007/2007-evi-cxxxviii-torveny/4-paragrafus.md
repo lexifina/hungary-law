@@ -130,7 +130,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 33. jegyzési garanciavállalás: az értékpapír saját számlára történő lejegyzésére, illetve megvásárlására vonatkozó kötelezettségvállalás vagy a jegyzés vagy eladás meghiúsulásának elkerülése érdekében szerződésben vállalt mennyiségű értékpapír lejegyzésére, illetőleg megvásárlására vonatkozó kötelezettségvállalás,
 
-33a. jó üzleti hírnév: a befektetési vállalkozás vezető állású személyeinek, befolyásoló részesedéssel rendelkező tagjainak a befektetési vállalkozás irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte,
+33a. jó üzleti hírnév: a befektetési vállalkozás vezető állású személyeinek, minősített befolyással rendelkező tagjainak a befektetési vállalkozás irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte,
 
 34. kereskedési szándékkal tartott pozíció: a rövid távú újraértékesítés szándékával vagy a vételi és eladási árak közötti tényleges vagy várható különbözetből, valamint egyéb ár- vagy kamatlábváltozásokból származó rövid távú haszonszerzés szándékával tartott pozíció, amelybe beletartoznak mind a saját számlás, mind az ügyfelek által adott megbízások végrehajtásából és az árjegyzésből származó pozíciók,
 

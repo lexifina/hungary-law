@@ -2,7 +2,7 @@
 
 ## A BEFEKTETÉSI VÁLLALKOZÁS ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK SZEMÉLYI FELTÉTELEI
 
-22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni. A magánszemély – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő fő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy munkaviszony keretében köteles ellátni.
 
 (1a) Befektetési vállalkozásnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
@@ -22,7 +22,7 @@ e) igazolja, hogy jó üzleti hírnévvel rendelkezik.
 
 (4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
-(5) Az (1), az (1a), a (4) bekezdés, a 23. §, a 37. § (2a) bekezdése és (4) bekezdés d) pontja, valamint a 116. § (1) bekezdés a) pontja szempontjából az alábbi bűncselekményeket kell figyelembe venni:
+(5) Az (1a), a (4) bekezdés, a 23. §, a 37. § (2a) bekezdése és (4) bekezdés d) pontja, valamint a 116. § (1) bekezdés a) pontja szempontjából az alábbi bűncselekményeket kell figyelembe venni:
 
 a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), a 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, a vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel 1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), a 1978. évi IV. törvény XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a 1978. évi IV. törvény XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények,
 

@@ -26,7 +26,7 @@ j) a befektetési vállalkozást és az árutőzsdei szolgáltatót szerződése
 
 k) a befektetési vállalkozáshoz és az árutőzsdei szolgáltatóhoz felügyeleti biztost rendelhet ki,
 
-l) bírságot szabhat ki az MNBtv. 76. § (5) és (6) bekezdése figyelembevételével,
+l) bírságot szabhat ki az MNBtv. 76. § (5), (6) és (25) bekezdése figyelembevételével,
 
 m) más hatáskörrel rendelkező hatóságnál eljárást kezdeményezhet,
 

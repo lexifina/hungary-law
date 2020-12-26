@@ -1,10 +1,10 @@
 161/D. § (1) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más EGT-állam hatáskörrel rendelkező felügyeleti hatóságával szorosan együttműködik.
 
-(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának átadhatja.
+(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának és szanálási hatóságának átadhatja.
 
 (3) Összevont alapú felügyeleti ellenőrzést a Felügyelet más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő hatáskörrel rendelkező felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő részt vegyen.
 
-(4) Ha a Felügyelet az összevont alapú felügyeletet ellátó felügyeleti hatóság, akkor a (6)–(7) bekezdésben rögzítetteken kívül az EGT-állam hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
+(4) Ha a Felügyelet az összevont alapú felügyeletet ellátó felügyeleti hatóság, akkor az (1)–(2) és a (6)–(7) bekezdésben rögzítetteken kívül az EGT-állam hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
 
 a) a rendes működés során, ideértve a vállalatirányítási rendszerre és a kockázatkezelési követelményre vonatkozó rendelkezések teljesítésének ellenőrzését, a befektetési vállalkozások belső tőkemegfelelési folyamatának értékelését, a felügyeleti felülvizsgálatot, a nyilvánosságra hozatali követelmények teljesítésének ellenőrzését, valamint a befektetési vállalkozással szemben alkalmazott intézkedéseket,
 

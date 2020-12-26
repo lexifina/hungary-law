@@ -16,7 +16,7 @@ b) a 173/A. § b) és e) pontja tekintetében a Felügyelet által elkészített
 
 (4) Ha az eljárásban részt vevő EGT-állam hatáskörrel rendelkező felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi EGT-állam hatáskörrel rendelkező felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
-(5) Ha a Felügyelet a (3) bekezdés szerinti egyeztetést folytat az Európai Bankhatósággal (a továbbiakban: EBH), akkor a (2) bekezdéstől eltérően a határozat meghozatalának határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
+(5) Ha a Felügyelet a (3) bekezdés szerinti egyeztetést folytat az Európai Bankhatósággal (a továbbiakban: EBH), akkor a (2) bekezdéstől eltérően a határozat meghozatalának határideje az EBH-nak az 1093/2010/EU rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
 
 (6) A Felügyelet az (5) bekezdés szerinti egyeztetést követően az EBH határozatát a határozatának meghozatalakor figyelembe veszi. Ha a Felügyelet a határozatában jelentősen eltér az EBH határozatától, akkor a határozatában az eltérést indokolja.
 

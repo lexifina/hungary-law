@@ -56,7 +56,7 @@ g) 481. cikk (5) bekezdésének megfelelően az elsődleges alapvető tőkeeleme
 
 h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembevehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembevételére vonatkozó százalékos arányokat,
 
-i) 89. cikk (3) bekezdésének megfelelően azt, hogy a befektetési vállalkozásnak a pénzügyi ágazaton kívüli befolyásoló részesedés vonatkozásában az 575/2013/EU rendelet 89. cikk (3) bekezdés a) vagy b) pontjában meghatározott követelményeknek kell megfelelniük,
+i) 89. cikk (3) bekezdésének megfelelően azt, hogy a befektetési vállalkozásnak a pénzügyi ágazaton kívüli minősített befolyás vonatkozásában az 575/2013/EU rendelet 89. cikk (3) bekezdés a) vagy b) pontjában meghatározott követelményeknek kell megfelelniük,
 
 j) 178. cikk (1) bekezdés b) pontjának megfelelően azon időtartamot, amelyen túl az ügyfél nemteljesítését megtörténtnek kell tekinteni,
 
