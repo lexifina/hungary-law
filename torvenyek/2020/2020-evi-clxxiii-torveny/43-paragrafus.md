@@ -1,3 +1,1 @@
-43. § A Postatv. 27/A. §-a helyébe a következő rendelkezés lép:
-
-„27/A. § Az egyetemes postai szolgáltató az olyan településeken történő szolgáltatásnyújtás biztosítása érdekében, amelyek bejelentett lakóhely szerinti népességszáma nem haladja meg a tízezret, pénzügyi intézménnyel is köthet olyan szerződést, amely alapján a pénzügyi intézmény az 5. §-ban meghatározott postai szolgáltatást, postai szolgáltatásokhoz kapcsolódó, kiegészítő tevékenységeket, fiókbérleti szolgáltatást, postai értékcikk- és a postai szolgáltatás igénybevételére szolgáló vagy ahhoz szükséges kereskedelmiáru-forgalmazást, továbbá a kizárólag az egyetemes postai szolgáltató által forgalmazott értékpapírokkal kapcsolatos szolgáltatást, szerencsejáték-közvetítő tevékenységet, a külön jogszabály szerinti SIM-kártya egyenlegének feltöltését, valamint illetékbélyeg-továbbértékesítést végez.”
+43. §

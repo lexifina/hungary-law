@@ -1,3 +1,1 @@
-5. § A Ktv. 7/A. §-a helyébe a következő rendelkezés lép:
-
-„7/A. § A csővezetékes termékszállításra és -tárolásra, az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek, továbbá az önkormányzati törzsvagyon részét képező helyi közutak, műtárgyaik és a helyi közművek működtetésére irányuló koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság – koncessziós szerződéssel történő – átengedésére irányuló pályázat kiírása előtt ki kell kérni Magyar Kereskedelmi és Iparkamara véleményét is. A Magyar Kereskedelmi és Iparkamarának a vélemény kiadására a felkéréstől számított 15 munkanapon belül van lehetősége.”
+5. §

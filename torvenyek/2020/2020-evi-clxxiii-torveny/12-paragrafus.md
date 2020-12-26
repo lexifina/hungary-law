@@ -1,3 +1,1 @@
-12. § Az Szjtv. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A koncessziós szerződés megkötésére a Ktv. 5. § (1) bekezdése szerinti nyilvános pályázatot a kormányrendeletben kijelölt központi kormányzati igazgatási szerv vagy miniszter írja ki. A koncessziós pályázat kiírásához – országos pályázat kivételével – az érintett települési önkormányzat képviselő-testületének, Budapesten a Fővárosi Közgyűlés egyetértése is szükséges. Országos pályázattal elnyert koncessziós jog tekintetében a szerencsejáték-felügyeleti hatóság az engedélyt azokra a településekre adja ki, amelyek önkormányzatának képviselő-testülete – Budapesten a Fővárosi Önkormányzat Közgyűlése is – hozzájárult a tevékenység területén történő gyakorlásához.”
+12. §
