@@ -28,7 +28,7 @@ b) egészségügyi szolgáltató vagy egészségügyi szolgáltatót működtet.
 
 (6) Az (5) bekezdés szerinti jogviszony fennállása esetén a tag nem vehet részt olyan ügyre vonatkozó döntés meghozatalában, valamint az azt megelőző eljárásban, amely az ő vagy az őt munkaviszonyban, munkavégzésre irányuló jogviszonyban foglalkoztató gazdasági társaság üzleti érdekeit érinti. Ezt a tényt a jegyzőkönyvben külön rögzíteni kell.
 
-(7) Egy személy egyidejűleg csak egy tagozatnak lehet a tagja.
+(7)[^1]
 
 (8) A tag tagsága megszűnik
 
@@ -41,3 +41,5 @@ c) a tag lemondásával,
 d) a tag halálával.
 
 (9) Ha a tag az adott naptári évben az ülések több, mint felén nem vesz részt, vagy az adatvédelemre vonatkozó szabályokat súlyosan és szándékosan megszegi, a tagság megszüntetését a tagozat elnök kezdeményezi a miniszternél.
+
+[^1]: A 10. § (7) bekezdését a 47/2020. (XII. 22.) EMMI rendelet 8. §-a hatályon kívül helyezte.
