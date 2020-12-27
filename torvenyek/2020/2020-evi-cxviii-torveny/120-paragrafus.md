@@ -1,1 +1,3 @@
-### 120. §
+120. § Az Aktv. 43/V. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióban több adótervezésben közreműködő érintett, az adatszolgáltatási kötelezettség valamennyi adótervezésben közreműködőt terheli. Ebben az esetben a konstrukcióval kapcsolatosan elsőként adatot szolgáltató adótervezésben közreműködő közli valamennyi általa ismert adatszolgáltatással érintett adótervezésben közreműködővel a konstrukció adóhatóság által képzett tagállami hivatkozási számát. Az adótervezésben közreműködő mentesül az adatszolgáltatási kötelezettség alól, ha bizonyítja, hogy az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióról egy másik adótervezésben közreműködő Magyarországon vagy egy másik tagállamban már teljesítette adatszolgáltatási kötelezettségét.”

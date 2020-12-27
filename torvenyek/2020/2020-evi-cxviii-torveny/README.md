@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-118-00-00
 | 2020-11-28 | 2010. évi CXXX. törvény | 2020-118-00-00.2 |
 | 2020-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-118-00-00.3 |
 | 2020-12-02 | 2010. évi CXXX. törvény | 2020-118-00-00.4 |
+| 2020-12-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-118-00-00.5 |
