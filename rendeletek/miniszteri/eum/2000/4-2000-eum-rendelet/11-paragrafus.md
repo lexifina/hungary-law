@@ -14,91 +14,95 @@ c) 1998. december 31. napjáig számított 25 éven keresztül folyamatosan kör
 
 (3) Házi gyermekorvos lehet az az orvos, aki csecsemő- és gyermekgyógyászat szakorvosi képesítéssel rendelkezik.
 
-(4)[^24] Az önkormányzat által igazolt területi ellátási érdekből, az önkormányzattal megkötött feladatellátási szerződés megkötését követően háziorvostan szakorvosi szakképesítés nélkül is elláthat területi ellátási kötelezettséggel háziorvosi feladatokat az szakorvos, aki a következő szakképesítések valamelyikével rendelkezik:
+(4)[^24] Az önkormányzattal megkötött szerződés megkötését követően háziorvostan szakorvosi szakképesítés nélkül is elláthat területi ellátási kötelezettséggel háziorvosi feladatokat – a háziorvostan szakorvosi szakképesítés megszerzéséig, de legfeljebb a háziorvosi tevékenység megkezdésétől számított 5 évig – az a szakorvos, aki a következő szakképesítések valamelyikével rendelkezik:
 
 1. aneszteziológia és intenzív terápia,
 
-2. arc-, állcsont- és szájsebészet,
+2. belgyógyászat,
 
-3. belgyógyászat,
+3. foglalkozásorvostan (üzemorvostan),
 
-4. bőrgyógyászat,
+4. gasztroenterológia,
 
-5. csecsemő- és gyermekgyógyászat,
+5. geriátria,
 
-6. érsebészet,
+6. hematológia,
 
-7. fizikális medicina és rehabilitációs orvoslás,
+7. honvéd-, katasztrófa- és rendvédelem orvostan,
 
-8. foglalkozásorvostan (üzemorvostan),
+8. infektológia,
 
-9. fül-orr-gégegyógyászat,
+9. kardiológia,
 
-10. gasztroenterológia,
+10. nefrológia,
 
-11. geriátria,
+11. oxyológia és sürgősségi orvostan,
 
-12. gyermek- és ifjúságpszichiátria,
+12. reumatológia,
 
-13. gyermeksebészet,
+13. tüdőgyógyászat,
 
-14. hematológia,
+14. urológia,
 
-15. honvéd-, katasztrófa- és rendvédelem orvostan,
+15. sebészet,
 
-16. idegsebészet,
+16. orvosi laboratóriumi diagnosztika.
 
-17. infektológia,
+(4a)[^25] A (4) és (4c) bekezdésben foglaltak nem vonatkoznak a házi gyermekorvosi feladatok ellátására.
 
-18. kardiológia,
+(4b)[^26] A (4c) bekezdés szerinti módon, háziorvostan szakorvosi szakképesítés nélkül a háziorvosi tevékenység a háziorvostan szakorvosi szakképesítés megszerzéséig, de legfeljebb a háziorvosi tevékenység megkezdésétől számított 5 évig végezhető. A háziorvosi tevékenység megkezdése előtt a szakorvos a képzésére az Állami Egészségügyi Ellátó Központtal (a továbbiakban: ÁEEK) szerződést köt.
 
-19. klinikai onkológia,
+(4c)[^27] Az önkormányzat által igazolt területi ellátási érdekből, az önkormányzattal megkötött feladatellátási szerződés megkötését követően háziorvostan szakorvosi szakképesítés nélkül is elláthat területi ellátási kötelezettséggel háziorvosi feladatokat – a háziorvostan szakorvosi szakképesítés megszerzéséig, de legfeljebb a háziorvosi tevékenység megkezdésétől számított 5 évig az a szakorvos, aki a következő szakképesítések valamelyikével rendelkezik:
 
-20. mellkassebészet,
+1. arc-, állcsont- és szájsebészet,
 
-21. nefrológia,
+2. bőrgyógyászat,
 
-22. neurológia,
+3. csecsemő- és gyermekgyógyászat,
 
-23. ortopédia és traumatológia (ortopédia, traumatológia),
+4. érsebészet,
 
-24. oxyológia és sürgősségi orvostan,
+5. fizikális medicina és rehabilitációs orvoslás,
 
-25. plasztikai és égés-sebészet,
+6. fül-orr-gégegyógyászat,
 
-26. pszichiátria,
+7. gyermek- és ifjúságpszichiátria,
 
-27. repülőorvostan,
+8. gyermeksebészet,
 
-28. reumatológia,
+9. idegsebészet,
 
-29. sebészet,
+10. klinikai onkológia,
 
-30. szemészet,
+11. mellkassebészet,
 
-31. szívsebészet,
+12. neurológia,
 
-32. szülészet-nőgyógyászat,
+13. ortopédia és traumatológia (ortopédia, traumatológia),
 
-33. tüdőgyógyászat,
+14. plasztikai és égés-sebészet,
 
-34. urológia.
+15. pszichiátria,
 
-(4a)[^25] A (4) bekezdésben foglaltak nem vonatkoznak – a csecsemő- és gyermekgyógyászat szakképesítéssel rendelkezők kivételével – a házi gyermekorvosi feladatok ellátására.
+16. repülőorvostan,
 
-(4b)[^26] A (4) bekezdés szerinti módon, háziorvostan szakorvosi szakképesítés nélkül a háziorvosi tevékenység a háziorvostan szakorvosi szakképesítés megszerzéséig, de legfeljebb a háziorvosi tevékenység megkezdésétől számított 5 évig végezhető. A háziorvosi tevékenység megkezdése előtt a szakorvos a képzésére az Állami Egészségügyi Ellátó Központtal (a továbbiakban: ÁEEK) szerződést köt.
+17. szemészet,
 
-(5)[^27] Tartósan betöltetlen háziorvosi körzetben a (4) bekezdés szerint igazolt területi ellátási érdekből helyettesítő háziorvosi tevékenységet végezhet az az orvos is – a házi gyermekorvosi tevékenység kivételével – a háziorvostan szakorvosi szakképesítés megszerzéséhez szükséges önálló háziorvosi tevékenység folytatására való jogosultsága megszerzéséig, de legfeljebb 6 évig, aki a háziorvosi szakképesítés megszerzéséhez szükséges klinikai gyakorlatok megszerzésére vonatkozó egyéni képzési tervének elfogadását követően, a háziorvostan szakorvosi szakképzést megkezdte.
+18. szívsebészet,
 
-(6)[^28] Az (5) bekezdésben meghatározott esetben az orvos az ÁEEK-kel háziorvosi feladatok ellátására változó munkahelyre szóló munkavégzésre irányuló jogviszonyban áll, és a háziorvosi feladatok ellátását abban az ÁEEK által kijelölt háziorvosi körzetben folytatja, amely település önkormányzatával az ÁEEK szerződést köt. A háziorvosi körzet kijelölését az ÁEEK a körzet megszűnésének, szétválásának, más háziorvosi körzettel való összeolvadásának esetén, illetve – kivételesen indokolt esetben – a háziorvos kérelmére módosíthatja.
+19. szülészet-nőgyógyászat.
 
-(7)[^29] A (4)–(6) bekezdések alapján végzett háziorvosi tevékenységre egyebekben a helyettesítésre vonatkozó, külön jogszabály szerinti rendelkezések irányadóak.
+(5)[^28] Tartósan betöltetlen háziorvosi körzetben a (4c) bekezdés szerint igazolt területi ellátási érdekből helyettesítő háziorvosi tevékenységet végezhet az az orvos is – a házi gyermekorvosi tevékenység kivételével – a háziorvostan szakorvosi szakképesítés megszerzéséhez szükséges önálló háziorvosi tevékenység folytatására való jogosultsága megszerzéséig, de legfeljebb 6 évig, aki a háziorvosi szakképesítés megszerzéséhez szükséges klinikai gyakorlatok megszerzésére vonatkozó egyéni képzési tervének elfogadását követően, a háziorvostan szakorvosi szakképzést megkezdte.
 
-(8)[^30] A (4) és (5) bekezdésben foglalt tevékenység akkor kezdhető meg, ha az ÁEEK az általa szervezett vizsgával záruló képzés keretében meggyőződött arról, hogy az orvos a háziorvosi tevékenység végzéséhez szükséges alapvető társadalombiztosítási – így különösen a gyógyszer- és gyógyászati segédeszköz felírási szabályokról, a keresőképtelenségről, a kábítószer alkalmazásról és felírásról, a beutalási rendről szóló – ismereteket megszerezte. A (2), a (4), az (5) és a (8a) bekezdés szerinti tevékenység szakmai felügyelet mellett végezhető.
+(6)[^29] Az (5) bekezdésben meghatározott esetben az orvos az ÁEEK-kel háziorvosi feladatok ellátására változó munkahelyre szóló munkavégzésre irányuló jogviszonyban áll, és a háziorvosi feladatok ellátását abban az ÁEEK által kijelölt háziorvosi körzetben folytatja, amely település önkormányzatával az ÁEEK szerződést köt. A háziorvosi körzet kijelölését az ÁEEK a körzet megszűnésének, szétválásának, más háziorvosi körzettel való összeolvadásának esetén, illetve – kivételesen indokolt esetben – a háziorvos kérelmére módosíthatja.
 
-(8a)[^31] A (4) bekezdés szerinti szakképesítéssel rendelkező szakorvos – a (8) bekezdés szerinti képzési feltétel teljesítése mellett – a (4b) bekezdés szerinti időtartamig helyettesíthet háziorvosi körzetben újabb vizsga letétele nélkül. Ha az érintett szakorvos nem szerez háziorvostan szakorvosi szakképesítést, a (4b) bekezdés szerinti időtartam lejártát követően a (8) bekezdés szerinti vizsgát kétévente meg kell ismételnie.
+(7)[^30] A (4)–(6) bekezdések alapján végzett háziorvosi tevékenységre egyebekben a helyettesítésre vonatkozó, külön jogszabály szerinti rendelkezések irányadóak.
 
-(9)[^32] Háziorvosi ügyeleti szolgálatban közreműködhet az az orvos, aki
+(8)[^31] A (4), (4c) és (5) bekezdésben foglalt tevékenység akkor kezdhető meg, ha az ÁEEK az általa szervezett vizsgával záruló képzés keretében meggyőződött arról, hogy az orvos a háziorvosi tevékenység végzéséhez szükséges alapvető társadalombiztosítási – így különösen a gyógyszer- és gyógyászati segédeszköz felírási szabályokról, a keresőképtelenségről, a kábítószer alkalmazásról és felírásról, a beutalási rendről szóló – ismereteket megszerezte. A (2), a (4), a (4c), az (5) és a (8a) bekezdés szerinti tevékenység szakmai felügyelet mellett végezhető.
+
+(8a)[^32] A (4c) bekezdés szerinti szakképesítéssel rendelkező szakorvos – a (8) bekezdés szerinti képzési feltétel teljesítése mellett – a (4b) bekezdés szerinti időtartamig helyettesíthet háziorvosi körzetben újabb vizsga letétele nélkül. Ha az érintett szakorvos nem szerez háziorvostan szakorvosi szakképesítést, a (4b) bekezdés szerinti időtartam lejártát követően a (8) bekezdés szerinti vizsgát kétévente meg kell ismételnie.
+
+(9)[^33] Háziorvosi ügyeleti szolgálatban közreműködhet az az orvos, aki
 
 a) az (1), illetve (3) bekezdésekben meghatározott feltételek közül legalább az egyik feltételnek megfelel, vagy
 
@@ -108,25 +112,26 @@ c) háziorvosi szakorvosjelöltként a belgyógyászati – és ennek keretében
 
 d) a b) pontban felsorolt szakképesítések szakorvosjelöltjeként a törzsképzési időt teljesítette és az a) vagy b) pont szerinti orvos felügyelete biztosított, vagy
 
-e)[^33] olyan, a külön jogszabály szerinti szakképesítéssel rendelkezik, amelynek képzési feltételei között legalább 6 hó sürgősségi gyakorlat, sürgősségi betegellátás, illetve sürgősségi betegellátási program szerepel, és 2 hét oxyológiai tanfolyamot teljesített, és az a) vagy b) pont szerinti orvos felügyelete biztosított, vagy
+e)[^34] olyan, a külön jogszabály szerinti szakképesítéssel rendelkezik, amelynek képzési feltételei között legalább 6 hó sürgősségi gyakorlat, sürgősségi betegellátás, illetve sürgősségi betegellátási program szerepel, és 2 hét oxyológiai tanfolyamot teljesített, és az a) vagy b) pont szerinti orvos felügyelete biztosított, vagy
 
 f) a (2) bekezdésben foglalt feltételnek megfelel, vagy
 
-g)[^34] a (4), az (5) és a (8a) bekezdésben meghatározott feltételek közül legalább az egyik feltételnek, valamint az ott meghatározottak szerint a (8) bekezdésben foglalt feltételnek megfelel.
+g)[^35] a (4), a (4c), az (5) és a (8a) bekezdésben meghatározott feltételek közül legalább az egyik feltételnek, valamint az ott meghatározottak szerint a (8) bekezdésben foglalt feltételnek megfelel.
 
-(10)[^35] A (2) bekezdés, valamint a (4), az (5) és a (8a) bekezdés, továbbá a (9) bekezdés c)–f) pontjai alkalmazása szempontjából a szakmai felügyelet akkor biztosított, ha a felügyelő orvos konzultáció céljából folyamatosan elérhető, és ügyelet esetén szükség szerint az ügyelet telephelyén történő személyes megjelenése egy órán belül biztosított.
+(10)[^36] A (2) bekezdés, valamint a (4), a (4c), az (5) és a (8a) bekezdés, továbbá a (9) bekezdés c)–f) pontjai alkalmazása szempontjából a szakmai felügyelet akkor biztosított, ha a felügyelő orvos konzultáció céljából folyamatosan elérhető, és ügyelet esetén szükség szerint az ügyelet telephelyén történő személyes megjelenése egy órán belül biztosított.
 
 [^22]: A 10. §-t a 47/2004. (V. 11.) ESZCSM rendelet 23. §-ának (6) bekezdését hatályon kívül helyezte.
 [^23]: A 11. § (2) bekezdése a 8/2009. (IV. 3.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^24]: A 11. § (4) bekezdése a 22/2012. (IX. 14.) EMMI rendelet 14. §-ával megállapított szöveg.
-[^25]: A 11. § (4a) bekezdését a 22/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be.
-[^26]: A 11. § (4b) bekezdését a 22/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 15. § b) pontja szerint módosított szöveg.
-[^27]: A 11. § új (5) bekezdését a 8/2001. (III. 2.) EüM rendelet 1. §-a iktatta be, szövegét a 49/2005. (XI. 8.) EüM rendelet 2. § (1) bekezdése állapította meg.
-[^28]: A 11. § (6) bekezdését a 73/2003. (XII. 23.) ESZCSM rendelet 1. §-a hatályon kívül helyezte, újonnan a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 15. § c) pontja szerint módosított szöveg.
-[^29]: A 11. § (7) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be.
-[^30]: A 11. § (8) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 15. § d) pontja szerint módosított szöveg.
-[^31]: A 11. § (8a) bekezdését a 24/2014. (IV. 4.) EMMI rendelet 2. §-a iktatta be.
-[^32]: A 11. § (9) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be.
-[^33]: A 11. § (9) bekezdés e) pontja a 8/2009. (IV. 3.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^34]: A 11. § (9) bekezdés g) pontja a 24/2014. (IV. 4.) EMMI rendelet 5. § c) pontja szerint módosított szöveg.
-[^35]: A 11. § (10) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 8/2009. (IV. 3.) EüM rendelet 3. § (2) bekezdés c) pontja, a 24/2014. (IV. 4.) EMMI rendelet 5. § d) pontja szerint módosított szöveg.
+[^24]: A 11. § (4) bekezdése a 47/2020. (XII. 22.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: A 11. § (4a) bekezdését a 22/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be, szövege a 47/2020. (XII. 22.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^26]: A 11. § (4b) bekezdését a 22/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 15. § b) pontja, a 47/2020. (XII. 22.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
+[^27]: A 11. § (4c) bekezdését a 47/2020. (XII. 22.) EMMI rendelet 1. § (3) bekezdése iktatta be.
+[^28]: A 11. § új (5) bekezdését a 8/2001. (III. 2.) EüM rendelet 1. §-a iktatta be, szövege a 49/2005. (XI. 8.) EüM rendelet 2. § (1) bekezdésével megállapított, a 47/2020. (XII. 22.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
+[^29]: A 11. § (6) bekezdését a 73/2003. (XII. 23.) ESZCSM rendelet 1. §-a hatályon kívül helyezte, újonnan a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 15. § c) pontja szerint módosított szöveg.
+[^30]: A 11. § (7) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^31]: A 11. § (8) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 15. § d) pontja, a 47/2020. (XII. 22.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^32]: A 11. § (8a) bekezdését a 24/2014. (IV. 4.) EMMI rendelet 2. §-a iktatta be, szövege a 47/2020. (XII. 22.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
+[^33]: A 11. § (9) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^34]: A 11. § (9) bekezdés e) pontja a 8/2009. (IV. 3.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^35]: A 11. § (9) bekezdés g) pontja a 47/2020. (XII. 22.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
+[^36]: A 11. § (10) bekezdését a 49/2005. (XI. 8.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 8/2009. (IV. 3.) EüM rendelet 3. § (2) bekezdés c) pontja, a 24/2014. (IV. 4.) EMMI rendelet 5. § d) pontja, a 47/2020. EMMI rendelet 2. § d) pontja szerint módosított szöveg.

@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-4-20-0B
 | 2020-05-04 | 2000-4-20-0B.32 | 17/2020. (IV. 30.) EMMI rendelet |
 | 2020-06-18 | 2000-4-20-0B.33 | 21/2020. (VI. 17.) EMMI rendelet |
 | 2020-10-19 | 2000-4-20-0B.34 | 36/2020. (X. 16.) EMMI rendelet |
+| 2020-12-27 | 2000-4-20-0B.35 | 47/2020. (XII. 22.) EMMI rendelet |

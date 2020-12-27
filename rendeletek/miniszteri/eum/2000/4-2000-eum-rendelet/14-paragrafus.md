@@ -1,8 +1,8 @@
-14. §[^40] (1)[^41] Az egészségügyért felelős miniszter megyénként és a fővárosban 1-1 fő megyei kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost (a továbbiakban együtt: megyei szakmai vezető) bíz meg. A megyei szakmai vezető pályázati eljárás útján kerül kiválasztásra. A pályázatot az ÁEEK írja ki, a pályázati hirdetményt a honlapján teszi közzé a pályázat benyújtási határidejének lejártát 30 nappal megelőzően.
+14. §[^41] (1)[^42] Az egészségügyért felelős miniszter megyénként és a fővárosban 1-1 fő megyei kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost (a továbbiakban együtt: megyei szakmai vezető) bíz meg. A megyei szakmai vezető pályázati eljárás útján kerül kiválasztásra. A pályázatot az ÁEEK írja ki, a pályázati hirdetményt a honlapján teszi közzé a pályázat benyújtási határidejének lejártát 30 nappal megelőzően.
 
-(2)[^42] A beérkezett pályázatok alapján a megyei szakmai vezető személyére az ÁEEK főigazgatója által delegált 1 főből, az ÁEEK-ban működő alapellátási módszertani feladatokat ellátó vezetőből, valamint a szakterület szerint érintett egészségügyi szakmai kollégiumi tagozat által delegált 1 főből álló bizottság tesz javaslatot az egészségügyért felelős miniszter részére. A bíráló bizottság a javaslat előkészítése során vizsgálja, hogy a pályázó megfelel-e az e rendeletben meghatározott követelményeknek. A beérkezett pályázatokról a bírálatot megelőzően a Magyar Orvosi Kamara illetékes területi szerve véleményt nyilvánít, amelyet a bíráló bizottság a javaslat kialakítása során figyelembe vesz.
+(2)[^43] A beérkezett pályázatok alapján a megyei szakmai vezető személyére az ÁEEK főigazgatója által delegált 1 főből, az ÁEEK-ban működő alapellátási módszertani feladatokat ellátó vezetőből, valamint a szakterület szerint érintett egészségügyi szakmai kollégiumi tagozat által delegált 1 főből álló bizottság tesz javaslatot az egészségügyért felelős miniszter részére. A bíráló bizottság a javaslat előkészítése során vizsgálja, hogy a pályázó megfelel-e az e rendeletben meghatározott követelményeknek. A beérkezett pályázatokról a bírálatot megelőzően a Magyar Orvosi Kamara illetékes területi szerve véleményt nyilvánít, amelyet a bíráló bizottság a javaslat kialakítása során figyelembe vesz.
 
-(3)[^43] A pályázati feltételeknek leginkább megfelelő pályázóval az egészségügyért felelős miniszter megyei szakmai vezetői feladatokra 3 év időtartamra megbízási szerződést köt. Ha a megbízatása annak lejárta előtt megszűnik, új megyei szakmai vezetőt kell megbízni. A megyei szakmai vezető ismételten megbízható.
+(3)[^44] A pályázati feltételeknek leginkább megfelelő pályázóval az egészségügyért felelős miniszter megyei szakmai vezetői feladatokra 3 év időtartamra megbízási szerződést köt. Ha a megbízatása annak lejárta előtt megszűnik, új megyei szakmai vezetőt kell megbízni. A megyei szakmai vezető ismételten megbízható.
 
 (4) A (3) bekezdés szerinti megbízási jogviszonyt bármelyik fél 30 napos határidővel mondhatja fel.
 
@@ -24,7 +24,7 @@ d) 65 évnél fiatalabb.
 
 (9) A megyei szakmai vezető tevékenységének ellátásáért 366 000 Ft/hó tiszteletdíjban részesül, költségtérítés nem illeti meg. A tiszteletdíj a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
 
-[^40]: A 14. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
-[^41]: A 14. § (1) bekezdése a 36/2020. (X. 16.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
-[^42]: A 14. § (2) bekezdése a 36/2020. (X. 16.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^43]: A 14. § (3) bekezdése a 36/2020. (X. 16.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^41]: A 14. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^42]: A 14. § (1) bekezdése a 36/2020. (X. 16.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
+[^43]: A 14. § (2) bekezdése a 36/2020. (X. 16.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^44]: A 14. § (3) bekezdése a 36/2020. (X. 16.) EMMI rendelet 1. §-ával megállapított szöveg.

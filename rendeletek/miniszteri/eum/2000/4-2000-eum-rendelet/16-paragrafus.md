@@ -1,4 +1,4 @@
-16. §[^48] (1) A területi, a megyei, az országos szakmai vezetők a kollegiális szakmai vezetők konzultációi során kidolgozott, valamint az ÁEEK által elfogadott éves munkaterv alapján végzik tevékenységüket, ide nem értve az eseti jellegű feladataikat.
+16. §[^49] (1) A területi, a megyei, az országos szakmai vezetők a kollegiális szakmai vezetők konzultációi során kidolgozott, valamint az ÁEEK által elfogadott éves munkaterv alapján végzik tevékenységüket, ide nem értve az eseti jellegű feladataikat.
 
 (2) A területi szakmai vezető a következő feladatokat látja el:
 
@@ -54,4 +54,4 @@ g) kapcsolatot tart a szakmai szervezetekkel, egyesületekkel, kamarával, orvos
 
 h) ha az alapellátás tekintetében szakmai szabályokba vagy jogszabályba ütköző tevékenységet tapasztal, illetve a megyei szakmai vezetőtől ilyen tevékenységről tudomást szerez, erről tájékoztatja az ÁEEK főigazgatóját.
 
-[^48]: A 16. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^49]: A 16. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.

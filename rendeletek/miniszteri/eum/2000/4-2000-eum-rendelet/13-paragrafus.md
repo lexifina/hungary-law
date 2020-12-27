@@ -1,4 +1,4 @@
-13. §[^39] (1) Az ÁEEK mint az alapellátás módszertani központja által meghatározott területen területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi és fogorvosi szolgálatban praxisjoggal rendelkező háziorvosok, házi gyermekorvosok és fogorvosok maguk közül területenként 1-1 fő területi kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost választanak.
+13. §[^40] (1) Az ÁEEK mint az alapellátás módszertani központja által meghatározott területen területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi és fogorvosi szolgálatban praxisjoggal rendelkező háziorvosok, házi gyermekorvosok és fogorvosok maguk közül területenként 1-1 fő területi kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost választanak.
 
 (2) Az ÁEEK eltérő döntése hiányában egy területnek egy járás felel meg. Az ÁEEK az illetékességi területek meghatározása során figyelembe veszi a háziorvosi, fogorvosi szolgálatok számát, területi ellátási kötelezettséggel működő háziorvosi szolgálatok esetében a tartósan betöltetlen körzetek számát, a háziorvosi szolgálatok területi elhelyezkedését, az ellátandó lakosságszámot, a járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal történő szakmai együttműködés lehetőségét. A területi kollegiális szakmai vezető házi gyermekorvosok illetékességi területének meghatározása során az ÁEEK figyelembe veszi a fekvőbeteg-szakellátást nyújtó gyógyintézet csecsemő- és gyermekgyógyászat szakmára meghatározott ellátási területét. Az ÁEEK a kialakított illetékességi területek listáját a honlapján közzéteszi.
 
@@ -46,4 +46,4 @@ h) ha feladatait az ÁEEK általi egyszeri felszólítás ellenére nem látja e
 
 (12) A területi szakmai vezető tevékenységének ellátásáért 244 000 Ft/hó tiszteletdíjban részesül, költségtérítés nem illeti meg. A tiszteletdíj a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
 
-[^39]: A 13. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^40]: A 13. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
