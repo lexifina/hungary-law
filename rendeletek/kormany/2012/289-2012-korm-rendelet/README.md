@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-289-20-
 | 2018-01-01 | 2012-289-20-22.12 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-12-29 | 2012-289-20-22.13 | 289/2018. (XII. 21.) Korm. rendelet |
 | 2020-10-31 | 2012-289-20-22.14 | 415/2020. (VIII. 30.) Korm. rendelet |
+| 2020-12-27 | 2012-289-20-22.15 | 632/2020. (XII. 22.) Korm. rendelet |

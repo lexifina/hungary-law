@@ -2,7 +2,7 @@
 
 19. § (1) Az építési engedély alapján megépült, valamint engedély alapján átalakított vasúti építmény – a (4)–(5) bekezdésben meghatározott kivételekkel – használatbavételi engedély birtokában használható. A használatbavételi engedély az építmény egészére, vagy önállóan használható részeire, alrendszereire is kiadható.
 
-(1a)[^28] Az átjárhatóságot lehetővé tévő pálya menti ellenőrző-irányító és jelző alrendszer, valamint az energia- és infrastruktúra-alrendszerek üzembe helyezésére kizárólag akkor kerülhet sor, ha azok tervezése, kivitelezése és beszerelése megfelel a vasúti rendszer kölcsönös átjárhatóságáról szóló kormányrendeletben meghatározott alapvető követelményeknek, és rendelkezik az e rendeletben meghatározott engedélyekkel.
+(1a)[^30] Az átjárhatóságot lehetővé tévő pálya menti ellenőrző-irányító és jelző alrendszer, valamint az energia- és infrastruktúra-alrendszerek üzembe helyezésére kizárólag akkor kerülhet sor, ha azok tervezése, kivitelezése és beszerelése megfelel a vasúti rendszer kölcsönös átjárhatóságáról szóló kormányrendeletben meghatározott alapvető követelményeknek, és rendelkezik az e rendeletben meghatározott engedélyekkel.
 
 (2) A használatbavételi engedély iránti kérelmet legkésőbb a műszaki átadás-átvételt követő harminc napon belül kell benyújtani a vasúti közlekedési hatósághoz.
 
@@ -12,4 +12,4 @@
 
 (5) A működési engedélyhez kötött tevékenységet végző vasúti társaság által működtetett vasúti pályahálózaton, használatbavételi engedély hiányában, a műszaki átadás-átvételt követő legfeljebb száznyolcvan napig, korlátozott szolgáltatási szintű forgalom bonyolítható le.
 
-[^28]: A 19. § (1a) bekezdését a 415/2020. (VIII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^30]: A 19. § (1a) bekezdését a 415/2020. (VIII. 30.) Korm. rendelet 9. §-a iktatta be.
