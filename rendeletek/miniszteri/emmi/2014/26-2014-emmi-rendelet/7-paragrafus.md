@@ -13,3 +13,7 @@ a) erről a tényről a szülésznő felelős személyt haladéktalanul tájéko
 b) közli a várandóssal, hogy a várandósság magas rizikócsoportba történő besorolása miatt a várandóst szülésznő nem gondozhatja, és
 
 c) javasolja a várandósnak, hogy haladéktalanul forduljon szülész-nőgyógyász szakorvoshoz, aki a továbbiakban a gondozását végzi.
+
+(4)[^10] A szülész-nőgyógyász az 1. melléklet 2. pontjában szereplő, a várandósgondozási könyv részét képező beutaló kitöltésével a várandóst az ott meghatározott vizsgálatokra beutalhatja.
+
+[^10]: A 7. § (4) bekezdését a 47/2020. (XII. 22.) EMMI rendelet 5. §-a iktatta be.

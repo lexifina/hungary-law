@@ -1,6 +1,6 @@
-## 14. §[^11] Az e rendelet alapján 2014. július 1. és az 1. mellékletnek az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (X. 27.) EMMI rendelettel (a továbbiakban: Módr.) történő módosítása hatálybalépésének időpontja között kiállított várandósgondozási könyvvel rendelkező várandósok esetében is alkalmazni kell az 1. melléklet Módr. által megállapított rendelkezéseit.
+## 14. §[^12] Az e rendelet alapján 2014. július 1. és az 1. mellékletnek az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (X. 27.) EMMI rendelettel (a továbbiakban: Módr.) történő módosítása hatálybalépésének időpontja között kiállított várandósgondozási könyvvel rendelkező várandósok esetében is alkalmazni kell az 1. melléklet Módr. által megállapított rendelkezéseit.
 
-1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez[^12]
+1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez[^13]
 
 ## A várandós anya gondozási könyve
 
@@ -98,7 +98,7 @@ PH.
 
 …………………………….
 
-háziorvos aláírása
+háziorvos/szülész-nőgyógyász aláírása
 
-[^11]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (X. 27.) EMMI rendelet 10. §-a iktatta be.
-[^12]: Az 1. melléklet a 7/2015. (II. 2.) EMMI rendelet 18. §-ával megállapított, a 3/2016. (I. 22.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^12]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (X. 27.) EMMI rendelet 10. §-a iktatta be.
+[^13]: Az 1. melléklet a 7/2015. (II. 2.) EMMI rendelet 18. §-ával megállapított, a 3/2016. (I. 22.) EMMI rendelet 3. §-a, a 47/2020. (XII. 22.) EMMI 6. §-a szerint módosított szöveg.
