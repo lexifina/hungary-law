@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. §[^3]
 
-[^2]: A 3. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
+[^3]: A 3. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.

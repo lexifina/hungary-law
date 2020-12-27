@@ -1,4 +1,4 @@
-## 14. §[^11]
+## 14. §[^15]
 
 ## 6. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) A 9. § (2) bekezdése 2026. január 1-jén lép hatályba.
 
-[^11]: A 14. § a 15. § (3) bekezdése alapján 2021. június 26-án lép hatályba.
+[^15]: A 14. § a 15. § (3) bekezdése alapján 2021. június 26-án lép hatályba.

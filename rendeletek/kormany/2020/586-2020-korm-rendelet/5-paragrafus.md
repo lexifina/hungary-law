@@ -1,3 +1,3 @@
-## 4. §[^3]
+## 4. §[^4]
 
-[^3]: A 4. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
+[^4]: A 4. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.

@@ -1,5 +1,3 @@
-## 5. § A 42/2015 (III. 12.) Korm. rendelet 5/A. § (1) bekezdés f) pontjának helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## [A Hpt. 67/A. §-ában, a Bszt. 12. §-ában, az Fsztv. 12/A. §-ában és a Bit. 94. §-ában meghatározott tanúsító szervezet (a továbbiakban: tanúsító szervezet) a Magyar Nemzeti Bank (a továbbiakban: MNB) által vezetett nyilvántartásba vételét követően kezdheti meg az e rendelet hatálya alá tartozó tevékenységét. Az MNB azt a szervezetet veszi kérelmére tanúsító szervezetként nyilvántartásba, amely a nyilvántartásba vételi eljárás során igazolja, hogy a következő feltételeket teljesítette:]
-
-## „f) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló – a tanúsító szervezet esetén tanúsításra, a vizsgáló laboratórium esetén vizsgálatra vonatkozó –, az elmúlt 5 évben legalább 4 évnyi akkreditált státuszt igazoló okirattal, amely a laboratórium esetén a tevékenység folytatására kiadott engedélyt jelent;”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
