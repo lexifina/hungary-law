@@ -1,4 +1,4 @@
-## 48/A. [^230] A mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás
+## 48/A. [^238] A mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás
 
 102/A. § (1) A mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) olyan beruházáshoz nyújtható, amely mezőgazdasági termékek feldolgozásához vagy mezőgazdasági termékek forgalmazásához kapcsolódik.
 
@@ -16,7 +16,7 @@ b) az európai innovációs partnerség keretében támogatott műveletek
 
 ## esetén.
 
-(4)[^231] A támogatás keretében a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség – számolható el.
+(4)[^239] A támogatás keretében a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség – számolható el.
 
 (5) A támogatás feltétele, hogy a támogatás odaítéléséről szóló döntés időpontját megelőzően a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet szerinti eljárás lefolytatásra kerüljön.
 
@@ -28,5 +28,5 @@ b) az élelmiszeralapú bioüzemanyagok előállításával kapcsolatos beruház
 
 (7) A támogatás nem nyújtható az 1308/2013/EU európai parlamenti és tanácsi rendeletben megállapított valamely tiltás vagy korlátozás – ideértve a kizárólag az 1308/2013/EU európai parlamenti és tanácsi rendeletben szabályozott uniós támogatásra vonatkozó esetet is – megszegésével.
 
-[^230]: A 48/A. alcímet (102/A. §) a 305/2016. (X. 13.) Korm. rendelet 8. §-a iktatta be.
-[^231]: A 102/A. § (4) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^238]: A 48/A. alcímet (102/A. §) a 305/2016. (X. 13.) Korm. rendelet 8. §-a iktatta be.
+[^239]: A 102/A. § (4) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.

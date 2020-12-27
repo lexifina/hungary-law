@@ -1,15 +1,17 @@
-## 24. §[^184] E rendelet alapján
+## 24. §[^187] E rendelet alapján
 
 a) a 11. alcím szerinti támogatás esetén 2021. december 31-ig,
 
 b) a 12–41. és 42–45/A. alcím szerinti támogatás esetén 2024. június 30-ig,
 
-c) a 41/A. és 47. alcím szerinti támogatás esetén 2020. december 31-ig,
+c)[^188] a 47. alcím szerinti támogatás esetén 2023. december 31-ig,
 
 d) a 46. alcím szerinti támogatás esetén 2024. június 30-ig,
 
-e) a 48/A. és az 51–69. alcím szerinti támogatás esetén 2021. június 30-ig,
+e)[^189] a 41/A–41/C., a 48/A. és az 51–69. alcím szerinti támogatás esetén 2021. június 30-ig
 
 f) az 50. alcím szerinti támogatás esetén 2028. június 30-ig
 
-[^184]: A 24. § a 491/2020. (XI. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^187]: A 24. § a 491/2020. (XI. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^188]: A 24. § c) pontja a 662/2020. (XII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^189]: A 24. § e) pontja a 662/2020. (XII. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

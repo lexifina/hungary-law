@@ -8,7 +8,7 @@
 
 (3) A támogatás keretében
 
-a)[^217] a szükséges aktív és passzív szélessávú infrastruktúra kiépítésének beruházási költsége,
+a)[^225] a szükséges aktív és passzív szélessávú infrastruktúra kiépítésének beruházási költsége,
 
 b) a szélessávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munkák beruházási költsége,
 
@@ -18,7 +18,7 @@ d) a nagy sebességű újgenerációs hozzáférési hálózat kiépítésének 
 
 ## számolható el.
 
-(4)[^218] Ha a támogatást a (2) bekezdésben foglaltaknak megfelelő kiválasztási eljárás alapján ítélik oda, a projekthez kapcsolódó támogatás maximális összege a (3) bekezdésben meghatározott elszámolható költségek figyelembevételétől függetlenül is meghatározható.
+(4)[^226] Ha a támogatást a (2) bekezdésben foglaltaknak megfelelő kiválasztási eljárás alapján ítélik oda, a projekthez kapcsolódó támogatás maximális összege a (3) bekezdésben meghatározott elszámolható költségek figyelembevételétől függetlenül is meghatározható.
 
-[^217]: A 86. § (3) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 66. pontja szerint módosított szöveg.
-[^218]: A 86. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 15. §-a iktatta be.
+[^225]: A 86. § (3) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 66. pontja szerint módosított szöveg.
+[^226]: A 86. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 15. §-a iktatta be.

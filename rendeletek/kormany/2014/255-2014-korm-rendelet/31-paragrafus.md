@@ -1,3 +1,3 @@
-## 30. §[^195]
+## 30. §[^200]
 
-[^195]: A 30. §-t a 271/2015. (IX. 18.) Korm. rendelet 22. § 14. pontja hatályon kívül helyezte.
+[^200]: A 30. §-t a 271/2015. (IX. 18.) Korm. rendelet 22. § 14. pontja hatályon kívül helyezte.

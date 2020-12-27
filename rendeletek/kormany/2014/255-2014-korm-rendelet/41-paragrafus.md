@@ -10,11 +10,11 @@ d) a 37. § (2) bekezdés e) pontja szerinti kezességvállalás esetén a kezes
 
 (2) Az (1) bekezdés d) pontja esetén kizárólag a kezességvállalással biztosított portfólió várt veszteségét fedező kezességvállalás nyújtható díjmentesen. Ha a kezességvállalás a nem tervezett veszteség fedezésére is szolgál, a pénzügyi közvetítő a kezességvállalásnak a nem tervezett veszteséget fedező részére piaci mértékű kezességvállalási díjat fizet.
 
-(3)[^203] A végső kedvezményezett számára kezességvállalást, hitelt vagy adósságként strukturált kvázisajáttőke-befektetést nyújtó kockázatfinanszírozási célú intézkedésnek a következő feltételeket kell teljesítenie:
+(3)[^208] A végső kedvezményezett számára kezességvállalást, hitelt vagy adósságként strukturált kvázisajáttőke-befektetést nyújtó kockázatfinanszírozási célú intézkedésnek a következő feltételeket kell teljesítenie:
 
 a) az intézkedés eredményeként a pénzügyi közvetítő olyan befektetést valósít meg, amely a támogatás elmaradása esetén nem, illetve csak korlátozott vagy eltérő módon valósult volna meg, továbbá a pénzügyi közvetítőnek igazolnia kell, hogy olyan mechanizmust működtet, amely biztosítja, hogy az intézkedés által nyújtott gazdasági előny nagyobb mértékű finanszírozás, kockázatosabb portfólió finanszírozása, a szükséges fedezet mértékének, a kezességvállalási díjnak vagy a kamatlábaknak a csökkentése által a lehető legteljesebb mértékben átadásra kerül a végső kedvezményezettnek,
 
-b)[^204] hitel és adósságként strukturált kvázisajáttőke-befektetés esetén a 38. § (1) bekezdése szerinti legmagasabb befektetési összeg nagyságának megállapítása során a hitel és adósságként strukturált kvázisajáttőke-befektetés névértékét kell figyelembe venni, és
+b)[^209] hitel és adósságként strukturált kvázisajáttőke-befektetés esetén a 38. § (1) bekezdése szerinti legmagasabb befektetési összeg nagyságának megállapítása során a hitel és adósságként strukturált kvázisajáttőke-befektetés névértékét kell figyelembe venni, és
 
 c) kezességvállalás esetén a 38. § (1) bekezdése szerinti legmagasabb befektetési összeg nagyságának megállapítása során a hitel névértékét kell figyelembe venni, továbbá a kezességvállalással a fennálló hitel legfeljebb 80%-a biztosítható.
 
@@ -28,5 +28,5 @@ c) a végső kedvezményezettnek biztosított kockázatfinanszírozás olyan él
 
 d) minden tőkebefektetésre és kvázisajáttőke-befektetésre vonatkozóan világos és reális kilépési stratégia kerül kidolgozásra.
 
-[^203]: A 41. § (3) bekezdés nyitó szövegrésze a 365/2017. (XII. 5.) Korm. rendelet 20. § 8. pontja szerint módosított szöveg.
-[^204]: A 41. § (3) bekezdés b) pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 9. pontja szerint módosított szöveg.
+[^208]: A 41. § (3) bekezdés nyitó szövegrésze a 365/2017. (XII. 5.) Korm. rendelet 20. § 8. pontja szerint módosított szöveg.
+[^209]: A 41. § (3) bekezdés b) pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 9. pontja szerint módosított szöveg.

@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-255-20-
 | 2018-09-21 | 2014-255-20-22.11 | 165/2018. (IX. 11.) Korm. rendelet |
 | 2020-04-11 | 2014-255-20-22.12 | 107/2020. (IV. 10.) Korm. rendelet |
 | 2020-11-14 | 2014-255-20-22.13 | 491/2020. (XI. 11.) Korm. rendelet |
+| 2020-12-27 | 2014-255-20-22.14 | 662/2020. (XII. 24.) Korm. rendelet |

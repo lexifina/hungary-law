@@ -10,6 +10,6 @@
 
 (5) A kedvezményezett a támogatásról olyan elkülönített elszámolást köteles vezetni, amelyből a (2)–(4) bekezdésben meghatározott követelmények ellenőrizhetőek.
 
-(6)[^229] A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.
+(6)[^237] A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.
 
-[^229]: A 102. § (6) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 17. §-a iktatta be.
+[^237]: A 102. § (6) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 17. §-a iktatta be.
