@@ -206,6 +206,8 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 
 (94) E törvénynek a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvénnyel megállapított 22/C. § (4c) bekezdése első alkalommal a 2020. április 16. napján folyamatban lévő, jóváhagyott sportfejlesztési programokkal összefüggésben alkalmazandó.
 
+(95) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 22/E. § (8) bekezdés f) pontját első alkalommal ezen rendelkezés hatálybalépését követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében kell alkalmazni.
+
 (96) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 8. § (5e) bekezdését a 2020-ban kezdődő adóévében az adózó választása szerint alkalmazza.
 
 (97) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 22/C. § (1a) és (4d) bekezdését első alkalommal a 2020. évben kezdődő adóévre lehet alkalmazni.

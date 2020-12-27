@@ -38,6 +38,8 @@ d) a halászati és akvakultúra-termékek piacának közös szervezéséről, a
 
 e) ha az adózóval szemben teljesítetlen visszafizetési felszólítás van érvényben olyan európai bizottsági határozat eredményeként, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított.
 
+f) ha a beruházás, a felújítás tárgya a 4. § 31/c. pontja szerinti személygépkocsi, kivéve a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjárművet, amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.
+
 (9) Az adózónak külön nyilvántartást kell vezetnie, amely tartalmazza a beruházás, felújítás keretében üzembe helyezett, nyilvántartásba vett, az elszámolható költség részét képező, továbbá a kötelező üzemeltetési időszak alatt az állományból kikerült, illetve a szinten tartást szolgáló valamennyi eszköz
 
 a) üzembe helyezésének, nyilvántartásba vételének időpontját és helyét;

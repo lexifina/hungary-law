@@ -37,7 +37,3 @@ A közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. �
 1. a közhasznú tevékenységből származó bevételnek az a része, amely a társadalmi közös szükséglet kielégítéséért felelős szervvel – helyi önkormányzattal vagy a költségvetési törvényben meghatározott fejezettel, illetve a fejezeten belül önálló költségvetéssel rendelkező intézménnyel – folyamatos szolgáltatás teljesítésére megkötött, a szolgáltatásért felszámítható díj mértékét és a díj változtatásának feltételeit is tartalmazó szerződés alapján folytatott tevékenységből származik;
 
 2. az 1. pont szerinti tevékenységhez kapott támogatás, juttatás;
-
-3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység bevétele az összes bevételben képvisel azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
-
-F)
