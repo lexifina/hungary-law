@@ -1,4 +1,4 @@
-## V/A. Fejezet[^174]
+## V/A. Fejezet[^175]
 
 ## EGYES ÁLLAMI TÁMOGATÁSI PROGRAMOK SAJÁTOS SZABÁLYAI
 
@@ -38,9 +38,9 @@ d) a támogatandó cél másképp nem érhető el vagy az időmúlás következt
 
 (4) A pályázaton kívüli támogatási kérelmet megfelelő dokumentumokkal és adatokkal alá kell támasztani és meg kell jelölni az igényelt költségvetési támogatás nagyságát.
 
-## VI. Fejezet[^175]
+## VI. Fejezet[^176]
 
 ## 12.
 
-[^174]: Az V/A. fejezetet (27. §) a 397/2014. (XII. 31.) Korm. rendelet 69. §-a iktatta be.
-[^175]: A VI. Fejezetet (28–32. §) a 42. § b) pontja hatályon kívül helyezte.
+[^175]: Az V/A. fejezetet (27. §) a 397/2014. (XII. 31.) Korm. rendelet 69. §-a iktatta be.
+[^176]: A VI. Fejezetet (28–32. §) a 42. § b) pontja hatályon kívül helyezte.
