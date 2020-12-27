@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti információk a következők:
 
-a) az adótervezésben közreműködő és az érintett adózó azonosító adatai (név, természetes személyek esetén születési idő és hely, adóügyi illetőség, adóazonosító szám, ennek hiányában azzal egyenértékű azonosító, ha ilyennel rendelkezik), valamint az érintett adózónak a konstrukcióban szereplő kapcsolt vállalkozása,
+a) az adótervezésben közreműködő és az érintett adózó azonosító adatai (név, cím, természetes személyek esetén születési idő és hely, adóügyi illetőség, adóazonosító szám, ennek hiányában azzal egyenértékű azonosító, ha ilyennel rendelkezik), valamint az érintett adózónak a konstrukcióban szereplő kapcsolt vállalkozása,
 
 b) a határokon átnyúló konstrukcióra vonatkozó adatszolgáltatási kötelezettséget keletkeztető, a 4. mellékletben meghatározott ismertetőjegy(ek) részletes leírása,
 
