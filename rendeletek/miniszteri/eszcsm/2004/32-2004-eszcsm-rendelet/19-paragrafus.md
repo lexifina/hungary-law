@@ -2,6 +2,6 @@
 
 ## Eljárási szabályok
 
-19. §[^62]
+19. §[^64]
 
-[^62]: A 19. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § g) pontja hatályon kívül helyezte.
+[^64]: A 19. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § g) pontja hatályon kívül helyezte.

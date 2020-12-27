@@ -1,3 +1,3 @@
-10/F. §[^38]
+10/F. §[^40]
 
-[^38]: A 10/F. §-t a 10/2013. (I. 31.) EMMI rendelet 7. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja.
+[^40]: A 10/F. §-t a 10/2013. (I. 31.) EMMI rendelet 7. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja.
