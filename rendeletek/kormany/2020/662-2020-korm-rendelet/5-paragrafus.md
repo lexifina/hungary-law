@@ -1,7 +1,3 @@
-## 4. § A 255/2014. (X. 10.) Korm. rendelet 15. §-a a következő 16. ponttal egészül ki:
+## 4. §[^12]
 
-## (Ha a 14. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 14. §)
-
-## „16. 10. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás”
-
-## (nyújtható.)
+[^12]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

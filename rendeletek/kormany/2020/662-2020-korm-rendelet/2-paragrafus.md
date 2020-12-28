@@ -1,23 +1,32 @@
-## „(11a) A kifizető ügynökség a kedvezményezett kérelmére a 2007. évi XVII. törvény 55/C. §-a alapján hatósági bizonyítványt állít ki a 11. § (5) bekezdése szerinti nyilvántartásban szereplő adatokról. A hatósági bizonyítvány kiállításához kapcsolódó eljárás során kötelező az elektronikus kapcsolattartás. A kérelmet elektronikus úton, ügyfélkapus azonosítással elérhető elektronikus űrlapkitöltő felületen keresztül kell benyújtani. Az elektronikus kapcsolattartásra tekintettel az eljárás során kiállított hatósági bizonyítvány közlése elektronikus úton történik.”
+## 1. §[^1]
 
 ## 2. § A 37/2011. (III. 22.) Korm. rendelet
 
-a) 11. § (5) bekezdésében a „kifizető ügynökség” szövegrész helyébe a „Magyar Államkincstár mint kifizető ügynökség (a továbbiakban: kifizető ügynökség)” szöveg,
+a)[^2]
 
-b) 11. § (6) bekezdésében a „kincstár” szövegrészek helyébe a „Kincstár” szöveg,
+b)[^3]
 
-c) 11. § (7) bekezdésében a „kincstár” szövegrész helyébe a „Kincstár” szöveg,
+c)[^4]
 
-d) 11. § (9) bekezdésében a „megkeresi” szövegrész helyébe az „elektronikus úton megkeresi” szöveg, és az „adatot” szövegrész helyébe az „elektronikus úton adatot” szöveg,
+d)[^5]
 
-e) 11/A. § (3) bekezdésében az „igénylésekor” szövegrész helyébe az „igénylésekor elektronikus úton a kifizető ügynökség által meghatározott módon” szöveg,
+e)[^6]
 
-f) 11/A. § (4) bekezdésében az „ügynökségnek” szövegrész helyébe az „ügynökségnek elektronikus úton” szöveg,
+f)[^7]
 
-g) 11/A. § (6) bekezdésében a „tényéről” szövegrész helyébe a „tényéről elektronikus úton” szöveg,
+g)[^8]
 
-h) 11/A. § (8) bekezdésében a „részére” szövegrész helyébe a „részére elektronikus úton” szöveg,
+h)[^9]
 
-i)[^1]
+i)[^10]
 
-[^1]: A 2. § i) pontja a 10. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 2. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 2. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 2. § i) pontja a 10. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## „e) a 41/A–41/C., a 48/A. és az 51–69. alcím szerinti támogatás esetén 2021. június 30-ig”
+## 6. §[^14]
 
-## (lehet támogatási döntést hozni.)
+[^14]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
