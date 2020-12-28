@@ -1,5 +1,5 @@
-## 4. § A Gyr. 5/A. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) A 2. és 3. számú mellékletben foglaltaktól eltérően a panaszmentes, stabil állapotú betegek esetében a szakorvosi javaslat érvényességi ideje 24 hónap.”
+## 3–4. §[^2]
 
 ## 3. A várandósgondozásról szóló 26/2014. (IV. 8.) EMMI rendelet módosítása
+
+[^2]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
