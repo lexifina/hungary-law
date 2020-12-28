@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-24-20-7
 | --- | --- | --- |
 | 2019-08-17 | 2019-24-20-7Q.1 | 24/2019. (VIII. 14.) ITM rendelet |
 | 2019-08-18 | 2019-24-20-7Q.2 | 2010: CXXX. törvény |
+| 2020-12-28 | 2019-24-20-7Q.3 | 54/2020. (XII. 23.) ITM rendelet |

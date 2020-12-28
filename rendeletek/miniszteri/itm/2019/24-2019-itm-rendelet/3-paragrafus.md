@@ -1,4 +1,4 @@
-3. § (1) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 3/B. § (7) bekezdésében meghatározott, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatok végrehajtására a KTI Nonprofit Kft.-t jelölöm ki.
+3. § (1)[^1] A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 3/B. § (7) bekezdésében meghatározott, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatok, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosításának végrehajtására a KTI Nonprofit Kft.-t jelölöm ki.
 
 (2) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 3/B. § (7) bekezdésében meghatározott feladatok keretében a KTI Nonprofit Kft. a következő feladatokat végzi:
 
@@ -18,4 +18,12 @@ g) a forgalomtechnikai jellegű intézkedések megvalósításához helyszíni t
 
 h) a vasúti közlekedés biztonságának növelése, a vasúti közlekedés fejlesztése érdekében szakmai támogatás nyújtása, elemzések, tanulmányok készítése, kutatások, vizsgálatok végzése, a vasúti közlekedési hatósági feladatokhoz kapcsolódóan;
 
-i) a veszélyes áruk vasúti szállításának szakterületén a nemzetközi szerződések, európai uniós jogi aktusok hazai alkalmazásával kapcsolatos kutatások, vizsgálatok végzése.
+i) a veszélyes áruk vasúti szállításának szakterületén a nemzetközi szerződések, európai uniós jogi aktusok hazai alkalmazásával kapcsolatos kutatások, vizsgálatok végzése;
+
+j)[^2] a vasúti közlekedés területén az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzésével összefüggésben az európai uniós jogi aktusokban és a jogszabályokban meghatározott EK és NSZ hitelesítési eljárásokhoz kapcsolódó tanúsítványok ellenőrzése és nyilvántartása, amennyiben az ellenőrzés során az adott vonalszakasz nem rendelkezik tanúsítvánnyal, ott az európai uniós jogi aktusokban és a jogszabályokban meghatározott EK hitelesítés eljárás és NSZ hitelesítési eljárás lefolytatása;
+
+k)[^3] az vasúti közlekedés területén az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzésével összefüggésben az európai uniós előírásoknak való teljes körű adminisztrációs megfelelés biztosításához kapcsolódó feladatok elvégzése.
+
+[^1]: A 3. § (1) bekezdése az 54/2020. (XII. 23.) ITM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdés j) pontját az 54/2020. (XII. 23.) ITM rendelet 2. §-a iktatta be.
+[^3]: A 3. § (2) bekezdés k) pontját az 54/2020. (XII. 23.) ITM rendelet 2. §-a iktatta be.
