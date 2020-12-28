@@ -1,3 +1,3 @@
-## 1. § A vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet [a továbbiakban: 289/2012. (X. 11.) Korm. rendelet] 1. alcíme a következő 8/C. §-sal egészül ki:
+## 1. §[^2]
 
-## „8/C. § Az e rendelet szerinti rendszerintegritási megfelelőségértékelési tevékenységet olyan szervezet végezheti, amely az adott strukturális vasúti alrendszer vonatkozásában hatályos bejelentett szervezeti és kijelölt szervezeti kijelöléssel rendelkezik. A rendszerintegritási megfelelőségértékelést végző szervezet eljárására a vasutak kölcsönös átjárhatóságának és az ezzel kapcsolatos engedélyezési eljárások, valamint a vasúti pályahálózat nyilvántartása vezetésének részletes szabályairól szóló kormányrendeletben, valamint az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokról szóló miniszteri rendeletben foglaltakat megfelelően alkalmazni kell.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
