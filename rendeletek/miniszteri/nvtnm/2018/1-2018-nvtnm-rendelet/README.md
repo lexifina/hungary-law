@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7P
 | 2020-11-12 | 2018-1-20-7P.41 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2020-12-01 | 2018-1-20-7P.42 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2020-12-04 | 2018-1-20-7P.43 | 3/2018. (VIII. 1.) NVTNM rendelet |
+| 2020-12-29 | 2018-1-20-7P.44 | 3/2018. (VIII. 1.) NVTNM rendelet |

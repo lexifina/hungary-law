@@ -82,7 +82,7 @@
 
 | 2. | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság | 09-09-016747 | 2022. december 31. |
 
-| 3. |  |  |  |
+| 3. | AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-377109 | 2022. december 31. |
 
 ## III. Tulajdonosi joggyakorló: a Belügyminisztérium
 
@@ -257,6 +257,8 @@
 | 7. | Adria Port Zártkörűen Működő Részvénytársaság | 01-10-140567 | 2022. december 31. |
 
 | 8. | KKM Subsidium Korlátolt Felelősségű Társaság | 01-09-355242 | 2022. december 31. |
+
+| 9 | CEI Közép-európai Befektetési Zártkörűen Működő Részvénytársaság | 01-10-141090 | 2022. december 31. |
 
 ## IX. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
