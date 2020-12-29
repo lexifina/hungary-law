@@ -1,0 +1,3 @@
+## 12. § A Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 10. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) E rendeletnek az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet és a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet módosításáról szóló 678/2020. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. § (2) bekezdését minden olyan, a Kormány határozatán alapuló előkészítési ügyben is alkalmazni kell, amelynél az előkészítési fázisok teljesítésének véghatárideje a Módr2. hatálybalépése napját követően jár le.”
