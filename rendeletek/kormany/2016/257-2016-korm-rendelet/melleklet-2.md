@@ -1,34 +1,38 @@
 ## Az önkormányzati ASP rendszer szolgáltatásainak üzemeltetési és rendszertámogatási feladatainak ellátása
 
-|  | A | B | C | D |
+|  | A | B | C | D | E |
 
-|  | Az önkormányzati ASP rendszer eleme | szolgáltatási szint |
+|  |  | szolgáltatási szint |  |
 
-| ügyféltámogatás | alkalmazás-üzemeltetés | rendszertámogatás |
+|  | Az önkormányzati ASP rendszer eleme | ügyféltámogatás | alkalmazásüzemeltetés | alkalmazásüzemeltetés- támogatás | alkalmazásfejlesztési feladatok |
 
-| 1. | iratkezelő rendszer | Kincstár | NISZ Zrt. | NISZ Zrt. |
+| 1. | iratkezelő rendszer | Kincstár | NISZ Zrt. | NISZ Zrt. | NISZ Zrt. |
 
-| 2. | önkormányzati települési portál rendszer | Kincstár | NISZ Zrt. | NISZ Zrt. |
+| 2. | önkormányzati települési portál rendszer | Kincstár | NISZ Zrt. | NISZ Zrt. | NISZ Zrt |
 
-| 3. | elektronikus ügyintézési portál rendszer, ideértve az elektronikus űrlap-szolgáltatást | Kincstár | NISZ Zrt. | NISZ Zrt. |
+| 3. | elektronikus ügyintézési portál rendszer | Kincstár | NISZ Zrt | NISZ Zrt. | NISZ Zrt |
 
-| 4. | gazdálkodási rendszer | Kincstár | IdomSoft Zrt. | IdomSoft Zrt. |
+| 4. | elektronikus űrlapkezelő rendszer | Kincstár | NISZ Zrt | KOPINT-DATORG Kft. | KOPINT-DATORG Kft. |
 
-| 5. | ingatlanvagyon-kataszter rendszer | Kincstár | Kincstár | Kincstár |
+| 5. | gazdálkodási rendszer | Kincstár | IdomSoft Zrt. | IdomSoft Zrt. | IdomSoft Zrt. |
 
-| 6. | önkormányzati adórendszer | Kincstár | KINCSINFO Nonprofit Kft. | KINCSINFO Nonprofit Kft. |
+| 6. | önkormányzati naplóelemző rendszer | Kincstár | IdomSoft Zrt. | IdomSoft Zrt. | IdomSoft Zrt. |
 
-| 7. | ipar- és kereskedelmi rendszer | Kincstár | Kincstár | Kincstár |
+| 7. | ingatlanvagyon-kataszter rendszer | Kincstár | Kincstár | Kincstár | Kincstár |
 
-| 8. | támogató rendszerek | Kincstár | Kincstár | Kincstár |
+| 8. | önkormányzati adórendszer | Kincstár | KINCSINFO Nonprofit Kft. | KINCSINFO Nonprofit Kft. | KINCSINFO Nonprofit Kft. |
 
-| 9. | önkormányzati adattárház | Kincstár | Kincstár (az adatbetöltő és adatfeldolgozási folyamatok működtetését is beleértve) | Kincstár |
+| 9. | ipar- és kereskedelmi rendszer | Kincstár | Kincstár | Kincstár | Kincstár |
 
-| 10. | keretrendszer | Kincstár | Kincstár | Kincstár |
+| 10. | támogató rendszerek | Kincstár | Kincstár | Kincstár | Kincstár |
 
-| 11. | hagyatéki leltár rendszer | Kincstár | Kincstár | Kincstár |
+| 11. | önkormányzati adattárház | Kincstár | Kincstár (az adatbetöltő és adatfeldolgozási folyamatok működtetését is beleértve) | Kincstár | Kincstár |
 
-2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^48]
+| 12. | keretrendszer | Kincstár | Kincstár | Kincstár | Kincstár |
+
+| 13. | hagyatéki leltár rendszer | Kincstár | Kincstár | Kincstár | Kincstár |
+
+2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^49]
 
 ## Az önkormányzati ASP rendszer szakrendszereinek használatához szükséges felhasználói (önkormányzati) munkaállomásokkal szembeni minimális elvárások
 
@@ -186,4 +190,4 @@
 
 | Ajánlott feltételek: A kormányzati hálózatfejlesztési koncepciókkal összhangban valamennyi településtípus ajánlott sávszélessége minimum 30/30 Mbit/sec szimmetrikus sávszélesség |
 
-[^48]: A 2. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (1) bekezdésével, a 75/2019. (IV. 9.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^49]: A 2. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (1) bekezdésével, a 75/2019. (IV. 9.) Korm. rendelet 9. §-a szerint módosított szöveg.
