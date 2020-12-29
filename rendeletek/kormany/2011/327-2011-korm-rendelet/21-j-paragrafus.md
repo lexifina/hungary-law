@@ -1,4 +1,4 @@
-21/J. § (1)[^138] A Szociális és Gyermekvédelmi Főigazgatóság a munkaadónak képzési célú támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy képzéséhez, ha
+21/J. § (1)[^140] A Szociális és Gyermekvédelmi Főigazgatóság a munkaadónak képzési célú támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy képzéséhez, ha
 
 a) a rehabilitációs szolgáltatásban részesülő személy annak eredményeként alkalmassá válhat a munkaadó munkaerőigényében megjelölt munkakör betöltésére, és a munkakör foglalkozási rehabilitációs célú munkaerő-közvetítéssel nem tölthető be, vagy
 
@@ -24,4 +24,4 @@ c) a C, D vagy E járműkategóriába vagy ezek alkategóriáiba, kombinált kat
 
 (6) A képzésen részt vevőket a munkaadó választja ki a támogatásba bevonható, rehabilitációs szolgáltatásban részesülő személyek közül.
 
-[^138]: A 21/J. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^140]: A 21/J. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.

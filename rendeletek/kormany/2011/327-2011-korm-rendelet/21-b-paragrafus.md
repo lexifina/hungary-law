@@ -8,7 +8,7 @@
 
 (4) Az adatlap és az elektronikus űrlap tartalmazza
 
-a) a kérelmező nevét, székhelyét, telephelyét, cégjegyzékszámát, adószámát, pénzforgalmi jelzőszámát, egyéni vállalkozó esetén a nyilvántartási számát vagy a vállalkozói igazolvány számát, a cégbejegyzésre nem kötelezett szervezet esetén a bírósági nyilvántartásba vételi számát,
+a)[^94] a kérelmező nevét, székhelyét, telephelyét, cégjegyzékszámát, adószámát, pénzforgalmi jelzőszámát, egyéni vállalkozó esetén a nyilvántartási számát, a cégbejegyzésre nem kötelezett szervezet esetén a bírósági nyilvántartásba vételi számát,
 
 b) a kérelmező képviselőjének nevét, beosztását és elérhetőségét,
 
@@ -26,7 +26,7 @@ ab) a 3. melléklet szerinti rehabilitációs szolgáltatási tervet, továbbá
 
 b) egyéni vállalkozó esetén az egyéni vállalkozó közjegyző által hitelesített aláírásmintáját, valamint
 
-ba) a vállalkozói igazolvány másolatát,
+ba)[^95]
 
 bb) az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változásbejelentésről kiadott, a kérelmező hatályos adatait tartalmazó igazolások másolatát, vagy
 
@@ -48,21 +48,23 @@ dc) az egyesület és az alapítvány írásbeli képviseletére jogosult szemé
 
 (6) Ha a kérelmező nem csatolja
 
-a)[^94] az (5) bekezdés b) pontja szerinti iratokat, a Budapest Főváros Kormányhivatala az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában feltüntetett adatait az egyéni vállalkozók nyilvántartásából,
+a)[^96] az (5) bekezdés b) pontja szerinti iratokat, a Budapest Főváros Kormányhivatala az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában feltüntetett adatait az egyéni vállalkozók nyilvántartásából,
 
-b)[^95] az egyesület és az alapítvány hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, a Budapest Főváros Kormányhivatala a bírósági nyilvántartásba bejegyzett hatályos adatokat a bíróság nyilvántartásából
+b)[^97] az egyesület és az alapítvány hatályos adatairól kiadott, 3 hónapnál nem régebbi kivonatot, a Budapest Főváros Kormányhivatala a bírósági nyilvántartásba bejegyzett hatályos adatokat a bíróság nyilvántartásából
 
 ## szerzi be, illetve ellenőrzi.
 
-(7)[^96] Ha a kérelmező cégjegyzékben nyilvántartott cég, a Budapest Főváros Kormányhivatala a cégkivonatot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a Budapest Főváros Kormányhivatala az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(7)[^98] Ha a kérelmező cégjegyzékben nyilvántartott cég, a Budapest Főváros Kormányhivatala a cégkivonatot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a Budapest Főváros Kormányhivatala az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(8)[^97] A Budapest Főváros Kormányhivatala valamennyi kérelmező esetében közvetlenül a köztartozásmentes adózói adatbázisból ellenőrzi, hogy a kérelmező köztartozásmentes adózónak minősül-e.
+(8)[^99] A Budapest Főváros Kormányhivatala valamennyi kérelmező esetében közvetlenül a köztartozásmentes adózói adatbázisból ellenőrzi, hogy a kérelmező köztartozásmentes adózónak minősül-e.
 
 [^90]: A 10. alcímet (21/B–21/E. §) újonnan a 117/2016. (VI. 6.) Korm. rendelet 10. §-a iktatta be.
 [^91]: A 21/B. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 370. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^92]: A 21/B. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 370. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^93]: A 21/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja szerint módosított szöveg.
-[^94]: A 21/B. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^95]: A 21/B. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
-[^96]: A 21/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja, a 393/2017. (XII. 13.) Korm. rendelet 42. §-a szerint módosított szöveg.
-[^97]: A 21/B. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^94]: A 21/B. § (4) bekezdés a) pontja a 668/2020. (XII. 28.) Korm. rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^95]: A 21/B. § (5) bekezdés b) pont ba) alpontját a 668/2020. (XII. 28.) Korm. rendelet 29. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^96]: A 21/B. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^97]: A 21/B. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.
+[^98]: A 21/B. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés f) pontja, a 393/2017. (XII. 13.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^99]: A 21/B. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés g) pontja szerint módosított szöveg.

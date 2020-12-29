@@ -1,4 +1,4 @@
-21/H. § (1)[^119] A Szociális és Gyermekvédelmi Főigazgatóság a 21/G. § szerinti képzésben részt vevő, rehabilitációs szolgáltatásban részesülő személynek a következő képzési célú támogatásokat nyújthatja:
+21/H. § (1)[^121] A Szociális és Gyermekvédelmi Főigazgatóság a 21/G. § szerinti képzésben részt vevő, rehabilitációs szolgáltatásban részesülő személynek a következő képzési célú támogatásokat nyújthatja:
 
 a) a képző intézmény által megállapított képzési költséghez nyújtott támogatás,
 
@@ -8,7 +8,7 @@ c) megélhetést biztosító támogatás,
 
 d) a képzéshez kapcsolódó helyi és a helyközi utazás költségének vagy a saját gépjárművel történő utazás költségének a megtérítése.
 
-(2)[^120] A Szociális és Gyermekvédelmi Főigazgatóság a képző intézmény által megállapított képzési költség egészéhez vagy annak egy részéhez képzési célú támogatást nyújthat
+(2)[^122] A Szociális és Gyermekvédelmi Főigazgatóság a képző intézmény által megállapított képzési költség egészéhez vagy annak egy részéhez képzési célú támogatást nyújthat
 
 a) az oktatók részére fizetett ellenértékre és annak járulékaira,
 
@@ -24,15 +24,15 @@ f) a (3) bekezdésben nem említett alkalmassági vizsgálat költségeire,
 
 g) a gyakorlati képzést bonyolító munkaadónak a rehabilitációs szolgáltatásban részesülő személy megváltozott munkaképességéből adódó többletköltségeire,
 
-h)[^121] legfeljebb a teljes támogatott képzési költség 20 százalékáig egyéb, a képzés megszervezésével, lebonyolításával, értékelésével kapcsolatos költségekre, így különösen bérleti díjra, adminisztrációs költségekre,
+h)[^123] legfeljebb a teljes támogatott képzési költség 20 százalékáig egyéb, a képzés megszervezésével, lebonyolításával, értékelésével kapcsolatos költségekre, így különösen bérleti díjra, adminisztrációs költségekre,
 
 i) a jogszabályban meghatározott vizsga- és vizsgáztatási díjhoz, kivéve a pótvizsga díja,
 
-j)[^122] a képzés során felhasznált, a hallgatóknak véglegesen átadott tankönyvek, taneszközök költségéhez.
+j)[^124] a képzés során felhasznált, a hallgatóknak véglegesen átadott tankönyvek, taneszközök költségéhez.
 
-(3)[^123] A Szociális és Gyermekvédelmi Főigazgatóság képzési célú támogatást nyújthat az általa kiállított beutalóban szereplő, a képzés megkezdéséhez szükséges – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletben meghatározott – képzést megelőző szakmai alkalmassági vizsgálat költségeinek egészéhez vagy annak egy részéhez.
+(3)[^125] A Szociális és Gyermekvédelmi Főigazgatóság képzési célú támogatást nyújthat az általa kiállított beutalóban szereplő, a képzés megkezdéséhez szükséges – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletben meghatározott – képzést megelőző szakmai alkalmassági vizsgálat költségeinek egészéhez vagy annak egy részéhez.
 
-(4)[^124] A Szociális és Gyermekvédelmi Főigazgatóság megélhetést biztosító támogatást nyújthat, ha a megváltozott munkaképességű személy
+(4)[^126] A Szociális és Gyermekvédelmi Főigazgatóság megélhetést biztosító támogatást nyújthat, ha a megváltozott munkaképességű személy
 
 a) nem áll munkaviszonyban vagy más foglalkoztatásra irányuló jogviszonyban,
 
@@ -40,11 +40,11 @@ b) a képzés időtartama az elméleti és gyakorlati oktatás időszakában het
 
 c) a képzésen igazolt módon részt vesz.
 
-(5)[^125] A megélhetést biztosító támogatás összege
+(5)[^127] A megélhetést biztosító támogatás összege
 
-a)[^126] a 21/G. § (1) bekezdés a) és b) pontja szerinti képzés időtartamára havonta a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegének legfeljebb 75%-a,
+a)[^128] a 21/G. § (1) bekezdés a) és b) pontja szerinti képzés időtartamára havonta a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegének legfeljebb 75%-a,
 
-b)[^127] a 21/G. § (1) bekezdés c)–f) pontja szerinti képzés időtartamára havonta a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegének legfeljebb 50%-a,
+b)[^129] a 21/G. § (1) bekezdés c)–f) pontja szerinti képzés időtartamára havonta a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegének legfeljebb 50%-a,
 
 ## azzal, hogy a megélhetést biztosító támogatás és a rehabilitációs szolgáltatásban részesülő személy rehabilitációs ellátásának vagy rokkantsági ellátásának együttes összege nem haladhatja meg a megélhetést biztosító támogatás megállapításakor hatályos kötelező legkisebb munkabér havi összegét.
 
@@ -54,18 +54,18 @@ a) a képzés időtartamára járó teljes támogatás 60%-a havi egyenlő rész
 
 b) a képzés sikeres elvégzését, lezárását követően a megállapított teljes támogatás 40%-a egy összegben.
 
-(7)[^128] A Szociális és Gyermekvédelmi Főigazgatóság képzési célú támogatást nyújthat a ténylegesen felmerülő és a képzéshez kapcsolódó helyi és a helyközi utazás költségének egészéhez vagy annak egy részéhez. A Szociális és Gyermekvédelmi Főigazgatóság az utazási időt és a várható költségeket figyelembe véve dönt az utazási költségek támogatásának a mértékéről.
+(7)[^130] A Szociális és Gyermekvédelmi Főigazgatóság képzési célú támogatást nyújthat a ténylegesen felmerülő és a képzéshez kapcsolódó helyi és a helyközi utazás költségének egészéhez vagy annak egy részéhez. A Szociális és Gyermekvédelmi Főigazgatóság az utazási időt és a várható költségeket figyelembe véve dönt az utazási költségek támogatásának a mértékéről.
 
-(8)[^129] Mozgásában korlátozott személy parkolási igazolványával rendelkező, rehabilitációs szolgáltatásban részesülő személy esetén a Szociális és Gyermekvédelmi Főigazgatóság a rehabilitációs szolgáltatásban részesülő személy vagy házastársának, élettársának tulajdonában lévő gépjármű használatára is nyújthat képzési célú támogatást. A képzési célú támogatás a lakóhely, tartózkodási hely és a képzés helye közötti legrövidebb útvonal szerinti futásteljesítményre, a személyi jövedelemadóról szóló szabályok alkalmazásával meghatározott amortizációs normaköltség és üzemanyagköltség egészéhez vagy annak egy részéhez nyújtható.
+(8)[^131] Mozgásában korlátozott személy parkolási igazolványával rendelkező, rehabilitációs szolgáltatásban részesülő személy esetén a Szociális és Gyermekvédelmi Főigazgatóság a rehabilitációs szolgáltatásban részesülő személy vagy házastársának, élettársának tulajdonában lévő gépjármű használatára is nyújthat képzési célú támogatást. A képzési célú támogatás a lakóhely, tartózkodási hely és a képzés helye közötti legrövidebb útvonal szerinti futásteljesítményre, a személyi jövedelemadóról szóló szabályok alkalmazásával meghatározott amortizációs normaköltség és üzemanyagköltség egészéhez vagy annak egy részéhez nyújtható.
 
-[^119]: A 21/H. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^120]: A 21/H. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^121]: A 21/H. § (2) bekezdés h) pontja a 304/2018. (XII. 27.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
-[^122]: A 21/H. § (2) bekezdés j) pontját a 304/2018. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
-[^123]: A 21/H. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^124]: A 21/H. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^125]: A 21/H. § (5) bekezdés záró szövegrésze a 304/2018. (XII. 27.) Korm. rendelet 4. § h) és i) pontja szerint módosított szöveg.
-[^126]: A 21/H. § (5) bekezdés a) pontja a 304/2018. (XII. 27.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
-[^127]: A 21/H. § (5) bekezdés b) pontja a 304/2018. (XII. 27.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
-[^128]: A 21/H. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés e) pontja szerint módosított szöveg.
-[^129]: A 21/H. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^121]: A 21/H. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^122]: A 21/H. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^123]: A 21/H. § (2) bekezdés h) pontja a 304/2018. (XII. 27.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^124]: A 21/H. § (2) bekezdés j) pontját a 304/2018. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^125]: A 21/H. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^126]: A 21/H. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^127]: A 21/H. § (5) bekezdés záró szövegrésze a 304/2018. (XII. 27.) Korm. rendelet 4. § h) és i) pontja szerint módosított szöveg.
+[^128]: A 21/H. § (5) bekezdés a) pontja a 304/2018. (XII. 27.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^129]: A 21/H. § (5) bekezdés b) pontja a 304/2018. (XII. 27.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^130]: A 21/H. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés e) pontja szerint módosított szöveg.
+[^131]: A 21/H. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
