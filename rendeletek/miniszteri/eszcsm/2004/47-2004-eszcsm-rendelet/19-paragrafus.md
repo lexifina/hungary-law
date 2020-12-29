@@ -36,6 +36,9 @@ g) infektológia a progresszivitás harmadik szintjén.
 
 (3)[^40] Speciális akut ellátási centrumot egy-egy térség ellátására reumatológia szakterületen a progresszivitás harmadik szintjén levő országos gyógyintézetek és országos társ-gyógyintézetek működtetnek.
 
+(4)[^41] Speciális akut sportsérülés ellátási centrumot ortopédia szakterületen, a progresszivitás második szintjén levő Országos Sportegészségügyi Intézet működtet.
+
 [^38]: A 19. § a 41/2014. (VI. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
 [^39]: A 19. § (2) bekezdés nyitó szövegrésze a 38/2017. (XII. 29.) EMMI rendelet 5. §-a szerint módosított szöveg.
 [^40]: A 19. § (3) bekezdését a 44/2018. (XII. 19.) EMMI rendelet 4. §-a iktatta be.
+[^41]: A 19. § (4) bekezdését az 50/2020. (XII. 28.) EMMI rendelet 3. §-a iktatta be.
