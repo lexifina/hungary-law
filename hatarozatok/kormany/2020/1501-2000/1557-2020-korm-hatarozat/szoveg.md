@@ -6,7 +6,7 @@ A Kormány
 
 3. a Beruházás előkészítésére és megvalósítására a Beruházási Ügynökséget jelöli ki;
 
-4. a Beruházás I. ütemének az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § a), b), c), e), g), l), n), o) és p) pontja szerinti, valamint a Beruházás II. ütemének a Korm. rendelet 4. § a) és g) pontja szerinti előkészítési fázisai 2021. december 31. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 440 000 000 forintban határozza meg;
+4.[^1] a Beruházás I. ütemének az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § a), b), c), e), g) és m) pontja szerinti, valamint a Beruházás II. ütemének a Korm. rendelet 4. § a) és g) pontja szerinti előkészítési fázisai 2021. június 30. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 144 000 000 forintban határozza meg;
 
 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 28. Emelt szintű könnyűzenei képzési központ előkészítése alcímmel egészíti ki;
 
@@ -41,3 +41,5 @@ b) készítsen előterjesztést a Kormány részére a Beruházás II. üteméne
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2022. június 30.
+
+[^1]: A 4. pont a 2045/2020. (XII. 29.) Korm. határozattal megállapított szöveg.
