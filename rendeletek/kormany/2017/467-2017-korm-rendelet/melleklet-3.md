@@ -146,7 +146,7 @@
 
 | 22 | KÖFOP-2.1.4-VEKOP- 16-2016-00001 | Külgazdasági és Külügyminisztérium | A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése | 22.1. Külügyi Humánerőforrás-gazdálkodási és Oktatási Rendszer (KHOR) |
 
-| 22.2. Intranet Portál |
+| 22.2. |
 
 | 23 | KÖFOP-2.2.3-VEKOP- 16-2016-00001 | Nemzeti Védelmi Szolgálat | Kapacitásfejlesztés és szemléletformálás a korrupciós esetek nagyobb arányú felderítése, illetve megelőzése érdekében | 23.1. NVSZ nyílt rendszere |
 
