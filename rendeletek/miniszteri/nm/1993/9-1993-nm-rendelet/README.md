@@ -65,3 +65,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2020-11-01 | 1993-9-20-3D.123 | 62/2007. (XII. 29.) EüM rendelet |
 | 2020-11-02 | 1993-9-20-3D.124 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2020-11-18 | 1993-9-20-3D.125 | 40/2020. (XI. 17.) EMMI rendelet |
+| 2020-12-29 | 1993-9-20-3D.126 | 50/2020. (XII. 28.) EMMI rendelet |
