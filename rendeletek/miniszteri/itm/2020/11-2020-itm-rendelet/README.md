@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-11-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-08 | 2020-11-20-7Q.1 | 11/2020. (IV. 7.) ITM rendelet |
+| 2020-12-29 | 2020-11-20-7Q.2 | 17/2021. (IV. 14.) ITM rendelet |
