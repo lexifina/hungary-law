@@ -1,0 +1,128 @@
+# A Kormány 694/2020. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 294. szám, 2020. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9MMxm29cpqpTDzXt2ZL25fe3fc5245b21/dokumentumok/54202a631722cdb5c728e2c0975aedc074723f67/letoltes)
+
+---
+
+A Kormány 694/2020. (XII. 29.) Korm. rendelete
+az országos gyógyintézetek és az országos társgyógyintézetek működésének, valamint irányításának
+veszélyhelyzetben alkalmazandó szabályairól
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 6. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény 2. § (1) bekezdése szerinti országgyűlési
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Ez a rendelet a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet ideje alatt
+az állami fenntartású, egészségügyi szakellátást nyújtó egészségügyi szolgáltatók irányításának a veszélyhelyzetben
+alkalmazandó szabályairól szóló 507/2020. (XI. 17.) Korm. rendelet (a továbbiakban: R.) 1. § (2) bekezdés e) pontja
+szerinti egészségügyi szolgáltatók irányítására vonatkozó szabályokat határozza meg.
+(2) Országos gyógyintézetnek és országos társgyógyintézetnek az 1. melléklet szerinti egészségügyi szolgáltató
+minősül.
+2. §
+Az országos gyógyintézet és az országos társgyógyintézet vezetőjét – az országos kórház-főigazgató javaslatára –
+az egészségügyért felelős miniszter nevezi ki és menti fel.
+3. § (1) Az országos gyógyintézet tekintetében az országos kórház-főigazgató gyakorolja az alábbi irányítási jogköröket:
+a) a gyógyintézet szakmai felügyelete,
+b) a gyógyintézet költségvetésével kapcsolatos, jogszabályban meghatározott, az irányító szerv jogkörébe
+tartozó jogok gyakorlása,
+c) a jogszabályban meghatározott mértékű kapacitás módosulását eredményező szervezeti változások
+jóváhagyása,
+d) a költségvetési irányítás tekintetében a gyógyintézet éves költségvetési keretszámainak megállapítása
+és költségvetésének jóváhagyása, valamint az államháztartásról szóló törvény és a végrehajtási rendelete
+alapján az irányító szerv jogkörébe tartozó intézkedések megtétele,
+e) a gyógyintézet működését szabályozó dokumentumok (különösen szervezeti és működési szabályzat,
+házirend, szakmai program, munkaterv) jóváhagyása,
+f) a gyógyintézet működésének szakmai, illetve költségvetési ellenőrzése.
+
+(2) Az országos gyógyintézet tekintetében az országos kórház-főigazgató gyakorolja az alábbi szakmai fenntartói
+jogköröket:
+a) a gyógyintézet által kötendő egészségügyi ellátási szerződés jóváhagyása,
+b) a gyógyintézet kapacitásainak átcsoportosításával, csökkentésével, illetve szakmai összetételével kapcsolatos
+módosítás kezdeményezése,
+c) a gyógyintézet ellátási területe módosításának kezdeményezése,
+d) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges
+többletkapacitásra kötendő finanszírozási szerződés kezdeményezése,
+e) a gyógyintézetnek az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez
+való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására
+kiadott kormányrendelet szerint meghatározott esetben,
+f) a gyógyintézet működési engedélyének módosítása iránti kérelem előzetes jóváhagyása a gyógyintézet
+által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti rendelési idő
+tekintetében, valamint
+g) a gyógyintézet működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak
+meghosszabbításához való hozzájárulás.
+(3) A szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási
+szervnek a (2) bekezdés b) és c) pontja szerinti kezdeményezésnek megfelelően kell eljárnia.
+(4) Az országos gyógyintézet vezetője felett az R. szerinti alapvető munkáltatói jogokat és az R. szerinti egyéb
+munkáltatói jogokat – a 2. § szerinti kivétellel – az országos kórház-főigazgató gyakorolja.
+(5) Az országos gyógyintézet vezetőhelyettesei és egyéb foglalkoztatottjai felett
+a) az R. szerinti alapvető munkáltatói jogokat az országos kórház-főigazgató,
+b) az R. szerinti egyéb munkáltatói jogokat az országos gyógyintézet vezetője
+gyakorolja azzal, hogy a munkáltatói jogok gyakorlása az országos kórház-főigazgató által kiadott szabályzatban
+foglaltak szerint átruházható.
+(6) Az országos kórház-főigazgató felelősségi körébe tartozik az országos gyógyintézet tekintetében az egészségügyi
+szolgáltatás nyújtásához szükséges szakmai feltételek, valamint a gyógyintézet működőképességének biztosítása.
+(7) Az országos kórház-főigazgató e rendeletben megállapított jogköre nem vonható el, és a jogkör gyakorlása során
+az országos kórház-főigazgató nem utasítható.
+4. § (1) Az országos társgyógyintézet tevékenységét az 1. mellékletben meghatározott országos gyógyintézet irányítása
+alatt gyakorolja.
+(2) Az országos társgyógyintézet irányítására a 2. § és a 3. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
+a) az országos társgyógyintézet tekintetében a 3. § (1) és (2) bekezdése szerinti jogköröket az országos
+gyógyintézet vezetője,
+b) az országos társgyógyintézet vezetője tekintetében az R. szerinti alapvető munkáltatói jogokat – a 2. §
+szerinti kivétellel – az országos kórház-főigazgató, az R. szerinti egyéb munkáltatói jogokat az országos
+gyógyintézet vezetője,
+c) az országos társgyógyintézet vezetőhelyettesei és egyéb foglalkoztatottjai felett az R. szerinti alapvető
+munkáltatói jogokat az országos gyógyintézet vezetője, az R. szerinti egyéb munkáltatói jogokat az országos
+társgyógyintézet vezetője
+gyakorolja azzal, hogy a munkáltatói jogok gyakorlása az országos kórház-főigazgató által kiadott szabályzatban
+foglaltak szerint átruházható.
+(3) Az Országos Sportegészségügyi Intézet jelenlegi jogállását megtartja. Az Országos Sportegészségügyi Intézetről
+a Kormány külön rendeletet alkot.
+5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2021. január 1-jén lép hatályba.
+(2) A 6. § 2021. január 15-én lép hatályba.
+6. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi
+CIX. törvény hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet 2021. február 8-án hatályát veszti.
+
+7. §
+Az 1. melléklet
+a) 1.4. alpontja szerinti országos gyógyintézet az Országos Reumatológiai és Fizioterápiás Intézet és az Országos
+Orvosi Rehabilitációs Intézet összeolvadásával,
+b) 1.5. alpontja szerinti országos gyógyintézet a Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet és
+az Országos Klinikai Idegtudományi Intézet összeolvadásával
+jön létre.
+8. § (1) Az R. 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A Kormány külön rendeletben határozza meg)
+„b) a honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató, valamint az ennek irányítása alá tartozó
+egyéb egészségügyi szolgáltató,”
+(irányítására alkalmazandó szabályokat.)
+(2) Az R. 1. § (2) bekezdése a következő e) ponttal egészül ki:
+(A Kormány külön rendeletben határozza meg)
+„e) az országos gyógyintézet és az országos társgyógyintézet”
+(irányítására alkalmazandó szabályokat.)
+9. §
+Hatályát veszti az R.
+a) 1. § (2) bekezdés a) pontjában az„az országos gyógyintézetek kivételével”szövegrész,
+b) 2. § (2) bekezdése.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 694/2020. (XII. 29.) Korm. rendelethez
+1. Országos gyógyintézetek
+1.1. Gottsegen György Országos Kardiológiai Intézet
+1.2. Heim Pál Országos Gyermekgyógyászati Intézet
+1.3. Országos Korányi Pulmonológiai Intézet
+1.4. Országos Mozgásszervi Intézet
+1.5. Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet
+1.6. Országos Onkológiai Intézet
+2. Országos társgyógyintézetek
+2.1. A Gottsegen György Országos Kardiológiai Intézet irányítása alá tartozó országos társgyógyintézetek:
+2.1.1. Állami Szívkórház Balatonfüred
+2.2. Az Országos Korányi Pulmonológiai Intézet irányítása alá tartozó országos társgyógyintézetek:
+2.2.1. Törökbálinti Tüdőgyógyintézet
+2.2.2. Veszprém Megyei Tüdőgyógyintézet
+2.3. Az Országos Mozgásszervi Intézet irányítása alá tartozó országos társgyógyintézetek:
+2.3.1. Parádfürdői Állami Kórház
+2.4. Az Országos Onkológiai Intézet irányítása alá tartozó országos társgyógyintézetek:
+2.4.1. Mátrai Gyógyintézet
