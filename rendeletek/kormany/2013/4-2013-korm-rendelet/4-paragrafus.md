@@ -16,6 +16,6 @@
 
 (8) A költség-haszon összevetésének elve nem alkalmazható azon információk előállításának tekintetében, amelyek előállítását, szolgáltatását jogszabály előírja.
 
-(9)[^11] Az Országgyűlés vagy a Kormány által az Áht. 33. § (1) bekezdése alapján elrendelt címrend módosítás esetén a folytonosság elve az államháztartás központi alrendszerének egészében érvényesül.
+(9)[^12] Az Országgyűlés vagy a Kormány által az Áht. 33. § (1) bekezdése alapján elrendelt címrend módosítás esetén a folytonosság elve az államháztartás központi alrendszerének egészében érvényesül.
 
-[^11]: A 4. § (9) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 4. § (9) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 2. §-a iktatta be.

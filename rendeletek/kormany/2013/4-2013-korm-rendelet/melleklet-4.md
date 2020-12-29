@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^317]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^326]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -64,39 +64,41 @@
 
 - MSZSZ: nőgyógyászat.
 
-5. A LXXII. Egészségbiztosítási Alap fejezet 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 13. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
+5. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 13. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
 
 – méltányossági alapon történő térítések,
 
 – alapellátási vállalkozás támogatási átalánydíj,
 
-– tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez
-
-szükséges praxisjog vásárlásának támogatása,
+– tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása,
 
 – tervezett külföldi ellátások orvosi felülvizsgálata,
 
-– egészségügyi dolgozók 2018. évi béremelésének fedezete,
-
-– egészségügyi dolgozók 2019. évi béremelésének fedezete,
+– egészségügyi dolgozók 2018–2020. évi béremelésének fedezete,
 
 – egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete,
 
 – az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése,
 
-– fiatal szakorvosok támogatása.
+– fiatal szakorvosok támogatása,
 
-6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím,
+– működési támogatás,
 
-1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
+– 2020. évi egyszeri rendkívüli juttatás fedezete.
 
-– járóbeteg szakellátás,
+6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
 
-– aktív fekvőbeteg szakellátás,
+– járóbeteg-szakellátás,
 
-– krónikus fekvőbeteg szakellátás,
+– molekuláris diagnosztikai (PCR) ellátás,
 
-– bázis finanszírozású szakellátás (BVOP),
+– koronavírus járvánnyal kapcsolatos diagnosztika és ellátás,
+
+– aktív fekvőbeteg-szakellátás,
+
+– krónikus fekvőbeteg-szakellátás,
+
+– fogvatartottak egészségügyi ellátása,
 
 – várólista csökkentés,
 
@@ -106,4 +108,4 @@ szükséges praxisjog vásárlásának támogatása,
 
 – speciális finanszírozású szakellátás.
 
-[^317]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2–3. pontja, a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^326]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2–3. pontja, a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 3. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 1. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 58. §[^313]
+## 58. §[^322]
 
-1. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^314]
+1. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^323]
 
 ## A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZELÉSŰ ELŐIRÁNYZATOK
 
@@ -8,15 +8,15 @@
 
 2. az Áht. 14. § (4) bekezdés c) és d) pontja szerinti fejezetekbe tartozó központi kezelésű előirányzatok,
 
-3. a központi költségvetésről szóló törvény 1. melléklet I. fejezet 8–9. és 11. címébe tartozó központi kezelésű előirányzatok,
+3. a központi költségvetésről szóló törvény 1. melléklet I. fejezet 8., 9. és 11. címébe tartozó központi kezelésű előirányzatok,
 
 4. a központi költségvetésről szóló törvény 1. melléklet XI. fejezet 32. cím 4. alcímébe tartozó központi kezelésű előirányzatok,
 
 5. a központi költségvetésről szóló törvény 1. melléklet XIV. fejezet 21. cím 1. és 3. alcímébe tartozó központi kezelésű előirányzatok,
 
-6. a központi költségvetésről szóló törvény 1. melléklet XV. fejezet 26. cím 2. alcím 3–4. jogcímcsoportjába tartozó központi kezelésű előirányzatok,
+6. a központi költségvetésről szóló törvény 1. melléklet XV. fejezet 26. cím 2. alcím 3. és 4. jogcímcsoportjába tartozó központi kezelésű előirányzatok,
 
-7. a központi költségvetésről szóló törvény 1. melléklet XVII. fejezet 21. cím 1. és 5. alcímébe tartozó központi kezelésű előirányzatok,
+7. a központi költségvetésről szóló törvény 1. melléklet XVII. fejezet 21. cím 1., 4. és 5. alcímébe tartozó központi kezelésű előirányzatok,
 
 8. a központi költségvetésről szóló törvény 1. melléklet XVIII. fejezet 8. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
 
@@ -24,9 +24,15 @@
 
 10. a központi költségvetésről szóló törvény 1. melléklet XXII. fejezet 21. cím 2–4. alcímébe tartozó központi kezelésű előirányzatok,
 
-11. a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím 2. alcím 2. jogcímcsoport 3. jogcímszámába és a 6. cím 1. alcímébe tartozó központi kezelésű előirányzatok, valamint
+11. a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím 2. alcím 2. jogcímcsoport 3. jogcímébe és a 6. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
 
-12. a központi költségvetésről szóló törvény 1. melléklet XLV. fejezet 3. címébe tartozó központi kezelésű előirányzatok.
+12. a központi költségvetésről szóló törvény 1. melléklet XLV. fejezet 3. címébe tartozó központi kezelésű előirányzatok,
 
-[^313]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be, hatályát vesztette a 2010: CXXX. törvény 12. § (2) bekezdése alapján.
-[^314]: Az 1. melléklet a 282/2019. (XI. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+13. a központi költségvetésről szóló törvény 1. melléklet XLVI. fejezet 1–4. címébe tartozó központi kezelésű előirányzatok,
+
+14. a központi költségvetésről szóló törvény 1. melléklet XLVII. fejezet 1. címébe tartozó központi kezelésű előirányzatok, valamint
+
+15. a központi költségvetésről szóló törvény 1. melléklet XLVIII. fejezetébe tartozó központi kezelésű előirányzatok.
+
+[^322]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be, hatályát vesztette a 2010: CXXX. törvény 12. § (2) bekezdése alapján.
+[^323]: Az 1. melléklet a 678/2020. (XII. 28.) Korm. rendelet 9. § (1) bekezdés 1. pontjával megállapított szöveg.
