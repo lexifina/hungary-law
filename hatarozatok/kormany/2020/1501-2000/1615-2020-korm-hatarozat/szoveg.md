@@ -1,12 +1,14 @@
 1. A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 12. § (1) bekezdésében meghatározott feladatkörében eljárva 2020. november 1. napjától Lázár Jánost kormánybiztossá nevezi ki.
 
-2. A kormánybiztos
+2.[^1] A kormánybiztos
 
 a) figyelemmel kíséri a folyamatban lévő, uniós és hazai forrásból megvalósuló, nemzetgazdasági szempontból kiemelt Hódmezővásárhely–Szeged tram-train mintaprojekt végrehajtását,
 
-b) koordinálja a regionális jelentőségű, határon átnyúló, Szeged–Szabadka–Baja vonal kialakítását,
+b) koordinálja a regionális jelentőségű, határon átnyúló, Szeged–Szabadka–Baja vasútvonal kialakítását,
 
-c) részt vesz a feladatkörébe tartozó jogszabálytervezetek előkészítésének koordinálásában.
+c) koordinálja a makói termálfürdő beruházás felújítási munkálatainak végrehajtását,
+
+d) részt vesz a feladatkörébe tartozó jogszabálytervezetek előkészítésének koordinálásában.
 
 3. A kormánybiztos tevékenységét a feladatköre szerint illetékes politikai felsővezetőkkel és szakmai felsővezetőkkel, a Csongrád-Csanád Megyei Kormányhivatallal szoros együttműködésben látja el.
 
@@ -14,6 +16,7 @@ c) részt vesz a feladatkörébe tartozó jogszabálytervezetek előkészítés�
 
 5. Ez a határozat 2020. november 1. napján lép hatályba.
 
-6.[^1]
+6.[^2]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a 2042/2020. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
