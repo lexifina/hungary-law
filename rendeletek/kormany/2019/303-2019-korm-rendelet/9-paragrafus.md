@@ -2,7 +2,7 @@
 
 ## 5. A keretmegállapodás
 
-9. § (1)[^4] A miniszter keretmegállapodást köthet azzal a sportszervezettel, amely vállalja a 3–7/B. §-ban megállapított követelmények teljesítését, feladatok ellátását és a miniszter által meghatározott sportakadémiai minőségbiztosítási rendszerben (a továbbiakban: minőségbiztosítási rendszer) foglalt követelményeknek való megfelelést.
+9. § (1)[^11] A miniszter keretmegállapodást köthet azzal a sportszervezettel, amely vállalja a 3–7/B. §-ban megállapított követelmények teljesítését, feladatok ellátását és a miniszter által meghatározott sportakadémiai minőségbiztosítási rendszerben (a továbbiakban: minőségbiztosítási rendszer) foglalt követelményeknek való megfelelést.
 
 (2) A miniszter keretmegállapodást az alábbi sportágak valamelyikében működő sportszervezettel köthet:
 
@@ -12,7 +12,9 @@ b) kosárlabda,
 
 c) labdarúgás.
 
-(3) A miniszter kézilabda sportágban legfeljebb 6, kosárlabda sportágban legfeljebb 4, labdarúgás sportágban legfeljebb 10 keretmegállapodást köthet.
+d)[^12] jégkorong.
+
+(3)[^13] A miniszter kézilabda sportágban legfeljebb 6, kosárlabda sportágban legfeljebb 4, labdarúgás sportágban legfeljebb 10, jégkorong sportágban legfeljebb 8 keretmegállapodást köthet.
 
 (4) Az a sportszervezet, amellyel a miniszter keretmegállapodást köt, a keretmegállapodás hatályának időtartama alatt és a keretmegállapodás hatályának lejárta után a 14. § szerinti eljárás lefolytatásáig használhatja az „Államilag elismert sportakadémia” megnevezést.
 
@@ -20,4 +22,6 @@ c) labdarúgás.
 
 (6) A miniszter az általa vezetett minisztérium honlapján közzéteszi a hatályos keretmegállapodással rendelkező sportszervezetek listáját.
 
-[^4]: A 9. § (1) bekezdése a 457/2020. (X. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^11]: A 9. § (1) bekezdése a 457/2020. (X. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^12]: A 9. § (2) bekezdés d) pontját a 704/2020. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^13]: A 9. § (3) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.

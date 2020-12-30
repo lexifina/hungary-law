@@ -1,6 +1,18 @@
-## 18. §[^8] E rendeletnek a sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet módosításáról szóló 457/2020. (X. 20.) Korm. rendelettel megállapított 6. § (4) bekezdését és 3/B. alcímét 2021. január 1-jétől, 3/A. alcímét a 2020/2021-es tanév második félévétől kell alkalmazni, azzal, hogy e követelményeket a miniszter a sportakadémia részére a 2021. évtől nyújtandó támogatások keretében érvényesíti.
+## 19. §[^26] E rendeletnek a sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet módosításáról szóló 704/2020. (XII. 29.) Korm. rendelettel megállapított 2/A. §-át, 3. § (4) bekezdését, 7/A. § (3) és (4) bekezdését, 7/B. § (2) bekezdését, 12. § (4) és (5) bekezdését, 17. § (3) bekezdését 2021. január 1-jétől kell alkalmazni, azzal, hogy e követelményeket a miniszter a sportakadémia részére a 2021. évtől nyújtandó támogatások keretében érvényesíti.
 
-1. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^9]
+1. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^27]
 
-[^8]: A 18. §-t újonnan a 457/2020. (X. 20.) Korm. rendelet 4. §-a iktatta be.
-[^9]: A 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+Módszertani központok
+
+|  | A | B |
+
+| 1 | Sportág | Módszertani központok |
+
+| 2 | kézilabda | NEKA Egészségügyi Szolgáltató Korlátolt Felelősségű Társaság |
+
+| 3 | kosárlabda | „Rátgéber Kosárlabda Akadémia” Alapítvány |
+
+| 4 | labdarúgás | Felcsúti Utánpótlás Neveléséért Alapítvány |
+
+[^26]: A 19. §-t a 704/2020. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^27]: A 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 704/2020. (XII. 29.) Korm. rendelet 7. §-a iktatta be.

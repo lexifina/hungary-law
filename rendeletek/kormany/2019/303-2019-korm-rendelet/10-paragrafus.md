@@ -4,7 +4,7 @@
 
 a) a hatályos létesítő okiratának egyszerű másolatát,
 
-b)[^5] a 3–7/B. § szerinti sportakadémiai feladatoknak a kezdeményezés benyújtása időpontjában való teljesítéséről vagy teljesítéséhez szükséges feltételekről, valamint a kezdeményezés benyújtását követő 4 évre szóló szakmai programját,
+b)[^14] a 3–7/B. § szerinti sportakadémiai feladatoknak a kezdeményezés benyújtása időpontjában való teljesítéséről vagy teljesítéséhez szükséges feltételekről, valamint a kezdeményezés benyújtását követő 4 évre szóló szakmai programját,
 
 c) köznevelési intézmény fenntartója esetén a köznevelési intézmény szervezeti és működési szabályzatát, valamint pedagógiai programját,
 
@@ -14,4 +14,4 @@ e) nyilatkozatát arról, hogy legalább a keretmegállapodás időtartamára bi
 
 (2) A miniszter a kezdeményezés kézhezvételétől számított 15 napon belül megvizsgálja a kezdeményezést és az (1) bekezdés szerint mellékelt dokumentumokat. Ha azok nem teljeskörűen tartalmazzák a keretmegállapodás megkötéséhez szükséges információkat, a miniszter további dokumentumok legfeljebb 5 napon belüli benyújtására kéri fel a sportszervezetet.
 
-[^5]: A 10. § (1) bekezdés b) pontja a 457/2020. (X. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^14]: A 10. § (1) bekezdés b) pontja a 457/2020. (X. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
