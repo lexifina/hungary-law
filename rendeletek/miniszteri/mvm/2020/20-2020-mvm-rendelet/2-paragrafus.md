@@ -1,3 +1,3 @@
-## 1. § A területrendezési tervek készítésének és alkalmazásának kiegészítő szabályozásáról szóló 9/2019. (VI. 14.) MvM rendelet (a továbbiakban: R.) 13. §-a helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „13. § Az általános mezőgazdasági terület övezetét a településrendezési eszközben le kell határolni, és azt legalább 95%-ban általános mezőgazdasági területbe, természetközeli területbe vagy közlekedési területbe kell sorolni. A fennmaradó területen nem jelölhető ki az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 24. § (2) bekezdés a) és b) pontja, valamint a 30/B. § (2) bekezdés i) pontja szerinti építési övezet, valamint övezet.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
