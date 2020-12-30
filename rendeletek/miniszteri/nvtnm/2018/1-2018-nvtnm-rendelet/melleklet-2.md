@@ -106,7 +106,7 @@
 
 | 1. | Bp2017 Világbajnokság Szervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság | 01-09-206809 | 2022. december 31. |
 
-| 2. | Camp Europe Felsőörs Oktatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 19-09-509619 | 2022. december 31. |
+| 2. |  |  |  |
 
 | 3. | Concerto Akadémia Nonprofit Korlátolt Felelősségű Társaság | 01-09-177086 | 2022. december 31. |
 
@@ -168,7 +168,7 @@
 
 | 32. | Monostori Erőd Hadkultúra Központ Műemlékhelyreállító, Ingatlanfenntartó és -hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 11-09-014785 | 2022. december 31. |
 
-| 33. | Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2022. december 31. |
+| 33. |  |  |  |
 
 | 34. | NEOEMKI Nemzeti Orvostechnikai Eszköz Megfelelőségértékelő és Tanúsító Korlátolt Felelősségű Társaság | 01-09-357519 | 2022. december 31. |
 
@@ -303,6 +303,8 @@
 | 13. | Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 08-10-001916 | 2022. december 31. |
 
 | 14. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2022. december 31. |
+
+| 15. | Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2022. december 31. |
 
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 
