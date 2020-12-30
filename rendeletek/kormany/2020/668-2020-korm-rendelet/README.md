@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-668-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-29 | 2020-668-20-22.1 | 668/2020. (XII. 28.) Korm. rendelet |
+| 2020-12-30 | 2020-668-20-22.2 | 2010: CXXX. törvény |

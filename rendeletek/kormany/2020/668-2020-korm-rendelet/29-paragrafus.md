@@ -4,13 +4,11 @@
 
 29. § (1)[^31]
 
-(2) Az R15. 28. § (1) bekezdésében a „2020. december 31-ig” szövegrész helyébe a „2022. december 31-ig” szöveg lép.
+(2)[^32]
 
-(3) Hatályát veszti az R15.
-
-a) 21/B. § (4) bekezdés a) pontjában a „vagy a vállalkozói igazolvány számát” szövegrész,
-
-b) 21/B. § (5) bekezdés b) pont ba) alpontja.
+(3)[^33]
 
 [^30]: A 28. § az 55. § (3) bekezdése alapján 2021. július 1-jén lép hatályba.
 [^31]: A 29. § (1) bekezdése az 55. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^32]: A 29. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 29. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
