@@ -1,6 +1,6 @@
 ## A szolgáltatók kijelölése, a gazdaságmozgósítási feladat meghatározása
 
-6. § (1)[^30] A szolgáltatókat gazdaságmozgósítási feladat teljesítésére központi hatáskörben a gazdaságpolitikáért felelős miniszter, ágazati hatáskörben az ágazati miniszter, területi hatáskörben a megyei védelmi bizottság elnöke, helyi hatáskörben – a polgármester javaslatára – az illetékes megyei védelmi bizottság elnöke jelöli ki. A központi és az ágazati hatáskörben kijelölt szolgáltatót – az illetékes tervező szervek egyeztetett jóváhagyásával, a kapacitásának megfelelő mértékben – gazdaságmozgósítási feladat teljesítésére területi és helyi hatáskörben is ki lehet jelölni.
+6. § (1)[^30] A szolgáltatókat gazdaságmozgósítási feladat teljesítésére központi hatáskörben a belgazdaságért felelős miniszter, ágazati hatáskörben az ágazati miniszter, területi hatáskörben a megyei védelmi bizottság elnöke, helyi hatáskörben – a polgármester javaslatára – az illetékes megyei védelmi bizottság elnöke jelöli ki. A központi és az ágazati hatáskörben kijelölt szolgáltatót – az illetékes tervező szervek egyeztetett jóváhagyásával, a kapacitásának megfelelő mértékben – gazdaságmozgósítási feladat teljesítésére területi és helyi hatáskörben is ki lehet jelölni.
 
 (2) A szolgáltatókat a kijelölésükről és a számukra meghatározott általános feladatról az illetékes miniszter rendeletben, az illetékes megyei védelmi bizottság határozatban értesíti.
 
@@ -12,7 +12,7 @@
 
 (6) A kijelölt szolgáltatónak a gazdaságmozgósítási feladat ellátásából anyagi hátránya nem származhat. Ha a szolgáltatás teljesítése során a szolgáltatónak kára keletkezik, részére külön jogszabályok[^33] alapján kártalanítás jár.
 
-[^30]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^30]: A 6. § (1) bekezdése a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^31]: A Vhr. 106. § (6) bekezdése.
 [^32]: A Hvt. 66. § (2) bekezdésének a), c) és f) pontjai.
 [^33]: A Hvt. 197. §-a és a Vhr. 168–171. §-a.

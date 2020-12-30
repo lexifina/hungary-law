@@ -4,7 +4,7 @@
 
 a) felelős teljesítő szervek: ágazati ellátási felelősséggel az ágazatot irányító miniszter (a továbbiakban: ágazati miniszter), területi ellátási felelősséggel a külön jogszabályban[^5] meghatározott illetékes fővárosi, megyei védelmi bizottság (a továbbiakban: megyei védelmi bizottság) elnöke, valamint azok akik a követelménytámasztó szervek gazdaságmozgósítási igényeinek teljesítéséhez szükséges vagyoni szolgáltatások biztosításáért elsődlegesen felelősek, a pénzellátásért felelős Magyar Nemzeti Bank (a továbbiakban: MNB) elnöke, a statisztikai adatszolgáltatásért – a külön jogszabályban[^6] foglaltak keretein belül – felelős Központi Statisztikai Hivatal (a továbbiakban: KSH) elnöke;
 
-b)[^7] gazdaságfelkészítés: a védelem- és a gazdaságpolitika részét képező tervszerű, folyamatos, békeidőben folytatott tervezési, szolgáltatási és szabályozási tevékenység, amelynek során a feladatok végrehajtásába bevont központi államigazgatási szervek és a szolgáltatók felkészítik a nemzetgazdaságot a szükség esetén elrendelhető gazdaságmozgósítás feladataira, az erőforrások védelmi célú felszabadítására;
+b)[^7] gazdaságfelkészítés: a belgazdaság részét képező tervszerű, folyamatos, békeidőben folytatott tervezési, szolgáltatási és szabályozási tevékenység, amelynek során a feladatok végrehajtásába bevont központi államigazgatási szervek és a szolgáltatók felkészítik a nemzetgazdaságot a szükség esetén elrendelhető gazdaságmozgósítás feladataira, az erőforrások védelmi célú felszabadítására;
 
 c) gazdaságfelkészítési feladatok: a békeidőszaki felkészülési szolgáltatások, különösen a gazdaságfelkészítéssel kapcsolatos tervezés, beruházás, készletezés, kapacitás-fenntartás, adatgyűjtés és adatszolgáltatás;
 
@@ -48,7 +48,7 @@ r) védelmi célú hányad: az egyes állami tartalékok gazdaságmozgósítási
 
 [^5]: A Hvt. 15. § (1) bekezdése.
 [^6]: A statisztikáról szóló 1993. évi XLVI. törvény.
-[^7]: A 2. § b) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 2. § b) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés a) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^8]: A Hvt. 8. § (1) bekezdés d) pontja.
 [^9]: A Hvt. 194. §-a.
 [^10]: A Hvt. 133. § (1) bekezdése.

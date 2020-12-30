@@ -4,7 +4,7 @@
 
 (2) Tervező szervek a következők:
 
-a)[^22] központi tervező szerv: a gazdaságpolitikáért felelős miniszter által vezetett minisztérium,
+a)[^22] központi tervező szerv: a belgazdaságért felelős miniszter által vezetett minisztérium,
 
 b)[^23] ágazati tervező szervek: a miniszterek irányítása vagy felügyelete alá tartozó központi államigazgatási szervek, valamint az MNB, továbbá az OBH elnöke,
 
@@ -54,7 +54,7 @@ b) a d) és a h) pontjaiban meghatározott feladatok tekintetében az ágazati m
 
 c)[^26] az e)–f) pontjaiban foglaltak tekintetében – a tervező szervek javaslatai alapján – az államháztartásért felelős miniszter,
 
-d)[^27] a g) pontjában foglalt feladatok tekintetében – az államháztartásért felelős miniszter egyetértésével – a gazdaságpolitikáért felelős miniszter,
+d)[^27] a g) pontjában foglalt feladatok tekintetében – az államháztartásért felelős miniszter egyetértésével – a belgazdaságért felelős miniszter,
 
 e) az i) pontjában foglalt feladat tekintetében a tartalékolásért felelős szervek vezetői (a továbbiakban: felelős vezető),
 
@@ -68,11 +68,11 @@ g) a k) pontjában foglalt feladat tekintetében a tervező szervek, valamint �
 
 (10)[^29] A védelemgazdasági alapterv elkészítésének módszertani szabályait az 1. számú melléklet tartalmazza.
 
-[^22]: Az 5. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^22]: Az 5. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés d) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^23]: Az 5. § (2) bekezdés b) pontja a 314/2011. (XII. 23.) Korm. rendelet 8. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^24]: A Hvt. 17. §-a.
 [^25]: A Vhr. 5. § (3) bekezdése.
 [^26]: Az 5. § (8) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^27]: Az 5. § (8) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés f) és g) pontja szerint módosított szöveg.
+[^27]: Az 5. § (8) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés f) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^28]: A statisztikáról szóló 1993. évi XLVI. törvény.
 [^29]: Az 5. § (10) bekezdését a 201/2003. (XII. 10.) Korm. rendelet 1. §-a iktatta a szövegbe.
