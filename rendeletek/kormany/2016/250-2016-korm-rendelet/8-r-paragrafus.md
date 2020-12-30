@@ -6,7 +6,7 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (3)[^89] A 2 millió eurónak megfelelő forintösszeget meg nem haladó sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén a támogatás összege az (1) és (2) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
 

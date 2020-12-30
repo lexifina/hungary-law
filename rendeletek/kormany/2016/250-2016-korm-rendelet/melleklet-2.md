@@ -1,5 +1,3 @@
-## Támogatási kérelem
-
 ## A) A projekt alapadatai
 
 | 1.1. A projekt megnevezése |  |
@@ -54,7 +52,7 @@
 
 ## aláírás
 
-2. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^125]
+2. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^126]
 
 A beszámoló – Ávr.-ben meghatározottakon túli – tartalmi és formai követelményei
 
@@ -62,11 +60,11 @@ A beszámoló – Ávr.-ben meghatározottakon túli – tartalmi és formai kö
 
 1.1. Az elszámolandó számlákról, számviteli bizonylatokról összesítőt kell benyújtani. Az összesítő a támogatott tevékenység időtartama alatt a támogatott tevékenység megvalósításával összefüggésben felmerült, forintban megállapított költségeket tartalmazza az Ávr. 93. § (3) bekezdésében foglaltak szerint. Az összesítőt úgy kell elkészíteni, hogy tételes ellenőrzés esetén a kifizetések egyértelműen azonosíthatóak legyenek. Az összesítőt a kedvezményezett képviseletére jogosult személy aláírásával kell ellátni.
 
-1.2.[^126] A pénzügyi elszámoláshoz csatolni kell a szakpolitikai felelős által az Ávr. 100. § (3) bekezdése szerinti mintavételes módszerrel kiválasztott számláknak, számviteli bizonylatoknak, illetve a gazdasági eseményt és pénzügyi teljesítést igazoló egyéb dokumentumoknak a kedvezményezett képviseletére jogosult vagy az általa meghatalmazott személy aláírásával hitelesített másolatát.
+1.2.[^127] A pénzügyi elszámoláshoz csatolni kell a szakpolitikai felelős által az Ávr. 100. § (3) bekezdése szerinti mintavételes módszerrel kiválasztott számláknak, számviteli bizonylatoknak, illetve a gazdasági eseményt és pénzügyi teljesítést igazoló egyéb dokumentumoknak a kedvezményezett képviseletére jogosult vagy az általa meghatalmazott személy aláírásával hitelesített másolatát.
 
-1.3.[^127] Az 1.1. pont szerinti összesítőben szereplő okiratokat záradékolni kell úgy, hogy az eredeti bizonylatokon a kedvezményezett köteles feltüntetni a támogatói okirat iktatószámát és azt, hogy a számlán, számviteli bizonylaton, illetve a gazdasági eseményt és pénzügyi teljesítést igazoló egyéb dokumentumokon szereplő összeg a támogatói okirat terhére került elszámolásra.
+1.3.[^128] Az 1.1. pont szerinti összesítőben szereplő okiratokat záradékolni kell úgy, hogy az eredeti bizonylatokon a kedvezményezett köteles feltüntetni a támogatói okirat iktatószámát és azt, hogy a számlán, számviteli bizonylaton, illetve a gazdasági eseményt és pénzügyi teljesítést igazoló egyéb dokumentumokon szereplő összeg a támogatói okirat terhére került elszámolásra.
 
-1.4.[^128] A pénzügyi elszámoláshoz indokolt esetben a támogató az 1.2. alpontban meghatározott mennyiségen túl további számlákat, számviteli bizonylatokat, illetve a gazdasági eseményt és pénzügyi teljesítést igazoló egyéb dokumentumokat is elkérhet.
+1.4.[^129] A pénzügyi elszámoláshoz indokolt esetben a támogató az 1.2. alpontban meghatározott mennyiségen túl további számlákat, számviteli bizonylatokat, illetve a gazdasági eseményt és pénzügyi teljesítést igazoló egyéb dokumentumokat is elkérhet.
 
 2. A szakmai beszámoló követelményei:
 
@@ -74,7 +72,7 @@ A beszámoló – Ávr.-ben meghatározottakon túli – tartalmi és formai kö
 
 2.2. A szakmai beszámolónak tartalmaznia kell továbbá a támogatott tevékenység megvalósításához szükséges hatósági engedélyek másolatát, ha a tevékenység engedélyköteles.
 
-[^125]: A 2. mellékletet a 390/2016. (XII. 5) Korm. rendelet 10. §-a iktatta be, szövege a 436/2017. (XII. 22.) Korm. rendelet 25. § b) pontjával megállapított szöveg.
-[^126]: A 2. melléklet 1. pont 1.2. alpontja a 263/2019. (XI. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^127]: A 2. melléklet 1. pont 1.3. alpontja a 263/2019. (XI. 14.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^128]: A 2. melléklet 1. pont 1.4. alpontját a 263/2019. (XI. 14.) Korm. rendelet 8. §-a iktatta be.
+[^126]: A 2. mellékletet a 390/2016. (XII. 5) Korm. rendelet 10. §-a iktatta be, szövege a 436/2017. (XII. 22.) Korm. rendelet 25. § b) pontjával megállapított szöveg.
+[^127]: A 2. melléklet 1. pont 1.2. alpontja a 263/2019. (XI. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^128]: A 2. melléklet 1. pont 1.3. alpontja a 263/2019. (XI. 14.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^129]: A 2. melléklet 1. pont 1.4. alpontját a 263/2019. (XI. 14.) Korm. rendelet 8. §-a iktatta be.

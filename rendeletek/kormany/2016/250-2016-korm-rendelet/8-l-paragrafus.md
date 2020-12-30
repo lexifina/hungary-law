@@ -16,5 +16,7 @@ a) ha a környezetvédelmi beruházáshoz kapcsolódó költség a beruházás �
 
 b) ha az elszámolható költség az a) pont alapján nem határozható meg, a támogatott beruházás költségének és egy, a támogatás hiányában hitelt érdemlően megvalósítható hasonló, kevésbé környezetbarát beruházás költségének a különbsége
 
+számolható el.
+
 [^76]: A 8/K. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
 [^77]: A 8/L. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

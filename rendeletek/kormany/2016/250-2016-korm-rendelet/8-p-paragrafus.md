@@ -20,6 +20,8 @@ e) az elrendezés és nyomdai előkészítés költsége, és
 
 f) a nyomtatás vagy elektronikus közzététel költsége
 
+számolható el.
+
 [^83]: A 8/O. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be, szövege a 436/2017. (XII. 22.) Korm. rendelet 26. § 20. pontja szerint módosított szöveg.
 [^84]: A 8/P. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
 [^85]: A 8/P. § (1) bekezdés nyitó szövegrésze a 436/2017. (XII. 22.) Korm. rendelet 27. § (2) bekezdés c) pontja szerint módosított szöveg.
