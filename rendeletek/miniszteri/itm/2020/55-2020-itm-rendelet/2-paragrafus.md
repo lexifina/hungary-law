@@ -1,1 +1,3 @@
-## 1. § A XXXV. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal költségvetési fejezetbe sorolt fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 11/2020. (IV. 7.) ITM rendelet (a továbbiakban: ITM rendelet) 1. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
