@@ -572,7 +572,7 @@
 
 4. melléklet a 7/2006. (V. 24.) TNM rendelethez
 
-Új épületek alternatív rendszereinek vizsgálata[^30]
+Új épületek alternatív rendszereinek vizsgálata[^32]
 
 I. Általános rendelkezések
 
@@ -716,4 +716,4 @@ III. Gazdaságossági vizsgálat
 
 IV. Mintalap a megvalósíthatósági elemzés eredményeinek dokumentálásához
 
-[^30]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^32]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.

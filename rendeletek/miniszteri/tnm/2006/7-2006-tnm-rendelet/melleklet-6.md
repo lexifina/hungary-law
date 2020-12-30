@@ -154,6 +154,6 @@
 
 ## 5.3. A gépi hűtés energiaigényének számítását a 2. melléklet szerint kell elvégezni.
 
-6. melléklet a 7/2006. (V. 24.) TNM rendelethez[^32]
+6. melléklet a 7/2006. (V. 24.) TNM rendelethez[^34]
 
-[^32]: A 6. mellékletet a 39/2015. (IX. 14.) MvM rendelet 5. § c) pontja iktatta be, szövege a 41/2019. (XI. 14.) ITM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 6. mellékletet a 39/2015. (IX. 14.) MvM rendelet 5. § c) pontja iktatta be, szövege a 41/2019. (XI. 14.) ITM rendelet 3. § (2) bekezdése szerint módosított szöveg.

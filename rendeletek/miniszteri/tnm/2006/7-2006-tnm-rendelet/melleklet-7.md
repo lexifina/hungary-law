@@ -122,7 +122,7 @@
 
 ## 4.2. A jellemzően hőszivattyúzás útján vagy más módon a környezetből felvett hő (geotermikus, hidrotermikus, légtermikus energia) akkor vehető figyelembe, ha az természetes forrásból származik. Épületből távozó vagy az épületben keletkező hő nem vehető figyelembe, kivéve a más épületekből a közcsatornákba engedett víz hőjét. Az épület hűtésére felhasznált hő a hűtés üzemideje alatt, de legfeljebb április 15-e és október 15-e között vehető figyelembe.
 
-7. melléklet a 7/2006. (V. 24.) TNM rendelethez[^33]
+7. melléklet a 7/2006. (V. 24.) TNM rendelethez[^35]
 
 1. Számítási eljárás távhőszolgáltatók számára a távhőellátás primer energia tényezőjének meghatározásához.
 
@@ -254,4 +254,4 @@ evill = 2,5 kWh/kWh
 
 * SPF a hőszivattyú átlagos szezonális fűtési tényezője.
 
-[^33]: A 7. mellékletet a 41/2019. (XI. 14.) ITM rendelet 3. § (3) bekezdése iktatta be.
+[^35]: A 7. mellékletet a 41/2019. (XI. 14.) ITM rendelet 3. § (3) bekezdése iktatta be.
