@@ -1,3 +1,3 @@
-7. melléklet a 678/2020. (XII. 28.) Korm. rendelethez[^17]
+7. melléklet a 678/2020. (XII. 28.) Korm. rendelethez[^46]
 
-[^17]: A 7. melléklet a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^46]: A 7. melléklet a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

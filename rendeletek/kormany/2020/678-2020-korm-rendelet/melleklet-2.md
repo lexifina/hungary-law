@@ -1,37 +1,3 @@
-## „1. melléklet a 4/2013. (I. 11.) Korm. rendelethez
+2. melléklet a 678/2020. (XII. 28.) Korm. rendelethez[^41]
 
-## A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZELÉSŰ ELŐIRÁNYZATOK
-
-## 1. Az Áht. 14. § (3) bekezdése szerinti fejezetbe tartozó központi kezelésű előirányzatok,
-
-## 2. az Áht. 14. § (4) bekezdés c) és d) pontja szerinti fejezetekbe tartozó központi kezelésű előirányzatok,
-
-## 3. a központi költségvetésről szóló törvény 1. melléklet I. fejezet 8., 9. és 11. címébe tartozó központi kezelésű előirányzatok,
-
-## 4. a központi költségvetésről szóló törvény 1. melléklet XI. fejezet 32. cím 4. alcímébe tartozó központi kezelésű előirányzatok,
-
-## 5. a központi költségvetésről szóló törvény 1. melléklet XIV. fejezet 21. cím 1. és 3. alcímébe tartozó központi kezelésű előirányzatok,
-
-## 6. a központi költségvetésről szóló törvény 1. melléklet XV. fejezet 26. cím 2. alcím 3. és 4. jogcímcsoportjába tartozó központi kezelésű előirányzatok,
-
-## 7. a központi költségvetésről szóló törvény 1. melléklet XVII. fejezet 21. cím 1., 4. és 5. alcímébe tartozó központi kezelésű előirányzatok,
-
-## 8. a központi költségvetésről szóló törvény 1. melléklet XVIII. fejezet 8. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
-
-## 9. a központi költségvetésről szóló törvény 1. melléklet XX. fejezet 21. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
-
-## 10. a központi költségvetésről szóló törvény 1. melléklet XXII. fejezet 21. cím 2–4. alcímébe tartozó központi kezelésű előirányzatok,
-
-## 11. a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím 2. alcím 2. jogcímcsoport 3. jogcímébe és a 6. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
-
-## 12. a központi költségvetésről szóló törvény 1. melléklet XLV. fejezet 3. címébe tartozó központi kezelésű előirányzatok,
-
-## 13. a központi költségvetésről szóló törvény 1. melléklet XLVI. fejezet 1–4. címébe tartozó központi kezelésű előirányzatok,
-
-## 14. a központi költségvetésről szóló törvény 1. melléklet XLVII. fejezet 1. címébe tartozó központi kezelésű előirányzatok, valamint
-
-## 15. a központi költségvetésről szóló törvény 1. melléklet XLVIII. fejezetébe tartozó központi kezelésű előirányzatok.”
-
-2. melléklet a 678/2020. (XII. 28.) Korm. rendelethez[^14]
-
-[^14]: A 2. melléklet a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^41]: A 2. melléklet a 14. § (2) bekezdése alapján 2021. jaunár 1-jén lép hatályba.

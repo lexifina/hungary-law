@@ -2,33 +2,45 @@
 
 ## 10. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
 
-1. 1. § (1) bekezdés 3. pontjában az „érintően megállapított hibák, hibahatások együttes” szövegrész helyébe az „érintően a pénzügyi számvitelben megállapított hibák, hibahatások abszolút értékének együttes” szöveg,
+1.[^18]
 
-2. 2. § (1) bekezdésében a „2007. évi CVI. törvény 3. § (1) bekezdésében” szövegrész helyébe a „2007. évi CVI. törvény 3. § (1) és (5) bekezdésében” szöveg,
+2.[^19]
 
-3. 6. § (1) bekezdés b) pontjában a „pénzügyi alapjaiként,” szövegrész helyébe a „pénzügyi alapjaiként, ha egy fejezeten belül több fejezetet irányító szerv kerül kijelölésre, akkor fejezetet irányító szervenként,” szöveg,
+3.[^20]
 
-4. 6. § (1) bekezdés c) pontjában a „fejezetenként,” szövegrész helyébe a „fejezetenként, amennyiben egy fejezeten belül több fejezetet irányító szerv kerül kijelölésre, akkor fejezetet irányító szervenként,” szöveg,
+4.[^21]
 
-5.[^8]
+5.[^22]
 
-6.[^9]
+6.[^23]
 
-7. 27. § (5b) bekezdés b) pontjában a „b) és d)” szövegrész helyébe a „b)–d)” szöveg,
+7.[^24]
 
-8. 27. § (6) bekezdés c) pontjában az „a befektetési” szövegrész helyébe az „a forgóeszközök között kimutatott befektetési” szöveg,
+8.[^25]
 
-9. 30/A. § e) pontjában a „Kincstár által” szövegrész helyébe a „Kincstár vagy a fejezetet irányító szerv által” szöveg,
+9.[^26]
 
-10. 33. § (2) bekezdésében a „Kincstár a” szövegrész helyébe a „Kincstár vagy a fejezetet irányító szerv a” szöveg,
+10.[^27]
 
-11. 37. § (7) bekezdésében a „beszámolókat és a 13. mellékletben foglaltak alapján a Gst. szerinti államadósságról szóló kimutatást az” szövegrész helyébe a „beszámolókat az” szöveg,
+11.[^28]
 
-12. 43. § (7a) bekezdésében az „esedékes kötelezettségvállalást” szövegrész helyébe az „esedékes végleges kötelezettségvállalást” szöveg,
+12.[^29]
 
-13. 48. § (10) bekezdés ib) pontjában az „a Gst. 3. § (1) bekezdés g) pontja” szövegrész helyébe az „a Gst. 8. § (2) bekezdés g) pontja” szöveg és
+13.[^30]
 
-14. 53. § (1) bekezdésében az „a (3) bekezdés b) és c) pontja szerinti könyvviteli zárlat alátámasztására” szövegrész helyébe az „a (3) bekezdés szerinti könyvviteli zárlat alátámasztására” szöveg
+14.[^31]
 
-[^8]: A 10. § 5. pontja a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^9]: A 10. § 6. pontja a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^18]: A 10. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 10. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 10. § 5. pontja a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^23]: A 10. § 6. pontja a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^24]: A 10. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 10. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 10. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 10. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 10. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 10. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 10. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 10. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
