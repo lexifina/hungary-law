@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1037-30
 | 2020-10-17 | 2016-1037-30-22.35 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2020-10-21 | 2016-1037-30-22.36 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2020-10-31 | 2016-1037-30-22.37 | 1341/2016. (VII. 5.) Korm. határozat |
+| 2020-12-30 | 2016-1037-30-22.38 | 1341/2016. (VII. 5.) Korm. határozat |
