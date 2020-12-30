@@ -36,7 +36,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1879/2020. (XII. 4.) Korm. határozathoz
+1. melléklet az 1879/2020. (XII. 4.) Korm. határozathoz[^1]
 
 A koronavírus-világjárvány okozta gazdasági nehézségek enyhítése érdekében kulturális intézmények, szervezetek támogatása
 
@@ -76,15 +76,15 @@ A koronavírus-világjárvány okozta gazdasági nehézségek enyhítése érdek
 
 | További működési célú támogatások |
 
-| Önkormányzati fenntartású kulturális intézmények támogatása | 5 000 000 000 |
+| A Nemzeti Művelődési Intézet Nonprofit Kft. részére önkormányzati fenntartású kulturális intézmények támogatása céljából | 5 000 000 000 |
 
 | Állatkertek támogatása | 900 000 000 |
 
-| Országos szövetségek támogatása | 1 000 000 000 |
+| A Nemzeti Művelődési Intézet Nonprofit Kft. részére országos fenntartású kulturális intézmények támogatása céljából | 1 000 000 000 |
 
 | Programtámogatások |
 
-| Hármashangzat Freskó / a zene- és a képzőművészet találkozása térben és időben / 9 pilléres programjavaslat; alkotásösztönzés, amelynek koordinátora a Kolo Kulturális Központ és a REÖK Palota | 120 000 000 |
+| Hármashangzat Freskó / a zene- és a képzőművészet találkozása térben és időben / 9 pilléres programjavaslat; alkotásösztönzés támogatása céljából az Egy-Másért Ifjúsági és Közösségfejlesztő Egyesület részére | 120 000 000 |
 
 | Magas minőségű vidéki komolyzenei koncertek online közvetítése – Filharmónia Magyarország (technikai berendezés vásárlása és bérlése, személyzet költségei) | 300 000 000 |
 
@@ -99,3 +99,5 @@ A koronavírus-világjárvány okozta gazdasági nehézségek enyhítése érdek
 | Művészeti szervezetek támogatása (országos művészeti szervezetek támogatása: 50 000 000 forint, Művészetek Háza Programok: 200 000 000 forint) | 250 000 000 |
 
 | Könyv- és folyóirat-kiadók szakmai-kiadói terveinek támogatása | 500 000 000 |
+
+[^1]: Az 1. melléklet a 2050/2020. (XII. 30.) Korm. határozat szerint módosított szöveg.
