@@ -16,7 +16,7 @@ e) a külpolitikáért felelős miniszterrel együttműködve – a nemzetközi 
 
 f) a személyek jogára, a dologi jogra, a családjogra, a családjogi jogsegélyre, a kötelmi jogra, az öröklésre, a polgári peres és nemperes eljárásokra, a közigazgatási perrendtartásra, a bírósági végrehajtásra, a nemzetközi magánjogra, a polgári jogi jogsegélyre, a közvetítői tevékenységre, a jogi segítségnyújtásra, a szakfordításra és tolmácsolásra és a pártfogó felügyelői tevékenységre,
 
-g)[^75] a cégnyilvánosságra, a bírósági cégeljárásra, a végelszámolásra, a felszámolási eljárásra, a csődeljárásra, a természetes személyek adósságrendezésére, az egyéni vállalkozásra és az egyéni cégre, a kisajátításra, valamint – a 8. § d) és e) pontjában foglalt feladatokhoz kapcsolódó jogszabályok kivételével – a koncesszióra,
+g)[^77] a cégnyilvánosságra, a bírósági cégeljárásra, a végelszámolásra, a felszámolási eljárásra, a csődeljárásra, a természetes személyek adósságrendezésére, az egyéni vállalkozásra és az egyéni cégre, a kisajátításra, valamint – a 8. § d) és e) pontjában foglalt feladatokhoz kapcsolódó jogszabályok kivételével – a koncesszióra,
 
 h) a bírósági szervezetre, a bírák és az igazságügyi alkalmazottak jogállására, szolgálati jogviszonyára, a bírósági igazgatásra és ügyvitelre, a választottbíráskodásra, a bírósági végrehajtásra és a bírósági végrehajtói szervezetre, a közjegyzőkre, az ügyvédi tevékenységet gyakorlókra, az igazságügyi szakértőkre és a jogi szakvizsgára,
 
@@ -34,4 +34,4 @@ n) a társasházakra
 
 vonatkozó jogszabályokat.
 
-[^75]: A 111. § (2) bekezdés g) pontja a 423/2020. (IX. 4.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^77]: A 111. § (2) bekezdés g) pontja a 423/2020. (IX. 4.) Korm. rendelet 4. §-a szerint módosított szöveg.

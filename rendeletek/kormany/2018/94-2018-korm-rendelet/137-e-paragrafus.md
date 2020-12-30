@@ -1,4 +1,4 @@
-## 137/E. §[^95] A miniszter a társadalmi párbeszédért való felelőssége keretében
+## 137/E. §[^97] A miniszter a társadalmi párbeszédért való felelőssége keretében
 
 a) összehangolja – a makroszintű társadalmi párbeszéd vonatkozásában – a kormányzati szervek érdekegyeztetéssel kapcsolatos tevékenységét,
 
@@ -8,4 +8,4 @@ c) figyelemmel kíséri a munkaügyi kapcsolatok és az érdekegyeztetés folyam
 
 d) gondoskodik a civil szektorral való kapcsolattartás ágazati politikájának kialakításáról és megvalósításának összehangolásáról.
 
-[^95]: A 137/E. §-t a 341/2019. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^97]: A 137/E. §-t a 341/2019. (XII. 23.) Korm. rendelet 10. §-a iktatta be.

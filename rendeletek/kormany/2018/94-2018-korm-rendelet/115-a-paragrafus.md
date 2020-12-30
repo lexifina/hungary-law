@@ -1,6 +1,6 @@
 ## 115. § A miniszter a kárpótlásért való felelőssége keretében előkészíti a személyi és vagyoni kárpótlásra vonatkozó jogszabályokat.
 
-115/A. §[^77] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében felel az európai politikák kialakításáért és koordinációjáért, továbbá – a külgazdasági és külügyminiszter, valamint a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter e rendeletben meghatározott feladat- és hatáskörébe tartozó ügyek kivételével – az európai uniós kapcsolatokért.
+115/A. §[^79] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében felel az európai politikák kialakításáért és koordinációjáért, továbbá – a külgazdasági és külügyminiszter, valamint a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter e rendeletben meghatározott feladat- és hatáskörébe tartozó ügyek kivételével – az európai uniós kapcsolatokért.
 
 (2) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
 
@@ -40,4 +40,4 @@ c) elősegíti az európai uniós döntésekben érintett magyar társadalmi és
 
 d) összehangolja, illetve ellátja az európai uniós ügyekben folytatott regionális együttműködésekkel összefüggő feladatokat.
 
-[^77]: A 115/A. §-t a 157/2019. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^79]: A 115/A. §-t a 157/2019. (VI. 28.) Korm. rendelet 2. §-a iktatta be.

@@ -22,6 +22,6 @@ fc) közreműködik az európai uniós és nemzetközi támogatások felhasznál
 
 g) koordinálja és harmonizálja az államháztartási belső kontroll rendszerek működtetésével, fejlesztésével, harmonizációjával és koordinációjával kapcsolatos feladatokat,
 
-h)[^45]
+h)[^47]
 
-[^45]: A 68. § (2) bekezdés h) pontját a 282/2019. (XI. 27.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^47]: A 68. § (2) bekezdés h) pontját a 282/2019. (XI. 27.) Korm. rendelet 30. §-a hatályon kívül helyezte.
