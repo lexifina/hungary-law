@@ -6,17 +6,17 @@ a)[^4] – a honvédelemért felelős miniszter által vezetett minisztérium, a
 
 b) a Miniszterelnökség, a Miniszterelnöki Kormányiroda és a Miniszterelnöki Kabinetiroda Budapest I. kerület, Színház u. 1–3., 5–11. szám alatti, 6459 helyrajzi számon nyilvántartott ingatlanon történő működése vonatkozásában az 1. melléklet II–III. pontjában és – az (1a) és (1b) bekezdésben foglaltak figyelembevételével – a 2. mellékletben megjelölt szolgáltatásokat nyújtja,
 
-c)[^5] az MNV Zrt.-vel az állami vagyonról szóló 2007. évi CVI. törvény 28/A. § (8) bekezdés a) pontja alapján kötött megállapodás vagy vagyonkezelési szerződések keretei között gondoskodik az a), d) és f) pont hatálya alá tartozó központi költségvetési szervek használatában, valamint a saját használatában álló ingatlanok vonatkozásában az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról;
+c)[^5] a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal (a továbbiakban: MNV Zrt.) az állami vagyonról szóló 2007. évi CVI. törvény 28/A. § (8) bekezdés a) pontja alapján kötött megállapodás keretei között gondoskodik az a), d), f) pont és a 3. § (4) bekezdése hatálya alá tartozó központi költségvetési szervek használatában, valamint a saját használatában álló állami elhelyezési célú ingatlanok vonatkozásában az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról, továbbá gondoskodik az MNV Zrt.-vel kötött vagyonkezelési szerződések keretei között a vagyonkezelésében lévő ingatlanok vonatkozásában az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról;
 
 d)[^6] biztosítja a Nemzeti Egészségbiztosítási Alapkezelő működéséhez szükséges munkakörnyezetet, ennek keretében az 1. melléklet II. és III. pontjában és – az (1a) és (1b) bekezdésben foglaltak figyelembevételével – a 2. mellékletben megjelölt szolgáltatásokat nyújtja,
 
 e) gondoskodik a Médiaszolgáltatás-támogató és Vagyonkezelő Alap használatában lévő ingatlanok őrzésvédelméről, ennek keretében az 1. melléklet I. pont 4. alpontjában megjelölt szolgáltatásokat nyújtja,
 
-f)[^7] ellátja a (3c) bekezdés szerinti szolgáltatási megállapodásban meghatározott létesítményüzemeltetési feladatokat
+f)[^7] ellátja a (3c) bekezdés szerinti szolgáltatási megállapodásban meghatározott feladatokat
 
-fa) a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság által használt ingatlanok vonatkozásában,
+fa) a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság, valamint a Pro-M Professzionális Mobilrádió Zártkörűen Működő Részvénytársaság vonatkozásában,
 
-fb) a Nemzeti Adó- és Vámhivatal, valamint a Nemzeti Népegészségügyi Központ által használt ingatlanok vonatkozásában a c) pont szerint megkötött megállapodás keretei között,
+fb) a Nemzeti Adó- és Vámhivatal, a Nemzeti Népegészségügyi Központ, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, a megyei és a fővárosi kormányhivatalok, a Mádl Ferenc Összehasonlító Jogi Intézet, a Nemzeti Koncessziós Iroda, a Nemzeti Kommunikációs Hivatal, a Szerencsejáték Felügyelet, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vonatkozásában,
 
 g) végzi a jogszabályban meghatározott központosított közbeszerzési feladatokat,
 
@@ -38,11 +38,11 @@ m)[^9] a Kormány irányítása vagy felügyelete alá tartozó költségvetési
 
 (2)[^12]
 
-(3)[^13] A Főigazgatóság és az (1) bekezdés a) és b) pontjában meghatározott szerv megállapodásban rendezi az 1. melléklet II. és III. pontjában – valamint az (1a)–(1b) bekezdésben foglalt feltételek fennállása esetén a 2. mellékletben – meghatározott szolgáltatások részletezését és igénybevételének rendjét. A megállapodás tartalmazza különösen
+(3)[^13] A Főigazgatóság és az (1) bekezdés a) és b) pontjában meghatározott szerv megállapodásban rendezi az 1. mellékletben – valamint az (1a)–(1b) bekezdésben foglalt feltételek fennállása esetén a 2. mellékletben – meghatározott szolgáltatások részletezését és igénybevételének rendjét. A megállapodás tartalmazza különösen
 
 a) a megállapodás megkötésének időpontjában ellátandó intézményi létszámot,
 
-b)[^14]
+b)[^14] az adott intézmény elhelyezésére szolgáló ingatlanokat, megjelölve az általuk használt – nem közös használatú – területet,
 
 c) az intézmény által használt – nem az állami vezetők személyes használatában lévő – gépjárműveket,
 
@@ -52,26 +52,26 @@ d) a Főigazgatóság által nyújtott szolgáltatások részletezését, valami
 
 (3b)[^16] A (3) bekezdés a)–c) pontjában megjelölt mennyiségi mutatók növekedése esetén a többletfeladatok költségvetési fedezetét – mind a dologi és felhalmozási kiadások, mind a személyi juttatások tekintetében – a Főigazgatóság részére biztosítani kell. E rendelkezés nem vonatkozik a minisztériumok közötti olyan feladatátadásra, amelynek során a feladatot átadó, illetve az azt átvevő minisztériumok összesített ellátási igénye nem változik.
 
-(3c)[^17] A Főigazgatóság az (1) bekezdés d)–f) pontjában meghatározott szervezetekkel megállapodásban rendezi a Főigazgatóság által nyújtott szolgáltatások részletezését és igénybevételének rendjét. A megállapodás tartalmára – a nyújtott szolgáltatás jellegétől függően – a (3) bekezdésben foglaltakat kell megfelelően alkalmazni.
+(3c)[^17] A Főigazgatóság az (1) bekezdés d)–f) pontjában meghatározott szervezetekkel megállapodásban rendezi a Főigazgatóság által nyújtott – az 1. és 2. mellékletben meghatározott, az érintett szervezet által igényelt és a Főigazgatóság által vállalt – szolgáltatások részletezését és igénybevételének rendjét. A megállapodásra – a nyújtott szolgáltatás jellegétől függően – a (3) bekezdésben foglaltakat, továbbá a (3b) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
 (3d)[^18] A Főigazgatóság az (1) bekezdés m) pontjában meghatározott szervezetekkel megállapodásban rendezi a Főigazgatóság által nyújtott szolgáltatások részletezését és igénybevételének rendjét, valamint a szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezését.
 
-(4)[^19] A Főigazgatóság az 1. és 2. mellékletben meghatározott szolgáltatások nyújtására – szabad kapacitás rendelkezésre állása esetén – az (1) bekezdés a), b) és d) pontjában nem szereplő központi költségvetési szervekkel, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő központi költségvetési vagy európai uniós forrásokból finanszírozott más szervezetekkel, továbbá az Országgyűlés felügyelete alá tartozó más szervekkel megállapodást köthet. A megállapodásokban rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
+(4)[^19] A Főigazgatóság az 1. és 2. mellékletben meghatározott szolgáltatások nyújtására – szabad kapacitás rendelkezésre állása esetén – az (1) bekezdés a), b), d) és f) pontjában nem szereplő központi költségvetési szervekkel, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő központi költségvetési vagy európai uniós forrásokból finanszírozott más szervezetekkel, továbbá az Országgyűlés felügyelete alá tartozó más szervekkel megállapodást köthet. A megállapodásokban rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
 
 [^3]: A 3. § (1) bekezdése a 168/2018. (IX. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (1) bekezdés a) pontja a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés c) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdés c) pontja a 703/2020. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés d) pontja a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^7]: A 3. § (1) bekezdés f) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés f) pontja a 703/2020. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A 3. § (1) bekezdés l) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés m) pontját a 72/2019. (IV. 4.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^10]: A 3. § (1a) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^11]: A 3. § (1b) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^12]: A 3. § (2) bekezdését a 293/2017. (X. 10.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^13]: A 3. § (3) bekezdése a 293/2017. (X. 10.) Korm. rendelet 1. § (3) bekezdésével megállapított, nyitó szövegrésze a 168/2018. (IX. 17.) Korm. rendelet 2. § c) pontja, a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^14]: A 3. § (3) bekezdés b) pontját a 384/2020. (VIII. 7.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^13]: A 3. § (3) bekezdése a 293/2017. (X. 10.) Korm. rendelet 1. § (3) bekezdésével megállapított, nyitó szövegrésze a 168/2018. (IX. 17.) Korm. rendelet 2. § c) pontja, a 703/2020. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdés b) pontját a 384/2020. (VIII. 7.) Korm. rendelet 7. §-a hatályon kívül helyezte, újonnan a 703/2020. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^15]: A 3. § (3a) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 95/2018. (V. 22.) Korm. rendelet 8. § 4. pontja szerint módosított szöveg.
 [^16]: A 3. § (3b) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^17]: A 3. § (3c) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^17]: A 3. § (3c) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 703/2020. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^18]: A 3. § (3d) bekezdését a 72/2019. (IV. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^19]: A 3. § (4) bekezdése a 293/2017. (X. 10.) Korm. rendelet 4. §-a, a 168/2018. (IX. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^19]: A 3. § (4) bekezdése a 293/2017. (X. 10.) Korm. rendelet 4. §-a, a 168/2018. (IX. 17.) Korm. rendelet 2. § b) pontja, a 703/2020. (XII. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

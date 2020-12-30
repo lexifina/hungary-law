@@ -58,13 +58,17 @@ I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK
 
 6.4. Üzemeltetői tűzvédelmi szabályzat készítése, felülvizsgálata
 
-6.5. Üzemi és munkabalesetek kivizsgálása
+6.5.[^25]
 
 6.6. Üzemeltetőt terhelő katasztrófavédelmi és veszélyelhárítási tervek készítése
 
 7. Parkolóhelyek biztosítása, ügyintézése (a rendelkezésre álló parkolókapacitás erejéig)
 
 8. Épületekkel kapcsolatos építési beruházások lebonyolítása, építési beruházással kapcsolatos egyéb feladatok ellátása
+
+9.[^26] Bontás, építési terület előkészítése
+
+10.[^27] Üzemi és munkabalesetek kivizsgálása
 
 II. ELLÁTÁSI SZOLGÁLTATÁSOK
 
@@ -76,7 +80,7 @@ II. ELLÁTÁSI SZOLGÁLTATÁSOK
 
 3.1. Nyomdai termékek biztosítása (levélpapír, névjegy, boríték stb.)
 
-3.2.[^25] Újság, folyóirat biztosítása
+3.2.[^28] Újság, folyóirat biztosítása
 
 3.2.1. Belföldi újság és folyóiratok
 
@@ -124,15 +128,15 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 1.1.1. Személyes gépjárműhasználat biztosítása jogszabály alapján
 
-1.1.2. Szervezeti egységhez kirendelt gépjármű biztosítása jogszabály alapján
+1.1.2.[^29] Állandó használatú, feladatorientált gépjármű biztosítása jogszabály alapján
 
 1.1.3. Eseti gépjárműhasználat biztosítása
 
 1.1.3.1. Taxiszolgáltatás a Főigazgatóság üzemeltetésében lévő gépjárművel
 
-1.1.3.2. Kulcsosgépjármű-szolgáltatás
+1.1.3.2.[^30] Eseti, feladatorientált gépjármű szolgáltatás
 
-1.1.3.3. Tárgyalóbusz- és protokollgépjármű-szolgáltatás
+1.1.3.3.[^31] Tárgyalóbusz, mikrobusz és protokoll gépjármű szolgáltatás
 
 1.1.3.4. Taxiszolgáltatás, külső szolgáltató bevonásával
 
@@ -140,7 +144,7 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 1.2.1. A Főigazgatóság azon gépjárműveihez, melyek használói jogszabály alapján gépjárművezető igénybevételére jogosultak, a Főigazgatóság – amennyiben az ellátott intézmény a feladatot nem saját személyi állománnyal oldja meg – hivatásos gépjárművezetőt biztosít
 
-1.2.2. Eseti gépjárműhasználathoz gépjárművezető biztosítása
+1.2.2.[^32] Egyes eseti gépjárműhasználathoz gépjárművezető biztosítása
 
 1.3. Diszpécserszolgálat
 
@@ -176,7 +180,7 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 1.9. Gumiabroncs biztosítása
 
-1.9.1. Keréktárcsára szerelt, téli és nyári gumiabroncs biztosítása
+1.9.1.[^33] Téli és nyári gumiabroncs biztosítása
 
 1.10. Úthasználat biztosítása
 
@@ -186,7 +190,7 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 1.11. Parkolás biztosítása
 
-1.11.1. A felmerülő parkolási költségek megtérítése a parkolást igazoló parkolójegy leadása mellett, vagy mobiltelefonos parkolási lehetőség esetén ennek költségei biztosításával
+1.11.1.[^34] A felmerülő parkolási költségek megtérítése a parkolást igazoló számla leadása mellett, vagy mobiltelefonos parkolási lehetőség esetén ennek költségei biztosításával
 
 1.12. Behajtási engedélyek biztosítása
 
@@ -212,4 +216,13 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 [^23]: A 7. §-t a 293/2017. (X. 10.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
 [^24]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^25]: Az 1. melléklet II. pont 3.2. alpontja a 72/2019. (IV. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^25]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 6.5. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^26]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 9. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^27]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 10. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^28]: Az 1. melléklet II. pont 3.2. alpontja a 72/2019. (IV. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^29]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.1.2. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.1.3.2. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.1.3.3. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.2.2. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^33]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.9.1. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^34]: Az 1. melléklet III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK alcím 1.11.1. pontja a 703/2020. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
