@@ -1,6 +1,6 @@
 ## Javaslat miniszteri elismerés adományozására
 
-## A nemzeti vagyon kezeléséért felelős tárca nélküli miniszter által adományozható elismerésekről szóló 13/2019. (IX. 25.) NVTNM rendelet alapján a javasolt miniszteri elismerés megnevezése[^6]:
+## A nemzeti vagyon kezeléséért felelős tárca nélküli miniszter által adományozható elismerésekről szóló 13/2019. (IX. 25.) NVTNM rendelet alapján a javasolt miniszteri elismerés megnevezése[^9]:
 
 ## a) Lánczy Leó-díj
 
@@ -48,7 +48,7 @@
 
 2. melléklet a 13/2019. (IX. 25.) NVTNM rendelethez
 
-## NYILATKOZAT
+NYILATKOZAT
 
 Alulírott,
 
@@ -64,6 +64,6 @@ Dátum:
 
 elismerésre jelölt aláírása
 
-[^6]: A javasolt elismerés aláhúzandó
+[^9]: A javasolt elismerés aláhúzandó
 [^2.]: Iskolai végzettség, jelenlegi munkahely, feladatkör, munkavállaló esetében munkakör, lakcím, értesítési telefonszám, e-mail-cím, a jelölt korábban kapott elismerései (állami, miniszteri és szakmai elismerés)
 [^3.]: Nem lehet miniszteri elismerésben részesíteni azt a személyt, a) akit bűncselekmény elkövetése miatt jogerősen elítéltek, és az elismerésre történő felterjesztéskor még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól; b) aki az elismerésre történő felterjesztéskor jogerős fegyelmi büntetés hatálya alatt áll; c) aki a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) alapján a lemondási vagy felmentési idejét tölti, kivéve a kormányzati szolgálati jogviszonynak a Kit. 107. § (1) bekezdés e) pontjában foglalt felmentési okból történő megszüntetését; d) aki a munka törvénykönyvéről szóló 2012. évi I. törvény alapján felmondási idejét tölti, kivéve, ha a felmentés oka azért következik be, mert a munkavállaló nyugdíjasnak minősül; e) aki legkésőbb az elismerésre történő felterjesztéskor az (1) bekezdés szerinti hozzájárulást nem adja meg.

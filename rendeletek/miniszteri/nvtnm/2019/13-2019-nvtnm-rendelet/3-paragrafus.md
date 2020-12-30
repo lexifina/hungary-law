@@ -1,4 +1,4 @@
-3. § (1)[^1] A miniszteri elismerés adományozását
+3. § (1)[^2] A miniszteri elismerés adományozását
 
 a) a miniszter által irányított szervezet államtitkára, a miniszter kabinetfőnöke,
 
@@ -6,7 +6,7 @@ b) a miniszter irányítása vagy felügyelete alá tartozó szerv vezetője vag
 
 c) a miniszter tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazdasági társaság vezető tisztségviselője, illetve részvénytársaság esetén vezérigazgatója vagy vezérigazgató-helyettese, korlátolt felelősségű társaság esetén ügyvezetője vagy az ügyvezető helyettesítésére jogosult vezetője
 
-## kezdeményezheti a miniszternél az adományozási alkalmat legalább 90 nappal megelőzően, a jelölt életútjának és szakmai tevékenységének rövid ismertetését is tartalmazó indokolt javaslattal.
+kezdeményezheti a miniszternél az adományozási alkalmat legalább 90 nappal megelőzően, a jelölt életútjának és szakmai tevékenységének rövid ismertetését is tartalmazó indokolt javaslattal.
 
 (2) A javaslat tartalmi és formai követelményeit az 1. melléklet tartalmazza.
 
@@ -24,4 +24,4 @@ c) a nemzeti pénzügyi szolgáltatásokért és közműszolgáltatásokért fel
 
 (6) A Kitüntetési Bizottság működését ügyrend szabályozza.
 
-[^1]: A 3. § (1) bekezdése a 11/2020. (VIII. 31.) NVTNM rendelet 3. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 11/2020. (VIII. 31.) NVTNM rendelet 3. §-ával megállapított szöveg.
