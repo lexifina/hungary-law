@@ -2,11 +2,11 @@
 
 3. § (1) Az EK rendelet 1. cikke alapján az egyes fegyverek és katonai felszerelések harmadik országból történő behozatala során a katonai vámügyi szervet kell hatóságnak tekinteni.
 
-(2) Az EK rendelet 3. cikk (1) bekezdésében említett tanúsítvány, valamint a NATO okmány kiállítására és kiadmányozására kizárólag a katonai vámügyi szerv jogosult.
+(2)[^7] Az EK rendelet 3. cikk (1) bekezdésében említett tanúsítvány, valamint a NATO okmány, illetve EU katonai okmány kiállítására és kiadmányozására kizárólag a katonai vámügyi szerv jogosult.
 
 (3) Az EK rendelet alapján kérelmezett vámeljárás során az EK rendelet 3. cikk (1) bekezdésében említett tanúsítvány benyújtásával egyidejűleg a kérelmezett vámeljárásnak megfelelően a vámjogszabályokban meghatározott vám-árunyilatkozatot kell benyújtani, amelyet a vámhatóság nyilvántartásba vesz.
 
-(4) A vámigazgatási eljárás során a hatóságként eljáró katonai vámügyi szerv esetében a Vámtörvény 58. §-át alkalmazni kell.
+(4)[^8] A vámigazgatási eljárás során a hatóságként eljáró katonai vámügyi szerv esetében a Vámtörvény 148. §-át alkalmazni kell.
 
 (5) A nyilvántartásba vett, behozatali vámok alól felfüggesztett katonai áru megsemmisüléséről, elvesztéséről, eltulajdonításáról vagy a jogszabályban meghatározott céltól eltérő felhasználásáról a katonai vámügyi szerv vagy a terméket felhasználó a vámhatóságot haladéktalanul értesíti. Ha a vámhatóság által folytatott vámellenőrzés időpontjáig a vámhatóságot nem értesítik, úgy a Vámtörvényben meghatározott jogkövetkezményeket kell alkalmazni.
 
@@ -19,3 +19,6 @@
 (9) A katonai vámügyi szerv tagja a vámigazgatási eljárás során jelvénnyel igazolja magát, amelynek mintáját az 1. melléklet tartalmazza.
 
 (10) A katonai vámügyi szerv képviselőjének a vámigazgatási eljárás során a 2. mellékletben meghatározott bélyegző lenyomatot külön, vagy a katonai vámügyi szerv képviseletében eljáró személy részére kiadott körbélyegzővel együtt kell használnia. Az EK rendelet 5. cikk (1) bekezdésében említett bélyegző lenyomatának mintája megegyezik a 2. mellékletben meghatározott mintával.
+
+[^7]: A 3. § (2) bekezdése a 18/2020. (XII. 30.) PM rendelet 9. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdése a 18/2020. (XII. 30.) PM rendelet 9. § e) pontja szerint módosított szöveg.

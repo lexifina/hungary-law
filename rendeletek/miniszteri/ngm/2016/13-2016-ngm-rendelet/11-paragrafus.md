@@ -10,4 +10,6 @@
 
 (4) Az MH logisztikai telephelyen a behozatali vám és egyéb terhek megfizetését követően szabad forgalomba bocsátott magánpostai küldemények kiszolgáltatásukig az MH logisztikai telephely elkülönített helyiségében tárolhatók a vámadós által a katonai vámügyi szerv részére történő vám és egyéb terhek megfizetésének megfelelő igazolásáig.
 
-(5) Ha a vám és egyéb teher fizetési kötelezettséggel járó küldemény után a vám és egyéb terhek vámjogszabályok szerinti megfizetésének igazolása elmarad, vagy a címzett kéri a postaküldemény megosztás nélküli visszaküldését, vagy az államnak ellenszolgáltatás nélkül azt felajánlja, a katonai vámügyi szerv köteles a vámhatóságnál ismételten bemutatni a küldeményt, és azt a külföldre történő visszaszállításáig vagy a felajánlás elfogadásáig a raktárában tárolni.
+(5)[^15] Ha a vám és egyéb teher fizetési kötelezettséggel járó küldemény után a vám és egyéb terhek vámjogszabályok szerinti megfizetésének igazolása elmarad, vagy a címzett kéri a postaküldemény megosztás nélküli visszaküldését, vagy az államnak ellenszolgáltatás nélkül azt felajánlja, a katonai vámügyi szerv köteles a vámhatóságnál ismételten bemutatni a küldeményt, és azt az Európai Unión kívülre történő visszaszállításáig vagy a felajánlás elfogadásáig a raktárában tárolni.
+
+[^15]: A 11. § (5) bekezdése a 18/2020. (XII. 30.) PM rendelet 9. § h) pontja szerint módosított szöveg.
