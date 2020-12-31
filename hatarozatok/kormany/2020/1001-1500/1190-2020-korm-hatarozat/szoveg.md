@@ -86,13 +86,7 @@ e) az agrárminiszter felel az Országos Meteorológiai Szolgálat közreműköd
 
 10. A miniszterelnök kabinetfőnöke a Kormány által jóváhagyott éves koncepció alapján a nemzeti rendezvény lebonyolításáról, a soron következő nemzeti rendezvény megrendezésének részletes programjáról, a feladatok és a tervezett költségek megosztásáról jelentés formájában tájékoztatja a Kormányt.
 
-11. A nemzeti rendezvényt
-
-a) a 2. pont a) alpont aa) és ac) alpontja és a 2. pont b) alpontja szerinti nemzeti rendezvény tekintetében a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: MTÜ Zrt.) vagy a Hungarofest Nemzeti Rendezvényszervező Nonprofit Korlátolt Felelősségű Társaság,
-
-b) a 2. pont a) alpont ab) alpontja szerinti nemzeti rendezvény tekintetében az MTÜ Zrt. vagy a Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság
-
-szervezi meg, és ellátja a nemzeti rendezvény műszaki, művészeti, produkciós, logisztikai feladatainak előkészítését és lebonyolítását, illetve a nemzeti rendezvény biztosításának koordinációját, továbbá a 4. pont c) alpontjában meghatározott feladatok lebonyolítását.
+11.[^2] A 2. pont szerinti nemzeti rendezvényeket a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: MTÜ Zrt.) vagy a Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság szervezi meg, és ellátja a nemzeti rendezvény műszaki, művészeti, produkciós, logisztikai feladatainak előkészítését és lebonyolítását, illetve a nemzeti rendezvény biztosításának koordinációját, továbbá a 4. pont c) alpontjában meghatározott feladatok lebonyolítását.
 
 4. A nemzeti rendezvény lebonyolítása
 
@@ -110,13 +104,14 @@ szervezi meg, és ellátja a nemzeti rendezvény műszaki, művészeti, produkci
 
 17. Ez a határozat – a 18. pontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
-18.[^2]
+18.[^3]
 
-19.[^3]
+19.[^4]
 
-20.[^4]
+20.[^5]
 
 [^1]: A 3. pont az 1686/2020. (X. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 18. pontot az 1565/2020. (VIII. 31.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^3]: A 19. pont az 1565/2020. (VIII. 31.) Korm. határozat 5. pontja alapján nem lép hatályba.
-[^4]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 11 .pont a 2057/2020. (XII. 30.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 18. pontot az 1565/2020. (VIII. 31.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^4]: A 19. pont az 1565/2020. (VIII. 31.) Korm. határozat 5. pontja alapján nem lép hatályba.
+[^5]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
