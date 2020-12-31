@@ -1,4 +1,4 @@
-## 48. §[^6] E rendeletnek az Információs Hivatal hivatásos állományú tagjainak illetményéről, juttatásairól, valamint a folyósítás és költségtérítés szabályairól szóló 30/2017. (XI. 28.) MvM rendelet módosításáról szóló 1/2020. (I. 17.) KKM rendelettel megállapított rendelkezéseit 2020. január 1-jétől kell alkalmazni.
+## 49. §[^8] E rendeletnek az Információs Hivatalra vonatkozó egyes miniszteri rendeletek módosításáról szóló 16/2020. (XII. 16.) KKM rendelettel (a továbbiakban: Mód1.) megállapított 37. §-át a Mód1. hatálybalépését[^9] követően benyújtott lakbértámogatás vagy albérleti díj hozzájárulás iránti kérelmek esetében lehet alkalmazni.
 
 1. melléklet a 30/2017. (XI. 28.) MvM rendelethez
 
@@ -26,4 +26,5 @@ A ruházati utánpótlási ellátmány terhére számla ellenében elszámolhat�
 
 | 10. | Női sapka, sál, kesztyű, kendő, öv |
 
-[^6]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1/2020. (I. 17.) KKM rendelet 2. §-a iktatta be.
+[^8]: A 49. §-t a 16/2020. (XII. 16.) KKM rendelet 6. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2020. december 31.

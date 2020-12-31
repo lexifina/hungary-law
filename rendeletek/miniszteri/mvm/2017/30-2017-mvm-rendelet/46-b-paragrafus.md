@@ -1,4 +1,4 @@
-## 16. [^5] Kiegészítő juttatás
+## 16. [^6] Kiegészítő juttatás
 
 46/B. § (1) A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
 
@@ -30,4 +30,4 @@ c) aki felmentési idejét tölti.
 
 (5) A kiegészítő juttatásra jogosultság megállapításáról és annak mértékéről az állományilletékes parancsnok állományparancsban rendelkezik.
 
-[^5]: A 16. alcímet (46/B. §) az 1/2020. (I. 17.) KKM rendelet 1. §-a iktatta be.
+[^6]: A 16. alcímet (46/B. §) az 1/2020. (I. 17.) KKM rendelet 1. §-a iktatta be.

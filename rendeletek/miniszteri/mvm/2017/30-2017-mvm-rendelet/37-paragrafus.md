@@ -1,8 +1,8 @@
 ## 9. Lakbértámogatás, albérleti díj hozzájárulás
 
-37. § (1) Lakbértámogatás vagy albérleti díj hozzájárulás (jelen alcím alkalmazásában a továbbiakban: hozzájárulás) biztosítható a hivatásos állomány tagja részére, ha
+37. §[^4] (1) Lakbértámogatás vagy albérleti díj hozzájárulás (jelen alcímben a továbbiakban: hozzájárulás) biztosítható a hivatásos állomány tagja részére, ha
 
-a) szolgálatteljesítési helyén vagy közigazgatási területéről helyi járatú, menetrendszerű tömegközlekedési eszközzel elérhető településen önálló lakással nem rendelkezik,
+a) szolgálatteljesítési helyén vagy közigazgatási területéről helyi járatú tömegközlekedési eszközzel elérhető településen önálló lakással nem rendelkezik,
 
 b) részére a Hivatal bérlakást nem biztosít, és
 
@@ -14,20 +14,40 @@ a) a részére felajánlott bérlakást méltányolható indok nélkül nem foga
 
 b) a kérelmében valótlan adatot közölt.
 
-(3) A hozzájárulás folyósítására vonatkozó kérelmet a szolgálati út betartásával a Szociális Bizottsághoz kell benyújtani. A kérelemhez csatolni kell a bérleti szerződés egy példányát, valamint a bérelt lakásba történő bejelentkezést bizonyító lakcímkártya fénymásolatát. A hozzájárulásra való jogosultságot a kérelmező szolgálati elöljárója, valamint a Szociális Bizottság javaslata alapján, a gazdasági vezető pénzügyi ellenjegyzése mellett a főigazgató bírálja el és hagyja jóvá, egyben megállapítva a hozzájárulás havi összegét is.
+(3) Az (1) bekezdés a) pontjában foglaltaktól eltérően hozzájárulás biztosítható a hivatásos állomány tagja részére,
 
-(4) Ha a hivatásos állomány tagja azért nem tud a bérleménybe bejelentkezni, mert a bérbeadó ahhoz nem járult hozzá, a hivatásos állomány tagjának olyan bérbeadói nyilatkozatot kell a kérelméhez csatolnia, amelyből kitűnik a bérleményben való tartózkodás ténye, valamint az, hogy a bérbeadó a bejelentkezéshez nem járult hozzá.
+a) ha tulajdonába öröklés vagy egyeneságbeli rokonától történő ajándékozás útján, haszonélvezettel terhelten került a lakás, és a haszonélvező haszonélvezeti jogával él,
 
-(5) A hozzájárulás havi összege a bérleti szerződésben rögzített bérleti díj havi összegének 50%-a, de legfeljebb a rendvédelmi illetményalap 100%-a.
+b) ha olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házassági vagyonközösség (élettársi kapcsolat) megszüntetése keretében volt házastársa (élettársa) vagy gyermeke javára lemondott, és ezt a házassági vagyonközösség (élettársi kapcsolat) megszüntetéséről szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.
 
-(6) A Hivatal hivatásos állománya két vagy több tagjának közös bérlete esetén a hozzájárulás összegét a szerződésben rögzített, az általuk külön-külön fizetett, egy főre eső bérleti díj összegéből kiindulva kell személyenként megállapítani. A Hivatal hivatásos állományához nem tartózó személlyel közösen fenntartott bérlet esetén csak a hivatásos állomány tagjára eső bérleti díj hányadot lehet a kérelmen feltüntetni, illetve elbíráláskor figyelembe venni, kivéve, ha a hivatásos állomány tagjának házastársa a bérlőtárs.
+(4) A hozzájárulás folyósítására vonatkozó kérelmet a szolgálati út betartásával a Szociális Bizottsághoz kell benyújtani.
 
-(7) Meg kell szüntetni a hozzájárulás kifizetését, ha
+(5) A kérelemhez csatolni kell a bérleti szerződés egy példányát, valamint a bérelt lakásba történő bejelentkezést bizonyító lakcímet igazoló hatósági igazolvány releváns részének fénymásolatát, továbbá az egy főre jutó jövedelem megállapításához szükséges, az igényjogosult és a vele közös háztartásban élők jövedelemigazolását.
 
-a) a hivatásos állomány tagjának szolgálati jogviszonya megszűnik, vagy
+(6) A hozzájárulásra való jogosultságot a kérelmező szolgálati elöljárója, valamint a Szociális Bizottság javaslata alapján, a gazdasági vezető pénzügyi ellenjegyzése mellett a főigazgató bírálja el és hagyja jóvá, egyben megállapítva a hozzájárulás havi összegét is.
 
-b) a hivatásos állomány tagja szolgálatteljesítési helyén vagy közigazgatási területéről helyi járatú vagy menetrendszerű tömegközlekedési eszközzel elérhető településen önálló lakáshoz jut.
+(7) Ha a hivatásos állomány tagja azért nem tud a bérleménybe bejelentkezni, mert a bérbeadó ahhoz nem járult hozzá, a hivatásos állomány tagjának olyan közokiratba vagy teljes bizonyító erejű magánokiratba foglalt bérbeadói nyilatkozatot kell a kérelméhez csatolnia, amelyből kitűnik a bérleményben való tartózkodás ténye, valamint az, hogy a bérbeadó a bejelentkezéshez nem járult hozzá.
 
-(8) A hozzájárulásban részesített köteles a bérleti jogviszonyban beállt minden olyan változást, amely a hozzájárulás kifizetésére és összegére kihatással lehet, a pénzügyi szervnek írásban, 8 napon belül bejelenteni.
+(8) A hozzájárulás havi összege a bérleti szerződésben rögzített bérleti díj havi összegének 50%-a,
 
-(9) Jóváhagyás esetén a hozzájárulás a kérelem benyújtása hónapjának első napjától illeti meg a hivatásos állomány tagját.
+a) legfeljebb a rendvédelmi illetményalap 200%-a, ha a közös háztartásban élő egy főre jutó jövedelem nem haladja meg a minimálbér összegét,
+
+b) legfeljebb a rendvédelmi illetményalap 150%-a, ha a közös háztartásban élő egy főre jutó jövedelem nem haladja meg a minimálbér összegének kétszeresét,
+
+c) legfeljebb a rendvédelmi illetményalap 100%-a, ha a közös háztartásban élő egy főre jutó jövedelem meghaladja a minimálbér összegének kétszeresét.
+
+(9) A Hivatal hivatásos állománya két vagy több tagjának közös bérlete esetén a hozzájárulás összegét a szerződésben rögzített, az általuk külön-külön fizetett, egy főre eső bérleti díj összegéből kiindulva kell személyenként megállapítani. A Hivatal hivatásos állományához nem tartózó személlyel közösen fenntartott bérlet esetén csak a hivatásos állomány tagjára eső bérleti díj hányadot lehet a kérelmen feltüntetni, illetve elbíráláskor figyelembe venni, kivéve, ha a hivatásos állomány tagjának házastársa (élettársa) a bérlőtárs.
+
+(10) Meg kell szüntetni a hozzájárulás kifizetését, ha
+
+a) a hivatásos állomány tagjának szolgálati jogviszonya megszűnik,
+
+b) a hivatásos állomány tagja szolgálatteljesítési helyén vagy közigazgatási területéről helyi járatú tömegközlekedési eszközzel elérhető településen önálló lakáshoz jut, vagy
+
+c) haszonélvezettel terhelt tulajdonában álló önálló ingatlana tekintetében a haszonélvezeti jog megszűnik.
+
+(11) A hozzájárulásban részesített köteles a pénzügyi szervnek írásban, 8 napon belül bejelenteni a hozzájárulásra való jogosultság feltételeiben bekövetkező, továbbá a bérleti jogviszonyban beállt minden olyan változást, amely a hozzájárulás megítélésére, kifizetésére és összegére kihatással lehet.
+
+(12) Jóváhagyás esetén a hozzájárulás a kérelem benyújtása hónapjának első napjától illeti meg a hivatásos állomány tagját.
+
+[^4]: A 37. § a 16/2020. (XII. 16.) KKM rendelet 5. §-ával megállapított szöveg.
