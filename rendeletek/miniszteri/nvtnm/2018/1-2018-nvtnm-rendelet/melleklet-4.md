@@ -34,13 +34,7 @@
 
 | 14. | EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság | 01-09-341681 | 2022. december 31. |
 
-## II. Tulajdonosi joggyakorló: a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság | 01-10-042156 | 2022. december 31. |
+## II.
 
 ## III. Tulajdonosi joggyakorló: a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság
 

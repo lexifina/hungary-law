@@ -66,7 +66,7 @@
 
 | 30. |  |  |  |
 
-| 31. | VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft. | 01-09-284691 | 2022. december 31. |
+| 31. |  |  |  |
 
 | 32. | Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság | 01-10-043547 | 2022. december 31. |
 
@@ -214,7 +214,7 @@
 
 | 8. | IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság | 01-10-047622 | 2022. december 31. |
 
-| 9. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
+| 9. |  |  |  |
 
 | 10. | HUMDA Magyar Autó-Motorsport Fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-048684 | 2022. december 31. |
 
