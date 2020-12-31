@@ -1,5 +1,3 @@
-## 17. §[^46]
+## 17. §[^32]
 
-## A kibocsátás-csökkentési egységekkel és igazolt kibocsátás-csökkentési egységekkel történő kereskedés jóváhagyása
-
-[^46]: A 17. §-t a 410/2012. (XII. 28.) Korm. rendelet 33. § b) pontja hatályon kívül helyezte.
+[^32]: A 17. §-t a 410/2012. (XII. 28.) Korm. rendelet 33. § b) pontja hatályon kívül helyezte.

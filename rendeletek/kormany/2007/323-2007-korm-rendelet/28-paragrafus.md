@@ -1,5 +1,5 @@
-## 27. §[^63]
+## 27. §[^44]
 
 ## Pályázati feltételek
 
-[^63]: A 27. §-t és az azt megelőző alcímet a 121/2009. (VI. 11.) Korm. rendelet 20. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^44]: A 27. §-t és az azt megelőző alcímet a 121/2009. (VI. 11.) Korm. rendelet 20. § (2) bekezdés a) pontja hatályon kívül helyezte.

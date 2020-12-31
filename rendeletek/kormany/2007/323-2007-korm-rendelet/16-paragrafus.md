@@ -1,1 +1,1 @@
-## Magyarország területén megvalósuló, közvetlen vagy közvetett kettős elszámolású kibocsátás-csökkentéssel járó együttes végrehajtási projektek által elért kibocsátás-csökkentésnek az Európai Unió kibocsátási egység kereskedelmi rendszerében történő elszámolása
+## 15. §

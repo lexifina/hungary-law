@@ -1,5 +1,5 @@
-## 33–34. §[^66]
+## 33–34. §[^47]
 
 ## A támogatások ellenőrzése
 
-[^66]: A 33–34. §-t a 131/2015. (V. 27.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^47]: A 33–34. §-t a 131/2015. (V. 27.) Korm. rendelet 4. §-a hatályon kívül helyezte.
