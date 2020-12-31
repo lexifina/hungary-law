@@ -1,0 +1,3 @@
+## 4. § A Korm. rendelet a következő 8. §-sal egészül ki:
+
+## „8. § E rendeletnek a Normafa Park történelmi sportterület megvalósításához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 294/2013. (VII. 26.) Korm. rendelet módosításáról szóló 719/2020. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. § (1) bekezdés a) pontját és (3) bekezdését, 4. § (2) és (3) bekezdését, 4/A. §-át, valamint 1. mellékletében foglalt táblázat A:2–19 mező e) és f) pontját a Módr3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
