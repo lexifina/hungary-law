@@ -2,6 +2,6 @@
 
 (2) A Kormány az (1) bekezdés szerinti beruházásokkal összefüggő közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(3)[^1]
+(3)[^3]
 
-[^1]: A 2. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 97. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 97. § a) pontja hatályon kívül helyezte.

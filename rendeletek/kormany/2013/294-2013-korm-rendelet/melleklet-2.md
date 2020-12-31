@@ -2,7 +2,7 @@
 
 | 1. | Beruházás megnevezése | A Beruházás megvalósításával kapcsolatos hatósági eljárások | Eljáró hatóság |
 
-| 2. | a) Normafa Park történelmi sportterület kialakításához szükséges építmények, építményrészek építése, átalakítása, bővítése, felújítása, bontása; b) a Normafa Park történelmi sportterületén fogadó épület, engesztelő kápolna, sípályák felvonókkal, hóágyúkkal, térvilágítással; szánkó pályák; sífutó pályák; játszóterek; nyári bobpálya; kocogó és kerékpár pályák és további szabadtéri sportolási lehetőségek kialakítása és kiszolgáló funkciójú építmények, létesítmények, infrastruktúra megvalósítása, üzembe helyezése; c) közlekedési területek, tömegközlekedési bázisterületek kialakítása, felújítása, parkolók létesítése; d) fogaskerekű vasút korszerűsítése, nyomvonalának meghosszabbítása. | általános építésügyi és építésfelügyeleti hatósági eljárások | Budapest Főváros Kormányhivatala |
+| 2. | a) Normafa Park történelmi sportterület kialakításához szükséges építmények, építményrészek építése, átalakítása, bővítése, felújítása, bontása; b) A Normafa Park történelmi sportterületén fogadó épület, engesztelő kápolna, sípályák felvonókkal, hóágyúkkal, térvilágítással; szánkó pályák; sífutó pályák; játszóterek; nyári bobpálya; kocogó és kerékpár pályák és további szabadtéri sportolási lehetőségek kialakítása és kiszolgáló funkciójú építmények, létesítmények, infrastruktúra megvalósítása, üzembe helyezése; c) Közlekedési területek, tömegközlekedési bázisterületek kialakítása, felújítása, parkolók létesítése; d) Fogaskerekű vasút korszerűsítése, nyomvonalának meghosszabbítása; e) Lombkorona Sétány és kiszolgáló létesítmények létesítése, üzembe helyezése; f) Budapest Főváros XII. kerület 9568/1 helyrajzi számú telken megvalósuló ingatlanfejlesztés. | általános építésügyi és építésfelügyeleti hatósági eljárások | Budapest Főváros Kormányhivatala |
 
 | 3. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
@@ -38,6 +38,6 @@
 
 | 19. | üzletek működési engedélyezési eljárása | Budapest Főváros XII. kerület Hegyvidéki Önkormányzat jegyzője |
 
-2. melléklet a 294/2013. (VII. 26.) Korm. rendelethez[^13]
+2. melléklet a 294/2013. (VII. 26.) Korm. rendelethez[^19]
 
-[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 97. § d) pontja hatályon kívül helyezte.
+[^19]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 97. § d) pontja hatályon kívül helyezte.
