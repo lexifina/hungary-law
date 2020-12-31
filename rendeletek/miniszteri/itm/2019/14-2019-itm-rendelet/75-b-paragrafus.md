@@ -1,6 +1,4 @@
-## 75/A. §[^18] E rendeletnek a fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 14/2019. (VI. 12.) ITM rendelet módosításáról szóló 39/2020. (X. 21.) ITM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépése[^19] napján folyamatban lévő ügyekben is alkalmazni kell.
-
-75/B. §[^20] (1) A XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 65. Munkaerőpiaci és képzési feladatok alcím, 1. Szakképzési Centrumok által ellátott felnőttoktatási tevékenység finanszírozása jogcímcsoport terhére személyenként 360 000 forint/év normatív támogatásra jogosult
+75/B. §[^50] (1) A XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 65. Munkaerőpiaci és képzési feladatok alcím, 1. Szakképzési Centrumok által ellátott felnőttoktatási tevékenység finanszírozása jogcímcsoport terhére személyenként 360 000 forint/év normatív támogatásra jogosult
 
 a) a szakképzési centrum a tanulói jogviszonyban felnőttoktatásban részt vevők után a képzések kifutásáig,
 
@@ -22,6 +20,4 @@ b) felnőttképzési szerződéssel még nem rendelkező képzésben részt vev�
 
 (7) A (2) bekezdés szerinti kedvezményezett a képzésekről elszámolást köteles benyújtani 2021. január 10-ig. A képzések tényleges induló létszáma és a megvalósult óraszám alapján a (2)–(4) bekezdés szerint számított tényleges jogosultságon felül biztosított támogatást vissza kell fizetni, vagy amennyiben a biztosított támogatásnál több kerül elszámolásra, a különbözet mértékében kiegészítő támogatást kell biztosítani.
 
-[^18]: A 75/A. §-t a 49/2019. (XII. 30.) ITM rendelet 5. §-a iktatta be, szövege a 39/2020. (X. 21.) ITM rendelet 6. §-ával megállapított szöveg.
-[^19]: A hatálybalépés időpontja 2020. október 22.
-[^20]: A 75/B. §-t a 39/2020. (X. 21.) ITM rendelet 7. §-a iktatta be.
+[^50]: A 75/B. §-t a 39/2020. (X. 21.) ITM rendelet 7. §-a iktatta be.

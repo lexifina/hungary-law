@@ -8,11 +8,11 @@
 
 (3) A támogatás keretében immateriális javak és tárgyi eszközök költsége számolható el.
 
-(4)[^14] A támogatott létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetésmentes módon, a vonatkozó jogszabályok figyelembevételével kell eljárni.
+(4)[^39] A támogatott létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetésmentes módon, a vonatkozó jogszabályok figyelembevételével kell eljárni.
 
-(5)[^15] A támogatott létesítményhez a felhasználók számára átlátható és megkülönböztetésmentes módon kell hozzáférést biztosítani.
+(5)[^40] A támogatott létesítményhez a felhasználók számára átlátható és megkülönböztetésmentes módon kell hozzáférést biztosítani.
 
 (6) A támogatási összeg nem haladhatja meg az elszámolható költségeknek és a beruházás működési eredményének a különbségét. A működési eredményt az elszámolható költségekből megalapozott előrejelzések alapján előzetesen vagy visszafizetési mechanizmus alkalmazásával kell levonni.
 
-[^14]: A 70. § (4) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § e) pontja szerint módosított szöveg.
-[^15]: A 70. § (5) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § f) pontja szerint módosított szöveg.
+[^39]: A 70. § (4) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § e) pontja szerint módosított szöveg.
+[^40]: A 70. § (5) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § f) pontja szerint módosított szöveg.

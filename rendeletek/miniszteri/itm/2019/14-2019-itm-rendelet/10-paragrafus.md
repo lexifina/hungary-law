@@ -2,7 +2,7 @@
 
 ## 5. Kamattámogatás és kezességi díjtámogatás
 
-10. §[^12] (1) Az 1. melléklet szerint a Széchenyi Kártya Program Konstrukciók keretében nyújtott kamattámogatás, kezelési költségtámogatás és egyéb, pénzügyi intézmény által megelőlegezett költségtámogatás a támogatott ügylet jellegétől függően a 20. alcímben meghatározott csekély összegű támogatásnak, a 22. alcímben meghatározott mezőgazdasági csekély összegű támogatásnak vagy az Európai Bizottságnak az SA.57285 (2020/N) számú ügyben hozott C(2020) 3459 final számú határozata és az SA.58288 (2020/N) számú ügyben hozott C(2020) 5661 final számú határozata szerinti, a 40. alcímben meghatározott átmeneti támogatásnak minősül.
+10. §[^36] (1) Az 1. melléklet szerint a Széchenyi Kártya Program Konstrukciók keretében nyújtott kamattámogatás, kezelési költségtámogatás és egyéb, pénzügyi intézmény által megelőlegezett költségtámogatás a támogatott ügylet jellegétől függően a 20. alcímben meghatározott csekély összegű támogatásnak, a 22. alcímben meghatározott mezőgazdasági csekély összegű támogatásnak vagy az Európai Bizottságnak az SA.57285 (2020/N) számú ügyben hozott C(2020) 3459 final számú határozata és az SA.58288 (2020/N) számú ügyben hozott C(2020) 5661 final számú határozata szerinti, a 40. alcímben meghatározott átmeneti támogatásnak minősül.
 
 (2) Az 1. melléklet szerinti intézményi kezességi díjtámogatás, és a Széchenyi Kártya Program Konstrukciók keretében nyújtott kezességi díjtámogatás a támogatott ügylet jellegétől függően a 20. alcímben meghatározott csekély összegű támogatásnak, a 22. alcímben meghatározott mezőgazdasági csekély összegű támogatásnak vagy az Európai Bizottságnak az SA.57121 (2020/N) számú ügyben hozott C(2020) 2855 final számú határozata, és az SA.57626 (2020/N) számú ügyben hozott C(2020) 4381 final számú határozata szerinti átmeneti támogatásnak minősül.
 
@@ -14,4 +14,4 @@
 
 (6) Az átmeneti konstrukciók keretében a vállalkozásoknak nyújtott kamattámogatás, kezelési költségtámogatás és egyéb, pénzügyi intézmény által előlegezett költségtámogatás esetén a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen működő Részvénytársaság írásban tájékoztatja a kedvezményezettet arról, hogy átmeneti támogatásban részesült az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény (HL C 91, 2020.03.20., 1. o., a továbbiakban: átmeneti keretszabály) 3.1. szakasza alapján. A tájékoztatásban rögzíteni kell az átmeneti támogatás támogatástartalmát, amelyet az Atr. 2. melléklet A) pontjában foglalt módszertan alapján kell kiszámítani.
 
-[^12]: A 10. § a 39/2020. (X. 21.) ITM rendelet 4. §-ával megállapított szöveg.
+[^36]: A 10. § a 39/2020. (X. 21.) ITM rendelet 4. §-ával megállapított szöveg.

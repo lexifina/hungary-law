@@ -1,0 +1,1 @@
+## 8. § Az Atr. 18. § (2) bekezdés a) pontja szerint a széles sávú infrastruktúrára irányuló támogatás esetében előzetesen be kell jelenteni az Európai Bizottság részére a támogatási intézkedést, ha a projekt összköltsége meghaladja a 70 millió eurónak megfelelő forintösszeget.

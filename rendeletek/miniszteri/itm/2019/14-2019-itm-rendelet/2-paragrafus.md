@@ -38,6 +38,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 14. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
+14a.[^1] egyéb kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (17) bekezdése szerinti éghajlati jelenség,
+
 15. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdésében és az 1408/2013/EU bizottsági rendelet 2. cikk 2. pontjában meghatározott feltételeknek megfelelő vállalkozás,
 
 16. eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti módszer alkalmazása,
@@ -65,6 +67,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 27. földi kiszolgálás: a 651/2014/EU bizottsági rendelet 2. cikk 151. pontja szerinti szolgáltatások,
 
 28. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak,
+
+28a.[^2] halászati és akvakultúra-termékek: az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek,
 
 29. hatékony együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 90. pontja szerinti együttműködés,
 
@@ -138,6 +142,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 64. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység,
 
+64a.[^3] mezőgazdasági üzem: a 702/201/EU bizottsági rendelet 2. cikk (8) bekezdése szerinti üzem,
+
 65. minőségrendszer: az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 2014–2020 (2014/C 204/01) (a továbbiakban: agrár- és erdészeti iránymutatás) II. rész 1.1.9. pont (282) bekezdésében meghatározott rendszerek,
 
 66. multifunkcionális szabadidős létesítmény: a 651/2014/EU bizottsági rendelet 55. cikk (3) bekezdése szerinti létesítmény,
@@ -152,9 +158,11 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 71. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás,
 
-72. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
+72.[^4] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdés szerinti vállalkozás,
 
 73. nem repüléstechnikai tevékenységek: a 651/2014/EU bizottsági rendelet 2. cikk 152. pontja szerinti kereskedelmi szolgáltatások,
+
+73a.[^5] növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
 
 74. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
@@ -200,6 +208,10 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 95. termékágazat: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 20-i 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–w) pontjában szereplő ágazat,
 
+95a.[^6] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
+
+95b.[^7] természeti katasztrófához hasonlító kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
+
 96. tőzsdén nem jegyzett kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás,
 
 97. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
@@ -207,3 +219,11 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 98. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát, vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek,
 
 99. újgenerációs hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 138. pontja szerinti hálózat.
+
+[^1]: A 2. § 14a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. § 28a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § 64a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (3) bekezdése iktatta be.
+[^4]: A 2. § 72. pontja az 59/2020. (XII. 30.) ITM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^5]: A 2. § 73a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (5) bekezdése iktatta be.
+[^6]: A 2. § 95a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.
+[^7]: A 2. § 95b. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.

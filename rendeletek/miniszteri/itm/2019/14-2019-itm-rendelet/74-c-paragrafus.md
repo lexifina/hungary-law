@@ -4,4 +4,6 @@
 
 (3) A halászati- és akvakultúra-ágazatban tevékeny vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma az átmeneti keretszabály 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 120 000 eurónak megfelelő forintösszeget.
 
-(4) Ha a támogatás mellett a kedvezményezett az Atr. 2. § 1. pontja szerinti rendeletekben meghatározott csekély összegű támogatásban is részesül vagy részesült, az igénybe veendő vagy igénybe vett csekély összegű támogatás nem csökkenti a támogatás (1)–(3) bekezdés szerinti legmagasabb mértékét.
+(4)[^44]
+
+[^44]: A 74/C. § (4) bekezdését az 59/2020. (XII. 30.) ITM rendelet 18. § (1) bekezdése hatályon kívül helyezte.

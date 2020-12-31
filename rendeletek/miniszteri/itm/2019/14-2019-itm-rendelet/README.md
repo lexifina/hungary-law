@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-14-20-7
 | 2019-12-31 | 2019-14-20-7Q.3 | 49/2019. (XII. 30.) ITM rendelet |
 | 2020-01-01 | 2019-14-20-7Q.4 | 49/2019. (XII. 30.) ITM rendelet |
 | 2020-10-22 | 2019-14-20-7Q.5 | 39/2020. (X. 21.) ITM rendelet |
+| 2020-12-31 | 2019-14-20-7Q.6 | 59/2020. (XII. 30.) ITM rendelet |
