@@ -1,3 +1,3 @@
-3. §[^1]
+3. § (1) A Kormány e rendelet hatályát a (2) bekezdés szerinti hatályvesztéséig meghosszabbítja.
 
-[^1]: A 3. § a 2. § (2) bekezdése alapján 2020. december 31-én lép hatályba.
+(2) Ez a rendelet 2021. január 2-án hatályát veszti.
