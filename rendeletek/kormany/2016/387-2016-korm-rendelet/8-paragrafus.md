@@ -30,11 +30,11 @@ d) 3. § (8) bekezdése az építési termékek forgalmazására vonatkozó harm
 
 e)[^44] 3. § (1) bekezdés j) pontja és 3. § (3) bekezdés f) pontja az (EU) 2018/302 rendelet,
 
-f)[^45] 3. § (1) bekezdés k) pontja és 3. § (3a) bekezdése az (EU) 2017/2394 rendelet,
+g)[^45] 3. § (4) bekezdés u) pontja az (EU) 2018/644 rendelet,
 
-g)[^46] 3. § (4) bekezdés u) pontja az (EU) 2018/644 rendelet,
+f)[^46] 3. § (1) bekezdés k) pontja és 3. § (3a) bekezdése az (EU) 2017/2394 rendelet,
 
 [^43]: A 8. § (1) bekezdés g) pontját az 522/2017. (XII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^44]: A 8. § (2) bekezdés e) pontját a 215/2018. (XI. 22.) Korm. rendelet 3. §-a iktatta be.
-[^45]: A 8. § (2) bekezdés f) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^46]: A 8. § (2) bekezdés g) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^45]: A 8. § (2) bekezdés g) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^46]: A 8. § (2) bekezdés f) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (1) bekezdése iktatta be.

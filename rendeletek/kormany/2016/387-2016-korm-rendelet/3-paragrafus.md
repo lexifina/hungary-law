@@ -8,7 +8,7 @@ c) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban
 
 d) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 63/A. § (3) bekezdésében, 113. § (2) bekezdésében,
 
-e)[^5] az Fttv. 12. § (3) bekezdésében,
+e)[^5]
 
 f) a pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról szóló 2008. évi LXXIII. törvény 11. § (2) bekezdés f) pont fc) alpontjában,
 
@@ -163,7 +163,7 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 (10)[^36] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
 
 [^4]: A 3. § (1) bekezdés a) pontja a 170/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (1) bekezdés e) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés e) pontját a 712/2020. (XII. 30.) Korm. rendelet 19. §-a hatályon kívül helyezte.
 [^6]: A 3. § (1) bekezdés i) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
 [^7]: A 3. § (1) bekezdés j) pontját a 215/2018. (XI. 22.) Korm. rendelet 1. §-a iktatta be.
 [^8]: A 3. § (1) bekezdés k) pontját a 170/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
