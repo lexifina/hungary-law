@@ -1,4 +1,4 @@
-9. melléklet a 45/2016. (XI. 29.) NGM rendelethez
+9. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^152]
 
 ## Jegyzőkönyv csővezetéken szállított energiatermék átadásáról-átvételéről
 
@@ -50,10 +50,12 @@
 
 4.2. Átadó és az átvevő neve/aláírása
 
-4.3. Állami adó- és vámhatóság megnevezése
+4.3.
 
-4.4. Állami adó- és vámhatósági bejegyzés
+4.4.
 
 * Az LPG esetében kg-ban kell megadni.
 
 ** Az LPG esetében nem kell kitölteni.
+
+[^152]: A 9. melléklet a 23/2020. (XII. 30.) PM rendelet 6. § 9. pontja szerint módosított szöveg.

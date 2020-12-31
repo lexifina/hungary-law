@@ -1,4 +1,4 @@
-## 31. § A Jöt. 43–52. §-a szerinti, valamint a Jöt.-ben és e rendeletben meghatározott egyéb bejelentéseket az arra kötelezett személy az állami adó- és vámhatóság által rendszeresített nyomtatványon teszi meg.
+## 31. §[^37] A Jöt.-ben és e rendeletben meghatározott bejelentéseket az arra kötelezett személy az állami adó- és vámhatóság által rendszeresített nyomtatványon teszi meg.
 
 32. § (1) A Jöt. 44. §-a szerinti tudományos és oktatási célú desztillálóberendezés bejelentéséhez csatolni kell
 
@@ -18,7 +18,7 @@ d) az előállított alkoholtermék fajtáját, mennyiségét (literben), tényl
 
 e) a felhasználásra, megsemmisítésre vonatkozó adatokat (a felhasználás vagy megsemmisítés módja, dátuma).
 
-(3) A Jöt. 45. §-a szerinti rekultivációs tevékenység megkezdésének bejelentéséhez csatolni kell az energiatermék kinyerését eredményező tevékenység rövid műszaki leírását.
+(3)[^38]
 
 (4) A Jöt. 46. §-a szerinti légiutas-ellátási tevékenység bejelentéséhez csatolni kell a légijárművek ellátásáról szóló megállapodás másolatát és a készletváltozásokat alátámasztó szigorú számadású bizonylatok mintáját.
 
@@ -36,10 +36,12 @@ b) az eltávolított repülőgép-üzemanyag légijárműbe történő visszatö
 
 c) az eltávolított repülőgép-üzemanyag elszállítása esetén az üzemanyagot átvevő megnevezését, a szállítási bizonylat sorszámát, az üzemanyag mennyiségi adatait és az elszállítás időpontját.
 
-(9)[^36]
+(9)[^39]
 
 (10) A műszaki biztonsági hatóság a lakossági energiafogyasztó által létesített sűrített gáztöltő berendezés üzembe helyezéséről soron kívül tájékoztatja az állami adó- és vámhatóságot.
 
 (11) Ha a lakossági energiafogyasztó a Jöt. 52. §-a alapján tett bejelentésben szereplőnél több üzemanyagot állított elő, a különbözet mennyiségéről a sűrítés megtörténtét követő 3 munkanapon belül tájékoztatja az állami adó- és vámhatóságot.
 
-[^36]: A 32. § (9) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § b) pontja alapján nem lép hatályba.
+[^37]: A 31. § a 23/2020. (XII. 30.) PM rendelet 6. § 2. pontja szerint módosított szöveg.
+[^38]: A 32. § (3) bekezdését a 23/2020. (XII. 30.) PM rendelet 6. § 4. pontja hatályon kívül helyezte.
+[^39]: A 32. § (9) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § b) pontja alapján nem lép hatályba.

@@ -1,8 +1,8 @@
-## 45. §[^60] A jövedéki termék mennyiségének megállapításakor a hitelesített mérőeszköz vagy hitelesített tárolótartály mérési bizonytalanságát az adózó javára kell figyelembe venni.
+## 45. §[^63] A jövedéki termék mennyiségének megállapításakor a hitelesített mérőeszköz vagy hitelesített tárolótartály mérési bizonytalanságát az adózó javára kell figyelembe venni.
 
 46. § (1) A szesz mennyiségét
 
-a)[^61] gyártáskor a szeszmérő gép által mért térfogat és az összegyűjtött próbaszesz vagy az előállított termék tényleges alkoholtartalma szorzataként,
+a)[^64] gyártáskor a szeszmérő gép által mért térfogat és az összegyűjtött próbaszesz vagy az előállított termék tényleges alkoholtartalma szorzataként,
 
 b) egyéb esetben a rendelkezésre álló feltételek figyelembevételével,
 
@@ -38,7 +38,7 @@ bd) nem hitelesített tartály alkalmazása esetén a töltéshez használt hite
 
 (5) A palackozott alkoholtermék mennyiségét a kiszerelések űrtartalma és darabszáma szorzataként, tényleges alkoholtartalmát a kiszerelésen feltüntetett alkoholtartalom alapján kell megállapítani.
 
-(6)–(7)[^62]
+(6)–(7)[^65]
 
 (8) A tényleges alkoholtartalom megállapítása történhet
 
@@ -46,6 +46,6 @@ a) hitelesített szeszfokmérővel vagy hitelesített alkoholsűrűség-mérőve
 
 b) – ha a tényleges alkoholtartalom megállapítására az a) pont szerinti mérési módszer a termék összetétele vagy más jellemzője következtében nem alkalmas, vagy a mérést végző választása szerint – más, a vonatkozó jogszabály szerinti vizsgálati módszerrel.
 
-[^60]: A 45. § a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
-[^61]: A 46. § (1) bekezdés a) pontja a 47/2017. (XII. 27.) NGM rendelet 14. § 10. pontja szerint módosított szöveg.
-[^62]: A 46. § (6) és (7) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 11. pontja hatályon kívül helyezte.
+[^63]: A 45. § a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^64]: A 46. § (1) bekezdés a) pontja a 47/2017. (XII. 27.) NGM rendelet 14. § 10. pontja szerint módosított szöveg.
+[^65]: A 46. § (6) és (7) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 11. pontja hatályon kívül helyezte.

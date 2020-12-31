@@ -20,7 +20,7 @@ e) felhasználói engedély iránti kérelem esetében az előállított, felhas
 
 f) a tevékenység végzésére használni kívánt telephelyen folytatott tevékenységhez jogszabályban előírt engedélyek, igazolások listáját telephelyenkénti összeállításban (kiadó vagy nyilvántartásba vevő hatóság, engedély vagy igazolás megnevezése, száma, kiadásának időpontja),
 
-g)[^2] a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üzemszünet ideje alatt alkalmazott papíralapú okmány, valamint a szabad forgalomban nem szabadforgalomba bocsátáskor vagy nem tagállami szállítás esetén alkalmazott bizonylat kivételével a Jöt. 90. §-a szerinti okmányok aláírására jogosult személy aláírásmintáját, kivéve, ha
+g)[^2] a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üzemszünet ideje alatt alkalmazott papíralapú okmány, valamint a szabad forgalomban nem szabadforgalomba bocsátáskor vagy nem tagállami szállítás esetén alkalmazott bizonylat kivételével a Jöt. 90. §-a szerinti nem elektronikus okmányok aláírására jogosult személy aláírásmintáját, kivéve, ha
 
 ga) az aláírásra jogosult aláírásmintáját az állami adó- és vámhatóság képviselőjének jelenlétében megadja,
 
@@ -78,7 +78,7 @@ b) a (3) bekezdésbeliből csak az a) pont szerinti kötelezettséget kell telje
 
 c) – a 19. § szerinti esetben – csatolni kell az egyszerűsített adóraktár helyszínrajzát, amelyen pontosan fel van tüntetve a kérelmező által adóraktárként használt pincerész, azon belül a tárolóedények pontos helye, azonosításra alkalmas jele, darabszáma, űrtartalma.
 
-[^2]: A 2. § (2) bekezdés g) pontja az 5/2017. (III. 30.) NGM rendelet 3. § (1) bekezdésével megállapított, a 47/2017. (XII. 27.) NGM rendelet 14. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés g) pontja az 5/2017. (III. 30.) NGM rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 47/2017. (XII. 27.) NGM rendelet 14. § 1. pontja, a 23/2020. (XII. 30.) PM rendelet 5. §-a szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdés i) pontja a 47/2017. (XII. 27.) NGM rendelet 14. § 2. pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés j) pontja a 47/2017. (XII. 27.) NGM rendelet 14. § 2. pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés m) pontja az 5/2017. (III. 30.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
