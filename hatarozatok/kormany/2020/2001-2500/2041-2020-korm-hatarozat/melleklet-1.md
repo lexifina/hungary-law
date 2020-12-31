@@ -18,13 +18,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:14a mezőjében a „12,85 (ebből VEKOP: 3,43)” szövegrész helyébe a „20,81 (ebből VEKOP: 3,43)” szöveg,
-
-## b) E:14a mezőjében a „0,61” szövegrész helyébe a „4,02” szöveg
-
-## lép.
+## 4.[^1]
 
 1. melléklet a 2041/2020. (XII. 29.) Korm. határozathoz
 
@@ -35,3 +29,5 @@
 | 2. | Az EFOP keretében finanszírozandó összeg | A Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP) keretében finanszírozandó összeg | Indikatív önerő | Az EFOP keretében finanszírozandó összeg | A VEKOP keretében finanszírozandó összeg | Indikatív önerő | Az EFOP keretében finanszírozandó összeg | A VEKOP keretében finanszírozandó összeg | Indikatív önerő |
 
 | 3. | EFOP- 1.8.0- VEKOP-17- 2018-00001 | Egészségügyi ellátórendszer szakmai módszertani fejlesztése | Nemzeti Népegészségügyi Központ (konzorciumvezető) Állami Egészségügyi Ellátó Központ, Semmelweis Egyetem, Nemzeti Egészségbiztosítási Alapkezelő | 9 419 612 300 | 3 429 000 000 | 607 976 700 | 7 956 900 000 | – | 3 410 100 000 | 17 376 512 300 | 3 429 000 000 | 4 018 076 700 | 24 823 589 000 | A projekt célja minőségében megújult komplex egészségügyi alapellátási és népegészségügyi rendszer létrehozása, a népegészségügyi szolgáltatásokhoz, ismeretekhez való hozzáférés javítása, illetve a megelőzés és egészségfejlesztés, a kialakított közösségi egészségszervezési és a helyi egészségfejlesztési funkciók meglévő kapacitásainak kibővítése a le nem fedett földrajzi területeken, valamint az egészségfejlesztés feladatrendszerére a mentális egészségfejlesztés funkcióinak ráépítése. A projekt célja továbbá a szervezeti kultúra fejlesztése (és ezen belül a személyzet képzése és felkészítése), valamint a veszélyforrásokra figyelmet szentelő szemlélet megteremtése a betegbiztonság mint az egészségügyi ellátás során potenciálisan bekövetkező, elkerülhető egészségkárosodással szembeni védelem fejlesztése érdekében, valamint az ellátásbiztonság és a járványügyi felkészültség fokozása. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
