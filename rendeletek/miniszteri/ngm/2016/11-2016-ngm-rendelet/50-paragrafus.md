@@ -1,7 +1,7 @@
 50. § (1) A vámszabad terület üzemeltetőjének a vámszabad terület szárazföldi részét – a kijelölésben meghatározottaknak megfelelően – vámszempontból biztonságosan kell bekerítenie.
 
-(2)[^42] A kerítésnek legalább 3 méter magas, erős dróthálóból készültnek kell lennie, amely legfeljebb tizenkét centiméter hosszú és széles hálószemekből áll. Ahol a vámszabad terület két oldalán húzódó földterület nem azonos magasságú, a kerítésnek a magasabban fekvő terület felszínétől számítva kell 3 méter magasnak lennie. Ahol a kerítés vízfelülettel érintkezik, a kerítésre derékszögben egy, legalább két méter széles, a tetején őrzött, vasból vagy bádogból készült falat vagy egy, több méter széles dróthálórácsot kell emelni.
+(2)[^43] A kerítésnek legalább 3 méter magas, erős dróthálóból készültnek kell lennie, amely legfeljebb tizenkét centiméter hosszú és széles hálószemekből áll. Ahol a vámszabad terület két oldalán húzódó földterület nem azonos magasságú, a kerítésnek a magasabban fekvő terület felszínétől számítva kell 3 méter magasnak lennie. Ahol a kerítés vízfelülettel érintkezik, a kerítésre derékszögben egy, legalább két méter széles, a tetején őrzött, vasból vagy bádogból készült falat vagy egy, több méter széles dróthálórácsot kell emelni.
 
 (3) A vámszabad terület üzemeltetőjének az illetékes vámhivatal utasítása szerint arról is gondoskodnia kell, hogy a vámszabad terület épületeken kívüli részét úgy megvilágítsák, hogy az illetékes vámhivatal általi felügyelet biztosítható legyen.
 
-[^42]: Az 50. § (2) bekezdése a 63/2016. (XII. 29.) NGM rendelet 40. §-a szerint módosított szöveg.
+[^43]: Az 50. § (2) bekezdése a 63/2016. (XII. 29.) NGM rendelet 40. §-a szerint módosított szöveg.
