@@ -1,0 +1,5 @@
+A jogalkotásról szóló 2010. évi CXXX. törvény 10. § (5) bekezdésében kapott felhatalmazás alapján,
+
+a 2. alcím tekintetében az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 14. § (6) bekezdés a) és b) pontjában, 14. § (7) bekezdésében, továbbá az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 39. § (2) és (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 15. pontjában meghatározott feladatkörömben eljárva,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 6. pontjában meghatározott feladatkörömben eljárva – a 2. § és a 3. § tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben – a következőket rendelem el:
