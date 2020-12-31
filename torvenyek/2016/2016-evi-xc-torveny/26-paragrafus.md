@@ -1,1 +1,0 @@
-26. § A XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. cím, 1. alcím, 1. Beruházás ösztönzési célelőirányzat jogcímcsoport tekintetében a tárgyéven túli fizetési kötelezettségvállalás állomány összege nem haladhatja meg a 97 500,0 millió forintot.
