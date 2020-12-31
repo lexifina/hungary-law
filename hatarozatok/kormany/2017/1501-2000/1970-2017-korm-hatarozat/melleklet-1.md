@@ -42,7 +42,7 @@
 
 ## Határidő: az épületek átadását követő 2 hónapon belül
 
-1. melléklet az 1970/2017. (XII. 19.) Korm. határozathoz
+1. melléklet az 1970/2017. (XII. 19.) Korm. határozathoz[^1]
 
 Az Egészséges Budapest Program keretében megvalósuló járóbeteg-szakellátási fejlesztések
 
@@ -58,7 +58,7 @@ Az Egészséges Budapest Program keretében megvalósuló járóbeteg-szakellát
 
 | 4 | A Gyömrői Rendelőintézet korszerűsítése – Bajcsy-Zsilinszky Kórház | Építészeti és gépészeti felújítás, orvostechnológiai eszközpark modernizálása, szakellátások fejlesztése | 21 400 000 (Gyömrői Önkormányzat) | 311 100 000 | 332 500 000 |
 
-| 5 | A XVII. kerület (Rákosmente) Szakorvosi Rendelőintézetének fejlesztése – Bajcsy- Zsilinszky Kórház | A rendelőintézet bővítése, belső felújítása, gasztroenterológiai és képalkotó diagnosztika fejlesztése, orvostechnológiai és informatikai eszközök beszerzése | 100 000 000 (XVII. kerület Rákosmente Önkormányzata) | 1 656 899 857 | 1 756 899 857 |
+| 5. | A XVII. kerület (Rákosmente) Szakorvosi Rendelőintézetének fejlesztése – Bajcsy-Zsilinszky Kórház | A rendelőintézet bővítése, belső felújítása, gasztroenterológiai és képalkotó diagnosztika fejlesztése, orvostechnológiai és informatikai eszközök beszerzése | 100 000 000 (XVII. kerület Rákosmente Önkormányzata) | 4 342 899 857 | 4 442 899 857 |
 
 | 6 | A XVI. kerületi Kertvárosi Egészségügyi Szolgálat járóbeteg- szakellátásának korszerűsítése, bővítése | Telephelyek racionalizálása, rendelőintézet bővítése, egynapos sebészet és gasztroenterológia fejlesztése, orvostechnológai eszközpark modernizálása | 120 000 000 (XVI. kerület Kertváros Önkormányzata) | 1 149 401 175 | 1 269 401 175 |
 
@@ -70,4 +70,6 @@ Az Egészséges Budapest Program keretében megvalósuló járóbeteg-szakellát
 
 | 10 | Általános tervezési és beruházási céltartalék |  | 685 008 413 |  |
 
-| ÖSSZESEN | 2 738 846 120 | 15 715 176 672 | 18 454 022 792 |
+| ÖSSZESEN | 2 738 846 120 | 18 401 176 672 | 21 140 022 792 |
+
+[^1]: Az 1. melléklet a 2066/2020. (XII. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
