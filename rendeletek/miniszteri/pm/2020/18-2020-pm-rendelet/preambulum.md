@@ -1,0 +1,17 @@
+A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 82. § d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklet F) pontjában foglalt táblázat 4. sorában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 20. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben –,
+
+a 2. alcím tekintetében a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva,
+
+a 3. alcím tekintetében az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 260. § (1) bekezdés c) és h) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva,
+
+a 4. alcím tekintetében az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 213. § (1) bekezdés 12. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva,
+
+az 5. alcím tekintetében az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 213. § (2) bekezdés a) és b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben,–
+
+a 12. § a) pontja tekintetében az adózás rendjéről szóló 2017. évi CL. törvény 269. § (1) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva,
+
+a 12. § b) pontja tekintetében a helyi adókról szóló 1990. évi C. törvény 46. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva,
+
+a 13. § tekintetében a katasztrófavédelemről és a hozzá kapcsolódó egyéb törvények módosításáról szóló 2011. évi CXXVIII. törvény 82. § (3) bekezdésében, valamint a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (3) bekezdésében kapott felhatalmazás alapján,a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdésében és az Alaptörvény 18. cikk (2) bekezdésében meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 8. pontjában meghatározott feladatkörében eljáró belügyminiszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben –
+
+a következőket rendelem el:

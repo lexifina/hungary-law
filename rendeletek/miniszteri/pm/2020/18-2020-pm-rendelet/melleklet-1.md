@@ -1,0 +1,7 @@
+1. melléklet a 18/2020. (XII. 30.) PM rendelethez
+
+„2. melléklet a 13/2016. (IV. 29.) NGM rendelethez
+
+A katonai vámügyi szerv általi hitelesítésre szolgáló bélyegző mintája
+
+”
