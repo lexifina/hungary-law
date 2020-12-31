@@ -14,6 +14,9 @@ d) a temetéssel kapcsolatos szolgáltatások és kellékek költségei.
 
 (4) Az (1) bekezdésben meghatározott költségeket az igényjogosult nevére kiállított, eredeti számlával kell igazolni.
 
-(5) A Hivatal hozzájárulásának mértékére a személyügyi szerv tesz javaslatot, és arról a gazdasági vezető fedezetigazolása mellett a főigazgató dönt.
+(5)[^6] A Hszt. 264. § (2) bekezdésének hatálya alá tartozó elhunyt esetében a Hivatal hozzájárulásának mértékére a személyügyi szerv tesz javaslatot, és arról a gazdasági vezető fedezetigazolása mellett a főigazgató dönt.
 
-(6) A Hivatal hozzájárulása összességében nem haladhatja meg a mindenkori minimálbér háromszorosát.
+(6)[^7] A Hszt. 264. § (2) bekezdésének hatálya alá tartozó elhunyt esetében a temetési költségekhez történő hozzájárulás összességében nem haladhatja meg a mindenkori minimálbér háromszorosát.
+
+[^6]: A 14. § (5) bekezdése a 16/2020. (XII. 16.) KKM rendelet 9. §-ával megállapított szöveg.
+[^7]: A 14. § (6) bekezdése a 16/2020. (XII. 16.) KKM rendelet 9. §-ával megállapított szöveg.

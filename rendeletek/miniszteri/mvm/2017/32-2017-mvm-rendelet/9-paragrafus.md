@@ -4,7 +4,7 @@ a) egyeneságbeli rokona vagy vele közös háztartásban élő házastársa hun
 
 b) olyan hozzátartozója hunyt el, akinek eltartására kötelezett volt,
 
-## és a temetésre fordított kiadások rá hárultak.
+és a temetésre fordított kiadások rá hárultak.
 
 (2) A temetési segély bruttó összege nem haladhatja meg a mindenkori minimálbér kétszeres összegét.
 

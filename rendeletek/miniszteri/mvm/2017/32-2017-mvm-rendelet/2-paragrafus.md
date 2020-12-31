@@ -1,4 +1,4 @@
-## 1/A. §[^1] A rendvédelmi igazgatási alkalmazottra e rendelet szabályait – a 13. § kivételével – megfelelően alkalmazni kell.
+## 1/A. §[^2] A rendvédelmi igazgatási alkalmazottra e rendelet szabályait – a 13. § kivételével – megfelelően alkalmazni kell.
 
 ## 2. A szociális és kegyeleti gondoskodásra vonatkozó általános szabályok
 
@@ -8,4 +8,4 @@
 
 (3) Szociális és kegyeleti gondoskodás körében nyújtható pénzbeli ellátás a Hivatal főigazgatója (a továbbiakban: főigazgató) által a Hivatal éves költségvetésben e célra jóváhagyott előirányzat mértékéig engedélyezhető. Indokolt esetben az előirányzat a személyi juttatások előirányzaton belüli előirányzat-átcsoportosítással emelhető.
 
-[^1]: Az 1/A. §-t a 2/2019. (V. 17.) KKM rendelet 36. §-a iktatta be.
+[^2]: Az 1/A. §-t a 2/2019. (V. 17.) KKM rendelet 36. §-a iktatta be.
