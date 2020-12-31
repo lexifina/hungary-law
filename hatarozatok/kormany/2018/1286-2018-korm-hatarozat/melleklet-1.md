@@ -26,7 +26,7 @@
 
 ## a c) alpont tekintetében a 2020. évi központi költségvetés tervezése során
 
-1. melléklet az 1286/2018. (VI. 25.) Korm. határozathoz
+1. melléklet az 1286/2018. (VI. 25.) Korm. határozathoz[^1]
 
 Az Egészséges Budapest Program keretében megvalósuló járóbeteg-szakellátási fejlesztések
 
@@ -34,10 +34,12 @@ Az Egészséges Budapest Program keretében megvalósuló járóbeteg-szakellát
 
 | Önkormányzat | Egészséges Budapest Program |
 
-| 1. | Budapest III. kerület – Szent Margit Rendelőintézet | A Vörösvári úti és a Csobánka téri telephelyek felújítása külső telephely összevonásával, épületek gépészeti és műszaki korszerűsítése, orvostechnológiai és informatikai eszközpark cseréje | 480 000 000 | 5 150 194 700 | 5 630 194 700 |
+| 1. | Budapest III. kerület – Szent Margit Rendelőintézet | A Vörösvári úti telephely felújítása, az épület gépészeti és műszaki korszerűsítése, orvostechnológiai és informatikai eszközpark cseréje | 480 000 000 | 1 687 592 000 | 2 167 592 000 |
 
 | 2. | Budapest VIII. kerület – Józsefvárosi Szent Kozma Egészségügyi Központ | Orvostechnológiai eszközpark modernizálása új eszközök beszerzésével | 46 163 230 | 184 652 920 | 230 816 150 |
 
-| 3. | Budapest XV. kerület – Dr. Vass László Egészségügyi Intézmény | Pszichiátriai ellátás fejlesztése Lelki Egészségközpont kialakításával, meglévő épület korszerűsítésével | 43 241 000 | 385 168 600 | 428 409 600 |
+| 3. |  |  |  |  |  |
 
-| ÖSSZESEN | 569 404 230 | 5 720 016 220 | 6 289 420 450 |
+| ÖSSZESEN | 526 163 230 | 1 872 244 920 | 2 398 408 150 |
+
+[^1]: Az 1. melléklet a 2067/2020. (XII. 31.) Korm. határozat 2–3. pontja szerint módosított szöveg.
