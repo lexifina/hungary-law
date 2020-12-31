@@ -1,0 +1,5 @@
+## 11. § A Rendelet 74/E. §-a helyébe a következő rendelkezés lép:
+
+## „74/E. § (1) Ha egy vállalkozás több ágazatban is tevékenykedik, és ezekre a 74/C. § (1) bekezdése és a 74/C. § (2)–(3) bekezdése szerint eltérő maximális összegek vonatkoznak, a vállalkozás a támogatásokról olyan elkülönített nyilvántartást köteles vezetni, amely biztosítja az érintett tevékenységekre vonatkozó felső határok betartását, és azt, hogy a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 800 000 eurónak megfelelő forintösszeget. Ha egy vállalkozás a 74/C. § (2)–(3) bekezdése szerinti ágazatokban tevékenykedik, a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 120 000 eurónak megfelelő forintösszeget.
+
+## (2) Azonos elszámolható költségek esetén a támogatás abban az esetben halmozható csekély összegű támogatással, ha támogatáshalmozás nem vezet a 74/C. § (1)–(3) bekezdése szerint maximális támogatási összeg túllépéséhez.”
