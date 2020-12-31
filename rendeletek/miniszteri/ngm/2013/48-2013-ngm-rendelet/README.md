@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-48-20-2
 | 2018-01-01 | 2013-48-20-2X.9 | 48/2017. (XII. 29.) NGM rendelet |
 | 2018-12-30 | 2013-48-20-2X.10 | 9/2016. (III. 25.) NGM rendelet |
 | 2019-05-31 | 2013-48-20-2X.11 | 5/2019. (V. 30.) PM rendelet |
+| 2020-12-31 | 2013-48-20-2X.12 | 9/2016. (III. 25.) NGM rendelet |
