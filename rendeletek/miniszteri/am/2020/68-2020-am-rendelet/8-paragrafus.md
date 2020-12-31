@@ -1,0 +1,7 @@
+8. § (1) A jövedelemcsökkenés mértékének kiszámítása során az üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutatókat és az üzemméretre vetített mezőgazdasági referenciajövedelem-mutatókat a (2) bekezdésben foglaltak szerint kell meghatározni.
+
+(2) Az üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutató a tárgyévi mezőgazdasági tevékenység jövedelme és az üzemméret hányadosának, az üzemméretre vetített mezőgazdasági referenciajövedelem-mutató a mezőgazdasági referenciajövedelem és a tárgyévet megelőző három év átlagos üzemmérete hányadosának felel meg. Az üzemméret alatt a gazdaság standard termelési értékékét (a továbbiakban: STÉ) kell érteni.
+
+(3) Az STÉ-t a mezőgazdasági termelő által megadott adatok és az Európai Unióban működő mezőgazdasági üzemek jövedelmére és üzleti tevékenységére vonatkozó számviteli adatok gyűjtésére szolgáló hálózat létrehozásáról szóló 1217/2009/EK tanácsi rendelet alkalmazására vonatkozó szabályok megállapításáról szóló, 2015. február 3-i (EU) 2015/220 bizottsági végrehajtási rendeletben meghatározott módszertan szerint az agrárgazdasági elemzésekkel foglalkozó intézmény határozza meg.
+
+(4) Az üzemméretre vetített mezőgazdasági jövedelemváltozás – a 2. mellékletben foglaltak szerint – az üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutató és az üzemméretre vetített mezőgazdasági referenciajövedelem-mutató hányadosának felel meg.
