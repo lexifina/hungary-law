@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-36-20-6
 | 2015-07-24 | 2015-36-20-6N.2 | 2010: CXXX. törvény |
 | 2016-06-30 | 2015-36-20-6N.3 | 18/2016. (VI. 29.) MvM rendelet |
 | 2019-05-18 | 2015-36-20-6N.4 | 2/2019. (V. 17.) KKM rendelet |
+| 2020-12-31 | 2015-36-20-6N.5 | 16/2020. (XII. 16.) KKM rendelet |
