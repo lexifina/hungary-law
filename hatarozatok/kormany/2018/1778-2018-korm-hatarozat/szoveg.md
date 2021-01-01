@@ -46,29 +46,16 @@ Felelős: pénzügyminiszter
 
 Határidő: Magyarország 2021–2030. évi központi költségvetéseinek tervezése során
 
-6.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 5. Intézményi kezességi díjtámogatások jogcímcsoporton rendelkezésre álló előirányzat terhére vállalható tárgyéven túli kötelezettségek mértékét a 2021–2032. évekre az alábbiak szerint állapítja meg:
-
-a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 4 500 000 000 forint,
-
-b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 5 000 000 000 forint,
-
-c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 4 200 000 000 forint,
-
-d) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 3 500 000 000 forint,
-
-e) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 3 000 000 000 forint,
-
-f) a 2026–2032. évekre vonatkozó kötelezettségvállalások felső korlátja évente 2 500 000 000 forint.
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+6.[^2]
 
 7.[^3]
 
-8–9.[^4]
+8.[^4]
+
+9.[^5]
 
 [^1]: A 2. pont az 1857/2020. (XI. 28.) Korm. határozat 4. pontjával megállapított szöveg.
-[^2]: A 6. pont az 1684/2020. (X. 21.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 6. pontot az 1913/2020. (XII. 16.) Korm. határozat 8. pontja visszavonta.
 [^3]: A 7. pontot az 1684/2020. (X. 21.) Korm. határozat 7. pontjával visszavonta.
-[^4]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
