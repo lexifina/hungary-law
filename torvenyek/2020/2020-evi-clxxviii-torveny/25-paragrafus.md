@@ -7,11 +7,3 @@
 (3) A 23. § a kihirdetést követő 31. napon lép hatályba.
 
 (4) A 15. §, a 19. § d)–l) pontja és a 20. § 2021. március 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
