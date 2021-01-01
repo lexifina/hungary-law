@@ -16,6 +16,6 @@ g) az elítélt halála,
 
 h) a bv. szerv létesítményét vagy járművét veszélyeztető elemi csapás vagy jelentős tűzeset.
 
-(2)[^53] A rendkívüli esemény bekövetkezéséről a törvényességi felügyeletet ellátó ügyészséget értesíteni kell.
+(2)[^67] A rendkívüli esemény bekövetkezéséről a törvényességi felügyeletet ellátó ügyészséget értesíteni kell.
 
-[^53]: A 48. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.
+[^67]: A 48. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.

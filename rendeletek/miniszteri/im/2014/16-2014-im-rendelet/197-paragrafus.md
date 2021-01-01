@@ -1,3 +1,3 @@
-## 99. [^211] A letartóztatott szabadítása
+## 99. [^262] A letartóztatott szabadítása
 
-[^211]: A 99. alcím címe a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.
+[^262]: A 99. alcím címe a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.

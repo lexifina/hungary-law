@@ -10,4 +10,6 @@
 
 (5) Szakképzésben résztvevő elítélt az öt hónapot meghaladó, de tíz hónapot el nem érő képzés esetén egyszer, azt meghaladó időtartam esetében két alkalommal részesülhet kiegészítő ösztöndíjban a (3) bekezdés szabályai szerint.
 
-(6) Ha a bv. intézet parancsnoka az iskolarendszeren kívüli szakképzés vagy a felsőfokú tanulmányok folytatása során engedélyezi az elítélt számára a Bv. tv. 181. § (2) bekezdése szerinti ösztöndíj megállapítását, az elítélttel képzési megállapodást kell kötni, amely tartalmazza az elítélt kötelezettségeit, valamint a nem teljesítéssel járó megtérítési kötelezettséget is.
+(6)[^133] Ha a bv. intézet parancsnoka a nem a bv. intézet által szervezet szakmai képzés vagy a felsőfokú tanulmányok folytatása során engedélyezi az elítélt számára a Bv. tv. 181. § (2) bekezdése szerinti ösztöndíj megállapítását, az elítélttel képzési megállapodást kell kötni, amely tartalmazza az elítélt kötelezettségeit, valamint a nem teljesítéssel járó megtérítési kötelezettséget is.
+
+[^133]: A 118. § (6) bekezdése a 20/2020. (XII. 30.) IM rendelet 104. § 14. pontja szerint módosított szöveg.

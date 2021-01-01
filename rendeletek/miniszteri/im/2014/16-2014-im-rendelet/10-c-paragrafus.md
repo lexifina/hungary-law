@@ -1,14 +1,15 @@
-## 5/B. [^8] Kártalanítás az alapvető jogokat sértő elhelyezési körülmények miatt
+10/C. § (1) Ha a kérelem alapján megállapítható, hogy a jogszabályban előírt élettér az adott bv. intézetben nem biztosítható, a bv. intézet parancsnoka, a Befogadási és Fogvatartási Bizottság (a továbbiakban: BFB) javaslata alapján határozattal dönt a sérelem ellensúlyozása érdekében hozott intézkedésről.
 
-10/C. § (1) Az elítélt vagy az egyéb jogcímen fogvatartott az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás iránti igényét a 8. melléklet szerinti nyomtatványon is benyújthatja.
+(2) A bv. intézet parancsnoka a Bv. tv. 75/I. § (2) bekezdésében meghatározott esetben a BVOP elhelyezésért felelős szakterületének vezetőjéhez intézett megkereséséhez csatolja a kártalanítás iránti kérelmet és az elítélt vagy az egyéb jogcímen fogvatartott kapcsolattartására vonatkozó adatokat.
 
-(2) A kártalanítási igény beérkezését követően a bv. intézet ellenőrzi a Bv. tv. 10/A. §-ában meghatározott feltételek fennállását. A Bv. tv. 10/A. § (5) bekezdése szerinti nyilatkozat hiánya esetén a kérelmezőt tizenöt napos határidő megadásával a Bv. tv. 20. § (5) bekezdése szerinti hiánypótlásra szólítja fel. A határidő elteltével – kivéve, ha az elítélt vagy az egyéb jogcímen fogvatartott annak meghosszabbítását kéri – a bv. intézet a Bv. tv. 70/A. § (2) bekezdése szerint jár el.
+(3) A BVOP elhelyezésért felelős szakterületének vezetője az átszállításról szóló döntés meghozatalakor az elítélt vagy az egyéb jogcímen fogvatartott végrehajtási fokozatának megfelelő bv. intézetek telítettségi mutatóit köteles figyelembe venni. Ha több bv. intézetben is biztosítható a jogszabályban előírt élettér, ezek közül a szabadságvesztés végrehajtási helyét a BVOP elhelyezésért felelős szakterületének vezetője az elítélt vagy az egyéb jogcímen fogvatartott kapcsolattartási és foglalkoztatási lehetőségeire tekintettel jelöli ki.
 
-(3) Az alapvető jogokat sértő elhelyezési körülményekből eredő sérelem orvoslása miatt indított kártalanítási eljárás során, a Bv. tv. 70/A. § (2) bekezdése szerinti bv. intézeti vélemény minden esetben a kérelemben megjelölt teljes fogvatartási időszakra kell, hogy vonatkozzon. Ha ez alapján több bv. intézet érintett, akkor a fogva tartó, illetve az utolsó szabadítást végző bv. intézet gyűjti össze és terjeszti elő a szükséges adatokat a büntetés-végrehajtási bíróhoz.
+(4) Ha a jogszabályban előírt élettér csak olyan bv. intézetben biztosítható, amely az elítélt vagy az egyéb jogcímen fogvatartott lakóhelyétől vagy tartózkodási helyétől a jelenlegi elhelyezést biztosító bv. intézethez képest nagyobb távolságra helyezkedik el, és az átszállítás a kapcsolattartáshoz való jog sérelmét eredményezhetné, a BVOP elhelyezésért felelős szakterületének vezetője a döntés meghozatala előtt bekéri – a fogva tartó bv. intézet útján – az elítélt vagy az egyéb jogcímen fogvatartott írásos beleegyező nyilatkozatát.
 
-(4)[^9] A bv. intézet a kártalanítási igénnyel kapcsolatos véleményét a 10/A. § (1) bekezdése szerinti eljárásban, szabadult elítélt vagy egyéb jogcímen fogvatartott esetében iratok alapján készíti el, és azt a fogvatartotti nyilvántartásnak az elítélt elhelyezési körülményeire vonatkozó adatait tartalmazó kivonattal együtt a Bv. tv. 70/A. § (2) bekezdése szerinti határidőben továbbítja a büntetés-végrehajtási bírónak. A véleményhez csatolni kell a kártalanítási igénnyel érintett, fogvatartás alapjául szolgáló büntetőügyben hozott jogerős ügydöntő határozatok másolatát.
+(5) Az átszállításról szóló határozat egy példányát a bv. intézetbe érkezéstől számított három napon belül kézbesíteni kell az elítélt vagy az egyéb jogcímen fogvatartott részére. Ha az elítélt vagy az egyéb jogcímen fogvatartott az átszállításról szóló határozat érkezésekor más bv. intézetben tartózkodik, az átszállításról szóló határozat elektronikus példányát kell megküldeni és igazoltan kézbesíteni.
 
-(5) A bv. intézet a fogvatartotti nyilvántartásából soron kívül rendelkezésére bocsátja a kérelem elbírálásához a büntetés-végrehajtási bíró által igényelt további határozatokat, fogvatartási dokumentumokat és elítélti nyilatkozatokat.
+## miatt felmerülő kiadások érdekében szükséges.
 
-[^8]: Az 5/B. alcímet (10/C. §) a 24/2016. (XII. 23.) IM rendelet 12. §-a iktatta be.
-[^9]: A 10/C. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 6. pontja szerint módosított szöveg.
+## 5/B.[^9]
+
+[^9]: Az 5/B. alcímet (10/C. §) a 24/2016. (XII. 23.) IM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 18/2020. (XII. 29.) IM rendelet 9. §-a.

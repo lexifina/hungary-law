@@ -17,3 +17,7 @@
 7. pszichoaktív szer: kábítószer, új pszichoaktív anyag vagy más pszichoaktív szer;
 
 8. zárka: az elítélt elhelyezésére szolgáló olyan helyiség, amelynek nyílászárói a külön rendelkezésekben meghatározott biztonsági követelményeknek megfelelnek.
+
+9.[^2] telekommunikációs eszköz útján történő kapcsolattartás: a Bv. tv. 173. § (2) bekezdése szerinti kapcsolattartási formának a bv. szerv által meghatározott internet alapú telekommunikációs eszköz útján történő biztosítása.
+
+[^2]: A 2. § 9. pontját a 20/2020. (XII. 30.) IM rendelet 74. §-a iktatta be.

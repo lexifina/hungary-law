@@ -2,8 +2,8 @@
 
 (2) Ha a fiatalkorú nem a korábbi lakóhelyén kíván tartózkodni és ezt írásban jelzi a bv. intézet felé, a bv. intézet a letelepedési helyként megjelölt területileg illetékes büntetés-végrehajtási pártfogó felügyelőt is értesíti.
 
-(3)[^154] Ha a fiatalkorút a szabadságvesztés foganatba vétele előtt átmeneti nevelésbe vagy tartós nevelésbe vették, a szabadulás előtt a területi gyermekvédelmi szakszolgálatot is értesíteni kell a fiatalkorú elhelyezésének elősegítése érdekében. Ez esetben a fiatalkorút a szabadulásakor a területi gyermekvédelmi szakszolgálat által megjelölt személynek kell átadni.
+(3)[^204] Ha a fiatalkorút a szabadságvesztés foganatba vétele előtt átmeneti nevelésbe vagy tartós nevelésbe vették, a szabadulás előtt a területi gyermekvédelmi szakszolgálatot is értesíteni kell a fiatalkorú elhelyezésének elősegítése érdekében. Ez esetben a fiatalkorút a szabadulásakor a területi gyermekvédelmi szakszolgálat által megjelölt személynek kell átadni.
 
 (4) A tizennyolcadik életévét be nem töltött fiatalkorú szabadítása előtt a törvényes képviselőt a szabadulásról szóló értesítőben tájékoztatni kell arról, hogy ha a megadott határidőn belül nem nyilatkozik a Bv. tv. 204. § (2) bekezdésében foglaltakról, illetve ha nyilatkozata ellenére nem jön a fiatalkorúért, akkor a Bv. tv. 204. § (4) bekezdése szerint a fiatalkorú gyermekvédelmi intézménynek történő átadásáról a bv. intézet parancsnoka a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint fellebbezésre tekintet nélkül végrehajtható határozattal rendelkezik.
 
-[^154]: A 162. § (3) bekezdésének a 33/2015. (XI. 6.) IM rendelet 21. § c) pontjával elrendelt módosítása, mely szerint az „átmeneti vagy tartós nevelésbe vették” szövegrész helyébe a „nevelésbe vették” szövegrész lép, nem vezethető át.
+[^204]: A 162. § (3) bekezdésének a 33/2015. (XI. 6.) IM rendelet 21. § c) pontjával elrendelt módosítása, mely szerint az „átmeneti vagy tartós nevelésbe vették” szövegrész helyébe a „nevelésbe vették” szövegrész lép, nem vezethető át.

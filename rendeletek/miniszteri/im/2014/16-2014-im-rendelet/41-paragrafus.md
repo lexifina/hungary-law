@@ -2,7 +2,7 @@
 
 a) látogatót havonta egy alkalommal, kilencven perc időtartamban fogadhat,
 
-b)[^42] kapcsolattartójával hetente harminc perc időtartamban telefonálhat,
+b)[^54] kapcsolattartójával hetente negyven perc időtartamban telefonálhat,
 
 c) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 70%-os mértékig elköltheti,
 
@@ -16,38 +16,44 @@ f) birtokában tartható tárgyak köre kizárólag az e rendeletben meghatároz
 
 a) látogatót havonta két alkalommal, alkalmanként kilencven perc időtartamban fogadhat,
 
-b)[^43] számára látogató bv. intézeten kívüli fogadása évente három alkalommal, alkalmanként legalább négy óra, legfeljebb nyolc óra időtartamban engedélyezhető,
+b)[^55] számára látogató bv. intézeten kívüli fogadása évente három alkalommal, alkalmanként legalább négy óra, legfeljebb nyolc óra időtartamban engedélyezhető,
 
-c)[^44] kapcsolattartójával hetente ötven perc időtartamban telefonálhat,
+c)[^56] kapcsolattartójával hetente hatvan perc időtartamban telefonálhat,
 
 d) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 90%-os mértékig elköltheti,
 
 e) kimaradása évente két alkalommal, alkalmanként huszonnégy óra időtartamban engedélyezhető,
 
-f)[^45] eltávozásra évente összesen nyolc nap időtartamra engedhető,
+f)[^57] eltávozásra évente összesen nyolc nap időtartamra engedhető,
 
 g) birtokában tartható tárgyak köre kizárólag az e rendeletben meghatározottakra terjedhet ki.
+
+h)[^58] telekommunikációs eszköz útján történő kapcsolattartása havonta három alkalommal engedhető.
 
 (3) A fogház végrehajtási fokozaton belül az enyhébb rezsimbe sorolt elítélt
 
 a) látogatót havonta két alkalommal, alkalmanként kilencven perc időtartamban, továbbá negyedévente további egy alkalommal kilencven percben fogadhat,
 
-b)[^46] számára látogató bv. intézeten kívüli fogadása évente öt alkalommal, alkalmanként legalább négy óra, legfeljebb nyolc óra időtartamban engedélyezhető,
+b)[^59] számára látogató bv. intézeten kívüli fogadása évente öt alkalommal, alkalmanként legalább négy óra, legfeljebb nyolc óra időtartamban engedélyezhető,
 
-c)[^47] kapcsolattartójával hetente hetvenöt perc időtartamban telefonálhat,
+c)[^60] kapcsolattartójával hetente százhúsz perc időtartamban telefonálhat,
 
 d) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 100%-os mértékig elköltheti,
 
 e) kimaradása évente négy alkalommal, alkalmanként huszonnégy óra időtartamban engedélyezhető,
 
-f)[^48] eltávozásra évente összesen tizenöt nap időtartamra engedhető,
+f)[^61] eltávozásra évente összesen tizenöt nap időtartamra engedhető,
 
 g) birtokában tartható tárgyak köre és mennyisége bővíthető.
 
-[^42]: A 41. § (1) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 19. §-ával megállapított szöveg.
-[^43]: A 41. § (2) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^44]: A 41. § (2) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^45]: A 41. § (2) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^46]: A 41. § (3) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^47]: A 41. § (3) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^48]: A 41. § (3) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (2) bekezdésével megállapított szöveg.
+h)[^62] telekommunikációs eszköz útján történő kapcsolattartása havonta négy alkalommal engedhető.
+
+[^54]: A 41. § (1) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 19. §-ával megállapított, a 20/2020. (XII. 30.) IM rendelet 104. § 7. pontja szerint módosított szöveg.
+[^55]: A 41. § (2) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^56]: A 41. § (2) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (1) bekezdésével megállapított, a 20/2020. (XII. 30.) IM rendelet 104. § 8. pontja szerint módosított szöveg.
+[^57]: A 41. § (2) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^58]: A 41. § (2) bekezdés h) pontját a 20/2020. (XII. 30.) IM rendelet 83. § (1) bekezdése iktatta be.
+[^59]: A 41. § (3) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^60]: A 41. § (3) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (1) bekezdésével megállapított, a 20/2020. (XII. 30.) IM rendelet 104. § 9. pontja szerint módosított szöveg.
+[^61]: A 41. § (3) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^62]: A 41. § (3) bekezdés h) pontját a 20/2020. (XII. 30.) IM rendelet 83. § (2) bekezdése iktatta be.

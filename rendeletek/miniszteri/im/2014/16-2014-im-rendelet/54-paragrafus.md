@@ -6,6 +6,6 @@
 
 (3) Mozgáskorlátozó eszköz alkalmazásának, előállítás esetén pedig a vezető bilincs és a lábbilincs elrendelésére és megszüntetésére a bv. intézet parancsnoka vagy az által kijelölt személy jogosult.
 
-(4)[^56] Büntetőügyben történő előállításkor az eljáró ügyészség vagy a bíróság elrendelheti az alkalmazott mozgáskorlátozó eszköz eltávolítását. Az előállító biztonsági felügyelő az erre vonatkozó rendelkezést köteles végrehajtani. Az intézkedés nem vonatkozhat a vezető és a lábbilincs eltávolítására.
+(4)[^74] Büntetőügyben történő előállításkor az eljáró ügyészség vagy a bíróság elrendelheti az alkalmazott mozgáskorlátozó eszköz eltávolítását. Az előállító biztonsági felügyelő az erre vonatkozó rendelkezést köteles végrehajtani. Az intézkedés nem vonatkozhat a vezető és a lábbilincs eltávolítására.
 
-[^56]: Az 54. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja szerint módosított szöveg.
+[^74]: Az 54. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja szerint módosított szöveg.

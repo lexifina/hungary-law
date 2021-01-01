@@ -19,3 +19,7 @@ b) a személyes szükségleteire fordítható összeget – a jogszabályban meg
 (5) Ha a saját ruházat a (4) bekezdés szerinti módon nem biztosítható, a bv. intézet az elzárásra ítéltet kérelmére, segélyként az évszaknak megfelelő polgári ruházattal látja el.
 
 (6) A bv. intézet biztosítja annak a lehetőségét, hogy az elzárásra ítélt a saját ruházatát kimoshassa és az ehhez szükséges mosószert saját költségére beszerezhesse.
+
+(7)[^208] A bv. intézet a Bv. tv. 278. § c) és d) pontjában meghatározott feltétel bekövetkezése esetén előterjesztést tesz a bv. bírónak az elzárás végrehajthatósága megszűnésének megállapítására.
+
+[^208]: A 179. § (7) bekezdését a 20/2020. (XII. 30.) IM rendelet 102. §-a iktatta be.

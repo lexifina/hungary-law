@@ -1,4 +1,4 @@
-136/F. § (1)[^115] A reintegrációs őrizet megszűnik
+136/F. § (1)[^160] A reintegrációs őrizet megszűnik
 
 a) a reintegrációs őrizet elrendeléséről szóló határozatban megjelölt napon, külön rendelkezés hiányában a Bv. tv. 187/A. § (1a) bekezdésében meghatározott tartam elteltével,
 
@@ -10,7 +10,7 @@ d) az elítélt ismeretlen helyre távozásával a reintegrációs őrizet megsz
 
 e) a reintegrációs őrizet büntetés-végrehajtási bíró általi megszüntetésének napjával.
 
-(2)[^116] Az elektronikus távfelügyeletet
+(2)[^161] Az elektronikus távfelügyeletet
 
 a) a reintegrációs őrizet megszűnése napján, vagy
 
@@ -24,8 +24,8 @@ b) a reintegrációs őrizet megszüntetése esetén a bv. intézetbe történő
 
 (5) Ha az elítélt a megjelenési kötelezettségének nem tesz eleget, a bv. intézet megkeresi a reintegrációs őrizet ellenőrzésében közreműködő büntetés-végrehajtási pártfogó felügyelőt, hogy az elítéltet keresse fel az elektronikus távfelügyeleti eszköz eltávolítása és átvétele céljából. Ha ez nem vezet eredményre, a bv. intézet értesíti a kijelölt lakás helye szerint az illetékes megyei (fővárosi) rendőr-főkapitányságot az elektronikus távfelügyeleti eszköz eltávolításában történő közreműködés érdekében.
 
-(6)[^117] Ha az elítélt megjelenési kötelezettségének nem tett eleget, a szabaduló igazolást és a szabadítással kapcsolatos írásbeli tájékoztatást a lakcímére, vagy ha tényleges tartózkodási helyet jelentett be, a tényleges tartózkodási helyére postai úton kell megküldeni.
+(6)[^162] Ha az elítélt megjelenési kötelezettségének nem tett eleget, a szabaduló igazolást és a szabadítással kapcsolatos írásbeli tájékoztatást a lakcímére, vagy ha tényleges tartózkodási helyet jelentett be, a tényleges tartózkodási helyére postai úton kell megküldeni.
 
-[^115]: A 136/F. § (1) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
-[^116]: A 136/F. § (2) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
-[^117]: A 136/F. § (6) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 33. pontja szerint módosított szöveg.
+[^160]: A 136/F. § (1) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
+[^161]: A 136/F. § (2) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
+[^162]: A 136/F. § (6) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 33. pontja szerint módosított szöveg.

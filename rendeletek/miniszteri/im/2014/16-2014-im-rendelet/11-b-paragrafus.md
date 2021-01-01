@@ -14,4 +14,7 @@ a bv. szerv a Tanúvédelmi Szolgálat útján továbbítja.
 
 (3) A védett személy kapcsolattartására vonatkozó kérelemről a bv. intézet a Tanúvédelmi Szolgálatot értesíti.
 
+(4)[^13] A bv. intézet a védett személy szabadulásának esedékessége előtt harminc nappal értesíti a Tanúvédelmi Szolgálatot.
+
 [^12]: A 6/B. alcímet (11/B. §) a 14/2018. (VI. 15.) IM rendelet 12. §-a iktatta be.
+[^13]: A 11/B. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 75. §-a iktatta be.
