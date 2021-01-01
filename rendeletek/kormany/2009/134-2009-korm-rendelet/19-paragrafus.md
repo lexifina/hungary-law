@@ -1,10 +1,10 @@
-## 18. §[^113] E rendeletnek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet által megállapított 10. § (9a) és (9b) bekezdése szerinti változásokról a miniszter a hitelintézetet és a Kincstárt 2017. január 15. napjáig írásban tájékoztatja.
+## 18. §[^114] E rendeletnek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet által megállapított 10. § (9a) és (9b) bekezdése szerinti változásokról a miniszter a hitelintézetet és a Kincstárt 2017. január 15. napjáig írásban tájékoztatja.
 
-19. §[^114] (1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr4.) hatálybalépését[^115] követően a Módr4. által megállapított 10/A–10/G. §-ban foglaltak szerint kell teljesíteni.
+19. §[^115] (1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr4.) hatálybalépését[^116] követően a Módr4. által megállapított 10/A–10/G. §-ban foglaltak szerint kell teljesíteni.
 
-(2) A hitelintézet 2020. június 30. napjáig az e rendelet szerinti kamattámogatásoknak a 2019. évre vonatkozó, a Módr4. hatálybalépésének[^116] napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a Kincstárnak.
+(2) A hitelintézet 2020. június 30. napjáig az e rendelet szerinti kamattámogatásoknak a 2019. évre vonatkozó, a Módr4. hatálybalépésének[^117] napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a Kincstárnak.
 
-[^113]: A 18. §-t a 379/2016. (XII. 2.) Korm. rendelet 135. § (4) bekezdése iktatta be.
-[^114]: A 19. §-t a 101/2019. (V. 2.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^115]: A hatálybalépés időpontja 2019. október 1.
+[^114]: A 18. §-t a 379/2016. (XII. 2.) Korm. rendelet 135. § (4) bekezdése iktatta be.
+[^115]: A 19. §-t a 101/2019. (V. 2.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^116]: A hatálybalépés időpontja 2019. október 1.
+[^117]: A hatálybalépés időpontja 2019. október 1.
