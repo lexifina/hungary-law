@@ -120,19 +120,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az egyes helyszínek fejlesztésének ütemében, legkésőbb 2016. december 31-ig
 
-7. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímét
-
-a) a 88. Nemzeti Kastélyprogram jogcímcsoporttal és
-
-b) a 90. Nemzeti Várprogram jogcímcsoporttal
-
-egészíti ki,
-
-Felelős: nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: 2017. január 1.
+7.[^1]
 
 8. felhívja a nemzetgazdasági minisztert, hogy a Miniszterelnökséget vezető miniszterrel együttműködve gondoskodjon – az 1. és a 3. pontban felsorolt kiemelt helyszínek kivételével – a Nemzeti Kastélyprogram megvalósításához 2017. évben szükséges 3 538 679 870 forint költségvetési forrásnak a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím 88. Nemzeti Kastélyprogram jogcímcsoport javára történő biztosításáról,
 
@@ -174,6 +162,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: először 2017. január 31-ig, majd minden évben, az éves központi költségvetés tervezésekor
 
-12.[^1]
+12.[^2]
 
-[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1773-30
 | --- | --- | --- |
 | 2016-12-15 | 2016-1773-30-22.1 | 1773/2016. (XII. 15.) Korm. határozat |
 | 2016-12-16 | 2016-1773-30-22.2 | 2010: CXXX. törvény |
+| 2021-01-01 | 2016-1773-30-22.3 | 2011: CXCV. törvény |
