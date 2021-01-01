@@ -8,11 +8,7 @@ a) a Beruházás építtetője a Nemzeti Sportközpontok (a továbbiakban: NSK) 
 
 b) a Beruházás a 2017., 2018. és 2019. években – a tranzakciós illetéket és kincstári díjakat magában foglalva – összesen 4 316 429 000 forint központi költségvetési forrásból valósuljon meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzat címet a 62. Biatorbágyi Általános Iskola beruházása alcímmel egészíti ki;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja a nemzetgazdasági minisztert, hogy a Beruházás megvalósítása érdekében a nemzeti fejlesztési miniszter bevonásával gondoskodjon
 
@@ -47,3 +43,5 @@ Felelős: nemzeti fejlesztési miniszter
 Határidő: folyamatos
 
 6. mentesíti az NSK-t a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontjában foglalt tilalom alól.
+
+[^1]: A 3. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
