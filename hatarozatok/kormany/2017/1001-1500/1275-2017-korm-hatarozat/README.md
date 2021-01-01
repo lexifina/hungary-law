@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1275-30
 | 2017-05-31 | 2017-1275-30-22.1 | 1275/2017. (V. 31.) Korm. határozat |
 | 2017-06-01 | 2017-1275-30-22.2 | 2010: CXXX. törvény |
 | 2018-03-13 | 2017-1275-30-22.3 | 1080/2018. (III. 13.) Korm. határozat |
+| 2021-01-01 | 2017-1275-30-22.4 | 2011: CXCV. törvény |
