@@ -2,9 +2,9 @@
 
 a) figyelmeztetés,
 
-b) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén kötelezés a jogsértés megszüntetésére és az annak megismétlésétől való tartózkodásra,
+b) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén kötelezés a jogsértés megszüntetésére és az annak megismétlésétől való tartózkodásra,
 
-c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén legfeljebb 400 000 000 Ft-ig terjedő pénzbírság.
+c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén legfeljebb 400 000 000 Ft-ig terjedő pénzbírság.
 
 (2) Az (1) bekezdés szerinti fegyelmi büntetés kiszabásánál figyelemmel kell lenni
 
@@ -12,11 +12,11 @@ a) a jogsértés súlyosságára,
 
 b) a jogsértésért felelős személy felelősségének mértékére,
 
-c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén a felelős személy által a területi elnökséggel szemben tanúsított együttműködésre,
+c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén a felelős személy által a területi elnökséggel szemben tanúsított együttműködésre,
 
 d) a jogsértés időtartamára, ismétlődésére vagy gyakoriságára.
 
-(3) A jogerős vagy a jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánított fegyelmi határozatot a területi elnökség – a közjegyzővel, közjegyzőhelyettessel, illetve közjegyzőjelölttel történő közléssel egyidejűleg – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén köteles közzétenni a honlapján oly módon, hogy abból legalább a szabály megsértésének vagy a hiányosságnak a jellegére, illetve a jogsértő személyére vonatkozó adatok, információk megismerhetőek legyenek.
+(3) A jogerős vagy a jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánított fegyelmi határozatot a területi elnökség – a közjegyzővel, közjegyzőhelyettessel, illetve közjegyzőjelölttel történő közléssel egyidejűleg – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén köteles közzétenni a honlapján oly módon, hogy abból legalább a szabály megsértésének vagy a hiányosságnak a jellegére, illetve a jogsértő személyére vonatkozó adatok, információk megismerhetőek legyenek.
 
 (4) A (3) bekezdésben foglalt közzétételi kötelezettség teljesítését a területi elnökség az azt alátámasztó okok fennállásáig elhalaszthatja, ha
 

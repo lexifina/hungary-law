@@ -100,7 +100,7 @@ f) a névjegyzékbe történő bejegyzés időpontjától számított 30 napon b
 
 g) a területi elnökség megállapítja, hogy a névjegyzékbe való felvétel jogszabályi feltételei – a 17. §-a (3) bekezdésének f) és g) pontja kivételével – már a bejegyzéskor sem álltak fenn,
 
-h) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának,
+h) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara szabályzatának,
 
 i) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alá kerül.
 
@@ -114,7 +114,7 @@ c) a 29. § (4) bekezdése szerinti összeférhetetlenségi okot nem szünteti m
 
 d) a területi elnökség megállapítja, hogy a nyilvántartásba való felvétel jogszabályi feltételei már a bejegyzéskor sem álltak fenn, vagy
 
-e) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának,
+e) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara szabályzatának,
 
 f) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alá kerül.
 

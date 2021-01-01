@@ -14,4 +14,4 @@
 
 (3) Egy székhelyre több közjegyzőt is ki lehet nevezni.
 
-(4)
+(4) A közjegyző kinevezésére a területi kamara elnökségének kinevezési javaslata alapján, betöltetlen közjegyzői álláshelyre kerülhet sor.

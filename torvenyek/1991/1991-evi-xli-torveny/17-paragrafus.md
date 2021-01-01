@@ -20,7 +20,7 @@ i) a pályaalkalmassági vizsgálat eredménye alapján a közjegyzői hivatás 
 
 (2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves
 
-a) bírói, ügyészi, ügyvédi, kamarai jogtanácsosi vagy közjegyzői működés,
+a) bírói, bírósági titkári, ügyészi, alügyészi, ügyvédi, kamarai jogtanácsosi vagy közjegyzői működés,
 
 b) a jogi szakvizsga megszerzését követően a kormányzati igazgatásról szóló törvény szerinti központi kormányzati igazgatási szervnél, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-a szerinti szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben szerzett kormánytisztviselői, illetve köztisztviselői gyakorlat, vagy
 
@@ -54,7 +54,7 @@ g) aki életmódja vagy magatartása miatt a közjegyzői hivatás gyakorlásáh
 
 h) akivel szemben a 7. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
 
-(4) Az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét a pályázatot meghirdető területi kamara elnöksége a pályázat elbírálása keretében vizsgálja.
+(4)
 
 (5) A pályaalkalmassági vizsgálat egészségi, fizikai és pszichikai vizsgálatból áll. A vizsgálatot a bíró pályaalkalmassági vizsgálatára irányadó – jogszabályban meghatározott – rendelkezések szerint kell elvégezni.
 

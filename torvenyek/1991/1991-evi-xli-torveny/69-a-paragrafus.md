@@ -6,7 +6,7 @@
 
 (4) A területi elnökség a vizsgálat eredményét határozattal állapítja meg.
 
-(5) Ha a vizsgálat eredményeként a területi elnökség a határozatban azt állapítja meg, hogy a közjegyző megszegte a jogszabályban vagy a kamarai iránymutatásban szereplő kötelezettségeit
+(5) Ha a vizsgálat eredményeként a területi elnökség a határozatban azt állapítja meg, hogy a közjegyző megszegte a jogszabályban vagy a kamarai szabályzatban szereplő kötelezettségeit
 
 a) felhívja a közjegyzőt a jogszabályoknak megfelelő eljárásra, az elmulasztott intézkedések megtételére,
 
