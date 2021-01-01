@@ -1,1 +1,0 @@
-A Kormány a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 81. § (1) bekezdés c) pontjában, valamint a 6. § tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 14. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
