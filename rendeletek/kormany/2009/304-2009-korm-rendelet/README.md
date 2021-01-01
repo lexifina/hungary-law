@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-304-20-
 | 2013-02-01 | 2009-304-20-22.5 | 5/2013. (I. 16.) Korm. rendelet |
 | 2014-03-15 | 2009-304-20-22.6 | 53/2014. (III. 3.) Korm. rendelet |
 | 2018-01-01 | 2009-304-20-22.7 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2021-01-01 | 2009-304-20-22.8 | 668/2020. (XII. 28.) Korm. rendelet |
