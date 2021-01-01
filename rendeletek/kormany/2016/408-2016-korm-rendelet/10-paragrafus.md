@@ -12,11 +12,11 @@ d) ha a jogsértés jelentős mértékű kárt okoz, 500 000 Ft – 20 000 000 F
 
 (2) Az inváziós bírság összegének meghatározása során figyelembe kell venni
 
-a) a cselekmény vagy mulasztás körülményeit,
+a)[^14]
 
-b) a jogsértő magatartás súlyát,
+b)[^15]
 
-c) a jogsértő magatartás időtartamát és ismétlődését,
+c)[^16]
 
 d) a jogsértő magatartás veszélyességét vagy károsító hatását,
 
@@ -34,9 +34,11 @@ j) a biodiverzitás védelmét sértő további magatartástól való visszatart
 
 k) a cselekmény engedély nélkül vagy engedélytől eltérően végzett jellegét.
 
+(2a)[^17] Az inváziós bírság megfizetésére a bírságoló szerv a teljesítési határidő lejárta előtt előterjesztett kérelemre, határozatban legfeljebb 12 havi részletfizetést engedélyezhet, ha az inváziós bírság megfizetésére kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
+
 (3) Az 1143/2014/EU európai parlamenti és tanácsi rendelet érvényesítése érdekében a Tvt. 10. § (4) bekezdése szerinti hatóság a feladat- és hatáskörébe tartozó ügyekben – a (2) bekezdésben foglalt mérlegelési szempontok figyelembevételével – az alábbi intézkedéseket rendelheti el:
 
-a)[^14] az idegenhonos inváziós fajok egyedeinek zár alá vétele vagy elkobzása,
+a)[^18] az idegenhonos inváziós fajok egyedeinek zár alá vétele vagy elkobzása,
 
 b) az engedély hatályának felfüggesztése vagy az engedély visszavonása,
 
@@ -60,4 +62,8 @@ k) inváziós faj elleni közérdekű védekezés vagy inváziós faj elleni ál
 
 (4) A (3) bekezdés szerinti intézkedések együttesen is elrendelhetők.
 
-[^14]: A 10. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 599. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 10. § (2) bekezdésé a) pontját a 713/2020. (XII. 30.) Korm. rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 10. § (2) bekezdésé b) pontját a 713/2020. (XII. 30.) Korm. rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A 10. § (2) bekezdésé c) pontját a 713/2020. (XII. 30.) Korm. rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 10. § (2a) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 49. § (1) bekezdése iktatta be.
+[^18]: A 10. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 599. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
