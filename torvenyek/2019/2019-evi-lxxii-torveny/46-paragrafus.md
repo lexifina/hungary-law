@@ -4,7 +4,7 @@
 
 2.
 
-3.
+3. 206. § (1) bekezdés c) pontja és (2) bekezdése,
 
 4.
 
