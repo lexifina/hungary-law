@@ -1,3 +1,1 @@
-## 8. §[^8]
-
-[^8]: A 8. § a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(3c) A (2)–(3a) bekezdésben meghatározott dokumentumok, nyilatkozatok elektronikusan is benyújthatóak.”

@@ -1,3 +1,5 @@
-## 6. §[^6]
+## 6. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 69. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
 
-[^6]: A 6. § a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## (A benyújtott pályázatnak – szükség szerint a pályázati kiírásban közölt formában elkészítve – tartalmaznia kell)
+
+## „e) – ha a pályázati kiírás ekként rendelkezik, a működési célú költségvetési támogatások kivételével – a költségvetési támogatásból megvalósítani tervezett tevékenységek ismertetését valamint az azokhoz kapcsolódó részletes költségtervet,”

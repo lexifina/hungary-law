@@ -2,35 +2,29 @@
 
 18. § (1) Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1.[^30]
+1. 5. § (5) bekezdés a) és b) pontja,
 
-2.[^31]
+2. 39. § (2) bekezdése,
 
-3.[^32]
+3. 53/A. § (2) bekezdés c) pontja,
 
-4.[^33]
+4. 75. § (6a) bekezdése,
 
-5.[^34]
+5. 101/A. § (3) bekezdés e) pontja,
 
-6.[^35]
+6.[^17]
 
-7.[^36]
+7.[^18]
 
 (2) Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1.[^37]
+1. 49. § a) pontjában az „és d)” szövegrész és a „ , valamint a Nagyvállalati beruházási támogatások előirányzat” szövegrész,
 
-2.[^38]
+2.[^19]
 
-3.[^39]
+3.[^20]
 
-[^30]: A 18. § (1) bekezdés 1. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^31]: A 18. § (1) bekezdés 2. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^32]: A 18. § (1) bekezdés 3. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^33]: A 18. § (1) bekezdés 4. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^34]: A 18. § (1) bekezdés 5. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^35]: A 18. § (1) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: A 18. § (1) bekezdés 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 18. § (2) bekezdés 1. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^38]: A 18. § (2) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: A 18. § (2) bekezdés 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 18. § (1) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 18. § (1) bekezdés 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 18. § (2) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 18. § (2) bekezdés 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
