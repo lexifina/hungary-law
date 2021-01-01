@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-378-20-
 | --- | --- | --- |
 | 2018-01-01 | 2017-378-20-22.1 | 378/2017. (XII. 11.) Korm rendelet |
 | 2020-11-01 | 2017-378-20-22.2 | 475/2020. (X. 30.) Korm. rendelet |
+| 2021-01-01 | 2017-378-20-22.3 | 671/2020. (XII. 28.) Korm. rendelet |

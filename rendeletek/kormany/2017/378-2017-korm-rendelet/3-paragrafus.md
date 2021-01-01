@@ -12,4 +12,6 @@ d) alkalmas arra, hogy a képzésben részt vevő kulturális szakember elsaját
 
 (3) A (2) bekezdés szerinti egyes szakbizottságokba négy tagot a miniszter, három tagot megegyezés alapján az egyes területek reprezentatív szakmai és érdekképviseleti szervei delegálnak hét évre. A szakbizottság további két tagját a miniszter a kulturális szakértők közül esetenként bízza meg. A szakbizottság elnökét a hét évre delegált tagok közül a miniszter nevezi ki.
 
-(4) A szakbizottság tagja nem lehet állami vezető, valamint közszolgálati tisztviselő, a Magyar Honvédség vagy fegyveres szerv hivatásos állományú vagy szerződéses tagja.
+(4)[^1] A szakbizottság tagja nem lehet állami vezető, valamint közszolgálati tisztviselő, a Nemzeti Adó- és Vámhivatallal adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatott, a Magyar Honvédség vagy fegyveres szerv hivatásos állományú vagy szerződéses tagja.
+
+[^1]: A 3. § (4) bekezdése a 671/2020. (XII. 28.) Korm. rendelet 36. §-a szerint módosított szöveg.
