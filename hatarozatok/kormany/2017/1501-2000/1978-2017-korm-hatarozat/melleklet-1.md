@@ -1,18 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének az 53. A helyi közbiztonság javításának támogatása címmel történő kiegészítését;
+## 1.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 100 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 53. A helyi közbiztonság javításának támogatása cím javára az 1. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. egyetért azzal, hogy a helyi közbiztonság javításának érdekében támogatás nyújtása céllal a belügyminiszter a 2. mellékletben meghatározott települési önkormányzatok számára, az ott meghatározott összegben, külön pályázat és támogatási kérelem benyújtása nélkül, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján költségvetési támogatást nyújtson, amelynek felhasználási határideje 2018. június 30.;
 
@@ -22,4 +10,8 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1978/2017. (XII. 19.) Korm. határozathoz
+1. melléklet az 1978/2017. (XII. 19.) Korm. határozathoz[^3]
+
+[^1]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
