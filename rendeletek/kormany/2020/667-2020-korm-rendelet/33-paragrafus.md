@@ -1,0 +1,1 @@
+## 32. § A viszonteladó a viszonteladói szerződést 8 napos felmondási határidővel, indokolás mellett felmondhatja, ha a működtető a jogviszonyból eredő kötelezettségeit vétkesen megszegi, vagy a jogviszonyból eredő jogaival visszaél.

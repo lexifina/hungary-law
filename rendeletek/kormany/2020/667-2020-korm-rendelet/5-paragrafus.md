@@ -1,0 +1,1 @@
+## 4. § A működtető biztosítja, hogy a vele szerződéses jogviszonyban álló személy a forgalmazási és számlázási adatok törléséig díjmentesen megismerhesse a fizetendő díjak és költségek számításához szükséges forgalmazási és számlázási adatokra vonatkozó kimutatást.

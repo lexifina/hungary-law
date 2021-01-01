@@ -1,0 +1,1 @@
+A Kormány az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló 2020. évi CXLV. törvény 7. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
