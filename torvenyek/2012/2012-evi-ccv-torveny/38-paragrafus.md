@@ -6,7 +6,7 @@
 
 a) ismételt szolgálatijogviszony létesítéssel,
 
-b) a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszonyból, honvédelmi alkalmazotti jogviszonyból, közszolgálati, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti szolgálati jogviszonyból történő áthelyezéssel,
+b) a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszonyból, honvédelmi alkalmazotti jogviszonyból, közszolgálati, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti szolgálati jogviszonyból, illetve a Nemzeti Adó- és Vámhivatal tisztviselői státuszú foglalkoztatottjainak állományából történő áthelyezéssel,
 
 c) a 69. § (5) bekezdése alapján vagy
 
@@ -18,7 +18,7 @@ jön létre, legfeljebb 6 hónap próbaidő köthető ki.
 
 a) a szerződéses állomány tagjának az 59. § (1) bekezdés e) pontja szerinti hivatásos állományba vételekor,
 
-b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból történő áthelyezéskor,
+b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából történő áthelyezéskor,
 
 c) egyéb, e törvényben meghatározott esetekben.
 

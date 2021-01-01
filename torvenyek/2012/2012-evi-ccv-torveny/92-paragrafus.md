@@ -10,7 +10,7 @@ b) a 2012. január 1-je előtt hatályos szabályok szerint rögzített szolgál
 
 tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
-(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani.
+(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani.
 
 (2b) A végkielégítés szempontjából a honvédelmi szervezet állományában a katonai szolgálati viszony létesítését közvetlenül megelőző, nem katonai szolgálati viszonyban eltöltött időket is figyelembe kell venni, kivéve, ha a korábbi jogviszony alapján a végkielégítés kifizetésre került.
 
@@ -18,7 +18,7 @@ tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
 (4) 1998. január 1-jét megelőzően az illetmény nélküli szabadság 30 napot meghaladó tartama a társadalombiztosítási szabályok szerint számít jogszerző időnek.
 
-(5) A honvédelmi szolgálati díjra való jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban, továbbá a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban töltött tényleges, beszámítás és szorzószámok nélkül számított szolgálati időt, valamint a szolgálaton kívüli állomány időtartamát kell figyelembe venni.
+(5) A honvédelmi szolgálati díjra való jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban, továbbá a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban töltött tényleges, beszámítás és szorzószámok nélkül számított szolgálati időt, valamint a szolgálaton kívüli állomány időtartamát kell figyelembe venni.
 
 (6) Ha a szerződéses állomány tagja hivatásos szolgálati viszonyt létesít, az addig szerződéses szolgálati viszonyban eltöltött ideje – a (8) bekezdésben meghatározottakra figyelemmel – hivatásos szolgálati viszonyban töltött időnek számít.
 

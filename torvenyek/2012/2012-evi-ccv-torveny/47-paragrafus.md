@@ -22,7 +22,7 @@ j) 30 év után 18 hónapig
 
 tart.
 
-(1a) A hivatásos állomány 46. § (1) bekezdés s) pontja alapján rendelkezési állományba helyezett tagjának kérelmére a rendelkezési állomány (1) bekezdés szerinti időtartama a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, közszolgálati, a közalkalmazotti vagy a honvédelmi alkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezéséig, de legfeljebb további 1 évvel meghosszabbítható. A hivatásos állomány tagja a meghosszabbítás időtartama alatt havonta a rendelkezési állományba helyezését megelőző napon érvényes illetménye felére jogosult.
+(1a) A hivatásos állomány 46. § (1) bekezdés s) pontja alapján rendelkezési állományba helyezett tagjának kérelmére a rendelkezési állomány (1) bekezdés szerinti időtartama a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, közszolgálati, a közalkalmazotti vagy a honvédelmi alkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba történő áthelyezéséig, de legfeljebb további 1 évvel meghosszabbítható. A hivatásos állomány tagja a meghosszabbítás időtartama alatt havonta a rendelkezési állományba helyezését megelőző napon érvényes illetménye felére jogosult.
 
 (2) A hivatásos állomány tagjának szolgálati viszonya
 
