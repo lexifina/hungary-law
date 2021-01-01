@@ -10,6 +10,6 @@ b) a lakások és a nem lakás céljára szolgáló helyiségek, telkek bérlete
 
 c) a feladatok ellátása érdekében az ingatlanok felkutatásával és azok forgalmi értékbecslésével, valamint
 
-d) az ügyletek lebonyolításához szükséges dokumentációk és okiratok beszerzésével és előkészítésével
+d) az ügyletek lebonyolításához szükséges dokumentációk és okiratok beszerzésével és előkészítésével – ide nem értve az okiratok megszerkesztését és azok ellenjegyzését –
 
 összefüggő feladatokat látja el.

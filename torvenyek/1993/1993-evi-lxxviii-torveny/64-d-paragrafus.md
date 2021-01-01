@@ -1,39 +1,37 @@
-64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság által az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet végző természetes személyekről és gazdálkodó szervezetekről vezetett nyilvántartásba való bejegyzésre és törlésre irányuló eljárás során okirati bizonyításnak van helye.
+64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet végző természetes személyekről és gazdálkodó szervezetekről az átláthatóság, valamint a jogszabályoknak megfelelő működés biztosítása érdekében nyilvántartást vezet. A hatóság a nyilvántartási kötelezettségét az Országos Kereskedelmi Nyilvántartási Rendszerbe történő bejegyzéssel teljesíti. A nyilvános adatok megismerését az ingatlanvállalkozás-felügyeleti hatóság ingyenesen, bárki számára nyilvánosan hozzáférhető úton biztosítja. A nyilvántartás – a (2) bekezdés a)–g) pontja és k)–l) pontja szerinti adatok kivételével – közhiteles.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza:
+(2) Az (1) bekezdés szerinti nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza:
 
-a) a szolgáltatási tevékenységet végző természetes személy munkáltatójának megnevezését és székhelyét,
+a) a szolgáltatási tevékenységet végző természetes személy munkáltatójának megnevezését,
 
-b) a szolgáltatási tevékenység során használt nyelv megjelölését,
+b) a szolgáltatási tevékenységet végző természetes személy születési nevét, születési helyét és születési idejét, anyja születési nevét,
 
-c) a természetes személy szolgáltatási tevékenység gyakorlására jogosító szakképesítésének az Országos Képzési Jegyzékben szereplő azonosító számát, a bizonyítvány számát, a kiállító intézmény megjelölését, a kiadás helyét és időpontját,
+c) a szolgáltatási tevékenység során használt nyelv megjelölését,
 
-d) a szolgáltató gazdálkodó szervezet cégjegyzékszámát, egyéni vállalkozó esetén nyilvántartási számát,
+d) a természetes személy szolgáltatási tevékenység gyakorlására jogosító szakképesítésének az azonosító számát és a bizonyítvány számát,
 
-e) a szolgáltató gazdálkodó szervezet képviseletére jogosult személy – egyéni vállalkozó esetén saját – nevét és lakóhelyét,
+e) a szolgáltató gazdálkodó szervezet cégjegyzékszámát, – amennyiben rendelkezésre áll – rövidített nevét, egyéni vállalkozó esetén nyilvántartási számát,
 
-f) szolgáltató gazdálkodó szervezet esetén a szolgáltatási tevékenység végzésére igazolással rendelkező személyesen közreműködő tag vagy alkalmazott nevét,
+f) a szolgáltató gazdálkodó szervezet képviseletére jogosult személy – egyéni vállalkozó esetén saját – nevét és lakóhelyét,
 
-g) a nyilvántartásba vétel időpontját,
+g) szolgáltató gazdálkodó szervezet esetén a szolgáltatási tevékenységet végző, a) pont szerinti személyesen közreműködő tag vagy alkalmazott nevét,
 
-h) nyilvántartási számát.
+h) a nyilvántartásba vétel időpontját,
 
-(1b) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok – az (1a) bekezdés c) pontjában foglaltak kivételével – nyilvánosak.
+i) a szolgáltató nyilvántartási számát,
 
-(1c) Az ingatlanvállalkozás-felügyeleti hatóság az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a nyilvántartásból való törlésig kezeli.
+j) a nyilvántartásba vevő hatóság megnevezését,
 
-(2) A nyilvántartásba vett természetes személy, egyéni vállalkozó neve, értesítési címe, szakmai tevékenységének megnevezése és a nyilvántartásba vétel száma nyilvános, amelyről bárki tájékoztatást kérhet. A nyilvántartásban szereplő minden további adatról a bíróság részére tájékoztatást lehet adni; a más – kívülálló – harmadik személy részére történő tájékoztatás megadásához az érintett természetes személy írásbeli hozzájárulása szükséges.
+k) a szolgáltatási tevékenység szüneteltetésének tényét, valamint kezdő és záró időpontját,
 
-(3) A nyilvántartásból törölni kell azt a természetes személyt, egyéni vállalkozót:
+l) – ha a szolgáltató bejelenti – az elektronikus, telefonos, postai, illetve egyéb elérhetőségét.
 
-a) aki meghalt vagy a törlését kéri,
+(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok – a (2) bekezdés b) és d) pontjában foglalt kivétellel – nyilvánosak.
 
-b) aki büntetett előéletű,
+(4) Az ingatlanvállalkozás-felügyeleti hatóság az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a nyilvántartásból való törlésig kezeli. Szolgáltatási tevékenységtől eltiltás hatálya alatt álló szolgáltató adatai az eltiltás hatályának lejártáig kezelhetőek abban az esetben is, ha a szolgáltató a nyilvántartásból való törlését kéri.
 
-c) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll.
+(5) A nyilvántartásban szereplő személy köteles a (2) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül értesíteni.
 
-(4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül tájékoztatni.
+(6) Ha a nyilvántartás adataiban történő változás alapján indokolt a szolgáltatási tevékenységet végző természetes személy, illetve a szolgáltató gazdálkodó szervezet szolgáltatási tevékenység végzésére való jogosultságának felülvizsgálata, akkor az ingatlanvállalkozás-felügyeleti hatóság hivatalból eljárást indít, és szükség esetén intézkedik a változás nyilvántartáson történő átvezetéséről.
 
-(5)
-
-(6)
+(7) A pénzügyi információs egységként működő hatóság, valamint a lakásgazdálkodásért és lakáspolitikáért felelős miniszter törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
