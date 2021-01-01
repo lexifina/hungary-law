@@ -1,26 +1,15 @@
 ## 10. Jelentéstétel a földhasználatból, a földhasználat-változtatásból és az erdőgazdálkodási tevékenységekből eredő kibocsátásokról és nyelésekről, valamint az e tevékenységekhez kapcsolódó intézkedésekről
 
-14. § (1) A miniszter minden évben a környezetvédelemért felelős miniszterrel, az agrárpolitikáért felelős miniszterrel, az erdőgazdálkodásért felelős miniszterrel és a földügyért felelős miniszterrel együttműködve információt szolgáltat a Bizottság felé az üvegházhatású gázoknak a földhasználatból, a földhasználat-változtatásból és az erdőgazdálkodási tevékenységekből eredő kibocsátására és elnyelésére vonatkozó elszámolási szabályokról és az e tevékenységekhez kapcsolódó intézkedésekre vonatkozó információkról szóló, 2013. május 21-i 529/2013/EU európai parlamenti és tanácsi határozat (a továbbiakban: 529/2013/EU határozat) 3. cikke (1)–(3) bekezdésében említett tevékenységekből eredő kibocsátás korlátozására vagy csökkentésére, illetve az e tevékenységekből származó elnyelés fenntartására vagy növelésére irányuló jelenlegi és jövőbeli földhasználati ágazati tevékenységekről. A földhasználati ágazati vonatkozású tevékenységekről szóló tájékoztatóban legalább az alábbi információkat kell szerepeltetni a tevékenységek mindegyike kapcsán:
+14. §[^20] (1) A miniszter a környezetvédelemért felelős miniszterrel, az agrárpolitikáért felelős miniszterrel, az erdőgazdálkodásért felelős miniszterrel és a földügyért felelős miniszterrel együttműködve a 2021–2025-ös időszak tekintetében 2027. március 15-ig, a 2026–2030-as időszak tekintetében pedig 2032. március 15-ig megfelelési jelentést nyújt be a Bizottságnak, amely az (EU) 2018/841 rendelet 2. cikk (1) és (2) bekezdésében meghatározott területelszámolási kategóriák mindegyikét illetően tartalmazza az összkibocsátásoknak és az összelnyeléseknek az (EU) 2018/841 rendeletben megállapított elszámolási szabályok alkalmazásával az adott időszakra vonatkozóan meghatározott egyenlegét.
 
-a) a kibocsátás és az elnyelés múltbeli alakulásának ismertetése, lehetőség szerint figyelembe véve a korábbi tendenciákat is az ésszerűen rekonstruálható mértékig;
+(2) Az (1) bekezdés szerinti jelentés földhasználati, földhasználat-változtatási ágazatra vonatkozó részének tartalmára – az NFK közreműködésével – a Nemzeti Élelmiszerlánc-biztonsági Hivatal tesz javaslatot a Szolgálat részére.
 
-b) a kibocsátás és az elnyelés előrejelzése az elszámolási időszakra;
+(3) Az (1) bekezdés szerinti jelentés erdészeti ágazatra vonatkozó részének tartalmára – a Soproni Egyetem közreműködésével – az NFK tesz javaslatot a Szolgálat részére.
 
-c) a kibocsátás korlátozásának vagy csökkentésének, illetve az elnyelés fenntartásának vagy növelésének lehetőségeit értékelő elemzés;
+(4) A miniszter az erdőgazdálkodásért felelős miniszterrel együttműködve benyújtja a Bizottságnak az (EU) 2018/841 rendelet 8. cikk (3) bekezdése szerinti nemzeti erdőgazdálkodási elszámolási tervet, amelyben javaslatot tesz az erdőkre vonatkozó hazai referenciaszintre.
 
-d) a nemzeti körülmények figyelembevételére leginkább megfelelő intézkedések felsorolása, adott esetben kitérve – egyebek mellett – az éghajlatváltozás-mérséklési lehetőség kiaknázása érdekében a tagállam által tervezett vagy a végrehajtandó, az 529/2013/EU határozat IV. mellékletben meghatározott indikatív intézkedésekre is, amennyiben a c) pont szerinti elemzéssel megállapították e lehetőség meglétét;
+(5) A (4) bekezdés szerinti nemzeti erdőgazdálkodási elszámolási terv tartalmára – az NFK közreműködésével – a Soproni Egyetem tesz javaslatot a miniszter és az erdőgazdálkodásért felelős miniszter részére.
 
-e) a d) pont szerinti intézkedések végrehajtását célzó, már létező vagy tervezett szakpolitikák, beleértve az intézkedések kibocsátásokra és elnyelésekre gyakorolt várható hatásainak minőségi vagy mennyiségi leírását, figyelembe véve a földhasználati ágazathoz kapcsolódó egyéb szakpolitikákat és intézkedéseket is;
+(6) Az (1) bekezdés szerinti jelentés tartalmára, felépítésére, formátumára, benyújtási eljárására és felülvizsgálatára az (EU) 2018/1999 rendelet, az (EU) 2020/1208 bizottsági végrehajtási rendelet, valamint az (EU) 2018/841 rendelet előírásai az irányadók.
 
-f) a d) pont szerinti intézkedések elfogadásának és végrehajtásának indikatív ütemezése.
-
-(2)[^12] Az (1) bekezdés szerinti jelentés földhasználati, földhasználat-változtatási ágazatra és erdészeti ágazatra vonatkozó részének tartalmára – a NAIK ERTI közreműködésével – az NFK tesz javaslatot a Szolgálat részére.
-
-(3)[^13] Az (1) bekezdés szerinti jelentés nem erdészeti ágazatra vonatkozó részének tartalmára – az NFK közreműködésével – a Nemzeti Élelmiszerlánc-biztonsági Hivatal tesz javaslatot a Szolgálat részére.
-
-(4) A miniszter a környezetvédelemért felelős miniszterrel, az agrárpolitikáért felelős miniszterrel, az erdőgazdálkodásért felelős miniszterrel és a földügyért felelős miniszterrel együttműködve információt szolgáltat az 529/2013/EU határozat I. mellékletében meghatározott minden egyes elszámolási időszak végét követő második év január 15-ig, illetve március 15-ig bejelenti a Bizottságnak a földhasználati ágazatra vonatkozó nyilvántartásban az adott elszámolási időszakra vonatkozóan szereplő előzetes, illetve végleges adatokat, az 529/2013/EU határozat 4. cikk (6) bekezdésével összhangban.
-
-(5) A jelentés tartalmára, felépítésére, formátumára, benyújtási eljárására és felülvizsgálatára az 525/2013/EU rendelet, a 749/2014/EU bizottsági végrehajtási rendelet, valamint az 529/2013 EU határozat előírásai az irányadók.
-
-[^12]: A 14. § (2) bekezdése a 236/2019. (X. 15.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^13]: A 14. § (3) bekezdése a 236/2019. (X. 15.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^20]: A 14. § az 527/2020. (XI. 26.) Korm. rendelet 21. §-ával megállapított szöveg.

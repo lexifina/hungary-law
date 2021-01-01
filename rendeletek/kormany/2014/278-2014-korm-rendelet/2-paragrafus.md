@@ -10,16 +10,17 @@
 
 (3)[^1] A (2) bekezdés szerinti javaslatnak
 
-a) az erdészeti ágazatra vonatkozó része tartalmára, ideértve a Jegyzőkönyv 3. cikk (3) és (4) bekezdése, valamint 6. cikke szerinti jelentési kötelezettséget, a Nemzeti Agrárkutatási és Innovációs Központ, Erdészeti Tudományos Intézet (a továbbiakban: NAIK ERTI) közreműködésével a Nemzeti Földügyi Központ (a továbbiakban: NFK) a 14. § (1) bekezdése szerinti jelentéssel összhangban javaslatot tesz a Szolgálat részére,
+a)[^2] az erdészeti ágazatra vonatkozó része tartalmára, ideértve a Jegyzőkönyv 3. cikk (3) és (4) bekezdése, valamint 6. cikke szerinti jelentési kötelezettséget, a Nemzeti Agrárkutatási és Innovációs Központ, Soproni Egyetem közreműködésével a Nemzeti Földügyi Központ (a továbbiakban: NFK) a 14. § (1) bekezdése szerinti jelentéssel összhangban javaslatot tesz a Szolgálat részére,
 
 b) a földhasználati, földhasználat-változtatási ágazatra vonatkozó része tartalmára – az NFK közreműködésével – a Nemzeti Élelmiszerlánc-biztonsági Hivatal a 14. § (1) bekezdése szerinti jelentéssel összhangban javaslatot tesz a Szolgálat részére,
 
 c) a forgalmi jegyzékre vonatkozó része tartalmára az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: 2012. évi CCXVII. törvény) szerinti forgalmi jegyzék kezelője tesz javaslatot a Szolgálat részére.
 
-(4)[^2] A Nemzeti Kibocsátási Leltárt és a kapcsolódó leltárjelentést a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a miniszter jóváhagyásával a Szolgálat nyújtja be minden év április 15. napjáig a Keretegyezmény Titkárságának.
+(4)[^3] A Nemzeti Kibocsátási Leltárt és a kapcsolódó leltárjelentést a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a miniszter jóváhagyásával a Szolgálat nyújtja be minden év április 15. napjáig a Keretegyezmény Titkárságának.
 
-(5)[^3] A miniszter a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a földügyért felelős miniszter közreműködésével gondoskodik a (2)–(4) bekezdés szerinti jelentés összeállításáról.
+(5)[^4] A miniszter a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a földügyért felelős miniszter közreműködésével gondoskodik a (2)–(4) bekezdés szerinti jelentés összeállításáról.
 
 [^1]: A 2. § (3) bekezdése a 236/2019. (X. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^2]: A 2. § (4) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (5) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (3) bekezdés a) pontja az 527/2020. (XI. 26.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (5) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

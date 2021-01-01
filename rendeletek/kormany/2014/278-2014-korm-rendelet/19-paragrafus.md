@@ -1,16 +1,25 @@
+## 18. §[^23]
+
 ## 19. § Ez a rendelet
 
-a) az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet,
+a)[^24] az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK, a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1999 európai parlamenti és tanácsi rendelet,
 
-b) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet,
+b)[^25] a 2003/87/EK európai parlamenti és tanácsi irányelvnek az uniós kibocsátásiegység-forgalmi jegyzék működése tekintetében történő kiegészítéséről szóló, 2019. március 12-i (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet,
 
 c) az üvegházhatású gázoknak a földhasználatból, a földhasználat-változtatásból és az erdőgazdálkodási tevékenységekből eredő kibocsátására és elnyelésére vonatkozó elszámolási szabályokról és az e tevékenységekhez kapcsolódó intézkedésekre vonatkozó információkról szóló, 2013. május 21-i 529/2013/EU európai parlamenti és tanácsi határozat és
 
-d) a tagállamok által az 525/2013/EU európai parlamenti és tanácsi rendelet értelmében jelentett információk felépítéséről, formátumáról, benyújtási eljárásáról és felülvizsgálatáról szóló, 2014. június 30-ai 749/2014/EU bizottsági végrehajtási rendelet,
+d)[^26] a tagállamok által az (EU) 2018/1999 európai parlamenti és tanácsi rendeletnek megfelelően jelentett információk felépítéséről, formátumáról, benyújtási folyamatairól és felülvizsgálatáról, valamint a 749/2014/EU bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2020. augusztus 7-i (EU) 2020/1208 bizottsági végrehajtási rendelet,
 
-e)[^14] a földhasználathoz, a földhasználat-változtatáshoz és az erdőgazdálkodáshoz kapcsolódó üvegházhatásúgáz-kibocsátásnak és -elnyelésnek a 2030-ig tartó időszakra vonatkozó éghajlat- és energiapolitikai keretbe történő beillesztéséről, valamint az 525/2013/EU rendelet és az 529/2013/EU határozat módosításáról szóló, 2018. május 30-i 2018/841/EU európai parlamenti és tanácsi rendelet,
+e)[^27] a földhasználathoz, a földhasználat-változtatáshoz és az erdőgazdálkodáshoz kapcsolódó üvegházhatásúgáz-kibocsátásnak és -elnyelésnek a 2030-ig tartó időszakra vonatkozó éghajlat- és energiapolitikai keretbe történő beillesztéséről, valamint az 525/2013/EU rendelet és az 529/2013/EU határozat módosításáról szóló, 2018. május 30-i (EU) 2018/841 európai parlamenti és tanácsi rendelet,
 
-f)[^15] a Párizsi Megállapodásban vállalt kötelezettségek teljesítése érdekében a tagállamok által 2021-től 2030-ig kötelezően teljesítendő, az éghajlat-politikai fellépéshez hozzájáruló éves üvegházhatásúgázkibocsátás-csökkentések meghatározásáról, valamint az 525/2013/EU rendelet módosításáról szóló, 2018. május 30-i 2018/842/EU európai parlamenti és tanácsi rendelet
+f)[^28] a Párizsi Megállapodásban vállalt kötelezettségek teljesítése érdekében a tagállamok által 2021-től 2030-ig kötelezően teljesítendő, az éghajlat-politikai fellépéshez hozzájáruló éves üvegházhatásúgázkibocsátás-csökkentések meghatározásáról, valamint az 525/2013/EU rendelet módosításáról szóló, 2018. május 30-i (EU) 2018/842 európai parlamenti és tanácsi rendelet
 
-[^14]: A 19. § e) pontját a 76/2019. (IV. 10.) Korm. rendelet 11. §-a iktatta be.
-[^15]: A 19. § f) pontját a 76/2019. (IV. 10.) Korm. rendelet 11. §-a iktatta be.
+g)[^29] az (EU) 2019/1122 felhatalmazáson alapuló rendeletnek az (EU) 2018/842 európai parlamenti és tanácsi rendelet alapján, az uniós kibocsátásiegység-forgalmi jegyzék működése tekintetében történő módosításáról szóló, 2019. március 13-i (EU) 2019/1124 felhatalmazáson alapuló bizottsági rendelet
+
+[^23]: A 18. §-t az 527/2020. (XI. 26.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^24]: A 19. § a) pontja az 527/2020. (XI. 26.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^25]: A 19. § b) pontja az 527/2020. (XI. 26.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^26]: A 19. § d) pontja az 527/2020. (XI. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^27]: A 19. § e) pontját a 76/2019. (IV. 10.) Korm. rendelet 11. §-a iktatta be, szövege az 527/2020. (XI. 26.) Korm. rendelet 23. § h) pontja szerint módosított szöveg.
+[^28]: A 19. § f) pontját a 76/2019. (IV. 10.) Korm. rendelet 11. §-a iktatta be, szövege az 527/2020. (XI. 26.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
+[^29]: A 19. § g) pontját az 527/2020. (XI. 26.) Korm. rendelet 22. § (3) bekezdése iktatta be.
