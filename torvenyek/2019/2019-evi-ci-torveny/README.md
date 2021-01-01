@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-101-00-00
 | 2020-01-02 | 2010. évi CXXX. törvény | 2019-101-00-00.6 |
 | 2020-02-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-101-00-00.7 |
 | 2020-02-25 | 2010. évi CXXX. törvény | 2019-101-00-00.8 |
+| 2021-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-101-00-00.9 |
