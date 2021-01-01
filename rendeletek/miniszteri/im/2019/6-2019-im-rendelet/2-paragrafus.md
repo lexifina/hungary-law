@@ -1,1 +1,0 @@
-## megindítására szolgáló keresetlevelet.

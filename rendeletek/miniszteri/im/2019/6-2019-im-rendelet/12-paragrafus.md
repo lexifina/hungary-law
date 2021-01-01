@@ -1,1 +1,0 @@
-## 11. § A pótlapo(ka)t be kell sorszámozni és az(oka)t a nyomtatványhoz kell csatolni. A nyomtatványban fel kell tüntetni, hogy a nyomtatvány mely pontjai esetében, mely sorszámú pótlap(ok) kerül(nek) csatolásra.

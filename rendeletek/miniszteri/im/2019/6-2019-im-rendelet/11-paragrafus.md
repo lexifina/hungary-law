@@ -1,1 +1,0 @@
-## 10. § Ha a nyomtatványon szereplő pontok vagy sorok nem elegendőek az adatok, kérelmek, nyilatkozatok rögzítéséhez, az érintett adatokat, kérelmeket, nyilatkozatokat az eredeti nyomtatvánnyal megegyező részt tartalmazó pótlapo(ko)n kell rögzíteni, kivéve, ha az adat, kérelem vagy nyilatkozat megtételére pótlap nyomtatvány került rendszeresítésre.
