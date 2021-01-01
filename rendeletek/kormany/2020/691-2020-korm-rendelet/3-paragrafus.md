@@ -1,0 +1,7 @@
+## 2. § A honvédelmi egészségügyi szolgáltató irányítására vonatkozó szabályokat a Hvt. és a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet határozza meg.
+
+3. § (1) A honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője az 1. § b) pontja szerinti egészségügyi szolgáltató vonatkozásában gyakorolja az irányítási jogköröket, aki e jogköreit – a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzatában rögzített módon – az 1. § b) pontja szerinti egészségügyi szolgáltatóval való kapcsolattartás, valamint egyes irányítási és szakmai fenntartói feladatok koordinálása céljából a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakört, vagy ennek megfelelő szolgálati beosztást betöltő személy részére átruházhatja.
+
+(2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét az egészségügyért felelős miniszter egyetértésével a honvédelemért felelős miniszter nevezi ki.
+
+(3) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének az 1. § b) pontja szerinti egészségügyi szolgáltató irányításáért felelős helyettesét az országos kórház-főigazgató nevezi ki.
