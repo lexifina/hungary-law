@@ -1,6 +1,6 @@
-## 32. §[^49] E rendeletnek a közlekedési infrastruktúra-fejlesztéssel összefüggő egyes kormányrendeletek módosításáról szóló 236/2020. (V. 26.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 16. § (1) bekezdését a Módr3. hatálybalépésekor[^50] folyamatban lévő eljárásokban is alkalmazni kell.
+## 32. §[^50] E rendeletnek a közlekedési infrastruktúra-fejlesztéssel összefüggő egyes kormányrendeletek módosításáról szóló 236/2020. (V. 26.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 16. § (1) bekezdését a Módr3. hatálybalépésekor[^51] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 93/2012. (V. 10.) Korm. rendelethez[^51]
+1. melléklet a 93/2012. (V. 10.) Korm. rendelethez[^52]
 
 Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
@@ -416,6 +416,6 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 8.2.7. | Tűzvédelmi dokumentáció. |
 
-[^49]: A 32. §-t a 236/2020. (V. 26.) Korm. rendelet 3. §-a iktatta be.
-[^50]: A hatálybalépés időpontja 2020. május 27.
-[^51]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a, a 70/2015. (III. 30.) 200. § (4) bekezdése szerint módosított szöveg.
+[^50]: A 32. §-t a 236/2020. (V. 26.) Korm. rendelet 3. §-a iktatta be.
+[^51]: A hatálybalépés időpontja 2020. május 27.
+[^52]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a, a 70/2015. (III. 30.) 200. § (4) bekezdése szerint módosított szöveg.
