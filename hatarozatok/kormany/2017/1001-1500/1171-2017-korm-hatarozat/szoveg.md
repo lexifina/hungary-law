@@ -16,10 +16,6 @@ belügyminiszter
 
 Határidő: azonnal
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet címrendjének a 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 85. Az Óbudai-sziget állami tulajdonban lévő területeinek fejlesztése és hasznosítása jogcímcsoporttal történő kiegészítését.
+3.[^1]
 
-Felelős: nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
