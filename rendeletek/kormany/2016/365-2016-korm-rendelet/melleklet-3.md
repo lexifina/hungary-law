@@ -1,4 +1,4 @@
-3. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^99]
+3. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^101]
 
 ## A szórakoztatási célú berendezések, létesítmények, ideiglenes szerkezetek és szórakozási célú sporteszközök tekintetében kijelölt megfelelőségértékelő szervezetekre vonatkozó követelmények
 
@@ -52,4 +52,4 @@ c) az üzemeltető megváltozása esetén az üzemeltetőváltást átvezetni a 
 
 4. Ha az üzemeltetés helyszínén több szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, szórakozási célú sporteszköz található, a kijelölt szervezet a tanúsítványban minden szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezetet, szórakozási célú sporteszközt beazonosításra alkalmas módon külön-külön feltüntet.
 
-[^99]: A 3. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § d) pontja hatályon kívül helyezte, újonnan a 190/2020. (V. 7.) Korm. rendelet 14. §-a iktatta be.
+[^101]: A 3. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § d) pontja hatályon kívül helyezte, újonnan a 190/2020. (V. 7.) Korm. rendelet 14. §-a iktatta be.
