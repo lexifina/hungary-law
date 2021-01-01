@@ -1,6 +1,6 @@
 ## A jogi személy érdekében eljáró ügyvéd
 
-9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos (a továbbiakban együtt: jogi személy érdekében eljáró ügyvéd) jár el.
+9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos, európai közösségi jogász, alkalmazott ügyvéd vagy alkalmazott európai közösségi jogász (a továbbiakban együtt: jogi személy érdekében eljáró ügyvéd) jár el.
 
 (2) Ha a jogi személy nem hatalmaz meg jogi személy érdekében eljáró ügyvédet, akkor a bíróság, az ügyészség, vagy a nyomozó hatóság rendel ki jogi személy érdekében eljáró ügyvédet. Ebben az esetben a jogi személy érdekében eljáró ügyvéd kijelölése az eljáró bíróság, ügyészség vagy nyomozó hatóság székhelye szerint illetékes területi ügyvédi kamara feladata.
 
