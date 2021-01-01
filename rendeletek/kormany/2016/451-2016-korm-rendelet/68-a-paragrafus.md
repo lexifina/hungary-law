@@ -6,9 +6,13 @@
 
 (2)[^36] Az EFER tranzakciós díjak és a Magyar Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, a kormányzati hitelesítésszolgáltató tanúsítvány szolgáltatásaihoz kapcsolódó díjak, valamint a dokumentumtárolási szolgáltatáshoz kapcsolódó tárhelyszolgáltatás kapacitásdíja kivételével nem köteles díj fizetésére, és jogosult a szolgáltatás igénybevételére a piaci szereplő, ha
 
-a) állami vagy önkormányzati költségvetési szerv, vagy
+a) az állami vagy önkormányzati költségvetési szerv,
 
-b) jogszabályban meghatározott, kizárólag központi költségvetési forrásból fedezett vagy központi költségvetési forrásból 100%-ig támogatott állami közfeladatának elősegítése érdekében veszi igénybe a SZEÜSZ-t, valamint a KEÜSZ-t.
+b) jogszabályban meghatározott, kizárólag központi költségvetési forrásból fedezett vagy központi költségvetési forrásból 100%-ig támogatott állami közfeladatának elősegítése érdekében vagy
+
+c) a Kormány rendeletében a kormányzati informatikai beszerzésekre kijelölt központi beszerző szerv jogszabályban meghatározott közfeladata elősegítése érdekében
+
+## veszi igénybe a SZEÜSZ-t, valamint a KEÜSZ-t.
 
 (2a)[^37] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a Kormány által biztosított szabályozott elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartás és a központi azonosítási ügynök KEÜSZ szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés szolgáltató által nyújtott tanúsítványszolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult a 150. § (1) bekezdésében meghatározott nyilvántartásokban vagy adatbázisokban szereplő adatok szolgáltatására, illetve igénybevételére.
 
@@ -40,7 +44,7 @@ b) ha az igénybevevő nem teljesíti a szerződésben vállalt kötelezettsége
 
 [^34]: A 23/A. alcímet (68/A–68/B. §) a 361/2017. (XI. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be.
 [^35]: A 68/A. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés a) pontja szerint módosított szöveg.
-[^36]: A 68/A. § (2) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 89. § (1) bekezdésével megállapított szöveg.
+[^36]: A 68/A. § (2) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^37]: A 68/A. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege az 541/2020. (XII. 2.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^38]: A 68/A. § (2b) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
 [^39]: A 68/A. § (2c) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.

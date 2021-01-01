@@ -1,6 +1,6 @@
 ## 35. Automatikus információátadásra köteles együttműködő szervek
 
-150. §[^164] (1) Az alábbi nyilvántartások és adatbázisok adatai tekintetében – ha jogszabály eltérően nem rendelkezik – a nyilvántartást vagy adatbázist vezető együttműködő szerv, ennek hiányában a nyilvántartást vagy adatbázist működtető együttműködő szerv, továbbá ezen nyilvántartások vagy adatbázisok vezetésére, illetve működtetésére jogszabályban kötelezett valamennyi szervezet a KKSZB KEÜSZ útján köteles automatikus információátadási szolgáltatást nyújtani, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe venni, amelynek keretében biztosítja az alábbi nyilvántartásokban vagy adatbázisokban szereplő adatok automatikus információátadás útján történő átadásának lehetőségét:
+150. §[^165] (1) Az alábbi nyilvántartások és adatbázisok adatai tekintetében – ha jogszabály eltérően nem rendelkezik – a nyilvántartást vagy adatbázist vezető együttműködő szerv, ennek hiányában a nyilvántartást vagy adatbázist működtető együttműködő szerv, továbbá ezen nyilvántartások vagy adatbázisok vezetésére, illetve működtetésére jogszabályban kötelezett valamennyi szervezet a KKSZB KEÜSZ útján köteles automatikus információátadási szolgáltatást nyújtani, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe venni, amelynek keretében biztosítja az alábbi nyilvántartásokban vagy adatbázisokban szereplő adatok automatikus információátadás útján történő átadásának lehetőségét:
 
 1. a központi címregiszter;
 
@@ -58,4 +58,4 @@
 
 (2) Az (1) bekezdés szerinti nyilvántartásokban vagy adatbázisokban szereplő adat kizárólag a KKSZB KEÜSZ szolgáltatáson keresztül vehető igénybe.
 
-[^164]: A 150. § a 176/2019. (VII. 18.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
+[^165]: A 150. § a 176/2019. (VII. 18.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.

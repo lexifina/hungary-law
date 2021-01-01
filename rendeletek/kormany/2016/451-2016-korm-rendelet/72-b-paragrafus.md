@@ -1,4 +1,4 @@
-## 72/A. §[^41] Az ügyfélkapu regisztrációval már rendelkező felhasználó számára a regisztrációhoz tartozó felhasználói neve megismerését az országos telefonos ügyfélszolgálat telefonon keresztül biztosítja.
+## 72/A. §[^41]
 
 72/B. §[^42] (1) Az E-ügyintézési tv. 35. § (15a) bekezdése szerinti kép- és hangfelvétel rögzítésén alapuló rendszer (a továbbiakban: videoképes regisztráció) használata során a Kormány által kijelölt szerv (e § alkalmazásában a továbbiakban: kijelölt szerv) az e §-ban foglaltak szerint jár el.
 
@@ -26,5 +26,5 @@ c) az okmány azonosítója megegyezik a felhasználó által közölt okmányaz
 
 (6) Nincs helye videoképes regisztrációt követő ügyfélkapu-regisztrációnak, ha a videoképes regisztráció az e §-ban foglaltaknak nem felelt meg.
 
-[^41]: A 72/A. §-t a 284/2020. (VI. 17.) Korm. rendelet 83. §-a iktatta be.
+[^41]: A 72/A. §-t a 284/2020. (VI. 17.) Korm. rendelet 83. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 84. §-a.
 [^42]: A 72/B. §-t az 572/2020. (XII. 9.) Korm. rendelet 91. §-a iktatta be.
