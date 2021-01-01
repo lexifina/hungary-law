@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-275-20-
 | 2015-04-01 | 2004-275-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
 | 2018-01-01 | 2004-275-20-22.16 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-01-01 | 2004-275-20-22.17 | 324/2019. (XII. 19.) Korm. rendelet |
+| 2021-01-01 | 2004-275-20-22.18 | 713/2020. (XII. 30.) Korm. rendelet |
