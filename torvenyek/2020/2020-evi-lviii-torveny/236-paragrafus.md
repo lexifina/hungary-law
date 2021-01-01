@@ -12,7 +12,7 @@
 
 a) a Bv. tv. 50. § (1) bekezdés c) és d) pontjában megállapított határidő – a b) pontban meghatározott kivétellel – harminc nappal,
 
-b) a kérelemre induló ügyekben előírt elintézési határidő és a Bv. tv. 70/B. § (4) bekezdésében meghatározott határidő kilencven nappal,
+b) a kérelemre induló ügyekben előírt elintézési határidő kilencven nappal,
 
 c) a másodfokú bíróság tekintetében a Bv. tv. 51. § (4) bekezdésében megállapított határidő harminc nappal
 

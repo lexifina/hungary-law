@@ -1,1 +1,1 @@
-180. § A 203/1998. (XII. 19.) Korm. rendelet 26. §-ában meghatározottakon túl az építőipari nyers- és alapanyag kitermelésének befejezésekor a bányabezárásra kidolgozott műszaki üzemi terv elbírálása során a bányafelügyelet megkeresi a Magyar Állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés kézhezvételétől számított 20 napon belül igényt jelenthet be a bányatelek bányászati jogára. A Magyar Állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén a bányafelügyelet a Bt. 6. §-a szerint jár el.
+### 180. §

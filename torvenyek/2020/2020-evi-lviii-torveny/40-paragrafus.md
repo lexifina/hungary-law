@@ -1,6 +1,6 @@
 ## 18. A Széchenyi Pihenő Kártya formájában – béren kívüli juttatásként – adható összeg emelése és mentesítése a szociális hozzájárulási adó alól
 
-40. § (1) A 2020. évben a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (1) bekezdésétől eltérően a Széchenyi Pihenő Kártya
+40. § (1) A 2020. évben, valamint 2021. január 1. és 2021. június 30. között a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (1) bekezdésétől eltérően a Széchenyi Pihenő Kártya
 
 a) szálláshely alszámlájára utalt támogatás legfeljebb évi 400 ezer forint,
 
@@ -10,7 +10,7 @@ c) szabadidő alszámlájára utal utalt támogatás legfeljebb évi 135 ezer fo
 
 összegig minősül béren kívüli juttatásnak.
 
-(2) A 2020. évben az Szja tv. 70. § (8) bekezdésétől eltérően az éves rekreációs keretösszeg
+(2) A 2020. évben, valamint 2021. január 1. és 2021. június 30. között az Szja tv. 70. § (8) bekezdésétől eltérően az éves rekreációs keretösszeg
 
 a) – ha a munkáltató költségvetési szerv –
 
@@ -28,4 +28,4 @@ bb) a 800 ezer forintnak a munkavállaló által az adott munkáltatónál az ad
 
 bc) évi 800 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
 
-(3) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (4) bekezdés a) pontjától eltérően 2020. április 22-től a 2020. december 31-ig adott juttatások tekintetében nem terheli adókötelezettség a Széchenyi Pihenő Kártya kártyaszámlájára utalt béren kívüli juttatásnak minősülő összeget.
+(3) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (4) bekezdés a) pontjától eltérően 2020. április 22-től a 2021. június 30-ig adott juttatások tekintetében nem terheli adókötelezettség a Széchenyi Pihenő Kártya kártyaszámlájára utalt béren kívüli juttatásnak minősülő összeget.
