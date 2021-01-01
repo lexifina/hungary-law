@@ -18,7 +18,7 @@ e) a vérkészletek tekintetében a tároláshoz, illetve a véradáshoz szüks�
 
 f) azon laboratóriumok, amelyekben rendszeresen tárolnak, feldolgoznak vagy vizsgálnak magas biztonsági szintű mikrobiológiai vagy egyéb biológiai anyagot, valamint toxint, vagy ehhez a tevékenységhez műszaki-technológiai támogatást nyújtanak;
 
-g)[^6]
+g)[^8]
 
 (2) Európai létfontosságú rendszerelemként történő kijelölésre javasolható azon gyógyszer-nagykereskedelmi tevékenységet végző gazdálkodó szervezet, amely
 
@@ -32,4 +32,4 @@ b) országos lefedettséget biztosító logisztikával rendelkezik és
 
 c) forgalmazási területén a felhasználók igényének megfelelő teljes gyógyszerkört forgalmazza.
 
-[^6]: A 11. § (1) bekezdés g) pontját a 375/2020. (VII. 30.) Korm. rendelet 78. § c) pontja hatályon kívül helyezte.
+[^8]: A 11. § (1) bekezdés g) pontját a 375/2020. (VII. 30.) Korm. rendelet 78. § c) pontja hatályon kívül helyezte.

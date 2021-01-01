@@ -2,13 +2,13 @@
 
 ## 2. §[^1] Az egészségügyi ágazathoz tartozó létfontosságú rendszerelemek (a továbbiakban: létfontosságú rendszerelemek) meghatározása során az Lrtv. 1. mellékletében foglalt táblázat
 
-a) 14. sorában meghatározott egészségügyi ágazat aktív fekvőbeteg-ellátás és a működtetéséhez szükséges szolgáltatások alágazat esetében az Állami Egészségügyi Ellátó Központ,
+a)[^2] 14. sorában meghatározott egészségügyi ágazat aktív fekvőbeteg-ellátás és a működtetéséhez szükséges szolgáltatások alágazat esetében az Országos Kórházi Főigazgatóság,
 
 b) 15. sorában meghatározott egészségügyi ágazat mentésirányítás alágazat esetében az Országos Mentőszolgálat,
 
 c) 16. sorában meghatározott egészségügyi ágazat
 
-ca) egészségügyi tartalékok alágazat esetében az Állami Egészségügyi Ellátó Központ,
+ca)[^3] egészségügyi tartalékok alágazat esetében az Országos Kórházi Főigazgatóság,
 
 cb) vérkészletek alágazat esetében az Országos Vérellátó Szolgálat,
 
@@ -17,3 +17,5 @@ d) 17. sorában meghatározott egészségügyi ágazat magas biztonsági szintű
 e) 18. sorában meghatározott egészségügyi ágazat gyógyszer-nagykereskedelem alágazat esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 [^1]: A 2. § a 375/2020. (VII. 30.) Korm. rendelet 74. §-ával megállapított szöveg.
+[^2]: A 2. § a) pontja az 516/2020. (XI. 25.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § c) pont ca) alpontja az 516/2020. (XI. 25.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
