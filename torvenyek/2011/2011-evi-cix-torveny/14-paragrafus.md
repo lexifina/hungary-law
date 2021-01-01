@@ -2,11 +2,11 @@
 
 a) jóváhagyja az MMA Alapszabályát és szükség szerint módosítja azt;
 
-b) jóváhagyja az 5. § (1) és (2) bekezdése szerinti beszámolót és tájékoztatókat;
+b) jóváhagyja a köztestület munkájáról és a magyar művészeti élet általános helyzetéről az Országgyűlés számára készített elnöki beszámoló koncepcióját;
 
 c) a nem akadémikus tag kivételével dönt a tagok megválasztásról, valamint a tagozatok vezetői kivételével megválasztja és visszahívja az MMA tisztségviselőit;
 
-d) az államháztartásról szóló törvény és a költségvetési törvény keretei között jóváhagyja az MMA költségvetési és a költségvetés végrehajtására vonatkozó javaslatát;
+d) az államháztartásról szóló törvény és a költségvetési törvény keretei között jóváhagyja az MMA következő évi költségvetésének irányelveit és az előző évi költségvetés végrehajtásáról szóló beszámolóját;
 
 e) véleményt nyilvánít a művészeti élet, a művészet alapvető fontosságú kérdéseiben;
 
@@ -14,7 +14,7 @@ f) dönt költségvetési szerv alapításáról, átalakításáról, megszünt
 
 g) egyes közfeladatok ellátása érdekében az MMA tagjaiból munkacsoportot hozhat létre;
 
-h) határoz az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötéséről;
+h)
 
 i) a vonatkozó jogszabályi rendelkezéseknek megfelelően határoz az MMA vagyona
 
@@ -28,6 +28,6 @@ k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi
 
 l) elfogadja az i) és j) pont szerinti elvekre is figyelemmel megállapított vagyongazdálkodási szabályzatot;
 
-m) jóváhagyja a felügyelő testület ügyrendjét;
+m)
 
 n) dönt mindarról, amit jogszabály vagy az Alapszabály a hatáskörébe utal.

@@ -8,7 +8,7 @@ b) valamely állam vagy nemzetközi szervezet, valamely kulturális, művészeti
 
 (1b) Rendes taggá a levelező tag választható, legkorábban a levelező taggá választása napját követő két év elteltével.
 
-(2) A 30. § szerint regisztrált személyek az MMA rendes tagjai.
+(2)
 
 (3) Az MMA rendes tagjainak száma nem lehet több 250 főnél.
 

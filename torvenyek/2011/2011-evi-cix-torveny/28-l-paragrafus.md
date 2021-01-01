@@ -2,17 +2,17 @@
 
 ## MŰVÉSZJÁRADÉK
 
-28/L. § (1) Az MMA a kiemelkedő művészeti teljesítmények és művészi életút iránti tisztelete kifejezéseképpen rendszeres díjazást (a továbbiakban: művészjáradék) nyújt azon, 65. életévét betöltött személynek, aki
+28/L. § (1) Az MMA a kiemelkedő művészeti teljesítmények és művészi életút iránti tisztelete kifejezéseképpen rendszeres díjazást (a továbbiakban: művészjáradék) nyújt azon, 65. életévét betöltött személynek, aki – természetes személyként –
 
 a) Kossuth-díjban, a Magyarország Kiváló Művésze, a Magyar Köztársaság Kiváló Művésze, a Magyar Népköztársaság Kiváló Művésze, a Magyarország Érdemes Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Népköztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja, a Magyarország Babérkoszorúja és a Népművészet Mestere díjak valamelyikében,
 
-b) a Népművészet Ifjú Mestere és a Táncsics Mihály-díj kivételével a kultúráért felelős miniszter feladatkörében adományozható
+b) a Népművészet Ifjú Mestere és a Táncsics Mihály-díj kivételével a kultúráért felelős miniszter által jogszabályban alapított díjként, a feladatkörében adományozható
 
-ba) művészeti díjban – a Balassa Péter-díjat beleértve –,
+ba) művészeti díjban,
 
 bb) művészet-igazgatási területen végzett vagy művészetelméleti tevékenységre tekintettel adományozott művészet- és közművelődés-igazgatási, művészetelméleti és közművelődés-elméleti díjban,
 
-c) Ybl Miklós-díjban, természetes személy részére adományozott Pro Architectura díjban, vagy
+c) Ybl Miklós-díjban, Pro Architectura díjban, Mőcsényi Mihály-díjban, vagy
 
 d) a közgyűlés által adományozott, a Magyar Művészeti Akadémia Életműdíja, a Magyar Művészeti Akadémia Nagydíja, a Magyar Művészeti Akadémia Művészeti Írói Díja, és a Magyar Művészeti Akadémia Kováts Flórián Emlékérme díjak valamelyikében
 
@@ -30,7 +30,7 @@ d) a Magyar Mozgókép Mestere cím birtokosa,
 
 e) az akadémikus,
 
-f) a kultúráért felelős miniszter által adományozott művészeti életpálya elismerésre tekintettel a művészjáradék kérelmezése időpontjában járadékban részesülő személy [az a)–f) pontban meghatározottak a továbbiakban együtt: a művészjáradék megállapítását kizáró elismerés], valamint
+f) a kultúráért felelős miniszter által adományozott művészeti életpálya elismeréshez kapcsolódóan járadékban részesülő személy az e járadékban való részesítése időtartama alatt [az a)–f) pontban meghatározottak a továbbiakban együtt: a művészjáradék megállapítását kizáró elismerés], valamint
 
 g) aki a művészjáradék megállapítását megalapozó elismerésről lemondott, vagy akitől a művészjáradék megállapítását megalapozó elismerést visszavonták.
 

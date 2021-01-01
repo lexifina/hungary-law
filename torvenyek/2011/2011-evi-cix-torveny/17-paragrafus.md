@@ -12,7 +12,7 @@ b) a két alelnök,
 
 c) a főtitkár,
 
-d) négy, a közgyűlés által – a közgyűlés időpontjában legalább két éve megválasztott akadémikusok közül – három évre elnökségi taggá választott akadémikus, valamint
+d) négy, a közgyűlés által három évre elnökségi taggá választott akadémikus, valamint
 
 e) a 25. § szerinti esetben a tiszteletbeli elnök.
 
@@ -26,9 +26,9 @@ a) irányítja az MMA működését;
 
 b) előkészíti az MMA éves programtervét és felügyeli annak végrehajtását;
 
-c) megtárgyalja az 5. § (1) és (2) bekezdéseiben rögzített beszámolót és tájékoztatókat;
+c) elfogadja a köztestület éves munkájáról a Kormány részére készített elnöki tájékoztatót és a közgyűlés által jóváhagyott koncepció alapján készült, az Országgyűlésnek szóló elnöki beszámolót;
 
-d) megtárgyalja az MMA éves költségvetését és költségvetési beszámolóját;
+d) megtárgyalja az MMA következő évi költségvetésének irányelveit és az előző évi költségvetés végrehajtásáról szóló beszámolót, továbbá elfogadja az MMA éves költségvetését;
 
 e) gondoskodik a közgyűlés döntéseinek végrehajtásáról;
 
@@ -46,11 +46,15 @@ gd) a közbeszerzési szabályzat elfogadásáról,
 
 h) dönt az MMA általi egyéb kötelezettségvállalásról, amennyiben annak értéke meghaladja a 150 millió forintot és a döntés nem tartozik a közgyűlés kizárólagos hatáskörébe;
 
-i) javaslatot tesz az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötésére;
+i) dönt az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötéséről;
 
 j) vezeti a nem akadémikus tagok központi köztestületi nyilvántartását; továbbá
 
-k) ellátja mindazokat a feladatokat, amelyeket a közgyűlés vagy az Alapszabály a hatáskörébe utal.
+k) a költségvetési szerv alapítása, átalakítása, megszüntetése, valamint alapító okiratának és megszüntető okiratának kiadása kivételével gyakorolja az MMA által alapított költségvetési szerv fölött azokat a jogokat, amelyeket az államháztartásról szóló törvény a költségvetési szerv irányításának jogaiként meghatároz, e jogainak gyakorlását az Alapszabályban – részben vagy egészben – az MMA elnökére ruházhatja;
+
+l) jóváhagyja a felügyelő testület ügyrendjét;
+
+m) ellátja mindazokat a feladatokat, amelyeket a közgyűlés vagy az Alapszabály a hatáskörébe utal.
 
 (6) Az elnökség szükség szerint, de évente legalább tíz alkalommal ülésezik. Az Alapszabály rendelkezhet az elnökség gyakoribb összehívásáról, valamint meghatározhatja az elnökség kötelező összehívásának eseteit.
 

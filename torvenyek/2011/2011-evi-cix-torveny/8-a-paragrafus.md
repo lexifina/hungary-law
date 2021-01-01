@@ -1,6 +1,6 @@
 8/A. § (1) Nem akadémikus tagként felvételét kérheti az MMA-ba
 
-a) a DLA fokozattal,
+a) a nemzeti felsőoktatásról szóló törvény szerinti vagy külföldi képzésben szerzett és honosított vagy elismert DLA-fokozattal,
 
 b) az Alapszabályban meghatározott hazai művészeti szakmai elismeréssel vagy
 

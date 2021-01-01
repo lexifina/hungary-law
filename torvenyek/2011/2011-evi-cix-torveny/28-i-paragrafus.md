@@ -1,6 +1,6 @@
 28/I. § (1) Az MMA Titkársága a díjazottakról nyilvántartást vezet, amely tartalmazza
 
-a) a díjazott nevét, születési helyét és időpontját,
+a) a díjazott nevét, születési helyét és időpontját, továbbá állandó lakcímét és tartózkodási helyét,
 
 b) a díj adományozásának időpontját és rövid indokolását,
 

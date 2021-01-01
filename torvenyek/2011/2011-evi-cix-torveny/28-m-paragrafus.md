@@ -1,6 +1,6 @@
-28/M. § (1) A művészjáradék iránti kérelmet írásban kell előterjeszteni a Titkárságon
+28/M. § (1) A művészjáradék iránti kérelmet írásban kell előterjeszteni az MMA Titkárságán mint az eljáró közigazgatási hatóságnál
 
-a) a kérelmező természetes személyazonosító adatai, állampolgársága, állandó lakcíme és tartózkodási helye, folyószámláját vezető pénzintézet neve feltüntetésével, a kérelmező Titkársággal való kapcsolattartását szolgáló telefonszáma megjelölésével,
+a) a kérelmező természetes személyazonosító adatai, állampolgársága, állandó lakcíme és tartózkodási helye, folyószámláját vezető pénzintézet neve és folyószámlaszáma, valamint az MMA Titkárságával való kapcsolattartását szolgáló telefonszáma feltüntetésével,
 
 b) azon művészeti elismerés megnevezésével, amelyre tekintettel a kérelmező a művészjáradékot igényli, továbbá azon időpont meghatározásával, amikor a kérelmező az elismerésben részesült,
 
@@ -10,8 +10,8 @@ d) a kérelmező arról szóló nyilatkozatának megtételével, miszerint
 
 da) a művészjáradék megállapítását kizáró elismeréssel nem rendelkezik,
 
-db) a művészjáradék megállapítását megalapozó elismerésről történő lemondás vagy visszavonás esetén, vagy a művészjáradék megállapítását kizáró elismerés szerzése esetén e tényről a Titkárságot 15 napon belül írásban értesíti, valamint
+db) a művészjáradék megállapítását megalapozó elismerésről történő lemondás vagy visszavonás esetén, vagy a művészjáradék megállapítását kizáró elismerés szerzése esetén e tényről az MMA Titkárságát 15 napon belül írásban értesíti, valamint
 
 dc) büntetőjogi felelőssége tudatában kijelenti, hogy a kérelemben foglaltak a valóságnak megfelelnek.
 
-(2)
+(2) Ha a kérelmező a 28/L. § (1) bekezdés b) pont bb) alpontjára alapítja művészjáradék iránti kérelmét, és az (1) bekezdés c) pontja szerinti dokumentumok egyike sem tartalmazza az adományozás indokát, akkor a kérelmező a művészjáradék iránti kérelmében nyilatkozik arról, hogy mely tevékenysége elismeréseképpen részesült a díjban.

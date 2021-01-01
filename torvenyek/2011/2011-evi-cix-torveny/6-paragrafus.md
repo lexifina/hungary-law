@@ -4,4 +4,4 @@
 
 ## 3. Az MMA tagjainak választása
 
-6. § Az MMA tagjait – a 7. § (2) bekezdésében és a 8/A. § (1) bekezdésében meghatározott kivétellel – a közgyűlés választja közvetlen és titkos szavazás útján.
+6. § Az MMA tagjait – a 8/A. § (1) bekezdésében meghatározott kivétellel – a közgyűlés választja közvetlen és titkos szavazás útján.

@@ -1,8 +1,14 @@
-8. § (1) A közgyűlés – a 7. § (4)–(8) bekezdésében meghatározott eljárás megfelelő alkalmazásával – levelező tagokat választhat. Levelező taggá
+8. § (1) A közgyűlés – a 7. § (4)–(8) bekezdésében meghatározott eljárás alkalmazásával – levelező tagokat választhat. Levelező taggá választható
 
-a) a nem akadémikus tag, vagy
+a) a nem akadémikus tag vagy
 
-b) az a személy választható, aki DLA-fokozattal vagy az Alapszabályban meghatározott hazai művészeti szakmai elismeréssel rendelkezik.
+b) az a személy, aki
+
+ba) a nemzeti felsőoktatásról szóló törvény szerinti vagy külföldi képzésben szerzett és honosított vagy elismert DLA-fokozattal vagy
+
+bb) az Alapszabályban meghatározott hazai művészeti szakmai elismeréssel
+
+rendelkezik.
 
 (2) A levelező tag a 13. § (2) bekezdés és a 20. § (3) bekezdés szerint gyakorolja köztestületi jogait.
 
