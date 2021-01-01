@@ -2,4 +2,6 @@
 
 29. § (1)
 
-(2)
+(2) A Kultv. 1. §-a a következő g) és h) ponttal egészül ki:
+
+(E törvény célja:)
