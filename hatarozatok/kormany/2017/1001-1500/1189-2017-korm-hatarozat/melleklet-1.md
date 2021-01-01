@@ -18,13 +18,7 @@
 
 ## 5. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Alapcsomaggal kapcsolatos feladatok ellátásához szükséges forrás biztosításáról, 2017. évtől kezdődően évi 60,0 millió forint összegben a Digitális Jólét Nonprofit Kft. részére a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléket, XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 34. Infokommunikációs ágazati programok alcím, 2. Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok jogcímcsoport terhére;
 
-## 6. az 5. pont szerinti forrás rendelkezésre állása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 60,0 millió forint tartósan beépülő átcsoportosítását rendeli el a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 2. Társaságokkal kapcsolatos kiadások alcím, 2. Állami tulajdonú társaságok támogatása jogcímcsoport, 2. Az MNV Zrt. tulajdonosi joggyakorlásába tartozó társaságok támogatása jogcím terhére a Kvtv. 1. melléklet, XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. Fejezeti kezelésű előirányzatok cím, 34. Infokommunikációs ágazati programok alcím, 2. Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok jogcímcsoport javára az 1. melléklet szerint;
-
-## 5–6. pont tekintetében felelős: nemzeti fejlesztési miniszter
-
-## Határidő: a 2017. év tekintetében azonnal
-
-## a 2018. év és azt követő évek tekintetében a költségvetés tervezése során
+## 6.[^1]
 
 ## 7. annak érdekében, hogy az Alapcsomag a kívánt társadalmi és gazdasági célt minél hatékonyabban tudja ellátni, felhívja a miniszterelnöki biztost, hogy
 
@@ -36,70 +30,7 @@
 
 ## Határidő: az a) alpont vonatkozásában első alkalommal 2018. március 31., majd ezt követően minden év március 31., a b) alpont vonatkozásában folyamatos
 
-1. melléklet az 1189/2017. (IV. 10.) Korm. határozathoz
+1. melléklet az 1189/2017. (IV. 10.) Korm. határozathoz[^2]
 
-| XVII. Nemzeti Fejlesztési Minisztérium XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. ezer forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jogcím csoport szám | Jogcím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csoport név | Jogcím név | K I A D Á S O K | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 34 |  |  |  |  |  | Infokommunikációs ágazati programok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295757 |  |  |  | 2 |  |  |  |  |  | Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 60 000,0 |  |  |  |
-
-|  | XLIII. |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Társaságokkal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 2 |  |  |  |  |  | Állami tulajdonú társaságok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 296357 |  |  |  |  | 2 |  |  |  |  |  | Az MNV Zrt. tulajdonosi joggyakorlásába tartozó társaságok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -60 000,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jogcím csoport szám | Jogcím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csoport név | Jogcím név | BEVÉTEL | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jogcím csoport szám | Jogcím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csoport név | Jogcím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 34 |  |  |  |  |  | Infokommunikációs ágazati programok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295757 |  |  |  | 2 |  |  |  |  |  | Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok |  |  |  |  |  |  |  |  | 60 000,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki |  |  |  |  | Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: |  |  |  |  |  |  |  |  | I. né. | II. né. | III. né. | IV. né. |
-
-| Fejezetet irányító szerv |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  |  |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  |  |  | 1 példány |  |  | egyéb: azonnal |  |  | 60 000,0 |  |  |  |  |  |  |  |  |  | 60 000,0 |  |  |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+[^1]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
