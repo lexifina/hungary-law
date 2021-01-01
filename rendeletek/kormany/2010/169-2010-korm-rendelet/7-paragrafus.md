@@ -10,22 +10,22 @@
 
 (5) A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján elkészíti az éves minőségbiztosítási ellenőrzési programját.
 
-(6)[^11]
+(6)[^15]
 
 (7) A minőségbiztosítási ellenőrzésről készült jelentéseket a légiközlekedési hatóság kezeli, értékeli és megteszi a hiányosságok felszámolása érdekében szükséges intézkedéseket. Az ellenőrzések során feltárt légiközlekedés védelmét közvetlenül veszélyeztető vagy összefüggő hiányosságokról a légiközlekedési hatóság soron kívül, írásban tájékoztatja
 
-a)[^12] az általános rendőrségi feladatok ellátására létrehozott szervet,
+a)[^16] az általános rendőrségi feladatok ellátására létrehozott szervet,
 
-b)[^13] az AH-t,
+b)[^17] az AH-t,
 
-c)[^14] a vámhatóságot a nemzetközi személy-, vagy áruforgalom számára megnyitott repülőtereken feltárt hiányosságokról és
+c)[^18] a vámhatóságot a nemzetközi személy-, vagy áruforgalom számára megnyitott repülőtereken feltárt hiányosságokról és
 
 d) az illetékes katasztrófavédelmi szervet a tiltott eszközöknek minősített pirotechnikai anyagok kezelésével kapcsolatos hiányosságokról,
 
-e)[^15] a TEK-et.
+e)[^19] a TEK-et.
 
-[^11]: A 7. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^12]: A 7. § (7) bekezdés a) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés a) pontjával megállapított szöveg.
-[^13]: A 7. § (7) bekezdés b) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
-[^14]: A 7. § (7) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 26. § a) pontjával megállapított szöveg.
-[^15]: A 7. § (7) bekezdés e) pontját a 240/2011. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
+[^15]: A 7. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^16]: A 7. § (7) bekezdés a) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés a) pontjával megállapított szöveg.
+[^17]: A 7. § (7) bekezdés b) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^18]: A 7. § (7) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 26. § a) pontjával megállapított szöveg.
+[^19]: A 7. § (7) bekezdés e) pontját a 240/2011. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
