@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1116-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-03-13 | 2017-1116-30-22.1 | 1116/2017. (III. 13.) Korm. határozat |
+| 2021-01-01 | 2017-1116-30-22.2 | 2011: CXCV. törvény |
