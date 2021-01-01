@@ -1,0 +1,11 @@
+## 2. § A Korm. rendelet 6. §-a a következő (5)–(9) bekezdéssel egészül ki:
+
+## „(5) E rendeletnek az egyes koncesszióköteles tevékenységek tekintetében az illetékes ágazati miniszteri feladatok ellátásáról szóló 495/2020. (XI. 11.) Korm. rendelet módosításáról szóló 728/2020. (XII. 31.) Korm. rendelettel (a továbbiakban: Mód. rendelet 2.) megállapított 1–4. §-át és 1. mellékletét az e rendelkezések hatálybalépésekor folyamatban levő, Ktv. szerinti koncessziós pályázati és ajánlattételi eljárásokra, valamint a Ktv. 10/A. §-a szerinti eljárásokra is alkalmazni kell.
+
+## (6) A Mód. rendelet 2. hatálybalépésekor folyamatban levő, Ktv. szerinti koncessziós eljárások és a Ktv. 10/A. §-a szerinti eljárások vonatkozásában a Magyar Állam képviseletében az egyes koncesszióköteles tevékenységek tekintetében a Mód. rendelet 2. hatálybalépése napjáig eljárt általános politikai koordinációért felelős miniszter (a továbbiakban: a miniszterelnök kabinetfőnöke) általános jogutódjának a Nemzeti Koncessziós Irodát kell tekinteni.
+
+## (7) A miniszterelnök kabinetfőnöke a Mód. rendelet 2. hatálybalépése napján folyamatban levő, a Ktv. szerinti koncessziós és a Ktv. 10/A. §-a szerinti eljárások iratanyagát a Mód. rendelet 2. hatálybalépése napját követő 2 munkanapon belül adja át a Nemzeti Koncessziós Iroda részére.
+
+## (8) A Nemzeti Koncessziós Iroda a Mód. rendelet 2. hatálybalépése napján folyamatban levő, Ktv. szerinti koncessziós eljárások és a Ktv. 10/A. §-a szerinti eljárások esetén a Magyar Állam törvényes képviselője személyében beállt változásról – így különösen a Mód. rendelet 2. hatálybalépéséről és a folyamatban levő eljárásokban a beadványok benyújtásának rendjéről – a folyamatban levő eljárásokban pályázatot, ajánlatot, egyéb beadványt már benyújtott személyeket a Mód. rendelet 2. hatálybalépése napját követő 5 munkanapon belül írásban tájékoztatja.
+
+## (9) A Mód. rendelet 2. hatálybalépése napján folyamatban levő, a Ktv. szerinti koncessziós és a Ktv. 10/A. §-a szerinti eljárásokban az e rendelet alapján a miniszterelnök kabinetfőnökéhez benyújtott beadványokat a Mód. rendelet 2. hatálybalépésekor a Magyar Állam törvényes képviseletében beálló általános jogutódlásra tekintettel nem kell ismételten benyújtani.”
