@@ -54,7 +54,7 @@ b) az a) pontban meghatározott mennyiség feletti részre vonatkozóan a mélyv
 
 (16)[^44]
 
-(17)[^45] Ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre, akkor a villamosenergia-termeléssel összefüggő költségeket a kötelező átvételű villamos energia külön jogszabályban szabályozott átvétele rendszerén kívül, az átviteli rendszerirányítónak a villamosenergia-rendszer szabályozásával összefüggő költségei között kell elszámolni.
+(17)[^45] Ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre, vagy elosztói rugalmassági szolgáltatások keretében az elosztó hálózati engedélyes részére kerül értékesítésre, akkor a villamosenergia-termeléssel összefüggő költségeket a kötelező átvételű villamos energia külön jogszabályban szabályozott átvétele rendszerén kívül, az átviteli rendszerirányítónak a villamosenergia-rendszer szabályozásával vagy az elosztónak az elosztói rugalmassági szolgáltatás igénybevételével összefüggő költségei között kell elszámolni, a villamosenergia-ellátási szabályzatokban meghatározottak szerint.
 
 (18)[^46] A (17) bekezdésben hivatkozott villamosenergia-termelésre vonatkozó adatokat az erőműegység köteles ellenőrizhető módon kimutatni és nyilvántartani, továbbá ellenőrzés céljából a Hivatal rendelkezésére bocsátani.
 
@@ -79,6 +79,6 @@ b) az a) pontban meghatározott mennyiség feletti részre vonatkozóan a mélyv
 [^42]: A 3. § (14) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^43]: A 3. § (15) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
 [^44]: A 3. § (16) bekezdését a 364/2019. (XII. 30.) Korm. rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^45]: A 3. § (17) bekezdése a 364/2019. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^45]: A 3. § (17) bekezdése a 721/2020. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^46]: A 3. § (18) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 166/2011. (VIII. 24.) Korm. rendelet 3. § 10. pontja, a 364/2019. (XII. 30.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.
 [^47]: A 3. § (19) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be.

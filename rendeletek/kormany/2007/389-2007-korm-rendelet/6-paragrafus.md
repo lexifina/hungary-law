@@ -22,7 +22,7 @@ d) az építési engedély meglétének igazolása.
 
 (2b)[^66] A kötelező átvételi jogosultság (2) bekezdés szerinti elvesztése nem vonatkozik azokra az engedélyköteles erőműegységekre, amelyek kivitelezése 2016. július 1-je előtt megkezdődött.
 
-(2c)[^67] A (2a) bekezdés szerinti villamosenergia-termelés megkezdésére vonatkozó határidő-hosszabbítás kérelmezése esetén a KÁT termelőre a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet szerinti menetrendadási és menetrendtartási szabályok alkalmazandóak.
+(2c)[^67] A (2a) bekezdés szerinti villamosenergia-termelés megkezdésére vonatkozó határidő-hosszabbítás kérelmezése esetén a KÁT termelőre METÁR rendelet szerinti menetrendadási és menetrendtartási szabályok alkalmazandóak.
 
 (3) A KÁT termelő a kérelméhez csatolni köteles azokat a hitelt érdemlő dokumentumokat, amelyek igazolják, hogy milyen fajtájú és összegű más támogatást (így különösen beruházási támogatás, adómentesség vagy adókedvezmény, egyéb közvetlen ártámogatás vagy kedvezményes csatlakozási díj) vett, vesz vagy tervez igénybe venni.
 
@@ -45,7 +45,7 @@ d) az építési engedély meglétének igazolása.
 [^64]: A 6. § (2) bekezdése a 256/2018. (XII. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^65]: A 6. § (2a) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 256/2018. (XII. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^66]: A 6. § (2b) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 256/2018. (XII. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^67]: A 6. § (2c) bekezdését a 256/2018. (XII. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^67]: A 6. § (2c) bekezdését a 256/2018. (XII. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 721/2020. (XII. 31.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
 [^68]: A 6. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 215. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^69]: A 6. § (7) bekezdése a 256/2018. (XII. 18.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
 [^70]: A 6. § (8) bekezdése a 232/2017. (VIII. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

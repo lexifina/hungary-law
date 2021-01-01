@@ -20,17 +20,17 @@
 
 ## A szabályozási pótdíj megállapítására vonatkozó szabályok
 
-1. Egy adott (i) elszámolási időegységre a KÁT termelőre eső szabályozási pótdíj összege 2. és 3. pontok figyelembe vétele nélkül:
+1. Egy adott (i) elszámolási időegységre a KÁT termelőre eső szabályozási pótdíj összege a 2. és 3. pont figyelembevétele nélkül:
 
 a) A KÁT termelő tényleges értékesítési mennyisége a napi menetrend mennyiségét nem éri el:
 
-i) Ha KEi kWh > 0 akkor SZPi FEL DA = ((MDi - Ti + UEi) / Σi pKEfel DA) * KEi Ft;
+i) Ha KEi kWh > 0 akkor SZPi FEL DA = ((MDi – Ti + UEi) / ∑i pKEfel DA) * (KEi Ft – KEi kWh * Pi);
 
-ii) Ha KEi kWh <= 0 akkor SZPi FEL DA =0;
+ii) Ha KEi kWh <= 0 akkor SZPi FEL DA = 0;
 
 b) A KÁT termelő tényleges értékesítési mennyisége a napi menetrend mennyiségét meghaladja:
 
-i) KEi kWh < 0 akkor SZPi LE DA = ((MDi - Ti + UEi) / Σi nKEle DA) * KEi Ft;
+i) KEi kWh < 0 akkor SZPi LE DA = ((MDi – Ti + UEi) / ∑i nKEle DA) * (KEi Ft – KEi kWh * Pi);
 
 ii) KEi kWh > =0 akkor SZPi LE DA =0;
 
@@ -40,13 +40,13 @@ SZPi FEL DA = 0 és SZPi LE DA = 0;
 
 d) A KÁT termelő tényleges értékesítési mennyisége a napon belüli menetrend mennyiségét nem éri el:
 
-i) Ha KEi kWh > 0 akkor SZPi FEL ID = ((MIi - Ti + UEi) / Σi pKEfel ID) * KEi Ft;
+i) Ha KEi kWh > 0 akkor SZPi FEL ID = ((MIi - Ti + UEi) / ∑i pKEfel ID) * (KEi Ft – KEi kWh * Pi);
 
 ii) Ha KEi kWh <= 0 akkor SZPi FEL ID =0;
 
 e) A KÁT termelő tényleges értékesítési mennyisége a napon belüli menetrend mennyiségét meghaladja:
 
-i) KEi kWh < 0 akkor SZPi LE ID = ((MIi - Ti + UEi) / Σi nKEle ID) * KEi Ft;
+i) KEi kWh < 0 akkor SZPi LE ID = ((MIi - Ti + UEi) / ∑i nKEle ID) * (KEi Ft – KEi kWh * Pi);
 
 ii) KEi kWh > =0 akkor SZPi LE ID =0;
 
@@ -72,21 +72,21 @@ Ti – az adott (i) elszámolási mérési időegységben a KÁT termelő tényl
 
 UEi – az adott (i) elszámolási mérési időegységre a KÁT termelő utasított eltérése, kWh;
 
-KEi kWh – az adott (i) elszámolási mérési időegységben a KÁT mérlegkör kiegyenlítő energia mennyisége az utasított eltérések figyelembe vételével, kWh;
+KEi kWh – az adott (i) elszámolási mérési időegységben a KÁT mérlegkör kiegyenlítő energia mennyisége az utasított eltérések figyelembevételével, kWh;
 
 KEi Ft – az adott (i) elszámolási mérési időegységben a KÁT mérlegkörre megállapított kiegyenlítő energiadíj, Ft;
 
-Σi pKEfel DA: a KÁT mérlegkör-tagok FEL irányú szabályozási eltéréseinek összege az utasított eltérések figyelembe vételével napi menetrend és KEi kWh >0 esetén, kWh;
+Pi – az adott (i) elszámolási mérési időegységben a másnapi hazai szervezett villamosenergia-piacon kialakult órás ár (EUR/MWh) a Magyar Nemzeti Bank adott hónapra közzétett napi középárfolyamainak számtani átlaga alapján átváltva, Ft/kWh;
 
-Σi nKEle DA: a KÁT mérlegkör-tagok LE irán yú szabályozási eltéréseinek összege az utasított eltérések figyelembe vételével napi menetrend és KEi kWh <0 esetén, kWh;
+∑i pKEfel DA: a KÁT mérlegkör-tagok FEL irányú szabályozási eltéréseinek összege az utasított eltérések figyelembevételével napi menetrend és KEi kWh >0 esetén, kWh;
 
-Σi pKEfel ID: a KÁT mérlegkör-tagok FEL irányú szabályozási eltéréseinek összege az utasított eltérések figyelembe vételével napon belüli menetrend és KEi kWh >0 esetén, kWh;
+∑i nKEle DA: a KÁT mérlegkör-tagok LE irányú szabályozási eltéréseinek összege az utasított eltérések figyelembevételével napi menetrend és KEi kWh <0 esetén, kWh;
 
-Σi nKEle ID: a KÁT mérlegkör-tagok LE irányú szabályozási eltéréseinek összege az utasított eltérések figyelembe vételével napon belüli menetrend és KEi kWh <0 esetén, kWh.
+∑i pKEfel ID: a KÁT mérlegkör-tagok FEL irányú szabályozási eltéréseinek összege az utasított eltérések figyelembevételével napon belüli menetrend és KEi kWh >0 esetén, kWh;
+
+∑i nKEle ID: a KÁT mérlegkör-tagok LE irányú szabályozási eltéréseinek összege az utasított eltérések figyelembevételével napon belüli menetrend és KEi kWh <0 esetén, kWh.
 
 2. A KÁT termelő szabályozási pótdíj csökkentésének összege, mely nem haladhatja meg az 1. pont szerinti szabályozási pótdíj havi összegét:
-
-K = M * (Q –Qnmh)
 
 ahol:
 
@@ -104,11 +104,11 @@ K = K1+K2+…+Kn,
 
 ahol K1, K2,…Kn a megállapodásban részes KÁT termelők szabályozási pótdíj csökkentésének összege.
 
-4. Az M szabályozási pótdíj csökkentés mértékének bázisértékei:
+4. M szabályozási pótdíj csökkentés mértékének bázisértékei:
 
 a) naperőmű és szélerőmű esetén: 3 Ft/kWh;
 
-b) egyéb erőmű esetén: 0,5 Ft/kWh.
+b) az a) pont alá nem tartozó erőmű esetén: 0,5 Ft/kWh.
 
 5. A 4. pont szerinti M szabályozási pótdíj csökkentés mértéke
 
@@ -122,14 +122,16 @@ d) 2024. január 1-től MB *0,50;
 
 e) 2025. január 1-től MB *0,25;
 
-f) 2026. január 1-től MB *0
+f) 2026. január 1-től nulla;
 
 ahol MB a 4. pont szerinti M szabályozási pótdíj csökkentés mértékének bázisértéke.
 
-6. Egy adott hónapban az 1. pont szerinti (i) elszámolási időegységekre eső szabályozási pótdíjak havi összege és a 2. pontban – Menetrend-csoport esetén a 3. pont figyelembe vételével – meghatározott szabályozási pótdíj csökkentés különbsége alapján kell számítani a KÁT termelő vagy összevont menetrend esetén a Menetrend-csoport Képviselő által a Befogadó részére fizetendő havi szabályozási pótdíj összegét:
+6. Egy adott hónapban az 1. pont szerinti (i) elszámolási időegységekre eső szabályozási pótdíjak havi összege és a 2. pontban – Menetrend-csoport esetén a 3. pont figyelembevételével – meghatározott szabályozási pótdíj csökkentés különbsége alapján kell számítani a KÁT termelő vagy összevont menetrend esetén a Menetrend-csoport Képviselő által a Befogadó részére fizetendő havi szabályozási pótdíj összegét:
 
-SZPhó = ½ * (Σhó(SZPi FEL DA + SZPi LE DA) + Σhó(SZPi FEL ID + SZPi LE ID)) - K,
+SZPhó = 1/2 * (∑hó(SZPi FEL DA + SZPi LE DA) + ∑hó(SZPi FEL ID + SZPi LE ID)) – K,
 
-azzal hogyha K > ½ * (Σhó(SZPi FEL DA + SZPi LE DA) + Σhó(SZPi FEL ID + SZPi LE ID)), akkor SZPhó értéke nulla.
+azzal, hogy ha K > 1/2 * (∑hó(SZPi FEL DA + SZPi LE DA) + ∑hó(SZPi FEL ID + SZPi LE ID)), akkor SZPhó értéke nulla.
 
-[^147]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 364/2019. (XII. 30.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+7. A 4. számú melléklet II. Különös szabályok 6. pontja szerinti számviteli bizonylaton szereplő, 1–6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 4. számú melléklet II. Különös szabályok 8. pontja alapján korrigálásra kerül.
+
+[^147]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 619/2020. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
