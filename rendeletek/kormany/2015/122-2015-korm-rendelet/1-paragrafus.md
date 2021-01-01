@@ -18,4 +18,8 @@
 
 6. megbízott fél: olyan jogi személy, amely a Kormánytól vagy más közintézménytől felhatalmazást kapott arra, hogy a Kormány vagy más közintézmény nevében finanszírozási rendszert dolgozzon ki, kezeljen vagy működtessen;
 
+6a.[^1] mérés-felügyeleti rendszer: informatikai, kommunikációs rendszer, valamint humán erőforrás, ami a mért adatok gyűjtését, értékelését és nyomon követését látja el;
+
 7. részt vevő fél: olyan gazdálkodó szervezet vagy közintézmény, amely szakpolitikai intézkedésnek minősülő önkéntes megállapodás keretében vállalta meghatározott célkitűzések elérését, vagy amely szakpolitikai intézkedésnek minősülő szabályozás hatálya alá tartozik.
+
+[^1]: Az 1. § 6a. pontját a 715/2020. (XII. 30.) Korm. rendelet 8. §-a iktatta be.

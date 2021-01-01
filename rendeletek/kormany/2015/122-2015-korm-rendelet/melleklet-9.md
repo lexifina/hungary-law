@@ -1,39 +1,11 @@
-|  | A | B |
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-| 1. | Szakpolitikai intézkedések | Végrehajtó hatóság |
+| 1. | Szakpolitikai intézkedés | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 
-| 2. | Országos energiahatékonysági programok (kvótabevételekből, ZFR, ZBR, GZR költségvetési forrásból, kormányközi megállapodás alapján stb.) | Innovációs és Technológiai Minisztérium |
+| 2. | Energiahatékonysági kötelezettségi rendszer (közvetlen teljesítés) | 0,3 | 1,0 | 3,3 | 8,0 | 15,1 | 24,5 | 36,2 | 49,2 | 62,7 | 76,0 |
 
-| 3. | Operatív programokból megvalósuló elsődlegesen energiahatékonysági célú programok (KEOP, ROP, KMOP, KEHOP, TOP, VEKOP, GINOP) | a mindenkori irányító hatósági feladatokat ellátó szervezet |
+| 3. | Energiahatékonysági kötelezettségi rendszer (járulékfizetés) | 0,0 | 0,1 | 0,2 | 0,7 | 1,6 | 3,0 | 4,8 | 7,0 | 9,5 | 12,0 |
 
-| 4. | Operatív programokból megvalósuló, elsődlegesen nem energiahatékonysági célú programok (TOP, VEKOP, EFOP, IKOP, KEHOP, VP) | a mindenkori irányító hatósági feladatokat ellátó szervezet |
+9. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^93]
 
-| 5. | Lakásépítési támogatás | Pénzügyminisztérium |
-
-| 6. | Energia-racionalizálási pályázat a Belügyminisztériumban | Belügyminisztérium |
-
-| 7. | Svájci–Magyar Együttműködési Program | Belügyminisztérium |
-
-| 8. | Norvég Finanszírozási Mechanizmus és EGT Finanszírozási Mechanizmus | Innovációs és Technológiai Minisztérium |
-
-| 9. | Költségvetési intézmények energiahatékonysági beruházásai [232/2015. (VIII. 20.) Korm. rendelet] | Innovációs és Technológiai Minisztérium |
-
-| 10. | Épületekre vonatkozó energiahatékonysági célú szabályozás | Miniszterelnökség |
-
-| 11. | Egyedi döntéssel odaítélt költségvetési támogatások alapján történő energiahatékonyságot javító beruházások | Miniszterelnökség |
-
-| 12. | Modern Városok Program keretében, költségvetési támogatással megvalósuló energiahatékonyságot javító intézkedések | Miniszterelnökség |
-
-| 13. | Középületek energiahatékony használatának elősegítése | Nemzeti Energetikusi Hálózat |
-
-| 14. | Lakás-előtakarékossági rendszer működtetése | Pénzügyminisztérium |
-
-| 15. | Energetikai szakreferens alkalmazása | Hivatal |
-
-| 16. | Magyar Mérnöki Kamara tanácsadási tevékenységének eredményei | Magyar Mérnöki Kamara |
-
-| 17. | A közlekedés energiahatékonyságának javítása | Innovációs és Technológiai Minisztérium |
-
-| 18. | Vállalati normatív adókedvezmény energiahatékonysági intézkedések érdekében | Pénzügyminisztérium |
-
-9. melléklet a 122/2015. (V. 26.) Korm. rendelethez
+[^93]: A 9. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.

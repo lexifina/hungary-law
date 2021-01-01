@@ -1,4 +1,4 @@
-## 7/C. §[^11]
+## 7/C. §[^18]
 
 7/D. § (1) A Nemzeti Energetikusi Hálózat közintézményekkel kapcsolatos feladatai körében
 
@@ -8,11 +8,11 @@ b) az önkormányzatokkal folyamatos kapcsolatot tart fenn,
 
 c) ösztönzi a közintézményeket, hogy regionális és helyi szinten energetikai auditokat is magukba foglaló energiagazdálkodási rendszert hozzanak létre,
 
-d)[^12] szakmai segítséget nyújt a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületekre vonatkozó energiamegtakarítási intézkedési terv elkészítéséhez,
+d)[^19] szakmai segítséget nyújt a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületekre vonatkozó energiamegtakarítási intézkedési terv elkészítéséhez,
 
-e)[^13] szakmai segítséget nyújt a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület üzemeltetéséért felelős számára az épület energetikai és energiafogyasztási adatainak bejelentésével kapcsolatban,
+e)[^20] szakmai segítséget nyújt a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület üzemeltetéséért felelős számára az épület energetikai és energiafogyasztási adatainak bejelentésével kapcsolatban,
 
-f)[^14] közreműködik a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület használóinak energiahatékonysági szemléletformálásában,
+f)[^21] közreműködik a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület használóinak energiahatékonysági szemléletformálásában,
 
 g) közreműködik a megyei területfejlesztési program kidolgozásában,
 
@@ -22,16 +22,16 @@ i) megkeresés esetén a közintézmény érdekében tanácsot ad energiabeszerz
 
 j) megkeresés esetén szakmai támogatást nyújt energetikai beszerzések esetén.
 
-(2)[^15]
+(2)[^22]
 
-(3)[^16]
+(3)[^23]
 
-(4)[^17]
+(4)[^24]
 
-[^11]: A 7/C. §-t a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^12]: A 7/D. § (1) bekezdés d) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
-[^13]: A 7/D. § (1) bekezdés e) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b)–c) pontja szerint módosított szöveg.
-[^14]: A 7/D. § (1) bekezdés f) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
-[^15]: A 7/D. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^16]: A 7/D. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^17]: A 7/D. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^18]: A 7/C. §-t a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^19]: A 7/D. § (1) bekezdés d) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
+[^20]: A 7/D. § (1) bekezdés e) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b)–c) pontja szerint módosított szöveg.
+[^21]: A 7/D. § (1) bekezdés f) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
+[^22]: A 7/D. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 7/D. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 7/D. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

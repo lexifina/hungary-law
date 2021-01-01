@@ -1,3 +1,5 @@
-## 2. § A nemzeti energiahatékonysági célkitűzés felé tett előrelépésekről szóló éves jelentés kötelező tartalmi elemeit az 1. melléklet tartalmazza.
+## 2. §
 
-## 3. A Nemzeti Energiahatékonysági Cselekvési Terv kötelező tartalmi elemei
+## 3.[^3]
+
+[^3]: A 3. alcímet (3. §) a 715/2020. (XII. 30.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.

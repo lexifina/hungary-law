@@ -1,4 +1,4 @@
-## 28/A. § A fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet hatálybalépését[^63] megelőzően a Nemzeti Energetikusi Hálózat feladatait ellátó fővárosi és megyei kormányhivatalok, valamint járási hivatalok a számukra a közintézmények által megküldött energiamegtakarítási intézkedési terveket, az energiamegtakarítási intézkedési tervek végrehajtásáról szóló éves jelentéseket, valamint a havi energiafogyasztási adatokat a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre kötelesek feltölteni.
+## 28/A. § A fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet hatálybalépését[^78] megelőzően a Nemzeti Energetikusi Hálózat feladatait ellátó fővárosi és megyei kormányhivatalok, valamint járási hivatalok a számukra a közintézmények által megküldött energiamegtakarítási intézkedési terveket, az energiamegtakarítási intézkedési tervek végrehajtásáról szóló éves jelentéseket, valamint a havi energiafogyasztási adatokat a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre kötelesek feltölteni.
 
 ## 18. Jogharmonizációs záradék
 
@@ -8,6 +8,7 @@ a) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módos�
 
 b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
 
-való megfelelést szolgálja.
+c)[^79] az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelvnek
 
-[^63]: A hatálybalépés időpontja 2020. január 1.
+[^78]: A hatálybalépés időpontja 2020. január 1.
+[^79]: A 29. § c) pontját a 715/2020. (XII. 30.) Korm. rendelet 17. §-a iktatta be.

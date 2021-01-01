@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-122-20-
 | 2017-07-01 | 2015-122-20-22.8 | 171/2017. (VI. 29.) Korm. rendelet |
 | 2019-04-30 | 2015-122-20-22.9 | 80/2019. (IV. 15.) Korm. rendelet |
 | 2020-01-01 | 2015-122-20-22.10 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-01-01 | 2015-122-20-22.11 | 715/2020. (XII. 30.) Korm. rendelet |
