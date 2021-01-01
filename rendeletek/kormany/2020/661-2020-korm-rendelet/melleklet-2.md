@@ -1,3 +1,3 @@
-2. melléklet a 661/2020. (XII. 24.) Korm. rendelethez[^12]
+2. melléklet a 661/2020. (XII. 24.) Korm. rendelethez[^9]
 
-[^12]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
