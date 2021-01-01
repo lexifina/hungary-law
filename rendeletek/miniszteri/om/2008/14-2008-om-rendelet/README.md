@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-14-20-2
 | 2013-09-01 | 2008-14-20-2L.8 | 31/2013. (VIII. 9.) NGM rendelet |
 | 2014-06-30 | 2008-14-20-2L.9 | 22/2014. (VI. 27.) NGM rendelet |
 | 2020-01-01 | 2008-14-20-2L.10 | 22/2014. (VI. 27.) NGM rendelet |
+| 2021-01-01 | 2008-14-20-2L.11 | 22/2014. (VI. 27.) NGM rendelet |
