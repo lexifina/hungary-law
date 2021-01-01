@@ -1,6 +1,6 @@
-9. §[^17] E rendelet 7/A. §-a a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló, 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelv 1. cikk (2) bekezdés d) pontjának való megfelelést szolgálja.
+9. §[^28] E rendelet 7/A. §-a a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló, 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelv 1. cikk (2) bekezdés d) pontjának való megfelelést szolgálja.
 
-Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^18]
+Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^29]
 
 1. Háztartási készülékek 10 000 Ft eladási ár felett, így különösen hűtőszekrény, fagyasztó, kombinált hűtőszekrény, villanytűzhely, mosógép, centrifuga, szárítógép és ezek bármely kombinációja, mosogatógép, vasaló, vízmelegítő, fűtő-, légkondicionáló- és egyéb légállapot-szabályozó berendezés, porszívó, gőzzel működő tisztítógép, szőnyegtisztító-gép, padlósúroló- és fényesítőgép, varrógép, kötőgép, villanybojler, szivattyú;
 
@@ -60,5 +60,29 @@ Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^18]
 
 29. az előzőekben felsorolt termékcsoportokhoz tartozó termékek tartozékai és alkotórészei 10 000 Ft eladási ár felett.
 
-[^17]: A 9. §-t a 97/2014. (III. 25.) Korm. rendelet 1. § (9) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^18]: A melléklet a 97/2014. (III. 25.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+30.[^30] nyílászárók 10 000 Ft eladási ár felett, így különösen ablak, kül- és beltéri ajtó, garázsajtó;
+
+31.[^31] árnyékolástechnikai eszközök 10 000 Ft eladási ár felett, így különösen kézi vagy motoros meghajtású redőny, reluxa, napellenző, szalagfüggöny;
+
+32.[^32] kaputelefon, riasztóberendezés, kamerás megfigyelőrendszer 10 000 Ft eladási ár felett;
+
+33.[^33] garázskapu és egyéb kapu meghajtás, vezérlés 10 000 Ft eladási ár felett;
+
+34.[^34] zuhanykabin, kád, csaptelep 10 000 Ft eladási ár felett;
+
+35.[^35] napkollektor, napelemrendszerek 10 000 Ft eladási ár felett;
+
+36.[^36] játék hoverboard, játék elektromos roller, játék drón 10 000 Ft eladási ár felett;
+
+37.[^37] külön jogszabályban nyílt kategóriába sorolt drónok 10 000 Ft eladási ár felett.
+
+[^28]: A 9. §-t a 97/2014. (III. 25.) Korm. rendelet 1. § (9) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^29]: A melléklet a 97/2014. (III. 25.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^30]: A melléklet 30. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
+[^31]: A melléklet 31. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
+[^32]: A melléklet 32. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
+[^33]: A melléklet 33. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
+[^34]: A melléklet 34. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
+[^35]: A melléklet 35. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
+[^36]: A melléklet 36. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
+[^37]: A melléklet 37. pontját a 270/2020. (VI. 12.) Korm. rendelet 6. §-a iktatta be.
