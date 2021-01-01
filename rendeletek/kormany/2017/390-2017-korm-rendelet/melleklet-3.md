@@ -358,7 +358,7 @@ Névjegyzékbe való felvételhez
 
 5.1. Kijelentem, hogy a bejelentő felett nem gyakorlok munkáltatói jogokat, illetve a bejelentő nem gyakorol felettem munkáltatói jogokat, továbbá a bejelentő nem minősül a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti hozzátartozómnak.
 
-5.2. Kijelentem, hogy[^2]
+5.2. Kijelentem, hogy[^4]
 
 - a 390/2017. (XII. 13.) Korm. rendelet 2. mellékletének I. része szerinti
 
@@ -372,4 +372,4 @@ Dátum: ........................................................................
 
 aláírás
 
-[^2]: A megfelelő rész aláhúzandó
+[^4]: A megfelelő rész aláhúzandó

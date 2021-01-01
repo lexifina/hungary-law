@@ -1,6 +1,6 @@
 ## 2. A szakértői tevékenység megkezdésének és folytatásának feltételei
 
-4. § (1) A névjegyzék szerinti szakértői tevékenység megkezdésével kapcsolatos bejelentést Budapest Főváros Kormányhivatalához (a továbbiakban: Hivatal) az 1. melléklet szerinti bejelentési adatlapon kell benyújtani.
+4. § (1)[^1] A névjegyzék szerinti szakértői tevékenység megkezdésével kapcsolatos bejelentést Budapest Főváros Kormányhivatalához (a továbbiakban: Hivatal) az 1. melléklet szerinti bejelentési adatlapon kell benyújtani. A bejelentés a Hivatal által rendszeresített és a honlapján közzétett elektronikus űrlap útján is megtehető.
 
 (2) A bejelentéshez mellékelni kell a Gyvt. 103/A. § (2) bekezdés a) pontja szerinti
 
@@ -15,3 +15,5 @@ c) a szakmai gyakorlat meglétét tanúsító igazolást, nyilatkozatot.
 (4) Ha a bejelentés nem felel meg a Szolgtv.-ben, a Gyvt.-ben és az e rendeletben foglalt követelményeknek, a Hivatal a Szolgtv. 23. § (1) bekezdés b) pontjában foglaltak alkalmazásával visszaküldi a bejelentő számára az általa mellékelt dokumentumokat.
 
 (5) Ha a bejelentés alapján folytatott ellenőrzési eljárás keretében a Hivatal megállapította, hogy a bejelentő nem felel meg a gyermekvédelmi vagy szociálpolitikai szakértői tevékenység folytatásához szükséges – a Szolgtv.-ben, a Gyvt.-ben és az e rendeletben meghatározott – feltételeknek, ennek közlésével egyidejűleg visszaküldi számára az általa mellékelt dokumentumokat.
+
+[^1]: A 4. § (1) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
