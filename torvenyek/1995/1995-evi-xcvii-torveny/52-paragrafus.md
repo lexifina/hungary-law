@@ -2,7 +2,7 @@
 
 ## A légiközlekedés szabályai
 
-52. § (1) Az állami légijármű vezetéséhez, valamint üzemképességének tanúsításához, továbbá az 53. § (7) bekezdése szerinti rendeletben meghatározott tevékenységek ellátásához szakszolgálati engedély szükséges.
+52. § (1) Az állami légijármű és a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott esetben a pilóta nélküli állami légijármű vezetéséhez, valamint üzemképességének tanúsításához, továbbá az 53. § (7) bekezdése szerinti rendeletben meghatározott tevékenységek ellátásához szakszolgálati engedély szükséges.
 
 (2) A légi személyszállításra és a légi árufuvarozásra használt légijármű esetében a szakszolgálati engedély tulajdonosa a jogosultságával abban az esetben élhet, ha arra a légijármű üzemben tartója, illetve karbantartója írásban külön felhatalmazta.
 

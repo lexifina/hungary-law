@@ -10,4 +10,4 @@ b) a veszélyes áruk repülőtér területén végzett átrakását, tárolás�
 
 (4) Az (1) bekezdés szerinti ellenőrzési jogkör az állami célú légiközlekedésre nem terjed ki.
 
-(5) Állami légijármű fedélzetén elhelyezett veszélyes áruk szállítás előtti ellenőrzésére a katonai légügyi hatóság, a légijármű parancsnoka, a légiközlekedési szakszemélyzet és – honvédelmi érintettség esetén – a Magyar Honvédség logisztikai támogatásáért felelős szervezetének képviselője jogosult.
+(5) Állami légijármű és a pilóta nélküli állami légijármű fedélzetén elhelyezett veszélyes áruk szállítás előtti ellenőrzésére a katonai légügyi hatóság, a légijármű parancsnoka, a légiközlekedési szakszemélyzet és – honvédelmi érintettség esetén – a Magyar Honvédség logisztikai támogatásáért felelős szervezetének képviselője jogosult.

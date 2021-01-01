@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2020-01-01 | 2019. évi CXV. törvény | 1995-97-00-00.69 |
 | 2020-07-22 | 2020. évi LXXXVI. törvény | 1995-97-00-00.70 |
 | 2020-12-19 | 2020. évi CXXXVII. törvény | 1995-97-00-00.71 |
+| 2021-01-01 | 2020. évi CLXXIX. törvény | 1995-97-00-00.72 |

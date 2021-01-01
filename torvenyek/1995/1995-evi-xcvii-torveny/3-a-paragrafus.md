@@ -10,7 +10,7 @@ d) légi jármű üzemben tartási, légiközlekedési és légiközlekedéssel 
 
 e) a nemzeti minőségbiztosítási ellenőrök, védelmi oktatók, védelmi tisztek, meghatalmazott ügynökök, ismert természetes személyszállítók, a fedélzeti ellátmány vagy a repülőtéri készlet meghatalmazott természetes személy beszállítójának vizsgaeredményeit, alkalmassági minősítéseit, valamint képesítéseit,
 
-f) a pilóta nélküli légijárművel kapcsolatos hatósági eljárással összefüggésben a kérelmező és a közreműködő szakszemélyzet a tevékenység ellátásához szükséges egészségi állapotára, továbbá kóros szenvedélyére vonatkozó adatait, a vizsgaeredményeit, alkalmassági minősítéseit, képesítéseit,
+f) az eseti légtér kijelöléssel és a pilóta nélküli állami légijárművel kapcsolatos hatósági eljárással összefüggésben a kérelmező, a pilóta nélküli légijármű üzembentartó, a pilóta nélküli légijármű tulajdonos, a szakszemélyzet, a távoli pilóta és a segítő személy nevét, születési adatait, anyja nevét (a továbbiakban: természetes személyazonosító adatait), a kapcsolattartást biztosító e-mail-címét és telefonszámát, a tevékenység ellátásához szükséges egészségi állapotára, továbbá kóros szenvedélyére vonatkozó adatait, a vizsgaeredményeit, alkalmassági minősítéseit, képesítéseit,
 
 g) a nyilvános repülőrendezvény tervezéséért és végrehajtásáért felelős igazgatónak a tevékenység ellátásához szükséges képesítés igazolására szolgáló adatait,
 
@@ -18,20 +18,38 @@ h) a légiközlekedési baleset, súlyos repülőesemény, repülőesemény, lé
 
 i) a vizsgáztatók tanúsításra irányuló hatósági eljárással összefüggésben a kérelmező vizsgaeredményeit, alkalmassági minősítéseit, valamint képesítéseit
 
-a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkalmasság igazolása valamint a véglegessé vált döntésben foglaltak ellenőrzése céljából, a kiadott engedély hatályának időtartama alatt kezeli.
+a légiközlekedés biztonsága, a tevékenység ellátásához szükséges alkalmasság igazolása valamint a véglegessé vált döntésben foglaltak ellenőrzése céljából, a kiadott engedély hatályának időtartama alatt kezeli.
+
+(1a) A távoli pilóták képzésére jogosult szervezet a képzésre jelentkező személy természetes személyazonosító adatait a képzésre jelentkezéstől a képzés befejezését követően öt évig kezelheti. A távoli pilóták vizsgáztatására kijelölt szervezet jogosult a vizsgázó természetes személyazonosító adatait, valamint abban az esetben, ha a vizsgára jelentkezésnek az feltétele, az egészségi állapotra, kóros szenvedélyre vonatkozó különleges adatait kezelni, továbbá a vizsgaeredményeket – ezek hitelességének utólagos igazolása céljából – a kompetenciatanúsítvány időbeli hatályának megszűnését követő öt évig nyilvántartani.
 
 (2) A légiközlekedési hatóság az általa tanúsított vizsgáztatókról vezetett nyilvántartását honlapján közzéteszi. A nyilvántartás az engedélyben foglalt adatokat és a vizsgáztató elérhetőségeit tartalmazza azokkal a feladatkörökkel, amelyre tanúsítást kaptak.
 
-(3)
+(3) A légiközlekedési hatóság a légijármű lajstrom vezetésével összefüggésben a tulajdon védelméhez, a légiközlekedés biztonságának elősegítéséhez és a hatósági okmányok közhitelességének biztonságához fűződő közérdek érvényesítése érdekében a légijármű lajstromba történő felvételre irányuló eljárás kezdetétől a légijármű lajstromból való törlésétől számított három évig kezeli a légijármű tulajdonosának, és a légijármű üzembentartójának természetes személyazonosító adatait.
 
-(4)
+(4) A légiközlekedési hatóság a repülőeszközök, a pilóta nélküli légijármű-rendszerek és a pilóta nélküli légijármű-rendszer üzembentartók nyilvántartásának vezetésével, valamint a repülőeszközök, a pilóta nélküli légijármű-rendszerek és a pilóta nélküli légijármű-rendszer üzembentartókkal kapcsolatos hatósági eljárásokkal összefüggésben a légiközlekedés biztonságának elősegítése, a hatósági okmányok közhitelességének biztonságához fűződő közérdek érvényesítése, a tevékenység ellátásához szükséges alkalmasság igazolása, a bűnüldözési tevékenységek és a hatósági felügyeleti eljárások elősegítése érdekében,
+
+a) a pilóta nélküli légijármű üzembentartó, a pilóta nélküli légijármű tulajdonos, a szakszemélyzet és a távoli pilóta, a repülőeszköz tulajdonos, repülőeszköz üzembentartó
+
+aa) személyazonosító adatait,
+
+ab) lakcímét,
+
+b) a pilóta, a távoli pilóta tevékenység ellátásához szükséges egészségi állapotára, kóros szenvedélyére vonatkozó adatait, a vizsgaeredményeit, alkalmassági minősítéseit, képesítéseit,
+
+c) a kérelmező és a közreműködő szakszemélyzet telefonszámát,
+
+d) a könnyű UAS-üzembentartói tanúsítványban megnevezett felelős pilóta nélküli légijármű-rendszer üzembentartót segítő személy természetes személyazonosító adatait, és
+
+e) az UAS-műveletek engedélyeztetéséért felelős személy természetes személyazonosító adatait és lakcímét
+
+jogosult hatósági eljárás esetén, a döntés véglegessé válásának időpontjától számított öt évig, nyilvántartás esetén a nyilvántartásból való törléstől számított öt évig kezelni.
 
 (5) A légiközlekedési hatóság jogosult a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1008/2008/EK rendelet) 4. cikke f) pontjának végrehajtásával összefüggésben a légifuvarozó tulajdonosának és a légifuvarozó tényleges irányítását vagy ellenőrzését gyakorló személynek a személyes adatait és állampolgárságára vonatkozó adatát kezelni.
 
-(6) A légiközlekedési hatóság, az állami célú légiközlekedéssel kapcsolatos feladatok tekintetében a katonai légügyi hatóság az (1) bekezdés szerinti adatokat a tevékenység folytatása megszüntetésének bejelentését követő egy évig kezeli, a kezelt adatokat személyazonosító és lakcímadatok, elérhetőségi adatok nélküli anonimizált formában statisztikai célokra felhasználhatja, azokból statisztikai célra adatokat szolgáltathat.
+(6) A légiközlekedési hatóság, az állami célú légiközlekedéssel kapcsolatos feladatok tekintetében a katonai légügyi hatóság az (1) bekezdés szerinti adatokat a tevékenység folytatása megszüntetésének bejelentését követő egy évig kezeli. A katonai légügyi hatóság az (1) bekezdés szerint kezelt, a légiközlekedési hatóság az (1), a (3), valamint a (4) bekezdés alapján kezelt személyes adatokat személyazonosításra alkalmatlan módon statisztikai célokra felhasználhatja, azokból statisztikai célra adatokat szolgáltathat.
 
 (7) A légiközlekedési hatóság, illetve a katonai légügyi hatóság vezetője a feladat- és hatáskörében minősítésre jogosult.
 
 (8) A védelmi oktató és védelmi tiszt kijelölésének jóváhagyása iránti kérelem benyújtásával egyidejűleg a légiközlekedési hatóság a 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont b) alpontja alapján a kérelmezőnek a bűnügyi nyilvántartásból megkért adatait a kijelölés jóváhagyása iránti kérelem jóváhagyási eljárásának befejezéséig kezeli.
 
-(9) A légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggésben, a katonai légügyi hatóság az (1) bekezdés f) pontja szerinti adatokat az adatkezelés céljának megvalósításához szükséges mértékben és ideig kezeli.
+(9) A pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárással összefüggésben az eljáró hatóság a pilóta nélküli légijárművet használatba adó üzembentartó és a pilóta nélküli légijárművet használatba vevő, valamint távoli pilóta természetes személy esetén a személyazonosító adataira, lakcímére, jogi személy esetén annak megnevezésére, székhelyére vonatkozó adatokat az eljárás lefolytatása, a tényállás megállapítása és a döntés meghozatala, a jogorvoslati eljárások lefolytatása érdekében a pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárás kezdetétől kezeli a döntés véglegessé válásától számított öt év elteltéig.

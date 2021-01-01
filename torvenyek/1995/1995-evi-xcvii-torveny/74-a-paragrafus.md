@@ -38,9 +38,9 @@ r) a légi járművek és kapcsolódó termékek, alkatrészek és berendezések
 
 s) a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet,
 
-t) a légiforgalmi irányítói szakszolgálati engedélyekre és egyes tanúsításokra vonatkozó részletes szabályoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló, 2011. augusztus 10-i 805/2011/EU bizottsági rendelet,
+t) a légiforgalmi irányítói szakszolgálati engedélyekre és tanúsítványokra vonatkozó formai követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról, a 923/2012/EU bizottsági végrehajtási rendelet módosításáról és a 805/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2015. február 20-i (EU) 2015/340 bizottsági rendelet,
 
-u) a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról, valamint a 482/2008/EK és a 691/2010/EU rendelet módosításáról szóló, 2011. október 17-i 1035/2011/EU bizottsági végrehajtási rendelet,
+u) a légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-jei (EU) 2017/373 bizottsági végrehajtási rendelet,
 
 v) az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet,
 
@@ -49,6 +49,8 @@ w) a repülőterekhez kapcsolódó követelményeknek és igazgatási eljáráso
 x) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU európai parlamenti és tanácsi rendelet,
 
 y) a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzemben tartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet 19. cikk (1) bekezdése.
+
+z) a pilóta nélküli légi járművekkel végzett műveletekre vonatkozó szabályokról és eljárásokról szóló, 2019. május 24-i (EU) 2019/947 bizottsági végrehajtási rendelet.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -63,3 +65,5 @@ d) a Tanács 2004/82/EK irányelve (2004. április 29.) a fuvarozóknak az utaso
 e) Az Európai Parlament és a Tanács 2009/12/EK irányelve (2009. március 11.) a repülőtéri díjakról;
 
 f) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU európai parlamenti és tanácsi irányelv.
+
+(4) A pilóta nélküli légijárművek üzemelésével összefüggő egyes törvények módosításáról szóló 2020. évi CLXXIX. törvény 1–20. §-ával módosított rendelkezések tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

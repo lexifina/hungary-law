@@ -48,7 +48,7 @@ m) repülésbiztonsági szervezet engedélyezése,
 
 n) az állami célú légiközlekedéssel összefüggő repülésbiztonsági szervezet engedélyezése,
 
-o) az állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
+o) az állami légijárművekkel és a pilóta nélküli állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
 
 p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
 
@@ -92,15 +92,15 @@ e) a légitársaság üzletszabályzatának és módosításának jóváhagyás�
 
 f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban,
 
-g) az állami légijármű nyilvántartásba vételére irányuló hatósági eljárásokban,
+g) az állami légijármű és a pilóta nélküli állami légijármű nyilvántartásba vételére irányuló hatósági eljárásokban,
 
-h) az állami légijármű típusalkalmassági vizsgálatára irányuló hatósági eljárásokban,
+h) az állami légijármű és a pilóta nélküli állami légijármű típusalkalmassági vizsgálatára irányuló hatósági eljárásokban,
 
 i) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjének jóváhagyására irányuló hatósági eljárásokban.
 
 (2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
-a) állami légi jármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
+a) állami légi jármű, pilóta nélküli állami légijármű, légijármű-berendezés és pilóta nélküli állami légijármű rendszer karbantartó szervezetek jóváhagyása,
 
 b)
 
@@ -123,6 +123,8 @@ d)
 (2m) A katonai légügyi hatóság eljárásaiban az ügyfél a kérelemhez 30 napnál régebbi előzetes szakhatósági állásfoglalást nem nyújthat be.
 
 (2n) A katonai légügyi hatóság eljárásának költségeit kérelemre indult eljárás esetén a kérelmező ügyfél viseli.
+
+(2o) A katonai légügyi hatóság eljárásában a tevékenység végzésétől történő eltiltás legfeljebb a döntés véglegessé válásától számított 365 napra szólhat. A katonai légügyi hatóság intézkedhet továbbá a tevékenység végzésének feltételhez kötéséről.
 
 (3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
