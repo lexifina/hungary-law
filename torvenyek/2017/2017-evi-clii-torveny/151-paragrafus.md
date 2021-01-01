@@ -10,4 +10,6 @@ c) a kibocsátó hitelintézet kötelezettséget vállal arra, hogy az azon felt
 
 (2) A vámhatóság biztosítékként azt a készpénz letétbe helyezést fogadja el, amely a vámhatóság kezelésében lévő vámletét számlán a vámhatóság által meghatározott egyedi azonosítással a vámhatóság rendelkezése alá került. Az elfogadásról a vámhatóság az ügyfelet haladéktalanul értesíti. A készpénz formájában nyújtott biztosítékot kizárólag forintban lehet teljesíteni.
 
-(3) Ha a hitelintézet és a vámhatóság között kötött megállapodás szerint a hitelintézet az ügyfél által a nála visszavonhatatlanul befizetett összegről elektronikus úton értesíti a vámhatóságot, a közölt vámot és egyéb terheket biztosítottnak kell tekinteni, és az áru kiadható.
+(3) Ha a hitelintézet és a vámhatóság között kötött megállapodás szerint a hitelintézet az ügyfél által a nála visszavonhatatlanul befizetett összegről elektronikus úton értesíti a vámhatóságot, a közölt vámot és egyéb terheket biztosítottnak kell tekinteni, és az áru átengedhető.
+
+(4) Az Azonnali Fizetési Rendszeren keresztül történő befizetések esetén közölt vámot és egyéb terheket a Magyar Államkincstár által küldött előzetes értesítés alapján biztosítottnak kell tekinteni és az áru átengedhető.

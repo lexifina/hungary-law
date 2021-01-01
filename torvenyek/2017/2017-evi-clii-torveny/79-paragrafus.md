@@ -24,4 +24,8 @@ h) a vámellenőrzések során a vámigazgatási bírság és késedelmi kamat m
 
 i) a kérelmező ügyfelet az eljárási költség előlegezésére kötelező döntés közlésére irányuló intézkedéstől az annak teljesítéséig terjedő időtartam,
 
-j) a vámhatósági megkeresés, a jegyzőkönyv vagy a döntés postára adását követő naptól annak kézbesítéséig terjedő időtartam, valamint a hirdetményi közlés időtartama.
+j) a vámhatósági megkeresés, a jegyzőkönyv vagy a döntés
+
+ja) postára adását követő naptól annak kézbesítéséig terjedő időtartam, valamint a hirdetményi közlés időtartama,
+
+jb) tárhelyen történő elhelyezésétől a kézbesítettnek minősülésig terjedő időtartam.

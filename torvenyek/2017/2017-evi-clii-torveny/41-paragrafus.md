@@ -12,4 +12,6 @@ d) az eljárás kérelemre indult, és a kérelmező ügyfél a kérelmét vissz
 
 e) a vámhatóság vámszerve megállapítja, hogy az ügyben más vámszerv már eljárt, vagy
 
-f) az ügyfél a kérelmére indult eljárásban a nem megfelelő vagy érvénytelen képviselet esetén, a vámhatóság felhívására nem gondoskodik a képviselet ellátására alkalmas személy kijelöléséről vagy nem jár el személyesen.
+f) az ügyfél a kérelmére indult eljárásban a nem megfelelő vagy érvénytelen képviselet esetén, a vámhatóság felhívására nem gondoskodik a képviselet ellátására alkalmas személy kijelöléséről vagy nem jár el személyesen,
+
+g) a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló 338/97/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. május 4-i 865/2006/EK bizottsági rendelet 13. cikk (2) bekezdésében előírtaktól eltérően a szükséges dokumentumok hiányában kezdeményeztek vámeljárást.

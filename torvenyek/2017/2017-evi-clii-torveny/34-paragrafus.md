@@ -18,10 +18,18 @@ szükséges.
 
 (3) A Ptk. szerinti törvényes képviselet nem minősül vámjogi képviseletnek.
 
-(4) Magyarországon a Vámkódex 18. cikk (3) bekezdés alapján a Vámkódex 5. cikk 6. pontja szerinti, Magyarországon letelepedett vámjogi képviselőként – az (5) és (6) bekezdésben foglaltakra figyelemmel, valamint a (7) bekezdés kivételével – a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó vagy vámügynök járhat el. E §-t a Vámkódex 18. cikk (4) bekezdése alapján az Európai Unió vámterületén nem letelepedett vámjogi képviselőre is alkalmazni kell.
+(4) Magyarországon a Vámkódex 18. cikk (3) bekezdése alapján a Vámkódex 5. cikk 6. pontja szerinti, Magyarországon letelepedett vámjogi képviselőként
 
-(5) A vámügynök árunyilatkozat, vám-árunyilatkozat vagy értesítés benyújtása esetén járhat el vámjogi képviselőként.
+a) vámtanácsadó,
 
-(6) Az (5) bekezdésben foglalt esetben, valamint a kérelemre indult eljárások során – a 186. § (3) bekezdés kivételével – képviselőként a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó is eljárhat.
+b) – a 186. § (3) bekezdésében meghatározott kivétellel – a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá
 
-(7) A vámhatóság előtti jogorvoslati eljárásokban az ügyfelet a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó, valamint ügyvéd, kamarai jogtanácsos, ügyvédi iroda, európai közösségi jogász képviselheti.
+c) árunyilatkozat, vám-árunyilatkozat vagy értesítés benyújtása, valamint az ezekkel kapcsolatos eljárások során vámügynök
+
+járhat el.
+
+(5) A vámhatóság előtti jogorvoslati eljárásokban az ügyfelet a (4) bekezdés a) és b) pontja szerinti személy, valamint ügyvéd, kamarai jogtanácsos, ügyvédi iroda, európai közösségi jogász képviselheti.
+
+(6) A (4) bekezdést a Vámkódex 18. cikk (4) bekezdése alapján az Európai Unió vámterületén nem letelepedett vámjogi képviselőre is alkalmazni kell.
+
+(7)
