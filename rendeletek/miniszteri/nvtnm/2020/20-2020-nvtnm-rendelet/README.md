@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-20-20-7
 | --- | --- | --- |
 | 2020-12-30 | 2020-20-20-7P.1 | 20/2020. (XII. 29.) NVTNM rendelet |
 | 2020-12-31 | 2020-20-20-7P.2 | 2010: CXXX. törvény |
+| 2021-01-01 | 2020-20-20-7P.3 | 2010: CXXX. törvény |

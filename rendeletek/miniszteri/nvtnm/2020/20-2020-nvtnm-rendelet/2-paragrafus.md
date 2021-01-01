@@ -1,11 +1,1 @@
-## 1. §[^1]
-
-## 2. § Hatályát veszti a Rendelet
-
-a) 1. melléklet I. pontjában foglalt táblázat 31. sora,
-
-b) 1. melléklet VII. pontjában foglalt táblázat 9. sora,
-
-c) 3. melléklet II. pontja.
-
-[^1]: Az 1. § a 4. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 1. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet (a továbbiakban: Rendelet) 1. melléklete az 1. melléklet szerint módosul.

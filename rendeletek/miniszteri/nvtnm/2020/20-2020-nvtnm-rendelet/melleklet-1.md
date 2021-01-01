@@ -1,3 +1,9 @@
-1. melléklet a 20/2020. (XII. 29.) NVTNM rendelethez[^3]
+1. melléklet a 20/2020. (XII. 29.) NVTNM rendelethez
 
-[^3]: Az 1. melléklet a 4. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+A Rendelet 1. melléklet X. pontjában foglalt táblázat a következő 16. sorral egészül ki:
+
+|  | (A | B | C |
+
+| Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
+
+| 16. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
