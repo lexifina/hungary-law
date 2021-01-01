@@ -16,8 +16,9 @@ bc) a támogatási évben apaállattá nyilvánított, KPLSZ-szel ellátott, Mag
 
 ## után.
 
-(2) A támogatásra való jogosultság feltétele minden fajta esetében, hogy a támogatott egyedek szaporítását (termékenyítés, fedeztetés) az Átv. 9. § (1) bekezdése szerinti központi adatbankba (Szarvasmarha Információs Rendszer, a továbbiakban: SZIR) szabályszerűen bejelentették, és azt a rendszer regisztrálta.
+(2)[^26] A támogatásra való jogosultság feltétele minden fajta esetében, hogy a támogatott egyedek szaporítását (termékenyítés, fedeztetés) az Állat, Növény, Élelmiszer-biztonsági és Borminősítési Információs Rendszer részét képező Szarvasmarha Információs Rendszerbe (a továbbiakban: SZIR) szabályszerűen bejelentették, és azt a rendszer regisztrálta.
 
-(3)[^16] A tevékenység elvégzését a NÉBIH – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(3)[^27]
 
-[^16]: A 12. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.
+[^26]: A 12. § (2) bekezdése a 62/2020. (XII. 12.) AM rendelet 9. § f) pontja szerint módosított szöveg.
+[^27]: A 12. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

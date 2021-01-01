@@ -1,6 +1,6 @@
-## 73. §[^82]
+## 73. §[^95]
 
-1. melléklet a 43/2014. (XII. 29.) FM rendelethez
+1. melléklet a 43/2014. (XII. 29.) FM rendelethez[^96]
 
 ## Támogatható jogcímek, tevékenységek és az igényelhető támogatás mértéke
 
@@ -150,10 +150,11 @@
 
 | 17. | Tenyészérték becslés | Méh tenyészértékbecslés | 120 000 Ft/apai anya törzscsalád |
 
-6. Fajtaelismerésre és a fajtaelismerés fenntartására irányuló teljesítményvizsgálat
+6. Magyar ebfajta tenyésztése
 
-| A. Sorszám | B | C | D |
+| A Sorszám | B Támogatás jogcíme | C Megnevezés | D Tételenként igényelhető támogatás |
 
-| 1. | Teljesítményvizsgálat végzése | Végtermék és fajtatesztek | Vizsgálati költségek 70%-a |
+| 1. | Törzskönyvezés | Belföldi származási igazolás kiadása, egyéb törzskönyvezési ügyintézés díja | 7 000 Ft/egyed |
 
-[^82]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: Az 1. melléklet a 62/2020. (XII. 12.) AM rendelet 8. §-a szerint módosított szöveg.

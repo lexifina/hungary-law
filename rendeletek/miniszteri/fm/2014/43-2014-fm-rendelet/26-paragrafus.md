@@ -10,6 +10,6 @@ b) a húshasznú fajták esetében a hústermelő képesség-, és fitnesz tulaj
 
 (2) A támogatás feltétele, hogy a tenyészértékbecsléssel kapcsolatos feladatokat a tenyésztési hatóság a tenyésztőszervezettel kötött megállapodásban elfogadta, valamint a hústermelő képesség-, és fitnesz tenyészérték adatokat a tenyésztőszervezet a tenyésztési hatóság részére, a tenyésztési hatósággal kötött megállapodásban foglaltak szerint átadta.
 
-(3)[^32] A tevékenység elvégzését a NÉBIH – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(3)[^44]
 
-[^32]: A 26. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.
+[^44]: A 26. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

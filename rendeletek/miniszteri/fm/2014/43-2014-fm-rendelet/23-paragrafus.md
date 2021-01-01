@@ -2,6 +2,6 @@
 
 (2) A támogatás feltétele, hogy a növendékbika ÜSTV indítás bejelentését a tenyésztő megtegye a tenyésztési hatóság, valamint az adott fajta tenyésztőszervezete számára.
 
-(3)[^29] A tevékenység elvégzését a NÉBIH a (2) bekezdésben meghatározott adatszolgáltatás alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(3)[^41]
 
-[^29]: A 23. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.
+[^41]: A 23. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

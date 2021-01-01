@@ -1,4 +1,4 @@
-## 10. § Az adott évre vonatkozó költségvetési törvényben elfogadott előirányzatnak megfelelően a támogatás forrását a Földművelésügyi Minisztérium a fejezeti kezelésű Állattenyésztési feladatok 10032000-01220191-54000007 számú előirányzat-felhasználási keretszámláról biztosítja.
+## 10. §
 
 ## KÜLÖNÖS RÉSZ
 

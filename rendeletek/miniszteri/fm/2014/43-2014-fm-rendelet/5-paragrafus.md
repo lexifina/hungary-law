@@ -10,7 +10,7 @@ ba) a törzskönyvezési, teljesítményvizsgálati, tenyészérték-becslési s
 
 bb) a szolgáltatást mely időszakra kívánja igénybe venni (megkezdés és befejezés dátuma), és
 
-bc) a szolgáltatásban részesülő kedvezményezett állatállományok tenyészetkódja,
+bc)[^10] a magyar ebfajták kivételével a szolgáltatásban részesülő kedvezményezett állatállományok tenyészetkódja,
 
 c) nyilatkozat annak tudomásulvételéről, hogy az elszámolható költségek meghatározása e rendelet szerint történik,
 
@@ -18,9 +18,10 @@ d) nyilatkozat arról, hogy mely tenyésztőszervezet, vagy megbízottja által 
 
 e) nyilatkozat arról, hogy megfelel a 4. §-ban foglaltaknak.
 
-(2)[^3] A kedvezményezettnek a támogatott szolgáltatás igénybevételére irányuló kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által közzétett, egységes nyomtatványon kell benyújtania.
+(2)[^11] A kedvezményezettnek a támogatott szolgáltatás igénybevételére irányuló kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által közzétett, egységes nyomtatványon kell benyújtania.
 
-(3)[^4] A tenyésztőszervezet a kedvezményezettek kérelmét legkésőbb a támogatott szolgáltatás megkezdése előtt benyújtja a NÉBIH-hez.
+(3)[^12] A tenyésztőszervezet a kedvezményezettek kérelmét legkésőbb a támogatott szolgáltatás megkezdése előtt benyújtja a NÉBIH-hez.
 
-[^3]: Az 5. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § c) pontja szerint módosított szöveg.
-[^4]: Az 5. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § d) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés b) pont bc) alpontja a 62/2020. (XII. 12.) AM rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 5. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § c) pontja szerint módosított szöveg.
+[^12]: Az 5. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § d) pontja szerint módosított szöveg.

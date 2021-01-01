@@ -6,6 +6,6 @@ b) a tárgyévben fialt kocasüldők (előhasi kocák)
 
 ## után.
 
-(2)[^35] A tevékenység elvégzését a NÉBIH a tenyészetenként készített számítógépes jegyzékről készült összesítő alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a kifizetési kérelem záradékkal történő ellátásával igazolja.
+(2)[^47]
 
-[^35]: A 29. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § f) pontja szerint módosított szöveg.
+[^47]: A 29. § (2) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

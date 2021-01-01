@@ -12,8 +12,9 @@ c) tenyészérték becslés.
 
 (3) Az egyes célterületeken belül támogatható szolgáltatások megnevezését az 1. melléklet tartalmazza.
 
-(4)[^2] A fajtaelismerésre és a fajtaelismerés fenntartására irányuló, az agrárpolitikáért felelős miniszter által előírt teljesítményvizsgálathoz támogatást igényelhet azon tenyésztőszervezet vagy az Átv. 3. § 25. pontja szerinti tenyésztő vállalkozás, amely a teljesítményvizsgálatban részt vesz.
+(4)[^4]
 
-(5) Az (4) bekezdés szerinti támogatás tekintetében a tenyésztő vállalkozásra az 5. § (1) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(5)[^5]
 
-[^2]: A 2. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 205. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (5) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § a) pontja hatályon kívül helyezte.
