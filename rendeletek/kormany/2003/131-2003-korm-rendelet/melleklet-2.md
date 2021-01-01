@@ -1427,7 +1427,7 @@
 [^79]: Az 1. számú melléklet III. fejezete 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés c) pontja, a 259/2016. (VIII. 31.) Korm. rendelet 94. §-a szerint módosított szöveg.
 [^80]: Az 1. számú melléklet III. fejezete 4. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés d) és e) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^81]: A polgári védelemről szóló 1996. évi XXXVII. törvény, a polgári védelmi tervezés rendszeréről és követelményeiről szóló 20/1998. (IV. 10.) BM rendelet, az egészségügyi intézmények katasztrófa tervének tartalmi követelményeiről szóló 29/2000. (X. 30.) EüM rendelet.
-[^82]: Az 1. számú melléklet IV. alcíme a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés f), g) és h) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^82]: Az 1. számú melléklet IV. alcíme a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés f), g) és h) pontja szerint módosított szöveg.
 [^83]: Először e módszertan szerint 2004-re.
 [^84]: Az első ciklusban a 2005–2007. években.
 [^85]: TEÁOR '03. Közzétette: 9003/2002. (SK 6.) KSH közlemény.
@@ -1435,8 +1435,8 @@
 [^87]: Az V. Fejezet első franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (8) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^88]: Az 1. számú melléklet VI. alcíme a 221/2014. (IX. 4.) Korm. rendelet 252. § b) pontja szerint módosított szöveg.
 [^89]: Az 1. számú melléklet VII. Fejezet 1. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (9) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a), l) és m) pontja, a 486/2015. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^90]: Az 1. számú melléklet VII. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
-[^91]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VII. (A TERVEZÉSI SEGÉDLETEK KITÖLTÉSE) 2. pontja (Az ágazati minisztériumok) negyedik francia bekezdésének második szövegbekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (4) bekezdésével megállapított, a 630/2020. (XII. 22.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^90]: Az 1. számú melléklet VII. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a) pontja, A 630/2020. (XII. 22.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^91]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VII. (A TERVEZÉSI SEGÉDLETEK KITÖLTÉSE) 2. pontja (Az ágazati minisztériumok) negyedik francia bekezdésének második szövegbekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (4) bekezdésével megállapított szöveg.
 [^92]: A 7. számú táblázat értelmezéséhez szükséges magyarázatok című táblázat alatti szövegrész a 273/2010. (XII. 9.) Korm. rendelet 99. § (10) bekezdése szerint módosított szöveg.
 [^93]: Az 1. számú melléklet VII. fejezete 3. pontjának 3.1. alpontja a 97/2008. (IV. 29.) Korm. rendelet 4. § 164. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e), n) és o) pontja, a 379/2016. (XII. 2.) Korm. rendelet 57. §-a, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^94]: Az 1. számú melléklet VIII. fejezete a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés p) pontja és 252. § d) pontja szerint módosított szöveg.
@@ -1457,5 +1457,5 @@
 [^109]: Az 1. számú melléklet VIII. alcímének 10. számú táblázata a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^110]: Az 1. számú melléklet VIII. alcímének 11. számú táblázata a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^111]: Az 1. számú melléklet VIII. alcímének 12. számú táblázata a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^112]: Az 1. számú melléklet VIII. alcímének 13. számú táblázata a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^112]: Az 1. számú melléklet VIII. alcímének 12. számú táblázata a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^113]: A 2. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 2. számú melléklete iktatta a szövegbe.
