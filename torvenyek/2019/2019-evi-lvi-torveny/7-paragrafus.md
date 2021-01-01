@@ -16,4 +16,6 @@ g) az állat tenyésztésben történő használatának megtiltása;
 
 h) a tenyésztési adat visszamenőleges hatállyal történő törlésének elrendelése;
 
-i) tenyésztésvezetői tevékenység gyakorlásától legfeljebb három évre történő eltiltás.
+i) a jogsértő állapot megszüntetésének elrendelése;
+
+j) engedély visszavonása.
