@@ -6,7 +6,7 @@
 
 1. új lakóingatlan: a meglévő épület vagy épületrész átalakítása kivételével
 
-a) az alapozási munkáktól kezdődően teljes egészében újonnan épített, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan a hozzá tartozó földrészlettel (a továbbiakban: lakóingatlan), amely elkészültét követően, az adásvételi szerződés megkötésének időpontjában használatbavételi engedéllyel, használatbavétel tudomásulvételéről vagy bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal rendelkezik, ideértve a tanyán található lakóépületet is, és amely legalább az alábbi feltételeknek megfelel:
+a) az alapozási munkáktól kezdődően teljes egészében újonnan épített, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan a hozzá tartozó földrészlettel (a továbbiakban: lakóingatlan), amely az elkészültét követően, az adásvételi szerződés megkötésének időpontjában használatbavételi engedéllyel, használatbavétel tudomásulvételéről vagy bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal rendelkezik, ideértve a tanyán található lakóépületet is, és amely legalább az alábbi feltételeknek megfelel:
 
 aa) 12 négyzetmétert meghaladó alapterületű lakószobával és főzőhelyiséggel – ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel –, továbbá fürdőhelyiséggel és WC-vel rendelkezik,
 

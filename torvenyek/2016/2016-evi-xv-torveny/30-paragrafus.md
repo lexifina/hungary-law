@@ -4,7 +4,7 @@
 
 ## 10. A közösség tagja által kötött adásvételi szerződésre vonatkozó rendelkezések
 
-30. § (1) Új lakóingatlan vásárlása esetén az adásvételi szerződést a tag – a közösség, mint az ingatlan kiválasztásában és az adásvételi szerződés előkészítésében való közreműködésével – az ingatlan tulajdonosával a saját nevében köti meg.
+30. § (1) Új lakóingatlan vásárlása esetén az adásvételi szerződést a tag – a közösség mint az ingatlan kiválasztásában és az adásvételi szerződés előkészítésében való közreműködésével – az ingatlan tulajdonosával a saját nevében köti meg.
 
 (2) A közösség tagja által, új lakóingatlan vásárlása érdekében kötött adásvételi szerződésben
 

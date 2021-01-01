@@ -1,4 +1,4 @@
-## 14. Állami támogatás
+## 13. Állami támogatás
 
 33. § (1) A közösséggel szerződéses viszonyban álló tagot az általa az adott megtakarítási évben teljesített befizetéséhez igazodó mértékben állami támogatás illeti meg, ha a közösség vagyonát kezelő szervező e törvény rendelkezései alapján megbízható szervezőnek minősül.
 

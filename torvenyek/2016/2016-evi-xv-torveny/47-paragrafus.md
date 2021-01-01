@@ -1,6 +1,6 @@
 ## VII. Fejezet
 
-## 21. Záró rendelkezések
+## 20. Záró rendelkezések
 
 47. § Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
 

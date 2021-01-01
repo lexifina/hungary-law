@@ -1,4 +1,4 @@
-## 16. Engedély és nyilvántartásba vétel
+## 15. Engedély és nyilvántartásba vétel
 
 36. § (1) A Hatóság engedélye szükséges a szervezőként való elismeréshez.
 

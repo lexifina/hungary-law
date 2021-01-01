@@ -1,4 +1,4 @@
-## 13. Beszámítás
+## 12. Beszámítás
 
 32. § (1) A tag a tagsági szerződés megkötésekor írásban jelzi a szervező felé, ha lakóingatlan vásárlása esetén saját tulajdonában álló lakóingatlanát a kiválasztást követően a szervezőnek vételre fel kívánja ajánlani (beszámítás).
 

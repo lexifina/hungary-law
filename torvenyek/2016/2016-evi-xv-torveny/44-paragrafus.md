@@ -1,4 +1,4 @@
-## 19. A Hatóság eljárása
+## 18. A Hatóság eljárása
 
 44. § (1) A Hatóság folyamatosan ellenőrzi, hogy a szervező megfelel-e az e törvényben meghatározott feltételeknek. A Hatóság ellenőrzési jogkörében – más államigazgatási szerv hatáskörébe tartozó előzetes kérdés tisztázása érdekében – a fogyasztóvédelmi hatóság, valamint az állami adóhatóság véleményét is megkérheti.
 

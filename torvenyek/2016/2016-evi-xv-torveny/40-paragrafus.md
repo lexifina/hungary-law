@@ -1,4 +1,4 @@
-## 17. Az engedély visszavonása és visszaadása
+## 16. Az engedély visszavonása és visszaadása
 
 40. § A Hatóság a szervező engedélyét a közösség létrejöttéig visszavonhatja, ha
 

@@ -1,4 +1,4 @@
-## 18. Hatósági díj
+## 17. Hatósági díj
 
 43. § (1) A szervező a Hatóság részére a felügyeleti feladatok ellátásáért igazgatási szolgáltatási díjat fizet, amely alapdíj és évente megállapításra kerülő díjrészlet.
 

@@ -2,7 +2,7 @@
 
 ## A KÖZÖSSÉG ÉS A SZERVEZŐ FELÜGYELETE
 
-## 15. Általános szabályok
+## 14. Általános szabályok
 
 34. § (1) A Hatóság feladatait a Magyar Nemzeti Bank látja el.
 

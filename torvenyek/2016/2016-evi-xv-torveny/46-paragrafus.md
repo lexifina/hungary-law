@@ -1,4 +1,4 @@
-## 20. A Hatóság nyilvántartása
+## 19. A Hatóság nyilvántartása
 
 46. § (1) A Hatóság nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
