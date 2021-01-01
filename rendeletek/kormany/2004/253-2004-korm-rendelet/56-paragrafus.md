@@ -1,20 +1,18 @@
-## 55/D. §[^194] E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendeletnek a lőfegyver tartására jogosító hatósági engedélyek visszavonásával összefüggő módosításáról szóló 57/2019. (III. 18.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5. § (3)–(5) bekezdését, valamint 34. § (1) bekezdés b) pontját a Módr. hatálybalépésekor[^195] folyamatban lévő, a hatósági engedély visszavonására irányuló eljárások során is alkalmazni kell.
+## Az Európai Unió jogának való megfelelés[^253]
 
-## Az Európai Unió jogának való megfelelés[^196]
-
-## 56. §[^197] Ez a rendelet – a lőfegyverekről és lőszerekről szóló törvény, a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról és a haditechnikai termékek jelöléséről, valamint a haditechnikai termékek és szolgáltatások nyilvántartásáról szóló rendeletek rendelkezéseivel együtt –
+## 56. §[^254] Ez a rendelet
 
 a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
 
 b) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2008. május 21-i 2008/51/EK európai parlamenti és tanácsi irányelvnek,
 
-c)[^198]
+c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
 
-d)[^199] a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+d) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2017. május 17-i (EU) 2017/853 európai parlamenti és tanácsi irányelvnek,
 
-[^194]: Az 55/D. §-t az 57/2019. (III. 18.) Korm. rendelet 3. §-a iktatta be.
-[^195]: A hatálybalépés időpontja 2019. április 15.
-[^196]: Az 56. §-t megelőző alcím az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^197]: Az 56. § az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^198]: Az 56. § c) pontját a 122/2016. (VI. 7.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^199]: Az 56. § d) pontját a 39/2012. (III. 12.) Korm. rendelet 26. §-a iktatta be.
+e) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv értelmében a tűzfegyverek és alapvető alkotóelemeik megjelölésére vonatkozó műszaki leírások megállapításáról szóló, 2019. január 16-i (EU) 2019/68 bizottsági végrehajtási irányelvnek, valamint
+
+f) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelvnek
+
+[^253]: Az 56. §-t megelőző alcím az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^254]: Az 56. § a 326/2020. (VII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.

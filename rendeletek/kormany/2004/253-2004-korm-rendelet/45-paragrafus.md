@@ -1,5 +1,3 @@
-## Lőfegyver, lőszer, színházi fegyver kivitele, behozatala, átszállítása
+## 44/B. §[^194] Az Ftv. 2. § 29. pont d) alpontjában meghatározott tűzfegyver kizárólag a Bizottsági Rendelet III. MELLÉKLETE szerinti tanúsítvány kíséretében hozható be Magyarország területére az Európai Unió tagállamának területéről, illetve vihető ki Magyarország területéről az Európai Unió tagállamának területére.
 
-## [^154]
-
-[^154]: A 45. §-t megelőző alcím a 39/2012. (III. 12.) korm. rendelet 21. §-ával megállapított szöveg.
+[^194]: A 44/B. §-t a 326/2020. (VII. 1.) Korm. rendelet 14. §-a iktatta be.

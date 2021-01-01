@@ -1,12 +1,9 @@
-## 51/A. §[^179] Az e rendeletben előírt bejelentési kötelezettségeket a kötelezett elektronikus úton is teljesítheti.
-
-## Záró rendelkezések
+## 51/B. § A Kormány a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelv 3. cikke szerinti nemzeti kapcsolattartó pontként a fegyverek és lőszerek vizsgálatára kijelölt szervezetet jelöli ki.
 
 ## Hatálybalépés
 
 52. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^180]
+(2)[^227]
 
-[^179]: Az 51/A. §-t a 247/2009. (XI. 10.) Korm. rendelet 23. § (2) iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^180]: Az 52. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.
+[^227]: Az 52. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.

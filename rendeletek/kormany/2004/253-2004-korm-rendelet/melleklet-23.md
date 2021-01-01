@@ -1,11 +1,11 @@
-## Színházi fegyverek előállítása
+## A színházi tűzfegyverekre vonatkozó műszaki követelmények
 
-## Színházi fegyvert tűzfegyverből olyan módon kell kialakítani, hogy az a fegyverhez eredetileg használható lőszer befogadására ne legyen alkalmas, a csőben és a csőtorkolatban elhelyezett szűkítések megakadályozzák űrméretes lövedékek kilövését. A gyártási technológia biztosítsa, hogy a fegyverből a lőszer betöltését akadályozó gátat, vagy a csőtorkolatnál elhelyezett, űrméretes lövedék kilövését akadályozó szűkítést roncsolásmentes módon ne lehessen eltávolítani. Revolvereknél valamennyi töltényűrbe és a csőbe roncsolásmentes módon nem eltávolítható szűkítést kell szerelni.
+## Színházi tűzfegyvert más lőfegyverből olyan módon kell kialakítani, hogy a színházi tűzfegyver a más lőfegyverhez eredetileg használható lőszer befogadására ne legyen alkalmas, a csőben és a csőtorkolatban elhelyezett szűkítések megakadályozzák űrméretes lövedékek kilövését. A színházi tűzfegyverre előállítása során alkalmazott technológiának biztosítania kell, hogy az eredeti lőfegyverből a lőszer betöltését akadályozó gátat vagy a csőtorkolatnál elhelyezett, űrméretes lövedék kilövését akadályozó szűkítést roncsolásmentes módon ne lehessen eltávolítani. Színházi tűzfegyver revolverből történő kialakítása során valamennyi töltényűrbe és a csőbe roncsolásmentes módon nem eltávolítható szűkítést kell szerelni.
 
-## Cserélhető csövű lőfegyverekből készült színházi fegyvereknél a fegyver tokrészét – vagy félautomata pisztolyok esetén a szánt – úgy kell módosítani, hogy abba a fegyverhez való eredeti tűzfegyver-cső roncsolásmentes módon ne legyen beszerelhető.
+## Cserélhető csövű lőfegyverekből készült színházi tűzfegyvernél az eredeti lőfegyver tokrészét – vagy félautomata pisztolyok esetén a szánt – úgy kell módosítani, hogy abba a lőfegyverhez való eredeti tűzfegyvercső roncsolásmentes módon ne legyen beszerelhető.
 
 ## A csőben található egyéb szűkítéseket kicsavarodás, kiesés ellen ragasztással, forrasszal, illetve csappal rögzíteni kell.
 
-23. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^227]
+23. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^284]
 
-[^227]: A 23. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § g) pontja iktatta be.
+[^284]: A 23. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § g) pontja iktatta be.

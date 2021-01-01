@@ -38,7 +38,7 @@
 
 3. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
 
-1.[^205] A fegyver, lőszer (töltény) és lőszerelem gyártása, forgalmazása, illetve a lőfegyver javítása iránti kérelemnek tartalmaznia kell
+1.[^260] A fegyver, lőszer (töltény) és lőszerelem gyártása, forgalmazása, illetve a lőfegyver javítása iránti kérelemnek tartalmaznia kell
 
 – a kérelmező statisztikai jelét (statisztikai törzsszám vagy adószám első nyolc számjegye);
 
@@ -88,7 +88,9 @@ b) típusjóváhagyó vizsgálathoz kötött fegyver, lőszer (töltény) és l�
 
 c) a gyártani kívánt lőfegyver fegyver, lőszer (töltény) és lőszerelem adatait (típusát, jellemzőit), a mennyiségét és a raktári készlet nagyságát;
 
-d) a gyártás megkezdésének idejét.
+d) a gyártás megkezdésének idejét;
+
+e)[^261] a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.
 
 3. A forgalmazására jogosító engedély iránti kérelemnek tartalmaznia kell az 1. pontban foglaltakon túl
 
@@ -100,6 +102,10 @@ b) az üzlet vezetőjének, helyettesének, eladóinak személyi adatait (név, 
 
 a) a javításra és tárolásra használt helyiségek számát és nagyságát;
 
-b) a javító tevékenység pontos leírását (lőfegyverjavítás, gáz- és riasztófegyver javítás, távcső-szerelés, farészek készítése stb.).
+b) a javító tevékenység pontos leírását (lőfegyverjavítás, gáz- és riasztófegyver javítás, távcső-szerelés, farészek készítése stb.);
 
-[^205]: A 3. számú melléklet 1. pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (7) bekezdése, a 355/2012. (XII. 13.) Korm. rendelet 14. §-a, a 360/2019. (XII. 30.) Korm. rendelet 32. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+c)[^262] a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.
+
+[^260]: A 3. számú melléklet 1. pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (7) bekezdése, a 355/2012. (XII. 13.) Korm. rendelet 14. §-a, a 360/2019. (XII. 30.) Korm. rendelet 32. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^261]: A 3. számú melléklet 2. pont e) alpontját a 326/2020. (VII. 1.) Korm. rendelet 20. § a) pontja iktatta be.
+[^262]: A 3. számú melléklet 4. pont c) alpontját a 326/2020. (VII. 1.) Korm. rendelet 20. § a) pontja iktatta be.

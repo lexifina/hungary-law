@@ -1,25 +1,32 @@
-48. § (1) A vadászlőfegyver, valamint a sportlőfegyver jogszerű tartását az e rendelet alapján kiadott fegyvertartási engedéllyel nem rendelkező személy a lakóhelye szerinti államban kiadott fegyvertartási engedéllyel, tűzfegyver esetén európai lőfegyvertartási engedéllyel igazolhatja. A „B” kategóriájú, vadászatra szolgáló tűzfegyver, valamint a 7,5 joule csőtorkolati energia feletti légfegyver behozatalához és tartásához a vadászat, illetve a sportverseny helye szerint illetékes rendőrkapitányság engedélye is szükséges.
+48. § (1)[^204] Az egyedi jóváhagyást igénylő vadászlőfegyver, illetve sportlőfegyver jogszerű tartását az e rendelet alapján kiadott fegyvertartási engedéllyel nem rendelkező személy a lakóhelye szerinti államban kiadott fegyvertartási engedéllyel, tűzfegyver esetén európai lőfegyvertartási engedéllyel igazolhatja. A „B” kategóriájú, vadászatra szolgáló tűzfegyver, valamint a 7,5 joule csőtorkolati energia feletti légfegyver behozatalához és tartásához a vadászat, illetve a sportverseny helye szerint illetékes rendőrkapitányság engedélye is szükséges.
 
-(2)[^164] Az a személy, aki európai lőfegyvertartási engedéllyel rendelkezik, jogosult az abba bejegyzett „C” és „D” kategóriába tartozó tűzfegyverét, a hozzá tartozó lőszerrel együtt vadászatra, a Magyarországon jogszerűen tartható sportlőfegyverét sportlövő versenyre behozni, kivinni, illetve az ország területén átszállítani.
+(2)[^205] Az a személy, aki európai lőfegyvertartási engedéllyel rendelkezik, jogosult – a hozzá tartozó lőszerrel, illetve az Ftv. 3. § (3) bekezdésében meghatározott töltőszerkezettel együtt – az abba bejegyzett,
 
-(3)[^165] Az európai lőfegyvertartási engedélybe bejegyzett „B”, „C” vagy „D” kategóriájú tűzfegyver és a hozzá tartozó lőszer önvédelmi célra történő behozatalát Magyarország területére a várható beutazás, illetve átutazás helye szerint illetékes megyei (fővárosi) rendőr-főkapitányság engedélyezheti. A behozatali engedély abban az esetben adható ki, ha a kérelmező bizonyítja, hogy tevékenysége vagy más ok miatt élete, testi épsége – tűzfegyverrel elhárítható veszélyhelyzet fennállása miatt – fokozott védelmet igényel, és rendelkezik a tűzfegyver tárolásának e rendeletben megállapított feltételeivel.
+a) Magyarország területén vadászatra jogszerűen használható, egyedi jóváhagyást igénylő tűzfegyverét vadászat céljára, valamint
 
-(4)[^166] Az Európai Unió valamely tagállamában lakóhellyel nem rendelkező személy a Nemzeti Adó- és Vámhivatal területileg illetékes vámszervének a 13. számú melléklet szerinti igazolása alapján jogosult lőfegyverét, a hozzá tartozó lőszerrel együtt vadászatra, sportlövő versenyre behozni, kivinni, illetve az ország területén átszállítani, ha a Magyarország területén tartózkodás a 90 napot nem haladja meg.
+b) a Magyarországon jogszerűen tartható, egyedi jóváhagyást igénylő sportlőfegyverét sportlövő versenyre
+
+## behozni, kivinni, illetve az ország területén átszállítani.
+
+(3)[^206] Az európai lőfegyvertartási engedélybe bejegyzett egyedi jóváhagyást igénylő tűzfegyver és a hozzá tartozó lőszer önvédelmi célra történő behozatalát Magyarország területére a várható beutazás, illetve átutazás helye szerint illetékes megyei (fővárosi) rendőr-főkapitányság engedélyezheti. A behozatali engedély abban az esetben adható ki, ha a kérelmező bizonyítja, hogy tevékenysége vagy más ok miatt élete, testi épsége – tűzfegyverrel elhárítható veszélyhelyzet fennállása miatt – fokozott védelmet igényel, és rendelkezik az adott tűzfegyver tárolásának e rendeletben megállapított feltételeivel.
+
+(4)[^207] Az Európai Unió valamely tagállamában lakóhellyel nem rendelkező személy a Nemzeti Adó- és Vámhivatal területileg illetékes vámszervének a 13. számú melléklet szerinti igazolása alapján jogosult egyedi jóváhagyást igénylő lőfegyverét, a hozzá tartozó lőszerrel együtt vadászatra, sportlövő versenyre behozni, kivinni, illetve az ország területén átszállítani, ha a Magyarország területén tartózkodás a 90 napot nem haladja meg.
 
 (5) A sportlövészeten való részvételt a meghívó sportegyesület meghívólevelével kell igazolni.
 
-(6)[^167] A sportegyesület sportlövője részére a sportlőfegyver és lőszer kivitelére vonatkozó jogosultságot az országos sportági szakszövetség igazolja. Az igazolás csak a lőfegyvertartási, illetve európai lőfegyvertartási engedéllyel együtt hatályos.
+(6)[^208] A sportegyesület sportlövője részére az egyedi jóváhagyást igénylő sportlőfegyver és a lőszer kivitelére vonatkozó jogosultságot az országos sportági szakszövetség igazolja. Az igazolás csak a lőfegyvertartási, illetve európai lőfegyvertartási engedéllyel együtt hatályos.
 
-(7)[^168] A vadászaton való részvételt a Vtv.-ben foglaltak alapján a vadászati hatóság által Magyarország területére és az abban meghatározott vadászterület(ek)re kiállított hatályos vadászati engedély igazolja.
+(7)[^209] A vadászaton való részvételt a Vtv.-ben foglaltak alapján a vadászati hatóság által Magyarország területére és az abban meghatározott vadászterület(ek)re kiállított hatályos vadászati engedély igazolja.
 
-(8)[^169] A Nemzeti Adó- és Vámhivatal területileg illetékes vámszerve (4) bekezdésben említett igazolásának formáját és tartalmát a 13. számú melléklet határozza meg. E nyomtatványt kell alkalmazni a lőszerre is.
+(8)[^210] A Nemzeti Adó- és Vámhivatal területileg illetékes vámszerve (4) bekezdésben említett igazolásának formáját és tartalmát a 13. számú melléklet határozza meg. E nyomtatványt kell alkalmazni a lőszerre is.
 
-(9)[^170] A Magyarország területére behozott színházi fegyvert az engedélyes köteles bemutatni a kereskedelemért felelős miniszter rendeletében a fegyverek és lőszerek vizsgálatára kijelölt szervezetnek. A 22. számú mellékletben meghatározott műszaki követelményeknek nem megfelelő fegyvert a behozataltól, illetve a megfelelőtlenség megállapításától számított 8 napon belül javításra át kell adni a színházi fegyver javítására engedéllyel rendelkező szervezetnek, vagy haladéktalanul gondoskodni kell az ország területéről történő kiviteléről.
+(9)[^211] A Magyarország területére behozott színházi tűzfegyvert az engedélyes köteles bemutatni a kereskedelemért felelős miniszter rendeletében a fegyverek és lőszerek vizsgálatára kijelölt szervezetnek. A 22. számú mellékletben meghatározott műszaki követelményeknek nem megfelelő fegyvert a behozataltól, illetve a megfelelőtlenség megállapításától számított 8 napon belül javításra át kell adni a színházi lőfegyver javítására engedéllyel rendelkező szervezetnek, vagy haladéktalanul gondoskodni kell az ország területéről történő kiviteléről.
 
-[^164]: A 48. § (2) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 20. pontja szerint módosított szöveg.
-[^165]: A 48. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. § m) pontja, a 221/2014. (IX. 4.) Korm. rendelet 282. § a) pontja szerint módosított szöveg.
-[^166]: A 48. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^167]: A 48. § (6) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 67/2010. (III. 18.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^168]: A 48. § (7) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 282. § a) pontja szerint módosított szöveg.
-[^169]: A 48. § (8) bekezdése a 334/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 21. pontja, a 486/2015. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^170]: A 48. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^204]: A 48. § (1) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 45. pontja szerint módosított szöveg.
+[^205]: A 48. § (2) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^206]: A 48. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. § m) pontja, a 221/2014. (IX. 4.) Korm. rendelet 282. § a) pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 46. pontja szerint módosított szöveg.
+[^207]: A 48. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 11. § b) pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 47. pontja szerint módosított szöveg.
+[^208]: A 48. § (6) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 67/2010. (III. 18.) Korm. rendelet 10. § (2) bekezdése, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 48. pontja szerint módosított szöveg.
+[^209]: A 48. § (7) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 282. § a) pontja szerint módosított szöveg.
+[^210]: A 48. § (8) bekezdése a 334/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 21. pontja, a 486/2015. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^211]: A 48. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 23. § (2) bekezdése iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 49. pontja szerint módosított szöveg.

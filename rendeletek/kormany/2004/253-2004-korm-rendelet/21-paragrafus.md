@@ -1,8 +1,15 @@
 ## Fegyver, lőszer, lőszerelem megszerzése és tartása
 
-21. § (1)[^65] E rendelet alapján a 6. §-ban meghatározott követelményeknek megfelelő lőfegyver, lőfegyverfődarab tartása engedélyezhető.
+21. § (1)[^83] E rendelet alapján a 6. §-ban meghatározott követelményeknek megfelelő lőfegyver, lőfegyverdarab tartása engedélyezhető.
 
-(2)[^66] Külső formájában automata szerkezetű lőfegyverre hasonlító félautomata lőfegyver csak sportlövészetre és filmgyártási célra engedélyezhető.
+(1a)[^84] Az Ftv. 2. § 29. pont b) vagy c) alpontjában meghatározott tűzfegyver tartása abban az esetben engedélyezhető, ha
 
-[^65]: A 21. § (1) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^66]: A 21. § (2) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 7. pontja szerint módosított szöveg.
+a) megfelel az (1) bekezdésben meghatározott követelményeknek, valamint
+
+b) annak az Ftv. 1. melléklet szerinti kategóriáját a fegyverek és lőszerek vizsgálatára kijelölt szervezet megállapította.
+
+(2)[^85] Külső formájában automata szerkezetű lőfegyverre hasonlító félautomata lőfegyver csak munkavégzésre, filmgyártási célra, színházi és hagyományőrző használati célra és sportlövészetre engedélyezhető.
+
+[^83]: A 21. § (1) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^84]: A 21. § (1a) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^85]: A 21. § (2) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
