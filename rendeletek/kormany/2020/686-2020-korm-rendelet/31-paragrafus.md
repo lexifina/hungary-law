@@ -1,0 +1,3 @@
+## 30. § A 337/2017. (XI. 14.) Korm. rendelet 4. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Az (1) bekezdés b) pontja esetében az olyan, a gyermek születésének időpontjában fennálló lakáscélú jelzáloghitel-szerződés vonatkozásában is igényelhető a támogatás, amelynél a hitelcél egylakásos lakóépület építése vagy többlakásos lakóépületben lakás vásárlása, azonban a gyermek születésének időpontjáig az egylakásos lakóépület, a közös tulajdonban álló telken külön tulajdoni lapon nyilvántartott lakás, illetve a tulajdoni különlapon nyilvántartott társasházi vagy szövetkezeti házi lakás ingatlan-nyilvántartásba történő bejegyzése még nem történt meg.”

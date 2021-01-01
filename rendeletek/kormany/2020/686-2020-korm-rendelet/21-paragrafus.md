@@ -1,0 +1,3 @@
+## 20. § A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet [a továbbiakban: 17/2016. (II. 10.) Korm. rendelet] 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Lakás bővítésének minősül a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység, ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést, valamint az emelet-ráépítést is abban az esetben, ha azok révén nem jön létre a 16/2016. (II. 1.) Korm. rendelet 3. § (1) bekezdés 9. pont b) alpontja szerinti új lakás.”

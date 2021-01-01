@@ -1,0 +1,1 @@
+## „bd) a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt –, és ezt 30 napnál nem régebbi okirattal igazolja.”
