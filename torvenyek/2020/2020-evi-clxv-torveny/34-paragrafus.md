@@ -1,1 +1,1 @@
-34. §
+34. § A Jat. 30. § (4) bekezdés a) pontjában a „kiadásának,” szövegrész helyébe a „kiadásának, terjesztésének, valamint a Magyar Közlönyről vagy annak egy részéről papíralapú, illetve digitális oldalhű másolat készítésének,” szöveg lép.

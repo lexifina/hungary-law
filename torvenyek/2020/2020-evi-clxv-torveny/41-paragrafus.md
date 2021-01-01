@@ -1,1 +1,7 @@
-41. §
+41. § A Bszi. 41/B. §-a helyébe a következő rendelkezés lép:
+
+„41/B. § (1) Jogegységi panasznak van helye – a pervezetésre vonatkozó végzés kivételével – a Kúriának az eljárási törvény alapján további fellebbezéssel, felülvizsgálati kérelemmel vagy felülvizsgálati indítvánnyal (a továbbiakban ebben az alcímben együtt: felülvizsgálati kérelem) nem támadható határozata ellen, ha a felülvizsgálati kérelemben a Kúria 2012. január 1. után hozott és a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban ezen alcímben: a Kúria közzétett határozata) jogkérdésben való eltérésre már hivatkoztak, és a Kúria az eltéréssel okozott jogsértést határozatában nem orvosolta.
+
+(2) Jogegységi panasznak van helye akkor is, ha a Kúria ítélkező tanácsa jogkérdésben – jogegységi eljárás kezdeményezése nélkül – úgy tér el a Kúria közzétett határozatától, hogy az adott eltérésre az alsóbbfokú bíróságok határozatában nem került sor.
+
+(3) A jogegységi panasz elbírálásából ki van zárva az alapjául szolgáló eljárás szabályai szerint kizárt bíró, valamint az a bíró, aki a jogegységi panasszal támadott határozat meghozatalát megelőző eljárásban részt vett.”
