@@ -50,6 +50,9 @@ c) a b) pontban meghatározott vezetői beosztáson kívüli vezetői beosztásb
 
 (9) A hivatásos állomány tagja a vezetői beosztás ellátásával – a Hszt. 71. §-a szerint – átmenetileg akkor is megbízható, ha az (1) bekezdés c) és e) pontjában meghatározott feltételeknek nem felel meg.
 
+(10)[^11] A miniszter hozzájárulásával vezetői beosztásba szolgálati érdekre tekintettel az (1) bekezdés c) és e) pontjában foglalt feltételeknek meg nem felelő személy is kinevezhető.
+
 [^8]: A 24. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^9]: A 24. § (4) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 24. § (7) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 24. § (10) bekezdését a 45/2020. (XII. 16.) BM rendelet 116. §-a iktatta be.
