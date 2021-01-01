@@ -18,7 +18,7 @@ köteles elvégezni.
 
 (5) A regisztrációs eljárás során a regisztrációt végző természetes személy megadja a szálláshely-szolgáltatóra vonatkozó, a 2. mellékletben meghatározott adatokat, amelyeket a Nemzeti Turisztikai Adatszolgáltató Központ a regisztráció véglegesítéséhez az elektronikusan rendelkezésre álló, a Turizmus tv.-ben meghatározott nyilvántartásokban ellenőriz.
 
-(6)[^7] A sikeres azonosítást követően a regisztrációt végző természetes személy elvégzi a szálláshely-szolgáltató üzemeltetése alá tartozó valamennyi szálláshely regisztrációját a szálláshelyre, a szálláshelyen nyújtott szolgáltatásokra, valamint az általa kezelt szálláshelykezelő szoftverre vonatkozó adatok megadásával. A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője sikeres regisztráció esetén a szálláshelyhez kapcsolódó regisztrációs számot ad.
+(6)[^12] A sikeres azonosítást követően a regisztrációt végző természetes személy elvégzi a szálláshely-szolgáltató üzemeltetése alá tartozó valamennyi szálláshely regisztrációját a szálláshelyre, a szálláshelyen nyújtott szolgáltatásokra, valamint az általa kezelt szálláshelykezelő szoftverre vonatkozó adatok megadásával. A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője sikeres regisztráció esetén a szálláshelyhez kapcsolódó regisztrációs számot ad.
 
 (7) A regisztrációt végző természetes személy jogosult a regisztráció során, illetve azt követően a Nemzeti Turisztikai Adatszolgáltató Központ elektronikus felületén az adott szálláshelyhez további felhasználókat rögzíteni a Felhasználói Szabályzatnak megfelelően.
 
@@ -30,4 +30,4 @@ a) azt nem az arra jogosult kezdeményezte,
 
 b) a regisztrálni kívánó szálláshely-szolgáltató adószáma megegyezik egy, már regisztrált szálláshely-szolgáltató adószámával.
 
-[^7]: Az 5. § (6) bekezdése a 383/2020. (VIII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^12]: Az 5. § (6) bekezdése a 383/2020. (VIII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
