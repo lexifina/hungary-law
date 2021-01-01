@@ -38,10 +38,10 @@ b) a honosított harmonizált szabvány hiányossága.
 
 (9) A (8) bekezdés szerinti értesítésben a piacfelügyeleti hatóság megadja az összes rendelkezésre álló adatot, különösen a nem megfelelő robbanóanyag azonosításához szükséges adatokat, a robbanóanyag származási helyét, a feltételezett nem megfelelőség és a felmerülő kockázatok jellegét, a meghozott intézkedések jellegét és időtartamát, valamint az érintett gazdasági szereplő által felhozott szempontokat.
 
-(10)[^11] A (4)–(6) bekezdés alapján hozott végleges és a Bizottsággal közölt határozatokat a piacfelügyeleti hatóság honlapján közzéteszi.
+(10)[^12] A (4)–(6) bekezdés alapján hozott végleges és a Bizottsággal közölt határozatokat a piacfelügyeleti hatóság honlapján közzéteszi.
 
 (11) Ha más tagállam hoz a (8) bekezdés szerinti nemzeti intézkedést, a piacfelügyeleti hatóság tájékoztatja a Bizottságot az elfogadott intézkedésekről és azokról a további információkról, amelyek az érintett robbanóanyag megfelelésének hiányáról a rendelkezésükre állnak, valamint – amennyiben nem ért egyet az elfogadott nemzeti intézkedéssel – a kifogásairól.
 
 (12) Amennyiben a (11) bekezdésben foglalt nemzeti intézkedés indokolt, a piacfelügyeleti hatóság gondoskodik az adott robbanóanyaggal kapcsolatban az olyan korlátozó intézkedések haladéktalan meghozataláról, mint a robbanóanyag visszavonása a piacról.
 
-[^11]: A 44. § (10) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 576. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 44. § (10) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 576. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
