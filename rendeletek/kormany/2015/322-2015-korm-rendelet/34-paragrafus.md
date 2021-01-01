@@ -4,7 +4,7 @@
 
 34. § (1) Műemlékekkel kapcsolatos építési beruházásokra e rendelet szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) Műemlékkel kapcsolatos építési beruházás alatt a kulturális örökség védelméről szóló törvényben meghatározott műemléken, nyilvántartott műemléki értéken (a továbbiakban együtt: műemlék) végzett, építésügyi hatósági engedélyhez kötött építési tevékenységnek minősülő építési beruházást kell érteni.
+(2)[^27] Műemlékkel kapcsolatos építési beruházás alatt a kulturális örökség védelméről szóló törvényben meghatározott műemléken végzett, építésügyi hatósági engedélyhez kötött építési tevékenységnek minősülő építési beruházást kell érteni.
 
 (3) Műemlékkel kapcsolatos építési beruházásra vonatkozó közbeszerzési eljárás esetén az ajánlatkérő a közbeszerzési eljárásban a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló kormányrendeletben foglaltakkal összhangban a műszaki és szakmai alkalmasság körében előírja:
 
@@ -21,3 +21,5 @@ bc) műemléki épületkutató, műemléki épületdiagnosztika elvégzésére, 
 (4) Ha az alkalmasság igazolásához nem Magyarországon teljesített korábbi építési beruházás kerül ismertetésre, műemlék alatt az adott ország jogrendje szerinti műemléki vagy azzal egyenértékű besorolást kell érteni.
 
 (5) A műemléki védelem alatt álló ingatlanra irányuló építési beruházás esetében a közbeszerzési dokumentumoknak az 1. mellékletben foglaltakon felül legalább a 2. mellékletben foglalt – az építési engedélyben jóváhagyott – dokumentumokat is tartalmaznia kell.
+
+[^27]: A 34. § (2) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 39. §-a szerint módosított szöveg.
