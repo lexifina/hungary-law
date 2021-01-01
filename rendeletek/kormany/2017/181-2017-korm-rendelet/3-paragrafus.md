@@ -1,5 +1,3 @@
-## 2. § Az engedélyezési eljárás kérelemre indul, amelyet elbírálás céljából a kérelmező szervezet telephelyenként nyújt be. A kérelemről a telephely szerint illetékes közlekedési hatóság dönt.
-
 3. § (1) Az engedély iránti kérelem tartalmazza:
 
 a) annak a telephelynek a címét, amelyen a kérelmező szervezet a vizsgálóállomást működtetni kívánja,
@@ -10,8 +8,8 @@ c) annak a járműkategóriának az 1. melléklet szerinti megnevezését, amely
 
 d) annak a közúti járművek műszaki megvizsgálásáról szóló rendeletben nevesített eljárásnak a megjelölését, amely szerint a kérelmező szervezet a vizsgálóállomást működtetni kívánja, valamint
 
-e)[^2]
+e)[^3]
 
 (2) A díjat telephelyenként kell megfizetni.
 
-[^2]: A 3. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 611. §-a alapján nem lép hatályba.
+[^3]: A 3. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 611. §-a alapján nem lép hatályba.

@@ -1,9 +1,14 @@
 10. § (1) A vizsgálóállomás a kérelem benyújtásának és az engedélyezésnek a feltételeit folyamatosan biztosítja.
 
-(2) Ha a pénzügyi feltételek már nem teljesülnek, a közlekedési hatóság a vizsgálóállomást működtető szervezet kérelmére legfeljebb hat hónapi időtartamra haladékot adhat a pénzügyi feltételek teljesítésére, ha a vizsgálóállomást működtető szervezet – megalapozott üzleti terv alapján – könyvvizsgálói nyilatkozattal tanúsítja, hogy meghatározott időn belül nagy valószínűséggel várható a pénzügyi feltételek rendezése.
+(2)[^13]
 
-(3) Az engedélyezett határidő lejártával a vizsgálóállomást működtető szervezet igazolja a pénzügyi feltételek meglétét. Az a szervezet, amely a pénzügyi feltételek teljesítésére haladékot kapott, a kérelme benyújtásától számított öt éven belül erre irányuló kérelmet ismételten nem nyújthat be.
+(3)[^14]
 
-(4) A vizsgálóállomás – az audit érvényességének lejárata előtt legalább 30 nappal – kérelmezheti az engedélyező hatóságtól az auditált státusz felülvizsgálatát. A kérelem mellékleteként igazolnia kell az auditálási státusz felülvizsgálatáért járó auditálási díj befizetését.
+(4)[^15] A vizsgálóállomás – az audit érvényességének lejárata előtt legalább 60 nappal – kérelmezheti az auditáló szervtől az auditált státusz felülvizsgálatát.
 
-(5) Ha a kérelemre indult auditálási eljárás során az engedélyező hatóság azt állapítja meg, hogy a vizsgálóállomás pénzügyi helyzete nem megfelelő, úgy – a tevékenység szünetelése mellett – a vizsgálóállomás jogosult egyszeri alkalommal, 30 napon belül – a hiányosságok megszüntetése után – újbóli auditálást kérelmezni.
+(5)[^16] Ha a kérelemre indult auditálás során az auditáló szerv azt állapítja meg, hogy a vizsgálóállomás nem felel meg az auditálási feltételeknek, úgy – a tevékenység szünetelése mellett – a vizsgálóállomás jogosult egyszeri alkalommal, 30 napon belül – a hiányosságok megszüntetése után – újbóli auditálást kérelmezni.
+
+[^13]: A 10. § (2) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.
+[^14]: A 10. § (3) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.
+[^15]: A 10. § (4) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^16]: A 10. § (5) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.

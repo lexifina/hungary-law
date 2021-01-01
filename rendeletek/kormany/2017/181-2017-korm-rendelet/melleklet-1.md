@@ -1,132 +1,130 @@
-## 18. §[^8]
+## 18. §[^28]
 
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^29]
 
-## A vizsgálóállomás tevékenységi körébe tartozó járműkategóriák
+1. Forgalomba helyezés előtti műszaki vizsgálat keretében érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki megvizsgálás)
 
-1. Forgalomba helyezés előtti műszaki vizsgálat keretében érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki megvizsgálás
+|  | A | B |
 
-| Kategóriák | Alkalmazható alvizsgák |
+| 1. | Kategóriák | Alkalmazható alvizsgák |
 
-| M1 |  |  |  |  |  |  |  |  |  |
+| 2. | M1 |  |  |  |  |  |  |  |  |  |  |
 
-| M2 |  |  |  |  |  |  |  |  |  |
+| 3. | M2 |  |  |  |  |  |  |  |  |  |  |
 
-| M3 |  |  |  |  |  |  |  |  |  |
+| 4. | M3 |  |  |  |  |  |  |  |  |  |  |
 
-| N1 |  |  |  |  |  |  |  |  |  |
+| 5. | N1 |  |  |  |  |  |  |  |  |  |  |
 
-| N2 |  |  |  |  |  |  |  |  |  |
+| 6. | N2 |  |  |  |  |  |  |  |  |  |  |
 
-| N3 |  |  |  |  |  |  |  |  |  |
+| 7. | N3 |  |  |  |  |  |  |  |  |  |  |
 
-| O1 |  |  |  |  |  |  |  |  |  |
+| 8. | O1 |  |  |  |  |  |  |  |  |  |  |
 
-| O2 |  |  |  |  |  |  |  |  |  |
+| 9. | O2 |  |  |  |  |  |  |  |  |  |  |
 
-| O3 |  |  |  |  |  |  |  |  |  |
+| 10. | O3 |  |  |  |  |  |  |  |  |  |  |
 
-| O4 |  |  |  |  |  |  |  |  |  |
+| 11. | O4 |  |  |  |  |  |  |  |  |  |  |
 
-| L1e |  |  |  |  |  |  |  |  |  |
+| 12. | L3e |  |  |  |  |  |  |  |  |  |  |
 
-| L2e |  |  |  |  |  |  |  |  |  |
+| 13. | L4e |  |  |  |  |  |  |  |  |  |  |
 
-| L3e |  |  |  |  |  |  |  |  |  |
+| 14. | L5e |  |  |  |  |  |  |  |  |  |  |
 
-| L4e |  |  |  |  |  |  |  |  |  |
+| 15. | L7e |  |  |  |  |  |  |  |  |  |  |
 
-| L5e |  |  |  |  |  |  |  |  |  |
+| 16. | LJ |  |  |  |  |  |  |  |  |  |  |
 
-| L6e |  |  |  |  |  |  |  |  |  |
+| 17. | T1 |  |  |  |  |  |  |  |  |  |  |
 
-| L7e |  |  |  |  |  |  |  |  |  |
+| 18. | T2 |  |  |  |  |  |  |  |  |  |  |
 
-| LJ |  |  |  |  |  |  |  |  |  |
+| 19. | T3 |  |  |  |  |  |  |  |  |  |  |
 
-| T1 |  |  |  |  |  |  |  |  |  |
+| 20. | T4 |  |  |  |  |  |  |  |  |  |  |
 
-| T2 |  |  |  |  |  |  |  |  |  |
+| 21. | T5 |  |  |  |  |  |  |  |  |  |  |
 
-| T3 |  |  |  |  |  |  |  |  |  |
+| 22. | Ra1, Rb1 |  |  |  |  |  |  |  |  |  |  |
 
-| T4 |  |  |  |  |  |  |  |  |  |
+| 23. | Ra2, Rb2 |  |  |  |  |  |  |  |  |  |  |
 
-| T5 |  |  |  |  |  |  |  |  |  |
+| 24. | Ra3, Rb3 |  |  |  |  |  |  |  |  |  |  |
 
-| Ra1, Rb1 |  |  |  |  |  |  |  |  |  |
+| 25. | Ra4, Rb4 |  |  |  |  |  |  |  |  |  |  |
 
-| Ra2, Rb2 |  |  |  |  |  |  |  |  |  |
+| 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
 
-| Ra3, Rb3 |  |  |  |  |  |  |  |  |  |
-
-| Ra4, Rb4 |  |  |  |  |  |  |  |  |  |
-
-| Sa1, Sb1 |  |  |  |  |  |  |  |  |  |
-
-| Sa2, Sb2 |  |  |  |  |  |  |  |  |  |
+| 27. | További, kérelmezett alvizsgák: |  |  |  |  |  |  |  |  |  |  |
 
 Magyarázat:
 
-V4×4 (Összkerékhajtás vizsgálata)
+V4*4 (összkerékhajtás vizsgálata)
 
 V2T (2-nél több tengely)
 
-VTACHO (Menetíró, illetve sebességkorlátozó berendezés)
+VTACHO (mentíró, illetve sebességkorlátozó berendezés)
+
+További kérelmezett alvizsgák:…
 
 2. Időszakos műszaki vizsgálat keretében végzett műszaki megvizsgálás, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, amennyiben a hatósági elírás következménye és az elírás ténye a vizsgaanyagban egyértelműen dokumentálásra kerül (a módosítható adatok felsorolása a HKR rendszerben található)
 
-| Kategóriák | Alkalmazható alvizsgák |
+|  | A | B |
 
-| M1 |  |  |  |  |  |  |  |  |  |  |
+| 1. | Kategóriák | Alkalmazható alvizsgák |
 
-| M2 |  |  |  |  |  |  |  |  |  |  |
+| 2. | M1 |  |  |  |  |  |  |  |  |  |  |
 
-| M3 |  |  |  |  |  |  |  |  |  |  |
+| 3. | M2 |  |  |  |  |  |  |  |  |  |  |
 
-| N1 |  |  |  |  |  |  |  |  |  |  |
+| 4. | M3 |  |  |  |  |  |  |  |  |  |  |
 
-| N2 |  |  |  |  |  |  |  |  |  |  |
+| 5. | N1 |  |  |  |  |  |  |  |  |  |  |
 
-| N3 |  |  |  |  |  |  |  |  |  |  |
+| 6. | N2 |  |  |  |  |  |  |  |  |  |  |
 
-| O1 |  |  |  |  |  |  |  |  |  |  |
+| 7. | N3 |  |  |  |  |  |  |  |  |  |  |
 
-| O2 |  |  |  |  |  |  |  |  |  |  |
+| 8. | O1 |  |  |  |  |  |  |  |  |  |  |
 
-| O3 |  |  |  |  |  |  |  |  |  |  |
+| 9. | O2 |  |  |  |  |  |  |  |  |  |  |
 
-| O4 |  |  |  |  |  |  |  |  |  |  |
+| 10. | O3 |  |  |  |  |  |  |  |  |  |  |
 
-| L3e |  |  |  |  |  |  |  |  |  |  |
+| 11. | O4 |  |  |  |  |  |  |  |  |  |  |
 
-| L4e |  |  |  |  |  |  |  |  |  |  |
+| 12. | L3e |  |  |  |  |  |  |  |  |  |  |
 
-| L5e |  |  |  |  |  |  |  |  |  |  |
+| 13. | L4e |  |  |  |  |  |  |  |  |  |  |
 
-| L7e |  |  |  |  |  |  |  |  |  |  |
+| 14. | L5e |  |  |  |  |  |  |  |  |  |  |
 
-| LJ |  |  |  |  |  |  |  |  |  |  |
+| 15. | L7e |  |  |  |  |  |  |  |  |  |  |
 
-| T1 |  |  |  |  |  |  |  |  |  |  |
+| 16. | LJ |  |  |  |  |  |  |  |  |  |  |
 
-| T2 |  |  |  |  |  |  |  |  |  |  |
+| 17. | T1 |  |  |  |  |  |  |  |  |  |  |
 
-| T3 |  |  |  |  |  |  |  |  |  |  |
+| 18. | T2 |  |  |  |  |  |  |  |  |  |  |
 
-| T4 |  |  |  |  |  |  |  |  |  |  |
+| 19. | T3 |  |  |  |  |  |  |  |  |  |  |
 
-| T5 |  |  |  |  |  |  |  |  |  |  |
+| 20. | T4 |  |  |  |  |  |  |  |  |  |  |
 
-| Ra1, Rb1 |  |  |  |  |  |  |  |  |  |  |
+| 21. | T5 |  |  |  |  |  |  |  |  |  |  |
 
-| Ra2, Rb2 |  |  |  |  |  |  |  |  |  |  |
+| 22. | Ra1, Rb1 |  |  |  |  |  |  |  |  |  |  |
 
-| Ra3, Rb3 |  |  |  |  |  |  |  |  |  |  |
+| 23. | Ra2, Rb2 |  |  |  |  |  |  |  |  |  |  |
 
-| Ra4, Rb4 |  |  |  |  |  |  |  |  |  |  |
+| 24. | Ra3, Rb3 |  |  |  |  |  |  |  |  |  |  |
 
-| Sb2 |  |  |  |  |  |  |  |  |  |  |
+| 25. | Ra4, Rb4 |  |  |  |  |  |  |  |  |  |  |
+
+| 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
 
 Magyarázat:
 
@@ -140,7 +138,7 @@ MKOZ (Autóbusz minősítése közforgalmú személyszállításra)
 
 LVR (Légfékrendszer vizsgálata)
 
-VTACHO (Menetíró, illetve sebességkorlátozó berendezés)
+VTACHO (Menetíró, valamint sebességkorlátozó berendezés)
 
 MADR (Veszélyesáru-szállításra minősítés)
 
@@ -156,6 +154,131 @@ MUND (Undort keltő anyag szállítására alkalmasság minősítése)
 
 GAZ (Gáz-benzin kettős üzemű járművek vizsgálata)
 
+MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
+
+További kérelmezett alvizsgák:
+
 * (Kivéve az első minősítő vizsgálat)
 
-[^8]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3. Korlátozott időszakos műszaki vizsgálat keretében végzett műszaki megvizsgálás
+
+|  | A | B |
+
+| 1-. | Kategóriák | Alkalmazható alvizsgák |
+
+| 2. | M1 |  |  |  |  |  |  |  |  |  |  |
+
+| 3. | M2 |  |  |  |  |  |  |  |  |  |  |
+
+| 4. | M3 |  |  |  |  |  |  |  |  |  |  |
+
+| 5. | N1 |  |  |  |  |  |  |  |  |  |  |
+
+| 6. | N2 |  |  |  |  |  |  |  |  |  |  |
+
+| 7. | N3 |  |  |  |  |  |  |  |  |  |  |
+
+| 8. | O1 |  |  |  |  |  |  |  |  |  |  |
+
+| 9. | O2 |  |  |  |  |  |  |  |  |  |  |
+
+| 10. | O3 |  |  |  |  |  |  |  |  |  |  |
+
+| 11. | O4 |  |  |  |  |  |  |  |  |  |  |
+
+| 12. | L3e |  |  |  |  |  |  |  |  |  |  |
+
+| 13. | L4e |  |  |  |  |  |  |  |  |  |  |
+
+| 14. | L5e |  |  |  |  |  |  |  |  |  |  |
+
+| 15. | L7e |  |  |  |  |  |  |  |  |  |  |
+
+| 16. | LJ |  |  |  |  |  |  |  |  |  |  |
+
+| 17. | T1 |  |  |  |  |  |  |  |  |  |  |
+
+| 18. | T2 |  |  |  |  |  |  |  |  |  |  |
+
+| 19. | T3 |  |  |  |  |  |  |  |  |  |  |
+
+| 20. | T4 |  |  |  |  |  |  |  |  |  |  |
+
+| 21. | T5 |  |  |  |  |  |  |  |  |  |  |
+
+| 22. | Ra1, Rb1 |  |  |  |  |  |  |  |  |  |  |
+
+| 23. | Ra2, Rb2 |  |  |  |  |  |  |  |  |  |  |
+
+| 24. | Ra3, Rb3 |  |  |  |  |  |  |  |  |  |  |
+
+| 25. | Ra4, Rb4 |  |  |  |  |  |  |  |  |  |  |
+
+| 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
+
+Magyarázat:
+
+MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
+
+VON (vonószerkezettel felszerelt jármű vontatásra való alkalmasságának típusbizonyítvány
+
+alapján történő megállapítása)”
+
+4. Jármű honosítási eljárás lefolytatása
+
+|  | A | B |
+
+| 1. | Kategóriák |  |
+
+| 2. | M1 |  |
+
+| 3. | M2 |  |
+
+| 4. | M3 |  |
+
+| 5. | N1 |  |
+
+| 6. | N2 |  |
+
+| 7. | N3 |  |
+
+| 8. | O1 |  |
+
+| 9. | O2 |  |
+
+| 10. | O3 |  |
+
+| 11. | O4 |  |
+
+| 12. | L3e |  |
+
+| 13. | L4e |  |
+
+| 14. | L5e |  |
+
+| 15. | L7e |  |
+
+| 16. | LJ |  |
+
+| 17. | T1 |  |
+
+| 18. | T2 |  |
+
+| 19. | T3 |  |
+
+| 20. | T4 |  |
+
+| 21. | T5 |  |
+
+| 22. | Ra1, Rb1 |  |
+
+| 23. | Ra2, Rb2 |  |
+
+| 24. | Ra3, Rb3 |  |
+
+| 25. | Ra4, Rb4 |  |
+
+| 26. | Sb2 |  |
+
+[^28]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.

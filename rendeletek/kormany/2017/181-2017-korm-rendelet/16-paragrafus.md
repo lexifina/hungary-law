@@ -6,4 +6,26 @@
 
 (3) Az engedély átadásával a korábbi hatósági szerződés megszűnik.
 
-(4) A (2) bekezdésben említett szervezeteknek az általuk működtetett – és eddig hatósági szerződéssel rendelkező – vizsgálóállomások tekintetében az engedély kiadásától számított 12 hónapon belül kell az engedélyező hatóság részére a 3. § (1) bekezdés c) és d) pontja szerinti bejelentésüket megtenniük.
+(4)[^20]
+
+(5)[^21] Azon engedéllyel rendelkező vizsgálóállomások, amelyek auditált státusszal kívánnak működni, 2020. december 31-ig az auditált státusz megszerzésére irányuló kérelmet terjeszthetnek elő a vizsgálóállomások auditálásáról és akkreditált státuszának elfogadásáról szóló rendelet szerint az auditáló szervnél. Azon vizsgáló állomások, amelyek jelen jogszabály hatálybalépése előtt érvényes auditált vagy akkreditált státusszal rendelkeznek, státuszuk az ezt igazoló dokumentumban feltüntetett határidő lejártáig hatályban maradnak, kérelmükhöz ezen dokumentum másolatát csatolni kell.
+
+(6)[^22] A határidőig beérkezett kérelmekről az auditáló szerv 30 napon belül értesíti az engedélyező hatóságot. A kérelmet határidőben előterjesztő vizsgálóállomások auditált státuszát a feltételek vizsgálata nélkül elfogadottnak kell tekinteni a feltételeket vizsgáló, valós auditált státusz megszerzéséig, legfeljebb 2022. december 31-ig. A vizsgálóállomásnak a valós auditált státusz megszerzését a hatóságnál igazolnia kell.
+
+(7)[^23] Azon engedéllyel rendelkező vizsgálóállomások, melyek akkreditált státusszal kívánnak működni, ezt 2020. december 31-ig bejelentik az engedélyező hatóságnak. A határidőben megtett bejelentés alapján az akkreditált státuszt 2022. december 31-ig az akkreditáció alapjául szolgáló feltételek vizsgálata nélkül is megadottnak kell tekinteni. A vizsgálóállomásnak a feltételeket vizsgáló, valós akkreditált státusz megszerzését a hatóságnál igazolnia kell.
+
+(8)[^24] A közlekedési hatóság az engedélyt visszavonja azon vizsgálóállomás esetében, amely az (5) vagy (6) bekezdésben meghatározott feltételeknek a megadott határidőig nem tesz eleget.
+
+(9)[^25] Az új vizsgálóállomás tevékenységének megkezdéséhez szükséges engedélyezési eljárás során 2020. december 31-ig az auditált státuszt a feltételek vizsgálata nélkül elfogadottnak kell tekinteni, és a vizsgálóállomásnak
+
+az (5) vagy (7) bekezdésben meghatározottak szerint kell eljárni attól függően, hogy auditált vagy akkreditált státusszal kíván működni.
+
+(10)[^26] Az új vizsgálóállomás tevékenységének megkezdéséhez 2021. január 1-től kezdődően az auditált vagy akkreditált státuszt igazolni kell.
+
+[^20]: A 16. § (4) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 48. § c) pontja hatályon kívül helyezte.
+[^21]: A 16. § (5) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 45. §-a iktatta be.
+[^22]: A 16. § (6) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 45. §-a iktatta be.
+[^23]: A 16. § (7) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 45. §-a iktatta be.
+[^24]: A 16. § (8) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 45. §-a iktatta be.
+[^25]: A 16. § (9) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 45. §-a iktatta be.
+[^26]: A 16. § (10) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 45. §-a iktatta be.

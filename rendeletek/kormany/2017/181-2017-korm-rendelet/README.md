@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-181-20-
 | 2018-05-20 | 2017-181-20-22.1 | 181/2017. (VII. 5.) Korm. rendelet |
 | 2018-05-21 | 2017-181-20-22.2 | 2010: CXXX. törvény |
 | 2020-06-12 | 2017-181-20-22.3 | 245/2020. (V. 28.) Korm. rendelet |
+| 2021-01-01 | 2017-181-20-22.4 | 722/2020. (XII. 31.) Korm. rendelet |

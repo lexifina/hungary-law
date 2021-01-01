@@ -1,7 +1,9 @@
-## a közlekedési hatóság a vizsgálóállomás működését 30 napra felfüggeszti.
+## a közlekedési hatóság a vizsgálóállomás működését 30 napra, a d) pont esetében a hiányosság megszüntetéséig felfüggeszti.
 
 13. § (1) Ha a vizsgálóállomás a kérelem benyújtásának és az engedélyezésnek a feltételeit már nem tudja biztosítani, a tevékenységét köteles szüneteltetni. A szüneteltetést a közlekedési hatósághoz 3 munkanapon belül – a szüneteltetés várható időtartamának megjelölésével – be kell jelentenie.
 
 (2) A közlekedési hatóság a vizsgálóállomás működését a feltételek teljesítéséig – de legfeljebb 6 hónapra – felfüggeszti.
 
-(3) Ha az akkreditált státusz megszűnése, visszavonása vagy auditáláson megállapított nem megfelelő pénzügyi helyzet miatt került sor a tevékenység felfüggesztésre, úgy tevékenysége csak sikeres auditálást követően folytatható.
+(3)[^19] Ha az auditált vagy akkreditált státusz megszűnése vagy visszavonása miatt került sor a tevékenység felfüggesztésre, úgy tevékenység csak sikeres auditálást vagy akkreditálást követően folytatható.
+
+[^19]: A 13. § (3) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
