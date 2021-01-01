@@ -12,6 +12,6 @@
 
 | 4. | Az R. 2. számú mellékletében felsorolt járóbeteg-szakellátások, valamint az R. 15. és 15/a. számú mellékletében felsorolt gondozási tevékenységek közül: a CT, MRI diagnosztikai és terápiás beavatkozások, a molekuláris biológiai diagnosztikai eljárások a kapcsolódó mintavételi eljárásokkal, továbbá Szomatostatin receptor szcintigráfia, Pajzsmirigy maradványszövet stimulációja rhTSH kezeléssel, Kezelés Sr-89 Metastronnal, Adrenerg receptor szcintigráfia I-123 MIBG-vel, Mellékvesekéreg szcintigráfia, Agyi receptor SPECT vizsgálat, Pharmacologiai neurectomia III., botulinum toxinnal, Mellékvese kéreg szcintigráfia + Dexamethason suppr., Szívizom receptor szcintigráfia I-123 MIBG-vel, Kezelés radioizotóppal jelzett csontaffin foszfonát radiofarmakonnal, Pharmacologiai neurctomia II., botulinum toxinnal, Szívizom FDG vizsgálat SPECT-el, Embolizáció/sclerotisatio - szuperszelektív - egy ág, Immunszcintigráfia jelzett antitesttel, a teljes testről. |
 
-2. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^50]
+2. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^52]
 
-[^50]: A 2. melléklet a 364/2014. (XII. 30.) Korm. rendelet 117. §-a, a 413/2015. (XII. 23.) Korm. rendelet 69. § szerint módosított szöveg.
+[^52]: A 2. melléklet a 364/2014. (XII. 30.) Korm. rendelet 117. §-a, a 413/2015. (XII. 23.) Korm. rendelet 69. § szerint módosított szöveg.

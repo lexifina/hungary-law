@@ -86,6 +86,6 @@
 
 | Egyéb megjegyzés: |
 
-4. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^52]
+4. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^54]
 
-[^52]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^54]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés l) pontja szerint módosított szöveg.
