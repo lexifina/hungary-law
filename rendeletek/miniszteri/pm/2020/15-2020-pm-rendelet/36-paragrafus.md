@@ -1,0 +1,3 @@
+36. § (1) A tisztjelölt elsőfokú alkalmasságának minősítését tartalmazó véleményt minden esetben meg kell küldeni a tisztjelölttel kapcsolatos ügyek intézésére kijelölt NAV szervezeti egység vezetője részére, aki a minősítésről tájékoztatja a munkáltatói jogkör gyakorlóját és a dékánt.
+
+(2) Ha az alkalmassági vizsgálat alapján a tisztjelölt „Alkalmatlan” minősítést kap, tisztjelölti jogviszonyából eredő kötelezettségeinek teljesítése alól a jogerős döntésig mentesíthető. A tisztjelöltnek egyes gyakorlati foglalkozások alól csak olyan egészségügyi felmentés és csak olyan időtartamra adható, amely tanulmányi és vizsgakötelezettségeinek teljesítését nem befolyásolja.

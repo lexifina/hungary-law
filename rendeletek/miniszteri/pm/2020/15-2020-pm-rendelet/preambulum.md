@@ -1,0 +1,1 @@
+A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 247. § 2., 8. és 9. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklet F) pontjában foglalt táblázat 4. sorában meghatározott feladatkörömben eljárva a következőket rendelem el:

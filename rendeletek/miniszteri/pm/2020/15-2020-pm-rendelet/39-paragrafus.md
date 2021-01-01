@@ -1,0 +1,3 @@
+39. § (1) Az egészségügyi szabadság a pénzügyőr szolgálatképtelensége esetén a felgyógyulásig, illetve a végső fogyatékosság kialakulásáig, legfeljebb azonban háromszázhatvanöt napig engedélyezhető. Ha a pénzügyőr a szolgálatképtelensége első napját megelőző háromszázhatvanöt napon belül már egészségügyi szabadságban részesült, ennek időtartamát az újabb szolgálatképtelenség miatt engedélyezett egészségügyi szabadság időtartamába be kell számítani.
+
+(2) Pénzügyőr szolgálati balesete vagy betegsége miatt a szolgálatképtelenség háromszázhatvanöt napon túli meghosszabbítását az egészségkárosodás mértékének megállapítása céljából kormányrendeletben kijelölt rehabilitációs szakértői és orvosszakértői szerv véleményezi.

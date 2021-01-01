@@ -1,0 +1,5 @@
+## 48. § Ez a rendelet 2021. január 1-jén lép hatályba.
+
+49. § (1) E rendelet rendelkezéseit – az 50. §-ban foglaltak figyelembevételével – a folyamatban lévő ügyekben is alkalmazni kell. A vizsgálat folyamatban lévőnek minősül, ha e rendelet hatálybalépéséig a vizsgálat lefolytatásra került, azonban az alkalmasság minősítését tartalmazó vélemény még nem került kiadásra.
+
+(2) E rendelet hatálybalépését követő kilencven napon belül elvégzendő fizikai alkalmassági vizsgálatok esetén a pénzügyőr írásban nyilatkozik arra vonatkozóan, hogy a fizikai alkalmassági vizsgálatot e rendelet vagy az e rendelet hatálybalépését megelőző napon hatályos, a Nemzeti Adó- és Vámhivatalnál foglalkoztatottak alkalmassági vizsgálatáról, valamint a Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete által nyújtott egészségügyi szolgáltatás igénybevételére jogosultakról szóló 73/2013. (XII. 30.) NGM rendelet követelményei alapján teljesíti, azzal, hogy utóbbi esetben is alkalmazandók a 22. § (7)–(9) bekezdésében és a 24. § (2) bekezdésében foglaltak.
