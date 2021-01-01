@@ -63,3 +63,44 @@
 17. a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára által irányított szervezeti egységek Kecskemétre történő áthelyezésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 200/2014. (VIII. 14.) Korm. rendelet szerinti beruházás,
 
 18. a „Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok a budai várnegyed területén” programhoz kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 227/2014. (IX. 4.) Korm. rendelet szerinti beruházás,
+
+19. a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet szerinti beruházás,
+
+20. a Gül Baba türbéje és környezete komplex rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 2/2015. (I. 22.) Korm. rendelet szerinti beruházás,
+
+21. a Fővárosi Állat- és Növénykert fejlesztésére irányuló Pannon Park és Mesepark projektekhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 48/2015. (III. 12.) Korm. rendelet szerinti beruházás,
+
+22. a Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet szirmabesenyői új objektum beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 63/2015. (III. 24.) Korm. rendelet szerinti beruházás,
+
+23. a Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 208/2015. (VII. 23.) Korm. rendelet szerinti beruházás,
+
+24. a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.) Korm. rendelet szerinti beruházás,
+
+25. az új budapesti konferencia-központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 267/2015. (IX. 14.) Korm. rendelet szerinti beruházás,
+
+26. a Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 410/2015. (XII. 15.) Korm. rendelet szerinti beruházás,
+
+27. a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet szerinti beruházás,
+
+28.[^9] a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 225/2018. (XI. 29.) Korm. rendelet szerinti beruházás.
+
+29. a Vasas Sport Club létesítményfejlesztési programjának megvalósítását szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet módosításáról szóló 198/2016. (VII. 13.) Korm. rendelet szerinti beruházás,
+
+30. a Magyar Állami Operaház korszerűsítését célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 249/2016. (VIII. 22.) Korm. rendelet szerinti beruházás,
+
+31. a büntetés-végrehajtási intézetek férőhely-bővítési programjához kapcsolódó, az új börtönépítési beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 268/2016. (VIII. 31.) Korm. rendelet szerinti beruházás,
+
+32. a Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdés a) és b) pontja szerinti beruházás,
+
+33. a Budapest I. kerület, Nándor utca 5–7. szám alatti irodaépület felújításával, átalakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról, valamint a Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 410/2015. (XII. 15.) Korm. rendelet módosításáról szóló 336/2016. (XI. 11.) Korm. rendelet szerinti beruházás,
+
+34. az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet szerinti beruházás,
+
+35. a Népliget rekreációs és sportolásra hasznosított területeinek rekonstrukciójával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 130/2017. (VI. 8.) Korm. rendelet szerinti beruházás,
+
+36. a Szegedi Olimpiai Központ fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 131/2017. (VI. 8.) Korm. rendelet szerinti beruházás.
+
+37.[^10] A Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet szerinti beruházások.
+
+[^9]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^10]: A 3. melléklet 37. pontját a 42/2018. (III. 13.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
