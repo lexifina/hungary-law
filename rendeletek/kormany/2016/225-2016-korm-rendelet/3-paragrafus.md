@@ -6,12 +6,12 @@ b) a szerződés tárgya alapján helye van-e a Vbt. szerinti beszerzési eljár
 
 c) a Vbt. szerinti beszerzési eljárás lefolytatása alóli mentesítés nem befolyásolja-e indokolatlanul és aránytalanul hátrányosan a gazdasági szereplők közötti versenyt.
 
-(2)[^4] Az előterjesztő miniszter egyetértése esetén a mentesítési kérelmet, valamint a 2. § (3) és (6) bekezdése szerinti szakmai állásfoglalást, illetve szakmai véleményt az esetlegesen szükséges kiegészítő információk kézhezvételétől számított legkésőbb 15 napon belül megküldi egyetértő álláspontjának indokolásával együtt a Nemzetbiztonsági Kabinetnek (a továbbiakban: Kabinet).
+(2)[^5] Az előterjesztő miniszter az egyetértése esetén a mentesítési kérelmet, valamint a 2. § (3), (6) és (8) bekezdése szerinti szakmai állásfoglalást, illetve szakmai véleményt az esetlegesen szükséges kiegészítő információk kézhezvételétől számított legkésőbb 15 napon belül megküldi egyetértő álláspontjának indokolásával együtt a Nemzetbiztonsági Kabinetnek (a továbbiakban: Kabinet).
 
-(3)[^5] A nem a Kormány irányítása alatt álló szervezet által benyújtott mentesítési kérelmet az előterjesztő miniszter egyet nem értése esetén is a Kabinet elé terjeszti, ebben az esetben az előterjesztésben egyet nem értő véleményét az előterjesztésben indokolja.
+(3)[^6] A nem a Kormány irányítása alatt álló szervezet által benyújtott mentesítési kérelmet az előterjesztő miniszter egyet nem értése esetén is a Kabinet elé terjeszti, ebben az esetben az előterjesztésben egyet nem értő véleményét az előterjesztésben indokolja.
 
-(4)[^6] Ha az 1. § szerinti, a Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést az előterjesztő miniszter által vezetett minisztérium kívánja megkötni, a mentesítési kérelmet annak indokolásával együtt az előterjesztő miniszter közvetlenül a Kabinet elé terjeszti, amelyhez csatolja a 2. § (3) és (6) bekezdése szerinti szakmai állásfoglalást, illetve szakmai véleményt.
+(4)[^7] Ha az 1. § szerinti, a Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést az előterjesztő miniszter által vezetett minisztérium kívánja megkötni, a mentesítési kérelmet annak indokolásával együtt az előterjesztő miniszter közvetlenül a Kabinet elé terjeszti, amelyhez csatolja a 2. § (3) és (6) bekezdése szerinti szakmai állásfoglalást, illetve szakmai véleményt.
 
-[^4]: A 3. § (2) bekezdése a 157/2018. (IX. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^5]: A 3. § (3) bekezdése a 157/2018. (IX. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdése a 157/2018. (IX. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^6]: A 3. § (3) bekezdése a 157/2018. (IX. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdése a 157/2018. (IX. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
