@@ -37,3 +37,7 @@ ce) az egyedi repülési tesztprogramot,
 cf) a repülések tervezett programjának időtartama alatt alkalmazott karbantartási feltételeket.
 
 (4) A kérelem tartalmi elemeit a Légijármű műszaki alkalmassági rendelet tartalmazza.
+
+(5)[^49] A légiközlekedési hatóság a kutatási, kísérleti vagy tudományos célú légijárműre kiadott egyedi repülési engedélyt felfüggeszti a hatóság által előírt követelmények teljesítéséig, ha a légijármű súlyosan veszélyezteti a repülés biztonságát.
+
+[^49]: A 138. § (5) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 58. § (8) bekezdése iktatta be.

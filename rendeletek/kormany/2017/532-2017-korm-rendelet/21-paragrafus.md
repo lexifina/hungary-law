@@ -8,6 +8,6 @@ a) amely igazolja a Földi Kiszolgálás Rendelet 3. és 4. számú mellékleté
 
 b) amelyet a Földi Kiszolgálás Rendelet 18. § szerinti eljárás során kiválasztottak, amennyiben a repülőtéren a légiközlekedési hatóság a földi kiszolgálást e rendelet 26. és 27. §-a alapján korlátozta,
 
-c)[^34] amely rendelkezik a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti „Bizalmas!” minősítési szintű és érvényes telephelybiztonsági tanúsítvánnyal.
+c)[^36] amely rendelkezik a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti „Bizalmas!” minősítési szintű és érvényes telephelybiztonsági tanúsítvánnyal.
 
-[^34]: A 21. § (2) bekezdés c) pontját a 273/2020. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
+[^36]: A 21. § (2) bekezdés c) pontját a 273/2020. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
