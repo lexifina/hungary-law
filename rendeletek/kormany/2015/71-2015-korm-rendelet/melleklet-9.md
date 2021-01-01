@@ -1,23 +1,5 @@
 9. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^100]
 
-I. Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések
+I. Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések, kirendelendő szakértők
 
-|  | A | B | C |
-
-| 1. | Eljárás megnevezése | Vizsgálat feltétele | Szakkérdés |
-
-| 2. | A természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló kormányrendelet szerinti tényfeltárási terv és záródokumentáció elfogadására, valamint a természetben okozott károsodással kapcsolatos beavatkozás elvégzésének szükségessége megállapítására, a beavatkozás megvalósítási tervének elkészítésére és benyújtására való kötelezésre irányuló, a beavatkozási munkálatok ellenőrzésével kapcsolatos, a beavatkozás elégtelensége esetén annak folytatásáról, a további tényfeltárás elrendeléséről, a beavatkozásnak a záródokumentáció elfogadásával való befejezéséről, | minden esetben | A bekövetkezett kár helyreállítására alkalmas erdészeti beavatkozás megállapításának, valamint a kár naturáliákban meghatározható mértékének, a szennyező anyagok termőföldre gyakorolt hatásának, a kár helyreállítására alkalmas talajvédelmi beavatkozásoknak a meghatározásának erdővédelmi kérdésében. |
-
-|  | a kármentesítési monitoringról és a kármentesítés befejezéséről szóló döntése meghozatalára irányuló eljárásban | minden esetben | A kár naturáliákban meghatározható mértékének, a szennyező anyagok termőföldre gyakorolt hatásának, a kár helyreállítására alkalmas talajvédelmi beavatkozásoknak a meghatározása. |
-
-| 3. | Állatkert létesítésének, működésének engedélyezésére irányuló eljárásában. | minden esetben | Az egészségkárosító kockázatok és esetleges hatások felmérése, a higiénés és egészségvédelmi, a települési hulladékkal és a nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások betartása kérdésében. |
-
-|  |  |  | A takarmányhigiéniai követelményeknek, a takarmányokra és azok felhasználására vonatkozó szabályoknak, a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírásoknak, az állatvédelmi, valamint az állategészségügyi szabályoknak való megfelelés kérdésében. |
-
-| 4. | A különösen és közepesen veszélyes állat tartására, szaporítására, elidegenítésére, megvételére, illetve bemutatására irányuló engedélyezési eljárásában. | minden esetben | Az állategészségügyi és állatvédelmi szabályoknak való megfelelés kérdésében. |
-
-| 5. | A Tvt. 38. § (1) bekezdés i) pontja szerinti, erdőben technikai jellegű sporttevékenység folytatásának engedélyezésére irányuló eljárás. | minden esetben | Az erdőre gyakorolt hatások vizsgálata kérdésében. |
-
-II.
-
-[^100]: A 9. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés g) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k) és p) pontja szerint módosított szöveg.
+[^100]: A 9. melléklet a 668/2020. (XII. 28.) Korm. rendelet 40. §-ával megállapított szöveg.
