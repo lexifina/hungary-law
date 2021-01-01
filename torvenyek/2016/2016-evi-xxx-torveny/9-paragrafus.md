@@ -24,7 +24,7 @@ g) az Alkotmánybíróság elnöke,
 
 h) az Állami Számvevőszék elnöke,
 
-i) a Közbeszerzési Hatóság, az Egyenlő Bánásmód Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
+i) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
 
 j) a Magyar Nemzeti Bank elnöke
 

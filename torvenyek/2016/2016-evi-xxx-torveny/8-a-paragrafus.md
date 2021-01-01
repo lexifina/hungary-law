@@ -1,0 +1,3 @@
+8/A. § (1) Az ajánlatkérő köteles fogadni és feldolgozni az olyan elektronikus számlákat, amelyek megfelelnek az EN 16931-1:2017 számú európai szabványnak és az Európai Bizottság által e szabványhoz az Európai Unió Hivatalos Lapjában közzétett szintaxislistának.
+
+(2) Az (1) bekezdést nem kell alkalmazni a szerződések teljesítésének eredményeképp kiállított elektronikus számlákra, ha a beszerzés és a szerződés teljesítése során a minősített adatok védelme szükséges vagy – jogszabály, közjogi szervezetszabályozó eszköz vagy közigazgatási jog által szabályozott egyedi döntés szerint – különleges biztonsági intézkedések szükségesek és Magyarország alapvető biztonsági, nemzetbiztonsági érdekei más módon nem garantálhatóak.

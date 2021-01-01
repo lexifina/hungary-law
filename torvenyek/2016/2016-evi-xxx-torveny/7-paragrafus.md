@@ -24,7 +24,7 @@
 
 11. pénzügyi szolgáltatások megrendelésére, a biztosítási szolgáltatások kivételével,
 
-12. munkaszerződésre, közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya létrehozására,
+12. munkaszerződésre, közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya létrehozására,
 
 13. az olyan kutatási és fejlesztési szolgáltatás megrendelésre, amelyek haszna nem kizárólag az ajánlatkérőnél jelentkezik a szolgáltatásnak a saját tevékenységében való felhasználása során, feltéve, hogy a kapott szolgáltatás ellenértékét teljes mértékben az ajánlatkérő fizeti meg,
 
