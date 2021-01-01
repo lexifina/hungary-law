@@ -20,8 +20,8 @@
 
 (11) A felszámolási eljárás jogerős lezárásáról hozott határozat Cégközlönyben való közzétételét követően bármely hitelező keresettel kérheti a 6. § szerint illetékes bíróságtól, hogy az (1) bekezdés szerinti perben jogerősen megállapított felelősség alapján, az okozott vagyoni hátrány mértékéig kötelezze az adós volt vezetőjét a felszámolási eljárásban nyilvántartásba vett, de ott meg nem térült követelésének kifizetésére.
 
-(12) Ha a felszámolási eljárás jogerős lezárásáig az (1) bekezdés szerinti megállapítási perben még nincs jogerős határozat, a 90 napos jogvesztő határidő kezdő napja a bírósági határozat jogerőre emelkedésének napját követő nap.
+(12)
 
-(13) Ha több hitelező terjeszt elő a (11) bekezdés, illetve a (12) bekezdés szerinti marasztalási keresetet, a bíróság a pereket egyesíti, és a hitelezők pernyertessége esetén a hitelezői követelések arányos kielégítéséről rendelkezik oly módon, hogy az 57. § szerinti kielégítési sorrendre vonatkozó szabályokat nem kell alkalmazni, és a (9) bekezdés szerinti biztosítékot is e bekezdésnek megfelelően kell a hitelezők követelésére felosztani.
+(13) Ha több hitelező terjeszt elő a (11) bekezdés szerinti marasztalási keresetet, a bíróság a pereket egyesíti, és a hitelezők pernyertessége esetén a hitelezői követelések arányos kielégítéséről rendelkezik oly módon, hogy az 57. § szerinti kielégítési sorrendre vonatkozó szabályokat nem kell alkalmazni, és a (9) bekezdés szerinti biztosítékot is e bekezdésnek megfelelően kell a hitelezők követelésére felosztani.
 
 (14) A Ptk. 3:86. § (2) bekezdésében, 3:118. §-ában, 3:347. § (3) bekezdésében, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben a vezető tisztségviselők polgári jogi felelősségének megállapítására és velük szemben a szerződésen kívüli kártérítési igény érvényesítésére az e §-ban foglaltak alapján kerülhet sor, ha a jogi személy jogutód nélküli megszüntetésére felszámolási eljárásban kerül sor.

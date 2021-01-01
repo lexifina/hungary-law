@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 1991-49-00-00.108 |
 | 2020-01-01 | 2019. évi CXIV. törvény | 1991-49-00-00.109 |
 | 2020-08-01 | 2020. évi LXXIII. törvény | 1991-49-00-00.110 |
+| 2021-01-01 | 2020. évi CLXV. törvény | 1991-49-00-00.111 |

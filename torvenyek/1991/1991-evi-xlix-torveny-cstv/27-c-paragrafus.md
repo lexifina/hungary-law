@@ -88,6 +88,8 @@ kötelezettségeit.
 
 (5a) A felszámolók névjegyzékét vezető szerv nem szabhat ki bírságot, ha a jogsértő magatartásnak a felszámolók névjegyzékét vezető szerv tudomására jutásától számítva egy év már eltelt.
 
+(5b) Az (5) bekezdés szerinti eljárásokban bírság helyett figyelmeztetés nem alkalmazható.
+
 (6) A felszámolók névjegyzékét vezető szerv a felszámoló szervezetet törli a névjegyzékből
 
 a) az e törvény által törlési okként nevesített esetekben,
