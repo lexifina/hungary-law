@@ -34,7 +34,7 @@ Határidő: azonnal
 
 8. egyetért azzal, hogy a Beruházás kivitelezésének teljes költségigénye legfeljebb bruttó 30 090 618 000 forint, mellyel összefüggésben
 
-a) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcímét 65. Maccabi Játékok sportinfrastruktúra fejlesztése jogcímmel egészíti ki,
+a)[^6]
 
 b) felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter közreműködésével gondoskodjon
 
@@ -58,9 +58,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-10.[^6]
+10.[^7]
 
-11.[^7]
+11.[^8]
 
 12. egyetért azzal, hogy a Játékok előkészítő rendezvényeként nemzetközi kiállítás és kulturális programsorozat kerüljön megszervezésre a Maccabi VAC által, mellyel összefüggésben felhívja a nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy a 2017. évben legfeljebb 35 000 000 forint, a 2018. évben legfeljebb 20 000 000 forint, a 2019. évben legfeljebb 20 000 000 forint forrás rendelkezésre állásáról gondoskodjanak a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet javára.
 
@@ -75,5 +75,6 @@ Határidő: a felmerülés ütemében
 [^3]: A 3. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
 [^4]: A 4. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
 [^5]: Az 5. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
-[^6]: A 10. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
-[^7]: A 11. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^6]: A 8. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^7]: A 10. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^8]: A 11. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
