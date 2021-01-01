@@ -6,7 +6,8 @@ a)[^6]
 
 b) a hatósági igazolás az egyéni vállalkozói tevékenység végzéséről,
 
-c) az őstermelői igazolvány.
+c)[^7]
 
 [^5]: A 4/A. §-t a 298/2018. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
 [^6]: A 4/A. § (2) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 153. §-a hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^7]: A 4/A. § (2) bekezdés c) pontját a 665/2020. (XII. 28.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
