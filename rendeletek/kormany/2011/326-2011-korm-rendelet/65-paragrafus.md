@@ -4,15 +4,15 @@
 
 (2) A rendszámtábla sárga színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
 
-(3)[^244] A 60. § (2) bekezdés g) pontjában megjelölt világoszöld alapszínű, sorozatban előállított rendszámtáblát kell kiadni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépkocsira.
+(3)[^245] A 60. § (2) bekezdés g) pontjában megjelölt világoszöld alapszínű, sorozatban előállított rendszámtáblát kell kiadni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépkocsira.
 
-(4)[^245] A rendszámtábla világoszöld színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
+(4)[^246] A rendszámtábla világoszöld színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
 
-(5)[^246] A 60. § (2) bekezdés h) pontjában megjelölt szürke alapszínű rendszámtábla gyártását kell engedélyezni a gépkocsi kerékpárszállító eszközére.
+(5)[^247] A 60. § (2) bekezdés h) pontjában megjelölt szürke alapszínű rendszámtábla gyártását kell engedélyezni a gépkocsi kerékpárszállító eszközére.
 
-(6)[^247] A rendszámtáblának a gépkocsi kerékpárszállító eszközére szürke színben történő kiadását a nyilvántartásban és a gépkocsi forgalmi engedélyben jelölni kell.
+(6)[^248] A rendszámtáblának a gépkocsi kerékpárszállító eszközére szürke színben történő kiadását a nyilvántartásban és a gépkocsi forgalmi engedélyben jelölni kell.
 
-[^244]: A 65. § (3) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
-[^245]: A 65. § (4) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
-[^246]: A 65. § (5) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
-[^247]: A 65. § (6) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
+[^245]: A 65. § (3) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^246]: A 65. § (4) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^247]: A 65. § (5) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
+[^248]: A 65. § (6) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.

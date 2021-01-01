@@ -1,8 +1,8 @@
-## 120/D. §[^416] A 17. § (6) bekezdésében foglalt egy éves határidőtől a közlekedési igazgatási hatóság eltekinthet azon kérelmezők esetében, akik magyarországi külszolgálatukat a Módr.2. hatálybalépése[^417] előtt kezdték meg.
+## 120/D. §[^417] A 17. § (6) bekezdésében foglalt egy éves határidőtől a közlekedési igazgatási hatóság eltekinthet azon kérelmezők esetében, akik magyarországi külszolgálatukat a Módr.2. hatálybalépése[^418] előtt kezdték meg.
 
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^418] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^419] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
@@ -14,12 +14,15 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv,
 
-f)[^419] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
+f)[^420] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
 
-g)[^420] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
+g)[^421] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
 
-[^416]: A 120/D. §-t a 468/2016. (XII. 23.) Korm. rendelet 29. §-a iktatta be.
-[^417]: A hatálybalépés időpontja 2017. január 2.
-[^418]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^419]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
-[^420]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+h)[^422] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv 1. cikke.
+
+[^417]: A 120/D. §-t a 468/2016. (XII. 23.) Korm. rendelet 29. §-a iktatta be.
+[^418]: A hatálybalépés időpontja 2017. január 2.
+[^419]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^420]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^421]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^422]: A 121. § h) pontját a 722/2020. (XII. 31.) Korm. rendelet 29. §-a iktatta be.

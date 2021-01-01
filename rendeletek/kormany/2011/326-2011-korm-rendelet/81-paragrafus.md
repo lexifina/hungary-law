@@ -4,8 +4,8 @@
 
 (2) A törzskönyv a jármű közúti forgalomban való részvételének nem feltétele.
 
-(3)[^283] A jármű átírásakor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet vissza kell vonni és érvénytelenítve a keletkezett iratokkal a Nyilvántartónak meg kell küldeni.
+(3)[^284] A jármű átírásakor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet vissza kell vonni és érvénytelenítve a keletkezett iratokkal a Nyilvántartónak meg kell küldeni.
 
 (4) Az ellenkező bizonyításáig a törzskönyvet birtokló ügyfelet jogszerű tulajdonosnak kell tekinteni.
 
-[^283]: A 81. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 22. pontja szerint módosított szöveg.
+[^284]: A 81. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 22. pontja szerint módosított szöveg.
