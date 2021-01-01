@@ -1,3 +1,9 @@
-2. melléklet a 660/2020. (XII. 24.) Korm. rendelethez[^5]
+2. melléklet a 660/2020. (XII. 24.) Korm. rendelethez
 
-[^5]: A 2. melléklet a 6. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+Az R. 34. számú mellékletében foglalt táblázat 6. sora helyébe a következő sor lép:
+
+|  | [A | B | C |
+
+| 1 |  | Szolgáltató neve | Havi fix díj (ezer Ft)] |
+
+| 6 | 9142 | Magyar Máltai Szeretetszolgálat Egyesület | 3282,6 |
