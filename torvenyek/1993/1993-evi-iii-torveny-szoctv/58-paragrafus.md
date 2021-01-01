@@ -1,4 +1,4 @@
-58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
+58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv látja el.
 
 (2) Az egyházi, valamint a nemzetközi szerződés alapján egyházi kiegészítő támogatásban részesülő nem állami fenntartó által fenntartott intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter az egyház legfőbb szerve vagy a nem állami fenntartó képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) ötéves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
@@ -39,3 +39,5 @@ f) figyelemmel kíséri az ellátórendszert érintő tudományos kutatómunka e
 g) kutatásokat folytat, illetve szervez.
 
 (7) A módszertani feladatok ellátására a szociál- és nyugdíjpolitikáért felelős miniszter egyedi támogatást nyújt.
+
+(8) A szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt központi költségvetési szerv alkalmazottainak jogviszonyára a munka törvénykönyvéről szóló törvény rendelkezéseit kell alkalmazni.

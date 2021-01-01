@@ -4,7 +4,7 @@
 
 (3) Az (1) és (2) bekezdésben nem említett esetben a bírság legmagasabb összege 200 000 forint.
 
-(4) A bírság összegét az eset összes körülményeire, így különösen a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására és – fenntartóra kiszabott bírság esetén – a bírság megfizetésének az ellátás színvonalára gyakorolt hatására tekintettel kell meghatározni.
+(4) A fenntartóra kiszabott bírság összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túl – a bírság megfizetésének az ellátás színvonalára gyakorolt hatására tekintettel kell megállapítani.
 
 ## V. Fejezet
 

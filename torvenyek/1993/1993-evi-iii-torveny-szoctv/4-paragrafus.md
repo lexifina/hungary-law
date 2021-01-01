@@ -70,7 +70,7 @@ nb) a betétszerződés és takarékbetét-szerződés alapján takarékbetétk�
 
 3. az anyasági támogatás,
 
-4. a nyugdíjprémium, egyszeri juttatás és a szépkorúak jubileumi juttatása,
+4. a nyugdíjprémium, az egyszeri juttatás, a tizenharmadik havi nyugdíj, a tizenharmadik havi ellátás és a szépkorúak jubileumi juttatása,
 
 5. a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményei, a vakok személyi járadéka és a fogyatékossági támogatás,
 
@@ -96,7 +96,7 @@ nb) a betétszerződés és takarékbetét-szerződés alapján takarékbetétk�
 
 (2) E törvény 6. §-a és a II - III. Fejezet alkalmazásában hajléktalan a bejelentett lakóhellyel nem rendelkező személy, kivéve azt, akinek bejelentett lakóhelye a hajléktalan szállás.
 
-(3) E törvény 7., 84. és 89. §-ainak alkalmazásában hajléktalan az, aki éjszakáit közterületen vagy nem lakás céljára szolgáló helyiségben tölti.
+(3) E törvény 7. §-a, 20. § (10) bekezdése, 84. §-a és 89. §-ainak alkalmazásában hajléktalan az, aki éjszakáit közterületen vagy nem lakás céljára szolgáló helyiségben tölti.
 
 (4)
 

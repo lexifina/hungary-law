@@ -32,7 +32,7 @@ n) a fejlesztő foglalkoztatást nyújtó szociális szolgáltató, intézmény 
 
 (3) A kincstár bírságot szabhat ki a fenntartóval szemben, ha az országos jelentési rendszerbe történő bejelentési kötelezettségét határidőben részben vagy egészben nem teljesíti, vagy valótlan adatot szolgáltat.
 
-(4) Nem szabható ki bírság, ha a jogsértő magatartás megvalósulásától, illetve a jogsértő állapot megszűnésétől számított öt év eltelt, vagy a (3) bekezdés szerinti esetben a hibás vagy hiányos adatról – az adatszolgáltatással megegyező módon – a fenntartó vagy a szociális szolgáltató, szociális intézmény értesítette a kincstárt.
+(4)
 
 (5) A szociális szolgáltató, intézmény vezetőjére vonatkozó rendelkezéseket arra a személyre is alkalmazni kell, aki a szociális szolgáltató, intézmény vezetőjének jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 

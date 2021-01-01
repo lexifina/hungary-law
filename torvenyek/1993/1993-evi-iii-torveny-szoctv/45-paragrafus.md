@@ -22,4 +22,4 @@ d) a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek r�
 
 (6) Ha a fővárosi önkormányzat és a kerületi önkormányzat nem állapodik meg ettől eltérően, a fővárosban a hajléktalanok számára nyújtott rendkívüli települési támogatás megállapítása a fővárosi önkormányzat feladata.
 
-(7) A települési önkormányzat rendeletében a havi rendszerességgel nyújtott települési támogatás – ide nem értve az (1) bekezdés d) pontja szerinti célra nyújtott támogatást – havi összegét úgy kell szabályozni, hogy az nem haladhatja meg az öregségi nyugdíj mindenkori legkisebb összegét.
+(7) A települési önkormányzat rendeletében a 18. életévét betöltött tartósan beteg hozzátartozójának ápolását, gondozását végző személy részére megállapított, havi rendszerességgel nyújtott települési támogatás havi összegét úgy kell szabályozni, hogy az nem haladhatja meg az ápolási díjnak a központi költségvetésről szóló törvényben meghatározott alapösszegét.

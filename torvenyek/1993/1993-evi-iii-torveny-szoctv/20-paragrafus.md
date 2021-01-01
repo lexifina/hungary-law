@@ -42,7 +42,7 @@ c)
 
 (6) Csak a (2) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni
 
-a)
+a) nappali melegedő és éjjeli menedékhely esetében, valamint
 
 b) családsegítés esetében, ha a jogszabályban meghatározott szakmai tevékenység az első interjú kapcsán tett intézkedéssel lezárható.
 
@@ -51,3 +51,5 @@ b) családsegítés esetében, ha a jogszabályban meghatározott szakmai tevék
 (8) A (2) és (4) bekezdés szerinti adattartalmú nyilvántartás a változások nyomon követhetőségét biztosító elektronikus úton is vezethető.
 
 (9) A (2) bekezdés szerinti adattartalmú nyilvántartásból törölni kell az adatokat, ha az ellátásra vonatkozó igény a teljesítését megelőzően megszűnik.
+
+(10) Az utcai szociális munkát nyújtó szolgáltató a hajléktalan személy életét vagy testi épségét veszélyeztető helyzet megszüntetése, a hajléktalansággal járó ártalmak csökkentése, illetve ehhez kapcsolódóan a szociális és egészségügyi szolgáltatások és ellátások igénybevételének segítése és szervezése, valamint a hajléktalan személynek intézménybe vagy más szálláshelyre juttatása céljából, az e célok megvalósításához szükséges mértékben és időtartamig, de legfeljebb az utcai szociális munkát nyújtó szolgáltatóval fennálló intézményi jogviszony megszűnéséig kezeli a hajléktalan személy nevére, születési helyére és idejére, anyja nevére, Társadalombiztosítási Azonosító Jelére, 4. § (3) bekezdése szerinti tartózkodási helyére, cselekvőképességére, családi körülményeire, jövedelmi viszonyaira, iskolai végzettségére és munkavállalását befolyásoló egyéb tényezőkre, valamint egészségi állapotára vonatkozó adatokat.

@@ -15,3 +15,9 @@ e) hajléktalanságuk
 miatt.
 
 (2) Az (1) bekezdés szerinti jogosultsági feltételek részletes szabályait a települési önkormányzat rendeletben határozza meg.
+
+(3) Az étkeztetés szolgáltatási formái
+
+a) a szociális konyha és
+
+b) a népkonyha.

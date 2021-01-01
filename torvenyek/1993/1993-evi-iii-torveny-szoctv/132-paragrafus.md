@@ -48,7 +48,7 @@ v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén köz
 
 w) az új szolgáltatóknak, intézményeknek, szolgáltatásoknak, feladatmutatóknak, ellátotti létszámnak – ezen belül a személyi gondozásban ellátható személyek legmagasabb számának –, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására és annak visszavonására vonatkozó részletes szabályokat;
 
-x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
+x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait, valamint a szociálpolitikai feladatokat ellátó szerv kijelölését.
 
 y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
 

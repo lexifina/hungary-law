@@ -69,3 +69,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2020-03-01 | 2019. évi CX. törvény | 1993-3-00-00.118 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 1993-3-00-00.119 |
 | 2020-08-01 | 2020. évi XXVIII. törvény | 1993-3-00-00.120 |
+| 2021-01-01 | 2020. évi CXLVII. törvény | 1993-3-00-00.121 |
