@@ -2,45 +2,43 @@
 
 ## 10. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
 
-1.[^18]
+1.[^12]
 
-2.[^19]
+2.[^13]
 
-3.[^20]
+3.[^14]
 
-4.[^21]
+4.[^15]
 
-5.[^22]
+5. 25. § (9a) bekezdés b) pontjában a „B411. Egyéb működési bevételek, B51. Immateriális javak értékesítése, B52. Ingatlanok értékesítése, B53. Egyéb tárgyi eszközök értékesítése,” szövegrész helyébe a „B411. Egyéb működési bevételek [ide nem értve a rovat leírásának i) pontjában szereplő gazdasági eseményt],” szöveg,
 
-6.[^23]
+6. 25. § (9a) bekezdés f) pontjában a „bekezdés k) és l) pontjában” szövegrész helyébe a „bekezdés d), k) és l) pontjában” szöveg,
 
-7.[^24]
+7.[^16]
 
-8.[^25]
+8.[^17]
 
-9.[^26]
+9.[^18]
 
-10.[^27]
+10.[^19]
 
-11.[^28]
+11.[^20]
 
-12.[^29]
+12.[^21]
 
-13.[^30]
+13.[^22]
 
-14.[^31]
+14.[^23]
 
-[^18]: A 10. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 10. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 10. § 5. pontja a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^23]: A 10. § 6. pontja a 14. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^24]: A 10. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 10. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 10. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 10. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 10. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 10. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 10. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 10. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 10. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 10. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 10. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 10. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 10. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 10. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 10. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

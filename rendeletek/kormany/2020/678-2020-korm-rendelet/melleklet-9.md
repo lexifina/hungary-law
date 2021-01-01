@@ -1,3 +1,3 @@
-9. melléklet a 678/2020. (XII. 28.) Korm. rendelethez[^48]
+9. melléklet a 678/2020. (XII. 28.) Korm. rendelethez[^32]
 
-[^48]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
