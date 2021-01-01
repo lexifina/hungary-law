@@ -13,3 +13,7 @@ b) az elhunyt honvédelmi alkalmazottnak a) pont alá nem tartozó árvája eset
 (5) Az árvák kiegészítő támogatásának összegét az öregségi nyugdíjnak, a korhatár előtti ellátásnak vagy a szolgálati járandóságnak az emelésére vonatkozó, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) 62. §-ában foglalt szabályok szerint kell emelni.
 
 (6) Az árvák kiegészítő támogatásának jogalap nélküli felvétele esetén a Tny. tv. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett árvák kiegészítő támogatásából eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. tv. szabályai alapján érvényesíti.
+
+(7) Az árvák kiegészítő támogatására jogosult az árvák kiegészítő támogatása tárgyában hozott elsőfokú határozat ellen a közléstől számított 15 napon belül írásban fellebbezést nyújthat be. A fellebbezést az elbírálására jogosultnak címezve a központi pénzügyi szervezethez kell benyújtani. A fellebbezés elbírálására a miniszter jogosult, aki a fellebbezést 30 napon belül bírálja el.
+
+(8) Az árvák kiegészítő támogatása tárgyában hozott határozat fellebbezésre tekintet nélkül végrehajtható.

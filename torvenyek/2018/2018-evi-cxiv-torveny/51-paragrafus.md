@@ -6,11 +6,21 @@
 
 (4) A honvédelmi alkalmazottak tekintetében miniszteri rendelet a honvédelmi feladatok ellátásával összefüggésben, az Mt. 143. és 144. §-a szerinti pótlék helyett napi átalány illetménypótlékot is megállapíthat.
 
-(5) Az Mt. 55. § (1) bekezdése szerinti eseteken túl a honvédelmi alkalmazott a honvédelmi szervezet engedélye alapján is mentesülhet a munkavégzési kötelezettség teljesítése alól. A mentesítés miatt kiesett munkaidő az Mt. 115. § (2) bekezdése alkalmazásában munkában töltött időnek minősül, és ezen időtartamra a honvédelmi alkalmazott az Mt. 146. § (2) bekezdésétől eltérően távolléti díjra jogosult.
+(5) Az Mt. 55. § (1) bekezdésében foglaltakon túl mentesül a honvédelmi alkalmazott a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól
 
-(5a) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés j) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult. A honvédelmi alkalmazott és a munkáltató az Mt. 146. § (2) bekezdésétől eltérően ezzel összefüggésben eltérő megállapodást nem köthet.
+a) az orvosi vizsgálat teljes időtartamára, továbbá a keresőképtelenséggel nem járó egészségügyi kezelések időtartamára,
 
-(5b) Az (5a) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
+b) a közeli hozzátartozója vagy élettársa halálakor – az Mt. 55. § (1) bekezdés f) pontja szerinti mentesülésen felül – a munkáltatói jogkört gyakorló engedélye alapján esetenként legfeljebb három munkanapra,
+
+c) véradás esetén véradásonként két munkanapra, amelyet a véradás napjától számított két hónapon belül, az érintett kérelmének megfelelően kell biztosítani, azzal, hogy a mentesülés évenkénti mértéke legfeljebb tíz munkanap lehet, továbbá
+
+d) a munkáltatói jogkört gyakorló engedélye alapján.
+
+(5a) Az (5) bekezdés szerinti mentesülés ideje az Mt. 115. § (2) bekezdése alkalmazásában munkában töltött időnek minősül, és ezen időtartamra a honvédelmi alkalmazott távolléti díjra jogosult.
+
+(5b) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés k) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult.
+
+(5c) Az (5b) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
 
 (6) A Hvt. 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
 

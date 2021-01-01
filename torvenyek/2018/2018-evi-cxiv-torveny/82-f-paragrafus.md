@@ -1,0 +1,3 @@
+82/F. § (1) A munkáltatói jogkör gyakorlója a honvédelmi alkalmazottat a büntetőeljárás vagy fegyelmi eljárás idejére határozattal felfüggeszti állásából, ha a fegyelemsértés súlya vagy jellege miatt a munkavégzéstől való távoltartása indokolt. A felfüggesztés idejére illetmény jár, a felfüggesztés megszüntetéséig ennek legfeljebb 50%-át vissza lehet tartani. A visszatartott összeget a büntetőeljárás vagy fegyelmi eljárás lezárását követő 30 napon belül ki kell fizetni, kivéve, ha az eljárás eredményeképpen a honvédelmi alkalmazott büntetőjogi vagy fegyelmi felelősségének megállapítására kerül sor.
+
+(2) A munkáltatónak az (1) bekezdés szerinti intézkedésével szemben bírósági jogorvoslatnak helye nincs.

@@ -28,7 +28,7 @@
 
 14. a honvédelmi alkalmazottnak adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
-15. a honvédelmi alkalmazottak illetményének folyósítására, az 51. § (5a) bekezdése szerinti illetmény mértékére, illetve a teljesítményjuttatásra vonatkozó részletes szabályokat.
+15. a honvédelmi alkalmazottak illetményének folyósítására, az 51. § (5b) bekezdése szerinti illetmény mértékére, illetve a teljesítményjuttatásra vonatkozó részletes szabályokat.
 
 16. az 51. § (7) bekezdése szerinti hátrányos jogkövetkezményeket,
 
@@ -42,7 +42,7 @@
 
 21. a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő honvédelmi alkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
 
-22. az Mt. alapján kollektív szerződésben szabályozható tárgyköröket
+22.
 
 23. a honvédelmi alkalmazottak részére tartott, kötelező továbbképzéseken való részvétel részletes szabályait,
 
@@ -56,4 +56,14 @@
 
 28. a honvédelmi alkalmazottak kegyeleti gondoskodásának szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit, valamint az árvák kiegészítő támogatása megállapításának és folyósításának szabályait,
 
-29. a fegyelmi eljárás részletes eljárási szabályait.
+29. a kártérítési és a fegyelmi eljárás részletes eljárási szabályait, illetve – ha szükséges – ezekkel összefüggésben azt az időtartamot, amely az e törvény szerinti elévülési időbe nem számít bele,
+
+30. a honvédelmi szervezet meg nem térülő kárának leírási és törlési szabályait,
+
+31. azokat a honvédelmi szervezeteket, amelyek rendeltetésük folytán vasárnap és munkaszüneti napon is működő munkáltatónak minősülnek,
+
+32. a naptári évenként elrendelhető rendkívüli munkaidő mértékét,
+
+33. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját,
+
+34. a helyettesítési díjra való jogosultság eseteit, annak mértékét.

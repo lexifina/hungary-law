@@ -26,6 +26,8 @@ bc) a hivatásos és szerződéses katonák szolgálati viszonyát, valamint a r
 
 bd) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény
 
+be) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény
+
 hatálya alá tartozó munkáltatók között,
 
 c) lemondással,
@@ -53,6 +55,8 @@ h) fegyelmi eljárásban kiszabott hivatalvesztés büntetéssel, azonnali hatá
 a) a honvédelmi alkalmazott a 12. § (5) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
 
 b) a 12. § (1) bekezdés a) pontjában, (2) és (3) bekezdésében meghatározott feltételnek való megfelelést a honvédelmi alkalmazott a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni.
+
+(3a) A honvédelmi szervezet köteles a honvédelmi alkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni a 12. § (9) bekezdése szerinti esetben.
 
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 

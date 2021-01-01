@@ -1,81 +1,109 @@
 1. melléklet a 2018. évi CXIV. törvényhez
 
-## A HONVÉDELMI ALKALMAZOTT ALAPNYILVÁNTARTÁS ADATKÖRE
+## A HONVÉDELMI ALKALMAZOTTI ALAPNYILVÁNTARTÁS ADATKÖREI
 
-## A honvédelmi alkalmazott
+## 1. A honvédelmi alkalmazott személyi adatai:
 
-## I.
+## 1.1. családi- és utóneve (születési családi- és utóneve), neme,
 
-## – neve (leánykori neve)
+## 1.2. születési helye, ideje,
 
-## – születési helye, ideje
+## 1.3. anyja születési családi- és utóneve,
 
-## – anyja neve
+## 1.4. állampolgárságai,
 
-## – TAJ száma, adóazonosító jele
+## 1.5. társadalombiztosítási azonosítójele, adóazonosító jele,
 
-## – lakóhelye, tartózkodási hely, telefonszáma
+## 1.6. lakóhelye, tartózkodási helye, telefonszáma (amelyen értesíthető), e-mail címe,
 
-## – családi állapota
+## 1.7. családi állapota,
 
-## – gyermekeinek születési ideje
+## 1.8. képmása,
 
-## – egyéb eltartottak száma, az eltartás kezdete
+## 1.9. önéletrajza,
 
-## II.
+## 1.10. fizetési számlaszáma.
 
-## – legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
+## 2. A honvédelmi alkalmazott eltartott gyermekeinek adatai:
 
-## – szakképzettsége(i)
+## 2.1. családi- és utóneve (születési családi- és utóneve), neme, az eltartás kezdete,
 
-## – iskolarendszeren kívüli oktatás keretében szerzett szakképesítése(i), valamint meghatározott munkakör betöltésére jogosító okiratok adatai
+## 2.2. születési helye, ideje,
 
-## – tudományos fokozata
+## 2.3. anyja születési családi és utóneve,
 
-## – idegennyelv-ismerete
+## 2.4. lakóhelye, tartózkodási helye,
 
-## III.
+## 2.5. társadalombiztosítási azonosító jele, adóazonosító jele.
 
-## – a korábbi, 83. § (1) és (3) bekezdése szerinti jogviszonyban töltött időtartamok megnevezése
+## 3. A honvédelmi alkalmazott iskolai végzettségére vonatkozó adatok:
 
-## – a munkahely megnevezése
+## 3.1. legmagasabb iskolai végzettsége (több végzettség esetén valamennyi),
 
-## – a megszűnés módja, időpontja
+## 3.2. szakképzettségei,
 
-## IV.
+## 3.3. iskolarendszeren kívüli oktatás keretében szerzett szakképesítései, valamint meghatározott munkakör betöltésére jogosító okiratok adatai,
 
-## – a honvédelmi alkalmazotti jogviszony kezdete
+## 3.4. tudományos fokozata,
 
-## – állampolgársága
+## 3.5. idegennyelv-ismerete.
 
-## – a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte
+## 4. A honvédelmi alkalmazott korábbi jogviszonyával kapcsolatos adatok:
 
-## – a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
+## 4.1. a korábbi, 83. § (1) és (3) bekezdése szerinti jogviszonyban töltött időtartamok megnevezése
 
-## V.
+## 4.2. a korábbi munkahely megnevezése, a jogviszony kezdetének időpontja,
 
-## – a honvédelmi alkalmazottat foglalkoztató szerv neve, székhelye, statisztikai számjele
+## 4.3. a korábbi jogviszony típusának megnevezése,
 
-## – e szervnél a honvédelmi alkalmazotti jogviszony kezdete
+## 4.4. a korábbi munkaköre, beosztása,
 
-## – a honvédelmi alkalmazott jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, FEOR-száma
+## 4.5. a korábbi jogviszony megszűnés módja, időpontja.
 
-## – címadományozás, jutalmazás, kitüntetés adatai
+## 5. A honvédelmi alkalmazott fennálló jogviszonyával kapcsolatos adatok:
 
-## – a minősítések időpontja és tartalma
+## 5.1. a honvédelmi alkalmazotti jogviszony számított kezdete,
 
-## VI.
+## 5.2. a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte,
 
-## – személyi juttatások
+## 5.3. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok,
 
-## VII.
+## 5.4. nemzetbiztonsági ellenőrzés elrendelésére, eredményére vonatkozó adatok,
 
-## – a honvédelmi alkalmazott munkából való távollétének jogcíme és időtartama
+## 5.5. vagyonnyilatkozat-tételi kötelezettségre vonatkozó adatok.
 
-## VIII.
+## 6. A honvédelmi alkalmazott foglalkoztatására vonatkozó adatok:
 
-## – a honvédelmi alkalmazotti jogviszony megszűnésének, valamint a végleges és a határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai
+## 6.1. a honvédelmi alkalmazottat jelenleg foglalkoztató szerv neve, székhelye, statisztikai számjele,
 
-## IX.
+## 6.2. e szervnél a honvédelmi alkalmazotti jogviszony kezdete,
 
-## – a honvédelmi alkalmazott munkavégzésre irányuló egyéb jogviszonyával összefüggő adatai
+## 6.3. pályázatának adatai,
+
+## 6.4. a honvédelmi alkalmazott jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, FEOR-száma,
+
+## 6.5. címadományozás, jutalmazás, kitüntetés adatai,
+
+## 6.6. a minősítések időpontja és tartalma,
+
+## 6.7. kötelező alkalmassági vizsgálatokra vonatkozó adatok,
+
+## 6.8. kötelező és önkéntes elhatározás alapján teljesített képzésre vonatkozó információk,
+
+## 6.9. kártérítési, fegyelmi felelősségre, hatályos fegyelmi büntetésre vonatkozó adatok,
+
+## 6.10. személyi juttatásokra, támogatásokra vonatkozó adatok,
+
+## 6.11. célfeladatra vonatkozó adatok,
+
+## 6.12. a honvédelmi alkalmazott munkából való távollétének jogcíme és időtartama,
+
+## 6.13. a honvédelmi alkalmazotti jogviszony megszűnésének, valamint a végleges és a határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai,
+
+## 6.14. az állami készfizető kezességvállalással összefüggő adatok.
+
+## 7. A honvédelmi alkalmazott egyéb foglalkoztatására vonatkozó adatok:
+
+## 7.1. a honvédelmi alkalmazott munkavégzésre irányuló egyéb jogviszonyával összefüggő adatai,
+
+## 7.2. kinevezéstől eltérő foglalkoztatás adatai.
