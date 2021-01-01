@@ -4,4 +4,4 @@
 
 ## 18. A nyugdíjemelés, egyes illetmények és meghatározott díjak, támogatások és járadékok alapjának mértéke
 
-59. §
+59. § A 2021 januárjában a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. § (1) és (2) bekezdése alapján esedékes nyugdíjemelés meghatározásánál 3,0%-os fogyasztói árnövekedést kell figyelembe venni.

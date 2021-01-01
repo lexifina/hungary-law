@@ -1,1 +1,1 @@
-14. §
+14. § A LXXII. Egészségbiztosítási és Járvány Elleni Védekezési Alap fejezet, 1. cím, 2. Egészségbiztosítási ellátások kiadásai alcímen belül az időarányoshoz viszonyított évközi előirányzat-túllépést a 7. Gyógyító-megelőző ellátás jogcímcsoport, a 10. Gyógyszertámogatás jogcímcsoport, a 11. Gyógyászati segédeszköz támogatás jogcímcsoport, továbbá a 13. jogcímcsoport, 2. Külföldön tervezett egészségügyi ellátások megtérítése jogcím esetében az államháztartásért felelős miniszter engedélyezheti.

@@ -1,1 +1,1 @@
-16. §
+16. § A LXXII. Egészségbiztosítási és Járvány Elleni Védekezési Alap fejezet, 1. cím, 2. Egészségbiztosítási ellátások kiadásai alcímen belül az adott előirányzat terhére különös méltánylást érdemlő körülmények esetén táppénz, csecsemőgondozási díj és gyermekgondozási díj megállapítására együttesen 200,0 millió forint, rokkantsági, rehabilitációs ellátás megállapítására 150,0 millió forint, gyógyító-megelőző ellátásra 3911,3 millió forint, gyógyszertámogatásra 18 000,0 millió forint, gyógyászati segédeszköz támogatásra 2500,0 millió forint használható fel.
