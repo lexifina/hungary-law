@@ -4,7 +4,7 @@
 
 a) a közforgalmú személyszállítási szolgáltatást teljesítő közlekedési szolgáltató,
 
-b) a nemzeti mobilfizetési tevékenységet végző szervezet,
+b) az egységes elektronikus értékesítési rendszer működtetője,
 
 c) a 35/A. §-ban meghatározott működtető, továbbá
 

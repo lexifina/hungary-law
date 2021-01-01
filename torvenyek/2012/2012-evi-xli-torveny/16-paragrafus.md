@@ -1,8 +1,4 @@
-16. § (1) Ha az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy az autóbuszos hatóság határozatában meghatározott valamely kötelezettség megsértését
-
-a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jogsértő magatartás folytatását vagy
-
-b) piacfelügyeleti bírságot szab ki.
+16. § (1) Ha az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy az autóbuszos hatóság határozatában meghatározott valamely kötelezettség megsértését, piacfelügyeleti bírságot szab ki.
 
 (2) A kötelezettségek további súlyos megszegése esetén az autóbuszos hatóság kezdeményezi a működési engedély felfüggesztését vagy visszavonását.
 

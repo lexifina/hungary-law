@@ -1,6 +1,6 @@
 ## 9/B. Személyszállítási szolgáltatást közvetítő vagy szervező szolgáltatásra vonatkozó szabályok
 
-12/B. § (1) A közlekedési hatóság elrendeli az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (ezen alcím alkalmazásában a továbbiakban: elektronikus adat), amelynek a szolgáltatás működtetője által hozzáférhetővé tétele olyan üzletszerűen végzett személyszállítási szolgáltatást közvetítő vagy szervező szolgáltatás
+12/B. § (1) A közlekedési hatóság intézkedésként elrendeli az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (ezen alcím alkalmazásában a továbbiakban: elektronikus adat), amelynek a szolgáltatás működtetője által hozzáférhetővé tétele olyan üzletszerűen végzett személyszállítási szolgáltatást közvetítő vagy szervező szolgáltatás
 
 a) igénybevételét biztosítja vagy
 
