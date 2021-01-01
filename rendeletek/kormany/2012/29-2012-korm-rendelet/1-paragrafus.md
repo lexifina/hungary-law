@@ -12,7 +12,7 @@ d)[^3] az önkormányzati főtanácsadói és önkormányzati tanácsadói munka
 
 e)[^4] az aljegyzőre, a jegyzőre, valamint a főjegyzőre;
 
-f)[^5] a Nemzeti Adó- és Vámhivatalnál foglalkoztatott kormánytisztviselőkre.
+f)[^5]
 
 (3) A (2) bekezdés b) pontjában meghatározott szervezeteknél a képesítési előírásokat a hivatal vezetője állapítja meg.
 
@@ -20,4 +20,4 @@ f)[^5] a Nemzeti Adó- és Vámhivatalnál foglalkoztatott kormánytisztviselők
 [^2]: Az 1. § (2) bekezdés c) pontját a 88/2019. (IV. 23.) Korm. rendelet 114. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (2) bekezdés d) pontja a 88/2019. (IV. 23.) Korm. rendelet 110. §-ával megállapított szöveg.
 [^4]: Az 1. § (2) bekezdés e) pontja a 415/2012. (XII. 29.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdés f) pontját a 396/2012. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
+[^5]: Az 1. § (2) bekezdés f) pontját a 396/2012. (XII. 20.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 671/2020. (XII. 28.) Korm. rendelet 22. §-a.

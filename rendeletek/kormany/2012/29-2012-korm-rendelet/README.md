@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-29-20-2
 | 2020-01-01 | 2012-29-20-22.25 | 70/2015. (III. 30.) Korm. rendelet |
 | 2020-02-15 | 2012-29-20-22.26 | 443/2016. (XII. 16.) Korm. rendelet |
 | 2020-03-01 | 2012-29-20-22.27 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-01-01 | 2012-29-20-22.28 | 396/2012. (XII. 20.) Korm. rendelet |
