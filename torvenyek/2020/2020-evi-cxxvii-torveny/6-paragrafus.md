@@ -1,0 +1,3 @@
+6. § Az Ebktv. a következő 67. §-sal egészül ki:
+
+„67. § A 14. § (1) bekezdés j) pontja a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezést állapít meg.”
