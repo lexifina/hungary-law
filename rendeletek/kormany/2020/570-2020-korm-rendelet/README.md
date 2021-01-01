@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-570-20-
 | 2020-12-10 | 2020-570-20-22.1 | 570/2020. (XII. 9.) Korm. rendelet |
 | 2020-12-23 | 2020-570-20-22.2 | 645/2020. (XII. 22.) Korm. rendelet |
 | 2020-12-24 | 2020-570-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-01-01 | 2020-570-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |

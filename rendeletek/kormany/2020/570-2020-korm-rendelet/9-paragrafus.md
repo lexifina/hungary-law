@@ -1,4 +1,4 @@
-## 8. §[^1]
+## 8. § Az egészségügyi készlet megóvása érdekében eljáró vagyonőr a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvényben (a továbbiakban: Szvmt.) meghatározott jogkörét gyakorolja azzal az eltéréssel, hogy az emberi méltóság tiszteletben tartásával jogosult az érintett beleegyezése nélkül ruházat, csomag, jármű átvizsgálására az Szvmt. 28. § (1) bekezdésében meghatározott feltételek hiányában is.
 
 ## 6. A közigazgatási hatósági eljárásban alkalmazott közmeghallgatással kapcsolatos szabályok eltérő alkalmazásáról
 
@@ -15,5 +15,3 @@
 (6) Az (1)–(5) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha jogszabály az eljárásban a közmeghallgatás megtartását az eljáró hatóságtól eltérő szerv vagy személy feladatává teszi.
 
 (7) Ha az eljáró hatóság a közmeghallgatás-tartási kötelezettségének nem tesz eleget, a közmeghallgatást a mulasztásról szóló bejelentést követő 30 napon belül az eljáró hatóság székhelye szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) tartja meg. Ha az eljáró hatóság a (2)–(5) bekezdésben foglaltakat nem teljesítette, a közmeghallgatás előkészítése – a 30 napos határidőn belül – a kormányhivatal feladata.
-
-[^1]: A 8. § a 14. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
