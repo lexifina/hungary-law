@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-27-00-00
 | 2015-06-05 | 2015. évi LXVII. törvény | 1998-27-00-00.18 |
 | 2018-01-01 | 2017. évi L. törvény | 1998-27-00-00.19 |
 | 2020-03-01 | 2019. évi CX. törvény | 1998-27-00-00.20 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1998-27-00-00.21 |
