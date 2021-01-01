@@ -90,9 +90,11 @@ támogatása.
 
 (19) Ha az adózó az adócsökkentés érvényesítését megelőző valamelyik üzleti év adózás előtti eredményének terhére számolta el ráfordításként az adócsökkentés alapjául szolgáló támogatási összeget, akkor – a társasági adóban már keletkezett adóelőny utólagos megfizetése céljából – a támogatás nyújtása és az adócsökkentés elszámolása üzleti éveire vonatkozó társasági adó adóalapjának megállapításakor úgy kell eljárnia (az adózás előtti eredmény módosítása révén), mintha a támogatást az adócsökkentés üzleti évében számolta volna el ráfordításként. Ilyen esetben az adózó az adócsökkentés érvényesítését tartalmazó adóbevallás benyújtását követő 30 napon belül köteles az érintett üzleti évre (adóévre) vonatkozó társaságiadó-bevallását – a (18) bekezdésben foglaltakat is figyelembe véve – módosítani. A módosítás során az adózó egyebekben az önellenőrzésre irányadó rendelkezéseket alkalmazza azzal az eltéréssel, hogy az önellenőrzési pótlékot a késedelmi pótléknak megfelelő mértékkel állapítja meg.
 
-(20)
+(20) A hitelintézetek járványügyi helyzettel összefüggő 2020. adóévi különadójának e törvény és a Gazdaságvédelmi Akcióterv végrehajtása érdekében a Járványügyi Alap feltöltését szolgáló, hitelintézetek járványügyi helyzettel összefüggő különadójáról szóló kormányrendelet alapján a hitelintézet által 2020. adóévben megfizetett összege adóvisszatartás formájában csökkenti a hitelintézet (jogutódja) (1)–(4), (6), (8), (9), (10) és (38)–(39) bekezdés alapján megállapított fizetendő különadójának összegét.
 
-(21)–(29)
+(21) A (20) bekezdés szerinti csökkentést a hitelintézet a 2020. adóévét követő 5 adóévében, adóévente legfeljebb a 2020. adóévi hitelintézetek járványügyi különadója kötelezettsége 20 százalékának megfelelő összegben alkalmazhatja. Az igénybe vett összegről a hitelintézet nyilvántartást vezet.
+
+(22)–(29)
 
 (30)–(37)
 

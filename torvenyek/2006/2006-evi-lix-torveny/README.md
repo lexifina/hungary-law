@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-59-00-00
 | 2019-01-01 | 2018. évi XLI. törvény | 2006-59-00-00.30 |
 | 2020-06-10 | 2020. évi XLVI. törvény | 2006-59-00-00.31 |
 | 2020-11-27 | 2020. évi CXVIII. törvény | 2006-59-00-00.32 |
+| 2021-01-01 | 2020. évi XLVI. törvény | 2006-59-00-00.33 |
