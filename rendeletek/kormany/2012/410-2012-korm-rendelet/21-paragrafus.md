@@ -1,4 +1,4 @@
-21. §[^130] (1) A (2)–(5) bekezdésben meghatározott eljárásrend követendő
+21. §[^127] (1) A (2)–(5) bekezdésben meghatározott eljárásrend követendő
 
 a) bezárás,
 
@@ -12,13 +12,13 @@ e) beolvadás
 
 bejelentésének elmulasztása vagy téves adatszolgáltatás esetén, ha a mulasztás a létesítmény üzemeltetője számára olyan kibocsátási egységek jóváírását eredményezi az adott létesítményhez rendelt üzemeltetői számlán, amelyekre egyébként az üzemeltető már nem lett volna jogosult.
 
-(2) A miniszter határozatban kötelezi az üzemeltetőt
+(2)[^128] A hatóság határozatban kötelezi az üzemeltetőt
 
 a) a határozat kézhezvételétől számított 45 napos határidő tűzésével a mulasztás okáról való nyilatkozattételre és ezzel egyidejűleg a benyújtani elmulasztott adatok benyújtására, valamint
 
-b)[^131] a bejelentés elmulasztása miatt az üzemeltető részére jogosulatlanul jóváírt többlet térítésmentes kibocsátási egységnek a hatóság (6) bekezdés szerinti határozatát követő visszautalására.
+b)[^129] a bejelentés elmulasztása miatt az üzemeltető részére jogosulatlanul jóváírt többlet térítésmentes kibocsátási egységnek a hatóság (6) bekezdés szerinti határozatát követő visszautalására.
 
-(3) A miniszter az üzemeltetői nyilatkozat és a benyújtott adatok kézhezvételét követő 30 napon belül tájékoztatja az Európai Bizottságot
+(3)[^130] A hatóság az üzemeltetői nyilatkozat és a benyújtott adatok kézhezvételét követő 30 napon belül tájékoztatja az Európai Bizottságot
 
 a) a mulasztás tényéről,
 
@@ -28,11 +28,11 @@ c) a határozat tartalmáról és annak üzemeltető általi átvételét igazol
 
 d) az üzemeltetői nyilatkozat beérkezésének időpontjáról és annak tartalmáról.
 
-(4) A miniszter a (3) bekezdésben meghatározott tájékoztatással egyidejűleg benyújtja a vonatkozó nemzeti kiosztási tábla módosítására vonatkozó javaslatát az Európai Bizottságnak.
+(4)[^131] A hatóság a (3) bekezdésben meghatározott tájékoztatással egyidejűleg benyújtja a vonatkozó nemzeti kiosztási tábla módosítására vonatkozó javaslatát az Európai Bizottságnak.
 
-(5) Ha az üzemeltető a teljesítésre előírt határidőn belül a (2) bekezdésben meghatározott nyilatkozattételi kötelezettségének nem tesz eleget, úgy a miniszter a határidő eredménytelen elteltét követően a 20. § (1) bekezdésében meghatározott bírságtétel megfizetésére kötelezi.
+(5)[^132] Ha az üzemeltető a teljesítésre előírt határidőn belül a (2) bekezdésben meghatározott nyilatkozattételi kötelezettségének nem tesz eleget, úgy a hatóság a határidő eredménytelen elteltét követően a 20. § (1) bekezdésében meghatározott bírságtétel megfizetésére kötelezi.
 
-(6) A (3) bekezdés szerinti miniszteri tájékoztatás és módosítási javaslat Európai Bizottság általi jóváhagyását követően a hatóság – a miniszter tájékoztatását követően – az üzemeltetőt határozatban kötelezi
+(6)[^133] A (3) bekezdés szerinti hatósági tájékoztatás és módosítási javaslat Európai Bizottság általi jóváhagyását követően a hatóság az üzemeltetőt határozatban kötelezi
 
 a) a határozat kézhezvételétől számított 30 napos teljesítési határidő megjelölésével az üzemeltetői számlán jogosulatlanul jóváírt kibocsátási egységmennyiség visszautalására, amennyiben annak az üzemeltető még nem tett eleget,
 
@@ -40,10 +40,16 @@ b) a visszautalás napjáig napi 20 000-től 100 000 forintig terjedő bírság 
 
 c) a (2) bekezdés szerinti kötelezettség határidőben történő teljesítésének elmulasztásáért a 20. § (1) bekezdése alapján meghatározott bírságtétel megfizetésére.
 
-(7) A hatóság a miniszteri döntés alapján indított eljárásról és annak eredményéről a minisztert az eljárást lezáró döntés megküldésével értesíti.
+(7)[^134]
 
-(8)[^132] Ha nem az üzemeltető mulasztásából eredően van a számláján a jogoshoz képest többlet kibocsátási egységmennyiség, akkor a miniszter határozatban megállapítja a kibocsátási egységek mennyiségét, valamint kötelezi az üzemeltetőt a többlet-egység visszautalására a határozat véglegessé válásától számított 30 napon belül.
+(8)[^135] Ha nem az üzemeltető mulasztásából eredően van a számláján a jogoshoz képest többlet kibocsátási egységmennyiség, akkor a hatóság határozatban megállapítja a kibocsátási egységek mennyiségét, valamint kötelezi az üzemeltetőt a többlet-egység visszautalására a határozat véglegessé válásától számított 30 napon belül.
 
-[^130]: A 21. § a 394/2016. (XII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^131]: A 21. § (2) bekezdés b) pontja a 76/2019. (IV. 10.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^132]: A 21. § (8) bekezdését a 76/2019. (IV. 10.) Korm. rendelet 7. §-a iktatta be.
+[^127]: A 21. § a 394/2016. (XII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^128]: A 21. § (2) bekezdés nyitó szövegrésze az 527/2020. (XI. 26.) Korm. rendelet 15. § 24. pontja szerint módosított szöveg.
+[^129]: A 21. § (2) bekezdés b) pontja a 76/2019. (IV. 10.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^130]: A 21. § (3) bekezdés nyitó szövegrésze az 527/2020. (XI. 26.) Korm. rendelet 15. § 25. pontja szerint módosított szöveg.
+[^131]: A 21. § (4) bekezdése az 527/2020. (XI. 26.) Korm. rendelet 15. § 26. pontja szerint módosított szöveg.
+[^132]: A 21. § (5) bekezdése az 527/2020. (XI. 26.) Korm. rendelet 15. § 27. pontja szerint módosított szöveg.
+[^133]: A 21. § (6) bekezdés nyitó szövegrésze az 527/2020. (XI. 26.) Korm. rendelet 15. § 28. pontja és 16. § i) pontja szerint módosított szöveg.
+[^134]: A 21. § (7) bekezdését az 527/2020. (XI. 26.) Korm. rendelet 16. § j) pontja hatályon kívül helyezte.
+[^135]: A 21. § (8) bekezdését a 76/2019. (IV. 10.) Korm. rendelet 7. §-a iktatta be, szövege az 527/2020. (XI. 26.) Korm. rendelet 15. § 29. pontja szerint módosított szöveg.

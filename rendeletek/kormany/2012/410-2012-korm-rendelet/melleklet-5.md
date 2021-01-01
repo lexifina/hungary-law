@@ -1,10 +1,10 @@
-5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^179]
+5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^190]
 
 A kibocsátások nyomon követésére és jelentésére vonatkozó szabályok
 
 Egyes tüzelőanyagok országspecifikus értékei
 
-A) Ha a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus fűtőérték és kibocsátási tényező alkalmazását, az alábbi 1. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál. Ha a táblázatban nem szerepel az adott tüzelőanyag-típus, akkor a 601/2012/EU bizottsági rendelet VI. melléklet 1. pont 1. táblázatában szereplő értékeket kell figyelembe venni. Ha egy adott tüzelőanyagra sem az alábbi 1. táblázat, sem a 601/2012/EU bizottsági rendelet VI. melléklet 1. pont 1. táblázata nem tartalmaz vonatkozó értékeket, úgy azokat egyedileg kell meghatározni.
+A) Ha az (EU) 2018/2066 bizottsági végrehajtási rendelet lehetővé teszi országspecifikus fűtőérték és kibocsátási tényező alkalmazását, az alábbi 1. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál. Ha a táblázatban nem szerepel az adott tüzelőanyag-típus, akkor az (EU) 2018/2066 bizottsági végrehajtási rendelet VI. melléklet 1. pont 1. táblázatában szereplő értékeket kell figyelembe venni. Ha egy adott tüzelőanyagra sem az alábbi 1. táblázat, sem az (EU) 2018/2066 bizottsági végrehajtási rendelet VI. melléklet 1. pont 1. táblázata nem tartalmaz vonatkozó értékeket, úgy azokat egyedileg kell meghatározni.
 
 1. táblázat: Országspecifikus tüzelőanyag fűtőértékek és kibocsátási tényezők
 
@@ -50,4 +50,4 @@ A) Ha a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus fűt
 
 | 4 | Gáz | 1 |
 
-[^179]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^190]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított, az 527/2020. (XI. 26.) Korm. rendelet 15. § 41. pontja szerint módosított szöveg.
