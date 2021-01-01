@@ -1,6 +1,6 @@
 ### 269. § [Az adópolitikáért felelős miniszter számára adott felhatalmazások]
 
-(1) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az önkormányzati adóhatóság által rendszeresíthető bevallási, bejelentési, bejelentkezési nyomtatványok adattartalmát rendeletben határozza meg.
+(1)
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy a belföldön letelepedett adóalanynak az Európai Unió más tagállamában érvényesíthető hozzáadottértékadó-visszatéríttetési kérelme, kiigazítási nyilatkozata adattartalmára, formátumára, kitöltésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
@@ -38,4 +38,4 @@ módjára és az adóhatóság rendelkezésére bocsátandó fájlok adatszerkez
 
 (10) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER hatálya alá tartozó termékértékesítést, termékbeszerzést és egyéb célú termékmozgatást, az EKAER működésével kapcsolatos szabályokat, az EKAER hatálya alóli mentesülés eseteit, valamint a kockázati biztosítékkal kapcsolatos szabályokat, különösen az EKAER szám megállapításának rendjét, a személyes adatok kivételével a bejelentendő adatok körét, a bejelentésre kötelezettek körét, a bejelentési kötelezettség teljesítése alóli egyedi mentesítés szabályait, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel, az EKAER szám lezárásával, lezárt bejelentés módosításával kapcsolatos szabályokat rendeletben határozza meg.
 
-(11) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott rendeletben határozza meg az EKAER működésével összefüggésben a kockázatos termékek körét.
+(11) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER bejelentési kötelezettséggel érintett termékek körét – az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott – rendeletben határozza meg.

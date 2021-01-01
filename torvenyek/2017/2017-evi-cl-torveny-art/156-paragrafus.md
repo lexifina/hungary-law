@@ -4,7 +4,7 @@
 
 (2) Az automatikus fizetési könnyítésről az állami adó- és vámhatóság a kérelem beérkezésétől számított tizenöt napon belül határozatot hoz, amelyet elektronikus úton kézbesít.
 
-(3) Az automatikus fizetési könnyítés kizárólag akkor engedélyezhető, ha a kérelmező nettó módon számított adótartozása az elbírálás időpontjában nem haladja meg a másfél millió forintot. Ha a megbízható adózó az automatikus fizetési könnyítés feltételeinek nem felel meg, úgy kérelmét az állami adó- és vámhatóság az általános szabályok szerint bírálja el.
+(3) Az automatikus fizetési könnyítés kizárólag akkor engedélyezhető, ha a kérelmező nettó módon számított adótartozása az elbírálás időpontjában nem haladja meg a hárommillió forintot. Ha a megbízható adózó az automatikus fizetési könnyítés feltételeinek nem felel meg, úgy kérelmét az állami adó- és vámhatóság az általános szabályok szerint bírálja el.
 
 (4) Ha az adózó az esedékes részlet befizetését nem teljesíti, az automatikus fizetési könnyítés érvényét veszti, és a tartozás egy összegben esedékessé válik. Ez esetben az állami adó- és vámhatóság a fennmaradó tartozásra az eredeti esedékességtől késedelmi pótlékot számít fel.
 

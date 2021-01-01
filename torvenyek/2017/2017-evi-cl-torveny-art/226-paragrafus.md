@@ -1,15 +1,13 @@
 ### 226. § [Igazolatlan eredetű áru forgalmazása és EKAER bejelentési kötelezettség nem előírásszerű teljesítése]
 
-(1) Ha az adózó igazolatlan eredetű árut forgalmaz, terhére az adóhatóság az áru forgalmi értékének negyven százalékáig terjedő, de természetes személy adózó esetében legalább kettőszázezer forintig, nem természetes személy adózó esetében ötszázezer forintig terjedő mulasztási bírságot szabhat ki.
+(1) Ha az adózó igazolatlan eredetű árut forgalmaz, terhére az adóhatóság az áru forgalmi értékének negyven százalékáig terjedő, de természetes személy adózó esetében legalább kettőszázezer forint, nem természetes személy adózó esetében legalább ötszázezer forint mulasztási bírságot szabhat ki.
 
-(2) Ha az adózó
+(2) Ha az adózó egy termékegységbe tartozó fuvarozott termék tekintetében nem tett eleget EKAER bejelentési kötelezettségének, az állami adó- és vámhatóság az adózó terhére a be nem jelentett áru adó nélküli értékének negyven százalékáig terjedő mulasztási bírságot szabhat ki.
 
-a) a fuvarozott termék vagy annak egy része tekintetében nem tett eleget EKAER bejelentési kötelezettségének, vagy
+(3) Ha az adózó egy termékegységbe tartozó fuvarozott termék tekintetében az EKAER bejelentési kötelezettségét úgy teljesítette, hogy a bejelentett termék mennyisége eltér a ténylegesen fuvarozott termék mennyiségétől, akkor a termék be nem jelentett mennyisége adó nélküli értékének, illetve a bejelentett, de ténylegesen nem fuvarozott termék adó nélküli értékének negyven százalékáig terjedő mulasztási bírság szabható ki.
 
-b) a bejelentési kötelezettségét hibásan, valótlan adattartalommal vagy hiányosan teljesíti,
+(4) Ha az adózó egy termékegységbe tartozó fuvarozott termék tekintetében az EKAER bejelentési kötelezettségét úgy teljesítette, hogy a fuvarozott termék bejelentett értéke eltér a tényleges adó nélküli értékétől, akkor a bejelentett termékérték és a tényleges adó nélküli termékérték különbözete után negyven százalékig terjedő mulasztási bírság szabható ki, feltéve, hogy az adózóval szemben a (3) bekezdés szerint mulasztási bírság kiszabásának nincs helye.
 
-az állami adó- és vámhatóság az adózó terhére a be nem jelentett, illetve a hibásan, valótlan adattartalommal vagy hiányosan bejelentett áru értékének negyven százalékáig terjedő mulasztási bírságot szabhat ki.
+(5) Ha az adózó – kivéve a termék mennyiségére, illetve értékére vonatkozó bejelentési kötelezettség (3) és (4) bekezdés szerinti megsértését – egy termékegység tekintetében az EKAER bejelentési kötelezettségét nem a jogszabálynak megfelelő adattartalommal teljesíti, az állami adó- és vámhatóság a 220. § (1) bekezdésében foglaltak szerint jár el.
 
-(3) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó az EKAER bejelentési kötelezettségét valótlan adattartalommal úgy teljesítette, hogy a bejelentett termék mennyisége meghaladja a ténylegesen fuvarozott termék mennyiségét, akkor az adózó terhére a bejelentett, de ténylegesen nem fuvarozott áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.
-
-(4) A (2) bekezdéstől eltérően nincs helye mulasztási bírság megállapításának, ha az adózó igazolja, hogy úgy járt el, ahogy az az adott helyzetben tőle elvárható.
+(6) A (2)–(5) bekezdéstől eltérően nincs helye mulasztási bírság megállapításának, ha az adózó igazolja, hogy úgy járt el, ahogy az az adott helyzetben tőle elvárható.

@@ -20,7 +20,7 @@ b) a beszedett adóra,
 
 c) a kifizető által a természetes személytől levont járulék,
 
-d) az Áfa tv. szerinti csoportos adóalany számára a csoportos adóalanyiság időszakában.
+d) az Áfa tv. szerinti csoportos adóalany és a Tao tv. szerinti csoportos társasági adóalany számára a csoportos adóalanyiság időszakában.
 
 (4) Természetes személy esetében a fizetési könnyítés az (1) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy az adó azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent.
 

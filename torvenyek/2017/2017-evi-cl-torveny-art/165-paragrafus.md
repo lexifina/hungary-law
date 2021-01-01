@@ -4,9 +4,9 @@
 
 a) ötmillió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén nyolcmillió forint,
 
-b) tartós feltételes adómegállapítás iránti kérelem esetén nyolcmillió forint, a tartós feltételes adómegállapítás iránti kérelem sürgősségi eljárásban történő elbírálása esetén tizenegymillió forint.
+b)
 
-(2) Ha az adózó feltételes adómegállapítás iránti kérelmében tartós feltételes adómegállapítás iránti kérelmet is előterjeszt, a díj fizetésére a tartós feltételes adómegállapítási kérelem elbírálásának díjára irányadó rendelkezéseket kell alkalmazni.
+(2)
 
 (3) A díjat a kérelem benyújtásakor hiánytalanul meg kell fizetni. Ennek elmulasztása esetén az adópolitikáért felelős miniszter – nyolcnapos határidő tűzésével – a díj hiánytalan megfizetésére hívja fel az adózót.
 

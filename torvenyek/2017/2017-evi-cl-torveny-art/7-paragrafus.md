@@ -24,7 +24,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 8. áfa-regisztrált adóalany: olyan, belföldön gazdasági célú letelepedéssel, lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön általános forgalmi adó köteles tevékenységet folytat, amely tekintetében ő az adófizetésre kötelezett,
 
-9. Alapok: a Nemzeti Foglalkoztatási Alap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap,
+9. Alapok: a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap,
 
 9a. alapok alapját végrehajtó szervezet: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló Kormányrendelet szerint meghatározott pénzügyi eszközöket végrehajtó szervezet.
 
@@ -155,6 +155,8 @@ c) ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye
 47. telephely: az a hely, ahol az adóköteles tevékenységet folytatják, ideértve különösen a vállalkozó állandó üzleti (üzemi), termelő-, szolgáltatótevékenységének helyét függetlenül attól, hogy a telephely a vállalkozás székhelyétől különböző közigazgatási területen található,
 
 48. tényleges üzletvezetés helye: a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a Tao tv. alkalmazásában a tényleges üzletvezetési hely, üzletvezetés helye,
+
+48a. termékegység: egy feladótól egy címzett részére, egy gépjárművel, a gépjármű adott útvonalon történő egyszeri mozgása során fuvarozott termék,
 
 49. tételes elszámolású fizetési kötelezettség: vám, importtermék általános forgalmi adó, regisztrációs adó, importtal kapcsolatos jövedéki adó,
 

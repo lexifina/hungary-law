@@ -1,6 +1,6 @@
 ### 217. § [Az adóhiány]
 
-(1) Adóhiánynak minősül az adózó terhére megállapított adókülönbözet, önadózás esetén csak akkor, ha az adókülönbözetet az esedékesség időpontjáig nem fizették meg, illetve a költségvetési támogatást igénybe vették. Az eredeti esedékesség napján fennálló túlfizetést az adófizetési kötelezettség teljesítéseként csak akkor lehet figyelembe venni, ha a túlfizetés az ellenőrzés megkezdésének napján is fennáll.
+(1) Adóhiánynak minősül az adózó terhére megállapított adókülönbözet, önadózás esetén csak akkor, ha az adókülönbözetet az esedékesség időpontjáig nem fizették meg, illetve a költségvetési támogatást igénybe vették. Az eredeti esedékesség napján fennálló túlfizetést az adófizetési kötelezettség teljesítéseként csak akkor lehet figyelembe venni, ha a túlfizetés az ellenőrzés megkezdésének napján is fennáll, és nem kérték a kiutalását, átvezetését.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően nem minősül adóhiánynak a vagyonszerzési illeték alapjának utólagos adómegállapítással történő módosítása, továbbá kivetéses helyi adó esetén adatbejelentés, közhiteles nyilvántartás vagy az építésügyi hatóság e törvény szerinti adatszolgáltatása alapján kivetett adóhoz képest utólagos adómegállapítás keretében az adózó terhére megállapított adókülönbözet.
 
