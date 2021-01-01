@@ -62,7 +62,7 @@
 
 ## 2. Aktív időbeli elhatárolások értékvesztése (–)
 
-## D)[^82] Származékos ügyletek értékelési különbözete
+## D)[^83] Származékos ügyletek értékelési különbözete
 
 ## FORRÁSOK (PASSZÍVÁK)
 
@@ -82,7 +82,7 @@
 
 ## 3. Előző év(ek) eredménye
 
-## 4.[^83] Tárgyévi eredmény
+## 4.[^84] Tárgyévi eredmény
 
 ## F) Céltartalékok
 
@@ -146,7 +146,7 @@
 
 ## 2. Aktív időbeli elhatárolás értékvesztése (–)
 
-## D)[^84] Származékos ügyletek értékelési különbözete
+## D)[^85] Származékos ügyletek értékelési különbözete
 
 ## FORRÁSOK (PASSZÍVÁK)
 
@@ -166,7 +166,7 @@
 
 ## 3. Előző év(ek) eredménye
 
-## 4. Üzleti év eredménye
+## 4.[^86] Tárgyévi eredmény
 
 ## F) Céltartalékok
 
@@ -180,7 +180,7 @@
 
 ## H) Passzív időbeli elhatárolások
 
-2. számú melléklet a 215/2000. (XII. 11.) Korm. rendelethez[^85]
+2. számú melléklet a 215/2000. (XII. 11.) Korm. rendelethez[^87]
 
 I. Az ingatlanalap eredménykimutatásának előírt tagolása
 
@@ -220,7 +220,8 @@ VI. Fizetett, fizetendő hozamok
 
 VII. Tárgyévi eredmény
 
-[^82]: A 1. számú melléklet „I. Az ingatlanalap mérlegének előírt tagolása” cím az „ESZKÖZÖK (AKTÍVÁK)” alcím „D)” fősor a 480/2016. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^83]: Az 1. számú melléklet „I. Az ingatlanalap mérlegének előírt tagolása” cím, „FORRÁSOK (PASSZÍVÁK)” alcím, „E. Saját tőke, II. Tőkeváltozás (tőkenövekmény)” fősor 4. pontja a 484/2015. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^84]: A 1. számú melléklet „II. Az értékpapíralap mérlegének előírt tagolása” cím az „ESZKÖZÖK (AKTÍVÁK)” alcím „D)” fősor a 480/2016. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^85]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^83]: A 1. számú melléklet „I. Az ingatlanalap mérlegének előírt tagolása” cím az „ESZKÖZÖK (AKTÍVÁK)” alcím „D)” fősor a 480/2016. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^84]: Az 1. számú melléklet „I. Az ingatlanalap mérlegének előírt tagolása” cím, „FORRÁSOK (PASSZÍVÁK)” alcím, „E. Saját tőke, II. Tőkeváltozás (tőkenövekmény)” fősor 4. pontja a 484/2015. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^85]: A 1. számú melléklet „II. Az értékpapíralap mérlegének előírt tagolása” cím az „ESZKÖZÖK (AKTÍVÁK)” alcím „D)” fősor a 480/2016. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^86]: Az 1. számú melléklet „II. Az értékpapíralap mérlegének előírt tagolása” cím, „FORRÁSOK (PASSZÍVÁK)” alcím, „E) Saját tőke, II. Tőkeváltozás (tőkenövekmény)” fősor 4. pontja a 616/2020. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^87]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
