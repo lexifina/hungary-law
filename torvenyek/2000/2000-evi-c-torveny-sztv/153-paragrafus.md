@@ -8,7 +8,7 @@
 
 (2) Az anyavállalat a jóváhagyásra jogosult testület által elfogadott összevont (konszolidált) éves beszámolót a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt az összevont (konszolidált) éves beszámoló mérlegfordulónapját követő hatodik hónap utolsó napjáig köteles letétbe helyezni ugyanolyan formában és tartalommal (szövegezésben), mint amelynek alapján a könyvvizsgáló az összevont (konszolidált) éves beszámolót felülvizsgálta.
 
-(3)
+(3) Az a vállalkozó, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák, az éves beszámoló és az összevont (konszolidált) éves beszámoló (1) és (2) bekezdés szerinti letétbe helyezési kötelezettségének az adott üzleti év mérlegfordulónapját követő negyedik hónap utolsó napjáig köteles eleget tenni.
 
 (4) A letétbe helyezett éves beszámoló, egyszerűsített éves beszámoló, egyszerűsített beszámoló, összevont (konszolidált) éves beszámoló adatai, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt nyilvánosak, azokról bárki tájékoztatást kaphat, és másolatot készíthet.
 

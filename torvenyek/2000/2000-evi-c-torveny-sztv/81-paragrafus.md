@@ -42,13 +42,13 @@ a) a 41. § (1)–(2) és (4) bekezdése szerint az üzleti évben képzett cél
 
 b) a forgóeszközök között kimutatott – vásárolt követelésnek nem minősülő – követelésnek behajthatatlan követelésként az üzleti évben leírt összegét;
 
-c) az immateriális jószág, a tárgyi eszköz közvetlen értékesítésekor azok könyv szerinti értékét;
+c) az immateriális jószág, a tárgyi eszköz értékesítése esetén (ideértve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdés a) és c) pontja szerinti jogcímen történő átadása esetén az értékesítésből, az átadásból származó bevétel és a könyv szerinti érték különbözetét, amennyiben a könyv szerinti érték meghaladja a bevételt, az értékesítéskor, az átadáskor;
 
 d)
 
 e) a hiányzó, illetve a tárgyévben megsemmisült, az állományból kivezetett vásárolt és saját termelésű készlet könyv szerinti értékét;
 
-f) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelésnek a könyv szerinti értékét a követelés átruházásakor.
+f) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelés engedményes által elismert értékének és könyv szerinti értékének a különbözetét, amennyiben a könyv szerinti érték meghaladja az elismert értéket, a követelés átruházásakor.
 
 (4) Az egyéb ráfordítások között elkülönítetten kell kimutatni:
 

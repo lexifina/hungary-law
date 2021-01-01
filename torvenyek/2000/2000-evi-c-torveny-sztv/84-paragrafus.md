@@ -92,7 +92,7 @@ l) a kiírt opcióért kapott opciós díjat;
 
 m) a forgóeszközök között kimutatott vásárolt követelés könyv szerinti értékét meghaladó összegben befolyt pénzbevétel összegét;
 
-n) a vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – nyereségjellegű – különbözetet;
+n) a forgóeszközök között kimutatott vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – nyereségjellegű – különbözetet;
 
 o) a szerződésben meghatározott fizetési határidőn (esedékességen) belül történt pénzügyi rendezés esetén kapott – a szerződésben meghatározott, a pénzügyileg rendezendő ellenérték 3%-át meg nem haladó, nem számlázott – engedmény összegét;
 

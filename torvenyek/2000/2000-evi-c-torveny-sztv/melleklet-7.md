@@ -77,9 +77,3 @@ III. Finanszírozási cash flow
 IV. Pénzeszközök változása (I+II+III. sorok) +
 
 27. Devizás pénzeszközök átértékelése +
-
-V. Pénzeszközök mérleg szerinti változása (IV+27. sorok) +
-
-A cash flow-kimutatás sorainak tartalma
-
-A cash flow-kimutatásban a vállalkozó az előző év és a tárgyév adatait köteles feltüntetni.

@@ -74,7 +74,7 @@ k) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken
 
 l) a vásárolt eladási opcióért fizetett opciós díjat, a lejáratkor le nem hívott vételi opcióért fizetett opciós díjat, és a forgatási célú értékpapír beszerzéséhez kapcsolódóan felmerült, lehívott vételi opció opciós díját, ha ez utóbbit a vállalkozó a 61. § (2) bekezdése szerint a beszerzési értékben nem veszi figyelembe;
 
-m) a térítés nélkül átadott, elengedett, behajthatatlannak minősített, a forgóeszközök között kimutatott vásárolt követelés, valamint a hiányzó, megsemmisült, a forgóeszközök között kimutatott értékpapír könyv szerinti értékét, továbbá a vásárolt követelés könyv szerinti értékének azon részét, amelyre a befolyt összeg nem nyújt fedezetet;
+m) a térítés nélkül átadott, elengedett, behajthatatlannak minősített, a forgóeszközök között kimutatott vásárolt követelés, valamint a hiányzó, megsemmisült, a forgóeszközök között kimutatott értékpapír könyv szerinti értékét, továbbá a forgóeszközök között kimutatott vásárolt követelés könyv szerinti értékének azon részét, amelyre a befolyt összeg nem nyújt fedezetet;
 
 n) a forgóeszközök között kimutatott vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – veszteségjellegű – különbözetet;
 

@@ -26,7 +26,7 @@ a) az összevont (konszolidált) mérlegben kimutatott azon kötelezettségek te
 
 b) azoknak a pénzügyi kötelezettségeknek a teljes összegét, amelyek a pénzügyi helyzet értékelése szempontjából jelentőséggel bírnak, de nem jelennek meg az összevont (konszolidált) mérlegben. Ezek közül külön ki kell emelni a konszolidálásba teljeskörűen be nem vont leányvállalatokkal szembeni kötelezettségek összegét;
 
-c) az összevont (konszolidált) éves beszámolóba bevont vállalkozások tárgyévben foglalkoztatott munkavállalóinak átlagos statisztikai létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit, mindegyiket állománycsoportonkénti bontásban;
+c) az összevont (konszolidált) éves beszámolóba bevont vállalkozások tárgyévben foglalkoztatott munkavállalóinak átlagos létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit, mindegyiket állománycsoportonkénti bontásban;
 
 d) az anyavállalatnál az igazgatóság, az ügyvezetés (üzletvezetés), a felügyelő bizottság tagjainak tevékenységükért az üzleti év után járó járandóság összegét, ideértve a bérköltséget, a személyi jellegű egyéb kifizetéseket, a gazdasági társaság által átvállalt és így helyettük fizetett összegeket is, csoportonként összevontan, beleértve a leányvállalatoknál végzett tevékenység utáni járandóságokat is;
 

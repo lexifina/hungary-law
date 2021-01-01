@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2019-12-13 | 2019. évi C. törvény | 2000-100-00-00.66 |
 | 2020-01-01 | 2019. évi LXXIII. törvény | 2000-100-00-00.67 |
 | 2020-11-27 | 2020. évi CXVIII. törvény | 2000-100-00-00.68 |
+| 2021-01-01 | 2020. évi CXVIII. törvény | 2000-100-00-00.69 |
