@@ -20,8 +20,8 @@ e) az állami támogatást igénylő tag teljes bizonyító erejű magánokiratb
 
 (5) A Kincstár a nyilatkozatában köteles feltüntetni azt a körülményt is, hogy az érintett tag a közösséggel fennálló tagsági szerződésének megkötését megelőzően a lakástakarékpénztárakról szóló törvény alapján lakás-előtakarékossági szerződést kötött és betéte után – melynek lakáscélú felhasználását a közösségbe történő befizetés útján teljesítette – állami támogatásban részesült-e.
 
-(6)[^1] A tagot megillető állami támogatás kifizetése a központi költségvetés „Egyéb lakástámogatások” előirányzat terhére történik.
+(6)[^1] A tagot megillető állami támogatás kifizetése a központi költségvetés „Lakástámogatások” előirányzat terhére történik.
 
 (7) A Kincstár és a közösség, illetve a szervező közötti elszámolás érdekében a Kincstár az állami támogatás igénylésére, folyósítására és informatikai feldolgozására vonatkozó egységes eljárási rendet útmutatóban szabályozza.
 
-[^1]: A 41. § (6) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^1]: A 41. § (6) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 14. §-ával megállapított, a 686/2020. (XII. 29.) Korm. rendelet 28. §-a szerint módosított szöveg.
