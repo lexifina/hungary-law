@@ -47,3 +47,5 @@ a névjegyzékbe nem vehető fel.
 (5) Az (1) bekezdés j) pontja esetén a névjegyzéket vezető hatóság a névjegyzékbe a halál tényét hivatalból bejegyzi, és ezzel egyidejűleg az igazságügyi szakértőt a névjegyzékből törli.
 
 (6) Ha az igazságügyi szakértő névjegyzékből való törlésére az (1) bekezdés a), c), f)–h) pontja, vagy i) pont ib) vagy ic) alpontja alapján került sor, a névjegyzékbe való felvétel iránti újabb kérelme esetén az 5. § (2) bekezdés c) pontjában megjelölt kötelező szakértőjelölti jelölti időt vagy szakértőjelöltként kötelező szakmai közreműködőként elvégzett ügyszámot nem kell igazolnia.
+
+(7) Az (1) bekezdés d) és e) pontja, valamint i) pont ia) és ib) alpontja esetében figyelmeztetés közigazgatási szankció nem alkalmazható.
