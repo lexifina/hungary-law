@@ -26,7 +26,7 @@
 
 | 12. | A tervezett koncessziós tevékenység érint-e helyi természetvédelmi oltalom alatt álló (önkormányzati rendeletben meghatározott) területet, és a helyi építési szabályzatnak való megfelelése. | Települési önkormányzat jegyzője, fővárosban a főjegyző |
 
-| 13. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre, nyilvántartott műemléki értékre vagy műemlékre és műemléki területre vonatkozó követelmények. | kulturális örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal |
+| 13. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre vagy műemlékre és műemléki területre vonatkozó követelmények. | kulturális örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
 2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^25]
 
