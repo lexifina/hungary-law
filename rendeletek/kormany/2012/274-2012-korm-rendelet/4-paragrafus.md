@@ -12,7 +12,7 @@ e)[^14] jogszabály – az Alkotmányvédelmi Hivatal, a Terrorelhárítási Inf
 
 f) rendészeti oktatási intézményben 2010. június 1-jét követően rendészeti tárgyú rész-szakképesítést szerzett,
 
-g)[^15] a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja és a Nemzeti Adó- és Vámhivatalról szóló törvényben előírt alapfokú szaktanfolyami végzettséggel rendelkezik vagy annak letétele alól jogszabály mentesíti,
+g)[^15]
 
 h)[^16] az Információs Hivatalban rendvédelmi igazgatási jogviszonyba történő kinevezését követő két éven belül közigazgatási alapvizsgát tesz.
 
@@ -28,7 +28,7 @@ h)[^16] az Információs Hivatalban rendvédelmi igazgatási jogviszonyba tört�
 
 [^13]: A 4. § (1) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja, a 282/2016. (IX. 21.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^14]: A 4. § (1) bekezdés e) pontja a 186/2016. (VII. 13.) Korm. rendelet 6. §-ával megállapított, a 396/2017. (XII. 13.) Korm. rendelet 18. § b) pontja, a 11/2019. (II. 5.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^15]: A 4. § (1) bekezdés g) pontját a 325/2014. (XII. 15.) Korm. rendelet 18. §-a iktatta be.
+[^15]: A 4. § (1) bekezdés g) pontját a 325/2014. (XII. 15.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 671/2020. (XII. 28.) Korm. rendelet 26. § a) pontja.
 [^16]: A 4. § (1) bekezdés h) pontját a 11/2019. (II. 5.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^17]: A 4. § (1a) bekezdését a 396/2017. (XII. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^18]: A 4. § (2) bekezdése a 11/2019. (II. 5.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.

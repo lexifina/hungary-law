@@ -8,7 +8,7 @@ c)[^36] a Nemzeti Közszolgálati Egyetemen vagy jogelődjeinél MA fokozatú re
 
 d) a rendelet hatályba lépésekor az 52. életévét betöltötte és azt megelőzően legalább 5 évet vezetői, vagy 10 évet rendészeti szakvizsgához kötött szolgálati beosztásban töltött el,
 
-e)[^37] annak letétele alól a Nemzeti Adó- és Vámhivatalról szóló törvény alapján mentesül.
+e)[^37]
 
 (1a)[^38] Az (1) bekezdés a)–c) pontjában foglalt rendészeti szakvizsga megszerzésének kötelezettsége alóli mentességet a munkáltatói jogkör gyakorlója állapítja meg a rendészeti szakvizsgához kötött szolgálati beosztásba vagy vezetői munkakörbe helyezéssel egyidejűleg, vagy ha a 9. § (3) bekezdése szerinti esetben a mentességre okot adó körülmény később következett be, a körülmény bekövetkezéséről való tudomásszerzéstől számított 30 napon belül. A munkáltatói jogkör gyakorlójának döntését előkészítő humánigazgatási szakszolgálat a mentességi ok megállapíthatósága vonatkozásában a központi szerv állásfoglalását kérheti. A központi szerv az állásfoglalásáról 15 napon belül tájékoztatja a rendvédelmi feladatokat ellátó szervet.
 
@@ -16,7 +16,7 @@ e)[^37] annak letétele alól a Nemzeti Adó- és Vámhivatalról szóló törv�
 
 (3) A hivatásos állomány közigazgatási szakvizsgával vagy jogi szakvizsgával rendelkező tagjának kizárólag a rendészeti szakvizsga rendészeti tárgyú választott vizsgatárgyából kell vizsgát tennie, a kinevezéstől számított egy éven belül.
 
-(3a)[^39] A Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának kizárólag a rendészeti szakvizsga kötelező vizsgatárgyából kell vizsgát tenni, ha a Nemzeti Adó- és Vámhivatalról szóló törvényben előírt középfokú szaktanfolyami végzettséggel rendelkezik vagy annak letétele alól jogszabály mentesíti.
+(3a)[^39]
 
 (3b)[^40] A közigazgatási szakvizsgával vagy jogi szakvizsgával rendelkező rendvédelmi alkalmazottnak kizárólag a rendészeti szakvizsga rendészeti tárgyú választott vizsgatárgyából kell vizsgát tennie.
 
@@ -26,8 +26,8 @@ e)[^37] annak letétele alól a Nemzeti Adó- és Vámhivatalról szóló törv�
 
 [^35]: A 10. § (1) bekezdés b) pontja a 396/2017. (XII. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^36]: A 10. § (1) bekezdés c) pontja a 396/2017. (XII. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^37]: A 10. § (1) bekezdés e) pontját a 325/2014. (XII. 15.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^37]: A 10. § (1) bekezdés e) pontját a 325/2014. (XII. 15.) Korm. rendelet 19. § (1) bekezdése iktatta be, hatályon kívül helyezte a 671/2020. (XII. 28.) Korm. rendelet 26. § b) pontja.
 [^38]: A 10. § (1a) bekezdését a 396/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 11/2019. (II. 5.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
-[^39]: A 10. § (3a) bekezdését a 325/2014. (XII. 15.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^39]: A 10. § (3a) bekezdését a 325/2014. (XII. 15.) Korm. rendelet 19. § (2) bekezdése iktatta be, hatályon kívül helyezte a 671/2020. (XII. 28.) Korm. rendelet 26. § c) pontja.
 [^40]: A 10. § (3b) bekezdését a 11/2019. (II. 5.) Korm. rendelet 3. § (8) bekezdése iktatta be.
 [^41]: A 10. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 36. § c) pontja, a 267/2019. (XI. 19.) Korm. rendelet 20. § 3. pontja szerint módosított szöveg.
