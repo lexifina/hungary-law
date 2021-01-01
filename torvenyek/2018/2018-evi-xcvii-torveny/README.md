@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-97-00-00
 | 2019-07-10 | 2019. évi LXVI. törvény | 2018-97-00-00.5 |
 | 2019-12-18 | 2019. évi CX. törvény | 2018-97-00-00.6 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2018-97-00-00.7 |
+| 2021-01-01 | 2019. évi LXVI. törvény | 2018-97-00-00.8 |
