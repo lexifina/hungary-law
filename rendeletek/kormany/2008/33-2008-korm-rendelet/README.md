@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-2
 | 2020-03-01 | 2008-33-20-22.34 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-05-15 | 2008-33-20-22.35 | 203/2020. (V. 14.) Korm. rendelet |
 | 2020-08-25 | 2008-33-20-22.36 | 403/2020. (VIII. 17.) Korm. rendelet |
+| 2021-01-01 | 2008-33-20-22.37 | 715/2020. (XII. 30.) Korm. rendelet |
