@@ -1,3 +1,3 @@
-3. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^60]
+3. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^61]
 
-[^60]: A 3. mellékletet az 527/2020. (XI. 26.) Korm. rendelet 3. § e) pontja hatályon kívül helyezte.
+[^61]: A 3. mellékletet az 527/2020. (XI. 26.) Korm. rendelet 3. § e) pontja hatályon kívül helyezte.

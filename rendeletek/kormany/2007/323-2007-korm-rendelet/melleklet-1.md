@@ -1,6 +1,6 @@
-## 37. §[^57]
+## 37. §[^58]
 
-1. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^58]
+1. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^59]
 
 ## A forgalmi jegyzékhez kapcsolódó számlavezetési díj megállapítása
 
@@ -24,5 +24,5 @@
 
 A díjfizetés alapja a tárgyévet megelőző év során a számlára beérkező kibocsátás-csökkentési egységek és igazolt kibocsátás-csökkentési egységek együttes mennyisége.
 
-[^57]: A 37. §-t a 361/2012. (XII. 17.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte az 527/2020. (XI. 26.) Korm. rendelet 3. § d) pontja.
-[^58]: Az 1. melléklet az 528/2013. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^58]: A 37. §-t a 361/2012. (XII. 17.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte az 527/2020. (XI. 26.) Korm. rendelet 3. § d) pontja.
+[^59]: Az 1. melléklet az 528/2013. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja szerint módosított szöveg.
