@@ -1,0 +1,3 @@
+## 10. § Az R. 21. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A doppingeljárásban hozott első fokú határozat ellen az eljárás alá vont személy, valamint az, akinek jogát vagy jogos érdekét a határozat érinti, a kézbesítéstől számított tizennégy napon belül jogorvoslati kérelmet terjeszthet elő. A jogorvoslati kérelmet a Sport Állandó Választottbírósághoz kell benyújtani. Az első fokú határozatot hozó doppingbizottság elnöke a kérelemről való értesítés kézhezvételétől számított tizenöt napon belül az eljárás során keletkezett iratokat továbbítja a Sport Állandó Választottbíróság részére.”
