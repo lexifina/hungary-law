@@ -59,3 +59,7 @@ f) a kérelmező nyilatkozatát arról, hogy saját, házastársa, bejegyzett é
 g) nyilatkozatot arról, hogy a kérelmezett név a Ptk. névviselésre irányadó rendelkezéseit nem sérti.
 
 (3) A születési név megváltoztatására irányuló kérelemben meg kell jelölni azt a családi, illetve utónevet, amelyet a kérelmező új névként kíván viselni.
+
+(4) A születési név megváltoztatására irányuló kérelem igazgatási szolgáltatási díja 10 000 forint. Az egy családhoz tartozó nagykorúak közös kérelme esetében az igazgatási szolgáltatási díjat minden nagykorúnak külön-külön kell megfizetnie.
+
+(5) A (4) bekezdés szerinti igazgatási szolgáltatási díjat az eljáró hatóság által megjelölt számlára kell megfizetni. Az igazgatási szolgáltatási díj nem minősül a központi költségvetés központosított bevételének, az az eljáró hatóság bevételét képezi.
