@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-260-20-
 | 2020-08-08 | 2020-260-20-22.3 | 383/2020. (VIII. 7.) Korm. rendelet |
 | 2020-09-01 | 2020-260-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-09-02 | 2020-260-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-01-01 | 2020-260-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
