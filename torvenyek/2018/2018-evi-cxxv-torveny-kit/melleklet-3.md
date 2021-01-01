@@ -161,17 +161,3 @@
 ## 6. jutalmazás, kitüntetés adatai
 
 ## 7. hatályos fegyelmi büntetés
-
-## 8. pályázatának adatai
-
-## 9. kompetenciaadatai
-
-## 10. próbaidejének adatai
-
-## VI.
-
-## 1. személyi juttatások nyilvántartása a központi létszám- és bérgazdálkodási statisztikai információs rendszer figyelembevételével
-
-## VII.
-
-## 1. a kormánytisztviselő munkából való távollétének jogcíme és időtartama

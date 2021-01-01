@@ -8,13 +8,15 @@ a) a munkaidő-beosztás alapján történő munkavégzési kötelezettség aló
 
 b) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság első hat hónapja,
 
-c) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság idejének tartama,
+c) a szülési szabadság időtartama alatt,
 
-d) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
+d) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság idejének tartama,
 
-e) a 93. § (2) bekezdés a), b), h), j) és n) pontjában meghatározott esetek, valamint
+e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
 
-f) minden olyan munkában nem töltött idő, amelyre a kormánytisztviselő illetményre jogosult.
+f) a 93. § (2) bekezdés a), b), h), j) és n) pontjában meghatározott esetek, valamint
+
+g) minden olyan munkában nem töltött idő, amelyre a kormánytisztviselő illetményre jogosult.
 
 (3) A minisztérium kormánytisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
 

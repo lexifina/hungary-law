@@ -128,7 +128,7 @@
 
 (10) Felhatalmazást kap a kormányhivatal irányítására rendeletben kijelölt miniszter, hogy rendeletben határozza meg a kormányablakok és az okmányirodák működésének személyi és technikai feltételeit.
 
-(11)
+(11) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő ügyviteli vizsgájának szabályait rendeletben állapítsa meg.
 
 (12) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 289. § szerinti szabadságmegváltás eljárásrendjét és kifizetésének szabályait.
 

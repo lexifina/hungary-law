@@ -38,7 +38,7 @@ g) húsz év: nyolchavi,
 
 a) a jogelőd foglalkoztatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál –,
 
-b) a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati viszonyban, honvédelmi alkalmazotti jogviszonyban, illetve a költségvetési szervnél munkaviszonyban,
+b) a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati viszonyban, honvédelmi alkalmazotti jogviszonyban, illetve a költségvetési szervnél munkaviszonyban,
 
 c) átminősítés esetén a hivatásos szolgálati vagy katonai szolgálati viszonyban,
 
