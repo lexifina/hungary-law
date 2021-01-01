@@ -1,1 +1,0 @@
-## „(3) Az (1) bekezdésben meghatározott földrészletek esetében, amennyiben a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény nagy kiterjedésű zöldterületi települési térséget jelöl, ott a településrendezési eszközben beépítésre nem szánt nagy kiterjedésű zöldterületi rekreációs területet kell kijelölni.”
