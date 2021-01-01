@@ -1,6 +1,6 @@
-## 49. §[^55]
+## 49. §[^57]
 
-1. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^56]
+1. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^58]
 
 ## A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények
 
@@ -10,35 +10,17 @@
 
 1.1.1. 400 méter mélységet meghaladó mélyfúrás,
 
-1.1.2. 5 méter mélységet meghaladó kutatóakna,
+1.1.2. kutatótáró.
 
-1.1.3. 2 méter mélységet meghaladó kutatóárok,
+1.2. A külszíni bányászat építménye:
 
-1.1.4. kutatótáró.
-
-1.2. A külszíni bányászat építményei:
-
-1.2.1. a kitermelt ásványi nyersanyag helyben végzett feldolgozására szolgáló, helyhez kötött építmény,
-
-1.2.2. személyszállításra szolgáló építmény,
-
-1.2.3. külszíni bányavasút.
+1.2.1. külszíni bányavasút.
 
 1.3. Földalatti bányászat építményei:
 
 1.3.1. külszínre nyíló bányatérségek (akna, lejtősakna, táró, vágat),
 
-1.3.2. főszellőztetést, a főszellőztető légáram fűtését és hűtését szolgáló építmény,
-
-1.3.3. személyszállításra szolgáló építmény,
-
-1.3.4. tűz- vagy robbanásveszélyes, továbbá maró hatású anyag, illetve robbanóanyag tárolására szolgáló bányabeli raktár,
-
-1.3.5. a 2 MVA vagy ennél nagyobb összteljesítményű bányabeli villamos energiát elosztó, átalakító és kapcsoló állomás,
-
-1.3.6. a bányaüzem területét elhagyó, bányaüzemi külszíni bányavasút,
-
-1.3.7. a kitermelt ásványi nyersanyag helyben végzett feldolgozására szolgáló helyhez kötött építmény.
+1.3.2. a bányaüzem területét elhagyó, bányaüzemi külszíni bányavasút.
 
 2. Kőolaj- és földgázbányászati építmények:
 
@@ -52,31 +34,27 @@
 
 2.5. szénhidrogén szállítóvezeték és azok alkotórészei, valamint tartozékai,
 
-2.6. földalatti gáztároló földalatti és külszíni építményei,
-
-2.7. kőolaj- és földgázkitermelő mobil építmény.
+2.6. földalatti gáztároló földalatti és külszíni építményei.
 
 3. Gázipari sajátos építmények:
 
-3.1. földgáz-célvezeték és a zártkerti ingatlanokon kívüli külterületi földgáz-elosztóvezeték, valamint tartozékai, az egy külterületi ingatlant ellátó leágazó vezeték kivételével,,
+3.1. földgáz-célvezeték és a zártkerti ingatlanokon kívüli 250 métert meghaladó külterületi földgáz-elosztóvezeték, valamint tartozékai, az egy külterületi ingatlant ellátó leágazó vezeték kivételével,
 
 3.2. propán-bután töltő és tároló telep technológiai egységeivel,
 
-3.3. a propán-bután elosztóvezeték, az elosztóhálózatba történő betáplálását biztosító tartálypark tartozékaival és alkotórészeivel,
-
-3.4. az egyéb gázok és gáztermékek vezetékei.
+3.3. az egyéb gázok és gáztermékek vezetékei és tartozékai.
 
 4. Egyéb sajátos építmények:
 
-4.1. a geotermikus energia felszín alatti víz kitermelését nem igénylő, 120 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével,
+4.1. az 1.1. pont szerinti kutatóépítmény, amely
 
-4.2. az 1.1. pont szerinti kutatóépítmény, amely
+4.1.1. földtani kutatást szolgálja,
 
-4.2.1. földtani kutatást szolgálja,
+4.1.2. a radioaktívhulladék-tároló telephely földtani alkalmasságának igazolását szolgálja, vagy
 
-4.2.2. a radioaktívhulladék-tároló telephely földtani alkalmasságának igazolását szolgálja, vagy
+4.1.3. nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges, és amelynek telephely vizsgálati és értékelési programját jóváhagyták, vagy ahhoz a feladat- és hatáskörrel rendelkező hatóság a földtani, műszaki biztonsági és bányászati szakkérdések tekintetében előzetes szakhatósági állásfoglalást adott,
 
-4.2.3. nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges, és amelynek telephely vizsgálati és értékelési programját jóváhagyták, vagy ahhoz a feladat- és hatáskörrel rendelkező hatóság a földtani, műszaki biztonsági és bányászati szakkérdések tekintetében előzetes szakhatósági állásfoglalást adott,
+4.2. a geotermikus energia felszín alatti víz kitermelését nem igénylő, 120 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével,
 
 4.3. polgári felhasználású robbanóanyag raktára,
 
@@ -84,9 +62,9 @@
 
 4.5. szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték-hálózat és ennek tartozékai,
 
-4.6. a koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével.
+4.6. a koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével,
 
 4.7. a föld alatti szénelgázosításhoz szükséges létesítmények.
 
-[^55]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^56]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 102. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^57]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: Az 1. melléklet a 668/2020. (XII. 28.) Korm. rendelet 30. § (2) bekezdés a) pontjával megállapított szöveg.
