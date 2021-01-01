@@ -132,7 +132,7 @@
 
 ## 1.34.[^69] a nemzetbiztonsági szolgálatok hivatásos állománya részére rendszeresített szolgálati igazolványok, a nemzetbiztonsági szolgálatok közalkalmazottai részére rendszeresített munkáltatói igazolványok, valamint a nyugdíjas igazolványok;
 
-## 1.35.[^70] a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjainak szolgálati igazolványai;
+## 1.35.[^70] a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjainak szolgálati igazolványai;
 
 ## 1.36.[^71] a Belügyminisztérium, továbbá a belügyminiszter irányítása alá tartozó szervek kormánytisztviselői, köztisztviselői, közalkalmazotti és hivatásos állománya részére rendszeresített szolgálati és munkáltatói igazolványok;
 
@@ -472,7 +472,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^67]: Az 1. számú melléklet III. rész 1. pont 1.28. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^68]: Az 1. számú melléklet III. rész 1. pont 1.29. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
 [^69]: Az 1. számú melléklet III. rész 1. pont 1.34. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^70]: Az 1. számú melléklet III. pont 1.35. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^70]: Az 1. számú melléklet III. pont 1.35. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított, a 671/2020. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^71]: Az 1. számú melléklet III. rész 1. pont 1.36. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^72]: Az 1. számú melléklet III. rész 1. Személyi és jogosultságot igazoló okmányok pont 1.37. alpontja a 293/2010. (XII. 22.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
 [^73]: Az 1. számú melléklet III. rész 1. pont 1.38. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 167. § b) pontja szerint módosított szöveg.
