@@ -13,3 +13,10 @@ b) az ügyirat képének közvetítését.
 (4) Az eljárási cselekmény helyszínén képet és hangot közvetítő készülék biztosítja, hogy az eljárási cselekmény vezetője, valamint az eljárási cselekmény helyszínén jelen lévő személyek követhessék az elkülönített helyszínen történeteket.
 
 (5) Ha az elkülönített helyszínen több kamera elhelyezésére kerül sor, az eljárási cselekmény helyszínén lehetőség szerint biztosítani kell valamennyi kamera felvételének egyidejű közvetítését, ebből a célból több közvetítő készülék vagy a kamerafelvételek egyidejű megjelenítésére alkalmas közvetítő készülék is alkalmazható.
+
+(6)[^26] Ha a telekommunikációs eszköz használata esetén több elkülönített helyszínnel létesül összeköttetés, az eljárási cselekmény helyszínén lehetőség szerint – az (5) bekezdésben meghatározott módon – biztosítani kell valamennyi elkülönített helyszínen elhelyezett kamera felvételének egyidejű közvetítését.
+
+(7)[^27] Az eljárási cselekmény megtartásának nem akadálya, ha az elkülönített helyszínekről továbbított kamerafelvételek egyidejű észlelése nem biztosítható. Az elkülönített helyszínen jelen lévő és vallomást vagy nyilatkozatot tevő személy közvetlen figyelemmel kísérését lehetővé tevő kamerafelvétel észlelését, azonban ebben az esetben is biztosítani kell. Ha az elkülönített helyszínen tartózkodó személy nem észlelhető, addig kell jelen lévőnek tekinteni, amíg a technikai kapcsolat fennállása és az eljárási cselekményen történő jelenléte iránt ésszerű kétely nem mutatkozik.
+
+[^26]: A 46. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 138. §-a iktatta be.
+[^27]: A 46. § (7) bekezdését a 20/2020. (XII. 30.) IM rendelet 138. §-a iktatta be.

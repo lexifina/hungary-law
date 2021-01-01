@@ -12,6 +12,6 @@ a) a közvetítés technikai körülményeit, ideértve a technikai eszközök e
 
 b) a közvetítés megkezdésének és befejezésének időpontját.
 
-(5)[^4]
+(5)[^31]
 
-[^4]: Az 51. § (5) bekezdését a 8/2020. (VI. 17.) IM rendelet 3. §-a hatályon kívül helyezte.
+[^31]: Az 51. § (5) bekezdését a 8/2020. (VI. 17.) IM rendelet 3. §-a hatályon kívül helyezte.

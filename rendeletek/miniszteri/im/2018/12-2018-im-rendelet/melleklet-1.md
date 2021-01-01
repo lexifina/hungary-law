@@ -1,6 +1,6 @@
-## 67. §[^6]
+## 67. §[^37]
 
-1. melléklet a 12/2018. (VI. 12.) IM rendelethez
+1. melléklet a 12/2018. (VI. 12.) IM rendelethez[^38]
 
 ## Adatlap a különleges bánásmód biztosításhoz
 
@@ -72,6 +72,8 @@
 
 3.3.3. Az értékelt személy büntetőeljárási részvételével kapcsolatban fenyegetés, erőszak, befolyásolási kísérlet veszélyére utaló adatok (így különösen az értékelt személy eljárási minősége, közreműködésének tartalma, büntetőeljárásban részt vevő más személyhez fűződő viszonya), ennek leírása:
 
+3.3.4. Az értékelt személy személyes adatainak a zárt kezelését más, a büntetőügyhöz kapcsolódó eljárásban korábban elrendelték
+
 4. A különleges bánásmód megállapításával kapcsolatos adatok
 
 4.1. A különleges bánásmód megállapításával kapcsolatos döntés adatai:
@@ -96,4 +98,5 @@ A különleges bánásmód körébe tartozó intézkedés alkalmazásáról val�
 
 7.2. A különleges bánásmód megszüntetésével kapcsolatos tájékoztatás adatai:
 
-[^6]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: Az 1. melléklet a 20/2020. (XII. 30.) IM rendelet 142. §-a szerint módosított szöveg.

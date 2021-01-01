@@ -1,5 +1,3 @@
-## 36. § Az Európai Unió másik tagállamában vagy külföldi államban tartózkodó címzett részére történő kézbesítés esetén az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, illetve a nemzetközi bűnügyi jogsegélyről szóló törvény hivatalos irat kézbesítésére vonatkozó szabályai szerint kell eljárni.
-
 ## V. Fejezet
 
 ## A NYILVÁNOSSÁG TÁJÉKOZTATÁSA A BÜNTETŐELJÁRÁSRÓL

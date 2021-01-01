@@ -4,9 +4,9 @@
 
 33. § (1) Ha az értesítés hirdetmény útján történő kézbesítése az érdekeltek jelentős számára tekintettel indokolt, az értesítés tartalmazza az azt kibocsátó bíróság, ügyészség vagy nyomozó hatóság postai és elektronikus elérhetőségét is.
 
-(2) Az ismeretlen helyen tartózkodó terhelt részére hirdetmény útján történő kézbesítés esetén a hirdetmény tartalmazza az alábbiakat is:
+(2)[^10] Az ismeretlen helyen tartózkodó terhelt vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy részére hirdetmény útján történő kézbesítés esetén a hirdetmény tartalmazza az alábbiakat is:
 
-a) a terhelt nevét,
+a)[^11] a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy nevét,
 
 b) a hirdetményt kibocsátó bíróság, ügyészség vagy nyomozó hatóság megjelölését,
 
@@ -39,3 +39,6 @@ f) a Védelmi Programban részt vevő személyt,
 g) a katonát és
 
 h) állami, helyi önkormányzati vagy nemzetiségi önkormányzati szervet, költségvetési szervet és köztestületet.
+
+[^10]: A 33. § (2) bekezdés nyitó szövegrésze a 20/2020. (XII. 30.) IM rendelet 143. § a) pontja szerint módosított szöveg.
+[^11]: A 33. § (2) bekezdés a) pontja a 20/2020. (XII. 30.) IM rendelet 143. § e) pontja szerint módosított szöveg.

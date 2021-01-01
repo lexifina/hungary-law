@@ -1,3 +1,5 @@
+## 6. §[^6]
+
 ## II. Fejezet
 
 ## A KÜLÖNLEGES BÁNÁSMÓD BIZTOSÍTÁSA A BÜNTETŐELJÁRÁSBAN
@@ -15,3 +17,5 @@ a) a sértettel vagy a tanúval történő első kapcsolatba kerüléskor erre u
 b) a különleges bánásmód megállapítására irányuló indítványt a bíróság, az ügyészség vagy a nyomozó hatóság korábban elutasította, vagy
 
 c) a különleges bánásmód megállapítását a sértett vagy a tanú visszautasította.
+
+[^6]: A 6. §-t a 20/2020. (XII. 30.) IM rendelet 144. §-a hatályon kívül helyezte.

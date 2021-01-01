@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-12-20-0
 | 2018-07-02 | 2018-12-20-06.2 | 2010: CXXX. törvény |
 | 2019-04-06 | 2018-12-20-06.3 | 11/2019. (IV. 5.) IM rendelet |
 | 2020-06-18 | 2018-12-20-06.4 | 8/2020. (VI. 17.) IM rendelet |
+| 2021-01-01 | 2018-12-20-06.5 | 20/2020. (XII. 30.) IM rendelet |
