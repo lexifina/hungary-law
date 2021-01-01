@@ -4,7 +4,7 @@
 
 (3) Amennyiben a (2) bekezdés szerinti felhívás az ügy összes körülményeire tekintettel nem alkalmazható vagy nem lenne a jogsértés megszüntetésére vonatkozó kötelezettség kikényszerítésére hatékony eszköz, a Hatóság – a felhívás mellőzésére vonatkozó indokolás nélkül – a jogsértő magatartás tanúsítását megtiltja, illetve az elektronikus hírközlésre vonatkozó szabályban foglaltak érvényesítése keretében kötelezettséget állapíthat meg, további jogkövetkezményeket alkalmazhat vagy hatósági szerződést köthet a jogsértővel.
 
-(4) A Hatóság bírságot szabhat ki a jogsértővel szemben, melynek a felső határa
+(4) A Hatóság bírságot szab ki a jogsértővel szemben, melynek a felső határa
 
 a) elektronikus hírközlésre vonatkozó szabályban, a szolgáltató bejelentésében vagy az általános szerződési feltételekben foglaltaktól való jogszabályba ütköző eltérés, illetve bejelentési kötelezettség elmulasztása esetén a jogsértő árbevételének 0,25%-a;
 
@@ -51,3 +51,5 @@ i) egyéb, törvényben meghatározott szankciót alkalmazhat.
 (10) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (11) E § alkalmazása szempontjából árbevétel alatt az eljárás résztvevőjének hírközlési tevékenységgel kapcsolatos értékesítésből származó – a határozat meghozatalának időpontjához képest – előző üzleti évi nettó árbevételét kell érteni.
+
+(12) A Hatóság nem alkalmazhat jogkövetkezményt, ha a jogsértés elkövetésétől számított öt év eltelt.

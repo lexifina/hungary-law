@@ -60,6 +60,16 @@ e)
 
 (10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
 
+(10a) Az elektronikus hírközlési szolgáltató – a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásának körében a természetes személy előfizetőkkel való telefonos kapcsolatfelvétellel megvalósuló statisztikai adatgyűjtés biztosítása céljából – a KSH kérelmére köteles átadni vagy hozzáférhetővé tenni a kérelemben megjelölt természetes személyek körére vonatkozóan
+
+a) a természetes személyről megadott előfizetői személyazonosító adatok alapján az előfizetőhöz rendelt hívószámot, amennyiben a természetes személy rendelkezik előfizetéssel az elektronikus hírközlési szolgáltatónál, vagy
+
+b) az arra vonatkozó tájékoztatást, hogy a természetes személy az elektronikus hírközlési szolgáltatónál előfizetéssel nem rendelkezik.
+
+(10b) Az elektronikus hírközlési szolgáltató a (10a) bekezdés szerinti adatkérés során tudomására jutott személyes adatokat semmilyen más célra nem használhatja fel és azokat az adatszolgáltatás teljesítése után haladéktalanul törli.
+
+(10c) A KSH az átvett adatokat a statisztikai adatelőállítási folyamatban addig kezeli, amíg az annak végrehajtásához indokolt. A személyes adatokat és az előfizetői állomás számát a KSH elkülönítetten tárolja, e két adatállomány összekapcsolására csak az adatgyűjtés-szervezés és a lekérdezés idejére jogosult. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli.
+
 (11) Az elektronikus hírközlési szolgáltató – ha az a rendelkezésére áll – a szabálysértési hatóság kérelmére a segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértés elkövetőjének azonosítása céljából köteles átadni a segélyhívószámra kezdeményezett hívó telefonszám vonatkozásában
 
 a) az előfizető családi nevére és utónevére, születési helyére és idejére, anyja születési családi és utónevére, lakcímére és értesítési címére, vagy

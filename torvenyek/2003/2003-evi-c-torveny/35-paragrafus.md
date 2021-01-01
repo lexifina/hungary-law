@@ -10,7 +10,7 @@
 
 (3b) A Hatóság a tényállás tisztázása során kötelezheti az ügyfelet, hogy az eredeti okiratot vagy az arról készített hiteles másolatot a Hatóság rendelkezésére bocsássa.
 
-(4) Amennyiben a tényállás tisztázása azt szükségessé teszi, a Hatóság az ügyfelet nyilatkozattételre, valamint adatszolgáltatásra kötelezheti, e kötelezettség elmulasztása vagy nem megfelelő teljesítése esetén bírság alkalmazható, az e törvény 38. §-a szerinti jogkövetkezményekre történő figyelmeztetés mellett.
+(4) Ha a tényállás tisztázása azt szükségessé teszi, a Hatóság az ügyfelet – a 38. § szerinti jogkövetkezményekre történő figyelemfelhívás mellett – nyilatkozattételre, valamint adatszolgáltatásra kötelezheti.
 
 (5) A Hatóság a tényállás tisztázása érdekében – megfelelő határidő tűzése és a mulasztás jogkövetkezményeire történő figyelmezetés mellett – hiánypótlásra hívhatja fel az ügyfelet.
 
