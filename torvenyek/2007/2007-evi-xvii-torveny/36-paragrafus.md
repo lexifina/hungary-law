@@ -4,7 +4,7 @@
 
 (2) Az iratokat az előzetes értesítés alapján lefolytatott helyszíni ellenőrzés kezdő időpontjára, egyéb esetben az erre vonatkozó felhívást követő munkanap kezdetén a mezőgazdasági és vidékfejlesztési támogatási szerv rendelkezésére kell bocsátani.
 
-(3) Az iratokat az ügyfélnek a nyilvántartás módjától függetlenül – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a támogatás esedékessége naptári évének utolsó napjától számított tíz évig kell megőriznie.
+(3) Az iratokat az ügyfélnek a nyilvántartás módjától függetlenül – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a támogatási döntés véglegessé válása naptári évének utolsó napjától számított legalább tíz évig kell megőriznie.
 
 (4) Az irat megőrzésére kötelezett jogi személynek, illetve egyéb szervezetnek minősülő ügyfél megszűnése esetén az iratokat a (3) bekezdésben foglalt időpontig köteles megőrizni:
 

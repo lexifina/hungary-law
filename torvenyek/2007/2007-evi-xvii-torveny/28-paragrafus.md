@@ -78,7 +78,7 @@ c) külföldi természetes személy vagy külföldi nem természetes személy es
 
 d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező természetes személy vagy nem természetes személy esetében.
 
-(3a) Az ügyfélnek elektronikus úton történő támogatási kérelem benyújtása esetén a kérelem benyújtásakor kérelemre nyilvántartásba vett ügyfélnek kell lennie.
+(3a) Az ügyfélnek elektronikus úton történő kérelem benyújtása esetén a kérelem benyújtásakor kérelemre nyilvántartásba vett ügyfélnek kell lennie.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartás vezetése keretében
 

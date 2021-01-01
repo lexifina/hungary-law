@@ -1,12 +1,8 @@
-25. § (1) A nem nyilvános támogatási adat az adatkezelő szerven kívüli más szerv által csak alapos okkal használható fel. A nem nyilvános támogatási adatot alapos okkal használják fel, ha:
+25. § (1) A nem nyilvános támogatási adat az adatkezelő szerven kívüli más szerv vagy személy által csak alapos okkal használható fel. A nem nyilvános támogatási adatot alapos okkal használják fel, ha:
 
 a) az a támogatás ellenőrzését, vagy
 
-b) a (2)–(4) bekezdésben megjelölt szervek tájékoztatását szolgálja, továbbá
-
-c) azt törvény előírja vagy megengedi, illetve
-
-d) a felhasználáshoz az érintett ügyfél hozzájárul.
+b) a (2)–(4) bekezdésben megjelölt szervek tájékoztatását szolgálja.
 
 (2) Az egyes intézkedésekben való részvétellel összefüggő adatot az adatkezelő szerv és a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
 

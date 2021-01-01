@@ -2,6 +2,8 @@
 
 31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR közhiteles hatósági nyilvántartásnak minősül. A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ideértve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
 
+(1a) A MePAR működtetése, programszerű megújítása, valamint a távérzékeléses ellenőrzéssel kapcsolatos feladatok ellátása közfeladatnak minősül és azt a Nemzeti Földügyi Központ végzi.
+
 (2) A MePAR blokkhatár fedvényhez és annak részeként a blokkazonosítóhoz, a Natura 2000 Területek, Nitrátérzékeny Területek, Magas Természeti Értékű Területek és Érzékeny Természeti Területek tematikus fedvényekhez, továbbá a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet
 
 a) a vízgazdálkodásról szóló törvényben meghatározott VIZEK rendszer kormányrendeletben kijelölt üzemeltetője a VIZEK rendszer üzemeltetési feladataival összefüggő feladatai ellátása és a VIZEK rendszerben való vagyonkezelői hozzájárulások biztosítása érdekében,
@@ -23,3 +25,5 @@ a) az épített környezet alakításáról és védelméről szóló törvény 
 b) a területfejlesztési és területrendezési feladatainak ellátása érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz
 
 térítésmentesen hozzáférhet.
+
+(8) A MePAR kapcsán történő változásvezetésre irányuló bejelentés esetében a döntésre vonatkozó 55. és 55/A. §-t nem kell alkalmazni, és a bejegyzés a MePAR szerinti nyilvántartásban történő átvezetés napjától számítva hatályos.

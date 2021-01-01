@@ -1,6 +1,6 @@
 ## A döntés közlése
 
-55/A. § A döntést az ügyféllel, illetve a képviselővel írásban kell közölni.
+55/A. § (1) A döntést az ügyféllel, illetve a képviselővel írásban, kötelező elektronikus kérelembenyújtás esetén – amennyiben jogszabály másként nem rendelkezik – elektronikus úton kell közölni.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton kézbesíti.
 

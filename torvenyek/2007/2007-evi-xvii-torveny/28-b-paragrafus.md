@@ -2,7 +2,7 @@
 
 (1a) A meghatalmazás általános jelleggel vagy egyes intézkedésekre szólhat. A meghatalmazás kiterjed az eljárással kapcsolatos minden nyilatkozatra és cselekményre, ideértve a biztosítási intézkedést és a végrehajtási eljárást.
 
-(1b) Az eseti meghatalmazást nem kell nyomtatványon bejelenteni, de legalább teljes bizonyító erejű, a polgári perrendtartásról szóló törvény szerinti magánokiratba kell foglalni, és annak eredeti példányát az adott eljárási cselekménnyel egyidejűleg kell a mezőgazdasági és vidékfejlesztési támogatási szerv részére benyújtani.
+(1b) Az eseti meghatalmazást nem kell nyomtatványon bejelenteni, de legalább teljes bizonyító erejű, a polgári perrendtartásról szóló törvény szerinti magánokiratba kell foglalni, és az adott eljárási cselekménnyel egyidejűleg kell a mezőgazdasági és vidékfejlesztési támogatási szerv részére benyújtani.
 
 (2) Az ügyfél a meghatalmazás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. A képviseleti jog megszűnését a meghatalmazott is bejelentheti.
 

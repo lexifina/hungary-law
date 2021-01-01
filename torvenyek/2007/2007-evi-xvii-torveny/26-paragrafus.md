@@ -82,7 +82,7 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 29. az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által működtetett az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerből,
 
-30. a családi gazdálkodókról vezetett nyilvántartásból,
+30. a őstermelők családi gazdaságáról vezetett nyilvántartásból,
 
 31. az Országos Állattenyésztési Adatbázisból,
 
