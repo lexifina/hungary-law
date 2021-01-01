@@ -1,21 +1,22 @@
-## 1.[^10]
+## 1.[^9]
 
-## 2.[^11]
+## 2. A 309/2011. (XII. 23.) Korm. rendelet 3. melléklet 5. pontja helyébe a következő rendelkezés lép:
 
-## 3.[^12]
+## „5. A 11. §-ban foglalt kivétellel jogszabályban meghatározott közúti közlekedési nyilvántartáshoz kapcsolódó rendszerek (JÁRMŰ, Vezetői engedély /VEN/, Származásellenőrzés /SZENY/, Közlekedési Okmánytár, PARKIG, eredetiségvizsgálat /KERT/, Útdíj-díjmentes, EUCARIS)”
 
-## 4.[^13]
+## 3.[^10]
 
-## 5.[^14]
+## 4.[^11]
 
-## 6.[^15]
+## 5.[^12]
 
-2. melléklet a 680/2020. (XII. 28.) Korm. rendelethez[^16]
+## 6.[^13]
 
-[^10]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet 2. pontja a 6. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^12]: Az 1. melléklet 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: Az 1. melléklet 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: Az 1. melléklet 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 1. melléklet 6. pontja a 6. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
-[^16]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+2. melléklet a 680/2020. (XII. 28.) Korm. rendelethez[^14]
+
+[^9]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 1. melléklet 6. pontja a 6. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
+[^14]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

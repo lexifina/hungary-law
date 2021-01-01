@@ -1,8 +1,8 @@
 ## 3. A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet módosítása
 
-5. § (1)[^8]
+5. § (1)[^7]
 
-(2)[^9]
+(2)[^8]
 
-[^8]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 5. § (2) bekezdése a 6. § (3) bekezdése alapján 2021. január 2-án lép hatályba.
+[^7]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § (2) bekezdése a 6. § (3) bekezdése alapján 2021. január 2-án lép hatályba.
