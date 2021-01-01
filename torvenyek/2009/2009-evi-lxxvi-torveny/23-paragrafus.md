@@ -14,4 +14,4 @@ c) a bejelentett szolgáltatási tevékenység megjelölését,
 
 d) a bejelentés előterjesztésének napját, valamint
 
-e) azt, hogy a bejelentés határozatlan időre szól, vagy – a 22. § (4) bekezdése szerinti esetben – azt az időtartamot, amelyre a bejelentés szól.
+e) azt, hogy a bejelentés határozatlan időre szól, vagy azt az időtartamot, amelyre a bejelentés szól.
