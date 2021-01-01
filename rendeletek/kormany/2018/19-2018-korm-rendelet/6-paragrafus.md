@@ -36,8 +36,9 @@ e) a közterületek alakítására vonatkozó
 
 (9)[^8] Az egyszerűsített építéstörténeti tudományos dokumentáció tartalmát a 3. melléklet határozza meg. Az egyszerűsített építéstörténeti tudományos dokumentáció – a 30. § (2) bekezdése szerinti településkép-védelmi konzultáción meghatározott és kizárólag az adott építési tevékenységgel összefüggésben lévő tartalommal – építményrészre, berendezésre is kidolgozható. Az egyszerűsített építéstörténeti tudományos dokumentációt okleveles építészmérnök vagy okleveles művészettörténész készíti. A (7) vagy (8) bekezdés szerinti építési tevékenység során a már elkészült egyszerűsített építéstörténeti tudományos dokumentáció felhasználható, az adott feladat tekintetében kiegészíthető.
 
-(10) Az egyedi településképi követelmények a kiemelt településkép-védelmi környezetben lévő nyilvántartott műemléki értékekre, műemléki környezetre, műemléki jelentőségű területre és a fővárosi helyi egyedi és területi védett értékekre is kiterjednek.
+(10)[^9] Az egyedi településképi követelmények a kiemelt településkép-védelmi környezetben lévő műemlékre, műemléki környezetre, műemléki jelentőségű területre és a fővárosi helyi egyedi és területi védett értékekre is kiterjednek.
 
 [^6]: A 6. § (1) bekezdés c) pontja a 85/2019. (IV. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^7]: A 6. § (3) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^8]: A 6. § 9. pontját a 197/2020. (V. 12.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 6. § (10) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 52. §-a szerint módosított szöveg.

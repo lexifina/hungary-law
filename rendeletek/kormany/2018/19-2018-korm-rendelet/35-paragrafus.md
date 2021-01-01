@@ -16,9 +16,9 @@ bb) a tervezett építési tevékenység vagy rendeltetésváltoztatás nem ille
 
 bc) a KNEB nyilatkozatában a tudomásulvételt nem támogatja.
 
-(2)[^41]
+(2)[^43]
 
-(3)[^42] A hatóság az (1) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+(3)[^44] A hatóság az (1) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
 
-[^41]: A 35. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^42]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^43]: A 35. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^44]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
