@@ -1,3 +1,3 @@
-## 3. [^20] A kommunikációs beszerzéssel és a szervezetfejlesztési beszerzéssel összefüggő eljárás
+## 3. [^21] A kommunikációs beszerzéssel és a szervezetfejlesztési beszerzéssel összefüggő eljárás
 
-[^20]: A 3. alcím címe az 590/2020. (XII. 17.) Korm. rendelet 11. § 33. pontja szerint módosított szöveg.
+[^21]: A 3. alcím címe az 590/2020. (XII. 17.) Korm. rendelet 11. § 33. pontja szerint módosított szöveg.
