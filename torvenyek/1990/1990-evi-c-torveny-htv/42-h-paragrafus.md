@@ -1,4 +1,4 @@
-42/H. § (1) A különleges gazdasági övezet létrejötte napját megelőző napon a helyi iparűzési adó alanyának a különleges gazdasági övezet fekvése szerinti települési önkormányzat illetékességi területén fennálló iparűzésiadó-kötelezettsége megszűnik, amelyet az állandó jellegű iparűzési tevékenység utáni adókötelezettség szempontjából úgy kell tekinteni, mintha az iparűzési adó alanya székhelyét áthelyezte, telephelyét megszüntette volna.
+42/H. § (1) A különleges gazdasági övezet létrejötte napját megelőző napon a helyi iparűzési adó alanyának a különleges gazdasági övezet fekvése szerinti települési önkormányzat illetékességi területén fennálló iparűzésiadó-kötelezettsége megszűnik, amelyet az iparűzési tevékenység utáni adókötelezettség szempontjából úgy kell tekinteni, mintha az iparűzési adó alanya székhelyét áthelyezte, telephelyét megszüntette volna.
 
 (2) A különleges gazdasági övezet fekvése szerinti megyei önkormányzat illetékességi területén az iparűzésiadó-kötelezettség a különleges gazdasági övezet létrejötte napján keletkezik.
 

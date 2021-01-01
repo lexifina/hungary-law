@@ -1,8 +1,8 @@
-## Állandó jellegű iparűzési tevékenység esetén az adó alapjának egyszerűsített meghatározása
+## Az adó alapjának egyszerűsített meghatározása
 
 39/A. § (1) A 39. § (1) bekezdésétől eltérően
 
-a) a személyi jövedelemadóról szóló törvény szerint az adóévben átalány szerinti jövedelem-megállapítást (a továbbiakban: átalányadózás) alkalmazó magánszemély (egyéni vállalkozó, mezőgazdasági kistermelő) vállalkozó,
+a) a személyi jövedelemadóról szóló törvény szerint az adóévben átalány szerinti jövedelem-megállapítást (a továbbiakban: átalányadózás) alkalmazó magánszemély (egyéni vállalkozó, mezőgazdasági őstermelő) vállalkozó,
 
 b) az a) pont alá nem tartozó más vállalkozó, feltéve, hogy nettó árbevétele adóévben – 12 hónapnál rövidebb adóév esetén napi arányosítással számítva időarányosan – nem haladta meg a 8 millió forintot,
 

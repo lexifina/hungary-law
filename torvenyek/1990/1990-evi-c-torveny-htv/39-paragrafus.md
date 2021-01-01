@@ -1,6 +1,6 @@
 ## Az adó alapja
 
-39. § (1) Állandó jelleggel végzett iparűzési tevékenység esetén – a (6) bekezdésben foglaltakra is figyelemmel – az adó alapja a nettó árbevétel, csökkentve
+39. § (1) Iparűzési tevékenység esetén – a (6) bekezdésben foglaltakra is figyelemmel – az adó alapja a nettó árbevétel, csökkentve
 
 a) az eladott áruk beszerzési értéke és a közvetített szolgáltatások értéke, együttes – a (4)–(10) bekezdésben meghatározottak szerint számított – összegével,
 
@@ -10,9 +10,9 @@ c) az anyagköltséggel,
 
 d) az alapkutatás, alkalmazott kutatás, kísérleti fejlesztés adóévben elszámolt közvetlen költségével.
 
-(2) Ha a vállalkozó több önkormányzat illetékességi területén vagy külföldön végez állandó jellegű iparűzési tevékenységet, akkor az adó alapját – a tevékenység sajátosságaira leginkább jellemzően – a vállalkozónak kell a 3. számú mellékletben meghatározottak szerint megosztania.
+(2) Ha a vállalkozó több önkormányzat illetékességi területén vagy külföldön végez iparűzési tevékenységet, akkor az adó alapját – a tevékenység sajátosságaira leginkább jellemzően – a vállalkozónak kell a 3. számú mellékletben meghatározottak szerint megosztania.
 
-(3) Ideiglenes jelleggel végzett iparűzési tevékenység esetében az adót a tevékenység végzésének naptári napjai alapján kell megállapítani. Minden megkezdett nap egy napnak számít.
+(3)
 
 (4) Az (1) bekezdés a) pontja szerinti nettó árbevétel csökkentő összeggel (eladott áruk beszerzési értéke és közvetített szolgáltatások értéke) a vállalkozó – nettó árbevétele összegétől függően, sávosan – az alábbiak szerint csökkentheti nettó árbevételét. A nettó árbevétel
 
@@ -37,3 +37,7 @@ vonható le.
 (9) Ha a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszony nem áll fenn az adóév egészében, a (6) bekezdés alkalmazása során csak a kapcsolt vállalkozási viszony fennállásának időtartamára jutó – napi időarányosítással számított – nettó árbevételt és nettó árbevétel-csökkentő költségeket, ráfordításokat kell figyelembe venni.
 
 (10) A (6) bekezdésben foglaltakat akkor kell alkalmazni, ha a kapcsolt vállalkozási viszony 2016. október 1-jét követően, szétválással jött létre.
+
+(11) Az a vállalkozó, aki a társasági adóról és az osztalékadóról szóló törvény szerint szokásos piaci ár alkalmazására kötelezett, a kapcsolt vállalkozásával kötött ügyletből származó nettó árbevételt vagy nettó árbevétel-csökkentő költséget, ráfordítást a társasági adóról és az osztalékadóról szóló törvény szerinti szokásos piaci ár alapulvételével állapítja meg. A nettó árbevétel csökkentésének vagy a nettó árbevételt csökkentő költség, ráfordítás összege növelésének feltétele, hogy a vállalkozó rendelkezzen a vele szerződő fél azon nyilatkozatával miszerint az ugyanakkora összeggel növelte a nettó árbevételt vagy csökkentette a nettó árbevételt csökkentő költség, ráfordítás összegét az őt terhelő iparűzési adó alapjának megállapítása során. Ha a szerződő fél nem alanya a helyi iparűzési adónak, akkor a nyilatkozatnak azt kell tartalmaznia, hogy e korrekciót az őt terhelő, a helyi iparűzési adónak megfelelő külföldi adó, ennek hiányában a társasági adó vagy annak megfelelő külföldi adó alapjának megállapítása során figyelembe vette.
+
+(12) A (11) bekezdés szerinti korrekciók úgy is elvégezhetők, hogy a vállalkozó az iparűzési adó alapját egy összegben növeli vagy csökkenti.

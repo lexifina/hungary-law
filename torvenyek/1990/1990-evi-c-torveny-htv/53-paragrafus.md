@@ -52,7 +52,7 @@ kell eszközértéknek tekinteni.
 
 Ha az eszközérték az előbbiek szerint nem állapítható meg, akkor a számviteli törvény szerinti ingatlanok esetén a beszerzési érték 2%-a, egyéb eszközök esetén a beszerzési érték 10%-a tekintendő eszközértéknek. Ha a nyilvántartásokból a beszerzési érték nem állapítható meg, akkor beszerzési értéknek a társasági adóról és az osztalékadóról szóló törvény szerint megállapított piaci érték tekintendő.
 
-A településen kívül változó munkahelyen hasznosított tárgyi eszközök esetében az eszközértéket annál a településnél kell figyelembe venni, ahol ezek működtetésének tényleges irányítása történik, illetőleg – járműveknél – ahol azt jellemzően tárolják.
+A településen kívül változó munkahelyen hasznosított tárgyi eszközök esetében az eszközértéket annál a településnél kell figyelembe venni, ahol ezek működtetésének tényleges irányítása történik, illetőleg – járműveknél – ahol azt jellemzően tárolják. Ettől eltérően a tartós bérletbe, lízingbe adott gépjárművek eszközértékét a székhelyre, telephelyre jutó személyi jellegű ráfordítások arányában kell figyelembe venni.
 
 A részletszámítás a következő:
 
@@ -90,9 +90,9 @@ b) villamos energia elosztó hálózati engedélyes és földgázelosztói enged
 
 kell megosztani a székhely, telephely szerinti önkormányzatok között.
 
-2.3. Az építőipari tevékenységet folytató vállalkozó [52. § 62.] – döntésétől függően, az 1.1., 1.2., 2.1. pontokban foglaltaktól eltérően – adóalapját következők szerint is megoszthatja:
+2.3. Az építőipari tevékenységet folytató vállalkozó [52. § 62.] – döntésétől függően, az 1.1., 1.2., 2.1. pontokban foglaltaktól eltérően – adóalapját következők szerint is megoszthatja, ha e megosztási mód alkalmazása egyetlen település esetén sem eredményez nulla forint települési adóalapot:
 
-Az adóalap 50%-át a székhelye és a Htv. 52. § 31. pontja szerinti telephely(ek) szerinti települések között az 1.1. vagy a 2.1. pont szerinti megosztási módszer alkalmazásával kell megosztani. Az adóalap másik 50%-át pedig a Htv. 37. § (3) bekezdés szerint létrejött telephelyek szerinti települések között, az adott településen végzett építőipari tevékenységből [Htv. 52. § 24.] származó, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett befejezetlen termelés, félkésztermék, késztermék értéke együttes összegének, a vállalkozó 37. § (3) bekezdés szerint létrejött telephely szerinti valamennyi településen végzett építőipari tevékenységéből származó összes, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett összes befejezetlen termelés, félkésztermék, késztermék értéke együttes összegében képviselt aránya szerint kell megosztani.
+Az adóalap 50%-át a székhelye és az 52. § 31. pontja a)–d) alpontja szerinti telephely(ek) szerinti települések között az 1.1. vagy a 2.1. pont szerinti megosztási módszer alkalmazásával kell megosztani. Az adóalap másik 50%-át pedig a 52. § 31. pont e) alpontja szerinti telephelyek szerinti települések között, az adott településen végzett építőipari tevékenységből [52. § 24.] származó, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett befejezetlen termelés, félkésztermék, késztermék értéke együttes összegének, a vállalkozó 52. § 31. pont e) alpontja szerinti telephely szerinti valamennyi településen végzett építőipari tevékenységéből származó összes, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett összes befejezetlen termelés, félkésztermék, késztermék értéke együttes összegében képviselt aránya szerint kell megosztani.
 
 2.4.1. A vezeték nélküli távközlési tevékenységet végző vállalkozó – a Melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között következők szerint köteles megosztani:
 

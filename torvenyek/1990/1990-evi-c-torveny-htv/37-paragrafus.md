@@ -1,11 +1,7 @@
-## Az állandó és ideiglenes jelleggel végzett iparűzési tevékenység
+## Az iparűzési tevékenység
 
-37. § (1) A vállalkozó állandó jellegű iparűzési tevékenységet végez az önkormányzat illetékességi területén, ha ott székhellyel, telephellyel rendelkezik, függetlenül attól, hogy tevékenységét részben vagy egészben székhelyén (telephelyén) kívül folytatja.
+37. § (1) A vállalkozó iparűzési tevékenységet végez az önkormányzat illetékességi területén, ha ott székhellyel, telephellyel rendelkezik, függetlenül attól, hogy tevékenységét részben vagy egészben székhelyén (telephelyén) kívül folytatja.
 
-(2) Ideiglenes jellegű az iparűzési tevékenység, ha az önkormányzat illetékességi területén az ott székhellyel, telephellyel nem rendelkező vállalkozó
+(2)
 
-a) építőipari tevékenységet folytat, illetőleg természeti erőforrást tár fel vagy kutat, feltéve, hogy a folyamatosan vagy megszakításokkal végzett tevékenység időtartama adóéven belül a 30 napot meghaladja, de nem éri el a 181 napot,
-
-b) bármely – az a) pontba nem sorolható – tevékenységet végez, ha annak folytatásából közvetlenül bevételre tesz szert, feltéve, hogy egyetlen önkormányzat illetékességi területén sem rendelkezik székhellyel, telephellyel.
-
-(3) Ha az építőipari tevékenység folytatásának, illetőleg a természeti erőforrás feltárásának, kutatásának időtartama az önkormányzat illetékességi területén a 180 napot meghaladta vagy előreláthatóan meghaladja, akkor e tevékenységek végzésének helye a tevékenység-végzés megkezdésének napjától telephelynek minősül, a vállalkozónak állandó jellegű iparűzési tevékenységet végzőként kell bejelentkeznie és az ideiglenes jellegű tevékenység utáni adót nem kell megfizetnie. Amennyiben a vállalkozó az önkormányzat illetékességi területén folytatott ideiglenes jellegű iparűzési tevékenysége után az adóévre már fizetett adót, akkor azt – eltérően a 40/A. § (1) bekezdés a) pontjában és 40/A. § (2) bekezdésben foglaltaktól – az adott önkormányzat illetékességi területén végzett adóévi állandó jellegű iparűzési tevékenység utáni adóból vonhatja le. Amennyiben a vállalkozó előzetes bejelentésétől eltérően a tevékenység-végzés napjai alapján a vállalkozónak az önkormányzat illetékességi területén ideiglenes jellegű iparűzési tevékenység utáni adókötelezettsége áll fenn, akkor arról legkésőbb az adóévet követő év január 15. napjáig köteles bevallást benyújtani, s a bevallás benyújtásával egyidejűleg az adót az ideiglenes tevékenység után egyébként fizetendő adó eredeti esedékességétől számított késedelmi pótlékkal növelten megfizetni.
+(3)

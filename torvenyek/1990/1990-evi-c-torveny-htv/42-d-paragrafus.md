@@ -1,10 +1,10 @@
-42/D. § (1) Az adózó az állandó jellegű helyi iparűzési adóról szóló adóbevallási kötelezettségét – ideértve az adóbevallás kijavítását és az önellenőrzéssel való helyesbítést – (e § alkalmazásában a továbbiakban együtt: adóbevallás) az állami adóhatóság által rendszeresített, PM rendelet szerinti bevallási nyomtatványnak megfelelő elektronikus nyomtatványon az állami adóhatósághoz elektronikus úton, az állami adóhatóság hatáskörébe tartozó adókról szóló bevallások benyújtására vonatkozó rendelkezések értelemszerű alkalmazásával is teljesítheti.
+42/D. § (1) Az adózó a helyi iparűzési adóról szóló adóbevallási kötelezettségét – ideértve az adóbevallás kijavítását és az önellenőrzéssel való helyesbítést – és az adóelőlegről szóló bevallási kötelezettségét (e § alkalmazásában a továbbiakban együtt: adóbevallás) kizárólag az állami adóhatósághoz elektronikus úton, az állami adóhatóság által rendszeresített elektronikus nyomtatványon, az állami adóhatóság hatáskörébe tartozó adókról szóló bevallások benyújtására vonatkozó rendelkezések értelemszerű alkalmazásával teljesítheti.
 
 (2) Az állami adóhatóság a hozzá beérkezett, számszaki hibát, ellentmondást nem tartalmazó adóbevallást – az adóbevallás-benyújtásra kötelezett azonosítását követően, a befogadó nyugta kiadása mellett – az adóalany által a bevallási nyomtatványon megjelölt székhely, telephely(ek) szerinti önkormányzati adóhatóság részére haladéktalanul továbbítja. Az állami adóhatóság bevalláskitöltésre szolgáló számítógépes rendszere a számszaki hibára, ellentmondásra automatikusan felhívja az adóalany figyelmét és tájékoztatja arról, hogy az adóbevallást az önkormányzati adóhatóság részére csak a hiba adózó általi kijavítását követően továbbítja.
 
 (3) A számszaki hibát, ellentmondást nem tartalmazó vagy a (2) bekezdés szerint javított adóbevallást az önkormányzati adóhatóságnál határidőben teljesítettnek kell tekinteni, feltéve, hogy azt az állami adóhatósághoz határidőben benyújtották.
 
-(4) A sportvállalkozás és a különleges gazdasági övezetbe tartozó területen székhellyel, telephellyel rendelkező adóalany az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
+(4) Az egyéni vállalkozónak nem minősülő magánszemély vállalkozó a helyi iparűzési adóról szóló bevallását az (1) bekezdéstől eltérően papíralapon, az önkormányzati adóhatósághoz is teljesítheti.
 
 (5) Az állami adóhatóság a sportvállalkozás által a (4) bekezdés szerint benyújtott adóbevallás (2) bekezdés szerinti továbbítását megelőzően az adóbevallásban feltüntetett adatokat nyilvántartásba veszi.
 
