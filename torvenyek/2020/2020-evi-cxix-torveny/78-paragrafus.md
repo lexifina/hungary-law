@@ -61,11 +61,3 @@ való megfelelést szolgálja.
 13. a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet
 
 végrehajtását szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
