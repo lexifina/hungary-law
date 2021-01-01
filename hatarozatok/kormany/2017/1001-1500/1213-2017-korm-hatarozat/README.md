@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1213-30
 | --- | --- | --- |
 | 2017-04-10 | 2017-1213-30-22.1 | 1213/2017. (IV. 10.) Korm. határozat |
 | 2017-05-08 | 2017-1213-30-22.2 | 1254/2017. (V. 8.) Korm. határozat |
+| 2021-01-01 | 2017-1213-30-22.3 | 2011: CXCV. törvény |
