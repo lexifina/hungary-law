@@ -1,3 +1,3 @@
-26. §[^76] A működést engedélyező szerv a 24. és 25. § szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, illetve megyei kirendeltséget, az igazgatóságot és az ellátottjogi, illetve gyermekjogi képviselőt.
+26. §[^78] A működést engedélyező szerv a 24. és 25. § szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, illetve megyei kirendeltséget, az igazgatóságot és az ellátottjogi, illetve gyermekjogi képviselőt.
 
-[^76]: A 26. § a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés j) pontja szerint módosított szöveg.
+[^78]: A 26. § a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés j) pontja szerint módosított szöveg.
