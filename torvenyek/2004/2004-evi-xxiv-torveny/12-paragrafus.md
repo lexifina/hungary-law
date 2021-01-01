@@ -1,4 +1,4 @@
-## A lőfegyver-kereskedőkre vonatkozó adatkezelési szabályok
+## A lőfegyver-kereskedőkre vonatkozó szabályok
 
 12. § (1) A lőfegyver-kereskedő a lőfegyver, a lőszer, illetve a lőszerelem forgalmazásakor köteles
 
@@ -8,7 +8,7 @@ b) a vevő, az eladó (szállító), illetve a megrendelő azonosítását a sze
 
 c) a vevő lőfegyver tartására jogosító engedélyének hatályosságáról, valamint arról meggyőződni, hogy a vevő jogosult a forgalmazott lőfegyver, lőszer, lőszerelem megszerzésére, továbbá
 
-d) a (2) bekezdésben meghatározott adatokat a lőfegyverek központi nyilvántartásába továbbítani.
+d) a (2) bekezdésben meghatározott adatokat haladéktalanul a lőfegyverek központi nyilvántartásába továbbítani.
 
 (1a) Kormányrendelet az elektronikus úton történő adattovábbítást kötelezővé teheti, illetve előírhatja, hogy lőfegyver-kereskedői tevékenységet kizárólag az elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel rendelkezők folytathatnak.
 

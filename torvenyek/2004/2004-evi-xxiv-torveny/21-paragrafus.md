@@ -2,4 +2,4 @@
 
 (2) Az e törvénynek a Módtv. hatálybalépését megelőzően hatályban volt 3. § (1) bekezdés c)–d) pontja alapján kiadott megszerzési engedélyt a rendőrség visszavonja, és – amennyiben a visszavont engedély jogosultja ilyennel nem rendelkezik, kérelmére – kiállítja a 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedélyt.
 
-(3) A (2) bekezdés alapján visszavont engedély adatai a lőfegyverek központi nyilvántartásából a visszavonástól számított húsz évig nem törölhetők.
+(3) A (2) bekezdés alapján visszavont engedély adatai a lőfegyverek központi nyilvántartásából a visszavonástól számított húsz évig – a tűzfegyver, illetve a tűzfegyver fődarab tartására jogosító, visszavont engedélyben rögzített adatok a tűzfegyver, illetve a tűzfegyver fődarab megsemmisítésének az időpontjától számított harminc évig – nem törölhetők.

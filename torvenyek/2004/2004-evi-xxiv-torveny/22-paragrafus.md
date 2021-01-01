@@ -2,17 +2,19 @@
 
 22. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-a) a lőfegyverek – ideértve a filmgyártási célú lőfegyvereket is – és más fegyverek, a lőszerek, valamint a gáz-, a riasztó és a vaktöltények gyártását, javítását, szállítását, hatástalanítását, forgalmazását, megszerzését, tartását, kiállítását, behozatalát, kivitelét, átszállítását, használatát, a hatástalanított lőfegyverek tartását és forgalomba hozatalát, az engedélyek tartalmi, formai követelményeit, valamint az ezekkel összefüggő nyilvántartás és az e nyilvántartásba, illetve az abból történő adatszolgáltatás eljárási szabályait,
+a) a lőfegyverek – ideértve a filmgyártási célú lőfegyvereket is – és más fegyverek, a lőszerek, valamint a gáz-, a riasztó és a vaktöltények gyártását, javítását, átalakítását, szállítását, hatástalanítását, forgalmazását, megszerzését, tartását, kiállítását, behozatalát, kivitelét, átszállítását, használatát, a hatástalanított lőfegyverek tartását és forgalomba hozatalát, az engedélyek és a bejelentések tartalmi, formai követelményeit, valamint az ezekkel összefüggő nyilvántartás és az e nyilvántartásba, illetve az abból történő adatszolgáltatás eljárási szabályait,
 
 b) a polgári célú pirotechnikai termékek körét, a polgári célú pirotechnikai tevékenység folytatásának feltételeire és hatósági felügyeletére, továbbá az e tevékenységre jogosító további engedélyezési feltételekre, az engedélyek kiadásának rendjére, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, a nyilvántartás vezetésére, valamint az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek meg nem tartásának esetén alkalmazandó jogkövetkezményekre vonatkozó részletes szabályokat és a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzatot,
 
-c) a 3. § (1) bekezdése szerinti közigazgatási hatósági ügyek ágazati intézményi szabályait és az ezen ügyek elbírálására irányuló közigazgatási hatósági eljáráshoz, illetve az azzal összefüggő hatósági ellenőrzéshez kapcsolódó kiegészítő eljárási rendelkezéseket,
+c) a 3. § (1) bekezdése, valamint a 4/F. § szerinti közigazgatási hatósági ügyek ágazati intézményi szabályait és az ezen ügyek elbírálására irányuló közigazgatási hatósági eljáráshoz, illetve az azzal összefüggő hatósági ellenőrzéshez kapcsolódó kiegészítő eljárási rendelkezéseket,
 
 d) a 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyek ágazati intézményi szabályait és az ezen ügyek elbírálására irányuló közigazgatási eljáráshoz, illetve az azzal összefüggő hatósági ellenőrzéshez kapcsolódó kiegészítő eljárási rendelkezéseket.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelv 3. cikke szerinti nemzeti kapcsolattartó pont feladatait ellátó szervezetet.
+
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben meghatározza:
 
-a) a hatósági tárolás, leadás, értékesítés, valamint a megsemmisítési eljárás részletes szabályait,
+a) a lőfegyver, lőszer hatósági tárolásának, leadásának, értékesítésének, valamint megsemmisítésének a részletes szabályait, továbbá a lőfegyverek központi nyilvántartásába történő elektronikus adattovábbítás technikai feltételeit,
 
 b) a fegyver tartásához, illetve jogszerű használatához, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
 

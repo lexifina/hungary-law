@@ -1,0 +1,3 @@
+21/B. § (1) E törvénynek a 2. Módtv.-vel megállapított rendelkezései – a (2) bekezdésben meghatározott kivétellel – nem érintik a 2. Módtv. hatálybalépésének az időpontjában jogszerűen tartott tűzfegyvereknek és lőszereknek az e törvény 2. Módtv. hatálybalépését megelőzően hatályban volt Melléklete alapján fennállott besorolását.
+
+(2) A 3. § (1) bekezdés c) pont cb) alpontja szerinti engedélyt a rendőrség az (1) bekezdésben meghatározott tűzfegyverre és lőszerre az 1. mellékletben foglalt besorolásnak megfelelően adja ki. Nincs helye a 3. § (1) bekezdés c) pont cb) alpontja szerinti engedély kiadásának abban az esetben, ha az engedély kiadását e törvénynek a 2. Módtv.-vel megállapított rendelkezései kizárják.

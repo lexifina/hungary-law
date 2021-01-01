@@ -20,7 +20,7 @@
 
 10. hangtompító: lőfegyver torkolatdörejének csökkentésére szolgáló, a fegyvercsőre vagy annak torkolatára felszerelhető eszköz;
 
-11. hatástalanított lőfegyver: lőszer, illetve lövedék kilövésére véglegesen alkalmatlanná tett lőfegyver;
+11. hatástalanított lőfegyver: a lőszer, illetve lövedék kilövésére a jogszabályban meghatározott vagy az azzal egyenértékű biztonsági szintet garantáló módon a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i (EU) 2015/2403 bizottsági rendelet (a továbbiakban: Bizottsági Rendelet) kötelező alkalmazását megelőzően véglegesen alkalmatlanná tett tűzfegyver;
 
 12. hosszú lőfegyver: a rövid lőfegyvernek nem minősülő lőfegyver;
 
@@ -56,31 +56,49 @@
 
 28. rövid lőfegyver: olyan lőfegyver, amelynek csöve nem haladja meg a 30 cm hosszúságot, vagy amelynek teljes hossza nem haladja meg a 60 centimétert;
 
-29. tűzfegyver: olyan, a Mellékletben meghatározott „A”, „B”, „C” vagy „D” kategóriába tartozó – vagy ilyenné átalakított – eszköz, amelyből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, kivéve, ha
+29. tűzfegyver: az 1. mellékletben meghatározott
 
-a) a jogszabályban meghatározott módon hatástalanították,
+a) „A” vagy „B” kategóriába tartozó olyan – vagy olyanná átalakítható – kézifegyver, amelynek csövéből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, ideértve a szilárd anyagú lövedék gyúlékony hajtóanyag segítségével történő kilövésére átalakítható fegyvert is, kivéve, ha
 
-b) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy rendeltetésszerűen csak e célokra használható, vagy
+aa) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy rendeltetésszerűen csak e célokra használható, vagy
 
-c) a jogszabály rendelkezése alapján muzeális fegyvernek minősül;
+ab) e törvény alapján hatástalanított lőfegyvernek vagy muzeális fegyvernek minősül,
 
-30. tűzfegyver fődarab (lőfegyverdarab): fegyvercső, váltócső, betétcső, zár vagy zárszerkezet, forgódob és az ezeket egybefoglaló tokszerkezet. A tűzfegyver fődarab abba a tűzfegyver kategóriába tartozik, amelyre felszerelték vagy amelyhez gyártották;
+b) „A” vagy „B” kategóriába tartozó színházi tűzfegyver,
+
+c) „A”, „B” vagy „C” kategóriába tartozó olyan eszköz, amely rendeltetésszerűen csak gáztöltény vagy riasztótöltény működtetésére alkalmas, feltéve, hogy e törvény alapján nem minősül gáz- és riasztófegyvernek, valamint
+
+d) „C” kategóriába tartozó, a lőszer, illetve lövedék kilövésére a Bizottsági Rendelet I. MELLÉKLETÉBEN meghatározott követelményeknek megfelelő módon véglegesen alkalmatlanná tett tűzfegyver;
+
+30. tűzfegyver fődarab (lőfegyverdarab): a fegyvercső, a váltócső, a betétcső, a forgódob, az ezeket egybefoglaló tokszerkezet, a zár vagy zárszerkezet, valamint a szán; a tűzfegyver fődarab abba a tűzfegyver-kategóriába tartozik, amelyre felszerelték vagy amelyhez gyártották;
 
 31. festéklövő fegyver: olyan sűrített levegő vagy egyéb sűrített gáz felhasználásával működő eszköz, melynek csövéből 15 joule vagy annál kisebb mozgási energiával lőhető ki festéklövedék;
 
-32. gáz- és riasztófegyver: olyan eszköz, amely rendeltetésszerűen csak gáztöltény és riasztótöltény működtetésére alkalmas;
+32. gáz- és riasztófegyver: olyan eszköz, amely rendeltetésszerűen csak gáztöltény vagy riasztótöltény működtetésére alkalmas, feltéve, hogy
+
+a) e törvény alapján nem minősül színházi tűzfegyvernek,
+
+b) nem rendelkezik saját töltényűrrel, vagy
+
+c) – a saját töltényűrrel rendelkező darabok esetében –
+
+ca) viselését a 3. § (1) bekezdés d) pontja szerint engedélyezték,
+
+cb) 2023. január 1. napját megelőzően gáz- és riasztófegyverként jogszerűen forgalomba hozták, vagy
+
+cc) megfelel a 2. mellékletben meghatározott követelményeknek;
 
 33. gáztöltény: olyan, szilárd anyagú lövedékkel nem rendelkező töltény, amely a szemre és a légutakra ingerlő hatást kifejtő adalékanyagot tartalmaz;
 
 34. riasztótöltény: az a lövedékkel nem rendelkező, hang-, fény- és füsthatás kiváltására szolgáló töltény, amelynek kaliberjelét a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendelet, illetve az abban meghatározott szabvány a riasztópisztoly és a riasztó revolvertöltények körében nevesíti;
 
-35. színházi fegyver: kifejezetten vaktöltény működtetésére készült, lőfegyverből kialakított fegyver, amelynek csövét (forgódobját) úgy alakították át, hogy az a fegyverhez eredetileg használható lőszer befogadására nem alkalmas, illetve a csőben elhelyezett szűkítések megakadályozzák űrméretes lövedékek kilövését, továbbá az a lövedék kilövésére alkalmatlan gáz- és riasztófegyver, amelyet színházi fegyverként kívánnak használni;
+35. színházi tűzfegyver: a kifejezetten vaktöltény működtetésére készült, az 1. mellékletben meghatározott „A” vagy „B” kategóriába tartozó tűzfegyver, amelynek csövét (forgódobját) úgy alakították át, hogy az a fegyverhez eredetileg használható lőszer befogadására nem alkalmas, illetve a csőben elhelyezett szűkítések megakadályozzák űrméretes lövedékek kilövését, továbbá a rendeltetésszerűen csak gáztöltény vagy riasztótöltény működtetésére alkalmas, szilárd anyagú lövedék kilövésére alkalmatlan olyan eszköz, amelynek a színházi fegyverként történő tartását engedélyezték vagy amelyet színházi és hagyományőrző használati célra kívánnak használni;
 
 36. átadás: amikor a tartásra jogosító hatósági engedélyben megjelölt eszköz a tartására jogosult felügyelete alól kikerül;
 
 37. átengedés: amikor a tartásra jogosító hatósági engedélyben megjelölt eszközt a tartására jogosult felügyelete alatt használják vagy birtokolják;
 
-38. fegyver: a lőfegyver, a gáz- és riasztófegyver, a légfegyver, a festéklövő fegyver, a muzeális fegyver, valamint a színházi fegyver;
+38. fegyver: a lőfegyver, a gáz- és riasztófegyver, a légfegyver, a festéklövő fegyver, a muzeális fegyver, valamint a színházi lőfegyver;
 
 39. festéklövedék: a festéklövő fegyverekhez használatos, becsapódáskor felrepedő burokban folyékony festékanyagot tartalmazó, 5 grammot nem meghaladó tömegű, 12 mm-nél nagyobb átmérőjű lövedék;
 
@@ -90,7 +108,7 @@ c) a jogszabály rendelkezése alapján muzeális fegyvernek minősül;
 
 42. lőfegyver jellege: sörétes lőfegyver (huzagolatlan hosszú), golyós lőfegyver (huzagolt hosszú), maroklőfegyver (rövid), 7,5 joule vagy annál kisebb csőtorkolati energiájú flóbert fegyver és 7,5 joule csőtorkolati energia feletti teljesítményű légfegyver;
 
-43. lőfegyvertartási cél: az önvédelem, a munkavégzés, a filmgyártás, a céllövészet, az oktatás, a sportlövészet, a személy- és vagyonvédelem, valamint a vadászat;
+43. lőfegyvertartási cél: az önvédelem, a munkavégzés, a filmgyártás, a színházi és hagyományőrző használat, a céllövészet, az oktatás, a sportlövészet, a személy- és vagyonvédelem, valamint a vadászat;
 
 44. házilagos lőszerszerelés és -újratöltés: lőszer saját felhasználás céljára történő házilagos gyártása (lőszerelemekből és egyéb alkatrészekből történő összeszerelése), amelyre a lőszergyártástól eltérő szabályok vonatkoznak;
 
@@ -98,4 +116,12 @@ c) a jogszabály rendelkezése alapján muzeális fegyvernek minősül;
 
 46. vadászlőfegyver: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvény szerint vadászatra használható lőfegyver;
 
-47. vaktöltény: az a lövedékkel nem rendelkező, hang-, fény- és füsthatás kiváltására szolgáló töltény, amelynek kaliberjelét a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendelet, illetve az abban meghatározott szabvány a riasztópisztoly és a riasztó revolvertöltények vagy az ipari lövőkészülékek hüvelytöltényei körében nem nevesíti.
+47. vaktöltény: az a lövedékkel nem rendelkező, hang-, fény- és füsthatás kiváltására szolgáló töltény, amelynek kaliberjelét a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendelet, illetve az abban meghatározott szabvány a riasztópisztoly és a riasztó revolvertöltények vagy az ipari lövőkészülékek hüvelytöltényei körében nem nevesíti;
+
+48. alkategória: a tűzfegyvereknek és a lőszereknek az e törvény szerinti „A”, „B” vagy „C” kategórián belüli – az 1. mellékletben foglalt számozás, illetve egyéb jelölés segítségével meghatározott – besorolása;
+
+49. a tűzfegyver kategóriájának, illetve alkategóriájának a megváltozását eredményező átalakítás: olyan tevékenység, amelynek az eredményeként a tűzfegyvernek a kizárólag az 1. melléklet szerinti valamely kategóriára, illetve alkategóriára jellemző tulajdonsága a kizárólag az 1. melléklet szerinti valamely másik kategóriára, illetve alkategóriára jellemző tulajdonságra változik;
+
+50. egyedi jóváhagyást igénylő lőfegyver: az a lőfegyver, amelynek az engedély nélküli megszerzését és tartását, illetve amelyre nézve az adott tevékenység engedély nélküli végzését e törvény kizárja;
+
+51. működőképes lőfegyver: a 16. pontban meghatározott légfegyver, valamint a 29. pont b)–d) alpontjában meghatározott tűzfegyver kivételével a tűzfegyver.

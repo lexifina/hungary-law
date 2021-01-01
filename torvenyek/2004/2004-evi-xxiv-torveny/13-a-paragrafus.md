@@ -1,0 +1,5 @@
+13/A. § (1) A lőfegyver-kereskedő – a vevő, illetve a megrendelő (e § alkalmazásában a továbbiakban együtt: vevő) adatainak a 12. § (1) bekezdés a) pontja szerinti nyilvántartásba vételét követően – megtagadhatja a lőszer, a lőszerelem eladását, cseréjét, illetve bérbeadását, ha különösen az ügylet célja, a beszerezni kívánt mennyiség, a teljesítés, illetve a fizetés módja vagy a vevőnek a fizetés feltételeire vonatkozó nyilatkozata az eszköz jogellenes felhasználásának a szándékára utal.
+
+(2) A szerződéskötés (1) bekezdés szerinti megtagadásának kizárólagos alapjául nem szolgálhat olyan tény, esemény, cselekmény vagy körülmény, amelyre a 3. § (1) bekezdésében meghatározott engedély kiterjed.
+
+(3) A szerződéskötés (1) bekezdés szerinti megtagadásáról – a 12. § (1) bekezdés a) pontjának megfelelően nyilvántartásba vett adatok, valamint az esettel összefüggésben rendelkezésre álló valamennyi lényeges információ egyidejű átadása mellett – a lőfegyver-kereskedő haladéktalanul tájékoztatni köteles a lőfegyverek központi nyilvántartását vezető hatóságot.

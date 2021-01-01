@@ -2,13 +2,19 @@
 
 23. § (1) Ez a törvény
 
-a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2008. május 21-i 2008/51/EK európai parlamenti és tanácsi irányelvvel módosított, a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
+a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i, 91/477/EGK tanácsi irányelvnek,
 
-b) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i, 2014/28/EU európai parlamenti és tanácsi irányelv 12. cikkének és 14. cikk (1) bekezdésének,
+b) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2008. május 21-i 2008/51/EK európai parlamenti és tanácsi irányelvnek,
 
-c) a pirotechnikai termékek forgalomba hozataláról szóló, 2007. május 23-i 2007/23/EK európai parlamenti és tanácsi irányelvnek
+c) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2017. május 17-i (EU) 2017/853 európai parlamenti és tanácsi irányelvnek,
 
-d) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+d) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelvnek,
+
+e) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/28/EU európai parlamenti és tanácsi irányelv 12. cikkének és 14. cikk (1) bekezdésének,
+
+f) a pirotechnikai termékek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2013. június 12-i 2013/29/EU európai parlamenti és tanácsi irányelvnek, valamint
+
+g) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -17,47 +23,3 @@ való megfelelést szolgálja.
 (1b) A 6. § (4) bekezdés b) pontja a 91/477/EGK tanácsi irányelv értelmében a tűzfegyverek Unión belüli transzferére vonatkozó információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2019. január 16-i (EU) 2019/686 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény 18/C. §-a tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
-
-## Melléklet a 2004. évi XXIV. törvényhez
-
-Tűzfegyverek és lőszerek
-
-,,A'' kategória
-
-1. Automata tűzfegyverek.
-
-2. Más tárgynak álcázott tűzfegyver.
-
-3. Páncéltörő (áthatoló), robbanó, fényjelző vagy gyújtólövedékeket tartalmazó lőszer, valamint az ilyen lőszerhez való lövedék.
-
-4. Expanzív (kiterjedő) lövedéket tartalmazó pisztoly- és revolverlőszer, valamint az ilyen lőszerhez való lövedék, kivéve a vadászati vagy sportlövészeti célokat szolgáló lőfegyverhez, a használatukra jogosult személyek számára.
-
-,,B'' kategória
-
-1. Félautomata vagy ismétlő rövid tűzfegyverek.
-
-2. Központi gyújtású egylövetű rövid tűzfegyverek.
-
-3. Peremgyújtású egylövetű rövid tűzfegyverek, melyek teljes hossza 28 cm-nél rövidebb.
-
-4. Félautomata hosszú tűzfegyverek, melyek tölténytára és töltényűrje együttesen háromnál több lőszer befogadására alkalmas.
-
-5. Félautomata hosszú tűzfegyverek, amelyek tölténytára és töltényűrje együttesen háromnál több lőszer befogadására nem alkalmas, ha a töltőszerkezet eltávolítható, vagy ha nem biztos, hogy szokásos szerszámokkal a tűzfegyvert nem lehet olyan tűzfegyverré átalakítani, amelynek tölténytára és töltényűrje együttesen háromnál több lőszer befogadására alkalmas.
-
-6. Ismétlő és félautomata hosszú tűzfegyverek huzagolatlan, 60 cm-t meg nem haladó hosszúságú csővel.
-
-7. Külső formában automata szerkezetű tűzfegyverre hasonlító félautomata tűzfegyverek.
-
-,,C'' kategória
-
-1. A ,,B'' kategória 6. pontjában felsoroltakon kívüli egyéb ismétlő hosszú tűzfegyverek.
-
-2. Egylövetű hosszú tűzfegyverek huzagolt csővel.
-
-3. A ,,B'' kategória 4–7. pontjaiban felsoroltakon kívüli félautomata hosszú tűzfegyverek.
-
-4. Peremgyújtású egylövetű rövid tűzfegyverek, amelyeknek teljes hossza legalább 28 cm.
-
-,,D'' kategória
-
-Egylövetű hosszú tűzfegyverek huzagolatlan csővel.
