@@ -1,8 +1,8 @@
 ## Az ideiglenes médiaszolgáltatás
 
-65. § (1) A Médiatanács kérelemre – médiapiaci és médiapolitikai szempontok figyelembevételével – ideiglenes, legfeljebb harminc napra szóló hatósági szerződést köthet olyan helyi médiaszolgáltatási lehetőség hasznosítására,
+65. § (1) A Médiatanács kérelemre – médiapiaci és médiapolitikai szempontok figyelembevételével – ideiglenes, legfeljebb száznyolcvan napra szóló hatósági szerződést köthet olyan médiaszolgáltatási lehetőség hasznosítására,
 
-a) amelynek a frekvenciatervét a Hivatal a 49. § (5) bekezdés alapján közzétette, azonban hatósági szerződést még nem kötött,
+a)
 
 b)
 

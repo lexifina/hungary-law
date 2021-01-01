@@ -8,7 +8,7 @@ b) eredményesség esetén a pályázati eljárás nyertesét.
 
 (2) Eredménytelen a pályázati eljárás, amennyiben valamennyi benyújtott pályázati ajánlat alaki vagy tartalmi szempontból érvénytelen.
 
-(3) Nyertessé kizárólag olyan pályázó nyilvánítható, amely a pályázati ajánlat benyújtásától kezdve folyamatosan megfelelt az e törvényben és a pályázati felhívásban meghatározott részvételi feltételeknek. Helyi médiaszolgáltatásra vonatkozó pályázati eljárás esetén, ha egyetlen pályázó felel meg a törvényi, illetve pályázati követelményeknek, a Médiatanács az (1) bekezdés b) pontja szerint megállapítja a pályázó nyertességét.
+(3) Nyertessé kizárólag olyan pályázó nyilvánítható, aki a pályázati ajánlat benyújtásától kezdve folyamatosan megfelelt az e törvényben és a pályázati felhívásban meghatározott részvételi feltételeknek. Amennyiben egyetlen pályázó felel meg a törvényi, illetve pályázati követelményeknek, a Médiatanács az (1) bekezdés b) pontja szerint megállapítja a pályázó nyertességét.
 
 (4) A Médiatanács az (1) bekezdés szerinti döntését a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
 

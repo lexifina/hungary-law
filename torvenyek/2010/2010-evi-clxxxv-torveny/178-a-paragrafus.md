@@ -1,4 +1,4 @@
-178/A. § Amennyiben az 1. § (6) bekezdése szerinti harmadik országbeli médiaszolgáltató médiaszolgáltatása Magyarország területére irányul, illetve terjesztése Magyarország területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés c) pontja szerinti jogkövetkezményt alkalmazhatja, ha a következő feltételek fennállnak:
+178/A. § Amennyiben az 1. § (6) bekezdése szerinti harmadik országbeli médiaszolgáltató médiaszolgáltatása Magyarország területére irányul, illetve terjesztése Magyarország területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b) pontja szerinti jogkövetkezményt alkalmazhatja, ha a következő feltételek fennállnak:
 
 a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
 

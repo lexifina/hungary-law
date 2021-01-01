@@ -35,3 +35,5 @@
 (16) A Hatóság vagyonkezelőként díj vagy egyéb ellenérték fizetésére nem kötelezhető.
 
 (17) A Hatóság támogatási megállapodás alapján a jelen törvény szerinti támogatási célból beszerzett eszközöket vissza nem térítendő támogatásként ingyenesen átadhatja.
+
+(18) A Hatóság a 184. § (2) bekezdés d) pontja szerinti közfeladat ellátására a Kormány által felhatalmazott kormányzati igazgatási szervvel közszolgáltatási szerződést köt. A közszolgáltatási szerződés és a hatósági feladatellátás feltétele, hogy a központi költségvetésben a feladat ellátásához a fedezet a kormányzati igazgatási szerv költségvetésében biztosított legyen, és azt a Hatóság részére átadja.

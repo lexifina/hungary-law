@@ -4,4 +4,4 @@
 
 (3) Az (1) bekezdésben szereplő feltétel megvalósulása esetén, e törvény vagy az Smtv. érintett rendelkezéseinek megsértésekor a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott médiaszolgáltatást nyújtó médiaszolgáltató vagy a sajtóterméket kiadó tartozik.
 
-(4) A Médiatanács határozatával az (1) bekezdésben említett médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–c) pont szerinti jogkövetkezményeket akkor alkalmazhatja, ha megállapítja, hogy a (3) bekezdés alapján a joghatósággal rendelkező tagállam az intézkedést két hónapon belül nem vagy nem megfelelő módon tette meg.
+(4) A Médiatanács határozatával az (1) bekezdésben említett médiaszolgáltatóval szemben a 187. § (3) bekezdés b) pontja és (4) bekezdése szerinti jogkövetkezményeket akkor alkalmazhatja, ha megállapítja, hogy a (3) bekezdés alapján a joghatósággal rendelkező tagállam az intézkedést két hónapon belül nem vagy nem megfelelő módon tette meg.

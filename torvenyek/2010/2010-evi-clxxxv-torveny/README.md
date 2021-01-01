@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2010-185-00-00.38 |
 | 2020-09-19 | 2019. évi LXIII. törvény | 2010-185-00-00.39 |
 | 2020-09-20 | 2020. évi LXXVI. törvény | 2010-185-00-00.40 |
+| 2021-01-01 | 2020. évi CXLVIII. törvény | 2010-185-00-00.41 |

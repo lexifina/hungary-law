@@ -102,6 +102,6 @@ f) a médiaszolgáltató ismételt súlyos jogsértése miatt a 185–187. §-ba
 
 (9a) Ha a lineáris médiaszolgáltatás médiaszolgáltatója bejelenti, hogy a nyilvántartásban szereplő adataiban változás következett be és a változás következtében a médiaszolgáltató szolgáltatásával teljes egészében vagy túlnyomórészt egy másik tagállam közönségét célozza, a Hivatal erről a tényről tájékoztatja a másik tagállam nemzeti szabályozó hatóságát vagy szervét.
 
-(10) Az adatváltozás késedelmes teljesítése, vagy elmulasztása miatt a Hivatal a 187. § (3) ba) vagy bb) pont szerinti bírsággal sújthatja a médiaszolgáltatót.
+(10) Az adatváltozás késedelmes teljesítése, vagy elmulasztása miatt a Hivatal a 187. § (4) bekezdés a) vagy b) pontja szerinti bírsággal sújthatja a médiaszolgáltatót.
 
 (11) A médiaszolgáltatók hálózatba kapcsolódásának feltétele a Médiatanács e törvény 64. §-ban foglaltak megfelelő alkalmazásával meghozott hatósági határozatában foglalt engedélye.

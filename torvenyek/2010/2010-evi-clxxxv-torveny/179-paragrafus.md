@@ -6,7 +6,7 @@
 
 (3) Amennyiben más tagállam állapítja meg, hogy Magyarország joghatósága alá tartozó médiaszolgáltató audiovizuális médiaszolgáltatása teljes egészében vagy túlnyomórészt e tagállam területére irányul, és e tagállam felkéri Magyarországot, hogy kezelje az ezzel kapcsolatban azonosított problémákat, a Médiatanács mindent megtesz, hogy kölcsönösen megfelelő megoldást találjanak. Ennek keretében e tagállam indokolt kérelmére a Médiatanács intézkedik a tagállam által megjelölt jogsértések megszüntetése érdekében és rendszeresen tájékoztatja a tagállamot a megtett intézkedésekről. A kérelem kézhezvételétől számított két hónapon belül tájékoztatja továbbá a kérelmező tagállamot és az Európai Bizottságot az intézkedések eredményeiről vagy az eredménytelenség okairól.
 
-(4) A Médiatanács az (1) bekezdésben említett médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–d) pontja szerinti jogkövetkezményeket akkor alkalmazhatja, ha
+(4) A Médiatanács az (1) bekezdésben említett médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–c) pontja és (4) bekezdése szerinti jogkövetkezményeket akkor alkalmazhatja, ha
 
 a) megállapítja, hogy a (2) bekezdés alapján a joghatósággal rendelkező tagállam az intézkedést két hónapon belül nem vagy nem megfelelő módon tette meg,
 

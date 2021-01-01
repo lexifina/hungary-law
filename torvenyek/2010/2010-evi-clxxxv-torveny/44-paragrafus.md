@@ -2,13 +2,15 @@
 
 44. § (1) A nyilvántartásba vétel útján lineáris médiaszolgáltatásra jogosult a Hivatal által meghatározott mértékű médiaszolgáltatási díjat fizet.
 
-(2) A médiaszolgáltató ellenszolgáltatásként negyedévenként előre köteles médiaszolgáltatási díjat fizetni. Hálózatba kapcsolódás esetén a hálózatba kapcsolódó médiaszolgáltató médiaszolgáltatási díjának a hálózatos műsoridővel arányos részét a hálózatos médiaszolgáltató fizeti.
+(2) A médiaszolgáltató ellenszolgáltatásként negyedévenként előre köteles médiaszolgáltatási díjat fizetni. A Hivatal a médiaszolgáltató indokolt és a fizetési határidő lejártát megelőzően előterjesztett kérelme alapján a médiaszolgáltatási díj havi rendszerességű előre történő megfizetéséről hatósági eljárásban dönt. A Hivatal a kérelem engedélyezése esetén módosítja a médiaszolgáltató nyilvántartásba vételére vonatkozó hatósági határozatát. A médiaszolgáltató a havi díj megállapítására irányuló kérelmet tizenkét hónap alatt egy alkalommal terjeszthet elő, a kérelem engedélyezése esetén a havi díj megállapítása a kérelem elbírálását követő tizenkét hónapra történik. Hálózatba kapcsolódás esetén a hálózatba kapcsolódó médiaszolgáltató médiaszolgáltatási díjának a hálózatos műsoridővel arányos részét a hálózatos médiaszolgáltató fizeti.
+
+(2a) A médiaszolgáltató esedékességet megelőzően benyújtott és indokolt kérelmére a Hivatal a médiaszolgáltatási díj megfizetése tekintetében részletfizetést engedélyezhet. Ha a médiaszolgáltató az esedékes részlet befizetését nem teljesíti, az e bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. A részletfizetés tárgyában hozott végzés közigazgatási perben megtámadható.
 
 (3) A díjfizetés késedelme esetén a Médiatanács a szerződést tizenöt napos határidővel felmondhatja.
 
 (4) A díjfizetés késedelme a törvény súlyos megsértésének minősül.
 
-(5) A hatósági vagy műsorszolgáltatási szerződés alapján végezhető médiaszolgáltatás esetében a médiaszolgáltatási díj az adott médiaszolgáltatási jogosultságra vonatkozó médiaszolgáltatási alapdíj és a pályázati eljárásban a nyertes pályázó által vállalt díjrészlet összege. A médiaszolgáltatási alapdíjat a Médiatanács a pályázati felhívásban állapítja meg.
+(5)
 
 (6) A médiaszolgáltatási alapdíjnak az adott médiaszolgáltatás vételkörzetének nagyságával arányosnak kell lennie, ugyanakkor tekintetbe kell vennie az adott terület lakossági vásárlóerejének mutatóját és a médiaszolgáltatók vételkörzet, médiaszolgáltatás fajta, terjesztési mód vagy más jelentős szempont alapján elkülöníthető csoportjai által elért piaci részesedését is.
 

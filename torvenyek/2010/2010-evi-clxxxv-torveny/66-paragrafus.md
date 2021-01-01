@@ -32,7 +32,7 @@ b) kulturális műsorszámokat tesz közzé,
 
 c) törekszik a fogyatékkal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
 
-d) audiovizuális médiaszolgáltatás esetén a magyar, illetve európai műsorkvótákra vonatkozó, 20. § szerinti előírások szerint működik, a 22. § (2) bekezdésben foglalt mentesítési lehetőség igénybe vétele nélkül, ide nem értve a független műsorkészítőkre vonatkozó műsorkvóták alóli, 22. § (2) bekezdés szerinti esetleges mentesülést,
+d)
 
 e) legalább naponta négyórányi műsoridővel rendelkezik,
 

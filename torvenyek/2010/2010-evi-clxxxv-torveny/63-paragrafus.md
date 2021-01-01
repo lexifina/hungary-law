@@ -16,9 +16,11 @@
 
 (8) Amennyiben a hatósági szerződésben meghatározott időpontig a médiaszolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, a Médiatanács jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
 
-(9) A médiaszolgáltató a hatósági szerződésben megállapított médiaszolgáltatási díjat negyedévenként előre köteles megfizetni. A médiaszolgáltatási jogosultság elnyerésekor a médiaszolgáltatási díjat fél évre előre kell megfizetni.
+(9) A médiaszolgáltató a hatósági szerződésben megállapított médiaszolgáltatási díjat negyedévenként előre köteles megfizetni.
 
-(10) Amennyiben a médiaszolgáltató a médiaszolgáltatási díj bármely részének megfizetésével késedelembe esik, vagy a díjfizetést elmulasztja, a Médiatanács jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést tizenöt napos határidővel felmondani.
+(10) Amennyiben a médiaszolgáltató a médiaszolgáltatási díj bármely részének megfizetésével késedelembe esik, vagy a díjfizetést elmulasztja, a Médiatanács jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést tizenöt napos határidővel felmondani. A Médiatanács – a médiaszolgáltató kérelmére vagy hivatalból – a médiaszolgáltatási díj összegét, az Mttv. 44. § (6) bekezdésében rögzített szempontok figyelembevételével, legkorábban a médiaszolgáltatási jogosultság kezdete szerinti naptári évet követő második naptári évre vonatkozóan felülvizsgálhatja. A médiaszolgáltató a médiaszolgáltatási díj felülvizsgálatát legkorábban a médiaszolgáltatási jogosultság kezdete szerinti naptári évet követő naptári évben, a következő évre vonatkozóan augusztus 31. napjáig kezdeményezheti. A Médiatanács a médiaszolgáltatási díj felülvizsgálatáról legkésőbb október 31. napjáig dönt.
+
+(10a) A médiaszolgáltató esedékességet megelőzően benyújtott és indokolt kérelmére a Médiatanács a médiaszolgáltatási díj megfizetése tekintetében részletfizetést engedélyezhet. Ha a médiaszolgáltató az esedékes részlet befizetését nem teljesíti, az e bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. A részletfizetés tárgyában hozott végzés közigazgatási perben megtámadható.
 
 (11) A hatósági szerződésben meg kell határozni a szerződésszegés következményeit.
 

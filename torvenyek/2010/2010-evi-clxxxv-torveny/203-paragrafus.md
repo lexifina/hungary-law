@@ -56,9 +56,9 @@ A c) és az e) pontban meghatározott művek abban az esetben tekinthetők euró
 
 12. Független műsorkészítő: olyan műsorkészítő vállalkozás, amelyben az érintett médiaszolgáltatónak, illetve a médiaszolgáltatóban befolyásoló részesedéssel rendelkező tulajdonosnak nincs közvetett vagy közvetlen tulajdoni részesedése, illetőleg amellyel a médiaszolgáltató vezetőjének, vezető állású alkalmazottjának, valamint ezek közeli hozzátartozóinak nincs munkavégzésre irányuló jogviszonya vagy tulajdoni érdekeltsége.
 
-13. Hálózatba kapcsolódás: két vagy több lineáris médiaszolgáltatást nyújtó médiaszolgáltató vagy lineáris médiaszolgáltatás összekapcsolódása ugyanazon műsorszám vagy műsor egyidejű vagy csaknem egyidejű szolgáltatására.
+13. Hálózatba kapcsolódás: két vagy több lineáris rádiós médiaszolgáltatást nyújtó médiaszolgáltató vagy lineáris rádiós médiaszolgáltatás összekapcsolódása ugyanazon műsorszám vagy műsor egyidejű vagy csaknem egyidejű szolgáltatására.
 
-14. Hálózatos médiaszolgáltató: az a lineáris médiaszolgáltatást nyújtó médiaszolgáltató, amelynek műsora vagy műsorszáma hálózatos médiaszolgáltatásban terjesztésre kerül.
+14. Hálózatos médiaszolgáltató: az a lineáris rádiós médiaszolgáltatást nyújtó médiaszolgáltató, amelynek műsora vagy műsorszáma hálózatos rádiós médiaszolgáltatásban terjesztésre kerül.
 
 15. Helyi médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzetében éves átlagban legfeljebb százezer lakos vagy egy városon belül legfeljebb ötszázezer lakos él.
 

@@ -1,6 +1,6 @@
 ## A jelentős befolyásoló erővel rendelkező médiaszolgáltatók meghatározása
 
-69. § (1) JBE médiaszolgáltatónak minősül a legalább tizenöt százalékos éves átlagos közönségaránnyal rendelkező lineáris audiovizuális médiaszolgáltató és lineáris rádiós médiaszolgáltató feltéve, hogy legalább egy médiaszolgáltatásának éves átlagos közönségaránya eléri a három százalékot.
+69. § (1) JBE médiaszolgáltatónak minősül a legalább tizenöt százalékos éves átlagos közönségaránnyal rendelkező lineáris audiovizuális médiaszolgáltató, feltéve, hogy legalább egy médiaszolgáltatásának éves átlagos közönségaránya eléri a három százalékot JBE médiaszolgáltatónak minősül a közszolgálati, közösségi és tematikus médiaszolgáltató kivételével legalább húszszázalékos éves átlagos közönségaránnyal rendelkező lineáris rádiós médiaszolgáltató is, feltéve, hogy legalább egy médiaszolgáltatásának éves átlagos közönségaránya eléri az öt százalékot.
 
 (2) A 32. §-ban és a 38–39. §-ban a JBE médiaszolgáltató számára előírt kötelezettségek teljesítését a Médiatanács rendszeresen ellenőrzi.
 

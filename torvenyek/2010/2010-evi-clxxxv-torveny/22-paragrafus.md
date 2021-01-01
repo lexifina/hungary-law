@@ -20,7 +20,7 @@ e) arra a médiaszolgáltatásra, amely kizárólag Európai Unión kívüli ors
 
 (4) A (3) bekezdésben foglalt eseten kívül a műsorkvótákra vonatkozó szabályok betartása alóli általános mentesítés nem adható.
 
-(5) A 20. § (1) bekezdés a) pontja szerinti európai művek arányának, valamint a 20. § (3) bekezdés a) pontjában és a 21. § (1) bekezdésben meghatározott arányoknak, illetve az e szakasz (2)–(3) bekezdései alapján megkötött hatósági szerződésben – a 20. § (1) bekezdés a) pontja, a 20. § (3) bekezdés a) pontja és a 21. § (1) bekezdés vonatkozásában – meghatározott arányoknak az egyes médiaszolgáltatások 05 és 24 óra közötti műsoridejében is érvényesülniük kell.
+(5) A 21. § (1) bekezdésében meghatározott arányoknak, illetve az e szakasz (2) és (3) bekezdései alapján megkötött hatósági szerződésben a 21. § (1) bekezdése vonatkozásában meghatározott arányoknak az egyes médiaszolgáltatások 05 és 24 óra közötti műsoridejében is érvényesülniük kell.
 
 (6) Azon médiaszolgáltatók, amelyek több médiaszolgáltatást is nyújtanak, a 20–21. §-ban meghatározott arányokat valamennyi médiaszolgáltatásuk összesített műsoridejének átlagában kötelesek elérni, azzal, hogy a 21. § (1) bekezdésben meghatározott kötelezettség teljesítése tekintetében médiaszolgáltatásonként a műsoridő legalább húsz százalékát el kell érnie a magyar zenei művek arányának. E rendelkezés kizárólag azokra az egyes műsorkvóta kötelezettségekre alkalmazható, amelyekre a médiaszolgáltató nem rendelkezik a 22. § (2)–(3) bekezdése szerinti hatósági szerződésben rögzített mentesítéssel.
 
