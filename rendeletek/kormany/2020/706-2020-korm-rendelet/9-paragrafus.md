@@ -1,0 +1,1 @@
+## „(9) A bányavállalkozó a kitermelés megkezdését követően az üzemszerű kitermelés megkezdéséig az (5) bekezdésben meghatározott térítést és bányajáradékot, az üzemszerű kitermelés megkezdését követően pedig a Bt. 20. §-a szerinti bányajáradékot fizeti.”
