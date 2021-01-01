@@ -24,7 +24,7 @@ h)[^5] a Leginkább Rászoruló Személyeket Támogató Európai Segítségnyúj
 
 ## származó források terhére történő kötelezettségek vállalására, a programok tervezésére, végrehajtására, nyomon követésére, továbbá a teljesítés ellenőrzésére, a felhasználásban, a lebonyolításban és az ellenőrzésben részt vevő szervezetekre, a támogatást igénylőkre és a támogatásban részesülőkre.
 
-(1a)[^6] E rendeletet kell alkalmazni azoknak a közbeszerzési eljárásoknak és szerződésmódosításoknak a közbeszerzési-jogi ellenőrzésére is, amelyek eredményeként megkötött vagy módosított szerződések részben vagy egészben a 2021–2027 programozási időszakból származó forrás terhére kerülnek elszámolásra.
+(1a)[^6]
 
 (2) E rendeletet nem kell alkalmazni az ERFA-ból származó, az Európai Területi Együttműködés programjaiból nyújtandó támogatásokra.
 
@@ -37,6 +37,6 @@ h)[^5] a Leginkább Rászoruló Személyeket Támogató Európai Segítségnyúj
 [^3]: Az 1. § (1) bekezdés e) pontja a 144/2015. (VI. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés f) pontját a 75/2016. (IV. 5.) Korm. rendelet 58. § a) pontja hatályon kívül helyezte. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
 [^5]: Az 1. § (1) bekezdés h) pontja a 247/2016. (VIII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. § (1a) bekezdését a 238/2020. (V. 26.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (1a) bekezdését a 238/2020. (V. 26.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte ugyanezen rendelet 2. §-a.
 [^7]: Az 1. § (2a) bekezdését a 75/2016. (IV. 5.) Korm. rendelet 54. §-a iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
 [^8]: Az 1. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 1. pontja, az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 1. pontja, a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 1. pontja, a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 1. pontja szerint módosított szöveg.
