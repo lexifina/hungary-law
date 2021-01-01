@@ -1,3 +1,3 @@
-## 7. §[^7]
+8. § (1) A klinikai központ tekintetében az egészségügyi felsőoktatási intézmény egészségügyi szolgáltatásának forrásait, illetve a betegellátó tevékenységhez kapcsolódó központi beruházási és felújítási, valamint fejlesztési forrásait a központi költségvetésről szóló törvény egészségügyért felelős miniszter által vezetett minisztérium fejezetében kell megtervezni.
 
-[^7]: A 7. § a 10. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) Az egészségügyért felelős miniszter szakmai irányításával és koordinálásával az egészségügyi felsőoktatási intézmény szervezi, illetve annak klinikai központja végzi a szakorvos-, a szakfogorvos-, a szakgyógyszerész-, klinikai szakpszichológus, népegészségügyi szakemberképzést, a más felsőfokú végzettséggel rendelkezők egészségügyi szak- és továbbképzését, továbbá közreműködik e feladatok ellátásában. A tudománypolitikáért felelős miniszter irányítja és koordinálja – a törvény alapján az egészségügyért felelős miniszter hatáskörébe tartozó kutatások kivételével – az ágazati kutató-fejlesztő tevékenységet.

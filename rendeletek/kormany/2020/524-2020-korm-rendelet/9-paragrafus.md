@@ -1,3 +1,7 @@
-## 8. §[^8]
+9. § (1) A klinikai központnál betegellátásra irányuló jogviszonyban foglalkoztatott dolgozók felett a kinevezési és felmentési jogkört az országos kórház-főigazgató, minden további munkáltatói jogkört a klinikai központ elnöke gyakorol.
 
-[^8]: A 8. § a 10. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) Az egészségügyi felsőoktatási intézményben a betegellátási munkakörben foglalkoztatott alkalmazott az Nftv.-ben, illetve a felsőoktatási intézmény szabályzatában foglalt feltételek teljesítése esetén az Nftv. 27. § (1) bekezdése szerint oktatói munkakörben, illetve az Nftv. 33. § (2) bekezdése szerint kutatói munkakörben is foglalkoztatható azzal, hogy a betegellátásra irányuló jogviszonyban és az oktatói, illetve kutatói munkakör ellátására irányuló jogviszonyban végzett tevékenység munkaidő szempontjából egy jogviszonyban végzett munkának minősül. A kettős feladatot ellátó alkalmazott betegellátásra irányuló jogviszonya tekintetében az (1) bekezdés szerinti munkáltatói jogokat a klinikai központ elnöke, az oktatói, kutatói jogviszonya tekintetében a munkáltatói jogokat a rektor gyakorolja.
+
+(3) A (2) bekezdés szerinti foglalkoztatás esetén az oktatói és kutatói munkakörhöz szabadságként kizárólag pótszabadság jár, melynek igénybevételét a rendes szabadsággal együtt a klinikai központ elnöke engedélyezi. A klinikai képzésben a betegellátásra irányuló jogviszonyban foglalkoztatott dolgozó oktatást kiegészítő és segítő feladatokban részt vehet. A kettős feladatellátást eredményező foglalkoztatás esetén az egyes tevékenységekre vonatkozó díjazási szabályokat kell alkalmazni.
+
+(4) A (2) bekezdés szerinti alkalmazottak a kettős feladatellátási kötelezettségük és jogviszonyuk körében mind az egészségügyi minimumfeltételek, mind az oktatási akkreditáció szempontjából teljes értékű alkalmazottnak minősülnek.

@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 10. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 1. § Ezt a rendeletet a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt az orvos- és egészségtudományi képzést folytató egyetemek (a továbbiakban: egészségügyi felsőoktatási intézmény) irányító megyei intézményi feladatokat is ellátó klinikai központjaira (a továbbiakban: klinikai központ), valamint az egyetemi kórházakra kell alkalmazni.

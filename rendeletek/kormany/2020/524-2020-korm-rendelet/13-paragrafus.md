@@ -1,3 +1,1 @@
-## 12. §[^10]
-
-[^10]: A 12. § a 10. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 12. § Az egészségügyi felsőoktatási intézmények e rendelettel megállapított rendelkezésekre tekintettel módosítják a szervezeti és működési, valamint kapcsolódó belső szabályzataikat.
