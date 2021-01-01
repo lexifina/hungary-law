@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-6-20-22
 | 2014-03-15 | 2010-6-20-22.4 | 53/2014. (III. 3.) Korm. rendelet |
 | 2016-07-28 | 2010-6-20-22.5 | 193/2016. (VII. 13.) Korm. rendelet |
 | 2018-01-01 | 2010-6-20-22.6 | 193/2016. (VII. 13.) Korm. rendelet |
+| 2021-01-01 | 2010-6-20-22.7 | 193/2016. (VII. 13.) Korm. rendelet |
