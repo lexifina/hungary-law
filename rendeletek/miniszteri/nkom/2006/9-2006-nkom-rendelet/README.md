@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-9-20-86
 | 2013-12-16 | 2006-9-20-86.13 | 77/2013. (XII. 13.) EMMI rendelet |
 | 2016-01-01 | 2006-9-20-86.14 | 57/2015. (XII. 29.) EMMI rendelet |
 | 2017-01-01 | 2006-9-20-86.15 | 50/2016. (XII. 28.) EMMI rendelet |
+| 2021-01-01 | 2006-9-20-86.16 | 46/2020. (XII. 16.) EMMI rendelet |
