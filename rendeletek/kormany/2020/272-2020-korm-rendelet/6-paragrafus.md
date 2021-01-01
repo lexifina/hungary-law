@@ -1,3 +1,3 @@
-## 5. §[^5]
+## 5. § Az R. 41. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 15. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(2) Az ugyanazon ügyben, ugyanabban az évben keletkezett iratokat ügyiratként, egy iktatószámon, annak főszámra és alszámra bontásával kell nyilvántartani oly módon, hogy új főszámon kell nyilvántartásba venni a kezdőiratot, és a főszám alszámain kell nyilvántartani az ugyanazon ügyben keletkező további iratokat.”
