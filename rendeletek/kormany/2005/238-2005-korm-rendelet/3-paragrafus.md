@@ -14,7 +14,7 @@ d)[^35] ) a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét
 
 (4)[^37]
 
-(5)[^38] Az építésfelügyeleti hatóság a bírság kiszabásáról az építésügy körébe tartozó egyes hatósági nyilvántartásokról szóló kormányrendelet szerinti nyilvántartást vezet az elektronikus építésügyi bírság-nyilvántartó programban.
+(5)[^38]
 
 (6)[^39] Az építésfelügyeleti hatóság a bírság kiszabásával kapcsolatos minden döntését és intézkedését az – az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendelet szerinti – elektronikus építésügyi bírságnyilvántartó (e-bírság) alkalmazásban rögzíti.
 
@@ -26,5 +26,5 @@ d)[^35] ) a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét
 [^35]: A 3. § (2) bekezdés d) pontját a 177/2010. (V. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^36]: A 3. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (69) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 38. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^37]: A 3. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 154. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^38]: A 3. § (5) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^38]: A 3. § (5) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 12. §-a hatályon kívül helyezte.
 [^39]: A 3. § (6) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
