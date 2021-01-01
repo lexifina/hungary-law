@@ -6,11 +6,11 @@ b) a 67. § (3) és (6)–(8) bekezdése alapján indított versenyfelügyeleti 
 
 c) a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban a 29. § szerinti tilalom megsértésének, illetve az összefonódás-bejelentésben lényeges tény félrevezető közlésének valószínűsíthetősége esetén
 
-a vizsgálat tárgyát képező jogsértéssel, illetve a vizsgált összefonódással kapcsolatos bizonyítási eszközök felkutatása céljából bármely ingatlant, járművet, adathordozót átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat (a továbbiakban: helyszíni kutatás).
+a vizsgálat tárgyát képező jogsértéssel, illetve a vizsgált összefonódással kapcsolatos bizonyítási eszközök felkutatása céljából bármely ingatlant, járművet, adathordozót – a (2) bekezdésben foglaltakat is beleértve – átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat (a továbbiakban: helyszíni kutatás).
 
 (1a) A helyszíni kutatás eredményes és biztonságos lefolytatása érdekében a Gazdasági Versenyhivatal a rendőrség közreműködését igényelheti.
 
-(2) Az ügyfél székhelyeként vagy telephelyeként nem bejelentett és gazdasági tevékenység folytatására egyébként általa nem használt magáncélú, illetve magánhasználatú ingatlan, jármű, adathordozó tekintetében helyszíni kutatás csak akkor lehetséges, ha az olyan személy használatában van, aki az eljárás ideje alatt az ügyfél vezető tisztségviselője, alkalmazottja, megbízottja vagy az ügyfél felett ténylegesen irányítást gyakorló személy, vagy a vizsgálat tárgyát képező időszakban ilyen volt.
+(2) Az ügyfél székhelyeként vagy telephelyeként nem bejelentett és gazdasági tevékenység folytatására egyébként általa – különösen az ügyfél vezető tisztségviselője, alkalmazottja, megbízottja vagy az ügyfél felett ténylegesen irányítást gyakorló személy által – nem használt magáncélú, illetve magánhasználatú ingatlan, jármű, adathordozó tekintetében helyszíni kutatás a (4) bekezdésben foglaltak fennállása mellett folytatható.
 
 (3) Helyszíni kutatásra csak előzetes bírói engedéllyel kerülhet sor. A Gazdasági Versenyhivatal engedély iránti kérelméről a Fővárosi Törvényszék dönt a kérelem beérkezésétől számított hetvenkét órán belül közigazgatási nemperes eljárásban, az e törvényben meghatározott szabályok szerint.
 
@@ -22,13 +22,13 @@ a vizsgálat tárgyát képező jogsértéssel, illetve a vizsgált összefonód
 
 (6) A versenyfelügyeleti eljárást legkésőbb a helyszíni kutatás megkezdésével egy időben meg kell indítani. A vizsgálatot elrendelő végzést a jelen lévő ügyféllel, ideértve az ügyfél jelen lévő alkalmazottját is, a helyszínen közölni kell, az egyéb ügyféllel – a döntés közlésének módjára vonatkozó általános szabályok szerinti közlés megkezdése mellett – telefonon vagy fax útján is közölni kell.
 
-(7) A helyszíni kutatásról az érintettet, ideértve az ügyfél helyszínen jelen lévő alkalmazottját, illetve – a (2) bekezdés szerinti esetben – az érintett nagykorú hozzátartozóját is, a helyszíni kutatás megkezdésével egyidejűleg szóban kell értesíteni, és a vizsgálati cselekmény megkezdése előtt közölni kell az érintettel a helyszíni kutatást engedélyező bírói végzést és a vizsgálati cselekmény célját.
+(7) A helyszíni kutatásról az érintettet, ideértve az ügyfél helyszínen jelen lévő alkalmazottját, illetve – a magáncélú, illetve magánhasználatú ingatlan, jármű vagy adathordozó esetében – az érintett nagykorú hozzátartozóját is, a helyszíni kutatás megkezdésével egyidejűleg szóban kell értesíteni, és a vizsgálati cselekmény megkezdése előtt közölni kell az érintettel a helyszíni kutatást engedélyező bírói végzést és a vizsgálati cselekmény célját.
 
 (7a) A helyszíni kutatást lehetőleg az érintett jelenlétében kell elvégezni. Ha az érintett jelenléte nem biztosítható, a helyszíni kutatáshoz hatósági tanú közreműködését kell kérni. A hatósági tanúra az Ákr. rendelkezéseit kell alkalmazni.
 
 (7b) A helyszíni kutatás során a vizsgáló az érintettet szóban vagy írásban felvilágosítás és magyarázat adására kötelezheti, illetve a helyszínen más módon tájékozódhat.
 
-(8) A helyszíni kutatást – kivéve, ha annak sikeres lefolytatása más időpont választását teszi szükségessé – munkanapon 8 és 20 óra között lehet végezni. A (2) bekezdés szerinti esetben a helyszíni kutatást úgy kell elvégezni, hogy az ne járjon az érintett személy magánéletének aránytalan korlátozásával, és hogy az érintett munkáját, rendeltetésszerű tevékenységét lehetőleg ne akadályozza.
+(8) A helyszíni kutatást – kivéve, ha annak sikeres lefolytatása más időpont választását teszi szükségessé – munkanapon 8 és 20 óra között lehet végezni. A magáncélú, illetve magánhasználatú ingatlan, jármű vagy adathordozó esetében a helyszíni kutatást úgy kell elvégezni, hogy az ne járjon az érintett személy magánéletének aránytalan korlátozásával, és hogy az érintett munkáját, rendeltetésszerű tevékenységét lehetőleg ne akadályozza.
 
 (9) A helyszíni kutatás során a vizsgáló jogosult a vizsgálat tárgyához nem kapcsolódó, a bírói engedélyben nem foglalt, de a 11. § vagy a 21. §, illetve az EUMSz. 101. vagy 102. cikkének megsértésére utaló bizonyítási eszközről is másolatot készíteni, illetve azt lefoglalni vagy zár alá venni. Az ilyen bizonyítási eszköz tekintetében a (3) bekezdés szerinti bírói engedélyt utólag kell beszerezni; utólagos bírói engedély hiányában a fellelt bizonyítási eszköz bizonyítékként nem használható fel.
 

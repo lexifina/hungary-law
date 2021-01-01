@@ -1,8 +1,8 @@
-80/D. § (1) A vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárást megszünteti, ha az ügyben az Európai Bizottság eljárást indított.
+80/D. § (1) Ha az ügyben az Európai Bizottság eljárást indított, a vizsgáló vagy az eljáró versenytanács a versenyfelügyeleti eljárást az első vizsgálati cselekményről való értesülést követően az Európai Bizottság által lefolytatott eljárás befejezéséről való értesülésig felfüggeszti.
 
-(2) A vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárást felfüggesztheti vagy megszüntetheti, ha az ügyben más tagállam versenyhatósága eljárást indított.
+(2) Ha az ügyben más tagállami versenyhatóság eljárást indított, a vizsgáló vagy az eljáró versenytanács a versenyfelügyeleti eljárást az első vizsgálati cselekményről való értesülést követően a másik tagállami versenyhatóság által lefolytatott eljárás befejezéséről való értesülésig felfüggesztheti.
 
-(3) Az (1) vagy a (2) bekezdés alapján hozott eljárást megszüntető végzés ellen önálló jogorvoslatnak nincs helye.
+(3) Az (1) vagy a (2) bekezdés alapján hozott eljárást felfüggesztő végzés ellen önálló jogorvoslatnak nincs helye.
 
 (4) Ha az Európai Bizottság a 139/2004/EK tanácsi rendelet 9. cikke alapján hozott döntésével az uniós léptékű összefonódás elbírálását a Gazdasági Versenyhivatalhoz teszi át, összefonódás-bejelentésként az Európai Bizottságnak megküldött bejelentést kell tekinteni, és az összefonódás vizsgálatát el kell rendelni; a versenyfelügyeleti eljárásra a 67. § (4) bekezdés a) pontja alapján indított eljárásra vonatkozó szabályokat kell alkalmazni. A 139/2004/EK tanácsi rendelet 9. cikk (6) bekezdés második albekezdésében előírt tájékoztatási kötelezettség végrehajtására a vizsgálatot elrendelő végzés közlésével kerül sor.
 

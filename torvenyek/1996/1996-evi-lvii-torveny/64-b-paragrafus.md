@@ -1,4 +1,4 @@
-64/B. § (1) A vizsgáló, illetve az eljáró versenytanács felhívására az ügyfél köteles közölni a tényállás tisztázásához, illetve az eljárás eredményes lefolytatásához szükséges adatot, ideértve a személyes és – ha az érintett adat védelmét szabályozó törvény azt nem zárja ki – a védett adatot is.
+64/B. § (1) A vizsgáló, illetve az eljáró versenytanács felhívására az ügyfél köteles közölni a tényállás tisztázásához, illetve az eljárás eredményes lefolytatásához szükséges, és számára – elektronikus adat esetében az adat tárolásának helyétől és módjától függetlenül – hozzáférhető adatot, ideértve a személyes és – ha az érintett adat védelmét szabályozó törvény azt nem zárja ki – a védett adatot is.
 
 (2) A vizsgáló, illetve az eljáró versenytanács, ha a tényállás tisztázásához szükséges és az Eüsztv. alapján nem szerezhető be, felhívhatja az ügyfelet okirat vagy más irat bemutatására. Nem kérhető az ügyféltől – az ügyfél azonosításához szükséges adatok kivételével – olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
 

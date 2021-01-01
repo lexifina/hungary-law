@@ -20,7 +20,7 @@ a) a 75. § szerinti kötelezettségvállalást, kivéve, ha a kötelezettségv�
 
 b) a határozatában a jogsértés megállapítása mellett meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozóan előírt kötelezettséget, és végrehajtás elrendelésére nem került sor.
 
-(1b) A bírság összege legfeljebb a vállalkozás, illetve azon – a határozatban azonosított – vállalkozáscsoport a határozat meghozatalát megelőző üzleti évben elért nettó árbevételének tíz százaléka lehet, amelynek a bírsággal sújtott vállalkozás a tagja. A vállalkozások társulásával szemben kiszabott bírság összege legfeljebb a tagvállalkozások előző üzleti évben elért nettó árbevételének tíz százaléka lehet.
+(1b) A bírság összege legfeljebb a vállalkozás, illetve azon – a határozatban azonosított – vállalkozáscsoport a határozat meghozatalát megelőző üzleti évben elért nettó árbevételének tíz százaléka lehet, amelynek a bírsággal sújtott vállalkozás a tagja. A vállalkozások társulásával szemben kiszabott bírság összege legfeljebb a tagvállalkozások előző üzleti évben elért nettó árbevételének tíz százaléka lehet. Vállalkozások társulása esetén az egyes tagvállalkozások pénzügyi felelőssége nem haladhatja meg a határozat meghozatalát megelőző üzleti évben elért nettó árbevételük tíz százalékát.
 
 (1c) Az (1) bekezdés d) pontja szerinti bírság összege – az (1b) bekezdésre is figyelemmel – az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének vagy az irányítási jog megszerzésének időpontjai közül a legkorábbi időponttól az összefonódásra vonatkozó összefonódás-bejelentés megtételéig, ennek hiányában az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárásnak a 67. § (3) bekezdése szerinti megindításáig számított legalább napi ötvenezer, legfeljebb napi kettőszázezer forint. A bírság összegének számításakor a 25. § szerinti átmeneti időszakot figyelmen kívül kell hagyni.
 
@@ -30,13 +30,23 @@ b) a határozatában a jogsértés megállapítása mellett meghatározott csele
 
 (4) Az (1) bekezdés c) pontja, illetve az (1a) bekezdés szerinti bírság összegét az eset összes körülményeire – így különösen a kötelezettség megszegésének súlyára, a kötelezettséggel érintett piaci, gazdasági viszonyok jellegére, a fennálló versenyfeltételekre, valamint a vállalt kötelezettséget előíró határozat alapját képező közérdekre, a vállalkozás piaci helyzetére, a kötelezettség megszegésének felróhatóságára, a kötelezettség addigi teljesítésére – tekintettel kell meghatározni. A kötelezettség megszegésének súlyát különösen a gazdasági verseny veszélyeztetettségének foka, az üzletfelek, versenytársak érdekei sérelmének köre, kiterjedtsége alapozhatja meg.
 
-(5) Ha a bírságot a vállalkozás-csoport jogsértést megvalósító tagja önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a vállalkozás-csoportnak a határozatban nevesített tagjait egyetemlegesen kötelezi a bírság, illetve annak be nem hajtott része megfizetésére.
+(5) Az eljáró versenytanács a vállalkozáscsoport jogsértést megvalósító tagját és a vállalkozáscsoportnak a határozatban nevesített tagjait egyetemlegesen kötelezi a bírság megfizetésére.
 
-(6) Ha a vele szemben kiszabott bírságot a vállalkozások társulása önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a bírság megfizetésére a jogsértő döntés meghozatalában résztvevő, a határozatban ekként nevesített tag-vállalkozást egyetemlegesen kötelezi.
+(6) Ha a vele szemben kiszabott bírságot a vállalkozások társulása az eljáró versenytanács által meghatározott időn belül önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács végzéssel kötelezheti a vállalkozások társulását, hogy azt a tagvállalkozásaitól kért, a kiszabott bírság fedezésére szolgáló hozzájárulásból fizesse meg.
 
-(7) Az (5) és (6) bekezdésben meghatározott végzés ellen önálló jogorvoslatnak van helye.
+(6a) Ha a (6) bekezdés szerinti hozzájárulás nem fedezi a vállalkozások társulásával szemben kiszabott bírság összegét, az eljáró versenytanács a bírság fennmaradó részének megfizetésére egyetemlegesen kötelezheti azokat a határozatban nevesített tagvállalkozásokat, amelyek nevében eljáró személy a vállalkozások társulása jogsértő döntésének meghozatalában részt vevő döntéshozó testület tagja volt a jogsértéssel érintett időszakban.
 
-(8) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvénynek a hatósági ellenőrzést végző szervek részéről a bírságtól való eltekintésre vonatkozó rendelkezései a versenyfelügyeleti eljárásban nem alkalmazhatók. Az említett törvény szerinti mikro-, kis- vagy középvállalkozással (a továbbiakban együtt: kis- vagy középvállalkozás) szemben az első esetben előforduló, nem az EUMSz. 101. vagy 102. cikkébe ütköző jogsértés esetén az eljáró versenytanács bírság kiszabása helyett figyelmeztetést is alkalmazhat, ha a vállalkozásnak az eljárás során tanúsított magatartása alapján alaposan feltételezhető, hogy a vállalkozás jövőbeni magatartásának jogszerűsége, az újabb jogsértés elkövetésétől való tartózkodása így is biztosítható.
+(6b) Ha a (6a) bekezdés szerinti intézkedés nem vezet eredményre, az eljáró versenytanács a bírság fennmaradó részének megfizetésére egyetemlegesen kötelezheti azokat a határozatban nevesített tagvállalkozásokat, amelyek a jogsértéssel érintett időszakban a jogsértéssel érintett piacon folytattak tevékenységet.
+
+(6c) A (6a) és (6b) bekezdés szerinti megfizetés nem követelhető attól a tagvállalkozástól, amely bizonyítja, hogy a vállalkozások társulásának jogsértő döntését nem hajtotta végre, és
+
+a) nem volt tudomása annak létezéséről, vagy
+
+b) attól aktívan távol tartotta magát a vizsgálat megkezdése előtt.
+
+(7) Az (5)–(6b) bekezdésben meghatározott végzés ellen önálló jogorvoslatnak van helye.
+
+(8) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvénynek a hatósági ellenőrzést végző szervek részéről a bírságtól való eltekintésre vonatkozó rendelkezései a versenyfelügyeleti eljárásban nem alkalmazhatók. Az említett törvény szerinti mikro-, kis- vagy középvállalkozással (a továbbiakban együtt: kis- vagy középvállalkozás) szemben az első esetben előforduló jogsértés esetén az eljáró versenytanács bírság kiszabása helyett figyelmeztetést is alkalmazhat, ha a vállalkozásnak az eljárás során tanúsított magatartása alapján alaposan feltételezhető, hogy a vállalkozás jövőbeni magatartásának jogszerűsége, az újabb jogsértés elkövetésétől való tartózkodása így is biztosítható.
 
 (9) Az eljáró versenytanács nem tekinthet el a bírságtól a (8) bekezdés alapján, ha
 

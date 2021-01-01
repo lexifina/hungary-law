@@ -17,3 +17,5 @@ c) 43/H. § (12) bekezdése és XI/B. Fejezete – a Gazdasági Versenyhivatal f
 d)
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) A 33. § (2c) és (5) bekezdése, a 36. § (3) bekezdése, a 42/D. §, az 55/A. § (1) bekezdés e) pontja, az 55/E. §, a 61. § (1a), (3), (4) és (6) bekezdése, a 64/A. § (1) bekezdése, a 64/B. § (1) bekezdése, a 65/A. § (1), (2), (7) és (8) bekezdése, a 65/B. § (3) bekezdése, a 72/A. § (1) bekezdés a) pontja és (4)–(6) bekezdése, a 73/A. § (8) és (9) bekezdése, a 75. § (2) és (6a) bekezdése, valamint (7) bekezdés b) pontja, a 75/A. §, a 76. § (1) bekezdés i) pontja és (4) bekezdése, a 77. § (6) bekezdés c) pontja, a 78. § (1b), (5), (6), (6a)–(6c) bekezdése, a 78. § (7) bekezdése, a 78/A. § (2)–(3) és (7) bekezdése, a 78/B. §, a 78/D. § (2a) bekezdése, a 78/E. §, a 80/A. § (1) és (1a) bekezdése, a 80/D. § (1)–(3) bekezdése, valamint a XI/C. Fejezet a tagállami versenyhatóságok helyzetének a hatékonyabb jogérvényesítés céljából történő megerősítéséről és a belső piac megfelelő működésének biztosításáról szóló, 2018. december 11-i (EU) 2019/1 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

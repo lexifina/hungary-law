@@ -24,7 +24,7 @@ g) elrendeli a jogsértő állapot megszüntetését,
 
 h) megtiltja a jogsértő magatartás további folytatását,
 
-i) jogsértés megállapítása esetén kötelezettséget ír elő, így különösen az ügylet jellegének megfelelő üzleti kapcsolat létrehozásától vagy további fenntartásától való indokolatlan elzárkózás esetén szerződéskötésre kötelez,
+i) jogsértés megállapítása esetén arányos és a jogsértés megszüntetéséhez vagy a jogsértés hatásainak kiküszöböléséhez szükséges kötelezettséget – ideértve a magatartásra vonatkozó, vagy szerkezeti korrekciós intézkedéseket – ír elő, így különösen az ügylet jellegének megfelelő üzleti kapcsolat létrehozásától vagy további fenntartásától való indokolatlan elzárkózás esetén szerződéskötésre kötelez,
 
 j) elrendeli a jogsértő tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét,
 
@@ -41,3 +41,5 @@ o) megállapítja, hogy a magatartás nem jogsértő.
 (2) Az összefonódást megtiltó határozatban az eljáró versenytanács – ha alkalmazandó – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról is.
 
 (3) Az (1) bekezdés d) vagy e) pontja szerinti megállapítás mellett bírság kiszabásának nincs helye.
+
+(4) Az (1) bekezdés i) pontjában meghatározott esetben az azonos mértékben hatékony kötelezettségek közül az eljáró versenytanács az arányosság elvével összhangban a vállalkozás számára a legkevésbé megterhelő kötelezettséget írja elő. Ez nem zárja ki, hogy az eljáró versenytanács az (1) bekezdés i) pontja keretében több kötelezettséget is megállapítson.

@@ -25,3 +25,13 @@ f) az ügyfél nyilatkozatát arról, hogy előzetesen lemond a határozattal sz
 (6) Az egyezségi eljárásban részt vevő ügyfél köteles ezt a tényt, valamint az egyezségi eljárás során megismert bármilyen információt a versenyfelügyeleti eljárás befejezéséig titokban tartani.
 
 (7) Az egyezségi nyilatkozat és a nyilatkozat benyújtásának ténye az 55. § (5) bekezdésében meghatározott időpontig korlátozottan megismerhető adat. Az 55. § (5) bekezdésében meghatározott időpontot követően az egyezségi nyilatkozatba csak a többi ügyfél tekinthet be azzal, hogy az egyezségi nyilatkozatról másolat nem, csak feljegyzés készíthető. Az 55. § (3) bekezdése szerinti harmadik személy az egyezségi nyilatkozatba nem tekinthet be, arról másolatot, feljegyzést nem készíthet. Az egyezségi nyilatkozat visszavonása esetén a nyilatkozatot az arról készült másolatokkal együtt vissza kell szolgáltatni a nyilatkozatot tevő vállalkozásnak.
+
+(8) A (7) bekezdés szerint iratbetekintésre jogosult az egyezségi nyilatkozatban szereplő adatokat védelemhez való jogának gyakorlása érdekében és csak abban a bíróság előtti eljárásban használhatja fel, amely kapcsolódik ahhoz a versenyfelügyeleti eljáráshoz, amelyben az iratbetekintést engedélyezték, és amely
+
+a) a kartell résztvevőivel szemben egyetemlegesen megállapított bírság összegének a kartell résztvevői közötti elosztására; vagy
+
+b) a 11. §-ban és a 21. §-ban, illetve az EUMSz. 101. és 102. cikkében tilalmazott magatartás elkövetését megállapító határozattal szembeni jogorvoslat elbírálására
+
+vonatkozik.
+
+(9) A (7) bekezdés szerint iratbetekintésre jogosult köteles a visszavont egyezségi nyilatkozatban szereplő adatokat és az egyezségi nyilatkozat benyújtásának és visszavonásának tényét a versenyfelügyeleti eljárás befejezéséig titokban tartani.

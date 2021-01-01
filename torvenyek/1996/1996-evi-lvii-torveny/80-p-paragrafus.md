@@ -1,0 +1,1 @@
+80/P. § A Gazdasági Versenyhivatal a nyomozó hatóság kérésére kapcsolatot tart a Büntető Törvénykönyvről szóló 2012. évi C. törvény 420. § (5) és (6) bekezdésében meghatározott mentesség megállapítását lehetővé tevő eljárást lefolytató tagállami versenyhatósággal.

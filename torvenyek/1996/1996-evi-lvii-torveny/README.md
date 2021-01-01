@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2020-01-17 | 2019. évi LXVII. törvény | 1996-57-00-00.55 |
 | 2020-04-11 | 2020. évi XIX. törvény | 1996-57-00-00.56 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 1996-57-00-00.57 |
+| 2021-01-01 | 2020. évi XIX. törvény | 1996-57-00-00.58 |

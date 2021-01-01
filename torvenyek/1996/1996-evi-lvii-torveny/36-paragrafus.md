@@ -24,7 +24,7 @@ c) évente beszámol az Országgyűlésnek, illetve külön felkérésre az Orsz
 
 d) a Kormány ülésén a Gazdasági Versenyhivatal feladatkörét érintő kérdések tárgyalásakor tanácskozási joggal vesz részt.
 
-(3)
+(3) A (2) bekezdés c) pontja szerinti éves beszámolónak tartalmaznia kell különösen a Versenytanács tagjainak kinevezéséről és felmentéséről, a 33/A. § (2) bekezdésével összefüggésben az adott évben kiutalt források összegéről, valamint az ezen összegben az előző évekhez képest bekövetkező bármely változásról szóló tájékoztatást. Az éves beszámolót a Gazdasági Versenyhivatal honlapján nyilvánosan hozzáférhetővé teszi.
 
 (4)
 

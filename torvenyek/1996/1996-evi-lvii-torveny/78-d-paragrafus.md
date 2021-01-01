@@ -2,4 +2,12 @@
 
 (2) A bírság mellőzése, illetve csökkentése iránti kérelemben, illetve a kérelmező vállalkozásnak kifejezetten a kérelemmel összefüggésben önként tett nyilatkozata (a továbbiakban: engedékenységi nyilatkozat), a kérelem benyújtásának ténye és az ilyen kérelemmel összefüggésben szolgáltatott bizonyítékok e jellege az 55. § (5) bekezdésében meghatározott időpontig korlátozottan megismerhető adat. Az 55. § (5) bekezdésében meghatározott időpontot követően az engedékenységi nyilatkozatba csak az ügyfél tekinthet be azzal, hogy az engedékenységi nyilatkozatról másolat nem, csak feljegyzés készíthető. Az 55. § (3) bekezdése szerinti harmadik személy az engedékenységi nyilatkozatba nem tekinthet be, arról másolatot, feljegyzést nem készíthet.
 
+(2a) A (2) bekezdés szerint iratbetekintésre jogosult az engedékenységi nyilatkozatban szereplő adatokat, a bírság mellőzése vagy csökkentése iránti kérelem benyújtásának tényét és az ilyen kérelemmel összefüggésben szolgáltatott bizonyítékok e jellegére vonatkozó adatot védelemhez való jogának gyakorlása érdekében és csak abban a bíróság előtti eljárásban használhatja fel, amely kapcsolódik ahhoz a versenyfelügyeleti eljáráshoz, amelyben az iratbetekintést engedélyezték, és amely
+
+a) a kartell résztvevőivel szemben egyetemlegesen megállapított bírság összegének a kartell résztvevői közötti elosztására; vagy
+
+b) a 11. §-ban és a 21. §-ban, illetve az EUMSz. 101. és 102. cikkében tilalmazott magatartás elkövetését megállapító határozattal szembeni jogorvoslat elbírálására
+
+vonatkozik.
+
 (3) A tanú meghallgatásán nem lehet jelen az ügyfél és az eljárás egyéb résztvevője, ha a meghallgatás során a bírság mellőzése, illetve csökkentése iránti kérelem benyújtásának ténye vagy az ezzel összefüggésben szolgáltatott bizonyítékok e jellegének a (2) bekezdés szerinti védelme nem biztosítható. Ebben az esetben zárt meghallgatást kell tartani, és nincs helye az ügyfél értesítésének.

@@ -2,7 +2,7 @@
 
 75. § (1) Ha a 67. § (2) bekezdése alapján indított versenyfelügyeleti eljárásban vizsgált magatartás tekintetében az ügyfél kötelezettséget vállal arra, hogy magatartását meghatározott módon összhangba hozza az alkalmazandó jogszabályi rendelkezésekkel, és a közérdek hatékony védelme ilyen módon is biztosítható, az eljáró versenytanács határozatában kötelezővé teheti a vállalás teljesítését anélkül, hogy a határozatban a jogsértés megvalósulását vagy annak hiányát megállapítaná. Ha az ügyfél a vizsgált magatartással időközben felhagyott, a magatartás ismételt tanúsításának elkerülését biztosító átlátható és ellenőrizhető magatartási szabályok betartására vállalható kötelezettség.
 
-(2)
+(2) Az eljáró versenytanács az (1) bekezdés szerint meghozott határozatában foglalt kötelezettségeket határozott időre fogadhatja el, és a határozat tartalmazza, hogy a Gazdasági Versenyhivatal – sem a határidő letelte előtt, sem annak eredményes letelte után – semmilyen vizsgálati cselekményt nem végez a jogsértés megvalósulásának vagy hiányának feltárása érdekében. Ez a rendelkezés nem érinti az utóvizsgálat lefolytatását.
 
 (3) Az eljáró versenytanács az (1) bekezdés szerinti határozatát az alábbi esetekben is módosítja
 
@@ -18,11 +18,13 @@ b) a kötelezett vállalkozás kérelmére vagy hivatalból, ha a határozatban 
 
 (6) Ha a vállalkozás nem teljesítette az (1) bekezdés szerinti határozatban, illetve a (3) bekezdés szerint módosított határozatban előírt kötelezettséget, az eljáró versenytanács a vállalt kötelezettséget előíró határozat alapját képező közérdek hatékony érvényesülése szempontjának – a kötelezettségvállalással érintett piaci viszonyok jellegére, a fennálló versenyfeltételekre, továbbá a vállalt kötelezettség addigi teljesítésének mértékére, a mulasztás tekintetében a vállalkozás magatartásának felróhatóságára is figyelemmel történő – mérlegelése alapján a határozatot visszavonja vagy bírságot szab ki.
 
+(6a) Ha az (1) bekezdés szerinti határozat meghozatala a kötelezett vállalkozás által közölt hiányos, helytelen vagy félrevezető információn alapult, az eljáró versenytanács a vállalt kötelezettséget előíró határozat alapját képező közérdek hatékony érvényesülése szempontjának – a kötelezettségvállalással érintett piaci viszonyok jellegére, a fennálló versenyfeltételekre, továbbá a vállalt kötelezettség addigi teljesítésének mértékére, a mulasztás tekintetében a vállalkozás magatartásának felróhatóságára is figyelemmel történő – mérlegelése alapján a határozatot visszavonhatja.
+
 (7) A határozat
 
 a)
 
-b) a (6) bekezdés szerinti esetben a kötelezettség teljesítésére előírt határidő lejártától, folyamatos kötelezettség esetén a kötelezettség megsértésétől
+b) a (6) és a (6a) bekezdés szerinti esetben a kötelezettség teljesítésére előírt határidő lejártától, folyamatos kötelezettség esetén a kötelezettség megsértésétől
 
 számított öt éven belül vonható vissza.
 
