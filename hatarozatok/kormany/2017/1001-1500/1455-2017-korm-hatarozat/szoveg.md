@@ -10,11 +10,7 @@ Nemzeti Adó- és Vámhivatal vezetője
 
 Határidő: a Szerencsejáték Felügyelet létrejöttét megelőző nappal mint fordulónappal
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet címrendjét a 17. Szerencsejáték Felügyelet címmel egészíti ki;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+2.[^1]
 
 3. felhívja a nemzetgazdasági minisztert, hogy a Szerencsejáték Felügyelet hatósági feladatainak ellátásához szükséges személyi feltételek biztosítása érdekében gondoskodjon 2017. évben 322,5 millió forint rendelkezésére állásáról a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 17. Szerencsejáték Felügyelet cím, 2018. és a további években 498,1 millió forint forrás rendelkezésre állásáról a XVII. Nemzeti Fejlesztési Minisztérium fejezet 17. Szerencsejáték Felügyelet cím javára;
 
@@ -53,3 +49,5 @@ Felelős: nemzeti fejlesztési miniszter
 belügyminiszter
 
 Határidő: 2017. szeptember 15.
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
