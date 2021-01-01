@@ -1,6 +1,8 @@
-5. § (1) Az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzései vonatkozásában a Vbt.-ben, a Kbt.-ben és az e rendeletben foglalt eljárási szabályokat kell alkalmazni.
+5. § (1)[^26]
 
 (2) Az érintett szervezet köteles az e rendelet szerinti első beszerzési terve, vagy első nem tervezett beszerzésre vonatkozó igénye Portálra történő feltöltését megelőző 5 munkanappal a Portálon – az ott meghatározott struktúra és adattartalom szerint részletezve – regisztrálni.
+
+(2a)[^27] Az érintett szervezet a (2) bekezdésben meghatározott beszerzési tervet nem köteles feltölteni, ha az adott évre vonatkozóan nincs tervezett védelmi és biztonsági feladatokkal összefüggő beszerzési igénye.
 
 (3) A (2) bekezdés szerint regisztrált érintett szervezet köteles a már regisztrált adataiban bekövetkező adatváltozástól számított 5 munkanapon belül rögzíteni a Portálon – az ott meghatározott struktúra és adattartalom szerint részletezve – a megváltozott adatait.
 
@@ -9,3 +11,6 @@
 (5) Az e rendelet szerinti kapcsolattartást a VBÜ az érintett szervezet részére a minősített adatok tekintetében a Portál felületén is biztosíthatja.
 
 (6) A Portál az e rendeletben foglaltak vonatkozásában releváns adatot – személyes adat kivételével – más szakrendszerekből is átvehet.
+
+[^26]: Az 5. § (1) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^27]: Az 5. § (2a) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (14) bekezdése iktatta be.

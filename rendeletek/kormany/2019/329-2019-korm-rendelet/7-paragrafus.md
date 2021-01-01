@@ -1,8 +1,10 @@
-7. § (1) A VBÜ a beérkezéstől számított 5 munkanapon belül – egy alkalommal – hiánypótlás vagy átdolgozás céljából visszaküldheti a beszerzési tervet az érintett szervezet részére, ha azt észleli, hogy az
+7. § (1)[^30] A VBÜ a beérkezéstől számított 5 munkanapon belül hiánypótlás vagy átdolgozás céljából visszaküldheti a beszerzési tervet az érintett szervezet részére, ha azt észleli, hogy az
 
 a) formailag vagy tartalmilag nem megfelelő vagy
 
 b) hiányos.
+
+(1a)[^31] A VBÜ az ismételt megküldéstől számított 5 munkanapon belül újabb hiánypótlást vagy átdolgozást rendelhet el, ha a korábbi hiánypótlási felhívásban nem szereplő hiányt észlel.
 
 (2) Ha a VBÜ véleménye szerint a beszerzési terv nem áll összhangban a kormányzati védelmi fejlesztések irányával, vagy annak egyes elemei nem tartoznak e rendelet hatálya alá, erről értesíti az érintett szervezetet.
 
@@ -28,8 +30,12 @@ c) „végrehajtásra nem javasolt”
 
 (9) A beszerzési terv a Kormány jóváhagyását és a Kormány ügyrendje szerinti határozat kézbesítését követően hajtható végre.
 
-(10) A VBÜ a (6) bekezdés szerinti nyilvántartásba vételt, továbbá a Kormány elutasító döntését – az e döntésről való tudomásszerzéstől számított 2 munkanapon belül – közli az érintett szervezettel. A Kormány jóváhagyását tartalmazó a – Kormány ügyrendje szerinti – határozatot a Nemzetbiztonsági Kabinet titkársága küldi meg az érintett szervezet részére.
+(10)[^32] A VBÜ a (6) bekezdés szerinti nyilvántartásba vételt, továbbá a Kormány döntését – az e döntésről való tudomásszerzéstől számított 2 munkanapon belül – közli az érintett szervezettel.
 
 (11) A Kormány által elutasított beszerzési terv – az átdolgozást követően – véleményezés, valamint jóváhagyás céljából ismételten előterjeszthető.
 
 (12) Az (5) és a (6) bekezdés szerinti véleményezést, illetve nyilvántartásba vételt, továbbá a (9) bekezdés szerinti jóváhagyást követően a beszerzési terv módosítását az érintett szervezet bármikor kezdeményezheti. Ebben az esetben az (1)–(11) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
+
+[^30]: A 7. § (1) bekezdés nyitó szövegrésze a 649/2020. (XII. 23.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^31]: A 7. § (1a) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (15) bekezdése iktatta be.
+[^32]: A 7. § (10) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 4. § (16) bekezdésével megállapított szöveg.

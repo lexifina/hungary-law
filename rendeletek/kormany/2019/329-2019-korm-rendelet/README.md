@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-329-20-
 | 2020-01-14 | 2019-329-20-22.3 | 1/2020. (I. 16.) NVTNM határozat |
 | 2020-01-15 | 2019-329-20-22.4 | 2010: CXXX. törvény |
 | 2020-03-06 | 2019-329-20-22.5 | 33/2020. (III. 5.) Korm. rendelet |
+| 2021-01-01 | 2019-329-20-22.6 | 649/2020. (XII. 23.) Korm. rendelet |
