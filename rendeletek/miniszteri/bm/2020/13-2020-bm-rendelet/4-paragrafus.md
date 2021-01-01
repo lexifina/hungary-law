@@ -6,9 +6,9 @@
 
 (3) Nem ítélhető meg támogatás
 
-a)[^4] az átmeneti támogatás kivételével a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez,
+a)[^2] az átmeneti támogatás kivételével a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez,
 
-b)[^5] az átmeneti támogatás kivételével elsődleges mezőgazdasági termeléshez,
+b)[^3] az átmeneti támogatás kivételével elsődleges mezőgazdasági termeléshez,
 
 c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére, ha
 
@@ -22,13 +22,13 @@ e) ha azt import áru helyett hazai áru használatától teszik függővé,
 
 f) olyan feltétellel, amely az európai uniós jog megsértését eredményezi,
 
-g)[^6] csekély összegű támogatásban vagy átmeneti támogatásban részesülő vállalkozás kivételével azon szervezet részére, amely az Európai Bizottság által hozott, európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettségének nem tett eleget,
+g)[^4] csekély összegű támogatásban vagy átmeneti támogatásban részesülő vállalkozás kivételével azon szervezet részére, amely az Európai Bizottság által hozott, európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettségének nem tett eleget,
 
-h)[^7] kultúrát és kulturális örökség megőrzését előmozdító támogatásban részesülő vállalkozás esetén nehéz helyzetben lévő vállalkozás részére és átmeneti támogatás esetében abban az esetben, ha a vállalkozás 2019. december 31-én nehéz helyzetben volt,
+h)[^5] kultúrát és kulturális örökség megőrzését előmozdító támogatásban részesülő vállalkozás esetén nehéz helyzetben lévő vállalkozás részére és átmeneti támogatás esetében abban az esetben, ha a vállalkozás 2019. december 31-én nehéz helyzetben volt,
 
 i) kultúrát és kulturális örökség megőrzését előmozdító támogatásban részesülő vállalkozás esetén nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kiadására.
 
-[^4]: A 4. § (3) bekezdés a) pontja a 32/2020. (VIII. 7.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (3) bekezdés b) pontja a 32/2020. (VIII. 7.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: A 4. § (3) bekezdés g) pontja a 32/2020. (VIII. 7.) BM rendelet 6. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (3) bekezdés h) pontja a 32/2020. (VIII. 7.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^2]: A 4. § (3) bekezdés a) pontja a 32/2020. (VIII. 7.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdés b) pontja a 32/2020. (VIII. 7.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (3) bekezdés g) pontja a 32/2020. (VIII. 7.) BM rendelet 6. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdés h) pontja a 32/2020. (VIII. 7.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
