@@ -14,7 +14,7 @@ b) akit a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben vagy a
 
 3. visszaélés méreggel (1978. évi IV. törvény 265. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), illetve kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), méreggel visszaélés (Btk. 188. §),
 
-4. kényszerítés (1978. évi IV. törvény 174. §, Btk. 195. §), személyi szabadság megsértése (1978. évi IV. törvény 175. §, Btk. 194. §), emberrablás (1978. évi IV. törvény 175/A. §, Btk. 190. §), emberkereskedelem (1978. évi IV. törvény 175/B. §, Btk. 192. §), illetve emberrablás feljelentésének elmulasztása (Btk. 191. §),
+4. kényszerítés (1978. évi IV. törvény 174. §, Btk. 195. §), személyi szabadság megsértése (1978. évi IV. törvény 175. §, Btk. 194. §), emberrablás (1978. évi IV. törvény 175/A. §, Btk. 190. §), emberkereskedelem és kényszermunka (1978. évi IV. törvény 175/B. §, Btk. 192. §), illetve emberrablás feljelentésének elmulasztása (Btk. 191. §),
 
 5. erőszakos közösülés (1978. évi IV. törvény 197. §), szemérem elleni erőszak (1978. évi IV. törvény 198. §), megtévesztéssel, erőszakkal, avagy az élet vagy testi épség ellen irányuló közvetlen fenyegetéssel elkövetett kerítés [1978. évi IV. törvény 207. § (3) bekezdés b) pont], illetve szexuális erőszak (Btk. 197. §), megtévesztéssel, erőszakkal vagy fenyegetéssel elkövetett kerítés [Btk. 200. § (4) bekezdés c) pont],
 
@@ -40,7 +40,7 @@ b) akit a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben vagy a
 
 16. rablás (1978. évi IV. törvény 321. §, Btk. 365. §), kifosztás (1978. évi IV. törvény 322. §, Btk. 366. §), zsarolás (1978. évi IV. törvény 323. §, Btk. 367. §), önbíráskodás (1978. évi IV. törvény 273. §, Btk. 368. §),
 
-17. lopás (1978. évi IV. törvény 316. §, Btk. 370. §), sikkasztás (1978. évi IV. törvény 317. §, Btk. 372. §), csalás (1978. évi IV. törvény 318. §, Btk. 373. §), hűtlen kezelés (1978. évi IV. törvény 319. §, Btk. 376. §), hanyag kezelés (1978. évi IV. törvény 320. §, Btk. 377. §), rongálás (1978. évi IV. törvény 324. §, Btk. 371. §), orgazdaság (1978. évi IV. törvény 326. §, Btk. 379. §), jármű önkényes elvétele (1978. évi IV. törvény 327. §, Btk. 380. §), illetve információs rendszer felhasználásával elkövetett csalás (Btk. 375. §),
+17. lopás (1978. évi IV. törvény 316. §, Btk. 370. §), sikkasztás (1978. évi IV. törvény 317. §, Btk. 372. §), csalás (1978. évi IV. törvény 318. §, Btk. 373. §), hűtlen kezelés (1978. évi IV. törvény 319. §, Btk. 376. §), hanyag kezelés (1978. évi IV. törvény 320. §, Btk. 377. §), rongálás (1978. évi IV. törvény 324. §, Btk. 371. §), orgazdaság (1978. évi IV. törvény 326. §, a 2020. december 31-éig hatályban volt Btk. 379. §), jármű önkényes elvétele (1978. évi IV. törvény 327. §, Btk. 380. §), illetve információs rendszer felhasználásával elkövetett csalás (Btk. 375. §),
 
 18. pénzhamisítás (1978. évi IV. törvény 304. §, Btk. 389. §), pénzhamisítás elősegítése (1978. évi IV. törvény 304/A. §, Btk. 390. §),
 

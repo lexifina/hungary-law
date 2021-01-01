@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2020-01-01 | 2019. évi CV. törvény | 1996-116-00-00.58 |
 | 2020-03-01 | 2019. évi CX. törvény | 1996-116-00-00.59 |
 | 2020-07-29 | 2020. évi LXXXIII. törvény | 1996-116-00-00.60 |
+| 2021-01-01 | 2020. évi XLIII. törvény | 1996-116-00-00.61 |
