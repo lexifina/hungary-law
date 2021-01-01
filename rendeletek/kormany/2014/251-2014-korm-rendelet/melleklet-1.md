@@ -1,6 +1,6 @@
-## 12. §[^15]
+## 12. §[^17]
 
-1. melléklet a 251/2014. (X. 2.) Korm. rendelethez[^16]
+1. melléklet a 251/2014. (X. 2.) Korm. rendelethez[^18]
 
 ## Kérelem
 
@@ -60,5 +60,5 @@ Aláírás:
 
 …………………………………....
 
-[^15]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 507. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^17]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 507. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
