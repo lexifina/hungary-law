@@ -1,18 +1,4 @@
-13/A. § (1) Az állami foglalkoztatási szerv az e törvény szerint nyújtandó támogatás kifizetése érdekében a következő adatokat kezeli és tartja nyilván:
-
-a) a gazdálkodó szervezet adatai (név, székhely, telephely, fióktelep, adóazonosító jel/adószám, KSH azonosító szám, a tevékenység megkezdésének időpontja, a felszámolás kezdő időpontja),
-
-b) a felszámoló adatai (név, székhely, telefonszám, KSH azonosító szám, adószám),
-
-c) a felszámoló biztos adatai (név, cím, telefonszám, email cím),
-
-d) külföldi felszámoló esetében – amennyiben rendelkezik ilyennel – a felszámoló képviseletében eljáró cég, illetve személy adatai (név, székhely/cím, telefonszám, KSH azonosító szám, adószám, email cím)
-
-e) a munkavállaló, illetve a személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag adatai [természetes személyazonosító adatok, állampolgárság, lakóhely (tartózkodási hely), társadalombiztosítási azonosító jel, adóazonosító jel, bankszámlaszám, számlatulajdonos neve, számlavezető hitelintézet, munkaviszony vagy feladatteljesítés kezdete, munkakör vagy feladat],
-
-f) a kölcsönbeadó vagy az iskolaszövetkezet, nyugdíjas szövetkezet adatai (név, székhely, KSH azonosító szám, adószám, pénzforgalmi számlaszám, számlavezető hitelintézet, tevékenység megkezdésének időpontja, engedély száma, képviseletre jogosult neve, címe, telefonszáma, email címe),
-
-g) a kölcsönvevő vagy a szolgáltatást igénybevevő adatai (név, székhely, KSH azonosító szám, pénzforgalmi számlaszám, számlavezető hitelintézet, felszámolás kezdő időpontja).
+13/A. § (1) Az állami foglalkoztatási szerv az e törvény szerint nyújtandó támogatás kifizetése érdekében a 3. § (2) bekezdésében és a 11. § (1d) bekezdésében foglalt adatokat a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzétetteknek megfelelően kezeli és tartja nyilván.
 
 (2) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 

@@ -42,6 +42,6 @@ l) személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti ta
 
 (3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás vagy kényszertörlési eljárás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
 
-(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Nemzeti Foglalkoztatási Alap bérgarancia alaprésze szolgál.
+(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap (a továbbiakban: Alap) bérgarancia alaprésze szolgál.
 
 (5) Az (1) bekezdés b) és c) pontjában foglaltakkal kapcsolatos támogatásra az e törvényben foglaltakat a 11–13. §-ban meghatározott eltérésekkel kell alkalmazni.

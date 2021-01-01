@@ -8,6 +8,34 @@ b) a felszámolási eljárást a kölcsönzési díj vagy a szolgáltatási díj
 
 (1b) A felszámoló az (1) bekezdésben meghatározott nyilvántartásba vétellel, illetve az (1a) bekezdés szerinti teljesítésigazolás kiadásával egyidejűleg köteles a kölcsönbeadónak, illetve az iskolaszövetkezetnek, nyugdíjas szövetkezetnek igazolást kiadni, amely kölcsönzött munkavállalónként, illetve átengedett tagonként tartalmazza az elmaradt kölcsönzési díjat, illetve szolgáltatási díjat. A nyilvántartásba vételről szóló értesítés, valamint az (1a) bekezdés szerinti teljesítésigazolás kézhezvételének időpontját a támogatás igénylése során a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet köteles igazolni. Az (1a) bekezdés szerinti teljesítésigazolás, valamint az e bekezdés szerinti igazolás másolatát mellékelni kell a támogatás iránti kérelemhez.
 
+(1c) A támogatás iránti kérelmet az állami foglalkoztatási szervhez a kölcsönbeadó vagy az iskolaszövetkezet, nyugdíjas szövetkezet a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzétettek szerint, elektronikus formában nyújtja be. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, annak megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
+
+(1d) Az (1c) bekezdés szerinti kérelem tartalmazza:
+
+a) a kölcsönbeadó, az iskolaszövetkezet vagy a nyugdíjas szövetkezet azonosító adatait,
+
+b) a gazdasági tevékenység megkezdésének időpontját, és a tevékenység megkezdéséről szóló engedély számát,
+
+c) a kölcsönbeadó, az iskolaszövetkezet vagy a nyugdíjas szövetkezet pénzforgalmi számlaszámát, a számlavezető pénzforgalmi szolgáltató megnevezését, címét,
+
+d) a kérelem alapjaként szereplő legkorábbi tartozás vonatkozásában a bérkifizetés vagy a díjfizetés napját,
+
+e) a bérfizetési vagy díjfizetési napon és az azt követően – a kérelem benyújtásáig – a megjelölt munkavállalók vagy tagok munkabérére vagy díjára fordított saját forrás összegét,
+
+f) az igényelt támogatás összegét,
+
+g) a követelés felszámoló általi hitelezői nyilvántartásba vételéről szóló értesítés kézhezvételének napját,
+
+h) a felszámolási eljárás kezdete után folytatott kölcsönzés esetén a felszámoló által kiállított teljesítésigazolás kézhezvételének napját,
+
+i) a kölcsönvevő vagy a szolgáltatás igénybe vevőjének azonosító adatait, az utolsó ismert pénzforgalmi számlaszámát, a számlavezető pénzforgalmi szolgáltató utolsó ismert megnevezését, címét, valamint a felszámolás kezdő időpontját,
+
+j) a kölcsönvevő vagy a szolgáltatást igénybevevő felszámolójának azonosító adatait és elérhetőségeit,
+
+k) a munkavállaló, az iskolaszövetkezet vagy a nyugdíjas szövetkezet tagjának nevét, születési nevét, anyja nevét, születési helyét és idejét, társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, a kölcsönzés vagy a szolgáltatás nyújtás időszakát, munkakörét vagy feladatát,
+
+l) az elmaradt kölcsönzési díjra vagy szolgáltatási díjra vonatkozó adatokat, a támogatásnak a Gazdaságvédelmi Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegét.
+
 (2) A kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet az (1) és (1a) bekezdés szerinti kérelmet a magyarországi szokásos munkavégzési hellyel rendelkező azon munkavállalója tekintetében terjesztheti elő, akire nézve nem áll fenn a 2. § (2) bekezdés b) vagy c) pontja szerinti kizáró ok.
 
 (3) A kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatási igény meghatározása során az (1) és az (1a) bekezdés szerinti kérelemben a kikölcsönzött munkavállaló részére járó munkabér, illetve személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag részére járó díj összegét – egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második évre vonatkozóan a Központi Statisztikai Hivatal által közzétett nemzetgazdasági havi bruttó átlagkereset (a továbbiakban: bruttó átlagkereset) ötszörösét – veheti figyelembe. Ha a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatást ugyanazon jogosult tekintetében egy felszámolási eljáráson belül több részletben veszi igénybe, és a felszámolási eljárás egyes naptári éveiben a bruttó átlagkereset mértéke eltérő – a támogatás következő évben történő igénybevétele esetén – a jogosultság szempontjából a magasabb bruttó átlagkereset alapján számított támogatási mértéket kell figyelembe venni.

@@ -1,6 +1,6 @@
 5. § (1) A támogatás kamatmentes.
 
-(2) A támogatás megállapítása esetén az állami foglalkoztatási szerv a döntés meghozatalától számított 5 napon belül intézkedik a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből
+(2) A támogatás megállapítása esetén az állami foglalkoztatási szerv a döntés meghozatalától számított 5 napon belül intézkedik az Alap bérgarancia alaprészéből
 
 a) a 7. § (1) és (2) bekezdése szerint meghatározott bértartozás – a munkavállalót terhelő közterhekkel csökkentett – összegének a munkavállaló részére történő kifizetéséről,
 
