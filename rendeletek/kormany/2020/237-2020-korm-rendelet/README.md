@@ -1,0 +1,9 @@
+# 237/2020. (V. 26.) Korm. rendelet
+
+az emberi erőforrások minisztere feladatkörébe tartozó egyes kormányrendeletek deregulációs célú módosításáról és hatályon kívül helyezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-237-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-01-01 | 2020-237-20-22.1 | 237/2020. (V. 26.) Korm. rendelet |
