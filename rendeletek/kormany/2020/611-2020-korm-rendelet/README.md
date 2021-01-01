@@ -1,0 +1,9 @@
+# 611/2020. (XII. 18.) Korm. rendelet
+
+az Országos Kereskedelmi Nyilvántartási Rendszer működéséhez szükséges egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-611-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-01-01 | 2020-611-20-22.1 | 611/2020. (XII. 18.) Korm. rendelet |
