@@ -1,6 +1,6 @@
 ## Az adó mértéke
 
-7. § (1) Az adó mértéke a 6. § (1) bekezdése szerinti adóalap után a gépjármű
+7. § (1) Az adó mértéke a 6. § (1) bekezdése szerint megállapított adóalap után a gépjármű
 
 – gyártási évében és az azt követő 3 naptári évben 345 Ft/kilowatt,
 

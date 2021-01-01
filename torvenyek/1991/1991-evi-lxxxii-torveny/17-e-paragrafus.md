@@ -1,6 +1,6 @@
 ## Az adó mértéke
 
-17/E. § Az adó havi mértéke személygépkocsinként, a személygépkocsi kW-ban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján a következő:
+17/E. § Az adó havi mértéke személygépkocsinként, a személygépkocsi kilowattban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján a következő:
 
 |
 

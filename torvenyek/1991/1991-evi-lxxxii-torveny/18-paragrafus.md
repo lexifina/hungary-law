@@ -22,7 +22,7 @@
 
 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
 
-9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül,
+9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül, valamint a környezetkímélő motorkerékpár,
 
 10. költségvetési szerv az állam, a helyi önkormányzat, a nemzetiségi önkormányzat és az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 
@@ -42,7 +42,7 @@
 
 18. gépjármű forgalomból való kivonásának minősül a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet szerinti forgalomból való kivonás,
 
-19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik. Amennyiben az önkormányzati adóhatóság az adómegállapítása során e tényt nem vette figyelembe, akkor az adóalany ezt a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával igazolhatja,
+19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik. Amennyiben az állami adó- és vámhatóság az adómegállapítása során e tényt nem vette figyelembe, akkor az adóalany ezt a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával igazolhatja,
 
 20. terhelhetőség (raksúly): a tehergépjármű esetében a hatósági nyilvántartásban feltüntetett megengedett legnagyobb össztömeg (összsúly) és a saját tömeg (önsúly) különbözete,
 
@@ -64,6 +64,6 @@
 
 29. környezetvédelmi osztályjelzés: a KöHÉM rendelet 2014. augusztus 15-én hatályos 5. számú melléklet II. alpontja szerinti környezetvédelmi osztályjelzés. Ha a KöHÉM rendelet szerinti osztályjelzés nem ismert, akkor azt a személygépkocsi, tehergépjármű, autóbusz légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl.: forgalmi engedély, típusbizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztályjelzése: „6”. Ha a személygépkocsi, tehergépjármű, autóbusz osztályjelzése a KöHÉM rendelet 2014. augusztus 15-ét követő módosítása miatt „16”-nál nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztályjelzés „16” ,
 
-30.
+30. környezetkímélő motorkerékpár: az a tisztán elektromos motorkerékpár, amelynek a hajtáslánca legalább egy elektromos energiatároló eszközt, elektromos áram átalakító egységet, és olyan elektromos gépet tartalmaz, amely a motorkerékpár meghajtására szolgáló tárolt elektromos energiát mechanikai energiává alakítja és a motorkerékpár meghajtásához más erőforrással nem rendelkezik,
 
 31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing.

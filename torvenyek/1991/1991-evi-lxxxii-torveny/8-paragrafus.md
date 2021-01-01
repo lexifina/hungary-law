@@ -10,6 +10,6 @@
 
 (5) Az adókedvezmény mértéke 30–60 járat teljesítése esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a, 60 járat felett 20%-a. 2004. január 1-jétől az adókedvezmény mértéke 40 járat feletti teljesítés esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a.
 
-(6) Az adóalany a kombinált áruszállítás után járó adókedvezmény iránti – fuvarokmánnyal igazolt – kérelmét az adóév július 1. napjától nyújthatja be a gépjármű adóztatására illetékes adóhatósághoz.
+(6) Az adóalany a kombinált áruszállítás után járó adókedvezmény iránti – fuvarokmánnyal igazolt – kérelmét az adóév július 1. napjától nyújthatja be az állami adó- és vámhatósághoz.
 
 (7) Az (5) bekezdés szerinti adókedvezmény csak azon tehergépjármű után jár, amely a kombinált szállítási útvonal vasúti vagy/és vízi szakaszát is igénybe vette.

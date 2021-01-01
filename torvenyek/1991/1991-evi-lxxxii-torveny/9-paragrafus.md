@@ -1,9 +1,5 @@
 ## Az adó megállapítása és kezelése
 
-9. § (1) Gépjárműadóügyben az önkormányzati adóhatóság jár el első fokon. Az adóztatási feladatokat – a (3) bekezdésben foglalt kivétellel – az adóalany hatósági nyilvántartás címadat rovatába bejegyzett lakcíme, székhelye vagy telephelye szerint illetékes települési, a fővárosban a kerületi önkormányzati, a Margitsziget tekintetében pedig a Budapest XIII. kerületi önkormányzati adóhatóság (a továbbiakban együtt: adóhatóság) látja el. Ha a nyilvántartásban a lakcím, a székhely vagy a telephely megváltozik, az adóztatási feladatok ellátására a változást követő év első napjától az új lakcím, székhely vagy telephely szerint illetékes adóhatóság jogosult. Gépjármű tulajdonátruházása esetén, ha a tulajdonváltozással érintett felek egyike sem tesz eleget a külön jogszabály által meghatározott bejelentési kötelezettségének, akkor a tulajdonváltozás bejelentése évének utolsó napjáig a 2. § (1) bekezdése szerinti tulajdonos nyilvántartásba bejegyzett lakcíme, székhelye vagy telephelye szerinti önkormányzati adóhatóság az illetékes a tulajdonváltozással érintett gépjármű adóztatására.
+9. § (1) A gépjárműadóval kapcsolatos adóhatósági feladatokat az állami adó- és vámhatóság látja el.
 
-(2) Az (1) bekezdésben foglalt változások esetén a változást követő év első napjától esedékes adót kell az új cím szerint illetékes adóhatóságnál megfizetni.
-
-(3) Az adóztatási feladatokat az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtáblával ellátott gépjármű esetében a gépjárműre kiadott ideiglenes forgalomban tartási engedélyben, illetve ideiglenes forgalmi engedélyben megjelölt lakóhely, székhely (ideértve a fióktelepet is) szerint illetékes adóhatóság látja el.
-
-(4) Amennyiben az adóalany adótartozása az egy évi adótételt meghaladja, és a közúti közlekedési nyilvántartásban újabb adóalanyt [2. § (1) bek.] a közlekedési igazgatási hatóság nem tüntetett fel, az adóhatóság kezdeményezheti a gépjárműnek a forgalomból való kivonását.
+(2) Amennyiben az adóalany adótartozása az egy évi adótételt meghaladja, és a közúti közlekedési nyilvántartásban újabb, a 2. § (1) bekezdése szerinti adóalany nem szerepel, az állami adó- és vámhatóság kezdeményezheti a gépjárműnek a forgalomból való kivonását.
