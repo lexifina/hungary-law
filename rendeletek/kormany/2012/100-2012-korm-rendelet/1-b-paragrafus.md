@@ -8,7 +8,7 @@ b) nem kell településképi véleményezési eljárást és településképi be
 
 c) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 23/l. §-a szerinti, országkép- és településképvédelmi szempontú előzetes véleményezésnek nincs helye,
 
-d) a Műemléki Tanácsadó Testület szakértői véleménye nem kérhető,
+d)[^12]
 
 e) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 27. §-a szerinti közterület-alakítási terv készítésének és alkalmazásának nincs helye,
 
@@ -18,3 +18,4 @@ g) nem kell alkalmazni az építőipari kivitelezési tevékenységről szóló 
 
 [^10]: Az 1/A. §-t a 127/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be, szövege a 145/2018. (VIII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^11]: Az 1/B. §-t a 23/2015. (II. 18.) Korm. rendelet 2. §-a iktatta be, szövege a 85/2019. (IV. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: Az 1/B. § d) pontját a 677/2020. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
