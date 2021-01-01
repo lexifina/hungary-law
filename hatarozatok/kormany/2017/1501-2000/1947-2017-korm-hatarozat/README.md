@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1947-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-12 | 2017-1947-30-22.1 | 1947/2017. (XII. 12.) Korm. határozat |
+| 2021-01-01 | 2017-1947-30-22.2 | 2011. évi CXCV. törvény |
