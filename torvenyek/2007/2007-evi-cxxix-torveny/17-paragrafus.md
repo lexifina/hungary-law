@@ -12,7 +12,7 @@ b) az eredeti állapot helyreállításának függő hatályú elrendeléséről
 
 (1d) Az utólagos hozzájárulás megadására csak akkor kerülhet sor, ha rendelkezésre áll a 16. § (9) bekezdése szerinti tulajdonosi, haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozat. Ennek hiányában az ingatlanügyi hatóság az (1c) bekezdés a) pontjában foglaltakról rendelkezik.
 
-(1e) Az (1) bekezdésben és az (1c) bekezdés a) pontjában meghatározott határozatban elő kell írni, hogy az eredeti állapot helyreállítását a talajvédelmi hatóság által jóváhagyott, az 50. § (2) bekezdés d) pontjában foglalt talajvédelmi terv szerint kell végrehajtani.
+(1e) Az (1) bekezdésben és az (1c) bekezdés a) pontjában meghatározott határozatban elő kell írni, hogy az eredeti állapot helyreállítását az 50. § (2) bekezdés d) pontjában foglalt talajvédelmi terv szerint kell végrehajtani.
 
 (2)–(3)
 
