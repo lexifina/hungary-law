@@ -4,7 +4,7 @@
 
 (3) Az igénybe vett szolgáltatások között kell kimutatni az egységes rovatrend K32. Kommunikációs szolgáltatások, a K335. Közvetített szolgáltatások kivételével a K33. Szolgáltatási kiadások és K34. Kiküldetések, reklám- és propagandakiadások rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket.
 
-(4)[^120] Az eladott áruk beszerzési értéke között az Szt. 78. § (5) bekezdése szerinti gazdasági eseményeket kell kimutatni.
+(4)[^121] Az eladott áruk beszerzési értéke között az Szt. 78. § (5) bekezdése szerinti gazdasági eseményeket kell kimutatni.
 
 (5) Az eladott (közvetített) szolgáltatások között kell kimutatni az egységes rovatrend K335. Közvetített szolgáltatások rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket.
 
@@ -16,35 +16,41 @@
 
 (9) A bérjárulékok között kell kimutatni az egységes rovatrend K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket.
 
-(10)[^121] Értékcsökkenési leírásként az eszközök elszámolt terv szerinti értékcsökkenését kell kimutatni, ideértve a kisértékű immateriális javak beszerzésekor, kisértékű tárgyi eszközök használatbavételekor egy összegben elszámolt értékcsökkenést is.
+(10)[^122] Értékcsökkenési leírásként az eszközök elszámolt terv szerinti értékcsökkenését kell kimutatni, ideértve a kisértékű immateriális javak beszerzésekor, kisértékű tárgyi eszközök használatbavételekor egy összegben elszámolt értékcsökkenést is.
 
-(10a)[^122] Az egyéb ráfordítások között kell elszámolni az immateriális jószág, a tárgyi eszköz értékesítésekor azok könyv szerinti értékét, a hiányzó, megsemmisült, állományból kivezetett – részesedésnek vagy értékpapírnak nem minősülő – eszközök könyv szerinti értékét, és a (11) bekezdés szerinti különféle egyéb ráfordításokat.
+(10a)[^123] Az egyéb ráfordítások között kell elszámolni
 
-(11)[^123] A különféle egyéb ráfordítások között kell elszámolni az anyagok, áruk veszteségjellegű leltárértékelési különbözetének összegét, a kötelezett megszűnése és a más okból behajthatatlan – vásárolt követelésnek nem minősülő – követelés leírt összegét, a térítés nélkül átadott részesedésnek, értékpapírnak vagy vásárolt követelésnek nem minősülő – eszközök nyilvántartás szerinti értékét, valamint a (11a) bekezdés szerinti más különféle egyéb ráfordításokat.
+a) az immateriális jószág, a tárgyi eszköz értékesítése esetén (ideértve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz Szt. 72. § (4) bekezdés a) pontja szerinti jogcímen történő átadása esetén az értékesítésből, az átadásból származó bevétel és a könyv szerinti érték különbözetét, amennyiben a könyv szerinti érték meghaladja a bevételt az értékesítéskor, az átadáskor,
 
-(11a)[^124] A más különféle egyéb ráfordítások között kell elszámolni
+b) a hiányzó, megsemmisült, állományból kivezetett – részesedésnek vagy értékpapírnak nem minősülő – eszközök könyv szerinti értékét, és
 
-a)[^125] az egységes rovatrend K502. Elvonások és befizetések, K506. Egyéb működési célú támogatások államháztartáson belülre, K81. Felhalmozási célú garancia- és kezességvállalásból származó kifizetés államháztartáson belülre, K84. Egyéb felhalmozási célú támogatások államháztartáson belülre, K85. Felhalmozási célú garancia- és kezességvállalásból származó kifizetés államháztartáson kívülre, K87. Lakástámogatás, K88. Felhalmozási célú támogatások az Európai Uniónak, K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre és K915. Központi, irányító szervi támogatás folyósítása rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
+c) a (11) bekezdés szerinti különféle egyéb ráfordításokat.
 
-b)[^126] az egységes rovatrend K355. Egyéb dologi kiadások rovat b)–f) pontja a pénztárhiány kivételével, K4. Ellátottak pénzbeli juttatásai, K501. Nemzetközi kötelezettségek, K503. Működési célú garancia- és kezességvállalásból származó kifizetés államháztartáson belülre, K507. Működési célú garancia- és kezességvállalásból származó kifizetés államháztartáson kívülre, K509. Árkiegészítések, ártámogatások, K510. Kamattámogatások, K511. Működési célú támogatások az Európai Uniónak és K512. Egyéb működési célú támogatások államháztartáson kívülre rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket, ideértve a veszteség jellegű kerekítési különbözetet is,
+(11)[^124] A különféle egyéb ráfordítások között kell elszámolni az anyagok, áruk veszteségjellegű leltárértékelési különbözetének összegét, a kötelezett megszűnése és a más okból behajthatatlan – vásárolt követelésnek nem minősülő – követelés leírt összegét, a térítés nélkül átadott részesedésnek, értékpapírnak vagy vásárolt követelésnek nem minősülő – eszközök nyilvántartás szerinti értékét, valamint a (11a) bekezdés szerinti más különféle egyéb ráfordításokat.
+
+(11a)[^125] A más különféle egyéb ráfordítások között kell elszámolni
+
+a)[^126] az egységes rovatrend K502. Elvonások és befizetések, K506. Egyéb működési célú támogatások államháztartáson belülre, K81. Felhalmozási célú garancia- és kezességvállalásból származó kifizetés államháztartáson belülre, K84. Egyéb felhalmozási célú támogatások államháztartáson belülre, K85. Felhalmozási célú garancia- és kezességvállalásból származó kifizetés államháztartáson kívülre, K87. Lakástámogatás, K88. Felhalmozási célú támogatások az Európai Uniónak, K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre és K915. Központi, irányító szervi támogatás folyósítása rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
+
+b)[^127] az egységes rovatrend K355. Egyéb dologi kiadások rovat b)–f) pontja a pénztárhiány kivételével, K4. Ellátottak pénzbeli juttatásai, K501. Nemzetközi kötelezettségek, K503. Működési célú garancia- és kezességvállalásból származó kifizetés államháztartáson belülre, K507. Működési célú garancia- és kezességvállalásból származó kifizetés államháztartáson kívülre, K509. Árkiegészítések, ártámogatások, K510. Kamattámogatások, K511. Működési célú támogatások az Európai Uniónak és K512. Egyéb működési célú támogatások államháztartáson kívülre rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket, ideértve a veszteség jellegű kerekítési különbözetet is,
 
 c) az előzetesen felszámított, le nem vonható általános forgalmi adót,
 
 d) az immateriális javak, a tárgyi eszközök elszámolt terven felüli értékcsökkenésének, a követelések és a készletek értékvesztésének összegét,
 
-e)[^127] az eredeti követelést engedményezőnél (eladónál) az engedményezett (az átruházott) követelésnek a könyv szerinti értékét a követelés átruházásakor,
+e)[^128] az eredeti követelést engedményezőnél (eladónál) az engedményezett (átruházott) követelés engedményes által elismert értékének és könyv szerinti értékének a különbözetét, amennyiben a könyv szerinti érték meghaladja az elismert értéket, a követelés átruházásakor,
 
-f)[^128] a szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott engedmény szerződés szerinti összegét, és
+f)[^129] a szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott engedmény szerződés szerinti összegét, és
 
-g)[^129] az Szt. 81. § (2) bekezdés k)–m) pontjában meghatározott gazdasági eseményeket.
+g)[^130] az Szt. 81. § (2) bekezdés k)–m) pontjában meghatározott gazdasági eseményeket.
 
-[^120]: A 26. § (4) bekezdése a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^121]: A 26. § (10) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 22. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^122]: A 26. § (10a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 95. §-a iktatta be, szövege a 351/2016. (XI. 18.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
-[^123]: A 26. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 402/2015. (XII. 15.) Korm. rendelet 22. § 9. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 3–4. pontja szerint módosított szöveg.
-[^124]: A 26. § (11a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^125]: A 26. § (11a) bekezdés a) pontja a 402/2015. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^126]: A 26. § (11a) bekezdés b) pontja a 282/2019. (XI. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
-[^127]: A 26. § (11a) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja, a 203/2018. (XI. 5.) Korm. rendelet 4. § 3. pontja szerint módosított szöveg.
-[^128]: A 26. § (11a) bekezdés f) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
-[^129]: A 26. § (11a) bekezdés g) pontját a 402/2015. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^121]: A 26. § (4) bekezdése a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^122]: A 26. § (10) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 22. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^123]: A 26. § (10a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 95. §-a iktatta be, szövege a 678/2020. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^124]: A 26. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 402/2015. (XII. 15.) Korm. rendelet 22. § 9. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 3–4. pontja szerint módosított szöveg.
+[^125]: A 26. § (11a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^126]: A 26. § (11a) bekezdés a) pontja a 402/2015. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^127]: A 26. § (11a) bekezdés b) pontja a 282/2019. (XI. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^128]: A 26. § (11a) bekezdés e) pontja a 678/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^129]: A 26. § (11a) bekezdés f) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^130]: A 26. § (11a) bekezdés g) pontját a 402/2015. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.

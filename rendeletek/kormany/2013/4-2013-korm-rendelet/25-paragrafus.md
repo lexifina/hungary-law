@@ -26,17 +26,17 @@ b) a kötelezettségek teljesítésére, a csereszerződés keretében átadott 
 
 a) az egységes rovatrend B12. Elvonások és befizetések bevételei rovathoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket,
 
-b)[^115] az egységes rovatrend B13. Működési célú garancia- és kezességvállalásból származó megtérülések államháztartáson belülről, B21. Felhalmozási célú önkormányzati támogatások, B22. Felhalmozási célú garancia- és kezességvállalásból származó megtérülések államháztartáson belülről, B410. Biztosító által fizetett kártérítés, B411. Egyéb működési bevételek, B51. Immateriális javak értékesítése, B52. Ingatlanok értékesítése, B53. Egyéb tárgyi eszközök értékesítése, B61. Működési célú garancia- és kezességvállalásból származó megtérülések államháztartáson kívülről és B71. Felhalmozási célú garancia- és kezességvállalásból származó megtérülések államháztartáson kívülről rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket,
+b)[^115] az egységes rovatrend B13. Működési célú garancia- és kezességvállalásból származó megtérülések államháztartáson belülről, B21. Felhalmozási célú önkormányzati támogatások, B22. Felhalmozási célú garancia- és kezességvállalásból származó megtérülések államháztartáson belülről, B410. Biztosító által fizetett kártérítés, B411. Egyéb működési bevételek [ide nem értve a rovat leírásának i) pontjában szereplő gazdasági eseményt], B61. Működési célú garancia- és kezességvállalásból származó megtérülések államháztartáson kívülről és B71. Felhalmozási célú garancia- és kezességvállalásból származó megtérülések államháztartáson kívülről rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket,
 
-c) a kötelezettségek teljesítésére, a csereszerződés keretében átadott immateriális jószág, tárgyi eszköz – általános forgalmi adót nem tartalmazó – számlázott, megállapodás, csereszerződés szerinti értékét az átadás-átvétel időpontjában,
+c)[^116] az immateriális jószág, a tárgyi eszköz értékesítése esetén (ideértve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz Szt. 72. § (4) bekezdés a) pontja szerinti jogcímen történő átadása esetén az értékesítésből, az átadásból származó bevétel és a könyv szerinti érték különbözetét, amennyiben a bevétel meghaladja a könyv szerinti értéket, az értékesítéskor, az átadáskor,
 
-d)[^116] az immateriális javak, a tárgyi eszközök elszámolt terven felüli értékcsökkenésének, a követelések és a készletek értékvesztésének visszaírt összegét,
+d)[^117] az immateriális javak, a tárgyi eszközök elszámolt terven felüli értékcsökkenésének, a követelések és a készletek értékvesztésének visszaírt összegét,
 
-e)[^117] a szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott engedmény szerződés szerinti összegét, és
+e)[^118] a szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott engedmény szerződés szerinti összegét, és
 
-f)[^118] az Szt. 77. § (3) bekezdés k) és l) pontjában meghatározott gazdasági eseményeket.
+f)[^119] az Szt. 77. § (3) bekezdés d), k) és l) pontjában meghatározott gazdasági eseményeket.
 
-(10)[^119] Az Szt. 77. § (4) bekezdése szerinti tételeket halasztott eredményszemléletű bevételként el kell határolni azzal, hogy az Szt. 77. § (4) bekezdés b) pontja szerinti esetet a felhalmozási célú támogatások eredményszemléletű bevételeire kell alkalmazni.
+(10)[^120] Az Szt. 77. § (4) bekezdése szerinti tételeket halasztott eredményszemléletű bevételként el kell határolni azzal, hogy az Szt. 77. § (4) bekezdés b) pontja szerinti esetet a felhalmozási célú támogatások eredményszemléletű bevételeire kell alkalmazni.
 
 [^106]: A 25. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 19. pontja szerint módosított szöveg.
 [^107]: A 25. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 94. § (1) bekezdésével megállapított szöveg.
@@ -47,8 +47,9 @@ f)[^118] az Szt. 77. § (3) bekezdés k) és l) pontjában meghatározott gazdas
 [^112]: A 25. § (8a) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^113]: A 25. § (9) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^114]: A 25. § (9a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^115]: A 25. § (9a) bekezdés b) pontja a 402/2015. (XII. 15.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^116]: A 25. § (9a) bekezdés d) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
-[^117]: A 25. § (9a) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
-[^118]: A 25. § (9a) bekezdés f) pontját a 402/2015. (XII. 15.) Korm. rendelet 8. § (4) bekezdése iktatta be.
-[^119]: A 25. § (10) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 8. § (5) bekezdése iktatta be.
+[^115]: A 25. § (9a) bekezdés b) pontja a 402/2015. (XII. 15.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 678/2020. (XII. 28.) Korm. rendelet 10. § 5. pontja szerint módosított szöveg.
+[^116]: A 25. § (9a) bekezdés c) pontja a 678/2020. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^117]: A 25. § (9a) bekezdés d) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
+[^118]: A 25. § (9a) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^119]: A 25. § (9a) bekezdés f) pontját a 402/2015. (XII. 15.) Korm. rendelet 8. § (4) bekezdése iktatta be, szövege a 678/2020. (XII. 28.) Korm. rendelet 10. § 6. pontja szerint módosított szöveg.
+[^120]: A 25. § (10) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 8. § (5) bekezdése iktatta be.

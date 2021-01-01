@@ -10,15 +10,15 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^326]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^329]
 
-## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
+## Adatszolgáltatás a társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről
 
 1. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások cím, 1. Nyugellátások alcím, 1. Öregségi nyugdíj jogcímcsoport tekintetében a kifizetett ellátások közül:
 
 – öregségi nyugdíjként megállapított nyugdíjak,
 
-– ebből: nők korhatár alatti nyugellátásaként megállapított, korbetöltött öregségi nyugdíj
+– ebből: nők korhatár alatti nyugellátásaként megállapított, korbetöltött öregségi nyugdíj,
 
 – rokkantsági nyugdíjként megállapított, átsorolt öregségi nyugdíj,
 
@@ -26,23 +26,61 @@
 
 2. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások cím, 1. Nyugellátások alcím, 3. Hozzátartozói nyugellátás jogcímcsoport, 2. Özvegyi nyugellátás jogcím tekintetében a kifizetett ellátások közül:
 
-- özvegyi, szülői nyugellátás főellátásként: ideiglenes özvegyi nyugdíj főellátásként,
+– özvegyi, szülői nyugellátás főellátásként: ideiglenes özvegyi nyugdíj főellátásként,
 
-- özvegyi, szülői nyugellátás főellátásként: korhatár feletti állandó özvegyi, szülői nyugdíj főellátásként,
+– özvegyi, szülői nyugellátás főellátásként: korhatár feletti állandó özvegyi, szülői nyugdíj főellátásként,
 
-- özvegyi, szülői nyugellátás főellátásként: korhatár alatti állandó özvegyi, szülői nyugdíj főellátásként,
+– özvegyi, szülői nyugellátás főellátásként: korhatár alatti állandó özvegyi, szülői nyugdíj főellátásként,
 
-- özvegyi, szülői nyugellátás főellátásként: özvegyi járadék,
+– özvegyi, szülői nyugellátás főellátásként: özvegyi járadék,
 
-- özvegyi kiegészítő ellátások: ideiglenes özvegyi nyugdíj kiegészítések,
+– özvegyi kiegészítő ellátások: ideiglenes özvegyi nyugdíj kiegészítések,
 
-- özvegyi kiegészítő ellátások: egyesített özvegyi nyugdíj kiegészítések,
+– özvegyi kiegészítő ellátások: egyesített özvegyi nyugdíj kiegészítések,
 
-- özvegyi kiegészítő ellátások: együtt folyósított kiegészítések.
+– özvegyi kiegészítő ellátások: együtt folyósított kiegészítések.
 
-3. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím,
+3. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások cím, 1. Nyugellátások alcím, 5. Nyugdíjprémium céltartalék jogcímcsoport terhére kifizetett ellátások közül:
 
-1. Gyógyító-megelőző ellátás jogcímcsoport, 1. Háziorvosi, háziorvosi ügyeleti ellátás jogcím tekintetében a kifizetett támogatások közül:
+– öregségi nyugdíj jogcímhez kapcsolódó nyugdíjprémium,
+
+– özvegyi nyugellátás jogcímhez kapcsolódó nyugdíjprémium,
+
+– árvaellátás jogcímhez kapcsolódó nyugdíjprémium,
+
+– öregségi nyugdíj jogcímhez kapcsolódó egyszeri juttatás,
+
+– özvegyi nyugellátás jogcímhez kapcsolódó egyszeri juttatás,
+
+– árvaellátás jogcímhez kapcsolódó egyszeri juttatás.
+
+4. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások cím, 1. Nyugellátások alcím, 6. Tizenharmadik havi nyugdíj jogcímcsoport terhére kifizetett ellátások közül:
+
+– öregségi nyugdíj jogcímhez kapcsolódó 13. havi nyugdíj,
+
+– ebből: nők korhatár alatti nyugellátáshoz kapcsolódó 13. havi nyugdíj,
+
+– özvegyi nyugellátás jogcímhez kapcsolódó 13. havi nyugdíj,
+
+– árvaellátás jogcímhez kapcsolódó 13. havi nyugdíj.
+
+5. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 4. Kártérítési és baleseti járadék jogcímcsoport tekintetében a kifizetett ellátásokon belül:
+
+– kártérítési járadék,
+
+– baleseti járadék,
+
+– ebből: egyszeri juttatás,
+
+– ebből: 13. havi ellátás.
+
+6. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 6. Rokkantsági, rehabilitációs ellátások jogcímcsoport tekintetében a kifizetéseken belül:
+
+– egyszeri juttatás,
+
+– 13. havi ellátás.
+
+7. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 1. Háziorvosi, háziorvosi ügyeleti ellátás jogcím tekintetében a kifizetett támogatások közül:
 
 – praxisfinanszírozás,
 
@@ -52,19 +90,19 @@
 
 – ügyeleti szolgálat.
 
-4. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 2. Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem jogcím tekintetében a kifizetett támogatások közül:
+8. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 2. Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem jogcím tekintetében a kifizetett támogatások közül:
 
-- iskolaegészségügyi ellátás,
+– iskolaegészségügyi ellátás,
 
-- védőnői ellátás,
+– védőnői ellátás,
 
-- anya-, gyermek- és csecsemővédelem,
+– anya-, gyermek- és csecsemővédelem,
 
-- MSZSZ: gyermekgyógyászat,
+– MSZSZ: gyermekgyógyászat,
 
-- MSZSZ: nőgyógyászat.
+– MSZSZ: nőgyógyászat.
 
-5. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 13. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
+9. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 7. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
 
 – méltányossági alapon történő térítések,
 
@@ -74,21 +112,21 @@
 
 – tervezett külföldi ellátások orvosi felülvizsgálata,
 
-– egészségügyi dolgozók 2018–2020. évi béremelésének fedezete,
+– egészségügyi dolgozók 2018–2021. évi béremelésének fedezete,
 
 – egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete,
 
 – az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése,
 
-– fiatal szakorvosok támogatása,
+– fiatal szakorvosok támogatása.
 
-– működési támogatás,
-
-– 2020. évi egyszeri rendkívüli juttatás fedezete.
-
-6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
+10. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 10. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
 
 – járóbeteg-szakellátás,
+
+– népegészségügy fejlesztése,
+
+– működési költségelőleg,
 
 – molekuláris diagnosztikai (PCR) ellátás,
 
@@ -104,8 +142,6 @@
 
 – extrafinanszírozás,
 
-– nagyértékű gyógyszerfinanszírozás,
-
 – speciális finanszírozású szakellátás.
 
-[^326]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2–3. pontja, a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 3. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^329]: A 4. melléklet a 678/2020. (XII. 28.) Korm. rendelet 9. § (1) bekezdés 5. pontjával megállapított szöveg.

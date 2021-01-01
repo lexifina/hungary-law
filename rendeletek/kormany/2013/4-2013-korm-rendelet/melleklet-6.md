@@ -28,15 +28,17 @@
 
 ## 1. Tartós részesedések
 
-## - ebből: tartós részesedések jegybankban
+## – ebből: tartós részesedések jegybankban
 
-## - ebből: tartós részesedések nem pénzügyi vállalkozásban
+## – ebből: tartós részesedések nem pénzügyi vállalkozásban
 
-## - ebből: tartós részesedések pénzügyi vállalkozásban
+## – ebből: tartós részesedések pénzügyi vállalkozásban
 
-## - ebből: tartós részesedések társulásban
+## – ebből: tartós részesedések társulásban
 
-## - egyéb tartós részesedések
+## – ebből: egyéb tartós részesedések (kivéve: befektetési jegyek)
+
+## – ebből: tartós befektetési jegyek
 
 ## 2. Tartós hitelviszonyt megtestesítő értékpapírok
 
@@ -75,6 +77,10 @@
 ## II. Értékpapírok
 
 ## 1. Nem tartós részesedések
+
+## – ebből: részesedések
+
+## – ebből: nem tartós befektetési jegyek
 
 ## 2. Forgatási célú hitelviszonyt megtestesítő értékpapírok
 
@@ -506,7 +512,7 @@
 
 ## Források összesen
 
-6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^328]
+6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^331]
 
 ## EREDMÉNYKIMUTATÁS/KONSZOLIDÁLT EREDMÉNYKIMUTATÁS
 
@@ -566,7 +572,7 @@ VII. Egyéb ráfordítások
 
 20. Egyéb kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek
 
-21.[^329] Pénzügyi műveletek egyéb eredményszemléletű bevételei
+21.[^332] Pénzügyi műveletek egyéb eredményszemléletű bevételei
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamnyeresége
 
@@ -586,7 +592,7 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 – ebből: Kincstáron kívüli forint- és devizaszámlák értékvesztése
 
-26.[^330] Pénzügyi műveletek egyéb ráfordításai
+26.[^333] Pénzügyi műveletek egyéb ráfordításai
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamvesztesége
 
@@ -594,6 +600,6 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 IX. Pénzügyi műveletek ráfordításai (22+23+24+25+26)
 
-[^328]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^329]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
-[^330]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
+[^331]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^332]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
+[^333]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
