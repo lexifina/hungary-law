@@ -66,6 +66,6 @@
 
 ## 4.3. megállapításai.
 
-2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^273]
+2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^276]
 
-[^273]: A 2. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^276]: A 2. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.

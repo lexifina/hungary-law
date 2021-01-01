@@ -1,6 +1,6 @@
 ## Ápolási díj
 
-25. §[^145] (1)[^146] Az ápolási díj megállapítása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
+25. §[^147] (1)[^148] Az ápolási díj megállapítása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
 
 a) az Szt. 18/A. § a)–c) és h) pontja szerinti adatokat,
 
@@ -22,13 +22,13 @@ i) arra vonatkozó adatot, hogy az ápolt személy a rehabilitációs hatóság 
 
 j) az ápolt személy, illetve törvényes képviselője nyilatkozatát annak egyetértő tudomásulvételéről, hogy az ápolást végző személy az ápolási díjra való jogosultság megállapítása iránt kérelmet nyújtott be.
 
-(1a)[^147] A kérelemhez mellékelni kell
+(1a)[^149] A kérelemhez mellékelni kell
 
 a) az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével a háziorvosnak a 20. § (5) bekezdésében meghatározott adattartalommal rendelkező igazolását arról, hogy az ápolt személy súlyosan fogyatékos vagy tartósan beteg,
 
 b) az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén az intézmény vezetőjének a 20. § (7) bekezdésében meghatározott adattartalommal rendelkező igazolását.
 
-(2)[^148] A háziorvos az (1a) bekezdés a) pontjában foglalt igazolást
+(2)[^150] A háziorvos az (1a) bekezdés a) pontjában foglalt igazolást
 
 a) a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata,
 
@@ -40,7 +40,7 @@ d) a sajátos nevelési igény tényét megállapító, pedagógiai szakszolgál
 
 ## alapján állítja ki.
 
-(3)[^149] Nem kell csatolni a kérelemhez a háziorvos (1a) bekezdés a) pontja szerinti igazolását, ha az ápolt személynek
+(3)[^151] Nem kell csatolni a kérelemhez a háziorvos (1a) bekezdés a) pontja szerinti igazolását, ha az ápolt személynek
 
 a) fogyatékossági támogatásra vagy
 
@@ -48,20 +48,20 @@ b) vakok személyi járadékára
 
 ## való jogosultsága áll fenn.
 
-(4)[^150]
+(4)[^152]
 
-(4a)[^151]
+(4a)[^153]
 
-(4b)[^152]
+(4b)[^154]
 
-(5)[^153] Ha a kérelmet az ápolt személy, illetve törvényes képviselője nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
+(5)[^155] Ha a kérelmet az ápolt személy, illetve törvényes képviselője nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
-[^145]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^146]: A 25. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^147]: A 25. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^148]: A 25. § (2) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^149]: A 25. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^150]: A 25. § (4) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
-[^151]: A 25. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
-[^152]: A 25. § (4b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
-[^153]: A 25. § (5) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.
+[^147]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^148]: A 25. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^149]: A 25. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^150]: A 25. § (2) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^151]: A 25. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^152]: A 25. § (4) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
+[^153]: A 25. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
+[^154]: A 25. § (4b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
+[^155]: A 25. § (5) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.
