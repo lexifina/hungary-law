@@ -2,6 +2,10 @@
 
 7. § (1) Az adóalanyiság választásának bejelentésével egyidejűleg a kisadózó vállalkozás bejelenti azon kisadózónak vagy kisadózóknak a nevét, címét, adóazonosító jelét és társadalombiztosítási azonosító jelét, aki vagy akik bármilyen jogviszonyban – ide nem értve a munkaviszonyt – végzett tevékenység keretében (ideértve különösen a személyes közreműködést, a vezető tisztségviselői és a megbízási jogviszony alapján végzett tevékenységet) részt vesz vagy vesznek a kisadózó vállalkozás tevékenységében. Egyéni vállalkozó kisadózó vállalkozás esetén az adóalany az egyéni vállalkozót mint magánszemélyt jelenti be kisadózóként.
 
+(1a) A magánszemély egyetlen jogviszonyával összefüggésben jelenthető be kisadózóként.
+
+(1b) Az állami adó- és vámhatóság a kisadózó vállalkozás által tett, a magánszemély kisadózóként történő bejelentését visszautasítja, ha a magánszemély a nyilvántartásában kisadózóként már szerepel.
+
 (2) A vezető tisztségviselői feladatokat nem munkaviszony keretében ellátó, a kisadózó vállalkozással megbízási jogviszonyban álló és a személyes közreműködésre köteles tagokat a kisadózó vállalkozás köteles bejelenteni kisadózóként. A kisadózó vállalkozás tevékenységében a betéti társaság, közkereseti társaság kisadózóként be nem jelentett tagja kizárólag munkaviszony keretében működhet közre. E szabály megsértésével a kisadózó vállalkozás tevékenységében részt vevő tag közreműködését be nem jelentett alkalmazott foglalkoztatásának kell tekinteni.
 
 (3) A bejelentésben nyilatkozni kell arról, hogy a kisadózó főállású kisadózónak minősül-e, a biztosítása a kisadózókénti bejelentéssel jön-e létre, valamint nyilatkozni lehet arról, ha a kisadózó vállalkozás a főállású kisadózó után magasabb összegű tételes adó [8. § (4a) bekezdés] megfizetését választja.

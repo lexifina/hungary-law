@@ -22,7 +22,7 @@ b) egyidejűleg mezőgazdasági kistermelői tevékenységet is folytat, akkor e
 
 (6) Az egyéni vállalkozó a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnésének adóévét követő első adóév első napjára vonatkozóan – az Szja tv.-nek a nyilvántartásra vonatkozó rendelkezései megfelelő alkalmazásával – részletes vagyonleltárt készít minden olyan eszközéről, amelyet vállalkozói tevékenysége keretében fog használni.
 
-(7) A kisadózó vállalkozások tételes adója szerinti adóalanyiság időszaka alatt megszerzett nem anyagi jószág, tárgyi eszköz alapján az adózó az adóalanyiság megszűnése – ide nem értve, ha az egyéni vállalkozói tevékenységre való jogosultság egyéni cég alapítása miatt szűnik meg – után a jövedelem meghatározásakor az értékcsökkenési leírást a más által kibocsátott bizonylaton feltüntetett értékre, mint beruházási költségre vetítve állapítja meg.
+(7) A kisadózó vállalkozások tételes adója szerinti adóalanyiság időszaka alatt megszerzett nem anyagi jószág, tárgyi eszköz alapján az adózó az adóalanyiság megszűnése – ide nem értve, ha az egyéni vállalkozói tevékenységre való jogosultság egyéni cég, egyszemélyes korlátolt felelősségű társaság alapítása miatt szűnik meg – után a jövedelem meghatározásakor az értékcsökkenési leírást a más által kibocsátott bizonylaton feltüntetett értékre, mint beruházási költségre vetítve állapítja meg.
 
 (8) A személyi jövedelemadó szempontjából költségként elszámoltnak kell tekinteni:
 
