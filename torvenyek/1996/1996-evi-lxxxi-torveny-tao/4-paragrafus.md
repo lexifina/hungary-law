@@ -108,6 +108,8 @@ g) az e) pont eb) pontja alkalmazásában a működési költségek nem foglalj�
 
 h) nem minősül ellenőrzött külföldi társaságnak az a külföldi telephely, amely olyan az Európai Unió vagy az Európai Gazdasági Térség tagállamának nem minősülő államban fekszik, amellyel Magyarországnak a külföldi telephely jövedelemét a magyar társasági adózás alól mentesítő rendelkezést tartalmazó egyezménye áll fenn, és amely az említett egyezmény szerint telephelynek minősül;
 
+i) a 8. § (1) bekezdés f) pontja alkalmazásában nem mentesülhet az ellenőrzött külföldi társaság minősítés alól az e) pont szerint az a külföldi személy, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban rendelkezik illetőséggel és az a külföldi telephely, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban fekszik;
+
 11a. energiahatékonysági célokat szolgáló beruházás, felújítás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, felújítás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
 
 12. előkészítő vagy kisegítő jellegű tevékenység: kizárólag a külföldi személy részére végzett olyan tevékenység, amely nem tartozik a külföldi személy társasági szerződésben meghatározott tevékenységi körébe, de az abban meghatározott tevékenységek végzését segíti, készíti elő;
@@ -283,6 +285,10 @@ g) nem minősül telephelynek:
 5. a független képviselő (a bizományos is) útján kifejtett tevékenység, amennyiben ez a személy szokásos üzleti tevékenysége keretében jár el,
 
 h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fióktelep útján végez vállalkozási tevékenységet;
+
+i) a külföldi személynél munkavállalóként foglalkoztatott vagy ugyanezen tevékenységet más jogviszonyban ellátó természetes személyen keresztül történő szolgáltatásnyújtás, feltéve, hogy a szolgáltatás nyújtása egybefüggően vagy megszakításokkal bármely tizenkét hónapos időszakban meghaladja a 183 napot, azzal, hogy az összefüggő és a kapcsolódó szolgáltatásokat együttesen kell figyelembe venni,
+
+j) a külföldi személyt minden esetben telephellyel rendelkezőnek kell tekinteni, ha a tevékenysége megfelel az adóügyi illetősége szerinti állam és Magyarország által a jövedelem- és vagyonadók tárgyában kötött, nemzetközi szerződés telephely fogalmának;
 
 33a. termék-diverzifikációt eredményező induló beruházás: olyan induló beruházás, amely létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményezi, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
 

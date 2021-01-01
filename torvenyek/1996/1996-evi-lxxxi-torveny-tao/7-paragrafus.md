@@ -26,7 +26,7 @@ ea) az adózó (ideértve a jogelődjét is) az immateriális jószágot az ért
 
 eb) a bejelentés adóévét megelőző adóév(ek)ben az ugyanazon jogdíjra jogosító immateriális jószág értékesítéséből, kivezetéséből származó nyereségre nem alkalmazta az (1) bekezdés c) pontját, figyelemmel a (22)–(25) bekezdésben foglaltakra,
 
-f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség és legfeljebb adóévenként 10 milliárd forint (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
+f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
 
 g) az adózónál a kapott (járó) osztalék és részesedés címén
 
@@ -116,7 +116,7 @@ zs) az adóév utolsó napján kis- és középvállalkozásnak minősülő adó
 
 (3) Korábban munkanélküli személynek a foglalkoztatását megelőzően a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskereső minősül.
 
-(4) Az (1) bekezdés n) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményét a kapcsolt vállalkozással szemben fennálló követelés bekerülési értékéből behajthatatlanná vált részre tekintettel, ha társasági adóbevallásában az érintett kapcsolt vállalkozásáról, továbbá az ügyletet megalapozó, valós gazdasági okokról adatot szolgáltat.
+(4) Az (1) bekezdés n) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményét a kapcsolt vállalkozással szemben fennálló követelés bekerülési értékéből behajthatatlanná vált részre tekintettel, ha az érintett kapcsolt vállalkozásáról, továbbá az ügyletet megalapozó, valós gazdasági okokról külön nyilvántartás vezet.
 
 (5)
 

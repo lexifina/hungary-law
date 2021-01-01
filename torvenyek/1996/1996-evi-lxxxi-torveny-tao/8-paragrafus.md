@@ -36,7 +36,7 @@ j) a – pénzügyi intézmény, a befektetési vállalkozás, az alternatív be
 
 k) a termőföldből átminősített ingatlanvagyont tulajdonában tartó társaság tagjánál azon összeg kétszerese, amellyel a részesedés értékesítéséből származó árfolyamnyereség (a részesedés egyéb jogcímen történő kivezetése esetén a nyereség, árfolyamnyereség összege) meghaladja a részesedés tulajdonban tartásának időszakára kiszámított szokásos eredményt,
 
-l) a termőföldből átminősített ingatlan értékesítése, vagy más módon a könyvekből való kivezetése következtében elszámolt jövedelem (az elszámolt bevétel és a könyv szerinti érték, valamint a beruházási számlán kimutatott összeg különbözete) azon részének a kétszerese, amellyel az elszámolt jövedelem meghaladja a termőföldből átminősített ingatlan tulajdonban tartásának időszakára kiszámított szokásos eredményt,
+l) a termőföldből átminősített ingatlan értékesítéséből, vagy más módon a könyvekből való kivezetéséből származó nyereség azon részének a kétszerese, amellyel az elszámolt nyereség meghaladja a termőföldből átminősített ingatlan tulajdonban tartásának időszakára kiszámított szokásos eredményt,
 
 m) az adózónál
 
