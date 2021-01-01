@@ -34,7 +34,7 @@ b) a tanúsítvánnyal rendelkező 500 m2-nél nagyobb hasznos alapterületű k�
 
 esetében.
 
-(6) A kifüggesztett tanúsítvány mellett feltüntethető az előírt vagy ajánlott belső hőmérséklet és a tényleges belső hőmérséklet értéke, illetve további energetikai adatok, így különösen a megújuló energia felhasználása.
+(6)[^21] A kifüggesztett tanúsítvány mellett feltüntethető az előírt vagy ajánlott belső hőmérséklet és a tényleges belső hőmérséklet értéke, illetve további energetikai adatok, így különösen a megújuló energia felhasználása, valamint a Rend. szerinti összesített energetikai jellemző.
 
 [^14]: A 3. § (1) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 261/2015. (IX. 14.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^15]: A 3. § (2) bekezdése a 456/2015. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
@@ -43,3 +43,4 @@ esetében.
 [^18]: A 3. § (4) bekezdés c) pontját a 105/2012. (V. 30.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
 [^19]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^20]: A 3. § (5) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^21]: A 3. § (6) bekezdése a 715/2020. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-176-20-
 | 2019-02-12 | 2008-176-20-22.16 | 13/2019. (II. 11.) Korm. rendelet |
 | 2019-08-30 | 2008-176-20-22.17 | 49/2012. (III. 28.) Korm. rendelet |
 | 2020-08-13 | 2008-176-20-22.18 | 49/2012. (III. 28.) Korm. rendelet |
+| 2021-01-01 | 2008-176-20-22.19 | 715/2020. (XII. 30.) Korm. rendelet |
