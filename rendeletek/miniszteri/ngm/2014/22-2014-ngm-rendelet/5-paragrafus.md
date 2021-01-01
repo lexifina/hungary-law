@@ -1,3 +1,5 @@
+## „(5b) A Módr2. által megállapított 1. Melléklet B) rész 1.5. pontja nem alkalmazandó azon lovak megismételt alkalmassági vizsgálata során, melyekre a szolgáltató 2020. december 31-ig már megszerezte a 13/A. § (3) bekezdésében előírt alkalmasságot tanúsító hatósági bizonyítványt.
+
 5. § (1)[^5]
 
 (2)[^6]
