@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-88-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2013-88-00-00.17 |
 | 2020-05-01 | 2019. évi CXVI. törvény | 2013-88-00-00.18 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2013-88-00-00.19 |
+| 2021-01-01 | 2020. évi CLII. törvény | 2013-88-00-00.20 |
