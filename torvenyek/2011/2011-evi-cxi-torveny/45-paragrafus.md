@@ -18,6 +18,6 @@ b) megbízatásuk megszűnése után az alapvető jogok biztosa helyettesének e
 
 (4) A Hivatal az Országgyűlési Biztos Hivatalának jogutódja.
 
-(5) E törvény hatálybalépésétől az Országgyűlési Biztos Hivatala vezetője tisztségének elnevezése főtitkár.
+(5)
 
 (6)

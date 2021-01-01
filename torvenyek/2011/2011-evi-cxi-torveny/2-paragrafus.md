@@ -1,4 +1,4 @@
-2. § (1) Az alapvető jogok biztosa áttekinti és elemzi az alapvető jogok magyarországi helyzetét, és az alapvető jogokkal összefüggő, Magyarországon történt jogsértésekről statisztikai kimutatást készít. Az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az oktatási jogok biztosa az alapvető jogok biztosának megkeresése alapján a statisztikai kimutatáshoz személyes adatokat nem tartalmazó összesített adatokat szolgáltat.
+2. § (1) Az alapvető jogok biztosa áttekinti és elemzi az alapvető jogok magyarországi helyzetét, és az alapvető jogokkal összefüggő, Magyarországon történt jogsértésekről statisztikai kimutatást készít. A Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az oktatási jogok biztosa az alapvető jogok biztosának megkeresése alapján a statisztikai kimutatáshoz személyes adatokat nem tartalmazó összesített adatokat szolgáltat.
 
 (2) Az alapvető jogok biztosa véleményezi a feladat- és hatáskörét érintő jogszabályok tervezetét, a hosszú távú fejlesztési, területrendezési és a jövő nemzedékek életminőségét egyébként közvetlenül érintő terveket és koncepciókat, valamint javaslatot tehet az alapvető jogokat érintő jogszabályok módosítására, megalkotására, illetve nemzetközi szerződés kötelező hatályának elismerésére.
 
@@ -11,3 +11,5 @@
 (6) Az alapvető jogok biztosa ellátja a 2011. évi CXLIII. törvénnyel kihirdetett, a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyve 3. cikke szerinti nemzeti megelőző mechanizmus feladatait.
 
 (7) Az alapvető jogok biztosa az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatójának, a terrorizmust elhárító szerv főigazgatójának, illetve az idegenrendészeti szerv főigazgatójának utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
+
+(8) Az alapvető jogok biztosa ellátja az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvényben (a továbbiakban: Ebktv.) meghatározott feladatokat.
