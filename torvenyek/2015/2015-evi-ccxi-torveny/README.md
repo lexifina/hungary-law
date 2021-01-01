@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-211-00-00
 | 2019-07-24 | 2019. évi LXVI. törvény | 2015-211-00-00.8 |
 | 2019-07-27 | 2019. évi LV. törvény | 2015-211-00-00.9 |
 | 2020-08-13 | 2020. évi LXXX. törvény | 2015-211-00-00.10 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 2015-211-00-00.11 |

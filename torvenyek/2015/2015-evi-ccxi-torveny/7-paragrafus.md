@@ -48,9 +48,9 @@ ab) a kéményseprő-ipari szolgáltató tevékenységét,
 
 b) eljár a kéményseprő-ipari tevékenységre vonatkozó szabályokat megszegő kéményseprő-ipari szolgáltatóval szemben, amely során
 
-ba) a szabálytalanság első alkalommal történő elkövetése esetén figyelmeztetésben részesíti,
+ba)
 
-bb) ugyanazon szabálytalanság ismételt elkövetése esetén legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
+bb) legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
 
 bc) a tevékenység végzésétől jogszabályban meghatározott esetekben és időtartamban eltiltja.
 
