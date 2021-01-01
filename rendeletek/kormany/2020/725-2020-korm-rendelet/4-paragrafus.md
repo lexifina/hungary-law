@@ -1,0 +1,3 @@
+## 3. § Az R. a következő 49. §-sal egészül ki:
+
+## „49. § E rendeletnek az Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításárólszóló 725/2020. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr41.) megállapított 3. § (4) bekezdését, 4. § (1) és (2) bekezdését, 6/L. §-át, 1. melléklet 2. sorát és 2. mellékletében foglalt táblázat 58. sorát a Módr41. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
