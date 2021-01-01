@@ -8,7 +8,7 @@ b)[^116] elhelyezte, és számára gyermekvédelmi gyámot és helyettes gyermek
 
 (3)[^117] Ha a gyermeket nevelésbe vették, a gyámhivatal illetékessége mindaddig fennáll, ameddig a gyermek lakóhelye nem változik meg. Ha a gyermek lakóhelye megváltozik, a gyámhivatal illetékességét – a (4) bekezdésben foglalt kivétellel – a gyermek lakóhelye határozza meg. Az illetékességváltozás a gyermek valamennyi, a gyámhivatal hatáskörébe tartozó ügyére kiterjed.
 
-(3a)[^118] A nevelésbe vett kiskorú szülő gyermekének ügyében az a gyámhivatal illetékes eljárni, amelyik a kiskorú szülő nevelésbe vétele iránt eljárt.
+(3a)[^118] A nevelésbe vett kiskorú szülő gyermekének ügyében az a gyámhivatal illetékes eljárni, amelyik a kiskorú szülő nevelésbe vétele ügyében illetékességgel rendelkezik.
 
 (4)[^119] Ha megállapították a gyermek örökbefogadhatóságának tényét, a gyámhivatal illetékessége a nevelésbe vétel fennállása alatt nem változik. A nevelésbe vételt elrendelő gyámhivatal – a 7. § (2) bekezdése szerinti ügyek kivételével – a gyermek valamennyi, a gyámhivatal feladat- és hatáskörébe tartozó gyermekvédelmi és gyámügyi ügyében illetékes eljárni.
 
@@ -36,7 +36,7 @@ b)[^116] elhelyezte, és számára gyermekvédelmi gyámot és helyettes gyermek
 
 (14)[^130] A hátrányos, halmozottan hátrányos helyzet fennállásának megállapítására irányuló eljárásra a gyermek (nagykorúvá vált gyermek) rendszeres gyermekvédelmi kedvezményre való jogosultsága tekintetében illetékességgel rendelkező települési önkormányzat jegyzője illetékes.
 
-(15)[^131] A megelőlegezett gyermektartásdíj kötelezett által meg nem térített összegének elengedésére, csökkentésére vagy részletfizetés engedélyezésére irányuló kérelem ügyében a Magyar Államkincstár központi szerve jár el.
+(15)[^131]
 
 (16)[^132] Az otthonteremtési támogatáshoz kapcsolódó utógondozás elrendelése, illetve meghosszabbítása tárgyában az otthonteremtési támogatás ügyében illetékes gyámhivatal intézkedik.
 
@@ -45,7 +45,7 @@ b)[^116] elhelyezte, és számára gyermekvédelmi gyámot és helyettes gyermek
 [^115]: A 23. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 44. § (11) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^116]: A 23. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés b) pontja, a 448/2016. (XII. 19.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^117]: A 23. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 100. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^118]: A 23. § (3a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 100. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 53. § k) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^118]: A 23. § (3a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 100. § (2) bekezdése iktatta be, szövege a 668/2020. (XII. 28.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^119]: A 23. § (4) bekezdése a 97/2013. (III. 29.) Korm. rendelet 74. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^120]: A 23. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^121]: A 23. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
@@ -58,5 +58,5 @@ b)[^116] elhelyezte, és számára gyermekvédelmi gyámot és helyettes gyermek
 [^128]: A 23. § (12) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, hatályon kívül helyezte a 136/2016. (VI. 13.) Korm. rendelet 3. §-a.
 [^129]: A 23. § (13) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 42. § (12) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
 [^130]: A 23. § (14) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 23. § (2) bekezdése iktatta be.
-[^131]: A 23. § (15) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 44. § (9) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^131]: A 23. § (15) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 668/2020. (XII. 28.) Korm. rendelet 16. § (3) bekezdése.
 [^132]: A 23. § (16) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 25. §-a iktatta be.

@@ -36,7 +36,7 @@ c)[^98] a terhességét eltitkoló válsághelyzetben lévő várandós anya ké
 
 (13a)[^110] Az ismeretlen szülőktől származó gyermek törvényes képviseletével kapcsolatos gyámhatósági eljárás lefolytatására a gyermek megtalálásának helye szerinti gyámhivatal köteles.
 
-(14)[^111] Ha a tartós bentlakásos intézményben elhelyezett, cselekvőképességet érintő gondnokság alatt álló személy számára hivatásos gondnokot kell kirendelni, a gyámhivatal illetékességét a gondnokság alatt álló személy tényleges tartózkodási helye alapozza meg.
+(14)[^111] Ha a személyes gondoskodás keretébe tartozó szakosított szociális ellátást igénybe vevő, cselekvőképességet érintő gondnokság alatt álló személy számára hivatásos gondnokot kell kirendelni, a gyámhivatal illetékességét a gondnokság alatt álló személy tényleges tartózkodási helye alapozza meg.
 
 (15)[^112] Az örökbefogadott származásával kapcsolatos tényekről, adatokról történő tájékoztatás megadására az örökbefogadott lakóhelye szerinti örökbefogadási ügyben kijelölt gyámhivatal illetékes.
 
@@ -56,5 +56,5 @@ c)[^98] a terhességét eltitkoló válsághelyzetben lévő várandós anya ké
 [^108]: A 22. § (12) bekezdése a 97/2013. (III. 29.) Korm. rendelet 73. § (2) bekezdésével megállapított, a 353/2014. (XII. 29.) Korm. rendelet 53. § h) pontja szerint módosított szöveg.
 [^109]: A 22. § (13) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^110]: A 22. § (13a) bekezdését a 31/2020. (II. 29.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^111]: A 22. § (14) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 101. § f) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^111]: A 22. § (14) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 668/2020. (XII. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^112]: A 22. § (15) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 46. §-a iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 53. § i) pontja szerint módosított szöveg.
