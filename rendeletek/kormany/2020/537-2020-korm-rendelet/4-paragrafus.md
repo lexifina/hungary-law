@@ -1,3 +1,3 @@
-## 3. §[^2]
+4. § (1) Az Egyezmény II. melléklete módosításának hivatalos magyar nyelvű fordítását a 3. melléklet tartalmazza.
 
-[^2]: A 3. § az 5. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) Az Egyezmény II. melléklete módosításának hiteles angol nyelvű szövegét a 4. melléklet tartalmazza.
