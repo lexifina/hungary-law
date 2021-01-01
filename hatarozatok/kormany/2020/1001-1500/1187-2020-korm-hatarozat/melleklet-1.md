@@ -774,9 +774,9 @@ Határidő: 2022. január 1.
 
 Forrás: európai uniós forrásbevonással
 
-11.5. A súlyosan, halmozottan fogyatékos, tartósan súlyos beteg gyermekek nevelőszülői elhelyezése érdekében célirányos, különböző tevékenység elemekből álló toborzási módszertant kell kidolgozni és megvalósítani.
+11.5.[^1] A súlyosan, halmozottan fogyatékos, tartósan súlyos beteg gyermekek nevelőszülői elhelyezése érdekében célirányos, különböző tevékenység elemekből álló toborzási módszertant kell kidolgozni és megvalósítani.
 
-Felelős: emberi erőforrások minisztere a Szociális és Gyermekvédelmi Főigazgatóság bevonásával
+Felelős: emberi erőforrások minisztere a Nemzeti Szociálpolitikai Intézet bevonásával
 
 pénzügyminiszter
 
@@ -881,3 +881,5 @@ Felelős: emberi erőforrások minisztere
 Határidő: 2022. december 31.
 
 Forrás: forrást nem igényel
+
+[^1]: Az 1. melléklet 11. alcím 11.5. pontja az 1948/2020. (XII. 18.) Korm. határozat 9. pontja szerint módosított szöveg.
