@@ -1,4 +1,4 @@
-## 11. §[^17]
+## 11. §[^17] A Kormány a vezető engedély megszerzéséhez előírt elsősegély vizsga eredmények elektronikus nyilvántartása tekintetében az alkalmazásüzemeltetési, alkalmazásüzemeltetés-támogatási és alkalmazásfejlesztési feladatokra az 1. § szerinti központi szolgáltatóként a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t jelöli ki.
 
 ## 12. §[^18] A miniszter egyedi kérelemre felmentést ad a központi szolgáltató kötelező igénybe vétele alól, ha:
 
@@ -10,5 +10,5 @@ c) a központi szolgáltató igénybevétele a rendelkezésre álló erőforrás
 
 d) a kötelezett szerv jogszabályban meghatározott közfeladatának ellátásához szükséges speciális szolgáltatási szintek biztosítása az egyedi esetben más szolgáltató által hatékonyabban megvalósítható.
 
-[^17]: A 11. §-t a 375/2020. (VII. 30.) Korm. rendelet 36. §-a hatályon kívül helyezte.
+[^17]: A 11. §-t a 375/2020. (VII. 30.) Korm. rendelet 36. §-a hatályon kívül helyezte, újonnana 680/2020. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^18]: A 12. § a 300/2012. (X. 26.) Korm. rendelet 13. §-ával megállapított szöveg.
