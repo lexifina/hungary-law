@@ -6,6 +6,6 @@ b)
 
 c)
 
-d)
+d) 228. § (6) bekezdésében az „– a 2. melléklet szerinti –” szövegrész,
 
 e)
