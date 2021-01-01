@@ -6,6 +6,6 @@
 
 (4) Nem kell bejelenteni a tartózkodási helyét annak a polgárnak, aki
 
-a) sorkatonai vagy tartalékos katonai szolgálat teljesítése, illetve gyógyintézeti kezelés miatt nem tartózkodik lakóhelyén;
+a) gyógyintézeti kezelés miatt nem tartózkodik lakóhelyén;
 
 b) letartóztatásban van, vagy szabadságvesztés büntetését tölti.

@@ -1,0 +1,1 @@
+49/A. § Az egyesült királysági állampolgár, valamint egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja szabad mozgás és tartózkodás joga a nyilvántartásban 2021. december 31. napjával megszüntetésre kerül.

@@ -21,3 +21,5 @@ i) közokiratot ad ki a nyilvántartott adatokról;
 j) törvény hatálya alá tartozó tevékenységével összefüggésben gondoskodik a személyes adatok védelméről;
 
 k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
+
+l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat.
