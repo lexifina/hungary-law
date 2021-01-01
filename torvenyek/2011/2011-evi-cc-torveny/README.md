@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-200-00-00
 | 2013-04-01 | 2013. évi XXI. törvény | 2011-200-00-00.4 |
 | 2013-04-02 | 2010. évi CXXX. törvény | 2011-200-00-00.5 |
 | 2013-09-29 | 2013. évi CXLI. törvény | 2011-200-00-00.6 |
+| 2021-01-01 | 2020. évi CXLV. törvény | 2011-200-00-00.7 |
