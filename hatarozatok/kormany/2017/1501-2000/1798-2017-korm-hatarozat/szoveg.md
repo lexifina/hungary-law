@@ -6,21 +6,9 @@ A Kormány
 
 3. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-4. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet címrendjének a 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 6. A TIT Budapesti Planetárium épületének felújítása jogcímcsoporttal történő kiegészítéséről;
+4.[^2]
 
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
-
-5. felhívja a nemzeti fejlesztési minisztert, hogy a Kvtv. 20. § (5) bekezdése szerinti jogkörében eljárva – a 2. pontban foglaltak megvalósítása érdekében – gondoskodjon 50 000 000 forint egyszeri átcsoportosításáról a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 6. A TIT Budapesti Planetárium épületének felújítása jogcímcsoport javára, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: az átcsoportosítás tekintetében azonnal
-
-a fel nem használt rész visszafizetése tekintetében a 7. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül
+5.[^3]
 
 6. egyetért azzal, hogy a 2. pont szerinti előkészítési fázisokat a Tudományos Ismeretterjesztő Társulat (szervezet nyilvántartási száma: 01-02-0001079, címe: 1088 Budapest, Bródy Sándor u. 16.) valósítsa meg;
 
@@ -36,7 +24,9 @@ b) az előkészítési fázisok eredménye alapján készítsen előterjesztést
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2018. október 31.[^2]
+Határidő: 2018. október 31.[^4]
 
 [^1]: Az 1631/2018. (XI. 29.) Korm. határozat 2. pont a) alpontja alapján az előkészítési fázisokat legkésőbb 2019. május 31-ig kell megvalósítani.
-[^2]: Az 1631/2018. (XI. 29.) Korm. határozat 2. pont b) alpontja alapján az emberi erőforrások minisztere 2019. július 31-ig készít előterjesztést a Kormány részére az előkészítési fázisok eredménye alapján a beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
+[^2]: A 4. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 5. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1631/2018. (XI. 29.) Korm. határozat 2. pont b) alpontja alapján az emberi erőforrások minisztere 2019. július 31-ig készít előterjesztést a Kormány részére az előkészítési fázisok eredménye alapján a beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
