@@ -1,20 +1,20 @@
-## 81. §[^139]
+## 81. §[^137]
 
 ## 82. § A SzigR.
 
-a)[^140]
+a)[^138]
 
-b)[^141]
+b)[^139]
 
-c)[^142]
+c)[^140]
 
-d)[^143]
+d)[^141]
 
-e)[^144]
+e)[^142]
 
-[^139]: A 81. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^140]: A 82. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^141]: A 82. § b) pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^142]: A 82. § c) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^143]: A 82. § d) pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^144]: A 82. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: A 81. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^138]: A 82. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^139]: A 82. § b) pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^140]: A 82. § c) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^141]: A 82. § d) pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^142]: A 82. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

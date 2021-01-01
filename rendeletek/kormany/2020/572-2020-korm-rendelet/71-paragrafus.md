@@ -1,3 +1,3 @@
-## 70. §[^128]
+## 70. §[^126]
 
-[^128]: A 70. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^126]: A 70. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.

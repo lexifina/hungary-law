@@ -1,3 +1,3 @@
-## 77. §[^135]
+## 77. §[^133]
 
-[^135]: A 77. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^133]: A 77. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

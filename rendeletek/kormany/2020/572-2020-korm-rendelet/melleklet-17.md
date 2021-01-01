@@ -1,3 +1,3 @@
-17. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^214]
+17. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^208]
 
-[^214]: A 17. melléklet a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^208]: A 17. melléklet a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

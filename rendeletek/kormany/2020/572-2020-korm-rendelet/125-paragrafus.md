@@ -1,5 +1,3 @@
 ## 124. §
 
-## 31.[^197]
-
-[^197]: A 31. alcím (125. §) a 127. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 31. A fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet módosítása

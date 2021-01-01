@@ -1,3 +1,3 @@
-## 106. §[^181]
+## 106. §[^178]
 
-[^181]: A 106. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^178]: A 106. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

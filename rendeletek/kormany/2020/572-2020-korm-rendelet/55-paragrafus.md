@@ -2,16 +2,14 @@
 
 ## 55. § Hatályát veszti a 84/2012. Korm. rendelet
 
-a)[^107]
+a) 3. § (2) bekezdés e) pontja,
 
-b)[^108]
+b) 7. § (1) bekezdésében az „a Postai Agora Szolgáltatások keretében a Magyar Posta Zrt.-nek a Postai Agora Szolgáltatások Általános Szerződési Feltételeiben meghatározott állandó postai szolgáltatóhelyeit,” szövegrész,
 
-c)[^109]
+c)[^107]
 
-d)[^110]
+d)[^108]
 
 [^106]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^107]: Az 55. § a) pontja a 127. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^108]: Az 55. § b) pontja a 127. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^109]: Az 55. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^110]: Az 55. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: Az 55. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: Az 55. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

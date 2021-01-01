@@ -1,3 +1,1 @@
-## 17.[^154]
-
-[^154]: A 17. alcím (84. §) a 127. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 17. Az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet módosítása

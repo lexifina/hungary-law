@@ -1,3 +1,3 @@
-16. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^213]
+16. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^207]
 
-[^213]: A 16. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^207]: A 16. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
