@@ -2,15 +2,7 @@ A Kormány a szigetközi környezeti/ökológiai monitoring újraindítása és 
 
 1. egyetért azzal, hogy a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Dunában és a Mosoni-Dunában egyes ideiglenes műszaki intézkedésekről és vízhozamokról Budapesten, 1995. április 19-én aláírt megállapodás szerinti környezeti monitoring folytatása szükséges a bős–nagymarosi vízlépcső ügyében a hágai Nemzetközi Bíróság által hozott ítélet végrehajtásának módozatairól szóló kétoldalú megállapodás megkötéséig;
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet
-
-a) XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 2. Környezetvédelmi célelőirányzatok alcímének az 1. Szigetközi ökológiai monitoring feladatok támogatása jogcímcsoporttal történő kiegészítését,
-
-b) XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Ágazati célelőirányzatok alcímének, 1. Szigetközi vízpótló rendszer üzemeltetése jogcímcsoporttal történő kiegészítését;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+2.[^1]
 
 3. felhívja a nemzetgazdasági minisztert, hogy a szigetközi monitoring hiányzó elemeinek újraindításához, működésének biztosításához, az eddigi eredmények átfogó értékeléséhez, a jelenlegi monitoring racionalizálásához, valamint az eddigi dokumentumok és adatbázisok végleges elhelyezéséhez, 2017. évi kezdéssel és 2018. januári átcsoportosítással biztosítson
 
@@ -33,3 +25,5 @@ Határidő: 2018. évben a felmerülés ütemében, 2019. évtől a költségvet
 Felelős: földművelésügyi miniszter
 
 Határidő: a szükséges forrás rendelkezésre állása után azonnal
+
+[^1]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
