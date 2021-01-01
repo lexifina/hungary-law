@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-2-20-6F
 | 2019-05-28 | 2019-2-20-6F.3 | 3/2019. (V. 27.) TNM rendelet |
 | 2020-02-22 | 2019-2-20-6F.4 | 3/2019. (V. 27.) TNM rendelet |
 | 2020-07-09 | 2019-2-20-6F.5 | 1/2020. (II. 21.) TNM rendelet |
+| 2021-01-01 | 2019-2-20-6F.6 | 5/2020. (XII. 30.) TNM rendelet |

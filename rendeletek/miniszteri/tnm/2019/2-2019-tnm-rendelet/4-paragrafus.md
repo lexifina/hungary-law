@@ -1,9 +1,11 @@
 ## 3. Az egyes támogatási kategóriákra vonatkozó közös szabályok
 
-## 4. § Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében
+## 4. §[^3] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében
 
-a) az 1. mellékletben foglalt táblázat 13. és 28. sora alapján csekély összegű támogatás,
+a) az 1. mellékletben foglalt táblázat 15. sora és a 2. mellékletben foglalt táblázat 4. sora alapján csekély összegű támogatás,
 
-b) az 1. mellékletben foglalt táblázat 6., 12., 13., 15., 28., 32., 34. és 37. sora alapján a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
+b) az 1. mellékletben foglalt táblázat 5., 15., 19., 21. és 22. sora és a 2. mellékletben foglalt táblázat 4. sora alapján a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
-c) az 1. mellékletben foglalt táblázat 13., 15. és 37. sora alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
+c) az 1. mellékletben foglalt táblázat 21. sora és a 2. mellékletben foglalt táblázat 4. és 5. sora alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
+
+[^3]: A 4. § az 5/2020. (XII. 30.) TNM rendelet 3. §-ával megállapított szöveg.
