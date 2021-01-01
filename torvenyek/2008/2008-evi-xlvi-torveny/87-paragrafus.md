@@ -172,7 +172,7 @@ hoznak;
 
 52. nyomon követhetőség: a 178/2002/EK rendelet 3. cikkének 15. pontja szerinti fogalom;
 
-53. ökológiai termelés: az Öko EK rendelet 2. cikkének a) pontjában meghatározott fogalom szerinti tevékenység;
+53. ökológiai termelés: az Öko EK rendelet 3. cikkének a) 1. pontjában meghatározott fogalom szerinti tevékenység;
 
 54. rendkívüli élelmiszerlánc-esemény: a lakosság széles körét érintő, az emberek életét, egészségét veszélyeztető élelmiszer-biztonsági jogsértés megállapítása vagy gyanúja annak kizárásáig, továbbá a nagy nemzetgazdasági kárral fenyegető vagy közegészségügyileg veszélyes állatbetegségek megállapítása vagy gyanúja annak kizárásáig, növényi károsítók okozta járvány, valamint a gazdasági haszonállat-állomány széles körét érintő, az állatok egészségét veszélyeztető takarmánybiztonsági jogsértés megállapítása vagy gyanúja annak kizárásáig;
 

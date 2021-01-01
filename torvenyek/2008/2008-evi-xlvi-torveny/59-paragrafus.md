@@ -14,21 +14,23 @@ terjedhet.
 
 (4) Az (1) bekezdés szerinti nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
-(5) A bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre, a 60. § (1) bekezdésének a)–c), g), i)–l), n)–p), q) pontjában, valamint a 63. § (1) bekezdésének b) és d) pontjában foglalt tényállások kivételével az eljárás alá vont személy gazdasági súlyára – tekintettel kell meghatározni.
+(5) A bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára – tekintettel kell meghatározni.
 
-(6) Amennyiben a jogsértő állapot megszüntetése érdekében a törvény szerint alkalmazható legalacsonyabb összegű bírság kiszabása is szükségtelen, bírságolás helyett az élelmiszerlánc-felügyeleti szerv figyelmeztetésben részesítheti az eljárás alá vont személyt.
+(6)
 
-(7) A (6) bekezdés nem alkalmazható
+(7) Figyelmeztetés nem alkalmazható:
 
-a) a 60. § (1) bekezdésének a)–i) pontjában meghatározott tényállások,
+a) a 60. § (1) bekezdés a)–i) pontjában meghatározott tényállások,
 
-b) a 61. § (1) bekezdésének a)–c) pontjában meghatározott tényállások,
+b) a 61. § (1) bekezdés a)–c) pontjában meghatározott tényállások,
 
-c) a 62. § (1) bekezdésének a)–d) pontjában meghatározott tényállások,
+c) a 62. § (1) bekezdés a)–e) pontjában meghatározott tényállások,
 
 d) a 63. § (1) bekezdés a) pont aa)–al) alpontjában meghatározott tényállások,
 
-e) három éven belül ismételten megállapított azonos jogsértés
+e) három éven belül ismételten megállapított azonos jogsértés,
+
+f) a 14/A. § (1) és (4) bekezdésének megsértése
 
 esetén.
 

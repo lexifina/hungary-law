@@ -1,0 +1,1 @@
+57/B. § Ha a mezőgazdasági igazgatási szerv a kábítószer előállítására alkalmas növényekkel kapcsolatos előírások megszegése miatt megállapítja a jogsértés elkövetését, közigazgatási szankcióként elrendeli a növényállománynak, illetve a termésnek a termesztő költségén történő megsemmisítését.

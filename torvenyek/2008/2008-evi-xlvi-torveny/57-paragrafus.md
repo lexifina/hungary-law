@@ -1,6 +1,6 @@
-## Intézkedések
+## Intézkedések, szankciók
 
-57. § Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő intézkedéseket hozhatja:
+57. § Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő jogkövetkezményeket alkalmazhatja:
 
 a) tevékenység végzését legfeljebb egy évre, teljesen vagy részlegesen felfüggesztheti, korlátozhatja, a működést legfeljebb három évre megtilthatja, az újbóli működést feltételhez kötheti;
 
@@ -18,7 +18,7 @@ g) elrendelheti termék, eszköz, anyag vagy más tárgy zár alá vételét, le
 
 h) állat vizsgálatát, forgalmi korlátozását, elkülönítését, kötelező gyógykezelését, védőoltását vagy leölését elrendelheti;
 
-i) elismert hagyományos különleges termék előállítását, forgalomba hozatalát megtilthatja vagy feltételhez kötheti;
+i) elismert hagyományos különleges termék előállítását, forgalomba hozatalát megtilthatja vagy feltételhez kötheti, a megjelölés, elnevezés használatát megtilthatja;
 
 j) élelmiszerrel, illetve takarmánnyal érintkezésbe kerülő anyagok, gépek, eszközök, az élelmiszerláncban felhasznált fertőtlenítőszerek használatát megtilthatja, az engedélyező hatóság egyidejű értesítése mellett ingatlant adott állapotában élelmiszer-, takarmányvállalkozási tevékenység végzésére alkalmatlannak nyilváníthat, ingatlan élelmiszer-, takarmányvállalkozási tevékenység végzésére történő használatát az ingatlan adott állapotában legfeljebb egy évre vagy véglegesen megtilthatja;
 

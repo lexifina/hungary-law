@@ -54,7 +54,7 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 
 i) az Élelmiszerlánc Adatközpontot, beleértve a lakosság hiteles tájékoztatását támogató tartalomszolgáltató rendszer adatait, valamint az élelmiszerlánc-felügyelet alá tartozó termékekre, szolgáltatásokra és tevékenységekre vonatkozó követelmények és védjegyek tudástárát;
 
-j) a családi gazdaságokra, valamint a mezőgazdasági őstermelőkre vonatkozó nyilvántartásban szereplő adatokat;
+j) a őstermelők családi gazdaságaira, valamint a mezőgazdasági őstermelőkre vonatkozó nyilvántartásban szereplő adatokat;
 
 k)
 
