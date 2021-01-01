@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-222-00-00
 | 2020-02-01 | 2019. évi CXVI. törvény | 2015-222-00-00.23 |
 | 2020-10-01 | 2019. évi LXVI. törvény | 2015-222-00-00.24 |
 | 2020-12-04 | 2020. évi CXXI. törvény | 2015-222-00-00.25 |
+| 2021-01-01 | 2020. évi CLXV. törvény | 2015-222-00-00.26 |

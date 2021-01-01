@@ -94,7 +94,11 @@ l) a meghatározott ügyek e törvény szerinti elektronikus intézését önké
 
 22. fokozott biztonságú elektronikus aláírás: az eIDAS Rendelet 3. cikkének 11. pontja szerinti aláírás;
 
-23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában nem minősül gazdálkodó szervezetnek az adószámmal nem rendelkező egyesület, alapítvány.
+23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában
+
+a) nem minősül gazdálkodó szervezetnek az adószámmal nem rendelkező egyesület, alapítvány,
+
+b) valamennyi ügy tekintetében gazdálkodó szervezetnek minősül az adószámmal rendelkező alapítvány, egyesület;
 
 24. hitelesítési rend: olyan bizalmi szolgáltatási rend, amely bizalmi szolgáltatás keretében kibocsátott tanúsítványra vonatkozik;
 
