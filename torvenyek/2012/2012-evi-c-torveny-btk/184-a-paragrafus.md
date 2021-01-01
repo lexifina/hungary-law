@@ -16,7 +16,9 @@ bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel bünteten
 
 a) bűnszövetségben,
 
-b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva
+b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva,
+
+c) jelentős mennyiségű új pszichoaktív anyagra
 
 követik el.
 

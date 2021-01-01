@@ -24,9 +24,13 @@ c) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhaszná
 
 követik el.
 
-(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+(2a) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
 
-(4) Aki az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(2b) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a bűncselekményt különösen jelentős mennyiségű új pszichoaktív anyagra követik el.
+
+(3) Az (1)–(2b) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+
+(4) Aki az (1)–(2b) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (5) Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés
 

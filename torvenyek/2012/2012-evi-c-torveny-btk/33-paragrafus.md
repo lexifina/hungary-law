@@ -26,7 +26,7 @@ i) a kiutasítás.
 
 (3) A büntetések – az (5) és (6) bekezdésben foglalt kivételekkel – egymás mellett is kiszabhatóak.
 
-(4) Ha a bűncselekmény büntetési tételének felső határa háromévi szabadságvesztésnél nem súlyosabb, szabadságvesztés helyett elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás, illetve e büntetések közül több is kiszabható.
+(4) Ha a bűncselekmény büntetési tételének alsó határa nem éri el az egy év szabadságvesztést, szabadságvesztés helyett elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás, illetve e büntetések közül több is kiszabható.
 
 (5) Ha a bűncselekményt e törvény elzárással rendeli büntetni, e büntetés helyett vagy mellett közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás, illetve e büntetések közül több is kiszabható.
 

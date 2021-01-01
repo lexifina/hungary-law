@@ -2,7 +2,7 @@
 
 59. § (1) Azt a nem magyar állampolgár elkövetőt, akinek az országban tartózkodása nem kívánatos, Magyarország területéről ki kell utasítani. A kiutasított köteles az ország területét elhagyni, és a kiutasítás tartama alatt nem térhet vissza.
 
-(2) Nem utasítható ki az, aki menedékjogot élvez.
+(2) Nem utasítható ki az, aki számára Magyarország menedékjogot biztosít.
 
 (3) A szabad mozgás és tartózkodás jogával, valamint Magyarország területén letelepedettként vagy bevándoroltként tartózkodási joggal rendelkező személlyel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő.
 

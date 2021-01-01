@@ -12,7 +12,9 @@ c) a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhiv
 
 követik el.
 
-(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+(2a) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
+
+(3) Az (1)–(2a) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
 
 (4) Aki csekély mennyiségű új pszichoaktív anyagot kínál vagy átad,
 
@@ -22,4 +24,4 @@ b) a (2) bekezdés b)–c) pontjában meghatározott esetben bűntett miatt hár
 
 terjedő szabadságvesztéssel büntetendő.
 
-(5) Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(5) Aki az (1)–(2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.

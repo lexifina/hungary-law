@@ -1,19 +1,13 @@
-400. § (1) Aki a más által elkövetett büntetendő cselekményből származó
+400. § (1) Aki a más által elkövetett büntetendő cselekményből származó vagyont elrejti, átalakítja, átruházza, elidegenítésében közreműködik, felhasználja, azzal összefüggésben pénzügyi tevékenységet végez, pénzügyi szolgáltatást vesz igénybe vagy arról rendelkezik, és gondatlanságból nem tud a vagyon eredetéről, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-a) dolgot gazdasági tevékenység gyakorlása során felhasználja,
-
-b) dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy pénzügyi szolgáltatást vesz igénybe,
-
-és gondatlanságból nem tud a dolog ezen eredetéről, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
+(2) A büntetés vétség miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
 
 a) különösen nagy vagy azt meghaladó értékre,
 
-b) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve
+b) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott szolgáltatóként, annak tisztségviselőjeként vagy alkalmazottjaként a szolgáltató tevékenységével összefüggésben, vagy
 
 c) hivatalos személyként
 
 követik el.
 
-(3) Nem büntethető az (1)–(2) bekezdésben meghatározott pénzmosás miatt, aki a hatóságnál önként feljelentést tesz, és az elkövetés körülményeit feltárja, feltéve, hogy a bűncselekményt még nem vagy csak részben fedezték fel.
+(3) Nem büntethető az (1) és (2) bekezdésben meghatározott pénzmosás miatt, aki a hatóságnál önként feljelentést tesz, és az elkövetés körülményeit feltárja, feltéve, hogy a bűncselekményt még nem vagy csak részben fedezték fel.

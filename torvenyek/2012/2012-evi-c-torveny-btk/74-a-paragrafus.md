@@ -28,7 +28,7 @@ h) a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés, 316. § és 316/A.
 
 i) a bűnszervezetben részvétel [321. § (1) bekezdés],
 
-j) az embercsempészés (353. §)
+j) az embercsempészés (353. §), a jogellenes tartózkodás elősegítése (354. §),
 
 k) a zsarolás (367. §),
 

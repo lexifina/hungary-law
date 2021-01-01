@@ -1,6 +1,6 @@
 ## A már végrehajtott büntetés vagy intézkedés beszámítására vonatkozó szabályok
 
-92/B. § (1) Ha a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett jogorvoslat, vagy a megismételt eljárás eredményeként hozott ítélet az alapügyben hozott határozatot megváltoztatatja, az alapügyben kiszabott és végrehajtott büntetést vagy intézkedést be kell számítani. Ha a büntetés vagy az intézkedés neme eltér, a beszámításra a (2) bekezdésben foglaltak az irányadók.
+92/B. § (1) Ha a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett jogorvoslat, vagy a megismételt eljárás eredményeként hozott ítélet az alapügyben hozott határozatot megváltoztatja, az alapügyben kiszabott és végrehajtott büntetést vagy intézkedést be kell számítani. Ha a büntetés vagy az intézkedés neme eltér, a beszámításra a (2) bekezdésben foglaltak az irányadók.
 
 (2) A beszámításnál
 

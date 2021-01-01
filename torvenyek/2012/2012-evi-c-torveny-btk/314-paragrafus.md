@@ -18,7 +18,7 @@ a (4) bekezdésben meghatározott személy elleni erőszakos, közveszélyt okoz
 
 a) az (1) bekezdés a) pontjában meghatározott célból jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé, vagy
 
-b) terrorista csoportot szervez.
+b) terrorista csoportot szervez vagy irányít.
 
 (3) Korlátlanul enyhíthető annak a büntetése, aki
 
@@ -46,4 +46,4 @@ g) a nemzetközi szerződés által tiltott fegyverrel visszaélés [326. § (1)
 
 h) a rablás [365. § (1)–(4) bekezdés] és a rongálás [371. § (1)–(6) bekezdés],
 
-i) az információs rendszer vagy adat megsértése [423. § (1)–(4) bekezdés].
+i) az információs rendszer felhasználásával elkövetett csalás [375. § (2)–(4) bekezdés], az információs rendszer vagy adat megsértése [423. § (1)–(4) bekezdés].

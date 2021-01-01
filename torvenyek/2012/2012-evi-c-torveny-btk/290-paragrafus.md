@@ -19,3 +19,5 @@ terjedő szabadságvesztés, ha a vesztegetést bűnszövetségben vagy üzletsz
 (4) Az (1)–(3) bekezdés szerint büntetendő, aki a vesztegetést külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el.
 
 (5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
+
+(6) Aki egészségügyi szolgáltatás nyújtásával összefüggésben egészségügyi dolgozónak, egészségügyben dolgozónak vagy ezekre tekintettel másnak az egészségügyről szóló törvényben meghatározottak szerint jogtalan előnyt ad vagy ígér, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.

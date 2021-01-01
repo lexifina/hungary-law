@@ -10,4 +10,6 @@
 
 (3a) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a reintegrációs őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet vagy a számára meghatározott napirend szerinti tartózkodási helyet a reintegrációs őrizet szabályainak megszegésével abból a célból hagyja el, hogy a szabadságvesztés végrehajtása alól kivonja magát.
 
+(3b) Ha az eljárás alá vont személy a szabálysértési őrizet vagy a szabálysértési elzárás végrehajtása során a hatóság őrizetéből megszökik, vétség miatt elzárással büntetendő.
+
 (4) Korlátlanul enyhíthető a fogolyszökés elkövetőjének büntetése, ha – mielőtt tartózkodási helye a hatóság tudomására jutna – önként feladja magát.

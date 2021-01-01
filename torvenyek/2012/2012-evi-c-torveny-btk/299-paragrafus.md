@@ -1,6 +1,6 @@
 ## Befolyással üzérkedés
 
-299. § (1) Aki arra hivatkozással, hogy hivatalos személyt befolyásol, a maga vagy más számára jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+299. § (1) Aki arra hivatkozással, hogy hivatalos személyt befolyásol, a maga vagy más számára jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személy által kért vagy harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az elkövető
 
@@ -9,6 +9,8 @@ a) azt állítja vagy azt a látszatot kelti, hogy hivatalos személyt veszteget
 b) hivatalos személynek adja ki magát, vagy
 
 c) a bűncselekményt üzletszerűen követi el.
+
+(2a) A (2) bekezdés szerint büntetendő, aki magát hivatalos személynek kiadva e színlelt működésével kapcsolatban jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja.
 
 (3) Aki az (1) bekezdésében meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 

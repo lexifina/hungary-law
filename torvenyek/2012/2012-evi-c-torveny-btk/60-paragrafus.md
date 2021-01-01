@@ -2,7 +2,7 @@
 
 (2) A határozott ideig tartó kiutasítás legrövidebb tartama egy év, leghosszabb tartama tíz év.
 
-(2a) A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén kiszabott végrehajtandó szabadságvesztés mellett, valamint a 85. § (1a) bekezdésben meghatározott esetben a kiutasítás nem mellőzhető. Amennyiben a kiutasítás határozott ideig tart, annak tartama a kiszabott szabadságvesztés tartamának kétszerese, de legalább két év. A kiutasítás tartamát években, hónapokban és napokban is meg lehet állapítani.
+(2a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén kiszabott szabadságvesztés mellett a kiutasítás – az 59. § (2) és (4) bekezdése szerinti esetek kivételével – nem mellőzhető. Határozott tartamú kiutasítás esetén annak tartama a kiszabott szabadságvesztés tartamának kétszerese, de legalább két év. A kiutasítás tartamát években, hónapokban és napokban is meg lehet állapítani. E bekezdés alkalmazása esetén az 50. § (2) bekezdése alkalmazásának nincs helye.
 
 (3) Végleges hatállyal az utasítható ki, akit tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélnek, és – figyelemmel a bűncselekmény kiemelkedő súlyára, az elkövetés jellegére, és az elkövető kapcsolataira – az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné. A szabad mozgás és tartózkodás jogával rendelkező személy végleges hatállyal nem utasítható ki.
 

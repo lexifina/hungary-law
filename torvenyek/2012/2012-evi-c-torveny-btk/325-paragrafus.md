@@ -2,13 +2,13 @@
 
 325. § (1) Aki
 
-a) lőfegyvert engedély nélkül megszerez vagy tart,
+a) működőképes lőfegyvert engedély nélkül megszerez vagy tart,
 
 b) lőfegyvert engedély nélkül készít vagy forgalomba hoz,
 
-c) lőfegyvert engedély nélkül vagy az engedély kereteit túllépve az ország területére behoz, onnan kivisz, vagy azon átszállít,
+c) működőképes lőfegyvert engedély nélkül vagy az engedély kereteit túllépve az ország területére behoz, onnan kivisz, vagy azon átszállít,
 
-d) a lőfegyver készítésére, megszerzésére, tartására vagy kereskedelmére vonatkozó engedély kereteit túllépi,
+d) a lőfegyver készítésére, kereskedelmére, illetve a működőképes lőfegyver megszerzésére, tartására vonatkozó engedély kereteit túllépi,
 
 e) engedéllyel tartott lőfegyverét engedéllyel nem rendelkezőnek átadja,
 

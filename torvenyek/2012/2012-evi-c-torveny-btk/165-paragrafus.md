@@ -14,4 +14,4 @@ okoz.
 
 (3) Ha az elkövető a közvetlen veszélyt szándékosan idézi elő, bűntett miatt az (1) bekezdésben meghatározott esetben három évig, a (2) bekezdésben meghatározott esetben – az ott tett megkülönböztetés szerint – egy évtől öt évig, két évtől nyolc évig, illetve öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
 
-(4) E § alkalmazásában foglalkozási szabály a lőfegyver, a robbantószer és a robbanóanyag használatára és kezelésére vonatkozó szabály is.
+(4) E § alkalmazásában foglalkozási szabály a működőképes lőfegyver, a robbantószer és a robbanóanyag használatára és kezelésére vonatkozó szabály is.

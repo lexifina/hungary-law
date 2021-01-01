@@ -8,19 +8,15 @@ b) költségvetésbe történő befizetési kötelezettséggel kapcsolatos kedve
 
 c) költségvetésből származó pénzeszközöket a jóváhagyott céltól eltérően használ fel,
 
-és ezzel egy vagy több költségvetésnek vagyoni hátrányt okoz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+és ezzel egy vagy több költségvetésnek vagyoni hátrányt okoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
-
-a) a költségvetési csalás nagyobb vagyoni hátrányt okoz, illetve
-
-b) az (1) bekezdésben meghatározott költségvetési csalást bűnszövetségben vagy üzletszerűen követik el.
+(2)
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha
 
 a) a költségvetési csalás jelentős vagyoni hátrányt okoz, vagy
 
-b) a nagyobb vagyoni hátrányt okozó költségvetési csalást bűnszövetségben vagy üzletszerűen követik el.
+b) az (1) bekezdésben meghatározott költségvetési csalást bűnszövetségben vagy üzletszerűen követik el.
 
 (4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
 

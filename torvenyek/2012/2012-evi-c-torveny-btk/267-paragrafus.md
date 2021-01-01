@@ -1,5 +1,17 @@
 ## A nemzeti adatvagyon körébe tartozó állami nyilvántartás elleni bűncselekmény
 
-267. § (1) Aki a nemzeti adatvagyon körébe tartozó állami nyilvántartásban kezelt adatot az adatkezelő részére hozzáférhetetlenné teszi, ha más bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+267. § (1) Aki
 
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény jelentős érdeksérelmet okoz.
+a) a nemzeti adatvagyon körébe tartozó állami nyilvántartásban kezelt adatot az adatkezelő részére hozzáférhetetlenné teszi, vagy
+
+b) a nemzeti adatvagyon körébe tartozó állami nyilvántartás működését jogosulatlanul vagy jogosultsága kereteit megsértve akadályozza,
+
+ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha
+
+a) a bűncselekmény jelentős érdeksérelmet okoz, vagy
+
+b) a bűncselekményt haszonszerzés végett követik el.
+
+(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény következtében a nemzeti adatvagyon körébe tartozó állami nyilvántartásban kezelt valamennyi adat az adatkezelő részére tartósan hozzáférhetetlenné válik.

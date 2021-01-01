@@ -24,6 +24,6 @@ b) az a) pontban foglaltaktól eltérő, más katonai felhasználással kapcsola
 
 a) engedélyen a Nemzetközi Importigazolást, valamint az ezeket helyettesítő okmányokat is érteni kell,
 
-b) haditechnikai terméken az 1236/2005/EK rendelet III. mellékletében meghatározott árut is érteni kell,
+b) haditechnikai terméken az (EU) 2019/125 európai parlamenti és tanácsi rendelet III. mellékletében meghatározott árut is érteni kell,
 
-c) tiltott haditechnikai termék: az 1236/2005/EK rendelet II. mellékletében meghatározott áru.
+c) tiltott haditechnikai termék: az (EU) 2019/125 európai parlamenti és tanácsi rendelet II. mellékletében meghatározott áru.

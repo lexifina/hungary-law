@@ -1,6 +1,6 @@
 ## A büntetés kiszabása egyezség esetén
 
-124/A. § (1) Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét be nem töltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
+124/A. § (1) Ha az egyezség jóváhagyására olyan, a bűncselekmény elkövetésekor tizenhatodik életévét be nem töltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
 
 a) életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a nyolc évet,
 
@@ -12,7 +12,7 @@ d) a három évet meg nem haladó tartamú szabadságvesztéssel büntetendő b�
 
 nem haladhatja meg.
 
-(2) Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét betöltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
+(2) Ha az egyezség jóváhagyására olyan, a bűncselekmény elkövetésekor tizenhatodik életévét betöltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
 
 a) életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a tíz évet,
 

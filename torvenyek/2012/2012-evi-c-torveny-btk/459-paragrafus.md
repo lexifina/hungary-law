@@ -14,7 +14,7 @@
 
 5. fegyveresen követi el a bűncselekményt, aki
 
-a) lőfegyvert,
+a) működőképes lőfegyvert,
 
 b) robbanóanyagot,
 
@@ -82,7 +82,7 @@ d) az egyházi személy és a vallási egyesület vallásos szertartást hivatá
 
 e) a bírósági vagy más hatósági eljárásban a védő, a jogi képviselő, a szakértő, és a hivatalos személynek nem minősülő kézbesítési végrehajtó,
 
-f) az egészségügyi dolgozó és az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy az egészségügyről szóló törvényben meghatározott esetekben,
+f) az egészségügyi dolgozó, az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy és a betegjogi képviselő az egészségügyről szóló törvényben meghatározott esetekben,
 
 g) az állami mentőszolgálat, valamint a mentésre feljogosított más szervezet tagja a mentéssel és betegszállítással összefüggésben,
 
@@ -96,17 +96,21 @@ k) az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet tagja
 
 l) a hivatásos vadász a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott tevékenysége körében,
 
-m) a halászati őr a halászatról és a horgászatról szóló törvényben meghatározott tevékenysége körében,
+m) a halőr a halgazdálkodásról és a hal védelméről szóló törvényben meghatározott tevékenysége körében,
 
 n) a közösségi közlekedési eszközt működtető gazdálkodó szervezetnél végrehajtói feladatot ellátó személy e tevékenysége során,
 
 o) az egyetemes postai szolgáltatónál ügyfélkapcsolati feladatot ellátó személy e tevékenysége során,
 
-p) az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében.
+p) az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében,
+
+q) a fegyveres biztonsági őr a szolgálatának teljesítése során,
+
+r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás biztosítását célzó parkolási közszolgáltatást a közúti közlekedésről szóló törvény szerint ellátó szervezetnél a parkolóhelyek rendeltetésszerű működtetését és a parkolóhelyek rendeltetésszerű használatának ellenőrzését végző személy e tevékenysége során.
 
 13. külföldi hivatalos személy:
 
-a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy,
+a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy, illetve külföldi államban közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, ideértve a köztestületben vagy az állami vagy önkormányzati vállalkozásban ilyen feladatot ellátó vagy szolgálatot teljesítő személyt is,
 
 b) törvényben kihirdetett nemzetközi szerződéssel létrehozott nemzetközi szervezetnél szolgálatot teljesítő személy, akinek a tevékenysége a szervezet rendeltetésszerű működéséhez tartozik,
 
@@ -196,7 +200,7 @@ c) az emberölés [160. § (1)–(3) és (5) bekezdés], az erős felindulásban
 
 d) az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem és kényszermunka [192. § (1)–(6) bekezdés], a személyi szabadság megsértése (194. §), a kényszerítés (195. §),
 
-e) a szexuális kényszerítés (196. §), a szexuális erőszak [197. § (1)–(4) bekezdés],
+e) a szexuális kényszerítés (196. §), a szexuális erőszak [197. § (1)–(4a) bekezdés], kapcsolati erőszak (212/A. §),
 
 f) a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési és a gyülekezési szabadság megsértése [217. § (1) bekezdés];
 
@@ -229,6 +233,8 @@ b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetésé
 c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
 
 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
+
+33. új pszichoaktív anyag: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott anyag.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 

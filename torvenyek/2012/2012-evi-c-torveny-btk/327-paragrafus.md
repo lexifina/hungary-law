@@ -40,6 +40,6 @@ c) gazdasági forráson a 267/2012/EU rendelet 1. cikk h) pontjában meghatároz
 
 d) gazdasági források zárolásán a 267/2012/EU rendelet 1. cikk j) pontjában meghatározott eszközöket,
 
-e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 2005. június 27-i 1236/2005/EK tanácsi rendelet (e fejezet alkalmazásában a továbbiakban: 1236/2005/EK rendelet) II. mellékletében meghatározott árut
+e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet (e fejezet alkalmazásában a továbbiakban: (EU) 2019/125 európai parlamenti és tanácsi rendelet) II. mellékletében meghatározott árut
 
 kell érteni.

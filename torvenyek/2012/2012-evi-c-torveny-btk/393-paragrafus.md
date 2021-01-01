@@ -6,7 +6,7 @@ a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem 
 
 b) hamis vagy meghamisított, az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt, vagy az elektronikus készpénz-helyettesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket átad, megszerez, az ország területére behoz, onnan kivisz, vagy azon átszállít,
 
-vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a készpénz-helyettesítő fizetési eszközzel visszaélést bűnszövetségben vagy üzletszerűen követik el.
 
