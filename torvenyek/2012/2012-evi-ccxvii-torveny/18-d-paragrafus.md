@@ -1,3 +1,1 @@
-18/D. § (1) A derogációs kérelemben meghatározott beruházások végrehajtói (a továbbiakban: beruházók) a beruházásokat e törvény és a végrehajtására kiadott rendelet alapján hajtják végre.
-
-(2) A beruházók a derogációs kérelemben jóváhagyott támogatási összegek kifizetését a hatósághoz benyújtott kérelem útján igényelhetik. Az igényelhető támogatási összeg nem haladhatja meg a központi számlán – a hatóság működési költségeinek levonását követően –rendelkezésre álló összeget. A beruházók részére támogatási összegek kizárólag a beruházási folyamat során már felmerült kiadások fedezésére folyósíthatóak és kizárólag az Európai Bizottság által előzetesen jóváhagyott beruházások megvalósítására fordíthatóak. A beruházások előfinanszírozása nem megengedett. A támogatási összegek beruházók által történő igénylésére és a támogatások kifizetésére vonatkozó szabályokat a Kormány rendeletben határozza meg.
+### 18/D. §

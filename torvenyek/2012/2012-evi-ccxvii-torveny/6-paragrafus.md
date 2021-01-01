@@ -1,9 +1,3 @@
-6. § (1) A légi jármű üzembentartó
+6. § (1) A légi jármű üzembentartó nyomonkövetési tervet készít, amelynek részletes szabályait a Kormány az e törvény végrehajtására kiadott rendeletében határozza meg.
 
-a) az 1. melléklet XXII. pontja szerinti tevékenysége, valamint az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülések során keletkező szén-dioxid kibocsátása, és
-
-b) amennyiben térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, a tonnakilométer adatai
-
-nyomon követésére és jelentésére vonatkozóan nyomon követési tervet készít, és azt a hatóság részére jóváhagyás céljából megküldi a 601/2012/EU bizottsági rendelet 51. cikkében meghatározott határidők betartásával.
-
-(2) Amennyiben az (1) bekezdés szerinti nyomon követési terv megfelel a 601/2012/EU bizottsági rendeletben, e törvényben és e törvény végrehajtására kiadott jogszabályokban foglaltaknak, a hatóság a nyomon követési tervet jóváhagyja.
+(2) Ha az (1) bekezdés szerinti nyomonkövetési terv megfelel az (EU) 2018/2066 bizottsági végrehajtási rendeletben, az e törvényben és e törvény végrehajtására kiadott rendeletben foglaltaknak, a hatóság a nyomonkövetési tervet jóváhagyja.

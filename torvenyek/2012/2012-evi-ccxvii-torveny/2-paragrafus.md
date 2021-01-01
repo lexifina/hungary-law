@@ -10,15 +10,15 @@ b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi 
 
 2. akkreditált hitelesítő szervezet: a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelően, az Európai Unió bármely tagállamának nemzeti akkreditáló testülete által akkreditált olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
 
-3. aukciós platform: az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdése alapján kijelölt aukciós platform,
+3. aukciós platform: az 1031/2010/EU bizottsági rendelet 26. cikk (1) bekezdése alapján kijelölt aukciós platform,
 
 4. ellenőrzési év: a térítésmentes kiosztásra vonatkozó kérelemmel érintett időszak kezdetét 24 hónappal megelőzően véget érő naptári év,
 
-5. európai uniós ügyleti jegyzőkönyv: a 389/2013/EU bizottsági rendelet 6. cikke szerinti szabványosított elektronikus adatbázis,
+5. európai uniós ügyleti jegyzőkönyv: a 2019/1122 felhatalmazáson alapuló bizottsági rendelet 5. cikke szerinti szabványosított elektronikus adatbázis,
 
 6. égetés: tüzelőanyagok oxidálása, függetlenül az e folyamat révén előállított hő-, elektromos vagy mechanikai energia felhasználási módjától, valamint az ehhez közvetlenül kapcsolódó valamennyi tevékenység, beleértve a hulladékgázok tisztítását,
 
-7. forgalmi jegyzék: a 389/2013/EU bizottsági rendelet 4. cikke szerinti forgalmi jegyzék,
+7. forgalmi jegyzék: az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 4. cikke szerinti forgalmi jegyzék,
 
 8. forrásanyag:
 
@@ -44,13 +44,13 @@ b) a fizikai változások által érintett létesítményrész jelentősen magas
 
 15. kibocsátási egység: az e törvény szerinti kötelezettségek teljesítésére az 1. melléklet I–XXI. pontjában meghatározott tevékenységet folytató létesítmény által felhasználható, egy tonna szén-dioxid-egyenérték meghatározott időn belül történő kibocsátását lehetővé tevő forgalomképes vagyoni értékű jog,
 
-16. kis kibocsátású létesítmény: a 601/2012/EU bizottsági rendelet 47. cikk (2) bekezdés a) vagy b) pontjának megfelelő létesítmény,
+16. kis kibocsátású létesítmény: az (EU) 2018/2066 bizottsági végrehajtási rendelet 47. cikk (2) bekezdés a) vagy b) pontjának megfelelő létesítmény,
 
-17. kis kibocsátónak minősülő légi jármű üzembentartó: a 601/2012/EU bizottsági rendelet 54. cikk (1) bekezdésének megfelelő légi jármű üzembentartó,
+17. kis kibocsátónak minősülő légi jármű üzembentartó: az (EU) 2018/2066/EU bizottsági végrehajtási rendelet 55. cikk (1) bekezdésének megfelelő légi jármű üzembentartó,
 
 18. környezeti információ: a nyilvánosság környezeti információkhoz való hozzáférésének rendjéről szóló jogszabályban meghatározott információ,
 
-19. központi tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
+19. központi tisztviselő: az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 3. cikk 1. pontjában meghatározott személy,
 
 20. légi jármű üzembentartó: az 1. melléklet XXII. pontjában és – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott kötelezettségek teljesítése tekintetében – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott légiközlekedési tevékenység folytatásának idején légi járművet üzembentartó személy, illetve ha ez a személy ismeretlen vagy a légi jármű tulajdonosa által nem azonosított, a légi jármű tulajdonosa,
 
@@ -62,9 +62,9 @@ b) a fizikai változások által érintett létesítményrész jelentősen magas
 
 24. létesítmény: minden olyan helyhez kötött műszaki egység, ahol egy vagy több, az 1. melléklet I–XXI. pontjában felsorolt tevékenység vagy bármely más, azzal technológiailag összefüggő tevékenység, valamint az adott telephelyen folytatott tevékenységhez műszakilag kapcsolódó tevékenység folyik, és amely az 1. mellékletben meghatározott üvegházhatású gáz kibocsátását eredményezi vagy arra közvetlenül hatással van,
 
-25. nemzeti tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 22. pontjában meghatározott személy,
+25. nemzeti tisztviselő: az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
 
-26. számlatulajdonos: a 389/2013/EU bizottsági rendelet 3. cikk 1. pontjában meghatározott személy,
+26. számlatulajdonos: az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 3. cikk 3. pontjában meghatározott személy,
 
 27. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz,
 
@@ -90,15 +90,15 @@ b) a negyedik kereskedési időszakban a 2018/410/EU európai parlamenti és tan
 
 33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére a jegyzékkezelő felé,
 
-34. derogációs kérelem: a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikke alapján az Európai Bizottság által a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c. cikke szerinti beruházásokról szóló SA.34086 (2012/N). számú bizottsági határozattal, és a C(2012) 8675 bizottsági határozattal (a továbbiakban: Európai Bizottság határozatai) jóváhagyott magyar derogációs kérelem,
+34.
 
-35. derogációs kiosztás: a derogációs kérelem alapján, a jelen törvény 6/A. alcímének megfelelően történő, egyszeri kiosztás egyes magyarországi villamosenergia-termelők részére.
+35.
 
 36. kereskedelmi légiközlekedési üzembentartó: olyan légi jármű üzembentartó, amely díjazás ellenében menetrendszerűen vagy nem menetrendszerűen utasok, áru vagy postai küldemények szállítására irányuló légiközlekedési szolgáltatást nyújt a nagyközönség számára,
 
 37. készenléti- vagy tartalék üzemmód: az alkalmankénti vagy kizárólag speciális körülmények megléte esetén történő üzemeltetés céljából létrehozott létesítmény működési jellemzője,
 
-38. kezdeti (múltbeli) tevékenységi szint: a létesítményrésznek kiosztott mennyisége kiszámításához használt, a 2011/278/EU bizottsági határozat 9. cikkének vagy adott esetben a 18. cikkének megfelelően kiszámított tevékenységi szint,
+38.
 
 39. mérvadó létesítményrész: olyan létesítményrész, amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához,
 

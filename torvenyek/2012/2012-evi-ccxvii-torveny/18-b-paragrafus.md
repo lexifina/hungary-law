@@ -1,7 +1,1 @@
-18/B. § (1) Ha a derogációs kiosztásra jogosult villamosenergia-termelő a kibocsátási egységek piaci értékének megfizetésére vonatkozó 18/A. § (4) bekezdése szerinti fizetési kötelezettségének határidőben részben vagy egészben nem tesz eleget, a hatóság a fizetési határidő lejártát követő 6 napon belül kötelezi az érintett villamosenergia-termelőt a fizetési kötelezettségének 7 napon belül történő teljesítésére (a továbbiakban: fizetési felszólítás).
-
-(2) Ha a derogációs kiosztásra jogosult villamosenergia-termelő az (1) bekezdés szerinti fizetési felszólításnak határidőben sem tesz eleget, a hatóság megállapítja a fizetési kötelezettség teljesítésének elmulasztását és mulasztási bírságot szab ki.
-
-(3) Az (1) bekezdés szerinti fizetési felszólításban meghatározott piaci értéket és mulasztási bírságot a villamosenergia-termelőnek a (2) bekezdés szerinti határozat véglegessé válását követő 10 napon belül kell megfizetnie. A mulasztási bírság mértékét a hatóság a Kormány rendelete alapján szabja ki. Ha a kötelezett a fizetési kötelezettségének határidőben nem tesz eleget, a hatóság a fizetési kötelezettség behajtása érdekében soron kívül megkeresi az állami adó- és vámhatóságot.
-
-(4) A (3) bekezdésben meghatározott fizetési kötelezettség teljesítéséig a miniszter zároltatja a villamosenergia-termelő forgalmi jegyzékbeli számláját. A fizetési kötelezettség villamosenergia-termelő általi hiánytalan teljesítésétől számított 30 napon belül a miniszter gondoskodik a villamosenergia-termelő forgalmi jegyzékbeli számlája zárolásának feloldásáról.
+### 18/B. §

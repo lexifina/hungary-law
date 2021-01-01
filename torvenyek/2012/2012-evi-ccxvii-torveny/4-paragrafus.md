@@ -1,4 +1,4 @@
-4. § (1) A hatóság a létesítményt vagy annak egy részét az 1. melléklet szerinti üvegházhatású gáz kibocsátására feljogosító kibocsátási engedélyt akkor állítja ki, ha az üzemeltető képes a kibocsátások – a 601/2012/EU bizottsági rendelet, e törvény és az e törvény végrehajtására kiadott jogszabályok szerinti – nyomon követésére és jelentésére.
+4. § (1) A hatóság a létesítményt vagy annak egy részét az 1. melléklet szerinti üvegházhatású gáz kibocsátására feljogosító kibocsátási engedélyt akkor állítja ki, ha az üzemeltető képes a kibocsátások – az (EU) 2018/2066 bizottsági végrehajtási rendelet, e törvény és az e törvény végrehajtására kiadott jogszabályok szerinti – nyomon követésére és jelentésére.
 
 (2) A kibocsátási engedély visszavonásig hatályos.
 
@@ -10,24 +10,12 @@ b) az engedély kiadásához szükséges valamely feltétel nem áll fenn, a kib
 
 c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fennáll, ennek ténye a hatósági ellenőrzést lezáró jegyzőkönyvben vagy feljegyzésben rögzítésre kerül.
 
-(3a) A kibocsátási engedély kiadásáról, módosításáról, illetve visszavonásáról, valamint a légi jármű üzembentartó nyomonkövetési tervének jóváhagyásáról, módosításáról a hatóság tájékoztatja az iparügyekért felelős minisztert (a továbbiakban: miniszter).
+(3a)
 
-(3b) A miniszter a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát hatósági ellenőrzés keretében végezheti.
+(3b) A hatóság a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát hatósági ellenőrzés keretében végezheti.
 
 (3c) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 
 (4) A kibocsátási engedély egyazon üzemeltető által egy – a társasági adóról és az osztalékadóról szóló törvény szerinti – telephelyen üzemeltetett egy vagy több létesítményre is vonatkozhat.
 
-(5) A kibocsátási engedély kötelező tartalmi elemei:
-
-a) az üzemeltető azonosító adatai,
-
-b) a létesítmény azonosító adatai,
-
-c) a létesítményben folytatott tevékenységre, az alkalmazott technológiára és az engedélyezett kibocsátásra vonatkozó adatok,
-
-d) üzemeltető által benyújtott nyomonkövetési terv jóváhagyása,
-
-e) a jelentési követelmények és
-
-f) az üzemeltető azon kötelezettségének megállapítása, amely szerint minden év április 30-ig köteles a nyomon követett, hitelesített előző évi kibocsátásával egyenlő számú kibocsátási egységet az államnak e törvény szerint visszaadni.
+(5) A kibocsátási engedély tartalmi elemeit a Kormány az e törvény végrehajtására kiadott rendeletében határozza meg.

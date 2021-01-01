@@ -1,10 +1,10 @@
 ## 13. Jogkövetkezmények
 
-32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé történő változások bejelentésére irányuló, továbbá a 15/B. § szerinti kötelezettségének, a hatóság döntésében foglaltaknak részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
+32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására vonatkozó kötelezettségének, a hatóság felé történő adatszolgáltatások és változások bejelentésére irányuló kötelezettségének, és a hatóság döntésében foglalt kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
 (2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot.
 
-(3) A bírság mértékének meghatározásakor figyelemmel kell lenni a kötelezettségszegés súlyára, az általa elérhető gazdasági előny nagyságára, valamint az üzemeltetőnek térítésmentesen járó kibocsátási egységek számára.
+(3) A bírság mértékének meghatározásakor a hatóság a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett figyelembe veszi az üzemeltetőnek térítésmentesen járó kibocsátási egységek számát.
 
 (4) Ismételt kötelezettségszegés esetén, annak súlyára figyelemmel a hatóság a tevékenységet korlátozza, felfüggeszti vagy a kibocsátási engedélyt visszavonja.
 
@@ -16,4 +16,4 @@ b) a hitelesített éves kibocsátási jelentés nincs összhangban e törvény 
 
 c) az üzemeltető kibocsátási jelentését nem hitelesítették a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelően
 
-a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív becslést készít a létesítmény kibocsátásáról, amely becslésnek megfelelő kibocsátási egységet köteles az üzemeltető a 24. § (1) bekezdésének megfelelően visszaadni.
+a hatóság az (EU) 2018/2066/ bizottsági végrehajtási rendelet 70. cikke alapján konzervatív becslést készít a létesítmény kibocsátásáról, amely becslésnek megfelelő kibocsátási egységet köteles az üzemeltető a 24. § (1) bekezdésének megfelelően visszaadni.

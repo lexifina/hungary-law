@@ -1,5 +1,3 @@
-18/G. § (1)
+## 6/B. A kibocsátási egységek átmeneti ingyenes kiosztása az energetikai ágazat modernizációja érdekében a negyedik kereskedési időszak tekintetében
 
-(2) A hatóság a 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait a határozat meghozatalát követő 3 napon belül a honlapján közhírré teszi.
-
-(3) A miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak az általa vezetett minisztérium honlapján történő közzétételéről.
+18/G. § A 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkében rögzített ingyenes kiosztás részletes szabályait a Kormány az e törvény végrehajtására kiadott rendeletében határozza meg.

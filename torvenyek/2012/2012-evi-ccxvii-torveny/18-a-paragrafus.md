@@ -1,15 +1,3 @@
-## 6/A. A kibocsátási egységek villamosenergia-termelők részére történő egyszeri kiosztása
+## 6/A. A kibocsátási egységek villamosenergia-termelők részére történő egyszeri kiosztása a harmadik kereskedési időszak tekintetében
 
-18/A. § (1) A villamosenergia-termelők a derogációs kérelem alapján 2013-ban derogációs kiosztásban részesülnek. Az egyes villamosenergia-termelők részére történő derogációs kiosztás célja a derogációs kérelemben meghatározott beruházások végrehajtásának támogatása.
-
-(2) A derogációs kiosztásban részt vevő villamosenergia-termelők körét és a részükre 2013-ban kiosztható kibocsátási egységek mennyiségét a derogációs kérelem alapján a Kormány rendeletben határozza meg.
-
-(2a) A 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkében rögzített, a villamosenergia-termelők részére történő derogációs kiosztására irányuló eljárásban a miniszter jár el az e törvényben és a villamosenergia-termelők részére történő derogációs kiosztás végrehajtási szabályairól szóló kormányrendeletben meghatározottak szerint.
-
-(3) A Kormány (2) bekezdés szerinti rendelete alapján a miniszter a (6) bekezdésben foglaltakra figyelemmel elkészíti a nemzeti kiosztási táblára vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő a (6) bekezdésben foglaltakra figyelemmel a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
-
-(4) A derogációs kiosztásban részesülő villamosenergia-termelő a részére a (3) bekezdés szerint kiosztott kibocsátási egységek piaci értékét a hatóság 18/C. § (2) szerinti központi számlájára megfizeti. A piaci érték meghatározására vonatkozó szabályokat a Kormány rendeletben határozza meg. Az egyes villamosenergia-termelők fizetési kötelezettségének a mértékét a hatóság állapítja meg. A villamosenergia-termelők a fizetési kötelezettségüknek az adott villamosenergia-termelőre vonatkozó határozat véglegessé válásától számított 7 napon belül tesznek eleget.
-
-(5) Ha a (4) bekezdés szerinti fizetési kötelezettség teljesítéséig a villamosenergia-termelő a részére kiosztott kibocsátási egységeket értékesíti, köteles az értékesítés árbevételét a (4) bekezdés szerinti fizetési kötelezettsége teljesítésére fordítani. A (4) bekezdés szerinti fizetési kötelezettség teljesítését követően a villamosenergia-termelő a részére kiosztott kibocsátási egységekkel szabadon rendelkezik.
-
-(6) Nem részesülhet derogációs kiosztásban az a villamosenergia-termelő, amely a kiosztás időpontjában csőd- vagy felszámolási eljárás hatálya alatt áll, vagy amelynek a kibocsátási-engedélyét vagy a kibocsátási engedélye alapjául szolgáló bármely más olyan engedélyét végleges döntéssel felfüggesztették vagy visszavonták, amelynek következtében a villamosenergia-termelő termelő tevékenységet a derogációs kiosztás időpontjában jogszerűen nem folytathat.
+### 18/A. §

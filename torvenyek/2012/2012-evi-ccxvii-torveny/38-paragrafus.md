@@ -1,10 +1,10 @@
-38. § (1) A 2009/406/EK európai parlamenti és tanácsi határozat 3. cikk (2) bekezdése és II. melléklete alapján Magyarország számára a 2013–2020 közötti időszakra vonatkozóan évenként maximálisan engedélyezett, a 37. § (1) bekezdése szerinti üvegházhatású gázkibocsátás az állam tulajdonában álló vagyoni értékű jogosultság (a továbbiakban: ESD-egység). Az ESD-egység feletti tulajdonosi jogokat a miniszter gyakorolja.
+38. § (1) A 2009/406/EK európai parlamenti és tanácsi határozat 3. cikk (2) bekezdése és II. melléklete alapján Magyarország számára a 2013–2020 közötti időszakra vonatkozóan meghatározott éves kibocsátási mennyiség (a továbbiakban: ESD-egység) az állam tulajdonában álló vagyoni értékű jogosultság. Az ESD-egység feletti tulajdonosi jogokat a miniszter gyakorolja.
 
 (2) Az ESD-egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
 (3) Az állam tulajdonában álló ESD-egység a következő módokon használható fel a 2009/406/EK európai parlamenti és tanácsi határozattal összhangban:
 
-a) Magyarország 37. § szerinti kibocsátás-csökkentési céljának teljesítésére, a Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére;
+a) Magyarország 2009/406/EK európai parlamenti és tanácsi határozat szerinti kibocsátás-csökkentési céljának teljesítésére, a Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére;
 
 b) a (4) bekezdés szerinti értékesítésre.
 
