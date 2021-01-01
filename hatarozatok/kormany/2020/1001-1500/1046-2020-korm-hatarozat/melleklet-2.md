@@ -54,7 +54,7 @@
 
 | IV.5. | Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővítése | A korábbi stratégia tapasztalatai, illetve a Nemzeti Koordinációs Mechanizmus tagjainak jelzése alapján indokolt a célkitűzés ismételt szerepeltetése. | BM | európai uniós és kormányzati |
 
-2. melléklet az 1046/2020. (II. 18.) Korm. határozathoz
+2. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^2]
 
 ## Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia végrehajtását szolgáló, 2020–2021 közötti időszakban végrehajtandó intézkedési terv
 
@@ -94,7 +94,7 @@ I. Megelőzés
 
 | A | Felelős: | EMMI |
 
-| B | Partner: | Szociális és Gyermekvédelmi Főigazgatóság |
+| B | Partner: | Nemzeti Szociálpolitikai Intézet |
 
 | C | Eszköz: | továbbképzés |
 
@@ -160,7 +160,7 @@ I. Megelőzés
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
 
-| I.1.8. További Barnahus modell1 szerinti szolgáltatások infrastrukturális feltételei megteremtésének és működésének támogatása, az országos lefedettség biztosítása érdekében |
+| I.1.8. További Barnahus modell3 szerinti szolgáltatások infrastrukturális feltételei megteremtésének és működésének támogatása, az országos lefedettség biztosítása érdekében |
 
 | A | Felelős: | EMMI, PM |
 
@@ -174,7 +174,7 @@ I. Megelőzés
 
 | F | Forrás: | hazai költségvetés terhére megvalósítandó Előzmények: a már két Barnahus működtetésre beépülően: 74 000 000 Ft/év forrást biztosít a központi költségvetés 2020-tól. (A 2020. évi központi költségvetés biztosítja.) További egy Barnahus kialakítására 30 000 000 Ft. (A 2020. évi központi költségvetésben rendelkezésre áll.) Forrásigény: 2021-ben további két Barnahus kialakítására: 70 000 000 Ft, valamint 2021-től a 2020-ban saját intézményi forrásból (nem központi költségvetési többletforrásból) kialakított további egy Barnahus működtetésre beépülően: 37 000 000 Ft/év. A 2021-re bemutatott forrásallokációkra vonatkozó döntések még nem születtek meg. |
 
-## 1 A modell lényege, hogy a szexuális abúzus által traumatizált gyermekek ne legyenek kitéve a büntetőeljárás hosszas procedúrájának, ne történjen reviktimizáció a többszöri meghallgatások következtében. A gyermek számára megfelelő környezetben mondhassa el, fejezhesse ki a vele történteket, az egyszeri meghallgatás és vizsgálat során szerzett információk pedig bizonyítékul szolgálhatnak a büntetőeljárások során. A Barnahus-modell a felek egyenlőségének elvét is biztosítja, hiszen a rendszerben a gyanúsított jogai is védve vannak.
+## 3 A modell lényege, hogy a szexuális abúzus által traumatizált gyermekek ne legyenek kitéve a büntetőeljárás hosszas procedúrájának, ne történjen reviktimizáció a többszöri meghallgatások következtében. A gyermek számára megfelelő környezetben mondhassa el, fejezhesse ki a vele történteket, az egyszeri meghallgatás és vizsgálat során szerzett információk pedig bizonyítékul szolgálhatnak a büntetőeljárások során. A Barnahus-modell a felek egyenlőségének elvét is biztosítja, hiszen a rendszerben a gyanúsított jogai is védve vannak.
 
 | I.1.9. A Barnahus modell szerinti szolgáltatás büntetőeljárásban történő alkalmazhatóságára vonatkozó jogi szabályozás kialakítása |
 
@@ -412,7 +412,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | F | Forrás: | – |
 
-| II.1.7. Az EKAT rendszerrel2 kapcsolatos fejlesztések megvalósítása |
+| II.1.7. Az EKAT rendszerrel4 kapcsolatos fejlesztések megvalósítása |
 
 | A | Felelős: | IM |
 
@@ -426,7 +426,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
 
-## 2 Az emberkereskedelem áldozatainak azonosítására szolgáló webalapú rendszer, amely az Igazságügyi Minisztérium fejlesztési projektje keretében került kialakításra.
+## 4 Az emberkereskedelem áldozatainak azonosítására szolgáló webalapú rendszer, amely az Igazságügyi Minisztérium fejlesztési projektje keretében került kialakításra.
 
 | II.1.8. Együttműködési megállapodások megkötése az Innovációs és Technológiai Minisztérium hatáskörrel rendelkező egysége és a rendőrség, valamint egyéb partnerszervek bevonásával lebonyolított, rendszeres és koordinált munkaügyi ellenőrzések érdekében |
 
@@ -816,7 +816,7 @@ IV.3. Nemzetközi egyezményekben foglalt vállalásoknak és kötelezettségekn
 
 | F | Forrás: | – |
 
-| IV.3.2. Csatlakozás lehetőségének a vizsgálata az Európa Tanács szervkereskedelem elleni egyezményéhez3 |
+| IV.3.2. Csatlakozás lehetőségének a vizsgálata az Európa Tanács szervkereskedelem elleni egyezményéhez5 |
 
 | A | Felelős: | IM, EMMI |
 
@@ -830,7 +830,7 @@ IV.3. Nemzetközi egyezményekben foglalt vállalásoknak és kötelezettségekn
 
 | F | Forrás: | – |
 
-3 Az Európa Tanács Miniszteri Bizottsága 2014. július 9-én elfogadta a Tanács Emberi szervek kereskedelme elleni egyezményét, amelynek aláírását 2015. március 25-én nyitották meg.
+5 Az Európa Tanács Miniszteri Bizottsága 2014. július 9-én elfogadta a Tanács Emberi szervek kereskedelme elleni egyezményét, amelynek aláírását 2015. március 25-én nyitották meg.
 
 IV.4. Párbeszéd erősítése a Nemzeti Koordinációs Mechanizmus és az NGO Kerekasztal tagjai között
 
@@ -891,3 +891,5 @@ IV.5. Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővít�
 | E | Indikátor: | kialakított együttműködések száma |
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
+
+[^2]: A 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 8. pontja szerint módosított szöveg.
