@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-45-20-2
 | --- | --- | --- |
 | 2020-11-21 | 2020-45-20-2C.1 | 45/2020. (XI. 20.) MNB rendelet |
 | 2020-11-22 | 2020-45-20-2C.2 | 2010: CXXX. törvény |
+| 2021-01-01 | 2020-45-20-2C.3 | 57/2021. (XI. 24.) MNB rendelet |
