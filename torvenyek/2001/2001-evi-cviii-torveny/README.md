@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-108-00-00
 | 2019-01-05 | 2018. évi CXXI. törvény | 2001-108-00-00.28 |
 | 2020-01-17 | 2019. évi LXVII. törvény | 2001-108-00-00.29 |
 | 2020-06-12 | 2020. évi XXIV. törvény | 2001-108-00-00.30 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 2001-108-00-00.31 |
