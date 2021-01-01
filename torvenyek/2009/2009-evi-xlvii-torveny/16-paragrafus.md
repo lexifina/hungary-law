@@ -30,7 +30,7 @@ h) összbüntetésbe foglalás, valamint egységes intézkedés elrendelése ese
 
 i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének keltét;
 
-j) a külföldi ítélet elismerése, illetve a tagállami ítélet megfeleltetése esetén
+j) a külföldi ítélet elismerése, illetve – feltéve, hogy a bíróság a megfeleltetés során megállapította a bűncselekmény megnevezését és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését – a tagállami ítélet megfeleltetése esetén
 
 ja) ennek tényét,
 

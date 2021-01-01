@@ -10,9 +10,9 @@ b) az adatátvétel, illetve az adatigénylés céljára tekintettel nyilvánval
 
 c) a hatósági erkölcsi bizonyítványban igazolni kívánt tény jellegére tekintettel nyilvánvaló, hogy a tagállami ítélet megfeleltetése esetén az ítélettel kapcsolatos adatok a hatósági erkölcsi bizonyítványban igazolni kívánt tény igazolását nem érintenék.
 
-(4) Ha a bűnügyi nyilvántartó szerv a tagállami ítélet megfeleltetését a bíróságnál kezdeményezi, a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást legfeljebb a megfeleltetési eljárás jogerős befejezéséig, illetve a megfeleltetés esetén az adatoknak a bűnügyi nyilvántartási rendszerbe történő bejegyzéséig felfüggeszti.
+(4) Ha a bűnügyi nyilvántartó szerv a tagállami ítélet megfeleltetését a bíróságnál kezdeményezi, a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást legfeljebb a megfeleltetési eljárás jogerős befejezéséig, illetve a bűnügyi nyilvántartási rendszerbe való bejegyzést eredményező módon történő megfeleltetés esetén az adatoknak a bűnügyi nyilvántartási rendszerbe történő bejegyzéséig felfüggeszti.
 
-(5) Ha a magyar bíróság a tagállami ítéletet megfeleltette, a bűnügyi nyilvántartási szerv
+(5) Ha a magyar bíróság a tagállami ítéletet a bűnügyi nyilvántartási rendszerbe való bejegyzést eredményező módon megfeleltette, a bűnügyi nyilvántartási szerv
 
 a) a megfeleltetett tagállami ítélettel kapcsolatos adatokat továbbítja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervnek, illetve
 
