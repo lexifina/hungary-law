@@ -20,13 +20,11 @@ c)
 
 d) a szabálytalan építési tevékenység feltárása érdekében a Nyilvántartás igénybevételével építésrendészeti ellenőrzést és eljárást folytat le,
 
-e) az ellenőrzései alapján szankciót állapít meg, ennek keretében
+e) az ellenőrzés alapján saját hatáskörben közigazgatási szankciót állapít meg, ennek keretében
 
 ea) építésfelügyeleti intézkedést tesz,
 
-eb) építésfelügyeleti bírságot szab ki,
-
-ec) megkeresi az intézkedésre hatáskörrel rendelkező hatóságot,
+eb) építésfelügyeleti bírságot szab ki.
 
 f)
 
@@ -38,7 +36,7 @@ b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja
 
 ba) megtilthatja és építésfelügyeleti bírságot szabhat ki, ha ellenőrzése során azt állapítja meg, hogy az építőipari kivitelezési tevékenység szakszerűségére, az építési napló vezetésére vagy a kivitelezési tevékenység folytatásához szükséges kivitelezési dokumentációra vonatkozó szabályokat súlyosan megsértették,
 
-bb) megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
+bb) megtiltja és a szabálytalan állapot megszüntetésére kötelez, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
 
 bc) építési napló hiányában építési napló hiányában megtiltja, ha annak vezetése az e törvény végrehajtására kiadott kormányrendelet alapján kötelező,
 
@@ -50,11 +48,11 @@ e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapaszt
 
 ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
 
-eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
+eb) a szabálytalan állapot megszüntetése érdekében intézkedésként bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
 
 (4) Az építésfelügyeleti hatóság a hatósági ellenőrzést a megindításától számított 60 napon belül lefolytatja. Szabálytalanság észlelése esetén haladéktalanul megindítja a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 
-a) a (2) bekezdés a) és b) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
+a) a (2) bekezdés b) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
 
 b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől számított tíz éven belül
 

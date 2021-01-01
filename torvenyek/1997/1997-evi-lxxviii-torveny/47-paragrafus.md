@@ -2,7 +2,7 @@
 
 47. § (1) Jogszabályban meghatározott esetekben és módon az építésügyi hatóság elrendelheti a telek bekerítését, az engedély nélküli építményhasználat megszüntetését.
 
-(2) Az építésügyi hatóságnak külön kormányrendeletben foglaltak szerint el kell rendelnie:
+(2) Az építésügyi hatóság külön kormányrendeletben foglaltak szerint kötelezésként elrendeli:
 
 a) az építmény, építményrész részleges vagy teljes átalakítását, – amennyiben ez nem lehetséges, vagy ha az építtető ezt nem vállalja – a lebontását vagy az újraépítését, ha a kivitelezés az állékonyságot, az életet és egészséget, a közbiztonságot veszélyeztető módon történik,
 

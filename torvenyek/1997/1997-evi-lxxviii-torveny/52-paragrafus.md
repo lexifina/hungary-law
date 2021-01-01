@@ -1,4 +1,4 @@
-52. § (1) Az építésügyi és az építésfelügyeleti hatóság az építési folyamat résztvevőivel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
+52. § (1) Az építésügyi és az építésfelügyeleti hatóság az építési folyamat résztvevőivel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a közigazgatási szabályszegések szankcióiról szóló törvény rendelkezései figyelembevételével a következő jogkövetkezményeket alkalmazza:
 
 a) figyelmeztetés,
 
@@ -8,7 +8,7 @@ c) a tevékenység megkezdésének, folytatásának megtiltása vagy leállítá
 
 d) bírság megállapítása,
 
-e) a névjegyzéket vezető kamaránál eljárás kezdeményezése.
+e) intézkedésként a névjegyzéket vezető kamaránál eljárás kezdeményezése.
 
 (2) Ha e törvény másként nem rendelkezik, a névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval, valamint a vállalkozó kivitelezővel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
 
@@ -69,3 +69,11 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 (6) A szabálytalanságot megállapító hatóság a felelőssel szemben köteles eljárást lefolytatni vagy kezdeményezni az eljárás lefolytatására hatáskörrel rendelkező illetékes hatóságnál vagy névjegyzéket vezető kamaránál. A megkeresett hatóság, névjegyzéket vezető szerv a felelőssel szemben köteles az eljárást lefolytatni.
 
 (7) Az építésügyi szabályok megsértése miatt a természetes személlyel, jogi személy esetén szakmagyakorlási jogosultsággal rendelkező tagjával vagy alkalmazottjával szemben alkalmazott büntetést – jogszabályban meghatározottak szerint – a Nyilvántartás bírság és szankció adatállományában kell rögzíteni.
+
+(8) A közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott figyelmeztetés
+
+a) építésügyi hatósági eljárásban, valamint
+
+b) az építésfelügyeleti hatósági eljárásban az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése esetén
+
+nem alkalmazható.

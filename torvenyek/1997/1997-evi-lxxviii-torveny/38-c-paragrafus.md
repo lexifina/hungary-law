@@ -10,4 +10,4 @@
 
 (6) A Budapesti és Pest Megyei Mérnöki Kamara az (5) bekezdésben foglalt ellenőrzésen kívül bármely más energetikai tanúsítványt is ellenőrizhet.
 
-(7) A Budapesti és Pest Megyei Mérnöki Kamara a jogszabályi rendelkezések megsértésével kiállított energetikai tanúsítvány kiállítójával szemben figyelmeztetéssel élhet, vagy kormányrendeletben meghatározott bírságot szabhat ki.
+(7) A Budapesti és Pest Megyei Mérnöki Kamara a jogszabályi rendelkezések megsértésével kiállított energetikai tanúsítvány kiállítójával szemben figyelmeztetéssel élhet vagy bírságot szab ki.

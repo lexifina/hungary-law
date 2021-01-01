@@ -73,3 +73,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2020-03-24 | 2020. évi VI. törvény | 1997-78-00-00.99 |
 | 2020-05-29 | 2020. évi XXX. törvény | 1997-78-00-00.100 |
 | 2020-07-22 | 2020. évi LXXVII. törvény | 1997-78-00-00.101 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1997-78-00-00.102 |
