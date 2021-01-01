@@ -1,5 +1,3 @@
-## 53. §[^63]
+## „(8) A turisztikai tárhelyszolgáltató a titkosítás paramétereit, valamint a (4) bekezdés szerint jóváhagyott okmányolvasók listáját az elektronikus felületen közzéteszi.”
 
 ## 54. A Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet módosítása
-
-[^63]: Az 53. § az 55. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

@@ -1,5 +1,7 @@
-## 16. §[^16]
-
 ## 17. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet módosítása
 
-[^16]: A 16. § az 55. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+17. § (1) Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R10.) 3. §-a helyébe a következő rendelkezés lép:
+
+## „3. § A Kormány a sajátos építményfajták körébe tartozó és az OAH r.-ben foglalt építmények kivételével, az építésfelügyeleti hatósági feladatokra a fővárosi és megyei kormányhivatalt (a továbbiakban: építésfelügyeleti hatóság) jelöli ki.”
+
+(2) Az R10. 2. melléklete helyébe a 2. melléklet lép.

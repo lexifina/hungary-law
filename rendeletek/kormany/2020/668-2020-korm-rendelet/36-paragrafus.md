@@ -1,5 +1,7 @@
-## 35. §[^39]
-
 ## 36. Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosítása
 
-[^39]: A 35. § az 55. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 36. § Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet
+
+a) 4. § (1) bekezdésében az „építésügyért felelős miniszter” szövegrész helyébe az „építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter” szöveg,
+
+b) 4. § (2) bekezdésében a „Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szöveg
