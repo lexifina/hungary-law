@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-179-00-00
 | 2019-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-179-00-00.6 |
 | 2019-01-02 | 2010. évi CXXX. törvény | 2017-179-00-00.7 |
 | 2019-11-29 | 2019. évi LXXXII. törvény | 2017-179-00-00.8 |
+| 2021-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-179-00-00.9 |
