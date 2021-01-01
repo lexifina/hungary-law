@@ -6,11 +6,7 @@ A Kormány
 
 3.[^2] a Beruházás előkészítésének kormányzati főfelelőseként az aktív Magyarországért felelős kormánybiztost, társfelelőseként a miniszterelnök kabinetfőnökét jelöli ki;
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcímet 25. Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztése jogcímcsoporttal egészíti ki;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+4.[^3]
 
 5. felhívja a nemzeti fejlesztési minisztert, hogy a Kvtv. 20. § (5) bekezdése szerinti jogkörében eljárva – a 2. pontban foglaltak megvalósítása érdekében – gondoskodjon a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcím, 25. Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztése jogcímcsoport javára a pénzügyi tranzakciós illetékkel és kincstári díjakkal mindösszesen 241 442 100 forint egyszeri átcsoportosításáról, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszatérítési kötelezettséggel;
 
@@ -26,7 +22,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a forrás rendelkezésre állását követően azonnal
 
-7.[^3] felhívja az aktív Magyarországért felelős kormánybiztost, hogy a miniszterelnök kabinetfőnöke, valamint az MKKSZ bevonásával
+7.[^4] felhívja az aktív Magyarországért felelős kormánybiztost, hogy a miniszterelnök kabinetfőnöke, valamint az MKKSZ bevonásával
 
 a) készítsen jelentést a Kormány részére a Rendelet 7. § (1) bekezdésében foglalt kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről;
 
@@ -46,4 +42,5 @@ Határidő: 2019. április 30.
 
 [^1]: A 2. pont az 1090/2018. (III. 13.) Korm. határozat 1. pontjával megállapított, az 1542/2018. (X. 30.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^2]: A 3. pont az 1542/2018. (X. 30.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^3]: A 7. pontot az 1542/2018. (X. 30.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 7. pontot az 1542/2018. (X. 30.) Korm. határozat 1. pontjával megállapított szöveg.
