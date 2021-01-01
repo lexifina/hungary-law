@@ -8,11 +8,7 @@ b) a projekt előkészítésének és kivitelezésének teljes költségigénye 
 
 c) a projekt megvalósításának közlekedésszakmai felügyeletét a nemzeti fejlesztési miniszter lássa el;
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcímet a 41. Kőszeg városkörnyéki közösségi közlekedés fejlesztése jogcímcsoporttal egészíti ki;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+2.[^1]
 
 3. a projekt előkészítése és kivitelezése érdekében felhívja
 
@@ -56,6 +52,7 @@ b) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja: 320 000 
 
 Felelős: nemzeti fejlesztési miniszter
 
-6.[^1]
+6.[^2]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
