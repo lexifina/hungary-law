@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-30-20-2
 | 2010-04-17 | 2003-30-20-22.11 | 110/2010. (IV. 9.) Korm. rendelet |
 | 2011-01-01 | 2003-30-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-03-14 | 2003-30-20-22.13 | 37/2015. (III. 6.) Korm. rendelet |
+| 2021-01-01 | 2003-30-20-22.14 | 722/2020. (XII. 31.) Korm. rendelet |
