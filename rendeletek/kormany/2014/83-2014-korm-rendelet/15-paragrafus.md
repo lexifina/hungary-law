@@ -1,4 +1,4 @@
-15. §[^28] (1) A tervdokumentációban foglaltakhoz kapcsolódó tevékenységek:
+15. §[^30] (1) A tervdokumentációban foglaltakhoz kapcsolódó tevékenységek:
 
 a) a tervdokumentáció elkészítéséhez szükséges térinformatikai adatállomány beszerzése,
 
@@ -12,4 +12,4 @@ a) az önállóan védekező települések árvíz-védekezési tervében szerep
 
 b) a működési területével érintett vízügyi igazgatási szerv árvízvédelmi tervében szereplő, ideiglenes védmű által mentesített terület.
 
-[^28]: A 15. § a 100/2016. (V. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^30]: A 15. § a 100/2016. (V. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
