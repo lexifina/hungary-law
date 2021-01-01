@@ -137,5 +137,3 @@ VII.
 VIII.
 
 1. a szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai
-
-2. a felmentési időtartam adatai

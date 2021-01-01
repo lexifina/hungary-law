@@ -13,11 +13,3 @@ d) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról k�
 e) a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv;
 
 f) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről [tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében] szóló, 1992. október 19-i 92/85/EGK tanácsi irányelv.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
