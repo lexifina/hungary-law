@@ -10,7 +10,7 @@
 
 a) a Nemzeti Földalapba sorolt vagyon,
 
-b) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) rábízott vagyoni körébe tartozó vagyon,
+b) az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) rábízott vagyoni körébe tartozó vagyon,
 
 c) az államháztartás központi alrendszere adóssága kezelésének, és
 

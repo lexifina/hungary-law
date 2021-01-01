@@ -14,4 +14,4 @@
 
 (5) Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv esetén az irányító szerv jogosult dönteni a költségvetési szerv maradványának elvonandó és felhasználható összegéről.
 
-(6) Az előirányzat-módosítási kötelezettség nélkül túlteljesíthető európai uniós forrásból – kivéve az Európai Mezőgazdasági és Garancia Alapot – finanszírozott költségvetési támogatások nyújtására szolgáló fejezeti kezelésű előirányzatok év végéig fel nem használt összege a költségvetési év utolsó napján törlésre kerül, ezen előirányzatok így költségvetési maradvánnyal nem rendelkeznek.
+(6)

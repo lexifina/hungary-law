@@ -1,1 +1,1 @@
-68/A. § Az európai támogatásokat auditáló szerv által végzett ellenőrzésre a 63. § (2) és (4) bekezdését, 64. § (1) és (2) bekezdését, 65. § (1) bekezdését, (2) bekezdés a) pontját és (3)–(5) bekezdését alkalmazni kell.
+68/A. § Az európai támogatásokat auditáló szerv által végzett ellenőrzésre a 63. § (2) és (4) bekezdését, 64. § (1) és (2) bekezdését, 65. § (1)–(5) bekezdését alkalmazni kell.

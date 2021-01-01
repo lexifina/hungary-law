@@ -46,6 +46,20 @@ j) a kötelező szakmai továbbképzésen történő részvétel idejét.
 
 (6) Az (5) bekezdésben meghatározott adatok közül a belső ellenőr nyilvántartási száma, neve és választása alapján az (5) bekezdés c)–f) pontjában meghatározott adatainak egyike nyilvános, ezen adatokról bárki tájékoztatást kaphat. A nyilvántartásba vételt végző szervezet a nyilvántartásban szereplő belső ellenőr nyilvános adatait honlapján nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kaphasson.
 
-(7) A tevékenység gyakorlásától el kell tiltani és törölni kell a nyilvántartásból, aki a (4) bekezdésben, az (5) bekezdés szerinti nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesíti. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
+(7) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesítő személyt törli a nyilvántartásból, illetve a tevékenység gyakorlásától eltiltja. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
+
+(7a) A (7) bekezdés szerinti tevékenység végzésétől történő eltiltás – e törvény felhatalmazása alapján kiadott rendeletben foglaltak szerint – legfeljebb három évre szólhat.
+
+(7b) Az a természetes személy, aki
+
+a) a cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll,
+
+b) a belső ellenőrzési tevékenység folytatásának részletes feltételeinek nem felel meg,
+
+c) a büntetett előélethez fűződő hátrányok alól nem mentesült vagy
+
+d) a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alól nem mentesült,
+
+nem végezhet a (7) bekezdés szerinti tevékenységet.
 
 (8) A belső ellenőri tevékenység bejelentésére a nyilvántartásba bejegyzett adatok módosítására és törlésére irányuló eljárásért az államháztartásért felelős miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.

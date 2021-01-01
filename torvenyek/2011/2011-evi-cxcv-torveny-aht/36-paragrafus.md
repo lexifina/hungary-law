@@ -18,7 +18,7 @@ bb) az egyéb működési célú kiadások és a felhalmozási kiadások előir�
 
 vállalható.
 
-(4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok, valamint a 14. § (4) bekezdés a) és b) pontja szerinti fejezet központi kezelésű előirányzatai esetében azzal az eltéréssel kell alkalmazni, hogy a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettség
+(4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok, központi kezelésű uniós előirányzatok, valamint a 14. § (4) bekezdés a) és b) pontja szerinti fejezet központi kezelésű előirányzatai esetében azzal az eltéréssel kell alkalmazni, hogy a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettség
 
 a) alapja a következő évre szóló központi költségvetési törvény kihirdetett szövegében megállapított kiadási előirányzat összege,
 

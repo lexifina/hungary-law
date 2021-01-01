@@ -92,7 +92,7 @@ részletes szabályait,
 
 34. az államháztartási összesítések konszolidációs rendjét
 
-35. a központosított illetményszámfejtés szabályait,
+35. a központosított illetményszámfejtés szabályait, valamint a központosított illetményszámfejtés körét érintő statisztikai és egyéb adatszolgáltatás rendjét,
 
 36. a letéti pénzkezeléshez kapcsolódóan a letéti számla megnyitásának, a letéti számlán lévő pénzeszközzel való pénzügyi műveletek végzésének és a letéti számla vezetésének szabályait,
 

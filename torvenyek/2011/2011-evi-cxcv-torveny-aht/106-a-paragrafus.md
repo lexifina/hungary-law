@@ -17,3 +17,9 @@ kezelésére.
 (3) Ha a központi költségvetésről szóló törvény alapján a szociális, gyermekjóléti és gyermekvédelmi közfeladatot ellátó intézmény nem állami fenntartója részére olyan támogatás nyújtására kerül sor, amelynek alapján munkabér, illetmény, tiszteletdíj, költségtérítés vagy egyéb pénzbeli juttatás kifizetése történik, annak kifizetése és ellenőrzése céljából a kincstár jogosult annak az érintettnek az (1) bekezdésében meghatározott adatait a (2) bekezdésben meghatározott időtartamban kezelni, akire tekintettel a nem állami intézmény fenntartójának a költségvetési támogatás kifizetésre kerül.
 
 (4) A kincstár a törzskönyvi nyilvántartás vezetése során jogosult a törzskönyvi jogi személy vezetőjének elektronikus azonosítása és képviseleti jogosultságának igazolása céljából a Korm. rendeletben meghatározott adatokon túl az adóazonosító jelének nyilvántartására és kezelésére. A kincstár a törzskönyvi jogi személy vezetőjének adóazonosító jelét harmadik személy részére, jogszabályi felhatalmazás kivételével, nem teszi megismerhetővé.
+
+(5) A kincstár a Kormány rendeletében meghatározott rendben adatot szolgáltat a Kormányzati Személyügyi Döntéstámogató Rendszer részére
+
+a) a Kormányzati Személyügyi Döntéstámogató Rendszerbe feltöltendő foglalkoztatottak létszám-, kereseti- és illetményadatairól egyedi azonosító alkalmazásával, valamint
+
+b) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból.
