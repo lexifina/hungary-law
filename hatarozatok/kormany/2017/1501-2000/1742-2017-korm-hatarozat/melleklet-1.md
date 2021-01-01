@@ -1,21 +1,12 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet címrendjét a 17. Szerencsejáték Felügyelet címmel egészíti ki;
+## 1.[^2]
 
-## Felelős: nemzetgazdasági miniszter
+## 2.[^3]
 
-## Határidő: 2018. január 1.
+## 3.[^4]
 
-## 2. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. címrendjét – 2018. január 1-jei fordulónappal – az 1. melléklet szerint módosítja;
+1. melléklet az 1742/2017. (X. 17.) Korm. határozathoz[^5]
 
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: 2018. január 1.
-
-## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a 2. melléklet szerinti tartós átcsoportosítást rendeli el.
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: 2018. január 1.
-
-1. melléklet az 1742/2017. (X. 17.) Korm. határozathoz
+[^2]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
