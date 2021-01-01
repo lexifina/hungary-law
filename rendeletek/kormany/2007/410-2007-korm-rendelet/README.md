@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-410-20-
 | 2018-07-25 | 2007-410-20-22.32 | 516/2017. (XII. 29.) Korm. rendelet |
 | 2019-11-01 | 2007-410-20-22.33 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2020-07-31 | 2007-410-20-22.34 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2021-01-01 | 2007-410-20-22.35 | 722/2020. (XII. 31.) Korm. rendelet |

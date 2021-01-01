@@ -1,4 +1,4 @@
-9. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^66]
+9. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^64]
 
 | ED törvény 14. § a) pontja szerinti szabályszegés esetén |
 
@@ -30,4 +30,4 @@
 
 | J4 | 40 000 | 110 000 | 165 000 |
 
-[^66]: A 9. mellékletet a 175/2013. (V. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 233/2017. (VIII. 14.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^64]: A 9. mellékletet a 175/2013. (V. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 233/2017. (VIII. 14.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
