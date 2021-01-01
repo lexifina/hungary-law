@@ -68,25 +68,9 @@
 
 ## az e)–f) pontok tekintetében az adott évi központi költségvetés tervezése során
 
-## 10. a 3–6. pontokban meghatározott feladatok ellátása érdekében a Kormány az államháztartásról szóló 2011. CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva, az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet módosításáról szóló 317/2017. (XI. 7.) Korm. rendelet 1. §-ában meghatározott feladatoknak a Miniszterelnökségtől az MMA-hoz történő jogutódlására tekintettel, a feladatok ellátásának biztosítása érdekében az 1. melléklet szerint elrendeli egyszeri jelleggel 10 100 500 forint átcsoportosítását a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XXXIV. Magyar Művészeti Akadémia fejezet, 2. Magyar Építészeti Múzeum cím javára;
+## 10.[^2]
 
-## Felelős: nemzetgazdasági miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## az MMA elnöke
-
-## Határidő: azonnal
-
-## 11. a 3–6. pontokban meghatározott feladatok ellátása érdekében az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet módosításáról szóló 317/2017. (XI. 7.) Korm. rendelet 1. §-ában meghatározott feladatoknak a Miniszterelnökségtől az MMA-hoz történő jogutódlására tekintettel, a feladatok ellátásának biztosítása érdekében a 2. melléklet szerint elrendeli 124 625 500 forint átcsoportosítását, tartós, bázisba épülő jelleggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XXXIV. Magyar Művészeti Akadémia fejezet, 2. Magyar Építészeti Múzeum cím javára;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## az MMA elnöke
-
-## Határidő: a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény végrehajtása során, 2018. január 1-jét követően azonnal
+## 11.[^3]
 
 ## 12. felkéri a Miniszterelnökséget vezető minisztert, hogy az MMA elnökének tájékoztatása alapján a MÉM-MDK munkájáról és a gyűjtemények kezelésének helyzetéről évente számoljon be a Kormánynak.
 
@@ -94,6 +78,9 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1771/2017. (XI. 7.) Korm. határozathoz
+1. melléklet az 1771/2017. (XI. 7.) Korm. határozathoz[^4]
 
 [^1]: A 8. pont az 1209/2018. (IV. 5.) Korm. határozat 8. pontjával megállapított szöveg.
+[^2]: A 10. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 11. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
