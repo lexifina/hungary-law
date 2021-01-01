@@ -4,6 +4,8 @@
 
 (1a) Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtása során az I–V. Fejezet rendelkezéseit a jelen alcímben foglalt eltérésekkel kell alkalmazni.
 
+(1b) A behajtást kérő hatóság előtt ügyfélként eljáró személyt kérelmére az adóhatóság – az Art. 127–128. §-ában foglaltakra is figyelemmel – tájékoztatja a végrehajtási ügy állásáról
+
 (2) Az állami adó- és vámhatóság – a (3) bekezdés szerinti eljárási bírság kilátásba helyezése mellett – felhívja az adóst a meghatározott cselekmény önkéntes teljesítésére, továbbá tájékoztatja a teljesítés elmaradásának következményeiről.
 
 (3) Az önkéntes teljesítés elmaradása esetén az állami adó- és vámhatóság a meghatározott cselekmény végrehajtása érdekében az adóssal szemben a 22. § alkalmazásával eljárási bírságot szabhat ki.
@@ -12,7 +14,7 @@
 
 (5) Ha az adós az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, az eljárási bírság egy alkalommal ismételten kiszabható.
 
-(6) Az állami adó- és vámhatóság a meghatározott cselekményt az adós költségére és veszélyére – akár hivatásos állományú tagjának intézkedésével vagy kényszerítő eszköz alkalmazásával – elvégzi, ha
+(6) Az állami adó- és vámhatóság a meghatározott cselekményt az adós költségére és veszélyére – akár pénzügyőri munkakört betöltő foglalkoztatottjának intézkedésével vagy kényszerítő eszköz alkalmazásával – elvégzi, ha
 
 a) az adós az ismételten kiszabott eljárási bírság ellenére sem teljesítette a meghatározott cselekményt, vagy
 

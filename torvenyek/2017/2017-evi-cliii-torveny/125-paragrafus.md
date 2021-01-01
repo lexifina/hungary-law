@@ -1,1 +1,1 @@
-125. § A 122. § (6) bekezdés szerinti végrehajtás során az állami adó- és vámhatóság hivatásos állományú alkalmazottai a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések megtételére jogosultak.
+125. § A 122. § (6) bekezdés szerinti végrehajtás során az állami adó- és vámhatóság pénzügyőri munkakört betöltő foglalkoztatottjai a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések megtételére jogosultak.

@@ -4,4 +4,4 @@
 
 (3) Az adóhatóság végzésével az adósnak az árverési hirdetmény közlésétől számított 15 napon belül előterjesztett kérelmére, legfeljebb az árverés időpontjától számított 6 hónapra halasztást engedélyezhet az értékesített ingatlan elhagyására.
 
-(4) Ha az adós, illetve az adós jogán az ingatlanban lakó személyek kiköltözési kötelezettségüknek határidőben nem tesznek eleget, az ingatlan kiürítése iránt a végrehajtó – szükség esetén a rendőrség, illetve az állami adó- és vámhatóság hivatásos állományú alkalmazottjának közreműködésével – intézkedik a Vht. vonatkozó rendelkezéseinek megfelelő alkalmazásával.
+(4) Ha az adós, illetve az adós jogán az ingatlanban lakó személyek kiköltözési kötelezettségüknek határidőben nem tesznek eleget, az ingatlan kiürítése iránt a végrehajtó – szükség esetén a rendőrség hivatásos állományú alkalmazottjának, illetve az állami adó- és vámhatóság pénzügyőri munkakört betöltő foglalkoztatottjának közreműködésével – intézkedik a Vht. vonatkozó rendelkezéseinek megfelelő alkalmazásával.

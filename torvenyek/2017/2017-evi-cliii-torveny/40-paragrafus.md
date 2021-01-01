@@ -10,7 +10,7 @@ c) az EKAER szerint az adós részére érkező szállítmány lerakodási hely�
 
 (2) Az (1) bekezdésben foglalt cselekmény foganatosítása során az adóhatóság az ott élő természetes személyek információs magánszféráját kizárólag a szükséges mértékben zavarhatja, továbbá biztosítja, hogy a cselekmény eredményeként tudomására jutott, a végrehajtási eljárás lefolytatásával nem összefüggő, az ott élő természetes személyekhez kapcsolódó információk illetéktelen személyek részére ne váljanak hozzáférhetővé.
 
-(3) Az adós személye elleni kényszercselekményt az állami adó- és vámhatóság jelen lévő hivatásos állományú alkalmazottja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések foganatosításával akkor alkalmazhat, ha az a végrehajtás eredményes befejezéséhez szükséges.
+(3) Az adós személye elleni kényszercselekményt az állami adó- és vámhatóság jelen lévő pénzügyőri munkakört betöltő foglalkoztatottja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések foganatosításával akkor alkalmazhat, ha az a végrehajtás eredményes befejezéséhez szükséges.
 
 (4) A fióktelep útján folytatott tevékenységgel összefüggésben keletkezett tartozás végrehajtása során a külföldi vállalkozás valamennyi belföldön található vagyonára végrehajtás foganatosítható.
 

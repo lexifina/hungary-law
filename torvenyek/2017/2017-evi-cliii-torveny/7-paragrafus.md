@@ -4,7 +4,7 @@
 
 7. § (1) E törvény alkalmazásában
 
-1. adó: az adó, a járulék, az illeték, a díj, hozzájárulás, továbbá a központi költségvetés, a Nemzeti Foglalkoztatási Alap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap vagy az önkormányzat javára teljesítendő, törvényen alapuló kötelező befizetés;
+1. adó: az adó, a járulék, az illeték, a díj, hozzájárulás, továbbá a központi költségvetés, a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap vagy az önkormányzat javára teljesítendő, törvényen alapuló kötelező befizetés;
 
 2. adós: az adózó, az adó megfizetésére kötelezett személy, továbbá a pénzfizetésre vagy a meghatározott cselekmény végrehajtására, tűrésére vagy abbahagyására kötelezett személy;
 
@@ -26,7 +26,7 @@
 
 11. jármű: közúti szállító- vagy vontató eszköz, ideértve az önjáró vagy vontatott munkagépet is;
 
-12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
+12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
 
 13. költségvetési támogatás: az államháztartásról szóló törvény (a továbbiakban: Áht.) szerinti támogatás és az Art. szerinti azon költségvetési támogatások, amelyek az Áht. alapján nem minősülnek támogatásnak;
 
