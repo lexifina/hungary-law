@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1038-30
 | 2018-07-26 | 2017-1038-30-22.6 | 1313/2017. (VI. 8.) Korm. határozat |
 | 2019-03-08 | 2017-1038-30-22.7 | 1313/2017. (VI. 8.) Korm. határozat |
 | 2019-11-28 | 2017-1038-30-22.8 | 1313/2017. (VI. 8.) Korm. határozat |
+| 2021-01-01 | 2017-1038-30-22.9 | 2011: CXCV. törvény |

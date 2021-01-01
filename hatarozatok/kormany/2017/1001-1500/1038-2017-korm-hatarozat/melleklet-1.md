@@ -1,18 +1,6 @@
 ## 1. A Kormány
 
-## a)[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 4 665 000 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
-
-## Határidő: 2018. május 31., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 2865,0 millió forint tekintetében 2020. június 30.
+## a)[^1]
 
 ## b) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva jóváhagyja, hogy a Nemzeti Adó- és Vámhivatal vezetője legfeljebb 5605,0 millió forint keretösszeg erejéig a határátkelőhelyeken átlépő tehergépjárművek és vasúti szerelvények gyorsabb és eredményesebb átvizsgálásának fejlesztéséhez szükséges közúti és vasúti röntgenberendezések beszerzése érdekében több év előirányzatait terhelő kötelezettséget vállaljon;
 
@@ -48,77 +36,8 @@
 
 ## b) az Országvédelmi Alapból történő előirányzat-átcsoportosításról szóló 1851/2016. (XII. 23.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 10. Makovecz Imre Alap jogcímcsoport, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 7000,0 millió forint teljes összegben a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra, valamint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása jogcímcsoport, 2. Közművelődési szakmai feladatok jogcím, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 42,0 millió forint teljes összegben a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-1. melléklet az 1038/2017. (II. 2.) Korm. határozathoz
+1. melléklet az 1038/2017. (II. 2.) Korm. határozathoz[^3]
 
-| XI. Miniszterelnökség XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. ezer forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 5 |  |  |  |  |  | Egyéb feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358595 |  |  |  | 3 |  |  |  |  |  | Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 2 865 000 |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 294502 |  | 1 |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 1 800 000 |  |  |  |
-
-|  |  | 32 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 297102 |  |  | 1 |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -4 665 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 294502 |  | 1 |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  | 1 800 000 |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 5 |  |  |  |  |  | Egyéb feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358595 |  |  |  | 3 |  |  |  |  |  | Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása |  |  |  |  |  |  |  |  | 2 865 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  | azonnal |  | 4 665 000 |  |  |  |  |  |  |  |  | 4 665 000 |  |  |  |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: Az 1. pont a) alpontja az 1313/2017. (VI. 8.) Korm. határozat 9. pontja, az 1133/2018. (III. 26.) Korm. határozat 5. pontja, az 1104/2019. (III. 8.) Korm. határozat 4. pontja, az 1668/2019. (XI. 28.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
