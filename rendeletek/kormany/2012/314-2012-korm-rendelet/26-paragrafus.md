@@ -18,7 +18,7 @@ bc)[^84]
 
 a) a településképi követelményeknek való megfelelést,
 
-b) a településképi rendelet hiányában a telepítés (a környezetbe illeszkedés, a beépítés vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelme) településképbe való illesztését, a helyi építészeti érték védelmének érvényre juttatását, azokra gyakorolt hatását,
+b)[^86] a a telepítés (a környezetbe illeszkedés, a beépítés vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelme) településképbe való illesztését, a helyi építészeti érték védelmének érvényre juttatását, azokra gyakorolt hatását,
 
 c) a közterület mentén az épület kialakításának módját és feltételeit,
 
@@ -28,3 +28,4 @@ d) közterületen folytatott építési tevékenység végzése esetén a közte
 [^83]: A 26. § (1) bekezdés b) pont bb) alpontja a 16/2018. (II. 13.) Korm. rendelet 14. § 9. pontja szerint módosított szöveg.
 [^84]: A 26. § (1) bekezdés b) pont bc) alpontját a 16/2018. (II. 13.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
 [^85]: A 26. § (2) bekezdése a 150/2018. (VIII. 13.) Korm. rendelet 23. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 110. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^86]: A 26. § (3) bekezdés b) pontjaa 677/2020. (XII. 28.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.

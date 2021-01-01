@@ -34,7 +34,7 @@ b) reklámokra, reklámhordozókra továbbá egyéb műszaki berendezésekre és
 
 c) területi építészeti követelmény egyáltalán nem határozható meg.
 
-(8)[^66] A településképi követelmény a világörökségi helyszínre, a világörökségi területre, a nyilvántartott műemléki értékre, műemléki környezetre és műemléki jelentőségű területre vonatkozóan az örökségvédelmi jogszabályban vagy hatósági döntésben foglaltnál szigorúbb helyi követelményt is előírhat, de azokkal nem lehet ellentétes.
+(8)[^66] A településképi követelmény a világörökségi helyszínre, a világörökségi területre, műemlékre, műemléki környezetre és műemléki jelentőségű területre vonatkozóan az örökségvédelmi jogszabályban vagy hatósági döntésben foglaltnál szigorúbb helyi követelményt is előírhat, de azokkal nem lehet ellentétes.
 
 (9) A településképi követelmény a helyi építési szabályzatban meghatározható helyi követelményeket, jogokat és kötelezettségeket nem tartalmazhat.
 
@@ -45,5 +45,5 @@ c) területi építészeti követelmény egyáltalán nem határozható meg.
 [^63]: A 22. § (5) bekezdése a 105/2017. (IV. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 16/2018. (II. 13.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
 [^64]: A 22. § (6) bekezdése a 16/2018. (II. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^65]: A 22. § (7) bekezdése a 16/2018. (II. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^66]: A 22. § (8) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 3. pontja szerint módosított szöveg.
+[^66]: A 22. § (8) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 3. pontja, a 677/2020. (XII. 28.) Korm. rendelet 32. §-a szerint módosított szöveg.
 [^67]: A 22. § (10) bekezdését a 16/2018. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 22. [^120] A településfejlesztési koncepció és az integrált településfejlesztési stratégia készítése, módosítása egyeztetésének és elfogadásának szabályai
+## 22. [^123] A településfejlesztési koncepció és az integrált településfejlesztési stratégia készítése, módosítása egyeztetésének és elfogadásának szabályai
 
 30. § (1) Az új koncepció és stratégia készítésénél, a 28. §-t és a 29. §-t, valamint a (2)–(13) bekezdést, a meglévő koncepció és stratégia módosítása során a 28. §-t és a 29. §-t, valamint a (7)–(13) bekezdést együttesen kell alkalmazni.
 
@@ -52,4 +52,4 @@ b) az állami főépítészi hatáskörében eljáró fővárosi és megyei korm
 
 (13) A koncepció, a stratégia és ezek módosításának elfogadásáról és honlapon való közzétételéről a polgármester 5 napon (a főváros esetében 10 napon) belül értesítést küld az egyeztetésben részt vetteknek és az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak.
 
-[^120]: A 22. alcím (30. §) a 400/2016. (XII. 5.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^123]: A 22. alcím (30. §) a 400/2016. (XII. 5.) Korm. rendelet 17. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 (2) A kérelemnek tartalmaznia kell az építtető vagy kérelmező nevét és címét, valamint a tervezett és véleményezésre kért építési tevékenység helyét, az érintett telek helyrajzi számát. A kérelemhez csak az (1) bekezdés szerinti építészeti-műszaki dokumentációt kell mellékelni.
 
-(3)[^86] Az építészeti-műszaki dokumentációnak a véleményezéshez az alábbi munkarészeket kell tartalmaznia:
+(3)[^87] Az építészeti-műszaki dokumentációnak a véleményezéshez az alábbi munkarészeket kell tartalmaznia:
 
 a) az egyedi építészeti követelményeknek való megfelelést igazoló építészeti-műszaki tervet,
 
@@ -16,7 +16,11 @@ a) az önkormányzati főépítész szakmai álláspontját, vagy
 
 b) helyi tervtanács működtetése esetén annak szakmai álláspontját.
 
-(4a)[^87] Az önkormányzati főépítész és a helyi tervtanács szakmai álláspontját a településképi rendeletben foglalt követelmények figyelembevételével, valamint a kézikönyvben foglalt megállapítások, ajánlások ismeretében alakítja ki.
+(4a)[^88] Az önkormányzati főépítész és a helyi tervtanács szakmai álláspontját a településképi rendeletben foglalt követelmények figyelembevételével, valamint a kézikönyvben foglalt megállapítások, ajánlások ismeretében alakítja ki.
+
+(4b)[^89] Ha a települési önkormányzat nem alkalmaz önkormányzati főépítészt vagy nem működtet helyi építészeti-műszaki tervtanácsot, a polgármester a településképi véleményezési eljárás során kikérheti az állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal szakmai véleményét. A szakmai véleményét a kormányhivatal a 26. § (3) bekezdésében foglaltak szerint 15 napon belül alakítja ki, és azt megküldi a polgármester részére. A polgármester településképi véleménye kialakítása során érdemben vizsgálja a kormányhivatal szakmai véleményét, amelyet településképi véleményével egyidejűleg, annak mellékleteként megküld a véleményt kérő részére is.
+
+(4c)[^90] A településképi vélemény kiadására meghatározott határidőbe nem számít bele a kormányhivatal véleményének kiadására rendelkezésre álló határidő. Ha a kormányhivatal a (4b) bekezdésben foglalt határidőn belül nem nyilatkozik, azt támogató szakmai véleménynek kell tekinteni.
 
 (5) A polgármester vagy főpolgármester véleményében
 
@@ -26,7 +30,7 @@ b) engedélyezésre nem javasolja a tervezett építési tevékenységet, ha
 
 ba) a kérelem vagy melléklete nem felel meg az e rendeletben meghatározottaknak, vagy
 
-bb)[^88] a (4) bekezdés szerinti szakmai álláspont a tervezett építési tevékenységet nem támogatja.
+bb)[^91] a (4) bekezdés szerinti szakmai álláspont a tervezett építési tevékenységet nem támogatja.
 
 (6) A polgármester vagy főpolgármester véleménye tartalmazza:
 
@@ -40,6 +44,8 @@ c) az (5) bekezdés szerinti véleményét és annak részletes indokolását.
 
 (8) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
 
-[^86]: A 26/A. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^87]: A 26/A. § (4a) bekezdését a 16/2018. (II. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^88]: A 26/A. § (5) bekezdés b) pont bb) alpontja a 16/2018. (II. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^87]: A 26/A. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^88]: A 26/A. § (4a) bekezdését a 16/2018. (II. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^89]: A 26/A. § (4b) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^90]: A 26/A. § (4c) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^91]: A 26/A. § (5) bekezdés b) pont bb) alpontja a 16/2018. (II. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
