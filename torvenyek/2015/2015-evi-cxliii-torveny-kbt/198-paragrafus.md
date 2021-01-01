@@ -30,7 +30,7 @@
 
 13. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 
-14. a 195. § (1) bekezdés szerinti szerveket, az ellenőrzést, engedélyezést végző szerveket, valamint az ellenőrzés és engedélyezés eseteit és módját;
+14. a 195. § (1) bekezdés szerinti szerveket és az e szervezetek közbeszerzéseinél a közbeszerzések előkészítésére, a közbeszerzési eljárás feltételeire vagy a szerződés tartalmára vonatkozó követelményeket;
 
 15. a részben vagy egészben nem hazai költségvetési forrásból megvalósuló, uniós értékhatárokat elérő vagy meghaladó értékű árubeszerzés, szolgáltatás és szolgáltatási koncesszió, továbbá a háromszázmillió forintot elérő vagy meghaladó értékű építési beruházás és építési koncesszió esetén a lefolytatott közbeszerzési eljárás ellenőrzésére, valamint az e közbeszerzési eljárások eredményeképpen létrejött szerződés módosításának engedélyezésére vonatkozó részletes szabályokat;
 
@@ -42,6 +42,8 @@
 
 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
 
-20. az ajánlatkérők közbeszerzési értékhatárt el nem érő, a 4. § (3) bekezdése szerinti beszerzéseinek megvalósítására vonatkozó követelményeket, valamint a 195. § (4) bekezdésében meghatározott ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő beszerzéseivel kapcsolatos adatoknak, dokumentumoknak a közbeszerzésekért felelős miniszter részére történő megküldésére és ezen ajánlatkérők beszerzéseinek a közbeszerzésekért felelős miniszter általi ellenőrzésére vonatkozó szabályokat;
+20.
 
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
+
+22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;

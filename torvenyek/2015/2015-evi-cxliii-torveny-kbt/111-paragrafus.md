@@ -36,7 +36,7 @@ p) olyan szolgáltatás megrendelése esetében, amely a pártok működését s
 
 q) a külképviselet számára történő beszerzés esetén;
 
-r) az épített környezet alakításáról és védelméről szóló törvény szerinti épületre vonatkozó építészeti-műszaki tervezési szolgáltatás, belsőépítészeti tervezési szolgáltatás, településtervezési vagy tájrendezési tervezési szolgáltatás megrendelésére – az ezekhez kapcsolódó szakági tervezési tevékenységekre kizárólag akkor, ha annak megrendelésére építészeti, belsőépítészeti, településtervezési vagy tájrendezési tervezéssel együttesen, ugyanazon tervezett építési beruházás tekintetében kerül sor;
+r) az épített környezet alakításáról és védelméről szóló törvény szerinti épületre vonatkozó építészeti-műszaki tervezési szolgáltatás, belsőépítészeti tervezési szolgáltatás, településtervezési vagy tájrendezési tervezési szolgáltatás megrendelésére – az ezekhez kapcsolódó szakági és az épület rendeltetésszerű használatához szükséges tervezési tevékenységekre kizárólag akkor, ha annak megrendelésére építészeti, belsőépítészeti, településtervezési vagy tájrendezési tervezéssel együttesen, ugyanazon tervezett építési beruházás tekintetében kerül sor;
 
 s) a 71241000-9, 71242000-6, 71244000-0, 71246000-4, 71247000-1 CPV kódok által meghatározott szolgáltatásokra, feltéve, hogy a szolgáltatás megrendelésére az r) pontban meghatározott tervezési szolgáltatással együttesen, ugyanazon építési beruházás tekintetében kerül sor;
 
@@ -44,9 +44,9 @@ t) a védett munkahelyen, megváltozott munkaképességű személyek által elő
 
 u) mezőgazdasági termelő, kutató tevékenység során felhasználásra kerülő 24400000-8-tól 24457000-2-ig tartó CPV kódok által meghatározott termésnövelő anyagok és engedélyezett növényvédő szerek beszerzésére;
 
-v) a kutatás-fejlesztési és innovációs célú támogatásból megvalósuló beszerzésekre a 24000000-4-tól 24327500-7-ig és 24500000-9-tól 24965000-6-ig tartó CPV kódok által meghatározott áruk vonatkozásában;
+v) kutatás-fejlesztési vagy innovációs tevékenység végzéséhez közvetlenül kapcsolódó, speciálisan az ilyen tevékenység megvalósítását szolgáló áruk és szolgáltatások beszerzésére;
 
-x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti;
+x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (1)–(2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása vagy a 6. § (1)–(2) bekezdésében meghatározott tevékenységet végző más jogi személy jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti;
 
 y) az éves nettó 10 millió forintot meg nem haladó árbevételű start szövetkezet által előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 

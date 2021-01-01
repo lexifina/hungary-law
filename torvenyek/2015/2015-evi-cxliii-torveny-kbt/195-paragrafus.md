@@ -1,6 +1,6 @@
 ## A közbeszerzésekért felelős miniszter egyéb feladatai
 
-195. § (1) A Kormány rendelete lehetőséget adhat arra, hogy jogszabályban meghatározott, a Kormány felügyelete alá tartozó szerv és a Kormány közvetlenül vagy közvetetten meghatározó befolyása alá tartozó gazdasági társaság, valamint a vagyonkezelésükben lévő vagy általuk alapított alapítványok esetében a közbeszerzési eljárásokat, építési vagy szolgáltatási koncessziós beszerzési eljárásokat, az ezek alapján kötött szerződések módosítását, valamint e szervezetek nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötését és módosítását a Kormány rendeletében meghatározott szerv jogszabályban meghatározott esetekben és módon engedélyezze, valamint ellenőrizze.
+195. § (1) A Kormány az általa rendeletben meghatározott, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek, az állam 100%-os tulajdonában lévő gazdasági társaság, vagy ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság esetében a közbeszerzési gyakorlat alakítását szolgáló, e törvénnyel összhangban álló követelményeket határozhat meg.
 
 (2) A közbeszerzésekért felelős miniszter hagyja jóvá a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítását, valamint irányítja, felügyeli és ellenőrzi a közbeszerzési tárgyú képzéseket.
 
@@ -8,7 +8,7 @@
 
 (3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat jogszabály tartalmazza.
 
-(4) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek, amelyekben az állam nevében a tulajdonosi (például részvényesi, tagsági) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján a Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja, a közbeszerzésekért felelős miniszter kérésére kötelesek a közbeszerzéseikkel összefüggő bármely adatot, dokumentumot a miniszter részére öt munkanapon belül megküldeni. Ezen ajánlatkérők kötelesek a közbeszerzési értékhatárt el nem érő értékű, a 4. § (3) bekezdése szerinti beszerzéseikkel kapcsolatos adatokat a Kormány rendeletében meghatározottak szerint a közbeszerzésekért felelős miniszter részére megküldeni. A közbeszerzésekért felelős miniszter jogosult arra, hogy más szerv feladatkörébe tartozó jogsértés gyanúja esetén a hatáskörrel rendelkező szervnek átadja a Kormány rendeletében meghatározottak szerint végzett, a közbeszerzési értékhatárt el nem érő értékű beszerzések ellenőrzése révén rendelkezésére álló bármely adatot.
+(4)
 
 (5)
 

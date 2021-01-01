@@ -10,4 +10,4 @@
 
 (5) A – főként a település- és területrendezés, építészet és építés, illetve adatfeldolgozás területén alkalmazható – tervpályázati eljárásra vonatkozó részletes szabályokat külön jogszabály határozza meg.
 
-(6)
+(6) A 3. melléklet szerinti, közétkeztetés tárgyú közbeszerzésekre e törvényt a kormányrendeletben meghatározott sajátos rendelkezéseket figyelembe véve kell alkalmazni.

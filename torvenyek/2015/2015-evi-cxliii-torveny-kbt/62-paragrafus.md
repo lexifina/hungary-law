@@ -18,7 +18,7 @@ ad) az 1978. évi IV. törvény, illetve a Btk. szerinti terrorcselekmény, vala
 
 ae) az 1978. évi IV. törvény, illetve a Btk. szerinti pénzmosás, valamint a Btk. szerinti terrorizmus finanszírozása;
 
-af) az 1978. évi IV. törvény, illetve a Btk. szerinti emberkereskedelem, valamint a Btk. szerinti kényszermunka;
+af) az 1978. évi IV. törvény, illetve a Btk. szerinti emberkereskedelem és kényszermunka, valamint az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. szerinti kényszermunka;
 
 ag) az 1978. évi IV. törvény, illetve a Btk. szerinti versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban;
 
