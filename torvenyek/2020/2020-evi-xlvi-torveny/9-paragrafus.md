@@ -4,8 +4,8 @@
 
 a)
 
-b)
+b) 21. § (1) bekezdésében a „12” szövegrész helyébe a „11” szöveg,
 
-c)
+c) 23. § (2) bekezdésében a „12” szövegrész helyébe a „11” szöveg
 
 lép.
