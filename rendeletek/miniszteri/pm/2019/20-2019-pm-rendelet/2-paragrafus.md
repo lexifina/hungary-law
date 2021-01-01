@@ -1,1 +1,0 @@
-## 1. § A Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. mellékletében meghatározott, a pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok felhasználási szabályait az 1–9. melléklet tartalmazza.
