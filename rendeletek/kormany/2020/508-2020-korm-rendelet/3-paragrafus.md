@@ -1,3 +1,5 @@
-## 2. §[^1]
+## 2. § A Kormány a Jegyzőkönyvet e rendelettel kihirdeti.
 
-[^1]: A 2. § a 6. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+3. § (1) A Jegyzőkönyv hivatalos magyar nyelvű fordítását az 1. melléklet tartalmazza.
+
+(2) A Jegyzőkönyv hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
