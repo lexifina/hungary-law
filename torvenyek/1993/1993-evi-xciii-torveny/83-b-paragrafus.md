@@ -4,7 +4,13 @@
 
 a) a munkáltató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy munkáltató nevét, lakcímét, adóazonosító jelét;
 
-b) a jogsértést megállapító határozat keltét és számát, véglegessé válásának és végrehajthatóvá válásának időpontját;
+b) a jogsértést megállapító határozat
+
+ba) keltét,
+
+bb) számát, valamint
+
+bc) véglegessé válásának és végrehajthatóvá válásának időpontját;
 
 c) a jogsértés megjelölését;
 
@@ -12,7 +18,7 @@ d) a munkavédelmi bírság tényét és mértékét;
 
 e) közigazgatási per esetén a jogerős bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a bíróság milyen döntést hozott.
 
-(2a) Az (1) bekezdésben meghatározott nyilvántartás – a (2) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2a) Az (1) bekezdésben meghatározott nyilvántartás – a (2) bekezdés a) pontjában, és b) pont bb) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A hatósági nyilvántartás adatait a munkavédelmi hatóság informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkavédelmi hatóság által történik a jogsértést megállapító határozat véglegessé válásának napján, a határozat közigazgatási perben való megtámadása esetén a bíróság határozatának jogerőre emelkedésének napján.
 

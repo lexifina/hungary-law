@@ -8,4 +8,8 @@ c) a foglalkozási megbetegedéssel kapcsolatos adatszolgáltatási kötelezetts
 
 d) a munkáltató képviselőjeként a munkavédelmi képviselő választásra vonatkozó szabályokat megszegi, a munkavédelmi képviselőt a munkavédelemre vonatkozó szabályban biztosított jogainak gyakorlásában akadályozza, vagy a munkavédelmi képviselővel szemben jogainak gyakorlása miatt hátrányos intézkedést tesz.
 
-(2) Az (1) bekezdés alapján kiszabott bírság összege ötszázezer forintig terjedhet. A közigazgatási bírság egy eljárásban, ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
+(2) Az (1) bekezdés alapján kiszabott közigazgatási bírság összege ötszázezer forintig terjedhet. A közigazgatási bírság egy eljárásban, ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
+
+(3) A honvédelemért felelős miniszter feladat- és hatáskörébe tartozó eljárások kivételével az (1) bekezdés a) pontjában meghatározott jogszabálysértés esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
+
+(4) Az (1) bekezdésben meghatározott jogszabálysértés esetén a munkavédelmi hatóság a közigazgatási bírságot helyszíni bírságként is kiszabhatja.

@@ -32,26 +32,18 @@ k) a veszélyes munkahelyen, veszélyes munkaeszközzel vagy veszélyes technol�
 
 (4) A munkavédelmi hatóság a munkavédelmi bírságot telephelyenként szabja ki, amennyiben az azonos időben lefolytatott eljárás során megállapítást nyer, hogy az (1) bekezdésben leírt veszélyeztetést ugyanazon jogszabályi rendelkezést megsértve a munkáltató több telephelyén valósítja meg.
 
-(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró felügyelő javaslata alapján a munkavédelmi hatóság szabja ki. A munkavédelmi hatóság a bírságot
+(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró felügyelő javaslata alapján a munkavédelmi hatóság szabja ki. A munkavédelmi hatóság a munkavédelmi bírság összegének megállapításánál a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett mérlegeli
 
-a) a veszélyeztetés mértékének,
+a) a megsértett jogszabályi előírások számát,
 
-b) a veszélyeztetettek számának,
+b) a veszélyeztetés várható következményeit,
 
-c) a veszélyeztetés időtartamának, ismétlődő jellegének,
+c) a sérülés és az egészségkárosodás mértékét,
 
-d) a megsértett jogszabályi előírások számának,
+d) a munkáltató vagy a 40. § (2) bekezdésében meghatározott összehangolási kötelezettséget elmulasztó személy vagy szervezet által foglalkoztatott munkavállalók számát és éves nettó árbevételét vagy mérlegfőösszegét,
 
-e) a veszélyeztetés várható következményeinek,
+e) a határértékkel jellemzett kóroki tényezőkre megadott határérték túllépése mértékét, valamint
 
-f) a sérülés és az egészségkárosodás mértékének,
-
-g) a munkáltató vagy a 40. § (2) bekezdésében meghatározott összehangolási kötelezettséget elmulasztó személy vagy szervezet által foglalkoztatott munkavállalók számának és éves nettó árbevételének vagy mérlegfőösszegének,
-
-h) a határértékkel jellemzett kóroki tényezőkre megadott határérték túllépése mértékének, valamint
-
-i) a bírság kiszabására okot adó veszélyeztetés kialakulásához vezető egyéb mulasztás személyi és tárgyi körülményeinek
-
-mérlegelésével szabja ki.
+f) a bírság kiszabására okot adó veszélyeztetés kialakulásához vezető egyéb mulasztás személyi és tárgyi körülményeit.
 
 (6) Az (1) bekezdés alapján kiszabott pénzbírságot a munkavédelmi hatóság kincstári előirányzat-felhasználási keretszámlájára kell befizetni.

@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-93-00-00
 | 2019-03-01 | 2018. évi CXXV. törvény | 1993-93-00-00.46 |
 | 2020-01-01 | 2019. évi CXXVI. törvény | 1993-93-00-00.47 |
 | 2020-03-01 | 2019. évi CX. törvény | 1993-93-00-00.48 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1993-93-00-00.49 |
