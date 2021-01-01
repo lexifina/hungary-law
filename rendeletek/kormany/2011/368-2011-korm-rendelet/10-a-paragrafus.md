@@ -1,3 +1,3 @@
-10/A. §[^44] A gazdasági szervezetnek a 13. § (5) bekezdése szerinti ügyrenddel kell rendelkeznie. A gazdasági szervezet ügyrendjében nem kell szabályozni a 13. § (2)–(3a) bekezdése szerint kiadott szabályzatokban rendezett kérdéseket. Ha a gazdasági szervezet feladatait több szervezeti egység látja el, a szervezeti egységeknek külön-külön kell rendelkezniük ügyrenddel, de a gazdasági szervezet egészére nézve nem kell külön ügyrendet készíteni.
+10/A. §[^47] A gazdasági szervezetnek a 13. § (5) bekezdése szerinti ügyrenddel kell rendelkeznie. A gazdasági szervezet ügyrendjében nem kell szabályozni a 13. § (2)–(3a) bekezdése szerint kiadott szabályzatokban rendezett kérdéseket. Ha a gazdasági szervezet feladatait több szervezeti egység látja el, a szervezeti egységeknek külön-külön kell rendelkezniük ügyrenddel, de a gazdasági szervezet egészére nézve nem kell külön ügyrendet készíteni.
 
-[^44]: Az Ávr. 10/A. §-át a 20/2015. (II. 17.) Korm. rendelet 8. §-a iktatta be.
+[^47]: Az Ávr. 10/A. §-át a 20/2015. (II. 17.) Korm. rendelet 8. §-a iktatta be.

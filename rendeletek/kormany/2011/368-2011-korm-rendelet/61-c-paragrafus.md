@@ -1,10 +1,10 @@
-61/C. §[^277] (1)[^278] A költségvetési felügyelő tevékenységéről havonta írásban beszámol az államháztartásért felelős miniszternek, valamint kijelölt szerv esetén a fejezetet irányító szerv vezetőjének, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság tulajdonosi joggyakorlójának.
+61/C. §[^282] (1)[^283] A költségvetési felügyelő tevékenységéről havonta írásban beszámol az államháztartásért felelős miniszternek, valamint kijelölt szerv esetén a fejezetet irányító szerv vezetőjének, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság tulajdonosi joggyakorlójának.
 
-(2)[^279] Az (1) bekezdésben foglaltakon túl a költségvetési felügyelő az államháztartásért felelős miniszter felhívására is köteles a tevékenységéről beszámolni.
+(2)[^284] Az (1) bekezdésben foglaltakon túl a költségvetési felügyelő az államháztartásért felelős miniszter felhívására is köteles a tevékenységéről beszámolni.
 
-(3)[^280]
+(3)[^285]
 
-[^277]: Az Ávr. 61/C. §-át a 175/2015. (VII. 7.) Korm. rendelet 6. §-a iktatta be.
-[^278]: Az Ávr. 61/C. § (1) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
-[^279]: Az Ávr. 61/C. § (2) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
-[^280]: Az Ávr. 61/C. § (3) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 26. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^282]: Az Ávr. 61/C. §-át a 175/2015. (VII. 7.) Korm. rendelet 6. §-a iktatta be.
+[^283]: Az Ávr. 61/C. § (1) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^284]: Az Ávr. 61/C. § (2) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^285]: Az Ávr. 61/C. § (3) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 26. § (1) bekezdés 3. pontja hatályon kívül helyezte.
