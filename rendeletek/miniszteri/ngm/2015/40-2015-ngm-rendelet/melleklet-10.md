@@ -12,21 +12,23 @@
 
 ## lakcíme:
 
-## személyazonosító vagy személyi igazolvány száma:
+## A hatósági vizsga típusa (a megfelelő aláhúzandó):
 
-| A hatósági vizsga típusa: (a megfelelő aláhúzandó) | – pénzügyi szolgáltatás közvetítői |
+## – pénzügyi szolgáltatás közvetítői
 
-| – függő biztosításközvetítői |
+## – függő biztosításközvetítői
 
-| – független biztosításközvetítői |
+## – független biztosításközvetítői
 
-| – független biztosításközvetítői különbözeti |
+## – független biztosításközvetítői különbözeti
 
-| – tőkepiaci üzletkötői |
+## – tőkepiaci üzletkötői
 
-| A hatósági vizsgára bocsátás alapja: (a megfelelő aláhúzandó) | – érettségi vizsga |
+## A hatósági vizsgára bocsátás alapja (a megfelelő aláhúzandó):
 
-| – igazolt négy éves szakmai tapasztalat |
+## – érettségi vizsga
+
+## – igazolt négyéves szakmai tapasztalat
 
 ## A hatósági vizsga tervezett időpontja:
 
@@ -34,7 +36,9 @@
 
 ## Megismételt vizsga esetén az előző, sikertelen vizsga helyszíne és időpontja:
 
-## Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak feltételeit elfogadom. Hozzájárulok a természetes személyazonosító- és lakcímadataim Magyar Nemzeti Bank általi kezeléséhez.
+## Sikeres vizsga letétele esetén a tanúsítvány papíralapú kiállítását kérem: □
+
+## Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem, és annak feltételeit elfogadom.
 
 ## ..........................................., 20.... ............................................
 
@@ -44,6 +48,6 @@
 
 ## Megjegyzés:
 
-10. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^32]
+10. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^35]
 
-[^32]: A 10. melléklet a 21/2016. (VI. 29.) NGM rendelet 24. § d) pontja alapján nem lép hatályba.
+[^35]: A 10. melléklet a 21/2016. (VI. 29.) NGM rendelet 24. § d) pontja alapján nem lép hatályba.
