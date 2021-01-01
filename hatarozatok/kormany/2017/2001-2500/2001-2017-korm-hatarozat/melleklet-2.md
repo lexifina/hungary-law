@@ -1,3 +1,5 @@
+## 7K35303_0
+
 | XI. Miniszterelnökség ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. forintban |
 
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
@@ -42,4 +44,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. melléklet a 2001/2017. (XII. 21.) Korm. határozathoz
+2. melléklet a 2001/2017. (XII. 21.) Korm. határozathoz[^10]
+
+[^10]: A 2. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
