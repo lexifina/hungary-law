@@ -8,7 +8,7 @@ b) a Kedvezményezett az ajánlattételtől számított 30 napon belül a Közpo
 
 c) a Központi Ellátó Szerv az 1. § (4) bekezdése szerinti nyilatkozatot 30 napon belül kiadja.
 
-(3)[^27] A 6. §-ban meghatározott eljárási szabályok alkalmazása esetén, ha
+(3)[^28] A 6. §-ban meghatározott eljárási szabályok alkalmazása esetén, ha
 
 a) a felek az ellátási megállapodást a Kedvezményezett hibájából 2 hónapon belül nem kötik meg, vagy
 
@@ -16,4 +16,4 @@ b) a Kedvezményezett az ajánlattételtől számított 30 napon belül a Közpo
 
 a Központi Ellátó Szerv az ellátási megállapodás megkötésétől és az ellátási igény teljesítésétől eláll.
 
-[^27]: A 7. § (3) bekezdését a 76/2020. (III. 31.) Korm. rendelet 9. §-a iktatta be.
+[^28]: A 7. § (3) bekezdését a 76/2020. (III. 31.) Korm. rendelet 9. §-a iktatta be.

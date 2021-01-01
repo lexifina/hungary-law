@@ -1,4 +1,4 @@
-1. melléklet a 44/2011. (III. 23.) Korm. rendelethez[^37]
+1. melléklet a 44/2011. (III. 23.) Korm. rendelethez[^38]
 
 1. Kedvezményezett neve;
 
@@ -12,7 +12,7 @@
 
 6. (Köz)beszerzés ideje (év, hónap);
 
-7.[^38] (Köz)beszerzés fajtája [(Köz)beszerzési eljárás fajtája, fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások beszerzése, Kbt. egyéb kivételi körébe tartozó beszerzés, stb.];
+7.[^39] (Köz)beszerzés fajtája [(Köz)beszerzési eljárás fajtája, fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások beszerzése, Kbt. egyéb kivételi körébe tartozó beszerzés, stb.];
 
 8. (Köz)beszerzési eljárás fajtája, fogvatartottaktól történt beszerzés, Kbt. egyéb kivételi körébe tartozó beszerzés, stb.;
 
@@ -22,5 +22,5 @@
 
 11. Nyilatkozattételre jogosult személy neve, beosztása.
 
-[^37]: Az 1. mellékletet a 17/2013. (I. 30.) Korm. rendelet 9. §-a iktatta be.
-[^38]: Az 1. melléklet 7. pontja a 447/2013. (XI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^38]: Az 1. mellékletet a 17/2013. (I. 30.) Korm. rendelet 9. §-a iktatta be.
+[^39]: Az 1. melléklet 7. pontja a 447/2013. (XI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

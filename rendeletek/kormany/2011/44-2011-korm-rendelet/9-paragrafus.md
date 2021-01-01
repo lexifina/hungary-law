@@ -2,7 +2,7 @@
 
 ## 6. Ellátási megállapodás
 
-## 9. §[^29] A Központi Ellátó Szerv és a Kedvezményezett között létrejött ellátási megállapodás tartalmazza különösen
+## 9. §[^30] A Központi Ellátó Szerv és a Kedvezményezett között létrejött ellátási megállapodás tartalmazza különösen
 
 a) a felek azonosító adatait,
 
@@ -22,4 +22,4 @@ h) a Kedvezményezett által kiállított fedezetigazolást,
 
 i) a közbeszerzési eljárás lefolytatása érdekében a bíráló bizottságba delegált közbeszerzés tárgya szerinti szakértelemmel rendelkező tag megnevezését, és a delegált tag nyilatkozatát arról, hogy a delegálást elfogadja, és a bíráló bizottság munkájában a közbeszerzési eljárás során részt vesz.
 
-[^29]: A 9. § a 76/2020. (III. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^30]: A 9. § a 76/2020. (III. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
