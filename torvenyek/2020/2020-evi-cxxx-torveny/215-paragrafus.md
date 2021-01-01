@@ -1,0 +1,57 @@
+## XX. Fejezet
+
+## BÍRÓSÁGI JOGORVOSLAT
+
+### 215. § [Bírósági jogorvoslat]
+
+(1) A foglalkoztatott a szolgálati jogviszonyból származó igényének érvényesítése érdekében, ha e törvény eltérően nem rendelkezik – a (3) és (4) bekezdésben meghatározott esetek kivételével az igény érvényesítésére vonatkozó elévülési időn belül – közvetlenül bírósághoz fordulhat.
+
+(2) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a foglalkoztatott bírósághoz akkor fordulhat, ha e törvény megengedi.
+
+(3) A keresetet a sérelmezett munkáltatói intézkedésről szóló irat közlésétől számított harminc napon belül lehet a bírósághoz benyújtani
+
+a) a szolgálati jogviszony megszüntetésével;
+
+b) a kinevezés egyoldalú módosításával;
+
+c) az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítással;
+
+d) a teljesítményértékelés alapján hozott munkáltatói intézkedéssel;
+
+e) a fizetési felszólítással kapcsolatos ügyben, kivéve, ha azt e törvény kizárja;
+
+f) a fegyelmi ügyben hozott határozattal;
+
+g) a kártérítési ügyben hozott határozattal;
+
+h) a kártérítési felelősséget megállapító határozattal vagy önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel;
+
+i) az állásból való felfüggesztéssel;
+
+j) a sérelemdíj megfizetése ügyében hozott határozattal;
+
+k) az egészségkárosodási ellátásra jogosultság tárgyában hozott NAV vezetői döntéssel
+
+kapcsolatos ügyekben.
+
+(4) Megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének 21. § (9) bekezdése szerinti megállapításától számított harminc napon belül lehet előterjeszteni.
+
+(5) A (3) bekezdés b)–g) és j) pontjában foglalt esetekben a keresetlevél benyújtásának halasztó hatálya van, ide nem értve
+
+a) ha a 195. § (3) bekezdése alapján a fegyelmi határozat azonnal végrehajthatóvá válik, és a 195. § (5)–(6) bekezdése szerinti esetet,
+
+b) a (3) bekezdés b) pontja szerinti esetet akkor,
+
+ba) ha az érintett munkavégzési helye megszűnése miatt kerül sor a 47. § (2) bekezdés f) pontja alkalmazására,
+
+bb) ha a kinevezés egyoldalú módosítása a 47. § (2) bekezdés e) pontján, a 47. § (4) bekezdésén vagy a 142. § (1) bekezdésén alapul, illetve
+
+bc) ha a kinevezési okirat szerinti szervezeti egységet érintő átszervezés miatt kerül sor a 47. § (2) bekezdés f) pont alkalmazására,
+
+c) a (3) bekezdés d) pontja alapján megtámadott teljesítményértékelésen alapuló intézkedést, kivéve, ha az intézkedés a (3) bekezdés a) pontja szerinti esettel egyezik meg.
+
+(6) Ha a teljesítményértékelésen alapuló munkáltatói intézkedés elleni perben hozott jogerős ítélet alapján az állapítható meg, hogy – az (5) bekezdés c) pontja alapján a bíróság jogerős döntése előtt is végrehajtható – teljesítményértékelésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (7) bekezdésben meghatározott kivétellel – harminc napon belül helyre kell állítani.
+
+(7) Ha a végrehajtott intézkedés miatt az érintettet jövedelemkiesés is érte, a különbözetet az intézkedés végrehajtásának időpontjától számítva, a Ptk. szerinti kamattal növelt összegben, tizenöt napon belül ki kell fizetni.
+
+(8) Az érdekképviseleti szerv, valamint a NAV az e törvényből származó igényét – a NAV esetében kivéve, ha e törvény eltérően rendelkezik – bíróság előtt érvényesítheti.

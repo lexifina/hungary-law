@@ -1,0 +1,7 @@
+### 16. § [Tájékoztatási kötelezettség]
+
+(1) Ha szolgálati jogviszonyra vonatkozó szabály valamely fél számára tájékoztatási kötelezettséget ír elő, azt olyan időben és módon kell megtenni, hogy az lehetővé tegye a jog gyakorlását és a kötelezettség teljesítését.
+
+(2) Ha a munkáltatói jogkör gyakorlója szolgálati jogviszonyra vonatkozó szabály alapján vagy egyéb okból a személyi állomány egészének vagy egy részének szóló (általános) tájékoztatást ad, a tájékoztatást közöltnek kell tekinteni, ha azt a helyben szokásos és a személyi állomány által ismert módon (ideértve az elektronikus közlést is) közzéteszik.
+
+(3) A (2) bekezdés az irányadó a 157. § szerinti, az érintett részére elektronikus úton hozzáférhetővé tett illetményről vagy egyéb járandóságról való elszámolásra is.

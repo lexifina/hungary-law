@@ -1,0 +1,7 @@
+### 206. § [Kártérítés alóli mentesítés]
+
+(1) A munkáltatói jogkör gyakorlója a kártérítést megállapító határozatban, illetve az érintett körülményeiben bekövetkezett lényeges változásra tekintettel – a kártérítés összegének megfizetéséig – utólag, az érintett kérelmére a foglalkoztatottat rendkívüli méltánylást érdemlő körülmények alapján a kártérítés alól részben vagy egészben mentesítheti (méltányosság). Ennek során különösen a károkozó cselekménnyel összefüggő feladatvégrehajtás sürgősségét, valamint egyéb sajátos körülményeit, a kérelmező jövedelmi, vagyoni helyzetét, valamint egyéb körülményeit, a jogsértés súlyát, a károkozás mértékét, a kártérítés teljesítésének következményeit értékeli.
+
+(2) Méltánylást érdemlő személyi körülményekre tekintettel a munkáltatói jogkör gyakorlója a kártérítést megállapító határozatban kérelemre a kártérítés levonását elhalaszthatja, illetve részletfizetést engedélyezhet (fizetési könnyítés).
+
+(3) Ha a foglalkoztatott az esedékes részletet tizenöt napot meghaladóan sem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben, a nem teljesített részlet esedékességétől számított, Ptk. szerinti kamattal növelten esedékessé válik, illetve a NAV a követelését a 158. § szerinti levonás útján érvényesítheti. Ugyanígy kell eljárni, ha a foglalkoztatott a fizetési halasztásra engedélyezett határidőt követően tizenöt napot meghaladóan sem teljesít.

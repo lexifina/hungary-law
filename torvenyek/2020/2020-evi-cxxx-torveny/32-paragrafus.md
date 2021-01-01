@@ -1,0 +1,27 @@
+### 32. § [Eljárás nemzetbiztonsági ellenőrzés alá eső munkakör esetén]
+
+(1) A jogszabály alapján nemzetbiztonsági ellenőrzés alá eső munkakör betöltésére szolgálati jogviszony nem létesíthető azzal, akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha törvény szerint arra feljogosított személy a szolgálati jogviszony létesítését jóváhagyta.
+
+(2) Ha a nemzetbiztonsági ellenőrzés alá eső szolgálati jogviszonyba jelölt személy
+
+a) nemzetbiztonsági ellenőrzéséhez nem járul hozzá, vagy
+
+b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a szolgálati jogviszony létesítését törvény szerint arra feljogosított személy nem hagyta jóvá,
+
+a munkáltatói jogkör gyakorlója – mérlegelése alapján – a szolgálati jogviszonyt létesíteni szándékozó személy részére más, nemzetbiztonsági ellenőrzés alá nem eső munkakört ajánlhat fel. Felajánlható munkakör hiányában, illetve ha a munkáltatói jogkör gyakorlója nem kíván más munkakört felajánlani, vagy ha a szolgálati jogviszonyt létesíteni szándékozó személy a felajánlott munkakört nem fogadja el, szolgálati jogviszony nem létesíthető.
+
+(3) Ha a szolgálati jogviszony létesítésének feltétele a nemzetbiztonsági követelményeknek való megfelelés, a jelentkezőnek a jelentkezéskor írásban hozzá kell járulnia ahhoz, hogy ezt a hatáskörrel rendelkező nemzetbiztonsági szolgálat ellenőrizze. Az ellenőrzéshez való hozzájáruláshoz a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell.
+
+(4) Ha a foglalkoztatott a szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá, vagy
+
+b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a szolgálati jogviszony fenntartását törvény szerint arra feljogosított nem hagyta jóvá,
+
+a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkoztatott részére más, nemzetbiztonsági ellenőrzés alá nem eső szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Ha a munkáltatói jogkör gyakorlója nem ajánl fel más munkakört, vagy ha a foglalkoztatott a felajánlott munkakört nem fogadja el, a szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
+
+(5) A felajánlott munkakör elfogadásáról vagy elutasításáról a foglalkoztatott a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha a foglalkoztatott a munkakör elfogadásáról öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott munkakört elutasította volna.
+
+(6) Ha a pénzügyőr a (4) bekezdés alapján felajánlott pénzügyőri munkakört elfogadja, intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzéséről. A pénzügyőr az elfogadott munkakörbe abban az esetben helyezhető, ha a kifogástalan életvitel ellenőrzése során a 34. § (5) bekezdése szerinti körülményt a munkáltatói jogkör gyakorlója nem állapított meg.
+
+(7) A szolgálati jogviszonynak a (4) bekezdés szerinti megszüntetése esetén a foglalkoztatottat felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a foglalkoztatottal, azzal, hogy a nemzetbiztonsági ellenőrzés megállapításaiból csak az közölhető a foglalkoztatottal, amihez az ellenőrzést végző szerv hozzájárult.

@@ -1,0 +1,9 @@
+### 59. § [Kirendelés, vezénylés a Nemzeti Közszolgálati Egyetemre]
+
+(1) A foglalkoztatott – beleegyezésével – határozott vagy határozatlan időtartamra szolgálati beosztásba vagy közalkalmazotti oktatói, nevelői, képzést támogató munkakör vagy feladat ellátására a Nemzeti Közszolgálati Egyetemre kirendelhető, vezényelhető. A kirendelésre, vezénylésre az 55. § (10) bekezdését megfelelően alkalmazni kell, az 55. § (1)–(5) bekezdését az e §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(2) A kirendelt, vezényelt a besorolásának megfelelő illetményre és e törvény szerinti pótlékokra, juttatásokra, támogatásokra és költségtérítésre jogosult azzal, hogy azokat a NAV folyósítja. A foglalkoztatott a Kormány által rendeletben meghatározott feltételekkel és mértékben rendészeti felsőoktatási illetménykiegészítésre, továbbá a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben (a továbbiakban: Nftv.) vagy a Nemzeti Közszolgálati Egyetem szabályzataiban meghatározott feltételekkel juttatásokra, támogatásokra, valamint költségtérítésekre is jogosult vagy azokban részesíthető.
+
+(3) A (2) bekezdésben meghatározott rendészeti felsőoktatási illetménykiegészítés a Nemzeti Közszolgálati Egyetemet terheli azzal, hogy annak összegét átadja a NAV részére és azt a NAV az illetmény részeként folyósítja. Az egyéb juttatásokat és támogatásokat a Nemzeti Közszolgálati Egyetem folyósítja, és azzal a Nemzeti Közszolgálati Egyetem felé kell a foglalkoztatottnak elszámolnia.
+
+(4) A foglalkoztatott oktatói, tudományos ismereteinek fejlesztése érdekében vagy a Nemzeti Közszolgálati Egyetem nemzetközi kapcsolatai keretében – a Nemzeti Közszolgálati Egyetem rektorának kezdeményezésére – külföldi szolgálatra ideiglenesen kirendelhető, vezényelhető. A külföldi szolgálatra történő ideiglenes kirendelés, vezénylés tartamára az e törvény alapján járó, a NAV költségvetését terhelő költségtérítést a Nemzeti Közszolgálati Egyetem saját költségvetéséből kiegészítheti.

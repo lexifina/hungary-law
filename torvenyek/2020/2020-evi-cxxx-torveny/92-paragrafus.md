@@ -1,0 +1,7 @@
+### 92. § [Összeférhetetlenség bejelentése]
+
+(1) A foglalkoztatott köteles a munkáltatói jogkör gyakorlójának haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merült fel, illetve ha a szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe került. A munkáltatói jogkör gyakorlója írásban köteles felszólítani a foglalkoztatottat az összeférhetetlenség megszüntetésére. A munkáltatói jogkör gyakorlója akkor is köteles a foglalkoztatottat írásban felszólítani az összeférhetetlenség megszüntetésére, ha a foglalkoztatott bejelentésének hiánya ellenére szerez tudomást arról, hogy a foglalkoztatottal szemben összeférhetetlenségi ok áll fenn. Ha a foglalkoztatott az összeférhetetlenséget a felszólítás közlésétől számított harminc napon belül nem szüntette meg, szolgálati jogviszonya megszűnik. Ha az összeférhetetlenség bíróság vagy más hatóság eljárása folytán szűnik meg, akkor a bíróság, vagy más hatóság döntésére irányuló eljárást kell harminc napon belül kezdeményezni.
+
+(2) Ha a foglalkoztatott az összeférhetetlenségi okot megszüntette, vagy annak megszüntetését a bíróságnál vagy más hatóságnál kezdeményezte, azt írásban köteles a munkáltatói jogkör gyakorlójának bejelenteni.
+
+(3) Ha a 89. § (1) bekezdés a) pontja szerinti összeférhetetlenség a szolgálati jogviszony fennállása alatt keletkezik, akkor az érintettek megegyezése hiányában a munkáltatói jogkör gyakorlója dönti el, hogy melyik foglalkoztatottnak szűnik meg a szolgálati jogviszonya.
