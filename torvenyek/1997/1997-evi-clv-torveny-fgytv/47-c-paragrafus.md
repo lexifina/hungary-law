@@ -34,14 +34,12 @@ bb) pénzügyi műveletek bevételeinek
 
 (4) Ha a vállalkozás a beszámolóban az adatokat devizában adja meg, a forintra történő átszámításkor a Magyar Nemzeti Bank által megállapított, a vállalkozás üzleti évének lezárásakor – újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján – érvényes hivatalos devizaárfolyamot kell alkalmazni.
 
-(5) A fogyasztóvédelmi hatóság – ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik – minden esetben bírságot szab ki, ha
+(5) A fogyasztóvédelmi hatóság bírságot szab ki, ha
 
-a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
+a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon a telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 
-b) a jogsértés a fogyasztók széles körét érinti,
+b) a jogsértés a fogyasztók széles körét érinti, vagy
 
-c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, továbbá
+c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
 
-d) a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezés megsértésére a fogyasztóknak koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó fogyasztóval szemben került sor,
-
-e) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
+(6) Az (5) bekezdésben foglaltak esetén közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.

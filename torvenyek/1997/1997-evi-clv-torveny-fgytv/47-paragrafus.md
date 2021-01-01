@@ -10,7 +10,7 @@ d) a jogszerű állapot helyreállításáig feltételhez kötheti, vagy megtilt
 
 illetve értékesítését,
 
-e)
+e) a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottak szerinti dolgot jogosult elkobozni, és azt a jogsértést elkövető vállalkozás költségére megsemmisíteni,
 
 f)
 

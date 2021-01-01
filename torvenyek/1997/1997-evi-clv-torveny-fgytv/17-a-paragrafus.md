@@ -46,6 +46,6 @@ g) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználá
 
 (6) Az írásbeli panaszt a vállalkozás – ha az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – a beérkezését követően harminc napon belül köteles írásban érdemben megválaszolni és intézkedni annak közlése iránt. Ennél rövidebb határidőt jogszabály, hosszabb határidőt törvény állapíthat meg. A panaszt elutasító álláspontját a vállalkozás indokolni köteles.
 
-(7) A vállalkozás a panaszról felvett jegyzőkönyvet és a válasz másolati példányát öt évig köteles megőrizni, és azt az ellenőrző hatóságoknak kérésükre bemutatni.
+(7) A vállalkozás a panaszról felvett jegyzőkönyvet és a válasz másolati példányát három évig köteles megőrizni, és azt az ellenőrző hatóságoknak kérésükre bemutatni.
 
 (8) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy békéltető testület eljárását kezdeményezheti. A tájékoztatásnak tartalmaznia kell továbbá az illetékes hatóság, illetve a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét. A tájékoztatásnak arra is ki kell terjednie, hogy a vállalkozás a fogyasztói jogvita rendezése érdekében igénybe veszi-e a békéltető testületi eljárást.

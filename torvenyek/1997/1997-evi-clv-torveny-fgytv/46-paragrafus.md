@@ -18,26 +18,10 @@ b) a 43/A. § (1) bekezdés a)–c), e) és f), valamint h)–k) pontjában eml�
 
 (5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 60 nap.
 
-(6) A fogyasztóvédelmi hatóság megvizsgálhatja a felhívás alkalmazásának lehetőségét
+(6)
 
-a) a 14. § (1) bekezdésében és a 14. § (5) bekezdésében szabályozott esetben a termék eladási ára és egységára vonatkozásában,
+(6a)
 
-b) a kereskedelemről szóló 2005. évi CLXIV. törvény 5. § (4) bekezdésének első mondata és 6. § (2) bekezdés b) pontja esetében,
+(6b)
 
-(6a) Az a) és b) pontban foglalt esetek kivételével a fogyasztóvédelmi hatóság nem vizsgálhatja a felhívás alkalmazásának a lehetőségét, kivéve, ha a hatósági ellenőrzés alá vont ügyfél a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint kis- és középvállalkozásnak minősül.
-
-(6b) Ha a hatóság a hatósági ellenőrzés eredményeként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
-
-a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a hatóság felhívja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére,
-
-b) ha az a) pont szerinti határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság új eljárásban megállapítja a hatáskörébe tartozó egyéb jogkövetkezményt,
-
-c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv vagy feljegyzés jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
-
-(6c) Nem alkalmazható a (6b) bekezdés a) pontja, ha
-
-a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás lefolytatásával orvosolható,
-
-b) a hatóság ugyanazon ügyféllel szemben a (6b) bekezdés a) pontja szerinti felhívás eredménytelensége miatt két éven belül véglegessé vált döntésben egyéb jogkövetkezményt állapított meg,
-
-c) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatósági határozatban megállapított rendelkezés megsértése miatt két éven belül a (6b) bekezdés a) pontja alapján járt el.
+(6c)

@@ -22,7 +22,7 @@ b) közszolgáltatási tevékenységet folytató, valamint törvény alapján ü
 
 (6) A fogyasztóvédelmi referensi tevékenység megbízási szerződés keretében is ellátható.
 
-(6a) A fogyasztóvédelmi referens köteles tájékoztatni a fogyasztóvédelmi hatóságot a foglalkoztatásával kapcsolatos adatokról (név, a képesítési bizonyítvány kiállításának dátuma és sorszáma, a foglalkoztatás kezdő időpontja), valamint az adatokban beállt változásról, 8 napon belül.
+(6a)
 
 (7)
 
