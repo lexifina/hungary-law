@@ -21,3 +21,7 @@ c) ha a bejelentett összeget meghaladó készpénz az 50 000 eurót meghaladja,
 (2) A bírság összegét 1000 forintra kerekítve kell alkalmazni. A bírság összegének forintban történő meghatározásához a 2. § (3) bekezdését kell alkalmazni.
 
 (3) Ha a kiszabott bírság helyszínen történő megfizetéséhez pénzváltási kiegészítő pénzügyi szolgáltatás igénybevétele válik szükségessé, a vámhatóság a pénzváltási szolgáltatás helyszínére kíséri az eljárás alá vont személyt.
+
+(4) E § alapján kiszabott bírság összege meghaladhatja a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben meghatározott, a bírság összegére vonatkozó felső határt.
+
+(5) E § alapján indult eljárásokban bírság helyett figyelmeztetés szankció nem alkalmazható.
