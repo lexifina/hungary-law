@@ -1,0 +1,9 @@
+## 3. A Ktv. 10/A. §-a szerinti eljárás részletes szabályai a Magyar Állam tulajdonában álló részesedés értékesítése esetén
+
+13. § (1) A részesedés-értékesítésre jogosult és a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a Ktv. 10/A. § (1) bekezdése szerinti gazdálkodó szervezet értékesítéssel érintett állami tulajdonú részesedés (a továbbiakban: részesedés) értékesítésére vonatkozó eljárás megindításáról szóló döntés megalapozásához – a koncessziós szerződés várható elemeire vonatkozó információk felhasználásával – független szakértővel elvégezteti a gazdálkodó szervezetben az értékesítési eljárással érintett állami tulajdonú részesedés forgalmi értékbecslését (vagyonértékelését). Az értékesítési eljárás megindítására vonatkozó döntés a szakvéleményben rögzített érvényességi időn belül hozható meg.
+
+(2) A részesedés forgalmi értékbecslése (vagyonértékelése) alapján az értékesítési eljárás megindítására vonatkozó döntést a részesedés-értékesítésre jogosult és a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv együttesen hozza meg.
+
+(3) A (2) bekezdés szerinti döntés alapján a Ktv. 10/A. §-a szerinti eljárást az (1) bekezdés szerinti szakvéleményben rögzített érvényességi időn belül a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv indítja meg és folytatja le.
+
+(4) A tulajdonosi joggyakorló a részesedés-értékesítésre jogosult megkeresésére 5 napon belül intézkedik a Ktv. 10/A. §-a szerinti eljárás lefolytatásához szükséges információk biztosítása érdekében. A tulajdonosi joggyakorló köteles gondoskodni arról, hogy a részesedés-értékesítésre jogosult részére a Ktv. 10/A. §-a szerinti eljáráshoz kapcsolódó feladatai ellátásához, így különösen az (1) bekezdés szerinti független szakértő részére az értékelés elvégzéséhez szükséges információk, adatok, tájékoztatások teljes körűen, határidőben rendelkezésre álljanak.
