@@ -1,0 +1,3 @@
+## 33. § A természetes személyek adósságrendezési eljárásában az adósságrendezésbe nem tartozó vagyonról és bevételekről szóló 230/2015. (VIII. 12.) Korm. rendelet 2. § (1) bekezdés 31. pontjában a „107. alcíme szerinti szociális gondoskodás körébe tartozó ellátásnak” szövegrész helyébe a „107. alcíme szerinti szociális gondoskodás körébe tartozó ellátásnak, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 174. és 175. §-a szerinti szociális gondoskodás körébe tartozó ellátásnak, illetve a kiegészítő hozzátartozói támogatásnak” szöveg lép.
+
+## 32. A munkaerőpiaci mobilitást elősegítő munkásszállás építéséhez nyújtható támogatásról szóló 23/2017. (II. 3.) Korm. rendelet módosítása

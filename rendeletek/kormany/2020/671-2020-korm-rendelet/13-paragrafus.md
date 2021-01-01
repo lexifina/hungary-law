@@ -1,0 +1,3 @@
+## 12. § A határterületről, valamint a határátkelőhely területére nem határátlépés céljából történő belépés és tartózkodás szabályairól szóló 330/2007. (XII. 13.) Korm. rendelet 3. § (1) bekezdésében az „ , a Nemzeti Adó- és Vámhivatal és a nemzetbiztonsági szolgálat hivatásos állományú tagja” szövegrész helyébe az „és a nemzetbiztonsági szolgálat hivatásos állományú tagja, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja” szöveg lép.
+
+## 13. A szakképzettséggel rendelkező, pályakezdő álláskeresők munkatapasztalat-szerzésének és a létszámleépítések megelőzése érdekében a részmunkaidős foglalkoztatás támogatásáról szóló 70/2009. (IV. 2.) Korm. rendelet módosítása

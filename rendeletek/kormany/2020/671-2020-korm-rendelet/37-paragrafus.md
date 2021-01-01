@@ -1,0 +1,3 @@
+## 36. § A kulturális szakemberek szakmai továbbképzésének nyilvántartásba vételi szabályairól szóló 378/2017. (XII. 11.) Korm. rendelet 3. § (4) bekezdésében a „közszolgálati tisztviselő,” szövegrész helyébe a „közszolgálati tisztviselő, a Nemzeti Adó- és Vámhivatallal adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatott,” szöveg lép.
+
+## 35. Az igazságügyi szakértői névjegyzékbe vételhez szükséges szakmai gyakorlati idő szakirányú jellegének igazolására szolgáló hatósági bizonyítvány kiadása iránti eljárás részletes szabályairól szóló 418/2017. (XII. 19.) Korm. rendelet módosítása
