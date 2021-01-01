@@ -1,0 +1,3 @@
+## 31. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: 368/2011. Korm. rendelet) 167/H. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az Áht. 105/B. § (1) bekezdése alapján kiszabható bírság összege legfeljebb ötszázezer forint lehet. A bírság kiszabásánál a Kincstár a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott mérlegelési szempontok figyelembevétele mellett mérlegeli a kötelezettségszegő jogellenes magatartásának súlyát is. A körülmények mérlegelése alapján a Kincstár a kötelezettségszegés súlyához igazodó, arányos bírságot szab ki. A bírság határidőben történő meg nem fizetése esetén a Kincstár hivatalból intézkedik a végrehajtás foganatosításáról.”
