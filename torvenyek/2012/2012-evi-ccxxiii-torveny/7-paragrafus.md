@@ -16,6 +16,8 @@
 
 8. a visszaélés haditechnikai termékkel és szolgáltatással, illetve kettős felhasználású termékkel,
 
-9. az 1978. évi IV. törvény 300/C. § (4) bekezdés c) pontja szerinti számítástechnikai rendszer és adatok elleni bűncselekmény, az 1978. évi IV. törvény 313/C. § (6) bekezdés a) pontja és (8) bekezdése szerinti különösen jelentős kárt okozó készpénz-helyettesítő fizetési eszközzel visszaélés, az 1978. évi IV. törvény 316. § (7) bekezdés a) pontja szerinti lopás, az 1978. évi IV. törvény 317. § (7) bekezdés a) pontja szerinti sikkasztás, az 1978. évi IV. törvény 318. § (7) bekezdés a) pontja szerinti csalás, az 1978. évi IV. törvény 320. § (2) bekezdése szerinti hanyag kezelés, az 1978. évi IV. törvény 322. § (3) bekezdés a) pontja szerinti kifosztás, az 1978. évi IV. törvény 324. § (6) bekezdése szerinti rongálás, az 1978. évi IV. törvény 326. § (6) bekezdés a) pontja szerinti orgazdaság,
+9. az 1978. évi IV. törvény 300/C. § (4) bekezdés c) pontja szerinti számítástechnikai rendszer és adatok elleni bűncselekmény, az 1978. évi IV. törvény 313/C. § (6) bekezdés a) pontja és (8) bekezdése szerinti különösen jelentős kárt okozó készpénz-helyettesítő fizetési eszközzel visszaélés, az 1978. évi IV. törvény 316. § (7) bekezdés a) pontja szerinti lopás, az 1978. évi IV. törvény 317. § (7) bekezdés a) pontja szerinti sikkasztás, az 1978. évi IV. törvény 318. § (7) bekezdés a) pontja szerinti csalás, az 1978. évi IV. törvény 322. § (3) bekezdés a) pontja szerinti kifosztás, az 1978. évi IV. törvény 324. § (6) bekezdése szerinti rongálás, az 1978. évi IV. törvény 326. § (6) bekezdés a) pontja szerinti orgazdaság,
 
-10. az 1978. évi IV. törvény 329/A. § (4) bekezdés b) pontja szerinti szerzői vagy szerzői joghoz kapcsolódó jogok megsértése, az 1978. évi IV. törvény 329/D. § (3) bekezdés b) pontja szerinti iparjogvédelmi jogok megsértése.
+10. az 1978. évi IV. törvény 329/A. § (4) bekezdés b) pontja szerinti szerzői vagy szerzői joghoz kapcsolódó jogok megsértése, az 1978. évi IV. törvény 329/D. § (3) bekezdés b) pontja szerinti iparjogvédelmi jogok megsértése,
+
+11. a 6. §-ban meghatározott bűncselekmények.
