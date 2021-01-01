@@ -1,0 +1,3 @@
+15. § (1) Az adósnak a hitelező által üzletszerűen nyújtott szerződésből eredő tőke-, kamat-, illetve díjfizetési kötelezettsége, ha ezt az adós a hitelezőnél írásban kéri, 2021. június 30. napjáig akként módosul, hogy az adós a szerződésből eredő tőke-, kamat-, illetve díjfizetési kötelezettsége teljesítésére hiteltörlesztési moratóriumot vehet igénybe.
+
+(2) A hiteltörlesztési moratóriumra vonatkozó kérelemnek tartalmaznia kell a szerződés azonosításához szükséges adatokat, továbbá azokat az adatokat is, amelyek alapján megállapítható, hogy az adós a pénzügyi nehézséggel küzdő vállalkozás meghatározásáról szóló kormányrendeletben meghatározottak alapján jogosult a hiteltörlesztési moratórium igénybevételére.

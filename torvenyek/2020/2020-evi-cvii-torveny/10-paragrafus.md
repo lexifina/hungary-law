@@ -1,0 +1,1 @@
+10. § A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet szerint folyósított kölcsön alapján fizetendő kezességvállalási díjat a fizetési moratórium 7. § (2) bekezdése szerinti időtartama alatt nem kell megfizetni.

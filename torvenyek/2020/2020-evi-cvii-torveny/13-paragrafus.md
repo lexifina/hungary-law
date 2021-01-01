@@ -1,0 +1,3 @@
+13. § (1) E Fejezet alkalmazásában – a 19. §-ban foglaltaktól függetlenül – adósnak minősül a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvényben meghatározott eljárások alatt álló adós, valamint az adós hiteltörlesztési kötelezettségeiért helytállni köteles személy is.
+
+(2) A fizetési moratórium kiterjed a főhitelező részére fizetendő minimális törlesztőrészlet megfizetésére, a bíróságon kívüli adósságrendezési megállapodásban, bírósági adósságrendezési egyezségben, valamint a bírósági adósságtörlesztési végzésben megállapításra kerülő vagy megállapított, a 7. § (1) bekezdésében felsorolt, hitelviszonyból származó fizetési kötelezettségek teljesítésére is, a 2021. január 1. napja után esedékessé váló törlesztési részletekre vonatkozóan.
