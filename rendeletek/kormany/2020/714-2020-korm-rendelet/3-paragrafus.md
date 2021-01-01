@@ -1,0 +1,3 @@
+3. § (1) Az ügyfél részére személyes ügyintézés során, az erre irányuló kérelme alapján, a Nyilvántartásban tárolt rá vonatkozó döntés adatairól vagy arról, hogy rá vonatkozóan a Nyilvántartásban adat nem szerepel, a kormányablak azonnal tájékoztatást nyújt.
+
+(2) A nyilvántartó szerv természetes személy és gazdálkodó szervezet ügyfél részére az elektronikus ügyintézés részletszabályairól szóló kormányrendeletben meghatározott módon hozzáférést biztosít a Nyilvántartás (1) bekezdés szerinti adataihoz, valamint az arra vonatkozó adatokhoz, hogy melyik hatóság mely időpontban kérdezett le a Nyilvántartásból rá vonatkozó adatokat.
