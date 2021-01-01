@@ -1,1 +1,0 @@
-A helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának b) pontjában, továbbá a közoktatásról szóló 1993. évi LXXIX. törvény 94. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján – szakképzés tekintetében a szakképesítésért felelős miniszterekkel egyetértésben – a következőket rendelem el:
