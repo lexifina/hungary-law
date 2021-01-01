@@ -10,16 +10,6 @@
 
 (5) A bírság kiszabása során figyelembe kell venni annak a biomasszának, köztes terméknek, bioüzemanyagnak vagy folyékony bio-energiahordozónak a mennyiségét, amelyre vonatkozóan a (3) és (4) bekezdés szerinti kötelezettségnek nem tettek eleget.
 
-(6) A mezőgazdasági igazgatási szerv vagy az állami adó- és vámhatóság dönt a bírság kiszabásáról. Ennek keretében mérlegeli különösen:
+(6) Közigazgatási szankció a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított egy éven belül alkalmazható.
 
-a) a jogsértéssel okozott hátrányt, illetve a jogsértéssel elért előny mértékét,
-
-b) a jogsértéssel okozott hátrány visszafordíthatóságát,
-
-c) a jogsértő állapot időtartamát,
-
-d) a jogsértő magatartás ismétlődését és gyakoriságát,
-
-e) a jogsértést elkövető eljárást segítő, együttműködő magatartását, valamint
-
-f) a jogsértést elkövető gazdasági súlyát.
+(7) Nem alkalmazható közigazgatási szankció, ha a jogsértés elkövetésétől számított öt év eltelt.
