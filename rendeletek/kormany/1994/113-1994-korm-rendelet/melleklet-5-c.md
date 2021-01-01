@@ -110,6 +110,6 @@
 
 ## igénylő
 
-5/C. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^67]
+5/C. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^68]
 
-[^67]: Az R. 5/C. mellékletét a 489/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 18. § b) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^68]: Az R. 5/C. mellékletét a 489/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 18. § b) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

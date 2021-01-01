@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-113-20-
 | 2018-01-01 | 1994-113-20-22.22 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-01-01 | 1994-113-20-22.23 | 310/2019. (XII. 18.) Korm. rendelet |
 | 2020-03-01 | 1994-113-20-22.24 | 479/2015. (XII. 29.) Korm. rendelet |
+| 2021-01-01 | 1994-113-20-22.25 | 668/2020. (XII. 28.) Korm. rendelet |

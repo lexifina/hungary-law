@@ -1,3 +1,3 @@
-1. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^60]
+1. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^61]
 
-[^60]: Az R. 1. számú mellékletét az 58/2008. (III. 26.) Korm. rendelet 5. § (6) bekezdése hatályon kívül helyezte.
+[^61]: Az R. 1. számú mellékletét az 58/2008. (III. 26.) Korm. rendelet 5. § (6) bekezdése hatályon kívül helyezte.

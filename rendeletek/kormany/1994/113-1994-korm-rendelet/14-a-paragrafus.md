@@ -4,6 +4,9 @@
 
 (3)[^44] A hadigondozási hatóság megszünteti a hadigondozási igényjogosultságot, ha a Hdt. 8. § (3) bekezdésében meghatározott megszüntető okokról tudomást szerez.
 
+(4)[^45] A hadigondozási hatóság a hadigondozott halála esetén a pénzellátás megszüntetéséről nem hoz döntést. A hadigondozási hatóság a halál tényét és az ellátásra jogosultság megszűnését átvezeti a hatósági nyilvántartáson.
+
 [^42]: Az R. 14/A. §-át a 489/2016. (XII. 28.) Korm. rendelet 7. §-a iktatta be.
 [^43]: Az R. 14/A. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^44]: Az R. 14/A. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^45]: Az R. 14/A. § (4) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
