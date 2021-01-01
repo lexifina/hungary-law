@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^412]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^420]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -12,15 +12,15 @@
 
 4. Új, önálló (homlokzati falhoz rögzített vagy szabadon álló) égéstermék-elvezető kémény építése melynek magassága a 6,0 m-t nem haladja meg.
 
-5. Az épület homlokzatához illesztett előtető, védőtető, ernyőszerkezet építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása.
+5. Kizárólag az épület homlokzatához rögzített előtető, védőtető, ernyőszerkezet építése, elhelyezése.
 
 6. Épületben az önálló rendeltetési egységek számának változtatása.
 
 7. A 14. pont e) alpontjában és a 29. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet.
 
-8. Nem emberi tartózkodásra szolgáló építmény építése, átalakítása, felújítása, valamint bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 100 m3 térfogatot és 4,5 m gerincmagasságot.
+8. Nem emberi tartózkodásra szolgáló építmény építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 100 m3 térfogatot és 4,5 m gerincmagasságot.
 
-9. Önálló reklámtartó építmény, valamint gépjármű-üzemanyag egységárának feltüntetésére szolgáló oszlop vagy tábla építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása.
+9. Önálló reklámtartó építmény, valamint gépjármű-üzemanyag egységárának feltüntetésére szolgáló oszlop vagy tábla építése, elhelyezése.
 
 10. Temető területén:
 
@@ -48,21 +48,21 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 építése.
 
-15. Növénytermesztésre szolgáló üvegház építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása.
+15. Növénytermesztésre szolgáló üvegház építése, bővítése.
 
-16. Növénytermesztésre és gombatermesztésre szolgáló fóliasátor építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása.
+16. Növénytermesztésre és gombatermesztésre szolgáló fóliasátor építése, bővítése.
 
-17. A 6,0 m vagy annál kisebb magasságú, a 60 m3 vagy annál kisebb térfogatú siló, ömlesztettanyag-tároló, nem veszélyes folyadékok tárolója, nem veszélyes anyagot tartalmazó, nyomástartó edénynek nem minősülő, föld feletti vagy alatti tartály, tároló elhelyezéséhez szükséges építmény építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
+17. A 6,0 m vagy annál kisebb magasságú, a 60 m3 vagy annál kisebb térfogatú siló, ömlesztettanyag-tároló, nem veszélyes folyadékok tárolója, nem veszélyes anyagot tartalmazó, nyomástartó edénynek nem minősülő, föld feletti vagy alatti tartály, tároló elhelyezéséhez szükséges építmény építése, bővítése.
 
 18. A magánhasználatú kerti víz-, fürdőmedence, kerti tó építése.
 
 19. A telek természetes terepszintjének építési tevékenységgel összefüggő, 1,0 m-nél nem nagyobb mértékű, végleges jellegű megváltoztatása.
 
-20. Támfal építése, bővítése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, megváltoztatása, amelynek mérete az építési tevékenységgel nem haladja meg a rendezett alsó terepszinttől számított 1,5 m magasságot.
+20. Támfal építése, bővítése, amelynek mérete az építési tevékenységgel nem haladja meg a rendezett alsó terepszinttől számított 1,5 m magasságot.
 
-21. Kerítés, kerti építmény, tereplépcső, járda és lejtő, háztartási célú kemence, húsfüstölő, jégverem, valamint zöldségverem építése, építménynek minősülő növénytámasz, növényt felfuttató rács építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
+21. Kerítés, kerti építmény, tereplépcső, járda és lejtő, háztartási célú kemence, húsfüstölő, jégverem, valamint zöldségverem építése, építménynek minősülő növénytámasz, növényt felfuttató rács építése, bővítése.
 
-22. Mobil illemhely, mobil mosdó, mobil zuhanyozó elhelyezése, árnyékszék, illemhely (kivéve csoportos illemhely) építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
+22. Mobil illemhely, mobil mosdó, mobil zuhanyozó elhelyezése, árnyékszék, illemhely (kivéve csoportos illemhely) elhelyezése, építése, bővítése.
 
 23. Napenergia-kollektor, szellőző-, klíma-, riasztóberendezés, villámhárító-berendezés, áru- és pénzautomata, kerékpártartó, zászlótartó építményen vagy építményben való elhelyezése.
 
@@ -86,4 +86,4 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 33. A lakó rendeltetést bemutató épület építése, amely a nemzetközi innovációs házépítő verseny keretében vagy kutatási, kiállítási célból valósul meg.
 
-[^412]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^420]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a, a 668/2020. (XII. 28.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.

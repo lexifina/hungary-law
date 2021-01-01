@@ -14,26 +14,28 @@ bb) további szakhatósági közreműködés,
 
 c)[^12] tájékoztatást az általa kérelmezni szándékozott eljárás és az ahhoz szükséges szakhatósági közreműködés eljárási, igazgatási szolgáltatási díjának vagy illetékének, továbbá jogszabályban meghatározott eljárási költségének mértékéről,
 
-d) a leendő ügyféli kör előzetes tisztázását,
+d)[^13] a leendő ügyféli kör előzetes tisztázását, valamint,
 
-e) annak vizsgálatát, hogy az engedély hatályának meghosszabbítását milyen módon érinti vagy akadályozza-e valamely építésügyi jogszabály változása, valamint
+e)[^14]
 
 f) az általa kérelmezni szándékozott eljárásra vonatkozó szabályokról egyéb tájékoztatás nyújtását.
 
-(3)[^13] Az építésügyi hatóság az építésügyi hatósági szolgáltatás iránti kérelem benyújtását követő munkanaptól számított tizenöt napon belül szakmai nyilatkozatot fogalmaz meg, melynek tartalma nem köti az építtetőt az építésügyi hatósági engedély vagy az építésügyi hatósági tudomásulvétel iránti kérelmének benyújtásában és nem kötelezi az építtetőt az építésügyi hatósági engedély iránti kérelem benyújtására.
+(3)[^15] Az építésügyi hatóság az építésügyi hatósági szolgáltatás iránti kérelem benyújtását követő munkanaptól számított tizenöt napon belül szakmai nyilatkozatot fogalmaz meg, melynek tartalma nem köti az építtetőt az építésügyi hatósági engedély vagy az építésügyi hatósági tudomásulvétel iránti kérelmének benyújtásában és nem kötelezi az építtetőt az építésügyi hatósági engedély iránti kérelem benyújtására.
 
-(4)[^14] Az építésügyi hatóság a (3) bekezdés szerinti szakmai nyilatkozatát a tárhelyen vagy a kérelemben a kapcsolattartás módjára megjelölt rendelkezésnek megfelelően küldi meg az építtetőnek.
+(4)[^16] Az építésügyi hatóság a (3) bekezdés szerinti szakmai nyilatkozatát a tárhelyen vagy a kérelemben a kapcsolattartás módjára megjelölt rendelkezésnek megfelelően küldi meg az építtetőnek.
 
-(5)[^15] Az építésügyi hatósági szolgáltatást a hatósági engedély vagy tudomásulvétel iránti kérelem benyújtása előtt többször is igénybe lehet venni.
+(5)[^17] Az építésügyi hatósági szolgáltatást a hatósági engedély vagy tudomásulvétel iránti kérelem benyújtása előtt többször is igénybe lehet venni.
 
-(6)[^16] A hatóság szakmai nyilatkozatát az építtetőhöz intézett elektronikus levélben, a (2) bekezdésben meghatározott kérdéskörben állíthatja ki. A kiadott nyilatkozat a hatóságot a hatósági eljárása során nem köti.
+(6)[^18] A hatóság szakmai nyilatkozatát az építtetőhöz intézett elektronikus levélben, a (2) bekezdésben meghatározott kérdéskörben állíthatja ki. A kiadott nyilatkozat a hatóságot a hatósági eljárása során nem köti.
 
 [^8]: A 3. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 179. § (1) bekezdésével megállapított, a 144/2017. (VI. 12.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^9]: A 3. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (2) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 13. § 2. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 3. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^10]: A 3. § (2) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^12]: A 3. § (2) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 2. pontja szerint módosított szöveg.
-[^13]: A 3. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 4. pontja, a 144/2017. (VI. 12.) Korm. rendelet 16. § b) pontja, a 13/2019. (II. 11.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^14]: A 3. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 5. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 4. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^15]: A 3. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
-[^16]: A 3. § (6) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 8. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 412. § 1. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^13]: A 3. § (2) bekezdés d) pontja a 700/2020. (XII. 29.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdés e) pontját a 700/2020. (XII. 29.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^15]: A 3. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 4. pontja, a 144/2017. (VI. 12.) Korm. rendelet 16. § b) pontja, a 13/2019. (II. 11.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^16]: A 3. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 5. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 4. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^17]: A 3. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
+[^18]: A 3. § (6) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 8. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 412. § 1. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

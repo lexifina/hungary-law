@@ -1,4 +1,4 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^415]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^423]
 
 ## Szakhatósági vagy szakkérdés vizsgálatára alkalmas dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
@@ -168,32 +168,22 @@ A tűzvédelmi dokumentáció tartalma
 
 VII. A műemléki érték védelmével kapcsolatos szakhatósági állásfoglaláshoz vagy szakkérdések vizsgálatához szükséges dokumentáció
 
-1. Szakhatósági állásfoglaláshoz vagy szakkérdés vizsgálatához szükséges dokumentáció tartalmi követelményei műemléki jelentőségű területen, műemlék történeti tájon vagy világörökségi helyszínen vagy világörökségi területen álló vagy tervezett építmény esetén:
-
-1.1. az építészeti műszaki dokumentáció a közterületről feltáruló vagy madártávlati látványtervet, a meglévő (a változtatás előtti) állapotra vonatkozó fotódokumentációt és az érintett műemléki terület fényképi ábrázolását is tartalmazza;
-
-1.2. a meglévő (a változtatás előtti) állapotra vonatkozó fotódokumentációt és az érintett műemléki területnek fényképi ábrázolását tartalmazza;
-
-1.3. fotódokumentáció is szükséges.
+1. Szakkérdés vizsgálatához szükséges dokumentáció tartalmi követelményei műemléki jelentőségű területen, műemlék történeti tájon vagy világörökségi helyszínen vagy világörökségi területen álló vagy tervezett építmény esetén: az építészeti műszaki dokumentáció a közterületről feltáruló vagy madártávlati látványtervet, a meglévő (a változtatás előtti) állapotra vonatkozó fotódokumentációt és az érintett műemléki terület fényképi ábrázolását is tartalmazza.
 
 2. Szakkérdés vizsgálatához szükséges dokumentáció
 
-2.1. Az építési engedélyezési eljáráshoz, örökségvédelmi engedéllyel egybefoglalt eljárásban a nyilvántartott műemléki érték, műemlék bővítése vagy műemlék telkén létesítendő új építmény esetén, a beavatkozással érintett részre vonatkozóan az építészeti műszaki dokumentációnak – a 8. melléklet III. rész 2–4. pontjában meghatározottakon túl – alábbiakat kell tartalmaznia:
+2.1. Az építési engedélyezési eljáráshoz a műemlék bővítése vagy műemlék telkén létesítendő új építmény esetén, a beavatkozással érintett részre vonatkozóan az építészeti műszaki dokumentációnak – a 8. melléklet III. rész 2–4. pontjában meghatározottakon túl – az alábbiakat kell tartalmaznia:
 
-2.1.1. a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 12. melléklet II. rész A. pontjában meghatározott állapotdokumentációt,
+2.1.1. a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet (a továbbiakban: Övr.) 3. melléklet 5. pont 5.2. alpontjában meghatározott állapotdokumentációt,
 
-2.1.2. a nyilvántartott műemléki érték, műemlék vagy műemlék telkén új építmény építése esetén külön jogszabályban meghatározott tartalmú építéstörténeti tudományos dokumentációt,
+2.1.2. az Övr. 3. melléklet 3. pontjában meghatározott tartalmú építéstörténeti tudományos dokumentációt.
 
-2.1.3.
+2.2. A fennmaradási engedélyezési eljáráshoz a műemlék vagy a műemlék telkén álló építmény esetében az építészeti műszaki dokumentációnak – a 8. melléklet III. rész 7. pontjában meghatározottakon túl – fotódokumentációt is tartalmaznia kell.
 
-2.2. A fennmaradási engedélyezési eljáráshoz a nyilvántartott műemléki érték, a műemlék vagy a műemlék telkén álló építmény esetében az építészeti műszaki dokumentációnak – a 8. melléklet III. rész 7. pontjában meghatározottakon túl – fotódokumentációt is tartalmaznia kell.
+2.3. A bontási engedélyezési eljáráshoz műemlék Kötv. 43. § (5c) bekezdése szerinti részleges bontása vagy műemlék telkén álló nem védett építmény bontása esetén az építészeti műszaki dokumentációnak a beavatkozással érintett részre vonatkozóan – a 8. melléklet III. rész 6. pontjában meghatározottakon túl – alábbiakat kell tartalmaznia:
 
-2.3. A bontási engedélyezési eljáráshoz nyilvántartott műemléki érték, műemlék részleges bontása vagy műemlék telkén álló építmény bontása esetén az építészeti műszaki dokumentációnak a beavatkozással érintett részre vonatkozóan – a 8. melléklet III. rész 6. pontjában meghatározottakon túl – alábbiakat kell tartalmaznia:
+2.3.1. az Övr. 3. melléklet 5. pont 5.2. alpontjában meghatározott állapotdokumentációt,
 
-2.3.1. a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 12. melléklet II. rész A. pontjában meghatározott állapotdokumentációt,
+2.3.2. az Övr. 3. melléklet 3. pontjában meghatározott építéstörténeti tudományos dokumentációt.
 
-2.3.2. nyilvántartott műemléki érték, műemlék esetén a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 12. melléklet II. rész D. pontjában meghatározott építéstörténeti tudományos dokumentációt,
-
-2.3.3.
-
-[^415]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja, a 497/2016. (XII. 28.) Korm. rendelet 5. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 45. pontja, a 69/2018. (IV. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^423]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja, a 497/2016. (XII. 28.) Korm. rendelet 5. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 45. pontja, a 69/2018. (IV. 9.) Korm. rendelet 2. §-a, a 677/2020. (XII. 28.) Korm. rendelet 26. §-a szerint módosított szöveg.

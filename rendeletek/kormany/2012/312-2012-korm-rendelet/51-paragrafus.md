@@ -1,20 +1,3 @@
-## 40. Az engedély hatályának meghosszabbítása iránti kérelem és mellékletei
+## 50. §
 
-51. § (1)[^276] Az építtető az építésügyi hatósági engedély hatályának lejárta előtt előterjesztett kérelmében a végleges
-
-a) építési engedély,
-
-b) elvi építési keretengedély,
-
-c) telepítési engedély,
-
-d) bontási engedély
-
-## hatályának meghosszabbítását kérheti.
-
-(2)[^277]
-
-(3) Az engedély hatályának meghosszabbítása iránti kérelemhez mellékelni lehet, ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakhatóság előzetes állásfoglalását.
-
-[^276]: Az 51. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 73. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^277]: Az 51. § (2) bekezdését a 13/2019. (II. 11.) Korm. rendelet 19. § j) pontja hatályon kívül helyezte.
+## 40.
