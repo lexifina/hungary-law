@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-17-20-2
 | 2017-08-24 | 2017-17-20-2W.3 | 31/2017. (VIII. 17.) NFM rendelet |
 | 2018-02-09 | 2017-17-20-2W.4 | 4/2018. (II. 8.) NFM rendelet |
 | 2019-04-01 | 2017-17-20-2W.5 | 36/2018. (XII. 21.) ITM rendelet |
+| 2021-01-01 | 2017-17-20-2W.6 | 61/2020. (XII. 30.) ITM rendelet |
