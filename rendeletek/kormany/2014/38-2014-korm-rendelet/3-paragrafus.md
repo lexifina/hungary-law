@@ -1,4 +1,4 @@
-## 2/A. §[^4] Ahol e rendelet őstermelőről rendelkezik, ott a közös őstermelői igazolvány esetén az igazolvány részét képező értékesítési betétlapon szereplő közös őstermelői tevékenységet folytató családtagok bármelyikét is érteni kell.
+## 2/A. §[^4]
 
 ## 2. A nyilvántartás tartalma
 
@@ -16,6 +16,6 @@ c) a nyilvántartásban szereplő egyes adatok módosítása (ide értve a kieg�
 
 (4) Ha a nyilvántartásba vételi kérelemben a természetes személy, illetve a szervezet azt jelöli meg, hogy a mezőgazdasági üzemközpontja azonos a lakóhelyével, illetve a székhelyével, vagy telephelyével, akkor ezen ingatlanok adatait kell mezőgazdasági üzemközpontként nyilvántartásba venni. E rendelkezést nem lehet alkalmazni a (3) bekezdésben meghatározott esetben.
 
-[^4]: A 2/A. §-t a 121/2014. (IV. 8.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 487. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^4]: A 2/A. §-t a 121/2014. (IV. 8.) Korm. rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte a 665/2020. (XII. 28.) Korm. rendelet 17. § c) pontja.
 [^5]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 244. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^6]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
