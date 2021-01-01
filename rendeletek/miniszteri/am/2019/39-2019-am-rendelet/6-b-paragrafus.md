@@ -1,4 +1,4 @@
-6/B. § (1) A 2. § (1) bekezdésében foglaltaktól eltérően a kérelmező 2020. október 1. és október 15. közötti időszakra postai úton benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
+6/B. § (1)[^10] A 2. § (1) bekezdésében foglaltaktól eltérően a kérelmező 2020. október 1. és október 15. közötti időszakra és a 2021. január 1. és március 31. közötti időszakra postai úton benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
 
 (2) Az (1) bekezdés szerinti átmeneti támogatás vonatkozásában nem kell alkalmazni a 2. § (4) és (6) bekezdésében, a 4. § b) pont bc) alpontjában, valamint a 6. § (3) és (5) bekezdésében foglaltakat.
 
@@ -17,3 +17,5 @@ bc) arról, hogy a vállalkozása kapcsolt vállalkozásnak minősül-e és
 bd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító jel, ügyfél-azonosító).
 
 (4) A kérelmező (1) bekezdés szerinti átmeneti támogatás iránti kérelme – az 5. § (3) bekezdésében foglaltakon túl – tartalmazza a (3) bekezdésben foglalt nyilatkozatokat.
+
+[^10]: A 6/B. § (1) bekezdése a 65/2020. (XII. 17.) AM rendelet 19. § c) pontja szerint módosított szöveg.

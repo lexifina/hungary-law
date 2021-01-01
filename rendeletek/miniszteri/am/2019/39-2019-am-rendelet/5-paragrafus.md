@@ -8,9 +8,11 @@ b) 2020. május 1-jétől május 15-éig,
 
 c) 2020. október 1-jétől október 15-éig
 
+d)[^5] 2021. április 1-jétől április 15-éig
+
 a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon postai úton nyújtható be a Kincstárhoz.
 
-(2) A kérelmező az (1) bekezdés a)–c) pontja szerinti benyújtási időszakonként egy támogatási kérelmet nyújthat be.
+(2)[^6] A kérelmező az (1) bekezdés a)–d) pontja szerinti benyújtási időszakonként egy támogatási kérelmet nyújthat be.
 
 (3) A támogatási kérelemhez mellékelni kell
 
@@ -20,7 +22,7 @@ b) a vásárolt haszongalambokról szóló, a kérelmező nevére kiállított �
 
 c) a haszongalamb Magyarországon történt beszerzése esetén az élő állatok belföldi szállításának állategészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 1. melléklete szerinti állattartói nyilatkozat és 2. melléklete szerinti, a szolgáltató állatorvos által kiállított állategészségügyi bizonyítvány másolati példányát;
 
-d)[^4] a haszongalambok tartási helye szerint területileg illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal alábbiakról szóló igazolásának másolati példányát:
+d)[^7] a haszongalambok tartási helye szerint területileg illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal alábbiakról szóló igazolásának másolati példányát:
 
 da) az Európai Unió más tagállamaiból történt beszerzés esetén az állatok és az állati eredetű termékek Közösségen belüli kereskedelmével kapcsolatos harmonizált bizonyítványminta és ellenőrzési jelentés elfogadásáról szóló, 2004. március 30-i 599/2004/EK bizottsági rendelet melléklete szerinti Állategészségügyi Bizonyítvány másolati példányát,
 
@@ -30,4 +32,6 @@ e) a haszongalambok állandó lábgyűrűvel történő megjelölését igazoló
 
 f) a kérelmező írásbeli nyilatkozatát a b)–e) pontban meghatározott dokumentummásolatok hitelességéről és helytállóságáról.
 
-[^4]: Az 5. § (3) bekezdés d) pont nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 38. §-a szerint módosított szöveg.
+[^5]: Az 5. § (1) bekezdése d) alpontját a 65/2020. (XII. 17.) AM rendelet 17. §-a iktatta be.
+[^6]: Az 5. § (2) bekezdése a 65/2020. (XII. 17.) AM rendelet 19. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (3) bekezdés d) pont nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 38. §-a szerint módosított szöveg.
