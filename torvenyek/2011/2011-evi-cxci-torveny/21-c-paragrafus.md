@@ -3,3 +3,5 @@
 (2) A foglalkozási rehabilitációs szolgáltatáshoz, képzéshez nyújtott, valamint a foglalkozási rehabilitációt elősegítő egyéb támogatások ügyében jogszabály alapján eljáró szerv a támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig kezelheti a 21. § (1) bekezdésében és a 21/B. § (1) és (2) bekezdésében meghatározott adatokat.
 
 (3) A megváltozott munkaképességű munkavállalókat foglalkoztató akkreditált munkáltató a részére nyújtott támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig kezelheti a 21. § (1) bekezdés a) pont ad) alpontjában és c) pontjában meghatározott adatokat.
+
+(4) Az akkreditált szolgáltató a részére nyújtott támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig kezelheti a 21. § (1) bekezdés a) pont ac)–ag) alpontjában és c) pontjában meghatározott adatokat.

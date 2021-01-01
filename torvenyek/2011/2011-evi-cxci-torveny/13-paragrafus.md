@@ -1,14 +1,18 @@
-13. § (1) A rokkantsági ellátás az ellátott halála esetén a halál bekövetkezését követő hónap első napjától megszűnik.
+13. § (1) A rokkantsági ellátás megszűnik
+
+a) az ellátott halála esetén a halál bekövetkezését követő hónap első napjától,
+
+b) az öregségi nyugdíj megállapításának kezdő napját megelőző nappal.
 
 (2) A rokkantsági ellátást meg kell szüntetni, ha az ellátásban részesülő
 
 a) kérte,
 
-b) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
+b) más rendszeres pénzellátásban részesül, ide nem értve a táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
 
 c) egészségi állapotában olyan tartós javulás következett be, amely alapján a jogosultsági feltételek már nem állnak fenn,
 
-d) keresőtevékenységet folytat, és jövedelme 3 egymást követő hónapon keresztül meghaladja a minimálbér 150 százalékát,
+d)
 
 e) foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor,
 
@@ -16,9 +20,9 @@ f) az értesítési kötelezettségét neki felróható okból nem teljesíti, v
 
 g) a felülvizsgálat során neki felróható okból nem működik együtt.
 
-(2a) A (2) bekezdés d) pontjának alkalmazása során, a biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § 14. pont 14.2. alpontjában foglaltakat kell érteni.
+(2a)
 
-(3) A rokkantsági ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés c) és e)–g) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával, a (2) bekezdés d) pontja szerinti esetben a megszüntetési ok bekövetkezését követő hónap első napjával kell megszüntetni.
+(3) A rokkantsági ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés c) és e)–g) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
 
 (4) A (2) bekezdés c) pontjában foglaltak fennállását a rehabilitációs hatóság által végzett komplex minősítés alapján kell megállapítani.
 

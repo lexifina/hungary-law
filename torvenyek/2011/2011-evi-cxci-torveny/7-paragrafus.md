@@ -1,4 +1,4 @@
-7. § (1) A rehabilitációs ellátás a megállapítására irányuló elsőfokú közigazgatási hatósági eljárást lezáró érdemi döntés keltét követő naptól a rehabilitációhoz szükséges időtartamra állapítható meg. A rehabilitációhoz szükséges időtartamot legfeljebb 36 hónapban lehet meghatározni.
+7. § (1) A rehabilitációs ellátás a megállapítására irányuló közigazgatási hatósági eljárást lezáró érdemi döntés keltét követő naptól a rehabilitációhoz szükséges időtartamra állapítható meg. A rehabilitációhoz szükséges időtartamot legfeljebb 36 hónapban lehet meghatározni.
 
 (1a) Azon személy esetében, aki a megváltozott munkaképességű személyek ellátása iránti kérelem benyújtásakor rendelkezik hatályos komplex minősítéssel, és az ellátás megállapítására irányuló eljárás során ismételt komplex minősítés elvégzésére nem kerül sor, az (1) bekezdéstől eltérően a rehabilitációs ellátást a jogosultsági feltételek bekövetkezésének napjától, de legkorábban a kérelem benyújtásának napjától kell megállapítani a komplex minősítés időbeli hatályának végéig.
 

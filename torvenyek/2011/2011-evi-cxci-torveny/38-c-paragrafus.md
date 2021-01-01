@@ -8,4 +8,4 @@ felülvizsgálati eljárás megindításának időpontjában az öregségi nyugd
 
 (2) Ha az (1) bekezdés szerinti továbbfolyósításról szóló döntést követően a rokkantsági ellátásban részesülő személy 19. § (1) bekezdés b), d) vagy e) pontja szerinti okból történő felülvizsgálatára kerül sor, a felülvizsgálatra a 33. § (7) bekezdését, valamint a 33/A. §-t kell alkalmazni.
 
-(3) Az (1) bekezdés alapján rokkantsági ellátásban részesülő személy által folytatott keresőtevékenység esetén a 13. § (2) bekezdés d) pontja szerinti megszüntetési ok megállapításánál a 2016. április 30-át követően szerzett jövedelem vehető figyelembe.
+(3)
