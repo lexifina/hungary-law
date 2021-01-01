@@ -1,8 +1,8 @@
 20. § (1) A közlekedési hatóság az egyéb kötöttpályás közlekedés biztonságával és az egyéb kötöttpályás forgalom lebonyolításával kapcsolatos szabályok megsértése esetén
 
-a) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalót és egyéb foglalkoztatott személyt a külön jogszabályban meghatározottak szerint határozott időre eltilthatja a munkavégzéstől, valamint a munkakör további betöltését képzés elvégzéséhez és hatósági vizsga letételéhez kötheti,
+a) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalót és egyéb foglalkoztatott személyt legfeljebb egy évre eltilthatja a munkavégzéstől, valamint a munkakör további betöltését egészségügyi alkalmassági vizsgálathoz, vagy képzés elvégzéséhez és hatósági vizsga letételéhez kötheti,
 
-b) felszólítja az üzemeltetőt az egyéb közlekedési rendszer leállítására, ha az ellenőrzés alá vont különleges kötöttpályás közlekedési rendszer a külön jogszabályokban, valamint a hálózati forgalmi és a biztonsági utasításokban előírásoknak nem felel meg vagy az egyéb kötöttpályás közlekedés biztonsága érdekében különösen indokolt.
+b) kötelezi az üzemeltetőt az egyéb közlekedési rendszer leállítására, ha az ellenőrzés alá vont különleges kötöttpályás közlekedési rendszer a külön jogszabályokban, valamint a hálózati forgalmi és a biztonsági utasításokban előírásoknak nem felel meg vagy az egyéb kötöttpályás közlekedés biztonsága érdekében különösen indokolt.
 
 (2) Az e törvényben vagy a végrehajtására kiadott jogszabályokban meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
 
