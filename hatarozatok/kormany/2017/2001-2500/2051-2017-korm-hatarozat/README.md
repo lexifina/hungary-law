@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2051-30
 | --- | --- | --- |
 | 2017-12-27 | 2017-2051-30-22.1 | 2051/2017. (XII. 27.) Korm. határozat |
 | 2018-04-06 | 2017-2051-30-22.2 | 1211/2018. (IV. 6.) Korm. határozat |
+| 2021-01-01 | 2017-2051-30-22.3 | 2011. évi CXCV. törvény |

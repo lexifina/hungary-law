@@ -38,11 +38,7 @@
 
 ## 4. A Kormány jóváhagyja, hogy a 3. pontban szereplő feladat ellátásához szükséges beszerzések lefolytatása során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-## 5.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 922 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 8. A Fővárosi Nagycirkusz elhelyezése és kialakítása jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 10. Egyes szociális és gyermekvédelmi szolgáltatások fejlesztési támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 5.[^1]
 
 ## 6.[^2] A Kormány felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások miniszterének bevonásával – gondoskodjon az 5. pont szerinti forrás visszapótlásáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 8. A Fővárosi Nagycirkusz elhelyezése és kialakítása jogcímcsoport javára.
 
@@ -60,71 +56,7 @@
 
 1. melléklet a 2051/2017. (XII. 27.) Korm. határozathoz[^4]
 
-| XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 19 |  |  |  |  |  | Szociális célú humánszolgáltatások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 353784 |  |  |  | 10 |  |  |  |  |  | Egyes szociális és gyermekvédelmi szolgáltatások fejlesztési támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 922 000 000 |  |  |  |
-
-|  |  |  | 50 |  |  |  |  |  | Kulturális szakmai feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 353762 |  |  |  | 8 |  |  |  |  |  | A Fővárosi Nagycirkusz elhelyezése és kialakítása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -922 000 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 19 |  |  |  |  |  | Szociális célú humánszolgáltatások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 353784 |  |  |  | 10 |  |  |  |  |  | Egyes szociális és gyermekvédelmi szolgáltatások fejlesztési támogatása |  |  |  |  |  |  |  |  | 922 000 000 |  |  |  |
-
-|  |  |  | 50 |  |  |  |  |  | Kulturális szakmai feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 353762 |  |  |  | 8 |  |  |  |  |  | A Fővárosi Nagycirkusz elhelyezése és kialakítása |  |  |  |  |  |  |  |  | -922 000 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  | azonnal |  | 922 000 000 |  |  |  |  |  |  |  |  |  | 922 000 000 |  |  |
-
-| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: Az 5. pontot az 1211/2018. (IV. 6.) Korm. határozat 2. pontja iktatta be.
+[^1]: Az 5. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^2]: A 6. pontot az 1211/2018. (IV. 6.) Korm. határozat 2. pontja iktatta be.
 [^3]: A 7. pontot az 1211/2018. (IV. 6.) Korm. határozat 2. pontja iktatta be.
-[^4]: Az 1. mellékletet az 1211/2018. (IV. 6.) Korm. határozat 2. pontja iktatta be.
+[^4]: Az 1. mellékletet az 1211/2018. (IV. 6.) Korm. határozat 2. pontja iktatta be, a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
