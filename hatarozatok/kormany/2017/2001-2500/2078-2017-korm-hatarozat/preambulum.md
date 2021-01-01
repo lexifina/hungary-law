@@ -1,1 +1,0 @@
-A Kormány a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 4. § (1) bekezdésében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében foglalt jogkörében eljárva a költségvetési szerveknél és az egyházi jogi személyeknél foglalkoztatottak 2017. évi kompenzációjának elszámolása keretében egyszeri jelleggel
