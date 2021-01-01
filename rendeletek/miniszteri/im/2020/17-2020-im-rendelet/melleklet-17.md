@@ -1,0 +1,44 @@
+17. melléklet a 17/2020. (XII. 23.) IM rendelethez
+
+## Okirattal vagy tárgyi bizonyítási eszközzel történő bizonyítás indítványozása, illetve okirat vagy tárgyi bizonyítási eszköz rendelkezésre bocsátása iránti pótlap nyomtatvány
+
+PÓTLAP
+
+OKIRATTAL VAGY TÁRGYI BIZONYÍTÁSI ESZKÖZZEL TÖRTÉNŐ BIZONYÍTÁS INDÍTVÁNYOZÁSA, ILLETVE OKIRAT VAGY TÁRGYI BIZONYÍTÁSI ESZKÖZ RENDELKEZÉSRE BOCSÁTÁSA[^705]
+
+1. A pótlap sorszáma:[^706]
+
+2. Az okirat vagy tárgyi bizonyítási eszköz
+
+Megnevezése:
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+Annak megjelölése, hogy milyen tényeket kíván okirattal vagy tárgyi bizonyítási eszközzel bizonyítani:
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________
+
+[^705]: Amennyiben tényállításait okirattal vagy tárgyi bizonyítási eszközzel kívánja alátámasztani, azokat meg kell neveznie, és, ha rendelkezésre állnak, akkor meg kell jelölnie a benyújtandó nyomtatvány erre vonatkozó rovatánál és csatolnia kell a nyomtatványhoz. Tárgyi bizonyítási eszköz pl. a kép- és hangfelvétel. Ha több okirattal, illetve tárgyi bizonyítási eszközzel történő bizonyítást indítványoz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
+[^706]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
