@@ -40,7 +40,7 @@
 
 ## 2. Egyéb rendeltetésű épületek
 
-## 2.1. Az 1. pontban meghatározottól eltérő rendeltetésű épületekre, épületrészekre az összesített energetikai jellemző követelményértékét a következők szerint az épület és épületgépészeti referencia rendszer alapján lehet meghatározni:
+## 2.1. Az 1. pontban meghatározottól eltérő rendeltetésű épületekre, épületrészekre az összesített energetikai jellemző követelményértékét a következők szerint az épület és épülettechnikai referencia rendszer alapján lehet meghatározni:
 
 ## 2.1.1. a fajlagos hőveszteség-tényező értéke a vizsgált épület, épületrész lehűlő felület (A) és fűtött terek levegő térfogat (V) arány függvényében a II. részben megadott követelményérték (az ott meghatározott előírásokat az összesített energetikai jellemző követelményértékének kifejezéséhez alkalmazni kell olyan mezőgazdasági ipari és műhely épületre, amelyben nincs huzamos tartózkodás céljára szolgáló helyiség, továbbá a fajlagos hőtároló tömege szerint nehéznek minősülő épületeknél is);
 
@@ -48,7 +48,7 @@
 
 ## 2.1.3. a fogyasztói igényeket és az ebből származó adatokat – légcsereszám, belső hőterhelés, világítás, a használati melegvíz-ellátás nettó energiaigénye – az épület használati módjának (használók száma, tevékenysége, technológia stb.) alapján a vonatkozó jogszabályok, szabványok, vagy ezek hiányában a tervezési programban meghatározottak szerint kell meghatározni; az épület szakaszos üzem korrekciós szorzójának értéke σ = 0,9.
 
-## 2.2. Az ezen igények kielégítését fedező bruttó energiaigényt az alábbiakban leírt épületgépészeti rendszer adataival kell számítani:
+## 2.2. Az ezen igények kielégítését fedező bruttó energiaigényt az alábbiakban leírt épülettechnikai rendszer adataival kell számítani:
 
 ## 2.2.1. a fűtési rendszer hőtermelőjének helye (fűtött téren belül vagy kívül) a tényleges állapottal megegyezően adottságként veendő figyelembe,
 
@@ -84,15 +84,17 @@
 
 ## IV. Felhasznált minimális megújuló energia részaránya
 
-## 1. Az épület energiaigényét az összesített energetikai jellemző méretezett értékéhez viszonyítva legalább 25%-os mennyiségben olyan megújuló energiaforrásból kell biztosítani, amely az épületben keletkezik, az ingatlanról származik vagy a közelben előállított. A III. rész 2. pontjában meghatározott egyéb rendeltetésű épületeknél minimálisan alkalmazandó megújuló részaránynak nem kell meghaladnia a 25 kWh/m2-évet. A minimálisan alkalmazandó megújuló energiaigény mértéke a következő képlettel határozható meg:
+## 1. Abban az esetben, ha a 4. melléklet szerinti kötelező alternatív rendszerek vizsgálata szerint a műszaki, gazdasági feltételek arra adottak, az épület energiaigényét az összesített energetikai jellemző méretezett értékéhez viszonyítva legalább 25%-os mennyiségben olyan megújuló energiaforrásból kell biztosítani, amely az épületben keletkezik, az ingatlanról származik, a közelben előállított vagy az országos hálózatból vett elektromos áram összetevője.
 
-## Esus min= 0,25 · EP méretezett
+## A III. rész 2. pontjában meghatározott egyéb rendeltetésű épületeknél minimálisan alkalmazandó megújuló energia részarány legfeljebb 25 kWh/m2-év lehet. A minimálisan alkalmazandó megújuló energiaigény mértéke a következő képlettel határozható meg:
+
+## Esus min = 0,25 ⋅ EP méretezett
 
 ## ahol
 
 ## Esus min: a minimálisan alkalmazandó megújuló energiaigény mértéke,
 
-## EP méretezett: a 2. melléklet XII. része szerint meghatározott az épület számított összesített energetikai jellemzője.
+## EP méretezett: a 2. melléklet XII. része szerint meghatározott, az épület számított összesített energetikai jellemzője.
 
 ## 2. Az 1. pontban meghatározott megújuló primer energia részarány biztosításával az összesített energetikai jellemző követelmény értékét nem befolyásolja (az összesített energetikai jellemző méretezett értékénél a megújuló primer energiafogyasztás nem kerül számításba a 3. melléklet V.1. táblázatának megfelelően).
 
@@ -122,7 +124,33 @@
 
 ## 4.2. A jellemzően hőszivattyúzás útján vagy más módon a környezetből felvett hő (geotermikus, hidrotermikus, légtermikus energia) akkor vehető figyelembe, ha az természetes forrásból származik. Épületből távozó vagy az épületben keletkező hő nem vehető figyelembe, kivéve a más épületekből a közcsatornákba engedett víz hőjét. Az épület hűtésére felhasznált hő a hűtés üzemideje alatt, de legfeljebb április 15-e és október 15-e között vehető figyelembe.
 
-7. melléklet a 7/2006. (V. 24.) TNM rendelethez[^35]
+## 4.3. Az épület hűtésére felhasznált megújuló hőmennyiség a hűtés üzemideje alatt, de legfeljebb április 15-e és október 15-e között vehető figyelembe. Hőszivattyú esetén hűtési üzemmódban a helyiségből elvont, a külső légtérbe leadott hő nem vehető figyelembe megújuló energiaforrásként.
+
+## 5. Abban az esetben, ha a 4. melléklet szerinti kötelező alternatív rendszerek vizsgálata szerint a műszaki, gazdasági feltételek az 1. pont szerinti minimális megújuló energia részarány teljesítésére nem adottak, a minimális megújuló energiára vonatkozó követelmény megnövelt energiahatékonysággal is teljesíthető. A minimálisan elvárt megnövelt energiahatékonyság-szintet a IV. 2. táblázat szerint kell biztosítani.
+
+## IV.2. táblázat: A megnövelt költség-hatékonyság követelményértékei
+
+|  | A | B |
+
+| 1. | Rendeltetés | EP méretezett összesített energetikai jellemző követelményértéke (kWh/m2/a) |
+
+| 2. | Lakó- és szállás jellegű épületek (nem tartalmazza a világítási energiaigényt) | 76 |
+
+| 3. | Iroda és legfeljebb 1000 m2 hasznos alapterületű helységet magukba foglaló kereskedelmi épületek (világítási energiaigényt is beleértve)1) | 68 |
+
+| 4. | Oktatási épületek és előadótermet, kiállítótermet jellemzően magukba foglaló épületek (világítási energiaigényt is beleértve) | 65 |
+
+## 1) Az épület 1. melléklet V. részében meghatározottak szerint hűtött helyiségéinek a hűtéssel ellátott hasznos alapterület hányadában további 10 kWh/m2/a-val való megnövelése megengedett.
+
+## A III. rész 2. pontja szerinti egyéb rendeltetésű épületek esetében a megnövelt költség-hatékonyság követelmény akkor tekinthető teljesítettnek, ha a következő feltétel teljesül:
+
+## EP méretezett < 0,76 ⋅ EP referencia
+
+## ahol
+
+## EP referencia: A III. rész 2. pont 2.1–2.3 alpontja szerint meghatározott referencia épület összesített energetikai követelményértéke.
+
+7. melléklet a 7/2006. (V. 24.) TNM rendelethez[^37]
 
 1. Számítási eljárás távhőszolgáltatók számára a távhőellátás primer energia tényezőjének meghatározásához.
 
@@ -196,6 +224,8 @@ evill = 2,5 kWh/kWh
 
 |  | 17. | Kapcsolt energiatermelés hőszivattyúval (e14) | 0,71 | 0,426 |
 
+|  | 18. | Kapcsolt energiatermelés nukleáris erőművi blokkban (e15) | 0 |
+
 1.10. A felhasznált villamos energia aránya a kiadott hőmennyiségre vetítve (αvill)
 
 |  |  | A | B |
@@ -252,6 +282,4 @@ evill = 2,5 kWh/kWh
 
 |  | 8. | Hőszivattyú | 1-1/SPF* |
 
-* SPF a hőszivattyú átlagos szezonális fűtési tényezője.
-
-[^35]: A 7. mellékletet a 41/2019. (XI. 14.) ITM rendelet 3. § (3) bekezdése iktatta be.
+[^37]: A 7. mellékletet a 41/2019. (XI. 14.) ITM rendelet 3. § (3) bekezdése iktatta be, szövege a 61/2020. (XII. 30.) ITM rendelet 6. § (3) bekezdése szerint módosított szöveg.

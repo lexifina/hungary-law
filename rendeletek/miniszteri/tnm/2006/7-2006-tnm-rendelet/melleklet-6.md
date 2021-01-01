@@ -46,7 +46,7 @@
 
 | 20 | Lábazati fal, talajjal érintkező fal a terepszinttől 1 m mélységig (a terepszint alatti rész csak új épületeknél) | 0,3 |
 
-| 21 | Talajon fekvő padló (új épületeknél) | 0,3 |
+| 21 | Új épületeknél a talajon fekvő padló a kerület mentén 1,5 m széles sávban (a lábazaton elhelyezett azonos ellenállású hőszigeteléssel helyettesíthető) | 0,3 |
 
 | 22 | Hagyományos energiagyűjtő falak (pl. tömegfal, Trombe fal) | 1 |
 
@@ -112,7 +112,7 @@
 
 ## 5. Egyéb funkciójú épületek
 
-## 5.1. A III.1., III.2. és III.3. pontban meghatározott funkciótól eltérő rendeltetésű épületekre az összesített energetikai jellemző követelményértékét a következők szerint meghatározott épület és épületgépészeti rendszer alapján lehet meghatározni:
+## 5.1. A III.1., III.2. és III.3. pontban meghatározott funkciótól eltérő rendeltetésű épületekre az összesített energetikai jellemző követelményértékét a következők szerint meghatározott épület és épülettechnikai rendszer alapján lehet meghatározni:
 
 ## 5.1.1. a fajlagos hőveszteség-tényező értéke a vizsgált épület felület/térfogat viszonya függvényében a II. pontban megadott követelményérték;
 
@@ -120,7 +120,7 @@
 
 ## 5.1.3. a fogyasztói igényeket és az ebből származó adatokat: légcsereszám, belső hőterhelés, világítás, a használati melegvíz-ellátás nettó energiaigénye az épület használati módjának (használók száma, tevékenysége, technológia stb.) alapján a vonatkozó jogszabályok, szabványok és a szakma szabályai szerint kell meghatározni; az épület szakaszos üzem korrekciós szorzójának értéke σ = 0,9.
 
-## 5.2. Az ezen igények kielégítését fedező bruttó energiaigényt az alábbiakban leírt épületgépészeti rendszer adataival kell számítani:
+## 5.2. Az ezen igények kielégítését fedező bruttó energiaigényt az alábbiakban leírt épülettechnikai rendszer adataival kell számítani:
 
 ## 5.2.1. a fűtési rendszer hőtermelőjének helye (fűtött téren belül vagy kívül) a tényleges állapottal megegyezően adottságként veendő figyelembe,
 
@@ -154,6 +154,6 @@
 
 ## 5.3. A gépi hűtés energiaigényének számítását a 2. melléklet szerint kell elvégezni.
 
-6. melléklet a 7/2006. (V. 24.) TNM rendelethez[^34]
+6. melléklet a 7/2006. (V. 24.) TNM rendelethez[^36]
 
-[^34]: A 6. mellékletet a 39/2015. (IX. 14.) MvM rendelet 5. § c) pontja iktatta be, szövege a 41/2019. (XI. 14.) ITM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 6. mellékletet a 39/2015. (IX. 14.) MvM rendelet 5. § c) pontja iktatta be, szövege a 41/2019. (XI. 14.) ITM rendelet 3. § (2) bekezdése, a 61/2020. (XII. 30.) ITM rendelet 6. § (2) bekezdése szerint módosított szöveg.

@@ -16,7 +16,7 @@
 
 ## A besorolás alapja a fajlagos hőtároló tömeg (2. melléklet III. 2. pontja)
 
-## V. Az épületgépészeti rendszerre vonatkozó előírások
+## V. Az épülettechnikai rendszerre vonatkozó előírások
 
 ## 1. A belső hőmérsékletre vonatkozó előírások
 
@@ -24,7 +24,7 @@
 
 ## Általános esetben az alábbi 1. táblázat tartalmazza a hőmérsékletet és a beszabályozási tartományt.
 
-## 1. táblázat: Az épületgépészeti rendszer tervezéséhez figyelembe vehető légállapot adatok
+## 1. táblázat: Az épülettechnikai rendszer tervezéséhez figyelembe vehető légállapot adatok
 
 | Az épület vagy a helyiség funkciója | A minimális belső hőmérséklet fűtésnél, °C | Hőmérséklet tartomány fűtésnél, °C | A maximális belső hőmérséklet hűtésnél, °C (amennyiben van gépi hűtés) | Hőmérséklet tartomány hűtésnél, °C |
 
@@ -86,7 +86,7 @@
 
 ## 2.2. Lakóépület
 
-## Légtechnikai rendszer esetén, az alábbi helyiségekben a tartózkodási zónába minimálisan bejuttatandó friss levegő mennyiséget a 2. táblázat szerint lehet megállapítani
+## Légtechnikai rendszerrel az alábbi helyiségekben a tartózkodási zónába minimálisan bejuttatandó friss levegő mennyiséget a 2. táblázat szerint lehet megállapítani
 
 ## 2. táblázat: Friss levegő igény
 
@@ -102,6 +102,8 @@
 
 ## 2.3. Az energiaigény meghatározásánál figyelembe vett szellőzési levegő mennyisége nem lehet kevesebb, mint a 3. melléklet IV.1. táblázatban megadott érték.
 
+## 2.4. Az épület 2.1. vagy 2.2. alpontban meghatározott, a tartózkodási zónába minimálisan bejuttatandó friss levegő mennyiséget és az elvezetésre kerülő szennyezett levegőt, így a légcserét, csak szabályozott működésű hővisszanyerős szellőztetőrendszer vagy központi elszívásos szellőzés kiépítésével lehet biztosítani, mely a belső páratartalom és CO2-szint alapján automatikusan és folyamatosan, igény szerint üzemel. A rendszer részeként és kialakításánál figyelembe vehetők a friss levegő bevezetésére alkalmas passzív, automatikus működésű páraszabályozású légbevezető elemek. Az épület külső nyílászáróinak teljes vagy részleges nyitásával történő friss levegő bejutást a 2.1. és 2.2. alpontban meghatározott érték számításnál nem szabad figyelembe venni.
+
 ## 3. A hőtermelőre vonatkozó előírások
 
 ## 3.1. Hőtermelő
@@ -114,9 +116,9 @@
 
 ## 4. A fűtési rendszerre vonatkozó előírások
 
-## 4.1 Helyiségenkénti hőmérséklet-szabályozás
+## 4.1. Helyiségenkénti hőmérséklet-szabályozás
 
-## Új fűtési rendszer létesítésekor és meglévő fűtési rendszer korszerűsítésekor a helyiségenkénti hőmérséklet-szabályozást javasolt megvalósítani gazdaságossági számítás alapján. Ha az épületben több különböző tulajdonú épületrész található, akkor javasolt az épületrészenkénti hőmennyiségmérés.
+## Új fűtési és hűtési rendszer létesítésekor az új épületeket olyan önszabályozó készülékekkel kell felszerelni, amelyekkel minden egyes 12 m2-nél nagyobb alapterületű helyiségben önállóan szabályozható a hőmérséklet. Meglévő épületek esetében az ilyen önszabályozó készülékeket a hőtermelők cseréjekor kell beszerelni, ha azok a hőszállító és hőleadó rendszer átalakítása nélkül beépíthetők. Ha az épületben több eltérő tulajdonú épületrész található, javasolt az épületrészenkénti hőmennyiségmérés vagy költségmegosztó készülékek alkalmazása.
 
 ## 4.2. Beszabályozás, próbaüzem, átadás
 
@@ -194,7 +196,7 @@
 
 ## 4. táblázat: Légcsatornák megengedett maximális levegő vesztesége
 
-## 8K01352M_6
+## 0X11691M_6
 
 | Statikus nyomás[Pa] | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 | 1200 | 1500 | 1800 | 2000 |
 
@@ -218,6 +220,10 @@
 
 ## Olyan helyiségek esetén, amelyeknek a bevilágító felületei 45°-foknál alacsonyabb szögben vannak, vagy 45°-on vagy annál magasabb szögben vannak és az északi tájolástól legalább 30°-kal eltérnek, hűtési rendszert kiépíteni csak abban az esetben szabad, ha bevilágító felületeken a hűtési üzemideje alatt gnyár<0,3 napsugárzás elleni hővédelem van biztosítva.
 
-2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^30]
+## 8. Épülettechnikai rendszerek értékelése
 
-[^30]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+## Épülettechnikai rendszernek, mint az energiafogyasztást befolyásoló termékek összességének a telepítésekor, cseréjekor vagy korszerűsítésekor a megváltoztatott résznek, az épület jelentős felújításával együtt járó telepítése, cseréje vagy korszerűsítése esetén a rendszer egészének általános energiahatékonyságát az energiafogyasztást befolyásoló termék energiacímkézéséről és termékismertetővel való ellátásáról szóló 210/2018. (XI. 20.) Korm. rendeletnek, valamint az energiacímkézés keretének meghatározásáról és a 2010/30/EU irányelv hatályon kívül helyezéséről szóló, 2017. július 4-i (EU) 2017/1369 európai parlamenti és tanácsi rendelet és más, a vonatkozó felhatalmazáson alapuló jogi aktusok rendelkezéseinek megfelelően értékelni kell. Az értékelés eredményét a beszállító vagy a kereskedő a termékre vonatkozó adatlappal és a termékre helyezett címkével, távértékesítés esetén az épülettechnikai rendszerre vonatkozó adatlap és a címke elektronikus változatának rendelkezésre bocsátásával dokumentálja és továbbítja az épület tulajdonosának, hogy azok az e fejezetben előírtaknak való megfelelés ellenőrzése során, valamint az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendeletben meghatározott energiahatékonysági tanúsítványok kiállítása céljából rendelkezésre álljanak és felhasználhatók legyenek.
+
+2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^32]
+
+[^32]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése, a 61/2020. (XII. 30.) ITM rendelet 7. § b) pontja szerint módosított szöveg.

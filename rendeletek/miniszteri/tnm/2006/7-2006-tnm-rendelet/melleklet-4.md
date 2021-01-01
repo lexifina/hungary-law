@@ -570,9 +570,9 @@
 
 | 9. | távhőellátás | a 6/A. § szerint közzétett érték |
 
-4. melléklet a 7/2006. (V. 24.) TNM rendelethez
+4. melléklet a 7/2006. (V. 24.) TNM rendelethez[^34]
 
-Új épületek alternatív rendszereinek vizsgálata[^32]
+Új épületek alternatív rendszereinek vizsgálata
 
 I. Általános rendelkezések
 
@@ -648,11 +648,11 @@ Amennyiben a távhőellátás lehetséges, akkor számítandó a rendszer fajlag
 
 – a kiegészítő hőellátás milyen energiahordozóval biztosítható, és a lefedési arányok (2. melléklet) alapján számított fajlagos primer energiaigény mekkora.
 
-6. Valamennyi előbb felsorolt esetben az alternatív energiaellátást műszaki-környezeti szempontból célszerűnek kell minősíteni, ha a vizsgált alternatív energiaellátási megoldás(ok) alkalmazása esetén az épület fajlagos primer energiaigénye kisebb, mint az ugyanazon geometriájú és azonos határoló- és nyílászáró szerkezetekkel, valamint a 7. pont alatti épületgépészeti rendszerekkel kialakított épület fajlagos primer energiaigénye.
+6. Valamennyi előbb felsorolt esetben az alternatív energiaellátást műszaki-környezeti szempontból célszerűnek kell minősíteni, ha a vizsgált alternatív energiaellátási megoldás(ok) alkalmazása esetén az épület fajlagos primer energiaigénye kisebb, mint az ugyanazon geometriájú és azonos határoló- és nyílászáró szerkezetekkel, valamint a 7. pont alatti épülettechnikai rendszerekkel kialakított épület fajlagos primer energiaigénye.
 
 Az alternatív energiaellátás műszaki-környezeti szempontból célszerűtlennek minősíthető, ha az előző feltétel nem áll fenn, avagy az engedélyezési tervben szereplő megoldás esetén a fajlagos primer energiaigény kisebb, mint alternatív energiaellátás esetén.
 
-7. A viszonyítási alapot a következők szerint meghatározott épület és épületgépészeti rendszer együttese képezi:
+7. A viszonyítási alapot a következők szerint meghatározott épület és épülettechnikai rendszer együttese képezi:
 
 A fajlagos hőveszteségtényező értéke a vizsgált épület felület/térfogat viszonya függvényében az 1. mellékletben megadott követelményérték:
 
@@ -664,7 +664,7 @@ A fajlagos hőveszteségtényező értéke a vizsgált épület felület/térfog
 
 – a világítási energiaigény az épület használati módjának (használók száma, tevékenysége, technológia stb.) alapján a szakma szabályai szerint számított szükséges érték,
 
-– a használati melegvízellátás nettó energiaigénye az épület használati módjának (használók száma, tevékenysége stb.) alapján a szakma szabályai szerint számított szükséges érték, és ezen igények kielégítésére az alábbiakban leírt épületgépészeti rendszer szolgál:
+– a használati melegvízellátás nettó energiaigénye az épület használati módjának (használók száma, tevékenysége stb.) alapján a szakma szabályai szerint számított szükséges érték, és ezen igények kielégítésére az alábbiakban leírt épülettechnikai rendszer szolgál:
 
 – a fűtési rendszer hőtermelőjének helye (fűtött téren belül vagy kívül) a tényleges állapottal megegyezően adottságként veendő,
 
@@ -704,11 +704,11 @@ III. Gazdaságossági vizsgálat
 
 2. Megállapítandó az alternatív energiaellátás beruházási költsége. A költségbecslés során a vizsgált alternatív energiaellátási módozat valamennyi járulékos költségét (energiatároló, tüzelőtároló, hálózat, konverter, szabályozó, helyigény, épületszerkezet, mélyépítés, műtárgyak stb.), továbbá nem 100% lefedési arány esetén a kiegészítő rendszer költségeit is figyelembe kell venni.
 
-3. Megállapítandó a tervezett létesítmény funkciójának megfelelő hagyományos épületgépészeti rendszerek vagy a tervezett épületgépészeti rendszerek beruházási költsége.
+3. Megállapítandó a tervezett létesítmény funkciójának megfelelő hagyományos épülettechnikai rendszerek vagy a tervezett épülettechnikai rendszerek beruházási költsége.
 
 4. Számítandó a 2. és a 3. pontok szerinti beruházási költségek különbsége.
 
-5. Számítandó az alternatív energiaellátás és a 3. pont szerinti épületgépészeti rendszer üzemeltetési költségeinek különbsége.
+5. Számítandó az alternatív energiaellátás és a 3. pont szerinti épülettechnikai rendszer üzemeltetési költségeinek különbsége.
 
 6. Az alternatív energiaellátás gazdaságossági szempontból célszerűnek minősítendő, ha a III.4. és III.5. pontok eredményeivel számított megtérülési idő tíz éven belül van.
 
@@ -716,4 +716,4 @@ III. Gazdaságossági vizsgálat
 
 IV. Mintalap a megvalósíthatósági elemzés eredményeinek dokumentálásához
 
-[^32]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^34]: A 4. melléklet a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdése, a 61/2020. (XII. 30.) ITM rendelet 7. § b) és d) pontja szerint módosított szöveg.

@@ -94,13 +94,13 @@
 
 | 1 | Primer energiaigény alternatív energiaellátás esetén |  |
 
-| 2 | Primer energiaigény a II.7. pontjának megfelelő vagy a tervezett épületgépészeti rendszerrel |  |
+| 2 | Primer energiaigény a II.7. pontjának megfelelő vagy a tervezett épülettechnikai rendszerrel |  |
 
 | Gazdaságossági vizsgálat (amennyiben az alternatív energiaellátás primer energiaigénye a kisebb) |
 
 | 1 | Az alternatív energiaellátás beruházási költségei a főbb tételek megadásával összesen |  |
 
-| 2 | A II.7. pontjának megfelelő vagy a tervezett épületgépészeti rendszer beruházási költségei |  |
+| 2 | A II.7. pontjának megfelelő vagy a tervezett épülettechnikai rendszer beruházási költségei |  |
 
 | 3 | 1. és 2. különbsége |  |
 
@@ -110,6 +110,6 @@
 
 | 6 | Alternatív energiaellátás gazdaságossági szempontból célszerű | I | N |
 
-5. melléklet a 7/2006. (IV. 24.) TNM rendelethez[^33]
+5. melléklet a 7/2006. (IV. 24.) TNM rendelethez[^35]
 
-[^33]: Az 5. mellékletet a 20/2014. (III. 7.) BM rendelet 6. § (1) bekezdése iktatta be.
+[^35]: Az 5. mellékletet a 20/2014. (III. 7.) BM rendelet 6. § (1) bekezdése iktatta be, szövege a 61/2020. (XII. 30.) ITM rendelet 7. § b) és e) pontja szerint módosított szöveg.

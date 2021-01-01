@@ -14,7 +14,7 @@
 
 ## 3.1. A fajlagos hőveszteségtényező tervezett értékének megállapítása.
 
-## Ez a határértéknél semmiképpen sem lehet magasabb, de magas primer energiatartalmú energiahordozók és/vagy kevésbé energiatakarékos épületgépészeti rendszerek alkalmazása esetén a határértéknél alacsonyabbnak kell lennie.
+## Ez a határértéknél semmiképpen sem lehet magasabb, de magas primer energiatartalmú energiahordozók és/vagy kevésbé energiatakarékos épülettechnikai rendszerek alkalmazása esetén a határértéknél alacsonyabbnak kell lennie.
 
 ## 3.2. A nyári túlmelegedés kockázatának ellenőrzése.
 
@@ -74,7 +74,7 @@
 
 ## 4. Ha az épület egyes határoló felületei vagy szerkezetei nem a külső környezettel, hanem attól eltérő tx hőmérsékletű fűtetlen vagy fűtött terekkel érintkeznek (raktár, pince, szomszédos épület), akkor ezen felületek U hőátbocsátási tényezőit a következő:
 
-## 4K03449M_0
+## 0X11691Q_0
 
 |  |  | (II.1.) |
 
@@ -180,7 +180,7 @@
 
 ## Az épület hőtároló tömege az épület belső levegőjével közvetlen kapcsolatban lévő határoló szerkezetek hőtároló tömegének összege:
 
-## 4K03449M_4
+## 0X11691Q_4
 
 |  | (III.2.a) |
 
@@ -198,7 +198,7 @@
 
 ## a) Részletes számítási módszer esetén a következő összefüggéssel lehet meghatározni:
 
-## 4K03449M_6
+## 0X11691Q_6
 
 |  | (III.3.a) |
 
@@ -214,7 +214,7 @@
 
 ## a) Részletes számítási módszer esetén a következő összefüggéssel lehet meghatározni:
 
-## 4K03449M_7
+## 0X11691Q_7
 
 |  | (III.4.a) |
 
@@ -226,7 +226,7 @@
 
 ## a) Részletes számítási módszer alkalmazása esetén célszerű meghatározni ehhez a lépéshez kapcsolódóan, az esetleges társított (napvédő) szerkezet hatását is figyelembe véve.
 
-## 4K03449M_8
+## 0X11691Q_8
 
 |  | (III.5.a) |
 
@@ -266,7 +266,7 @@
 
 ## 2. Részletes számítási módszer alkalmazása esetén a következő összefüggéssel kell számítani az egyensúlyi hőmérsékletkülönbséget:
 
-## 4K03449M_12
+## 0X11691Q_12
 
 |  | (IV.2.) |
 
@@ -274,7 +274,7 @@
 
 ## 4. Részletes számítási módszer alkalmazása esetén az éves nettó fűtési energiaigényt a következő összefüggéssel lehet számítani:
 
-## 4K03449M_13
+## 0X11691Q_13
 
 |  | (IV.4.) |
 
@@ -324,7 +324,7 @@
 
 ## 6. A fűtési rendszerrel biztosított nettó fűtési energiaigény fajlagos értékét a következő összefüggéssel kell kiszámítani:
 
-## 4K03449M_18
+## 0X11691Q_18
 
 |  | (IV.6.) |
 
@@ -332,7 +332,7 @@
 
 ## 1. A belső és a külső hőmérséklet napi átlagos különbségét a következő összefüggéssel lehet kiszámítani:
 
-## 4K03449M_19
+## 0X11691Q_19
 
 |  | (V.1.) |
 
@@ -342,7 +342,7 @@
 
 ## 1. A fűtés fajlagos primer energia igényét a következő összefüggéssel kell kiszámítani:
 
-## 4K03449M_20
+## 0X11691Q_20
 
 |  | (VI.1.a) |
 
@@ -660,7 +660,7 @@
 
 ## 1. A melegvízellátás primer energiaigényét a következő összefüggéssel kell számítani:
 
-## 4K03449M_34
+## 0X11691Q_34
 
 |  | (VII.1.a) |
 
@@ -706,7 +706,7 @@
 
 ## VII.2. táblázat. Elektromos üzemű HMV készítés teljesítménytényezője, CK
 
-## 4K03449M_36
+## 0X11691Q_36
 
 |  |  | Teljesítménytényező |
 
@@ -854,7 +854,7 @@
 
 ## 1. A légcserét és a levegő melegítését szolgáló szellőzési rendszerek fajlagos primer energia igénye a következő összefüggéssel számítható:
 
-## 4K03449M_42
+## 0X11691Q_42
 
 |  | (VIII.1.a) |
 
@@ -870,7 +870,7 @@
 
 ## 2. A légtechnikai rendszerekbe épített ventilátorok villamos energiaigényét az alábbi összefüggéssel lehet meghatározni:
 
-## 4K03449M_43
+## 0X11691Q_43
 
 |  | (VIII.2.) |
 
@@ -920,13 +920,13 @@
 
 ## a) kör keresztmetszetű légcsatorna hővesztesége hosszegységre vonatkoztatva:
 
-## 4K03449M_47
+## 0X11691Q_47
 
 |  | (VIII.4.1.) |
 
 ## b) négyszög keresztmetszetű légcsatorna hővesztesége felületre vonatkoztatva:
 
-## 4K03449M_48
+## 0X11691Q_48
 
 |  | (VIII.4.2.) |
 
@@ -982,7 +982,7 @@
 
 ## A berendezések segédenergia igénye a következő összefüggéssel számítható:
 
-## 4K03449M_51
+## 0X11691Q_51
 
 |  | (VIII.5.) |
 
@@ -990,7 +990,7 @@
 
 ## A gépi hűtés fajlagos éves primer energiafogyasztása a bruttó energiafogyasztásból kell kiszámítani:
 
-## 4K03449M_52
+## 0X11691Q_52
 
 |  | (IX.1.) |
 
@@ -1000,13 +1000,13 @@
 
 ## A nettó hűtési energiaigény előzetes becslésére a következő közelítés alkalmazható:
 
-## 4K03449M_53
+## 0X11691Q_53
 
 |  | (IX.2.) |
 
 ## ahol nhű azoknak a napoknak a száma, amelyre teljesül a
 
-## 4K03449M_54
+## 0X11691Q_54
 
 |  | (IX.3.) |
 
@@ -1042,7 +1042,7 @@
 
 ## A beépített világítás fajlagos éves primer energiafogyasztása:
 
-## 4K03449M_56
+## 0X11691Q_56
 
 |  | (X.1.) |
 
@@ -1054,8 +1054,8 @@
 
 ## XII. Az összesített energetikai jellemző számítása
 
-## Az összesített energetikai jellemző az épületgépészeti és világítási rendszerek primer energiafogyasztása összegének egységnyi fűtött alapterületre vetített értéke.
+## Az összesített energetikai jellemző az épülettechnikai és világítási rendszerek primer energiafogyasztása összegének egységnyi fűtött alapterületre vetített értéke.
 
-3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^31]
+3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^33]
 
-[^31]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (3) bekezdése, a 39/2015. (IX. 14.) MvM rendelet 5. § b) pontja, a 41/2019. (XI. 14.) ITM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^33]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (3) bekezdése, a 39/2015. (IX. 14.) MvM rendelet 5. § b) pontja, a 41/2019. (XI. 14.) ITM rendelet 3. § (1) bekezdése szerint módosított szöveg.
