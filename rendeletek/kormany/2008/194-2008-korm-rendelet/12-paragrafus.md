@@ -14,6 +14,6 @@ bb) utasítására követték el a jogsértést: ötszázezer forint.
 
 (2) A 11. §-ban foglaltaktól eltérően, ha élelmiszerlánc-felügyeleti bírság a nyomonkövethetőségi szabályok megsértése miatt kerül kiszabásra, annyiszor ötvenezer forint összegű élelmiszerlánc-felügyeleti bírságot kell kiszabni, ahány tételt a jogsértés érintett.
 
-(3)[^12]
+(3)[^13]
 
-[^12]: A 12. § (3) bekezdését a 98/2014. (III. 25.) Korm. rendelet 7. § (10) bekezdés b) pontja hatályon kívül helyezte.
+[^13]: A 12. § (3) bekezdését a 98/2014. (III. 25.) Korm. rendelet 7. § (10) bekezdés b) pontja hatályon kívül helyezte.

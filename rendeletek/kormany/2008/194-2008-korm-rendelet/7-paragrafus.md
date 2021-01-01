@@ -1,4 +1,4 @@
-## 6. §[^4] Amennyiben a jogsértő magatartással az 1. számú melléklet A) táblázat b) pontjában, illetve a B) táblázat d) és e) pontjában szereplő esetekből több is megvalósul, a bírság mértékét a súlyosabb bírságtétellel fenyegetett jogsértésre irányadó bírságkiszabási szabályok szerint kell megállapítani.
+## 6. §[^5] Amennyiben a jogsértő magatartással az 1. számú melléklet A) táblázat b) pontjában, illetve a B) táblázat d) és e) pontjában szereplő esetekből több is megvalósul, a bírság mértékét a súlyosabb bírságtétellel fenyegetett jogsértésre irányadó bírságkiszabási szabályok szerint kell megállapítani.
 
 ## Takarmány-ellenőrzési bírság
 
@@ -22,4 +22,4 @@ g) egyéb, a Tv. végrehajtására kiadott jogszabályi előírásoknak való me
 
 (2) Ha a jogsértő magatartással egyidejűleg több, az (1) bekezdésben szereplő eset is megvalósul, a bírság alapösszegét a súlyosabb bírságtétellel fenyegetett jogsértésre irányadó bírságkiszabási szabályok szerint kell megállapítani.
 
-[^4]: A 6. § a 98/2014. (III. 25.) Korm. rendelet 7. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 6. § a 98/2014. (III. 25.) Korm. rendelet 7. § (9) bekezdés b) pontja szerint módosított szöveg.

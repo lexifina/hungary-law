@@ -10,6 +10,6 @@
 
 | 4. | A Tv. 23. § (2) bekezdésének megsértése | 2,5 | 3 | 4 |
 
-4. számú melléklet a 194/2008. (VII. 31.) Korm. rendelethez[^17]
+4. számú melléklet a 194/2008. (VII. 31.) Korm. rendelethez[^18]
 
-[^17]: A 4. számú melléklet a 98/2014. (III. 25.) Korm. rendelet 7. § (7) bekezdése szerint módosított szöveg.
+[^18]: A 4. számú melléklet a 98/2014. (III. 25.) Korm. rendelet 7. § (7) bekezdése szerint módosított szöveg.

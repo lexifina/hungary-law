@@ -10,4 +10,7 @@
 
 (5) E rendelet alkalmazásában azonos tényállású jogsértés alatt mind a jogszabály, mind az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa ugyanazon rendelkezésének megsértését érteni kell.
 
+(6)[^2] A helyszíni bírság összegét a Tv. 59/A. §-ában foglaltakra figyelemmel úgy kell megállapítani, hogy annak összege – maradék nélkül – 5000-rel osztható legyen.
+
 [^1]: A 2. § a 98/2014. (III. 25.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (6) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
