@@ -1,4 +1,4 @@
-## Az adó visszaigénylése
+## Az adó visszaigénylése és törlése
 
 13. § (1) A forgalomba helyezés előtt megfizetett adót az adóalany a vámhatósághoz benyújtott kérelemmel visszaigényelheti, ha
 
@@ -13,6 +13,14 @@ bb) megsemmisülése vagy eltulajdonítása (ellopása, elrablása) miatt a forg
 c) a gépjármű forgalomba helyezése adómentes.
 
 d) a közlekedési igazgatási hatóság a gépjármű forgalomba helyezésére irányuló kérelmet elutasította.
+
+(1a) A kivetett, de meg nem fizetett adót a vámhatóság
+
+a) az (1) bekezdés a)–c) pontjában meghatározott esetekben az adóalany kérelmére, vagy
+
+b) ha a gépjármű forgalomba helyezése a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet szerinti Műszaki adatlap 6 hónapos felhasználhatósági határidejéig, de legfeljebb a forgalomba helyezési engedély időbeli hatályának lejártáig nem következik be, hivatalból
+
+törli.
 
 (2) Az (1) bekezdés a) pontjában említett esetben a kiszállítás, kivitel tényét
 
