@@ -10,26 +10,32 @@
 
 (3b)
 
-(4) A tevékenységre vonatkozó jogszabályi és hatósági előírások megsértése esetén – a külön jogszabályban foglaltak szerint – a kereskedelmi hatóság
+(4) A tevékenységre vonatkozó jogszabályi előírások megsértése esetén – jogszabályban foglaltak szerint – a kereskedelmi hatóság
 
-a) elrendeli az üzlet vagy szálláshely ideiglenes bezárását,
+a) a következő közigazgatási szankciókat alkalmazhatja:
 
-b) elrendeli az üzlet vagy szálláshely azonnali bezárását,
+aa) elrendeli az üzlet vagy szálláshely ideiglenes bezárását,
 
-c) ha a kereskedő tevékenysége a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal jár, az üzlet környezetében, illetve a kereskedelmi tevékenység hatókörében lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében
+ab) elrendeli az üzlet vagy szálláshely azonnali bezárását,
 
-ca) korlátozza 22 óra és 6 óra között a kereskedelmi tevékenységet, illetve az üzlet kötelező éjszakai zárva tartását rendeli el,
+ac) a közterületi értékesítés szabályainak megszegése kivételével közigazgatási bírságot szab ki,
 
-cb) korlátozza vagy megtiltja a vendéglátó üzletben a vendégek szórakoztatására nyújtott szolgáltatást, tevékenységet,
+ad) ha az adott tevékenység végzése engedélyhez kötött, visszavonja az engedélyt,
 
-cc) korlátozza vagy megtiltja a hirdetés vagy figyelemfelhívás céljára szolgáló hanghatást okozó eszköz használatát,
+b) a (4a) bekezdésben meghatározott intézkedéseket hozhatja, vagy
 
-d) megtiltja az engedély nélkül folytatott, előírásokba ütköző tevékenység végzését, termékkör értékesítését,
+c) jogszabályban meghatározott egyéb jogkövetkezményeket alkalmazhat.
 
-e) ha az adott tevékenység végzése engedélyhez kötött, visszavonja az engedélyt,
+(4a) A (4) bekezdésben meghatározott esetben a kereskedelmi hatóság a következő jogkövetkezményeket alkalmazhatja:
 
-f) közterületi értékesítés szabályainak megszegése kivételével bírságot szab ki, illetve
+a) ha a kereskedő tevékenysége jogszabályban meghatározott veszélyes mértékű környezeti zajjal jár, az üzlet környezetében, illetve a kereskedelmi tevékenység hatókörében lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében
 
-g) a külön jogszabályban meghatározott egyéb jogkövetkezményt alkalmaz.
+aa) korlátozza 22 óra és 6 óra között a kereskedelmi tevékenységet, illetve a jogsértő állapot megszüntetéséig az üzlet kötelező éjszakai zárvatartását rendeli el,
 
-(5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
+ab) korlátozza vagy megtiltja a vendéglátó üzletben a vendégek szórakoztatására nyújtott szolgáltatást, tevékenységet,
+
+ac) korlátozza vagy megtiltja a hirdetés vagy figyelemfelhívás céljára szolgáló hanghatást okozó eszköz használatát,
+
+b) megtiltja az engedély nélkül folytatott, előírásokba ütköző tevékenység végzését, termékkör értékesítését.
+
+(5) A kereskedelmi hatóságnak a (4) bekezdés a) pont aa), ac) és ad) alpontja, valamint b) és c) pontja alapján hozott határozata ellen nincs helye fellebbezésnek.
