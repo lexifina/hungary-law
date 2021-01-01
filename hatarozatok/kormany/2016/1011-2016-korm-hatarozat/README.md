@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1011-30
 | 2019-10-17 | 2016-1011-30-22.19 | 1597/2019. (X. 16.) Korm. határozat |
 | 2020-08-08 | 2016-1011-30-22.20 | 1597/2019. (X. 16.) Korm. határozat |
 | 2020-12-25 | 2016-1011-30-22.21 | 2025/2020. (XII. 24.) Korm. határozat |
+| 2021-01-01 | 2016-1011-30-22.22 | 1202/2016. (IV. 15.) Korm. határozat |
