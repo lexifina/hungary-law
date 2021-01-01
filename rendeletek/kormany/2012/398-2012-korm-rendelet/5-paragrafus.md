@@ -14,7 +14,7 @@
 
 (8) Jövőbeni költségekre az Szt. 41. § (2) bekezdése szerinti céltartalék nem képezhető.
 
-(9)[^7]
+(9)[^7] Az Szt. 3. § (4) bekezdés 11. és 12. pontja szerinti szerződés elszámolási egységére és a hozzá kapcsolódó, az Szt. 28. § (3a) bekezdése, 32. § (8) bekezdése, 44. § (7) bekezdése, 72. § (4a) bekezdése szerinti elszámolásokra vonatkozó előírások nem alkalmazhatóak.
 
 (10)[^8] A hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor az eladási, beváltási árban lévő kamatot az Szt. 84. § (5) bekezdés a) pontjától eltérően nem kell külön, kapott kamatként kimutatni.
 
@@ -25,6 +25,6 @@
 [^4]: Az 5. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 1. pontja szerint módosított szöveg.
 [^5]: Az 5. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított, a 343/2019. (XII. 23.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
 [^6]: Az 5. § (5) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 19. § 2. pontja szerint módosított szöveg.
-[^7]: Az 5. § (9) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 56. §-a hatályon kívül helyezte.
+[^7]: Az 5. § (9) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 56. §-a hatályon kívül helyezte, újonnan a 616/2020. (XII. 21.) Korm. rendelet 17. §-a iktatta be.
 [^8]: Az 5. § (10) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 97. § 1. pontja szerint módosított szöveg.
 [^9]: Az 5. § (12) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 68. § (2) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 99. §-a.

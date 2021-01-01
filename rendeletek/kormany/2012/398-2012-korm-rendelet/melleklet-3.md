@@ -206,9 +206,9 @@
 
 159. Kis értékű tenyészállatok
 
-1591.[^35] Kis értékű tenyészállatok bruttó értéke
+1591.[^36] Kis értékű tenyészállatok bruttó értéke
 
-1599.[^36] Kis értékű tenyészállatok terv szerinti értékcsökkenése
+1599.[^37] Kis értékű tenyészállatok terv szerinti értékcsökkenése
 
 16. BERUHÁZÁSOK, FELÚJÍTÁSOK
 
@@ -398,7 +398,7 @@
 
 41. SAJÁT TŐKE
 
-411.[^37] Jegyzett tőke
+411.[^38] Jegyzett tőke
 
 412. Tőketartalék
 
@@ -406,7 +406,7 @@
 
 414. Lekötött tartalék
 
-419.[^38] Adózott eredmény
+419.[^39] Adózott eredmény
 
 42. CÉLTARTALÉKOK
 
@@ -474,7 +474,7 @@
 
 474. Szakképzési hozzájárulás
 
-475.[^39]
+475.[^40]
 
 476. Egyéb állami adóhatósággal szembeni kötelezettség elszámolása
 
@@ -554,7 +554,7 @@
 
 561. Szociális hozzájárulási adó
 
-562.[^40]
+562.[^41]
 
 563. Szakképzési hozzájárulás
 
@@ -578,7 +578,7 @@
 
 599. Költségnemek átvezetési számla
 
-8.[^41] SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
+8.[^42] SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
 
 81. ANYAGJELLEGŰ RÁFORDÍTÁSOK
 
@@ -708,13 +708,13 @@
 
 891. Társasági adó
 
-892.[^42]
+892.[^43]
 
 893. Kisvállalati adó
 
 899. Eredményt terhelő egyéb adók
 
-9.[^43] SZÁMLAOSZTÁLY BEVÉTELEK
+9.[^44] SZÁMLAOSZTÁLY BEVÉTELEK
 
 91. BELFÖLDI ÉRTÉKESÍTÉS ÁRBEVÉTELE
 
@@ -822,12 +822,12 @@
 
 979. Egyéb vagyonnövekedéssel járó pénzügyi bevételek
 
-[^35]: A 3. melléklet korábbi 1491. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1591.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
-[^36]: A 3. melléklet korábbi 1499. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1599.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
-[^37]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^38]: A 3. melléklet 419. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
-[^39]: A 3. számú melléklet 4. pont 45–47. alpont 475. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^40]: A 3. számú melléklet 5. pont 56. alpont 562. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^41]: A 3. melléklet 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
-[^42]: A 3. számú melléklet 8. pont 891. alpont 892. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^43]: A 3. melléklet 9. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3. melléklet korábbi 1491. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1591.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
+[^37]: A 3. melléklet korábbi 1499. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1599.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
+[^38]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^39]: A 3. melléklet 419. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^40]: A 3. számú melléklet 4. pont 45–47. alpont 475. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^41]: A 3. számú melléklet 5. pont 56. alpont 562. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^42]: A 3. melléklet 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^43]: A 3. számú melléklet 8. pont 891. alpont 892. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^44]: A 3. melléklet 9. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.

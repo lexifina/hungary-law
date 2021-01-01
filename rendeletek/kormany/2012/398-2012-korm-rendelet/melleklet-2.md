@@ -92,6 +92,6 @@
 
 ## Vállalkozó képviseletére jogosult személy aláírása
 
-2. melléklet a 398/2012. (XII. 20.) Korm. rendelethez[^34]
+2. melléklet a 398/2012. (XII. 20.) Korm. rendelethez[^35]
 
-[^34]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 98. § (2) bekezdésével megállapított szöveg.
+[^35]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 98. § (2) bekezdésével megállapított szöveg.
