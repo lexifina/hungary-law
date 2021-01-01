@@ -8,4 +8,4 @@ b) a megbízóval kötött szerződésben foglaltak szerint ellátja az üzemelt
 
 c) a megbízási szerződés alapján javaslatokat dolgoz ki az ingatlannal való gazdálkodás és az ingatlanhasznosítás, a befektetés kérdéseiben.
 
-(3) A 49. §-ban meghatározott feltételek az üzletszerűen végzett társasház-kezelői és ingatlanközvetítői tevékenységet folytató szolgáltatókra is megfelelően alkalmazandók.
+(3) A 49. §-ban meghatározott feltételek az üzletszerűen végzett társasház-kezelői és ingatlankezelői tevékenységet folytató szolgáltatókra is megfelelően alkalmazandók.
