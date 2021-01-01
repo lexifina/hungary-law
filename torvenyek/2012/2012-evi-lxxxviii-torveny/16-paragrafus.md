@@ -8,7 +8,7 @@ b) ha a jogsértés a fogyasztók vagy felhasználók életét, testi épségét
 
 terjedhet.
 
-(3) A (2) bekezdés b) pontjában meghatározott esetben a piacfelügyeleti hatóság minden esetben bírságot szab ki, ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik.
+(3)
 
 (4) Ha a laboratóriumi vizsgálat, a megfelelőségértékelő szervezet általi vizsgálat vagy hatóság mérése céljából mintavételezett termék nem megfelelőnek bizonyul, akkor a vizsgálat költségeit a gyártó, az importőr vagy az a forgalmazó, amelynél a terméket vizsgálat alá vonták, köteles megfizetni.
 
