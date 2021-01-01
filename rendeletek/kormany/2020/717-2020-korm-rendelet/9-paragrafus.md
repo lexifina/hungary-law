@@ -1,0 +1,5 @@
+9. § (1) A KSH Könyvtár kötelespéldány-szolgáltatáson alapuló kötelezettsége a nyilvános könyvtári és országos szakkönyvtári feladatok, valamint az ODR szolgáltatókönyvtári feladatainak ellátása, továbbá a KSH Könyvtár ellátja e kötelezettségével összefüggésben a könyvkiadásra vonatkozó országos statisztikai számbavétel feladatait.
+
+(2) Az OGYK kötelespéldány-szolgáltatáson alapuló kötelezettsége elsősorban az Országgyűlés bizottságainak, képviselőcsoportjainak, az országgyűlési képviselőknek, szakértőiknek és az Országgyűlés Hivatalának szakirodalmi ellátása, továbbá az ODR szolgáltatókönyvtári feladatainak ellátása, továbbá az állam- és jogtudomány, a politikatudomány, a legújabb kori magyar és egyetemes történelem hazai szakirodalmának, valamint az Országgyűlés dokumentumainak hozzáférhetővé tétele az ODR-en belül. A Magyarországon kiadott nemzetiségi kiadványokat az ODR-ben az Országos Idegennyelvű Könyvtár szolgáltatja.
+
+(3) Az országos szakkönyvtár és az egyetemi könyvtár kötelespéldány-szolgáltatáson alapuló kötelezettségként országos szakbibliográfiát épít, továbbá biztosítja a kötelespéldányok hozzáférhetővé tételét az ODR szolgáltatókönyvtáraként.
