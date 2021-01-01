@@ -110,9 +110,9 @@ A Kormány büntetés-végrehajtással kapcsolatos központi célkitűzése a mu
 
 Forrás: évente 45 millió forint, NBT költségvetés
 
-4.1. A szabadságvesztés alatti reintegráció és a szabadulást követő reszocializáció elősegítése érdekében szükséges olyan programok végrehajtása, amelyek a fogvatartottak szociális kompetenciáinak fejlesztése révén csökkentik a visszaesések számát. A bűnismétlés megelőzését segítő művészetterápiás és kreatív programok (pl. börtönszínház, biblioterápia vagy irodalomterápia, képzőművészeti szakkörök, jobb agyféltekés rajzolás), valamint a különböző személyiség- és kompetenciafejlesztő módszerek segítségével a fogvatartottak személyisége, személyes kompetenciái, szociális képességei, empátiája, toleranciája, önbecsülése fejleszthető. Cél, hogy minden intézetben – ideértve a javítóintézeteket is – megvalósuljanak ezek a programok. Ehhez szükséges a fogvatartottakkal foglalkozók képzése, az új módszerek megismertetése az állománnyal.
+4.1.[^2] A szabadságvesztés alatti reintegráció és a szabadulást követő reszocializáció elősegítése érdekében szükséges olyan programok végrehajtása, amelyek a fogvatartottak szociális kompetenciáinak fejlesztése révén csökkentik a visszaesések számát. A bűnismétlés megelőzését segítő művészetterápiás és kreatív programok (pl. börtönszínház, biblioterápia vagy irodalomterápia, képzőművészeti szakkörök, jobb agyféltekés rajzolás), valamint a különböző személyiség- és kompetenciafejlesztő módszerek segítségével a fogvatartottak személyisége, személyes kompetenciái, szociális képességei, empátiája, toleranciája, önbecsülése fejleszthető. Cél, hogy minden intézetben – ideértve a javítóintézeteket is – megvalósuljanak ezek a programok. Ehhez szükséges a fogvatartottakkal foglalkozók képzése, az új módszerek megismertetése az állománnyal.
 
-Felelős: Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP), Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF)
+Felelős: Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP), Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF), Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI)
 
 Határidő: 2021. december 31. napjáig folyamatos
 
@@ -163,3 +163,5 @@ Határidő: 2021. december 31. napjáig folyamatos
 Felelős: NBT
 
 Határidő: 2021. december 31. napjáig folyamatos
+
+[^2]: Az 1. melléklet 4. alcím 4.1. pontja az 1948/2020. (XII. 18.) Korm. határozat 7. pont a) alpontja szerint módosított szöveg.

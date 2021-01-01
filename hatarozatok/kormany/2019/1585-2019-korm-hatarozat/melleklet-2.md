@@ -1,4 +1,4 @@
-2. melléklet az 1585/2019. (X. 16.) Korm. határozathoz
+2. melléklet az 1585/2019. (X. 16.) Korm. határozathoz[^3]
 
 1. Településbiztonság
 
@@ -92,7 +92,7 @@
 
 |  | 2. | Felelős: | NBT |
 
-|  | 3. | Partner: | BM, Innovációs és Technológiai Minisztérium, EMMI, Klebelsberg Központ, egyházak, civil iskolafenntartók, SZGYF, rendőrség, tankerületi központok, nemzetiségi önkormányzatok |
+|  | 3. | Partner: | BM, Innovációs és Technológiai Minisztérium, EMMI, Klebelsberg Központ, egyházak, civil iskolafenntartók, SZGYF, NSZI, rendőrség, tankerületi központok, nemzetiségi önkormányzatok |
 
 |  | 4. | Eszköz: | képzések tartása, tananyagírás, multiplikátorok képzése |
 
@@ -108,7 +108,7 @@
 
 |  | 2. | Felelős: | NBT |
 
-|  | 3. | Partner: | EMMI, SZGYF |
+|  | 3. | Partner: | EMMI, SZGYF, NSZI |
 
 |  | 4. | Eszköz: | képzések és programok |
 
@@ -206,7 +206,7 @@
 
 |  | 2. | Felelős: | NBT |
 
-|  | 3. | Partner: | EMMI, SZGYF, nevelőszülői hálózatok, gyermekotthonok, család- és gyermekjóléti szolgálatok, központok, családok és gyermekek átmeneti otthonai, civil szervezetek |
+|  | 3. | Partner: | EMMI, SZGYF, NSZI, nevelőszülői hálózatok, gyermekotthonok, család- és gyermekjóléti szolgálatok, központok, családok és gyermekek átmeneti otthonai, civil szervezetek |
 
 |  | 4. | Eszköz: | programok kidolgozása, működtetése |
 
@@ -222,7 +222,7 @@
 
 |  | 1. | Intézkedés: | A szabadságvesztés alatti reintegráció és a szabadulást követő reszocializáció elősegítése érdekében szükséges olyan programok végrehajtása, amelyek a fogvatartottak szociális kompetenciáinak fejlesztése révén csökkentik a visszaesések számát. A bűnismétlés megelőzését segítő művészetterápiás és kreatív programok (pl. börtönszínház, biblioterápia vagy irodalomterápia, képzőművészeti szakkörök, jobb agyféltekés rajzolás), valamint a különböző személyiség- és kompetenciafejlesztő módszerek segítségével a fogvatartottak személyisége, személyes kompetenciái, szociális képességei, empátiája, toleranciája, önbecsülése fejleszthető. Cél, hogy minden intézetben – ideértve a javítóintézetet is – megvalósuljanak ilyen programok. Ehhez szükséges a fogvatartottakkal foglalkozók képzése, új módszerek megismertetése az állománnyal. |
 
-|  | 2. | Felelős: | BVOP, SZGYF |
+|  | 2. | Felelős: | BVOP, SZGYF, NSZI |
 
 |  | 3. | Partner: | NBT, civil és egyházi szervezetek, művészetterápiát, élményterápiát végző szakértői csoportok, szervezetek |
 
@@ -240,7 +240,7 @@
 
 |  | 2. | Felelős: | NBT |
 
-|  | 3. | Partner: | BVOP, EMMI, SZGYF, civil és egyházi karitatív szervezetek |
+|  | 3. | Partner: | BVOP, EMMI, SZGYF, NSZI, civil és egyházi karitatív szervezetek |
 
 |  | 4. | Eszköz: | modellprogramok tesztelése, bevezetése, megvalósítása |
 
@@ -345,3 +345,5 @@
 |  | 5. | Határidő: | 2021. december 31. napjáig folyamatos |
 
 |  | 6. | Indikátor: | létrejött Módszertani Fejlesztési Centrum, akkreditált képzések száma, megtartott képzések és továbbképzések száma, a képzéseken részt vevők száma |
+
+[^3]: Az 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 7. pont b)–f) alpontja szerint módosított szöveg.
