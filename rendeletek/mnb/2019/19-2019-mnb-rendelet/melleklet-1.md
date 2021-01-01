@@ -1,4 +1,4 @@
-## 29. §[^2]
+## 29. §[^1]
 
 1. melléklet a 19/2019. (V. 13.) MNB rendelethez
 
@@ -68,4 +68,4 @@ A forintbankjegyen a kibocsátásáról rendelkező MNB hirdetményben, illetve 
 
 A forintbankjegy teljes felületén többszörös, véletlenszerű elhelyezkedésű gyűrődések találhatók, amelyek kedvezőtlenül befolyásolják a forintbankjegy megjelenését, tartását. Az összehajtott forintbankjegy forgalomképtelennek minősül, amennyiben az összehajtogatás miatt a forintbankjegy hossza, illetve szélessége több, mint 3 mm-rel csökkent.
 
-[^2]: A 29. § 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
