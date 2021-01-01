@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-269-20-
 | 2014-01-01 | 2007-269-20-22.3 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2007-269-20-22.4 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 2007-269-20-22.5 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2021-01-01 | 2007-269-20-22.6 | 668/2020. (XII. 28.) Korm. rendelet |

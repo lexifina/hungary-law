@@ -10,7 +10,7 @@ a) a nád irtásához, valamint
 
 b) az október 31. és április 23. között történő legeltetéshez.
 
-(5)[^3] Vadgazdálkodási létesítmények, berendezések kialakításához a vadászati hatóság engedélye szükséges.
+(5)[^3] Vadgazdálkodási létesítmények, berendezések kialakításához a vadászati hatóság engedélye szükséges. A vadászati hatósághoz a kérelem elektronikus űrlap útján is benyújtható.
 
 [^2]: A 4. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 103. §-a szerint módosított szöveg.
-[^3]: A 4. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 6. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^3]: A 4. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
