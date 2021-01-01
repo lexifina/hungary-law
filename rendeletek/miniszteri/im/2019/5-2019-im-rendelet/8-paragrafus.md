@@ -4,4 +4,6 @@
 
 (3) A változtatásra történő felhívásban a felelős szerkesztő – igazodva a kérelmező által kért megjelentetési időponthoz – tájékoztatást ad a módosításra nyitva álló határidőről. A határidő eredménytelen eltelte esetén a felelős szerkesztő – a hirdetmények kivételével – a dokumentumot a kérelemben foglaltaknak megfelelően jelenteti meg.
 
-(4) A kérelmező a kérelmét a tervezett megjelentetés napjáig, az arra jogosult által papír alapon aláírt vagy minősített elektronikus aláírásával ellátott kérelemmel vonhatja vissza, a visszavonás tényének az informatikai rendszer útján történő egyidejű jelzésével.
+(4)[^9] A kérelmező a kérelmét a tervezett megjelentetés napjáig, az arra jogosult által papíralapon aláírt vagy minősített elektronikus aláírásával ellátott kérelemmel vonhatja vissza, a visszavonás tényének az informatikai rendszer útján történő egyidejű jelzésével.
+
+[^9]: A 8. § (4) bekezdése a 19/2020. (XII. 29.) IM rendelet 3. § c) pontja szerint módosított szöveg.
