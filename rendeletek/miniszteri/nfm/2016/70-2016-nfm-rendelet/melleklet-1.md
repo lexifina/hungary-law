@@ -72,10 +72,10 @@ z = 1+CPI/100
 
 5.12. S: az eltérés (spread) értéke megegyezik az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet 3. mellékletének 6.15.2. pontjában foglalt sp értékével.
 
-5.13. TTF: az aktuális negyedévet megelőző negyedév második hónapjának 1. napjától a 15. napjáig terjedő időszak napjain, a Hivatal honlapján megjelölt honlap szerint (égéshő figyelembevételével) EUR/MWh-ban közzétett napvégi, az aktuális negyedévre vonatkozó TTF Gas Base Load Futures adatok egyszerű számtani átlaga;
+5.13. TTF: az aktuális negyedévet megelőző negyedév második hónapjának 1. napjától a 15. napjáig terjedő időszak napjain, a Hivatal honlapján megjelölt adatforrás szerinti (égéshő figyelembevételével) EUR/MWh-ban közzétett napvégi, az aktuális negyedévre vonatkozó TTF adatok egyszerű számtani átlaga;
 
 5.14. z: a következő gázévre érvényes árrés-megállapítási javaslatban számított inflációkövetési tényező (hibakorrekciós tényező nélkül);
 
 5.15. zf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő inflációkövetési tényező.
 
-[^6]: Az 1. melléklet a 32/2020. (IX. 30.) ITM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. melléklet a 32/2020. (IX. 30.) ITM rendelet 5. § (1) bekezdésével megállapított, az 58/2020. (XII. 29.) ITM rendelet 4. §-a szerint módosított szöveg.
