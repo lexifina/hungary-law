@@ -1,3 +1,3 @@
-## 18. §[^2]
+## „h) a tengeri és belvízi közlekedést igénybe vevő utasok jogairól, valamint a 2006/2004/EK rendelet módosításáról szóló, 2010. november 24-i 1177/2010/EU európai parlamenti és tanácsi rendelet”
 
-[^2]: A 18. § a 22. § (2) bekezdése alapján 2021. január 01. napján lép hatályba.
+## (végrehajtásához szükséges rendelkezéseket állapít meg.)
