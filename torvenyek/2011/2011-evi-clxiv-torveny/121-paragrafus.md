@@ -28,7 +28,7 @@ lehet gyakorolni.
 
 (10) Az alügyész és az ügyészségi fogalmazó végkielégítésre e törvénynek az ügyészekre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy
 
-a) ha az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+a) ha az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, adó- és vámhatósági szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
 
 aa) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
 

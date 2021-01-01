@@ -48,7 +48,7 @@ e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, 
 
 f) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll,
 
-g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, vagy rendvédelmi alkalmazottjaként igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 
 h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
