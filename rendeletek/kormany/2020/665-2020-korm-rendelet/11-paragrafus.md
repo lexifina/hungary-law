@@ -1,0 +1,1 @@
+## 10. § A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet 2. § 47. pontjában a „személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő” szövegrész helyébe a „családi gazdaságokról szóló 2020. évi CXXIII. törvény szerinti mezőgazdasági őstermelő, valamint az őstermelők családi gazdasága” szöveg lép.
