@@ -144,7 +144,7 @@ d)[^15] szagvédelmi hatásterület meghatározása esetén a tervezési irány�
 
 46.[^29] közintézmény: az állami vagy önkormányzati fenntartású, vagy a közszolgáltatás ellátására vonatkozó hatályos szerződéssel rendelkező intézmény;
 
-47.[^30] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet és a személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő.
+47.[^30] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet és a családi gazdaságokról szóló 2020. évi CXXIII. törvény szerinti mezőgazdasági őstermelő, valamint az őstermelők családi gazdasága.
 
 [^1]: A 2. § 3. pontja a 88/2017. (IV. 10.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 8. pontja a 292/2015. (X. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -175,4 +175,4 @@ d)[^15] szagvédelmi hatásterület meghatározása esetén a tervezési irány�
 [^27]: A 2. § 34b. pontját a 133/2018. (VII. 23.) Korm. rendelet 1. § (9) bekezdése iktatta be.
 [^28]: A 2. § 34c. pontját a 133/2018. (VII. 23.) Korm. rendelet 1. § (9) bekezdése iktatta be.
 [^29]: A 2. § 46. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.
-[^30]: A 2. § 47. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.
+[^30]: A 2. § 47. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be, szövege a 665/2020. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.

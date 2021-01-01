@@ -1,4 +1,4 @@
-11. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^142]
+11. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^143]
 
 ## Az országos emisszió kataszterek és légszennyezőanyagkibocsátás-előrejelzések, a tájékoztató kataszterjelentések és a kiigazított országos emisszió kataszterek elkészítésének és aktualizálásának módszerei
 
@@ -108,4 +108,4 @@ c) a használt módszerek, modellek, az alapfeltételezések, valamint a legfont
 
 4.2. A kiigazítás által érintett valamennyi év tekintetében újra kell számítani a kiigazított kibocsátási értékeket az időszakok következetességének lehető legnagyobb mértékű biztosítására.
 
-[^142]: A 11. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § b) pontja iktatta be.
+[^143]: A 11. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § b) pontja iktatta be.
