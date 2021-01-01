@@ -26,7 +26,7 @@ a) a filmalkotás elkészítésében részt vevő alkotók, művészeti és tech
 
 b) a filmalkotás költségvetését,
 
-c) a filmalkotás elkészítésének ütemtervét,
+c) a filmalkotás elkészítésének ütemtervét, és
 
 d) a filmalkotás előállításának finanszírozási tervét.
 
@@ -34,15 +34,15 @@ d) a filmalkotás előállításának finanszírozási tervét.
 
 a) a filmalkotás alapjául szolgáló mű szerzőinek a filmalkotás előállításához való hozzájárulását tartalmazó felhasználási szerződéseket vagy egyéb okiratokat,
 
-b) a filmalkotás forgatókönyvét,
+b) a filmalkotás forgatókönyvét, a 31/B. § (2) bekezdés a) pontja szerinti filmek esetében a filmalkotás szinopszisát,
 
 c) a filmalkotás elkészítésében részt vevő alkotókra, valamint művészeti és technikai munkatársakra, továbbá a gyártási munkák helyszínére vonatkozó jegyzéket az 1. melléklet szerinti táblázat alapján, megjelölve az elkészítésben részt vevő külföldi országok technikai és művészi hozzájárulását,
 
-d) a filmalkotás költségvetését és részletes pénzügyi tervét,
+d) a filmalkotás költségvetését,
 
 e) a filmalkotás elkészítésének ütemtervét,
 
-f) koprodukciós filmalkotás esetén a filmelőállítók koprodukciós szerződését, ennek hiányában a felek megállapodását a hasznosításból származó bevételek felosztásáról és a terjesztés területi megosztásáról,
+f) koprodukciós filmalkotás esetén a filmelőállítók koprodukciós szerződését, ennek hiányában a felek megállapodását a hasznosításból származó bevételek felosztásáról és a terjesztés területi megosztásáról és
 
 g) a filmalkotás előállításának finanszírozási tervét.
 

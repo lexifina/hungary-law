@@ -28,7 +28,7 @@ d) a moziüzemeltetés megkezdésének tervezett időpontját.
 
 (4) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(5) A Hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a (2) és (3) bekezdésben meghatározott követelményeknek. Ha a bejelentés megfelel a (2) és (3) bekezdésben meghatározott követelményeknek, és az igazgatási szolgáltatási díjat megfizették, legkésőbb a bejelentés megérkezésétől számított nyolc napon belül a Hatóság a bejelentőt erről a tényről értesíti.
+(5) A Hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a (2) és (3) bekezdésben meghatározott követelményeknek. Ha a bejelentés megfelel a (2) és (3) bekezdésben meghatározott követelményeknek, és az igazgatási szolgáltatási díjat megfizették, legkésőbb a bejelentés megérkezésétől számított nyolc napon belül a Hatóság a bejelentőt erről a tényről értesíti. A bejelentésben foglalt adatokban bekövetkezett változást a moziüzemeltető köteles a változást követő 15 napon belül bejelenteni a Hatóságnak.
 
 (6) Ha a moziüzemeltető a moziüzemeltetési tevékenységét a nyilvántartásba vételtől számított két éven belül nem kezdi meg, vagy azt öt évnél hosszabb időre megszakítja, a Hatóság a 19/H. § szerinti jogkövetkezményeket alkalmazhatja.
 

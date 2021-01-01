@@ -2,44 +2,38 @@
 
 ## Filmregisztráció
 
-19/N. § (1) Az e törvény 19/L. § (1) bekezdése szerint nyilvántartott moziban bemutatásra kerülő filmalkotást a mozgóképszakmai statisztikai adatok előállításának céljából a film forgalmazójának a film magyarországi forgalmazására vonatkozó szerződés megkötését követő harminc napon belül regisztrálnia kell a Hatóság által erre a célra létrehozott online felületen.
+19/N. § (1) A 19/L. § (1) bekezdése szerint nyilvántartott moziban bemutatásra kerülő filmalkotást a mozgóképszakmai statisztikai adatok előállításának céljából a film forgalmazójának regisztrálnia kell a Hatóság által erre a célra létrehozott online felületen.
 
 (2) Az (1) bekezdést nem kell alkalmazni az olyan terjesztői hálózatba nem kerülő filmalkotásra, amely nemzetközi egyezmény vagy szakmai szervezet által szervezett filmfesztiválok alkalmával országosan és egy évben legfeljebb tíz alkalommal kerül bemutatásra.
 
 (3) A regisztrációnak tartalmaznia kell a nyilvános előadás keretében bemutatni kívánt filmalkotás
 
-a) magyar és eredeti nyelvű címét,
+a) tervezett magyar nyelvű címét és eredeti címét,
 
-b) hazai forgalmazóját és nyilvántartási számát,
+b) alternatív (angol és magyar) címét, ha az rendelkezésre áll,
 
-c) eredeti forgalmazóját,
+c) a nemzetközi azonosítóját (ISAN), ha az rendelkezésre áll,
 
-d) rendezőjének nevét,
+d) hazai forgalmazóját és nyilvántartási számát,
 
-e) gyártási helyét, és ha van, a koprodukciós országokat,
+e) rendezőjének nevét,
 
-f) gyártási évét és
+f) a c) pont szerinti gyártási országát, illetve a koprodukciós országokat,
 
-g) hazai bemutatójának tervezett időpontját.
+g) a c) pont szerinti gyártási évét,
 
-(4) A (3) bekezdésben rögzített adatokon túl a filmforgalmazónak az alábbi adatokat kell megadnia
+h) műfaját,
 
-a) alternatív (angol és magyar) cím,
+i) játékidejét, és
 
-b) előállító, producer, forgatókönyvíró, zeneszerző, operatőr és főszereplőinek neve,
+j) hazai bemutatójának tervezett időpontját.
 
-c) műfaj,
+(4) A filmalkotás regisztrációjának a filmforgalmazónak a (3) bekezdésben foglalt adatok rendelkezésre állását követően haladéktalanul – de legkésőbb a 20. § (1) bekezdése, valamint a 25. § (1) bekezdése szerinti besorolási eljárások megkezdéséig – eleget kell tennie. A filmalkotás a (3) bekezdésben foglalt adatok hiánytalan közlését követően kap statisztikai azonosítót.
 
-d) játékidő,
-
-e) kópia megjelenése (fekete-fehér, színes) és
-
-f) rövid tartalom.
-
-(5) Ha a (3) és (4) bekezdésben meghatározott adatok a regisztráció megkezdésekor nem állnak teljeskörűen rendelkezésre, azokban változás következett be, a filmforgalmazónak a hiányzó, illetve megváltozott adat tudomására jutását követően haladéktalanul, de legkésőbb a filmalkotás bemutatását megelőző tizenöt nappal a regisztrációt ki kell egészítenie, vagy amennyiben szükséges, a korábbi adatokat módosítania kell. A filmalkotás a (3) bekezdésben foglalt adatok hiánytalan megadását követően kap statisztikai azonosítót. A filmalkotás hazai és eredeti forgalmazója, eredeti címe és gyártási éve nem módosítható.
+(5) Ha a (3) bekezdésben meghatározott adatokban változás következik be, a filmforgalmazónak a megváltozott adat tudomására jutását követően haladéktalanul – de legkésőbb a filmalkotás 20. § (1) bekezdése szerinti hatóság eljárás megkezdéséig, ennek hiányában a (3) bekezdés j) pontjában foglalt időpontot megelőző három nappal – a regisztrált adatot módosítania kell. A filmalkotás hazai forgalmazója, eredeti címe és gyártási éve nem módosítható.
 
 (6) A filmalkotás regisztrációja során kapott statisztikai azonosító a Hatóság eljárása során felhasználható.
 
 (7) Az e törvényben meghatározott célok teljesüléséhez szükséges, a törvény felhatalmazása alapján kiadott jogszabályban megállapított egyéb adatokat a Hatóság a filmregisztráció során bekérhet, amelyeket a filmforgalmazó köteles bejelenteni a Hatóságnak.
 
-(8) Az e § szerinti regisztrációról és a (3)–(6) bekezdésben meghatározott adatokról, azonosítókról a Hatóság nem hatósági, nem közhiteles nyilvántartást vezet.
+(8) Az e § szerinti regisztrációról és a (3)–(6) bekezdésben meghatározott adatokról, azonosítókról a Hatóság nyilvántartást vezet.

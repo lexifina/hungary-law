@@ -1,7 +1,3 @@
 36/O. § (1) A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság 2019. december 31. napjától Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság néven működik tovább.
 
 (2) A Televíziós Film Mecenatúra (a továbbiakban: Mecenatúra) és a Televíziós Filmkollégium jogutódja 2019. december 31. napjától az NFI. A jogutódlás és feladatátadás tárgyát képezi az átvett feladatok ellátásával összefüggő, a Mecenatúra mint önálló jogi személy által létrehozott valamennyi jogviszony, ideértve az NFI-nél e törvény szerinti támogatási feladatok ellátására az átadás-átvételt követően továbbfoglalkoztatottak foglalkoztatási jogviszonyát és a kapcsolódó munkáltatói jogok gyakorlását azzal, hogy a jogutódlás nem terjed ki az átvett feladatokhoz tartozó eszközállományra.
-
-2. CÍM
-
-Felhatalmazó rendelkezések

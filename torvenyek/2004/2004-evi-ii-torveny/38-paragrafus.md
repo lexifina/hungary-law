@@ -22,6 +22,8 @@ j) a mozgóképszakmai statisztikai adatszolgáltatási kötelezettséget, a szo
 
 k) a filmalkotás végefőcímében az állam támogatóként való feltüntetésének módját.
 
+l) a 25. § (2) bekezdése szerinti „art” mozivá minősítéshez szükséges feltételeket.
+
 3. CÍM
 
 Az Európai Unió jogának való megfelelés

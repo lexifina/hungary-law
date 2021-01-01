@@ -26,4 +26,4 @@ gd) nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett je
 
 h) a nemzeti filmvagyonba tartozó, a moziban megrendezésre kerülő, nemzetközi egyezmény vagy szakmai szervezet által szervezett filmnap, filmhét vagy filmfesztivál programjába tartozó, az NFI-től kölcsönzött, vagy nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szereplő filmalkotással kapcsolatos egyéb jellemzőkről.
 
-(3) A Hatóság a 19/H. § (3) bekezdése szerinti határozatával adatszolgáltatásra kötelezi a moziüzemeltetőt, ha a moziüzemeltető az (1) bekezdés szerinti kötelezettségének nem vagy nem megfelelően tesz eleget.
+(3) A Hatóság határozatával adatszolgáltatásra kötelezi a moziüzemeltetőt, ha a moziüzemeltető az (1) bekezdés szerinti kötelezettségének nem vagy nem megfelelően tesz eleget.

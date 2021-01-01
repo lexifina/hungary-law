@@ -1,0 +1,5 @@
+36/P. § E törvénynek az egyes törvényeknek a mozgóképipar versenyképességének növelésével összefüggő módosításáról szóló 2020. évi CLXXVIII. törvénnyel (a továbbiakban: Módtv3.) megállapított 31/F. § (1a) bekezdését a Módtv3. hatálybalépését követően benyújtott, a támogatási jogosultság megállapítására irányuló kérelem alapján indult eljárásokban kell alkalmazni.
+
+2. CÍM
+
+Felhatalmazó rendelkezések

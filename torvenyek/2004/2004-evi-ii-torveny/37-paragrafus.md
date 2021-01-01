@@ -10,7 +10,7 @@
 
 a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvény szerinti támogatásának szabályait,
 
-b) a 25. § (2) bekezdése szerinti „art” mozivá minősítéshez szükséges feltételeket és a moziknak a fogyatékkal élő emberek számára való hozzáférhetőségének feltételeit,
+b) a moziknak a fogyatékkal élő emberek számára való hozzáférhetőségének feltételeit,
 
 c) az adópolitikáért felelős miniszterrel egyetértésben az NFI-t a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.
 

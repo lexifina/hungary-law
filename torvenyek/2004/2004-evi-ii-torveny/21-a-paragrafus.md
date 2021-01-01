@@ -6,13 +6,19 @@ aa) magyar és eredeti nyelvű címét,
 
 ab) rövid tartalmát,
 
-ac) előállítójának, producerének, rendezőjének, forgatókönyvírójának, zeneszerzőjének, operatőrének és főszereplőinek nevét,
+ac) rendezőjének, főszereplőinek nevét,
 
 ad) játékidejét,
 
-b) a filmterjesztőnek a filmalkotás besorolására vonatkozó javaslatát a 21. §-ban meghatározott kategóriák alapján, valamint
+ae) gyártási évét,
 
-c) a terjesztés megkezdésének tervezett időpontját.
+af) műfaját,
+
+b) a filmterjesztőnek a filmalkotás besorolására vonatkozó javaslatát a 21. §-ban meghatározott kategóriák alapján,
+
+c) a terjesztés megkezdésének tervezett időpontját, és
+
+d) a filmalkotás forgalomba hozatalának módját.
 
 (1a) Ha az (1) bekezdésben meghatározott adatok a kérelem benyújtásakor a filmterjesztőn, illetve az érdekkörén kívül álló okból nem állnak rendelkezésre, a filmterjesztő az adatok rendelkezésére állását követően haladéktalanul – de legkésőbb a filmalkotás magyarországi bemutatóját követő 90 napon belül – köteles azokat a Hatóságnak megküldeni. A filmterjesztő a kérelem benyújtásakor igazolja, hogy a hiányzó adatok a rajta, illetve az érdekkörén kívül álló okból nem állnak a rendelkezésére.
 

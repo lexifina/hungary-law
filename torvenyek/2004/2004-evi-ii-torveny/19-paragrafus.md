@@ -32,6 +32,8 @@ d) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jog
 
 (3) A Filmiroda által e törvény alapján végzett nyilvántartási, besorolási tevékenységért a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
+(4) A Filmiroda tevékenységével összefüggő bevételei a Kormány által kijelölt szerv saját bevételét képezik, melyeket kizárólag a Filmiroda működésére és a működtetésével összefüggő fejlesztési kiadásokra lehet fordítani. A Filmiroda költségvetésében képződött, a maradványképződés költségvetési évében december 31-ig kötelezettségvállalással lekötött maradvány a következő években a kötelezettségvállalás alapjául szolgáló jognyilatkozatnak megfelelően használható fel.
+
 ## III/A. Fejezet
 
 ## A MOZGÓKÉPSZAKMAI HATÓSÁG ELJÁRÁSAI

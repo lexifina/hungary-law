@@ -10,7 +10,7 @@ b) az e törvény szerinti filmterjesztési célú támogatásra jogosultságot 
 
 (2) Az (1) bekezdés szerinti kérelemhez mellékelni kell
 
-a) a filmalkotás teljes magyar nyelvű forgatókönyvét vagy a filmalkotás egy megtekintésre alkalmas példányát,
+a) a filmalkotás teljes magyar nyelvű forgatókönyvét (dokumentumfilm, kísérleti film, tudományos ismeretterjesztő film, animációs film esetében szinopszist) vagy a filmalkotás egy megtekintésre alkalmas példányát,
 
 b) a filmelőállító vagy a filmgyártó vállalkozás vagy filmterjesztő nyilatkozatát a 2. mellékletben meghatározott kulturális követelmények teljesítéséről az ott foglalt táblázat alapján,
 
@@ -40,7 +40,7 @@ fc) az ötszázmillió forintot meghaladó közvetlen filmgyártási költségge
 
 mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább egy játékfilm gyártásában gyakorlatot szerzett gyakornok legalább öt héten át tartó foglalkoztatását bármely gyártási részlegben, amelyben a gyakornokok szakmai felügyelete biztosítható. Amennyiben a filmalkotás magyarországi gyártásának azon szakasza, amelyben a gyakornok foglalkoztatható lenne, nem éri el az öt hetet, a foglalkoztatási kötelezettség a teljes magyarországi gyártási szakasz időszakára vonatkozik, és
 
-g) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgyártásban közvetlenül közreműködő külföldi illetőségű előadóművész és nem előadóművész magánszemély stábtag nevére, állampolgárságára, születési helyére és idejére, anyja nevére, külföldi lakóhelyére, valamint arra vonatkozóan, hogy előadóművészként vagy nem előadóművészként működik közre a film gyártása során.
+g) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgyártásban közvetlenül közreműködő, magyar adóazonosító jellel rendelkező külföldi illetőségű előadóművész és nem előadóművész magánszemély stábtag nevére, állampolgárságára, születési helyére és idejére, anyja nevére, külföldi lakóhelyére, valamint arra vonatkozóan, hogy előadóművészként vagy nem előadóművészként működik közre a film gyártása során. A Hatóság nem veszi figyelembe azon személyek bejelentését, akikkel kapcsolatban költségelszámolás nem kerül benyújtásra.
 
 (2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.
 
@@ -48,11 +48,11 @@ g) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgy
 
 (2d) A mozgóképszakmai képzési hozzájárulást az NFI-nek a Magyar Államkincstárnál (a továbbiakban: kincstár) e célra vezetett számlájára a támogatásra jogosultságot megállapító döntés véglegessé válásától számított hatvan napon belül kell befizetni.
 
-(2e) A mozgóképszakmai képzési hozzájárulás befizetési határidejének elmulasztása esetén a Hatóság jogkövetkezményként hivatalból indított hatósági eljárásban a támogatásra jogosultságot megállapító döntését akként módosítja, hogy a támogatásra jogosultságot elutasítja. A hivatalból indított eljárásban a Hatóság tizenöt napos határidő tűzése mellett felszólítja a késedelmesen fizető filmelőállítót vagy a filmgyártó vállalkozást a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulás megfizetésére. Amennyiben a hatósági eljárás érdemi lezárása előtt a filmelőállító vagy a filmgyártó vállalkozás megfizeti a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulást, úgy a Hatóság a 19/H. § (8) bekezdés d) pontjában foglalt jogkövetkezményt alkalmazhatja.
+(2e) A mozgóképszakmai képzési hozzájárulás befizetési határidejének elmulasztása esetén a Hatóság a késedelmesen fizető filmelőállítóval vagy filmgyártó vállalkozóval szemben hivatalból eljárást indít és a jogsértővel szemben a 19/H. §-ban foglalt jogkövetkezményeket alkalmazhatja.
 
 (2f) Nem kell mozgóképszakmai képzési hozzájárulást fizetni a tízmillió forintot el nem érő közvetlen filmgyártási költséggel rendelkező filmalkotások után.
 
-(2g) Az NFI az általa kezelt, az egyes filmalkotásokra vonatkozó, mozgóképszakmai képzési hozzájárulás címén megfizetett összegekről, a Hatóság a mozgóképszakmai képzési hozzájárulás összegét magában foglaló támogatásra jogosultságot megállapító döntésekről nyilvántartást vezet. A véglegessé vált döntéseket az NFI részére elektronikus úton megküldi, az NFI a Hatóságot abban az esetben tájékoztatja, ha a Hatóságnak hivatalból eljárást szükséges indítania a támogatásra jogosultságot megállapító döntés módosítása iránt.
+(2g) Az NFI az általa kezelt, az egyes filmalkotásokra vonatkozó, mozgóképszakmai képzési hozzájárulás címén megfizetett összegekről, a Hatóság a mozgóképszakmai képzési hozzájárulás összegét magában foglaló támogatásra jogosultságot megállapító döntésekről nyilvántartást vezet. A Hatóság a véglegessé vált döntéseket az NFI részére elektronikus úton megküldi, az NFI a Hatóságot abban az esetben tájékoztatja, ha a filmelőállító – vagy a filmgyártó vállalkozás – a mozgóképszakmai hozzájárulás befizetését határidőben nem teljesítette.
 
 (3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hatóság a kérelmeket egy eljárás keretében bírálja el.
 
@@ -94,8 +94,8 @@ c) 3 pont adható, ha az a) és b) pontokban említett értékek elérik vagy me
 
 (11) A Hatóság a támogatásra jogosultság megállapítása esetén az e tárgyban lefolytatott hatósági eljárásban hozott határozat véglegessé válását követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat és tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Ha a filmalkotás a nyilvántartásban már szerepel, a Hatóság a hatósági eljárásban hozott határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait. A támogatásra jogosultság megállapítása és igazolása az e törvény szerinti támogatás nyújtásának feltétele.
 
-(12) A Hatóság a (2) bekezdés d) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
+(12) A Hatóság a (2a) bekezdés g) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
 
 (13) A filmelőállító vagy filmgyártó vállalkozás a (2) bekezdés d) pontja szerint bejelentett adatokban bekövetkezett változást köteles bejelenteni a Hatóságnak.
 
-(14) A Hatóság a (2) bekezdés d) pontja szerinti adatokat támogatás megállapítására és az ezzel összefüggő nyilvántartás vezetésére irányuló feladatai ellátása céljából, a kérelem elbírálását követő öt évig kezeli. A Hatóság az így tudomására jutott adatokat törvény eltérő rendelkezése hiányában harmadik személlyel nem közölheti, kivéve ha az más hatóságok eljárásához történő adatszolgáltatás teljesítését célozza.
+(14) A Hatóság a (2a) bekezdés g) pontja szerinti adatokat közvetett támogatás megállapítására és az ezzel összefüggő nyilvántartás vezetésére irányuló feladatai ellátása céljából, a kérelem elbírálását követő öt évig kezeli. A Hatóság az így tudomására jutott adatokat törvény eltérő rendelkezése hiányában harmadik személlyel nem közölheti, kivéve, ha az más hatóságok eljárásához történő adatszolgáltatás teljesítését célozza.

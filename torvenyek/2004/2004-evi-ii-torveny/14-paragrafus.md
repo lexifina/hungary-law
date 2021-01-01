@@ -20,7 +20,7 @@ g) aki ellen csőd-, felszámolási vagy végelszámolási eljárás van folyama
 
 h) aki a rendezett munkaügyi kapcsolatok jogszabályban meghatározott feltételeinek nem felel meg,
 
-i) valamely EGT-államban székhellyel rendelkező jogi személy, amely legkésőbb az e törvény szerinti támogatás folyósításakor nem rendelkezik magyarországi telephellyel.
+i) valamely EGT-államban székhellyel rendelkező jogi személy, amely legkésőbb az e törvény szerinti támogatás folyósításakor nem rendelkezik magyarországi fiókteleppel.
 
 (4) A támogató a (3) bekezdés d) pontjában meghatározott kizáró feltétel alól legkorábban a beszámolási határidő lejártát követő három év elteltével adhat felmentést. Lejárt, teljesítetlen fizetési kötelezettség esetén ilyen felmentés a kötelezettség teljesítéséig nem adható.
 

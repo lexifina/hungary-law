@@ -12,6 +12,8 @@
 
 (6) Az ügyfél a Hatóság (3)–(5) bekezdés szerinti határozatát a határozat közlésétől számított tizenöt napon belül támadhatja meg közigazgatási perben. A keresetlevél benyújtásának halasztó hatálya van.
 
-(7) Amennyiben az adatszolgáltatásra kötelezett a (3)–(5) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – bírságot szab ki, amelynek mértéke legfeljebb ötszázezer forint.
+(7) Amennyiben az adatszolgáltatásra kötelezett a (3)–(5) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság közigazgatási bírságot szab ki, amelynek mértéke legfeljebb ötszázezer forint.
+
+(7a) A (7) bekezdés szerinti eljárásokban bírság helyett figyelmeztetés nem alkalmazható.
 
 (8) Az e §-ban foglalt adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.

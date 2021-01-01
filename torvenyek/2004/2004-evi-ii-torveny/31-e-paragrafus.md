@@ -2,7 +2,7 @@
 
 (2) A Hatóság a gyártási ütemezés adott szakaszára eső összegként csak azon költségeket veszi figyelembe, amelyek a kérelemben feltüntetett időszak kezdő és záró napja között kerültek a produkció munkaszámos főkönyvi kivonatában könyvelésre.
 
-(3) Csak az a költség ismerhető el közvetlen filmgyártási költségként, amelynek teljesítését igazoló okirat a Hatóság támogatásra jogosultságot megállapító határozatában meghatározott gyártási időszakon belül, illetve az abban rögzített befejezési időpontot követő három hónapon belül keletkezik.
+(3) Csak az a költség ismerhető el közvetlen filmgyártási költségként, amelyre vonatkozó termékértékesítés és szolgáltatás teljesítése a Hatóság támogatásra jogosultságot megállapító határozatában meghatározott gyártási időszakon belül történik, és a teljesítésre vonatkozó számla legkésőbb a gyártási időszak rögzített befejezési időpontját követő három hónapon belül keletkezik.
 
 (4) A közvetlen filmgyártási költségek között a filmalkotás alapjául szolgáló mű megfilmesítéshez kapcsolódó szerzői és szomszédos jogi jogdíj azon összege számolható el, amely nem haladhatja meg az adott filmalkotás munkaszámos főkönyvi kivonat 5. és 8. számlaosztálya összegének 4%-át.
 
@@ -18,6 +18,6 @@
 
 (10) A 31/B. § (2c) bekezdése szerinti mozgóképszakmai képzési hozzájárulás közvetlen filmgyártási költségként elszámolható.
 
-(11) A közvetlen filmgyártási költségek között a befejezési garancia elszámolt összege nem haladhatja meg a közvetlen filmgyártási költségek 5%-át, de legfeljebb 100 millió forintot. A 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározhatja azon eseteket, amikor a befejezési garancia elszámolt összege ezt a mértéket meghaladhatja.
+(11) A közvetlen filmgyártási költségek között a befejezési garancia elszámolt összege nem haladhatja meg az adott filmalkotás munkaszámos főkönyvi kivonat 5. és 8. számlaosztálya összegének 5%-át, de legfeljebb a 100 millió forintot. A 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározhatja azon eseteket, amikor a befejezési garancia elszámolt összege ezt a mértéket meghaladhatja.
 
 (12) Amennyiben a filmgyártásban közvetlenül közreműködő külföldi előadóművészek és stábtagok javadalmazása nem közvetlen magyar filmgyártási költségként kerül elszámolásra és a magánszemély vagy a képviseletében eljáró jogi személy javadalmazása meghaladja a hárommillió forintot, a magánszemélyt vagy a képviseletében eljáró jogi személyt megillető javadalmazás hárommillió forint feletti részének 50%-a számolható el közvetlen filmgyártási költségként.
