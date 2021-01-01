@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-140-20-
 | 2012-01-01 | 2001-140-20-22.8 | 322/2011. (XII. 27.) Korm. rendelet |
 | 2013-02-02 | 2001-140-20-22.9 | 125/2006. (V. 19.) Korm. rendelet |
 | 2017-01-01 | 2001-140-20-22.10 | 125/2006. (V. 19.) Korm. rendelet |
+| 2021-01-01 | 2001-140-20-22.11 | 125/2006. (V. 19.) Korm. rendelet |
