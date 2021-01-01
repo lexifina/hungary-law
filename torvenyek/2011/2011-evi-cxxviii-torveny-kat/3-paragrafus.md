@@ -90,4 +90,4 @@ f)
 
 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 
-33. Védendő adat: az üzemeltető által meghatározott üzleti titok és az üzem külső támadás elleni biztonságára vonatkozó lényeges adat.
+33. Védendő adat: a veszélyes anyagokkal foglalkozó üzem biztonságával kapcsolatos lényeges adat, amelyet az üzemeltető vagy az iparbiztonsági hatóság védendővé nyilvánít, továbbá az üzemeltető által meghatározott üzleti titok.

@@ -26,7 +26,7 @@ d) a jegyző,
 
 e) a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
 
-f) a Magyar Honvédség tényleges és tartalékos állományú, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, e szervek alkalmazottja,
+f) a Magyar Honvédség tényleges és tartalékos állományú, a rendvédelmi szervek hivatásos állományú tagja, e szervek alkalmazottja, a Nemzeti Adó- és Vámhivatal foglalkoztatottja,
 
 g) az egészségügyi államigazgatási szerv kormánytisztviselője,
 
