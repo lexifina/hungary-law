@@ -4,7 +4,7 @@
 
 a) a 148. § (1) bekezdésében meghatározott feltételek nem teljesülnek,
 
-b) az európai védelmi határozat alapjául szolgáló büntetőeljárás vagy tagállami ítélet tekintetében – a 109. § (3) bekezdésre tekintettel – a 109. § (2) bekezdésben meghatározott figyelembevételt kizáró ok áll fenn,
+b) az európai védelmi határozat alapjául szolgáló büntetőeljárás vagy tagállami ítélet tekintetében – a 109. § (4) bekezdésére tekintettel – a 109. § (3) bekezdésében meghatározott figyelembevételt kizáró ok áll fenn,
 
 c) az európai védelmi határozat tekintetében a 114. § (1) bekezdés d), e) vagy f) pontjában meghatározott megtagadási ok áll fenn,
 

@@ -6,7 +6,7 @@
 
 137. § (1) E fejezet alkalmazásában
 
-1. tagállami pénzbüntetés: a tagállamban büntetendő cselekmény elkövetése miatt
+1. tagállami pénzbüntetés: a tagállami jogszabályok alapján büntetéssel vagy büntető jellegű szankcióval sújtható cselekmény elkövetése miatt
 
 a) kiszabott pénzösszeg,
 

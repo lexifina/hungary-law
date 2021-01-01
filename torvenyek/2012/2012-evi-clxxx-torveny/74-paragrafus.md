@@ -1,4 +1,4 @@
-74. § (1) A felügyeleti intézkedés végrehajtásának átvételére iránti jogsegély iránti megkeresés teljesítésére a terhelt tényleges tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, valamint Budapesten és a 73. § (2) bekezdés a) pont ab) alpontja esetén a Budai Központi Kerületi Bíróság rendelkezik hatáskörrel és illetékességgel.
+74. § (1) A felügyeleti intézkedés végrehajtásának átvételére irányuló jogsegély iránti megkeresés teljesítésére a terhelt tényleges tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, valamint Budapesten és a 73. § (2) bekezdés a) pont ab) alpontja esetén a Budai Központi Kerületi Bíróság rendelkezik hatáskörrel és illetékességgel.
 
 (2) A bíróság feladatait a nyomozási bíró látja el.
 

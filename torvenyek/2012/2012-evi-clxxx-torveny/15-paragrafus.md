@@ -14,4 +14,4 @@ e) az e törvényben meghatározott egyéb okból.
 
 (3) A miniszter a bíróság véglegessé vált nem ügydöntő végzése alapján tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, ha a bíróság az európai elfogatóparancs végrehajtását megtagadja, vagy az átadási eljárást megszünteti.
 
-(4) Ha a bíróság az európai elfogatóparancs végrehajtását az 5. § (4) bekezdése alapján tagadta meg, a bíróság a miniszter útján tájékoztatja a kibocsátó tagállami igazságügyi hatóságot a 126/A. § alapján elrendelt kényszerintézkedésről, valamint a 109. § (1) bekezdésben meghatározott iratok megküldésére rendelkezésére álló határidőről.
+(4) Ha a bíróság az európai elfogatóparancs végrehajtását az 5. § (4) bekezdése alapján tagadta meg, a bíróság a miniszter útján tájékoztatja a kibocsátó tagállami igazságügyi hatóságot a 124/C. § (1) bekezdése alapján elrendelt kényszerintézkedésről, valamint a 120. § (1) bekezdésben meghatározott iratok megküldésére rendelkezésére álló határidőről.

@@ -20,6 +20,8 @@ ae) harmadfokú bírósági eljárásnak nincs helye,
 
 b) a Magyarországon felmerült bűnügyi költséget és egyéb költséget az állam viseli,
 
-c) ha az a döntéshozatalhoz elkerülhetetlenül szükséges, az eljáró igazságügyi hatóság e törvény eltérő rendelkezése hiányában közvetlenül az érintett tagállami igazságügyi hatóságtól kiegészítő adatok, illetve iratok rendelkezésre bocsátását kérheti.
+c) ha az a döntéshozatalhoz elkerülhetetlenül szükséges, az eljáró igazságügyi hatóság e törvény eltérő rendelkezése hiányában közvetlenül az érintett tagállami igazságügyi hatóságtól kiegészítő adatok, illetve iratok rendelkezésre bocsátását kérheti,
+
+d) a védő részvételére a Be. 427. § (5) bekezdés a) pontja nem alkalmazható.
 
 (2) A bíróság ügydöntő határozata ellen felülvizsgálatnak nincs helye.

@@ -1,0 +1,1 @@
+111/I. § A bíróság a megfeleltetésről szóló határozatát hivatalból, illetve az ügyészség, a terhelt vagy a védő indítványára hatályon kívül helyezi, és az eljárást megszünteti, ha a tagállami ítélet megfeleltetéséről korábban jogerős ügydöntő határozatot hoztak, és a határozat kiegészítésének vagy megváltoztatásának nincs helye.

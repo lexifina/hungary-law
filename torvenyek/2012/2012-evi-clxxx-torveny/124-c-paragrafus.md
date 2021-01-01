@@ -1,4 +1,4 @@
-124/C. § (1) Ha a bíróság az 5. § (4) bekezdése esetén az európai elfogatóparancs végrehajtását megtagadta, az európai elfogatóparancs megtagadásával egyidejűleg elrendeli az elítélt ideiglenes végrehajtási letartóztatását, ha az 5. § (4) bekezdésében meghatározott megtagadási októl eltekintve az európai elfogatóparancs megtagadási oka nem áll fenn.
+124/C. § (1) Ha a bíróság az 5. § (4) bekezdése esetén az európai elfogatóparancs végrehajtását megtagadta, az európai elfogatóparancs megtagadásával egyidejűleg elrendeli az elítélt ideiglenes végrehajtási letartóztatását.
 
 (2) Az (1) bekezdés alapján elrendelt ideiglenes végrehajtási letartóztatás a (3) bekezdés szerinti ülés időpontjáig, legfeljebb azonban harminc napig tart.
 

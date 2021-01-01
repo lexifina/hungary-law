@@ -1,4 +1,14 @@
-111/D. § (1) A megfeleltetés során a bíróság megállapítja a tagállami ítéletben szereplő bűncselekménynek a Btk. szerinti minősítését, és megvizsgálja, hogy a figyelembe vehető tagállami ítélet rendelkezései, valamint az abban kiszabott büntetés, illetve alkalmazott intézkedés összeegyeztethetők-e a magyar törvénnyel. Ha a tagállami ítélet rendelkezései vagy az abban kiszabott büntetés vagy alkalmazott intézkedés nem összeegyeztethető a magyar törvénnyel, továbbá ha ezek jogkövetkezményei nem felelnek meg a magyar törvénynek, a bíróság a tagállami ítélet rendelkezéseit, valamint a kiszabott büntetést vagy alkalmazott intézkedést a magyar törvénynek megfelelően átalakítja, illetve kiegészíti. A tagállami ítélet át nem alakított rendelkezéseit a tagállami ítéletnek megfelelően kell figyelembe venni.
+111/D. § (1) A megfeleltetés során a bíróság megállapítja a tagállami ítéletben szereplő bűncselekménynek – az (1a) bekezdésben foglalt eltérésekkel – a Btk. szerinti minősítését, és megvizsgálja, hogy a figyelembe vehető tagállami ítélet rendelkezései, valamint az abban kiszabott büntetés, illetve alkalmazott intézkedés összeegyeztethetők-e a magyar törvénnyel. Ha a tagállami ítélet rendelkezései vagy az abban kiszabott büntetés vagy alkalmazott intézkedés nem összeegyeztethető a magyar törvénnyel, továbbá ha ezek jogkövetkezményei nem felelnek meg a magyar törvénynek, a bíróság a tagállami ítélet rendelkezéseit, valamint a kiszabott büntetést vagy alkalmazott intézkedést a magyar törvénynek megfelelően átalakítja, illetve kiegészíti. A tagállami ítélet át nem alakított rendelkezéseit a tagállami ítéletnek megfelelően kell figyelembe venni.
+
+(1a) A megfeleltetés során a bíróság a tagállami ítéletben szereplő bűncselekmény Btk. szerinti minősítését
+
+a) nem állapítja meg, ha
+
+aa) a tagállami ítélet alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény és a végrehajtási jogsegély nem tagadható meg abból az okból, hogy tagállami határozat a kettős büntethetőség megsértése miatt nem vehető figyelembe, vagy
+
+ab) a tagállami ítéletben szereplő bűncselekmény Btk. szerinti minősítésének megállapítása a figyelembevétel céljából nem szükséges és a rendelkezésre álló adatok alapján megállapítható, hogy a figyelembevétel a kettős büntethetőség elvét nem sérti,
+
+b) a rendelkezésre álló adatok alapján állapítja meg, ha az a figyelembevétel céljához elégséges.
 
 (2) A tagállami ítélet rendelkezéseinek, a kiszabott büntetés vagy alkalmazott intézkedés átalakítására akkor kerülhet sor, ha a tagállami ítélet rendelkezése, a tagállami ítéletben kiszabott büntetés vagy alkalmazott intézkedés törvénysértő lenne, vagy az a magyar törvényben nem ismert. A bíróság
 

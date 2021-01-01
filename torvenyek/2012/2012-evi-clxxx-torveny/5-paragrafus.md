@@ -28,7 +28,17 @@ e) az európai elfogatóparancs olyan bűncselekményre vonatkozik, amelyet egé
 
 (3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását, ideiglenes végrehajtási bűnügyi felügyeletét rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását elrendeli.
 
-(4) Ha a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság megtagadja az európai elfogatóparancs végrehajtását, ha a terhelt az átadásába nem egyezik bele.
+(4) A bíróság megtagadja az európai elfogatóparancs végrehajtását, ha
+
+a) az európai elfogatóparancs végrehajtásának egyéb megtagadási oka nem áll fenn,
+
+b) az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki,
+
+c) a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik és
+
+d) a rendelkezésre álló adatok alapján nem áll fenn a végrehajtás átvételének egyetlen megtagadási oka sem.
+
+(4a) A (4) bekezdés nem alkalmazható, ha a terhelt az átadásba beleegyezik.
 
 (5) Az európai elfogatóparancs végrehajtását a bíróság megtagadja, ha azt olyan határozat végrehajtása céljából bocsátották ki, amelyet a terhelt távollétében hoztak.
 

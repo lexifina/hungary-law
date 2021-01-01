@@ -1,6 +1,6 @@
 42. § (1) A bíróság vagy az ügyészség haladéktalanul tájékoztatja a tagállami hatóságot, ha a 40. § (1) bekezdés e) pontjában meghatározott megtagadási ok merül fel, és a magyar jogszabályok alapján az európai nyomozási határozatban megjelölt eljárási cselekménytől eltérő olyan végrehajtható eljárási cselekmény áll rendelkezésre, amely az európai nyomozási határozattal elérni kívánt bizonyíték megszerzésére vezethet.
 
-(2) A 40. § (1) bekezdés e) pontja alapján nincs helye az európai nyomozási határozat végrehajtása megtagadásának, illetve az (1) bekezdés szerinti tájékoztatásnak, ha az európai nyomozási határozat az alábbiak egyikére irányul:
+(2) A 40. § (1) bekezdés d), illetve e) pontja alapján nincs helye az európai nyomozási határozat végrehajtása megtagadásának, illetve az (1) bekezdés szerinti tájékoztatásnak, ha az európai nyomozási határozat az alábbiak egyikére irányul:
 
 a) a bíróság, az ügyészség vagy a nyomozó hatóság birtokában lévő bizonyítási eszköz átadása, ha a bizonyítási eszköz a magyar jogszabályok szerint büntetőeljárásban felhasználható,
 

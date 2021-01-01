@@ -1,6 +1,6 @@
 ## 36/H. Hivatalos irat kézbesítése
 
-71/D. § (1) A magyar igazságügyi hatóság a hivatalos iratot egy másik tagállamban tartózkodó címzett részére közvetlenül, posta útján, tértivevény többletszolgáltatással feladott postai küldeményként kézbesítési bizonyítvánnyal, zárt iratban küldi meg.
+71/D. § (1) A magyar igazságügyi hatóság a hivatalos iratot egy másik tagállamban tartózkodó címzett részére jogszabályban meghatározottak szerint közvetlenül, posta útján küldi meg.
 
 (2) A hivatalos iratot – ha a címzett a magyar nyelvet nem ismeri – le kell fordítani a címzett anyanyelvére vagy az általa ismertként megjelölt más nyelvre, vagy – ha ezek a magyar igazságügyi hatóság előtt nem ismertek – a címzett tartózkodás helye szerinti tagállam hivatalos nyelvére, hivatalos nyelveinek egyikére vagy a tagállam által megjelölt nyelvre. Az irathoz mellékelni kell a címzett tájékoztatását az eljárási jogairól és kötelezettségeiről.
 
