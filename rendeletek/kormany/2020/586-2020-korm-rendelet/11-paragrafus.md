@@ -1,3 +1,3 @@
-## 10. §[^11]
+## 10. §[^9]
 
-[^11]: A 10. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
+[^9]: A 10. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
