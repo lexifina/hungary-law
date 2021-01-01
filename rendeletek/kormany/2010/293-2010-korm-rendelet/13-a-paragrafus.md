@@ -1,8 +1,8 @@
-## 13. § Ha a védett állomány tagjának állományviszonya a vizsgálat ideje alatt bármilyen okból megszűnik, a vizsgálatot határozattal be kell fejezni.
+## 13. §[^44] A Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek azon körét, melynek foglalkoztatottjai nem vonhatóak megbízhatósági vizsgálat alá az 1. melléklet határozza meg.
 
-## 5/A.[^39] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
+## 5/A.[^45] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
 
-## 13/A. §[^40] Az NVSZ
+## 13/A. §[^46] Az NVSZ
 
 a) előkészíti a korrupció elleni kormányzati stratégia, és a hozzá kapcsolódó intézkedési tervek tervezetét, amelyeket felterjeszt a rendészetért felelős miniszter részére;
 
@@ -32,5 +32,6 @@ h) részt vesz a nemzetközi együttműködésből, nemzetközi egyezményekből
 
 i) előkészíti a korrupcióellenes kommunikációs szakmai anyagokat.
 
-[^39]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
-[^40]: A 13/A. § a 187/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^44]: A 13. § a 718/2020. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^45]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
+[^46]: A 13/A. § a 187/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

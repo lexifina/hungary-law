@@ -1,4 +1,4 @@
-9/A. §[^28] (1) A rendvédelmi igazgatási szolgálati jogviszonyban álló foglalkoztatott (a továbbiakban: rendvédelmi alkalmazott) esetében a 4. alcímet a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni.
+9/A. §[^29] (1) A rendvédelmi igazgatási szolgálati jogviszonyban álló foglalkoztatott (a továbbiakban: rendvédelmi alkalmazott) esetében a 4. alcímet a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) A rendvédelmi alkalmazott esetében a kifogástalan életvitel ellenőrzést az NVSZ a rendvédelmi szerv szervezeti egysége vezetőjének (a munkáltatói jogkör gyakorlójának) megkeresése alapján végzi.
 
@@ -12,4 +12,4 @@ b) a kezdeményezésére jogosult a kérelmét visszavonta.
 
 (5) A rendvédelmi alkalmazott esetében a 7. § (2) bekezdés b) és d) pontja, a 7. § (5) bekezdése és a 8. § (2) bekezdése nem alkalmazható.
 
-[^28]: A 9/A. §-t a 11/2019. (II. 5.) Korm. rendelet 2. §-a iktatta be.
+[^29]: A 9/A. §-t a 11/2019. (II. 5.) Korm. rendelet 2. §-a iktatta be.
