@@ -1,0 +1,1 @@
+11/C. § A közfeladatot ellátó közérdekű vagyonkezelő alapítvány alapító okiratának tartalmaznia kell az arra való utalást, hogy e törvény szerinti közfeladatot ellátó közérdekű vagyonkezelő alapítványnak minősül.
