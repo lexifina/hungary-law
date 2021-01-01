@@ -4,7 +4,6 @@
 
 1.[^1]
 
-2.[^2]
+2. 1. melléklete a 2. melléklet
 
 [^1]: Az 1. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § 2. pontja az 5. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
