@@ -1,6 +1,6 @@
 ## A nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása
 
-66/H. § (1) A nevelőszülőt tevékenységéért a foglalkoztatási jogviszony fennállásának időtartama alatt – a 66/B. § (1) bekezdése szerinti megállapodásokban meghatározott – díjazás illeti meg.
+66/H. § (1) A nevelőszülőt tevékenységéért a foglalkoztatási jogviszony fennállásának időtartama alatt – a fizetés nélküli szabadság és a táppénz igénybevételének időtartama kivételével – a 66/B. § (1) bekezdése szerinti megállapodásokban meghatározott díjazás illeti meg.
 
 (2) A nevelőszülő díjazása az alapdíjból, a kiegészítő díjból és – az (5a) bekezdésben foglalt kivétellel – a többletdíjból áll.
 
@@ -8,7 +8,7 @@
 
 (4) A nevelőszülőt az alapdíjon felül minden egyes nála elhelyezett gyermek, fiatal felnőtt után kiegészítő díjként havonta legalább a minimálbér 20%-a illeti meg.
 
-(5) A nevelőszülőt – az (5a) bekezdésben foglalt kivétellel – az alap- és kiegészítő díjon felül minden egyes nála elhelyezett speciális, különleges vagy kettős szükségletű gyermek után többletdíjként havonta legalább a minimálbér 5%-a illeti meg.
+(5) A nevelőszülőt – az (5a) bekezdésben foglalt kivétellel – az alap- és kiegészítő díjon felül minden egyes nála elhelyezett speciális, különleges vagy kettős szükségletű gyermek után többletdíjként havonta legalább a minimálbér 7%-a illeti meg.
 
 (5a) A nevelőszülő nem jogosult az (5) bekezdés szerinti többletdíjra a nála elhelyezett gyermekre tekintettel igénybe vett gyermekgondozási díj folyósításának időtartama alatt.
 

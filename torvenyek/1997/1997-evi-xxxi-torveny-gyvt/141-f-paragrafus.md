@@ -28,6 +28,8 @@ e) az örökbefogadás utánkövetését végző közhasznú szervezet az örök
 
 (2) A területi gyermekvédelmi szakszolgálat – a gyermek örökbe fogadhatónak nyilvánítása érdekében – az örökbefogadási alrendszer adataiból tájékoztatást nyújt a gyámhatóság vagy a gyermekvédelmi gyám megkeresésére a nevelésbe vett gyermek örökbefogadásának várható esélyéről. Ha a területi gyermekvédelmi szakszolgálat az örökbefogadási alrendszer általa hozzáférhető adatai alapján nem talál a gyermek számára örökbefogadó szülőt, haladéktalanul megkeresi az országos örökbefogadást elősegítő szervet.
 
+(2a) Az apaság, illetve az anyaság megállapítása iránti perben eljáró bíró közvetlen megkeresésére az országos örökbefogadást elősegítő szerv adatot szolgáltat arra vonatkozóan, hogy az örökbefogadási alrendszerben kezelt adatok alapján a gyermek örökbefogadható-e, illetve folyamatban van-e a gyermek örökbefogadásának engedélyezése iránti eljárás.
+
 (3) Az örökbefogadási alrendszer adatairól írásbeli kérelemre az kaphat felvilágosítást, aki az adat megismerésére és kezelésére törvényi rendelkezés alapján jogosult.
 
 (4) Az örökbefogadási alrendszerből való adatszolgáltatás során csak az adatkérés céljának megvalósulásához elengedhetetlenül szükséges adat bocsátható a felvilágosítást kérő rendelkezésére.

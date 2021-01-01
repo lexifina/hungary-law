@@ -26,7 +26,7 @@ c) az eljárás megindítására irányuló kérelem, a jogorvoslati kérelem é
 
 összefüggő gyámhatósági eljárásban.
 
-(3a) A (3) bekezdésben meghatározott, személyes megjelenéshez nem kötött jognyilatkozatokat postai úton, elektronikus úton, személyesen átadott irat útján, kézbesítési meghatalmazott útján vagy személyesen lehet előterjeszteni.
+(3a) A (3) bekezdésben meghatározott, személyes megjelenéshez nem kötött jognyilatkozatokat postai úton, elektronikus úton, személyesen átadott irat útján, kézbesítési meghatalmazott útján vagy személyesen lehet előterjeszteni. A gyámhatóság az e törvény szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
 
 (3b) Életvitelszerűen külföldön tartózkodó ügyfél esetén személyesen megtett jognyilatkozatnak kell tekinteni a kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton megtett jognyilatkozatot.
 

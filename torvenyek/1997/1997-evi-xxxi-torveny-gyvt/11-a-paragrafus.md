@@ -36,4 +36,4 @@ fc) a jogsértő személy továbbképzésére a fenntartónak, működtetőnek.
 
 (9) Megszűnik a gyermekjogi képviselő megbízatása, ha vele szemben a 10/A. § (1) bekezdésében meghatározott kizáró okok valamelyike fennáll, vagy ha a gyermekjogi képviselő a 11/B. § (3) bekezdésben meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
 
-(10) A gyermekjogi képviselő a gyermekjogi képviselői feladatainak ellátása során hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
+(10) A gyermekjogi képviselő a gyermekjogi képviselői feladatainak ellátása során hivatalból jár el, és e tevékenységével kapcsolatban a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül.

@@ -50,6 +50,8 @@ fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtés
 
 g) családi bölcsőde és munkahelyi bölcsőde esetén a gyermek törvényes képviselőjének személyazonosító adatait, ha a törvényes képviselő a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban részesül.
 
+(2a) A (2) bekezdés a)–f) pontja szerinti adatok a Gyermekeink védelmében elnevezésű informatikai rendszerből kerülnek átadásra a kincstár által a finanszírozás ellenőrzése céljából vezetett nyilvántartás részére.
+
 (3) Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat
 
 a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül, és a gyermek törvényes képviselője a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban nem részesül,

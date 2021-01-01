@@ -8,7 +8,7 @@ c) öt évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési t
 
 (2) Ha a fiatal felnőtt az otthonteremtési támogatást lakás, családi ház, tanya bérleti díjának kifizetésére, vagy lakás, családi ház, tanya tulajdon- vagy tulajdonrészszerzéssel járó felújítására, bővítésére használja fel, a gyámhatóság az otthonteremtési támogatás összegének részletekben történő kifizetéséről dönthet. A tulajdon- vagy tulajdonrészszerzéssel járó felújítás, bővítés céljára megállapított otthonteremtési támogatás részletekben történő kifizetése esetén a következő részlet kifizetésére csak akkor kerülhet sor, ha a fiatal felnőtt az előző részlet cél szerinti felhasználásáról okmányokkal igazoltan elszámolt.
 
-(3) Ha a fiatal felnőtt az otthonteremtési támogatást államilag támogatott lakás-előtakarékossági programban való részvételre használja fel – a lakás-előtakarékossághoz kapcsolódó állami támogatás megtakarítási időn belüli folyamatos igénybevétele érdekében – a lakás-előtakarékossági szerződésnek kizárólag az a módozata hagyható jóvá, amely szerint a befizetés a megtakarítási idő alatt előre meghatározott rendszerességgel, egyenlő részletekben történik. Otthonteremtési támogatásból nem finanszírozható olyan szerződési módozat, amely alapján a teljes betét befizetése a szerződéskötéskor egy összegben történik.
+(3)
 
 (4) A hitelintézet a lakás-előtakarékossági programba befektetett otthonteremtési támogatás összegét a gyámhatóság otthonteremtési támogatást megállapító döntése alapján zárolja. A zárolás kizárólag a gyámhatóság hozzájárulásával szüntethető meg. A zárolás hatálya alatt a szerződéssel rendelkezni kizárólag a gyámhatóság hozzájárulása alapján lehet.
 

@@ -22,13 +22,13 @@ c) bérleti jogviszony létesítéséhez szükséges összeg megfizetésére, la
 
 d) önkormányzati bérlakás felújítására,
 
-e) államilag támogatott lakás-előtakarékossági programban való részvételre, ha a fiatal felnőtt vállalja, hogy legalább az Ltv.-ben meghatározott, az állami támogatásra való jogosultság megszerzéséhez szükséges ideig részt vesz a programban,
+e)
 
 f) otthonteremtést elősegítő hitelintézeti kölcsön egyösszegű törlesztésére,
 
-g) indokolt esetben a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra vagy belépési hozzájárulásra.
+g) indokolt esetben a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe vagy támogatott lakhatáshoz fizetendő belépési hozzájárulásra.
 
-(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben és az (5) bekezdés e) pontjában meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozó intézménnyel együttműködik.
+(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozó intézménnyel együttműködik.
 
 (7) A gyámhatóság az otthonteremtési támogatás iránti kérelem alapján az utógondozást
 
@@ -36,4 +36,4 @@ a) az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőt
 
 b) az utógondozás vagy utógondozói ellátás alatt álló fiatal felnőtt esetén meghosszabbítja.
 
-(8) Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt, kivéve, ha az otthonteremtési támogatás célja lakás-előtakarékossági programban való részvétel. Lakás-előtakarékossági programban való részvétel esetén az utógondozást biztosító intézmény az otthonteremtési támogatást megállapító döntés véglegessé válásáig, valamint szükség esetén a 26/B. § (3) és (7) bekezdése szerinti esetben nyújt segítséget.
+(8) Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt, kivéve, ha az otthonteremtési támogatás célja lakás-előtakarékossági programban való részvétel. Lakás-előtakarékossági programban való részvétel esetén az utógondozást biztosító intézmény szükség esetén a 26/B. § (3) és (7) bekezdése szerinti esetben nyújt segítséget.

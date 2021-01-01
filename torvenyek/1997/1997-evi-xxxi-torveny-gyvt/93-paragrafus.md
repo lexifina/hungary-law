@@ -38,11 +38,11 @@ b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott kés
 
 a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, az utógondozói ellátás elrendelése okának megszűnésével, de legkésőbb a fiatal felnőtt 21. életévének betöltésével, vagy ha speciális vagy különleges ellátási szükségletűként érte el nagykorúságát, a 22. életévének betöltésével,
 
-b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói jogviszony, a hallgatói jogviszony vagy a felnőttképzési jogviszony megszűnését követő 120. napon, de a tanuló jogviszony vagy a felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén – (9a) bekezdésben foglalt kivétellel – legkésőbb a 25. életévének betöltésével,
+b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói jogviszony, a hallgatói jogviszony vagy a felnőttképzési jogviszony megszűnését követő 120. napon, de a tanuló jogviszony vagy a felnőttképzési jogviszony fennállása esetén – a (9a) bekezdésben foglalt kivétellel – legkésőbb a 24., hallgatói jogviszony fennállása esetén – (9a) bekezdésben foglalt kivétellel – legkésőbb a 25. életévének betöltésével,
 
 c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a szociális intézménybe való felvételével, de legkésőbb a 22. életévének betöltésével.
 
-(9a) A 25. életévét betöltött, hallgatói jogviszonyban álló fiatal felnőtt utógondozói ellátása a fiatal felnőtt kérelmére meghosszabbítható a hallgatói jogviszonya megszűnéséig, de legkésőbb a 30. életévének a betöltéséig. A kérelemről az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartója dönt a fiatal felnőtt tanulmányaiból hátralévő időtartamra, a tanulmányok befejezésének esélyére, a fiatal felnőttnek az utógondozói ellátást nyújtó intézménnyel történő együttműködési készségére és a rászorultságára tekintettel.
+(9a) A 24. életévét betöltött, középfokú iskolában tanuló vagy szakképző intézménnyel tanulói vagy felnőttképzési jogviszonyban álló fiatal felnőtt és a 25. életévét betöltött, felsőoktatási intézménnyel hallgatói jogviszonyban álló fiatal felnőtt utógondozói ellátása a fiatal felnőtt kérelmére meghosszabbítható a tanulói, hallgatói vagy felnőttképzési jogviszonya megszűnéséig, de legkésőbb a 30. életévének betöltéséig. A kérelemről az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartója dönt a fiatal felnőtt tanulmányaiból hátralévő időtartamra, a tanulmányok befejezésének esélyére, a fiatal felnőttnek az utógondozói ellátást nyújtó intézménnyel történő együttműködési készségére és a rászorultságára tekintettel.
 
 (10) A gyámhatóság az utógondozói ellátást megszünteti, ha a fiatal felnőtt
 

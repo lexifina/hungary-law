@@ -8,7 +8,7 @@ b) a működtető jogutód nélküli megszűnésével,
 
 c) a határozott idő lejártával, vagy
 
-d) ha a nevelőszülő gondozásából valamennyi gyermek, fiatal felnőtt kikerült és a gyámhatóság az ezt követő három hónapon belül újabb gyermeket, fiatal felnőttet nem helyezett el a gondozásában.
+d) ha a nevelőszülő gondozásából valamennyi gyermek, fiatal felnőtt kikerült és a gyámhatóság az ezt követő három hónapon belül újabb gyermeket, fiatal felnőttet gondozásában nem helyezett el, kivéve, ha erre a nevelőszülő részéről táppénz vagy fizetés nélküli szabadság igénybevétele miatt került sor.
 
 (2) Az (1) bekezdés d) pontjában meghatározott időtartam a gyermeknek, a fiatal felnőttnek a nevelőszülő gondozásából való kikerülését követő naptól kezdődik abban az esetben is, ha a nevelőszülőt az egyes gyámi feladatok ellátására a gyámhatóság gyámként kirendelte.
 
@@ -25,6 +25,16 @@ c) azonnali hatályú felmondással.
 (5) A nevelőszülő a nevelőszülői foglalkoztatási jogviszonyt hatvannapos felmondási idővel indokolás nélkül írásban felmondhatja. A működtető indokolt esetben a felmondási idő alatt felmentheti a nevelőszülőt a munkavégzés alól, ha az nem ellentétes a nála elhelyezett gyermek érdekeivel.
 
 (6) A működtető a nevelőszülői foglalkoztatási jogviszonyt – a (7) bekezdésben foglaltak kivételével – hatvannapos felmondási idővel, írásban, indokolással felmondhatja. A felmondás okának az indokolásból világosan ki kell tűnnie. A felmondás indokának valóságát és okszerűségét a működtető bizonyítja.
+
+(6a) A nevelőszülői foglalkoztatási jogviszony (6) bekezdése szerinti felmondását megalapozza különösen, ha a nevelőszülő
+
+a) a működtető engedélye nélkül másik működtetővel is megállapodást köt,
+
+b) az együttműködési kötelezettségének nem tesz eleget,
+
+c) magatartásával ellehetetleníti a működtetővel történő együttműködést, vagy
+
+d) előzetes bejelentés vagy a gyámhatóság engedélye nélkül harminc napnál hosszabb időre külföldre távozik anélkül, hogy ott szokásos tartózkodási helyet létesítene.
 
 (7) A működtető azonnali hatállyal felmondja a nevelőszülői foglalkoztatási jogviszonyt, ha
 

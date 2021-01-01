@@ -1,6 +1,6 @@
 ## A szolgáltatást igénybe vevővel kötött megállapodás
 
-69/D. § (1) A szolgáltató az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott tartalmú írásbeli megállapodást köt a szolgáltatás nyújtására
+69/D. § (1) A szolgáltató az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott tartalmú írásbeli megállapodást köt a szolgáltatás nyújtására
 
 a) a vér szerinti szülővel,
 

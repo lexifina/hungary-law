@@ -62,7 +62,7 @@ a) nevelő, gyermekfelügyelő, szakgondozó, gondozó, segédgondozó, gyermekg
 
 b) helyettes szülői tanácsadó, nevelőszülői tanácsadó és gyermekvédelmi gyám, helyettes gyermekvédelmi gyám a gyermek közvetlen gondozásának ellenőrzése, illetve törvényes képviseletének ellátása során
 
-hivatalból jár el, e tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
+hivatalból jár el, e tevékenységével kapcsolatban a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül.
 
 (8)
 

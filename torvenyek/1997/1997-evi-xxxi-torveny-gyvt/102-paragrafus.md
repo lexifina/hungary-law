@@ -28,6 +28,8 @@ d) a képzésről kiállított bizonyítvány száma, a kiállítás helye és i
 
 e) a jogszabály által előírt továbbképzés elvégzésének adatai.
 
+f) a hivatásos gondnok elmozdításának tényét, az erről rendelkező gyámhatóság megnevezését, a döntés véglegessé válásának időpontját és a döntés elleni közigazgatási per megindításának tényét.
+
 (3a) A nyilvántartás nem minősül hatósági nyilvántartásnak.
 
 (4) A gyámhatóság bejelenti a nyilvántartást vezető szervnek

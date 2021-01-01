@@ -24,8 +24,8 @@ b) nem vagy nem teljes mértékben az Ltv.-ben meghatározott lakáscélra haszn
 
 a) rendelkezik a hitelintézet felé az Ltv. alapján kifizethető, az otthonteremtési támogatásnak megfelelő mértékű betétösszegnek – ideértve az utána jóváírt kamatot is – a központi költségvetés részére történő átutalásáról,
 
-b) nyilatkoztatja a fiatal felnőttet arról, hogy az a) pont szerint átutalásra kerülő összeg otthonteremtési támogatásból származó részét a 25. § (5) bekezdés a)–d), f) és g) pontja szerinti otthonteremtési célok közül melyikre kívánja felhasználni, és
+b) a 27. § (2) bekezdésében foglaltak figyelembevételével nyilatkoztatja a fiatal felnőttet arról, hogy az a) pont szerint átutalásra kerülő összeg otthonteremtési támogatásból származó részét a 25. § (5) bekezdése szerinti otthonteremtési célok közül melyikre kívánja felhasználni, és
 
 c) szükség esetén elrendeli vagy meghosszabbítja az utógondozást a b) pont szerinti nyilatkozatban megjelölt felhasználási cél megvalósításához.
 
-(8) A gyámhatóság a (7) bekezdés b) pontja szerinti nyilatkozat alapján otthonteremtési támogatás iránti eljárást folytat le. Ha a fiatal felnőtt a nyilatkozatában új felhasználási célt nem jelöl meg, az eljárást meg kell szüntetni, egyidejűleg tájékoztatni kell arról, hogy a fel nem használt összeg tekintetében a 25. § (5) bekezdés a)–d), f) és g) pontja szerinti otthonteremtési célra új kérelmet nyújthat be a 27. § (2) bekezdésében foglalt időtartamon belül.
+(8) A gyámhatóság a (7) bekezdés b) pontja szerinti nyilatkozat alapján otthonteremtési támogatás iránti eljárást folytat le. Ha a fiatal felnőtt a nyilatkozatában új felhasználási célt nem jelöl meg, az eljárást meg kell szüntetni, egyidejűleg tájékoztatni kell arról, hogy a fel nem használt összeg tekintetében a 25. § (5) bekezdés szerinti otthonteremtési célra új kérelmet nyújthat be a 27. § (2) bekezdésében foglalt időtartamon belül.

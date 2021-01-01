@@ -1,4 +1,4 @@
-69/H. § (1) Az örökbefogadás utánkövetése az örökbefogadás utánkövetését végző magánszervezetek tevékenységét és működési engedélyezését szabályozó kormányrendeletben meghatározott működési engedélyhez kötött tevékenység.
+69/H. § (1) Az örökbefogadás utánkövetése az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott működési engedélyhez kötött tevékenység.
 
 (2) A működési engedély kiadásáról a szolgáltató kérelmére a működést engedélyező szerv dönt.
 

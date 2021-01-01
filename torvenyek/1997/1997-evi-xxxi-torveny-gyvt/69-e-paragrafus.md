@@ -2,7 +2,7 @@
 
 69/E. § (1) A szolgáltatásért a szolgáltatás igénybe vevőjétől a (2) bekezdés szerinti költségek viselésén kívül más jogcímen, így különösen közvetítői, szolgáltatási díjként, a szolgáltató vagy egy harmadik személy számára pénzbefizetés vagy más vagyoni előny nyújtása nem kérhető, illetve nem fogadható el. E rendelkezés nem akadálya annak, hogy a szolgáltató a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásából bevételt szerezzen.
 
-(2) Az örökbe fogadni szándékozó személy viseli az általa igénybe vett szolgáltatással összefüggésben felmerült és az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározottak szerint megállapított költségeket.
+(2) Az örökbe fogadni szándékozó személy viseli az általa igénybe vett szolgáltatással összefüggésben felmerült és az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározottak szerint megállapított költségeket.
 
 (3) A megállapodásnak a közhasznú szervezet részéről történő felmondása sem mentesíti az örökbe fogadni szándékozó személyt a felmondás időpontjáig indokoltan felmerült költségek viselése alól.
 

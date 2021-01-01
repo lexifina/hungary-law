@@ -50,7 +50,7 @@ e) a gyermek törvényes képviselőjének, a válsághelyzetben lévő várand�
 
 (3) A szolgáltatást engedélyező szerv az örökbefogadást elősegítő közhasznú szervezet szolgáltatásának további szervezése céljából kezelheti az (1) bekezdés szerinti adatokat. A szolgáltatást engedélyező szerv az adatkezelés céljának megszűnését követően adatkezelését haladéktalanul megszünteti.
 
-(4) Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezet az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző magánszervezetek tevékenységét és működési engedélyezését szabályozó kormányrendeletben meghatározott formában évente adatot szolgáltat a szolgáltatást engedélyező szervnek – a közhasznú szervezet tevékenységének ellenőrzése céljából –
+(4) Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezet az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában évente adatot szolgáltat a szolgáltatást engedélyező szervnek – a közhasznú szervezet tevékenységének ellenőrzése céljából –
 
 a) személyazonosításra alkalmatlan módon az (1) bekezdés a) pontjában foglaltakról,
 
@@ -58,7 +58,7 @@ b) az (1) bekezdés b) pontjában foglaltakról,
 
 c) az (1a) bekezdésben foglaltakról.
 
-(5) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában – a gyermek belföldön történő örökbefogadásának elősegítése, a nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából – folyamatosan továbbítja az országos örökbefogadást elősegítő szerv számára
+(5) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában – a gyermek belföldön történő örökbefogadásának elősegítése, a nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából – folyamatosan továbbítja az országos örökbefogadást elősegítő szerv számára
 
 a) az (1) bekezdés a) pontja szerinti adatokat,
 

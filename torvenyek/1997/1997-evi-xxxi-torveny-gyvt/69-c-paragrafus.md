@@ -1,6 +1,6 @@
 ## A szolgáltatás engedélyezése
 
-69/C. § (1) A szolgáltatás az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott működési engedélyhez kötött tevékenység.
+69/C. § (1) A szolgáltatás az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott működési engedélyhez kötött tevékenység.
 
 (2) A működési engedély kiadásáról – a szolgáltató kérelmére – a szolgáltatást engedélyező szerv dönt.
 

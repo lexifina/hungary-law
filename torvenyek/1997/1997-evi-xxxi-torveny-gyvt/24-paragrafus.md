@@ -42,6 +42,6 @@ kell kifizetni.
 
 (8) A megelőlegezett gyermektartásdíjat a kötelezett a Polgári Törvénykönyvben meghatározott kamattal az államnak megtéríti.
 
-(9) A kincstár a megelőlegezett gyermektartásdíj kötelezett által meg nem térített összegét a kötelezett kérelmére és a 133. § (5) bekezdésében foglalt feltételek fennállása esetén méltányosságból elengedheti, csökkentheti, illetve részletfizetést engedélyezhet.
+(9)
 
 (10) A megelőlegezett gyermektartásdíj meg nem térített összege tekintetében fennálló tartozás a kötelezett halála esetén megszűnik.

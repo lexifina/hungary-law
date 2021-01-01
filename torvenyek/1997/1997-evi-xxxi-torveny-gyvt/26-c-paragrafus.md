@@ -1,6 +1,6 @@
 26/C. § (1) A gyámhatóság az otthonteremtési támogatást a központi költségvetés terhére biztosítja.
 
-(2) A gyámhatóság öt év időtartamra elidegenítési tilalom tényét jegyezteti fel az állam javára az ingatlan-nyilvántartásba a 25. § (5) bekezdés a), b) és e) pontjában foglalt felhasználási célra megállapított otthonteremtési támogatással megszerzett építési telekre, lakásra, családi házra vagy tanyára.
+(2) A gyámhatóság öt év időtartamra elidegenítési tilalom tényét jegyezteti fel az állam javára az ingatlan-nyilvántartásba a 25. § (5) bekezdés a), b) és 2020. december 31-én hatályos e) pontjában foglalt felhasználási célra megállapított otthonteremtési támogatással megszerzett építési telekre, lakásra, családi házra vagy tanyára.
 
 (3) Az otthonteremtési támogatásra jogosult fiatal felnőtt kérelmére, körülményeinek lényeges változása esetén a gyámhatóság az általa feljegyeztetett elidegenítési tilalom tényét feloldhatja.
 

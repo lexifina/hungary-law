@@ -12,7 +12,7 @@ d) a gyámhatóságok kijelölését, szervezetét, a gyámhatóság részletes 
 
 e) a gyermekvédelmi szakfelügyeleti feladatot ellátó személyek képesítési előírásait,
 
-f) a központi hatóság vagy hatóságok, az országos örökbefogadást elősegítő szerv,, továbbá a 38/A. § (4) bekezdésében és a 82. § (1) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
+f) a központi hatóság vagy hatóságok, az országos örökbefogadást elősegítő szerv, továbbá a 38/A. § (4) bekezdésében, a 82. § (1) bekezdésében, a 101. §-ban, a 102. §-ban, a 103/A. §-ban, a 103/B. §-ban, a 137. § (2) bekezdésében, valamint a 142. § (4) bekezdésében meghatározott szerv kijelölését,
 
 g) a személyes adatok kezelésére és az egységes örökbefogadási nyilvántartás vezetésére vonatkozó eljárási szabályokat, valamint az egységes örökbefogadási nyilvántartás adatfeldolgozójának feladataira vonatkozó szabályokat,
 
@@ -52,7 +52,7 @@ v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhel
 
 w) a gyermekek esélynövelő szolgáltatásai, a krízisközpontok, a félutas házak és a titkos menedékházak finanszírozásának rendjére vonatkozó részletes szabályokat,
 
-x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
+x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait, valamint a szociálpolitikai feladatokat ellátó szerv kijelölését,
 
 y) az e törvény szerinti gyermekvédelmi és szociálpolitikai szakértői szakterületeket, a gyermekvédelmi és szociálpolitikai szakértői tevékenység folytatásának, a tevékenység bejelentésének részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket és a névjegyzék vezetésére vonatkozó eljárás részletes szabályait,
 

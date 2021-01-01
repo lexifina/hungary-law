@@ -24,7 +24,7 @@ j) a kincstár.
 
 a) a gyermek
 
-aa) személyazonosító adatainak, társadalombiztosítási azonosító jelére és adóazonosító jelére vonatkozó,
+aa) személyazonosító adatainak, társadalombiztosítási azonosító jelére és adóazonosító jelére vonatkozó, személyazonosító igazolványával, lakcímet igazoló hatósági igazolványával, diákigazolványával, közgyógyellátási igazolványával, oltási könyvével kapcsolatos,
 
 ab) anyanyelvére vonatkozó,
 
@@ -72,7 +72,7 @@ cd) lakóhelyén életvitelszerűen tartózkodó személyek személyazonosító 
 
 ce) sorsának megtervezése szempontjából jelentőséggel bíró személyek, így különösen a korábbi gondozók, szomszédok elérhetőségére vonatkozó,
 
-cf) háziorvosának, védőnőjének, amennyiben óvodai, iskolai nevelésben részesül, a nevelési-oktatási intézmény vezetőjének elérhetőségére vonatkozó,
+cf) háziorvosának, védőnőjének, ha gyermekek napközbeni ellátásában, óvodai, iskolai nevelésben részesül, a napközbeni ellátást nyújtó szolgáltató, intézmény, a nevelési-oktatási intézmény vezetőjének elérhetőségére vonatkozó, valamint a gyermek veszélyeztetettségének megelőzésében, képességeinek, mentális állapotának fejlesztésében, vizsgálatában közreműködő intézmény, szakember elérhetőségére vonatkozó,
 
 d) a javítóintézetben ellátott fiatalkorúnak, és a vele a javítóintézetben együttesen elhelyezett gyermekének
 
@@ -93,6 +93,8 @@ dg) áldozattá válásának körülményeire vonatkozó, az Ást. 16. § (2) be
 dh) a kapcsolattartáshoz való jogának biztosítása érdekében a vele kapcsolattartásra jogosult személyek személyazonosító,
 
 di) a javítóintézet utógondozó részlegén történő ellátás biztosítása érdekében szükséges és elégséges adatainak, így különösen vagyoni helyzetére, környezetére, élelmezésére, ruházatára, lakhatási viszonyaira vonatkozó
+
+dj) – részükre az ellátás folyamatos biztosítása, engedély nélküli eltávozás esetén a felkutatásuk segítése céljából – személyleírására és különös ismertetőjegyeire vonatkozó
 
 adatainak a kezelésére.
 
@@ -122,9 +124,9 @@ történik.
 
 a) a gyermek, a fiatalkorú által elkövetett bűncselekményre és szabálysértésre,
 
-b) a szülő vagy más törvényes képviselő által a gyermek sérelmére elkövetett bűncselekményre,
+b) a szülő vagy más törvényes képviselő által a gyermek, a gyermeket nevelő másik szülő, a gyermeket gondozó személy és a gyermekkel egy háztartásban élő személy sérelmére elkövetett bűncselekményre,
 
-c) a Polgári Törvénykönyv szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra
+c) a Ptk. szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek, a gyermeket nevelő másik szülő, a gyermeket gondozó személy és a gyermekkel egy háztartásban élő személy sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra, illetve a büntetőeljárás során vagy a pártfogó felügyelet magatartási szabályaként elrendelt távoltartásra
 
 vonatkozó adatokat kezelhet.
 
@@ -180,11 +182,13 @@ ej) fényképét, róla készített mozgóképet,
 
 ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósági és a családi helyzetére vonatkozó bírósági döntésekben foglalt adatokat.
 
-(6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(4) bekezdései szerinti célból egymásnak átadhatják.
+(6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(5) bekezdései szerinti célból egymásnak átadhatják.
 
 (6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a megyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
 
 (6b) A gyermekjogi képviselő a feladat- és hatáskörébe tartozó ügy intézése során a Gyermekeink védelmében elnevezésű informatikai rendszerben rögzített adatokat jogosult megtekinteni.
+
+(6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
 (7) Gyámhatóság, a gyermekjóléti központ vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(5) bekezdésében meghatározott szolgáltatások, ellátások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő központ tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 

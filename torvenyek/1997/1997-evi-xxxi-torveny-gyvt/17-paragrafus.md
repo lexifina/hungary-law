@@ -30,6 +30,12 @@ n) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és meg
 
 o) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv.
 
+p) a települési önkormányzat jegyzője,
+
+q) a büntetés-végrehajtási intézet,
+
+r) a büntetés-végrehajtási pártfogó felügyelők.
+
 (2) Az (1) bekezdésben meghatározott intézmények és személyek kötelesek
 
 a) jelzéssel élni a gyermek veszélyeztetettsége esetén a gyermekjóléti szolgáltatást nyújtó szolgáltatónál,
@@ -50,7 +56,7 @@ Ilyen jelzéssel és kezdeményezéssel bármely állampolgár és a gyermekek �
 
 (6) A fővárosi, megyei kormányhivatal szakmai támogatást nyújt a család- és gyermekjóléti központok járási jelzőrendszeri tanácsadóinak, valamint évente egyszer összehívja őket és közösen értékelik a megye gyermekvédelmi jelzőrendszerének működését.
 
-(7) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv gondoskodik a jelzőrendszer hatékony működését és fejlesztését szolgáló
+(7) A szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv gondoskodik a jelzőrendszer hatékony működését és fejlesztését szolgáló
 
 a) képzések szervezéséről, módszertan kidolgozásáról, és
 

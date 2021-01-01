@@ -16,9 +16,9 @@ e) szolgáltatói nyilvántartásba történő bejegyzéshez kötött gyermekjó
 
 (1b) Az (1a) bekezdésben nem említett esetben a bírság legmagasabb összege 200 000 forint.
 
-(2) A bírság összegét az eset összes körülményeire, így különösen a jogsértéssel érintett gyermekek számára, a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására és – fenntartóra kiszabott bírság esetén – a bírság megfizetésének az ellátás színvonalára gyakorolt hatására tekintettel kell meghatározni.
+(2) A fenntartóra kiszabott bírság összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túl – a bírság megfizetésének az ellátás színvonalára gyakorolt várható hatására tekintettel kell megállapítani.
 
-(2a) Nem szabható ki bírság, ha a jogsértő magatartás megvalósulásától, illetve a jogsértő állapot megszűnésétől számított öt év eltelt.
+(2a)
 
 (3) A bírság több jogsértés esetén halmozottan, illetve – a jogsértés jellegétől és a felelősség mértékétől függően – több személlyel, szervezettel szemben is kiszabható.
 

@@ -1,4 +1,4 @@
-170. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 22. § (3) bekezdését és 24. § (9) bekezdését a 2015. január 1-jén folyamatban lévő ügyben is alkalmazni kell.
+170. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 22. § (3) bekezdését a 2015. január 1-jén folyamatban lévő ügyben is alkalmazni kell.
 
 (2) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 137. § (3a) bekezdését – a (3) bekezdésben meghatározott kivétellel – a 2015. március 31-ét követően indult ügyekben kell alkalmazni.
 

@@ -10,7 +10,7 @@ a) a fenntartó nevét, székhelyét, adószámát és típusát, valamint egyh�
 
 b) a fenntartó és a szolgáltató, intézmény, hálózat (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
 
-c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülők, nevelőszülők nevét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, speciális vagy különleges nevelőszülő esetén az erre vonatkozó adatot, és
+c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülőknek, nevelőszülőknek a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 4. § (4) bekezdése szerinti természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, valamint az arra vonatkozó adatot, hogy a nevelőszülő alkalmas-e különleges szükségletű, speciális szükségletű, kettős szükségletű vagy ideiglenes hatállyal elhelyezett gyermek fogadására, és
 
 d) a szolgáltató, intézmény, hálózat (székhely, telephely) és az általa végzett gyermekjóléti és gyermekvédelmi szolgáltató tevékenység kormányrendeletben meghatározott adatait.
 
@@ -28,7 +28,7 @@ kell törölni.
 
 (6) A szolgáltatói nyilvántartás adatai közül nem nyilvános
 
-a) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülők, nevelőszülők neve, az ellátás helye, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek száma, valamint az egyes helyettes szülők, nevelőszülők által végzett szolgáltató tevékenységre vonatkozó egyéb adatok,
+a) a (2) bekezdés c) pontja szerinti adat,
 
 b) a titkos menedékház valamennyi adata,
 
@@ -65,6 +65,8 @@ b) kormányrendeletben foglaltak szerint a szolgáltatói nyilvántartás adatai
 c) kormányrendeletben foglaltak szerint a szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a szolgáltatói nyilvántartásból törölheti, és kötelezheti a fenntartót a gyermekjóléti, gyermekvédelmi szolgáltató tevékenység megszüntetésére, illetve
 
 d) alkalmazhatja a kormányrendeletben meghatározott egyéb jogkövetkezményeket.
+
+(9a) A működést engedélyező szervnek a szolgáltatói nyilvántartással kapcsolatos hatósági eljárásaiban a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés nem alkalmazható.
 
 (10) A szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a fenntartó a kérelmeket, a kérelemhez csatolandó iratokat és nyilatkozatokat, valamint a működést engedélyező szervnek benyújtandó más iratokat elektronikus úton nyújtja be, a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét elektronikus úton teljesíti, a működést engedélyező szerv a döntéseit és az ellenőrzés megindításáról szóló értesítéseit elektronikus úton közli. A fenntartó meghatalmazotti képviselőjének adott meghatalmazás papíralapon is benyújtható.
 

@@ -1,0 +1,1 @@
+98/B. § Ha a területi gyermekvédelmi szakszolgáltatást vagy annak e törvényben meghatározott feladatait nem az állami fenntartó által létrehozott intézmény végzi, a működést engedélyező szerv a jogosulatlanul végzett tevékenység miatt kötelezi a szolgáltató tevékenységet végző, megszervező személyt, szervezetet a szolgáltató tevékenység megszüntetésére.
