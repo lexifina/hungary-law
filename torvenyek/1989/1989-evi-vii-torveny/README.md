@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1989-7-00-00
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1989-7-00-00.7 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 1989-7-00-00.8 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 1989-7-00-00.9 |
+| 2021-01-01 | 2020. évi CLII. törvény | 1989-7-00-00.10 |
