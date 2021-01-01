@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-56-20-2
 | 2017-04-04 | 2008-56-20-22.6 | 62/2017. (III. 20.) Korm. rendelet |
 | 2018-01-01 | 2008-56-20-22.7 | 393/2017. (XII. 13.) Korm. rendelet |
 | 2018-07-01 | 2008-56-20-22.8 | 109/2018. (VI. 25.) Korm. rendelet |
+| 2021-01-01 | 2008-56-20-22.9 | 675/2020. (XII. 28.) Korm. rendelet |

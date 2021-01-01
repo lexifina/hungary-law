@@ -1,6 +1,6 @@
-## A szabálysértési eljárásban ellátható feladatok[^76]
+## A szabálysértési eljárásban ellátható feladatok[^78]
 
-36/A. §[^77] (1) A bírósági ügyintéző első fokon a szabálysértési eljárásban
+36/A. §[^79] (1) A bírósági ügyintéző első fokon a szabálysértési eljárásban
 
 a) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 67. §-a szerint tolmácsot kirendelő, tolmácsdíjat és fordítási díjat megállapító,
 
@@ -18,7 +18,7 @@ d) ha
 
 da) a Szabs. tv. 83. § (1) bekezdés d) pontja szerint az eljárás alá vont személy meghalt,
 
-db)[^78] a Szabs. tv. 83. § (1) bekezdés f)–g) pontja szerint a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen vagy véglegesen elbírálták, illetve ilyen eljárás van folyamatban,
+db)[^80] a Szabs. tv. 83. § (1) bekezdés f)–g) pontja szerint a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen vagy véglegesen elbírálták, illetve ilyen eljárás van folyamatban,
 
 dc) a Szabs. tv. 83. § (1) bekezdés h) pontja szerint a Szabs. tv. 6. § (6) bekezdésében meghatározott idő eltelte miatt bekövetkező elévülés miatt, valamint
 
@@ -70,6 +70,6 @@ k) az elektronikus tárgyalási naplót az ügyirat tartalma alapján vezetheti.
 
 (3) A bírósági ügyintéző az (1) és (2) bekezdésben meghatározott jogosultságait tárgyaláson kívül – a bíró vagy bírósági titkár irányítása és felügyelete mellett – gyakorolhatja.
 
-[^76]: A 36/A. §-t megelőző alcímet a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
-[^77]: A 36/A. §-t a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
-[^78]: A 36/A. § d) pont db) alpontja a 393/2017. (XII. 13.) Korm. rendelet 27. § s) pontja szerint módosított szöveg.
+[^78]: A 36/A. §-t megelőző alcímet a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^79]: A 36/A. §-t a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^80]: A 36/A. § d) pont db) alpontja a 393/2017. (XII. 13.) Korm. rendelet 27. § s) pontja szerint módosított szöveg.
