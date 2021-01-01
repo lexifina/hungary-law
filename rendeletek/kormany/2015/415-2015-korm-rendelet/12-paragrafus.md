@@ -6,9 +6,9 @@ a) óvodai és iskolai szociális segítő tevékenység esetén a jelentési id
 
 b) bölcsődei ellátás esetén évente kétszer, április 30-áig és szeptember 30-áig,
 
-c) nevelőszülői ellátás esetén havonta, a jelentési időpontot követő öt napon belül,
+c)[^52] az 1. melléklet 2.4. pontja szerinti adatok esetén havonta, a jelentési időpontot követő öt napon belül,
 
-d) az a)–c) pontban nem említett szolgáltatások esetén évente kétszer, január 31-éig és július 31-éig
+d)[^53] az a)–c) pontban nem említett esetben évente kétszer, január 31-éig és július 31-éig
 
 ## be kell jelenteni az 1. melléklet szerinti adatokat.
 
@@ -16,4 +16,13 @@ d) az a)–c) pontban nem említett szolgáltatások esetén évente kétszer, j
 
 (3) A titkos menedékházként működő családok átmeneti otthonának adatait a fenntartó nem jelenti az országos jelentési rendszerbe.
 
+(4)[^54] Az országos jelentési rendszerbe bölcsődei ellátás esetén
+
+a) minden év március 15-éig be kell jelenteni a nyári zárva tartás várható idejét, és
+
+b) a fenntartói döntés meghozatalát követő munkanap 24 óráig be kell jelenteni a fenntartó által egyéb ok miatt elrendelt részleges vagy teljes zárva tartást, továbbá, ha a zárva tartásra hatósági intézkedés miatt van szükség, a hatósági határozat iktatószámát, a hatósági határozatban elrendelt hatósági intézkedés típusát, időtartamát, az intézkedéssel érintett ellátotti létszámot, valamint a bölcsődei ellátás nyújtásában beállt egyéb változásokat.
+
 [^51]: A 12. § (1) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^52]: A 12. § (1) bekezdés c) pontja a 612/2020. (XII. 18.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^53]: A 12. § (1) bekezdés d) pontja a 612/2020. (XII. 18.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^54]: A 12. § (4) bekezdését a 612/2020. (XII. 18.) Korm. rendelet 9. §-a iktatta be.

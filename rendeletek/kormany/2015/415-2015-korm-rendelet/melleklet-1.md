@@ -1,5 +1,3 @@
-## 19. §[^62] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
-
 1. melléklet a 415/2015. (XII. 23.) Korm. rendelethez
 
 ## Az országos jelentési rendszerbe bejelentendő adatok
@@ -66,7 +64,7 @@
 
 1.9.3. fogyatékos személyek otthona, fogyatékos személyek gondozóháza, fogyatékos személyek rehabilitációs intézménye, fogyatékos személyek rehabilitációs célú lakóotthona, fogyatékos személyek ápoló-gondozó célú lakóotthona esetén a jelentési időszakban a szolgáltatást igénybe vevők száma a fogyatékosság típusa szerint,
 
-1.9.4.[^63] hajléktalan személyek átmeneti szállása, pszichiátriai betegek rehabilitációs intézménye, szenvedélybetegek rehabilitációs intézménye, fogyatékos személyek rehabilitációs intézménye, hajléktalan személyek rehabilitációs intézménye esetén a jelentési időpontban külső férőhelyen ellátottak száma.
+1.9.4.[^66] hajléktalan személyek átmeneti szállása, pszichiátriai betegek rehabilitációs intézménye, szenvedélybetegek rehabilitációs intézménye, fogyatékos személyek rehabilitációs intézménye, hajléktalan személyek rehabilitációs intézménye esetén a jelentési időpontban külső férőhelyen ellátottak száma.
 
 1.10. Támogatott lakhatás:
 
@@ -76,50 +74,69 @@
 
 1.10.3. a jelentési időpontig a belépési hozzájárulásból származó összes bevétel összege.
 
-2.[^64] Gyermekjóléti és gyermekvédelmi szolgáltató tevékenységek:
+1.11.[^67] Valamennyi szociális szolgáltatás:
 
-2.1.[^65] Családsegítés és gyermekjóléti szolgáltatás:
+1.11.1. a jelentési időpontban az engedélyesnél szakmai munkakörben foglalkoztatottak száma,
+
+1.11.2. a jelentési időpontban az engedélyesnél technikai munkakörben foglalkoztatottak száma,
+
+1.11.3. a jelentési időpontban az engedélyesnél tartósan távollévő foglalkoztatottak száma.
+
+2.[^68] Gyermekjóléti és gyermekvédelmi szolgáltató tevékenységek:
+
+2.1.[^69] Családsegítés és gyermekjóléti szolgáltatás:
 
 2.1.1. az óvodai és iskolai szociális segítő tevékenységnek a jelentési időszakban történt igénybevétele feladatellátási helyek szerinti bontásban, valamint egyéni formában történő, első találkozást követően tett intézkedéssel lezárható, csoportos vagy közösségi óvodai és iskolai szociális segítő tevékenység esetén a jelentési időszakban az igénybevevők száma a tevékenység típusa szerinti bontásban,
 
 2.1.2. óvodai és iskolai szociális segítő tevékenység kivételével a jelentési időszakban az igénybevevők száma a tevékenység típusa szerinti bontásban.
 
-2.2.[^66] Bölcsődei ellátás:
+2.2.[^70] Bölcsődei ellátás:
 
 2.2.1. a jelentési időpontban a szabad férőhelyek száma,
 
 2.2.2. az engedélyesnél a sajátos nevelési igényű gyermekek ellátása biztosított-e.
 
-2.3.[^67] Családok átmeneti otthona:
+2.3.[^71] Családok átmeneti otthona:
 
 2.3.1. a jelentési időpontban a szolgáltatás igénybevételére várakozók száma,
 
 2.3.2. a jelentési időpontban külső férőhelyen és a Gyvt. 184. § (1) bekezdése alapján bejegyzett szolgáltatási helyen ellátottak és az arra várakozók száma.
 
-2.4.[^68] Nevelőszülői ellátás: a jelentési időpontban nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülők száma.
+2.4.[^72] Nevelőszülői ellátás: a jelentési időpontban nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülők száma.
+
+2.5.[^73] Valamennyi gyermekjóléti és gyermekvédelmi szolgáltató tevékenység:
+
+2.5.1. a jelentési időpontban az engedélyesnél szakmai munkakörben foglalkoztatottak száma a nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülők kivételével,
+
+2.5.2. a jelentési időpontban az engedélyesnél technikai munkakörben foglalkoztatottak száma,
+
+2.5.3. a jelentési időpontban az engedélyesnél tartósan távollévő foglalkoztatottak száma.
 
 3. Kiegészítő szabályok:
 
-3.1.[^69] Jelentési időpont:
+3.1.[^74] Jelentési időpont:
 
 3.1.1. bölcsődei ellátás esetén április 1-je és szeptember 1-je,
 
-3.1.2. nevelőszülői ellátás esetén minden hónap első napja,
+3.1.2.[^75] a 2.4. pont szerinti adatok esetén minden hónap utolsó napja,
 
-3.1.3. a 3.1.1. és 3.1.2. pontban nem említett szolgáltatások esetén december 31-e és június 30-a.
+3.1.3.[^76] a 3.1.1. és 3.1.2. pontban nem említett esetben december 31-e és június 30-a.
 
-3.2.[^70] Jelentési időszak:
+3.2.[^77] Jelentési időszak:
 
 3.2.1. óvodai és iskolai szociális segítő tevékenység esetén minden naptári hónap,
 
 3.2.2. a 3.2.1. pontban nem említett esetben a január 1-je és június 30-a, valamint a július 1-je és december 31-e közötti időszak.
 
-[^62]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 85. § (1) bekezdése iktatta be.
-[^63]: Az 1. melléklet 1.9.4. pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^64]: Az 1. melléklet 2. pont nyitó szövegrésze a 381/2017. (XII. 11.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^65]: Az 1. melléklet 2. pont 2.1. alpontja a 312/2019. (XII. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^66]: Az 1. melléklet 2.2. pontja a 191/2016. (VII. 13.) korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^67]: Az 1. melléklet 2.3. pontját a 191/2016. (VII. 13.) korm. rendelet 26. § b) pontja hatályon kívül helyezte, újonnan a 381/2017. (XII. 11.) Korm. rendelet 22. §-a iktatta be.
-[^68]: Az 1. melléklet 2.4. pontja a 381/2017. (XII. 11.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^69]: Az 1. melléklet 3.1. pontja a 381/2017. (XII. 11.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^70]: Az 1. melléklet 3. pont 3.2. alpontja a 312/2019. (XII. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^66]: Az 1. melléklet 1.9.4. pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^67]: Az 1. melléklet 1. pont 1.11. alpontját a 612/2020. (XII. 18.) Korm. rendelet 11. §-a iktatta be.
+[^68]: Az 1. melléklet 2. pont nyitó szövegrésze a 381/2017. (XII. 11.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^69]: Az 1. melléklet 2. pont 2.1. alpontja a 312/2019. (XII. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^70]: Az 1. melléklet 2.2. pontja a 191/2016. (VII. 13.) korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^71]: Az 1. melléklet 2.3. pontját a 191/2016. (VII. 13.) korm. rendelet 26. § b) pontja hatályon kívül helyezte, újonnan a 381/2017. (XII. 11.) Korm. rendelet 22. §-a iktatta be.
+[^72]: Az 1. melléklet 2.4. pontja a 381/2017. (XII. 11.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^73]: Az 1. melléklet 2. pont 2.5. alpontját a 612/2020. (XII. 18.) Korm. rendelet 11. §-a iktatta be.
+[^74]: Az 1. melléklet 3.1. pontja a 381/2017. (XII. 11.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^75]: Az 1. melléklet 3. pont 3.1.2. pontja a 612/2020. (XII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^76]: Az 1. melléklet 3. pont 3.1.3. pontja a 612/2020. (XII. 18.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^77]: Az 1. melléklet 3. pont 3.2. alpontja a 312/2019. (XII. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
