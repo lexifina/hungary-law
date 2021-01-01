@@ -16,4 +16,4 @@
 
 2. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^12]
 
-[^12]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 169. § (3) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 169. § (3) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 46. §-a szerint módosított szöveg.

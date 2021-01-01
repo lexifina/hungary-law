@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-161-20-
 | 2019-06-06 | 2017-161-20-22.6 | 133/2019. (VI. 5.) Korm. rendelet |
 | 2020-03-01 | 2017-161-20-22.7 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-07-31 | 2017-161-20-22.8 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2021-01-01 | 2017-161-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
