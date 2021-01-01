@@ -1,1 +1,1 @@
-35. § A családi járulékkedvezmény érvényesítése nem érinti a biztosított társadalombiztosítási ellátásokra való jogosultságát és az ellátások összegét.
+35. § A családi járulékkedvezmény érvényesítése nem érinti a biztosított társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságát és az ellátások összegét.

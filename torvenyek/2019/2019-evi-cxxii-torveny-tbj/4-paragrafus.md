@@ -44,7 +44,7 @@
 
 4.7. több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén az Art.-ban meghatározott munkáltató,
 
-4.8. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat,
+4.8. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítésben vagy egészségkárosodási járadékban részesülő személy esetében a Nemzeti Adó- és Vámhivatal,
 
 4.9. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) szerinti fejlesztési jogviszony keretében fejlesztési foglalkoztatási díjat folyósító fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény.
 
@@ -60,7 +60,7 @@
 
 8.2. a 48. § (1), (4), (7) bekezdésének, az 52. §, 55. §, az 59. § (3) bekezdése, valamint a 60. és 61. § alkalmazásában a központi nyugdíjbiztosítási szerv, a nyugdíjfolyósító szerv és a nyugdíjbiztosítási igazgatási szerv,
 
-8.3. a 48. § (1) és (3) bekezdése, az 52. §, 55. §, az 59. § (3)–(5) bekezdése, a 60. és 61. § alkalmazásában az egészségbiztosítási szerv,
+8.3. a 50. §, az 52. §, 55. §, az 59. § (3)–(5) bekezdése, a 60. és 61. § alkalmazásában az egészségbiztosítási szerv,
 
 8.4. az 55. §, az 59. § (3) és (4) bekezdése, valamint a 60–62. § alkalmazásában a rehabilitációs hatóság.
 

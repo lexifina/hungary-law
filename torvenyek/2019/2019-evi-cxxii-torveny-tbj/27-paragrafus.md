@@ -6,9 +6,9 @@ a) az Szja tv. szerint összevont adóalapba tartozó önálló és nem önáll�
 
 b) az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga, vagy kettős adózást kizáró egyezmény hiányában adóelőleg megállapítási kötelezettség nem keletkezik,
 
-ba) az alapbér, de legalább a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy
+ba) az alapbér, (ha a munkát külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege), de legalább a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy – ha a munkát munkavégzésre irányuló egyéb jogviszony alapján végzik – a szerződésben meghatározott díj havi összege, vagy
 
-bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el a ba) alpont szerinti összeget.
+bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el az alapbér (szerződésben meghatározott díj havi összege) vagy a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset közül az egyiket.
 
 (2) A 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
 
@@ -22,7 +22,7 @@ a járulékfizetési alsó határ meghatározása során az a)–c) pontok szeri
 
 (3) A (2) bekezdés szerinti járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban álló és
 
-a) gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermeknevelést segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
+a) csecsemőgondozási díjban, gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermeknevelést segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
 
 b) a nemzeti köznevelésről szóló törvény hatálya alá tartozó köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban, a szakképzésről szóló törvény szerint szakképző intézményben nappali rendszerű szakmai oktatásban, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató esetében.
 

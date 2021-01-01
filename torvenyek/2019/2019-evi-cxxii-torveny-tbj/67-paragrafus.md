@@ -32,7 +32,7 @@ jelenti be az egészségbiztosítási szervnek.
 
 (9) Ha az egészségbiztosítási szerv az egészségbiztosítási nyilvántartás adatkezelőjeként a nyilvántartás felülvizsgálata során azt állapítja meg, hogy a foglalkoztató, illetve egyéb bejelentésre kötelezett a bejelentési kötelezettségét nem, vagy nem jogszabály szerint teljesítette, 15 napos határidő tűzésével felszólítja a bejelentésre kötelezettet, hogy igazolja a bejelentés szabályszerű teljesítését. Ha a bejelentésre kötelezett határidőben nem igazolja a bejelentés teljesítését, 100 ezer forintig terjedő mulasztási bírsággal sújtható. A kiszabható bírság felső határa a be nem jelentett személyek számának és a bírság legmagasabb értékének szorzata.
 
-(10) A (8) és (9) bekezdésben meghatározott mulasztási bírság kiszabásánál az egészségbiztosítási szerv mérlegeli az eset összes körülményét, a kötelezett jogellenes magatartásának vagy mulasztásának súlyát és gyakoriságát, amely alapján a mulasztás súlyához igazodó bírságot szab ki, vagy a bírság kiszabását mellőzi.
+(10) A (8) és (9) bekezdésben meghatározott esetben az egészségbiztosítási szerv a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott mérlegelési szempontok alapján mulasztás súlyához igazodó bírságot szab ki vagy a bírság kiszabását mellőzi. A (9) bekezdés szerinti mulasztási bírságot a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni. Nem szabható ki a (9) bekezdés szerinti mulasztási bírság, ha az igazolásra előírt határidőtől számított öt év eltelt.
 
 (11) A hajléktalan személyekről az alábbi intézmények vezetői bejelentést tesznek az egészségbiztosítási szervnek:
 

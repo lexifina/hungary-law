@@ -44,7 +44,7 @@ p) táncművészeti életjáradékban részesül,
 
 q) a szociális szövetkezetben tagi munkavégzési jogviszonyban áll, kivéve e jogviszony szünetelésének időtartamát,
 
-r) rendvédelmi egészségkárosodási járadékban vagy honvédelmi egészségkárosodási járadékban részesül,
+r) rendvédelmi egészségkárosodási járadékban, honvédelmi egészségkárosodási járadékban vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadékban részesül,
 
 s) hajléktalan,
 
