@@ -4,14 +4,14 @@
 
 (2) A biztonsági vezető intézkedik a minősített adat védelmére vonatkozó személyi, fizikai, adminisztratív biztonsági rendelkezések megtartásának minden év február 28-ig, jegyzőkönyv felvétele mellett történő ellenőrzéséről és az előző évben a minősített adatot kezelő szervhez érkezett vagy ott készített minősített adatok iratforgalmi statisztikájának minősítési szintenkénti bontásban történő elkészítéséről. Az ellenőrzés kiterjed a minősített adatot kezelő szervnél kezelt minősített adatok felhasználására és tárolására.
 
-(3)[^36] A biztonsági vezető minden év március 5-ig intézkedik a NATO, valamint az EU és az EU intézményei minősített adatai tekintetében lefolytatott éves ellenőrzés eredményének és a minősített adatot kezelő szervhez érkezett vagy ott készített NATO, valamint az EU minősített adatok iratforgalmi statisztikájának minősítési szintenkénti bontásban a NATO Központi Nyilvántartó, valamint az EU Központi Nyilvántartó részére történő megküldéséről.
+(3)[^40] A biztonsági vezető minden év március 5-ig intézkedik a NATO, valamint az EU és az EU intézményei minősített adatai tekintetében lefolytatott éves ellenőrzés eredményének és a minősített adatot kezelő szervhez érkezett vagy ott készített NATO, valamint az EU minősített adatok iratforgalmi statisztikájának minősítési szintenkénti bontásban a NATO Központi Nyilvántartó, valamint az EU Központi Nyilvántartó részére történő megküldéséről.
 
 (4) A biztonsági vezető minden év március 31-ig intézkedik a nemzeti minősített adatok tekintetében lefolytatott éves ellenőrzés eredményének és az előző évben a minősített adatot kezelő szervhez érkezett vagy ott készített nemzeti minősített adatok iratforgalmi statisztikájának minősítési szintenkénti bontásban a Nemzeti Biztonsági Felügyeletre történő megküldéséről.
 
-(5)[^37] Az iratforgalmi statisztika mintáját a Nemzeti Biztonsági Felügyelet a honlapján közzéteszi.
+(5)[^41] Az iratforgalmi statisztika mintáját a Nemzeti Biztonsági Felügyelet a honlapján közzéteszi.
 
-(6)[^38] A honvédségi szervezeteknél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a Magyar Honvédség Parancsnoksága szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
+(6)[^42] A honvédségi szervezeteknél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a Magyar Honvédség Parancsnoksága szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
 
-[^36]: A 6. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés b) és c) pontja, a (2) bekezdés b) pontja szerint módosított szöveg.
-[^37]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja, a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^38]: A 6. § (6) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^40]: A 6. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés b) és c) pontja, a (2) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja, a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^42]: A 6. § (6) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

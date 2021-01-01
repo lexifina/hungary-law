@@ -6,6 +6,6 @@
 
 (3) A minősített adatot kezelő szerveknél a titkos ügykezelőre meghatározott tananyagot és a vizsgakövetelményeket a Nemzeti Biztonsági Felügyelet elnöke előzetesen jóváhagyja. A biztonsági vezető a titkos ügykezelők részére szervezett vizsga tervezett időpontjáról a Nemzeti Biztonsági Felügyelet elnökét előzetesen írásban tájékoztatja, aki elrendelheti a vizsgáztatás menetének és rendjének ellenőrzését.
 
-(4)[^39] A Nemzeti Biztonsági Felügyelet a gazdálkodó szervezetek esetében a titkos ügykezelői és a biztonsági vezetői munkakörben foglalkoztatott személyek részére – a kinevezésük előtt – a minősített adat védelméről szóló törvény és e rendelet ismeretéből, gyakorlati alkalmazásából oktatást és az (1) bekezdésben meghatározott vizsgát szervezhet.
+(4)[^43] A Nemzeti Biztonsági Felügyelet a gazdálkodó szervezetek esetében a titkos ügykezelői és a biztonsági vezetői munkakörben foglalkoztatott személyek részére – a kinevezésük előtt – a minősített adat védelméről szóló törvény és e rendelet ismeretéből, gyakorlati alkalmazásából oktatást és az (1) bekezdésben meghatározott vizsgát szervezhet.
 
-[^39]: A 7. § (4) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^43]: A 7. § (4) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 10. §-a iktatta be.
