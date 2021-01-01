@@ -28,7 +28,9 @@ f) ügyész vagy
 
 g) közjegyző,
 
-h) bírósági végrehajtó.
+h) bírósági végrehajtó,
+
+i) a Nemzeti Adó- és Vámhivatal vezetői, illetve jogszabály alapján nemzetbiztonsági ellenőrzés alá eső munkakört betöltő foglalkoztatottja.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
