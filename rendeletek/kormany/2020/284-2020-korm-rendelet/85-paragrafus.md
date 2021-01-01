@@ -1,5 +1,3 @@
-## 84. §[^55]
+## 84. § Hatályát veszti az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 72/A. §-a.
 
 ## 44. A három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló 337/2017. (XI. 14.) Korm. rendelet módosítása
-
-[^55]: A 84. § a 90. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
