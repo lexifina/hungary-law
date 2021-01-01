@@ -1,1 +1,3 @@
-### 126. §
+126. § Az Art. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az állami adó- és vámhatóság az adózó kérelmére az adókötelezettség teljesítésére vonatkozó, az e törvény szerinti, az általános szabályoktól kedvezőbb eltérést a kedvezőbb szabályok alkalmazására vonatkozó feltételek teljesülése esetén is kizárólag abban az esetben engedélyezhet, ha az adózó a kérelem benyújtása napján nem rendelkezik nettó adótartozással, ide nem értve annak a tartozásnak az összegét, amelyre az adózó a kedvező eltérést kérelmezi. Az e bekezdésben foglaltakat fizetési kedvezményi eljárásban nem kell alkalmazni.”
