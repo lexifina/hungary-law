@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-84-00-00
 | 2019-02-01 | 2018. évi CXV. törvény | 2003-84-00-00.38 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2003-84-00-00.39 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2003-84-00-00.40 |
+| 2021-01-01 | 2020. évi CLII. törvény | 2003-84-00-00.41 |
