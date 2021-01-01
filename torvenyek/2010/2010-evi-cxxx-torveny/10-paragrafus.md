@@ -28,7 +28,7 @@ bb) a kormányrendeletben adott felhatalmazás hatályát vesztette, és a tárg
 
 bc) a tárgykör szabályozására alkotott új felhatalmazó rendelkezés kormányrendelet kiadására ad felhatalmazást.
 
-(4) A Kormány rendeletével hatályon kívül helyezheti az olyan kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
+(4) A Kormány rendeletével hatályon kívül helyezheti az olyan kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére már nincs felhatalmazása a felhatalmazás hatályvesztése, vagy a tárgykör szabályozására alkotott olyan új felhatalmazó rendelkezés miatt, amely a Kormány tagjának rendelete kiadására ad felhatalmazást.
 
 (5) A Kormány tagja rendeletével hatályon kívül helyezheti a feladatkörébe tartozó azon miniszteri rendeletet, miniszterelnöki rendeletet vagy azok rendelkezését, amelyet felhatalmazás nélkül alkottak meg, vagy amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
 

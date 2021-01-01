@@ -6,8 +6,8 @@
 
 (4) A Magyar Közlöny közzétett számai a kormányzati portálról nem távolíthatóak el, azok archiválására az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni.
 
-(5) A Magyar Közlöny felelős szerkesztője a Magyar Közlöny oldalhű másolatát papíron megküldi a köztársasági elnöknek, az Országgyűlés elnökének, az Alkotmánybíróság elnökének, a Kúria elnökének, az Országos Széchényi Könyvtárnak és az Országgyűlési Könyvtárnak.
+(5) A Magyar Közlöny az igazságügyért felelős miniszter rendeletében meghatározottak szerint terjeszthető. Az igazságügyért felelős miniszter rendeletében meghatározottak szerint kérelemre a Magyar Közlönyről vagy annak egy részéről papíralapú, illetve digitális oldalhű másolat készíthető, a másolat készítését az igazságügyért felelős miniszter rendelete igazgatási szolgáltatási díj megfizetéséhez kötheti.
 
-(6) A Magyar Közlöny oldalhű másolata papíron, illetve digitális adathordozón is terjeszthető.
+(6)
 
-(7) A Kormány által rendeletben kijelölt szerv kérelemre, igazgatási szolgáltatási díj ellenében a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolatot készít.
+(7)

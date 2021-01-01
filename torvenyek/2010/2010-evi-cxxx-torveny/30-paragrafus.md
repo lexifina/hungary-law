@@ -12,7 +12,7 @@ b) az Európai Unió jogának való megfelelés érdekében szükséges jogszab�
 
 c) a Nemzeti Jogszabálytár tartalmát és működtetésének részletes szabályait,
 
-d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésére jogosult szervet.
+d)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a jogszabályszerkesztés részletes szabályait.
 
@@ -20,7 +20,7 @@ d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű más
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
-a) a Magyar Közlöny kiadásának,
+a) a Magyar Közlöny kiadásának, terjesztésének, valamint a Magyar Közlönyről vagy annak egy részéről papíralapú, illetve digitális oldalhű másolat készítésének,
 
 b) a kihirdetés során a jogszabályok, a közzététel során a közjogi szervezetszabályozó eszközök és egyes más jogi aktusok megjelölésének,
 
@@ -28,10 +28,10 @@ c) a jogszabály tervezetéhez tartozó indokolások közzétételének
 
 részletes szabályait.
 
-(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
+(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-a) az előfizetők 28/C. § (4) bekezdése szerinti számát,
+a) rendeletben határozza meg az előfizetők 28/C. § (4) bekezdése szerinti számát,
 
-b) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésének igazgatási szolgáltatási díját, és
+b) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozhassa meg a Magyar Közlönyről vagy annak egy részéről papíralapú, illetve digitális oldalhű másolat készítésének igazgatási szolgáltatási díját, és
 
-c) a 28/B. § (1) bekezdés b) és c) pontja szerinti közlemények és hirdetmények közzétételéért fizetendő közzétételi díj mértékét.
+c) rendeletben határozza meg a 28/B. § (1) bekezdés b) és c) pontja szerinti közlemények és hirdetmények közzétételéért fizetendő közzétételi díj mértékét.
