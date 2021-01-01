@@ -28,4 +28,16 @@ b) a helyi védett természeti terület esetében szabták ki, akkor az önkorm�
 
 (5) A természetvédelmi bírság nem mentesít a büntetőjogi, a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
 
+(5a) Kizárt a figyelmeztetés alkalmazása, ha
+
+a) védett természeti terület, Natura 2000 terület vagy védett természeti érték, barlang vagy az Európai Közösségben természetvédelmi szempontból jelentős faj egyedének károsítása, veszélyeztetése, elpusztítása következett be,
+
+b) a tevékenység vagy a mulasztás által okozott körülmény védett élő szervezet, életközösség élőhelyét, illetve élettevékenységét jelentős mértékben zavarja,
+
+c) a természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy a természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően végezték, továbbá ha a természet védelmét szolgáló jogszabályi előírást érintő bejelentést, ellenőrzött bejelentést anélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végezték, vagy
+
+d) a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok előírásainak megszegésére kerül sor.
+
+(5b) A természetvédelmi hatóság, valamint a természetvédelmi őr a természetvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
+
 (6) A természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját a Kormány állapítja meg.

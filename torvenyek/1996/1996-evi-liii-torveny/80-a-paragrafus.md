@@ -7,3 +7,9 @@
 (3) Az inváziós bírság megfizetése nem mentesít az egyéb közigazgatási bírság megfizetése, valamint a tevékenység korlátozására, felfüggesztésére, megtiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
 
 (4) Az inváziós bírság kiszabására a 10. § (4) bekezdése szerinti hatóság jogosult.
+
+(5) Az (1) bekezdés szerinti közigazgatási szabálysértés esetén a figyelmeztetés alkalmazása kizárt.
+
+(6) A 10. § (4) bekezdése szerinti hatóság jogosult az inváziós bírság helyszíni bírságként történő kiszabására.
+
+(7) Az inváziós bírsággal kapcsolatos elévülésre a 80. § (3) bekezdés rendelkezését kell alkalmazni.

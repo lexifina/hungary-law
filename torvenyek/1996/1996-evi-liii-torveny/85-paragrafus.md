@@ -20,7 +20,7 @@
 
 10. az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő- és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a veszélyeztetése, károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét;
 
-11. a természetvédelmi bírság mértékét és megállapításának módját;
+11. a természetvédelmi bírság mértékét és megállapításának módját, valamint a bírság megfizetésének részletszabályait;
 
 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
 

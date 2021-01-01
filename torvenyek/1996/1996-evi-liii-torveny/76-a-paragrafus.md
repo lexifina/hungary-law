@@ -5,3 +5,5 @@ a) a természetvédelmi hatóság az illetékességi területén lakóhellyel ne
 b) a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 (2) Az előzetes szakhatósági állásfoglalás 30 napig használható fel.
+
+(3) A természetvédelmi hatóság az e törvény szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.

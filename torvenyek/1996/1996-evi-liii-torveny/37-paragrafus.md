@@ -2,7 +2,7 @@
 
 (2) Védett természeti területen vagy annak meghatározott részén a közlekedést és a tartózkodást, az (1) bekezdésben foglalt kivétellel – ha a védelem érdekei szükségessé teszik – a természetvédelmi hatóság korlátozhatja, illetve megtilthatja.
 
-(3) Védett természeti terület károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység folytatásától eltiltani.
+(3) Védett természeti terület károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység végzésétől eltiltani.
 
 (4) Védett természeti területen a hatáskörrel rendelkező hatóság – szükség esetén a természetvédelmi hatóság kezdeményezésére – építési, telekalakítási tilalmat, illetőleg egyéb, jogszabályban meghatározott használati korlátozást köteles elrendelni.
 
