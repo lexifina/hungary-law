@@ -1,0 +1,1 @@
+## 4. § A munkáltatói jogkör gyakorlója a munkakör betöltésének további feltételeként – a 2. mellékletben meghatározottakon kívül – további szakképesítést, szakmai vagy közigazgatási gyakorlatot, továbbá idegennyelv-ismeretet is előírhat.

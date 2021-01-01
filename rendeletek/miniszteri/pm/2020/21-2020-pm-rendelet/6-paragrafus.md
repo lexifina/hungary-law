@@ -1,0 +1,1 @@
+## 5. § A 2. melléklet szerinti képesítési előírások alól mentesítést kivételesen indokolt esetben, szolgálati érdekből a NAV vezetője adhat azzal, hogy csak a szakirányú jelleg alól adható mentesítés, a felsőfokú iskolai végzettség alól nem.
