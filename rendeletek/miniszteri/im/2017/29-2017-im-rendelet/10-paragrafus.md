@@ -1,3 +1,5 @@
-## 9. § Ha az ügyfél az Ást. 6. § (3) bekezdése alapján jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő áldozat, az 1. melléklet szerinti nyomtatványnak az ügyfél és a vele közös háztartásban élő személy jövedelmére vonatkozó pontjait nem kell kitölteni.
+## 9. §[^6]
 
 ## 5. Záró rendelkezések
+
+[^6]: A 9. §-t a 18/2020. (XII. 29.) IM rendelet 12. §-a hatályon kívül helyezte.

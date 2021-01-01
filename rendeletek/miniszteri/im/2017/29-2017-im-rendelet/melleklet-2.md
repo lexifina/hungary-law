@@ -1,6 +1,6 @@
-2. melléklet a 29/2017. (XII. 27.) IM rendelethez
+2. melléklet a 29/2017. (XII. 27.) IM rendelethez[^8]
 
-## Az áldozati státusz igazolása iránti kérelem benyújtására szolgáló nyomtatvány adattartalma
+## Az állami kárenyhítés iránti kérelem benyújtására szolgáló nyomtatvány adattartalma
 
 1. A kérelmező személyi adatai
 
@@ -22,9 +22,11 @@
 
 1.9. elérhetőség
 
-2. A kérelem benyújtásának alapjául szolgáló bűncselekményre, tulajdon elleni szabálysértésre vonatkozó adatok
+1.10. nem magyar állampolgár esetén Magyarország területén tartózkodásának jogcíme
 
-2.1. a bűncselekmény, tulajdon elleni szabálysértés
+2. A kérelem benyújtásának alapjául szolgáló bűncselekményre vonatkozó adatok
+
+2.1. a bűncselekmény
 
 2.1.1. megnevezése és lényeges körülményei
 
@@ -32,26 +34,70 @@
 
 2.1.3. elkövetésének ideje
 
-3. A kérelem benyújtásának indoka
+2.2. a kérelmezőt ért
 
-3.1. a jogi segítségnyújtásról szóló törvényben meghatározott támogatás igénybevétele
+2.2.1. testi sérülés
 
-3.2. eltulajdonított, megsemmisült személyes iratok pótlása
+2.2.2. lelki sérülés, érzelmi megrázkódtatás
 
-3.2.1. az eltulajdonított, megsemmisült személyes iratok tételes felsorolása
+2.2.3. vagyoni kár
 
-3.3. más hatóság, szerv vagy szervezet támogatásának, szolgáltatásának igénybevétele
+2.2.4. egyéb sérelem
 
-3.4. egyéb
+3. Az igényelt támogatásra vonatkozó adatok
 
-4. Közlemény, benne nyilatkozat
+3.1. a kérelmező jogosultságára vonatkozó adatok
 
-4.1. a korábbi, pénzben nyújtott áldozatsegítő támogatásokkal, illetve jogi segítségnyújtással kapcsolatos díjvisszafizetési kötelezettségről
+3.2. az igényelt kárenyhítés formája és mértéke
 
-4.2. a kérelemben feltüntetett cselekménnyel összefüggő egyéb támogatásról
+3.2.1. a vagyoni kár
 
-4.3. valótlan adatszolgáltatás vagy ellenőrzés akadályoztatása miatti támogatást kizáró okról
+3.2.1.1. összege
 
-4.4. egyéb
+3.2.1.2. igazolására szolgáló iratok megnevezése
 
-5. Tájékoztató
+3.2.1.3. kár esetleges megtérülésének forrása
+
+3.2.1.4. a megtérült kár összege
+
+3.2.1.5. a megtérítés formája
+
+3.2.2. járadék igénylése esetén a keresőképtelenség fennállása és várható időtartama
+
+3.2.3. járadék igénylése esetén a járadék havi összege és folyósításának időtartama
+
+3.2.4. a kárenyhítés iránti döntéshozatalhoz szükséges egyéb adatok
+
+3.2.4.1. a kérelmező ellen a kárenyhítésre okot adó bűncselekmény miatt vagy azzal összefüggésben indult büntetőeljárás megjelölése
+
+3.2.4.2. a kérelmező által elkövetett, a kárenyhítésre okot adó, jogerős bírósági határozatban megállapított bűncselekmény megnevezése
+
+3.3. a pénzben nyújtott szolgáltatás kifizetésének módjára vonatkozó adatok
+
+3.3.1. postai utalvánnyal történő kifizetés és az ehhez szükséges
+
+3.3.1.1. cím
+
+3.3.2. saját névre szóló fizetési számlára történő utalás és az ehhez szükséges
+
+3.3.2.1. pénzforgalmi szolgáltató megnevezése
+
+3.3.2.2. számlaszám
+
+4. Mellékletek felsorolása
+
+5. Közlemény, benne nyilatkozat
+
+5.1. a korábbi, pénzben nyújtott áldozatsegítő támogatásokkal kapcsolatos visszafizetési kötelezettségről
+
+5.2. a kérelemben feltüntetett cselekménnyel összefüggő egyéb támogatásról
+
+5.3. valótlan adatszolgáltatás vagy ellenőrzés akadályoztatása miatti támogatást kizáró okról
+
+5.4. arról, hogy a kérelmet az áldozatsegítő szolgálat munkatársa töltötte-e ki az áldozat jelenlétében
+
+5.5. egyéb
+
+6. Tájékoztató
+
+[^8]: A 2. melléklet a 18/2020. (XII. 29.) IM rendelet 11. § (2) bekezdésével megállapított szöveg.

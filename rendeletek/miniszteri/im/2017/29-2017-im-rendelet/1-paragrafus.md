@@ -6,4 +6,6 @@
 
 (3) A miniszter a (2) bekezdésben foglaltakon túl az érdekérvényesítés elősegítése érdekében az e célra fenntartott, díjmentesen hívható Áldozatsegítő Vonalon folyamatosan tájékoztatást nyújt.
 
-(4) Az azonnali pénzügyi segély és az állami kárenyhítés iránti kérelem adattartalmát az 1. melléklet, az áldozati státusz igazolása iránti kérelem adattartalmát a 2. melléklet tartalmazza.
+(4)[^1] Az azonnali pénzügyi segély iránti kérelem adattartalmát az 1. melléklet, az állami kárenyhítés iránti kérelem adattartalmát a 2. melléklet, az áldozati státusz igazolása iránti kérelem adattartalmát a 3. melléklet tartalmazza.
+
+[^1]: Az 1. § (4) bekezdése a 18/2020. (XII. 29.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
