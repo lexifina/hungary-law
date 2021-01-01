@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2018-10-14 | 2011-37-20-22.24 | 186/2018. (X. 9.) Korm. rendelet |
 | 2019-03-14 | 2011-37-20-22.25 | 49/2019. (III. 13.) Korm. rendelet |
 | 2020-12-27 | 2011-37-20-22.26 | 550/2013. (XII. 30.) Korm. rendelet |
+| 2021-01-01 | 2011-37-20-22.27 | 158/2014. (VI. 30.) Korm. rendelet |

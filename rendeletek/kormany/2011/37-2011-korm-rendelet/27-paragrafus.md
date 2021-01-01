@@ -43,4 +43,4 @@ d) a támogatandó cél másképp nem érhető el vagy az időmúlás következt
 ## 12.
 
 [^175]: Az V/A. fejezetet (27. §) a 397/2014. (XII. 31.) Korm. rendelet 69. §-a iktatta be.
-[^176]: A VI. Fejezetet (28–32. §) a 42. § b) pontja hatályon kívül helyezte.
+[^176]: A VI. Fejezetet (27–32. §) a 42. § b) pontja hatályon kívül helyezte.

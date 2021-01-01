@@ -2,7 +2,7 @@
 
 ## REGIONÁLIS TÁMOGATÁSI TÉRKÉP
 
-25. § (1)[^167] A 2016. október 11-i SA.46346 (2016/N). számú bizottsági határozat szerinti regionális támogatási térkép alapján nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazandók:
+25. § (1)[^167] Az SA.58164 (2020/N) számú ügyben hozott C(2020) 6769 számú, 2020. október 7-i bizottsági határozat szerinti regionális támogatási térkép alapján nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazandók:
 
 a) az Észak-Magyarország, az Észak-Alföld, a Dél-Alföld és a Dél-Dunántúl régiókban 50%,
 
@@ -26,7 +26,7 @@ b) az ötvenmillió euró és a százmillió euró közötti elszámolható köl
 
 c) a százmillió euró feletti elszámolható költségrészre az (1) bekezdésben meghatározott mérték harmincnégy százaléka.
 
-[^167]: A 25. § (1) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 409/2016. (XII. 13.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^167]: A 25. § (1) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 409/2016. (XII. 13.) Korm. rendelet 4. § (2) bekezdés a) pontja, a 662/2020. (XII. 24.) Korm. rendelet 2. § i) pontja szerint módosított szöveg.
 [^168]: A 25. § (1) bekezdés d) pont da) alpontja a 409/2016. (XII. 13.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^169]: A 25. § (1) bekezdés d) pont db) alpontja a 409/2016. (XII. 13.) Korm. rendelet 4. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^170]: A 25. § (2) bekezdése a 38/2016. (III. 3.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.
