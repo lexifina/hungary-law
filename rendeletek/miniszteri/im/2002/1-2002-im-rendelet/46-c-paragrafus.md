@@ -1,14 +1,14 @@
 ## Az iratok őrzése
 
-46/C. §[^131] (1)[^132] A befejezett végrehajtási ügyek iratait a selejtezés vagy a levéltárba történő átadás időpontjáig kell őrizni (őrzési idő), a (7) bekezdésében meghatározott kivétellel.
+46/C. §[^132] (1)[^133] A befejezett végrehajtási ügyek iratait a selejtezés vagy a levéltárba történő átadás időpontjáig kell őrizni (őrzési idő), a (7) bekezdésében meghatározott kivétellel.
 
 (2) Az őrzési idő az ügyben tett utolsó érdemi intézkedés időpontjától számított, az irattári tervben meghatározott időtartam.
 
 (3) A végrehajtói letéti számlával kapcsolatos bizonylatokat (befizetés, átutalás, kiutalás stb.) és a végrehajtó által felvett pénzösszegről vagy más átvett értékről kiállított okiratokat a számvitelről szóló 2000. évi C. törvény 169. §-ában meghatározott módon, az ügyben tett utolsó érdemi intézkedés időpontjától számított 8 évig kell őrizni.
 
-(4)[^133] Az adóbehajtási ügy és közigazgatási végrehajtási ügy iratainak őrzésére a bírósági végrehajtási ügy iratainak őrzésére vonatkozó szabályokat megfelelően alkalmazni kell.
+(4)[^134] Az adóbehajtási ügy és közigazgatási végrehajtási ügy iratainak őrzésére a bírósági végrehajtási ügy iratainak őrzésére vonatkozó szabályokat megfelelően alkalmazni kell.
 
-(5)[^134] A végrehajtó a következő iratokat a szolgálata megszűnéséig őrzi, és azokat a szolgálatba lépő új végrehajtónak átadja:
+(5)[^135] A végrehajtó a következő iratokat a szolgálata megszűnéséig őrzi, és azokat a szolgálatba lépő új végrehajtónak átadja:
 
 a) a bíróság által felfüggesztett végrehajtási ügy iratai;
 
@@ -18,13 +18,13 @@ c) azoknak a végrehajtási ügyeknek az iratai, amelyekben az eljárás a Vht. 
 
 d) az ügykönyv.
 
-(6)[^135] A végrehajtói álláshely megszűnése esetében a végrehajtási ügyek iratait a Kar Hivatali szerve részére át kell adni.
+(6)[^136] A végrehajtói álláshely megszűnése esetében a végrehajtási ügyek iratait a Kar Hivatali szerve részére át kell adni.
 
-(7)[^136] A végrehajtó a Vht. 47/A. §-a alapján beszerzett adatokat tartalmazó iratok kezelése során a Vht. 47. § (6) bekezdése szerint jár el.
+(7)[^137] A végrehajtó a Vht. 47/A. §-a alapján beszerzett adatokat tartalmazó iratok kezelése során a Vht. 47. § (6) bekezdése szerint jár el.
 
-[^131]: A 46/C. §-t és az előtte lévő alcímet a 4/2004. (II. 27.) IM rendelet 1. § (7) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^132]: A 46/C. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 1. § (9) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^133]: A 46/C. § (4) bekezdése a 27/2010. (V. 11.) IRM rendelet 7. § g) pontja szerint módosított szöveg.
-[^134]: A 46/C. § (5) bekezdés nyitó szövegrésze a 6/2010. (III. 12.) IRM rendelet 8. § d) pontja, az 57/2012. (XII. 28.) KIM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^135]: A 46/C. § (6) bekezdése az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^136]: A 46/C. § (7) bekezdését a 6/2008. (III. 1.) IRM rendelet 1. § (10) bekezdése iktatta be. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^132]: A 46/C. §-t és az előtte lévő alcímet a 4/2004. (II. 27.) IM rendelet 1. § (7) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^133]: A 46/C. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 1. § (9) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^134]: A 46/C. § (4) bekezdése a 27/2010. (V. 11.) IRM rendelet 7. § g) pontja szerint módosított szöveg.
+[^135]: A 46/C. § (5) bekezdés nyitó szövegrésze a 6/2010. (III. 12.) IRM rendelet 8. § d) pontja, az 57/2012. (XII. 28.) KIM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^136]: A 46/C. § (6) bekezdése az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^137]: A 46/C. § (7) bekezdését a 6/2008. (III. 1.) IRM rendelet 1. § (10) bekezdése iktatta be. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

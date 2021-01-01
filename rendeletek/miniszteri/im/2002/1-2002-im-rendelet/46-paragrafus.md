@@ -8,9 +8,9 @@
 
 (3) A számítógépen tárolt adatokat naponta 2 példányban számítástechnikai adathordozóra kell menteni, és a 2 példányt egymástól elkülönítve, az adatok eredeti tárolási helyétől eltérő helyeken kell tárolni.
 
-(4)[^125] A végrehajtó köteles biztosítani az elektronikus árverési rendszer és az ügyelosztási program használatának technikai feltételeit: rendelkeznie kell az informatikai alkalmazás felhasználói használatához szükséges számítógéppel, internet-hozzáféréssel és elektronikus levelek fogadására szolgáló elektronikus levélcímmel. Az elektronikus levélcímét a végrehajtó a hivatalba lépését megelőzően bejelenti a Kar Hivatali szervének.
+(4)[^126] A végrehajtó köteles biztosítani az elektronikus árverési rendszer és az ügyelosztási program használatának technikai feltételeit: rendelkeznie kell az informatikai alkalmazás felhasználói használatához szükséges számítógéppel, internet-hozzáféréssel és elektronikus levelek fogadására szolgáló elektronikus levélcímmel. Az elektronikus levélcímét a végrehajtó a hivatalba lépését megelőzően bejelenti a Kar Hivatali szervének.
 
-(5)[^126] Az önálló bírósági végrehajtó az e rendeletben meghatározott ügyviteli, irat- és pénzkezelési feladatokat a felügyelő szerv által – a felügyelő szerv költségén – e célból létrehozott és a végrehajtó részére biztosított informatikai alkalmazás igénybevételével végzi.
+(5)[^127] Az önálló bírósági végrehajtó az e rendeletben meghatározott ügyviteli, irat- és pénzkezelési feladatokat a felügyelő szerv által – a felügyelő szerv költségén – e célból létrehozott és a végrehajtó részére biztosított informatikai alkalmazás igénybevételével végzi.
 
-[^125]: A 46. § (4) bekezdését a 28/2008. (XII. 10.) IRM rendelet 1. § (7) bekezdése iktatta be, szövege a 27/2010. (V. 11.) IRM rendelet 7. § f) pontja, az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés d) pontja szerint módosított szöveg.
-[^126]: A 46. § (5) bekezdését a 12/2013. (VII. 5.) KIM rendelet 6. § (6) bekezdése iktatta be.
+[^126]: A 46. § (4) bekezdését a 28/2008. (XII. 10.) IRM rendelet 1. § (7) bekezdése iktatta be, szövege a 27/2010. (V. 11.) IRM rendelet 7. § f) pontja, az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^127]: A 46. § (5) bekezdését a 12/2013. (VII. 5.) KIM rendelet 6. § (6) bekezdése iktatta be.

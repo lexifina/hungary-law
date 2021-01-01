@@ -1,8 +1,8 @@
-52/A. §[^159] (1)[^160] Az önálló bírósági végrehajtó a bevételét képező, megfizetett vagy behajtott végrehajtási költségről és a hatáskörébe tartozó eljárás lefolytatásáért őt jogszabály alapján megillető egyéb költségről (a továbbiakban e §-ban együtt: végrehajtási költség) a végrehajtási költség megfizetésére kötelezett nevére ún. végrehajtási bevételi bizonylatot (e §-ban a továbbiakban: bizonylat) állít ki, amelyen a következő adatok szerepelnek:
+52/A. §[^160] (1)[^161] Az önálló bírósági végrehajtó a bevételét képező, megfizetett vagy behajtott végrehajtási költségről és a hatáskörébe tartozó eljárás lefolytatásáért őt jogszabály alapján megillető egyéb költségről (a továbbiakban e §-ban együtt: végrehajtási költség) a végrehajtási költség megfizetésére kötelezett nevére ún. végrehajtási bevételi bizonylatot (e §-ban a továbbiakban: bizonylat) állít ki, amelyen a következő adatok szerepelnek:
 
 a) a bizonylat megnevezése és sorszáma;
 
-b)[^161] a bizonylatot kiállító végrehajtó neve, kinevezési vagy áthelyezési okiratának száma (végrehajtó-helyettes esetében a kari nyilvántartásba vételi ügy száma, állandó helyettes esetében a kirendelési okirat száma), a végrehajtói iroda neve, cégjegyzékszáma és adószáma;
+b)[^162] a bizonylatot kiállító végrehajtó neve, kinevezési vagy áthelyezési okiratának száma (végrehajtó-helyettes esetében a kari nyilvántartásba vételi ügy száma, állandó helyettes esetében a kirendelési okirat száma), a végrehajtói iroda neve, cégjegyzékszáma és adószáma;
 
 c) a megfizetett (kapott) végrehajtási költség összege;
 
@@ -18,9 +18,9 @@ g) a bizonylat kiállításának időpontja és a kiállító aláírása, bély
 
 a) a végrehajtási költségre szolgáló pénzösszeg végrehajtó által történő kézhezvételekor,
 
-b)[^162] a végrehajtási költség összegének a végrehajtó elszámolási számlájára történő átutalásáról vagy befizetéséről szóló fizetésiszámla-kivonat kézhezvételét követő 8 napon belül,
+b)[^163] a végrehajtási költség összegének a végrehajtó elszámolási számlájára történő átutalásáról vagy befizetéséről szóló fizetésiszámla-kivonat kézhezvételét követő 8 napon belül,
 
-c)[^163] a díjjegyzék jogerőssé válásáról történő értesülést követő 8 napon belül
+c)[^164] a díjjegyzék jogerőssé válásáról történő értesülést követő 8 napon belül
 
 ## kell kiállítani.
 
@@ -32,8 +32,8 @@ c)[^163] a díjjegyzék jogerőssé válásáról történő értesülést köve
 
 (6) A bizonylatot a felügyelő szerv által rendszeresített nyomtatvány kitöltésével kell elkészíteni, a bizonylat számítástechnikai eszköz útján történő kiállítására szolgáló számítógépes programot pedig a végrehajtó a felügyelő szerv jóváhagyásával használhatja.
 
-[^159]: Az 52/A. §-t a 23/2005. (XI. 10.) IM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^160]: Az 52/A. § (1) bekezdés nyitó szövegrésze az 57/2012. (XII. 28.) KIM rendelet 11. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^161]: Az 52/A. § (1) bekezdés b) pontja a 18/2019. (VI. 28.) IM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^162]: Az 52/A. § (2) bekezdés b) pontja a 43/2009. (IX. 22.) IRM rendelet 36. § (6) bekezdése szerint módosított szöve.g E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. november 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^163]: Az 52/A. § (2) bekezdés c) pontja a 18/2019. (VI. 28.) IM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^160]: Az 52/A. §-t a 23/2005. (XI. 10.) IM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^161]: Az 52/A. § (1) bekezdés nyitó szövegrésze az 57/2012. (XII. 28.) KIM rendelet 11. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^162]: Az 52/A. § (1) bekezdés b) pontja a 18/2019. (VI. 28.) IM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^163]: Az 52/A. § (2) bekezdés b) pontja a 43/2009. (IX. 22.) IRM rendelet 36. § (6) bekezdése szerint módosított szöve.g E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. november 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^164]: Az 52/A. § (2) bekezdés c) pontja a 18/2019. (VI. 28.) IM rendelet 23. § (2) bekezdésével megállapított szöveg.

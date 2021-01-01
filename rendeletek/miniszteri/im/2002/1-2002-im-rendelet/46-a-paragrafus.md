@@ -1,11 +1,11 @@
 ## Az irattárba helyezéssel kapcsolatos intézkedések
 
-46/A. §[^127] (1)[^128] A befejezett végrehajtási ügy iratainak irattárba helyezésekor a végrehajtó a nyilvántartásban feltünteti az ügyben tett utolsó érdemi intézkedés időpontját, az őrzési időt és az irattári tételszámot, továbbá annak tényét, ha a végrehajtási ügyben a Vht. 47/A. §-a alapján került sor a JÜB rendszerben az elektronikus úton történő adatigénylésre. A végrehajtó a megjegyzés rovatban megjelöli azt is, hogy az iratot az őrzési idő leteltét követően selejtezni kell vagy a levéltárnak át kell adni.
+46/A. §[^128] (1)[^129] A befejezett végrehajtási ügy iratainak irattárba helyezésekor a végrehajtó a nyilvántartásban feltünteti az ügyben tett utolsó érdemi intézkedés időpontját, az őrzési időt és az irattári tételszámot, továbbá annak tényét, ha a végrehajtási ügyben a Vht. 47/A. §-a alapján került sor a JÜB rendszerben az elektronikus úton történő adatigénylésre. A végrehajtó a megjegyzés rovatban megjelöli azt is, hogy az iratot az őrzési idő leteltét követően selejtezni kell vagy a levéltárnak át kell adni.
 
-(2)[^129] A végrehajtó az ügy iratborítékán (iratain) az irattári tervnek megfelelő tételszámot és az ügyben tett utolsó érdemi intézkedés időpontját (év, hó, nap) feltünteti. Ha az iratot az irattári terv szerint a levéltárnak kell átadni, a végrehajtó az iraton ennek tényét is feltünteti.
+(2)[^130] A végrehajtó az ügy iratborítékán (iratain) az irattári tervnek megfelelő tételszámot és az ügyben tett utolsó érdemi intézkedés időpontját (év, hó, nap) feltünteti. Ha az iratot az irattári terv szerint a levéltárnak kell átadni, a végrehajtó az iraton ennek tényét is feltünteti.
 
 (3) Az irattárban az iratokat rendezetten, a végrehajtási ügyszám szerint csoportosítva kell elhelyezni. Az elhelyezés során ügyelni kell arra, hogy a különböző végrehajtási ügyek iratai egymástól elkülönítettek legyenek.
 
-[^127]: A 46/A. §-t és az előtte lévő alcímet a 4/2004. (II. 27.) IM rendelet 1. § (7) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^128]: A 46/A. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 1. § (8) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^129]: [Az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés h) pontjával elrendelt módosítás, amely szerint a „lett” szövegrész helyébe a „tett” szöveg lép, nem vezethető át.]
+[^128]: A 46/A. §-t és az előtte lévő alcímet a 4/2004. (II. 27.) IM rendelet 1. § (7) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^129]: A 46/A. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 1. § (8) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^130]: [Az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés h) pontjával elrendelt módosítás, amely szerint a „lett” szövegrész helyébe a „tett” szöveg lép, nem vezethető át.]
