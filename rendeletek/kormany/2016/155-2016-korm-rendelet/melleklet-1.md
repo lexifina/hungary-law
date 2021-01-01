@@ -1,6 +1,6 @@
-## 9. §[^55]
+## 9. §[^62]
 
-1. melléklet a 155/2016. (VI. 13.) Korm. rendelethez[^56]
+1. melléklet a 155/2016. (VI. 13.) Korm. rendelethez[^63]
 
 ## Az egyszerű bejelentési dokumentáció munkarészei
 
@@ -122,7 +122,7 @@ a) az építmény tartószerkezetének rendszere, az alkalmazott fesztávok, a f
 
 b) meglévő építmény esetén a tehernövekedéssel érintett függőleges és vízszintes teherhordó szerkezetéről, valamint a meglévő teherhordó szerkezetek megfelelőségéről, illetve megerősítésére vonatkozó tartószerkezeti megoldások.
 
-6. Tartószerkezeti terv, zártsorúan vagy ikresen csatlakozó épületek, emeletráépítés, monolit vasbeton szerkezet vagy 5,4 métert vagy azt meghaladó támaszközű tartószerkezet esetén, számítással igazolva
+6.[^64] Tartószerkezeti terv, zártsorúan vagy ikresen csatlakozó épületek, emeletráépítés, monolit vasbeton szerkezet (kivéve az 5,4 m-es fal- vagy oszlopközű vagy annál kisebb fesztávú előregyártott födémszerkezethez csatlakozó vasbeton koszorút), vagy 5,4 métert meghaladó támaszközű tartószerkezet esetén, számítással igazolva
 
 a) alapozás, zártsorú és ikres beépítés esetén a szomszédos, meglévő épületek feltárás útján meghatározott alapsíkjának megadása,
 
@@ -132,5 +132,6 @@ c) monolit és előre gyártott födémek és azok elemei,
 
 d) szintek áthidalására szolgáló szerkezetek.
 
-[^55]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^56]: Az 1. melléklet a 244/2019. (X. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^62]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: Az 1. melléklet a 244/2019. (X. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^64]: Az 1. melléklet 6. pont nyitó szövegrésze a 700/2020. (XII. 29.) Korm. rendelet 26. § f) pontja szerint módosított szöveg.

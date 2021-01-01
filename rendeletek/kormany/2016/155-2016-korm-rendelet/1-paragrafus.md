@@ -32,7 +32,17 @@ a) az 1. mellékletben meghatározott tartalmú egyszerű bejelentési dokument�
 
 b) ha az építési tevékenységet a természetes személy saját lakhatásának biztosítása céljából kívánja végezni, az építtető teljes bizonyító erejű magánokiratban tett nyilatkozatát arra vonatkozóan, hogy természetes személy és az építési tevékenységet saját lakhatásának biztosítása céljából végzi.
 
-(2)[^8] A bejelentésről és az építtető személyében bekövetkezett jogutódlás bejelentéséről az ÉTDR PDF formátumú, letölthető visszaigazolást állít elő.
+c)[^8] az ÉTDR általános felületén történő tájékoztatás érdekében a személyes adatot nem tartalmazó, az 1. melléklet 1. pontjában meghatározott tartalmú helyszínrajzot és 4. pontjában meghatározott tartalmú homlokzati tervet vagy látványtervet.
+
+(2)[^9] Az építtető személyében bekövetkező jogutódlás tényét az ÉTDR felületen történő bejelentéssel a jogelőd vagy jogutód építtető bejelenti
+
+a) a jogelőd és a jogutód építtetőnek legalább teljes bizonyító erejű magánokiratba foglalt közös nyilatkozatával,
+
+b) jogerős teljes hatályú hagyatékátadó végzéssel vagy
+
+c) jogerős bírósági határozattal.
+
+(3)[^10] Az építtető személyében bekövetkezett jogutódlás bejelentéséről az ÉTDR PDF formátumú, letölthető visszaigazolást állít elő.
 
 [^1]: Az 1. § (1) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 54. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontja a 97/2017. (IV. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -41,4 +51,6 @@ b) ha az építési tevékenységet a természetes személy saját lakhatásána
 [^5]: Az 1. § (1a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 54. §-a iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 18. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 152. §-a szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^6]: Az 1. § (1b) bekezdését a 244/2019. (X. 22.) Korm. rendelet 18. §-a iktatta be.
 [^7]: Az 1. § (1c) bekezdését a 244/2019. (X. 22.) Korm. rendelet 18. §-a iktatta be.
-[^8]: Az 1. § (2) bekezdése a 244/2019. (X. 22.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (1c) bekezdés c) pontját a 700/2020. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (2) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (3) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.
