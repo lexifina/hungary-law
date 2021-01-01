@@ -24,6 +24,6 @@ e) halálukat okozhatják, vagy
 
 f) sugárterhelését okozzák, azonban az alkalmatlan dozírozás miatt a kezelés nem éri el a célját.
 
-(7)[^11] Az országos tisztifőorvos az NNK részére hozzáférést biztosít az elektronikus bejelentő rendszer adatbázisához a bejelentett események elemezése céljából. Az NNK a bejelentett események elemzéséről készített jelentését a tárgyévet követő év április 30-ig megküldi az országos tisztifőorvosnak, aki azt az általa működtetett honlapon közzéteszi.
+(7)[^12] Az országos tisztifőorvos az NNK részére hozzáférést biztosít az elektronikus bejelentő rendszer adatbázisához a bejelentett események elemezése céljából. Az NNK a bejelentett események elemzéséről készített jelentését a tárgyévet követő év április 30-ig megküldi az országos tisztifőorvosnak, aki azt az általa működtetett honlapon közzéteszi.
 
-[^11]: A 22. § (7) bekezdése a 38/2018. (X. 31.) EMMI rendelet 28. § b) pontja szerint módosított szöveg.
+[^12]: A 22. § (7) bekezdése a 38/2018. (X. 31.) EMMI rendelet 28. § b) pontja szerint módosított szöveg.

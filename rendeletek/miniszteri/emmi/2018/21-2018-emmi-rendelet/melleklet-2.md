@@ -28,7 +28,7 @@
 
 ## 1. családi és utónév (utónevek)
 
-## 2. orvosi pecsétszám, szakdolgozók esetében a működési nyilvántartási szám, orvosi fizikus szakértők esetében a szakértői engedély száma,
+## 2.[^15] orvosi pecsétszám, szakdolgozók esetében a működési nyilvántartási szám, orvosi fizikus szakértő esetén az Egység- és Tevékenység Nyilvántartó Rendszerből nyert azonosító szám,
 
 ## 3. levelezési cím,
 
@@ -69,3 +69,5 @@
 3.9. Tömegközlekedés és személyszállító szolgáltatás igénybevétele.
 
 3.10. Közös használatú tárgyak kezelése, higiénia.
+
+[^15]: Az 1. melléklet 2. cím 2. pontja a 49/2020. (XII. 23.) EMMI rendelet 2. § második (3) bekezdésével megállapított szöveg.

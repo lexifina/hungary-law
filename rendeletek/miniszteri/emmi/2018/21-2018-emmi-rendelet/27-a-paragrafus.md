@@ -1,0 +1,1 @@
+## 27. § A 20. § (2)–(4) bekezdése szerinti, a gyógyászati célú, ionizáló sugárzást létrehozó berendezésekre vonatkozó előírásokat az e rendelet hatálybalépése előtt üzembe helyezett berendezésekre nem kell alkalmazni.
