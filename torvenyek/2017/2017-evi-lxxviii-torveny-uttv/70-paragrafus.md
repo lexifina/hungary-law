@@ -2,7 +2,7 @@
 
 ## A JOGI ELŐADÓ
 
-70. § (1) A jogi előadó az ügyvédi tevékenységet a jogi szakvizsga letételéhez szükséges joggyakorlat megszerzése és a kamarai jogtanácsosi feladatok ellátásához szükséges szakmai ismeretek elsajátítása érdekében, munkaviszonya, kormányzati szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) alapján, kamarai jogtanácsos irányításával és ellenőrzésével,
+70. § (1) A jogi előadó az ügyvédi tevékenységet a jogi szakvizsga letételéhez szükséges joggyakorlat megszerzése és a kamarai jogtanácsosi feladatok ellátásához szükséges szakmai ismeretek elsajátítása érdekében, munkaviszonya, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) alapján, kamarai jogtanácsos irányításával és ellenőrzésével,
 
 a) ügyvédi kamarai nyilvántartásba bejelentett munkáltatója, egyházi szolgálati viszony esetében az egyházi jogi személy (e fejezet alkalmazásában a továbbiakban együtt: munkáltató),
 

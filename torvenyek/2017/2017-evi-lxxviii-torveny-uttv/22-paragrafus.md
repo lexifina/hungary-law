@@ -16,7 +16,7 @@ ca) akit a bíróság szándékos bűncselekmény elkövetése miatt ötévi vag
 
 cb) akit a bíróság szándékos bűncselekmény elkövetése miatt öt évet el nem érő végrehajtandó szabadságvesztés büntetésre ítélt, a mentesítés beálltától számított öt évig,
 
-cc) akit a bíróság szándékos bűncselekmény elkövetése miatt próbaidőre felfüggesztett szabadságvesztésre ítélt, a próbaidő leteltétől számított három évig,
+cc) akit a bíróság szándékos bűncselekmény elkövetése miatt próbaidőre felfüggesztett szabadságvesztésre ítélt, a mentesítés beálltától számított három évig,
 
 cd) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 

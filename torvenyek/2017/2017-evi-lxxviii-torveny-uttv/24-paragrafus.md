@@ -24,9 +24,11 @@ k) a végelszámolói feladat ellátása,
 
 l) a felügyelőbizottsági, számvizsgáló bizottsági feladat ellátása,
 
-m) a gazdasági társaság vezető tisztségviselőkből álló ügyvezető testületének tagja vagy elnöke feladatának ellátása, valamint
+m) a gazdasági társaság vezető tisztségviselőkből álló ügyvezető testületének tagja vagy elnöke feladatának ellátása,
 
-n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása.
+n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása, valamint
+
+o) a békéltető testületi tevékenység.
 
 (2) A kamarai jogtanácsosi és a jogi előadói tevékenység gyakorlásával a 23. § (1) bekezdés c) pontja alá eső tevékenységek közül nem összeférhetetlen továbbá a jogi személy vezető tisztségviselője feladatának ellátása.
 

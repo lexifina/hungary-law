@@ -2,7 +2,7 @@
 
 23. § (1) Az ügyvédi tevékenység gyakorlásával összeférhetetlen:
 
-a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, a közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, a rendvédelmi, hivatásos vagy szerződéses katonai szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
+a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, az adó- és vámhatósági szolgálati, a közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, a rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
 
 b) gazdasági társaságban a korlátlan felelősséggel járó tagsági jogviszony,
 
