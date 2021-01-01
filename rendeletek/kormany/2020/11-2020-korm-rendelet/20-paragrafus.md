@@ -1,5 +1,5 @@
-## 10.[^20]
+## 10.[^21]
 
 20. §
 
-[^20]: A 10. alcímet (20. §) a 318/2020. (VII. 1.) Korm. rendelet 17. § 10. pontja hatályon kívül helyezte.
+[^21]: A 10. alcímet (20. §) a 318/2020. (VII. 1.) Korm. rendelet 17. § 10. pontja hatályon kívül helyezte.

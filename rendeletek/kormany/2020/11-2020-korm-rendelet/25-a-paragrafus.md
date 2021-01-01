@@ -1,4 +1,4 @@
-## 13/A. [^29] Az Fktv. 15. §-ához
+## 13/A. [^30] Az Fktv. 15. §-ához
 
 25/A. § (1) A felnőttképző a képzésben részt vevő személyt az oktatási azonosító száma alapján tartja nyilván, és a felnőttképzés adatszolgáltatási rendszerében az oktatási azonosító számhoz kapcsolódóan szolgáltat adatot.
 
@@ -6,4 +6,4 @@
 
 (3) Ha a felnőttképző olyan képzésben részt vevő személlyel létesít felnőttképzési jogviszonyt, aki rendelkezik oktatási azonosító számmal, a képzésben részt vevő személy oktatási azonosító számát az Oktatási Hivatal a képzésben részt vevő természetes személyazonosító adatainak megadása alapján a felnőttképzés adatszolgáltatási rendszerén keresztül elektronikus úton közli a felnőttképzővel.
 
-[^29]: A 13/A. alcímet (25/A. §) a 318/2020. (VII. 1.) Korm. rendelet 10. §-a iktatta be.
+[^30]: A 13/A. alcímet (25/A. §) a 318/2020. (VII. 1.) Korm. rendelet 10. §-a iktatta be.

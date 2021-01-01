@@ -1,4 +1,4 @@
-## III/A. Fejezet[^32]
+## III/A. Fejezet[^33]
 
 ## MUNKAERŐ-PIACI ELŐREJELZŐ RENDSZER
 
@@ -8,4 +8,4 @@
 
 (2) A Kormány a munkaerőpiaci előrejelző rendszer működéséért felelős szervként a Nemzeti Szakképzési és Felnőttképzési Hivatalt jelöli ki.
 
-[^32]: A III/A. fejezetet (26/A. §) a 318/2020. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
+[^33]: A III/A. fejezetet (26/A. §) a 318/2020. (VII. 1.) Korm. rendelet 11. §-a iktatta be.

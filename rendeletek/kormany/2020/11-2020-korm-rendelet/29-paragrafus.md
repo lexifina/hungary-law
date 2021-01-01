@@ -1,6 +1,6 @@
 ## 17. Az Fktv. 20. § (3)–(5) bekezdéséhez
 
-29. §[^37] A felnőttképzési államigazgatási szerv az Fktv. 20. § (3) bekezdés a) pontjában meghatározott jogkövetkezményt alkalmazza, ha
+29. §[^38] A felnőttképzési államigazgatási szerv az Fktv. 20. § (3) bekezdés a) pontjában meghatározott jogkövetkezményt alkalmazza, ha
 
 a) a bejelentéshez kötött felnőttképzési tevékenység esetén a felnőttképző
 
@@ -28,4 +28,4 @@ bh) nem rendelkezik az e rendeletben meghatározott vagyoni biztosítékkal, vag
 
 bi) nem vezeti vagy hiányosan vezeti a képzés megvalósításának az Fktv.-ben és az e rendeletben előírt dokumentumait.
 
-[^37]: A 29. § a 318/2020. (VII. 1.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^38]: A 29. § a 318/2020. (VII. 1.) Korm. rendelet 14. §-ával megállapított szöveg.
