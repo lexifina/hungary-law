@@ -4,7 +4,7 @@
 
 (3) A munkavégzési kötelezettséggel járó szövetkezeti tagsági viszonyban álló európai parlamenti képviselőkre az (1)–(2) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
-(4) Ha az európai parlamenti képviselő a megválasztása előtt ügyész, igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény szerinti fegyveres szerv hivatásos állományú tagja, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja volt, az európai parlamenti képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
+(4) Ha az európai parlamenti képviselő a megválasztása előtt ügyész, igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény szerinti fegyveres szerv hivatásos állományú tagja, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, a Nemzeti Adó- és Vámhivatal foglalkoztatottja volt, az európai parlamenti képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
 (5)
 

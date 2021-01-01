@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-57-00-00
 | 2019-07-16 | 2019. évi LXV. törvény | 2004-57-00-00.19 |
 | 2020-02-01 | 2019. évi CVIII. törvény | 2004-57-00-00.20 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 2004-57-00-00.21 |
+| 2021-01-01 | 2020. évi CLII. törvény | 2004-57-00-00.22 |

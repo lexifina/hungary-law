@@ -1,6 +1,6 @@
 7. § (1) Ha az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, társadalombiztosítási jogállására a munkaviszonyban állókra vonatkozó szabályok az irányadóak azzal, hogy az európai parlamenti képviselők tiszteletdíja társadalombiztosítási járulék és szociális hozzájárulási adó alapjául szolgáló jövedelem, és az európai parlamenti képviselői megbízást heti 36 órát meghaladó foglalkozásnak kell tekinteni.
 
-(2) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, megbízásának időtartama – ideértve a 14. §-ban meghatározott hat hónapra folyósított ellátás időtartamát is – munkaviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a közszolgálati, hivatásos szolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani.
+(2) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, megbízásának időtartama – ideértve a 14. §-ban meghatározott hat hónapra folyósított ellátás időtartamát is – munkaviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a közszolgálati, hivatásos szolgálati, közalkalmazotti, adó- és vámhatósági szolgálati, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani.
 
 (3)
 
