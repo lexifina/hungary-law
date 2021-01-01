@@ -12,4 +12,7 @@
 
 5. nézőtér: a bírói terület mögött a nézők rendelkezésére kijelölt hely.
 
+6.[^2] hatósági tárolás: a lőfegyvernek, lőszernek (tölténynek) a rendőrség által az e rendelet szabályai szerint végzett tárolása abban az esetben, ha az érintett eszköz birtoklására más nem jogosult.
+
 [^1]: Az 1. § a 71/2009. (XII. 22.) IRM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § 6. pontját a 42/2020. (XI. 26.) BM rendelet 1. §-a iktatta be.

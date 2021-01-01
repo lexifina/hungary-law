@@ -1,4 +1,4 @@
-1/A. §[^2] (1) A polgári rendeltetésű lőtér (a továbbiakban: lőtér) lehet:
+1/A. §[^3] (1) A polgári rendeltetésű lőtér (a továbbiakban: lőtér) lehet:
 
 a) ideiglenes jellegű tereplőtér,
 
@@ -24,4 +24,4 @@ e) a nézőtér.
 
 (5) A bírói területet korláttal vagy kötélkordonnal kell elválasztani a nézőtértől.
 
-[^2]: Az 1/A. §-t a 71/2009. (XII. 22.) IRM rendelet 2. §-a iktatta be.
+[^3]: Az 1/A. §-t a 71/2009. (XII. 22.) IRM rendelet 2. §-a iktatta be.
