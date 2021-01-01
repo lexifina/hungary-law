@@ -2,41 +2,29 @@
 
 2. § (1)[^2]
 
-(2)[^3]
+(2) Az R. 1. melléklete helyébe a 2. melléklet lép.
 
-(3)[^4]
+(3) Az R. 2. melléklete helyébe a 3. melléklet lép.
 
-(4)[^5]
+(4) Az R. 3. melléklete helyébe a 4. melléklet lép.
 
-(5)[^6]
+(5) Az R. 4. melléklete helyébe az 5. melléklet lép.
 
-(6)[^7]
+(6) Az R. 5. melléklete helyébe a 6. melléklet lép.
 
-(7)[^8]
+(7) Az R. 6. melléklete helyébe a 7. melléklet lép.
 
-(8)[^9]
+(8) Az R. 7. melléklete helyébe a 8. melléklet lép.
 
-(9)[^10]
+(9) Az R. 8. melléklete helyébe a 9. melléklet lép.
 
-(10)[^11]
+(10) Az R. 9. melléklete helyébe a 10. melléklet lép.
 
-(11)[^12]
+(11) Az R. 10. melléklete helyébe a 11. melléklet lép.
 
-(12)[^13]
+(12) Az R. 11. melléklete helyébe a 12. melléklet lép.
 
-(13)[^14]
+(13) Az R. 12. melléklete helyébe a 13. melléklet lép.
 
 [^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 2. § (2) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^4]: A 2. § (3) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^5]: A 2. § (4) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^6]: A 2. § (5) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^7]: A 2. § (6) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^8]: A 2. § (7) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^9]: A 2. § (8) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^10]: A 2. § (9) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^11]: A 2. § (10) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^12]: A 2. § (11) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^13]: A 2. § (12) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^14]: A 2. § (13) bekezdése a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

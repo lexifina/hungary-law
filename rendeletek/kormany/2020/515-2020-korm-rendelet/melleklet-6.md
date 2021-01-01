@@ -1,3 +1,7 @@
-6. melléklet az 515/2020. (XI. 24.) Korm. rendelethez[^20]
+## „4. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^20]: A 6. melléklet a 3. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 20202220000515_4
+
+## ”
+
+6. melléklet az 515/2020. (XI. 24.) Korm. rendelethez
