@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-435-20-
 | 2017-03-21 | 2015-435-20-22.5 | 57/2017. (III. 20.) Korm. rendelet |
 | 2017-11-11 | 2015-435-20-22.6 | 182/2016. (VII. 1.) Korm. rendelet |
 | 2019-05-19 | 2015-435-20-22.7 | 182/2016. (VII. 1.) Korm. rendelet |
+| 2021-01-01 | 2015-435-20-22.8 | 57/2017. (III. 20.) Korm. rendelet |
