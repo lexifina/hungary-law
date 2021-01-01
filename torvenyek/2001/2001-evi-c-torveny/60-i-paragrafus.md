@@ -17,3 +17,5 @@ d) a felfüggesztés vagy eltiltás időbeli hatályát.
 (5) Ha az európai szakmai kártya birtokosa kéri a belső piaci információs rendszerben tárolt adatainak törlését, az eljáró hatóság vagy az előzetes ellenőrzést végző hatóság az európai szakmai kártya létrehozására irányuló korábbi döntését írásba foglalja.
 
 (6) Az európai szakmai kártyát létrehozó eljáró hatóság harmadik személyek részére tanúsítja annak hitelességét és érvényességét.
+
+(7) Az európai szakmai kártyát létrehozó eljáró hatóság az európai szakmai kártya birtokosát – annak kérésére – tájékoztatja a belső piaci információs rendszerben tárolt adatairól.
