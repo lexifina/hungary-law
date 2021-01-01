@@ -30,11 +30,11 @@ j)[^19] élelmiszer felhasználása, forgalmazása, továbbá termény, takarmá
 
 (4a)[^21]
 
-(5)[^22] Az engedélyezési eljárás ügyintézési határideje húsz nap. A jegyző az engedély megadásával egyidejűleg a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi. A nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.
+(5)[^22] Az engedélyezési eljárás ügyintézési határideje húsz nap. A jegyző az engedély megadásával egyidejűleg a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi.
 
-(5a)[^23] A jegyző által vezetett, (5) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatokat kivéve – közhiteles hatósági nyilvántartásnak minősül.
+(5a)[^23] Az (5) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatokat kivéve – közhiteles hatósági nyilvántartásnak minősül.
 
-(6)[^24] A jegyző által a vásárokról és piacokról vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
+(6)[^24] A vásárokról és piacokról vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
 
 a) az engedély kiadása és a nyilvántartásba vétel időpontját;
 
@@ -71,9 +71,9 @@ l) a nyilvántartásból való törlés tényét, annak időpontját.
 [^19]: A 4. § (3) bekezdés j) pontja a 360/2019. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^20]: A 4. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 239. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^21]: A 4. § (4a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 131. § (3) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 130. § (3) bekezdés a) pontja.
-[^22]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 238. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^23]: A 4. § (5a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^24]: A 4. § (6) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^22]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 238. § a) pontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^23]: A 4. § (5a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 611/2020. (XII. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^24]: A 4. § (6) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^25]: A 4. § (6) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni. [A 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja alapján a „ , telefonszámát” szövegrész hatályát veszti; a módosítás nem vezethető át.]
 [^26]: A 4. § (6) bekezdés d)–e) pontját a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^27]: A 4. § (6) bekezdés j) pontja a 457/2017. (XII. 28.) Korm. rendelet 237. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

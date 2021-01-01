@@ -18,9 +18,9 @@ h) az üzletek, más árusítóhelyek számát.
 
 (2)[^31] A jegyző a bevásárlóközpontot nyilvántartásba veszi.
 
-(2a)[^32] A jegyző által vezetett, (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatokat kivéve – közhiteles hatósági nyilvántartásnak minősül.
+(2a)[^32] A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatokat kivéve – közhiteles hatósági nyilvántartásnak minősül.
 
-(3)[^33] A jegyző által a bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
+(3)[^33] A bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
 
 a) a fenntartó által a bejelentésben az (1) bekezdés a)–c) pontja alapján megadott adatokat,
 
@@ -46,8 +46,8 @@ c) az illetékes rendőrkapitányságnak.
 
 [^30]: A 4/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^31]: A 4/A. § (2) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
-[^32]: A 4/A. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^33]: A 4/A. § (3) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^32]: A 4/A. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 611/2020. (XII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^33]: A 4/A. § (3) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^34]: A 4/A. § (4) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
 [^35]: A 4/A. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
 [^36]: A 4/A. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 131. § (4) bekezdésével megállapított szöveg.

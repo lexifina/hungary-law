@@ -16,11 +16,11 @@ f) a területhasználatának jogcímét,
 
 g) a piac nyitva tartási idejét.
 
-(3)[^41] A jegyző a helyi termelői piacot nyilvántartásba veszi. A jegyző által vezetett nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.
+(3)[^41] A jegyző a helyi termelői piacot nyilvántartásba veszi.
 
-(3a)[^42] A jegyző által vezetett, (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatokat kivéve – közhiteles hatósági nyilvántartásnak minősül.
+(3a)[^42] A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatokat kivéve – közhiteles hatósági nyilvántartásnak minősül.
 
-(4)[^43] A jegyző által a bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza a fenntartó által a (2) bekezdés alapján megadott adatokat.
+(4)[^43] A bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza a fenntartó által a (2) bekezdés alapján megadott adatokat.
 
 (5)[^44] A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi:
 
@@ -36,9 +36,9 @@ d) a Nemzeti Adó- és Vámhivatalnak.
 
 [^39]: A 4/B. §-t a 260/2011. (XII. 7.) Korm. rendelet 4. §-a iktatta be.
 [^40]: A 4/B. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^41]: A 4/B. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^42]: A 4/B. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (3) bekezdése iktatta be.
-[^43]: A 4/B. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gb) alpontja szerint módosított szöveg.
+[^41]: A 4/B. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^42]: A 4/B. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 611/2020. (XII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^43]: A 4/B. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gb) alpontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^44]: A 4/B. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 131. § (5) bekezdésével megállapított szöveg.
 [^45]: A 4/B. § (5) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^46]: A 4/B. § (5) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 130. § (1) bekezdésével megállapított szöveg.
