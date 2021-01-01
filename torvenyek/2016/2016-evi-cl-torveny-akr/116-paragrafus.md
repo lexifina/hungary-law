@@ -20,7 +20,7 @@ a) ha az elsőfokú döntést – a központi hivatal kivételével – központ
 
 b) ha a képviselő-testület önkormányzati hatósági ügyben hozott döntést,
 
-c) a másodfokú hatóság által hozott önállóan fellebbezhető végzés esetén,
+c) a másodfokú hatóság által hozott önálló jogorvoslattal támadható végzés esetén,
 
 d) ha nincs kijelölt másodfokú hatóság,
 

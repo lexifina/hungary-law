@@ -14,6 +14,6 @@ c) a jogellenes magatartást elkövették.
 
 (3) Ha az ügyfél lakóhelye ismeretlen vagy nem rendelkezik magyarországi lakóhellyel vagy értesítési címmel (a továbbiakban együtt: lakcím), a (2) bekezdésre alapított illetékességet az ügyfél utolsó ismert hazai lakcíme alapján kell megállapítani.
 
-(4) Ha az (1)–(3) bekezdésben foglaltakra figyelemmel nem állapítható meg az illetékes hatóság – ha jogszabály másként nem rendelkezik –, az eljárásra az adott ügyfajtában a fővárosban eljárásra jogosult hatóság jár el, több azonos hatáskörű fővárosi hatóság esetén pedig az illetékességi vita szabályait kell megfelelően alkalmazni.
+(4) Ha az (1)–(3) bekezdésben foglaltakra figyelemmel nem állapítható meg az illetékes hatóság – ha jogszabály másként nem rendelkezik –, az adott ügyfajtában a fővárosban eljárásra jogosult hatóság jár el, több azonos hatáskörű fővárosi hatóság esetén pedig az illetékességi vita szabályait kell megfelelően alkalmazni.
 
 (5) Az ügyben illetékes hatóságok közül az jár el, amelynél az eljárás előbb indult meg (a továbbiakban: megelőzés).
