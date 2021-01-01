@@ -2,7 +2,7 @@
 
 a)[^38] a várandósság legalább 12. hetét betöltött magzatuk után, ha a várandósság a kölcsönkérelem benyújtásának időpontjában vagy azt követően fennáll, és a magzat legkésőbb a kölcsön folyósításától számított 5 éves időszakon belül betölti a várandósság 12. hetét, vagy
 
-b)[^39] az e rendelet hatálybalépését követően született, a támogatott személyek által közösen örökbefogadott gyermek után, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően, de legkésőbb a kölcsön folyósításától számított 5 éven belül válik véglegessé.
+b)[^39] az e rendelet hatálybalépését követően a támogatott személyek által közösen örökbefogadott gyermek után, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően, de legkésőbb a kölcsön folyósításától számított 5 éven belül válik véglegessé.
 
 (2) A támogatott személyek nem jogosultak a törlesztés szüneteltetésére, ha egyikük sem rendelkezik már magyarországi lakcímmel.
 
@@ -39,7 +39,7 @@ b) a (6) bekezdésben foglaltak szerint, a (4) bekezdésben foglaltaknak megfele
 (8)[^48] A törlesztés szüneteltetése időszakának lejártát követően a törlesztési kötelezettség tovább folytatódik, amelyről a hitelintézet tájékoztatást küld a támogatott személyeknek.
 
 [^38]: A 14. § (1) bekezdés a) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^39]: A 14. § (1) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^39]: A 14. § (1) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja, a 686/2020. (XII. 29.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^40]: A 14. § (3) bekezdése a 151/2019. (VI. 26.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
 [^41]: A 14. § (4) bekezdése a 252/2020. (V. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^42]: A 14. § (4a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 24. § (2) bekezdése iktatta be.

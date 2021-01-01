@@ -12,7 +12,7 @@ b) harmadik gyermekük esetén az e rendelet szerinti teljes fennmaradó kölcs�
 
 a)[^63] a kölcsönkérelem benyújtásának időpontjában vagy azt követően fennálló várandósság esetén, a támogatott személyeknek a várandósság legalább 12. hetét betöltött magzata után igényelhető, és
 
-b)[^64] az e rendelet hatálybalépését követően született, a támogatott személyek által közösen örökbefogadott gyermek után igényelhető, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé.
+b)[^64] az e rendelet hatálybalépését követően a támogatott személyek által közösen örökbefogadott gyermek után igényelhető, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé.
 
 (3)[^65] Ha a kölcsönkérelmet ikervárandósság ideje alatt, a várandósság betöltött 12. hetét követően nyújtják be, a gyermekvállalási támogatás iránti kérelmet a kölcsönkérelemmel egyidejűleg is be lehet nyújtani, azzal, hogy a várandósgondozási könyvben tett utolsó bejegyzés dátuma vagy a 2. melléklet szerinti igazolás kiállításának időpontja legfeljebb 15 nappal előzheti meg a kölcsönkérelem benyújtásának időpontját.
 
@@ -42,7 +42,7 @@ c) a magzat elhalása vagy halva születése esetén az erre vonatkozó, a 9. §
 
 [^62]: A 19. § (1) bekezdés nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés i) pontja szerint módosított szöveg.
 [^63]: A 19. § (2) bekezdés a) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^64]: A 19. § (2) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^64]: A 19. § (2) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja, a 686/2020. (XII. 29.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^65]: A 19. § (3) bekezdése a 252/2020. (V. 29.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
 [^66]: A 19. § (4) bekezdése a 252/2020. (V. 29.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
 [^67]: A 19. § (4a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 28. § (2) bekezdése iktatta be.
