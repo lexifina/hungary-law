@@ -196,9 +196,9 @@ b) Vizsgáló eszközök:
 
 9.1. Hatósági bizonyítvány ellenőrzése, kiadása
 
-a)[^58] Az [járási (fővárosi kerületi) hivatali] ügyintéző a vizsgáló állomáson elvégzett vizsgálatot követően, eredetiségvizsgálati eljárás lezárásaként a kérelmező (tulajdonos, üzembentartó, illetve azok meghatalmazottja) számára – annak személyes megjelenésekor, díjmentesen – az előzetes eredetiségvizsgálati nyilvántartásból kinyomtatja a hatóság által kiállított hatósági bizonyítványt (ha az korábban nem került kézbesítésre), egyidejűleg rögzíti ezen nyilvántartásban a kézbesítésre vonatkozó információkat (annak tényét, idejét).
+a)[^61] Az [járási (fővárosi kerületi) hivatali] ügyintéző a vizsgáló állomáson elvégzett vizsgálatot követően, eredetiségvizsgálati eljárás lezárásaként a kérelmező (tulajdonos, üzembentartó, illetve azok meghatalmazottja) számára – annak személyes megjelenésekor, díjmentesen – az előzetes eredetiségvizsgálati nyilvántartásból kinyomtatja a hatóság által kiállított hatósági bizonyítványt (ha az korábban nem került kézbesítésre), egyidejűleg rögzíti ezen nyilvántartásban a kézbesítésre vonatkozó információkat (annak tényét, idejét).
 
-b)[^59] Az [járási (fővárosi kerületi) hivatali] ügyintéző – újabb eredetiségvizsgálati eljárás lefolytatása nélkül –, kérelemre igazgatási szolgáltatási díj megfizetésének ellenében hatósági bizonyítvány másolatot állít ki az előzetes eredetiségvizsgálati nyilvántartásból, valamint az igazgatási szolgáltatási díj megfizetéséről számviteli bizonylatot állít ki.
+b)[^62] Az [járási (fővárosi kerületi) hivatali] ügyintéző – újabb eredetiségvizsgálati eljárás lefolytatása nélkül –, kérelemre igazgatási szolgáltatási díj megfizetésének ellenében hatósági bizonyítvány másolatot állít ki az előzetes eredetiségvizsgálati nyilvántartásból, valamint az igazgatási szolgáltatási díj megfizetéséről számviteli bizonylatot állít ki.
 
 9.2. Az eredetiségvizsgálat megtörténtének igazolását igénylő közlekedési igazgatási eljárások lefolytatása és annak informatikai támogatása:
 
@@ -254,5 +254,5 @@ A járműokmány valódisága nem állapítható meg.
 
 A jármű egyedi azonosító adatai nem eredetiek. A jármű egyedi azonosító adatainak megváltozása külső, jogtalan beavatkozás eredménye. A járműokmány valódisága nem állapítható meg.
 
-[^58]: A 4. melléklet 9.1. pont a) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
-[^59]: A 4. melléklet 9.1. pont b) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
+[^61]: A 4. melléklet 9.1. pont a) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
+[^62]: A 4. melléklet 9.1. pont b) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.

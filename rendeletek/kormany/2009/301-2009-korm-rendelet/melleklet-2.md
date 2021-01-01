@@ -1,4 +1,4 @@
-2. melléklet a 301/2009. (XII. 22.) Korm. rendelethez
+2. melléklet a 301/2009. (XII. 22.) Korm. rendelethez[^58]
 
 ## „ADMINISZTRÁTOR” alapképzés szakmai és vizsgakövetelményei
 
@@ -64,7 +64,7 @@ Ismernie kell:
 
 – az iratkezelés, irattározás szabályait,
 
-–[^56] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+–[^59] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
 
 – az okmányokkal kapcsolatos jogosultságokat.
 
@@ -110,7 +110,7 @@ A vizsga tantárgyai:
 
 – Informatikai ismeretek
 
-3.[^57] A vizsga értékelése
+3.[^60] A vizsga értékelése
 
 Az írásbeli vizsgarészt a feladatlaphoz kiadott útmutató alapján kell értékelni.
 
@@ -126,7 +126,7 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | Sorszám: |
 
-| Belügyminisztérium |
+| Budapest Főváros Kormányhivatala |
 
 | TANÚSÍTVÁNY |
 
@@ -144,5 +144,6 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^56]: A 2. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
-[^57]: A 2. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.
+[^58]: A 2. melléklet a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^59]: A 2. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
+[^60]: A 2. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.

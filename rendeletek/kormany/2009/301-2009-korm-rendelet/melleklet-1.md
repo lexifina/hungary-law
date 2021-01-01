@@ -1,6 +1,6 @@
-## 20. §[^53]
+## 20. §[^54]
 
-1. melléklet a 301/2009. (XII. 22.) Korm. rendelethez
+1. melléklet a 301/2009. (XII. 22.) Korm. rendelethez[^55]
 
 ## „VIZSGÁLÓ” alapképzés szakmai és vizsgakövetelményei
 
@@ -72,7 +72,7 @@ Ismernie kell:
 
 – az iratkezelés, irattározás szabályait,
 
-–[^54] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+–[^56] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
 
 – az okmányokkal kapcsolatos jogosultságokat.
 
@@ -120,7 +120,7 @@ A vizsga tantárgyai:
 
 – Informatikai ismeretek
 
-3.[^55] A vizsga értékelése
+3.[^57] A vizsga értékelése
 
 Az írásbeli vizsgarészt a feladatlaphoz kiadott útmutató alapján kell értékelni.
 
@@ -136,7 +136,7 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | Sorszám: |
 
-| Belügyminisztérium |
+| Budapest Főváros Kormányhivatala |
 
 | TANÚSÍTVÁNY |
 
@@ -154,6 +154,7 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^53]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
-[^54]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
-[^55]: Az 1. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.
+[^54]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
+[^55]: Az 1. melléklet a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.
