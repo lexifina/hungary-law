@@ -1,4 +1,4 @@
-1. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 110. § (4a) bekezdése szerinti tevékenységre jogosító engedély iránti, az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) részére benyújtott kérelemnek tartalmaznia kell
+1. § (1)[^1] Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 110. § (4a) bekezdése szerinti tevékenységre jogosító engedély iránti, az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) részére benyújtott kérelemnek tartalmaznia kell
 
 a) a kérelmező nevét, születési nevét, születési helyét, idejét és állampolgárságát,
 
@@ -37,3 +37,5 @@ g) azt, hogy a kérelmező megfelel a tevékenység végzéséhez előírt egés
 h) azt, hogy az eljárás igazgatási szolgáltatási díját megfizette,
 
 i) az engedélyezni kért tevékenység végzése szempontjából releváns szakmai tapasztalatot.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze az 516/2020. (XI. 25.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
