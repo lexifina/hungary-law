@@ -2,48 +2,62 @@
 
 ## és működési területre vonatkozó szabályai
 
-9. § (1) A központi építészeti-műszaki tervtanács működési területe az egész ország területére kiterjed.
+9. §[^33] (1) Az Országos Építészeti Tervtanács működési területe az egész ország területére kiterjed.
 
-(2)[^32] A központi építészeti tervtanács feladata, hogy
+(2) Az Országos Építészeti Tervtanács véleményezi
 
-a)[^33]
+a) a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben meghatározott esetekben az e rendeletben meghatározott építészeti-műszaki dokumentációt,
 
-b) véleményezze a nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képező építési beruházás épületeinek építészeti-műszaki dokumentációját, ha a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító kormányrendelet erre kijelöli,
+b) – az e) és f) pontban foglaltak kivételével – a nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képező építési beruházás épületeinek építészeti-műszaki dokumentációját, ha a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító kormányrendelet erre kijelöli,
 
-c)[^34] véleményezze az Étv. 19. § (4) bekezdése szerinti épület építészeti-műszaki dokumentációját.
+c) az Étv. 19. § (4) bekezdése szerinti épület építészeti-műszaki dokumentációját,
 
-(2a)[^35] A központi építészeti-műszaki tervtanács feladata, hogy véleményezze a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben meghatározott esetekben az e rendeletben meghatározott építészeti-műszaki dokumentációt.
+d) a nemzeti emlékhellyel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési –, örökségvédelmi hatósági engedélyezési és örökségvédelmi bejelentési eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt,
 
-(3)[^36] A területi építészeti-műszaki tervtanács működési területe – a 10. § (1) bekezdésében foglaltak figyelembevételével – megegyezik az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területével.
+e) a kiemelten védett műemlékkel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési –, valamint – a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet (a továbbiakban: Övr.) 63. § (3) bekezdés a) pontja és b) pont ba) alpontja esetében – örökségvédelmi hatósági engedélyezési és – az Övr. 64. § (2) bekezdés c) pontja esetében – örökségvédelmi bejelentési eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt,
 
-(4)[^37] A területi építészeti-műszaki tervtanács feladata, hogy véleményezze
+f) a védett műemlékkel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési – eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt.
 
-a) a főpolgármester településképi véleménye hiányában a fővárosi helyi építészeti örökségvédelem alatt
+(3) Az Országos Építészeti Tervtanács a véleményezési eljárást megelőzően konzultációs eljárásban véleményezheti a (2) bekezdés szerinti beruházás vázlattervi dokumentációját.
 
-aa) álló területen az építéssel érintett telek közterülettel határos, vagy a telek közterületi határához legközelebb, de legfeljebb 20 méterre álló új épület építéséhez vagy ilyen helyen álló meglévő épület településképet érintő felújításához, átalakításához, bővítéséhez, továbbá
+(4) A területi építészeti-műszaki tervtanács működési területe – a 10. § (1) bekezdésében foglaltak figyelembevételével, továbbá a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben meghatározott kiemelt településkép-védelmi környezet kivételével – megegyezik az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területével.
 
-ab) nem álló területen fővárosi helyi építészeti örökségvédelem alatt álló épület településképet érintő felújításához, átalakításához, bővítéséhez
+(5) A területi építészeti-műszaki tervtanács véleményezi
 
-szükséges építészeti-műszaki dokumentációt,
+a) az engedélykérelem, bejelentés kötelező mellékletét képező dokumentációt a védett műemlékkel kapcsolatos
 
-b)[^38]
+aa) örökségvédelmi hatósági engedélyezési eljárást megelőzően az Övr. 63. § (3) bekezdés a) pontja és b) pont ba) alpontja esetében,
 
-c)[^39] a több települést magában foglaló világörökségi tájegységi területen és Budapest tekintetében a világörökségi területen az új épület építéséhez vagy a meglévő épület bővítéséhez, valamint a meglévő építmény közterületről látható homlokzatának felújításához vagy közterületről látható homlokzata legalább 20%-át érintő átalakításához szükséges építészeti-műszaki dokumentációt.
+ab) örökségvédelmi bejelentési eljárást megelőzően az Övr. 64. § (2) bekezdés c) pontja esetében,
 
-d)–f)[^40]
+b) az engedélykérelem, bejelentés kötelező mellékletét képező dokumentációt a műemléki jelentőségű területet érintő
 
-(5)[^41] A területi építészeti-műszaki tervtanács a (4) bekezdés c) pontja szerinti véleményezési eljárása során felhívja az érintett települési önkormányzat polgármesterét, hogy 8 napon belül nyilvánítson véleményt a tervnek a településképi követelményekkel történő megfeleléséről. A tervtanács a polgármesteri véleményt érdemben vizsgálja.
+ba) nem műemléket érintő építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési – eljárást megelőzően, vagy
 
-(6)[^42] A területi építészeti-műszaki tervtanács a (4) bekezdés c) pontja szerinti véleményezési eljárásról készült jegyzőkönyvet az ülést követő 5 napon belül megküldi az országos főépítésznek.
+bb) örökségvédelmi bejelentési eljárást megelőzően az Övr. 64. § (3) bekezdés b) pont ba)–bc) alpontja esetében,
 
-[^32]: A 9. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^33]: A 9. § (2) bekezdés a) pontját a 30/2020. (II. 29.) Korm. rendelet 8. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^34]: A 9. § (2) bekezdés c) pontját a 150/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
-[^35]: A 9. § (2a) bekezdését újonnan a 19/2018. (II. 14.) Korm. rendelet 55. §-a iktatta be.
-[^36]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja, a 70/2015. (III. 30.) Korm. rendelet 82. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^37]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
-[^38]: A 9. § (4) bekezdés b) pontját a 30/2020. (II. 29.) Korm. rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^39]: A 9. § (4) bekezdés c) pontját újonnan a 279/2015. (IX. 22.) Korm. rendelet 1. §-a iktatta be, szövege a 38/2019. (III. 6.) Korm. rendelet 1. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^40]: A 9. § (4) bekezdés d)–f) pontját a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.
-[^41]: A 9. § (5) bekezdését a 217/2018. (XI. 27.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^42]: A 9. § (6) bekezdését a 217/2018. (XI. 27.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+c) a világörökségi területen
+
+ca) az új épület építéséhez vagy a meglévő épület bővítéséhez, valamint a meglévő építmény közterületről látható homlokzatának felújításához vagy közterületről látható homlokzata legalább 20%-át érintő átalakításához szükséges építészeti-műszaki dokumentációt,
+
+cb) külfejtéses művelésű bányatelek bővítésének vagy rekultivációjának, tájkép-rehabilitációjának, napelempark vagy napelemes erőmű létesítésének, reklámhordozó vagy reklámhordozót tartó berendezés külterületen történő elhelyezésének tervdokumentációját.
+
+(6) A területi építészeti-műszaki tervtanács az (5) bekezdés a) és b) pontja szerinti esetben az elnök, vagy az országos főépítész által a tervtanácsba delegált személy javaslatára a véleményezésnek az Országos Építészeti Tervtanács általi lefolytatását kezdeményezheti. A kezdeményezés elfogadása esetén az Országos Építészeti Tervtanács tagja az illetékes területi építészeti-műszaki tervtanács elnöke.
+
+(7) A területi építészeti-műszaki tervtanács a véleményezési eljárást megelőzően konzultációs eljárásban véleményezheti az (5) bekezdés szerinti beruházás vázlattervi dokumentációját.
+
+(8) A területi építészeti-műszaki tervtanács az (5) bekezdés c) pontja szerinti véleményezési eljárása során felhívja az érintett települési önkormányzat polgármesterét – a főváros esetében a fővárosi önkormányzat településképi rendeletében fővárosi helyi védelem alá vont építmények esetében a főpolgármestert –, hogy 8 napon belül nyilvánítson véleményt a tervnek a településképi követelményekkel történő megfeleléséről. A tervtanács a polgármesteri véleményt érdemben vizsgálja.
+
+(9) A területi építészeti-műszaki tervtanács tevékenységéről minden negyedévet követő hónap 20. napjáig – a tervtanácsi vélemények megküldésével egyidejűleg – beszámol az országos főépítésznek.
+
+(10) Ha az (5) bekezdés c) pontja szerinti bővítés, felújítás vagy átalakítás
+
+a) kiemelten védett műemléket érint a (2) bekezdés e) és f) pontja,
+
+b) védett műemléket vagy műemléki területet érint az (5) bekezdés a) és b) pontja
+
+## szerinti tervtanács jár el azzal, hogy eljárása során a világörökségi tervtanácsra vonatkozó szabályokat is be kell tartania.
+
+(11) A (2) bekezdés szerinti eljárások világörökségi érintettsége esetén a világörökségi tervtanácsra vonatkozó szabályokat is alkalmazni kell.
+
+[^33]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.

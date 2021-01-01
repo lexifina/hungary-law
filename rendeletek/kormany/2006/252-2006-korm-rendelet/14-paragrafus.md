@@ -1,36 +1,8 @@
-## 13/A. §[^73] A tájegységi tervtanács üléseit a világörökségi helyszínen helyben kell megtartani.
+## 13/A. §[^69] A világörökségi tervtanács üléseit a 10. § (1) bekezdésében foglalt esetben – ha a tervtanács ülésén az érintett polgármester is részt vesz – a világörökségi területen helyben kell megtartani.
 
-## A tervtanácsi jegyzőkönyv
+14. §[^70] (1) Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel készül.
 
-14. § (1)[^74] Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel, az elhangzott lényeges megállapításokról jegyzőkönyv készül. A jegyzőkönyv mellékletét képezi a hangfelvétel és a bírálat.
+(2) A tervtanácsi tárgyaláson elhangzott lényeges megállapításokról a tervező vagy a tervdokumentáció benyújtójának kérésére emlékeztető készül.
 
-(2) A jegyzőkönyvnek tartalmaznia kell:
-
-a) a tervtanács nevét és székhelyét, a tárgyalás helyét és idejét,
-
-b)[^75] a megtárgyalt tervdokumentáció tartalmának megnevezését, építészeti-műszaki tervtanács esetében az építés helyét (címét),
-
-c) napirendi pontonként a tervtanácsi tagok létszámát és a határozatképesség vagy határozatképtelenség tényét,
-
-d)[^76] a tervező nevét, illetve elnevezését, valamint címét, illetve székhelyét,
-
-e) a tervdokumentáció benyújtójának nevét, illetve elnevezését, címét, illetve székhelyét,
-
-f) a tervtanácsi tagok napirendi pontonkénti felsorolását,
-
-g) a meghívottak napirendi pontonkénti felsorolását,
-
-h) a bíráló nevét és címét,
-
-i) a tervtanácsi tárgyalás esetleges előzményeit (korábbi konzultáció stb.),
-
-j) a tervtanács elnöke által összefoglalt ajánlást,
-
-k) egyhangúság esetén annak tényére történő utalást, véleménykülönbség esetén a szavazás elrendelését és annak eredményét, valamint a tervtanács tagjainak esetleges különvéleményét,
-
-l) a tervtanács jelen lévő tagjainak aláírását.
-
-[^73]: A 13/A. §-t a 306/2016. (X. 13.) Korm. rendelet 6. §-a iktatta be.
-[^74]: A 14. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
-[^75]: A 14. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének f) pontja szerint módosított szöveg.
-[^76]: A 14. § (2) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének g) pontja szerint módosított szöveg.
+[^69]: A 13/A. §-t a 306/2016. (X. 13.) Korm. rendelet 6. §-a iktatta be, szövege a 677/2020. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^70]: A 14. §-t megelőző „A tervtanácsi jegyzőkönyv” alcím címet a 677/2020. (XII. 28.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte, a 14. §-t ezen rendelet 13. §-ával megállapított szöveg.

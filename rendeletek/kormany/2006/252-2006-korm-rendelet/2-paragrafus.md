@@ -1,3 +1,1 @@
-## véleményezésére.
-
 ## A tervtanács összetétele

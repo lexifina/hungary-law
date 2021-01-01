@@ -1,6 +1,6 @@
 ## A tervtanácshoz benyújtandó tervdokumentumok
 
-11. §[^45] (1) A 8. § (1) bekezdése szerinti esetben a településrendezési tervtanácshoz a dokumentációt olyan állapotban (munkafázisban) kell benyújtani, hogy arról egyértelmű vélemény legyen alkotható.
+11. §[^36] (1) A 8. § (1) bekezdése szerinti esetben a településrendezési tervtanácshoz a dokumentációt olyan állapotban (munkafázisban) kell benyújtani, hogy arról egyértelmű vélemény legyen alkotható.
 
 (2) A településrendezési tervtanácshoz benyújtandó dokumentáció – annak jellegétől függően – tartalmazza:
 
@@ -16,23 +16,9 @@ e) a tervdokumentáció tervezőjének nevét, címét, székhelyét, a tervezé
 
 f) azon dokumentumokat, amelyekkel kapcsolatban a benyújtó tervtanácsi véleményt kér.
 
-(3)[^46] Az építészeti-műszaki tervtanácshoz benyújtandó építészeti-műszaki dokumentációnak az alábbi munkarészeket kell tartalmaznia:
+(3)[^37] Az építészeti-műszaki tervtanácshoz benyújtandó építészeti-műszaki dokumentáció az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében meghatározott munkarészeket, valamint a településképi követelményeknek való megfelelés bemutatását tartalmazza. Az örökségvédelmi engedélyhez vagy bejelentéshez kötött tevékenységek esetén a dokumentáció az Övr. 3. melléklete szerinti elemeket, valamint a településképi követelményeknek való megfelelés bemutatását tartalmazza. Világörökségi érintettség esetén a dokumentáció a világörökségi kezelési tervben, ennek hiányában a világörökségről szóló 2011. évi LXXVII. törvény (a továbbiakban: Vötv.) 3. § (4) bekezdésében foglalt követelményeknek való megfelelés bemutatását is tartalmazza.
 
-a) építészeti műszaki leírás,
-
-b) a településszerkezetet, a telepítést – a környezetbe illeszkedést, a beépítést – bemutató helyszínrajz a szomszédos építmények és a terepviszonyok feltüntetésével,
-
-c) az eltérő szintek alaprajza 1:200 léptékben,
-
-d) metszet 1:200 léptékben,
-
-e) az esztétikus megjelenést – tömegalakítást, színezést, anyaghasználatot – bemutató, a rálátás- és látványvédelmet alátámasztó valamennyi homlokzat, településkép, utcakép, látványterv, fotó,
-
-f) a szabályozási tervnek és a helyi építési szabályzatnak a tervezéssel érintett telekre vonatkozó kivonata,
-
-g)[^47] a településképi követelményeknek való megfelelés bemutatása.
-
-(4)[^48] Az Étv. 19. § (4) bekezdése szerinti épület építészeti-műszaki dokumentációjának a (3) bekezdésben foglaltak mellett az alábbi munkarészeket is tartalmaznia kell:
+(4)[^38] Az Étv. 19. § (4) bekezdése szerinti épület építészeti-műszaki dokumentációjának a (3) bekezdésben foglaltak mellett az alábbi munkarészeket is tartalmaznia kell:
 
 a) a tervezéssel érintett teleknek vagy telkeknek a 2 km sugarú környezetéhez a településképi illeszkedését igazoló leírását a tömegalakításra, anyaghasználatra, színezésre, rálátás és látványvizsgálatra, településkarakterre vonatkozóan,
 
@@ -44,7 +30,6 @@ d) a közlekedési munkarészt, amely tartalmazza a közúti és a közösségi 
 
 e) világörökségi területet vagy annak látványát érintő esetben a világörökségi helyszín kiemelkedő egyetemes értéke megóvására irányuló követelményeknek való megfelelés bemutatását.
 
-[^45]: A 11. § a 322/2012. (XI. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^46]: A 11. § (3) bekezdés nyitó szövegrésze a 150/2018. (VIII. 13.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^47]: A 11. § (3) bekezdés g) pontját a 67/2013. (III. 8.) Korm. rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 150/2018. (VIII. 13.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^48]: A 11. § (4) bekezdését a 150/2018. (VIII. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^36]: A 11. § a 322/2012. (XI. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^37]: A 11. § (3) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^38]: A 11. § (4) bekezdését a 150/2018. (VIII. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.

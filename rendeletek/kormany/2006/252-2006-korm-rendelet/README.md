@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-252-20-
 | 2018-12-05 | 2006-252-20-22.19 | 217/2018. (XI. 27.) Korm. rendelet |
 | 2019-03-14 | 2006-252-20-22.20 | 279/2015. (IX. 22.) Korm. rendelet |
 | 2020-03-01 | 2006-252-20-22.21 | 30/2020. (II. 29.) Korm. rendelet |
+| 2021-01-01 | 2006-252-20-22.22 | 677/2020. (XII. 28.) Korm. rendelet |
