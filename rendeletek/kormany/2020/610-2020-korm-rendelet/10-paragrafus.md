@@ -1,0 +1,1 @@
+## 9. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 18. §-ában a „Szociális és Gyermekvédelmi Főigazgatóság” szövegrész helyébe a „Nemzeti Szociálpolitikai Intézet” szöveg lép.
