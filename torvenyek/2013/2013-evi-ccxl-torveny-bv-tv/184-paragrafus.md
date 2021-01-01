@@ -6,4 +6,4 @@
 
 (3) A 181. § (4) bekezdése alapján az elítélt a költségek részbeni vagy teljes megtérítésére kötelezhető.
 
-(4) Az elítéltek részére oktatást, szakképzést és felnőttképzést a munkáltató, a bv. szerv, vagy jogszabály által arra felhatalmazott egyéb szerv, illetve magánszemély külön-külön vagy együttesen is szervezhet. Az oktatás, szakképzés és felnőttképzés költségei a szervezőt terhelik, a költségekhez az elítélt önként is hozzájárulhat.
+(4) Az elítéltek részére oktatást, szakképzést és felnőttképzést a munkáltató, a bv. szerv, vagy jogszabály által arra felhatalmazott egyéb szerv, illetve magánszemély külön-külön vagy együttesen is szervezhet. Az oktatás, szakképzés és felnőttképzés költségei a szervezőt terhelik, a költségekhez az elítélt, kivéve ha a szakképzésről szóló törvény a szakképzés ingyenesen történő biztosításáról rendelkezik, önként is hozzájárulhat.

@@ -20,7 +20,7 @@ c) további társadalmi kapcsolatok lehetőségének a feltárása,
 
 d) a lakhatás megteremtésének elősegítése.
 
-(5) A társadalmi kötődés programba bevont elítélt részére a bv. intézet egyéni reintegrációs programot készít, amely alapján végrehajtja az elítélt gondozását. A büntetés-végrehajtási pártfogó felügyelő az egyéni reintegrációs program kidolgozásában és megvalósításában közreműködik. A programelemek megvalósításának eredményességét a bv. intézet a büntetés-végrehajtási pártfogó felügyelő bevonásával értékeli, és szükség szerint módosíthatja azokat. Az értékelés keretében a büntetés-végrehajtási pártfogó felügyelő háromhavonta jelentést készít a befogadó környezettel történő együttműködés eredményeiről.
+(5) A társadalmi kötődés programba bevont elítélt részére a büntetés-végrehajtási pártfogó felügyelő a (4) bekezdésben foglaltak megvalósítása érdekében, a 185. § (5) bekezdésének alkalmazásával egyéni reintegrációs programot készít, értékeli annak végrehajtását és azt szükség szerint kiegészítheti vagy módosíthatja. Az értékelés keretében a büntetés-végrehajtási pártfogó felügyelő háromhavonta jelentést készít a befogadó környezettel történő együttműködés eredményeiről.
 
 (6) A társadalmi kötődés megtartása érdekében az elítélt jogosult
 

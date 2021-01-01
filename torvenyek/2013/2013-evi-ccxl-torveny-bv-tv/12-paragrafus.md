@@ -4,7 +4,7 @@
 
 (2) A büntetés-végrehajtási ügyben, valamint a fogvatartással kapcsolatos egyéb ügyben a végrehajtásért felelős szerv kellő nyelvismerettel rendelkező tagja eseti tolmácsként eljárhat. A büntetés-végrehajtási ügyben, valamint a fogvatartással kapcsolatos ügyben a határozatot akkor kell írásban lefordítani az elítélt vagy az egyéb jogcímen fogvatartott nem magyar anyanyelvére, nemzetiségi anyanyelvére vagy törvénnyel kihirdetett nemzetközi szerződésben meghatározott egyéb anyanyelvére, vagy az általa ismert más nyelvre, ha ezt a határozat közlésekor tett nyilatkozatában kifejezetten kéri. Ezen jogára az elítéltet figyelmeztetni kell.
 
-(3) A végrehajtásért felelős szervnek az elítélt vagy az egyéb jogcímen fogvatartott részére az nem magyar anyanyelvén, nemzetiségi anyanyelvén vagy törvénnyel kihirdetett nemzetközi szerződésben meghatározott egyéb anyanyelvén, vagy az általa ismert más nyelven a végrehajtás rendjére, a végrehajtással összefüggő jogaira és kötelezettségeire vonatkozó jogszabályi rendelkezések lényegi elemeiről, valamint a fogvatartást foganatosító szerv házirendjéről tájékoztatást kell adnia.
+(3) A végrehajtásért felelős szervnek az elítélt vagy az egyéb jogcímen fogvatartott részére nem magyar anyanyelvén, nemzetiségi anyanyelvén vagy törvénnyel kihirdetett nemzetközi szerződésben meghatározott egyéb anyanyelvén, vagy az általa ismert más nyelven a végrehajtás rendjére, a végrehajtással összefüggő jogaira és kötelezettségeire vonatkozó jogszabályi rendelkezések lényegi elemeiről, valamint a fogvatartást foganatosító szerv házirendjéről tájékoztatást kell adnia.
 
 (4) Az elítélt vagy az egyéb jogcímen fogvatartott részére írásban, az általa értett nyelven egyszerűen, közérthető módon kell a tájékoztatást megadni
 

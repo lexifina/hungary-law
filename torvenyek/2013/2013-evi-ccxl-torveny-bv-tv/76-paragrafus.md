@@ -44,10 +44,26 @@ r) a szabálysértési elzárás hatálya alatt álló arcképmására, társada
 
 s) a reintegrációs őrizet elrendelése feltételeinek megállapítása és a környezettanulmány elkészítése körében a reintegrációs őrizet végrehajtására kijelölendő lakás tekintetében az elítélt vagy a befogadó nyilatkozatot tevő lakáshasználati jogára és a lakás elektromos áramellátását igazoló előfizetői adatokra, a befogadó környezetre és a lakásban lakó más személyeknek az elítélt befogadására való készségére, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkavállalási, illetve tanulmányi lehetőségeire, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, továbbá a reintegrációs őrizet ellenőrzése során az elítélt munkahelyére, illetve tanulói jogviszonyára vonatkozó adataira, valamint fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
 
-t) az enyhébb végrehajtási szabályok alkalmazása és a társadalmi kötődés programba történő bevonás feltételeinek megállapítása és a környezettanulmány elkészítése körében az elítélt által eltávozásra, illetve letelepedésre megjelölt lakás tekintetében az elítélt lakáshasználati jogára és lakáskörülményeire, a befogadó környezetre, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira.
+t) az enyhébb végrehajtási szabályok alkalmazása és a társadalmi kötődés programba történő bevonás feltételeinek megállapítása és a környezettanulmány elkészítése körében az elítélt által eltávozásra, illetve letelepedésre megjelölt lakás tekintetében az elítélt lakáshasználati jogára és lakáskörülményeire, a befogadó környezetre, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira,
+
+u) az elítélt életvitelére – ideértve a büntetés vagy az intézkedés végrehajtásának megkezdése előtti időszakot is – és közbiztonsági kockázatára vonatkozó rendőri jelentés esetén
+
+ua) az elítélt családi körülményeire, így különösen a vele együtt élő hozzátartozóihoz fűződő viszonyára, lakhatási és megélhetési körülményeire vonatkozó adatokra,
+
+ub) az arra vonatkozó adatra, hogy a fogvatartást foganatosító intézet ideiglenes elhagyása vagy szabadulása esetére az elítélt által a tartózkodása helyeként megjelölt lakcím, illetve tényleges tartózkodási hely szerinti lakásban lakó más személyek készek-e az elítélt befogadására,
+
+uc) annak valószínűségére, hogy az elítélt megjelenése a lakókörnyezetben félelmet vagy megbotránkozást keltene-e, vagy esetlegesen az elítélt veszélyben lenne-e az elkövetett bűncselekmény miatt és az azt megalapozó adatokra,
+
+ud) az elítélt életvitelére vonatkozó adatokra, esetleges káros szenvedélyére, ismert bűnözői csoporttal vagy ilyen csoportba tartozó személlyel való esetleges kapcsolatára, továbbá arra, hogy az elítélttel szemben indult-e újabb büntetőeljárás,
+
+ue) az arra vonatkozó adatra, hogy abban a büntetőeljárásban, amelyben az adott büntetést kiszabták vagy intézkedést alkalmazták, az elítélttel szemben bocsátottak-e ki elfogatóparancsot, elfogásakor tanúsított-e ellenállást, továbbá arra, hogy szökés vagy elrejtőzés veszélye miatt elrendelték-e személyi szabadságot érintő kényszerintézkedését, bűnügyi felügyelet elrendelése esetén a végrehajtásra vonatkozó adatokra,
+
+uf) annak valószínűségére, hogy a fogvatartás helyének ideiglenes elhagyása vagy az elítélt szabadulása esetére az elítélt által megjelölt lakcím, illetve tényleges tartózkodási hely szerinti település közrendje vagy a közbiztonsága szempontjából veszélyt jelentene-e és az azt megalapozó adatokra.
 
 (3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni az elítélt adatainak kezelésére akkor is, ha
 
 a) az igazságügyért felelős miniszter a kegyelmi eljárás során elrendeli az elítéltnek a BVEK-ban történő szakorvosi vizsgálatát, vagy
 
 b) a szabadlábon lévő elítélt feltételes szabadságra bocsátása a Btk. 92–92/B. §-a alapján beszámított időre figyelemmel esedékes, de a letartóztatást nem a bv. intézetben töltötte.
+
+(4) Az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentésben a következtetésen, véleményen, elemzésen vagy becslésen alapuló adatokat helyes és megbízható voltuk mértékére utaló jelzéssel kell ellátni a Rendőrségről szóló 1994. évi XXXIV. törvény felhatalmazásán alapuló jogszabály szerint.

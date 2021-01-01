@@ -10,7 +10,7 @@ c) mozgáskorlátozó eszközök alkalmazása,
 
 d) elektronikus távfelügyeleti eszköz alkalmazása,
 
-e) elektronikus megfigyelési eszköz alkalmazása,
+e) elektronikus megfigyelési eszköz vagy az ellenőrzést biztosító megfigyelési eszköz alkalmazása,
 
 f) motozás,
 

@@ -6,9 +6,17 @@
 
 (2) A bíróság a kiutasítás végrehajtása érdekében értesíti az elítélt lakcíme, illetve tényleges tartózkodási helye szerint illetékes területi idegenrendészeti hatóságot.
 
-(3) A kiutasítást – ha azt végrehajtandó szabadságvesztés vagy elzárás mellett szabták ki – a szabadságvesztés vagy elzárás kiállása után, egyébként az ügydöntő határozat jogerőre emelkedése után kell végrehajtani.
+(3) A kiutasítást,
 
-(4) Ha az elítélt szabadságvesztést – ideértve a közérdekű munka vagy a pénzbüntetés helyébe lépő szabadságvesztést is – vagy elzárást tölt, a várható szabadulása előtt harminc nappal a bv. intézet értesíti a székhelye szerint illetékes területi idegenrendészeti hatóságot.
+a) ha azt végrehajtandó szabadságvesztés vagy elzárás mellett szabták ki, a szabadságvesztés vagy elzárás kiállása után,
+
+b) ha az elítélttel szemben más büntetőügyben szabadságvesztést szabtak ki, annak kiállása után,
+
+c) egyéb esetben az ügydöntő határozat jogerőre emelkedése után
+
+kell végrehajtani.
+
+(4) Ha az elítélt szabadságvesztést vagy elzárást tölt, a várható szabadulása előtt harminc nappal a bv. intézet értesíti a székhelye szerint illetékes területi idegenrendészeti hatóságot.
 
 (5) A kiutasítást a területi idegenrendészeti hatóság a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvények rendelkezései szerint hajtja végre.
 

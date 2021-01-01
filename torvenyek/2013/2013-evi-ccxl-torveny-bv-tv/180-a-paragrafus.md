@@ -27,3 +27,5 @@ a) átmeneti részlegben van,
 b) várható szabadulása négy hónapon belül esedékes, vagy
 
 c) személyi vagy családi körülményei a kimaradást, eltávozást különösen indokolják.
+
+(4) A bv. intézet a kimaradás, az eltávozás és a látogató bv. intézeten kívüli fogadása engedélyezéséről való döntés megalapozása érdekében az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentés készítése céljából megkeresheti az elítélt által az eltávozás helyeként megjelölt lakcíme, illetve tényleges tartózkodási helye szerint illetékes rendőrkapitányságot.

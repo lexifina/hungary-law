@@ -28,4 +28,6 @@ j) a képességeinek és a bv. intézet adottságainak megfelelő képzésben, i
 
 (4) Az elítélt keresményének és rendszeres pénzellátásának meghatározott részét a szabadulása idejére tartalékolni kell. A fogvatartás megkezdésétől a tartalékolás havonta meghatározott összege a fogvatartás első négy évében az egyhavi alapmunkadíj ötven százalékának egytizenketted része, ezt meghaladó tartamú fogvatartás esetén havonta az egyhavi alapmunkadíj huszonöt százalékának egytizenketted része.
 
+(4a) A bv. intézet által kezelt letéti számlára az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás keretében kifizetett összeget az elítélt szabadulása idejére kell tartalékolni. A bv. intézet parancsnoka az elítélt kérelmére jogszabályban meghatározott különös méltánylást érdemlő körülmény esetén engedélyezheti a kártalanítás keretében kifizetett összegnek vagy egy részének a kifizetését az elítélt hozzátartozója vagy kapcsolattartója részére.
+
 (5) Az elítélt köteles együttműködni a bv. intézet a pártfogó felügyelői szolgálat és a reintegrációs tevékenységben részt vevő szervezet megbízottjával.

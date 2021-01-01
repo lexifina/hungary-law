@@ -8,6 +8,8 @@
 
 (4) Ha a mentesítés törvényi előfeltételei hiányoznak, a bíróság a kérelmet elutasítja, egyébként érdemben elbírálja.
 
+(4a) A bíróság mentesítést engedélyező végzése ellen az ügyészség által benyújtott fellebbezésnek halasztó hatálya van.
+
 (5) A bíróság a mentesítést kimondó határozat hatályon kívül helyezéséről az ügyészség indítványára vagy hivatalból utólag határoz, ha
 
 a) a mentesítés hatályát vesztette [Btk. 101. § (4) bekezdés és 102. § (2) bekezdés], vagy

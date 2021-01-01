@@ -14,7 +14,7 @@ e) a kényszergyógykezelt elbocsátásáról, engedély nélküli eltávozásá
 
 f) javítóintézeti nevelés esetén a fiatalkorú ideiglenes vagy végleges elbocsátásáról, a javítóintézet engedély nélküli elhagyásáról, illetve a javítóintézeti nevelés félbeszakításáról.
 
-(2) A kérelmet a büntetőügyben eljáró bíróságnál, letartóztatott, illetve előzetes kényszergyógykezelt esetén a büntetőügyben eljáró ügyészségnél kell benyújtani, és abban meg kell jelölni, hogy milyen lakcímre kéri a kérelmező az értesítést. A kérelem a bírósághoz vagy az ügyészséghez történő bejelentéssel visszavonható.
+(2) A kérelmet a büntetőügyben eljáró vagy eljárt bíróságnál, letartóztatott, illetve előzetes kényszergyógykezelt esetén a büntetőügyben eljáró ügyészségnél kell benyújtani, és abban meg kell jelölni, hogy milyen lakcímre vagy értesítési címre kéri a kérelmező az értesítést. A kérelem a bírósághoz vagy az ügyészséghez történő bejelentéssel visszavonható.
 
 (3) A letartóztatást, az előzetes kényszergyógykezelést, a végrehajtandó szabadságvesztést, az elzárást vagy a kényszergyógykezelést foganatosító bv. intézet a bíróság vagy az ügyészség értesítése alapján a kérelmet a fogvatartotti nyilvántartásban rögzíti, és a végrehajtandó szabadságvesztésre ítélt végleges szabadon bocsátásáról a szabadulás előtt egy hónappal, minden más esetben az értesítési kötelezettséget megalapozó esemény bekövetkezését követően haladéktalanul tájékoztatja a Büntetés-végrehajtás Országos Parancsnokságát (a továbbiakban: BVOP), amely haladéktalanul értesítést küld a sértett, illetve a Be. 52. § (1) bekezdése alapján a sértett jogait gyakorló személy részére az elítélt vagy az egyéb jogcímen fogvatartott szabadon bocsátásának időpontjáról vagy szökéséről.
 

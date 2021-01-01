@@ -10,4 +10,6 @@
 
 a) a halasztás ideje, valamint a büntetés-félbeszakítás és a 14. § szerinti végrehajtási sorrendre tekintettel történő megszakítás tartama,
 
-b) az a tartam, amely alatt a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés azért nem hajtható végre, mert a külföldi igazságügyi hatóság az elítélt kiadatásának vagy átadásának végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta.
+b) az a tartam, amely alatt a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés azért nem hajtható végre, mert a külföldi igazságügyi hatóság az elítélt kiadatásának vagy átadásának végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta,
+
+c) kiutasítás esetén az a) és b) pontban meghatározottakon kívül az a tartam, amely alatt az elítélt más büntetőügyben kiszabott szabadságvesztést tölt.

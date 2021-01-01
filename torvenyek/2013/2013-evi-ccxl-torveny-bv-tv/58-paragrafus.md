@@ -1,5 +1,7 @@
 58. § (1) A feltételes szabadságra bocsátásról soron kívül kell határozni, ha a Btk. 92–92/B. §-a alapján beszámított időt is figyelembe véve az elítélt az ügydöntő határozat jogerőre emelkedésekor feltételes szabadságra lenne bocsátható.
 
+(1a) Ha az elítélt szabadlábon van, az eljárást az elítélt lakcíme, illetve tényleges tartózkodási helye szerint illetékes büntetés-végrehajtási bíró folytatja le.
+
 (2) A büntetés-végrehajtási bíró
 
 a) a meghallgatás időpontjáról a bv. intézetet és az ügyészséget, a védőt, ha a pártfogó felügyelő meghallgatása szükséges, a büntetés-végrehajtási pártfogó felügyelőt, továbbá, ha az elítélt fiatalkorú, a törvényes képviselőjét értesíti,

@@ -6,7 +6,7 @@
 
 (3) Ha a jogosult a bírósági felülvizsgálati kérelem megtételében akadályoztatva volt, a bírósági felülvizsgálati kérelmet az akadály megszűnésétől számított tizenöt napon belül lehet igazolási kérelemmel együtt előterjeszteni. Az igazolási kérelemben elő kell adni a mulasztás okát és azokat a körülményeket, amelyek a mulasztás vétlenségét valószínűsítik. A határozat meghozatalától számított három hónapon túl igazolási kérelem nem terjeszthető elő.
 
-(4) A bírósági felülvizsgálati kérelem benyújtásra nyitva álló határidő lejártát követően a végrehajtásért felelős szerv, illetve szervezeti egység vezetője haladéktalanul felterjeszti az iratokat a bírósághoz.
+(4) A bírósági felülvizsgálati kérelem benyújtására nyitva álló határidő lejártát követően a végrehajtásért felelős szerv, illetve szervezeti egység vezetője – az ügyészség útján – haladéktalanul felterjeszti az iratokat a bírósághoz. Az ügyészség öt munkanapon belül – szükség szerint vélemény megtételével – továbbítja az iratokat a bírósághoz.
 
 (5) A bírósági felülvizsgálati kérelmet a határozatot hozó végrehajtásért felelős szerv, illetve szervezeti egység székhelye szerint illetékes büntetés-végrehajtási bíró – a 73. és 75. §-ban írt eljárások kivételével – iratok alapján bírálja el. Ezekben az ügyekben bírósági titkár nem járhat el.
 

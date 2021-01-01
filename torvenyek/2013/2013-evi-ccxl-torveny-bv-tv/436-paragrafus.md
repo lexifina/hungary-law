@@ -27,3 +27,25 @@ b) aki az alapvető jogokat sértő elhelyezési körülmények miatt az EJEB-he
 (11) A (10) bekezdés esetén a 10/A. § (4) bekezdésben meghatározott jogvesztő határidő e rendelkezés hatálybalépésének napjával kezdődik. A (10) bekezdés alapján benyújtott kérelmek elbírálása során a 10/A. § (6) bekezdése nem alkalmazható, továbbá a büntetés-végrehajtási bíró eljárására az 50. § (1) bekezdés d) pontjában megállapított határidő harminc nappal meghosszabbodik.
 
 (12) Ha adat merül fel arra, hogy a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény és ehhez kapcsolódóan más törvények módosításáról szóló 2016. évi CX. törvény 22. §-ával megállapított 10/A. § szerinti kártalanítási igény hatálybalépését megelőzően az alapvető jogokat sértő elhelyezési körülmények miatt
+
+a) a polgári bíróság előtt eljárás indult, vagy
+
+b) az EJEB-hez kérelmet nyújtottak be és a kérelmet az EJEB a módosítás hatálybalépésének napjáig nyilvántartásba vette,
+
+a büntetés-végrehajtási bíró ezen eljárások befejezéséig, illetve az EJEB eljárása esetében az ügy nemzeti elbírálásra való utalásáról szóló értesítéséig az eljárást felfüggeszti.
+
+(13) E törvénynek a büntetőeljárásról szóló 2017. évi XC. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXCVII. törvény 432. §-ával megállapított 69/A–69/C. § szerinti eljárásokat a korábbi jogszabály szerint hatáskörrel és illetékességgel rendelkező bíróság folytatja le, ha
+
+a) a 329. § (1) bekezdése szerinti kórrajzkivonat, vagy
+
+b) az indítvány, illetve a kérelem,
+
+2018. június 30. napjáig a bíróságra beérkezett.
+
+(14) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését követően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozatban megítélt kártalanítási összeg 2020. június 15-ig nem fizethető ki. E bekezdés szerinti felfüggesztés időtartama a 70/B. § (6) bekezdésében foglalt időtartamba nem számít bele.
+
+(15) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését megelőzően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozat a meghozatalakor hatályos szabályok szerint teljesítendő.
+
+(16) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését követően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozatban megítélt kártalanítási összegből a 10/B. § (5) bekezdés a) pontja szerinti kifizetés 2020. december 31-ig nem teljesíthető. E bekezdés szerinti felfüggesztés időtartama a 70/B. § (6) bekezdésében foglalt időtartamba nem számít bele.
+
+(17) A (14) bekezdés alapján felfüggesztett kifizetések esetén – a (16) bekezdésben foglaltakra figyelemmel – a 10/B. §-ban meghatározottakat 2020. szeptember 15. napjáig kell teljesíteni.

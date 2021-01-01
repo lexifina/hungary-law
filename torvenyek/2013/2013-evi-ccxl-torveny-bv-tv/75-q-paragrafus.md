@@ -1,0 +1,5 @@
+75/Q. § (1) Ha az elítélt a kártalanítás iránti kérelmet a fogvatartása alatt nyújtotta be és részére kifizetést kell teljesíteni, az igazságügyért felelős miniszter rövid úton a BVOP megkeresésével ellenőrzi, hogy az elítélt fogvatartása a kifizetés 75/O. § (1) bekezdésében meghatározott határidejéig várhatóan fennáll-e.
+
+(2) Ha a BVOP az igazságügyért felelős minisztert arról tájékoztatja, hogy az elítélt már szabadult, az igazságügyért felelős miniszter mindaddig nem teljesíti a kifizetést, amíg az elítélt a 75/S. § (2) bekezdése alapján a számlaszám megváltozását be nem jelenti.
+
+(3) Ha a BVOP az igazságügyért felelős minisztert arról tájékoztatja, hogy az elítélt a kifizetés 75/O. § (1) bekezdésében meghatározott határidejéig várhatóan szabadulni fog, az igazságügyért felelős miniszter abban az esetben teljesíti a kifizetést, ha azt a 75/R. §-ban meghatározottakra tekintettel teljesíteni lehet. Ha nem teljesíthető a kifizetés, a (2) bekezdésben meghatározottak szerint kell eljárni.

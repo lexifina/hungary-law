@@ -22,4 +22,8 @@ g)
 
 (5) A magánelzárás végrehajtása folytán elmaradt látogatás, csomagküldemény és az elítélt személyes szükségleteire szolgáló vásárlás a magánelzárás végrehajtása után engedélyezhető.
 
-(6) Ha az orvos vagy a pszichológus az elítélt egészségi állapota miatt a magánelzárás végrehajtásának megkezdését, vagy folytatását nem javasolja, a magánelzárás végrehajtását félbe kell szakítani.
+(6) A bv. orvos az elítélt öngyilkosságra irányuló vagy önkárosító magatartásának magas kockázata, valamint fiatalkorú esetén, – egyéb esetben szükség szerint – pszichológus bevonásával a magánelzárás végrehajtásának megkezdése előtt, továbbá a végrehajtás alatt jogszabályban meghatározott rendszerességgel megvizsgálja az elítéltet. Ha a bv. orvos vagy a pszichológus az elítélt egészségi állapotára tekintettel a magánelzárás végrehajtásának megkezdését vagy továbbfolytatását nem javasolja, a magánelzárás végrehajtását el kell halasztani, illetve félbe kell szakítani. A halasztás és a félbeszakítás ideje a magánelzárás tartamába nem számít be.
+
+(7) Ha a végrehajtást akadályozó vagy a félbeszakítást eredményező körülmény a fenyítés kiszabásától számított hat hónapig folyamatosan fennáll, a magánelzárás nem hajtható végre.
+
+(8) Fegyelmi elkülönítés esetén, ha az egyszemélyes elhelyezéssel jár, a 146. § (5) bekezdését megfelelően alkalmazni kell.

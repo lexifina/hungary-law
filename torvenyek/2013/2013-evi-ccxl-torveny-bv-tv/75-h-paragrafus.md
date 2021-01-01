@@ -1,0 +1,1 @@
+75/H. § Ha nincs helye a kérelem visszautasításának és az egyszerűsített elbírálásának sem, akkor a bv. intézet a kérelmet a jogszabályban meghatározott iratokkal együtt továbbítja a büntetés-végrehajtási bíróhoz.

@@ -2,7 +2,7 @@
 
 (1a) Az (1) bekezdés szerinti esetben a kártérítési eljárást a 143. § (1) bekezdésében meghatározott bv. szerv folytatja le.
 
-(2) Ha az elítéltet az általa okozott kár megtérítésére a bv. szerv határozattal kötelezte, ellene a határozatot hozó bv. szerv székhelye szerint illetékes bíróságnál, illetve a munkával összefüggésben megállapított kártérítési kötelezettség esetén a munkaügyi perben eljáró bíróságnál a közléstől számított harminc napos jogvesztő határidőn belül keresetet indíthat. A munkáltatással összefüggő kárigény miatt indított bírósági eljárásban a polgári perrendtartásról szóló törvény munkaügyi perekre vonatkozó szabályait kell alkalmazni.
+(2) Ha az elítéltet az általa okozott kár megtérítésére a bv. szerv határozattal kötelezte, ellene a határozatot hozó bv. szerv székhelye szerint illetékes bíróságnál, illetve a munkával összefüggésben megállapított kártérítési kötelezettség esetén a munkaügyi perben eljáró bíróságnál a közléstől számított harminc napos jogvesztő határidőn belül keresetet indíthat.
 
 (3) A kereset benyújtása a kár összegének az elítélt bv. intézet által kezelt letéti számlájáról történő levonására nincs halasztó hatálya.
 

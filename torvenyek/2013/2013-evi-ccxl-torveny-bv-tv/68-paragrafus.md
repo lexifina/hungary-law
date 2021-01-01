@@ -16,7 +16,7 @@
 
 (8) Az ügyészség indítványára a büntetés-végrehajtási bíró az elítélt pártfogó felügyeletét megszünteti, ha a pártfogó felügyelet fele része, de legalább egy év eredményesen eltelt, és annak szükségessége már nem áll fenn. A büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést.
 
-(9) Az ügydöntő határozatban előírt külön magatartási szabályok megváltoztatása iránt a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő tesz javaslatot a büntetés-végrehajtási bírónak. A külön magatartási szabályok megváltoztatása iránti javaslatnak a pártfogolt kérelme alapján is helye van. Ez utóbbi esetben a büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést.
+(9) Az ügydöntő határozatban előírt külön magatartási szabályok megváltoztatása iránt a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő tesz javaslatot a büntetés-végrehajtási bírónak. A külön magatartási szabályok megváltoztatása iránti javaslatnak a pártfogolt kérelme alapján is helye van. A büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést.
 
 (10) A pártfogolt kérelme esetén a büntetés-végrehajtási bíró a büntetés-végrehajtási pártfogó felügyelőt meghallgathatja, és pártfogó felügyelői véleményt szerezhet be.
 

@@ -14,6 +14,8 @@
 
 6. elektronikus távfelügyeleti eszköz: az elítélt vagy az egyéb jogcímen fogvatartott mozgását nyomon követő technikai eszköz,
 
+6a. ellenőrzést biztosító megfigyelési eszköz: olyan, az elektronikus megfigyelési eszköz körén kívül eső műszaki-technikai megoldás, amelynek segítségével az elítélt vagy az egyéb jogcímen fogvatartott tevékenysége időszakosan megfigyelhető,
+
 7. értesítőlap: a bíróság által a végrehajtás érdekében a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ügydöntő határozat meghozatalát követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
 
 8. fogvatartással kapcsolatos ügy: minden olyan ügy, amely nem tartozik a büntetés-végrehajtási ügy körébe, de az elítélt vagy az egyéb jogcímen fogvatartott fogvatartásával összefügg, ideértve a bv. intézet által lefolytatandó kártérítési eljárást is,

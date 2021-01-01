@@ -18,6 +18,8 @@ b) fogva lévő elítélt esetén a bv. intézet vagy a javítóintézet érték
 
 c) az elítélt életvitelével összefüggő nyilvános adatokról készített rendőrségi jelentést kérhet.
 
+(6a) A környezettanulmányt a szabadságvesztést töltő vagy pártfogó felügyelet alatt álló feltételes szabadságra bocsátott elítéltet érintő kegyelmi eljárás esetén a büntetés-végrehajtási pártfogó felügyelő, egyéb esetben a pártfogó felügyelő készíti el.
+
 (7) A döntéshez szükséges adatokat tartalmazó ügyiratokat és egyéb iratokat, valamint a kegyelmi kérelmet, illetve a kegyelmi kezdeményezést a tanács elnöke az adatok, iratok beszerzését követő nyolc napon belül az igazságügyért felelős miniszterhez felterjeszti.
 
 (8) Ha a kegyelmi eljárás során egészségügyi okra hivatkoznak, az igazságügyért felelős miniszter az előterjesztés előkészítése során – a büntetés végrehajtásának megkezdésére halasztó hatállyal – elrendelheti az elítéltnek a Büntetés-végrehajtás Egészségügyi Központban (a továbbiakban: BVEK) vagy az IMEI-ben történő szakorvosi vizsgálatát.

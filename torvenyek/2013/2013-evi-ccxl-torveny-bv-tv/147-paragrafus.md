@@ -8,7 +8,9 @@ b) saját vagy mások életét, testi épségét, illetve vagyontárgyakat sért
 
 (3) A (2) bekezdésben meghatározott időtartamot meghaladóan a biztonsági zárkába helyezés – alkalmanként – legfeljebb hat hónappal való meghosszabbításáról, valamint az elítéltnek legfeljebb hat hónapra biztonsági részlegre helyezéséről, vagy annak – alkalmanként – legfeljebb hat hónappal való meghosszabbításáról az országos parancsnok indokolt határozattal dönt.
 
-(4) A biztonsági zárkába vagy részlegre helyezésről való döntés, valamint annak felülvizsgálata során az elítéltet meg kell hallgatni. Az alkalmazásáról való döntés során a meghallgatás a bv. intézet biztonsága, illetve bűncselekmény megelőzése érdekében mellőzhető.
+(4) A biztonsági zárkába vagy részlegre helyezésről való döntés, valamint annak felülvizsgálata során az elítéltet meg kell hallgatni, és el kell végezni – szükség esetén pszichológus bevonásával – az orvosi vizsgálatát. Az alkalmazásáról való döntés során a meghallgatás a bv. intézet biztonsága, illetve bűncselekmény megelőzése érdekében mellőzhető.
+
+(4a) A bv. orvos – szükség esetén pszichológus bevonásával – a biztonsági zárkába vagy részlegre helyezés alatt jogszabályban meghatározott rendszerességgel megvizsgálja az elítéltet. A bv. orvos vagy a pszichológus az elítélt egészségi állapotára tekintettel kezdeményezheti a bv. intézet parancsnokánál a biztonsági zárkába vagy részlegre helyezés felfüggesztését. A felfüggesztés ideje a biztonsági zárkába vagy részlegre helyezés tartamába nem számít be. Az ön- vagy közveszélyes magatartást tanúsító elítélt esetén a 146. § (6) bekezdését megfelelően alkalmazni kell.
 
 (5) A bv. intézet parancsnoka és az országos parancsnok határozata ellen az elítélt bírósági felülvizsgálati kérelmet nyújthat be.
 

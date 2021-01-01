@@ -14,11 +14,13 @@ b) az elítélt büntetés végrehajtása alatt tanúsított magatartását,
 
 c) az elítéltnek a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
 
-d) az elítélt törvénytisztelő életmód folytatására vonatkozó készségét
+d) ha az elítélt által elkövetett bűncselekménynek nem volt sértettje, az elítélt által az igazságügyért felelős miniszter által vezetett minisztérium „bűncselekmények áldozatainak kárenyhítése” megnevezésű célelőirányzata javára teljesített befizetés tényét,
+
+e) az elítélt törvénytisztelő életmód folytatására vonatkozó készségét
 
 vizsgálja.
 
-(2) Ha az elítélt által a Btk. 92–92/B. §-a szerinti beszámításra figyelemmel indokolt, a feltételes szabadságra bocsátás tárgyában a bv. intézet soron kívül, egyébként a feltételes szabadságra bocsátás lehetséges időpontja előtt három hónappal tesz előterjesztést a büntetés-végrehajtási bírónak. Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
+(2) Ha az elítélt által a Btk. 92–92/B. §-a szerinti beszámításra figyelemmel indokolt, a feltételes szabadságra bocsátás tárgyában a bv. intézet soron kívül, egyébként a feltételes szabadságra bocsátás lehetséges időpontja előtt két hónappal tesz előterjesztést a büntetés-végrehajtási bírónak, és ha a feltételes szabadság tartama a két évet eléri, csatolja az elítélt által megjelölt letelepedés helye szerint illetékes büntetés-végrehajtási pártfogó felügyelő által készített környezettanulmányt.
 
 (2a) Ha a feltételes szabadságra bocsátásról való rendelkezésnek a Btk. 38. § (6) bekezdése alapján van helye, az előterjesztéshez csatolni kell
 
@@ -27,6 +29,8 @@ a) az elítélt számára meghatározott egyéniesített fogvatartási programte
 b) az elítélt mentális állapotára vonatkozó szakorvosi és pszichológusi véleményt, amennyiben a bíróság az elkövető korlátozott beszámítási képességét állapította meg az ügydöntő határozatban,
 
 c) az elítélt kiskorú gyermekével kapcsolatosan beszerzett gyámhatósági véleményt.
+
+(2b) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
 
 (3) A büntetés-végrehajtási bíró a határozott ideig tartó szabadságvesztésből feltételes szabadságra bocsátott elítélt pártfogó felügyeletét (Btk. 69. §) rendelheti el, és az elítélt számára a Btk. 71. § (2)–(3) bekezdése alapján külön magatartási szabályokat írhat elő.
 

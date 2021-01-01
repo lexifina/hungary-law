@@ -2,7 +2,7 @@
 
 (2) A büntetés-végrehajtás rendjének biztosítása, valamint bűncselekmények, szabálysértések és fegyelmi vétségek vagy más jogsértések megelőzése céljából a biztonsági zárkában és részlegen, a biztonsági elkülönítőben, a HSR részlegen, a fegyelmi elkülönítőben és a magánelzárás fenyítés végrehajtására kialakított zárkában, valamint az elítéltek szállítására szolgáló járműben is elhelyezhető elektronikus megfigyelési eszköz.
 
-(3) A korábban öngyilkosságot megkísérlő vagy a saját testi épsége elleni önkárosító cselekményt elkövető elítélt zárkájában az elítélt életének, testi épségének megóvása érdekében helyezhető el elektronikus megfigyelési eszköz, ha az elítélt viselkedésének folyamatos nyomon követése szükséges, valamint, ha az elítélt életének és testi épségének megóvása érdekében az egyébként szükséges.
+(3) Annak az elítéltnek a zárkájában, aki korábban öngyilkosságot kísérelt meg vagy a saját testi épsége elleni önkárosító cselekményt követett el, továbbá akinél az öngyilkosságra irányuló vagy az önkárosító magatartás magas kockázata áll fenn, elektronikus megfigyelési eszköz helyezhető el, ha az elítélt életének és testi épségének megóvása érdekében az elítélt viselkedésének folyamatos nyomon követése szükséges. Kötelező az elektronikus megfigyelési eszköz alkalmazása a korábban öngyilkosságot megkísérlő vagy a saját testi épsége elleni önkárosító cselekményt elkövető elítélt biztonsági elkülönítése, biztonsági zárkába helyezése, magánelzárás fenyítésének végrehajtása és egyszemélyes elhelyezéssel járó fegyelmi elkülönítése során.
 
 (4) A (2) és (3) bekezdésben meghatározott helyszínen elhelyezett elektronikus megfigyelési eszköz nem alkalmazható külön légterű illemhely, vagy fürdőhelyiség megfigyelésére.
 

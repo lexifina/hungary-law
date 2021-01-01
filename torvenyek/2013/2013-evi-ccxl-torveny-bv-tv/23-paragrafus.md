@@ -2,4 +2,6 @@
 
 (2) A végrehajtásért felelős szerv, illetve szervezeti egység vezetője hivatalból vagy kérelemre a határozatot kiegészítheti, ha az ügy érdeméhez tartozó kérdésben nem határozott. A kiegészítés a határozat egyéb rendelkezéseit nem érintheti.
 
-(3) A kijavítást és a kiegészítést az alaphatározat eredeti példányára és lehetőleg kiadmányaira is fel kell jegyezni, továbbá az alaphatározatra előírt módon mindazokkal közölni kell, akikkel az alaphatározatot közölték.
+(3) A kijavítást és a kiegészítést az alaphatározat eredeti példányára és lehetőleg kiadmányaira is fel kell jegyezni, vagy a kijavításról, illetve a kiegészítésről határozatot kell hozni, továbbá az alaphatározatra előírt módon mindazokkal közölni kell, akikkel az alaphatározatot közölték.
+
+(4) A kijavítással és a kiegészítéssel szemben ugyanolyan jogorvoslatnak van helye, mint amely az eredeti határozattal szemben benyújtható.

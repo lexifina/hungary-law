@@ -42,4 +42,4 @@ b) a letartóztatott hozzátartozójának kapcsolattartóként való nyilvántar
 
 (7) Fokozott őrzés elrendelése esetén a letartóztatott fogvatartásáról, szállításáról, valamint előállítása, illetve a 394. § (3) és (7) bekezdése szerinti jogának a gyakorlása során az őrzéséről a magas szintű biztonsági kockázati besorolásnak megfelelően kell gondoskodni.
 
-(8) Ha a letartóztatott vagy a védő az alapvető jogokat sértő elhelyezési körülmények miatt panasszal élt, a bv. intézet parancsnoka a rendelkezési jogkör gyakorlójának a letartóztatott más bv. intézetbe történő átszállításához való hozzájáruló nyilatkozatát is mellékeli a 144/B. § (3) bekezdésében meghatározott megkereséshez. Ez esetben a panasz elbírálására és a határozat meghozatalára a panasz benyújtásától számított harminc nap áll rendelkezésre.
+(8)

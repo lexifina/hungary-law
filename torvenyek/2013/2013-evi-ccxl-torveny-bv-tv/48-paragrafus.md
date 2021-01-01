@@ -1,8 +1,8 @@
-48. § (1) A szabadságvesztés – ideértve a 64. § és a 66. § szerinti szabadságvesztést is –, az elzárás, a közérdekű munka kiszabása vagy a javítóintézeti nevelés elrendelése esetén a büntetés-végrehajtási bíró a bíróság ügydöntő határozatának rendelkező része és az értesítőlapok alapján – külön jogszabályban meghatározottak szerint – megvizsgálja, hogy
+48. § (1) A szabadságvesztés – ideértve a 64. § és a 66. § szerinti szabadságvesztést is – és az elzárás kiszabása esetén a büntetés-végrehajtási bíró a bíróság ügydöntő határozatának rendelkező része és az értesítőlapok alapján – jogszabályban meghatározottak szerint – megvizsgálja, hogy
 
-a) nem állapítható-e meg a büntetés vagy az intézkedés végrehajtását kizáró ok, vagy e törvény szerinti egyéb végrehajtási akadály bekövetkezése,
+a) nem állapítható-e meg a büntetés vagy az intézkedés végrehajtását kizáró ok, vagy e törvény szerinti egyéb végrehajtási akadály bekövetkezése, és
 
-b) az elítélt a Btk. 92–92/B. §-a alapján beszámított időt is figyelembe véve töltött-e annyi időt, hogy a kiszabott szabadságvesztést, a 64. § és 66. § szerinti szabadságvesztést, az elrendelt javítóintézeti nevelést kitöltötte, vagy a szabadságvesztésből a feltételes szabadságra bocsátása vagy javítóintézeti nevelésből az ideiglenes elbocsátása kérdésében való döntés esedékes.
+b) a Btk. 92–92/B. §-a szerinti beszámítás alapján az elítélt a szabadságvesztést kitöltötte-e, vagy a szabadságvesztésből a feltételes szabadságra bocsátása kérdésében való döntés esedékes-e.
 
 (2) Ha a büntetés-végrehajtási bíró megállapítja a szabadságvesztés végrehajthatóságát, úgy az értesítőlap hiteles másolatának megküldésével értesíti a BVOP-t a szabadságvesztés megkezdésére felhívható elítéltekről.
 

@@ -16,9 +16,21 @@ b) a vádemelés után a bíróság végzéssel
 
 határoz.
 
-(6) Az (5) bekezdés alapján hozott, a nyilatkozattétel megtagadásáról szóló határozat ellen a letartóztatott és védője, az (5) bekezdés b) pontja alapján hozott, a nyilatkozattételt engedélyező határozat ellen az ügyészség a határozat kézbesítésétől számított öt munkanapon belül fellebbezhet, a fellebbezést az iratokkal együtt haladéktalanul fel kell terjeszteni.
+(6) A határozat kézbesítésétől számított öt munkanapon belül
 
-(7) A fellebbezést az iratok hozzá érkezését követően három munkanapon belül az (5) bekezdés a) pontja esetén a nyomozási bíró, az (5) bekezdés b) pontja esetén a törvényszék másodfokú tanácsa tanácsülésen bírálja el.
+a) a nyilatkozattétel megtagadásáról szóló határozat ellen, az (5) bekezdés a) pontja esetén a Be. 374. § (2) bekezdése szerint felülbírálati indítványt terjeszthet elő, az (5) bekezdés b) pontja esetén fellebbezést nyújthat be a letartóztatott és a védője,
+
+b) az (5) bekezdés b) pontja esetén, a nyilatkozattételt engedélyező határozat ellen az ügyészség fellebbezést nyújthat be.
+
+A felülbírálati indítványt, illetve a fellebbezést az iratokkal együtt haladéktalanul fel kell terjeszteni.
+
+(7) A fellebbezést az iratok hozzá érkezését követően három munkanapon belül
+
+a) az (5) bekezdés a) pontja szerinti esetben a nyomozási bíró,
+
+b) az (5) bekezdés b) pontja szerinti esetben a Be. 12. § (2) bekezdésében meghatározott bíróság tanácsülésen
+
+bírálja el.
 
 (8) Ha az országos parancsnok a (3) bekezdés alapján a közzététel megtagadására lát okot, akkor erről a 125. § (2) bekezdése szerinti kérelem benyújtásától számított három munkanapon belül javaslatot tesz, és azt a kérelemmel és a közlésre szánt anyaggal együtt megküldi a vádemelés előtt az ügyészségnek, a vádemelés után a bíróságnak. Az ügyészség vagy a bíróság eljárására az (5)–(7) bekezdést kell alkalmazni.
 

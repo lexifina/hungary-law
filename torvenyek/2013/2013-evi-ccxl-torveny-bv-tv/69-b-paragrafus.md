@@ -17,3 +17,5 @@
 (8) A felülvizsgálat előtt – az (5) bekezdésben meghatározott kivétellel – elmeorvos-szakértői véleményt kell beszerezni. Az eljárásban az IMEI orvosa az elmeorvos-szakértői vélemény kialakításában egyik szakértőként közreműködhet.
 
 (9) A kényszergyógykezelés felülvizsgálatáról hozott végzés ellen a kényszergyógykezelés alatt álló házastársa, élettársa és törvényes képviselője is fellebbezhet.
+
+(10) A kényszergyógykezelés megszüntetéséről hozott végzés ellen az ügyészség által benyújtott fellebbezésnek a végrehajtásra halasztó hatálya van.

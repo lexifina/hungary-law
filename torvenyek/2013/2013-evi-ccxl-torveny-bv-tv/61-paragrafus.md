@@ -9,3 +9,5 @@
 (4) Az ügyészség által elrendelt ideiglenes foganatba vétel időtartama legfeljebb öt nap. Az ügyészség határozata ellen a Be. szerinti panasznak van helye.
 
 (5) Az ügyészség indítványának elutasítása esetén a bűnügyi költséget az állam viseli.
+
+(6) A feltételes szabadságra bocsátás megszüntetése esetén, ha az elítélt szabadlábon van, a büntetés-végrehajtási bíró végzése elleni fellebbezésnek halasztó hatálya van.
