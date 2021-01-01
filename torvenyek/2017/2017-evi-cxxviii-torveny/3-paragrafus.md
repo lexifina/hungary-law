@@ -10,7 +10,7 @@ d) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, kivéve a
 
 e) a bányakár megtérítése iránti perben,
 
-f) a személy életének, testi épségének vagy egészségének bűncselekménnyel történő megsértése miatti kár megtérítése, illetve sérelemdíj megfizetése iránt indított perben, és
+f) a természetes személy által – a bűncselekménnyel okozott kár megtérítése, illetve bűncselekménnyel összefüggésben felmerült sérelemdíj megfizetése iránt – indított perben, és
 
 g) a kapcsolattartásra vonatkozó határozat végrehajtása iránti nemperes eljárásban.
 
