@@ -58,9 +58,9 @@ bb) a 72/B. § (20) bekezdés szerinti esetben, vagy
 
 bc)[^19] ha a kérelmet hozzá vagy a Nyugdíjfolyósító Igazgatósághoz nyújtották be,
 
-c) a Tny. 22/A. § szerinti nyugdíjnövelés megállapítására irányuló, hivatalból induló eljárásokban,
+c)[^20] a Tny. 102/A. § szerinti nyugdíjnövelés megállapítására irányuló, hivatalból induló eljárásokban,
 
-d)[^20] a tartozás mérséklésére, elengedésére vagy fizetési kedvezmény engedélyezésére irányuló ügyekben, ha a tartozást a Nyugdíjfolyósító Igazgatóság vagy a Központ írta elő.
+d)[^21] a tartozás mérséklésére, elengedésére vagy fizetési kedvezmény engedélyezésére irányuló ügyekben, ha a tartozást a Nyugdíjfolyósító Igazgatóság vagy a Központ írta elő.
 
 [^12]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 11. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
@@ -70,4 +70,5 @@ d)[^20] a tartozás mérséklésére, elengedésére vagy fizetési kedvezmény 
 [^17]: A 3. § (4) bekezdés d) pontja a 449/2016. (XII. 19.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
 [^18]: A 3. § (5) bekezdés a) pontja a 171/2017. (VI. 29.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^19]: A 3. § (5) bekezdés b) pont bc) alpontja a 171/2017. (VI. 29.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^20]: A 3. § (5) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^20]: A 3. § (5) bekezdés c) pontja a 707/2020. (XII. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^21]: A 3. § (5) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

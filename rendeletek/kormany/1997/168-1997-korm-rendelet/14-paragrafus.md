@@ -1,14 +1,14 @@
 ## A havi átlagkereset meghatározása
 
-14. §[^45] (1)[^46] A szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából megállapodást kötő személy e minőségben eltöltött idejére a nyugellátás megállapításánál az az összeg számít keresetnek, amely után nyugdíjjárulékot, illetve a 2012. január 1-jét megelőző időszakra nyugdíjbiztosítási és nyugdíjjárulékot fizet.
+14. §[^48] (1)[^49] A szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából megállapodást kötő személy e minőségben eltöltött idejére a nyugellátás megállapításánál az az összeg számít keresetnek, amely után nyugdíjjárulékot, illetve a 2012. január 1-jét megelőző időszakra nyugdíjbiztosítási és nyugdíjjárulékot fizet.
 
 (2) Ha a nyugdíjigénylőt 1997. január 1-je előtt főfoglalkozásában a teljes (törvényes) munkaidőnél rövidebb időben foglalkoztatták, a mellékfoglalkozásból származó keresetet is figyelembe kell venni a havi átlagkereset meghatározásánál.
 
-(3)[^47] A 2013. január 1-jét megelőző időszakra a Tny. 22. §-a (1) bekezdésének a)–b) pontjaiban meghatározott kereset (jövedelem) megállapításánál a baleseti járadékot a nyugdíjjárulék-köteles kereset, jövedelem összegén felül akkor is figyelembe kell venni, ha a naptári évre számított kereset, jövedelem ezzel a járulékfizetési felső határösszeget meghaladja.
+(3)[^50] A 2013. január 1-jét megelőző időszakra a Tny. 22. §-a (1) bekezdésének a)–b) pontjaiban meghatározott kereset (jövedelem) megállapításánál a baleseti járadékot a nyugdíjjárulék-köteles kereset, jövedelem összegén felül akkor is figyelembe kell venni, ha a naptári évre számított kereset, jövedelem ezzel a járulékfizetési felső határösszeget meghaladja.
 
 (4) Ha a havi átlagkereset megállapításánál figyelembe vehető keresettel, jövedelemmel azonos időre baleseti rokkantsági nyugdíj járt, erre az időtartamra a 4. fokozatú baleseti járadéknak megfelelő összeget kell figyelembe venni.
 
-(5)[^48] A Tny. 22. § (1) bekezdés i) pontjának alkalmazása során
+(5)[^51] A Tny. 22. § (1) bekezdés i) pontjának alkalmazása során
 
 a) a 2020. július 1-jét megelőző időszakra az 1997. évi LXXX. törvény 2007. január 1-je és 2020. június 30-a között hatályos 30/A. § (2) bekezdése szerinti mezőgazdasági őstermelő esetén annak a bevételnek a 6 százalékát kell keresetként, jövedelemként figyelembe venni, amely bevétel 20 százaléka után a nyugdíjjárulékot,
 
@@ -22,16 +22,16 @@ a mezőgazdasági őstermelő megfizette.
 
 (8) A (7) bekezdésben foglaltakat kell alkalmazni az átlagszámítási időszaknak arra a tartamára nézve is, amelyet az igénylő szigorított javító-nevelő munkában töltött, vagy amely alatt a szakszövetkezeti tag 1992. március 1-je előtt társadalombiztosítási járulékot fizetett.
 
-(9)[^49]
+(9)[^52]
 
-(10)[^50] Ha nemzetközi egyezmény szakmai átlagkereset figyelembevételét írja elő, akkor ennek összegét a nyugdíjigénylő által leghosszabb ideig betöltött, szolgálati időként figyelembevételre kerülő munkakörben, álláshelyen (a továbbiakban együtt: munkakör), ennek hiányában ahhoz hasonló munkakörben, a magyar és a külföldi nyugellátás megállapításának időpontja közül a korábbi időpont szerinti – a foglalkoztatáspolitikáért felelős miniszter által közölt – kereset országos átlaga alapján, de a 2013. január 1-jét megelőző időszakra legfeljebb a nyugdíjjárulék-fizetési felső határ összegének figyelembevételével kell meghatározni.
+(10)[^53] Ha nemzetközi egyezmény szakmai átlagkereset figyelembevételét írja elő, akkor ennek összegét a nyugdíjigénylő által leghosszabb ideig betöltött, szolgálati időként figyelembevételre kerülő munkakörben, álláshelyen (a továbbiakban együtt: munkakör), ennek hiányában ahhoz hasonló munkakörben, a magyar és a külföldi nyugellátás megállapításának időpontja közül a korábbi időpont szerinti – a foglalkoztatáspolitikáért felelős miniszter által közölt – kereset országos átlaga alapján, de a 2013. január 1-jét megelőző időszakra legfeljebb a nyugdíjjárulék-fizetési felső határ összegének figyelembevételével kell meghatározni.
 
-(11)[^51]
+(11)[^54]
 
-[^45]: A 14. § a 365/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (3) bekezdését.
-[^46]: A 14. § (1) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 28. § b) pontj, a 306/2020. (VI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^47]: A 14. § (3) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^48]: A 14. § (5) bekezdése a 306/2020. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^49]: A 14. § (9) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § h) pontja hatályon kívül helyezte.
-[^50]: A 14. § (10) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § e) pontja, a 318/2014. (XII. 13.) Korm. rendelet 3. §-a, a 353/2014. (XII. 29.) Korm. rendelet 26. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 4. § d) pontja, a 102/2019. (V. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^51]: A 14. § (11) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^48]: A 14. § a 365/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (3) bekezdését.
+[^49]: A 14. § (1) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 28. § b) pontj, a 306/2020. (VI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^50]: A 14. § (3) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^51]: A 14. § (5) bekezdése a 306/2020. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^52]: A 14. § (9) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § h) pontja hatályon kívül helyezte.
+[^53]: A 14. § (10) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § e) pontja, a 318/2014. (XII. 13.) Korm. rendelet 3. §-a, a 353/2014. (XII. 29.) Korm. rendelet 26. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 4. § d) pontja, a 102/2019. (V. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^54]: A 14. § (11) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

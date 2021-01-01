@@ -1,3 +1,3 @@
-39. §[^81] A szolgálati időként figyelembe kell venni a 38. §-ban említett szervek hivatásos vagy továbbszolgáló állományában töltött időt.
+39. §[^84] A szolgálati időként figyelembe kell venni a 38. §-ban említett szervek hivatásos vagy továbbszolgáló állományában töltött időt.
 
-[^81]: A 39. § a 425/2012. (XII. 29.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^84]: A 39. § a 425/2012. (XII. 29.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.

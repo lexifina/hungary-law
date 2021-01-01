@@ -1,3 +1,3 @@
-75/B. §[^245] A nyugdíjfolyósító szerv minden naptári év január hónapban az ellátások tárgyév január hónapban és az előző évben kiutalt összegéről – az erre a célra rendszeresített nyomtatványon – tájékoztatja az ellátásban részesülőket.
+75/B. §[^246] A nyugdíjfolyósító szerv minden naptári év január hónapban az ellátások tárgyév január hónapban és az előző évben kiutalt összegéről – az erre a célra rendszeresített nyomtatványon – tájékoztatja az ellátásban részesülőket.
 
-[^245]: A 75/B. §-t a 377/2004. (XII. 28.) Korm. rendelet 9. §-a iktatta a szövegbe, e módosító rendelet 18. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^246]: A 75/B. §-t a 377/2004. (XII. 28.) Korm. rendelet 9. §-a iktatta a szövegbe, e módosító rendelet 18. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
