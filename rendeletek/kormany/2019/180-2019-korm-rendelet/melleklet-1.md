@@ -1,4 +1,4 @@
-1. melléklet a 180/2019. (VII. 26.) Korm. rendelethez[^12]
+1. melléklet a 180/2019. (VII. 26.) Korm. rendelethez[^14]
 
 I. Társadalmi Esélyteremtési Főigazgatóság
 
@@ -8,4 +8,4 @@ I. Társadalmi Esélyteremtési Főigazgatóság
 
 II. A Társadalmi Esélyteremtési Főigazgatóság igazgatóságai
 
-[^12]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^14]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 53. §-a szerint módosított szöveg.
