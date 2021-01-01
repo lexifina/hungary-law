@@ -18,13 +18,13 @@ e)[^7] a védett természeti terület, Natura 2000 terület, továbbá barlang j
 
 f) a védett élő szervezet, életközösség élőhelyének, illetőleg élettevékenységének jelentős mértékű zavarása esetén legfeljebb a zavarással érintett védett élő szervezetek, életközösségek pénzben kifejezett értékének az összege, élőhely esetében pedig a zavarással érintett területnagyság alapján, megkezdett hektáronként legfeljebb háromszázötvenezer forint;
 
-g)[^8] a természetvédelmi hatóság engedélyéhez, hozzájárulásához kötött tevékenység engedély, hozzájárulás nélkül vagy attól eltérően történő végzése esetén:
+g)[^8] a természetvédelmi hatósági engedély-köteles tevékenység, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenység engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően, továbbá a természet védelmét szolgáló jogszabályi előírást érintő bejelentés, ellenőrzött bejelentés nélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően történő végzése esetén:
 
 ga) védett természeti érték esetében legfeljebb az egyedek, egyes védett természeti értékek pénzben kifejezett értékének az összege,
 
 gb) barlang esetében legfeljebb ötszázezer forint,
 
-gc)[^9] védett természeti terület, Natura 2000 terület esetében a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint,
+gc)[^9] védett természeti terület, Natura 2000 terület esetében – a gf) alpontban foglaltak kivételével – a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint,
 
 gd) az ideiglenes vagy átmeneti védettség kimondásáról szóló hatósági határozat megsértésével okozott veszélyeztetés esetében a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint;
 
@@ -40,8 +40,8 @@ h)[^11] az a)–g) pontokba nem tartozó esetekben legfeljebb kettőszázezer fo
 [^5]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^6]: A 2. § (1) bekezdés d) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^7]: A 2. § (1) bekezdés e) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^8]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
-[^9]: A 2. § (1) bekezdés g) pont gc) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés g) pontja a 713/2020. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés g) pont gc) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (5) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § (1) bekezdés g) pont ge) alpontját a 336/2013. (IX. 20.) Korm. rendelet 2. § (6) bekezdése iktatta be.
 [^11]: A 2. § (1) bekezdés h) pontja a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^12]: A 2. § (2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
