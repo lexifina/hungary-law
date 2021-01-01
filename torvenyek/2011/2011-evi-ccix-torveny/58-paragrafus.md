@@ -24,7 +24,7 @@ b)
 
 c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, és a második felszólításban a szociálisan rászoruló felhasználó figyelmét felhívta az e törvény és a végrehajtására kiadott kormányrendelet alapján őt megillető kedvezményekre, valamint
 
-d) a felhasználási hely fekvése szerint illetékes népegészségügyi szervet a (4) bekezdésben foglaltak szerint értesítette.
+d) a felhasználási hely fekvése szerint illetékes népegészségügyi szervet a (4) bekezdésben foglaltak szerint értesítette az (1) bekezdés c) és e) pontja esetében történő intézkedések megtételéről.
 
 (3a) Ha a víziközmű-szolgáltató és a lakossági felhasználó az (1) bekezdés d) pontjában foglaltak alkalmazásában állapodott meg, de az előrefizetős mérő alkalmazásában történt megállapodást követően az előrefizetős mérő a felhasználói díjfizetés hiánya miatt lezár, akkor az (1) bekezdés a)–c) pontjaiban foglaltak alkalmazhatóak.
 

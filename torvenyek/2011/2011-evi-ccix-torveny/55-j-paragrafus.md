@@ -1,5 +1,15 @@
 55/J. § (1) Ha a víziközmű-szolgáltató az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték létesítésére irányuló a bekötéssel összefüggő terveket kivitelezésre alkalmatlannak minősítette, új terv benyújtását, vagy a tervek olyan kiegészítését írta elő, amellyel az igénybejelentő nem ért egyet, az igénybejelentő a műszaki biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem beérkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
 
+(1a) A víziközmű-szolgáltató a bekötéssel összefüggő tervek kivitelezésre alkalmasságával kapcsolatos nyilatkozatát az igénybejelentést követő 15 napon belül adja ki. Ha a víziközmű-szolgáltató e határidő lejártát követő napig nem nyilatkozik, az alkalmassággal kapcsolatos nyilatkozat megadottnak tekintendő és a csatlakozás a benyújtott, a bekötéssel összefüggő tervek alapján kivitelezhető.
+
+(1b) A víziközmű-szolgáltató – az igénybejelentő egyidejű tájékoztatása mellett – az (1a) bekezdés szerinti kivitelezés megtiltását kérelmezheti a műszaki biztonsági hatóságnál, ha a terv kivitelezésre alkalmatlan. A műszaki biztonsági hatóság a kérelem alapján dönt
+
+a) a tervek kivitelezésre alkalmassága tárgyában, illetve
+
+b) szükség szerint meghatározza azokat a műszaki biztonsági feltételeket, amelyek teljesülése esetén a terv kivitelezésre alkalmassága biztosítható.
+
+(1c) Az (1b) bekezdés szerinti eljárás az (1a) bekezdésben foglalt joghatás beálltától számított 20 napon belül kezdeményezhető. A határidő jogvesztő. A műszaki biztonsági hatóság az ügyben 20 napon belül dönt.
+
 (2) Amennyiben az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték létesítésével kapcsolatban az igénybejelentő nem a víziközmű-szolgáltatót, hanem a kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartásában szereplő személyt bízza meg, az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték átvételéről és üzembe helyezéséről a víziközmű-szolgáltató köteles gondoskodni, feltéve, hogy az – a víziközmű-szolgáltató által elfogadott vagy a műszaki biztonsági hatóság által alkalmassá nyilvánított – kiviteli tervnek megfelelően készült el.
 
 (3) A víziközmű-szolgáltató az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezéséről a kivitelezés befejezésének a víziközmű-szolgáltatóhoz történt bejelentésétől számított 8 munkanapon belül köteles nyilatkozni, továbbá köteles az ivóvíz-bekötővezetéket vagy szennyvíz-bekötővezetéket üzembe helyezni. Amennyiben a víziközmű-szolgáltató a 8 munkanapos határidőn belül nem nyilatkozik és az ehhez szükséges műszaki feltételek adottak, úgy az üzembe helyezés nem tagadható meg, a víziközmű-szolgáltató köteles az ivóvíz-bekötővezetéket vagy szennyvíz-bekötővezetéket azonnal üzembe helyezni.

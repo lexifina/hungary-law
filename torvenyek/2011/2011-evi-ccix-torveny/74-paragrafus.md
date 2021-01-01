@@ -18,7 +18,7 @@
 
 6. a Hivatal hatáskörébe tartozó hatósági tevékenység részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
 
-7.
+7. a víziközmű-felügyeleti bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait;
 
 8.
 
@@ -58,7 +58,7 @@
 
 26. a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartására vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
 
-27. a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt a műszaki-biztonsági hatóság előtt indított eljárás szabályait, valamint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi megtagadása esetén a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait, továbbá a jelen pontban megjelölt tevékenységeket végző műszaki biztonsági hatóságot
+27. a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt a műszaki-biztonsági hatóság előtt indított eljárás szabályait, valamint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi megtagadása esetén a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása, továbbá az 55/K. § (2) bekezdése szerinti eljárás anyagi és eljárási szabályait, továbbá a jelen pontban megjelölt tevékenységeket végző műszaki biztonsági hatóságot
 
 28. az IKVA Adatbázist üzemeltető szervezetet, valamint az IKVA Adatbázis működésének részletes szabályait, az adatszolgáltatás rendjét, a Hivatal és az IKVA adatbázist üzemeltető szervezet közötti együttműködés kereteit, az adatok IKVA Adatbázisban történő felhasználásának részletes szabályait
 
@@ -83,6 +83,8 @@ rendeletben állapítsa meg.
 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
 
 10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait, a felhasználók számára külön díj felszámítása nélkül biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
+
+(2a) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj mértékét – ide nem értve az 55/K. § (3) bekezdés szerinti díj mértékét –, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy rendeletben szabályozza a Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
 

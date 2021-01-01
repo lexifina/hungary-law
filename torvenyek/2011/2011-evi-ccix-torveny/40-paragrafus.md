@@ -1,1 +1,19 @@
-40. § Víziközmű-szolgáltatás engedély nélküli végzése esetében, ide nem értve a 31/A. § (1) bekezdése szerinti ideiglenes szolgáltatást, a Hivatal a tevékenység végzőjét azonnali hatállyal eltiltja a tevékenység folytatásától, továbbá a tevékenység végzőjével szemben a 40/B. § (3) bekezdésében foglalt jogkövetkezményeket megfelelően alkalmazhatja.
+40. § (1) A Hivatal hatósági eljárásaiban a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben (a továbbiakban: Szankciótv.) foglaltakon túlmenően az alábbi jogkövetkezményeket alkalmazhatja közigazgatási szabályszegés megállapítása esetén:
+
+a) jogellenes magatartás megszüntetésére kötelezés,
+
+b) tevékenység elvégzésére, intézkedés megtételére kötelezés,
+
+c) közérdekű tevékenység során okszerűen felmerült költségek megtérítésére kötelezés,
+
+d) jogszerű víziközmű-szolgáltatási díj alkalmazására kötelezés,
+
+e) jogsértő víziközmű-szolgáltatási díj alkalmazásából eredő többletbevétel visszatérítésére kötelezés,
+
+f) a Hivatal által kiadott hatósági engedély módosítása,
+
+g) a Hivatal által kiadott hatósági engedély visszavonása.
+
+(2) Víziközmű-szolgáltatás engedély nélküli végzése esetében, ide nem értve a 31/A. § (1) bekezdése szerinti ideiglenes szolgáltatást, a Hivatal – az (1) bekezdésben foglaltakon túlmenően – elrendelheti a tevékenységtől végzésétől történő eltiltást, továbbá a jogsértővel szemben a 40/B. § (3) bekezdésében foglalt jogkövetkezményeket alkalmazhatja.
+
+(3) A kormányhivatal a Szankciótv.-ben foglalt jogkövetkezményeken túl az ingatlantulajdonost kötelezheti vízmérési hely kiépítésére, illetve a víziközmű-hálózatba bekötésre is.

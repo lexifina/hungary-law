@@ -4,7 +4,7 @@
 
 (2) Ha a víziközmű idegen ingatlanon fekszik, a vízgazdálkodásról szóló törvényben meghatározott vízvezetési szolgalmi jog gyakorlása – a víziközmű üzemeltetési tevékenységéhez indokolt mértékben – a víziközmű-szolgáltatót megilleti. A víziközmű-szolgáltató viselni köteles a joggyakorlás következtében felmerülő terheket.
 
-(3) Az állami tulajdonú víziközmű felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
+(3) Az állami tulajdonú víziközmű felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság gyakorolja.
 
 (3a) A víziközművek vagyonbiztosításáról annak vagyonkezelője, ennek hiányában a tulajdonosa köteles gondoskodni. A vagyonbiztosítás díja vagyonkezelés esetén a vagyonkezelőt, vagyonkezelés hiányában a tulajdonost terheli. A tulajdonos az őt terhelő vagyonbiztosítási díjat a víziközmű-rendszer üzemeltetésbe adásából származó bevételei terhére is finanszírozhatja.
 

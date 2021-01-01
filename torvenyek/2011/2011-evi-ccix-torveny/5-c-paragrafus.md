@@ -8,6 +8,6 @@
 
 (4) Ha a Hivatal a hatósági ellenőrzés során megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
 
-a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a Hivatal felhívja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére,
+a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a Hivatal tájékoztatja az ügyfelet a jogszabálysértés tényéről, és határidő tűzésével kötelezi annak megszüntetésére,
 
-b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a Hivatal hivatalból megindítja a hatáskörébe tartozó eljárást, ideértve a hatáskörébe tartozó eljárási cselekmények megtételét és a jogkövetkezmény megállapítását is.
+b) ha az a) pont szerinti kötelezésben meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a Hivatal hivatalból megindítja a hatáskörébe tartozó eljárást, ideértve a hatáskörébe tartozó eljárási cselekmények megtételét és a jogkövetkezmény megállapítását is.
