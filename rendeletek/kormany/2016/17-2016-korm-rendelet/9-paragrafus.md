@@ -1,8 +1,4 @@
-9. § (1) Lakás bővítésének minősül
-
-a) a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység, ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is;
-
-b) emelet-ráépítéssel vagy tetőtér-beépítéssel létrehozott lakás akkor, ha az emelet-ráépítés vagy tetőtér-beépítés révén nem jön létre két új, önálló albetétként nyilvántartott lakás.
+9. § (1)[^37] Lakás bővítésének minősül a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység, ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést, valamint az emelet-ráépítést is abban az esetben, ha azok révén nem jön létre a 16/2016. (II. 1.) Korm. rendelet 3. § (1) bekezdés 9. pont b) alpontja szerinti új lakás.
 
 (2) A meglévő épület, épületrész vagy építmény átalakítása nem minősül a lakás bővítésének.
 
@@ -11,3 +7,5 @@ b) emelet-ráépítéssel vagy tetőtér-beépítéssel létrehozott lakás akko
 a) lakhatási körülményeiknek javulnia kell, valamint
 
 b) a kialakított lakásnak meg kell felelnie a 8. § (1) bekezdésében foglalt követelményeknek.
+
+[^37]: A 9. § (1) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -21,3 +21,7 @@ i) a lakással azonos ingatlan-nyilvántartási helyrajzi számon található me
 j) a korszerűsítéshez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés költségeinek legfeljebb 20%-áig.
 
 (2) A korszerűsítéshez igényelt családi otthonteremtési kedvezményből több, (1) bekezdés szerinti munkálat elvégzése is támogatható.
+
+(3)[^89] A 19/A. § (4) bekezdés a) vagy c) pontja, valamint (6) bekezdés a) vagy c) pontja szerinti támogatás igénybevétele esetén az igénylő a támogatási szerződésben vállalja, hogy a 14. § (3) bekezdés e) pontja szerinti számlabemutatási kötelezettsége keretében nem nyújt be olyan számlát, amelyet a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet alapján ugyanazon lakásra nyújtott otthonfelújítási támogatás kapcsán már elszámoltak.
+
+[^89]: A 19/B. § (3) bekezdését az 518/2020. (XI. 25.) Korm. rendelet 16. § (1) bekezdése iktatta be.
