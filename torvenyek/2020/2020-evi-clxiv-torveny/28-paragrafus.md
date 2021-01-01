@@ -2,4 +2,8 @@
 
 28. § (1)
 
-(2)
+(2) Hatályát veszti a Tfvtv.
+
+a) 9. § (2) bekezdése,
+
+b) 17. § (1e) bekezdésében az „a talajvédelmi hatóság által jóváhagyott,” szövegrész.
