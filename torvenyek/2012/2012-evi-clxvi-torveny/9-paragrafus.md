@@ -1,12 +1,8 @@
-9. § (1) Ha az üzemeltető nem tesz eleget e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott kormányrendeletben vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak, az ágazati kijelölő hatóság határozatban
+9. § (1) Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak,
 
-a) felszólítja az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetőjét a kötelezettségei betartására,
+a) az ágazati kijelölő hatóság kötelezi az üzemeltetői biztonsági terv soron kívüli módosítására vagy új üzemeltetői biztonsági terv készítésére, vagy
 
-b) kötelezi azonosítási jelentés elkészítésére és az ágazati kijelölő hatóság részére történő benyújtására,
-
-c) kötelezi az üzemeltetői biztonsági terv módosítására vagy új üzemeltetői biztonsági terv készítésére, vagy
-
-d) kormányrendeletben meghatározott mértékű bírságot szabhat ki.
+b) bírságot szab ki.
 
 (2) Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban foglalt előírásoknak, az ellenőrzést koordináló szerv a koordinált ellenőrzés során tapasztalt hiányosságokra figyelemmel kormányrendeletben meghatározottak szerint helyszíni bírságot szabhat ki.
 

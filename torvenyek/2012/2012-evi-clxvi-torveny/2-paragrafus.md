@@ -42,7 +42,7 @@ b) kötelezi az üzemeltetőt, hogy biztonsági összekötő személyt bízzon m
 
 c) az üzemeltető részére előírhat a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket.
 
-(8) Amennyiben az üzemeltető a (2) bekezdésben előírt kötelezettségének nem tesz eleget, az ágazati kijelölő hatóság figyelmeztetést tartalmazó döntésében, határidő megállapításával felhívja az üzemeltetőt az azonosítási jelentés benyújtására.
+(8) Amennyiben az üzemeltető a (2) bekezdésben előírt kötelezettségének nem tesz eleget, az ágazati kijelölő hatóság – határidő megállapításával – kötelezi az üzemeltetőt az azonosítási jelentés benyújtására.
 
 (8a) Az azonosítási jelentés benyújtásának elmulasztása esetén kormányrendeletben meghatározott mértékű bírság kiszabásának van helye.
 
