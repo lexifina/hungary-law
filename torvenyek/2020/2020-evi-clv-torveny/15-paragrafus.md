@@ -1,9 +1,1 @@
 15. § Az Egyesült Nemzetek Kábítószer Bizottsága 2000. március 7-én elfogadott 43/1., 2001. március 20-án elfogadott 44/5. és 44/6., 2010. március 8-án elfogadott 53/1., 2014. március 19-én elfogadott 57/1., 2017. március 16-án elfogadott 60-12. és 60/13., 2019. március 19-én elfogadott 62/10., 62/11. és 62/12., valamint 2020. március 4-én elfogadott 63/1. számú határozatainak végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
