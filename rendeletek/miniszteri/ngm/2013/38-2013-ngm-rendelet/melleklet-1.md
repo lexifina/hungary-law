@@ -168,9 +168,9 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 ## I) Határozatlan idejű vagy több év előirányzatait érintő kötelezettségvállalások, más fizetési kötelezettségek (pl. több éves hitelek, kölcsönök, szolgáltatások, közüzemi díjak, személyi juttatások, ellátások) esetén szükséges azokat megosztani a költségvetési évben esedékes kötelezettségvállalások, más fizetési kötelezettségek és költségvetési évet követően esedékes kötelezettségvállalások, más fizetési kötelezettségek között a megfelelő nyilvántartási ellenszámlák használatával. A pénzügyi számvitelben a megosztásnak megfelelően kell a követelést, – végleges kötelezettségvállalás, más fizetési kötelezettség esetén a – kötelezettséget elszámolni.
 
-## J) Kivételt képeznek az I) pontban foglaltak alól a költségvetési szerv, fejezeti kezelésű előirányzat tárgyévi kiadási előirányzatait terhelő olyan határozott idejű kötelezettségvállalások, más fizetési kötelezettségek, amelyek esetén valamennyi kifizetés a költségvetési évet követő év június 30-áig megtörténik. Ezeket teljes egészében a 0021. Költségvetési évben esedékes kötelezettségvállalás, más fizetési kötelezettség nyilvántartási ellenszámlával vagy 0022. Költségvetési évben esedékes végleges kötelezettségvállalás, más fizetési kötelezettség nyilvántartási ellenszámlával szemben lehet nyilvántartásba venni. A pénzügyi számvitelben ennek megfelelően kell kötelezettséget elszámolni, miután az végleges kötelezettségvállalásnak, más fizetési kötelezettségnek minősül.
+## J) Kivételt képeznek az I) pontban foglaltak alól az önkormányzati alrendszerbe tartozó költségvetési szervek tárgyévi kiadási előirányzatait terhelő olyan határozott idejű kötelezettségvállalások, más fizetési kötelezettségek, amelyek esetén valamennyi kifizetés a költségvetési évet követő év június 30-áig megtörténik. További kivételt képeznek az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 150. § (1) bekezdésében foglalt kötelezettségvállalások.
 
-## K) Ha a költségvetési évet követően esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettségek után kell teljesítést nyilvántartásba venni, azt előbb át kell sorolni a költségvetési évben esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettsége közé. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek esedékességében változás következik be (például a támogatás kedvezményezettje halasztást kap, hogy a következő évben fizesse vissza a támogatást), az átsorolást szintén meg kell tenni. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek összegében változás következik be (például a tárgyévre járó személyi juttatás csökkentése szükséges, mivel a legutóbb számfejtett időszakra nem vagy kevesebb összegű illetmény jár), azok összegét kell módosítani. A pénzügyi számvitelben ennek megfelelően kell a követelést, – végleges kötelezettségvállalás, más fizetési kötelezettség esetén a – kötelezettséget elszámolni:
+## K) Ha a költségvetési évet követően esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettségek után kell teljesítést nyilvántartásba venni, azt előbb át kell sorolni a költségvetési évben esedékes követelések vagy kötelezettségvállalások, más fizetési kötelezettségek közé. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek esedékességében változás következik be (például a támogatás kedvezményezettje halasztást kap, hogy a következő évben fizesse vissza a támogatást, vagy az Ávr. 150. §-a előírásai szerint nem minősül kötelezettségvállalással terhelt maradványnak stb.), az átsorolást szintén meg kell tenni. Ha a követelések, kötelezettségvállalások, más fizetési kötelezettségek összegében változás következik be (például a tárgyévre járó személyi juttatás csökkentése szükséges, mivel a legutóbb számfejtett időszakra nem vagy kevesebb összegű illetmény jár), azok összegét kell módosítani. A pénzügyi számvitelben ennek megfelelően kell a követelést, – végleges kötelezettségvállalás, más fizetési kötelezettség esetén a – kötelezettséget elszámolni:
 
 | 1. Költségvetési évben esedékes követelések átvezetése a költségvetési évet követően esedékes követelések közé a költségvetési számvitel szerint | T0041 T09(2) | – | K09(2) K0042 |
 
@@ -180,7 +180,7 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 4. Költségvetési évben esedékes kötelezettségek átvezetése a költségvetési évet követően esedékes kötelezettségek közé a pénzügyi számvitel szerint | T421 | – | K422 |
 
-## L) Ha a költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek teljesítése a költségvetési évben nem történt meg, a nem teljesített rész a könyvviteli nyitás során változatlanul meg fog jelenni a 3. vagy 4. számlaosztály és a 05. vagy 09. számlacsoport megfelelő nyilvántartási számláin. A költségvetési évet követő évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) közül azonban az adott költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) összegét át kell vezetni a költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) közé a XIV. Könyvviteli nyitás feladatai fejezetben foglaltak szerint.
+## L) Az önkormányzati alrendszerbe tartozó költségvetési szervek esetében, ha a költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek teljesítése a költségvetési évben nem történt meg, a nem teljesített rész a könyvviteli nyitás során változatlanul meg fog jelenni a 3. vagy 4. számlaosztály és a 05. vagy 09. számlacsoport megfelelő nyilvántartási számláin. A költségvetési évet követő évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) közül azonban az adott költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) összegét át kell vezetni a költségvetési évben esedékes követelések, kötelezettségvállalások, más fizetési kötelezettségek (kötelezettségek) közé a XIV. Könyvviteli nyitás feladatai fejezetben foglaltak szerint.
 
 II. FEJEZET
 
@@ -504,31 +504,33 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 ## D) Értékesítés elszámolása, ha előtte nem sorolják át a készletek közé
 
-| 1. Bruttó érték kivezetése a pénzügyi számvitel szerint | T841 | – | K11/121-141 |
+| 1. Terv szerinti értékcsökkenés, terven felüli értékcsökkenés kivezetése a pénzügyi számvitel szerint | T118-148 T119-149 | – | K11/121-141 |
 
-| 2. Terv szerinti értékcsökkenés, terven felüli értékcsökkenés kivezetése a pénzügyi számvitel szerint | T118-148 T119-149 | – | K841 |
+| 2. Értékhelyesbítés kivezetése a pénzügyi számvitel szerint | T415 | – | K116-146 |
 
-| 3. Értékhelyesbítés kivezetése a pénzügyi számvitel szerint | T415 | – | K116-146 |
-
-| 4. Számlázott eladási ár a költségvetési számvitel szerint |
+| 3. Számlázott eladási ár a költségvetési számvitel szerint |
 
 | a) Nettó érték | T09512/09522/ 09532 | – | K0041 |
 
 | b) Általános forgalmi adó | T094062 | – | K0041 |
 
-| 5. Számlázott eladási ár a pénzügyi számvitel szerint |
+| 4. Számlázott eladási ár a pénzügyi számvitel szerint |
 
-| a) Nettó érték | T3515 | – | K9244 |
+| a) Nettó érték, legfeljebb a könyv szerinti értékig | T3515 | – | K11/121-141 |
 
-| b) Általános forgalmi adó | T3514 | – | K36422 |
+| b) A nettó érték és a könyv szerinti érték különbözete, ha a nettó érték a nagyobb | T3515 | – | K9244 |
 
-| 6. A számla kiegyenlítése a költségvetési számvitel szerint |
+| c) A nettó érték és a könyv szerinti érték különbözete, ha a könyv szerinti érték a nagyobb | T841 | – | K11/121-141 |
+
+| d) Általános forgalmi adó | T3514 | – | K36422 |
+
+| 5. A számla kiegyenlítése a költségvetési számvitel szerint |
 
 | a) Nettó érték | T005 | – | K09513/09523 /09533 |
 
 | b) Általános forgalmi adó | T005 | – | K094063 |
 
-| 7. A számla kiegyenlítése a pénzügyi számvitel szerint | T32/33 | – | K3514 K3515 |
+| 6. A számla kiegyenlítése a pénzügyi számvitel szerint | T32/33 | – | K3514 K3515 |
 
 ## E) Apportba adás elszámolása, ha a nyilvántartásba-vételi kérelem benyújtásáig az eszköz átadása megtörtént
 
@@ -710,13 +712,13 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | d) Befizetés teljesítése a pénzügyi számvitel szerint | T4216 | – | K32/33 |
 
-| e) Állományba vétel a cégbírósági bejegyzéskor a pénzügyi számvitel szerint | T161-163/165 | – | K36581/36583 |
+| e) Állományba vétel a cégbírósági bejegyzés alapján a pénzügyi számvitel szerint | T161-163/165 | – | K36581/36583 |
 
 | 3. Elszámolás, ha a nyilvántartásba-vételi kérelem benyújtásáig a pénzeszköz átadása nem történik meg |
 
-| a) Állományba vétel a cégbírósági bejegyzéskor a költségvetési számvitel szerint | T05652/05662 T0022 | – | K0021 K05652/05662 |
+| a) Állományba vétel a cégbírósági bejegyzés alapján a költségvetési számvitel szerint | T05652/05662 T0022 | – | K0021 K05652/05662 |
 
-| b) Állományba vétel a cégbírósági bejegyzéskor a pénzügyi számvitel szerint | T161-163/165 T36581/36583 | – | K36581/36583 K4216 |
+| b) Állományba vétel a cégbírósági bejegyzés alapján a pénzügyi számvitel szerint | T161-163/165 T36581/36583 | – | K36581/36583 K4216 |
 
 | c) Befizetés teljesítése esedékességkor a költségvetési számvitel szerint | T05653/05663 | – | K003 |
 
@@ -1706,7 +1708,7 @@ IX. FEJEZET
 
 | a) Kötelezettségként (irányító szervi támogatás) | T8435 | – | K4219 |
 
-| b) A kötelezettség és követelés összevezetéseként | T4219 | – | T3511 |
+| b) A kötelezettség és követelés összevezetéseként | T4219 | – | K3511 |
 
 | 11. Pénzforgalomban nem jelentkező (nettósított) költségvetési szervi törzsszámon számfejtett személyi juttatások munkaadót terhelő közterhei elszámolása a költségvetési számvitel szerint: a VII. fejezet B) Központi, irányító szervi támogatás elszámolása cím 1. pontja és e cím 5. pont b) alpontja szerint |
 
@@ -1884,17 +1886,17 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | b) Kiadási előirányzatként (ha tárgyévi és nem került megtervezésre) | T05(1) | – | K001 |
 
-| 2. Támogatás folyósítása a költségvetési számvitel szerint |
+| 2. Támogatás a költségvetési számvitel szerint |
 
-| a) Követelésként | T0911/0916/ 0921/0925(2) | – | K0041 |
+| a) Követelésként [az Áhsz. 43. § (13) bekezdés b) pontja esetében a folyósítással egyidejűleg, egyébként az 1. pont szerinti időpontban] | T0911/0916/ 0921/0925(2) | – | K0041 |
 
 | b) Teljesítésként | T005 | – | K0911/0916/ 0921/0925(3) |
 
 | c) Támogatási előlegnél elszámolási kötelezettségként | T044 | – | K006 |
 
-| 3. Támogatás folyósítása a pénzügyi számvitel szerint |
+| 3. Támogatás a pénzügyi számvitel szerint |
 
-| a) Követelésként | T3511/3512 | – | K921/922/923/9244 |
+| a) Követelésként [az Áhsz. 43. § (13) bekezdés b) pontja esetében a folyósítással egyidejűleg, egyébként az 1. pont szerinti időpontban] | T3511/3512 | – | K921/922/ 923/9244 |
 
 | b) Teljesítésként | T32/33 | – | K3511/3512 |
 
@@ -2758,7 +2760,7 @@ A MEGSZÜNÉS, CÍMRENDI MÓDOSÍTÁSOK KÖNYVVITELI FELADATAI
 
 A) A megszűnő költségvetési szervnél
 
-| A megszűnő költségvetési szervnél a megszűnés fordulónapjára vonatkozóan el kell végezni az éves könyvviteli zárással kapcsolatos számviteli feladatokat a XIII. fejezetben leírtak szerint. A vagyonelemeket nem kell kivezetni a mérlegből, mivel az Áhsz.-ben a megszűnéshez nem kapcsolódik „0”-s beszámoló elkészítési kötelezettség, azonban el kell végezni az 1–7. pontban foglalt feladatokat. |
+| A megszűnő költségvetési szervnél a megszűnés fordulónapjára vonatkozóan el kell végezni az éves könyvviteli zárással kapcsolatos számviteli feladatokat a XIII. fejezetben leírtak szerint. A vagyonelemeket nem kell kivezetni a mérlegből, mivel az Áhsz.-ben a megszűnéshez nem kapcsolódik „0”-s beszámoló elkészítési kötelezettség, azonban el kell végezni az 1–5. pontban foglalt feladatokat. |
 
 | 1. A nemzeti vagyonba tartozó immateriális javak, tárgyi eszközök megszűnőnél elszámolt értékhelyesbítésének kivezetése a pénzügyi számvitel szerint | T415 | – | K116-146 |
 
@@ -3054,11 +3056,11 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | b) A kötelezettségvállalás, más fizetési kötelezettség nyilvántartási számláinak nyitása | T002 | – | K05(2) |
 
-| c) A követelés nyilvántartási számláinak nyitása | T004 | – | K09(2) |
+| c) A követelés nyilvántartási számláinak nyitása | T09(2) | – | K004 |
 
 | 2. A fejezeti kezelésű előirányzat, központi kezelésű előirányzat könyvviteli számlái nyitó adatainak átvétele: e fejezet D) cím 1–5., 7., 9–20. és 22–26. pontjában szereplő tételek fordítottjaként |
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
 [^1]: A 4. §-t a 16/2019. (XII. 7.) PM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 3. §.
-[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja, a 14/2020. (XII. 28.) PM rendelet 1. §-a szerint módosított szöveg.
