@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-168-20-
 | 2020-04-01 | 2014-168-20-22.10 | 373/2014. (XII. 31.) Korm. rendelet |
 | 2020-04-19 | 2014-168-20-22.11 | 111/2020. (IV. 14.) Korm. rendelet |
 | 2020-06-18 | 2014-168-20-22.12 | 2010: CXXX. törvény |
+| 2021-01-01 | 2014-168-20-22.13 | 665/2020. (XII. 28.) Korm. rendelet |
