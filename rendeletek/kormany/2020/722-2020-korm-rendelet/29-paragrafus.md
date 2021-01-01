@@ -1,0 +1,3 @@
+## 28. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet [a továbbiakban: 326/2011. (XII. 28.) Korm. rendelet] a következő 28/A. §-sal egészül ki:
+
+## „28/A. § A „BE”, „C”, „CE”, „C1”, „C1E”, „D”, „DE”, „D1” vagy „D1E” kategóriájú jármű vezetésére jogosító engedélyen nem kell feltüntetni az automata sebességváltóra vonatkozó korlátozást, ha a kérelmező már rendelkezik kézi sebességváltóval rendelkező jármű vezetésére jogosító engedéllyel az alábbi kategóriák legalább egyikében: „B”, „BE”, „C”, „CE”, „C1”, „C1E”, „D”, „DE”, „D1” vagy „D1E”, továbbá a jártassági és magatartásvizsga során végrehajtotta az előírt tevékenységeket.”

@@ -1,0 +1,1 @@
+## 4. § Hatályát veszti a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló 30/2003. (III. 18.) Korm. rendelet [a továbbiakban: 30/2003. (III. 18.) Korm. rendelet] 10. § (1) bekezdése.

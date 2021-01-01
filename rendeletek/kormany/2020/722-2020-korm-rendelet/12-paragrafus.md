@@ -1,0 +1,1 @@
+## 11. § A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet [a továbbiakban: 159/2010. (V. 6.) Korm. rendelet] 20. § (1) bekezdés b) pontjában a „megkezdéstől számított öt éven belül” szövegrész helyébe a „megkezdéstől számított nyolc éven belül” szöveg lép.

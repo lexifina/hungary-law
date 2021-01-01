@@ -1,0 +1,3 @@
+## 16. § A 169/2010. (V. 11.) Korm. rendelet 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A repülőtéri személyazonosító kártya iránti kérelem tartalmazza, hogy a kérelmező a repülőtér meghatározott zónáiban milyen tevékenységet végez. A repülőtéri személyazonosító kártya kiadásának feltétele a sikeres védelmi háttérellenőrzés megléte, valamint a tevékenység ellátásához szükséges légiközlekedés védelmi képzés igazolása. A kártya kiállítását megelőzően a repülőtér üzemben tartója az általános rendőrségi feladatok ellátására létrehozott szerv, az AH, a TEK és – nemzetközi repülőtér esetében – a vámhatóság hozzájárulását kéri, az engedély megtagadása esetén a kártya nem állítható ki. A személyazonosító kártya időbeli hatálya két év.”

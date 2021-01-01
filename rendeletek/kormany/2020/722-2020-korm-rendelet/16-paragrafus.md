@@ -1,0 +1,1 @@
+## „(5) Az (1) bekezdés e) pontjában megjelölt utasok és utasoktól eltérő személyek részére a védelmi ellenőrzést végző szervezetnek biztosítani kell, hogy az érintett személyek panasszal élhessenek az átvizsgálás végrehajtásával kapcsolatban.”
