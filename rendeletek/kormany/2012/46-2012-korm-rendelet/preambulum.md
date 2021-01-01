@@ -1,5 +1,0 @@
-A Kormány a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 8. és 11. pontjában,
-
-a 12. § tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 6. pontjában
-
-kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
