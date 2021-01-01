@@ -12,7 +12,7 @@ a) a személy és a gépjármű azonosításra alkalmas okmányai vagy közhitel
 
 b) külföldi rendszámmal rendelkező gépjárművek esetében – ha arra másként nincs mód –
 
-## közreműködő útján állapítja meg.
+közreműködő útján állapítja meg.
 
 (6) A pótdíj utólagos megfizetésére a gépjármű – magyar forgalmi rendszámmal rendelkező gépjármű esetében a közúti közlekedési nyilvántartási szervezet nyilvántartása szerint a jogosulatlan úthasználat időpontjában nyilvántartott – nem tulajdonos üzembentartója, ennek hiányában a gépjármű tulajdonosa (a továbbiakban együtt: üzembentartó) köteles. Járműszerelvény esetén, ha a vontatmány az U díjkategóriába tartozik, és a díjfizetés ellenőrzésére jogosult szervezet a vontatmány tekintetében jogosulatlan úthasználatot állapít meg, a pótdíj a járműszerelvény tekintetében áll fenn, amelynek megfizetésére a vontató gépjármű üzembentartója köteles.
 

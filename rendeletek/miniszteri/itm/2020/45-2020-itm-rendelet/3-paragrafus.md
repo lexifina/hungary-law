@@ -10,7 +10,7 @@ b) havi jogosultság: amely a vásárló által megjelölt kezdő naptól a köv
 
 c) éves jogosultság: amely a tárgyév első napjától a tárgyévet követő év január 31. napján 24 óráig
 
-## jogosít az úthasználatra.
+jogosít az úthasználatra.
 
 (3) A (2) bekezdés a) és b) pontja tekintetében, amennyiben a jogosultság megváltása és a jogosultság időtartamának a vásárló által megjelölt kezdő napja ugyanarra a napra esik, a jogosultság a megváltás időpontjától gyakorolható. A (2) bekezdés c) pontja tekintetében az éves jogosultság évközi megváltása esetén a megváltás időpontjától biztosít úthasználati jogosultságot, a 16. § (1) bekezdésében foglaltak kivételével.
 

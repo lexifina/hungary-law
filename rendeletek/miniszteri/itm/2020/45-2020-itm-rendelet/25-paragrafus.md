@@ -1,3 +1,5 @@
-## 24. §[^2]
+## 24. § Az 1. melléklet helyébe a 4. melléklet lép.
 
-[^2]: A 24. § a 21. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+25. §[^1]
+
+[^1]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

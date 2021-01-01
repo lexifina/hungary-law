@@ -8,7 +8,7 @@ b) a mozgásában korlátozott személy parkolási igazolványáról szóló 218
 
 c) az a) vagy a b) pontban szereplő személynek a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozójának
 
-## minősül, az általa üzembentartott, D2 díjkategóriába tartozó gépjármű vonatkozásában azonos időszakra és kizárólag egy gépjármű tekintetében részleges díjmentesség igénybevételére jogosult.
+minősül, az általa üzembentartott, D2 díjkategóriába tartozó gépjármű vonatkozásában azonos időszakra és kizárólag egy gépjármű tekintetében részleges díjmentesség igénybevételére jogosult.
 
 (2) A részleges díjmentesség alapján a jogosult a D1 díjkategóriájú jogosultság megváltásával a D2 és a D1 díjkategória díjmérték-különbözetének megfizetése alól mentesül.
 

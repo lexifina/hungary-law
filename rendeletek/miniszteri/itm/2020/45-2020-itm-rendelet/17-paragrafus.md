@@ -12,7 +12,7 @@ a) a pótdíj kiszabására alapot adó esemény során használt gépjármű va
 
 b) a pótdíj kiszabására alapot adó esemény során feltételezetten használt gépjármű egyedi azonosító jelével visszaéltek,
 
-## és az eljárást lefolytató hatóság végleges döntését vagy ezek másolatát azok jogerőre emelkedését követő 15 napon belül bemutatja a NÚSZ Zrt.-nek.
+és az eljárást lefolytató hatóság végleges döntését vagy ezek másolatát azok jogerőre emelkedését követő 15 napon belül bemutatja a NÚSZ Zrt.-nek.
 
 (3) Amennyiben a (2) bekezdésben foglaltak nem vagy nem határidőben teljesülnek, úgy a pótdíj mértéke a 60 napon túli pótdíj mértékével egyezik meg.
 

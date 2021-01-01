@@ -1,5 +1,3 @@
-## Az úthasználati jogosultság általános forgalmi adót tartalmazó, forintban kifejezett árának alapja
-
 |  | A | B | C | D | E |
 
 | 1. | Díjkategória | Heti | Havi | Éves | Megyei |
@@ -15,3 +13,5 @@
 | 6. | U | 3 500 | 4 780 | 42 980 | 5 000 |
 
 3. melléklet a 45/2020. (XI. 28.) ITM rendelethez
+
+A jogosulatlan úthasználat után fizetendő pótdíj és pótdíjkülönbözet mértékének alapja

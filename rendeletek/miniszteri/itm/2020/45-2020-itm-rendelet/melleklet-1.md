@@ -1,5 +1,5 @@
-## 25. §[^3]
+1. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^2]
 
-1. melléklet a 45/2020. (XI. 28.) ITM rendelethez
+A díjfizetés ellenében használható gyorsforgalmi útszakaszok
 
-[^3]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 24. §-sal megállapított szöveg.
