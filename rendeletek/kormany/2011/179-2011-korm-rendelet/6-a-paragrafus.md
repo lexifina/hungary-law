@@ -4,7 +4,8 @@
 
 (2)[^37] A vizsgaközpont negyedéves frissítéssel honlapján közzéteszi az érvényes képzési engedéllyel rendelkező képző szervekre vonatkozóan a 2. § (1) bekezdés 7. és 9. pontja szerinti mutatószámokat. A vizsgaközpont a 2. § (1) bekezdés 9. pontja szerinti mutatószámot a szakoktatók vonatkozásában évente egyszer közzéteheti.
 
-(3) A képző szerv negyedéves frissítéssel köteles honlapján közzétenni a 2. § (1) bekezdés 7–9. pontja szerinti mutatószámokat, továbbá a képző szerv képzési tevékenységét népszerűsítő felhívásokban köteles azokat feltűnő módon megjeleníteni.
+(3)[^38] A képző szerv honlapot működtet, melyen negyedéves frissítéssel közzéteszi a 2. § (1) bekezdés 7–9. pontja szerinti mutatószámokat. E mutatószámokat a képzési tevékenységét népszerűsítő felhívásokban is megjeleníti.
 
 [^36]: A 6/A. alcímet (6/A. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
 [^37]: A 6/A. § (2) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 4. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^38]: A 6/A. § (3) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.

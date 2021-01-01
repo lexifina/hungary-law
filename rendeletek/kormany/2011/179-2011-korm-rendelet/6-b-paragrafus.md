@@ -1,4 +1,4 @@
-## 6/B. [^38] A Közlekedési Szakértői Testület
+## 6/B. [^39] A Közlekedési Szakértői Testület
 
 6/B. § (1) A Közlekedési Szakértői Testület (a továbbiakban: Testület) az e rendeletben és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályait tartalmazó miniszteri rendeletben meghatározott feladatok tekintetében a közlekedési hatóság szakmai tanácsadó, véleményező, döntés-előkészítő testülete. A Testület szakértői eljárásával közreműködik a közlekedési hatóság tevékenységében.
 
@@ -24,9 +24,9 @@ c) a képzés és vizsgáztatás során alkalmazható, alkalmazandó technológi
 
 d) a közlekedési hatóság elnöke által hozzá intézett szakmai kérdések megoldására.
 
-(4)[^39] A Testület elnökből és 8 tagból áll. A Testület elnökét és tagjait a miniszter kéri fel. A Testület tagjai függetlenek, feladatkörükben nem utasíthatóak. A Testület elnökének és tagjainak névsorát a közlekedési hatóság a honlapján közzéteszi.
+(4)[^40] A Testület elnökből és 8 tagból áll. A Testület elnökét és tagjait a miniszter kéri fel. A Testület tagjai függetlenek, feladatkörükben nem utasíthatóak. A Testület elnökének és tagjainak névsorát a közlekedési hatóság a honlapján közzéteszi.
 
-(5)[^40] A felkérés kilenc évre szól. A felkérés több alkalommal is megismételhető.
+(5)[^41] A felkérés kilenc évre szól. A felkérés több alkalommal is megismételhető.
 
 (6) A felkérés megszűnik:
 
@@ -48,6 +48,6 @@ d) a felkérésben megjelölt határidő elteltével.
 
 (11) A Testület költségvetését – ideértve a Testület elnökének és a tagok díjazását – a közlekedési hatóság saját költségvetésében tervezi.
 
-[^38]: A 6/B. alcímet (6/B. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
-[^39]: A 6/B. § (4) bekezdése a 248/2019. (X. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^40]: A 6/B. § (5) bekezdése a 248/2019. (X. 24.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^39]: A 6/B. alcímet (6/B. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^40]: A 6/B. § (4) bekezdése a 248/2019. (X. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^41]: A 6/B. § (5) bekezdése a 248/2019. (X. 24.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
