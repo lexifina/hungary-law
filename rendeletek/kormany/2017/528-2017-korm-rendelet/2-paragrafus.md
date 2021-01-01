@@ -7,3 +7,5 @@ b) az 1. § (1) bekezdés b) pontjában meghatározott ingatlannal összefüggé
 c) az 1. § (1) bekezdés c) pontjában meghatározott ingatlannal összefüggésben Budapest Főváros Kormányhivatalát vezető kormánymegbízottat,
 
 d) az 1. § (1) bekezdés d) és e) pontjában meghatározott ingatlanokkal összefüggésben a Pest Megyei Kormányhivatalt vezető kormánymegbízottat
+
+jelöli ki.

@@ -10,7 +10,7 @@ d) Aszód, Belterület 893 és Belterület 906/3,
 
 e) Hévízgyörk, Külterület 073 és Külterület 079
 
-## helyrajzi számon nyilvántartott ingatlanokon és a telekalakítások után kialakuló ingatlanokon megvalósításra kerülő, a fóti Károlyi István Gyermekközpont által nyújtott gyermekvédelmi szakellátások jövőbeni helyszíneinek kialakításával (a továbbiakban együtt: Beruházások) függenek össze.
+helyrajzi számon nyilvántartott ingatlanokon és a telekalakítások után kialakuló ingatlanokon megvalósításra kerülő, a fóti Károlyi István Gyermekközpont által nyújtott gyermekvédelmi szakellátások jövőbeni helyszíneinek kialakításával (a továbbiakban együtt: Beruházások) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 

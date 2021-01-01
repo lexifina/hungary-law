@@ -2,7 +2,7 @@
 
 1. melléklet az 528/2017. (XII. 29.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. Építésügyi hatósági engedélyezési és tudomásulvételi eljárások, építésfelügyeleti eljárások,
 
