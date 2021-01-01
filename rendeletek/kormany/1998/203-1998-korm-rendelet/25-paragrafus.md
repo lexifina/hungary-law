@@ -1,22 +1,22 @@
 ## (A Bt. 41. §-ához)
 
-25. §[^265] (1) A Bt. 41. §-a alapján kiszabott bírság összegének felső határa tízmillió forint. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a határozatban megállapított határidőre nem szünteti meg vagy a jogsértést ismét elköveti, a bírság ismételten kiszabható, amelynek felső határa harmincmillió forint.
+25. §[^271] (1) A Bt. 41. §-a alapján kiszabott bírság összegének felső határa tízmillió forint. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a határozatban megállapított határidőre nem szünteti meg vagy a jogsértést ismét elköveti, a bírság ismételten kiszabható, amelynek felső határa harmincmillió forint.
 
 (2) A Bt. 41/A. §-a alapján kiszabott bírság összege – a Bt. 41/A. § (1) bekezdés d) pontja kivételével – egymillió forintig terjedhet. A Bt. 41/A. § (1) bekezdés d) pontja alapján kiszabott bírság összege kétmillió forintig terjedhet.
 
-(3)[^266] A bányafelügyelet a bírság kiszabása során – a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló törvényben meghatározottakon túl – mérlegeli
+(3)[^272] A bányafelügyelet a bírság kiszabása során – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottakon túl – mérlegeli
 
 a) a jogsértés felróhatóságának mértékét, és
 
 b) a jogsértés veszélyeztető jellegét.
 
-(4)[^267] A jogosulatlan vagy szabálytalan bányászati tevékenység kivizsgálása során a bányafelügyelet – a tevékenységet végző költségére – elrendelheti a kitermelőhely hites bányamérővel történő geodéziai bemérését és a kitermelt ásványvagyon mennyiségének és fajtájának földtani szakértő bevonásával történő meghatározását.
+(4)[^273] A jogosulatlan vagy szabálytalan bányászati tevékenység kivizsgálása során a bányafelügyelet – a tevékenységet végző költségére – elrendelheti a kitermelőhely hites bányamérővel történő geodéziai bemérését és a kitermelt ásványvagyon mennyiségének és fajtájának földtani szakértő bevonásával történő meghatározását.
 
 (5) Jogosulatlan bányászati tevékenység folytatása esetén a kitermelt ásványi nyersanyag értékét az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló rendeletben meghatározott fajlagos érték alapján kell kiszámítani.
 
-(6)[^268] Szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányafelügyelet megküldi az ingatlanügyi hatóságnak.
+(6)[^274] Szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányafelügyelet megküldi az ingatlanügyi hatóságnak.
 
-(7)[^269] A bányafelügyelet a bányászati jog átruházásához előírt hozzájárulás iránti, valamint a műszaki üzemi terv, illetve módosításának jóváhagyására irányuló kérelem elbírálása során dönt a bányavállalkozót terhelő kötelezettségek teljesítésére szolgáló biztosíték nagyságáról és teljesítésének módjáról. A kérelem részeként a bányavállalkozó köteles a biztosíték nagyságát alátámasztó költségtervet és a biztosítékadás módjára vonatkozó ajánlatot készíteni.
+(7)[^275] A bányafelügyelet a bányászati jog átruházásához előírt hozzájárulás iránti, valamint a műszaki üzemi terv, illetve módosításának jóváhagyására irányuló kérelem elbírálása során dönt a bányavállalkozót terhelő kötelezettségek teljesítésére szolgáló biztosíték nagyságáról és teljesítésének módjáról. A kérelem részeként a bányavállalkozó köteles a biztosíték nagyságát alátámasztó költségtervet és a biztosítékadás módjára vonatkozó ajánlatot készíteni.
 
 (8) A biztosítékot bányatelkenként, illetve geotermikus védőidomonként kell meghatározni. Ha a bányavállalkozó jogosultságában több bányatelek, illetve geotermikus védőidom is van, a biztosítékot összevontan is szolgáltathatja, azonban az összevont biztosíték nagysága nem lehet kisebb, mint az egyes bányatelkekre, illetve geotermikus védőidomokra meghatározott biztosítékok együttes összege. A biztosíték mértéke nem haladhatja meg a kétmilliárd forintot.
 
@@ -42,26 +42,26 @@ figyelemmel.
 
 (11) A (7) bekezdésben meghatározott biztosítékként hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás – garanciaszerződés, garanciavállaló nyilatkozat, biztosítási szerződés alapján kiállított, garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége –, zálogjog, óvadék vagy a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól szóló kormányrendelet alapján megállapított támogatás szolgálhat.
 
-(12)[^270] A zálogjogszerződést vagy óvadéki szerződést a bányafelügyelettel kell megkötni. Zálogként – kivéve, ha a biztosítékul felajánlott ingatlan zálogjogosultja a bányafelügyelet – csak per-, teher- és igénymentes ingatlan vagy dolog szolgálhat. Óvadékként csak pénz szolgálhat, amelyet a bányavállalkozó a bányafelügyelet hatósági letéti számláján köteles elhelyezni.
+(12)[^276] A zálogjogszerződést vagy óvadéki szerződést a bányafelügyelettel kell megkötni. Zálogként – kivéve, ha a biztosítékul felajánlott ingatlan zálogjogosultja a bányafelügyelet – csak per-, teher- és igénymentes ingatlan vagy dolog szolgálhat. Óvadékként csak pénz szolgálhat, amelyet a bányavállalkozó a bányafelügyelet hatósági letéti számláján köteles elhelyezni.
 
 (13) A (12) bekezdés szerinti szerződés hatályát – a biztosítékadási kötelezettség fennállását – a szerződés jogalapját képező (7) bekezdés szerinti bányafelügyeleti határozat hatálya nem érinti.
 
-(14)[^271] A biztosíték igénybevételére a bányafelügyelet végleges határozata alapján kerülhet sor. A bányafelügyelet kérelemre vagy hivatalból a biztosíték felszabadításáról dönt, ha a bányavállalkozó a bányászati tevékenységéből eredő kötelezettségeit a bányafelügyelet végleges döntése alapján teljesítette, más a bányafelügyelet által elfogadott biztosítékot adott vagy bányászati jogát érvényesen másra átruházta. A biztosíték felszabadításáról rendelkező határozat véglegessé válásának napján a (12) bekezdés szerinti szerződés megszűnik.
+(14)[^277] A biztosíték igénybevételére a bányafelügyelet végleges határozata alapján kerülhet sor. A bányafelügyelet kérelemre vagy hivatalból a biztosíték felszabadításáról dönt, ha a bányavállalkozó a bányászati tevékenységéből eredő kötelezettségeit a bányafelügyelet végleges döntése alapján teljesítette, más a bányafelügyelet által elfogadott biztosítékot adott vagy bányászati jogát érvényesen másra átruházta. A biztosíték felszabadításáról rendelkező határozat véglegessé válásának napján a (12) bekezdés szerinti szerződés megszűnik.
 
-(15)[^272] Ha a bányavállalkozó a biztosítékot hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodással nyújtja, és a fedezeti megállapodás lejárati idejét megelőző harminc nappal az újabb fedezeti megállapodást nem nyújtja be a bányafelügyeletnek, vagy más biztosítékot a bányafelügyelet nem fogad el, a bányafelügyelet a biztosíték összegét igénybe veszi (a biztosítéki összeget lehívja), egyben a bányászati tevékenység végzését felfüggeszti. Ha a bányafelügyelet a bányászati tevékenység végzését felfüggesztő határozat véglegessé válását követő kilencven napon belül a bányavállalkozó által adott biztosítékot elfogadja, a lehívott biztosítéki összeget a bányavállalkozónak visszautalja.
+(15)[^278] Ha a bányavállalkozó a biztosítékot hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodással nyújtja, és a fedezeti megállapodás lejárati idejét megelőző harminc nappal az újabb fedezeti megállapodást nem nyújtja be a bányafelügyeletnek, vagy más biztosítékot a bányafelügyelet nem fogad el, a bányafelügyelet a biztosíték összegét igénybe veszi (a biztosítéki összeget lehívja), egyben a bányászati tevékenység végzését felfüggeszti. Ha a bányafelügyelet a bányászati tevékenység végzését felfüggesztő határozat véglegessé válását követő kilencven napon belül a bányavállalkozó által adott biztosítékot elfogadja, a lehívott biztosítéki összeget a bányavállalkozónak visszautalja.
 
 (16) A meg nem fizetett bányajáradék, jogosulatlanul kitermelt ásványi nyersanyag értéke, a felügyeleti díj, a kitermelés szüneteltetése esetén a kieső bányajáradék pótlására előírt díj, valamint ezek késedelmi kamatai behajtása érdekében a bányafelügyelet megkeresi az adóhatóságot.
 
-(17)[^273]
+(17)[^279]
 
 (18) Föld alatti szénelgázosítással történő ásványi nyersanyag kitermelése esetén a biztosíték összege nem lehet kevesebb kétszázmillió forintnál.
 
-[^265]: A Vhr. 25. §-a a 311/2014. (XII. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^266]: A Vhr. 25. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 62. § (9) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^267]: A Vhr. 25. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
-[^268]: A Vhr. 25. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (10) bekezdésével megállapított szöveg.
-[^269]: A Vhr. 25. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 62. § (10) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^270]: A Vhr. 25. § (12) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (11) bekezdésével megállapított, a 162/2017. (VI. 28.) Korm. rendelet 2. § h) pontja szerint módosított szöveg.
-[^271]: A Vhr. 25. § (14) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 63. § c), g) és i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^272]: A Vhr. 25. § (15) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 63. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^273]: A Vhr. 25. § (17) bekezdését a 70/2015. (III. 30.) Korm. rendelet 35. § (18) bekezdés c) pontja hatályon kívül helyezte.
+[^271]: A Vhr. 25. §-a a 311/2014. (XII. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^272]: A Vhr. 25. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 62. § (9) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^273]: A Vhr. 25. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^274]: A Vhr. 25. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (10) bekezdésével megállapított szöveg.
+[^275]: A Vhr. 25. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 62. § (10) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^276]: A Vhr. 25. § (12) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (11) bekezdésével megállapított, a 162/2017. (VI. 28.) Korm. rendelet 2. § h) pontja szerint módosított szöveg.
+[^277]: A Vhr. 25. § (14) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 63. § c), g) és i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^278]: A Vhr. 25. § (15) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 63. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^279]: A Vhr. 25. § (17) bekezdését a 70/2015. (III. 30.) Korm. rendelet 35. § (18) bekezdés c) pontja hatályon kívül helyezte.

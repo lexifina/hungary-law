@@ -1,6 +1,6 @@
 ## (A Bt. 32. §-ához)
 
-19. § (1)[^195] A védőpillért a bányavállalkozó kérelmére, vagy más hatóság kezdeményezésére az érdekeltek meghallgatásával a bányafelügyelet jelöli ki, törli, engedélyezi módosítását, részleges vagy teljes lefejtését.
+19. § (1)[^201] A védőpillért a bányavállalkozó kérelmére, vagy más hatóság kezdeményezésére az érdekeltek meghallgatásával a bányafelügyelet jelöli ki, törli, engedélyezi módosítását, részleges vagy teljes lefejtését.
 
 (2) A kérelemnek tartalmaznia kell
 
@@ -12,26 +12,26 @@ c) az érintett ingatlanok tulajdonosainak (kezelőinek) nevét és címét;
 
 d) a védőpillér határvonalát és főbb metszeteit, valamint a védett létesítményeket feltüntető bányatelek térképet.
 
-(3)[^196]
+(3)[^202]
 
-(4)[^197] A bányafelügyelet védőpillér kijelölésére kötelezi a bányavállalkozót, ha megállapítja, hogy az alkalmazott bányaműveletek védett létesítményt veszélyeztetnek.
+(4)[^203] A bányafelügyelet védőpillér kijelölésére kötelezi a bányavállalkozót, ha megállapítja, hogy az alkalmazott bányaműveletek védett létesítményt veszélyeztetnek.
 
-(5)[^198] A védőpillért és a biztonsági övezetet fel kell tüntetni a bányatérképeken. A bányavállalkozó az építésügyi hatóságtól kérheti, hogy a biztonsági övezetben építési tilalmat vagy korlátozást rendeljen el.
+(5)[^204] A védőpillért és a biztonsági övezetet fel kell tüntetni a bányatérképeken. A bányavállalkozó az építésügyi hatóságtól kérheti, hogy a biztonsági övezetben építési tilalmat vagy korlátozást rendeljen el.
 
 (6) A védőpillér méretezésének szabályait bányabiztonsági szabályzat állapítja meg.
 
 (7) A védőpillér meggyengítése, lefejtése iránti kérelemben – a (2) bekezdésben foglaltakon túlmenően – ismertetni kell a védőpillérben tervezett bányászati műveletek részletes műszaki leírását, különös tekintettel a biztosítás és a fejtési üreg felhagyásának (pl. tömedékelés, omlasztás) tervezett módjára.
 
-(8)[^199]
+(8)[^205]
 
-(9)[^200] A Bt. 1. § (1) bekezdés k) pontja szerinti létesítmények, berendezések elhelyezése során figyelembe kell venni helyhez kötöttségük tényét, környezetüket, valamint biztonságos üzemeltethetőségüket.
+(9)[^206] A Bt. 1. § (1) bekezdés k) pontja szerinti létesítmények, berendezések elhelyezése során figyelembe kell venni helyhez kötöttségük tényét, környezetüket, valamint biztonságos üzemeltethetőségüket.
 
-(10)[^201] A Bt. 42. §-ában szabályozott intézkedések keretében a bányászati célból mélyített fúrólyukak megszüntetése esetén a biztonsági övezet fenntartásáról, tartalmáról is rendelkezni kell.
+(10)[^207] A Bt. 42. §-ában szabályozott intézkedések keretében a bányászati célból mélyített fúrólyukak megszüntetése esetén a biztonsági övezet fenntartásáról, tartalmáról is rendelkezni kell.
 
-[^195]: A Vhr. 19. § (1) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^196]: A Vhr. 19. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^197]: A Vhr. 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
-[^198]: A Vhr. 19. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^199]: A Vhr. 19. §-ának (8) bekezdését a 70/2015. (III. 30.) Korm. rendelet 35. § (18) bekezdés b) pontja hatályon kívül helyezte.
-[^200]: A Vhr. 19. §-ának (9) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 24. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^201]: A Vhr. 19. § (10) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 12. §-ának (2) bekezdése iktatta a szövegbe.
+[^201]: A Vhr. 19. § (1) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^202]: A Vhr. 19. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^203]: A Vhr. 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^204]: A Vhr. 19. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^205]: A Vhr. 19. §-ának (8) bekezdését a 70/2015. (III. 30.) Korm. rendelet 35. § (18) bekezdés b) pontja hatályon kívül helyezte.
+[^206]: A Vhr. 19. §-ának (9) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 24. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^207]: A Vhr. 19. § (10) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 12. §-ának (2) bekezdése iktatta a szövegbe.

@@ -1,6 +1,6 @@
 ## (A Bt. 22/D. §-ához)
 
-8/E. §[^99] (1) A földtani kutatás során érvényesíteni kell
+8/E. §[^101] (1) A földtani kutatás során érvényesíteni kell
 
 a) a fokozatos, egyenletes és szükséges mértékű megismerést,
 
@@ -14,4 +14,4 @@ e) az adatok megőrzését és reprodukálhatóságát.
 
 (2) A földtani kutatást úgy kell megtervezni, hogy az lehetővé tegye a földtani környezet eredeti, természetes egyensúlyi állapotának megismerését.
 
-[^99]: A Vhr. 8/E. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
+[^101]: A Vhr. 8/E. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be.

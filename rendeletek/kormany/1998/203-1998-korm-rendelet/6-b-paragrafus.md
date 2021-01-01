@@ -1,4 +1,4 @@
-6/B. §[^59] (1)[^60] A szénhidrogénekre vonatkozó kutatás engedélyezésére irányuló kérelemnek a 6. § (1) bekezdésben előírtakon túlmenően tartalmaznia kell:
+6/B. §[^61] (1)[^62] A szénhidrogénekre vonatkozó kutatás engedélyezésére irányuló kérelemnek a 6. § (1) bekezdésben előírtakon túlmenően tartalmaznia kell:
 
 a) a kérelmező szakmai-műszaki alkalmasságát igazoló beszámolót,
 
@@ -16,11 +16,11 @@ c) a mélyítésre tervezett kutató fúrásokat, a fúrásonkénti mélység va
 
 d) a c) pont szerint lemélyített, vagy más meglevő mélyfúrás (kút) igénybevétele esetén a tervezett kútmunkálatok lényeges műszaki tartalmát (továbbfúrás, rétegvizsgálat, rétegkizárás) kutanként, és az abban tervezett geofizikai méréseket.
 
-(3)[^61] A Bt. 22/A. §-ának (8) bekezdésében előírt pénzügyi biztosíték nyújtásáról szóló igazolást a szénhidrogénekre vonatkozó kutatás engedélyezésére irányuló eljárásban a bányafelügyelet felszólítására kell becsatolni. A pénzügyi biztosíték mértékét és nyújtásának módját a bányafelügyelet akkor fogadhatja el, ha az megfelel a 25/A. §-ban előírt feltételeknek.
+(3)[^63] A Bt. 22/A. §-ának (8) bekezdésében előírt pénzügyi biztosíték nyújtásáról szóló igazolást a szénhidrogénekre vonatkozó kutatás engedélyezésére irányuló eljárásban a bányafelügyelet felszólítására kell becsatolni. A pénzügyi biztosíték mértékét és nyújtásának módját a bányafelügyelet akkor fogadhatja el, ha az megfelel a 25/A. §-ban előírt feltételeknek.
 
-(4)[^62] A szénhidrogénekre vonatkozó kutatás engedélyezése iránti kérelmet el kell utasítani, ha a kérelmező az előírt biztosítéknyújtási kötelezettségének nem tesz eleget.
+(4)[^64] A szénhidrogénekre vonatkozó kutatás engedélyezése iránti kérelmet el kell utasítani, ha a kérelmező az előírt biztosítéknyújtási kötelezettségének nem tesz eleget.
 
-[^59]: A Vhr. 6/B. §-át a 106/2005. (VI. 16.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a Bt. 22/A. § (6) bekezdésében foglalt új hirdetménynek az Európai Unió Hivatalos Lapjában történt közzétételét követően benyújtott kérelmek alapján indult eljárásokban kell alkalmazni.
-[^60]: A Vhr. 6/B. § (1) bekezdés nyitó szövegrésze a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^61]: A Vhr. 6/B. § (3) bekezdése a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^62]: A Vhr. 6/B. § (3) bekezdése a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^61]: A Vhr. 6/B. §-át a 106/2005. (VI. 16.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a Bt. 22/A. § (6) bekezdésében foglalt új hirdetménynek az Európai Unió Hivatalos Lapjában történt közzétételét követően benyújtott kérelmek alapján indult eljárásokban kell alkalmazni.
+[^62]: A Vhr. 6/B. § (1) bekezdés nyitó szövegrésze a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^63]: A Vhr. 6/B. § (3) bekezdése a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^64]: A Vhr. 6/B. § (3) bekezdése a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.

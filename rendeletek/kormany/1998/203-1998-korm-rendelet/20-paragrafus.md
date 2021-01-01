@@ -4,15 +4,15 @@
 
 (2) A bányatérkép hitelesítését hites bányamérő végezheti. A hites bányamérő felügyeli a bányamérést, a bányaműveletekkel, a bányakárokkal és a bányászati tevékenységet követő tájrendezéssel kapcsolatos, a bányavállalkozót terhelő mérési feladatok ellátását.
 
-(3)[^209] A hites bányamérő szakmai feladatát önállóan, egyéni felelősséggel látja el, tevékenységét a bányafelügyelet ellenőrzi.
+(3)[^215] A hites bányamérő szakmai feladatát önállóan, egyéni felelősséggel látja el, tevékenységét a bányafelügyelet ellenőrzi.
 
-(4)[^210] A bányamérés adatait és ezen adatokból létrehozott bányatérképek egy példányát – a műszaki üzemi terv mellékleteként – meg kell küldeni a bányafelügyeletnek.
+(4)[^216] A bányamérés adatait és ezen adatokból létrehozott bányatérképek egy példányát – a műszaki üzemi terv mellékleteként – meg kell küldeni a bányafelügyeletnek.
 
-(5)[^211] A bányafelügyelet – a térkép minősítésének megfelelő előírások megtartásával – köteles az érdekeltek részére a bányatérképekbe történő betekintést lehetővé tenni.
+(5)[^217] A bányafelügyelet – a térkép minősítésének megfelelő előírások megtartásával – köteles az érdekeltek részére a bányatérképekbe történő betekintést lehetővé tenni.
 
-(6)[^212]
+(6)[^218]
 
-[^209]: A Vhr. 20. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a, a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
-[^210]: A Vhr. 20. § (4) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^211]: A Vhr. 20. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
-[^212]: A Vhr. 20. § (6) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^215]: A Vhr. 20. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a, a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^216]: A Vhr. 20. § (4) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^217]: A Vhr. 20. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^218]: A Vhr. 20. § (6) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.

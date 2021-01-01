@@ -1,6 +1,6 @@
-4. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^379]
+4. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^386]
 
-A Magyar Bányászati és Földtani Szolgálat számára szolgáltatandó, a kutatás és a földtani kutatás során nyert földtani adatok[^380]
+A Magyar Bányászati és Földtani Szolgálat számára szolgáltatandó, a kutatás és a földtani kutatás során nyert földtani adatok[^387]
 
 I. A földtani adatok köre
 
@@ -28,7 +28,7 @@ e) a kutatólétesítmények földtani és műszaki anyagvizsgálati adatait;
 
 f) a geofizikai mérések alapdokumentációit;
 
-g)[^381] a hidrogeológiai, rezevoármechnikai, vízminőségi és fluidum-összetételi vizsgálatok adatait.
+g)[^388] a hidrogeológiai, rezevoármechnikai, vízminőségi és fluidum-összetételi vizsgálatok adatait.
 
 4. Az adatszolgáltatás során meg kell adni az alkalmazott mérési módszert, az azt leíró szabályozás címét, a mérési adatok feldolgozásához szükséges adatokat, illetőleg a mérési jegyzőkönyvi dokumentációt, a mérés helyét (nyomvonalát), a mérés kivitelezőjét, illetve a mintavétel helyét, a minta azonosítóját, a laboratóriumi vizsgálatok helyét és időpontját, az alkalmazott mérési, vizsgálati módszereket.
 
@@ -36,57 +36,9 @@ g)[^381] a hidrogeológiai, rezevoármechnikai, vízminőségi és fluidum-össz
 
 6. Elsődlegesen feldolgozott adatok esetén meg kell adni az elsődleges feldolgozás módszerének, illetve az azt leíró szabályozásnak, számítógépes szoftvernek a címét, illetve azonosítóját.
 
-II.[^382]
+II.[^389]
 
-1. számú függelék
-
-a 203/1998. (XII. 19.) Korm. rendelethez[^383]
-
-## BÁNYAFELÜGYELETI SZOLGÁLATI IGAZOLVÁNY
-
-## bányafelügyeleti hatósági feladatok ellátására
-
-## 7K38254M_0
-
-| Igazolvány száma: ........................ |  | (Érvényes visszavonásig!) |
-
-| FÉNYKÉP |  |
-
-| Munkáltató neve, székhelye: |
-
-## Név:
-
-## Beosztás:
-
-## Az igazolvány tulajdonosa jogosult ......................................................... illetékességi területén a bányafelügyeleti hatósági feladatok ellátására.
-
-## Kelt: ......................................., 2...... év ............... hó ...... napján
-
-## P. H.
-
-## .....................................................
-
-## (kiadó hatóság vezetőjének aláírása)
-
-## Pótlap:
-
-## Az igazolvány tulajdonosát közigazgatási eljárása során megilleti a hivatalos személyeknek járó büntetőjogi védelem. Jogosult az általános közigazgatási rendtartásról szóló törvényben, a bányászatról szóló 1993. évi XLVIII. törvényben, valamint végrehajtási rendeleteiben és a külön jogszabályban meghatározott ellenőrzésre és intézkedések megtételére.
-
-2. számú függelék
-
-a 203/1998. (XII. 19.) Korm. rendelethez[^384]
-
-Nyilvántartás a szolgálati igazolvánnyal és jelvénnyel ellátott
-
-bányafelügyeleti hatósági feladatokat végző személyekről
-
-| Sorszám | Az igazolvány tulajdonosának | A kiadás időpontja | Igazolvány és jelvény száma | Szerv. egys. neve, székhelye | Illetékességi terület | Átvevő aláírása | Visszavonás oka |
-
-| neve | szül. helye, ideje | lakóhelye |
-
-[^379]: A Vhr. 4. számú mellékletét a 268/2006. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^380]: A Vhr. 4. melléklet címe az 559/2013. (XII. 31.) Korm. rendelet 22. §-ával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 2. § l) pontja szerint módosított szöveg.
-[^381]: A Vhr. 4. számú melléklet I.3. pont g) alpontja a 146/2012. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^382]: A Vhr. 4. melléklet II. pontját a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.
-[^383]: A Vhr. 1. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 63. § k) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^384]: A Vhr. 2. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta a szövegbe.
+[^386]: A Vhr. 4. számú mellékletét a 268/2006. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^387]: A Vhr. 4. melléklet címe az 559/2013. (XII. 31.) Korm. rendelet 22. §-ával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 2. § l) pontja szerint módosított szöveg.
+[^388]: A Vhr. 4. számú melléklet I.3. pont g) alpontja a 146/2012. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^389]: A Vhr. 4. melléklet II. pontját a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.

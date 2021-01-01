@@ -1,9 +1,9 @@
-29. § (1)–(3)[^293]
+29. § (1)–(3)[^300]
 
-(4)[^294]
+(4)[^301]
 
-(5)[^295] A Bt. 23., 27., 30., 36. és 42. §-aiban előírt műszaki terveket a bányaüzem felelős műszaki vezetőjének ellen kell jegyeznie.
+(5)[^302] A Bt. 23., 27., 30., 36. és 42. §-aiban előírt műszaki terveket a bányaüzem felelős műszaki vezetőjének ellen kell jegyeznie.
 
-[^293]: A Vhr. 29. §-ának (1)–(3) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
-[^294]: A Vhr. 29. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
-[^295]: A Vhr. 29. §-ának (5) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 20. §-ának (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^300]: A Vhr. 29. §-ának (1)–(3) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^301]: A Vhr. 29. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^302]: A Vhr. 29. §-ának (5) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 20. §-ának (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
