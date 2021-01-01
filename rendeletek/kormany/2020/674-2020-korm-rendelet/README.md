@@ -1,0 +1,9 @@
+# 674/2020. (XII. 28.) Korm. rendelet
+
+a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-674-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-01-01 | 2020-674-20-22.1 | 674/2020. (XII. 28.) Korm. rendelet |
