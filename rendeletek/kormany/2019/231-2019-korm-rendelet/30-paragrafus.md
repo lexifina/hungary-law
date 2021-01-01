@@ -6,6 +6,8 @@
 
 (2) Az (1) bekezdést az Eftv. 3. §-a és 4. §-a szerinti költségvetési támogatásra nem lehet alkalmazni.
 
-(3) Az (1) bekezdés szerinti költségvetési támogatásra vonatkozó támogatási szerződés vagy támogatói okirat az Ávr. 75. § (2) bekezdés h) pontja szerinti nyilatkozat megtétele hiányában is megköthető vagy kiadható.
+(3)[^6] Ha a támogatott tevékenység hatósági engedélyhez kötött, a hatósági engedélyt az elszámolás során kell benyújtani.
 
 (4) A bevett egyház és belső egyházi jogi személye számára a központi költségvetésről szóló törvénynek a miniszter által vezetett minisztérium költségvetési fejezetéből a hit- és erkölcstanoktatás 8 főt meg nem haladó csoportja után nyújtott költségvetési támogatásra az Ávr. 93. § (3) bekezdését nem kell alkalmazni.
+
+[^6]: A 30. § (3) bekezdése a 653/2020. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.

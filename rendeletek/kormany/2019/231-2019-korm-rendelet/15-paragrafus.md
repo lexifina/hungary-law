@@ -12,7 +12,7 @@ a) nevét, ha azzal rendelkezik, rövidített nevét és a köznyelvben meghonos
 
 b) székhelyét,
 
-c) képviselőjének nevét, lakóhelyét és a képviselet gyakorlásának módját, továbbá
+c)[^1] képviselőjének hivatalos nevét – továbbá, ha rendelkezik ilyennel és kéri, az egyházi nevét is –, lakóhelyét és a képviselet gyakorlásának módját, továbbá
 
 d) ha azzal rendelkezik, címerének és logójának tartalmi leírását.
 
@@ -33,3 +33,5 @@ f) ha azzal rendelkezik, címerének és logójának képi megjelenítését.
 (5) A (4) bekezdés szerinti dokumentumokat nem kell benyújtani, ha a bevett egyház belső szabálya alapján az a bevett egyház tekintetében nem értelmezhető.
 
 (6) A bevett egyház a nyilvántartásba vétel során kilencjegyű nyilvántartási számot kap, amelyben az első öt jegy a nyilvántartásba vétel sorszámát jelenti, amelyhez perjellel a nyilvántartásba vétel éve kapcsolódik.
+
+[^1]: A 15. § (3) bekezdés c) pontja a 653/2020. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
