@@ -1,3 +1,3 @@
-8. melléklet a 20/2019. (VIII. 30.) EMMI rendelethez[^35]
+8. melléklet a 20/2019. (VIII. 30.) EMMI rendelethez[^34]
 
-[^35]: A 8. melléklet a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 8. melléklet a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
