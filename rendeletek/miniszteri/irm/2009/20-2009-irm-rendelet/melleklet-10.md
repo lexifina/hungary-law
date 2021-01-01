@@ -50,19 +50,25 @@ ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁN
 
 | 3. A korlátozás elrendelésének adatai: |
 
-| 3.1. Az eljáró bíróság megnevezése: ......................................................................................................................................... |
+| 3.1. Az eljáró bíróság megnevezése: ..........................................................…........................................................................……………..... |
 
-| 3.2. határozatának száma: .................................................. és kelte: | ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 3.2. határozatának száma: ......................................................….. és kelte: | □□□□ év □□ hó □□ nap. |
 
-| 3.3. A korlátozás lejáratának napja: | ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 3.3. A korlátozás lejáratának napja: | □□□□ év □□ hó □□ nap. |
 
-| 3.4. Az elrendelt korlátozás típusa: |  |
+| 3.4. Az elrendelt korlátozás típusa: |
 
-| ⬜KIADATÁSI LETARTÓZTATÁS | ⬜IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
+| □ KIADATÁSI LETARTÓZTATÁS | □ IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
 
-| ⬜ÁTADÁSI LETARTÓZTATÁS ⬜IDEIGLENES ÁTADÁSI BŰNÜGYI FELÜGYELET ⬜IDEIGLENES VÉGREHAJTÁSI BŰNÜGYI FELÜGYELET | ⬜IDEIGLENES ÁTADÁSI LETARTÓZTATÁS ⬜IDEIGLENES KIADATÁSI BŰNÜGYI FELÜGYELET |
+| □ ÁTADÁSI LETARTÓZTATÁS | □ IDEIGLENES ÁTADÁSI LETARTÓZTATÁS |
 
-| ⬜IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | ⬜MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
+| □ KIADATÁSI BŰNÜGYI FELÜGYELET |  |
+
+| □ IDEIGLENES ÁTADÁSI BŰNÜGYI FELÜGYELET | □ IDEIGLENES KIADATÁSI BŰNÜGYI FELÜGYELET |
+
+| □ IDEIGLENES VÉGREHAJTÁSI BŰNÜGYI FELÜGYELET |  |
+
+| □ IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | □ MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
 
 | 4. ⬜ Az érintett személy a kiadatási letartóztatás elrendelésekor ideiglenes kiadatási letartóztatást tölt. |
 
@@ -70,19 +76,25 @@ ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁN
 
 | 6. A korlátozás megszüntetésének adatai: |
 
-| 6.1. Az eljáró bíróság megnevezése: ............................................................................................................................................ |
+| 6.1. Az eljáró bíróság megnevezése: …...............................................................................…….......................……………….... |
 
-| 6.2. határozatának száma: ................................................ és kelte: | ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 6.2. határozatának száma: ............................................................. és kelte: | □□□□ év □□ hó □□ nap |
 
-| 6.3. A korlátozás lejáratának napja: | ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 6.3. A korlátozás lejáratának napja: | □□□□ év □□ hó □□ nap. |
 
-| 6.4. Az elrendelt korlátozás típusa: |  |
+| 6.4. Az elrendelt korlátozás típusa: |
 
-| ⬜KIADATÁSI LETARTÓZTATÁS | ⬜IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
+| □ KIADATÁSI LETARTÓZTATÁS | □ IDEIGLENES KIADATÁSI LETARTÓZTATÁS |
 
-| ⬜ÁTADÁSI LETARTÓZTATÁS ⬜IDEIGLENES ÁTADÁSI BŰNÜGYI FELÜGYELET ⬜IDEIGLENES VÉGREHAJTÁSI BŰNÜGYI FELÜGYELET | ⬜IDEIGLENES ÁTADÁSI LETARTÓZTATÁS ⬜IDEIGLENES KIADATÁSI BŰNÜGYI FELÜGYELET |
+| □ ÁTADÁSI LETARTÓZTATÁS | □ IDEIGLENES ÁTADÁSI LETARTÓZTATÁS |
 
-| ⬜IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | ⬜MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
+| □ KIADATÁSI BŰNÜGYI FELÜGYELET |  |
+
+| □ IDEIGLENES ÁTADÁSI BŰNÜGYI FELÜGYELET | □ IDEIGLENES KIADATÁSI BŰNÜGYI FELÜGYELET |
+
+| □ IDEIGLENES VÉGREHAJTÁSI BŰNÜGYI FELÜGYELET |  |
+
+| □ IDEIGLENES VÉGREHAJTÁSI LETARTÓZTATÁS | □ MAGYARORSZÁG TERÜLETÉNEK ELHAGYÁSA TILOS |
 
 | 7. Külföldi hatóságok részére átadás adatai: |
 
@@ -98,4 +110,4 @@ ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁN
 
 |  |  | Az eljáró szerv képviselője |
 
-[^118]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 25/2019. (X. 30.) IM rendelet 2. §-ával megállapított szöveg.
+[^118]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 25/2019. (X. 30.) IM rendelet 2. §-ával megállapított, a 20/2020. (XII. 30.) IM rendelet 41. § (1) bekezdése szerint módosított szöveg.
