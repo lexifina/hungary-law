@@ -86,7 +86,7 @@
 
 ## 08. Egyéb tartalékok változása (±)
 
-## a) nagy károk tartalékának változása (±)
+## a)[^158]
 
 ## b) törlési tartalék változása (±)
 
@@ -218,7 +218,7 @@
 
 ## 09. Egyéb tartalékok változása (±)
 
-## a) nagy károk tartalékának változása (±)
+## a)[^159]
 
 ## b) törlési tartalék változása (±)
 
@@ -312,9 +312,9 @@
 
 ## F) ADÓZOTT EREDMÉNY (±E–15)
 
-## 16–17.[^155]
+## 16–17.[^160]
 
-## G)[^156]
+## G)[^161]
 
 ## Az eredménykimutatás egyes tételeire vonatkozó
 
@@ -340,7 +340,7 @@
 
 ## Ez a sor tartalmazza a nem-életbiztosítási ághoz kapcsolódó tartalékok fedezetéül szolgáló befektetések bevételéből átvezetett, a biztosítottaknak visszajuttatandó eredményt.
 
-## A/03. és B/04. sor[^157]: Egyéb biztosítástechnikai bevétel
+## A/03. és B/04. sor[^162]: Egyéb biztosítástechnikai bevétel
 
 ## Itt kell kimutatni a biztosítási tevékenységből eredő, az előbbiek közé nem tartozó egyéb biztosítási bevételek összegét.
 
@@ -424,7 +424,7 @@
 
 ## A c) pontban kell többek között kimutatni a külföldi pénzértékre szóló befektetések 6. § (2) bekezdése szerinti értékeléséből adódó árfolyamveszteséget.
 
-## A/10. és B/14. sor:[^158] Egyéb biztosítástechnikai ráfordítások
+## A/10. és B/14. sor:[^163] Egyéb biztosítástechnikai ráfordítások
 
 ## Itt kell kimutatni a biztosítási tevékenységből eredő és az előbbi sorok ráfordításai közé nem tartozó, biztosítási szerződésekhez közvetlenül kapcsolható egyéb biztosítási ráfordítások összegét. Ide kell elszámolni a Kártalanítási Számlával szemben elszámolt összeget is, ha az veszteségjellegű.
 
@@ -448,10 +448,12 @@
 
 ## Itt kell szerepeltetni – a 9. § (11) bekezdésének előírásait is figyelembe véve – a Tv. szerinti egyéb ráfordítások közé tartozó tételek összegét, továbbá a nem biztosítási tevékenységhez kapcsolódó ráfordításokat is (pl. iparűzési adó). Nem szabad ide beállítani a biztosítási állományhoz kapcsolódó ingatlanok értékesítésének ráfordításait (nettó értékét).
 
-3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^159]
+3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^164]
 
-[^155]: A 2. számú melléklet F) pont 16–17. alpontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^156]: A 2. számú melléklet G) pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^157]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a, a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^158]: A 2. számú melléklet A/10. és B/14. sor szövege a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^159]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a, a 342/2011. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^158]: A 2. számú melléklet Az eredménykimutatás előírt tagolása cím A) Nem életbiztosítási ágnál rész 08. Egyéb tartalékok változása (±) pont a) alpontját a 295/2015. (X. 8.) Korm. rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^159]: A 2. számú melléklet Az eredménykimutatás előírt tagolása cím B) Életbiztosítási ágnál rész 09. Egyéb tartalékok változása (±) pont a) alpontját a 295/2015. (X. 8.) Korm. rendelet 15. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^160]: A 2. számú melléklet F) pont 16–17. alpontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^161]: A 2. számú melléklet G) pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^162]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a, a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^163]: A 2. számú melléklet A/10. és B/14. sor szövege a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^164]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a, a 342/2011. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 (5)[^26] A C/4. Díj-visszatérítési tartalékok mérlegsoron, valamint annak további részletezéseként kell kimutatni az eredménytől függő díj-visszatérítési tartalékot, valamint az eredménytől független díj-visszatérítési tartalékot.
 
-(6)[^27] A C/6. Egyéb tartalékok mérlegsoron, valamint annak további részletezéseként kell kimutatni a nagy károk tartalékát, a törlési tartalékot és az egyéb biztosítástechnikai tartalékot. Az egyéb biztosítástechnikai tartalék magában foglalja a külön jogszabály szerinti várható veszteség tartalékát, illetve a hitel- és kezesi biztosítások külön tartalékát.
+(6)[^27] A C/6. Egyéb tartalékok mérlegsoron, valamint annak további részletezéseként kell kimutatni a törlési tartalékot és az egyéb biztosítástechnikai tartalékot. Az egyéb biztosítástechnikai tartalék magában foglalja a külön jogszabály szerinti várható veszteség tartalékát, illetve a hitel- és kezesi biztosítások külön tartalékát.
 
 (7)[^28] A D. Biztosítástechnikai tartalékok a befektetési egységekhez kötött (unit-linked) életbiztosítás szerződői javára mérlegsoron kell kimutatni azokat a tartalékokat, amelyeket az ezen életbiztosításokkal összefüggő befektetésekkel kapcsolatos kötelezettségek fedezetére képeztek. Ezen kötelezettségek értékét a befektetések értéke határozza meg, a tartalékot szerződésenként, egyedileg kell képezni. Ezen soron más biztosítástechnikai tartalék (pl. haláleseti kockázatra képzett tartalék) nem szerepelhet.
 
@@ -20,6 +20,6 @@
 [^24]: Az 5. § (2) bekezdése a 46/2015. (III. 12.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^25]: Az 5. § (4) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
 [^26]: Az 5. § (5) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^27]: Az 5. § (6) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^27]: Az 5. § (6) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 24. §-ával megállapított, a 295/2015. (X. 8.) Korm. rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^28]: Az 5. § (7) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
 [^29]: Az 5. § (9) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 5. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, (3) bekezdése alapján a 2003. évi üzleti évről készített beszámolóra is alkalmazható.
