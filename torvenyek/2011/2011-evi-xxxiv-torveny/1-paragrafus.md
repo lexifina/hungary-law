@@ -1,6 +1,18 @@
 ## 1. Általános rendelkezések
 
-1. § (1) E törvényben foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre, a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira, továbbá – a rájuk vonatkozó rendelkezések tekintetében – az állomány tagjainak Magyarország területén tartózkodó hozzátartozóira és az USA-vállalkozókra.
+1. § (1) Az e törvényben foglaltakat kell alkalmazni
+
+a) a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre és azok állományának tagjaira,
+
+b) a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira,
+
+c) a rájuk vonatkozó rendelkezések tekintetében
+
+ca) a nem Magyarországon települt, de Magyarországon szolgálati céllal ideiglenesen működő nemzetközi katonai parancsnokságokra,
+
+cb) az a) és b) pont szerinti állomány tagjainak Magyarország területén tartózkodó hozzátartozóira,
+
+cc) az USA-vállalkozókra.
 
 (2) Nem alkalmazandó e törvény valamely állam Magyarország területére akkreditált diplomáciai képviseletéhez tartozó katonai állomány tagjára, ideértve a katonai attaséhivatalok tagjait is.
 

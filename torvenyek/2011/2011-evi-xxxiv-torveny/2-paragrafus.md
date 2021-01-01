@@ -2,7 +2,7 @@
 
 2. § (1) E törvény alkalmazásában
 
-a) külföldi fegyveres erő: valamely külföldi állam haderejét alkotó szárazföldi, haditengerészeti és légierő, továbbá a haderő szervezetéhez kapcsolódó rendfenntartó erők összessége;
+a) külföldi fegyveres erő: külföldi állam haderejét alkotó erők, vagy ezek egyes alakulatai, kontingensei, illetve szervezeti elemei;
 
 b) külföldi fegyveres erő állományának tagja: az a) pontban foglalt fegyveres erő katonai személyi állományának és a fegyveres erő alkalmazásában álló polgári személyzet tagja;
 
