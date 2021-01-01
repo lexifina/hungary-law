@@ -6,4 +6,4 @@
 
 (4) Az (1) bekezdésben megjelölt bírósági vezetői megbízatás betöltésére e törvény hatálybalépését követően pályázat nem írható ki, e feladatok ellátására megbízás csak 2020. március 31. napjáig adható.
 
-(5) Jogegységi panasz eljárásnak a 2020. július 1-jén és az azt követően meghozott jogerős ítélet vagy az ügy érdemében hozott jogerős végzés ellen van helye.
+(5) Jogegységi panasz eljárásnak a Kúria 2020. július 1-jén és az azt követően meghozott, a 41/B. §-ban meghatározott határozata ellen van helye. A 41/B. §-ban meghatározott feltételek teljesülése esetén a jogegységi panasz eljárásnak az ügyben alkalmazott és alkalmazandó eljárási törvénytől függetlenül helye van, ha a felülvizsgálati kérelemmel támadott határozatot a bíróság 2020. április 1-jét és a Kúria a határozatát 2020. július 1-jét követően hozta.

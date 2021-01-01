@@ -4,7 +4,7 @@
 
 (2) Ha a jogegységi eljárásban hozandó döntés több szakágú jogegységi tanács ügykörét érinti, a jogegységi tanács elnöke a jogegységi tanácsot az érintett szakágban eljáró bírák közül arányosan jelöli ki. E jogegységi tanács az elnökből és további 6 tagból áll, elnöke a Kúria elnöke vagy elnökhelyettese.
 
-(3) A jogegységi indítvány előterjesztője – a (4) bekezdésben foglalt kivétellel – nem lehet a jogegységi tanács elnöke. A 32. § (1) bekezdés b) pontja szerinti esetben a jogegységi tanács tagjait úgy kell kiválasztani, hogy abban nem lehetnek többségben annak a tanácsnak a tagjai, amely jogkérdésben el kíván térni a Kúria közzétett határozatától, illetve annak a tanácsnak a tagjai, amely a közzétett határozatot hozta.
+(3) A jogegységi indítvány előterjesztője – a (4) bekezdésben foglalt kivétellel – nem lehet a jogegységi tanács elnöke. A 32. § (1) bekezdés b) pontja szerinti esetben a jogegységi tanács tagjait úgy kell kiválasztani, hogy abban nem lehetnek többségben annak a tanácsnak a tagjai, amely jogkérdésben el kíván térni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, illetve annak a tanácsnak a tagjai, amely a közzétett határozatot hozta.
 
 (4) A jogegységi tanács a Kúria teljes kollégiuma, ha a jogegységi eljárás célja
 

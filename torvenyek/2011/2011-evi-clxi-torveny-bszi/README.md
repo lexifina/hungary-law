@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-161-00-00
 | 2019-01-01 | 2017. évi L. törvény | 2011-161-00-00.23 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2011-161-00-00.24 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2011-161-00-00.25 |
+| 2021-01-01 | 2020. évi CLXV. törvény | 2011-161-00-00.26 |
