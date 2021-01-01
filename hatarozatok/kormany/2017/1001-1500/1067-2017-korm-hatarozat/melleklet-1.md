@@ -1,10 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) XX. Emberi Erőforrások Minisztériuma fejezet címrendjének a 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 13. Arany János-emlékév programjainak támogatása jogcímcsoporttal történő kiegészítését;
+## 1.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 4000,0 millió forint – 1. melléklet szerinti – egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Kvtv.1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 13. Arany János-emlékév programjainak támogatása jogcímcsoport javára.
+## 2.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 4000,0 millió forint – 1. melléklet szerinti – egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Kvtv.1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 13. Arany János-emlékév programjainak támogatása jogcímcsoport javára.
 
 ## Az átcsoportosítás tekintetében
 
@@ -29,6 +25,8 @@ ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 a Kormány hatáskörében
 
 Költségvetési év: 2017.
+
+7K00370_0
 
 | millió forintban, egy tizedessel |
 
@@ -96,4 +94,5 @@ Költségvetési év: 2017.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1899/2020. (XII. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont az 1899/2020. (XII. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
