@@ -1,0 +1,1 @@
+## „(6a) Ha a villamosenergia-vásárlási szerződés rendelkezik a villamos energia árára, vagy a villamosenergia-fogyasztással összefüggő valamely kedvezmény villamosenergia-vásárlási szerződés hatálybalépését követő változásáról a változást, annak hatálybalépésével együtt a villamosenergia-kereskedő a szerződés alapján kiállított számlán feltünteti.”
