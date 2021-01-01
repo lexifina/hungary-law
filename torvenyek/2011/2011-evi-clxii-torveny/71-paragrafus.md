@@ -8,6 +8,6 @@
 
 (4) Az OBH-ba beosztott bíró hivatali tevékenységét az OBH elnöke értékeli az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint.
 
-(5) A minisztériumba beosztott bíró hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre irányadó szabályok szerint értékeli.
+(5)
 
-(6) Az érintett szervhez beosztott közigazgatási ügyekben eljáró bíró hivatali munkáját a beosztás szerinti szerv vezetője a beosztás szerinti szervnél szolgálatot teljesítő alkalmazottakra irányadó szabályok szerint értékeli.
+(6) Az érintett szervhez beosztott bíró hivatali munkáját a beosztás szerinti szerv vezetője a beosztás szerinti szervnél szolgálatot teljesítő alkalmazottakra irányadó szabályok szerint értékeli.

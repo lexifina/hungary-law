@@ -1,6 +1,6 @@
 ## 79. Az ülnök javadalmazása
 
-221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
+221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
 
 (2) Ha valamely jogszabályban biztosított juttatáshoz való jogosultság, illetve annak mértéke meghatározott munkateljesítménytől vagy a munkában eltöltött napok számától függ, az ülnöki működés időtartamát munkában töltött időként kell számításba venni.
 

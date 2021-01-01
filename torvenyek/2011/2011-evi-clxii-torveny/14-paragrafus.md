@@ -6,7 +6,7 @@ a) a szakmai értékelés tekintetében
 
 aa) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye,
 
-ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírói, bírósági titkári joggyakorlati idő, valamint a központi igazgatási feladatokban történő közreműködés OBH elnöke általi értékelése, a jogegységi határozatok előkészítésével és a joggyakorlat elemzéssel kapcsolatos átfogó ismeretek megszerzése érdekében a Kúrián beosztott bíróként, bírósági titkárként eltöltött joggyakorlati idő Kúria elnöke általi értékekése, továbbá a jogszabályok előkészítésére vonatkozó átfogó ismeretek megszerzése érdekében az igazságügyért felelős miniszter által vezetett minisztériumban eltöltött bírói, bírósági titkári joggyakorlati idő miniszter általi értékelése,
+ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírói, bírósági titkári joggyakorlati idő, valamint a központi igazgatási feladatokban történő közreműködés OBH elnöke általi értékelése, a jogegységi határozatok előkészítésével és a joggyakorlat elemzéssel kapcsolatos átfogó ismeretek megszerzése érdekében a Kúrián beosztott bíróként, bírósági titkárként eltöltött joggyakorlati idő Kúria elnöke általi értékelése, továbbá az érintett szerv alaptevékenységébe tartozó közjogi jellegű feladat- és hatáskör ellátása érdekében a 27/A. §-ban meghatározott érintett szervnél eltöltött bírói, bírósági titkári joggyakorlati idő szerv vezetője általi értékelése,
 
 ac) nem bírósági joggyakorlattal rendelkező pályázó esetén a korábbi munkáltató értékelése,
 

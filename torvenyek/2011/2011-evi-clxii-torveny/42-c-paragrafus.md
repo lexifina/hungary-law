@@ -14,7 +14,7 @@ bd) az OBH elnökhelyettese,
 
 be) az OBH-ban az OBH elnöke által szabályzatban meghatározott szervezeti egység főosztályvezetője,
 
-bf) a minisztériumban vagy az érintett szervnél nemzetbiztonsági ellenőrzéshez kötött tisztséget tölt be, vagy ilyen munkakört lát el,
+bf) az érintett szervnél nemzetbiztonsági ellenőrzéshez kötött tisztséget tölt be, vagy ilyen munkakört lát el,
 
 c) a bíró, akinek a feladata az OBH-ban vagy a bíróságon
 
