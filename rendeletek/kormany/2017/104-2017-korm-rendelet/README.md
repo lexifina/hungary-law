@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-104-20-
 | 2018-06-09 | 2017-104-20-22.7 | 16/2018. (II. 13.) Korm. rendelet |
 | 2019-12-31 | 2017-104-20-22.8 | 16/2018. (II. 13.) Korm. rendelet |
 | 2020-03-01 | 2017-104-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-01-01 | 2017-104-20-22.10 | 713/2020. (XII. 30.) Korm. rendelet |
