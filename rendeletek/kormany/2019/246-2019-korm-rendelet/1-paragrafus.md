@@ -4,8 +4,10 @@
 
 a) az alapvizsga és az időszakos vizsga lebonyolítása,
 
-b) az alapképzés és az időszakos oktatás szakmai irányítása,
+b)[^1]
 
 c) részvétel az a) pont szerinti feladatokkal kapcsolatos jogszabálytervezetek véleményezésében,
 
 d) együttműködés a feladatkörével kapcsolatos tevékenységet folytató hazai és határon túli civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, testületekkel.
+
+[^1]: Az 1. § (2) bekezdés b) pontját a 722/2020. (XII. 31.) Korm. rendelet 54. §-a hatályon kívül helyezte.
