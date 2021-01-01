@@ -1,3 +1,1 @@
-4. melléklet a 7/2020. (VII. 30.) PM rendelethez[^22]
-
-[^22]: A 4. melléklet a 17. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+4. melléklet a 7/2020. (VII. 30.) PM rendelethez
