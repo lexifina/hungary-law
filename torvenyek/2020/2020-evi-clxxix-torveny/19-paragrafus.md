@@ -1,0 +1,3 @@
+19. § Az Lt. a következő 77. §-sal egészül ki:
+
+„77. § A kijelölt eseti légtérben végrehajtott UAS-művelet során az adott eseti légtér jogosultjaként a távoli pilóta a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó mobilalkalmazásban 2021. július 31. előtt akkor jelöli be az általa használt, a vonatkozó szabályok szerint aktivált légteret, ha azt a magyar légtér igénybevételéről szóló kormányrendelet előírja.”
