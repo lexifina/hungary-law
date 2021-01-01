@@ -8,7 +8,7 @@ a) a kezdeményező rendelkezésére álló adatok alapján alaposan feltehető,
 
 b) a betekintés céljából történő hozzáférésre a (2) bekezdésben meghatározott bűncselekmények körébe tartozó valamely bűncselekmény megelőzésére, felderítésére vagy az e cselekményekkel összefüggő információszerzésre irányuló egyedi eljárásban van szükség.
 
-(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
+(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
 
 a) a (3) bekezdés a) pontjában meghatározott feltétel igazolására vonatkozó adatok,
 
@@ -42,9 +42,9 @@ j) a vízum típusa és a vízumbélyeg száma,
 
 k) a meghívólevelet kibocsátó, illetve a tartózkodás ideje alatt a megélhetési költségeket fedező személy adatai.
 
-(6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
+(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
 
-(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
+(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
 
 (8) A kezdeményezés alapján hozzáféréssel a Vízuminformációs Rendszerből nem vehető át és nem továbbítható adat, ha a (2)–(5) bekezdésben meghatározott feltételek nem teljesülnek. Ha a kezdeményezés alapján a 2008/633/IB tanácsi határozat szerinti, kijelölt nemzeti központi hozzáférési pont hozzáféréssel a kezdeményezést teljesíti és a hozzáférés a Vízuminformációs Rendszerben találatot eredményez, a kérelmező nemzetbiztonsági szolgálat részére a kezdeményezésben igényelt adatokon túlmenően továbbíthatók:
 

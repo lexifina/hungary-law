@@ -14,7 +14,7 @@ f) ellátja az objektumai műveleti védelmének és személyi állománya, vala
 
 g) elvégezheti a saját minősített beszerzései tekintetében a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti kiegészítő ellenőrzést,
 
-h) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez,
+h) az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a titkos információgyűjtés folytatására feljogosított szerv, valamint a nemzetbiztonsági szolgálatok megkeresése alapján közreműködik az adatkérő által jogszerűen kezelhető adat igénylésében,
 
 i) jogszabály rendelkezései szerint ellátja az elektronikus információbiztonsággal kapcsolatos feladatokat,
 

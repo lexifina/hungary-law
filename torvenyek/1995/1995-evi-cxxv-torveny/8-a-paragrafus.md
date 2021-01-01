@@ -26,11 +26,15 @@ f) az általa kezelt adatok elemzésének eredményeként személyazonosításra
 
 (3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ támogató, koordinációs elemző-értékelő tevékenység során
 
-a) elemző, tájékoztató és koordinációs tevékenysége kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt, valamennyi információra;
+a) elemző, tájékoztató és koordinációs tevékenysége kiterjed
 
-b) az együttműködő szerveket visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
+aa) az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint
 
-c) a nemzeti szintű koordináció elősegítése érdekében, elemzési feladatai ellátása, illetve az együttműködő szervek támogatása céljával adatbázisokat kezel;
+ab) az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezett eszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatokra, információkra;
+
+b) az együttműködő szerveket és az ügyészséget visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
+
+c) a nemzeti szintű koordináció elősegítése érdekében, elemzési feladatai ellátása, illetve az együttműködő szervek támogatása és az ügyészség a) pont ab) alpontja szerinti hatásköre gyakorlásának támogatása céljával adatbázisokat kezel;
 
 d) nyílt információgyűjtést- és feldolgozást végző szolgáltató és támogató szervet működtet;
 
@@ -38,9 +42,9 @@ e) elemzések készítésével információs támogatást nyújt a Kormány, a K
 
 f) országos jelentőségű, több szervet érintő, valamint a Kormány, a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport által meghatározott ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
 
-g) Magyarország nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, ezek meghatározott elemeivel, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztató jelentéseket, háttér- és kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó feladatok törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
+g) Magyarország nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, ezek meghatározott elemeivel, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztató jelentéseket, háttér- és kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az a) pont ab) alpontja szerinti feladatok törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
 
-h) feltárja az együttműködő szervek által folytatott párhuzamos adatkezeléseket, különösen a több együttműködő szerv által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, alkalmazott leplezett eszközöket, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és előkészítő eljárásokat és ezekről tájékoztatja az érintett együttműködő szerveket;
+h) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, leplezett eszköz-alkalmazásokat, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és előkészítő eljárásokat érintő párhuzamos adatkezeléseket és ezekről tájékoztatja az érintett ügyészséget, illetve együttműködő szervet;
 
 i) abban az esetben, ha
 
@@ -50,7 +54,7 @@ ib) olyan információt szerez meg, amely alapján a büntetőeljárásról szó
 
 ic) olyan információt szerez meg, amely alapján nemzetbiztonsági szolgálat vagy a rendőrség terrorizmust elhárító szervének hatáskörébe tartozó intézkedés megtételének lehet helye, ennek kezdeményezése céljából a hatáskörrel rendelkező nemzetbiztonsági szolgálatnak, illetve a rendőrség terrorizmust elhárító szervének átadhatja az általa összegyűjtött adatokat, szükség esetén javaslatot tehet titkos információgyűjtés lefolytatására;
 
-j) figyelemmel kíséri, hogy az együttműködő szerv által folytatott nyomozás vagy titkos információgyűjtés során keletkezett és a Terrorelhárítási Információs és Bűnügyi Elemző Központ által felhasznált adattal kapcsolatban rendelkezésre áll-e az adatot pontosító, kiegészítő információ; ha a pontosító, kiegészítő információt tartalmazó adatot másik együttműködő szerv kezeli, a Terrorelhárítási Információs és Bűnügyi Elemző Központ mindkét együttműködő szervet értesíti és kezdeményezi a kapcsolatfelvételt;
+j) figyelemmel kíséri, hogy az együttműködő szerv vagy az ügyészség által folytatott előkészítő eljárás, nyomozás vagy titkos információgyűjtés során keletkezett és a Terrorelhárítási Információs és Bűnügyi Elemző Központ által felhasznált adattal kapcsolatban rendelkezésre áll-e az adatot pontosító, kiegészítő információ; ha azt az ügyészség vagy másik együttműködő szerv kezeli, a Terrorelhárítási Információs és Bűnügyi Elemző Központ értesíti az érintett szerveket és kezdeményezi a kapcsolatfelvételt;
 
 k) figyelemmel kíséri a bűnszervezetek és terrorszervezetek, valamint a szervezett bűnözői és terrorista csoportok tevékenységét, az ilyen szervezetek és csoportok egymáshoz való viszonyát, kapcsolatait, a jogsértő módon szerzett vagyonuk, illetve az ilyen vagyon jogsértő eredetének leplezésére irányuló törekvéseik és az ilyen célt szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez;
 
@@ -58,6 +62,6 @@ l) az általa kezelt adat együttműködő szerv részére történő továbbít
 
 (4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ ellátja az utasadat-információs egység feladatait.
 
-(5) A (3) bekezdés h) pontjában meghatározott esetben, amennyiben a párhuzamos adatkezelést végző egyik szerv a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ a párhuzamos adatkezelésről csak a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathat másik együttműködő szervet.
+(5) A (3) bekezdés h) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Terrorelhárítási Információs és Bűnügyi Elemző Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
 
 (6) Az együttműködő szerv a Terrorelhárítási Információs és Bűnügyi Elemző Központ által továbbított adat felhasználásáról, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ által az adat felhasználására tett javaslat, illetve a Terrorelhárítási Információs és Bűnügyi Elemző Központ által tett egyéb jelzés, kezdeményezés elfogadásáról vagy elutasításáról nyolc munkanapon belül tájékoztatja az irányító minisztert és a Terrorelhárítási Információs és Bűnügyi Elemző Központot.

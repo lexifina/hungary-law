@@ -46,7 +46,7 @@ Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncs
 
 2.14. emberrablás feljelentésének elmulasztása [Btk. 191. §],
 
-2.15. emberkereskedelem [Btk 192. § (1)–(6) bekezdése],
+2.15. emberkereskedelem és kényszermunka [Btk. 192. § (1)–(6) bekezdése],
 
 2.16. személyi szabadság megsértése [Btk. 194. §],
 
@@ -140,7 +140,7 @@ Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncs
 
 2.61. információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (1)–(5) bekezdése],
 
-2.62. orgazdaság [Btk. 379. § (1) bekezdése, (3)–(6) bekezdés],
+2.62. orgazdaság [a 2020. december 31-éig hatályban volt Btk. 379. § (1) és (3)–(6) bekezdése],
 
 2.63. bitorlás [Btk. 384. § (1) bekezdése]
 
@@ -156,7 +156,7 @@ Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncs
 
 2.69. költségvetési csalás [Btk. 396. § (2)–(7) bekezdése],
 
-2.70. pénzmosás [Btk. 399. § (1)–(4) bekezdése, 400. § (2) bekezdése],
+2.70. pénzmosás [Btk. 399. § (1)–(7) bekezdése, 400. § (2) bekezdése],
 
 2.71. rossz minőségű termék forgalomba hozatala [Btk. 415. § (1) és (2) bekezdése],
 
