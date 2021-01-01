@@ -2,7 +2,7 @@
 
 (2) A fegyelmi tanács tárgyalását úgy kell kitűzni, hogy arról a felek az értesítést a tárgyalás előtt legalább három munkanappal korábban megkapják.
 
-(3)[^8] A tárgyaláson az államigazgatási szervet az ügy vizsgálóbiztosa képviseli, a kormánytisztviselő jogi képviselőt is igénybe vehet, vagy kérelmére az államigazgatási szervnél működő munkavállalói érdek-képviseleti szerv képviselőjének a részvételét, illetve képviseleti jogának gyakorlását lehetővé kell tenni.
+(3)[^9] A tárgyaláson az államigazgatási szervet az ügy vizsgálóbiztosa képviseli, a kormánytisztviselő jogi képviselőt is igénybe vehet, vagy kérelmére az államigazgatási szervnél működő munkavállalói érdek-képviseleti szerv képviselőjének a részvételét, illetve képviseleti jogának gyakorlását lehetővé kell tenni.
 
 (4) Ha a kormánytisztviselő vagy képviselője a tárgyaláson nem jelenik meg, tárgyalást tartani és az ügyet érdemben elbírálni csak akkor lehet, ha a kormánytisztviselőt vagy képviselőjét szabályszerűen értesítették. Az eljárás akkor is lefolytatható, ha a kormánytisztviselő vagy képviselője előzetesen bejelentette, hogy a tárgyaláson nem kíván részt venni.
 
@@ -10,4 +10,4 @@
 
 (6) Amennyiben az ügy a tárgyaláson nem volt tisztázható, további nyolc napon belül újabb tárgyalást kell tartani.
 
-[^8]: A 7. § (3) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.

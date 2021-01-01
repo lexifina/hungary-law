@@ -6,8 +6,9 @@
 
 (2) E rendelet hatálya nem terjed ki
 
-a) a Nemzeti Adó- és Vámhivatalnál foglalkoztatott kormányzati szolgálati jogviszonyban állókra,
+a)[^2]
 
 b) a polgármesterre és az alpolgármesterre.
 
 [^1]: Az 1. § a 338/2017. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontját a 671/2020. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
