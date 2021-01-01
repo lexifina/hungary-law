@@ -26,7 +26,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 7a.[^3] munkavállaló: az a személy, aki munkaviszonyban áll;
 
-7b.[^4] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak jogállásáról szóló törvény hatálya alá tartozó honvédelmi alkalmazotti jogviszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony;
+7b.[^4] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak jogállásáról szóló törvény hatálya alá tartozó honvédelmi alkalmazotti jogviszony, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó adó- és vámhatósági szolgálati jogviszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony;
 
 8.[^5] működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek (személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) közötti pozitív előjelű különbség;
 
@@ -47,7 +47,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^1]: Az 1. § 2a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § 6a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^3]: Az 1. § 7a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^4]: Az 1. § 7b. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^4]: Az 1. § 7b. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 671/2020. (XII. 28.) Korm. rendelet 34. §-a szerint módosított szöveg.
 [^5]: Az 1. § 8. pontja a 226/2019. (IX. 25.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § 8a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^7]: Az 1. § 9a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be.
