@@ -1,1 +1,0 @@
-A közoktatásról szóló 1993. évi LXXIX. törvény 93. § (1) bekezdésének j) pontjában kapott felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszterrel és a gyermek-, ifjúsági és sportminiszterrel egyetértésben – a következőket rendelem el:
