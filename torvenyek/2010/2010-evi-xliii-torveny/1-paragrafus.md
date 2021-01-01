@@ -26,7 +26,7 @@ b) a Magyar Energetikai és Közmű-szabályozási Hivatal.
 
 a) a Közbeszerzési Hatóság,
 
-b) az Egyenlő Bánásmód Hatóság,
+b)
 
 c) a Gazdasági Versenyhivatal,
 

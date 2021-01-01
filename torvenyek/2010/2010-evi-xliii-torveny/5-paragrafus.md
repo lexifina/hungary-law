@@ -20,4 +20,6 @@ f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletb
 
 g) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 29. § (3) bekezdése szerinti személyre
 
+h) a szervnél a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti vezetői munkakört betöltő személyre
+
 átruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.

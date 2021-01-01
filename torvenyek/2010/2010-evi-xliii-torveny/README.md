@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2020-01-01 | 2019. évi CIX. törvény | 2010-43-00-00.43 |
 | 2020-06-10 | 2020. évi XLVII. törvény | 2010-43-00-00.44 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2010-43-00-00.45 |
+| 2021-01-01 | 2020. évi CLII. törvény | 2010-43-00-00.46 |
