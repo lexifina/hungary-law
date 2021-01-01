@@ -12,6 +12,8 @@
 
 ## 6. a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 10/A. § (2) bekezdése
 
-## 7. a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet 4. § (1b) bekezdése
+## 7.[^8]
 
 3. melléklet a 444/2020. (IX. 30.) Korm. rendelethez
+
+[^8]: A 2. melléklet 7. pontját a 610/2020. (XII. 18.) Korm. rendelet 28. §-a hatályon kívül helyezte.

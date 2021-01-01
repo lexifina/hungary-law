@@ -10,6 +10,6 @@
 
 ## 5. a Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet 1. mellékletében foglalt táblázat C:6 mezője
 
-5. melléklet a 444/2020. (IX. 30.) Korm. rendelethez[^8]
+5. melléklet a 444/2020. (IX. 30.) Korm. rendelethez[^10]
 
-[^8]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

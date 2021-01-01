@@ -8,4 +8,8 @@
 
 ## 4. a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeiről szóló 20/2017. (IX. 18.) EMMI rendelet
 
+## 5.[^9] a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet 3/A. § (1a) bekezdése, 4. § (2) bekezdése, 12/A. § (2) bekezdés b) pontja
+
 4. melléklet a 444/2020. (IX. 30.) Korm. rendelethez
+
+[^9]: A 3. melléklet 5. pontját a 610/2020. (XII. 18.) Korm. rendelet 27. §-a iktatta be.
