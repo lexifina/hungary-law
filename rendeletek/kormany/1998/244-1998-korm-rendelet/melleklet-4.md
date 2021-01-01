@@ -16,7 +16,7 @@
 
 | g) ember egészségét, testi épségét veszélyeztette | 5 |
 
-4. melléklet a 244/1998. (XII. 31.) Korm. rendelethez[^10]
+4. melléklet a 244/1998. (XII. 31.) Korm. rendelethez[^11]
 
 Az állatvédelmi bírság tételes mértékének megállapítása során alkalmazandó minősített esetek és szorzók
 
@@ -64,4 +64,4 @@ Az állatvédelmi bírság tételes mértékének megállapítása során alkalm
 
 | u) egyéb jogszabályban foglalt állatjóléti kötelezettségét megsértette | 2–4 |
 
-[^10]: A 4. mellékletet a 115/2012. (VI. 11.) Korm. rendelet 2. §-a iktatta be.
+[^11]: A 4. mellékletet a 115/2012. (VI. 11.) Korm. rendelet 2. §-a iktatta be.

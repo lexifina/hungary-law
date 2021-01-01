@@ -1,6 +1,6 @@
 ## 1. §[^1]
 
-2. §[^2] (1) A bírság alapösszege tizenötezer forint.
+2. §[^2] (1)[^3]
 
 (2) A bírság mértékének megállapításához a bírság alapösszegét – a jogsértés körülményeitől függően – meg kell szorozni az 1–4. melléklet szerinti szorzókkal.
 
@@ -14,3 +14,4 @@
 
 [^1]: Az 1. §-t a 115/2012. (VI. 11.) Korm. rendelet 1. § (2) bekezdése hatályon kívül helyezte.
 [^2]: A 2. § a 115/2012. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.

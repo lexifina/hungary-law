@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-244-20-
 | 2012-03-15 | 1998-244-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-08-01 | 1998-244-20-22.6 | 115/2012. (VI. 11.) Korm. rendelet |
 | 2014-03-15 | 1998-244-20-22.7 | 115/2012. (VI. 11.) Korm. rendelet |
+| 2021-01-01 | 1998-244-20-22.8 | 713/2020. (XII. 30.) Korm. rendelet |

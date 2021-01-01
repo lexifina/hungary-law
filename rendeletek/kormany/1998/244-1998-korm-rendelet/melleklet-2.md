@@ -30,6 +30,6 @@
 
 | gb) jogi személy és más gazdálkodó szervezet | 1–5 |
 
-2. melléklet a 244/1998. (XII. 31.) Korm. rendelethez[^8]
+2. melléklet a 244/1998. (XII. 31.) Korm. rendelethez[^9]
 
-[^8]: A 2. mellékletet a 115/2012. (VI. 11.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 2. mellékletet a 115/2012. (VI. 11.) Korm. rendelet 2. §-a iktatta be.

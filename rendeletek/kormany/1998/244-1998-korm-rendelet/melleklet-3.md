@@ -12,6 +12,6 @@
 
 | e) több mint 80%-a | 3 |
 
-3. melléklet a 244/1998. (XII. 31.) Korm. rendelethez[^9]
+3. melléklet a 244/1998. (XII. 31.) Korm. rendelethez[^10]
 
-[^9]: A 3. mellékletet a 115/2012. (VI. 11.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 3. mellékletet a 115/2012. (VI. 11.) Korm. rendelet 2. §-a iktatta be.
