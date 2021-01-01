@@ -1,3 +1,3 @@
 ## 43. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
-276. §
+276. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 12. § (2) bekezdés a) pont ab) alpontjában az „emberkereskedelem [Btk. 192. § (4) bekezdés a) pont, (5) és (6) bekezdés], kényszermunka [Btk. 193. § (2) bekezdés c) pont]” szövegrész helyébe az „emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], kényszermunka [az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. 193. § (2) bekezdés c) pont]” szöveg lép.

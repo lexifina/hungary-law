@@ -1,1 +1,3 @@
-159. §
+159. § A Be. 127. §-a a következő (10) bekezdéssel egészül ki:
+
+„(10) Kérelemre a rendbírság megfizetésére halasztás, illetve részletfizetés engedélyezhető a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. A halasztás, illetve részletfizetés iránti kérelemnek nincs halasztó hatálya. A kérelemről a rendbírságot kiszabó bíróság, ügyészség vagy nyomozó hatóság határoz. A halasztás vagy a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye jogorvoslatnak.”
