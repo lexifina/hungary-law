@@ -6,9 +6,9 @@
 
 (4) Az Alapból támogatás kizárólag az Alap kezelőjénél rendszeresített pályázati adatlap kitöltésével igényelhető.
 
-(5) Az Alapból a támogatás folyósítása – a program jellegére, valamint a támogatási összeg nagyságára tekintettel – a támogatási szerződésben meghatározott ütemezésben történik.
+(5) Az Alapból a támogatás folyósítása – a program jellegére, valamint a támogatási összeg nagyságára tekintettel – a szerződésben meghatározott ütemezésben történik.
 
-(6) Költségvetési szervek esetén az Alapból származó támogatás és azok év végi kötelezettségvállalással terhelt maradványa nem vonható el és évek között átcsoportosítható, valamint a támogatási szerződésben meghatározott elszámolási határidőig felhasználható.
+(6) Költségvetési szervek esetén az Alapból származó támogatás és azok év végi kötelezettségvállalással terhelt maradványa nem vonható el és évek között átcsoportosítható, valamint a szerződésben meghatározott elszámolási határidőig felhasználható.
 
 (7)
 

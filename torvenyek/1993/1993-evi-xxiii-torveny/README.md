@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-23-00-00
 | 2016-07-28 | 2016. évi XCIII. törvény | 1993-23-00-00.25 |
 | 2016-10-21 | 2016. évi CIV. törvény | 1993-23-00-00.26 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1993-23-00-00.27 |
+| 2021-01-01 | 2020. évi CLXXIII. törvény | 1993-23-00-00.28 |
