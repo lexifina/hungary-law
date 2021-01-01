@@ -62,6 +62,8 @@ c) három sajátos nevelési igényű gyermek ellátása esetén a pótlékalap 
 
 (9)[^75] A (2)–(6e) bekezdésben felsorolt pótlékok egymás mellett nem folyósíthatók.[^76]
 
+(10)[^77] Helyettesítési pótlék illeti meg a bölcsődei, mini bölcsődei csoportban azt a kisgyermeknevelőt, aki a másik kisgyermeknevelő távolléte esetén egyedül látja el a bölcsődei csoporttal kapcsolatos feladatokat. A helyettesítési pótlék mértéke az egy órára eső illetmény 30%-a.
+
 [^61]: A 14. § a 326/2008. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^62]: A 15. § (2) bekezdése a 305/2018. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^63]: A 15. § (3) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
@@ -78,3 +80,4 @@ c) három sajátos nevelési igényű gyermek ellátása esetén a pótlékalap 
 [^74]: A 15. § (8) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^75]: A 15. § (9) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^76]: A Magyar Közlöny 2001. évi 8. számában közzétett helyesbítésnek megfelelő szöveg.
+[^77]: A 15. § (10) bekezdését a 272/2019. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
