@@ -1,7 +1,7 @@
-7. § (1)[^7] A katasztrófavédelmi bírság összegét a katasztrófavédelmi bírság kiszabásáról rendelkező határozat véglegessé válásától számított 15 napon belül kell megfizetni. A befizetés során a közlemény rovatban fel kell tüntetni a „katasztrófavédelmi bírság” szöveget, a határozat számát és a bírságfizetésre kötelezett nevét.
+7. § (1)[^8] A katasztrófavédelmi bírság összegét a katasztrófavédelmi bírság kiszabásáról rendelkező határozat véglegessé válásától számított 15 napon belül kell megfizetni. A befizetés során a közlemény rovatban fel kell tüntetni a „katasztrófavédelmi bírság” szöveget, a határozat számát és a bírságfizetésre kötelezett nevét.
 
 (2) A katasztrófavédelmi bírság megfizetésére a hatóság a teljesítési határidő lejárta előtt előterjesztett kérelemre legfeljebb 12 havi részletfizetést engedélyezhet, amennyiben a katasztrófavédelmi bírság megfizetésére kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
 
 (3) A katasztrófavédelmi bírság befizetési határidejének elmulasztását követő 8 napon belül a hatóság a végrehajtás érdekében megkeresi a hatáskörrel és illetékességgel rendelkező adóhatóságot. Ha a bírságfizetésre kötelezett a végrehajtás elrendelését követően a katasztrófavédelmi bírság befizetését hitelt érdemlően igazolja, a hatóság 8 napon belül intézkedik a végrehajtás megszüntetéséről.
 
-[^7]: A 7. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 348. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 7. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 348. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
