@@ -28,9 +28,11 @@ f)[^60] a közúti közlekedésben használt menetíró készülékekről, a kö
 
 g)[^61] az 1071/2009/EK európai parlamenti és tanácsi rendeletnek az uniós jogszabályokat érintő – adott esetben a közúti fuvarozó jó hírnevének elveszítését eredményező – súlyos jogsértések osztályozása tekintetében történő kiegészítéséről és a 2006/22/EK európai parlamenti és tanácsi irányelv III. mellékletének módosításáról szóló, 2016. március 18-i 2016/403 (EU) bizottsági rendeletnek
 
+h)[^62] az 561/2006/EK rendeletnek a maximális napi és heti vezetési időre, a minimum szünetekre, valamint a napi és heti pihenőidőre vonatkozó minimumkövetelmények tekintetében és a 165/2014/EU rendeletnek a menetíró készülékkel történő helymeghatározás tekintetében történő módosításáról szóló, 2020. július 15-i (EU) 2020/1054 európai parlamenti és tanácsi rendeletnek
+
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(9)[^62] Ez a rendelet
+(9)[^63] Ez a rendelet
 
 a) a veszélyes áruk közúti szállítása ellenőrzésének egységes eljárásáról szóló, 1995. október 6-i 95/50/EK tanácsi irányelvnek,
 
@@ -38,15 +40,15 @@ b) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcso
 
 c) a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvénnyel együtt a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelvnek
 
-d)[^63] a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelvnek,
+d)[^64] a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelvnek,
 
-e)[^64] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek,
+e)[^65] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek,
 
-f)[^65] a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló 96/53/EK tanácsi irányelv módosításáról szóló, 2015. április 29-i (EU) 2015/719 európai parlamenti és tanácsi irányelvnek
+f)[^66] a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló 96/53/EK tanácsi irányelv módosításáról szóló, 2015. április 29-i (EU) 2015/719 európai parlamenti és tanácsi irányelvnek
 
 ## való megfelelést szolgálja.
 
-(10)[^66]
+(10)[^67]
 
 [^51]: A 16. § (2) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 99/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^52]: A 16. § (3) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 228/2012. (VIII. 23.) Korm. rendelet 4. § (4) bekezdése iktatta be.
@@ -59,8 +61,9 @@ f)[^65] a Közösségen belül közlekedő egyes közúti járművek nemzeti és
 [^59]: A 16. § (8) bekezdés e) pontját a 171/2014. (VII. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
 [^60]: A 16. § (8) bekezdés f) pontját a 8/2016. (II. 9.) Korm. rendelet 10. §-a iktatta be.
 [^61]: A 16. § (8) bekezdés g) pontját a 476/2016. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
-[^62]: A 16. § (9) bekezdése a 372/2016. (XI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^63]: A 16. § (9) bekedés d) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
-[^64]: A 16. § (9) bekedés e) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
-[^65]: A 16. § (9) bekedés f) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
-[^66]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^62]: A 16. § (8) bekezdés h) pontját a 722/2020. (XII. 31.) Korm. rendelet 8. §-a iktatta be.
+[^63]: A 16. § (9) bekezdése a 372/2016. (XI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^64]: A 16. § (9) bekedés d) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
+[^65]: A 16. § (9) bekedés e) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
+[^66]: A 16. § (9) bekedés f) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
+[^67]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

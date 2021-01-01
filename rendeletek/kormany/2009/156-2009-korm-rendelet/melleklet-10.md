@@ -1,5 +1,7 @@
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
+| Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ=rend kívül súlyos jogsértés, NSJ= nagyon súlyos jogsértés, SJ= súlyos jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
 
-| 1. | Kombinált árufuvarozáshoz kapcsolódó engedélymentesség és kedvezmény igénybevétele esetén a kombinált árufuvarozás végzését igazoló okmányok hiánya | 200 000 | szállító gépjárművezető |
+| 1. | Kombinált árufuvarozáshoz kapcsolódó engedélymentesség és kedvezmény igénybevétele esetén a kombinált árufuvarozás végzését igazoló okmányok hiánya | SJ | 200000 | szállító gépjárművezető |
 
-10. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
+10. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^78]
+
+[^78]: A 10. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § k) pontjával megállapított szöveg.
