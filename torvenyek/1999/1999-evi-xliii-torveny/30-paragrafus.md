@@ -14,7 +14,7 @@ e) aki saját maga, gazdálkodó szervezet esetében, akinek vezető tisztségvi
 
 f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.
 
-(3) A (2) bekezdésben meghatározott követelményeket – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben (a továbbiakban: Bnytv.) meghatározottakra figyelemmel –
+(3) A (2) bekezdésben meghatározott követelményeket, a 33. § (1) bekezdés a) pontban meghatározottak kivételével – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben meghatározottakra figyelemmel –
 
 a) egyéni vállalkozás esetén az egyéni vállalkozónak,
 
