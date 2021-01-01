@@ -1,9 +1,9 @@
 ## 7. Erdőben folyó tevékenység megtiltása, korlátozása
 
-## 17. § Az erdészeti hatóság az erdőben folyó tevékenységet megtilthatja, vagy határozatlan időre korlátozhatja, illetve erdőben található létesítmény teljes vagy részleges felszámolását rendelheti el, vagy a felszámolás elrendelését a hatáskörrel rendelkező hatóságnál kezdeményezheti, ha az
+17. §[^31] (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 243. § (1) bekezdés a) pontja szerinti szabálysértés elkövetése miatt jogerősen pénzbírsággal vagy helyszíni bírsággal sújtott föld alatti gombagyűjtőt az erdészeti hatóság a tevékenység végzésétől eltiltja, és a föld alatti gombagyűjtési naplóját két évre visszavonja.
 
-a) nem felel meg a jogszabályban foglalt követelményeknek,
+(2) A Szabs. tv. 243. § (1) bekezdés a) pontja szerinti szabálysértés elkövetése miatt jogerősen pénzbírsággal vagy helyszíni bírsággal sújtott, föld alatti gombagyűjtési naplóval nem rendelkező személyt az erdészeti hatóság a tevékenység végzésétől eltiltja, és részére föld alatti gombagyűjtési naplót két évig nem ad ki.
 
-b) károsítja vagy veszélyezteti az erdő biológiai sokféleségét, felszíni és felszín alatti vizeit, talaját, természetes felújulását, felújítását, a védett természeti értéket, vagy az erdei életközösséget, illetve
+(3) Erdőfelújítási biztosíték nyújtásának előírása esetén az erdészeti hatóság az erdőfelújítási biztosíték nyújtásának igazolásáig a bejelentett fakitermelés végrehajtását megtiltja.
 
-c) jelentősen korlátozza az erdei haszonvételeket.
+[^31]: A 17. § a 713/2020. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
