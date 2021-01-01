@@ -62,7 +62,7 @@ e) az egészségügyi közszolgáltatásért felelős szerv nem teljesíti az eg
 
 (5) Az egészségügyi bírság összege 30 ezer forinttól 5 millió forintig terjedhet.
 
-(6) Az egészségügyi bírság összegét az eset összes körülményeire, így különösen a kötelezettségszegés (hiányosság, mulasztás) súlyára, az okozott sérelemmel érintettek körére, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértőnek való felróhatóság mértékére tekintettel kell meghatározni.
+(6)
 
 (7)
 

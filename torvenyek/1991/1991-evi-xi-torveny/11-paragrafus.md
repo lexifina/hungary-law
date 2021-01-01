@@ -1,6 +1,6 @@
 11. § (1) Az egészségügyi államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
-(2) Az egészségügyi államigazgatási szerv elrendeli
+(2) Az egészségügyi államigazgatási szerv figyelmeztetés szankció alkalmazása keretében vagy egészségügyi bírság kiszabásával egyidejűleg elrendeli
 
 a) a hiányosságok megszüntetését, illetőleg a szükséges intézkedések végrehajtását;
 
