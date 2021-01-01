@@ -1,6 +1,6 @@
-## 12/F. §[^39] A BETFR használatához az ügyfelek képviselői által megadott természetes személyes azonosító adatokat tartalmazó iratokat az iroda kigyűjtve, az egyéb iratoktól elkülönítetten, a 41. § megfelelő alkalmazásával, zártan kezeli.
+## 12/F. §[^40] A BETFR használatához az ügyfelek képviselői által megadott természetes személyes azonosító adatokat tartalmazó iratokat az iroda kigyűjtve, az egyéb iratoktól elkülönítetten, a 41. § megfelelő alkalmazásával, zártan kezeli.
 
-## Az iratokhoz való elektronikus hozzáférés[^40]
+## Az iratokhoz való elektronikus hozzáférés[^41]
 
 12/G. § (1) A 10–12/F. §-ban meghatározott jogosultságokon kívül a fél, a beavatkozó, az érdekelt, a fél, a beavatkozó és az érdekelt képviselője, az ügyész, valamint büntetőügyben az ügyészség, a terhelt és a védő (ezen alcímben a továbbiakban együtt: kérelmező) az Ügyfél Irathozzáférési Rendszeren (a továbbiakban: ÜIR) keresztül hozzáférhet a folyamatban levő ügyében keletkezett, az elektronikus ügyiratban található elektronikus iratokhoz.
 
@@ -38,5 +38,5 @@ b) a hozzáférési jogosultság nem állapítható meg, erről a kérelmezőnek
 
 (10) Az ÜIR a (8) bekezdés, valamint a (9) bekezdés a) pontja szerinti esetben a jogosultság megállapításáról a kérelmezőt automatikus rendszerüzenetben értesíti.
 
-[^39]: A 12/F. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
-[^40]: Az „Az iratokhoz való elektronikus hozzáférés” alcímet (12/G–12/I. §) a 4/2020. (IV. 24.) IM rendelet 2. §-a iktatta be.
+[^40]: A 12/F. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
+[^41]: Az „Az iratokhoz való elektronikus hozzáférés” alcímet (12/G–12/I. §) a 4/2020. (IV. 24.) IM rendelet 2. §-a iktatta be.

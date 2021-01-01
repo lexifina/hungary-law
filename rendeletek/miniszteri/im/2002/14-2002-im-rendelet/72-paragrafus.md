@@ -16,12 +16,12 @@ e) feltételes szabadságra bocsátás és a feltételes szabadságra bocsátott
 
 f) feltételes szabadságra bocsátás és a feltételes szabadságra bocsátottak pártfogó felügyelete elrendelésének fellebbezett ügye (Ff. ügy),
 
-g–h)[^173]
+g–h)[^177]
 
-i)[^174] egyéb bv. ügy,
+i)[^178] egyéb bv. ügy,
 
-j)[^175] fellebbezett egyéb bv. ügy.
+j)[^179] fellebbezett egyéb bv. ügy.
 
-[^173]: A 72. § g–h) pontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba.
-[^174]: A 72. § i) pontja a 22/2004. (V. 18.) IM rendelet 15. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^175]: A 72. § j) pontja a 22/2004. (V. 18.) IM rendelet 15. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^177]: A 72. § g–h) pontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba.
+[^178]: A 72. § i) pontja a 22/2004. (V. 18.) IM rendelet 15. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^179]: A 72. § j) pontja a 22/2004. (V. 18.) IM rendelet 15. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

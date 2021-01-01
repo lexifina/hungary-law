@@ -1,4 +1,4 @@
-## 15/B. §[^47] Ha a bíróság jogszabály alapján papír alapú okirat elektronikus másolatának kiadására köteles, a másolatot lapolvasó berendezés felhasználásával kell elkészíteni, ennek során az elektronikus ügyintézés részletszabályairól szóló kormányrendelet előírásait megfelelően alkalmazni kell. A 15/A. §-ban foglaltak ebben az esetben is irányadók.
+## 15/B. §[^48] Ha a bíróság jogszabály alapján papír alapú okirat elektronikus másolatának kiadására köteles, a másolatot lapolvasó berendezés felhasználásával kell elkészíteni, ennek során az elektronikus ügyintézés részletszabályairól szóló kormányrendelet előírásait megfelelően alkalmazni kell. A 15/A. §-ban foglaltak ebben az esetben is irányadók.
 
 ## Intézkedés távközlési és elektronikus eszközök igénybevételével
 
@@ -10,4 +10,4 @@ b) a közlés tudomásulvételére a hívott, megkeresett jogosult, és
 
 c) az ügyintézés ilyen módja nem ütközik jogszabályba.
 
-[^47]: A 15/B. §-t a 26/2006. (V. 18.) IM rendelet 1. §-a iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 5. § a) pontja szerint módosított szöveg.
+[^48]: A 15/B. §-t a 26/2006. (V. 18.) IM rendelet 1. §-a iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 5. § a) pontja szerint módosított szöveg.
