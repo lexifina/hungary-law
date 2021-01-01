@@ -8,8 +8,8 @@ a) az ügyfél megbízása alapján jegyzett dematerializált értékpapír név
 
 b) az ügyfél megbízása alapján vásárolt, illetve eladott dematerializált értékpapír névértékét;
 
-c)[^93] az értékpapírszámlájukat különböző számlavezetőnél (befektetési szolgáltatónál) vezető ügyfelek tőzsdén kívül egymással kötött megállapodása (ügylete) alapján, az ügyfél számlájára, illetve számlájáról átutalt (transzferált) értékpapír névértékét;
+c)[^96] az értékpapírszámlájukat különböző számlavezetőnél (befektetési szolgáltatónál) vezető ügyfelek tőzsdén kívül egymással kötött megállapodása (ügylete) alapján, az ügyfél számlájára, illetve számlájáról átutalt (transzferált) értékpapír névértékét;
 
 d) egyéb növekedési és csökkenési tételeket.
 
-[^93]: A 12. § (2) bekezdésének c) pontja a 292/2001. (XII. 26.) Korm. rendelet 16. §-ának (2) bekezdése szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^96]: A 12. § (2) bekezdésének c) pontja a 292/2001. (XII. 26.) Korm. rendelet 16. §-ának (2) bekezdése szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
