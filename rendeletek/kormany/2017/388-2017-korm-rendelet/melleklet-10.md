@@ -1,5 +1,5 @@
-## 20172220000388_25
+## 20172220000388_46
 
 10. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^15]
 
-[^15]: A 10. melléklet a 273/2019. (XI. 20.) Korm. rendelet 4. § (11) bekezdésével megállapított szöveg.
+[^15]: A 10. melléklet az 515/2020. (XI. 24.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
