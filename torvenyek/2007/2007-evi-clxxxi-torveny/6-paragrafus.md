@@ -25,3 +25,5 @@ g) akinek a részvételből való kizártságának tényét a 13. § alapján a 
 (4) Ha a (3) bekezdés szerinti pályázatról a döntést a Nemzeti Kulturális Alap kollégiuma vagy a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: NKA tv.) 2. §-ának (6) bekezdése szerint a bizottság hozná, a 6. § (1) bekezdés e) pontjában meghatározott valamely körülmény fennállása az érintett kollégiumi vagy bizottsági tag NKA tv. 2/A. § (5) bekezdésében meghatározott összeférhetetlenségét alapozza meg.
 
 (5) Az (1) bekezdés e) pontja alkalmazásában nem minősül alapítványnak a külön törvény alapján létrehozott, a párt működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány.
+
+(6) Az (1) bekezdés alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
