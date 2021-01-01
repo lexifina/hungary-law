@@ -2,12 +2,13 @@
 
 ## A LEFOGLALT BŰNJELLEL KAPCSOLATOS ÜGYVITEL
 
-## A bűnjelkezelőhöz megküldendő ügyiratok a lefoglalt bűnjelnek az érintett vagy egyes szervek őrizetében hagyása esetén[^74]
+## A bűnjelkezelőhöz megküldendő ügyiratok[^92]
 
-17. §[^75] (1) A bűnjelnek az érintett őrizetében hagyása vagy egyes szervek őrizetébe és kezelésébe adása esetében a hatóság a kísérő bűnjeljegyzéket, továbbá a 88. § szerinti okmányt, valamint a lefoglalás foganatosításáról készített jegyzőkönyvet megküldi a bűnjelkezelőnek.
+17. §[^93] (1) A lefoglalás foganatosításáról készített jegyzőkönyvet és a bűnjel létrehozásáról készült jegyzőkönyvet vagy feljegyzést akkor kell megküldeni a bűnjelkezelőnek, ha a bűnjel adatainak a KBR-ben történő rögzítésére a bűnjel átadásáig nem került sor. Ebben az esetben a hiányzó adatok rögzítését a 10/B. § (2) bekezdése alapján a bűnjelkezelő pótolja.
 
-(2)[^76] A bűnjelkezelő a bűnjel adatait a lefoglalás foganatosításáról készített jegyzőkönyv adataival egyezteti, az eltéréseket, valamint a bűnjelnyilvántartó könyv tételszámát a kísérő bűnjeljegyzékre feljegyzi, és a kísérő bűnjeljegyzéket a hatóságnak visszaküldi, valamint annak egy papíralapú példányát vagy egy másolatát megőrzi.
+(2) A bűnjelnek az érintett őrizetében hagyása vagy egyes szervek őrizetébe és kezelésébe adása esetében – ideértve a bűnjelpénznek a bűnjelkezelői számlára történő befizetését is – a hatóság a 88. § szerinti okmányt, valamint a lefoglalás foganatosításáról készített jegyzőkönyvet és a létrehozásról készült jegyzőkönyvet vagy feljegyzést megküldi a bűnjelkezelőnek, ha a bűnjel KBR-ben történő rögzítésére a bűnjel átadásáig nem került sor.
 
-[^74]: A 17. §-t megelőző alcím a 17/2018. (VI. 27.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^75]: A 17. § a 17/2018. (VI. 27.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^76]: A 17. § (2) bekezdése a 11/2019. (IV. 5.) IM rendelet 10. § 15. pontja szerint módosított szöveg.
+(3) Ha a bűnjel 19. §-ban meghatározott átadás-átvételét követően a KBR adatainak kiegészítése, pontosítása szükséges, a bűnjelkezelő szükség esetén a 10/B. § (6) bekezdésében foglaltak szerint jár el.
+
+[^92]: A 17. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^93]: A 17. § a 20/2020. (XII. 30.) IM rendelet 13. § (2) bekezdésével megállapított szöveg.

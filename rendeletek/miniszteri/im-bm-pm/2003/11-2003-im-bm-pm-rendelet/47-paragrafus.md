@@ -1,9 +1,10 @@
-47. § (1)[^140] A hatóság által visszaadni rendelt, de a jogosult által át nem vett, továbbá az új Be. 321. § (5) bekezdése alapján az állam tulajdonába került bűnjel értékesítése, a BGH-hoz való beszállítása az elkobzott bűnjelre vonatkozó szabályok szerint történik.
+47. § (1)[^177] A hatóság által visszaadni rendelt, de a jogosult által át nem vett, továbbá az új Be. 321. § (5) bekezdése alapján az állam tulajdonába került bűnjel értékesítése, a bűnjel előzetes értékesítésére vonatkozó szabályok szerint történik.
 
-(2) Az értékesítés során befolyt ellenértéket a BGH letéti számlájára kell befizetni.
+(2)[^178] Az értékesítés során befolyt ellenértéket a bűnjelkezelő letéti számlájára kell befizetni.
 
 (3) Az ellenértékre a jogosult a polgári jog szabályai szerinti általános elévülési időn belül tarthat igényt.
 
 (4) A jogosult által át nem vett bűnjel értékesítésének feljegyzésére a 63. § megfelelően irányadó.
 
-[^140]: A 47. § (1) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 31. pontja szerint módosított szöveg.
+[^177]: A 47. § (1) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 31. pontja, a 20/2020. (XII. 30.) IM rendelet 39. § 29. pontja szerint módosított szöveg.
+[^178]: A 47. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 39. § 30. pontja szerint módosított szöveg.

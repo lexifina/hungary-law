@@ -1,21 +1,16 @@
-## A bűnjeljegyzék és a bűnjelről készített kép- és hangfelvétel, illetve képfelvétel[^58]
+## A bűnjel adatainak rögzítése[^81]
 
-11. §[^59] (1)[^60] A hatóság a bűnjelről – a lefoglalás foganatosításáról készített jegyzőkönyv adatainak megfelelően – bűnjeljegyzéket állít ki. A hatóság pénz-, valamint a tárgyletétről külön-külön készít bűnjeljegyzéket. Az elektronikus formában készült bűnjeljegyzéket egyetlen adatállományba kell foglalni.
+11. §[^82] (1) A bűnjel adatait a lefoglalás foganatosításáról készített jegyzőkönyv vagy a létrehozásról készült jegyzőkönyv vagy feljegyzés adatai alapján kell rögzíteni a KBR-ben.
 
-(2) A hatóság a bűnjeljegyzékben a bűnjeleket felsorolja, sorszámmal látja el, és az azonosíthatóság érdekében a bűnjel 10. § (2) bekezdés a) és b), valamint d)–g) pontja szerinti adatait abban feltünteti.
+(2) A bűnjel KBR-ben rögzített adataiban bekövetkezett változást haladéktalanul rögzíteni kell a KBR-ben.
 
-(3) Ha a papíralapú bűnjeljegyzék több oldalból áll, az oldalakat sorszámozni kell. A bűnjeljegyzék minden oldalának tetején – az azonosíthatóság érdekében – fel kell tüntetni a kiállító hatóság nevét, az ügyszámot, ha van terhelt, a terhelt – több terhelt esetén az elsőrendű terhelt – nevét, születési helyét és idejét, anyja nevét.
+(3) Ha a KBR-ben szereplő adatokban bekövetkezett változás haladéktalan rögzítése nem lehetséges, ennek pótlásakor a változás észlelésének idejét és a késedelem okát a KBR-ben rögzíteni kell.
 
-(4) Ha az eljárásban terhelt még nincs, akkor a terhelt (3) bekezdés szerinti adatait a terhelt ismertté válását követően haladéktalanul rá kell vezetni a bűnjeljegyzékre. Ha az ügyek elkülönítésére kerül sor, akkor az elkülönített ügy terheltjének, illetve elsőrendű terheltjének (3) bekezdés szerinti adatait kell a bűnjeljegyzék minden oldalának tetején feltüntetni.
+(4) A KBR-ben rögzített adatok ellentmondása esetén a hatóság és a bűnjelkezelő tisztázza az eltérés okát, ennek érdekében a bűnjelkezelő szükség esetén a 10/B. § (6) bekezdésében foglaltak szerint jár el.
 
-(5)[^61] A hatóság a bűnjelről annak lefoglalásakor, létrehozásakor vagy átvételekor kép- és hangfelvételt, illetve képfelvételt készíthet, az érintett őrizetében hagyott vagy egyes szervek őrizetébe és kezelésébe adott bűnjelről kép- és hangfelvételt, illetve képfelvételt készít. A bűnjelnek az érintett őrizetében hagyását, a bűnjelre vonatkozó okmány és hatósági jelzés le nem foglalásának okát, továbbá az őrzés helyszínét és az őrzésért felelős személy nevét a bűnjeljegyzéken is fel kell tüntetni.
+(5) A bűnjelről annak lefoglalásakor, létrehozásakor vagy átvételekor képfelvétel készíthető, az érintett őrizetében hagyott vagy egyes szervek őrizetébe és kezelésébe adott bűnjelről lehetőség szerint képfelvételt kell készíteni.
 
-(6)[^62] A kép- és hangfelvételt, illetve képfelvételt, valamint a bűnjeljegyzéket a hatóság az ügyiratok között kezeli, továbbá a bűnjelekkel együtt a bűnjelkezelőnek megküldi, illetve átadja a bűnjeljegyzéket, a lefoglalás foganatosításáról készített jegyzőkönyvet, a 10. § (3) és (5) bekezdése szerinti ügyiratokat, valamint a bűnjelre vonatkozó okmányt és hatósági jelzést.
+(6) Az (5) bekezdésben meghatározott képfelvételt lehetőség szerint a KBR-ben is rögzíteni kell. A 10. § (3) és (5) bekezdése szerinti ügyiratokat, valamint a bűnjelre vonatkozó okmányt és hatósági jelzést a bűnjel-ügyiratban kell kezelni.
 
-(7) A bűnjeljegyzékben javítani kizárólag oly módon lehet, hogy a javítással érintett szöveg a kijavítás után is olvasható maradjon. A kijavítást a bűnjeljegyzéken a kijavítás dátumának megjelölésével fel kell jegyezni. Elektronikus formában készült bűnjeljegyzék kijavítása helyett új bűnjeljegyzéket kell készíteni.
-
-[^58]: A 11. §-t megelőző alcím a 17/2018. (VI. 27.) IM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^59]: A 11. § a 17/2018. (VI. 27.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^60]: A 11. § (1) bekezdése a 11/2019. (IV. 5.) IM rendelet 10. § 12. pontja szerint módosított szöveg.
-[^61]: A 11. § (5) bekezdése a 11/2019. (IV. 5.) IM rendelet 10. § 13. pontja szerint módosított szöveg.
-[^62]: A 11. § (6) bekezdése a 11/2019. (IV. 5.) IM rendelet 10. § 3. pontja szerint módosított szöveg.
+[^81]: A 11. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^82]: A 11. § a 20/2020. (XII. 30.) IM rendelet 10. § (2) bekezdésével megállapított szöveg.

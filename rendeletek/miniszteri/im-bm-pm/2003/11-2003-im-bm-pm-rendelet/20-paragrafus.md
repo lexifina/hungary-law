@@ -1,9 +1,9 @@
-20. § (1)[^85] Ha a bűnjel lezárt postai küldeményként postán érkezett, azt a bírósági bűnjelkezelő két tanú (bírósági dolgozó) jelenlétében bonthatja fel. Azt, hogy a csomag tartalma azonos a kísérő bűnjeljegyzékben felsorolt bűnjelekkel, a bűnjelkezelő és a tanúk a kísérő bűnjeljegyzéken aláírásukkal igazolják.
+20. § (1)[^102] Ha a bűnjel lezárt postai küldeményként postán érkezett, azt a bűnjelkezelő két tanú (hatósági dolgozó) jelenlétében bonthatja fel. A KBR adataitól való eltérés esetén a bűnjelkezelő jegyzőkönyvet készít.
 
-(2)[^86] A postán érkezett sérült könyvelt, valamint a posta által átcsomagolt bűnjelet a posta dolgozójától a bírósági bűnjelkezelő csak a posta által készített jegyzőkönyv másolati példányával együtt veheti át. Ebben az esetben a bűnjelkezelő a csomagot a posta dolgozójának jelenlétében bontja fel és annak tartalmát a kísérő bűnjeljegyzékkel, illetőleg a posta által készített jegyzőkönyvvel egyezteti. Eltérés esetén a bűnjelkezelő jegyzőkönyvet készít és azt a posta dolgozójával is aláíratja.
+(2)[^103] A postán érkezett sérült könyvelt, valamint a posta által átcsomagolt bűnjelet a posta dolgozójától a bűnjelkezelő csak a posta által készített jegyzőkönyv másolati példányával együtt veheti át. Ebben az esetben a bűnjelkezelő a csomagot a posta dolgozójának jelenlétében bontja fel és annak tartalmát a KBR adataival, illetve a posta által készített jegyzőkönyvvel egyezteti. Eltérés esetén a bűnjelkezelő jegyzőkönyvet készít és azt a posta dolgozójával együtt hitelesíti.
 
-(3)[^87] Ha a bűnjelet tartalmazó postai küldemény kísérő bűnjeljegyzék nélkül érkezett, a bűnjeljegyzéket a bírósági bűnjelkezelő állítja ki. Ebben az esetben a bűnjeljegyzéket a bűnjelkezelőn kívül az (1) bekezdésben említett két tanú is aláírja, és a bírósági bűnjelkezelő intézkedik a kísérő bűnjeljegyzék utólagos beszerzésére.
+(3)[^104]
 
-[^85]: A 20. § (1) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 13. pontja szerint módosított szöveg.
-[^86]: A 20. § (2) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 14. pontja szerint módosított szöveg.
-[^87]: A 20. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 18. §-ával megállapított szöveg.
+[^102]: A 20. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 16. §-ával megállapított szöveg.
+[^103]: A 20. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 16. §-ával megállapított szöveg.
+[^104]: A 20. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 40. § 7. pontja hatályon kívül helyezte.

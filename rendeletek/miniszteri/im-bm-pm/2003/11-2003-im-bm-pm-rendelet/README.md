@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-11-20-0
 | 2017-04-01 | 2003-11-20-06.15 | 26/2016. (XII. 27.) IM rendelet |
 | 2018-07-01 | 2003-11-20-06.16 | 17/2018. (VI. 27.) IM rendelet |
 | 2019-04-06 | 2003-11-20-06.17 | 11/2019. (IV. 5.) IM rendelet |
+| 2021-01-01 | 2003-11-20-06.18 | 20/2020. (XII. 30.) IM rendelet |

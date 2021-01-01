@@ -10,6 +10,8 @@
 
 52. § (1) A bíróság a bűnjel elkobzásáról a bűnjelkezelőt a külön jogszabályban előírt módon értesíti.
 
-(2) A bűnjelkezelő a bűnjel elkobzását a bűnjelnyilvántartó könyvben feljegyzi.
+(2)[^197] A bűnjelkezelő a bűnjel elkobzását rögzíti a KBR-ben.
 
 (3) A bűnjelkezelő az elkobzott bűnjelet a többi bűnjeltől elkülönítve kezeli.
+
+[^197]: Az 52. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 39. § 33. pontja szerint módosított szöveg.
