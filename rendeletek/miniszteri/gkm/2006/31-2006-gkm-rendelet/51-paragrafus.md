@@ -1,1 +1,3 @@
-## 50. § A rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+## 50. §[^41] A rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
+
+[^41]: Az 50. § az 51/2020. (XII. 18.) ITM rendelet 13. § c) pontja szerint módosított szöveg.

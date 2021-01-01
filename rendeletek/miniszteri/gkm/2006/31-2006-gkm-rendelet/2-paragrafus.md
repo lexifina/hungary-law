@@ -14,7 +14,7 @@
 
 6. elektromechanikus gáznyomás mérés: eljárás, amelynél a fegyvercsőben keletkező gáznyomás lefutását – benne a maximális gáznyomás értékét – egy piezokristály összenyomódásának hatására keletkező töltés erősítése és feszültséggé alakítása után számítógép segítségével állapítják meg,
 
-7. fegyver fődarab: fegyver fődarabnak tekintendők a fegyverek csövei, váltócsövei, betétcsövei, váltódobjai, zárszerkezetei és az ezeket egybefogó tokszerkezet,
+7.[^2] fegyver, lövőkészülék fődarabja: a fegyvercső, a váltócső, a betétcső, a forgódob, az ezeket egybefoglaló tokszerkezet, a zár vagy zárszerkezet, valamint a szán,
 
 8. fehérkész fegyver: olyan összeszerelt fegyver, amelyen már csak a felületkezelést, és/vagy a díszítést kell elvégezni,
 
@@ -24,7 +24,7 @@
 
 11. huzagolás: a fegyver csövének olyan kialakítása, amelyik a lövedéket hossztengelye körüli forgómozgásra kényszeríti,
 
-12. időszakos vizsgálat: e rendeletben és külön jogszabályban[^2] meghatározott időszakonként elvégzendő biztonsági felülvizsgálat,
+12. időszakos vizsgálat: e rendeletben és külön jogszabályban[^3] meghatározott időszakonként elvégzendő biztonsági felülvizsgálat,
 
 13. ismételt vizsgálat: az első és az időszakos vizsgálattól eltérő okból végzett felülvizsgálat,
 
@@ -44,6 +44,8 @@
 
 21. poligoncső: csavarodó, sokszögű furatprofillal rendelkező cső, amelyik a lövedéket – a huzagoláshoz hasonlóan – forgó mozgásra kényszeríti,
 
+21a.[^4] saját töltényűrrel nem rendelkező gáz- és riasztófegyver: az a hasábtáras riasztófegyver, amelynél a töltényűröket tartalmazó különálló tömböt a fegyverbe betöltve a töltényűrök tengelye a csőtengelyre vetítve merőlegest zár be.
+
 22. sima cső: olyan fegyvercső, amely hosszának legalább 2/3 részében kör keresztmetszetű,
 
 23. szinonim elnevezések: az egyes kaliberjelek szabványostól eltérő olyan megnevezése, amelyet a C.I.P. elismer,
@@ -58,4 +60,6 @@
 
 28. zárolási hézag: a töltényűrbe helyezett maximális méretű, teljesen előretolt töltény fenéksíkja és a tűzfal síkja közötti távolság.
 
-[^2]: A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet.
+[^2]: A 2. § 7. pontja az 51/2020. (XII. 18.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet.
+[^4]: A 2. § 21a. pontját az 51/2020. (XII. 18.) ITM rendelet 1. § (2) bekezdése iktatta be.
