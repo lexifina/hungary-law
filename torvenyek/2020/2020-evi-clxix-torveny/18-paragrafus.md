@@ -14,7 +14,7 @@ f) 45. § (1) bekezdésében a „Honvédséget” szövegrész helyébe a „ho
 
 g) 46. § (1) bekezdésében a „Honvédség” szövegrész helyébe a „– honvédelemért felelős miniszter által vezetett minisztérium kivételével – a honvédelmi szervezet” szöveg,
 
-h) 46. § (3) bekezdésében a „kormányrendeletben” szövegrész helyébe „a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában” szöveg,
+h)
 
 i) 48. § (2) bekezdésében a „gazdálkodásáért az” szövegrész helyébe a „gazdálkodásáért, az” szöveg,
 
