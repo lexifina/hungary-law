@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2020-02-15 | 2007-273-20-22.60 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-08-13 | 2007-273-20-22.61 | 130/2013. (V. 2.) Korm. rendelet |
 | 2020-09-01 | 2007-273-20-22.62 | 401/2020. (VIII. 17.) Korm. rendelet |
+| 2021-01-01 | 2007-273-20-22.63 | 721/2020. (XII. 31.) Korm. rendelet |

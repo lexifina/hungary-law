@@ -1,14 +1,14 @@
 ## (A VET 81. §-ához)
 
-## 50 MW vagy ezt meghaladó névleges teljesítőképességű erőmű létesítésére vonatkozó engedély[^269]
+## 50 MW vagy ezt meghaladó névleges teljesítőképességű erőmű létesítésére vonatkozó engedély[^279]
 
 63. § (1) Az engedély iránti kérelemhez mellékelni kell az 5. számú mellékletben előírtakat.
 
 (2) A Hivatal a létesítési engedélyben meghatározza az erőmű elsődleges energiaforrását a 7. számú mellékletnek megfelelően.
 
-(3)[^270] Az 50 MW vagy ezt meghaladó névleges teljesítőképességű erőmű létesítésére vonatkozó működési engedélyt a Hivatal abban az esetben adhatja meg, ha az erőmű megfelel a külön jogszabályban meghatározott minimális energetikai hatásfokra vonatkozó követelményeknek.
+(3)[^280] Az 50 MW vagy ezt meghaladó névleges teljesítőképességű erőmű létesítésére vonatkozó működési engedélyt a Hivatal abban az esetben adhatja meg, ha az erőmű megfelel a külön jogszabályban meghatározott minimális energetikai hatásfokra vonatkozó követelményeknek.
 
-(4)[^271] A létesítési engedély jogosultja a VET 81. § (7) bekezdése alapján
+(4)[^281] A létesítési engedély jogosultja a VET 81. § (7) bekezdése alapján
 
 a) az üzembe helyezés és a próbaüzem során a mérlegköri rendszerre irányadó szabályok, valamint a menetrend kialakítására vonatkozó,
 
@@ -16,7 +16,7 @@ b) a próbaüzem lezárása és a működési engedély kiadása közötti átme
 
 előírások betartásával termelhet és értékesíthet villamos energiát.
 
-(5)[^272] A létesítési engedély jogosultja köteles
+(5)[^282] A létesítési engedély jogosultja köteles
 
 a) a próbaüzem lezárását követő 15 napon belül vagy
 
@@ -24,7 +24,7 @@ b) az Atv. szerinti üzembe helyezési engedély alapján az üzembe helyezési 
 
 a működési engedély iránti kérelmét a Hivatalhoz benyújtani.
 
-[^269]: A Vhr. 63. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 32. § (5) bekezdése szerint módosított szöveg.
-[^270]: A Vhr. 63. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 32. § (6) bekezdése szerint módosított szöveg.
-[^271]: A Vhr. 63. § (4) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 11. §-a iktatta be.
-[^272]: A Vhr. 63. § (5) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 11. §-a iktatta be.
+[^279]: A Vhr. 63. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 32. § (5) bekezdése szerint módosított szöveg.
+[^280]: A Vhr. 63. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 32. § (6) bekezdése szerint módosított szöveg.
+[^281]: A Vhr. 63. § (4) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 11. §-a iktatta be.
+[^282]: A Vhr. 63. § (5) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 11. §-a iktatta be.

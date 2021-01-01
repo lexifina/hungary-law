@@ -18,7 +18,7 @@
 
 ## 4. Folytonosság elve: a szétválasztott engedélyesek részére a folyamatos működéshez szükséges eszközöket és pénzforrásokat biztosítani kell.
 
-## II.[^526] A tevékenységek szétválasztásával szemben támasztott követelmények
+## II.[^541] A tevékenységek szétválasztásával szemben támasztott követelmények
 
 ## 1. Az integrált villamosenergia-ipari vállalkozás engedélyköteles tevékenységeinek bemutatása érdekében az éves beszámoló kiegészítő mellékletének részeként tevékenységi beszámolót kell készíteni. A tevékenységi beszámoló az Szt. 1. számú mellékletében található „A” változatú mérleget és az Szt. 2. számú mellékletében szereplő, összköltségi-eljárással készülő „A” változatú eredménykimutatást tartalmazza a mérleg és az eredménykimutatás értelmezéséhez szükséges kiegészítéssel együtt. A kimutatások tagolására és a tételek tartalmára az Szt. vonatkozó előírásait kell alkalmazni. A hatósági árszabályozás alá eső engedélyes esetében a Hivatal ettől eltérő tagolást is előírhat.
 
@@ -38,13 +38,13 @@
 
 ## 3. A több engedélyest kiszolgáló támogató és engedélyköteles tevékenységek költségeinek engedélyesenkénti felosztása, az alkalmazott árak kialakításának szabályai.
 
-## IV.[^527] Speciális szabályok
+## IV.[^542] Speciális szabályok
 
 ## Amennyiben az engedélyes egyidejűleg a Tszt. hatálya alá tartozó, Hivatal hatáskörében kiadott engedéllyel is rendelkezik, köteles e tevékenységére vonatkozóan is önálló tevékenységi beszámolót készíteni.
 
 21. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-A benyújtandó üzletszabályzat formátumára vonatkozó előírások[^528]
+A benyújtandó üzletszabályzat formátumára vonatkozó előírások[^543]
 
 1. Az üzletszabályzatot elektronikus úton, szerkeszthető formában kell jóváhagyásra benyújtani. Az üzletszabályzat módosításának kérelmezése esetében szükséges korrektúrás változat benyújtása is, amelyben egyértelműen meg kell jelölni (például színeltéréssel) a módosításokat, továbbá azok indokát.
 
@@ -54,9 +54,9 @@ A benyújtandó üzletszabályzat formátumára vonatkozó előírások[^528]
 
 4. Ha az üzletszabályzat mérete a Hivatal által megjelölt méretkorlátot meghaladja, elektronikus a kapcsolattartás akkor is, ha az engedélyes a nyilatkozatát tartós adathordozón nyújtja be.
 
-5.[^529] Az eljárás során véglegezett, jóváhagyásra kerülő üzletszabályzatot az elektronikus ügyintézés szabályai szerint kell benyújtani a Hivatal számára.
+5.[^544] Az eljárás során véglegezett, jóváhagyásra kerülő üzletszabályzatot az elektronikus ügyintézés szabályai szerint kell benyújtani a Hivatal számára.
 
-Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása[^530]
+Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása[^545]
 
 Az üzletszabályzatok jóváhagyásra történő benyújtása során az átviteli rendszerirányító az elosztókkal, a villamosenergia-kereskedőkkel és a termelői engedélyesekkel, a többi engedélyes az energetikai felhasználói érdekképviseletével történt egyeztetések eredményeit tanúsító iratokat csatolja a kérelemhez. Amennyiben az egyetértés megvan, azt elegendő röviden jelezni. Amennyiben az egyetértés hiányzik, a kifogásokat egy összegző táblázatban a kifogást tevő megjelölésével és az elutasítás indokolásával megjelölve, össze kell gyűjteni és a jóváhagyásra beterjesztett kérelem mellékleteként csatolni. A csatolt dokumentumot az abban érintett érdekelt felek aláírásukkal hitelesítik.
 
@@ -76,7 +76,7 @@ a) a szolgáltatást igénybe venni kívánó rendszerhasználó szerződésköt
 
 aa) igénybejelentés rendje
 
-ab)[^531] tájékoztatás az igénybejelentésre az engedélyes részéről, annak megjelölésével, hogy más engedélyeseknél történő eljárást megbízási szerződés alapján ellát-e, ha igen, mely engedélyeseknél és milyen feltételek szerint,
+ab)[^546] tájékoztatás az igénybejelentésre az engedélyes részéről, annak megjelölésével, hogy más engedélyeseknél történő eljárást megbízási szerződés alapján ellát-e, ha igen, mely engedélyeseknél és milyen feltételek szerint,
 
 ac) a szerződéskötéshez szükséges adatok, iratok biztosításának rendje;
 
@@ -88,7 +88,7 @@ bb) a szerződés hatálybalépéséhez szükséges esetleges további feltétel
 
 c) a szerződés teljesítésére vonatkozó rendelkezések
 
-ca)[^532] az engedélyes által nyújtott szolgáltatás minőségi paraméterei
+ca)[^547] az engedélyes által nyújtott szolgáltatás minőségi paraméterei
 
 cb) elszámolás, elszámolási időszakok
 
@@ -108,201 +108,10 @@ eb) a tájékoztatás elmulasztásának következményei
 
 ec) együttműködés a helyreállítás érdekében;
 
-f) a szerződés megszűnésének esetei
-
-fa) a szerződés időtartamának meghatározása
-
-fb) rendes felmondás szabályai – a rendes felmondás joga nem korlátozható
-
-fc) azonnali hatályú felmondás – az azonnali felmondáshoz vezető súlyos szerződésszegések meghatározása
-
-fd) a szerződés megszűnésének egyéb esetei
-
-fe) elszámolás a szerződés megszűnése esetén;
-
-g) a szerződésszegés kezelése
-
-ga) a szerződésszerű teljesítés ellenőrzésének módja, eljárásrendje
-
-gb) a szerződésszegés bizonyítására vonatkozó szabályok
-
-gc) az azonnali felmondást nem eredményező szerződésszegések következményei;
-
-h) adatvédelem
-
-ha) a szerződő fél kezelt személyes adatainak köre
-
-hb) azon személyek megjelölése, akik számára a kezelt adatok vagy azok meghatározott részei átadhatók
-
-hc) eljárásrend a személyes adatokhoz fűződő jogok megsértése esetén;
-
-i) panaszügyintézésre vonatkozó rendelkezések
-
-ia) a beérkező panaszok rögzítése, archiválása
-
-ib) a szükséges egyeztetések végrehajtásának dokumentálása
-
-ic) érdemi válaszadási határidő
-
-id) a válaszadási határidő elmulasztásának következménye;
-
-j)[^533] ügyfélszolgálatok, egyéb elérhetőségek
-
-ja)[^534] állandó ügyfélszolgálati irodák felsorolása, az ott ellátott feladatok megjelölésével
-
-jb)[^535] ügyfélszolgálati fiókirodák felsorolása, az ott ellátott feladatok megjelölésével
-
-jc) telefonszámok, postacímek, azok megjelölésével együtt, hogy mely telefonszámon milyen ügyeket lehet elintézni, illetve mely postacímen milyen bejelentés tehető;
-
-k) vitarendezés, értesítések
-
-ka)[^536]
-
-kb) bírósági kikötések
-
-kc) kölcsönös értesítések rendje, határideje, módja.
-
-4.[^537] Az engedélyes által a felhasználói körben alkalmazott szerződésminták.
-
-5.[^538] Ha az engedélyes mérlegkör-felelős, az általa alkalmazott mérlegkör tagsági szerződés minta.
-
-II. Az egyes engedélyesekre vonatkozó további rendelkezések
-
-1. Az átviteli rendszerirányító köteles az 1. pontban előírtakon felül üzletszabályzatában szabályozni, illetve feltüntetni:
-
-a) a villamosenergia-rendszer működéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges információk részletes körét, ezen információk átadásának rendjét;
-
-b)[^539] a mérésre és elszámolásra vonatkozó szabályokat, eljárásrendet;
-
-c) a rendszerszintű szolgáltatások beszerzésének rendjét, a beszerzések feltételeinek nyilvánosságra hozatala módját;
-
-d)[^540]
-
-e) a folyamatos és biztonságos szolgáltatásra vonatkozó, üzleti titok körébe nem tartozó főbb műszaki paramétereket;
-
-f)[^541] pénzügyi biztosítékok rendszerét;
-
-g)–h)[^542]
-
-i) az üzemzavar, korlátozás és szüneteltetés esetén alkalmazandó szabályokat;
-
-j)[^543] a villamosenergia-piac résztvevőivel való együttműködés körét és eljárásrendjét;
-
-k) az átviteli hálózathoz történő hozzáférés műszaki feltételeit;
-
-l)[^544]
-
-m) a mérőberendezések felszerelésének, hitelesítésének és karbantartásának rendjét;
-
-n) az idegen ingatlanok tulajdon- és használati jogának korlátozására vonatkozó eljárások rendjét;
-
-o) az üzemi szabályzatban meghatározott adatok és információk szolgáltatásának rendjét;
-
-p)[^545]
-
-q) a minőségre, megbízhatóságra vonatkozó követelményeket;
-
-r)[^546] a villamosenergia-piac résztvevőivel kötendő szerződésmintákat; és
-
-s)[^547] az átviteli hálózathoz történő csatlakozásra és a csatlakozási költség megfizetésére vonatkozó szabályokat.
-
-t)[^548]
-
-2. Az elosztó hálózati engedélyesek kötelesek az I. pontban előírtakon felül üzletszabályzatukban szabályozni, illetve feltüntetni:
-
-a) a folyamatos és biztonságos szolgáltatásra vonatkozó, üzleti titok körébe nem tartozó főbb műszaki paramétereket;
-
-b) a környezetvédelmi előírások betartásának garanciális feltételeit;
-
-c) a vásárlók/felhasználók biztonságos ellátására vonatkozó garanciákat, az üzemzavarok elhárítására vonatkozó rendelkezéseket;
-
-d) a fejlesztési tervek végrehajtásának rendjét;
-
-e) az üzemzavar és korlátozás esetén alkalmazandó szabályokat;
-
-f) a villamosenergia-piac más résztvevőivel való együttműködés műszaki feltételeit;
-
-g) a közcélú hálózathoz történő hozzáférés műszaki feltételeit;
-
-h) az idegen ingatlanok tulajdon- és használati jogának korlátozására vonatkozó eljárások rendjét;
-
-i) a hálózaton végzendő, előre tervezhető karbantartási-felújítási munkálatok végzéséről történő értesítés rendjét;
-
-j) a mérőberendezések felszerelésének, hitelesítésének és karbantartásának rendjét;
-
-k) az összekötő berendezések üzemeltetésére és az üzemzavar elhárítására vonatkozó szerződések feltételeit;
-
-l) a villamosenergia-ellátási szabályzatokban meghatározott adatok és információk szolgáltatásának rendjét;
-
-m) a felhasználói igény kielégítésének műszaki-gazdasági feltételeinek közlésére vonatkozó határidőket;
-
-n) a csatlakozási költség megfizetésére vonatkozó szabályokat;
-
-o) a közvilágítás céljait szolgáló berendezések közcélú hálózat tartószerkezetein történő elhelyezésére és üzemeltetésére vonatkozó szabályokat, valamint szerződési feltételeket;
-
-p) a szolgáltatás minőségére vonatkozó követelményeket;
-
-r) a kereskedővel kötött szerződések felhasználókat is érintő rendelkezéseit;
-
-s)[^549]
-
-t)[^550] az igénybejelentésre szolgáló nyomtatvány, a csatlakozási szerződés és a hálózathasználati szerződés felhasználókra, erőművekre (ezen belül külön a háztartási méretű kiserőművekre) vonatkozó mintáit;
-
-u)[^551] a szerződés nélkül villamos energiát vételező személyekkel szembeni eljárás rendjét, az ellátásban való részvétel jogszerűvé tételének módját, a villamosenergia-vásárlási szerződés nélküli vételezés időtartama alatt felhasznált villamosenergia-mennyisége és elszámolási ára meghatározásának módját, valamint az elszámolás szabályait;
-
-v)[^552] az alaptevékenységen kívül végzett tevékenységek bemutatását, így különösen
-
-va) az engedélyes által végzett, az alaptevékenységhez kapcsolódó szolgáltatások felsorolását, és
-
-vb)[^553]
-
-w)[^554] a fogyasztásmérő-berendezés kötelező szakértői vizsgálatának igazságügyi szakértői névjegyzékben szereplő szakértővel történő lebonyolításának és a vizsgálat megrendelésének módját;
-
-x)[^555] a helyszíni felülvizsgálat nélkül megválaszolható csatlakozási igények esetei;
-
-3. A szervezett villamosenergia-piac engedélyese üzletszabályzatában az I. pontban foglaltakon túl köteles szabályozni, illetve feltüntetni:
-
-a) a szervezett villamosenergia-piacon történő kereskedés feltételeit;
-
-b) a szervezett villamosenergia-piaci tagság feltételeit.
-
-4. A villamosenergia-kereskedő az I. pontban meghatározott feltételeken túl üzletszabályzatában köteles szabályozni, illetve feltüntetni:
-
-a) a villamos energia értékesítésére vonatkozó általános szerződési feltételeinek mintáját;
-
-b) az általa alkalmazott áralkalmazási feltételeket és az árakat;
-
-c) az árak megváltoztatásának feltételeit, árváltozás esetén alkalmazandó eljárást;
-
-d) a védendő fogyasztók részére nyújtott különleges bánásmód részletes szabályait;
-
-[^526]: A Vhr. 20. számú melléklet II. alcíme a 378/2011. (XII. 31.) Korm. rendelet 31. § (10) bekezdésével megállapított szöveg.
-[^527]: A Vhr. 20. számú melléklet IV. alcímét a 378/2011. (XII. 31.) Korm. rendelet 31. § (10) bekezdése iktatta be.
-[^528]: A Vhr. 21. számú melléklet „A benyújtandó üzletszabályzat formátumára vonatkozó előírások” alcíme a 275/2017. (IX. 21.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^529]: A Vhr. 21. számú melléklet A Vhr. 17a. számú melléklet „A benyújtandó üzletszabályzat formátumára vonatkozó előírások” alcím 5. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
-[^530]: A Vhr. 21. számú melléklet „Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása” címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^531]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím I. alcím 3. pont a) pont ab) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése szerint módosított szöveg.
-[^532]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím I. alcím 3. pont c) pont ca) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése szerint módosított szöveg.
-[^533]: A Vhr. 21. számú melléklet I. Általános rendelkezések alcím 3. pont j) alpontja a 80/2019. (IV. 15.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
-[^534]: A Vhr. 21. számú melléklet I. Általános rendelkezések alcím 3. pont j) alpont ja) alpontja a 80/2019. (IV. 15.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
-[^535]: A Vhr. 21. számú melléklet I. Általános rendelkezések alcím 3. pont j) alpont jb) alpontja a 80/2019. (IV. 15.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
-[^536]: A Vhr. 21. számú melléklet I. Általános rendelkezések alcím 3. pont k) alpont ka) alpontját a 80/2019. (IV. 15.) Korm. rendelet 17. § f) pontja hatályon kívül helyezte.
-[^537]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím I. alcím 4. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^538]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím I. alcím 5. pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése iktatta be.
-[^539]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont b) pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^540]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont d) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése hatályon kívül helyezte.
-[^541]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont f) pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^542]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont g)–h) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése hatályon kívül helyezte.
-[^543]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont j) pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^544]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont l) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése hatályon kívül helyezte.
-[^545]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont p) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése hatályon kívül helyezte.
-[^546]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont r) pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^547]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont s) pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^548]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 1. pont t) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése hatályon kívül helyezte.
-[^549]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 2. pont s) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése hatályon kívül helyezte.
-[^550]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 2. pont t) pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^551]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 2. pont u) pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
-[^552]: A Vhr. 21. számú melléklet II. 2. pont v) alpontját a 116/2010. (IV. 15.) Korm. rendelet 9. § (4) bekezdése iktatta be.
-[^553]: A Vhr. 21. számú melléklet II. Az egyes engedélyesekre vonatkozó további rendelkezések alcím 2. pont v) alpont vb) alpontját a 80/2019. (IV. 15.) Korm. rendelet 17. § g) pontja hatályon kívül helyezte.
-[^554]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 2. pont w) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése iktatta be.
-[^555]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím II. alcím 2. pont x) pontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése iktatta be.
+[^541]: A Vhr. 20. számú melléklet II. alcíme a 378/2011. (XII. 31.) Korm. rendelet 31. § (10) bekezdésével megállapított szöveg.
+[^542]: A Vhr. 20. számú melléklet IV. alcímét a 378/2011. (XII. 31.) Korm. rendelet 31. § (10) bekezdése iktatta be.
+[^543]: A Vhr. 21. számú melléklet „A benyújtandó üzletszabályzat formátumára vonatkozó előírások” alcíme a 275/2017. (IX. 21.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^544]: A Vhr. 21. számú melléklet A Vhr. 17a. számú melléklet „A benyújtandó üzletszabályzat formátumára vonatkozó előírások” alcím 5. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
+[^545]: A Vhr. 21. számú melléklet „Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása” címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdésével megállapított szöveg.
+[^546]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím I. alcím 3. pont a) pont ab) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése szerint módosított szöveg.
+[^547]: A Vhr. 21. számú melléklet „Az üzletszabályzatok kötelező tartalmi követelményei” cím I. alcím 3. pont c) pont ca) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (11) bekezdése szerint módosított szöveg.

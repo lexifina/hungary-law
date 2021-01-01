@@ -1,6 +1,6 @@
 9. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szüneteltetett tevékenységének folytatására vonatkozó engedély iránti kérelméhez benyújtandó dokumentumok[^508]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szüneteltetett tevékenységének folytatására vonatkozó engedély iránti kérelméhez benyújtandó dokumentumok[^523]
 
 1. A szüneteltetési engedély száma, lejártának dátuma,
 
@@ -8,9 +8,9 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szünetel
 
 3. A telephely adatai,
 
-4.[^509] Az erőmű élettartamának időtartamára szóló független szaktanácsadó által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
+4.[^524] Az erőmű élettartamának időtartamára szóló független szaktanácsadó által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
 
-5.[^510] Műszaki adatok (amennyiben az engedélyezéshez benyújtottól eltér):
+5.[^525] Műszaki adatok (amennyiben az engedélyezéshez benyújtottól eltér):
 
 5.1. egyvonalas villamos kapcsolási rajz,
 
@@ -30,6 +30,6 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szünetel
 
 5.9. légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
 
-[^508]: A Vhr. 9. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdése szerint módosított szöveg.
-[^509]: A Vhr. 9. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
-[^510]: A Vhr. 9. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdésével megállapított szöveg.
+[^523]: A Vhr. 9. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdése szerint módosított szöveg.
+[^524]: A Vhr. 9. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
+[^525]: A Vhr. 9. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdésével megállapított szöveg.

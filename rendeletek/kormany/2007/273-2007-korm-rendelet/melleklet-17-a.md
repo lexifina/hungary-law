@@ -1,4 +1,4 @@
-17a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^522]
+17a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^537]
 
 Cégjogi esemény, befolyásszerzés esetén a kérelemhez benyújtandó iratok és adatok
 
@@ -48,7 +48,7 @@ Cégjogi esemény, befolyásszerzés esetén a kérelemhez benyújtandó iratok 
 
 3.3. a befolyásszerző kérelmező és kapcsolt vállalkozásai magyarországi energiaipari befektetéseinek és részesedéseinek és azok mértékének bemutatása a VET és a földgázellátásról szóló törvény hatálya alá tartozó engedélyesekben,
 
-3.4.[^523] az ügyletre vonatkozó szerződés, valamint a döntéshozó befolyásszerzés megvalósításáról szóló döntése.
+3.4.[^538] az ügyletre vonatkozó szerződés, valamint a döntéshozó befolyásszerzés megvalósításáról szóló döntése.
 
-[^522]: A Vhr. 17a. számú mellékletét a 80/2019. (IV. 15.) Korm. rendelet 15. § (4) bekezdése iktatta be.
-[^523]: A Vhr. 17a. számú melléklet 3. pont 3.4. alpontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^537]: A Vhr. 17a. számú mellékletét a 80/2019. (IV. 15.) Korm. rendelet 15. § (4) bekezdése iktatta be.
+[^538]: A Vhr. 17a. számú melléklet 3. pont 3.4. alpontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
