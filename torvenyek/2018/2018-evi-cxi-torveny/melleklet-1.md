@@ -14,6 +14,8 @@
 
 7.
 
-8.
+8. Az Éltv. Mellékletének 53. pontja helyébe a következő rendelkezés lép:
+
+„53. ökológiai termelés: az Öko EK rendelet 3. cikkének a) 1. pontjában meghatározott fogalom szerinti tevékenység;”
 
 9.
