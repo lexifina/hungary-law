@@ -1,3 +1,3 @@
-84. §[^283]
+84. §[^285]
 
-[^283]: A 80–88. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
+[^285]: A 80–88. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.

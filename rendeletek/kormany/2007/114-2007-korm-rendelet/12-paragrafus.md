@@ -1,3 +1,3 @@
-12. §[^28]
+12. §[^29]
 
-[^28]: A 11–13. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^29]: A 11–13. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
