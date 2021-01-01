@@ -4,7 +4,7 @@
 
 (2) A közigazgatási bírság kiszabására a közterület-felügyelet jogosult.
 
-(3) Ha a helyszíni intézkedés alkalmával az (1) bekezdés szerinti természetes személy a jogsértést teljes mértékben elismeri, a (2) bekezdés szerinti eljáró hatóság helyszíni bírságot szabhat ki.
+(3) A helyszíni intézkedés során helyszíni bírság alkalmazásának is van helye.
 
 (4) A közigazgatási bírság összege 10 000 forinttól 200 000 forintig terjedhet. A helyszíni bírság összege 5000 forinttól 100 000 forintig terjedhet.
 

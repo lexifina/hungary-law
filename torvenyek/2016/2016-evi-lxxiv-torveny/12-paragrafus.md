@@ -6,7 +6,7 @@ a) a kézikönyv és a településképi rendelet elkészítésére, egyeztetés�
 
 b) a kézikönyv tartalmi elemeit és a településképi rendelet településképi követelményeinek részletes tartalmi kereteit, ideértve a helyi építészeti örökség védelmének szakmai szabályait is,
 
-c) a településképi véleményezési, a településképi bejelentési és a településképi kötelezési eljárásra, illetve az önkormányzatnak a településkép-védelmi tájékoztatásra és szakmai konzultációra irányadó általános szabályait,
+c) a településképi véleményezési, a településképi bejelentési, a településképi kötelezési eljárásra, a meghatározott cselekmény végrehajtására és mindezekről hatósági bizonyítvány kiállítására vonatkozó szabályokat, valamint az önkormányzatnak a településkép-védelmi tájékoztatásra és szakmai konzultációra irányadó általános szabályait,
 
 d) a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteit, a reklámközzététel megengedett technológiáit, módszereit, eszközeit,
 
@@ -14,7 +14,7 @@ e) a reklámhordozók általános formai követelményeit,
 
 f) az e törvény szerinti reklámközzététel és reklámhordozó-elhelyezés szabályainak megszegéséért megállapítható jogkövetkezmények alkalmazására hatáskörrel rendelkező közigazgatási hatóság kijelölését,
 
-g) a 11. § szerinti településkép-védelmi bírság, valamint a 11/E. § szerinti közigazgatási bírság, helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait.
+g) a 11. § szerinti településkép-védelmi bírság és helyszíni bírság, a 11/C. § szerinti közigazgatási bírság és helyszíni bírság, a 11/E. § szerinti településképi bírság és helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait, valamint a 11/C. § szerinti esetben a reklámhordozót tartó berendezések, reklámhordozók és reklámok hatóság általi eltávolításának és elkobzásának szabályait,
 
 h) az országos településkép-védelemmel érintett településképi szempontból kiemelten meghatározó területet és az érintett ingatlanokat,
 

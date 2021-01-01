@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-74-00-00
 | 2019-03-15 | 2018. évi CXXXIX. törvény | 2016-74-00-00.13 |
 | 2020-07-01 | 2020. évi XXX. törvény | 2016-74-00-00.14 |
 | 2020-07-22 | 2020. évi LXXXI. törvény | 2016-74-00-00.15 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 2016-74-00-00.16 |
