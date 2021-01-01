@@ -1,6 +1,6 @@
 66. § A 65. § a következő járandóságok letiltása esetén is irányadó:
 
-a) a kormányzati szolgálati, közszolgálati és a közalkalmazotti jogviszony, továbbá a szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony alapján járó illetmény,
+a) a kormányzati szolgálati, közszolgálati és a közalkalmazotti jogviszony, az adó- és vámhatósági szolgálati jogviszony, továbbá a szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony alapján járó illetmény,
 
 b) a szövetkezeti tagot a munkaviszony jellegű jogviszony alapján megillető munkadíj,
 

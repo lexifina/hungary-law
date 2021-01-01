@@ -2,7 +2,7 @@
 
 132/B. § (1) A végrehajtó elektronikus árverés útján értékesíti
 
-a) a végrehajtást kérő kérelmére a 100 ezer Ft-ot elérő becsértékű ingóságot, ha a szállítási és tárolási költségeket a végrehajtást kérő megelőlegezte,
+a) a végrehajtást kérő kérelmére az 50 ezer Ft-ot elérő becsértékű ingóságot, ha a szállítási és tárolási költségeket a végrehajtást kérő megelőlegezte,
 
 b) az ingóságot, ha annak őrzése vagy tárolása egyébként biztosított,
 

@@ -2,7 +2,7 @@
 
 (2) Az árverés megkezdésekor a végrehajtó az árverezőkkel közli az ingóság becsértékét (a kikiáltási árat), és felhívja őket ajánlatuk megtételére. A vételi ajánlat akkor érvényes, ha az legalább a licitküszöb összegével meghaladja az előzőleg tett vételi ajánlatot.
 
-(3) Ha a felajánlott vételár nem éri el a kikiáltási árat, azt fokozatosan lejjebb kell szállítani a becsérték 35%-áig.
+(3) Ha a felajánlott vételár nem éri el a kikiáltási árat, azt fokozatosan lejjebb kell szállítani a becsérték 1%-áig.
 
 (4) Az árverést addig kell folytatni, amíg ajánlatot tesznek. Ha nincs további ajánlat, a végrehajtó a felajánlott legmagasabb vételár háromszori kikiáltása után kijelenti, hogy az ingóságot a legtöbbet ajánló megvette.
 
