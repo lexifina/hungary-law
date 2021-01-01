@@ -12,7 +12,7 @@
 
 (7) Az országos tisztifőorvos kétévente, a második év március 31. napjáig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére a jóváhagyott megyei résztervek figyelembevételével a Nemzeti Népegészségügyi Központnak az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
 
-(8) Az OMSZ főigazgatója, a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) főigazgatója, az ÁEEK főigazgatója, valamint az OGYÉI főigazgatója kétévente, a második év március 31. napjáig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
+(8)[^21] Az OMSZ főigazgatója, a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) főigazgatója, az OKFŐ főigazgatója, valamint az OGYÉI főigazgatója kétévente, a második év március 31. napjáig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
 
 (9) Az (5), (7) és (8) bekezdés szerinti jóváhagyott résztervek alapján az egészségügyért felelős miniszter gondoskodik az Egészségügyi Válsághelyzetek Kezelésének Országos Tervének (a továbbiban: Országos Terv) előkészítéséről.
 
@@ -22,6 +22,8 @@
 
 (12) Az Országos Tervet az egészségügyért felelős miniszter adja ki kétévente, a második év május 31. napjáig, és azt a megyei védelmi bizottságok részére az országos tisztifőorvos útján megküldi.
 
-(13) Az Országos Tervet az OMSZ, a NEAK, az ÁEEK és az OGYÉI és az országos tisztifőorvos részére az egészségügyért felelős miniszter küldi meg közvetlenül.
+(13)[^22] Az Országos Tervet az OMSZ, a NEAK, az OKFŐ és az OGYÉI és az országos tisztifőorvos részére az egészségügyért felelős miniszter küldi meg közvetlenül.
 
 [^20]: A 10. § a 113/2019. (V. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^21]: A 10. § (8) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^22]: A 10. § (13) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
