@@ -48,7 +48,7 @@
 
 ## 4. Az adattovábbítás feltételei
 
-## Az 1. pontban felsorolt adatok – az 1. cm) pont szerinti adatok kivételével – továbbíthatók: a fenntartónak valamennyi adat, a fenntartói jogok gyakorlásához szükséges mértékben; a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges; a felsőoktatási információs rendszer működéséért felelős szervnek minden olyan adat, amelyet e törvény szerint a felsőoktatási információs rendszer kezelhet; a MAB-nak minden olyan adat, amely ahhoz szükséges, hogy megállapíthassa a felsőoktatási intézmény működéséhez szükséges feltételek meglétét; a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adatok; a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak a foglalkoztatással összefüggő adatok, a nemzetbiztonsági szolgálatnak a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) meghatározott feladatok ellátásához szükséges valamennyi adat; az oktatói munka hallgatói véleményezése eredményeit a felsőoktatási intézménnyel hallgatói, foglalkoztatási jogviszonyban állók számára az intézményi szabályzatban meghatározott módon; valamint az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Avtv2.) 28. § alapján a felsőoktatási intézményhez intézett adat-megismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
+## Az 1. pontban felsorolt adatok – az 1. cm) pont szerinti adatok kivételével – továbbíthatók: a fenntartónak valamennyi adat, a fenntartói jogok gyakorlásához szükséges mértékben; a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges; a felsőoktatási információs rendszer működéséért felelős szervnek minden olyan adat, amelyet e törvény szerint a felsőoktatási információs rendszer kezelhet; a MAB-nak minden olyan adat, amely ahhoz szükséges, hogy megállapíthassa a felsőoktatási intézmény működéséhez szükséges feltételek meglétét; a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adatok; a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak a foglalkoztatással összefüggő adatok, a nemzetbiztonsági szolgálatnak a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) meghatározott feladatok ellátásához szükséges valamennyi adat; az oktatói munka hallgatói véleményezése eredményeit a felsőoktatási intézménnyel hallgatói, foglalkoztatási jogviszonyban állók számára az intézményi szabályzatban meghatározott módon; valamint az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Avtv2.) 28. § alapján a felsőoktatási intézményhez intézett adat-megismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (2) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
 
 ## 5. A gazdasági tanács tagja esetén a cm) pontban foglaltak igazolására, az adatkezelés rendjére a 25. § (5)–(8) bekezdést kell megfelelően alkalmazni.
 
@@ -247,3 +247,13 @@ az ösztöndíjpályázat lebonyolítása, és az ösztöndíjra való jogosults
 4. Az adatkezelés időtartama:
 
 az ösztöndíj időtartamának lejártától számított 5 év.
+
+5. Az ösztöndíjrendszerrel összefüggésben kezelt személyes és különleges adatok továbbítására jogosultak köre és feltételei:
+
+a) a 2. pontban meghatározott adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó 1. pontban meghatározott valamennyi adatát,
+
+b) a felsőoktatási információs rendszer működtetéséért felelős szerv a pályázatkezelő szervezetnek valamint a támogatást nyújtó helyi önkormányzatnak a pályázó felsőoktatási intézménybe történő felvételének eredményét, támogatási idejének adatát
+
+c) a felsőoktatási intézmény a pályázatkezelő szervezetnek, valamint a támogatást nyújtó helyi önkormányzatnak a hallgatói jogviszony állapotára vonatkozó adatot,
+
+d) a pályázatkezelő szervezet a felsőoktatási információs rendszer működtetéséért felelős szervnek a b) pontban meghatározott adatok lekérdezéséhez szükséges adatokat.

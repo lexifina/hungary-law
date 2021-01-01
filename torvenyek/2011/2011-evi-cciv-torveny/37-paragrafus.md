@@ -32,7 +32,7 @@ b) szervezeti egység vezetői és vezetőhelyettesei.
 
 (5) A magasabb vezetői és vezetői megbízásokra benyújtott pályázatok rangsorolásáról a (4a) bekezdés szerinti, a gazdasági vezetői és a belső ellenőrzési vezetői pályázat kivételével a szenátus, vagy a 12. § (8) bekezdése alapján a szervezeti és működési szabályzatban meghatározott átruházott hatáskörben eljáró testület vagy személy (a továbbiakban e bekezdésben együttesen: szenátus) dönt. A szenátus döntését – a (4) bekezdésben foglaltak kivételével – megküldi a munkáltatói jogkör gyakorlójának. A munkáltatói jogkör gyakorlója a szenátus véleményének mérlegelésével dönt a vezetői megbízásról. A (4a) bekezdésben meghatározott vezetői megbízás esetében a rektor a megbízott személlyel – a megbízásra jogosult által meghatározottak szerint – létesít a felsőoktatási intézményben foglalkoztatásra irányuló jogviszonyt.
 
-(6) A magasabb vezetői és a vezetői megbízás a hatvanötödik életév betöltéséig szólhat. Ha a rektori pályázat kiírása napján a pályázó még nem töltötte be a hatvanötödik életévét, de azt a pályázat kiírásától a megbízás pályázatban kiírt időtartama végéig betölti, akkor vezetői megbízása – a (3) és (4) bekezdésben foglaltaktól eltérően – további egy alkalommal meghosszabbítható.
+(6) A magasabb vezetői és a vezetői megbízás a hatvanötödik életév betöltéséig szólhat. Ha a az (1) bekezdés a)–e) pontjában meghatározott magasabb vezetői pályázat kiírása napján a pályázó még nem töltötte be a hatvanötödik életévét, de azt a pályázat kiírásától a megbízás pályázatban kiírt időtartama végéig betölti, akkor vezetői megbízása – a (3) és (4) bekezdésben foglaltaktól eltérően – további egy alkalommal meghosszabbítható.
 
 (7)
 

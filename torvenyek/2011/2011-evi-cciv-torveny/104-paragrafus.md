@@ -20,6 +20,8 @@ a) a honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében a h
 
 b) a rendvédelmi feladatokat ellátó szerv tisztjelöltjei tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben
 
+c) a Nemzeti Adó- és Vámhivatal tisztjelöltjei tekintetében a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben
+
 foglalt eltérésekkel együtt kell alkalmazni.
 
 (2) Azokat a kérdéseket, amelyeket e törvény alapján a foglalkoztatási követelményrendszerben kell szabályozni, a felsőoktatási intézmény kollektív szerződése is szabályozhatja.

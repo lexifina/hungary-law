@@ -1,8 +1,8 @@
 41/F. § (1) A felsőoktatási felvételi eljárást meg kell szüntetni, ha
 
-a) a jelentkezési kérelem visszautasításának lett volna helye, a visszautasítási ok azonban az eljárás megindítását követően jutott a felsőoktatási információs rendszer működéséért felelős szerv tudomására,
+a)
 
-b) a jelentkező a jelentkezési kérelmét visszavonta,
+b) a jelentkező a jelentkezési kérelmét valamennyi kiválasztott jelentkezési hely tekintetében visszavonta,
 
 c) a jelentkező meghalt,
 

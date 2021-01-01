@@ -12,7 +12,9 @@ a) a hallgatói juttatások,
 
 b) a felsőoktatási intézmény 2. § (1) bekezdése szerinti alaptevékenységének
 
-c)–d)
+c) nemzetgazdasági, térségfejlesztési feladatok ellátásának,
+
+d) egyes további közfeladatok ellátásának
 
 e) a hallgatói sport,
 
@@ -24,7 +26,7 @@ h) kulturális és fejlesztési támogatások
 
 biztosítása.
 
-(3) Az állami támogatásra az állami felsőoktatási intézmények azonos feltételek, az egyházi felsőoktatási intézmények és a magán felsőoktatási intézmények – törvény eltérő rendelkezése hiányában – a Kormánnyal kötött megállapodás alapján válnak jogosulttá.
+(3) Az állami támogatásra az állami felsőoktatási intézmények azonos feltételek, az egyházi felsőoktatási intézmények és a magán felsőoktatási intézmények – törvény eltérő rendelkezése hiányában – az állam képviseletében a miniszter és a fenntartó között létrejött megállapodás alapján válnak jogosulttá.
 
 (4) A felsőoktatási intézmény részére adható támogatás lehet különösen:
 

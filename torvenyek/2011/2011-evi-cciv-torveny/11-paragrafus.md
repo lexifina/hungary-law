@@ -10,7 +10,7 @@ a) meghatározza a működésére és szervezetére vonatkozó azon rendelkezés
 
 b) egy – a honlapján akadálymentes módon nyilvánosságra hozott – szervezeti és működési szabályzatot fogadhat el, amelynek részeit a 2. melléklet sorolja fel,
 
-c) tájékoztató és tanácsadó rendszerével segíti a – különös figyelemmel a fogyatékkal élő – hallgató beilleszkedését és előrehaladását a felsőfokú tanulmányok idején, illetve a tanulmányok alatt és befejezését követően segítséget nyújt a karriertervezésben,
+c) tájékoztató és tanácsadó rendszerével segíti a – különös figyelemmel a fogyatékkal élő – hallgató beilleszkedését és előrehaladását a felsőfokú tanulmányok idején, illetve a tanulmányok alatt és befejezését követően segítséget nyújt a karriertervezésben, korai pályaorientációs és készségfejlesztési programokkal támogatja a középfokú oktatási rendszert, valamint a hallgatói utánpótlás biztosítását,
 
 d) ellátja a tehetséggondozással és a tudomány társadalmi elismertségének növelésével kapcsolatos feladatokat,
 

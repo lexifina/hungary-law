@@ -1,6 +1,6 @@
 ## 8. A képzés megszervezésének módozatai
 
-17. § (1) A felsőoktatásban a képzés, a képzési és kimeneti követelményekben foglaltak szerint megszervezhető teljes idejű képzésként, részidős képzésként, továbbá távoktatásként. A teljes idejű képzés félévenként legalább kettőszáz, doktori képzés esetén legalább negyven tanórából áll.
+17. § (1) A felsőoktatásban a képzés, a képzési és kimeneti követelményekben foglaltak szerint megszervezhető teljes idejű képzésként, részidős képzésként, továbbá távoktatásként. A teljes idejű képzés félévenként legalább kettőszáz, doktori képzés esetén legalább negyven tanórából vagy ennek megfelelő zárt rendszerű elektronikus távoktatásból áll.
 
 (2) A teljes idejű képzést a nappali képzés munkarendje szerint heti öt napból álló tanítási hét keretében, a munkanapokon kell megszervezni. E rendelkezéstől a felsőoktatási intézmény hallgatói önkormányzatának egyetértésével el lehet térni. A teljes idejű képzés duális képzésként is megszervezhető.
 

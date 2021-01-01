@@ -14,7 +14,7 @@ c) a teljes munkaidőre megállapított kötelező legkisebb munkabér (minimál
 
 d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredményéről tájékoztatja az intézmény honos országának illetékes szerveit,
 
-e) felhívja a felsőoktatási intézmény figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére, ha megállapítja, hogy a felsőoktatási intézmény a jogszabályban, az intézményi szabályzatban, illetve hatósági döntésben foglalt előírásokat megsértette, és a jogszabály, a szabályzat vagy a hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható.
+e) a figyelmeztetést tartalmazó döntésben felhívja a felsőoktatási intézmény figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére, ha megállapítja, hogy a felsőoktatási intézmény a jogszabályban, az intézményi szabályzatban, illetve hatósági döntésben foglalt előírásokat megsértette, és a jogszabály, a szabályzat vagy a hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható.
 
 (3)
 
@@ -26,7 +26,7 @@ a) felsőoktatási intézmény és a közösségi felsőoktatási képzési köz
 
 b) felsőoktatási intézmény működési engedélyének felülvizsgálatára irányuló eljárásban kilenc hónap;
 
-c) a felsőoktatási szakképzés, alap- és mesterképzés indítására, valamint a doktori iskola létesítésére irányuló eljárásban öt hónap;
+c)
 
 d) a 65–66. § szerinti törvényességi ellenőrzés esetén, az oktatási hivatal eljárását is beleértve százhúsz nap;
 
@@ -35,6 +35,8 @@ e) a 68. § (1) bekezdés a) pontja szerinti hatósági ellenőrzés esetén kil
 f)
 
 g)
+
+(5a) Amennyiben az oktatási hivatalnak felsőoktatási szakképzés, alap- és mesterképzés, doktori képzés indítására, valamint doktori iskola létesítésére irányuló eljárásban a MAB szakértői véleményét kell beszereznie, az ügyintézési határidő a szakértői vélemény beérkezését követő napon indul.
 
 (6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
@@ -45,3 +47,5 @@ g)
 (9)
 
 (10) A 76–77. § szerinti eljárásban nincs helye sommás eljárásnak.
+
+(11) A 65. §-ban, a 66. §-ban és a 68. §-ban meghatározott eljárásokban nem alkalmazható közigazgatási szankció, ha a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított három év – de legkésőbb az elkövetéstől számított öt év – eltelt.

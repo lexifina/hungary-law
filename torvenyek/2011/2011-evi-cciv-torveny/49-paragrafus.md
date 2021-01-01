@@ -16,13 +16,13 @@ b) az összes előírt kredit tíz százalékáig terjedően nem magyar nyelven 
 
 vehessen fel.
 
-(3) A hallgató a tanulmányaihoz tartozó tantárgyakat annak a felsőoktatási intézménynek, amellyel hallgatói jogviszonyban áll, másik képzésében, továbbá más felsőoktatási intézményben mint vendéghallgató is felveheti.
+(3) A hallgató a tanulmányaihoz tartozó tantárgyakat – ideértve a szabadon választható tárgyakat is – annak a felsőoktatási intézménynek, amellyel hallgatói jogviszonyban áll, másik képzésében, továbbá más felsőoktatási intézményben mint vendéghallgató is felveheti.
 
 (4) A felsőoktatási intézmény ajánlott tantervet ad ki a hallgatói tanulmányi rend összeállításához. A felsőoktatási intézménynek biztosítania kell, hogy minden hallgató számot adhasson tudásáról, és a sikeres vagy sikertelen számonkérést megismételhesse úgy, hogy a megismételt számonkérés elfogulatlan lebonyolítása és értékelése biztosított legyen.
 
-(5) Egy adott ismeretanyag elsajátításáért egy alkalommal adható kredit. A kreditelismerés – tantárgy (modul) előírt kimeneti követelményei alapján – kizárólag a kredit megállapításának alapjául szolgáló tudás összevetésével történik. El kell ismerni a kreditet, ha az összevetett tudás legalább hetvenöt százalékban megegyezik. A tudás összevetését a felsőoktatási intézmény e célra létrehozott bizottsága (a továbbiakban: kreditátviteli bizottság) végzi.
+(5) Egy adott ismeretanyag elsajátításáért egy alkalommal adható kredit. A kreditelismerés – tantárgy (modul) előírt kimeneti követelményei alapján – kizárólag a kredit megállapításának alapjául szolgáló tudás összevetésével történik. El kell ismerni a kreditet, ha szabadon választható tárgyra vonatkozik vagy az összevetett tudás legalább hetvenöt százalékban megegyezik. A tudás összevetését a felsőoktatási intézmény e célra létrehozott bizottsága (a továbbiakban: kreditátviteli bizottság) végzi.
 
-(6) A kreditátviteli bizottság az előzetesen nem formális, informális tanulás során megszerzett tudást, munkatapasztalatot – az e törvényben, valamint kormányrendeletben meghatározottak szerint – tanulmányi követelmény teljesítéseként elismerheti.
+(6) A kreditátviteli bizottság az előzetesen nem formális, informális tanulás során megszerzett tudást, munkatapasztalatot – az e törvényben, valamint kormányrendeletben meghatározottak szerint – tanulmányi követelmény teljesítéseként elismerheti. A kreditátviteli bizottság eseti döntését kell alkalmazni öt évig az azonos kreditelismerésre vonatkozó kérelemnél.
 
 (7) A (3)–(6) bekezdésben meghatározottak végrehajtásával kapcsolatos kérdéseket a tanulmányi és vizsgaszabályzatban kell szabályozni, azzal a megkötéssel, hogy a hallgató a végbizonyítvány (abszolutórium) megszerzéséhez – a felsőoktatási intézményben folytatott, illetve más korábbi tanulmányok, továbbá az előzetesen megszerzett tudás kreditértékként való elismerése esetén is – a tanulmányi és vizsgaszabályzat szerinti kreditet, de legalább a képzés kreditértékének harmadát az adott intézmény adott képzésén köteles teljesíteni.
 
@@ -30,7 +30,7 @@ vehessen fel.
 
 a) doktori képzés,
 
-b) az Erasmus+ és utódprogramjai keretében megvalósuló közös képzés,
+b) az Európai Unió, a Visegrádi Alap és a Közép-európai Felsőoktatási Csereprogram által finanszírozott programok keretében megvalósuló közös képzés,
 
 c) a 23. § (1) bekezdése szerinti megállapodás alapján ugyanazon képzési terület szerinti szakra átvett hallgató és
 

@@ -10,7 +10,7 @@ a) felsőoktatási intézmény részeként klinikai központot működtethet,
 
 b) a felsőoktatási intézménytől elkülönített szervezeti keretben egészségügyi szolgáltatót létesíthet és tarthat fenn,
 
-c) a felsőoktatási intézmény szervezeti egységeként egyetemi kórházat működtethet.
+c) a felsőoktatási intézmény szervezeti egységeként egyetemi kórházat is működtethet.
 
 (2) Az egészségügyért felelős miniszter az általa vezetett minisztérium irányítása alá tartozó egészségügyi szolgáltató tekintetében az államháztartásról szóló törvény 9. § b)–d) és g)–j) pontja szerinti irányítási hatásköröket az általa vezetett minisztérium irányítása alá tartozó olyan egészségügyi felsőoktatási intézményre mint középirányító szervre ruházhatja át, amely az alapító okiratában foglaltak szerint alapképzést több képzési területen folytat.
 

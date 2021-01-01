@@ -20,6 +20,6 @@ f) a jogszabályokban és a felsőoktatási intézmény szervezeti és működé
 
 g) a 15. és 16. § szerint végzettek pályakövetése céljából
 
-nélkülözhetetlenül szükséges személyes és különleges adatokat tartja nyilván.
+nélkülözhetetlenül szükséges személyes és különleges adatokat tartja nyilván a tanulmányi rendszerében.
 
 (2) Az (1) bekezdés alapján nyilvántartott adatok körét, az adatkezelés célját és időtartamát, valamint a nyilvántartott adatok továbbításának feltételeit a 3. és 6. melléklet rögzíti. A nyilvántartott adatok statisztikai célra felhasználhatók és statisztikai felhasználás céljára a hivatalos statisztikai szolgálat számára átadhatók.

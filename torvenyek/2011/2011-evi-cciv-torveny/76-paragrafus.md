@@ -24,7 +24,7 @@ d) működését az oktatási hivatal engedélyezte.
 
 (3) A működési engedély megtagadható, ha a külföldi oklevél végzettségi szintjének a magyarországi elismerésére nincs lehetőség. Ha a más államban székhellyel rendelkező felsőoktatási intézmény által kibocsátott külföldi oklevél végzettségi szintjének magyarországi elismerésére nincs lehetőség, akkor erre az intézménynek egyértelműen és igazolhatóan fel kell hívni a képzésre jelentkező figyelmét, amelynek teljesülését az oktatási hivatal ellenőrzi.
 
-(4) Az oktatási hivatal eljárásában kérheti, hogy a külföldi felsőoktatási intézmény a (1)–(2) bekezdésben meghatározott feltételek fennállását igazoló okiratokat hiteles másolatban, illetve hiteles magyar fordításban nyújtsa be. Az oktatási hivatal honlapján közzéteszi azon nyelvek listáját, amelyek vonatkozásában az okiratok nem hiteles magyar fordítását is elfogadja.
+(4) Az oktatási hivatal eljárásában kérheti, hogy a külföldi felsőoktatási intézmény az (1) és (2) bekezdésben meghatározott feltételek fennállását igazoló okiratokat hiteles másolatban, illetve hiteles magyar fordításban nyújtsa be. Az oktatási hivatal honlapján közzéteszi azon nyelvek listáját, amelyek vonatkozásában az okiratok nem hiteles magyar fordítását is elfogadja.
 
 (5) Ha törvény eltérően nem rendelkezik, a külföldi felsőoktatási intézmény alapítására, az intézményben folyó oktató és kutató munkára, valamint annak ellenőrzésére, az intézmény működésére, a felvételi feltételek meghatározására az intézmény székhelye szerinti állam előírásait kell alkalmazni.
 

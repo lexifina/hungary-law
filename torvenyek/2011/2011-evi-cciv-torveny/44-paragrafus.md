@@ -2,7 +2,7 @@
 
 44. § (1) A hallgató hallgatói munkaszerződés alapján végezhet munkát:
 
-a) a duális képzés képzési ideje alatt külső gyakorlóhelyen, a képzési program keretében, illetve a képzés részeként megszervezett szakmai gyakorlat vagy gyakorlati képzés során az intézményben, az intézmény által alapított gazdálkodó szervezetben vagy külső gyakorlóhelyen,
+a) a duális képzés képzési ideje alatt külső vagy belső gyakorlóhelyen, a képzési program keretében, illetve a képzés részeként megszervezett szakmai gyakorlat vagy gyakorlati képzés során az intézményben, az intézmény által alapított gazdálkodó szervezetben vagy külső vagy belső gyakorlóhelyen,
 
 b) a képzési programhoz nem kapcsolódóan, a felsőoktatási intézmény alaptevékenysége körében a felsőoktatási intézményben vagy a felsőoktatási intézmény részvételével működő gazdálkodó szervezetben.
 

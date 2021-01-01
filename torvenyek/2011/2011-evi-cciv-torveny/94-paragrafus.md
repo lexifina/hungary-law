@@ -12,13 +12,13 @@
 
 (2c) A magán felsőoktatási intézmény szervezeti egységét – ide nem értve a 14. § (3) bekezdés szerinti, törvény alapján jogi személyiségű szervezeti egységként működtetett köznevelési intézményt, szakképző intézményt – a magán felsőoktatási intézmény alapító okirata jogi személlyé nyilváníthatja. A szervezeti egység jogi személyiségét az alapító okirat, illetve annak módosításának az oktatási hivatal általi bejegyzésével szerzi meg.
 
-(3) A magán felsőoktatási intézmények – feltéve, hogy a Kormány a támogatásra megállapodásban vállalt kötelezettséget – a megállapodásban foglalt feltételek mellett jogosultak a 84. § (2) bekezdés a)–b), valamint e) és g) pontjában meghatározott támogatásokra. Az e bekezdésben foglaltakat az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
+(3) A magán felsőoktatási intézmények – feltéve, hogy a miniszter a támogatásra megállapodásban vállalt kötelezettséget – a megállapodásban foglalt feltételek mellett jogosultak a 84. § (2) bekezdésében meghatározott támogatásokra. Az e bekezdésben foglaltakat az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
 
 (4) A magán felsőoktatási intézmény a 2. § (1) és (3) bekezdésében meghatározott feladatok szerinti tevékenységet folytathat, ennek megvalósítása érdekében – e törvényben és a Kormány által meghatározottak szerint – gazdálkodik (a továbbiakban: magán felsőoktatási intézmény gazdálkodási rendje).
 
 (5) A magán felsőoktatási intézmény alapító okiratában fel kell tüntetni, hogy tevékenységét közhasznú szervezetként működő felsőoktatási intézményként vagy vállalkozásként végzi.
 
-(6) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdésében és a 73. § (3) bekezdésében foglaltaktól eltérően úgy is rendelkezhet, hogy a fenntartó fogadja el a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, intézményfejlesztési, vagyongazdálkodási tervét, gazdálkodó szervezet alapítását, gazdálkodó szervezetben történő részesedés szerzését, valamint a fenntartó írja ki a rektori pályázatot.
+(6) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdésében és a 73. § (3) bekezdésében foglaltaktól eltérően úgy is rendelkezhet, hogy a fenntartó fogadja el a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, vagyongazdálkodási tervét, gazdálkodó szervezet alapítását, gazdálkodó szervezetben történő részesedés szerzését, valamint a fenntartó írja ki a rektori pályázatot.
 
 (6a) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdés d) pontjában foglaltaktól eltérően úgy is rendelkezhet, hogy a szenátus javaslatot tesz a rektori pályázati felhívás tartalmára és véleményezi a rektori pályázatokat, továbbá értékeli a rektor vezetői tevékenységét.
 

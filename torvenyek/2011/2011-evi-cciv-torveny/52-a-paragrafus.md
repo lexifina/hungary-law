@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta, és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy az ügyészség a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(3) A visszavont, megsemmisített oklevelet a felsőoktatási intézmény bevonja. A határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában, valamint az oktatási hivatal honlapján közzé kell tenni.
+(3) A visszavont, megsemmisített oklevelet a felsőoktatási intézmény bevonja. A visszavont, érvénytelenített oklevelet kiállító felsőoktatási intézmény és szükség szerint jogutódjának nevét, az oklevél sorszámát, az érvénytelenítés időpontját és okát az oktatási hivatal honlapján közzé kell tenni.
 
 (4) Az (1) és (2) bekezdés szerinti döntés ellen jogorvoslatnak van helye.
 

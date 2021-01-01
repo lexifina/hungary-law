@@ -28,6 +28,6 @@ jogosult folytatni.
 
 (5) A felsőoktatási intézmény a működését akkor kezdheti meg, ha
 
-a) a fenntartó kérelmére a felsőoktatási intézmények nyilvántartását vezető szervtől (a továbbiakban: oktatási hivatal) megkapta a működési engedélyt, nyilvántartásba vették és
+a) a fenntartó kérelmére az oktatási hivatal megkapta a működési engedélyt, nyilvántartásba vették és
 
 b) az Országgyűlés döntött az állami elismeréséről.

@@ -4,7 +4,7 @@
 
 (2) Az oktatással kapcsolatos feladatokat ellátó kötelessége, hogy az ismereteket tárgyilagosan és többoldalúan közvetítse, a jóváhagyott tanterv szerint oktasson és értékeljen, a hallgató emberi méltóságát és jogait tiszteletben tartsa; az oktató tevékenysége során vegye figyelembe a hallgató egyéni képességét, tehetségét, fogyatékosságát.
 
-(3) Az oktató, tanári munkakörben foglalkoztatott személy, a tudományos kutató a képzési feladatok ellátása során a hallgatókkal összefüggő tevékenységével kapcsolatban büntetőjogi védelem szempontjából közfeladatot ellátó személy.
+(3) Az oktató, tanári munkakörben foglalkoztatott személy, a tudományos kutató a képzési feladatok ellátása során a hallgatókkal összefüggő tevékenységével kapcsolatban Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személy.
 
 (4)
 

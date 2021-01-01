@@ -15,3 +15,5 @@ b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugya
 (5) A hallgatói jogviszony fennállása alatt újabb beiratkozásra nincs szükség. A hallgatónak az intézményi szabályozásban meghatározottak szerint – a képzési időszak megkezdése előtt – be kell jelentkeznie az adott képzési időszakra. Nem jelentkezhet be az a hallgató, aki a lejárt fizetési kötelezettségeinek nem tett eleget.
 
 (6) Az (1) bekezdés b) pontja szerinti átvételre – a Kormány rendeletében meghatározottak kivételével – csak azonos végzettségi szintet eredményező szakok között kerülhet sor, alapképzés és osztatlan mesterképzés esetében feltéve, hogy a hallgató legalább 30 kreditet ténylegesen megszerzett korábbi intézményében.
+
+(7) A (6) bekezdéstől eltérően az alapképzésben tanulmányokat folytató hallgató átvehető felsőoktatási szakképzésre.

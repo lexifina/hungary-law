@@ -1,1 +1,1 @@
-10. § A miniszter nemzetközi szerződésben vagy a Kormány megállapodásában foglaltak szerint felsőoktatási intézményt kiemelt felsőoktatási intézménnyé minősíthet.
+10. § A miniszter nemzetközi szerződésben vagy megállapodásban felsőoktatási intézményt kiemelt felsőoktatási intézménnyé minősíthet.

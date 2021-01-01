@@ -16,7 +16,7 @@ a) felelős
 
 aa) a hazai és nemzetközi oktatási és kutatási kapcsolatokért, együttműködésért,
 
-ab) azért, hogy az intézmény képzési programja a vonatkozó jogszabályi rendelkezésekkel összhangban álljon,
+ab) azért, hogy az intézmény képzési programja a vonatkozó jogszabályi rendelkezésekkel, valamint a miniszter által meghatározott képzési és kimeneti követelményekkel összhangban álljon,
 
 ac) az intézmény működési engedélyének módosításához, képzések indításához, a doktori iskola nyilvántartásba vételéhez, a felsőoktatási felvételi eljáráshoz szükséges jogszabályban meghatározott intézkedések kiadmányozásáért;
 
