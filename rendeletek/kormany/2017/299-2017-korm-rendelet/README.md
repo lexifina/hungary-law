@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-299-20-
 | 2019-05-01 | 2017-299-20-22.6 | 99/2019. (IV. 30.) Korm. rendelet |
 | 2020-01-01 | 2017-299-20-22.7 | 370/2019. (XII. 30.) Korm. rendelet |
 | 2020-04-01 | 2017-299-20-22.8 | 370/2019. (XII. 30.) Korm. rendelet |
+| 2021-01-01 | 2017-299-20-22.9 | 721/2020. (XII. 31.) Korm. rendelet |

@@ -1,6 +1,6 @@
 ## 7. Menetrendadás és menetrendtartás
 
-12. §[^37] (1) A KÁT termelő a 11. § (2) bekezdés d) pontja figyelembevételével köteles a befogadó részére a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint a hónap minden napjára menetrendet adni.
+12. §[^35] (1) A KÁT termelő a 11. § (2) bekezdés d) pontja figyelembevételével köteles a befogadó részére a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint a hónap minden napjára menetrendet adni.
 
 (2) A KÁT termelő a 11. § (2) bekezdés d) pontja figyelembevételével a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint jogosult napon belüli menetrend nyújtására. Ha a KÁT termelő a napon belüli menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően, vagy késedelmesen adja meg, akkor a napi menetrend napon belüli menetrenddé válik.
 
@@ -10,4 +10,4 @@
 
 (5) A befogadó a (3) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során csökkentő tényezőként köteles figyelembe venni.
 
-[^37]: A 12. § a 370/2019. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: A 12. § a 370/2019. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

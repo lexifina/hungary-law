@@ -2,7 +2,7 @@
 
 11. § (1) A kötelező átvételi rendszerben a KÁT termelő jogosult a Hivatal 18. § (1) bekezdése szerinti határozatában foglaltaknak megfelelő mennyiségű villamos energiát a befogadónak átadni, a befogadó köteles azt befogadni, valamint a KÁT termelővel a villamos energia ellenértékét a (3)–(6) bekezdésekben és a 8. §-ban foglaltaknak megfelelően a KÁT mérlegkörben elszámolni.
 
-(2)[^31] A KÁT termelők a KÁT mérlegkörön belül menetrendadással kapcsolatos jogaik közös gyakorlása és kötelezettségeik közös teljesítése céljából összevont menetrendadásra jogosultak az alábbi feltételek szerint:
+(2)[^29] A KÁT termelők a KÁT mérlegkörön belül menetrendadással kapcsolatos jogaik közös gyakorlása és kötelezettségeik közös teljesítése céljából összevont menetrendadásra jogosultak az alábbi feltételek szerint:
 
 a) a KÁT termelők összevont menetrendadási csoport alakítása esetén kötelesek egy menetrend-csoport képviselőt kijelölni. A menetrend-csoport képviselő több összevont menetrendadási csoportot is képviselhet, azonban a KÁT termelő – menetrendje tekintetében – kizárólag egy csoport tagja lehet;
 
@@ -10,9 +10,9 @@ b) a menetrend-csoport képviselő és az összevont menetrendadási csoport tag
 
 c) a menetrend-csoport képviselő és az összevont menetrendadási csoport tagjai kötelesek egymással az összevont menetrendadással összefüggő jogaikról és kötelezettségeikről külön megállapodást kötni;
 
-d)[^32] a menetrend-csoport képviselő a 12. § (1) és (2) bekezdése szerinti menetrendeket KÁT termelőnként köteles megadni, de a befogadó és a menetrend-csoport képviselő között a 12. § (3) és (4) bekezdése szerinti szabályozási pótdíjat az összevont menetrend alapján kell elszámolni; a menetrend-csoport képviselő és a csoporttagok kötelesek a menetrend-csoport képviselő által a befogadó részére megfizetett szabályozási pótdíj szétosztásáról a c) pont szerinti megállapodásban rendelkezni;
+d)[^30] a menetrend-csoport képviselő a 12. § (1) és (2) bekezdése szerinti menetrendeket KÁT termelőnként köteles megadni, de a befogadó és a menetrend-csoport képviselő között a 12. § (3) és (4) bekezdése szerinti szabályozási pótdíjat az összevont menetrend alapján kell elszámolni; a menetrend-csoport képviselő és a csoporttagok kötelesek a menetrend-csoport képviselő által a befogadó részére megfizetett szabályozási pótdíj szétosztásáról a c) pont szerinti megállapodásban rendelkezni;
 
-e)[^33]
+e)[^31]
 
 f) ha egy KÁT termelő az erőműegységeit összevontan kívánja kezelni, akkor köteles a befogadó üzletszabályzata szerinti összevont menetrendadásra vonatkozó megállapodást megkötni.
 
@@ -26,17 +26,17 @@ f) ha egy KÁT termelő az erőműegységeit összevontan kívánja kezelni, akk
 
 (7) Az e rendelet szerinti kötelező átvételi árak a közcélú csatlakozási ponton a befogadó által átvett, a 4. § szerint meghatározott mennyiségű villamos energiára vonatkoznak.
 
-(8)[^34]
+(8)[^32]
 
-(9)[^35] Ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre, akkor a villamosenergia-termeléssel összefüggő költségeket a kötelező átvételű villamos energia átvételi rendszerén kívül, az átviteli rendszerirányítónak a villamosenergia-rendszer szabályozásával összefüggő költségei között kell elszámolni.
+(9)[^33] Ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre vagy az elosztói rugalmassági szolgáltatás keretében az elosztó hálózati engedélyes részére kerül értékesítésre, akkor a villamosenergia-termeléssel összefüggő költségeket a kötelező átvételű villamos energia átvételi rendszerén kívül, az átviteli rendszerirányítónak a villamosenergia-rendszer szabályozásával vagy az elosztó hálózati engedélyesnek az elosztói rugalmassági szolgáltatással összefüggő költségei között kell elszámolni a villamosenergia-ellátási szabályzatokban meghatározottak szerint.
 
-(10)[^36] A (9) bekezdésben hivatkozott villamosenergia-termelésre vonatkozó adatokat az erőműegység köteles ellenőrizhető módon kimutatni és nyilvántartani, továbbá ellenőrzés céljából a Hivatal rendelkezésére bocsátani.
+(10)[^34] A (9) bekezdésben hivatkozott villamosenergia-termelésre vonatkozó adatokat az erőműegység köteles ellenőrizhető módon kimutatni és nyilvántartani, továbbá ellenőrzés céljából a Hivatal rendelkezésére bocsátani.
 
 (11) A havi elszámolási villamosenergia-mennyiség az elszámolási mérési időegységenkénti mennyiségek e rendeletben meghatározott napszakok (zónaidők) időtartama szerinti összegzésével kerül meghatározásra. Ha az erőműegység villamosenergia-termelése ugyanazon technológiai (primerenergia-átalakítási) folyamatban különböző energiaforrásokból történik, az adott hónapra kiszámított energiaforrás-arányokat minden elszámolási-mérési időegységre azonosan kell alkalmazni.
 
-[^31]: A 11. § (2) bekezdése a 25. §-sal megállapított szöveg.
-[^32]: A 11. § (2) bekezdés d) pontja a 370/2019. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^33]: A 11. § (2) bekezdés e) pontját a 370/2019. (XII. 30.) Korm. rendelet 12. § 3. pontja hatályon kívül helyezte.
-[^34]: A 11. § (8) bekezdését a 370/2019. (XII. 30.) Korm. rendelet 12. § 4. pontja hatályon kívül helyezte.
-[^35]: A 11. § (9) bekezdése a 370/2019. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^36]: A 11. § (10) bekezdése a 370/2019. (XII. 30.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.
+[^29]: A 11. § (2) bekezdése a 25. §-sal megállapított szöveg.
+[^30]: A 11. § (2) bekezdés d) pontja a 370/2019. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^31]: A 11. § (2) bekezdés e) pontját a 370/2019. (XII. 30.) Korm. rendelet 12. § 3. pontja hatályon kívül helyezte.
+[^32]: A 11. § (8) bekezdését a 370/2019. (XII. 30.) Korm. rendelet 12. § 4. pontja hatályon kívül helyezte.
+[^33]: A 11. § (9) bekezdése a 721/2020. (XII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^34]: A 11. § (10) bekezdése a 370/2019. (XII. 30.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.
