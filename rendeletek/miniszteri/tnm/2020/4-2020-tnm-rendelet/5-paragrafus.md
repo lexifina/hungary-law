@@ -1,0 +1,5 @@
+## 4. § A TNM rendelet 5. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A központi költségvetésről szóló törvényben meghatározott kórházlelkészi szolgálat támogatását – a tárgyév február 28-ig benyújtott, a 7. melléklet szerinti kérelem alapján – a támogatás éve április 30-ig támogatási előlegként kell kifizetni.
+
+## (2) A kórházlelkészi szolgálat támogatás a kórházlelkészi szolgálat végzésében részt vevő, a Korm. rendelet 37. § 4. pontjában meghatározott személyek bérére, járulékára, díjazására (együttesen: személyi jellegű kifizetésekre), és a kórházlelkészi tevékenységgel összefüggésben felmerülő dologi kiadásaira (így kis értékű eszközbeszerzésre, anyagköltségre, igénybe vett szolgáltatásokra), valamint – legfeljebb a támogatás 25%-ának erejéig – a kórházakban hitéleti tevékenység folytatására szolgáló helyiség kialakítására és felújítására fordítható a Korm. rendeletben meghatározottak szerint. A támogatott tevékenység megvalósításába a kedvezményezett közreműködőt bevonhat.”
