@@ -102,7 +102,7 @@ j) az álláskeresők vállalkozóvá válását elősegítő támogatás tőkej
 
 kapcsolatos ügyekben.
 
-(4a)[^57] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
+(4a)[^57] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol a közigazgatási bírsággal kapcsolatos ügyben, ha a közigazgatási bírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
 
 (5) A Kormány a magán-munkaközvetítési tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalt jelöli ki.
 
@@ -123,4 +123,4 @@ b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat
 [^54]: A 10. § (4) bekezdés e) pontját a 273/2018. (XII. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^55]: A 10. § (4) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^56]: A 10. § (4) bekezdés h) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (3) bekezdése hatályon kívül helyezte.
-[^57]: A 10. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^57]: A 10. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja, a 713/2020. (XII. 30.) Korm. rendelet 42. § a)–b) pontja szerint módosított szöveg.

@@ -30,7 +30,7 @@ m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak v�
 
 n)[^60]
 
-o)[^61] hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
+o)[^61] hatósági jogkört gyakorol a közigazgatási bírsággal kapcsolatos ügyben, ha a közigazgatási bírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
 
 (2) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatási feladatai körében
 
@@ -69,5 +69,5 @@ j) szervezi a közfoglalkoztatást.
 [^58]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
 [^59]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
 [^60]: A 11. § (1) bekezdés n) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés g) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^61]: A 11. § (1) bekezdés o) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^61]: A 11. § (1) bekezdés o) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja, a 713/2020. (XII. 30.) Korm. rendelet 42. § a)–b) pontja szerint módosított szöveg.
 [^62]: A 11. § (2) bekezdés h) pont nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
