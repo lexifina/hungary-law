@@ -1,39 +1,40 @@
 ## 8. Átmeneti rendelkezések
 
-30. §[^122] (1) A 3. alcímben meghatározott kormányzati informatikai beszerzéssel kapcsolatos eljárást – e §-ban foglalt eltérésekkel – a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő naptól (a továbbiakban: kezdő nap) kell alkalmazni.
+30. §[^153] (1) A 3. alcímben meghatározott kormányzati informatikai beszerzéssel kapcsolatos eljárást – e §-ban foglalt eltérésekkel – a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő naptól (a továbbiakban: kezdő nap) kell alkalmazni.
 
-(2) A kezdő napot megelőzően az érintett szervezet által kormányzati informatikai beszerzésére kötött, valamint a kezdő napon folyamatban lévő közbeszerzési eljárások eredményeként megkötött keretmegállapodások vagy más keret jellegű szerződések, valamint az azok alapján megkötött, valamint a kezdő napon folyamatban lévő közbeszerzési eljárások eredményeként megkötött visszterhes szerződések hatályát e rendelet nem érinti.
+(2)[^154] A kezdő napot megelőzően az érintett szervezet által kormányzati informatikai beszerzésére kötött, valamint a kezdő napon folyamatban lévő közbeszerzési eljárások eredményeként megkötött keretmegállapodások vagy más keretjellegű szerződések, valamint az azok alapján megkötött, valamint a kezdő napon folyamatban lévő közbeszerzési eljárások eredményeként megkötött visszterhes szerződések hatályát e rendelet nem érinti.
 
-(3)[^123] Az érintett szervezet a kezdő naptól számított 90 napon belül – de nem korábban, mint a kezdő naptól számított 30. nap lejárta – köteles a Portálon regisztrálni, és a 2019. évi éves informatikai beszerzési tervét és informatikai fejlesztési tervét, valamint az aktuális informatikai környezetéről szóló legfontosabb adatokat, az ott meghatározott struktúra és adattartalom szerint részletezve, a Portálra felölteni, az éves beszerzési és fejlesztési tervének minősített adatot tartalmazó részét, a tervének további részétől elkülönítve – a Portálra való feltöltés helyett – közvetlenül a miniszter részére kell megküldeni.
+(3)[^155]
 
-(4)[^124] Az érintett szervezet az informatikai beszerzési igényét, a rendkívüli informatikai beszerzésre vonatkozó igényét, valamint az üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét a kezdő naptól számított 150. nap elteltét követően tölti fel a Portálra.
+(4)[^156]
 
-(5)[^125] A kezdő naptól számított 150. napig az érintett szervezet saját hatáskörben kizárólag a rendkívüli informatikai beszerzésre vonatkozó igénye, valamint az üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igénye kielégítésére irányuló beszerzési eljárást indíthat.
+(5)[^157] A kezdő naptól számított 150. napig az érintett szervezet saját hatáskörben kizárólag a rendkívüli informatikai beszerzésre vonatkozó igénye, valamint az üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igénye kielégítésére irányuló beszerzési eljárást indíthat.
 
-(6)[^126] Az (5) bekezdéstől eltérő beszerzési igénye kielégítésére irányuló, saját hatáskörben megvalósuló beszerzési eljárást az érintett szervezet a Kormány – a kezdő naptól számított 150. napig megadott – egyedi döntése alapján indíthat.
+(6)[^158] Az (5) bekezdéstől eltérő beszerzési igénye kielégítésére irányuló, saját hatáskörben megvalósuló beszerzési eljárást az érintett szervezet a Kormány – a kezdő naptól számított 150. napig megadott – egyedi döntése alapján indíthat.
 
-(7)[^127] Az (5) és (6) bekezdésben foglalt esetben az érintett szervezet a beszerzési igényt, annak indokolását, a (6) bekezdésben foglalt esetben a Kormány egyedi döntését, a beszerzés eredményéről szóló döntés, valamint – ha a beszerzést követően a szerződés megkötésre került – a szerződés másolatát a Portálra a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról hozott döntést követő tíz munkanapon belül, de legkorábban a kezdő naptól számított 60. naptól feltölti.
+(7)[^159]
 
-(7a)[^128] A Kormány a (6) bekezdés szerinti döntésében elrendelheti, hogy a vonatkozó beszerzési igény kielégítésére szolgáló beszerzési eljárást az érintett szervezet javára eljárva a DKÜ folytassa le. Ebben az esetben a (7) bekezdés szerinti adatok közül a Kormány egyedi döntése, a beszerzés eredményéről szóló döntés, valamint – ha a beszerzést követően a szerződés megkötésre került – a szerződés másolatának a Portálra való feltöltését a DKÜ végzi el.
+(7a)[^160]
 
-(7b)[^129] Ha a beszerzési eljárást a (7a) bekezdés szerint a DKÜ folytatja le, a beszerzéssel kapcsolatban a 13. § (3)–(13) bekezdéseit, valamint a 14. §-t megfelelően alkalmazni kell.
+(7b)[^161]
 
-(7c)[^130] A kormányzati informatikai beszerzésekkel kapcsolatos egyes kormányrendeletek módosításáról szóló 182/2019. (VII. 26.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^131] megelőző, (6) bekezdés szerinti kormánydöntések esetében, ha a beszerzési eljárás még nem indult meg, a Kormány a (6) bekezdés szerinti döntéstől számított 30 napon belül dönthet a vonatkozó beszerzés esetében a (7a) bekezdés alkalmazásáról.
+(7c)[^162]
 
 (8) Semmis az a beszerzési igény kielégítését szolgáló szerződés, amely az (5) vagy (6) bekezdésbe ütközik.
 
-(9) A Digitális Kormányzati Ügynökség létrejöttével, tevékenységének megkezdésével összefüggésben álló közbeszerzési eljárások tekintetében az ajánlatkérő a kezdő naptól számított 120. napig minden beszerzés esetében jogosult a Kbt. szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására és megindítására.
+(9)[^163]
 
-(10)[^132] A (6) és a (7a) bekezdés szerinti beszerzési igény kielégítésére irányuló beszerzési eljárások megindítása tekintetében a Kormány véghatáridőt határozhat meg.
+(10)[^164]
 
-[^122]: A 30. § a 31/2019. (III. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^123]: A 30. § (3) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 6. § (9) bekezdésével megállapított, a 182/2019. (VII. 26.) Korm. rendelet 7. § p) pontja szerint módosított szöveg.
-[^124]: A 30. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
-[^125]: A 30. § (5) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
-[^126]: A 30. § (6) bekezdése a 257/2019. (X. 30.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^127]: A 30. § (7) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § q) pontja szerint módosított szöveg.
-[^128]: A 30. § (7a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (23) bekezdése iktatta be.
-[^129]: A 30. § (7b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (23) bekezdése iktatta be.
-[^130]: A 30. § (7c) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (23) bekezdése iktatta be.
-[^131]: A hatálybalépés napja 2019. július 27.
-[^132]: A 30. § (10) bekezdését a 257/2019. (X. 30.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^153]: A 30. § a 31/2019. (III. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^154]: A 30. § (2) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^155]: A 30. § (3) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^156]: A 30. § (4) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^157]: A 30. § (5) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^158]: A 30. § (6) bekezdése a 257/2019. (X. 30.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^159]: A 30. § (7) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^160]: A 30. § (7a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (23) bekezdése iktatta be, hatályon kívül helyezte a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja.
+[^161]: A 30. § (7b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (23) bekezdése iktatta be, hatályon kívül helyezte a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja.
+[^162]: A 30. § (7c) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (23) bekezdése iktatta be, hatályon kívül helyezte a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja.
+[^163]: A 30. § (9) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^164]: A 30. § (10) bekezdését a 257/2019. (X. 30.) Korm. rendelet 3. § (5) bekezdése iktatta be, hatályon kívül helyezte a 683/2020. (XII. 28.) Korm. rendelet 16. § d) pontja.

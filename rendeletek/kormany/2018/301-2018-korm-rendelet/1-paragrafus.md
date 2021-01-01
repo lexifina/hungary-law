@@ -16,43 +16,43 @@ c) a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapí
 
 d)[^3] a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaság kivételével azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
 
-e)[^4] az a)–d) pontba nem tartozó olyan szervezet, amely
+e)[^4] olyan szervezet, amely
 
-ea) a központosított közbeszerzési rendszerhez vagy
+ea) az e rendelet szerinti központosított beszerzési rendszerhez vagy
 
-eb) valamely e rendelet szerinti keretmegállapodás vagy más keretjellegű szerződés vonatkozásában, a DKÜ felhívására, egy meghatározott beszerzési eljáráshoz
+eb) valamely e rendelet szerinti sajátos beszerzési módszerek alkalmazásával létrejövő keretmegállapodás vagy más keretjellegű szerződés vonatkozásában, egy vagy több meghatározott beszerzési eljáráshoz
 
-## való csatlakozást önként (a továbbiakban együttesen: önkéntes csatlakozás) vállalja.
+való csatlakozást önként (a továbbiakban együttesen: önkéntes csatlakozás) vállalja
 
-## [az a)–e) pont együtt a továbbiakban: érintett szervezet]].
+[az a)–e) pont együtt a továbbiakban: érintett szervezet].
 
-(2a)[^5] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
+(2a)[^5] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
 
-(2b)[^6] A Kormány egyedi döntésével mentesítést adhat az e rendeletben foglalt központosított közbeszerzési eljárási szabályok alkalmazása alól, különös tekintettel törvényben meghatározott védelmi és biztonsági tárgyú informatikai beszerzések esetére, továbbá azon beszerzésekre, amelyek esetében az ország biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak.
+(2b)[^6] A Kormány egyedi döntésével mentesítést adhat az e rendeletben foglalt központosított beszerzési eljárási szabályok alkalmazása alól, különös tekintettel törvényben meghatározott védelmi és biztonsági tárgyú informatikai beszerzések esetére, továbbá azon beszerzésekre, amelyek esetében az ország biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések az e rendeletben foglalt központosított eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak.
 
-(2c)[^7] Az önkéntes csatlakozásra a DKÜ engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–d) pontjai szerinti szervezetek e rendelet szerinti központosított beszerzési tevékenységen keresztül történő ellátását. Ennek érdekében a DKÜ az (1) bekezdés e) pontja szerinti szervezet önkéntes csatlakozását megtagadhatja vagy feltételhez kötheti. Amennyiben az (1) bekezdés e) pontja szerinti szervezet kizárólag valamely e rendelet szerinti keretmegállapodás vagy más keretjellegű szerződés vonatkozásában csatlakozik a DKÜ egy meghatározott beszerzési eljárásához, az érintett szervezetre, a 6. § (2) bekezdésében és a 14. §-ban foglaltak kivételével, nem vonatkoznak e rendeletben foglaltak.
+(2c)[^7] Az önkéntes csatlakozásra a DKÜ engedélyével akkor van lehetőség, ha az nem veszélyezteti a (2) bekezdés a)–d) pontjai szerinti szervezetek e rendelet szerinti ellátását. Ennek érdekében a DKÜ a (2) bekezdés e) pontja szerinti szervezet önkéntes csatlakozását megtagadhatja vagy feltételhez kötheti. Amennyiben a (2) bekezdés e) pontja szerinti szervezet kizárólag valamely e rendelet szerinti sajátos beszerzési módszerek alkalmazásával létrejövő keretmegállapodás vagy más keretjellegű szerződés vonatkozásában csatlakozik a DKÜ egy vagy több meghatározott beszerzési eljárásához, az érintett szervezetre – a 6. § (2) bekezdésében a 14. §-ban és a 14/A. § (5) bekezdésben foglaltak kivételével – nem vonatkoznak e rendeletben foglaltak.
 
-(2d) A miniszterelnök a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 3/A. §-ában meghatározott jogkörét – az e rendeletben meghatározottak szerint – az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
+(2d)[^8] A miniszterelnök a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet (a továbbiakban: Statútum rendelet) 3/A. §-ában meghatározott jogkörét – az e rendeletben meghatározottak szerint – az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
 
-(2e)[^8] E rendelet rendelkezéseit nem kell alkalmazni azon, e rendelet hatálya alá is tartozó, a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 1. § (6) bekezdés f) pontja szerinti beszerzési tárgy vagy a VBÜ rendelet 1. § (8) bekezdése szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog tekintetében, feltéve, hogy a VBÜ rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv a VBÜ rendelet szerinti eljárási cselekményei megtétele, illetve döntések meghozatala előtt a VBÜ rendelet 1. § (10) és (11) bekezdése szerinti előzetes egyeztetések eredményeképpen erről szóló döntés született. Az ilyen beszerzést az érintett szervezet a VBÜ rendelet szerinti Portálon kezdeményezi.
+(2e)[^9] E rendelet rendelkezéseit nem kell alkalmazni azon, e rendelet hatálya alá is tartozó, a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 1. § (6) bekezdés f) pontja szerinti beszerzési tárgy vagy a VBÜ rendelet 1. § (8) bekezdése szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog tekintetében, feltéve, hogy a VBÜ rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv a VBÜ rendelet szerinti eljárási cselekményei megtétele, illetve döntések meghozatala előtt a VBÜ rendelet 1. § (10) és (11) bekezdése szerinti előzetes egyeztetések eredményeképpen erről szóló döntés született. Az ilyen beszerzést az érintett szervezet a VBÜ rendelet szerinti Portálon kezdeményezi.
 
 (3) E rendelet meghatározza
 
-a)[^9] a DKÜ feladatait és az eljárására vonatkozó szabályokat,
+a)[^10] a DKÜ feladatait és az eljárására vonatkozó szabályokat,
 
 b) az NHIT feladatait,
 
-c)[^10] az érintett szervezetek informatikai beszerzéssel összefüggő kötelezettségeit,
+c)[^11] az érintett szervezetek informatikai beszerzéssel összefüggő kötelezettségeit,
 
-d) a kormányzati központosított informatikai közbeszerzési rendszer részletes szabályait,
+d)[^12] a kormányzati informatikai beszerzések tekintetében a központosított eljárások – a közbeszerzésekről szóló 2015. évi CXLIII. törvénytől (a továbbiakban: Kbt.) az ilyen eljárások sajátosságai miatt eltérő – részletes szabályait, a DKÜ által ellátott, e rendeletben meghatározott beszerzési szolgáltatásokért fizetendő díj (a továbbiakban: beszerzési díj) mértékét,
 
-e)[^11] a DKÜ által ellátott, a központosított közbeszerzés lefolytatása során e rendeletben meghatározott feladatokért fizetendő közbeszerzési díj mértékét,
+e)[^13] a kormányzati központosított szoftverlicenc-gazdálkodási rendszer részletes szabályait, a DKÜ által ellátott, e rendeletben meghatározott szoftverlicenc-gazdálkodási szolgáltatásokért fizetendő díj (a továbbiakban: szoftverlicenc-gazdálkodási díj) mértékét,
 
 f) az NHIT szervezetét, valamint
 
 g) az NHIT eljárására vonatkozó szabályokat.
 
-(4)[^12] E rendelet alkalmazásában
+(4)[^14] E rendelet alkalmazásában
 
 1. alkalmazás: azon – a beszerzési igény felmerülését megelőzően – még nem kifejlesztett számítógépes program, ideértve az egyedi felhasználású alapszoftvereket, a rendszerszoftvereket és az alkalmazói szoftvereket vagy szoftvercsoportokat, valamint az ezekhez kapcsolódó azon szolgáltatásokat, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
 
@@ -62,7 +62,7 @@ g) az NHIT eljárására vonatkozó szabályokat.
 
 4. éves informatikai fejlesztési terv: adott naptári évre vonatkozó, tervezhető, összesített, az érintett szervezet napi működésének fenntartásához feltétlenül beszerezni nem szükséges, a meglévő informatikai eszköz-, szoftver- és alkalmazásállomány korszerűsítését, bővítését, továbbfejlesztését vagy cseréjét eredményező informatikai eszközöket, szoftvereket és alkalmazásfejlesztéseket, valamint az ezekhez kapcsolódó szolgáltatásokat részletesen felsoroló dokumentáció, a Portálon meghatározott struktúra és adattartalom szerint részletezve;
 
-5. informatikai beszerzés: informatikai eszköz, szoftver, alkalmazásfejlesztés és az ezekhez kapcsolódó szolgáltatások beszerzésére irányuló keretmegállapodás vagy más keret jellegű szerződés, továbbá visszterhes szerződés létrehozását célzó beszerzési eljárás;
+5.[^15] informatikai beszerzés: informatikai eszköz, szoftver, alkalmazásfejlesztés és az ezekhez kapcsolódó szolgáltatások beszerzésére irányuló keretmegállapodás vagy más keretjellegű szerződés, továbbá visszterhes szerződés létrehozását célzó beszerzési eljárás;
 
 6. informatikai beszerzési igény: az éves informatikai beszerzési vagy fejlesztési tervben szereplő, előre tervezett beszerzési igény;
 
@@ -70,26 +70,42 @@ g) az NHIT eljárására vonatkozó szabályokat.
 
 8. információs rendszer: az adatok feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
 
+8a.[^16] járulékos beszerzési szolgáltatás: a Kbt. szerinti járulékos közbeszerzési szolgáltatás, illetve az e rendelet szerinti egyéb beszerzési eljárás lefolytatásához nyújtott támogatási tevékenységek összessége;
+
+8b.[^17] központi beszerző szerv: a Kbt. szerinti, illetve – a Kbt.-től az ilyen eljárások sajátosságai miatt eltérő – e rendelet szerint szabályozott központosított eljárások során e rendelet szerint ajánlatkérésre feljogosított szervezet;
+
+8c.[^18] központosított beszerzés: a központi beszerző szerv által ellátott Kbt. szerinti, illetve – a Kbt.-től az ilyen eljárások sajátosságai miatt eltérő – e rendelet szerint szabályozott központosított eljárások és tevékenységek összessége;
+
 9. Portál: a DKÜ által működtetett, az e rendeletben meghatározott kapcsolattartásra és az e rendeletben meghatározott adatszolgáltatási és tájékoztatási kötelezettség teljesítésére alkalmas, internetes felületen keresztül elérhető alkalmazások és az ezt támogató adatforrások összessége;
 
 10. rendkívüli informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezett beszerzési igény;
 
-11. szállító: a központi beszerző szerv által lefolytatott beszerzési eljárás eredményeképpen megkötött keretmegállapodásban vagy más keret jellegű szerződésben, visszterhes szerződésben részes ajánlattevő;
+11.[^19] szállító: a központi beszerző szerv által lefolytatott beszerzési eljárás eredményeképpen megkötött keretmegállapodásban vagy más keretjellegű szerződésben, visszterhes szerződésben részes ajánlattevő;
 
 12. szoftver: azon – a beszerzési igény felmerülését megelőzően – előre kifejlesztett számítógépes program, ideértve az általános felhasználású alapszoftvereket, a rendszerszoftvereket és az alkalmazói szoftvereket vagy szoftvercsoportokat, valamint az ezekhez kapcsolódó azon szolgáltatásokat, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
 
-13.[^13] üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezhető beszerzési igény, amely azonnali beavatkozást igénylő kritikus működési kényszer miatt jelentkezik.
+12a.[^20] szoftverlicenc-gazdálkodás: a szoftverlicencek, a kapcsolódó licenckövetési és támogatási szolgáltatások nyilvántartásához, menedzsmentjéhez, optimalizálásához, valamint céltudatos, hatékony felhasználásához, beszerzéséhez kapcsolódó tevékenységek összessége;
+
+13.[^21] üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezhető beszerzési igény, amely azonnali beavatkozást igénylő kritikus működési kényszer miatt jelentkezik.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 83/2019. (IV. 18.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés záró szövegrésze a 182/2019. (VII. 26.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés d) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (2) bekezdés e) pontja a 9/2020. (I. 31.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be.
-[^6]: Az 1. § (2b) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (2c) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 9/2020. (I. 31.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (2e) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 23. § (1) bekezdése iktatta be.
-[^9]: Az 1. § (3) bekezdés a) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (3) bekezdés c) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^11]: Az 1. § (3) bekezdés e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^12]: Az 1. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^13]: Az 1. § (4) bekezdés 13. pontja a 9/2020. (I. 31.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés e) pontja a 683/2020. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (2b) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (2c) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (2d) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
+[^9]: Az 1. § (2e) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^10]: Az 1. § (3) bekezdés a) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (3) bekezdés c) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^12]: Az 1. § (3) bekezdés d) pontja a 683/2020. (XII. 28.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^13]: Az 1. § (3) bekezdés e) pontja a 683/2020. (XII. 28.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^14]: Az 1. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^15]: Az 1. § (4) bekezdés 5. pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^16]: Az 1. § (4) bekezdés 8a. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^17]: Az 1. § (4) bekezdés 8b. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^18]: Az 1. § (4) bekezdés 8c. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^19]: Az 1. § (4) bekezdés 11. pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^20]: Az 1. § (4) bekezdés 12a. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^21]: Az 1. § (4) bekezdés 13. pontja a 9/2020. (I. 31.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
