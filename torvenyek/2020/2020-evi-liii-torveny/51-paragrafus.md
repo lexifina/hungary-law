@@ -1,6 +1,6 @@
 51. § Hatályát veszti a Máoktv.
 
-a)
+a) 17. § (2) bekezdés a) pont ab) alpontja,
 
 b)
 
