@@ -8,4 +8,6 @@ a) annak tényét, hogy a kártalanítási igény az igazságügyért felelős m
 
 b) a megalapozatlanság indokát és
 
-c) az arra történő figyelmeztetést, hogy a kártalanítást igénylő a tájékoztatás kézbesítését követő két hónapon belül, a keresetlevél igazságügyért felelős miniszternél történő írásbeli előterjesztésével indíthat kártalanítási pert.
+c)[^1] az arra történő figyelmeztetést, hogy a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnál indíthat kártalanítási pert.
+
+[^1]: A 3. § (2) bekezdés c) pontja a 675/2020. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.

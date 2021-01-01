@@ -14,6 +14,8 @@ d) az arra történő figyelmeztetést, hogy a Be. 855. § (1) vagy (2) bekezdé
 
 e) az arra történő figyelmeztetést, hogy az írásbeli megállapodás létrejöttének feltétele, hogy a Be. 851. § (6) bekezdésében meghatározott határidőn belül a kártalanítást igénylő az elfogadó nyilatkozatot az igazságügyért felelős miniszternek visszaküldje, és
 
-f) az arra történő figyelmeztetést, hogy ha a megállapodás nem jön létre a Be. 851. § (6) bekezdésében meghatározott határidőn belül, a kártalanítást igénylő a határidő lejártát követő két hónapon belül, a keresetlevél igazságügyért felelős miniszternél történő írásbeli előterjesztésével kártalanítási pert indíthat.
+f)[^2] az arra történő figyelmeztetést, hogy ha a megállapodás nem jön létre a Be. 851. § (6) bekezdésében meghatározott határidőn belül, a kártalanítást igénylő a határidő lejártát követő két hónapon belül, a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnál kártalanítási pert indíthat.
 
 (3) Az igazságügyért felelős miniszter az (1) bekezdés szerinti írásbeli tájékoztatásához csatolja a kártalanítás elfogadására szolgáló nyilatkozat tervezetét.
+
+[^2]: A 4. § (2) bekezdés f) pontja a 675/2020. (XII. 28.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
