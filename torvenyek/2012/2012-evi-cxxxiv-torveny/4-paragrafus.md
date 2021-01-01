@@ -27,3 +27,5 @@ k) a dohánytermék-kiskereskedelmi jogosultság gyakorlására a részvénytár
 l) e törvényben vagy jogszabályban meghatározott egyéb feladat ellátására.
 
 (3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
+
+(4) A részvénytársaságnak a (2) bekezdésben és a 10/C. §-ban meghatározott feladatai közfeladatnak minősülnek.

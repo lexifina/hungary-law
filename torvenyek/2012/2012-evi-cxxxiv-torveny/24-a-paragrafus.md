@@ -21,3 +21,5 @@
 (11) A 15/E. § (8) bekezdésének, valamint – ezzel összefüggésben – a dohánykiskereskedelem-ellátási tevékenység végzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékéről szóló jogszabályoknak a Módtv.3. hatályba lépését követő alkalmazása során a dohányterméknek a Módtv.3-mal megállapított fogalmát kell figyelembe venni.
 
 (12) E törvénynek a Módtv.3.-mal megállapított 23. §-át a Módtv.3. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a részvénytársaság felhívására teljesíteni.
