@@ -1,3 +1,1 @@
-10. §[^1]
-
-[^1]: A 10. § a 9. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+10. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2020. évi ruházati utánpótlási ellátmánya terhére kiadandó természetbeni ellátásról szóló 35/2019. (X. 15.) BM rendelet.
