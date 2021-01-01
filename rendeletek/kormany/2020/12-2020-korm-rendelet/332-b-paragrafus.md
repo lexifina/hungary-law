@@ -1,0 +1,1 @@
+332/B. § A 2020. január 1-jét megelőzően érvényes Országos Képzési Jegyzékben meghatározott szakképesítések kifutó rendszerben alkalmazandó súlyszorzóját a 4/A. melléklet szerint kell figyelembe venni.

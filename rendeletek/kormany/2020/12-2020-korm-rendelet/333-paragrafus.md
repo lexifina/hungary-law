@@ -1,11 +1,3 @@
-## HETEDIK RÉSZ
+## 110. Az Szkt. 108. § (2) bekezdéséhez
 
-## A SZAKKÉPZÉS FINANSZÍROZÁSA ÉS INFORMÁCIÓS RENDSZERE
-
-## XLI. Fejezet[^62]
-
-## 110.
-
-333. §
-
-[^62]: Az XLI. fejezet (333–334. §) a 353. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+333. § A szakképzési hozzájárulási előleg fizetésénél az adóév első tizenegy hónapjára vonatkozóan a bruttó kötelezettség csökkentésének havi mértékét a tárgyhónap munkanapjainak száma alapján kell meghatározni.

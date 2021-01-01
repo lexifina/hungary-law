@@ -1,4 +1,4 @@
-302. § (1)[^57] Az e §-ban meghatározott eltéréssel a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény egyes rendelkezéseinek végrehajtásáról, valamint a tankönyvellátásban közreműködők kijelöléséről szóló 501/2013. (XII. 29.) Korm. rendelet [a továbbiakban: 501/2013. (XII. 29.) Korm. rendelet]
+302. § (1)[^58] Az e §-ban meghatározott eltéréssel a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény egyes rendelkezéseinek végrehajtásáról, valamint a tankönyvellátásban közreműködők kijelöléséről szóló 501/2013. (XII. 29.) Korm. rendelet [a továbbiakban: 501/2013. (XII. 29.) Korm. rendelet]
 
 a) 9/A–9/L. §-át kell alkalmazni a tankönyvvé nyilvánításra és a tankönyvvé nyilvánítás meghosszabbítására,
 
@@ -10,4 +10,4 @@ azzal, hogy a köznevelés információs rendszere alatt a szakképzés informá
 
 (3) Az eljárásban a tankönyvvé nyilvánításra a szakképzési államigazgatási szerv által felkért kettő szakértő, ilyen hiányában, eltérő szakértői vélemények vagy feltételt meghatározó szakértői vélemények esetében a Szakképzési Tankönyv és Taneszköz Tanács tesz javaslatot. Az eljárásba szakértőként az adott ágazatban kiemelkedő elméleti felkészültségű személy vagy az adott ágazatban legalább húszéves szakmai gyakorlattal és pedagógiai vagy oktatói tapasztalattal rendelkező személy vonható be. A szakmai gyakorlat szempontjából olyan munkakört lehet figyelembe venni, amely betöltésének feltétele az adott ágazathoz kapcsolódó szakképzettség vagy szakképesítés.
 
-[^57]: A 302. § (1) bekezdés záró szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 31. pontja szerint módosított szöveg.
+[^58]: A 302. § (1) bekezdés záró szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 31. pontja szerint módosított szöveg.

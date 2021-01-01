@@ -8,7 +8,7 @@
 
 ## 98. Az Szkt. 96. §-ához
 
-298. § (1)[^54] A szakképzésért felelős miniszter
+298. § (1)[^55] A szakképzésért felelős miniszter
 
 a) a szakképzés szakmai és módszertani fejlesztése keretében
 
@@ -40,7 +40,7 @@ d) a szakképzés együttműködési rendszerével összefüggésben fejleszti a
 
 (2) A szakképzésért felelős miniszter felkérésére a Kormány adott ágazatért felelős tagja meghatározza a szakmai vizsga központi vizsgatevékenysége és interaktív vizsgatevékenysége tartalmát, és kidolgozza azok értékelési útmutatóit és egyéb dokumentumait.
 
-(3)[^55] A szakképzésért felelős miniszter az Szkt.
+(3)[^56] A szakképzésért felelős miniszter az Szkt.
 
 a) 96. § (1) bekezdés e) pontjában és azzal összefüggésben
 
@@ -58,5 +58,5 @@ e) 125. § (10) bekezdésében meghatározott feladatot az IKK Innovatív Képz�
 
 útján végzi. E feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt.
 
-[^54]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^55]: A 298. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^55]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^56]: A 298. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
