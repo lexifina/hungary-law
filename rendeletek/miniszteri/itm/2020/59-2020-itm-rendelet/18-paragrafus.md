@@ -1,7 +1,8 @@
-## 17. § A Rendelet 3. § (3) bekezdésében a „tagállamoknak” szövegrész helyébe a „támogatást nyújtónak” szövegrész lép.
+## 17. §[^7]
 
-18. § (1) Hatályát veszti a Rendelet 74/C. § (4) bekezdése.
+18. § (1)[^8]
 
-(2)[^7]
+(2) Hatályát veszti a Rendelet 75/B. §-a.
 
-[^7]: A 18. § (2) bekezdése a 19. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^7]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
