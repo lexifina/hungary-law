@@ -1,3 +1,5 @@
+## 7K34473_0
+
 | XI. Miniszterelnökség XVII. Nemzeti Fejlesztési Minisztérium XXXIV. Magyar Művészeti Akadémia XLII. A költségvetés közvetlen bevételei és kiadásai LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. forintban |
 
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
@@ -138,4 +140,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-3. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz
+3. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz[^15]
+
+[^15]: A 3. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
