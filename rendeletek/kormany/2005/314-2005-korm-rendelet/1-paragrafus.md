@@ -46,6 +46,8 @@ engedély szükséges.
 
 (9)[^12] Az (8) bekezdés szerinti esetben az üzemeltető az észlelést követően azonnal megteszi a szükséges intézkedéseket annak érdekében, hogy az engedélyben foglalt feltételek a lehető legrövidebb időn belül teljesüljenek.
 
+(10)[^13] A környezetvédelmi hatóság az e rendelet szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
+
 [^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés b) pontja a 281/2013. (VII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 34. §-a, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés a) pontja szerint módosított szöveg.
@@ -58,3 +60,4 @@ engedély szükséges.
 [^10]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b)–d) pontja szerint módosított szöveg.
 [^11]: Az 1. § (8) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
 [^12]: Az 1. § (9) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^13]: Az 1. § (10) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 12. § (1) bekezdése iktatta be.

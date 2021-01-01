@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2020-01-01 | 2005-314-20-22.49 | 82/2011. (V. 18.) Korm. rendelet |
 | 2020-03-01 | 2005-314-20-22.50 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-06-30 | 2005-314-20-22.51 | 302/2020. (VI. 29.) Korm. rendelet |
+| 2021-01-01 | 2005-314-20-22.52 | 668/2020. (XII. 28.) Korm. rendelet |

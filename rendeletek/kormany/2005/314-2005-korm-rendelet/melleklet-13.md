@@ -8,7 +8,7 @@
 
 | 3. | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg | Természetes gyógytényezők, gyógyhelyek természeti adottságainak és az emberi használatra szolgáló felszíni vizek védelmére, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően | népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala |
 
-| 4. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme a hatáskörébe tartozik, azt érinti, vagy olyan környezet-veszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja | Kulturális örökség (nyilvántartott műemléki értékek, műemlékek, műemléki területek védelme, nyilvántartott vagy védetté nyilvánított régészeti lelőhelyek, régészeti védőövezetek) védelmére kiterjedően | kulturális örökségvédelmi hatáskörében eljáró, Budapest Főváros Kormányhivatala, kizárási feltétel fennállása esetén a kulturális örökség védelméért felelős miniszter |
+| 4. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme a hatáskörébe tartozik, azt érinti, vagy olyan környezet-veszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja | Kulturális örökség (műemlékek, műemléki területek védelme, nyilvántartott vagy védetté nyilvánított régészeti lelőhelyek, régészeti védőövezetek) védelmére kiterjedően | kulturális örökségvédelmi hatáskörében eljáró, Budapest Főváros Kormányhivatala, kizárási feltétel fennállása esetén a kulturális örökség védelméért felelős miniszter |
 
 | 5. | Ha az előzetes konzultáció, erdő vagy azzal szomszédos földrészlet igénybevételével megvalósuló tevékenység engedélyezését előzi meg | Az erdőre, annak élő és élettelen alkotóelemeire, az erdei életközösségre, a külterületen található fásításra, az erdészeti létesítményre és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre gyakorolt hatások vizsgálata | erdészeti feladatkörében eljáró megyei kormányhivatal |
 
@@ -20,6 +20,6 @@
 
 | 9. | Ha a kérelem a területfejlesztési koncepciók, programok és a területrendezési tervek tartalmi követelményeiről szóló jogszabály szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul | A területrendezési tervekkel való összhang tekintetében | állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
-13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^326]
+13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^327]
 
-[^326]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be, szövege a 100/2014. (III. 25.) Korm. rendelet 5. § (5) bekezdése, a 139/2017. (VI. 9.) Korm. rendelet 10. § e) alpontja szerint módosított szöveg.
+[^327]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be, szövege a 668/2020. (XII. 28.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
