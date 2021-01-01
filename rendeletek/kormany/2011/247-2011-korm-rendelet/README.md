@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-247-20-
 | 2014-03-15 | 2011-247-20-22.5 | 53/2014. (III. 3.) Korm. rendelet |
 | 2018-08-14 | 2011-247-20-22.6 | 147/2018. (VIII. 13.) Korm. rendelet |
 | 2020-03-21 | 2011-247-20-22.7 | 147/2018. (VIII. 13.) Korm. rendelet |
+| 2021-01-01 | 2011-247-20-22.8 | 193/2022. (V. 27.) Korm. rendelet |

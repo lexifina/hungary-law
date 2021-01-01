@@ -8,7 +8,7 @@
 
 (4) A kérelemhez csatolni kell:
 
-a)[^8] a szükséges végzettséget igazoló okirat másolatát, külföldi felsőoktatási intézmény által kiállított okirat esetében annak magyar fordítását és a honosításról vagy elismerésről szóló döntést,
+a)[^9] a szükséges végzettséget igazoló okirat másolatát, külföldi felsőoktatási intézmény által kiállított okirat esetében annak magyar fordítását és a honosításról vagy elismerésről szóló döntést,
 
 b) a szakmai gyakorlat részletes leírását és idejét, részletes szakmai önéletrajz keretében,
 
@@ -24,4 +24,4 @@ f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
 (6) A kérelmet az engedélyező hatóság által rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani.
 
-[^8]: A 4. § (4) bekezdés a) pontja a 120/2013. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 4. § (4) bekezdés a) pontja a 120/2013. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-15. §[^35] (1) Az atomenergia alkalmazása körében eljáró független műszaki szakértőről szóló 247/2011. (XI. 25.) Korm. rendelet módosításáról szóló 147/2018. (VIII. 13.) Korm. rendelet (a továbbiakban: Mód2. R.) hatálybalépését[^36] megelőzően
+15. §[^37] (1) Az atomenergia alkalmazása körében eljáró független műszaki szakértőről szóló 247/2011. (XI. 25.) Korm. rendelet módosításáról szóló 147/2018. (VIII. 13.) Korm. rendelet (a továbbiakban: Mód2. R.) hatálybalépését[^38] megelőzően
 
 a) a „Reaktorfizika, neutronfizika és a nukleáris üzemanyag viselkedése” szakterületre kiadott engedély a Mód2. R. hatálybalépését követően az 1. mellékletben foglalt táblázat B:4 mezőjében meghatározott „Determinisztikus biztonsági elemzések – Reaktorfizika, neutronfizika és a nukleáris üzemanyag viselkedése” szakterületen,
 
@@ -10,13 +10,13 @@ d) a „Sugárvédelem” szakterületen kiadott engedély a Mód2. R. hatályba
 
 ## való szakértői tevékenység folytatására jogosít azzal, hogy ennek alapján az engedélyező hatóság hivatalból módosítja a Mód2. R. hatálybalépését megelőzően kiadott engedélyeket.
 
-(2) A „Sugárvédelem” szakterületen kiadott engedélyeknek az 1. mellékletben meghatározott „Radioaktív hulladék kezelés” szakterületen való szakértői tevékenység folytatására jogosítás fenntartásáról a Mód2. R. hatálybalépését[^37] követő egy éven belül, az engedélyező hatóság a szakértői tevékenység folytatására jogosító engedély felülvizsgálatát követően, az érintett szakértő nyilatkoztatása után dönt.
+(2) A „Sugárvédelem” szakterületen kiadott engedélyeknek az 1. mellékletben meghatározott „Radioaktív hulladék kezelés” szakterületen való szakértői tevékenység folytatására jogosítás fenntartásáról a Mód2. R. hatálybalépését[^39] követő egy éven belül, az engedélyező hatóság a szakértői tevékenység folytatására jogosító engedély felülvizsgálatát követően, az érintett szakértő nyilatkoztatása után dönt.
 
 (3) Az engedélyező hatóság az (1) bekezdés szerinti módosított engedélyeket hivatalból megküldi a nyilvántartása szerint érintett szakértők részére, egyidejűleg megteszi az Atv. 19/B. § (3) bekezdése szerinti nyilvántartás módosítása érdekében szükséges intézkedéseket.
 
-(4) A Mód2. R.-rel megállapított, a nukleáris és más radioaktív anyagok szállítása szakterületre vonatkozó engedély új képesítési feltételei nem érintik a Mód2. R. hatálybalépése[^38] előtt kiadott nukleáris és más radioaktív anyagok szállítása szakterületre vonatkozó engedélyek hatályát.
+(4) A Mód2. R.-rel megállapított, a nukleáris és más radioaktív anyagok szállítása szakterületre vonatkozó engedély új képesítési feltételei nem érintik a Mód2. R. hatálybalépése[^40] előtt kiadott nukleáris és más radioaktív anyagok szállítása szakterületre vonatkozó engedélyek hatályát.
 
-[^35]: A 15. §-t a 147/2018. (VIII. 13.) Korm. rendelet 10. §-a iktatta be.
-[^36]: A hatálybalépés időpontja 2018. augusztus 14.
-[^37]: A hatálybalépés időpontja 2018. augusztus 14.
+[^37]: A 15. §-t a 147/2018. (VIII. 13.) Korm. rendelet 10. §-a iktatta be.
 [^38]: A hatálybalépés időpontja 2018. augusztus 14.
+[^39]: A hatálybalépés időpontja 2018. augusztus 14.
+[^40]: A hatálybalépés időpontja 2018. augusztus 14.

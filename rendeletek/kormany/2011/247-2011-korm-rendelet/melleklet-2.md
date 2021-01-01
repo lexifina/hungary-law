@@ -74,7 +74,7 @@
 
 | 36 | 23. | Ember-gép kapcsolat, ergonómia | Ergonómiai tervezési program, emberközpontú tervezés, ember-gép kapcsolati tervezés, funkcionális követelmények, folyamat- és kezelési utasítások. | 1. BSc vagy MSc szintű – gépészmérnök, – villamosmérnök, – energetikai mérnök, – vegyészmérnök, – fizikus, – mérnök-fizikus képzettség vagy 2. szakirányú szakmérnök vagy 3. az 1. és 2. pontban foglaltakkal egyenértékű felsőfokú szakképzettség. | Az atomerőmű üzemeltetésével, valamint az üzemeltetési alapdokumentumokkal, azok kialakításával, módosításával kapcsolatos gyakorlat. |
 
-2. melléklet a 247/2011. (XI. 25.) Korm. rendelethez[^40]
+2. melléklet a 247/2011. (XI. 25.) Korm. rendelethez[^42]
 
 Az atomenergia alkalmazási körében eljáró szakértő szervezetek tevékenységeire vonatkozó szakterületek speciális szakterületei
 
@@ -268,4 +268,4 @@ Az atomenergia alkalmazási körében eljáró szakértő szervezetek tevékenys
 
 | 94 | 23. Ember-gép kapcsolat, ergonómia | nincs |
 
-[^40]: A 2. melléklet a 147/2018. (VIII. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^42]: A 2. melléklet a 147/2018. (VIII. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.

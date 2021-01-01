@@ -1,4 +1,4 @@
-4/A. §[^9] (1) A szakértő szervezet nyilvántartásba vételre irányuló kérelme a kérelmező jogi személyre vonatkozóan a szakértő szervezet 5/A. § szerinti nyilvántartásában szereplő adatokon felül tartalmazza:
+4/A. §[^10] (1) A szakértő szervezet nyilvántartásba vételre irányuló kérelme a kérelmező jogi személyre vonatkozóan a szakértő szervezet 5/A. § szerinti nyilvántartásában szereplő adatokon felül tartalmazza:
 
 a) vezető tisztségviselőjének (vezetőjének) nevét és lakóhelyét,
 
@@ -20,4 +20,4 @@ c) a 2/C. § szerinti szakmai referencia igazolása érdekében a szakmai tevék
 
 (4) A kérelem benyújtásakor a kérelmezőnek igazolnia kell a 2/B. §-ban foglalt személyek végzettségét és szakmai gyakorlatának meglétét.
 
-[^9]: A 4/A. §-t a 147/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
+[^10]: A 4/A. §-t a 147/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.

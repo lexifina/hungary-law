@@ -1,4 +1,4 @@
-11/A. §[^32] (1) Külföldi szakértő szervezetre e rendelet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+11/A. §[^34] (1) Külföldi szakértő szervezetre e rendelet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) Külföldi szakértő szervezet esetében az eseti engedély kiadása során minősítő bizottság nem jár el.
 
@@ -6,4 +6,4 @@
 
 (4) Ha az atomenergia-felügyeleti szerv olyan kizáró okot tár fel, amely alapján a szakértő szervezet eseti engedélyének kiadására nem kerülhetne sor, az eseti engedélyt visszavonja, és haladéktalanul értesíti a területi mérnöki kamarát.
 
-[^32]: A 11/A. §-t a 147/2018. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^34]: A 11/A. §-t a 147/2018. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.

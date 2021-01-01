@@ -1,4 +1,4 @@
-## 2/A. [^12] A szakértő szervezet nyilvántartása
+## 2/A. [^13] A szakértő szervezet nyilvántartása
 
 5/A. § (1) A szakértő szervezet nyilvántartása a szakértő szervezetre vonatkozó következő adatokat tartalmazza:
 
@@ -20,4 +20,4 @@ h) a nyilvántartási számát.
 
 (2) A nyilvántartás adatai közül a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.), valamint az Atv.-ben meghatározott adatokon túl nyilvános a szakértői tevékenységtől való eltiltás ténye, az ennek alapjául szolgáló határozat száma és véglegessé válásának napja, a szakértői tevékenység szünetelésének ténye, kezdőnapja, időtartama. A Szolgtv. 30. § (2) bekezdésében nem szabályozott adatok vonatkozásában a nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolására szolgáltatható adat.
 
-[^12]: A 2/A. alcímet (5/A. §) a 147/2018. (VIII. 13.) Korm. rendelet 5. §-a iktatta be.
+[^13]: A 2/A. alcímet (5/A. §) a 147/2018. (VIII. 13.) Korm. rendelet 5. §-a iktatta be.
