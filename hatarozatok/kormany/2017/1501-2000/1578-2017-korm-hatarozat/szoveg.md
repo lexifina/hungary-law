@@ -10,11 +10,7 @@ Felelős: földművelésügyi miniszter
 
 Határidő: 2017. szeptember 30.
 
-b) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 39. Zártkerti Program támogatása jogcímcsoporttal történő kiegészítését,
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+b)[^1]
 
 c) az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a földművelésügyi miniszter a Zártkerti Program pályázatainak kiírásához 2017. évben 2000,0 millió forint összegben kötelezettséget vállaljon a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 39. Zártkerti Program támogatása jogcímcsoport terhére,
 
@@ -39,3 +35,5 @@ Határidő: a 2019. évi költségvetés tervezése során
 Felelős: földművelésügyi miniszter
 
 Határidő: első alkalommal 2019. december 31.
+
+[^1]: A 2. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
