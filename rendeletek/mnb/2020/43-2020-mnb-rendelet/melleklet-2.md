@@ -262,6 +262,6 @@
 
 ## 5.6. Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, valamint a lejárt értékpapírokat nem kell szerepeltetni.
 
-2. melléklet a 43/2020. (XI. 19.) MNB rendelethez[^6]
+2. melléklet a 43/2020. (XI. 19.) MNB rendelethez[^2]
 
-[^6]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–21., 24–27. és 29–48. sora, az ott meghatározott felügyeleti jelentések táblái a 11. § (2) bekezdése alapján 2021. január 1-jén lép hatályba. A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 22. és 23. sora, az ott meghatározott felügyeleti jelentések táblái a 11. § (3) bekezdése alapján 2021. április 1-jén lép hatályba.
+[^2]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 22. és 23. sora, az ott meghatározott felügyeleti jelentések táblái a 11. § (3) bekezdése alapján 2021. április 1-jén lép hatályba.
