@@ -1,0 +1,3 @@
+## 5. § A 43/2014. (XII. 29.) FM rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A tenyésztőszervezet a – kedvezményezettek összesített igényeit tartalmazó, a NÉBIH által az adott tevékenység elvégzését igazoló hatósági bizonyítvánnyal ellátott, az elvégzett szolgáltatások támogatástartalmára vonatkozó – kifizetési kérelmét a Magyar Államkincstárhoz (a továbbiakban: Kincstár) az adott naptári évben elvégzett szolgáltatás után, legkésőbb az adott naptári évet követő március 10-éig a Kincstár által rendszeresített és a Kincstár honlapján közzétett nyomtatványon nyújtja be.”
