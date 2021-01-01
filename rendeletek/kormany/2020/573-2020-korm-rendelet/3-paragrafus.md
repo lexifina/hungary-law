@@ -1,3 +1,5 @@
-3. §[^1]
+## 3. § Hatályát veszti
 
-[^1]: A 3. § a 2. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+a) a Rendszerváltás Történetét Kutató Intézet és Archívum létrehozásáról szóló 83/2013. (III. 21.) Korm. rendelet, valamint
+
+b) a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 1. melléklet 16. pontja.
