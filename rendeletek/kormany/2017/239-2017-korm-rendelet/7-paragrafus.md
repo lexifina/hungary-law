@@ -12,7 +12,7 @@ c) a szakmai kapcsolatépítő és hálózati tevékenység
 
 ## ellátásának módjára.
 
-(3)[^5] A tartós külszolgálati munkaköri leírás elkészítése – a Külszoltv. 36. § (5) bekezdésében és 56. § (1a) bekezdésében foglaltak figyelembevételével – a kihelyező szerv feladata. E dokumentum a szakmai alaputasításban meghatározott feladatokon túl
+(3)[^7] A tartós külszolgálati munkaköri leírás elkészítése – a Külszoltv. 36. § (5) bekezdésében és 56. § (1a) bekezdésében foglaltak figyelembevételével – a kihelyező szerv feladata. E dokumentum a szakmai alaputasításban meghatározott feladatokon túl
 
 a) az állomáshely általános külpolitikai feladataiban történő közreműködés módját,
 
@@ -22,10 +22,10 @@ c) a szakdiplomáciai személyzet reprezentációs kerete terhére történő k�
 
 ## tartalmazza.
 
-(4)[^6] A szakmai alaputasítás módosításáról a szakminiszter tájékoztatja a kihelyező szerv vezetőjét. A tartós külszolgálati munkaköri leírást módosítani kizárólag a szakminiszterrel történt előzetes egyeztetést követően lehet.
+(4)[^8] A szakmai alaputasítás módosításáról a szakminiszter tájékoztatja a kihelyező szerv vezetőjét. A tartós külszolgálati munkaköri leírást módosítani kizárólag a szakminiszterrel történt előzetes egyeztetést követően lehet.
 
-(5)[^7] A szakdiplomata részt vesz a külképviselet általános diplomáciai feladatainak ellátásában, valamint végzi a kihelyező vezető által a tartós külszolgálati munkaköri leírásában meghatározott feladatokat, amelyek tekintetében a kihelyező vezető – a külképviselet vezetője útján – irányítja a szakdiplomata tevékenységét.
+(5)[^9] A szakdiplomata részt vesz a külképviselet általános diplomáciai feladatainak ellátásában, valamint végzi a kihelyező vezető által a tartós külszolgálati munkaköri leírásában meghatározott feladatokat, amelyek tekintetében a kihelyező vezető – a külképviselet vezetője útján – irányítja a szakdiplomata tevékenységét.
 
-[^5]: A 7. § (3) bekezdés nyitó szövegrésze a 127/2019. (V. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^6]: A 7. § (4) bekezdése a 127/2019. (V. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^7]: A 7. § (5) bekezdése a 127/2019. (V. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^7]: A 7. § (3) bekezdés nyitó szövegrésze a 127/2019. (V. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^8]: A 7. § (4) bekezdése a 127/2019. (V. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^9]: A 7. § (5) bekezdése a 127/2019. (V. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
