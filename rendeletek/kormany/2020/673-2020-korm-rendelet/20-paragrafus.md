@@ -1,0 +1,1 @@
+## 19. § A foglalkoztatott létszám- és illetményadatairól, kereseti adatairól a központosított illetményszámfejtési rendszer (a továbbiakban: KIRA) a TAJ alkalmazásával, minden hónap 15. napjáig végez adatszolgáltatást az adatgyűjtő modul részére, a KSZDR Központ és a Magyar Államkincstár által egyeztetett módon.
