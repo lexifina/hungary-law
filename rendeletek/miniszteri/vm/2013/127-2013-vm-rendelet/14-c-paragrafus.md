@@ -1,4 +1,4 @@
-14/C. §[^13] (1) Az ipari feldolgozásra szánt zöldségfélékre és a feldolgozott zöldségfélékre vonatkozóan adatszolgáltatásra kötelezett azon gyümölcs- és zöldséglé gyártásával (TEÁOR 10.32), illetve egyéb gyümölcs-, zöldségfeldolgozással, -tartósítással (TEÁOR 10.39) foglalkozó szervezet, amely az előző naptári évben legalább
+14/C. §[^16] (1) Az ipari feldolgozásra szánt zöldségfélékre és a feldolgozott zöldségfélékre vonatkozóan adatszolgáltatásra kötelezett azon gyümölcs- és zöldséglé gyártásával (TEÁOR 10.32), illetve egyéb gyümölcs-, zöldségfeldolgozással, -tartósítással (TEÁOR 10.39) foglalkozó szervezet, amely az előző naptári évben legalább
 
 a) 300 tonna ipari paradicsomot,
 
@@ -10,7 +10,9 @@ d) 200 tonna zöldbabot
 
 vásárolt fel.
 
-(2) A feldolgozott zöldségfélékre vonatkozóan az adatszolgáltatást hetente kell teljesíteni.
+(2)[^17] A feldolgozott zöldségfélékre vonatkozóan az adatszolgáltatást havonta, a tárgyhónapot követő hónap 10. napjáig kell teljesíteni.
+
+(2a)[^18] A (2) bekezdés szerinti havi adatszolgáltatási kötelezettség a tárgyhó első és utolsó napja közötti időszakra vonatkozik.
 
 (3) Az ipari feldolgozásra szánt zöldségfélék szerződött területére és mennyiségére, illetve a szerződéses árra vonatkozó adatszolgáltatást évente egyszer,
 
@@ -38,4 +40,6 @@ közötti adatszolgáltatási időszakban.
 
 (5) A (4) bekezdés szerinti havi adatszolgáltatási kötelezettség a tárgyhó első és utolsó napja közötti időszakra vonatkozik.
 
-[^13]: A 14/C. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
+[^16]: A 14/C. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
+[^17]: A 14/C. § (2) bekezdése a 69/2020. (XII. 23.) AM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 14/C. § (2a) bekezdését a 69/2020. (XII. 23.) AM rendelet 3. §-a iktatta be.

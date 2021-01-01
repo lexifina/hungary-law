@@ -1,6 +1,6 @@
-## 14/A. §[^11] A szójababra, a full-fat szójára, a szójadarára, valamint a szójaolajra vonatkozóan heti adatszolgáltatásra kötelezett azon takarmányok (TEÁOR 10.91), növényi és állati olajok gyártásával (TEÁOR 10.41) és forgalmazásával, illetve fehérjenövények kereskedelmével (TEÁOR 46.21) foglalkozó szervezet, amely az előző naptári évben szójababot, szójadarát vagy szójaolajat vásárolt fel.
+## 14/A. §[^12] A szójababra, a full-fat szójára, a szójadarára, valamint a szójaolajra vonatkozóan heti adatszolgáltatásra kötelezett azon takarmányok (TEÁOR 10.91), növényi és állati olajok gyártásával (TEÁOR 10.41) és forgalmazásával, illetve fehérjenövények kereskedelmével (TEÁOR 46.21) foglalkozó szervezet, amely az előző naptári évben szójababot, szójadarát vagy szójaolajat vásárolt fel.
 
-14/B. §[^12] (1) Az ipari feldolgozásra szánt gyümölcsökre és a feldolgozott gyümölcsökre vonatkozóan heti adatszolgáltatásra kötelezett azon gyümölcs- és zöldséglé gyártásával (TEÁOR 10.32), illetve egyéb gyümölcs-, zöldségfeldolgozással, -tartósítással (TEÁOR 10.39) foglalkozó szervezet, amely az előző naptári évben legalább
+14/B. §[^13] (1) Az ipari feldolgozásra szánt gyümölcsökre és a feldolgozott gyümölcsökre vonatkozóan heti adatszolgáltatásra kötelezett azon gyümölcs- és zöldséglé gyártásával (TEÁOR 10.32), illetve egyéb gyümölcs-, zöldségfeldolgozással, -tartósítással (TEÁOR 10.39) foglalkozó szervezet, amely az előző naptári évben legalább
 
 a) 2000 tonna almát,
 
@@ -20,7 +20,11 @@ c) bodza esetében az augusztus 1. és szeptember 30.
 
 közötti adatszolgáltatási időszakban.
 
-(3) A feldolgozott gyümölcsökre vonatkozóan az adatszolgáltatást hetente kell teljesíteni.
+(3)[^14] A feldolgozott gyümölcsökre vonatkozóan az adatszolgáltatást havonta, a tárgyhónapot követő hónap 10. napjáig kell teljesíteni.
 
-[^11]: A 14/A. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
-[^12]: A 14/B. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
+(4)[^15] A (3) bekezdés szerinti havi adatszolgáltatási kötelezettség a tárgyhó első és utolsó napja közötti időszakra vonatkozik.
+
+[^12]: A 14/A. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
+[^13]: A 14/B. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
+[^14]: A 14/B. § (3) bekezdése a 69/2020. (XII. 23.) AM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 14/B. § (4) bekezdését a 69/2020. (XII. 23.) AM rendelet 2. §-a iktatta be.
