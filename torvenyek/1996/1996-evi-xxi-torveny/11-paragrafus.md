@@ -4,7 +4,7 @@
 
 a) a területfejlesztési tervezéssel összefüggő feladatok ellátása keretében:
 
-aa) az országos fejlesztési és területfejlesztési koncepcióval összhangban – a megyei jogú városok önkormányzatának egyetértésével, valamint a fővárosi kerületi önkormányzatok többségének egyetértésével – kidolgozza és határozattal elfogadja a megyei és a fővárosi területfejlesztési koncepciót, illetve – a megyei és a fővárosi területfejlesztési koncepció és a megyei területrendezési terv figyelembevételével – a megyei és a fővárosi területfejlesztési programot, a területfejlesztés stratégiai tervezéséért felelős miniszter állásfoglalásának beszerzését követően,
+aa) az országos fejlesztési és területfejlesztési koncepcióval összhangban – a megyei jogú városok önkormányzatainak, valamint a fővárosi kerületi önkormányzatok bevonásával – kidolgozza és határozattal elfogadja a megyei és a fővárosi területfejlesztési koncepciót, illetve – a megyei és a fővárosi területfejlesztési koncepció és a megyei területrendezési terv figyelembevételével – a megyei és a fővárosi területfejlesztési programot, a területfejlesztés stratégiai tervezéséért felelős miniszter állásfoglalásának beszerzését követően,
 
 ab) részt vesz az országos fejlesztési és területfejlesztési koncepció, valamint az operatív programnak kidolgozásában, a megyei jogú városok önkormányzata és a fővárosi kerületi önkormányzatok kötelező bevonásával észrevételeik figyelembevétel,
 

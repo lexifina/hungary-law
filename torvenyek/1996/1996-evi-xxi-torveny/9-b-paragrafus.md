@@ -14,7 +14,7 @@ f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, 
 
 g) kezeli a területfejlesztési célok megvalósítását közvetlenül szolgáló fejezeti kezelésű előirányzatot és koordinálja a területfejlesztési célok megvalósítását közvetetten szolgáló fejezeti kezelésű előirányzatok felhasználását;
 
-h) a megyei önkormányzatok, a fővárosi önkormányzat a megyei jogú városok önkormányzatának egyetértésével, valamint a fővárosi kerületi önkormányzatok többségének egyetértésével kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
+h) a megyei önkormányzatok, a fővárosi önkormányzat és a megyei jogú városok önkormányzatainak bevonásával kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
 
 i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért felelős miniszter közreműködésével;
 
