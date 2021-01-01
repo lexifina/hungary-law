@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1104-30
 | 2019-03-08 | 2017-1104-30-22.6 | 1013/2018. (II. 2.) Korm. határozat |
 | 2019-05-30 | 2017-1104-30-22.7 | 1317/2019. (V. 30.) Korm. határozat |
 | 2019-11-28 | 2017-1104-30-22.8 | 1013/2018. (II. 2.) Korm. határozat |
+| 2021-01-01 | 2017-1104-30-22.9 | 2011: CXCV. törvény |
