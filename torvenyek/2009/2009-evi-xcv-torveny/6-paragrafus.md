@@ -12,6 +12,6 @@
 
 (6) Az e törvény szerinti eljárás a jogsértő forgalmazói magatartás megvalósulását követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatosan valósul meg, a határidőt a magatartás befejezésétől kell számítani. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
 
-(7) A bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre, a kereskedő gazdasági súlyára – tekintettel kell meghatározni.
+(7)
 
 (8) A mezőgazdasági igazgatási szerv honlapján, valamint az agrárpolitikáért felelős miniszter az általa vezetett minisztérium hivatalos lapjában, továbbá honlapján nyilvánosságra hozza a tisztességtelen forgalmazói magatartást tanúsító kereskedő nevét (cégnevét), címét (székhelyét), a megállapított jogsértést, a kiszabott bírság mértékét, valamint a döntés visszavonása esetén annak tényét, bírósági felülvizsgálat megindulásának tényét, a jogerős ítélet tartalmát, továbbá a 8. § (1) bekezdése szerinti kötelezettségvállalást kötelezővé tevő döntést. Az adatokat a honlapról a jogsértés jogerős megállapításától számított két év után törölni kell, illetve ezen időpontot követően az adatok nem hozhatók újra nyilvánosságra.
