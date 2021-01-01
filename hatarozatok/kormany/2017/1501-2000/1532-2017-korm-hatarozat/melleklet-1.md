@@ -36,15 +36,7 @@
 
 ## 5. az OIKH első elemeként – a Modern Városok Program keretében rendelkezésre álló források bevonásával – támogatja a Magyarország Kormánya és Zalaegerszeg Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1252/2015. (IV. 23.) Korm. határozat 2. pontja alapján a Zalaegerszeg–Zalaszentivánon létesítendő Intermodális Konténerterminál megvalósítását;
 
-## 6. az 5. pontban foglaltak megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a Zalaegerszeg–Zalaszentiván Intermodális Konténerterminál projekt előkészítése érdekében 2017. évben szükséges 300 millió forint forrás átcsoportosítását rendeli el a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 2. Társaságokkal kapcsolatos kiadások alcím, 1. Állami tulajdoni részesedések növekedését eredményező kiadások jogcímcsoport, 1. Az MNV Zrt. által végrehajtott részesedésvásárlás, tőkeemelés, pótbefizetés jogcím javára az 1. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 6.[^2]
 
 ## 7. felhívja a nemzeti fejlesztési minisztert, hogy az elkészült tervek alapján nyújtson be részletes előterjesztést a Kormány részére a Zalaegerszeg–Zalaszentiván Intermodális Konténerterminál megvalósításával és a 3. pontban meghatározott, állami tulajdonban álló gazdasági társaság által történő üzemeltetésével kapcsolatos feladatokról és azok forrásigényéről.
 
@@ -52,74 +44,10 @@
 
 ## Határidő: 2018. július 1.
 
-## 8.[^2] egyetért azzal, hogy a debreceni konténerterminál a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések részeként valósuljon meg.
+## 8.[^3] egyetért azzal, hogy a debreceni konténerterminál a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések részeként valósuljon meg.
 
-1. melléklet az 1532/2017. (VIII. 14.) Korm. határozathoz
+1. melléklet az 1532/2017. (VIII. 14.) Korm. határozathoz[^4]
 
-| XI. Miniszterelnökség XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017 millió forint |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358951 |  |  |  | 78 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -300,0 |  |  |  |
-
-|  | XLIII. |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Társaságokkal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 1 |  |  |  |  |  | Állami tulajdoni részesedések növekedését eredményező kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 296335 |  |  |  |  | 1 |  |  |  |  |  | Az MNV Zrt. által végrehajtott részesedésvásárlás, tőkeemelés, pótbefizetés |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 300,0 |  |  |  |
-
-| millió forint |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| millió forint |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358951 |  |  |  | 78 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  | -300,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezetet irányító szerv |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 300,0 |  |  |  |  |  |  |  |  |  |  | 300,0 |  |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^2]: A 8. pontot az 1594/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 8. pontot az 1594/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
