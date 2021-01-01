@@ -16,7 +16,7 @@ g) az (5) bekezdés szerinti eset kivételével a szavatossági vagy jótállás
 
 (2) Ha a vállalkozás szavatossági vagy jótállási kötelezettségének a fogyasztó által érvényesíteni kívánt jogtól eltérő módon tesz eleget, ennek indokát a jegyzőkönyvben meg kell adni.
 
-(3) A jegyzőkönyvnek tájékoztatást kell tartalmaznia arról, hogy fogyasztói jogvita esetén a fogyasztó a megyei (fővárosi) kereskedelmi és iparkamarák mellett működő békéltető testület eljárását is kezdeményezheti.
+(3)[^1] A jegyzőkönyvnek tájékoztatást kell tartalmaznia arról, hogy fogyasztói jogvita esetén a fogyasztó a megyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti.
 
 (4) A jegyzőkönyv másolatát haladéktalanul, igazolható módon a fogyasztó rendelkezésére kell bocsátani.
 
@@ -25,3 +25,5 @@ g) az (5) bekezdés szerinti eset kivételével a szavatossági vagy jótállás
 (6) A vállalkozás a fogyasztó szavatossági vagy jótállási igényéről felvett jegyzőkönyvet az annak felvételétől számított három évig köteles megőrizni, és azt az ellenőrző hatóság kérésére bemutatni.
 
 (7) A szavatossági vagy jótállási igény bejelentése nem minősül a fogyasztóvédelemről szóló törvény szerinti panasznak.
+
+[^1]: A 4. § (3) bekezdése a 18/2020. (VI. 12.) ITM rendelet 7. §-a szerint módosított szöveg.
