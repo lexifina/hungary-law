@@ -1,4 +1,4 @@
-## 48. §[^107] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 635/2020. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr40.) megállapított 2. mellékletben foglalt táblázat 56. és 57. sorát a Módr40. hatálybalépésekor[^108] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 49. §[^111] E rendeletnek az Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításárólszóló 725/2020. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr41.) megállapított 3. § (4) bekezdését, 4. § (1) és (2) bekezdését, 6/L. §-át, 1. melléklet 2. sorát és 2. mellékletében foglalt táblázat 58. sorát a Módr41. hatálybalépésekor[^112] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+2.[^113] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,5 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^107]: A 48. §-t a 635/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
-[^108]: A hatálybalépés időpontja 2020. december 23.
+[^111]: A 49. §-t a 725/2020. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^112]: A hatálybalépés időpontja 2021. január 1.
+[^113]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

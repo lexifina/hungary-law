@@ -1,4 +1,4 @@
-6/K. §[^28] (1) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(9) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési eszköz vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(9) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azokat korlátozza, illetve azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszköz vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
+6/K. §[^29] (1) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(9) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési eszköz vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(9) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azokat korlátozza, illetve azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszköz vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
 
 (2) A Balatonvilágos belterület 292, 295/5, 297, 301/1, 302 és 303/2 helyrajzi számú telkekre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -210,4 +210,4 @@ m) magánút korlátozás nélkül létesíthető.
 
 (9) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkek és az azokból telekalakítással kialakításra kerülő telkek közterületként, illetve közútként nem alakíthatók ki.
 
-[^28]: A 6/K. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 6/K. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.

@@ -6,4 +6,7 @@
 
 (3)[^3] A 2. mellékletben foglalt táblázat 7., 7a., 8. és 11., 30., 33., 35., 37., 40., 41., 42., 48. és 49. sora szerinti beruházás esetében építészeti-műszaki tervtanácsi véleményt nem kell beszerezni, valamint településképi véleményezési eljárást nem kell lefolytatni.
 
+(4)[^4] A 2. mellékletben foglalt táblázat 58. sora szerinti beruházás esetében településképi véleményezési eljárást nem kell lefolytatni.
+
 [^3]: A 3. § (3) bekezdése a 176/2018. (IX. 27.) Korm. rendelet 2. §-a, a 160/2019. (VI. 28.) Korm. rendelet 4. § a) pontja, a 299/2019. (XII. 10.) Korm. rendelet 4. §-a, a 371/2019. (XII. 30.) Korm. rendelet 4. § a) pontja, a 23/2020. (II. 20.) Korm. rendelet 4. §-a, a 117/2020. (IV. 15.) Korm. rendelet 4. §-a, a 161/2020. (IV. 29.) Korm. rendelet 4. §-a, a 388/2020. (VIII. 7.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdését a 725/2020. (XII. 31.) Korm. rendelet 1. §-a iktatta be.

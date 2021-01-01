@@ -1,4 +1,4 @@
-## 25. §[^61] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 266/2019. (XI. 14.) Korm. rendelettel (a továbbiakban: Módr17.) megállapított 2. mellékletben foglalt táblázat 29. sorát a Módr17. hatálybalépésekor[^62] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 25. §[^63] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 266/2019. (XI. 14.) Korm. rendelettel (a továbbiakban: Módr17.) megállapított 2. mellékletben foglalt táblázat 29. sorát a Módr17. hatálybalépésekor[^64] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^61]: A 25. §-t a 266/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
-[^62]: A hatálybalépés időpontja 2019. november 15.
+[^63]: A 25. §-t a 266/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2019. november 15.
