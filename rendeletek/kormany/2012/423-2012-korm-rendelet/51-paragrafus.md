@@ -1,3 +1,3 @@
-51. §[^187] E rendeletnek az egyes hatósági eljárások igazgatási szolgáltatási díjának megszüntetéséről szóló 392/2015. (XII. 11.) Korm. rendelettel (a továbbiakban: Módr.) módosított 42. § (1) és (2) bekezdését, 43. § (1) és (2) bekezdését, valamint 44. § (1) bekezdését először a 2016. évi általános felvételi eljárásban kell alkalmazni, továbbá e rendeletnek a Módr.-rel hatályon kívül helyezett 42. § (3) bekezdését és 44. § (3) bekezdését először a 2016. évi általános felvételi eljárásban nem kell alkalmazni.
+51. §[^190]
 
-[^187]: Az 51. §-t a 392/2015. (XII. 11.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^190]: Az 51. §-t a 392/2015. (XII. 11.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 82. § (2) bekezdés 6. pontja.

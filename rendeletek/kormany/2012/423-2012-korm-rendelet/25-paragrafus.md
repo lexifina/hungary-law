@@ -1,6 +1,6 @@
 ## 9. A besorolási döntés
 
-25. § (1)[^131] A besorolási döntés előkészítésében a Hivatal és a felsőoktatási intézmények vesznek részt.
+25. § (1)[^135] A besorolási döntés előkészítésében a Hivatal és a felsőoktatási intézmények vesznek részt.
 
 (2) A miniszter az Nftv. 46. § (4) bekezdésében meghatározott határozatát a felvételi eljárást megelőző év november 30-ig hozza meg.
 
@@ -14,7 +14,7 @@ a) az egyes szakokra a Tájékoztatóban közzétett legmagasabb létszám növe
 
 b) az egyes szakokra a Tájékoztatóban közzétett legalacsonyabb létszám csökkentését,
 
-c)[^132]
+c)[^136]
 
 (6) A felsőoktatási intézmények döntései alapján a Hivatal újabb tervezetet készít.
 
@@ -22,5 +22,5 @@ c)[^132]
 
 (8) A felsőoktatási intézmények a (5) bekezdésben meghatározott javaslat elkészítésének a Hivatal által meghatározott időpontjáig kötelesek továbbítani a Hivatalnak a jelentkezők általuk meghatározott eredményeit.
 
-[^131]: A 25. § (1) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 18. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^132]: A 25. § (5) bekezdés c) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés g) pontja hatályon kívül helyezte.
+[^135]: A 25. § (1) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 18. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^136]: A 25. § (5) bekezdés c) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés g) pontja hatályon kívül helyezte.

@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2020-07-17 | 2012-423-20-22.30 | 351/2020. (VII. 16.) Korm. rendelet |
 | 2020-07-31 | 2012-423-20-22.31 | 351/2020. (VII. 16.) Korm. rendelet |
 | 2020-12-25 | 2012-423-20-22.32 | 661/2020. (XII. 24.) Korm. rendelet |
+| 2021-01-01 | 2012-423-20-22.33 | 661/2020. (XII. 24.) Korm. rendelet |
