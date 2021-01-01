@@ -25,6 +25,6 @@ b) 2011-től minden évben az előző évben irányadó összegnek a Központi S
 [^10]: A 3. § (1) bekezdés b) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^11]: A 3. § (1) bekezdés c) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^12]: A 3. § (1a) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^13]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja 2017-ben 35 340 forint.
+[^13]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja a 2021. évben 39 730 forint.
 [^14]: A 3. § (4) bekezdése a 4/2017. (I. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^15]: Lásd a Hivatalos Értesítő 2017. évi 3. számában megjelent NGM közleményt.
+[^15]: Lásd a Hivatalos Értesítő 2021. évi 7. számában megjelent ITM közleményt.
