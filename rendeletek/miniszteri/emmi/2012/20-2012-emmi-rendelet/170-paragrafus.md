@@ -1,5 +1,5 @@
-## 66.[^431]
+## 66.[^433]
 
 170. §
 
-[^431]: A 66. alcímet (170. §) a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 32. pontja hatályon kívül helyezte.
+[^433]: A 66. alcímet (170. §) a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 32. pontja hatályon kívül helyezte.

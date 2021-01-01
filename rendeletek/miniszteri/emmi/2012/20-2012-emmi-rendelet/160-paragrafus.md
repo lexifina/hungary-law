@@ -1,8 +1,8 @@
-## 61. [^414]
+## 61. [^416]
 
-## 62. [^415] Az egyházi, magán és nemzetiségi önkormányzati fenntartású nevelési-oktatási intézmény fenntartói tevékenységének törvényességi ellenőrzése
+## 62. [^417] Az egyházi, magán és nemzetiségi önkormányzati fenntartású nevelési-oktatási intézmény fenntartói tevékenységének törvényességi ellenőrzése
 
-## 160. §[^416] A kormányhivatal az egyházi, magán és nemzetiségi önkormányzati fenntartású nevelési-oktatási intézmény fenntartói tevékenységének törvényességi ellenőrzése keretében különösen azt vizsgálja, hogy
+## 160. §[^418] A kormányhivatal az egyházi, magán és nemzetiségi önkormányzati fenntartású nevelési-oktatási intézmény fenntartói tevékenységének törvényességi ellenőrzése keretében különösen azt vizsgálja, hogy
 
 a) van-e joga a fenntartónak a tevékenység folytatásához,
 
@@ -10,13 +10,13 @@ b) összhangban áll-e az alapító okirat, a működés megkezdéséhez szüks�
 
 c) a nevelési-oktatási intézmény törvényes és szakszerű működése érdekében milyen intézkedéseket tettek,
 
-d)[^417] a fenntartó által az intézmény rendelkezésére bocsátott vagyon biztosítja-e az alapító okiratban meghatározott feladatok végrehajtását, a 161. § (2) bekezdése szerinti kötelező (minimális) helyiség- és eszközjegyzékben, valamint a 161. § (3) bekezdése szerinti kötelező (minimális) felszerelési jegyzékben foglaltak meglétét,
+d)[^419] a fenntartó által az intézmény rendelkezésére bocsátott vagyon biztosítja-e az alapító okiratban meghatározott feladatok végrehajtását, a 161. § (2) bekezdése szerinti kötelező (minimális) helyiség- és eszközjegyzékben, valamint a 161. § (3) bekezdése szerinti kötelező (minimális) felszerelési jegyzékben foglaltak meglétét,
 
 e) a fenntartó által elkészített éves költségvetés biztosítja-e az Nkt.-ben meghatározott feladatok ellátását,
 
 f) az Nkt. 23. § (3) bekezdése szerinti ütemtervben foglaltak teljesülnek-e,
 
-g)[^418] egyházi nevelési-oktatási intézmény fenntartója esetében az SZMSZ jóváhagyásával kapcsolatos eljárás törvényes-e,
+g)[^420] egyházi nevelési-oktatási intézmény fenntartója esetében az SZMSZ jóváhagyásával kapcsolatos eljárás törvényes-e,
 
 h) a nevelési-oktatási intézmény vezetőjének alkalmazása törvényes-e,
 
@@ -24,8 +24,8 @@ i) vizsgálta-e a fenntartó a nevelési-oktatási intézmény pedagógiai progr
 
 j) a fenntartó a döntései meghozatalakor betartja-e az előírt egyeztetési kötelezettségét.
 
-[^414]: A 61. alcím (159. §) a 31/2020. (VIII. 31.) EMMI rendelet 14. §-a alapján hatályát vesztette.
-[^415]: A 62. alcím címe a 45/2014. (X. 27.) EMMI rendelet 41. §-ával megállapított, a 32/2015. (VI. 19.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
-[^416]: A 160. § nyitó szövegrésze a 32/2015. (VI. 19.) EMMI rendelet 17. § f) pontja, a 14/2020. (IV. 16.) EMMI rendelet 1. § j) pontja szerint módosított szöveg.
-[^417]: A 160. § d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^418]: A 160. § g) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.
+[^416]: A 61. alcím (159. §) a 31/2020. (VIII. 31.) EMMI rendelet 14. §-a alapján hatályát vesztette.
+[^417]: A 62. alcím címe a 45/2014. (X. 27.) EMMI rendelet 41. §-ával megállapított, a 32/2015. (VI. 19.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
+[^418]: A 160. § nyitó szövegrésze a 32/2015. (VI. 19.) EMMI rendelet 17. § f) pontja, a 14/2020. (IV. 16.) EMMI rendelet 1. § j) pontja szerint módosított szöveg.
+[^419]: A 160. § d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^420]: A 160. § g) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.

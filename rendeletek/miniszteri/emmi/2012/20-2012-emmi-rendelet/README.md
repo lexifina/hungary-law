@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-20-20-5
 | 2020-04-17 | 2012-20-20-5H.29 | 14/2020. (IV. 16.) EMMI rendelet |
 | 2020-06-18 | 2012-20-20-5H.30 | 20/2016. (VIII. 24.) EMMI rendelet |
 | 2020-09-01 | 2012-20-20-5H.31 | 31/2020. (VIII. 31.) EMMI rendelet |
+| 2021-01-01 | 2012-20-20-5H.32 | 20/2019. (VIII. 30.) EMMI rendelet |

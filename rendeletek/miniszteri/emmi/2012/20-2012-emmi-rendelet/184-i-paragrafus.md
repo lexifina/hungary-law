@@ -2,9 +2,9 @@
 
 (2) Az iskola a tankönyveket a könyvtárellátótól a tanulók részére átveszi, majd a tankönyvellátás helyi rendjében foglaltaknak megfelelően a tankönyvfelelős részt vesz a tankönyvellátással kapcsolatos iskolai helyi feladatok ellátásában.
 
-(3)[^526]
+(3)[^528]
 
-(4)[^527]
+(4)[^529]
 
 (5) Az iskola igazgatója gondoskodik arról, hogy az Nkt. 46. § (5) bekezdése alapján az állam által térítésmentesen biztosított tankönyveket – a munkafüzetek és az 1–2. évfolyamos tanulók tankönyveinek kivételével – az iskola könyvtári állománynyilvántartásába vegyék, az iskolai könyvtári állományban elkülönítetten kezeljék. Az iskolai házirend és az iskolai tankönyvellátás rendje által megállapított tankönyvellátási szabályok nem vonatkoznak a munkafüzetekre és az 1–2. évfolyamos tanulók tankönyveire. Az állam által térítésmentesen biztosított tankönyveket a pedagógus, a tanuló köteles az utolsó tanítási napon visszaszolgáltatni az intézmény könyvtárának.
 
@@ -14,5 +14,5 @@
 
 (8) Az iskolai tankönyvrendelés elkészítésének és az ahhoz kapcsolódó fenntartói egyetértő nyilatkozat beszerzésének módját, továbbá e rendeletben nem szabályozott kérdéseit az iskola házirendjében kell meghatározni.
 
-[^526]: A 184/I. § (3) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 38. pontja hatályon kívül helyezte.
-[^527]: A 184/I. § (4) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 38. pontja hatályon kívül helyezte.
+[^528]: A 184/I. § (3) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 38. pontja hatályon kívül helyezte.
+[^529]: A 184/I. § (4) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 38. pontja hatályon kívül helyezte.

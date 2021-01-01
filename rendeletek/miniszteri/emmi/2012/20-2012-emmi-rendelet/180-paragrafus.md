@@ -1,5 +1,5 @@
-## 74.[^488]
+## 74.[^490]
 
 180. §
 
-[^488]: A 74. alcímet (180–182. §) a 14/2020. (IV. 16.) EMMI rendelet 2. § f) pontja hatályon kívül helyezte.
+[^490]: A 74. alcímet (180–182. §) a 14/2020. (IV. 16.) EMMI rendelet 2. § f) pontja hatályon kívül helyezte.
