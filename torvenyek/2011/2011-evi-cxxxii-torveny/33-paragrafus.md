@@ -10,7 +10,9 @@ c) a hallgató a tanulmányi kötelezettségét a tanulmányi és vizsgaszabály
 
 d) a honvéd tisztjelölti jogviszonyra figyelemmel létesített hallgatói jogviszony esetén a honvéd tisztjelölti jogviszony megszűnt, vagy
 
-e) a hivatásos jogviszony alapján létesített hallgatói jogviszony esetén a hivatásos jogviszony megszűnt.
+e) a hivatásos jogviszony alapján létesített hallgatói jogviszony esetén a hivatásos jogviszony megszűnt,
+
+f) adó- és vámhatósági szolgálati jogviszony alapján létesített hallgatói jogviszony esetén a szolgálati jogviszony megszűnt.
 
 (3) Az Egyetem az elbocsátást köteles megindokolni. Az indokolásból az elbocsátás okának világosan ki kell tűnnie, továbbá szükség esetén az Egyetemnek kell bizonyítania, hogy az elbocsátás indoka valós és okszerű.
 
