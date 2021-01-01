@@ -1,3 +1,1 @@
-## 90. §[^90]
-
-[^90]: A 90. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 90. § A rendvédelmi oktatási intézménybe jelentkezők (a továbbiakban: felvételiző) alkalmasságvizsgálatára a hivatásos állományba kinevezést megelőző alkalmasságvizsgálatra vonatkozó rendelkezéseket az e fejezetben foglalt eltérésekkel kell alkalmazni.

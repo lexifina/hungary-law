@@ -1,3 +1,25 @@
-## 24. §[^24]
+25. § (1) A rendvédelmi szerv vezetője a rendvédelmi szerv vonatkozásában egységesen alkalmazandó iratminta alkalmazását rendelheti el a minősítő dokumentum vonatkozásában. Ilyen döntés hiányában a minősítő dokumentum iratmintáját a személyügyi szerv alakítja ki.
 
-[^24]: A 24. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) A minősítő dokumentum tartalmazza
+
+a) a vizsgált személy következő adatait: név, rendfokozat, születési név, születési hely, születési idő, anyja születési neve,
+
+b) a vizsgált személy jelenlegi vagy tervezett szolgálati beosztásának megnevezését és alkalmasságvizsgálati kategóriáját,
+
+c) az elvégzett alkalmasságvizsgálatra vonatkozó adatokat:
+
+ca) tartalma szerint egészségi, pszichológiai vagy fizikai alkalmasságvizsgálat,
+
+cb) az alkalmasságvizsgálat típusa,
+
+cc) az elsőfok, a másodfok, illetve a háromfős bizottsági eljárás vagy a felülvizsgálati eljárás megjelölése,
+
+d) az alkalmasság minősítését és a minősítés érvényességét,
+
+e) „Korlátozással alkalmas” minősítés esetén a korlátozás fajtáját – így a gondozással vagy kategóriaváltással kapcsolatos, illetve egyéb megjelölést –, valamint az alkalmasság visszanyerését célzó támogató intézkedések meghatározását,
+
+f) „Korlátozással alkalmas” és „Ideiglenesen alkalmatlan” minősítés esetén azt az időpontot, ameddig a következő alkalmasságvizsgálatot el kell végezni,
+
+g) a jogorvoslat lehetőségéről szóló tájékoztatást, illetve a minősítést követő hivatalból alkalmazott másodfokú, háromfős bizottsági eljárás vagy felülvizsgálati eljárás esetén ennek tényét,
+
+h) az alkalmasságvizsgálatot végző személy szervezeti eleme szerinti bélyegzőjének lenyomatát, a minősítő nevét és aláírását, egészségi alkalmasságvizsgálat esetén a vizsgálatot végző orvos bélyegzőjének lenyomatát.

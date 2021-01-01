@@ -1,3 +1,11 @@
-## 34. §[^34]
+35. § (1) A kompetenciavizsgálat keretében kötelezően vizsgálandó kompetenciákat a 3. melléklet tartalmazza.
 
-[^34]: A 34. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) A kompetenciavizsgálat során az (1) bekezdésben meghatározott kompetenciák kötelező vizsgálata mellett a II–VIII. alkalmasságvizsgálati kategória esetében a rendvédelmi szerv vezetője által meghatározott további kompetenciák is vizsgálhatók, ha azok tudományosan megalapozottak és a vizsgálatukhoz rendelkezésre állnak a megfelelő vizsgáló eszközök.
+
+(3) Az (1) bekezdésben meghatározott kötelező kompetenciák vizsgálata során
+
+a) elsőként a vizsgált személy egyéni kompetenciaprofilja kerül meghatározásra a KOMP-rendszer segítségével,
+
+b) ezt követően a vizsgált személy egyéni kompetenciaprofilja illesztésre kerül a vizsgált személy által betöltött vagy betöltendő szolgálati beosztás alkalmasságvizsgálati kategóriájához és szakterületéhez illeszkedő specifikus kompetenciaprofil-elvárásrendszerhez, amelynek eredménye mentén a vizsgált személyek sorrendbe rendezhetők.
+
+(4) A kompetenciavizsgálat eredményéről kérés esetén az állományilletékes parancsnokot tájékoztatni kell.

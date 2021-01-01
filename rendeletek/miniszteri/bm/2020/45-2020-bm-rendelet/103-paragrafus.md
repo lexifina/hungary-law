@@ -1,3 +1,1 @@
-## 102. §[^102]
-
-[^102]: A 102. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 102. § A munkaköri alkalmassági vizsgálatot első és másodfokon a rendvédelmi szerv vezetője által közjogi szervezetszabályozó eszközben meghatározott rendvédelmi szerv egészségügyi szolgálatánál foglalkoztatott orvos végzi, figyelemmel a 18. és 19. §-ban szereplő feltételekre.

@@ -1,3 +1,3 @@
-## 30. §[^30]
+31. § (1) Az egészségi alkalmasságvizsgálatot dokumentálni kell, az elvégzett orvosi vizsgálatok és az észlelt megbetegedés, fogyatékosság BNO szerinti kódszámának megjelölésével, amely dokumentum a vizsgált személy egészségügyi dokumentációjának részét képezi. A leletek és a vizsgálati adatok nem kerülnek a KOMP-rendszerbe, azok az egészségügyi törzskönyvben helyezendőek el.
 
-[^30]: A 30. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) Az egészségi alkalmasságvizsgálat során írásban rögzíteni szükséges az egészségfejlesztés tekintetében végzett tevékenységeket. A rendvédelmi alapellátó orvos által készített dokumentációt a hivatásos állomány tagja aláírja.

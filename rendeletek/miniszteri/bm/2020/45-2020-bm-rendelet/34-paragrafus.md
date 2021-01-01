@@ -1,3 +1,9 @@
-## 33. §[^33]
+## 33. § A pszichológiai alkalmasságvizsgálatot a KOMP-rendszer támogatásával a vizsgálatot végző pszichológusnak vagy az őt segítő asszisztensnek dokumentálnia kell, amelynek tartalmaznia kell a végrehajtott vizsgálatok időpontját, megnevezését, a végrehajtott vizsgálatok dokumentumait, eredményeit és kiértékelését. Az alkalmasságvizsgálatot végző pszichológus a kiértékelés során – a vizsgált személy által betöltött, illetve betöltendő szolgálati beosztáshoz igazodóan – figyelembe veszi a minimumfeltételeket, illetve az esetleges kategóriafeltételeket.
 
-[^33]: A 33. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+34. § (1) A pszichológiai alkalmasságvizsgálatnál elsősorban olyan vizsgálati módszerek alkalmazása javasolt, amelyeket magyar reprezentatív mintán bevizsgáltak és az eredményeiket publikálták. Az ilyen vizsgálati módszer esetén az Alkalmasságvizsgálati Szakmai Protokollban szereplő értékelési módszertant a rendvédelmi szerv hivatásos állománya körében legalább 100 fős reprezentatív mintán végrehajtott bevizsgálás, sztenderdizálás eredményei alapján kell kialakítani.
+
+(2) A pszichológiai alkalmasságvizsgálat során saját fejlesztésű vizsgálati módszert kizárólag akkor lehet alkalmazni, ha annak kidolgozását és működését követhető módon, a szakma szabályainak megfelelően dokumentálták, valamint legalább 200 fős reprezentatív mintán bevizsgálásra, sztenderdizálásra került a rendvédelmi szervek hivatásos állományán.
+
+(3) Az Alkalmasságvizsgálati Szakmai Protokollban szereplő pszichológiai értékelési módszertant, sztenderdeket folyamatosan – legfeljebb négyévente – felül kell vizsgálni a KOMP-rendszerben rögzített adatok összegzett elemzésével.
+
+(4) A pszichológiai alkalmasságvizsgálat keretében a minimumfeltételek, illetve kategóriafeltételek vizsgálatára jogszerűen alkalmazható, korszerű vizsgálati eszközök biztosítása a rendvédelmi szerv feladata.

@@ -1,3 +1,11 @@
-## 27. §[^27]
+28. § (1) A személyügyi szerv az egészségi alkalmasság elbírálása szempontjából a vizsgálaton résztvevőket életkor alapján négy korcsoportba sorolja a következők szerint:
 
-[^27]: A 27. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+a) I. korcsoport: 29 éves korig,
+
+b) II. korcsoport:30–39 éves kor között,
+
+c) III. korcsoport: 40–49 éves kor között,
+
+d) IV. korcsoport: 50 év és afeletti életkor.
+
+(2) Az (1) bekezdés szerinti besorolás alapja a tárgyévben betöltött életkor.

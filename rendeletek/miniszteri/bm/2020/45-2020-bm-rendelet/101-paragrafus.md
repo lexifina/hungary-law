@@ -1,3 +1,1 @@
-## 100. §[^100]
-
-[^100]: A 100. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 100. § A munkaköri követelmények érvényre juttatása érdekében a munkaköri alkalmasságot az igazgatási jogviszony létesítését megelőzően és annak fennállása alatt rendszeresen vizsgálni és véleményezni kell (a továbbiakban: munkaköri alkalmassági vizsgálat).

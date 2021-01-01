@@ -1,3 +1,1 @@
-## 66. §[^66]
-
-[^66]: A 66. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 66. § Időszakos alkalmasságvizsgálatra kerül sor abban az esetben is, ha a hivatásos állomány tagja a Hszt. 77. §-a szerinti rendelkezési állományba helyezés megszűnését követően szolgálati beosztásba helyezésre kerül. Ebben az esetben az időszakos alkalmasságvizsgálat keretében, kötelezően sor kerül a kategóriafeltételeknek való megfelelés vizsgálatára is.

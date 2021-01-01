@@ -1,5 +1,9 @@
-## 62. §[^62]
-
 ## 16. Az időszakos alkalmasságvizsgálat közös szabályai
 
-[^62]: A 62. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+63. § (1) A hivatásos szolgálati jogviszony fennállása alatt végzett időszakos alkalmasságvizsgálat azt vizsgálja rendszeres időközönként, hogy a hivatásos állomány tagja képes-e a szolgálatellátása vagy magánéletében fennálló tényező okozta egészségi, pszichikai és fizikai megterhelés következményeinek a megfelelő kezelése által megőrizni az adott szolgálati beosztására vonatkozó alkalmasságát.
+
+(2) Az időszakos alkalmasságvizsgálat elvégzésének célja az (1) bekezdésben meghatározottakon túl
+
+a) az arra vonatkozó javaslat kialakítása, hogy a hivatásos állomány tagja melyik kompetenciáinak a fejlesztése javasolt a jövőbeni hatékonyabb szolgálatellátása érdekében, valamint
+
+b) a hivatásos állomány tagjának egészségi, pszichológiai, fizikai állapotának figyelemmel kísérése, valamint a megelőzés szempontjainak érvényesítése.

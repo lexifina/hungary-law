@@ -1,3 +1,1 @@
-## 6. §[^6]
-
-[^6]: A 6. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 6. § Nem kerül sor alkalmasságvizsgálatra a hivatásos állomány azon tagja esetében, aki a Hszt. 77. § (1) bekezdés b) és f)–k) pontja szerinti rendelkezési állományban van, de nem tölt be szolgálati beosztást, esetükben alkalmasságvizsgálatra kizárólag a rendelkezési állomány megszűnése esetén kerül sor.

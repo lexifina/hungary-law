@@ -1,3 +1,5 @@
-## 40. §[^40]
+41. § (1) A fizikai alkalmasságvizsgálat esetében a kategóriafeltételeket és az illeszkedésvizsgálat részét képező fizikai szintfelmérőnek a követelményrendszerét, valamint a konkrét vizsgálati módszertant úgy kell kialakítani, hogy elsősorban olyan módszerek alkalmazása javasolt, amelyek széles körben alkalmazott és egyben magyar mintán validált eljárások. Ilyen vizsgálati módszer esetén az Alkalmasságvizsgálati Szakmai Protokollban szereplő értékelési módszertant a rendvédelmi szervek állománya körében legalább 100 fős reprezentatív mintán végrehajtott bevizsgálás, sztenderdizálás eredményei alapján kell kialakítani.
 
-[^40]: A 40. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) A fizikai alkalmasságvizsgálat esetében saját fejlesztésű vizsgálati módszert kizárólag akkor lehet alkalmazni, ha annak kidolgozását és működését követhető módon, a szakma szabályainak megfelelően dokumentálták, valamint legalább 200 fős reprezentatív mintán bevizsgálásra, sztenderdizálásra került a rendvédelmi szervek hivatásos állományán.
+
+(3) Az Alkalmasságvizsgálati Szakmai Protokollban szereplő értékelési módszertan sztenderdjeit folyamatosan – legfeljebb négyévente – felül kell vizsgálni a KOMP-rendszerben rögzített adatok összegzett elemzésével.

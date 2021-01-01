@@ -1,9 +1,15 @@
-## 2. §[^2]
-
 ## II. Fejezet
 
 ## A HIVATÁSOS ÁLLOMÁNY ALKALMASSÁGVIZSGÁLATA
 
 ## 3. Az alkalmasságvizsgálatok rendszere
 
-[^2]: A 2. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+3. § (1) A szolgálati követelmények érvényre juttatása érdekében a hivatásos állomány tagjának hivatásos szolgálatra, valamint az egyes szolgálati beosztásra való alkalmasságát, egészségi, pszichológiai és fizikai állapotát a hivatásos szolgálati jogviszony létesítését megelőzően és annak fennállása alatt alkalmasságvizsgálat keretében rendszeresen vizsgálni és véleményezni kell.
+
+(2) Az alkalmasságvizsgálat tartalmát tekintve lehet
+
+a) egészségi,
+
+b) pszichológiai vagy
+
+c) fizikai

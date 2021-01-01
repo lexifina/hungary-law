@@ -1,3 +1,9 @@
-## 79. §[^79]
+## 80. § A soron kívüli alkalmasságvizsgálat minősítése lehet
 
-[^79]: A 79. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+a) „Alkalmas”,
+
+b) „Ideiglenesen alkalmatlan”,
+
+c) „Korlátozással alkalmas” vagy
+
+d) „Alkalmatlan”.

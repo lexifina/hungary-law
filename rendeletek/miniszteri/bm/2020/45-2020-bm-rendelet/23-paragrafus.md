@@ -1,3 +1,9 @@
-## 22. §[^22]
+23. § (1) Az alkalmasságvizsgálat során el kell bírálni, hogy a vizsgált személy
 
-[^22]: A 22. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+a) egészségi, pszichológiai, fizikai szempontból a meghatározott követelményrendszer szerint alkalmas-e a betöltendő, illetve a betöltött szolgálati beosztás ellátására,
+
+b) egészségének előre látható károsodása nélkül alkalmas-e egyes, fokozott igénybevétellel, veszéllyel járó szolgálati feladatok, munkatevékenységek elvégzésére,
+
+c) nem szenved-e valamilyen fertőző betegségben, amely miatt szolgálati beosztásából adódóan széles körű fertőzést okozhat, vagy nem szenved-e olyan betegségben, amelynek következtében bármikor szolgálatképtelenné válhat, illetve amely gyógykezelését, gondozását, egyéb intézkedés megtételét teszi szükségessé.
+
+(2) Az alkalmasságvizsgálatot végző személy az általa végzett vizsgálathoz további – az általa elrendelhető vagy beutalható további vizsgálatok szerinti – szakvélemények vagy szakorvosi leletek beszerzését rendelheti el.

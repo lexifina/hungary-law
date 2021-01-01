@@ -1,3 +1,5 @@
-## 61. §[^61]
+## 61. § A külszolgálat megkezdése előtt elvégzendő alkalmasságvizsgálat alapján, a külszolgálat során érvényesülő felelősségi szinttől függően a hivatásos állomány tagjának legalább a IV., VIII. vagy XII. alkalmasságvizsgálati kategóriához tartozó kategóriafeltételeknek kell megfelelnie, amelyen túl a külszolgálat helye szerint meghatározott egészségi, alkalmassági és járványügyi követelményekre figyelemre speciális, a szakmai szabályoknak megfelelő vizsgálatokra is sor kerülhet.
 
-[^61]: A 61. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+62. § (1) Ha a 60. § szerinti vizsgálatra sor került, a külszolgálatról történő hazatérést követő 72 órán belül a Magyar Honvédség központi egészségügyi szervezete elvégzi a hivatásos állomány tagja záró egészségi és pszichológiai vizsgálatát. A záró vizsgálaton észlelt megbetegedés esetén a betegség jellegének megfelelő gyógykezelés, illetve kórházi, gyógyintézeti ellátást a Magyar Honvédség központi egészségügyi szervezete biztosítja a hivatásos állomány tagja részére.
+
+(2) A rendvédelmi alapellátást végző orvos a hazatérést követően – a teljesített külszolgálat helyére és körülményeire tekintettel – fokozott figyelemmel kíséri a hazatért hivatásos állomány tagja egészségi állapotát.

@@ -1,3 +1,3 @@
-## 18. §[^18]
+19. § (1) Másodfokon a legalább hároméves rendvédelmi szakmai tapasztalattal rendelkező, valamely rendvédelmi szerv központi szervénél foglalkoztatott szakember járhat el. Orvos esetében további feltétel a szakvizsga, pszichológus esetében a szakvizsga vagy szakpszichológusi szakvégzettség megléte.
 
-[^18]: A 18. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+(2) A fellebbezés elbírálásában nem vehet részt az, aki az első fokon hozott döntés meghozatalában, illetve az annak alapjául szolgáló vizsgálatban, illetve alkalmasságvizsgálatban részt vett.

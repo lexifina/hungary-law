@@ -1,5 +1,7 @@
-## 59. §[^59]
-
 ## 15. Külszolgálathoz kapcsolódó alkalmasságvizsgálat
 
-[^59]: Az 59. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+60. § (1) Az állományilletékes parancsnok döntése alapján külszolgálathoz kapcsolódó alkalmasságvizsgálatot lehet végezni a nemzetközi kötelezettségvállalás alapján történő külszolgálat megkezdése előtt. A külszolgálat megkezdése előtt elvégzendő alkalmasságvizsgálat keretében egészségi, pszichológiai, továbbá – ha a hivatásos állomány tagja nem rendelkezik egy éven belüli fizikai alkalmasságvizsgálat tekintetében „Alkalmas” minősítéssel – fizikai alkalmasságvizsgálatot kell végezni.
+
+(2) Az egészségi és pszichológiai vizsgálatokat első és másodfokon a Magyar Honvédség központi egészségügyi szervezete, az összesített minősítés megállapítását a Magyar Honvédség központi egészségügyi szervezetének kijelölt bizottságai végzik. Ha a hivatásos állomány tagja egészségi állapota orvosilag indokolja, a vizsgálatok elvégzéséhez más egészségügyi szakintézet közreműködése is igénybe vehető.
+
+(3) A fizikai alkalmasságvizsgálatot a szolgálati hely sportszakembere végzi. Az alkalmasságvizsgálatok közül először a fizikai alkalmasságvizsgálatot kell végezni. További alkalmasságvizsgálatra az bocsátható, aki a fizikai alkalmasságvizsgálaton „Alkalmas” minősítést kapott.

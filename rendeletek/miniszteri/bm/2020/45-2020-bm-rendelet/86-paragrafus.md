@@ -1,3 +1,27 @@
-## 85. §[^85]
+86. § (1) Az ismételt alkalmasságvizsgálat minősítése lehet
 
-[^85]: A 85. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+a) „Alkalmas”,
+
+b) „Korlátozással alkalmas minősítés meghosszabbítása”,
+
+c) „Ideiglenesen alkalmatlan minősítés meghosszabbítása”,
+
+d) „Alkalmas kategória-váltással” vagy
+
+e) „Alkalmatlan”.
+
+(2) A „Korlátozással alkalmas” és a „Korlátozással alkalmas minősítés meghosszabbítása” minősítések együttes időtartama a 82. § (3) bekezdésében meghatározott időtartamnál hosszabb nem lehet.
+
+(3) Az „Ideiglenesen alkalmatlan” és az „Ideiglenesen alkalmatlan minősítés meghosszabbítása” minősítések együttes időtartama a 83. § (4) bekezdésében meghatározott időtartamnál hosszabb nem lehet.
+
+(4) Az „Alkalmas kategória-váltással” minősítés esetén meg kell határozni azt az alkalmasságvizsgálati kategóriát vagy kategóriákat, amelybe tartozó szolgálati beosztást a hivatásos állomány tagja elláthat.
+
+(5) „Alkalmatlan” minősítés akkor adható, ha a hivatásos állomány tagjának alkalmassága a támogatott időszakot követően nem állt vissza, és egyetlen szolgálati beosztásra sem alkalmas, mert nem tudja teljesíteni a minimumkövetelményeket.
+
+(6) Az (5) bekezdés szerinti esetben a másodfokon megismételt alkalmasságvizsgálat automatikus elrendelésére kell intézkedni.
+
+(7) A másodfokon megismételt alkalmasságvizsgálat „Alkalmatlan” minősítése esetén
+
+a) egészségi alkalmatlanság esetén a felülvizsgálati eljárás szabályai szerint kell eljárni,
+
+b) pszichológiai vagy fizikai alkalmatlanság esetén automatikusan háromfős bizottsági vizsgálatra kerül sor.

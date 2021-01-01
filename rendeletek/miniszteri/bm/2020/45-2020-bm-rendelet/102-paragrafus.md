@@ -1,3 +1,1 @@
-## 101. §[^101]
-
-[^101]: A 101. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 101. § A munkaköri alkalmassági vizsgálatot a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletben foglalt szakmai szabályok alkalmazásával kell végezni.

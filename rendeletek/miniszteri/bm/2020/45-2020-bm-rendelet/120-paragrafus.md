@@ -1,3 +1,7 @@
-## 119. §[^113]
+## lép.
 
-[^113]: A 119. § a 106. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 120. § Hatályát veszti az R2.
+
+a) 25. § (5) bekezdése,
+
+b) 26. § (3) és (4) bekezdésében a „2/2013. BM rendelet szerinti vagy a” szövegrész.
