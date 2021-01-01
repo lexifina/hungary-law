@@ -2,12 +2,12 @@
 
 66. § (1) Ha a forgalmazási engedély megadására, módosítására, vagy kiterjesztésére irányuló kérelmet a forgalmazó visszavonja és a típusvizsgálat a kérelem visszavonása előtt elvégzésre került, a megfizetett igazgatási-szolgáltatási díj nem jár vissza.
 
-(2)[^139] Az igazgatási-szolgáltatási díj nem jár vissza akkor sem, ha a Kormányhivatal a forgalmazás engedélyezése iránti, a módosítás iránti, vagy a kiterjesztés iránti kérelmet elutasítja.
+(2)[^141] Az igazgatási-szolgáltatási díj nem jár vissza akkor sem, ha a Kormányhivatal a forgalmazás engedélyezése iránti, a módosítás iránti, vagy a kiterjesztés iránti kérelmet elutasítja.
 
-(3)[^140] Amennyiben az (1) bekezdésben meghatározott kérelem visszavonásáig a típusvizsgálatra nem került sor, a megfizetett igazgatási-szolgáltatási díj visszatérítéséről a Kormányhivatal gondoskodik.
+(3)[^142] Amennyiben az (1) bekezdésben meghatározott kérelem visszavonásáig a típusvizsgálatra nem került sor, a megfizetett igazgatási-szolgáltatási díj visszatérítéséről a Kormányhivatal gondoskodik.
 
-(4)[^141]
+(4)[^143]
 
-[^139]: A 66. § (2) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^140]: A 66. § (3) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^141]: A 66. § (4) bekezdését a 62/2016. (XII. 29.) NGM rendelet 40. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^141]: A 66. § (2) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^142]: A 66. § (3) bekezdése a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^143]: A 66. § (4) bekezdését a 62/2016. (XII. 29.) NGM rendelet 40. § (3) bekezdés b) pontja hatályon kívül helyezte.

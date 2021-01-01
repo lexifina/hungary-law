@@ -67,11 +67,3 @@ C) Napi forgalmi jelentés (adóügyi bizonylat), amely kizárólag a következ�
 25. „AZ ADÓMEMÓRIA ... ZÁRÁS UTÁN MEGTELIK” (a lehetséges napi zárások feltüntetésével, abban az esetben, ha az adómemória megtelte előtti zárások száma 120, vagy annál kevesebb),
 
 26. „AZ ADÓMEMÓRIA MEGTELT” (abban az esetben, ha az adómemória megtelt),
-
-27. A bizonylat kinyomtatásának kelte (év, hó, nap, óra, perc),
-
-28. „NAV ellenőrző kód” és e rendelet 3. melléket F) pont FD) alcím 9. és 10 pontja szerinti ellenőrző kód,
-
-29. Stilizált AP jel és ennek folytatásaként a pénztárgép 9 jegyű azonosítószáma.
-
-Az adatsorok fenti sorrendje kötelező.
