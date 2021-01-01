@@ -1,4 +1,4 @@
-## dönt. Ha a szociál- és nyugdíjpolitikáért felelős miniszter, illetve az SZGYF a tárgyévi feladatmutató módosítását elfogadja, a finanszírozási szerződést ennek megfelelően módosítani kell.
+## dönt. Ha a szociál- és nyugdíjpolitikáért felelős miniszter, illetve az NSZI a tárgyévi feladatmutató módosítását elfogadja, a finanszírozási szerződést ennek megfelelően módosítani kell.
 
 ## A finanszírozási szerződés megszűnése
 
