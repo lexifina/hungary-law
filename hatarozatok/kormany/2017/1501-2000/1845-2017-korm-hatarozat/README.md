@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1845-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-11-14 | 2017-1845-30-22.1 | 1845/2017. (XI. 14.) Korm. határozat |
+| 2021-01-01 | 2017-1845-30-22.2 | 2011. évi CXCV. törvény |
