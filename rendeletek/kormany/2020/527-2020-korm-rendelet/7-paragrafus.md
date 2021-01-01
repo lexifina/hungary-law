@@ -1,3 +1,3 @@
-## 6. §[^5]
+## 6. § A 410/2012. Korm. rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: A 6. § a 25. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(1) A forgalmi jegyzékben vezetett magyar nemzeti folyószámlán lévő ÜHG-egységeket a miniszter a nemzeti tisztviselő útján tartja nyilván.”
