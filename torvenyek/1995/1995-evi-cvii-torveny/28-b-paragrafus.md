@@ -4,4 +4,4 @@
 
 a) a kérelmező családi és utónevét, és
 
-b) a kérelmező által megadott lakcímet.
+b) a kérelmező által megadott lakcímet vagy értesítési címet.

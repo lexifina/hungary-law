@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-107-00-00
 | 2019-02-01 | 2018. évi CXV. törvény | 1995-107-00-00.29 |
 | 2020-02-01 | 2019. évi CXVI. törvény | 1995-107-00-00.30 |
 | 2020-12-04 | 2020. évi CXXI. törvény | 1995-107-00-00.31 |
+| 2021-01-01 | 2020. évi CXXI. törvény | 1995-107-00-00.32 |

@@ -1,8 +1,8 @@
-28/A. § (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
+28/A. § (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
 
 a) családi és utónevére,
 
-b) lakcímére (székhelyére),
+b) lakcímére vagy értesítési címére,
 
 c) telefonszámára, ha az a kapcsolattartás módja miatt indokolt,
 
