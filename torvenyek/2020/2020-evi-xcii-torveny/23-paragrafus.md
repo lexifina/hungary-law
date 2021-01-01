@@ -1,1 +1,5 @@
-23. §
+23. § A Vht. 132/D. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A végrehajtó az árverési hirdetményt az elektronikus árverési hirdetmények nyilvántartásában teszi közzé; az árverés közhírré tételéhez fűződő jogkövetkezmény a hirdetmény közzétételétől a licitnapló lezárásáig (a továbbiakban: közzétételi időtartam) történő közzétételhez fűződik. Nem tekinthető közzétettnek az árverés, ha az elektronikus árverési hirdetmények nyilvántartása a közzétételi időtartam 10%-át meghaladó időtartamban nem volt elérhető a felhasználók számára. Ha az árverés szakaszainak befejezését megelőző hatvan percen belül nem volt elérhető az elektronikus árverési hirdetmények nyilvántartása a felhasználók számára, az érintett szakasz időtartama hatvan perccel automatikusan meghosszabbodik.
+
+(2) Az árverési hirdetmény a 120. §-ban foglaltak mellett az árverési előleg összegét, az árverés szakaszait és azok időtartamát, illetve az egyes szakaszokhoz tartozó legalacsonyabb vételár összegét, valamint a vételi ajánlat megtételének módját, és a végrehajtói letéti számla számát tartalmazza. Az elektronikus árverési hirdetmények nyilvántartásában a hirdetmény mellett közzé kell tenni az ingóságnak a rendelkezésre álló adatok szerinti leírását és a 132/B. § (1) bekezdés a) és b) pontja szerinti ingóságról készült képfelvételt.”

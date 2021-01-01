@@ -1,1 +1,3 @@
-34. §
+34. § A Vht. 156. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az árverési vevő a vételárat nem fizette meg, második árverést kell tartani. Ezen árverést az első árverés sikertelenségének megállapításától számított 30 napon belül az első árverésre vonatkozó szabályok alkalmazásával ki kell tűzni azzal, hogy a második árverésen az első árverésen legmagasabb ajánlatot tett, de a vételár fizetését elmulasztó árverező nem árverezhet. Az elektronikus árverési rendszer a második árverés kitűzésével egyidejűleg automatikusan törli az ingatlan 155. § (2) bekezdése szerint közzétett adatait az elektronikus árverési hirdetmények nyilvántartásából.”

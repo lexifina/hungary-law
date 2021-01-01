@@ -1,1 +1,11 @@
-29. §
+29. § A Vht. 145/B. §-a helyébe a következő rendelkezés lép:
+
+„145/B. § (1) Az ingatlanárverés az árverési hirdetmény közzétételét követő 60. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart.
+
+(2) Az árverés első szakasza az árverési hirdetmény közzétételét követő 20. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart. Ha az első szakaszban érvényes vételi ajánlat érkezik, az árverés nem lép a következő szakaszába. Ha az árverés első szakaszának befejezését megelőző öt percen belül érvényes vételi ajánlat érkezik, az első szakasz időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik.
+
+(3) Ha az árverés első szakaszában nem érkezik érvényes vételi ajánlat, a rendszer automatikusan továbblép az árverés következő szakaszába, amely az árverési hirdetmény közzétételét követő 40. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart. Ha a második szakaszban érvényes vételi ajánlat érkezik, az árverés nem lép a következő szakaszába. Ha az árverés második szakaszának befejezését megelőző öt percen belül érvényes vételi ajánlat érkezik, a második szakasz időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik.
+
+(4) Ha az árverés második szakaszában nem érkezik érvényes vételi ajánlat, a rendszer automatikusan továbblép az árverés következő szakaszába, amely az árverési hirdetmény közzétételét követő 60. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart. Ha az árverés harmadik szakaszának befejezését megelőző öt percen belül érvényes vételi ajánlat érkezik, a harmadik szakasz időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik.
+
+(5) Az ingatlanárverés befejezésének időpontjában az elektronikus árverési rendszer a licitnaplót automatikusan lezárja és közzéteszi abban a lezárás időpontját, azt, hogy az árverési hirdetmény a közzétételi időtartam hány százalékában volt elérhető a felhasználók számára, és azt a kezdő és befejező időpontot, amelyek között a hirdetmény nem volt elérhető a felhasználók számára.”

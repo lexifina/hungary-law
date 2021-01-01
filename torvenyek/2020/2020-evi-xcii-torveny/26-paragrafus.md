@@ -1,1 +1,3 @@
-26. §
+26. § A Vht. 132/G. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha az árverési vevő a vételárat nem fizette meg a (3) bekezdésben foglaltak szerint, második árverést kell tartani. Ezen árverést az első árverés sikertelenségének megállapításától számított 30 napon belül az első árverésre vonatkozó szabályok alkalmazásával kell megtartani azzal, hogy a második árverésen az első árverésen legmagasabb ajánlatot tett, de a vételár fizetését elmulasztó árverező nem árverezhet. Nem kell megtartani a második árverést, ha az árverési vevő annak megkezdése előtt befizette a vételárat (vagy átutalta és az arról szóló terhelési értesítőt a végrehajtónak bemutatta), továbbá megtérítette a második árverés kitűzésével felmerült költséget; ilyenkor az utólag megfizetett vételárba nem lehet beszámítani a (3) bekezdés alapján elvesztett előleget.”
