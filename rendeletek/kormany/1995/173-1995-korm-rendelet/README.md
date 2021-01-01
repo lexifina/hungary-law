@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-173-20-
 | 2019-01-01 | 1995-173-20-22.44 | 240/2018. (XII. 12.) Korm. rendelet |
 | 2020-01-01 | 1995-173-20-22.45 | 300/2019. (XII. 11.) Korm. rendelet |
 | 2020-10-22 | 1995-173-20-22.46 | 461/2020. (X. 21.) Korm. rendelet |
+| 2021-01-01 | 1995-173-20-22.47 | 538/2020. (XII. 2.) Korm. rendelet |
