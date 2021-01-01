@@ -15,3 +15,5 @@ b) az adóst, adóstársat és az eljárásban vagyonával részt vevő egyéb k
 (5) A (2) bekezdés b) pont szerinti határidő leteltét követően a befizetés megtörténtéről, illetve annak elmaradásáról a családi vagyonfelügyelő 15 napon belül, a záró beszámoló módosításának előterjesztésével értesíti a bíróságot. A bíróság akkor hoz mentesítő határozatot, ha a befizetési kötelezettség teljesítés megtörtént.
 
 (6) Az adósságtörlesztés meghosszabbítása és a mentesítés tárgyában hozott végzés ellen fellebbezésnek van helye.
+
+(7) Az adóst mentesítő bírósági végzés jogerőre emelkedésével a felfüggesztett végrehajtási eljárás e törvény erejénél fogva megszűnik. A végzést a bíróság megküldi a végrehajtást foganatosító szervnek.

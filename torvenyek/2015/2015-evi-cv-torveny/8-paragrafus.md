@@ -1,6 +1,6 @@
 8. § (1) Nem kezdeményezhet adósságrendezési eljárást az adós, adóstárs, ha
 
-a) az adósságrendezés kezdeményezését megelőző tíz éven belül az ő vagy a vele jelzáloghitel tekintetében egyetemlegesen kötelezett adóstárs érdekkörébe eső okból került sor bírósági adósságrendezés iránti kérelem jogerős elutasítására [ide nem értve a 33. § a), c) d) és e) pontja szerinti eseteket] vagy bírósági adósságrendezési eljárás megszüntetésére, vagy
+a) az adósságrendezés kezdeményezését megelőző tíz éven belül az ő vagy a vele jelzáloghitel tekintetében egyetemlegesen kötelezett adóstárs érdekkörébe eső okból került sor bírósági adósságrendezés iránti kérelem jogerős elutasítására vagy bírósági adósságrendezési eljárás megszüntetésére, vagy
 
 b) az adósságrendezés kezdeményezését megelőző tíz éven belül az érdekkörébe eső okból rá vonatkozóan vagy a vele jelzáloghitel tekintetében egyetemlegesen kötelezett adóstársra vonatkozóan a bíróságon kívüli adósságrendezés sikertelen kezdeményezése tényének az ARE nyilvántartásba történő jogerős bejegyzésére került sor, vagy a bíróságon kívüli adósságrendezés lefolytatására a törvényben előírt együttműködési kötelezettség vagy a szabályok megszegése miatt nem került sor,
 

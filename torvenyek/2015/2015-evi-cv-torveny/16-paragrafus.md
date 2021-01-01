@@ -12,7 +12,7 @@ c) a bíróságon kívüli adósságrendezés sikertelen kezdeményezése eseté
 
 d) a bíróságon kívüli adósságrendezés sikertelen lefolytatása esetén ezt a tényt, a főhitelező erről szóló értesítésének dátumát, az adós, adóstárs természetes személyazonosító adatait, lakcímét, a főhitelező nevét, székhelyét,
 
-e) a bíróságon kívüli sikeres adósságrendezés esetén ennek tényét, a főhitelező erről szóló értesítésének dátumát, az adós természetes személyazonosító adatait, lakcímét, a főhitelező nevét, székhelyét, a hitelezőkkel kötött megállapodás szövegét,
+e) a bíróságon kívüli sikeres adósságrendezés esetén ennek tényét, a főhitelező erről szóló értesítésének dátumát, az adós természetes személyazonosító adatait, lakcímét, a főhitelező nevét, székhelyét, a hitelezőkkel kötött megállapodás és a megállapodás módosításának szövegét,
 
 f) a bírósági adósságrendezés elrendelésének elutasítása esetén ezt a tényt, a bíróság nevét, székhelyét, a jogerős bírósági végzés keltét, ügyszámát, a jogerőre emelkedés napját, az adós természetes személyazonosító adatait, lakcímét,
 
