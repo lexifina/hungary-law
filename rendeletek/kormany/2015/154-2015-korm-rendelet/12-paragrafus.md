@@ -4,8 +4,8 @@
 
 (3) A 11. § (1) bekezdés a) vagy b) pontja szerinti áthelyezésre a kiemelt vezetői vagy középvezetői szolgálati beosztásból a miniszter, más szolgálati beosztásból az országos parancsnok jogosult.
 
-(4)[^5] Az áthelyezési parancsot az átvevő szerv részére meg kell küldeni.
+(4)[^8] Az áthelyezési parancsot az átvevő szerv részére meg kell küldeni.
 
 (5) A hivatásos állomány tagja szolgálati viszonyának az eredeti rendvédelmi szervnél történő megszűnésével kapcsolatos eljárásra egyebekben a Hszt. 99. §-ában foglaltak az irányadók.
 
-[^5]: A 12. § (4) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 79. §-ával megállapított szöveg.
+[^8]: A 12. § (4) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 79. §-ával megállapított szöveg.

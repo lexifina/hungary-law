@@ -18,4 +18,6 @@ d) a juttatások, járandóságok viseléséről.
 
 (5) A 15. § (3) bekezdésének a Hszt. 62. § (2) bekezdésében meghatározott időtartamra utaló rendelkezése, valamint a 19. § (1) bekezdése a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylés esetében nem alkalmazható.
 
-(6) A Nemzeti Adó- és Vámhivatal hivatásos állománya tekintetében a (2) és (3) bekezdés vonatkozásában a rendelkezést a miniszter helyett a kiemelt munkáltatói jogkör gyakorlója tekintetében kell alkalmazni.
+(6)[^14]
+
+[^14]: A 23. § (6) bekezdését a 671/2020. (XII. 28.) Korm. rendelet 32. § f) pontja hatályon kívül helyezte.

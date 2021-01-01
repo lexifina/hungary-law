@@ -1,4 +1,4 @@
-## 20. §[^9]
+## 20. §[^13]
 
 21. § (1) A más szervhez vezényeltet – a szolgálati viszonyából eredően – a más szervhez vezénylésének tartamára az alábbi kötelezettségek terhelik:
 
@@ -12,4 +12,4 @@ c) a szolgálati viszonnyal összefüggő egészségi, pszichikai és fizikai al
 
 (3) A fogadó szerv köteles a más szervhez vezényelt részére biztosítani az (1) bekezdés a) és c) pontja szerinti kötelezettségek teljesítéséhez szükséges szabadidőt.
 
-[^9]: A 20. §-t a 394/2015. (XII. 12.) Korm. rendelet 9. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 20. §-t a 394/2015. (XII. 12.) Korm. rendelet 9. § (3) bekezdés a) pontja hatályon kívül helyezte.

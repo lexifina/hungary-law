@@ -4,9 +4,9 @@
 
 (2) A külföldre vezényléshez történő beleegyezésről, valamint a Hszt. 69. § (4) bekezdésében meghatározott tájékoztatás tudomásulvételéről a hivatásos állomány tagja a vezénylést megelőzően írásban nyilatkozik.
 
-(3)[^14] A hivatásos állomány tagja a külföldre vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeni ellátásra
+(3)[^20] A hivatásos állomány tagja a külföldre vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeni ellátásra
 
-a)[^15] a Hszt. 69. § (1) bekezdés a), b), d) vagy e) pontja alapján történő külföldre vezénylés esetén – a b) pontban foglaltak kivételével – a 11/A. alcímben,
+a)[^21] a Hszt. 69. § (1) bekezdés a), b), d) vagy e) pontja alapján történő külföldre vezénylés esetén – a b) pontban foglaltak kivételével – a 11/A. alcímben,
 
 b) az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés esetén a 12. alcímben,
 
@@ -14,8 +14,8 @@ c) a Hszt. 69. § (1) bekezdés c) pontja alapján történő külföldre vezén
 
 ## meghatározottak szerint jogosult.
 
-(4)[^16] A Nemzeti Adó- és Vámhivatal hivatásos állományának miniszter által történő külföldre vezénylése esetén a miniszter a külföldre vezénylést az állami adó- és vámhatóság vezetője véleményének bekérését követően rendeli el. Az állami adó- és vámhatóság vezetőjének véleménye nem köti a minisztert.
+(4)[^22]
 
-[^14]: A 32. § (3) bekezdése a 442/2015. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^15]: A 32. § (3) bekezdés a) pontja a 272/2018. (XII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^16]: A 32. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 49. § a) és b) pontja szerint módosított szöveg.
+[^20]: A 32. § (3) bekezdése a 442/2015. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: A 32. § (3) bekezdés a) pontja a 272/2018. (XII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^22]: A 32. § (4) bekezdését a 671/2020. (XII. 28.) Korm. rendelet 32. § h) pontja hatályon kívül helyezte.

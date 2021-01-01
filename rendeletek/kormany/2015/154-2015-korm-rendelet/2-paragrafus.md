@@ -1,1 +1,3 @@
-## 1. § A 4–9. §, a 12. § (2)–(4) bekezdésének, a 32. § (1) bekezdésének, valamint a 66–72. § hatálya a Nemzeti Adó- és Vámhivatal hivatásos állományára nem terjed ki.
+## 1. §[^1]
+
+[^1]: Az 1. §-t a 671/2020. (XII. 28.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.

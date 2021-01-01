@@ -8,4 +8,6 @@ b) a hivatásos állomány tagja pályázattal oktatói, nevelői vagy oktatáss
 
 (2) Ha a vezénylés az (1) bekezdésben nem említett munkakörbe történik, a vezénylésre a 15–22. §-t értelemszerűen alkalmazni kell.
 
-(3) A Nemzeti Adó- és Vámhivatal hivatásos állománya tekintetében az (1) bekezdésben foglaltakat a miniszter helyett a kiemelt munkáltatói jogkör gyakorlója vonatkozásában kell alkalmazni.
+(3)[^17]
+
+[^17]: A 30. § (3) bekezdését a 671/2020. (XII. 28.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.

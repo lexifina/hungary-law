@@ -12,7 +12,7 @@ c) vérszerinti, örökbefogadott, nevelt vagy mostohagyermeke addig, amíg a ne
 
 2. harmadik ország: olyan állam, amely nem tagállama az Európai Uniónak;
 
-3. kihelyező elöljáró: a miniszter, a Nemzeti Adó- és Vámhivatal hivatásos állománya esetében a kiemelt munkáltatói jogkör gyakorlója;
+3.[^29] kihelyező elöljáró: a miniszter;
 
 4. kihelyező szerv: az a rendvédelmi szerv, amelynek állományába a hivatásos állomány tagja tartozik;
 
@@ -21,3 +21,5 @@ c) vérszerinti, örökbefogadott, nevelt vagy mostohagyermeke addig, amíg a ne
 6. összekötő tiszt: a rendvédelmi szerv hivatásos állományának tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó tagja, akit a külföldi állomáshelyre tartós külszolgálatra külföldre vezényeltek, és akinek feladata, hogy a kihelyező szervet képviselve kapcsolatot tartson az adott állam bűnüldöző szerveivel, uniós ügynökséggel, intézménnyel vagy nemzetközi szervezettel abból a célból, hogy hozzájáruljon a bűncselekmények megelőzéséhez vagy nyomozásához a közvetlen, gyors és hatékony, valamint a nemzeti rendszerbe illeszthető együttműködés biztosítása révén;
 
 7. tartós külszolgálat: az a külföldi állomáshelyen teljesített szolgálat, amelynek tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
+
+[^29]: A 33. § 3. pontja a 671/2020. (XII. 28.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.
