@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-510-20-
 | 2020-01-01 | 2017-510-20-22.3 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2017-510-20-22.4 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-06-08 | 2017-510-20-22.5 | 193/2020. (V. 8.) Korm. rendelet |
+| 2021-01-01 | 2017-510-20-22.6 | 713/2020. (XII. 30.) Korm. rendelet |

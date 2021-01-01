@@ -4,6 +4,6 @@
 
 46. § (1) Ez a rendelet 2018. január 1. napján lép hatályba.
 
-(2)[^4]
+(2)[^5]
 
-[^4]: A 46. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 46. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
