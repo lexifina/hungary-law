@@ -32,7 +32,7 @@ o) 56/A. § (1) bekezdésében az „az 56. § (7) bekezdés f) pontja szerinti 
 
 p) 65. § h) pontjában a „halfogásra alkalmas” szövegrész helyébe a „halfogásra alkalmas vagy halfogási célt szolgáló”,
 
-q) 67. § (3) bekezdésében az „ötszázezer” szövegrész helyébe a „kettőmillió”,
+q)
 
 r) 72. § (1) bekezdés 23. pontjában az „országos rendjét” szövegrész helyébe az „országos szabályait”,
 
