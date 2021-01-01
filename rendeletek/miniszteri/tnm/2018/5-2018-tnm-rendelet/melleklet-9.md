@@ -1,4 +1,4 @@
-9. melléklet az 5/2018. (XII. 21.) TNM rendelethez
+9. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^19]
 
 ## A külhoni és diaszpórában élő magyarság hitéleti tevékenységének támogatására vonatkozó kérelem adattartalma
 
@@ -14,13 +14,13 @@
 
 6. Támogatásban részesülő személyek száma:
 
-ebből
+Ebből
 
 6.1. Támogatásban részesülő egyházi személyek száma:
 
 6.2. Támogatásban részesülő egyéb személyek száma:
 
-7. Támogatásból ellátott földrajzi terület megnevezése:
+7. Támogatásból ellátott földrajzi terület (ország) megnevezése:
 
 8. Támogatási igény összege:
 
@@ -30,8 +30,10 @@ Kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
 
 Kelt ....................................................................
 
-.................................................................... ....................................................................
+| .................................................................... | .................................................................... |
 
-az egyház neve képviselő aláírása
+| az egyház neve | képviselő aláírása |
 
 P. H.
+
+[^19]: A 9. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés h) pontjával megállapított szöveg.

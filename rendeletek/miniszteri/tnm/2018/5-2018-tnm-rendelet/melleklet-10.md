@@ -1,4 +1,4 @@
-10. melléklet az 5/2018. (XII. 21.) TNM rendelethez
+10. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^20]
 
 ## A külhoni és diaszpórában élő magyarság hitéleti tevékenységének támogatásának felhasználásáról szóló beszámoló adattartalma
 
@@ -14,13 +14,13 @@
 
 6. Támogatásban részesülő személyek száma:
 
-ebből
+Ebből
 
 6.1. Támogatásban részesülő egyházi személyek száma:
 
 6.2. Támogatásban részesülő egyéb személyek száma:
 
-7. Támogatásban részesülő egyházi személyek által ellátott földrajzi terület megnevezése:
+7. Támogatásban részesülő egyházi személyek által ellátott földrajzi terület (ország) megnevezése és az egyes országokba irányuló támogatás részösszege:
 
 8. A programokkal elért magyarok becsült létszáma:
 
@@ -36,7 +36,7 @@ Ebből:
 
 10.3. Anyagköltségre fordított összeg:
 
-10.4. Igénybevett szolgáltatásra fordított összeg:
+10.4. Igénybe vett szolgáltatásra fordított összeg:
 
 10.5. Felújításra, beruházásra fordított összeg:
 
@@ -48,8 +48,10 @@ Tudomásul veszem, hogy a támogató a megvalósulást ellenőrizheti.
 
 Kelt ....................................................................
 
-.................................................................... ....................................................................
+| .................................................................... | .................................................................... |
 
-az egyház neve képviselő aláírása
+| az egyház neve | képviselő aláírása |
 
 P. H.
+
+[^20]: A 10. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés i) pontjával megállapított szöveg.

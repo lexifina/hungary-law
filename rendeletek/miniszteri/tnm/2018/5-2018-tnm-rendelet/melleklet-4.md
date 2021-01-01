@@ -1,6 +1,6 @@
-4. melléklet az 5/2018. (XII. 21.) TNM rendelethez
+4. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^12]
 
-## Az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás elszámolása (zsidó temetők fenntartása, felújítása)
+## Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás beszámoló (zsidótemetők fenntartása, felújítása)
 
 1. Az egyház megnevezése:
 
@@ -22,7 +22,7 @@ Ebből:
 
 5.4. Felújításra fordított összeg:
 
-5.5. Igénybevett szolgáltatásra fordított összeg:
+5.5. Igénybe vett szolgáltatásra fordított összeg:
 
 Kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
 
@@ -30,8 +30,10 @@ Tudomásul veszem, hogy a támogató a megvalósulást ellenőrizheti.
 
 Kelt ....................................................................
 
-.................................................................... ....................................................................
+| .................................................................... | .................................................................... |
 
-az egyház neve képviselő aláírása
+| az egyház neve | képviselő aláírása |
 
 P. H.
+
+[^12]: A 4. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés c) pontjával megállapított szöveg.
