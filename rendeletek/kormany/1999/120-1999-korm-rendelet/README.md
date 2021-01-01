@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-120-20-
 | 2015-04-01 | 1999-120-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-10-01 | 1999-120-20-22.10 | 232/2016. (VII. 29.) Korm. rendelet |
 | 2018-01-01 | 1999-120-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2021-01-01 | 1999-120-20-22.12 | 706/2020. (XII. 30.) Korm. rendelet |

@@ -1,4 +1,4 @@
-15. §[^38]
+15. §[^39]
 
 Melléklet a 120/1999. (VIII. 6.) Korm. rendelethez
 
@@ -66,7 +66,7 @@ II. Folyó- és tószabályozási művek, folyómedrek
 
 7. A hajóút parti és úszó kitűző jelei láthatóságának, működőképességének biztosítása, azok cseréje, és a vízállás változása vagy a meder módosulása esetén az esetleges áthelyezése.
 
-III.[^39] Vízfolyások, csatornák, tározók
+III.[^40] Vízfolyások, csatornák, tározók
 
 1. A medreknek az engedélyezési terv szerinti rendezett állapota kialakításának keretében:
 
@@ -112,7 +112,7 @@ IV. Szivattyútelepek, szivattyúállások, zsilipek
 
 4. Korrózióvédelem.
 
-5.[^40] Az öntözőrendszerek és felszíni vízelvezető főcsatornák fővízkivételénél, valamint a vízátadó helyeken a vízmennyiség mérése a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendelet szerinti módon és a mérési eredmények nyilvántartása.
+5.[^41] Az öntözőrendszerek és felszíni vízelvezető főcsatornák fővízkivételénél, valamint a vízátadó helyeken a vízmennyiség mérése a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendelet szerinti módon és a mérési eredmények nyilvántartása.
 
 V. Hírközlő és adatgyűjtő rendszerek
 
@@ -126,6 +126,6 @@ VI. Műszaki tervezés
 
 Fenntartási munkák műszaki terveinek elkészítése, ezekhez állapotfelvételek, térképek készítése.
 
-[^38]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte.
-[^39]: A melléklet III. fejezete a 232/2016. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^40]: A melléklet IV. fejezet 5. pontját a 232/2016. (VII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^39]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte.
+[^40]: A melléklet III. fejezete a 232/2016. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^41]: A melléklet IV. fejezet 5. pontját a 232/2016. (VII. 29.) Korm. rendelet 3. §-a iktatta be.

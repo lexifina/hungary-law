@@ -32,6 +32,8 @@ d) élővilág-védelmi szempontból a parti sáv élővilágát, valamint a hal
 
 e)[^18] a kulturális örökségi értékeket.
 
+(10)[^19] A közcélú fenntartás során a mederből kitermelt ásványi anyag nem vízgazdálkodási célú hasznosítása, vagy értékesítése esetén a bányajáradékot a hasznosító vagy a vevő fizeti meg.
+
 [^9]: A 6. § (1) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^10]: A 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 75. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^11]: A 6. § (3) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 76. § a)–b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
@@ -42,3 +44,4 @@ e)[^18] a kulturális örökségi értékeket.
 [^16]: A 6. § (8) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^17]: 46/1999. (III. 18.) Korm. r.
 [^18]: A 6. § (9) bekezdésének e) pontját a 190/2001. (X. 18.) Korm. rendelet 4. §-ának (4) bekezdése iktatta a szövegbe.
+[^19]: A 6. § (10) bekezdését a 706/2020. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
