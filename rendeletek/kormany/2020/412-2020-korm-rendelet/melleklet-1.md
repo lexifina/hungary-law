@@ -1,4 +1,4 @@
-## 44. §[^1]
+## 44. §[^2]
 
 1. melléklet a 412/2020. (VIII. 30.) Korm. rendelethez
 
@@ -208,4 +208,4 @@ Az 1.2. pont szerinti jellegtervnek olyannak kell lennie, amelyből egyértelmű
 
 12.5. a vasúti járműre vonatkozó, 1984. július 1-jét megelőzően készült, a vasúti jármű forgalomba helyezésének, üzembehelyezésének alapjául szolgáló iratok másolatait, 2 példányban (műszaki leírás, jellegterv, jegyzőkönyv, futópróba jegyzőkönyv, bizonylat stb.).
 
-[^1]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
