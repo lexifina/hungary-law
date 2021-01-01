@@ -1,26 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) és (2) bekezdésében biztosított jogkörében eljárva
-
-## a) elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben a 24. A polgármesteri béremelés különbözetének támogatása cím létrehozását,
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## b) elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 24. A polgármesteri béremelés különbözetének támogatása cím javára 10,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását,
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## c) a polgármesteri béremelés hatásának kompenzálására, a helyi önkormányzatok működőképességének megőrzése érdekében felhívja a nemzetgazdasági minisztert, hogy gondoskodjék további 2789,3 millió forint összegű költségvetési forrás rendelkezésre állásáról;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. egyetért azzal, hogy a belügyminiszter az 1. pont b) és c) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül nyújtson mindösszesen 2799,3 millió forint támogatást a 2. mellékletben megjelölt önkormányzatoknak az ott meghatározott összegben a megemelkedett polgármesteri illetmények és tiszteletdíjak rendezéséhez, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről – a 3. pontban meghatározott elvek alapján – támogatói okiratot bocsásson ki az érintett önkormányzatok részére;
 
@@ -46,4 +24,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1264/2017. (V. 29.) Korm. határozathoz
+1. melléklet az 1264/2017. (V. 29.) Korm. határozathoz[^2]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
