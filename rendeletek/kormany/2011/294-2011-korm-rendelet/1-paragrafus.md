@@ -2,7 +2,7 @@
 
 a) a munkáltató az önkéntes tartalékos munkavállalója után,
 
-b) az egyéni vállalkozókról és az egyéni cégekről szóló 2009. évi CXV. törvény hatálya alá tartozó egyéni vállalkozó, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18. pontja szerinti mezőgazdasági őstermelő.
+b)[^2] az egyéni vállalkozókról és az egyéni cégekről szóló 2009. évi CXV. törvény hatálya alá tartozó egyéni vállalkozó, továbbá a családi gazdaságokról szóló 2020. évi CXXIII. törvény szerinti mezőgazdasági őstermelő.
 
 (2) Az önkéntes tartalékost foglalkoztató munkáltató kompenzációjának mértéke a Központi Statisztikai Hivatal által utoljára publikált féléves, vagy éves ágazati bruttó átlagkereseti adatok alapján számított napi összeg. A számításhoz a munkáltató statisztikai számjele szerinti nemzetgazdasági ágazat bruttó átlagkereseti adatát kell figyelembe venni.
 
@@ -21,3 +21,4 @@ b) az egyéni vállalkozókról és az egyéni cégekről szóló 2009. évi CXV
 (9) A munkáltatót megillető kompenzáció kifizetése utólagos finanszírozással történik.
 
 [^1]: Az 1. § (1) bekezdése a 265/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 665/2020. (XII. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
