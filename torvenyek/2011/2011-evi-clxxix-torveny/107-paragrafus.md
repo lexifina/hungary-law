@@ -6,7 +6,7 @@ a) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimer�
 
 b) akinek a gazdasági társaságokról szóló törvény rendelkezései alapján a felszámolás során ki nem elégített követelésekért a bíróság jogerősen megállapította a felelősségét, és a bírósági határozat szerinti helytállási kötelezettségét nem teljesítette,
 
-c) akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek,
+c) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek,
 
 d) aki a valóságnak nem megfelelő vagyonnyilatkozatot tett.
 
