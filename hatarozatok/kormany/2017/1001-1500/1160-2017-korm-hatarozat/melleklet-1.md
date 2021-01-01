@@ -12,17 +12,7 @@
 
 ## Határidő: a forrás rendelkezésre állását, továbbá – ahol értelmezhető – a bérmegállapodások hatálybalépését követően azonnal
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet
-
-## a) XVII. Nemzeti Fejlesztési Minisztérium fejezet, 21. Központi kezelésű előirányzatok cím, 3. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások alcímét a 6. Az NFM tulajdonosi joggyakorlása alá tartozó társaságok bérfejlesztésének ellentételezése jogcímcsoporttal,
-
-## b) XVII. Nemzeti Fejlesztési Minisztérium fejezet, 21. Központi kezelésű előirányzatok cím, 4. Az MFB Zrt. rábízott vagyonába tartozó tulajdonosi joggyakorlással kapcsolatos kiadások alcímét a 4. Az MFB Zrt. tulajdonosi joggyakorlása alá tartozó társaságok bérfejlesztésének ellentételezése jogcímmel egészíti ki;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 4.[^1]
 
 ## 5. felhívja a nemzetgazdasági minisztert, hogy – a nemzeti fejlesztési miniszterrel együttműködve – az 1. és 2. pontban meghatározottak megvalósítása érdekében gondoskodjon
 
@@ -213,3 +203,5 @@ A bérfejlesztéssel érintett gazdasági társaságok, valamint azok forrásig�
 | 80 | ZÁHONY-PORT Záhonyi Logisztikai és Rakománykezelési Szolgáltató Zártkörűen Működő Részvénytársaság | 97 899 |
 
 | 81 | Mindösszesen | 40 460 122 |
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
