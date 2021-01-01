@@ -1,3 +1,1 @@
-## 14. §[^15]
-
-[^15]: A 14. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 14. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: R3.) 26/A. (4) bekezdésében az „olyan pedagógiai intézkedéseket” szövegrész helyébe az „olyan, az iskolai lemorzsolódás megelőzését támogató pedagógiai rendszerben megvalósuló pedagógiai intézkedéseket” szöveg lép.
