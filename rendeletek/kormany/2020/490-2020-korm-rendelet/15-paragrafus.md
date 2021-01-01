@@ -1,0 +1,3 @@
+15. § (1) Az elemi rehabilitációs szolgáltatónak rendelkeznie kell a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott és az általa irányított minisztérium honlapján közzétett helyiségekkel, tárgyi és terápiás eszközökkel, valamint az államháztartás központi alrendszeréből nyújtott támogatás (a továbbiakban: támogatás) igénybevételére irányuló pályázati kiírásban meghatározott egyéb eszközökkel.
+
+(2) Az elemi rehabilitációs szolgáltatónak biztosítania kell, hogy az irodahelyiségben több ügyfél egyidejű ügyintézése elkülönítetten, a személyes adatok és a magántitok védelmére alkalmas módon történhessen.

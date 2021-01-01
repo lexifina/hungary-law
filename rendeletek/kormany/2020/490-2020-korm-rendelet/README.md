@@ -1,0 +1,9 @@
+# 490/2020. (XI. 11.) Korm. rendelet
+
+a látássérült személyek számára biztosított elemi rehabilitációs szolgáltatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-490-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-01-01 | 2020-490-20-22.1 | 490/2020. (XI. 11.) Korm. rendelet |
