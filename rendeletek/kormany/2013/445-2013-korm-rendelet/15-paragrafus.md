@@ -2,7 +2,7 @@
 
 15. § (1) A harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő foglalkoztatásához nincs szükség engedélyre:
 
-1.[^55] nemzetközi szerződés, törvény vagy kormányrendelet ilyen tartalmú rendelkezése esetén,
+1.[^56] nemzetközi szerződés, törvény vagy kormányrendelet ilyen tartalmú rendelkezése esetén,
 
 2. a külföldi székhellyel rendelkező gazdasági társaság – nemzetközi szerződés által meghatározott – fiók és képviselet vezetőjeként történő munkavégzéséhez,
 
@@ -14,9 +14,9 @@
 
 6. a harmadik országban honos vállalkozással kötött magánjogi szerződés alapján történő – alkalmanként harminc napos időtartamon belül a tizenöt munkanapot meg nem haladó – üzembe helyezési, szavatossági, szervizelési és jótállási tevékenység elvégzéséhez,
 
-7.[^56] Magyarország kivételével az EGT-megállapodásban részes valamely államban letelepedett munkáltató által határon átnyúló szolgáltatásnyújtás teljesítése keretében kiküldetés, kirendelés útján magyarországi foglalkoztatónál magánjogi szerződés teljesítése érdekében történő munkavégzéshez,
+7.[^57] Magyarország kivételével az EGT-megállapodásban részes valamely államban letelepedett munkáltató által határon átnyúló szolgáltatásnyújtás teljesítése keretében kiküldetés, kirendelés útján magyarországi foglalkoztatónál magánjogi szerződés teljesítése érdekében történő munkavégzéshez,
 
-8.[^57] Magyarország kivételével az EGT-megállapodásban részes valamely államban letelepedett munkaerő-kölcsönzési tevékenységet folytató vállalkozás mint munkáltató által kölcsönzött munkavállaló magyarországi foglalkoztatónál munkaerő-kölcsönzés keretében történő munkavégzéséhez,
+8.[^58] Magyarország kivételével az EGT-megállapodásban részes valamely államban letelepedett munkaerő-kölcsönzési tevékenységet folytató vállalkozás mint munkáltató által kölcsönzött munkavállaló magyarországi foglalkoztatónál munkaerő-kölcsönzés keretében történő munkavégzéséhez,
 
 9. a külföldi részesedéssel rendelkező gazdasági társaság vezető tisztségviselőjeként, valamint felügyelő bizottsági tagjaként történő munkavégzéshez,
 
@@ -26,7 +26,7 @@
 
 12. a Magyarország területén működő szakiskolával, középiskolával, alapfokú művészeti iskolával, felsőoktatási intézménnyel nappali tagozatos tanulói, illetve hallgatói jogviszonyban álló személynek a jogviszony fennállása alatt történő munkavégzéséhez,
 
-13.[^58] az oktatási intézményekben, idegen nyelven történő olyan oktatási tevékenységhez, amelyre – az oktatásért felelős miniszter vagy a szakképzésért felelős miniszter igazolása szerint – az érintett államok illetékes miniszterei által aláírt nemzetközi oktatási program keretében kerül sor,
+13.[^59] az oktatási intézményekben, idegen nyelven történő olyan oktatási tevékenységhez, amelyre – az oktatásért felelős miniszter vagy a szakképzésért felelős miniszter igazolása szerint – az érintett államok illetékes miniszterei által aláírt nemzetközi oktatási program keretében kerül sor,
 
 14. a bevett egyház belső szabályában meghatározott, az egyházi jogi személy szolgálatában álló, egyházi szolgálatot sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban teljesítő természetes személy (egyházi személy) tevékenységéhez,
 
@@ -44,23 +44,25 @@
 
 21. a hivatásos sportolónak munkavégzés keretében folytatott sporttevékenységéhez, és az edző sporttevékenységre való felkészítő tevékenységéhez,
 
-22.[^59] az 1999. évi CXVII. törvénnyel kihirdetett, az Észak-Atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló 1951. június 19-én Londonban kelt Megállapodás (a továbbiakban: NATO-SOFA Megállapodás) részes államainak a NATO-SOFA Megállapodás I. Cikk 1. pont a) és b) alpontjában meghatározott és Magyarország területén szolgálati célból tartózkodó fegyveres ereje és polgári állománya tagjai közeli hozzátartozóinak munkavégzéséhez,
+22.[^60] az 1999. évi CXVII. törvénnyel kihirdetett, az Észak-Atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló 1951. június 19-én Londonban kelt Megállapodás (a továbbiakban: NATO-SOFA Megállapodás) részes államainak a NATO-SOFA Megállapodás I. Cikk 1. pont a) és b) alpontjában meghatározott és Magyarország területén szolgálati célból tartózkodó fegyveres ereje és polgári állománya tagjai közeli hozzátartozóinak munkavégzéséhez,
 
 23. a Harmtv. 19. §-ában meghatározott családegyesítő családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel rendelkező és legalább egy éve jogszerűen Magyarország területén tartózkodó családtagjának, feltéve, hogy a családegyesítő engedély nélkül foglalkoztatható, valamint
 
 24. a menekültként, oltalmazottként elismert személy családtagjának, vagy a menekültként elismert kísérő nélküli kiskorú esetén szülőjének, ennek hiányában gyámjának, feltéve, hogy a családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel rendelkezik,
 
-25.[^60] a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (4) bekezdés b) pontja alapján közfoglalkoztatottként foglalkoztatható természetes személy közfoglalkoztatási jogviszony keretében történő munkavégzéséhez,
+25.[^61] a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (4) bekezdés b) pontja alapján közfoglalkoztatottként foglalkoztatható természetes személy közfoglalkoztatási jogviszony keretében történő munkavégzéséhez,
 
-26.[^61] olyan harmadik országbeli állampolgárnak a miniszter közleményében meghatározott foglalkozásokban történő magyarországi foglalkoztatásához – ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is –, aki Magyarországgal szomszédos harmadik ország állampolgára, és lakóhelye ebben a szomszédos harmadik országban van,[^62]
+26.[^62] olyan harmadik országbeli állampolgárnak a miniszter közleményében meghatározott foglalkozásokban történő magyarországi foglalkoztatásához – ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is –, aki Magyarországgal szomszédos harmadik ország állampolgára, és lakóhelye ebben a szomszédos harmadik országban van,[^63]
 
-27.[^63] ha a harmadik országbeli állampolgár az első tagállam illetékes hatósága által kiállított, vállalaton belül áthelyezett személy számára szóló, érvényes engedéllyel rendelkezik és a magyarországi foglalkoztatása olyan magyarországi fogadó szervezetnél valósul meg, amely az első tagállam illetékes hatósága által kiállított engedélyben meghatározott vállalkozáshoz vagy vállalkozáscsoporthoz tartozik és a magyarországi foglalkoztatás bármely 180 napos időtartamon belül nem haladja meg a 90 napot.
+27.[^64] ha a harmadik országbeli állampolgár az első tagállam illetékes hatósága által kiállított, vállalaton belül áthelyezett személy számára szóló, érvényes engedéllyel rendelkezik és a magyarországi foglalkoztatása olyan magyarországi fogadó szervezetnél valósul meg, amely az első tagállam illetékes hatósága által kiállított engedélyben meghatározott vállalkozáshoz vagy vállalkozáscsoporthoz tartozik és a magyarországi foglalkoztatás bármely 180 napos időtartamon belül nem haladja meg a 90 napot.
+
+28.[^65] ha a harmadik országbeli állampolgár a Kilépési Megállapodás 26. cikke szerint, határ menti ingázó munkavállalóként kérelmezi a tartózkodási engedélyt.
 
 (2) Az (1) bekezdésben meghatározott mentesség nem vonatkozik a harmadik országbeli állampolgárnak a mentesség alá eső tevékenységét meghaladó munkavégzésére.
 
 (3) Az (1) bekezdés 3. és 5. pontjában meghatározott viszonosság fennállásának tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-(3a)[^64] Az (1) bekezdés 26. pontja alapján a miniszter évente március 31-éig közleményben állapítja meg azokat a foglalkozásokat, amelyekre
+(3a)[^66] Az (1) bekezdés 26. pontja alapján a miniszter évente március 31-éig közleményben állapítja meg azokat a foglalkozásokat, amelyekre
 
 a) a benyújtott munkaerőigények alapján a járási hivatalok országosan, megyei szinten vagy járási szinten
 
@@ -70,21 +72,22 @@ ab) azért nem tudnak megfelelő létszámú munkaerőt közvetíteni, mert röv
 
 b) a munkaerőigényt szomszédos országbeli állampolgárokkal lehet hatékonyan biztosítani.
 
-(3b)[^65] A miniszter a (3a) bekezdés szerinti közleményt hivatalos lapban teszi közzé.
+(3b)[^67] A miniszter a (3a) bekezdés szerinti közleményt hivatalos lapban teszi közzé.
 
-(3c)[^66] Az (1) bekezdés 27. pontjában meghatározott mentesség feltétele, hogy az idegenrendészeti hatóság a magyarországi foglalkoztatásról az illetékes járási hivatalt tájékoztassa.
+(3c)[^68] Az (1) bekezdés 27. és 28. pontjában meghatározott mentesség feltétele, hogy az idegenrendészeti hatóság a magyarországi foglalkoztatásról az illetékes kormányhivatalt tájékoztassa.
 
 (4) A mentesség alapjául szolgáló feltételek fennállását a foglalkoztatónak kell bizonyítani.
 
-[^55]: A 15. § (1) bekezdés 1. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^56]: A 15. § (1) bekezdés 7. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (7) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^57]: A 15. § (1) bekezdés 8. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (7) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^58]: A 15. § (1) bekezdés 13. pontja a 13/2020. (II. 7.) Korm. rendelet 90. §-a szerint módosított szöveg.
-[^59]: A 15. § (1) bekezdés 22. pontja a 193/2015. (VII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^60]: A 15. § (1) bekezdés 25. pontját a 204/2015. (VII. 23.) Korm. rendelet 33. §-a iktatta be.
-[^61]: A 15. § (1) bekezdés 26. pontját a 113/2016. (V. 30.) Korm. rendelet 82. § (1) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^62]: Lásd a Hivatalos Értesítő 2018. évi 61. számában megjelent közleményt.
-[^63]: A 15. § (1) bekezdés 27. pontját a 113/2016. (V. 30.) Korm. rendelet 82. § (2) bekezdése iktatta be.
-[^64]: A 15. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
-[^65]: A 15. § (3b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
-[^66]: A 15. § (3c) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (4) bekezdése iktatta be, szövege a 171/2017. (VI. 29.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 15. § (1) bekezdés 1. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^57]: A 15. § (1) bekezdés 7. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (7) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^58]: A 15. § (1) bekezdés 8. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (7) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^59]: A 15. § (1) bekezdés 13. pontja a 13/2020. (II. 7.) Korm. rendelet 90. §-a szerint módosított szöveg.
+[^60]: A 15. § (1) bekezdés 22. pontja a 193/2015. (VII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^61]: A 15. § (1) bekezdés 25. pontját a 204/2015. (VII. 23.) Korm. rendelet 33. §-a iktatta be.
+[^62]: A 15. § (1) bekezdés 26. pontját a 113/2016. (V. 30.) Korm. rendelet 82. § (1) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^63]: Lásd a Hivatalos Értesítő 2018. évi 61. számában megjelent közleményt.
+[^64]: A 15. § (1) bekezdés 27. pontját a 113/2016. (V. 30.) Korm. rendelet 82. § (2) bekezdése iktatta be.
+[^65]: A 15. § (1) bekezdés 28. pontját a 636/2020. (XII. 22.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^66]: A 15. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
+[^67]: A 15. § (3b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
+[^68]: A 15. § (3c) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (4) bekezdése iktatta be, szövege a 636/2020. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

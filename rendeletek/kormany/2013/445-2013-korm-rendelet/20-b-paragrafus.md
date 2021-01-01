@@ -1,4 +1,4 @@
-## 20/B. §[^90] A kormányhivatal a szakhatósági állásfoglalásában nem támogatja a harmadik országbeli állampolgárnak vállalaton belül áthelyezett személy számára szóló tartózkodási engedéllyel történő, 90 napot meghaladó magyarországi foglalkoztatását, ha
+## 20/B. §[^92] A kormányhivatal a szakhatósági állásfoglalásában nem támogatja a harmadik országbeli állampolgárnak vállalaton belül áthelyezett személy számára szóló tartózkodási engedéllyel történő, 90 napot meghaladó magyarországi foglalkoztatását, ha
 
 a) nem állnak fenn a 20/A. §-ban meghatározott feltételek,
 
@@ -22,4 +22,4 @@ h) a fogadó szervezet a harmadik országbeli állampolgár foglalkoztatását a
 
 i) a harmadik országbeli állampolgár magyarországi foglalkoztatásának alapjaként szolgáló, külföldi munkáltatóval kötött magánjogi szerződés munkaerő-kölcsönzést valósít meg.
 
-[^90]: A 20/B. §-t a 113/2016. (V. 30.) Korm. rendelet 86. §-a iktatta be.
+[^92]: A 20/B. §-t a 113/2016. (V. 30.) Korm. rendelet 86. §-a iktatta be.

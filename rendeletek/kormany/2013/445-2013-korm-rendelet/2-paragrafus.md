@@ -70,6 +70,8 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 26.[^15] hosszú távú mobilitási engedély: a Harmtv. 2/A. § e) pontjában meghatározott fogalom.
 
+27.[^16] Kilépési Megállapodás: a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból és az Európai Atomenergia-közösségből történő kilépéséről szóló, 2020. január 24-én Brüsszelben és Londonban aláírt megállapodás.
+
 [^1]: A 2. § 1. pontja a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § 8. pontja a 113/2016. (V. 30.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 12. pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
@@ -85,3 +87,4 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 [^13]: A 2. § 24. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.
 [^14]: A 2. § 25. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 58. § c) pontja szerint módosított szöveg.
 [^15]: A 2. § 26. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
+[^16]: A 2. § 27. pontját a 636/2020. (XII. 22.) Korm. rendelet 6. §-a iktatta be.

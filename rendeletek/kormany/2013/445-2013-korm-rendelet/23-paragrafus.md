@@ -10,7 +10,7 @@
 
 (4) Az (1) bekezdés alkalmazásában – az ellenkező bizonyításáig – a munkaviszony fennállását legalább három hónap időtartamban vélelmezni kell.
 
-(5)[^99] A szezonális munkavállalási engedély esetében az (1)–(3) bekezdésben foglaltakat abban az esetben is alkalmazni kell, ha a szezonális munkavállalási engedély visszavonására azért került sor, mert
+(5)[^101] A szezonális munkavállalási engedély esetében az (1)–(3) bekezdésben foglaltakat abban az esetben is alkalmazni kell, ha a szezonális munkavállalási engedély visszavonására azért került sor, mert
 
 a) az illetékes hatóság a szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül
 
@@ -20,7 +20,7 @@ ab) a foglalkoztatót a Met. 7/A. §-ában foglaltak szerint a központi költs�
 
 b) foglalkoztató felszámolási eljárás alatt áll vagy nem folytat gazdasági tevékenységet.
 
-(6)[^100] Az (5) bekezdésben meghatározott esetben az elmaradt munkabér összegébe be kell számítani az engedély időtartamából hátralévő időtartamra járó munkabért is.
+(6)[^102] Az (5) bekezdésben meghatározott esetben az elmaradt munkabér összegébe be kell számítani az engedély időtartamából hátralévő időtartamra járó munkabért is.
 
-[^99]: A 23. § (5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
-[^100]: A 23. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
+[^101]: A 23. § (5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
+[^102]: A 23. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
