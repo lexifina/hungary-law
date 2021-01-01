@@ -1,3 +1,3 @@
-5/J. §[^135]
+5/J. §[^139]
 
-[^135]: A Vhr. 5/J. §-át a 16/2008. (I. 31.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének f) pontja.
+[^139]: A Vhr. 5/J. §-át a 16/2008. (I. 31.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének f) pontja.
