@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-54-00-00
 | 2014-10-01 | 2014. évi XI. törvény | 2013-54-00-00.11 |
 | 2014-10-07 | 2014. évi XLI. törvény | 2013-54-00-00.12 |
 | 2015-09-01 | 2015. évi CXIX. törvény | 2013-54-00-00.13 |
+| 2021-01-01 | 2020. évi CLXIV. törvény | 2013-54-00-00.14 |
