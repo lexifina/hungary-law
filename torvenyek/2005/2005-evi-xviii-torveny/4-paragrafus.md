@@ -34,6 +34,8 @@ g) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezt
 
 (2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben, valamint a Hivatal egyéb határozatában foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
+(2a) Bírság kiszabása esetén a Hatóság – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túl – mérlegeli a jogsértő állapot megszüntetése érdekében tett, a Hivatal eljárását megelőző, attól független tevékenységet.
+
 (3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
 
 (4) Közigazgatási perben nincs helye a keresetlevél halasztó hatálya elrendelésének, ha a Hivatal határozatában a távhőszolgáltatási támogatás igénybevételének jogszerűsége, engedélyes kijelölése vagy engedélyének visszavonása tárgyában döntött.
