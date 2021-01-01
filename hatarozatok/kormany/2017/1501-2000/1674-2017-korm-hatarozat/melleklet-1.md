@@ -48,19 +48,7 @@
 
 ## Határidő: a Beruházás 2. ütemének megvalósítása során folyamatos
 
-## 6. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházás 1. ütemének 2. pont a) alpontjában meghatározott fejlesztési elemeinek megvalósítása, továbbá a Beruházás 2. ütemének 2. pont b) alpont ba) alpontja szerinti munkák elvégzése érdekében 1400,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 46. Ludovika Campus jogcímcsoport javára az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## Az elszámolási és a visszatérítési kötelezettség tekintetében
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: 2018. június 30.
+## 6.[^1]
 
 ## 7. felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy tegyék meg a szükséges intézkedéseket a Beruházás 2. üteme előkészítése – ideértve a 2. pont b) alpont bb) és bc) alpontja szerinti munkák teljes körű előkészítését (tervpályázat, engedélyezési és kiviteli tervek elkészítése és jóváhagyása), továbbá a 4. pont szerinti előkészítést – érdekében 1000,0 millió forint összegű forrás biztosításáról a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap cím terhére;
 
@@ -100,64 +88,7 @@
 
 ## Határidő: 2017. szeptember 30.
 
-1. melléklet az 1674/2017. (IX. 21.) Korm. határozathoz
+1. melléklet az 1674/2017. (IX. 21.) Korm. határozathoz[^2]
 
-| XI. Miniszterelnökség ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. Millió forintban, egy tizedessel |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 333751 |  |  |  | 46 |  |  |  |  |  | Ludovika Campus |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 1 400,0 |  |  |  |
-
-|  |  | 32 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 297102 |  |  | 1 |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 1 400,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 333751 |  |  |  | 46 |  |  |  |  |  | Ludovika Campus |  |  |  |  |  |  |  |  |  |  | 1 400,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  | azonnal |  | 1 400,0 |  |  |  |  |  |  |  |  |  |  | 1 400,0 |  |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+[^1]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
