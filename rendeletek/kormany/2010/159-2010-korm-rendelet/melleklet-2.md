@@ -10,7 +10,7 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 1.1. az állandó határátkelőhely,
 
-1.2.[^106] a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek,
+1.2.[^109] a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek,
 
 1.3. fegyveres biztonsági szolgálat.
 
@@ -36,7 +36,7 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 2.3.7. üzemanyag kiszolgálás;
 
-2.3.8.[^107] utasterminál, cargo terminál;
+2.3.8.[^110] utasterminál, cargo terminál;
 
 2.3.9. utas és árukezelő eszközök, létesítmények;
 
@@ -52,11 +52,11 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 2.3.15. téli üzemhez szükséges hó eltakarító és más eszközök.
 
-2.4.[^108] Repülőtérrend vagy a 139/2014/EU rendeletben meghatározott repülőtéri kézikönyv.
+2.4.[^111] Repülőtérrend vagy a 139/2014/EU rendeletben meghatározott repülőtéri kézikönyv.
 
 3. A III–IV. osztályú repülőtér
 
-3.1.[^109] A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal egy természetes talajú vagy szilárd burkolattal ellátott futópályát, vagy helikopter fel- és leszállására alkalmas területet.
+3.1.[^112] A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal egy természetes talajú vagy szilárd burkolattal ellátott futópályát, vagy helikopter fel- és leszállására alkalmas területet.
 
 3.2. A repülőtéren, a repülési sávon kívül létesíteni kell előteret vagy állóhelyeket (mozgásterület), valamint a légijármű személyzete, és a repülőteret üzemeltető szolgálatok számára megfelelő elhelyezést nyújtó kiszolgáló létesítményt.
 
@@ -64,24 +64,24 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 3.4. Repülőtérrend.
 
-3.5.[^110] Nem nyilvános repülőtérre vonatkozó Kényszerhelyzeti Terv.
+3.5.[^113] Nem nyilvános repülőtérre vonatkozó Kényszerhelyzeti Terv.
 
-4.[^111] Az V. osztályú repülőtér
+4.[^114] Az V. osztályú repülőtér
 
 4.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal a repülőtéren fogadni tervezett géptípusnak megfelelő, egy természetes talajú vagy szilárd burkolattal ellátott futópályát.
 
 4.2. Repülőtérrend.
 
-5.[^112] A VI. osztályú repülőtér
+5.[^115] A VI. osztályú repülőtér
 
 5.1. A repülőtéren legalább egy repülési sávot, munkaterületet kell kijelölni, amely magában foglal a repülőtéren fogadni tervezett géptípusnak megfelelő, egy természetes talajú vagy szilárd burkolattal ellátott futópályát.
 
 5.2. Repülőtérrend.
 
-[^106]: A 2. melléklet 1. pont 1.2. alpontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
-[^107]: A 2. melléklet 2.3.8. pontja a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^108]: A 2. melléklet 2.4. pontja a 348/2019. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^109]: A 2. melléklet 3.1. pontja a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^110]: A 2. melléklet 3.5. pontját a 207/2014. (VIII. 15.) Korm. rendelet 18. §-a iktatta be.
-[^111]: A 2. melléklet 4. pont nyitó szövegrésze a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^112]: A 2. melléklet 5. pontját a 207/2014. (VIII. 15.) Korm. rendelet 18. §-a iktatta be.
+[^109]: A 2. melléklet 1. pont 1.2. alpontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
+[^110]: A 2. melléklet 2.3.8. pontja a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^111]: A 2. melléklet 2.4. pontja a 348/2019. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^112]: A 2. melléklet 3.1. pontja a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^113]: A 2. melléklet 3.5. pontját a 207/2014. (VIII. 15.) Korm. rendelet 18. §-a iktatta be.
+[^114]: A 2. melléklet 4. pont nyitó szövegrésze a 207/2014. (VIII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^115]: A 2. melléklet 5. pontját a 207/2014. (VIII. 15.) Korm. rendelet 18. §-a iktatta be.

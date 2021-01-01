@@ -1,5 +1,5 @@
-## 46. §[^102]
+## 46. §[^105]
 
 ## 22. Hatályon kívül helyezés
 
-[^102]: A 46. §-t a 48. § (1) bekezdése hatályon kívül helyezte.
+[^105]: A 46. §-t a 48. § (1) bekezdése hatályon kívül helyezte.
