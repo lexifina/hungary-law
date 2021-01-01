@@ -18,6 +18,10 @@ g) kulturális javakon az e törvényben vagy más jogszabályban tiltott tevék
 
 h) az e törvényben vagy más jogszabályban engedélyhez kötött tevékenységet a kulturális javakon engedély nélkül vagy attól eltérő módon végzi.
 
+(1a) Az (1) bekezdés a)–c) és e)–h) pontjában meghatározott szabályszegések miatt közigazgatási szankcióként figyelmeztetés nem alkalmazható.
+
+(1b) Az (1) bekezdés b) pontjában meghatározott tevékenység folytatásától történő eltiltás időtartama – a közigazgatási szabályszegések szankcióiról szóló törvényben foglaltaktól eltérően – a döntés véglegessé válásától számított 5 évnél hosszabb időre nem szólhat.
+
 (2) Bírsággal sújtható az, aki a jogszabály által előírt
 
 a) bejelentési kötelezettségének, vagy
@@ -28,8 +32,4 @@ nem tesz eleget.
 
 (3) A bírságot a hatóság szabja ki.
 
-(4) A bírság összegének megállapításánál mérlegelni kell:
-
-a) a kulturális örökség elemének történeti, eszmei jelentőségét és egyediségét,
-
-b) az okozott kár jogszabályban meghatározottak szerint megállapítható vagy becsült nagyságát.
+(4) A bírság összegének megállapításánál a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott mérlegelési szempontok mellett a hatóság figyelembe veszi a kulturális örökség elemének történeti, eszmei jelentőségét és egyediségét is.

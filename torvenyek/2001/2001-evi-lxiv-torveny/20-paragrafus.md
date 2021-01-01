@@ -28,9 +28,11 @@ e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási in
 
 f) a Bölcsészettudományi Kutatóközpont,
 
-g) a jogszabályban kijelölt örökségvédelmi szerv, valamint
+g) a jogszabályban kijelölt örökségvédelmi szerv,
 
-h) a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint régészeti területen szakértői tevékenység végzésére jogosult szakértő kizárólag az örökségvédelmi hatástanulmányok készítéséhez végzett terepbejárás és műszeres lelőhely- és leletfelderítés esetén.
+h) a Magyarságkutató Intézet, valamint
+
+i) a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint régészeti területen szakértői tevékenység végzésére jogosult szakértő kizárólag az örökségvédelmi hatástanulmányok készítéséhez végzett terepbejárás és műszeres lelőhely- és leletfelderítés esetén.
 
 (4a)
 
