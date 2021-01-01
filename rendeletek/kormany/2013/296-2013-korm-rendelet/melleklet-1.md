@@ -1,6 +1,6 @@
-## 14. §[^9] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 101. §-ával megállapított 8. §-t, 103. §-ával megállapított 6. § (1) bekezdés a) és b) pontját, 9. § (1) bekezdés a) pontját, 9. § (3) bekezdését, 104. §-ával megállapított 1. és 2. mellékletet, 105. §-ával megállapított 2. §-t, 5. § (4) bekezdését először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+## 15. §[^11] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló kormányrendelet módosításáról szóló 616/2020. (XII. 21.) Korm. rendelettel hatályon kívül helyezett 6. § (4) bekezdését először a 2020. évben induló üzleti évről készített beszámolóra nem kell alkalmazni.
 
-1. melléklet a 296/2013. (VII. 29.) Korm. rendelethez[^10]
+1. melléklet a 296/2013. (VII. 29.) Korm. rendelethez[^12]
 
-[^9]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 484/2015. (XII. 29.) Korm. rendelet 102. §-a iktatta be.
-[^10]: Az 1. melléklet a 484/2015. (XII. 29.) Korm. rendelet 104. § (1) bekezdésével megállapított szöveg.
+[^11]: A 15. §-t a 616/2020. (XII. 21.) Korm. rendelet 19. §-a iktatta be.
+[^12]: Az 1. melléklet a 484/2015. (XII. 29.) Korm. rendelet 104. § (1) bekezdésével megállapított szöveg.

@@ -1,0 +1,3 @@
+## 14. §[^10] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 101. §-ával megállapított 8. §-t, 103. §-ával megállapított 6. § (1) bekezdés a) és b) pontját, 9. § (1) bekezdés a) pontját, 9. § (3) bekezdését, 104. §-ával megállapított 1. és 2. mellékletet, 105. §-ával megállapított 2. §-t, 5. § (4) bekezdését először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+[^10]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 484/2015. (XII. 29.) Korm. rendelet 102. §-a iktatta be.

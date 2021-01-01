@@ -10,7 +10,8 @@ b)[^5] egyszerűsített éves beszámolót készít, az indulótőkéből, a tő
 
 (3) Tőkeváltozásként az Szt.-ben meghatározott tőketartaléknak és eredménytartaléknak megfelelő tételek együttes összegét kell figyelembe venni.
 
-(4) Az Szt. szerinti – a pénzügyi instrumentumok meghatározott körére vonatkozó – valós értéken történő értékelés szabályait az egyházi jogi személy nem alkalmazhatja.
+(4)[^6]
 
 [^4]: A 6. § (1) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 103. § 1. pontja szerint módosított szöveg.
 [^5]: A 6. § (1) bekezdés b) pontja a 484/2015. (XII. 29.) Korm. rendelet 103. § 2. pontja szerint módosított szöveg.
+[^6]: A 6. § (4) bekezdését a 616/2020. (XII. 21.) Korm. rendelet 20. §-a hatályon kívül helyezte.
