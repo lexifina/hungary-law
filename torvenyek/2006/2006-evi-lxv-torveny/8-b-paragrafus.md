@@ -1,0 +1,1 @@
+8/B. § Az igazságügyért felelős miniszter és az igazságügyért felelős miniszter irányítása alatt álló központi államigazgatási szerv jogi személyt és jogi személyiséggel nem rendelkező más szervezetet hozhat létre.
