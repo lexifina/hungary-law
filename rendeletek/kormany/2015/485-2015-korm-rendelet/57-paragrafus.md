@@ -1,4 +1,4 @@
-## 56/B. § A különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény felhatalmazása alapján kiadott kormányrendelet szerinti különleges gazdasági övezet tekintetében a megyei önkormányzat képviselő-testülete által megállapított adóval kapcsolatos adóhatósági feladatokat első fokon az a megyei igazgatóság látja el, amelynek illetékességi területén a megyei önkormányzat székhelye található. Ha a különleges gazdasági övezet tekintetében a Pest Megyei Önkormányzat Közgyűlése jogosult az adó megállapítására, az általa megállapított adóval kapcsolatos adóhatósági feladatokat első fokon a Pest Megyei Adó- és Vámigazgatóság látja el.
+## 56/D. § Az adóztatási feladatokat az ideiglenes rendszámtáblával ellátott gépjármű esetében a gépjárműre kiadott ideiglenes forgalomban tartási engedélyben, illetve ideiglenes forgalmi engedélyben megjelölt lakóhely, székhely (ideértve a fióktelepet is) szerint illetékes megyei (fővárosi) adó- és vámigazgatóság látja el.
 
 ## V. Fejezet
 
@@ -12,4 +12,8 @@
 
 (3) A KAVIG a nem természetes személy részére behozott nemesfémtárgyak – a kizárólag tudományos, egészségügyi, oktatási vagy ipari célt szolgáló nemesfémtárgyak kivételével –, valamint drágakövek tekintetében végzi az árutovábbítás vámeljárás lefolytatását, valamint az átmeneti megőrzés engedélyezését.
 
+(3a)[^122] Az adóigazgatási eljárás részletszabályairól szóló kormányrendeletben meghatározottak szerint, jogkövetési vizsgálat keretében az adózónál fellelhető eszközök informatikai adatmentését, adatelemzését és az adózó által a könyvei, nyilvántartásai vezetéséhez, valamint a bizonylatok feldolgozásához alkalmazott szoftverek, informatikai rendszerek vizsgálatát a KAVIG bármely adózónál jogosult lefolytatni.
+
 (4) Az adózó személyesen, postai vagy elektronikus úton előterjesztett beadványa alapján a KAVIG eljárhat a 22. §-ban meghatározott ügyekben.
+
+[^122]: Az 57. § (3a) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 13. §-a iktatta be.

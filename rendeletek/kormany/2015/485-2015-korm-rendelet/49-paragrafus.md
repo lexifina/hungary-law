@@ -1,1 +1,3 @@
-## 48. § A megyei igazgatóság mélységi ellenőrzést, valamint az ellenőrzéshez kapcsolódó kísérési feladatokat az illetékességi területén kívül is végezhet, ide nem értve a 90. § (2) bekezdés szerinti mélységi ellenőrzést.
+## 48. §[^104]
+
+[^104]: A 48. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.

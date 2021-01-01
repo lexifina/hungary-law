@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-485-20-
 | 2020-03-28 | 2015-485-20-22.12 | 65/2020. (III. 25.) Korm. rendelet |
 | 2020-07-31 | 2015-485-20-22.13 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2020-09-24 | 2015-485-20-22.14 | 439/2020. (IX. 23.) Korm. rendelet |
+| 2021-01-01 | 2015-485-20-22.15 | 670/2020. (XII. 28.) Korm. rendelet |

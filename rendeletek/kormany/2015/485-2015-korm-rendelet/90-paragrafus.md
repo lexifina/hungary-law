@@ -1,4 +1,4 @@
-## 89. §[^153] Az előkészítő eljárást vagy a nyomozást folytató bűnügyi igazgatóság az illetékességi területén kívül eljárási cselekményt a Bűnügyi Főigazgatóság és az illetékes bűnügyi igazgatóság egyidejűleg történő, előzetes értesítése mellett végezhet. Halasztást nem tűrő esetben végzett eljárási cselekményről, illetve ha a tájékoztatás megtétele a szükséges eljárási cselekmény eredményességét, időszerűségét veszélyezteti, az értesítést utólag haladéktalanul meg kell tenni.
+## 89. §[^180] Az előkészítő eljárást vagy a nyomozást folytató bűnügyi igazgatóság az illetékességi területén kívül eljárási cselekményt a Bűnügyi Főigazgatóság és az illetékes bűnügyi igazgatóság egyidejűleg történő, előzetes értesítése mellett végezhet. Halasztást nem tűrő esetben végzett eljárási cselekményről, illetve ha a tájékoztatás megtétele a szükséges eljárási cselekmény eredményességét, időszerűségét veszélyezteti, az értesítést utólag haladéktalanul meg kell tenni.
 
 ## VII. Fejezet
 
@@ -6,61 +6,63 @@
 
 ## 29. A Bevetési Igazgatóság hatásköre
 
-90. § (1) A Bevetési Igazgatóság
+90. § (1)[^181] A Bevetési Igazgatóság
 
-a)[^154] ellátja a pénzügyi jogszabálysértések megelőzése és felderítése érdekében a vámhatóság feladatát meghatározó jogszabályokban előírt helyszíni ellenőrzéseket;
+a) – az adóellenőrzés és a Vtv. szerinti áruk ellenőrzése kivételével – ellátja a NAV hatáskörébe tartozó jogszabálysértések megelőzése és felderítése érdekében az állami adó- és vámhatóság feladatát meghatározó jogszabályokban előírt helyszíni ellenőrzéseket és egyéb helyszíni eljárási cselekményeket, így különösen az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 82. §-a szerinti ellenőrzéseket, valamint a jogkövetési vizsgálatokat, továbbá ellenőrzi a pénztárgépek üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek teljesítését;
 
-b)[^155] végzi – kizárólag helyszíni eljárás keretében – az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 82. §-a szerinti ellenőrzéseket, valamint a jogkövetési vizsgálatokat, továbbá ellenőrzi – a megyei igazgatóságok mellett – a pénztárgépek üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek teljesítését;
+b) végzi a NAV tv. 36/M. §-a szerinti feladatokat;
 
-c)[^156] végzi a NAV tv. 36/M. §-a szerinti feladatokat,
+c) megteszi a vám- és jövedéki jogszabályok és a NAV vámszerveinek feladatait meghatározó egyéb jogszabályok megsértésének észlelése, gyanúja esetén a jogsértés megszüntetése, mértékének felderítése és a bizonyítékok biztosítása érdekében a szükséges intézkedéseket;
 
-d) a NAV tv. 13. § (8) bekezdés e) pontja szerinti mélységi ellenőrzéseket végez;
+d) ellátja az eljárása során észlelt bűncselekmény gyanúja esetén a helyszín és a bizonyítékok biztosítását, halasztást nem tűrő esetben lefoglalást foganatosít, és a hatáskörrel rendelkező nyomozó hatóság felé megteszi a szükséges intézkedéseket;
 
-e)[^157] az állami adó- és vámhatóság vezetőjének bűnügyi, vámszakmai és rendészeti feladatai ellátásért felelős szakmai helyettesének egyedi engedélyével közreműködik a megyei igazgatóságok határátkelőhelyein, valamint a Repülőtéri Igazgatóságnál felmerülő egyes feladatok ellátásában;
+e) az állami adó- és vámhatóság vezetőjének bűnügyi, vámszakmai és rendészeti feladatai ellátásért felelős szakmai helyettesének egyedi engedélyével közreműködik a megyei adó- és vámigazgatóságokon, azok határátkelőhelyein, valamint a Repülőtéri Igazgatóságnál felmerülő egyes feladatok ellátásában.
 
-f) megteszi a vám- és jövedéki jogszabályok és a NAV vámszerveinek feladatait meghatározó egyéb jogszabályok megsértésének észlelése, gyanúja esetén a jogsértés megszüntetése, mértékének felderítése és a bizonyítékok biztosítása érdekében a szükséges intézkedéseket;
+(2)[^182] Kizárólag a Bevetési Igazgatóság végzi
 
-g)[^158] lefolytatja a Jöt. szerinti gyorsított eljárást az általa felderített jogsértések esetén;
+a) a fémkereskedőnek nem minősülő személy helyszíni eljárást igénylő fémkereskedelmi hatósági ellenőrzését;
 
-h) végrehajtja a szabálysértési eljárásban elrendelt elővezetést;
+b) a NAV tv. 13. § (8) bekezdés e) pontja szerinti mélységi ellenőrzéseket;
 
-i)[^159] ellátja az eljárása során észlelt bűncselekmény gyanúja esetén a helyszín és a bizonyítékok biztosítását, halasztást nem tűrő esetben a lefoglalás foganatosítását és a hatáskörrel rendelkező nyomozó hatóság felé a szükséges intézkedések megtételét;
+c) a szabálysértési eljárásban elrendelt elővezetés végrehajtását;
 
-j)[^160]
+d) a nyomozó hatóság felkérése alapján az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzését, kísérését;
 
-k)[^161] végzi a nyomozó hatóság felkérése alapján az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzését, kísérését;
+e) a – 86. § (1) bekezdés g) pontja szerint ellátott személyi védelem kivételével – NAV nyomozó szervei által elrendelt személyi védelmet;
 
-l)[^162] végzi – a 86. § (1) bekezdés g) pontja szerint ellátott személyi védelem kivételével – a NAV nyomozó szervei által elrendelt személyi védelmet;
+f) az őrzésvédelmi – így különösen a Pénzügyminisztériumnak a miniszter elhelyezését biztosító épülete és a NAV feladatellátása szempontjából kiemelkedően fontos objektum védelmével kapcsolatos – feladatokat;
 
-m)[^163] őrzésvédelmi – így különösen a Pénzügyminisztériumnak a miniszter elhelyezését biztosító épülete és a NAV feladatellátása szempontjából kiemelkedően fontos objektum védelmével kapcsolatos – feladatokat végez;
+g) a NAV saját hatáskörében lefoglalt dolgok élőerős őrzésével, kísérésével összefüggő feladatokat, valamint anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján a lefoglalt dolgok megsemmisítése során a helyszín biztosítását;
 
-n) végzi a NAV saját hatáskörében lefoglalt dolgok élő erős őrzésével, kísérésével összefüggő feladatokat, valamint anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján a lefoglalt dolgok megsemmisítése során a helyszín biztosítását; valamint
+h) a szolgálati kutyavezetők és szolgálati kutyák kiképzését, melyet térítés ellenében a rendvédelmi szervek, a Magyar Honvédség, valamint a hasonló tevékenységet ellátó külföldi társszervek részére is végezhet;
 
-o) ellátja a szolgálati kutyavezetők és szolgálati kutyák kiképzését; mely térítés ellenében a rendvédelmi szervek, a Magyar Honvédség, valamint a hasonló tevékenységet ellátó külföldi társszervek részére is végezhet;
+i) a NAV tv. 36/E. § (3) bekezdése alapján meghatározott feladatokat;
 
-p) egyéb művelet-támogató tevékenységet végez, ideértve a szolgálati fegyverzet ellátást.
+j) a NAV tulajdonát képező fegyverzeti és rendészettechnikai eszközök kezelését a NAV Országos Fegyverzeti Raktárban.
 
-(2) A dunai hajózási forgalomban a Duna – Európai Unió külső vámhatárának nem minősülő – teljes magyarországi folyamszakaszán, valamint annak hajózható mellékágain a mélységi ellenőrzések végrehajtására kizárólag a Bevetési Igazgatóság rendelkezik hatáskörrel.
+(3)[^183]
 
-(3) A NAV tv. 36/E. § (3) bekezdése alapján kizárólag a Bevetési Igazgatóság járhat el.
+(4)[^184] A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
 
-(4)[^164] A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
+(5)[^185] A Bevetési Igazgatóság folytatja le
 
-(5) A Bevetési Igazgatóság folytatja le az ismeretlen személy jövedéki ügyével kapcsolatos eljárást, ha az első intézkedést a Bevetési Igazgatóság tette.
+a) a Jöt. szerinti gyorsított eljárást az általa felderített jogsértések esetén;
 
-(6) A Bevetési Igazgatóság folytatja le a közúti közlekedésről szóló 1988. évi I. törvény alapján végzett ellenőrzése során felderített jogsértéssel kapcsolatos hatósági eljárást.
+b) az ismeretlen személy által hátrahagyott jövedéki termékekkel kapcsolatos eljárást, ha az első intézkedést a Bevetési Igazgatóság tette;
 
-(7) A Bevetési Igazgatóság által felderített szabálysértések tekintetében a szabálysértési eljárás lefolytatására – ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja – a Bevetési Igazgatóság is jogosult.
+c) a közúti közlekedésről szóló 1988. évi I. törvény alapján végzett ellenőrzése során felderített jogsértéssel kapcsolatos hatósági eljárást;
 
-[^153]: A 89. § a 311/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^154]: A 90. § (1) bekezdés a) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.
-[^155]: A 90. § (1) bekezdés b) pontja a 475/2017. (XII. 28.) Korm. rendelet 79. § 23. pontja szerint módosított szöveg.
-[^156]: A 90. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^157]: A 90. § (1) bekezdés e) pontja a 439/2020. (IX. 23.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
-[^158]: A 90. § (1) bekezdés g) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (9) bekezdésével megállapított szöveg.
-[^159]: A 90. § (1) bekezdés i) pontja a 311/2018. (XII. 27.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^160]: A 90. § (1) bekezdés j) pontját a 214/2017. (VII. 25.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
-[^161]: A 90. § (1) bekezdés k) pontja a 214/2017. (VII. 25.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^162]: A 90. § (1) bekezdés l) pontja a 214/2017. (VII. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^163]: A 90. § (1) bekezdés m) pontja a 85/2016. (IV. 13.) Korm. rendelet 1. §-ával megállapított, a 311/2018. (XII. 27.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
-[^164]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+d) az általa felderített, a NAV hatáskörébe tartozó szabálysértések tekintetében a szabálysértési eljárást, ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja.
+
+(6)[^186]
+
+(7)[^187]
+
+[^180]: A 89. § a 311/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^181]: A 90. § (1) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^182]: A 90. § (2) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^183]: A 90. § (3) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
+[^184]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^185]: A 90. § (5) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^186]: A 90. § (6) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
+[^187]: A 90. § (7) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
