@@ -8,7 +8,7 @@ c) az egészségügyi ellátóhálózat szerve az alap- és szakellátással, a 
 
 d) az egészségügyi államigazgatási szerv, közegészségügyi-járványügyi, valamint jogszabályban meghatározott szociális feladata ellátása érdekében;
 
-e) a szociális igazgatás szerve, a szociális intézmény vezetője, a szociális ellátás megállapításával és folyósításával összefüggésben;
+e) a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, a szociális, gyermekjóléti és gyermekvédelmi intézmény vezetője, a szociális, gyermekvédelmi ellátás megállapításával és folyósításával, valamint a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben;
 
 f) a munkaügyi igazgatás szerve a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos, valamint a foglalkoztatottakkal összefüggő, jogszabályban meghatározott egyéb tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett foglalkoztató e tevékenysége körében.);
 
@@ -41,3 +41,5 @@ q) a kincstár a TAJ-szám képzésével és nyilvántartásával kapcsolatos fe
 r) az atomenergia-felügyeleti szerv az atomenergiáról szóló 1996. évi CXVI. törvény 16/A. §-ában meghatározott, Országos Személyi Dozimetriai Nyilvántartás vezetése során a sugárterhelésnek kitett munkavállalók egészségügyi nyomon követéséhez.
 
 s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § f) pontjában meghatározott adómentesség megállapítása, valamint a helyi adókról szóló 1990. évi C. törvény 14/A. §-a és 26/A. §-a szerinti adófelfüggesztés iránt benyújtott kérelem elbírálása és az adózással kapcsolatos nyilvántartás vezetése során.
+
+t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.
