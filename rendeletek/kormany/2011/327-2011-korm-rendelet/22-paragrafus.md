@@ -1,3 +1,3 @@
-## 11. [^145] A megváltozott munkaképességű személyek ellátásaival kapcsolatos felelősségi szabályok
+## 11. [^147] A megváltozott munkaképességű személyek ellátásaival kapcsolatos felelősségi szabályok
 
-[^145]: A 11. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^147]: A 11. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 12. §-ával megállapított szöveg.

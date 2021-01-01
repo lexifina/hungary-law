@@ -48,11 +48,11 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
 (12)[^10] A kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.
 
-(13) A Szociális és Gyermekvédelmi Főigazgatóság közreműködik a szociál- és nyugdíjpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
+(13)[^11] A Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI) közreműködik a szociál- és nyugdíjpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
 
-(14)[^11] A Szociális és Gyermekvédelmi Főigazgatóság közreműködik azon eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésében, amelyek segítik a rehabilitációs hatósági és szolgáltató tevékenységet, valamint hatékonysági vizsgálatokat folytat, prognózisokat, elemzéseket készít, továbbá a képességvizsgálatokhoz kapcsolódó orvos-szakmai módszertani feladatokat lát el. E feladatai ellátásával összefüggésben a Szociális és Gyermekvédelmi Főigazgatóság a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszerben kezelt adatokat statisztikai célra – személyazonosításra alkalmatlan módon – felhasználhatja.
+(14)[^12] Az NSZI közreműködik azon eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésében, amelyek segítik a rehabilitációs hatósági és szolgáltató tevékenységet, valamint hatékonysági vizsgálatokat folytat, prognózisokat, elemzéseket készít, továbbá a képességvizsgálatokhoz kapcsolódó orvos-szakmai módszertani feladatokat lát el. E feladatai ellátásával összefüggésben az NSZI a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszerben kezelt adatokat statisztikai célra – személyazonosításra alkalmatlan módon – felhasználhatja.
 
-(15)[^12] Budapest Főváros Kormányhivatala orvos-szakmai feladatellátáshoz kapcsolódó képességvizsgálatokat, valamint tárolási, logisztikai tevékenységet végez.
+(15)[^13] Budapest Főváros Kormányhivatala orvos-szakmai feladatellátáshoz kapcsolódó képességvizsgálatokat, valamint tárolási, logisztikai tevékenységet végez.
 
 [^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
@@ -64,5 +64,6 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 [^8]: Az 1. § (10) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^9]: Az 1. § (11) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^10]: Az 1. § (12) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^11]: Az 1. § (14) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^12]: Az 1. § (15) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^11]: Az 1. § (13) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^12]: Az 1. § (14) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § a) pontja, a 610/2020. (XII. 18.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
+[^13]: Az 1. § (15) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.

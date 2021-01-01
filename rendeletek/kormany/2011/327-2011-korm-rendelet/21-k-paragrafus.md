@@ -1,16 +1,16 @@
-21/K. § (1)[^141] A Szociális és Gyermekvédelmi Főigazgatóság – a rendelkezésre álló források, a bejelentett munkaerőigények, a munkaerő-piaci előrejelzések, valamint a rehabilitációs szolgáltatásban részesülő személyek képességei, foglalkoztatási helyzete és várható elhelyezkedési lehetőségei alapján – minden év január 15-éig a Szociális és Gyermekvédelmi Főigazgatóság által üzemeltetett elektronikus felületen közzéteszi a tárgyévben támogatható – 21/I. § szerinti – képzések adatait.
+21/K. § (1)[^143] Az NSZI – a rendelkezésre álló források, a bejelentett munkaerőigények, a munkaerő-piaci előrejelzések, valamint a rehabilitációs szolgáltatásban részesülő személyek képességei, foglalkoztatási helyzete és várható elhelyezkedési lehetőségei alapján – minden év január 15-éig az NSZI által üzemeltetett elektronikus felületen közzéteszi a tárgyévben támogatható – 21/I. § szerinti – képzések adatait.
 
-(2)[^142] A támogatási igényt a munkaadók folyamatosan nyújthatják be. A benyújtott igényeket a Szociális és Gyermekvédelmi Főigazgatóság a benyújtástól számított 21 napon belül bírálja el.
+(2)[^144] A támogatási igényt a munkaadók folyamatosan nyújthatják be. A benyújtott igényeket az NSZI a benyújtástól számított 21 napon belül bírálja el.
 
-(3)[^143] Ha a Szociális és Gyermekvédelmi Főigazgatóság a támogatási igényt elfogadja, a munkaadóval támogatási szerződést köt. A támogatási szerződésben a munkáltató vállalja, hogy
+(3)[^145] Ha az NSZI a támogatási igényt elfogadja, a munkaadóval támogatási szerződést köt. A támogatási szerződésben a munkáltató vállalja, hogy
 
 a) a 21/J. § (1) bekezdés a) pontja szerinti képzésben részt vevő, rehabilitációs szolgáltatásban részesülő személlyel munkaviszonyt létesít, és a munkaviszonyt a képzés befejezését követően legalább a képzés időtartamának megfelelő időre fenntartja,
 
 b) a 21/J. § (1) bekezdés b) pontja szerinti képzésben részt vevő, rehabilitációs szolgáltatásban részesülő személlyel a munkaviszonyt a képzés befejezését követően legalább a képzés időtartamának megfelelő időre fenntartja.
 
-(4)[^144] A Szociális és Gyermekvédelmi Főigazgatóság a képzési célú támogatást a támogatási szerződésben foglaltak szerint folyósítja a munkaadónak.
+(4)[^146] Az NSZI a képzési célú támogatást a támogatási szerződésben foglaltak szerint folyósítja a munkaadónak.
 
-[^141]: A 21/K. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés e) pontja szerint módosított szöveg.
-[^142]: A 21/K. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^143]: A 21/K. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^144]: A 21/K. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^143]: A 21/K. § (1) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^144]: A 21/K. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 30. pontja szerint módosított szöveg.
+[^145]: A 21/K. § (3) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 31. pontja szerint módosított szöveg.
+[^146]: A 21/K. § (4) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 32. pontja szerint módosított szöveg.

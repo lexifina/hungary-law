@@ -1,24 +1,24 @@
-21/I. § (1)[^132] A Szociális és Gyermekvédelmi Főigazgatóság – a rendelkezésre álló források, a bejelentett munkaerőigények, a munkaerő-piaci előrejelzések, valamint a rehabilitációs szolgáltatásban részesülő személyek képességei, foglalkoztatási helyzete és várható elhelyezkedési lehetőségei alapján – minden év január 15-éig a Szociális és Gyermekvédelmi Főigazgatóság által üzemeltetett elektronikus felületen közzéteszi a tárgyévben támogatható – 21/G. és 21/H. § szerinti – képzések (a továbbiakban: támogatható képzések) adatait és a képzési célú támogatás igénybevételének feltételeit.
+21/I. § (1)[^134] Az NSZI – a rendelkezésre álló források, a bejelentett munkaerőigények, a munkaerő-piaci előrejelzések, valamint a rehabilitációs szolgáltatásban részesülő személyek képességei, foglalkoztatási helyzete és várható elhelyezkedési lehetőségei alapján – minden év január 15-éig az NSZI által üzemeltetett elektronikus felületen közzéteszi a tárgyévben támogatható – 21/G. és 21/H. § szerinti – képzések (a továbbiakban: támogatható képzések) adatait és a képzési célú támogatás igénybevételének feltételeit.
 
-(2)[^133] A képző intézmények a Szociális és Gyermekvédelmi Főigazgatóság által üzemeltetett elektronikus felületen folyamatosan jelenthetik be, ha támogatható képzést nyújtanak. A Szociális és Gyermekvédelmi Főigazgatóság a bejelentkező, támogatható képzést nyújtó képző intézmények és az általuk nyújtott támogatható képzések adatait a Szociális és Gyermekvédelmi Főigazgatóság által üzemeltetett elektronikus felületen közzéteszi.
+(2)[^135] A képző intézmények az NSZI által üzemeltetett elektronikus felületen folyamatosan jelenthetik be, ha támogatható képzést nyújtanak. Az NSZI a bejelentkező, támogatható képzést nyújtó képző intézmények és az általuk nyújtott támogatható képzések adatait az NSZI által üzemeltetett elektronikus felületen közzéteszi.
 
-(3)[^134] A rehabilitációs szolgáltatásban részesülő személy és a Szociális és Gyermekvédelmi Főigazgatóság együtt választja ki a rehabilitációs szolgáltatásban részesülő személy foglalkozási rehabilitációs szükségleteinek megfelelő képzési irányt. Ezt követően a Szociális és Gyermekvédelmi Főigazgatóság tájékoztatja a megváltozott munkaképességű személyt azokról a képző intézményekről, amelyek a kiválasztott képzési iránynak megfelelő képzést folytatnak. Ha több a Szociális és Gyermekvédelmi Főigazgatósághoz bejelentkezett képző intézmény is nyújt a kiválasztott képzési iránynak megfelelő képzést, a rehabilitációs szolgáltatásban részesülő személy választja ki közülük a számára megfelelő képző intézményt.
+(3)[^136] A rehabilitációs szolgáltatásban részesülő személy és az NSZI együtt választja ki a rehabilitációs szolgáltatásban részesülő személy foglalkozási rehabilitációs szükségleteinek megfelelő képzési irányt. Ezt követően az NSZI tájékoztatja a megváltozott munkaképességű személyt azokról a képző intézményekről, amelyek a kiválasztott képzési iránynak megfelelő képzést folytatnak. Ha több az NSZI-hez bejelentkezett képző intézmény is nyújt a kiválasztott képzési iránynak megfelelő képzést, a rehabilitációs szolgáltatásban részesülő személy választja ki közülük a számára megfelelő képző intézményt.
 
-(4)[^135] A Szociális és Gyermekvédelmi Főigazgatóság a támogatható képzési irányoktól eltérő képzésben történő részvételt is támogathat, ha az a munkaadói igényekhez igazodik, és az ügyfél munkaerő-piaci helyzetének javításához a megszerzendő képesítés vagy új ismeret érdemben hozzájárulhat.
+(4)[^137] Az NSZI a támogatható képzési irányoktól eltérő képzésben történő részvételt is támogathat, ha az a munkaadói igényekhez igazodik, és az ügyfél munkaerő-piaci helyzetének javításához a megszerzendő képesítés vagy új ismeret érdemben hozzájárulhat.
 
-(5)[^136] Ha a Szociális és Gyermekvédelmi Főigazgatóság a rehabilitációs szolgáltatásban részesülő személy által választott képzés után – a rendelkezésre álló források, az igények területi eloszlása és a képzés szükségessége alapján, a (4) bekezdésben foglaltak figyelembevételével – támogatást állapít meg, arról a rehabilitációs szolgáltatásban részesülő személlyel támogatási szerződést köt. A képző intézmény által megállapított képzési költséghez nyújtott támogatás esetén a támogatási szerződés mellékletét képezi a rehabilitációs szolgáltatásban részesülő személy és a képző intézmény által aláírt engedményezési megállapodás, amelyben a személy a részére megállapított támogatásra vonatkozó követelését engedményezi az általa kiválasztott képző intézményre.
+(5)[^138] Ha az NSZI a rehabilitációs szolgáltatásban részesülő személy által választott képzés után – a rendelkezésre álló források, az igények területi eloszlása és a képzés szükségessége alapján, a (4) bekezdésben foglaltak figyelembevételével – támogatást állapít meg, arról a rehabilitációs szolgáltatásban részesülő személlyel támogatási szerződést köt. A képző intézmény által megállapított képzési költséghez nyújtott támogatás esetén a támogatási szerződés mellékletét képezi a rehabilitációs szolgáltatásban részesülő személy és a képző intézmény által aláírt engedményezési megállapodás, amelyben a személy a részére megállapított támogatásra vonatkozó követelését engedményezi az általa kiválasztott képző intézményre.
 
-(6)[^137] Ha legalább egy rehabilitációs szolgáltatásban részesülő személy a képző intézményben képzésben kíván részt venni, és ahhoz a Szociális és Gyermekvédelmi Főigazgatóság támogatást állapított meg, a Szociális és Gyermekvédelmi Főigazgatóság a képző intézménnyel együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza különösen
+(6)[^139] Ha legalább egy rehabilitációs szolgáltatásban részesülő személy a képző intézményben képzésben kíván részt venni, és ahhoz az NSZI támogatást állapított meg, az NSZI a képző intézménnyel együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza különösen
 
 a) a támogatott képzést, annak időtartamát és feltételeit,
 
 b) a támogatás folyósításának feltételeit és ütemezését,
 
-c)[^138] a képző intézmény és a Szociális és Gyermekvédelmi Főigazgatóság egyéb kötelezettségvállalásait, és
+c)[^140] a képző intézmény és az NSZI egyéb kötelezettségvállalásait, és
 
 d) a megállapodás megszegésének következményeit.
 
-(7)[^139] A Szociális és Gyermekvédelmi Főigazgatóság a támogatást
+(7)[^141] Az NSZI a támogatást
 
 a) képző intézmény által megállapított képzési költséghez nyújtott támogatás esetén a rehabilitációs szolgáltatásban részesülő személy nevére kiállított számla alapján, az együttműködési megállapodásban foglaltak szerint a képző intézménynek,
 
@@ -26,11 +26,11 @@ b) az a) pontban nem említett esetben a támogatási szerződésben foglaltak s
 
 folyósítja.
 
-[^132]: A 21/I. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés e) pontja szerint módosított szöveg.
-[^133]: A 21/I. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés e) pontja szerint módosított szöveg.
-[^134]: A 21/I. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés e) és j) pontja szerint módosított szöveg.
-[^135]: A 21/I. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^136]: A 21/I. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja, a 304/2018. (XII. 27.) Korm. rendelet 4. § j) pontja szerint módosított szöveg.
-[^137]: A 21/I. § (6) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés e) pontja szerint módosított szöveg.
-[^138]: A 21/I. § (6) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^139]: A 21/I. § (7) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^134]: A 21/I. § (1) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 20. pontja szerint módosított szöveg.
+[^135]: A 21/I. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
+[^136]: A 21/I. § (3) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 22. pontja szerint módosított szöveg.
+[^137]: A 21/I. § (4) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 23. pontja szerint módosított szöveg.
+[^138]: A 21/I. § (5) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § j) pontja, a 610/2020. (XII. 18.) Korm. rendelet 13. § 24. pontja szerint módosított szöveg.
+[^139]: A 21/I. § (6) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 25. pontja szerint módosított szöveg.
+[^140]: A 21/I. § (6) bekezdés c) pontja a 610/2020. (XII. 18.) Korm. rendelet 13. § 26. pontja szerint módosított szöveg.
+[^141]: A 21/I. § (7) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.

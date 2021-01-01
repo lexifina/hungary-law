@@ -1,1 +1,3 @@
-## 13. A Nemzeti Rehabilitációs és Szociális Hivatalról, valamint eljárásának részletes szabályairól szóló 331/2010. (XII. 27.) Korm. rendelet módosítása
+## 13.[^163]
+
+[^163]: A 13. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
