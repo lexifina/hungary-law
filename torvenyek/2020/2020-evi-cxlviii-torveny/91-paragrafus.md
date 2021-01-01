@@ -1,1 +1,3 @@
-91. §
+91. § Az Onytv. a következő 9/B. §-sal egészül ki:
+
+„9/B. § E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvénnyel megállapított 3/A. § (3) bekezdése alapján az oktatási azonosító szám pályakövetési rendszerbe történő átadását első alkalommal 2021. február 28-áig kell az e napig kiadott oktatási azonosító számokra vonatkozóan végrehajtani.”

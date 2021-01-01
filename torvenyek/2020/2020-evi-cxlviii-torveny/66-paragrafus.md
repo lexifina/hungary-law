@@ -1,1 +1,3 @@
-66. §
+66. § Az Nftv. 95. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A magán felsőoktatási intézmény bevételeit és kiadásait a számviteli előírások szerint tartja nyilván. A magán felsőoktatási intézmény olyan kötelezettségeiért, amelyek teljesítéséhez vagyona nem elégséges, a fenntartó kezesként vagyona erejéig felel, ha pedig a fenntartói jog gyakorlója és tulajdonosa eltér egymástól, akkor a tulajdonos a vagyon erejéig felel. Ha a magán felsőoktatási intézmény jogutód nélkül szűnik meg, vagyona, jogai és kötelezettségei a fenntartóra, ha pedig a fenntartói jog gyakorlója és tulajdonosa eltér egymástól, akkor – a felek eltérő megállapodása hiányában – a tulajdonosra szállnak.”

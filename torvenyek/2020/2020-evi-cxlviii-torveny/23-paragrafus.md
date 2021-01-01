@@ -1,1 +1,3 @@
-23. §
+23. § Az Mttv. 69. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) JBE médiaszolgáltatónak minősül a legalább tizenöt százalékos éves átlagos közönségaránnyal rendelkező lineáris audiovizuális médiaszolgáltató, feltéve, hogy legalább egy médiaszolgáltatásának éves átlagos közönségaránya eléri a három százalékot JBE médiaszolgáltatónak minősül a közszolgálati, közösségi és tematikus médiaszolgáltató kivételével legalább húszszázalékos éves átlagos közönségaránnyal rendelkező lineáris rádiós médiaszolgáltató is, feltéve, hogy legalább egy médiaszolgáltatásának éves átlagos közönségaránya eléri az öt százalékot.”

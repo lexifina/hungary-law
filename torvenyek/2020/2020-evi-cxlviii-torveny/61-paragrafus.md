@@ -1,1 +1,13 @@
-61. §
+61. § (1) Az Nftv. 84. § (2) bekezdése a következő c) és d) ponttal egészül ki:
+
+(Az állami támogatás célja)
+
+„c) nemzetgazdasági, térségfejlesztési feladatok ellátásának,
+
+d) egyes további közfeladatok ellátásának”
+
+(biztosítása.)
+
+(2) Az Nftv. 84. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az állami támogatásra az állami felsőoktatási intézmények azonos feltételek, az egyházi felsőoktatási intézmények és a magán felsőoktatási intézmények – törvény eltérő rendelkezése hiányában – az állam képviseletében a miniszter és a fenntartó között létrejött megállapodás alapján válnak jogosulttá.”

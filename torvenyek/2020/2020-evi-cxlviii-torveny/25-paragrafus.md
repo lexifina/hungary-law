@@ -1,1 +1,7 @@
-25. §
+25. § Az Mttv. 136. §-a a következő (3a)–(3c) bekezdéssel egészül ki:
+
+„(3a) Az Alap a tárgyévre vonatkozó bevételeinek a tárgyévben fel nem használt, illetve kötelezettségvállalással le nem kötött részét – a (3b) és (3c) bekezdés szerinti esetek kivételével – a 134. § (10) bekezdése szerinti zárszámadási törvény hatálybalépését követő 30 napon belül köteles a központi költségvetésbe befizetni.
+
+(3b) A Médiatanács az Alap vezérigazgatójának a 134. § (10) bekezdése szerinti zárszámadási törvényjavaslat benyújtásáig előterjesztett indokolt kérelmére a közszolgálati kötelezettségek jövőbeni teljesítése, a hatékony gazdálkodás elősegítése érdekében az Alap számára a tárgyévre vonatkozóan nyújtott források fel nem használt részéből közszolgálati tartalékot képezhet. A közszolgálati tartalék mindenkori mértéke – a (3c) bekezdés szerinti eset kivételével – legfeljebb a közszolgálati feladatok ellátására szolgáló tárgyévet megelőző évben rendelkezésre álló források 10%-a lehet. A közszolgálati tartalék kizárólag a közszolgálati feladatellátás költségeinek fedezésére használható fel.
+
+(3c) A Médiatanács különösen indokolt – kizárólag a közszolgálati feladatellátással összefüggő – esetben a 10%-ot meghaladó mértékű tartalék képzését is jóváhagyja, ha az valamely – előzetesen meghatározott, a közszolgálati feladatellátást szolgáló – eseti célkitűzés teljesítése érdekében szükséges, és a tartalék mértéke legfeljebb három negyedéven keresztül haladja meg a (3b) bekezdés szerinti mértéket.”
