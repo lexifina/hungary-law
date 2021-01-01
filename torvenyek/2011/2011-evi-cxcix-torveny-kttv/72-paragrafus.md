@@ -26,4 +26,4 @@ c) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazn
 
 alakul át.
 
-(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya állami szolgálati, közszolgálati vagy munkajogviszonnyá alakul át.
+(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, közszolgálati vagy munkajogviszonnyá alakul át.

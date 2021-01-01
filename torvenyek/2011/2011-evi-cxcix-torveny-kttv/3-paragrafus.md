@@ -2,7 +2,15 @@
 
 (2) A 45. § hatálya kiterjed azon magyar állampolgárokra is, akik pályázati eljárásban vesznek részt, illetve felvételüket kérik a toborzási adatbázisba.
 
-(3) A 72. § hatálya kiterjed azon munkáltatókra és a velük munkaviszonyban álló munkavállalókra, amelyek esetében a munkaviszony létesítésre a 72. § alapján kerül sor, továbbá a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és a közalkalmazottra, amelyek esetében a közalkalmazotti jogviszony létesítésére a 72. § alapján kerül sor.
+(3) A 72. § hatálya kiterjed
+
+a) azon munkáltatókra és a velük munkaviszonyban álló munkavállalókra, amelyek esetében a munkaviszony létesítésére,
+
+b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és a közalkalmazottra, ha a közalkalmazotti jogviszony létesítésére,
+
+c) a kormányzati igazgatásról szóló törvény hatálya alá tartozó foglalkoztató szervre és a kormánytisztviselőre, ha a kormányzati szolgálati jogviszony létesítésére
+
+a 72. § alapján kerül sor.
 
 (4) A 230. § hatálya kiterjed a polgármesterre, valamint a helyi önkormányzati képviselőre.
 

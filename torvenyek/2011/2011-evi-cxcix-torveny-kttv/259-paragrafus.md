@@ -10,7 +10,7 @@ a) a kormányzati szolgálati, illetve közszolgálati jogviszonnyal összefügg
 
 b) a 185. § (6) bekezdése szerinti államigazgatási szerv kijelölését és a kijelölésére,
 
-c) a közszolgálati alapnyilvántartásra és a közszolgálati statisztikai adatgyűjtésre,
+c) a közszolgálati alapnyilvántartásra,
 
 d) a tartalékállományba helyezésre, a tartalékállomány működtetésére, az üres álláshely bejelentésére,
 
@@ -124,7 +124,7 @@ c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére
 
 a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó szervek foglalkoztatottjainak igazolványára vonatkozó szabályokat,
 
-b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait
+b)
 
 c) a büntetés-végrehajtási szervezetnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben
 

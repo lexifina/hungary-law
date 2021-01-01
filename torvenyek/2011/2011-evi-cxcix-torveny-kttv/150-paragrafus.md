@@ -16,7 +16,7 @@ illetménynek megfelelő összeg.
 
 (3) A jubileumi jutalomra jogosító idő megállapításánál
 
-a) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) és az állami tisztviselőkről szóló 2016. évi LII. törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői és állami szolgálati jogviszonyban,
+a) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény, a kormányzati igazgatásról szóló törvény és a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) hatálya alá tartozó munkáltatónál, foglalkoztató szervnél munkaviszonyban, közszolgálati, kormánytisztviselői, állami szolgálati és kormányzati szolgálati jogviszonyban, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó munkáltatónál adó- és vámhatósági szolgálati jogviszonyban vagy munkaviszonyban,
 
 b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 
@@ -26,11 +26,11 @@ d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban
 
 e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 
-f) az e törvény, a Ktv., Ktjv., illetőleg a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+f) az e törvény, a Ktv., Ktjv. és a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban, a kormányzati igazgatásról szóló törvény és a Küt. hatálya alá tartozó szervnél ösztöndíjas jogviszonyban,
 
 g) a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
 
-h) az állami vezetői szolgálati jogviszonyban,
+h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban,
 
 i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
 

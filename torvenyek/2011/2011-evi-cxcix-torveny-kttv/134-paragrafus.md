@@ -2,7 +2,7 @@
 
 1.
 
-2. a minisztériumban és – a Nemzeti Adó- és Vámhivatal kivételével – a költségvetési fejezetet irányító más szervnél,
+2. a minisztériumban és a költségvetési fejezetet irányító más szervnél,
 
 3. az államháztartásról szóló törvény alapján kijelölt kormányzati ellenőrzési szervnél,
 
