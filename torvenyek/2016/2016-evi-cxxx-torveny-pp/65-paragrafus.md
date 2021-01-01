@@ -10,8 +10,10 @@ c) a fél hozzátartozója,
 
 d) a fél pertársa, valamint a fél pertársának képviselője,
 
-e) a közigazgatási szerv, egyéb költségvetési szerv vagy gazdálkodó szervezet, illetve egyéb nem természetes személy alkalmazottja munkáltatójának tevékenységével kapcsolatos pereiben,
+e) a gazdálkodó szervezet, illetve egyéb nem természetes személy alkalmazottja, a munkáltatójának tevékenységével kapcsolatos pereiben,
 
-f) az önkormányzati szerv alkalmazottja az önkormányzat vagy önkormányzati szerv feladat- és hatáskörét érintő perekben, továbbá ugyanezen perekben az önkormányzati szerv szervezeti és működési szabályzatában meghatározott tisztségviselő, ideértve az önkormányzati képviselőt is, ha a per – tárgya alapján – abba a szabályzatban meghatározott ügykörbe tartozik, amelyben a tisztségviselő eljárni jogosult, valamint
+f) a közigazgatási szerv, illetve egyéb költségvetési szerv alkalmazottja, a közigazgatási, illetve költségvetési szerv tevékenységével kapcsolatos pereiben,
 
-g) akit erre jogszabály feljogosít.
+g) az önkormányzati szerv alkalmazottja, az önkormányzat vagy önkormányzati szerv feladat- és hatáskörét érintő perekben, továbbá ugyanezen perekben az önkormányzati szerv szervezeti és működési szabályzatában meghatározott tisztségviselő, ideértve az önkormányzati képviselőt is, ha a per – tárgya alapján – abba a szabályzatban meghatározott ügykörbe tartozik, amelyben a tisztségviselő eljárni jogosult, valamint
+
+h) akit erre jogszabály feljogosít.

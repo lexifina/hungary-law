@@ -1,6 +1,6 @@
 ### 459. § [Ítélet]
 
-(1) A bíróságnak a házasságot érvénytelenítő vagy felbontó ítéletében – szükség esetén erre irányuló kereseti kérelem hiányában is – határoznia kell a szülői felügyelet gyakorlásának rendezése, a gyermek harmadik személynél történő elhelyezése, valamint a közös kiskorú gyermek tartása felől.
+(1) A bíróságnak a házasságot érvénytelenítő vagy felbontó ítéletében – szükség esetén erre irányuló kereseti kérelem hiányában is – határoznia kell a szülői felügyelet gyakorlásának rendezése, a gyermek harmadik személynél történő elhelyezése, a kapcsolattartás, valamint a közös kiskorú gyermek tartása felől.
 
 (2) A bíróság a házasságot érvénytelenítő vagy felbontó ítéletében megállapítja az életközösség fennállásának időtartamát, ha azt a házassági vagyonjogi per bírósága korábban, az eljárást befejező érdemi határozatában vagy közbenső ítéletében nem állapította meg.
 

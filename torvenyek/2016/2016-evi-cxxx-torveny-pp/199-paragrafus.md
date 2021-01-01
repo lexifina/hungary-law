@@ -14,33 +14,29 @@ c) az alperes jogi képviselőjének nevét, székhelyét, telefonszámát, elek
 
 a) alaki védekezés esetén
 
-aa) az eljárás megszüntetésére alapot adó okot, az azt megalapozó jogszabályhelyet és tényeket,
+aa) az eljárás megszüntetésére alapot adó okot és az azt megalapozó tényeket,
 
 ab) a tényeket alátámasztó és rendelkezésre álló bizonyítékokat, bizonyítási indítványokat az e törvényben meghatározott módon,
 
 b) érdemi védekezés esetén
 
-ba) a beszámítás kivételével valamennyi anyagi jogi kifogást a jogalap megjelölése útján és az azt megalapozó tényeket, továbbá az ezek közötti összefüggés levezetésére vonatkozó jogi érvelést,
+ba) a beszámítás kivételével az anyagi jogi kifogást a jogalap megjelölése útján,
 
-bb) a kereseti kérelem vitatott részét,
+bb) a keresetlevél érdemi részében előadottakra vonatkozó vitató és cáfoló nyilatkozatokat,
 
-bc) a keresetlevélben feltüntetett tényekre, bizonyítékokra és bizonyítási indítványokra vonatkozó vitató nyilatkozatot és a védekezést megalapozó tényeket,
-
-bd) a keresettel érvényesített jog, a tényállítás és a kereseti kérelem közötti összefüggést cáfoló jogi érvelést, és
-
-be) a védekezést – ideértve az anyagi jogi kifogást is – megalapozó tényeket alátámasztó és rendelkezésre álló bizonyítékokat, illetve bizonyítási indítványokat az e törvényben meghatározott módon.
+bc) a védekezést – ideértve az anyagi jogi kifogást is – megalapozó tényeket és az azokat alátámasztó és rendelkezésre álló bizonyítékokat, illetve bizonyítási indítványokat az e törvényben meghatározott módon.
 
 (3) Az ellenkérelem záró részében fel kell tüntetni:
 
 a) az ellenfél – állítási, illetve bizonyítási szükséghelyzetre hivatkozással rögzített – felhívására tett nyilatkozatot, illetve csatolt bizonyítási eszközt, vagy ezek hiányában a felhívásban foglaltak nem teljesítésének indokát,
 
-b) a fél perben eljáró törvényes képviselője – ha az eltér az ellenfél által feltüntetettől – és meghatalmazottja képviseleti jogát megalapozó tényeket és azok bizonyítékait.
+b) azt, hogy a fél törvényes képviselője milyen minőségben jár el.
 
-(4) Keresethalmazat esetén a (2) bekezdés b) pontja szerinti kötelezettséget keresetenként kell teljesíteni.
+(4) Keresethalmazat esetén az érdemi védekezésnek valamennyi, halmazatban érvényesített keresetre ki kell terjednie, azzal, hogy a védekezés azonos tartalmi elemeit elegendő egyszer előadni.
 
 (5) Az ellenkérelemben feltüntethető az ellenfélhez intézett, indokolt felhívás
 
-a) állítási szükséghelyzet esetén valamely tény állításához szükséges információ szolgáltatására, vagy
+a) állítási szükséghelyzet esetén valamely tény állításához szükséges információ szolgáltatására, illetve
 
 b) bizonyítási szükséghelyzet esetén bizonyítási eszköz csatolására.
 

@@ -18,11 +18,9 @@
 
 4. ellenkérelem-változtatás: ha a fél az ellenkérelmével – ideértve a viszontkeresettel és beszámítással szembeni ellenkérelmét is – összefüggésben előadott korábbi
 
-a) tényállításához képest eltérő vagy további tényre hivatkozik,
+a) jogállításához képest eltérő vagy további anyagi jogi kifogásra hivatkozik, vagy
 
-b) jogállításához, illetve jogi érveléséhez képest eltérő vagy további anyagi jogi kifogásra, illetve jogi érvelésre hivatkozik, vagy
-
-c) tényállítást, jogállítást, kérelmet részben vagy egészben elismerő, illetve azokat nem vitató nyilatkozatát visszavonja, ideértve azt is, ha a nem vitatottnak, illetve nem ellenzettnek tekintendő tény-, illetve jogállítást vagy kérelmet utóbb vitatja;
+b) jogállítást, kérelmet részben vagy egészben elismerő, illetve azokat nem vitató nyilatkozatát visszavonja, ideértve azt is, ha a nem vitatottnak, illetve nem ellenzettnek tekintendő jogállítást vagy kérelmet utóbb vitatja;
 
 5. fogyasztó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti fogyasztó;
 
@@ -38,7 +36,7 @@ a) a kérelemnek helyt adó cégbírósági bejegyző vagy változásbejegyző v
 
 b) a cégalapítás érvénytelenségének megállapítása iránti per,
 
-c) a létesítő okirat módosítása érvénytelenségének megállapítása iránti per,
+c) a létesítő okirat módosítása érvénytelenségének, hatálytalanságának vagy létre nem jöttének megállapítása iránti per,
 
 d) a jogi személy határozatainak bírósági felülvizsgálata iránti per,
 
@@ -56,11 +54,9 @@ h) a cégnek nem minősülő szervezetek ellen a törvényességi felügyeletet,
 
 12. keresetváltoztatás: ha a fél a keresetével – ideértve a viszontkeresetet és beszámítást is – összefüggésben előadott korábbi
 
-a) tényállításához képest eltérő vagy további tényre hivatkozik,
+a) jogállításához képest eltérő vagy további érvényesíteni kívánt jogot állít, vagy
 
-b) jogállításához, illetve jogi érveléséhez képest eltérő vagy további érvényesíteni kívánt jogot állít, illetve jogi érvelésre hivatkozik, vagy
-
-c) kérelméhez képest a kérelem, illetve annak valamely része összegszerűségét vagy tartalmát megváltoztatja, vagy további kérelmet terjeszt elő;
+b) kérelméhez képest a kérelem, illetve annak valamely része összegszerűségét vagy tartalmát megváltoztatja, vagy további kérelmet terjeszt elő;
 
 13. médiaszolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiaszolgáltató;
 

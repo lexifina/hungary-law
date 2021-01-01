@@ -1,6 +1,6 @@
 ### 230. § [A fél személyes meghallgatása]
 
-(1) A bíróság – ha ez a per eldöntéséhez, illetve a tényállás megállapításhoz szükséges – az eljárás bármely szakaszában hivatalból elrendelheti a természetes személy fél, illetve törvényes képviselője, valamint a nem természetes személy fél törvényes képviselője személyes meghallgatását.
+(1) A bíróság – ha ez a jogvita kereteinek meghatározásához, a per eldöntéséhez, illetve a tényállás megállapításhoz szükséges – az eljárás bármely szakaszában hivatalból elrendelheti a természetes személy fél, illetve törvényes képviselője, valamint a nem természetes személy fél törvényes képviselője személyes meghallgatását.
 
 (2) A fél meghallgatásakor a bíróság a fél személyi adatait a személyazonosításra alkalmas iratok megtekintésével állapítja meg. Ha a személyazonosság tekintetében kétsége merül fel, a bíróság a fél által
 

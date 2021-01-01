@@ -12,6 +12,6 @@
 
 (3) Ha a szemletárgy birtokosa a peres felektől és a velük egy tekintet alá eső személyektől különbözik, a bíróság a szemlére őt is megidézi.
 
-(4) A szemletárgy birtokosát a bíróság felhívja a szemle tárgyának bemutatására vagy a szemle foganatosításának lehetővé tételére, egyúttal tájékoztatja arról, hogy az emiatt felmerülő költségei és kára megtérítését igényelheti.
+(4) A szemletárgy birtokosát a bíróság felhívja a szemle tárgyának bemutatására vagy a szemle foganatosításának lehetővé tételére, egyúttal tájékoztatja arról, hogy az emiatt felmerülő költségei megtérítését igényelheti.
 
 (5) Ha a szemle tárgya más bíróság, hatóság, vagy ezek megbízása alapján magánszemély őrizetében van, a bíróság ezeket keresi meg a szemletárgy megküldése vagy a szemle foganatosításának lehetővé tétele érdekében.

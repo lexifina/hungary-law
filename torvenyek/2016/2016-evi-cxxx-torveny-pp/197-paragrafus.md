@@ -11,3 +11,5 @@ b) figyelmezteti a feleket a perfelvétel lezárásának a következményére, �
 c) tájékoztatja a feleket, hogy ha ezt bármelyikük tizenöt napon belül írásban kéri, perfelvételi tárgyalást tart.
 
 (2) A bíróság perfelvételi tárgyalást tűz ki és arra a feleket idézi, ha azt bármelyik fél határidőben kéri.
+
+(3) A felperes a keresetlevélben, az alperes az ellenkérelemben kezdeményezheti, hogy a bíróság perfelvételi tárgyalás mellőzésével zárja le a perfelvételt.

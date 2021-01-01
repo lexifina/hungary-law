@@ -2,7 +2,7 @@
 
 (1) Ha a fellebbezés elkésett, vagy olyan határozat ellen irányul, amely ellen a fellebbező nem élhet fellebbezéssel, az elsőfokú bíróság a fellebbezést visszautasítja; e végzés ellen külön fellebbezésnek van helye.
 
-(2) Ha a fellebbezés hiányos, az elsőfokú bíróság rövid határidő tűzésével a felet hiánypótlásra hívja fel; a határidő meghosszabbításának nincs helye. Ha a fél a fellebbezés hiányait a kitűzött határidő alatt nem pótolja, azt a bíróság visszautasítja; e végzés ellen külön fellebbezésnek van helye.
+(2) Ha a fellebbezés hiányos, az elsőfokú bíróság rövid határidő tűzésével a felet hiánypótlásra hívja fel; a határidő meghosszabbításának nincs helye. Ha a fél a fellebbezés hiányait a kitűzött határidő alatt nem pótolja, azt a bíróság visszautasítja; e végzés ellen külön fellebbezésnek van helye. A fellebbezés érdemi vizsgálatra való alkalmassága szempontjából nem vizsgálható a fellebbezésben előadott azon kérelem, állítás, illetve érvelés, amelynek értékelése az ügy érdemére tartozik.
 
 (3) Ha a fellebbezési határidő valamennyi jogosulttal szemben lejárt, illetve ha a fellebbezést valamennyi jogosult hiánytalanul benyújtotta, az elsőfokú bíróság a fellebbezést – a (4) bekezdésben meghatározott esetet kivéve – a per összes irataival együtt nyolc napon belül felterjeszti a másodfokú bírósághoz. Ha a fellebbezés a határozatnak az előzetesen végrehajthatóvá nyilvánítása ellen is irányul, a fellebbezést haladéktalanul fel kell terjeszteni.
 

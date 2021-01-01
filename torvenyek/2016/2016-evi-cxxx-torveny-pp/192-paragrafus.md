@@ -2,7 +2,7 @@
 
 (1) A bíróság elhalasztja a perfelvételi tárgyalást, ha
 
-a) a fél a tárgyalást elmulasztotta és az ellenfél a tárgyaláson a kereseti, viszontkereseti kérelem fajtáját, a jogállítását megváltoztatta vagy a kereseti, viszontkereseti kérelmét, illetve beszámítás útján érvényesített követelése összegét felemelte,
+a) a fél a tárgyalást elmulasztotta és az ellenfél a tárgyaláson a keresetét, viszontkeresetét megváltoztatta vagy a kereseti, viszontkereseti kérelmét, illetve beszámítás útján érvényesített követelése összegét felemelte,
 
 b) a fél a tárgyaláson az a) pontban meghatározott nyilatkozatát oly módon változtatta meg, hogy a tárgyaláson jelen lévő ellenfélnek az ellenkérelem vagy annak módosítása, illetve nyilatkozata előterjesztésére megfelelő időt kell biztosítani,
 

@@ -20,9 +20,11 @@ c) amelyet az alperes más perben a felperessel szemben beszámításként már 
 
 a) a beszámítást az ellenfél elismeri,
 
-b) a beszámítani kért követelés a beszámítás előterjesztésére előírt határidő leteltét követően járt le, vagy
+b) a beszámítani kért követelés a beszámítás előterjesztésére előírt határidő leteltét követően járt le,
 
-c) a beszámítani kért követelés a fél által indított más perben hozott jogerős ítéleten alapul.
+c) a beszámítani kért követelés a fél által indított más perben hozott jogerős ítéleten alapul, vagy
+
+d) valószínűsíti, hogy az előterjesztés alapjául szolgáló ok önhibáján kívül, az írásbeli ellenkérelem előterjesztésére nyitva álló határidő lejártát követően jutott a tudomására vagy következett be.
 
 (7) A beszámítást a (6) bekezdés b) pontja esetén az ellenkövetelés lejártától, a (6) bekezdés c) pontja esetén az ítélet jogerőre emelkedésétől számított harminc napon belül, de legkésőbb az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig kell előterjeszteni; e határidő elmulasztása miatt igazolásnak nincs helye.
 

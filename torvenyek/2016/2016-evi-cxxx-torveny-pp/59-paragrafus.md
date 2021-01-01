@@ -10,6 +10,6 @@
 
 (5) Ha az ügyész és a jogosult fél perbeli cselekményei vagy előadásai egymástól eltérnek, a bíróság azokat a per egyéb adatait is figyelembe véve bírálja el.
 
-(6) Az ügyész fellépése kötelező a büntetőeljárásról szóló törvény szerint a bíróságnak megküldött polgári jogi igény alapján indult perben.
+(6) Az ügyész fellépése kötelező a büntetőeljárásról szóló törvény szerint a bíróságnak megküldött polgári jogi igény alapján indult perben, ha a polgári jogi igényt a büntetőeljárásról szóló törvény szerinti ideiglenes intézkedés iránti kérelemmel együtt terjesztették elő.
 
 (7) Ha a peres eljárás során a jogi képviselet kötelező, a perben félként személyesen részt vevő jogosult jogi képviseletét az ügyész részvétele pótolja.

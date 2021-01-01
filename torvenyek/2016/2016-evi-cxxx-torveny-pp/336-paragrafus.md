@@ -4,7 +4,7 @@
 
 a) a felek nevét, lakóhelyét; ha az ellenérdekű fél ismeretlen, ennek okát,
 
-b) a bizonyítani kívánt tényeket és az azokra vonatkozó bizonyítási eszközöket, bizonyítási módokat,
+b) a bizonyítani kívánt tényeket és az azokra vonatkozó bizonyítási eszközöket, valamint szemle esetén a bizonyítási módot,
 
 c) az előzetes bizonyítás lefolytatására irányuló határozott kérelmet,
 

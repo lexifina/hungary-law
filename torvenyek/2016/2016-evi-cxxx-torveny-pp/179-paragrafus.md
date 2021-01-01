@@ -2,7 +2,7 @@
 
 ### 179. § [A kereset közlése]
 
-(1) Ha a keresetlevél perfelvételre alkalmas, a bíróság a keresetlevél kézbesítésével egyidejűleg felhívja az alperest, hogy a keresetlevél kézbesítésétől számított negyvenöt napon belül terjessze elő az írásbeli ellenkérelmét.
+(1) Ha a keresetlevél perfelvételre alkalmas, a bíróság – a felperes értesítése mellett – a keresetlevél kézbesítésével egyidejűleg felhívja az alperest, hogy a keresetlevél kézbesítésétől számított negyvenöt napon belül terjessze elő az írásbeli ellenkérelmét.
 
 (2) A bíróság a kereset közlésével egyidejűleg megteszi a tárgyalás előkészítése körében szükséges további intézkedéseket.
 

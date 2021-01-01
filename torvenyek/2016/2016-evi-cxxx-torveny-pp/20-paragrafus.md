@@ -24,6 +24,12 @@ ad) a jogi személyek alapításával és törvényes működésével kapcsolato
 
 ae) a jogi személyek és tagjaik, volt tagjaik közötti, illetve a tagok, volt tagok egymás közötti, a tagsági jogviszonyon alapuló perek,
 
+af) a jogi személy tagjának és képviselőjének a tagsági, illetve képviseleti jogviszonyán alapuló felelősségével kapcsolatos perek,
+
+ag) az értékpapírból származó jogviszonnyal kapcsolatos perek,
+
+ah) a nemzetközi árufuvarozási és nemzetközi szállítmányozási perek,
+
 b) a személyi állapotot érintő perek,
 
 c) a végrehajtási perek.

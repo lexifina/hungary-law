@@ -1,6 +1,6 @@
 ### 491. § [Perindítás]
 
-(1) A pert a különélő szülők bármelyike megindíthatja a másik szülő ellen.
+(1)
 
 (2) A kiskorú gyermek tartására irányuló kereset összekapcsolható a gyermek feletti szülői felügyelet gyakorlásának rendezése iránti keresettel.
 

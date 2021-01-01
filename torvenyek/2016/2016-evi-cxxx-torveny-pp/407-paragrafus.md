@@ -6,7 +6,7 @@ a) az elsőfokon jogerőre emelkedett ítélet ellen, kivéve, ha azt törvény 
 
 b) abban az esetben, ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú ítéletet helybenhagyta,
 
-c) a jogerős ítéletnek csupán a kamatfizetésre, a perköltségre, a meg nem fizetett illeték vagy az állam által előlegezett költség megfizetésére, a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős ítéletnek csupán az indokolása ellen,
+c) a jogerős ítéletnek a meg nem fizetett illeték vagy az állam által előlegezett költség megfizetésére, a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős ítéletnek csupán az indokolása ellen,
 
 d) a Kúria által hozott ítélet ellen,
 

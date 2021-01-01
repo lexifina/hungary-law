@@ -1,6 +1,6 @@
 ### 85. § [A perköltség viselése az eljárás megszüntetése esetén]
 
-(1) Az eljárás megszüntetése esetén az alperes perköltségét – a (2)–(4) bekezdésben foglalt kivétellel – a felperes téríti meg.
+(1) Az eljárás megszüntetése esetén az alperes perköltségét – a (2)–(4) bekezdésben foglalt kivétellel, vagy a felek eltérő megállapodása hiányában – a felperes téríti meg.
 
 (2) Az eljárás elállás miatti megszüntetése esetén – ha az elállásra azért került sor, mert az alperes a követelést az eljárás megindítását követően teljesítette – a felperes perköltségét az alperes téríti meg.
 

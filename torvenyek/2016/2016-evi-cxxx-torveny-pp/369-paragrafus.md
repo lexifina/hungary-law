@@ -18,8 +18,4 @@ d) jogszabálysértés megállapítása nélkül is felülmérlegelheti az első
 
 e) határozhat olyan kérdésben, amelyben az elsőfokú bíróság nem tárgyalt, illetve nem határozott.
 
-(4) A másodfokú bíróság az elsőfokú bíróság ítéletének, illetve eljárásának az anyagi pervezetéssel összefüggő részét csak az anyagi jogi felülbírálat részeként vizsgálhatja és minősítheti, úgy, hogy egyúttal elvégzi a saját anyagi jogi álláspontja szerint helyes anyagi pervezetést. Ennek során
-
-a) lehetőséget biztosíthat a feleknek perfelvételi, illetve a szakértői bizonyítással kapcsolatos nyilatkozat előterjesztésére, és ezekhez kapcsolódóan bizonyítást folytathat,
-
-b) a felek tudomására hozza az általa hivatalból észlelt tényt, vagy a felektől és az elsőfokú bíróságtól is eltérő jogértelmezést, a kérelemtől jogszabály alapján való eltérés szükségességét, és lehetőséget biztosít e körben nyilatkozataik megtételére, továbbá bizonyítást folytathat.
+(4) A másodfokú bíróság az elsőfokú bíróság ítéletének, illetve eljárásának az anyagi pervezetéssel összefüggő részét csak az anyagi jogi felülbírálat részeként vizsgálhatja és minősítheti, úgy, hogy egyúttal köteles elvégezni a saját anyagi jogi álláspontja szerint helyes anyagi pervezetést és az ezzel összefüggő intézkedéseket megtenni.

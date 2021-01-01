@@ -1,6 +1,6 @@
 ### 203. § [Perfelvételi irat előterjesztése és kézbesítése]
 
-(1) A fél perfelvételi iratot – ideértve a 63. alcím szerinti perfelvételi iratokat is – akkor terjeszthet elő, ha arra a bíróság felhívta, vagy azt törvény lehetővé teszi. Az ennek megsértésével előterjesztett irat – e törvény eltérő rendelkezése hiányában – hatálytalan.
+(1) A fél perfelvételi iratot – a 202. § (2) bekezdésében foglalt kivétellel – akkor terjeszthet elő, ha arra a bíróság felhívta, vagy azt törvény lehetővé teszi. Az ennek megsértésével előterjesztett irat – e törvény eltérő rendelkezése hiányában – hatálytalan.
 
 (2) Ha a fél az e törvényben vagy a bíróság felhívásában meghatározott valamely perfelvételi nyilatkozatot nem tüntet fel a perfelvételi iratban, úgy kell tekinteni – mindaddig, amíg nyilatkozatot nem tesz –, hogy
 
@@ -10,6 +10,6 @@ b) a fél keresete vagy ellenkérelme megalapozásához nem kíván, illetve nem
 
 (3) Ha a bíróság a felet valamely perfelvételi irat előterjesztésére először hívja fel, egyidejűleg figyelmezteti az irat hiányosságának, előterjesztése elmulasztásának a következményeire.
 
-(4) Több – ugyanolyan vagy eltérő fajtájú – perfelvételi iratot külön beadványban kell előterjeszteni.
+(4) Több eltérő fajtájú perfelvételi irat egy beadványban is előterjeszthető e perfelvételi iratokra előírt tartalommal, azzal, hogy az egyes perfelvételi iratok azonos tartalmi elemeit elegendő egyszer előadni.
 
 (5) A bíróság a perfelvételi tárgyalás kitűzését követően előterjesztett perfelvételi iratot kézbesíti a feleknek, ha pedig a kézbesítés a perfelvételi tárgyalás határnapjáig már nem lehetséges, azt a tárgyaláson adja át.

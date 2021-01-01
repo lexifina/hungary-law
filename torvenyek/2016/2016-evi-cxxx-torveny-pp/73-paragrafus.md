@@ -1,8 +1,8 @@
 ### 73. § [Tájékoztatás a kötelező jogi képviseletről]
 
-(1) A bíróság a jogi képviselő meghatalmazásának szükségességéről, a pártfogó ügyvédi képviselet engedélyezésének lehetőségéről, valamint a jogi képviselő közreműködése nélkül történő eljárás jogkövetkezményeiről
+(1) A bíróság a jogi képviselő meghatalmazásának szükségességéről, a pártfogó ügyvédi képviselet engedélyezésének lehetőségéről, valamint a jogi képviselő nélkül történő eljárás jogkövetkezményeiről
 
-a) a felperest a keresetlevelet visszautasító végzésben – ha a felperes az eljárás folyamán lép perbe, első jelentkezése alkalmával, ha pedig a felperest az eljárás folyamán vonják perbe, a perbevonás közlésével egyidejűleg –,
+a) a felperest a keresetlevél jogi képviselő nélkül történő előterjesztése esetén hiánypótlásra felhívó végzésben – ha a felperes az eljárás folyamán lép perbe, első jelentkezése alkalmával, ha pedig a felperest az eljárás folyamán vonják perbe, a perbevonás közlésével egyidejűleg –,
 
 b) az alperest a kereset közlésével egyidejűleg – ha az alperes az eljárás folyamán lép perbe, első jelentkezése alkalmával, ha pedig az alperest az eljárás folyamán vonják perbe, vagy perbeállítása kezdeményezése miatt lép perbe, a perbevonás, perbeállítás kezdeményezésének közlésével egyidejűleg –
 
@@ -12,4 +12,4 @@ tájékoztatja.
 
 (3) Ha a bíróság – amelynek eljárása során a jogi képviselet kötelező – az ügyben áttétel vagy kijelölés folytán jár el és a keresetlevelet eredetileg olyan bírósághoz nyújtották be, amelynek eljárásában a jogi képviselet nem kötelező, a bíróság a jogi képviselő nélkül eljáró félnek megfelelő határidőt biztosít a jogi képviselet pótlására.
 
-(4) Ha a jogi képviselet a perorvoslati eljárásban kötelező, a bíróság a feleket a jogi képviselő meghatalmazásának szükségességéről, a pártfogó ügyvédi képviselet engedélyezésének lehetőségéről, valamint a jogi képviselő közreműködése nélkül történő eljárás jogkövetkezményeiről a perorvoslattal megtámadható határozatban tájékoztatja.
+(4) Ha a jogi képviselet a perorvoslati eljárásban kötelező, a bíróság a feleket a jogi képviselő meghatalmazásának szükségességéről, a pártfogó ügyvédi képviselet engedélyezésének lehetőségéről, valamint a jogi képviselő nélkül történő eljárás jogkövetkezményeiről a perorvoslattal megtámadható határozatban tájékoztatja.

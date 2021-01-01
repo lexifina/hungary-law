@@ -31,3 +31,5 @@ mérlegelve figyelembe veheti.
 (5) Ha a jogsértő bizonyítási eszköz nem használható fel és a perben jelentős tényt a bizonyító fél más módon bizonyítani nem képes, a bíróság a bizonyítási szükséghelyzet szabályait alkalmazhatja.
 
 (6) A jogsértő bizonyítási eszközre vonatkozó szabályokat kell alkalmazni a bizonyításban közreműködő személy tényállításán, szakvéleményén, vallomásán vagy egyéb nyilatkozatán alapuló bizonyítékra is.
+
+(7) A jogsértő bizonyítási eszköz perben való felhasználása a fél büntetőjogi, szabálysértési, illetve polgári jogi felelősségét nem érinti. Erre a bizonyító felet figyelmeztetni kell.

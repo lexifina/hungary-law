@@ -1,6 +1,6 @@
 ### 177. § [A visszautasító végzés kézbesítése]
 
-(1) A bíróság a keresetlevelet visszautasító végzést a felperesnek kézbesíti és intézkedéséről az alperest értesíti. A végzés ellen a felperes külön fellebbezéssel élhet; a fellebbezést az alperesnek észrevételezésre nem kell megküldeni.
+(1) A bíróság a keresetlevelet visszautasító végzést a felperesnek kézbesíti. A végzés ellen a felperes külön fellebbezéssel élhet. A fellebbezést az alperesnek észrevételezésre nem kell megküldeni. A bíróság a visszautasítás tényéről az alperest a jogerős visszautasító végzés és a keresetlevél megküldésével értesíti.
 
 (2) Ha a fél perbeli jogképességgel nem rendelkezik vagy törvényes képviselőjét mellőzték, a keresetlevélben megjelölt személynek és címre kell az (1) bekezdés szerinti végzést kézbesíteni, illetve az értesítést megküldeni.
 

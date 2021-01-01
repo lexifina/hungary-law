@@ -8,6 +8,6 @@
 
 (4) A kifogásnak az eljárás folytatására, illetve a végrehajtásra nincs halasztó hatálya. Ha azonban a kifogásban foglalt tények fennállása valószínűnek mutatkozik, a bíróság az eljárásnak vagy a határozat végrehajtásának felfüggesztését – az ellenfél meghallgatása nélkül – hivatalból is elrendelheti. A felfüggesztés tárgyában hozott határozatot a bíróság kérelemre utóbb megváltoztathatja.
 
-(5) A kifogást visszautasító vagy elutasító határozat ellen külön fellebbezésnek van helye. A kifogásnak helyt adó, valamint az eljárás, illetve a végrehajtás felfüggesztése tárgyában hozott határozat az eljárást befejező határozat elleni fellebbezésben támadható meg akkor, ha a kifogást érdemi vizsgálat nélkül el kellett volna utasítani.
+(5) A kifogást visszautasító vagy elutasító határozat ellen külön fellebbezésnek van helye. A kifogásnak helyt adó, valamint az eljárás, illetve a végrehajtás felfüggesztése tárgyában hozott határozat az eljárást befejező határozat elleni fellebbezésben támadható meg akkor, ha a kifogást vissza kellett volna utasítani.
 
-(6) Ha a bíróság a kifogásnak helyt ad, a kézbesítéshez fűződő jogkövetkezmények hatálytalanok, és a kézbesítést, illetve a már megtett intézkedéseket, eljárási cselekményeket – a szükséges mértékben – meg kell ismételni.
+(6) Ha a bíróság a kifogásnak helyt ad, a kézbesítéshez fűződő jogkövetkezmények hatálytalanok, és a kézbesítést, illetve a már megtett intézkedéseket, eljárási cselekményeket – a szükséges mértékben – meg kell ismételni. Ha a fél a korábban elmulasztottnak tekintett cselekményt a kézbesítési kifogás előterjesztésével egyidejűleg szabályszerűen elvégezte, e cselekményét hatályosnak kell tekinteni, és az azzal összefüggő eljárási cselekményeket nem kell megismételni.

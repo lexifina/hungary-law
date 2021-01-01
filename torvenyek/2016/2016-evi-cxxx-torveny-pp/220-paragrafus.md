@@ -6,9 +6,11 @@ a) a keresete, ellenkérelme alapjául hivatkozott tény bizonyítására vagy e
 
 b) valamely bizonyítási eszköz bizonyító erejének, bizonyítás eredményének cáfolatára szolgál, feltéve hogy az ellenbizonyítás lehetőségének módja, eszköze csak a lefolytatott bizonyításból vált számára felismerhetővé,
 
-c) a keresete, illetve ellenkérelme megváltoztatásának alapjául hivatkozott tény bizonyítására vagy ellenbizonyításra szolgál, feltéve, hogy a kereset-, illetve ellenkérelem-változtatást a bíróság engedélyezi, vagy
+c) a keresete, illetve ellenkérelme megváltoztatásának alapjául hivatkozott tény bizonyítására vagy ellenbizonyításra szolgál, feltéve, hogy a kereset-, illetve ellenkérelem-változtatást a bíróság engedélyezi,
 
-d) a bíróságnak a perfelvételt lezáró végzés meghozatalát követő anyagi pervezetése folytán vált szükségessé.
+d) a bíróságnak a perfelvételt lezáró végzés meghozatalát követő anyagi pervezetése folytán vált szükségessé, vagy
+
+e) az új tényállítás alátámasztására vagy cáfolatára szolgál.
 
 (2) Az (1) bekezdés a) pontja esetén a fél a bizonyítási indítványt vagy bizonyítékot az arról történő tudomásszerzéstől számított tizenöt napon belül terjesztheti elő, egyidejűleg köteles a tudomásszerzés időpontját és az önhiba hiányát valószínűsíteni.
 
@@ -16,7 +18,13 @@ d) a bíróságnak a perfelvételt lezáró végzés meghozatalát követő anya
 
 (4) Az (1) bekezdés c) pontja esetén a változtatással érintett részben elrendelt kiegészítő perfelvétel során a perfelvételi szak szabályai szerint terjesztheti elő a fél a bizonyítékait, ellenbizonyítékait.
 
-(5) Az (1) bekezdés d) pontja esetén a fél a bizonyítási indítványt vagy bizonyítékot a bíróság anyagi pervezetési cselekményének közlésétől számított tizenöt napon belül terjesztheti elő.
+(5) A fél a bizonyítási indítványt vagy bizonyítékot az (1) bekezdés
+
+a) d) pontja esetén a bíróság anyagi pervezetési cselekményének közlésétől,
+
+b) e) pontja esetén az új tényállítás közlésétől vagy az új tényállítás tudomására jutásától
+
+számított tizenöt napon belül terjesztheti elő.
 
 (6) A (2), (3) és (5) bekezdésben foglalt határidőt a bíróság indokolt kérelemre tizenöt nappal meghosszabbíthatja. Az utólagos bizonyítás előterjesztési határidejének elmulasztása esetén igazolásnak, illetve az előterjesztés hiányai tekintetében hiánypótlási felhívás kiadásának nincs helye.
 

@@ -4,7 +4,7 @@
 
 A bíróság a fél részére ügygondnokot rendel, ha
 
-a) a cselekvőképtelen félnek nincs törvényes képviselője,
+a) a perbeli cselekvőképességgel nem rendelkező félnek nincs törvényes képviselője,
 
 b) az ismeretlen helyen tartózkodó félnek nincs sem törvényes képviselője, sem meghatalmazottja,
 

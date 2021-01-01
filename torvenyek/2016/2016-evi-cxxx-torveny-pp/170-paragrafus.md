@@ -4,13 +4,13 @@
 
 a) az eljáró bíróság megnevezését,
 
-b) a felek nevét, perbeli állását, a felperes azonosító adatait, az alperes ismert azonosító adatait, de legalább lakóhelyét vagy székhelyét, és
+b) a felek nevét, perbeli állását, a felperes azonosító adatait, az alperes azonosító adatai közül legalább a lakóhelyét vagy székhelyét, és
 
 c) a felperes jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több jogi képviselő esetén a hivatalos iratok átvételére kijelölt jogi képviselő nevét.
 
 (2) A keresetlevél érdemi részében fel kell tüntetni:
 
-a) a bíróság ítéleti rendelkezésére irányuló határozott kereseti kérelmet,
+a) a bíróság döntésére irányuló határozott kereseti kérelmet,
 
 b) az érvényesíteni kívánt jogot a jogalap megjelölése útján,
 
@@ -22,17 +22,17 @@ e) a tényállításokat alátámasztó és rendelkezésre álló bizonyítékok
 
 (3) A keresetlevél záró részében fel kell tüntetni:
 
-a) a per tárgyának az értékét, valamint a meghatározásakor figyelembe vett tényeket és jogszabályhelyet,
+a) a per tárgyának az értékét, valamint a meghatározásakor figyelembe vett tényeket; ha a pertárgyérték nem meghatározható, az arra történő hivatkozást,
 
-b) a bíróság hatáskörét és illetékességét – ha az ügyben külföldi elem van, a joghatóságát is – megalapozó tényeket és jogszabályhelyet,
+b) a bíróság hatáskörét és illetékességét – ha az ügyben külföldi elem van, a joghatóságát is – megalapozó tényeket,
 
-c) a megfizetett illeték összegét és megfizetési módját, vagy az eljárási illeték megfizetésének hiányában a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén ennek alapjául szolgáló tényeket és jogszabályhelyet,
+c) a megfizetett illeték összegét és megfizetési módját, vagy az eljárási illeték megfizetésének hiányában a költségkedvezmény engedélyezése iránti kérelemre, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az arra történő hivatkozást,
 
-d) a nem természetes személy fél perbeli jogképességét, a fél törvényes képviselőjeként megjelölt személy és a meghatalmazott perbeli képviseleti jogát megalapozó tényeket és jogszabályhelyet, és
+d) közhiteles nyilvántartásból elérhető azonosító adat hiányában a nem természetes személy fél perbeli jogképességét alátámasztó adatokat,
 
-e) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
+e) azt, hogy a fél törvényes képviselőjeként megjelölt személy milyen minőségben jár el.
 
-(4) Keresethalmazat esetén a (2) bekezdésben foglaltakat keresetenként kell teljesíteni, feltüntetve a keresetek egymáshoz való viszonyát és – egymással eshetőleges viszonyban álló több kereset esetén – az elbírálás kért sorrendjét is.
+(4) Keresethalmazat esetén a keresetlevél érdemi részében foglaltakat úgy kell előadni, hogy azokból külön-külön megállapíthatóak legyenek a halmazatban érvényesített igények és azok egymáshoz való viszonya. A keresetlevélben a halmazatban álló keresetek azonos tartalmi elemeit elegendő egyszer előadni. Egymással eshetőleges viszonyban álló több kereset esetén az elbírálás kért sorrendjét meg kell határozni.
 
 (5) A keresetlevélben feltüntethető az alpereshez intézett, indokolt felhívás
 

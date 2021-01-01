@@ -6,6 +6,6 @@
 
 (3) Ha az alperes a keresettel szemben előterjeszt írásbeli ellenkérelmet, a bíróság a 187. § a) vagy b) pontja szerint folytatja a perfelvételt akkor is, ha a viszontkereset-levél, illetve a beszámítást tartalmazó irat perfelvételre való alkalmassága érdekében még további intézkedésre van szükség.
 
-(4) A bíróság a perfelvételre utóbb alkalmassá vált viszontkereset-levelet és beszámítást tartalmazó iratot a perfelvétel állásától függően tárgyaláson kívül vagy tárgyaláson kézbesíti és megfelelő határidővel felhívja a felet, hogy a viszontkeresettel, illetve beszámítással szemben az ellenkérelmet írásban vagy az írásbeli ellenkérelemre előírt tartalommal tárgyaláson szóban adja elő. A bíróság elhalasztja a perfelvételi tárgyalást, ha az ellenkérelem előterjesztésére megfelelő határidőt kell biztosítani.
+(4) A bíróság a perfelvételre utóbb alkalmassá vált vagy az írásbeli ellenkérelem előterjesztésére nyitva álló határidőt követően előterjesztett viszontkeresetet és beszámítást a perfelvétel állásától függően tárgyaláson kívül vagy tárgyaláson kézbesíti és megfelelő határidővel felhívja a felet, hogy a viszontkeresettel, illetve beszámítással szemben az ellenkérelmet írásban vagy az írásbeli ellenkérelemre előírt tartalommal tárgyaláson szóban adja elő. A bíróság elhalasztja a perfelvételi tárgyalást, ha az ellenkérelem előterjesztésére megfelelő határidőt kell biztosítani.
 
 (5) A (4) bekezdés rendelkezéseit kell alkalmazni akkor is, ha a fél a beszámítását vagy ellenbeszámítását a 209. § (6) bekezdése szerint terjesztette elő.

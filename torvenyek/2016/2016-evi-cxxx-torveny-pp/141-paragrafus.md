@@ -6,7 +6,7 @@
 
 (2) A bírósági irat végrehajtói kézbesítése iránti kérelmet – a végrehajtói kézbesítés részletes eljárási szabályairól szóló jogszabályban meghatározott formanyomtatvány kitöltésével – annál a bíróságnál kell előterjeszteni, amelynek eljárása alatt a sikertelen kézbesítési kísérlet történt.
 
-(3) A végrehajtó jogszabályban meghatározott díját a kérelmező fél köteles a bíróság részére történő teljesítéssel előlegezni, amit a bíróság utal át – az eljáró bíróságra és bírósági ügyszámra hivatkozással – a Magyar Bírósági Végrehajtói Kar részére. A végrehajtót megillető díjelőleg bírósági letétbe helyezéséről történő tudomásszerzést követően a bíróság a kérelmet és a kézbesítendő iratot – a szükséges intézkedések megtétele érdekében, hiánypótlási felhívás kiadását mellőzve – haladéktalanul továbbítja a Magyar Bírósági Végrehajtói Kar részére.
+(3) Ha a kérelmező fél a bíróság részére igazolja, hogy a végrehajtó jogszabályban meghatározott díját – az eljáró bíróságra és bírósági ügyszámra, valamint a címzett nevére történő hivatkozással – a Magyar Bírósági Végrehajtói Kar részére megfizette, a bíróság a végrehajtói kézbesítés iránti kérelmet és a kézbesítendő iratot a szükséges intézkedések megtétele érdekében, a kérelem esetleges hiányainak további vizsgálata nélkül, haladéktalanul továbbítja a Magyar Bírósági Végrehajtói Kar részére.
 
 (4) A bírósági irat kézbesítésével kezdődő határidőt attól az időponttól kell számítani, amikor a bírósági irat végrehajtói kézbesítése jogszabály szerint eredményesen megtörténik.
 

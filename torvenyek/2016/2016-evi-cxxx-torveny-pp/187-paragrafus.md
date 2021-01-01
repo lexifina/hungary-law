@@ -2,10 +2,10 @@
 
 ### 187. § [A perfelvétel módjának meghatározása]
 
-A bíróság a keresettel szembeni írásbeli ellenkérelem előterjesztését követően, az ügy körülményeitől függően:
+A bíróság a keresettel szembeni írásbeli ellenkérelem előterjesztését követően, az ügy körülményeitől függően meghatározza a perfelvétel módját, amely a következő lehet:
 
 a) a perfelvételi tárgyalás kitűzése előtt további írásbeli perfelvételt rendel el,
 
 b) kitűzi a perfelvételi tárgyalást, vagy
 
-c) további írásbeli perfelvétel elrendelése és perfelvételi tárgyalás kitűzése nélkül jár el.
+c) a perfelvételi tárgyalás mellőzésével jár el.

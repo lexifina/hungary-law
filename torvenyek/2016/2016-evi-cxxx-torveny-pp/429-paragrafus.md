@@ -10,4 +10,4 @@
 
 ### 429. § [Személyi állapotot érintő perek]
 
-Személyi állapotot érintő peren – e rész alkalmazásában – a gondnoksági pereket, a házassági pereket, a származási pereket, a szülői felügyelettel kapcsolatos pereket és az örökbefogadás felbontásával kapcsolatos pert kell érteni.
+Személyi állapotot érintő peren – e rész alkalmazásában – a gondnoksági pereket, a házassági pereket, a származási pereket, a szülői felügyelettel kapcsolatos és kapcsolattartási pereket, valamint az örökbefogadás felbontásával kapcsolatos pert kell érteni.

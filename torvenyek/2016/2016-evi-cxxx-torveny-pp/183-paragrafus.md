@@ -6,7 +6,7 @@
 
 ### 183. § [A perfelvétel tartalma]
 
-(1) A perfelvétel körében a felek perfelvételi iratban feltüntetett vagy perfelvételi tárgyaláson előadott tényre és jogra vonatkozó állítással, tagadással, be- vagy elismeréssel, ezekből következő kérelemmel, a tények megállapításához szükséges bizonyítási indítvánnyal, a bizonyítékok és a bizonyítási indítványok értékelésére vonatkozó nyilatkozattal, valamint bizonyítási eszköz rendelkezésre bocsátásával (a továbbiakban együtt: perfelvételi nyilatkozat) – a bíróság közrehatása mellett – meghatározzák a jogvita kereteit.
+(1) A perfelvétel körében a felek keresetlevélben és perfelvételi iratban feltüntetett illetve perfelvételi tárgyaláson előadott tényre és jogra vonatkozó állítással, tagadással, be- vagy elismeréssel, ezekből következő kérelemmel, a tények megállapításához szükséges bizonyítási indítvánnyal, a bizonyítékok és a bizonyítási indítványok értékelésére vonatkozó nyilatkozattal, valamint bizonyítási eszköz rendelkezésre bocsátásával (a továbbiakban együtt: perfelvételi nyilatkozat) – a bíróság közrehatása mellett – meghatározzák a jogvita kereteit.
 
 (2) A perfelvétel látszólagos tárgyi keresethalmazat esetén is valamennyi keresetre egyidejűleg kiterjed.
 

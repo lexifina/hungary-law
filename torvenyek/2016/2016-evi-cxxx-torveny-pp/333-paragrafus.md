@@ -1,3 +1,5 @@
 ### 333. § [A szemle költségei]
 
-A szemletárgy birtokosa a szemle foganatosítása folytán felmerült kárának megtérítését is igényelheti. A szemletárgy birtokosának költség- és kártérítési igényéről a bíróság a tanú költségtérítésére vonatkozó szabályok szerint határoz.
+(1) A szemletárgy birtokosa a szemle foganatosítása során a szemletárgyban szükségszerűen bekövetkezett állagsérelem helyreállításával kapcsolatban felmerült költségei megtérítését is igényelheti a költségigény összegszerűségének egyidejű igazolásával.
+
+(2) A szemletárgy birtokosának személyéhez kapcsolódó költségigényéről a bíróság a tanú költségtérítésére vonatkozó szabályok szerint határoz.

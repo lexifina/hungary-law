@@ -10,7 +10,7 @@
 
 (2) Ha a felperes a keresetével kizárólag olyan követelést érvényesít, amelyet az Fmhtv. alapján csak fizetési meghagyásos eljárás útján lehet érvényesíteni, a bíróság a keresetlevél visszautasításával egyidejűleg tájékoztatja őt a fizetési meghagyásos eljárás megindításának lehetőségéről és módjáról.
 
-(3) A (2) bekezdésben meghatározott esetben a fizetési meghagyásos eljárás mellőzése miatt az eljárás hivatalból történő megszüntetésének nincs helye, ha az alperes ennek kifogásolása nélkül írásbeli ellenkérelmet terjesztett elő.
+(3) A (2) bekezdésben meghatározott esetben a fizetési meghagyásos eljárás mellőzése miatt az eljárás megszüntetésének a perfelvétel lezárása után nincs helye.
 
 (4) A perindítás előtti egyezségi kísérlet esetén és a 255. § (2) bekezdésében meghatározott esetekben az (1) bekezdésben említett kizáró rendelkezés és pertárgyértékre vonatkozó korlátozás nem alkalmazható és a keresetlevél 176. § (1) bekezdés b) pontja alapján történő visszautasításának nincs helye.
 

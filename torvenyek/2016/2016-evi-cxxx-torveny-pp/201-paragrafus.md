@@ -8,9 +8,9 @@ b) az ellenfél – állítási, illetve bizonyítási szükséghelyzetre hivatk
 
 c) a bíróság anyagi pervezetése szerinti felhívásra vonatkozó nyilatkozatot.
 
-(2) A fél válasziratban külön felhívás nélkül is tehet az (1) bekezdés körébe nem tartozó perfelvételi nyilatkozatot, és a 199. § (5) bekezdése szerinti felhívást intézhet az ellenfélhez.
+(2) A fél válasziratban külön felhívás nélkül is tehet egyéb perfelvételi nyilatkozatot, és a 199. § (5) bekezdése szerinti felhívást intézhet az ellenfélhez.
 
-(3) Ha a fél az ellenkérelemre tekintettel keresetet kíván változtatni, a válasziratban fel kell tüntetni a keresetváltoztatást tartalmazó nyilatkozatot.
+(3)
 
 (4) A válaszirathoz mellékelni kell a feltüntetett és rendelkezésre álló, valamint az ellenkérelem szerinti felhívásban feltüntetett bizonyítékot.
 

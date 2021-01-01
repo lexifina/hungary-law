@@ -6,4 +6,4 @@ a polgárok szolgálatát biztosító, a közjónak és a józan észnek megfele
 
 a magánjogi jogviták tisztességes eljárás elvén nyugvó rendezése és az anyagi jogok hatékony érvényre juttatása érdekében
 
-az Alaptörvény 25. cikk (2) bekezdés a) pontja végrehajtására a következő törvényt alkotja:
+az Alaptörvény 25. cikk (2) bekezdése végrehajtására a következő törvényt alkotja:
