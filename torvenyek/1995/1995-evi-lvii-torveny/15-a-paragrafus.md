@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti
 
-a) vízhasználó az, aki vízjogi engedély alapján vízhasználatot gyakorol vagy vízjogi engedélyben vízkészletet köt le,
+a) vízhasználó az, aki vízjogi engedély, továbbá a 28/A. § (1a) bekezdésében foglaltak alapján vízhasználatot gyakorol vagy vízjogi engedélyben vízkészletet köt le,
 
 b) üzemi vízfogyasztó az, aki ivóvizet szolgáltató közműről a saját gazdasági célú vízhasználatához településenként évi 10 000 m3-nél nagyobb vízmennyiséget használ fel.
 

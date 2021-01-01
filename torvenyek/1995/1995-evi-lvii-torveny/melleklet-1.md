@@ -100,7 +100,7 @@ ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatart�
 
 b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
 
-35.
+35. mezőgazdasági öntözési célú kút: olyan felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag mezőgazdasági művelés alatt álló terület mezőgazdasági vízszolgáltatását biztosítja;
 
 36.
 
