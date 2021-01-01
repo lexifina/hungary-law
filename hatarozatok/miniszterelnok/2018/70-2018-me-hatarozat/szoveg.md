@@ -10,10 +10,12 @@ dr. Botos Barbarát,
 
 dr. Halász Zsoltot és
 
-Vartus Gergelyt
+Vartus Gergelyt[^1]
 
 – 2018. június 8-ai hatállyal –
 
 az Innovációs és Technológiai Minisztérium helyettes államtitkárává
 
 kinevezem.
+
+[^1]: A 113/2020. (XII. 22.) ME határozat alapján Vartus Gergely tekintetében akként módosul, hogy az „Innovációs és Technológiai Minisztérium megnevezés helyett a „Miniszterelnökség” megnevezést kell érteni.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-70-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-06-18 | 2018-70-30-63.1 | 70/2018. (VI. 18.) ME határozat |
+| 2021-01-01 | 2018-70-30-63.2 | 113/2020. (XII. 22.) ME határozat |
