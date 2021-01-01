@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-50-20-2
 | 2016-10-01 | 2013-50-20-22.5 | 187/2016. (VII. 13.) Korm. rendelet |
 | 2019-12-13 | 2013-50-20-22.6 | 304/2019. (XII. 12.) Korm. rendelet |
 | 2020-01-01 | 2013-50-20-22.7 | 187/2016. (VII. 13.) Korm. rendelet |
+| 2021-01-01 | 2013-50-20-22.8 | 187/2016. (VII. 13.) Korm. rendelet |
