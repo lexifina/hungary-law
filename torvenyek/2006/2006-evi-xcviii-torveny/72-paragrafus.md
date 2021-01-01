@@ -20,4 +20,6 @@ e) ismételt jogsértés esetén az üzlet gyógyszerforgalmazásra jogosító e
 
 (5) Az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
-(6) A bírság összegét az eset összes körülményeire – így különösen a fogyasztók érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására – tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer forint, legmagasabb összege a jogsértést elkövető vállalkozásnál az előző naptári évben a jogsértés tárgyát képező terméket tekintve elért nettó hazai árbevétel 1%-a lehet.
+(6) A bírság legalacsonyabb összege százezer forint, legmagasabb összege a jogsértést elkövető vállalkozásnál az előző naptári évben a jogsértés tárgyát képező terméket tekintve elért nettó hazai árbevétel 1%-a lehet.
+
+(7) A (3) bekezdés d) pontja szerinti eltiltás kilencven napnál hosszabb időre nem szólhat.

@@ -4,7 +4,7 @@
 
 a) etikai eljárást kezdeményezhet a szakmailag illetékes etikai szervnél, ha ennek feltételei fennállnak,
 
-b) a jogsértést elkövetőt határidővel felhívhatja a hiányosságok megszüntetésére és ennek megszüntetéséig a tevékenység folytatását felfüggesztheti,
+b) a jogsértést elkövetőt figyelmeztetést tartalmazó döntésében, megfelelő határidő megállapításával felhívhatja a hiányosságok megszüntetésére és ennek megszüntetéséig a tevékenység folytatását felfüggesztheti,
 
 c) megállapítja a jogsértés tényét, elrendelheti a jogsértő állapot megszüntetését és egyben megtiltja a jogsértő magatartás további folytatását,
 
@@ -26,7 +26,7 @@ ba) a jogsértést elkövető, társadalombiztosítási támogatással történ�
 
 bb) a társadalombiztosítási támogatással történő rendelésre jogosult jogsértése esetén a rendelési jogosultságának legfeljebb egy hónapra történő felfüggesztését.
 
-(3) A pénzbírság összegét, illetve az alkalmazott jogkövetkezményt az eset összes körülményeire – így különösen a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a betegellátási érdekre – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható.
+(3) A pénzbírság összegét, illetve az alkalmazott jogkövetkezményt az eset összes körülményeire – így különösen a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény (a továbbiakban: Szankció tv.) 10. § (1) bekezdése szerinti körülményekre, valamint a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, illetve a betegellátási érdekre – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható. A Szankció tv. 10. § (1) bekezdés g) pontja szerinti körülmény e törvény alkalmazásában a jogsértést elkövető javára kizárólag abban az esetben vehető figyelembe, ha az elkövetett jogsértés a betegek biztonságát vagy az ellátási érdeket nem érintette.
 
 (4)
 
