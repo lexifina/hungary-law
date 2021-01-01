@@ -22,10 +22,10 @@ terjed ki.
 
 (5)[^4] A rendelet 14. §-ának a hatálya az (1) bekezdés c) pontjában foglaltakra terjed ki, a rendelet 25. § (4) bekezdésének a hatálya az (1) bekezdés c) pontjában foglaltakra és az Információs Hivatal hivatásos állománya tagjára terjed ki.
 
-(6)[^5] A rendelet hatálya a Nemzeti Adó- és Vámhivatal kormánytisztviselőire és hivatásos állományú tagjaira nem terjed ki.
+(6)[^5]
 
 [^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 479/2013. (XII. 17.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § a) pontja a 89/2019. (IV. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 38. §-ával megállapított szöveg.
 [^4]: Az 1. § (5) bekezdése az 552/2013. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (6) bekezdését a 479/2013. (XII. 17.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (6) bekezdését a 479/2013. (XII. 17.) Korm. rendelet 23. § (1) bekezdése iktatta be, hatályon kívül helyezte a 671/2020. (XII. 28.) Korm. rendelet 28. §-a.
