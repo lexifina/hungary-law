@@ -4,6 +4,6 @@ a) az általa létesített, el nem vihető halgazdálkodási berendezéseknek é
 
 b) az okszerű gazdálkodás mértékéig a hasznos beruházásoknak a szerződés megszűnésekor megállapítható tényleges értékét,
 
-c) a szerződés megszűnésekor fennálló haltelepítés meg nem térült költségeinek az e törvény végrehajtására kiadott rendeletben meghatározott mértékű részét.
+c)
 
 (2) A halgazdálkodási jog hat hónapon belüli ismételt haszonbérbe adása esetén az (1) bekezdés szerinti ellenértéket az új haszonbérlő köteles az előző haszonbérlő részére megfizetni.

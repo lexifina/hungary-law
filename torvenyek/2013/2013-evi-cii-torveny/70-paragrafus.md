@@ -1,4 +1,4 @@
-70. § (1) Ha a jogsértő állapot megszüntetése, vagy a további jogsértések megelőzése érdekében az e törvény szerint alkalmazható legalacsonyabb összegű bírság kiszabása is szükségtelen, a halgazdálkodási hatóság bírság kiszabása helyett figyelmeztetésben részesítheti az eljárás alá vont személyt.
+70. § (1)
 
 (2) A halgazdálkodási hatóság figyelmeztetésben részesíti az eljárás alá vont személyt, ha
 
@@ -11,3 +11,5 @@ c) a nem nyilvántartott halgazdálkodási vízterületen halfogásra jogosító
 d) a horgászat megkezdésének a fogási napló naptárában való megjelölését első alkalommal mulasztja el,
 
 e) a haltermelési létesítményen halfogásra jogosító okmányok nélkül horgászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat időpontjában érvényes állami horgászjegyét vagy turista állami horgászjegyét, továbbá a személyazonosság igazolására szolgáló arcképes igazolványát.
+
+(3) A halgazdálkodási hatóság nem alkalmazhat figyelmeztetést a 66. § (1) bekezdés b)–d), f) és g) pontjában, 66. § (2) bekezdésében, valamint a 67. § (1) bekezdés a)–f), i), l), m), o), q), s) és u) pontja esetében.

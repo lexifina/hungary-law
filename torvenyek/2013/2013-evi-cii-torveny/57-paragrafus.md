@@ -4,11 +4,11 @@
 
 a) a halgazdálkodási hatóságnál díj ellenében hivatásos halőri vizsgát és az e törvény végrehajtására kiadott rendeletben meghatározott szövegű esküt tett, és
 
-b) a működési helye szerinti halgazdálkodási hatóság által kiadott szolgálati igazolvánnyal és az igazolvánnyal azonos sorszámú szolgálati naplóval rendelkezik.
+b) a működési helye szerinti halgazdálkodási hatóság által kiadott szolgálati igazolvánnyal rendelkezik.
 
 (2a) A (2) bekezdés a) pontja szerinti hivatásos halőri vizsga érvényességét a társadalmi halőr működési helyének megváltozása nem érinti. Az a társadalmi halőr, aki az 56. § (2) bekezdés szerinti hivatásos halőri vizsgával rendelkezik, a (2) bekezdés a) pontjában előírt hivatásos halőri vizsga letételére nem köteles.
 
-(3) A társadalmi halőr kétévente a halgazdálkodási hatóság által szervezett továbbképzésen köteles részt venni.
+(3)
 
 (4) A társadalmi halőr jogosult
 

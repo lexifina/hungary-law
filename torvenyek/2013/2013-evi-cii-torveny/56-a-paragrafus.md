@@ -1,4 +1,4 @@
-56/A. § (1) A hivatásos halőr a nyilvántartott halgazdálkodási vízterület halállományának és élőhelyének őrzése érdekében az 56. § (7) bekezdés f) pontja szerinti tevékenysége során a kép-, video-, illetve hangrögzítő készüléket a következő feltételek együttes fennállása esetén üzemeltetheti:
+56/A. § (1) A hivatásos halőr a nyilvántartott halgazdálkodási vízterület halállományának és élőhelyének őrzése érdekében az 56. § (7) bekezdés szerinti tevékenysége során a kép-, video-, illetve hangrögzítő készüléket a következő feltételek együttes fennállása esetén üzemeltetheti:
 
 a) a kép-, video-, illetve hangfelvétel rögzítése a jogsértő cselekmények megelőzését vagy bizonyítását szolgálja,
 

@@ -8,9 +8,9 @@ b) a 40. § (3) bekezdésében meghatározott, horgászegyesületi tagsággal ne
 
 c) a 40. § (5) bekezdésében meghatározott, és
 
-d) az állapotát igazoló okmányokat benyújtó mozgásszervi vagy hallási fogyatékos,
+d) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő, állapotát igazoló okmányokat benyújtó mozgásszervi vagy hallási fogyatékos,
 
-e) a vak vagy gyengénlátó
+e) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő, állapotát igazoló okmányokat benyújtó vak vagy gyengénlátó
 
 személy.
 

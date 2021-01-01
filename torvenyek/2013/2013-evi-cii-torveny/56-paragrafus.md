@@ -2,7 +2,7 @@
 
 56. § (1) A halgazdálkodásra jogosult köteles a nyilvántartott halgazdálkodási vízterület halállományát és élőhelyét őrizni vagy őrzéséről – hivatásos vagy társadalmi halőr útján – gondoskodni. Hivatásos halőr halastavon is foglalkoztatható. Hivatásos halőrt a halgazdálkodásra jogosult megbízása alapján a horgászszövetség, valamint több halgazdálkodásra jogosult közösen is foglalkoztathat. A hivatásos halőr feladatainak ellátásával a mezei őrszolgálat is megbízható.
 
-(1a) A horgászszövetség vagy annak halgazdálkodásra jogosultnak minősülő tagszervezete által foglalkoztatott hivatásos halőr illetékessége a megbízó szervezet által hasznosított valamennyi nyilvántartott halgazdálkodási vízterületre kiterjed.
+(1a) A horgászszövetség által foglalkoztatott hivatásos halőr illetékessége a horgászszövetség által hasznosított nyilvántartott halgazdálkodási vízterületen túl a horgászszövetség szervezeti rendszerébe tartozó valamennyi horgászszervezet, a horgászszövetség tagszervezete által foglalkoztatott hivatásos halőr illetékessége a tagszervezet által hasznosított nyilvántartott halgazdálkodási vízterületen túl a tagszervezet szervezeti rendszerébe tartozó valamennyi horgászszervezet által hasznosított nyilvántartott halgazdálkodási vízterületre kiterjed.
 
 (2) A hivatásos halőr a halgazdálkodási hatóságnál – a halászattal és a horgászattal kapcsolatos ismeretekből, a halgazdálkodás és a halvédelem, a halőrzés, a mezei őrszolgálattal, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéből – hivatásos halőri vizsgát köteles tenni. A hivatásos halőr az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát a rendészeti feladatokat ellátó személyek, a segédfelügyelők, valamint a személy- és vagyonőrök képzéséről és vizsgáztatásáról szóló rendeletben kijelölt szerv előtt köteles letenni. A hivatásos halőr a halgazdálkodási hatóságnál az e törvény végrehajtására kiadott rendeletben meghatározott szövegű esküt tesz.
 
@@ -11,6 +11,10 @@
 (3) A hivatásos halőrnek az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott szolgálati igazolvánnyal, szolgálati jelvénnyel és egyenruhával kell rendelkeznie, valamint az alkalmazási feltételeknek meg kell felelnie.
 
 (4) A halőrzés módját, továbbá a hivatásos halőr foglalkoztatását vagy annak megszűnését a horgászszövetség, illetve a halgazdálkodásra jogosult köteles a halgazdálkodási hatóságnál nyilvántartásba vétel, illetve nyilvántartásból való törlés céljából haladéktalanul bejelenteni.
+
+(4a) A halgazdálkodási hatóság a nyilvántartásából törli azt a halőrt, akivel szemben halvédelmi bírságot szabtak ki, vagy aki a halőri tevékenységre vonatkozó szabályokat megsérti.
+
+(4b) A halgazdálkodási hatóság határozatában meghatározza annak időtartamát, hogy a (4a) bekezdés alapján törölt halőr meddig nem vehető ismételten nyilvántartásba.
 
 (5) A hivatásos halőr működési területét a megbízó határozza meg, amelyet köteles a halgazdálkodási hatóság felé bejelenteni. A hivatásos halőr jogosult a működési területén kívüli nem nyilvántartott halgazdálkodási vízterületen is eljárni.
 

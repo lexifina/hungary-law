@@ -32,7 +32,7 @@
 
 200 méteres sáv területe, továbbá a halgazdálkodási vízterület felé benyúló vagy afelett átívelő híd, átjáró, egyéb építmény, természetes képződmény;
 
-13. haltermelés: a közös halászati politikáról szóló 2013. december 11-i 1380/2013/EU európai parlamenti és tanácsi rendelet szerinti akvakultúra gyűjtőfogalmon belül valamely halfaj állományának mesterséges módon történő termelése, amely
+13. haltermelés: a közös halászati politikáról szóló 2013. december 11-i 1380/2013/EU európai parlamenti és tanácsi rendelet szerinti akvakultúra gyűjtőfogalmon belül valamely halfaj vagy más hasznos víziállat állományának mesterséges módon történő termelése, amely
 
 a) extenzív, ha a természetes táplálékbázis mellett kiegészítő természetes anyagokkal végzett hozamfokozó módszer,
 

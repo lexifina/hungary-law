@@ -46,6 +46,8 @@ v) a 21. § (1a) bekezdésében meghatározott tilalmat megszegő
 
 személlyel szemben.
 
+(1a) A halgazdálkodási hatóság országos illetékességű szerve alkalmazásában álló állami halászati őr az (1) bekezdés szerinti halvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
+
 (2) Ha a jogsértés súlya azt indokolja, a halgazdálkodási hatóság a vízilétesítmény üzemeltetőjére halvédelmi bírságot szab ki, ha a vízilétesítmény üzemeltetője a 19. § (1) vagy (3) bekezdésben foglaltaknak ismétlődő jelleggel nem tesz eleget és emiatt jelentős halpusztulás következik be.
 
 (3) A halvédelmi bírság legkisebb összege tízezer forint, legmagasabb összege ötszázezer forint.

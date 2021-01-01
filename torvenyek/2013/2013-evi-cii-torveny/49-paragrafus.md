@@ -1,6 +1,8 @@
 49. § (1) A halgazdálkodásra jogosult köteles 5 évre szóló halgazdálkodási tervet készíteni minden olyan nyilvántartott halgazdálkodási vízterületre, amelyre nézve területi jegyet ad ki, vagy amelyen horgászati célú haltermelést végez. A halgazdálkodási tervet a halgazdálkodási hatóság hagyja jóvá.
 
-(2) Ha a halgazdálkodási terv jóváhagyását követően a halállomány vagy a hal élőhelyének állapotában bekövetkezett változás miatt szükséges, a halgazdálkodási hatóság a halgazdálkodásra jogosult által benyújtott halgazdálkodási terv módosítását jóváhagyja, vagy a halgazdálkodási tervet hivatalból módosítja.
+(1a) A soron következő halgazdálkodási terv, – ha a haszonbérleti szerződés 5 éven belül jár le – a haszonbérleti szerződés érvényességének utolsó napjáig szóló időszakra hagyható jóvá.
+
+(2) Ha a halgazdálkodási terv jóváhagyását követően a halállomány vagy a hal élőhelyének állapotában bekövetkezett jelentős változás miatt szükséges, a halgazdálkodási hatóság a halgazdálkodásra jogosult által benyújtott halgazdálkodási terv módosítását jóváhagyja, vagy a halgazdálkodási tervet hivatalból módosítja.
 
 (3) A halgazdálkodási terv tartalmazza
 
@@ -8,7 +10,7 @@ a) a nyilvántartott halgazdálkodási vízterület azonosító adatait, a halga
 
 b) a vízterületen tervezett halgazdálkodást és más, halgazdálkodással összefüggő hasznosítási célokat,
 
-c) az alkalmazható horgászati, halászati eszközök és módszerek megjelölését,
+c)
 
 d) az évenkénti haltelepítés tervezett minimális mennyiségére vonatkozó adatokat, halfaj és korosztály szerinti megosztásban,
 
@@ -18,12 +20,12 @@ f) a halgazdálkodás érdekében a vízinövényzet és a víziállat-állomán
 
 g) az invazív, nem őshonos halfajok visszaszorítására vonatkozó intézkedési tervet,
 
-h) a halállomány őrzésének módját, a hivatásos halőrök és a társadalmi halőrök vonatkozásában az e törvény végrehajtására kiadott rendeletben megállapított, illetve az államot megillető halgazdálkodási jog haszonbérleti jogviszony keretében történő átengedésére irányuló pályázatban vagy szerződésben a kötelezőn felül vállalt minimális létszámát,
+h) a halállomány őrzésének módját, a hivatásos halőrök és a társadalmi halőrök minimális létszámát,
 
-i) a területi jegyek típusainak és tervezett mennyiségeinek meghatározását,
+i)
 
 j) a helyi horgászrend azon rendelkezéseit, amelyek – ha erre jogszabály lehetőséget ad – a jogszabályban meghatározott korlátozásokat enyhítik,
 
-k) a helyi horgászrendben, illetve helyi halászrendben szereplő, e törvényre és végrehajtására kiadott rendeletre való hivatkozást.
+k)
 
 (4) Halgazdálkodási tevékenység csak a halgazdálkodási hatóság által jóváhagyott halgazdálkodási terv alapján, a halgazdálkodásra jogosult által folytatható.

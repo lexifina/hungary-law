@@ -1,6 +1,6 @@
-68. § (1) A halgazdálkodási bírság, halvédelmi bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel kell meghatározni.
+68. § (1)
 
-(1a) A halgazdálkodási hatóság az (1) bekezdés szerinti mérlegelés körében a halgazdálkodási bírság kiszabása során
+(1a) A halgazdálkodási hatóság a közigazgatási szabályszegések szankcióiról szóló törvény szerinti mérlegelési szempontokon túl a halgazdálkodási bírság kiszabása során
 
 a) a jogsértő tevékenységgel veszélyeztetett vagy károsított őshonos halállomány becsült halgazdálkodási értékét,
 
@@ -20,7 +20,7 @@ h) a halgazdálkodásra jogosult által alkalmazott hivatásos halőrök számá
 
 veszi figyelembe.
 
-(1b) A halgazdálkodási hatóság az (1) bekezdés szerinti mérlegelés körében a halvédelmi bírság kiszabásakor
+(1b) A halgazdálkodási hatóság a közigazgatási szabályszegések szankcióiról szóló törvény szerinti mérlegelési szempontokon túl a halvédelmi bírság kiszabásakor
 
 a) a jogellenes cselekményhez használt eszközök típusát, mennyiségét, a cselekmény módszerét,
 

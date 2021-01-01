@@ -10,9 +10,11 @@ ba) természetes személy nevét, lakcímét, születési helyét, születési i
 
 bb) cég cégnevét és cégjegyzékszámát, a cégjegyzékben nem szereplő szervezet nevét, székhelyét és nyilvántartási számát;
 
-c) a halgazdálkodási jog haszonbérlet vagy alhaszonbérlet útján történő hasznosítása esetén a haszonbérlet időtartamát;
+bc) nyilvántartásba vételéről szóló hatósági határozat számát;
 
-d) a halgazdálkodási vízterületté nyilvánítást megállapító hatósági határozat számát;
+c) a halgazdálkodási jog haszonbérlet vagy alhaszonbérlet útján történő hasznosítása esetén a haszonbérlet és az alhaszonbérlet időtartamát;
+
+d) a halgazdálkodási vízterület nyilvántartásba vételét megállapító hatósági határozat számát;
 
 e) a halgazdálkodási jog gyakorlásának, illetve hasznosításának módját;
 

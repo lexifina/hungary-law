@@ -4,7 +4,7 @@
 
 a) kutatási vagy oktatási célból,
 
-b) keltetőházi szaporításhoz szükséges anyahalak begyűjtése,
+b) keltetőházi szaporításhoz szükséges törzsállomány begyűjtése,
 
 c) ártéren végzett halállomány- és halivadékmentés,
 

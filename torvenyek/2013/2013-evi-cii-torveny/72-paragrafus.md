@@ -14,7 +14,7 @@
 
 7. a halászati tilalmak és korlátozások 17. pont szerinti szabályozással nem érintett körét, valamint a tilalmak alóli felmentés szabályait;
 
-8. a veszélyeztetett hasznosítható őshonos halfajok országos fajmegőrzési tervét;
+8.
 
 9. a vízélettani laboratórium halgazdálkodási vízterületek minősítésére, vízszennyezéssel, halpusztulással kapcsolatos halélettani vizsgálatára vonatkozó szabályokat;
 
@@ -44,7 +44,7 @@
 
 22. a területi jegy részletes tartalmi követelményeit; valamint a fogási tanúsítvány nyomtatványtömb részletes formai és tartalmi követelményeit;
 
-23. a horgászat és a rekreációs célú halászat országos rendjét;
+23. a horgászat és a rekreációs célú halászat országos szabályait;
 
 24. a horgászszövetség és a halgazdálkodásra jogosult által a halgazdálkodási hatóságnak évente kötelezően benyújtandó, a horgászfogásokról és a rekreációs célú halászat fogásairól készített jelentés formai és tartalmi követelményeit;
 
@@ -52,7 +52,7 @@
 
 26.
 
-27. a többéves halgazdálkodási kezelési tervek tartalmi elemeit;
+27. a többéves halgazdálkodási tervek szerkezetét, kötelező és ajánlott tartalmi elemeit;
 
 28. a halgazdálkodásra jogosult által évente kötelezően elkészítendő halászatra vonatkozó fogási jelentés tartalmi elemeit;
 

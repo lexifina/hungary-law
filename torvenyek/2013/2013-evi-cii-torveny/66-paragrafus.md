@@ -1,6 +1,6 @@
 66. § (1) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki a halgazdálkodásra jogosulttal szemben, ha
 
-a) a halgazdálkodási terv benyújtására vonatkozó, vagy a halgazdálkodási terv szerinti kötelezettségének a halgazdálkodási hatóság figyelmeztetést tartalmazó döntésében történő felhívás ellenére nem tesz eleget;
+a) a halgazdálkodási terv benyújtására vonatkozó, vagy a halgazdálkodási terv szerinti kötelezettségének nem tesz eleget;
 
 b) a halgazdálkodási tervtől engedély nélkül eltér;
 
@@ -22,4 +22,4 @@ h) a 10. § (3) bekezdés szerint előírt kötelezettségének teljesítését 
 
 (4) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a halgazdálkodásra nem jogosult természetes vagy jogi személyre, aki halgazdálkodási vízterületen halgazdálkodási tevékenységet folytat, ideértve különösen a horgászat lehetővé tételét állami horgászjegy és horgász fogási napló vagy turista állami horgászjegy és fogási napló nélkül, továbbá a jogosulatlan haltelepítést.
 
-(5) A halgazdálkodási bírság legkisebb összege ötvenezer forint, legmagasabb összege ötmillió forint.
+(5) A halgazdálkodási bírság legkisebb összege ötvenezer forint, legmagasabb összege ötmillió forint, a jogsértő személyére tekintet nélkül.

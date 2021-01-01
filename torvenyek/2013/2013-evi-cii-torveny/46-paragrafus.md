@@ -18,7 +18,7 @@ e) búvárszigony vagy más, halfogásra alkalmas búváreszköz használata,
 
 f) gereblyézés alkalmazása,
 
-g) hurokvető halászati módszer alkalmazása; sorhoroggal, csapóhoroggal történő vagy rugó elven működő önakasztós halfogási módszer alkalmazása,
+g) hurokvető halászati módszer alkalmazása; sorhoroggal, fenékhoroggal, csapóhoroggal történő vagy rugó elven működő önakasztós halfogási módszer alkalmazása,
 
 h) a 2. § 21. pontja szerinti nyakzó háló alkalmazása,
 

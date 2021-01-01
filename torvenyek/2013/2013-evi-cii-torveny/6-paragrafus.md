@@ -3,3 +3,5 @@
 (2) A hal kifogására az adott halgazdálkodási vízterületen halgazdálkodásra jogosult, vagy az általa feljogosított, halfogásra jogosító okmányokkal rendelkező személy (a továbbiakban: feljogosított személy) jogosult. A feljogosított személy a jogszerű kifogással és a fogási naplóban való rögzítéssel szerzi meg a hal tulajdonjogát.
 
 (3) A jogosulatlanul kifogott hal, valamint más hasznos víziállat a halgazdálkodásra jogosult tulajdonába kerül, ha a vízbe élve már nem helyezhető vissza.
+
+(4) Haltermelési létesítményben termelt hal vagy más hasznos víziállat állománya – a felek eltérő megállapodásának hiányában – a haltermelési létesítmény üzemeltetőjének, ennek hiányában tulajdonosának a tulajdonát képezi.

@@ -1,6 +1,6 @@
 ## 13. A területi jegy
 
-44. § (1) A halgazdálkodásra jogosult területi jegy adásával a feljogosított személy részére horgászati vagy halászati lehetőséget biztosíthat. Területi jegyet két vagy több halgazdálkodásra jogosult együttesen is kiadhat.
+44. § (1) A halgazdálkodásra jogosult területi jegy adásával a feljogosított személy részére horgászati vagy rekreációs halászati lehetőséget biztosíthat. Területi jegyet két vagy több halgazdálkodásra jogosult együttesen is kiadhat.
 
 (2) Területi jegy csak nyilvántartott halgazdálkodási vízterületre adható ki.
 
@@ -14,11 +14,13 @@ c) turista állami horgászjeggyel és fogási naplóval
 
 együtt jogosít halászatra vagy horgászatra.
 
-(4) A területi jegyen a halgazdálkodásra jogosultnak fel kell tüntetnie a halgazdálkodási tervében a hatóság által jóváhagyott korlátozásokat, amelyek betartása a feljogosított személy számára kötelező. A területi jegy részletes tartalmi követelményeit az e törvény végrehajtására kiadott rendelet határozza meg.
+(4) A területi jegyen vagy a területi jegy elidegeníthetetlen mellékleteként kiadott helyi horgászrendben, illetve a területi jegyen meghatározott halgazdálkodási vízterületre vonatkozó helyi horgászrendi kivonatban a halgazdálkodásra jogosultnak fel kell tüntetnie a halgazdálkodási tervében a hatóság által elrendelt vagy a halgazdálkodásra jogosult által meghatározott korlátozásokat, amelyek betartása a feljogosított személy számára kötelező. A területi jegy részletes tartalmi követelményeit – ideértve különösen a hatályossági időszakot, horgászati módszereket, személyi feltételeket – az e törvény végrehajtására kiadott rendelet határozza meg.
 
 (4a) A horgászszövetség nyilvántartja és honlapján közzéteszi a horgászszervezetek által kiadható területi jegyek jogosultsági típusait.
 
 (5) A halgazdálkodásra jogosult a feljogosított személytől a hivatásos halőr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
+
+(5a) A halgazdálkodásra jogosult a helyi horgászrendben meghatározott szabályokat bizonyítottan megsértőtől a helyi horgászrendben előzetesen meghatározott időtartamra, de legfeljebb öt évre a területi jegy kiadását megtagadhatja.
 
 (6) A halgazdálkodásra jogosult köteles nyilvántartást vezetni az általa kiadott területi jegyekről, továbbá köteles
 

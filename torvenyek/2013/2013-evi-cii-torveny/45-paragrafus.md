@@ -40,4 +40,4 @@ bc) a halfajonként naponta és évente kifogható összes mennyiségre (halász
 
 e törvény végrehajtására kiadott rendeletben meghatározott rendelkezéseket.
 
-(6) A halgazdálkodásra jogosult az (5) bekezdésben meghatározottaktól eltérő korlátozásokat is meghatározhat a hasznosításában lévő halgazdálkodási vízterületre vonatkozóan, amennyiben ezeket a halgazdálkodási terv részeként a halgazdálkodási hatóság jóváhagyta. E korlátozásokat a területi jegyen fel kell tüntetni.
+(6) A halgazdálkodásra jogosult helyi horgászrendjében az (5) bekezdésben meghatározottaktól eltérő, további szigorító korlátozásokat is meghatározhat a hasznosításában lévő halgazdálkodási vízterületre vonatkozóan.

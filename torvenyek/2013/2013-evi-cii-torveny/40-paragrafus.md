@@ -6,13 +6,15 @@
 
 (4) Egy személy évente egy alkalommal, korlátozott időtartamra, a szükséges szabály- és fajismeret igazolása mellett, az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint történő horgászathoz turista állami horgászjegyet válthat, amely vonatkozásában a (2) bekezdésben foglaltakat nem kell alkalmazni.
 
+(4a) A turista állami horgászjegyet és a hozzá tartozó fogási naplót a horgászszövetség adja ki.
+
 (5) Az állami horgászvizsga letétele alól mentesül azon értelmi fogyatékos személy, akinek a törvényes képviselője az állapotát igazoló okmányokat az állami horgászvizsga bizottság számára benyújtja. Az állami horgászvizsga letétele alól mentesített, halfogásra jogosító okmányokkal rendelkező értelmi fogyatékos személy kizárólag 18. életévét betöltött, állami horgászvizsgával rendelkező személy folyamatos jelenlétében horgászhat.
 
 (6)
 
-(7) Az állami horgászvizsga letétele alól mentesül azon vak vagy gyengénlátó személy, aki ezen állapotát igazoló okmányokat az állami horgászvizsga bizottság számára benyújtja.
+(7) Az állami horgászvizsga letétele alól mentesül a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő vak vagy gyengénlátó személy, aki ezen állapotát igazoló okmányokat az állami horgászvizsga bizottság számára benyújtja.
 
-(8) Az állami horgászjegy és a horgász fogási napló összevont halfogásra jogosító okmányként is kiadható. Az állami horgászjegy, a turista állami horgászjegy és az állami halászjegy, valamint a horgász fogási napló és a halász fogási napló, továbbá a területi jegy elektronikus formában is kiadható.
+(8) Az állami horgászjegy és a horgász fogási napló összevont halfogásra jogosító okmányként is kiadható. Az állami horgászvizsga bizonyítvány, az állami horgászjegy, a turista állami horgászjegy és az állami halászjegy, valamint a horgász fogási napló és a halász fogási napló, továbbá a területi jegy elektronikus formában is kiadható.
 
 (9) Az állami horgászvizsgáztatást a horgászszövetség, illetve az általa horgászvizsgáztatásra feljogosított horgászszervezet végzi.
 

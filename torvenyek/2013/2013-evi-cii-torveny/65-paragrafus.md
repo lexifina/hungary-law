@@ -1,4 +1,4 @@
-65. § A halgazdálkodási hatóság az e törvény végrehajtására kiadott rendeletben meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő intézkedéseket hozhatja:
+65. § A halgazdálkodási hatóság az e törvény végrehajtására kiadott rendeletben meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a szankció kiszabásán túlmenően, a következő intézkedéseket és jogkövetkezményeket alkalmazhatja:
 
 a) tevékenység végzését határozott időre, teljesen vagy részlegesen felfüggesztheti, korlátozhatja, a működést megtilthatja, az újbóli működést feltételhez kötheti;
 
@@ -14,4 +14,4 @@ f) elrendelheti a halállomány, haltermék lefoglalását, zár alá vételét,
 
 g) megtilthatja gépek, eszközök használatát;
 
-h) halfogásra alkalmas eszközt lefoglalhat, zár alá vehet, elkobozhat, elrendelheti a tulajdonos költségére történő megsemmisítését.
+h) halfogásra alkalmas vagy halfogási célt szolgáló eszközt lefoglalhat, zár alá vehet, elkobozhat, elrendelheti a tulajdonos költségére történő megsemmisítését.
