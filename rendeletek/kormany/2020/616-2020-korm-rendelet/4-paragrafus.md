@@ -1,3 +1,5 @@
-## 3. §[^3]
+## 3. § A befektetési alapok éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 215/2000. (XII. 11.) Korm. rendelet (a továbbiakban: Befakr.) a következő 15. §-sal egészül ki:
 
-[^3]: A 3. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „15. § (1) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló kormányrendelet módosításáról szóló 616/2020. (XII. 21.) Korm. rendelettel megállapított 1. mellékletét először a 2021. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+## (2) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló kormányrendelet módosításáról szóló 616/2020. (XII. 21.) Korm. rendelettel megállapított 1. mellékletét a 2020. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.”

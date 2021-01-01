@@ -1,3 +1,7 @@
-## 15. §[^15]
+## lép.
 
-[^15]: A 15. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 16. § Hatályát veszti a Knyr.
+
+1. 10/A. § (4) bekezdés c) és d) pontja,
+
+2. 11/A. § (7) bekezdése.
