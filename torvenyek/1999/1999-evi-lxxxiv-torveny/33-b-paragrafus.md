@@ -2,7 +2,7 @@
 
 a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott közélet tisztasága elleni, közbizalom elleni vagy vagyon elleni,
 
-b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII., XXXIII. vagy XXXV–XXXVII. Fejezetében meghatározott
+b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII., XXXIII., XXXV–XXXVII. vagy XL. Fejezetében meghatározott
 
 bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 

@@ -10,11 +10,11 @@ d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 
 e) a települési önkormányzat jegyzője
 
-ea) gépjármű-adóztatási feladatok ellátásához a 9. § (1)–(1c) és (2)–(6a) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat,
+ea)
 
 eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/D. § (1) bekezdés a)–c) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
-f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) bekezdésében, a 9. § (2) bekezdés a)–c) és e) pontjában és a 9/D. § (1) bekezdés a)–d) pontjában, a 9/D. § (2) bekezdés a)–b) pontjában, valamint a 9/D. § (3) bekezdésében meghatározott adatokat;
+f) az adóhatóság az adóigazgatási eljáráshoz a 8. § (1) bekezdés a) pont aa) és ab) alpontjában, a b) pont ba) és bc) alpontjában, a 9. § (1)–(1c) bekezdésében és (2)–(6a) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat;
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 8. § (1) bekezdés a) pont aa) és ab) alpontjában és b) pont ba), bc) és bd) alpontjában meghatározott adatokat;
 
@@ -78,7 +78,7 @@ e) a Gfbt.-ben meghatározott biztosító és a Kártalanítási Számla kezelő
 
 f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat;
 
-g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatainak ellátásához a 8. §-ban meghatározott adatokat.
+g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatainak ellátásához a 8. §-ban meghatározott adatokat;
 
 (3) A nyilvántartásból adatot igényelhet:
 
