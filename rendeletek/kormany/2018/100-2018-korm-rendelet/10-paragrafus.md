@@ -1,4 +1,4 @@
-## 9. §[^3]
+## 9. §[^4]
 
 ## 8. A jegyzőkönyv kijavítása vagy kiegészítése
 
@@ -16,4 +16,4 @@ d) a javításokat, kiegészítéseket az azt végzőnek – az időpont megjel�
 
 (3) Elektronikus formában készült jegyzőkönyv kijavítását, illetve kiegészítését a kijavítandó, kiegészítendő rész megjelölésével külön elektronikus okiratban kell elkészíteni, feltüntetve a javított vagy kiegészített jegyzőkönyv iktatószámát is.
 
-[^3]: A 9. §-t a 284/2020. (VI. 17.) Korm. rendelet 86. § b) pontja hatályon kívül helyezte.
+[^4]: A 9. §-t a 284/2020. (VI. 17.) Korm. rendelet 86. § b) pontja hatályon kívül helyezte.

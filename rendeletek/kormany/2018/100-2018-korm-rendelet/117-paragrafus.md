@@ -1,4 +1,4 @@
-## 116. § Ha megállapítható, hogy a megalapozottan gyanúsítható személlyel vagy a terhelttel szemben más eljárásban európai elfogatóparancsot, illetve nemzetközi elfogatóparancsot bocsátottak ki, a nyomozó hatóság csak törvényben meghatározott kizáró ok esetén mellőzi európai elfogatóparancs, illetve nemzetközi elfogatóparancs kibocsátásának kezdeményezését.
+## 116. §[^16] Ha megállapítható, hogy a bűncselekmény elkövetésével megalapozottan gyanúsítható személlyel vagy a terhelttel szemben más eljárásban európai elfogatóparancsot, illetve nemzetközi elfogatóparancsot bocsátottak ki, a nyomozó hatóság csak törvényben meghatározott kizáró ok esetén mellőzi európai elfogatóparancs, illetve nemzetközi elfogatóparancs kibocsátásának kezdeményezését.
 
 ## 67. A szignalizáció
 
@@ -13,3 +13,5 @@
 (5) A gyermekjóléti szolgálathoz, továbbá a gyermek lakóhelye szerint illetékes gyámhatósághoz intézett szignalizáció nem mellőzhető, ha a nyomozó hatóság a szülő vagy a törvényes képviselő által a gyermek- vagy fiatalkorú sérelmére elkövetett bűncselekmény gyanúja miatt nyomozást indít.
 
 (6) A szignalizáció teljesítésével kapcsolatos ügyiratokat a nyomozó hatóság az eljárás ügyiratai között kezeli.
+
+[^16]: A 116. § a 675/2020. (XII. 28.) Korm. rendelet 17. § 4. pontja szerint módosított szöveg.

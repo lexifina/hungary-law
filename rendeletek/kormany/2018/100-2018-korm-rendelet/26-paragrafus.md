@@ -1,4 +1,4 @@
-## 25. § Ha az ügyészség a vádemelés után bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása érdekében adatgyűjtést végez, és ehhez a nyomozó hatóságot igénybe veszi, a nyomozó hatóság az adatgyűjtést az ügyészség rendelkezései szerint végzi.
+## 25. §[^5] Ha az ügyészség a vádemelés után bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása vagy elkobozható, illetve vagyonelkobzás alá eső dolog vagy vagyon felderítése és biztosítása érdekében adatgyűjtést végez, és ehhez a nyomozó hatóságot igénybe veszi, a nyomozó hatóság az adatgyűjtést az ügyészség rendelkezései szerint végzi.
 
 ## 16. Más szerv megkeresése
 
@@ -17,3 +17,5 @@
 (7) A megkeresett az eljárási cselekmény elvégzését követően az eljárási cselekménnyel összefüggő ügyiratokat megküldi a megkeresőnek. A megkereső és a megkeresett eltérő megállapodása hiányában a megkereső gondoskodik az őrizetben lévő személy és a lefoglalt dolgok elszállításáról.
 
 (8) Az eljárási cselekménnyel összefüggésben a Be.-ben foglaltak szerint előterjesztett jogorvoslatot a megkeresett – indokolt esetben az elvégzés során keletkezett ügyiratokkal együtt – a megkereső részére továbbítja.
+
+[^5]: A 25. § a 675/2020. (XII. 28.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.

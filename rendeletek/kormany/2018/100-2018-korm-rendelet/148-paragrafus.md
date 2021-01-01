@@ -1,8 +1,8 @@
-148. § (1) A nyomozó hatóság a nem magyar állampolgár gyanúsított ügyében a gyanúsított kihallgatásáról, az eljárás felfüggesztéséről és megszüntetéséről, valamint a személyi szabadságot érintő kényszerintézkedésekről huszonnégy órán belül tájékoztatja az idegenrendészeti hatóságot.
+148. § (1)[^22] A nyomozó hatóság a nem magyar állampolgár gyanúsított ügyében a gyanúsított kihallgatásáról, az eljárás felfüggesztéséről és megszüntetéséről, valamint a nem magyar állampolgár gyanúsított vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy személyi szabadságát érintő kényszerintézkedésekről huszonnégy órán belül tájékoztatja az idegenrendészeti hatóságot.
 
 (2) A tájékoztatás tartalmazza
 
-a) a gyanúsított
+a)[^23] a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy
 
 aa) természetes személyazonosító adatait,
 
@@ -20,8 +20,14 @@ b) az eljáró nyomozó hatóság megnevezését és az ügy számát,
 
 c) a bűncselekmény Btk. szerinti minősítését és elkövetésének idejét,
 
-d) a gyanúsítottat érintő eljárási cselekmény időpontját és a személyi szabadságot érintő kényszerintézkedés határidejét és
+d)[^24] a gyanúsítottat vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt érintő eljárási cselekmény időpontját és a személyi szabadságot érintő kényszerintézkedés határidejét és
 
-e) a gyanúsított fogva tartása esetén a fogva tartás helyét.
+e)[^25] a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy fogva tartása esetén a fogva tartás helyét.
 
-(3) Ha a gyanúsított más állam állampolgára, indítványára a 48. § (2) bekezdésében meghatározott módon tájékoztatni kell az általa megjelölt külképviseletet.
+(3)[^26] Ha a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy más állam állampolgára, indítványára a 48. § (2) bekezdésében meghatározott módon tájékoztatni kell az általa megjelölt külképviseletet.
+
+[^22]: A 148. § (1) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
+[^23]: A 148. § (2) bekezdés a) pont nyitó szövegrésze a 675/2020. (XII. 28.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
+[^24]: A 148. § (2) bekezdés d) pontja a 675/2020. (XII. 28.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
+[^25]: A 148. § (2) bekezdés e) pontja a 675/2020. (XII. 28.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
+[^26]: A 148. § (3) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
