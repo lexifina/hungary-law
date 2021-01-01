@@ -8,7 +8,7 @@
 
 4. 21. § (2) bekezdésében az „a felhasználó,” szövegrész helyébe az „a felhasználó, az aggregátor, az energiaközösség,” szöveg,
 
-5. 35. § (2) bekezdésében a „(3) bekezdés szerinti” szövegrész helyébe a „(3) és (3a) bekezdés szerinti” szöveg,
+5.
 
 6. 40. § (4) bekezdésében az „az egyetemes szolgáltatásra jogosult felhasználó” szövegrész helyébe az „a felhasználó” szöveg,
 

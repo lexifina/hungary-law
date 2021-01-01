@@ -62,8 +62,4 @@
 
 79. Kereskedőváltással kapcsolatos díj: a villamosenergia-kereskedő vagy az aggregátor vagy a hálózati engedélyes által a kereskedőváltás vagy az aggregátorváltás esetén közvetve vagy közvetlenül a felhasználóra vagy aggregálásban részt vevőre kiszabott díj vagy pénzügyi szankció, ideértve a szerződésmegszüntetési díjat is;”
 
-(10) A Vet. 3. §-a a következő 80. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„80. Kereskedőváltás technikai folyamata: az a folyamat, amely során a villamosenergia-kereskedő a hálózati engedélyes felé nyilatkozatot tesz a kereskedőváltás tényéről és azt a hálózati engedélyes átvezeti a rendszerében, amelynek kezdő időpontja a kereskedőváltásra irányuló felhasználói kérelem hálózati engedélyesnek történő kézbesítésének napja, záró időpontja pedig az az időpont, amikor a hálózati engedélyes kereskedőváltás átvezetésére vonatkozó nyilatkozatát az érintett villamosenergia-kereskedő számára kézbesítik.”
+(10)
