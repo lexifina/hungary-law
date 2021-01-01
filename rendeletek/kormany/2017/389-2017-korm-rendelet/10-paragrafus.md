@@ -6,15 +6,16 @@
 
 (3) A munkáltató nyilatkoztatja a foglalkoztatottat, hogy a nemzetközi közigazgatási szakértői tevékenységet
 
-a)[^7] a Kttv. 100. § (1) bekezdése, a Hszt. 142. § (1) bekezdése vagy a 289/O. § (1) bekezdése szerinti alap- és pótszabadság igénybevételével kívánja ellátni,
+a)[^9] a Kttv. 100. § (1) bekezdése, a NAV Szj. tv. 110. §-a, a Hszt. 142. § (1) bekezdése vagy a 289/O. § (1) bekezdése szerinti alap- és pótszabadság igénybevételével kívánja ellátni,
 
-b)[^8] a Kttv. 113. § (5) bekezdése alapján fizetés nélküli szabadság vagy a Hszt. 150. § (4) bekezdése, vagy 289/R. § (10) bekezdése alapján illetmény nélküli szabadság igénybevételével kívánja ellátni,
+b)[^10] a Kttv. 113. § (5) bekezdése alapján fizetés nélküli szabadság vagy a Hszt. 150. § (4) bekezdése, vagy 289/R. § (10) bekezdése, valamint a NAV Szj. tv. 124. § (1) bekezdés e) pontja alapján illetmény nélküli szabadság igénybevételével kívánja ellátni,
 
-c) a Kttv. 79. § l) pontja alapján a munkavégzési kötelezettség alóli mentesülés vagy a Hszt. 105. § (1) bekezdés h) pontja alapján a szolgálatteljesítési kötelezettség alóli mentesülés alapján kívánja ellátni, vagy
+c)[^11] a Kttv. 79. § l) pontja vagy a NAV Szj. tv. 85. § (1) bekezdés n) pontja alapján a munkavégzési kötelezettség alóli mentesülés vagy a Hszt. 105. § (1) bekezdés h) pontja alapján a szolgálatteljesítési kötelezettség alóli mentesülés alapján kívánja ellátni, vagy
 
 d) – ha a szakértői tevékenység ellátása nem érinti a munkaidőt vagy szolgálatteljesítési időt – az a)–c) pont alkalmazása nélkül kívánja ellátni.
 
 (4) A célfeladattal kapcsolatos megállapodás megkötésére a 8. §-t megfelelően alkalmazni kell.
 
-[^7]: A 10. § (3) bekezdés a) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^8]: A 10. § (3) bekezdés b) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^9]: A 10. § (3) bekezdés a) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (4) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § d) pontja szerint módosított szöveg.
+[^10]: A 10. § (3) bekezdés b) pontja a 11/2019. (II. 5.) Korm. rendelet 6. § (4) bekezdésével megállapított, a 672/2020. (XII. 28.) Korm. rendelet 112. § e) pontja szerint módosított szöveg.
+[^11]: A 10. § (3) bekezdés c) pontja a 672/2020. (XII. 28.) Korm. rendelet 112. § f) pontja szerint módosított szöveg.

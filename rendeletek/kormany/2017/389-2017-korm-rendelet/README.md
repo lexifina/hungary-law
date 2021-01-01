@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-389-20-
 | --- | --- | --- |
 | 2018-01-01 | 2017-389-20-22.1 | 389/2017. (XII. 13.) Korm. rendelet |
 | 2019-02-06 | 2017-389-20-22.2 | 11/2019. (II. 5.) Korm. rendelet |
+| 2021-01-01 | 2017-389-20-22.3 | 11/2019. (II. 5.) Korm. rendelet |
