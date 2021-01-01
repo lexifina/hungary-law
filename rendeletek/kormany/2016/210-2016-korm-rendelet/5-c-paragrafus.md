@@ -1,4 +1,4 @@
-## 5/C. §[^15] Az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – az eredeti tervek alapján történő homlokzat- és tetőrekonstrukció, épületrekonstrukció, az elbontott rizalitok visszaépítése –, valamint az ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint megvalósuló, Beruházásokkal érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) és a hatályos településrendezési eszközöket a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
+## 5/C. §[^16] Az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – az eredeti tervek alapján történő homlokzat- és tetőrekonstrukció, épületrekonstrukció, az elbontott rizalitok visszaépítése –, valamint az ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint megvalósuló, Beruházásokkal érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) és a hatályos településrendezési eszközöket a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
 
 1. a Beruházások során felépítendő épületek eredeti építészeti arculatának kialakítása és a hozzá kapcsolódó Beruházások során nem kell a helyi építési szabályzat szerinti funkcióvizsgálatot, illetve rehabilitációs tervet készíteni,
 
@@ -72,4 +72,4 @@ b) rekonstruált várfal több ingatlanon műszakilag egységes módon kialakít
 
 c) az 1. melléklet 1. pontjában foglalt táblázat 12. és 24. sora szerinti beruházás révén megvalósuló mélygarázsban központi elektromos átalakító- vagy kapcsolóberendezés és hidegenergia központ létesíthető.
 
-[^15]: Az 5/C. §-t a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdése iktatta be, szövege a 460/2020. (X. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^16]: Az 5/C. §-t a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdése iktatta be, szövege a 460/2020. (X. 20.) Korm. rendelet 6. §-ával megállapított szöveg.

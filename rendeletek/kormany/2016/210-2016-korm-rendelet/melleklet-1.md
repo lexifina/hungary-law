@@ -1,6 +1,6 @@
-## 11. §[^23] E rendeletnek a Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet, valamint a Mathias Corvinus Collegium tehetséggondozási központjának kivitelezési munkálataival kapcsolatos kiemelten közérdekű beruházásról és az azzal összefüggő nemzetgazdasági szempontból kiemelt jelentőségű ügyekről szóló 370/2020. (VII. 30.) Korm. rendelet módosításáról szóló 460/2020. (X. 20.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépésekor[^24] folyamatban lévő ügyekben is alkalmazni kell.
+## 11. §[^24] E rendeletnek a Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet, valamint a Mathias Corvinus Collegium tehetséggondozási központjának kivitelezési munkálataival kapcsolatos kiemelten közérdekű beruházásról és az azzal összefüggő nemzetgazdasági szempontból kiemelt jelentőségű ügyekről szóló 370/2020. (VII. 30.) Korm. rendelet módosításáról szóló 460/2020. (X. 20.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépésekor[^25] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^25]
+1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^26]
 
 1. A Budai Palotanegyed fenntartható fejlesztését, valamint tervszerű és egységes szemléletű helyreállítását szolgáló, kiemelten közérdekű beruházások felsorolása
 
@@ -78,6 +78,6 @@
 
 | 6. | A Magyar Nemzeti Levéltár épületének rekonstrukciója és bővítése | Budapest I. kerület, belterület 6627, 6628 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6563, 6622, 6632 helyrajzi számú ingatlan | 2021. 01. 01. – 2026. 12. 31. |
 
-[^23]: A 11. §-t a 460/2020. (X. 20.) Korm. rendelet 8. §-a iktatta be.
-[^24]: A hatálybalépés időpontja 2020. október 21.
-[^25]: Az 1. melléklet a 460/2020. (X. 20.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^24]: A 11. §-t a 460/2020. (X. 20.) Korm. rendelet 8. §-a iktatta be.
+[^25]: A hatálybalépés időpontja 2020. október 21.
+[^26]: Az 1. melléklet a 460/2020. (X. 20.) Korm. rendelet 9. §-ával megállapított szöveg.
