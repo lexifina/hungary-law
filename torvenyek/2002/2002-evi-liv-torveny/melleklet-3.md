@@ -38,7 +38,7 @@ A törvény 29. § (1) bekezdés b) pontjában meghatározott bűncselekmények 
 
 18. lopás (Btk. 370. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 316. §), ha annak tárgya gépjármű, illetve a dolog elleni erőszakkal elkövetett lopás Btk. 370. § (4) bekezdés b) pontja, (5) bekezdés b) pontja, valamint (6) bekezdés b) pontja, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 316. § (5) bekezdés b) pontja, a (6) bekezdés b) pontja, valamint a (7) bekezdés b) pontja szerint minősülő esetei,
 
-19. az orgazdaság súlyosabban minősülő esetei [Btk. 379. § (3)–(6) bekezdés, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 326. § (3)–(5) bekezdés], amelyen érteni kell a 2011. december 31-ig hatályban volt jövedéki orgazdaságot is,
+19. az orgazdaság súlyosabban minősülő esetei [a 2020. december 31-éig hatályban volt Btk. 379. § (3)–(6) bekezdés, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 326. § (3)–(5) bekezdés], amelyen érteni kell a 2011. december 31-ig hatályban volt jövedéki orgazdaságot is,
 
 20. szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 385. § (2)–(4) bekezdés, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 329/A. § (2)–(4) bekezdés],
 

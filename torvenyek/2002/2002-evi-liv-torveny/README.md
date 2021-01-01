@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-54-00-00
 | 2017-05-01 | 2016. évi CXVI. törvény | 2002-54-00-00.17 |
 | 2018-01-01 | 2017. évi XXXIX. törvény | 2002-54-00-00.18 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2002-54-00-00.19 |
+| 2021-01-01 | 2020. évi XLIII. törvény | 2002-54-00-00.20 |
