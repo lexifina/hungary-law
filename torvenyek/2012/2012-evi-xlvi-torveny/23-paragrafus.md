@@ -22,6 +22,8 @@ h) jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzés
 
 i) a földrendező és földkiadó bizottságokról szóló törvény szerinti közös tulajdon megszüntetésével kapcsolatos földmérési munkák.
 
+(1a) Nem minősül az (1) bekezdés szerinti egységes ingatlan-nyilvántartás tartalmának változását eredményező földmérési munkának a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény alapján készülő térképvázlat és területkimutatás előállítására irányuló tevékenység.
+
 (2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül az (1) bekezdésben foglaltakon kívül a földrészlethatárok kitűzésével és a földrészleten belüli használati megosztással kapcsolatos munka.
 
 (2a) Az (1) bekezdésben felsorolt munkák során előállított munkarészek szerinti változások az ingatlan-nyilvántartási átvezetéssel válnak az állami ingatlan-nyilvántartási térképi alapadatbázis részévé.

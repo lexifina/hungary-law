@@ -2,9 +2,9 @@
 
 (2) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő változásokat, az (5) bekezdésben foglaltak kivételével, a földrészlet tulajdonosa, illetve a tulajdonosi jogok gyakorlója (a továbbiakban: kötelezett), a változás bekövetkeztétől számított harminc napon belül, az ingatlan-nyilvántartási jogszabályok előírásainak megfelelően köteles bejelenteni az ingatlanügyi hatóságnak. Közös tulajdon esetén, a bejelentési kötelezettség elmulasztásából eredő felelősség a tulajdonostársakat egyetemlegesen terheli.
 
-(3) Ha az ingatlanügyi hatóság bejelentésre vagy hivatalból a (2) bekezdés hatálya alá tartozó olyan változást észlel, amelyet az arra kötelezett nem jelentett be, – határidő tűzésével – harminc napon belül felszólítja a kötelezettet a változás átvezetésére alkalmas munkarészek, valamint az átvezetéshez szükséges okiratok és egyéb hatósági engedélyek, igazolások benyújtására.
+(3) Ha az ingatlanügyi hatóság bejelentésre vagy hivatalból a (2) bekezdés hatálya alá tartozó olyan változást észlel, amelyet az arra kötelezett nem jelentett be, – határidő tűzésével – harminc napon belül kötelezi a kötelezettet a változás átvezetésére alkalmas munkarészek, valamint az átvezetéshez szükséges okiratok és egyéb hatósági engedélyek, igazolások benyújtására.
 
-(4) Amennyiben a kötelezett az előírt határidő lejártáig a felszólításnak nem tesz eleget, az ingatlanügyi hatóság a kötelezett költségére intézkedik a változás beméréséről és az ingatlan-nyilvántartási jogszabályokban meghatározottak szerinti átvezetéséről.
+(4) Amennyiben a kötelezett az előírt határidő lejártáig a kötelezésnek nem tesz eleget, az ingatlanügyi hatóság a kötelezett költségére intézkedik a változás beméréséről és az ingatlan-nyilvántartási jogszabályokban meghatározottak szerinti átvezetéséről.
 
 (5) A földrészlet határvonalának változását elrendelő, megállapító vagy engedélyező közigazgatási, illetve bírósági határozatokat – az ingatlanügyi hatóság által a helyrajzi számozás és a területszámítás helyessége szempontjából vizsgált, érvényes záradékkal rendelkező – az állami ingatlan-nyilvántartási térképi adatbázis tartalmi és pontossági előírásainak megfelelő változási vázrajz alapján kell meghozni.
 

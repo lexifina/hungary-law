@@ -93,3 +93,5 @@ d) földmérő igazolvány, illetve minősítés érvényességi ideje.
 (10) Jogosulatlan földmérési tevékenységet végez az, aki az (1) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
 
 (11) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
+
+(12) A (9) és (11) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.
