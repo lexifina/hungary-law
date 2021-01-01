@@ -15,3 +15,5 @@ ba) a továbbértékesítésről szóló szerződés felbontásakor vagy megszü
 bb) a pénzügyi lízingszerződésen alapuló tulajdonjog-bejegyzés iránti kérelem elutasításáról szóló döntés véglegessé válása
 
 naptári évének utolsó napjától számított 5 év elteltével évül el.
+
+(4) Az illeték megállapításához való jog a 26. § (2g) bekezdése szerinti esetben annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amely évben a vagyonszerző a családi otthonteremtési kedvezményt – saját elhatározásából – visszafizette vagy a hatóság annak visszafizetését rendelte el.

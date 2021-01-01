@@ -18,7 +18,7 @@
 
 (5) E törvény nem érinti azokat a jogszabályokat, amelyek illetékmentességet állapítanak meg.
 
-(6) Ahol valamely jogszabály közigazgatási hatósági eljárásért állapít meg illetékkötelezettséget, a továbbiakban e törvényben meghatározott általános tételű eljárási illetéket kell fizetni.
+(6)
 
 (7) A 67. § rendelkezései nem érintik az e törvény hatálybalépése előtt kiadott díjrendelkezéseket.
 

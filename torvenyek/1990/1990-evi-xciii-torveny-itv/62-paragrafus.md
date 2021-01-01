@@ -2,9 +2,9 @@
 
 a) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, ha az a munkavállaló vagy az állam nevében foglalkoztatott személy szándékos vagy súlyos gondatlan károkozásával, valamint a vezető állású munkavállaló kártérítési felelősségével kapcsolatban indult; továbbá a végkielégítés iránti per a törvény alapján járó összegen felüli részében, ha az a minimálbér hússzorosát meghaladja;
 
-b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;
+b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése vagy sérelemdíj megfizetése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;
 
-c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt –, valamint a szabálysértésből származó kár megtérítése iránti igény esetén;
+c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt vagy ezekkel összefüggésben felmerült sérelemdíj megfizetését –, valamint a szabálysértésből származó kár megtérítése, illetve az azzal összefüggésben felmerült sérelemdíj megfizetése iránti igény esetén;
 
 d) a házassági perben, kivéve a házassági bontópert, valamint a házassági perben érvényesített vagyonjogi igényt;
 

@@ -14,7 +14,7 @@ f) az állami tulajdonban levő természetvédelmi terület kezelői jogának a 
 
 g) a lakástakarékpénztárakról szóló törvény szerinti lakás-előtakarékossági szerződés alapján történő vagyonszerzés;
 
-h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
+h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
 
 i) közhasznú szervezetnek közhasznú tevékenység céljára juttatott ajándék;
 
@@ -32,7 +32,7 @@ o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elenged
 
 p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), illetve házastársa által megszerzett ajándék;
 
-q) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
+q) az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
 
 r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény rendelkezése alapján elengedett követelés,
 

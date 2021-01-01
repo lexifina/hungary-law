@@ -16,7 +16,7 @@ ba) az eljárás kezdeményezését megelőzően vagy
 
 bb) az eljáró hatóság felhívására
 
-kell megfizetni a (2)–(4), a (4a), a (7) és (8), valamint a (11) bekezdésben foglaltak kivételével.
+kell megfizetni a (2)–(4), a (4a), a (7) és (8) bekezdésben foglaltak kivételével.
 
 (2) A fővárosi és megyei kormányhivatalnál, járási (fővárosi kerületi) hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
 
@@ -30,7 +30,7 @@ bb) bankkártyával vagy
 
 bc) házipénztárba készpénzzel, vagy
 
-c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a kormányablakokról szóló kormányrendeletben meghatározott adatok feltüntetésével
+c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott adatok feltüntetésével
 
 kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénz-átutalási megbízással a járási hivatal és a kormányablak naponta fizeti meg az említett számla javára.
 
@@ -62,6 +62,6 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 (10) A (9) bekezdés a) pontjában említett esetben az iratokat a külpolitikáért felelős miniszter azzal küldi meg a külképviseleti szervnek, hogy az illetéket az irat kézbesítése előtt szedje be. Az így beszedett összeget a konzuli ügyszámra hivatkozással a Konzuli Információs Rendszerben vagy a konzuli alnaplóban kell elszámolni.
 
-(11) Törvény, kormányrendelet vagy az adópolitikáért felelős miniszter egyetértésével kiadott miniszteri rendelet előírhatja, hogy a szakhatósági eljárás – ide nem értve az előzetes szakhatósági eljárást – illetékét az alapeljárást lefolytató szervnél az alapeljárásért fizetendő illeték vagy igazgatási szolgáltatási díj megfizetésének módjával azonos módon kell megfizetni. Az alapeljárást lefolytató hatóság a szakhatósági eljárásért így megfizetett illeték összegének jogszabályban megjelölt bankszámlán való jóváírását követő munkanapon, készpénzben való fizetés esetén a készpénz átvételének napján átutalja a Magyar Államkincstár által vezetett illeték-bevételi számlára.
+(11)
 
 (12) Ha az ügyfél az eljárás megindítása nélkül a (2) bekezdés a) pontja vagy a (4) bekezdés szerinti módon fizetett illetéket, akkor a készpénzátutalási megbízás feladóvevényével az állami adóhatóságnál kérheti az illeték visszatérítését. Az állami adóhatóság a kincstár megkeresésével ellenőrzi a visszatérítési igényt, melynek eredményeként az illetéket visszatéríti vagy határozatot hoz a visszatérítés megtagadásáról.

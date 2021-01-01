@@ -1,6 +1,6 @@
 ## Az illeték fizetésére kötelezettek
 
-31. § (1) A közigazgatási hatósági eljárási illetéket az eljárás kezdeményezésekor az köteles megfizetni, aki az eljárás megindítását kéri. Az egyes közigazgatási hatósági eljárások külön illetéke tekintetében e törvény melléklete eltérően rendelkezhet.
+31. § (1) A közigazgatási hatósági eljárási illetéket az eljárás kezdeményezésekor az köteles megfizetni, aki az eljárás megindítását kéri.
 
 (2) Ha több ügyfél ügyében indul egy közigazgatási hatósági eljárás, az ennek megindítását kérő ügyfelek egyetemlegesen felelősek az illeték megfizetéséért. Megszűnik az egyetemlegesség, ha a közigazgatási hatóság mindegyik ügyfélre nézve külön döntést hoz.
 
@@ -14,4 +14,4 @@
 
 (7)
 
-(8) A szakhatósági eljárásért fizetendő illetéket – az alapeljárás illetékével (igazgatási szolgáltatási díjával) egyidejűleg – annak kell megfizetnie, akinek érdekében az eljárás indul. Az előzetes szakhatósági eljárásért fizetendő illetéket vagy igazgatási szolgáltatási díjat a szakhatósági eljárás kezdeményezésekor kell megfizetni.
+(8)

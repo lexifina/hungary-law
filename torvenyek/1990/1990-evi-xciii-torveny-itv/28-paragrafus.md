@@ -8,7 +8,7 @@
 
 ## Az illeték tárgya
 
-28. § (1) A közigazgatási hatósági eljárásért e törvényben megállapított illetéket kell fizetni.
+28. § (1) Az 1. melléklet szerinti közigazgatási hatósági eljárásért, valamint – a 2. melléklet szerinti eljárások kivételével – a közigazgatási hatósági jogorvoslati eljárásért közigazgatási hatósági eljárási illetéket kell fizetni.
 
 (2) Az illetékkötelezettség akkor is fennáll, ha a hatóság
 

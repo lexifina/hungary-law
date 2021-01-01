@@ -2,7 +2,7 @@
 
 ## AZ IGAZGATÁSI ÉS BÍRÓSÁGI SZOLGÁLTATÁSOK DÍJA
 
-67. § (1) Egyes közigazgatási hatósági eljárásokért, illetőleg egyes intézmények igazgatási jellegű szolgáltatásának igénybevételéért, továbbá egyes bírósági eljárási cselekményekért (szolgáltatásokért) – a (2) bekezdésben meghatározottak kivételével – díjat kell fizetni.
+67. § (1) Egyes közigazgatási hatósági eljárásokért, illetőleg egyes intézmények igazgatási jellegű szolgáltatásának igénybevételéért, továbbá egyes bírósági eljárási cselekményekért (szolgáltatásokért) – a (2) bekezdésben és a 2. mellékletben meghatározottak kivételével – díjat kell fizetni.
 
 (2) A fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok mentesülnek az (1) bekezdésben meghatározott díjfizetési kötelezettség alól a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok által lefolytatott hatósági eljárásokban.
 

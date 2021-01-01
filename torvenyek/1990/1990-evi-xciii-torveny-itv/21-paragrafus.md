@@ -1,6 +1,6 @@
 ## Lakástulajdon és a hozzá kapcsolódó jogok visszterhes vagyonátruházási illetéke
 
-21. § (1) Ha a lakástulajdon szerzője a vásárláshoz vissza nem térítendő, lakáscélú állami támogatásban részesül, ennek összegét a lakástulajdon forgalmi értékből le kell vonni.
+21. § (1)
 
 (2) Magánszemély vagyonszerző esetén az illeték alapja
 
