@@ -16,34 +16,8 @@ b) a második kötelezettségi időszakban az egyes alternatív szakpolitikai in
 
 (rendeletben állapítsa meg.)
 
-(3) Az Ehat. Tv. 44. § g) pontja helyébe a következő rendelkezés lép:
+(3)
 
-(Felhatalmazást kap a Kormány, hogy)
+(4)
 
-„g) az energiahatékonysági kötelezettségi rendszerben az energiamegtakarítási kötelezettség más kötelezett felek, kötelezett félnek nem minősülő energiahatékonysági szolgáltatók vagy egyéb harmadik személyek által megvalósított, hitelesített energiamegtakarítás szervezett piacon történő átruházásának, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait”
-
-(rendeletben állapítsa meg.)
-
-(4) Az Ehat. Tv. 44. §-a a következő t) és u) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„t) a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, azon belül az addicionális energiamegtakarítás kritériumait, a nyomon követés és hitelesítés szabályait, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
-
-u) az energiahatékonysági kötelezettségi rendszerben a kötelezett fél által igénybe vett oktatási, képzési, tanácsadási és szemléletformálási program eredményeként megvalósult energiamegtakarítás tekintetében az elszámolhatóság részarányát,”
-
-(rendeletben állapítsa meg.)
-
-(5) Az Ehat. Tv. 44. §-a a következő v)–y) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„v) az energetikai felülvizsgálatra vonatkozó nyilvántartási rendszer működésének részletszabályait, a nyilvántartási rendszerrel kapcsolatos adatszolgáltatás rendjét és – a személyes adatok kivételével – a nyilvántartási rendszerhez szükséges adatok körét, valamint a nyilvántartásba vétel és a nyilvántartásból való törlés részletszabályait,
-
-w) az energetikai felülvizsgálattal kapcsolatos hatósági feladatokat ellátó hatóság kijelölését, az energetikai felülvizsgálat ellenőrzésére, valamint annak teljesítésének ellenőrzésére és az energetikai felülvizsgálattal kapcsolatos kötelezettségek megszegése esetén kiszabható bírság mértékére vonatkozó szabályokat,
-
-x) az energetikai felülvizsgáló képzésére vonatkozó részletszabályokat,
-
-y) az energetikai felülvizsgálatra vonatkozó egyéb részletszabályokat”
-
-(rendeletben állapítsa meg.)
+(5)

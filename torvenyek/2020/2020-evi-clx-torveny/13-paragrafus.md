@@ -20,8 +20,4 @@ c) együttműködik az adatok felülvizsgálata során és megadja a szükséges
 
 (5) A Hivatal a (4) bekezdésben meghatározott feladatainak teljesítése érdekében jogosult a végrehajtó hatóságtól, az adott energiahatékonyság-javító intézkedéssel érintett végső felhasználótól, az energetikai tanúsítványok elektronikus nyilvántartását vezető szervezettől, valamint a közreműködő energetikai auditortól vagy auditáló szervezettől információt kérni, a kapcsolódó iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot és személyes adatot tartalmazó iratokat is, valamint jogosult az általános közigazgatási rendtartásról szóló törvény szerinti szemlét lefolytatni.”
 
-(2) Az Ehat. Tv. 14. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-„(6) A végrehajtó hatóság, az adott energiahatékonyság-javító intézkedéssel érintett végső felhasználó, az energetikai tanúsítványok elektronikus nyilvántartását vezető szervezet, valamint a közreműködő energetikai auditor vagy auditáló szervezet a Hivatal részére megadja a (4) bekezdés szerinti feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal az adatszolgáltatási kötelezettséget előíró határozatában határozza meg. Az adatszolgáltatási kötelezettség nem vagy nem megfelelő teljesítése esetén a Hivatal ötmillió forintig terjedő bírságot szab ki.
-
-(7) A (6) bekezdés szerinti bírság ugyanazon mulasztás tekintetében – összesen legfeljebb hat alkalommal, legalább 60 napos időközönként, de az első bírságot megállapító határozat véglegessé válását követő legfeljebb egy éven belül – ismételten kiszabható.”
+(2)
