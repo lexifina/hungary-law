@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-549-20-
 | 2019-07-31 | 2013-549-20-22.31 | 185/2019. (VII. 26.) Korm. rendelet |
 | 2020-02-13 | 2013-549-20-22.32 | 15/2020. (II. 12.) Korm. rendelet |
 | 2020-11-01 | 2013-549-20-22.33 | 287/2015. (X. 6.) Korm. rendelet |
+| 2021-01-01 | 2013-549-20-22.34 | 710/2020. (XII. 30.) Korm. rendelet |

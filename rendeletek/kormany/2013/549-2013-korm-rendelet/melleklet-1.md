@@ -1,4 +1,4 @@
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^255]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^268]
 
 Kezelő szervi kijelölés
 
@@ -36,11 +36,11 @@ Kezelő szervi kijelölés
 
 | 16. | Elektronikus Közigazgatás Operatív Program | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
 
-| 17. | EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus | európai uniós források felhasználásáért felelős miniszter |
+| 17. | EGT és Norvég Finanszírozási Mechanizmusok 2014–2021 | európai uniós források felhasználásáért felelős miniszter |
 
 | 18. | Svájci-Magyar Együttműködési Program | európai uniós források felhasználásáért felelős miniszter |
 
-| 19. | ETE határmenti programok 2014–2020 | külgazdasági ügyekért felelős miniszter |
+| 19. | Európai Területi Együttműködés (2014–2020) | külgazdasági ügyekért felelős miniszter |
 
 | 20. | Területi Együttműködés | külgazdasági ügyekért felelős miniszter |
 
@@ -70,11 +70,11 @@ Kezelő szervi kijelölés
 
 | 33. | Emberi Erőforrás Fejlesztési Operatív Program | szociál- és nyugdíjpolitikáért felelős miniszter |
 
-| 34. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek | közlekedésért felelős miniszter |
+| 34. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014-2020 | közlekedésért felelős miniszter |
 
-| 35. |  |  |
+| 35. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 | közlekedésért felelős miniszter |
 
-| 36. |  |  |
+| 36. | Svájci–Magyar Együttműködési Program II. | európai uniós források felhasználásáért felelős miniszter |
 
 | 37. | Új Magyarország Vidékfejlesztési Program (II. NVT) | kifizető ügynökség |
 
@@ -100,4 +100,6 @@ Kezelő szervi kijelölés
 
 | 48. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^255]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja, a 79/2019. (IV. 12.) Korm. rendelet 8. §-a, a 82/2019. (IV. 18.) Korm. rendelet 4. §-a, a 476/2020. (X. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+| 49. | Közvetlen uniós programok támogatása | európai uniós források felhasználásáért felelős miniszter |
+
+[^268]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja, a 79/2019. (IV. 12.) Korm. rendelet 8. §-a, a 82/2019. (IV. 18.) Korm. rendelet 4. §-a, a 476/2020. (X. 30.) Korm. rendelet 2. §-a, a 710/2020. (XII. 30.) Korm. rendelet 12. § és a 13. § 16-18. pontja szerint módosított szöveg.

@@ -6,8 +6,8 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^203] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^212] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^203]: A 49. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § q) pontja szerint módosított szöveg.
+[^212]: A 49. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § q) pontja szerint módosított szöveg.
