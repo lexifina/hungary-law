@@ -1,3 +1,5 @@
+## 23. §[^4]
+
 ## 9. Az álláshely-nyilvántartásra vonatkozó szabályok
 
 24. § (1) Az álláshely-nyilvántartást a kormányzati személyügyi igazgatásra kijelölt szerv vezeti.
@@ -6,4 +8,7 @@
 
 (3) Az álláshely-nyilvántartás a Kit. 62. § (7) és (8) bekezdése szerinti adatokat tartalmazza.
 
-(4) Az álláshely-nyilvántartás szempontjából a fővárosi és megyei kormányhivatalok együttesen egy kormányzati igazgatási szervnek minősülnek.
+(4)[^5]
+
+[^4]: A 23. §-t a 673/2020. (XII. 28.) Korm. rendelet 30. § e) pontja hatályon kívül helyezte.
+[^5]: A 24. § (4) bekezdése a 673/2020. (XII. 28.) Korm. rendelet 30. § f) pontja hatályon kívül helyezte.

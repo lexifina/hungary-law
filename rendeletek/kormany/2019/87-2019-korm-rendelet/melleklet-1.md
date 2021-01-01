@@ -1,4 +1,4 @@
-## 28. §[^1]
+## 28. §[^8]
 
 1. melléklet a 87/2019. (IV. 23.) Korm. rendelethez
 
@@ -72,4 +72,4 @@
 
 7.3. Tudományos fokozat esetén témavázlat
 
-[^1]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
