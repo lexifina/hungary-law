@@ -18,4 +18,4 @@ d) a kockázat minőségi, illetve mennyiségi jellemzése.
 
 (5) A veszélyes anyaggal, és a veszélyes keverékkel tevékenységet végző a kockázat kezelése, csökkentése érdekében intézkedéseket dolgoz ki. Ez a kötelezettség nem érinti az Mvt.-ben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben, valamint a REACH-ben foglalt egyéb követelmények teljesítését.
 
-(6) Az (1)–(2), valamint az (4)–(5) bekezdésben foglalt rendelkezéseket nem kell alkalmazni a magáncéllal, nem foglalkozás körében végzett tevékenység megkezdését megelőzően.
+(6) Az (1)–(2), valamint az (5) bekezdésben foglalt rendelkezéseket nem kell alkalmazni a magáncéllal, nem foglalkozás körében végzett tevékenység megkezdését megelőzően.
