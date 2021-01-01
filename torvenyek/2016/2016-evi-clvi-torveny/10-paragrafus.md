@@ -20,6 +20,8 @@ f) Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b
 
 g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, valamint a 12. § szerinti időpontokat,
 
+h) 9/H. § (4) bekezdésben meghatározott tárhelyszolgáltatót, továbbá a tárhelyszolgáltatóhoz történő csatlakozás és adatfeldolgozás, valamint a tárhely üzemeltetésének és titkosításának részletes szabályait
+
 i)
 
 rendeletben határozza meg.
