@@ -1,1 +1,0 @@
-A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. §-ának (4) bekezdésében foglalt felhatalmazás alapján – a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. § a)–c) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
