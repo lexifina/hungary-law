@@ -1,4 +1,4 @@
-## 15. §[^6]
+## 15. §[^1]
 
 1. melléklet a 44/2020. (XI. 20.) MNB rendelethez
 
@@ -122,4 +122,4 @@ A táblák szöveges mezőibe történő adatbevitelkor vessző karakter nem has
 
 A hatjegyű kódot az adatszolgáltatónak úgy kell megképeznie, hogy annak első 2 karaktere egyértelműen utaljon a biztosító nevére, amit közvetlenül követ egy négy számjegyből álló kombináció. Amennyiben több biztosító nevének azonos a két kezdőbetűje, úgy javasolt az első kezdőbetűt követően egy jellegzetes további betű alkalmazása.
 
-[^6]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
