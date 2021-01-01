@@ -6,7 +6,7 @@ a) az állami célú légiközlekedési szakszemélyzetek szakszolgálati enged�
 
 aa) érvényes szakszolgálati engedéllyel és oktatói képesítéssel rendelkező légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek megszerzéséhez, meghosszabbításához, illetve kiterjesztéséhez szükséges elméleti és gyakorlati vizsgáztatás végrehajtása;
 
-ab) a légiközlekedési szakszemélyzet részére szakszolgálati engedélyek kiadása, indokolt esetben a szakszolgálati engedély helyszíni elvétele, felfüggesztése vagy visszavonása, a szakszolgálati engedélyekről nyilvántartás vezetése;
+ab)[^1] a légiközlekedési szakszemélyzet részére szakszolgálati engedélyek kiadása, indokolt esetben a szakszolgálati engedély helyszíni elvétele, a szakszolgálati engedélyhez kötött tevékenység végzésétől történő eltiltás vagy a szolgálati engedély visszavonása, a szakszolgálati engedélyekről nyilvántartás vezetése;
 
 ac) a légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek kiadásához, meghosszabbításához előírt repülőegészségi alkalmasság hatósági minősítése, a hatósági repülőorvosi igazolványok kiadása;
 
@@ -14,7 +14,7 @@ ad) az állami célú légiközlekedés szakszemélyzeteinek alapellátását v�
 
 ae) a légiközlekedési szakszemélyzetek feletti hatósági felügyelet ellátása;
 
-af) a légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek megszerzése, meghosszabbítása, illetve kiterjesztése érdekében szervezett képzés tematikájának jóváhagyása, a képzésre vonatkozó engedély kiadása, indokolt esetben az engedély felfüggesztése vagy visszavonása;
+af)[^2] a légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek megszerzése, meghosszabbítása, illetve kiterjesztése érdekében szervezett képzés tematikájának jóváhagyása, a képzésre vonatkozó engedély kiadása, indokolt esetben visszavonása, vagy a képzési tevékenység végzésétől történő eltiltása;
 
 ag) a légiközlekedési szakszemélyzetek szakszolgálati engedélyeinek megszerzése, meghosszabbítása, illetve kiterjesztése érdekében szervezett képzés hatósági felügyeletének ellátása;
 
@@ -26,7 +26,7 @@ bb) az állami célú légiközlekedésben a fedélzeti azonosító jel használ
 
 bc) az állami légijárművek és egyes légiközlekedéssel kapcsolatos eszközök gyártásának, karbantartásának, javításának, illetve felújításának hatósági engedélyezése, az erről szóló működési engedély kiadása;
 
-bd) az állami légijárművet, pilóta nélküli állami légijárművet, és az egyes légiközlekedéssel kapcsolatos eszközöket gyártó, karbantartó, javító, illetve felújító szervezetek hatósági felügyeletének ellátása, indokolt esetben a működési engedély módosítása, felfüggesztése vagy visszavonása;
+bd)[^3] az állami légijárművet, pilóta nélküli állami légijárművet, és az egyes légiközlekedéssel kapcsolatos eszközöket gyártó, karbantartó, javító, illetve felújító szervezetek hatósági felügyeletének ellátása, indokolt esetben a működési engedély módosítása, visszavonása, vagy a működési engedélyhez kötött tevékenység végzésétől történő eltiltása;
 
 be) az állami légijárművek típusalkalmassági- és légialkalmassági eljárásának lefolytatása, így különösen a típusalkalmassági és légialkalmassági bizonyítvány kiadása, indokolt esetben érvénytelenítése, visszavonása, módosítása;
 
@@ -46,7 +46,7 @@ bl) külföldi légijármű szakszemélyzetének magyar állami légijármű ön
 
 bm) a pilóta nélküli állami légijárművek nyilvántartásba vétele, és típusalkalmassági és légialkalmassági vizsgálata;
 
-c) az állami repülések céljára szolgáló repülőterek, közös felhasználású repülőterek, valamint a kizárólag állami repülések céljára szolgáló földi léginavigációs berendezések üzembentartásának engedélyezése, hatósági felügyelete, indokolt esetben az üzembentartási engedély felfüggesztése vagy visszavonása, a repülőtérrendek jóváhagyása;
+c)[^4] az állami repülések céljára szolgáló repülőterek, közös felhasználású repülőterek, valamint a kizárólag állami repülések céljára szolgáló földi léginavigációs berendezések üzembentartásának engedélyezése, hatósági felügyelete, indokolt esetben az üzembentartási engedély visszavonása, vagy az üzembentartási engedélyhez kötött tevékenység végzésétől történő eltiltása, a repülőtérrendek jóváhagyása;
 
 d) az állami repülések céljára szolgáló repülőterekről, leszállóhelyekről nyilvántartás vezetése;
 
@@ -70,7 +70,7 @@ m) az állami célú légiközlekedés területén működő repülésbiztonság
 
 n) nyilvános repülőrendezvény megtartásának engedélyezése, a rendezvény tervének jóváhagyása, illetve hatósági felügyeletének ellátása;
 
-o) a bajba jutott vagy eltűnt légijármű megsegítésére, illetve a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenység ellátására irányuló légi kutató-mentő tevékenység engedélyezése, indokolt esetben az engedély felfüggesztése vagy visszavonása, valamint a légi kutató-mentő tevékenység hatósági felügyeletének ellátása;
+o)[^5] a bajba jutott vagy eltűnt légijármű megsegítésére, illetve a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenység ellátására irányuló légi kutató-mentő tevékenység engedélyezése, indokolt esetben az engedély visszavonása, vagy az engedélyhez kötött tevékenység végzésétől történő eltiltása, valamint a légi kutató-mentő tevékenység hatósági felügyeletének ellátása;
 
 p) eseti légtér kijelölése;
 
@@ -91,3 +91,9 @@ w) veszélyes áruk állami légijárművel történő szállításának ellenő
 x) állami célú légiközlekedéssel összefüggő intézkedések, kézikönyvek és egyéb szabályozások jóváhagyása;
 
 y) részvétel az állami célú légiközlekedéssel összefüggő hazai és külföldi szakmai rendezvényeken.
+
+[^1]: A 3. § a) pont ab) alpontja a 713/2020. (XII. 30.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § a) pont af) alpontja a 713/2020. (XII. 30.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § b) pont bd) alpontja a 713/2020. (XII. 30.) Korm. rendelet 48. § c) pontja szerint módosított szöveg.
+[^4]: A 3. § c) pontja a 713/2020. (XII. 30.) Korm. rendelet 48. § d) pontja szerint módosított szöveg.
+[^5]: A 3. § o) pontja a 713/2020. (XII. 30.) Korm. rendelet 48. § e) pontja szerint módosított szöveg.
