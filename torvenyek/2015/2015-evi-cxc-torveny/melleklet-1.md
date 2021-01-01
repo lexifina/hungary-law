@@ -34,6 +34,8 @@
 
 12. Brit Virgin-szigetek
 
+12a. Brunei
+
 13. Bulgária
 
 14. Chile
@@ -52,7 +54,11 @@
 
 21. Dél-Afrika
 
-21a. Egyesült Arab Emírségek
+21a. Dominikai Közösség
+
+21b. Ecuador
+
+21c. Egyesült Arab Emírségek
 
 22. Egyesült Királyság
 
@@ -72,9 +78,11 @@
 
 – Mayotte,
 
-– Réunion és
+– Réunion,
 
-– Saint-Barthélemy
+– Saint-Barthélemy és
+
+– Új-Kaledónia
 
 27. Ghána
 
@@ -170,11 +178,13 @@
 
 58. Olaszország
 
-58a. Orosz Föderáció
+58a. Omán
 
-58b. Pakisztán
+58b. Orosz Föderáció
 
-58c. Panama
+58c. Pakisztán
+
+58d. Panama
 
 59. Portugália
 
@@ -215,3 +225,5 @@
 72a. Uruguay
 
 73. Új-Zéland
+
+74. Vanuatu
