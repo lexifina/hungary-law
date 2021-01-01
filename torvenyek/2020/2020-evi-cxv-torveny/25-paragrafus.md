@@ -33,11 +33,3 @@ h) az egyes tagállamok energiarendszereinek korszerűsítését és energiahat�
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) A 2. alcím a 2003/87/EK irányelvnek a költséghatékony kibocsátáscsökkentés és az alacsony szén-dioxid-kibocsátású technológiákba történő beruházások növelése érdekében történő módosításáról és az (EU) 2015/1814 határozat módosításáról szóló, 2018. március 14-i (EU) 2018/410 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
