@@ -30,7 +30,7 @@ terjedhet a bányafelügyelet által kiszabható bírság mértéke.
 
 (2) Ha a szállítóhálózat üzemeltetője a szállítóhálózathoz való hozzáférést jogtalanul megtagadja, a bányafelügyelet által kiszabható bírság mértéke 5 000 000 forintig terjedhet.
 
-(3)[^41] A bányafelügyelet az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló törvényben meghatározottakon túl – mérlegelni kell
+(3)[^41] A bányafelügyelet az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottakon túl – mérlegelni kell
 
 a) a jogsértő magatartás felróhatóságának mértékét és
 
@@ -38,4 +38,4 @@ b) a jogsértő magatartás veszélyeztető jellegét.
 
 [^39]: A 35. § (1) bekezdése a) pontja a 311/2014. (XII. 11.) Korm. rendelet 43. §-ával megállapított szöveg.
 [^40]: A 35. § (1) bekezdés f) pontja a 457/2017. (XII. 28.) Korm. rendelet 399. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^41]: A 35. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 397. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^41]: A 35. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 397. § (2) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 33. §-a szerint módosított szöveg.
