@@ -12,9 +12,9 @@
 
 a) ha a kérelem megfelel az előírt követelményeknek, nyilvántartásba veszi a kérelmezőt, és ezzel egyidejűleg BIONYOM nyilvántartási számot állapít meg,
 
-b)[^8]
+b)[^10]
 
-(6)[^9]
+(6)[^11]
 
 (7) Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó a BIONYOM nyilvántartásba ismételten nem vehető fel vagy a BIONYOM nyilvántartásba vétel hatálya nem hosszabbítható meg, amíg a biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó a 10–11. §, valamint a 8. melléklet szerinti adatszolgáltatási kötelezettségét nem teljesíti.
 
@@ -24,7 +24,7 @@ b)[^8]
 
 (10) Ha a (9) bekezdés szerinti nyilvántartási idő lejártát megelőző 30 napon belül a BIONYOM ügyfél kéri, a mezőgazdasági igazgatási szerv a nyilvántartásba vétel hatályát egy évvel meghosszabbítja, ha a BIONYOM ügyfél továbbra is megfelel a nyilvántartásba vétel feltételeinek.
 
-(10a)[^10] Ha a mezőgazdasági igazgatási szerv megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált biomassza-kereskedő, biomassza-feldolgozó és üzemanyag-forgalmazó BÜHG nyilvántartásba vételről és a BÜHG nyilvántartásba vétel hatályának további egy évvel történő meghosszabbításáról, valamint a BIONYOM nyilvántartásba vételről és a BIONYOM nyilvántartásba vétel hatályának további egy évvel történő meghosszabbításáról szóló döntése jogszabályt sért, a döntést annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja abban az esetben is, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
+(10a)[^12] Ha a mezőgazdasági igazgatási szerv megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált biomassza-kereskedő, biomassza-feldolgozó és üzemanyag-forgalmazó BÜHG nyilvántartásba vételről és a BÜHG nyilvántartásba vétel hatályának további egy évvel történő meghosszabbításáról, valamint a BIONYOM nyilvántartásba vételről és a BIONYOM nyilvántartásba vétel hatályának további egy évvel történő meghosszabbításáról szóló döntése jogszabályt sért, a döntést annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja abban az esetben is, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
 (11) Ha a BIONYOM ügyfél Magyarország területén végzi biomasszával, köztes termékkel, bioüzemanyaggal, folyékony bio-energiahordozóval (e § alkalmazásában a továbbiakban együtt: termék) kapcsolatos, e rendelet hatálya alá tartozó tevékenységét, annak nyomon követhetősége érdekében az általa értékesített vagy bérfeldolgozás keretében előállított, és a 13. § szerinti dokumentummal kísért termék vonatkozásában köteles az általa kiállított fenntarthatósági nyilatkozathoz – ha az a 10. melléklet szerinti adatokat maradéktalanul nem tartalmazza – a 10. melléklet szerinti adattartalmú nyomon követési dokumentumot kiállítani, és azt az általa kiadott fenntarthatósági nyilatkozattal együtt a mezőgazdasági igazgatási szerv honlapján elérhető BIONYOM nyilvántartásba, a tárgyévet követő év március 20. napjáig feltölteni.
 
@@ -80,6 +80,6 @@ ba) termesztett biomassza tekintetében a 9. melléklet A. pontja,
 
 bb) nem termesztett biomassza tekintetében a 9. melléklet B. pontja
 
-[^8]: A 10. § (5) bekezdés b) pontját a 23. § hatályon kívül helyezte.
-[^9]: A 10. § (6) bekezdését a 23. § hatályon kívül helyezte.
-[^10]: A 10. § (10a) bekezdését a 21. § (3) bekezdése iktatta be.
+[^10]: A 10. § (5) bekezdés b) pontját a 23. § hatályon kívül helyezte.
+[^11]: A 10. § (6) bekezdését a 23. § hatályon kívül helyezte.
+[^12]: A 10. § (10a) bekezdését a 21. § (3) bekezdése iktatta be.

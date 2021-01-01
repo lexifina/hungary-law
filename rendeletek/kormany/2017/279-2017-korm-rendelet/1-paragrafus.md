@@ -14,7 +14,7 @@
 
 6. biomassza-kereskedő: az a természetes személy vagy gazdálkodó szervezet, aki, amely biomasszát, köztes terméket, bioüzemanyagot vagy folyékony bio-energiahordozót átalakítás nélküli továbbértékesítés céljából átvesz;
 
-7. biomassza-termelő: a biomasszát előállító egyéni vállalkozó, őstermelő, családi gazdálkodó vagy gazdálkodó szervezet, valamint az előzőekben felsoroltakon túl az, aki továbbértékesítés céljából biomasszát térítésmentesen összegyűjt;
+7.[^2] biomassza-termelő: a biomasszát előállító egyéni vállalkozó, őstermelő, őstermelők családi gazdasága vagy gazdálkodó szervezet, valamint az előzőekben felsoroltakon túl az, aki továbbértékesítés céljából biomasszát térítésmentesen összegyűjt;
 
 8. BIONYOM ügyfél: a bioüzemanyagok és folyékony bio-energiahordozók – Büat. 8/A. § (1) bekezdés szerinti – nyomon követhetőségi nyilvántartásból (a továbbiakban: BIONYOM nyilvántartás) nyilvántartási számmal rendelkező biomassza-kereskedő, biomassza-feldolgozó és üzemanyag-forgalmazó;
 
@@ -71,3 +71,5 @@ l) szintetikus bioüzemanyag: biomasszából előállított szintézis gázból 
 22. termesztett biomassza: a mezőgazdasággal és erdőgazdálkodással kapcsolatos tevékenység keretében a termőföldről szóló törvény szerinti termőföldön vagy mező-, erdőgazdasági művelés alatt álló belterületi földön előállított biomassza;
 
 23. tényleges érték: az üvegházhatású gázok kibocsátásának egy adott bioüzemanyag-előállítási folyamat egyes vagy összes lépéséből eredő elkerülése, amelyet a bioüzemanyagok és folyékony bio-energiahordozók fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló miniszteri rendeletben meghatározott módszerrel kell kiszámítani.
+
+[^2]: Az 1. § 7. pontja a 665/2020. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.

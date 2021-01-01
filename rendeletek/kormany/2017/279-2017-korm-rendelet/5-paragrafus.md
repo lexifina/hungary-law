@@ -40,7 +40,7 @@ d) a kiállítás évszáma.
 
 (9) Ha a mezőgazdasági igazgatási szerv megállapítja, hogy a biomassza, köztes termék bioüzemanyag vagy folyékony bio-energiahordozó, amelyre a fenntarthatósági igazolás kiállításra került, nem felel meg a fenntarthatósági követelményeknek, az igazolással érintett biomassza vagy köztes termék mennyiségéből előállítható bioüzemanyag-mennyiséget, bioüzemanyagot vagy folyékony bio-energiahordozót Magyarországon felhasználtnak kell tekinteni, de a Büat. 12. §-a szerinti jelentésben a Magyarországon felhasznált fenntartható bioüzemanyagokra, valamint folyékony bio-energiahordozókra vonatkozó jelentéstétel során a jelenteni kívánt mennyiséget a fenntarthatósági követelményt ki nem elégítő mennyiséggel csökkenteni kell.
 
-(10)[^1] A (9) bekezdésben foglaltak megállapítása esetén a mezőgazdasági igazgatási szerv a döntés véglegessé válását követően – a vonatkozó döntés megküldésével – haladéktalanul értesíti bioüzemanyag esetében az állami adó és vámhatóságot, folyékony bio-energiahordozó esetében a Magyar Energetikai és Közmű-szabályozási Hivatalt.
+(10)[^3] A (9) bekezdésben foglaltak megállapítása esetén a mezőgazdasági igazgatási szerv a döntés véglegessé válását követően – a vonatkozó döntés megküldésével – haladéktalanul értesíti bioüzemanyag esetében az állami adó és vámhatóságot, folyékony bio-energiahordozó esetében a Magyar Energetikai és Közmű-szabályozási Hivatalt.
 
 (11) A fenntarthatósági igazolás kiállítója az (1) bekezdés szerinti biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozó tulajdonjog átruházásának teljes vagy részleges meghiúsulása esetén, vagy ha fenntarthatósági igazolással érintett termék vevője személyében változás áll be, a már kiállított igazolást visszavonja és annak tényét a visszavonást követő 10 napon belül – a mezőgazdasági igazgatási szerv honlapján közzétett – erre a célra rendszeresített nyomtatványon, a visszavont fenntarthatósági igazolás másodpéldányának csatolásával a mezőgazdasági igazgatási szervnek bejelenti.
 
@@ -48,4 +48,4 @@ d) a kiállítás évszáma.
 
 (13) Ha a fenntarthatósági igazolás megsemmisül vagy megrongálódik, az igazolás kiállítója ugyanazon mennyiségre, ugyanazon egyedi azonosítószámon ismételten kiállíthatja, „megsemmisült/megrongálódott fenntarthatósági igazolás pótlása” szövegrész feltüntetésével a fenntarthatósági igazolást, és pótlólagosan megküldi a korábbi címzettnek.
 
-[^1]: Az 5. § (10) bekezdése a 21. § (1) bekezdése szerint módosított szöveg.
+[^3]: Az 5. § (10) bekezdése a 21. § (1) bekezdése szerint módosított szöveg.

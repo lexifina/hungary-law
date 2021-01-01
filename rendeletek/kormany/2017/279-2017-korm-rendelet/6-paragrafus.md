@@ -4,7 +4,7 @@
 
 (2) Több üzemanyag- vagy bioüzemanyag-típust tartalmazó üzemanyag esetében az üzemanyag teljes mennyiségére vonatkozó energiatartalmat az üzemanyagban legnagyobb térfogatarányt képviselő üzemanyag-típus 1. mellékletben meghatározott energiatartalmának figyelembevételével kell meghatározni.
 
-(3)[^2] A kötelező bioüzemanyag-részarány mértéke a 2020. január 1. és 2020. december 31. közötti időszakban 8,2%, ezen belül a 95-ös kísérleti oktánszámú motorbenzin esetében a kötelező bioetanol-részarány mértéke 6,1%.
+(3)[^4] A kötelező bioüzemanyag-részarány mértéke a 2021. január 1. és 2021. december 31. közötti időszakban 8,2%, ezen belül a 95-ös kísérleti oktánszámú motorbenzin esetében a kötelező bioetanol-részarány mértéke 6,1%.
 
 (4) A (3) bekezdés szerinti kötelező bioüzemanyag-részarány mértékének számításakor a tárgyévben forgalomba hozott motorbenzin és dízelgázolaj energiatartalomban meghatározott együttes mennyiségét kell alapul venni a Büat. 1. § 5. pontjában meghatározottak szerint.
 
@@ -26,15 +26,15 @@ d) a 13. § d) pontja alapján kiállított igazolás eleget tesz a 2009/28/EK e
 
 (9) Azon üzemanyag-forgalmazó, amely a 2. melléklet szerinti alapanyagból származó bioüzemanyagot hoz szabad forgalomba, annak mennyiségét a (3) bekezdés szerinti kötelező részarány teljesítés vonatkozásában kétszeres energiaértéken számolhatja el.
 
-(9a)[^3] A 2. melléklet A. részében meghatározott alapanyagokból előállított bioüzemanyagoknak és az ott felsorolt más üzemanyagoknak a közlekedés valamennyi formájában felhasznált részaránya tekintetében a 2009/28/EK európai parlamenti és tanácsi irányelv 3. cikk (4) bekezdés e) pontja szerinti nemzeti célérték mértéke Magyarországon 0,1%.
+(9a)[^5] A kötelező bioüzemanyag-részarányon belül a 2. melléklet A. részében felsorolt alapanyagokból előállított fejlett bioüzemanyagok és biogázok részesedésének a 2022. évben a közlekedési ágazat teljes energiafogyasztása legalább 0,2%-nak, a 2025. évben legalább 1%-nak, a 2030. évben pedig 3,5%-nak kell lennie.
 
 (10) Az üzemanyag-forgalmazó köteles a 6. melléklet 4. pontja szerinti jelentéstétel során beszámolni a 7. melléklet A. pontjában szereplő alapanyag kategóriákhoz tartozó, a bioüzemanyagok alapanyagainak előállításához kapcsolódó, a földhasználat közvetett megváltozásából eredő kibocsátás előzetesen becsült gCO2/MJ-ban számított középértékéről.
 
-(11)[^4] A (3) bekezdés alkalmazásában 95-ös kísérleti oktánszámú motorbenzinnek az a benzin minősül, amelynek a minősége megfelel az ESZ-95-ös minőségi fokozatok valamelyikének, de nem teljesíti az ESZ-98-as fokozatok követelményeit.
+(11)[^6] A (3) bekezdés alkalmazásában 95-ös kísérleti oktánszámú motorbenzinnek az a benzin minősül, amelynek a minősége megfelel az ESZ-95-ös minőségi fokozatok valamelyikének, de nem teljesíti az ESZ-98-as fokozatok követelményeit.
 
-(12)[^5] A (3) bekezdés alkalmazásában bioetanol-részarány a forgalomba hozott bioetanol energiatartalomban kifejezett mennyiségének – ideértve a forgalomba hozott bio-etil-tercier-butiléter és bio-tercier-amil-etil-éter energiatartalmából a megújulónak minősülő részt – és a forgalomba hozott 95-ös kísérleti oktánszámú motorbenzin energiatartalomban kifejezett mennyiségének hányadosa, százalékértékben, egy tizedesjegy pontossággal meghatározva.
+(12)[^7] A (3) bekezdés alkalmazásában bioetanol-részarány a forgalomba hozott bioetanol energiatartalomban kifejezett mennyiségének – ideértve a forgalomba hozott bio-etil-tercier-butiléter és bio-tercier-amil-etil-éter energiatartalmából a megújulónak minősülő részt – és a forgalomba hozott 95-ös kísérleti oktánszámú motorbenzin energiatartalomban kifejezett mennyiségének hányadosa, százalékértékben, egy tizedesjegy pontossággal meghatározva.
 
-[^2]: A 6. § (3) bekezdése a 186/2019. (VII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: A 6. § (9a) bekezdését a 363/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A 6. § (11) bekezdését a 363/2019. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^5]: A 6. § (12) bekezdését a 363/2019. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 6. § (3) bekezdése a 682/2020. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 6. § (9a) bekezdését a 363/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 682/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 6. § (11) bekezdését a 363/2019. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 6. § (12) bekezdését a 363/2019. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

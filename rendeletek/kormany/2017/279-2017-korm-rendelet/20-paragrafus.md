@@ -10,6 +10,8 @@ c) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illet
 
 d) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK irányelv és a megújuló energiaforrásból előállított energia támogatásáról szóló 2009/28/EK irányelv módosításáról szóló, 2015. szeptember 9-i (EU) 2015/1513 európai parlamenti és a tanácsi irányelvnek
 
+e)[^15] a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv 25. cikk (1) bekezdésének
+
 ## való megfelelést szolgálja.
 
 (2) Ez a rendelet
@@ -17,3 +19,5 @@ d) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK irányelv 
 a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1306/2013/EK tanácsi rendelet,
 
 b) a bioüzemanyagokra és a folyékony bio-energiahordozókra vonatkozó, a gazdasági szereplők által a tagállamokhoz eljuttatandó bizonyos típusú információkról szóló, 2011. január 12-i 2011/13/EU bizottsági határozat 1. cikk c) és d) pontja
+
+[^15]: A 20. § (1) bekezdés e) pontját a 682/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.

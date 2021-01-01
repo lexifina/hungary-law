@@ -10,7 +10,7 @@ c) az üzemanyag gyártmánylapja, az üzemanyag minőségi bizonyítványa vagy
 
 (2) Az (1) bekezdésben meghatározott dokumentumok hiányában a bioüzemanyag a kötelező bioüzemanyag-részarány forgalmazási kötelezettség teljesítésébe nem számítható be.
 
-(3)[^6] Ha a bioüzemanyag, illetve a bioüzemanyag-tartalmú üzemanyag gyártója vagy az üzemanyag-forgalmazó a tárolás vagy szállítás során különböző bioüzemanyag-tartalmú üzemanyagot kever össze, a keverést követően az üzemanyag bioüzemanyag-tartalmát térfogatszázalékban, valamint az energiatartalom százalékában – az összekevert üzemanyag hitelesített mérőeszközökkel mért mennyisége és dokumentált bioüzemanyag-tartalma alapján – számítással vagy méréssel kell meghatározni. Ha a tárolótartályokban lévő üzemanyag bioüzemanyag-tartalma a naptári hónap során számítással került meghatározásra, az értéket hidrogénnel kezelt növényi olaj kivételével minden naptári hónap utolsó napján az EN ISO/IEC 17025 szabvány szerint akkreditált laboratórium vagy az üzemanyag előállítását végző, ISO 9001 minőségirányítási rendszerrel rendelkező laboratórium vizsgálata alapján aktualizálni kell.
+(3)[^8] Ha a bioüzemanyag, illetve a bioüzemanyag-tartalmú üzemanyag gyártója vagy az üzemanyag-forgalmazó a tárolás vagy szállítás során különböző bioüzemanyag-tartalmú üzemanyagot kever össze, a keverést követően az üzemanyag bioüzemanyag-tartalmát térfogatszázalékban, valamint az energiatartalom százalékában – az összekevert üzemanyag hitelesített mérőeszközökkel mért mennyisége és dokumentált bioüzemanyag-tartalma alapján – számítással vagy méréssel kell meghatározni. Ha a tárolótartályokban lévő üzemanyag bioüzemanyag-tartalma a naptári hónap során számítással került meghatározásra, az értéket hidrogénnel kezelt növényi olaj kivételével minden naptári hónap utolsó napján az EN ISO/IEC 17025 szabvány szerint akkreditált laboratórium vagy az üzemanyag előállítását végző, ISO 9001 minőségirányítási rendszerrel rendelkező laboratórium vizsgálata alapján aktualizálni kell.
 
 (4) A Büat. 6. § (2) bekezdése szerinti jelentést a 6. melléklet szerinti adattartalommal kell elkészíteni és az állami adó- és vámhatóság honlapján közzétett elektronikus formanyomtatványon kell benyújtani.
 
@@ -20,4 +20,4 @@ c) az üzemanyag gyártmánylapja, az üzemanyag minőségi bizonyítványa vagy
 
 (7) A kiskereskedelmi üzemanyag-forgalmazó minden év január 15-ig a tárgyév január 1-jén fennálló állapotnak megfelelően, az e célra rendszeresített formanyomtatványon adatot szolgáltat a közlekedési hatóság részére az általa üzemeltetett töltőállomások számáról, valamint azon töltőállomások számáról, amelyeken E85-öt, illetve olyan üzemanyagot forgalmaz, amelynek a bioüzemanyag-részaránya meghaladja a 10 térfogatszázalékot.
 
-[^6]: A 7. § (3) bekezdése a 363/2019. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 7. § (3) bekezdése a 363/2019. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
