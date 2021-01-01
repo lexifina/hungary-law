@@ -4,7 +4,7 @@
 
 | C10AA | Hmg CoA reductase gátlók |
 
-8. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^153]
+8. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^154]
 
 A FELÍRÁSI IGAZOLÁS KÖTELEZŐ TARTALMI ELEMEI
 
@@ -44,4 +44,4 @@ A FELÍRÁSI IGAZOLÁS KÖTELEZŐ TARTALMI ELEMEI
 
 7.9. A vény EESZT azonosítója vonalkódos, illetve szövegesen olvasható formában is
 
-[^153]: A 8. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (1) bekezdése iktatta be, szövege a 37/2020. (X. 30.) EMMI rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^154]: A 8. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (1) bekezdése iktatta be, szövege a 37/2020. (X. 30.) EMMI rendelet 2. § (7) bekezdésével megállapított szöveg.
