@@ -1,10 +1,6 @@
-110. § (1) A 108. § (1) bekezdés c) pontjában foglalt esetekben nem alkalmazható figyelmeztetés szankció, ha az erdőgazdálkodó az állam 100%-os tulajdonában álló erdőben szegi meg az erdőfelújítás megkezdésére vagy a pótlásra vonatkozó szabályokat.
+110. § (1)
 
-(2) A 108. § (1) bekezdés c) pontjában foglalt esetekben nem alkalmazható figyelmeztetés szankció, ha az erdőgazdálkodó
-
-a) az erdőfelújítási biztosíték nyújtását elmulasztja, vagy nem teljes mértékben, illetve késedelmesen nyújtja vagy
-
-b) túllépi az erdőfelújítás befejezésére megállapított határidőt.
+(2)
 
 (3) A figyelmeztetés alkalmazása kizárt
 
@@ -13,3 +9,5 @@ a) a 108. § (1) bekezdés b) pontjában meghatározott esetek közül a fakiter
 b) a 111. § (3) bekezdése szerinti súlyos károsítás
 
 esetén.
+
+(4) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az erdészeti szakszemélyzettel vagy erdészeti szakirányító vállalkozással szemben, ha a szakmai szabályok súlyos megszegése miatt tevékenységtől történő eltiltásnak van helye.

@@ -6,7 +6,7 @@
 
 (2) Az erdészeti hatósági és igazgatási feladatokat ellátó személy az eljárása során jogosult az erdőgazdálkodó, annak hiányában a terület jogszerű használójának engedélye nélkül külön térítés fizetése nélkül az erdészeti feltáróhálózat részét képező erdei úton, valamint az erdő megközelítéséhez szükséges egyéb úton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni.
 
-(3) Az erdészeti hatósági feladatokat ellátó személy az eljárása során jogosult
+(3) Az erdészeti hatósági feladatokat ellátó személy helyszíni intézkedésként jogosult
 
 a) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni, valamint
 

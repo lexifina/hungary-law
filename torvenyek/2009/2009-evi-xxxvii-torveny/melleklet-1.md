@@ -32,7 +32,7 @@
 
 15. Szombathelyi Erdészeti Zártkörűen Működő Részvénytársaság
 
-16. TAEG Tanulmányi Erdőgazdaság Zártkörűen Működő Részvénytársaság
+16.
 
 17. VADEX Mezőföldi Erdő- és Vadgazdálkodási Zártkörűen Működő Részvénytársaság
 

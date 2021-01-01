@@ -26,6 +26,8 @@ g)–i)
 
 j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezi a faanyag kereskedelmi lánc szereplőjét azzal, hogy a szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni az erdészeti hatóságot.
 
+(1a) Az e törvény szerinti elkobzás esetén a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 14. § (2) bekezdése nem alkalmazható.
+
 (2) Az (1) bekezdés c) pontjában meghatározott zárlati intézkedés e törvényben foglalt szempontok alapján legfeljebb a döntés véglegessé válásától számított kilencven napra vagy a zárlati intézkedés betartásához szükséges kísérő intézkedés teljesítéséig rendelhető el.
 
 (3) Az erdészeti hatóság az illegális fakitermelés esetén a helyszínen talált faanyag elszállítását engedélyezi, ha annak tulajdonosa a faanyag felett fennálló, jogszerűen szerzett rendelkezési jogosultságát hitelt érdemlően bizonyítja.

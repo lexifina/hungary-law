@@ -1,14 +1,4 @@
-111. § (1) A jogkövetkezmény alkalmazásáról az erdészeti hatóság az eset összes lényeges körülményét, így különösen az alábbiakat mérlegelve dönt:
-
-a) a biológiai sokféleségben okozott kár, ideértve a károsodás elhárításával, helyreállításával kapcsolatban felmerült költségek,
-
-b) jogosulatlan fakitermelés esetén az ilyen módon kitermelt fa értéke,
-
-c) a fakitermelés saját tulajdonú vagy gazdálkodású területen történt-e,
-
-d) az Adattárral való összhang megléte,
-
-e) a szerkezetromlás, illetve a természetességi állapotban bekövetkezett romlás mértéke.
+111. § (1)
 
 (2) A faanyag kereskedelmi lánc hatósági felügyeleti eljárásban történő közigazgatási bírság kiszabása esetén az erdészeti hatóság az eset összes lényeges körülményét, így különösen az alábbiakat mérlegelve dönt a bírság összegéről:
 

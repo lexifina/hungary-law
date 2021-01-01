@@ -1,7 +1,3 @@
-## XII. Fejezet
-
-## JOGKÖVETKEZMÉNYEK
-
 ## Az elrendelt erdőgazdálkodási tevékenység
 
 106. § (1) Ha az erdőgazdálkodó – az állam 100%-os tulajdonában álló erdő kivételével – az erdészeti hatóság felszólítása ellenére nem tesz eleget e törvény szerinti erdőgazdálkodási kötelezettségének, és ezáltal az erdő fennmaradását vagy fejlődését veszélyezteti, a szükséges erdőgazdálkodási tevékenységeket az erdészeti hatóság – az (1c) bekezdésben foglaltak figyelembevételével – az erdőgazdálkodó költségére elrendeli és elvégezteti. Ha az elrendelt erdőgazdálkodási tevékenység költségei a kötelezettel szemben vezetett végrehajtási eljárásban nem térülnek meg, az erdő használatára, használatba adására jogosult köteles a költségeket megtéríteni.

@@ -28,6 +28,8 @@ j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesíte
 
 k) határozza meg az erdőgazdálkodás korlátozása esetén fizetendő kártalanítás megállapításának részletes szabályait.
 
+l) határozza meg az erdészeti hatóság által alkalmazható közigazgatási szankciók alkalmazásának részletes szabályait.
+
 (2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
 1. az erdészeti gépkezelői jogosítvánnyal üzemeltethető erdészeti gépek körét, valamint az erdészeti gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;

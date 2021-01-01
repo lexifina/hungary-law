@@ -1,0 +1,1 @@
+109/A. § Az erdészeti szakszemélyzettel szemben, szakirányítói minőségében végzett tevékenysége szabályainak megszegéséért vagy mulasztásért a 108. § szerinti erdővédelmi bírság önálló kiszabásának helye nincs. Az erdészeti szakszemélyzettel szemben a szakirányítói tevékenység szabályainak megszegése vagy mulasztás miatt az erdészeti hatóság önálló jogkövetkezményeket alkalmaz.
