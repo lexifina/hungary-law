@@ -8,6 +8,6 @@ a) külön jogszabályban meghatározott védett személy, valamint az állam m�
 
 b) nem magyar állampolgár;
 
-c)[^2] a Magyar Honvédség és a rendvédelmi szervek, továbbá a sürgős orvosi ellátásban közreműködő szervezetek, illetve ezek szolgálatban lévő tagja, valamint a Nemzeti Adó- és Vámhivatal vámhatósági és nyomozóhatósági szervei, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú szolgálatban lévő tagja.
+c)[^2] a Magyar Honvédség és a rendvédelmi szervek, továbbá a sürgős orvosi ellátásban közreműködő szervezetek, illetve ezek szolgálatban lévő tagja, valamint a Nemzeti Adó- és Vámhivatal vámhatósági és nyomozóhatósági szervei, illetve a Nemzeti Adó- és Vámhivatal szolgálatban lévő, pénzügyőri munkakört betöltő foglalkoztatottja.
 
-[^2]: A 3. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 74. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 74. §-ával megállapított, a 671/2020. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
