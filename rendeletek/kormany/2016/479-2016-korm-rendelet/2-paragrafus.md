@@ -32,13 +32,13 @@ m) az a)–c) pont szerinti szervezetek jogi személyiséggel rendelkező szerve
 
 (2) Az (1) bekezdés l) pontja szerinti külön jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet, különösen:
 
-a)[^1]
+a)[^1] a közhasznú szervezetként működő felsőoktatási intézmény,
 
-b) a közhasznú szervezetként működő felsőoktatási intézmény,
+b)[^2] az Országos Tudományos Diákköri Tanács,
 
 c) a Magyar Felsőoktatási Akkreditációs Bizottság,
 
-d) a Felsőoktatási és Tudományos Tanács,
+d)[^3] a Felsőoktatási Tervezési Testület,
 
 e) a Magyar Rektori Konferencia,
 
@@ -50,4 +50,6 @@ h) az európai kutatási infrastruktúráért felelős konzorcium, valamint
 
 i) a Magyar Szénhidrogén Készletező Szövetség.
 
-[^1]: A 2. § (2) bekezdés a) pontját a 445/2017. (XII.27.) Korm. rendelet 37. pont 1. pontja hatályon kívül helyezte.
+[^1]: A 2. § (2) bekezdés a) pontját a 445/2017. (XII.27.) Korm. rendelet 37. pont 1. pontja hatályon kívül helyezte, újonnan a 616/2020. (XII. 21.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^2]: A 2. § (2) bekezdés b) pontja a 616/2020. (XII. 21.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2) bekezdés d) pontja a 616/2020. (XII. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
