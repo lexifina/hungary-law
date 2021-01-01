@@ -1,16 +1,16 @@
-## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^821]
+## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^828]
 
-105/A. §[^822] (1) A gyámhivatal a gyermek gondozási helyének kérelemre történő felülvizsgálatát a nevelésbe vétel felülvizsgálatának minősítheti.
+105/A. §[^829] (1) A gyámhivatal a gyermek gondozási helyének kérelemre történő felülvizsgálatát a nevelésbe vétel felülvizsgálatának minősítheti.
 
 (2) A gondozási hely megváltoztatását kérheti a gyermek, a szülő, a gyermekvédelmi gyám, a nevelőszülői hálózat vezetője, a gyermekotthon vezetője, valamint kezdeményezheti a gyermekjogi képviselő és a gyermekvédelmi szakszolgálat.
 
-(2a)[^823] A gyermekvédelmi szakszolgálat a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet 11. § (7) bekezdése alapján
+(2a)[^830] A gyermekvédelmi szakszolgálat a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet 11. § (7) bekezdése alapján
 
 a) a (4a) bekezdés szerinti esetben a gyermek gondozási helyének megváltoztatását kérelmezi a gyámhivatalnál az új egyéni elhelyezési terv és elhelyezési javaslat egyidejű megküldésével, vagy
 
 b) az (5) bekezdés b) vagy c) pontja szerinti esetben a fenntartó, működtető személyében bekövetkező változásról tájékoztatást nyújt a gyámhivatalnak.
 
-(3)[^824] A gyámhivatal – a (2a) bekezdés szerinti eset kivételével – a gondozási hely megváltoztatásához javaslatot kér a gyermekvédelmi szakszolgálattól azzal, hogy vizsgálata során véleményezze – a Gyvt. 80/B. § (1) bekezdése figyelembevételével – a gyermek gondozási helyét is.
+(3)[^831] A gyámhivatal – a (2a) bekezdés szerinti eset kivételével – a gondozási hely megváltoztatásához javaslatot kér a gyermekvédelmi szakszolgálattól azzal, hogy vizsgálata során véleményezze – a Gyvt. 80/B. § (1) bekezdése figyelembevételével – a gyermek gondozási helyét is.
 
 (4) A gondozási hely megváltoztatásának minősül, ha a gyermek gondozása a korábban meghatározottól eltérő
 
@@ -24,9 +24,9 @@ d) fogyatékosok vagy pszichiátriai betegek otthonában
 
 történik.
 
-(4a)[^825] A (4) bekezdésben foglaltakon túl a gondozási hely megváltoztatásának minősül az is, ha a nevelőszülő fenntartója és működtetője személyében bekövetkező változást az érintett fenntartók, működtetők és a nevelőszülő közötti írásbeli megállapodás nem alapozza meg.
+(4a)[^832] A (4) bekezdésben foglaltakon túl a gondozási hely megváltoztatásának minősül az is, ha a nevelőszülő fenntartója és működtetője személyében bekövetkező változást az érintett fenntartók, működtetők és a nevelőszülő közötti írásbeli megállapodás nem alapozza meg.
 
-(5)[^826] Nem minősül a gondozási hely megváltoztatásának
+(5)[^833] Nem minősül a gondozási hely megváltoztatásának
 
 a) a fenntartó személyében történő változás,
 
@@ -64,9 +64,9 @@ a gondozási, ellátási hely megváltozását követő tizenöt napon belül.
 
 (11) A gondozási hely megváltoztatásáról szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a gyermek új gondozási helyét a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel.
 
-[^821]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^822]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^823]: A 105/A. § (2a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^824]: A 105/A. § (3) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^825]: A 105/A. § (4a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^826]: A 105/A. § (5) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^828]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^829]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^830]: A 105/A. § (2a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^831]: A 105/A. § (3) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^832]: A 105/A. § (4a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^833]: A 105/A. § (5) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.

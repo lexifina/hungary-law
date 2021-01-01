@@ -1,4 +1,4 @@
-30/F. §[^131] (1) Ha az átmeneti gondozásban lévő gyermek és a kapcsolattartásra jogosult hozzátartozója külön élnek, a gyámhivatal kérelemre dönt a kapcsolattartásról, feltéve, hogy az nem tartozik bírósági hatáskörbe.
+30/F. §[^135] (1) Ha az átmeneti gondozásban lévő gyermek és a kapcsolattartásra jogosult hozzátartozója külön élnek, a gyámhivatal kérelemre dönt a kapcsolattartásról, feltéve, hogy az nem tartozik bírósági hatáskörbe.
 
 (2) A gyámhivatal vagy a bíróság felügyelt kapcsolattartást rendel el, ha az átmeneti gondozásban lévő gyermeket a kapcsolattartásra jogosult személy bántalmazta vagy elhanyagolta.
 
@@ -6,7 +6,7 @@
 
 a) a kapcsolattartás gyakoriságát, időtartamát,
 
-b)[^132] a kapcsolattartás helyszínét és a felügyeletet biztosító szakembernek, így különösen a családok átmeneti otthona családgondozójának, ügyeletes gondozójának, a gyermekek átmeneti otthona családgondozójának, nevelőjének, a család- és gyermekjóléti központ munkatársának a kijelölését,
+b)[^136] a kapcsolattartás helyszínét és a felügyeletet biztosító szakembernek, így különösen a családok átmeneti otthona családgondozójának, ügyeletes gondozójának, a gyermekek átmeneti otthona családgondozójának, nevelőjének, a család- és gyermekjóléti központ munkatársának a kijelölését,
 
 c) a gyermek, valamint ruházata és a kapcsolattartás során szükséges egyéb tárgyai átadásának és visszaadásának helyét, idejét, módját,
 
@@ -16,7 +16,8 @@ e) az elmaradt kapcsolattartás pótlását, a jogosultnak fel nem róható okb�
 
 f) a kapcsolat személyes találkozás nélküli fenntartásának módját, szükség esetén gyakoriságát és időtartamát, és
 
-g) a tájékoztatást a kapcsolattartásra vonatkozó szabályok be nem tartása esetére a 31–33/B. §-ban meghatározott jogkövetkezményekről.
+g)[^137] a tájékoztatást a kapcsolattartásra vonatkozó szabályok be nem tartása esetére a 31. és 32. §-ban meghatározott jogkövetkezményekről, továbbá a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 22/C. § (2) bekezdésében és 22/D. § (2) bekezdésében meghatározott jogkövetkezményekről, továbbá a Ptk. 4:183. §-a szerinti kártérítés és az igazolt költségek megtérítésének lehetőségéről.
 
-[^131]: A 30/F. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^132]: A 30/F. § (3) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 11. pontja szerint módosított szöveg.
+[^135]: A 30/F. §-t a 360/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^136]: A 30/F. § (3) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 11. pontja szerint módosított szöveg.
+[^137]: A 30/F. § (3) bekezdés g) pontja a 668/2020. (XII. 28.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.

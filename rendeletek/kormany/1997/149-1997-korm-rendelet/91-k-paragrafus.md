@@ -1,4 +1,4 @@
-## XII/A. Fejezet[^702]
+## XII/A. Fejezet[^709]
 
 ## MEGELŐZŐ PÁRTFOGÁS
 
@@ -6,23 +6,23 @@
 
 91/K. § (1) A gyámhivatal a nyomozó hatóságnak a bűncselekmény vagy a szabálysértési hatóságnak az elzárással is sújtható szabálysértés elkövetéséről tájékoztató, a Gyvt. 68/D. § (1) bekezdése szerinti jelzését követően megkeresi
 
-a)[^703] védelembe vétel alatt nem álló gyermek esetén három napon belül
+a)[^710] védelembe vétel alatt nem álló gyermek esetén három napon belül
 
 aa) a pártfogó felügyelői szolgálatot a környezettanulmány és a gyermek veszélyeztetettségének bűnmegelőzési szempontú kockázatértékelése (a továbbiakban: kockázatértékelés), valamint
 
-ab)[^704] a család- és gyermekjóléti központot a 84. § (2) bekezdésben foglaltak tizenöt napon belül történő megküldése és a család- és gyermekjóléti központnál a megelőző pártfogással kapcsolatos gyermekjóléti szolgáltatási feladatokat ellátó esetmenedzser kijelölése céljából;
+ab)[^711] a család- és gyermekjóléti központot a 84. § (2) bekezdésben foglaltak tizenöt napon belül történő megküldése és a család- és gyermekjóléti központnál a megelőző pártfogással kapcsolatos gyermekjóléti szolgáltatási feladatokat ellátó esetmenedzser kijelölése céljából;
 
 b) védelembe vett gyermek esetén
 
-ba)[^705] három napon belül a család- és gyermekjóléti központot a megelőző pártfogás elrendelésére vonatkozó javaslatának, valamint a gyermek tekintetében kitöltött, a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 2. számú melléklet IV. számú adatlap szerinti környezettanulmánynak és a rendelkezésére álló pedagógiai véleménynek nyolc napon belüli megküldése, és
+ba)[^712] három napon belül a család- és gyermekjóléti központot a megelőző pártfogás elrendelésére vonatkozó javaslatának, valamint a gyermek tekintetében kitöltött, a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 2. számú melléklet IV. számú adatlap szerinti környezettanulmánynak és a rendelkezésére álló pedagógiai véleménynek nyolc napon belüli megküldése, és
 
-bb)[^706] a védelembe vételi határozatnak és a ba) alpont szerinti dokumentumoknak a megküldésével, azok beérkezését követően haladéktalanul a pártfogó felügyelői szolgálatot a környezettanulmány és a kockázatértékelés tizenöt napon belül történő megküldése
+bb)[^713] a védelembe vételi határozatnak és a ba) alpont szerinti dokumentumoknak a megküldésével, azok beérkezését követően haladéktalanul a pártfogó felügyelői szolgálatot a környezettanulmány és a kockázatértékelés tizenöt napon belül történő megküldése
 
 céljából.
 
-(2)[^707] A gyámhivatal az (1) bekezdés a) pont ab) alpontja szerinti megkeresésében felhívja a család- és gyermekjóléti központot, hogy haladéktalanul küldje meg a pártfogó felügyelői szolgálat részére a rendelkezésére álló, a gyermek tekintetében kitöltött, a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 2. számú melléklet IV. számú adatlap szerinti környezettanulmányt és a rendelkezésére álló pedagógiai véleményt.
+(2)[^714] A gyámhivatal az (1) bekezdés a) pont ab) alpontja szerinti megkeresésében felhívja a család- és gyermekjóléti központot, hogy haladéktalanul küldje meg a pártfogó felügyelői szolgálat részére a rendelkezésére álló, a gyermek tekintetében kitöltött, a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 2. számú melléklet IV. számú adatlap szerinti környezettanulmányt és a rendelkezésére álló pedagógiai véleményt.
 
-(3)[^708] A környezettanulmány és a kockázatértékelés elkészítése, valamint a megelőző pártfogás végrehajtása érdekében a megelőző pártfogó felügyelőként kijelölhető személy, a megelőző pártfogó felügyelő – a Gyvt. 135. § (1) és (4) bekezdése alapján – a család- és gyermekjóléti központnál betekinthet a gyermekre vonatkozóan vezetett adatlapokba.
+(3)[^715] A környezettanulmány és a kockázatértékelés elkészítése, valamint a megelőző pártfogás végrehajtása érdekében a megelőző pártfogó felügyelőként kijelölhető személy, a megelőző pártfogó felügyelő – a Gyvt. 135. § (1) és (4) bekezdése alapján – a család- és gyermekjóléti központnál betekinthet a gyermekre vonatkozóan vezetett adatlapokba.
 
 (4) A gyámhivatal a megelőző pártfogás elrendelése iránti eljárást
 
@@ -38,16 +38,16 @@ a) magas fokát állapította meg, vagy
 
 b) közepes fokát állapította meg, és az alapellátás önkéntes igénybevételével a veszélyeztetettség valószínűsíthetően nem szüntethető meg.
 
-(6)[^709] Ha a gyermek bűnmegelőzési szempontú veszélyeztetettségének foka közepes, és a szülő vagy más törvényes képviselő kérelme, a család- és gyermekjóléti központ javaslata, valamint az eset összes körülményének figyelembevételével valószínűsíthető a szociális segítőmunka eredményessége, a gyámhivatal dönt a védelembe vétel iránti eljárás megszüntetéséről és a megelőző pártfogás elrendelésének mellőzéséről. A gyámhivatal ezzel egyidejűleg felhívja a család- és gyermekjóléti központot az alapellátás keretében történő segítségnyújtás megszervezésére.
+(6)[^716] Ha a gyermek bűnmegelőzési szempontú veszélyeztetettségének foka közepes, és a szülő vagy más törvényes képviselő kérelme, a család- és gyermekjóléti központ javaslata, valamint az eset összes körülményének figyelembevételével valószínűsíthető a szociális segítőmunka eredményessége, a gyámhivatal dönt a védelembe vétel iránti eljárás megszüntetéséről és a megelőző pártfogás elrendelésének mellőzéséről. A gyámhivatal ezzel egyidejűleg felhívja a család- és gyermekjóléti központot az alapellátás keretében történő segítségnyújtás megszervezésére.
 
-(7)[^710] Ha a gyermek bűnmegelőzési szempontú veszélyeztetettségének foka alacsony, a gyámhivatal dönt a védelembe vétel iránti eljárás és a megelőző pártfogás iránti eljárás megszüntetéséről. A gyámhivatal indokolt esetben ezzel egyidejűleg felhívja a család- és gyermekjóléti központot az alapellátás keretében történő segítségnyújtás megszervezésére.
+(7)[^717] Ha a gyermek bűnmegelőzési szempontú veszélyeztetettségének foka alacsony, a gyámhivatal dönt a védelembe vétel iránti eljárás és a megelőző pártfogás iránti eljárás megszüntetéséről. A gyámhivatal indokolt esetben ezzel egyidejűleg felhívja a család- és gyermekjóléti központot az alapellátás keretében történő segítségnyújtás megszervezésére.
 
-[^702]: A XII/A. Fejezetet (91/K–91/R. §) újonnan a 353/2014. (XII. 29.) Korm. rendelet 9. § iktatta be.
-[^703]: A 91/K. § (1) bekezdés a) pont nyitó szövegrésze a 60/2017. (III. 20.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^704]: A 91/K. § (1) bekezdés a) pont ab) alpontja a 419/2015. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 60/2017. (III. 20.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^705]: A 91/K. § (1) bekezdés b) pont ba) alpontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja, a 60/2017. (III. 20.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
-[^706]: A 91/K. § (1) bekezdés b) pont bb) alpontja a 60/2017. (III. 20.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
-[^707]: A 91/K. § (2) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.
-[^708]: A 91/K. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 26. pontja szerint módosított szöveg.
-[^709]: A 91/K. § (6) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^710]: A 91/K. § (7) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^709]: A XII/A. Fejezetet (91/K–91/R. §) újonnan a 353/2014. (XII. 29.) Korm. rendelet 9. § iktatta be.
+[^710]: A 91/K. § (1) bekezdés a) pont nyitó szövegrésze a 60/2017. (III. 20.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^711]: A 91/K. § (1) bekezdés a) pont ab) alpontja a 419/2015. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 60/2017. (III. 20.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^712]: A 91/K. § (1) bekezdés b) pont ba) alpontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja, a 60/2017. (III. 20.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^713]: A 91/K. § (1) bekezdés b) pont bb) alpontja a 60/2017. (III. 20.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^714]: A 91/K. § (2) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.
+[^715]: A 91/K. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 26. pontja szerint módosított szöveg.
+[^716]: A 91/K. § (6) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^717]: A 91/K. § (7) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-## Közvetítői eljárás gyámhatóság általi elrendelése[^122]
+## Közvetítői eljárás gyámhatóság általi elrendelése[^126]
 
-30/A. §[^123] (1)[^124] A közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) szerinti közvetítői eljárást a kapcsolattartás rendezésével és a szülői felügyeleti jog gyakorlásával összefüggésben a gyámhivatal a felek együttes kérelmére vagy hivatalból rendeli el – az előtte folyó eljárás felfüggesztésével egyidejűleg – végzésben. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően segíti elő a felek közötti vitát lezáró megállapodás létrehozását.
+30/A. §[^127] (1)[^128] A közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) szerinti közvetítői eljárást a kapcsolattartás rendezésével és a szülői felügyeleti jog gyakorlásával összefüggésben a gyámhivatal a felek együttes kérelmére vagy hivatalból rendeli el – az előtte folyó eljárás felfüggesztésével egyidejűleg – végzésben. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően segíti elő a felek közötti vitát lezáró megállapodás létrehozását.
 
 (2) Közvetítői eljárást a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek vehetnek igénybe. A gyámhivatal kizárólag a szülők számára rendelheti el kötelező jelleggel közvetítői eljárás igénybevételét.
 
@@ -24,6 +24,6 @@ meghatározott díjazás mellett biztosítja a közvetítői eljárás lefolytat
 
 (7) Ha a közvetítői eljárás eredménytelenül zárul, a gyámhivatal kötelezi a közvetítői eljárás eredménytelenségéért felelős felet vagy feleket a közvetítői eljárás díjának megfizetésére.
 
-[^122]: A 30/A. §-t megelőző alcím a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^123]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^124]: A 30/A. § (1) bekezdése a 306/2018. (XII. 27.) Korm. rendelet 10. § a) pontja, a 31/2020. (II. 29.) Korm. rendelet 1. § (10) bekezdés d) pontja szerint módosított szöveg.
+[^126]: A 30/A. §-t megelőző alcím a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^127]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 60/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^128]: A 30/A. § (1) bekezdése a 306/2018. (XII. 27.) Korm. rendelet 10. § a) pontja, a 31/2020. (II. 29.) Korm. rendelet 1. § (10) bekezdés d) pontja szerint módosított szöveg.

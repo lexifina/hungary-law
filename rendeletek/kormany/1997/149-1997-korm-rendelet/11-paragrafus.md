@@ -14,7 +14,7 @@ c) ha azt külön jogszabály rendeli el.
 
 (4)[^46] Mellőzni lehet a korlátozottan cselekvőképes gyermek, valamint az ítélőképessége birtokában lévő cselekvőképtelen gyermek közvetlen meghallgatását, ha
 
-a)[^47] a kifizetés, valamint a gyámi fenntartásos betétből történő pénzfelvétel éves összege az öregségi nyugdíj mindenkori legkisebb összegének négyszeresét nem haladja meg, és
+a)[^47] a kifizetés, valamint a gyámi fenntartásos betétből történő pénzfelvétel éves összege az öregségi nyugdíj mindenkori legkisebb összegének tízszeresét nem haladja meg, és
 
 b) a törvényes képviseletet gyakorló személy hitelt érdemlően bizonyítja a gyermek beleegyezését. A beleegyezés hitelt érdemlő bizonyításának minősül különösen a szülők vagy más törvényes képviselők magánokiratba vagy közokiratba foglalt nyilatkozata a gyermek véleményéről, vagy ha a gyermek írásban maga is kéri a kifizetést, illetve a pénzfelvételt.
 
@@ -29,7 +29,7 @@ b) a törvényes képviseletet gyakorló személy hitelt érdemlően bizonyítja
 [^44]: A 11. § (3) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^45]: A 11. § (3) bekezdésének b) pontja a 315/2005. (XII. 25.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 5. pontja szerint módosított szöveg.
 [^46]: A 11. § új (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatta.
-[^47]: A 11. § (4) bekezdés a) pontja a 60/2017. (III. 20.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^47]: A 11. § (4) bekezdés a) pontja a 668/2020. (XII. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^48]: A 11. § új (5) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (7) bekezdésre változtatta. A 11. § (5) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^49]: A 11. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 315/2005. (XII. 25.) Korm. rendelet 11. § (2) bekezdése.
 [^50]: A 11. § (5) bekezdését a 14/2003. (II. 12.) Korm. rendelet 3. §-a iktatta be, számozását (7) bekezdésre változtatta a 315/2005. (XII. 25.) Korm. rendelet 11. § (2) bekezdése, szövege a 21/2012. (II. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

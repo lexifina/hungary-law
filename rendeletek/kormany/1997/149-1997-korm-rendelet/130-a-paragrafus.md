@@ -1,6 +1,6 @@
-## Eseti gyám és magzat gyámjának kirendelése[^930]
+## Eseti gyám és magzat gyámjának kirendelése[^937]
 
-130/A. §[^931] (1) A gyámhivatal kérelemre vagy hivatalból eseti gyámot rendel a kiskorú gyermek részére,
+130/A. §[^938] (1) A gyámhivatal kérelemre vagy hivatalból eseti gyámot rendel a kiskorú gyermek részére,
 
 a) ha képviseletéről a Ptk. 6:20. §-ában meghatározott esetekben gondoskodni kell,
 
@@ -12,21 +12,21 @@ d) az apaság megállapítása iránti perben a Ptk. 4:106. § (2) bekezdése sz
 
 e) az örökbefogadás felbontására irányuló eljárás során, ha a Ptk. 4:145. § (4) bekezdése alapján az örökbefogadó nem járhat el az örökbefogadott törvényes képviselőjeként, és
 
-f)[^932] a bíróság megkeresése alapján a Pp. 298. § (4) bekezdésében meghatározott esetben, ha a kiskorú tanú és a törvényes képviselője között érdekellentét van.
+f)[^939] a bíróság megkeresése alapján a Pp. 298. § (4) bekezdésében meghatározott esetben, ha a kiskorú tanú és a törvényes képviselője között érdekellentét van.
 
-(1a)[^933] Tömeges bevándorlás okozta válsághelyzet esetén a kijelölt gyámhivatal a menekültügyi hatóság kezdeményezése alapján hivatalból haladéktalanul intézkedik a tranzitzónában tartózkodó, tizennegyedik életévét betöltött kísérő nélküli kiskorú részére eseti gyám kirendelése iránt. Eseti gyámként ebben az esetben a jogi segítségnyújtási feladatkörében eljáró területileg illetékes hivatalnak a tranzitzónában jogi képviseletet ellátó állami tisztviselőjét lehet kirendelni.
+(1a)[^940] Tömeges bevándorlás okozta válsághelyzet esetén a kijelölt gyámhivatal a menekültügyi hatóság kezdeményezése alapján hivatalból haladéktalanul intézkedik a tranzitzónában tartózkodó, tizennegyedik életévét betöltött kísérő nélküli kiskorú részére eseti gyám kirendelése iránt. Eseti gyámként ebben az esetben a jogi segítségnyújtási feladatkörében eljáró területileg illetékes hivatalnak a tranzitzónában jogi képviseletet ellátó állami tisztviselőjét lehet kirendelni.
 
-(1b)[^934] Az (1a) bekezdés szerinti esetben az eseti gyámként kirendelhető személyre a jogi segítségnyújtási feladatkörében eljáró területileg illetékes kormányhivatal tesz javaslatot hivatalból, ezzel egyidejűleg megküldi az eseti gyámként kirendelendő személy írásbeli nyilatkozatát az eseti gyámi tisztség vállalásáról, valamint arról, hogy nem áll a szülői felügyeleti jogot megszüntető bírói ítélet hatálya alatt.
+(1b)[^941] Az (1a) bekezdés szerinti esetben az eseti gyámként kirendelhető személyre a jogi segítségnyújtási feladatkörében eljáró területileg illetékes kormányhivatal tesz javaslatot hivatalból, ezzel egyidejűleg megküldi az eseti gyámként kirendelendő személy írásbeli nyilatkozatát az eseti gyámi tisztség vállalásáról, valamint arról, hogy nem áll a szülői felügyeleti jogot megszüntető bírói ítélet hatálya alatt.
 
-(1c)[^935] Az (1a) bekezdés szerinti esetben a kijelölt gyámhivatal az eljárás során mellőzheti a Gyvt. 128. § (1) bekezdése szerinti személyek meghallgatását.
+(1c)[^942] Az (1a) bekezdés szerinti esetben a kijelölt gyámhivatal az eljárás során mellőzheti a Gyvt. 128. § (1) bekezdése szerinti személyek meghallgatását.
 
-(1d)[^936] A kijelölt gyámhivatal az (1a) bekezdés szerinti esetben a menekültügyi hatósággal, valamint a jogi segítségnyújtási feladatkörében eljáró területileg illetékes kormányhivatallal elektronikus úton tart kapcsolatot, és döntését elektronikus úton közli. A tizennegyedik életévét betöltött kísérő nélküli kiskorú a kijelölt gyámhivatal döntéséről eseti gyámja útján értesül.
+(1d)[^943] A kijelölt gyámhivatal az (1a) bekezdés szerinti esetben a menekültügyi hatósággal, valamint a jogi segítségnyújtási feladatkörében eljáró területileg illetékes kormányhivatallal elektronikus úton tart kapcsolatot, és döntését elektronikus úton közli. A tizennegyedik életévét betöltött kísérő nélküli kiskorú a kijelölt gyámhivatal döntéséről eseti gyámja útján értesül.
 
-(1e)[^937] A gyámhivatal az idegenrendészeti hatóság megkeresésére nyolc napon belül gondoskodik eseti gyám kirendeléséről.
+(1e)[^944]
 
-(1f)[^938] A kísérő nélküli kiskorú ügyfélként történő meghallgatása esetén eseti gyámként gyermekvédelmi gyámot kell kirendelni, amennyiben a kísérő nélküli kiskorú ideiglenes hatályú elhelyezésére még nem került sor.
+(1f)[^945] A kísérő nélküli kiskorú ügyfélként történő meghallgatása esetén eseti gyámként gyermekvédelmi gyámot kell kirendelni, amennyiben a kísérő nélküli kiskorú ideiglenes hatályú elhelyezésére még nem került sor.
 
-(2)[^939] Az (1) bekezdés f) pontja szerinti esetben a gyámhivatal által kirendelt eseti gyám gyakorolja a Pp. 298. § (2) és (3) bekezdésében meghatározott jogokat.
+(2)[^946] Az (1) bekezdés f) pontja szerinti esetben a gyámhivatal által kirendelt eseti gyám gyakorolja a Pp. 298. § (2) és (3) bekezdésében meghatározott jogokat.
 
 (3) Az eseti gyám a gyámhivatal kirendelő határozatában meghatározott ügyben olyan jogkörrel jár el, mint a gyám.
 
@@ -44,13 +44,13 @@ b) a születendő gyermek családi jogállásának teljes hatályú apai elismer
 
 (8) A szülő törvényes képviseleti jogát korlátozó rendelkezéseket a magzat tekintetében is alkalmazni kell.
 
-[^930]: A 130/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
-[^931]: A 130/A. §-t a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
-[^932]: A 130/A. § (1) bekezdés f) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
-[^933]: A 130/A. § (1a) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^934]: A 130/A. § (1b) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^935]: A 130/A. § (1c) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^936]: A 130/A. § (1d) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^937]: A 130/A. § (1e) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 4. §-a iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^938]: A 130/A. § (1f) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^939]: A 130/A. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^937]: A 130/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
+[^938]: A 130/A. §-t a 70/2014. (III. 13.) Korm. rendelet 65. §-a iktatta be.
+[^939]: A 130/A. § (1) bekezdés f) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^940]: A 130/A. § (1a) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^941]: A 130/A. § (1b) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^942]: A 130/A. § (1c) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^943]: A 130/A. § (1d) bekezdését a 70/2017. (III. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^944]: A 130/A. § (1e) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 668/2020. (XII. 28.) Korm. rendelet 5. § (8) bekezdés c) pontja.
+[^945]: A 130/A. § (1f) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^946]: A 130/A. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.

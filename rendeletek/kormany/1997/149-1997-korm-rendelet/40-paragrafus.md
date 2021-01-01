@@ -2,7 +2,7 @@
 
 ## eljárás
 
-40. §[^230] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbe fogadni szándékozó személy és a gyermek törvényes képviselőjének személyesen előterjesztett, egyező kérelmére indul. A gyermekvédelmi gyám a kérelmet írásban is előterjesztheti.
+40. §[^235] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbe fogadni szándékozó személy és a gyermek törvényes képviselőjének személyesen előterjesztett, egyező kérelmére indul. A gyermekvédelmi gyám a kérelmet írásban is előterjesztheti.
 
 (2) Ha az örökbefogadandó gyermek szülője
 
@@ -16,12 +16,12 @@ d) cselekvőképtelen nagykorú személy vagy tekintetében a Ptk. 4:127. § (1)
 
 (3) Ha a (2) bekezdésben foglaltak miatt vagy más okból az örökbefogadandó gyermeknek nincs törvényes képviselője, a kijelölt gyámhivatal eseti gyám kirendelésével gondoskodik a törvényes képviselet ellátásáról.
 
-(4)[^231]
+(4)[^236]
 
 (5) A kijelölt gyámhivatal eljárása során a Ptk. 4:121. § (1) és (2) bekezdése alapján vizsgálja az örökbefogadás engedélyezése iránti kérelem benyújtásakor az örökbefogadó életkorát, valamint az örökbefogadó és az örökbefogadandó gyermek életkora közötti különbséget.
 
-(6)[^232] A rokon vagy nevelőszülő és a házastársa általi közös gyermekké történő örökbefogadás esetén a gyámhatóság a házastárs alkalmasságát is – a Ptk. 4:122. § (2) bekezdése alapján – az örökbefogadás engedélyezése iránti eljárás során állapítja meg.
+(6)[^237] A rokon vagy nevelőszülő és a házastársa általi közös gyermekké történő örökbefogadás esetén a gyámhatóság a házastárs alkalmasságát is – a Ptk. 4:122. § (2) bekezdése alapján – az örökbefogadás engedélyezése iránti eljárás során állapítja meg.
 
-[^230]: A 40. § a 70/2014. (III. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^231]: A 40. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^232]: A 40. § (6) bekezdését a 325/2020. (VII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^235]: A 40. § a 70/2014. (III. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^236]: A 40. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^237]: A 40. § (6) bekezdését a 325/2020. (VII. 1.) Korm. rendelet 7. §-a iktatta be.

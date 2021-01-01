@@ -1,10 +1,10 @@
-## Tájékoztatási kötelezettség, igazolt költségek megtérítése és az elmaradt kapcsolattartás pótlása[^120]
+## Tájékoztatási kötelezettség, igazolt költségek megtérítése és az elmaradt kapcsolattartás pótlása[^122]
 
-30. §[^121] (1) A kapcsolattartást akadályozó körülményekről a felek előzetesen, lehetőség szerint írásban vagy egyéb igazolható módon, késedelem nélkül tájékoztatják egymást.
+30. §[^123] (1) A kapcsolattartást akadályozó körülményekről a felek előzetesen, lehetőség szerint írásban vagy egyéb igazolható módon, késedelem nélkül tájékoztatják egymást.
 
-(2) A kapcsolattartásra jogosult vagy a kapcsolattartásra kötelezett kérelmére a gyámhivatal akkor kötelezi a kapcsolattartást kellő indok nélkül akadályozó, a kapcsolattartás szabályait megszegő felet a neki felróhatóan keletkezett költségek viselésére, ha a kérelmező megfelelően igazolja költségeit és azt, hogy azok a kapcsolattartás akadályozásával, szabályainak megszegésével összefüggésben keletkeztek. A gyámhivatal tájékoztatást nyújt a Ptk. 4:183. § (1) bekezdése szerinti kártérítés lehetőségéről.
+(2)[^124] A gyámhivatal tájékoztatást nyújt a Ptk. 4:183. §-a szerinti kártérítés és igazolt költségek megtérítésének lehetőségéről.
 
-(3) A kapcsolattartás akadályozása, szabályainak megszegése folytán keletkezett, igazolt költségek megtérítése a végrehajtási eljárás során is kérhető.
+(3)[^125]
 
 (4) Az elmaradt kapcsolattartást pótolni kell, ha az a kapcsolattartásra jogosultnak fel nem róható okból maradt el, feltéve, hogy a jogosult a kapcsolattartást szabályozó döntésben foglaltak szerint eleget tett előzetes tájékoztatási kötelezettségének vagy az előre nem látható akadályok felmerülését utólag igazolja.
 
@@ -12,5 +12,7 @@
 
 (6) Az elmaradt kapcsolattartás pótlása nem veszélyeztetheti a gyermek egészséges fejlődését.
 
-[^120]: A 30. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^121]: A 30. § a 70/2014. (III. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^122]: A 30. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^123]: A 30. § a 70/2014. (III. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^124]: A 30. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^125]: A 30. § (3) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 5. § (8) bekezdés a) pontja hatályon kívül helyezte.

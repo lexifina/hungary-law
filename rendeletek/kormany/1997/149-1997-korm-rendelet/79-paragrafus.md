@@ -1,6 +1,6 @@
 ## A határozat tartalma
 
-79. §[^572] (1) A gyámhivatal az otthonteremtési támogatásról szóló határozata rendelkező részében a 14. §-ban foglaltakon túl
+79. §[^577] (1) A gyámhivatal az otthonteremtési támogatásról szóló határozata rendelkező részében a 14. §-ban foglaltakon túl
 
 a) jóváhagyja az otthonteremtési támogatás iránti kérelemben megjelölt célt és a pénzfelhasználási tervet,
 
@@ -16,21 +16,15 @@ f) figyelmezteti a fiatal felnőttet a jogosulatlan és rosszhiszemű igénybev�
 
 g) – ha az otthonteremtési támogatás a Gyvt. 25. § (5) bekezdés a), illetve b) pontja szerinti célra kerül felhasználásra – rendelkezik az elidegenítési tilalom tényének feljegyzéséről,
 
-h) – az otthonteremtési támogatás lakás-előtakarékossági programban való részvétel céljából történő megállapítása kivételével – figyelmezteti a fiatal felnőttet
+h)[^578] figyelmezteti a fiatal felnőttet
 
 ha) a megállapított támogatásból folyósított, de fel nem használt, továbbá a döntésben meghatározott célnak nem megfelelően felhasznált támogatási összeg visszafizetésének kötelezettségére [Gyvt. 26/A. § (1) és (3) bekezdés], és
 
 hb) az otthonteremtési támogatás iránti kérelem Gyvt. 26/A. § (1) és (2) bekezdése szerinti ismételt előterjesztésének lehetőségére, ha a fiatal felnőtt a megállapított támogatást vagy annak egy részét nem használja fel, továbbá
 
-i) ha az otthonteremtési támogatás megállapítására lakás-előtakarékossági programban való részvétel céljából kerül sor
+i)[^579] ha az otthonteremtési támogatás a Gyvt. 25. § (5) bekezdés g) pontja szerinti belépési hozzájárulásra kerül megállapításra, felhívja a bentlakásos szociális intézmény vagy a támogatott lakhatás vezetőjét, hogy a gondozásnak a szociális intézménybe történő beköltözést vagy a támogatott lakhatás igénybevételének megkezdését követő három éven belüli megszűnése esetén a Gyvt. 28. § (1) bekezdése alapján köteles a belépési hozzájárulás arányos részének összegéről a gyámhivatalt tájékoztatni.
 
-ia) felhívja a hitelintézetet a programba befektetett otthonteremtési támogatás összegének zárolására és a lakás-előtakarékossági szerződés szerinti megtakarítási idő (a továbbiakban: megtakarítási idő) leteltét követő, a Gyvt. 26/B. § (1) bekezdése szerinti tájékoztatás megadására,
-
-ib) tájékoztatja a támogatást igénybe vevő fiatal felnőttet a zárolás megtakarítási idő letelte előtti megszüntetésének feltételeiről, valamint arról, hogy a betétösszeg megtakarítási idő leteltét követő hitelintézet általi kifizetése a lakáscélú felhasználás igazolása mellett, gyámhivatali hozzájárulással történik, és
-
-ic) figyelmezteti a fiatal felnőttet az állami támogatással és kamattal növelt betétösszeg nem a lakástakarékpénztárakról szóló 1996. évi CXIII. törvényben (a továbbiakban: Ltv.) meghatározott lakáscélra történő felhasználása esetén alkalmazandó, a Gyvt. 26/B. § (7) bekezdése szerinti jogkövetkezményekre.
-
-(1a)[^573] Az otthonteremtési támogatásról hozott, az Szt. 18/B. §-ában meghatározott országos nyilvántartásba rögzítendő döntésnek tartalmaznia kell az ügy elbírálási azonosítóját is.
+(1a)[^580] Az otthonteremtési támogatásról hozott, az Szt. 18/B. §-ában meghatározott országos nyilvántartásba rögzítendő döntésnek tartalmaznia kell az ügy elbírálási azonosítóját is.
 
 (2) Ha az otthonteremtési támogatás megállapítására lakás-előtakarékossági programban való részvétel céljából került sor, a gyámhivatal a hitelintézet Gyvt. 26/B. § (1) bekezdése szerint megküldött tájékoztatásának figyelembevételével és szükség szerint a fiatal felnőtt meghallgatása, környezettanulmány készítése, valamint hozzátartozó javára történő felhasználás esetén a fiatal felnőtt tulajdonszerzését igazoló okirat alapján hozza meg a Gyvt. 26/B. § (2) és (3) bekezdés szerinti döntését.
 
@@ -44,5 +38,7 @@ c) tájékoztatja a fiatal felnőttet, hogy a lakás-előtakarékossági program
 
 d) tájékoztatja a fiatal felnőttet a felhasználás elfogadásának feltételeiről és figyelmezteti a nem cél szerint felhasznált otthonteremtési támogatás visszafizetésének kötelezettségére.
 
-[^572]: A 79. § a 116/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^573]: A 79. § (1a) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 8. §-a iktatta be.
+[^577]: A 79. § a 116/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^578]: A 79. § (1) bekezdés h) pont nyitó szövegrésze a 612/2020. (XII. 18.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^579]: A 79. § (1) bekezdés i) pontja a 612/2020. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^580]: A 79. § (1a) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 8. §-a iktatta be.
