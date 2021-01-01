@@ -1,1 +1,1 @@
-208/F. § A 120. § (6) bekezdése szerinti korlátozás szempontjából annak hatálybalépése előtt betöltött tisztségeket is figyelembe kell venni. A korlátozást a 120. § (6) bekezdés hatálybalépését követő választásokra kell alkalmazni.
+208/F. §

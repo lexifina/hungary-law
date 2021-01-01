@@ -6,9 +6,9 @@
 
 a) a kamara területi szervezeteinek elnökei,
 
-b) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma nem több 50 főnél,
+b) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma nem több 25 főnél,
 
-c) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, valamint 50 tagonként választott további 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma meghaladja az 50 főt,
+c) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, valamint 25 tagonként választott további 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma meghaladja a 25 főt,
 
 d) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását szüneteltető kamarai tag könyvvizsgálók közül választott 10 küldött.
 
