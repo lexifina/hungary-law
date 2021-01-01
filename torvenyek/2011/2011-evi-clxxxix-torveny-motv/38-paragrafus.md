@@ -4,7 +4,7 @@
 
 a)
 
-b) akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek;
+b) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek;
 
 c)
 
