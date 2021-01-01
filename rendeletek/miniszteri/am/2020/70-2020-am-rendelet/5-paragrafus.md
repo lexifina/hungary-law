@@ -1,0 +1,3 @@
+5. § (1) A HNT az Országos Bormarketing Alapot és a Kulturált Borfogyasztást Népszerűsítő Alapot elkülönítetten köteles működtetni. A HNT által elfogadott Országos Bormarketing Stratégia megvalósításához és a hozzájárulás beszedéséhez kapcsolódó adminisztratív költségekre (ideértve a Szakmaközi Bormarketing Bizottság működési költségeit) a tárgyévi hozzájárulás bevétel legfeljebb 5%-a használható fel.
+
+(2) A HNT minden év május 31-ig honlapján nyilvánosságra hozza – az e rendelet szerinti bevételek elkülönített bemutatásával készített – beszámolóját az Országos Bormarketing Alap és a Kulturált Borfogyasztást Népszerűsítő Alap előző évi felhasználásáról.
