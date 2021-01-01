@@ -96,6 +96,10 @@
 
 39. az oklevelek, a szakmai bizonyítványok és a képesítő bizonyítványok központi elektronikus nyilvántartásának részletes szabályait,
 
+39a. a szakképzés irányításának és a szakképzésért felelős miniszter e törvényben meghatározott feladatai végrehajtásának részletes szabályait,
+
+39b. a szakképzési tankönyv tekintetében a tankönyvvé nyilvánítás eljárási rendjét, valamint a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felvétel eljárását, az eljárásban szakértőként eljáró szervet, az iskolai terjesztési árat, a tankönyvjegyzékből való törlés rendjét és eljárását,
+
 40. a Nemzeti Foglalkoztatási Alap képzési alaprészéből nyújtható támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
 
 41. a Szakképzési Innovációs Tanács összetételét és működésének részletes szabályait,

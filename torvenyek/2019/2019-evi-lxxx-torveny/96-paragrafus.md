@@ -4,7 +4,7 @@
 
 a) irányítja az általa alapított szakképzési centrumot és az állam nevében gyakorolja az általa alapított szakképzési centrum részeként működő szakképző intézmények feletti fenntartói irányítási hatásköröket,
 
-b) ellátja a Nemzeti Foglalkoztatási Alap képzési alaprésze felhasználásával kapcsolatos feladatokat,
+b) ellátja a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap (a továbbiakban: Alap) képzési alaprésze felhasználásával kapcsolatos feladatokat,
 
 c) kiadja a képzési és kimeneti követelményeket és a programtantervet a Kormány adott ágazatért felelős tagjának egyetértésével,
 

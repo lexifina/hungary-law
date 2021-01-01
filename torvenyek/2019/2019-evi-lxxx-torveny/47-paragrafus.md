@@ -4,7 +4,7 @@
 
 (1) Szakképző intézményben a szakképzésialapfeladat-ellátást oktatók végzik.
 
-(2) Az oktató a szakmai oktatás végzése során a tanulókkal, illetve a képzésben részt vevő személyekkel összefüggő tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
+(2) Az oktató a szakmai oktatás végzése során a tanulókkal, illetve a képzésben részt vevő személyekkel összefüggő tevékenységével kapcsolatban a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül.
 
 (3) Az állami szakképző intézmény oktatója az Nkt.-ban meghatározottak szerint a Nemzeti Pedagógus Kar tagja.
 

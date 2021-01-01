@@ -12,4 +12,4 @@ tekintetében. Az e bekezdés szerinti eljárásban jogi és igazgatási képzé
 
 (3) A fenntartó a kérelmet elutasíthatja vagy annak helyt adva a döntést megváltoztathatja vagy megsemmisítheti.
 
-(4) A szakképzési centrum részeként működő szakképző intézmény esetében a fenntartó e bekezdésben meghatározott feladat- és hatásköreit a főigazgató gyakorolja.
+(4) A szakképzési centrum részeként működő szakképző intézmény esetében a fenntartó a (2) és (3) bekezdésben meghatározott feladat- és hatásköreit a főigazgató gyakorolja.

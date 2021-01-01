@@ -16,7 +16,7 @@ cc) elősegíti a szakképzési munkaszerződések megkötését, ennek érdeké
 
 cd) minősíti és ellenőrzi a duális képzőhelyek szakirányú oktatási tevékenységét,
 
-d) a szakmai vizsga helyszíne szerint illetékes területi szerve útján delegálja az ágazati alapvizsga elnökét és a szakmai vizsga vizsgabizottság ellenőrzési feladatokat ellátó tagját,
+d) a szakmai vizsga helyszíne szerint illetékes területi gazdasági kamara útján delegálja az ágazati alapvizsga elnökét és a szakmai vizsga vizsgabizottság ellenőrzési feladatokat ellátó tagját,
 
 e) – a szakképzésért felelős miniszter jóváhagyásával – kialakítja a kamarai gyakorlati oktatói képzés és vizsga képzési és vizsgakövetelményeit és szervezi a kamarai gyakorlati oktatói képzést és vizsgát,
 
@@ -34,7 +34,7 @@ i) közreműködik az életpálya-tanácsadási és a pályaorientációs felada
 
 j) végzi a jogszabályban meghatározott egyéb feladatokat.
 
-(2) A gazdasági kamara a szakképzésben való közreműködésről, a területi szervezetei közötti együttműködésről írásbeli megállapodást köt az országos gazdasági érdekképviseleti szervezetekkel. Azokkal a szakmákkal kapcsolatban, amelyek nem tartoznak egyetlen gazdasági kamara vagy országos gazdasági érdekképviseleti szervezet hatáskörébe sem, a gazdasági kamara az e törvényben meghatározott feladatok ellátásának módjáról megállapodást köt a szakmai szervezettel vagy szakmai kamarával.
+(2) A gazdasági kamara a szakképzésben való közreműködésről, a területi gazdasági kamarák közötti együttműködésről írásbeli megállapodást köt az országos gazdasági érdekképviseleti szervezetekkel. Azokkal a szakmákkal kapcsolatban, amelyek nem tartoznak egyetlen gazdasági kamara vagy országos gazdasági érdekképviseleti szervezet hatáskörébe sem, a gazdasági kamara az e törvényben meghatározott feladatok ellátásának módjáról megállapodást köt a szakmai szervezettel vagy szakmai kamarával.
 
 (3) A gazdasági kamara feladatait – az (1) bekezdés g) pont gb) alpontjában és h) pontjában meghatározott feladat kivételével –
 

@@ -6,7 +6,7 @@ a) vezeti a szakképző intézmények nyilvántartását és dönt a működési
 
 b) elektronikus felületet működtet a szakmai vizsgához kapcsolódóan és elbírálja a szakmai vizsgával összefüggő jogorvoslati kérelmeket,
 
-c) vezeti a szakmai vizsgák adatainak, továbbá a kiadott oklevelek, szakmai bizonyítványok, képesítő bizonyítványok és a vizsgatörzslapok központi nyilvántartását,
+c) vezeti a szakmai vizsgák adatainak, továbbá a kiadott oklevelek, szakmai bizonyítványok, képesítő bizonyítványok és a vizsgatörzslapok központi nyilvántartását és az annak részként kezelt személyes adatokat a keletkezésük évétől számított ötvenedik év utolsó napjáig őrzi,
 
 d) kezeli a szakképzési tankönyvjegyzéket és végzi a szakképzési tankönyvvé nyilvánítással és tankönyvjegyzékkel kapcsolatos döntés-előkészítő feladatokat,
 

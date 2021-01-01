@@ -16,7 +16,7 @@ e) a tanuló igényjogosultsága elbírálásához és igazolásához szüksége
 
 f) a tanuló állami vizsgája alapján kiadott oklevelének, illetve bizonyítványának adatai a szakképzési államigazgatási szervnek az oklevél, illetve a bizonyítvány nyilvántartása céljából, továbbá a szakképzési államigazgatási szervtől a felsőfokú felvételi kérelmeket nyilvántartó szervezethez,
 
-g) a honvédelmi szakképző intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a 114. § (1) bekezdés c) pontja szerinti adatot a Magyar Honvédség központi személyügyi szerve részére
+g) a honvédségi szakképző intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a 114. § (1) bekezdés c) pontja szerinti adatot a Magyar Honvédség központi személyügyi szerve részére
 
 továbbítható.
 

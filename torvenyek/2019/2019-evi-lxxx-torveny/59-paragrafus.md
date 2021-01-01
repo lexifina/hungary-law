@@ -1,6 +1,6 @@
 ### 59. § [A tanuló juttatásai és az őt megillető további kedvezmények]
 
-(1) A tanuló
+(1) A tanuló a Kormány rendeletében meghatározottak szerint
 
 a) – a duális képzőhelyen folytatott szakirányú oktatás kivételével – ösztöndíjra,
 
