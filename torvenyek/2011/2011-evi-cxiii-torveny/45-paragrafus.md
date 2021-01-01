@@ -1,6 +1,6 @@
-## 29. A Honvédség irányítása és felső szintű vezetése
+## 29. A honvédelmi szervezet irányítása és felső szintű vezetése
 
-45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a Honvédséget. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
+45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a honvédelmi szervezetet. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
 
 (1a) A honvédelemért felelős miniszter egyes katonai szervezetek vagy azok speciális feladatokat ellátó szervezeti egységei esetében, a katonai szervezetek alapító okiratában meghatározottak szerint
 
@@ -16,7 +16,7 @@ e) jelentéstételre vagy beszámolóra való kötelezésre
 
 az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelöli ki.
 
-(2) A honvédelemért felelős miniszter a Honvédség törvényes működése érdekében gondoskodik a jogszabálysértések megszüntetéséről. E körben
+(2) A honvédelemért felelős miniszter a honvédelmi szervezet törvényes működése érdekében gondoskodik a jogszabálysértések megszüntetéséről. E körben
 
 a) rendszeresen ellenőrzi a jogszabályok betartását,
 
@@ -26,7 +26,7 @@ c) megsemmisíti, vagy megváltoztatja a jogszabálysértő intézkedést és sz
 
 d) megsemmisíti, vagy megváltoztatja az egyedi ügyben hozott jogszabálysértő döntéseket.
 
-(3) A (2) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában való közzététel napján lép hatályba, ha az intézkedést a Honvéd Vezérkar főnöke, Magyar Honvédség parancsnoka vagy a Honvéd Vezérkarhoz, a Magyar Honvédség Parancsnokságához tartozó elöljáró adta ki. Egyéb intézkedés esetén a hatálybalépés időpontja az intézkedés kiadója részére való kézbesítés napja. Különösen fontos érdekből, ha ez a jogbiztonságot nem sérti, a megsemmisítés vagy megváltoztatás hatálybalépésének időpontja ettől eltérően is meghatározható.
+(3) A (2) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában való közzététel napján lép hatályba, ha a belső rendelkezést a Honvéd Vezérkar főnöke, a Magyar Honvédség parancsnoka vagy a Honvéd Vezérkarhoz, a Magyar Honvédség Parancsnokságához tartozó elöljáró, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezet vezetője vagy a KNBSZ főigazgatója adta ki. Egyéb belső rendelkezés esetén a hatálybalépés időpontja a belső rendelkezés kiadója részére történő kézbesítés napja. Különösen fontos érdekből, ha ez a jogbiztonságot nem sérti, a megsemmisítés vagy megváltoztatás hatálybalépésének időpontja ettől eltérően is meghatározható.
 
 (4) A (2) bekezdés d) pontja szerinti döntés nem változtatható és nem semmisíthető meg, ha
 

@@ -6,4 +6,6 @@
 
 (3) A honvédelemért felelős miniszter – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – összehangolja az e törvény szerinti polgári felkészültséggel kapcsolatos feladatok végrehajtását, a honvédelemben részt vevő szervek honvédelmi feladatokra történő felkészítését és felügyeli tevékenységüket.
 
+(3a) A (3) bekezdésben foglalt feladatok végrehajtása érdekében – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – a honvédelemért felelős miniszter a honvédelmi szervezet állományának bármely tagját mint honvédelmi összekötőt, a honvédelemben közreműködő szervhez honvédelmi érdekű szolgálatteljesítés céljából szolgálati feladat ellátására vezényelheti, illetve a honvédelmi összekötő szolgálatteljesítési helyét honvédelemben közreműködő szervnél határozhatja meg.
+
 (4) A honvédelemért felelős miniszter – kormányrendeletben meghatározott esetekben – gondoskodik a Honvédség személyi állományának kártalanításáról, amennyiben a jogszerűen okozott vagyoni kár legalább részben a személyi állomány Honvédséggel fennálló foglalkoztatási jogviszonyával függ össze. A kártalanítás módjára és mértékére a kártérítésre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy az általános kártérítés és a sérelemdíj szabályai nem alkalmazhatóak.

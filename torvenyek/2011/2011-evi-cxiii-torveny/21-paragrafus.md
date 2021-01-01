@@ -51,3 +51,11 @@ a) megtervezi a Honvédség fenntartásának és fejlesztésének költségeit,
 b) az a) pontban foglaltaktól elkülönítve tervezi a honvédelmi felkészítéssel – ezen belül a nemzetgazdaság felkészítésével, a Honvédelmi Tanács és a Kormány speciális működési feltételeinek, az info-kommunikációs rendszer fenntartásával és fejlesztésével, továbbá a lakosság légi riasztásának biztosításával – kapcsolatos költségeket, valamint gondoskodik a jóváhagyott költségvetési átcsoportosítások végrehajtásáról.
 
 (4) A Kormány évente köteles a honvédelmi feladatok megvalósításáról, a Honvédség felkészítéséről, állapotáról és fejlesztéséről beszámolni az Országgyűlésnek.
+
+(5) A Kormány évente egyszer jelentést tesz az Országgyűlés honvédelemmel foglalkozó bizottságának és külügyekkel foglalkozó bizottságának
+
+a) a külföldi fegyveres erők magyarországi jogállását szabályozó nemzetközi szerződések végrehajtásáról és
+
+b) a Magyar Honvédség külföldön végrehajtott műveleteiről.
+
+(6) A Kormány elrendelheti a NATO Állandó Védelmi Terveivel kapcsolatos feladatok végrehajtását, és ezzel összefüggésben gyorsított döntéshozatali eljárás bevezetését.

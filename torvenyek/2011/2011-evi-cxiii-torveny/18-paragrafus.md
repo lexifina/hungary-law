@@ -58,4 +58,6 @@ g) közreműködnek a különleges jogrend idején kiadott rendeletek és intéz
 
 h) részt vesznek a polgári felkészültség követelményei alapján meghatározott feladatok ellátásában.
 
+(3a) A honvédelemben közreműködő szerv a honvédelmi feladataira való felkészülés végrehajtása érdekében fogadja – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – a honvédelemért felelős miniszter által honvédelmi érdekű szolgálatteljesítés céljából kijelölt honvédelmi összekötőt, és biztosítja számára az adott szervnél azonos vagy hasonló munkakört betöltő foglalkoztatott részére meghatározott munkahelyi elhelyezési feltételeket.
+
 (4) A társadalmi szervezetek, a vallási közösségek és a karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan vehetnek részt a honvédelmi feladatok ellátásában.

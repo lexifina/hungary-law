@@ -2,7 +2,7 @@
 
 81. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a honvédelemért felelős miniszternek a honvédelem ágazati irányításával, valamint a Honvédség irányításával kapcsolatos feladtait,
+a) a honvédelemért felelős miniszternek a honvédelem ágazati irányításával, valamint a Honvédség irányításával kapcsolatos feladatait,
 
 b) a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszer rendeltetését, feladatait, eljárási rendjét, a közreműködők kötelezettségeit, továbbá a NATO Állandó Védelmi Terveivel kapcsolatos feladatok végrehajtásának rendjét, és az ezekkel összefüggő gyorsított nemzeti döntéshozatali eljárást.
 

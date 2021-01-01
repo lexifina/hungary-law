@@ -16,7 +16,7 @@ g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerész
 
 h) a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején közreműködés az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában,
 
-i) – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában,
+i) – a hatályos nemzetközi normák betartásával – közreműködés a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában,
 
 j) honvédelmi veszélyhelyzet idején az államhatár ellenőrzésében való részvétel,
 

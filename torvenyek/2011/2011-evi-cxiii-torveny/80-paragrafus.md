@@ -26,6 +26,8 @@
 
 12. honvédelmi igazgatás: a védelmi igazgatás részét képező feladat- és szervezetrendszer, amelynek keretében az ország védelmére létrehozott, valamint e feladatra kijelölt közigazgatási szervek, továbbá a honvédelemben közreműködő más szervek ellátják az 1. § (3) bekezdésében meghatározottak honvédelemre való felkészítésével, az országvédelemmel és a honvédelmi kötelezettségek teljesítésével kapcsolatos feladatokat,
 
+12a. honvédelmi összekötő: a honvédelemben közreműködő szerv honvédelmi felkészülési és védekezési szakmai feladatait támogató, e feladat ellátására a honvédelemért felelős miniszter által – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – kijelölt, a honvédelemért felelő miniszter által az e törvény végrehajtására kiadott rendeletben meghatározott végzettséggel rendelkező személy,
+
 13. honvédelmi szervezet: a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezet, a Honvédség, valamint a KNBSZ,
 
 14. honvédségi szervezet: a Magyar Honvédség Parancsnoksága, valamint alárendeltségébe tartozó katonai szervezetek,
@@ -92,7 +94,7 @@ f) az a)–e) pont szerinti területnek nem minősülő olyan terület, amelyre 
 
 26. ország területéről induló külföldi alkalmazás: külföldi fegyveres erők olyan alkalmazása, amelynek indítása az ország területéről befogadó nemzeti támogatás mellett, nem az átvonulás technikai részcselekményeként történik,
 
-27. potenciális hadköteles: a békeidőszakban nyilvántartott, kiképzett tartalékos állományba nem tartozó hadköteles,
+27. potenciális hadköteles: hadkötelezettség fennállásán kívüli időszakban a hadköteles, aki nem tartozik a kiképzett tartalékos állományba,
 
 28. polgári felkészültség: a honvédelemben közreműködő szervek honvédelmi feladatai ellátása körében végrehajtott, külön meghatározott követelmények teljesítése érdekében végzett tevékenysége, melynek célja a kormányzat folyamatos működésének biztosítása, és a katonai műveletek polgári képességekkel történő támogatása békeidőszakban, különleges jogrend idején, valamint a válságkezelés katonai feladatai végrehajtása időszakában,
 

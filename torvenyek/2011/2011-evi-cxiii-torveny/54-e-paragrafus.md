@@ -2,7 +2,7 @@
 
 54/E. § (1) A 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt katona – e törvény rendelkezéseitől eltérően –
 
-a) az Rtv. 29–32. §-ában, 33. §-ában, 35. §-ában, 36. §-ában, 37. § a) és e) pontjában, 39. §-ában, továbbá 42–43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
+a) az Rtv. 29–33. §-ában, 35–35/B. §-ában, 37. § a) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
 
 b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
 

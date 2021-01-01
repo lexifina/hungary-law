@@ -4,7 +4,7 @@
 
 ## 23. A szervezeti felépítés
 
-38. § (1) A Honvédség szervezeti felépítését a Magyar Honvédség Parancsnoksága és az alárendeltségébe tartozó katonai szervezetek összessége képezi.
+38. § (1) A Honvédség szervezeti felépítését a Magyar Honvédség Parancsnoksága és az alárendeltségébe tartozó valamennyi honvédségi szervezet összessége képezi.
 
 (2) A Honvédség szervezeteit a béke és békétől eltérő működési rendnek megfelelően úgy kell kialakítani, hogy azok képesek legyenek a Honvédség egésze, és annak egyes elemei tekintetében a meghatározott feladatok végrehajtására. A Honvédség szervezeti felépítésének meg kell felelnie a rendeltetés szerinti szervezeti hierarchia, haditechnikai eszközökkel és hadfelszereléssel való ellátás, hadrafoghatóság, létszám, állományarányok, beosztási, rendfokozati kategóriák, szabályozott működés, vezetés elveinek és követelményeinek.
 

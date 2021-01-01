@@ -1,4 +1,4 @@
-46. § (1) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a Honvédség irányításáért felelős központi államigazgatási szerv.
+46. § (1) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a – honvédelemért felelős miniszter által vezetett minisztérium kivételével – a honvédelmi szervezet irányításáért felelős központi államigazgatási szerv.
 
 (1a) A honvédelemért felelős miniszter által vezetett minisztériumban honvédelmi államtitkár működik. A honvédelmi államtitkárnak katonai szolgálati viszonyban töltött legalább 20 év tényleges szolgálati idővel rendelkező – az egyéb törvényi feltételeknek megfelelő – személy nevezhető ki.
 

@@ -24,6 +24,6 @@ b) a határrendészetért felelős miniszter javaslatára az államhatár ellen�
 
 c) az országvédelem szempontjából kiemelt jelentőségű létesítmények honvédségi – valamint a rendészetért felelős miniszter javaslatára rendőri – erőkkel történő őrzését és a már őrzés alatt álló létesítmények őrzésének fokozását,
 
-d) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédségi szervezetek felderítő, elhárító, valamint kibertér műveleti erői tevékenységének fokozását a fenyegetettség Magyarországra történő átterjedésének, illetve magyarországi felerősödésének megakadályozása érdekében, és
+d) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédségi szervezetek felderítő, elhárító, valamint kibertér műveleti erői tevékenységének fokozását a fenyegetettség Magyarországra történő átterjedésének, illetve magyarországi felerősödésének megakadályozása érdekében.
 
-e) a NATO Állandó Védelmi Terveivel kapcsolatos feladatok végrehajtását, és ezzel összefüggésben gyorsított döntéshozatali eljárás bevezetését.
+e)
