@@ -1,3 +1,9 @@
-1. melléklet a 22/2020. (VII. 9.) BM rendelethez[^4]
+1. melléklet a 22/2020. (VII. 9.) BM rendelethez
 
-[^4]: Az 1. melléklet a 4. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+„1. melléklet a 69/2011. (XII. 30.) BM rendelethez
+
+1. Magánútlevél és második magánútlevél soron kívüli eljárásban történő kiállításának igazgatási szolgáltatási pótdíja: 19 000 forint.
+
+2. Magánútlevél és második magánútlevél sürgősségi eljárásban történő kiállításának igazgatási szolgáltatási pótdíja: 29 000 forint.
+
+3. Magánútlevél és második magánútlevél azonnali eljárásban történő kiállításának igazgatási szolgáltatási pótdíja: 39 000 forint.”
