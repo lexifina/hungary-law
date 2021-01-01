@@ -8,9 +8,9 @@
 
 3. birtok: a jogosult tulajdonában, haszonélvezetében vagy bármely más érvényes jogcímen használatában álló valamennyi föld;
 
-4. családi gazdaság: a mezőgazdasági igazgatási szervnél családi gazdaságként nyilvántartásba vett mezőgazdasági üzem;
+4.
 
-5. családi gazdálkodó: a családi gazdaságot vezető természetes személy;
+5.
 
 5a. erdőnek minősülő föld: a fekvésétől (belterület, külterület) függetlenül valamennyi olyan földrészlet, amely az ingatlan-nyilvántartásban erdő és fásított terület művelési ágban van nyilvántartva, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület;
 
@@ -22,7 +22,7 @@ a) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenysége
 
 b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, aki mező-, erdőgazdasági tevékenységet, illetve mező-, erdőgazdasági és az azokat kiegészítő tevékenységet személyes közreműködésként végzi;
 
-8. gazdálkodó család tagjai: a családi gazdálkodó, továbbá annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője, testvére; a gyermeken az örökbe fogadott és a nevelt gyermeket is érteni kell;
+8.
 
 9. helyben lakó: az a természetes személy, akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen van, amelynek közigazgatási területén az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező föld fekszik;
 
@@ -38,7 +38,7 @@ b) akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen v
 
 13. közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő és a testvér;
 
-14. kiegészítő tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, takarmány-előállítás, mezőgazdasági termékből élelmiszer előállítása, dohányfeldolgozás, bioüzemanyag-előállítás a mező-, erdőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, mezőgazdasági szolgáltatás,valamint a mezőgazdasági üzemhez tartozó termelési tényezők hasznosítása, értékesítése;
+14. kiegészítő tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, takarmány-előállítás, mezőgazdasági termékből élelmiszer előállítása, dohányfeldolgozás, bioüzemanyag-előállítás a mező-, erdőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, mező- és erdőgazdasági szolgáltatás,valamint a mezőgazdasági üzemhez tartozó termelési tényezők hasznosítása, értékesítése;
 
 15. külföldi természetes személy: a nem tagállami állampolgár;
 
@@ -46,7 +46,7 @@ b) akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen v
 
 17. mező-, erdőgazdasági hasznosítású föld: a föld fekvésétől (belterület, külterület) függetlenül valamennyi olyan földrészlet, amely az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő és fásított terület művelési ágban van nyilvántartva, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve;
 
-18. mező-, erdőgazdasági tevékenység: növénytermesztés, kertészet, állattartás, a méhanya nevelés, halászat, haltenyésztés, szaporítóanyag-termesztés, vadgazdálkodás, erdőgazdálkodás, kiegészítő tevékenységgel vegyes gazdálkodás;
+18. mező-, erdőgazdasági tevékenység: növénytermesztés, kertészet, állattartás, állattenyésztés, halgazdálkodás, szaporítóanyag-termesztés, vadgazdálkodás, erdőgazdálkodás, valamint a 14. pont szerinti kiegészítő tevékenységgel vegyesen végzett gazdálkodás, ha a kiegészítő tevékenységből származó bevétel nem haladja meg a más mező- és erdőgazdasági tevékenységből származó bevételt;
 
 19. mezőgazdasági termelőszervezet: a mezőgazdasági igazgatási szerv által e törvény végrehajtására kiadott rendeletben meghatározott feltételek alapján nyilvántartásba vett, tagállami székhelyű jogi személy, illetve jogi személyiséggel nem rendelkező szervezet,
 

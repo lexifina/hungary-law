@@ -2,7 +2,7 @@
 
 (2) A föld tulajdonjogát
 
-a) a bevett egyház vagy annak belső egyházi jogi személye tartási, életjáradéki, gondozási, ajándékozási szerződés alapján, valamint végintézkedéssel,
+a) a bevett egyház vagy annak belső egyházi jogi személye végintézkedéssel, tartási, életjáradéki, gondozási, ajándékozási szerződés alapján, valamint temető létesítése és bővítése céljából átruházással,
 
 b) jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvényben foglalt korlátozásokkal és időtartamra,
 

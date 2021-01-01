@@ -12,6 +12,8 @@
 
 (3) A szívességi földhasználat tartalmára vonatkozó szabályokat a Fétv. állapítja meg azzal, hogy e földhasználatokra a 39–43. §-ban foglalt rendelkezéseket alkalmazni kell.
 
+(3a) A földnek haszonbérlet, szívességi földhasználat, erdőgazdálkodási haszonbérlet jogcímen megszerzett használati jogosultsága azt eredetileg átengedő fél hozzájárulásával szívességi földhasználat jogcímen továbbengedhető olyan családi mezőgazdasági társaság részére, amelyben a továbbengedő fél tag. A továbbengedés nem érinti a használati jogosultság eredeti átengedőjével szemben fennálló kötelezettségeket.
+
 (4) A földek használatával összefüggő szolgalmi jog, haszonvételi jogok és a szomszédjogok gyakorlására a Ptk., valamint a Fétv. rendelkezéseit kell alkalmazni.
 
 (5) A tanya lakó-, és gazdasági épület használatának – a földtől elválasztott – önálló átengedésére e törvény rendelkezéseit nem kell alkalmazni.

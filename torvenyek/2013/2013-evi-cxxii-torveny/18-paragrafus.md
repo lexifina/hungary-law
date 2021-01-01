@@ -34,9 +34,9 @@ d) a szántó művelési ágban nyilvántartott terület eladása esetén az a h
 
 (3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányadának eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi az adásvételi szerződés megkötésekor legalább 3 éve tulajdoni hányaddal rendelkező földműves tulajdonostárs. Házastársi közös vagyon megszüntetése esetén a 3 évbe beszámít azon időtartam is, amely alatt a közös vagyonba tartozó ingatlanrész az elővásárlási jogával élni kívánó tulajdonostárs házastársának tulajdonát képezte.
 
-(4) Az (1) bekezdés c)–e) pontjában, valamint a (2) és (3) bekezdésben meghatározott jogosulti csoportokon belül az elővásárlásra jogosultak sorrendje a következő
+(4) Az (1) bekezdés c)–e) pontjában, valamint a (2) és (3) bekezdésben meghatározott jogosulti csoportokon belül az elővásárlásra jogosultak sorrendje a következő:
 
-a) a családi gazdálkodó, illetve a gazdálkodó család tagja,
+a) családi mezőgazdasági társaság tagja vagy őstermelők családi gazdaságának tagja,
 
 b) fiatal földműves,
 

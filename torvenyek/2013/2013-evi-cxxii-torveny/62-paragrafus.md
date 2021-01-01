@@ -10,7 +10,7 @@ c) földműves, illetve mezőgazdasági termelőszervezeti minősége bármely o
 
 d)
 
-felhívja a figyelmét a jogszabálysértésre, és határidő megállapításával a figyelmeztetést tartalmazó döntésben felszólítja a jogszerű állapot helyreállítására.
+figyelmeztetésben részesíti, egyidejűleg felhívja a figyelmét a jogszabálysértésre, és határidő megállapításával a figyelmeztetést tartalmazó döntésben felszólítja a jogszerű állapot helyreállítására.
 
 (3) Nem állapítható meg a (2) bekezdés a) és b) pontjában foglalt jogsértés, ha a föld kisajátítást pótló adás-vételre kerül sor, vagy a tulajdonos egészségi állapota oly mértékben megromlott, vagy az életkörülményeiben olyan tartós változás következett be, amely az e törvényből eredő kötelezettségeinek teljesítését akadályozza.
 

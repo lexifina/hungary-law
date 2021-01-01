@@ -10,4 +10,4 @@
 
 (4) A haszonélvezeti jog alapításáról szóló szerződés, illetve végintézkedés érvényességéhez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
 
-(5) E fejezet rendelkezéseit a föld tulajdonjogának a haszonélvezeti jog fenntartásával történő átruházása esetén a fenntartott haszonélvezeti jog vonatkozásában – a (4) bekezdésben foglalt kivétellel – nem kell alkalmazni.
+(5) A föld tulajdonjoga a haszonélvezeti jog fenntartásával csak közeli hozzátartozó javára ruházható át. E fejezet rendelkezéseit a föld tulajdonjogának a haszonélvezeti jog fenntartásával történő átruházása esetén a fenntartott haszonélvezeti jog vonatkozásában – a (4) bekezdésben foglalt kivétellel – nem kell alkalmazni.
