@@ -1,0 +1,3 @@
+## 19. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet (a továbbiakban: Adóig. vhr.) a következő 7/A. §-sal egészül ki:
+
+## „7/A. § Az ügycsoportok változása esetén az adóhatóság a korábbi bejelentéseket a képviseleti jogosultságok lehetőség szerinti legszélesebb körű megtartásával megfelelteti az új ügycsoportoknak. Ha a megfeleltetés a korábbi bejelentésekhez képest tartalmi változást eredményez, az adóhatóság értesíti az adózót és meghatalmazottját a változásról, valamint arról, hogy ha az adózó, illetve meghatalmazottja az értesítés közlésétől számított 8 napon belül a képviseleti jog kapcsán új bejelentést nem tesz, az adóhatóság a megfeleltetett jogosultságokat a nyilvántartásba hivatalból bejegyzi.”

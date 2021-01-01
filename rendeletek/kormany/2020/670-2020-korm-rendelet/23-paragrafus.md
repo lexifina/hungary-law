@@ -1,0 +1,1 @@
+23. § A 3. §, az 5–6. § és a 10. § az Uniós Vámkódex alapján történő információcserére és az érintett információk tárolására szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló, 2019. június 21-i (EU) 2019/1026 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
