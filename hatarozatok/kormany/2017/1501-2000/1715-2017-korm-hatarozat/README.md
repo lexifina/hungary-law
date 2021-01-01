@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1715-30
 | --- | --- | --- |
 | 2017-10-03 | 2017-1715-30-22.1 | 1715/2017. (X. 3.) Korm. határozat |
 | 2018-02-02 | 2017-1715-30-22.2 | 1013/2018. (II. 2.) Korm. határozat |
+| 2021-01-01 | 2017-1715-30-22.3 | 2011: CXCV. törvény |
