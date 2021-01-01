@@ -70,7 +70,7 @@ f)[^35] más jogcímen lakhatási vagy közüzemi támogatásban részesül.
 
 (8)[^36] A 4. § és 5. § alkalmazásában
 
-a)[^37] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, biztosi jogviszony, politikai szolgálati jogviszony, bírói és igazságügyi szolgálati, ügyészségi szolgálati viszony, közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti hivatásos szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati viszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti ösztöndíjas foglalkoztatási jogviszony,
+a)[^37] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, biztosi jogviszony, politikai szolgálati jogviszony, bírói és igazságügyi szolgálati, ügyészségi szolgálati viszony, közalkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti hivatásos szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati viszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti ösztöndíjas foglalkoztatási jogviszony,
 
 b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban, jogviszonyban áll,
 
@@ -96,4 +96,4 @@ c) munkaszerződés: a munka törvénykönyve szerinti munkaszerződés, valamin
 [^34]: A 4. § (7) bekezdés e) pontja a 273/2018. (XII. 20.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
 [^35]: A 4. § (7) bekezdés f) pontját a 4/2017. (I. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^36]: A 4. § (8) bekezdését a 167/2013. (V. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^37]: A 4. § (8) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 8. §-a, a 273/2018. (XII. 20.) Korm. rendelet 3. § g) pontja, a 47/2019. (III. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^37]: A 4. § (8) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 8. §-a, a 273/2018. (XII. 20.) Korm. rendelet 3. § g) pontja, a 47/2019. (III. 12.) Korm. rendelet 1. §-a, a 671/2020. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
