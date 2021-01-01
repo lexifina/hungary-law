@@ -102,7 +102,7 @@ b) temetési költségekre nyújtott temetési támogatás;
 
 30. az Szja. tv. 3. § 71. pontja szerinti szakképzéssel összefüggő juttatás öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
-31. a honvédek jogállásáról szóló törvényben meghatározott kiegészítő rokkantsági támogatásnak és kiegészítő hozzátartozói támogatásnak, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 107. alcíme szerinti szociális gondoskodás körébe tartozó ellátásnak az öregségi nyugdíj legkisebb összege másfélszeresét meg nem haladó havi összege;
+31.[^2] a honvédek jogállásáról szóló törvényben meghatározott kiegészítő rokkantsági támogatásnak és kiegészítő hozzátartozói támogatásnak, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 107. alcíme szerinti szociális gondoskodás körébe tartozó ellátásnak, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 174. és 175. §-a szerinti szociális gondoskodás körébe tartozó ellátásnak, illetve a kiegészítő hozzátartozói támogatásnak az öregségi nyugdíj legkisebb összege másfélszeresét meg nem haladó havi összege;
 
 32. az Szja. tv. 3. § 70. pontja szerinti elemi kár vagy katasztrófa következményeinek elhárítása érdekében kapott segély, adomány, kártalanítás, biztosítási összeg;
 
@@ -114,7 +114,7 @@ b) temetési költségekre nyújtott temetési támogatás;
 
 36. az adós által a jogi segítségnyújtás keretében igénybe vett pénzbeli támogatásnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
-37.[^2] az egészségügyi és szociális intézményben a gondozottak részére kifizetett munkaterápiás jutalomnak, illetve a fejlesztési foglalkoztatási óradíjnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
+37.[^3] az egészségügyi és szociális intézményben a gondozottak részére kifizetett munkaterápiás jutalomnak, illetve a fejlesztési foglalkoztatási óradíjnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
 38. a kötött felhasználású diákhitelként folyósított összeg, továbbá a szabad felhasználású diákhitelként folyósított összegből az öregségi nyugdíj legkisebb összegének felét meg nem haladó havi összeg vagy az ennek megfelelő összegű félévenként egyösszegben folyósított hitel;
 
@@ -141,4 +141,5 @@ b) temetési költségekre nyújtott temetési támogatás;
 (2) Az adós által az adósságrendezés időtartama alatt megszerzett örökség csak a hagyatéki tartozások kielégítését követően vonható be az adósságrendezési eljárásba. Az adós a hagyatéki eljárásban köteles kérni az eljáró közjegyzőt, hogy a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 65. § (1) bekezdése szerint bocsásson ki felhívást az ismeretlen hagyatéki tartozások jogosultjai részére.
 
 [^1]: A 2. § (1) bekezdés 27. pontja a 13/2020. (II. 7.) Korm. rendelet 106. §-a szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdés 37. pontja a 448/2016. (XII. 19.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 31. pontja a 671/2020. (XII. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 37. pontja a 448/2016. (XII. 19.) Korm. rendelet 58. §-a szerint módosított szöveg.
