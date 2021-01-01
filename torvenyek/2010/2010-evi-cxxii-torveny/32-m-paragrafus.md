@@ -1,3 +1,1 @@
-32/M. § (1) A nagyfrekvenciás, illetve ionizáló sugárzásnak kitett munkahelyen dolgozó, illetve mérgezésnek, valamint biológiai anyag feldolgozása közben fertőzés veszélyének kitett munkahelyen dolgozó kormánytisztviselőt, pénzügyőrt, ügykezelőt, amennyiben naponta legalább 3 órán keresztül tevékenységét ionizáló sugárzásnak kitett munkakörülmények között illetve mérgezésnek, valamint biológiai anyag feldolgozása közben fertőzés veszélyének kitett munkakörülmények között végzi, évenként 10 munkanap pótszabadság illeti meg.
-
-(2) A rehabilitációs szakértői szerv által megállapított legalább ötvenszázalékos mértékű egészségkárosodás esetén a kormánytisztviselőnek, az ügykezelőnek évenként 5 munkanap pótszabadság jár, illetve 5 munkanap pótszabadság jár a fogyatékossági támogatásra vagy a vakok személyi járadékára jogosult kormánytisztviselőnek, ügykezelőnek.
+### 32/M. §

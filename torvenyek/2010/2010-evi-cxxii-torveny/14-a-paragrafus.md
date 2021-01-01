@@ -1,0 +1,1 @@
+14/A. § A kijelölt miniszter az állami adó- és vámhatóság útján a gazdaság fenntartható fehéredését célzó intézkedések kezdeményezésére és a bevezetett intézkedések hatásosságának mérésére Fenntartható Gazdaságfehéredésért Felelős Bizottságot működtet.

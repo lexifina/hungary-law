@@ -8,4 +8,4 @@
 
 (5) Az igazgatóhelyettes felett a kinevezési és felmentési jogkört az állami adó- és vámhatóság vezetője, az egyéb munkáltatói jogokat az igazgató gyakorolja.
 
-(6) A központi szerveknél és a területi szerveknél a munkáltatói jogkört a szerv vezetője gyakorolja.
+(6)

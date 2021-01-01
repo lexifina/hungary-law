@@ -1,1 +1,1 @@
-99/I. § A kormánytisztviselő, pénzügyőr 2016. június 30-án hatályos 32/K. § (2)–(3) bekezdése alapján megállapított pótszabadsága nem csökkenthető, arra mindaddig jogosult, amíg a 2016. július 1-jétől hatályos 32/K. § (2)–(3) bekezdése alapján hosszabb tartamú pótszabadságra nem szerez jogosultságot.
+### 99/I. §

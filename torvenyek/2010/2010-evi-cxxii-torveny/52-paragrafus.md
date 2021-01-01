@@ -8,8 +8,10 @@ c) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző sze
 
 d) bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében,
 
-e) a NAV-hoz tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott pénzügyi nyomozó (a továbbiakban: fedett nyomozó), illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében, valamint
+e) a NAV-hoz tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott pénzügyi nyomozó (a továbbiakban: fedett nyomozó), illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében,
 
-f) a NAV-val titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében
+f) a NAV-val titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében, valamint
+
+g) a büntetőeljárásról szóló törvény alapján titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében
 
 az e törvényben meghatározott szabályok alapján folytathat titkos információgyűjtést.

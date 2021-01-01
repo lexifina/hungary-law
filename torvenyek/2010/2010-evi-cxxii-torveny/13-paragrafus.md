@@ -22,9 +22,9 @@ e) adó- vagy vámigazgatási jogkörben eljáró szerve egyéb érdekeltként v
 
 f) lefolytatja az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti központosított ellenőrzést,
 
-g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai és munkavállalói részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
+g) az állományába tartozók részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 
-h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
+h) a foglalkoztatottai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
 
 i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat az állami adó- és vámhatóság vezetője gyakorolja,
 

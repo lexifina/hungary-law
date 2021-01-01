@@ -1,1 +1,1 @@
-33/R. § A kormánytisztviselőt, a pénzügyőrt, az ügykezelőt – a 33/Q. § (1) bekezdés szerinti esetet kivéve – a fegyelmi eljárás megindításáról a fegyelmi jogkör gyakorlója írásban értesíti. Az írásbeli értesítésnek tartalmaznia kell, hogy az érintettet mely kötelezettségszegéssel gyanúsítják. A fegyelmi eljárás az értesítés kiadmányozásának napját követő naptól indul.
+### 33/R. §

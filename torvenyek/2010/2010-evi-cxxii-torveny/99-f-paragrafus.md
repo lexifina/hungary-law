@@ -1,1 +1,1 @@
-99/F. § Abban az esetben, ha a kormánytisztviselő, pénzügyőr által 2016. július 1-jén betöltött munkakör besorolási kategóriájához az érintett részére megállapított fizetési fokozatban szorzószám nem került rendszeresítésre, akkor az érintettet az adott besorolási kategóriához rendszeresített legelső fizetési fokozatba kell besorolni. A kormánytisztviselő, illetve a pénzügyőr mindaddig nem léphet magasabb fizetési fokozatba, ameddig a jogviszonyban töltött ideje, illetve a munkáltatói intézkedés alapján arra jogosultságot nem szerez.
+### 99/F. §

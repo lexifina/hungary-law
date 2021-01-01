@@ -1,1 +1,1 @@
-19/H. § A nem vezetői munkakört betöltő kormánytisztviselőt, illetve pénzügyőrt az 1. számú mellékletben meghatározott fizetési fokozatba a 20/A. § szerinti jogviszonyban eltöltött ideje alapján kell besorolni.
+### 19/H. §

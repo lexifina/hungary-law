@@ -2,6 +2,6 @@
 
 (2) A Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete és a Nemzeti Adó- és Vámhivatal Bűnügyi Főigazgatósága a NAV Mód. VI. tv. hatálybalépését követően az önálló költségvetési szervként történő megszűnését követő időszakra vonatkozó kötelezettséget az állami adó- és vámhatóság vezetője engedélyével vállalhat. A Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete és a Nemzeti Adó- és Vámhivatal Bűnügyi Főigazgatósága megszüntető okiratát a kijelölt miniszter adja ki.
 
-(3) A Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete és a Nemzeti Adó- és Vámhivatal Bűnügyi Főigazgatósága önálló költségvetési szervként történő megszűnésével kapcsolatos gazdasági feladatokat 2016. március 31-ig kell végrehajtani.
+(3)
 
 (4) A regionális adó főigazgatóság és a regionális vám- és pénzügyőri főigazgatóság gazdasági feladatai tekintetében jogutódként a Kormány rendeletében meghatározott szerv jár el.

@@ -1,17 +1,1 @@
-33/Y. § (1) A vizsgálatot – a 33/O. § (3)–(4) bekezdésben foglalt eseteket kivéve – a vizsgálóbiztos kijelölésétől számított 60 napon belül be kell fejezni.
-
-(2) A vizsgálóbiztos a vizsgálat befejezését követően jelentésben foglalja össze az ügy tényállását, a bizonyítékokat, a tett megállapításokat, illetve a levont következtetéseit, az eljárás alá vont és képviselője bizonyítási indítványával kapcsolatban tett intézkedéseit, illetve észrevételeivel kapcsolatos véleményét, továbbá az ügy lezárására vonatkozó javaslatát. A vizsgálóbiztos az ügy összes iratát és a jelentését a vizsgálat befejezésétől számított 8 napon belül köteles megküldeni fegyelmi jogkör gyakorlójának.
-
-(3) Amennyiben az eljárás alá vont a kötelezettségszegést a vizsgálat során elismerte és lemondott a tárgyalásról, továbbá a tényállás megítélése egyszerű, a fegyelmi jogkör gyakorlója a vizsgálóbiztos előterjesztésétől számított 8 napon belül meghozott határozattal, tárgyalás nélkül
-
-a) a 33/G. § (3) bekezdés a)–j) pontjai, illetve a 33/G. § (4) bekezdés vagy a 33/G. § (5) bekezdés szerinti fegyelmi büntetést is kiszabhat, illetve
-
-b) a fegyelmi vétség megállapítása mellett a fegyelmi büntetés kiszabását mellőzheti, ha a legenyhébb fegyelmi büntetés is indokolatlan.
-
-(3a) A határozatot az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás során, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani. Ha az eljárás alá vont jogi képviselő mellett egyidejűleg a NAV-nál működő munkavállalói érdek-képviseleti szerv képviselőjével járt el, a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.
-
-(4) A (3) bekezdés nem alkalmazható, ha a 33/J. § (5) bekezdés, 33/J. § (6) bekezdés d) pontja, illetve a 33/K. §-a alapján az adott fegyelmi büntetést a fegyelmi jogkör gyakorlójának vezetésével eljáró fegyelmi tanács sem szabhatná ki. Ilyen esetben a fegyelmi tanács tagjait ki kell jelölni és a tárgyalásra vonatkozó szabályokat alkalmazni kell.
-
-(5) Ha a tényállás nincs kellően felderítve, vagy a vizsgálat során olyan eljárási szabályszegés történt, amely az ügy érdemi elbírálását lényegesen befolyásolja, a fegyelmi jogkör gyakorlója a vizsgálóbiztos előterjesztésétől számított 8 napon belül póteljárást rendel el. A póteljárás elrendeléséről az eljárás alá vont személyt és képviselőjét értesíteni kell. A póteljárás elrendelésének nem akadálya, ha a fegyelmi jogkör gyakorlója a fegyelmi tanács tagjait már kijelölte. A vizsgálóbiztos által lefolytatandó póteljárás tartama nem haladhatja meg a 10 napot. A vizsgálóbiztos a póteljárás során a vizsgálatra vonatkozó szabályok szerint jár el és a póteljárás befejezését követő 3 munkanapon belül a póteljárás során keletkezett iratokat és a kiegészítő jelentését köteles megküldeni fegyelmi jogkör gyakorlójának. Az e bekezdés szerinti határidők nem hosszabbíthatók meg.
-
-(6) A vizsgálat során még át nem adott iratokat – ide nem értve a 33/X. § (3a) bekezdés szerinti iratot –, továbbá a (2) bekezdés szerinti vizsgálóbiztosi jelentést, illetve az (5) bekezdés szerinti kiegészítő jelentést a fegyelmi tárgyalásról szóló értesítéssel együtt, illetve a (3) bekezdés alkalmazása esetén a határozattal együtt közölni kell az eljárás alá vont személlyel és képviselőjével. Nem lehet közölni az eljárás alá vont személlyel és képviselőjével a vizsgálóbiztosi jelentésnek, illetve a kiegészítő jelentésnek az ügy lezárására vonatkozó vizsgálóbiztosi javaslatot tartalmazó részét.
+### 33/Y. §

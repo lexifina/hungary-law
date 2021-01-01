@@ -10,7 +10,7 @@ a) a NAV szervezeti felépítésére vonatkozó részletes szabályokat,
 
 b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes megyei adó- és vámigazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
 
-c) a NAV állományába tartozó kormánytisztviselők, pénzügyőrök tekintetében a képesítésre vonatkozó részletes szabályokat.
+c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételének és működésének részletes szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 

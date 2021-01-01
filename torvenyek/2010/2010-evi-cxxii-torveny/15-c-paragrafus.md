@@ -1,3 +1,1 @@
-15/C. § (1) A kormányzati szolgálati jogviszonnyal és a hivatásos szolgálati jogviszonnyal kapcsolatos jogokat és kötelezettségeket a rendeltetésüknek megfelelően kell gyakorolni és teljesíteni. Tilos a joggal való visszaélés. E törvény alkalmazásában joggal való visszaélés különösen, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul vagy ehhez vezet.
-
-(2) Ha a joggal való visszaélés a szolgálati jogviszonyra vonatkozó szabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás kormánytisztviselő, ügykezelő esetében a közszolgálat nyomós érdekét, pénzügyőr esetében a szolgálati érdeket sérti vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
+### 15/C. §

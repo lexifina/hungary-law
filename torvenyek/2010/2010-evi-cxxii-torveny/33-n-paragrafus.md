@@ -1,9 +1,1 @@
-33/N. § (1) A fegyelmi eljárás lefolytatásával összefüggő költségeket mindenki maga előlegezi, de – a (2) bekezdésben foglalt kivétellel – a NAV viseli.
-
-(2) Amennyiben a kormánytisztviselő, a pénzügyőr, az ügykezelő fegyelmi felelősségét jogerősen megállapították [ideértve a 33/Y. § (3) bekezdés b) pont és a 34/A. § (4) bekezdés szerinti esetet is], ő viseli az általa indítványozott eljárási cselekmények, illetve a részéről igénybe vett jogi képviselő költségeit, valamint az egyéb saját költségeit.
-
-(3) Az eljárás alá vontat terhelő, illetve az általa vagy – költségigény előterjesztése esetén – a részére megtérítendő költségekről a fegyelmi határozatban (ideértve a 34/B. § szerinti megszüntető határozatot is) rendelkezni kell. Az eljárás alá vont a költségeinek a megtérítésére az eljárással kapcsolatban felmerült és számlával igazolt költségigény előterjesztése alapján tarthat igényt. A költségigény előterjesztésére az eljárás alá vont személyt a fegyelmi tárgyalásról szóló értesítésben fel kell hívni azzal, hogy a költségigény a fegyelmi tárgyaláson terjeszthető elő, illetve a 33/Y. § (3) bekezdés, valamint a 34/B. § (1) bekezdés a) pont szerinti esetben a határozat meghozatala előtt kell a felhívást kibocsátani. Az eljárás alá vont részére a fegyelmi határozat jogerőre emelkedését követő 15 napon belül kell megtéríteni az igazolt költségeket.
-
-(4) Ha a fegyelmi eljárás során a vizsgálóbiztos, illetve a fegyelmi tanács tagja (tagjai) tekintetében személycsere válik szükségessé, a fegyelmi jogkör gyakorlójának e törvény szabályainak megfelelő alkalmazásával kell az új személyeket kijelölnie.
-
-(5) A fegyelmi eljárás során hozott döntéseket írásba kell foglalni, de azokról – kivéve az ügyet lezáró érdemi döntést, megszüntető határozatot (fegyelmi határozat) – nem kell alakszerű határozatot hozni; ezek ellen külön panasznak, egyéb jogorvoslatnak – a 33/W. § (9b) bekezdés szerinti kifogás kivételével – nincs helye.
+### 33/N. §

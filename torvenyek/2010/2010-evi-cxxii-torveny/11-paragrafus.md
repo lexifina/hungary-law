@@ -1,3 +1,1 @@
-11. § (1) Az állami adó- és vámhatóság vezetője, illetve a NAV egyéb munkáltatói jogokat gyakorló vezetője a munkáltatói jogok gyakorlását írásban átruházhatja az általa kijelölt, irányítása alá tartozó vezetői munkakört betöltő személyre. Az átruházott munkáltatói jogok nem ruházhatóak tovább.
-
-(2) A pénzügyőrök tekintetében a kijelölt miniszter vagy az állami adó- és vámhatóság vezetője hatáskörébe utalt kiemelt munkáltatói jogköröket a 7. számú melléklet tartalmazza. Az állami adó- és vámhatóság vezetője a hatáskörébe tartozó kiemelt munkáltatói jogkörének gyakorlását írásban átruházhatja az általa kijelölt vezetőre. Az átruházott kiemelt munkáltatói jogkör nem ruházható tovább.
+### 11. §

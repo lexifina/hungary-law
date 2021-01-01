@@ -1,1 +1,1 @@
-28/F. § A 28/C. §, a 28/D. § (5) és (8)–(9) bekezdése alkalmazásában illetmény alatt, illetve a 28/E. § alkalmazásában munkabér alatt az egyéb járandóságot is, a 28. § (1), (2a) és (7) bekezdése, a 28/B. §, valamint a 28/D. § (1)–(3) és (6) bekezdése alkalmazásában illetmény alatt a pénzben kifizetendő egyéb járandóságot is érteni kell.
+### 28/F. §

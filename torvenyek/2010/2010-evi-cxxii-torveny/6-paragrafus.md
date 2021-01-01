@@ -6,4 +6,4 @@
 
 (2) Az állami adó- és vámhatóság vezetőjének szakmai helyettesei a kijelölt miniszter által irányított minisztérium szervezeti és működési szabályzatában meghatározott, az állami adó- és vámhatóság vezetője által irányított helyettes államtitkárok.
 
-(3) Az állami adó- és vámhatóság vezetője és szakmai helyettesei szolgálati elöljárója a NAV hivatásos állományú tagjainak.
+(3) Az állami adó- és vámhatóság vezetője és szakmai helyettesei a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti felettese a NAV foglalkoztatottjainak.
