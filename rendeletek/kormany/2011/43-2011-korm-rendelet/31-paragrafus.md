@@ -4,7 +4,7 @@
 
 a) az adott sportág versenyszabályzatában meghatározottak szerint az alacsonyabb bajnoki osztályból nem kvalifikálhatja magát országos vagy nemzetközi versenyre, illetve
 
-b) 18 éven aluli versenyzőkkel nem végez sportszakmai tevékenységet.
+b)[^116] védett személyekkel nem végez sportszakmai tevékenységet.
 
 (3) Az eltiltás hatálya alatt a versenyző sportszakemberként, a sportszakember pedig versenyzőként nem tevékenykedhet.
 
@@ -20,6 +20,9 @@ a) az eltiltás időtartamának utolsó 2 hónapjában, vagy
 
 b) a kiszabott eltiltás időtartamának utolsó negyedében, ha az nem éri el az a) pontban meghatározott időtartamot.
 
-(8) Amennyiben a versenyző, sportszakember megsérti az eltiltás időtartamára vonatkozó részvételi tilalmat, az eredetileg kiszabott eltiltási időtartam utolsó napján az eltiltás időtartama újrakezdődik. Az eltiltás időtartamára vonatkozó részvételi tilalom megsértésével elért bármilyen eredményt meg kell semmisíteni.
+(8)[^117] Ha a versenyző vagy a sportszakember megsérti az eltiltás időtartamára vonatkozó részvételi tilalmat, az eredetileg kiszabott eltiltás utolsó napján az eltiltás időtartama újrakezdődik. Az újrakezdődött eltiltási időtartam a versenyző vagy a sportszakember vétkességétől és az eset egyedi körülményeitől függően módosítható, ideértve a megrovás alkalmazásának lehetőségét újabb eltiltás kiszabása nélkül. Ha a versenyző vagy a sportszakember a részvételi tilalmat az ideiglenes felfüggesztés ideje alatt szegi meg, az ideiglenes felfüggesztés időtartama nem kerül beszámításra az eltiltás időtartamába. Az eltiltás időtartamára vagy az ideiglenes felfüggesztésre vonatkozó részvételi tilalom megsértésével elért eredményt meg kell semmisíteni.
 
 (9) Az eltiltás időtartamára vonatkozó részvételi tilalom megsértése miatt indított doppingeljárásban a versenyző vagy a sportszakember által elkövetett cselekmény súlyossága vagy az eset körülményei alapján az eredetileg kiszabott eltiltási időtartam utolsó napján újrakezdődő eltiltás időtartama módosítható.
+
+[^116]: A 31. § (2) bekezdés b) pontja a 708/2020. (XII. 30.) Korm. rendelet 18. § 26. pontja szerint módosított szöveg.
+[^117]: A 31. § (8) bekezdése a 708/2020. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.

@@ -1,20 +1,20 @@
 ## 10. Doppingvétségek
 
-12. § (1) Doppingvétséget követ el a versenyző, ha a nemzetközi követelményekben foglaltakra is figyelemmel
+12. § (1)[^54] Doppingvétséget követ el a versenyző, valamint a szabadidős sportoló, ha a nemzetközi követelményekben foglaltakra is figyelemmel
 
 a) a testéből származó mintában
 
-aa) – azon szerek kivételével, amelyek tekintetében a tiltólista egyedi mennyiségi határérték eléréséhez vagy meghaladásához köti a doppingvétség megállapítását – bármilyen mennyiségben jelen van a tiltólistán szereplő tiltott szer, annak származéka vagy markerje,
+aa)[^55] – azon szerek kivételével, amelyek tekintetében a tiltólista vagy a technikai dokumentum az ezek szerinti döntési határérték eléréséhez vagy meghaladásához köti a doppingvétség megállapítását – bármilyen mennyiségben jelen van a tiltólistán szereplő tiltott szer, annak származéka vagy markerje,
 
-ab) – a tiltólista szerint egyedi mennyiségi határérték eléréséhez vagy meghaladásához kötött doppingvétség esetén – a tiltólista szerinti egyedi mennyiségi határértéket eléri vagy meghaladja a tiltott szer, annak származéka vagy markerje,
+ab)[^56] – a tiltólista vagy a technikai dokumentum szerinti döntési határérték eléréséhez vagy meghaladásához kötött doppingvétség esetén – a tiltólista vagy technikai dokumentum szerinti döntési határértéket eléri vagy meghaladja a tiltott szer, annak származéka vagy markerje,
 
 b) a tiltólistán szereplő tiltott szert használ, vagy tiltott módszert alkalmaz – függetlenül annak sikerességétől –, vagy a használatot, alkalmazást megkísérli,
 
-c)[^28] a mintaszolgáltatást elkerüli, vagy megfelelő indoklás hiányában megtagadja, vagy a mintaszolgáltatást elmulasztja azt követően, hogy arról szabályszerű értesítést kapott, továbbá, ha a mintavétel rendjét nem tartja be, vagy a mintavételt egyéb módon akadályozza,
+c)[^57] a mintaszolgáltatást elkerüli, vagy megfelelő indoklás hiányában megtagadja, vagy a mintaszolgáltatást elmulasztja azt követően, hogy arról szabályszerű értesítést kapott, továbbá, ha a mintavétel rendjét nem tartja be, vagy a mintavételt egyéb módon akadályozza,
 
-d)[^29] a versenyen kívüli vizsgálat céljából történő rendelkezésre állásra vonatkozó előírásokat – ideértve a tartózkodási helyre előírt információk benyújtását, és a vonatkozó nemzetközi szabványban előírtak szerint bejelentett mintavétel kihagyását – a szövetség doppingszabályzatában részletesen meghatározott módon, 12 hónapon belül legalább három esetben bármely formában megsérti,
+d)[^58] a versenyen kívüli vizsgálat céljából történő rendelkezésre állásra vonatkozó előírásokat – ideértve a tartózkodási helyre előírt információk benyújtását, és a vonatkozó nemzetközi szabványban előírtak szerint bejelentett mintavétel kihagyását – a szövetség doppingszabályzatában részletesen meghatározott módon, 12 hónapon belül legalább három esetben bármely formában megsérti,
 
-e)[^30] a doppingellenőrzést manipulálja, vagy azt megkísérli, különösen, ha a doppingellenőrt szándékosan akadályozza, vagy azt megkísérli, megtéveszti a doppingellenes tevékenységben részt vevő szervezetek képviselőit, vagy befolyásolja a doppingellenőrzés során a vonatkozó nemzetközi követelmény alapján hivatalosan részt vevő személyeket, vagy azt megkísérli,
+e)[^59] a doppingellenőrzést manipulálja, vagy azt megkísérli, különösen, ha a doppingellenőrt szándékosan akadályozza, vagy azt megkísérli, megtéveszti a doppingellenes tevékenységben részt vevő szervezetek képviselőit, vagy befolyásolja a doppingellenőrzés során a vonatkozó nemzetközi követelmény alapján hivatalosan részt vevő személyeket, vagy azt megkísérli,
 
 f) versenyidőszakban bármilyen tiltott szert vagy tiltott módszert birtokol, vagy versenyen kívüli időszakban bármilyen, versenyidőszakon kívül tiltott szert vagy tiltott módszert birtokol, kivéve, ha igazolja, hogy a birtoklással érintett szer, módszer vonatkozásában gyógyászati célú mentességet élvez, vagy más elfogadható, elsősorban egészségügyi okokra visszavezethető indokolást ad,
 
@@ -22,9 +22,11 @@ g) tiltott szert vagy tiltott módszert, vagy tiltott módszer felhasználásár
 
 h) versenyidőszakban más versenyzőnek bármilyen tiltott szert bead, vagy bármilyen tiltott módszert, a tiltott módszer felhasználására alkalmas eszközt vagy tiltott módszer felhasználása elsajátításának, alkalmazásának leírását más versenyzővel összefüggésben alkalmazza, vagy versenyen kívüli időszakban más versenyzőnek versenyidőszakon kívül tiltott szert bead, vagy tiltott módszert, a tiltott módszer felhasználására alkalmas eszközt vagy tiltott módszer felhasználása elsajátításának, alkalmazásának leírását más versenyzővel összefüggésben alkalmazza, ezekhez vagy ezek leplezéséhez segítséget nyújt, ezekben közreműködik, vagy ezeket megkísérli,
 
-i)[^31] doppingvétség elkövetésében vagy annak kísérletében, vagy a 31. § (1)–(3) bekezdése rendelkezéseinek más személy általi megsértésében közreműködik, azt ösztönzi, ahhoz vagy annak leplezéséhez segítséget nyújt, vagy ezek elkövetésére rábír, vagy ezek elkövetésével összefüggésben bármely más típusú szándékos cselekményt valósít meg, vagy azt megkísérli,
+i)[^60] doppingvétség elkövetésében vagy annak kísérletében, vagy a 31. § (1)–(3) bekezdése rendelkezéseinek más személy általi megsértésében közreműködik, azt ösztönzi, ahhoz vagy annak leplezéséhez segítséget nyújt, vagy ezek elkövetésére rábír, vagy ezek elkövetésével összefüggésben bármely más típusú szándékos cselekményt valósít meg, vagy azt megkísérli,
 
-j)[^32] eltiltás hatálya alatt álló vagy olyan sportszakemberrel valósít meg sportszakmai együttműködést vagy azt leplezi, akit – olyan magatartás miatt, ami doppingvétségnek minősül – büntetőeljárás vagy fegyelmi eljárás eredményeként elítéltek vagy foglalkozásának gyakorlásától eltiltották feltéve, ha előtte a versenyzőt szabályszerűen értesítették a sportszakember eltiltott státuszáról és az együttműködés következményeiről.
+j)[^61] eltiltás hatálya alatt álló vagy olyan sportszakemberrel valósít meg sportszakmai együttműködést vagy azt leplezi, akit – olyan magatartás miatt, ami doppingvétségnek minősül – büntetőeljárás vagy fegyelmi eljárás eredményeként elítéltek vagy foglalkozásának gyakorlásától eltiltották, valamint az eljáró doppingbizottság megállapítja, hogy a versenyzőnek vagy a szabadidős sportolónak tudomása volt a sportszakember eltiltásáról,
+
+k)[^62] valamely eljárás megindításának alapjául szolgáló bejelentés megakadályozása érdekében fenyegetést vagy megfélemlítést alkalmaz, vagy olyan más tevékenységet végez, amelynek célja, hogy a WADA, a doppingellenes szervezet, hatósági vagy szakmai felügyeleti szervek, a doppingeljárás során eljáró bizottság, a WADA-val vagy a doppingellenes szervezettel együttműködő személy ne szerezzen tudomást valamely feltételezett doppingvétséggel vagy egyéb, különösen etikai vagy fegyelmi szabály megsértésével kapcsolatos információról, vagy velük szemben erőszakot, fenyegetést, megfélemlítést vagy más hátrányos jogkövetkezményt alkalmaz.
 
 (2) Doppingvétséget követ el a sportszakember, ha a nemzetközi követelményekben foglaltakra is figyelemmel
 
@@ -34,13 +36,20 @@ b) versenyidőszakban versenyzőnek bármilyen tiltott szert bead, vagy bármily
 
 c) a b) pontban meghatározott doppingvétségek elkövetéséhez segítséget nyújt, abban közreműködik vagy ezeket megkísérli,
 
-d)[^33] a doppingellenőrzést manipulálja vagy azt megkísérli, különösen, ha a doppingellenőrt szándékosan akadályozza, vagy azt megkísérli, megtéveszti a doppingellenes tevékenységben részt vevő szervezetek képviselőit, vagy befolyásolja a doppingellenőrzés során a vonatkozó nemzetközi követelmény alapján hivatalosan részt vevő személyeket, vagy azt megkísérli,
+d)[^63] a doppingellenőrzést manipulálja vagy azt megkísérli, különösen, ha a doppingellenőrt szándékosan akadályozza, vagy azt megkísérli, megtéveszti a doppingellenes tevékenységben részt vevő szervezetek képviselőit, vagy befolyásolja a doppingellenőrzés során a vonatkozó nemzetközi követelmény alapján hivatalosan részt vevő személyeket, vagy azt megkísérli,
 
 e) tudomására jut, hogy a versenyző doppingol, vagy valaki a versenyzőnek a doppingoláshoz segítséget nyújt, és ezt nem jelenti be a HUNADO-nak.
 
-[^28]: A 12. § (1) bekezdés c) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^29]: A 12. § (1) bekezdés d) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^30]: A 12. § (1) bekezdés e) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^31]: A 12. § (1) bekezdés i) pontját a 324/2014. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^32]: A 12. § (1) bekezdés j) pontját a 324/2014. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^33]: A 12. § (2) bekezdés d) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+(3)[^64] Doppingvétséget követ el az egyéb közreműködő, ha – a nemzetközi követelményekben foglaltakra is figyelemmel – az (1) bekezdés e), g)–k) pontjában meghatározott magatartást valósít meg.
+
+[^54]: A 12. § (1) bekezdés nyitó szövegrésze a 708/2020. (XII. 30.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.
+[^55]: A 12. § (1) bekezdés a) pont aa) alpontja a 708/2020. (XII. 30.) Korm. rendelet 18. § 12. pontja szerint módosított szöveg.
+[^56]: A 12. § (1) bekezdés a) pont ab) alpontja a 708/2020. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^57]: A 12. § (1) bekezdés c) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^58]: A 12. § (1) bekezdés d) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^59]: A 12. § (1) bekezdés e) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^60]: A 12. § (1) bekezdés i) pontját a 324/2014. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^61]: A 12. § (1) bekezdés j) pontját a 324/2014. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 708/2020. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^62]: A 12. § (1) bekezdés k) pontját a 708/2020. (XII. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^63]: A 12. § (2) bekezdés d) pontja a 324/2014. (XII. 15.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^64]: A 12. § (3) bekezdését a 708/2020. (XII. 30.) Korm. rendelet 9. § (4) bekezdése iktatta be.

@@ -1,7 +1,7 @@
-9. §[^23] (1)[^24] A doppingbizottság és a dopping fellebbviteli bizottság tagja csak olyan személy lehet, aki jogász, orvos, más egészségügyi felsőfokú vagy a sport területén képesítéshez kötött tevékenységek gyakorlásáról szóló kormányrendeletben meghatározott felsőfokú szakirányú végzettséggel és a doppingellenes tevékenység területén legalább hároméves szakmai tapasztalattal rendelkezik.
+9. §[^51] (1) A bizottsági tagságra jogosultak körének tagja csak olyan személy lehet, aki jogász, orvos, más egészségügyi felsőfokú vagy a sport területén képesítéshez kötött tevékenységek gyakorlásáról szóló kormányrendeletben meghatározott felsőfokú szakirányú végzettséggel és a doppingellenes tevékenység területén legalább hároméves szakmai tapasztalattal rendelkezik. A bizottsági tagságra jogosultak körének tagjait a HUNADO négy évre nevezi ki, a kinevezés megismételhető.
 
-(2)[^25] A HUNADO a doppingeljárás előkészítése során felkéri a minisztert, hogy a konkrét doppingeljárásban a doppingbizottság, illetve a dopping fellebbviteli bizottság tagjaként eljáró személyt jelölje ki.
+(2) A doppingbizottság elnöke és tagjai díjazásának részletes szabályairól a HUNADO rendelkezik. A doppingbizottság elnökének és tagjának díjazását, valamint a doppingeljárással összefüggő költségeket az a szövetség viseli, amelynek sportágában az eljárás alá vont versenyző a sporttevékenységét folytatja, vagy az eljárás alá vont sportszakember a szakmai tevékenységét gyakorolja.
 
-[^23]: A 9. § a 324/2014. (XII. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^24]: A 9. § (1) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^25]: A 9. § (2) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+(3) A másodfokú doppingeljárás részletes szabályairól, a dopping fellebbviteli bizottság tagjának díjazásáról, valamint a másodfokú doppingeljárással összefüggő költségek viseléséről a Sport Állandó Választottbíróság eljárási szabályzata rendelkezik.
+
+[^51]: A 9. § a 708/2020. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@ a) a 12. § (2) bekezdés a) és d) pontjában meghatározott doppingvétség el
 
 b) a 12. § (2) bekezdés b), c) és e) pontjában meghatározott doppingvétségek első alkalommal történő elkövetése esetén a sportszakmai tevékenységben történő részvételtől eltiltás 4 évtől végleges időtartamra.
 
-(2) Ha a sportszakember a 12. § (2) bekezdés b), c) és e) pontjában meghatározott doppingvétséget 18 év alatti versenyző sérelmére a tiltólista szerinti meghatározott szerek között nem szereplő egyéb tiltott szerrel követi el, a sportszakmai tevékenységben történő részvételtől végleg el kell tiltani.
+(2)[^100] Ha a sportszakember a 12. § (2) bekezdés b), c) és e) pontjában meghatározott doppingvétséget védett személy felhasználásával a tiltólista szerinti meghatározott szerek között nem szereplő egyéb tiltott szerrel követi el, a sportszakmai tevékenységben történő részvételtől végleg el kell tiltani.
 
 (3) Ha a sportszakember a doppingvétséget a 24. § (3) bekezdésében meghatározottakkal összefüggésben követi el, és igazolni tudja, hogy ezzel kapcsolatban nem terheli szándékosság, a büntetés első alkalommal legalább megrovás vagy legfeljebb a sportszakmai tevékenységben való részvételtől 2 év időtartamú eltiltás.
 
@@ -13,3 +13,5 @@ b) a 12. § (2) bekezdés b), c) és e) pontjában meghatározott doppingvétsé
 a) a sportszövetség által adott kedvezmények legfeljebb 1 év időtartamra történő megvonása,
 
 b) legfeljebb a sportszakember szakmai tevékenységéből származó előző évi nettó átlagjövedelmének tizenkettő havi összegét meg nem haladó pénzbüntetés
+
+[^100]: A 25. § (2) bekezdése a 708/2020. (XII. 30.) Korm. rendelet 18. § 20. pontja szerint módosított szöveg.

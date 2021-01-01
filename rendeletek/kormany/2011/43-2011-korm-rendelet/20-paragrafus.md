@@ -1,4 +1,4 @@
-20. § (1)[^47] Ha az előzetes felülvizsgálati eljárás nem tár fel gyógyászati célú mentességet, vagy olyan nyilvánvaló eltérést a nemzetközi követelményektől, amelyek az „A” jelű minta pozitív vizsgálati eredményét, vagy a doppingvétséget megalapozó egyéb magatartást érvénytelenné tennék, a HUNADO-nak haladéktalanul tájékoztatnia kell a versenyzőt, a szövetséget, a minisztert és az illetékes sportköztestületet arról, hogy
+20. § (1)[^78] Ha az előzetes felülvizsgálati eljárás nem tár fel gyógyászati célú mentességet, vagy olyan nyilvánvaló eltérést a nemzetközi követelményektől, amelyek az „A” jelű minta pozitív vizsgálati eredményét, vagy a doppingvétséget megalapozó egyéb magatartást érvénytelenné tennék, a HUNADO-nak haladéktalanul tájékoztatnia kell a versenyzőt, a szövetséget, a minisztert és az illetékes sportköztestületet arról, hogy
 
 a) a versenyző „A” jelű mintája pozitív vizsgálati eredményű,
 
@@ -14,4 +14,4 @@ f) a versenyző a HUNADO-tól írásban saját költségére kérheti az „A”
 
 (2) Ha a versenyző „B” jelű mintájának analízise negatív vizsgálati eredményű, a „B” jelű minta analízisének költségét a HUNADO visszatéríti a versenyző részére, és a versenyző „A” jelű mintájának pozitív vizsgálati eredménye miatt doppingeljárás nem folytatható le, a versenyzővel szemben hátrányos következmények nem alkalmazhatóak.
 
-[^47]: A 20. § (1) bekezdés nyitó szövegrésze a 324/2014. (XII. 15.) Korm. rendelet 20. § f) pontja, a 279/2018. (XII. 21.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^78]: A 20. § (1) bekezdés nyitó szövegrésze a 324/2014. (XII. 15.) Korm. rendelet 20. § f) pontja, a 279/2018. (XII. 21.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
