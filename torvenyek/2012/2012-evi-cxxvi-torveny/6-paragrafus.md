@@ -6,9 +6,9 @@ a) az őstermelő:
 
 aa) meghal,
 
-ab) az őstermelői igazolványát visszaadja, visszavonják,
+ab) az őstermelői nyilvántartásból törlésre kerül,
 
-ac) az őstermelői igazolvány hatályának lejártát követő negyedik hónap utolsó napján;
+ac)
 
 b) az egyéni vállalkozó:
 
@@ -30,7 +30,7 @@ dc) a 2. § b) pont bb) alpontja szerinti esetben az élelmiszerlánc-felügyele
 
 dd) a db) és a dc) alpont hatálya alá nem tartozó gazdálkodó szervezet a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból való törléssel.
 
-(2) Amennyiben az (1) bekezdés a) pont ac) alpontja szerinti őstermelő a tárgyévet követő negyedik hónap lejártát követően nem vált ki őstermelői igazolványt, és a tárgyévet követően más jogcímen sem lesz az agrárkamara tagja, mentesül a tárgyévet követő négy hónap kamarai tagság alapján fizetendő tagdíj megfizetése, valamint bevallási és adatszolgáltatási kötelezettség teljesítése alól.
+(2)
 
 (3) Az agrárkamarai tagsági viszony megszűnésével – a (4) és (5) bekezdésben foglaltakra is figyelemmel – az agrárkamara a volt agrárkamarai tagot törli a tag jegyzékből.
 

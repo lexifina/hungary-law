@@ -4,6 +4,6 @@ a) a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszol
 
 b) a települési önkormányzat által létesített mezei őrszolgálat és a hegyközség által létrehozott hegyőrség megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás iránti kérelem elbírálásával összefüggő feladatokat.
 
-(2) Az agrárkamara ellátja a családi gazdaságok nyilvántartásba vételével összefüggő feladatokat és a családi gazdaságokról szóló nyilvántartásban rögzíti az adatokat.
+(2)
 
-(3) Az agrárkamara a (2) bekezdésben meghatározott feladata ellátása során biztosítja, hogy a nyilvántartásba vétel során a nyilvántartásba veendő személytől vagy szervtől független és pártatlan személy járjon el.
+(3)

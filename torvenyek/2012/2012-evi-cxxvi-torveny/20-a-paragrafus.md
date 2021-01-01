@@ -1,0 +1,9 @@
+20/A. § (1) Az alapszabály az országos küldöttgyűlés határozathozatalát ülés tartása nélkül is lehetővé teheti. Az ilyen határozathozatalt az elnök a határozat tervezetének az országos küldöttgyűlés tagjai részére az alapszabályban meghatározottak szerint történő megküldésével kezdeményezi.
+
+(2) Az országos küldöttgyűlés tagjai számára a tervezet kézhezvételétől számított legalább öt napot kell biztosítani a határozat tervezet áttanulmányozására, és ezen határidő elteltét követően legalább nyolcnapos határidőt kell biztosítani arra, hogy szavazatukat megküldjék az alapszabályban meghatározottak szerint az elnök részére.
+
+(3) Az ülés tartása nélküli döntéshozatal során e törvénynek a határozatképességre és szavazásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a határozathozatali eljárás akkor eredményes, ha legalább annyi szavazatot megküldenek az alapszabályban meghatározottak szerint az elnök részére, amennyi országos küldöttgyűlési tag jelenléte a határozatképességéhez szükséges lenne ülés tartása esetén.
+
+(4) Ha az országos küldöttgyűlési tagok egyötöde kívánja az országos küldöttgyűlés összehívását, és ezen igényüket a határozat tervezet áttanulmányozására biztosított időszak alatt az alapszabályban meghatározottak szerint az elnök részére bejelentik, az országos küldöttgyűlés ülését az elnöknek össze kell hívnia.
+
+(5) A szavazásra megállapított határidő utolsó napját követő három napon belül – ha valamennyi országos küldöttgyűlési tag szavazata ezt megelőzően érkezik meg, akkor az utolsó szavazat beérkezésének napjától számított három napon belül – az elnök megállapítja a szavazás eredményét, és azt legkésőbb három napon belül közli az országos küldöttgyűlési tagokkal. A határozathozatal napja a szavazási határidő utolsó napja, ha valamennyi szavazat korábban beérkezik, akkor az utolsó szavazat beérkezésének napja.

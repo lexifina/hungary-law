@@ -2,7 +2,7 @@
 
 a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, székhellyel vagy telephellyel rendelkező
 
-aa) őstermelő,
+aa) mezőgazdasági őstermelő (a továbbiakban: őstermelő),
 
 ab) az agrárgazdasági tevékenységet folytató egyéni vállalkozó, továbbá
 

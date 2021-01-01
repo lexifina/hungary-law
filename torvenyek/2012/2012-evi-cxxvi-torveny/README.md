@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-126-00-00
 | 2019-01-11 | 2018. évi CXXXVII. törvény | 2012-126-00-00.24 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2012-126-00-00.25 |
 | 2020-01-01 | 2019. évi CX. törvény | 2012-126-00-00.26 |
+| 2021-01-01 | 2020. évi CXXIII. törvény | 2012-126-00-00.27 |

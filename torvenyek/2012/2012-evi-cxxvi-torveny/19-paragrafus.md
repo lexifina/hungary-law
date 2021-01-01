@@ -18,7 +18,7 @@ f) az Agrárkamarai Választottbíróság választottbíráinak megválasztása;
 
 g) az éves saját bevételt meghaladó kölcsön felvételéről való döntéshozatal;
 
-h) az agrárkamara éves költségvetésének meghatározásáról, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
+h) az agrárkamara éves költségvetésének meghatározásáról, az elfogadott éves költségvetés módosításának szabályairól, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
 
 i) a kamarai tagdíj mértékéről és megfizetésének módjáról való döntéshozatal;
 

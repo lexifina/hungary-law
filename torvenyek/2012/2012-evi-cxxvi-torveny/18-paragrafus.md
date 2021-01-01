@@ -8,11 +8,11 @@ b) az agrárkamara szervezetére, szerveinek működésére és tisztségviselő
 
 c) az agrárkamara, illetve helyi és egyéb szervek, szervezeti egységek létesítése esetén azok feladatkörét, az agrárkamara más szervezeteihez való kapcsolódásának és működésének rendjét;
 
-d) más gazdasági-, szakmai kamarákkal, hegyközségekkel és az országos gazdasági érdek-képviseleti szervezetekkel való együttműködés módját és részletes szabályait;
+d)
 
 e) az e törvényben meghatározottakon túl a tagok jogait és kötelezettségeit;
 
-f) a választási névjegyzék és a tagjegyzék vezetésének részletes szabályait,
+f)
 
 g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, feltételeit,
 

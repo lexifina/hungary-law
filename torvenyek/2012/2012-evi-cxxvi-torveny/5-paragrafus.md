@@ -6,7 +6,7 @@
 
 5. § (1) Kamarai tagság e törvény alapján:
 
-a) őstermelő esetében az őstermelői igazolvány kiállításával;
+a) mezőgazdasági őstermelőként történő nyilvántartásba vétellel
 
 b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység végzésére jogosító nyilvántartásba vételről szóló igazolás kiadásával;
 
@@ -20,13 +20,13 @@ f) az e törvényben szabályozott egyéb feltétel bekövetkezésével
 
 keletkezik.
 
-(2) Közös őstermelői igazolvány kiváltása esetén a kamara tagjaként azt a gazdát kell nyilvántartásba venni, akinek a nevére a közös őstermelői igazolványt kiállították.
+(2) Őstermelők családi gazdaságában tag – az (1) bekezdés a) pontjától eltérően – csak akkor válik a kamara tagjává, ha az őstermelők családi gazdaságának képviselőjeként van bejegyezve.
 
-(3) Azon őstermelő, aki tárgyévben hatályos, de nem érvényesített őstermelői igazolvánnyal rendelkezik, a tárgyév negyedik hónapjától agrárkamarai tagságából származó jogait kizárólag az őstermelői igazolvány érvényesítését követően gyakorolhatja.
+(3)
 
-(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelői igazolványt vált ki, adja vissza őstermelői igazolványát és egyéni vállalkozói tevékenység végzését jelenti be, vagy egyéni vállalkozását egyéni céggé alakítja át.
+(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelőként nyilvántartásba veszik, őstermelői jogviszonyát megszünteti és egyéni vállalkozói tevékenység végzését jelenti be, vagy egyéni vállalkozását egyéni céggé alakítja át.
 
-(5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony az őstermelői igazolvány hatálya miatt egyébként fennáll.
+(5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony a mezőgazdasági őstermelőként történő nyilvántartás miatt egyébként fennáll.
 
 (6) Ha az (1) bekezdés c) és d) pontja hatálya alá tartozó gazdálkodó szervezet az agrárgazdasági tevékenység körébe tartozó tevékenységét a cégbejegyzést megelőzően megkezdi, a cégbejegyzés kérelmezésével egyidejűleg köteles az agrárkamaránál bejelentkezni. Ebben az esetben az agrárkamara ideiglenesen nyilvántartásba veszi az érintett gazdálkodó szervezetet, amelyet az agrárkamarai tag jogai illetnek meg és kötelezettségei terhelnek.
 

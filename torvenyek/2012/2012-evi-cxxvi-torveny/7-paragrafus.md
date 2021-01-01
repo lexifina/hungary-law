@@ -30,9 +30,9 @@ ah) az egyéni vállalkozói nyilvántartási számát, székhelyét, telephely�
 
 ai) az őstermelői igazolványa számát, annak hatályossági és érvényességi időtartamát, valamint a biztosítási jogviszonyára vonatkozó adatát;
 
-aj) a családi gazdálkodói nyilvántartási számát,
+aj) az őstermelők családi gazdaságának alapításáról szóló szerződés számát,
 
-ak) a közös őstermelői igazolványban szereplő családtagjainak aa), ab), ac), ae), af) ag), al), ar) alpontok szerinti adatait,
+ak) az őstermelők családi gazdaságában szereplő tagok aa), ab), ac), ae), af), ag), al), ar) alpontok szerinti adatait,
 
 al) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
 
@@ -79,6 +79,8 @@ bl) az élelmiszerlánc-felügyeleti szerv által az élelmiszerlánc-felügyele
 bm) az értesítési címét,
 
 bn) a kamarai igazolvány számát, érvényességének kezdetét és végét;
+
+bo) a családi mezőgazdasági társasági minősítést.
 
 c) természetes személy pártoló, önkéntes, tiszteletbeli tag a) pontban rögzített adatait;
 
