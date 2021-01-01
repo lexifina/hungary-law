@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1125-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-03-17 | 2017-1125-30-22.1 | 1125/2017. (III. 17.) Korm. határozat |
+| 2021-01-01 | 2017-1125-30-22.2 | 2011: CXCV. törvény |
