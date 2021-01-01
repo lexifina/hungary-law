@@ -1,0 +1,1 @@
+## 7. § Az R. 4. § (3) bekezdésében a „megyei (fővárosi) kereskedelmi és iparkamarák mellett működő békéltető testület” szövegrész helyébe a „megyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület” szöveg lép.
