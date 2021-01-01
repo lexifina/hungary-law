@@ -1,0 +1,1 @@
+2. § Hatályát veszti az Szja tv. 1/B. § (1) bekezdésében a „ ; filmalkotás esetén nem változtat a tartózkodás ideiglenes jellegén, ha a filmalkotás gyártási időszakának (ideértve az előkészítést is) időtartama meghaladja a 183 napot” szövegrész.

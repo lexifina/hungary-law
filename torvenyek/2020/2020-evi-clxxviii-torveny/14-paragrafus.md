@@ -1,0 +1,3 @@
+14. § Az Mktv. 31/F. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) Az (1) bekezdés ba) alpontja szerinti, magánszemély javára teljesített olyan javadalmazások esetén, amelyek az Szja tv., vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti adó-, vagy közteher-kötelezettség alá eső filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás formájában merülnek fel, magánszemélyenként tizenkétmillió forintig a javadalmazás 100%-a számolható el közvetlen magyar filmgyártási költségként; ennél nagyobb összegű javadalmazás esetén közvetlen magyar filmgyártási költségként a javadalmazás tizenkétmillió forint feletti részének 50%-a számolható el.”

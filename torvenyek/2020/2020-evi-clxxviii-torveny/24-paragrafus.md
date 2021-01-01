@@ -1,0 +1,3 @@
+24. § Az Efo. tv. a következő 20. §-sal egészül ki:
+
+„20. § E törvénynek az egyes törvényeknek a mozgóképipar versenyképességének növelésével összefüggő módosításáról szóló 2020. évi CLXXVIII. törvénnyel megállapított 2. § 8. pontja, 4. § (2) bekezdése és 8. § (2) bekezdése szerinti rendelkezések a 2020. december 31-ét követően megszerezett bevétel adókötelezettségére alkalmazhatóak első alkalommal.”
