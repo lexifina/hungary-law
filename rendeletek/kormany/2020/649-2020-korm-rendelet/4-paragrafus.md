@@ -1,0 +1,5 @@
+## „(2) Az előterjesztő miniszter az egyetértése esetén a mentesítési kérelmet, valamint a 2. § (3), (6) és (8) bekezdése szerinti szakmai állásfoglalást, illetve szakmai véleményt az esetlegesen szükséges kiegészítő információk kézhezvételétől számított legkésőbb 15 napon belül megküldi egyetértő álláspontjának indokolásával együtt a Nemzetbiztonsági Kabinetnek (a továbbiakban: Kabinet).”
+
+## 4. A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet módosítása
+
+4. § (1) A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: R3.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
