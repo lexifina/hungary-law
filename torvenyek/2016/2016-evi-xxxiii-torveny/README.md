@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-33-00-00
 | 2019-07-10 | 2019. évi LXVI. törvény | 2016-33-00-00.6 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2016-33-00-00.7 |
 | 2020-12-12 | 2020. évi CXXXVIII. törvény | 2016-33-00-00.8 |
+| 2021-01-01 | 2020. évi CLII. törvény | 2016-33-00-00.9 |
