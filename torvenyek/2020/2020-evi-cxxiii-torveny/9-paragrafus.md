@@ -1,0 +1,1 @@
+9. § A közös tevékenység nyeresége és vesztesége – ha a tagok eltérően nem állapodnak meg az őstermelők családi gazdaságának alapításáról szóló szerződésben – a tagok közt egyenlő arányban oszlik meg.
