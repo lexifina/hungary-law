@@ -1,4 +1,4 @@
-| Vámtarifaszám | Kockázatos élelmiszerek megnevezése |
+| Vámtarifaszám | Bejelentésköteles élelmiszerek megnevezése |
 
 | 0201 | Szarvasmarhafélék húsa frissen vagy hűtve |
 
@@ -138,9 +138,9 @@
 
 | 1702 | Más cukor, beleértve a vegytiszta tejcukrot, malátacukrot, szőlőcukrot és a gyümölcscukrot is, szilárd állapotban; cukorszirup hozzáadott ízesítő- vagy színezőanyagok nélkül; műméz, természetes mézzel keverve is; égetett cukor |
 
-2. melléklet az 51/2014. (XII. 31.) NGM rendelethez[^2]
+2. melléklet az 51/2014. (XII. 31.) NGM rendelethez[^4]
 
-| Vámtarifaszám | Egyéb kockázatos termékek megnevezése |
+| Vámtarifaszám | Egyéb bejelentésköteles termékek megnevezése |
 
 | 0601 | Hagyma, gumó, gumós gyökér, hagymagumó, gyökércsíra és rizóma vegetatív nyugalmi állapotban, fejlődésben, növekedésben (vegetációban) vagy virágzásban; cikórianövény és -gyökér, a 1212 vtsz. alá tartozó gyökér kivételével |
 
@@ -274,4 +274,4 @@
 
 | 6406 | Lábbelirész (beleértve a felsőrészt is, a belső talphoz erősítve is); kiemelhető talpbélés, sarokemelő és hasonló áru; lábszárvédő, bokavédő és hasonló áru és ezek részei |
 
-[^2]: A 2. melléklet a 23/2015. (IX. 4.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. melléklet a 23/2015. (IX. 4.) NGM rendelet 11. § (2) bekezdésével megállapított, a 13/2020. (XII. 23.) PM rendelet 25. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 24. §-át.
