@@ -8,6 +8,6 @@ b) a helyettesítésre, csökkentésre és tökéletesítésre vonatkozó előí
 
 (3) A nem szakmai jellegű projekt-összefoglalók nem tartalmazzák a felhasználónak és személyzetének nevét és címét.
 
-(4)[^49] A NÉBIH közzéteszi az engedélyezett projektek nem szakmai jellegű összefoglalóit és azok módosításait.
+(4)[^49] Az országos főállatorvos legkésőbb az engedélyezéstől számított hat hónapon belül közzététel céljából megküldi az Európai Bizottságnak a nem szakmai jellegű összefoglalókat és azok módosításait.
 
-[^49]: A 45. § (4) bekezdése a 240/2017. (VIII. 28.) Korm. rendelet 11. § e) pontja, a 425/2020. (IX. 10.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^49]: A 45. § (4) bekezdése a 425/2020. (IX. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
