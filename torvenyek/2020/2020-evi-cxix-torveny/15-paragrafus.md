@@ -1,0 +1,3 @@
+15. § A Pp. 182. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az ellentmondással egyidejűleg az írásbeli ellenkérelmet vagy beszámítást tartalmazó iratot is elő kell terjeszteni, kivéve, ha azt a fél már korábban előterjesztette. Ennek elmaradása vagy az ellentmondás elkésettsége esetén, továbbá a 181. § (2) bekezdése szerinti esetben a bíróság az ellentmondást visszautasítja. Ugyanígy jár el a bíróság, ha az ellentmondáshoz csak beszámítást tartalmazó iratot terjesztenek elő, és azt a bíróság visszautasítja. Az ellentmondást e bekezdés, valamint a 115. § (6) bekezdés a) pontja alapján visszautasító végzés ellen az ellentmondással élő fél külön fellebbezéssel élhet.”
