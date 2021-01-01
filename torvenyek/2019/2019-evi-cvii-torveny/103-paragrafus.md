@@ -12,7 +12,7 @@
 
 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
 
-4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony;
+4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony;
 
 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 
@@ -32,7 +32,7 @@
 
 13. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a köztisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
 
-14. közigazgatási gyakorlat: a különleges jogállású szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, munkaviszonyban töltött idő (tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem), továbbá a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlat;
+14. közigazgatási gyakorlat: a különleges jogállású szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, munkaviszonyban töltött idő (tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem), továbbá a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, illetve a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlat;
 
 15. közszolgálati szabályzat:
 
