@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2020-07-15 | 2020. évi LXXX. törvény | 2007-106-00-00.46 |
 | 2020-11-29 | 2020. évi CXXII. törvény | 2007-106-00-00.47 |
 | 2020-12-19 | 2020. évi CXLVIII. törvény | 2007-106-00-00.48 |
+| 2021-01-01 | 2020. évi CLXXIII. törvény | 2007-106-00-00.49 |

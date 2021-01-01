@@ -2,7 +2,7 @@
 
 (2) Mellőzni lehet a versenyeztetést:
 
-a) az állam tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén,
+a) az állam tulajdonában lévő társasági részesedés, ingatlan vagy ingóság cseréje esetén,
 
 b) állami vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
 
@@ -33,6 +33,8 @@ n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közér
 o) az országos közút melletti pihenő- és várakozóhelyeken 2011. december 31-ig megépült felépítményekre vonatkozó osztott tulajdon létesítése és földhasználati jog alapítása során lefolytatott értékesítési eljárás során,
 
 p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése esetén.
+
+q) a 37. § (2) és (3) bekezdése alapján történő értékesítések esetén.
 
 (2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
 

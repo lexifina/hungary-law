@@ -8,7 +8,7 @@ b) belföldi vagy külföldi katasztrófák és súlyos szerencsétlenségek meg
 
 c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében,
 
-d)
+d) kormányhatározatban kapott felhatalmazás alapján a Kormány tagja által kötött nemzetközi megállapodásban foglalt együttműködési feladatok végrehajtása érdekében, amennyiben az érintett állami vagyon egyedi, könyv szerinti bruttó értéke a 25,0 millió forintot nem haladja meg.
 
 e) külön törvény szerinti közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 

@@ -12,7 +12,7 @@ b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemze
 
 c) a HM ArmCom Kommunikációtechnikai Zártkörűen Működő Részvénytársaság, a HM Arzenál Elektromechanikai Zártkörűen Működő Részvénytársaság, a HM CURRUS Gödöllői Harcjárműtechnikai Zártkörűen Működő Részvénytársaság, a HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság felett a miniszter
 
-d)
+d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
 gyakorolja.
 
