@@ -1,54 +1,56 @@
-|  | Az eb által okozott sérülés | A 17/C. § (3) és (4) bekezdéseinek egyes esetekben alkalmazható jogkövetkezményei |
+## Eb által okozott sérülés jogkövetkezményei
 
-|  | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. |
+|  | A | B | C | D | E | F | G |
 
-|  | kimenetele | körülményei | (3) a) | (3) b) | (3) c) | (3) d) | (4) a) | (4) b) |
+| 1 | Az eb által okozott sérülés | Alkalmazható jogkövetkezmények |
 
-| a) | 8 napon belül gyógyuló | az ebbel nem egy háztartásban élő személynek | x |  |  |  |  |  |
+| 2 | kimenetele | körülményei | Ávtv. 42/D. § (1) bekezdés a) pont szerinti jogkövetkezmény | Ávtv. 42/D. § (1) bekezdés b) pont szerinti jogkövetkezmény | Ávtv. 42/D. § (1) bekezdés c) pont szerinti jogkövetkezmény | Ávtv. 42/D. § (1) bekezdés d) pont szerinti jogkövetkezmény | Ávtv. 42/D. § (1) bekezdés e) pont szerinti jogkövetkezmény |
 
-| b) | 8 napon túl | az ebbel egy háztartásban élő személynek | x |  |  |  |  |  |
+| 3 | 8 napon belül gyógyuló | az ebbel nem egy háztartásban élő személynek |  |  |  |  |  |
 
-| c) | gyógyuló | közterületen, az ebbel nem egy háztartásban élő személynek | x | x | x | x | x | x |
+| 4 | 8 napon túl gyógyuló | az ebbel egy háztartásban élő személynek |  |  |  |  |  |
 
-| d) | saját territóriumon, az ebbel nem egy háztartásban élő személynek | x |  | x |  |  |  |
+| 5 |  | közterületen, az ebbel nem egy háztartásban élő személynek | x | x | x | x | x |
 
-| e) | közterületen, kutyának | x |  |  | x |  |  |
+| 6 | saját territóriumon, az ebbel nem egy háztartásban élő személynek |  | x |  |  |  |
 
-| f) | súlyos | az ebbel egy háztartásban élő személynek |  | x | x |  | x | x |
+| 7 | közterületen, kutyának |  |  | x |  |  |
 
-| g) | az ebbel nem egy háztartásban élő személynek |  | x | x | x | x | x |
+| 8 | súlyos | az ebbel egy háztartásban élő személynek | x | x |  | x | x |
 
-| h) | közterületen, kutyának | x | x |  | x | x |  |
+| 9 | az ebbel nem egy háztartásban élő személynek | x | x | x | x | x |
 
-| i) | saját territóriumon, kutyának | x |  |  |  |  |  |
+| 10 | közterületen, kutyának | x |  | x | x |  |
 
-| j) | közterületen, egyéb állatnak | x |  |  |  |  |  |
+| 11 | saját territóriumon, kutyának |  |  |  |  |  |
 
-| k) | maradandó | az ebbel egy háztartásban élő személynek |  | x | x | x | x | x |
+| 12 | közterületen, egyéb állatnak |  |  |  |  |  |
 
-| l) | az ebbel nem egy háztartásban élő személynek |  | x | x | x | x | x |
+| 13 | maradandó | az ebbel egy háztartásban élő személynek | x | x | x | x | x |
 
-| m) | közterületen, kutyának |  | x | x | x | x |  |
+| 14 | az ebbel nem egy háztartásban élő személynek | x | x | x | x | x |
 
-| n) | saját territóriumon, kutyának | x |  | x |  |  |  |
+| 15 | közterületen, kutyának | x | x | x | x |  |
 
-| o) | közterületen, egyéb állatnak | x | x | x |  |  |  |
+| 16 | saját territóriumon, kutyának |  | x |  |  |  |
 
-| p) | saját territóriumon, egyéb állatnak | x |  | x |  |  |  |
+| 17 | közterületen, egyéb állatnak | x | x |  |  |  |
 
-| q) | halálos | az ebbel egy háztartásban élő személynek |  | x | x | x | x | x |
+| 18 | saját territóriumon, egyéb állatnak |  | x |  |  |  |
 
-| r) | az ebbel nem egy háztartásban élő személynek |  | x | x | x | x | x |
+| 19 | halálos | az ebbel egy háztartásban élő személynek | x | x | x | x | x |
 
-| s) | közterületen, kutyának |  | x | x | x | x | x |
+| 20 | az ebbel nem egy háztartásban élő személynek | x | x | x | x | x |
 
-| t) | saját territóriumon, kutyának | x |  | x |  |  |  |
+| 21 | közterületen, kutyának | x | x | x | x | x |
 
-| u) | közterületen, egyéb állatnak | x | x |  |  | x |  |
+| 22 | saját territóriumon, kutyának |  | x |  |  |  |
 
-| v) | saját territóriumon, egyéb állatnak | x |  | x |  |  |  |
+| 23 | közterületen, egyéb állatnak | x |  |  | x |  |
 
-5. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^118]
+| 24 | saját territóriumon, egyéb állatnak |  | x |  |  |  |
+
+5. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^119]
 
 A.
 
@@ -88,4 +90,4 @@ Az ivartalanítás és a transzponderrel történő megjelölés megtörténtér
 
 7. Az eb egyéb egyedi jellemzői
 
-[^118]: Az 5. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^119]: Az 5. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be.

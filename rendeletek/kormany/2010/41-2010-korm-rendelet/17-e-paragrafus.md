@@ -1,6 +1,6 @@
-17/E. §[^75] (1)[^76] A veszélyes eb – a (2) bekezdésben foglaltakra való tekintettel – a veszélyesnek minősítést követő 60 nap elteltével kizárólag a járási állat-egészségügyi hatóság által kiadott engedéllyel, az abban előírt tartási feltételek betartása mellett, ivartalanítva és transzponderrel megjelölve tartható.
+17/E. §[^76] (1)[^77] A veszélyes eb – a (2) bekezdésben foglaltakra való tekintettel – a veszélyesnek minősítést követő 60 nap elteltével kizárólag a járási állat-egészségügyi hatóság által kiadott engedéllyel, az abban előírt tartási feltételek betartása mellett, ivartalanítva és transzponderrel megjelölve tartható.
 
-(2)[^77] Az engedély kiadását az eb tulajdonosa vagy az ebtartó a tulajdonossal együtt kérheti, az eb veszélyesnek nyilvánításáról szóló határozat véglegessé válását követő 15 napon belül.
+(2)[^78] Az engedély kiadását az eb tulajdonosa vagy az ebtartó a tulajdonossal együtt kérheti, az eb veszélyesnek nyilvánításáról szóló határozat véglegessé válását követő 15 napon belül.
 
 (3) A veszélyes eb tartásának engedélyezésére vonatkozó kérelemnek (a továbbiakban: kérelem) tartalmaznia kell:
 
@@ -22,6 +22,6 @@ h) az eb egyéb egyedi jellemzőit.
 
 (4) A kérelemhez csatolni kell a tartás helye szerinti ingatlan tulajdonostársainak, illetve haszonélvezőjének hozzájáruló nyilatkozatát, amennyiben az eb tartási helyéül szolgáló ingatlan közös tulajdonban van, illetve haszonélvezettel terhelt.
 
-[^75]: A 17/E. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^76]: A 17/E. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés c) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
-[^77]: A 17/E. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 286. § (3) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^76]: A 17/E. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^77]: A 17/E. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés c) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
+[^78]: A 17/E. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 286. § (3) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
