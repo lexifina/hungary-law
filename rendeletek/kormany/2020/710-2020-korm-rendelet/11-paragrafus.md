@@ -1,0 +1,1 @@
+## „c) teljesítésigazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy, az SZPI uniós feladatainak támogatásával kapcsolatban az Európai Területi Együttműködés határmenti programok keretében kötött támogatási szerződések esetén a külgazdasági ügyekért felelős miniszter vagy az általa írásban kijelölt személy,”
