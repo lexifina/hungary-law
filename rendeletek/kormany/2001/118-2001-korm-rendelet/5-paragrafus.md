@@ -28,7 +28,7 @@ cd) a ca) és cc) alpontban foglaltakra együttesen
 
 d) a magán-munkaközvetítő nyilatkozatait a 4/A. § a), c) és d) pontjában foglaltak teljesítéséről.
 
-(2)[^22] A 4. § (1) bekezdés c) pontjában és a 4/A. § c) pontjában meghatározott irodahelyiség akkor tekinthető megfelelőnek, ha a kérelemben feltüntetett módon van berendezve, vezetékes telefonvonallal rendelkezik, és a kérelmező az irodahelyiség használati jogát igazolni tudja.
+(2)[^22] A 4. § (1) bekezdés c) pontjában és a 4/A. § c) pontjában meghatározott irodahelyiség akkor tekinthető megfelelőnek, ha a kérelemben feltüntetett módon van berendezve, és a kérelmező az irodahelyiség használati jogát igazolni tudja.
 
 (3) A kérelmező köteles a végzettség vagy szakmai képesítés magyarországi elismerését igazolni, ha a 4. § (1) bekezdés b) pontjában és a 4/A. § (1) bekezdés a) pontjában foglalt feltétel vizsgálatához szükséges.
 
@@ -43,4 +43,4 @@ c) az ügyintézési határidő 25 nap.
 [^19]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 92. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^20]: Az 5. § (1) bekezdése a 273/2018. (XII. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^21]: Az 5. § (1a) bekezdését a 273/2018. (XII. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^22]: Az 5. § (2) bekezdése a 273/2018. (XII. 20.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (2) bekezdése a 273/2018. (XII. 20.) Korm. rendelet 12. § a) pontja, a 668/2020. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.
