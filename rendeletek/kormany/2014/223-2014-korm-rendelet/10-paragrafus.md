@@ -2,7 +2,7 @@
 
 ## 6. Vízügyi hatóságok, vízvédelmi hatóságok és szakhatóságok kijelölése
 
-10. § (1)[^11] Területi vízügyi hatóságként, továbbá területi vízvédelmi hatóságként és – ha kormányrendelet eltérően nem rendelkezik – első fokon
+10. § (1)[^11] Területi vízügyi hatóságként, továbbá területi vízvédelmi hatóságként és – ha kormányrendelet eltérően nem rendelkezik – a (2a) bekezdésben foglalt kivétellel első fokon
 
 1. a Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság,
 
@@ -32,9 +32,9 @@
 
 (2) A hatóság illetékességi területét a 2. melléklet határozza meg.
 
-(2a)[^13]
+(2a)[^13] A mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény esetében vízügyi hatóságként, vízvédelmi hatóságként, valamint szakhatóságként országos illetékességgel a Nemzeti Földügyi Központ mint öntözési igazgatási szerv jár el.
 
-(3)[^14] A Kormány országos vízügyi hatóságként, továbbá országos vízvédelmi hatóságként – országos illetékességgel – a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki, amely a hatóság első fokú vízügyi hatósági, vízvédelmi hatósági eljárása esetén másodfokon jár el.
+(3)[^14] A Kormány országos vízügyi hatóságként, továbbá országos vízvédelmi hatóságként – országos illetékességgel – a (2a) bekezdésben meghatározott kivétellel a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki, amely a hatóság első fokú vízügyi hatósági, vízvédelmi hatósági eljárása esetén másodfokon jár el.
 
 (3a)[^15] A területi vízvédelmi hatóság és az országos vízvédelmi hatóság a vízvédelmi szakkérdéseket – tekintettel a környezetet veszélyeztető hatásokon belül a vizek terhelésére és állapotromlására is – minden területi vízügyi hatósági és országos vízügyi hatósági eljárásban szakkérdésként vizsgálja.
 
@@ -56,10 +56,10 @@ b)[^18] – e rendeletben meghatározottaktól eltérően, érintettségük eset
 
 (8)[^20] A vízvédelmi hatóságok a víz mint környezeti elem védelme tekintetében – kormányrendeletben vagy miniszteri rendeletben foglalt esetekben, a környezetvédelmi feladat- és hatáskör részeként – ellátják a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezetvédelmi közigazgatási hatósági feladatokat.
 
-[^11]: A 10. § (1) bekezdés nyitó szövegrrésze a 457/2017. (XII. 28.) Korm. rendelet 505. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 10. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 505. § a) pontja, az 511/2020. (XI. 20.) Korm. rendelet 1. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^12]: A 10. § (1) bekezdés 11. pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
-[^13]: A 10. § (2a) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be, hatályon kívül helyezte a 35/2020. (III. 5.) Korm. rendelet 4. § (5) bekezdése.
-[^14]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 505. § b) pontja, az 518/2017. (XII. 29.) Korm. rendelet 37. §-a, a 368/2020. (VII. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^13]: A 10. § (2a) bekezdését újonnan az 511/2020. (XI. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A 10. § (3) bekezdése az 511/2020. (XI. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^15]: A 10. § (3a) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (2) bekezdése iktatta be.
 [^16]: A 10. § (3b) bekezdését a 35/2020. (III. 5.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^17]: A 10. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 278. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 505. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
