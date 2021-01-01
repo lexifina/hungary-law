@@ -1,0 +1,7 @@
+4. § (1) A Bt. 26/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Bányatelek megállapítását jogszerűen megszerzett adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett előkutatás adatai felhasználásával készített készletszámítási jelentés alapján is lehet kérelmezni. A készletszámítási jelentés alapján benyújtott kérelem esetén a bányafelügyelet felhívja a kérelmezőt – a kőolaj, földgáz, ideértve a szén-dioxid gáz ásványi nyersanyagra irányuló bányatelek-megállapítás kivételével – a környezetvédelmi engedélyezési eljárás megindítására és a környezetvédelmi engedélyezési eljárás véglegessé vált döntéssel való lezárásáig a bányatelek-megállapítási eljárást felfüggeszti.”
+
+(2) A Bt. 26/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.”
