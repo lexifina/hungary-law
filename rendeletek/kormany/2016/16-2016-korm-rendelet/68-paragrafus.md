@@ -8,6 +8,6 @@ a) igénylő: az adó-visszatérítési támogatást e rendelet szerinti feltét
 
 b) támogatott személy: akivel a hitelintézet az adó-visszatérítési támogatás igénybevételére támogatási szerződést köt,
 
-c)[^167] preferált kistelepülés: a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 2. melléklete szerinti település.
+c)[^184]
 
-[^167]: A 68. § c) pontját a 276/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be.
+[^184]: A 68. § c) pontját a 276/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 686/2020. (XII. 29.) Korm. rendelet 19. §-a.

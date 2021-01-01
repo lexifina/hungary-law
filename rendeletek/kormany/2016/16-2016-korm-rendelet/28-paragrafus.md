@@ -10,12 +10,12 @@ d) ha a támogatott személy vagy a gyermek, akire tekintettel a családi otthon
 
 e) a támogatott személy az 1. mellékletben nem szereplő vétség miatt letöltendő szabadságvesztés büntetését tölti,
 
-f)[^60] a nagykorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, elköltözik,
+f)[^66] a nagykorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, elköltözik,
 
-g)[^61] a kiskorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, a nagykorúvá válását követően elköltözik, vagy
+g)[^67] a kiskorú gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelték, a nagykorúvá válását követően elköltözik, vagy
 
-h)[^62] a támogatott személy és a gyermek a támogatott személy foglalkoztatásra irányuló jogviszonya következtében – ideértve a sajátos egyházi jogviszonyt is – a foglalkoztatásra irányuló jogviszony jellegéből következően köteles a szolgálati helyén a foglalkoztató által térítésmentesen biztosított szolgálati lakásban lakni a foglalkoztatásra irányuló jogviszony fennállása alatt.
+h)[^68] a támogatott személy és a gyermek a támogatott személy foglalkoztatásra irányuló jogviszonya következtében – ideértve a sajátos egyházi jogviszonyt is – a foglalkoztatásra irányuló jogviszony jellegéből következően köteles a szolgálati helyén a foglalkoztató által térítésmentesen biztosított szolgálati lakásban lakni a foglalkoztatásra irányuló jogviszony fennállása alatt.
 
-[^60]: A 28. § f) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^61]: A 28. § g) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^62]: A 28. § h) pontját a 273/2016. (IX. 15.) Korm. rendelet 7. §-a iktatta be.
+[^66]: A 28. § f) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^67]: A 28. § g) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^68]: A 28. § h) pontját a 273/2016. (IX. 15.) Korm. rendelet 7. §-a iktatta be.
