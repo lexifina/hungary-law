@@ -18,7 +18,7 @@ a) a meghatározott határidőre nem történik meg, vagy
 
 b) nem megfelelően történik,
 
-## a Hivatal elnöke a miniszterelnök utasítása alapján, a 11. § (3) bekezdésében foglaltak szerint soron kívüli kormányzati ellenőrzést rendelhet el, amelynek eredményéről a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja a miniszterelnököt.
+a Hivatal elnöke a miniszterelnök utasítása alapján, a 11. § (3) bekezdésében foglaltak szerint soron kívüli kormányzati ellenőrzést rendelhet el, amelynek eredményéről a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja a miniszterelnököt.
 
 (5) A (4) bekezdésben foglaltak szerinti kormányzati ellenőrzésre a 18. § (2) bekezdés b) pontját és a 31–37. §-okban foglaltakat nem kell alkalmazni.
 
