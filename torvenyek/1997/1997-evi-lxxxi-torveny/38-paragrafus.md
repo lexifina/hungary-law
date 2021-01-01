@@ -22,7 +22,7 @@ j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosí
 
 k) a szociális szövetkezeti tag tagi munkavégzésének időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
-l) a rendvédelmi egészségkárosodási járadék vagy a honvédelmi egészségkárosodási járadék folyósításának időtartamát.
+l) a rendvédelmi egészségkárosodási járadék a honvédelmi egészségkárosodási járadék vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartamát.
 
 (2) Szolgálati időként nem lehet figyelembe venni
 

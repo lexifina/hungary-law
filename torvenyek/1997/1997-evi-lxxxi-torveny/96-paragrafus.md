@@ -48,29 +48,31 @@ tarthatók nyilván.
 
 (2b) A nyugdíjbiztosítási igazgatási szervek a 883/2004/EK európai parlamenti és tanácsi rendelet 76. cikke szerinti együttműködés keretében az EGT-állam által nyújtott ellátások megállapítása, illetve folyósítása céljából, az ahhoz szükséges ideig kezelik a részükre megküldött, a (2) bekezdésben nem említett adatokat.
 
-(3) A 96. § (2) bekezdése alapján nyilvántartásba vett adatokból
+(3) A (2) bekezdés alapján nyilvántartásba vett adatokból
 
-a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében az a) pont szerinti adatok, valamint a d) pontból a munkahelyre vonatkozó,
+a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a (2) bekezdés a) és d) pontja,
 
-b) az állami adóhatóság, az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adó-végrehajtási eljárás lefolytatása érdekében, a támogatás megállapítása és ellenőrzése érdekében az a)–d) pontjai, az e) pontból a rokkantság fokára vonatkozó, valamint az f) pont,
+b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) pontja,
 
-c) a munkaügyi és szociális igazgatás szervei, az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi ellenőrzés céljából a (2) bekezdés a)–f) pontjai, a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontjai,
+c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása érdekében a (2) bekezdés a)–e) pontja,
 
-d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügyi szolgáltatói feladataik ellátása érdekében az a)–e) pontjai,
+d) a cégbíróság törvény,
 
-e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai és a cégbíróságok külön törvényben meghatározottak,
+e) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
 
-f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
+f) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), g) és h) pontja,
 
-g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai,
+g) a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontja,
 
-h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont,
+h) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából a (2) bekezdés a)–e) pontja,
 
-i) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), valamint a g)–h) pont,
+i) az oktatási nyilvántartás működéséért felelős szerv a pályakövetési rendszer működtetése céljából a (2) bekezdés d) pontja,
 
-j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés c) pontjában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
+j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
 
-szerinti adatok igénylésére jogosultak.
+k) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése érdekében a (2) bekezdés a), c) és h) pontja
+
+szerinti adatok igénylésére jogosult.
 
 (4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
