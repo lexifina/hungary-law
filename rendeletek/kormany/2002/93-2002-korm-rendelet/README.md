@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-93-20-2
 | 2018-01-01 | 2002-93-20-22.23 | 445/2017. (XII. 27.) Korm. rendelet |
 | 2018-07-31 | 2002-93-20-22.24 | 484/2015. (XII. 29.) Korm. rendelet |
 | 2019-12-24 | 2002-93-20-22.25 | 343/2019. (XII. 23.) Korm. rendelet |
+| 2021-01-01 | 2002-93-20-22.26 | 616/2020. (XII. 21.) Korm. rendelet |

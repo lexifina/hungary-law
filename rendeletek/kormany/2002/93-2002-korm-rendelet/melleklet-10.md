@@ -1,4 +1,4 @@
-10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^205]
+10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^210]
 
 ADATLAP
 
@@ -23,6 +23,8 @@ f) honlapjának címe,
 g) hivatalos képviselőjének neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége,
 
 h) által a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége.
+
+i) felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
 
 2. Az akkreditált szervezet által minősítésre benyújtott továbbképzési program
 
@@ -64,7 +66,7 @@ b) „Vállalom, hogy akkreditált szervezetünk
 
 c) „Kijelentem, hogy akkreditált szervezetünk
 
-– létesítő okirata alapján a felnőttek szakmai oktatására irányuló oktatási, képzési, oktatásszervezési tevékenységet folytat,
+– a felnőttképzési törvény szerinti felnőttképző,
 
 – teljeskörűen megfelel a Rendeletben foglalt továbbképzéssel kapcsolatos követelményeknek,
 
@@ -88,4 +90,4 @@ e) „Kijelentem, hogy akkreditált szervezetünk elektronikus továbbképzési 
 
 6. Cégszerű aláírás
 
-[^205]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 23. § 3. pontjával megállapított szöveg.
+[^210]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 23. § 3. pontjával megállapított, a 616/2020. (XII. 21.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.

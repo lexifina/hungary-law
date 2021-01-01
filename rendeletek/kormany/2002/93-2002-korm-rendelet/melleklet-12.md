@@ -1,4 +1,4 @@
-12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^209]
+12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^215]
 
 ## ADATLAP a szakmai szervezeti minősítési eljárás iránti kérelemhez
 
@@ -48,5 +48,5 @@ c) „Kijelentem, hogy szakmai szervezetünk minden továbbképzési év tekinte
 
 5. Cégszerű aláírás
 
-[^209]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 8. § (4) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 85. § (4) bekezdése, a 445/2017. (XII. 27.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
+[^215]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 8. § (4) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 85. § (4) bekezdése, a 445/2017. (XII. 27.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
 [^1.]: A Rendelet 10/B. § (8a) bekezdése szerinti szakmai szervezeti minősítési eljárás esetén alkalmazandó.

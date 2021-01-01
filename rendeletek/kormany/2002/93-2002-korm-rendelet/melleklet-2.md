@@ -106,7 +106,7 @@
 
 ## 6. A kérelmező aláírása8
 
-2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^180]
+2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^182]
 
 [^1.]: Az adatlap letölthető az egységes Kormányzati Portálról.
 [^2.]: Nyilvántartásba történő felvétel kérelmezése esetén – a 3. pontban foglaltak kivétel – az adatlap valamennyi adatát kötelező megadni. A 3. pontban szereplő adatok önkéntes adatszolgáltatás alapján kerülnek a nyilvántartásba.
@@ -115,4 +115,4 @@
 [^5.]: Akkor kötelező megadni, amennyiben a kérelmező a nyilvántartásban már szerepel/szerepelt.
 [^6.]: Hozzájárulás esetén a megfelelő személyes adatok külön-külön egyértelműen megjelölendők.
 [^8.]: Akkor kötelező kitölteni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^180]: A 2. számú mellékletet a 480/2016. (XII. 28.) Korm. rendelet a 85. § 14. pontja hatályon kívül helyezte.
+[^182]: A 2. számú mellékletet a 480/2016. (XII. 28.) Korm. rendelet a 85. § 14. pontja hatályon kívül helyezte.
