@@ -16,7 +16,7 @@ illetménynek megfelelő összeg.
 
 a) az Országgyűlés Hivatalánál munkaviszonyban, közszolgálati jogviszonyban töltött időt,
 
-b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati és állami szolgálati jogviszonyban töltött időt,
+b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati, állami szolgálati jogviszonyban, valamint az adó- és vámhatósági szolgálati jogviszonyban töltött időt,
 
 c) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 

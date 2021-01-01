@@ -30,7 +30,7 @@
 
 15. a Gazdasági Versenyhivatal elnöke, elnökhelyettese,
 
-16. az Egyenlő Bánásmód Hatóság elnöke, elnökhelyettese,
+16.
 
 17. a Nemzeti Adatvédelmi és Információszabadság Hatósága elnöke, elnökhelyettese,
 
