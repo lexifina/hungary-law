@@ -1,0 +1,1 @@
+## „5. szálláshelykezelő szoftver: a szálláshely-szolgáltató által kötelezően használt olyan informatikai program, amely okmányolvasóval kialakított kapcsolattal rendelkezik és amely a Nemzeti Turisztikai Adatszolgáltató Központ valamint a tárhely számára adatok továbbítására alkalmas, továbbá a Turizmus tv. 9/I. § (2) bekezdése szerinti szoftver;”
