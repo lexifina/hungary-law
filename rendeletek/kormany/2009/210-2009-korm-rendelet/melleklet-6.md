@@ -28,7 +28,7 @@ Termékkörök
 
 1.12. Közérzetjavító és étrend-kiegészítő termék (gyógynövény, biotermék, testépítő szer stb.);
 
-2.[^76] Dohányterméket kiegészítő termék;
+2.[^78] Dohányterméket kiegészítő termék;
 
 3. Textil (szövet, ruházati méteráru, háztartási textiltermék, lakástextília, ágynemű, asztalterítő, törölköző, kötőfonal, hímzéshez, valamint takaró és szőnyeg készítéséhez szükséges alapanyag, rövidáru, tű, varrócérna, gomb stb.);
 
@@ -68,7 +68,7 @@ Termékkörök
 
 21. Háztartási tisztítószer, vegyi áru;
 
-22.[^77] Gépjármű-kenőanyag, -hűtőanyag, adalékanyag és a jövedéki adóról szóló törvény szerinti üzemanyag;
+22.[^79] Gépjármű-kenőanyag, -hűtőanyag, adalékanyag és a jövedéki adóról szóló törvény szerinti üzemanyag;
 
 23. Háztartási tüzelőanyag;
 
@@ -144,5 +144,5 @@ Termékkörök
 
 59. Egyéb (jelölje meg).
 
-[^76]: A 6. melléklet 2. pontja a 8/2013. (I. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^77]: A 6. melléklet 22. pontja a 419/2016. (XII. 14.) Korm. rendelet 4. § d) pontjával megállapított szöveg.
+[^78]: A 6. melléklet 2. pontja a 8/2013. (I. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^79]: A 6. melléklet 22. pontja a 419/2016. (XII. 14.) Korm. rendelet 4. § d) pontjával megállapított szöveg.

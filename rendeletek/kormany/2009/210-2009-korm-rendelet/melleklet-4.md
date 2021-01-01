@@ -1,3 +1,137 @@
-4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^74]
+4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^76]
 
-[^74]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+Vendéglátóhely üzlettípusok és azok jellemzői
+
+1. Étterem
+
+| Fő terméktípusa: | Melegétel |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5610 – Éttermi, mozgó vendéglátás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás lehet hagyományos vagy önkiszolgáló, többször használatos edényekben (étkészlet, poharak stb.). Vendégtérrel rendelkezik, a vendégeknek biztosítani kell a helyszíni fogyasztás lehetőségét. |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket helyben készítik, főzőkonyhával rendelkezik. |
+
+2. Büfé
+
+| Fő terméktípusa: | Melegétel/hidegétel |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5610 – Éttermi, mozgó vendéglátás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
+
+3. Cukrászda
+
+| Fő terméktípusa: | Cukrászati készítmény, édesipari termék |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5610 – Éttermi, mozgó vendéglátás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
+
+| Konyha jellege, ételkészítés helye: | A cukrászati termékeket nem feltétlenül a helyszínen készítik. |
+
+4. Kávézó, alkoholmentes italokra specializálódott vendéglátóhely
+
+| Fő terméktípusa: | Kávéital, alkoholmentes ital |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5630 – Italszolgáltatás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
+
+5. Italüzlet, bár
+
+| Fő terméktípusa: | Szeszes ital |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5630 – Italszolgáltatás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
+
+6. Zenés-táncos szórakozóhely
+
+| Fő terméktípusa: | Szeszes ital |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5630 – Italszolgáltatás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | Zenés szolgáltatást nyújt, tánctérrel rendelkezik. A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (poharak stb.). |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
+
+7. Munkahelyi/közétkeztetést végző vendéglátóhely
+
+| Fő terméktípusa: | Melegétel/hidegétel |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5629 – Egyéb vendéglátás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás lehet hagyományos vagy önkiszolgáló, többször használatos edényekben (étkészlet, poharak stb.). Vendégtérrel rendelkezik, a helyszíni fogyasztás lehetőségét kötelező biztosítania. |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik, minimum tálalóval vagy melegítőkonyhával kell rendelkeznie. |
+
+8. Gyorsétterem
+
+| Fő terméktípusa: | Melegétel/hidegétel |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5610 – Éttermi, mozgó vendéglátás |
+
+| Üzemeltetés típusa | Egész éven át nyitva tartó/időszakos |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik, minimum befejező konyhával rendelkezik. |
+
+9. Rendezvényi étkeztetés
+
+| Fő terméktípusa: | Melegétel/hidegétel |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5621 – Rendezvényi étkeztetés |
+
+| Üzemeltetés típusa | Alkalmi |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás helye a rendezvény. A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
+
+10. Alkalmi vendéglátóhely
+
+| Fő terméktípusa: | Melegétel/hidegétel, kávéital, alkoholmentes és szeszes ital |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5610 – Éttermi, mozgó vendéglátás |
+
+| Üzemeltetés típusa | Alkalmi |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | Meghatározott helyen üzemel. A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Pl. Telepített food truck, borozó egy borfesztiválon |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
+
+11. Mozgó vendéglátóhely
+
+| Fő terméktípusa: | Melegétel/hidegétel, kávéital, alkoholmentes és szeszes ital |
+
+| Tevékenység TEÁOR kódja | TEÁOR’08: 5610 – Éttermi, mozgó vendéglátás |
+
+| Üzemeltetés típusa | Alkalmi |
+
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | Folyamatosan változtatja a helyét, nem tartózkodik huzamosabb ideig egy helyben. A kiszolgálás önkiszolgáló értékesítés formájában történik nem biztosít ülőhelyet, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Pl. Mozgó food truck, mozgó (kiskocsin) borozó egy borfesztiválon |
+
+| Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
+
+[^76]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte, újonnan a 634/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be.

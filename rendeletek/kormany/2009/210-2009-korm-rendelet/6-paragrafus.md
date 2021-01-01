@@ -1,6 +1,6 @@
 ## A kereskedelmi tevékenység bejelentésével kapcsolatos eljárás
 
-6. § (1)[^8] A kereskedő a Kertv. 3. § (1) bekezdése szerinti bejelentésének az 1. melléklet A) pontjában meghatározott adatokat kell tartalmaznia. A bejelentésről a 2. § a) és b) pontjában meghatározott hatóság (a továbbiakban: jegyző) a 2. melléklet A) pontjában meghatározott adattartalommal nyilvántartást vezet. A nyilvántartás a 2. melléklet A) pontjában meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A jegyző által vezetett nyilvántartás nyilvános, a jegyző a nyilvántartást az önkormányzat honlapján közzéteszi.
+6. § (1)[^8] A kereskedő a Kertv. 3. § (1) bekezdése szerinti bejelentésének az 1. melléklet A) pontjában meghatározott adatokat kell tartalmaznia. A bejelentést a 2. § a) és b) pontjában meghatározott hatóság (a továbbiakban: jegyző) a 2. melléklet A) pontjában meghatározott adattartalommal nyilvántartásba veszi. A nyilvántartás a 2. melléklet A) pontjában meghatározott adatok tekintetében – azon adatok kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 (2)[^9] A jegyző a Kertv. szerinti vendéglátás folytatása esetén a bejelentés másolatát elektronikus úton megküldi a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló kormányrendelet szerint a környezeti zajkibocsátási határérték megállapítására hatáskörrel és illetékességgel rendelkező környezetvédelmi hatóságnak, kivéve, ha ezen ügyben ugyanazon jegyző jár el.
 
@@ -28,7 +28,7 @@ b) élelmiszer, takarmány, állatgyógyászati készítménynek nem minősülő
 
 (8)[^17] A kereskedelmi tevékenység bejelentésekor a kereskedőnek szükséges igazolnia az üzlet használatának jogcímét, haszonélvezet esetében a haszonélvező hozzájárulását, illetve a közös tulajdonban álló üzlet esetében a tulajdonostársak hozzájárulását.
 
-[^8]: A 6. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 112. § (2) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^8]: A 6. § (1) bekezdése a 611/2020. (XII. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: A 6. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 112. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^10]: A 6. § (2a) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^11]: A 6. § (2b) bekezdését az 524/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 116. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 143. § (3) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 266. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
