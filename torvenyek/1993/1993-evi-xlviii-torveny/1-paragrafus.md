@@ -46,6 +46,8 @@ a) a szén-dioxidnak új termékekkel és eljárásokkal kapcsolatos kutatás é
 
 b) a kézi erővel végzett aranymosás.
 
+c) a nemzeti vagyonba tartozó vizek medrében azok fenntartója által végzett közcélú fenntartási tevékenység során a mederből mederanyag eltávolítása.
+
 (6) A felsorolt — és e törvény hatálya alá tartozó — tevékenységekhez szükséges létesítményeknek minősülnek a bányavasutak, a bányászati kötélpályák és szalagpályák, továbbá a mezőn belüli és a mezők közötti gyűjtő vezetékek.
 
 (7) A bányafelügyelet engedélyétől eltérő, más hatósági engedély alapján végzett, valamint katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet elhárításához szükséges ásványi nyersanyag kitermelésre a 3. §, 20. §, 25. §, 41. §, 41/A. § és 44. § rendelkezéseit kell alkalmazni.

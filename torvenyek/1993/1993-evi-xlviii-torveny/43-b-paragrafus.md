@@ -1,4 +1,16 @@
-43/B. § (1) A szilárd ásványi nyersanyag esetében a bányatelek megállapítására indított eljárásban, a kutatási, kitermelési, szüneteltetési vagy bányabezárási, valamint mezőfelhagyási műszaki üzemi tervek jóváhagyására indult eljárásban, továbbá a bányafelügyelet építésügyi hatósági hatáskörébe tartozó engedélyezési eljárásokban a műszaki üzemi tervben tervezett bányászati tevékenységgel ténylegesen igénybe vett területekkel, valamint a létesítmény és biztonsági övezete területével érintett ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
+43/B. § (1) A szilárd ásványi nyersanyag esetében ügyfélnek minősül
+
+a) a bányatelek megállapítására indított eljárásban,
+
+b) a kutatási, kitermelési, szüneteltetési vagy bányabezárási, valamint mezőfelhagyási műszaki üzemi tervek jóváhagyására indult eljárásban,
+
+c) a bányafelügyelet építésügyi hatósági hatáskörébe tartozó – a műszaki üzemi tervben tervezett bányászati tevékenységgel ténylegesen igénybe vett területekkel, a létesítmény és biztonsági övezete területével kapcsolatos – engedélyezési eljárásokban,
+
+d) az építőipari nyers- és alapanyag esetében a hatósági engedély alapján gyakorolt bányászati jog átruházásához való hozzájárulás iránti eljárásban
+
+a bányászati joggal érintett ingatlan tulajdonosa.
+
+(1a) Az (1) bekezdésben felsorolt eljárásokban ügyfélnek minősül az is, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
 (2) A bányatelek megállapítására indított eljárásban a megyei területrendezési tervekkel való összhang vonatkozásában a megyei önkormányzat ügyfélnek minősül.
 

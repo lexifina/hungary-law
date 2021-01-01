@@ -1,6 +1,6 @@
 ## Bírság, intézkedések és biztosítékok
 
-41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújtja és eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére. Jogosulatlanul az folytat bányászati tevékenységet, aki
+41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújtja és a jogsértő magatartás abbahagyására, valamint a jogosulatlanul kitermelt érték megfizetésére kötelezi. Jogosulatlanul az folytat bányászati tevékenységet, aki
 
 a)
 
@@ -22,7 +22,7 @@ a) a bányafelügyelet engedélye nélkül vagy attól eltérően,
 
 b) e törvény III. Részében előírt szabályok megszegésével,
 
-c) a bányajáradék megállapítására vonatkozó, jogszabályban előírt bejelentési, önbevallási vagy befizetési kötelezettségét hibásan, késedelmesen vagy azt elmulasztva,
+c) a felügyeleti díj vagy a bányajáradék megállapításával összefüggő, jogszabályban előírt bejelentési, önbevallási vagy befizetési kötelezettség hibás, késedelmes teljesítésével vagy annak elmulasztásával,
 
 d) a bányászati tevékenység során keletkező hulladék kezelésére vonatkozó szabályok megsértésével,
 

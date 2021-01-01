@@ -34,4 +34,14 @@ b) célkitermelőhely vagy bánya rekultiválására felhasznált
 
 (3) A bányászati ügyekért felelős miniszter (a továbbiakban: miniszter) — a (4) bekezdésben szabályozott esetek kivételével — a 8. §-ban felsorolt tevékenységek gyakorlását koncessziós szerződéssel meghatározott időre átengedheti.
 
-(4) E törvény 4. §-ában meghatározott felszíni előkutatás bejelentés alapján, az 5—6. §-okban szabályozott bányászati tevékenységek hatósági engedély alapján végezhetők (liberalizált tevékenységek), az 50. § (6) bekezdésében meghatározott esetekben pedig e törvény alapján folytathatók.
+(4) A 4. §-ban meghatározott előkutatás bejelentés alapján, az 5. § (1) és (2) bekezdésében szabályozott bányászati tevékenységek, valamint a 6. § szerinti bányászatijog-átruházás hatósági engedély alapján végezhetők.
+
+(5) A bányafelügyelet ellenőrzi az előkutatás-bejelentés jogszabályban előírt kötelezettségének teljesítését. Ha a bányafelügyelet az ellenőrzés során megállapítja, hogy
+
+a) az előkutatás-bejelentés a jogszabályi előírásoknak nem felel meg,
+
+b) a bejelentésköteles tevékenységet bejelentés nélkül ténylegesen folytatják, vagy
+
+c) a bejelentés már megállapított bányászati jogot érintene,
+
+megtiltja az adott tevékenység folytatását.

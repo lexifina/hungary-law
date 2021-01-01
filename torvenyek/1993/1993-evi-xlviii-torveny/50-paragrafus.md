@@ -12,13 +12,7 @@
 
 (5) A törvény 9. §-ában megjelölt területek minősítéséről, a minősítések ötévenként történő felülvizsgálatáról és a koncesszióra jelölhető zárt területek közzétételéről a bányafelügyelet gondoskodik.
 
-(6) E törvény hatálybalépésekor bányászati joggal rendelkező gazdálkodó szervezetek és természetes személyek
-
-a) a bányászati tevékenységet a művelés alatt álló bányáikban tovább folytathatják; valamint
-
-b) kitermelési jogot szereznek az általuk már megkutatott és bányatelekkel lefedett azon területekre, amelyek feltárását a 15. §-ban meghatározott feltételek megfelelő alkalmazása mellett vállalják; továbbá
-
-c) a kiadott és érvényes kutatási engedélyükben meghatározott nyersanyagra a folyamatban lévő kutatásaikat, az engedélyükben meghatározott határidőre, legfeljebb azonban 4 éven belül befejezhetik és a bányatelek megállapítását követően munkaprogram benyújtásával a feltárásra és a kitermelésre koncessziós szerződés megkötését kezdeményezhetik a miniszternél, illetőleg az 5. §-ban, valamint a koncesszióról szóló 1991. évi XVI. törvény 2. §-ának a) pontjában meghatározott esetekben a bányafelügyelettől az engedély megadását (23. §) kérhetik.
+(6) A bányászatról szóló 1993. évi XLVIII. törvény módosításáról szóló 2020. évi CLXI. törvénnyel (a továbbiakban: Módtv.4.) megállapított 3. § (4) és (5) bekezdését, 4. §-át, 26/A. § (2) bekezdését, 41. § (3) bekezdés c) pontját, 43/B. § (1) és (1a) bekezdését, 48. §-át, 49. § 55. és 56. pontját a Módtv.4. hatályba lépésekor folyamatban levő jogviszonyokban és ügyekben is alkalmazni kell.
 
 (7) A különleges módszerrel végzett kutatás esetében a kutató kérelmére a miniszter a (6) bekezdés c) pontjában meghatározott határidőnél legfeljebb 2 évvel hosszabb határidőt megállapíthat.
 

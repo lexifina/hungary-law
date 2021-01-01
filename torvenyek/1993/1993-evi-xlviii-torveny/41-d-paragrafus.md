@@ -1,0 +1,1 @@
+41/D. § Ha a robbanóanyag-gyártó létesítmény, -építmény, -épület, -műtárgy, -tűzszakasz, -helyiség, -szabadtér biztonsági felülvizsgálata során az ellenőrző szerv a létesítmény nem kielégítő biztonságát állapítja meg, a munkavédelmi hatóság a létesítmény vagy annak egyes részei üzemeltetését – a kielégítő biztonság ismételt megvalósításáig – felfüggeszti.

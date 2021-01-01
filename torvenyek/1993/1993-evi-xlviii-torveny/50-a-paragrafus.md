@@ -88,6 +88,8 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 31. a bányászati hatósági feladatokat ellátó szervek által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokra
 
+32. az állami elővásárlási jog szempontjából védettnek minősülő ingatlanok esetében az állami elővásárlási jog gyakorlására
+
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter

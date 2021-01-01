@@ -18,7 +18,7 @@ h) a bányafelügyelet hatáskörébe tartozó polgári robbantási tevékenysé
 
 (1a) Ha az (1) bekezdés d) pontja szerinti jogsértést az ingatlan tulajdonosa (kezelője, használója) követi el, a bírság vele szemben akkor alkalmazható, ha az ingatlan tulajdonosa (kezelője, használója) az (1) bekezdés d) pontja szerinti létesítmény tulajdonosát vagy üzemeltetőjét a jogellenes állapot megszüntetésében akadályozza.
 
-(1b) Az (1) bekezdés d) pontjában meghatározott jogsértések megállapítására és bírság kiszabására a jogsértő magatartás elkövetésétől számított 10 évig indítható eljárás.
+(1b)
 
 (2) A bányafelügyelet bírsággal sújtja azt a természetes személyt, aki a bányafelügyelet hatósági felügyeleti jogkörébe tartozó tevékenységgel összefüggésben
 
