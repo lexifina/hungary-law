@@ -1,3 +1,3 @@
 ## 13. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-36. §
+36. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 17. § (2) bekezdés a) pontjában a „Nemzeti Foglalkoztatási Alap” szövegrész helyébe a „foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap” szöveg lép.

@@ -10,11 +10,11 @@
 
 5.
 
-6.
+6. 14. § (4) bekezdés b) pontjában az „a Magyar Nemzeti Vagyonkezelő” szövegrész helyébe az „az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő” szöveg,
 
-7.
+7. 28. § (1) bekezdésében az „uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok” szövegrész helyébe az „uniós fejlesztések fejezetébe sorolt központi kezelésű és fejezeti kezelésű előirányzatok” szöveg,
 
-8.
+8. 36. § (4a) bekezdésében a „fejezeti kezelésű előirányzatok” szövegrész helyébe a „fejezeti kezelésű előirányzatok, központi kezelésű uniós előirányzatok” szöveg,
 
 9.
 

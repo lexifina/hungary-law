@@ -1,1 +1,3 @@
-105. §
+105. § Az adózás rendjéről szóló 2017. évi CL. törvény 113/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az adózó a 113. § (4) és (5) bekezdése szerinti bejelentésben az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott, a fuvarozás megkezdését követően módosítható adatot hibásan adta meg, az e törvény végrehajtására kiadott miniszteri rendelet szerinti lezárt bejelentést egy alkalommal, a lezárást követő három munkanapon belül, legkésőbb az állami adó- és vámhatóság adott szállítmánnyal közvetlenül összefüggő ellenőrzésének megkezdéséig módosíthatja. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.”

@@ -1,1 +1,3 @@
-38. §
+38. § A kereskedelemről szóló 2005. évi CLXIV. törvény „A kereskedelmi tevékenységek folytatásának egyéb feltételei” című alcíme a következő 5/F. §-sal egészül ki:
+
+„5/F. § A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet 1. §-a szerinti kereskedő köteles biztosítani a fogyasztó számára az elektronikus fizetés lehetőségét és annak folyamatos rendelkezésre állását.”

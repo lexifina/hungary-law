@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-76-00-00
 | 2020-09-03 | 2010. évi CXXX. törvény | 2020-76-00-00.11 |
 | 2020-09-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-76-00-00.12 |
 | 2020-09-21 | 2010. évi CXXX. törvény | 2020-76-00-00.13 |
+| 2021-01-01 | 2020. évi CXVIII. törvény | 2020-76-00-00.14 |
