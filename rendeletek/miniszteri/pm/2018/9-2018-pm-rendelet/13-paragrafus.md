@@ -1,3 +1,5 @@
+## 12. §
+
 ## 7. A regionális beruházási támogatás
 
 13. § (1) A regionális beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás

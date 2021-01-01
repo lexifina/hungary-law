@@ -1,18 +1,23 @@
 ## 59. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-## 60. § Az 1. mellékletben foglalt táblázat
+60. §[^37] (1) Az 1. mellékletben foglalt táblázat
 
-a) 11–13. sora az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190., 2014.6.28., 45. o.),
+a) 4. sora, 6. sora és F:7. mező 3. és 4. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 1. o.),
 
-b)[^43] 11–13. sora, F:15 mező d) pontja, F:18 mező 1. pontja, 20. sora, 20a. sora, 23. sora, 24. sora és 37–39. sora az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 1. o.),
+b) 4. sora és 6. sora a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló 2017. június 14-i 2017/1084/EU bizottsági rendelettel (HL L 156., 2017. 06. 20., 1. o.) módosított, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 6. 26., 1. o.) I. és II. Fejezete, valamint 13., 14., 16–18., 21., 22., 25., 26., 38., 39. és 56. cikke,
 
-c)[^44] 11–13. sora és 15. sor d) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 9. o.),
+c) 4. sora és 6. sora az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1., 3.6. és 3.8. szakasza
 
-d)[^45] F:15 mező d) pontja, F:18 mező 1. pontja, 20. sora, 20a. sora és 23. sora a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelettel (HL L 156., 2017. 06. 20., 1. o.) módosított, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 6. 26., 1. o.) I. és II. Fejezete, valamint 13., 14., 16–18., 21., 22., 25., 26., 28., 31., 32., 38., 39., 41., 45., 53., 55. és 56. cikke,
+## hatálya alá tartozó támogatást tartalmaz.
 
-e)[^46] 20. sora, 20a. sora és 23. sora az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1., 3.6. és 3.8. szakasza
+(2) A 2. mellékletben foglalt táblázat
 
-[^43]: A 60. § b) pontja a 8/2020. (VII. 31.) PM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^44]: A 60. § c) pontja a 23/2019. (XII. 23.) PM rendelet 2. §-ával megállapított szöveg.
-[^45]: A 60. § d) pontja a 8/2020. (VII. 31.) PM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^46]: A 60. § e) pontját a 2/2020. (V. 22.) PM rendelet 3. §-a iktatta be, szövege a 8/2020. (VII. 31.) PM rendelet 10. § (2) bekezdésével megállapított szöveg.
+a) F:3. mező 1–4. pontja, F:4. mező 1., 5. és 6. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 1. o.),
+
+b) F:4. mező 5. és 6. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 9. o.),
+
+c) F:3. mező, F:4. mező 1., 5. és 6. pontja a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló 2017. június 14-i 2017/1084/EU bizottsági rendelettel (HL L 156., 2017. 06. 20., 1. o.) módosított, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 6. 26., 1. o.) I. és II. Fejezete, valamint 13., 14., 17., 18., 22., 25., 26., 28., 31., 32., 38., 41., 45., 53., 55. és 56. cikke,
+
+d) F:3. mező 5. pontja az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1. szakasza
+
+[^37]: A 60. § a 24/2020. (XII. 30.) PM rendelet 5. §-ával megállapított szöveg.

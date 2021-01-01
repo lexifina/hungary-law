@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-9-20-53
 | 2020-05-23 | 2018-9-20-53.6 | 2/2020. (V. 22.) PM rendelet |
 | 2020-08-01 | 2018-9-20-53.7 | 8/2020. (VII. 31.) PM rendelet |
 | 2020-12-16 | 2018-9-20-53.8 | 14/2018. (XII. 18.) PM rendelet |
+| 2021-01-01 | 2018-9-20-53.9 | 24/2020. (XII. 30.) PM rendelet |
