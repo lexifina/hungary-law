@@ -1,0 +1,3 @@
+## 4. § A gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet (a továbbiakban: R2.) 1. §-a a következő (3) bekezdéssel kiegészülve lép hatályba:
+
+## „(3) Az e rendelet szerinti támogatás lakáscélú állami támogatásnak minősül, amelyet az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet 12. § (2) bekezdése, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet [a továbbiakban: 17/2016. (II. 10.) Korm. rendelet] 3. § (2) bekezdése alkalmazása során nem kell figyelembe venni.”
