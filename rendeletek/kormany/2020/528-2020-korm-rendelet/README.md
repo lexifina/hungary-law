@@ -1,0 +1,9 @@
+# 528/2020. (XI. 28.) Korm. rendelet
+
+az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-528-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-01-01 | 2020-528-20-22.1 | 528/2020. (XI. 28.) Korm. rendelet |

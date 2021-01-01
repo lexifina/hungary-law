@@ -1,0 +1,1 @@
+## 21. § Az egészségügyi szolgálati jogviszonyban álló személy szakmai gyakorlatának idejébe be kell számítani az Nftv. 52. § (5) bekezdés a) pontjának hatálya alá tartozó egészségtudományi képzési területeken, a Magyar Képesítési Keretrendszer 5. szintjéhez tartozó szakirányú végzettséggel betöltött munkakör gyakorlati idejét.

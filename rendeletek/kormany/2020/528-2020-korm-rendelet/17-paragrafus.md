@@ -1,0 +1,1 @@
+## 16. § Rendkívüli munkaidőben történő munkavégzést írásban kell elrendelni, kivéve a készenlét ideje alatti munkavégzést. Teljes napi munkaidő esetén naptári évenként kétszázötven óra rendkívüli munkaidő rendelhető el.
