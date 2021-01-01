@@ -22,4 +22,4 @@ létesített, határozott időre szóló munkaviszony,
 
 7. idénymunka: az Mt. 90. § c) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
 
-8. filmipari statiszta: az a természetes személy, aki a 3711 FEOR számmal azonosított foglalkozásúnak minősül, feltéve, hogy tevékenysége a mozgóképről szóló 2004. évi II. törvényben meghatározott filmalkotás elkészítésében való kisegítő (pótolható) jellegű részvételre irányul és e tevékenységből származó napi nettó jövedelme nem haladja meg az e törvényben meghatározott mértéket.
+8. filmipari statiszta: az a természetes személy, aki a 3711 FEOR számmal azonosított foglalkozásúnak minősül, feltéve, hogy tevékenysége a szerzői jogról szóló 1999. évi LXXVI. törvény 64. § (1) bekezdés szerinti filmalkotás elkészítésében való kisegítő (pótolható) jellegű részvételre irányul és e tevékenységből származó napi nettó jövedelme nem haladja meg az e törvényben meghatározott mértéket.
