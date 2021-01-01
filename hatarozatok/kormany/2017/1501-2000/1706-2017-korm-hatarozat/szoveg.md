@@ -2,11 +2,7 @@ A Kormány
 
 1. egyetért a Pécsi Vasutas Sportkör részére bemutatott és általa megtárgyalt 2017–2019. évekre vonatkozó centenáriumi sportinfrastruktúra-fejlesztési stratégiájával (a továbbiakban: Stratégia) és támogatja annak megvalósítását – az ingatlanszerzésre fordítandó összegen felül – 4 595 721 ezer forint értékben,
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcímet, 63. Pécsi Vasutas Sportkör sportinfrastruktúra-fejlesztéseinek támogatása jogcímcsoporttal egészíti ki,
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+2.[^1]
 
 3. felhívja a nemzetgazdasági minisztert, hogy a Stratégia megvalósítása érdekében, szem előtt tartva a helyi és térségi gazdaságfejlesztés szempontjait is, a nemzeti fejlesztési miniszter bevonásával gondoskodjanak
 
@@ -65,3 +61,5 @@ Felelős: nemzetgazdasági miniszter
 nemzeti fejlesztési miniszter
 
 Határidő: felmerülés ütemében
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
