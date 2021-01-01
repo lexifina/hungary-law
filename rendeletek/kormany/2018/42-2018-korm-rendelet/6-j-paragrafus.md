@@ -1,3 +1,3 @@
-## 6/H. §[^14] Az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet hatálya nem terjed ki a Beruházás keretében megvalósuló, időszakos használatú sportcélú épületekre és az egyes épületeken belüli önálló rendeltetési egységekre.
+## 6/I. §[^17] A Kormány a Beruházás során a 4. mellékletben meghatározott ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon az építési tevékenység elvégzéséhez szükséges ingyenes közterület használatának feltétlenül szükséges időtartamát 2021. január 1-jétől számított 45 hónapban határozza meg.
 
-[^14]: A 6/H. §-t a 239/2018. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 6/I. §-t a 729/2020. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
