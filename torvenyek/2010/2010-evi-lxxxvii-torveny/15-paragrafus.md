@@ -8,7 +8,7 @@
 
 a) a földhasználók helyzetének stabilizálása, fejlődésük elősegítése;
 
-b) családi gazdaságok kialakítása és megerősítése;
+b) őstermelők családi gazdaságainak kialakítása és megerősítése;
 
 c) környezetbarát, a fenntartható gazdálkodást szolgáló termelés földhasznosítás oldaláról történő támogatása;
 

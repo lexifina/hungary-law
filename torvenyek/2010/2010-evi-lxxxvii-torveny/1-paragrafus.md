@@ -28,7 +28,7 @@ e) a termőföld védelméről szóló törvényben állandó jellegű növényh
 
 (3) A Nemzeti Földalap rendeltetése:
 
-a) működőképes családi gazdaságok kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;
+a) működőképes őstermelők családi gazdaságainak kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;
 
 b) a földárak és -haszonbérek alakulásának befolyásolása;
 

@@ -12,7 +12,7 @@ d) olyan közérdekű vagyonkezelő alapítvánnyal, amelynek elsődleges felada
 
 (3) Központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 
-(4)
+(4) A (2) bekezdés alkalmazásában 100%-os állami tulajdonban álló gazdálkodó szervezetnek kell tekinteni a Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény 3. § (4) bekezdése szerint tulajdonba adott gazdasági társaságot.
 
 (5) Vagyonkezelési szerződés – az (5a) bekezdésben meghatározott esetek kivételével – határozott időtartamra köthető, amelynek időtartama legalább 5 év, legfeljebb a mező- és erdőgazdasági földek forgalmáról szóló törvényben előírt, a földre vonatkozó haszonbérleti szerződés leghosszabb időtartama lehet.
 

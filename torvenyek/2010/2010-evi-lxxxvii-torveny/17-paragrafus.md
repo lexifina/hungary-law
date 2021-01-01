@@ -42,7 +42,7 @@ ap) számlavezető pénzintézetének nevét,
 
 aq) bankszámlaszámát,
 
-ar) családi gazdálkodó nyilvántartásba vételéről szóló határozat számát;
+ar) őstermelők családi gazdaságának nyilvántartásba vételéről szóló határozat számát;
 
 b) gazdálkodó szervezet esetében
 

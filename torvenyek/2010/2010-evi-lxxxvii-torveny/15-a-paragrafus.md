@@ -6,7 +6,7 @@ a) több megyére kiterjedő, mikro- és kisvállalkozásokat is magában foglal
 
 b) részt vesz a teljes termékpályát átfogó integráció keretében előállított termékek piacbővítésében, ennek érdekében szorosan együttműködik a termékeit feldolgozó vállalkozással a stratégia meghatározásában, napi üzemszervezésben, logisztikában, minőségpolitikában;
 
-c) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti átlátható szervezetnek minősül;
+c) a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott átlátható szervezetnek minősül;
 
 d) tudományos, kutatás-fejlesztési tevékenységben vesz részt;
 
