@@ -12,13 +12,13 @@ b) megtilthatja a jogsértő magatartás további folytatását, vagy
 
 c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető vagy az (EU) 2016/161 rendeletben rögzített követelményeknek nem megfelelő gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
 
-d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
+d) a figyelmeztetést tartalmazó döntésében, megfelelő határidő megállapításával felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
 
 e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjét a nyilvántartásból törli.
 
-(4) A gyógyszerészeti államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható. Az eljárás során nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény rendelkezéseit.
+(4) A gyógyszerészeti államigazgatási szerv közigazgatási bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
-(5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság összege százezer forinttól ötszáz millió forintig terjedhet.
+(5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény (a továbbiakban: Szankció tv.) 10. § (1) bekezdése szerinti körülményekre, illetve a betegek érdekei sérelmének körére, súlyára tekintettel kell meghatározni azzal, hogy a bírság összege százezer forinttól ötszáz millió forintig terjedhet. A Szankció tv. 10. § (1) bekezdés g) pontja szerinti körülmény e törvény alkalmazásában a jogsértést elkövető javára kizárólag abban az esetben vehető figyelembe, ha az elkövetett jogsértés a betegek biztonságát vagy az ellátási érdeket nem érintette.
 
 (6) A 18. § (2) bekezdésének végrehajtásával kapcsolatban az egészségügyi dolgozók további kötelezettségeit jogszabály tartalmazza.
 
@@ -61,3 +61,9 @@ b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági 
 c) a közhírré tétel napját.
 
 (12) A gyógyszerészeti államigazgatási szerv a hatósági ellenőrzés és az ellenőrzési eljárás során a (3) bekezdés a)–d) pontjában foglaltakat ideiglenes intézkedésként is meghozhatja.
+
+(13) A gyógyszerészeti államigazgatási szerv e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban foglalt hatáskörébe tartozó ügyekben nem alkalmazható közigazgatási szankció, ha
+
+a) a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított 2 év eltelt, vagy
+
+b) az elkövetéstől számított öt év eltelt.

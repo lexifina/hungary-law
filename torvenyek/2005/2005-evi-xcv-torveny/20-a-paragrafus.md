@@ -8,7 +8,7 @@
 
 (4) A gyógyszerészeti államigazgatási szerv 100 ezer forinttól 1 millió forintig terjedő bírsággal sújthatja azt a szolgáltatót, amely a (3) bekezdés szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
 
-(5) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni. A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv számlájára kell befizetni.
+(5) A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv számlájára kell befizetni.
 
 (6) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 90 nap elteltével megszűnik.
 

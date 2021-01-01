@@ -116,13 +116,7 @@ N-benzilpiperazin
 
 |
 
-DOC
-
 |
-
-2,5-dimetoxi-4-klór-amfetamin
-
-1-(4-chloro-2,5-dimethoxyphenyl)propan-2-ylazan
 
 |
 
@@ -910,13 +904,7 @@ AH-7921
 
 |
 
-AB-FUBINACA
-
 |
-
-N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)-1H-indazole-
-
-3-carboxamide
 
 |
 
@@ -1008,11 +996,7 @@ methanone
 
 |
 
-ADB-FUBINACA
-
 |
-
-N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide
 
 |
 
@@ -1202,11 +1186,7 @@ EG-018
 
 |
 
-ciklopropil-fentanil
-
 |
-
-N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid
 
 |
 
@@ -1214,11 +1194,7 @@ N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid
 
 |
 
-metoxiacetil-fentanil
-
 |
-
-2-metoxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid
 
 |
 
@@ -1226,11 +1202,7 @@ metoxiacetil-fentanil
 
 |
 
-ADB-CHMINACA
-
 |
-
-N-(1-amino-3,3-demetil-1-oxobután-2-il)–1-(ciklohexil-metil)–1H-indazol-3-karboxamid
 
 |
 
@@ -1238,11 +1210,7 @@ N-(1-amino-3,3-demetil-1-oxobután-2-il)–1-(ciklohexil-metil)–1H-indazol-3-k
 
 |
 
-CUMYL-4CN-BINACA
-
 |
-
-1-(4-ciano-butil)–N-(2-fenilpropán-2-il)–1H-indazol-3-karboxamid
 
 − és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
