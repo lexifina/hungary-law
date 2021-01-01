@@ -16,7 +16,7 @@ f) a kérelmezett szakmagyakorlási tevékenység területének, szakterületén
 
 g) rendelkezést a kapcsolattartás módjáról.
 
-(2)[^45] A kérelem – az eseti engedély iránti kérelmet kivéve – benyújtásával egyidejűleg be kell mutatni a kérelmező részletes szakmai tevékenységét, továbbá igazolni kell
+(2)[^46] A kérelem – az eseti engedély iránti kérelmet kivéve – benyújtásával egyidejűleg be kell mutatni a kérelmező részletes szakmai tevékenységét, továbbá igazolni kell
 
 a) a szakirányú szakképzettséget,
 
@@ -24,7 +24,7 @@ b) a szakmai gyakorlatot,
 
 c) az igazgatási szolgáltatási díj befizetését.
 
-(3)[^46]
+(3)[^47]
 
-[^45]: A 26. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 444. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^46]: A 26. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 446. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^46]: A 26. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 444. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^47]: A 26. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 446. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -28,16 +28,17 @@ j) a közmű és energia ellátási igényeket, módokat,
 
 k) az akadálymentesítésre vonatkozó információkat,
 
-l) műemlék és nyilvántartott műemléki érték esetén az értékleltár és az építéstörténeti tudományos dokumentáció alapján rögzített műemlékvédelmi szempontokat,
+l)[^29] műemlék esetén az értékleltár és az építéstörténeti tudományos dokumentáció alapján rögzített műemlékvédelmi szempontokat,
 
 m) a szükséges szakági tervezők, szakértők körét,
 
 n) az egyéb meghatározó követelmények általános szempontjait,
 
-o)[^29] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
+o)[^30] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
 
-p)[^30] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
+p)[^31] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
 
 [^28]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^29]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^30]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.
+[^29]: A 16. § (3) bekezdés l) pontja a 677/2020. (XII. 28.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^30]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^31]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.

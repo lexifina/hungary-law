@@ -6,7 +6,7 @@ a) a közvetlen költségek, ennek keretében
 
 aa) a számított munkadíj,
 
-ab)[^35]
+ab)[^36]
 
 ac) az esetlegesen a szerzői joggal kapcsolatosan felmerülő személyi és vagyoni jogok értéke,
 
@@ -18,4 +18,4 @@ d) az egyéb ráfordítások,
 
 e) a tervezett nyereség
 
-[^35]: A 18. § a) pont ab) alpontját a 62/2014. (III. 6.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.
+[^36]: A 18. § a) pont ab) alpontját a 62/2014. (III. 6.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.

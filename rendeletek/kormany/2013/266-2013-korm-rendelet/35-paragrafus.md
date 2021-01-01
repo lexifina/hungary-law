@@ -1,5 +1,5 @@
 35. § (1) A továbbképzést az országos kamara szervezi valamennyi továbbképzési típus és valamennyi szakmagyakorlási tevékenység esetén.
 
-(2)[^60] Az országos kamara a továbbképzések szervezésére egy vagy több szakértői testületet működtet. A szakértői testület működésének ügyrendjét saját hatáskörében készíti és fogadja el. A szakértői testületbe egy tagot a miniszter delegál.
+(2)[^61] Az országos kamara a továbbképzések szervezésére egy vagy több szakértői testületet működtet. A szakértői testület működésének ügyrendjét saját hatáskörében készíti és fogadja el. A szakértői testületbe egy tagot a miniszter delegál.
 
-[^60]: A 35. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 11. pontja szerint módosított szöveg.
+[^61]: A 35. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 11. pontja szerint módosított szöveg.
