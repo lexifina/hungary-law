@@ -60,7 +60,7 @@
 
 3.[^20] A szakmai gyakorlati idő igazolása a szakmai gyakorlati időt szakértőjelöltként megszerző kérelmező esetében különösen:
 
-3.1.[^21] munkaviszony, közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti, hivatásos szolgálati, igazságügyi alkalmazotti jogviszony keretében végzett tevékenység esetén a munkáltató vagy a korábbi munkáltató,
+3.1.[^21] munkaviszony, közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, adó- és vámhatósági szolgálati, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti, hivatásos szolgálati, igazságügyi alkalmazotti jogviszony keretében végzett tevékenység esetén a munkáltató vagy a korábbi munkáltató,
 
 3.2. megbízási jogviszonyban végzett tevékenység esetén a megbízó,
 
@@ -142,7 +142,7 @@ d) a 3.4. pont szerinti kérelmező esetén az igazságügyi szakértői intézm
 [^18]: Az 1. melléklet 2. pont 2.1.6. alpontját a 457/2017. (XII. 28.) Korm. rendelet 151. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^19]: Az 1. melléklet 2. pont 2.2.1. alpontját a 457/2017. (XII. 28.) Korm. rendelet 151. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^20]: Az 1. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 149. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^21]: Az 1. melléklet 3. pont 3.1. alpontja a 73/2019. (IV. 5.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 3. pont 3.1. alpontja a 73/2019. (IV. 5.) Korm. rendelet 4. § d) pontja, a 671/2020. (XII. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^22]: Az 1. melléklet 3. pont 3.5. alpont b) alpontja a 73/2019. (IV. 5.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^23]: Az 1. melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 149. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^24]: Az 1. melléklet 5. pont 5.1. alpont 5.1.2. alpontja a 73/2019. (IV. 5.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
