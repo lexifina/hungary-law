@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-44-20-2
 | 2015-04-01 | 2008-44-20-22.4 | 214/2012. (VII. 30.) Korm. rendelet |
 | 2017-09-06 | 2008-44-20-22.5 | 214/2012. (VII. 30.) Korm. rendelet |
 | 2020-01-01 | 2008-44-20-22.6 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-01-01 | 2008-44-20-22.7 | 360/2019. (XII. 30.) Korm. rendelet |
