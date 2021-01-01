@@ -4,11 +4,11 @@
 
 | 1002/09 | Jelentés az iskola-egészségügyi munkáról | évenkénti | valamennyi iskolai (óvodai) egészségügyi feladatot ellátó orvos, védőnő | országos tisztifőorvos | iskolaévet követő szeptember 15. |
 
-| országos tisztifőorvos | Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, egészségügyért felelős miniszter által vezetett minisztérium, Nemzeti Egészségbiztosítási Alapkezelő | december 20. |
+| országos tisztifőorvos | Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, egészségügyért felelős miniszter által vezetett minisztérium, | december 20. |
 
 | 1003/09 | Védőnői jelentés összesítője | havonkénti/ évenkénti | valamennyi területi védőnő | országos tisztifőorvos | a tárgyhót követő 15. nap |
 
-| országos tisztifőorvos | Központi Statisztikai Hivatal, egészségügyért felelős miniszter által vezetett minisztérium, Nemzeti Egészségbiztosítási Alapkezelő | a tárgyévet követő február 15. |
+| országos tisztifőorvos | Központi Statisztikai Hivatal, egészségügyért felelős miniszter által vezetett minisztérium, | a tárgyévet követő február 15. |
 
 | 1205/04 | Tüdőbeteg-gondozók éves jelentése | évenkénti | valamennyi tüdőbeteg-gondozó intézet | területért felelős minőségügyi szakfőorvos 3 példányban, | a tárgyévet követő február 15. |
 

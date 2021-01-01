@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-76-20-0
 | 2017-04-01 | 2004-76-20-0M.14 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2018-11-01 | 2004-76-20-0M.15 | 38/2018. (X. 31.) EMMI rendelet |
 | 2020-10-31 | 2004-76-20-0M.16 | 37/2020. (X. 30.) EMMI rendelet |
+| 2021-01-01 | 2004-76-20-0M.17 | 38/2018. (X. 31.) EMMI rendelet |
