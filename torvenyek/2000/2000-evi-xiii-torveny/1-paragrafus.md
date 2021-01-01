@@ -1,6 +1,12 @@
 1. § (1) A büntetőeljárás és a szabálysértési eljárás során elkobzott dolgok közérdekű felhasználásának e törvény rendelkezései szerint van helye.
 
-(2) E törvény alkalmazásában közérdekű felhasználás az elkobzott dolognak a rászorulók részére történő, egyéni szükségleteiket meg nem haladó mértékű ingyenes juttatása.
+(1a) E törvény rendelkezéseit alkalmazni kell az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján karitatív célú felhasználással érintett vagyontárgyak közérdekű felhasználása esetén is, azzal, hogy elkobzás alatt a végrehajtási eljárás keretében történő lefoglalást is, elkobzott dolog alatt a végrehajtási eljárásban lefoglalt dolgot is, elkobzott dolgot kezelő hatóság alatt a végrehajtást foganatosító hatóságot is érteni kell.
+
+(2) E törvény alkalmazásában közérdekű felhasználás az elkobzott dolognak
+
+a) a rászorulók részére történő, egyéni szükségleteiket meg nem haladó mértékű ingyenes juttatása, továbbá
+
+b) a karitatív tevékenységet folytató közhasznú szervezetek által fenntartott vagy támogatott egészségügyi és szociális intézmények részére történő, az ezen intézményekben való közvetlen felhasználásra szánt ingyenes juttatása.
 
 (3) A közérdekű felhasználás kezdeményezésére a kormány által rendeletben kijelölt szerv (a továbbiakban: az erre kijelölt szerv) mellett működő Karitatív Tanács jogosult.
 

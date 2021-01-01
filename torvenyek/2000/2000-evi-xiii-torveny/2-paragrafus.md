@@ -1,4 +1,4 @@
-2. § (1) Közérdekű felhasználásra kizárólag az olyan elkobzott dolog kerülhet, amely e törvény mellékletében meghatározott valamely rendeltetési körbe tartozik.
+2. § (1) Közérdekű felhasználásra kizárólag az olyan elkobzott dolog kerülhet, amely az 1. mellékletben meghatározott valamely rendeltetési körbe tartozik.
 
 (2) Az (1) bekezdésben meghatározott feltétel megléte esetén sincs helye olyan elkobzott dolog közérdekű felhasználásának,
 
@@ -17,3 +17,5 @@ c) amelyet külön jogszabály rendelkezései szerint az elkobzást követően m
 d) amely a közrendet, a közegészséget vagy a közerkölcsöt sértő jellege folytán a közérdekű felhasználás céljával összeegyeztethetetlen,
 
 e) amely jövedéki termék.
+
+(3) A (2) bekezdés a) pontjában foglaltaktól eltérően nincs akadálya az elkobzott dolog közérdekű felhasználásának, ha a dolog jogsértő jellegétől való megfosztására sor került.
