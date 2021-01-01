@@ -2,7 +2,7 @@
 
 3. § (1) E törvény alkalmazásában
 
-1. adó: a jövedéki termékek után fizetendő jövedéki adó és a dohánygyártmányok tekintetében a dohánygyártmányok általános forgalmi adója;
+1. adó: a jövedéki termékek után fizetendő jövedéki adó és a dohánygyártmányok általános forgalmi adója;
 
 2. adófelfüggesztési eljárás: a jövedéki termék vámfelfüggesztési eljáráson kívüli előállítására, tárolására vagy szállítására alkalmazott, az adófizetési kötelezettséget felfüggesztő adóeljárás;
 
@@ -147,6 +147,8 @@ e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
 f) a jövedéki terméket a 19. § megsértésével állítják elő,
 
 g) a jövedéki terméket harmadik országból a vámjogszabályok megsértésével hozzák be belföldre;
+
+h) a 9. § (1) bekezdés m) pontja szerint külföldre kiszállított dohányzást helyettesítő nikotintartalmú termék kiszállításának végrehajtási rendelet szerinti igazolása a kiszállítást követő 121. napon nem áll rendelkezésre;
 
 45. teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék:
 

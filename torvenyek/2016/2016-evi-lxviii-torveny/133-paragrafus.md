@@ -18,13 +18,13 @@ g) az adóraktár engedélyese az előállított, az élelmiszerek és az 1,2 t�
 
 h) az adóraktár engedélyese az előállított, legfeljebb 8,5 liter tiszta szesz/100 kilogramm alkoholtartalmú csokoládéra, – az alkoholtartalmú italok kivételével – legfeljebb 5 liter tiszta szesz/100 kilogramm alkoholtartalmú egyéb élelmiszerre, lé nélküli alkoholos gyümölcsre és az ezek előállításához felhasznált sörre, csendes és habzóborra, egyéb csendes és habzó erjesztett italra, köztes alkoholtermékre vagy alkoholtermékre,
 
-i) az adóraktár engedélyese a részlegesen denaturált sör, csendes és habzóbor, egyéb csendes és habzó erjesztett ital, köztes alkoholtermék vagy alkoholtermék felhasználásával előállított vegyipari, kozmetikai és egyéb, nem emberi fogyasztásra szolgáló termékre, és az ezek előállításához felhasznált sörre, csendes és habzóborra, egyéb csendes és habzó erjesztett italra, köztes alkoholtermékre vagy alkoholtermékre,
+i) az adóraktár engedélyese a részlegesen denaturált sör, csendes és habzóbor, egyéb csendes és habzó erjesztett ital, köztes alkoholtermék vagy alkoholtermék felhasználásával előállított vegyipari, kozmetikai és egyéb, nem emberi fogyasztásra szolgáló termékre, és az ezek előállításához felhasznált – a felhasználásba beleértve a szóban forgó gyártási eljárás során használt gyártóberendezés karbantartására és tisztítására történő felhasználást is – sörre, csendes és habzóborra, egyéb csendes és habzó erjesztett italra, köztes alkoholtermékre vagy alkoholtermékre,
 
 j) az e)–i) pont szerinti végtermékeket tagállamból vagy harmadik országból behozó személy,
 
 k) az adóraktár engedélyese a teljes denaturálással előállított termékre,
 
-l) a teljes denaturálással másik tagállamban előállított terméket belföldre szállító személy.
+l) a szabadforgalomba bocsátás helye szerinti tagállam előírásainak megfelelően teljesen denaturált terméket belföldre szállító személy.
 
 m)
 

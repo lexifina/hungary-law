@@ -10,6 +10,8 @@ b) a lefoglalt dolgot, ha azon a jövedéki törvénysértés elkövetését cé
 
 c) a jogosulatlanul megszerzett és lefoglalt adóügyi jelzést.
 
+d) a 97. § megsértésével birtokolt, lefoglalt csendes bort, ha a jövedéki ügyben a 100. § (6) bekezdése szerinti bírság kerül kiszabásra.
+
 (2) Ha az eset összes körülményeinek vizsgálata alapján további jogsértés elkövetése valószínűsíthető, a 37. § szerinti jövedéki termék előállítására alkalmas berendezést az állami adó- és vámhatóság elkobozhatja, ha a 37. § szerinti nyilvántartásba-vételi kötelezettségét a berendezést előállító, értékesítő vagy birtokló nem teljesíti.
 
 (3) Az elkobzott termékre nem kell az adót kivetni, kivéve ha

@@ -2,7 +2,7 @@
 
 106. § Az önkormányzati adóhatóság azt a természetes személyt, aki
 
-a) a magánfőzésre vonatkozó szabályoknak megfelelve, de a desztillálóberendezés bejelentése vagy párlat adójegy beszerzése nélkül végzi párlat előállítását,
+a) a magánfőzésre vonatkozó szabályoknak megfelelve, de a desztillálóberendezés bejelentése vagy a párlat előállításának bejelentése nélkül végzi párlat előállítását,
 
 b) a desztillálóberendezés jogszerű birtoklása megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
 

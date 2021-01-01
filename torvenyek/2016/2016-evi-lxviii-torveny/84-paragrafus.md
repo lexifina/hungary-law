@@ -6,7 +6,7 @@
 
 a)
 
-b) a magánfőző által teljesítendő bejelentési kötelezettség, valamint a párlat adójegy igénylése és rendelkezésre bocsátása,
+b) a magánfőző által teljesítendő bejelentési kötelezettség, valamint a magánfőzöttpárlat-származási igazolás rendelkezésre bocsátása,
 
 c) a külföldi személy jövedéki ügye,
 
@@ -17,3 +17,5 @@ e) a kizárólag bérfőzést végző adóraktár nyilvántartás-vezetése, ada
 f) a 112. § (5) bekezdése szerinti, állami adó- és vámhatósági ellenjegyzés iránti eljárás.
 
 (3) A (2) bekezdés szerinti esetben a választásra jogosult az eljárás bármely szakaszában választhat a kapcsolattartás hagyományos és elektronikus formája között.
+
+(4) Az állami adó- és vámhatóság a 15. § (4) bekezdése és a 96. § (7) bekezdése szerinti döntését az elektronikus úton történő kézbesítés mellőzésével az Air. 77. §-a szerinti, saját kézbesítő útján történő kézbesítés szabályai szerint is közölheti.

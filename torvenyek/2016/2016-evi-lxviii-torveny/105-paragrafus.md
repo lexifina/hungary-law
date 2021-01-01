@@ -4,7 +4,7 @@
 
 a) a magánfőző a 143. § (1) bekezdése szerinti bejelentésében a desztillálóberendezés jogszerű birtoklása megállapításához szükséges adatok tekintetében valótlan adatokat ad meg, vagy
 
-b) a magánfőző párlatot a desztillálóberendezés bejelentése vagy párlat adójegy beszerzése nélkül állít elő.
+b) a magánfőző párlatot a desztillálóberendezés és a magánfőzött párlat előállításának bejelentése nélkül állít elő.
 
 (3) Az önkormányzati adóhatóság által elrendelt lefoglalási eljárásra az állami adó- és vámhatóság által alkalmazható lefoglalásra vonatkozó eljárási szabályokat kell alkalmazni.
 

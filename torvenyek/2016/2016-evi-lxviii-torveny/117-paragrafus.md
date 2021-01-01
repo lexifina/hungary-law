@@ -16,4 +16,4 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (4) Ha az utólagos ellenőrzés során a gépi bérmunka-szolgáltatást végző a (3) bekezdés szerinti kötelezettségének nem tesz eleget, a gépi bérmunka-szolgáltatást igénybe vevő köteles az adót visszafizetni és a visszafizetett adó után a kiutalás napjától a visszafizetés napjáig az Art. szerinti késedelmi pótlékot fizetni.
 
-(5) Ha a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti családi gazdaság a mezőgazdasági termelőként nyilvántartásba vett szervezet, akkor a családi gazdálkodó jogosult a családi gazdaság nevében visszaigénylésre saját nevére szóló számla alapján.
+(5) Ha őstermelők családi gazdasága a mezőgazdasági termelőként nyilvántartásba vett szervezet, akkor az őstermelők családi gazdaságának képviselője jogosult az őstermelők családi gazdasága nevében visszaigénylésre saját nevére szóló számla alapján.

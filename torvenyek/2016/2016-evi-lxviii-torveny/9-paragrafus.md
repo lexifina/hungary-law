@@ -30,6 +30,8 @@ k) a vámmentességek közösségi rendszerének létrehozásáról szóló, 200
 
 l) az adóraktár engedélyese az adóraktárban adófelfüggesztési eljárás keretében tárolt, ETBE-előállítás céljára felhasznált jövedéki termékre.
 
+m) az adóraktár engedélyese a belföldön előállított és külföldre kiszállított dohányzást helyettesítő nikotintartalmú termékre.
+
 (2) A jövedéki termék teljes megsemmisülését vagy helyrehozhatatlan károsodását az állami adó- és vámhatóság igazolja, ha az (1) bekezdés f)–g) pontja szerinti személy kérésére az általa bemutatott bizonyítékok alapján megállapítható, hogy a teljes megsemmisülés vagy a helyrehozhatatlan károsodás belföldön következett be, vagy ha ez nem állapítható meg, de a teljes megsemmisülést vagy a helyrehozhatatlan károsodást belföldön fedezték fel.
 
 (3) Az (1) bekezdés e)–h) pontja szerinti személy, ha a jövedéki termék teljes megsemmisülése vagy helyrehozhatatlan károsodása belföldön következik be,

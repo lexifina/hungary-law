@@ -6,7 +6,7 @@
 
 a) a bérfőzött párlat esetében
 
-aa) egy bérfőzető részére évente legfeljebb 50 liter mennyiségig – abban az esetben is, ha a bérfőzető adóraktárnak kívánja értékesíteni – hektoliterenként 167 000 forint,
+aa) egy bérfőzető részére évente legfeljebb 50 liter mennyiségig – abban az esetben is, ha a bérfőzető adóraktárnak kívánja értékesíteni – hektoliterenként 0 forint,
 
 ab) egy bérfőzető részére évente az 50 litert meghaladó vagy a nem adóraktárnak értékesítésre szánt mennyiségre hektoliterenként 333 385 forint,
 
@@ -14,7 +14,7 @@ b) az a) pontban meg nem határozott esetben hektoliterenként 333 385 forint.
 
 (3) A (2) bekezdés a) pontjának alkalmazásában az 50 literes mennyiség alatt 0,43 hektoliter tiszta szeszt tartalmazó bérfőzött párlatot kell érteni.
 
-(4) A tárgyévben előállítani tervezett magánfőzött párlat előállításához az előállítást megelőzően párlat adójegyet kell beszerezni az állami adó- és vámhatóságtól. A párlat adójegy a beszerző magánfőzőt egy liter magánfőzött párlat tárgyévi előállítására jogosítja. A párlat adójegy 700 forint értéket képvisel, egy liter 42 térfogatszázalékos tényleges alkoholtartalmú párlat adótartalmát figyelembe véve. A magánfőző tárgyévi első beszerzéskor legalább 5 párlat adójegyet szerez be és tárgyévben legfeljebb 86 darab párlat adójegyet szerezhet be és legfeljebb ennek megfelelő mennyiségű párlatot állíthat elő. Ha a magánfőző a párlat adójeggyel megfizetett adójú párlatmennyiségnél több párlatot állít elő, akkor a tárgyév végéig be kell szereznie a többletmennyiség utáni párlat adójegyeket az állami adó- és vámhatóságtól azzal, hogy az éves mennyiségi korlátot ilyen esetben sem lehet túllépni.
+(4) A magánfőző tárgyévben legfeljebb 86 liter párlatot állíthat elő, amely mennyiség adómentes.
 
 (5) Nem kell alkalmazni az (1) és (2) bekezdést a 3. § (3) bekezdés 1. pont c) alpontja szerinti alkoholtermékre, ha az a 110. § szerinti adómérték alá esik.
 

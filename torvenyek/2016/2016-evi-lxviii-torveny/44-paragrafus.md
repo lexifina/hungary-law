@@ -1,7 +1,1 @@
-44. § (1) A tudományos és oktatási célra használt nem üveg desztillálóberendezés birtoklását a megszerzést követő 10 napon belül be kell jelenteni az állami adó- és vámhatósághoz.
-
-(2) A tudományos és oktatási célra használt nem üveg desztillálóberendezésen előállított alkoholtermék
-
-a) előállítását előállításonként, az előállítás megkezdésének tervezett időpontját megelőző 3. napig be kell jelenteni az állami adó- és vámhatósághoz és
-
-b) tudományos és oktatási célú felhasználásáról vagy megsemmisítéséről a jogszerű felhasználás megállapítására alkalmas jegyzőkönyvet kell felvenni.
+44. § A tudományos és oktatási célra használt nem üveg desztillálóberendezés birtoklását a megszerzést követő 10 napon belül be kell jelenteni az állami adó- és vámhatósághoz. Az állami adó- és vámhatóság haladéktalanul a desztillálóberendezésen előállított termék felhasználásának és megsemmisítésének ellenőrzésére alkalmas nyilvántartást küld meg a bejelentőnek vagy tájékoztatja az ugyanezen követelményeket teljesítő nyilvántartás mintájáról vagy szükséges adattartalmáról. A bejelentő a megküldött nyilvántartásban vagy a tájékoztatásban szereplő mintának vagy adattartalomnak megfelelően kialakított nyilvántartásban nyilvántartja az előállított termék felhasználását és megsemmisítését.

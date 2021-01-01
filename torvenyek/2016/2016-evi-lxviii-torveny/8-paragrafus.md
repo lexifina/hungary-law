@@ -40,6 +40,8 @@ od) a 3. § (1) bekezdés 44. pont f) alpontjában meghatározott szabálytalans
 
 oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt,
 
+of) a 3. § (1) bekezdés 44. pont h) alpontjában meghatározott szabálytalanság esetében az adóraktár engedélyesét,
+
 p) 7. § (2) bekezdés i) pontja szerinti esetben a bejelentőt
 
 q) 7. § (2) bekezdés j) pontja szerinti esetben a bejelentőt
