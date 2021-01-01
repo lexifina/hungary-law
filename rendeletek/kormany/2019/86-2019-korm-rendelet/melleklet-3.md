@@ -18,7 +18,7 @@ d) Pénzügyi ellenőrzés: a pénzügyi elszámolások, valamint az ezek alapj�
 
 a) Átfogó ellenőrzés: a vizsgált szervek feladat- és hatáskörébe tartozó, meghatározott időszakra vonatkozó törvényességi, szakszerűségi, hatékonysági és pénzügyi ellenőrzése;
 
-b) A Nemzeti Foglalkoztatási Alap forrásai terhére a fővárosi és megyei kormányhivatalok által nyújtott támogatások pénzügyi ellenőrzése: az az ellenőrzés, amelynek során az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 9. § (8) bekezdése szerinti rendelkezési jogkörbe tartozó feladatok ellátására kijelölt szervezeti egység vagy személy a szakmai irányító miniszter utasításának megfelelően jár el;
+b)[^50]
 
 c) Témaellenőrzés: meghatározott téma, adott feladat ellátásának vizsgálata egy időszakban több szervnél abból a célból, hogy a megállapítások eredményeként általánosítható következtetéseket lehessen levonni, és ennek megfelelő intézkedéseket lehessen tenni;
 
@@ -361,3 +361,5 @@ a) az ellenőrzést végző szervet és az ellenőrt feladataik ellátásában s
 b) biztosítani az ellenőrzést végző szerv munkatársainak helyszíni munkafeltételeit, az ellenőrzési jogosultságuk gyakorlását.
 
 13.2. Az ellenőrzött szerv vezetője felel az ellenőrzött szervnél a megállapítások és javaslatok alapján – szükség esetén – végrehajtandó intézkedések megvalósulásáért.
+
+[^50]: A 3. melléklet 1.2. pont b) alpontját a 668/2020. (XII. 28.) Korm. rendelet 51. § (11) bekezdés d) pontja hatályon kívül helyezte.

@@ -10,6 +10,6 @@ c) elkészíti és a miniszter részére megküldi a fővárosi és megyei korm�
 
 d) gondoskodik a jogszabályban előírt belső szabályzatok elkészítéséről,
 
-e)[^8]
+e)[^30]
 
-[^8]: A 32. § e) pontját a 30/2020. (II. 29.) Korm. rendelet 35. §-a hatályon kívül helyezte.
+[^30]: A 32. § e) pontját a 30/2020. (II. 29.) Korm. rendelet 35. §-a hatályon kívül helyezte.

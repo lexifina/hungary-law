@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-86-20-2
 | 2020-09-15 | 2019-86-20-22.14 | 428/2020. (IX. 10.) Korm. rendelet |
 | 2020-10-02 | 2019-86-20-22.15 | 446/2020. (X. 1.) Korm. rendelet |
 | 2020-11-05 | 2019-86-20-22.16 | 240/2019. (X. 16.) Korm. rendelet |
+| 2021-01-01 | 2019-86-20-22.17 | 668/2020. (XII. 28.) Korm. rendelet |

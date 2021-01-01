@@ -66,4 +66,7 @@ feladatok.
 
 16. utazási költség: a kormányhivatalok kormánytisztviselői lakóhelye vagy tartózkodási helye, valamint az oktatási esemény helyszíne között – a képzésen, vizsgán történő részvétel céljából – helyközi (távolsági) utazással az oktatási eseményre utazás és hazautazás díja.
 
+(6)[^2] E rendelet alkalmazásában módszertani támogatás: a szakmai irányító miniszter által a fővárosi és megyei kormányhivatalok egységes joggyakorlásának és a feladatok végrehajtásának elősegítése érdekében kiadott szakmai iránymutatás, állásfoglalás, módszertani útmutató, ajánlás, továbbá egyéb szakmai anyag, valamint szakmai értekezlet és tájékoztató.
+
 [^1]: Az 1. § (5) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § (6) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 51. § (1) bekezdése iktatta be.

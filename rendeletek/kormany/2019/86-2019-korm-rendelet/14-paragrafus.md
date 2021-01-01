@@ -10,7 +10,7 @@
 
 a) meghatározza a minősített továbbképzési programok tartalmával kapcsolatos szakmai követelményeket, és dönt a továbbképzési programok minősítéséről, felfüggesztéséről vagy törléséről;
 
-b) meghatározza a Kit. 271. § (16) bekezdése szerinti szakképzettségekkel és fokozatokkal egyenértékűnek minősülő szakképzettségeket és fokozatokat;
+b)[^23]
 
 c) véleményezi a megvalósított továbbképzésekről és az éves továbbképzési tervek végrehajtásáról szóló, az Egyetem által elkészített jelentést;
 
@@ -27,3 +27,5 @@ e) dönt a belső továbbképzési program egyszerűsített nyilvántartásba v�
 (8) A KKTK feladatainak ellátását a KKTK Titkársága segíti. A KKTK Titkársága a KKTK ügyrendje alapján a KKTK üléseinek előkészítésével, lebonyolításával, valamint dokumentálásával kapcsolatos döntés-előkészítési és adminisztratív feladatokat látja el.
 
 (9) A KKTK Titkárságának feladatait – az Egyetem bevonásával – a miniszter által vezetett minisztérium látja el.
+
+[^23]: A 14. § (4) bekezdés b) pontját a 668/2020. (XII. 28.) Korm. rendelet 51. § (11) bekezdés b) pontja hatályon kívül helyezte.
