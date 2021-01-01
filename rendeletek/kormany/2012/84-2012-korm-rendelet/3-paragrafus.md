@@ -14,10 +14,10 @@ c) a kormányablak,
 
 d) az országos telefonos ügyfélszolgálat,
 
-e)[^4] a Postai Agora Szolgáltatások keretében, a Magyar Posta Zrt.-nek a Postai Agora Szolgáltatások Általános Szerződési Feltételeiben meghatározott állandó postai szolgáltatóhelye,
+e)[^4]
 
 f) a Nemzeti Adó- és Vámhivatal.
 
 [^2]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 200. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdés e) pontja a 291/2018. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés e) pontját az 572/2020. (XII. 9.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
