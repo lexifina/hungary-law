@@ -1,4 +1,4 @@
-10/A. §[^59] (1) Ha a hivatásos állomány tagjának továbbképzési időszaka négy évtől eltérő időtartamú, a 7. § (3) bekezdésében – a négyéves időtartamhoz viszonyítva – meghatározott továbbképzési pontokat időarányosan kell teljesíteni.
+10/A. §[^63] (1) Ha a hivatásos állomány tagjának továbbképzési időszaka négy évtől eltérő időtartamú, a 7. § (3) bekezdésében – a négyéves időtartamhoz viszonyítva – meghatározott továbbképzési pontokat időarányosan kell teljesíteni.
 
 (2) Az (1) bekezdéstől foglaltaktól eltérően ha a hivatásos állomány tagjának fizetési fokozatban való előresorolására a Hszt. 121. § (1) bekezdésében meghatározott feltétel hiányában nem kerül sor, a továbbképzési időszak időtartama a hivatásos állomány tagjának fizetési fokozatban való előresorolásának napjáig meghosszabbodik, azzal, hogy a hivatásos állomány tagja által a továbbképzési időszakban megszerzendő továbbképzési pontok mennyisége nem emelkedik a 7. § (3) bekezdésében meghatározott pontmennyiséghez képest.
 
@@ -22,4 +22,4 @@ c) rendelkezési állományba nem helyezett, de három hónapot meghaladó egés
 
 (8) A Hszt. 281. § (1) bekezdésében meghatározott időtartamra a továbbképzési időszak megszakad és kizárólag ezen időtartam befejeződését követően folytatódik. A megszerzendő pontok mennyisége nem változik.
 
-[^59]: A 10/A. §-t a 35/2017. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^63]: A 10/A. §-t a 35/2017. (XII. 21.) BM rendelet 11. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 7. A továbbképzések ellenőrzése, a minőségirányítás
 
-20. § (1)[^91] A továbbképzések minőségi megfelelőségének biztosítása érdekében minőségirányítási rendszert kell működtetni. A továbbképzés minőségirányítási szabályzatát a Kollégium előterjesztésére a miniszter adja ki.
+20. § (1)[^95] A továbbképzések minőségi megfelelőségének biztosítása érdekében minőségirányítási rendszert kell működtetni. A továbbképzés minőségirányítási szabályzatát a Kollégium előterjesztésére a miniszter adja ki.
 
 (2) A minőségirányítási szabályzat előírja
 
@@ -48,4 +48,4 @@
 
 22. az önértékelést, az éves működés értékelését.
 
-[^91]: A 20. § (1) bekezdése a 35/2017. (XII. 21.) BM rendelet 28. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^95]: A 20. § (1) bekezdése a 35/2017. (XII. 21.) BM rendelet 28. § (1) bekezdés e) pontja szerint módosított szöveg.
