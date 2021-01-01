@@ -1,9 +1,9 @@
-31. §[^53] (1) A gyermekvállalás és az otthonteremtés támogatásával összefüggő egyes kormányrendeletek módosításáról szóló 252/2020. (V. 29.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseket – a (3) bekezdés szerinti kivétellel – a Módr2. hatálybalépését[^54] megelőzően benyújtott, de még el nem bírált támogatás iránti kérelmekre, a véglegessé vált támogatást megállapított határozatok alapján folyósított támogatásokra, valamint folyamatban lévő eljárásokra is alkalmazni kell.
+31. §[^62] (1) A gyermekvállalás és az otthonteremtés támogatásával összefüggő egyes kormányrendeletek módosításáról szóló 252/2020. (V. 29.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseket – a (3) bekezdés szerinti kivétellel – a Módr2. hatálybalépését[^63] megelőzően benyújtott, de még el nem bírált támogatás iránti kérelmekre, a véglegessé vált támogatást megállapított határozatok alapján folyósított támogatásokra, valamint folyamatban lévő eljárásokra is alkalmazni kell.
 
-(2) A Módr2.-vel megállapított 3. § (2) bekezdését, 6. § (1) és (3) bekezdését, (6) bekezdés a) pontját, (7) bekezdés b) pontját, 7. § (1) bekezdés a) és b) pontját, 9. § (3) bekezdés a) pont ab) alpontját, valamint 11. § b) és c) pontját a Módr2. hatálybalépése[^55] előtt megkezdett eljárási cselekményekre is alkalmazni kell.
+(2) A Módr2.-vel megállapított 3. § (2) bekezdését, 6. § (1) és (3) bekezdését, (6) bekezdés a) pontját, (7) bekezdés b) pontját, 7. § (1) bekezdés a) és b) pontját, 9. § (3) bekezdés a) pont ab) alpontját, valamint 11. § b) és c) pontját a Módr2. hatálybalépése[^64] előtt megkezdett eljárási cselekményekre is alkalmazni kell.
 
 (3) A Módr2.-vel megállapított 12. § (1a) és (1b) bekezdését csak a 2020. június 30-át követően született vagy örökbefogadott gyermekekre tekintettel benyújtott kérelmekre kell alkalmazni.
 
-[^53]: A 31. §-t a 252/2020. (V. 29.) Korm. rendelet 14. §-a iktatta be.
-[^54]: A hatálybalépés időpontja 2020. június 13.
-[^55]: A hatálybalépés időpontja 2020. június 13.
+[^62]: A 31. §-t a 252/2020. (V. 29.) Korm. rendelet 14. §-a iktatta be.
+[^63]: A hatálybalépés időpontja 2020. június 13.
+[^64]: A hatálybalépés időpontja 2020. június 13.

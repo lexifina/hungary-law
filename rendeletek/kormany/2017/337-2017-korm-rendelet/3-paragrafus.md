@@ -2,9 +2,9 @@
 
 3. § (1) Házastársak és élettársak – ideértve azt az esetet is, ha a lakáscélú jelzáloghitel-szerződésnek kizárólag az egyik fél az alanya – a támogatást kizárólag együttesen igényelhetik (a továbbiakban: együttes igénylés).
 
-(2)[^5] Együttes igénylés esetén az igénylési feltételeket – a (2a) bekezdésben foglalt kivétellel – mindkét igénylőnek teljesítenie kell, és a nyilatkozatokat mindkét igénylőnek meg kell tennie.
+(2)[^6] Együttes igénylés esetén az igénylési feltételeket – a (2a) bekezdésben foglalt kivétellel – mindkét igénylőnek teljesítenie kell, és a nyilatkozatokat mindkét igénylőnek meg kell tennie.
 
-(2a)[^6] Együttes igénylés esetén a 4. § (2) bekezdése szerinti feltételnek az igénylők legalább egyikének meg kell felelnie.
+(2a)[^7] Együttes igénylés esetén a 4. § (2) bekezdése szerinti feltételnek az igénylők legalább egyikének meg kell felelnie.
 
 (3) A támogatást igényelheti:
 
@@ -20,5 +20,5 @@ e) a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltal
 
 (4) Nem magyar állampolgár részére a támogatás a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt nyújtható.
 
-[^5]: A 3. § (2) bekezdése a 252/2020. (V. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdése a 252/2020. (V. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
