@@ -1,5 +1,19 @@
-## 1. §[^1]
-
 ## 2. A KKIGR elemei
 
-[^1]: Az 1. § az 5. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+2. § (1) A KKIGR kötelezett intézményi elemekből és központi elemekből áll.
+
+(2) Kötelezett intézményi elem a kötelezett intézmény alapinfrastruktúrán futó gazdálkodási rendszere.
+
+(3) Központi elemnek minősül:
+
+a) a felügyeleti lekérdező- és ellenőrzőrendszer (adatelemző modul),
+
+b) a központi pénzügyi engedélyezőrendszer,
+
+c) a beszerzésengedélyezési rendszer,
+
+d) a gyógyszerfelhasználás monitoringrendszer,
+
+e) a központi szerződéstár és
+
+f) a központi gép-, műszer- és orvostechnikai nyilvántartás.

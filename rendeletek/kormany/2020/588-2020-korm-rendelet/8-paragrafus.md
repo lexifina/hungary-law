@@ -1,6 +1,8 @@
-## 7. §[^5]
+8. § A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 95. § (2) bekezdése a következő f) ponttal egészül ki:
 
-8. §[^6]
+(A miniszter az egészségügyért való felelőssége keretében)
+
+„f) az ágazati szintű döntések meghozatalának előkészítése, támogatása érdekében egészségügyi ágazati adatelemző központot működtet.”
 
 1. melléket az 588/2020. (XII. 17.) Korm. rendelethez
 
@@ -15,6 +17,3 @@ A 3. § (3) és (4) bekezdése szerint kötelezett intézmények által szolgál
 | 3. | Számviteli és kontrolling adatok | Az interfész leírásban meghatározottak szerint. | folyamatos |
 
 | 4. | Tárgyi eszközökre és készletekre vonatkozó adatok | Az interfész leírásban meghatározottak szerint. | folyamatos |
-
-[^5]: A 7. § az 5. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^6]: A 8. § az 5. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
