@@ -1,6 +1,6 @@
-## 1. § Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) rendbírság fizetésére kötelezi
+## 1. §[^1] Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) közigazgatási bírság fizetésére kötelezi
 
-a)[^1] azt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 58. § (5) bekezdés c) pontjában meghatározott munkaadót, aki az Flt. 56/A. § (1) bekezdés a) pontjában meghatározott kötelezettségszegést követ el, vagy a munka törvénykönyvéről szóló 2012. évi I. törvény 75. §-ában, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 67. §-ában, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 110. §-ában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 38. §-ában előírtaknak megfelelően – a csoportos létszámcsökkentéssel kapcsolatban – a kormányhivatal részére történő tájékoztatási kötelezettségének nem vagy nem a meghatározott időpontban, továbbá hiányos vagy valótlan adattartalommal tett eleget;
+a)[^2] azt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 58. § (5) bekezdés c) pontjában meghatározott munkaadót, aki az Flt. 56/A. § (1) bekezdés a) pontjában meghatározott kötelezettségszegést követ el, vagy a munka törvénykönyvéről szóló 2012. évi I. törvény 75. §-ában, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 67. §-ában, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 110. §-ában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 38. §-ában előírtaknak megfelelően – a csoportos létszámcsökkentéssel kapcsolatban – a kormányhivatal részére történő tájékoztatási kötelezettségének nem vagy nem a meghatározott időpontban, továbbá hiányos vagy valótlan adattartalommal tett eleget;
 
 b) azt a magán-munkaközvetítő tevékenységet folytató jogi személyt, egyéni vállalkozót, aki
 
@@ -10,4 +10,5 @@ bb) a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyi
 
 c) azt, aki az Flt.-ben, valamint a felhatalmazása alapján más jogszabályban meghatározott foglalkoztatást elősegítő támogatásban részesül, és az erről szóló véglegessé vált határozatban előírt nyilvántartási, adatszolgáltatási kötelezettségének nem tett eleget.
 
-[^1]: Az 1. § a) pontja a 47/2019. (III. 12.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^1]: Az 1. § nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § a) pontja a 47/2019. (III. 12.) Korm. rendelet 13. §-a szerint módosított szöveg.
