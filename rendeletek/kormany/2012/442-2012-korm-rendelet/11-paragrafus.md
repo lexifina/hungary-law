@@ -1,18 +1,20 @@
 ## 6. Nyilvántartás, adatszolgáltatás, információs rendszer
 
-11. § (1)[^24] Az a gyártó, akit a Ktdt. szerint a csomagolás létrehozására felhasznált csomagolószer tekintetében termékdíj-kötelezettség vagy termékdíj-fizetési kötelezettség nem terhel, a (2) bekezdés szerinti nyilvántartást vezet.
+11. § (1)[^27] Az a gyártó, akit a Ktdt. szerint a csomagolás létrehozására felhasznált csomagolószer tekintetében termékdíj-kötelezettség vagy termékdíj-fizetési kötelezettség nem terhel, a (2) bekezdés szerinti nyilvántartást vezet.
 
-(2)[^25] A nyilvántartásnak a következő adatokat kell tartalmaznia:
+(2)[^28] A nyilvántartásnak a következő adatokat kell tartalmaznia:
 
 a) a csomagolás létrehozására felhasznált csomagolószer jellege, fajtája és mennyisége (kg);
 
-b) a visszavett, felhasznált, újrahasznált csomagolás anyagkategória szerinti mennyisége (kg);
+b)[^29] az első alkalommal Magyarországon forgalomba hozott újrahasználható csomagolás és újrahasználható fogyasztói csomagolás anyagkategória és típus szerinti mennyisége (kg), az újrahasználható csomagolás és újrahasználható fogyasztói csomagolás éves forgási ciklusainak anyagkategória és típus szerinti száma (db), az első alkalommal Magyarországon forgalomba hozott újrahasználható könnyű műanyag zacskó és újrahasználható nagyon könnyű műanyag zacskó mennyisége (kg és db), az újrahasználatra került újrahasználható csomagolás és újrahasználható fogyasztói csomagolás forgási ciklusának és tömegének szorzata anyagkategória és típus szerint (kg);
 
-c) az átvett és a gyűjtött csomagolási hulladék fajtája, mennyisége (kg);
+c)[^30] a visszavett, felhasznált, újrahasznált csomagolás anyagkategória szerinti mennyisége (kg);
 
-d) az alapanyagként, anyagában, energetikailag vagy egyéb módon hasznosított csomagolási hulladék fajtája, mennyisége (kg).
+d)[^31] az átvett és a gyűjtött csomagolási hulladék fajtája, mennyisége (kg) és
 
-(3)–(4)[^26]
+e)[^32] az alapanyagként, anyagában, energetikailag vagy egyéb módon hasznosított csomagolási hulladék fajtája, mennyisége (kg).
+
+(3)–(4)[^33]
 
 (5) A gyártó, a forgalmazó a 3. § (1) bekezdésében meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó műanyag rekeszről, raklapról az alábbi tartalommal nyilvántartást vezet:
 
@@ -30,11 +32,16 @@ f) a 4. § (4) bekezdése szerinti rendszer működéséről és annak változá
 
 g) a gyártó nevében eljáró meghatalmazott képviselője személyét érintő esetleges változásokról.
 
-(6) A gyártó, a forgalmazó, a kereskedő, a közvetítő, a hulladékkezelő az e § szerinti nyilvántartást legalább 5 éven keresztül megőrzi.
+(6)[^34] A gyártó, a forgalmazó az e § szerinti nyilvántartást legalább 5 éven keresztül megőrzi.
 
-(7)[^27]
+(7)[^35]
 
-[^24]: A 11. § (1) bekezdése a 30/2017. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^25]: A 11. § (2) bekezdése a 30/2017. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^26]: A 11. § (3)–(4) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^27]: A 11. § (7) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^27]: A 11. § (1) bekezdése a 30/2017. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^28]: A 11. § (2) bekezdése a 30/2017. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^29]: A 11. § (2) bekezdés b) pontja a 724/2020. (XII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^30]: A 11. § (2) bekezdés c) pontja a 724/2020. (XII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^31]: A 11. § (2) bekezdés d) pontja a 724/2020. (XII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^32]: A 11. § (2) bekezdés e) pontját a 724/2020. (XII. 31.) Korm. rendelet 9. §-a iktatta be.
+[^33]: A 11. § (3)–(4) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^34]: A 11. § (6) bekezdése a 724/2020. (XII. 31.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^35]: A 11. § (7) bekezdését a 30/2017. (II. 13.) Korm. rendelet 5. § (1) bekezdés a) pontja hatályon kívül helyezte.

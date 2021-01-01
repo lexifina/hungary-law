@@ -10,9 +10,9 @@ c) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv
 
 d) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek
 
-e)[^37] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelv I. mellékletének módosításáról szóló, 2013. február 7-i 2013/2/EU bizottsági irányelvnek
+e)[^45] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelv I. mellékletének módosításáról szóló, 2013. február 7-i 2013/2/EU bizottsági irányelvnek
 
-f)[^38] a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i 2015/720/EU európai parlamenti és tanácsi irányelvnek
+f)[^46] a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i 2015/720/EU európai parlamenti és tanácsi irányelvnek
 
 ## való megfelelést szolgálja.
 
@@ -32,7 +32,13 @@ f) a 2001/171/EK határozatnak a 94/62/EK irányelvben meghatározott nehézfém
 
 g) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelvben meghatározott nehézfém-koncentráció határértéktől a műanyag rekeszek és a műanyag raklapok esetében való eltérés feltételeinek meghatározásáról szóló, 2009. március 24-i 2009/292/EK bizottsági határozat
 
+h)[^47] a könnyű műanyag hordtasakok éves felhasználásának számítási módszeréről és a 2005/270/EK határozat módosításáról szóló, 2018. június 19-i (EU) 2018/896 bizottsági végrehajtási határozat;
+
+i)[^48] az Európai Parlament és a Tanács csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelve szerinti adatbázisrendszerre vonatkozó formátumok létrehozásáról szóló 2005/270/EK határozat módosításáról szóló, 2019. április 17-i (EU) 2019/665 bizottsági végrehajtási határozat
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^37]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^38]: A 17. § (1) bekezdés f) pontját a 30/2017. (II. 13.) Korm. rendelet 3. §-a iktatta be.
+[^45]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^46]: A 17. § (1) bekezdés f) pontját a 30/2017. (II. 13.) Korm. rendelet 3. §-a iktatta be.
+[^47]: A 17. § (2) bekezdés h) pontját a 724/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^48]: A 17. § (2) bekezdés i) pontját a 724/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
