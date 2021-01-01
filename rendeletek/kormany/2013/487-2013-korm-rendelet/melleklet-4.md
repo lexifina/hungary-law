@@ -30,7 +30,7 @@
 
 ## * A megfelelő témakör vagy témakörök aláhúzandók.
 
-4. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^52]
+4. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^54]
 
 Szám: .............
 
@@ -60,4 +60,4 @@ P. H.
 
 | vizsgabizottság elnöke |
 
-[^52]: A 4. melléklet újonnan a 38/2015. (III. 11.) Korm. rendelet 25. § (14) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 126. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^54]: A 4. melléklet újonnan a 38/2015. (III. 11.) Korm. rendelet 25. § (14) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 126. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

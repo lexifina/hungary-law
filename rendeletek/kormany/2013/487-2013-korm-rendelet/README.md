@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-487-20-
 | 2017-01-01 | 2013-487-20-22.8 | 482/2016. (XII. 28.) Korm. rendelet |
 | 2019-02-12 | 2013-487-20-22.9 | 38/2015. (III. 11.) Korm. rendelet |
 | 2020-03-01 | 2013-487-20-22.10 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-01-01 | 2013-487-20-22.11 | 668/2020. (XII. 28.) Korm. rendelet |
