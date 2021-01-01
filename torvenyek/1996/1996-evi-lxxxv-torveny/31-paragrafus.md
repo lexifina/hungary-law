@@ -42,7 +42,9 @@ p) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető
 
 q) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében,
 
-r) ügyfél öntözési beruházáshoz kapcsolódóan
+r) ügyfél öntözési beruházáshoz kapcsolódóan,
+
+s) az ügyfél jogi képviselője a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott, osztatlan közös tulajdon megszüntetésére irányuló eljáráshoz
 
 kéri.
 
@@ -57,3 +59,5 @@ kéri.
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi.
 
 (7) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a részadat-szolgáltatás során átadott adatok felhasználására jogszerűtlenül, nem a törvényben vagy kormányrendeletben meghatározott céllal került sor, vagy azok harmadik személy részére továbbításra kerültek, az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi.
+
+(8) A (6) és (7) bekezdésben meghatározott jogsértések esetén a figyelmeztetés alkalmazása kizárt.
