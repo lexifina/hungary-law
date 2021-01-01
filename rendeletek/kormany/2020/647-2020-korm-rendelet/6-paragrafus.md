@@ -1,0 +1,1 @@
+## 5. § A Foktftv. 4. § (2) bekezdése szerinti tényfeljegyzés során az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 46. §-a szerinti soron kívüli elintézésre irányuló kérelem benyújtásának, valamint 47/A. §-a szerinti függőben tartásnak nincs helye, kivéve a 47/A. § (1b) bekezdése szerinti függőben tartás esetét.

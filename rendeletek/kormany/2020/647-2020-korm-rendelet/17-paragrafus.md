@@ -1,0 +1,3 @@
+17. § (1) Az osztóprogram a Foktftv. 6. § (1) bekezdése szerinti kiosztás során a kialakítandó új földrészleteket egyedi azonosítóval látja el.
+
+(2) Az egyedi azonosítót a kiinduló földrészlet helyrajzi számából kell képezni. Az egyedi azonosító a megosztandó földrészlet helyrajzi számból, egy speciális „-” karakterből és egy arab számmal írt sorszámból áll. Az egyedi azonosítót a megosztás során minden újonnan kialakított földrészlet tekintetében a program automatikusan generálja, és rendeli az újonnan kialakított földrészletekhez. Ha a kialakított új földrészletnek nincs egyedi azonosítója, a műszaki dokumentáció az osztóprogramban véglegesen nem zárható le.
