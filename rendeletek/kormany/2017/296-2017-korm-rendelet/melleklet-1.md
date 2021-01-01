@@ -1,4 +1,4 @@
-## 7. §[^4]
+## 7. §[^7]
 
 1. melléklet a 296/2017. (X. 10.) Korm. rendelethez
 
@@ -44,4 +44,4 @@
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
