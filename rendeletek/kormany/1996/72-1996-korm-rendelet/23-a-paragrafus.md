@@ -1,6 +1,6 @@
-## 23. §[^191] A vízbeszerzésre meghatározott, továbbá a befogadóba vezethető vízmennyiségeket a vízügyi hatóság – a kiadott elvi vízjogi engedély hatályán belül – bejegyzett igényként, a vízkészlet-nyilvántartásról szóló külön jogszabály szerint tartja nyilván.
+## 23. §[^192] A vízbeszerzésre meghatározott, továbbá a befogadóba vezethető vízmennyiségeket a vízügyi hatóság – a kiadott elvi vízjogi engedély hatályán belül – bejegyzett igényként, a vízkészlet-nyilvántartásról szóló külön jogszabály szerint tartja nyilván.
 
-## A VIZEK rendszer[^192]
+## A VIZEK rendszer[^193]
 
 23/A. § (1) A VIZEK rendszert mint elektronikus szakrendszert
 
@@ -24,5 +24,5 @@ részére a VIZEK rendszert működteti.
 
 (5) A VIZEK Keretrendszer részét képezi az előszűrő felület és döntéstámogató modul, valamint az adatgyűjtő felület, míg az integrált hatósági rendszer részét képezi az e-vízikönyv és az elektronikus vízkészletjárulék-nyilvántartás.
 
-[^191]: A 23. § a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 23. §-ban az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^192]: A „VIZEK rendszer” alcímet (23/A–23/G. §) a 286/2019. (XII. 4.) Korm. rendelet 12. §-a iktatta be.
+[^192]: A 23. § a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 23. §-ban az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^193]: A „VIZEK rendszer” alcímet (23/A–23/G. §) a 286/2019. (XII. 4.) Korm. rendelet 12. §-a iktatta be.
