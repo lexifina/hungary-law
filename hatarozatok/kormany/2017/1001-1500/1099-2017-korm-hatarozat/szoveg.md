@@ -26,19 +26,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az Alapítvány bírósági nyilvántartásba vételét követően azonnal
 
-2.a.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet címrendjének a 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím,
-
-a) 91. Habsburg Ottó Alapítvány létrehozásához, céljainak megvalósításához szükséges, alapítói okirat szerinti pénzbeli vagyonrendelés jogcímcsoporttal és
-
-b) 92. Habsburg Ottó Alapítvány működéséhez és feladatainak ellátásához szükséges hozzájárulás jogcímcsoporttal
-
-történő kiegészítését.
-
-Felelős: nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
+2.a.[^1]
 
 3. A Kormány
 
@@ -92,5 +80,5 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a 2018. évi központi költségvetés tervezése során, majd ezt követően az éves központi költségvetés tervezése során
 
-[^1]: A 2.a. pontot az 1313/2017. (VI. 8.) Korm. határozat 2. pontja iktatta be.
+[^1]: A 2.a. pontot az 1313/2017. (VI. 8.) Korm. határozat 2. pontja iktatta be, a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^2]: A 3. pont az 1313/2017. (VI. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
