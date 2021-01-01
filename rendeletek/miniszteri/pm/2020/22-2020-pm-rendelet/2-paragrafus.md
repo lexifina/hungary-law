@@ -1,0 +1,1 @@
+## 1. § A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. mellékletében meghatározott, a pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok felhasználási szabályait az 1–11. melléklet tartalmazza.
