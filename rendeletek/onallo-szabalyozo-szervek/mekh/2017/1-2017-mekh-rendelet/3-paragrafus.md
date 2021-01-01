@@ -30,17 +30,19 @@ ca) kötelező energetikai auditálás teljesítése céljából,
 
 cb) a társasági adóról és az osztalékadóról szóló törvény szerinti energiahatékonysági célokat szolgáló beruházás adókedvezményének (a továbbiakban: energiahatékonysági adókedvezmény) igénybevétele céljából vagy
 
-cc) egyéb célból (az egyéb cél megjelölésével)
+cc)[^1] az energiamegtakarítási kötelezettség teljesítéseként elszámolni kívánt energiamegtakarítás mértékének megállapítása céljából vagy
+
+cd)[^2] egyéb célból, a cél megjelölésével
 
 történt;
 
 d) az energetikai auditálás mely műszaki rendszerre (például kazán, épület, telephely, telephelyek, technológia) vonatkozik;
 
-e)[^1] kötelező energetikai auditálás esetén a megbízó cég neve, székhelye, adószáma, valamint azon vállalkozás cégneve, székhelye, adószáma, amelyre az energetikai audit kiterjed;
+e)[^3] kötelező energetikai auditálás esetén a megbízó cég neve, székhelye, adószáma, valamint azon vállalkozás cégneve, székhelye, adószáma, amelyre az energetikai audit kiterjed;
 
-f)[^2] az energiahatékonysági adókedvezmény igénybevételéhez elvégzett energetikai auditálás esetén kiállított igazolás kiállítási dátuma, az igazolt energiamegtakarítás és az igazolás címzettje (cég neve, székhelye, adószáma);
+f)[^4] az energiahatékonysági adókedvezmény igénybevételéhez elvégzett energetikai auditálás esetén kiállított igazolás kiállítási dátuma, az igazolt energiamegtakarítás és az igazolás címzettje (cég neve, székhelye, adószáma);
 
-g)[^3] az auditált műszaki rendszer energiafelhasználásáról és az energiahatékonysági adókedvezmény céljából készített energetikai audit esetén a kiinduló állapot energiafelhasználásáról az alábbi adatok:
+g)[^5] az auditált műszaki rendszer energiafelhasználásáról és az energiahatékonysági adókedvezmény céljából készített energetikai audit, valamint az energiamegtakarítási kötelezettség teljesítéseként elszámolni kívánt energiamegtakarítás mértékét megállapító energetikai audit esetén a kiinduló állapot energiafelhasználásáról az alábbi adatok:
 
 ga) az épület, tevékenység és szállítás területeire vonatkozóan (a továbbiakban: részterületek) az auditált műszaki rendszer éves energiafelhasználásának mennyisége energiahordozónként a mért mértékegységekben és a teljes energiafelhasználás kWh/év mértékegységben is megadva,
 
@@ -48,7 +50,7 @@ gb) részterületenként az auditált műszaki rendszer működésével összef�
 
 gc) részterületenként az auditált műszaki rendszer működésével összefüggésben felmerült teljes éves energiafelhasználás költsége az előző naptári évről ezer Ft/év mértékegységben megadva;
 
-h)[^4] az auditált műszaki rendszerrel kapcsolatban javasolt energiahatékonysági beavatkozásokról az alábbi adatok:
+h)[^6] az auditált műszaki rendszerrel kapcsolatban javasolt energiahatékonysági beavatkozásokról az alábbi adatok:
 
 ha) az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 13. § (6) bekezdésében meghatározott egyes beavatkozási módokkal elérhető energiamegtakarítás mértéke és az összes elérhető energiamegtakarítás mértéke kWh/év mértékegységben megadva,
 
@@ -70,7 +72,7 @@ hi) a javasolt energiahatékonyságot növelő egyes intézkedések megtérülé
 
 hj) a javasolt energiahatékonyságot növelő egyes intézkedések megvalósítása esetén létrejövő műszaki rendszer tervezett műszaki élettartama.
 
-i)[^5] az energiahatékonysági adókedvezmény igénybevétele céljából készített energetikai audit esetén az üzembe helyezett beruházásról az alábbi adatok:
+i)[^7] az energiahatékonysági adókedvezmény igénybevétele, valamint az energiamegtakarítási kötelezettség teljesítéseként elszámolni kívánt energiamegtakarítás mértékének megállapítása céljából készített energetikai audit esetén az üzembe helyezett beruházásról az alábbi adatok:
 
 ia) az energiahatékonysági célt szolgáló beruházás megnevezése, leírása,
 
@@ -92,8 +94,10 @@ ii) az energiahatékonysági célt szolgáló beruházással létrejött műszak
 
 (3) Hiányos vagy hibás tartalmú adatszolgáltatás esetén az adatszolgáltató az Ehat. 23. § (1) bekezdésében meghatározott határidőn belül, a Hivatal felszólítását megelőzően az adatszolgáltatás ismételt benyújtásával végezhet adatkorrekciót.
 
-[^1]: A 3. § (2) bekezdés e) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^2]: A 3. § (2) bekezdés f) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^3]: A 3. § (2) bekezdés g) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdés h) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^5]: A 3. § (2) bekezdés i) pontját a 10/2017. (VIII. 10.) MEKH rendelet 1. §-a iktatta be.
+[^1]: A 3. § (2) bekezdés c) pont cc) alpontja a 17/2020. (XII. 21.) MEKH rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (2) bekezdés c) pont cd) alpontját a 17/2020. (XII. 21.) MEKH rendelet 8. § (1) bekezdése iktatta be.
+[^3]: A 3. § (2) bekezdés e) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés f) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § (2) bekezdés g) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított, nyitó szövegrésze a 17/2020. (XII. 21.) MEKH rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdés h) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (2) bekezdés i) pontját a 10/2017. (VIII. 10.) MEKH rendelet 1. §-a iktatta be, nyitó szövegrésze a 17/2020. (XII. 21.) MEKH rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.

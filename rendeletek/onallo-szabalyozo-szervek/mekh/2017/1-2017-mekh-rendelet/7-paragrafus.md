@@ -4,6 +4,6 @@
 
 (2) A 2016. évre vonatkozó auditálási tevékenységről 2017. május 31-ig kell adatot szolgáltatni.
 
-(3)[^8]
+(3)[^10]
 
-[^8]: A 7. § (3) bekezdését a 10/2017. (VIII. 10.) MEKH rendelet 3. §-a hatályon kívül helyezte.
+[^10]: A 7. § (3) bekezdését a 10/2017. (VIII. 10.) MEKH rendelet 3. §-a hatályon kívül helyezte.
