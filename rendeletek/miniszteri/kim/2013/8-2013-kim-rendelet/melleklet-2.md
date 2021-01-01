@@ -1,21 +1,27 @@
-| FELHÍVÁS |
+## FELHÍVÁS
 
-| A ....................................... Járásbíróságnak/Törvényszéknek az ........... év ....................... hó ........ napján kelt ................/ 20....../........ számú, a ...................................................... Törvényszéknek/Ítélőtáblának mint másodfokú bíróságnak a 20....... év ........................ hó ........... napján kelt .................../20......../...................... számú, illetve az Ítélőtábla/Kúria mint harmadfokú közérdekű munkát kiszabó ügydöntő határozata, illetve a Törvényszék bv. bírójának ......... számú végzése alapján |
+## A ....................................................……..... Járásbíróságnak/Törvényszéknek az ........... év ....................... hó ........ napján kelt
 
-| felhívom |
+## ................/20......./........ számú, a ...................................................... Törvényszéknek/Ítélőtáblának mint másodfokú bíróságnak a 20....... év ...................……... hó ........... napján kelt .......…........../20...….../..............…..... számú, illetve az Ítélőtábla/Kúria mint harmadfokú közérdekű munkát kiszabó ügydöntő határozata, illetve a Törvényszék bv. bírójának .……………..... számú végzése, valamint a .......................…............... sz. munkahely kijelöléséről hozott véglegessé vált határozat alapján
 
-| ............................................................................................... (születési név: ................................................................) elítéltet (aki ......................-n 19......... év ..................................................................... hó .................................. napján született, anyja neve: ........................................................................................................................), hogy a közérdekű munka megkezdése végett ......................................................................................... napján a kijelölt munkahely (....................................................................................................) igazgatójánál/vezetőjénél/munkaügyi osztályán személyesen jelentkezzék. |
+## felhívom
 
-| Ha ennek a felhívásnak alapos ok nélkül nem tesz eleget, magát a közérdekű munka büntetés-végrehajtása alól kivonja, vagy a munkafegyelmet súlyosan sértő magatartást tanúsít, a bíróság a közérdekű munkát, illetve a munkának e körülmények bekövetkezésekor még hátralévő részét szabadságvesztésre változtatja át. |
+## ................................................... (születési név: .........................................) elítéltet (aki ................-n 19....... év ..................... hó
 
-| ........................................, 20........ év .......................... hó ..... napján |
+## ...…...... napján született, anyja neve: ...............……………................................), hogy a közérdekű munka megkezdése végett ...............................…...... napján/határidőben a kijelölt munkahely (............................................................................................) igazgatójánál/vezetőjénél/munkaügyi osztályán személyesen jelentkezzék. A foglalkoztathatósági szakvéleményt magával kell vinnie és be kell mutatnia a munkáltatónak.
 
-| ................................................ pártfogó felügyelő |
+## Ha ennek a felhívásnak alapos ok nélkül nem tesz eleget, magát a közérdekű munka végrehajtása alól kivonja, vagy a munkafegyelmet súlyosan sértő magatartást tanúsít, a bíróság a közérdekű munkát, illetve a munkának e körülmények bekövetkezésekor még hátralévő részét szabadságvesztésre változtatja át.
 
-| Címzett: ...................................................... |
+## ........................................, 20........ év .......................... hó ..... napján
 
-| ........................................................................ |
+## ................................................
 
-2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^226]
+## pártfogó felügyelő
 
-[^226]: A 2. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (2) bekezdésével megállapított szöveg.
+## Címzett: .................................................
+
+## ...........................................................….
+
+2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^249]
+
+[^249]: A 2. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (2) bekezdésével megállapított szöveg.

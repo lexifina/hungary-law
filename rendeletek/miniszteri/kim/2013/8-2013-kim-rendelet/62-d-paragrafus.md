@@ -1,4 +1,4 @@
-62/D. § (1) Azon környezettanulmányok esetében, amelyeket a bv. intézet, vagy az igazságügyért felelős miniszter [Bv. tv. 46/C. § c) pont] kér, a fogvatartott meghallgatása nem mellőzhető.
+62/D. § (1)[^230] Azon környezettanulmányok esetében, amelyeket a bv. intézet, a kegyelemi eljárásban az első fokon eljárt bíróság, vagy az igazságügyért felelős miniszter [Bv. tv. 46/C. § c) pont] kér, a fogvatartott meghallgatása nem mellőzhető.
 
 (2) A feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítélt kegyelmi eljárása során készített környezettanulmányban a büntetés-végrehajtási pártfogó felügyelő bemutatja különösen
 
@@ -21,3 +21,5 @@ b) annak tejesítéséhez fűződik-e a büntetés-végrehajtás eredményesség
 a) a nevelési tervben és az abban foglalt intézkedésekben meghatározott, a szabadulás utáni várható bűnmegelőzési célok érvényesülését,
 
 b) a fiatalkorú elítélt befogadó környezetével, gondozójával való várható kapcsolatának gyakoriságát és tervezett módját.
+
+[^230]: A 62/D. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 57. § 18. pontja szerint módosított szöveg.

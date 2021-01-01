@@ -30,6 +30,6 @@
 
 | .................................................. pártfogó felügyelő |
 
-3. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^227]
+3. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^250]
 
-[^227]: A 3. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (3) bekezdésével megállapított szöveg.
+[^250]: A 3. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (3) bekezdésével megállapított szöveg.

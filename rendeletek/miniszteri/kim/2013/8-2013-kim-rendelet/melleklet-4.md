@@ -20,7 +20,7 @@
 
 ## ”
 
-4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^228]
+4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^251]
 
 A közérdekű munkára ítéltre vonatkozó jelenléti ív
 
@@ -112,4 +112,4 @@ Kelt: ..........................................................
 
 | .......................................................................................................... munkahelyet biztosító gazdálkodó szervezet cégszerű aláírása/egyéb szervezet képviseletére jogosult aláírása |
 
-[^228]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított szöveg.
+[^251]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított szöveg.
