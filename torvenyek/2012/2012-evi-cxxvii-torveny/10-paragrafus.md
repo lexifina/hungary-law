@@ -8,7 +8,7 @@ b) az országos elnökségből (a továbbiakban: elnökség),
 
 c) az országos felügyelőbizottságból,
 
-d) az országos etikai bizottságból,
+d) az országos első- és másodfokú etikai bizottságból,
 
 e) az országos oktatási bizottságból,
 
@@ -22,7 +22,7 @@ a) a (3) bekezdésben meghatározott személyek,
 
 b) az országos felügyelőbizottság elnöke,
 
-c) az országos etikai bizottság elnöke,
+c) az országos első- és másodfokú etikai bizottság elnöke,
 
 d) az országos oktatási bizottság elnöke,
 

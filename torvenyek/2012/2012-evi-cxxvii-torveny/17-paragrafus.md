@@ -18,7 +18,7 @@ a) a területi szervezet esetén
 
 aa) a megválasztására jogosult testület tagjainak legalább fele,
 
-ab) az etikai bizottság,
+ab)
 
 ac) a felügyelőbizottság,
 
@@ -26,7 +26,7 @@ b) az országos szervezet esetén
 
 ba) a megválasztására jogosult testület tagjainak legalább fele,
 
-bb) az országos etikai bizottság,
+bb) az országos másodfokú etikai bizottság,
 
 bc) az országos felügyelőbizottság
 

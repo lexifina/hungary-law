@@ -2,7 +2,7 @@
 
 (2) A területi közgyűlés kizárólagos hatáskörébe tartozik:
 
-a) a területi tisztségviselők, az etikai bizottság, a felügyelőbizottság és az oktatási bizottság, valamint egyéb állandó bizottság tagjainak a megválasztása,
+a) a területi tisztségviselők, az országos elsőfokú etikai bizottság tagjának és póttagjának, a felügyelőbizottság és az oktatási bizottság, valamint egyéb állandó bizottság tagjainak a megválasztása,
 
 b) a területi szervezet vezetősége (a továbbiakban: vezetőség) és a felügyelőbizottság éves beszámolójának az elfogadása,
 

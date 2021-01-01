@@ -4,7 +4,7 @@
 
 a) az Alapszabály, a szakmai irányelvek, a kamarai szabályzatok, valamint az etikai szabályzat megalkotása és módosítása,
 
-b) az országos tisztségviselők, az országos etikai bizottság, az országos felügyelőbizottság és az országos oktatási bizottság, valamint egyéb országos állandó bizottság tagjainak a megválasztása,
+b) az országos tisztségviselők, az országos másodfokú etikai bizottság, az országos felügyelőbizottság és az országos oktatási bizottság, valamint egyéb országos állandó bizottság tagjainak a megválasztása,
 
 c) az elnökség és az országos felügyelőbizottság éves beszámolójának az elfogadása,
 

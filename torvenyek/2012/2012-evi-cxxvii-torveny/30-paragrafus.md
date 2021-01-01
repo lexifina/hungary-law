@@ -1,6 +1,6 @@
-30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos etikai bizottságnak.
+30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró elsőfokú etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos másodfokú etikai bizottságnak.
 
-(2) Az országos etikai bizottság az elsőfokú etikai bizottság határozatát
+(2) Az országos másodfokú etikai bizottság az elsőfokú etikai bizottság határozatát
 
 a) helybenhagyja és a fellebbezést elutasítja, ha a rendelkezésre álló iratok alapján a tényállást tisztázottnak és az elsőfokú etikai bizottság határozatát helyénvalónak ítéli meg,
 

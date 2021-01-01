@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-127-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2012-127-00-00.9 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-127-00-00.10 |
 | 2020-08-01 | 2020. évi LIII. törvény | 2012-127-00-00.11 |
+| 2021-01-01 | 2020. évi LIII. törvény | 2012-127-00-00.12 |

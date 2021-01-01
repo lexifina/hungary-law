@@ -16,7 +16,7 @@ d) országgyűlési vagy európai parlamenti képviselő, állami vezető, megye
 
 (4) A tisztségviselő azonos kamarai szervezeten belül egyidejűleg egy kamarai tisztséget tölthet be. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet elnöke, alelnöke vagy főtitkára.
 
-(5) A vezetőségnek, az elnökségnek, az etikai, az országos etikai, a felügyelő, az országos felügyelő, az oktatási, valamint az országos oktatási bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
+(5) A vezetőségnek, az elnökségnek, az országos első- és másodfokú etikai, a felügyelő, az országos felügyelő, az oktatási, valamint az országos oktatási bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 
 (6) A (2), (4) és (5) bekezdésben megjelölt összeférhetetlenségi ok fennállásáról az érintett a megválasztása előtt köteles nyilatkozni. Nyilatkozatában egyúttal vállalja, hogy megválasztása esetén harminc napon belül az összeférhetetlenségi okot megszünteti. Amennyiben az összeférhetetlenség a választást követően merül fel, az érintett az attól számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni. Az összeférhetetlenség megszüntetéséről az érintett a választására jogosult testületet haladéktalanul tájékoztatja.
 

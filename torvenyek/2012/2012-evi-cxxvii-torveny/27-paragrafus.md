@@ -14,4 +14,4 @@ c) az etikai eljárás alá vont kamarai tag etikai eljárás tárgyává tett c
 
 d) az etikai eljárás alá vont kamarai tag tagsági jogviszonya megszűnik.
 
-(5) Állat-egészségügyi szolgáltató tevékenységet folytató gazdasági társaság, szövetkezet vagy más szervezet a területi etikai bizottság vagy az országos etikai bizottság írásbeli felkérésére köteles megnevezni azt a kamarai tagot, aki etikai felelősséget visel a társaság vagy szervezet állat-egészségügyi szolgáltató tevékenységével közvetlenül összefüggő egyéb tevékenységéért, különösen hirdetések, céges és tájékoztató táblák tartalmáért és elhelyezéséért.
+(5) Állat-egészségügyi szolgáltató tevékenységet folytató gazdasági társaság, szövetkezet vagy más szervezet az országos első- vagy másodfokú etikai bizottság írásbeli felkérésére köteles megnevezni azt a kamarai tagot, aki etikai felelősséget visel a társaság vagy szervezet állat-egészségügyi szolgáltató tevékenységével közvetlenül összefüggő egyéb tevékenységéért, különösen hirdetések, céges és tájékoztató táblák tartalmáért és elhelyezéséért.
