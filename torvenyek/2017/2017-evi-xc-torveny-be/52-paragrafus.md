@@ -1,6 +1,6 @@
 ## Sértetti jogutódlás
 
-52. § (1) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azután meghal, helyébe egy hónapon belül hozzátartozója, törvényes képviselője vagy a sértett által jogszabály, illetve szerződés alapján eltartott személy léphet, és
+52. § (1) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azután meghal, helyébe hozzátartozója, törvényes képviselője vagy a sértett által jogszabály, illetve szerződés alapján eltartott személy léphet, és
 
 a) a polgári jogi igény érvényesítését kivéve gyakorolhatja a sértettet megillető jogokat, ideértve a magánvádlóként, vagy pótmagánvádlóként történő fellépést, és
 

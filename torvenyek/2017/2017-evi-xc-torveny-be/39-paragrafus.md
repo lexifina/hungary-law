@@ -1,4 +1,4 @@
-## A terhelt jogai és kötelezettségei
+## A terhelt és a bűncselekmény elkövetésével megalapozottan gyanúsítható személy jogai és kötelezettségei
 
 39. § (1) A terhelt jogosult arra, hogy
 
@@ -32,7 +32,9 @@ b) a fogva tartásáról egy általa választott személyt a bíróság, az ügy
 
 c) a védőjével, és ha külföldi állampolgár, az államának konzuli képviselőjével a kapcsolatot felvegye, vele személyesen, postai vagy elektronikus úton ellenőrzés nélkül érintkezzen,
 
-d) az általa választott személlyel a vádemelés előtt az ügyészség, azután a bíróság rendelkezése szerint személyesen felügyelet mellett, továbbá postai vagy elektronikus úton ellenőrzés mellett érintkezzen.
+d) az általa választott személlyel a vádemelés előtt az ügyészség, azután a bíróság rendelkezése szerint személyesen felügyelet mellett, továbbá postai vagy elektronikus úton ellenőrzés mellett érintkezzen,
+
+e) törvénnyel kihirdetett nemzetközi szerződésben meghatározott személlyel, hatósággal a nemzetközi szerződésben meghatározottak szerint érintkezzen.
 
 (3) A terhelt köteles
 
@@ -47,3 +49,5 @@ b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézb
 (6) Az (1) bekezdés b) és e) pontja szerinti jog gyakorlása érdekében a bíróság, az ügyészség vagy a nyomozó hatóság az eljárási cselekmény megkezdését vagy elvégzését legalább egy órára elhalasztja, ha a terheltnek a védekezésre való felkészülésre, vagy a védővel való tanácskozásra az eljárási cselekmény megkezdése előtt – a terhelt és a védő önhibáján kívüli okból – nem volt lehetősége.
 
 (7) A (2) bekezdés d) pontja szerinti jog biztosítása során a bíróság vagy az ügyészség a hozzátartozóval való érintkezést kizárólag a büntetőeljárás eredményessége, vagy más személy életének, testi épségének védelme érdekében korlátozhatja vagy tilthatja meg. Az erről szóló határozat ellen a terhelt és a védő élhet jogorvoslattal.
+
+(8) A bűncselekmény elkövetésével megalapozottan gyanúsítható személy jogaira és kötelezettségeire – az (1) bekezdés a), f)–h), j) és k) pontja, valamint a (3) bekezdés b) pontja kivételével – a terhelt jogaira és kötelezettségeire vonatkozó szabályokat kell megfelelően alkalmazni.

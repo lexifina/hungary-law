@@ -8,7 +8,7 @@ b) akiről megalapozottan feltehető, hogy a bűncselekmény elkövetőjeként s
 
 a) a titoktartás körébe tartozó adatok megismerése céljából, azzal a hivatásánál, foglalkozásánál vagy közmegbízatásánál fogva titoktartásra köteles személlyel szemben, aki a 170. § (1) bekezdés b) pontja alapján tanúként nem hallgatható ki, vagy a 173. § alapján a tanúvallomást megtagadhatná,
 
-b) a minősített adat megismerése céljából azzal a minősített adatot kezelő személlyel szemben, aki a 170. § (1) bekezdés d) pontja alapján tanúkét nem lenne kihallgatható,
+b) a minősített adat megismerése céljából azzal a minősített adatot kezelő személlyel szemben, aki a 170. § (1) bekezdés d) pontja alapján tanúként nem lenne kihallgatható,
 
 c) a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétének megismerése céljából, azzal szemben, aki a tanúvallomást a 174. § alapján megtagadhatná.
 

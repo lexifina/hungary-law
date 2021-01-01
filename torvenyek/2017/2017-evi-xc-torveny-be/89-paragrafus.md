@@ -28,4 +28,4 @@ f) a sértett részvételét igénylő eljárási cselekményen jelen lévő sze
 
 g) a nyilvánosságot ki kell zárni a tárgyalásnak arról a részéről, ahol a sértett részvétele az eljárási cselekményen kötelező.
 
-(5) Ha a 82. § c) pontja alapján különleges bánásmódot igénylő sértett a tizennegyedik életévét nem töltötte be, a sértett védelme érdekében a bíróság hivatalból vagy indítványra mellőzheti a sértett tanúként történő kihallgatását, ha a sértett kihallgatására a nyomozás során a (4) bekezdés b) pontjának megfelelően már sor került. Ebben az esetben a sértett nyomozás során tett tanúvallomása bizonyítási eszközként felhasználható.
+(5) Ha a 82. § c) pontja alapján különleges bánásmódot igénylő sértett a tizennyolcadik életévét nem töltötte be, a sértett védelme érdekében a bíróság hivatalból vagy indítványra mellőzheti a sértett tanúként történő kihallgatását, ha a sértett kihallgatására a nyomozás során a (4) bekezdés b) pontjának megfelelően már sor került. Ebben az esetben a sértett nyomozás során tett tanúvallomása bizonyítási eszközként felhasználható.

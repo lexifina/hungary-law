@@ -10,4 +10,4 @@
 
 a) mellőzi, ha a terhelt már nem áll személyi szabadságot érintő bírói engedélyes kényszerintézkedés hatálya alatt, vagy más személyi szabadságot érintő bírói engedélyes kényszerintézkedés hatálya alatt áll,
 
-b) a terhelt egyidejű értesítése mellett mellőzheti, ha az indítvány előterjesztése és az indítvány elbírálása között a letartóztatást meghosszabbította vagy fenntartotta.
+b) a terhelt és a védő egyidejű értesítése mellett mellőzheti, ha az indítvány előterjesztése és az indítvány elbírálása között a letartóztatást meghosszabbította vagy fenntartotta.

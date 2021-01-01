@@ -1,6 +1,6 @@
 ## Bizonyítás felvétele kiküldött bíró vagy megkeresett bíróság útján
 
-534. § (1) Ha a bizonyítás tárgyaláson nem végezhető el vagy rendkívüli nehézségbe ütközik, kiküldött bíróként az egyesbíró vagy a tanács egy tagja jár el, vagy – szükség esetén – azonos hatáskörű más bíróságot keres meg. A bizonyítás felvételéről az ügyészséget, a vádlottat és védőjét, valamint a sértettet tájékoztatni kell.
+534. § (1) Ha a bizonyítás tárgyaláson nem végezhető el vagy rendkívüli nehézségbe ütközik, kiküldött bíróként az egyesbíró vagy a tanács egy tagja jár el, vagy – szükség esetén – azonos hatáskörű más bíróságot keres meg. A bizonyítás felvételéről az ügyészséget, a vádlottat és védőjét, valamint a sértettet értesíteni kell.
 
 (2) A megkeresett bírósággal közölni kell a vádlott, a védő és a sértett nevét és elérhetőségét, a bizonyítás során tisztázandó tényállást, a kihallgatandó személyek nevét és elérhetőségét, valamint azt, hogy milyen körülményekre kell őket kihallgatni. A megkeresett bíróság részére meg kell küldeni azokat az ügyiratokat vagy az ügyiratok másolatát, amelyek a megkeresés teljesítéséhez szükségesek.
 

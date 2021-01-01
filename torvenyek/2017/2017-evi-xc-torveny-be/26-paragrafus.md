@@ -8,7 +8,7 @@ a) a nyomozást vagy a feljelentés kiegészítését a nyomozó hatóság öná
 
 b) a nyomozó hatóság eljárásának törvényességét ellenőrzi,
 
-c) a nyomozó hatóság törvénysértő határozatát hatályon kívül helyezheti,
+c) a nyomozó hatóság törvénysértő határozatát megváltoztathatja vagy hatályon kívül helyezheti,
 
 d) megállapíthatja, hogy a nyomozó hatóság az eljárási cselekményt törvénysértően végezte el vagy törvénysértő intézkedést tett,
 
@@ -45,3 +45,5 @@ h) a nyomozó hatóságot beszámolásra kötelezheti.
 (5) Az ügyészség bármely ügyben magához vonhatja a nyomozást.
 
 (6) Az ügyész azokat a jogokat gyakorolja, amelyek azt az ügyészséget illetik, ahol az ügyész működik. Eljárási cselekmény elvégzését kizárólag az eljáró ügyész felettes ügyésze tilthatja meg.
+
+(7) Ha törvény eltérően nem rendelkezik, a felettes ügyészség felügyeleti jogkörében az ügyészség felügyeleti és irányítási jogkörének gyakorlása tekintetében a (2) bekezdés b)–f) és i) pontjában meghatározott felügyeleti jogköröket gyakorolja.

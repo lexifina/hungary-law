@@ -18,9 +18,11 @@ e) a felülbírálati indítványról,
 
 f) a rendbírság elzárásra történő átváltoztatásáról,
 
-g) a megszüntetett eljárás folytatásának a 400. § (5) bekezdése szerinti elrendeléséről, és
+g) a megszüntetett eljárás folytatásának a 400. § (5) bekezdése szerinti elrendeléséről,
 
-h) az eljárás folytatásának elrendeléséről azzal szemben, akivel szemben a feljelentést a 382. § (1) bekezdése alapján utasították el vagy az eljárást a 399. § alapján szüntették meg, és az ügyészség az indítványt az együttműködés megszegésére alapozza.
+h) az eljárás folytatásának elrendeléséről azzal szemben, akivel szemben a feljelentést a 382. § (1) bekezdése alapján utasították el vagy az eljárást a 399. § alapján szüntették meg, és az ügyészség az indítványt az együttműködés megszegésére alapozza, és
+
+i) törvény által meghatározott egyéb esetben.
 
 (3) A bíróság ellátja a bírói engedélyhez kötött leplezett eszközök alkalmazásával kapcsolatban a XXXVIII. Fejezetben meghatározott feladatokat.
 

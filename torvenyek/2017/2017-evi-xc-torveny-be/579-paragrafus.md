@@ -10,6 +10,6 @@
 
 (3) A végzés elleni fellebbezés elintézésére az ítélet elleni fellebbezés szabályai megfelelően irányadók azzal, hogy nem ügydöntő végzés esetén
 
-a) nem alkalmazható az 583. § (3) bekezdése, valamint az 590. § (5) bekezdése és
+a) nem alkalmazható az 583. § (3) bekezdése, az 584. § (6) bekezdése és az 590. § (5) bekezdése, illetve
 
 b) fellebbezésre jogosult az egyéb érdekelt is.

@@ -1,4 +1,4 @@
-47. § (1) A vádemelés előtt a nyomozó hatóság vagy az ügyészség a helyettes védőre vonatkozó rendelkezések megfelelő alkalmazásával gondoskodik védő jelenlétéről az eljárási cselekményen, ha
+47. § (1) A vádemelés előtt a nyomozó hatóság vagy az ügyészség a helyettes védőre vonatkozó rendelkezések megfelelő alkalmazásával gondoskodik védő jelenlétéről, ha
 
 a) a területi ügyvédi kamara a védő kijelöléséről a kirendelő határozat kézhezvételétől számított egy órán belül nem gondoskodik,
 
@@ -20,4 +20,4 @@ c) a kijelöléskor a kijelölt védő szabályszerű idézése vagy értesíté
 
 (3) A (2) bekezdés b) és c) pontja esetén a területi ügyvédi kamara kijelölése a bíróság kijelölő határozatával hatályát veszti.
 
-(4) Az (1) és (2) bekezdés esetén a védőt kijelölő határozatot a területi ügyvédi kamarával, szükség esetén a területi ügyvédi kamara által kijelölt ügyvéddel is közölni kell.
+(4) Az (1) és (2) bekezdés esetén a védőt kijelölő határozatot szükség esetén a területi ügyvédi kamara által kijelölt ügyvéddel is közölni kell.

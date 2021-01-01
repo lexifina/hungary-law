@@ -6,6 +6,8 @@ b) dolog kiadására vagy pénz fizetésére
 
 irányuló követelés érvényesíthető, amely a vád tárgyává tett cselekmény közvetlen következtében keletkezett.
 
+(1a) A büntetőeljárásban polgári jogi igényként a vád tárgyává tett cselekmény közvetlen következtében keletkezett sérelemdíj fizetésére irányuló követelés kizárólag az 571. § (2b) bekezdésében meghatározott esetben érvényesíthető.
+
 (2) A polgári jogi igényre a polgári perrendtartásról szóló törvénynek a kereseti kérelem fajtáira vonatkozó rendelkezéseit is alkalmazni kell. Ha a sértett az (1) bekezdésben foglalt követeléseket vagylagosan érvényesíti, a polgári perrendtartásról szóló törvénynek a keresethalmazatra vonatkozó rendelkezéseit is alkalmazni kell.
 
 (3) A büntetőeljárásban nem érvényesíthető polgári jogi igényként az az igény, amely bírósági úton nem érvényesíthető.

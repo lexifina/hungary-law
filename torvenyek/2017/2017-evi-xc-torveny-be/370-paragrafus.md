@@ -4,7 +4,7 @@
 
 (3) Az ügyészség határozata elleni panaszt a felettes ügyészség, a nyomozó hatóság határozata elleni panaszt az ügyészség az ügyiratok érkezésétől számított tizenöt napon, az eljárást megszüntető határozat esetén egy hónapon belül bírálja el.
 
-(4) Ha a panaszt elbíráló ügyészség a panaszt alaposnak tartja, a határozatot hatályon kívül helyezi vagy megváltoztatja, ellenkező esetben a panaszt elutasítja.
+(4) Ha a panaszt elbíráló ügyészség a panaszt alaposnak tartja, a határozatot hatályon kívül helyezi vagy megváltoztatja, ellenkező esetben a panaszt elutasítja. A panaszt elbíráló ügyészség a határozat törvénysértő rendelkezését a panasz elutasítása esetén is hivatalból megváltoztathatja vagy hatályon kívül helyezheti.
 
 (5) A panaszt elbíráló ügyészség a 80. § (1) bekezdés a)–d) pontja esetén az előterjesztett panaszt érdemi indokolás nélkül elutasítja.
 

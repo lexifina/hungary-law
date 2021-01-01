@@ -1,4 +1,8 @@
-478. § (1) Ha az indítvány elbírálásának nincs akadálya, a bíróság nem ügydöntő végzéssel határoz, amelyben az indítványnak helyt ad, részben ad helyt vagy azt elutasítja.
+478. § (1) Ha az indítvány elbírálásának nincs akadálya, a bíróság nem ügydöntő végzéssel határoz, amelyben
+
+a) az indítványnak helyt ad, részben ad helyt és a törvénynek megfelelő rendelkezést hoz, bírósági felülbírálat esetén a határozatot megváltoztatja vagy hatályon kívül helyezi, vagy
+
+b) az indítványt elutasítja.
 
 (2) A határozat indokolása tartalmazza az indítvány lényegét, az eljárás alapjául szolgáló cselekmény tényállásának rövid leírását és Btk. szerinti minősítését, az indítvány törvényi feltételeinek fennállását vagy azok hiányára való utalást.
 

@@ -29,3 +29,5 @@ h) a bíróság tanácsa elé utalás, illetve
 i) büntetővégzés meghozatalára irányuló eljárás lefolytatása.
 
 (2) Ha az e Fejezetben vizsgált kérdésekben a határozat meghozatalához az ügyész, a vádlott, a védő, illetve a sértett meghallgatása látszik szükségesnek, a 494. §-ban meghatározott döntéseket kivéve a bíróság a határozatát az (1) bekezdésben meghatározott határidő letelte után is meghozhatja.
+
+(3) A bíróság az ügyész, a vádlott, a védő, illetve a sértett meghallgatása érdekében ülést tart.

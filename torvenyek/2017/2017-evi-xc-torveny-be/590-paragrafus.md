@@ -18,9 +18,13 @@ c) a bűncselekmény minősítésére vonatkozó rendelkezést, továbbá
 
 d) a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezést.
 
-(6) Ha a fellebbezést az 583. § (3) bekezdés b) pontja alapján jelentették be, a másodfokú bíróság a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezést az (5) bekezdés alapján akkor bírálja felül, ha a bűnösség megállapítására, illetve a bűncselekmény minősítésére vonatkozó rendelkezést megváltoztatja.
+(6) Ha a fellebbezést az 583. § (3) bekezdés b) pontja alapján jelentették be, a másodfokú bíróság a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezést az (5) bekezdés alapján akkor bírálja felül, ha
 
-(7) A (2) bekezdésben meghatározott esetben vagy ha a fellebbezést az 583. § (3) bekezdés a), illetve b) pontja alapján jelentették be, a másodfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra és a polgári jogi igényre vonatkozó rendelkezésekről is.
+a) a bűnösség megállapítására, illetve a bűncselekmény minősítésére vonatkozó rendelkezést megváltoztatja, vagy
+
+b) a kiszabott büntetés vagy alkalmazott intézkedés törvénysértő.
+
+(7) A másodfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra és a polgári jogi igényre vonatkozó rendelkezésekről is.
 
 (8) Nem bírálható felül az ítéletnek az a felmentő vagy eljárást megszüntető rendelkezése, amely ellen nem fellebbeztek.
 

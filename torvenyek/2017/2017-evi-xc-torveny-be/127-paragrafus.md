@@ -33,3 +33,5 @@ b) az ügyészség vagy a nyomozó hatóság által hozott határozat elleni pan
 (8) Az elévülést félbeszakítja a meg nem fizetett rendbírság végrehajtása iránt tett intézkedés. A félbeszakítás napjával az elévülés ismét elkezdődik.
 
 (9) Nincs helye a rendbírság végrehajtásának, ha a (6) bekezdésben meghatározott naptól számítva két év eltelt.
+
+(10) Kérelemre a rendbírság megfizetésére halasztás, illetve részletfizetés engedélyezhető a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. A halasztás, illetve részletfizetés iránti kérelemnek nincs halasztó hatálya. A kérelemről a rendbírságot kiszabó bíróság, ügyészség vagy nyomozó hatóság határoz. A halasztás vagy a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye jogorvoslatnak.

@@ -30,4 +30,4 @@ c) a zárt adatkezelést – egyes személyes adatok vonatkozásában is – csa
 
 (9) A zárt adatkezelés nem akadálya annak, hogy a bíróság, az ügyészség és a nyomozó hatóság, ha az a büntetőeljárási feladatainak teljesítéséhez elengedhetetlen, a zártan kezelt egyes személyes adatokat a büntetőeljárási feladattal közvetlenül érintett ügyiraton feltüntesse és a zárt adatkezeléssel érintett személy hozzájárulása nélkül továbbítsa.
 
-(10) A (9) bekezdés alkalmazása esetén a büntetőeljárási feladat teljesítését követően a vádirat, az eljárást felfüggesztő vagy megszüntető határozat és az ügydöntő határozat kivételével az ilyen ügyiratot a (7) bekezdés a) pontja alapján zártan kell kezelni.
+(10) A (9) bekezdés alkalmazása esetén a büntetőeljárási feladat teljesítését követően a vádirat, az eljárást felfüggesztő vagy megszüntető határozat, az ügydöntő határozat és az 560. § (3b) bekezdése szerinti ügyirat kivételével az ilyen ügyiratot a (7) bekezdés a) pontja alapján zártan kell kezelni.

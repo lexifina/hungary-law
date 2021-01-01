@@ -1,10 +1,6 @@
 ## A felülvizsgálati eljárás során hozott határozat
 
-662. § (1) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot nem ügydöntő végzésével hatályában fenntartja, ha
-
-a) a felülvizsgálni indítványozott ügydöntő határozat a jogszabályoknak megfelel, vagy
-
-b) olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt.
+662. § (1) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot nem ügydöntő végzésével hatályában fenntartja, ha a felülvizsgálati indítványnak nem ad helyt.
 
 (2) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot megváltoztatja, és a törvénynek megfelelő határozatot hoz, ha az alapügyben a bíróság
 

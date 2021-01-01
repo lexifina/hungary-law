@@ -8,4 +8,4 @@ b) a tanúvallomást a 174. § alapján megtagadó személynek a számára infor
 
 (3) A bíróság mellőzheti a végleges nem ügydöntő végzés elleni fellebbezés elbírálására vonatkozó határozat hozatalát, ez azonban nem akadálya annak, hogy a kérdésben újabb nem ügydöntő végzést hozzon.
 
-(4) Ha a törvény a bíróság nem ügydöntő végzése ellen a fellebbezést lehetővé teszi, az elsőfokon döntést hozó bíróság a fellebbezés elbírálásáig kötve van a megtámadott nem ügydöntő végzéséhez.
+(4) Ha a törvény a bíróság nem ügydöntő végzése ellen a fellebbezést lehetővé teszi, az elsőfokon döntést hozó bíróság a véglegessé válásig kötve van a megtámadott nem ügydöntő végzéséhez.

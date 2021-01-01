@@ -29,3 +29,5 @@ a) terhelt vagy tanú kihallgatása, illetve bizonyítási cselekmény során ne
 b) nem tartalmazhat a törvénnyel össze nem egyeztethető ígéretet, és
 
 c) nem valósíthat meg fenyegetést vagy felbujtást, továbbá nem terelheti az érintett személyt annál súlyosabb bűncselekmény elkövetése felé, mint amelyet eredetileg elkövetni tervezett.
+
+(9) A leplezett eszközök alkalmazására feljogosított szerv a bűncselekmény megszakítása, a bűncselekmény elkövetőjének azonosítása, illetve a bizonyítás érdekében elektronikus hírközlő hálózat vagy eszköz útján, illetve információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlő eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat titokban technikai eszközzel megszerezheti.

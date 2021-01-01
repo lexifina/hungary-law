@@ -12,13 +12,15 @@ c) külföldön van fogva tartásban, a nemzetközi elfogatóparancs, illetve eu
 
 a) huszonnégy órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más ügyészség, illetve nyomozó hatóság,
 
-b) hetvenkét órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság elé kell kísérni.
+b) hetvenkét órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság
+
+elé kell kísérni.
 
 (3) Ha hatóság vagy hivatalos személy olyan személy elérhetőségéről szerez tudomást, aki ellen elfogatóparancsot bocsátottak ki, erről a kibocsátó bíróságot, ügyészséget, vagy nyomozó hatóságot tájékoztatja.
 
 (4) Az elfogatóparancs kibocsátása ellen nincs helye jogorvoslatnak. Ha az elfogatóparanccsal érintett terhelt, vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy az elfogatóparancsot kibocsátó bíróság, ügyészség vagy nyomozó hatóság előtt önként megjelenik, az elfogatóparancsot vissza kell vonni, és az őrizetének az elrendelésére az (1) bekezdés b) pontja esetén, vagy abban az esetben kerülhet sor, ha a személyi szabadságot érintő bírói engedélyes kényszerintézkedés elrendelésének más oka is megállapítható.
 
-(5) Ha a terheltet elfogatóparancs alapján fogják el, az elfogását követően a bíróság, az ügyészség vagy a nyomozó hatóság elé állításával kapcsolatban felmerült költség bűnügyi költség.
+(5) Ha a terheltet vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt elfogatóparancs alapján fogják el, az elfogását követően a bíróság, az ügyészség vagy a nyomozó hatóság elé állításával kapcsolatban felmerült költség bűnügyi költség.
 
 (6) Az elfogatóparancsot haladéktalanul vissza kell vonni, ha
 

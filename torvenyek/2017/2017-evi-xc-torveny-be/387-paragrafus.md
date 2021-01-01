@@ -6,10 +6,10 @@
 
 a) a védő nem jelenik meg, illetve
 
-b) a gyanúsított vagy a megalapozottan gyanúsítható személy a védővel lefolytatott tanácskozás alapján a kihallgatás megkezdéséhez hozzájárul,
+b) a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy a védővel lefolytatott tanácskozás alapján a kihallgatás megkezdéséhez hozzájárul,
 
 a nyomozó hatóság vagy az ügyészség a gyanúsítotti kihallgatást megkezdi.
 
-(4) A nyomozó hatóság vagy az ügyészség az (1)–(3) bekezdés alapján tett intézkedéseit, és ha ismert, a védő távolmaradásának okát a gyanúsítotti kihallgatás jegyzőkönyvébe foglalja.
+(4) A nyomozó hatóság vagy az ügyészség az (1)–(3) bekezdés alapján tett intézkedéseit, a 47. § (1) bekezdés c) pontja szerinti esetben a területi kamara által kijelölt védővel való kapcsolatfelvétel érdekében tett intézkedéseit, és ha ismert, a védő távolmaradásának okát a gyanúsítotti kihallgatás jegyzőkönyvébe foglalja.
 
 (5) A nyomozó hatóság vagy az ügyészség biztosítja, hogy a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy a kihallgatása előtt, illetve annak zavarása nélkül a kihallgatása alatt a védőjével tanácskozhasson.

@@ -28,6 +28,6 @@ c) a terhelt felmentésének vagy az eljárás megszüntetésének lenne helye �
 
 (6) A másodfokú bíróság az elsőfokú bíróság ítéletét hatályon kívül helyezi, és az ügyiratokat megküldi az ügyészségnek, ha az ügyészség az LXV. Fejezetben meghatározott törvényi előfeltételek hiányában indítványozta az eljárást.
 
-(7) A másodfokú bíróság hatályon kívül helyező végzése ellen nincs helye fellebbezésnek.
+(7) A másodfokú bíróság (6) bekezdésben meghatározott végzése ellen nincs helye fellebbezésnek.
 
 (8) A megismételt eljárás során e Fejezet rendelkezései nem alkalmazhatók.

@@ -6,7 +6,7 @@ a) az a személy, akinek a jelenlétét a telekommunikációs eszköz útján bi
 
 b) az a) pontban meghatározott személy védője vagy segítője,
 
-c) a nyomozó hatóság tagja, az ügyész, az alügyész, az ügyészségi fogalmazó, a bíró, a bírósági titkár, a bírósági fogalmazó,
+c) a nyomozó hatóság tagja, az ügyész, az alügyész, az ügyészségi fogalmazó, a bíró, a bírósági titkár, a bírósági fogalmazó, a bírósági ügyintéző,
 
 d) fogva tartott személy esetében a fogva tartást végrehajtó intézetnek a fogva tartott személy személyazonosságának megállapítására feljogosított dolgozója,
 

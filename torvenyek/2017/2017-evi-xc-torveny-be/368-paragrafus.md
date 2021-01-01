@@ -4,7 +4,7 @@
 
 a) nyomban végrehajthatja az olyan kényszerintézkedést és elvégezheti az olyan bizonyítási cselekményt, amelynek elrendelésére egyébként jogosult, illetve
 
-b) nyomban elrendelheti a terhelt előállítását vagy a terhelt és más személy elővezetését, valamint elfogatóparancsot bocsáthat ki.
+b) nyomban elrendelheti a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy előállítását vagy a terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy és más személy elővezetését, valamint elfogatóparancsot bocsáthat ki.
 
 (2) Az eljárási cselekményről készült jegyzőkönyvben a halaszthatatlanság tényét és az ezt megalapozó körülményeket fel kell tüntetni.
 

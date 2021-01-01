@@ -8,7 +8,7 @@ c) milyen egyéb rendelkezést tegyen.
 
 (2) Az ügyész a perbeszédében a büntetés, illetve az intézkedés meghatározott mértékére, illetve tartamára nem tehet indítványt.
 
-(3) Ha a bíróság az előkészítő ülésen fogadta el a bűnösséget elismerő nyilatkozatot, az ügyész a perbeszédében a büntetés kiszabására, illetve az intézkedés alkalmazására vonatkozó indítványát a vádlott terhére nem változtathatja meg.
+(3) Ha a bíróság az előkészítő ülésen fogadta el a bűnösséget beismerő nyilatkozatot, az ügyész a perbeszédében a büntetés kiszabására, illetve az intézkedés alkalmazására vonatkozó indítványát a vádlott terhére nem változtathatja meg.
 
 (4) Az ügyész a perbeszédében a jogszabályokat is megjelölve, indokolt indítványt tesz a vádlott felmentésére, ha a bizonyítás eredménye alapján arra a meggyőződésre jut, hogy
 

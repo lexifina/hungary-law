@@ -1,8 +1,10 @@
 ## Nyomozás és vádemelés
 
-748. § (1) Ha bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a gyanúsított elérhetősége ismeretlen, és a távollévő terhelttel szembeni eljárás lefolytatásának feltételei fennállnak, az ügyészség a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt vagy a gyanúsítottat távollévő terheltté nyilvánítja. A határozat ellen nincs helye panasznak.
+748. § (1) Ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a gyanúsított elérhetősége ismeretlen, és a távollévő terhelttel szembeni eljárás lefolytatásának feltételei fennállnak, az ügyészség a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt vagy a gyanúsítottat távollévő terheltté nyilvánítja. A határozat ellen nincs helye panasznak.
 
-(2) Ha a távollévő terheltnek nincs védője, részére az ügyészség az (1) bekezdés szerinti határozatában védőt rendel ki.
+(1a) Ha az ügyészség a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt távollévő terheltté nyilvánítja, de a nyomozást nem fejezi be, a nyomozást a vizsgálat szabályai szerint kell folytatni.
+
+(2) Ha a távollévő terheltnek nincs védője, részére az ügyészség az (1) bekezdés szerinti határozatával egyidejűleg védőt rendel ki.
 
 (3) A távollévő terhelt részére az ügyészség, illetve a nyomozó hatóság csak
 

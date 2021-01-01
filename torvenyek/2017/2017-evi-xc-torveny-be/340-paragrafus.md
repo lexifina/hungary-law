@@ -12,4 +12,4 @@ c) az ügyészségről szóló törvény, a rendőrségről szóló törvény, a
 
 információk alapján lehet elrendelni.
 
-(4) A (3) bekezdés c) pontja esetében a 339. §-ban meghatározott szerv a titkos információgyűjtést folytató szerv kezdeményezésének a hozzá való megérkezését követő hetvenkét órán belül dönt az előkészítő eljárás elrendeléséről.
+(4) A (3) bekezdés c) pontja esetében a 339. §-ban meghatározott szerv a titkos információgyűjtést folytató szerv kezdeményezésének a hozzá való megérkezését követő három munkanapon belül dönt az előkészítő eljárás elrendeléséről.

@@ -10,7 +10,7 @@ c) a tárgyalásra idézendők és az arról értesítendők indítványozását
 
 d) azon tanúk vallomása felolvasásának az indítványozását, akiknek a vallomása szükséges a bizonyításhoz, de a személyes megjelenésük a tárgyaláson nem indokolt, illetve a tárgyaláson való megjelenésük aránytalan nehézséggel járna vagy nem lehetséges.
 
-(3) A vádindítványt a jogi képviselő is ellátja aláírásával.
+(3) A vádindítványt a jogi képviselő is ellátja aláírásával, illetve minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával.
 
 (4) A vádindítványt a beérkezésétől számított tizenöt napon belül az ügyészség az ügyiratokkal együtt továbbítja az ügyben hatáskörrel és illetékességgel rendelkező bírósághoz.
 

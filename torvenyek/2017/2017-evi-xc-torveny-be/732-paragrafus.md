@@ -8,6 +8,6 @@
 
 (4) A nyilatkozat megtétele előtt a bíróság lehetővé teszi, hogy a vádlott a védővel tanácskozzon.
 
-(5) Ha a vádlott az egyezséggel egyezően beismeri a bűnösségét és lemond a tárgyaláshoz való jogáról, a bíróság e tény, az ügyiratok, valamint – szükség esetén – a vádlott kihallgatása és a védőhöz intézett kérdésekre adott válaszok alapján megvizsgálja, hogy az egyezség jóváhagyásának feltételei fennállnak-e.
+(5) Ha a vádlott az egyezséggel egyezően beismeri a bűnösségét és lemond a tárgyaláshoz való jogáról, a bíróság e tény, az ügyiratok, valamint a vádlott kihallgatása és – szükség esetén – a védőhöz intézett kérdésekre adott válaszok alapján megvizsgálja, hogy az egyezség jóváhagyásának feltételei fennállnak-e.
 
 (6) Az egyezség jóváhagyásának kérdésében történő határozathozatal előtt az ügyész és a védő felszólalhat.

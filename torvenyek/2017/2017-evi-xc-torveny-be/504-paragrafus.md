@@ -1,10 +1,10 @@
 ## Eljárás a bűnösség beismerése esetén
 
-504. § (1) Ha a vádlott a bűnösségét beismeri, és a beismeréssel érintett körben a tárgyaláshoz való jogáról lemond, a bíróság e tény, az eljárás ügyiratai, valamint a vádlott kihallgatása alapján vizsgálja meg, hogy a vádlott bűnösséget beismerő nyilatkozatát elfogadja-e.
+504. § (1) Ha a vádlott a bűnösségét beismeri, és a beismeréssel érintett körben a tárgyaláshoz való jogáról lemond, a bíróság e tény, az eljárás ügyiratai, valamint a vádlott kihallgatása alapján vizsgálja meg, hogy a vádlott bűnösséget beismerő nyilatkozatát elfogadja-e. A vádlott kihallgatása – az előkészítő ülés jellegére figyelemmel – a (2) bekezdésben meghatározott feltételek vizsgálatára irányul.
 
 (2) A bűnösséget beismerő nyilatkozat elfogadásának a feltételei a következők:
 
-a) a vádlott e nyilatkozatának természetét és jóváhagyásának következményeit megértette,
+a) a vádlott e nyilatkozatának természetét és elfogadásának következményeit megértette,
 
 b) a vádlott beszámítási képessége és beismerésének önkéntessége iránt észszerű kétely nem mutatkozik,
 

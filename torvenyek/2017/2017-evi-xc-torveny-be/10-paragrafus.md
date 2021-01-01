@@ -10,17 +10,17 @@
 
 3. gazdálkodással összefüggő kiemelt bűncselekmény:
 
-a) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 372. § (6) bekezdés a) pontja szerinti sikkasztás, ha azt költségvetési szerv vagy gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személy a szerv vagy szervezet vagyonát érintő cselekményével követi el,
+a)
 
-b) a Btk. 373. § (6) bekezdés a) pontja szerinti csalás, ha azt költségvetési szerv vagy gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személy a szerv vagy szervezet vagyonát érintő cselekményével követi el,
+b)
 
-c) a Btk. 374. § (6) bekezdés a) pontja szerinti gazdasági csalás,
+c) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 374. § (6) bekezdés a) pontja szerinti gazdasági csalás,
 
 d) a Btk. 376. § (6) bekezdés a) pontja szerinti hűtlen kezelés,
 
 e) a Btk. 377. § (2) bekezdése szerinti hanyag kezelés,
 
-f) a Btk. 396. § (4) bekezdés a) pontja és (5) bekezdése szerinti költségvetési csalás és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása,
+f) a Btk. 396. § (5) bekezdése szerinti költségvetési csalás és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása,
 
 g) a Btk. 403. § (3) bekezdése szerinti számvitel rendjének megsértése,
 

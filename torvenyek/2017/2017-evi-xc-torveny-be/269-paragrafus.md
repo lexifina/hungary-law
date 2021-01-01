@@ -4,6 +4,6 @@ a) törvényben meghatározottak szerint a bűnügyi és rendészeti biometrikus
 
 b) törvényben meghatározottak szerint az arcképelemzési nyilvántartás vezetéséért és az arcképelemző rendszer működtetéséért felelős szerv arcképelemző tevékenységét veheti igénybe, illetve
 
-c) törvényben meghatározottak szerint a Schengeni Információs Rendszerben rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el.
+c) törvényben meghatározottak szerint a Schengeni Információs Rendszerben az érintett személy vagy tárgy ellenőrzésére irányuló figyelmeztető jelzés elhelyezését rendelheti el.
 
 (2) A vádemelés után az ügyészség a bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása érdekében végezheti az (1) bekezdés a) és b) pontjában meghatározott egyéb adatszerző tevékenységet.

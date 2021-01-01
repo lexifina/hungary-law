@@ -1,8 +1,8 @@
 411. § (1) Az egyezség tartalmazhatja
 
-a) a mellékbüntetést,
+a) a mellékbüntetést, illetve a büntetés vagy intézkedés mellett is alkalmazható intézkedést,
 
-b) a büntetés vagy intézkedés mellett is alkalmazható intézkedést,
+b) a Btk. alapján a büntetés kiszabása során meghozható egyéb rendelkezést,
 
 c) az eljárás megszüntetését, illetve a feljelentés elutasítását egyes bűncselekmények vonatkozásában,
 
@@ -30,4 +30,4 @@ c) közvetítői eljáráson vesz részt, illetve
 
 d) az ügyészség által megállapított határidőn belül olyan egyéb kötelezettséget teljesít, amely a feltételes ügyészi felfüggesztés keretében előírható.
 
-(6) A kényszergyógykezelés, az elkobzás, a vagyonelkobzás és az elektronikus adat végleges hozzáférhetetlenné tétele nem képezheti egyezség tárgyát.
+(6) Nem képezheti az egyezség tárgyát a kényszergyógykezelés, az elkobzás, a vagyonelkobzás és az elektronikus adat végleges hozzáférhetetlenné tétele, valamint – a bűnügyi költség viselése kivételével – más, az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdés, továbbá a polgári jogi igény vagy a szülői felügyeleti jog megszüntetése.

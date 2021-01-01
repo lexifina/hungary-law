@@ -48,7 +48,7 @@ g) az ügydöntő határozat szóbeli indokolását.
 
 (8) Ha a bíróság ügydöntő határozata elsőfokon vagy másodfokon jogerőre emelkedik, rövidített jegyzőkönyvet lehet készíteni. A rövidített jegyzőkönyvnek csak az (1) bekezdésben meghatározott adatokat, valamint a bírósági eljárásnak a (2) bekezdés a) pontjának megfelelő leírását kell tartalmaznia.
 
-(9) Ha az eljárási cselekményekről kép- és hangfelvétel készül, a jegyzőkönyvből írásbeli kivonatot kell készíteni, amely tartalmazza
+(9) Ha az eljárási cselekményről jegyzőkönyvnek minősülő kép- és hangfelvétel készül, a jegyzőkönyvből írásbeli kivonatot kell készíteni, amely tartalmazza
 
 a) az (1) bekezdésben meghatározott adatokat,
 

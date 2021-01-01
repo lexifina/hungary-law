@@ -1,8 +1,8 @@
 ## A kirendelés hatálya
 
-48. § (1) A kirendelés hatálya a büntetőeljárás jogerős befejezéséig tart, és kiterjed a perújításra, a felülvizsgálatra, az egyszerűsített felülvizsgálatra, a bűncselekménnyel összefüggő vagyon vagy dolog elvonására, adat hozzáférhetetlenné tételére irányuló eljárásra, valamint a különleges eljárásokra is.
+48. § (1) A kirendelés hatálya a büntetőeljárás jogerős befejezéséig tart, és kiterjed a közvetítői eljárásra, a perújításra, a felülvizsgálatra, az egyszerűsített felülvizsgálatra, a bűncselekménnyel összefüggő vagyon vagy dolog elvonására, adat hozzáférhetetlenné tételére irányuló eljárásra, valamint a különleges eljárásokra is.
 
-(2) A kirendelés hatályát veszti, amikor a terhelt érdekében meghatalmazott védő a meghatalmazását e törvény szerint benyújtotta, vagy a meghatalmazás rendelkezési nyilvántartásba vételét bejelentették.
+(2) A kirendelés hatályát veszti, amikor a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy érdekében meghatalmazott védő a meghatalmazását e törvény szerint benyújtotta, vagy a meghatalmazás rendelkezési nyilvántartásba vételét bejelentették.
 
 (3) A bíróság, az ügyészség és a nyomozó hatóság a meghatalmazás benyújtásakor, illetve a meghatalmazás rendelkezési nyilvántartásba vételének bejelentésekor a meghatalmazott védőt tájékoztatja a korábban eljárt kirendelt védő személyéről és elérhetőségéről.
 

@@ -20,7 +20,7 @@ b) jogsegély iránti megkeresés más állam hatósága általi teljesítése s
 
 c) az eljárás lefolytatásához előzetes kérdésben hozott döntést kell beszerezni, vagy
 
-d) a gyanúsítottal szemben a gyanúsítás tárgyát képező cselekmény miatt bíróság előtt büntetőeljárás van folyamatban.
+d) az elkövetővel szemben a gyanúsítás tárgyát képező cselekmény miatt bíróság előtt büntetőeljárás van folyamatban.
 
 (4) Az ügyészség felfüggesztheti az eljárást, ha
 
@@ -34,15 +34,19 @@ d) nemzetközi elfogatóparancs, illetve európai elfogatóparancs alapján más
 
 e) nemzetközi büntetőbíróság a joghatósága alá tartozó ügyben a magyar hatóságot a büntetőeljárás átadása érdekében megkeresi,
 
-f) a külföldi ítélet elismerését vagy a tagállami megfeleltetését kezdeményezte, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint az eljárás a külföldi ítélet elismerése vagy a tagállami ítélet megfeleltetése nélkül nem folytatható.
+f) a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését kezdeményezte, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint az eljárás a külföldi ítélet elismerése vagy a tagállami ítélet megfeleltetése nélkül nem folytatható, vagy
 
-(5) Az eljárás felfüggesztésének a (2) bekezdés, valamint a (4) bekezdés a) és b) pontja alapján a nyomozás során egy alkalommal van helye.
+g) az a létrejött egyezségben a terhelt által vállalt kötelezettség teljesítése érdekében szükséges.
+
+(5) Az eljárás felfüggesztésének a (2) bekezdés, valamint a (4) bekezdés a), b) és g) pontja alapján a nyomozás során egy alkalommal van helye.
 
 (6) Az eljárás nem függeszthető fel
 
-a) a (2) bekezdés alapján, ha az ügyészség feltételes ügyészi felfüggesztést alkalmazott, illetve
+a) a (2) bekezdés alapján, ha az ügyészség feltételes ügyészi felfüggesztést alkalmazott,
 
-b) a (4) bekezdés b) pontja alapján, ha az ügyben közvetítői eljárás volt folyamatban.
+b) a (4) bekezdés b) pontja alapján, ha az ügyben közvetítői eljárás volt folyamatban, illetve
+
+c) a (2) bekezdés vagy a (4) bekezdés b) pontja alapján, ha az ügyészség az eljárást a (4) bekezdés g) pontja alapján felfüggesztette.
 
 (7) Az eljárás felfüggesztése után – a (3) bekezdés a) pontját kivéve – a gyanúsított személyét közvetlenül érintő eljárási cselekmény nem végezhető.
 

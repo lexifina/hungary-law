@@ -8,4 +8,4 @@
 
 (5) A késedelmet nem tűrő eset kivételével a motozást a motozás alá vont személlyel azonos nemű személy végezheti, és a motozás során csak azonos nemű személy lehet jelen. A testüregek átvizsgálását végző orvos, a vizsgálat során közreműködő egészségügyi dolgozó és a motozás alá vont személy által megjelölt nagykorú személy a motozás alá vont személytől különböző nemű személy is lehet.
 
-(6) A terhelt kivételével a motozást akadályozó személy rendbírsággal sújtható.
+(6) A terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy kivételével a motozást akadályozó személy rendbírsággal sújtható.

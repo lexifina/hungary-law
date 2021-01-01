@@ -4,6 +4,12 @@
 
 (2) Ha a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak eredetileg papíralapú ügyiratot elektronikus úton kell kézbesítenie vagy továbbítania, tíz munkanap áll rendelkezésére, hogy azt digitalizálja. Az ügyirat digitalizálásához szükséges időt – legfeljebb azonban öt munkanapot – a határidő számítása szempontjából figyelmen kívül kell hagyni.
 
-(3) Kivételt képez az elektronikus kapcsolattartás alól, ha a kézbesítendő, illetve továbbítandó beadvány, ügyirat, vagy bizonyítási eszköz papíralapú vagy egyéb adathordozó útján történő bemutatása, megtekintése szükséges, erre különösen akkor kerülhet sor, ha annak nagy mennyisége, sajátos alakja miatt vagy jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, továbbá ha a valódisága vitás. A papíralapú vagy adathordozón történő benyújtást, illetve továbbítást a bíróság, az ügyészség és a nyomozó hatóság hivatalból és indítványra is elrendelheti.
+(3) Elektronikus kapcsolattartás esetén a bíróság, az ügyészség és a nyomozó hatóság hivatalból vagy indítványra elrendelheti a beadvány vagy az ügyirat papíralapú vagy adathordozón történő benyújtását, továbbítását illetve kézbesítését. Erre különösen akkor kerülhet sor, ha a beadvány vagy az ügyirat
 
-(4) Nem kell alkalmazni az elektronikus kapcsolattartás szabályait a személyes jelenléttel járó eljárási cselekmény során benyújtott beadvány vagy bizonyítási eszköz esetén, ideértve a védő és a jogi képviselő részére az eljárási cselekmény helyszínén, valamint az eljárási cselekmény során adott eredeti meghatalmazás azonnali benyújtását is.
+a) nagy mennyisége, sajátos alakja vagy jellege miatt a digitalizálás aránytalan nehézséggel járna vagy lehetetlen,
+
+b) valódisága vitás, vagy
+
+c) elektronikus úton történő kézbesítése vagy továbbítása olyan késedelemmel járna, amely az eljárási cselekmény határidőben történő lefolytatását veszélyeztetné, vagy az eljárás aránytalan elhúzódását okozná.
+
+(4) Nem kell alkalmazni az elektronikus kapcsolattartás szabályait a személyes jelenléttel járó eljárási cselekmény során benyújtott beadvány esetén, ideértve a védő és a jogi képviselő részére az eljárási cselekmény helyszínén, valamint az eljárási cselekmény során adott eredeti meghatalmazás azonnali benyújtását is.

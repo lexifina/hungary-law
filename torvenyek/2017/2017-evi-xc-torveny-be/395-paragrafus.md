@@ -2,17 +2,19 @@
 
 395. § (1) Az ügyészség és a nyomozó hatóság az eljárást, ha
 
-a) a gyanúsított külföldön tartózkodik, legfeljebb hat hónapra,
+a) a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy külföldön tartózkodik, legfeljebb hat hónapra,
 
 b) az eljárás lefolytatásához előzetes kérdésben hozott döntést kell beszerezni és az előzetes kérdés eldöntése tárgyában az eljárás még nem indult meg, legfeljebb két hónapra,
 
-c) jogsegély iránti megkeresés más állam hatósága általi teljesítése szükséges, legfeljebb tizenkét hónapra
+c) jogsegély iránti megkeresés más állam hatósága általi teljesítése szükséges, legfeljebb tizenkét hónapra, vagy
+
+d) az a létrejött egyezségben a terhelt által vállalt kötelezettség teljesítése érdekében szükséges, legfeljebb hat hónapra
 
 függesztheti fel.
 
 (2) Az ügyészség és a nyomozó hatóság az eljárás felfüggesztésével egyidejűleg
 
-a) a külföldön tartózkodó gyanúsítottnak a visszatérésre,
+a) a külföldön tartózkodó gyanúsítottnak vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személynek a visszatérésre,
 
 b) az érdekeltnek az előzetes kérdés eldöntése tárgyában az eljárás megindítására
 

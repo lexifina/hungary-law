@@ -2,7 +2,13 @@
 
 (2) Ha a bíróság ítéletében a terhelt bűnösségét több bűncselekmény miatt állapította meg, illetve több bűncselekmény miatt emelt vád alól mentette fel vagy szüntette meg vele szemben az eljárást, a fellebbezésből ki kell tűnnie, hogy az melyik cselekményre vonatkozó rendelkezést sérelmezi.
 
-(3) A fellebbező az 583. § (3) bekezdése szerinti fellebbezését a későbbiekben nem terjesztheti ki.
+(3) A fellebbező
+
+a) a (2) bekezdés szerinti fellebbezését a fellebbezéssel nem érintett cselekményre,
+
+b) az 583. § (3) bekezdése szerinti fellebbezését a fellebbezéssel nem érintett rendelkezésre
+
+a későbbiekben nem terjesztheti ki.
 
 (4) Ha a bejelentett fellebbezés nem felel meg az (1)–(2) bekezdés rendelkezéseinek és annak tartalma a bejelentéskor nem tisztázható, azt a felmentő, illetve az eljárást megszüntető rendelkezés kivételével az ítélet valamennyi rendelkezése ellen bejelentettnek kell tekinteni.
 

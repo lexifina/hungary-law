@@ -6,7 +6,7 @@
 
 a) nemzetközi gazdasági tilalom megszegése, nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés,
 
-b) vámellenőrzés alól elvont nem közösségi árura vagy jövedéki adózás alól elvont termékre elkövetett orgazdaság,
+b)
 
 c) bitorlás, szerzői vagy szerzői joghoz kapcsolódó jogok megsértése, védelmet biztosító műszaki intézkedés kijátszása, jogkezelési adat meghamisítása és iparjogvédelmi jogok megsértése,
 

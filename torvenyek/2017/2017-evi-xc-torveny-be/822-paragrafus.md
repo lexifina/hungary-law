@@ -2,7 +2,7 @@
 
 (2) Az ügyészség indítványa tartalmazza
 
-a) az indítványban foglalt intézkedéssel érintett terhelt vagy egyéb érdekelt, illetve a lefoglalt dolog állami tulajdonba vétele esetén a kényszerintézkedéssel érintett terhelt azonosításra alkalmas személyes adatait,
+a) az indítványban foglalt intézkedéssel érintett terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy vagyoni érdekelt, illetve a lefoglalt dolog állami tulajdonba vétele esetén a kényszerintézkedéssel érintett terhelt vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy azonosításra alkalmas személyes adatait,
 
 b) az intézkedéssel, illetve kényszerintézkedéssel érintett vagyon, dolog vagy adat megjelölését,
 

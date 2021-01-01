@@ -26,15 +26,17 @@ b) a magánindítvány, a feljelentés, vagy a legfőbb ügyésznek a 4. § (9) 
 
 c) nem az arra jogosult által emelt vád alapján,
 
-d) a 608. § (1) bekezdésében meghatározott eljárási szabálysértéssel vagy
+d) a 608. § (1) bekezdésében meghatározott eljárási szabálysértéssel,
 
-e) a súlyosítási tilalom megsértésével
+e) a súlyosítási tilalom megsértésével,
+
+f) a specialitás szabályán alapuló mentességnek, a törvényben meghatározott mentelmi jogon alapuló mentességnek vagy a nemzetközi jogon alapuló mentességnek a megsértésével
 
 hozta meg.
 
 (3) Az Alkotmánybíróság határozata alapján felülvizsgálati indítvány terjeszthető elő, ha az Alkotmánybíróság a jogerős ügydöntő határozattal befejezett büntetőeljárás felülvizsgálatát rendelte el.
 
-(4) Nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján felülvizsgálati indítvány terjeszthető elő, ha nemzetközi szerződéssel létrehozott emberi jogi szerv megállapította, hogy az eljárás lefolytatása vagy a bíróság jogerős ügydöntő határozata megsértette a törvényben kihirdetett nemzetközi szerződés valamely rendelkezését, feltéve, hogy a nemzetközi emberi jogi szerv joghatóságának Magyarország alávetette magát.
+(4) Nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján felülvizsgálati indítvány terjeszthető elő, ha nemzetközi szerződéssel létrehozott emberi jogi szerv megállapította, hogy az eljárás lefolytatása vagy a bíróság jogerős, a vádról rendelkező ügydöntő határozata megsértette a törvényben kihirdetett nemzetközi szerződés valamely rendelkezését, feltéve, hogy a nemzetközi emberi jogi szerv joghatóságának Magyarország alávetette magát.
 
 (5) Nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján felülvizsgálatnak akkor is helye van, ha a nemzetközi szerződéssel létrehozott emberi jogi szerv a nemzetközi szerződés azon rendelkezésének megsértését állapította meg, amely olyan eljárási szabálysértést valósított meg, amely e törvény szerint felülvizsgálattal nem, csak fellebbezéssel támadható.
 

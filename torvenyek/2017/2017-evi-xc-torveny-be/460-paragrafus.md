@@ -2,7 +2,7 @@
 
 (2) A nem ügydöntő végzés azon a napon válik véglegessé, amikor
 
-a) azt kihirdették, feltéve, hogy ellene e törvény a fellebbezést kizárja,
+a) azt meghozták vagy kihirdették, feltéve, hogy ellene e törvény a fellebbezést kizárja,
 
 b) a fellebbezésre jogosultak úgy nyilatkoztak, hogy a nem ügydöntő végzést tudomásul veszik vagy a fellebbezést visszavonták,
 

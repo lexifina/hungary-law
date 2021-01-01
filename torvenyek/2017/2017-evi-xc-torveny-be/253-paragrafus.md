@@ -2,11 +2,11 @@
 
 a) az eszköz alkalmazásának e törvényben meghatározott egyéb feltételei fennállnak,
 
-b) a leplezett eszközök alkalmazására feljogosított szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően nyolc napon belül az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában az előkészítő eljárás vagy a nyomozás megindításáról rendelkezik, illetve azt kezdeményezi, és
+b) a leplezett eszközök alkalmazására feljogosított szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően nyolc napon belül az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában az előkészítő eljárás vagy a nyomozás megindításáról, illetve a már folyamatban lévő büntetőeljárásban való felhasználásáról rendelkezik, illetve azt kezdeményezi, és
 
 c) a bíróság a (4) bekezdés alapján engedélyezi az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában a leplezett eszköz alkalmazása eredményének a felhasználását.
 
-(2) A leplezett eszközök alkalmazására feljogosított szerv az (1) bekezdés b) pontja szerinti előkészítő eljárás vagy nyomozás megindítását követő három munkanapon belül kezdeményezi az ügyészségnél a leplezett eszköz alkalmazása eredménye felhasználásának az engedélyezését. Az ügyészség a kezdeményezéstől számított hetvenkét órán belül indítványozza a bíróságnál a leplezett eszköz alkalmazása eredménye felhasználásának az engedélyezését.
+(2) A leplezett eszközök alkalmazására feljogosított szerv az (1) bekezdés b) pontja szerinti előkészítő eljárás vagy nyomozás megindítását vagy a már folyamatban lévő büntetőeljárásban való felhasználását követő három munkanapon belül kezdeményezi az ügyészségnél a leplezett eszköz alkalmazása eredménye felhasználásának az engedélyezését. Az ügyészség a kezdeményezéstől számított hetvenkét órán belül indítványozza a bíróságnál a leplezett eszköz alkalmazása eredménye felhasználásának az engedélyezését.
 
 (3) A bíróság az indítvány benyújtásától számított hetvenkét órán belül dönt.
 
@@ -18,6 +18,6 @@ b) a leplezett eszközök alkalmazására feljogosított szerv, valamint az ügy
 
 megfelel.
 
-(5) Ha az (1) bekezdés b) pontja alapján elrendelt előkészítő eljárás vagy nyomozás során bírói engedélyhez kötött leplezett eszköz további alkalmazására van szükség, a korábbi bírói engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában a bírói engedélyhez kötött leplezett eszköz alkalmazását a XXXVIII. Fejezet alapján indítványozni és engedélyezni kell. Ha a bíróság a (4) bekezdés szerint engedélyezi az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában a leplezett eszköz alkalmazása eredményének a felhasználását, a 239. § (2) bekezdésében meghatározott tartamot a felhasználni kívánt adat (1) bekezdés szerinti megszerzésének időpontjától kell számítani.
+(5) Ha az (1) bekezdés b) pontja alapján elrendelt előkészítő eljárás vagy nyomozás során vagy a korábban már folyamatban lévő büntetőeljárásban az (1) bekezdés szerinti bűncselekmény miatt bírói engedélyhez kötött leplezett eszköz további alkalmazására van szükség, a korábbi bírói engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában a bírói engedélyhez kötött leplezett eszköz alkalmazását a XXXVIII. Fejezet alapján indítványozni és engedélyezni kell. Ha a bíróság a (4) bekezdés szerint engedélyezi az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában a leplezett eszköz alkalmazása eredményének a felhasználását, a 239. § (2) bekezdésében meghatározott tartamot a felhasználni kívánt adat (1) bekezdés szerinti megszerzésének időpontjától kell számítani.
 
 (6) Ha a leplezett eszközök alkalmazását nem maga a leplezett eszközök alkalmazására feljogosított szerv hajtotta végre, az (1) bekezdés b) pontjában meghatározott határidőt attól a naptól kell számítani, amikor a leplezett eszköz alkalmazásának az (1) bekezdésben meghatározottak szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a leplezett eszköz alkalmazására feljogosított szervhez megérkezett.

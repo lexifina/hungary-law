@@ -8,7 +8,7 @@ b) a 120. § (2) bekezdés a) pontja esetén a technikai eszköz megfelelő alka
 
 (2) A telekommunikációs eszköz használata a büntetőeljárásban részt vevő személyeket megillető kérdezési, észrevételezési, indítványtételi és egyéb eljárási jogok e törvény szerinti gyakorlását nem érinti.
 
-(3) Ha a terhelt jelenlétét telekommunikációs eszköz útján biztosítják és a terhelt a védőjével nem egy helyszínen tartózkodik, a terhelt és védője közötti tanácskozást legalább hangkapcsolatot biztosító elektronikus úton kell lehetővé tenni.
+(3) Ha a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy jelenlétét telekommunikációs eszköz útján biztosítják és a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy a védőjével nem egy helyszínen tartózkodik, a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy és védője közötti tanácskozást legalább hangkapcsolatot biztosító elektronikus úton kell lehetővé tenni.
 
 (4) Telekommunikációs eszköz használata esetén biztosítani kell, hogy az eljárási cselekményen jelen lévő személyek a 120. § (2) bekezdés a) pontja esetén lássák és hallják, a 120. § (2) bekezdés b) pontja esetén hallják az elkülönített helyszínen jelen lévő személyeket. Az elkülönített helyszínen tartózkodó személyek részére biztosítani kell, hogy az eljárási cselekmény menetét érdemben követhessék.
 

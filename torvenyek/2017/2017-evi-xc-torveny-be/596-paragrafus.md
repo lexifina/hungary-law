@@ -14,7 +14,7 @@ c) a vádlottnak és a védőnek kézbesíti a más által bejelentett fellebbez
 
 d) a vádlott vagy a védő fellebbezésének indokolását megküldi a másodfokú bíróság mellett működő ügyészségnek, ha azt a másodfokú bíróság előtt terjesztették elő és közvetlenül még nem küldték meg neki,
 
-e) vizsgálja, hogy a másodfokú eljárásban kötelező-e az ügyész és a védő részvétele,
+e) vizsgálja, hogy a másodfokú eljárásban kötelező-e az ügyész és a védő jelenléte,
 
 f) vizsgálja, szükséges-e személyi szabadságot érintő bírói engedélyes kényszerintézkedéssel kapcsolatban határozni.
 

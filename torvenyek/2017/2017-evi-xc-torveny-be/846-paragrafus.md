@@ -6,7 +6,7 @@ b) a tényállás megállapításának meghiúsítása érdekében bűncselekmé
 
 c) a bíróság, az ügyészség vagy a nyomozó hatóság megtévesztésére törekedett a büntetőeljárás megindulásáról való tudomásszerzését követően, és ezzel neki felróhatóan okot szolgáltatott arra, hogy a bűncselekmény megalapozott gyanúja reá terelődjék és őrizetét, letartóztatását, előzetes kényszergyógykezelését, illetve a 845. § (1) bekezdésében meghatározott bűnügyi felügyeletét elrendeljék, meghosszabbítsák vagy fenntartsák,
 
-d) letartóztatását vagy a 845. § (1) bekezdésében meghatározott bűnügyi felügyeletét a 293. § alapján rendelték el,
+d) letartóztatását vagy a 845. § (1) bekezdésében meghatározott bűnügyi felügyeletét a 293. § (3) vagy (4) bekezdése alapján rendelték el,
 
 e) perújítás során való felmentése, enyhébb büntetésre ítélése, próbára bocsátása, számára jóvátételi munka végzésének előírása vagy megrovásban részesítése, illetve az eljárás vele szemben való megszüntetése megtörtént, de az alapügyben elhallgatta azokat a tényeket vagy bizonyítékokat, amelyeken a perújítás során hozott ítélet alapul.
 

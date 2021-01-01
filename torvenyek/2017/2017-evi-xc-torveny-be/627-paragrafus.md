@@ -20,7 +20,7 @@ a) a vádlott,
 
 b) az ügyészség,
 
-c) a védő, a vádlott hozzájárulása nélkül is.
+c) a védő.
 
 (4) Nem jogosult fellebbezésre a (3) bekezdés alapján az, aki az ítélet ellen annak hatályon kívül helyezése és a bíróság új eljárásra utasítása érdekében jelentett be fellebbezést, ha a hatályon kívül helyezésre a fellebbezésben foglalt okból került sor.
 

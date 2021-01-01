@@ -8,21 +8,27 @@ b) a cselekményt jogerősen elbírálták,
 
 c) az ügyészség a vádat ejtette és magánvádnak vagy pótmagánvádnak nincs helye, illetve a sértett magánvádlóként vagy pótmagánvádlóként nem lépett fel,
 
-d) a büntetőeljárás átvétele vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott konzultációs eljárás eredménye alapján a büntetőeljárást más állam hatósága folytatja le,
+d)
 
-e) az ügy nem tartozik magyar büntető joghatóság alá, vagy
+e)
 
-f) olyan bűncselekmény miatt van folyamatban, amelynek a vád tárgyává tett jelentősebb tárgyi súlyú bűncselekmény mellett a felelősségre vonás szempontjából nincs jelentősége.
+f) olyan bűncselekmény miatt van folyamatban, amelynek a vád tárgyává tett jelentősebb tárgyi súlyú bűncselekmény mellett a felelősségre vonás szempontjából nincs jelentősége, vagy
+
+g) a magánindítvány hiányzik és az a 378. § (4) bekezdése alapján már nem pótolható.
 
 (2) A bíróság nem ügydöntő végzésével az eljárást megszünteti, ha
 
 a) a feljelentés vagy a legfőbb ügyésznek a 4. § (9) bekezdésében vagy a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányzik,
 
-b) a magánindítvány hiányzik és az a 381. § (4) bekezdése alapján már nem pótolható,
+b)
 
-c) a vádat nem az arra jogosult emelte, vagy
+c) a vádat nem az arra jogosult emelte,
 
-d) a vádirat nem vagy hiányosan tartalmazza a 422. § (1) bekezdésében írt törvényes elemeket, és emiatt a vád érdemi elbírálásra alkalmatlan.
+d) a vádirat nem vagy hiányosan tartalmazza a 422. § (1) bekezdésében írt törvényes elemeket, és emiatt a vád érdemi elbírálásra alkalmatlan,
+
+e) a büntetőeljárás átvétele vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott konzultációs eljárás eredménye alapján a büntetőeljárást más állam hatósága folytatja le, vagy
+
+f) az ügy nem tartozik magyar büntető joghatóság alá.
 
 (3) A bíróság az (1)–(2) bekezdésben meghatározott ok észlelésekor nyomban megszünteti az eljárást.
 

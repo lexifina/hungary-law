@@ -32,4 +32,4 @@ b) a más által a polgári perrendtartásról szóló törvényben meghatározo
 
 (5) A polgári jogi igény érvényesítése és elintézése során a bíróság hivatalból figyelembe veszi az eljárás ügyiratait.
 
-(6) A polgári jogi igény érvényesítése és elintézése során bizonyításnak az e törvényben meghatározottak szerint van helye.
+(6) A polgári jogi igény érvényesítése és elintézése során bizonyításnak az e törvényben meghatározottak szerint van helye. Ha a magánfél polgári jogi igényként sérelemdíj fizetésére irányuló követelést terjeszt elő, ezen követeléssel összefüggésben bizonyításnak nincs helye.

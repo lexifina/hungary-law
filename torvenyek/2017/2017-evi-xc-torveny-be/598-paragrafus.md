@@ -16,11 +16,11 @@ f) ha a fellebbezést kizárólag az 583. § (3) bekezdés b) pontja alapján je
 
 g) ha az elsőfokú bíróság nem ügydöntő végzése elleni fellebbezés bizonyítás felvétele nélkül elbírálható.
 
-(2) A másodfokú bíróság tanácsülésen határoz akkor is, ha az ítélet ellen a vádlott terhére nem jelentettek be fellebbezést, vagy a vádlott terhére bejelentett fellebbezés kizárólag az 583. § (3) bekezdés a), vagy c) pontján alapszik, és nyilvános ülés vagy tárgyalás kitűzését az ügyészség, a vádlott, a védő vagy a fellebbező nem indítványozza.
+(2) A másodfokú bíróság tanácsülésen határoz akkor is, ha az ítélet ellen a vádlott terhére nem jelentettek be fellebbezést és a tényállás megalapozott, vagy a vádlott terhére bejelentett fellebbezés kizárólag az 583. § (3) bekezdés a), vagy c) pontján alapszik, és nyilvános ülés vagy tárgyalás kitűzését az ügyészség, a vádlott, a védő vagy a fellebbező nem indítványozza.
 
 (3) A tanács elnöke tanácsülésre tartozó ügyben nyilvános ülést vagy tárgyalást tűzhet ki.
 
-(4) A tanács elnöke az ügyészséget, a vádlottat, a védőt és a fellebbezőt értesíti a tanácsülés kitűzéséről, a tanácsülés időpontjáról és tájékoztatja arról, hogy nyolc napon belül a más által bejelentett fellebbezésre, indítványra vagy nyilatkozatra észrevételeket tehetnek.
+(4) A tanács elnöke a (2) bekezdés szerinti esetben az ügyészséget, a vádlottat, a védőt és a fellebbezőt értesíti a tanácsülés kitűzéséről, a tanács összetételéről, a tanácsülés időpontjáról, és tájékoztatja arról, hogy nyolc napon belül a más által bejelentett fellebbezésre, indítványra vagy nyilatkozatra észrevételeket tehetnek.
 
 (5) Ha a tanács elnöke a (2) bekezdésben meghatározott esetben hivatalból nem tűzött ki nyilvános ülést vagy tárgyalást, a (4) bekezdés szerinti tájékoztatás kiterjed arra is, hogy az észrevétel előterjesztésére rendelkezésre álló határidő alatt nyilvános ülés, vagy tárgyalás kitűzése indítványozható. E határidő elmulasztása miatt igazolásnak nincs helye.
 

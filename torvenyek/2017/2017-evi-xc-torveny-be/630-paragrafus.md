@@ -6,6 +6,8 @@
 
 (3) A 627. § (2) bekezdésében meghatározott esetben a fellebbezést elbíráló bíróság a fellebbezéssel megtámadott határozatot hatályon kívül helyezi, és a határozatot hozó bíróságot új eljárásra utasítja.
 
+(3a) Ha a fellebbezést elbíráló bíróság a fellebbezéssel érintett vádlott vonatkozásában a hatályon kívül helyező végzést hatályon kívül helyezi, akkor az ugyanazon bűncselekmény vonatkozásában a fellebbezéssel nem érintett vádlott tekintetében is ugyanígy határoz.
+
 (4) A hatályon kívül helyező végzés indokolása tartalmazza a hatályon kívül helyezés okát, továbbá a fellebbezést elbíráló bíróságnak a megismételt eljárásra vonatkozó iránymutatását.
 
 (5) Határozatának meghozatalát követően a fellebbezés elbírálására jogosult bíróság a személyi szabadságot érintő bírói engedélyes kényszerintézkedésről határoz.

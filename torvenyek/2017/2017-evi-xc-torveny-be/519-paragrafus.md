@@ -8,6 +8,6 @@
 
 (4) A bíróság mellőzheti a bizonyítást
 
-a) az ügyész, a vádlott és a védő által valósnak elfogadott tények tekintetében, vagy
+a) az ügyészség, a vádlott és a védő által valósnak elfogadott tények tekintetében, vagy
 
 b) az olyan bűncselekmény miatt, amelynek a vád tárgyává tett jelentősebb tárgyi súlyú bűncselekmény mellett a felelősségre vonás szempontjából nincs jelentősége.

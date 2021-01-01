@@ -26,13 +26,13 @@
 
 13. az igazolási kérelem elbírálása,
 
-14. a terhelt őrizetbe vétele és az őrizet megszüntetése,
+14. a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy őrizetbe vétele és az őrizet megszüntetése,
 
 15. a kutatás és a motozás elrendelése,
 
 16. a lefoglalás elrendelése és megszüntetése,
 
-17. a számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés elrendelése,
+17. az elektronikus adat megőrzésére kötelezés elrendelése,
 
 18. a bírósági döntést nem igénylő zár alá vétel alkalmazása és feloldása,
 

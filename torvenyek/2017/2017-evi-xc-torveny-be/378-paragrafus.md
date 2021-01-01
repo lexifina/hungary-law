@@ -6,7 +6,7 @@
 
 (3) A magánindítványt attól a naptól számított egy hónapon belül kell előterjeszteni, amelyen a magánindítványra jogosult a bűncselekményről tudomást szerzett.
 
-(4) Ha a nyomozás megindítását követően derül ki, hogy a cselekmény csak magánindítványra büntethető, a magánindítvány előterjesztésére jogosult nyilatkozatát be kell szerezni. Ebben az esetben a (3) bekezdésben meghatározott határidőt attól a naptól kell számítani, amelyen a magánindítványra jogosult a felhívásról tudomást szerzett.
+(4) Ha a nyomozás megindítását követően derül ki, hogy a cselekmény magánindítványra üldözendő, a magánindítvány előterjesztésére jogosult nyilatkozatát be kell szerezni. Ebben az esetben a (3) bekezdésben meghatározott határidőt attól a naptól kell számítani, amelyen a magánindítványra jogosult a felhívásról tudomást szerzett.
 
 (5) Az elhunyt sértett hozzátartozója a még nyitva álló határidő alatt terjesztheti elő a magánindítványt.
 

@@ -10,6 +10,6 @@ b) az ügyben a vádlottat a büntetéskiszabási körülmények további tiszt�
 
 (3) A nyilvános ülésen az ügy előadása – ha azt a jelenlévők nem indítványozzák – mellőzhető.
 
-(4) A nyilvános ülésen az ügyész jelenléte nem kötelező.
+(4) A nyilvános ülésen az ügyész és – a (2) bekezdés b) pontjában meghatározott eseten kívül – a vádlott jelenléte nem kötelező.
 
 (5) A fellebbezés a szabályszerűen idézett vádlott távollétében akkor is elbírálható, ha a nyilvános ülés eredményeként megállapítható, hogy a meghallgatása nem szükséges.

@@ -4,7 +4,7 @@
 
 ## Az egyezség megkötése
 
-407. § (1) Az ügyészség és a terhelt a XCIX. Fejezet szerinti, egyezség esetén lefolytatandó eljárás érdekében a vádemelés előtt egyezséget köthet a terhelt által elkövetett bűncselekmény vonatkozásában a bűnösség beismeréséről és ennek következményeiről (a továbbiakban: egyezség).
+407. § (1) Az ügyészség és a terhelt a XCIX. Fejezet szerinti, egyezség esetén lefolytatandó eljárás érdekében a vádemelés előtt egyezséget köthet a terhelt által elkövetett bűncselekmény vonatkozásában a bűnösség beismeréséről és ennek következményeiről (a továbbiakban: egyezség). Az egyezségkötésnek nem akadálya, ha a gyanúsított a bűncselekmény elkövetését beismerte.
 
 (2) Az egyezség megkötését a terhelt, a védő és az ügyészség egyaránt kezdeményezheti. Az ügyészség a kezdeményezését a terhelt 385. § szerinti kihallgatása során is közölheti.
 

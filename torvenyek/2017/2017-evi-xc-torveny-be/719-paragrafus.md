@@ -12,4 +12,10 @@
 
 (4) Ha az indítványt a mentelmi jog felfüggesztésére jogosult elutasította, az eljárást az ügyészség határozattal, illetve a bíróság nem ügydöntő végzéssel haladéktalanul megszünteti.
 
+(4a) A másodfokú bíróság az elsőfokú bíróság mentelmi jogon alapuló mentességnek a megsértésével hozott határozatát hatályon kívül helyezi, és az eljárást megszünteti, ha a mentelmi jog felfüggesztése iránti indítványt a mentelmi jog felfüggesztésére jogosult elutasította.
+
 (5) Ha törvény eltérően nem rendelkezik, az eljárás ilyen okból történő megszüntetése nem akadálya annak, hogy a mentelmi jog megszűnését követően a büntetőeljárást lefolytassák.
+
+(6) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot nem ügydöntő végzésével hatályában fenntartja, ha a mentelmi jogot a mentelmi jog felfüggesztésére jogosult felfüggesztette.
+
+(7) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot hatályon kívül helyezi, és nem ügydöntő végzésével az eljárást megszünteti, ha az alapügyben a bíróság a jogerős ügydöntő határozatát a mentelmi jogon alapuló mentességnek a megsértésével hozta meg, és a mentelmi jog felfüggesztése iránti indítványt a mentelmi jog felfüggesztésére jogosult elutasította.

@@ -14,11 +14,13 @@ b) az elsőfokon elítélt vádlottat felmentette vagy vele szemben a büntetőe
 
 c) a vádlott bűnösségét olyan bűncselekményben állapította meg, amelyről az elsőfokú bíróság nem rendelkezett.
 
+(2a) Nem tekinthető ellentétes döntésnek, ha a vádlott egy cselekménye több bűncselekményt valósít meg, és erre figyelemmel a másodfokú eljárásban az elsőfokú bíróság által megállapított minősítés megváltoztatásának lett volna helye.
+
 (3) A fellebbezés sérelmezheti
 
 a) az ellentétes döntést, illetve
 
-b) kizárólag a másodfokú bíróság ítéletének azon rendelkezését vagy részét, amelyet az elsőfokú bíróság ítéletének az ellentétes döntéssel összefüggő felülbírálata eredményezett.
+b) kizárólag az ellentétes döntéssel összefüggő felülbírálatból eredő, az 583. § (3) bekezdésében meghatározott rendelkezést vagy indokolást.
 
 (4) A másodfokú bíróság ítélete elleni fellebbezésben az ellentétes döntés alapját képező tényállás nem támadható, ha
 

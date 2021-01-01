@@ -1,6 +1,6 @@
 288. § (1) Az óvadék letevője elveszti a jogát a letett óvadék összegére, ha a bíróság a terhelt letartóztatását
 
-a) a 293. § alapján, vagy
+a) a 293. § (3) vagy (4) bekezdése alapján, vagy
 
 b) az óvadék letételét követően tanúsított magatartása következtében
 

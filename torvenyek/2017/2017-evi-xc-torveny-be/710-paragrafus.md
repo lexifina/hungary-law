@@ -1,6 +1,6 @@
 ## A bűncselekmény elbírálása fegyelmi eljárásban
 
-710. § (1) Az ügyészség a feljelentést elutasítja vagy az eljárást megszünteti, és az ügyiratokat a fegyelmi jogkör gyakorlójának megküldi, ha a katonai vétség miatt a büntetés célja fegyelmi fenyítéssel is elérhető.
+710. § (1) Az ügyészség a feljelentést elutasítja vagy az eljárást megszünteti, és az ügyiratokat a fegyelmi jogkör gyakorlójának megküldi, ha a katonai vétség miatt a büntetés célja fegyelmi fenyítéssel is elérhető. A feljelentés elutasításáról szóló határozatot a feljelentettnek is kézbesíteni kell.
 
 (2) Ha a katonai nyomozó hatóság lehetőséget lát a bűncselekmény fegyelmi eljárásban történő elbírálására, az ügyiratokat az (1) bekezdés szerinti határozat meghozatala céljából haladéktalanul felterjeszti az ügyészséghez. Az ügyészség az ügyiratok érkezésétől számított három napon belül az (1) bekezdés szerinti határozatot meghozza és intézkedést megteszi, vagy az ügyiratokat a nyomozás folytatása érdekében a parancsnoknak visszaküldi.
 

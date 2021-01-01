@@ -38,7 +38,7 @@ d) megrovást alkalmaz, vagy
 
 e) olyan bűncselekmény miatt van folyamatban, amelynek az elkövetett jelentősebb tárgyi súlyú bűncselekmény mellett az elkövető felelősségre vonása szempontjából nincs jelentősége.
 
-(3) Ha a terhelt az eljárást megszüntető határozat ellen benyújtott panaszában a megrovás alkalmazását sérelmezi, és az eljárás megszüntetésének más oka nincs, az eljárást folytatni kell.
+(3) Ha a terhelt vagy – a terhelt hozzájárulásával – a védő az eljárást megszüntető határozat ellen benyújtott panaszában a megrovás alkalmazását sérelmezi, és az eljárás megszüntetésének más oka nincs, az eljárást folytatni kell.
 
 (4) Ha az ügyészség vagy a nyomozó hatóság az eljárást az (1) bekezdés i) pontja alapján szüntette meg, a 381. § (3)–(5) bekezdését megfelelően alkalmazni kell.
 

@@ -18,4 +18,6 @@ b) igazolja, hogy a nyomozás ügyiratait a 352. § szerint önhibáján kívül
 
 (5) Az előkészítő ülésen az ügyész és a vádlott jelenléte kötelező. Ha az eljárásban védő vesz részt, az előkészítő ülés a védő távollétében nem tartható meg.
 
-(6) Ha az ügyben több vádlott van, az előkészítő ülés vádlottanként külön-külön, az ügyek elkülönítése nélkül is megtartható.
+(6) Ha az ügyben több vádlott van, a vádlott-társak és védőik jelenléte az előkészítő ülésen nem kötelező, egyébként a vádlott-társak jelenlétére az 522. § (2) és (3) bekezdésében foglaltak megfelelően irányadók.
+
+(7) Ha az ügyben több vádlott van, az előkészítő ülés vádlottanként külön-külön, az ügyek elkülönítése nélkül is megtartható.

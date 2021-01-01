@@ -2,7 +2,7 @@
 
 456. § (1) A bíróság jogerős ügydöntő határozata végleges, mindenkire kötelező döntést tartalmaz a vádról, illetve a terhelt büntetőjogi felelősségéről, a büntetőjogi következményekről vagy ezek hiányáról. Az ügydöntő határozat a jogerőre emelkedését követően kizárólag rendkívüli jogorvoslattal vagy különleges eljárás eredményeként változtatható meg.
 
-(2) Ha az ügydöntő határozat jogerőre emelkedik, az abban elbírált cselekmény miatt a terhelttel szemben újabb büntetőeljárás nem folytatható.
+(2) Ha a vádról rendelkező ügydöntő határozat jogerőre emelkedik, az abban elbírált cselekmény miatt a terhelttel szemben újabb büntetőeljárás nem folytatható.
 
 (3) Az ügydöntő határozat jogerőre emelkedését követően kell a kiszabott büntetés vagy az alkalmazott intézkedés végrehajtását megkezdeni, az abban foglaltakat teljesíteni, illetve a jogerőre emelkedést követően állnak be az elítéléshez, a felmentéshez vagy az eljárás megszüntetéséhez fűződő jogkövetkezmények.
 

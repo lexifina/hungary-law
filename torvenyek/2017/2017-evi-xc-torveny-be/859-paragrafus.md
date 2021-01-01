@@ -12,6 +12,8 @@ b) fogva tartott terhelt esetén a büntetés-végrehajtási intézet értékel�
 
 c) a terhelt életvitelével összefüggő nyilvános adatokról készített rendőrségi jelentés.
 
+(3a) A környezettanulmányt a pártfogó felügyelő készíti el.
+
 (4) A kegyelmi kérelmet vagy a kegyelmi kezdeményezést, a büntetőeljárás ügyiratait vagy azok egy részét, valamint a (2) bekezdésben meghatározott célból beszerzett adatokat, iratokat azok beszerzését követő nyolc napon belül
 
 a) a vádemelés előtt az eljáró ügyészség a legfőbb ügyészhez,

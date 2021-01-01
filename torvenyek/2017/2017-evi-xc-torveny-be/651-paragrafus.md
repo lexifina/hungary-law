@@ -14,7 +14,7 @@ d) a terhelt törvényes képviselője,
 
 e) a terhelt házastársa vagy élettársa a kényszergyógykezelés elrendelése ellen,
 
-f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy élettársa
+f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy élettársa, illetve ha a terhelt halála óta több mint ötven év telt el, oldalági rokona
 
 terjeszthet elő felülvizsgálati indítványt.
 

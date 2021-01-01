@@ -6,13 +6,13 @@
 
 444. § (1) A bíróság eljárásáról jegyzőkönyvet kell készíteni.
 
-(2) E törvény elrendelheti az eljárási cselekményről
+(2) Jogszabályban meghatározottak szerint az eljárási cselekményről
 
-a) egyidejűleg végzett jegyzőkönyvezés mellett folyamatos hangfelvétel vagy
+a) egyidejűleg végzett jegyzőkönyvezés mellett folyamatos hangfelvétel vagy kép- és hangfelvétel, vagy
 
-b) kép- és hangfelvétel
+b) egyidejűleg végzett jegyzőkönyvezés helyett kép- és hangfelvétel
 
-készítését.
+készíthető.
 
 (3) A bíróság a jogszabályban meghatározott eseteken kívül az eljárási cselekményre idézett vagy arról értesített ügyészségnek, vádlottnak, védőnek vagy sértettnek az eljárási cselekmény előtt legalább öt nappal előterjesztett indítványára vagy hivatalból is elrendelheti folyamatos hangfelvétel vagy kép- és hangfelvétel készítését.
 
@@ -20,4 +20,4 @@ készítését.
 
 (5) A bíróság ügydöntő határozatának meghozatala idejére a folyamatos hangfelvételt, valamint a kép- és hangfelvételt megszakítja, egyéb határozatának meghozatala idejére megszakíthatja. Ha a bíróság fontos okból az eljárási cselekményt rövid időre megszakítja, ennek tartamára a folyamatos hangfelvétel vagy a kép- és hangfelvétel is megszakítható.
 
-(6) A jogszabályban meghatározott módon hitelesített kép- és hangfelvétel jegyzőkönyvnek minősül.
+(6) A (2) bekezdés b) pontja szerint készített kép- és hangfelvétel jegyzőkönyvnek minősül, amit jogszabályban meghatározott módon kell hitelesíteni.

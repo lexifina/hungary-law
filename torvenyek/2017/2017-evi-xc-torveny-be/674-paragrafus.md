@@ -10,6 +10,8 @@
 
 (5) A bíróság határozata ellen az fellebbezhet, aki az eljárás megindítása érdekében indítványtételre jogosult, vagy az őt érintő körben, akinek a határozat a jogait vagy kötelezettségeit érintette.
 
+(5a) A másodfokú bíróság az egyszerűsített felülvizsgálati eljárásban a fellebbezésről tanácsülésen határoz, ha az ügyész, a terhelt vagy a védő meghallgatása szükséges, nyilvános ülést tart, ha más bizonyítást vesz fel, tárgyalást tart.
+
 (6) A másodfokú bíróság az egyszerűsített felülvizsgálati eljárásban hozott elsőfokú határozatot hatályon kívül helyezi és az indítványt elutasítja, ha az eljárás lefolytatása a törvényben kizárt. A bíróság így jár el akkor is, ha az indítványt nem jogosult személy terjesztette elő és egyszerűsített felülvizsgálati eljárás lefolytatásának hivatalból nincs helye.
 
 (7) Egyszerűsített felülvizsgálati eljárásban harmadfokú bírósági eljárásnak nincs helye.

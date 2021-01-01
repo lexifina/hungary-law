@@ -4,7 +4,7 @@ a) olyan bűncselekmény bizonyítására kívánják felhasználni, amely miatt
 
 b) a büntetőeljárásban felhasználni kívánt adat megszerzését követően a titkos információgyűjtést végző nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve legkésőbb a büntetőeljárásban felhasználni kívánt adat megszerzését követő harminc napon belül kezdeményezte a büntetőeljárás megindítását.
 
-(2) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve legkésőbb a felhasználni kívánt adat megszerzését követő egy éven belül teheti meg a feljelentést, ha
+(2) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve legkésőbb a felhasználni kívánt adat megszerzését követő egy éven belül kezdeményezheti a büntetőeljárás megindítását, ha
 
 a) a büntetőeljárás korábbi kezdeményezésével a törvényben meghatározott feladatának az eredményességét veszélyeztetné, és
 

@@ -8,7 +8,7 @@
 
 (3) Ha e törvény eltérően nem rendelkezik, az ülés a terhelt, az ügyész és – ha a büntetőeljárásban védő részvétele kötelező – a védő nélkül nem tartható meg.
 
-(4) A külföldi állampolgár terhelt, sértett vagy tanú indítványára a tárgyaláson és az ülésen jelen lehet államának konzuli tisztviselője.
+(4) A külföldi állampolgár terhelt, annak védője, illetve külföldi állampolgár sértett vagy tanú indítványára a tárgyaláson és az ülésen jelen lehet államának konzuli tisztviselője.
 
 (5) A bírósági eljárásban a védő részvétele – a 44. §-ban foglaltakon kívül – kötelező
 

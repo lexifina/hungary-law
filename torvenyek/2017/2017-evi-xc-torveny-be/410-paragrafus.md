@@ -4,7 +4,7 @@
 
 (2) Az egyezség tartalmazza az egyezség tárgyát képező
 
-a) bűncselekmény leírását és Btk. szerinti minősítését,
+a) bűncselekmény tényállásának leírását és Btk. szerinti minősítését,
 
 b) bűncselekmény vonatkozásában a terhelt nyilatkozatát arról, hogy a bűnösségét beismeri, és ennek érdekében vallomást tesz,
 

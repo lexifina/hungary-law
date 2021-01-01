@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-90-00-00
 | 2020-06-18 | 2020. évi LVIII. törvény | 2017-90-00-00.8 |
 | 2020-07-01 | 2017. évi XC. törvény | 2017-90-00-00.9 |
 | 2020-09-06 | 2020. évi LXXIV. törvény | 2017-90-00-00.10 |
+| 2021-01-01 | 2020. évi XLIII. törvény | 2017-90-00-00.11 |

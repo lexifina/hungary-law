@@ -6,4 +6,6 @@
 
 (4) Ha az eljárást azért szüntették meg, mert a cselekmény nem bűncselekmény, a lefoglalt dolgot annak kell kiadni, akitől lefoglalták.
 
-(5) A terhelttől lefoglalt dolog a bíróság határozata alapján az állam tulajdonába kerül, ha az kétségtelenül mást illet, és ennek a személynek a kiléte nem állapítható meg. Ha az ilyen személy kiléte utóbb mégis tisztázódik, az érintett a dolog kiadását vagy az értékesítésből származó ellenértékét igényelheti. Az igénylő kérelméről a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróság határoz.
+(5) A terhelttől vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személytől lefoglalt dolog a bíróság határozata alapján az állam tulajdonába kerül, ha az kétségtelenül mást illet, és ennek a személynek a kiléte nem állapítható meg. Ha az ilyen személy kiléte utóbb mégis tisztázódik, az érintett a dolog kiadását vagy az értékesítésből származó ellenértékét igényelheti. Az igénylő kérelméről a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróság határoz.
+
+(6) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a 111. § alapján az eljárás kezdeményezésére, illetve lefolytatására jogosult szervet tájékoztatja, amelynek eljárásában a lefoglalásra, zárlatra vagy zár alá vételre van lehetőség, a lefoglalás megszüntetésének végrehajtását legfeljebb öt munkanapig felfüggesztheti.

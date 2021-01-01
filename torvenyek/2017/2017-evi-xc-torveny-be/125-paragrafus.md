@@ -10,4 +10,4 @@ c) az elkülönített helyszín címét,
 
 d) az elkülönített helyszínen tartózkodó egyéb személyek nevét és azt, hogy az eljárási cselekményen milyen minőségben vannak jelen.
 
-(2) Telekommunikációs eszköz használata esetén a felvételt rögzíteni kell.
+(2) Telekommunikációs eszköz használata esetén – ha jogszabály kivételt nem tesz – a felvételt rögzíteni kell.

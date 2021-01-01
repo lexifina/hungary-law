@@ -6,4 +6,6 @@
 
 (4) Ha a bíróság a távollévő vádlott részére védőt rendel ki, a tárgyalást a korábbi tárgyalás anyagának ismertetésével kell folytatni.
 
+(4a) A távollevő terhelttel szemben folytatott eljárásban a másodfokú bíróság az elsőfokú ítéletet arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
+
 (5) Az (1)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell a másodfokú és a harmadfokú bírósági eljárásban is.

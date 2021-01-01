@@ -8,7 +8,7 @@
 
 (4) Ha a perújítási indítványt a bíróságnál terjesztették elő, a bíróság azt az alapügy bírósági ügyirataival együtt, a 642. §-ban meghatározott intézkedések megtétele érdekében megküldi az ügyészségnek. Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül visszaküldi a bíróságnak. Ha az ügyészség a 642. § (6) bekezdése alapján perújítási nyomozást rendelt el, a határidőt a perújítási nyomozás elvégzésétől kell számítani.
 
-(5) A bíróság kézbesíti az ügyészség nyilatkozatát a perújítási indítvány előterjesztőjének. A terhelt részére kézbesíteni kell a más által előterjesztett perújítási indítványt és az arra tett ügyészségi nyilatkozatot.
+(5) A bíróság kézbesíti az ügyészség nyilatkozatát a perújítási indítvány előterjesztőjének. A terhelt és a védő részére kézbesíteni kell a más által előterjesztett perújítási indítványt és az arra tett ügyészségi nyilatkozatot.
 
 (6) Az (5) bekezdésben meghatározott személyek a perújítási indítványra, illetve az ügyészség nyilatkozatára a kézbesítéstől számított tizenöt napon belül észrevételt tehetnek.
 

@@ -4,4 +4,4 @@
 
 (2) A bíróság, az ügyészség és a nyomozó hatóság által készített, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel ellátott ügyirat közokirat.
 
-(3) E törvény alkalmazásában aláírás alatt a bíróság, az ügyész és a nyomozó hatóság minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy elektronikus bélyegzőjét is érteni kell.
+(3) E törvény alkalmazásában aláírás alatt a bíróság, az ügyészség és a nyomozó hatóság minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy elektronikus bélyegzőjét is érteni kell.

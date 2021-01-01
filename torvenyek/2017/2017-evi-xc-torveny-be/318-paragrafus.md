@@ -16,4 +16,4 @@ c) megváltás összegének a megállapítása aránytalan költséggel járna.
 
 (5) A megváltás elfogadására irányuló indítvány elutasítása ellen nincs helye jogorvoslatnak.
 
-(6) A megváltás során kifizetett összeg a lefoglalt dolog helyébe lép. Ilyen esetben a vagyonelkobzást a dolog helyébe lépő ellenértékre kell elrendelni.
+(6) A megváltás során kifizetett összeg a lefoglalt dolog helyébe lép, amelyre a lefoglalás külön határozat nélkül kiterjed, és a lefoglalás az eredetileg lefoglalt dolog tekintetében a megváltással megszűnik. Ilyen esetben a vagyonelkobzást a dolog helyébe lépő összegre kell elrendelni.

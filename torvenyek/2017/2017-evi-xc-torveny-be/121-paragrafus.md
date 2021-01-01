@@ -4,4 +4,4 @@
 
 (2) Nincs helye jogorvoslatnak a telekommunikációs eszköz használata iránti indítvány elutasítása, valamint ha e törvény kivételt nem tesz, használatának elrendelése ellen.
 
-(3) A bíróság, az ügyészség és a nyomozó hatóság az indítványra történő elrendelés esetén haladéktalanul, egyébként az idézéssel egyidejűleg közli a telekommunikációs eszköz használatát elrendelő döntését.
+(3) A bíróság, az ügyészség és a nyomozó hatóság az indítványra történő elrendelés esetén haladéktalanul, egyébként az idézéssel, az értesítéssel egyidejűleg közli a telekommunikációs eszköz használatát elrendelő döntését.

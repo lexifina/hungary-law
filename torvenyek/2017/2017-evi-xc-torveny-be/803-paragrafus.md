@@ -4,7 +4,13 @@
 
 (3) Ha a pótmagánvádló jogi képviselője a tárgyaláson nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, és a jogi képviselőt rendbírsággal sújthatja. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
 
-(4) Ha a tárgyaláson sem a pótmagánvádló, sem jogi képviselője nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve a pótmagánvádlót azért nem lehetett idézni, mert lakcímének megváltozását nem jelentette be, úgy kell tekinteni, hogy a pótmagánvádló a vádat ejtette. A pótmagánvádlót erre az idézésben figyelmeztetni kell.
+(4) Ha a tárgyaláson a pótmagánvádló
+
+a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve a pótmagánvádlót azért nem lehetett idézni, mert lakcímének megváltozását nem jelentette be, vagy
+
+b) önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik,
+
+úgy kell tekinteni, hogy a pótmagánvádló a vádat ejtette. A pótmagánvádlót erre az idézésben figyelmeztetni kell.
 
 (5) Ha a pótmagánvádló jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a pótmagánvádlót, hogy jogi képviseletéről tizenöt napon belül gondoskodjék. Ha a pótmagánvádló a kitűzött határidő alatt jogi képviseletéről nem gondoskodik, az eljárást meg kell szüntetni. A pótmagánvádlót erre figyelmeztetni kell.
 

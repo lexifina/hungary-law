@@ -2,9 +2,9 @@
 
 135. § (1) A bíróság, az ügyészség és a nyomozó hatóság hirdetmény útján kézbesíti
 
-a) az ügyiratát az ismeretlen helyen tartózkodó terhelt részére,
+a) az ügyiratát az ismeretlen helyen tartózkodó terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy részére,
 
-b) az ügyiratát az elektronikus adat felett rendelkezni jogosult ismeretlen vagyoni érdekelt részére,
+b)
 
 c) az értesítést, ha ezt az érdekeltek jelentős száma indokolttá teszi.
 

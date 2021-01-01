@@ -2,7 +2,7 @@
 
 a) a sértett a feljelentést visszavonta,
 
-b) mulasztását a feljelentés visszavonásának kell tekinteni, vagy
+b) a sértett mulasztását a feljelentés visszavonásának kell tekinteni, vagy
 
 c) a személyes meghallgatáson a sértett és a feljelentett békítése eredményes.
 

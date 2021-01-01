@@ -1,3 +1,3 @@
 664. § (1) A felülvizsgálati eljárás során felmerült bűnügyi költséget, ideértve a felülvizsgálati indítvány megfogalmazására kirendelt védő díját is, a felülvizsgálati indítvány elutasítása esetén – az ügyészség által kezdeményezett felülvizsgálat esetét kivéve – az indítvány előterjesztője viseli. Más esetekben a bűnügyi költséget az állam viseli.
 
-(2) A felülvizsgálati indítvány elintézése után a Kúria kézbesíti a határozatát. A Kúria az ügyiratokat a határozatával és az ülésről készült jegyzőkönyvvel együtt visszaküldi annak a bíróságnak, amely a felülvizsgálati indítvánnyal megtámadott határozatot hozta, vagy amelyet új eljárásra utasított.
+(2) A felülvizsgálati indítvány elintézése után a Kúria kézbesíti a határozatát. A Kúria az ügyiratokat a határozatával és a jegyzőkönyvvel együtt visszaküldi annak a bíróságnak, amely a felülvizsgálati indítvánnyal megtámadott határozatot hozta, vagy amelyet új eljárásra utasított.

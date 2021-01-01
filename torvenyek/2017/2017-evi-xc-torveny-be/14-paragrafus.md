@@ -4,7 +4,7 @@
 
 a) aki az ügyben ügyészként vagy a nyomozó hatóság tagjaként járt el, valamint az ügyben eljárt vagy eljáró ügyésznek vagy a nyomozó hatóság tagjának a hozzátartozója,
 
-b) aki az ügyben terheltként, védőként, sértettként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
+b) aki az ügyben terheltként, bűncselekmény elkövetésével megalapozottan gyanúsítható személyként, védőként, sértettként, vagyoni érdekeltként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
 
 c) aki az ügyben tanúként, szakértőként, vagy szaktanácsadóként vesz vagy vett részt,
 

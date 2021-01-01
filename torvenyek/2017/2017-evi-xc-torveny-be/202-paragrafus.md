@@ -8,9 +8,9 @@ a) büntetés vagy intézkedés alkalmazása,
 
 b) feltételes ügyészi felfüggesztés alkalmazása vagy
 
-c) közvetítői eljárásra utalás előtt
+c) közvetítői eljárásra utalás
 
-pártfogó felügyelői vélemény beszerzését rendelheti el.
+előtt pártfogó felügyelői vélemény beszerzését rendelheti el.
 
 (2) Pártfogó felügyelői vélemény beszerzését törvény kötelezővé teheti.
 

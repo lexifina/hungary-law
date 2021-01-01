@@ -10,7 +10,7 @@
 
 5. az egészségügyi beavatkozás és kutatás rendje elleni bűncselekmények,
 
-6. az emberrablás, az emberrablás feljelentésének elmulasztása, az emberkereskedelem,
+6. az emberrablás, az emberrablás feljelentésének elmulasztása, az emberkereskedelem és kényszermunka,
 
 7. az egészségügyi önrendelkezési jog megsértése,
 
@@ -32,13 +32,13 @@
 
 16. a Btk. 366. § (3) bekezdés a) pontja szerinti kifosztás,
 
-17. a Btk. 370. § (6) bekezdés a) pontja szerinti lopás, a Btk. 371. § (6) bekezdése szerinti rongálás, a Btk. 372. § (6) bekezdés a) pontja szerinti sikkasztás, a Btk. 373. § (6) bekezdés a) pontja szerinti csalás, a Btk. 375. § (4) bekezdés a) pontja és (5) bekezdése szerinti különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalás, a Btk. 377. § (2) bekezdése szerinti hanyag kezelés, a Btk. 379. § (6) bekezdés a) pontja szerinti orgazdaság,
+17. a Btk. 370. § (6) bekezdés a) pontja szerinti lopás, a Btk. 371. § (6) bekezdése szerinti rongálás, a Btk. 372. § (6) bekezdés a) pontja szerinti sikkasztás, a Btk. 373. § (6) bekezdés a) pontja szerinti csalás, a Btk. 375. § (4) bekezdés a) pontja és (5) bekezdése szerinti különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalás,
 
 18. a Btk. 385. § (4) bekezdés c) pontja szerinti szerzői vagy szerzői joghoz kapcsolódó jogok megsértése, a Btk. 388. § (3) bekezdés c) pontja szerinti iparjogvédelmi jogok megsértése,
 
 19. a gazdálkodással összefüggő kiemelt bűncselekmények,
 
-20. a pénzmosás,
+20. a Btk. 399. § (7) bekezdése szerinti pénzmosás,
 
 21. a katonai büntetőeljárás hatálya alá tartozó bűncselekmények,
 

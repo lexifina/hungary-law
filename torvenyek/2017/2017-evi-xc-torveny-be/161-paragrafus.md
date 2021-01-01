@@ -18,6 +18,6 @@ b) az elektronikus kapcsolattartásra vonatkozó, a 149. § (2) bekezdése szeri
 
 nyújtotta be.
 
-(4) Ha az ügyirat azért nem kézbesíthető, mert az elektronikus úton kapcsolatot tartó az elektronikus kapcsolattartáshoz szükséges szolgáltatásokkal nem rendelkezik, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratot papír alapon kézbesíti.
+(4) Ha az ügyirat azért nem kézbesíthető, mert az elektronikus úton kapcsolatot tartó az elektronikus kapcsolattartáshoz szükséges szolgáltatásokkal nem rendelkezik, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratot papíralapon kézbesíti.
 
 (5) A (4) bekezdésben meghatározott esetben az elektronikus úton kapcsolatot tartó rendbírsággal sújtható.

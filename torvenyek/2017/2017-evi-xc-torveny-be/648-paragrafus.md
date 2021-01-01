@@ -4,7 +4,7 @@
 
 ## A felülvizsgálat okai
 
-648. § Felülvizsgálatnak a bíróság jogerős ügydöntő határozata ellen
+648. § Felülvizsgálatnak a bíróság jogerős, a vádról rendelkező ügydöntő határozata ellen
 
 a) a büntető anyagi jog szabályainak megsértése miatt,
 

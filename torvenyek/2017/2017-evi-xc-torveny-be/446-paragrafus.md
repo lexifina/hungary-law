@@ -1,12 +1,12 @@
 ## A jegyzőkönyv elkészítése, kiegészítése, kijavítása
 
-446. § (1) Ha az eljárási cselekményről kép- és hangfelvétel készül, a jegyzőkönyvvezető jelenléte az eljárási cselekményen nem kötelező.
+446. § (1) Ha az eljárási cselekményről jegyzőkönyvnek minősülő kép- és hangfelvétel készül, a jegyzőkönyvvezető jelenléte az eljárási cselekményen nem kötelező.
 
 (2) Az eljárási cselekményről az írásbeli jegyzőkönyvet rendszerint azzal egyidejűleg, de legkésőbb az eljárási cselekmény időpontjától számított nyolc napon belül a jegyzőkönyvvezető készíti el.
 
-(3) Ha az eljárási cselekményről jegyzőkönyvvezető mellőzésével kép- és hangfelvétel készül, a jegyzőkönyv írásbeli kivonatát utóbb e felvétel alapján a (2) bekezdésben meghatározott határidőn belül kell elkészíteni.
+(3) Ha az eljárási cselekményről jegyzőkönyvvezető mellőzésével jegyzőkönyvnek minősülő kép- és hangfelvétel készül, a jegyzőkönyv írásbeli kivonatát utóbb e felvétel alapján a (2) bekezdésben meghatározott határidőn belül kell elkészíteni.
 
-(4) Ha a jegyzőkönyv nyolc napon belül nem készül el, az egyesbíró vagy a tanács elnöke az ügyészt, a vádlottat és a védőt tájékoztatja a jegyzőkönyv elkészültének időpontjáról.
+(4) Ha a jegyzőkönyv nyolc napon belül nem készül el, az egyesbíró vagy a tanács elnöke az ügyészséget, a vádlottat és a védőt tájékoztatja a jegyzőkönyv elkészültének időpontjáról.
 
 (5) Folyamatos hangfelvétel vagy a kép- és hangfelvétel esetén tájékoztatni kell az eljárási cselekményen jelen lévő személyeket, hogy a felvételt – az eljárási cselekmény befejezésétől számított nyolc napon belül – mikor, hol és milyen módon hallgathatják, illetve tekinthetik meg. A folyamatos hangfelvételre vagy a kép- és hangfelvételre az ügyiratok megismerésére és az azokról történő másolat készítésére vonatkozó rendelkezéseket kell alkalmazni. Ahol e törvény valamely körülmény vagy nyilatkozat jegyzőkönyvben történő rögzítését vagy feltüntetését írja elő, az alatt a folyamatos hangfelvételen vagy a kép- és hangfelvételen történő rögzítést is érteni kell.
 

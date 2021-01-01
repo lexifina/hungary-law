@@ -1,12 +1,12 @@
 310. § (1) Nem lehet lefoglalni
 
-a) a terhelt és a védő közötti közlést vagy küldeményt, illetve
+a) a terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy és a védő közötti közlést vagy küldeményt, illetve
 
 b) a védőnek az ügyre vonatkozó feljegyzését.
 
 (2) A (4) bekezdésben meghatározott kivétellel nem lehet lefoglalni
 
-a) a terhelt és a tanúvallomás megtagadására jogosult személy közötti közlést vagy küldeményt, illetve
+a) a terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy és a tanúvallomás megtagadására jogosult személy közötti közlést vagy küldeményt, illetve
 
 b) azt a bizonyítási eszközt, amelynek tartalmára a tanúvallomás megtagadható,
 
@@ -22,7 +22,7 @@ b) a lefoglalás tárgya a bűncselekmény eszköze,
 
 c) a lefoglalandó bizonyítási eszköz az elkövető nyomait hordozza,
 
-d) a tanúvallomás megtagadására jogosult személy az üggyel kapcsolatban megalapozottan gyanúsítható tettességgel, részességgel, bűnpártolással, orgazdasággal vagy pénzmosással,
+d) a tanúvallomás megtagadására jogosult személy az üggyel kapcsolatban megalapozottan gyanúsítható tettességgel, részességgel, bűnpártolással vagy pénzmosással,
 
 e) a tanúvallomás megtagadására jogosult személy a lefoglalandó bizonyítási eszközt – a (2) és (3) bekezdésben meghatározott rendelkezésre való figyelmeztetést követően – önként átadja vagy hozzáférhetővé teszi, illetve
 

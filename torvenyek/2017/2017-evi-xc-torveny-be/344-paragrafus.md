@@ -4,7 +4,7 @@
 
 (2) Az előkészítő eljárást folytató szerv az előkészítő eljárást önállóan végzi.
 
-(3) A nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az általa elrendelt előkészítő eljárás elrendelését követő huszonnégy órán belül tájékoztatja az ügyészséget az előkészítő eljárás szükségességét megalapozó adatokról, az alkalmazni kívánt leplezett eszközökről és a tervezett eljárási cselekményekről.
+(3) A nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az általa elrendelt előkészítő eljárás elrendelését követő három munkanapon belül tájékoztatja az ügyészséget az előkészítő eljárás szükségességét megalapozó adatokról, az alkalmazni kívánt leplezett eszközökről és a tervezett eljárási cselekményekről.
 
 (4) A nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az előkészítő eljárás során beszerzett adatokról kéthavonta tájékoztatja az ügyészséget, illetve az ügyészség kérésére az előkészítő eljárás során keletkezett ügyiratokat bemutatja.
 

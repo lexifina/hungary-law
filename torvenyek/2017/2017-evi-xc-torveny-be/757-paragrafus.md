@@ -4,7 +4,7 @@
 
 757. § (1) E törvény rendelkezéseit a biztosíték letétbe helyezésével folyó büntetőeljárásokban az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) Az életvitelszerűen külföldön élő terhelt indítványára a vádemelés előtt az ügyészség, azt követően a bíróság biztosíték letétbe helyezését engedélyezheti, feltéve, hogy
+(2) Az életvitelszerűen külföldön élő terhelt vagy védője indítványára a vádemelés előtt az ügyészség, azt követően a bíróság biztosíték letétbe helyezését engedélyezheti, feltéve, hogy
 
 a) az adott bűncselekményre a törvény ötévi szabadságvesztésnél nem súlyosabb büntetést rendel,
 

@@ -10,7 +10,7 @@ c) a tárgyalásról a nyilvánosságot törvényes ok nélkül kizárták,
 
 d) a bűnösség megállapítása, a felmentés, az eljárás megszüntetése, a cselekmény Btk. szerinti minősítése vagy a büntetés kiszabása, illetve az intézkedés alkalmazása tekintetében az elsőfokú bíróság az indokolási kötelezettségének nem vagy csak részben tett eleget,
 
-e) az elsőfokú bíróság a bűnösséget beismerő nyilatkozatot az 504. § (2) bekezdésében meghatározott feltételek hiányában fogadta el.
+e)
 
 (3) Az ítélet felmentő, illetve eljárást megszüntető rendelkezését nem kell hatályon kívül helyezni, ha az (1) bekezdés szerinti eljárási szabálysértés a vádlott vagy a védő törvényes jogainak gyakorlását korlátozta.
 

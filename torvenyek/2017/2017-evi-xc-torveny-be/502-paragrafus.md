@@ -4,13 +4,15 @@
 
 (2) A vádlott vagy – a vádlott hozzájárulásával – a védő indítványára a vád lényegének ismertetése mellőzhető.
 
-(3) A bíróság ezután a vádlottat a XXX. Fejezet szerint kihallgatja. A bíróság a kihallgatás megkezdésekor a terhelti figyelmeztetésen kívül figyelmezteti a vádlottat az 500. § (2) bekezdésében foglaltakra.
+(3) A bíróság ezután a vádlottat – az előkészítő ülés jellegére figyelemmel – kihallgatja. A bíróság a kihallgatás megkezdésekor a terhelti figyelmeztetésen kívül figyelmezteti a vádlottat az 500. § (2) bekezdésében foglaltakra.
 
 (4) A bíróság védőt rendel ki és az előkészítő ülést elnapolja, ha a vádlottnak nincs meghatalmazott védője és
 
 a) a bíróságnak kétsége merül fel azzal kapcsolatban, hogy a vádlott a vádat, illetve az 500. § (2) bekezdésben foglaltakat és azok következményeit megértette, vagy
 
 b) a vádlott védő kirendelését indítványozza.
+
+(4a) Ha a vádiratot kézbesítési fikció alapján kell kézbesítettnek tekinteni, a bíróság a vádlott vagy – a vádlott hozzájárulásával – a védő indítványára az előkészítő ülést elnapolja, kivéve, ha a vádirat átvételét a vádlott megtagadta.
 
 (5) A (3) bekezdésben meghatározott figyelmeztetéseket követően a bíróság kérdést intéz a vádlotthoz, hogy beismeri-e a bűnösségét a vád tárgyává tett bűncselekményben.
 

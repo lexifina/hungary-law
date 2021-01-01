@@ -10,7 +10,7 @@
 
 (4) A jogegységi határozat indokolása tartalmazza a terhelt felmentésének és az eljárás megszüntetésének indokait is.
 
-(5) A jogegységi határozatot közölni kell azzal a terhelttel is, akit felmentettek vagy akivel szemben az eljárást megszüntették.
+(5) A jogegységi határozatot közölni kell azzal a terhelttel és a védőjével is, akit felmentettek vagy akivel szemben az eljárást megszüntették.
 
 (6) A bíróságok szervezetéről és igazgatásáról szóló törvény rendelkezései alapján jogegységi panasz nyújtható be.
 

@@ -26,6 +26,8 @@ d) a sértett az állam vagy közhatalmat gyakorló szerv,
 
 e) a bűncselekmény elkövetésével fedett nyomozó, a leplezett eszközök alkalmazására feljogosított szerv tagja vagy titkosan együttműködő személy gyanúsítható megalapozottan, és az ügyészség a 224. § (1) bekezdése alapján a feljelentést elutasította vagy az eljárást megszüntette,
 
-f) az ügyészség a feljelentést a 382. § (1) bekezdése alapján utasította el, vagy az eljárást a 399. § (1) bekezdése alapján szüntette meg, vagy
+f) az ügyészség a feljelentést a 382. § (1) bekezdése alapján utasította el, vagy az eljárást a 399. § (1) bekezdése alapján szüntette meg,
 
-g) az ügyészség a 398. § (2) bekezdés e) pontja alapján az eljárást azért szüntette meg, mert a terhelttel a 411. § (3) bekezdése szerint egyezséget kötött.
+g) az ügyészség a 398. § (2) bekezdés e) pontja alapján az eljárást azért szüntette meg, mert a terhelttel a 411. § (3) bekezdése szerint egyezséget kötött, vagy
+
+h) az ügyészség a 764. § (7) bekezdése alapján szüntette meg az eljárást, vagy ejtette a vádat.

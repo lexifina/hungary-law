@@ -14,7 +14,7 @@ c) a tárgyalás időpontjáról értesíti a fenyítést kiszabó fegyelmi jogk
 
 (5) A bíróság az indítványt végzéssel bírálja el.
 
-(6) A törvényben kizárt, az elkésett vagy a nem jogosulttól származó indítványt a bíróság elutasítja. Az ismételten ilyen módon előterjesztett indítványt a bíróság érdemi indokolás nélkül utasítja el. Az indítvány elutasításának a tárgyalás kitűzése előtt is helye van.
+(6)
 
 (7) A bíróság
 

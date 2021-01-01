@@ -26,6 +26,6 @@ bb) megalapozottan feltehető, hogy a terhelt a bizonyítást veszélyeztetné, 
 
 c) a bűnismétlés lehetőségének megakadályozása érdekében, ha
 
-ca) a gyanúsítotti kihallgatását követően az eljárás tárgyát képező bűncselekményt folytatta, vagy a gyanúsítotti kihallgatását követően elkövetett újabb, szabadságvesztéssel büntetendő szándékos bűncselekmény miatt gyanúsítottként hallgatták ki, illetve
+ca) a terhelt a gyanúsítotti kihallgatását követően az eljárás tárgyát képező bűncselekményt folytatta, vagy a gyanúsítotti kihallgatását követően elkövetett újabb, szabadságvesztéssel büntetendő szándékos bűncselekmény miatt gyanúsítottként hallgatták ki, illetve
 
-cb) megalapozottan feltehető, hogy a megkísérelt vagy előkészített bűncselekményt véghezvinné, az eljárás tárgyát képező bűncselekményt folytatná vagy szabadságvesztéssel büntetendő újabb bűncselekményt követne el.
+cb) megalapozottan feltehető, hogy a terhelt a megkísérelt vagy előkészített bűncselekményt véghezvinné, az eljárás tárgyát képező bűncselekményt folytatná vagy szabadságvesztéssel büntetendő újabb bűncselekményt követne el.

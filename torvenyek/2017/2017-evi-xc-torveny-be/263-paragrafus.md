@@ -1,4 +1,4 @@
-263. § (1) Ha törvény ezt lehetővé teszi, az adatszolgáltatást kérő szerv a nyilvántartásból vagy az adatállományból közvetlen hozzáféréssel veszi át a szükséges adatokat.
+263. § (1) Ha törvény ezt lehetővé teszi, az adatszolgáltatást kérő szerv a nyilvántartásból vagy az adatállományból közvetlen hozzáféréssel veszi át a szükséges adatokat, illetve az adatkéréshez a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálat közreműködését is igénybe veheti.
 
 (2) Az adatkérés keretében teljesítendő adatszolgáltatásra
 

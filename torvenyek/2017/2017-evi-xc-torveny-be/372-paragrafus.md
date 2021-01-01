@@ -11,3 +11,5 @@
 (5) A nyomozó hatóság által közölt gyanúsítás ellen előterjesztett panasz elbírálását mellőzni kell, ha az ügyészség a gyanúsítással egyező tényállás és Btk. szerinti minősítés alapján az őrizetbe vett terhelt személyi szabadságát érintő bírói engedélyes kényszerintézkedés elrendelésére indítványt tesz a bíróságnak.
 
 (6) A gyanúsítás ellen előterjesztett panasz elintézésére egyebekben a határozat elleni panaszra vonatkozó rendelkezéseket kell alkalmazni.
+
+(7) Az ügyészség határozatában hivatalból is megállapíthatja, hogy a gyanúsítás törvényi feltételei nem állnak fenn. A gyanúsított ezen minősége a határozat hozatalával megszűnik.

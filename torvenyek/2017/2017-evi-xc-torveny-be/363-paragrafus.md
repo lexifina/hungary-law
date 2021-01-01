@@ -16,7 +16,7 @@ d) az azonosításhoz szükséges adatokkal együtt annak megjelölését, akire
 
 (4) Az indokolás az ügyészség, illetve a nyomozó hatóság által megállapított jelentős tényeket, a határozat alapjául szolgáló jogszabályokat és szükség esetén azok értelmezését, továbbá ezekkel összefüggésben az érdemi rendelkezés magyarázatát tartalmazza.
 
-(5) A záró rész tartalmazza a határozathozatal helyének és idejének megfelelő keltezést, továbbá a az ügyész, illetve a nyomozó hatóság tagjának nevét és aláírását.
+(5) A záró rész tartalmazza a határozathozatal helyének és idejének megfelelő keltezést, továbbá az ügyész, illetve a nyomozó hatóság tagjának nevét és aláírását.
 
 (6) Az ügyészség és a nyomozó hatóság a határozatot írásba foglalja.
 

@@ -2,7 +2,7 @@
 
 839. § (1) Az összbüntetési eljárásban a legutóbb befejezett ügyben eljárt elsőfokú bíróság jár el, ha az eljárásokat azonos hatáskörű bíróságok folytatták, egyébként a magasabb hatáskörű elsőfokú bíróság jár el.
 
-(2) Ha az egyik ügyben katonai büntetőeljárás volt folyamatban, az összbüntetésbe foglalásról az a bíróság határoz, amely a katonai büntetőeljárást lefolytatta, kivéve, ha a legutóbb befejezett ügyben a katonai büntetőeljárás hatályát a 696. § (3) bekezdése alapozta meg.
+(2) Ha az egyik ügyben katonai büntetőeljárás volt folyamatban, az összbüntetésbe foglalásról az a bíróság határoz, amely a katonai büntetőeljárást lefolytatta, kivéve, ha a katonai büntetőeljárás hatályát a 696. § (3) bekezdése alapozta meg.
 
 (3) Az összbüntetési eljárás hivatalból vagy az ügyészség, az elítélt vagy a védő indítványára indul. Az összbüntetési eljárás lefolytatásához – kivéve, ha azt az elítélt indítványozta – az elítélt hozzájárulását be kell szerezni. Az elítélt az indítványát vagy a hozzájárulását az elsőfokú ítélet meghozataláig visszavonhatja, ebben az esetben a bíróság az eljárást megszünteti.
 

@@ -10,6 +10,6 @@
 
 (3) A sértett mellett egy általa megjelölt nagykorú személy is jelen lehet azokon az eljárási cselekményeken, amelyeken a sértett jelenléte kötelező, vagy amelyeken jelen lehet, ha ez az eljárás érdekeit nem sérti.
 
-(4) A külföldi állampolgár terhelt, sértett vagy tanú indítványára a kihallgatásán, valamint a részvételével tartott más eljárási cselekményen jelen lehet államának konzuli tisztviselője.
+(4) A külföldi állampolgár terhelt, bűncselekmény elkövetésével megalapozottan gyanúsítható személy, ezek védője, illetve külföldi állampolgár sértett vagy tanú indítványára a kihallgatásán, valamint a részvételével tartott más eljárási cselekményen jelen lehet államának konzuli tisztviselője.
 
 (5) A támogatót és a konzuli tisztviselőt kivéve akinek a jelenlétét az eljárási cselekményen e törvény lehetővé teszi, a gyanúsítotthoz, a szakértőhöz és a tanúhoz kérdéseket intézhet, észrevételeket, indítványokat tehet. A kérdésfeltevés tilalmára, illetve a válaszadás megtiltására a tanú és a terhelt kihallgatására, valamint a szakértő kirendelésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.

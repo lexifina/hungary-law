@@ -6,7 +6,7 @@ b) a fellebbezésre jogosultak úgy nyilatkoztak, hogy az ügydöntő határozat
 
 c) a fellebbezési határidő fellebbezés bejelentése nélkül telt el, illetve
 
-d) a fellebbezést elutasították vagy a másodfokú bíróság az elsőfokú bíróság ügydöntő határozatát helybenhagyta.
+d) a másodfokú bíróság az elsőfokú bíróság ügydöntő határozatát helybenhagyta.
 
 (2) A másodfokú bíróság ügydöntő határozata azon a napon emelkedik jogerőre, amikor
 
@@ -16,7 +16,7 @@ b) a fellebbezésre jogosultak úgy nyilatkoztak, hogy az ügydöntő határozat
 
 c) a fellebbezésre nyitva álló határidő fellebbezés bejelentése nélkül telt el, illetve
 
-d) a fellebbezést elutasították vagy a harmadfokú bíróság a másodfokú bíróság ügydöntő határozatát helybenhagyta.
+d) a harmadfokú bíróság a másodfokú bíróság ügydöntő határozatát helybenhagyta.
 
 (3) A harmadfokú bíróság ügydöntő határozata azon a napon emelkedik jogerőre, amikor azt meghozták.
 

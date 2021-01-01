@@ -14,9 +14,9 @@ b) ha vele szemben személyi szabadságot érintő bírói engedélyes kényszer
 
 c) ha a tárgyaláson rendzavarást követ el.
 
-(3) Az őrizet a személyi szabadságot érintő bírói engedélyes kényszerintézkedés tárgyában hozott döntéséig, de legfeljebb hetvenkét óráig tarthat.
+(3) Az őrizet a személyi szabadságot érintő bírói engedélyes kényszerintézkedés tárgyában hozott döntésig, de legfeljebb hetvenkét óráig tarthat.
 
-(4) Ha a körülmények nem változtak, a terhelt őrizete ismételten nem rendelhető el.
+(4) Ha a körülmények nem változtak, a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy őrizete ismételten nem rendelhető el.
 
 (5) Az őrizet elrendelését megelőző hatósági fogva tartást az őrizet tartamába be kell számítani.
 

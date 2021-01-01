@@ -8,7 +8,7 @@ b) a felfüggesztett eljárás folytatásának elrendelése,
 
 c) a vádirat hiányosságainak pótlása iránt tett intézkedés vagy ennek megtagadása,
 
-d) a határozat tudomásulvételét követően tett jogorvoslati nyilatkozat elutasítása
+d)
 
 ellen.
 

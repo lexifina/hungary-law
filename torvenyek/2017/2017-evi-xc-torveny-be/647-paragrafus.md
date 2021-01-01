@@ -12,8 +12,8 @@ b) a 637. § (1) bekezdés g) pontja alapján elrendelt perújítás során a te
 
 (5) Ha a bíróság megállapítja, hogy a perújítás alapos,
 
-a) az ügyészség, a terhelt vagy a magánfél indítványára az érdemben elbírált polgári jogi igényt újból elbírálja,
+a) az ügyészség, a terhelt, a védő vagy a magánfél indítványára az érdemben elbírált polgári jogi igényt újból elbírálja,
 
-b) az ügyészség vagy a terhelt indítványára a szülői felügyeleti jog megszüntetése tárgyában újból határoz.
+b) az ügyészség, a terhelt vagy a védő indítványára a szülői felügyeleti jog megszüntetése tárgyában újból határoz.
 
 (6) A perújítás elrendelése után hozott határozatok ellen az általános szabályok szerint van helye jogorvoslatnak.

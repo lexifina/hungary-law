@@ -2,7 +2,7 @@
 
 ## ÜGYÉSZSÉGI INTÉZKEDÉS VAGY HATÁROZAT KILÁTÁSBA HELYEZÉSE
 
-404. § (1) Az ügyészség a nyomozás során bármikor közölheti a gyanúsítottal, hogy milyen, a (2) bekezdésben meghatározott intézkedés alkalmazására vagy határozat meghozatalára lát lehetőséget abban az esetben, ha a gyanúsított a bűncselekmény elkövetését beismeri.
+404. § (1) Az ügyészség a nyomozás során bármikor közölheti a gyanúsítottal és a védővel, hogy milyen, a (2) bekezdésben meghatározott intézkedés alkalmazására vagy határozat meghozatalára lát lehetőséget abban az esetben, ha a gyanúsított a bűncselekmény elkövetését beismeri.
 
 (2) Az ügyészség
 

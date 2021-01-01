@@ -16,7 +16,7 @@
 
 6. az előzetes fogva tartás és a bűnügyi felügyelet beszámításáról,
 
-7. a közérdekű munkaként végzendő munkáról,
+7.
 
 8. arról, hogy mely foglalkozástól tiltja el a terheltet,
 

@@ -28,7 +28,7 @@ b) az előkészítő ülésen
 
 történő terhelti jelenlét biztosítására.
 
-(6) A vádlott a döntés közlésétől számított három napon belül indítványozhatja, hogy a bíróság a vádlott személyes jelenlétét a tárgyalás kitűzött helyszínén biztosítsa. A bíróság a vádlott indítványát akkor utasíthatja el, ha
+(6) A vádlott és a védő a döntés közlésétől számított három napon belül indítványozhatja, hogy a bíróság a vádlott személyes jelenlétét a tárgyalás kitűzött helyszínén biztosítsa. A bíróság az indítványt akkor utasíthatja el, ha
 
 a) a vádlott személyes jelenlétének biztosítását e törvény kizárja,
 

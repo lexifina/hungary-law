@@ -10,11 +10,11 @@
 
 (6) A terhelt meghallgatása nem mellőzhető, ha a bíróság
 
-a) a feltételes szabadságra vonatkozó rendelkezés utólagos módosításáról rendelkezik,
+a) az életfogytig tartó szabadságvesztésből történő feltételes szabadságra vonatkozó rendelkezés utólagos módosításáról rendelkezik,
 
-b) a pártfogó felügyelet elrendelésével összefüggésben külön magatartási szabályokat ír elő, vagy a pártfogó felügyelet magatartási szabályainak megszegéséről dönt,
+b) a pártfogó felügyelet elrendelésével összefüggésben külön magatartási szabályokat ír elő,
 
-c) a próbaidőre felfüggesztett szabadságvesztés végrehajtásának elrendeléséről határoz,
+c)
 
 d) a próbára bocsátás megszüntetéséről határoz.
 

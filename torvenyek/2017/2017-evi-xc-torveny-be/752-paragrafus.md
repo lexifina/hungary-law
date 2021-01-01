@@ -1,4 +1,4 @@
-752. § (1) Ha a vádlott felkutatására tett intézkedések a másodfokú bírósági eljárásban vezettek eredményre, a másodfokú bíróság tárgyalást tűz ki, és azon a vádlottat kihallgatja, ismerteti a vádlott távollétében tartott tárgyalás anyagának lényegét, valamint – ha szükséges – a vádlott által indítványozott további bizonyítást vesz fel.
+752. § (1) Ha a vádlott felkutatására tett intézkedések a másodfokú bírósági eljárásban vezettek eredményre, a másodfokú bíróság tárgyalást tűz ki, és azon a vádlottat kihallgatja, ismerteti a vádlott távollétében tartott tárgyalás anyagának lényegét, valamint – ha szükséges – a vádlott vagy a védő által indítványozott további bizonyítást vesz fel.
 
 (2) Ha a vádlott felkutatására tett intézkedések a harmadfokú bírósági eljárásban vezettek eredményre, a harmadfokú bíróság – feltéve, hogy a 625. § (3) bekezdés alkalmazásának nincs helye – a másodfokú bíróság ítéletét hatályon kívül helyezi, és a másodfokú bíróságot új eljárásra utasítja.
 

@@ -6,4 +6,4 @@
 
 (3) A legfőbb ügyész vagy a felettes ügyészség rendelkezése alapján az ügyészség olyan ügyben is eljárhat, amelyre a hatásköre vagy az illetékessége egyébként nem terjed ki.
 
-(4) Az ügyészségek között felmerült hatásköri vagy illetékességi összeütközés esetén az eljáró ügyészséget a felettes ügyészség jelöli ki.
+(4) Az ügyészségek között felmerült hatásköri vagy illetékességi összeütközés esetén az eljáró ügyészséget a felettes ügyészség jelöli ki. A határozat ellen nincs helye panasznak.

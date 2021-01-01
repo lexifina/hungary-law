@@ -1,6 +1,6 @@
 ## Egyesítés és elkülönítés
 
-486. § (1) Ha a próbaidő alatt elkövetett bűncselekmény miatt a próbára bocsátott ellen újabb eljárás indul, vagy ha a próbára bocsátott ellen a próbaidő előtt elkövetett bűncselekmény miatt a próbaidő alatt indult eljárás, az ügyeket egyesíteni kell, és az újabb ügy elbírálására hatáskörrel és illetékességgel rendelkező bíróság jár el.
+486. § (1) Ha a próbaidő alatt elkövetett bűncselekmény miatt a próbára bocsátott ellen újabb eljárás indul, vagy ha a próbára bocsátott ellen a próbaidő előtt elkövetett bűncselekmény miatt a próbaidő előtt vagy alatt indult eljárás, az ügyeket egyesíteni kell, és az újabb ügy elbírálására hatáskörrel és illetékességgel rendelkező bíróság jár el.
 
 (2) Ha az újabb eljárásban a vádlott bűnösségét a bíróság nem állapítja meg, illetve ha a próbára bocsátás előtt elkövetett bűncselekmény esetén a próbaidő az ügyek együttes elbírálása előtt eltelt, a bíróság az egyesített ügyeket elkülöníti.
 

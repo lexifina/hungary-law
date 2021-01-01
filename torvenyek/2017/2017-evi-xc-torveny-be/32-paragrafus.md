@@ -4,7 +4,7 @@
 
 a) aki az ügyben bíróként járt el, valamint az ügyben eljárt vagy eljáró bíró hozzátartozója,
 
-b) aki az ügyben terheltként, védőként, sértettként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
+b) aki az ügyben terheltként, bűncselekmény elkövetésével megalapozottan gyanúsítható személyként, védőként, sértettként, vagyoni érdekeltként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
 
 c) aki az ügyben tanúként vagy szakértőként vesz vagy vett részt,
 

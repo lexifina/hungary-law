@@ -14,7 +14,7 @@ b) átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz.
 
 (6) Az alaptalan, illetve a törvényben kizárt, az arra nem jogosulttól származó vagy elkésett perújítási indítványt a bíróság nem ügydöntő végzésével elutasítja. A bíróság a perújítási indítványt elutasítja akkor is, ha az indítványozó, illetve a 637. § (1) bekezdés g) pontjára alapított perújítási indítvány esetén a terhelt elérhetetlenné vált.
 
-(7) A bíróság a perújítási indítványt elutasító határozatát közli azzal, aki a perújítási indítványt előterjesztette, és ha az indítványt nem az ügyészség terjesztette elő, az ügyészséggel is. A más által előterjesztett perújítási indítványt elutasító határozatot a terhelttel is közölni kell.
+(7) A bíróság a perújítási indítványt elutasító határozatát közli azzal, aki a perújítási indítványt előterjesztette, és ha az indítványt nem az ügyészség terjesztette elő, az ügyészséggel is. A más által előterjesztett perújítási indítványt elutasító határozatot a terhelttel és a védővel is közölni kell.
 
 (8) A korábbival azonos tartalommal ismételten előterjesztett perújítási indítványt a bíróság érdemi indokolás nélkül elutasítja.
 

@@ -10,13 +10,13 @@
 
 a) a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt az eljárás során elszökött, elrejtőzött, vagy megalapozottan feltehető, hogy a büntetőeljárás elkerülése érdekében más módon elérhetetlenné vált,
 
-b) a terhelt felkutatása érdekében tett intézkedések észszerű időn belül nem vezettek eredményre, és
+b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy felkutatása érdekében tett intézkedések észszerű időn belül nem vezettek eredményre, és
 
 c) azt a bűncselekmény tárgyi súlya vagy az ügy megítélése indokolja.
 
 (4) A (3) bekezdés b) pontjában meghatározott feltétel akkor állapítható meg, ha
 
-a) a terhelt felkutatása érdekében bizonyítás felvételére, adatszerző tevékenység folytatására, vagy – ha annak feltételei fennállnak – leplezett eszközök alkalmazására került sor,
+a) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy felkutatása érdekében bizonyítás felvételére, adatszerző tevékenység folytatására, vagy – ha annak feltételei fennállnak – leplezett eszközök alkalmazására került sor,
 
 b) a nyomozó hatóság, ügyészség vagy a bíróság körözést, vagy – ha annak feltételei fennállnak – elfogatóparancsot bocsátott ki, és
 

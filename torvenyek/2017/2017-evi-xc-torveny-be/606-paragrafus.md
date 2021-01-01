@@ -4,6 +4,6 @@
 
 (2) A másodfokú bíróság az elsőfokú bíróság ítéletét megváltoztathatja akkor is, ha az elsőfokú bíróság ítéletének részbeni megalapozatlanságát kiküszöbölte.
 
-(3) Ha az elsőfokú bíróság ítélete a vádlott beismerő nyilatkozatának elfogadásán alapult, a másodfokú bíróság a fellebbezéssel megtámadott ítéletnek a bűnösség megállapítására, a váddal egyező tényállásra, valamint a vádirati minősítéssel egyező minősítésre vonatkozó rendelkezéseit akkor változtathatja meg, ha a terhelt felmentésének vagy az eljárás megszüntetésének van helye.
+(3) Ha az elsőfokú bíróság ítélete a vádlott beismerő nyilatkozatának elfogadásán alapult, a másodfokú bíróság a fellebbezéssel megtámadott ítéletnek a bűnösség megállapítására, valamint a vádirati minősítéssel egyező minősítésre vonatkozó rendelkezéseit akkor változtathatja meg, ha a terhelt felmentésének, az eljárás megszüntetésének, vagy a bűncselekmény minősítése megváltoztatásának van helye.
 
 (4) A másodfokú bíróság az 590. § (6) bekezdése esetén az elsőfokú bíróság ítéletének a büntetés kiszabására, vagy intézkedés alkalmazására vonatkozó rendelkezését akkor változtathatja meg, ha a büntetés, illetve az intézkedés törvénysértő, eltúlzottan súlyos vagy eltúlzottan enyhe.

@@ -22,7 +22,7 @@ e) ha a katona szolgálati viszonya időközben megszűnt.
 
 (3) Az ügyészség nem katonai büntetőeljárásra tartozó ügyben is eljárhat.
 
-(4) Ha a katonai büntetőeljárás hatálya alá tartozó bűncselekményt nem katonai nyomozó hatóság észleli, vagy nem katonai nyomozó hatóság szerez ilyen bűncselekményről tudomást, a 375. § (4) bekezdésében meghatározott cselekmények elvégzéséről az ügyészséget haladéktalanul tájékoztatja.
+(4) Ha a katonai büntetőeljárás hatálya alá tartozó bűncselekményt nem katonai nyomozó hatóság észleli, vagy nem katonai nyomozó hatóság szerez ilyen bűncselekményről tudomást, a 375. § (4) bekezdésében meghatározott eljárási cselekmények elvégzéséről az ügyészséget haladéktalanul tájékoztatja.
 
 (5) Katonai büntetőeljárásnak csak közvádra van helye, magánvádra üldözendő bűncselekmény esetében az ügyészség jár el.
 

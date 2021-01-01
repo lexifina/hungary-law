@@ -16,6 +16,6 @@ d) mást bűncselekmény elkövetésével hamisan nem vádolhat, kegyeleti jogot
 
 (4) A terhelti figyelmeztetés vagy a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a terhelt közlése vallomásként akkor vehető figyelembe, ha a terhelt
 
-a) az eljárás során korábban terhelti figyelmeztetésben már részesült és a folytatólagos kihallgatása során védővel rendelkezik, vagy
+a) az eljárás során korábban terhelti figyelmeztetésben már részesült és a folytatólagos kihallgatása során a védője jelen volt, vagy
 
 b) a terhelti figyelmeztetés után a közlését fenntartja.

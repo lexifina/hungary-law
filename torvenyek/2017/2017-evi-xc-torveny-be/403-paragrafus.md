@@ -1,4 +1,4 @@
-403. § (1) Kérelemre a bűnügyi költség megfizetésére halasztás, illetve részletfizetés engedélyezhető a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között.
+403. § (1) Kérelemre a bűnügyi költség megfizetésére halasztás, illetve részletfizetés engedélyezhető a Bv. tv. 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között.
 
 (2) A halasztás, illetve a részletfizetés iránti kérelemnek nincs halasztó hatálya.
 

@@ -6,7 +6,7 @@ a) a sértett, a sértett segítője, valamint ezek hozzátartozója,
 
 b) aki az ügyben bíróként, ügyészként vagy a nyomozó hatóság tagjaként jár vagy járt el, valamint ezek hozzátartozója,
 
-c) aki a terhelt érdekével ellentétes magatartást tanúsított, vagy akinek az érdeke a terheltével ellentétes,
+c) aki a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy érdekével ellentétes magatartást tanúsított, vagy akinek az érdeke a terheltével vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyével ellentétes,
 
 d) aki az ügyben szakértőként vagy szaktanácsadóként vesz vagy vett részt,
 
@@ -18,7 +18,7 @@ g) aki az ügyben közvetítőként jár vagy járt el,
 
 h) aki az ügyben vagy az üggyel összefüggő más ügyben terheltként vesz vagy vett részt.
 
-(2) Több terhelt érdekében ugyanaz a védő akkor járhat el, ha a terheltek érdekei nem ellentétesek. A több terhelt érdekében eljáró védőt az eljárásból ki kell zárni, ha a terheltek között érdekellentét áll fenn.
+(2) Több terhelt, illetve bűncselekmény elkövetésével megalapozottan gyanúsítható személy érdekében ugyanaz a védő akkor járhat el, ha a terheltek vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyek érdekei nem ellentétesek. A több terhelt, illetve bűncselekmény elkövetésével megalapozottan gyanúsítható személy érdekében eljáró védőt az eljárásból ki kell zárni, ha a terheltek, illetve a bűncselekmény elkövetésével megalapozottan gyanúsítható személyek között érdekellentét áll fenn.
 
 (3) A védő kizárásáról – a vádemelés előtt az ügyészség indítványára – a bíróság határoz.
 

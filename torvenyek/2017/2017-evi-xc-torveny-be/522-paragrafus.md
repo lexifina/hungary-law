@@ -1,10 +1,10 @@
 ## A vádlott kihallgatása
 
-522. § (1) A bizonyítási eljárás a vádlott kihallgatásával kezdődik. Ha a vádlott az előkészítő ülésen vallomást tett, a kihallgatása mellőzhető.
+522. § (1) A bizonyítási eljárás a vádlott kihallgatásával kezdődik. Ha a vádlott az előkészítő ülésen vallomást tett, a kihallgatása – a védő hozzájárulásával – abban a körben, amelyre az előkészítő ülésen már vallomást tett, mellőzhető.
 
 (2) A vádlottat rendszerint a még ki nem hallgatott vádlott-társai távollétében kell kihallgatni.
 
-(3) Az egyesbíró vagy a tanács elnöke hivatalból, továbbá az ügyész, vagy a vádlott védelme érdekében a vádlott indítványára a vádlott kihallgatásának tartamára a tárgyalóteremből eltávolíttatja azt a már kihallgatott vádlott-társat, akinek jelenléte a vádlottat a kihallgatása során zavarná.
+(3) Az egyesbíró vagy a tanács elnöke hivatalból, továbbá az ügyész, vagy a vádlott védelme érdekében a vádlott vagy a védő indítványára a vádlott kihallgatásának tartamára a tárgyalóteremből eltávolíttatja azt a már kihallgatott vádlott-társat, akinek jelenléte a vádlottat a kihallgatása során zavarná.
 
 (4) A vádlott – a tárgyalás rendjének zavarása nélkül – a tárgyalás alatt is tanácskozhat a védőjével, de a kihallgatása közben ezt csak az egyesbíró vagy a tanács elnökének engedélyével teheti meg.
 

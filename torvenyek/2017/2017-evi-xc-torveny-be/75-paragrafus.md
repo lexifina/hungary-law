@@ -4,4 +4,8 @@
 
 (2) Különösen indokolt esetben a nem természetes személy sértett, vagyoni érdekelt és egyéb érdekelt is költségkedvezményben részesíthető, ha – különösen társasági formájára, profitorientáltságára, tagjainak pénzügyi teljesítőképességére és annak a lehetőségére figyelemmel, hogy utóbbiak biztosítani tudják-e az ehhez szükséges összeget – vagyoni helyzete az e törvény szerinti jogainak gyakorlását kizárja.
 
-(3) Jogszabály meghatározhat olyan ügyet, amelyben a költségkedvezmény a terheltet, a sértettet, a vagyoni érdekeltet vagy az egyéb érdekeltet a jövedelmi és vagyoni helyzetétől függetlenül megilleti.
+(3) Jövedelmi és vagyoni helyzetétől függetlenül költségkedvezmény illeti meg
+
+a) a polgári jogi igényt érvényesítő természetes személy sértettet,
+
+b) a terheltet, a sértettet, a vagyoni érdekeltet vagy az egyéb érdekeltet a jogszabály által meghatározott ügyben.

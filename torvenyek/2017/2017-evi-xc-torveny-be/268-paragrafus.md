@@ -6,9 +6,9 @@ a) az ismeretlen helyen lévő dolog hollétének megállapítása, valamint ism
 
 b) az ismeretlen helyen lévő dolog hollétének megállapítása, valamint ismeretlen eredetű dolog azonosítása céljából annak a dolognak a körözését, amely elkobozható, vagy amelyre vagyonelkobzás rendelhető el,
 
-c) a tanú vagy a bűncselekmény elkövetésével gyanúsítható személy körözését, ha a személyazonossága ismeretlen,
+c) a tanú vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy körözését, ha a személyazonossága ismeretlen,
 
-d) az ismeretlen helyen tartózkodó tanú vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy körözését elérhetőségének megállapítása érdekében,
+d) az ismeretlen helyen tartózkodó tanú vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy, illetve terhelt körözését elérhetőségének megállapítása érdekében,
 
 e) holttest, holttestrész azonosítása érdekében annak a holttestnek, holttestrésznek a körözését, amely bizonyítási eszköz.
 

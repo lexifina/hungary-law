@@ -18,12 +18,12 @@ b) huzamos tárolásra alkalmatlan,
 
 c) kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna, illetve
 
-d) értéke a lefoglalás várható ideje miatt lényegesen csökkenne.
+d) értéke a lefoglalás várható ideje miatt lényegesen csökkenne vagy ennek veszélye megalapozottan feltehető.
 
 (4) Ha a lefoglalt dologra a bizonyítás érdekében már nincs szükség, és a lefoglalás megszüntetésének nincs helye, a bíróság – a vádemelés előtt az ügyészség indítványára – a lefoglalt dolog értékesítését akkor is elrendelheti, ha a lefoglalt dologgal kapcsolatban bejelentettek megalapozott igényt, és az értékesítéshez a megalapozott igényt bejelentő személy hozzájárult.
 
 (5) A vádemelés előtt a dolog értékesítését az ügyészség, illetve a nyomozó hatóság is elrendelheti.
 
-(6) A lefoglalt dolog értékesítéséből befolyt ellenérték a lefoglalt dolog helyébe lép. Ilyen esetben az elkobzást vagy a vagyonelkobzást a dolog helyébe lépő ellenértékre kell elrendelni.
+(6) A lefoglalt dolog értékesítéséből befolyt ellenérték a lefoglalt dolog helyébe lép, amelyre a lefoglalás külön határozat nélkül kiterjed, és a lefoglalás az eredetileg lefoglalt dolog tekintetében az értékesítéssel megszűnik. Ilyen esetben az elkobzást vagy a vagyonelkobzást a dolog helyébe lépő összegre kell elrendelni.
 
 (7) Ha a későbbi bizonyítás érdekében szükséges, a lefoglalt dolog értékesítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.

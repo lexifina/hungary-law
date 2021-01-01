@@ -4,7 +4,7 @@
 
 (2) Ha a bíróság a vádlott bűnösséget beismerő nyilatkozatának elfogadását megtagadja, vagy a vádlott megtagadja a válaszadást a bűnösség beismerésének kérdésében, azt úgy kell tekinteni, hogy a vádlott a bűnösségét nem ismerte be. Ugyanígy kell eljárni, ha a vádlott a bűnösségét beismerte, de a beismeréssel érintett körben a tárgyaláshoz való jogáról nem mondott le.
 
-(3) Ha a vádlott a bűnösségét nem ismerte be, megjelölheti a vádiratban szereplő azon tényeket, amelyek valóságát elfogadja.
+(3) Ha a vádlott a bűnösségét nem ismerte be, a kihallgatása során megjelölheti a vádiratban szereplő azon tényeket, amelyek valóságát elfogadja.
 
 (4) A vádlott és a védő előadhatja a védekezés alapjául szolgáló tényeket és ezek bizonyítékait, valamint bizonyítás lefolytatására és egyéb eljárási cselekményekre vonatkozó indítványt, továbbá a bizonyíték kirekesztésére vonatkozó indítványt terjeszthet elő.
 

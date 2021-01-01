@@ -24,7 +24,7 @@
 
 10. az útiokmány-nyilvántartásból,
 
-11. a bűnügyi nyilvántartási rendszerből, illetve a bűnügyi és rendészeti biometrikus adatok nyilvántartásából,
+11. a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben meghatározott nyilvántartásokból,
 
 12. a szabálysértési nyilvántartási rendszerből,
 
@@ -54,6 +54,10 @@
 
 25. az autópályák, autóutak és főutak használatának megtett úttal arányos díjáról szóló törvény szerinti adatbázisból,
 
-26. a központi közlekedési közigazgatási és ellenőrzési bírság nyilvántartásból
+26. a központi közlekedési közigazgatási és ellenőrzési bírság nyilvántartásból,,
+
+27. törvényben meghatározott esetben az Európai Unió kötelező jogi aktusa által létrehozott nyilvántartásból,
+
+28. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságtól
 
 kérhető.

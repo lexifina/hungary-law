@@ -1,6 +1,6 @@
 737. § (1) Ha az egyezség jóváhagyása után tárgyalás tartása szükséges, a bíróság a tárgyalás megkezdése után az egyezség lényegét ismerteti.
 
-(2) A bíróság az egyezséget jóváhagyó végzést az ügyész és a vádlott nyilatkozatának beszerzése után hatályon kívül helyezheti, ha a bizonyítás eredményéhez képest úgy látja, hogy a tényállás, illetve a minősítés változása folytán az egyezség megtagadásának lett volna helye.
+(2) A bíróság az egyezséget jóváhagyó végzést az ügyészség és a vádlott nyilatkozatának beszerzése után hatályon kívül helyezheti, ha a bizonyítás eredményéhez képest úgy látja, hogy a tényállás, illetve a minősítés változása folytán az egyezség megtagadásának lett volna helye.
 
 (3) Ha a bíróság az egyezséget jóváhagyó végzést hatályon kívül helyezi,
 

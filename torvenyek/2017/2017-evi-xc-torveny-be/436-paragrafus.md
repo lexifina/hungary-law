@@ -8,7 +8,7 @@
 
 (3) A tárgyaláson hallgatóként tizennegyedik életévét be nem töltött személy nem vehet részt, az egyesbíró, illetve a tanács elnöke a tizennyolcadik életévét be nem töltött személyt a hallgatóság köréből kizárhatja.
 
-(4) A bíróság hivatalból vagy az ügyész, a vádlott, a védő, a sértett, illetve a vagyoni érdekelt és az egyéb érdekelt indítványára a nyilvánosságot az egész tárgyalásról vagy annak egy részéről indokolt határozattal kizárhatja és
+(4) A bíróság hivatalból vagy az ügyészség, a vádlott, a védő, a sértett, illetve a vagyoni érdekelt és az egyéb érdekelt indítványára a nyilvánosságot az egész tárgyalásról vagy annak egy részéről indokolt határozattal kizárhatja és
 
 a) erkölcsi okból,
 

@@ -54,7 +54,7 @@
 
 24. az ügyiratok megismerésének korlátozásáról, valamint valamely megismerési mód biztosítására irányuló indítvány elutasításáról,
 
-25. a kézbesítési és az eljárás elhúzódása miatti kifogásról,
+25. a kézbesítési és az eljárás elhúzódása miatti kifogás elutasításáról,
 
 26. az eljárási cselekmény, vagy a határozat teljesítésének, illetve végrehajtásának felfüggesztéséről,
 
@@ -62,6 +62,8 @@
 
 28. a papíralapú kapcsolattartásra való áttérés engedélyezése iránti indítvány elutasításáról,
 
-29. a rendbírság tárgyában hozott döntésről.
+29. a rendbírság tárgyában hozott döntésről,
+
+30. az ügygondnok kirendeléséről, a kirendelt ügygondnok felmentéséről, kizárásáról, valamint díjának megállapításáról.
 
 (2) Az ügyészség, illetve a nyomozó hatóság más döntését vagy intézkedését is határozatba foglalhatja.

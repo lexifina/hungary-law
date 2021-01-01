@@ -34,11 +34,11 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 
 9. a bélyeghamisítás,
 
-10. a költségvetést károsító bűncselekmények – kivéve a Btk. 396. § (4) bekezdés a) pontja és (5) bekezdése szerinti költségvetési csalást és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztását –,
+10. a költségvetést károsító bűncselekmények – kivéve a Btk. 396. § (5) bekezdése szerinti költségvetési csalást és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztását –,
 
 11. a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása,
 
-12. a gazdálkodás rendjét sértő bűncselekmények,
+12. a gazdálkodás rendjét sértő bűncselekmények, kivéve a Btk. 403. § (3) bekezdése szerinti számvitel rendjének megsértése, a Btk. 404. § (3) bekezdése szerinti csődbűncselekmény, a bennfentes kereskedelem, a bennfentes információ jogosulatlan közzététele, a tiltott piacbefolyásolás, a piramisjáték szervezése,
 
 13. a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmények,
 

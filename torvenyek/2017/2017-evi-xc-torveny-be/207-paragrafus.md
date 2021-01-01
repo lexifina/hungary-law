@@ -7,3 +7,5 @@
 (3) Ha a szemle tárgyát a nyomozás során egyáltalán nem, vagy csak jelentős nehézség, illetve költség árán lehet a helyszínen megtekinteni, a szemlét az elrendelő szerv előtt kell megtartani.
 
 (4) A szemle során szakértőt lehet alkalmazni.
+
+(5) Ha a büntetőeljárás során az elkövető azonosítása érdekében biometrikus minta rögzítése indokolt, az ügyészség vagy a nyomozó hatóság az érintett személlyel, tárggyal, helyszínnel vagy tárgyi bizonyítási eszközzel kapcsolatba került személyektől biometrikus mintát rögzíthet más biometrikus minta vétlen szennyeződésének kiszűrése érdekében.

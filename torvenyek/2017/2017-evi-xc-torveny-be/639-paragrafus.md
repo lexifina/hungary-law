@@ -14,11 +14,11 @@ d) a terhelt törvényes képviselője,
 
 e) a terhelt házastársa vagy élettársa a kényszergyógykezelés elrendelése ellen,
 
-f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy élettársa
+f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy élettársa, illetve ha a terhelt halála óta több mint ötven év telt el, oldalági rokona
 
 terjeszthet elő perújítási indítványt.
 
-(3) A terhelt és a védő a 637. § (1) bekezdés g) pontjára alapított perújítási indítványt attól a naptól számított egy hónapon belül terjesztheti elő, amelyen az alapügyet befejező ügydöntő határozat jogerőre emelkedéséről tudomást szerzett.
+(3) A terhelt és a védő a 637. § (1) bekezdés g) pontjára alapított perújítási indítványt attól a naptól számított egy hónapon belül terjesztheti elő, amelyen a terhelt az alapügyet befejező ügydöntő határozat jogerőre emelkedéséről tudomást szerzett.
 
 (4) A perújítási indítványban meg kell jelölni az alapügyet, amely ellen a perújítás irányul, az indítvány okát, valamint a perújítás alapjául szolgáló tényeket és azok bizonyítékait. A 637. § (1) bekezdés g) pontjára alapított perújítási indítványban valószínűsíteni kell az alapügyet befejező ügydöntő határozat jogerőre emelkedéséről való tudomásszerzés időpontját is.
 

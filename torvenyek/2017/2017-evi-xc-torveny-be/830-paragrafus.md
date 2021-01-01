@@ -4,7 +4,7 @@
 
 (2) A vádemelés előtt az ügyészség, a vádemelés után a bíróság rendelkezhet arról, hogy az őrizetet a menedékjogról, illetve a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló létesítményben kell végrehajtani a büntetőeljárás hatálya alatt nem álló más személyektől való elkülönítés mellett.
 
-(3) Ha az őrizetet a (2) bekezdésben meghatározott helyen hajtják végre, a vádemelés előtt az ügyészség, vádemelés után a bíróság rendelkezhet arról, hogy az őrizetet a hozzátartozó terheltek elkülönítése nélkül kell végrehajtani, feltéve, hogy ez nem jár a nyomozás vagy a fiatalkorú terhelt érdekeinek a sérelmével.
+(3) Ha az őrizetet a (2) bekezdésben meghatározott helyen hajtják végre, a vádemelés előtt az ügyészség, vádemelés után a bíróság rendelkezhet arról, hogy az őrizetet a hozzátartozó terheltek, illetve bűncselekmény elkövetésével megalapozottan gyanúsítható személyek elkülönítése nélkül kell végrehajtani, feltéve, hogy ez nem jár a nyomozás vagy a fiatalkorú terhelt vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy érdekeinek a sérelmével.
 
 (4) Ha a bíróság a nem magyar állampolgárságú vagy a Magyarországon lakcímmel nem rendelkező terhelt bűnügyi felügyeletét rendeli el, a terhelt számára lakásként
 

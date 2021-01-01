@@ -8,7 +8,7 @@
 
 a) a bírósági ügyintéző által a büntetőeljárásban ellátható feladatokat,
 
-b) az előkészítő eljárás lefolytatásának, a leplezett eszközök alkalmazása indítványozásának, illetve engedélyezésének, a nyomozó hatóságok nyomozásának, valamint az ügyészségi nyomozás során az ügyészség és a nyomozó hatóságok együttműködésének szabályait,
+b) az előkészítő eljárás lefolytatásának, a leplezett eszközök alkalmazása indítványozásának, illetve engedélyezésének, a nyomozó hatóságok nyomozásának, az ügyészségi nyomozás során az ügyészség és a nyomozó hatóságok együttműködésének és az ügyészségi nyomozás során felmerült egyes költségeknek a szabályait,
 
 c) az egyszerűsített kártalanítási eljárás keretében kifizethető összeget, a kiszámítás módját, illetve a megállapodás megkötésével és a kártalanítás kifizetésével kapcsolatos szabályokat.
 
@@ -24,7 +24,7 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 5. a bűnügyi költség előlegezésének a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
 
-6. a terhelt költségkedvezményével kapcsolatos szabályokat az államháztartásért felelős miniszterrel egyetértésben,
+6.
 
 7. a büntetőeljárásban a pártfogó ügyvéd és a kirendelt védő díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 
@@ -56,7 +56,7 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 21. a bírósági eljárásban az eljárási cselekményről hangfelvétel vagy kép- és hangfelvétel készítésének szabályait,
 
-22. az elektronikus bírósági iratkezelés részletes szabályait,
+22.
 
 23. a büntetőeljárás során a pártfogó felügyelő tevékenységének a szabályait
 
@@ -72,9 +72,9 @@ c) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai ren
 
 rendeletben megállapítsa.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő tényleges állományú katonák tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
 
-a) a parancsnoki nyomozásra jogosult vezetőket, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
+a) a parancsnoki nyomozásra jogosult jogosultakat, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
 
 b) a katonával szemben elrendelt bűnügyi felügyelet ellenőrzésének szabályait
 

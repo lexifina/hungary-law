@@ -10,4 +10,4 @@ b) a terhelt, a sértett, a vagyoni érdekelt és az egyéb érdekelt költsége
 
 c) a kirendelt védő, a törvényes képviselő és a meghatalmazott képviselő díja és költsége, akkor is, ha azt az állam nem előlegezte.
 
-(2) Az (1) bekezdés a) pontja szerinti bűnügyi költség különösen a tanú költsége, a szakértő, és a szaktanácsadó díja és költsége, illetve a lefoglalt dolog szállításának és megőrzésének költsége.
+(2) Az (1) bekezdés a) pontja szerinti bűnügyi költség különösen a tanú költsége, a szakértő, és a szaktanácsadó munkadíja és költsége, illetve a lefoglalt dolog szállításának és megőrzésének költsége.
