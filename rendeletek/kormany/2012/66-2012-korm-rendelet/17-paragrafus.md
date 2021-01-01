@@ -6,8 +6,8 @@
 
 a) a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény szerinti összekötő tisztek végezhetik, vagy
 
-b)[^89] a rendőrség, illetve a vámszerv olyan hivatásos állományú tagjai végezhetik, akiknek az országos rendőrfőkapitány, illetve az állami adó- és vámhatóság vezetője erre engedélyt adott.
+b)[^89] a rendőrség olyan hivatásos állományú tagjai, illetve a Nemzeti Adó- és Vámhivatal olyan pénzügyőri munkakört betöltő foglalkoztatottjai végezhetik, akiknek az országos rendőrfőkapitány, illetve az állami adó- és vámhatóság vezetője erre engedélyt adott.
 
 [^87]: A 17. § (1) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja szerint módosított szöveg.
 [^88]: A 17. § (2) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^89]: A 17. § (3) bekezdés b) pontja a 486/2015. (XII. 29.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^89]: A 17. § (3) bekezdés b) pontja a 486/2015. (XII. 29.) Korm. rendelet 38. § b) pontja, a 671/2020. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.

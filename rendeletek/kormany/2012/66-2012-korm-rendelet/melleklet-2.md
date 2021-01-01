@@ -244,6 +244,18 @@
 
 | 119 | tetrahydrofuranylfentanyl |  |
 
+| 120. | crotonylfentanyl | (2E)-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]but-2-enamide |
+
+| 121. | valerylfentanyl | N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]pentanamide |
+
+| 122. | parafluorobutyrylfentanyl | N-(4-fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]butanamide |
+
+| 123. | orthofluorofentanyl | N-(2-fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide |
+
+| 124. | methoxyacetylfentanyl (metoxiacetil-fentanil) | 2-methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide |
+
+| 125. | cyclopropyfentanyl (ciklopropil-fentanil) | N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopropanecarboxamide |
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek izomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – valamint az ebben a jegyzékben felsorolt kábítószerek észterei és éterei, amennyiben ilyen észterek és éterek előfordulnak, kivéve, ha azok egy másik jegyzékben szerepelnek;
@@ -366,7 +378,7 @@
 
 | 13 | DMT | 3-[2-(dimethylamino)ethyl]indole |
 
-| 14 | DOC*** | 2,5-dimetoxi-4-klór-amfetamin°1-(4-Chlor-2,5-dimethoxyphenyl)propan-2-ylazan°° |
+| 14. | DOC | 2,5-dimetoxi-4-klór-amfetamin° 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-ylazan |
 
 | 15 | DOET | (±)-4-ethyl-2,5-dimethoxy-α-methylphenethylamine |
 
@@ -546,7 +558,7 @@
 
 | 98. |  |  |
 
-| 99. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)-1H-indazole-3- carboxamide |
+| 99. |  |  |
 
 | 100. | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole-3- carboxamide |
 
@@ -562,7 +574,7 @@
 
 | 106. | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
 
-| 107. | ADB-FUBINACA | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide |
+| 107. |  |  |
 
 | 108. | MT-45 | 1-ciklohexil-4-(1,2-difenil-etil)piperazin |
 
@@ -592,13 +604,13 @@
 
 | 121 | EG-018 | (naphthalen-1-yl)(9-pentyl-9H-carbazol-3-yl)-methanone |
 
-| 122 | ciklopropil-fentanil | N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid |
+| 122 |  |  |
 
-| 123 | metoxiacetil-fentanil | 2-metoxi-N-fenil-N-[1-(2-feniletil)piperidin-4-il]acetamid |
+| 123 |  |  |
 
-| 124 | ADB-CHMINACA | N-(1-amino-3,3-demetil-1-oxobután-2-il)-1-(ciklohexil-metil)- 1H-indazol-3-karboxamid |
+| 124 |  |  |
 
-| 125 | CUMYL-4CN-BINACA | 1-(4-ciano-butil)-N-(2-fenilpropán-2-il)-1H-indazol-3-karboxamid |
+| 125 |  |  |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
@@ -697,6 +709,30 @@
 | 37 | 5-F-PB-22 |  |
 
 | 38 | 4-fluoroamphetamine (4-fluoramfetamin) /4-FA, 4-FMP | 1-(4-fluorophenyl)propan-2-amine |
+
+| 39. | 5F-AMB-PINACA | 5F-AMB, 5F-MMB-PINACA |
+
+| 40. | 5F-MDMB-PICA | 5F-MDMB-2201 |
+
+| 41. | 4F-MDMB-BINACA | Methyl 2-{[1-(4-fluorobutyl)-1H-indazole-3-carbonyl] amino}-3,3-dimethylbutanoate |
+
+| 42. | 4-CMC | 4-chloromethcathinone, clephedrone |
+
+| 43. | N-ethylhexedrone | 2-(Ethylamino)-1-phenylhexan-1-one |
+
+| 44. | alpha-PHP | 1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-one |
+
+| 45. | ADB-FUBINACA | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]- 1H-indazole-3-carboxamide |
+
+| 46. | FUB-AMB (MMB-FUBINACA, AMB-FUBINACA) | Methyl 2-({1-[(4-fluorophenyl)methyl]-1H-indazole-3-carbonyl} amino)-3-methylbutanoate |
+
+| 47. | CUMYL-4CN-BINACA | 1-(4-Cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide |
+
+| 48. | ADB-CHMINACA | N-[1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl)-1H- indazole-3-carboxamide |
+
+| 49. | N-ethylnorpentylone (ephylone) | 1-(2H-1,3-Benzodioxol-5-yl)-2-(ethylamino)pentan-1-one |
+
+| 50. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H- indazole-3-carboxamide |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
@@ -867,6 +903,10 @@
 | 61 | Vinylbital (vinilbitál) | 5-(1-methylbutyl)-5-vinylbarbituric acid |
 
 | 62 | Zolpidem (zolpidem) | N,N,6-trimethyl-2-p-tolylimidazo[1,2-α]pyridine-3-acetamide |
+
+| 63. | flualprazolam | 8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo [4,3-a][1,4]diazepine |
+
+| 64. | etizolam | 4-(2-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4] triazolo[4,3-a][1,4]diazepine |
 
 ## Megjegyzés:
 

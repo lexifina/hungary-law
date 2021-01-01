@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-66-20-2
 | 2019-06-14 | 2012-66-20-22.28 | 113/2019. (V. 15.) Korm. rendelet |
 | 2020-01-01 | 2012-66-20-22.29 | 347/2019. (XII. 23.) Korm. rendelet |
 | 2020-06-27 | 2012-66-20-22.30 | 271/2020. (VI. 12.) Korm. rendelet |
+| 2021-01-01 | 2012-66-20-22.31 | 486/2015. (XII. 29.) Korm. rendelet |
