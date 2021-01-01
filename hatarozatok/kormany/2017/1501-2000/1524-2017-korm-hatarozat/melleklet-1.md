@@ -18,25 +18,9 @@
 
 ## Határidő: 2018. december 31.
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) és (2) bekezdésében biztosított jogkörében eljárva
+## 3.[^1]
 
-## a) elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben a 29. Abasár település vízrendezési feladatainak megvalósítása cím létrehozását;
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## b) az Abasár település ivóvízellátását biztosító ivóvízbázis szervesoldószer-szennyezettségének felszámolása érdekében elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére 239,6 millió forint egyszeri átcsoportosítását a 29. Abasár település vízrendezési feladatainak megvalósítása cím javára az 1. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 4.[^1] egyetért azzal, hogy a belügyminiszter a 3. pont b) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében – a támogatás felhasználásának és elszámolásának részletes feltételeit tartalmazó támogatási szerződés megkötését vagy támogatói okirat kiadását követően – egy vagy több részletben nyújtson 239,6 millió forint támogatást Abasár Község Önkormányzata részére a település vízrendezési feladatainak megvalósítása érdekében;
+## 4.[^2] egyetért azzal, hogy a belügyminiszter a 3. pont b) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében – a támogatás felhasználásának és elszámolásának részletes feltételeit tartalmazó támogatási szerződés megkötését vagy támogatói okirat kiadását követően – egy vagy több részletben nyújtson 239,6 millió forint támogatást Abasár Község Önkormányzata részére a település vízrendezési feladatainak megvalósítása érdekében;
 
 ## Felelős: belügyminiszter
 
@@ -66,58 +50,8 @@
 
 ## Határidő: a 2018. év vonatkozásában a felmerülés ütemében, a 2019. év tekintetében a költségvetési tervezés során
 
-1. melléklet az 1524/2017. (VIII. 14.) Korm. határozathoz
+1. melléklet az 1524/2017. (VIII. 14.) Korm. határozathoz[^3]
 
-| IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 369128 |  | 29 |  |  |  |  |  | Abasár település vízrendezési feladatainak megvalósítása |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 239,6 |  |  |  |
-
-| 359017 |  | 2 |  |  |  |  |  | A helyi önkormányzatok működési célú kiegészítő támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -239,6 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki |  |  |  |  | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezetet irányító szerv |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 239,6 |  |  |  |  |  |  |  |  |  |  | 239,6 |  |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: A 4. pont az 1796/2017. (XI. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont az 1796/2017. (XI. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
