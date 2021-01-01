@@ -1,16 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcímet a 4. Útdíj-szedési és ellenőrzési rendszerek fejlesztése jogcímcsoporttal egészíti ki;
+## 1.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 2. a megtett úttal arányos útdíj-szedési rendszer (a továbbiakban: UD rendszer) fejlesztése és a beszerzett eszközök szinten tartása érdekében, az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva egyszeri 1 710 000 000 forint forrás átcsoportosítását rendeli el a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 4. Útdíj-szedési és ellenőrzési rendszerek fejlesztése jogcímcsoport javára, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 7. Budapesti konferencia-központ megvalósítása jogcím terhére az 1. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. felhívja a nemzeti fejlesztési minisztert, hogy a postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztos bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az UD rendszer fejlesztése és a beszerzett eszközök szinten tartása érdekében, a 2. pont szerinti összegnek a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) részére történő biztosításáról;
 
@@ -28,11 +18,7 @@
 
 ## Határidő: azonnal
 
-## 5. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcímet a 43. Útdíj rendszerek nemzetközi megismertetésének támogatása jogcímcsoporttal egészíti ki;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 5.[^3]
 
 ## 6. felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter bevonásával gondoskodjon az útdíjszedési és ellenőrzési rendszerek nemzetközi megismertetésére 219 766 500 forint forrás biztosításáról, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 43. Útdíj rendszerek nemzetközi megismertetésének támogatása jogcímcsoport javára;
 
@@ -60,40 +46,9 @@
 
 ## Határidő: 2018. június 30.
 
-1. melléklet a 2033/2017. (XII. 27.) Korm. határozathoz
+1. melléklet a 2033/2017. (XII. 27.) Korm. határozathoz[^4]
 
-| a Kormány hatáskörében Költségvetési év: 2017. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XLIII. |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Ingatlanokkal és ingóságokkal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 1 |  |  |  |  |  | Ingatlan-beruházások, ingatlanvásárlás |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 352006 |  |  |  |  | 7 |  |  |  |  |  | Budapesti konferencia-központ megvalósítása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | -1 710 000 000 |  |  |  |
-
-| 351028 |  |  |  | 4 |  |  |  |  |  | Útdíj-szedési és ellenőrzési rendszerek fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 1 710 000 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  | azonnal |  | 1 710 000 000 |  |  |  |  |  |  |  |  |  |  |  | 1 710 000 000 |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+[^1]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 5. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
