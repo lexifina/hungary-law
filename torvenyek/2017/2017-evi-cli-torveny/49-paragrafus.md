@@ -24,6 +24,6 @@ i) az eljárásért igazgatási szolgáltatási díjat (a továbbiakban: díj) k
 
 j) a 26. §-ban, valamint a 126. § (7) bekezdésében szabályozott eljárás során az arra okot adó feltétel bekövetkezik, vagy
 
-k) ha a hivatalból indult eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekményektől sem várható eredmény.
+k) a hivatalból indult eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekményektől sem várható eredmény.
 
 (2) Az (1) bekezdés f) pontja szerinti esetben az adóhatóság szükség esetén a döntést visszavonja, és erről szóló döntését a korábban eljárt vagy kijelölt adóhatósággal is közli.

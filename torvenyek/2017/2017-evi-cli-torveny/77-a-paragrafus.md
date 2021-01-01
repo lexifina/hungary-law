@@ -6,6 +6,8 @@ a) az adózó elektronikus kapcsolattartásra szolgáló elérhetősége, lakcí
 
 b) a jogutód nem ismert,
 
-c) az adózó nem jelölt meg kézbesítési meghatalmazottat, vagy
+c) az adózó nem jelölt meg kézbesítési meghatalmazottat,
 
-d) azt törvény vagy kormányrendelet előírja.
+d) a kézbesítés egyéb elháríthatatlan akadályba ütközik, vagy annak megkísérlése már előre is eredménytelennek mutatkozik, vagy
+
+e) azt törvény vagy kormányrendelet előírja.

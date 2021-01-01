@@ -8,7 +8,7 @@ a) a kézbesítés megkísérlésének napján – a b) pontban meghatározott k
 
 b) a postai kézbesítés második megkísérlését követő ötödik munkanapon kell kézbesítettnek tekinteni, ha az adóhatósági iratot a posta a rá vonatkozó szabályoknak megfelelően „nem kereste” jelzéssel küldte vissza az adóhatóságnak.
 
-(3) Elektronikus kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4) bekezdését és 15. § (1)–(4) bekezdését kell alkalmazni.
+(3) Elektronikus kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4) bekezdését és 15. § (1)–(6) bekezdését kell alkalmazni.
 
 (4) Az adóhatósági irat – a meghatalmazott képviselő mellett – a meghatalmazott képviselővel rendelkező adózó részére is kézbesíthető. Ilyen esetben az iratot az adózó, valamint a meghatalmazott részére ugyanazon a napon kell postára adni, illetve az irat kézbesítéséhez biztonságos kézbesítési szolgáltatást is igénybe lehet venni. E bekezdés nem alkalmazható az adóhatóság saját kézbesítője útján történő kézbesítésre.
 

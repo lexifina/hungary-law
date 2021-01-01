@@ -6,6 +6,8 @@
 
 (2) Felügyeleti intézkedés iránti kérelem egy alkalommal, a döntés véglegessé válásától számított egy éven belül nyújtható be. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az elkésett kérelmet a felettes adóhatóság visszautasítja. Nincs helye felügyeleti intézkedés iránti kérelemnek, ha az adózó feltételes adóbírság kedvezményt vett igénybe.
 
+(2a) A felügyeleti intézkedés iránti kérelem benyújtása esetén alkalmazni kell a 124. § (3)–(4) és (6) bekezdését.
+
 (3) Az adópolitikáért felelős miniszter, illetve az állami adó- és vámhatóságot irányító miniszter abban az esetben jár el, ha a felettes adóhatóság az ügyben már döntést hozott.
 
 (4) A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve az állami adó- és vámhatóságot irányító miniszter nem tehet felügyeleti intézkedést, ha az adóhatóság döntését, illetve döntésrészét közigazgatási bíróság már elbírálta.

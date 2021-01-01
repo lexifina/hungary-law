@@ -6,7 +6,7 @@
 
 a) a bíróság jogerős ügydöntő határozatában megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás esetén,
 
-b) a bíróság által elrendelt új eljárás esetén,
+b) a felettes szerv által a felülellenőrzési eljárásban, illetve a bíróság által elrendelt új eljárás esetén,
 
 c) ha az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami Számvevőszék elnöke – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
 

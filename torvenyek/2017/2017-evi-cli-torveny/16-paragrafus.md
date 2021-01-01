@@ -4,10 +4,10 @@
 
 a) az adó feltételes megállapítására irányuló eljárásban,
 
-b) a feltételes adómegállapítás alkalmazhatóságának megállapítására irányuló eljárásban és
+b) a feltételes adómegállapítás alkalmazhatóságának megállapítására irányuló eljárásban, és
 
 c) a szokásos piaci ár megállapítására irányuló eljárásban
 
-kizárólag ügyvéd, kamarai jogtanácsos, adótanácsadó, adószakértő, okleveles adószakértő vagy könyvvizsgáló képviseletével járhat el.
+kizárólag kamarai jogtanácsos, ügyvéd, nyilvántartásba vett adószakértő, nyilvántartásba vett okleveles adószakértő, nyilvántartásba vett adótanácsadó, könyvvizsgáló képviseletével járhat el.
 
-(2) Az (1) bekezdés szerinti képviselet a saját ügyben nem kötelező, ha a természetes személy vagy a jogi személy, egyéb szervezet vezető tisztségviselője jogi szakvizsgával vagy okleveles könyvvizsgálói szakképesítéssel rendelkezik vagy nyilvántartásba vett adótanácsadónak, adószakértőnek, okleveles adószakértőnek vagy könyvvizsgálónak minősül. A jogi szakvizsga megszerzését, az okleveles könyvvizsgálói szakképesítés meglétét, és azt, hogy a természetes személyt vagy a jogi személy, egyéb szervezet vezető tisztségviselőjét az adótanácsadói, adószakértő vagy az okleveles adószakértői nyilvántartásba bejegyezték, az (1) bekezdésben meghatározott hatósági eljárások megindítására irányuló kérelemmel egyidejűleg kell igazolni.
+(2) Az (1) bekezdés szerinti képviselet a saját ügyben nem kötelező, ha a természetes személy vagy a jogi személy, egyéb szervezet törvényes vagy szervezeti képviselője vagy foglalkoztatottja jogi szakvizsgával vagy okleveles könyvvizsgálói szakképesítéssel rendelkezik vagy nyilvántartásba vett adószakértőnek, nyilvántartásba vett okleveles adószakértőnek, nyilvántartásba vett adótanácsadónak, vagy könyvvizsgálónak minősül. A jogi szakvizsga megszerzését, az okleveles könyvvizsgálói szakképesítés meglétét, és azt, hogy a természetes személyt vagy a jogi személy, egyéb szervezet törvényes vagy szervezeti képviselőjét vagy foglalkoztatottját az adószakértői vagy az okleveles adószakértői, adótanácsadói nyilvántartásba bejegyezték, az (1) bekezdésben meghatározott hatósági eljárások megindítására irányuló kérelemmel egyidejűleg kell igazolni.
