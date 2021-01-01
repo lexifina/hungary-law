@@ -16,4 +16,4 @@ a) a jogkövetkezményekre való utalás mellett írásban felszólítja a proje
 
 b) ismételten is kiszabható bírsággal sújthatja projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
 
-c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.
+c) eltilthatja a projekttársaságot az adott tevékenység folytatásától.

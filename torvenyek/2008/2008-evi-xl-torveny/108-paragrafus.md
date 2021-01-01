@@ -16,7 +16,7 @@ b) a csatlakozási díjak elemeit, a díjfizetésre kötelezettek körét és a 
 
 (7) Mentes a csatlakozási díj és minden más, a földgázelosztónak fizetendő díj alól a legfeljebb 4 m3/óra névleges teljesítményű fogyasztásmérő beszerelése azzal, hogy ebben az esetben az elosztóvezeték építése 250 méterig díjmentes. Ha az elosztóvezeték hossza meghaladja a 250 métert, a díjakat a 250 méter feletti részre kell megfizetni.
 
-(8) A (7) bekezdés szerinti mentességet több lakást vagy több nem lakás céljára szolgáló helyiséget magában foglaló ingatlan esetében lakásonként, illetve nem lakás céljára szolgáló helyiségenként kell alkalmazni.
+(8) A (7) bekezdés szerinti mentességet több lakást vagy lakóházat és a hozzájuk tartozó több nem lakás céljára szolgáló helyiséget vagy épületet magában foglaló ingatlan esetében lakásonként, lakóházanként, illetve nem lakás céljára szolgáló helyiségenként, épületenként kell alkalmazni.
 
 (9) A (7) bekezdés szerinti feltételek teljesülése esetén a földgázelosztó a csatlakozási igény teljesítését nem kötheti óvadék, letét, előleg, kötbér vagy más fizetési kötelezettség teljesítéséhez, előírásához.
 

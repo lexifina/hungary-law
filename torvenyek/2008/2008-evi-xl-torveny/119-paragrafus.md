@@ -8,9 +8,9 @@ a) felhívja az engedélyes figyelmét a kötelezettségei teljesítésére és 
 
 b) bírságot szabhat ki,
 
-c) a határidő eredménytelen eltelte után az engedélyes tevékenységét felfüggesztheti,
+c)
 
-d) azonnali hatállyal eltilthatja a tevékenység folytatásától,
+d) eltilthatja a tevékenység folytatásától,
 
 e) a működési engedélyt felfüggesztheti vagy visszavonhatja.
 
@@ -39,6 +39,8 @@ foglalt kötelezettségét nem teljesíti.
 (3a) A Hivatal kormányrendeletben meghatározott eljárás keretében más engedélyest is kijelölhet a tevékenység folytatására, ha az engedélyben foglalt tevékenységet nem a jogszabályi előírásoknak megfelelően folytatják, és ez közvetlenül veszélyezteti a folyamatos és biztonságos földgázellátást, illetve közvetlenül a földgázrendszer jelentős zavarát idézheti elő.
 
 (3b) A Hivatal más engedélyes kijelölése esetén az engedélyest kötelezheti arra, hogy a folyamatos és biztonságos földgázellátás érdekében a rendszerhasználókkal történő kapcsolattartás, a szerződéses feltételek teljesítéséhez szükséges nyilvántartásokat, adatokat a kijelölt engedélyesnek adja át.
+
+(3c) Az (1) bekezdés d) pontja szerinti eltiltás 5 évnél hosszabb időtartamra nem szólhat.
 
 (4) A Hivatal az engedélyt módosíthatja vagy visszavonhatja, ha az engedélyes az ellátás-, az élet-, az egészség-, az üzem- és a vagyonbiztonságot vagy a környezetet veszélyeztető módon üzemelteti a szállító- és az elosztóvezetéket, valamint a tárolót, továbbá ha a jogszabályban meghatározott kötelezettségeinek és az engedélyben foglaltaknak nem képes eleget tenni.
 

@@ -110,7 +110,7 @@
 
 53. az e törvény szerinti, a PB-gáz tartályban vagy palackban történő forgalmazásának, valamint a turista használatú palackba történő PB-gáz-átfejtés szabályait és hatósági felügyeletét, az e tevékenységre jogosító engedély kiadásának rendjét, az e tevékenységet folytatókról vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a fogyasztóvédelmi előírásokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek megszegése esetén alkalmazandó jogkövetkezményeket,
 
-54. a fogyasztói vezeték üzembe helyezésének megtagadása esetén az eljáró műszaki biztonsági hatóságot, valamint a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait.
+54. a fogyasztói vezeték üzembe helyezésének megtagadása esetén az eljáró műszaki biztonsági hatóságot, valamint a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása, továbbá a 89/A. § (2) bekezdése szerinti eljárás anyagi és eljárási szabályait.
 
 55. készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését végző tervező mérnök felelősségbiztosítására vonatkozó rendelkezéseket,
 
