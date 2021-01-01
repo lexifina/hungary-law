@@ -1,18 +1,18 @@
-## 3/A. [^29] Gyermekétkeztetés
+## 3/A. [^30] Gyermekétkeztetés
 
-13. § (1)[^30] Ha az intézményi és szünidei gyermekétkeztetést betegség vagy más ok miatt a gyermek nem veszi igénybe, a kötelezett az intézmény vezetőjénél, a szünidei gyermekétkeztetést biztosítónál bejelenti
+13. § (1)[^31] Ha az intézményi és szünidei gyermekétkeztetést betegség vagy más ok miatt a gyermek nem veszi igénybe, a kötelezett az intézmény vezetőjénél, a szünidei gyermekétkeztetést biztosítónál bejelenti
 
 a) a távolmaradást és annak várható időtartamát, valamint
 
 b) a távolmaradásra okot adó körülmény megszűnését és azt, hogy a gyermek mikor veszi igénybe újból a gyermekétkeztetést.
 
-(1a)[^31] Ha az intézmény házirendje vagy az étkeztetésre vonatkozó szabályzata kedvezőbben nem rendelkezik, a kötelezett az (1) bekezdés a) pontja szerinti bejelentést követő naptól a távolmaradás idejére mentesül az intézményi gyermekétkeztetésért fizetendő térítési díj fizetésének kötelezettsége alól.
+(1a)[^32] Ha az intézmény házirendje vagy az étkeztetésre vonatkozó szabályzata kedvezőbben nem rendelkezik, a kötelezett az (1) bekezdés a) pontja szerinti bejelentést követő naptól a távolmaradás idejére mentesül az intézményi gyermekétkeztetésért fizetendő térítési díj fizetésének kötelezettsége alól.
 
-(2)[^32] Az intézményi gyermekétkeztetés személyi térítési díjának előre történő megfizetése esetén, ha az adott hónapra fizetendő térítési díj összege kevesebb, mint a már befizetett összeg, úgy a többletet a következő fizetés alkalmával be kell számítani, vagy vissza kell fizetni. Ha a fizetendő személyi térítési díj összege növekszik, a befizetett és a ténylegesen fizetendő összeg különbözetét visszamenőleg kell megfizetni.
+(2)[^33] Az intézményi gyermekétkeztetés személyi térítési díjának előre történő megfizetése esetén, ha az adott hónapra fizetendő térítési díj összege kevesebb, mint a már befizetett összeg, úgy a többletet a következő fizetés alkalmával be kell számítani, vagy vissza kell fizetni. Ha a fizetendő személyi térítési díj összege növekszik, a befizetett és a ténylegesen fizetendő összeg különbözetét visszamenőleg kell megfizetni.
 
-(3)[^33] Helyettes szülőnél vagy gyermekek átmeneti otthonában elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított intézményi gyermekétkeztetésért a személyi térítési díjat a helyettes szülő vagy a gyermekek átmeneti otthona fizeti meg.
+(3)[^34] Helyettes szülőnél vagy gyermekek átmeneti otthonában elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított intézményi gyermekétkeztetésért a személyi térítési díjat a helyettes szülő vagy a gyermekek átmeneti otthona fizeti meg.
 
-(4)[^34] Családok átmeneti otthonában elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított intézményi gyermekétkeztetésért a személyi térítési díjat, ha a családok átmeneti otthona
+(4)[^35] Családok átmeneti otthonában elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított intézményi gyermekétkeztetésért a személyi térítési díjat, ha a családok átmeneti otthona
 
 a) teljes körű ellátást biztosít, a családok átmeneti otthona,
 
@@ -20,9 +20,9 @@ b) szükség szerinti ellátást biztosít, a szülő
 
 fizeti meg.
 
-(5)[^35] Az intézményvezető az intézményi gyermekétkeztetés, a települési önkormányzat a szünidei gyermekétkeztetés igénybevételét a 4. melléklet szerint dokumentálja.
+(5)[^36] Az intézményvezető az intézményi gyermekétkeztetés, a települési önkormányzat a szünidei gyermekétkeztetés igénybevételét a 4. melléklet szerint dokumentálja.
 
-(6)[^36] (6) Az intézmény vezetője az ingyenes és kedvezményes intézményi gyermekétkeztetés feltételeiről, a szünidei gyermekétkeztetésről és az igénybevétel módjáról tájékoztatja a kötelezettet
+(6)[^37] (6) Az intézmény vezetője az ingyenes és kedvezményes intézményi gyermekétkeztetés feltételeiről, a szünidei gyermekétkeztetésről és az igénybevétel módjáról tájékoztatja a kötelezettet
 
 a) a beíratáskor,
 
@@ -30,11 +30,11 @@ b) az ellátás igénybevételének megkezdésekor, és
 
 c) az ingyenes és kedvezményes intézményi gyermekétkeztetés feltételeinek megváltozásakor.
 
-[^29]: A 3/A. alcím címét a 431/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^30]: A 13. § (1) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^31]: A 13. § (1a) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
-[^32]: A 13. § (2) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^33]: A 13. § (3) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 431/2015. (XII. 23.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^34]: A 13. § (4) bekezdés nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^35]: A 13. § (5) bekezdés nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
-[^36]: A 13. § (6) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: A 3/A. alcím címét a 431/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^31]: A 13. § (1) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^32]: A 13. § (1a) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^33]: A 13. § (2) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^34]: A 13. § (3) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 431/2015. (XII. 23.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^35]: A 13. § (4) bekezdés nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^36]: A 13. § (5) bekezdés nyitó szövegrésze a 431/2015. (XII. 23.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^37]: A 13. § (6) bekezdését a 190/2015. (VII. 20.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 431/2015. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.

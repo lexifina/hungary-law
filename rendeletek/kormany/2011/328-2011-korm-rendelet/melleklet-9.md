@@ -1,4 +1,4 @@
-9. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^70]
+9. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^71]
 
 IGAZOLÁS az átmeneti gondozásban lévő, az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek ingyenes bölcsődei, mini bölcsődei gondozásra és a nevelésbe vett gyermek, utógondozói ellátásban részesülő fiatal felnőtt ingyenes intézményi gyermekétkeztetés igénybevételére való jogosultságához
 
@@ -68,4 +68,4 @@ szolgáltató vezetője, a gondozási helyet
 
 biztosító intézmény vezetője
 
-[^70]: A 9. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés c) pontja iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés q) pontja szerint módosított szöveg.
+[^71]: A 9. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés c) pontja iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés q) pontja szerint módosított szöveg.

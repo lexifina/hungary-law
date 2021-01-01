@@ -1,8 +1,8 @@
 ## 7. Az ellátások igényléséhez és a térítési díjak megállapításához felhasználható bizonyítékok köre
 
-17. §[^44] (1)[^45] A személyi térítési díj megállapításához a kötelezett – a (2) bekezdésben foglalt kivétellel – 30 napnál nem régebbi, az 5. melléklet szerinti jövedelemnyilatkozatot nyújt be az intézményvezetőnek.
+17. §[^45] (1)[^46] A személyi térítési díj megállapításához a kötelezett – a (2) bekezdésben foglalt kivétellel – 30 napnál nem régebbi, az 5. melléklet szerinti jövedelemnyilatkozatot nyújt be az intézményvezetőnek.
 
-(2)[^46] A kötelezett
+(2)[^47] A kötelezett
 
 a) a Gyvt. 21/B. § (1) bekezdés a) pontja szerinti ingyenes intézményi gyermekétkeztetés igénybevételéhez a 6. melléklet szerinti nyilatkozatot,
 
@@ -10,9 +10,9 @@ b) a Gyvt. 21/B. § (1) bekezdés b)–d) pontja és a Gyvt. 21/B. § (2) bekezd
 
 nyújtja be az intézményvezetőnek.
 
-(3)[^47] A kötelezett egy nyilatkozatot nyújt be, ha az ugyanazon intézménybe járó több gyermeke után azonos jogcímen igényli az ingyenes vagy kedvezményes gyermekétkeztetést.
+(3)[^48] A kötelezett egy nyilatkozatot nyújt be, ha az ugyanazon intézménybe járó több gyermeke után azonos jogcímen igényli az ingyenes vagy kedvezményes gyermekétkeztetést.
 
-[^44]: A 17. § a 190/2015. (VII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^45]: A 17. § (1) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
-[^46]: A 17. § (2) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^47]: A 17. § (3) bekezdését a 431/2015. (XII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^45]: A 17. § a 190/2015. (VII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^46]: A 17. § (1) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^47]: A 17. § (2) bekezdése a 431/2015. (XII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^48]: A 17. § (3) bekezdését a 431/2015. (XII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be.

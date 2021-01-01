@@ -52,7 +52,7 @@
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^66]
+5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^67]
 
 JÖVEDELEMNYILATKOZAT A SZEMÉLYI TÉRÍTÉSI DÍJ MEGÁLLAPÍTÁSÁHOZ
 
@@ -150,7 +150,7 @@ II. Jövedelmi adatok
 
 1. Jövedelem: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó - megszerzett - vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
 
-2. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
+2. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Az átalányadózó mezőgazdasági őstermelő esetében a bevétel csökkenthető a bevétel 90%-ának megfelelő összeggel
 
 2.1. Elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj.
 
@@ -166,7 +166,7 @@ II. Jövedelmi adatok
 
 III. Jövedelem típusai
 
-1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, politikai szolgálati, biztosi, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, a kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
 
 2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni továbbá a jogdíjat, a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, valamint a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
@@ -184,4 +184,4 @@ IV. Egyebek
 
 2. A cselekvőképességet teljesen korlátozó gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet részlegesen korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
 
-[^66]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a, a 431/2015. (XII. 23.) Korm. rendelet 8. § m) pontja, a 217/2016. (VII. 22.) Korm. rendelet 26. §-a, a 102/2019. (V. 6.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^67]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a, a 431/2015. (XII. 23.) Korm. rendelet 8. § m) pontja, a 217/2016. (VII. 22.) Korm. rendelet 26. §-a, a 102/2019. (V. 6.) Korm. rendelet 11. §-a, a 665/2020. (XII. 28.) Korm. rendelet 12. §-a, a 671/2020. (XII. 28.) Korm. rendelet 19. §-a szerint módosított szöveg.
