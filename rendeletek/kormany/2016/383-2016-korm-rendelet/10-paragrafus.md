@@ -1,6 +1,6 @@
 ## 4. Az erdészeti hatóság kijelölése
 
-10. §[^25] A Kormány erdészeti hatóságként
+10. §[^27] A Kormány erdészeti hatóságként
 
 a) a minisztert,
 
@@ -14,4 +14,4 @@ e) az NFK-t
 
 jelöli ki.
 
-[^25]: A 10. § a 29/2020. (II. 28) Korm. rendelet 3. §-ával megállapított szöveg.
+[^27]: A 10. § a 29/2020. (II. 28) Korm. rendelet 3. §-ával megállapított szöveg.

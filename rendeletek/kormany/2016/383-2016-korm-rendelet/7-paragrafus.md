@@ -6,8 +6,8 @@ a) a NÉBIH-et,
 
 b) a Pest Megyei Kormányhivatalt,
 
-c)[^20] a megyei kormányhivatalt
+c)[^22] a megyei kormányhivatalt
 
 jelöli ki.
 
-[^20]: A 7. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^22]: A 7. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
