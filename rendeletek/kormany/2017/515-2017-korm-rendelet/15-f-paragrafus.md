@@ -1,0 +1,3 @@
+15/F. § (1) A 11/A. § (3) bekezdése szerinti műszaki szemlét követően a vízi jármű meglévő uniós belvízi hajóbizonyítványát a vízi jármű megváltoztatott műszaki jellemzőire tekintettel vissza kell vonni, és újat kell kiállítani, ha az eredeti hajóbizonyítványban meghatározott műszaki jellemzőknek már nem felel meg. Ha az új bizonyítványt más tagállamban adják ki, mint amelyben az első bizonyítványt kiadták vagy megújították, a bizonyítványt kiállító vagy megújító illetékes hatóságot erről az új bizonyítvány kiadását követő harminc napon belül tájékoztatni kell.
+
+(2) A hatályos uniós belvízi hajóbizonyítványt az azt kibocsátó vagy megújító illetékes hatóság visszavonja, ha a vízi jármű már nem felel meg a bizonyítványban foglalt műszaki követelményeknek.
