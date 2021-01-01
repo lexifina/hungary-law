@@ -21,11 +21,3 @@ i) 42. § (8) bekezdésében az „a további tagsági jogviszonyában a (4) bek
 j) 73. § (2) bekezdésében a „67. § (3) bekezdés a)–b) és d) pontja szerinti személyeket a Nemzeti Egészségbiztosítási Alapkezelőnek (a továbbiakban: NEAK), a 67. § (3) bekezdés c) pontja szerinti személyeket a székhely szerint illetékes egészségbiztosítási szervnek” szövegrész helyébe a „67. § (3) bekezdés szerinti személyeket a Nemzeti Egészségbiztosítási Alapkezelőnek (a továbbiakban: NEAK)” szöveg
 
 lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
