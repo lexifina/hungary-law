@@ -1,6 +1,6 @@
 ## 2. A miniszter feladatai a fogyasztóvédelmi hatóság tevékenységével összefüggésben
 
-5. § (1)[^38] A fővárosi és megyei kormányhivataloknak a fogyasztóvédelmi és piacfelügyeleti feladatainak, valamint a termékek biztonságosságának és megfelelőségének ellenőrzésével összefüggő, jogszabályban meghatározott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
+5. § (1)[^39] A fővárosi és megyei kormányhivataloknak a fogyasztóvédelmi és piacfelügyeleti feladatainak, valamint a termékek biztonságosságának és megfelelőségének ellenőrzésével összefüggő, jogszabályban meghatározott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
 
 (2) A miniszter
 
@@ -22,11 +22,11 @@ c) működteti a Központi Piacfelügyeleti Információs Rendszert;
 
 d) jóváhagyja a fogyasztóvédelmi hatóság Ellenőrzési és Vizsgálati Programját;
 
-e)[^39] koordinálja a fővárosi és megyei kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódó nemzetközi kapcsolatokat;
+e)[^40] koordinálja a fővárosi és megyei kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódó nemzetközi kapcsolatokat;
 
-f)[^40] végzi, illetve végezteti a feladatainak és a kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatkörének ellátásához szükséges laboratóriumi vizsgálatokat, ennek érdekében működteti az Élelmiszer és Vegyipari Laboratóriumot, valamint a Mechanikai és Villamos Laboratóriumot;
+f)[^41] végzi, illetve végezteti a feladatainak és a kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatkörének ellátásához szükséges laboratóriumi vizsgálatokat, ennek érdekében működteti az Élelmiszer és Vegyipari Laboratóriumot, valamint a Mechanikai és Villamos Laboratóriumot;
 
-g)[^41] gondoskodik a fővárosi és megyei kormányhivatal kormánytisztviselőinek szakmai továbbképzéséről;
+g)[^42] gondoskodik a fővárosi és megyei kormányhivatal kormánytisztviselőinek szakmai továbbképzéséről;
 
 h) együttműködési megállapodást köthet a fogyasztóvédelmi tevékenységet ellátó állami szervekkel;
 
@@ -36,7 +36,7 @@ j) ellátja a termékek forgalmazása tekintetében az akkreditálás és piacfe
 
 k) ellátja a fogyasztói érdekek képviseletét ellátó egyesületek támogatására kiírt pályázatok kezelésével összefüggő feladatokat.
 
-[^38]: Az 5. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^39]: Az 5. § (4) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^40]: Az 5. § (4) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^41]: Az 5. § (4) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja és (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^39]: Az 5. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^40]: Az 5. § (4) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^41]: Az 5. § (4) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^42]: Az 5. § (4) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja és (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

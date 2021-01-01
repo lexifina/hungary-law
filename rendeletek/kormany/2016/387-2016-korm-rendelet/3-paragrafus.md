@@ -138,9 +138,11 @@ k) a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (
 
 (4e)[^30] A katasztrófavédelmi főigazgatóság (4d) bekezdés szerinti hatósági hatáskörébe tartozó ügyekben a hatósági ellenőrzési feladatokat a katasztrófavédelmi főigazgatóság és illetékességi területén a katasztrófavédelmi igazgatóság látja el.
 
-(5)[^31] Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 11. § (1) bekezdés e) pont ef) alpontja szerinti esetben a vámtitokról a kormányhivatalt a miniszter útján kell tájékoztatni.
+(4f)[^31] A Kormány a vízi személyszállítás feltételeiről szóló 261/2008. (XI. 3.) Korm. rendelet 18/A. § (2) bekezdés b) pontjában foglaltak tekintetében fogyasztóvédelmi hatóságként a kormányhivatalt jelöli ki.
 
-(6)[^32] A miniszter és a kormányhivatal:
+(5)[^32] Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 11. § (1) bekezdés e) pont ef) alpontja szerinti esetben a vámtitokról a kormányhivatalt a miniszter útján kell tájékoztatni.
+
+(6)[^33] A miniszter és a kormányhivatal:
 
 a) szakmai segítséget nyújt a fogyasztói érdekek képviseletét ellátó egyesületek tevékenységéhez és a fogyasztói ismeretek bővítéséhez, a fogyasztói tudatosság erősítéséhez;
 
@@ -154,13 +156,13 @@ e) támogatja az önkormányzati tanácsadó irodák működését;
 
 f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát el a fenntartható és egészségtudatos fogyasztási szokások kialakítása érdekében.
 
-(7)[^33] A Kormány a textilszál-elnevezésekről és a textiltermékek szálösszetételének ehhez kapcsolódó címkézéséről és jelöléséről, valamint a 73/44/EGK tanácsi irányelv, és a 96/73/EK és a 2008/121/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. szeptember 27-i 1007/2011/EU európai parlamenti és tanácsi rendeletben meghatározottak követésének betartása végett piacfelügyeleti hatóságként a minisztert és a kormányhivatalt jelöli ki.
+(7)[^34] A Kormány a textilszál-elnevezésekről és a textiltermékek szálösszetételének ehhez kapcsolódó címkézéséről és jelöléséről, valamint a 73/44/EGK tanácsi irányelv, és a 96/73/EK és a 2008/121/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. szeptember 27-i 1007/2011/EU európai parlamenti és tanácsi rendeletben meghatározottak követésének betartása végett piacfelügyeleti hatóságként a minisztert és a kormányhivatalt jelöli ki.
 
-(8)[^34] A miniszter és a kormányhivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
+(8)[^35] A miniszter és a kormányhivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
 
-(9)[^35] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a kormányhivatalt jelöli ki.
+(9)[^36] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a kormányhivatalt jelöli ki.
 
-(10)[^36] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
+(10)[^37] A Pest Megyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
 
 [^4]: A 3. § (1) bekezdés a) pontja a 170/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdés e) pontját a 712/2020. (XII. 30.) Korm. rendelet 19. §-a hatályon kívül helyezte.
@@ -189,9 +191,10 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 [^28]: A 3. § (4c) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^29]: A 3. § (4d) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, szövege ugyanezen módosító rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^30]: A 3. § (4e) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^31]: A 3. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^32]: A 3. § (6) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^33]: A 3. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^34]: A 3. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^35]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^36]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^31]: A 3. § (4f) bekezdését a 712/2020. (XII. 30.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^32]: A 3. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^33]: A 3. § (6) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^34]: A 3. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^35]: A 3. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^36]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^37]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be.
