@@ -1,0 +1,19 @@
+82. § (1) A vizsgálóbiztos a vizsgálat befejezését követően jelentésben foglalja össze az ügy tényállását, a bizonyítékokat, az eljárás során tett megállapításokat, illetve a levont következtetéseit, az eljárás alá vont és képviselője bizonyítási indítványával kapcsolatban tett intézkedéseit, illetve észrevételeivel kapcsolatos véleményét, továbbá az ügy lezárására vonatkozó javaslatát. A vizsgálóbiztos az ügy összes iratát és a jelentését a vizsgálat befejezésétől számított 8 napon belül köteles megküldeni a fegyelmi jogkör gyakorlójának.
+
+(2) Ha az eljárás alá vont a kötelezettségszegést a vizsgálat során elismerte és lemondott a tárgyalásról, továbbá a tényállás megítélése egyszerű, a fegyelmi jogkör gyakorlója a vizsgálóbiztos előterjesztésétől számított 8 napon belül meghozott határozattal, tárgyalás nélkül
+
+a) a NAV Szj. tv. 187. § (4) bekezdés a)–h) pontja, illetve a NAV Szj. tv. 187. § (8)–(10) bekezdése szerinti fegyelmi büntetést is kiszabhat, illetve
+
+b) a fegyelmi vétség megállapítása mellett a fegyelmi büntetés kiszabását mellőzheti, ha a legenyhébb fegyelmi büntetés is indokolatlan.
+
+(3) A (2) bekezdés a) pontját tisztjelölt esetében a NAV Szj. tv. 187. § (4) bekezdés a) pontja, vagy – a NAV Szj. tv. 245. § (1) bekezdése szerinti korlátozásra is figyelemmel – az Nftv. 55. § (2) bekezdés c) pontja szerinti fegyelmi büntetés tekintetében lehet alkalmazni.
+
+(4) A határozatot az eljárás alá vont személlyel és képviselőjével közölni kell. Ha az eljárás alá vont képviselőt vett igénybe a fegyelmi eljárás során, a határozat bíróság előtti megtámadásának határidejét a határozatnak a képviselővel való közlés időpontjától kell számítani. Ha az eljárás alá vont jogi képviselő mellett egyidejűleg a NAV-nál működő foglalkoztatotti érdekképviseleti szerv képviselőjével járt el, a képviselővel való közlés időpontja tekintetében a korábbi közlés időpontja az irányadó.
+
+(5) A (2) bekezdés nem alkalmazható, ha a 65. § (2) bekezdése, a 66. §, a 67. § vagy a 68. § alapján az adott fegyelmi büntetést a fegyelmi jogkör gyakorlójának vezetésével eljáró fegyelmi tanács sem szabhatná ki. Ilyen esetben a fegyelmi tanács tagjait ki kell jelölni és a tárgyalásra vonatkozó szabályokat alkalmazni kell.
+
+(6) Az (5) bekezdést tisztjelölt esetében akkor kell alkalmazni, ha a fegyelmi jogkör gyakorlója szerint az Nftv. 55. § (2) bekezdés e) pontja szerinti kizárás fegyelmi büntetés lenne indokolt.
+
+(7) Ha a tényállás nincs kellően felderítve, vagy a vizsgálat során olyan eljárási szabályszegés történt, amely az ügy érdemi elbírálását lényegesen befolyásolja, a fegyelmi jogkör gyakorlója a vizsgálóbiztos előterjesztésétől számított 8 napon belül póteljárást rendel el. A póteljárás elrendeléséről az eljárás alá vont személyt és képviselőjét értesíteni kell. A póteljárás elrendelésének nem akadálya, ha a fegyelmi jogkör gyakorlója a fegyelmi tanács tagjait már kijelölte. A vizsgálóbiztos által lefolytatandó póteljárás tartama nem haladhatja meg a 10 napot. A vizsgálóbiztos a póteljárás során a vizsgálatra vonatkozó szabályok szerint jár el, és a póteljárás befejezését követő 5 munkanapon belül a póteljárás során keletkezett iratokat és a kiegészítő jelentését köteles megküldeni a fegyelmi jogkör gyakorlójának. Az e bekezdés szerinti határidők nem hosszabbíthatók meg.
+
+(8) A vizsgálat során még át nem adott iratokat, továbbá az (1) bekezdés szerinti vizsgálóbiztosi jelentést, illetve a (7) bekezdés szerinti kiegészítő jelentést a fegyelmi tárgyalásról szóló értesítéssel együtt, illetve a (2) bekezdés alkalmazása esetén a határozattal együtt közölni kell az eljárás alá vont személlyel és képviselőjével. Nem lehet közölni az eljárás alá vont személlyel és képviselőjével a vizsgálóbiztosi jelentésnek, illetve a kiegészítő jelentésnek az ügy lezárására vonatkozó vizsgálóbiztosi javaslatot tartalmazó részét.

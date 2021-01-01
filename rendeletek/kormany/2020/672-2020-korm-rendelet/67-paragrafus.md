@@ -1,0 +1,9 @@
+## 66. § A tisztjelölt esetében a fegyelmi jogkör gyakorlója az NKE Rendészettudományi Kar Vám- és Pénzügyőri Tanszékének tanszékvezetője, aki, illetve a vezetése alatt álló fegyelmi tanács csak a NAV Szj. tv. 187. § (4) bekezdés a) pontja, vagy – a NAV Szj. tv. 245. § (1) bekezdése szerinti korlátozásra is figyelemmel – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 55. § (2) bekezdés c) pontja szerinti fegyelmi büntetést szabhat ki. Ha a lefolytatott eljárása alapján a fegyelmi tanács szerint az Nftv. 55. § (2) bekezdés e) pontja szerinti kizárás fegyelmi büntetés kiszabása lenne indokolt, a fegyelmi jogkör gyakorlója a NAV vezetője. Ilyen esetben a fegyelmi ügyet 8 napon belül fel kell terjeszteni a NAV vezetőjéhez, aki – újabb fegyelmi tanács felállítása nélkül – 30 napon belül dönt az ügyben. Ilyen esetben akkor is a NAV vezetője dönt az ügyben, ha álláspontja szerint nem a javasolt fegyelmi büntetés indokolt.
+
+67. § (1) A 64–66. §-tól eltérően tábornok esetében a fegyelmi jogkör gyakorlója a NAV vezetője, de a vezetése alatt álló fegyelmi tanács rendfokozatban visszavetés, illetve hivatalvesztés fegyelmi büntetést nem szabhat ki.
+
+(2) Tábornok esetében rendfokozatban visszavetés, illetve hivatalvesztés fegyelmi büntetés kiszabására az (1) bekezdés szerinti fegyelmi tanács javaslatot tesz a miniszternek.
+
+(3) Ha a miniszter a (2) bekezdés szerinti javaslattal egyetért, a NAV Szj. tv. 27. § (1)–(2) bekezdése alkalmazásával javaslatot tesz a köztársasági elnöknek rendfokozatban visszavetés, illetve hivatalvesztés fegyelmi büntetés kiszabására.
+
+(4) Ha a miniszter szerint egyik javasolt fegyelmi büntetés sem indokolt, az ügyet visszaküldi az (1) bekezdés szerinti fegyelmi tanács vezetőjének az eljárás folytatására, vagy – újabb fegyelmi tanács felállítása nélkül – 30 napon belül maga dönt az ügyben.
