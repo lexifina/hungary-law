@@ -1,0 +1,3 @@
+## 77. § A 16/2014. (XII. 19.) IM rendelet 20. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Ha az elítéltnek a Bv. tv. 91/A. §-ában meghatározott idő alatt jogszabályban meghatározott fertőző betegség gyanúja miatt fekvőbeteg-gyógyintézet fertőző osztályán, illetve kijelölt gyógyintézetben való járványügyi elkülönítése nem válik szükségessé, a Nemzeti Népegészségügyi Központ által kiadott eljárásrend figyelembevételével folytatni kell a befogadási eljárást, ellenkező esetben a bv. intézetnek intézkedni kell a fogvatartottnak a legközelebbi, járványügyi megfigyelést végző egészségügyi intézménybe szállítása iránt.”

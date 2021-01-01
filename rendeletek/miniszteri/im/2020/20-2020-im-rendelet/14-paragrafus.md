@@ -1,0 +1,5 @@
+## „17. § (1) A lefoglalás foganatosításáról készített jegyzőkönyvet és a bűnjel létrehozásáról készült jegyzőkönyvet vagy feljegyzést akkor kell megküldeni a bűnjelkezelőnek, ha a bűnjel adatainak a KBR-ben történő rögzítésére a bűnjel átadásáig nem került sor. Ebben az esetben a hiányzó adatok rögzítését a 10/B. § (2) bekezdése alapján a bűnjelkezelő pótolja.
+
+## (2) A bűnjelnek az érintett őrizetében hagyása vagy egyes szervek őrizetébe és kezelésébe adása esetében – ideértve a bűnjelpénznek a bűnjelkezelői számlára történő befizetését is – a hatóság a 88. § szerinti okmányt, valamint a lefoglalás foganatosításáról készített jegyzőkönyvet és a létrehozásról készült jegyzőkönyvet vagy feljegyzést megküldi a bűnjelkezelőnek, ha a bűnjel KBR-ben történő rögzítésére a bűnjel átadásáig nem került sor.
+
+## (3) Ha a bűnjel 19. §-ban meghatározott átadás-átvételét követően a KBR adatainak kiegészítése, pontosítása szükséges, a bűnjelkezelő szükség esetén a 10/B. § (6) bekezdésében foglaltak szerint jár el.”

@@ -1,0 +1,1 @@
+## „(3) Az ellenőrzést biztosító megfigyelési eszközként a külön légterű illemhely, illetve fürdőhelyiség falán vagy ajtaján az ellenőrző nyílást úgy kell kialakítani, hogy azon az elítéltek ne tekinthessenek be.”

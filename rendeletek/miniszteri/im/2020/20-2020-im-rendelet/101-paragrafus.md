@@ -1,0 +1,7 @@
+## 100. § A 16/2014. (XII. 19.) IM rendelet 137. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
+
+## „(2a) A bv. intézet a Bv. tv. 188. § (2) bekezdésében meghatározott esetben az (1) bekezdésben meghatározott határidőt megelőzően kellő időben intézkedik a büntetés-végrehajtási pártfogó felügyelői környezettanulmány beszerzése érdekében a bv. intézetnél működő büntetés-végrehajtási pártfogó felügyelő kijelölésével, illetve ha az a bv. intézet székhelyétől eltér, az elítélt által megjelölt letelepedés helye szerint illetékes bv. intézet megkeresésével.
+
+## (2b) Ha a feltételes szabadságra bocsátásról való döntésnek a Btk. 38. § (6) bekezdése alapján van helye, az előterjesztéshez csatolandó gyámhatósági vélemény elkészítése érdekében a bv. intézet az (1) bekezdésben meghatározott határidőt megelőző két hónappal, illetve, ha a Btk. 92-92/B. §-a szerinti beszámításra figyelemmel indokolt, haladéktalanul megkeresi az elítélt kiskorú gyermekének lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyámhivatalt.
+
+## (2c) A (2b) bekezdés szerinti megkeresésben utalni kell arra, ha a Btk. 92-92/B. §-a szerinti beszámításra figyelemmel a gyámhatósági véleményt soron kívül kell elkészíteni, továbbá az érintett hozzátartozó megnevezésével arra, ha az elítélt a hozzátartozója sérelmére elkövetett nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett, a Btk. 459. § (1) bekezdés 26. pontja szerinti személy elleni erőszakos bűncselekmény miatt kiszabott szabadságvesztést tölt.”

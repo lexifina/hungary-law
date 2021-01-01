@@ -1,0 +1,3 @@
+## 107. § A 9/2018. (VI. 11.) IM rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha a bíróság perújítás, felülvizsgálat, törvényesség érdekében emelt jogorvoslat vagy jogegységi eljárás folytán hozott határozatban a pénzbüntetést vagy a bűnügyi költség megfizetésére kötelezést, a vagyonelkobzást vagy az elkobzást mellőzi, vagy ilyen kötelezést alacsonyabb mértékben állapít meg, ideértve – a pénzbüntetés esetét kivéve –, ha arról egyszerűsített felülvizsgálat során határozott, a Be. 856. § (2) bekezdése alapján a visszatérítésről hozott rendelkezés végrehajtása iránt azt a GH-t, illetve azt a bűnjelkezelőt kell megkeresni, amelynek az értesítőlapot vagy a Bv. tv. 32. § (4) bekezdése szerinti határozat rendelkező részét megküldték.”

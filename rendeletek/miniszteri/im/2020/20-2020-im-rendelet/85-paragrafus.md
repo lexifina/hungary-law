@@ -1,0 +1,3 @@
+## 84. § A 16/2014. (XII. 19.) IM rendelet 52. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) A biztonsági elkülönítés esetén a Bv. tv. 146. § (5) bekezdése szerint el kell végezni az elítélt orvosi vizsgálatát és azt a biztonsági elkülönítés tartama alatt legalább hetente meg kell ismételni, továbbá ha annak a Bv. tv. 150. § (3) bekezdésében foglalt feltételei fennállnak, biztosítani kell az elítélt viselkedésének elektronikus megfigyelési eszközzel történő nyomonkövetését. A biztonsági elkülönítést nem lehet megkezdeni, vagy azt meg kell szüntetni, ha a bv. orvos vagy a pszichológus a biztonsági elkülönítés megkezdését vagy folytatását nem javasolja. Ha az elítélt állapota rendeződik, a biztonsági elkülönítést vagy annak hátralévő részét végre kell hajtani.”

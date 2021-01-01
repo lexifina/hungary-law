@@ -1,0 +1,1 @@
+## „(3) Ha a bíróság az érintett, valamint egyes szerv őrizetében hagyott vagy kezelésére bízott bűnjel elkobzásáról határozott, erről a bírósági bűnjelkezelő a BGH-t a jogerős vagy véglegessé vált határozat megküldésével haladéktalanul értesíti.”

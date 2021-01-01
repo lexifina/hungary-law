@@ -1,0 +1,3 @@
+## 94. § A 16/2014. (XII. 19.) IM rendelet 106. §-a a következő (1) bekezdéssel egészül ki:
+
+## „(1) A bv. intézet annak az elítéltnek a kimaradása, az eltávozása vagy a látogató bv. intézeten kívüli fogadása engedélyezése során, aki a hozzátartozója sérelmére elkövetett nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett, a Btk. 459. § (1) bekezdés 26. pontja szerinti személy elleni erőszakos bűncselekmény miatt kiszabott szabadságvesztést tölt vagy ilyen szabadságvesztés vár vele szemben végrehajtásra, beszerzi az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentést.”

@@ -1,0 +1,1 @@
+## „(8) A Bv. tv. 185. § (8) bekezdése esetén az ott meghatározottak szerint a büntetés-végrehajtási pártfogó felügyelő a várható szabadulásról értesíti az elítélt kiskorú gyermekének lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyámhivatalt.”

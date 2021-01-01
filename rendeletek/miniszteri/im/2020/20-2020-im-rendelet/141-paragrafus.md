@@ -1,0 +1,3 @@
+## 140. § A 12/2018. (VI. 12.) IM rendelet 49. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A telekommunikációs eszköz használata során torzításmentes kép- és hangfelvétel csak az annak megismerésére jogosultak felé közvetíthető, ennek érdekében számukra szükség szerint önálló közvetítő készüléket vagy más kép, illetve hang folyamatos továbbítására alkalmas technikai eszközt kell biztosítani. Ha a telekommunikációs eszköz használata során a különösen védett tanú, a fedett nyomozó vagy a titkosan együttműködő személy személyazonosságának megállapítására alkalmas egyedi tulajdonságainak torzítására került sor, különös figyelmet kell fordítani arra, hogy a torzításmentes kép- és hangfelvételt kizárólag a bíróság tagja láthassa.”

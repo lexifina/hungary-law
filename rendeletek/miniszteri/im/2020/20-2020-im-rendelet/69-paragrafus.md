@@ -1,0 +1,1 @@
+## „(3) Ha a fogvatartott egészségi állapota a magánelzárás megkezdését vagy további végrehajtását akadályozza, a fegyelmi jogkör gyakorlója a bv. orvos vagy a pszichológus javaslatára a végrehajtást elhalasztja, illetve félbeszakítja. Ha ez az állapot megszűnik, a magánelzárást vagy annak hátralévő részét végre kell hajtani.”

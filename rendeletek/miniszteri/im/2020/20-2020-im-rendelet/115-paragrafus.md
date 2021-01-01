@@ -1,0 +1,3 @@
+## 114. § A 9/2018. (VI. 11.) IM rendelet 70. §-a helyébe a következő rendelkezés lép:
+
+## „70. § Ha a bíróság az elektronikus adat végleges hozzáférhetetlenné tételét az elektronikus adat eltávolításával rendeli el, a határozatra eredeti bírói aláírással ellátott felhívást vezet, amelyben a kötelezettet azonnali vagy legfeljebb a határozat közlésétől számított egy munkanapon belüli önkéntes teljesítésére hívja fel, vagy a határozat kiadmányához ilyen felhívást csatol, és azt megküldi az Avt. szerint az állami adó- és vámhatóságnak a végrehajtás foganatosítása érdekében, továbbá az értesítőlapot a bíróság székhelye szerint illetékes bv. csoportnak is megküldi.”
