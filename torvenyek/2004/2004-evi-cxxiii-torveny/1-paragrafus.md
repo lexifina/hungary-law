@@ -26,7 +26,7 @@ d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 
 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
 
-3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelőszülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
+3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelőszülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
 
 4. ösztöndíjas foglalkoztatási jogviszony: az e törvény szerinti, szakmai készségek megszerzése céljából munkatapasztalat-szerzés biztosítására és ennek keretében az egyéni szakmai programban foglalt feladatok ellátására létrejött jogviszony;
 
@@ -38,7 +38,7 @@ d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 
 – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és
 
-– munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati vagy kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
+– munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati vagy kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
 
 7. foglalkoztató: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. és 2. §-a, a kormányzati igazgatásról szóló törvény (a továbbiakban: Kit.) 2. §-a, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény, a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXV. törvény hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet és egyéni cég;
 

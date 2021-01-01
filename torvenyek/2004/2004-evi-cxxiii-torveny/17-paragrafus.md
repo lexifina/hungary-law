@@ -6,7 +6,7 @@
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
 
-a) az állami adóhatóság és Nemzeti Foglalkoztatási Alap, a Nyugdíjbiztosítási Alap, valamint az Egészségbiztosítási Alap közötti elszámolás tartalmát és részletes szabályait,
+a) az állami adóhatóság és foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap, a Nyugdíjbiztosítási Alap, valamint az Egészségbiztosítási Alap közötti elszámolás tartalmát és részletes szabályait,
 
 b) a START kártya, a START PLUSZ kártya, a START EXTRA kártya és a START BÓNUSZ kártya felhasználásának és – a (4) bekezdésben foglaltak kivételével – az azokhoz kapcsolódó szociális hozzájárulási kedvezmény érvényesítésének részletes szabályait a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben megállapítsa.
 
