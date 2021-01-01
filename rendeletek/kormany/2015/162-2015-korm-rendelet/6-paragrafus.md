@@ -14,17 +14,20 @@ bc) 12 hónap időtartamot meghaladó képzési elemnél arányosan az éves ren
 
 ## nem haladja meg.
 
-(2a)[^20] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
+(2a)[^24] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
 
-(3)[^21] A (2) bekezdésben foglaltak alkalmazása érdekében az egyetem kérésére a rezidens szabadságának, illetve betegszabadságának időtartamára vonatkozó információkat az ÁEEK az egyetem rendelkezésére bocsátja.
+(3)[^25] A (2) bekezdésben foglaltak alkalmazása érdekében az egyetem kérésére a rezidens szabadságának, illetve betegszabadságának időtartamára vonatkozó információkat az OKFŐ az egyetem rendelkezésére bocsátja.
 
 (4) Ha a képzési elem teljesítése során igénybe vett szabadság vagy betegszabadság időtartama a (2) bekezdés b) pontja szerinti időtartamot meghaladja, az adott képzési elem a szabadság vagy betegszabadság időtartamának megfelelő azon szakterület szerinti gyakorlati idő igazolásával elismerhető el, amelynek elismerésére a szabadság vagy betegszabadság miatt nem került sor.
 
-(5) A szakképzés ideje alatt az Eütev. 11/B. § (6) bekezdése alapján ügyeleti feladatellátást a rezidens a képzőhellyel kötött szabadfoglalkozású jogviszony keretében, kötelező felelősségbiztosítási szerződés megkötése nélkül végezhet.
+(5)[^26]
 
-(6) A szabadfoglalkozású jogviszony alapján végzett egészségügyi tevékenység az Eütev. 12/G. § (1) bekezdésében foglaltak alkalmazásával végezhető azzal, hogy az ügyeleti tevékenységet követő pihenőnap a szakképzés teljesítésébe beleszámít.
+(6)[^27]
 
-(7) Az Eütev. 11/B. § (7) bekezdésének alkalmazásában munkaidőkeretként – az ügyeleti feladatellátás helyétől függően – a képzőhely által meghatározott munkaidőkeretet kell figyelembe venni.
+(7)[^28]
 
-[^20]: A 6. § (2a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
-[^21]: A 6. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^24]: A 6. § (2a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
+[^25]: A 6. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^26]: A 6. § (5) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^27]: A 6. § (6) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^28]: A 6. § (7) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.

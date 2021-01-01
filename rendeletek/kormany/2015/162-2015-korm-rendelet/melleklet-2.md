@@ -20,7 +20,7 @@
 
 1.8. pénzügyi körzet,
 
-1.9.[^131] NEAK (Nemzeti Egészségbiztosítási Alapkezelő) finanszírozási kód,
+1.9.[^163] NEAK (Nemzeti Egészségbiztosítási Alapkezelő) finanszírozási kód,
 
 1.10. bankszámlaszám, bankszámlát vezető pénzintézet neve.
 
@@ -44,4 +44,4 @@
 
 3.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
 
-[^131]: A 2. melléklet 1. pont 1.9. alpontja a 379/2016. (XII. 2.) Korm. rendelet 299. § m) pontja szerint módosított szöveg.
+[^163]: A 2. melléklet 1. pont 1.9. alpontja a 379/2016. (XII. 2.) Korm. rendelet 299. § m) pontja szerint módosított szöveg.

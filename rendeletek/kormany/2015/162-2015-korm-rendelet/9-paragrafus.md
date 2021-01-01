@@ -1,6 +1,6 @@
-## 6. [^28] Az ÁEEK feladata a szakképzéssel összefüggésben
+## 6. [^36] Az ÁEEK feladata a szakképzéssel összefüggésben
 
-9. § (1)[^29] A szakorvos képzéssel összefüggésben az ÁEEK
+9. § (1)[^37] A szakorvos képzéssel összefüggésben az OKFŐ
 
 a) működteti az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 116/A. § (4) bekezdése szerinti nyilvántartást,
 
@@ -18,10 +18,11 @@ g) végzi az intézményi akkreditációt,
 
 h) vezeti a tutori névjegyzéket,
 
-i) az Eütev.-ben, valamint e rendeletben foglaltaknak megfelelően gyakorolja a munkáltatói jogokat a támogatott szakképzésben részt vevő rezidensek tekintetében.
+i)[^38]
 
-(2)[^30] Az ÁEEK az (1) bekezdés d) és g) pontja szerinti feladatokat az egyetemekkel együttműködésben látja el.
+(2)[^39] Az OKFŐ az (1) bekezdés d) és g) pontja szerinti feladatokat az egyetemekkel együttműködésben látja el.
 
-[^28]: A 6. alcím címe a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
-[^29]: A 9. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
-[^30]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^36]: A 6. alcím címe a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^37]: A 9. § (1) bekezdés nyitó szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^38]: A 9. § (1) bekezdés i) pontját az 529/2020. (XI. 28.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^39]: A 9. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

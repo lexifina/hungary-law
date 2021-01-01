@@ -1,12 +1,12 @@
-22. §[^64] (1) Ha a támogatott szakképesítés megszerzését megelőzően a rezidens
+22. §[^88] (1) Ha a támogatott szakképesítés megszerzését megelőzően a rezidens
 
-a) az ÁEEK-tól külföldi munkavégzéshez szükséges hatósági bizonyítvány kiállítását kezdeményezi, és a szakképzése szüneteltetését az ÁEEK részére nem jelezte,
+a)[^89] az OKFŐ-től külföldi munkavégzéshez szükséges hatósági bizonyítvány kiállítását kezdeményezi, és a szakképzése szüneteltetését az OKFŐ részére nem jelezte,
 
 b) a szakképzéshez kapcsolódó, foglalkoztatásra irányuló jogviszonyát megszünteti,
 
 c) az egyetemmel megkötött szakképzési megállapodását felmondja, és egyidejűleg más egyetemmel szakképzési megállapodást nem létesít, vagy
 
-d) teljesítéséről a képzőhely és az egyetem egyike sem ad tájékoztatást a 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen egybefüggően legalább hat hónap időtartam tekintetében, és a rezidens a szakképzés szüneteltetését nem jelezte az ÁEEK részére,
+d)[^90] teljesítéséről a képzőhely és az egyetem egyike sem ad tájékoztatást a 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen egybefüggően legalább hat hónap időtartam tekintetében, és a rezidens a szakképzés szüneteltetését nem jelezte az OKFŐ részére,
 
 az a)–d) pontban foglaltakról történő tudomásszerzést követően az ÁEEK haladéktalanul felszólítja a rezidenst, hogy 30 napon belül nyilatkozzon arról, hogy a támogatott szakképzést a 21/A. §-ban foglalt határidőn belül be kívánja-e fejezni.
 
@@ -22,12 +22,17 @@ a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és b) pont bb) 
 
 (4) Ha a rezidens a (3) bekezdés a) pontja szerinti nyilatkozatot tesz, a (3) bekezdés szerinti összeg kamatmentes visszafizetésére köteles.
 
-(5) A (2) bekezdés és a (3) bekezdés b) pontja szerinti esetekben a (2), illetve a (3) bekezdés szerinti összeg kamatokkal terhelt mértékben adók módjára behajthatóvá válik. A kamatszámítás kezdő napja azon hónapot követő hónap első napja, amely tekintetében az ÁEEK a rezidens támogatott képzése teljesítéséről utoljára információval rendelkezik.
+(5)[^91] A (2) bekezdés és a (3) bekezdés b) pontja szerinti esetekben a (2), illetve a (3) bekezdés szerinti összeg kamatokkal terhelt mértékben adók módjára behajthatóvá válik. A kamatszámítás kezdő napja azon hónapot követő hónap első napja, amely tekintetében az OKFŐ a rezidens támogatott képzése teljesítéséről utoljára információval rendelkezik.
 
-(6) Mentesül a visszatérítési kötelezettség alól a rezidens, ha egészségügyi okból válik alkalmatlanná a szakképzés befejezésére. A mentesítésről az ÁEEK főigazgatója független szakorvosi vélemény alapján dönt.
+(6)[^92] Mentesül a visszatérítési kötelezettség alól a rezidens, ha egészségügyi okból válik alkalmatlanná a szakképzés befejezésére. A mentesítésről az OKFŐ főigazgatója független szakorvosi vélemény alapján dönt.
 
-(7) Ideiglenesen mentesül a visszafizetési kötelezettség alól az a rezidens, aki a szakvizsga megszerzését a 21/A. § alapján meghatározott határidőig vállalta, azonban valamely méltányolható ok miatt nem tudja teljesíteni, de a határidő lejártakor igazoltan képzésben vesz részt. Az ideiglenes mentesítésről az ÁEEK főigazgatója dönt a méltányolható ok figyelembevételével. A mentesítés feltétele, hogy a rezidens képzését irányító intézmény nyilatkozzon a szakképzés befejezésének várható időpontjáról, és ezen időpontig a rezidens vállalja a szakvizsga letételét.
+(7)[^93] Ideiglenesen mentesül a visszafizetési kötelezettség alól az a rezidens, aki a szakvizsga megszerzését a 21/A. § alapján meghatározott határidőig vállalta, azonban valamely méltányolható ok miatt nem tudja teljesíteni, de a határidő lejártakor igazoltan képzésben vesz részt. Az ideiglenes mentesítésről az OKFŐ főigazgatója dönt a méltányolható ok figyelembevételével. A mentesítés feltétele, hogy a rezidens képzését irányító intézmény nyilatkozzon a szakképzés befejezésének várható időpontjáról, és ezen időpontig a rezidens vállalja a szakvizsga letételét.
 
 (8) Ha a rezidens a (7) bekezdésben meghatározott határidőig nem szerez szakvizsgát, a (2)–(5) bekezdés szerint köteles a támogatás visszatérítésére.
 
-[^64]: A 22. § a a 250/2017. (IX. 5.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^88]: A 22. § a a 250/2017. (IX. 5.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^89]: A 22. § (1) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) és n) pontja szerint módosított szöveg.
+[^90]: A 22. § (1) bekezdés d) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^91]: A 22. § (5) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^92]: A 22. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^93]: A 22. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
