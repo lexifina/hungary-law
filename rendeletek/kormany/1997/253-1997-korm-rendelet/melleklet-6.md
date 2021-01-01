@@ -20,7 +20,7 @@
 
 |  | Mesterséges vízfelület szigetelt mederrel, állandó vízborítottsággal, állandó vízi élővilággal | 75% |
 
-6. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^433]
+6. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^438]
 
 A gépjárműtároló kialakításának méretei
 
@@ -42,4 +42,4 @@ A félesésű szakaszok helyett 20 m sugarú lekerekítés is lehet. Négy áll�
 
 Mozgáskorlátozottak legkisebb álláshely-szélessége: 3,6 m. Kisméretű gépjárművek számára a közforgalom számára nem megnyitott gépjárműtárolókban az álláshelyek legfeljebb 30%-ának mértékéig a helyigény 4,1 × 2,2 méterre csökkenthető. A járművek be- és kiállását épületszerkezet, egyéb tárgy nem nehezítheti, ezért szükség esetén a méreteket növelni kell. Zsákutcás elrendezés esetén a visszafordulás lehetőségét biztosítani kell.
 
-[^433]: A 6. számú mellékletet a 182/2008. (VII. 14.) Korm. rendelet 51. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján rendelkezéseit a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^438]: A 6. számú mellékletet a 182/2008. (VII. 14.) Korm. rendelet 51. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján rendelkezéseit a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-253-20-
 | 2018-12-05 | 1997-253-20-22.49 | 217/2018. (XI. 27.) Korm. rendelet |
 | 2019-06-04 | 1997-253-20-22.50 | 121/2019. (V. 27.) Korm. rendelet |
 | 2019-11-27 | 1997-253-20-22.51 | 269/2019. (XI. 19.) Korm. rendelet |
+| 2021-01-01 | 1997-253-20-22.52 | 700/2020. (XII. 29.) Korm. rendelet |

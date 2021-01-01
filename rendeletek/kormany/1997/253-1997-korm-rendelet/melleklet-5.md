@@ -10,7 +10,7 @@
 
 ## 4. vendéglátó önálló rendeltetési egység fogyasztóterének minden megkezdett 5 m2 nettó alapterülete után (beleértve a terasz, kerthelyiség területét is),
 
-## 5. bölcsőde, mini bölcsőde, alap- és középfokú nevelési, oktatási önálló rendeltetési egység minden foglalkoztatója és/vagy tanterme nettó alapterületének minden megkezdett 20 m2-e után,
+## 5. bölcsőde, mini bölcsőde, családi bölcsőde, munkahelyi bölcsőde, óvodai nevelési, alap- és középfokú nevelési, oktatási önálló rendeltetési egység minden foglalkoztatója és/vagy tanterme nettó alapterületének minden megkezdett 20 m2-e után,
 
 ## 6. felsőfokú nevelési, oktatási és kutatási önálló rendeltetési egység oktatási és kutatási helyiségeinek minden megkezdett 20 m2 nettó alapterülete után,
 
@@ -72,6 +72,6 @@
 
 ## 17. hajléktalanszálló, szállás jellegű önálló rendeltetési egység huzamos tartózkodás céljára szolgáló irodai helyiségeinek minden megkezdett 20 m2 nettó alapterülete után.
 
-5. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^432]
+5. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^437]
 
-[^432]: Az eredeti 4. számú melléklet számozását a 36/2002. (III. 7.) Korm. rendelet – a Magyar Közlöny 2002. évi 36. számában megjelent helyesbítésének megfelelő – 19. §-a 5. számú mellékletre változtatta. Az 5. számú melléklet a 90/2012. (IV. 26.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^437]: Az eredeti 4. számú melléklet számozását a 36/2002. (III. 7.) Korm. rendelet – a Magyar Közlöny 2002. évi 36. számában megjelent helyesbítésének megfelelő – 19. §-a 5. számú mellékletre változtatta. Az 5. számú melléklet a 90/2012. (IV. 26.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.

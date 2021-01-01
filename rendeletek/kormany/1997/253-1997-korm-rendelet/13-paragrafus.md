@@ -1,8 +1,8 @@
 ## Kertvárosias lakóterület
 
-13. § (1)[^47] A kertvárosias lakóterület laza beépítésű, összefüggő nagy kertes, több önálló rendeltetési egységet magába foglaló, 7,5 m-es beépítési magasságot meg nem haladó elsősorban lakó rendeltetésű épületek elhelyezésére szolgál.
+13. § (1)[^48] A kertvárosias lakóterület laza beépítésű, összefüggő nagy kertes, több önálló rendeltetési egységet magába foglaló, 8 m-es beépítési magasságot meg nem haladó elsősorban lakó rendeltetésű épületek elhelyezésére szolgál.
 
-(2)[^48] A kertvárosias lakóterületen elhelyezhető épület – a lakó rendeltetésen kívül –:
+(2)[^49] A kertvárosias lakóterületen elhelyezhető épület – a lakó rendeltetésen kívül –:
 
 a) a helyi lakosság ellátását szolgáló kereskedelmi, szolgáltató,
 
@@ -16,11 +16,11 @@ e) sport
 
 rendeltetést is tartalmazhat.
 
-(3)[^49]
+(3)[^50]
 
-(4)[^50]
+(4)[^51]
 
-[^47]: A 13. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § a) és b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^48]: A 13. § (2) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 49. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^49]: A 13. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 5. pontja hatályon kívül helyezte.
-[^50]: A 13. § (4) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 5. pontja hatályon kívül helyezte.
+[^48]: A 13. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § a) és b) pontja, a 700/2020. (XII. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^49]: A 13. § (2) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 49. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^50]: A 13. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 5. pontja hatályon kívül helyezte.
+[^51]: A 13. § (4) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 5. pontja hatályon kívül helyezte.

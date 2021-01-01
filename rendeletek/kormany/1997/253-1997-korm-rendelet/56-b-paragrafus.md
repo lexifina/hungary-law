@@ -1,6 +1,6 @@
-## Természeti erőforrások fenntartható használata[^224]
+## Természeti erőforrások fenntartható használata[^225]
 
-## 56/B. §[^225] Az építmény és annak részeinek tervezése, megvalósítása és bontása során törekedni kell az alábbi fenntarthatósági szempontokra:
+## 56/B. §[^226] Az építmény és annak részeinek tervezése, megvalósítása és bontása során törekedni kell az alábbi fenntarthatósági szempontokra:
 
 a) egészséges, a káros anyagoktól mentes belső környezet, a használók kellemes közérzetét biztosító belső kialakítás,
 
@@ -16,5 +16,5 @@ f) az ökológiai értékek védelme, amely magában foglalja a védett termész
 
 g) az életciklus vizsgálata.
 
-[^224]: Az 56/B. §-t megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 8. §-a iktatta be.
-[^225]: Az 56/B. §-t a 211/2012. (VII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^225]: Az 56/B. §-t megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^226]: Az 56/B. §-t a 211/2012. (VII. 30.) Korm. rendelet 8. §-a iktatta be.

@@ -1,4 +1,4 @@
-10/A. §[^38] (1) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény (a továbbiakban: Trtv.) 1/1. melléklet 2–81. pontjában meghatározott településeken (a továbbiakban: Agglomerációs település) – a Trtv.-ben meghatározott követelmények teljesítése mellett – új lakóterület csak akkor jelölhető ki, ha a meglévő lakóterületek beépítettségének vizsgálatát követően megállapítható, hogy a lakóterületi fejlesztési igényt a település csak új lakóterület kijelölésével tudja biztosítani.
+10/A. §[^39] (1) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény (a továbbiakban: Trtv.) 1/1. melléklet 2–81. pontjában meghatározott településeken (a továbbiakban: Agglomerációs település) – a Trtv.-ben meghatározott követelmények teljesítése mellett – új lakóterület csak akkor jelölhető ki, ha a meglévő lakóterületek beépítettségének vizsgálatát követően megállapítható, hogy a lakóterületi fejlesztési igényt a település csak új lakóterület kijelölésével tudja biztosítani.
 
 (2) Az Agglomerációs településen az új lakóterület kijelölése során biztosítani kell
 
@@ -14,4 +14,4 @@ c) a fővárossal való kapcsolatát biztosító úthálózati elemek, különö
 
 d) a lakóterület területhatárán belül legalább egy játszóteret és pihenést, rekreációt szolgáló zöldterületet.
 
-[^38]: A 10/A. §-t a 269/2019. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^39]: A 10/A. §-t a 269/2019. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
