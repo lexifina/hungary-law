@@ -18,18 +18,18 @@ azzal szemben természetes személy esetén 1 000 000 Ft-ig, jogi személy vagy 
 
 (1a) Az (1) bekezdésben meghatározott jogsértő magatartások elkövetésekor víziközlekedési esemény és víziközlekedési baleset esetén természetes személlyel szemben legfeljebb 50 000 forintig, jogi személlyel és jogi személyiséggel nem rendelkező szervezettel szemben legfeljebb 200 000 forintig terjedő bírság szabható ki.
 
-(2) A bírság összegének megállapításánál a közlekedésbiztonsági szerv figyelembe veszi:
+(2) A bírság összegének megállapításánál a közlekedésbiztonsági szerv a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett figyelembe veszi:
 
 a) a szakmai vizsgálat akadályozásának mértékét,
 
 b) a közlekedésbiztonság veszélyeztetésének mértékét,
 
-c) az érintett vagyoni helyzetét és jövedelmi viszonyait,
+c) az érintett vagyoni helyzetét és jövedelmi viszonyait, továbbá
 
-d) a közlekedési tevékenység jellegét és nagyságrendjét, továbbá
-
-e) a bírságnak ugyanabban a szakmai vizsgálatban történő ismételt kiszabása esetén az előző bírságolások számát és mértékét.
+d) a közlekedési tevékenység jellegét és nagyságrendjét.
 
 (3) A szakmai vizsgálat során a bírság ismételten is kiszabható.
 
-(4)–(6)
+(4) Közigazgatási szankcióként figyelmeztetés az (1) bekezdés a)–d) pontja szerinti közigazgatási szabályszegés miatt nem alkalmazható.
+
+(5)–(6)
