@@ -10,10 +10,10 @@
 
 ## A barna prémium keretében adott támogatás mértéke
 
-1. Biogázból (ide nem értve a hulladéklerakóból származó gázt és a szennyvízkezelő létesítményben előállított gázt) előállított villamos energia támogatott ára: 29,03 Ft/kWh.
+1. Biogázból (ide nem értve a hulladéklerakóból származó gázt és a szennyvízkezelő létesítményben előállított gázt) előállított villamos energia támogatott ára: 29,76 Ft/kWh.
 
-2. Hulladéklerakóból származó gázból előállított villamos energia támogatott ára: 17,39 Ft/kWh.
+2. Hulladéklerakóból származó gázból előállított villamos energia támogatott ára: 17,82 Ft/kWh.
 
 Az 1. és 2. pont szerinti támogatási mértékek nem vonatkoznak az alternatív barna prémium esetére.
 
-[^12]: A 7. melléklet a 18/2019. (XII. 23.) MEKH rendelet 4. §-ával megállapított szöveg.
+[^12]: A 7. melléklet a 11/2020. (XII. 11.) MEKH rendelet 1. §-ával megállapított szöveg.
