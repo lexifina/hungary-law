@@ -18,7 +18,7 @@ g)[^8]
 
 h)[^9]
 
-i)[^10]
+i) 25. § (1) bekezdésében az „A 2016. október 11-i SA.46346 (2016/N). számú” szövegrész helyébe az „Az SA.58164 (2020/N) számú ügyben hozott C(2020) 6769 számú, 2020. október 7-i” szöveg
 
 [^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -29,4 +29,3 @@ i)[^10]
 [^7]: A 2. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: A 2. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^9]: A 2. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 2. § i) pontja a 10. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

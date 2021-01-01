@@ -1,3 +1,3 @@
-## 3. §[^11]
+## 3. §[^10]
 
-[^11]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
