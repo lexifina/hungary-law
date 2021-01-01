@@ -1,1 +1,1 @@
-27. §
+27. § Hatályát veszti az Lt. 66/A. § (1) bekezdésében az „– a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló miniszteri rendeletben meghatározottak szerint –” szövegrész.
