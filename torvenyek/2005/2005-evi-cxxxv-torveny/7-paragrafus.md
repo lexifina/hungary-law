@@ -2,13 +2,7 @@
 
 7. § (1) A kárenyhítést egy összegben vagy havi járadékként kell fizetni.
 
-(2) Egyösszegű kárenyhítésként az áldozat a bűncselekmény miatt bekövetkezett vagyoni kárának teljes vagy részbeni megtérítését igényelheti. Az egyösszegű kárenyhítés mértéke:
-
-a) az alapösszeg ötszörösét meg nem haladó kár 100 százaléka,
-
-b) az alapösszeg ötszöröse és tízszerese közötti kár esetén az alapösszeg 5-szöröse, és az alapösszeg ötszöröse feletti rész 75 százaléka,
-
-c) az alapösszeg tízszeresét meghaladó kár esetén az alapösszeg 8,75-szöröse, és az alapösszeg tízszerese feletti rész 50 százaléka, de legfeljebb az alapösszeg tizenötszöröse.
+(2) Egyösszegű kárenyhítésként az áldozat a bűncselekmény miatt bekövetkezett vagyoni kárának teljes vagy részbeni megtérítését igényelheti. Az egyösszegű kárenyhítés mértéke legfeljebb az alapösszeg tizenötszöröse.
 
 (3) A sértett bűncselekmény miatt bekövetkezett keresőképtelensége esetén – ha a keresőképtelenség várhatóan a 6 hónapot meghaladja – az áldozat járadék formájú kárenyhítésként a rendszeres jövedelmében bekövetkezett csökkenés részbeni enyhítését igényelheti. A járadék havi mértéke:
 

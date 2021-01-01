@@ -4,7 +4,7 @@
 
 a) az áldozat kárának vagy jövedelemcsökkenésének mértékét,
 
-b) az áldozat rászorultságát és a kárenyhítésre való jogosultságát,
+b) az áldozat kárenyhítésre való jogosultságát,
 
 c) a kárenyhítésre okot adó bűncselekmény és a bekövetkezett kár, jövedelemcsökkenés közötti ok-okozati összefüggést.
 

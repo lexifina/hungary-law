@@ -12,7 +12,7 @@ d) az áldozatsegítésben részt vevő állami, önkormányzati, civil szerveze
 
 e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
 
-(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül (az áldozat szükségleteire vonatkozóan a rendelkezésére álló adatok alapján, azokhoz igazodóan) írásban tájékoztatja az ügyfelet arról, hogy támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
+(2) Ha az áldozatsegítő szolgálat – ide nem értve a 43/A. § (3) bekezdésében foglaltakat – más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül, az áldozat szükségleteire vonatkozóan a rendelkezésére álló adatok alapján, azokhoz igazodóan írásban tájékoztatja az ügyfelet arról, hogy támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
 
 (3) Ha az áldozatsegítő szolgálat megállapítja, hogy a hozzá forduló harmadik országbeli állampolgár emberkereskedelem áldozata, – az (1) bekezdésében foglaltakon túl – tájékoztatja arról is, hogy
 

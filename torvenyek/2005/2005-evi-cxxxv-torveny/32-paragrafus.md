@@ -2,7 +2,7 @@
 
 32. § (1) A kárenyhítés iránti kérelemben – a 10. §-ban foglaltakon túl – meg kell jelölni
 
-a) a rászorultság megállapításához szükséges adatokat [jövedelemre vonatkozó adatok, az áldozattal egy háztartásban élő személyek száma és a jövedelmükre vonatkozó adatok, vagy a 6. § (3) bekezdése szerinti adatok],
+a)
 
 b) az igényelt kárenyhítés formáját,
 
@@ -18,11 +18,11 @@ g) azt, hogy az áldozat ellen a 8. § h) pontjában meghatározott bűncselekm�
 
 (2) A kérelemhez az alábbi dokumentumokat kell csatolni:
 
-a) a jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő kérelmező kivételével a jövedelemre vonatkozó igazolást,
+a)
 
 b) a testi épség, egészség súlyos károsodását igazoló szakértői véleményt vagy orvosi dokumentumokat.
 
-(3) Egyösszegű kárenyhítés iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a kár mértékét igazoló iratokat (pl. számla, nyugta vagy más bizonylat) is.
+(3) Egyösszegű kárenyhítés iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a kár mértékét igazoló iratokat (pl. számla, nyugta, előzetes árajánlat vagy egyéb dokumentum) is.
 
 (4) Járadék iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a keresőképtelenséget igazoló és annak várható időtartamát valószínűsítő szakértői véleményt vagy orvosi igazolást is.
 

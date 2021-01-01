@@ -4,6 +4,6 @@
 
 (2) Az eljárás irataiba a 16. § (4) és (5) bekezdésében megjelölt személyek és hatóságok is betekinthetnek.
 
-(3) Az áldozatsegítő szolgálat eljárásában írásbelinek nem minősíthető elektronikus úton nem tart kapcsolatot az ügyféllel.
+(3)
 
-(4) Az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
+(4)

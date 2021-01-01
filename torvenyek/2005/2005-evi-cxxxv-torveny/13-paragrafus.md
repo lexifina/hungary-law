@@ -12,7 +12,7 @@ d) a bíróság, az ügyészség és a nyomozó hatóság a büntetőeljárás �
 
 e) a szabálysértési hatóság, illetve a bíróság a szabálysértési eljárás állásáról,
 
-f) az erre hatáskörrel rendelkező hatóság a 6. § (3) bekezdésében megjelölt jogosultságokról
+f)
 
 tájékoztatja az áldozatsegítő szolgálatot.
 

@@ -4,7 +4,7 @@
 
 ## A kárenyhítés igénybevételére jogosult áldozat
 
-6. § (1) Kárenyhítésre az a rászoruló áldozat jogosult,
+6. § (1) Kárenyhítésre az az áldozat jogosult,
 
 a) akinek sérelmére szándékos, személy elleni erőszakos bűncselekményt követtek el, s ennek következményeként testi épsége, egészsége súlyosan károsodott,
 
@@ -14,26 +14,6 @@ c) akinek eltartására az a) pontban meghatározott bűncselekmény következt�
 
 d) aki a szándékos, személy elleni erőszakos bűncselekmény következtében meghalt sértett eltemettetéséről gondoskodott.
 
-(2) Rászorulónak tekintendő az áldozat, ha havi nettó jövedelme – közös háztartásban élők esetén az egy főre eső jövedelem – nem haladja meg az alapösszeg kétszeresét (a továbbiakban: rászoruló).
+(2)
 
-(3) Jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő az az áldozat, aki
-
-a) aktív korúak ellátására jogosult, vagy időskorúak járadékában részesül,
-
-b) adósságkezelési szolgáltatás, lakásfenntartási támogatás jogosultja,
-
-c) a családjában olyan gyermeket gondoz, akinek rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
-
-d) számára egészségügyi szolgáltatás igénybevétele céljából a szociális rászorultságot megállapították,
-
-e) gyermekek otthongondozási díjában vagy ápolási díjban, közgyógyellátásban, rokkantsági járadékban részesül,
-
-f) fogyatékossági támogatásra, vakok személyi járadékára vagy magasabb összegű családi pótlékra jogosult,
-
-g) átmeneti szállást vagy éjjeli menedékhelyet igénybe vevő hajléktalan személy,
-
-h) családok, gyermekek átmeneti otthonát igénybe vevő személy,
-
-i) Magyarország területén menekültügyi eljárás alatt álló személy,
-
-j) terrorcselekmény áldozatává vált.
+(3)
