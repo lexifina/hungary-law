@@ -1,5 +1,3 @@
-## A honvédelmi és gazdasági felkészülés központi kiadásaira a 2017. évi költségvetési törvényben jóváhagyott előirányzatok felosztása
-
 | Felelős | Feladat | Részfeladat | Jóváhagyott előirányzat | Költségvetési fejezet összesen |
 
 | Médiaszolgáltatás- támogató Vagyonkezelő Alap | Közszolgálati média különleges jogrend időszaki működésre történő felkészítése | A közszolgálati média normáltól eltérő működési feltételeinek biztosítása (új szükségstúdió távközlési és kommunikációs költsége) | 25 millió Forint | I. Országgyűlés összesen: 25 millió Forint |
@@ -78,4 +76,6 @@
 
 | Összesen: |  | 497 millió Forint | 497 millió Forint |
 
-2. melléklet az 1464/2017. (VII. 25.) Korm. határozathoz
+2. melléklet az 1464/2017. (VII. 25.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
