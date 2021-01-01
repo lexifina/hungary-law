@@ -61,3 +61,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2020-07-16 | 2020. évi XCIV. törvény | 2004-1-00-00.68 |
 | 2020-07-20 | 2020. évi XCV. törvény | 2004-1-00-00.69 |
 | 2020-07-22 | 2020. évi LXXXI. törvény | 2004-1-00-00.70 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 2004-1-00-00.71 |

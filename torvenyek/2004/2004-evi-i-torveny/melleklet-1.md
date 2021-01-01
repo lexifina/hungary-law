@@ -166,17 +166,45 @@ Budapest, 74232
 
 |
 
+Budapest, 74327/1
+
+|
+
+Újpesti Torna Egylet
+
+(székhely: Budapest 1044, Megyeri út 13.)
+
+|
+
+12.
+
+|
+
+Budapest, 74324
+
+|
+
+Újpesti Torna Egylet
+
+(székhely: Budapest 1044, Megyeri út 13.)
+
+|
+
+13.
+
+|
+
 Budapest, 38852/6
 
 |
 
 Magyar Testgyakorlók Köre
 
-(székhely: Budapest 1073, Erzsébet krt. 24. I. emelet)
+(székhely: Budapest 1087, Salgótarjáni út 12–14.)
 
 |
 
-12.
+14.
 
 |
 
@@ -186,11 +214,11 @@ Budapest, 38821/4
 
 Magyar Testgyakorlók Köre
 
-(székhely: Budapest 1073, Erzsébet krt. 24. I. emelet)
+(székhely: Budapest 1087, Salgótarjáni út 12–14.)
 
 |
 
-12a.
+15.
 
 |
 
@@ -202,11 +230,39 @@ Budapest, 4465
 
 Magyar Testgyakorlók Köre
 
-(székhely: Budapest 1073, Erzsébet krt. 24. I. emelet)
+(székhely: Budapest 1087, Salgótarjáni út 12–14.)
 
 |
 
-13.
+16.
+
+|
+
+Budapest, 38820/3
+
+|
+
+Magyar Testgyakorlók Köre
+
+(székhely: Budapest 1087, Salgótarjáni út 12–14.)
+
+|
+
+17.
+
+|
+
+Budapest, 38831
+
+|
+
+Magyar Testgyakorlók Köre
+
+(székhely: Budapest 1087, Salgótarjáni út 12–14.)
+
+|
+
+18.
 
 |
 
@@ -220,7 +276,7 @@ Vasas Sport Club
 
 |
 
-14.
+19.
 
 |
 
@@ -234,7 +290,7 @@ Vasas Sport Club
 
 |
 
-15.
+20.
 
 |
 
@@ -244,13 +300,13 @@ Budapest, 29834/8
 
 |
 
-Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
 
 (székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-16.
+21.
 
 |
 
@@ -258,29 +314,29 @@ Budapest, 29834/12
 
 |
 
-Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
 
 (székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-17.
+22.
 
 |
 
 Budapest, 29834/15
 
-(81751/83751 tulajdoni hányad arányában)
+(2000/83751 tulajdoni hányad arányában)
 
 |
 
-Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
 
 (székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-18.
+23.
 
 |
 
@@ -294,7 +350,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-19.
+24.
 
 |
 
@@ -310,7 +366,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-20.
+25.
 
 |
 
@@ -326,7 +382,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-21.
+26.
 
 |
 
@@ -340,7 +396,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-22.
+27.
 
 |
 
@@ -348,4 +404,4 @@ Budapest, 38826
 
 |
 
-Magyar Lovassport Szövetség
+Magyar Lovassport Szövetség”
