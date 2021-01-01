@@ -2,7 +2,7 @@
 
 8. § (1) A vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását
 
-a) a biztosítási szerződés különös szerződési feltételeket tartalmazó része eredeti vagy közjegyző által hitelesített másolati példánya, a biztosítási kötvény eredeti vagy közjegyző által hitelesített másolati példánya és a biztosítási díjjal rendezett időszakról – ideértve a díjhalasztást is – a biztosító által kiállított igazolás eredeti vagy közjegyző által hitelesített másolati példánya vagy
+a)[^1] a biztosítási szerződés általános és különös szerződési feltételeket tartalmazó része eredeti vagy közjegyző által hitelesített másolati példánya, a biztosítási kötvény eredeti vagy közjegyző által hitelesített másolati példánya és a biztosítási díjjal rendezett időszakról – ideértve a díjhalasztást is – a biztosító által kiállított igazolás eredeti vagy közjegyző által hitelesített másolati példánya vagy
 
 b) a garanciaszerződés eredeti vagy közjegyző által hitelesített másolat példánya
 
@@ -35,3 +35,5 @@ k) a kötvényfeltételeket,
 l) a biztosított tevékenység megnevezését.
 
 (3) Az (1) bekezdésben foglaltaktól eltérően a vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását tanúsító iratokat a tevékenységet végzők másolatban is benyújthatják, ha a benyújtással egyidejűleg nyilatkoznak arról, hogy a benyújtott másolat az eredetivel mindenben megegyezik.
+
+[^1]: A 8. § (1) bekezdés a) pontja a 722/2020. (XII. 31.) Korm. rendelet 51. §-a szerint módosított szöveg.

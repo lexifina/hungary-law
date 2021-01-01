@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-529-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-529-20-22.1 | 529/2017. (XII. 29.) Korm. rendelet |
+| 2021-01-01 | 2017-529-20-22.2 | 722/2020. (XII. 31.) Korm. rendelet |
