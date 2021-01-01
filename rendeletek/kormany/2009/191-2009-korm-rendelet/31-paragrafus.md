@@ -2,9 +2,9 @@
 
 ## AZ ÉPÍTŐIPARI KIVITELEZÉSI TEVÉKENYSÉG BEFEJEZÉSE
 
-## Elektronikus teljesítésigazolás és műszaki átadás-átvétel[^281]
+## Elektronikus teljesítésigazolás és műszaki átadás-átvétel[^287]
 
-31. §[^282] (1) Az elektronikus teljesítésigazolási naplóban elektronikus teljesítésigazolás (a továbbiakban: e-teljesítésigazolás) kitöltésére kerül sor az építtető és a fővállalkozó kivitelező vagy a megrendelő vállalkozó kivitelező és az alvállalkozó kivitelező között létrejött szerződés alapján, ha a fő- vagy alvállalkozó kivitelező az általa vállalt szerződés tárgya szerinti építési tevékenységet a szerződésben foglaltak, a jogszabályban előírtak és a kivitelezési dokumentációban meghatározottak szerint elvégezte és ezt az építtetőnek vagy – alvállalkozói szerződés esetén – a megrendelő vállalkozó kivitelezőnek az elektronikus teljesítésigazolási naplóba rögzítve jelenti.
+31. §[^288] (1) Az elektronikus teljesítésigazolási naplóban elektronikus teljesítésigazolás (a továbbiakban: e-teljesítésigazolás) kitöltésére kerül sor az építtető és a fővállalkozó kivitelező vagy a megrendelő vállalkozó kivitelező és az alvállalkozó kivitelező között létrejött szerződés alapján, ha a fő- vagy alvállalkozó kivitelező az általa vállalt szerződés tárgya szerinti építési tevékenységet a szerződésben foglaltak, a jogszabályban előírtak és a kivitelezési dokumentációban meghatározottak szerint elvégezte és ezt az építtetőnek vagy – alvállalkozói szerződés esetén – a megrendelő vállalkozó kivitelezőnek az elektronikus teljesítésigazolási naplóba rögzítve jelenti.
 
 (2) A fő-, illetve alvállalkozói szerződés esetén az alvállalkozó kivitelező vagy erre irányuló felhatalmazás esetén a felelős műszaki vezetőjük a közös helyszíni bejárás során az e-főnaplóban, illetve az e-alnaplóban, jegyzőkönyvben rögzített mennyiségi és minőségi hibák, hiányosságok kijavítását követően az e-teljesítésigazolási naplóban rögzíti a szerződésben vállalt és elvégzett tevékenységet tartalmazó teljesítési összesítőt.
 
@@ -22,5 +22,5 @@ c) a felelős műszaki vezető a 13. § (3) bekezdés m) pontja szerint meghatá
 
 részére.
 
-[^281]: A 31. §-t megelőző alcím a 109/2013. (IV. 9.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.
-[^282]: A 31. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^287]: A 31. §-t megelőző alcím a 109/2013. (IV. 9.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^288]: A 31. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.

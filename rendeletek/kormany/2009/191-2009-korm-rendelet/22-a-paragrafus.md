@@ -1,8 +1,8 @@
-22/A. §[^205] (1) A kivitelezési dokumentációban az Étv. 31. § (2) bekezdésében és 41. §-ában meghatározott követelmények teljesítéséről a tervezőnek nyilatkozni kell.
+22/A. §[^210] (1) A kivitelezési dokumentációban az Étv. 31. § (2) bekezdésében és 41. §-ában meghatározott követelmények teljesítéséről a tervezőnek nyilatkozni kell.
 
-(2)–(3)[^206]
+(2)–(3)[^211]
 
 (4) Ha a tervdokumentációban meghatározott építési terméket a kivitelezés során más építési termékkel szükséges helyettesíteni, akkor a helyettesítő építési terméket a 13. § (3) bekezdés p) pontjában előírtak szerint kell megválasztani. A tervdokumentációban meghatározott építési termék helyettesítésének tényét és körülményeit az építési naplóban rögzíteni kell.
 
-[^205]: A 22/A. §-t a 322/2012. (XI. 16.) Korm. rendelet 77. §-a iktatta be.
-[^206]: A 22/A. § (2)–(3) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^210]: A 22/A. §-t a 322/2012. (XI. 16.) Korm. rendelet 77. §-a iktatta be.
+[^211]: A 22/A. § (2)–(3) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.

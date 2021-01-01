@@ -1,42 +1,42 @@
 ## Az építtetői fedezetkezelés és az építtetői fedezetkezelő
 
-17. § (1)[^129] Az építtetői fedezetkezelő az építtető és a fővállalkozó kivitelező között létrejött kivitelezési szerződés mindkét fél általi teljesítését segíti elő.
+17. § (1)[^134] Az építtetői fedezetkezelő az építtető és a fővállalkozó kivitelező között létrejött kivitelezési szerződés mindkét fél általi teljesítését segíti elő.
 
 (2) Az építőipari kivitelezési tevékenység fedezete és a kivitelező által nyújtott biztosíték célhoz kötött felhasználásának biztosítása érdekében építtetői fedezetkezelő működik közre
 
-a)[^130]
+a)[^135]
 
 b) a Kbt. hatálya alá nem tartozó, de a Kbt. szerinti közösségi értékhatárt elérő vagy azt meghaladó – (3) bekezdés szerint számított – értékű építőipari kivitelezési tevékenység
 
 megvalósítása esetén.
 
-(3)[^131] A (2) bekezdés b) pontja szerinti építési beruházás, építőipari kivitelezési tevékenység értéke
+(3)[^136] A (2) bekezdés b) pontja szerinti építési beruházás, építőipari kivitelezési tevékenység értéke
 
 a) az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet (a továbbiakban: Épbír.) szerint számított építményérték vagy
 
-b)[^132] az Épbír. hatálya alá nem tartozó építménykör esetén az építési tevékenység végzésére vonatkozó fővállalkozói kivitelezési szerződésben megállapított, általános forgalmi adó nélkül számított kivitelezési érték,
+b)[^137] az Épbír. hatálya alá nem tartozó építménykör esetén az építési tevékenység végzésére vonatkozó fővállalkozói kivitelezési szerződésben megállapított, általános forgalmi adó nélkül számított kivitelezési érték,
 
 amely meghatározásánál egybe kell számítani az azonos építtető által, azonos vagy egymáshoz kapcsolódó földterületen, az azonos rendeltetésű vagy a rendeltetésében egymáshoz szorosan kacsolódó új építmények vagy meglévő építményen végzett építőipari kivitelezési tevékenység értékét, melyek kivitelezése két éven belül megkezdődik.
 
 (4) Az építtetői fedezetkezelői feladatokat
 
-a)[^133]
+a)[^138]
 
-b)[^134] a (2) bekezdés b) pontja esetében – az építtető és fővállalkozó kivitelező választása szerint – a Magyar Államkincstár (a továbbiakban: Kincstár) vagy fizetési számla vezetésére jogosult pénzforgalmi szolgáltató
+b)[^139] a (2) bekezdés b) pontja esetében – az építtető és fővállalkozó kivitelező választása szerint – a Magyar Államkincstár (a továbbiakban: Kincstár) vagy fizetési számla vezetésére jogosult pénzforgalmi szolgáltató
 
 látja el.
 
-(5)[^135]
+(5)[^140]
 
 (6) Az építtető köteles az építtetői fedezetkezelővel írásban fedezetkezelői szerződést kötni.
 
-(7)[^136] Az építtetői fedezetkezelő kötelező közreműködése a kivitelezési szerződés hatálybalépésétől – a (8) bekezdés és a 20. § (6) bekezdés szerinti eset kivételével – az építőipari kivitelezési tevékenység befejezéseként benyújtott végszámla kiegyenlítését követő elszámolás lezárásáig terjed.
+(7)[^141] Az építtetői fedezetkezelő kötelező közreműködése a kivitelezési szerződés hatálybalépésétől – a (8) bekezdés és a 20. § (6) bekezdés szerinti eset kivételével – az építőipari kivitelezési tevékenység befejezéseként benyújtott végszámla kiegyenlítését követő elszámolás lezárásáig terjed.
 
-(8)[^137] A fedezetkezelői szerződés megszűnik,
+(8)[^142] A fedezetkezelői szerződés megszűnik,
 
 a) ha a fővállalkozó kivitelező – több fővállalkozó kivitelező esetén, valamennyi fővállalkozó kivitelező – vagy az építtető
 
-aa)[^138] az építőipari kivitelezésre vonatkozó kivitelezési szerződést felmondja,
+aa)[^143] az építőipari kivitelezésre vonatkozó kivitelezési szerződést felmondja,
 
 ab) az építtetői fedezetkezelő a teljesítésigazolás alapján számlázott kivitelezési tevékenység ellenértékét – legfeljebb a fedezetkezelői számlán rendelkezésre álló összeg erejéig – kiegyenlítette és
 
@@ -50,31 +50,31 @@ bb) a teljesítésigazolás alapján számlázott kivitelezési tevékenység el
 
 bc) az építtetői fedezetkezelő a rendelkezése alá helyezett pénzügyi eszközökkel az építtető és a fővállalkozó kivitelező felé elszámolt.
 
-(9)[^139] A fedezetkezelői szerződés tartalmazza:
+(9)[^144] A fedezetkezelői szerződés tartalmazza:
 
-a)[^140] az építtető nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
+a)[^145] az építtető nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
 
-b)[^141] az építtetői fedezetkezelő megnevezését, cégjegyzékszámát (a Kincstár esetében törzskönyvi nyilvántartási számát), adószámát, pénzforgalmi számlaszámát, címét, telefonszámát, elektronikus elérhetőségét,
+b)[^146] az építtetői fedezetkezelő megnevezését, cégjegyzékszámát (a Kincstár esetében törzskönyvi nyilvántartási számát), adószámát, pénzforgalmi számlaszámát, címét, telefonszámát, elektronikus elérhetőségét,
 
 c) az építtető által – az építési beruházás rendeltetéséhez igazodóan – alkalmazott vagy megbízott építési műszaki ellenőr megnevezését, nyilvántartás számát és névjegyzéki jelét,
 
-d)[^142] az építési beruházás meghatározását, kezdő és befejezési időpontját és ellenértékét, helyét, a beruházás ellenértékét, a kivitelezés várható kezdő és befejezési időpontját, a kivitelezés szakaszolása esetén a szakaszok meghatározását, kezdő és befejezési időpontját és ellenértékét,
+d)[^147] az építési beruházás meghatározását, kezdő és befejezési időpontját és ellenértékét, helyét, a beruházás ellenértékét, a kivitelezés várható kezdő és befejezési időpontját, a kivitelezés szakaszolása esetén a szakaszok meghatározását, kezdő és befejezési időpontját és ellenértékét,
 
-e)[^143] az építtetői fedezetkezelőnek a kivitelezési szerződés teljesítéséhez kapcsolódó feladatait és jogait,
+e)[^148] az építtetői fedezetkezelőnek a kivitelezési szerződés teljesítéséhez kapcsolódó feladatait és jogait,
 
 f) a fedezetkezelői számlaszámot, valamint az építtető részéről annak igazolását, hogy a fedezetkezelői számla felett biztosította az építtetői fedezetkezelő rendelkezési jogát,
 
-g)[^144] a fővállalkozó kivitelező által nyújtott – a kivitelezési szerződésben meghatározott – biztosítékok mértékét, módját, rendeltetésének célját, felhasználási lehetőségét,
+g)[^149] a fővállalkozó kivitelező által nyújtott – a kivitelezési szerződésben meghatározott – biztosítékok mértékét, módját, rendeltetésének célját, felhasználási lehetőségét,
 
-h)[^145] a fedezetkezelés díját, fizetési módját, határidejét és megfizetésének biztosítékait,
+h)[^150] a fedezetkezelés díját, fizetési módját, határidejét és megfizetésének biztosítékait,
 
 i) a fedezetkezelési díj nem fizetése esetén felszámítandó késedelmi kamat mértékét,
 
 j) az építtetői fedezetkezelő jogszabályi előíráson túlmenő feladatait és felelősségét,
 
-k)[^146]
+k)[^151]
 
-l)[^147] az építtető által adott nyilatkozatot, melyben az építtető kijelenti, hogy az e rendeletben meghatározottak szerint elfogadja az építési műszaki ellenőr által kiadott teljesítésigazolást és az ez alapján – számla, vagy számlával azonos tekintet alá eső számviteli bizonylat (a továbbiakban együtt: számla) ellenében – a fővállalkozónak (alvállalkozónak) történő pénzügyi teljesítést,
+l)[^152] az építtető által adott nyilatkozatot, melyben az építtető kijelenti, hogy az e rendeletben meghatározottak szerint elfogadja az építési műszaki ellenőr által kiadott teljesítésigazolást és az ez alapján – számla, vagy számlával azonos tekintet alá eső számviteli bizonylat (a továbbiakban együtt: számla) ellenében – a fővállalkozónak (alvállalkozónak) történő pénzügyi teljesítést,
 
 m) az építtetői fedezetkezelő által okozott kár megtérítésének szabályait,
 
@@ -90,13 +90,13 @@ r) az építtető által biztosított fedezetek megnevezését és azok rendelke
 
 s) a fedezetként rendelkezésre álló mobilizálható pénzeszközözök elfogadhatóságára vonatkozó szabályokat, minősítését, számszerűsítését, értékét,
 
-t)[^148] az államháztartás központi alrendszereiből biztosított forrás felhasználása esetén a forrást rendelkezésre bocsátó szervezet megnevezését.
+t)[^153] az államháztartás központi alrendszereiből biztosított forrás felhasználása esetén a forrást rendelkezésre bocsátó szervezet megnevezését.
 
-(10)[^149]
+(10)[^154]
 
-(11)[^150] Az építtető a kivitelezési szerződést a szerződés hatályának beálltát követő öt munkanapon belül, a kivitelezési szerződés módosítását a módosítás megtörténtét követő öt munkanapon belül megküldi az építtetői fedezetkezelő részére.
+(11)[^155] Az építtető a kivitelezési szerződést a szerződés hatályának beálltát követő öt munkanapon belül, a kivitelezési szerződés módosítását a módosítás megtörténtét követő öt munkanapon belül megküldi az építtetői fedezetkezelő részére.
 
-(12)[^151]
+(12)[^156]
 
 (13) Az építtetői fedezetkezelés díját az építtető köteles megfizetni.
 
@@ -104,29 +104,29 @@ t)[^148] az államháztartás központi alrendszereiből biztosított forrás fe
 
 (15) Az építtetői fedezetkezelő köteles megőrizni a tevékenysége körében tudomására jutott védett adatot, valamint köteles gondoskodni a személyes adatok védelméről.
 
-(16)[^152]
+(16)[^157]
 
-[^129]: A 17. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
-[^130]: A 17. § (2) bekezdés a) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
-[^131]: A 17. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 72. §-ával megállapított szöveg.
-[^132]: A 17. § (3) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 15. pontja szerint módosított szöveg.
-[^133]: A 17. § (4) bekezdés a) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
-[^134]: A 17. § (4) bekezdés b) pontja a 215/2010. (VII. 9.) Korm. rendelet 5. § (2) bekezedése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
-[^135]: A 17. § (5) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § l) pontja hatályon kívül helyezte.
-[^136]: A 17. § (7) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 11. pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^137]: A 17. § (8) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^138]: A 17. § (8) bekezdés a) pont aa) alpontja a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
-[^139]: A 17. § (9) bekezdés nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^140]: A 17. § (9) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
-[^141]: A 17. § (9) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 13/2019. (II. 11.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^142]: A 17. § (9) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § j) pontja szerint módosított szöveg.
-[^143]: A 17. § (9) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^144]: A 17. § (9) bekezdés g) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^145]: A 17. § (9) bekezdés h) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 12. pontja szerint módosított szöveg.
-[^146]: A 17. § (9) bekezdés k) pontját a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^147]: A 17. § (9) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
-[^148]: A 17. § (9) bekezdés t) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 14. pontja, a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 2. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 127. §-át.
-[^149]: A 17. § (10) bekezdését a 13/2019. (II. 11.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
-[^150]: A 17. § (11) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (10) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^151]: A 17. § (12) bekezdését a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^152]: A 17. § (16) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § l) pontja hatályon kívül helyezte.
+[^134]: A 17. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^135]: A 17. § (2) bekezdés a) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^136]: A 17. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 72. §-ával megállapított szöveg.
+[^137]: A 17. § (3) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 15. pontja szerint módosított szöveg.
+[^138]: A 17. § (4) bekezdés a) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^139]: A 17. § (4) bekezdés b) pontja a 215/2010. (VII. 9.) Korm. rendelet 5. § (2) bekezedése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^140]: A 17. § (5) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § l) pontja hatályon kívül helyezte.
+[^141]: A 17. § (7) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 11. pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^142]: A 17. § (8) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^143]: A 17. § (8) bekezdés a) pont aa) alpontja a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^144]: A 17. § (9) bekezdés nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^145]: A 17. § (9) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^146]: A 17. § (9) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 13/2019. (II. 11.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^147]: A 17. § (9) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § j) pontja szerint módosított szöveg.
+[^148]: A 17. § (9) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^149]: A 17. § (9) bekezdés g) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^150]: A 17. § (9) bekezdés h) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 12. pontja szerint módosított szöveg.
+[^151]: A 17. § (9) bekezdés k) pontját a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^152]: A 17. § (9) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
+[^153]: A 17. § (9) bekezdés t) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 14. pontja, a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 2. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 127. §-át.
+[^154]: A 17. § (10) bekezdését a 13/2019. (II. 11.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^155]: A 17. § (11) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (10) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^156]: A 17. § (12) bekezdését a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^157]: A 17. § (16) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § l) pontja hatályon kívül helyezte.

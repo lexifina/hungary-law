@@ -1,8 +1,8 @@
-32. §[^283] (1) Az építési beruházás építési tevékenységének befejezésekor műszaki átadás-átvételi eljárást kell lefolytatni. A műszaki átadási-átvételi eljárás résztvevőit a fővállalkozó kivitelező e-főnaplóban jelzett kezdeményezésére az építtető hívja össze. Az építtető az eljárás meghatározott időpontjának, az építési engedély számának és az építés helyszínének az e-főnaplóba történő bejegyzésével értesíti az illetékes építésfelügyeleti hatóságot, a fővállalkozó kivitelezőt és egyéb érdekelteket.
+32. §[^289] (1) Az építési beruházás építési tevékenységének befejezésekor műszaki átadás-átvételi eljárást kell lefolytatni. A műszaki átadási-átvételi eljárás résztvevőit a fővállalkozó kivitelező e-főnaplóban jelzett kezdeményezésére az építtető hívja össze. Az építtető az eljárás meghatározott időpontjának, az építési engedély számának és az építés helyszínének az e-főnaplóba történő bejegyzésével értesíti az illetékes építésfelügyeleti hatóságot, a fővállalkozó kivitelezőt és egyéb érdekelteket.
 
-(2)[^284] A műszaki átadás-átvételi eljárás célja annak ellenőrzése, hogy az építtető és a fővállalkozó kivitelező közötti kivitelezési szerződés tárgya szerinti építési tevékenység vagy a technológiai szerelés a szerződésben és jogszabályban előírtak alapján, a kivitelezési dokumentációban meghatározottak szerint maradéktalanul megvalósult-e, és a teljesítés megfelel-e az előírt műszaki és a szerződésben vállalt egyéb követelményeknek és jellemzőknek.
+(2)[^290] A műszaki átadás-átvételi eljárás célja annak ellenőrzése, hogy az építtető és a fővállalkozó kivitelező közötti kivitelezési szerződés tárgya szerinti építési tevékenység vagy a technológiai szerelés a szerződésben és jogszabályban előírtak alapján, a kivitelezési dokumentációban meghatározottak szerint maradéktalanul megvalósult-e, és a teljesítés megfelel-e az előírt műszaki és a szerződésben vállalt egyéb követelményeknek és jellemzőknek.
 
-(3)[^285] Az építtető vagy az általa megbízott építési műszaki ellenőr vagy beruházási tanácsadó köteles a fővállalkozó kivitelező által megjelölt időpontra kitűzött műszaki átadás-átvételi eljárás során megvizsgálni az elvégzett építési tevékenységgel a kivitelezési szerződésben foglaltak teljesülését.
+(3)[^291] Az építtető vagy az általa megbízott építési műszaki ellenőr vagy beruházási tanácsadó köteles a fővállalkozó kivitelező által megjelölt időpontra kitűzött műszaki átadás-átvételi eljárás során megvizsgálni az elvégzett építési tevékenységgel a kivitelezési szerződésben foglaltak teljesülését.
 
 (4) A műszaki átadás-átvételi eljárásról elektronikus jegyzőkönyvet (a továbbiakban: e-jegyzőkönyvet) kell készíteni és azt az e-főnaplóhoz mellékletként csatolni.
 
@@ -42,6 +42,6 @@ b) a 16. § (3) bekezdés p) pontja szerinti esetben e-műszaki igazolást áll�
 
 (10) Építtetői fedezetkezelő közreműködése esetén a fő- vagy megrendelő vállalkozó kivitelező köteles a teljesítéséről, részteljesítéséről kiállított számlája benyújtásának időpontjáig a teljesítésben, részteljesítésben megjelenő, vele szerződéses viszonyban álló alvállalkozó kivitelező teljesítésének, részteljesítésnek pénzügyi elszámolását elvégezni, amely magába foglalja az e-teljesítésigazolás kiállítását és az alvállalkozó részéről a számla benyújtását. A vállalkozó kivitelező a benyújtott számlája teljes körű kiegyenlítésére – a 21/A. §-ban foglalt kivétellel – csak akkor jogosult, ha a kötelezettsége teljesítésében részt vevő alvállalkozó kivitelezők követelését kiegyenlítette, függetlenül azok fizetési határidejétől.
 
-[^283]: A 32. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.
-[^284]: A 32. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
-[^285]: A 32. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^289]: A 32. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^290]: A 32. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
+[^291]: A 32. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
