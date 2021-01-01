@@ -42,7 +42,9 @@ s) a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állam
 
 t) a népművészeti és népi iparművészeti alkotások minősítési feltételeit, a minősítő címek körét, továbbá a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat,
 
-u) a közgyűjtemények és a közművelődési intézmények névviselésének és névhasználatának szabályait.
+u) a közgyűjtemények és a közművelődési intézmények névviselésének és névhasználatának szabályait,
+
+v) a webtartalom begyűjtésének eljárási szabályait, a begyűjtés módját és rendszerességét, a begyűjtés szempontjainak meghatározását, a webarchiválás alól kivételt képező webtartalmak körét, a tartalomszolgáltatók kötelezettségeit, az archivált webtartalom használatának feltételeit és lehetőségeit.
 
 (2)
 

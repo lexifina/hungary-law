@@ -6,7 +6,9 @@ a) a muzeális intézményekre, fenntartóikra és foglalkoztatottaikra, a kultu
 
 b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvtárakra, azok fenntartóira, alkalmazottaira és a kiadványok kötelespéldányainak szolgáltatóira,
 
-c) a közművelődési feladatot ellátókra, a közösségi színterek és a közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.
+c) a közművelődési feladatot ellátókra, a közösségi színterek és a közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira,
+
+d) a webtartalomra és a tartalomszolgáltatókra.
 
 (2) A könyvtári dokumentumok védelmére és nyilvántartására vonatkozó szabályok tekintetében e törvény hatálya kiterjed a nem nyilvános könyvtárakra is.
 

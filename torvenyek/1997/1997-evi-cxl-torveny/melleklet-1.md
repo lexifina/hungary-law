@@ -32,6 +32,8 @@ k) Könyvtári gyűjtemény: a könyvtár tervszerűen fejlesztett, rendezett, f
 
 l) Könyvtári szakember: a könyvtáros, a könyvtári informatikus, a könyvtári asszisztens, a segédkönyvtáros továbbá a könyvtári feladatok ellátásához szükséges más felső- vagy középfokú végzettséggel rendelkező személy. A könyvtáros felsőfokú szakirányú végzettséggel rendelkező szakember.
 
+ly) Tartalomszolgáltató: az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti szolgáltató, aki webtartalmat tesz közzé a honlapon, ide nem értve a közvetítő szolgáltatókat.
+
 m) Könyvtárközi dokumentumellátás:
 
 – a dokumentumok lelőhelyének nyilvántartása és adatszolgáltatás a nyilvántartásból az igénylők részére,
@@ -41,6 +43,8 @@ m) Könyvtárközi dokumentumellátás:
 – a könyvtárak gyűjteményéből kivont dokumentumok hasznosítása a könyvtári rendszer számára.
 
 n) Könyvtárközi kölcsönzés: valamely dokumentum szolgáltatása egyik könyvtárból a másikba, beleértve az eredeti dokumentum kölcsönzését, a másolatok szolgáltatását, valamint a könyvtárközi dokumentumszolgáltatásra vonatkozó kérések közvetítését is.
+
+ny) Webaratás: a webarchiválás olyan módszere, amellyel a hivatkozással összekapcsolt webtartalmak speciális szoftverrel kerülnek begyűjtésre.
 
 o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
 
@@ -55,6 +59,8 @@ s) Népművészet: valamely népművészeti ág (népköltészet, népzene, nép
 sz) Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei, és egyéb bizonyítékai – az ingatlanok kivételével –, a művészeti alkotások.
 
 t) Múzeumi küldetésnyilatkozat: a múzeumok szakmai tevékenységét megalapozó írott dokumentum, amely az e törvényben meghatározott feladatok teljesítése érdekében a gyűjtemények, valamint a szakmai és tárgyi infrastruktúra alapján rögzíti a múzeum belső és külső adottságait, továbbá ennek alapján kijelöli helyi társadalmi szerepvállalásának stratégiai céljait.
+
+ty) Webarchívum: az archivált webtartalmakból álló, metaadatokkal ellátott gyűjtemény.
 
 u) Népi iparművészet: a népművészeti tárgyi örökség tudatos, esetenként szervezett és irányított keretekben megvalósult továbbélése, a kreatív iparban is megjelenő, a népi hagyományokon alapuló stílusjegyeket hordozó művészeti alkotások.
 

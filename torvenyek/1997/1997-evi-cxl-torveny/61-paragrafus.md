@@ -38,6 +38,10 @@ m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos K�
 
 n) részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében,
 
-o) a könyvtári intézet szakmailag önálló szervezeti egységként való működtetése.
+o) a könyvtári intézet szakmailag önálló szervezeti egységként való működtetése,
+
+p) a webtartalom begyűjtése és archiválása, valamint
+
+q) a webarchívum használatának biztosítása a könyvtárhasználók részére.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.

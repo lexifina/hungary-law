@@ -10,7 +10,9 @@ d) a határon túli magyarok könyvtári ellátásának segítése,
 
 e) a hazai nemzetiségek könyvtári ellátásának segítése,
 
-f) a nemzetközi szabványos dokumentumazonosító számok kiadása és nyilvántartása.
+f) a nemzetközi szabványos dokumentumazonosító számok kiadása és nyilvántartása,
+
+g) a webarchiválás feladatának ellátása a digitális kulturális örökség megőrzése érdekében.
 
 (2) Az 59. § (1) és (4) bekezdésében és az e § (1) bekezdésében felsorolt, valamint további, a könyvtári rendszer működése és fejlesztése érdekében a miniszter által meghatározott szolgáltatásokat mindazokban az esetekben, amelyekben a jelen törvény erről nem rendelkezik, az a nyilvános könyvtár vagy intézmény teljesíti, amellyel a miniszter a feladat ellátására megállapodást köt.
 

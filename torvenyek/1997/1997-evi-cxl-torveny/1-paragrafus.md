@@ -24,4 +24,8 @@ fb) megismerkedjen a település történetével, a hagyományokkal, normákkal;
 
 fc) a település népességének tagjaként kifejezze, milyen értékek, célok, fejlesztési irányok fontosak számára, részt vegyen a közösségi életének fejlesztésében és a közös jövőkép megfogalmazásában; ezekhez állandó helyszínt vehessen igénybe;
 
-fd) lakóhelyén szakmai segítséget vegyen igénybe az önfejlesztéshez, az önműveléshez, a közös értékek kifejezéséhez, megéléséhez, a közös célok megfogalmazásához, a tevékenységek színvonalának biztosításához.
+fd) lakóhelyén szakmai segítséget vegyen igénybe az önfejlesztéshez, az önműveléshez, a közös értékek kifejezéséhez, megéléséhez, a közös célok megfogalmazásához, a tevékenységek színvonalának biztosításához,
+
+g) gondoskodni a digitális formában, interneten szolgáltatott és nyilvánosságra hozott tartalom (a továbbiakban: webtartalom) archiválásáról, használatának biztosításáról, valamint
+
+h) szabályozni a webtartalom archiválásával kapcsolatos feladatok ellátását, az archivált webtartalmak használatának lehetőségeit.
