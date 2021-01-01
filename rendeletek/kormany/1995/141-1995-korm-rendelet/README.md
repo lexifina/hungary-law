@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-141-20-
 | 2019-07-25 | 1995-141-20-22.33 | 167/2019. (VII. 9.) Korm. rendelet |
 | 2019-12-28 | 1995-141-20-22.34 | 348/2019. (XII. 23.) Korm. rendelet |
 | 2020-08-22 | 1995-141-20-22.35 | 402/2020. (VIII. 17.) Korm. rendelet |
+| 2021-01-01 | 1995-141-20-22.36 | 722/2020. (XII. 31.) Korm. rendelet |

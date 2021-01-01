@@ -1,4 +1,4 @@
-1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^75]
+1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^77]
 
 Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és közigazgatási szervek, valamint az egyes szervezetek által nyújtandó tájékoztatások
 
@@ -378,4 +378,4 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 23. | AD 2.24 | A repülőtérrel kapcsolatos navigációs térképek | nem |  |
 
-[^75]: Az 1. mellékletet a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be.
+[^77]: Az 1. mellékletet a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be.
