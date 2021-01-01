@@ -1,10 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 30. Tata Város támogatása a karsztvízszint-emelkedés okozta azonnali intézkedést igénylő feladatok végrehajtásához címmel történő kiegészítését;
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. a karsztvízszint-emelkedés okozta azonnali intézkedést igénylő feladatok végrehajtása érdekében elrendeli 327,7 millió forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 30. Tata Város támogatása a karsztvízszint-emelkedés okozta azonnali intézkedést igénylő feladatok végrehajtásához cím javára az 1. melléklet szerint;
 
@@ -14,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## 3.[^1] egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján 327,7 millió forint támogatást nyújtson Tata Város Önkormányzata (a továbbiakban: Önkormányzat) részére;
+## 3.[^2] egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján 327,7 millió forint támogatást nyújtson Tata Város Önkormányzata (a továbbiakban: Önkormányzat) részére;
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti támogatói okirat kiadását követően folyósítsa a támogatást az Önkormányzat számára;
 
@@ -35,6 +29,8 @@ a Kormány hatáskörében
 Költségvetési év: 2017.
 
 Millió forintban, egy tizedessel
+
+7K19387_0
 
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
 
@@ -86,4 +82,5 @@ Millió forintban, egy tizedessel
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 3. pont az 1082/2018. (III. 13.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 3. pont az 1082/2018. (III. 13.) Korm. határozat 5. pontja szerint módosított szöveg.
