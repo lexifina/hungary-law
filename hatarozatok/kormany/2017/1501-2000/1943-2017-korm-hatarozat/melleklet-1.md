@@ -1,20 +1,6 @@
 ## 1. egyetért azzal, hogy Pécs Megyei Jogú Város számára támogatás kerüljön biztosításra az alábbiak szerint;
 
-## 2. a) az 1. pontban foglalt cél elérése érdekében, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének az 51. Pécs Megyei Jogú Város 2017. évi finanszírozási helyzetének rendezése címmel történő kiegészítését,
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## b) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva engedélyezi a XIX. Uniós Fejlesztések fejezetnél keletkezett 6 540 000 000 forint összegű 2016. évi kötelezettségvállalással terhelt, azonban meghiúsulás miatt kötelezettségvállalással nem terheltté vált költségvetési maradvány felhasználását,
-
-## c) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. melléklet szerinti átcsoportosítást rendeli el;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. b) pont szerint biztosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés alapján 6 540 000 000 forint visszatérítendő támogatást nyújtson Pécs Megyei Jogú Város részére a támogatási szerződés aláírását követően;
 
@@ -24,7 +10,7 @@
 
 ## Határidő: azonnal
 
-## 4.[^1] felhívja a belügyminisztert, hogy a 3. pontban foglalt támogatási szerződésben a támogatás összegét és visszafizetésnek határidejét – a 2019. október 1-ig már visszafizetett 1 000 000 000 forint támogatásra figyelemmel – 5 540 000 000 forint összegre módosítsa az alábbi ütemezés szerint:
+## 4.[^2] felhívja a belügyminisztert, hogy a 3. pontban foglalt támogatási szerződésben a támogatás összegét és visszafizetésnek határidejét – a 2019. október 1-ig már visszafizetett 1 000 000 000 forint támogatásra figyelemmel – 5 540 000 000 forint összegre módosítsa az alábbi ütemezés szerint:
 
 ## a) 2020. december 1-ig 740 000 000 forint,
 
@@ -68,26 +54,8 @@
 
 ## Határidő: 2018. február 28.
 
-1. melléklet az 1943/2017. (XII. 12.) Korm. határozathoz
+1. melléklet az 1943/2017. (XII. 12.) Korm. határozathoz[^3]
 
-| A 2016. évi költségvetési maradványok átcsoportosítása |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | forint |
-
-| IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |
-
-|  | 51 |  |  |  |  |  | Pécs Megyei Jogú Város 2017. évi finanszírozási helyzetének rendezése |  |
-
-|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | 6 540 000 000 |
-
-| XIX. |  |  |  |  |  | Uniós Fejlesztések |  |  |  |
-
-|  | 2 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |
-
-|  |  | 4 |  |  |  |  |  | Nemzeti Stratégiai Referenciakeret |  |
-
-|  |  |  | 19 |  |  |  |  |  | Környezet és Energia Operatív Program |  |
-
-|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -6 540 000 000 |
-
-[^1]: A 4. pont az 1784/2020. (XI. 11.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont az 1784/2020. (XI. 11.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
