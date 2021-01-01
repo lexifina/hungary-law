@@ -1,3 +1,3 @@
-## 5. §[^5]
+## 5. § Az R. 7/B. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 9. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(1) A 2–7. §-ban foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott szabályok szerint.”

@@ -1,3 +1,1 @@
-## 6. §[^6]
-
-[^6]: A 6. § a 9. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## 6. § Az R. Melléklete az 1. melléklet szerint módosul.
