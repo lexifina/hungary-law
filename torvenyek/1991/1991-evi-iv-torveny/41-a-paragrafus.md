@@ -32,6 +32,6 @@ b) 16. §-ban meghatározott foglalkoztatás bővítését szolgáló támogatá
 
 c) 18. §-ban meghatározott munkahelyteremtés támogatásával kapcsolatos hatósági ügyben a tervezett beruházás helye szerint illetékes állami foglalkoztatási szerv,
 
-d) jogszabályban meghatározott kötelezettségét elmulasztó magán-munkaközvetítővel szemben, a rendbírság kiszabásával kapcsolatos ügyben a magán-munkaközvetítő székhelye szerinti állami foglalkoztatási szerv
+d) jogszabályban meghatározott kötelezettségét elmulasztó magán-munkaközvetítővel szemben, a közigazgatási bírság kiszabásával kapcsolatos ügyben a magán-munkaközvetítő székhelye szerinti állami foglalkoztatási szerv
 
 jár el.

@@ -1,6 +1,6 @@
 ## A foglalkoztatást elősegítő támogatások közös szabályai
 
-20. § (1) A 13/A. § (2) bekezdésében, a 14–16. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújthatók.
+20. § (1) A 13/A. § (2) bekezdésében, a 14–16. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások az Alap foglalkoztatási alaprészéből nyújthatók.
 
 (2)
 

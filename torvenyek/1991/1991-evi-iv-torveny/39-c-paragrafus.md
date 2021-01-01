@@ -1,6 +1,6 @@
-39/C. § (1) A Nemzeti Foglalkoztatási Alap bevétele:
+39/C. § (1) Az Alap bevétele:
 
-a) a társadalombiztosítási járulékból a Nemzeti Foglalkoztatási Alapot a Tbj. szerint megillető rész;
+a) a társadalombiztosítási járulékból az Alapot a Tbj. szerint megillető rész;
 
 b) a szociális hozzájárulási adónak a központi költségvetésről szóló törvényben meghatározott százaléka.
 
@@ -16,17 +16,17 @@ g) az állami foglalkoztatási szervek közreműködésével, uniós források b
 
 h)
 
-i) egyéb bevételek: a Nemzeti Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Nemzeti Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
+i) egyéb bevételek: a Gazdaságvédelmi Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Gazdaságvédelmi Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
 
 j) uniós forrás terhére megvalósuló operatív program finanszírozására szolgáló előleg;
 
 k) az Európai Globalizációs Alkalmazkodási Alaptól az 1927/2006 EK rendelet alapján társfinanszírozás címen befolyó bevétel.
 
-(2) A Nemzeti Foglalkoztatási Alapba teljesített visszafizetések azt az alaprészt növelik, amelyből a támogatást, illetőleg az ellátást folyósították.
+(2) Az Alapba teljesített visszafizetések azt az alaprészt növelik, amelyből a támogatást, illetőleg az ellátást folyósították.
 
-(3) A Nemzeti Foglalkoztatási Alapba önkéntes befizetések is teljesíthetők, amelyek közérdekű kötelezettségvállalásnak minősülnek.
+(3) Az Alapba önkéntes befizetések is teljesíthetők, amelyek közérdekű kötelezettségvállalásnak minősülnek.
 
-(4) A Nemzeti Foglalkoztatási Alap javára fennálló követelések a követelést nyilvántartó szervek döntése alapján behajthatatlannak minősíthetők. E szervek a behajthatatlan követeléseket törlik a nyilvántartásaikból.
+(4) Az Alap javára fennálló követelések a követelést nyilvántartó szervek döntése alapján behajthatatlannak minősíthetők. E szervek a behajthatatlan követeléseket törlik a nyilvántartásaikból.
 
 (5) A (4) bekezdés alkalmazásában az a követelés behajthatatlan
 

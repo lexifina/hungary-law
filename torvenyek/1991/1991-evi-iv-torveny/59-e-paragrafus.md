@@ -1,1 +1,1 @@
-59/E. § A 27. § (1) bekezdése szerinti jogosultsági időbe a 2020. július 1-jét követően szerzett a díjazás ellenében egyéb munkavégzésre irányuló jogviszonyban, mezőgazdasági őstermelői tevékenységben töltött időtartam számítható be.
+59/E. § A 27. § (1) bekezdése szerinti jogosultsági időbe a 2020. július 1-jét követően szerzett a díjazás ellenében egyéb munkavégzésre irányuló jogviszonyban, mezőgazdasági őstermelőként folytatott tevékenységben töltött időtartam számítható be.

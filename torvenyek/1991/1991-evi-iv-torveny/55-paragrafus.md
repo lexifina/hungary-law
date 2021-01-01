@@ -1,4 +1,4 @@
-55. § (1) Ha a támogatás pénzügyi fedezetéül a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének, valamint a közfoglalkoztatási támogatások előirányzatának
+55. § (1) Ha a támogatás pénzügyi fedezetéül az Alap foglalkoztatási alaprészének, valamint a közfoglalkoztatási támogatások előirányzatának
 
 a) központi kerete szolgál, a miniszter vagy az állami foglalkoztatási szerv,
 

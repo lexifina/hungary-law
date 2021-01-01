@@ -6,4 +6,4 @@
 
 (4)
 
-(5) A Nemzeti Foglalkoztatási Alap előfinanszírozásával, uniós forrás terhére megvalósuló program finanszírozása érdekében a Nemzeti Foglalkoztatási Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszter egyetértésével meghozott döntése alapján – a tárgyévet követően felhasználható.
+(5) Az Alap előfinanszírozásával, uniós forrás terhére megvalósuló program finanszírozása érdekében az Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszter egyetértésével meghozott döntése alapján – a tárgyévet követően felhasználható.

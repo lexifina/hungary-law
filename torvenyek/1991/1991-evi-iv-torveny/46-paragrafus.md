@@ -6,14 +6,12 @@ a) az ügyféltől felvilágosítást kérhet, az ellenőrzési tevékenységgel
 
 b) a személyazonosság megállapítására alkalmas okmány személyazonosító igazolvány, érvényes útlevél, kártyaformátumú vezetői engedély) felmutatására szólíthatja fel azt a személyt, akinek személyazonosságát meg kell állapítania.
 
-(3) Az állami foglalkoztatási szerv képviselője az ellenőrzés tapasztalatai alapján köteles a szükséges intézkedéseket megtenni, így különösen
+(3) Az állami foglalkoztatási szerv képviselője az ellenőrzés tapasztalatai alapján köteles a szükséges intézkedéseket megtenni, illetve szankciókat alkalmazni, így
 
 a) javaslatot tenni az álláskeresők ellátása, a foglalkoztatást elősegítő támogatás folyósításának szüneteltetésére, illetve megszüntetésére,
 
-b) az ellenőrzött személy vagy szerv figyelmét felhívni a tapasztalt jogszabálysértésre,
+b) más szervet intézkedés végett megkeresni,
 
-c) más szervet intézkedés végett megkeresni,
+c) szabálysértési, illetve bírósági eljárást kezdeményezni, vagy
 
-d) szabálysértési, illetve bírósági eljárást kezdeményezni, vagy
-
-e) rendbírságot kiszabni.
+d) közigazgatási bírságot kiszabni.

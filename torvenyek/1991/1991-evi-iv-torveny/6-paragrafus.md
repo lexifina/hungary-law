@@ -8,6 +8,10 @@
 
 a) egyes munkavállalói csoportok vagy a magán-munkaközvetítő által nyújtott egyes szolgáltatások tekintetében a (3) bekezdésben foglaltaktól eltérően rendelkezhet, továbbá
 
-b) vagyoni biztosíték meglétét írhatja elő.
+b) vagyoni biztosíték meglétét írhatja elő,
+
+c) meghatározza a tevékenység végzésétől történő eltiltás részletes feltételeit.
 
 (5) A magán munkaközvetítő tevékenység hatósági ellenőrzését ellátó szerv, valamint a munkaadók és a munkavállalók érdekképviseleti szervei az ellenőrzés céljainak meghatározásában és tapasztalatainak értékelésében együttműködnek.
+
+(6) Az állami foglalkoztatási szerv e törvény végrehajtására kiadott kormányrendeletben meghatározott jogszabálysértés esetén a magán-munkaközvetítőt a tevékenység végzésétől a döntés véglegessé válásától számított három év időtartamra eltilthatja.

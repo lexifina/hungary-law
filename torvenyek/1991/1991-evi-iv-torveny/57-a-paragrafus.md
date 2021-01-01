@@ -126,7 +126,7 @@ d) az állami adó- és vámhatóság az adókötelezettség ellenőrzése, vala
 
 e) a rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése céljából a TAJ alkalmazásával az a), valamint c)–i) pontjai,
 
-szerinti adatok igénylésére jogosult.
+szerinti adatok igénylésére jogosultak.
 
 (4) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján rehabilitációs ellátásban részesülő személyek számára történő rehabilitációs szolgáltatások biztosítása céljából e személyeknek az (1) bekezdés alapján kezelt, az (1) bekezdés a–d) és f) pontjában meghatározott adatait közvetlen hozzáféréssel átveheti.
 
