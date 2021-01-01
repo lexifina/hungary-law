@@ -4,7 +4,7 @@
 
 (2) E törvény 4. §-ának (4) bekezdése és a 13. §-a 2008. január 1. napján lép hatályba.
 
-(3) Az e törvény hatálybalépését megelőzően a környezetvédelemért felelős miniszter által jóváhagyott együttes végrehajtási projekttevékenységek e törvény szerint jóváhagyottnak minősülnek.
+(3)
 
 (4)
 
@@ -14,7 +14,7 @@ a) az Éghajlatváltozási Stratégia felülvizsgálatához szükséges nemzeti 
 
 b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
 
-c) a nemzetközi együttműködéssel megvalósuló projekttevékenységek és a nemzetközi kibocsátás-kereskedelemben való részvétel szabályait, illetve díjait;
+c)
 
 d) a forgalmi jegyzék működésének szabályait;
 
@@ -26,7 +26,7 @@ g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rend
 
 h) a nyilvántartási rendszerrel kapcsolatos adatszolgáltatási, illetve előrejelzési kötelezettség megszegése esetén fizetendő bírság összegét;
 
-i) az Európai Közösség kibocsátási egységkereskedelmi rendszerében részt vevő személyek tekintetében a nemzetközi kibocsátás-kereskedelemben való részvételi szabályokat;
+i)
 
 j) az üvegházhatású gázok jelentős mértékű kibocsátásával, illetve elnyelés általi eltávolításával járó, a tevékenység megkezdése előtt a kibocsátás, illetve elnyelés előrejelzésre kötelezett tevékenységek körét;
 
@@ -42,7 +42,7 @@ o) a klímavédelmi bírság mértékét;
 
 p) a klímavédelemért felelős hatóság kijelölését;
 
-q) az együttes végrehajtás-hitelesítői tevékenység folytatásának feltételeit, a tevékenység engedélyezésének és más EGT-államban feljogosított hitelesítő 13/D. § szerinti nyilvántartás vezetésének részletes szabályait, annak adattartalmát, , továbbá az együttes végrehajtás hitelesítői tevékenységre előírt kötelezettségek megszegése esetén alkalmazandó jogkövetkezményeket;
+q)
 
 r) a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználási céljából a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások részére az e tevékenység végzésére jogosító engedélyezési eljárás részletes szabályait;
 
@@ -50,11 +50,11 @@ s) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügy
 
 t) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző vállalkozások képesítési rendszerének, a képesítések nyilvántartásának, az igazolás kiadásának, az ahhoz fűződő formai és tartalmi követelmények meghatározásának részletes szabályait,
 
-u) az együttes végrehajtási projektek támogatásának eljárásrendjére, jóváhagyására, hitelesítésére, valamint nyomon követésére szolgáló adatszolgáltatási és jelentési rendre vonatkozó szabályokat, az e körben alkalmazható jogkövetkezményeket.
+u)
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
-a) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek vonatkozásában a felügyeleti díj megfizetésének részletes szabályait;
+a)
 
 b) a klímavédelmi felügyeleti díj megfizetésének részletes szabályait;
 
@@ -64,6 +64,6 @@ d) a fluortartalmú üvegházhatású gázokkal összefüggő tevékenységet v�
 
 rendeletben állapítsa meg.
 
-(7) Felhatalmazást kap a miniszter, hogy az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(7)
 
 (8)

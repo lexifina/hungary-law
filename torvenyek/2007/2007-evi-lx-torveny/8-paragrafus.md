@@ -1,6 +1,6 @@
 ## A kiotói egységek létrejötte és megszűnése
 
-8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
+8. § (1) A Jegyzőkönyv alapján keletkező, a nemzeti számlákon lévő kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
 (2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. Az iparügyekért felelős miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik az adott kötelezettségvállalási időszakra vonatkozóan kibocsátott a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 

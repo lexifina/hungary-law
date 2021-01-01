@@ -52,6 +52,10 @@ f) azt a tényt, hogy a közreműködő személy mely ellenőrzés alá vont üg
 
 (1l) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 
+(1m) Nem alkalmazható közigazgatási szankció, ha a jogsértő magatartásnak a klímavédelemért felelős hatóság tudomására jutásától számított egy év eltelt, illetve ha az elkövetéstől számított öt év eltelt.
+
+(1n) Ha a termék vagy berendezés az e törvényben, európai uniós jogi aktusokban vagy jogszabályokban foglalt követelményeknek nem felel meg, vagy az azokban foglalt tilalomba ütközik, a klímavédelemért felelős hatóság a jogosult a terméket vagy berendezést elkobozni, és annak megsemmisítését elrendelni. Az elkobzással és megsemmisítéssel kapcsolatban felmerült valamennyi költség a jogsértés elkövetőjét terheli.
+
 (2) Az (1) bekezdésben meghatározott célra az F-Gáz ügyfélazonosító alatt az adatbázisban kezelt adatok:
 
 a) természetes személy esetében:
