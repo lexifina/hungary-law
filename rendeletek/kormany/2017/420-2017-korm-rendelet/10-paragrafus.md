@@ -4,4 +4,6 @@ a) az áldozat és a vele közös háztartásban élők létfenntartása, megél
 
 b) a visszatérítendő összeg nagyságát,
 
-c) azt, hogy az áldozat az Ást. 6. § (3) bekezdése alapján rászorulónak minősül-e.
+c)[^4]
+
+[^4]: A 10. § c) pontját a 613/2020. (XII. 18.) Korm. rendelet 1. §-a hatályon kívül helyezte.
