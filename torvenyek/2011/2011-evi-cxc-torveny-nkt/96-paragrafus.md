@@ -10,9 +10,9 @@
 
 (3b) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos elsőfokú határozat ellen fellebbezésnek van helye.
 
-(3c)
+(3c) Amennyiben a kincstár megállapítja, hogy az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények a központi költségvetésről szóló törvényben biztosított támogatását a fenntartó jogosulatlanul veszi igénybe, a figyelmeztetést tartalmazó döntésében határidő tűzésével felhívhatja a fenntartót a jogellenes állapot megszüntetésére.
 
-(3d)
+(3d) A kincstár a támogatás folyósítását legfeljebb a jogellenes állapot megszüntetésére megadott határidőre felfüggeszti.
 
 (3e)
 

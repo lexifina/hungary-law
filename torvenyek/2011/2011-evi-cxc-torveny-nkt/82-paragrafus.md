@@ -44,6 +44,6 @@ d) vizsgaelnöki igazolásának száma és hatálya.
 
 (8) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében köznevelési szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6b) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben, oktatásban szerezte.
 
-(9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az országos köznevelési szakértői névjegyzékből, az országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
+(9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység végzésétől vagy a vizsgaelnöki feladatok végzésétől és törli az országos köznevelési szakértői névjegyzékből, az országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 
 (10)–(12)

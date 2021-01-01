@@ -102,7 +102,7 @@ a) a köznevelési intézmény köztartozása meghaladja az intézmény éves k�
 
 b) a köznevelési intézménynek hat hónapot meghaladó lejárt tartozása van és a fenntartó nem tett intézkedéseket ennek rendezése érdekében,
 
-c) a köznevelési intézmény a hatósági ellenőrzés keretében megállapított jogszabálysértést az első felszólítást, majd ugyanazon jogszabálysértés miatt kiszabott felügyeleti bírság kiszabását követően sem szünteti meg a határozatban megállapított határidőn belül,
+c) a köznevelési intézmény a hatósági ellenőrzés keretében megállapított jogszabálysértést az első felszólítást, majd ugyanazon jogszabálysértés miatt kiszabott közigazgatási bírság kiszabását követően sem szünteti meg a határozatban megállapított határidőn belül,
 
 d) a fenntartó – köznevelési intézmény fenntartásával összefüggő – tevékenységének törvényességi ellenőrzése során megállapított törvénysértést a fenntartó a törvénysértés megszüntetésére történő felhívásban megállapított határidőig nem szünteti meg,
 
