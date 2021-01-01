@@ -32,7 +32,7 @@
 
 | 13. | hagyatéki leltár rendszer | Kincstár | Kincstár | Kincstár | Kincstár |
 
-2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^49]
+2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^51]
 
 ## Az önkormányzati ASP rendszer szakrendszereinek használatához szükséges felhasználói (önkormányzati) munkaállomásokkal szembeni minimális elvárások
 
@@ -190,4 +190,4 @@
 
 | Ajánlott feltételek: A kormányzati hálózatfejlesztési koncepciókkal összhangban valamennyi településtípus ajánlott sávszélessége minimum 30/30 Mbit/sec szimmetrikus sávszélesség |
 
-[^49]: A 2. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (1) bekezdésével, a 75/2019. (IV. 9.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^51]: A 2. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (1) bekezdésével, a 75/2019. (IV. 9.) Korm. rendelet 9. §-a szerint módosított szöveg.
