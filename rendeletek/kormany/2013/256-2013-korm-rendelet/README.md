@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2020-01-01 | 2013-256-20-22.36 | 461/2016. (XII. 23.) Korm. rendelet |
 | 2020-11-01 | 2013-256-20-22.37 | 461/2016. (XII. 23.) Korm. rendelet |
 | 2020-11-05 | 2013-256-20-22.38 | 480/2020. (XI. 4.) Korm. rendelet |
+| 2021-01-01 | 2013-256-20-22.39 | 529/2020. (XI. 28.) Korm. rendelet |

@@ -532,210 +532,84 @@
 
 | 266. | Pannon Reprodukciós Intézet és Szolgáltató Kft. | Tapolca |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^88]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^79]
 
-## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
+## Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
-1. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó szakorvost megillető bérkiegészítés mértéke
+Az egészségügyi tevékenység végzésére jogosító szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló egészségügyi szakdolgozók munkakörének az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerinti fizetési osztályba sorolásánál – az 1004/2011. (I. 14.) Korm. határozat a Magyar Képesítési Keretrendszer bevezetéséhez kapcsolódó feladatokról, valamint az Országos Képesítési Keretrendszer létrehozásáról és bevezetéséről szóló kormányhatározatnak megfelelően – az alábbi szintbesorolást kell alkalmazni:
 
-(Ft/hó):
+1. „A” fizetési osztályba kell sorolni az 1. MKKR szintnek megfelelő alapfokú iskolai végzettséggel (8 általános) vagy anélkül betölthető munkakört.
 
-| SZINT | ÉVEK | FIZETÉSI OSZTÁLYOK |
+2. „B” fizetési osztályba kell sorolni a 2. MKKR szintnek megfelelő alapfokú iskolai és alapfokú részszakképesítéshez kötött és munkakört.
 
-| I | J |
+3. „C” fizetési osztályba kell sorolni a 3. MKKR szintnek megfelelő
 
-| 1 | 0–3 | 107 000 | 107 000 |
+3.1. alapfokú iskolai végzettséghez kötött,
 
-| 2 | 4–6 | 107 000 | 107 000 |
+– OKJ-ban szereplő alsó középfokú részszakképesítéshez kötött vagy
 
-| 3 | 7–9 | 107 000 | 107 000 |
+– szakképesítési listában szereplő szakképesítéssel betölthető
 
-| 4 | 10–12 | 107 000 | 107 000 |
+munkakört; továbbá
 
-| 5 | 13–15 | 107 000 | 107 000 |
+3.2. alapfokú iskolai végzettséghez kötött
 
-| 6 | 16–18 | 107 000 | 107 000 |
+– OKJ előtti egészségügyi végzettséghez vagy
 
-| 7 | 19–21 | 107 000 | 107 000 |
+– OKJ-ban szereplő alsó középfokú szakképesítéshez
 
-| 8 | 22–24 | 107 000 | 107 000 |
+kötött munkakört; valamint
 
-| 9 | 25–27 | 107 000 | 107 000 |
+3.3. az érettségi végzettséghez kötött, de szakképesítés nélkül betölthető munkakört.
 
-| 10 | 28–30 | 107 000 | 107 000 |
+4. „D” fizetési osztályba kell sorolni a 4. MKKR szintnek megfelelő
 
-| 11 | 31–33 | 107 000 | 107 000 |
+4.1. érettségihez kötött
 
-| 12 | 34–36 | 107 000 | 107 000 |
+– OKJ-ban szereplő egészségügyi középfokú szakképesítéshez (részszakképesítéshez) kötött vagy
 
-| 13 | 37–39 | 107 000 | 107 000 |
+– a szakképesítési listában szereplő szakképesítéssel betölthető
 
-| 14 | 40–42 | 107 000 | 107 000 |
+munkakört; továbbá
 
-| 15 | 43–45 | 107 000 | 107 000 |
+4.2. érettségire és egészségügyi szakképesítésre épülő munkakör betöltéséhez szükséges
 
-| 16 | 46–48 | 107 000 | 107 000 |
+– OKJ előtti elsőfokú vagy
 
-| 17 | 49–51 | 107 000 | 107 000 |
+– OKJ-ban szereplő középfokú
 
-2. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó szakdolgozót megillető bérkiegészítés mértéke (Ft/hó):
+szakképesítés-ráépülés végzettséggel betölthető munkakört.
 
-| SZINT | ÉVEK | FIZETÉSI OSZTÁLYOK |
+5. „E” fizetési osztályba kell sorolni az 5. MKKR szintnek megfelelő végzettséggel betölthető munkakört, amelynek ellátásához
 
-| A | B | C | D | E | F | G | H | I | J |
+5.1. szakmajegyzékben szereplő 5 éves technikusi, illetve érettségire épülő 2 év képzési idejű végzettség szükséges; továbbá,
 
-| 1 | 0–3 | 6 660 | 16 073 | 14 577 | 18 679 | 29 618 | 32 797 | 33 950 | 34 185 | 26 129 | 28 329 |
+5.2. azt az emeltszintű végzettséggel betölthető munkakört, mely
 
-| 2 | 4–6 | 8 072 | 18 191 | 16 628 | 21 414 | 34 404 | 35 334 | 37 071 | 37 257 | 29 985 | 30 652 |
+– OKJ-ban szereplő emeltszintű szakképesítéshez vagy
 
-| 3 | 7–9 | 9 484 | 20 309 | 18 679 | 24 149 | 39 190 | 37 671 | 39 792 | 40 329 | 32 040 | 30 674 |
+– felsőoktatási szakképzéshez vagy
 
-| 4 | 10–12 | 10 896 | 22 426 | 20 730 | 26 884 | 43 976 | 39 908 | 42 512 | 43 500 | 33 096 | 30 797 |
+– szakmajegyzékben szereplő Ápoló végzettséghez
 
-| 5 | 13–15 | 12 308 | 24 544 | 22 781 | 29 618 | 45 722 | 42 145 | 45 333 | 46 572 | 32 751 | 30 820 |
+kötött; valamint
 
-| 6 | 16–18 | 13 720 | 26 199 | 24 833 | 29 853 | 47 052 | 44 382 | 48 054 | 48 344 | 32 307 | 30 843 |
+5.3. egészségügyi képesítésre és specializációra van szükség, mely lehet
 
-| 7 | 19–21 | 15 132 | 26 736 | 26 884 | 30 104 | 48 382 | 46 719 | 50 774 | 48 216 | 31 962 | 33 166 |
+– OKJ előtti másodfokú szakosító szakképesítés vagy
 
-| 8 | 22–24 | 16 543 | 27 366 | 28 487 | 31 327 | 49 604 | 48 356 | 51 995 | 48 088 | 31 518 | 35 189 |
+– OKJ-ban szereplő emeltszintű szakképesítés-ráépülés vagy
 
-| 9 | 25–27 | 16 934 | 27 996 | 29 026 | 32 550 | 50 934 | 49 993 | 51 916 | 47 959 | 33 273 | 37 112 |
+– szakmajegyzékben szereplő szakasszisztensi végzettség.
 
-| 10 | 28–30 | 17 323 | 28 626 | 29 565 | 33 772 | 52 156 | 49 530 | 51 437 | 47 831 | 35 029 | 39 035 |
+6. „F” fizetési osztályba kell sorolni a 6. MKKR szintű főiskolai végzettséghez (BSc) kötött munkakört.
 
-| 11 | 31–33 | 17 805 | 29 256 | 30 104 | 34 995 | 53 485 | 48 967 | 51 057 | 49 003 | 36 784 | 41 058 |
+7. „G” fizetési osztályba kell sorolni a 6. MKKR szintű főiskolai végzettségre épülő munkakört, amelynek betöltéséhez főiskolai (BSc) végzettség és jogszabályban előírt szakirányú továbbképzés szükséges.
 
-| 12 | 34–36 | 18 194 | 29 885 | 30 643 | 36 218 | 54 815 | 48 504 | 50 678 | 50 075 | 38 440 | 42 981 |
+8. „H” fizetési osztályba kell sorolni a 7. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi végzettség (MSc) szükséges.
 
-| 13 | 37–39 | 18 583 | 30 515 | 31 182 | 37 549 | 56 037 | 48 041 | 50 199 | 51 247 | 38 795 | 43 803 |
+9. „I” fizetési osztályba kell sorolni a 7. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettség és jogszabályban előírt szakvizsga vagy szakirányú továbbképzés szükséges.
 
-| 14 | 40–42 | 18 972 | 31 145 | 31 721 | 38 772 | 57 367 | 47 578 | 49 819 | 52 418 | 39 151 | 44 626 |
+10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-| 15 | 43–45 | 19 361 | 31 775 | 32 260 | 39 994 | 58 697 | 47 115 | 49 440 | 53 590 | 39 506 | 45 449 |
-
-| 16 | 46–48 | 19 764 | 32 434 | 32 824 | 41 258 | 60 131 | 46 816 | 49 249 | 55 040 | 40 168 | 46 632 |
-
-| 17 | 49–51 | 20 183 | 33 122 | 33 413 | 42 563 | 61 670 | 46 685 | 49 251 | 56 776 | 41 146 | 48 186 |
-
-3. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó szakgyógyszerészt megillető bérkiegészítés mértéke (Ft/hó):
-
-| Fizetési fokozatok | ÉVEK | FIZETÉSI OSZTÁLYOK |
-
-| I | J |
-
-| 1 | 0–3 | 137 000 | 137 000 |
-
-| 2 | 4–6 | 137 010 | 137 030 |
-
-| 3 | 7–9 | 137 045 | 137 043 |
-
-| 4 | 10–12 | 137 015 | 136 955 |
-
-| 5 | 13–15 | 136 965 | 136 968 |
-
-| 6 | 16–18 | 137 015 | 136 980 |
-
-| 7 | 19–21 | 136 965 | 137 010 |
-
-| 8 | 22–24 | 137 015 | 136 954 |
-
-| 9 | 25–27 | 136 995 | 136 998 |
-
-| 10 | 28–30 | 136 975 | 137 041 |
-
-| 11 | 31–33 | 136 955 | 136 985 |
-
-| 12 | 34–36 | 137 035 | 137 029 |
-
-| 13 | 37–39 | 136 995 | 137 014 |
-
-| 14 | 40–42 | 136 955 | 136 999 |
-
-| 15 | 43–45 | 137 000 | 137 000 |
-
-| 16 | 46–48 | 137 000 | 137 000 |
-
-| 17 | 49–51 | 137 000 | 137 000 |
-
-4. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi dolgozót megillető bérkiegészítés mértéke (Ft/hó):
-
-| Fizetési fokozatok | ÉVEK | FIZETÉSI OSZTÁLYOK |
-
-| H | I | J |
-
-| 1 | 0–3 | 34 385 | 171 385 | 171 385 |
-
-| 2 | 4–6 | 34 410 | 171 395 | 171 415 |
-
-| 3 | 7–9 | 34 435 | 171 430 | 171 428 |
-
-| 4 | 10–12 | 34 360 | 171 400 | 171 340 |
-
-| 5 | 13–15 | 34 385 | 171 350 | 171 353 |
-
-| 6 | 16–18 | 34 415 | 171 400 | 171 365 |
-
-| 7 | 19–21 | 34 403 | 171 350 | 171 395 |
-
-| 8 | 22–24 | 34 390 | 171 400 | 171 339 |
-
-| 9 | 25–27 | 34 378 | 171 380 | 171 383 |
-
-| 10 | 28–30 | 34 365 | 171 360 | 171 426 |
-
-| 11 | 31–33 | 34 348 | 171 340 | 171 370 |
-
-| 12 | 34–36 | 34 430 | 171 420 | 171 414 |
-
-| 13 | 37–39 | 34 413 | 171 380 | 171 399 |
-
-| 14 | 40–42 | 34 395 | 171 340 | 171 384 |
-
-| 15 | 43–45 | 34 386 | 171 385 | 171 385 |
-
-| 16 | 46–48 | 34 385 | 171 385 | 171 385 |
-
-| 17 | 49–51 | 34 386 | 171 385 | 171 385 |
-
-5. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozót megillető bérkiegészítés mértéke (Ft/hó):
-
-| Fizetési fokozatok | ÉVEK | FIZETÉSI OSZTÁLYOK |
-
-| F | G | H |
-
-| 1 | 0–3 | 32 787 | 33 940 | 34 175 |
-
-| 2 | 4–6 | 35 354 | 37 016 | 37 272 |
-
-| 3 | 7–9 | 37 616 | 39 775 | 40 369 |
-
-| 4 | 10–12 | 39 878 | 42 532 | 43 465 |
-
-| 5 | 13–15 | 42 140 | 45 291 | 46 562 |
-
-| 6 | 16–18 | 44 402 | 48 049 | 48 364 |
-
-| 7 | 19–21 | 46 664 | 50 807 | 48 224 |
-
-| 8 | 22–24 | 48 316 | 51 978 | 48 083 |
-
-| 9 | 25–27 | 49 968 | 51 879 | 47 942 |
-
-| 10 | 28–30 | 49 485 | 51 462 | 47 801 |
-
-| 11 | 31–33 | 49 002 | 51 045 | 48 956 |
-
-| 12 | 34–36 | 48 519 | 50 628 | 50 110 |
-
-| 13 | 37–39 | 48 036 | 50 212 | 51 265 |
-
-| 14 | 40–42 | 47 553 | 49 794 | 52 418 |
-
-| 15 | 43–45 | 47 070 | 49 378 | 53 573 |
-
-| 16 | 46–48 | 46 751 | 49 149 | 55 005 |
-
-| 17 | 49–51 | 46 600 | 49 114 | 56 724 |
-
-[^88]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^79]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
