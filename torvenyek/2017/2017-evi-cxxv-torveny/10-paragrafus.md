@@ -14,6 +14,8 @@ f) a jogsértést elkövető eljárást segítő, együttműködő magatartásá
 
 g) a jogsértést elkövető gazdasági súlyát.
 
+(1a) Az (1) bekezdés rendelkezéseit nem kell alkalmazni, ha törvény, kormányrendelet vagy önkormányzati rendelet a bírság összegére vonatkozóan mérlegelést nem tesz lehetővé.
+
 (2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a közigazgatási bírság felső határa természetes személyek esetén egymillió forint, jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén tízmillió forint lehet.
 
 (3) Az önkormányzati rendelet alapján megállapítható közigazgatási bírság felső határa természetes személyek esetén kétszázezer forint, jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén kétmillió forint lehet.

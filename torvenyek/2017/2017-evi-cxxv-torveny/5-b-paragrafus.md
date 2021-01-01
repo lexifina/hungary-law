@@ -1,0 +1,1 @@
+5/B. § Ha a közigazgatási szankciót alkalmazó hatóság tudomására jut, hogy az eljárása alapjául szolgáló jogsértő magatartás miatt büntetőeljárás van folyamatban és a közigazgatási szankció alkalmazása – összhangban az 5/A. §-ban foglaltakkal – e büntetőeljárás kimenetelétől függ, az eljárását a büntetőeljárás befejezéséig felfüggeszti.

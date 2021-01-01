@@ -8,7 +8,7 @@
 
 a) figyelmeztetés,
 
-b) közigazgatási óvadék,
+b)
 
 c) közigazgatási bírság,
 
@@ -16,4 +16,4 @@ d) tevékenység végzésétől történő eltiltás,
 
 e) elkobzás.
 
-(4) Törvény további közigazgatási szankciókat állapíthat meg.
+(4) Törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet további közigazgatási szankciókat állapíthat meg.
