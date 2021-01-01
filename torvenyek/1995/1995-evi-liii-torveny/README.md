@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2020-01-01 | 2019. évi CX. törvény | 1995-53-00-00.73 |
 | 2020-03-01 | 2019. évi CX. törvény | 1995-53-00-00.74 |
 | 2020-07-01 | 2020. évi LI. törvény | 1995-53-00-00.75 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1995-53-00-00.76 |
