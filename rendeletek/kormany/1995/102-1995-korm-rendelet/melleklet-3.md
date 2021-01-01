@@ -42,6 +42,8 @@
 
 | Meghalt | E |
 
+| Kötelezettség mulasztása | M |
+
 | Keresőképtelenség jellege | Kód |
 
 | Üzemi baleset | „1 |
@@ -54,14 +56,12 @@
 
 | Beteg gyermek ápolása | „5 |
 
-| Terhesség-szülés miatti keresőképtelenség | „6 |
-
 | Közegészségügyi okból foglalkozástól eltiltás vagy hatósági elkülönítés | „7 |
 
 | Egyéb keresőképtelenség | „8 |
 
 | Veszélyeztetett terhesség | „9 |
 
-3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^58]
+3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^62]
 
-[^58]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (3) bekezdése, valamint 3. számú melléklete iktatta a szövegbe.
+[^62]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (3) bekezdése iktatta be, szövege a 237/2020. (V. 26.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
