@@ -206,6 +206,10 @@
 
 | 42 | KÖFOP-1.0.0-VEKOP- 15-2019-00057 | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság vagy az általa vezetett konzorcium | Az informatikai beszerzések központosítását támogató rendszer továbbfejlesztése | 42.1. Integrált DKÜ Portál Rendszer |
 
+| 43. | KÖFOP-2.1.5-VEKOP-162016-00001 | Belügyminisztérium | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | Kormányzati Személyügyi Döntéstámogató Rendszer |
+
+| 44. | KÖFOP-2.1.5-VEKOP-162016-00001 | Belügyminisztérium | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | Közszolgálati HR Rendszer |
+
 3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^13]
 
 A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban működő egyéb központi és szakrendszerek
@@ -316,7 +320,7 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 51. | Kormányzati Adattrezorban (KAT) adatállományok átvételi (betárolási) rendszere | központi rendszer |
 
-| 52. | Elektronikus Egészségügyi Szolgáltató Tér rendszer | szakrendszer |
+| 52. | Elektronikus Egészségügyi Szolgáltatási Tér rendszer (EESZT) és támogató rendszerei | szakrendszer |
 
 | 53. | segitomagyarorszag.hu | szakrendszer |
 
@@ -328,4 +332,8 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 57. | Központi Kórházi Integrált Gazdálkodási Rendszer | szakrendszer |
 
-[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 119. § c) pontja szerint módosított szöveg.
+| 58. | A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (3) bekezdésében meghatározott rendszer | szakrendszer |
+
+| 59. | Központi Bűnjelnyilvántartó Rendszer | szakrendszer |
+
+[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja szerint módosított szöveg.
