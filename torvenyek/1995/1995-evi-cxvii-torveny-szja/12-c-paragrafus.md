@@ -10,7 +10,7 @@ b) az egyszerűsített közteherviselési hozzájárulásról szóló törvény 
 
 c) az egyszerűsített foglalkoztatásról szóló törvény szerinti jogviszonyból származó, a személyi jövedelemadóról szóló törvény szerinti mentesített keretösszeget meghaladó jövedelmet,
 
-d) a magánszemélyek egyes jövedelmeinek különadójára vonatkozó szabályokat tartalmazó törvény hatálya alá tartozó különadóalapot képező bevételt és annak adóját,
+d)
 
 e) a szociális hozzájárulási adóról szóló törvény szerint a szociális hozzájárulási adó alapját képező jövedelmet és az utána fizetendő szociális hozzájárulási adót.
 

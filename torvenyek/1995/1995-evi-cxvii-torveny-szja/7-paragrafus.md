@@ -68,7 +68,7 @@ r) a kiküldetési rendelvény alapján hivatali, üzleti utazás költségtér�
 
 s) a reprezentációt és az üzleti ajándékot, ha a juttatót az adott juttatás tekintetében a belföldi jogszabály alapján nem terheli adókötelezettség;
 
-t) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása jogosultsága feltételeként megvalósuló termőföld értékesítéséből származó bevételt;
+t) az egyéni vállalkozónak, őstermelőnek minősülő földműves gazdaságátadási támogatása jogosultsága feltételeként megvalósuló termőföld értékesítéséből származó bevételt;
 
 u) a szomszédos államokban élő magyarokról szóló törvény alapján a hatálya alá tartozó személyt a művelődés, a kultúra, a tudomány területén ingyenesen megillető alapszolgáltatást és külön jogszabályban meghatározott további kedvezményt, az említett személyt külön jogszabály szerint megillető utazási kedvezményt és a diákigazolványához kapcsolódó kedvezményt, valamint a törvény alapján a határon túli magyar pedagógust megillető kedvezményt, továbbá a törvény hatálya alá tartozó személy részére a törvény rendelkezései szerint a határon túli kihelyezett képzés vagy a szülőföldön nyújtható oktatási támogatás keretében juttatott vagyoni értéket;
 
@@ -92,9 +92,9 @@ b) a fogyasztói kölcsönszerződések tisztességtelenségével összefüggés
 
 alapján illeti meg.
 
-(1c) A 9. § (3a) és (3b) bekezdésében meghatározott eseteket kivéve nem szerez bevételt a biztosított magánszemély, ha a más személy által kötött biztosítási jogviszonyba a szerződő helyébe lép, és a szerződő által korábban megfizetett biztosítási díjat a szerződőnek nem téríti meg.
+(1c) A 9. § (3a) bekezdésében meghatározott eseteket kivéve nem szerez bevételt a biztosított magánszemély, ha a más személy által kötött biztosítási jogviszonyba a szerződő helyébe lép, és a szerződő által korábban megfizetett biztosítási díjat a szerződőnek nem téríti meg.
 
-(1d) A magánszemély részére nem eredményez adókötelezettséget – bármely adóévre vonatkozóan –, ha a magánszemély pénzügyi intézménnyel szemben fennálló követelését eredményező jogviszonya a pénzügyi intézmény felszámolása miatt szűnik meg, ideértve az adó feletti rendelkezés esetére meghatározott visszafizetési kötelezettséget is. A pénzügyi intézmény felszámolásával összefüggésben kárrendezés címén a magánszemélyt megillető összeg után adókötelezettség megállapításának nincs helye.
+(1d) A magánszemély részére nem eredményez adókötelezettséget – bármely adóévre vonatkozóan –, ha a magánszemély pénzügyi intézménnyel szemben fennálló követelését eredményező jogviszonya a pénzügyi intézmény végelszámolása vagy felszámolása miatt szűnik meg, ideértve az adó feletti rendelkezés esetére meghatározott visszafizetési kötelezettséget is. A pénzügyi intézmény végelszámolásával vagy felszámolásával összefüggésben kártalanítás vagy kárrendezés címén a magánszemélyt megillető összeg után adókötelezettség megállapításának nincs helye.
 
 (1e) Nem szerez bevételt a magánszemély a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként az MRP szervezet tagi részesedésének és a szervezet által kezelt pénzügyi eszköz megszerzésével összefüggő kedvezmény révén.
 
@@ -106,4 +106,4 @@ b) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatáro
 
 bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel.
 
-(3) Ahol e törvény valamely rendelkezését a magánszemély tevékenységéből származó bevételi értékhatártól függően kell vagy lehet alkalmazni, az értékhatár a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatás (ideértve különösen az egységes területalapú támogatást is) összegével – ha e törvény eltérően nem rendelkezik – megemelkedik.
+(3) Ahol e törvény valamely rendelkezését a magánszemély tevékenységéből származó bevételére vonatkozó értékhatártól függően kell vagy lehet alkalmazni, az értékhatár a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatás összegével – ha e törvény eltérően nem rendelkezik – megemelkedik, azzal, hogy nem kell bevételként figyelembe venni a mezőgazdasági őstermelő által e tevékenységével összefüggésben kapott támogatás összegét.

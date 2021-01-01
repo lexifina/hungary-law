@@ -8,7 +8,7 @@ c) az adóév egészében kizárólag a kereskedelmi tevékenységek végzésén
 
 d) a c) pontban említett egyéni vállalkozó – feltéve, hogy külön-külön vagy együttesen az adóév egészében kizárólag a (4) bekezdésben felsorolt üzlet(ek) működtetéséből szerez bevételt – 93 százalék,
 
-e) a mezőgazdasági kistermelő 85 százalék, illetőleg a bevételének azon részéből, amely állattenyésztésből vagy állati termék előállításából származik, 94 százalék
+e) a mezőgazdasági őstermelő 90 százalék
 
 költséghányad levonásával állapítja meg (átalányban megállapított jövedelem).
 

@@ -42,7 +42,7 @@ db) a da) alpontban nem tartozó esetben a belföldön végzett tevékenységér
 
 dc) a db) alponttól eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
 
-e) kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati, közalkalmazotti, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
+e) kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati, közalkalmazotti, adó- és vámhatósági szolgálati, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
 
 f) jogi személy, egyéb szervezet vezető tisztségviselőjeként, felügyelő bizottsága tagjaként megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogi személy, az egyéb szervezet székhelye szerinti állam; vezető tisztségviselő a jogi személy, az egyéb szervezet törvényes képviseletére jogosult magánszemély (például az üzletvezetésre jogosult tag, az ügyvezető, a cégvezető);
 
@@ -90,7 +90,7 @@ azzal, hogy szokásos haszon az a haszon, amelyet összehasonlítható tevékeny
 
 10. Hivatali, üzleti utazás: a magánszemély jövedelmének megszerzése, a kifizető tevékenységével összefüggő feladat ellátása érdekében szükséges utazás – a munkahelyre, a székhelyre vagy a telephelyre a lakóhelyről történő bejárás kivételével –, ideértve különösen a kiküldetés vagy a munkaszerződéstől eltérő foglalkoztatás keretében más munkáltatónál történő munkavégzés miatt szükséges utazást, de ide nem értve az olyan utazást, amelyre vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti; továbbá az országgyűlési képviselő, a nemzetiségi szószóló, a polgármester, az önkormányzati képviselő e tisztségével összefüggő feladat ellátása érdekében szükséges utazás (a lakóhelytől való távollét); hivatali, üzleti utazásnak minősül továbbá a magánszemély törvényben megállapított különleges jogosítványt gyakorló, belföldi székhelyű jogi személynél, egyéb szervezetnél betöltött tisztségéhez, vagy az említett jogi személy tagsága mellett működő külföldi vagy belföldi székhelyű jogi személynél, egyéb szervezetnél betöltött tisztségéhez kapcsolódó utazása, akkor is, ha a magánszemély nem áll munkaviszonyban az említett jogi személlyel, egyéb szervezettel.
 
-11. Kiküldetés: a munkáltató által elrendelt, a munkáltató tevékenységével összefüggő feladat ellátása érdekében szükséges utazás, így különösen a munkaszerződéstől eltérő foglalkoztatás keretében a munkaszerződéstől eltérő helyen történő munkavégzés; ide nem értve a lakóhelyről, tartózkodási helyről a munkahelyre történő oda- és visszautazást. Kiküldetésnek minősül a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati érdekből történő áthelyezése, vezénylése, átrendelése, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezése, vezénylése is. E rendelkezés alkalmazásában munkahelynek minősül a munkáltatónak az a telephelye, ahol a munkavállaló a munkáját szokás szerint végzi, ilyen telephely hiányában vagy több ilyen telephely esetén a munkáltató székhelye minősül munkahelynek.
+11. Kiküldetés: a munkáltató által elrendelt, a munkáltató tevékenységével összefüggő feladat ellátása érdekében szükséges utazás, így különösen a munkaszerződéstől eltérő foglalkoztatás keretében a munkaszerződéstől eltérő helyen történő munkavégzés; ide nem értve a lakóhelyről, tartózkodási helyről a munkahelyre történő oda- és visszautazást. Kiküldetésnek minősül a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati érdekből történő áthelyezése, vezénylése, átrendelése, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezése, vezénylése, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti, szolgálati érdekből történő áthelyezés, átrendelés, vezénylés is. E rendelkezés alkalmazásában munkahelynek minősül a munkáltatónak az a telephelye, ahol a munkavállaló a munkáját szokás szerint végzi, ilyen telephely hiányában vagy több ilyen telephely esetén a munkáltató székhelye minősül munkahelynek.
 
 12. Külföldi kiküldetés: a belföldi illetőségű magánszemélynek a jövedelme megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében Magyarország területén kívüli (a továbbiakban: külföld) tartózkodása, továbbá az előzőekkel kapcsolatos külföldre történő utazás, ideértve különösen a külszolgálatot és az azzal összefüggő utazást.
 
@@ -134,15 +134,9 @@ g)
 
 h)
 
-18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, belföldön lévő saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet (a továbbiakban: őstermelői tevékenység) folytató, ezen tevékenysége tekintetében nem egyéni vállalkozó magánszemély, aki ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében. E rendelkezés alkalmazásában
+18. Mezőgazdasági őstermelő: a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő, ideértve az őstermelők családi gazdaságának tagját is.
 
-a) saját gazdaság alatt a termelést ténylegesen végző magánszemély rendelkezési jogosultságát kell érteni a termelési eszközei (ideértve a bérelt földterületet, eszközöket is), a termelés szervezése és – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása esetének kivételével – a termelés eredményének felhasználása felett;
-
-b) őstermelői igazolvány az őstermelői tevékenységből származó bevételek nyilvántartására alkalmas, hitelesített, kormányrendelet által előírt adattartalommal, az ott meghatározott eljárási rendben kiadott, illetve érvényesített igazolvány;
-
-c) vetőmag-bértermelés, bérnevelés, bérhizlalás, kihelyezett állattartás esetén őstermelői tevékenységből származó bevétel a termék vagy állat teljes átvételi (bruttó) ára azzal, hogy a jövedelem megállapításakor a termék vagy állat kihelyezési értéke költségként érvényesíthető.
-
-19. Mezőgazdasági kistermelő: az a mezőgazdasági őstermelő, akinek az e tevékenységéből az adóévben megszerzett bevétele a 8 millió forintot nem haladja meg.
+19.
 
 20. Üzemanyag-fogyasztási norma: a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabály szerinti üzemanyag- és kenőanyag-felhasználás mértéke. Amennyiben így nem állapítható meg a norma, akkor a gyártó által, vagy műszaki szakértő által megállapított mérték.
 
@@ -158,7 +152,7 @@ d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról 
 
 e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély e jogviszonyból származó jövedelme;
 
-f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
+f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítést és egészségkárosodási járadékot, továbbá a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
 
 g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása.
 
@@ -228,7 +222,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az Országgyűlési Őrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
 
-38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
+38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 
 39. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. és 17. cikke szerinti támogatás.
 
@@ -236,7 +230,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 41. Mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1408/2013/EU rendelet (HL L 352 2013.12.24. 9–17. o.) szerinti támogatás.
 
-42. Költségek fedezetére vagy fejlesztési célra folyósított támogatás: jogszabály vagy nemzetközi szerződés alapján költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet a magánszemély kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett, vagy a tevékenység megvalósulásának ellenőrzését követően kap, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott, a fiatal mezőgazdasági termelők indulásához, gazdaságalapításához nyújtandó támogatások;
+42. Költségek fedezetére vagy fejlesztési célra folyósított támogatás: jogszabály vagy nemzetközi szerződés alapján költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet a magánszemély kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett, vagy a tevékenység megvalósulásának ellenőrzését követően kap, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott, a fiatal mezőgazdasági termelők indulásához, gazdaságalapításhoz, valamint a mezőgazdasági kisüzemek fejlesztéséhez nyújtandó támogatások;
 
 43. Korábban munkanélküli személy az, aki a foglalkoztatását közvetlenül megelőzően
 
@@ -336,9 +330,9 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 83. Kiküldetési rendelvény: a kifizető által két példányban kiállított bizonylat, amely tartalmazza a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányának, típusának megnevezését, forgalmi rendszámát, a hivatali, üzleti utazás(ok) célját, időtartamát, útvonalát, a futásteljesítményt, az utazás költségtérítését, valamint ezen költségtérítés kiszámításához szükséges adatokat (üzemanyag-fogyasztási norma, üzemanyagár stb.), azzal, hogy kiküldetési rendelvénynek minősül az említett adatokat tartalmazó, a digitális archiválás szabályairól szóló jogszabály rendelkezéseit is figyelembe véve zárt rendszerben kezelt és tárolt, elektronikus úton előállított bizonylat is. A papír alapon kiállított kiküldetési rendelvény eredeti példányát a kifizető, másolatát a magánszemély a bizonylatmegőrzésre vonatkozó rendelkezések betartásával megőrzi.
 
-84.
+84. Éves minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összegének tizenkétszerese.
 
-85.
+85. Mezőgazdasági őstermelői tevékenységből származó bevétel: a családi gazdaságokról szóló törvény szerinti őstermelői tevékenységből származó bevétel, azzal, hogy nem tekinthető őstermelői tevékenységből származó bevételnek a kiegészítő tevékenység, tevékenységek bevétele, ha annak mértéke – több kiegészítő tevékenység esetében együttesen számítva – a családi gazdaságokról szóló törvény szerinti bevételi arányt meghaladja, továbbá azzal, hogy amennyiben a kiegészítő tevékenység, tevékenységek bevétele az említett bevételi arányt meghaladja, a kiegészítő tevékenységből származó teljes bevételre az önálló tevékenységből származó jövedelemre vonatkozó szabályok alkalmazandók.
 
 86. Iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel tanulói vagy hallgatói jogviszonyban.
 

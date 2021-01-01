@@ -4,7 +4,7 @@ Az átalányadót vagy a tételes átalányadót fizetők adózásának rendje
 
 Az átalányadót vagy tételes átalányadót (a továbbiakban együtt: átalányadó) fizető magánszemélyek adózására a következő rendelkezéseket kell alkalmazni:
 
-1. Az egyéni vállalkozó, a mezőgazdasági kistermelői és a fizető-vendéglátó tevékenységet folytató magánszemély az előző évre vonatkozó éves adóbevallásához fűzött – a határidő letelte előtt benyújtott – nyilatkozatban jelentheti be az átalány választását a tárgyévre. A mezőgazdasági kistermelő az átalány választását akkor is az előző évre vonatkozó éves bevallás időpontjáig jelentheti be, ha adóbevallásra nem kötelezett.
+1. Az egyéni vállalkozó, a fizető-vendéglátó tevékenységet folytató magánszemély az előző évre vonatkozó éves adóbevallásához fűzött – a határidő letelte előtt benyújtott – nyilatkozatban jelentheti be az átalány választását a tárgyévre. A mezőgazdasági őstermelő – abban az esetben is, ha adóbevallásra nem kötelezett – az előző évre vonatkozó éves bevallása benyújtásának határidejéig azt jelenti be, ha átalányadózást nem választ (ideértve azt is, ha az átalányadózás feltételei nem állnak fenn); e bejelentés hiányában a mezőgazdasági őstermelő – ha annak feltételei egyébként fennállnak – átalányadózónak minősül.
 
 2. A tevékenységét kezdő, illetve egyesített tevékenység esetén az özvegy vagy örökös egyéni vállalkozó a bejelentkezésekor, vagy a tevékenység folytatásának bejelentésére nyitva álló határidőben jelenti be az átalányadózás választását. Az átalányadózónak, ha választását a következő évre is fenntartja, erről külön nyilatkoznia nem kell.
 

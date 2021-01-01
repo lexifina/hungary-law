@@ -16,7 +16,7 @@ Bevétel különösen a tevékenység keretében vagy azzal összefüggésben
 
 4. a kötbér, a késedelmi kamat, a bírság, a büntetés címén kapott összeg, valamint a fizetett kötbér, kamat, bírság, büntetés visszatérítése címén kapott összeg, kivéve, ha korábban költségként nem vették figyelembe;
 
-5. a felvett támogatás (ideértve különösen az egységes területalapú támogatást is), figyelemmel a VI. fejezet rendelkezéseire is;
+5. a felvett támogatás (ha azt bevételként figyelembe kell venni), figyelemmel a VI. fejezet rendelkezéseire is;
 
 6. az előállított vagy vásárolt terméknek, végzett vagy vásárolt szolgáltatásnak a szokásos piaci értéke, ha azokat a magánszemély saját céljára felhasználja, illetőleg részben vagy egészben ellenszolgáltatás nélkül másnak átengedi, akkor, ha ezzel kapcsolatban bármely évben költséget számolt el, azonban nem kell a saját célra történő felhasználás és a részben vagy egészben ellenszolgáltatás nélküli átengedés értékével növelni a bevételt, ha
 

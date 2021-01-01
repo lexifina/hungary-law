@@ -36,21 +36,11 @@ d) a 71. § (2) bekezdés b) pont szerinti juttatásnak az ott meghatározott é
 
 (8) A (7) bekezdés b) pont alkalmazásában az éves rekreációs keretösszeg
 
-a) – ha a munkáltató költségvetési szerv –
+a) évi 450 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
 
-aa) évi 200 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
+b) a 450 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
 
-ab) a 200 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
-
-ac) évi 200 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg;
-
-b) más munkáltató esetében
-
-ba) évi 450 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll;
-
-bb) a 450 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn;
-
-bc) évi 450 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
+c) évi 450 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
 
 (9) E § alkalmazásában
 

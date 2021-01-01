@@ -8,7 +8,7 @@ I. Alapnyilvántartások
 
 1. Közös szabályok
 
-1.1. Alapnyilvántartás a naplófőkönyv, a pénztárkönyv, a bevételi és költségnyilvántartás, valamint a bevételi nyilvántartás, továbbá az őstermelői igazolvány részét képező értékesítési betétlap (az alapnyilvántartás típusai).
+1.1. Alapnyilvántartás a naplófőkönyv, a pénztárkönyv, a bevételi és költségnyilvántartás, valamint a bevételi nyilvántartás, továbbá az értékesítési betétlap (az alapnyilvántartás típusai).
 
 1.2. Alapnyilvántartást vezet az egyéni vállalkozó és a mezőgazdasági őstermelő. A magánszemély más (egyéni vállalkozói tevékenységnek vagy mezőgazdasági őstermelői tevékenységnek nem minősülő) önálló tevékenysége tekintetében csak akkor vezet alapnyilvántartást, ha az e tevékenységből származó bevételével szemben az adóelőleg vagy a jövedelem meghatározásakor költséget (ide nem értve a jövedelem meghatározásakor e törvény rendelkezései szerint igazolás nélkül elszámolható elismert költséget) számol el vagy az adóévben nem (nem csak) kifizetőtől szerez ilyen bevételt. A magánszemély nem önálló tevékenysége tekintetében csak akkor vezet alapnyilvántartást, ha az e tevékenységből származó bevételnek minősülő költségtérítéssel szemben az adóelőleg vagy a jövedelem meghatározásakor költséget (ide nem értve a jövedelem meghatározásakor e törvény rendelkezései szerint igazolás nélkül elszámolható elismert költséget) számol el, vagy az adóévben nem (nem csak) kifizetőtől, munkáltatótól szerez nem önálló tevékenységből származó bevételt. Az előző rendelkezések szerint alapnyilvántartás vezetésére nem kötelezett magánszemély a más önálló tevékenységből, illetve a nem önálló tevékenységből származó bevételével összefüggő nyilvántartási kötelezettségét a kifizető által kiállított igazolás megőrzésével teljesíti.
 
@@ -16,7 +16,7 @@ I. Alapnyilvántartások
 
 1.4. Az alapnyilvántartás típusát a magánszemély adóévenként határozza meg, és e választását az adóévben saját elhatározásból később sem változtathatja meg. Ha a magánszemély e törvény rendelkezései szerint az adóév során veszíti el az általa választott alapnyilvántartás vezetésének a jogát, akkor a változás napját megelőző nappal köteles az addig vezetett alapnyilvántartást lezárni, és a lezárt alapnyilvántartásban összesített adatokat az új alapnyilvántartásba nyitó adatként bejegyezni. E rendelkezés nem mentesíti a magánszemélyt a lezárt nyilvántartással és az azt alátámasztó bizonylatokkal összefüggő megőrzési kötelezettsége teljesítése alól.
 
-1.5. Az átalányadózást alkalmazó mezőgazdasági őstermelő alapnyilvántartásában az élő állatok és állati termékek értékesítéséből származó bevételét más őstermelői tevékenységéből származó bevételétől elkülönítve tartja nyilván.
+1.5.
 
 1.6. Az alapnyilvántartást az adó, az adóelőleg megállapítására előírt időszakonként az alapnyilvántartás egyes adatsorainak összesítésével le kell zárni.
 
@@ -132,7 +132,25 @@ g) a jövedelem.
 
 6. Az értékesítési betétlap
 
-6.1. A mezőgazdasági őstermelő az őstermelői tevékenysége ellenértékeként megszerzett bevétele tekintetében az alapnyilvántartás vezetésére vonatkozó kötelezettségét – választása szerint – az őstermelői igazolvány részét képező értékesítési betétlap vezetésével teljesítheti, ha az adóévben egyébként bevételi nyilvántartás vezetésére lenne jogosult.
+6.1. A mezőgazdasági őstermelő az őstermelői tevékenysége ellenértékeként megszerzett bevétele tekintetében az alapnyilvántartás vezetésére vonatkozó kötelezettségét – választása szerint – értékesítési betétlap vezetésével teljesítheti, ha az adóévben egyébként bevételi nyilvántartás vezetésére lenne jogosult. Az értékesítési betétlap legalább a következő adatokat tartalmazza:
+
+6.1.1. Az értékesítési betétlap sorszáma
+
+6.1.2. Értékesített őstermelői termék/nyújtott szolgáltatás:
+
+6.1.2.1. az adásvétel dátuma
+
+6.1.2.2. az összeg forintban
+
+6.1.2.3. a vásárlást igazoló bizonylat száma
+
+6.1.3. A kiegészítő tevékenységből származó összes bevétel forintban
+
+6.1.4. A méhészeti termékek értékesítéséből származó összes bevétel forintban
+
+6.1.5. Adott adóévre vonatkozó összes bevétel forintban
+
+6.1.6. A mezőgazdasági őstermelő aláírása
 
 6.2. Az értékesítési betétlapra a mezőgazdasági őstermelő vagy helyette – az e törvényben és a mezőgazdasági őstermelői igazolványról szóló kormányrendeletben meghatározott feltételekkel – a kifizető jegyezhet be adatot.
 
@@ -208,7 +226,7 @@ Az értékesítés, kiselejtezés vagy megsemmisülés miatt bekövetkezett ért
 
 4. A beruházási és felújítási költség-nyilvántartás
 
-A mezőgazdasági őstermelőnek, az egyéni vállalkozónak az e tevékenységéhez használt tárgyi eszköze, nem anyagi javai üzembe helyezésének időpontjáig felmerült kiadásairól – kivéve az 50 ezer forint alatti egyedi értékű tárgyi eszközre fordított kiadást – egyedi nyilvántartást kell vezetnie. E nyilvántartás alapján állapíthatók meg az értékcsökkenési leírás alapját képező, valamint a vállalkozói osztalékalapot módosító tételek.
+A mezőgazdasági őstermelőnek, az egyéni vállalkozónak az e tevékenységéhez használt tárgyi eszköze, nem anyagi javai üzembe helyezésének időpontjáig felmerült kiadásairól – kivéve az 200 ezer forint alatti egyedi értékű tárgyi eszközre fordított kiadást – egyedi nyilvántartást kell vezetnie. E nyilvántartás alapján állapíthatók meg az értékcsökkenési leírás alapját képező, valamint a vállalkozói osztalékalapot módosító tételek.
 
 A nyilvántartás a következő adatokat tartalmazza:
 
@@ -386,7 +404,7 @@ A nyilvántartás a következő adatokat tartalmazza:
 
 10. Selejtezési nyilvántartás
 
-A magánszemély az 50 ezer forintot meg nem haladó készlet selejtezéséről jegyzőkönyv helyett nyilvántartást vezet.
+A magánszemély az 200 ezer forintot meg nem haladó készlet selejtezéséről jegyzőkönyv helyett nyilvántartást vezet.
 
 A nyilvántartás tartalmazza:
 
@@ -478,7 +496,7 @@ E törvény alkalmazásában szigorú számadású nyomtatvány az, amelyet a sz
 
 III. Selejtezés
 
-A tárgyi eszköz, a nem anyagi jószág és az 50 ezer forint beszerzési értéket meghaladó készlet selejtezéséről jegyzőkönyvet kell felvenni, amelyben le kell írni a selejtezés okát. A selejtezési eljárás során meg nem semmisített eszközt eltávolíthatatlan azonosító jellel kell ellátni.
+A tárgyi eszköz, a nem anyagi jószág és az 200 ezer forint beszerzési értéket meghaladó készlet selejtezéséről jegyzőkönyvet kell felvenni, amelyben le kell írni a selejtezés okát. A selejtezési eljárás során meg nem semmisített eszközt eltávolíthatatlan azonosító jellel kell ellátni.
 
 IV.
 
@@ -488,4 +506,4 @@ Az önálló tevékenységet végző magánszemély kérelmére az állami adó-
 
 a) a kérelmező a súlyos fogyatékosság minősítéséről és igazolásáról szóló jogszabályok előírásainak megfelelően igazolja, hogy súlyos testi fogyatékosságának jellege miatt e kötelezettség teljesítése tőle nem várható el, és a vele közös háztartásban élő hozzátartozói sem képesek a nyilvántartás(ok) vezetésére, továbbá
 
-b) a nyugtaadási kötelezettség alól az általános forgalmi adóról szóló törvényben meghatározott feltételek alapján egyébként felmenthető.
+b)

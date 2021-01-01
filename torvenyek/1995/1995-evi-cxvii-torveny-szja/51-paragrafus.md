@@ -10,4 +10,4 @@ b) a megszüntetést követően ezen tevékenységére tekintettel érkező bev�
 
 (4) Átalányadózás választása esetén az egyéni vállalkozónak az áttérést megelőző év december 31-ét alapul véve, meg kell állapítania az egyéni vállalkozói tevékenység megszüntetésére vonatkozó szabályok szerint a meglévő készletekkel kapcsolatos bevételét, amelyet a továbbiakban mindaddig adóalapot nem érintő bevételként kell nyilvántartania, amíg átalányadózást alkalmaz.
 
-(5) Az (1)–(3) bekezdés rendelkezései szerint kell eljárnia az átalányadózás szerint adózó mezőgazdasági kistermelőnek is, azzal, hogy a bevételeit a 2. számú melléklet szerint kell figyelembe vennie.
+(5) Az (1)–(3) bekezdés rendelkezései szerint kell eljárnia az átalányadózás szerint adózó mezőgazdasági őstermelőnek is, azzal, hogy a bevételeit a 2. számú melléklet szerint kell figyelembe vennie.
