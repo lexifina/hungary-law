@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2019-12-31 | 2018. évi CXXVIII. törvény | 2001-20-00-00.57 |
 | 2020-01-01 | 2019. évi CXIV. törvény | 2001-20-00-00.58 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 2001-20-00-00.59 |
+| 2021-01-01 | 2020. évi CXXIII. törvény | 2001-20-00-00.60 |
