@@ -4,7 +4,7 @@
 
 16. § (1) Nem utazhat külföldre
 
-a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés, ideiglenes átadási bűnügyi felügyelet vagy ideiglenes kiadatási bűnügyi felügyelet alatt áll,
+a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés, ideiglenes átadási bűnügyi felügyelet, kiadatási bűnügyi felügyelet vagy ideiglenes kiadatási bűnügyi felügyelet alatt áll,
 
 b) az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 
