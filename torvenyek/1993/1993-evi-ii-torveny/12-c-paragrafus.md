@@ -1,9 +1,1 @@
-12/C. § (1) A védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény 2. § (1) bekezdésében meghatározott azon földrészlet vonatkozásában, amelynek részarány-földalapba történő kijelöltsége megszűnt, a mezőgazdasági igazgatási szerv megállapítja azoknak a személyeknek a körét és – a ki nem elégített AK-igénynek megfelelő – jogosultságuk mértékét, akik a terület kisajátításakor a kártalanításra jogosultak. A jogosultak nevét és jogosultságuk mértékét a mezőgazdasági igazgatási szerv közli az ingatlanügyi hatósággal és a védett természeti területek természetvédelmi kezeléséért felelős szervvel is.
-
-(2) Az (1) bekezdésben meghatározott védett és védelemre tervezett, és emiatt magántulajdonba nem adható földrészletre vonatkozó tulajdonosi jogosítványokat – az elidegenítés kivételével – az igazgatóság a földrészlet állami tulajdonba kerüléséig gyakorolja.
-
-(3) A földrészletek hasznosítása során befolyt ellenértéket az igazgatóság az (1) bekezdésben meghatározott jogosultak között, igényjogosultságuk arányában osztja fel. Az (1) és (5) bekezdés szerinti kisajátítási kártalanítás összegének kifizetéséig az igazgatóság a tulajdonosi jogok gyakorlása fejében évenként előre a korlátozással arányban álló kártalanítást fizet az arra jogosultaknak.
-
-(4)
-
-(5) A védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény 1. §-a (1) bekezdésének b) pontja szerinti kijelöléssel nem érintett azon védett vagy védelemre tervezett természeti területek tekintetében, amelyeket – természetvédelmi oltalom hiányában – a szövetkezetnek az Ámt. 25. §-a alapján a vagyonnevesítés szabályai szerint ki kellene adnia – ha az magántulajdonban nem áll vagy magántulajdonba nem került –, a kisajátítási eljárást a szövetkezettel szemben kell lefolytatni. A kisajátítási kártalanítás összegét a szövetkezet haladéktalanul köteles a szövetkezet vagyonnevesítéssel érintett tagjai között a vagyonnevesítés szabályai szerint felosztani.
+12/C. §

@@ -1,1 +1,1 @@
-15. § Felhatalmazást kap a Kormány, hogy az egységes eljárás érdekében a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésének részletes szabályait, továbbá a 12/F. § (4) bekezdésében meghatározott soronkívüli eljárás szabályait rendeletben állapítsa meg.
+15. §

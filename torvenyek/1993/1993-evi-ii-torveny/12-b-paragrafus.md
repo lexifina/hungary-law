@@ -1,5 +1,1 @@
-12/B. § (1) Ha a földkiadó bizottság a részarány-tulajdonost jegyzőkönyvbe foglalt döntéssel vagy bizonyíthatóan más módon birtokba helyezte, de erről az ingatlan-nyilvántartásba való bejegyzésre alkalmas okiratot nem adott ki – feltéve, hogy a birtokolt terület AK értéke a tulajdonos jogos igényét nem haladja meg, és a birtokba helyezés más részarány-tulajdonos kérelmének teljesítését nem sérti –, az okiratot a mezőgazdasági igazgatási szerv határozattal pótolja.
-
-(2) Ha a kiadott földrészlet területnagysága és AK értéke a határozat szerinti állapottól legfeljebb 5%-kal, illetve 1 AK-val tér el – ide nem értve az utak kialakításához szükséges területcsökkentést –, a tényleges és a határozat szerinti állapotot azonosnak kell tekinteni.
-
-(3) Ha a részarány-tulajdonos földtulajdonának önálló földrészletté alakítását kérte, de a mezőgazdasági igazgatási szerv felszólítása ellenére, annak közlésétől számított 90 napon belül nem nyújtja be az ingatlanügyi hatósági záradékkal ellátott földmérési munkarészt, földtulajdonát osztatlan közös tulajdonként kell kiadni. A határidőt a mezőgazdasági igazgatási szerv az ügyfél kérésére indokolt esetben legfeljebb harminc nappal meghosszabbíthatja.
+12/B. §
