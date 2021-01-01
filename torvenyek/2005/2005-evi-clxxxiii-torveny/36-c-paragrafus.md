@@ -6,7 +6,7 @@
 
 (3) Az engedéllyel szemben támasztott tartalmi követelményeket és az engedély megszerzésének és hatályának részletes szabályait a miniszter rendeletben állapítja meg.
 
-(4) A járművezetőnek – amennyiben nem a vasúti járművezetői engedélyről és tanúsítványról szóló miniszteri rendelet szerinti meghatalmazott útján jár el – az engedély iránti kérelmet személyesen kell előterjesztenie.
+(4) A járművezető – vagy a vasúti járművezetői engedélyről és tanúsítványról szóló miniszteri rendelet szerinti képviselője – az engedély kiállítása, megújítása, meghosszabbítása és módosítása iránti kérelmet elektronikus úton terjeszti elő.
 
 (5) Ha a közlekedési hatóság azt állapítja meg, hogy a járművezető nem teljesíti az (1) bekezdésben meghatározott valamely feltételt, az engedélyt felfüggeszti, és erről értesíti a Bizottságot. A felfüggesztésről szóló határozat azonnal végrehajtható.
 

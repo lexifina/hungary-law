@@ -8,7 +8,7 @@
 
 (4) A közlekedési hatóság ellenőrzése során a jármű vezetője vagy kezelője a járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a jármű és tartozékai, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során a járműhöz és tartozékaihoz, valamint a rakományhoz tartozó okmányokat a közlekedési hatóság részére be kell mutatni.
 
-(5) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a különleges kötöttpályás közlekedési rendszer üzemének felfüggesztése mellett az üzemeltetőt a vizsgálat vagy a javítás elvégzésére kötelezi, a vizsgált jármű forgalomból való kivonását vagy a személyzet munkavégzésének felfüggesztését rendeli el és bírságot szabhat ki.
+(5) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a különleges kötöttpályás közlekedési rendszer üzemének felfüggesztése mellett az üzemeltetőt a vizsgálat vagy a javítás elvégzésére kötelezi, a vizsgált jármű forgalomból való kivonását rendeli el vagy a személyzetet a munkavégzésétől eltiltja, továbbá bírságot szab ki és bírságot szabhat ki.
 
 (6) A közlekedési hatóság a különleges kötöttpályás közlekedési rendszer üzemeltetőjével szemben a kötöttpálya engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata esetén
 

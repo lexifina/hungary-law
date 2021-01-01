@@ -2,7 +2,7 @@
 
 a) elutasítja az alaptalan kérelmet és dönt az eljárással kapcsolatos költségek viseléséről vagy
 
-b) megállapítja a jogsértés megtörténtét, és
+b) a jogsértés megtörténtének megállapítása mellett, a vasúti piacfelügyeleti bírság mértékére és alkalmazására vonatkozó részletes szabályokról szóló rendeletben foglaltak szerint bírságot szabhat ki, és
 
 ba) a jogsértőt kötelezi az eljárással kapcsolatban felmerült költségek viselésére,
 
@@ -14,11 +14,9 @@ bd) a 79/B. § (1) bekezdés e) pontja szerinti jogvita esetén elrendelheti a D
 
 be) a 79/B. § (1) bekezdés f) pontja szerinti jogvita esetén elrendelheti új Díjszámítási Dokumentum készítését, valamint annak megfelelő díjszabási rendszer Hálózati Üzletszabályzatban való meghirdetését,
 
-bf) a pályahálózat-működtető részére fizetendő (elszámolandó) díjakkal kapcsolatos jogvita esetén megtiltja a jogszerűtlen ellenérték további alkalmazását, egyidejűleg megállapítja a jogszerű ellenértéket és kötelezheti a vasúti társaságot a jogszerű ellenérték alkalmazására,
+bf) a pályahálózat-működtető részére fizetendő (elszámolandó) díjakkal kapcsolatos jogvita esetén megtiltja a jogszerűtlen ellenérték további alkalmazását, egyidejűleg megállapítja a jogszerű ellenértéket és kötelezheti a vasúti társaságot a jogszerű ellenérték alkalmazására.
 
-bg) a vasúti piacfelügyeleti bírság mértékére és alkalmazására vonatkozó részletes szabályokról szóló rendeletben foglaltak szerint bírságot szab ki.
-
-(2) A vasúti igazgatási szerv az (1) bekezdésben meghatározott jogkövetkezmények közül egyidejűleg többet is alkalmazhat.
+(2) A vasúti igazgatási szerv az (1) bekezdés b) pontjában meghatározott jogkövetkezmények közül egyidejűleg többet is alkalmazhat.
 
 (3) Ha a vasúti igazgatási szerv az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt a hatáskörrel rendelkező hatóságnak, így különösen a Gazdasági Versenyhivatalnak (a továbbiakban: versenyhatóság) jelezni.
 

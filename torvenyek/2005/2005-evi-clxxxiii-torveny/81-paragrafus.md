@@ -6,7 +6,7 @@ a) az üzemben tartót a vizsgálat vagy a javítás elvégzésére illetve az �
 
 b) az üzemben tartóval szemben bírságot szab ki.
 
-(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a vasúti pálya üzemének megszüntetését, a vizsgált jármű forgalomból való kivonását, vagy a vasúti személyzet munkavégzésének felfüggesztését rendeli el.
+(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a vasúti pálya üzemének megszüntetését, a vizsgált jármű forgalomból való kivonását, vagy a vasúti személyzet munkavégzésének felfüggesztését vagy a vasúti társaság tevékenység végzésétől történő eltiltását rendeli el, valamint bírságot szab ki.
 
 (3) A közlekedési hatóság a vasúti pályának, a vasúti járműnek vagy a vasúti járműre szerelt nyomástartó edénynek engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata, üzemeltetése esetén
 
@@ -88,7 +88,7 @@ d) a korábbi jogsértő magatartást, valamint
 
 e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, illetőleg a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
 
-(15) Az e § szerinti bírság (a továbbiakban: vasúti bírság) a cselekmény elkövetésétől számított három éven belül szabható ki. Folyamatos cselekmény, illetve jogsértő állapot fenntartása esetén e határidő a cselekmény befejezésekor, illetve az állapot megszüntetésekor kezdődik. A vasúti bírság ismételten is kiszabható.
+(15) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
 
 (16) Az e törvényben vagy a végrehajtására kiadott rendeletben meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
 

@@ -14,6 +14,8 @@ e) a képzést és vizsgáztatást, illetve az egészségi alkalmasság vizsgál
 
 f) a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok minősítését, valamint hatósági műszaki vizsgálatát végző személyek természetes személyazonosító adatait
 
+g) a nemzeti vasúti járműnyilvántartásban a vasúti jármű tulajdonosának adatait, amennyiben a jármű tulajdonosa természetes személy, akkor a tulajdonos természetes személyazonosító adatait
+
 kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.
 
 (2) A közlekedési hatóság személyes adatokat a vasúti közlekedés zavartalanságának biztosítása, a vasúti közlekedés biztonságának fenntartása, valamint a 80. § (4) bekezdésének c), h) és j) pontjaiban meghatározott feladatok ellátása érdekében kezeli.
@@ -25,6 +27,8 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 a) az (1) bekezdés a) és b) pontjában meghatározott esetben az érintett természetes személy a közlekedési hatósági vizsgához kötött, vagy külön jogszabályban meghatározott munkakört betölti,
 
 b) az (1) bekezdés c) pontjában meghatározott esetben az érintett természetes személy a vasúti társaság ügyvezetését, valamint a vasúti közlekedési tevékenység szakmai irányítását ellátja.
+
+c) az (1) bekezdés g) pontjában meghatározott esetben a vasúti jármű nyilvántartásból való törlését követő 10 éves megőrzési idő le nem telik.
 
 (5) A közlekedési hatóság mint adatkezelő szerv biztosítja az adatok védelmét a véletlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
 
