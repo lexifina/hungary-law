@@ -11,3 +11,5 @@
 (5) A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit az ELKH Titkárság – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
 
 (6) A Kormány ELKH-val és az ELKH Titkársággal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
+
+(7) Az ELKH Titkárság feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát érintő jogszabályok megalkotása és módosítása során.

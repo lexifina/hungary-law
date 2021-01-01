@@ -16,7 +16,7 @@ d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációj�
 
 e) az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályait,
 
-f) a Nemzeti Tudománypolitikai Tanács működésének részletes szabályait,
+f)
 
 g) a kutatóhely költségvetési szervnél vendégkutatóként történő foglalkoztatás további szabályait.
 

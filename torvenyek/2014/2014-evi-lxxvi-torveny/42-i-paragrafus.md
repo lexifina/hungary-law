@@ -6,6 +6,6 @@
 
 (3) Az ELKH Titkárságán foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni.
 
-(4) Kutatóhelyeknél foglalkoztatottak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), valamint az Mt. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni. A Kjt. határozott idejű jogviszony létesítésére vonatkozó rendelkezését azzal az eltéréssel kell alkalmazni, hogy a 2. mellékletben foglalt központi költségvetési szerv közfeladatának ellátása során azonos foglalkoztatottra vonatkozóan egy alkalommal legfeljebb három év határozott időtartamra tudományos kutatói közalkalmazotti jogviszonyt létesíthet a Kjt. 21. § (2) bekezdésében felsorolt kivételi eseteken túlmenően. A Kjt.-ben meghatározott, a büntetlen előéletre és a foglalkoztatástól eltiltás hiányára vonatkozó feltételt nem kell igazolni, ha a kizáró ok hiányát a 2. mellékletben foglalt köztestületi vagy központi költségvetési szervvel létesített korábbi megbízási vagy foglalkoztatási jogviszonyára tekintettel a foglalkoztatni kívánt személy már igazolta, és a korábbi jogviszony megszűnése óta legfeljebb hat hónap telt el.
+(4) A kutatóhelyeknél foglalkoztatottak jogviszonyára az Mt. rendelkezéseit kell alkalmazni.
 
-(5) Az ELKH szervezetében foglalkoztatottak számára keresetkiegészítés állapítható meg.
+(5)

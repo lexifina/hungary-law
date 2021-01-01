@@ -34,6 +34,8 @@
 
 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
 
+14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az ELKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg;
+
 15. ellátja az alapító okirat által hatáskörébe utalt feladatokat.
 
 (4) Az Irányító Testület legalább negyedévente ülésezik, működésének részletes szabályait a szervezeti és működési szabályzat keretei között ügyrendjében állapítja meg azzal, hogy az Irányító Testület szavazásra jogosult tagjai többségének támogató szavazata szükséges a (3) bekezdés 2., 3., 5., és 10. pontja szerinti döntésekhez.

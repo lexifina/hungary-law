@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-76-00-00
 | 2020-01-01 | 2019. évi CXXIII. törvény | 2014-76-00-00.13 |
 | 2020-01-02 | 2019. évi CXXIII. törvény | 2014-76-00-00.14 |
 | 2020-11-30 | 2020. évi CXIV. törvény | 2014-76-00-00.15 |
+| 2021-01-01 | 2020. évi CXIV. törvény | 2014-76-00-00.16 |
