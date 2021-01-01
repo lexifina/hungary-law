@@ -1,17 +1,27 @@
 ## 20. Szívességi földhasználat
 
-68. § (1) A szívességi földhasználati szerződés alapján a használatba adó a föld használatát, hasznosítását a Földforgalmi törvény szerinti közeli hozzátartozója részére ingyenesen engedi át. A haszonbérfizetés és a (2)–(4) bekezdésben foglaltak kivételével a szerződő felek jogaira és kötelezettségeire a haszonbérleti szerződésben részes feleket megillető jogok, illetve terhelő kötelezettségek az irányadók.
+68. § (1) A szívességi földhasználati szerződés alapján a használatba adó a föld használatát, hasznosítását ingyenesen engedi át
 
-(2) A szívességi földhasználat megszűnik
+a) a Földforgalmi törvény szerinti közeli hozzátartozója részére, vagy
 
-a) a határozott időtartamú szerződés esetén az időtartam lejártával, a lejárat napján, határozatlan időtartamú szerződés esetén közös megegyezéssel, a szerződő felek által meghatározott napon,
+b) olyan családi mezőgazdasági társaság részére, amelyben tag.
 
-b) felmondással,
+(2) A haszonbérfizetés és a (3)–(5) bekezdésben foglaltak kivételével a szerződő felek jogaira és kötelezettségeire a haszonbérleti szerződésben részes feleket megillető jogok, illetve terhelő kötelezettségek az irányadók.
 
-c) azonnali hatályú felmondással,
+(3) A szívességi földhasználati szerződés megszűnik
 
-d) a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon.
+a) a határozott időtartamú szerződés esetén az időtartam lejártával, a lejárat napján,
 
-(3) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
+b) közös megegyezéssel, a szerződő felek által meghatározott napon,
 
-(4) A határozott időtartamú szerződés azonnali hatályú felmondással való megszüntetésére – a szerződő felek eltérő megállapodása hiányában – a haszonbérleti szerződés azonnali hatályú felmondására vonatkozó szabályok az irányadók.
+c) felmondással,
+
+d) azonnali hatályú felmondással,
+
+e) az (1) bekezdés a) pontja szerinti esetben a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon,
+
+f) az (1) bekezdés b) pontja szerinti esetben a családi mezőgazdasági társaságban fennálló tagsági viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon.
+
+(4) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
+
+(5) A határozott időtartamú szerződés azonnali hatályú felmondással való megszüntetésére – a szerződő felek eltérő megállapodása hiányában – a haszonbérleti szerződés azonnali hatályú felmondására vonatkozó szabályok az irányadók.

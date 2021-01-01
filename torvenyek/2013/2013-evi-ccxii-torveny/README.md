@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2013-212-00-00.31 |
 | 2020-03-01 | 11/2020. (V. 28.) AB határozat | 2013-212-00-00.32 |
 | 2020-07-01 | 2020. évi XL. törvény | 2013-212-00-00.33 |
+| 2021-01-01 | 2020. évi CXXIII. törvény | 2013-212-00-00.34 |

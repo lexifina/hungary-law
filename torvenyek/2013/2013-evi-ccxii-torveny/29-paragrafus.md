@@ -18,7 +18,7 @@ h) az adóhatóság az adóhatóság által kezelt gazdasági tevékenységek eg
 
 i) a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartásban szereplő adatokat,
 
-j) a családi gazdálkodókról vezetett nyilvántartásban szereplő adatokat,
+j) a családi mezőgazdasági társaságról, illetve az őstermelők családi gazdaságáról vezetett nyilvántartásban szereplő adatokat,
 
 k) a takarmány-vállalkozásokról vezetett nyilvántartásban szereplő adatokat,
 

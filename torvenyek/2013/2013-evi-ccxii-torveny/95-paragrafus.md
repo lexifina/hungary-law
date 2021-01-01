@@ -20,7 +20,7 @@ c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatároz
 
 (7) A földhasználati nyilvántartási eljárásokban sommás eljárásnak nincs helye.
 
-(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy a bírság összege nem lehet kevesebb tízezer forintnál.
+(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával figyelmezteti és írásban kötelezi a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese.
 
 (9) A föld elkülönített közös használata esetében, illetve a közös tulajdonban álló föld esetében a (8) bekezdés szerinti bírság megfizetésére a mulasztó földhasználók, illetve a tulajdonostársak egyetemlegesen kötelezhetők.
 

@@ -32,11 +32,13 @@ bb) a mezőgazdasági üzemközpontja legalább 3 éve azon a településen van,
 
 (9) A (6)–(8) bekezdésben meghatározott csoportokon belüli földművesek közül kényszerhasznosítóként való kiválasztás sorrendje a következő:
 
-a) a családi gazdálkodó, illetve gazdálkodó család tagja,
+a) a családi mezőgazdasági társaság tagja,
 
-b) fiatal földműves,
+b) az őstermelők családi gazdaságának tagja,
 
-c) pályakezdő gazdálkodó.
+c) fiatal földműves,
+
+d) pályakezdő gazdálkodó.
 
 (10) Ha több, azonos ranghelyen álló nyilvántartott kérelmezőt lehetne kényszerhasznosítóként kijelölni, a mezőgazdasági igazgatási szerv a helyi földbizottság javaslatának figyelembevételével választja ki az azonos ranghelyen álló nyilvántartott kérelmezők közül a föld kényszerhasznosítóját.
 

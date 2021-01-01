@@ -4,7 +4,7 @@
 
 104. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) a családi gazdaságok létrehozására, nyilvántartásba vételére és a nyilvántartás vezetésére vonatkozó szabályokat,
+a)
 
 b) a földhasználati nyilvántartás részletes szabályait,
 
