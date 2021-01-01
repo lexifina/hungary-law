@@ -1,14 +1,6 @@
 ## 1. egyetért a 2020. évben Budapesten megvalósuló Eucharisztikus Világkongresszus, valamint a 2021. évben megrendezésre kerülő Vadászati Világkiállítás méltó megrendezése érdekében a HUNGEXPO Budapesti Vásárközpont átfogó fejlesztésével;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1. pont szerinti beruházás előkészítési feladatainak (tervpályázat, engedélyezési és kivitelezési tervek elkészítése és jóváhagyása) finanszírozása érdekében 1527,8 millió forint egyszeri átcsoportosítását rendeli el a Magyarország 2017. évi központi költségvetéséről szóló 2016. XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet javára az 1. melléklet szerint, azzal, hogy az előkészítés során – a költségvetési források takarékos felhasználása érdekében – biztosítani kell a HUNGEXPO Budapesti Vásárközpont területén folyó fejlesztések közötti összhang megteremtését;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján az Expo Park Kft. tegye meg a szükséges intézkedéseket az 1. pont szerinti cél megvalósítása érdekében;
 
@@ -54,76 +46,7 @@
 
 ## 10. felkéri az Esztergom-Budapest Főegyházmegye érsekét, valamint a Nemzetközi Vadászati és Vadvédelmi Tanács elnökét, hogy a 8. pont szerinti munkacsoportban – a területet érintő téma tárgyalásával összefüggő kérdések tekintetében – személyesen vagy képviselője útján vegyen részt.
 
-1. melléklet az 1563/2017. (VIII. 28.) Korm. határozathoz
+1. melléklet az 1563/2017. (VIII. 28.) Korm. határozathoz[^2]
 
-XVII. Nemzeti Fejlesztési Minisztérium
-
-XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
-
-ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
-
-a Kormány hatáskörében
-
-Költségvetési év: 2017.
-
-forintban
-
-| Államház-tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XLIII. |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Ingatlanokkal és ingóságokkal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 1 |  |  |  |  |  | Ingatlan-beruházások, ingatlanvásárlás |  |  |  |  |  |  |  |  |  |  |  |
-
-| 359928 |  |  |  |  | 13 |  |  |  |  |  | Hungexpo fejlesztése |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 1 527 780 000 |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 368573 |  |  | 61 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 1 527 780 000 |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államház-tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház-tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 368573 |  |  | 61 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  | 1 527 780 000 |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II.n.év | III.n.év | IV.n.év |
-
-| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal |  | -1 527 780 000 |  |  |  |  |  |  |  |  |  |  | -1 527 780 000 |  |
-
-| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján hatályát vesztette.
