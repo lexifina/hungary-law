@@ -1,0 +1,1 @@
+## „(4) Az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszának megindításához igazolni kell, hogy a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményt adott.”

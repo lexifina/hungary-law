@@ -1,0 +1,1 @@
+## „(12a) Kiemelten védett műemléket érintő restaurátori beavatkozások esetén az Országos Építészeti Tervtanács véleménye kialakításához a Lechner Tudásközpont által javasolt, a tervezett beavatkozásnak megfelelő területen jogosultsággal rendelkező restaurátor szakértőt von be.”

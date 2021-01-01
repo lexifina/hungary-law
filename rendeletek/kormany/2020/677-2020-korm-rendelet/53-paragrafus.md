@@ -1,0 +1,1 @@
+## 52. § A kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendelet 6. § (10) bekezdésében a „nyilvántartott műemléki értékekre” szövegrész helyébe a „műemlékre” szöveg lép.

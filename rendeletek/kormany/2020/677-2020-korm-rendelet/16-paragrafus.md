@@ -1,0 +1,1 @@
+## „(5) Kiemelten védett műemléket, védett műemléket vagy műemléki területet érintő tervtanácsi eljárásban a tervtanács véleményében a beruházás kivitelezési részletterveinek – a kivitelezés megkezdését megelőzően – véleményezésre történő megküldését írhatja elő.”
