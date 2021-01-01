@@ -7,3 +7,5 @@
 (4) A szervezett villamosenergia-piaci engedélyes kötelező adatszolgáltatására és az adatok, információk közzétételére vonatkozó szabályokat külön jogszabály és a működési engedély tartalmazza.
 
 (5) A szervezett villamosenergia-piaci engedélyes vagy a szervezett villamosenergia-piaci engedélyesnek szolgáltatást nyújtó harmadik személy 74. § (1) bekezdés a)–b) és d)–f) pontja szerint, valamint a harmadik személy a 74. § (1) bekezdés g) pontja szerinti engedélyköteles tevékenységet nem folytathat
+
+(6) A szervezett villamosenergia-piaci engedélyes aggregálást nem végezhet.

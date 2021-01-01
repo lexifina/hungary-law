@@ -24,7 +24,7 @@ k)–l)
 
 m) az európai rendszer-együttműködésből a magyar villamosenergia-rendszerre nézve keletkező feladatok összehangolása,
 
-n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása,
+n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása, beleértve az átviteli hálózati csomópontokon kiadható kapacitás mértékének a hathavi rendszerességgel történő meghatározását és hozzáférhetővé tételét is,
 
 o) a keresletoldali szabályozási intézkedéseknek a villamosenergia-ellátási szabályzatokban meghatározott összehangolása és ösztönzése,
 

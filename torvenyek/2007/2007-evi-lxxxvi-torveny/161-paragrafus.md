@@ -4,7 +4,7 @@
 
 (2) A Hivatal felügyeleti tevékenységéért az 500 kW alatti névleges teljesítőképességű, kötelező átvételi vagy prémium típusú támogatással rendelkező termelő a jogosultságot megállapító határozat véglegessé válásának évében és ezt követően évente a Hivatal számára ötvenezer forint felügyeleti díjat fizet.
 
-(3) Az az engedélyes, amely az éves beszámolóját az Szt. 9/A. §-a alapján az IFRS-ek szerint készíti el, a felügyeleti díj meghatározása során az engedélye alapján végzett tevékenységéből származó előző évi nettó árbevételét a Helyi adó tv. 40/B. § és 40/C. §-a alapján állapítja meg azzal, hogy:
+(3) Az az engedélyes, amely az éves beszámolóját az Szt. 9/A. §-a alapján az IFRS-ek szerint készíti el, a felügyeleti díj meghatározása során az engedélye alapján végzett tevékenységéből származó előző évi nettó árbevételét a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Helyi adó tv.) 40/B. § és 40/C. §-a alapján állapítja meg azzal, hogy:
 
 a) a megállapított nettó árbevételből az engedélye alapján végzett tevékenységéből származó összeget nem csökkentheti a Helyi adó tv. 40/C. § (3) bekezdés a)–c) pontjában felsorolt tételekkel, és
 

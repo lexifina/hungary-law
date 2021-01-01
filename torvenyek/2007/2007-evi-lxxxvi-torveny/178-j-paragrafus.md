@@ -1,4 +1,4 @@
-178/J. § (1) A Mód. 2. törvény hatálybelépést követően újonnan 132 kV-nál kisebb feszültségű elosztó hálózati és közvilágítási elosztó hálózati vezeték belterületen kizárólag földkábellel létesíthető. A földkábellel létesített elosztó hálózati és közvilágítási elosztó hálózati vezeték létesítésének költségét – a 144. § alkalmazása mellett, a 119. §-ban foglaltak kivételével – az elosztó viseli.
+178/J. § (1) A Mód. 2. törvény hatálybelépést követően újonnan 132 kV-nál kisebb feszültségű elosztó hálózati és közvilágítási elosztó hálózati vezeték belterületen kizárólag földkábellel létesíthető. A földkábellel létesített elosztó hálózati és közvilágítási elosztó hálózati vezeték létesítésének költségét – a 146/A. § alkalmazása mellett, a 119. §-ban foglaltak kivételével – az elosztó viseli.
 
 (2) Az (1) bekezdést az annak hatálybalépését követően indult építésügyi hatósági engedélyezési eljárásokban kell alkalmazni.
 

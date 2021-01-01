@@ -16,6 +16,8 @@ a) a (3) bekezdés a) pontja szerinti módszertani útmutatót a következő ár
 
 b) a (3) bekezdés b) pontja szerinti útmutatót a következő árszabályozási ciklus kezdetét legalább 60 nappal megelőzően
 
+c) a rendszerhasználati díjak kiszámításához alapul vett, üzleti titoknak nem minősülő költségadatokat, az ármegállapítást követő 5 napon belül
+
 a honlapján közzéteszi.
 
 (5) A rendszerhasználati díjak mértékét a Hivatal – figyelemmel a (2) bekezdés szerinti rendeletre és a módszertani útmutatókra – határozatban állapítja meg, legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a rendszerhasználati díjak megállapítására irányuló eljárás megindításakor felhívja az ügyfeleket a nyilatkozataiknak az eljárás megindításától számított 30 napon belül történő megtételére, amely határidő jogvesztő. A Hivatal a határozatát a honlapján a rendszerhasználati díjak alkalmazhatósága előtt legalább 40 nappal közzéteszi.(6) A kiegyenlítő fizetés végrehajtása érdekében a Hivatal a kiegyenlítő fizetés mértékét a rendszerhasználati díjakról kiadott határozatában állapítja meg.

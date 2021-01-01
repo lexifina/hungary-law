@@ -7,3 +7,9 @@
 (3) A hálózati csatlakozási szerződés tartalmi elemeit a Kormány rendeletben állapítja meg.
 
 (4) A hálózati engedélyes az átviteli és az elosztó hálózathoz való csatlakozás megtagadásakor a 27. §-ban meghatározottak szerint jár el.
+
+(5) A közcélú hálózatra kapcsolni kívánt erőmű hálózati csatlakozási szerződésében a csatlakozás igénybevételére meghatározott időpont nem lehet későbbi, mint a hálózati csatlakozási szerződés hatálybalépésétől számított
+
+a) kiserőmű esetén – a háztartási méretű kiserőművet ide nem értve – három év,
+
+b) 50 MW és ezt meghaladó teljesítő képességű erőmű esetén öt év.

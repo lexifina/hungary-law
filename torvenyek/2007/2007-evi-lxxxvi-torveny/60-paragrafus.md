@@ -10,7 +10,17 @@ c) a (2b) és (2c) bekezdés szerinti esetekben ingyenesen átszáll a hálózat
 
 (2a) A rendszerhasználó rendelkezési jogát – a (2b) és a (2c) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
 
-(2b) Ha a termelő villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig nem veszi igénybe, és arról ez idő alatt a hálózati engedélyes irányába nem rendelkezik, akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll.
+(2b) Ha a termelő
+
+a) villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig, vagy
+
+b) – az atomenergiáról szóló törvény hatálya alá tartozó engedélyes kivételével – a betáplálásra rendelkezésre álló teljesítményét a hálózati csatlakozási szerződés hatálybalépésének napját követő
+
+ba) kiserőművek esetén három éven belül,
+
+bb) 50 MW és ezt meghaladó teljesítő képességű erőmű esetén öt éven belül
+
+nem veszi igénybe, és arról ez idő alatt a termelő a hálózati engedélyes irányába nem rendelkezik, akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll. A b) pont szerinti határidőt a hálózati engedélyes a termelő kérelmére legfeljebb egy alkalommal, legfeljebb hat hónappal meghosszabbítja, ha a termelő a hálózati csatlakozási szerződés szerinti teljes csatlakozási díjat a határidő meghosszabbítására irányuló kérelem benyújtásáig megfizette.
 
 (2c) Ha a felhasználó vagy az erőmű vételezési teljesítménye tekintetében a termelő a hálózati engedélyes irányába nem rendelkezik a rendelkezésre álló teljesítményéről és
 

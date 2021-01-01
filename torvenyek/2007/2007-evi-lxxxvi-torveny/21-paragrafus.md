@@ -1,6 +1,6 @@
 21. § (1) Az átviteli rendszerirányító a 16. §-ban foglalt rendelkezések végrehajtása érdekében – a számára egyértelműen megadott, tetszőleges számú elszámolási pont által meghatározott, mérlegkörök rendszerén alapuló – elszámolási rendszert működtet. Ennek részletes szabályait a kereskedelmi szabályzat tartalmazza.
 
-(2) A termelő, a villamosenergia-kereskedő, az egyetemes szolgáltató, a felhasználó, az elosztó köteles mérlegkört alakítani, vagy az érintettek megállapodása esetén – jogszabály eltérő rendelkezése hiányában – bármely mérlegkörhöz csatlakozni. A mérlegkört az átviteli rendszerirányító irányába a mérlegkörfelelős képviseli.
+(2) A termelő, a villamosenergia-kereskedő, az egyetemes szolgáltató, a felhasználó, az aggregátor, az energiaközösség, az elosztó köteles mérlegkört alakítani, vagy az érintettek megállapodása esetén – jogszabály eltérő rendelkezése hiányában – bármely mérlegkörhöz csatlakozni. A mérlegkört az átviteli rendszerirányító irányába a mérlegkörfelelős képviseli.
 
 (3) A szervezett villamosenergia-piac engedélyese köteles önálló mérlegkört alapítani. Az e mérlegkör által az átviteli rendszerirányító részére bejelentett, kiegyenlített és az átviteli rendszerirányító által visszaigazolt ügyletek végrehajtása csak a 36. § szerint korlátozható.
 

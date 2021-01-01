@@ -1,0 +1,13 @@
+## Az energiaközösség
+
+66/B. § (1) Az energiaközösség szövetkezet vagy nonprofit gazdasági társaság formában működő jogalany, amelynek elsődleges célja nem a pénzügyi haszonszerzés, hanem hogy a tagjai számára, vagy az energiaközösség létesítő okiratában megjelölt működési területen környezeti, gazdasági és szociális közösségi előnyöket biztosítson azáltal, hogy villamosenergia termelés, tárolás, fogyasztás, elosztói rugalmassági szolgáltatás nyújtása, villamosenergia-megosztás, aggregálás, a közúti közlekedésről szóló törvény szerinti elektromobilitás szolgáltatás nyújtása és elektromos töltőberendezés üzemeltetése tevékenységek közül legalább az egyiket végzi.
+
+(2) Az energiaközösség nem végezhet a 74. § (1) bekezdés c), d), f) és g) pontja szerinti tevékenységeket. Az energiaközösség a megfelelő engedély birtokában a 74. § (1) bekezdés a), b), e) és h–l) pontja szerinti tevékenységeket végezheti.
+
+(3) Az energiaközösség e törvény által szabályozott tevékenységét érintően nem vehet részt határon átnyúló együttműködésben.
+
+(4) Energiaközösségben történő részvétel nem érintheti hátrányosan a felhasználó e törvényben szabályozott megszerzett jogait és kötelezettségeit.
+
+(5) Az a természetes vagy jogi személy, aki foglalkozását vagy elsődleges gazdasági tevékenységét a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1893/2006/EK rendelet) I. melléklete szerinti villamosenergia, gázellátás területén fejti ki, vagy olyan jogi személyben rendelkezik egyedüli vagy többségi tulajdonnal, meghatározó befolyással, illetve olyan jogi személy vezető tisztségviselője vagy kapcsolt vállalkozása, amely főtevékenységét az 1893/2006/EK rendelet I. melléklete szerinti villamosenergia, gázellátás területén fejti ki, nem lehet az energiaközösség ügyvezetését egyedül vagy – amennyiben az energiaközösség ügyvezetését több személyből álló testület látja el – többségben ellátó tagja.
+
+(6) Az energiaközösség döntéshozó szervében nem vehet részt az irányítási jog gyakorlásához szükséges mértékben az (5) bekezdésben meghatározott természetes vagy jogi személy.

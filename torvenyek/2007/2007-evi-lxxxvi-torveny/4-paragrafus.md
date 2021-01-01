@@ -10,7 +10,7 @@
 
 a) a saját maga által termelt villamos energiát,
 
-b) az átviteli rendszerirányítótól rendszerszintű szolgáltatások keretében átvett villamos energiát
+b) az átviteli rendszerirányítótól rendszerszintű szolgáltatások vagy az elosztótól elosztói rugalmassági szolgáltatás keretében átvett villamos energiát
 
 értékesítheti.
 

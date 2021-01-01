@@ -2,4 +2,4 @@
 
 (2) A kiegyenlítő fizetés nem minősül az átviteli rendszerirányító bevételének, és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartozik bele az általános forgalmi adó alapjába, az átviteli rendszerirányító azt más célra nem fordíthatja és köteles azt egyéb pénzeszközeitől elkülönítetten kezelni. Az átviteli rendszerirányító köteles a kiegyenlítő fizetés végrehajtása érdekében létrehozott elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként kimutatni.
 
-(3) A rendszerszintű szolgáltatás keretében az átviteli rendszerirányító által lekötött kapacitások, valamint a rendszerszintű szolgáltatás szempontjából annak elválaszthatatlan részét képező, igénybevett villamos energia számviteli szempontból a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Helyi adó tv.) 52. § 40. pontja szerinti közvetített szolgáltatásnak minősül.
+(3)

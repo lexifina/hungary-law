@@ -32,7 +32,7 @@
 
 15. e törvény szerint jóváhagyja az engedélyest érintő cégjogi eseményt, az engedélyesekben történő befolyásszerzést, és az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, vagy egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését,
 
-16.
+16. figyelemmel kíséri az aktív felhasználó, az együttesen tevékenykedő aktív felhasználók vagy az energiaközösség által termelt és elfogyasztott villamos energia mennyiségének alakulását, az energiaközösségek alapítását, az aggregátori tevékenység elterjedését, az ezeket akadályozó tényezőket azonosítja és azok felszámolása érdekében javaslatokat fogalmaz meg a miniszter számára,
 
 17.
 
@@ -72,6 +72,12 @@ e) dönt az egységes másnapi és napon belüli piac-összekapcsolásnak a kije
 
 f) részt vesz és megállapodik a 2015/1222/EU bizottsági rendelet 32. cikk (4) bekezdés c) pontja szerinti egyeztetési folyamatban a felülvizsgálat során benyújtott közös javaslatról.
 
+10. a piac egészére kiterjedő, a villamosenergia-kereskedők ajánlatait összehasonlító eszközt működtet az engedélyesek adatszolgáltatása alapján és biztosítja a közzétett ajánlatokra vonatkozó, nem valósághű információk bejelentésének lehetőségét,
+
+11. az elosztói rugalmassági szolgáltatások és a nem frekvenciavonatkozású kisegítő szolgáltatások beszerzésének gazdaságossági szempontú értékelése alapján, ha a Hivatal megállapítja, hogy az e szolgáltatások átlátható, megkülönböztetésmentes, az egyenlő bánásmód követelményének megfelelő, piaci alapú eljárásokkal összhangban történő beszerzése gazdaságilag nem hatékony, akkor kivételt állapíthat meg az elosztói rugalmassági szolgáltatásoknak és nem frekvenciavonatkozású kisegítő szolgáltatásoknak az e törvényben meghatározott eljárások keretében történő beszerzése alól,
+
+12. figyelemmel kíséri és éves jelentést tesz közzé a rugalmas árszabást tartalmazó szerződések fontosabb változásairól – a piaci ajánlatokat, a fogyasztók számláira gyakorolt hatást és az áringadozás szintjét is ideértve –, valamint figyelemmel kíséri a rugalmas árszabással kapcsolatos villamosenergia-piaci fejleményeket, vizsgálja az új termékekben és szolgáltatásokban rejlő kockázatokat és azonosítja a visszaélésszerű gyakorlatokat.
+
 (4) A Hivatal a szétválasztási szabályok teljesítésével kapcsolatos feladatai körében:
 
 1. jóváhagyja az átviteli rendszerirányító és a vertikálisan integrált villamosenergia-ipari vállalkozás közötti pénzügyi és kereskedelmi megállapodásokat, az átviteli rendszerirányító által a vertikálisan integrált villamosenergia-ipari vállalkozás részére nyújtható szolgáltatás feltételeit, továbbá a 26/A. § (5) bekezdése szerinti megállapodásokat,
@@ -97,6 +103,8 @@ f) részt vesz és megállapodik a 2015/1222/EU bizottsági rendelet 32. cikk (4
 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról,
 
 4. elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
+
+5. tájékoztatást nyújt a felhasználók részére a jogaikra, az alkalmazandó jogszabályokra és a jogvita esetén rendelkezésükre álló vitarendezési mechanizmusokra vonatkozóan.
 
 (6) A Hivatal az adatszolgáltatással kapcsolatos feladatai körében:
 

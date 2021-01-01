@@ -6,7 +6,9 @@
 
 2. Átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer – beleértve a tartószerkezeteket és a határkeresztező vezetékeket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
 
-3.
+3. Aggregálás: az elosztó, átviteli hálózatra vagy magánvezetékre csatlakozó erőművek, felhasználói berendezések, villamosenergia-tárolók kombinálása, valamely villamosenergia-piacon értékesítés, vásárlás vagy aukció céljából;
+
+3a. Aggregátor: aggregálást végző piaci szereplő;
 
 4. Biomassza: a mezőgazdaságból, erdőgazdálkodásból és az ehhez kapcsolódó iparágakból származó termékek, hulladékok és maradékanyagok (a növényi és állati eredetűeket is beleértve) biológiailag lebontható része, valamint az ipari és települési hulladék biológiailag lebontható része;
 
@@ -22,9 +24,9 @@
 
 7. Egyetemes szolgáltatás: a villamosenergia-kereskedelem körébe tartozó sajátos villamosenergia-értékesítési mód, amely Magyarország területén bárhol, meghatározott minőségben a jogosult felhasználó számára méltányos, összehasonlítható, átlátható ár ellenében igénybe vehető;
 
-7a.
+7a. Adatgazdálkodás: a villamosenergia-ellátási szabályzatokban meghatározott fogyasztásmérési és fogyasztási adatok, valamint a kereskedőváltáshoz, az aggregátorváltáshoz, a keresletoldali szabályozáshoz és az egyéb szolgáltatásokhoz szükséges adatok cseréjére és az adatokhoz történő hozzáférésre vonatkozó azon szabályok összessége, amelyek mentén az adatok beszerzése, összegyűjtése, validálása, tárolása, védelme, feldolgozása történik, és amelyek biztosítják az adatokhoz való megkülönböztetésmentes, egyidejű és könnyű hozzáférést, a kiberbiztonság és adatvédelem legmagasabb fokát, valamint az adatkezelők pártatlanságát;
 
-7b.
+7b. Hálózatüzemeltetési adat: minden olyan, a hálózati engedélyesnél az okosmérőből és a távlehívható fogyasztásmérő-berendezésből származó adat, amely a közcélú hálózat irányításához, üzemviteléhez és fejlesztéséhez szükséges és nem minősül felhasználói elszámolási célú mérési adatnak;
 
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
@@ -36,7 +38,7 @@
 
 11a. Elszámolási időszak: szerződésben megállapított, elszámolás alapjául szolgáló, két mérőleolvasás közötti időszak;
 
-12. Elszámolási pont: az elszámolási mérés, vagy a mérési rendszer alapján létrehozott vagy mérésekből számítási eljárással képzett elszámolási mérési pont, amelyhez egyértelműen hozzárendelhető a menetrend, a rendszerszintű szolgáltatás, az elszámolási mérés, és amely elszámolási pont a csatlakozási ponttal egyértelműen összerendelhető;
+12. Elszámolási pont: az elszámolási mérés, vagy a mérési rendszer alapján létrehozott vagy mérésekből számítási eljárással képzett elszámolási mérési pont, amelyhez egyértelműen hozzárendelhető a menetrend, a rendszerszintű szolgáltatás, az elosztói rugalmassági szolgáltatás, az elszámolási mérés, és amely elszámolási pont a csatlakozási ponttal egyértelműen összerendelhető;
 
 13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
 
@@ -49,6 +51,10 @@
 16. Felhasználási hely: egy vagy több csatlakozási ponton keresztül ellátott, összefüggő terület, ahol a felhasználó a villamos energiát felhasználja;
 
 17. Felhasználó: aki villamos energiát a saját felhasználási helyén történő felhasználás céljából közcélú hálózatról vagy magánvezetéken keresztül nem továbbadás útján vételez;
+
+17a. Aktív felhasználó: olyan felhasználó, aki saját maga által termelt vagy tárolt villamos energiát a saját csatlakozási pontján felhasználja vagy tárolja, a közcélú hálózatba betáplálja, vagy fogyasztásának vagy betáplálásának rugalmasságát felajánlja, úgy, hogy az nem minősül önálló foglalkozása vagy elsődleges gazdasági tevékenysége céljából kifejtett tevékenységnek;
+
+17b. Együttesen tevékenykedő aktív felhasználók: olyan felhasználók, akik közös csatlakozási ponton keresztül csatlakoznak a közcélú hálózatra, és az általuk vagy az együttesen tevékenykedő csoport valamely aktív felhasználó tagja által termelt vagy tárolt villamos energiát a közös csatlakozási ponton felhasználják, a közcélú hálózatra betáplálják, vagy fogyasztásuk vagy betáplálásuk rugalmasságát felajánlják, úgy, hogy az nem minősül önálló foglalkozásuk vagy elsődleges gazdasági tevékenységük céljából kifejtett tevékenységnek;
 
 18. Felhasználói berendezés: a felhasználó használatában lévő, villamos energiát termelő, átalakító és kapcsoló berendezés, vezetékhálózat és villamos energiát felhasználó berendezés a tartozékaival (készülékeivel) együtt;
 
@@ -158,7 +164,11 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 52. Rendszerösszekötő vezeték: az átviteli hálózat részét képező határkeresztező vezeték, amely együttműködő villamosenergia-rendszerek hálózatait köti össze;
 
-53. Rendszerszintű szolgáltatás: az átviteli rendszerirányító által a villamosenergia-rendszer mindenkori egyensúlyának és az átvitel megfelelő minőségének fenntartása érdekében biztosított szolgáltatások összessége;
+53. Rendszerszintű szolgáltatás: az átviteli rendszerirányító által a villamosenergia-rendszer mindenkori egyensúlyának és az átvitel megfelelő minőségének fenntartása érdekében – különösen a 2019/943/EU rendelet 2. cikk 10. pontja szerinti kiegyenlítő szabályozás és a nem frekvenciavonatkozású kisegítő szolgáltatások útján – biztosított szolgáltatások összessége;
+
+53a. Elosztói rugalmassági szolgáltatás: az elosztóhálózat zavartalan és biztonságos működtetése és üzemvitele folyamatos biztosítása és hatékonyabbá tétele, valamint a villamosenergia-ellátás minőségének fenntartása érdekében az elosztó által piaci alapú eljárások keretében igénybe vett szolgáltatások összessége, ideértve a 2019/943/EU rendelet 2. cikk 26. pontja szerinti teher-újraelosztást és a nem-frekvenciavonatkozású kisegítő szolgáltatásokat, valamint egyéb az elosztó hálózati szűk keresztmetszet kezelésére irányuló szolgáltatásokat és az elosztói üzemirányítást támogató szolgáltatásokat;
+
+53b. Nem frekvenciavonatkozású kisegítő szolgáltatás: a hálózati engedélyes által az állandósult állapotban mért feszültség ellenőrzése, a gyors reagálású árambetáplálás, a helyi hálózatstabilitási inercia, a rövidzárlati áram, a black start képesség, valamint a szigetszerű működési képesség céljából használt szolgáltatás;
 
 54. Szélerőmű: olyan erőmű, amely a villamos energiát szélenergia felhasználásával termeli;
 
@@ -192,11 +202,13 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 66b. Vételező: aki felhasználótól magánvezetéken továbbadás útján vagy termelőtől közvetlen vezetéken vásárol villamos energiát kizárólag saját felhasználás céljára, és nem minősül felhasználónak;
 
-67. Villamosenergia-ellátási Szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, egyes nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére vonatkozó elosztói szabályzat, valamint a nemzetközi üzemi és kereskedelmi szabályzat;
+67. Villamosenergia-ellátási szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, egyes nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére és az elosztói rugalmassági szolgáltatásokra és azok beszerzésére, igénybevételére és elszámolására vonatkozó elosztói szabályzat, továbbá a nemzetközi üzemi és kereskedelmi szabályzat;
 
 68. Villamosenergia-ipari vállalkozás: az az e törvény szerint engedélyköteles tevékenységet folytató természetes személy, aki az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak az állampolgára, továbbá olyan, az ezen államokban jogszerűen nyilvántartásba vett vállalkozás, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, szövetkezet vagy európai részvénytársaság, amely e törvény szerint engedélyköteles tevékenységet folytat;
 
 69. Villamosenergia-kereskedelem: az a tevékenység, amely a villamos energia és a hozzá tartozó teljesítmény üzletszerű, nem saját felhasználási célra történő vásárlásából és értékesítéséből áll;
+
+69a. Villamosenergia-megosztás: aktív felhasználó vagy energiaközösség által termelt villamos energia közvetlenül más felhasználó vagy energiaközösség részére történő értékesítése vagy ellenérték nélküli átadása a közcélú hálózaton vagy magánvezetéken keresztül;
 
 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 
@@ -204,7 +216,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
 
-72.
+72. Villamosenergia-piac: az energiával, kapacitással, valamint az átviteli vagy elosztó rendszer üzemeltetéséhez szükséges szolgáltatásokkal bármilyen időszakban történő kereskedésre szolgáló platform, a határidős, a másnapi és a napon belüli piacokat, a tőzsdén kívüli piacokat és a szervezett villamosenergia-piacot is ideértve;
 
 74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény;
 
@@ -214,4 +226,6 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 77. Demonstrációs projekt: egy technológiát az Európai Unióban elsőként bemutató, és jelentős, a technika aktuális állását meghaladó újítást képviselő projekt;
 
-78.
+78. Szerződésmegszüntetési díj: a villamosenergia-kereskedő vagy az aggregátor által a villamosenergia-vásárlási vagy aggregálási szerződés felhasználó általi megszüntetése esetén a felhasználóra kiszabott díj vagy pénzügyi szankció;
+
+79. Kereskedőváltással kapcsolatos díj: a villamosenergia-kereskedő vagy az aggregátor vagy a hálózati engedélyes által a kereskedőváltás vagy az aggregátorváltás esetén közvetve vagy közvetlenül a felhasználóra vagy aggregálásban részt vevőre kiszabott díj vagy pénzügyi szankció, ideértve a szerződésmegszüntetési díjat is;

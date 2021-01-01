@@ -4,7 +4,7 @@
 
 121. § (1) A hálózati engedélyes közcélú hálózat idegen ingatlanon történő építése céljából
 
-a)
+a) előmunkálati jogot,
 
 b) vezetékjogot,
 
@@ -24,7 +24,7 @@ c) az ingatlan használatának akadályozásával vagy korlátozásával okozott
 
 (3) Az építtető az 50 MW vagy ezt meghaladó névleges teljesítményű erőmű és a megújuló energiaforrást hasznosító erőmű termelői vezetékének idegen ingatlanon történő elhelyezése céljából
 
-a)
+a) előmunkálati jogot,
 
 b) vezetékjogot
 

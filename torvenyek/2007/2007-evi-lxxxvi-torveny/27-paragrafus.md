@@ -1,6 +1,6 @@
 27. § (1) Az átviteli rendszerirányító és a csatlakozás biztosítására jogosult elosztó hálózati engedélyes köteles a rendszerhasználói igény kielégítésének műszaki, gazdasági feltételeiről tájékoztatást adni, és a legkedvezőbb vételezési vagy betáplálási mód meghatározásában a rendszerhasználóval együttműködni.
 
-(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg. A hálózati engedélyes az adott csatlakozási pontra való csatlakozás megtagadásáról a (3) bekezdésben meghatározottakkal együtt legkésőbb a rendszerhasználói igény bejelentését követő 15 napon belül köteles írásban tájékoztatni a rendszerhasználót.
+(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg. A hálózati engedélyes az adott csatlakozási pontra való csatlakozás megengedhetőségéről vagy annak megtagadásáról a (3) bekezdésben meghatározottakkal együtt legkésőbb a rendszerhasználói igény bejelentését követő 15 napon belül köteles írásban tájékoztatni a rendszerhasználót.
 
 (2a) Ha a kiserőmű a csatlakozási pont kialakítását középfeszültségen, a kiserőmű elhelyezésére szolgáló telek határán igényli, akkor az elosztó köteles ezt az igényt – figyelembe véve a (2) és a (2b) bekezdésben foglaltakat is – teljesíteni.
 
@@ -28,7 +28,17 @@ bc) a felhasználás célja a nemzeti adatvagyon körébe tartozó állami nyilv
 
 c) 132 kV-os feszültségszintre történő csatlakozás esetén, ha a felhasználás célja 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű létesítési munkáihoz szükséges villamos energia biztosítása.
 
-(4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására. A Hivatal a csatlakozás megtagadásának felülvizsgálatára irányuló kérelmet a döntéshez szükséges dokumentumok teljes körű rendelkezésre állásától számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmező rendszerhasználót és az érintett hálózati engedélyest értesíteni. A Hivatal eljárása díjmentes.
+(3c) A 146/A. § (9) bekezdése alapján díjmentes csatlakozásra jogosult igénybejelentő esetében, ha a hálózati engedélyes az igénybejelentést követő, a (2) bekezdésben foglalt határidő lejártát követő napig nem nyilatkozik, a csatlakozással kapcsolatos nyilatkozat megadottnak tekintendő és a csatlakozás a benyújtott, a hálózati csatlakozással összefüggő tervek alapján kivitelezhető.
+
+(3d) A hálózati engedélyes – az igénybejelentő egyidejű tájékoztatása mellett – a (3c) bekezdés szerinti kivitelezés megtiltását kérelmezheti a műszaki biztonsági hatóságnál, ha a (2) bekezdés szerinti feltételek fennállnak. A műszaki biztonsági hatóság a kérelem alapján dönt
+
+a) a tervek kivitelezésre alkalmassága tárgyában, illetve
+
+b) szükség szerint meghatározza azokat a műszaki biztonsági feltételeket, amelyek teljesülése esetén a terv kivitelezésre alkalmassága biztosítható.
+
+(3e) A (3d) bekezdés szerinti eljárás a (3c) bekezdésben foglalt joghatás beálltától számított 20 napon belül kezdeményezhető. A határidő jogvesztő. A műszaki biztonsági hatóság az ügyben 20 napon belül dönt.
+
+(4) A műszaki biztonsági hatóság a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a műszaki biztonsági hatóság az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására. A műszaki biztonsági hatóság a csatlakozás megtagadásának felülvizsgálatára irányuló kérelmet a döntéshez szükséges dokumentumok teljes körű rendelkezésre állásától számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmező rendszerhasználót és az érintett hálózati engedélyest értesíteni. A műszaki biztonsági hatóság eljárása díjmentes.
 
 (5) A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja. A hálózati engedélyes, az igénybejelentő és az általa megbízott vállalkozás kötelesek egymással együttműködni. Az igénybejelentő a vállalkozást a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő vállalkozások közül választhatja ki. A nyilvántartást a műszaki biztonsági hatóság vezeti. A nyilvántartásba olyan vállalkozás vehető fel, amely rendelkezik a kormány rendeletében meghatározott felelősségbiztosítással. A kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét kormányrendelet határozza meg.
 

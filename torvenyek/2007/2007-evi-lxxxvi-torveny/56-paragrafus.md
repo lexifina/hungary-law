@@ -12,8 +12,10 @@ a) a villamosenergia-kereskedőtől,
 
 b) a termelőtől,
 
-c) a szervezett villamosenergia-piacon,
+c) az aggregátortól,
 
-d) villamos energia határon keresztül történő beszállítása útján
+d) a szervezett villamosenergia-piacon,
+
+e) villamos energia határon keresztül történő beszállítása útján
 
 vásárolhat villamos energiát.

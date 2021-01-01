@@ -12,6 +12,8 @@ ba) a villamosenergia-kereskedelmi szolgáltatást a villamos energia egyetemes 
 
 bb) az egyetemes szolgáltatás keretében ellátott felhasználó által igénybe vehető, a Vhr.-ben meghatározott szolgáltatásokat biztosítja.
 
+c) aktív felhasználó vagy energiaközösség megújuló energiaforrásból termelt és megosztott.
+
 (4) A (3) bekezdés b) pont ba) alpontja szerinti alacsonyabb ár díjkedvezmény nyújtásával is biztosítható.
 
 (5) A (3) bekezdés b) pontja arra a villamosenergia-mennyiségre alkalmazható, amelyről a villamosenergia-kereskedő a mérlegkör-felelőse, a mérlegkör-felelős pedig a mérlegkörébe tartozó villamosenergia-kereskedők vonatkozásában az átviteli rendszerirányító részére a mentesség feltételeinek fennállásáról az (1) bekezdés szerinti miniszteri rendeletben előírt határidőig nyilatkozott. A nyilatkozatban foglaltak teljesülését a Hivatal utólag jogosult ellenőrizni, és amennyiben megállapítja, hogy az abban foglaltak nem teljesültek, a villamosenergia-kereskedővel szemben bírságot szab ki.

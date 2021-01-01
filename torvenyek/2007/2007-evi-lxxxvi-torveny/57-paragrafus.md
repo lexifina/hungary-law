@@ -18,6 +18,14 @@ c) amennyiben a felhasználót visszatérítés illeti meg, az annak teljesíté
 
 (5) A felhasználóknak az engedélyesekkel szemben felmerülő panaszai ügyében – az (1) és (2) bekezdésben foglaltak kivételével – a Hivatal jár el. A Hivatal az eljárása során a (4) bekezdés, valamint a 96. § (1) bekezdés szerinti jogkövetkezményeket együttesen és ismételten is alkalmazhatja.
 
+(5a) Az energiaközösség tagjának az energiaközösséggel szemben felmerült, az e törvényben, valamint a végrehajtására kiadott rendeletekben és szabályzatokban foglalt rendelkezések megsértésével kapcsolatos panaszai ügyében
+
+a) lakossági felhasználó esetén a fogyasztóvédelmi hatóság,
+
+b) a lakossági felhasználónak nem minősülő személy esetén a Hivatal
+
+jár el.
+
 (6) A felhasználó a hatósági eljárást megelőzően köteles panaszával – igazolható módon – az engedélyeshez fordulni.
 
 (7) A panaszeljárás a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. E határidő elmulasztása jogvesztéssel jár.
