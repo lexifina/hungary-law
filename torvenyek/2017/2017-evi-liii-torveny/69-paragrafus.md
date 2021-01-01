@@ -8,7 +8,15 @@ c) kötelezi a szolgáltatót a belső szabályzat felügyeletet ellátó szerv 
 
 d) az 1. § (1) bekezdés a)–e), g), i) és m) pontjában meghatározott szolgáltató esetében – törvényben meghatározott korlátok mellett – a felügyeletet ellátó szerv visszavonja vagy a jogsértés megszüntetéséig felfüggeszti a kiadott egyes tevékenységi vagy működéshez szükséges engedélyt;
 
-e) az 1. § (1) bekezdés j), k) és p)–r) pontjában meghatározott szolgáltató esetében a felügyeletet ellátó szerv törli a nyilvántartásból a szolgáltatót, az 1. § (1) bekezdés f) és h) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból történő törlését;
+e) a felügyeletet ellátó szerv
+
+ea) az 1. § (1) bekezdés j) és r) pontjában meghatározott szolgáltató esetében törli a nyilvántartásból a szolgáltatót, vagy a tevékenység végzésétől legalább egy, de legfeljebb tizenkét hónapra eltiltja,
+
+eb) az 1. § (1) bekezdés k), p) és q) pontjában meghatározott szolgáltató esetében törli a nyilvántartásból a szolgáltatót,
+
+ec) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból történő törlését, vagy a tevékenység végzésétől való eltiltását legalább egy, de legfeljebb tizenkét hónapra,
+
+ed) az 1. § (1) bekezdés h) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból történő törlését;
 
 f) kezdeményezi a szolgáltató vezetője vagy a jogsértésért felelős foglalkoztatottja, segítő családtagja felelősségének megállapítását;
 
