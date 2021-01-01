@@ -38,9 +38,9 @@ d) az árfolyamnyereségből származó jövedelem [Szja tv. 67. §],
 
 e) az Szja tv. 1/B. § hatálya alá tartozó természetes személy e tevékenységből származó jövedelme,
 
-f) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett jövedelmének 75 százaléka,
+f)
 
-g) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő bevételének 4 százaléka
+g)
 
 Magyarországon adóztatható része után.
 
@@ -52,4 +52,4 @@ Magyarországon adóztatható része után.
 
 (9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.
 
-(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja megegyezik a társadalombiztosítási járulék alapjával.
+(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja az (1)–(3) bekezdés szerinti jövedelem esetében megegyezik a társadalombiztosítási járulék alapjával (ide nem értve a felszolgálási díjat).

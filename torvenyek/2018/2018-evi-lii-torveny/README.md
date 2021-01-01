@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-52-00-00
 | 2020-01-01 | 2019. évi CXII. törvény | 2018-52-00-00.8 |
 | 2020-02-27 | 2019. évi CIX. törvény | 2018-52-00-00.9 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 2018-52-00-00.10 |
+| 2021-01-01 | 2020. évi CXXIII. törvény | 2018-52-00-00.11 |

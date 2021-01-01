@@ -1,34 +1,22 @@
 ## 7. A mezőgazdasági őstermelő által fizetendő adó alapja
 
-7. § (1) A Tbj, 41 § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó jövedelme, de legalább a minimálbér vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+7. § (1) A Tbj. 41. § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó, őstermelői tevékenységből származó jövedelme, de havonta legalább a minimálbér vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege. Az éves minimálbér felét az adóévben el nem érő őstermelői tevékenységből származó bevétellel rendelkező, járulékfizetésre kötelezett mezőgazdasági őstermelő adó fizetésére nem kötelezett, kivéve, ha a Tbj. 41. § (4) bekezdése szerint, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalja, hogy magasabb összeg után fizeti meg a társadalombiztosítási járulékot. Ekkor a mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(2) A Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+(2) Az (1) bekezdéstől eltérően az átalányadózást választó járulékfizetésre kötelezett mezőgazdasági őstermelőt saját maga után havonta terhelő adó alapja a minimálbér, vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege. Az éves minimálbér ötszörösét az adóévben el nem érő őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező, átalányadózást választó járulékfizetésre kötelezett mezőgazdasági őstermelő adó fizetésére nem kötelezett, kivéve ha a Tbj. 41. § (4) bekezdése szerint a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalja, hogy magasabb összeg után fizeti meg a társadalombiztosítási járulékot. Ekkor a mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(3) A (2) bekezdés szerinti adóalap hiányában a Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja
+(3) A Tbj. 41. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó őstermelői tevékenységből származó jövedelem, azzal, hogy adó fizetésére nem kötelezett
 
-a) a tárgyévi összevont adóalapba tartozó jövedelem,
+a) az éves minimálbér felét az adóévben el nem érő őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező mezőgazdasági őstermelő,
 
-b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
+b) az éves minimálbér ötszörösét az adóévben el nem érő őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező, átalányadózást választó mezőgazdasági őstermelő.
 
-c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő tárgyévi bevételének 4 százaléka,
+(4) Amennyiben az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik az adóév minden napján, vagy más okból nem minősül az adó alanyának az adóév minden napján, akkor az adó alapja
 
-csökkentve a tárgyévi Tbj. szerinti járulékalapját képező összeggel.
+a) az (1) bekezdés szerint adófizetésre kötelezett őstermelő esetében az összevont adóalapba tartozó őstermelői tevékenységből származó jövedelme, de legalább az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében havonta vállalt összeg harmincad része,
 
-(4) A Tbj. 41. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja
+b) a (2) bekezdés szerint adófizetésre kötelezett őstermelő esetében az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében havonta vállalt összeg harmincad része.
 
-a) a tárgyévi összevont adóalapba tartozó jövedelem,
-
-b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
-
-c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő tárgyévi bevételének 4 százaléka.
-
-(5) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik az adóév minden napján, vagy más okból nem minősül az adó alanyának az adóév minden napján, akkor az adó alapja
-
-a) az (1) bekezdés szerinti őstermelő esetében az őstermelésből származó összevont adóalapba tartozó jövedelme, de legalább az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg harmincad része,
-
-b) a (2) bekezdés szerinti kistermelő esetében az adóalanyiság időtartamának minden napjára számítva a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg harmincad része.
-
-(6) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő, az őt saját maga után terhelő adó alapjának megállapításkor nem veszi számításba azt a napot, amelyen
+(5) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő, az őt saját maga után terhelő adó alapjának megállapításkor nem veszi számításba azt a napot, amelyen
 
 a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül;
 
@@ -40,10 +28,10 @@ d) önkéntes tartalékos katonaként katonai szolgálatot teljesít;
 
 e) fogvatartott.
 
-(7) A (6) bekezdés szerinti esetekben az adó alapja
+(6) Az (5) bekezdés szerinti esetekben az adó alapja
 
-a) az adóalapot az (1) bekezdés szerint megállapító mezőgazdasági őstermelő esetében az összevont adóalapba tartozó jövedelme, de legalább a minimálbér, vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg,
+a) az adóalapot az (1) bekezdés szerint megállapító mezőgazdasági őstermelő esetében az összevont adóalapba tartozó őstermelői tevékenységből származó jövedelme, de legalább a minimálbér, vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg,
 
-b) az adóalapot a (2) bekezdés szerint megállapító mezőgazdasági őstermelő esetében a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg
+b) az adóalapot a (2) bekezdés szerint megállapító mezőgazdasági őstermelő esetében a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg
 
 harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fennáll.
