@@ -1,0 +1,1 @@
+2. § Az Országgyűlés az Egyesült Nemzetek Kábítószer Bizottsága 2019. március 19-én elfogadott 62/1–62/4., valamint 2020. március 4-én elfogadott 63/2. és 63/3. számú határozatát e törvénnyel kihirdeti.
