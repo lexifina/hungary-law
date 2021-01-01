@@ -1,1 +1,0 @@
-A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. § (4) bekezdésében foglalt felhatalmazás alapján, a közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet 1. § a)–c) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
