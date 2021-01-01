@@ -1,3 +1,9 @@
 ## 1. Egyes állami tulajdonú ingatlanoknak a Magyar Máltai Szeretetszolgálat Egyesület részére történő ingyenes tulajdonba adása
 
-1. §
+1. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján az állam tulajdonában lévő Bicske, külterület 0238/3 és 0238/4 helyrajzi számú ingatlanok (a továbbiakban együtt: Ingatlanok) ingyenesen a Magyar Máltai Szeretetszolgálat Egyesület (a továbbiakban: Máltai Szeretetszolgálat) tulajdonába kerülnek, az általa vállalt közszolgálati feladatok hatékonyabb ellátása érdekében, a szociális feladatok ellátásának elősegítése, így különösen az egészségügyi és szociális szakdolgozók lakhatási feltételeinek biztosítása céljából.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az Ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+
+(3) A (2) bekezdés szerinti szerződésben a Máltai Szeretetszolgálatnak vállalnia kell az Országos Idegenrendészeti Főigazgatóság Ingatlanok tekintetében fennmaradó raktározási tevékenységének térítésmentes biztosítását és az ezzel kapcsolatosan esetlegesen felmerülő általános forgalmi adó megtérítését.
+
+(4) A (2) bekezdés szerinti szerződésben a Máltai Szeretetszolgálatnak vállalnia kell, hogy az Ingatlanokon az M1-es autópálya bicskei szakaszának építésekor létesült munkásszálló barakképületeinek és irodaépületeinek bontását, a bontásból származó anyagok elszállítását, a Ingatlanokhoz kapcsolódó tereprendezési feladatokat (a továbbiakban együttesen: Tereprendezés) elvégzi, és a Tereprendezést a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzését követő 6 hónapon belül megkezdi.
