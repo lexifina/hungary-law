@@ -13,3 +13,7 @@ a) elhunyt,
 b) a 6. § szerinti továbbképzési kötelezettségét nem teljesíti, vagy
 
 c) a szakértői tevékenység végzéséhez jogszabályban előírt feltételek már nem állnak fenn.
+
+(4)[^2] A rehabilitációs orvosszakértő – Szolgtv. 28. § b) pontja szerinti – törlés iránti bejelentése a Hivatal által rendszeresített és a honlapján közzétett elektronikus űrlap útján is megtehető.
+
+[^2]: A 4. § (4) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 47. § (2) bekezdése iktatta be.

@@ -18,6 +18,8 @@ b) továbbképzési kötelezettségét nem teljesíti, vagy
 
 c) a szakértői tevékenység végzéséhez jogszabályban előírt feltételek már nem állnak fenn.
 
-(5) A foglalkozási rehabilitációs szakértő kérelmére az általa megjelölt szakterületét a névjegyzékből törölni kell.
+(5)[^5] A foglalkozási rehabilitációs szakértő kérelmére az általa megjelölt szakterületét a névjegyzékből törölni kell. A kérelem elektronikus úton is benyújtható.
 
 (6) A Hivatal a foglalkozási rehabilitációs szakértőnek a foglalkozási rehabilitációs szakértői névjegyzékből való törléséről – a foglalkozási rehabilitációs szakértői névjegyzék módosításával egyidejűleg – közleményt jelentet meg a honlapján és a Szociális Ágazati Portálon.
+
+[^5]: A 11. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 47. § (5) bekezdésével megállapított szöveg.
