@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-166-20-
 | 2011-01-01 | 2004-166-20-22.6 | 19/2008. (II. 5.) Korm. rendelet |
 | 2014-01-01 | 2004-166-20-22.7 | 503/2013. (XII. 29.) Korm. rendelet |
 | 2020-07-31 | 2004-166-20-22.8 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2021-01-01 | 2004-166-20-22.9 | 765/2021. (XII. 23.) Korm. rendelet |

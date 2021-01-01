@@ -26,6 +26,6 @@
 
 ## ** Kitöltendő, amennyiben csőd-, felszámolási, illetve végrehajtási eljárás alatt áll.
 
-2. számú melléklet a 166/2004. (V. 21.) Korm. rendelethez[^27]
+2. számú melléklet a 166/2004. (V. 21.) Korm. rendelethez[^28]
 
-[^27]: A 2. számú melléklet a 171/2005. (IX. 1.) Korm. rendelet 8. § h) pontjának hb) alpontja szerint módosított szöveg.
+[^28]: A 2. számú melléklet a 171/2005. (IX. 1.) Korm. rendelet 8. § h) pontjának hb) alpontja szerint módosított szöveg.
