@@ -8,7 +8,7 @@ c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő kö
 
 d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, az Eötvös Loránd Kutatási Hálózat központi költségvetési szervei, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
+(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, , az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
 a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 
@@ -106,7 +106,7 @@ df) az illetménynövekedés feltételeit azokban az esetekben, amikor a tovább
 
 dg) a tudományos kutatói munkakörbe történő besorolás feltételeit;
 
-e) a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési intézményeknél, az Eötvös Loránd Kutatási Hálózat központi költségvetési szerveinél, illetve más kutató- és kutatást kiegészítő intézeteknél foglalkoztatott közalkalmazottak tekintetében
+e) a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési intézményeknél, illetve más kutató- és kutatást kiegészítő intézeteknél foglalkoztatott közalkalmazottak tekintetében
 
 ea) azt a magasabb vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható,
 
@@ -152,27 +152,27 @@ b) a honvédelemért, az idegenrendészetért és menekültügyért, az igazság
 
 c) a honvédelemért, az idegenrendészetért és menekültügyért felelős miniszter, az igazságügyért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként a munkakör ellátásához szükséges magyar nyelvtudás feltételét,
 
-d) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
+d) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 
 e) a honvédelemért felelős miniszter, hogy a Magyar Honvédségnél foglalkoztatott közalkalmazottak részére, a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat,
 
-f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
+f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
 
-g) az idegenrendészetért és menekültügyért, az igazságügyért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
+g) az idegenrendészetért és menekültügyért, az igazságügyért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
 
 h) a honvédelemért felelős miniszter, hogy a gyakornoki követelmények ágazati szakmai tartalmát,
 
-i) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
+i) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
 
-j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
+j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
 
-k) a honvédelemért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
+k) a honvédelemért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 
 l) a honvédelemért felelős miniszter, hogy a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
 
-m) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
+m) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
 
-n) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
+n) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, a gyermekek és az ifjúság védelméért, szociál- és nyugdíjpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
 o)
 
