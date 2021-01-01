@@ -2,13 +2,15 @@
 
 (2) A Kormány külön rendeletben határozza meg
 
-a) az országos gyógyintézetek kivételével a Budapesten és Pest megyében működő egészségügyi szakellátást nyújtó egészségügyi szolgáltatók,
+a)[^2] a Budapesten és Pest megyében működő egészségügyi szakellátást nyújtó egészségügyi szolgáltatók,
 
-b) a honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató,
+b)[^3] a honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató, valamint az ennek irányítása alá tartozó egyéb egészségügyi szolgáltató,
 
 c) a Semmelweis Egyetem részeként működő klinikai központ és a Semmelweis Egyetem által fenntartott egészségügyi szolgáltató,
 
 d) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti – b) pont alá nem tartozó – orvos- és egészségtudományi képzést folytató egyetem (a továbbiakban: egészségügyi felsőoktatási intézmény) részeként működő klinikai központ és az egyetem által fenntartott egészségügyi szolgáltató
+
+e)[^4] az országos gyógyintézet és az országos társgyógyintézet
 
 ## irányítására alkalmazandó szabályokat.
 
@@ -25,3 +27,7 @@ d) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban:
 ## rendelkezéseit.
 
 (4) E rendelet rendelkezéseit megfelelően kell alkalmazni az állami tulajdonban lévő, egészségügyi szakellátást nyújtó gazdasági társaságokra is.
+
+[^2]: Az 1. § (2) bekezdés a) pontja a 694/2020. (XII. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontja a 694/2020. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés e) pontját a 694/2020. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-9. § (1)[^2] Az 5. §-t és az (5) bekezdést 2021. január 1-jétől kell alkalmazni.
+9. § (1)[^6] Az 5. §-t és az (5) bekezdést 2021. január 1-jétől kell alkalmazni.
 
 (2) A 3. § c) pontja és az 5. § (3) bekezdés a) pontja szerinti jogkör gyakorlása során nem kell alkalmazni a Kjt. 20/B. §-át.
 
@@ -12,4 +12,4 @@ b) az országos kórház-főigazgató helyettes esetében a megyei intézmény v
 
 (5) Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvényben, a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvényben, a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvényben, a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvényben az Állami Egészségügyi Ellátó Központ helyett az Országos Kórházi Főigazgatóság értendő.
 
-[^2]: A 9. § (1) bekezdése az 556/2020. (XII. 4.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 9. § (1) bekezdése az 556/2020. (XII. 4.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.

@@ -12,4 +12,6 @@ e) irányító megyei intézmény: a megyei jogú városban székhellyel rendelk
 
 f) városi intézmény: az országos gyógyintézet, az országos társgyógyintézet és a megyei intézmény kivételével valamennyi egészségügyi intézmény.
 
-(2) A 3. § c) pontja és a 4. § alkalmazásában megyei intézménynek minősül az országos gyógyintézet és az országos társgyógyintézet is.
+(2)[^5]
+
+[^5]: A 2. § (2) bekezdését a 694/2020. (XII. 29.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
