@@ -1,6 +1,6 @@
-## 28. §[^117]
+## 28. §[^122]
 
-1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^118]
+1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^123]
 
 1. Az útügyi hatóság eljárásaiban kijelölt szakhatóságok
 
@@ -22,7 +22,7 @@
 
 |  | vagy kerékpáros forgalom lebonyolítására szolgálnak - engedélyezése esetén. 2. Ha a tevékenység megkezdéséhez a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 1. § (3) bekezdésében foglalt vizsgálatra az eljárást megelőzően más hatósági eljárásban nem került sor a következő létesítmények esetében: a) helyi közút; b) közforgalom elől el nem zárt magánút; c) kerékpárút; d) parkoló. | c) az engedélyezési tervdokumentáció és a létesítmény zajkibocsátása kielégíti-e a környezeti zaj és rezgés elleni védelem követelményeit, d) az építésnél az építési és a bontási hulladékok kezelése, valamint a hulladékok felhasználása megfelel-e a hulladékgazdálkodási követelményeknek. 2. A 2. számú bevonási és közreműködési feltétel esetében annak elbírálása kérdésében, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
 
-| 6. | Ha az út a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
+| 6. | Ha az út a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-[^117]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^118]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^122]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés e) pontja, a 677/2020. (XII. 28.) Korm. rendelet 42. §-a szerint módosított szöveg.

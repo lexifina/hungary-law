@@ -8,6 +8,8 @@
 
 a) a Kkt. 16/A. §-a szerinti szakértői tevékenységgel,
 
-b) a Kkt. 24/A. § (2) bekezdése szerint engedélyezett vizsgáló állomás tevékenységével,
+b)[^95]
 
 c) a Kkt. 16/B. § (5) bekezdése szerinti auditori tevékenységgel
+
+[^95]: A 13. § (2) bekezdés b) pontját a 722/2020. (XII. 31.) Korm. rendelet 34. §-a hatályon kívül helyezte.
