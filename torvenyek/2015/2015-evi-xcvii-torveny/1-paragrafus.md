@@ -8,7 +8,7 @@
 
 a) a mezőgazdasági, halászati, akvakultúra és élelmiszer-ipari termékre,
 
-b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó természetes személyre és családi gazdálkodóra, jogi személyre és jogi személyiséggel nem rendelkező szervezetre,
+b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó természetes személyre és őstermelők családi gazdaságának tagjára, jogi személyre és jogi személyiséggel nem rendelkező szervezetre,
 
 c) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) hatálya alá tartozó ágazatok termékeinek előállításához, forgalmazásához, illetve feldolgozásához kapcsolódó gazdasági tevékenységeket végzők képviselőiből álló elismert és elismerés iránt folyamodó termelői szervezetekre, ezek társulásaira, valamint szakmaközi szervezetekre,
 

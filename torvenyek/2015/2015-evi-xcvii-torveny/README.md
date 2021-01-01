@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-97-00-00
 | 2018-01-02 | 2017. évi CLXXXIII. törvény | 2015-97-00-00.6 |
 | 2019-04-28 | 2019. évi XL. törvény | 2015-97-00-00.7 |
 | 2020-07-01 | 2020. évi XXX. törvény | 2015-97-00-00.8 |
+| 2021-01-01 | 2020. évi CXXIII. törvény | 2015-97-00-00.9 |

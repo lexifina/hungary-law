@@ -2,7 +2,7 @@
 
 20. § (1) A kiterjesztett piacszervezési intézkedés végrehajtását a mezőgazdasági igazgatási szerv ellenőrzi.
 
-(2) Amennyiben a mezőgazdasági igazgatási szerv megállapítja, hogy a piaci szereplő a piacszervezési intézkedés rendelkezéseit megsértette, ágazatfelügyeleti bírságot szab ki. Ebben az esetben az ágazatfelügyeleti bírság legkisebb mértéke ötezer forint, legmagasabb mértéke ötvenmillió forint, de legfeljebb a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tíz százaléka.
+(2) Amennyiben a mezőgazdasági igazgatási szerv megállapítja, hogy a piaci szereplő a piacszervezési intézkedés rendelkezéseit megsértette, ágazatfelügyeleti bírságot szab ki. Ebben az esetben az ágazatfelügyeleti bírság legmagasabb mértéke ötvenmillió forint, de legfeljebb a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tíz százaléka.
 
 (3) A piaci szereplő által, a bírság végleges kiszabásától számított két éven belül ismételten tanúsított bármely, a piacszervezési intézkedésbe ütköző magatartás esetén az ágazatfelügyeleti bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de legalább százezer forint, legfeljebb kétszázmillió forint azzal, hogy annak összege a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tizenöt százalékánál nagyobb nem lehet.
 
