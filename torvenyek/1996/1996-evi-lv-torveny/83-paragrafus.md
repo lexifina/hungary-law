@@ -24,13 +24,15 @@ i) nem a jogszabályban foglaltaknak megfelelően gondoskodik a vadászat alkalm
 
 (3) A vadgazdálkodási bírság mértéke
 
-a) az (1) bekezdés a) és i) pontja és az (5) és (6) bekezdés szerinti esetben a cselekmény súlyától és ismétlődésétől függően legalább ötvenezer, legfeljebb egymillió forint,
+a) az (1) bekezdés a) és i) pontja, a (6) bekezdése, valamint a 74/A. § (4) bekezdése szerinti esetben legalább ötvenezer, legfeljebb egymillió forint,
 
 b) az (1) bekezdés b) pontja szerinti esetben a vadgazdálkodási bírság mértéke trófeás vad esetében a trófea értékétől függően egyedenként legalább százezer, legfeljebb ötmillió forint, míg nőivarú egyed és egyéb vadfaj esetében a vad fajától függően egyedenként legalább ötvenezer, legfeljebb egymillió forint,
 
 c) az (1) bekezdés c) pontja szerinti esetben trófeánként ötvenezer forint,
 
-d) az (1) bekezdés d)–h) pontja szerinti esetekben a cselekmény súlyától függően legalább százezer és legfeljebb ötmillió forint. Ezekben az esetekben a vadgazdálkodási bírság ismételten is kiszabható.
+d) az (1) bekezdés d)–h) pontja szerinti esetekben legalább százezer és legfeljebb ötmillió forint.
+
+(3a) A (3) bekezdésben meghatározott esetekben a vadgazdálkodási bírság ismételten is kiszabható.
 
 (4) Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a vadászatra jogosult:
 
@@ -46,12 +48,12 @@ e) a hivatásos vadász alkalmazása során
 
 ea) az alkalmazás megszűnését 15 napon belül nem jelenti be a vadászati hatóságnak,
 
-eb) a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadászati hatóság felhívására nem, vagy nem a törvényben foglalt feltételek szerint tesz eleget;
+eb) a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadászati hatóság figyelmeztetésére nem, vagy nem a törvényben foglalt feltételek szerint tesz eleget;
 
-f) az általa vagy hozzájárulásával szervezett vadászaton a 82. § (1) és (2) bekezdésben meghatározott tilalommal érintett egyed elejtésére kerül sor;
+f) a 74/A. § (2) bekezdésben meghatározott korlátozást megszegi;
 
 g) a vadtenyésztési tevékenységet engedély nélkül folytatja, a vadat engedély nélkül vagy az engedélyben foglaltaktól eltérően tart zárt térben, vadat vadászterületek között engedély nélkül szállít vagy vadat vadászterületre engedély nélkül helyez ki.
 
-(5) A 82. § (1) és (2) bekezdése szerinti tilalommal érintett egyed elejtése a vadgazdálkodási szabályok megsértésének minősül és a vadászatra jogosult vadgazdálkodási bírságot köteles fizetni. A vadgazdálkodási bírságot minden tilalommal érintett trófeás vad egyede után ismétlődően kell kiszabni.
+(5)
 
-(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósághoz történő bejelentés nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.
+(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósági engedély nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.

@@ -6,7 +6,7 @@
 
 27/A. § (1) Zárttéri vadtartás a vadászati hatóság engedélyével folytatható.
 
-(2) Zárttéri vadtartásnak minősül a fácán, fogoly, tőkés réce, gímszarvas, dámszarvas, őz, muflon, illetve vaddisznó zárt térben, szabad mozgásában kerítéssel vagy egyéb módon korlátozott
+(2) Zárttéri vadtartásnak minősül az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok szabad mozgásában kerítéssel vagy egyéb módon korlátozott
 
 a) vadászati,
 

@@ -4,8 +4,10 @@
 
 ## Általános szabályok
 
-82. § (1) A vadászati hatóság a trófeás nagyvadállomány (őzbak, gímbika, dámbika, muflonkos) minőségi védelme érdekében részben vagy teljes egészében megtilthatja a trófeás vad hasznosítását. A tiltás vonatkozhat a vadfaj összes trófeás egyedére, illetve egyes korosztályai (fiatal, középkorú, idős) elejtésének egy- vagy több éves időtartamra szóló tilalmazására.
+82. § (1) A vadászati hatóság a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szankciókon kívül a hatósági vadászat elrendelése közigazgatási szankciót is alkalmazhatja, ha az elrendelésre a 80. § (4) bekezdésben foglaltak miatt kerül sor.
 
-(2) A trófeás vad korosztályi hasznosítását a vadászati hatóság felső súlyhatárhoz – muflonkos esetén a csigahosszhoz – kötheti, az elejtési súlyhatárt (csigahosszt) meghaladó egyedek elejtését megtilthatja. A korosztályon belüli elejtési súlyhatárt (csigahosszt) a tájegységi vadgazdálkodási tervekben foglaltaknak, valamint a Kormány által határozattal létrehozott területi vadgazdálkodási tanács és a tájegységi fővadász véleményének figyelembevételével a vadászati hatóság az éves vadgazdálkodási tervben állapítja meg.
+(2) A tevékenység végzésétől való eltiltás közigazgatási szankció alatt a trófeás vad hasznosításától való eltiltást is érteni kell.
 
-(3) A 83. és 84. § szerinti, illetve az e törvény szerinti egyéb jogkövetkezmény alkalmazásának nincs helye, ha a jogkövetkezmény alapjául szolgáló ténynek a vadászati hatóság tudomására jutásától számított egy év, vagy a tény bekövetkeztétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
+(3) A tevékenység végzésétől történő eltiltás legfeljebb öt vadászati évre rendelhető el.
+
+(4) Figyelmeztetés nem alkalmazható közigazgatási szankcióként a 83. § (1) bekezdésében, valamint a 84. § (1) bekezdésében meghatározott esetekben.

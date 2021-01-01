@@ -8,4 +8,4 @@ b) a növényvédő szer által a vadban okozott károsodást vagy annak gyanúj
 
 az élelmiszerlánc-felügyeleti szervnek haladéktalanul jelenteni.
 
-(3) Amennyiben a vadászatra jogosult a vad és élőhelyének védelmére előírt kötelezettségének nem, vagy nem a megfelelő módon tesz eleget, és a vad, valamint élőhelyének védelme másként nem biztosítható, a vadászati hatóság határozatában felhívja e kötelezettségének teljesítésére.
+(3) Amennyiben a vadászatra jogosult a vad és élőhelyének védelmére előírt kötelezettségének nem, vagy nem a megfelelő módon tesz eleget, és a vad, valamint élőhelyének védelme másként nem biztosítható, a vadászati hatóság figyelmezteti e kötelezettségének teljesítésére.

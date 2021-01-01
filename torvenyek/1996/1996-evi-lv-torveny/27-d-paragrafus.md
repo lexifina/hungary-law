@@ -12,4 +12,4 @@ c) erdő esetében az erdő védelmével, valamint az erdei haszonvételek gyako
 
 d) természetvédelem alatt álló terület esetében a terület védelmével kapcsolatos feltételeket.
 
-(3) A (2) bekezdésben foglalt feltételek teljesítését a vadászati hatóság évente felülvizsgálja, és ha a (2) bekezdés a)–d) pontja szerinti feltételeknek a hatóság felszólítására a kötelezett a megadott határidőn belül nem tesz eleget, dönt az engedély visszavonásáról.
+(3) A (2) bekezdésben foglalt feltételek teljesítését a vadászati hatóság évente felülvizsgálja, és ha a (2) bekezdés a)–d) pontja szerinti feltételeknek a vadászati hatóság figyelmeztetésére a kötelezett a megadott határidőn belül nem tesz eleget, dönt az engedély visszavonásáról.

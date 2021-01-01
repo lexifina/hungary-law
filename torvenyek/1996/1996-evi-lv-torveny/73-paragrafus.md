@@ -1,6 +1,6 @@
 ## Trófeabírálat
 
-73. § (1) A vadászatra jogosult legkésőbb a vadfaj trófeás egyedének vadászati idényét követő harminc napon belül köteles a vadászati hatóságnak trófeabírálat céljából bemutatni a vadászati idényben vadászjeggyel rendelkező vadász által elejtett gímszarvas, dámszarvas, az őz agancsát, valamint a muflon csigáját.
+73. § (1) A vadászatra jogosult legkésőbb a vadfaj trófeás egyedének vadászati idényét követő harminc napon belül köteles a vadászati hatóságnak trófeabírálat céljából bemutatni a vadászati idényben vadászjeggyel rendelkező vadász által elejtett gímszarvas, dámszarvas, szikaszarvas, az őz agancsát, valamint a muflon csigáját.
 
 (2) A vadászatra jogosult köteles a vadászjeggyel rendelkező vadász által elejtett vaddisznó tizenhat centiméternél hosszabb agyarát – legkésőbb az elejtés szerinti vadászati év végét követő hónap utolsó napjáig – a vadászati hatóságnál trófeabírálat céljából bemutatni.
 

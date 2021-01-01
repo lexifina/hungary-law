@@ -4,6 +4,6 @@
 
 (3) Vadászterületre – figyelemmel a (2) bekezdésre – csak olyan vad helyezhető ki, amely állat-egészségügyi igazolással rendelkezik, és ennek alapján a természeti környezetben élő állatfajoknak a telepített vad által történő állatbetegségekkel való fertőzése kizárható.
 
-(4) Ha a nagyvadtartó a vadászati hatóság felszólítását követően sem biztosítja a nagyvadtartás jogszabályban vagy az engedélyező határozatban előírt feltételeit, illetve ha a zárttéren tartott vad a vadgazdálkodás vagy a természetvédelem érdekeit a hatóság felszólítását követően is veszélyezteti, a vadászati hatóság a létesítési engedély visszavonása mellett a nagyvadtartó költségére a zárttéren tartott nagyvadállomány felszámolását rendeli el.
+(4) Ha a nagyvadtartó a vadászati hatóság figyelmeztetését követően sem biztosítja a nagyvadtartás jogszabályban vagy az engedélyező határozatban előírt feltételeit, a vadászati hatóság a nagyvadtartót a tevékenységtől eltiltja, és a nagyvadtartó költségére a zárttéren tartott nagyvadállomány felszámolását rendeli el.
 
 (5) A (4) bekezdés, a 27/C. § (7) bekezdés, valamint a 27/E. § (2) bekezdés alkalmazása nem mentesíti a vadtartót a zárttéri vadtartás szabályai megsértése miatti felelősségre vonás alól.

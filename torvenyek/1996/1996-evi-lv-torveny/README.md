@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-55-00-00
 | 2020-03-01 | 2019. évi CX. törvény | 1996-55-00-00.47 |
 | 2020-07-01 | 2020. évi XL. törvény | 1996-55-00-00.48 |
 | 2020-11-26 | 2020. évi CXI. törvény | 1996-55-00-00.49 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1996-55-00-00.50 |

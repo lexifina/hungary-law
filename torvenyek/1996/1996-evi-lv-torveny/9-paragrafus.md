@@ -10,10 +10,10 @@
 
 (4) A vadaskertben, a vadasparkban, a vadfarmon és az apróvadtartó és -szaporító telepen (a továbbiakban együtt: zárttéri vadtartó létesítmény) jogszerűen tartott vad – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – a zárttéri vadtartó létesítmény üzemeltetőjének tulajdonában van.
 
-(5) A gímszarvas, a dámszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
+(5) A gímszarvas, a dámszarvas, szikaszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
 
 (6) Az (5) bekezdésben nem említett vad elejtésének minősül a vad helybenmaradását eredményező lövés leadása, illetve ragadozó madárral vagy vadászkutyával történő elfogása.
 
 (7) A vad elfogásának minősül annak mozgásképtelenné tétele útján élve történő birtokbavétele.
 
-(8) E törvény alkalmazásában nagyvadfajoknál trófeának minősül az elejtett gímszarvas, dámszarvas, valamint az őz agancsa, a muflon csigája, továbbá a vaddisznó agyara.
+(8) E törvény alkalmazásában nagyvadfajoknál trófeának minősül az elejtett gímszarvas, dámszarvas, szikaszarvas, valamint az őz agancsa, a muflon csigája, továbbá a vaddisznó agyara.

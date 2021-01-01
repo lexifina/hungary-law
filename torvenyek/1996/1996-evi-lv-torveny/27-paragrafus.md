@@ -1,6 +1,6 @@
 ## A vadászati jog kényszerhasznosítása
 
-27. § (1) Amennyiben a vadászterületnek minősülő föld tulajdonosa, illetőleg a vadászatra jogosult a vadászati jog gyakorlási vagy hasznosítási kötelezettségének a vadászati hatóság felszólítását követően sem tesz eleget, vagy a vad- és élőhelyének védelmére előírt kötelezettségeit megszegi, és ezáltal az adott vadászterület vadlétszámának, nem vadászható állatfaj egyedének és más élő szervezetnek – beleértve a természetvédelmi oltalom alatt álló élő szervezeteket is – a fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a vadászati hatóság – a vad- és élőhelyének védelme, valamint a vadkárok megelőzése érdekében – a fenti cselekményekért, vagy mulasztásokért felelős földtulajdonos vagy vadászatra jogosult költségére határozatában
+27. § (1) Amennyiben a vadászterületnek minősülő föld tulajdonosa, illetőleg a vadászatra jogosult a vadászati jog gyakorlási vagy hasznosítási kötelezettségének a vadászati hatóság figyelmeztetését követően sem tesz eleget, vagy a vad- és élőhelyének védelmére előírt kötelezettségeit megszegi, és ezáltal az adott vadászterület vadlétszámának, nem vadászható állatfaj egyedének és más élő szervezetnek – beleértve a természetvédelmi oltalom alatt álló élő szervezeteket is – a fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a vadászati hatóság – a vad- és élőhelyének védelme, valamint a vadkárok megelőzése érdekében – a fenti cselekményekért, vagy mulasztásokért felelős földtulajdonos vagy vadászatra jogosult költségére határozatában
 
 a) megállapítja a vadászterület határát,
 
@@ -14,7 +14,7 @@ e) kijelöli a vadászterületen a vadállomány védelme érdekében a vadgazd�
 
 f) hatósági vadászatot rendel el,
 
-g) korlátozza, felfüggeszti, vagy megtiltja a vadászatra jogosult vadgazdálkodási és vadászati tevékenységének részét vagy egészét
+g) a vadászatra jogosultat a vadgazdálkodási és vadászati tevékenység végzésétől eltiltja
 
 [az a)–g) pontokban foglaltak a továbbiakban együtt: a vadászati jog kényszerhasznosítása].
 
