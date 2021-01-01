@@ -62,4 +62,6 @@
 
 | Évente összesen |  |  |  |  | 6 600 000 000 | 1 450 000 000 | 1 570 000 000 |
 
-2. melléklet az 1748/2017. (X. 25.) Korm. határozathoz
+2. melléklet az 1748/2017. (X. 25.) Korm. határozathoz[^7]
+
+[^7]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
