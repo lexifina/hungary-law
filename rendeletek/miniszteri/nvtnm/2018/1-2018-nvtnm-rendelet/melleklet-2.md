@@ -38,15 +38,15 @@
 
 | 16. |  |  |  |
 
-| 17. | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság | 13-10-040189 | 2022. december 31. |
+| 17. |  |  |  |
 
-| 18. | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság | 14-10-300050 | 2022. december 31. |
+| 18. |  |  |  |
 
 | 19. |  |  |  |
 
-| 20. | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság | 05-10-000123 | 2022. december 31. |
+| 20. |  |  |  |
 
-| 21. | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság | 11-10-001450 | 2022. december 31. |
+| 21. |  |  |  |
 
 | 22. |  |  |  |
 
@@ -62,7 +62,7 @@
 
 | 28. | Szerencsejáték Zártkörűen Működő Részvénytársaság | 01-10-041628 | 2022. december 31. |
 
-| 29. | Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság | 16-10-001558 | 2022. december 31. |
+| 29. |  |  |  |
 
 | 30. |  |  |  |
 
@@ -71,6 +71,8 @@
 | 32. | Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság | 01-10-043547 | 2022. december 31. |
 
 | 33. | Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság | 01-10-043108 | 2022. december 31. |
+
+| 34. | Nemzeti Vízművek Zártkörűen Működő Részvénytársaság | 01-10-141112 | 2022. december 31. |
 
 ## II. Tulajdonosi joggyakorló: az Agrárminisztérium
 
@@ -305,6 +307,8 @@
 | 14. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2022. december 31. |
 
 | 15. | Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2022. december 31. |
+
+| 16. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
 
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 
