@@ -10,7 +10,7 @@ d) a rendőrségen fogvatartott, a Be. szerinti személyi szabadságot érintő 
 
 e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
 
-ea) élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az emberkereskedelem és az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
+ea) élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
 
 eb) nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel büntetendő alakzata,
 

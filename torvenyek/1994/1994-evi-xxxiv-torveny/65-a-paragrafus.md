@@ -2,4 +2,4 @@
 
 (2) A büntetőeljárásról szóló törvény alapján a tanú személyazonossága vagy elérhetőségének megállapítása érdekében elrendelt körözés végrehajtása során bírói engedélyhez kötött eszköz nem alkalmazható.
 
-(3) A rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése céljából bírói engedélyhez kötött eszköz nem alkalmazható.
+(3) A rendőrséggel titkosan együttműködő személy, valamint a büntetőeljárásról szóló törvény alapján titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése céljából bírói engedélyhez kötött eszköz nem alkalmazható.

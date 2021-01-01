@@ -16,7 +16,7 @@ f) meghatározza a rendőrség ellenérték fejében végezhető szolgáltató t
 
 g) meghatározza a megelőző-védelemmel, személybiztosítással és objektumvédelemmel kapcsolatos szabályokat,
 
-h) kijelölje a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet, a terrorizmust elhárító szervet, valamint meghatározza a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv hatáskörének, továbbá feladataik ellátásának a részletes szabályait,
+h) kijelölje a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet, a terrorizmust elhárító szervet, valamint meghatározza a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv hatáskörének, továbbá feladataik ellátásának a részletes szabályait, továbbá meghatározza a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített, a Kormány vagy a Kormány tagjának irányítása, felügyelete alá tartozó szervek körét,
 
 i) meghatározza a határterülethez tartozó településeket, valamint a nemzetközi forgalom számára megnyitott repülőtér, vasútállomás és kikötő (kikötőhely) határterületnek minősülő területeit,
 

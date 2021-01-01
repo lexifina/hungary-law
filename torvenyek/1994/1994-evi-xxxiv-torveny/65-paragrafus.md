@@ -36,12 +36,16 @@ b) a fedőintézmény lelepleződésének megelőzését
 
 szolgáló információ várható.
 
-(10) A rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
+(10) A rendőrséggel titkosan együttműködő személy bevonása, védelme, ellenőrzése, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
 
-a) a rendőrséggel titkosan együttműködő személy lelepleződésének megelőzése, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében,
+a) a rendőrséggel titkosan együttműködő személy lelepleződésének megelőzése, vagy az ellene, illetve rá tekintettel a hozzátartozója ellen irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében,
 
-b) az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez, vagy
+b) az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez,
 
-c) a rendőrséggel titkosan együttműködő személyre vonatkozó információ ellenőrzése érdekében
+c) a rendőrséggel titkosan együttműködő személyre vonatkozó információ ellenőrzése érdekében, vagy
+
+d) a rendőrséggel titkosan együttműködő személy által rendelkezésre bocsátott információk ellenőrzése céljából
 
 szükségesek.
+
+(11) A büntetőeljárásról szóló törvény alapján titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez, a titkosan együttműködő személy vagy rá tekintettel a hozzátartozója ellen irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében szükséges, illetve ha az információ valóságtartalma iránt kétség merül fel.

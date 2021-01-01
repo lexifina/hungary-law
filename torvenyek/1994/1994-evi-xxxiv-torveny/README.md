@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2020-05-01 | 2019. évi CXVI. törvény | 1994-34-00-00.96 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 1994-34-00-00.97 |
 | 2020-07-16 | 2020. évi LXXIV. törvény | 1994-34-00-00.98 |
+| 2021-01-01 | 2020. évi XLIII. törvény | 1994-34-00-00.99 |

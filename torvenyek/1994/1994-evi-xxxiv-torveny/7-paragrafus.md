@@ -6,53 +6,51 @@
 
 7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 
 b) elvégzi
 
-ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányzati igazgatásról szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, továbbá az (1c) bekezdésben meghatározott szervezetnél meghatározott feladatkört ellátó munkavállalók,
+ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
 
-bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
+bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók,
 
-bc) a bb) alpontban meghatározott szervek kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, az idegenrendészeti szerv és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
+bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
 
-bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, rendvédelmi igazgatási alkalmazottai,
-
-be) a Kormány által a kormányzati igazgatásról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai felsővezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
-
-(a ba)–be) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
+[a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.
 
 c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
-(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
+(1a) Az (1) bekezdés b) pont ba) alpontja alkalmazásában foglalkoztatott
 
-a) állampolgársági eljárással, idegenrendészeti eljárással, szabálysértési eljárással, koncessziós eljárással, kisajátítási eljárással, építésügyi hatósági eljárással, munkavédelmi hatósági eljárással, munkaügyi ellenőrzéssel, ingatlan-nyilvántartási hatósági eljárással összefüggő ügyben,
+a) a kormányzati szolgálati jogviszonyban,
 
-b) közbeszerzési eljárás során,
+b) a közalkalmazotti jogviszonyban,
 
-c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok tekintetében,
+c) az igazságügyi szolgálati jogviszonyban,
 
-d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
+d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyban,
 
-e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
+e) a rendvédelmi igazgatási szolgálati jogviszonyban,
 
-f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben,
+f) az adó- és vámhatósági szolgálati jogviszonyban,
 
-g) a jármű műszaki megvizsgálásával, illetve környezetvédelmi felülvizsgálatával összefüggő ügyekben.
+g) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban, illetve a Nemzet Adó- és Vámhivatalnál fennálló tisztjelölti jogviszonyban,
 
-(1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
+h) az egészségügyi szolgálati jogviszonyban, és
 
-(1c) Megbízhatósági vizsgálat alá vonható – az (1) bekezdés b) pont bc) alpontjában meghatározott szervek munkavállalóin túl –
+i) a munkaviszonyban
 
-a) a közbeszerzésekről szóló törvény szerinti
+foglalkoztatott.
 
-aa) fekvőbeteg-szakellátást nyújtó intézmények, illetve speciális finanszírozású gyógyszerek és orvostechnikai eszközök beszerzései vonatkozásában központi beszerző szervként eljáró, valamint
+(1b) Az (1) bekezdés b) pontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
 
-ab) általános hatáskörrel központi beszerző szervként eljáró
+(1c) Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe
 
-szervezetnek a közbeszerzési eljárás során döntés előkészítésére, döntésre vagy ellenőrzésre jogosult munkavállalója,
+a) az Információs Hivatal foglalkoztatottja,
 
-b) a közlekedési hatóság által engedélyezett tanúsító szervezettel munkaviszonyban álló műszaki vizsgabiztos.
+b) a honvédelmi szervezetek foglalkoztatottja azzal a kivétellel, hogy az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató egészségügyi szolgálati jogviszonyban álló foglalkoztatottja, továbbá
+
+c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 

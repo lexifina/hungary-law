@@ -14,8 +14,10 @@ f) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző sze
 
 g) bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében,
 
-h) fedett nyomozó, illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében, valamint
+h) fedett nyomozó, illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében,
 
-i) a rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében
+i) a rendőrséggel titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében, valamint
+
+j) a büntetőeljárásról szóló törvény alapján titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében
 
 az e törvényben meghatározott szabályok alapján folytathat titkos információgyűjtést.
