@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(6) Ha jogszabály szigorúbb követelményt nem támaszt, a tűzfegyver tartására jogosító engedélyt kiadó hatóság legfeljebb ötévente megvizsgálja, hogy az engedély kiadásának a feltételei a hatályos engedélyben megjelölt jogosultnál változatlanul fennállnak-e.”

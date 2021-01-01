@@ -1,3 +1,1 @@
-## 4. §[^4]
-
-[^4]: A 4. § a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(5a) Színházi tűzfegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy kialakításának a módja megfelel a 22. számú mellékletben meghatározott követelményeknek, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.”

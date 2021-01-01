@@ -1,3 +1,11 @@
-## 16. §[^16]
+## 16. § A Vhr. 51. § (1) bekezdés f) pont fa)–fc) alpontja helyébe a következő rendelkezés lép:
 
-[^16]: A 16. § a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## (Az európai lőfegyvertartási engedély tartalmazza
+
+## a Közösségen belüli utazásra vonatkozó következő információkat:)
+
+## „fa) az ezen okmányba bejegyzett egy vagy több tűzfegyverrel másik tagállamba történő beutazás joga a meglátogatni kívánt tagállam hatósága által a megfelelő tűzfegyverre kiadott engedélytől függ,
+
+## fb) általában nem szükséges előzetes engedély a „B” kategóriába tartozó tűzfegyverrel vadászaton vagy történelmi események felelevenítésében való részvétel, illetve a tűzfegyverrel sportlövészet céljából történő beutazáshoz, feltéve, hogy az utazó magánál tartja az európai lőfegyvertartási engedélyét, és igazolni tudja az utazás célját,
+
+## fc) a tagállamok dönthetnek úgy, hogy megtiltják vagy engedélyhez kötik területükön bizonyos tűzfegyverek megszerzését, tartását;”

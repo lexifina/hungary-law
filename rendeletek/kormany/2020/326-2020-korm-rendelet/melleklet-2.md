@@ -1,3 +1,9 @@
-2. melléklet a 326/2020. (VII. 1.) Korm. rendelethez[^24]
+## 1. A Vhr. 3. számú melléklet 2. pontja a következő e) alponttal egészül ki:
 
-[^24]: A 2. melléklet a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „e) a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.”
+
+## 2. A Vhr. 3. számú melléklet 4. pontja a következő c) alponttal egészül ki:
+
+## „c) a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.”
+
+2. melléklet a 326/2020. (VII. 1.) Korm. rendelethez

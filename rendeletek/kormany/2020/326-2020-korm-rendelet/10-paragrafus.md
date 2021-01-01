@@ -1,3 +1,1 @@
-## 9. §[^9]
-
-[^9]: A 9. § a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(5) Sportlövőnek az „A” kategória 5., illetve 6. alkategóriájába tartozó sportlőfegyver tartása abban az esetben engedélyezhető, ha megfelel az (1) és (3) bekezdésben meghatározott feltételeknek, továbbá bizonyítja, hogy az (1) bekezdés szerinti sportegyesületi tagsága az e rendelkezés hatálya alá tartozó eszköz tartására jogosító engedély iránti kérelem előterjesztésétől számított legalább tizenkét hónapja fennáll.”
