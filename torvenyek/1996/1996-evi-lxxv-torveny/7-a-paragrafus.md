@@ -32,6 +32,6 @@ megfelelő összeg terheli a foglalkoztatót.
 
 (5a) A (2)–(5) bekezdés alkalmazásában minimálbéren a teljes munkaidőben foglalkoztatott munkavállaló részére jogszabályban megállapított kötelező legkisebb munkabérnek a munkaügyi ellenőrzés megkezdésekor irányadó havi összegét kell érteni. A fizetési kötelezettség a foglalkoztatót annyi esetben terheli, ahány foglalkoztatott tekintetében az engedély nélküli foglalkoztatást megállapították.
 
-(6) Ha a munkaügyi hatóság a foglalkoztatót az (1)–(5) bekezdés alapján a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértés miatt munkaügyi bírság nem szabható ki.
+(6) Ha a munkaügyi hatóság a foglalkoztatót az (1) bekezdés szerinti befizetésre kötelezte, vagy a 7/B. §, valamint a 8/D. § (7) és (8) bekezdése szerint közigazgatási bírság szankciót alkalmazott, ugyanezen jogszabálysértés miatt munkaügyi bírság nem szabható ki.
 
 (7) A munkaügyi hatóság a 3. § (1) bekezdés i) pontja szerinti, a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogsértés megállapítása esetén a végleges határozatát közli az idegenrendészeti hatósággal.

@@ -1,4 +1,4 @@
-6/A. § (1) Munkaügyi bírság kiszabása nem mellőzhető, ha a foglalkoztató
+6/A. § (1) A munkaügyi hatóság munkaügyi bírságot szab ki, ha a foglalkoztató
 
 a) a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is) vonatkozó rendelkezéseket megsértette,
 

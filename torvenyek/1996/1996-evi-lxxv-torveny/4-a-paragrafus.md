@@ -8,7 +8,7 @@
 
 (5) Az ügyfél nyilatkozata nem pótolhatja a hiányzó bizonyítékot, ha annak beszerzése nem lehetséges.
 
-(6) Az ügyfél a munkaviszony keletkezésével, módosulásával és megszűnésével, valamint a munkavállalók munkavégzésével kapcsolatban keletkezett iratot másolatban nem nyújthatja be.
+(6)
 
 (7) Ha az ügyfél a munkaügyi hatóság által elrendelt adatszolgáltatási kötelezettségét elmulasztja vagy valótlan adatokat közöl, a munkaügyi hatóság az okozott többletköltségek megtérítésére kötelezheti, illetve eljárási bírsággal sújthatja. Az eljárási bírság a munkaügyi ellenőrzés során ismételten is kiszabható.
 

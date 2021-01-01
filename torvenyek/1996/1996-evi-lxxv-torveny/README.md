@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-75-00-00
 | 2020-02-01 | 2019. évi CXXVI. törvény | 1996-75-00-00.60 |
 | 2020-03-01 | 2019. évi CX. törvény | 1996-75-00-00.61 |
 | 2020-07-30 | 2019. évi CXXVI. törvény | 1996-75-00-00.62 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1996-75-00-00.63 |

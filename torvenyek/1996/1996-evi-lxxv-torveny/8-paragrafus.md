@@ -20,7 +20,11 @@ végleges közigazgatási határozattal megállapította.
 
 (5) A munkaügyi hatóság által a (4) bekezdés alapján átadott adatok tartalmazzák
 
-a) a jogsértés tényét megállapító végleges határozat számát és a határozat véglegessé válásának időpontját,
+a) a jogsértés tényét megállapító
+
+aa) végleges határozat számát és
+
+ab) a határozat véglegessé válásának időpontját.
 
 b) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Mt. 22–23. §, 42–44. §], valamint a 6/A. § (1) bekezdés b) pontjában meghatározott jogsértéssel érintett munkavállaló nevét, anyja nevét, születésének helyét, idejét, lakcímét és a jogsértéssel érintett állapot időtartamát, továbbá
 
@@ -28,7 +32,7 @@ c) – amennyiben azt a munkaügyi ellenőrzés során tisztázni lehetett – a
 
 (6) A munkaügyi hatóság a (4) bekezdésben foglalt kötelezettsége teljesítése érdekében nyilvántartást vezet a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések, valamint a munkaviszony létesítésével összefüggő bejelentési kötelezettség megsértésével érintett munkavállalókról és az (5) bekezdésben meghatározott személyi adatokról.
 
-(6a) A (6) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(6a) A (6) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok és az (5) bekezdés a) pont aa) alpontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (7) A munkaügyi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat véglegessé válásának napjától számított két év elteltével törli.
 

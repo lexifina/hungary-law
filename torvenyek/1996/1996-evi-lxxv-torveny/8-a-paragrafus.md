@@ -6,4 +6,4 @@ a) a kötelezett, örököse vagy a vele közös háztartásban élő közeli ho
 
 b) a kötelezett vagy örököse vagyoni helyzetében
 
-a határozat véglegessé válása után olyan változás következett be, amely jelentősen megnehezíti a kötelezettség teljesítését.
+a döntés véglegessé válása után olyan változás következett be, amely jelentősen megnehezíti a kötelezettség teljesítését.
