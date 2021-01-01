@@ -1,3 +1,3 @@
-## 7. § Az Információs Hivatal hivatásos állományával összefüggő szociális és kegyeleti gondoskodás rendjéről szóló 32/2017. (XI. 28.) MvM rendelet (a továbbiakban: R3.) 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(4) A kérelemhez a kérelmezőnek csatolnia kell az igényjogosult és a vele közös háztartásban élő személyek a támogatás igénylésére okot adó körülmény felmerülésekor fennálló jövedelmi viszonyokat tanúsító jövedelemigazolását, tanulói jogviszony igazolását vagy az álláskeresési támogatás igénybevételéről kiállított igazolást. Csatolni kell továbbá az igény indokoltságát alátámasztó dokumentumokat, nyilatkozatokat.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
