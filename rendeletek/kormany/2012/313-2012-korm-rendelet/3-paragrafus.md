@@ -1,6 +1,6 @@
 ## 2. A Dokumentációs Központ és a Nyilvántartás működtetése, fenntartása és fejlesztése
 
-3. § (1)[^21] Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter (a továbbiakban: miniszter) az Étv. 59. § (3) bekezdése szerinti feladatai ellátása keretében kizárólagos joggal a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Üzemeltető) útján gondoskodik
+3. § (1)[^21] Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter (a továbbiakban: miniszter) az Étv. 59. § (3) bekezdése szerinti feladatai ellátása keretében kizárólagos joggal a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Üzemeltető) útján gondoskodik
 
 a)[^22] az 1. § (1) bekezdése szerinti dokumentációk Országos Központi Tervtárának fenntartásáról, fejlesztéséről, ennek keretében
 
@@ -56,7 +56,7 @@ f)[^30] a nemzeti tervvagyon kezelésével kapcsolatos szabályokat.
 
 (10)[^35] A vagyonkezelési tevékenységből az Üzemeltető számára megfizetett díj az Üzemeltető bevétele, amelyet az Országos Központi Tervtár működtetésével kapcsolatos, törvényben és e rendeletben meghatározott feladatok ellátására kell fordítani.
 
-[^21]: A 3. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 19. § (1) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 207. § (2) bekezdése, a 280/2018. (XII. 21.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^21]: A 3. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 19. § (1) bekezdésével megállapított, nyitó szövegrésze a 280/2018. (XII. 21.) Korm. rendelet 6. § b) pontja, a 668/2020. (XII. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^22]: A 3. § (1) bekezdés a) pontja a 280/2018. (XII. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^23]: A 3. § (1) bekezdés a) pont ac) alpontját a 280/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^24]: A 3. § (1) bekezdés a) pont ad) alpontját a 280/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be.
