@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-202-20-
 | 2019-05-09 | 2017-202-20-22.6 | 106/2019. (V. 8.) Korm. rendelet |
 | 2019-06-12 | 2017-202-20-22.7 | 136/2019. (VI. 11.) Korm. rendelet |
 | 2020-03-13 | 2017-202-20-22.8 | 43/2020. (III. 12.) Korm. rendelet |
+| 2021-01-01 | 2017-202-20-22.9 | 18/2019. (II. 14.) Korm. rendelet |

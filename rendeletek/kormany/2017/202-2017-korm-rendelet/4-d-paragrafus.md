@@ -1,3 +1,3 @@
-## 4/C. §[^7] Az 1. mellékletben foglalt táblázat 6. sora szerinti beruházás-lebonyolítója kizárólagos joggal a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság.
+## 4/C. §[^8] Az 1. mellékletben foglalt táblázat 6. sora szerinti beruházás-lebonyolítója kizárólagos joggal a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság.
 
-[^7]: A 4/C. §-t a 106/2019. (V. 8.) Korm. rendelet 3. §-a iktatta be.
+[^8]: A 4/C. §-t a 106/2019. (V. 8.) Korm. rendelet 3. §-a iktatta be.
