@@ -4,7 +4,7 @@
 
 ## EGYÉB TÁMOGATÁSOK
 
-## 36. [^6] A munkába járáshoz kapcsolódó juttatások
+## 36. [^12] A munkába járáshoz kapcsolódó juttatások
 
 82. § (1) A kormánytisztviselő részére a kormányzati igazgatási szerv helyi utazásra szolgáló bérletet nyújthat.
 
@@ -12,4 +12,4 @@
 
 (3) A kormánytisztviselő a gépjárművel történő munkába járás költségeihez a 39/2010. Korm. rendeletben foglaltak szerint jogosult a gépjárművel történő munkába járáshoz költségtérítésre azzal, hogy a munkavégzéssel nem érintett napokra (szabadság, keresőképtelenség és a munkavégzési kötelezettség alóli mentesülés ideje) nem számolható el költségtérítés. A költségtérítés mértékét a személyi jövedelemadóról szóló 1995. évi CXVII. törvényben foglaltak figyelembevételével a kormányzati igazgatási szerv közszolgálati szabályzatában kell meghatározni.
 
-[^6]: A 36. alcím (82. §) a 338/2019. (XII. 23.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^12]: A 36. alcím (82. §) a 338/2019. (XII. 23.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@
 
 a) a gyermek születésétől annak az évnek a végéig jogosult, amelyben a gyermek tankötelezettsége megszűnik,
 
-b) a tankötelezettségének megszűnését követően köznevelési intézményben tanulmányokat folytató gyermek (személy) esetében legkésőbb addig az évig jogosult, amelyben a gyermek (személy) a huszadik életévét, illetve – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik életévét – betölti.
+b)[^11] a tankötelezettségének megszűnését követően köznevelési intézményben, illetve szakképző intézményben tanulmányokat folytató gyermek (személy) esetében legkésőbb addig az évig jogosult, amelyben a gyermek (személy) a huszadik életévét, illetve – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik életévét – betölti.
 
 (4) A gyermeknevelési támogatás bruttó összege az alapösszegből és – két vagy több gyermek esetén – a gyermekszámhoz igazodó kiegészítő összegből áll. A támogatás alapösszege
 
@@ -41,3 +41,5 @@ b) a megállapított támogatást legkésőbb a benyújtásra nyitva álló hat�
 (10) A kormánytisztviselőnek tárgyévre megállapított gyermeknevelési támogatást a gyermek halála esetén nem lehet visszakövetelni.
 
 (11) Nem nyújtható gyermeknevelési támogatás annak a kormánytisztviselőnek, aki kérelmében vagy pótigényében szándékosan valótlan adatot, tényt közöl, vagy valamely jelentős tényt, körülményt elhallgat.
+
+[^11]: A 65. § (3) bekezdés b) pontja a 668/2020. (XII. 28.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.

@@ -8,7 +8,7 @@ a) a Kit. 56. § (4) bekezdése szerinti álláshelyek,
 
 b) a Magyarország Európai Unió melletti Állandó Képviseletén foglalkoztatottak álláshelyei,
 
-c) a fővárosi és megyei kormányhivatalok álláshelyei összessége, valamint
+c)[^7]
 
 d) a kormányzati igazgatási szerv számára jogszabályban előírt feladatok
 
@@ -17,3 +17,5 @@ vonatkozásában.
 (4) A miniszter a 14. § (1) bekezdés a) pontja szerinti tájékoztatás alapján haladéktalanul gondoskodik a (2) bekezdés szerinti döntésből eredő változásoknak az álláshely-nyilvántartásban történő rögzítéséről.
 
 (5) Ha a (2) bekezdés szerinti határozat elírást, illetve számítási hibát tartalmaz, és az nem hat ki az ügy érdemére, a kormányzati személyügyi igazgatásra kijelölt szerv – a Kormány újabb döntése nélkül – kijavítja az elírást, illetve a számítási hibát az álláshely-nyilvántartásban.
+
+[^7]: A 13. § (3) bekezdés c) pontját a 668/2020. (XII. 28.) Korm. rendelet 52. § (3) bekezdés b) pontja hatályon kívül helyezte.

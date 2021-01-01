@@ -20,9 +20,9 @@ a)[^1] a 27. §, valamint a 17., 19. és 20. alcím hatálya nem terjed ki a Kit
 
 b) a 17., 19. és 20. alcím hatálya nem terjed ki a Kit. 3. § (2) bekezdés c) pontja szerinti foglalkoztatottra,
 
-c) a 19. alcím hatálya nem terjed ki a Kit. 3. § (6) bekezdés d) pontja, 3. § (7) bekezdés d) pontja és 3. § (8) bekezdés a) és b) pontja szerinti foglalkoztatottra,
+c)[^2]
 
-d) a IX. fejezet és a 28. alcím hatálya nem terjed ki a Kit. 3. § (5) bekezdése, 3. § (6) bekezdés d) pontja, 3. § (7) bekezdés d) pontja és 3. § (8) bekezdés a) és b) pontja szerinti foglalkoztatottra,
+d)[^3] a IX. fejezet és a 28. alcím hatálya nem terjed ki a Kit. 3. § (5) bekezdése szerinti foglalkoztatottra,
 
 e) az V., VI. és a VIII–XVI. fejezet hatálya nem terjed ki a Kit. 3. § (5) bekezdése szerinti foglalkoztatottra,
 
@@ -33,3 +33,5 @@ g) a XVI. fejezet hatálya nem terjed ki a Kit. 3. § (2) bekezdés a) pontja sz
 h) az V–XVI. fejezet hatálya nem terjed ki a munkavállalóra.
 
 [^1]: Az 1. § (3) bekezdés a) pontja 109/A. §-t a 338/2019. (XII. 23.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés c) pontját a 668/2020. (XII. 28.) Korm. rendelet 52. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdés d) pontja a 668/2020. (XII. 28.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.

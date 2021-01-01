@@ -40,7 +40,7 @@ g) a korszerűsítéshez közvetlenül kapcsolódó helyreállítási munka, a k
 
 (2) Ha e rendelet valamely juttatás igénybevételének feltételéül vagy mérlegelési szempontjául a kormányzati igazgatási szervvel fennálló jogviszony időtartamát határozza meg, a jogviszonyban töltött időként vehető figyelembe
 
-a) a Kit., a közszolgálati tisztviselőkről szóló törvény, a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői és állami szolgálati jogviszonyban töltött idő,
+a)[^4] a Kit., a közszolgálati tisztviselőkről szóló törvény, a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, adó- és vámhatósági és állami szolgálati jogviszonyban töltött idő,
 
 b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött idő,
 
@@ -57,3 +57,5 @@ g) a Kit. 104. § (9) bekezdése szerinti jogviszony-létesítés esetén a két
 h) az állami vezetői szolgálati jogviszonyban és a politikai szolgálati jogviszonyban töltött idő.
 
 (3) Ahol e rendelet hatálya kiterjed rá, kormánytisztviselő alatt a Kit. 3. § (2) bekezdése szerinti politikai szolgálati jogviszonyban, illetve a munkaviszonyban foglalkoztatott személyt is érteni kell.
+
+[^4]: A 2. § (2) bekezdés a) pontja a 671/2020. (XII. 28.) Korm. rendelet 39. §-a szerint módosított szöveg.
