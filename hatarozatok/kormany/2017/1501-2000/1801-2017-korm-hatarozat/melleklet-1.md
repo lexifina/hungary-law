@@ -6,20 +6,10 @@
 
 ## Határidő: a 3. pontban foglaltak teljesülését követően azonnal
 
-## 3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdése és 33. § (2) bekezdése alapján a 2. pontban foglaltak végrehajtása érdekében 232 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, a 2. melléklet szerint.
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
-
-## Határidő: 2020. június 30.
+## 3.[^1]
 
 1. melléklet az 1801/2017. (XI. 8.) Korm. határozathoz
 
-[^1]: A 3. pont az 1244/2019. (IV. 30.) Korm. határozat 7. pontja szerint módosított szöveg.
+A támogatásban részesülő egyházi jogi személyek
+
+[^1]: A 3. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

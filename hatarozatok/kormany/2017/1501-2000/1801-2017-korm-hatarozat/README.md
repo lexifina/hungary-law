@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1801-30
 | 2017-11-08 | 2017-1801-30-22.1 | 1801/2017. (XI. 8.) Korm. határozat |
 | 2018-03-13 | 2017-1801-30-22.2 | 1080/2018. (III. 13.) Korm. határozat |
 | 2019-04-30 | 2017-1801-30-22.3 | 1244/2019. (IV. 30.) Korm. határozat |
+| 2021-01-01 | 2017-1801-30-22.4 | 2011. évi CXCV. törvény |
