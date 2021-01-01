@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-77-20-2
 | 2014-03-15 | 2010-77-20-22.5 | 62/2014. (III. 6.) Korm. rendelet |
 | 2016-07-23 | 2010-77-20-22.6 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2018-01-01 | 2010-77-20-22.7 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2021-01-01 | 2010-77-20-22.8 | 217/2016. (VII. 22.) Korm. rendelet |

@@ -14,7 +14,7 @@ e) részletes szakmai tevékenységet bemutató önéletrajzát,
 
 f)–g)[^4]
 
-(2)[^5] A szakmai gyakorlat időtartamát közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, hivatásos szolgálati jogviszonyban vagy munkaviszonyban álló kérelmező esetén a munkáltatója igazolja.
+(2)[^5] A szakmai gyakorlat időtartamát közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, állami szolgálati, közalkalmazotti, hivatásos szolgálati jogviszonyban vagy munkaviszonyban álló kérelmező esetén a munkáltatója igazolja.
 
 (3) A szakmai gyakorlat időtartamát munkavégzésre irányuló egyéb jogviszony, továbbá a kérelmező korábbi foglalkoztatójának jogutód nélküli megszűnése esetében szerződés vagy a munkavégzés igazolására alkalmas és a szakmai gyakorlat időtartamát alátámasztó egyéb dokumentum igazolja.
 
@@ -25,5 +25,5 @@ f)–g)[^4]
 [^2]: A 2. § a 457/2017. (XII. 28.) Korm. rendelet 287. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^3]: A 3. § (1) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^4]: A 3. § (1) bekezdés f)–g) pontját a 457/2017. (XII. 28.) Korm. rendelet 288. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^5]: A 3. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 22. §-a, a 671/2020. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^6]: A 3. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 287. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
