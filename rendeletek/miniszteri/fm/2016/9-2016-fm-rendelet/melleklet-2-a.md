@@ -4,7 +4,7 @@
 
 | Hasznosítás kódja | Szőlőültetvény hasznosítása | Támogatás összege (Ft/ha) | Támogatás mértéke (%) |
 
-| 1. | Borszőlő | legfeljebb 12 000 forint | a kijuttatott növényvédőszer vételárának 75%-a, illetve – amennyiben a növényvédőszert a gépi bérmunka-szolgáltatást végző vásárolja meg és juttatja ki, úgy – a gépi bérmunka-szolgáltatás ellenértékének 75%-a |
+| 1. | Borszőlő | legfeljebb 12 000 forint | a kijuttatott növényvédőszer vételárának 75%-a |
 
 | 2. | Csemegeszőlő |
 
@@ -16,6 +16,6 @@
 
 | 6. | Szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag |
 
-2a. melléklet a 9/2016. (II. 15.) FM rendelethez[^56]
+2a. melléklet a 9/2016. (II. 15.) FM rendelethez[^45]
 
-[^56]: A 2a. mellékletet a 4/2019. (III. 6.) AM rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^45]: A 2a. mellékletet a 4/2019. (III. 6.) AM rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
