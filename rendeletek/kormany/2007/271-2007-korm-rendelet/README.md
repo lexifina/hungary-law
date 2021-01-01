@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-271-20-
 | 2014-03-15 | 2007-271-20-22.7 | 53/2014. (III. 3.) Korm. rendelet |
 | 2016-07-28 | 2007-271-20-22.8 | 193/2016. (VII. 13.) Korm. rendelet |
 | 2018-01-01 | 2007-271-20-22.9 | 516/2017. (XII. 29.) Korm. rendelet |
+| 2021-01-01 | 2007-271-20-22.10 | 193/2016. (VII. 13.) Korm. rendelet |
