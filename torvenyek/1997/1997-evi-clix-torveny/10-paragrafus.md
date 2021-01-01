@@ -44,4 +44,4 @@ d) figyelmeztető lövésnek.
 
 (9)–(10)
 
-(11) A fegyveres biztonsági őrt a fokozott büntetőjogi védelem, valamint az e törvény szerinti intézkedési és kényszerítőeszköz-használati jogosultság kizárólag az őrutasításban szereplő feladatok ellátása során illeti meg.
+(11) A fegyveres biztonsági őrt az e törvény szerinti intézkedési és kényszerítőeszköz-használati jogosultság kizárólag az őrutasításban szereplő feladatok ellátása során illeti meg. A fegyveres biztonsági őr az őrutasításban szereplő feladatok ellátása tekintetében a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül.
