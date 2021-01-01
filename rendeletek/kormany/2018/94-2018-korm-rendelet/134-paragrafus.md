@@ -12,4 +12,6 @@ d) előkészíti, kidolgozza és ellátja a területfejlesztés intézményrends
 
 e) kialakítja és működteti a terület- és regionális fejlesztéssel és a területrendezéssel kapcsolatos információs és adatszolgáltatási rendszert,
 
-f) ellátja a közvetlen közösségi források tekintetében a 123. §-ban meghatározott feladatokat.
+f)[^93]
+
+[^93]: A 134. § (2) bekezdés f) pontját az 536/2020. (XII. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.

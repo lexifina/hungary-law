@@ -1,4 +1,4 @@
-## 154. §[^109] A miniszterek helyettesítése a Kit. 21. § (2) bekezdésében meghatározott esetekben a következő rend szerint történik:
+## 154. §[^116] A miniszterek helyettesítése a Kit. 21. § (2) bekezdésében meghatározott esetekben a következő rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
 
@@ -30,4 +30,4 @@ n) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és 
 
 helyettesíti.
 
-[^109]: A 154. § a 437/2020. (IX. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^116]: A 154. § a 437/2020. (IX. 22.) Korm. rendelet 5. §-ával megállapított szöveg.

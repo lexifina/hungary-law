@@ -8,7 +8,7 @@
 
 3. Budapest és a fővárosi agglomeráció fejlesztéséért,
 
-4.[^18]
+4.[^18] európai uniós források felhasználásáért,
 
 5. építésügyi szabályozásért és építéshatósági ügyekért,
 
@@ -58,7 +58,7 @@ felelős tagja.
 
 (5) A miniszter a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kérhet a kormányzati szervektől, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek számára.
 
-[^18]: A 14. § (1) bekezdés 4. pontját a 157/2019. (VI. 28.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^18]: A 14. § (1) bekezdés 4. pontját a 157/2019. (VI. 28.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte, újonnan az 536/2020. (XII. 1.) Korm. rendelet 1. §-a iktatta be.
 [^19]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
 [^20]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^21]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.

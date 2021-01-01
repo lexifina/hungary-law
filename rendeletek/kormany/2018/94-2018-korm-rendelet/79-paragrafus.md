@@ -16,17 +16,17 @@
 
 7. halgazdálkodásért,
 
-8.[^51]
+8.[^54] mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény engedélyezéséért,
 
 9. környezetvédelemért,
 
 10. természetvédelemért,
 
-11.[^52] földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért
+11.[^55] földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért
 
 12. vadgazdálkodásért
 
 felelős tagja.
 
-[^51]: A 79. § 8. pontját az 59/2019. (III. 25.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^52]: A 79. § 11. pontja az 59/2019. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^54]: A 79. § 8. pontját újonnan az 511/2020. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^55]: A 79. § 11. pontja az 59/2019. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

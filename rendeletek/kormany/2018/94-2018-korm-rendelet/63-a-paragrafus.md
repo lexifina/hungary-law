@@ -1,4 +1,4 @@
-63/A. §[^43] (1) A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására vonatkozó jogszabályokat.
+63/A. §[^46] (1) A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására vonatkozó jogszabályokat.
 
 (2) A miniszter a társadalmi felzárkózásért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) felel a hátrányos térségekben élők társadalmi felzárkózásáért,
 
 d) a foglalkoztatásért felelős miniszterrel együttműködésben felel az alacsony végzettségűek foglalkoztathatóságát javító komplex szolgáltatások biztosításáért.
 
-[^43]: A 63/A. §-t a 84/2019. (IV. 18.) Korm. rendelet 2. §-a iktatta be.
+[^46]: A 63/A. §-t a 84/2019. (IV. 18.) Korm. rendelet 2. §-a iktatta be.

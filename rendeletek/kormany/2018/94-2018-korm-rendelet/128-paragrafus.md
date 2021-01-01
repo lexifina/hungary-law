@@ -1,4 +1,4 @@
-## 128. §[^85] A miniszter az informatikáért való felelőssége keretében
+## 128. §[^91] A miniszter az informatikáért való felelőssége keretében
 
 a) a 13. §-ban foglaltakra figyelemmel kidolgozza az egységes, infokommunikációs infrastruktúra-fejlesztési, valamint szolgáltatási stratégiát, és közreműködik annak végrehajtásában,
 
@@ -10,4 +10,4 @@ ca) felügyeli azok infokommunikációs infrastruktúra eszközrendszerének üz
 
 cb) egyetértési jogot gyakorol azok infokommunikációs infrastruktúrájáért felelős vezetőinek és az informatikai biztonságért felelős vezetőinek személye és infokommunikációs infrastruktúrát érintő kötelezettségvállalásai tekintetében.
 
-[^85]: A 128. § a 391/2020. (VIII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^91]: A 128. § a 391/2020. (VIII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
