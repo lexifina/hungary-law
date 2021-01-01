@@ -22,8 +22,13 @@ e) a jármű rendszáma, a fuvarlevél száma,
 
 f) a felrakodást végző aláírása és – amennyiben van – bélyegzője.
 
-(4) A jármű-tömegbizonylat vagy az írásbeli nyilatkozat a szállítás időtartama alatt a fuvarlevél mellékletét képezi, azt az ellenőrzést végző hatóság képviselőjének felszólítására be kell mutatni. A bizonylatot vagy az írásbeli nyilatkozatot a fuvarozás (szállítás) befejezését követően – a kapcsolódó okmányokhoz csatoltan – meg kell őrizni.
+(4)[^59] A tehergépjármű vezetője a jármű-tömegbizonylatot vagy az írásbeli nyilatkozatot átveszi, azt a szállítás időtartama alatt a tehergépjárművön tartja, és az ellenőrzést végző hatóság képviselőjének felszólítására bemutatja.
 
-(5) Túlsúly megállapítása esetén a fizetendő bírság a jármű-tömegbizonylat vagy a nyilatkozat kiállítóját terheli.
+(5)[^60] A jármű-tömegbizonylat vagy az írásbeli nyilatkozat a fuvarlevél vagy a saját számlás menetlevél mellékletét képezi, azokat a fuvarozás (szállítás) befejezését követően – a kapcsolódó okmányokhoz csatoltan – meg kell őrizni. Fuvarlevél és saját számlás menetlevél hiányában a jármű-tömegbizonylatot és az írásbeli nyilatkozatot az üzembentartó egy évig megőrzi.
+
+(6)[^61] Túlsúly megállapítása esetén a fizetendő bírság a jármű-tömegbizonylat vagy a nyilatkozat kiállítóját, ennek elmulasztása esetén a kiállításra kötelezettet terheli.
 
 [^58]: A 24. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 590. §-a szerint módosított szöveg.
+[^59]: A 24. § (4) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^60]: A 24. § (5) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^61]: A 24. § (6) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
