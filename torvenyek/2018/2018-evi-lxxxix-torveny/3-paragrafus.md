@@ -6,9 +6,9 @@ b) társadalombiztosítási azonosító jel vagy
 
 c) személyazonosító okmány száma.
 
-(2)
+(2) Az (1) bekezdés szerinti adatok a sikeres azonosításig kezelhetők.
 
-(3) Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek 2. § a)–h) és l) pontja szerinti adatairól – azonosítás, ellenőrzés és pontosítás céljából – térítésmentesen, elektronikus úton adatot igényel a személyiadat- és lakcímnyilvántartást kezelő szervtől.
+(3) Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek 2. § a)–h) és j)–k) pontja szerinti adatairól – azonosítás, ellenőrzés és pontosítás céljából – térítésmentesen, elektronikus úton adatot igényel a személyiadat- és lakcímnyilvántartást kezelő szervtől.
 
 (3a) A személyiadat- és lakcímnyilvántartást kezelő szerv minden év január 15-éig adatot szolgáltat az oktatási nyilvántartás működéséért felelős szerv számára az adott évben a harmadik életévüket betöltő gyermekek, továbbá folyamatosan a Magyarország területére érkező óvodába járni köteles vagy tanköteles gyermekek 2. § a)–h) pontja szerinti adatai vonatkozásában.
 

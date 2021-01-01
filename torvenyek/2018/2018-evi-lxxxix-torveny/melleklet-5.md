@@ -1,8 +1,10 @@
 ## Az oktatási igazolványok intézményi adminisztrációs rendszere
 
+## Az oktatási nyilvántartás működéséért felelős szerv az oktatási igazolványok elkészítésének és az oktatási igazolványokhoz kapcsolódó kedvezményekre való jogosultság igazolásának céljából vezeti az oktatási igazolványok nyilvántartását.
+
 ## Az oktatási igazolványok intézményi adminisztrációs rendszere az alábbi személyes adatokat tartalmazza:
 
-## a) a jogosult oktatási azonosítója,
+## a) a jogosult oktatási azonosító száma,
 
 ## b) a jogosult igazolványon szereplő családi és utóneve,
 
@@ -16,17 +18,25 @@
 
 ## g) az oktatási igazolvány érvényessége,
 
-## h) a kiadott érvényesítő matrica sorszáma.
+## h) a kiadott érvényesítő matrica sorszáma,
+
+## i) a jogosult igazolványon szereplő címe,
+
+## j) a jogosult igazolványon szereplő születési helye és ideje,
+
+## k) az igazolvány kiállításának dátuma,
+
+## l) a jogosultnak kiállított igazolásokon szereplő adatok.
 
 5. melléklet a 2018. évi LXXXIX. törvényhez
 
 A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása
 
-## A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása a (volt) magyar állami (rész)ösztöndíjas hallgató alábbi személyes adatait tartalmazza:
+## A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása 2012. augusztus 1-jétől kezdődően a (volt) magyar állami (rész)ösztöndíjas hallgató alábbi személyes adatait tartalmazza:
 
-1. oktatási azonosító; adóazonosító jele, társadalombiztosítási azonosító jele,
+1. oktatási azonosító száma; adóazonosító jele, társadalombiztosítási azonosító jele, ösztöndíjazonosítója,
 
-2. értesítési cím, telefonszáma, elektronikus levelezési címe,
+2. értesítési címe, telefonszáma, elektronikus levelezési címe, a magyar állami ösztöndíjas kötelezettségekkel kapcsolatos tájékoztatáshoz, elektronikus iratküldésről történő értesítéshez és az elektronikus kérelembenyújtáshoz kapcsolódóan a központi ügyfélregisztrációs tárhelyéhez tartozó elektronikus levelezési címe,
 
 3. hazai munkaviszony, valamint hazai munkaviszony származási országban történő teljesítése esetén annak létesítésére és időtartamára vonatkozó adat, továbbá a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozás megállapításához szükséges adat,
 
@@ -47,3 +57,5 @@ A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása
 11. a visszatérítési kötelezettsége átvállalására vonatkozó jognyilatkozat adata,
 
 12. a költségmentességi kérelmének igazolására vonatkozó adat.
+
+13. örökbefogadói díj folyósításának időtartamára vonatkozó adat.

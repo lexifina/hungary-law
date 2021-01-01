@@ -1,5 +1,3 @@
-## 2. Az oktatási nyilvántartás szakrendszerei
-
 4. § (1) Az oktatási nyilvántartás szakrendszeri nyilvántartásai:
 
 a) a köznevelés információs rendszere,
@@ -18,7 +16,9 @@ g) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása,
 
 h) a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása,
 
-i) a pályakövetési rendszer.
+i) a pályakövetési rendszer,
+
+j) a diplomás pályakövetési rendszer (a továbbiakban: DPR).
 
 (2) Az (1) bekezdés a) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
 
@@ -82,7 +82,9 @@ b) a képzési és személyi törzs.
 
 (4) Az (1) bekezdés szerinti szakrendszerek további, jogszabályban meghatározott, személyes adatokat nem tartalmazó alrendszereket, alkalmazásokat tartalmazhatnak.
 
-(5) Az oktatási nyilvántartás egyes szakrendszere, alrendszere személyes adatai célhoz kötötten egymás között átadhatók.
+(5) Az oktatási nyilvántartás egyes szakrendszerei, valamint annak egyes alrendszerei célhoz kötötten, álnevesített formában, szakpolitikai stratégiai döntés-előkészítés, elemzés, tervezés céljából összekapcsolhatók, továbbá az azokban kezelt adatok célhoz kötötten egymás között átadhatók.
+
+(5a) A köznevelés információs rendszerének a (2) bekezdés c)–f) pontja szerinti alrendszereiből, valamint az (1) bekezdés c), g), i) és j pontja szerinti szakrendszerekből az oktatási nyilvántartás működéséért felelős szerv által létrehozott, egyéni szinten, de személyazonosításra alkalmatlan módon meghatározott adatokat tartalmazó kutatói adatbázisok létrehozhatók. Az így létrehozott kutatói adatbázisok tudományos kutatási és statisztikai célból, célhoz kötötten átadhatók tudományos kutatási tevékenységet végző költségvetési szervnek.
 
 (6) Az oktatási nyilvántartásban kezelt személyes adatok körét
 

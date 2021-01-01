@@ -6,23 +6,29 @@
 
 ## I. Felsőoktatási intézménytörzs
 
-## A felsőoktatási intézménytörzs az alábbi személyes adatokat tartalmazza:
+## A felsőoktatási intézménytörzs az alábbi – 2006. február 1-jén, illetve az ezt követően fennálló – személyes adatokat tartalmazza:
 
 ## 1. az államilag elismert felsőoktatási intézmény
 
-## 1.1. fenntartójának neve, székhelyének címe,
+## 1.1. fenntartójának, tulajdonosának neve, székhelyének címe,
 
-## 1.2. tisztségviselőinek – rektor, kancellár, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője – oktatási azonosító száma, ennek hiányában családi és utóneve,
+## 1.2. tisztségviselőinek – rektor, kancellár, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője – családi és utóneve,
 
 ## 1.3. közhasznú szervezetként való működés esetén a felügyelőbizottság tagjainak családi és utóneve és értesítési címe,
 
-## 1.4. az Nftv. 95/A. § (1) bekezdésében meghatározottak szerint fenntartott magán felsőoktatási intézmény esetén továbbá a fenntartó testület nyilvántartási száma, képviselőjének családi és utóneve, elérhetősége (telefon, e-mail);
+## 1.4.
+
+## 1.5. magán felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységének – ide nem értve az Nftv. 14. § (3) bekezdése szerinti, törvény alapján jogi személyiségű szervezeti egységként működtetett köznevelési intézményt, szakképző intézményt – teljes neve, címe, képviselőjének családi és utóneve,
+
+## 1.6. duális képzéssel, hallgatók számára szálláshely biztosításával, valamint az Nftv. 78. § (1) bekezdése szerinti külföldi székhelyen kívüli képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
 ## 2. a Magyarországon működő külföldi felsőoktatási intézmény
 
 ## 2.1. fenntartójának neve, székhelyének címe,
 
 ## 2.2. magyarországi képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
+
+## 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
 ## 3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács esetében
 
@@ -40,11 +46,11 @@
 
 ## II. Felsőoktatási alkalmazotti személyi törzs
 
-## A felsőoktatási alkalmazotti személyi törzs az alábbi személyes adatokat tartalmazza:
+## A felsőoktatási alkalmazotti személyi törzs a 2006. február 1-jén folyamatban lévő, illetve az ezt követően létesített alkalmazotti jogviszonnyal rendelkező személyek alábbi személyes adatait tartalmazza:
 
 ## 1. oktatási azonosító szám,
 
-## 2. értesítési cím,
+## 2. értesítési cím, elektronikus levélcím,
 
 ## 3. végzettségi szint, szakképzettség, idegennyelv-tudás, tudományos fokozat,
 
@@ -68,7 +74,7 @@
 
 ## 13. az adatokat igazoló okiratok azonosítására szolgáló adatok,
 
-## 14. doktori iskolai tagság.
+## 14.
 
 ## III. Felsőoktatási felvételi alrendszer
 
@@ -76,29 +82,31 @@
 
 ## 1. oktatási azonosító száma,
 
-## 2. értesítési címe, elektronikus levélcíme,
+## 2. felvételi azonosítója,
 
-## 3. nem magyar állampolgár esetén a Magyarország területén való tartózkodásra jogosító okirat – a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – adata,
+## 3. értesítési címe, elektronikus levélcíme, telefonszáma,
 
-## 4. az érettségi vizsga adatai,
+## 4. nem magyar állampolgár esetén a Magyarország területén való tartózkodásra jogosító okirat – a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – adata,
 
-## 5. a középiskola adatai,
+## 5. az érettségi vizsga adatai,
 
-## 6. a felvételi kérelem elbírálásához szükséges adatai,
+## 6. a középiskola adatai,
 
-## 7. a felvételi eljárás adatai,
+## 7. a felsőfokú oklevél adatai,
 
-## 8. központi ügyfél-regisztrációs nyilvántartási kapcsolati kódja.
+## 8. a felvételi kérelem elbírálásához szükséges adatai,
 
-## A vallási, világnézeti elkötelezettségre, annak igazolására mint jelentkezési feltételre vonatkozó személyes adatot nem lehet nyilvántartani.
+## 9. a felvételi eljárás adatai,
+
+## 10. központi ügyfél-regisztrációs nyilvántartási kapcsolati kódja.
 
 ## IV. Hallgatói személyi törzs
 
-## A hallgatói személyi törzs a hallgató alábbi személyes adatait tartalmazza:
+## A hallgatói személyi törzs a 2006. február 1-jén folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
 
 ## 1. oktatási azonosító száma, adóazonosító jele,társadalombiztosítási azonosító jele,
 
-## 2. értesítési címe, telefonszáma, elektronikus levélcíme,
+## 2. értesítési címe, elektronikus levélcíme,
 
 ## 3. nem magyar állampolgár esetén a Magyarország területén való tartózkodásra jogosító okirat – a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány –, nemzetközi biztosítási okmány adata,
 
@@ -118,9 +126,9 @@
 
 ## 11. a törzslap azonosító száma,
 
-## 12. a szakmai gyakorlat teljesítésére, abszolutóriumra, záróvizsgára, komplex vizsgára, doktori védésre, nyelvvizsgára, korábban megszerzett oklevélre, hozott dokumentumra vonatkozó adat,
+## 12. a szakmai gyakorlat teljesítésére, abszolutóriumra, záróvizsgára, komplex vizsgára, doktori védésre, nyelvvizsgára, korábban megszerzett oklevélre, hozott dokumentumként bemutatott oklevélre és felsőfokú szakképzésben szerzett bizonyítványra vonatkozó adat, érettségi bizonyítványra, valamint a középiskolai tanulmányokra vonatkozó egyes adat,
 
-## 13. a kiadott okirat tartalmára és azonosítására vonatkozó adat,
+## 13.
 
 ## 14. a külföldi állampolgárságú hallgató miniszteri ösztöndíjára vonatkozó adat,
 
@@ -154,6 +162,6 @@
 
 ## 22. a részére nyújtott pénzbeli juttatások adata,
 
-## 23. a Diákhitel Központ által megítélt hitel fennálltára, típusára vonatkozó adat.
+## 23. a Diákhitel Központ által megítélt hitel fennálltára, típusára, valamint kötött felhasználású hitel esetén a hallgató által igényelt diákhitel összegére, a hitelszerződés számára, a felsőoktatási intézmény részére átutalt összegre és az átutalás dátumára vonatkozó adat.
 
 3/A. melléklet a 2018. évi LXXXIX. törvényhez

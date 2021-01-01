@@ -2,7 +2,7 @@
 
 A szakképzés információs rendszere személyes adatokat kezelő alrendszerei
 
-1. Az I. és II. részben meghatározott adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára az Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – az I. rész b) és j) pontjában meghatározott adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
+1. Az I. és II. részben meghatározott adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára az Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – a II. rész 1. pont j) alpontjában meghatározott adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
 
 2. A Központi Statisztikai Hivatal részére történő adatátadás esetén az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
@@ -52,7 +52,7 @@ p) a tankönyvellátásra vonatkozó adatok,
 
 q) a számára járó ösztöndíj, támogatás és egyéb juttatás adata,
 
-r) a képzési hitelre igénybevételének tényére vonatkozó adata,
+r) a képzési hitel igénybevételének tényére és típusára vonatkozó adata,
 
 s) kollégiumi vagy diákotthoni elhelyezés esetén a kollégium, illetve a diákotthon megnevezése, az adott félévre vonatkozó elhelyezés ténye,
 

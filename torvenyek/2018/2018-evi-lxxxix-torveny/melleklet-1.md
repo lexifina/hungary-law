@@ -184,7 +184,7 @@ r) a vizsgadokumentum száma;
 
 2.3. a vizsgáztatóra, vizsgaelnökre vonatkozóan:
 
-a) a vizsgáztató oktatási azonosítója;
+a) a vizsgáztató oktatási azonosító száma;
 
 b) a vizsgáztató értesítési adata;
 
@@ -514,7 +514,7 @@ g) minősítésével kapcsolatban beadott kérelmek adatai.
 
 XIII. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása
 
-1. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása az alábbi személyes adatokat tartalmazza:
+1. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása 2001. szeptember 1-jétől kezdődően az alábbi személyes adatokat tartalmazza:
 
 a) a versenyző oktatási azonosító száma;
 

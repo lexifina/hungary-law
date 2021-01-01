@@ -16,7 +16,7 @@ továbbítható.
 
 (4) A tanulói nyilvántartásban, illetve a tanulók és a képzésben részt vevő személyek nyilvántartásában nyilvántartott adatok – adategyeztetés céljából – továbbíthatók a Köznevelési Regisztrációs és Tanulmányi Alaprendszert használó olyan köznevelési intézménynek, szakképző intézménynek, illetve felnőttképzőnek, amellyel a gyermek, a tanuló, illetve a képzésben részt vevő személy jogviszonyban áll.
 
-(5) A társadalombiztosítási azonosító jel hitelességét az országos egészségbiztosítási szerv nyilvántartásával elektronikus úton kell megfeleltetni.
+(5) A társadalombiztosítási azonosító jel hitelességét a társadalombiztosítási azonosító jellel rendelkező személyek azonosító adatainak nyilvántartásával való összevetéssel elektronikus úton kell ellenőrizni.
 
 (6) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére továbbítható.
 
@@ -26,7 +26,9 @@ továbbítható.
 
 (9) Az oktatási nyilvántartás működéséért felelős szerv a középfokú felvételi eljárás megszervezéséhez szükséges adatok nyilvántartásából a középfokú felvételi eljárásban részt vevő középfokú iskoláknak, a központi írásbeli felvételi vizsgákat szervező középiskoláknak továbbítja az érintett tanulók nyilvántartott adatait.
 
-(10) A személyazonosításra alkalmas adatokat az oktatási nyilvántartás működéséért felelős szerv a középfokú felvételi eljárás lezárását követően legkésőbb az adott év szeptember 15-éig törli a középfokú felvételi eljárás megszervezéséhez szükséges adatok nyilvántartásából.
+(9a) Az oktatási nyilvántartás működéséért felelős szerv a feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartásából történeti, tudományos célból, valamint a tehetséggondozó versenyek népszerűsítése céljából jogosult nyilvánosságra hozni az egyes versenyeken helyezést elért versenyzők nevét, évfolyamát és osztályát, a versenyen elért eredményét, a versenyzőt nevező iskola, illetve feladatellátási helyének nevét, OM azonosítóját és a felkészítő tanárok nevét.
+
+(10) A személyazonosításra alkalmas adatokat az oktatási nyilvántartás működéséért felelős szerv a középfokú felvételi eljárás lezárását követően legkésőbb az adott év szeptember 15-éig törli a középfokú felvételi eljárás megszervezéséhez szükséges adatok nyilvántartásából, illetve a felvételi eljárás lezárását követően legkésőbb szeptember 15-éig a személyes adatokat tartalmazó papíralapú adathordozókat megsemmisíti.
 
 (11) Az oktatási nyilvántartás működéséért felelős szerv A kétszintű érettségi vizsga adminisztrációs rendszerében kezelt adatokat a vizsgaidőszakot követő tanév végéig kezeli.
 
@@ -50,11 +52,11 @@ ac) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan az 
 
 b) a képzési és személyi törzsből
 
-ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont a), c) és f) alpontjában és 3. pont a), c), d) és e) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
+ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont a) és b) alpontjában és 2. pont b)–d) alpontjában meghatározott adatok,
 
-bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont d) alpontjában meghatározott adatok,
+bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
 
-bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 3. pont a) és d) alpontjában meghatározott adatok
+bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont b) és d) alpontjában meghatározott adatok
 
 továbbíthatóak a Diákhitel Központnak.
 
@@ -62,7 +64,7 @@ továbbíthatóak a Diákhitel Központnak.
 
 (17) A Felsőoktatási felvételi alrendszerből a felsőoktatási intézménynek a hozzá jelentkező, illetve felvett személyre vonatkozó, az adott felsőoktatási intézmény képzésével kapcsolatos valamennyi adat továbbítható.
 
-(18) A Felsőoktatási felvételi alrendszer a személyes adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – az adott felsőoktatási felvételi eljárás jelentkezési határidejétől számított két évig kezeli.
+(18) A Felsőoktatási felvételi alrendszer a személyes adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – az adott felsőoktatási felvételi eljárás jelentkezési határidejétől számított három évig kezeli.
 
 (19) A Hallgatói személyi törzsből továbbítható – az érintetten kívül – a felsőoktatási intézménynek a vele hallgatói jogviszonyban álló személyre vonatkozó, a nála fennálló jogviszonyára vonatkozó valamennyi adat.
 
@@ -74,7 +76,7 @@ b) a hitelszerződésből eredő jogok gyakorlása és kötelezettségek teljes�
 
 c) a hallgatói hiteltartozások várható visszafizetésével kapcsolatos kockázatelemzés és a kockázati mérték szerinti ügyfélkezelés céljából a 3. melléklet IV. rész 12. pontja szerinti adatok közül az abszolutóriumra vonatkozó adat, a 3. melléklet IV. rész 15. pontja, a 18. pont 18.1. és 18.2. alpontja szerinti adat, a 3. melléklet IV. rész 19. pontja szerinti adatokból a hallgató által önköltség címén az intézmény felé ténylegesen fizetendő összeg, valamint az Nftv. 82. § (1) bekezdés a) pontja alapján fizetendő térítési díj összege.
 
-(21) A Hallgatói személyi törzsből továbbíthatók továbbá a Tempus Közalapítványnak a külföldi tanulmányokat segítő ösztöndíjra való jogosultság vizsgálata, a jogosultak és az államközi ösztöndíjak útján érkező külföldiek ösztöndíjszerződéséből eredő jogok gyakorlása és kötelezettségek teljesítése, az ilyen ösztöndíjasok nyomon követése céljából az ösztöndíjra pályázó vagy ösztöndíjas személyhez kapcsolódóan
+(21) A Hallgatói személyi törzsből továbbíthatók továbbá a Tempus Közalapítványnak a külföldi tanulmányokat segítő ösztöndíjra való jogosultság vizsgálata, a jogosultak és az államközi ösztöndíjak útján érkező külföldiek, valamint a Hungary Helps Ügynökség Nonprofit Zrt.-nek az Ösztöndíjprogram Keresztény Fiataloknak elnevezésű ösztöndíjában részesülő külföldiek ösztöndíjszerződéséből eredő jogok gyakorlása és kötelezettségek teljesítése, az ilyen ösztöndíjasok nyomon követése céljából az ösztöndíjra pályázó vagy ösztöndíjas személyhez kapcsolódóan
 
 a) a 2. § a)–j) pontja szerinti adatok,
 
@@ -94,8 +96,62 @@ c) a Hallgatói személyi törzsből a 3. melléklet IV. rész 5. pontja, – a 
 
 (24) A Hallgatói személyi törzsből továbbítható továbbá az idegenrendészeti hatóság részére a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvényben, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a 3. melléklet IV. rész 5., 6., 15. pontja szerinti adat, valamint a 19. pontja szerinti adatok közül az önköltségre vonatkozó adat, azzal, hogy az idegenrendészeti hatóságnak a megkeresésben minden esetben pontosan meg kell határozni azt az adatkört amire a megkeresés vonatkozik.
 
-(25) Az oktatási nyilvántartás működéséért felelős szerv a 4. § (1) bekezdés e) pontja szerinti, a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása szakrendszerben nyilvántartott személyek adatai időszerűségének biztosítása, ellenőrzése céljából térítésmentesen, elektronikus úton az 5. melléklet szerinti, az adott szerv által nyilvántartott adatot igényelheti az állami foglalkoztatási szervtől, a kincstártól, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj és a gyermekgondozási díj nyilvántartásáért felelős szervtől, az anyakönyvi nyilvántartás központi nyilvántartó szervétől, a családtámogatási ügyben eljáró hatóságtól, a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóságtól és az adóhatóságtól.
+(25)
 
 (26) Az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásából adat továbbítható a kötelező felvételt biztosító óvoda fenntartója és a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyző részére az óvodai felvétel biztosítása céljából, a felmentést engedélyező szerv részére a hatósági eljárás lefolytatása céljából, valamint a szabálysértési hatóság részére a szabálysértési eljárás lefolytatása céljából.
 
 (27) A tanköteles gyermekek nyilvántartásából adat továbbítható a kötelező felvételt biztosító általános iskola fenntartója részére az iskolai felvétel biztosítása céljából, a felmentést engedélyező szerv részére a hatósági eljárás lefolytatása céljából, valamint a szabálysértési hatóság részére a szabálysértési eljárás lefolytatása céljából.
+
+(30) Az oktatási nyilvántartás működéséért felelős szerv az oktatási igazolványok intézményi adminisztrációs rendszeréből az igazolványok érvényességére vonatkozóan adatot szolgáltat az oktatási igazolványokhoz kapcsolódó kedvezmények szervezője és a kedvezmények nyújtói részére.
+
+(31) Az oktatási nyilvántartás működéséért felelős szerv a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásából előzetes regisztrációt követően
+
+a) a felsőoktatási intézmény számára visszaigazolja az adott felsőoktatási intézményben hallgatói jogviszonnyal rendelkező hallgató nyelvvizsgájának hitelességét,
+
+b) a foglalkoztatásra irányuló jogviszony létesítésével, módosításával kapcsolatban a munkáltató részére továbbíthatja a nyelvvizsga hitelességére vonatkozó adatot.
+
+(32) Az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatásra való jogosultság megállapításával kapcsolatban az oktatási nyilvántartás működéséért felelős szerv a nyugdíjbiztosítási igazgatási szerv megkeresése esetén a kérelmező vonatkozásában – 2018. január 1-jét követően kiállított valamennyi nyelvvizsga-bizonyítványra, továbbá a kérelemben megjelölt, e dátumot megelőzően kiállított részvizsga-bizonyítványra kiterjedően – a megkeresés kézhezvételétől számított nyolc napon belül közli a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában szereplő következő adatokat:
+
+a) a vizsgázó természetes személyazonosító adatai,
+
+b) a vizsgaközpont és vizsgahely megnevezése,
+
+c) a vizsga neve, szintje és típusa,
+
+d) a vizsga helye és napja,
+
+e) a vizsga eredménye,
+
+f) a vizsga anyakönyvi száma,
+
+g) a bizonyítvány kiállításának napja és
+
+h) a bizonyítvány száma.
+
+(33) Az oktatási nyilvántartás működéséért felelős szerv a nyugdíjbiztosítási igazgatási szerv megkeresése esetén a kérelmező vonatkozásában – 2018. január 1-jét követően kiállított valamennyi nyelvvizsga egyenértékűségi záradékkal ellátott emelt szintű, idegen nyelvi érettségi vizsgára kiterjedően – a megkeresés kézhezvételétől számított nyolc napon belül közli a kiadott érettségi bizonyítványokról, tanúsítványokról vezetett nyilvántartásban szereplő következő adatokat:
+
+a) a vizsgázó természetes személyazonosító adatai,
+
+b) a bizonyítvány, tanúsítvány száma,
+
+c) a bizonyítványt, tanúsítványt kiállító intézmény neve,
+
+d) a bizonyítvány, tanúsítvány kiállításának napja,
+
+e) a vizsgatárgy neve és szintje,
+
+f) a vizsga eredménye és
+
+g) a nyelvvizsga-egyenértékűségi záradék.
+
+(34) Az oktatási nyilvántartás működéséért felelős szerv a nyugdíjbiztosítási igazgatási szerv megkeresése esetén a kérelmező vonatkozásában – 2018. január 1-jét követően kiállított valamennyi honosítási határozatra kiterjedően – a megkeresés kézhezvételétől számított nyolc napon belül közli a következő adatokat:
+
+a) a vizsgázó természetes személyazonosító adatai,
+
+b) a vizsga neve, szintje és típusa,
+
+c) a honosítási határozat kiállításának napja és
+
+d) a honosítási határozat sorszáma.
+
+(35) A (30)–(34) bekezdés szerinti adatok átadásának rendjét az oktatási nyilvántartás működéséért felelős szerv és a nyugdíjbiztosítási igazgatási szerv együttműködési megállapodásban határozza meg.
