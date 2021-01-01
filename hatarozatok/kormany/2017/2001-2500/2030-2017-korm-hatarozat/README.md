@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2030-30
 | --- | --- | --- |
 | 2017-12-27 | 2017-2030-30-22.1 | 2030/2017. (XII. 27.) Korm. határozat |
 | 2017-12-28 | 2017-2030-30-22.2 | 2010: CXXX. törvény |
+| 2021-01-01 | 2017-2030-30-22.3 | 2011. évi CXCV. törvény |
