@@ -14,6 +14,6 @@ c) a 35, 40 év szolgálati viszony után járó jubileumi jutalmat, ha a jubile
 
 (4) Ha a szolgálati viszony az igazságügyi alkalmazott halála miatt szűnik meg, a jubileumi jutalmat – a (3) bekezdés alkalmazásával – az örökösének kell kifizetni.
 
-(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
+(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
 
 (6) Ha az igazságügyi alkalmazott bármely korábbi foglalkoztatási jogviszonyában jubileumi jutalomban részesült, az ugyanazon fokozat szerinti jubileumi jutalom ismételten nem illeti meg.

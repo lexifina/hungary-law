@@ -12,7 +12,7 @@ e)–f)
 
 g) tanulmányi ösztöndíj, képzési, továbbképzési és nyelvtanulási támogatás,
 
-h)
+h) cafetéria-juttatás,
 
 i) illetményelőleg.
 

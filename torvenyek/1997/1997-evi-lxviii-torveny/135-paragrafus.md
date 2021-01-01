@@ -35,3 +35,5 @@ af) a teljesítményértékelés részletes szabályait,
 ag) a nem szakirányú felsőfokú iskolai végzettséggel és a szakirányú felsőfokú szakképesítéssel is rendelkező igazságügyi alkalmazott III. fizetési osztályba történő besorolásának a részletes szabályait, valamint
 
 b) az egészségügyért felelős miniszterrel egyetértésben, rendeletben határozza meg a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét.
+
+(5) Felhatalmazást kap a miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak tekintetében rendeletben határozza meg a szociális és temetési segély, az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak közeli hozzátartozói esetében a temetési segély juttatásának részletes szabályait.

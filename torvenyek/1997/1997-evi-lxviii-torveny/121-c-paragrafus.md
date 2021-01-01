@@ -1,0 +1,1 @@
+121/C. § Az igazságügyi szerv költségvetésében biztosított előirányzatoktól függően a nyugalmazott igazságügyi alkalmazott részére szociális és temetési segély, az igazságügyi alkalmazott és a nyugalmazott igazságügyi alkalmazott közeli hozzátartozója részére temetési segély adható.
