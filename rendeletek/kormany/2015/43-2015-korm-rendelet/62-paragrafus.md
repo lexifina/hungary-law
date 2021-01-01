@@ -36,6 +36,7 @@ h) a befektetési egységekhez kötött (unit-linked) életbiztosítások tartal
 
 i) az egyéb biztosítástechnikai tartalékok,
 
-j) a nagykárok tartaléka.
+j)[^17]
 
 [^16]: A 62. § a 295/2015. (X. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^17]: A 62. § j) pontját a 295/2015. (X. 8.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
