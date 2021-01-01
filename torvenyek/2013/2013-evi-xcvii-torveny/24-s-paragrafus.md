@@ -1,9 +1,7 @@
-24/S. § (1) A 24/R. § (2) bekezdésében meghatározott célból kezelt, 24/R. § (1) bekezdésében meghatározott biometrikus adatokhoz ellenőrzési, felügyeleti feladataik gyakorlása és vizsgálatok lefolytatása céljából elektronikus úton hozzáférhet és az annak alapjául szolgáló iratokba betekinthet a KNBSZ főigazgatója és helyettesei, valamint a KNBSZ biometrikus adatok kezelésében részt vevő személyi állománya.
+24/S. § (1) A biometrikus nyilvántartásba a 24/R. § (2) bekezdése szerinti célok megvalósítása érdekében, a szövetségi és nemzetközi katonai vagy nemzetbiztonsági célú együttműködés keretében biometrikus adat, illetve természetes személyazonosító adat vehető át, illetve abból – ha fennállnak az adattovábbítás Infotv. vagy a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti feltételei – a KNBSZ főigazgatója engedélyével a 24/R. § (1) bekezdése szerinti nyílt és minősített adatok továbbíthatók
 
-(2) A minisztert, a Magyar Honvédség parancsnokát és helyetteseit a 24/R. § (1) bekezdésében meghatározott biometrikus adatok kezeléséről a KNBSZ főigazgatója tájékoztatja.
+a) olyan külföldi államnak vagy nemzetközi szervezetnek, amellyel Magyarország bűnügyi vagy védelmi együttműködési tárgyú nemzetközi szerződésen alapuló együttműködést folytat,
 
-(3) A 24/R. § (1) bekezdése szerinti adatok nemzetközi katonai vagy nemzetbiztonsági célú együttműködés keretében – ha fennállnak az adattovábbítás Infotv. szerinti feltételei – továbbíthatók
+b) Magyarország nemzetbiztonsági és bűnüldözési érdekeire figyelemmel a hatáskörrel rendelkező igazságszolgáltatási, rendőri és idegenrendészeti szerveknek, valamint a polgári nemzetbiztonsági szolgálatoknak.
 
-a) olyan külföldi államnak vagy nemzetközi szervezetnek, amellyel Magyarország minősített adatok védelme tárgyában nemzetközi szerződést kötött, és
-
-b) Magyarország nemzetbiztonsági és rendészeti érdekeire figyelemmel a hatáskörrel rendelkező rendőri és idegenrendészeti szerveknek és polgári nemzetbiztonsági szolgálatoknak.
+(2) A Honvédség kijelölt erői és a KNBSZ a 24/R. § (4) bekezdése szerinti érintettek adatait tartalmazó – az (1) bekezdés a) és b) pontjában meghatározott címzettek részére az (1) bekezdés szerint történő – adattovábbításokról – az adattovábbítás tényének, időpontjának, címzettjének és az adattovábbítással érintett személyes adatok körének rögzítésével – az utólagos módosítás lehetőségét kizáró elkülönült, automatizált adattovábbítási nyilvántartást (elektronikus napló) vezet. A nyilvántartásokból az egyes adattovábbításokra vonatkozó adatok az adattovábbítástól számított öt év elteltével törölhetők.

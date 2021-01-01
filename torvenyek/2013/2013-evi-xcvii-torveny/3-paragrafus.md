@@ -18,8 +18,8 @@ g) a Honvédség központi hadköteles nyilvántartásának vezetése,
 
 h) a Honvédség központi toborzó és érdekvédelmi nyilvántartásának vezetése,
 
-i) nyilvántartás vezetése a meghagyásba bevont szervekről és a meghagyásra kijelölt munkakörökről békeidőszakban is, valamint a hadkötelezettség fennállása idején a meghagyásban részesült hadkötelesekről,
+i) nyilvántartás vezetése a meghagyásba bevont szervekről és a meghagyásra kijelölt munkakörökről, valamint a meghagyásban részesült potenciális hadkötelesekről, kiképzett tartalékosokról és hadkötelesekről,
 
 j) a veszteség-nyilvántartás vezetése és a nemzetközi egyezmények szerinti tájékoztatás végrehajtása, és
 
-k) a honvédelmi szervezetek és a honvédelemért felelős miniszter közvetlen irányítása és fenntartói irányítása alá tartozó szervezetek személyi állománya részére szolgálati-, munkáltatói, kormánytisztviselői, közalkalmazotti-, honvédelmi alkalmazotti-, katonai nyugdíjas-, honvédségi nyugdíjas-, hatósági- és ellenőri-, katonai rendész, a belföldi katonai futár-, a hadkötelezettség bevezetését követően a katonai igazolványok kiadása, továbbá a katonák személyi igazoló jeggyel és az 1949. augusztus 12-én kötött Genfi Egyezmények hatálya alá tartozó személyazonossági igazolvánnyal történő ellátása.
+k) a honvédelmi szervezetek és a honvédségi szakképző intézmény személyi állománya részére szolgálati, munkáltatói, katonai nyugdíjas-, honvédségi nyugdíjas-, hatósági és ellenőri, katonai rendész, a belföldi katonai futár-igazolványok kiadása, a hadkötelezettség bevezetését követően a katonai igazolványok kiadása, továbbá a katonák személyi igazoló jeggyel és az 1949. augusztus 12-én kötött Genfi Egyezmények hatálya alá tartozó személyazonossági igazolvánnyal történő ellátása.

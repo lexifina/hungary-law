@@ -1,57 +1,149 @@
 9. melléklet a 2013. évi XCVII. törvényhez
 
-A meghagyásba bevont szerv adatszolgáltatásában megküldendő adatok
+A meghagyásba bevont szerv adatszolgáltatása alapján kezelhető adatok
 
-a) jogszabályban kijelölt szerv esetén a
+1. Jogszabályban kijelölt szerv esetén:
 
-aa) szervezet megnevezése,
+1.1. a szervezet megnevezése,
 
-ab) meghagyási kategória,
+1.2. a meghagyási kategória,
 
-ac) meghagyási alkategória,
+1.3. a meghagyási alkategória,
 
-ad) szervezet címe,
+1.4. a szervezet címe,
 
-ae) felelős (kapcsolattartó) személy:
+1.5. a szervezet székhelye,
 
-aea) neve,
+1.6. a felelős (kapcsolattartó) személy:
 
-aeb) telefonszáma,
+1.6.1. neve,
 
-aec) e-mail címe,
+1.6.2. telefonszáma,
 
-af) honvédelmi feladat ellátására kijelölő jogszabály,
+1.6.3. e-mail címe,
 
-ag) meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként,
+1.7. a központi hivatallá nyilvánítást tartalmazó jogszabály (központi hivatal esetén),
 
-aga) a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+1.8. a honvédelmi feladat ellátására kijelölő jogszabály (18. alkategória esetén),
 
-agb) a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörönként,
+1.9. a bírósági határozat száma a nyilvántartásba vételről (19. kategória esetén),
 
-b) egyedileg kijelölt egyéni vállalkozó esetén
+1.10. a meghagyásra kijelölt munkakörök, álláshelyek (a továbbiakban együtt: munkakör) és azok mennyisége munkakörönként:
 
-ba) a meghagyási kategória,
+1.10.1. a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
 
-bb) a kijelölő határozat száma,
+1.10.2. a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörökként.
 
-bc) az egyéni vállalkozó neve, címe, adószáma, telefonszáma, e-mail címe,
+2. A meghagyásra tervezett személyek adatai:
 
-bd) ha a felelős személy nem az egyéni vállalkozó, a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail címe,
+2.1. születési családi név,
 
-be) a meghagyásra kijelölt munkakörök.
+2.2. születési 1. utónév,
 
-c) egyedileg kijelölt szervezet esetén:
+2.3. születési 2. utónév,
 
-ca) a meghagyási kategória,
+2.4. házassági családi név,
 
-cb) a kijelölő határozat száma,
+2.5. házassági 1. utónév,
 
-cc) a szervezet megnevezése, székhelye, kijelölt telephelye vagy fióktelepe, adószáma,
+2.6. házassági 2. utónév,
 
-cd) a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail címe,
+2.7. anyja születési családi neve,
 
-ce) a meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként,
+2.8. anyja születési 1. utóneve,
 
-cea) a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+2.9. anyja születési 2. utóneve,
 
-ceb) a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörönként,
+2.10. születési idő,
+
+2.11. születési hely,
+
+2.12. munkakör.
+
+3. Egyedileg kijelölt egyéni vállalkozó esetén:
+
+3.1. a meghagyási kategória,
+
+3.2. a kijelölő határozat száma, kiállítója,
+
+3.3. az egyéni vállalkozó neve, címe, adószáma, telefonszáma, e-mail címe,
+
+3.4. ha a felelős személy nem az egyéni vállalkozó, a felelős (kapcsolattartó) személy neve,
+
+telefonszáma, e-mail címe.
+
+4. A meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként:
+
+4.1. a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+
+4.2. a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök
+
+mennyisége munkakörökként.
+
+5. A meghagyásra tervezett személyek adatai:
+
+5.1. születési családi név,
+
+5.2. születési 1. utónév,
+
+5.3. születési 2. utónév,
+
+5.4. házassági családi név,
+
+5.5. házassági 1. utónév,
+
+5.6. házassági 2. utónév,
+
+5.7. anyja születési családi neve,
+
+5.8. anyja születési 1. utóneve,
+
+5.9. anyja születési 2. utóneve,
+
+5.10. születési idő,
+
+5.11. születési hely,
+
+5.12. munkakör.
+
+6. Egyedileg kijelölt szervezet esetén:
+
+6.1. a meghagyási kategória,
+
+6.2. a kijelölő határozat száma, kiállítója,
+
+6.3. a szervezet megnevezése, székhelye, kijelölt telephelye vagy fióktelepe, adószáma,
+
+6.4. a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail címe,
+
+6.5. a meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként:
+
+6.5.1. a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+
+6.5.2. a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörökként,
+
+7. A meghagyásra tervezett személyek adatai:
+
+7.1. születési családi név,
+
+7.2. születési 1. utónév,
+
+7.3. születési 2. utónév,
+
+7.4. házassági családi név,
+
+7.5. házassági 1. utónév,
+
+7.6. házassági 2. utónév,
+
+7.7. anyja születési családi neve,
+
+7.8. anyja születési 1. utóneve,
+
+7.9. anyja születési 2. utóneve,
+
+7.10. születési idő,
+
+7.11. születési hely,
+
+7.12. munkakör.

@@ -20,7 +20,7 @@ bb) azon hadkötelesekről, akik hadkötelezettség alapján szolgálatot teljes
 
 bc) a honvédelmi alkalmazotti, közalkalmazotti állományba felvettekről, munkavállalói jogviszonyt létesítőkről, a honvédelmi alkalmazotti, közalkalmazotti, munkavállalói jogviszonnyal rendelkezőkről, valamint azokról, akiknek a jogviszonya, munkaviszonya megszűnt;
 
-c) a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség a hivatásos állományába felvettekről, az állományukban hivatásos szolgálatot teljesítőkről, valamint azokról, akiknek a szolgálati viszonya megszűnt a 4. melléklet a) pont aa)–ae) alpontjában, q) pont qa)–qf) alpontjában, valamint s) pontjában meghatározott adataikra vonatkozóan;
+c) a rendvédelmi szervek és az Országgyűlési Őrség a hivatásos állományába, a Nemzeti Adó- és Vámhivatal a pénzügyőri állományába felvettekről, az állományukban hivatásos szolgálatot teljesítőkről, illetve a Nemzeti Adó- és Vámhivatal a pénzügyőri státuszú foglalkoztatottairól, valamint azokról, akiknek a szolgálati viszonya megszűnt a 4. melléklet a) pont aa)–ae) alpontjában, q) pont qa)–qf) alpontjában, valamint s) pontjában meghatározott adataikra vonatkozóan;
 
 d) a rehabilitációs szakértői szerv a legalább 40%-ot elérő össz-szervezeti egészségkárosodásáról, annak érvényességi idejéről;
 

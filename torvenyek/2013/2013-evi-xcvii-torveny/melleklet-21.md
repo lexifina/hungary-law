@@ -1,87 +1,165 @@
 21. melléklet a 2013. évi XCVII. törvényhez
 
-A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántartásban kezelhető adatok:
+A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántartásban kezelhető adatok
 
-a) az igénylő adatai
+1. A 24/P. § (2) bekezdése alkalmazásában:
 
-aa) családi és utóneve;
+1.1. az igénylő adatai:
 
-ab) születési neve;
+1.1.1. családi és utóneve,
 
-ac) anyja születési neve;
+1.1.2. születési neve,
 
-ad) születési év, hónap, nap;
+1.1.3. anyja születési neve,
 
-ae) adóazonosító jele;
+1.1.4. születési hely, év, hónap, nap,
 
-af) állománycsoportja, rendfokozata;
+1.1.5. adóazonosító szám,
 
-ag) szolgálati, munkahelye;
+1.1.6. rendfokozata,
 
-ah) lakcíme;
+1.1.7. szolgálati, munkahelye,
 
-ai) személyazonosításra alkalmas igazolvány okmányazonosítója, érvényességi ideje;
+1.1.8. lakcíme, tartózkodási hely, e-mail cím, telefonszám,
 
-aj) családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai);
+1.1.9. személyazonosításra alkalmas igazolvány okmányazonosítója,
 
-b) az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai
+1.1.10. családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai),
 
-ba) családi és utóneve;
+1.2. az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai:
 
-bb) születési neve;
+1.2.1. családi és utóneve,
 
-bc) anyja születési neve;
+1.2.2. születési neve,
 
-bd) születési év, hónap, nap;
+1.2.3. anyja születési neve,
 
-be) adóazonosító jele;
+1.2.4. születési év, hónap, nap,
 
-bf) állománycsoportja, rendfokozata;
+1.2.5. adóazonosító szám,
 
-bg) szolgálati, munkahelye;
+1.2.6. rendfokozata,
 
-bh) lakcíme;
+1.2.7. szolgálati, munkahelye,
 
-bi) rokonsági foka;
+1.2.8. lakcíme,
 
-bj) személyazonosításra alkalmas igazolvány okmányazonosítója, érvényességi ideje;
+1.2.9. rokonsági foka,
 
-c) szolgálatteljesítésre vonatkozó adatok
+1.2.10. személyazonosításra alkalmas igazolvány okmányazonosítója,
 
-ca) honvédségi azonosító okmány száma, érvényességi ideje (különösen a honvédségi szolgálati igazolvány, a kormánytisztviselői igazolvány, a közalkalmazotti igazolvány, a katonai nyugdíjas igazolvány, az ideiglenes szolgálati igazolvány, valamint a hatósági és ellenőri igazolvány adatai);
+1.3. egészségi állapotra vonatkozó adatok:
 
-cb) betöltött beosztás megnevezése;
+1.3.1. az igénylő vagy családtagjának betegsége,
 
-cc) műveleti területről történő hazatérés időpontja;
+1.3.2. családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai).
 
-cd) műveleti területen teljesített szolgálat időtartama;
+2. A 24/P. § (3) bekezdése alkalmazásában:
 
-d) családtag, nem igényjogosult hozzátartozó minőség megállapításához, ellenőrzéséhez szükséges adatok;
+2.1. az igénylő adatai:
 
-da) családtagok, nem igényjogosult hozzátartozók adatai (különösen a születési anyakönyvi kivonat, nevelőszülői foglalkoztatási jogviszony létesítéséről szóló okirat, örökbefogadásról szóló okirat adatai);
+2.1.1. családi és utóneve,
 
-db) tanulói vagy hallgatói jogviszony igazolására szolgáló adatok (különösen iskolalátogatási igazolás, tanulói, hallgatói jogviszony igazolás, diákigazolvány adatai);
+2.1.2. születési neve,
 
-e) egészségi állapotra vonatkozó adatok
+2.1.3. anyja születési neve,
 
-ea) fertőző betegség;
+2.1.4. születési hely, év, hónap, nap,
 
-eb) igénylő vagy családtagjának betegsége, családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai);
+2.1.5. adóazonosító szám,
 
-ec) állandóan szedett gyógyszerek, gyógyszerérzékenység;
+2.1.6. rendfokozata,
 
-ed) mozgáskorlátozottság;
+2.1.7. szolgálati, munkahelye,
 
-ee) speciális étkezési igény (különösen cukorbetegségre, ételallergiára vonatkozó adatok);
+2.1.8. lakcíme, tartózkodási hely, e-mail cím, telefonszám,
 
-f) térítésidíj-kedvezmények megállapításához szükséges adatok
+2.1.9. családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai),
 
-fa) térítési kód;
+2.2. az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai:
 
-fb) tanulói vagy hallgatói jogviszony igazolására szolgáló adatok (különösen iskolalátogatási igazolás, tanulói, hallgatói jogviszony igazolás, diákigazolvány adatai);
+2.2.1. családi és utóneve;
 
-fc) gyermekek, eltartottak száma (különösen a születési anyakönyvi kivonat adatai);
+2.2.2. születési neve;
 
-g) lakókocsi, lakóautó, illetve tulajdonosának, üzemben tartójának azonosító adatai (különösen a forgalmi engedély adatai);
+2.2.3. anyja születési neve;
 
-h) honvédségi érdekvédelmi és civil szervezettel, illetve a honvédelem érdekében tevékenykedő, de honvédségi érdekvédelmi és civil szervezetnek nem minősülő civil szervezettel fennálló, vagy fennállt tagsági viszonyra, tisztségviselésre vonatkozó adatok.
+2.2.4. születési év, hónap, nap;
+
+2.2.5. adóazonosító jele;
+
+2.2.6. rendfokozata;
+
+2.2.7. szolgálati-, munkahelye;
+
+2.2.8. lakcíme;
+
+2.2.9. rokonsági foka;
+
+2.3. egészségi állapotra vonatkozó adatok:
+
+2.3.1. igénylő vagy családtagjának betegsége,
+
+2.3.2. családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai).
+
+3. A 24/P. § (4) bekezdése alkalmazásában:
+
+3.1. az igénylő adatai:
+
+3.1.1. családi és utóneve,
+
+3.1.2. születési neve,
+
+3.1.3. anyja születési neve,
+
+3.1.4. születési hely, év, hónap, nap,
+
+3.1.5. adóazonosító jele,
+
+3.1.6. rendfokozata,
+
+3.1.7. szolgálati-, munkahelye,
+
+3.1.8. lakcíme, tartózkodási hely, e-mail cím, telefonszám,
+
+3.1.9. személyazonosításra alkalmas igazolvány okmányazonosítója,
+
+3.1.10. családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai),
+
+3.2. az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai:
+
+3.2.1. családi és utóneve,
+
+3.2.2. születési neve,
+
+3.2.3. anyja születési neve,
+
+3.2.4. születési év, hónap, nap,
+
+3.2.5. adóazonosító jele,
+
+3.2.6. rendfokozata,
+
+3.2.7. szolgálati-, munkahelye,
+
+3.2.8. lakcíme,
+
+3.2.9. rokonsági foka,
+
+3.2.10. személyazonosításra alkalmas igazolvány okmányazonosítója,
+
+3.3. egészségi állapotra vonatkozó adatok:
+
+3.3.1. igénylő vagy családtagjának betegsége,
+
+3.3.2. családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai),
+
+3.3.3. mozgáskorlátozottság,
+
+3.3.4. speciális étkezési igény (különösen cukorbetegségre, ételallergiára vonatkozó adatok),
+
+3.4. térítésidíj-kedvezmények megállapításához szükséges adatok:
+
+3.4.1. térítési kód,
+
+3.5. lakókocsi, lakóautó, illetve tulajdonosának, üzemben tartójának azonosító adatai (különösen a forgalmi engedély adatai).

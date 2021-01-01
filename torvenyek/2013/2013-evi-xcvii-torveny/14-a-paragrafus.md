@@ -9,3 +9,5 @@ a) a fegyelmi eljárás a szolgálati viszonyt vagy rendfokozatot érintő szank
 b) a fegyelmi eljárásban elbírálható katonai vétség esetén pénzbüntetés kerül kiszabásra, úgy a fegyelmi nyilvántartásban szereplő adatok a szolgálati viszony megszűnése vagy megszüntetése esetén a pénzbüntetés megfizetéséig
 
 kezelhetők.
+
+(4) A fegyelmi nyilvántartásból a katonai rendészeti intézkedés nyomán kiszabott fenyítésre vonatkozó adatot a katonai rendészeti intézkedések fegyelmi helyzetre gyakorolt hatásának nyomon követése céljából az adatot kezelő honvédelmi szervezet továbbítja a katonai rendészeti feladatokat ellátó honvédségi szervezet részére.

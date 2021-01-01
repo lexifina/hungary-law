@@ -40,7 +40,7 @@ f) a szolgálat tervezését és teljesítését befolyásoló adatai:
 
 fa) katonai szolgálatra való alkalmasságát érintő betegsége,
 
-fb) megállapított katonai szolgálatra való alkalmassági minősítése, fokozata, típusa, korlátozások, megállapítás dátuma, megállapításának, felülvizsgálatának dátuma,
+fb) megállapított katonai szolgálatra való alkalmassági minősítése, fokozata, típusa, korlátozások, megállapítás dátuma, megállapító, megállapításának, felülvizsgálatának dátuma.
 
 fc) szomatometriai adatai,
 
@@ -76,7 +76,11 @@ fla) a fegyver nélküli katonai szolgálatteljesítésre vonatkozó kérelem be
 
 flb) a kérelemmel kapcsolatos döntés (engedélyezés, elutasítás),
 
-flc) a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálat és gyógykezelés ténye, meghatározott időpontja, időtartama,
+flc)
+
+fm) a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálat és gyógykezelés ténye, meghatározott időpontja, időtartama,
+
+fn) katonai szolgálat teljesítésének törvény alapján történő önként vállalása,
 
 g) össz-szervezeti egészségkárosodás mértéke, megállapításának és felülvizsgálatának dátuma,
 
@@ -131,3 +135,5 @@ v) országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőj
 w) vércsoportja és Rh-faktora,
 
 x) gondnokság alá helyezett személy gondnokává hatóság által történő kijelölés, annak időpontja, valamint a gondnokság megszűnése és időpontja.
+
+y) személyazonosító igazolvány okmányazonosítója, érvényességi ideje, útlevél száma, érvényességi ideje.
