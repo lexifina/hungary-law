@@ -1,6 +1,6 @@
-12. § (1)[^83] A pályázó a pályázat eredményének a közléséig köteles titokban tartani pályázata tartalmát.
+12. § (1)[^85] A pályázó a pályázat eredményének a közléséig köteles titokban tartani pályázata tartalmát.
 
-(2)[^84] A pályázó és az NFK mint kiíró köteles továbbá a pályázati eljárás befejezését követően is bizalmasan kezelni az NFK által a pályázó rendelkezésére bocsátott és közérdekű adatnak, vagy közérdekből nyilvános adatnak nem minősülő adatot, tényt, információt, azokról harmadik személynek tájékoztatást nem adhat. Ez a tilalom nem zárja ki a finanszírozó bankokkal, valamint a pályázat elkészítéséhez a pályázó által igénybe vett, felhatalmazással rendelkező szakértővel való adatközlést, az e §-ban foglalt titoktartási kötelezettség azonban e személyekre is kiterjed.
+(2)[^86] A pályázó és az NFK mint kiíró köteles továbbá a pályázati eljárás befejezését követően is bizalmasan kezelni az NFK által a pályázó rendelkezésére bocsátott és közérdekű adatnak, vagy közérdekből nyilvános adatnak nem minősülő adatot, tényt, információt, azokról harmadik személynek tájékoztatást nem adhat. Ez a tilalom nem zárja ki a finanszírozó bankokkal, valamint a pályázat elkészítéséhez a pályázó által igénybe vett, felhatalmazással rendelkező szakértővel való adatközlést, az e §-ban foglalt titoktartási kötelezettség azonban e személyekre is kiterjed.
 
-[^83]: A 12. § (1) bekezdése a 11/2011. (II. 22.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^84]: A 12. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 17. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^85]: A 12. § (1) bekezdése a 11/2011. (II. 22.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^86]: A 12. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 17. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

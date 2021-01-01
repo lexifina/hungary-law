@@ -2,14 +2,14 @@
 
 ## A regisztrációs díj és a pályázati biztosíték
 
-9. § (1)[^63] Az NFK pályázati felhívásonként pályázati regisztrációs díjat állapíthat meg, melynek összege nem lehet kevesebb 2000 forintnál.
+9. § (1)[^65] Az NFK pályázati felhívásonként pályázati regisztrációs díjat állapíthat meg, melynek összege nem lehet kevesebb 2000 forintnál.
 
-(2)[^64] A pályázaton való részvételért pályázati biztosítékot (e fejezetben a továbbiakban: biztosíték) kell fizetni. A biztosíték összege a pályázati felhívásban közölt haszonbérleti díj éves összegének, illetve minimális vételár összegének – ezer forintra kerekített – tíz százaléka, amelytől az NFK a pályázati felhívásban eltérhet azzal, hogy a biztosíték összege nem lehet kevesebb 10 000 forintnál.
+(2)[^66] A pályázaton való részvételért pályázati biztosítékot (e fejezetben a továbbiakban: biztosíték) kell fizetni. A biztosíték összege a pályázati felhívásban közölt haszonbérleti díj éves összegének, illetve minimális vételár összegének – ezer forintra kerekített – tíz százaléka, amelytől az NFK a pályázati felhívásban eltérhet azzal, hogy a biztosíték összege nem lehet kevesebb 10 000 forintnál.
 
-(3)[^65] A regisztrációs díjat és a biztosítékot a pályázati felhívásban, illetőleg a kiírásban meghatározott időpontig kell az NFK rendelkezésére bocsátani.
+(3)[^67] A regisztrációs díjat és a biztosítékot a pályázati felhívásban, illetőleg a kiírásban meghatározott időpontig kell az NFK rendelkezésére bocsátani.
 
 (4) A nyertes pályázó által befizetett biztosíték az ellenszolgáltatásba beszámít vagy a szerződést biztosító mellékkötelezettséggé fordul át.
 
-[^63]: A 9. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^64]: A 9. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 14. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^65]: A 9. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^65]: A 9. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^66]: A 9. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 14. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^67]: A 9. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

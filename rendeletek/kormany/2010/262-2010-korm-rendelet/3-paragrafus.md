@@ -14,6 +14,8 @@
 
 (8)[^18] A Balaton Fejlesztési Tanács (a továbbiakban: BFT) előzetes egyetértése szükséges a Balaton Kiemelt Üdülőkörzet területén a Nemzeti Földalapba tartozó földrészlet önkormányzat számára bármely jogcímen történő tulajdonátruházásához és vagyonkezelésbe adásához. A BFT állásfoglalását az NFK megkeresésétől számított 15 napon belül adja meg, e határidő elmulasztása esetén egyetértése megadottnak tekintendő.
 
+(9)[^19] Nincs szükség az e §-ban foglalt személy vagy szervezet előzetes egyetértésére, ha a tulajdonjog átruházására a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 12. és 16. §-ában szabályozott bekebelezés útján kerül sor.
+
 [^11]: A 3. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 7. §-ával megállapított, a 153/2013. (V. 24.) Korm. rendelet 19. § a) pontja, a 159/2019. (VI. 28.) Korm. rendelet 38. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
 [^12]: A 3. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 7. §-a, a 153/2013. (V. 24.) Korm. rendelet 19. § b) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
 [^13]: A 3. § (3) bekezdése a 153/2013. (V. 24.) Korm. rendelet 19. § c) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
@@ -22,3 +24,4 @@
 [^16]: A 3. § (6) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^17]: A 3. § (7) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^18]: A 3. § (8) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^19]: A 3. § (9) bekezdését a 647/2020. (XII. 23.) Korm. rendelet 40. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 25. §[^132]
+## 25. §[^134]
 
-[^132]: A 25. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § q) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^134]: A 25. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § q) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.

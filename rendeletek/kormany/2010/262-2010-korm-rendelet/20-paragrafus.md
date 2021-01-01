@@ -4,9 +4,9 @@ a) a pályázat elbírálásakor a 24. §-ban foglalt összeférhetetlenségi sz
 
 b) valamelyik pályázó az eljárás tisztaságát sértő cselekményt követett el,
 
-c)[^114] a pályázati felhívás, illetve a pályázati kiírás nem felel meg a 7. § (1)–(4) bekezdésében, valamint a 7/A. és 7/B. §-ban foglaltaknak.
+c)[^116] a pályázati felhívás, illetve a pályázati kiírás nem felel meg a 7. § (1)–(4) bekezdésében, valamint a 7/A. és 7/B. §-ban foglaltaknak.
 
-(2)[^115] Az érvénytelenséget az NFK elnöke állapítja meg.
+(2)[^117] Az érvénytelenséget az NFK elnöke állapítja meg.
 
-[^114]: A 20. § (1) bekezdés c) pontját a 153/2013. (V. 24.) Korm. rendelet 8. §-a iktatta be, szövege a 159/2019. (VI. 28.) Korm. rendelet 37. § l) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
-[^115]: A 20. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^116]: A 20. § (1) bekezdés c) pontját a 153/2013. (V. 24.) Korm. rendelet 8. §-a iktatta be, szövege a 159/2019. (VI. 28.) Korm. rendelet 37. § l) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^117]: A 20. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

@@ -1,6 +1,6 @@
-## 28. §[^137]
+## 28. §[^139]
 
-## III/A. Fejezet[^138]
+## III/A. Fejezet[^140]
 
 ## HALASTÓ ELADÁSÁRA VAGY HASZONBÉRBE ADÁSÁRA IRÁNYULÓ PÁLYÁZTATÁS KÜLÖNÖS SZABÁLYAI
 
@@ -8,17 +8,17 @@
 
 28/A. § (1) Az állami tulajdonban lévő halastó haszonbérbeadásának elsődleges célja azok olyan módon történő hasznosítása, amely hosszú távon biztosítja az állami tulajdonú halastavak állagmegőrzését, javítja a gazdálkodás feltételeit és a haszonbérleti díjakból állami bevételt biztosít.
 
-(1a)[^139] Halastó eladására vagy haszonbérbe adására irányuló pályázati felhívás közzétételét megelőzően a vízügyi igazgatási szervek irányításáért felelős minisztert minden esetben meg kell keresni.
+(1a)[^141] Halastó eladására vagy haszonbérbe adására irányuló pályázati felhívás közzétételét megelőzően a vízügyi igazgatási szervek irányításáért felelős minisztert minden esetben meg kell keresni.
 
-(1b)[^140] Halastó eladására vagy haszonbérbe adására irányuló pályáztatás során együtt kell meghirdetni a halastóhoz kapcsolódó, azzal egy műszaki egységet képező állami tulajdonú területeket is. Haszonbérleti pályáztatás esetén ezek a területek egy birtoktestet képeznek, értékesítési pályáztatás esetén pedig meghirdetésükre dologösszességként kerül sor.
+(1b)[^142] Halastó eladására vagy haszonbérbe adására irányuló pályáztatás során együtt kell meghirdetni a halastóhoz kapcsolódó, azzal egy műszaki egységet képező állami tulajdonú területeket is. Haszonbérleti pályáztatás esetén ezek a területek egy birtoktestet képeznek, értékesítési pályáztatás esetén pedig meghirdetésükre dologösszességként kerül sor.
 
 (2) Ha a haszonbérleti szerződés tárgyát képező, halastavat tartalmazó földrészlet (a továbbiakban: halastavat tartalmazó földrészlet) vízvédelmi területnek minősül, a földrészlet haszonbérbe adása során a 37. § rendelkezését kell alkalmazni és a szerződés megkötését megelőzően a vízügyi igazgatóság előzetes véleményét be kell szerezni. A vízügyi igazgatóság vagyonkezelésében levő és belvíztározásra kijelölt, egyéb kezelésű halastóként nyilvántartott területen a vagyonkezelővel történő előzetes egyeztetés mellett a vízgazdálkodásról szóló 1995. évi LVII. törvény VII. fejezetében foglaltakat kell alkalmazni.
 
 (3) Halastó hasznosítása esetén a 16. § szerinti bizottságba külső szakértőként az Országos Halgazdálkodási Tanács, a (2) bekezdés szerinti esetben a vagyonkezelő legalább egy képviselőjét is meg kell hívni.
 
-(4)[^141] A halastavat tartalmazó földrészlet bérleti díjának megállapításakor az NFK figyelembe veszi a halastó építésének idejét és műszaki állapotát, a meglévő infrastruktúrát, a vízellátás módját, a halastó meglévő információk szerint elvárható hozamát, megközelíthetőségét, valamint a termelést hátrányosan befolyásoló egyéb tényezőket. Ezek a tényezők az alap haszonbérleti díjat legfeljebb 75%-kal csökkenthetik.
+(4)[^143] A halastavat tartalmazó földrészlet bérleti díjának megállapításakor az NFK figyelembe veszi a halastó építésének idejét és műszaki állapotát, a meglévő infrastruktúrát, a vízellátás módját, a halastó meglévő információk szerint elvárható hozamát, megközelíthetőségét, valamint a termelést hátrányosan befolyásoló egyéb tényezőket. Ezek a tényezők az alap haszonbérleti díjat legfeljebb 75%-kal csökkenthetik.
 
-(5)[^142] Az NFK az éves haszonbérleti díj 36. § (1) bekezdése szerinti felülvizsgálata során a haszonbérleti díjat csökkentő tényezőként veszi figyelembe a haszonbérbe adott, állami tulajdonú, halastavat tartalmazó földrészleten megvalósított, annak műszaki állapotát és piaci értékét növelő, bizonylatokkal igazolt beruházásokat, ideértve az európai uniós vagy nemzeti pályázati forrásból megvalósult fejlesztések önrészét is. Ebben az esetben az alap haszonbérleti díj 50%-nál nagyobb mértékben is csökkenthető.
+(5)[^144] Az NFK az éves haszonbérleti díj 36. § (1) bekezdése szerinti felülvizsgálata során a haszonbérleti díjat csökkentő tényezőként veszi figyelembe a haszonbérbe adott, állami tulajdonú, halastavat tartalmazó földrészleten megvalósított, annak műszaki állapotát és piaci értékét növelő, bizonylatokkal igazolt beruházásokat, ideértve az európai uniós vagy nemzeti pályázati forrásból megvalósult fejlesztések önrészét is. Ebben az esetben az alap haszonbérleti díj 50%-nál nagyobb mértékben is csökkenthető.
 
 (6) A (4) bekezdés alkalmazása esetén a szerződés megszűnésekor a haszonbérlő nem követelheti a haszonbérleti jog időtartama alatt létesített beruházások megállapítható tényleges értékének megtérítését.
 
@@ -30,12 +30,12 @@
 
 (10) Halastavat tartalmazó földrészlet esetében a haszonbérleti szerződésben ki kell kötni, hogy a haszonbérlet időtartama alatt a bérelt földrészleten található halastó kultúrállapota és műszaki állapota nem romolhat.
 
-(11)[^143] Az e §-ban foglalt rendelkezéseket megfelelően alkalmazni kell a halastónak minősülő földrészlet nyilvános pályáztatás mellőzésével történő haszonbérbe adása vagy értékesítése során is.
+(11)[^145] Az e §-ban foglalt rendelkezéseket megfelelően alkalmazni kell a halastónak minősülő földrészlet nyilvános pályáztatás mellőzésével történő haszonbérbe adása vagy értékesítése során is.
 
-[^137]: A 28. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § s) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^138]: A III/A. fejezetet (28/A. §) a 29/2016. (II. 25.) Korm. rendelet 2. §-a iktatta be.
-[^139]: A 28/A. § (1a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^140]: A 28/A. § (1b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^141]: A 28/A. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) és m) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^142]: A 28/A. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^143]: A 28/A. § (11) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^139]: A 28. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § s) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^140]: A III/A. fejezetet (28/A. §) a 29/2016. (II. 25.) Korm. rendelet 2. §-a iktatta be.
+[^141]: A 28/A. § (1a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^142]: A 28/A. § (1b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^143]: A 28/A. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) és m) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^144]: A 28/A. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^145]: A 28/A. § (11) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
