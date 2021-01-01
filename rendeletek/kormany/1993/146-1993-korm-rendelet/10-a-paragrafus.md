@@ -24,6 +24,9 @@ k) átvezeti a nyilvántartáson az adatváltozásokat és adatjavításokat a s
 
 l)[^42] az Nytv. 4. § (2e) bekezdése szerinti magyar állampolgárt Magyarországon élő magyar állampolgárként a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal nyilvántartásba veszi.
 
+m)[^43] az eljáró idegenrendészeti szerv értesítése alapján átvezeti a nyilvántartásban a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett letelepedett jogállásának tényét.
+
 [^40]: Az R. 10/A. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^41]: Az R. 10/A. § a) pontja a 28/2020. (II. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^42]: Az R. 10/A. § l) pontját a 176/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^43]: Az R. 10/A. § m) pontját a 668/2020. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.

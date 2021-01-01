@@ -1,4 +1,4 @@
-40. §[^261] (1) A bejelentő akkor teljesítheti elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentést, ha
+40. §[^262] (1) A bejelentő akkor teljesítheti elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentést, ha
 
 a) a lakás kizárólagos tulajdonosa vagy annak egyedüli haszonélvezője,
 
@@ -48,4 +48,4 @@ h) a 36. § (4) bekezdése szerinti lakóhely nem jelenthető be.
 
 (10) Az elektronikus lakcímbejelentést tárolni és az Nytv. általános szabályai szerinti ideig őrizni kell, valamint a bejelentésről az Nytv. általános szabályai szerint teljesíthető adatszolgáltatás.
 
-[^261]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 317/2020. (VII. 1.) Korm. rendelet 2. § (5) bekezedése iktatta be.
+[^262]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 317/2020. (VII. 1.) Korm. rendelet 2. § (5) bekezedése iktatta be.
