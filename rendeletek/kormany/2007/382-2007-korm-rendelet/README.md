@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2020-01-01 | 2007-382-20-22.41 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2007-382-20-22.42 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-05-15 | 2007-382-20-22.43 | 190/2020. (V. 7.) Korm. rendelet |
+| 2021-01-01 | 2007-382-20-22.44 | 360/2019. (XII. 30.) Korm. rendelet |
