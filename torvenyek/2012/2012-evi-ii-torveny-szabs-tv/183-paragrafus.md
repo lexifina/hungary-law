@@ -2,9 +2,9 @@
 
 183. § (1) Aki
 
-a) a lőfegyver vagy lőszer gyártására, tartására, kereskedelmére, javítására vagy használatára és szállítására vonatkozó szabályokat megszegi,
+a) a tűzfegyver kategóriájának, illetve alkategóriájának a megváltozását eredményező átalakításra, a lőfegyver bejelentésére, a lőfegyver vagy a lőszer gyártására, tartására, kereskedelmére, javítására, használatára vagy szállítására, illetve a lőfegyver, lőfegyverdarab megsemmisítésére vonatkozó szabályokat megszegi,
 
-b) lőfegyverdarabot vagy lőszerelemet engedély nélkül készít, megszerez, tart vagy forgalomba hoz,
+b) lőfegyverdarabot vagy lőszerelemet engedély nélkül készít, megszerez, tart vagy forgalomba hoz, illetve központi gyújtású félautomata tűzfegyverhez való, 20 lőszert meghaladó befogadóképességű töltőszerkezetet vagy hosszú tűzfegyverhez való, 10 lőszert meghaladó befogadóképességű töltőszerkezetet engedély nélkül megszerez,
 
 szabálysértést követ el.
 
@@ -18,7 +18,7 @@ szabálysértést követ el.
 
 (2) Aki
 
-a) a légfegyver, a gáz- és riasztófegyver, a muzeális fegyver, a színházi fegyver, a festéklövő fegyver, illetve a hatástalanított lőfegyver, a flóberttöltény, a gáztöltény, a riasztótöltény, illetve a vaktöltény gyártására, forgalmazására, javítására, megszerzésére, birtoklására, viselésére, tartására vagy használatára vonatkozó szabályokat megszegi,
+a) a légfegyver, a gáz- és riasztófegyver, a muzeális fegyver, a festéklövő fegyver, a hatástalanított lőfegyver, a flóberttöltény, a gáztöltény, a riasztótöltény, illetve a vaktöltény gyártására, forgalmazására, javítására, megszerzésére, birtoklására, viselésére, tartására vagy használatára, illetve a hatástalanított tűzfegyver behozatalára vagy kivitelére vonatkozó szabályokat megszegi,
 
 b) a lőtér üzemeltetésére vonatkozó rendelkezéseket megszegi,
 

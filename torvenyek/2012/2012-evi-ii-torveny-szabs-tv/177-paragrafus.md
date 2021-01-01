@@ -2,13 +2,15 @@
 
 177. § (1) Aki
 
-a) ötvenezer forintot meg nem haladó értékre lopást, sikkasztást, jogtalan elsajátítást, orgazdaságot,
+a) ötvenezer forintot meg nem haladó értékre lopást, sikkasztást, jogtalan elsajátítást,
 
 b) ötvenezer forintot meg nem haladó kárt okozva csalást, szándékos rongálást,
 
 c) ötvenezer forintot meg nem haladó vagyoni hátrányt okozva hűtlen kezelést
 
 követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabálysértést követ el.
+
+(1a) Aki lopásból, sikkasztásból, csalásból, hűtlen kezelésből, rablásból, kifosztásból, zsarolásból vagy jogtalan elsajátításból származó dolgot vagyoni haszonszerzés végett ötvenezer forintot meg nem haladó értékben megszerez, elrejt vagy elidegenítésében közreműködik, szabálysértést követ el.
 
 (2) Aki idegen, nem gépi meghajtású járművet mástól azért vesz el, hogy jogtalanul használja, szabálysértést követ el.
 
@@ -20,4 +22,4 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (5) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt szabálysértési eljárásnak csak magánindítványra van helye, ha a sértett az elkövető hozzátartozója.
 
-(6) Az elkövetési érték, kár, illetve okozott vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdés a)–c) pontjában meghatározott ugyanolyan cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el. Nincs helye érték-egybefoglalásnak, ha az üzletszerű elkövetés megállapítható.
+(6) Az elkövetési érték, kár, illetve okozott vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdés a)–c) pontjában, valamint az (1a) bekezdésben meghatározott ugyanolyan cselekményt több alkalommal, legfeljebb egy éven belül követte el, és ezeket együttesen bírálják el. Nincs helye érték-egybefoglalásnak, ha az üzletszerű elkövetés megállapítható.

@@ -12,7 +12,7 @@ szabálysértést követ el.
 
 (2) Aki nyilvános rendezvényen
 
-a) lőfegyvert vagy robbanóanyagot, illetve az élet kioltására vagy testi sértés okozására alkalmas eszközt tartva magánál jelenik meg,
+a) működőképes lőfegyvert vagy robbanóanyagot, illetve az élet kioltására vagy testi sértés okozására alkalmas eszközt tartva magánál jelenik meg,
 
 b) a rendező szerv, illetve a rendőrség biztonságra vonatkozó felhívásának, rendelkezésének nem tesz eleget,
 

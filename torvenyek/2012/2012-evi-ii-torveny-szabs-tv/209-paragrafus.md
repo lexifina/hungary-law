@@ -4,7 +4,7 @@
 
 ## 163. Vámszabálysértés
 
-209. § (1) Aki nem uniós árut a vámellenőrzés alól elvon, vagy a vámtartozás, az egyéb terhek, illetve a biztosíték megállapítása vagy beszedése szempontjából lényeges körülmények tekintetében valótlan nyilatkozatot tesz, feltéve, hogy a vagyoni hátrány a százezer forintot nem haladja meg, úgyszintén, aki e cselekmények bármelyikét megkísérli, szabálysértést követ el.
+209. § (1) Aki nem uniós árut a vámellenőrzés alól elvon, vagy a vámtartozás, az egyéb terhek, illetve a biztosíték megállapítása vagy beszedése szempontjából lényeges körülmények tekintetében valótlan nyilatkozatot tesz, feltéve, hogy a vagyoni hátrány az ötszázezer forintot nem haladja meg, úgyszintén, aki e cselekmények bármelyikét megkísérli, szabálysértést követ el.
 
 (2) Aki az (1) bekezdésben meghatározott cselekményt a vagyoni hátrány mértékére tekintet nélkül gondatlanul követi el, szabálysértést követ el.
 

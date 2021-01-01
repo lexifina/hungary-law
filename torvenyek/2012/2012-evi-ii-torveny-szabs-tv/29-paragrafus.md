@@ -24,7 +24,7 @@ i) a magánindítványra,
 
 j) a folytatólagosság fogalmára, valamint
 
-k) a Büntető Törvénykönyvről szóló törvény (a továbbiakban: Btk.) 370. § szerinti Lopás, Btk. 371. § szerinti Rongálás, Btk. 372. § szerinti Sikkasztás, Btk. 373. § szerinti Csalás, Btk. 376. § szerinti Hűtlen kezelés, Btk. 378. § szerinti Jogtalan elsajátítás és a Btk. 379. § szerinti Orgazdaság tényállásoknak megfelelő szabálysértési tényállásokra
+k) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 370. § szerinti lopás, a Btk. 371. § szerinti rongálás, a Btk. 372. § szerinti sikkasztás, a Btk. 373. § szerinti csalás, a Btk. 376. § szerinti hűtlen kezelés és a Btk. 378. § szerinti jogtalan elsajátítás tényállásoknak megfelelő szabálysértési tényállásokra
 
 a Btk. által – az a)–d) és h)–j) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a k) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
 

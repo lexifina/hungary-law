@@ -12,7 +12,7 @@ d) szabálysértés, vagy
 
 e) közigazgatási hatósági eljárás hatálya alá tartozó szabályszegés
 
-helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának helyszín biztosítására vonatkozó jogszerű intézkedésének, illetve a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű utasításának nem tesz eleget, szabálysértést követ el.
+helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjának helyszín biztosítására vonatkozó jogszerű intézkedésének, illetve a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű utasításának nem tesz eleget, szabálysértést követ el.
 
 (2) Aki a Rendőrségről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási intézkedés helyszínén a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű rendőri utasításának nem tesz eleget, szabálysértést követ el.
 
