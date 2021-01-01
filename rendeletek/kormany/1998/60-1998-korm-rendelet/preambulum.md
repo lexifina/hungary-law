@@ -1,1 +1,0 @@
-A Kormány a sajtóról szóló, többször módosított 1986. évi II. törvény 16. §-ának (3) bekezdésében, valamint az 1997. évi CXL. törvény 100. §-a (1) bekezdésének k) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
