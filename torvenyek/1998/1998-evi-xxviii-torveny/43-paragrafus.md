@@ -2,7 +2,7 @@
 
 (2) Az állatvédelmi bírságot az állatvédelmi hatóság szabja ki.
 
-(3) Az állatvédelmi bírság kiszabására az állatvédelmi hatóságnak az (1) bekezdésben meghatározott magatartásról történt tudomásszerzését követő egy éven túl nincs lehetősége. Az elkövetéstől számított öt éven túl nem szabható ki bírság, kivéve, ha a magatartás jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll.
+(3)
 
 (4) A bírság megfizetése nem mentesít más jogkövetkezmények alól.
 
