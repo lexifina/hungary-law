@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-495-20-
 | 2020-11-12 | 2020-495-20-22.1 | 495/2020. (XI. 11.) Korm. rendelet |
 | 2020-11-13 | 2020-495-20-22.2 | 2010: CXXX. törvény |
 | 2020-12-18 | 2020-495-20-22.3 | 594/2020. (XII. 17.) Korm. rendelet |
+| 2021-01-01 | 2020-495-20-22.4 | 728/2020. (XII. 31.) Korm. rendelet |
