@@ -1,0 +1,11 @@
+9. § (1) A tulajdonostársak az egyezség keretében kötelesek rendelkezni a megosztásra kerülő ingatlant érintő jogoknak és tényeknek a megosztás eredményeként létrejövő új ingatlanokra történő átjegyzéséről, valamint a tulajdonostársak valamelyikének tulajdonában álló, a földtől elválaszthatatlan vagyontárgyak tulajdonba adásáról és értékének megtérítéséről vagy további használatuk feltételeinek a meghatározásáról.
+
+(2) Az (1) bekezdésben foglaltak teljesítéséhez a tulajdonostársak adatszolgáltatás keretében kérhetik az ingatlanügyi hatóságtól a megosztandó ingatlan tulajdoni lapján szereplő jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzok kiadását. Az ingatlanügyi hatóság az adatszolgáltatásnak a megkereséstől számított 15 napon belül köteles eleget tenni.
+
+(3) A jogok és tények tervezett átjegyzését a térképvázlaton és a területkimutatáson fel kell tüntetni és azt jóváhagyás céljából meg kell küldeni valamennyi bejegyzett jog vagy tény jogosultja számára.
+
+(4) Ha a bejegyzett jog vagy tény valamely hatóság döntésén alapul vagy jogszabály alapján valamely hatóság megkeresése alapján került az ingatlan-nyilvántartásban feltüntetésre, a térképvázlatot és területkimutatást jóváhagyás céljából e törvény végrehajtására kiadott rendeletben meghatározottak szerint meg kell küldeni az érintett hatóság számára.
+
+(5) A (3) bekezdés szerinti jogosult, illetve a (4) bekezdés szerinti hatóság az állásfoglalását a megkereséstől számított 15 napon belül köteles megadni. Ha a jogosult, illetve a hatóság a térképvázlatban és területkimutatásban foglaltakkal nem ért egyet, úgy köteles azt megindokolni, valamint egyidejűleg köteles a tulajdonosok számára adatot szolgáltatni a térképvázlat és területkimutatás megfelelő elkészítéséhez.
+
+(6) Az (5) bekezdésben foglalt határidő elmulasztása, illetve az adatszolgáltatási kötelezettség nemteljesítése esetén a jogosult, illetve a hatóság hozzájárulását a megküldött térképvázlat és területkimutatás szerinti megosztáshoz, illetve a 10. § (2) bekezdése szerinti szolgalmi jog létesítéséhez megadottnak kell tekinteni.

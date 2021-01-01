@@ -1,0 +1,3 @@
+8. § (1) Az osztóprogram az osztatlan közös tulajdon megszüntetése eredményeképpen kialakítandó új ingatlanok adatainak meghatározásakor a megosztás alapjául szolgáló ingatlannak a térképvázlat elkészítésekor hatályos ingatlan-nyilvántartási adatait veszi alapul. Ettől – a 10. § (1) bekezdésében szereplő út kialakítása kivételével – a felek nem térhetnek el.
+
+(2) Az osztatlan közös tulajdon megszüntetése nem terjed ki az ingatlan és annak alrészletei határvonalának természetbeni felmérésére, valamint a földrészlet természetbeni állapotának az ingatlan-nyilvántartásban szereplő adatokkal való összehasonlítására. A felmérési, térképezési és területszámítási hibából, valamint a művelési ág tényállapotoktól történő eltéréséből eredő következményeket a tulajdonosok viselik.

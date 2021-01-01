@@ -1,0 +1,3 @@
+7. § (1) Az egyezség keretében a tulajdonostársak a megosztás alapjául szolgáló ingatlanban fennálló tulajdoni hányadoktól eltérő megosztásban is megállapodhatnak. Ebben az esetben a tulajdonjog változás jogcíme közös tulajdon megszüntetése.
+
+(2) Ha ugyanazon tulajdonostársak több – azonos település, vagy ugyanazon járáshoz tartozó és egymással szomszédos települések közigazgatási területéhez tartozó – ingatlan megosztásában érintettek, az egyezségben megállapodhatnak az egyes tulajdonostársak több ingatlanban fennálló tulajdoni hányadainak egy ingatlanként történő kijelölésében is. Ebben az esetben az egyezségben foglaltaknak nem kell megfelelnie a Földforgalmi törvény cserére vonatkozó rendelkezéseinek.

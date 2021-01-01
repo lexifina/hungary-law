@@ -1,0 +1,3 @@
+33. § A Díjtv. a következő 31/B. §-sal egészül ki:
+
+„31/B. § Tárgyánál fogva díjmentes a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott osztatlan közös tulajdon megszüntetésére irányuló eljáráshoz közvetlenül elektronikusan szerkeszthető formában szolgáltatott, a változással érintett ingatlan tulajdonosi adatokkal kiegészített földkönyve.”

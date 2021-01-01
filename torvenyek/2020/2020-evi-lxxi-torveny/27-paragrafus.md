@@ -1,0 +1,1 @@
+27. § Az a személy, aki az ingatlan tulajdonjogát az ingatlan-nyilvántartáson kívül az állam 25. § szerinti tulajdonszerzését megelőzően megszerezte, a tulajdonjog megállapítása iránti pert az állammal szemben indíthatja meg.

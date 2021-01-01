@@ -1,0 +1,1 @@
+23. § Ha az ingatlan-nyilvántartásba tulajdonosként bejegyzett személy haláláról az ingatlanügyi hatóság tudomást szerez, hivatalból értesíti a jegyzőt a hagyatéki eljárás vagy a póthagyatéki eljárás megindítása céljából.

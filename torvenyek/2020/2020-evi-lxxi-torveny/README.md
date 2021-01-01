@@ -1,0 +1,7 @@
+# 2020. évi LXXI. törvény a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-71-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2021-01-01 | 2020. évi LXXI. törvény | 2020-71-00-00.0 (közlönyállapot) |
