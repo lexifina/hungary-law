@@ -16,7 +16,7 @@ f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezet
 
 g) telekalakítás esetén az építésügyi hatóság részére,
 
-h) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Fftv.) meghatározott külföldi jogi vagy természetes személy által az Fftv. hatálya alá nem tartozó ingatlannak a megszerzése esetén az illetékes fővárosi és megyei kormányhivatalnak,
+h)
 
 i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 

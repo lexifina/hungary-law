@@ -47,3 +47,5 @@ f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási elj�
 g) a föld tulajdonjogának megszerzésére irányuló szerződésen, vagy a föld tulajdonjogának felszámolási, illetve önkormányzati adósságrendezési eljárás során történő szerzése esetén az árverési jegyzőkönyvön a mezőgazdasági igazgatási szerv törvényben előírt jóváhagyásáról szóló záradék nem szerepel.
 
 (5) Az igazgatási szolgáltatási díj meg nem fizetése esetén – a (3) és (4) bekezdéstől eltérően – az ingatlanügyi hatóság a díj megfizetésére irányuló hiánypótlási felhívást bocsát ki a (3) és (4) bekezdés szerinti döntés meghozatalát megelőzően, de legkésőbb a kérelem benyújtását követő tizenöt napon belül.
+
+(6) A beadvány megtartja a benyújtás időpontjának megfelelő ranghelyét, ha az elutasításra a (3) bekezdésben foglaltak miatt került sor, és a döntés átvételétől számított 15 napon belül új kérelemben pótolták az elutasításról szóló határozatban megjelölt hiányosságokat, vagy ha a kérelem visszautasítására a (4) bekezdés f) pontjára tekintettel került sor, és a döntés átvételétől számított 15 napon belül az új kérelmet a megfelelő formanyomtatványon nyújtották be.

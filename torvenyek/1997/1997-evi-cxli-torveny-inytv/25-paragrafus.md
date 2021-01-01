@@ -14,6 +14,6 @@
 
 (3)
 
-(4) Az a beadvány, amelyhez melléklet nem tartozik, a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott elektronikus űrlap alkalmazásával elektronikus úton is benyújtható.
+(4)
 
 (5) Az ingatlan-nyilvántartási eljárás során a kérelmet kizárólag írásban lehet előterjeszteni.

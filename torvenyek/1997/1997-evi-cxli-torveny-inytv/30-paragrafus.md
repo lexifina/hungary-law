@@ -1,6 +1,6 @@
 30. § (1)
 
-(2) Tulajdonjog bejegyzésének törléséhez és az eredeti ingatlan-nyilvántartási állapot visszaállításához végleges hatósági határozat szükséges. Nem vonatkozik ez a rendelkezés arra az esetre, ha a felek utóbb a bejegyzés alapjául szolgáló szerződéstől elállnak, azt felbontják vagy megszüntetik, illetve érvénytelennek ismerik el. A felek ilyen megállapodása esetén a tulajdonjog törlésére a változások bejegyzésére vonatkozó szabályok az irányadók.
+(2) Tulajdonjog bejegyzésének törléséhez és az eredeti ingatlan-nyilvántartási állapot visszaállításához jogerős bírósági vagy végleges hatósági határozat szükséges. Nem vonatkozik ez a rendelkezés arra az esetre, ha a felek utóbb a bejegyzés alapjául szolgáló szerződéstől elállnak, azt felbontják vagy megszüntetik, illetve érvénytelennek ismerik el. A felek ilyen megállapodása esetén a tulajdonjog törlésére a változások bejegyzésére vonatkozó szabályok az irányadók.
 
 (2a) A bejegyzés Ptk. szerinti törlésére
 

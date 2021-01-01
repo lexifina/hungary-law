@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2020-01-16 | 2019. évi CXIV. törvény | 1997-141-00-00.82 |
 | 2020-03-01 | 2019. évi CX. törvény | 1997-141-00-00.83 |
 | 2020-07-01 | 2020. évi XL. törvény | 1997-141-00-00.84 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1997-141-00-00.85 |

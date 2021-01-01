@@ -102,8 +102,12 @@ megindítása,
 
 33. a jogosult természetes személlyel szemben megindított adósságrendezési eljárás,
 
-34. az eljárás megszüntetésének ténye.
+34. az eljárás megszüntetésének ténye,
 
-(2) Az (1) bekezdés 1–14. és 31–34. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
+35. a 2020. évi LXXI. törvény szerint folyamatban lévő megosztás.
+
+35. A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet hatálya alá eső, az adós ellen indított fizetésképtelenségi eljárás ténye.
+
+(2) Az (1) bekezdés 1–14. és 31–35. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 
 (3)

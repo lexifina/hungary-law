@@ -5,3 +5,5 @@
 (3) Ha a kérelmező úgy nyilatkozik, hogy a kérelmet teljesíthető részében sem tartja fenn, a kérelem visszavonásával kapcsolatos szabályokat kell alkalmazni.
 
 (4) Az eljárás részben vagy egészben történő megszüntetésének, illetve a kérelem részben vagy egészben történő elutasításának tényét a tulajdoni lapra fel kell jegyezni, kivéve, ha az elutasításra az 51. § (1) bekezdésében foglaltak miatt vagy azért kerül sor, mert a kérelem a 39. § (4) bekezdésében meghatározott hiányosságokkal bír.
+
+(5) A (4) bekezdés szerinti tényfeljegyzést a jogorvoslati határidő lejártakor vagy – amennyiben a döntés ellen közigazgatási per indult – a feljegyzett jogorvoslati kérelem törlésével egyidejűleg hivatalból törölni kell.

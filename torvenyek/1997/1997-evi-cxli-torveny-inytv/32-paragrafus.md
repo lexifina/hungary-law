@@ -22,7 +22,7 @@ a) a nyilatkozattevő az okiratot saját kezűleg írta és aláírta, vagy
 
 b) két, az okiraton névvel és lakcímmel – vagy a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdés 108a. pontja szerinti esetben névvel és a munkáltató címével (székhelyével, telephelyével, fióktelepével), valamint a személyazonosításra alkalmas hatósági igazolvány típusával és számával – megnevezett tanú aláírásával igazolja, hogy a nyilatkozattevő a nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el, vagy
 
-c) az okiratot a közjegyző készítette, vagy
+c) az okirat aláírójának aláírását vagy kézjegyét az okiraton bíró vagy közjegyző hitelesíti, vagy
 
 d) az okiratot ügyvéd vagy kamarai jogtanácsos ellenjegyzéssel látta el, továbbá, ha
 
@@ -38,7 +38,7 @@ g) a meghatalmazottaknak és a feleknek az okirat alapján nyilvánvalóan azono
 
 (4a)
 
-(5) Jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen és nyilvánvalóan azonosítható módon írt alá.
+(5) Jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen és nyilvánvalóan azonosítható módon írt alá. Amennyiben a jelzálogjog jogosultja hitelintézet, jelzálogjog bejegyzése alapjául szolgálhat az adós közokiratba foglalt egyoldalú tartozáselismerő nyilatkozata is, feltéve, hogy az tartalmazza a zálogtárgyat, a biztosított követelést és a bejegyzett jogosult bejegyzési engedélyét.
 
 (5a) E § alkalmazásában a jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés alatt az önálló zálogjog, a módosulás és megszűnés tekintetében pedig az átalakításos önálló zálogjog bejegyzését is érteni kell.
 
