@@ -1,4 +1,4 @@
-9/C. §[^53] (1) A közművezeték-üzemeltetőnek – a (2) és (3) bekezdésben foglaltak kivételével – 8 napon belül nyilatkoznia kell érintettségéről. Amennyiben úgy nyilatkozik, hogy érintett, a további kérdésekről további 22 napon belül nyilatkoznia kell, az adott szakágra vonatkozó előírások szerint. Ha a közművezeték-üzemeltető e határidőkön belül nem ad választ, az e-közműt üzemeltető szervezet jelzi azt a felügyeleti hatóságnak. A felügyeleti hatóság 5 napon belül intézkedik, hogy az érintett közművezeték-üzemeltető a felszólítását követő 5 napon belül adja meg a nyilatkozatát.
+9/C. §[^54] (1) A közművezeték-üzemeltetőnek – a (2) és (3) bekezdésben foglaltak kivételével – 8 napon belül nyilatkoznia kell érintettségéről. Amennyiben úgy nyilatkozik, hogy érintett, a további kérdésekről további 22 napon belül nyilatkoznia kell, az adott szakágra vonatkozó előírások szerint. Ha a közművezeték-üzemeltető e határidőkön belül nem ad választ, az e-közműt üzemeltető szervezet jelzi azt a felügyeleti hatóságnak. A felügyeleti hatóság 5 napon belül intézkedik, hogy az érintett közművezeték-üzemeltető a felszólítását követő 5 napon belül adja meg a nyilatkozatát.
 
 (2) Amennyiben jogszabály az (1) bekezdésben foglaltaktól eltérően úgy rendelkezik, hogy a közműegyeztetés lefolytatására nyitva álló határidő eredménytelen elteltét követően a közművezeték-üzemeltető hozzájárulását megadottnak kell tekinteni, vagy úgy kell tekinteni, hogy előírást nem kívánt tenni, akkor az e-közmű az ágazati jogszabályban foglalt határidő eredménytelen elteltét követően a közművezeték-üzemeltető hozzájárulását megadottnak tekinti. Ebben az esetben az (1) bekezdés szerinti – a közművezeték-üzemeltető érintettségéről tett – nyilatkozatra, valamint a felügyeleti hatóság intézkedésére nem kerül sor.
 
@@ -14,4 +14,4 @@
 
 (8) A közműnyilatkozat és a közmű-állásfoglalás érvényességi ideje 1 év.
 
-[^53]: A 9/C. §-t a 117/2018. (VII. 2.) Korm. rendelet 12. §-a iktatta be.
+[^54]: A 9/C. §-t a 117/2018. (VII. 2.) Korm. rendelet 12. §-a iktatta be.

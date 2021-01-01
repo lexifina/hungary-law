@@ -1,4 +1,4 @@
-## 12. §[^61] E rendeletnek a Módr.-ral meghatározott 9/B. §-ában foglaltakat a Módr. hatálybalépésétől[^62] számított 3 hónapot követően kell alkalmazni.
+## 12. §[^62] E rendeletnek a Módr.-ral meghatározott 9/B. §-ában foglaltakat a Módr. hatálybalépésétől[^63] számított 3 hónapot követően kell alkalmazni.
 
-[^61]: A 12. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^62]: A hatálybalépés időpontja 2016. november 30.
+[^62]: A 12. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^63]: A hatálybalépés időpontja 2016. november 30.

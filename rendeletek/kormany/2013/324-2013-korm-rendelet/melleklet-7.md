@@ -10,6 +10,6 @@
 
 | 4. | 3. Tervezési szint | az 5. melléklet 1.2.1. pontja szerinti I.-II. pontossági kategóriába tartozó adatok |
 
-7. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez[^70]
+7. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez[^71]
 
-[^70]: A 7. mellékletet a 369/2016. (XI. 29.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^71]: A 7. mellékletet a 369/2016. (XI. 29.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
