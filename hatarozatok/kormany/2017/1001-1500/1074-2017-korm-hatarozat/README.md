@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1074-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-02-10 | 2017-1074-30-22.1 | 1074/2017. (II. 10.) Korm. határozat |
+| 2021-01-01 | 2017-1074-30-22.2 | 2011: CXCV. törvény |
