@@ -24,25 +24,9 @@
 
 ## Határidő: azonnal
 
-## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet, IX. Helyi önkormányzatok támogatásai fejezetben 19. A 2015. évi Milánói Világkiállítás magyar pavilonjának újraépítése érdekében Karcag Városi Önkormányzat támogatása címmel történő kiegészítését;
+## 5.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 6. felhívja a nemzetgazdasági minisztert, hogy – a 4. pont szerinti forrásokat is figyelembe véve – gondoskodjon a 3. pont a)–c) alpontja szerinti feladatokkal kapcsolatos kiadásokra az Önkormányzat részére
-
-## a) 2017. évben legfeljebb 328,9 millió forint forrás biztosításáról a Kvtv. 1. melléklet, IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet, IX. Helyi önkormányzatok támogatásai fejezet, 19. A 2015. évi Milánói Világkiállítás magyar pavilonjának újraépítése érdekében Karcag Városi Önkormányzat támogatása cím javára az 1. melléklet szerint;
-
-## b) 2018. évben legfeljebb 1108,1 millió forint forrás biztosításáról a központi költségvetés Helyi önkormányzatok támogatásai fejezetben;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: 2017. év vonatkozásában 2017. május 1.
-
-## 2018. év vonatkozásában a 2018. évi központi költségvetés tervezése során
+## 6.[^2]
 
 ## 7. egyetért azzal, hogy a belügyminiszter a 6. pont a) alpontja szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 328,9 millió forint támogatást nyújtson az Önkormányzat részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
 
@@ -56,68 +40,11 @@
 
 ## Határidő: 2017. május 15.
 
-## 9.[^1]
+## 9.[^3]
 
-1. melléklet az 1130/2017. (III. 20.) Korm. határozathoz
+1. melléklet az 1130/2017. (III. 20.) Korm. határozathoz[^4]
 
-IX. Helyi önkormányzatok támogatásai
-
-ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
-
-a Kormány hatáskörében
-
-Költségvetési év: 2017.
-
-| Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 367251 |  | 19 |  |  |  |  |  | A 2015. évi Milánói Világkiállítás magyar pavilonjának újraépítése érdekében Karcag Városi Önkormányzat támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 328,9 |  |  |  |
-
-| 359017 |  | 2 |  |  |  |  |  | A helyi önkormányzatok működési célú kiegészítő támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -328,9 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
-
-| Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
-
-| Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezetet irányító szerv | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 328,9 |  |  |  |  |  |  |  |  | 328,9 |  |  |  |
-
-| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
-
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
