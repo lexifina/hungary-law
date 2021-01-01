@@ -14,12 +14,12 @@ d) rendszeres fogadóórát biztosít a megváltozott munkaképességű munkavá
 
 e) gondoskodik a 15. § (1) bekezdés e) pontja szerinti adatszolgáltatásról,
 
-f)[^53] kapcsolatot tart a fővárosi és megyei kormányhivatallal (a továbbiakban: rehabilitációs hatóság).
+f)[^54] kapcsolatot tart a fővárosi és megyei kormányhivatallal (a továbbiakban: rehabilitációs hatóság).
 
-(3)[^54]
+(3)[^55]
 
-(4)[^55]
+(4)[^56]
 
-[^53]: A 12. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (1) bekezdésével megállapított szöveg.
-[^54]: A 12. § (3) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
-[^55]: A 12. § (4) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^54]: A 12. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (1) bekezdésével megállapított szöveg.
+[^55]: A 12. § (3) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^56]: A 12. § (4) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.

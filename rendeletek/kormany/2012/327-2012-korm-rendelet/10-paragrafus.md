@@ -22,8 +22,8 @@ h) részére nyújtott segítő folyamat elemeinek meghatározását és a segí
 
 i) tekintetében a segítő szolgáltatások igénybevételének részletes szabályait.
 
-(3)[^51]
+(3)[^52]
 
 (4) A személyes rehabilitációs tervet évente legalább egy alkalommal értékelni és szükség szerint módosítani kell.
 
-[^51]: A 10. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 112. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^52]: A 10. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 112. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

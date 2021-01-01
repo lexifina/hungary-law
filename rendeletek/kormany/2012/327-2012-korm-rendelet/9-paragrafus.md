@@ -24,8 +24,8 @@ i) a segítő személy igénybevételének bemutatását, a segítő személy te
 
 (3) Tranzit foglalkoztatás esetén, annak hatékony megvalósítása és eredményességének elősegítése érdekében a munkáltató akciótervet készít a tranzitálás lépcsőinek, valamint a nyílt munkaerő-piaci foglalkoztatókkal és az államigazgatás illetékes szerveivel való együttműködés módjának bemutatásával. Az akcióterv a szakmai program függelékét képezi.
 
-(4)[^50] A szakmai programot az akkreditációt követően első alkalommal három évre szólóan, évenkénti bontásban kell elkészíteni. A hároméves időszak lejártát követően a munkáltató tevékenységétől, illetve az általa folytatott foglalkozási rehabilitációs gyakorlat jellemzőitől függően éves vagy többéves időszakra szóló szakmai programot kell készíteni.
+(4)[^51] A szakmai programot az akkreditációt követően első alkalommal három évre szólóan, évenkénti bontásban kell elkészíteni. A hároméves időszak lejártát követően a munkáltató tevékenységétől, illetve az általa folytatott foglalkozási rehabilitációs gyakorlat jellemzőitől függően éves vagy többéves időszakra szóló szakmai programot kell készíteni.
 
 (5) A szakmai program teljesítését évente értékelni kell. A szakmai programot és annak értékelését – a rehabilitációs tanácsadó aláírását követően – a munkáltató vezető tisztségviselője hagyja jóvá.
 
-[^50]: A 9. § (4) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^51]: A 9. § (4) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
