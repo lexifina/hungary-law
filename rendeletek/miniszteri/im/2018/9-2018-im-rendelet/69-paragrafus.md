@@ -1,4 +1,4 @@
-## küldött értesítése alapján továbbra is nyilvántartásban tartja.
+## értesítése alapján továbbra is nyilvántartásban tartja.
 
 ## 38. Az elektronikus adat végleges hozzáférhetetlenné tételének végrehajtása
 

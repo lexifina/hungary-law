@@ -1,17 +1,23 @@
+## 121/A. § A Bv. tv. 61/E. § (1) bekezdése szerinti esetben, ha a próbaidőre felfüggesztett szabadságvesztés végrehajtásának elrendeléséről határozott, a bv. bíró a szabadságvesztés végrehajtása érekében az 1. melléklet szerinti adattartalommal értesítőlapot állít ki, egyebekben az általános szabályok – ideértve a halasztás engedélyezését is – szerint jár el.
+
 ## 64. Kártalanítási eljárás az alapvető jogokat sértő elhelyezési körülményekből eredő sérelem orvoslására
 
-122. § (1) A kártalanítási kérelem beérkezését követően – ha a kérelem elutasításának nincs helye – a bv. bíró a bv. intézet véleményéhez csatolt iratok alapján haladéktalanul megvizsgálja, hogy helye van-e a Bv. tv. 70/B. § (1) bekezdése alkalmazásának.
+122. §[^59] (1) Ha a Bv. tv. 75/M. § (3) bekezdése alkalmazásának lehet helye, a bv. bíró a sértett részére felhívást küld ki, melyben a sértett részére megfelelő tájékoztatást kell adni arról, hogy milyen feltételek mellett kerülhet sor a kártalanítás megállapítása esetén az abból történő kielégítésre a javára megítélt és nem teljesített polgári jogi igény vagy a bűncselekmény miatt megítélt kártérítés vagy sérelemdíj erejéig.
 
-(2) Ha a Bv. tv. 70/B. § (1) bekezdése alkalmazásának lehet helye, a bv. bíró a sértett részére felhívást küld ki, hogy a Bv. tv. 70/B. § (1)–(2) bekezdésében meghatározottakról tegyen nyilatkozatot. A felhívásban a sértett részére megfelelő tájékoztatást kell adni arról, hogy milyen feltételek mellett kerülhet sor a kártalanítás megállapítása esetén az abból történő kielégítésre a javára megítélt és meg nem térített polgári jogi igény vagy a polgári bíróság által megítélt kártérítés vagy sérelemdíj erejéig.
+(2) A bv. bíró a felhívásban a sértettet
 
-(3) A (2) bekezdés szerinti felhívásban a sértettet nyilatkoztatni kell továbbá arról, hogy
+a) nyilatkoztatja arról, hogy az elítélt a polgári jogi igényt vagy a bűncselekmény miatt megítélt kártérítést vagy sérelemdíjat teljesítette-e,
 
-a) ha a büntetőeljárás során kérte személyes adatainak zártan kezelését, akkor ebben az eljárásban is kéri-e ezt,
+b) nyilatkoztatja arról, hogy ha a teljesítés nem vagy csak részben történt meg, igényt tart-e a még fennálló követelés kielégítésére az elítélt részére esetlegesen megítélendő kártalanítás összegéből,
 
-b) a követelés kifizetéséről való rendelkezés esetén az részére milyen módon történjen, és hogy ennek megfelelően közölje a kifizetéshez szükséges adatokat, úgymint
+c) felhívja, hogy a megfizetés iránti igényét összegszerűen jelölje meg,
 
-ba) fizetési számlára történő utalás esetén a számlatulajdonos nevét és a számlaszámát,
+d) nyilatkoztatja arról, hogy személyes adatainak zártan kezelését kéri-e,
 
-bb) készpénzben történő kifizetés esetén a postai címét, illetve ha az átvételre más személyt hatalmaz meg, e személy nevét és postai címét.
+e) nyilatkoztatja, hogy az igénye kifizetéséről való döntés esetén a Bv. tv. 75/S. § (1) bekezdés b) pontjában meghatározott mely kifizetési módot választja, számlaszámra utalás esetén a számlaszám, készpénzben történő kifizetés esetén a postai címe, illetve ha az átvételre más személyt hatalmaz meg, e személy neve és postai címe megjelöléséről, és
 
-(4) Ha a (2) bekezdés szerinti felhívás a sértettnek azért nem volt kézbesíthető, mert ismeretlen helyre költözött, a bv. bíró a személyiadat- és lakcímnyilvántartás megkeresésével intézkedik a sértett lakó-, illetve tartózkodási helyének a megállapítása iránt.
+f) felhívja, hogy csatolja a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj teljesítésével összefüggésben rendelkezésére álló iratokat, így különösen a polgári bíróság által hozott ítéletet.
+
+(3) A bv. bíró az (1) bekezdés szerinti felhívást a sértettnek az ügyiratokban szereplő lakó- és tartózkodási helye mellett a személyiadat- és lakcímnyilvántartásban szereplő lakó-, illetve tartózkodási helyére is kézbesíti.
+
+[^59]: A 122. § a 18/2020. (XII. 29.) IM rendelet 14. §-ával megállapított szöveg.

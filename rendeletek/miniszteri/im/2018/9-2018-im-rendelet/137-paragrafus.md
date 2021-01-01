@@ -4,11 +4,17 @@
 
 137. § (1) Ha a bíróságnál előterjesztett kegyelmi kérelem tartalma nem egyértelmű, a bíróság annak tisztázása érdekében – a szükséges felvilágosítást megadva – a kérelmezőt nyilatkozattételre hívja fel.
 
-(2) Ha a bíróság
+(2)[^68] Ha a bíróság
 
-a) környezettanulmány beszerzését rendeli el, a terhelt lakcíme, illetve tényleges tartózkodási helye szerinti illetékes pártfogó felügyelői feladatkörében eljáró fővárosi és megyei kormányhivatalt, illetve szabadságvesztést vagy elzárást töltő elítéltnek az adott ügyben előterjesztett kegyelmi kérelme esetén a végrehajtást foganatosító bv. intézetet,
+a) környezettanulmány beszerzését rendeli el
 
-b) rendőrségi jelentés beszerzését rendeli el, a terhelt lakóhelye, illetve tartózkodási helye szerinti illetékes rendőrkapitányságot
+aa) a terhelt lakcíme, illetve tényleges tartózkodási helye szerinti illetékes pártfogó felügyelői feladatkörében eljáró fővárosi és megyei kormányhivatalt,
+
+ab) szabadságvesztést vagy elzárást töltő elítélt kegyelmi kérelme esetén a végrehajtást foganatosító bv. intézet szerint illetékes büntetés-végrehajtási pártfogó felügyelőt,
+
+ac) feltételes szabadságon lévő elítélt adott ügyben előterjesztett kegyelmi kérelme esetén az elítélt lakcíme, illetve tényleges tartózkodási helye szerint illetékes büntetés-végrehajtási pártfogó felügyelőt,
+
+b) eljárási kegyelem esetén a terhelt életvitelével összefüggő nyilvános adatokat tartalmazó rendőrségi jelentés, illetve végrehajtás iránti kegyelem esetén a Bv. tv. 76. § (2) bekezdés u) pontja szerinti adatokat tartalmazó, az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentés beszerzését rendeli el, a terhelt lakcíme, illetve tényleges tartózkodási helye szerinti illetékes rendőrkapitányságot
 
 ## keresi meg.
 
@@ -35,3 +41,5 @@ c) a további beszerzett adatokat, iratokat
 (6) Eljárási kegyelmi kérelem esetén a bíróság a kegyelmi felterjesztésben megjelöli a kitűzött tárgyalás időpontját.
 
 (7) Eljárási kegyelemi kérelem esetén a bíróság az ügydöntő határozat meghozataláról a rendelkező rész megküldésével három napon belül értesíti a minisztert. Az ügydöntő határozat jogerőre emelkedése esetén a bíróság nyilatkoztatja a terheltet vagy az egyéb kérelmezőt a kegyelmi kérelem fenntartásáról, illetve módosításáról, ez utóbbi esetben a végrehajtási kegyelmi kérelem megjelölésére hívja fel.
+
+[^68]: A 137. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 127. §-ával megállapított szöveg.

@@ -1,7 +1,22 @@
-124. § (1) A kártalanítás megállapításáról szóló határozatban a bv. bíró a kártalanítás, illetve a sértett részére teljesítendő követelés összegét számmal és szövegesen is megjelöli. A határozat rendelkező részének tartalmaznia kell – a kártalanítás, illetve a polgári jogi igényből, illetve a bűncselekmény miatt megállapított kártérítésből vagy sérelemdíjból eredő még fennálló követelés jogosultjának rendelkezése szerint – a kifizetéshez szükséges adatokat is, kivéve, ha a sértett a személyes adatai zártan kezelését kérte. Ha a polgári jogi igényt, illetve a bűncselekményből eredő kártérítést vagy sérelemdíjat megállapító bírósági határozat kamat megfizetéséről is rendelkezett, a bv. bíró a rendelkező részben feltünteti a kamatfizetési kötelezettség kezdő napját és mértékét.
+## 123. §[^60] Ha a bv. bíró a Bv. tv. 75/M. § (5) bekezdése alapján a terheltet nyilatkozattételre írásban hívja fel, a nyilatkozat megtételére tizenöt napos határidőt biztosít. A védővel eljáró elítélt esetén a terhelt nyilatkozata a védő útján is beszerezhető.
 
-(2) A kártalanítás megállapítása esetén a jogerős határozat kiadmányát a bv. csoport a kifizetés teljesítése végett megküldi az Igazságügyi Minisztériumnak.
+124. § (1)[^61] A kártalanítás megállapításáról szóló határozat rendelkező részének tartalmaznia kell
+
+a) a kártalanítás, illetve a sértett részére teljesítendő követelés összegét, számmal és szövegesen is megjelölve,
+
+b) annak az ítéletnek az ügyszámát, amelyre tekintettel a bv. bíró a polgári jogi igény, illetve a bűncselekmény miatt megítélt kártérítés vagy sérelemdíj jogosultjának a még fennálló követelése erejéig a kártalanításból történő levonásra való jogosultságát megállapította,
+
+c) a kártalanítás, illetve a polgári jogi igényből, illetve a bűncselekmény miatt megállapított kártérítésből vagy sérelemdíjból eredő még fennálló követelés kifizetéséhez szükséges adatokat, kivéve, ha a sértett a személyes adatai zártan kezelését kérte, és
+
+d) a kamatfizetési kötelezettség kezdő napját és mértékét, ha a polgári jogi igényt, illetve a bűncselekményből eredő kártérítést vagy sérelemdíjat megállapító bírósági határozat kamat megfizetéséről is rendelkezett.
+
+(2)[^62]
 
 (3) Ha a bv. bíró a határozatában a megállapított kártalanítás összegéből a még fennálló követelés erejéig a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja javára történő kifizetésről rendelkezett, és a sértett személyes adatai zártan kezelését kérte, a kifizetés teljesítése érdekében a jogerős határozat kiadmányának megküldésekor az Igazságügyi Minisztérium részére mellékelni kell a kifizetéshez szükséges, a sértett által megadott adatokat. Ez esetben gondoskodni kell arról, hogy a kifizetés során se juthasson a sértett személyes adata illetéktelen személy tudomására.
 
-(4) Ha a Bv. tv. 70/B. § (3) bekezdése szerinti adatszolgáltatás eredményeként ismertté vált, hogy a polgári jogi igényből, illetve a bűncselekmény miatt megállapított kártérítésből vagy sérelemdíjból eredő még fennálló követelés behajtására az elítélttel szemben végrehajtási eljárás van folyamatban, vagy az ezen a jogcímen indított végrehajtási eljárás szünetel, a bv. csoport a határozat kiadmányának megküldésével egyidejűleg erről – az illetékes végrehajtó és az ügyszám megjelölésével – tájékoztatja az Igazságügyi Minisztériumot.
+(4)[^63]
+
+[^60]: A 123. § a 18/2020. (XII. 29.) IM rendelet 15. §-ával megállapított szöveg.
+[^61]: A 124. § (1) bekezdése a 18/2020. (XII. 29.) IM rendelet 16. §-ával megállapított szöveg.
+[^62]: A 124. § (2) bekezdését a 18/2020. (XII. 29.) IM rendelet 17. § a) pontja hatályon kívül helyezte.
+[^63]: A 124. § (4) bekezdését a 18/2020. (XII. 29.) IM rendelet 17. § a) pontja hatályon kívül helyezte.

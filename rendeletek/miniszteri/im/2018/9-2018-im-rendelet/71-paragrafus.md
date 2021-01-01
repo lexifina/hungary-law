@@ -1,13 +1,24 @@
-## 70. § Ha a bíróság az elektronikus adat végleges hozzáférhetetlenné tételét az elektronikus adat eltávolításával rendeli el, a 15. melléklet szerinti végrehajtási értesítőlap két papíralapú példányát eredeti bírói aláírással látja el és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 32. §-a szerint illetékes törvényszéki végrehajtói ügykezelő irodának küldi meg, továbbá az értesítőlapot a bíróság székhelye szerint illetékes bv. csoportnak is megküldi.
+## 70. §[^28] Ha a bíróság az elektronikus adat végleges hozzáférhetetlenné tételét az elektronikus adat eltávolításával rendeli el, a határozatra eredeti bírói aláírással ellátott felhívást vezet, amelyben a kötelezettet azonnali vagy legfeljebb a határozat közlésétől számított egy munkanapon belüli önkéntes teljesítésére hívja fel, vagy a határozat kiadmányához ilyen felhívást csatol, és azt megküldi az Avt. szerint az állami adó- és vámhatóságnak a végrehajtás foganatosítása érdekében, továbbá az értesítőlapot a bíróság székhelye szerint illetékes bv. csoportnak is megküldi.
 
 71. § (1) A bv. csoport a végrehajtási értesítőlapot határidős nyilvántartásba helyezi.
 
-(2) A törvényszéki végrehajtó a végrehajtási cselekményről készült jegyzőkönyvet három napon belül megküldi a székhelye szerint illetékes bv. csoportnak. A jegyzőkönyvhöz mellékelni kell a végrehajtási értesítőlapnak a törvényszéki végrehajtói ügykezelő iroda által érkeztetett példányáról készült másolatát. Ha a tárhelyszolgáltató a kötelezettséget teljesítette, a bv. csoport a végrehajtás iránti előírást törli a nyilvántartásból.
+(2)[^29] Ha az állami adó- és vámhatóság a végrehajtásról jegyzőkönyvvel arról értesíti a bv. csoportot, hogy a végrehajtás
 
-(3) Ha a tárhelyszolgáltató a kötelezettségének nem tett eleget vagy a teljesítést megtagadta, a bv. bíró a pénzbírság kiszabásáról szóló véglegessé válási záradékkal ellátott határozatának kiadmányát megküldi a törvényszéki végrehajtónak, egyebekben a rendbírság behajtására vonatkozó szabályok szerint jár el.
+a) eredményes, a bv. csoport a végrehajtást törli a nyilvántartásból,
 
-(4) A törvényszéki végrehajtó a pénzbírság kiszabásáról szóló határozat alapján elvégzett, a kötelezettség teljesítésének ismételt ellenőrzéséről készült jegyzőkönyvet három napon belül megküldi a bv. csoportnak. Ha a kötelezett továbbra sem teljesítette az elektronikus adat eltávolítását, a bv. bíró lefolytatja a Bv. tv. 69/A. §-a szerinti eljárást, és erről értesíti az ügyben elsőfokon eljárt bíróságot.
+b) ideiglenesen eredménytelen, akkor a bv. csoport a rendbírság kiszabása érdekében intézkedik.
 
-(5) Ha a kötelezett a kiszabott pénzbírság ellenére sem teljesít és a bv. bíró a pénzbírságot kiszabó határozat jogerőre emelkedését követő naptól számított három hónap elteltével újból pénzbírságot szab ki a kötelezettel szemben, a bíróság a továbbiakban a (3) bekezdés ismételt alkalmazásával jár el. A végrehajtási értesítőlap törvényszéki végrehajtó általi átvételét követő három év elteltével a végrehajtás iránti előírást a bv. csoport törli a nyilvántartásból.
+(3)[^30] Ha a tárhelyszolgáltató a kötelezettségének nem tett eleget vagy a teljesítést megtagadta, a bv. bíró a rendbírság kiszabásáról szóló véglegessé válási záradékkal ellátott határozatának kiadmányát megküldi az állami adó- és vámhatóságnak, egyebekben a rendbírság behajtására vonatkozó szabályok szerint jár el.
 
-(6) Ha a bv. bíró az elektronikus adathoz való hozzáférés végleges megakadályozását rendelte el és a kötelezett vagy a törvényszéki végrehajtó tájékoztatása szerint a tárhelyszolgáltató a pénzbírság kiszabását követően utóbb mégis eleget tesz a kötelezettségének, a bv. bíró a Bv. tv. 69/A. § (3) bekezdése alapján beszerzi az ügyészség indítványát az elektronikus adathoz való hozzáférés végleges megakadályozásának megszüntetése tárgyában.
+(4)[^31] Ha az állami adó- és vámhatóságnak a kötelezettség teljesítésének ismételt ellenőrzéséről készült jegyzőkönyve szerint a kötelezett továbbra sem teljesítette az elektronikus adat eltávolítását, a bv. bíró lefolytatja a Bv. tv. 69/A. §-a szerinti eljárást, és erről értesíti az ügyben elsőfokon eljárt bíróságot.
+
+(5)[^32] Ha a kötelezett a kiszabott rendbírság ellenére sem teljesít és a bv. bíró a rendbírságot kiszabó határozat véglegessé válását követő naptól számított három hónap elteltével újból rendbírságot szab ki a kötelezettel szemben, a bíróság a továbbiakban a (3) bekezdés ismételt alkalmazásával jár el. Az első ideiglenes eredménytelenséget megállapító jegyzőkönyv készítésének napját követő három év elteltével a végrehajtást a bv. csoport befejezettként kezeli és törli a nyilvántartásból.
+
+(6)[^33] Ha a bv. bíró az elektronikus adathoz való hozzáférés végleges megakadályozását rendelte el és a kötelezett vagy az állami adó- és vámhatóság jegyzőkönyve szerint a tárhelyszolgáltató a rendbírság kiszabását követően utóbb mégis eleget tesz a kötelezettségének, a bv. bíró a Bv. tv. 69/A. § (3) bekezdése alapján beszerzi az ügyészség indítványát az elektronikus adathoz való hozzáférés végleges megakadályozásának megszüntetése tárgyában.
+
+[^28]: A 70. § a 20/2020. (XII. 30.) IM rendelet 114. §-ával megállapított szöveg.
+[^29]: A 71. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 115. §-ával megállapított szöveg.
+[^30]: A 71. § (3) bekezdése a 20/2020. (XII. 30.) IM rendelet 115. §-ával megállapított szöveg.
+[^31]: A 71. § (4) bekezdése a 20/2020. (XII. 30.) IM rendelet 115. §-ával megállapított szöveg.
+[^32]: A 71. § (5) bekezdése a 20/2020. (XII. 30.) IM rendelet 115. §-ával megállapított szöveg.
+[^33]: A 71. § (6) bekezdése a 20/2020. (XII. 30.) IM rendelet 129. § d) pontja szerint módosított szöveg.

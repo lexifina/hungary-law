@@ -10,8 +10,12 @@ d) a Nemzeti Adó- és Vámhivatal illetékes szervének
 
 ## küldi meg.
 
-(2) Az (1) bekezdésben meghatározott esetben, ha a kötelezett a költséget a felhívásban megjelölt határidőben nem fizette meg, az intézkedésre kötelezett szerv a határozat megküldésével intézkedik a végrehajtás érdekében a Vht. 32. § (1) bekezdése szerint illetékes törvényszéki végrehajtónál azzal, hogy meg kell jelölni azt a számlaszámot, ahová a befolyt összeget át kell utalni.
+(2)[^42]
 
-(3) A büntetőeljárásban az ügyészség, a nyomozó hatóság, illetve a Bv. tv. alapján a BVOP az általa elrendelt elővezetéssel felmerült költség megfizetésére – illetékes szerve útján – a kötelezettet önkéntes teljesítésre utalva hívja fel. Ha a kötelezett a költséget a felhívásban megjelölt határidőben nem fizette meg, az ügyészség, a nyomozó hatóság, illetve a BVOP – illetékes szerve útján – a végrehajtás érdekében a (2) bekezdésben meghatározottak szerint intézkedik.
+(3)[^43]
 
-(4) A GH a végrehajtói letéti számlára befolyt összeget a törvényszéki végrehajtó rendelkezése alapján utalja át a végrehajtást kérő szerv által megjelölt számlára.
+(4)[^44]
+
+[^42]: A 91. § (2) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.
+[^43]: A 91. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.
+[^44]: A 91. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.

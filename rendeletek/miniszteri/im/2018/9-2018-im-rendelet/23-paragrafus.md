@@ -7,3 +7,7 @@
 (2) Ha a halasztásra várandósság miatt került sor, azonban a Bv. tv. 39. § (5) bekezdése szerinti körülmények bekövetkeznek, a tanács elnöke felhívja a BVOP egészségügyi szakterületét, hogy nyilatkozzon az elítélt nő egészségi állapotáról.
 
 (3) Ha a megfelelő orvosi dokumentumok rendelkezésre állnak a nyilatkozathoz, a BVOP írásban tájékoztatja megállapításairól a tanács elnökét, ellenkező esetben a nyilatkozat megtételének akadályát közli.
+
+(4)[^13] A Bv. tv. 39. § (9) bekezdésében meghatározott esetben a bíróság a halasztás iránti kérelmet, mint félbeszakítás iránti kérelmet továbbítja a BVOP-nak, és erről az elbírálás mellőzéséről történő értesítésben tájékoztatja az elítéltet.
+
+[^13]: A 23. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 108. §-a iktatta be.

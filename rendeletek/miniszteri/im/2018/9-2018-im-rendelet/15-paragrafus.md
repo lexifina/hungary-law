@@ -1,5 +1,3 @@
-## 14. § A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény szerinti Védelmi Program hatálya alatt álló személy előállítása iránti intézkedést, valamint e személyt érintő határozat végrehajtása érdekében a határozatot, határozatkiadmányt, az e rendelet szerinti értesítőlapot, felhívást vagy egyéb megküldendő iratot a Tanúvédelmi Szolgálat útján kell továbbítani.
-
 ## II. Fejezet
 
 ## A SZABADSÁGVESZTÉS VÉGREHAJTÁSA

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-9-20-06
 | 2020-01-01 | 2018-9-20-06.4 | 30/2019. (XII. 30.) IM rendelet |
 | 2020-07-09 | 2018-9-20-06.5 | 9/2020. (VII. 8.) IM rendelet |
 | 2020-11-01 | 2018-9-20-06.6 | 14/2020. (X. 30.) IM rendelet |
+| 2021-01-01 | 2018-9-20-06.7 | 20/2020. (XII. 30.) IM rendelet |

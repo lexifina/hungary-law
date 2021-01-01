@@ -13,3 +13,13 @@
 (4) Ha az elítélt vagy az egyéb jogcímen fogvatartott a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény szerinti Védelmi Program hatálya alatt áll, a részére kézbesítendő határozatot, idézést vagy értesítést, továbbá az előállítás iránti rendelkezést, valamint a végrehajtás érdekében a határozatot, határozatkiadmányt, az e rendelet szerinti értesítőlapot, felhívást vagy egyéb megküldendő iratot a Tanúvédelmi Szolgálat útján kell továbbítani.
 
 (5) A terhelt részére kézbesítendő határozat, idézés vagy értesítés megküldésekor a bíróság a védelmet ellátó szervet felhívja, hogy a címzett általi átvétel megtörténtét, valamint az átvétel időpontját igazoló iratot küldje vissza. Ebből a célból az ügyirathoz megfelelően kitöltött tértivevény, illetve fogva lévő esetén kézbesítési ív csatolandó.
+
+(6)[^54] Ha a védett személy új nevet vagy új személyazonosságot kapott és az ügydöntő határozat még az eredeti természetes személyazonosító adatait tartalmazza, a bv. bíró az ügyiratok között minden olyan iratot zártan kezel, amely a korábbi és az új személyazonosság egyezőségére utal.
+
+(7)[^55] A (6) bekezdésben meghatározott esetben, ha a védett személyre vonatkozóan az értesítőlap még az eredeti természetes személyazonosító adatait tartalmazza, az értesítőlapot is zártan kell kezelni, továbbá ha arra a bv. bíró rendelvényt vezet, azt új értesítőlap kiállításával teszi meg.
+
+(8)[^56] A bv. bíró a III. Fejezetben lévő eljárások elbírálása során, ha az eljárás megindítását az elítélt mulasztása alapozza meg, érdemi döntésével a végrehajtásért felelős szervnek a mulasztás igazolása körében hozott döntését is felülbírálja, és ha helyt ad az igazolásnak a végrehajtásért felelős szerv határozatát hatályon kívül helyezi.
+
+[^54]: A 113. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 123. §-a iktatta be.
+[^55]: A 113. § (7) bekezdését a 20/2020. (XII. 30.) IM rendelet 123. §-a iktatta be.
+[^56]: A 113. § (8) bekezdését a 20/2020. (XII. 30.) IM rendelet 123. §-a iktatta be.

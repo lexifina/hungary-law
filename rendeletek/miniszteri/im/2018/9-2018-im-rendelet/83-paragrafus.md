@@ -6,12 +6,8 @@
 
 ## 41. A bűnügyi költség megfizetésére kötelezés
 
-83. § (1) A bíróság a bűnügyi költség végrehajtása érdekében
+83. §[^34] (1) A bíróság a bűnügyi költség – ideértve a büntetőeljárásban részt vevő személynek a költségek megfizetésére kötelezését is – végrehajtása érdekében az ügydöntő határozat jogerősítési záradékkal és eredeti aláírással ellátott rendelkező részének, nem ügydöntő végzés esetén véglegessé válási záradékkal ellátott kiadmányának a megküldésével intézkedik az elsőfokon eljáró bíróság székhelye szerint illetékes törvényszéken működő GH-nál.
 
-a) a 20. melléklet szerinti adattartalommal kiállított értesítőlap vagy
+(2) Ha a bűnügyi költséget az ügyészség állapította meg, a további jogorvoslattal nem támadható határozatát – felülbírálati indítvány esetén ideértve a nyomozási bíró határozatát is – megküldi az illetékes GH-nak.
 
-b) az ügydöntő határozat jogerősítési záradékkal, nem ügydöntő végzés esetén véglegessé válási záradékkal és eredeti aláírással ellátott rendelkező részének
-
-## megküldésével intézkedik az elsőfokon eljáró bíróság székhelye szerint illetékes törvényszéken működő GH-nál.
-
-(2) Ha a bűnügyi költséget az ügyészség állapította meg, a további jogorvoslattal nem támadható határozatának egy kiadmányát megküldi az illetékes GH-nak. A GH a végrehajtás foganatosítása érdekében a határozatot olyan záradékkal látja el, amely szerint a határozat a Vht. 10. §-a szerinti végrehajtható okiratnak minősül, és azt megküldi a Vht. 32. § (1) bekezdése szerint illetékes törvényszéki végrehajtónak.
+[^34]: A 83. § a 20/2020. (XII. 30.) IM rendelet 116. §-ával megállapított szöveg.

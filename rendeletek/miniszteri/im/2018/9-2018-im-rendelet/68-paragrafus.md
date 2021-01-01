@@ -6,12 +6,16 @@
 
 (2) Ha a büntetőeljárás során a terhelt akár ingó, akár ingatlan vagyonának zár alá vételét rendelték el, a bíróság közli a GH-val a zár alá vételt elrendelő hatóság megnevezését, határozatának számát.
 
-(3) A GH a vagyonelkobzás előírása után az (1) bekezdés szerinti ügydöntő határozat rendelkező részének megküldésével a vagyonelkobzás foganatosítása végett a törvényszéki végrehajtói ügykezelő irodát keresi meg.
+(3)[^25] A GH a vagyonelkobzás előírását követően a 4. § (3) bekezdése szerint jár el.
 
-(4) A GH a vagyonelkobzást a törvényszéki végrehajtói ügykezelő iroda által az eljárás befejezéséről küldött értesítés alapján törli a nyilvántartásból, ha a meghatározott vagyontárgyra vagy a meghatározott pénzösszegre vezetett végrehajtás eredményes volt.
+(4)[^26] A GH a vagyonelkobzást az állami adó- és vámhatóság által az eljárás befejezéséről küldött értesítés alapján törli a nyilvántartásból, ha a meghatározott vagyontárgyra vagy a meghatározott pénzösszegre vezetett végrehajtás eredményes volt.
 
-(5) A GH a vagyonelkobzást,
+(5)[^27] A GH a vagyonelkobzást az állami adó- és vámhatóságnak,
 
-a) ha azt a bíróság a terhelt egész vagyonára rendelte el, vagy a meghatározott vagyontárgyra vezetett végrehajtás nem járt eredménnyel a törvényszéki végrehajtói ügykezelő irodának az eljárás befejezéséről, vagy
+a) ha a végrehajtás nem járt eredménnyel, az eljárás befejezéséről szóló, vagy
 
-b) ha a vagyonelkobzást a bíróság pénzösszegben rendelte el a végrehajtás szüneteléséről és a Be. CVI. Fejezete szerinti eljárás kezdeményezéséről
+b) ha a vagyonelkobzást a bíróság pénzösszegben rendelte el, a Be. CVI. Fejezete szerinti eljárás kezdeményezéséről szóló
+
+[^25]: A 68. § (3) bekezdése a 20/2020. (XII. 30.) IM rendelet 113. § (1) bekezdésével megállapított szöveg.
+[^26]: A 68. § (4) bekezdése a 20/2020. (XII. 30.) IM rendelet 129. § c) pontja szerint módosított szöveg.
+[^27]: A 68. § (5) bekezdése a 20/2020. (XII. 30.) IM rendelet 113. § (2) bekezdésével megállapított szöveg.
