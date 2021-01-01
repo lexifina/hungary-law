@@ -16,9 +16,9 @@
 
 a) a földgázszállító rendszer kiadási pontjaira vonatkozó kapacitásköltség vonatkozásában a tény hőmérsékleti viszonyokat figyelembe vevő, az egyetemes szolgáltatás forrásellátása érdekében felmerülő modellezett értéket,
 
-b) egyéb esetekben a szállítási és tárolási rendszerüzemeltetők részére ténylegesen megfizetett díjakat
+b) a magyar gázkiegyenlítési ponton történő beszerzés vonatkozásában a volt közüzemi nagykereskedő által a forrás árától el nem különített módon, közvetve megfizetett és a Hivatal által elismert mértékű kapacitásköltséget,
 
-jelenti.
+c) egyéb esetekben a szállítási és tárolási rendszerüzemeltetők részére ténylegesen megfizetett díjakat jelenti.
 
 (7)[^19] Ha az egyetemes szolgáltatónak vagy a volt közüzemi nagykereskedőnek az egyetemes szolgáltatást igénybe vevő lakossági fogyasztók fogyasztásának finanszírozását szolgáló, az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet szerinti juttatás összegére és az azzal összefüggésben felmerülő indokolt költségekre és ráfordításokra (ideértve az azokat terhelő adókat, járulékokat, beruházási és működési költségeket) fedezetet biztosító összegen nyeresége vagy vesztesége keletkezik, az az árszabályozás során figyelembevételre kerül.
 
@@ -29,6 +29,6 @@ jelenti.
 [^15]: Az 5. § (4) bekezdése a 38/2017. (IX. 29.) NFM rendelet 12. § a) pontja, a 8/2018. (III. 28.) NFM rendelet 8. § b) pontja szerint módosított szöveg.
 [^16]: Az 5. § (5) bekezdése a 38/2017. (IX. 29.) NFM rendelet 12. § b) pontja, a 8/2018. (III. 28.) NFM rendelet 8. § c) pontja szerint módosított szöveg.
 [^17]: Az 5. § (6) bekezdése a 8/2018. (III. 28.) NFM rendelet 8. § d) pontja szerint módosított szöveg.
-[^18]: Az 5. § (6a) bekezdését a 19/2018. (IX. 27.) ITM rendelet 6. §-a iktatta be.
+[^18]: Az 5. § (6a) bekezdését a 19/2018. (IX. 27.) ITM rendelet 6. §-a iktatta be, szövege az 58/2020. (XII. 29.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^19]: Az 5. § (7) bekezdését a 8/2018. (III. 28.) NFM rendelet 5. §-a iktatta be.
 [^20]: Az 5. § (8) bekezdését a 8/2018. (III. 28.) NFM rendelet 5. §-a iktatta be.
