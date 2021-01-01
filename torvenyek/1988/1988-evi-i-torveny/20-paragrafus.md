@@ -50,6 +50,12 @@ p) a közúti közlekedési ellenőrzés lefolytatására, annak során hozott h
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
+(1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), és n) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
+
+(1b) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés e) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározott I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás.
+
+(1c) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés k), m) és o) pontjában felsorolt ügycsoportba tartozó, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes jogsértések miatt indult közigazgatási hatósági eljárásokban.
+
 (2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a munkaügyi hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
 
 (2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
@@ -130,7 +136,7 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (13) Az e § szerinti, a közúti áru- és személyszállítást érintő ellenőrzések szakmai útmutatását és koordinációját – a külön jogszabályban meghatározott rendelkezések szerint – a közlekedési hatóság látja el.
 
-(14)
+(14) Az (1) bekezdés k), m) és o) pontja szerinti rendelkezések, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt indult közigazgatási hatósági eljárásokban alkalmazott szankciókat nem kell bejegyezni a Közigazgatási Szankciók Nyilvántartásába.
 
 (15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
 

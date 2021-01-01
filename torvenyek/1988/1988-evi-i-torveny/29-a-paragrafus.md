@@ -9,3 +9,5 @@ b) az engedély nélküli forgalomba helyezés esetén a forgalomba helyezési e
 terjedhet.
 
 (3) A bírság ismételten kiszabható.
+
+(4) Közigazgatási szankcióként figyelmeztetés a (1) bekezdés szerinti szabályszegés miatt indult közigazgatási hatósági eljárásban nem alkalmazható.

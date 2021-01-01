@@ -62,7 +62,7 @@ a) a Kormány, hogy
 
 28. a közlekedéspolitika részeként az intelligens közlekedési rendszerek nemzeti stratégiáját,
 
-29. az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló szabályokat,
+29. az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről, bejelentéséről szóló szabályokat,
 
 30. a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét,
 
@@ -220,7 +220,7 @@ d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendésze
 
 e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, a pályaalkalmassági eljárás díját, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
 
-f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság kivetésének szabályait és a bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
+f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
 
 g) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben
 
@@ -238,7 +238,7 @@ h) az iparügyekért felelős miniszter, hogy az elektromos töltőberendezések
 
 i) a közlekedésrendészetért felelős miniszter, hogy a megkülönböztető és figyelmezető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
 
-j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok szabályait,
+j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos hatósági feladatok szabályait,
 
 k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 

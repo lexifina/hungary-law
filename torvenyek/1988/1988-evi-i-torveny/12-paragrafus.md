@@ -30,11 +30,9 @@ d) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerin
 
 (4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 100 000 forinttól 500 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
 
-(4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a következőket mérlegeli:
+(4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett a közvetlen balesetveszély lehetőségét is mérlegeli.
 
-a) a közvetlen balesetveszély lehetősége,
-
-b) a tilalom megszegésének ismétlődése.
+(4b) Nincs helye figyelmeztetés alkalmazásának a (3a) és a (3e) bekezdésben meghatározott jogsértés miatt indult közigazgatási hatósági eljárásban.
 
 (5) A közút kezelője a hozzájárulása nélkül vagy attól eltérő módon az út területén elhelyezett reklámtáblát, reklámhordozót, egyéb reklámcélú berendezést és tájékozódást segítő jelzést megjelenítő reklámcélú eszközt a reklám célú tárgy tulajdonosának, közvilágítási-, villany-, telefonoszlop esetében az oszlop tulajdonosának vagy a reklámtábla tulajdonosának költségére eltávolíthatja.
 

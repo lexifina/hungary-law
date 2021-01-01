@@ -15,3 +15,7 @@ gyártóval szemben 100 000 forinttól 1 000 000 forintig terjedő bírság szab
 (2) A kivetett bírság összegének megfizetése meghatározott számlaszámra történő befizetéssel történhet.
 
 (3) Az (1) bekezdésben meghatározott rendelkezések megtartását a közlekedési hatóság ellenőrzi.
+
+(4) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés b) és c) pontjában szereplő ügycsoportba tartozó közigazgatási szabályszegés miatt indult közigazgatási hatósági eljárásokban.
+
+(5) A közlekedési hatóság a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott esetekben a jóváhagyási jel használatát megtiltja, és az engedélyt visszavonja.

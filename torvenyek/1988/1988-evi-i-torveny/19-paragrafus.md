@@ -28,7 +28,7 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 (9)
 
-(10) A közlekedési hatóság az uniós jogi aktusban, az e törvényben, valamint e törvény alapján kiadott jogszabályban meghatározott engedélyhez, vagy meghatározott okmány meglétéhez kötött közúti közlekedési szolgáltatással, valamint saját számlás áru- és személyszállítással kapcsolatban az engedélyezési eljárás, a tevékenység ellenőrzése, az engedély felfüggesztése, vagy visszavonása, és az ezzel összefüggő szankciók megállapítása, az uniós jogi aktusban meghatározott járművezetői igazolvány kibocsátása, megtagadása és visszavonása során
+(10) A közlekedési hatóság az uniós jogi aktusban, az e törvényben, valamint e törvény alapján kiadott jogszabályban meghatározott engedélyhez, vagy meghatározott okmány meglétéhez kötött közúti közlekedési szolgáltatással, valamint saját számlás áru- és személyszállítással kapcsolatban az engedélyezési eljárás, a tevékenység ellenőrzése, az eltiltás, az engedély visszavonása, és az ezzel összefüggő szankciók megállapítása, az uniós jogi aktusban meghatározott járművezetői igazolvány kibocsátása, megtagadása és visszavonása során
 
 a) a gazdálkodó szervezet vezetésére (ügyvezetésére) jogosult személyre,
 

@@ -48,4 +48,4 @@ terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megs�
 
 (6) A (4) bekezdés szerint kijelölt hatóság a közigazgatási bírság kiszabására irányuló eljárásban közvetlenül adathozzáféréssel átveheti a gépjármű-nyilvántartásból a szabályszegés bizonyításához szükséges külön jogszabály szerinti jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat.
 
-(7)
+(7) Az (1) bekezdésben felsorolt ügycsoportba tartozó, a Kormány rendeletében meghatározott egyes jogsértések miatt indult közigazgatási hatósági eljárásokban alkalmazott szankciókat nem kell bejegyezni a Közigazgatási Szankciók Nyilvántartásába, valamint ezen jogsértések esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.

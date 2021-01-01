@@ -52,7 +52,7 @@ b) – ha a NIF Zrt. vagy a közút 33. § (1) bekezdés b) pont ba) alpontja sz
 
 (6) A 32. § (6) bekezdésében meghatározott szervezet a befejezett beruházások magyar állam tulajdonában álló területének rendezése során saját hatáskörben a magyar állam javára és nevében jár el. A befejezett beruházások területének rendezése érdekében megvásárolt, kisajátított vagy más jogcímen megszerzett további földrészlet a magyar állam tulajdonába és e törvény erejénél fogva, ellenérték nélkül a 32. § (6) bekezdésében meghatározott szervezet vagyonkezelésébe kerül, amely köteles azt az ingatlan-nyilvántartásba bejegyeztetni. A 32. § (6) bekezdésében meghatározott szervezet a vagyonkezelői jog bejegyzésére vonatkozó, a fővárosi és megyei kormányhivatal által kiadott határozatot haladéktalanul köteles az MNV Zrt. részére tájékoztatásul megküldeni.
 
-(7) Közút, közforgalom elől el nem zárt magánút létesítéséhez, korszerűsítéséhez (továbbiakban együtt: építés), forgalom részére történő átadásához, megszüntetéséhez, elbontásához – mint fontos közérdekű és közcélú tevékenység végzéséhez – a közlekedési hatóság engedélye szükséges. Az engedélyezési eljárások ügyintézési határideje 55 nap.
+(7) Közút, közforgalom elől el nem zárt magánút szilárd burkolattal történő létesítéséhez, korszerűsítéséhez, építési engedélytől való eltéréséhez (továbbiakban együtt: építés), forgalom részére történő átadásához, megszüntetéséhez, elbontásához – mint fontos közérdekű és közcélú tevékenység végzéséhez – a közlekedési hatóság engedélye szükséges. Az engedélyezési eljárások ügyintézési határideje 55 nap.
 
 (8) Aki hatósági engedély nélkül épít utat, vagy az engedélyben foglaltaktól eltér, azt a közlekedési hatóság az eredeti állapot helyreállítására vagy – amennyiben az út a külön jogszabályban foglalt feltételeknek megfelel vagy megfelelővé alakítható át – a fennmaradáshoz szükséges intézkedések megtételére kötelezi.
 
@@ -94,8 +94,14 @@ cb) amelynek megvalósítása – akár műszaki adottságai, akár aránytalan 
 
 (15) A Komplex Közlekedési Ellenőrző Pontok kiépítése során építtetőként az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve jár el.
 
-(16) Járda, gyalogút és azok két méter szabadnyílást meg nem haladó műtárgyai építését, korszerűsítését, forgalomba helyezését és megszüntetését (elbontását), valamint ezek nem közlekedési célú igénybevételét (ide nem értve a gyalog-, és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) a közlekedési hatóságnak kell bejelenteni. A bejelentésben meg kell jelölni a bejelentő
+(16) A közlekedési hatóságnak be kell jelenteni:
 
-a) természetes személy természetes személyazonosító adatait, illetve
+a) közút, közforgalom elől el nem zárt magánút földút szintű kiépítését és azok két méter szabadnyílást meg nem haladó műtárgyai – kivéve a nem kizárólag az építtető (építtetők) tulajdonában álló területen történő – építését, korszerűsítését, forgalomba helyezését és megszüntetését (elbontását),
 
-b) jogi személy vagy jogi személyiség nélküli gazdasági társaság cégadatait.
+b) járda, gyalogút és azok két méter szabadnyílást meg nem haladó műtárgyai – kivéve a nem kizárólag az építtető tulajdonában álló területen történő – építését, korszerűsítését, forgalomba helyezését és megszüntetését (elbontását), valamint ezek nem közlekedési célú igénybevételét (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést),
+
+c) vasúti átjáró átépítése, felújítása, korszerűsítése során szükséges ideiglenes terelőút kiépítését és elbontását, vagy a már meglévő – de elzárt terelőút – ideiglenes megnyitását és elzárását a vasúti átjáró ismételt üzembehelyezésével egyidejűleg,
+
+d) útfelújítás, korszerűsítés során a munkaterületen ideiglenes terelőút kiépítését és elbontását, valamint eredeti állapotba történő visszaállítását az útfelújítással érintett út műszaki átadás átvételét követő 8 napig bezárólag,
+
+e) bárki által igénybe vehető létesítményhez szükséges parkolóhelyek és a hozzájuk vezető legfeljebb 50 m hosszú útfelület kiépítését az építéssel érintett ingatlanon összesen (meglévő és tervezett) 10 parkolóhelyig az útügyi műszaki előírások betartásával.

@@ -14,8 +14,8 @@
 
 (6) A jármű időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság által a tevékenység folytatására jogosult személyekről vezetett közhiteles hatósági nyilvántartás tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 
-(7)
+(7) A közlekedési hatóság e törvény végrehajtására kiadott jogszabályban meghatározott esetekben a műszaki vizsgabiztos engedélyét felfüggeszti, vagy visszavonja és a nyilvántartásból törli.
 
-(8)
+(8) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (5a) bekezdésben szereplő jogsértések miatt indult közigazgatási hatósági eljárásokban.
 
 (9)

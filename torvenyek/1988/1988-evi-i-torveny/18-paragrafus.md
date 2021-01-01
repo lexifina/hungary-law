@@ -22,7 +22,9 @@ a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki, és az
 
 b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
-(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőket 200 000 Ft-ig terjedő bírság fizetésére kötelezheti. A bírság ismételten is kiszabható. A bírság mellett a közlekedési hatóság a képző szerv tevékenységét – jogszabályban meghatározott esetekben – felfüggesztheti, illetve az engedélyt visszavonhatja.
+(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost a tevékenység végzésétől eltilthatja.
+
+(7a) A (7) bekezdésben meghatározott eljárásokban figyelmeztetés alkalmazásának nincs helye.
 
 (8) A (2) bekezdés szerinti tanfolyami képzésben az iskolavezető és a szakoktató iskolavezetői és szakoktatói tevékenységét abban az esetben végezheti, ha a külön jogszabály szerinti feltételeknek megfelel, és a közlekedési hatóság engedélyezte iskolavezetői, illetve szakoktatói tevékenységét. A közúti járművezetők vizsgáztatását, utánképzését és képzésfelügyeletét, a közúti közlekedési szakemberek vizsgáztatását és képzésfelügyeletét, valamint a közúti járművezetők pályaalkalmassági vizsgálatát a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló vagy az általa alapított nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi. A közúti közlekedési szakemberek vizsgáinak szervezésében a közlekedési hatóság vagy a vizsgaközpont által megbízott képző szerv közreműködhet. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek tevékenységét a közlekedési hatóság engedélyezte, büntetlen előéletű, nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás vagy közúti járművezetéstől eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -64,7 +66,7 @@ f) a nyilvántartásba vétel száma, időpontja,
 
 (10) A névjegyzék adatai közül a (2) bekezdés szerint tevékenység végzésére jogosultak családi neve és utóneve, születési családi neve és utóneve, a névjegyzéket vezető közlekedési hatóság megnevezése és a névjegyzékbe vételt igazoló okmány száma, a kiadás dátuma nyilvánosak.
 
-(11) Az iskolavezetői és a szakoktatói tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja, a vizsgabiztosi tevékenység folytatását megtiltja, és az iskolavezetőt, a szakoktatót, a vizsgabiztost a névjegyzékből törli, ha:
+(11) Az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja, felhívja a figyelmet arra, hogy a tevékenység ennek hiányában nem végezhető, továbbá az iskolavezetőt, a szakoktatót, a vizsgabiztost a névjegyzékből törli, ha:
 
 a) az engedélyezés vagy a bejelentés feltételei nem állnak fenn,
 
@@ -72,13 +74,13 @@ b) az iskolavezető kivételével nem rendelkezik érvényes vezetői engedélly
 
 c) kötelező továbbképzésen nem vett részt vagy nem tett sikeres vizsgát,
 
-d) a névjegyzékbe felvett személy elhalálozott,
+d) a névjegyzékbe felvett személy elhunyt,
 
 e) a névjegyzékbe felvett személy ezt kérelmezi, vagy
 
 f) az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenységre – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló rendeletben – meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
 
-(12) A (11) bekezdés f) pontjában meghatározott esetben a névjegyzékből való törlés határozott időre, legfeljebb azonban öt évre történhet.
+(12)
 
 (13) A közúti járművezetők és a közúti közlekedési szakemberek képesítésmegszerzési kötelezettségéhez kapcsolódó elméleti és gyakorlati vizsgák sikeres teljesítéséről a közúti járművezetők részére a vizsgaigazolást, illetve a közúti közlekedési szakemberek részére a képesítés megszerzését igazoló okmányt a vizsgaközpont adja ki.
 
