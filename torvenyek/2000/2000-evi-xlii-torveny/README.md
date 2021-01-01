@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2020-07-22 | 2020. évi LXXXVI. törvény | 2000-42-00-00.52 |
 | 2020-07-30 | 2020. évi LXXXVI. törvény | 2000-42-00-00.53 |
 | 2020-12-19 | 2020. évi CXXXVII. törvény | 2000-42-00-00.54 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 2000-42-00-00.55 |

@@ -26,30 +26,32 @@ l) úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztásár
 
 vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti.
 
-(2) A bírság összege legfeljebb 5 000 000.
+(2)
 
-(3) A hajózási hatóság a hajózási bírság összegének megállapításánál mérlegeli:
+(3) A hajózási hatóság – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túlmenően – a hajózási bírság összegének megállapítása során mérlegeli:
 
 a) a jogsértés víziközlekedés biztonságára gyakorolt hatását,
 
-b) a jogsértő vagyoni helyzetét jövedelmi viszonyait,
+b) a jogsértő vagyoni helyzetét, jövedelmi viszonyait,
 
-c) a jogsértő magatartás felróhatóságát, valamint a jogsértő személy korábbi jogsértő magatartását,
+c) a jogsértő magatartás felróhatóságát,
 
-d) a jogsértő magatartás emberi életet és testi épséget veszélyeztető jellegét,
-
-e) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
-
-f) a jogsértéssel okozott hátrány visszafordíthatóságát,
-
-g) a jogsértéssel érintettek körének nagyságát,
-
-h) a jogsértő állapot időtartamát,
-
-i) a jogsértő magatartás ismétlődését és gyakoriságát,
-
-j) a jogsértést elkövető eljárást segítő, együttműködő magatartását.
+d) a jogsértő magatartás emberi élet és testi épséget veszélyeztető jellegét.
 
 (4) A hajózási bírság ugyanazon cselekményért ismételten is kiszabható, ha a kötelezett a jogsértő tevékenységgel nem hagy fel, vagy a jogsértő állapotot nem szünteti meg.
 
-(5) Nincs helye a hajózási bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt.
+(5)
+
+(6) Közigazgatási szankcióként figyelmeztetés nem alkalmazható
+
+a) a víziközlekedés forgalmának irányítására és a hajóút kitűzésére szolgáló jelek létesítésére, üzemeltetésére és megszüntetésére,
+
+b) a hajózási tevékenység végzésére,
+
+c) a belvízi utakon közlekedési korlátozás alá eső területen üzemeltetett belsőégésű motorral hajtott kishajó, csónak és motoros vízi sporteszköz használatára,
+
+d) az úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére,
+
+e) az úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére
+
+vonatkozó rendelkezések megsértésekor.
