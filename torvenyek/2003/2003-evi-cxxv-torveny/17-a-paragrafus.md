@@ -4,11 +4,13 @@ a) elrendelheti a jogsértő állapot megszüntetését,
 
 b) megtilthatja a jogsértő magatartás jövőbeni tanúsítását,
 
-c) elrendelheti a jogerős határozatának – a jogsértő közérdekből nyilvános adatainak kivételével személyazonosításra alkalmatlan módon – közérdekből nyilvános közzétételét,
+c) elrendelheti a véglegessé vált határozatának – a jogsértő közérdekből nyilvános adatainak kivételével személyazonosításra alkalmatlan módon – közérdekből nyilvános közzétételét,
 
 d) bírságot szabhat ki,
 
 e) külön törvényben meghatározott jogkövetkezményt alkalmazhat.
+
+(1a) Az (1) bekezdés d) pontja szerinti bírság a központi költségvetés bevétele.
 
 (2) Az (1) bekezdés c) pontja alkalmazásában közérdekből nyilvános adat a természetes személy jogsértő természetes személyazonosító adata és lakcíme, valamint a jogi személy, jogi személyiség nélküli szervezet jogsértő neve, székhelye is.
 

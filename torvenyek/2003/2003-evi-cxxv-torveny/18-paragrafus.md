@@ -4,4 +4,4 @@
 
 (2) Az egyenlő bánásmód követelményének megsértése miatt indult hatósági eljárásban az (1) bekezdés szerinti szervezetet megilletik az ügyfél jogai.
 
-(3) Ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti, az (1) bekezdés szerinti szervezet a hatóság előtt eljárást indíthat.
+(3) Ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti, az (1) bekezdés szerinti szervezet a hatóság előtt eljárást indíthat.

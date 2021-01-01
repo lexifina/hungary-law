@@ -1,1 +1,1 @@
-42. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra a 37. § rendelkezéseit kell alkalmazni azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a hatóság elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
+42. §

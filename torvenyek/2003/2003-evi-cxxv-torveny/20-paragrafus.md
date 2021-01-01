@@ -6,8 +6,8 @@ a) az ügyész,
 
 b) a hatóság,
 
-c) a civil és érdek-képviseleti szervezet,
+c) a civil és érdekképviseleti szervezet,
 
-ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
+ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
 
 (2) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése az (1) bekezdés szerinti hatásköre gyakorlásához nem elengedhetetlenül szükséges.
