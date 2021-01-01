@@ -1,3 +1,3 @@
-4. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^53]
+4. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^56]
 
-[^53]: A 4. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 160. § (4) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^56]: A 4. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 160. § (4) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

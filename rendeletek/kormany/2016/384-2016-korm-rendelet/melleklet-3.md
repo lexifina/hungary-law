@@ -1,3 +1,3 @@
-3. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^52]
+3. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^55]
 
-[^52]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 595. § f) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^55]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 595. § f) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

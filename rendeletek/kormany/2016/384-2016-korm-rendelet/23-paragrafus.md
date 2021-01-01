@@ -26,6 +26,8 @@ c) egyesített telekalakítási eljárás esetén az a) pontban meghatározott n
 
 (10)[^41] A telekalakítási eljárásokban, ha a telekalakítás vasútként nyilvántartott földrészletet érint, akkor a kérelemhez szükséges mellékelni a vasút – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény szerinti – pályahálózat-működtetőjének a hozzájárulását.
 
+(11)[^42] A telekalakítási eljárásokban, ha a telekalakítás az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § c), e) és f) pontjaiban meghatározott joggal terhelt földrészletet érint, a kérelemhez mellékelni szükséges a bejegyzett jog jogosultjának a hozzájárulását.
+
 [^34]: A 23. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 594. § e) és f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^35]: A 23. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^36]: A 23. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 594. § g) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
@@ -34,3 +36,4 @@ c) egyesített telekalakítási eljárás esetén az a) pontban meghatározott n
 [^39]: A 23. § (7) bekezdését a 60/2017. (III. 20.) Korm. rendelet 30. § c) pontja hatályon kívül helyezte.
 [^40]: A 23. § (9) bekezdése a 60/2017. (III. 20.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^41]: A 23. § (10) bekezdését a 38/2020. (III. 10.) Korm. rendelet 18. §-a iktatta be.
+[^42]: A 23. § (11) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 47. §-a iktatta be.
