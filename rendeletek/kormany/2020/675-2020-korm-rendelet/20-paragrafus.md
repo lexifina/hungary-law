@@ -1,0 +1,1 @@
+## „f) az arra történő figyelmeztetést, hogy ha a megállapodás nem jön létre a Be. 851. § (6) bekezdésében meghatározott határidőn belül, a kártalanítást igénylő a határidő lejártát követő két hónapon belül, a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnál kártalanítási pert indíthat.”

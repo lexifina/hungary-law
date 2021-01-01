@@ -1,0 +1,3 @@
+## 7. § A Nyer. 53. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Be. 73. § (5) bekezdés a) pontjában foglalt körülmények miatt a törvényes képviselő büntetőeljárásból való kizárására abban az esetben kerülhet sor, ha a törvényes képviselő terheltként vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személyként vesz részt az eljárásban. Ha a Be. 73. § (5) bekezdés b) pontja alapján a törvényes képviselő büntetőeljárásból való kizárása indokolt, a kizárására, valamint ha annak a Be. 73. § (1) bekezdésében meghatározott feltételei fennállnak, az ügygondnok kirendelésére soron kívül előterjesztést kell tenni az ügyészséghez. A kizárásról szóló döntés elleni jogorvoslatnak nincs halasztó hatálya.”
