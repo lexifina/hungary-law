@@ -27,3 +27,5 @@ d) a miniszter a törlést vizsgálat alapján elrendelte,
 e) azt a jogi személy kéri.
 
 (3) A természetes személy és a jogi személy csak akkor kérheti a névjegyzékből való törlést, ha folyamatban lévő közvetítői eljárásban nem vesz részt.
+
+(4) Az (1) bekezdés c) pontja és a (2) bekezdés d) pontja esetében figyelmeztetés közigazgatási szankció nem alkalmazható.
