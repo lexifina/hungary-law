@@ -1,1 +1,3 @@
-## „(4) Ha a NATO okmánnyal, illetve EU katonai okmánnyal ellátott külföldi fuvarozó – engedélyköteles áruszállítás esetén – nem rendelkezik Magyarország területére való belépésre vagy kilépésre feljogosító nemzetközi közúti áruszállítási engedéllyel, e tényről a vámhatóság – ha a határátlépés helyszínén jelen van – soron kívül értesíti a katonai vámügyi szervet, amely igazolást adhat ki arról, hogy a szállítás nemzetközi katonai tevékenységgel összefüggésben történik. Az igazolás alapján a kiléptetést vagy a beléptetést el kell végezni.”
+## 7. §[^6]
+
+[^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

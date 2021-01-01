@@ -1,7 +1,3 @@
-1. melléklet a 18/2020. (XII. 30.) PM rendelethez
+1. melléklet a 18/2020. (XII. 30.) PM rendelethez[^12]
 
-„2. melléklet a 13/2016. (IV. 29.) NGM rendelethez
-
-A katonai vámügyi szerv általi hitelesítésre szolgáló bélyegző mintája
-
-”
+[^12]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
