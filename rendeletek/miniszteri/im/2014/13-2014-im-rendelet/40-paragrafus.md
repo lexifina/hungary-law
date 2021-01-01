@@ -1,3 +1,3 @@
-## 39/A. §[^34] A 2018. július 1-jét megelőzően elrendelt ideiglenes kényszergyógykezelést az előzetes kényszergyógykezelésre vonatkozó szabályok szerint kell beszámítani.
+## 39/A. §[^37] A 2018. július 1-jét megelőzően elrendelt ideiglenes kényszergyógykezelést az előzetes kényszergyógykezelésre vonatkozó szabályok szerint kell beszámítani.
 
-[^34]: A 39/A. §-t a 14/2018. (VI. 15.) IM rendelet 8. §-a iktatta be.
+[^37]: A 39/A. §-t a 14/2018. (VI. 15.) IM rendelet 8. §-a iktatta be.
