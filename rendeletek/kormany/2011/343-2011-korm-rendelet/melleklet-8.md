@@ -1,6 +1,6 @@
-8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^160]
+8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^163]
 
-Nyilvántartásba vételi adatok az újrahasználható csomagolószerek országos környezetvédelmi hatósághoz történő bejelentéséhez[^161]
+Nyilvántartásba vételi adatok az újrahasználható csomagolószerek országos környezetvédelmi hatósághoz történő bejelentéséhez[^164]
 
 1. Alapadatok
 
@@ -56,5 +56,5 @@ Nyilvántartásba vételi adatok az újrahasználható csomagolószerek országo
 
 5.13. keltezés, cégszerű aláírás.
 
-[^160]: A 8. melléklet a 139/2013. (V. 13.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^161]: A 8. melléklet címe a 379/2016. (XII. 2.) Korm. rendelet 190. § e) pontja szerint módosított szöveg.
+[^163]: A 8. melléklet a 139/2013. (V. 13.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^164]: A 8. melléklet címe a 379/2016. (XII. 2.) Korm. rendelet 190. § e) pontja szerint módosított szöveg.
