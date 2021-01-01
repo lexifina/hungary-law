@@ -1,0 +1,1 @@
+## 18. § Ha az 5. § (2) bekezdése szerinti egészségügyi katona 2021. január 1-jén érvényes, 5. § (3) bekezdése szerinti illetménye kevesebb, mint a Hjt. szerinti 2020. december 31-én érvényes illetmény távolléti díjba tartozó elemeinek összege, akkor részére az 5. § (3) bekezdése szerinti illetményt a különbözettel megnövelt összegben kell megállapítani.
