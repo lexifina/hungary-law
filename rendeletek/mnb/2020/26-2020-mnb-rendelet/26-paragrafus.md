@@ -19,3 +19,5 @@ b) a 27. § (1) bekezdése szerinti állam pénzmosás és a terrorizmus finansz
 c) nyilvános forrásból és
 
 d) tudományos intézményektől
+
+származó információkat vehet figyelembe.

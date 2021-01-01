@@ -7,3 +7,5 @@
 a) amely pénzforgalmi szolgáltatási tevékenységet végez, vagy
 
 b) amelynek ügyfeleinek száma a tárgyévet megelőző év végén meghaladta az ötvenezret,
+
+automatikus szűrőrendszert működtet.

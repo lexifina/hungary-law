@@ -14,7 +14,7 @@ ba) a Pmt. hatálya alá tartozó szolgáltatónál belső ellenőrzési vagy me
 
 bb) a Pmt. 5. §-ában meghatározott felügyeletet ellátó szervnél a Pmt. hatálya alá tartozó felügyeleti tevékenység ellátása területén szerzett szakmai gyakorlattal
 
-## rendelkezik.
+rendelkezik.
 
 (4) A szolgáltató az egyes munkakörök betöltéséhez szükséges mélységű képzési programot állít össze, a képzési program az egyes munkakörök betöltéséhez szükséges témaköröket tartalmazza.
 

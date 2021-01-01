@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-26-20-2
 | --- | --- | --- |
 | 2020-10-01 | 2020-26-20-2C.1 | 26/2020. (VIII. 25.) MNB rendelet |
 | 2020-10-02 | 2020-26-20-2C.2 | 2010: CXXX. törvény |
+| 2021-01-01 | 2020-26-20-2C.3 | 30/2024. (VI. 24.) MNB rendelet |

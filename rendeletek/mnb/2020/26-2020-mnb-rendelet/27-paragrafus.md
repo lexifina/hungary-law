@@ -1,5 +1,3 @@
-## származó információkat vehet figyelembe.
-
 27. § (1) Ha a szolgáltató ki van téve más tagállam vagy harmadik ország pénzmosási és terrorizmusfinanszírozási kockázatainak, a szolgáltató ezeket a kockázatokat is beazonosítja.
 
 (2) A szolgáltató az (1) bekezdés szerinti kockázatokat különösen abban az esetben azonosítja be, ha a szolgáltató

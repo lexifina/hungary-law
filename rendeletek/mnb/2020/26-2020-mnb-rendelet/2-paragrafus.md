@@ -10,7 +10,7 @@ a) a kedvezményezett vagy a fizető fél lakóhelye vagy székhelye vagy
 
 b) bármelyik pénzforgalmi szolgáltató székhelye
 
-## az Európai Unió területén kívül található,
+az Európai Unió területén kívül található,
 
 3. elektronikus ügyfélazonosító és nyilatkozattételi rendszer: olyan személyre szabott elektronikus eljárást biztosító rendszer, amely a nyilatkozattevő személyének és a nyilatkozat megtétele időpontjának egyértelmű azonosítására és a jognyilatkozat tartalmának változatlan visszaidézésére alkalmas formában teszi lehetővé a jognyilatkozat megtételét,
 
@@ -22,7 +22,7 @@ b) birtoklás, azaz csak az ügyfél által birtokolt dolog, és
 
 c) biológiai tulajdonság, azaz az ügyfél jellemzője
 
-## kategóriába sorolható elem felhasználásával, amely kategóriák egymástól függetlenek annyiban, hogy az egyik feltörése nem befolyásolja a többi megbízhatóságát, és az eljárás kialakítása révén biztosított az azonosítási adatok bizalmassága,
+kategóriába sorolható elem felhasználásával, amely kategóriák egymástól függetlenek annyiban, hogy az egyik feltörése nem befolyásolja a többi megbízhatóságát, és az eljárás kialakítása révén biztosított az azonosítási adatok bizalmassága,
 
 5. kockázati profil: a beazonosított pénzmosási és terrorizmusfinanszírozási kockázatok csökkentését követően megmaradó kockázat általános jellege, beleértve a kockázat típusát és szintjét is,
 

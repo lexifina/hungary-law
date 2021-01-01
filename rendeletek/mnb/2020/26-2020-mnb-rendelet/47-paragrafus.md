@@ -6,6 +6,6 @@
 
 (2) A 36. § (1) bekezdés f) és g) pontja 2021. január 1-jén lép hatályba.
 
-(3)[^3]
+(3)[^2]
 
-[^3]: A 47. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 47. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -9,3 +9,5 @@ c) ügyfélszám,
 d) ügylettípus vagy
 
 e) összeghatár
+
+alapján történő leválogatására.

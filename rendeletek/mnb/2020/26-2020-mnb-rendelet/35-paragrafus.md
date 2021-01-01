@@ -1,5 +1,3 @@
-## automatikus szűrőrendszert működtet.
-
 35. § (1) A szolgáltató a szűrőrendszer működéséről, a kiszűrt ügyfél, valamint az ügylet elemzésének és értékelésének menetéről belső eljárásrendet készít.
 
 (2) Az (1) bekezdés szerinti belső eljárásrendet a szolgáltató írásban rögzíti, naprakészen tartja, és az illetékes felügyeleti hatóságok rendelkezésére bocsátja.

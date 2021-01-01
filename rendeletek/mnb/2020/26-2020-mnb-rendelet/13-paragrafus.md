@@ -1,12 +1,10 @@
-## végzi el.
-
 13. § (1) A szolgáltató a 12. § a) pontja szerint végzi a közvetett elektronikus ügyfél-átvilágítást, ha
 
 a) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) 1. § 17. pont j) és l) alpontja szerint elektronikus ügyintézést biztosító szervnek minősülő, az elektronikusan intézhető ügyek adatbázisában szereplő szolgáltató vagy
 
 b) az Eüsztv. 42/A. §-a szerint szolgáltatást igénybe vevő piaci szereplő
 
-## végzi auditált elektronikus hírközlő eszköz útján, és annak során az ügyfél az Eüsztv. szerinti elektronikus azonosítási szolgáltatással azonosítja magát.
+végzi auditált elektronikus hírközlő eszköz útján, és annak során az ügyfél az Eüsztv. szerinti elektronikus azonosítási szolgáltatással azonosítja magát.
 
 (2) Az (1) bekezdésben foglalt elektronikus azonosítási szolgáltatás megvalósítása érdekében a szolgáltató
 

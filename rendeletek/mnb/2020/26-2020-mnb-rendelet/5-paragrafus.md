@@ -20,7 +20,7 @@ fc) az International Information Systems Security Certification Consortium Inc. 
 
 fd) az Információbiztonsági irányítási rendszerekre vonatkozó ISO/IEC 27001 Vezető Auditor (Lead Auditor)
 
-## képesítéssel és minősítéssel,
+képesítéssel és minősítéssel,
 
 g) a Pmt.-ben előírt ügyfél-átvilágítás és elektronikus azonosítás során a szolgáltató birtokába jutott személyes adatokat és személyes adatnak nem minősülő adatokat az adatkezelés időtartama alatt az érintett részére hozzáférhetővé tegye, átadja, valamint
 
