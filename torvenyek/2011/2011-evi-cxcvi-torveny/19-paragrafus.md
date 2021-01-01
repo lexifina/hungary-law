@@ -6,4 +6,6 @@ b) 5. §-a, 9. §-a és 12. § (2) bekezdése az Alaptörvény 31. cikk (3) beke
 
 c) 14. §-a, 15. §-a és 17. § (1)–(1a) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
 
+d) 14/A. §-a és 18/D. §-a az Alaptörvény 38. cikk (1) bekezdése alapján
+
 sarkalatosnak minősül.

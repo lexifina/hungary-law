@@ -26,7 +26,9 @@ k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvén
 
 l) dohánytermékek kiskereskedelme, illetve a dohánykiskereskedelem-ellátási tevékenység,
 
-m) az a)–l) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
+m) az egységes elektronikus értékesítésű közszolgáltatások egységes rendszerének működtetése,
+
+n) az a)–m) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 

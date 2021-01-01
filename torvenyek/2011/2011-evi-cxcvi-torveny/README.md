@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-196-00-00
 | 2020-10-29 | 2020. évi CVI. törvény | 2011-196-00-00.43 |
 | 2020-12-23 | 2020. évi CLXXII. törvény | 2011-196-00-00.44 |
 | 2020-12-25 | 2020. évi CLXXII. törvény | 2011-196-00-00.45 |
+| 2021-01-01 | 2020. évi CLXXII. törvény | 2011-196-00-00.46 |

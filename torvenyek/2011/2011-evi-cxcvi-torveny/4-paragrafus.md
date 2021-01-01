@@ -30,7 +30,7 @@ k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működés�
 
 l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
 
-(2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
+(2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint külön törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
 
 (3)
 

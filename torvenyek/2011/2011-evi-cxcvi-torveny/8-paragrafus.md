@@ -8,6 +8,8 @@
 
 (5) Amennyiben az a gazdasági társaság, amelyet olyan gazdasági társaság alapított, vagy amelyben olyan gazdasági társaság szerzett részesedést, amelyben az állam vagy a helyi önkormányzat e törvény szerinti többségi befolyással rendelkezik, az alapítását vagy részesedésszerzést követően válik nem átláthatóvá, azon társaság, amelyben az állam vagy a helyi önkormányzat többségi befolyással rendelkezik, kezdeményezi a társasági szerződés felülvizsgálatát és a gazdasági társaság tulajdonosi szerkezetének e törvény átlátható szervezetre vonatkozó előírásainak megfelelő átalakítását.
 
+(5a) Az átláthatóság vizsgálata nem terjed ki a részesedésszerzéssel vagy alapítással érintett Európai Gazdasági Térségről szóló megállapodásban részes állam szabályozott piacára bevezetett nyilvánosan működő részvénytársaság nem természetes személy tagjára, valamint az Európai Gazdasági Térségről szóló megállapodásban részes állam szabályozott piacára bevezetett, átruházható értékpapírral kapcsolatos jogügyletben félként érintett személyekre.
+
 (6) A 100%-os állami vagy önkormányzati tulajdonban álló gazdasági társaság azon közfeladat végzésére, amelynek ellátására alapították – az állami vagyonról szóló törvény szerinti tulajdonosi joggyakorló társaságok, valamint a (8) bekezdés szerinti eset kivételével – gazdasági társaságot nem alapíthat.
 
 (7) Gazdasági társaságban fennálló állami vagy önkormányzati tulajdonban lévő társasági részesedés nem lehet vagyonkezelés tárgya. A társasági részesedés tulajdonosi joggyakorlója nevében és helyett más személy megbízáson alapuló meghatalmazással járhat el a tulajdonosi jogok egészének vagy meghatározott részének gyakorlása során. Meghatalmazás kizárólag a 3. § (1) bekezdés 19. pontjában meghatározott személyek részére adható.
@@ -32,10 +34,12 @@ jóváhagyó határozata szükséges.
 
 (13) A (10) bekezdésben foglalt rendelkezést nem kell alkalmazni abban az esetben, ha az állam vagy a helyi önkormányzat külön-külön vagy együttesen 100%-os tulajdonában álló gazdasági társaság részesedésszerzésével valósul meg a tőkeemelés. A részesedésszerző gazdasági társaságban fennálló társasági részesedésre e törvény erejénél fogva – az állam és a helyi önkormányzat által történő tulajdonszerzést kivéve – 5 évig elidegenítési és terhelési, valamint a gazdasági társaság tagjain kívüli harmadik személy általi tőkeemelési tilalom áll fenn.
 
-(14) Azon gazdasági társaság esetén, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együttesen e törvény szerinti többségi befolyással rendelkezik, a következő döntések kizárólag a társaság legfőbb szervének hatáskörébe tartozhatnak:
+(14) Azon gazdasági társaság esetén, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együttesen e törvény szerinti többségi befolyással rendelkezik, a következő döntések – a (14a) bekezdésben meghatározott kivétellel – kizárólag a társaság legfőbb szervének hatáskörébe tartozhatnak:
 
 a) gazdálkodó szervezet alapítása vagy megszüntetése,
 
 b) gazdálkodó szervezetben részesedés megszerzése vagy átruházása.
+
+(14a) A (14) bekezdésben foglaltakat nem kell alkalmazni az olyan fejlesztési célú tőkefinanszírozáshoz kapcsolódó döntések esetén, amikor a fejlesztési célú tőkefinanszírozást végrehajtó gazdasági társaság részesedése a gazdálkodó szervezetben nem éri el az 50%-os szavazati mértéket, továbbá az olyan 100%-os állami tulajdonú gazdasági társaságok esetén, amelyek gazdálkodó szervezetekben fennálló részesedések kezelésével kapcsolatos feladatokat üzletszerűen látnak el.
 
 (15) Azon gazdasági társaság, amelyben az állam vagy helyi önkormányzat külön-külön vagy együttesen e törvény szerinti többségi befolyással rendelkezik – ide nem értve a kockázati tőkebefektetéssel üzletszerűen foglalkozó állami vagy önkormányzati többségi befolyással rendelkező gazdasági társaságokat, valamint azon gazdasági társaságokat, amelyekben a részesedésszerzés fejlesztési célú tőkefinanszírozás útján valósul meg –, az állami vagy a helyi önkormányzati tulajdonoson kívül más tulajdonosnak szavazatelsőbbséget vagy más olyan különleges jogot nem biztosíthat, amely a tulajdoni arányoktól eltérő mértékű szavazati jogot eredményez. Az ezzel ellentétes létesítő okiratban lévő vagy más szerződés kikötés semmis.
