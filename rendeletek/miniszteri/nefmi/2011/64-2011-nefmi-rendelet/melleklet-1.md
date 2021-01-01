@@ -1,8 +1,10 @@
+## 17. §[^32] Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom tanácsi irányelvnek való megfelelést szolgálja.
+
 1. melléklet a 64/2011. (XI. 29.) NEFMI rendelethez
 
 ## Folyamatos továbbképzés alapján megszerezhető legmagasabb pontértékek (továbbképzési pontok)
 
-1.[^30] Elméleti továbbképzési tanfolyamok
+1.[^33] Elméleti továbbképzési tanfolyamok
 
 1.1. Kötelező szintentartó továbbképzésen vagy a 4. § (1) bekezdés a) pontja szerinti minősített elméleti tanfolyamon való részvétel óránként 2 pont.
 
@@ -86,4 +88,5 @@ Az egyéni továbbképzés célja az adott szakterületen belül új szakmai ism
 
 A legmagasabb adható pontérték szakképesítésenként évente 30 pont.
 
-[^30]: Az 1. melléklet 1. pontja a 2/2013. (I. 2.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^32]: A 17. §-t a 49/2020. (XII. 23.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^33]: Az 1. melléklet 1. pontja a 2/2013. (I. 2.) EMMI rendelet 33. §-ával megállapított szöveg.

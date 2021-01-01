@@ -4,12 +4,12 @@
 
 (3) Annak a továbbképzésre kötelezettnek az esetében, aki folyamatban lévő továbbképzési időszak ideje alatt szerez újabb szakképesítést, az újabb szakképesítés tekintetében a működési nyilvántartás első alkalommal történő megújítása a folyamatban lévő továbbképzési időszak lejártakor történik. A folyamatban lévő továbbképzési időszakban megszerzett új szakképesítés vonatkozásában a működési nyilvántartás első alkalommal történő megújításakor a továbbképzési időszak – az új szakképesítés megszerzésére figyelemmel – teljesítettnek minősül.
 
-(4)[^21] Adott továbbképzési időszakban megszerzett licenc vizsga esetében azon szakképesítés tekintetében, amely a licenc képzés megkezdéséhez jogszabály szerint előfeltétel, a szabadon választható elméleti továbbképzési kötelezettség teljesítettnek minősül.
+(4)[^23] Adott továbbképzési időszakban megszerzett licenc vizsga esetében azon szakképesítés tekintetében, amely a licenc képzés megkezdéséhez jogszabály szerint előfeltétel, a szabadon választható elméleti továbbképzési kötelezettség teljesítettnek minősül.
 
-(5)[^22] Az a továbbképzésre kötelezett, aki a nyilvántartást vezető szerv által biztosított elektronikus felületen évente legalább egy alkalommal visszajelzi a működési nyilvántartási adatai helyességét, vagy aktualizálja azokat, évente 3 szabadon választható elméleti továbbképzési pontra jogosult.
+(5)[^24] Az a továbbképzésre kötelezett, aki a nyilvántartást vezető szerv által biztosított elektronikus felületen évente legalább egy alkalommal visszajelzi a működési nyilvántartási adatai helyességét, vagy aktualizálja azokat, évente 3 szabadon választható elméleti továbbképzési pontra jogosult.
 
-(6)[^23] Ha a továbbképzésre kötelezett több szakképesítésnek megfelelő szakmát önállóan gyakorol, a működési nyilvántartás aktualizálására tekintettel járó szabadon választható elméleti továbbképzési pontérték jóváírására valamennyi szakképesítése tekintetében sor kerül.
+(6)[^25] Ha a továbbképzésre kötelezett több szakképesítésnek megfelelő szakmát önállóan gyakorol, a működési nyilvántartás aktualizálására tekintettel járó szabadon választható elméleti továbbképzési pontérték jóváírására valamennyi szakképesítése tekintetében sor kerül.
 
-[^21]: A 12. § (4) bekezdését a 23/2012. (IX. 14.) EMMI rendelet 15. §-a iktatta be.
-[^22]: A 12. § (5) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 6. §-a iktatta be.
-[^23]: A 12. § (6) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 6. §-a iktatta be.
+[^23]: A 12. § (4) bekezdését a 23/2012. (IX. 14.) EMMI rendelet 15. §-a iktatta be.
+[^24]: A 12. § (5) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 6. §-a iktatta be.
+[^25]: A 12. § (6) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 6. §-a iktatta be.
