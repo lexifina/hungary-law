@@ -1,10 +1,10 @@
-24. § (1)[^7] A birtokvédelmi határozatban foglalt kötelezettség végrehajtására irányuló eljárásban (a továbbiakban: végrehajtási eljárás) az Ákr. végrehajtásra vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy
+24. § (1)[^9] A birtokvédelmi határozatban foglalt kötelezettség végrehajtására irányuló eljárásban (a továbbiakban: végrehajtási eljárás) az Ákr. végrehajtásra vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy
 
-a)[^8] ahol az Ákr. jogosultat említ, azon a jegyző birtokvédelmi határozatában foglaltak jogosultját,
+a)[^10] ahol az Ákr. jogosultat említ, azon a jegyző birtokvédelmi határozatában foglaltak jogosultját,
 
-b)[^9] ahol az Ákr. kötelezettet említ, azon a jegyző által a birtokvédelmi határozatban kötelezettet,
+b)[^11] ahol az Ákr. kötelezettet említ, azon a jegyző által a birtokvédelmi határozatban kötelezettet,
 
-c)[^10] ahol az Ákr. ügyfelet említ, azon a birtokvédelmi eljárásban részt vevő feleket
+c)[^12] ahol az Ákr. ügyfelet említ, azon a birtokvédelmi eljárásban részt vevő feleket
 
 ## kell érteni.
 
@@ -12,7 +12,7 @@ c)[^10] ahol az Ákr. ügyfelet említ, azon a birtokvédelmi eljárásban rész
 
 (3) A birtokvédelmi határozatban foglalt kötelezettség végrehajtása iránt indult eljárásban a jegyző felügyeleti szerve az illetékes fővárosi és megyei kormányhivatal.
 
-[^7]: A 24. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
-[^8]: A 24. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
-[^9]: A 24. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
-[^10]: A 24. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
+[^9]: A 24. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
+[^10]: A 24. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
+[^11]: A 24. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
+[^12]: A 24. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 525. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító törvény 618. §-át.
