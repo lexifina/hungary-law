@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-219-20-
 | 2019-01-01 | 2012-219-20-22.11 | 425/2012. (XII. 29.) Korm. rendelet |
 | 2020-01-01 | 2012-219-20-22.12 | 425/2012. (XII. 29.) Korm. rendelet |
 | 2020-03-01 | 2012-219-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2021-01-01 | 2012-219-20-22.14 | 425/2012. (XII. 29.) Korm. rendelet |
