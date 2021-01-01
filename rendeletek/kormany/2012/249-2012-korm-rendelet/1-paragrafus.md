@@ -8,10 +8,10 @@
 
 (4)[^4]
 
-(5)[^5] A NAV állományába tartozó kormánytisztviselőkre és kormányzati ügykezelőkre a 2. § és 9. § hatálya nem terjed ki.
+(5)[^5]
 
 [^1]: Az 1. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 46. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 114. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 114. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^5]: Az 1. § (5) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 46. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (5) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 46. § (1) bekezdése iktatta be, hatályon kívül helyezte a 671/2020. (XII. 28.) Korm. rendelet 25. §-a.
