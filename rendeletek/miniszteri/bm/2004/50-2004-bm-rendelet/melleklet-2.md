@@ -16,13 +16,13 @@
 
 | 7. | Szervezeteknél a lőfegyvert, lőszert birtokló alkalmazottak foglalkoztatásához szükséges hozzájárulás, illetve az alkalmazotti engedély kiadása | 2 000 |
 
-| 8. | Lőfegyver, lőszer behozatali, kiviteli átszállítási engedélyezése forgalmazás (kereskedelem) céljából | 30 000 |
+| 8. | Lőfegyver, lőszer-, lőszerelem-behozatali, kiviteli átszállítási engedélyezése forgalmazás (kereskedelem) céljából | 30 000 |
 
-| 9. | Lőfegyver, lőszer behozatali, kiviteli, átszállítási engedélyezése turista forgalomban fegyverenként – csak lőszer esetén Határvámhivatal igazolása | 4 500 2 000 3 000 |
+| 9. | Lőfegyver, lőszer behozatali, kiviteli, átszállítási engedélyezése turista forgalomban fegyverenként (a színházi tűzfegyver kivételével) – csak lőszer esetén Határvámhivatal igazolása | 4 500 2 000 3 000 |
 
-| 10. | Lőfegyver tartásának engedélyezése lőfegyver tartásának engedélyezésére szolgáló okmány kiállításával (a filmgyártási célú lőfegyver kivételével) | 6 000 |
+| 10. | Lőfegyver tartásának engedélyezése lőfegyver tartásának engedélyezésére szolgáló okmány kiállításával (a filmgyártási célú lőfegyver, valamint a színházi tűzfegyver kivételével) | 6 000 |
 
-| 11. | Újabb lőfegyver tartása engedélyezésének bejegyzése a lőfegyvertartás engedélyezésére szolgáló okmányba | 3 000 |
+| 11. | Újabb lőfegyver tartása engedélyezésének bejegyzése a lőfegyvertartás engedélyezésére szolgáló okmányba (a színházi tűzfegyver kivételével) | 3 000 |
 
 | 12. | A kizárólag 7,5 joule vagy az alatti csőtorkolati energiájú tűzfegyver tartásának engedélyezése (az engedély cseréje, pótlása is) | 2 000 |
 
@@ -30,9 +30,9 @@
 
 | 14. | Az Európai Lőfegyvertartási Engedély kiállítása, meghosszabbítása | 4 000 |
 
-| 15. | Szervezetek lőfegyver tartásának engedélyezése fegyverenként | 3 000 |
+| 15. | Szervezetek lőfegyver tartásának engedélyezése fegyverenként (a színházi tűzfegyver kivételével) | 3 000 |
 
-| 16. | Színházi fegyver tartásának engedélyezése fegyverenként | 2 000 |
+| 16. | Színházi tűzfegyver tartásának engedélyezése fegyverenként (az engedély cseréje, pótlása is) | 2 000 |
 
 | 17. | Muzeális fegyver sportlövészeti célú használatának engedélyezése | 2 000 |
 
@@ -40,7 +40,7 @@
 
 | 19. | Az engedélyezésre szolgáló okmányokba történő hatósági bejegyzés | 3 000 |
 
-| 20. | A lőfegyver tartásának engedélyezésére szolgáló engedélyek cseréje, pótlása | 4 000 |
+| 20. | A lőfegyver tartására jogosító engedély cseréje, pótlása (a színházi tűzfegyver tartására jogosító engedély cseréje, pótlása kivételével) | 4 000 |
 
 | 21. | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása – 10 db lőfegyverig – 11–25 db lőfegyverig – 25 db lőfegyver fölött | 2 500 4 500 7 000 |
 
@@ -50,9 +50,13 @@
 
 | 24. | Lövészetvezetői tevékenység engedélyezése | 6000 |
 
-| 25. | Színházi fegyver behozatalának, kivitelének, átszállításának engedélyezése – egy fegyver esetén – további fegyverenként | 8000 2000 |
+| 25. | Színházi tűzfegyver behozatalának, kivitelének, átszállításának engedélyezése – egy fegyver esetén – további fegyverenként | 8000 2000 |
 
 | 26. | Elöltöltő fegyver vadászati célú használatának engedélyezése az engedély meglétét igazoló okmány kiállításával (az engedély cseréje, pótlása is) | 6000 |
+
+| 27. | A lőfegyver-kereskedői tevékenység végzésére jogosító engedély cseréje, pótlása | 9000 |
+
+| 28. | A fegyver kezelésére, illetve használatára jogosult személynek a szervezet részére kiadott lőfegyvertartási engedélybe történő bejegyzése, valamint az engedélyből történő törlése, kérelmenként | 2400 |
 
 2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^19]
 
