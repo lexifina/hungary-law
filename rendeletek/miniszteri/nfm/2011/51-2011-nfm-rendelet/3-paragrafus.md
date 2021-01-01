@@ -4,7 +4,7 @@ a)[^4] távhőszolgáltató esetében – a távhőszolgáltatónak értékesít
 
 b) intézmény esetében – a közfeladata ellátása érdekében felhasznált kapcsoltan termelt hő mennyisége, valamint a hőt előállító létesítmény költség és támogatási körülményeinek figyelembevételével – az 1. melléklet 2. pontjában foglalt táblázat E oszlopa
 
-tartalmazza.
+## tartalmazza.
 
 (2)–(3)[^5]
 
