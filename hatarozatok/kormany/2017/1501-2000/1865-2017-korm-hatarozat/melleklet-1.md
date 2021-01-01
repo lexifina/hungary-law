@@ -1,16 +1,10 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a Magyarok Kijevi Egyesülete kijevi elhelyezésének biztosítása érdekében 81 125 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím terhére és a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára az 1. melléklet szerint.
+## 1.[^1]
 
-## Az átcsoportosítás tekintetében
-
-## Felelős: nemzetgazdasági miniszter
-
-## külgazdasági és külügyminiszter
-
-## Határidő: azonnal
-
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1865/2017. (XI. 29.) Korm. határozathoz
+
+7K32733_0
 
 | XVIII. Külgazdasági és Külügyminisztérium XLII. A Költségvetés közvetlen bevételei és kiadásai LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. forintban |
 
@@ -82,4 +76,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
