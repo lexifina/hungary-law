@@ -2,9 +2,9 @@
 
 101. § Legnagyobb adóteljesítménnyel rendelkező adózónak minősül az adózó, ha az adóévet megelőző év utolsó napján csődeljárás, felszámolási eljárás, végelszámolási eljárás, kényszertörlési eljárás alatt nem áll, illetve nem törölt adószámú és
 
-a)[^64] az Art. alkalmazásában – kivéve az Art. 110. §-át –, adóteljesítményének értéke a 1 030 000 000 forintot elérte;
+a)[^65] az Art. alkalmazásában – kivéve az Art. 110. §-át –, adóteljesítményének értéke a 1 130 000 000 forintot elérte;
 
-b)[^65] az Art. 110. §-a alkalmazásában adóteljesítményének értéke a 227 000 000 forintot elérte, és az adóévet megelőző év szeptember 1-jén havonkénti általános forgalmi adó bevallásra volt kötelezett.
+b)[^66] az Art. 110. §-a alkalmazásában adóteljesítményének értéke a 250 000 000 forintot elérte, és az adóévet megelőző év szeptember 1-jén havonkénti általános forgalmi adó bevallásra volt kötelezett.
 
-[^64]: A 101. § a) pontja a 311/2018. (XII. 27.) Korm. rendelet 36. § 13. pontja szerint módosított szöveg.
-[^65]: A 101. § b) pontja a 311/2018. (XII. 27.) Korm. rendelet 36. § 14. pontja szerint módosított szöveg.
+[^65]: A 101. § a) pontja a 670/2020. (XII. 28.) Korm. rendelet 21. § 2. pontja szerint módosított szöveg.
+[^66]: A 101. § b) pontja a 670/2020. (XII. 28.) Korm. rendelet 21. § 3. pontja szerint módosított szöveg.
