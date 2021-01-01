@@ -66,15 +66,15 @@ a) a rendelkezésére álló adatok alapján dönt,
 
 b) az eljárást megszünteti, vagy
 
-c) a 20. § (1) bekezdése szerinti eljárási bírságot szab ki.
+c)[^71] bírságot szab ki.
 
-(11)[^71] Az egészségügyi államigazgatási szerv a (10) bekezdésben meghatározott esetben
+(11)[^72] Az egészségügyi államigazgatási szerv a (10) bekezdésben meghatározott esetben
 
 a) a (10) bekezdés a) pontját alkalmazza, amennyiben az eljárás során keletkezett iratokból, az eljáró szerv rendelkezésére álló egyéb adatokból, valamint az egészségbiztosító vagy a térségi betegút-szervezésért felelős szerv megkeresésének eredményeként, illetve a 9. § (1) bekezdésében meghatározott helyszíni ellenőrzés eredményeként a hiányzó adatok pótolhatóak vagy megállapíthatóak,
 
 b) a (10) bekezdés b) pontját alkalmazza, amennyiben
 
-ba)[^72] a hiányzó adatok pótlására az a) pont szerinti eljárási cselekmények nem vezettek eredményre, és a szolgáltató (10) bekezdésben foglalt határidővel hiánypótlásra történő felszólítása eredménytelen maradt, feltéve, hogy az eljárás során nincs további lehetőség a hiányzó adatok pótlására, megállapítására,
+ba)[^73] a hiányzó adatok pótlására az a) pont szerinti eljárási cselekmények nem vezettek eredményre, és a szolgáltató (10) bekezdésben foglalt határidővel hiánypótlásra történő felszólítása eredménytelen maradt, feltéve, hogy az eljárás során nincs további lehetőség a hiányzó adatok pótlására, megállapítására,
 
 bb) a működési engedély olyan kötelező tartalmi elemét – ideértve a 11. § (2) bekezdés c), l) és o) pontjában foglaltakat – érinti az adatok hiánya, amelyet a finanszírozási szerződés megkötése szempontjából nem szükséges figyelembe venni, vagy olyan szolgáltatót érint, amely nem vesz részt a közfinanszírozásban, vagy
 
@@ -96,5 +96,6 @@ c) a (10) bekezdés c) pontját alkalmazza, amennyiben a szolgáltató pótolta 
 [^68]: A 11. § (7) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 29. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 117. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^69]: A 11. § (8) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 29. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 117. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^70]: A 11. § (10) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 14. §-a iktatta be, szövege a 107/2012. (VI. 1.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^71]: A 11. § (11) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 14. §-a iktatta be.
-[^72]: A 11. § (11) bekezdés b) pont ba) alpontja a 464/2016. (XII. 23.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^71]: A 11. § (10) bekezdés c) pontja a 713/2020. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^72]: A 11. § (11) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 14. §-a iktatta be.
+[^73]: A 11. § (11) bekezdés b) pont ba) alpontja a 464/2016. (XII. 23.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

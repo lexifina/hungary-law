@@ -1,6 +1,6 @@
-## Szabadfoglalkozású jogviszony hatósági nyilvántartásba vétele[^91]
+## Szabadfoglalkozású jogviszony hatósági nyilvántartásba vétele[^92]
 
-12/E. §[^92] (1) Az Eütv. 108/A. §-a szerinti bejelentést a szabadfoglalkozású jogviszonyban álló személy vagy szervezet (a továbbiakban: szabadfoglalkozású egészségügyi dolgozó) teszi meg. Ha a szabadfoglalkozású egészségügyi dolgozó e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
+12/E. §[^93] (1) Az Eütv. 108/A. §-a szerinti bejelentést a szabadfoglalkozású jogviszonyban álló személy vagy szervezet (a továbbiakban: szabadfoglalkozású egészségügyi dolgozó) teszi meg. Ha a szabadfoglalkozású egészségügyi dolgozó e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
 
 (2) A szabadfoglalkozású egészségügyi dolgozó igénybevételére a szervezeti egység működéséhez kapcsolódóan, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 9. § (1) bekezdése szerinti megbízási szerződés alapján kerülhet sor. E megbízási szerződés olyan szakmára köthető, amelyre a szabadfoglalkozású egészségügyi dolgozót igénybe vevő szolgáltató működési engedéllyel rendelkezik.
 
@@ -34,7 +34,7 @@ b) szabadfoglalkozású egészségügyi dolgozó vonatkozásában a működési 
 
 (8) A bejelentés nyilvántartásba vételéről a (7) bekezdés szerinti egészségügyi államigazgatási szerv értesítést küld a bejelentő szabadfoglalkozású egészségügyi dolgozó részére.
 
-(9)[^93] Az egészségügyi államigazgatási szerv a bejelentés szerinti adatokat és a megbízási szerződést megvizsgálja. Ha a bejelentésben foglalt tevékenység nem felel meg a szabadfoglalkozású jogviszony keretében történő tevékenységvégzésre vonatkozó szabályoknak, az egészségügyi államigazgatási szerv a szabadfoglalkozású egészségügyi dolgozó nyilvántartásba vételét visszautasítja.
+(9)[^94] Az egészségügyi államigazgatási szerv a bejelentés szerinti adatokat és a megbízási szerződést megvizsgálja. Ha a bejelentésben foglalt tevékenység nem felel meg a szabadfoglalkozású jogviszony keretében történő tevékenységvégzésre vonatkozó szabályoknak, az egészségügyi államigazgatási szerv a szabadfoglalkozású egészségügyi dolgozó nyilvántartásba vételét visszautasítja.
 
 (10) A (9) bekezdés szerinti határozatot közölni kell
 
@@ -42,9 +42,9 @@ a) a szabadfoglalkozású tevékenységet bejelentővel,
 
 b) a szabadfoglalkozású egészségügyi dolgozót igénybe vevő szolgáltatóval és
 
-c)[^94] közszolgáltatás keretében történő tevékenységvégzés esetén a Nemzeti Egészségbiztosítási Alapkezelővel vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
+c)[^95] közszolgáltatás keretében történő tevékenységvégzés esetén a Nemzeti Egészségbiztosítási Alapkezelővel vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
 
-[^91]: A 12/E. §-t megelőző alcímet a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
-[^92]: A 12/E. §-t a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
-[^93]: A 12/E. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^94]: A 12/E. § (10) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^92]: A 12/E. §-t megelőző alcímet a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
+[^93]: A 12/E. §-t a 172/2016. (VII. 1.) Korm. rendelet 23. §-a iktatta be.
+[^94]: A 12/E. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^95]: A 12/E. § (10) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés b) pontja szerint módosított szöveg.
