@@ -1,4 +1,4 @@
-## 39. [^41] A hulladék-újrafeldolgozás és -újrahasználathoz irányuló támogatás
+## 39. [^35] A hulladék-újrafeldolgozás és -újrahasználathoz irányuló támogatás
 
 74/A. § (1) A hulladék-újrafeldolgozáshoz és -újrahasználathoz nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) más vállalkozás által termelt hulladék újrafeldolgozáshoz és újrahasználatához nyújtható, ha a támogatott beruházás technológiája meghaladja az általánosan elterjedt, nyereségesen alkalmazható technológiát.
 
@@ -20,4 +20,4 @@ b) a kedvezményezett saját hulladékának újrafeldolgozását és újrahaszn�
 
 (8) A beruházás nem eredményezheti az újrafeldolgozandó anyagok iránti kereslet emelkedését a gyűjtési tevékenység növelése nélkül.
 
-[^41]: A 39. alcímet (74/A. §) a 49/2019. (XII. 30.) ITM rendelet 4. §-a iktatta be.
+[^35]: A 39. alcímet (74/A. §) a 49/2019. (XII. 30.) ITM rendelet 4. §-a iktatta be.

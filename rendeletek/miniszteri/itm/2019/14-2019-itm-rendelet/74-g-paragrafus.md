@@ -1,4 +1,4 @@
-## 41. [^46] Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
+## 41. [^40] Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
 
 74/G. § (1) Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) esetén a beruházásnak az alábbi célkitűzések egyikéhez kapcsolódnia kell:
 
@@ -24,4 +24,4 @@ b) a támogatás odaítéléséről szóló döntés időpontját megelőzően a
 
 (4) A támogatás nyújtása nem korlátozódhat meghatározott mezőgazdasági termékekre irányuló beruházásra azzal, hogy a belső piacon jelentkező túlkínálat miatt vagy felvevőpiac hiányában egyes mezőgazdasági termékek kizárhatók a támogatás alkalmazási köréből.
 
-[^46]: A 41. alcímet (74/G–74/J. §) az 59/2020. (XII. 30.) ITM rendelet 12. §-a iktatta be.
+[^40]: A 41. alcímet (74/G–74/J. §) az 59/2020. (XII. 30.) ITM rendelet 12. §-a iktatta be.
