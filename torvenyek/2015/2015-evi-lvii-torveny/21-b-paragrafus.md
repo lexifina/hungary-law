@@ -4,13 +4,13 @@
 
 a) legalább egy, tőle munkajogilag és társasági jogilag független energetikai szakreferenst kell igénybe vennie és
 
-b) a MEKH elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében almérőt kell felszerelnie.
+b) a Hivatal elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében almérőt kell felszerelnie.
 
 (2) Az energetikai szakreferens feladata az energiahatékonysági szemléletmód, energiahatékony magatartásminták meghonosításának elősegítése az igénybevételére köteles gazdálkodó szervezet működésében és döntéshozatalában. Ennek keretében:
 
 a) figyelemmel kíséri a gazdálkodó szervezet energiafelhasználásának változásait, valamint az energiahatékonysági intézkedések megvalósítását,
 
-b) a MEKH elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében alkalmazott almérők adatait nyilvántartja és azokat a c) pont szerinti jelentésben feltünteti,
+b) a Hivatal elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében alkalmazott almérők mérési adatait nyilvántartja és azokat a c) pont szerinti jelentésben feltünteti,
 
 c) tevékenységéről e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmú és rendszerességű jelentést ad a gazdálkodó szervezet számára,
 
@@ -36,7 +36,11 @@ d) büntetlen előéletű; és
 
 e) a regisztrációs díjat megfizette.
 
-(5) A természetes személy energetikai szakreferensnek névjegyzékbe vételét követően évente a 39. § szerinti továbbképzésen kell részt vennie és ötévente szakmai megújító vizsgát kell tennie.
+(5) A természetes személy energetikai szakreferensnek
+
+a) első alkalommal a névjegyzékbe vételét követő év december 31-ig, ezt követően minden év december 31-ig a 39. § szerinti továbbképzésen kell részt vennie és
+
+b) első alkalommal a névjegyzékbe vételét követő ötödik év december 31-ig, ezt követően minden ötödik év december 31-ig szakmai megújító vizsgát kell tennie.
 
 (5a) Ha az energetikai szakreferens az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal haladéktalanul törli a természetes személy energetikai szakreferensek névjegyzékéből.
 
@@ -50,7 +54,7 @@ a) az energetikai szakreferensek névjegyzékében szereplő természetes szemé
 
 b) a regisztrációs díjat megfizette.
 
-(6a) Az energetikai szakreferensek névjegyzékében szereplő természetes személy energetikai szakreferens kizárólag egy energetikai szakreferens gazdálkodó szervezettel állhat a (6) bekezdés a) pontja szerinti jogviszonyban.
+(6a) Az energetikai szakreferensek névjegyzékében szereplő természetes személy egy energetikai szakreferens gazdálkodó szervezet energetikai szakreferenseként jegyezhető be az energetikai szakreferens szervezetek névjegyzékébe.
 
 (6b) Energetikai szakreferensi tevékenységre irányuló szolgáltatást kizárólag névjegyzékben szereplő természetes személy vagy gazdálkodó szervezet energetikai szakreferens, illetve az igénybevételére köteles gazdálkodó szervezet között közvetlenül létrejött szerződés alapján lehet nyújtani vagy igénybe venni.
 

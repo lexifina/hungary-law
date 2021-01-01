@@ -1,0 +1,1 @@
+7/A. § E törvény rendelkezéseinek megsértése esetén nem alkalmazható közigazgatási szankció a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított egy év, vagy az elkövetéstől számított 5 év elteltével.

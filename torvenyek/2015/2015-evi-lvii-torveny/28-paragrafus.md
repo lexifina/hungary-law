@@ -26,7 +26,11 @@ a) az energetikai audit ellenőrzésének eredményeként a 26. § (6) bekezdés
 
 b) a 32. § (7) bekezdés a) pontja alapján amiatt tiltotta meg az energetikai auditálási tevékenység folytatását, mert a bejelentésében valótlan adatot szolgáltatott.
 
-(3) Az energetikai auditornak a névjegyzékbe vételt követően évente egy alkalommal valamely közreműködő szervezet által energetikai auditorok számára szervezett továbbképzésen kell részt vennie, továbbá ötévente szakmai megújító vizsgát kell tennie.
+(3) Az energetikai auditornak
+
+a) első alkalommal a névjegyzékbe vételét követő év december 31-ig, ezt követően minden év december 31-ig a 39. § szerinti továbbképzésen kell részt vennie, és
+
+b) első alkalommal a névjegyzékbe vételét követő ötödik év december 31-ig, ezt követően minden ötödik év december 31-ig szakmai megújító vizsgát kell tennie.
 
 (4) A (3) bekezdésben meghatározott továbbképzésben résztvevőkről és a szakmai megújító vizsgát teljesítőkről a közreműködő szervezet értesti a Hivatalt. Ha az energetikai auditor a (3) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal haladéktalanul törli a névjegyzékből.
 

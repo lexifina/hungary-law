@@ -1,0 +1,7 @@
+15/B. § (1) A kötelezett felek dönthetnek úgy, hogy együttesen tesznek eleget a 15. § (1) bekezdés szerinti energiamegtakarítási kötelezettségüknek, amely esetben az energiamegtakarítási kötelezettségüket össze kell számítani. Ebben az esetben a kötelezett felek az energiamegtakarítási és valamennyi kapcsolódó kötelezettségük teljesítéséért – ideértve az adatszolgáltatási és bírságfizetési kötelezettségeket – egyetemlegesen felelnek.
+
+(2) A kötelezett fél az energiamegtakarítási kötelezettségét akár saját tevékenységi körében, akár tevékenységi körén kívül eső más szektorban végrehajtott energiahatékonysági beruházással vagy energiahatékonyság-javító intézkedéssel, valamint más kötelezett felek, kötelezett félnek nem minősülő energiahatékonysági szolgáltatók vagy egyéb harmadik személyek által megvalósított hitelesített energiamegtakarítással is teljesítheti.
+
+(3) A hitelesített energiamegtakarítás korlátozottan forgalomképes vagyoni értékű jog, amely kizárólag a kötelezett fél részére ruházható át. A nem hitelesített vagy a Hivatal által érvénytelenített energiamegtakarítás átruházása, továbbá az energiamegtakarítás nem kötelezett félnek minősülő vevő részére történő átruházása semmis.
+
+(4) A hitelesített energiamegtakarítás kétoldalú megállapodás keretében vagy szervezett piacon ruházható át. A hitelesített energiamegtakarítás szervezett piacon történő átruházásának részletszabályait e törvény végrehajtására kiadott kormányrendelet állapítja meg.

@@ -16,7 +16,7 @@ d) 500 m2-t, 2015. július 9-étől 250 m2-t meghaladó hasznos alapterületű
 
 épületek (a továbbiakban: felújítási kötelezettség alá eső kormányzati épületek) energiahatékonysági felújítási kötelezettség alá esnek.
 
-(2) A végrehajtási időszakban évente el kell végezni a felújítási kötelezettség alá eső kormányzati épületek közül a felújítási kötelezettség alá eső kormányzati épületek összalapterületének 3%-át kitevő területű épületek – legalább a jogszabályban meghatározott energetikai minimumkövetelményeknek megfelelő – energiahatékonysági felújítását, amelynek során kötelezően vizsgálni kell a felújítási kötelezettség alá eső kormányzati épületek távhőellátásba kapcsolását.
+(2) 2014. január 1. napjától kezdve évente el kell végezni a felújítási kötelezettség alá eső kormányzati épületek közül a felújítási kötelezettség alá eső kormányzati épületek összalapterületének 3%-át kitevő alapterületű épületek – legalább a jogszabályban meghatározott energetikai minimumkövetelményeknek megfelelő – energiahatékonysági felújítását, amely során vizsgálni kell a felújítási kötelezettség alá eső kormányzati épületek távhőellátásba kapcsolását.
 
 (3) Nem tartoznak a felújítási kötelezettség alá eső kormányzati épületek körébe
 

@@ -1,10 +1,10 @@
-## 7. A Magyar Energetikai és Közmű-szabályozási Hivatal energiahatékonysági feladatai
+## 7. A Hivatal energiahatékonysági feladatai
 
-7. § A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal)
+7. § A Hivatal
 
-a)
+a) a 12. § (2) bekezdés szerinti kötelezettségi időszakban az integrált nemzeti energia- és klímatervnek és az e törvény végrehajtására kiadott kormányrendeletben meghatározott módszereknek és elveknek megfelelően biztosítja az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes alternatív szakpolitikai intézkedések, továbbá az energiahatékonysági kötelezettségi rendszer nyomonkövetési adatainak hitelesítését;
 
-b)
+b) az integrált nemzeti energia- és klímaterv felülvizsgálatai során javaslatot tesz az egyes, az integrált nemzeti energia- és klímatervben rögzített és rögzíteni tervezett szakpolitikai intézkedések nyomonkövetési rendszerét megalapozó módszertani keret meghatározására.
 
 c) névjegyzéket (a továbbiakban: névjegyzék) vezet az energetikai auditorokról és energetikai auditáló szervezetekről, valamint a természetes személy energetikai szakreferensekről és energetikai szakreferens szervezetekről, nyilvántartást vezet a közreműködő szervezetekről, ellátja e személyek és szervezetek felügyeletét; valamint elvégzi az energetikai auditálás ellenőrzését;
 

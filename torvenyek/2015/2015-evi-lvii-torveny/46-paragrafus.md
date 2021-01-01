@@ -16,4 +16,6 @@ g) az energetikai szakreferens igénybevételére köteles gazdálkodó szerveze
 
 h) az elosztói engedélyesek és a távhőszolgáltatók által a közintézmények energiafogyasztási adatai Hivatal számára történő bejelentésének részletszabályait
 
+i) az energiahatékonysági kötelezettségi rendszer keretében elért energiamegtakarítási adatok bejelentésének és átruházása bejelentésének módját, adattartalmát és egyéb részletszabályait, az egyes energiahatékonyság-javító intézkedésekből származó energiamegtakarítás mértékét meghatározó jegyzéket, az egyes energiahatékonyság-javító intézkedésekből származó energiamegtakarítás megállapítása céljából készített energetikai audit kiegészítő kötelező tartalmi elemeit, az alternatív szakpolitikai intézkedések vonatkozásában a második kötelezettségi időszakban az energiamegtakarítás számbavételéhez szükséges adatok végrehajtó hatóság általi megküldésének módját és adattartalmát, valamint a 15. § (1) bekezdés szerinti energiamegtakarítási kötelezettség megállapításához szükséges adatszolgáltatás adattartalmát és részletszabályait.
+
 rendeletben állapítsa meg.

@@ -6,7 +6,7 @@ b) amely a regisztrációs díjat megfizette és
 
 c) amely nem áll a (3) bekezdés szerinti tilalom alatt.
 
-(1a) Az energetikai auditori névjegyzékben szereplő energetikai auditor kizárólag egy energetikai auditáló szervezettel állhat az (1) bekezdés a) pont szerinti jogviszonyban.
+(1a) Az energetikai auditori névjegyzékben szereplő természetes személy egy energetikai auditáló szervezet energetikai auditoraként jegyezhető be az energetikai auditáló szervezetek névjegyzékébe.
 
 (2) Az energetikai auditáló szervezet felelősségére az energetikai auditor energetikai auditálással kapcsolatos, e törvényben meghatározott felelősségére vonatkozó szabályokat kell alkalmazni.
 

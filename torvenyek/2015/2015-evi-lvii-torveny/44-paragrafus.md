@@ -6,11 +6,11 @@
 
 44. § Felhatalmazást kap a Kormány, hogy
 
-a) a nemzeti energiahatékonysági célkitűzés felé tett előrelépésekről szóló éves jelentés kötelező tartalmi elemeit,
+a) a második kötelezettségi időszakban elérendő végfelhasználási energiamegtakarítás éves célértékeit,
 
-b) a Nemzeti Energiahatékonysági Cselekvési Terv kötelező tartalmi elemeit,
+b) a második kötelezettségi időszakban az egyes alternatív szakpolitikai intézkedésekből eredő éves és halmozott energiamegtakarítás célértékeit a teljes időszakra, az energiahatékonysági kötelezettségi rendszerből eredő halmozott energiamegtakarítás célértékeit a teljes időszakra és az egyes évekre vonatkozóan
 
-c)
+c) a végfelhasználási energiamegtakarítás alapját képező energiamennyiség kiszámítására vonatkozó számítási módszert, a végfelhasználási energiamegtakarítás mértékének csökkentésére vonatkozó szabályokat és a kötelezettségi rendszerre vonatkozó energiamegtakarítási átváltási tényezőket,
 
 d) a nagy hatásfokú kapcsolt energiatermelés, valamint a hatékony távfűtés és a hatékony távhűtés megvalósíthatósági potenciálja átfogó értékeléséhez szükséges országos költség-haszon elemzés kötelező tartalmi elemeit és elkészítésének elveit,
 

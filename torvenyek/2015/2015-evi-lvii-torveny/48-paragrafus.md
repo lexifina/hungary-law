@@ -29,3 +29,9 @@
 (14) Energetikai szakreferens tevékenységét névjegyzékbe vétel nélkül legkésőbb 2019. június 30-ig végezheti.
 
 (15) Az energetikai szakreferens a 21/C. § (1) bekezdése szerinti adatszolgáltatást az egyes energetikai tárgyú jogszabályok jogharmonizációs célú módosításáról szóló 2019. évi ... törvény hatálybalépését követő 30 napon belül a 2019. január 15-én és az adatszolgáltatás időpontjában is fennálló energetikai szakreferensi szolgáltatásra irányuló jogviszonyai tekintetében is köteles teljesíteni.
+
+(16) A Hivatal a 2021. évben esedékes energiamegtakarítás mértékéről 2021. március 31-ig hoz határozatot, amelyhez a Nemzeti Adó- és Vámhivatal 2021. január 31-ig nyújt a 15/C. § (2) bekezdése szerint adatot.
+
+(17) Az energiahatékonyság-javító intézkedéseket és beruházásokat tartalmazó jegyzék előzetes tervezetét a Hivatal első alkalommal 2021. június 30-ig köteles véleményezésre megküldeni az energiapolitikáért felelős miniszter részére.
+
+(18) A Hosszú Távú Felújítási Stratégiát első alkalommal önállóan, a további esetekben pedig az (EU) 2018/1999 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésében rögzítettek szerint az integrált nemzeti energia- és klímaterv részeként kell megküldeni az Európai Bizottságnak.

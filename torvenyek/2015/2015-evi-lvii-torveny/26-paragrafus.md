@@ -12,18 +12,4 @@
 
 (7) Ha a nagyvállalat az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal a 25. § szerinti bírsággal, vagy ismételt bírsággal sújthatja és a teljesítésre 30 napos határidőt szab.
 
-(8) A 23. § (3) bekezdésében, a 25. § (1) és (3) bekezdésében, a (4), (6) és (7) bekezdésében meghatározott jogkövetkezmények alkalmazása során az alábbi szempontokat mérlegeli a Hivatal:
-
-a) a jogsértés súlya;
-
-b) a jogsértő állapot fennállásának időtartama;
-
-c) a jogsértéssel okozott vagyoni hátrány mértéke, illetve a jogsértéssel elért vagyoni előny mértéke;
-
-d) a jogsértő piaci helyzete, befolyása;
-
-e) a magatartás felróhatósága;
-
-f) korábbi jogsértő magatartás;
-
-g) a jogsértő állapot megszüntetése érdekében kifejtett tevékenység.
+(8)

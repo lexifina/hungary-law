@@ -10,7 +10,7 @@ b) egymillió forintig terjedő bírságot szabhat ki.
 
 (3) A (2) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók. A bírság ismételten kiszabható.
 
-(4) A regisztráló nagyvállalat a regisztrációval egyidejűleg százezer forint regisztrációs díjat fizet a Hivatal részére. A regisztrációs díj a Hivatal bevételét képezi.
+(4) A regisztráló nagyvállalat az első regisztrációval egyidejűleg százezer forint regisztrációs díjat fizet a Hivatal részére. A regisztrációs díj a Hivatal bevételét képezi.
 
 (5) A Hivatal a regisztráló nagyvállalatokról nyilvántartást vezet, amelyet a Hivatal honlapján közzétesz. A nyilvántartás tartalmazza a nagyvállalat cégnevét és székhelyét.
 

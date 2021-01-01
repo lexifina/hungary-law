@@ -50,8 +50,6 @@ c) ha az energetikai auditor meghalt, vagy
 
 d) a Szolgtv. 26. § (3) bekezdésében foglalt esetben.
 
-(7) A Hivatal az energetikai auditor auditálási tevékenységét megtiltja, ha
+(7) Ha a Hivatal megállapítja, hogy a tevékenység folytatásának valamely feltétele a tevékenység folytatására irányuló kérelem benyújtásának időpontjában sem állt fenn, az energetikai auditor auditálási tevékenységét intézkedésében megtiltja.
 
-a) megállapítja, hogy a tevékenység folytatásának valamely feltétele a tevékenység folytatására irányuló kérelem benyújtásának időpontjában sem állt fenn, vagy
-
-b) az energetikai auditor e törvény szerinti valamely kötelezettségét bírságolás vagy ismételt bírságolás ellenére sem teljesítette.
+(8) Ha a Hivatal megállapítja, hogy az energetikai auditor e törvény szerinti valamely kötelezettségét bírságolás vagy ismételt bírságolás ellenére sem teljesítette, az energetikai auditort az auditálási tevékenység folytatásától eltiltja.

@@ -15,3 +15,5 @@ b) ösztönzi a kis- és középvállalkozásokat energetikai auditálás lefoly
 c) a lakosság számára ingyenes energetikai tanácsadást biztosít, valamint nyomon követi a tanácsadás következtében elért energiamegtakarítás mértékét,
 
 d) tájékoztatást nyújt az elérhető energiahatékonysági pályázatokról.
+
+e) tájékoztatást nyújt az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet szerinti energiahatékonysági tanúsítványokról, ezek rendeltetéséről és céljáról, a költséghatékony intézkedésekről, felújítási tanácsadás keretében az épület energiahatékonyságának javítását szolgáló pénzügyi eszközökről, valamint a fosszilis tüzelőanyaggal működő kazánok fenntarthatóbb alternatívával való helyettesítéséről.

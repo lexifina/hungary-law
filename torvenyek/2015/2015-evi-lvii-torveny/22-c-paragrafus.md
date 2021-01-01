@@ -12,20 +12,4 @@ b) egymillió forintig terjedő bírságot szabhat ki.
 
 (4) A (3) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók. A bírság ismételten kiszabható.
 
-(5) A 22/B. § (2) bekezdésében és a (3) bekezdésben meghatározott jogkövetkezmények alkalmazása során a Hivatal az alábbi körülményeket mérlegeli:
-
-a) a jogsértés súlya;
-
-b) a jogsértő állapot fennállásának időtartama;
-
-c) a jogsértéssel elért vagyoni előny mértéke;
-
-d) a jogsértő piaci helyzete, befolyása;
-
-e) utolsó összevont (konszolidált) beszámoló szerinti, ennek hiányában a jogsértő nyilvántartása szerinti nettó árbevétele vagy mérlegfőösszege;
-
-f) a magatartás felróhatósága;
-
-g) korábbi jogsértő magatartás;
-
-h) a jogsértő állapot megszüntetése érdekében kifejtett tevékenység.
+(5)
