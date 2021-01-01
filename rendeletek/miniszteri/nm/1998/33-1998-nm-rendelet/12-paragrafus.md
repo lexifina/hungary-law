@@ -2,7 +2,7 @@
 
 (2)[^59] A munkaköri alkalmasság másodfokú vizsgálatát és véleményezését az álláskereső, a tanuló és a hallgató lakóhelye, a szakképző és felsőoktatási intézmény székhelye, az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala és a munkáltató telephelye szerint illetékes foglalkozás-egészségügyi szakellátó hely végzi, a véleményt a 11. számú melléklet szerinti ,,Másodfokú munkaköri orvosi alkalmassági vélemény'' elnevezésű nyomtatványon közli a kérelmezővel. Amennyiben a munkavállaló munkaköri alkalmassági vizsgálatára az első fokon eljárt szakellátó-hely lenne illetékes, a munkaköri alkalmasság másodfokú vizsgálatát a telephely szerinti megyében (fővárosban) működő erre kijelölt szakellátó hely végzi.
 
-(3)[^60] A foglalkozás-egészségügyi szakellátó helyek illetékességi listáját, illetve az egyes szakellátó helyek heti szakorvosi óráinak számát az egészségügyi miniszter tájékoztatóban teszi közzé.
+(3)[^60] A foglalkozás-egészségügyi szakellátó helyek illetékességi listáját, illetve az egyes szakellátó helyek heti szakorvosi óráinak számát a Nemzeti Népegészségügyi Központ honlapján teszi közzé.
 
 (4)[^61] A szakmai alkalmasság másodfokú véleményezését tanulók, hallgatók esetében országosan a munkahigiénés és foglalkozás-egészségügyi szerv, az álláskeresőknél az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal és a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala telephelye szerint foglalkozás-egészségügyi szakellátó hely végzi, figyelembe véve a (2) bekezdésben foglaltakat.
 
@@ -10,5 +10,5 @@
 
 [^58]: A 12. § (1) bekezdése a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés a) pontja, a 41/2012. (XII. 20.) NGM rendelet 11. § d) pontja, a 23/2015. (IV. 28.) EMMI rendelet 18. § g) pontja szerint módosított szöveg.
 [^59]: A 12. § (2) bekezdése a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés a) pontja, a 41/2012. (XII. 20.) NGM rendelet 11. § d) pontja, a 23/2015. (IV. 28.) EMMI rendelet 18. § g) pontja szerint módosított szöveg.
-[^60]: A 12. § (3) bekezdése a 27/2000. (IX. 30.) EüM rendelet 9. §-ával megállapított szöveg.
+[^60]: A 12. § (3) bekezdése a 27/2000. (IX. 30.) EüM rendelet 9. §-ával megállapított,a 19/2020. (VI. 2.) EMMI rendelet 1. §-a szerint módosított szöveg.
 [^61]: A 12. § (4) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 9. §-ának (2) bekezdése, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés d) pontja, az 51/2011. (XII. 23.) NGM rendelet 3. § (2) bekezdése, a 41/2012. (XII. 20.) NGM rendelet 11. § d) pontja, a 23/2015. (IV. 28.) EMMI rendelet 18. § d) pontja szerint módosított szöveg.
