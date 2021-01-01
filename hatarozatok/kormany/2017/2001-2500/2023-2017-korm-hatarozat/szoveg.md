@@ -8,25 +8,9 @@ A Kormány
 
 4. a Beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés c) és o) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 50 000 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. június 30. napjáig kell megvalósítani;
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcímét a 26. Magyar Rádió Hangarchívuma elhelyezése jogcímcsoporttal egészíti ki;
+5.[^1]
 
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
-
-6. felhívja a nemzeti fejlesztési minisztert, hogy a Kvtv. 20. § (5) bekezdése szerinti jogkörében eljárva – a 4. pontban foglaltak megvalósítása érdekében – gondoskodjon a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcím, 26. Magyar Rádió Hangarchívuma elhelyezése jogcímcsoport javára összesen 50 000 000 forint egyszeri átcsoportosításáról, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
-
-Az átcsoportosítás tekintetében:
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: azonnal
-
-A visszafizetés tekintetében:
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: a 8. pont szerinti jelentés tudomásul vételét követő 15 napon belül
+6.[^2]
 
 7. felhívja a nemzeti fejlesztési minisztert, hogy a 4. pont szerinti forrás átcsoportosítását követően kössön támogatási szerződést az MTVA-val, a 6. pontban meghatározott feltételekkel;
 
@@ -49,3 +33,6 @@ Felelős: nemzeti fejlesztési miniszter
 emberi erőforrások minisztere
 
 Határidő: a kiviteli tervek rendelkezésre állását követően azonnal
+
+[^1]: Az 5. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
