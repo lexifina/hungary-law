@@ -28,7 +28,7 @@ c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegb
 
 d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését,
 
-e)
+e) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait,
 
 f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket,
 
