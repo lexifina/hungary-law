@@ -28,22 +28,23 @@ g) az alkalmazott módszereket, továbbá
 
 h) az előkerült leletek összefoglaló ismertetését.
 
-(4) A jelentés egy-egy példányát a feltárás befejezését követő harminc napon belül meg kell küldeni
+(4)[^61] A jelentés egy-egy példányát a feltárás befejezését követő harminc napon belül elektronikus úton meg kell küldeni
 
-a) papír alapon és elektronikus adathordozón
+a) a nyilvántartást vezető hatóságnak
 
-aa) a hatóságnak,
+b) a hatóságnak,
 
-ab) a nyilvántartást vezető hatóságnak és
+c) a Magyar Nemzeti Múzeumnak,
 
-ac) a Magyar Nemzeti Múzeumnak,
+d) a területileg érintett megyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
 
-b) elektronikus adathordozón
+e) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
 
-ba) a területileg érintett megyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
+f) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte, és
 
-bb) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte, valamint
+g) a területi és természetvédelmi hatóságnak és a működési területével érintett nemzeti park igazgatóságnak, ha a feltárás országos jelentőségű védett természeti területen történt.
 
-bc) a területi és természetvédelmi hatóságnak és a működési területével érintett nemzeti park igazgatóságnak, ha a feltárás országos jelentőségű védett természeti területen történt.
+(5)[^62]
 
-(5) A jelentés további egy példányát abban az intézményben kell elhelyezni, amely a feltárási engedélyt kapta.
+[^61]: A 26. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^62]: A 26. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 5. pontja hatályon kívül helyezte.

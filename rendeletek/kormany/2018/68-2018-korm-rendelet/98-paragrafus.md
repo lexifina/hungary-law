@@ -1,3 +1,5 @@
+## 97. §[^206]
+
 ## 49. A kulturális javak védetté nyilvánítása
 
 98. § (1) A kulturális javak a védetté nyilvánítás szempontjából lehetnek
@@ -19,3 +21,5 @@ c) azon kulturális javak, amelyek egy-egy kulturális területnek egy-egy ágá
 d) azon kulturális javak, amelyek jelentőségét egy meghatározott épített, természeti vagy szellemi környezethez fűződő kapcsolatuk adja,
 
 e) a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 33. § (1) bekezdése szerinti maradandó értékű iratok, irategyüttesek.
+
+[^206]: A 97. §-t a 677/2020. (XII. 28.) Korm. rendelet 84. § 29. pontja hatályon kívül helyezte.

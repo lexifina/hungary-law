@@ -1,4 +1,4 @@
-## A kulturális javak védetté nyilvánítási és kiviteli engedélyezési eljárásában szakértőként közreműködő intézmények
+## A kulturális javak hatósági eljárásában szakértőként közreműködő intézmények
 
 |  | A | B | C |
 

@@ -1,4 +1,4 @@
-## 115. § Az igazgatási szolgáltatási díj megfizetését a kérelem benyújtásakor igazolni kell. Az átutalás közlemény rovatában fel kell tüntetni az eljárás megnevezését.
+## 115. §[^215]
 
 ## 55. A védetté nyilvánított kulturális javak restaurálási engedélye
 
@@ -59,3 +59,5 @@ c) a megerősítéshez, a felület vagy a szerkezet védelméhez használt anyag
 d) rajz- és fotódokumentációt kísérő szöveggel: a tárgy restaurálás előtti, kezelés közbeni és utáni, valamint helyreállítás utáni állapotáról, továbbá
 
 e) a további kezelésre és tárolásra vonatkozó javaslatokat.
+
+[^215]: A 115. § a 677/2020. (XII. 28.) Korm. rendelet 84. § 31. pontja hatályon kívül helyezte.

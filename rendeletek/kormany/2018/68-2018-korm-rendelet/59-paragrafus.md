@@ -1,10 +1,10 @@
-59. § (1) A védett műemléki értéket érintő tevékenységeket jogszabályban vagy hatósági határozatban meghatározott esetekben jellegüktől függő, jogosultsághoz kötött vizsgálatnak vagy kutatásnak kell megalapoznia, ha ennek eredménye a tervezett tevékenység elvégzése előtt még nem áll rendelkezésre.
+59. § (1)[^90] A műemléket érintő tevékenységeket jogszabályban vagy hatósági határozatban meghatározott esetekben jellegüktől függő, jogosultsághoz kötött vizsgálatnak vagy kutatásnak kell megalapoznia, ha ennek eredménye a tervezett tevékenység elvégzése előtt még nem áll rendelkezésre.
 
-(2) A műemléki értékek kutatása során előnyben kell részesíteni a roncsolásmentes módszereket, vizsgálatokat a roncsolással járó kutatással szemben. A roncsolásmentes vizsgálatoknak és azok dokumentálásának meg kell előznie a roncsolással járó kutatásokat. A roncsolásos kutatás kiterjedésének mértékét a roncsolásmentes vizsgálati eredmények kiértékelését követően lehet meghatározni.
+(2)[^91] A műemlék kutatása során előnyben kell részesíteni a roncsolásmentes módszereket, vizsgálatokat a roncsolással járó kutatással szemben. A roncsolásmentes vizsgálatoknak és azok dokumentálásának meg kell előznie a roncsolással járó kutatásokat. A roncsolásos kutatás kiterjedésének mértékét a roncsolásmentes vizsgálati eredmények kiértékelését követően lehet meghatározni.
 
 (3) Roncsolásos szondázó kutatást kell végezni a 63. § (1) bekezdés a) pontja szerinti esetekben.
 
-(4) A védett műemléki érték egészére kiterjedő roncsolásos kutatás az építmény egészének vagy több rendeltetési egységének teljes belső, valamint homlokzatának teljes helyreállítása során végezhető, ha a roncsolásos kutatás a védett műemléki érték
+(4)[^92] A műemlék egészére kiterjedő roncsolásos kutatás az építmény egészének vagy több rendeltetési egységének teljes belső, valamint homlokzatának teljes helyreállítása során végezhető, ha a roncsolásos kutatás a műemlék
 
 a) fennmaradását és műszaki állapotát nem veszélyezteti,
 
@@ -16,14 +16,22 @@ c) tulajdonosa, tulajdonosi joggyakorlója vagy vagyonkezelője (a továbbiakban
 
 (6) Az épületkutatás megkezdése előtt restaurátori kutatást kell végezni, ha az építéstörténeti tudományos dokumentáció szerint rejtett műemléki érték előkerülése várható.
 
-(7) A kutatás – különösen a roncsolásos kutatás – a védett műemléki értéknek a tervezett tevékenységgel érintett részén túl nem terjedhet, kivéve, ha ezt a feltárt érték jelentősége indokolja.
+(7)[^93] A kutatás – különösen a roncsolásos kutatás – a műemléki értéknek a tervezett tevékenységgel érintett részén túl nem terjedhet, kivéve, ha ezt a feltárt érték jelentősége indokolja.
 
-(8) Roncsolásos kutatás esetén a védett műemléki értéket a hatósághoz benyújtott kutatási terv alapján kell feltárni, az értéket a feltárást megelőző és azt követő állapotában, valamint a feltárás folyamatában, az értékleltárba történő felvétel mellett szükséges dokumentálni.
+(8)[^94] Roncsolásos kutatás esetén a műemléket a hatósághoz benyújtott kutatási terv alapján kell feltárni, az értéket a feltárást megelőző és azt követő állapotában, valamint a feltárás folyamatában, az értékleltárba történő felvétel mellett szükséges dokumentálni.
 
 (9) A roncsolásos kutatásról kutatási naplót kell vezetni, beleértve a régészeti módszerekkel történő kutatást is. A kutatási naplót a tevékenység tényleges megkezdésekor kell megnyitni.
 
-(10) Ha a védett műemléki érték roncsolásos kutatása során régészeti örökség elemeinek előkerülése várható, a kutatás csak a 82. § (1) bekezdés a) pontja szerinti egybefoglalt örökségvédelmi engedély alapján végezhető.
+(10)[^95] Ha a műemlék roncsolásos kutatása során régészeti örökség elemeinek előkerülése várható, a kutatás csak a 82. § (1) bekezdés a) pontja szerinti egybefoglalt örökségvédelmi engedély alapján végezhető.
 
-(11) Ha a védett műemléki értéken végzett kutatás közben olyan körülmény merül fel, amely a 12. melléklet II. rész F. pontja szerinti kutatási terv módosítását vagy hatósági intézkedést tesz szükségessé, a kérelmező köteles azt haladéktalanul bejelenteni a hatóságnak.
+(11)[^96] Ha a műemléken végzett kutatás közben olyan körülmény merül fel, amely a 3. melléklet 5. pont 5.5. alpontja szerinti kutatási terv módosítását vagy hatósági intézkedést tesz szükségessé, a kérelmező köteles azt haladéktalanul bejelenteni a hatóságnak.
 
 (12) A kutatás befejezését követő kilencven napon belül kutatási dokumentációt kell készíteni.
+
+[^90]: Az 59. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 32. pontja szerint módosított szöveg.
+[^91]: Az 59. § (2) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 33. pontja szerint módosított szöveg.
+[^92]: Az 59. § (4) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 34. pontja szerint módosított szöveg.
+[^93]: Az 59. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
+[^94]: Az 59. § (8) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 32. pontja szerint módosított szöveg.
+[^95]: Az 59. § (10) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^96]: Az 59. § (11) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 3. és 35. pontja szerint módosított szöveg.

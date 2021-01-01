@@ -4,4 +4,6 @@
 
 (2) A kérelmet tárgyanként kell kitölteni, de a több tárgy egyidejű, azonos célállomásra irányuló kivitele iránti kérelem 19. mellékletben meghatározott tartalmú, a kulturális javak hatósága által rendszeresített kiegészítő lap alkalmazásával egy formanyomtatványba vagy elektronikus űrlapba foglalható.
 
-(3) A kérelem benyújtása, az igazgatási szolgáltatási díj megfizetése, valamint az engedély és a műtárgykísérő igazolás kiállítása szempontjából a Kötv. 7. § 39. pontjában meghatározott tárgyegyüttes egy tárgynak minősül.
+(3)[^207]
+
+[^207]: A 104. § (3) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 30. pontja hatályon kívül helyezte.

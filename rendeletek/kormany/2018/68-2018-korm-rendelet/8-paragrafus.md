@@ -1,23 +1,13 @@
 ## 6. A műemléki érték nyilvántartása
 
-8. § (1) A műemléki érték központi, közhiteles nyilvántartásba vétele vagy a nyilvántartásból való törlése (a továbbiakban együtt: műemléki érték nyilvántartása) a 3. mellékletben meghatározott adattartalom benyújtásával a nyilvántartást vezető hatóságnál kezdeményezhető.
+8. §[^33] (1) A műemlékek központi, közhiteles nyilvántartásba való felvételét, adatainak módosítását vagy a nyilvántartásból való törlését (a továbbiakban együtt: műemléki nyilvántartás) a nyilvántartást vezető hatóság végzi.
 
-(2) A műemléki érték nyilvántartására vonatkozó eljárás hivatalból indul.
+(2) A műemléki érték védetté nyilvánítására vonatkozó eljárás hivatalból vagy a 3. melléklet 1. pontjában és 2. pont 2.6. alpontjában meghatározott adattartalom benyújtásával kezdeményezésre indul. A kezdeményezést papír alapon, vagy elektronikus úton a Lechner Tudásközpont által üzemeltetett felületre kell megküldeni.
 
-(3) A műemléki érték nyilvántartása ügyében ügyfélnek minősül a kezdeményezéssel érintett ingatlan tulajdonosa, tulajdonosi joggyakorlója, vagyonkezelője, társasház esetén tulajdonosi közössége, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
+(3) A műemléki érték védetté nyilvánítása ügyében – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 10. § (2) bekezdésére figyelemmel – kezdeményezőnek (ügyfélnek) minősül a kezdeményezéssel érintett ingatlan ingatlan-nyilvántartásba bejegyezett tulajdonosa, tulajdonosi joggyakorlója, vagyonkezelője, haszonélvezője, társasház esetén tulajdonosi közössége.
 
-(4) A műemléki érték nyilvántartására irányuló kezdeményezés esetén a műemléki érték elhelyezkedése szerint illetékes hatóság adatszolgáltatása kérhető a műemléki értékek meghatározása céljából.
+(4) Ha a műemléki érték védetté nyilvánítására irányuló eljárás hivatalból indul, a 3. melléklet 1. pontjában és 2. pont 2.6. alpontjában meghatározott adattartalmat teljeskörűen kell megadni.
 
-(5) Ha a műemléki érték nyilvántartására irányuló kezdeményezést a hatóság nyújtja be, a 3. mellékletben meghatározott adattartalmat teljeskörűen kell megadni.
+(5) Műemlék nyilvántartásba vétele csak értékmeghatározó szakértői dokumentáció elkészítését követően történhet.
 
-(6) Műemléki érték nyilvántartása csak értékvizsgálati dokumentáció elkészítését követően történhet. Az értékvizsgálati dokumentáció felvételét csak szakértői jogosultsággal rendelkező szakértő végezheti, kötelező adattartalmát a 4. melléklet határozza meg.
-
-(7) Ha a műemléki érték nyilvántartását kezdeményező nem ügyfél, a nyilvántartást vezető hatóság a döntéséről értesíti a kezdeményezőt.
-
-(8) A nyilvántartást vezető hatóság az 5. mellékletben meghatározott adattartalmú értékleltár felvételéről gondoskodik
-
-a) a műemléki érték nyilvántartásáról szóló bejegyzését követő egy éven belül, de legkésőbb a műemlékké nyilvánítás előkészítése során,
-
-b) a Kötv. 92. § (2) bekezdése szerinti nyilvántartott műemléki érték esetében az átminősítést követő öt éven belül.
-
-(9) Ha a (8) bekezdés a) pontjában meghatározott értékleltár a nyilvántartást vezető hatóság mulasztásából nem készült el, a nyilvántartott műemléki érték nyilvántartásba való bejegyzését követő egy év elteltével a bejegyzés törölhető.
+[^33]: A 8. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.

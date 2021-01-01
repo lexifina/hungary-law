@@ -1,8 +1,6 @@
-## szempontjának érvényesülését mérlegeli.
-
 69. § (1) A hatóság a bejelentés vagy az örökségvédelmi engedély iránti kérelem alapján megvizsgálja, hogy
 
-a) a tervezett vagy megvalósult tevékenységgel érintett műemléki érték védettségére és azonosítására vonatkozó adatok megegyeznek-e a közhiteles nyilvántartás adataival,
+a)[^126] a tervezett vagy megvalósult tevékenységgel érintett műemlék védettségére és azonosítására vonatkozó adatok megegyeznek-e a közhiteles nyilvántartás adataival,
 
 b) rendelkezésre áll-e a védett műemléki értékre vonatkozó értékleltár, illetve építéstörténeti tudományos dokumentáció,
 
@@ -24,12 +22,23 @@ eb) tartozéka, alkotórésze révén a kulturális javak körében
 
 ## is védett-e.
 
-(2) A hatóság az (1) bekezdés a) pontja szerinti esetben, ha az azonosítás vonatkozásában a valóságtól eltérő adatot talál, azt haladéktalanul egyezteti a nyilvántartást vezető hatósággal.
+(2)[^127] A hatóság a nyilvántartást vezető hatóságnak haladéktalanul jelzi,
 
-(3) Az (1) bekezdés b) és d) pontja szerinti esetben az értékleltárt, az építéstörténeti tudományos dokumentációt, a kerttörténeti tudományos dokumentációt, a beavatkozást követő állapotdokumentációt, a kutatási dokumentációt és a restaurálási dokumentációt a hatóság a dokumentáció benyújtását követő tizenöt napon belül elektronikus formában
+a) ha az (1) bekezdés a) pontja szerinti esetben az azonosítás vonatkozásában a döntésre kiható módon a valóságtól eltérő adatot talál,
 
-a) feltölti a nyilvántartást vezető hatóság útján az OÉNY-be, ha az ott nem található meg,
+b) ha az értékleltár, az építéstörténeti tudományos dokumentáció, a kerttörténeti tudományos dokumentáció, a kutatási dokumentáció, restaurálási dokumentáció szakmai megállapításai részben vagy egészében nem felelnek meg a jogszabályból eredő követelményeknek.
 
-b) megküldi a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központnak, amely a miniszternek feladatai ellátásához térítésmentesen adatot szolgáltat.
+(3)[^128] A hatósági eljáráshoz készült értékleltárt, az építéstörténeti tudományos dokumentációt, a kerttörténeti tudományos dokumentációt, az értékmeghatározó szakértői dokumentációt, a beavatkozást követő állapotdokumentációt, a kutatási dokumentációt, a restaurálási dokumentációt, tervdokumentációját, sajátos tervét a hatóság
+
+a) a dokumentáció benyújtását követő tizenöt napon belül feltölti az OÉNY-be, ha az ott nem található meg,
+
+b) a döntést követően elektronikus úton teljeskörűen megküldi a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központnak, amely a nyilvántartást vezető hatóságnak, valamint az eljáró hatóságnak feladatai ellátásához térítésmentesen adatot szolgáltat.
 
 (4) Az (1) bekezdés e) pont eb) alpontja esetében, ha a műemléki érték tartozéka, alkotórésze a kulturális javak körében is védelem alatt áll, a hatóság a tervezett vagy megvalósult tevékenységről az eljárás megindításáról szóló értesítéssel egyidejűleg tájékoztatja a kulturális javak hatóságát.
+
+(5)[^129] A hatóság a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központnak megküldött dokumentumok tárgyáról és számáról a nyilvántartást vezető hatóságnak tárgyévben két alkalommal adatot szolgáltat.
+
+[^126]: A 69. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 56. pontja szerint módosított szöveg.
+[^127]: A 69. § (2) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
+[^128]: A 69. § (3) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
+[^129]: A 69. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 74. § (2) bekezdése iktatta be.

@@ -1,19 +1,29 @@
 ## 19. § Az ideiglenes műemléki védettség elrendeléséről és megszüntetéséről a 12. §-ban meghatározottakat az Ákr.-ben meghatározott módon értesíteni kell.
 
-20. § (1) A nyilvántartott műemléki érték műemlékké nyilvánításakor műemléki környezetnek minősülnek
+20. §[^57] (1) A műemlék – a műemlékvédelem sajátos tárgyai körébe tartozó – műemléki környezetének minősül
 
-a) a – (3) bekezdés szerinti kivétellel – műemlékkel vagy műemléki jelentőségű területtel közvetlenül határos telkek, a kapcsolódó közterületszakaszok és a közterületszakaszokkal határos ingatlanok, amelyek a Kötv. 71. § (1) bekezdés d) pontja szerinti központi, közhiteles nyilvántartásban (a továbbiakban: nyilvántartás) szerepelnek, vagy
+a) a műemlékkel közvetlenül határos – sarkán is érintkező – telkek, a kapcsolódó közterületszakaszok és a közterületszakaszokkal határos ingatlanok, amelyek a műemléki nyilvántartásban szerepelnek, vagy
 
-b) a védettségről szóló döntésben ettől eltérően kijelölt ingatlanok.
+b) önálló ingatlant alkotó, vagy úszótelken elhelyezkedő műemlék esetén, a műemlék építmény önálló ingatlanával, vagy úszótelkével közvetlenül határos telkek és az ezekkel a telkekkel határos további telkek, valamint ezen telkekhez kapcsolódó közterületszakaszok,
 
-(2) A nyilvántartott műemléki érték műemlékké nyilvánításakor műemléki környezetnek jelölhető ki
+c) a műemléki védettséget elrendelő jogszabályban az a) és b) pontban foglaltaktól eltérően kijelölt ingatlanok.
 
-a) a nyilvántartott műemléki érték telkéhez kapcsolódó, azzal közvetlenül határos telek, továbbá
+(2) A műemléki érték műemlékké nyilvánításakor vagy a műemlék környezetének (6) bekezdés szerinti felülvizsgálata esetén – a sajátos terepviszonyokra, illetve telekstruktúra kialakulására is figyelemmel – műemléki környezetnek jelölhető ki
 
-b) az a) pontban meghatározott telkek által kijelölt közterületszakasz és az ehhez kapcsolódó telkek vagy telekrészek, különösen
+a) a műemléki építmény telkével közvetlenül határos – sarkán is érintkező – telkek, ezen közvetlenül határos telkekkel érintkező szomszédos telkek,
 
-ba) amelyen az esetleges építési vagy más tevékenységek a műemlékké nyilvánítandó nyilvántartott műemléki érték állagát közvetlenül befolyásolhatják, vagy
+b) a műemlék építmény telkével kapcsolódó közterületszakaszok, a műemlékkel közvetlenül határos telkek közterületszakaszai, valamint a műemlékkel közvetlenül határos telkekkel érintkező telkek közterületszakaszai,
 
-bb) amelyen a műemlékké nyilvánítandó nyilvántartott műemléki érték megjelenését, értékeinek érvényesülését közvetlenül befolyásoló építmény áll vagy építhető.
+c) a terepviszonyok miatti egyedi látványkapcsolat vagy sajátos telekformák esetén, indokolt esetben az a) és b) pontban meghatározottaktól eltérő környezet,
 
-(3) A (2) bekezdés szerinti kijelölés hiányában műemléki környezet nem jön létre.
+## különösen, ha a telken a műemlékké nyilvánítandó műemléki érték megjelenését, utcaképi, településképi, tájképi értékeinek érvényesülését közvetlenül befolyásoló építmény áll vagy létesíthető.
+
+(3) A műemléki környezet esetében a műemléki területre vonatkozó szabályokat kell alkalmazni.
+
+(4) Az (1) és (2) bekezdés szerint műemléki környezetként meghatározott ingatlanok helyrajzi száma a műemléki nyilvántartásban a műemlék védettségével összefüggő adat.
+
+(5) Az (1) bekezdés a) és b) pontja alapján műemléki környezetnek minősülő ingatlanok telekalakítás következtében történő adatváltozásáról a nyilvántartást vezető hatóság döntést hoz, valamint a (6) bekezdés szerint jár el.
+
+(6) A nyilvántartást vezető hatóság a műemléki környezetnek minősülő ingatlanok értékmeghatározó szakértői vizsgálata és a műemléki környezet módosítása iránt intézkedik, ha a kijelölt műemléki környezet kiterjedése a védett műemléki érték megőrzését nem biztosítja.
+
+[^57]: A 20. § a 677/2020. (XII. 28.) Korm. rendelet 65. §-ával megállapított szöveg.

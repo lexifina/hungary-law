@@ -10,16 +10,17 @@ a) a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben 
 
 b) a kulturális örökség védelmével kapcsolatos nyilvántartásra vonatkozó szabályokra,
 
-c) a nyilvántartott régészeti lelőhely és a nyilvántartott műemléki érték védetté nyilvánításának szabályaira,
+c)[^1] a nyilvántartott régészeti lelőhely és a műemléki érték védetté nyilvánításának szabályaira,
 
 d) a régészeti örökség felderítésének és kutatásának követelményeire, a régészeti feltárás és a nagyberuházásokkal kapcsolatos régészeti feladatellátás szabályaira, a régészeti lelőhely és a lelet megtalálójának anyagi elismerésének szabályaira,
 
-e)[^1] a műemléki érték felderítésével és a védett műemléki érték kutatásával, továbbá védelmével kapcsolatos követelményekre és szabályokra,
+e)[^2] a műemléki érték felderítésével és a műemlék kutatásával, továbbá védelmével kapcsolatos követelményekre és szabályokra,
 
-f)[^2] a kulturális javak védelmével kapcsolatos szabályokra, valamint
+f)[^3] a kulturális javak védelmével kapcsolatos szabályokra, valamint
 
-g)[^3] a kulturális örökségvédelemmel összefüggésben, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 7. § (26) bekezdésében meghatározott adózás előtti eredmény csökkentéséhez szükséges igazolás szabályaira
+g)[^4] a kulturális örökségvédelemmel összefüggésben, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 7. § (26) bekezdésében meghatározott adózás előtti eredmény csökkentéséhez szükséges igazolás szabályaira
 
-[^1]: Az 1. § e) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § f) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § g) pontját a 190/2018. (X. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^1]: A 1. § c) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § e) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § a) pontja, a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^3]: Az 1. § f) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § g) pontját a 190/2018. (X. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

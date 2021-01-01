@@ -1,41 +1,53 @@
-9. § (1) A védett műemléki értékek nyilvántartása tartalmazza
+9. §[^34] (1) A műemléki nyilvántartás tartalmazza
 
-a) a védett műemléki érték megnevezését, törzsszámát és egyedi azonosító számát, a fekvése szerinti települést és címet;
+a) a műemlék azonosítására és védettségére vonatkozó alábbi adatokat:
 
-b) a védett műemléki érték természetbeni elhelyezkedésének az EOV-rendszerhez illeszkedő pontszerű, vonalas létesítmény esetén a nyomvonal meghatározását, terület esetén annak vektoros kiterjedését, körülhatárolását;
+aa) műemlék megnevezését, törzsszámát és egyedi azonosító számát, az azonosításhoz szükséges fényképet,
 
-c) a védettségre vonatkozó alábbi adatokat:
+ab) az egyedi védettség, a műemlékvédelem sajátos tárgyának körébe tartozás, a területi védettség, az ideiglenes műemléki védettség megjelölését,
 
-ca) az általános, a műemlékké nyilvánított egyedi, a területi vagy az ideiglenes műemléki védettség megjelölését,
+ac) a műemléki környezetet alkotó ingatlanok helyrajzi számát, a környezet térképi lehatárolását,
 
-cb) a védettség keletkezésének időpontját, ideiglenes műemléki védelem esetében a védelem időbeli hatályát,
+ad) a védettség keletkezésének, módosításának időpontját, ideiglenes műemléki védelem esetében a védelem időbeli hatályát,
 
-cc) a védettséget keletkeztető miniszteri döntés, határozat vagy egyéb jogi aktus számát,
+ae) a védettséget keletkeztető, módosító, megszüntető miniszteri döntés, határozat vagy egyéb jogi aktus kibocsátóját, számát, hatályát,
 
-cd) az örökségvédelmi bírság kategóriába, illetve a műemlék kategóriába történő besorolását,
+af) az örökségvédelmi bírság kategóriába sorolását, illetve a műemlék kategóriába történő besorolását;
 
-ce) a védett ingatlan-terület kiterjedését,
+b) a műemlék elhelyezkedésének alábbi földrajzi, térbeli adatait:
 
-cf) a védett műemléki érték egészére vonatkozó értékleltár szerinti tételes meghatározását,
+ba) a műemlék fekvése szerinti megyét települést, településrészt és címét,
 
-cg) a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon körébe tartozás tényét,
+bb) az ingatlanok ingatlan-nyilvántartási adatai szerinti azonosítását (helyrajzi szám, alrészlet, albetét) amelyek területén a műemléki védelem fennáll,
 
-ch) az állami elővásárlási jog fennállásának tényét;
+bc) a műemlék természetbeni elhelyezkedésének az EOV-rendszerhez illeszkedő pontszerű, vonalas létesítmény esetén a nyomvonal meghatározását, terület esetén annak vektoros kiterjedését, térképi és szöveges körülhatárolását,
 
-d) azon ingatlanok ingatlan-nyilvántartási adatait (helyrajzi szám, terület, tulajdonviszony), amelyek területén a műemléki védelem fennáll;
+bd) az ingatlan-nyilvántartási térképi adatbázis alapján a műemlék kiterjedését lefedő földrészletek, alrészletek és építmények vektoros állományát, szöveges körülhatárolását;
 
-e) a védett műemléki érték leírását, azonosító fényképeit, valamint a 14. § (1) bekezdés a), b) és d) pontjában meghatározottakat;
+c) a műemlék védettségét megalapozó alábbi szakanyagokat:
 
-f) a védett műemléki érték eredeti és jelenlegi funkcióját;
+ca) a műemlékre vonatkozó építéstörténeti tudományos dokumentációt, kerttörténeti tudományos dokumentációt, kutatási dokumentációt, restaurálási dokumentációt, értékleltárt, értékmeghatározó szakértői vizsgálatot, értékmeghatározó szakértői dokumentációt,
 
-g) a védett műemléki érték veszélyeztetettségének fennállását, okát és mértékét;
+cb) a műemlék, műemléki érték, műemlékvédelem sajátos tárgyának leírását, azonosító fényképeit, történeti topográfiáját,
 
-h) a védett műemléki érték értékvizsgálatának, tudományos kutatásának és feltárásának adatait, a 14. § (1) bekezdés c) és e) pontjában foglaltakat, a műemléki érték műemlékké nyilvánításának és kutatásainak dokumentációit;
+cc) az inventarizáció, műemléki topográfia, revízió, állapotfelvétel szakmai anyagát, dokumentációját,
 
-i) a védett műemléki értékre vonatkozó hatósági iratok, határozatok, szakhatósági állásfoglalások számát, keltét, jogerejét és az engedélyezett, elrendelt intézkedések tartalmát;
+cd) a műemléki érték fajtáját, típusát, stílusát, jellemző datálását, történeti megnevezéseit, funkcióit, korábbi állapotát rögzítő felvételeket, felméréseket, dokumentumokat,
 
-j) az ingatlan-nyilvántartási térképi adatbázisból legyűjthető, a védett műemléki érték kiterjedését lefedő földrészletek, alrészletek és építmények vektoros állományát.
+ce) a műemlék tudományos kutatásának és feltárásának forrásadatait,
 
-(2) A nyilvántartás (1) bekezdés d), i) és j) pontja szerinti tartalmi követelményeket jogszabály vagy szolgáltatási szerződés alapján más, jogszabály alapján vezetett nyilvántartás tartalmára hivatkozással, annak közvetlen informatikai elérését biztosítva is teljesítheti.
+cf) a műemléki érték műemlékké nyilvánításának dokumentációit, szakértői véleményét, a védettség módosítását, megszüntetését alátámasztó dokumentáció elektronikus másolatát,
 
-(3) Az (1) bekezdésben meghatározott adatokat ki kell egészíteni, ha a nyilvántartásban nem szereplő, de a Kötv. 7. § 17. pontja értelmében a műemléki értékhez tartozó alkotórész vagy tartozék kerül elő.
+cg) a műemlékre vonatkozó szakirodalmi, múzeumi, adattári dokumentumok, szakgyűjteményben vagy irattárban fellelhető örökségvédelmi szakanyagok megnevezését, azonosító adatokat;
+
+d) a műemlék nevesített műemléki értékeinek, eszmei értékének, jelentőségének meghatározását;
+
+e) egyéb vagyonjogi vagy hatósági eljárásra, lényeges beavatkozásra vonatkozó adatot;
+
+f) a műemlék, a műemlékvédelem sajátos tárgyának veszélyeztetettségére vonatkozó adatokat.
+
+(2) A műemléki nyilvántartás a műemlék elhelyezkedésének földrajzi adatait – jogszabály vagy szolgáltatási szerződés alapján – jogszabály alapján vezetett másik nyilvántartás tartalmára hivatkozással, annak közvetlen informatikai elérését biztosítva is teljesítheti.
+
+(3) A szakanyagot ki kell egészíteni, ha a műemléki nyilvántartásban nem szereplő, de a Kötv. 7. § 17. pontja értelmében a műemlékhez tartozó műemléki érték, alkotórész, tartozék vagy berendezés kerül elő.
+
+[^34]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.

@@ -1,1 +1,0 @@
-## 114. § Nem adhatók ki a nyilvántartás adatai közül – a hivatalos megkeresés esetét kivéve – a Kötv. 73. § b)–d) pontjában meghatározott adatok, a 110. § (1) bekezdés g) pontjában meghatározott megállapodás adatai.

@@ -14,24 +14,24 @@ f) a régészeti leletek elsődleges leletfeldolgozásáról és muzeális inté
 
 (2) A feltárási napló a régészeti feltárás – hatósági és bírósági eljárásban felhasználható – alapdokumentuma, amelynek első részében a feltárás időpontját, a feltárásban közreműködők létszámát, a feltárás menetét befolyásoló körülményeket, a régészeti feltárásra alkalmas és alkalmatlan napokat, a második részében a szakmai megfigyeléseket, feljegyzéseket kell a feltárás megkezdésétől a befejezéséig folyamatosan vezetni a feltárás módszerétől függően.
 
-(3)[^18]
+(3)[^63] A beruházó jogosult a feltárási napló első részébe betekinteni, arról másolatot kérni, ellenőrizni, bejegyzést tenni.
 
-(4) A feltárási dokumentáció egy-egy példányát a feltárás befejezésétől számított egy éven belül meg kell küldeni
+(4)[^64] A feltárási dokumentáció egy-egy példányát a feltárás befejezését követő egy éven belül elektronikus úton meg kell küldeni
 
-a) papír alapon és elektronikus adathordozón
+a) a nyilvántartást vezető hatóságnak,
 
-aa) a nyilvántartást vezető hatóságnak,
+b) hatóságnak,
 
-ab) a Magyar Nemzeti Múzeumnak,
+c) a Magyar Nemzeti Múzeumnak,
 
-ac) a leletanyagot véglegesen befogadó múzeumnak,
+d) a leletanyagot véglegesen befogadó múzeumnak,
 
-b) elektronikus adathordozón
+e) a területileg érintett megyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte, és
 
-ba) a hatóságnak,
+f) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte.
 
-bb) a területileg érintett megyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte, valamint
+(5)[^65] A leletanyagot véglegesen befogadó múzeum a feltárási dokumentáció egy papíralapú példányára is jogosult, melynek adattári elhelyezéséről és kutathatóságának biztosításáról a régészeti leletek elsődleges leletfeldolgozásáról és muzeális intézménybe történő végleges befogadásáról szóló miniszteri rendeletben megállapítottak szerint gondoskodik.
 
-bc) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte.
-
-[^18]: A 27. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^63]: A 27. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 677/2020. (XII. 28.) Korm. rendelet 67. § (1) bekezdése iktatta be.
+[^64]: A 27. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 67. § (2) bekezdésével megállapított szöveg.
+[^65]: A 27. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 67. § (2) bekezdése iktatta be.

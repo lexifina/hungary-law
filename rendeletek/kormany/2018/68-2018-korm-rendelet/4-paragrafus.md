@@ -4,7 +4,7 @@
 
 a) az Ásatási Bizottság a régészeti örökség,
 
-b) a Műemléki Tanácsadó Testület a műemléki érték,
+b)[^20] a Kötv. 6. § (5) bekezdése szerinti testület (a továbbiakban: Országos Építészeti Tervtanács), és helyreállítási, restaurálási egyedi ügyben összehívott eseti tanácsadó testület a műemléki érték,
 
 c) a Kulturális Javak Bizottsága a kulturális javak
 
@@ -22,7 +22,7 @@ d) két tagját az a)–c) pont hatálya alá nem tartozó egyéb, régészeti g
 
 e) egy tagját a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmények,
 
-f)[^10] egy tagját a Bölcsészettudományi Kutatóközpont Régészeti Intézet,
+f)[^21] egy tagját a Bölcsészettudományi Kutatóközpont Régészeti Intézet,
 
 g) egy tagját a 3. § (3) bekezdése szerinti örökségvédelmi szerv, valamint
 
@@ -52,55 +52,37 @@ h) konzulens kijelölésének szükségességét, valamint
 
 i) a védetté nyilvánított régészeti lelőhelyet vagy az in situ (helyben és fizikai állapotromlás nélkül) megőrzendő régészeti emléket fizikailag érintő beavatkozás örökségi elemre, valamint a régészeti örökségi állomány egészére gyakorolt hatását, különös tekintettel arra, hogy a beavatkozás eredményezheti-e a régészeti lelőhelynek akár részleges állapotromlását.
 
-(5) A Műemléki Tanácsadó Testület a műemléki érték védelmével kapcsolatos hatósági és egyéb szakmai döntések előkészítésében vagy szakértőként a hatósági eljárás során véleményével segíti a miniszter, valamint az örökségvédelmi és építésügyi hatóság munkáját. A Műemléki Tanácsadó Testület húsz tagból áll, amelynek
+(5)[^22] Az Országos Építészeti Tervtanács a műemléki érték védelmével kapcsolatos hatósági és egyéb szakmai döntések előkészítésében, vagy szakértőként a hatósági eljárást megelőzően véleményével segíti a miniszter, valamint az örökségvédelmi hatóság munkáját.
 
-a)[^11] két tagját a Bölcsészettudományi Kutatóközpont Művészettörténeti Intézete,
+(6)[^23] Az Országos Építészeti Tervtanács eljárása során a Lechner Tudásközpont által javasolt, a tervezett beavatkozásnak megfelelő területen jogosultsággal rendelkező örökségvédelmi szakértőt, egyéb szakterületi szakértőt vonhat be.
 
-b) egy tagját a Magyar Tudományos Akadémia Építészeti Tudományos Bizottsága,
+(7)[^24] Az Országos Építészeti Tervtanács véleményének kikérése különösen indokolt az építtető, a beruházó vagy a tervező részéről műemléki értéket érintő ügyben.
 
-c) két tagját a műemlékvédelmi szakirányú továbbképzés folytatására jogosult felsőoktatási intézmény,
-
-d) két tagját a művészettörténet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
-
-e) két tagját az okleveles restaurátorművész osztatlan képzés folytatására jogosult felsőoktatási intézmény,
-
-f) két tagját a Magyar Építész Kamara,
-
-g) két tagját a Magyar Építőművészek Szövetsége,
-
-h) két tagját az ICOMOS Magyar Nemzeti Bizottság,
-
-i) egy tagját a Magyar Építészeti Múzeum – Műemlékvédelmi Dokumentációs Központ
-
-## javaslata alapján, a műemléki területen szakértői jogosultsággal vagy kimagasló elméleti és gyakorlati tapasztalattal rendelkező szakemberek közül két évre a miniszter kéri fel, további négy tagját az ugyanezen feltételeknek megfelelő szakemberek közül két évre a miniszter kéri fel.
-
-(6) A Műemléki Tanácsadó Testület ülésén a véleményezendő ügytől függően legfeljebb tíz tag vesz részt.
-
-(7) A Műemléki Tanácsadó Testület véleményének kikérése különösen indokolt az építtető, a beruházó vagy a tervező részéről műemléket vagy nyilvántartott műemléki értéket érintő ügyben.
-
-(8) A hatóság a Műemléki Tanácsadó Testület szakvéleményét
+(8)[^25] A hatóság az Országos Építészeti Tervtanács szakvéleményét
 
 a) az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszának megindításához vagy a keretengedélyezés szakaszában,
 
 b) a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök egyeztetési eljárásában,
 
-c) a hatósági eljárást megelőző egyeztetési szakaszban
+c)[^26] a hatósági eljárást megelőző egyeztetési és a hatósági engedélyezési szakaszban
 
 kérheti, ha jelentős tény vagy egyéb körülmény megállapításához, különleges követelmények előzetes tisztázásához szakértelem és komplex értékelés szükséges.
 
-(9) Ha a hatóság a Műemléki Tanácsadó Testület szakvéleményét az eljárásnak az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerben (a továbbiakban: ÉTDR) történt megindítása után kéri, akkor a Műemléki Tanácsadó Testület a hatóság megkeresésének kézhezvételétől számított tíz napon belül szakvéleményt ad, vagy dönthet a szakvélemény megadásának mellőzéséről.
+(9)[^27] Ha a hatóság az Országos Építészeti Tervtanács szakvéleményét az eljárásnak az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerben (a továbbiakban: ÉTDR) történt megindítása után, a jelentős tény vagy körülmény fennálltának megjelölésével kéri, akkor az Országos Építészeti Tervtanács a hatóság megkeresésének kézhezvételétől számított tizenöt napon belül szakvéleményt ad, vagy dönthet a szakvélemény megadásának mellőzéséről.
 
 (10) A (7)–(9) bekezdés szerinti szakvélemény megadásának feltétele valamennyi, e rendeletben meghatározott, az engedélyezési eljárásban kötelezően benyújtandó melléklet teljes körű csatolása.
 
-(11) A Műemléki Tanácsadó Testület vizsgálja, hogy a tervezett tevékenység
+(11)[^28] Az Országos Építészeti Tervtanács vizsgálja, hogy a tervezett tevékenység
 
 a) szakszerű-e,
 
-b) a benyújtott tervek alapján a védett műemléki érték védelmét veszélyezteti-e, valamint
+b)[^29] a benyújtott tervek alapján a műemlék védelmét veszélyezteti-e, valamint
 
 c) a műemlék és műemléki jelentőségű terület esetében az érték érvényesülését szolgálja-e.
 
-(12) A Műemléki Tanácsadó Testület vizsgálhatja az építészeti minőséget.
+(12)[^30] Az Országos Építészeti Tervtanács vizsgálhatja az építészeti minőséget.
+
+(12a)[^31] Kiemelten védett műemléket érintő restaurátori beavatkozások esetén az Országos Építészeti Tervtanács véleménye kialakításához a Lechner Tudásközpont által javasolt, a tervezett beavatkozásnak megfelelő területen jogosultsággal rendelkező restaurátor szakértőt von be.
 
 (13) A Kulturális Javak Bizottsága a kulturális javakkal kapcsolatos hatósági és egyéb szakmai döntések előkészítésében segíti a kulturális javak hatóságának munkáját és a miniszter egyéb szakmai feladatait. A Kulturális Javak Bizottsága nyolctagú testület, amelynek egy-egy tagját
 
@@ -122,5 +104,15 @@ g) a Magyar Műkereskedők és Galériák Országos Szövetsége
 
 (14) A Kulturális Javak Bizottsága vizsgálja a védetté nyilvánításra vagy más, a megkeresésben foglalt intézkedésre vonatkozó javaslat megalapozottságát.
 
-[^10]: A 4. § (2) bekezdés f) pontja a 204/2019. (VIII. 23.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
-[^11]: A 4. § (5) bekezdés a) pontja a 204/2019. (VIII. 23.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 8. pontja szerint módosított szöveg.
+[^21]: A 4. § (2) bekezdés f) pontja a 204/2019. (VIII. 23.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^22]: A 4. § (5) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 56. §-ával megállapított szöveg..
+[^23]: A 4. § (6) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 56. §-ával megállapított szöveg..
+[^24]: A 4. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja és a 84. § 1. pontja szerint módosított szöveg.
+[^25]: A 4. § (8) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 10. pontja szerint módosított szöveg.
+[^26]: A 4. § (8) bekezdés c) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 11. pontja szerint módosított szöveg.
+[^27]: A 4. § (9) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 12., 13. és 14. pontja szerint módosított szöveg.
+[^28]: A 4. § (11) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja szerint módosított szöveg.
+[^29]: A 4. § (11) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^30]: A 4. § (12) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja szerint módosított szöveg.
+[^31]: A 4. § (12a) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 56. § (2) bekezdése iktatta be.
