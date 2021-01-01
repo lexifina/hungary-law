@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-238-20-
 | --- | --- | --- |
 | 2020-05-27 | 2020-238-20-22.1 | 238/2020. (V. 26.) Korm. rendelet |
 | 2020-05-28 | 2020-238-20-22.2 | 2010: CXXX. törvény |
+| 2021-01-01 | 2020-238-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
