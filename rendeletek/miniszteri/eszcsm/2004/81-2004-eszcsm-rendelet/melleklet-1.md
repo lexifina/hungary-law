@@ -1,7 +1,7 @@
-## 19. §[^44] Az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 4/2019. (II. 27.) EMMI rendelettel (a továbbiakban: Módr.) megállapított 1. § b) és d) pontját, valamint 12. és 16. §-át a Módr. hatálybalépését[^45] követően indult képzésekre kell alkalmazni. A Módr. hatálybalépésekor folyamatban lévő támogató szolgálattal és közösségi pszichiátriai ellátással kapcsolatos képzéseket eredményesen elvégző személyek számára a tanúsítványt a „támogató szolgálat képzés” és a „közösségi pszichiátriai ellátás képzés” elvégzéséről kell kiállítani.
+## 20. §[^50] E rendeletnek az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló 81/2004. (IX. 18.) ESZCSM rendelet módosításáról szóló 45/2020. (XII. 14.) EMMI rendelettel (a továbbiakban: Módr2.) megállapított 2. § (2)–(4) bekezdését, 2/A. §-át, 4. § (1) és (5) bekezdését, valamint 10. § (2) és (2a) bekezdését a Módr2. hatálybalépését[^51] megelőzően benyújtott jelentkezésekre, valamint az EFOP-3.8.2-16-2016-00001 és VEKOP-7.5.1-16-2016-00001 azonosító számú, Szociális humán erőforrás fejlesztése című kiemelt projekt keretében megszervezett falu- és tanyagondnoki képzésekre nem kell alkalmazni.
 
-1. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^46]
+1. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^52]
 
-[^44]: A 19. §-t a 4/2019. (II. 27.) EMMI rendelet 30. §-a iktatta be.
-[^45]: A hatálybalépés időpontja 2019. február 28.
-[^46]: Az 1. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^50]: A 20. §-t a 45/2020. (XII. 14.) EMMI rendelet 5. §-a iktatta be.
+[^51]: A hatálybalépés időpontja 2021. január 1.
+[^52]: Az 1. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
