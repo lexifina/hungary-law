@@ -20,9 +20,9 @@ i) új lakás építése esetén az építési telek, önkormányzati tulajdonba
 
 (2) A pályázó írásbeli nyilatkozatot köteles csatolni:
 
-a)[^336] a pályázatban foglalt adatok, információk és dokumentumok teljes körűségéről, valódiságáról és hitelességéről, a saját források meglétéről,
+a)[^337] a pályázatban foglalt adatok, információk és dokumentumok teljes körűségéről, valódiságáról és hitelességéről, a saját források meglétéről,
 
-b)[^337] arról, hogy köztartozásmentes, és nem áll adósságrendezési eljárás alatt,
+b)[^338] arról, hogy köztartozásmentes, és nem áll adósságrendezési eljárás alatt,
 
 c) a pályázat tárgyának megvalósításához más költségvetési előirányzatból igényelt vagy elnyert támogatásokról (ideértve a területfejlesztési tanácsok rendelkezési jogkörében kezelt támogatásokat is),
 
@@ -30,11 +30,11 @@ d) annak tudomásulvételéről, hogy a támogatás kedvezményezettjének megne
 
 e) arról a hozzájárulásáról, hogy a pályázat megvalósulásának szabályszerűségét, a támogatás rendeltetésszerű felhasználását a jogszabályban meghatározott szervek ellenőrizzék.
 
-(3)[^338] A 26. § (1) bekezdése, a 27/A. § (1) bekezdése, továbbá a 27/B. § (1) bekezdése szerinti jogcímekre benyújtott pályázat esetén a pályázónak írásban vállalnia kell, hogy a létesítéstől számított legalább 20 évig tulajdonában maradó bérlakásokat, garzonházat, nyugdíjasházat, idősek otthonát a pályázott jogcímnek és a rendeltetésének megfelelően hasznosítja, továbbá a lakóépületet, valamint annak berendezéseit karbantartja, szükség esetén felújítja. A miniszter a pályázó kérelemére – amennyiben a pályázó igazolja, hogy a bérlakást, garzonházat, nyugdíjasházat vagy idősek otthonát a pályázott jogcímnek megfelelően hasznosítani nem tudja – engedélyezi a pályázott jogcímtől eltérő, de a településen felmerült igényeknek megfelelő, az Nytv. 26. §-a szerinti lakcímbejelentési kötelezettséggel járó lakhatási célra történő hasznosítását.
+(3)[^339] A 26. § (1) bekezdése, a 27/A. § (1) bekezdése, továbbá a 27/B. § (1) bekezdése szerinti jogcímekre benyújtott pályázat esetén a pályázónak írásban vállalnia kell, hogy a létesítéstől számított legalább 20 évig tulajdonában maradó bérlakásokat, garzonházat, nyugdíjasházat, idősek otthonát a pályázott jogcímnek és a rendeltetésének megfelelően hasznosítja, továbbá a lakóépületet, valamint annak berendezéseit karbantartja, szükség esetén felújítja. A miniszter a pályázó kérelemére – amennyiben a pályázó igazolja, hogy a bérlakást, garzonházat, nyugdíjasházat vagy idősek otthonát a pályázott jogcímnek megfelelően hasznosítani nem tudja – engedélyezi a pályázott jogcímtől eltérő, de a településen felmerült igényeknek megfelelő, az Nytv. 26. §-a szerinti lakcímbejelentési kötelezettséggel járó lakhatási célra történő hasznosítását.
 
-(4)[^339] A helyi önkormányzat, az egyházi jogi személy, a társasház és a lakásszövetkezet köteles a támogatással megvalósuló épülettel, lakással kapcsolatos bevételeket és kiadásokat támogatási jogcímenként elkülönített számlán nyilvántartani, és erről a minisztert a támogatási szerződés szerint tájékoztatni.
+(4)[^340] A helyi önkormányzat, az egyházi jogi személy, a társasház és a lakásszövetkezet köteles a támogatással megvalósuló épülettel, lakással kapcsolatos bevételeket és kiadásokat támogatási jogcímenként elkülönített számlán nyilvántartani, és erről a minisztert a támogatási szerződés szerint tájékoztatni.
 
-[^336]: A 38. § (2) bekezdésének a) pontja a 391/2007. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2007. december 23-át követően benyújtott kérelmekre kell alkalmazni.
-[^337]: A 38. § (2) bekezdés b) pontja a 74/2011. (V. 2.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^338]: A 38. § (3) bekezdése 257/2011. (XII. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^339]: A 38. § (4) bekezdése a 22/2006. (II. 3.) Korm. rendelet 17. §-ával megállapított és a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének e) pontja, a 297/2013. (VII. 29.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^337]: A 38. § (2) bekezdésének a) pontja a 391/2007. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2007. december 23-át követően benyújtott kérelmekre kell alkalmazni.
+[^338]: A 38. § (2) bekezdés b) pontja a 74/2011. (V. 2.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^339]: A 38. § (3) bekezdése 257/2011. (XII. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^340]: A 38. § (4) bekezdése a 22/2006. (II. 3.) Korm. rendelet 17. §-ával megállapított és a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének e) pontja, a 297/2013. (VII. 29.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
