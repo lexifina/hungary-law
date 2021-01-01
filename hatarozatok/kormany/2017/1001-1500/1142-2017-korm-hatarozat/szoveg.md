@@ -20,26 +20,18 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: 2017. július 31.
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet címrendjének 25. Fejezeti kezelésű előirányzat cím 5. Belgazdasági feladatok alcím, 11. Irinyi terv végrehajtása jogcímcsoporttal történő kiegészítését;
+4.[^1]
 
-Felelős: nemzetgazdasági miniszter
+5.[^2]
 
-Határidő: azonnal
-
-5. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet címrendjének 25. Fejezeti kezelésű előirányzat cím 5. Belgazdasági feladatok alcím, 11. Irinyi terv végrehajtása jogcímcsoport 2. Beszállítói-fejlesztési Program jogcímmel történő kiegészítését;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
-
-6. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet, 25. Fejezeti kezelésű előirányzat cím, 5. Belgazdasági feladatok alcím, 8. Irinyi terv iparstratégiai támogatásai jogcímcsoport besorolását a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet, 25. Fejezeti kezelésű előirányzat cím, 5. Belgazdasági feladatok alcím, 11. Irinyi terv végrehajtása jogcímcsoport, 1. Irinyi terv iparstratégiai támogatásai jogcímre változtatja;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+6.[^3]
 
 7. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a XV. Nemzetgazdasági Minisztérium fejezet, 25. cím Fejezeti kezelésű előirányzat cím, 5. Belgazdasági feladatok alcím, 11. Irinyi terv végrehajtása jogcímcsoport, 2. Beszállítói-fejlesztési Program jogcím javára a Beszállító-fejlesztési program 1. pontban foglalt első alprogramja végrehajtásához szükséges legfeljebb 6000 millió forint biztosításáról.
 
 Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 4. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 5. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 6. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
