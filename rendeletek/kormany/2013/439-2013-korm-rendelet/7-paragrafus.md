@@ -8,31 +8,31 @@ b) okleveles régész,
 
 c)[^47] okleveles építészmérnök és műemlékvédelmi szakmérnöki,,
 
-d)[^48] okleveles építész tervező művész és műemlékvédelmi szakmérnöki
+d)[^48] okleveles építész tervező művész és műemlékvédelmi szaktanácsadói
 
-e) okleveles építőművész és műemlékvédelmi szakmérnöki,
+e)[^49] okleveles építőművész és műemlékvédelmi szaktanácsadói,
 
-f)[^49] okleveles belsőépítész, környezettervező művész és műemlékvédelmi szakmérnöki, vagy
+f)[^50] okleveles belsőépítész, környezettervező művész és műemlékvédelmi szaktanácsadói, vagy
 
-g)[^50] okleveles építőmérnök és műemlékvédelmi szakmérnöki
+g)[^51] okleveles építőmérnök és műemlékvédelmi szakmérnöki
 
 szakképzettség szükséges.
 
-(2)[^51] Műemléki terület műemléki épületkutatás szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
+(2)[^52] Műemléki terület műemléki épületkutatás szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) okleveles művészettörténész,
 
 b) okleveles régész,
 
-c)[^52] okleveles építőmérnök és műemlékvédelmi szakmérnöki,
+c)[^53] okleveles építőmérnök és műemlékvédelmi szakmérnöki,
 
 d) okleveles építészmérnök és műemlékvédelmi szakmérnöki vagy
 
-e) okleveles építőművész és műemlékvédelmi szakmérnöki
+e)[^54] okleveles építőművész és műemlékvédelmi szaktanácsadói
 
 szakképzettség szükséges.
 
-(3)[^53] Műemléki terület műemléki restaurátor szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
+(3)[^55] Műemléki terület műemléki restaurátor szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) restaurátorművész,
 
@@ -52,7 +52,7 @@ b) okleveles tájépítész és kertművész (MA diploma)
 
 szakképzettség szükséges.
 
-(5)[^54] Műemléki terület műemléki épületdiagnosztika szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
+(5)[^56] Műemléki terület műemléki épületdiagnosztika szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) a 4. § (2) bekezdés e) pont ea) és eb) alpontjai szerinti tevékenységek esetén
 
@@ -72,7 +72,7 @@ bb) okleveles erdőmérnök
 
 ## szakképzettség szükséges.
 
-(6)[^55] Műemléki terület orgonahangszer-helyreállítás szakterületen a szakértői tevékenység végzéséhez
+(6)[^57] Műemléki terület orgonahangszer-helyreállítás szakterületen a szakértői tevékenység végzéséhez
 
 a) a 4. § (2) bekezdés f) pont fa) alpontja szerinti tevékenység esetén
 
@@ -87,11 +87,13 @@ c) a 4. § (2) bekezdés f) pont fc) alpontja szerinti tevékenység esetén mes
 szükséges.
 
 [^47]: A 7. § (1) bekezdés c) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 13. pontja szerint módosított szöveg.
-[^48]: A 7. § (1) bekezdés d) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 14. pontja szerint módosított szöveg.
-[^49]: A 7. § (1) bekezdés f) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^50]: A 7. § (1) bekezdés g) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^51]: A 7. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
-[^52]: A 7. § (2) bekezdés c) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 15. pontja szerint módosított szöveg.
-[^53]: A 7. § (3) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^54]: A 7. § (5) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^55]: A 7. § (6) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (12) bekezdésével megállapított szöveg.
+[^48]: A 7. § (1) bekezdés d) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 14. pontja, a 677/2020. (XII. 28.) Korm. rendelet 35. § d) pontja szerint módosított szöveg.
+[^49]: A 7. § (1) bekezdés e) pontja a 677/2020. (XII. 28.) Korm. rendelet 35. § d) pontja szerint módosított szöveg.
+[^50]: A 7. § (1) bekezdés f) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 677/2020. (XII. 28.) Korm. rendelet 35. § d) pontja szerint módosított szöveg.
+[^51]: A 7. § (1) bekezdés g) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^52]: A 7. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^53]: A 7. § (2) bekezdés c) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 15. pontja szerint módosított szöveg.
+[^54]: A 7. § (2) bekezdés e) pontja a 677/2020. (XII. 28.) Korm. rendelet 35. § d) pontja szerint módosított szöveg.
+[^55]: A 7. § (3) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^56]: A 7. § (5) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^57]: A 7. § (6) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (12) bekezdésével megállapított szöveg.
