@@ -54,7 +54,7 @@ e) az ellenőrzés alá vont időszakot.
 
 (3d) Az ellenőrzés során az ellenőrzött köteles felszólításra ruházatát kiüríteni és a birtokában lévő tárgyakat az ellenőröknek átadni.
 
-(3e) Ha a helyszíni ellenőrzés zavartalan lefolytatása másképpen nem biztosítható, a szerencsejáték-felügyeleti hatóság a rendőrségről szóló törvény szerinti rendőri intézkedés megtételét kezdeményezheti, vagy a NAV hivatásos állományú, jelen lévő tagja útján az eljárás zavartalan lefolytatását biztosíthatja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések alkalmazásával.
+(3e) Ha a helyszíni ellenőrzés zavartalan lefolytatása másképpen nem biztosítható, a szerencsejáték-felügyeleti hatóság a rendőrségről szóló törvény szerinti rendőri intézkedés megtételét kezdeményezheti, vagy a NAV pénzügyőri munkakört betöltő, jelen lévő foglalkoztatottja útján az eljárás zavartalan lefolytatását biztosíthatja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések alkalmazásával.
 
 (3f) A helyszíni ellenőrzés esetében az ellenőrzési jogosultságot a szerencsejáték-felügyeleti hatóság alkalmazottja a szerencsejáték-felügyeleti hatóság által kiállított arcképes igazolvánnyal és a szerencsejáték-felügyeleti hatóság vezetője által kiállított, az e törvény hatálya alá tartozó játékok ellenőrzésére jogosultságot biztosító megbízólevéllel köteles igazolni. A helyszíni ellenőrzést legalább két ellenőr együttesen végzi.
 

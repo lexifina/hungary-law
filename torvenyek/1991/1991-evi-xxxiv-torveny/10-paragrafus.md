@@ -1,4 +1,4 @@
-10. § (1) A szerencsejáték-felügyeleti hatóság a szerencsejátékból származó nyeremények, játékosokat megillető egyéb kifizetések, illetve szerencsejáték ügyben kiszabott bírság fedezetének biztosítása céljából biztosítékot írhat elő. A biztosíték letételének, vagy a (2) bekezdésben foglaltak elmulasztása az engedély visszavonásával jár.
+10. § (1) A szerencsejáték-felügyeleti hatóság a szerencsejátékból származó nyeremények, játékosokat megillető egyéb kifizetések, illetve szerencsejáték ügyben kiszabott közigazgatási bírság fedezetének biztosítása céljából biztosítékot írhat elő. A biztosíték letételének, vagy a (2) bekezdésben foglaltak elmulasztása az engedély visszavonásával jár.
 
 (2) A biztosíték igénybevétele esetén a szerencsejáték szervező köteles annak pótlásáról 8 napon belül gondoskodni.
 

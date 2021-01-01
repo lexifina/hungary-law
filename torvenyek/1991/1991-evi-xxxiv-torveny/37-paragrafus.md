@@ -76,7 +76,7 @@ a) valamennyi, az állami adóhatóság által nyilvántartott, 10 000 000 Ft-ot
 
 b) egyik bankszámláján sem volt 10 000 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során az állami adóhatóság nem indított ellene 10 000 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárást,
 
-c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt a szerencsejáték-felügyeleti hatóság esetenként ötmillió forint összeget meghaladó bírsággal sújtotta volna,
+c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt a szerencsejáték-felügyeleti hatóság esetenként ötmillió forint összeget meghaladó közigazgatási bírsággal sújtotta volna,
 
 d) legalább 5 éven keresztül folytatott a szerencsejáték-felügyeleti hatóság engedélyével a koncessziós szerződés alapján gyakorolni kívánt tevékenység szerinti szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
 

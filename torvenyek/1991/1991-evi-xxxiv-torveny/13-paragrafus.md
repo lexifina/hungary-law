@@ -26,7 +26,7 @@ e) 5 000 000 forintot meghaladó összegű játékadóra, vagy ismételten nem t
 
 (2a) Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékkaszinóban, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) A szerencsejáték-felügyeleti hatóság a játékkaszinó és kártyaterem működtetőjével, valamint a fogadás, távszerencsejáték és online kaszinójáték szervezőjével, vagy előbbiek vezető tisztségviselőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az e §-ban meghatározott intézkedéseket alkalmazhatja.
+(3) A szerencsejáték-felügyeleti hatóság a játékkaszinó és kártyaterem működtetőjével, valamint a fogadás, távszerencsejáték és online kaszinójáték szervezőjével, vagy előbbiek vezető tisztségviselőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az e §-ban meghatározott intézkedéseket, valamint közigazgatási szankciókat alkalmazhatja.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 

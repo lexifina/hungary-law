@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2020-07-29 | 2020. évi LXXVI. törvény | 1991-34-00-00.86 |
 | 2020-10-28 | 2020. évi CIV. törvény | 1991-34-00-00.87 |
 | 2020-12-25 | 2020. évi CLXXIII. törvény | 1991-34-00-00.88 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 1991-34-00-00.89 |
