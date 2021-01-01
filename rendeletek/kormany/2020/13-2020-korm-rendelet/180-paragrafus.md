@@ -1,5 +1,5 @@
-## 179. §[^178]
+## 179. §[^179]
 
 ## 153. A földművelésügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 56/2016. (VIII. 19.) FM rendelet hatályon kívül helyezése
 
-[^178]: A 179. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^179]: A 179. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

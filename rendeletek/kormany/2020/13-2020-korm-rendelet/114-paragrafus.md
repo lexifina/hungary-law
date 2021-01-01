@@ -1,5 +1,5 @@
-## 113. §[^112]
+## 113. §[^114]
 
 ## 92. Az előadó-művészeti szervezetek támogatásának részletes szabályairól szóló 428/2016. (XII. 15.) Korm. rendelet módosítása
 
-[^112]: A 113. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 113. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

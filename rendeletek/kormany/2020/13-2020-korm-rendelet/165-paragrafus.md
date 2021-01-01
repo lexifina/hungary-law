@@ -1,6 +1,5 @@
-## 164. §[^163]
+## 164. §[^165]
 
-## 138.[^164]
+## 138. A gyakorlati képzést végző gazdálkodó szervezetek saját munkavállalói részére szervezett képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásáról szóló 21/2013. (VI. 18.) NGM rendelet hatályon kívül helyezése
 
-[^163]: A 164. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^164]: A 138. alcím (165. §) a 186. § (4) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^165]: A 164. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

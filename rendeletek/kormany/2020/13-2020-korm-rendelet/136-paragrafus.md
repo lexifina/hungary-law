@@ -1,5 +1,5 @@
-## 135. §[^134]
+## 135. §[^136]
 
 ## 110. Az ágazati készségtanácsokról szóló 213/2018. (XI. 22.) Korm. rendelet hatályon kívül helyezése
 
-[^134]: A 135. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 135. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
