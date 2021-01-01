@@ -2,7 +2,7 @@
 
 (2) A felnőttképzési szerződést a képzésben részt vevő személy felmondhatja. A felmondás jogának korlátozása vagy kizárása semmis. A felnőttképzési szerződést bármelyik fél azonnali hatállyal felmondhatja, ha
 
-a) a képzésben részt vevő személy a képzés folytatására egészségileg alkalmatlanná vált,
+a) a képzésben részt vevő személy az oktatásban, képzésben való részvételre egészségileg alkalmatlanná vált,
 
 b) a képzésben részt vevő személy fizetési hátralékát a felnőttképző felszólítása ellenére sem teljesíti vagy
 

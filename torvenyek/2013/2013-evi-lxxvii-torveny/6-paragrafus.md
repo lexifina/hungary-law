@@ -8,7 +8,7 @@ a) cselekvőképes,
 
 b) büntetlen előéletű és nem áll a felnőttképzési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 
-b) rendelkezik a felnőttképzési szakértői tevékenység végzéséhez szükséges szakképzettséggel, illetve szakképesítéssel és szakmai gyakorlattal, és
+b) rendelkezik a felnőttképzési szakértői tevékenység végzéséhez szükséges szakképzettséggel és szakmai gyakorlattal, és
 
 c) megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
 

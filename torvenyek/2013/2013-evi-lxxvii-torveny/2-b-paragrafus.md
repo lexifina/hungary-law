@@ -1,6 +1,6 @@
 2/B. § (1) A 2/A. § (2) bekezdése szerinti felnőttképzési tevékenység folytatására engedély annak adható,
 
-a) aki rendelkezik az általa szervezett felnőttképzési tevékenységre vonatkozóan kidolgozott minőségirányítási rendszerrel és ügyfélszolgálati és panaszkezelési rendszer működtetéséhez szükséges feltételekkel,
+a) aki rendelkezik az általa folytatott felnőttképzési tevékenységre vonatkozóan kidolgozott minőségirányítási rendszerrel és ügyfélszolgálati és panaszkezelési rendszer működtetéséhez szükséges feltételekkel,
 
 b) – a költségvetési szervként működő felnőttképző kivételével – aki vagyoni biztosítékkal rendelkezik a Kormány rendeletében meghatározottak szerint,
 

@@ -2,7 +2,7 @@
 
 a) a kontaktórákon vezetett, a képzésben részt vevő személy által aláírt jelenléti íveket, valamint a képzésben résztvevővel elektronikus úton folytatott szakmai felkészítést, ellenőrzést igazoló dokumentumokat,
 
-b) a képzésben részt vevő személy 21. § (1) bekezdése alapján kezelt személyes adatait, valamint a képzés megkezdéséhez és folytatásához szükséges feltételeket igazoló eredeti dokumentumokat vagy azoknak a felnőttképző által hitelesített másolatait, továbbá a bemeneti kompetenciamérést és az előzetes tudásmérést igazoló dokumentumokat,
+b) a képzésben részt vevő személy 21. § (1) bekezdése alapján kezelt személyes adatait, valamint az oktatás, képzés megkezdéséhez és az abban való részvételhez szükséges feltételeket igazoló eredeti dokumentumokat vagy azoknak a felnőttképző által hitelesített másolatait, továbbá a bemeneti kompetenciamérést és az előzetes tudásmérést igazoló dokumentumokat,
 
 c) a felnőttképzési szerződést, a képzési programot, a képzésnek a képzési program szerinti megvalósítását igazoló dokumentumokat,
 

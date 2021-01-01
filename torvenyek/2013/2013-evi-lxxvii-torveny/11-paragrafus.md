@@ -2,11 +2,11 @@
 
 a) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
 
-b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek, a 17. § a) és c) pontjában meghatározott tájékoztatási kötelezettségének és jogszabályban meghatározott tartalommal a 21. § (4) bekezdése szerinti statisztikai célú adatszolgáltatásnak.
+b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek, a 17. § a) pontjában meghatározott tájékoztatási kötelezettségének.
 
 (2) A felnőttképzőnek, ha felnőttképzési tevékenysége engedélyhez kötött, a működése során e Fejezet rendelkezései közül az alábbi követelményeknek kell megfelelnie:
 
-a) felnőttképzési tevékenységét az általa szervezett képzésre vonatkozóan
+a) felnőttképzési tevékenységét az általa szervezett oktatásra, képzésre vonatkozóan
 
 aa) a 12. § szerinti – a felnőttképző által folytatott szakképzés esetén a képzési és kimeneti követelményekre, illetve a programkövetelményekre is figyelemmel – kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programnak megfelelően és
 
@@ -24,6 +24,6 @@ e) eleget kell tennie a 17. §-ban meghatározott tájékoztatási kötelezetts�
 
 f) vezetnie kell a képzés megvalósításával összefüggésben a 16. §-ban meghatározott dokumentumokat,
 
-g) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § és a 15/A. § alapján történő adatszolgáltatási kötelezettségnek és jogszabályban meghatározott tartalommal a 21. § (4) bekezdése szerinti statisztikai célú adatszolgáltatásnak.
+g) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § és a 15/A. § alapján történő adatszolgáltatási kötelezettségnek.
 
-(3) A felnőttképző a felnőttképzési tevékenységét kizárólag saját szervezetén belül végezheti, a felnőttképzési tevékenység végzésére – a képzés személyi és tárgyi feltételei kivételével – más jogalannyal nem állapodhat meg.
+(3) A felnőttképző a felnőttképzési tevékenység végzésére – a képzés személyi és tárgyi feltételei kivételével – más jogalannyal nem állapodhat meg.

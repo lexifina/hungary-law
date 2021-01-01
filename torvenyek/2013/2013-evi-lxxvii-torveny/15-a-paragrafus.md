@@ -1,1 +1,1 @@
-15/A. § A felnőttképző az általa szervezett képzésre vonatkozóan kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programját a felnőttképzés adatszolgáltatási rendszerébe feltölti.
+15/A. § A felnőttképző az általa szervezett oktatásra, képzésre vonatkozóan kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programját a felnőttképzés adatszolgáltatási rendszerébe feltölti.

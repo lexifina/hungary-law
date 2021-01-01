@@ -2,7 +2,7 @@
 
 ## A FELNŐTTKÉPZÉSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ ELJÁRÁS ÉS INTÉZMÉNYRENDSZER
 
-## 3. A felnőttképzési tevékenység folytatásának bejelentése, engedélyezése és a felnőttképzők nyilvántartása
+## 3. A felnőttképzési tevékenység bejelentése, engedélyezése és a felnőttképzők nyilvántartása
 
 2/A. § (1) Felnőttképzési tevékenység a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentés alapján végezhető.
 
@@ -14,4 +14,4 @@ b) – a belső képzés és jogszabály alapján szervezett oktatás és képz�
 
 szervez, e felnőttképzési tevékenységét a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti engedély alapján végezheti.
 
-(3) A felnőttképzési államigazgatási szerv felnőttképzési tevékenységet bejelentés és engedély nélkül, a szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységet engedély nélkül is végezhet.
+(3) A szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységet engedély nélkül is végezhet.

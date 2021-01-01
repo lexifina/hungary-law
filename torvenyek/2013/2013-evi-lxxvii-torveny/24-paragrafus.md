@@ -2,12 +2,12 @@
 
 24. § (1) Az állam támogatást nyújthat
 
-a) a felnőttképzési tevékenység folytatásához szükséges engedély megszerzésére,
+a) a felnőttképzési tevékenységhez szükséges engedély megszerzésére,
 
 b) felnőttképzési tevékenység keretében szervezett képzésre,
 
 c) a felnőttképzők technikai feltételei fejlesztésére és
 
-d) a nemzetgazdasági szempontból kiemelt jelentőségű képzés megszervezésére.
+d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
 
 (2)

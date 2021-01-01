@@ -15,3 +15,11 @@ c) a felnőttképző a felnőttképzési tevékenységével összefüggésben jo
 használ.
 
 (2) A felnőttképzés adatszolgáltatási rendszereként a Köznevelési Regisztrációs és Tanulmányi Alaprendszer szakképzési és felnőttképzési modulját kell használni.
+
+(3) A jogszabály alapján szervezett oktatás és képzés ellenőrzését végző hatóság a felnőttképzés adatszolgáltatási rendszeréhez való közvetlen hozzáférés alapján jogosult az általa folytatott hatósági ellenőrzés és közigazgatási hatósági eljárás során
+
+a) az eljárás résztvevője azonosításához szükséges természetes személyazonosító adatokat és az eljárás eredményes lefolytatásához elengedhetetlenül szükséges más személyes adatokat, valamint
+
+b) a jogszabály alapján szervezett oktatással és képzéssel és az ahhoz kapcsolódóan kiállított tanúsítvánnyal kapcsolatos adatokat
+
+megismerni.
