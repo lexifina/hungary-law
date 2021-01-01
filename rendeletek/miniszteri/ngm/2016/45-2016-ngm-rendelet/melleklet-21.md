@@ -1,4 +1,4 @@
-21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^157]
+21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^165]
 
 ## A zárjegyek leírása
 
@@ -144,4 +144,24 @@ legalább 70, legfeljebb 85µm vastag.
 
 5.6. Csomagolási egység: 50 darab ív, ívenként 30 darab zárjegy, dobozba rakva.
 
-[^157]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított és a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése szerint módosított szöveg.
+6. Töltőfolyadék, új dohánytermék-kategóriák, dohányzást helyettesítő nikotintartalmú termék, füst nélküli dohánytermék öntapadós zárjegy:
+
+6.1. Leírása: A zárjegy téglalap alakú. A zárjegy egy sorszámot (vonalkód formájában is) tartalmaz.
+
+6.2. Méret (választék):
+
+16 × 32 mm (+/–0,1 mm),
+
+12 × 32 mm (+/–0,1 mm),
+
+44 × 20 mm (+/–0,1 mm)
+
+6.3. Anyaga: Speciális, kizárólag erre a célra gyártott, öntapadó ragasztóréteggel ellátott papír.
+
+6.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és hét számból álló sorszám (XXX0000000XX)
+
+6.5. Ellenőrző kód: A sorszámot követő karakter.
+
+6.6. Kiszerelési egység: 10 000 darabonként vagy 25 000 darabonként tekercsben, vagy 50 darabonként ívben és 200 ívenként dobozba csomagolva.
+
+[^165]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított, a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése, a 7/2020. (VII. 30.) PM rendelet 11. § d) pontja szerint módosított szöveg.

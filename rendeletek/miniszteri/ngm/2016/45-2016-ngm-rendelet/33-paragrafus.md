@@ -40,9 +40,9 @@ c) dohánygyártmány esetében a kiszerelési egységet és a kiskereskedelmi e
 
 d) az adóraktárban átvett jövedéki termék adóraktári készlettípusát és az átvétel jogcímkódját,
 
-e)[^40] azon felhasználói engedélyes engedélyszámát vagy nyilvántartásba vett felhasználó nyilvántartási számát, akinek a részére a bejegyzett kereskedő a jövedéki terméket tagállamból behozza.
+e)[^41] azon felhasználói engedélyes engedélyszámát vagy nyilvántartásba vett felhasználó nyilvántartási számát, akinek a részére a bejegyzett kereskedő a jövedéki terméket tagállamból behozza.
 
-(5)[^41] A Jöt. 3. § (4) bekezdés 4a., 9a. és 13. pontja szerinti jövedéki termék belföldön és harmadik országba adófelfüggesztési eljárás keretében történő szállításához az állami adó- és vámhatóság az EK rendeletben szereplőtől eltérő technikai jövedéki termékkódot határozhat meg.
+(5)[^42] A Jöt. 3. § (4) bekezdés 4a., 9a. és 13. pontja szerinti jövedéki termék belföldön és harmadik országba adófelfüggesztési eljárás keretében történő szállításához az állami adó- és vámhatóság az EK rendeletben szereplőtől eltérő technikai jövedéki termékkódot határozhat meg.
 
-[^40]: A 33. § (4) bekezdés e) pontját az 5/2017. (III. 30.) NGM rendelet 11. §-a iktatta be.
-[^41]: A 33. § (5) bekezdését a 7/2020. (VII. 30.) PM rendelet 3. §-a iktatta be.
+[^41]: A 33. § (4) bekezdés e) pontját az 5/2017. (III. 30.) NGM rendelet 11. §-a iktatta be.
+[^42]: A 33. § (5) bekezdését a 7/2020. (VII. 30.) PM rendelet 3. §-a iktatta be.
