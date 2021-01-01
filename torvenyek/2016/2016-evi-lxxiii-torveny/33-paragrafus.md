@@ -6,7 +6,7 @@
 
 (3) A kihelyezett tartós külszolgálata a keresőképtelensége kezdetét követő 180. napot követő napon megszűnik, a külszolgálat időtartamára létesített határozott idejű kormányzati szolgálati jogviszonya azonban keresőképtelensége fennállásáig, de legfeljebb 365 napig továbbra is fennáll.
 
-(4) A kihelyezettet beteg gyermekének ápolása miatti keresőképtelenségének időtartamára – legfeljebb 90 napig – az (2) bekezdésben meghatározott mértékű devizailletmény illeti meg.
+(4) A kihelyezettet vagy a külképviselet által foglalkoztatott házastársat beteg gyermekének ápolása miatti keresőképtelenségének időtartamára – legfeljebb 90 napig – a (2) bekezdésben meghatározott mértékű devizailletmény vagy munkabér illeti meg.
 
 (5) A kihelyezett halála esetén a halál bekövetkeztéig járó díjazásán felül a kihelyezettel az állomáshelyen tartózkodó házastársa, vagy házastárs hiányában az állomáshelyen kint tartózkodó gyermek felügyeletére ideiglenesen kijelölt gyám a kihelyezett további egyhavi díjazásának megfelelő segélyre jogosult.
 

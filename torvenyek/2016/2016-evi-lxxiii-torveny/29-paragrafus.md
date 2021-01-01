@@ -1,12 +1,12 @@
-29. § (1) E törvény 1. mellékletében meghatározott
+29. § (1) Az 1. mellékletben meghatározott
 
 a) vezetői munkakörben,
 
 b) diplomata munkakörben,
 
-c) regionális rendszergazda munkakörben,
+c) gazdasági vezető munkakörben,
 
-d) gazdasági vezető munkakörben,
+d) területi informatikai vezető munkakörben és
 
 e) gazdasági felelősi munkakörben
 

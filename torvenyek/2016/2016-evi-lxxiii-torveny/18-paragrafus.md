@@ -16,4 +16,4 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 
 (5) Ha az ideiglenes hazarendelésre a (2) bekezdés b) pontja alapján került sor, a munkaköri alkalmassági vizsgálat eredményéről, valamint a hazai gyógykezelés – tartós külszolgálat folytatása vagy megszüntetése szempontjából lényeges – körülményeiről a kihelyezett a kihelyező vezetőt a hazaérkezéstől számított 60 napon belül tájékoztatja.
 
-(6) Ha a tartós külszolgálatot a kihelyező vezető a (3) bekezdés alapján megszünteti, a kihelyezett az állomáshelyen folytatott életvitelének megszüntetéséről, így különösen lakhatására vonatkozó szerződéses viszonyok rendezéséről és ingóságainak hazaszállításáról a kihelyező szerv saját költségére gondoskodik.
+(6) Ha a tartós külszolgálatot a kihelyező vezető a (3) bekezdés alapján megszünteti, a kihelyezett az állomáshelyen folytatott életvitelének megszüntetéséről, így különösen lakhatására vonatkozó szerződéses viszonyok rendezéséről és ingóságainak hazaszállításáról a kihelyező szerv saját költségére gondoskodhat.

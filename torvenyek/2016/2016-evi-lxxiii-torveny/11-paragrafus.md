@@ -1,10 +1,18 @@
-11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos, az intézetekben tartós külszolgálatot teljesítő diplomata, valamint az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a szakminiszter bevonásával történik.
+11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos, az intézetekben tartós külszolgálatot teljesítő diplomata, valamint az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
 
 (2) A tartós külszolgálati kihelyezés előtt álló és kihelyezésre kerülő kormánytisztviselő (a továbbiakban: felkészülő) tartós külszolgálati felkészítésének időtartama – a kihelyező vezető döntése alapján, ide nem értve a 10. § (2) bekezdése szerinti kijelölés esetét – legalább egy, legfeljebb hat hónapig tarthat.
 
 (2a) A szakdiplomata a felkészülés (2) bekezdés szerinti időtartamának eredménytelen eltelte, kihelyezésének visszavonása, illetve külszolgálati kirendelésének, vezénylésének megszüntetése esetén visszahelyezésre kerül a küldő szervhez.
 
 (3) A (2) bekezdés szerinti felkészülés idejére a kihelyező vezető a kormánytisztviselőt kinevezésének módosításával a kihelyező szerv tartós külszolgálati felkészülést támogató szervezeti egységébe, külföldi felkészülési állományba a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre helyezheti. Ha a külföldi felkészülési állományba helyezett felkészülő a (2) bekezdés szerinti hat hónapos határidő lejártát követően nem kerül tartós külszolgálatra kihelyezésre, jogviszonyára a 21. § (3) bekezdésében foglaltakat kell alkalmazni. A tartós külszolgálati felkészülés ideje alatt a felkészülőt a kihelyező szerv az e törvényben foglalt eltérésekkel a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban kormánytisztviselőként foglalkoztathatja.
+
+(3a) A (3) bekezdés alapján tartós külszolgálati kihelyezést megelőző felkészülés céljából a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre helyezett kormánytisztviselő kormányzati szolgálati jogviszonya
+
+a) a tartós külszolgálati munkakör betöltésére szóló pályázati döntés vagy kijelölési döntés kihelyező vezető általi visszavonása, vagy
+
+b) ha a kormánytisztviselő a tartós külszolgálati munkakör betöltését nem vállalja, a kihelyező vezetőnek címzett ez irányú nyilatkozata
+
+napjával e törvény erejénél fogva a kihelyező szervnél megszűnik, azzal, hogy a kormánytisztviselő a kormányzati igazgatásról szóló törvény szerinti besorolási illetménye helyett a (4) bekezdés szerinti illetmény alapulvételével jogosult a kormányzati igazgatásról szóló törvény szerinti végkielégítésre, illetve felmentési időre.
 
 (4) A (2) bekezdés szerinti felkészülés ideje alatt a felkészülő kormányzati igazgatásról szóló törvény szerinti illetménye helyett havonta
 
@@ -44,4 +52,4 @@ pótszabadságra jogosult.
 
 (6) A diplomata irányítását a külképviselet-vezető útján – a szakdiplomata tekintetében a szakminiszter feladat- és hatáskörébe tartozó kérdésben a szakminiszterrel egyeztetve – a kihelyező szerv vezetője végzi.
 
-(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a feladat- és hatáskörében érintett miniszter, illetve a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vezetője (a továbbiakban együtt: szakminiszter) által vezetett tárca vagy hivatal (a továbbiakban együtt: szaktárca) közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.
+(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a szakdiplomata jelölésére jogosult, feladat- és hatáskörében érintett miniszter, illetve a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vezetője (a továbbiakban együtt: szakminiszter) által vezetett központi kormányzati igazgatási szerv (a továbbiakban együtt: szaktárca) közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.

@@ -4,6 +4,8 @@
 
 (2) Az EU ÁK az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium jogi személyiséggel rendelkező szervezeti egységeként működik, költségvetése az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címet képez. Az EU ÁK költségvetésének tervezésével, az előirányzatok átcsoportosításával és a beszámoló jóváhagyásával kapcsolatos feladatokat az európai uniós ügyek koordinációjáért felelős miniszter látja el.
 
-(3) Az 5. §-tól eltérően az EU ÁK irányítását – beleértve az EU ÁK funkcionális működtetését is – az európai uniós ügyek koordinációjáért felelős miniszter látja el.
+(3) Az 5. §-tól eltérően az EU ÁK irányítását az európai uniós ügyek koordinációjáért felelős miniszter látja el.
 
-(4) Az EU ÁK szervezetére és működésére vonatkozó szabályokat a külképviselet-vezető javaslatára az európai uniós ügyek koordinációjáért felelős miniszter utasításban állapítja meg.
+(4) Az EU ÁK funkcionális működtetéséről az európai uniós ügyek koordinációjáért felelős miniszter gondoskodik azzal, hogy az informatikai rendszer üzemeltetésével, a biztonsági, biztonságtechnikai és titkos ügykezelési tevékenységgel kapcsolatos feladatok ellátását a külpolitikáért felelős miniszter útján biztosítja.
+
+(5) Az EU ÁK szervezetére és működésére vonatkozó szabályokat a külképviselet-vezető javaslatára az európai uniós ügyek koordinációjáért felelős miniszter normatív utasításban adja ki.

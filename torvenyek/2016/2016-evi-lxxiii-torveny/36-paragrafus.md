@@ -4,6 +4,8 @@
 
 (2) Szakdiplomata-álláshely létesítése érdekében a külpolitikáért felelős miniszter a szakminiszterrel történő egyeztetést követően együttes előterjesztést nyújt be (a továbbiakban: előterjesztés) a Kormánynak. A Kormánynak benyújtandó előterjesztésre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
+(2a) A külképviseleteken szakkonzul láthat el konzuli tisztviselői feladatokat.
+
 (3) A szakdiplomata-álláshelyre vonatkozó pályázatot a szakminiszter hirdeti meg és bírálja el. A szakdiplomata személyére a pályázat eredménye vagy kivételesen, kijelölés alapján a szakminiszter tesz javaslatot a kihelyező vezetőnek. Kihelyezésre akkor kerülhet sor, ha a szakminiszter személyi javaslatával a kihelyező vezető egyetért. A szakdiplomata-álláshely betöltésére jelöltnek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését a szakminisztérium vezetője kezdeményezheti.
 
 (4) A felkészülés, valamint a tartós külszolgálat idejére, az érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkező, a (3) bekezdés szerint jóváhagyott, kihelyezésre jelölt személy a felkészülés, valamint a tartós külszolgálat idejére, ha

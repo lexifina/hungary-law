@@ -2,13 +2,13 @@
 
 a) Magyarországon állandó lakóhellyel rendelkezik és életvitelszerűen Magyarországon él,
 
-b) a tartós külszolgálat során ellátott munkakörhöz jogszabályban, továbbá a kihelyező szerv vezetője által előírt iskolai végzettséggel, szakképzettséggel, szakképesítéssel, illetve a kihelyező vezető által előírt szakmai gyakorlattal rendelkezik,
+b) a tartós külszolgálat során ellátott munkakör betöltéséhez jogszabályban, továbbá a kihelyező szerv vezetője által előírt iskolai végzettséggel, szakképzettséggel, szakképesítéssel, illetve a kihelyező vezető által előírt szakmai gyakorlattal rendelkezik,
 
-c) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat eredménye alapján a kijelölt állomáshelyen tartós külszolgálatra alkalmas,
+c) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat eredménye alapján a kijelölt állomáshelyen – elsődleges munkaköri feladataira figyelemmel – tartós külszolgálatra alkalmas,
 
-d) a kihelyező szerv által előírt, a tartós külszolgálat során ellátandó munkakörének megfelelő szintű, az adott külképviselet vonatkozásában releváns idegennyelv-ismerettel, valamint – diplomata munkakörök vonatkozásában – a 14. § (2) bekezdés c) pontja szerinti nyelvvizsgával rendelkezik,
+d) jogszabály vagy a kihelyező vezető által előírt, a tartós külszolgálat során ellátandó munkakörének megfelelő szintű, az adott külképviselet vonatkozásában releváns idegennyelv-ismerettel, valamint – diplomata munkakörök vonatkozásában – a 14. § (2) bekezdés c) pontja szerinti nyelvvizsgával rendelkezik,
 
-e) a kihelyező szerv vezetője által jogszabályban előírt szakmai vizsgakövetelményeknek – ideértve a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök ellátására kihelyezésre kerülő kormánytisztviselők esetében az európai uniós szakmai vizsgakövetelményeket is – eleget tett,
+e) jogszabály vagy a kihelyező szerv vezetője által előírt képzési, továbbképzési és szakmai vizsgakövetelményeknek – ideértve a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök ellátására kihelyezésre kerülő kormánytisztviselők esetében az európai uniós szakmai vizsgakövetelményeket is – eleget tett,
 
 f) érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkezik,
 

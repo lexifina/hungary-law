@@ -6,7 +6,7 @@
 
 a) 1. melléklet szerinti rangját, munkakörét, munkaköri szorzóját,
 
-b) állomáshelyét,
+b) állomáshelyét vagy állomáshelyhez tartozó nem önálló képviseletét,
 
 c) deviza-alapilletmény összegét, a deviza-illetménypótlékát,
 
@@ -45,3 +45,7 @@ b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezd
 c) rangemelésben részesül,
 
 d) személyi adatai módosulnak.
+
+e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre.
+
+(8) A (7) bekezdés e) pontja szerinti egyoldalú kihelyező okirat módosítás esetén a hivatali érdeket a 2. § 7. pontjára figyelemmel kell megállapítani.

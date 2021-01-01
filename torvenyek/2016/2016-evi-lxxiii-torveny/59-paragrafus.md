@@ -6,9 +6,11 @@ a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújt
 
 b) a tartós külszolgálathoz kapcsolódó felkészítés, valamint
 
-c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának és nyilvántartásának, valamint a költségvetési támogatásoknak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
+c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 
 d) az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatok ellátásának
+
+e) a vendégoktatói ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -50,7 +52,7 @@ q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat ált
 
 r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének,
 
-s) az ágazati működésre vonatkozó szakpolitikai tudományos kutatások eredményeinek társadalmi és gazdasági hasznosítását elősegítő képzések
+s)
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -85,3 +87,7 @@ részletes szabályait rendeletben állapítsa meg.
 (3a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az európai uniós szakmai vizsga részletes szabályait rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre vonatkozó, e törvénytől eltérő szabályokat rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a 38. § (4) bekezdése szerinti, a külpolitikáért felelős miniszter által ellátandó feladatok végrehajtásának részletes szabályait, továbbá a feladatellátásra vonatkozó sajátos munkajogi szabályokat – az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – az 57/B. § (4) bekezdése szerinti egészségügyi ellátás igénybevételének részletes szabályait rendeletben állapítsa meg.

@@ -8,10 +8,12 @@
 
 (4)
 
-(5) A kormánytisztviselő a kihelyező szerv vagy a kihelyező szerv irányítása vagy felügyelete alá tartozó központi államigazgatási szerv állományába is helyezhető annak vezetője egyetértésével a kormányzati igazgatásról szóló törvény 89. § (6) bekezdése alapján úgy, hogy a fogadó kormányzati igazgatási szerv a kormánytisztviselő új beosztási okiratát a külszolgálat megszűnését követő napi hatállyal állítja ki.
+(5) A kormánytisztviselő a kihelyező vezető döntése alapján a kihelyező szerv vagy a kihelyező szerv vezetőjének irányítása vagy felügyelete alá tartozó központi kormányzati igazgatási szerv állományába is helyezhető – a központi kormányzati igazgatási szerv vezetője egyetértésével – a kormányzati igazgatásról szóló törvény 89. § (6) bekezdése alapján úgy, hogy a fogadó kormányzati igazgatási szerv a kormánytisztviselő új beosztási okiratát a külszolgálat megszűnését követő napi hatállyal állítja ki. Ebben az esetben a kormányzati igazgatásról szóló törvény kinevezésmódosításra vonatkozó rendelkezéseit kell alkalmazni.
 
 (6) A (2) bekezdés szerinti esetben a kormányzati igazgatásról szóló törvény kinevezés-módosításra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 (7) A belföldi felkészülési állományba helyezett kormánytisztviselő jogviszonyára a 11. § (5b)–(5f) bekezdésében foglaltakat kell alkalmazni.
 
 (8) Az egy tartós külszolgálat időtartamára kinevezett kormánytisztviselő a berendelést követően, amennyiben legkésőbb a berendelés időpontjáig a várandósságát a kihelyező vezetőnek írásban bejelentette, a bejelentésnek a kihelyező vezetővel való közlésétől a gyermeke megszületéséig az (1) és (2) bekezdésben foglaltak alkalmazásával belföldi felkészülő állományba helyezhető azzal, hogy a kihelyező szervvel fennálló határozott időtartamú jogviszonya a gyermeke megszületésének időpontjával – a törvény erejénél fogva – megszűnik.
+
+(9) A tartós külszolgálat céljából határozott időre áthelyezett vagy tartós külszolgálatra a kihelyező szervhez kirendelt kormánytisztviselő – a külszolgálat megszűnését vagy megszüntetését követően beosztási okiratának az áthelyező vagy kirendelő munkáltató kormányzati igazgatási szerv egyoldalú módosításával – visszahelyezésre kerül az áthelyező vagy kirendelő kormányzati igazgatási szervhez.
