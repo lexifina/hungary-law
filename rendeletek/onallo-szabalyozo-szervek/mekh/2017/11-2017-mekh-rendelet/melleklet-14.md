@@ -1,5 +1,5 @@
 ## 20175Z20000011_70
 
-14. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^34]
+14. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^38]
 
-[^34]: A 14. melléklet a 17/2019. (XII. 20.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^38]: A 14. melléklet a 17/2019. (XII. 20.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
