@@ -1,3 +1,1 @@
-23. § (1) A szövetkezet a földkijelölés egyeztetett (megállapított) tervezetét a kárpótlási hatóságnak, továbbá az ingatlanügyi hatóságnak haladéktalanul megküldi.
-
-(2) Az ingatlanügyi hatóság a részére megküldött térkép és táblakijelölés alapján — a központi költségvetés célelőirányzatából — gondoskodik az árverésre kijelölt táblák földmérési és földminősítési szempontú előkészítéséről. Ennek során a helyszínen ellenőrzi a kijelölt táblák adatainak az ingatlannyilvántartás adataival való megegyezését, és érvényesíti a földminőségben és a művelési ágban bekövetkezett — a gazdálkodó szerv által be nem jelentett — változásokat.
+23. §

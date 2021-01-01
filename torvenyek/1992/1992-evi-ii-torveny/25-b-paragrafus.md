@@ -1,1 +1,1 @@
-25/B. § Azokban az esetekben, amikor a földalapok elkülönítéséről, illetve kijelöléséről szóló határozat az egyes kárpótlással összefüggő törvények módosításáról szóló 2016. évi CII. törvény (a továbbiakban: Tv.) hatálybalépése napján vagy azt követően vált végrehajthatóvá, a határozat alapján elkülönített, illetve kijelölt kárpótlási földalap tekintetében a kárpótlási árverés a Tv. hatálybalépése napját megelőző napon hatályos szabályok szerint tartható meg.
+25/B. §

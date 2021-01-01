@@ -1,1 +1,1 @@
-18. § A Magyar Állam tulajdonaként a földeket (földrészleteket) úgy kell elkülöníteni, hogy azok összesített AK értéke feleljen meg az ingatlannyilvántartás szerint a Magyar Államot megillető AK értéknek, és ezek elsősorban azon a településen, illetőleg a településnek azon a részén legyenek kijelölve, ahol eredetileg voltak.
+18. §
