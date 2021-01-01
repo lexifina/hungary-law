@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. § A 45/2016. NGM rendelet 97. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 3. § a 7. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „(1) A magánfőző a párlat előállítását az állami adó- és vámhatóság által rendszeresített nyomtatványon jelenti be.”
