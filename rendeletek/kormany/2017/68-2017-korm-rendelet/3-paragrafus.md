@@ -6,6 +6,8 @@ a) településképi véleményezési eljárást nem kell lefolytatni,
 
 b) településképi bejelentési eljárásnak nincs helye,
 
-c) a Műemlék Tanácsadó Testület szakértői véleményét nem kell kikérni, valamint
+c)[^3]
 
 d) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 27. §-a szerint közterület alakítási terv készítésének és alkalmazásának nincs helye.
+
+[^3]: A 3. § (2) bekezdés c) pontját a 677/2020. (XII. 28.) Korm. rendelet 44. §-a hatályon kívül helyezte.
