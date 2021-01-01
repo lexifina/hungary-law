@@ -8,7 +8,7 @@
 
 (2) E törvény rendelkezéseit nem kell alkalmazni
 
-a) a személyi jövedelemadóról szóló törvény szerinti mezőgazdasági őstermelői tevékenységre,
+a) a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelői tevékenységre,
 
 b) a szolgáltató állatorvosi tevékenységre,
 
