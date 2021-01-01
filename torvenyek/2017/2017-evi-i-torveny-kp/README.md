@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-1-00-00
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2017-1-00-00.5 |
 | 2020-03-01 | 2020. évi I. törvény | 2017-1-00-00.6 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2017-1-00-00.7 |
+| 2021-01-01 | 2020. évi CLXVIII. törvény | 2017-1-00-00.8 |
