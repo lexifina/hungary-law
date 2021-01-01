@@ -1,0 +1,1 @@
+## „(14) Azonos elszámolható költségek esetén a 20/A. alcím szerinti támogatás abban az esetben halmozható csekély összegű támogatással, ha a támogatáshalmozás nem vezet a 48/C. § (1)–(3) bekezdése szerinti maximális támogatási összeg túllépéséhez.”
