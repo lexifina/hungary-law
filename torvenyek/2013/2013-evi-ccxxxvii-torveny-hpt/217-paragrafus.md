@@ -8,7 +8,7 @@ b)
 
 c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 
-időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és tizenöt munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
+időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és tíz munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
 
 (1a) A kártalanítás (1) bekezdésben meghatározott kifizetéséhez a betétesnek nem kell kérelmet benyújtania.
 
@@ -30,7 +30,7 @@ e) a kártalanítást a fióktelep létesítésének helye szerinti ország bet�
 
 (2) Az OBA legalább két országos napilapban, valamint honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
 
-(3) A betétet gyűjtő hitelintézet a névre szóló betét esetén köteles a betétes nevén kívül – a 2. mellékletben felsoroltak közül az OBA előírásai szerint – két további azonosító adatot nyilvántartani, a kártalanításra való jogosultság egyértelmű megállapítása érdekében.
+(3) A betétet gyűjtő hitelintézet a névre szóló betét esetén a betétesnek a Pmt. szerinti azonosító adatait a kártalanításra való jogosultság egyértelmű megállapítása érdekében nyilvántartja.
 
 (4) A kifizetések teljesítése hitelintézetnek adott megbízás, a kártalanítási összeg hitelintézethez a betétes részére történő átutalása, fizetési számláról a Posta Elszámoló Központot működtető intézményen keresztül történő készpénzkifizetés, közvetlen kifizetés vagy készpénz-helyettesítő fizetési eszköz útján az elhelyezés országának törvényes fizetőeszközében történik.
 

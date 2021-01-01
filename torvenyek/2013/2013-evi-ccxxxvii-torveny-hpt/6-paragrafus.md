@@ -420,7 +420,7 @@ b) a rendelkezési jogosultságának keletkezési időpontjától függetlenül 
 
 5. közös betét: olyan betét, amelynél több betétes van (több személy nevére szól);
 
-6. névre szóló betét: az a betét, amelynél a betétes a betétszerződés, a takarékbetét-szerződés vagy a bankszámlaszerződésben feltüntetett azonosító adatok alapján egyértelműen azonosítható;
+6. névre szóló betét: az a betét, amelynek tulajdonosát a Pmt.-nek megfelelően azonosították;
 
 7. rendelkezésre jogosult személy: a betétes és az a személy, aki a betétes rendelkezése alapján korlátozással vagy anélkül rendelkezhet a betét fölött.
 
