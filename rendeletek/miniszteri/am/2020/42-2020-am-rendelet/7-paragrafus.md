@@ -1,3 +1,1 @@
-## 6. §[^6]
-
-[^6]: A 6. § a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## „t) támogatható területnagyság: a szőlőtermelő vagy a termelői szerveződés által a kifizetési kérelemben, a hegybírói igazoláson, a permetezési naplóban vagy a Gazdálkodási Napló szerinti nyilvántartásban (a továbbiakban együtt: permetezési napló) megjelölt, hektárban – négy tizedesjegy pontossággal – kifejezett területnagyság közül a legkisebb;”

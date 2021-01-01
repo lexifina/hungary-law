@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-42-20-7
 | --- | --- | --- |
 | 2020-08-22 | 2020-42-20-7R.1 | 42/2020. (VIII. 19.) AM rendelet |
 | 2020-08-23 | 2020-42-20-7R.2 | 2010: CXXX. törvény |
+| 2021-01-01 | 2020-42-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

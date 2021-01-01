@@ -1,3 +1,5 @@
-## 7. §[^7]
+## 7. § A 9/2016. (II. 15.) FM rendelet 4. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
 
-[^7]: A 7. § a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+## (A szőlőtermelő akkor jogosult a támogatás igénybevételére, ha)
+
+## „f) a növényegészségügyi megelőzéshez, illetve a növényegészségügyi felszámoláshoz kapcsolódó növényvédőszeres védekezésről permetezési naplót vezet, és”
