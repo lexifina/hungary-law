@@ -21,3 +21,9 @@ e) harmadfokú bírósági eljárásnak nincs helye.
 (3) A bíróság ügydöntő határozata ellen felülvizsgálatnak nincs helye.
 
 (4) A külföldi ítélet elismerése, a vagyonelkobzás vagy az elkobzás végrehajtásának átvétele, valamint az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának átvétele tárgyában bírósági titkár is eljárhat.
+
+(5) A bíróság az eljárást megszünteti,
+
+a) ha a külföldi ítélet elismeréséről korábban jogerős ügydöntő határozatot hoztak,
+
+b) az e törvényben meghatározott egyéb okból.

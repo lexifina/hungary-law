@@ -15,3 +15,5 @@
 (8) A külföldi ítélet elismerése során felmerült bűnügyi költséget az állam viseli.
 
 (9) A külföldi bíróság által kiszabott feltételes szabadságra bocsátás megszüntetésére, felfüggesztett szabadságvesztés végrehajtásának elrendelésére, továbbá a külföldi ítéletben alkalmazott javító intézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetésére csak a büntetetés vagy intézkedés végrehajtásának átvétele esetén kerülhet sor.
+
+(10) A bíróság külföldi ítélet elismeréséről szóló határozatát hivatalból, illetve az ügyészség, a terhelt vagy a védő indítványára hatályon kívül helyezi, és az eljárást megszünteti, ha a külföldi ítélet elismeréséről korábban jogerős ügydöntő határozatot hoztak.

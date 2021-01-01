@@ -6,6 +6,6 @@ a) a külföldi ítélet elismerését azért tagadták meg, mert az elismerésh
 
 b) a szabadságvesztés végrehajtásának átvételéhez a külföldi ítélet olyan rendelkezésének elismerése szükséges, amelyről az elismerésről hozott korábbi ügydöntő végzés nem, vagy nem a törvénynek megfelelően rendelkezett.
 
-(3) A bíróság a 49. § (1) és (2) bekezdése esetén az ügyiratok alapján dönt, a 49. § (3) bekezdése esetén ülést tart, amelyen az ügyészség részvétele kötelező.
+(3) A bíróság a 49. § (1) és (2) bekezdése esetén az ügyiratok alapján dönt, a 49. § (3) bekezdése esetén ülést tart, amelyen az ügyész, a terhelt és – ha a Be. alapján védő részvétele kötelező – a védő jelenléte kötelező.
 
 (4) A büntetés végrehajtásának átvételéről a miniszter dönt. Ha a bíróság ügydöntő végzése szerint a büntetés végrehajtása átvételének e törvény szerinti feltételei nem állnak fenn, a megkeresést a bíróság ügydöntő végzésére utalással utasítja el.

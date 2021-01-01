@@ -30,7 +30,7 @@ h) tárgy visszaadása esetén.
 
 (5) Magyarország a megkereséseket magyar nyelven fogadja. A Magyarország által előterjesztett megkeresést a megkeresett állam hivatalos nyelvére vagy hivatalos nyelveinek egyikére lefordítva kell előterjeszteni.
 
-(6) Az eljárási jogsegély iránti megkeresés előterjesztésére a vádemelést megelőzően a legfőbb ügyész, azt követően a miniszter jogosult.
+(6) Az eljárási jogsegély iránti megkeresést a vádemelést megelőzően a legfőbb ügyész bocsátja ki, azt követően a megkeresés továbbítására a miniszter jogosult.
 
 (7) Az eljárási jogsegély iránti megkeresés teljesítése során a megkereső igazságügyi hatósággal történő kapcsolattartásra a legfőbb ügyész vagy a miniszter útján kerülhet sor.
 

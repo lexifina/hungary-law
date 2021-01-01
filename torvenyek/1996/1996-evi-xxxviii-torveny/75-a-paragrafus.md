@@ -21,3 +21,9 @@ d) a címzett a megkeresett államban fogvatartásban van.
 (6) Ha a külföldön tartózkodó személy a magyar igazságügyi hatóság idézésére megjelenik, tanú és szakértő, valamint – az idézés alapjául szolgáló büntetőeljárástól eltekintve – a terhelt vonatkozásában a 65/A. § (7)–(9) bekezdésének rendelkezéseit megfelelően alkalmazni kell.
 
 (7) Ha a bíróság vagy az ügyészség külföldről eljárási jogsegély keretében tanút vagy szakértőt idéz, részükre az utazás és a magyarországi tartózkodás költségének fedezésére előleg folyósítható.
+
+(8) A megkereső igazságügyi hatóság által hivatalos irat kézbesítése érdekében előterjesztett eljárási jogsegély iránti megkeresés akkor teljesíthető, ha a megkereső igazságügyi hatóság
+
+a) a kézbesítendő hivatalos iratot ellátja – ha a címzett a megkereső állam hivatalos nyelvét nem ismeri – a címzett anyanyelvére vagy az általa ismertként megjelölt más nyelvre, vagy – ha ezek a megkereső igazságügyi hatóság előtt nem ismertek – magyar nyelvre történő fordítással, és
+
+b) a terhelt idézését tartalmazó megkeresést a magyar igazságügyi hatóság részére legalább a megjelenésre megjelölt időpont előtt negyven nappal megküldi.

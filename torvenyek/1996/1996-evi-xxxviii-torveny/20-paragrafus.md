@@ -18,6 +18,8 @@ h) amennyiben a kiadatás feltételei fennállnak, elrendeli a kiadni kért szem
 
 (1a) A Fővárosi Törvényszék a kiadatási letartóztatást elrendelő véglegessé vált végzését az ügyiratokkal együtt a miniszternek terjeszti fel a kiadatás kérdésében történő döntéshozatalra.
 
+(1b) Ha a kiadatási letartóztatás a 14. § (3) bekezdésében vagy a 14/A. § (2) bekezdésében meghatározott tartam felső határának eltelte miatt nem rendelhető el vagy tartható fenn, a Fővárosi Törvényszék a kiadni kért személy kiadatási bűnügyi felügyeletét rendeli el.
+
 (2) Ha a kiadni kért személy nem tartózkodik Magyarországon, vagy a felkutatására tett intézkedés nem vezetett eredményre, értesíteni kell a minisztert, aki erről tájékoztatja a megkeresést előterjesztő államot.
 
 (3) A kiadatási eljárás során felmerült bűnügyi költséget az állam viseli.

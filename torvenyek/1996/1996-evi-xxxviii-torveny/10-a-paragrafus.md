@@ -1,0 +1,1 @@
+10/A. § E törvény alkalmazása során az elektronikus kapcsolattartás szabályait azzal az eltéréssel kell alkalmazni, hogy az eljáró bíróság vagy ügyészség az ügyiratot papíralapon küldi meg a legfőbb ügyésznek, illetve a miniszternek, ha az ügyiratot külföldi állam részére továbbítani kell.
