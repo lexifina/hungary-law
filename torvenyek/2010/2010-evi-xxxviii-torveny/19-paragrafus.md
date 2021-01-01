@@ -16,4 +16,4 @@ az örökhagyó haláláról értesül.
 
 (3a) Ha a bejelentő a joghatóság megállapításához nem szolgáltat elegendő adatot, úgy a szükséges adatok beszerzéséről a jegyzőnek hivatalból kell gondoskodnia. Az eljárás megszüntetésének ebből az okból nincs helye.
 
-(4) A jegyző az eljárás megindulását követő nyolc napon belül megkezdi a leltározást.
+(4) A jegyző az eljárás megindulását követő 8 napon belül megkezdi a leltározást. A belföldön kiállított halottvizsgálati bizonyítvány alapján indult eljárásban a jegyző a leltározást a halottvizsgálati bizonyítvány elektronikus beérkezésétől számított 5 napon belül kezdi meg.

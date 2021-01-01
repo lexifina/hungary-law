@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2020-01-01 | 2019. évi LXVI. törvény | 2010-38-00-00.29 |
 | 2020-02-01 | 2019. évi CXVII. törvény | 2010-38-00-00.30 |
 | 2020-07-01 | 2020. évi XL. törvény | 2010-38-00-00.31 |
+| 2021-01-01 | 2019. évi CXVII. törvény | 2010-38-00-00.32 |
