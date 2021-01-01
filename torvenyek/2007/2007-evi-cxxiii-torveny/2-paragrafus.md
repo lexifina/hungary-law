@@ -38,4 +38,6 @@ q) sportinfrastruktúra fejlesztése;
 
 r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése;
 
-s) kulturális infrastruktúra fejlesztése.
+s) kulturális infrastruktúra fejlesztése;
+
+t) optimális birtokszerkezet kialakítása céljából.

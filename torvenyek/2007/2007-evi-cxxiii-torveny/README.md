@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2020-03-01 | 2019. évi CXXVII. törvény | 2007-123-00-00.33 |
 | 2020-07-01 | 2020. évi XXX. törvény | 2007-123-00-00.34 |
 | 2020-07-22 | 2020. évi LXXXI. törvény | 2007-123-00-00.35 |
+| 2021-01-01 | 2020. évi CLXIV. törvény | 2007-123-00-00.36 |

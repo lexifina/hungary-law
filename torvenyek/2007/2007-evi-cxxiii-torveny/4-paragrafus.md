@@ -110,7 +110,9 @@ nc) az egyedileg meghatározott sport- és szabadidő infrastruktúrafejlesztés
 
 o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében;
 
-p) kulturális infrastruktúra fejlesztése keretében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmény, könyvtár, közművelődési intézmény vagy közösségi színtér létesítése céljából.
+p) kulturális infrastruktúra fejlesztése keretében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmény, könyvtár, közművelődési intézmény vagy közösségi színtér létesítése céljából;
+
+q) optimális birtokszerkezet kialakítása céljából, ha a Nemzeti Földalap kezeléséért felelős szerv – a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint – kezdeményezi.
 
 (2) Nem kell alkalmazni
 
