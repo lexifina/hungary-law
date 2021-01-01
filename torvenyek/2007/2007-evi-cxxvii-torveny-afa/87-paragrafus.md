@@ -4,4 +4,4 @@ a) az értékesítést megelőzően a terméket kizárólag a 85. § (1) bekezd�
 
 b) az értékesítést megelőzően a termékhez kapcsolódó előzetesen felszámított adó a 124. és 125. § szerint nem vonható le;
 
-c) az értékesítést megelőzően a termékhez előzetesen felszámított adó kapcsolódott volna, az a 124. § (1) bekezdés d) pontja szerint nem lenne levonható.
+c) az értékesítést megelőzően a termékhez előzetesen felszámított adó kapcsolódott volna, az a 124. § (1) bekezdés d) pontja szerint – a 125. § (1) bekezdés a) pontban foglaltakra is figyelemmel – nem lenne levonható.

@@ -6,4 +6,4 @@ a) a 98–109. §-ok bármelyike szerint mentes az adó alól;
 
 b) teljesítési helye a Közösség területén kívül van.
 
-(2) Az (1) bekezdés nem alkalmazható az utas [206. § (1) bekezdésének c) pontja] nevében és javára eljáró közvetítő közvetítői szolgáltatásának nyújtására abban az esetben, ha olyan szolgáltatást közvetít, amely a Közösség valamely más tagállamában teljesül.
+(2) Az (1) bekezdés nem alkalmazható az utas nevében és javára eljáró közvetítő közvetítői szolgáltatásának nyújtására abban az esetben, ha olyan szolgáltatást közvetít, amely a Közösség valamely más tagállamában teljesül.

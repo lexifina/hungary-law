@@ -6,17 +6,11 @@ a) utazásszervezési szolgáltatás: adóalany által – saját nevében – u
 
 b) utazásszervező: az utazásszervezési szolgáltatást nyújtó adóalany;
 
-c) utas: az utazásszervezőnek tett nyilatkozata alapján az az ügyfél, aki (amely) a szolgáltatást
-
-ca) nem adóalanyként vagy nem adóalanyi minőségében, illetőleg
-
-cb) egyéb, a ca) alpont alá nem tartozó esetekben pedig a saját nevében és javára
-
-veszi igénybe;
+c)
 
 d)
 
-(2) Az utazásszervező köteles ügyfelét a teljesítést megelőzően nyilatkozattételre felhívni, és annak keretében nyilatkoztatni arról, hogy a szolgáltatást utasként vagy nem utasként kívánja igénybe venni.
+(2)
 
 (3) Az egyéb feltételek teljesülésének sérelme nélkül szintén utazásszervezési szolgáltatás az is,
 

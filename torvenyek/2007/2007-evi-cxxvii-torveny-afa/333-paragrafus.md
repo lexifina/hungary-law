@@ -1,0 +1,1 @@
+333. § E törvény 2020. december 31-én hatályos 206. § (1) bekezdés c) pontját és 206. § (2) bekezdését kell alkalmazni, ha az utazásszervezőnek fizetett előleg jóváírása, kézhezvétele, előlegfizetés hiányában pedig az utazásszervezési szolgáltatás teljesítése 2021. január 1-jét megelőző időpontra esik.

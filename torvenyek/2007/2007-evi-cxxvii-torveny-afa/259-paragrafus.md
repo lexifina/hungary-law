@@ -22,6 +22,8 @@ c) a követelésre a felszámoló által adott írásbeli igazolás (nyilatkozat
 
 d) a követelésre a felszámolás, az adósságrendezési eljárás befejezésekor vagyonfelosztási javaslat szerinti értékben átvett eszköz nem nyújt fedezetet;
 
+e) a természetes személyek adósságrendezési eljárása során a bíróság az adóst a fennmaradó adósságai megfizetése alól mentesítő döntést hoz;
+
 4. bérbeadás, -vétel: a bérleti szerződésen alapuló jogviszony mellett minden olyan egyéb jogviszony is, amelynek tartama alatt a jogosult az ellenérték egészét vagy túlnyomó részét a termék időleges használatáért téríti vagy téríteni köteles a kötelezettnek;
 
 5. elektronikus számla: az e törvényben előírt adatokat tartalmazó számla, amelyet elektronikus formában bocsátottak ki és fogadtak be.
