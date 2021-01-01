@@ -2,7 +2,7 @@
 
 (1a)[^227] A TBB az ülésének időpontját megelőző második hónap utolsó napjáig hiánytalanul beérkezett kérelmeket tárgyalja meg.
 
-(2)[^228] A TBB létszáma 8 fő, amelyből 3 főt az egészségügyért felelős miniszter, 1 főt az államháztartásért felelős miniszter, 2 főt a NEAK főigazgatója, 1 főt az országos tisztifőorvos és 1 főt az ÁEEK főigazgatója jelöl ki. A TBB elnökét – a tagok közül – a NEAK főigazgatója jelöli ki.
+(2)[^228] A TBB létszáma 8 fő, amelyből 3 főt az egészségügyért felelős miniszter, 1 főt az államháztartásért felelős miniszter, 2 főt a NEAK főigazgatója, 1 főt az országos tisztifőorvos és 1 főt az OKFŐ főigazgatója jelöl ki. A TBB elnökét – a tagok közül – a NEAK főigazgatója jelöli ki.
 
 (3) A TBB tagjainak megbízatása a kijelöléssel jön létre. A megbízás visszavonásig szól.
 
@@ -14,6 +14,6 @@
 
 [^226]: A 14. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
 [^227]: A 14. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
-[^228]: A 14. § (2) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 26. §-ával megállapított, a 287/2018. (XII. 21.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^228]: A 14. § (2) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 26. §-ával megállapított, a 287/2018. (XII. 21.) Korm. rendelet 27. § b) pontja, az 516/2020. (XI. 25.) Korm. rendelet 13. § c) pontja szerint módosított szöevg.
 [^229]: A 14. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 8. pontja szerint módosított szöveg.
 [^230]: A 14. § (6) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 73. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 8. pontja szerint módosított szöveg.

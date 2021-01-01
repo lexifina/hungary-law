@@ -10,7 +10,7 @@
 
 (6)[^42] Az országos tisztifőorvos – az (5) bekezdésben foglaltakon túl – rendelkezik a Tv. 1/A. § (4), illetve (5) bekezdésén alapuló véglegessé vált intézkedéseknek a szakellátási feladat állam általi ideiglenes ellátásának kezdő időpontjától számított 4. hónap első napjával történő visszavonásáról.
 
-(7)[^43] Az országos tisztifőorvos a (4)–(6) bekezdés alapján hozott határozatát – annak meghozatalától számított 5 napon belül – megküldi az ÁEEK-nak és a NEAK-nak, valamint tájékoztatja az egészségügyért felelős minisztert.
+(7)[^43] Az országos tisztifőorvos a (4)–(6) bekezdés alapján hozott határozatát – annak meghozatalától számított 5 napon belül – megküldi az OKFŐ-nek és a NEAK-nak, valamint tájékoztatja az egészségügyért felelős minisztert.
 
 [^37]: Az 1/B. §-t a 125/2013. (IV. 26.) Korm. rendelet 9. § (3) bekezdése iktatta be.
 [^38]: Az 1/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 5. pontja szerint módosított szöveg.
@@ -18,4 +18,4 @@
 [^40]: Az 1/B. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^41]: Az 1/B. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 34. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^42]: Az 1/B. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja, a 457/2017. (XII. 28.) Korm. rendelet 229. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^43]: Az 1/B. § (7) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 20. §-ával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^43]: Az 1/B. § (7) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 20. §-ával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 11. § b) pontja, az 516/2020. (XI. 25.) Korm. rendelet 13. § b) pontja szerint módosított szöevg.
