@@ -1,1 +1,1 @@
-32. §
+32. § A Kttv. 177. § (3) bekezdésében a „178. § (1) bekezdésében, továbbá a 181. §-ban” szövegrész helyébe a „Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben, továbbá a 181. § (1) bekezdésében” szöveg lép.
