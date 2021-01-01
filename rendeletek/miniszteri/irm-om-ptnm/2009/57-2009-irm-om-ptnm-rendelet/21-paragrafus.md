@@ -1,26 +1,30 @@
+## 20. §[^65]
+
 ## Ismételt alkalmassági vizsgálat
 
 21. § (1) Ha a hivatásos állományba kinevezés, illetve a rendészeti oktatási intézménybe felvétel előtt elvégzett alkalmassági vizsgálaton megállapított utolsó alkalmas minősítés óta több mint hat hónap eltelt, és a hivatásos állományba kinevezésre, illetve a rendészeti okatatási intézménybe felvételre ez idő alatt nem került sor, az alkalmasság megállapítása ismételt alkalmassági vizsgálattal történik.
 
-(2)[^70]
+(2)[^66]
 
 (3) Az ismételt alkalmassági vizsgálatot a 19. §-ban és a 20. §-ban foglaltak szerint el kell végezni.
 
-(4)[^71] Az ismételt alkalmassági vizsgálat során az egészségi és pszichikai alkalmassági vizsgálatot újból el kell végezni, amelynek során a korábbi vizsgálati eredményeket is figyelembe kell venni.
+(4)[^67] Az ismételt alkalmassági vizsgálat során az egészségi és pszichikai alkalmassági vizsgálatot újból el kell végezni, amelynek során a korábbi vizsgálati eredményeket is figyelembe kell venni.
 
 (5) Nincs helye ismételt alkalmassági vizsgálatnak, ha a pályázó, illetve a rendészeti oktatási intézménybe jelentkező
 
-a)[^72] az utolsó alkalmassági vizsgálat során, egy éven belül alkalmatlan minősítést kapott,
+a)[^68] az utolsó alkalmassági vizsgálat során, egy éven belül alkalmatlan minősítést kapott,
 
 b) az orvostudomány aktuális állása szerint végleges állapotot jelentő, a hivatásos szolgálatra való alkalmasságot kizáró testi fogyatékosságban szenved,
 
 c) az orvostudomány aktuális állása szerint nem gyógyítható, a hivatásos szolgálatra való alkalmasságot kizáró megbetegedésben szenved,
 
-d)[^73]
+d)[^69]
 
-(6) Ha a hivatásos állományba történő kinevezés, valamint a rendészeti oktatási intézménybe felvétel előtt elvégzett alkalmassági vizsgálaton szerzett utolsó alkalmas minősítés óta több mint egy év eltelt, és a hivatásos állományba kinevezésre, illetve a rendészeti okatatási intézménybe felvételre ez idő alatt nem került sor, az alkalmassági vizsgálatokat a 19. §-ban és a 20. §-ban foglaltak szerint újra el kell végezni.
+(6)[^70] Ha a hivatásos állományba történő kinevezés elvégzett alkalmassági vizsgálaton szerzett utolsó alkalmas minősítés óta több mint egy év eltelt, és a hivatásos állományba kinevezésre ez idő alatt nem került sor, az alkalmassági vizsgálatokat a 19. §-ban és a 20. §-ban foglaltak szerint újra el kell végezni.
 
-[^70]: A 21. § (2) bekezdését a 67/2011. (XII. 30.) BM rendelet 24. § n) pontja hatályon kívül helyezte.
-[^71]: A 21. § (4) bekezdése a 67/2011. (XII. 30.) BM rendelet 11. §-ával megállapított szöveg.
-[^72]: A 21. § (5) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 24. § o) pontja szerint módosított szöveg.
-[^73]: A 21. § (5) bekezdés d) pontját a 67/2011. (XII. 30.) BM rendelet 24. § o) pontja hatályon kívül helyezte.
+[^65]: A 20. §-t megelőző „Rendészeti oktatási intézménybe jelentkezők alkalmassági vizsgálata” alcím címét és a 20. §-t a 45/2020. (XII. 16.) BM rendelet 113. § h) pontja hatályon kívül helyezte.
+[^66]: A 21. § (2) bekezdését a 67/2011. (XII. 30.) BM rendelet 24. § n) pontja hatályon kívül helyezte.
+[^67]: A 21. § (4) bekezdése a 67/2011. (XII. 30.) BM rendelet 11. §-ával megállapított szöveg.
+[^68]: A 21. § (5) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 24. § o) pontja szerint módosított szöveg.
+[^69]: A 21. § (5) bekezdés d) pontját a 67/2011. (XII. 30.) BM rendelet 24. § o) pontja hatályon kívül helyezte.
+[^70]: A 21. § (6) bekezdése a 45/2020. (XII. 16.) BM rendelet 113. § i) pontja szerint módosított szöveg.

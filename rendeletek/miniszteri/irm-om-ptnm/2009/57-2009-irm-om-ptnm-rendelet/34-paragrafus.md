@@ -8,13 +8,13 @@
 
 (4) A közlekedéspszichológiai vizsgálatot
 
-a)[^114] a rendőrség esetében első és másodfokon az ORFK,
+a)[^115]
 
-b)[^115] a hivatásos katasztrófavédelmi szerv esetében első fokon az Országos Katasztrófavédelmi Főigazgatóság által működtetett pszichológiai alkalmasság-vizsgálóhely, másodfokon az MH Honvédkórház,
+b)[^116]
 
-c)[^116] a büntetés-végrehajtási szervezet esetében első és másodfokon az MH Honvédkórház,
+c)[^117]
 
-d)[^117] az Országgyűlési Őrség esetében első és másodfokon – a rendőrséggel kötött megállapodás alapján –, térítés ellenében az ORFK
+d)[^118] az Országgyűlési Őrség esetében első és másodfokon – a rendőrséggel kötött megállapodás alapján –, térítés ellenében az ORFK
 
 végzi.
 
@@ -22,7 +22,7 @@ végzi.
 
 (6) A közlekedés-pszichológiai vizsgálaton kizárólag „Megfelelő” vagy „Nem megfelelő” értékelés adható.
 
-[^114]: A 34. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^115]: A 34. § (4) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) és m) pontja szerint módosított szöeg.
-[^116]: A 34. § (4) bekezdés c) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja szerint módosított szöeg.
-[^117]: A 34. § (4) bekezdés d) pontját az 56/2012. (XI. 22.) BM rendelet 157. § (4) bekezdése iktatta be.
+[^115]: A 34. § (4) bekezdés a) pontját a 45/2020. (XII. 16.) BM rendelet 113. § u) pontja hatályon kívül helyezte.
+[^116]: A 34. § (4) bekezdés b) pontját a 45/2020. (XII. 16.) BM rendelet 113. § u) pontja hatályon kívül helyezte.
+[^117]: A 34. § (4) bekezdés c) pontját a 45/2020. (XII. 16.) BM rendelet 113. § u) pontja hatályon kívül helyezte.
+[^118]: A 34. § (4) bekezdés d) pontját az 56/2012. (XI. 22.) BM rendelet 157. § (4) bekezdése iktatta be.

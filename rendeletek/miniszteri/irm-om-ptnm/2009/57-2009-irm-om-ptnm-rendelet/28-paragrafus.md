@@ -2,34 +2,25 @@
 
 28. § (1) Az állományilletékes parancsnoki beosztásba történő kinevezés előtt egészségi, pszichikai, továbbá – ha a hivatásos állomány tagja nem rendelkezik egy éven belüli, az új beosztásnak megfelelő „Fizikailag alkalmas” minősítéssel, akkor – fizikai alkalmassági vizsgálatot kell végrehajtani.
 
-(2)[^99] Az egészségi alkalmassági vizsgálatnak ki kell terjednie a terheléses EKG-ra, valamint a légzésfunkciós- és egyensúlyvizsgálatra is, ha az eljáró orvos az adott beosztáshoz meghatározott követelmények és a vizsgált személy egészségi állapota alapján orvosilag indokoltnak tartja.
+(2)[^101] Az egészségi alkalmassági vizsgálatnak ki kell terjednie a terheléses EKG-ra, valamint a légzésfunkciós- és egyensúlyvizsgálatra is, ha az eljáró orvos az adott beosztáshoz meghatározott követelmények és a vizsgált személy egészségi állapota alapján orvosilag indokoltnak tartja.
 
-(3) A fizikai alkalmassági vizsgálatot:
-
-a)[^100] a rendőrségnél az ORFK,
-
-b) a büntetés-végrehajtási szervezetnél a Büntetés-végrehajtási Szervezet Oktatási Központja,
-
-c)[^101] a hivatásos katasztrófavédelmi szervnél az Országos Katasztrófavédelmi Főigazgatóság
-
-végzi.
+(3)[^102]
 
 (4) Az első és másodfokú egészségi, illetve a pszichikai alkalmassági vizsgálatot
 
-a)[^102] a rendőrségnél az ORFK,
+a)[^103]
 
-b)[^103] a hivatásos katasztrófavédelmi szervnél az MH Honvédkórház,
+b)[^104]
 
-c)[^104] az Országgyűlési Őrségnél – a rendőrséggel kötött megállapodás alapján –, térítés ellenében az ORFK
+c)[^105] az Országgyűlési Őrségnél – a rendőrséggel kötött megállapodás alapján –, térítés ellenében az ORFK
 
 végzi.
 
-(5)[^105] A büntetés-végrehajtási szervezetnél az egészségi, illetve a pszichikai alkalmassági vizsgálatot első fokon az MH Honvédkórház, másodfokon a BVOP végzi.
+(5)[^106]
 
-[^99]: A 28. § (2) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § c) pontja szerint módosított szöveg.
-[^100]: A 28. § (3) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^101]: A 28. § (3) bekezdés c) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) pontja szerint módosított szöeg.
-[^102]: A 28. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^103]: A 28. § (4) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) és m) pontja szerint módosított szöveg.
-[^104]: A 28. § (4) bekezdés c) pontját az 56/2012. (XI. 22.) BM rendelet 157. § (3) bekezdése iktatta be.
-[^105]: A 28. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja szerint módosított szöveg.
+[^101]: A 28. § (2) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § c) pontja szerint módosított szöveg.
+[^102]: A 28. § (3) bekezdését a 45/2020. (XII. 16.) BM rendelet 113. § r) pontja hatályon kívül helyezte.
+[^103]: A 28. § (4) bekezdés a) pontját a 45/2020. (XII. 16.) BM rendelet 113. § s) pontja hatályon kívül helyezte.
+[^104]: A 28. § (4) bekezdés b) pontját a 45/2020. (XII. 16.) BM rendelet 113. § s) pontja hatályon kívül helyezte.
+[^105]: A 28. § (4) bekezdés c) pontját az 56/2012. (XI. 22.) BM rendelet 157. § (3) bekezdése iktatta be.
+[^106]: A 28. § (5) bekezdését a 45/2020. (XII. 16.) BM rendelet 113. § t) pontja hatályon kívül helyezte.

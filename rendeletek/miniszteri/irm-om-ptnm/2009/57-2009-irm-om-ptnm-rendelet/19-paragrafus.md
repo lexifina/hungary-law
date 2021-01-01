@@ -12,24 +12,25 @@
 
 (5)[^59] Az egészségi és pszichikai alkalmassági vizsgálatot másodfokon:
 
-a)[^60] a rendőrségnél, a hivatásos katasztrófavédelmi szervnél, az Országgyűlési Őrségnél az MH Honvédkórház,
+a)[^60] az Országgyűlési Őrségnél az MH Honvédkórház,
 
-b) a büntetés-végrehajtási szervezetnél a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP)
+b)[^61]
 
 végzi.
 
-(6)[^61] A pályázónak csak alkalmas, vagy alkalmatlan minősítés adható.
+(6)[^62] A pályázónak csak alkalmas, vagy alkalmatlan minősítés adható.
 
-(7)[^62] A hivatásos állományba kinevezés előtti alkalmassági vizsgálaton megállapított alkalmas minősítés a hivatásos állományba kinevezés előtti alkalmasság elbírálása során hat hónapig használható fel.
+(7)[^63] A hivatásos állományba kinevezés előtti alkalmassági vizsgálaton megállapított alkalmas minősítés a hivatásos állományba kinevezés előtti alkalmasság elbírálása során hat hónapig használható fel.
 
-(8)[^63] A hivatásos állományba kinevezés előtti alkalmassági vizsgálatokat a rendészeti oktatási intézménnyel hallgatói vagy tanulói jogviszonyban álló pályázó esetén a 26. §-ban meghatározottak szerint kell lefolytatni.
+(8)[^64] A hivatásos állományba kinevezés előtti alkalmassági vizsgálatokat a rendészeti oktatási intézménnyel hallgatói vagy tanulói jogviszonyban álló pályázó esetén a 26. §-ban meghatározottak szerint kell lefolytatni.
 
 [^55]: A 19. § (1) bekezdése a 67/2011. (XII. 30.) BM rendelet 10. §-ával megállapított szöveg.
 [^56]: A 19. § (2) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § e) pontja szerint módosított szöveg.
 [^57]: A 19. § (3) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja szerint módosított szöveg.
 [^58]: A 19. § (4) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) és a 24. § f) pontja szerint módosított szöveg.
 [^59]: A 19. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § g) pontja szerint módosított szöveg.
-[^60]: A 19. § (5) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § k) pontja szerint módosított szöveg.
-[^61]: A 19. § (6) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § h) pontja szerint módosított szöveg.
-[^62]: A 19. § (7) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § i) pontja szerint módosított szöveg.
-[^63]: A 19. § (8) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^60]: A 19. § (5) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § k) pontja, a 45/2020. (XII. 16.) BM rendelet 113. § f) pontja szerint módosított szöveg.
+[^61]: A 19. § (5) bekezdés b) pontját a 45/2020. (XII. 16.) BM rendelet 113. § g) pontja hatályon kívül helyezte.
+[^62]: A 19. § (6) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § h) pontja szerint módosított szöveg.
+[^63]: A 19. § (7) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § i) pontja szerint módosított szöveg.
+[^64]: A 19. § (8) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.

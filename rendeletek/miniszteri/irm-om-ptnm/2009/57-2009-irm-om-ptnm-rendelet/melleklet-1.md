@@ -1,6 +1,6 @@
-## 58. §[^153] A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szervek, valamint az Országgyűlési Őrség vonatkozásában e rendeletnek a Nemzeti Rehabilitációs és Szociális Hivatalra vonatkozó rendelkezéseit 2017. január 1-től azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Rehabilitációs és Szociális Hivatal helyett a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 2. § (4) bekezdése, valamint 1. § (1) bekezdés b) pontja szerint kijelölt első, illetve másodfokon eljáró szerv jár el.
+## 58. §[^154] A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szervek, valamint az Országgyűlési Őrség vonatkozásában e rendeletnek a Nemzeti Rehabilitációs és Szociális Hivatalra vonatkozó rendelkezéseit 2017. január 1-től azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Rehabilitációs és Szociális Hivatal helyett a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 2. § (4) bekezdése, valamint 1. § (1) bekezdés b) pontja szerint kijelölt első, illetve másodfokon eljáró szerv jár el.
 
-1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^154]
+1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^155]
 
 Táblázat és magyarázat a betegségek és fogyatékosságok alapján
 
@@ -1498,5 +1498,53 @@ Végtagok ismétlődő felületes vénatrombóziasa esetén „AN”.
 
 090.2. alszakasz szerint minősítendők mind az alsó, mind a felső végtagon egy alkalommal előforduló mélyvénás-thrombosis, valamint a v. iliaca szintű és a v. cava inferior szintű thrombosis utáni állapot, ha secunder varicositas és végtagoedema nem társul.
 
-[^153]: Az 58. §-t az 55/2016. (XII. 22.) BM rendelet 2. §-a iktatta be.
-[^154]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § q) pontja szerint módosított szöveg.
+090.3. alszakaszba tartoznak az előző alszakaszban említett kórképek, ha secunder varicositas, illetve terhelésre kialakuló végtagoedema társul.
+
+090.4. alszakaszba tartoznak az előző két alszakaszban említett kórképek, ha secunder varicositas, állandó oedema és trophikus zavar társul.
+
+| 091 | Az alsó végtag visszértágulatai | I. | II. | III. | IV. | S | K | BNO |
+
+| A | B | A | B | A | B | A | B | A | B |
+
+| 1. | eredményes műtét utáni állapot | AS | AS | AS | AS | AS | AS | AS | AS | E | E | E | I 83 |
+
+| 2. | kis kiterjedésű visszértágulat gyulladásos és trophiás zavar nélkül | E | E | E | E | E | E | E | E | E | E | E |
+
+| 3. | kis kiterjedésű visszértágulat gyulladás, vagy trophiás zavar esetén, valamint nagy kiterjedésű visszér-tágulat említett elváltozások nélkül | AN | E | E | E | E | E | E | E | AN | E | E |
+
+| 4. | műtét utáni állapot mérsékelt keringési zavarral | AN | E | AN | E | E | E | E | E | AN | AN | AN |
+
+| 5. | műtét utáni állapot súlyos keringési zavarral | AN | AN | AN | AN | AN | AN | AN | E | AN | AN | AN |
+
+Varicositas, ulcus varicosum (alsó végtagon vagy egyéb lokalizációjú).
+
+Szükséges vizsgálatok: Fizikális vizsgálat, vérzési-alvadási rendszer laboratóriumi vizsgálata, belgyógyászati és szükség esetén angiológiai szakkonzílium, angiológiai javaslatra phlebographia.
+
+091.1. alszakaszba tartozik az alsó végtagon eredményes visszérműtét utáni állapot, recidiva nélkül.
+
+091.2. alszakaszba a kis kiterjedésű visszértágulat gyulladásos és trophicus zavar nélkül.
+
+091.3. alszakasz szerint minősítendők a primer varicositas, az ehhez társuló pigmentatio crusis, ulcus varicosum, valamint a primer varicositas előrehaladott esetei. Ht. állományba vételt, valamint rendészeti oktatási intézménybe felvételt megelőzően csak „AN” minősítés adható.
+
+091.4. alszakaszba tartozik a visszérműtét utáni állapot terhelésre kialakuló lábszár-oedemával.
+
+091.5. alszakaszba a visszérműtét után fennálló ulcus crusis, illetve állandó lábszár-oedema, recidiv varicositassal vagy anélkül.
+
+| 092 | Aranyér | I. | II. | III. | IV. | S | K | BNO |
+
+| A | B | A | B | A | B | A | B | A | B |
+
+| 1. | szövődmény nélkül hatásos konzervatív kezelés esetén | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | I 84 |
+
+| 2. | szövődménnyel, sikeres műtét utáni állapot esetén | AS | AS | AS | AS | AS | AS | AS | AS | AN | AS | AS |
+
+| 3. | szövődménnyel, gyakori recidiva és ismételt műtét szükségessége esetén | AN | E | AN | E | E | E | E | E | AN | AN | AN |
+
+Nodus haemorrhoidalis recti internus et externus (thromboticus haemorrhagicus, prolapsus, strangulatus, ulcerosus).
+
+Szükséges vizsgálatok: digitalis és rectoscopos vizsgálattal tisztázni kell a haemorrhoidalis csomók helyét (külső, belső „aranyeres” csomók), esetleges szövődményeit.
+
+Ht. állományba vételt, valamint rendészeti oktatási intézménybe felvételt megelőzően csak „AN” minősítés adható.
+
+[^154]: Az 58. §-t az 55/2016. (XII. 22.) BM rendelet 2. §-a iktatta be.
+[^155]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § q) pontja szerint módosított szöveg.

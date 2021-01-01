@@ -1,17 +1,3 @@
-12. § (1) A fizikai alkalmasság vizsgálatára szolgáló mozgásformák a következők:
+## 11. §[^36]
 
-a) mellső fekvőtámaszban karhajlítás-nyújtás,
-
-b) hajlított karú függés,
-
-c) fekvenyomás,
-
-d) 4x10 m-es ingafutás,
-
-e) helyből távolugrás,
-
-f) hanyattfekvésből felülés,
-
-g) 2000 m-es síkfutás.
-
-(2) Az egyes mozgásformák végrehajtásának leírását a 8. melléklet tartalmazza.
+[^36]: A 11. §-t megelőző „Fizikai alkalmassági vizsgálat” alcím címét és a 11. §-t a 45/2020. (XII. 16.) BM rendelet 113. § d) pontja hatályon kívül helyezte.
