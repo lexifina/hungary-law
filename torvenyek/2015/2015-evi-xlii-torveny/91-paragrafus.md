@@ -8,9 +8,9 @@ b) a 86. § (6) bekezdése szerinti továbbfoglalkoztatására nincs lehetőség
 
 (2) A hivatásos állomány tagját kérelmére a szolgálati viszony megszűnése után is tartalékállományban kell tartani a továbbfoglalkoztatás megkezdéséig, de legfeljebb egy évig, ha
 
-a) a 86. § (2) bekezdés a) pontja alapján egészségi, pszichikai vagy fizikai alkalmatlanság miatt mentették fel,
+a) a 86. § (2) bekezdés a) pontja alapján egészségi, pszichológiai vagy fizikai alkalmatlanság miatt mentették fel,
 
-b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichikai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
+b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
 
 c) a felmentési idő lejártakor rendelkezik legalább huszonöt év tényleges szolgálati idővel.
 
@@ -34,11 +34,11 @@ bc) a foglalkozás-egészségügyi vizsgálaton,
 
 c) az álláshely betöltéséhez szükséges képzésen való részvétel,
 
-d) a felajánlott – végzettségének, képzettségének, egészségi, pszichikai és fizikai állapotának megfelelő – állás elfogadása.
+d) a felajánlott – végzettségének, képzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő – állás elfogadása.
 
 (7) Nem minősül a (6) bekezdés d) pontja szerinti együttműködési kötelezettség megszegésének, ha a (2) bekezdés szerinti tartalékállományban tartás első hat hónapjában a tartalékállományban tartott nem fogadja el a neki felajánlott állást.
 
-(8) Aki a (2) bekezdésben foglaltak szerint kéri a tartalékállományban tartását, az végkielégítésre – a (9) bekezdésben meghatározott kivétellel – csak a tartalékállomány időtartamának lejártakor válik jogosulttá. Ha a tartalékállomány a tartalékállományban tartott végzettségének, képzettségének, egészségi, pszichikai és fizikai állapotának megfelelő állás felajánlása nélkül fejeződik be, a tartalékállományban tartott a végkielégítés teljes összegére jogosult.
+(8) Aki a (2) bekezdésben foglaltak szerint kéri a tartalékállományban tartását, az végkielégítésre – a (9) bekezdésben meghatározott kivétellel – csak a tartalékállomány időtartamának lejártakor válik jogosulttá. Ha a tartalékállomány a tartalékállományban tartott végzettségének, képzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő állás felajánlása nélkül fejeződik be, a tartalékállományban tartott a végkielégítés teljes összegére jogosult.
 
 (9) Ha a tartalékállományba helyezett vagy a tartalékállományban tartott a tartalékállomány időtartamának lejárta előtt kéri a tartalékállomány megszüntetését, arra tekintettel, hogy további foglalkoztatása a tartalékállomány kezelését végző szerv közreműködése nélkül új álláshelyen kezdődik meg, a tartalékállományba helyezést vagy tartalékállományban tartást – és a (2) bekezdés szerinti tartalékállomány esetén az ideiglenes szolgálati járandóság folyósítását – meg kell szüntetni. Ebben az esetben a tartalékállományba helyezett vagy tartalékállományban tartott a tartalékállomány megszüntetésének napján válik jogosulttá a végkielégítés teljes összegére.
 

@@ -8,7 +8,7 @@
 
 2. megállapítsa a miniszter, az országos parancsnok, az országos főigazgató, valamint az állományilletékes parancsnok alárendeltségébe tartozó vezető munkáltatói jogköreit,
 
-3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
+3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási, adó- és vámhatósági szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
 
 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
 
@@ -41,3 +41,5 @@
 18. meghatározza a személyi állomány kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos további feladatokat,
 
 19. megállapítsa a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát, ellátásának feltételrendszerét, a nemzetközi közigazgatási szakértői tevékenység engedélyezésére és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat.
+
+20. meghatározza az árvák kiegészítő támogatásával és a kiegészítő hozzátartozói támogatás megállapításával kapcsolatos közigazgatási hatósági ügyekben a közigazgatási hatósági eljáráshoz kapcsolódó kiegészítő eljárási rendelkezéseket.

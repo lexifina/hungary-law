@@ -36,4 +36,12 @@ de) bírói,
 
 df) ügyészi
 
+e) a Nemzeti Adó- és Vámhivatalnál
+
+ea) adó- és vámhatósági szolgálati,
+
+eb) 2021. január 1-jét megelőzően hivatásos szolgálati,
+
+ec) 2021. január 1-jét megelőzően kormányzati szolgálati
+
 jogviszonyban eltöltött időt.

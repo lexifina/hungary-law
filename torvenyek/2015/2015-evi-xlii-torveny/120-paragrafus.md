@@ -8,7 +8,7 @@ a) az előírt képzési és továbbképzési kötelezettség teljesítése,
 
 b) a jogszabályban meghatározott, elvárt teljesítményszint,
 
-c) az egészségi, pszichikai és fizikai alkalmasság,
+c) az egészségi, pszichológiai és fizikai alkalmasság,
 
 d) az előírt fizetési várakozási idő kitöltése,
 

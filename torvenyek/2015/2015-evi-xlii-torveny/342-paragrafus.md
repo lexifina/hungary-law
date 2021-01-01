@@ -6,7 +6,7 @@ b) 6. pont a), c) és f) alpontjában meghatározott tárgykört,
 
 c) 7. pontjában meghatározott tárgykört,
 
-d) 13. pont a) alpontjában meghatározott tárgykört,
+d) 13. pont a), g), h) és i) alpontjában meghatározott tárgykört,
 
 e) 15. pont b) alpontjában meghatározott tárgykört,
 

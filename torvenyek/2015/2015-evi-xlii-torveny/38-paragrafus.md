@@ -4,7 +4,7 @@
 
 a) szolgálati viszonya megszűnésekor a rendvédelmi szervnél legalább öt év tényleges szolgálati idővel rendelkezett,
 
-b) a hivatásos szolgálatra a szolgálati viszony megszűnésekor egészségi, pszichikai és fizikai szempontból alkalmas volt,
+b) a hivatásos szolgálatra a szolgálati viszony megszűnésekor egészségi, pszichológiai és fizikai szempontból alkalmas volt,
 
 c) megfelel a szolgálati viszony megszűnése előtt betöltött utolsó szolgálati beosztásához előírt képesítési követelményeknek,
 

@@ -8,7 +8,7 @@ c) a munkatársaival együttműködni, munkáját úgy végezni és általában 
 
 d) a számára meghatározott oktatásban, képzésben részt venni, és az előírt vizsgákat letenni,
 
-e) az egészségi, pszichikai és fizikai alkalmassági követelményeknek eleget tenni, és az ezek ellenőrzése érdekében szükséges, a miniszter által meghatározott felméréseknek, szűréseknek és vizsgálatoknak magát alávetni, egészségének megóvása, valamint gyógyulása érdekében az előírt orvosi utasításokat betartani,
+e) az egészségi, pszichológiai és fizikai alkalmassági követelményeknek eleget tenni, és az ezek ellenőrzése érdekében szükséges, a miniszter által meghatározott felméréseknek, szűréseknek és vizsgálatoknak magát alávetni, egészségének megóvása, valamint gyógyulása érdekében az előírt orvosi utasításokat betartani,
 
 f) a jogszabályban foglalt esetben magát kötelező védőoltásnak – az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 58. § (1)–(3) bekezdésében foglalt korlátozásokkal – alávetni,
 

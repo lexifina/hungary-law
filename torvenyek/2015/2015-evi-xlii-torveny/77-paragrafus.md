@@ -10,7 +10,7 @@ c) aki rendvédelmi szerv által elrendelt iskolarendszerű képzésen vesz rés
 
 d) aki felsőoktatási intézményben nappali tanrendben tanulmányokat folytat, a tanulmányai befejezéséig, de legfeljebb a tanulmányok befejezését követő hat hónapig,
 
-e) aki egészségi, pszichikai vagy fizikai állapota miatt eredeti szolgálati beosztását tartósan képtelen ellátni, de felgyógyulása várható, az általa ellátható más szolgálati beosztásba helyezéséig, de legfeljebb egy évig,
+e) aki egészségi, pszichológiai vagy fizikai állapota miatt eredeti szolgálati beosztását tartósan képtelen ellátni, de felgyógyulása várható, az általa ellátható más szolgálati beosztásba helyezéséig, de legfeljebb egy évig,
 
 f) aki szolgálati feladatait gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt vagy más, önhibáján kívüli okból nem tudja ellátni, legfeljebb az ok megszűnéséig,
 

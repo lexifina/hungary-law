@@ -30,9 +30,9 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 a) azért mentették fel, mert a 86. § (6) bekezdés b) pontja szerinti áthelyezéshez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal – így különösen a közeli hozzátartozó elhelyezkedési, iskoláztatási, gondozási lehetetlensége, lakhatási feltételek nehézségei miatt – tagadta meg,
 
-b) a 91. § (1) bekezdésében szabályozott tartalékállomány tartama alatt a végzettségének, képzettségének, egészségi, pszichikai és fizikai állapotának megfelelő felajánlott munkakört nem fogadja el, vagy
+b) a 91. § (1) bekezdésében szabályozott tartalékállomány tartama alatt a végzettségének, képzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő felajánlott munkakört nem fogadja el, vagy
 
-c) a 91. § (2) bekezdésében meghatározott tartalékállomány tartama alatt az együttműködési kötelezettségének nem tesz eleget vagy a végzettségének, képzettségének, egészségi, pszichikai és fizikai állapotának megfelelő felajánlott álláshelyet nem fogadja el.
+c) a 91. § (2) bekezdésében meghatározott tartalékállomány tartama alatt az együttműködési kötelezettségének nem tesz eleget vagy a végzettségének, képzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő felajánlott álláshelyet nem fogadja el.
 
 (5) A hivatásos állomány tagja a szolgálati kötelezettség teljesítése alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletekben jogosult, részére a végkielégítést – a 91. § (8) és (9) bekezdésében meghatározott kivételekkel – a felmentési idő utolsó napján kell kifizetni.
 
@@ -42,7 +42,7 @@ a) a szolgálati viszony megszűnésekor a (8) bekezdés alapján nyugdíjasnak 
 
 b) a 86. § (3) bekezdése alapján a felmentését maga kérte,
 
-c) alkalmatlansága vagy méltatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai vagy fizikai alkalmatlanság miatt került felmentésre,
+c) alkalmatlansága vagy méltatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichológiai vagy fizikai alkalmatlanság miatt került felmentésre,
 
 d) a 91. § (1) és (2) bekezdésében szabályozott tartalékállomány tartama alatt felajánlott álláshelyet elfogadja.
 

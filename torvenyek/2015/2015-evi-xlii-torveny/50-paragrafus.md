@@ -4,7 +4,7 @@
 
 a) – ha volt ilyen előírás – az előírt képzettség megszerzéséről,
 
-b) az egészségügyi, pszichikai és fizikai alkalmassági feltételeknek való megfelelésről,
+b) az egészségi, pszichológiai és fizikai alkalmassági feltételeknek való megfelelésről,
 
 c) a hivatásos állomány tagjának a hivatásos szolgálat alatt tanúsított magatartásáról, szakmai felkészültségéről és teljesítményéről,
 

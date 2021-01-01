@@ -58,7 +58,7 @@ f) azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be
 
 13. meghatározza
 
-a) az egészségi, pszichikai és fizikai alkalmasság követelményeit, az egészségi, pszichikai és fizikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai és fizikai alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
+a) az egészségi, pszichológiai és fizikai alkalmasság követelményeit, az egészségi, pszichológiai és fizikai alkalmassági követelmények felmérésének keretszabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichológiai és fizikai alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
 
 b) a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást,
 
@@ -68,7 +68,11 @@ d) a hivatásos állomány megváltozott egészségi állapotú tagja felülvizs
 
 e) az egészségügyi szabadság, a szolgálatmentesség, valamint a csökkentett napi szolgálati idő megállapításának, engedélyezésének és kiadásának szabályait, a szolgálatképtelenség igazolására vonatkozó szabályokat,
 
-f) a rendvédelmi egészségügyi alapellátás igénybevételének módját és az igénybevevők körét, továbbá a társadalombiztosítási szabályok szerinti ellátáson kívüli kiegészítő, térítéses egészségügyi szolgáltatás, valamint a szolgáltatás térítésének módját,
+f) a rendvédelmi egészségügyi és pszichológiai alapellátás igénybevételének módját és az igénybe vevők körét, továbbá a társadalombiztosítási szabályok szerinti ellátáson kívüli kiegészítő, térítéses egészségügyi szolgáltatás, valamint a szolgáltatás térítésének módját,
+
+g) az egyes szolgálati beosztások okozta egészségi, pszichológiai és fizikai megterhelés alapján az alkalmasságvizsgálati kategóriákat,
+
+h) a pszichológiai kompetenciavizsgálat részletes szabályait, ennek keretében különösen a rangsor állítására és a fejlesztésre vonatkozó szabályokat,
 
 14. megállapítsa a más keresőfoglalkozást nem folytatható vezetői beosztást betöltők körét, a más keresőfoglalkozás bejelentésével, engedélyezésével, az összeférhetetlenség megszüntetésével és tilalma megszegése következményeivel kapcsolatos eljárást,
 
@@ -142,7 +146,7 @@ c) a Becsületbíróságra és annak működésére, eljárására vonatkozó sz
 
 27. megállapítsa a tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, valamint a tisztjelölti szolgálatra vonatkozó rendelkezéseket, valamint a tisztjelölt járandóságra jogosultság feltételeit, fajtáit és mértékét, megállapításának rendjét, folyósításának szabályait,
 
-28. meghatározza a szenior állományba vétel fizikai, pszichikai és egészségi feltételeit, a szenior állomány tagját megillető ruházati ellátási normát és a felszerelést.
+28. meghatározza a szenior állományba vétel fizikai, pszichológiai és egészségi feltételeit, a szenior állomány tagját megillető ruházati ellátási normát és a felszerelést.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben az Országgyűlés elnöke véleményének kikérésével az (1) bekezdés szerinti tárgykörökben az Országgyűlési Őrség vonatkozásában szabályokat állapítson meg.
 

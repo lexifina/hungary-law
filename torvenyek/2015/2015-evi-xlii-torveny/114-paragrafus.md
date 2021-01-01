@@ -56,7 +56,7 @@ besorolási kategóriába kell besorolni.
 
 (5) A szolgálati beosztás (4) bekezdés szerinti értékelésének felülvizsgálatát a miniszter elrendelheti.
 
-(6) A szolgálati beosztások besorolási kategóriáihoz rendelt rendfokozatokat és fizetési fokozatokat, valamint a beosztási illetmény megállapításához szükséges szorzószámokat
+(6) A szolgálati beosztások besorolási kategóriáihoz rendelt rendfokozatokat és fizetési fokozatokat, a beosztási illetmény megállapításához szükséges szorzószámokat, valamint a (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményét
 
 a) a (3) bekezdés a) pontjában megjelölt szerveknél a tiszthelyettesi besorolási osztályban az 5. melléklet, a tiszti besorolási osztályban a 6. melléklet,
 

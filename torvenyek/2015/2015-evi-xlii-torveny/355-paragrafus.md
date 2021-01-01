@@ -1,1 +1,1 @@
-### 355. §
+355. § Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvénnyel megállapított 109. § (2a) bekezdésének hatálybalépését megelőzően a hivatásos állomány tagja által az állományilletékes parancsnoknak bejelentett – munkavégzésre irányuló egyéb jogviszonynak nem minősülő – gazdasági társasággal fennálló vezető tisztségviselői, illetve felügyelőbizottsági tagsági jogviszonyt a hivatásos állomány tagja 2022. december 31-ig köteles megszüntetni.

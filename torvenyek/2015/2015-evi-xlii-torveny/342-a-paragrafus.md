@@ -22,7 +22,9 @@ j) a rendvédelmi igazgatási alkalmazott részére adható szociális, jóléti
 
 k) a fegyelmi eljárás részletszabályait,
 
-l) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárás részletes szabályait.
+l) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárás részletes szabályait,
+
+m) az egészségügyi és pszichológiai alapellátás igénybevételének módját.
 
 (2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
 

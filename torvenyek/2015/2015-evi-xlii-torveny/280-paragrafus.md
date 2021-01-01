@@ -16,15 +16,19 @@ e) az a) és b) pont alá nem tartozó költségvetési szervnél kormányzati s
 
 f) az a) és b) pont alá nem tartozó költségvetési szervnél közalkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészi jogviszonyban eltöltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
 
-g) e törvény hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján elismert és beszámított időt, valamint
+g) e törvény hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján elismert és beszámított időt
 
 h) a sor- és tartalékos katonai szolgálatban eltöltött időt.
 
+i) a Nemzeti Adó- és Vámhivatalnál adó- és vámhatósági szolgálati jogviszonyban és munkaviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban töltött időt.
+
 (2) Ahol e törvény tényleges szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni
 
-a) a valamely rendvédelmi szervnél vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt, valamint
+a) a valamely rendvédelmi szervnél vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt
 
 b) az e törvény hatálybalépése előtt az 1996. évi XLIII. törvény rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati időt.
+
+c) a Nemzeti Adó- és Vámhivatalnál pénzügyőri státuszon létesített adó- és vámhatósági szolgálati jogviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban töltött időt.
 
 (3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e) pontjában meghatározott időket.
 

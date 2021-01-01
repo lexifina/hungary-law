@@ -136,7 +136,7 @@ b) egészségi alkalmasságra vonatkozó adatok,
 
 c) fizikai alkalmasságra vonatkozó adatok,
 
-d) pszichikai alkalmasságra vonatkozó adatok,
+d) pszichológiai alkalmasságra vonatkozó adatok,
 
 e) baleset, betegség szolgálattal összefüggéséről szóló adatok.
 

@@ -10,7 +10,7 @@ a) aki a tizennyolcadik életévét betöltötte, és életkora – az e törvé
 
 b) aki rendelkezik a tervezett szolgálati beosztás besorolási osztálya szerint meghatározott iskolai végzettséggel és szolgálati viszonyra vonatkozó szabályban a szolgálati viszony létesítésének feltételeként meghatározott felsőfokú szakképzettséggel, szakképzettséggel vagy szakképesítéssel,
 
-c) aki a hivatásos szolgálatra és a tervezett szolgálati beosztására egészségi, pszichikai és fizikai szempontból alkalmas,
+c) aki a hivatásos szolgálatra és a tervezett szolgálati beosztására egészségi, pszichológiai és fizikai szempontból alkalmas,
 
 d) akinek életvitele nem kifogásolható, és aki írásban tudomásul veszi, hogy azt a szolgálati viszony létesítését megelőzően, valamint a szolgálati viszony fennállása alatt ellenőrizhetik,
 

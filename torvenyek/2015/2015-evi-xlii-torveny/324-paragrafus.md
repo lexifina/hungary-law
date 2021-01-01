@@ -4,7 +4,7 @@ a) a szenior állomány tagjának kérelmére,
 
 b) ha a szenior állomány tagjával szemben a 80. § (1) bekezdés f) vagy g) pontjában, vagy a 86. § (2) bekezdés b) vagy d) pontjában foglalt ok áll fenn, vagy
 
-c) ha a szenior állomány tagja nem felel meg a szenior állomány tagjára vonatkozó egészségi, fizikai és pszichikai követelményeknek.
+c) ha a szenior állomány tagja nem felel meg a szenior állomány tagjára vonatkozó egészségi, fizikai és pszichológiai követelményeknek.
 
 (2) A szenior állományban foglalkoztatott szolgálati viszonyának megszüntetésére irányuló kérelemben meg kell jelölni a szolgálati viszony megszüntetésének időpontját. A kérelmet a szolgálati viszony megszüntetésének időpontját megelőzően legalább hatvan nappal be kell nyújtani.
 

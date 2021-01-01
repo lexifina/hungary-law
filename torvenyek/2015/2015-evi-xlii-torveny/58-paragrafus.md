@@ -1,6 +1,6 @@
 ## 35. Vezetői beosztás
 
-58. § (1) A hivatásos állomány tagja a rendvédelmi szervnél rendszeresített vezetői beosztásba – beleegyezésével – akkor nevezhető ki, ha a tervezett vezetői beosztáshoz szükséges szakmai és rendvédelmi ismeretekkel, vezetői kompetenciákkal rendelkezik, valamint az egészségi és pszichikai állapota alkalmassá teszi a vezetői beosztás ellátására.
+58. § (1) A hivatásos állomány tagja a rendvédelmi szervnél rendszeresített vezetői beosztásba – beleegyezésével – akkor nevezhető ki, ha a tervezett vezetői beosztáshoz szükséges szakmai és rendvédelmi ismeretekkel, vezetői kompetenciákkal rendelkezik, valamint az egészségi és pszichológiai állapota alkalmassá teszi a vezetői beosztás ellátására.
 
 (2) E törvény eltérő rendelkezése hiányában a vezetői kinevezés határozatlan időre szól.
 

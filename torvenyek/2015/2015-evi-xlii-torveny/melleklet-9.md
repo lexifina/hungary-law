@@ -20,10 +20,16 @@ Vezetői besorolási osztályba tartozó szolgálati beosztások besorolása
 
 I. Kiemelt vezetői szolgálati beosztások
 
-## | | A | B | C | 1. | besorolási kategória | a beosztási illetményt meghatározó szorzószám | rendfokozat | 2. | központi szerv vezetője | 26-28 | tábornok | 3. | központi szerv vezetőjének helyettese | 24-26 | tábornok | 4. | területi szerv vezetője | 20-22 | tábornok vagy ezredes
+## A) Központi szerv vezetője és központi szerv vezetőjének helyettese
+
+## | | A | B | C | 1. | besorolási kategória | illetmény (Ft) | rendfokozat | 2. | központi szerv vezetője | 1.500.000 – 1.900.000 | tábornok | 3. | központi szerv vezetőjének helyettese | 1.300.000 – 1.650.000 | tábornok
+
+## B) Területi szerv vezetője
+
+## | | A | B | C | 1. | besorolási kategória | a beosztási illetményt meghatározó szorzószám | rendfokozat | 2. | területi szerv vezetője | 20-22 | tábornok vagy ezredes
 
 II. Középvezetői szolgálati beosztások
 
-## 5K26087M_1 | | A | B | C | D | E | 1. | fizetési fokozat | besorolási kategóriák, valamint a besorolási kategóriák fizetési fokozataihoz rendelt rendfokozatok és a beosztási illetményt meghatározó szorzószámok | 2. | főosztályvezető 2 | főosztályvezető 1 | szakirányító 2 | szakirányító 1 | 3. | 1. | 15 | 16 | 18 | 19 | 4. | alezredes | alezredes | alezredes/ezredes | alezredes/ezredes | 5. | 2. | 15,75 | 16,75 | 18,75 | 19,75 | 6. | alezredes/ezredes | alezredes/ezredes | alezredes/ezredes | alezredes/ezredes | 7. | 3. | 16,5 | 17,5 | 19,5 | 20,5 | 8. | alezredes/ezredes | alezredes/ezredes | alezredes/ezredes | ezredes/tábornok
+## 0X10300M_2 | | A | B | C | D | E | 1. | fizetési fokozat | besorolási kategóriák, valamint a besorolási kategóriák fizetési fokozataihoz rendelt rendfokozatok és a beosztási illetményt meghatározó szorzószámok | 2. | főosztályvezető 2 | főosztályvezető 1 | szakirányító 2 | szakirányító 1 | 3. | 1. | 15 | 16 | 18 | 19 | 4. | alezredes | alezredes | alezredes/ezredes | alezredes/ezredes | 5. | 2. | 15,75 | 16,75 | 18,75 | 19,75 | 6. | alezredes/ezredes | alezredes/ezredes | alezredes/ezredes | alezredes/ezredes | 7. | 3. | 16,5 | 17,5 | 19,5 | 20,5 | 8. | alezredes/ezredes | alezredes/ezredes | alezredes/ezredes | ezredes/tábornok
 
 III. Beosztott vezetői szolgálati beosztások

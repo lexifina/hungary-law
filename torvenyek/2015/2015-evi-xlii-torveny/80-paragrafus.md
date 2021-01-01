@@ -37,3 +37,5 @@ f) más rendvédelmi szervhez történő áthelyezéssel,
 g) a Magyar Honvédséghez történő áthelyezéssel,
 
 h) azonnali hatállyal a próbaidő alatt.
+
+i) a Nemzeti Adó- és Vámhivatalhoz történő áthelyezéssel.

@@ -20,15 +20,15 @@ f) a büntetés-végrehajtási szervezet,
 
 g) az Országgyűlési Őrség,
 
-h) a polgári nemzetbiztonsági szolgálatok, valamint
+h) a polgári nemzetbiztonsági szolgálatok
 
-i) a Nemzeti Adó- és Vámhivatal
+i)
 
-[az a)–i) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
+[az a)–h) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
 
 (2) Az Országgyűlési Őrség hivatásos állományának szolgálati viszonyára az e törvényben foglaltakat az Országgyűlésről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
-(3) A Nemzeti Adó- és Vámhivatal hivatásos állományának szolgálati viszonyára az e törvényben foglaltakat a Nemzeti Adó- és Vámhivatalról szóló törvényben foglalt eltérésekkel kell alkalmazni.
+(3)
 
 (4) E törvény rendelkezéseit – az e törvényben meghatározott esetben és körben –
 
@@ -55,3 +55,5 @@ is alkalmazni kell.
 (8) A rendvédelmi egészségkárosodási keresetkiegészítésre és a rendvédelmi egészségkárosodási járadékra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állomány volt tagjára és közeli hozzátartozóira is alkalmazni kell.
 
 (9) A 255/A. §-t és a 362/D. §-t a rendvédelmi szerv teljes személyi állományára alkalmazni kell.
+
+(10) A 291–307. §-t a Nemzeti Adó- és Vámhivatal tekintetében is alkalmazni kell.
