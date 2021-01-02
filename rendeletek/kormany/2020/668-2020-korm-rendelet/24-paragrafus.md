@@ -1,3 +1,5 @@
-## lép.
+## 23. §[^25]
 
 ## 24. A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet módosítása
+
+[^25]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
