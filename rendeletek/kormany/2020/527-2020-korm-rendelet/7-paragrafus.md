@@ -1,3 +1,3 @@
-## 6. § A 410/2012. Korm. rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „(1) A forgalmi jegyzékben vezetett magyar nemzeti folyószámlán lévő ÜHG-egységeket a miniszter a nemzeti tisztviselő útján tartja nyilván.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

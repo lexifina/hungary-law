@@ -1,27 +1,3 @@
-## 4. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet (a továbbiakban: 410/2012. Korm. rendelet) a következő 3/A–3/C. §-sal egészül ki:
+## 4. §[^5]
 
-## „3/A. § (1) A légi jármű üzembentartó
-
-## a) az Ügkr. tv. 1. mellékletében foglalt táblázat 37. sora szerinti tevékenysége, valamint az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülések során keletkező szén-dioxid kibocsátása, és
-
-## b) ha térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, a tonnakilométer adatai
-
-## nyomon követésére és jelentésére vonatkozóan nyomonkövetési tervet készít, és azt a hatóság részére jóváhagyás céljából megküldi az (EU) 2018/2066 bizottsági végrehajtási rendelet 52. cikkében meghatározott határidők betartásával.
-
-## (2) Ha az (1) bekezdés szerinti nyomonkövetési terv megfelel az (EU) 2018/2066 bizottsági végrehajtási rendelet, valamint e kormányrendeletben foglaltaknak, a hatóság a nyomonkövetési tervet jóváhagyja.
-
-## (3) A kis kibocsátású létesítmények üzemeltetője és a kis kibocsátónak minősülő légi jármű üzembentartó az (EU) 2018/2066 bizottsági végrehajtási rendelet 47. cikkében meghatározott egyszerűsített nyomonkövetési terv tervezetet nyújthat be. A kibocsátási engedély iránti kérelemhez és a nyomonkövetési terv tervezetéhez mellékelni kell az egyszerűsített nyomonkövetési terv elkészítése feltételeinek való megfelelést igazoló dokumentumokat. Ha a benyújtott terv megfelel az egyszerűsített nyomonkövetési terv feltételeinek, a hatóság a tervet jóváhagyja és a kibocsátási engedélyt kiadja.
-
-## (4) Ha az egyszerűsített nyomon követést alkalmazó üzemeltető vagy légi jármű üzembentartó egy jelentési évben túllépi a kis kibocsátók számára megállapított küszöbértéket, e tényről a bejelentés alapjául szolgáló esemény napját követő 8 napon belül értesíti a hatóságot, és megküldi a nyomonkövetési terv módosítására vonatkozó javaslatát, és kéri a kibocsátási engedélye módosítását.
-
-## 3/B. § (1) A nyomonkövetési terv jelentős – az (EU) 2018/2066 bizottsági végrehajtási rendelet 15. cikk (3) és (4) bekezdése szerinti – módosítását eredményező változásokat az üzemeltető és a légi jármű üzembentartó a változás bekövetkeztétől számított 8 napon belül bejelenti a hatóságnak. A nyomonkövetési terv jelentős módosításához a hatóság engedélye szükséges.
-
-## (2) A nyomonkövetési terv jelentősnek nem minősülő módosítását az üzemeltető és a légi jármű üzembentartó hatósági jóváhagyás nélkül is elvégezheti. A nyomonkövetési terv naptári évben végrehajtott jelentősnek nem minősülő módosításairól az üzemeltető és a légi jármű üzembentartó minden év december 31-ig értesíti a hatóságot. Ha a hatóság megállapítja, hogy a nyomonkövetési terv nincs összhangban az (EU) 2018/2066 bizottsági végrehajtási rendelet, az Ügkr. tv., valamint e kormányrendelet rendelkezéseivel, felszólítja az üzemeltetőt és a légi jármű üzembentartót a nyomonkövetési terv módosítására és a kibocsátási engedély módosítására irányuló kérelem benyújtására.
-
-## 3/C. § (1) A légi jármű üzembentartó az Ügkr. tv. 1. mellékletében foglalt táblázat 37. sora szerinti, az üzemeltető a kibocsátási engedély hatálya alá tartozó tevékenységből származó üvegházhatású gáz kibocsátását – az (EU) 2018/2066 bizottsági végrehajtási rendelet, az Ügkr. tv. és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomonkövetési terv, a légi jármű üzembentartó, valamint az üzemeltető belső eljárásrendje szerint – nyomon követi, és a jelentési időszak (tárgyév) éves kibocsátását tartalmazó hitelesített kibocsátási jelentését a hatóság részére a tárgyévet követő év március 31-ig benyújtja.
-
-## (2) A légi jármű üzembentartó az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülésekből származó – az (1) bekezdésben meghatározott jelentéstől független – hitelesített kibocsátási jelentést készít az (EU) 2018/2066 bizottsági végrehajtási rendelet, az Ügkr. tv. és a végrehajtására kiadott jogszabályok, a hatóság által jóváhagyott nyomonkövetési terv, valamint a légi jármű üzembentartó belső eljárásrendje szerint, és azt a hatóság részére a tárgyévet követő év április 30-ig benyújtja.
-
-## (3) Ha a légi jármű üzembentartó térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, az (1) bekezdésben foglaltakon túl a tonnakilométer-adatokat is nyomon követi az (EU) 2018/2066 bizottsági végrehajtási rendelet, az Ügkr. tv. és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomonkövetési terv, valamint a légi jármű üzembentartó belső eljárásrendje szerint, és arról a hatóság részére – a (3) bekezdésben foglalt kivétellel – hitelesített tonnakilométer-adatokat tartalmazó jelentést tesz az ellenőrzési évet követő év március 31-ig.
-
-## (4) Ha a légi jármű üzembentartó előre nem látható körülmények miatt, önhibáján kívül a (2) bekezdés szerinti hitelesített jelentését nem tudja a hatóság rendelkezésére bocsátani, az (EU) 2018/2066 bizottsági végrehajtási rendelet 68. cikk (1) bekezdése szerinti rendelkezésre álló legpontosabb tonnakilométer-adatokat adja át a hatóság részére az ellenőrzési évet követő év március 31-ig, majd biztosítja a benyújtott tonnakilométer-adatok hitelesítését, és benyújtja hitelesített jelentését a hatóságnak.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
