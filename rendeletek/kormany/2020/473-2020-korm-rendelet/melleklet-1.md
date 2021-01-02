@@ -1,3 +1,3 @@
-1. melléklet a 473/2020. (X. 30.) Korm. rendelethez[^4]
+1. melléklet a 473/2020. (X. 30.) Korm. rendelethez[^8]
 
-[^4]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
