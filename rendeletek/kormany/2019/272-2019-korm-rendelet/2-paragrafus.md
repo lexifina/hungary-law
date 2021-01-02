@@ -1,1 +1,0 @@
-## „(10) Helyettesítési pótlék illeti meg a bölcsődei, mini bölcsődei csoportban azt a kisgyermeknevelőt, aki a másik kisgyermeknevelő távolléte esetén egyedül látja el a bölcsődei csoporttal kapcsolatos feladatokat. A helyettesítési pótlék mértéke az egy órára eső illetmény 30%-a.”
