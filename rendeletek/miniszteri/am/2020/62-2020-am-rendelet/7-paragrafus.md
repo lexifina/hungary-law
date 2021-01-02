@@ -1,3 +1,3 @@
-## 6. § A 43/2014. (XII. 29.) FM rendelet 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „(2) A tenyésztőszervezet az e rendelet szerint kérelmezett támogatásokra vonatkozóan a 702/2014/EU bizottsági rendelet 13. cikke szerinti, részletes nyilvántartást vezet, amely tartalmazza a 8. § (5) bekezdésében meghatározott kimutatás szerinti adatokat, valamint a kedvezményezettnek a 4. §-ban foglaltaknak történő megfelelésről szóló nyilatkozata másolatát.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
