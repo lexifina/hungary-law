@@ -23,3 +23,7 @@
 ## c) 2019-ben a kockázatkoncentráció részmodulnak és a kamatréskockázati részmodulnak a standard formulával összhangban történő számításakor alkalmazott standard paramétereket 50%-kal kell csökkenteni a tagállamok központi kormányzataival vagy központi bankjaival szembeni, bármely más tagállam fizetőeszközében denominált és finanszírozott kitettségek vonatkozásában,
 
 ## d) 2020. január 1-jétől a kockázatkoncentráció részmodulnak és a kamatréskockázati részmodulnak a standard formulával összhangban történő számításakor alkalmazott standard paramétereket nem kell csökkenteni a tagállamok központi kormányzataival vagy központi bankjaival szemben, bármely más tagállam fizetőeszközében denominált és finanszírozott kitettségek vonatkozásában.”
+
+10. §[^2]
+
+[^2]: A 10. §-t a 346/2015. (XI. 19.) Korm. rendelet 5. §-a hatályon kívül helyezte.
