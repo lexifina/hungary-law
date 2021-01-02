@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-160-20-
 | 2018-06-26 | 1996-160-20-22.33 | 108/2018. (VI. 25.) Korm. rendelet |
 | 2018-07-05 | 1996-160-20-22.34 | 120/2018. (VII. 4.) Korm. rendelet |
 | 2019-11-20 | 1996-160-20-22.35 | 267/2019. (XI. 19.) Korm. rendelet |
+| 2021-01-02 | 1996-160-20-22.36 | 591/2020. (XII. 17.) Korm. rendelet |

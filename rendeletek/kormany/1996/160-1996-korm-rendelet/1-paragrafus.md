@@ -22,7 +22,7 @@ f)[^6] viszonosság hiányában a rendészetért felelős miniszter döntése al
 
 g) az 1. melléklet 2. pontjában létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek (a továbbiakban: kijelölt létesítmény) védelmét,
 
-h)[^7] az 1. melléklet 1. pont 4. és 5. alpontjában meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő házas- vagy élettársa és gyermeke személyvédelmét, ha alapos okból védelmük szükséges [az (1) bekezdésben és az a)–f) és h) pontban meghatározottak a továbbiakban együtt: védett személy].
+h)[^7] az 1. melléklet 1. pont 4. alpontjában meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő házas- vagy élettársa és gyermeke személyvédelmét, ha alapos okból védelmük szükséges [az (1) bekezdésben és az a)–f) és h) pontban meghatározottak a továbbiakban együtt: védett személy].
 
 (3)[^8] A (2) bekezdés a)–f) és h) pontjában meghatározott személyvédelmi feladatok végrehajtását a rendészetért felelős miniszter ideiglenesen, eseti jelleggel a Terrorelhárítási Központ hatáskörébe utalhatja.
 
@@ -32,5 +32,5 @@ h)[^7] az 1. melléklet 1. pont 4. és 5. alpontjában meghatározott állandó 
 [^4]: Az 1. § (2) bekezdés a) pontja a 165/2017. (VI. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés d) pontja a 165/2017. (VI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^6]: Az 1. § (2) bekezdés f) pontja a 165/2017. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^7]: Az 1. § (2) bekezdés h) pontját a 165/2017. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (2) bekezdés h) pontját a 165/2017. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 591/2020. (XII. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (3) bekezdése a 165/2017. (VI. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

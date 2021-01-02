@@ -22,7 +22,7 @@ b) külföldi utazására;
 
 c)[^15] belföldi utazása során – veszélyeztetettségének megfelelően – közúton oszlopvezető és utánfutó gépjármű, vasúton előfutó mozdony, vízi úton kísérő rendőrségi vízi jármű alkalmazására.
 
-(3)[^16] Az (1) bekezdésben meghatározottakon túl az Alkotmánybíróság elnökének és a Kúria elnökének védelme állandó szálláshelyének (rezidencia), illetve ideiglenes szállásának őrszemélyzettel történő biztosítására is kiterjed.
+(3)[^16] Az (1) bekezdésben meghatározottakon túl az Alkotmánybíróság elnökének védelme állandó szálláshelyének (rezidencia), illetve ideiglenes szállásának őrszemélyzettel történő biztosítására is kiterjed.
 
 (3a)[^17] Az (1) bekezdésben meghatározottakon túl – ha az alapos okból szükséges – az 1. melléklet 1. pont 1–3. alpontjában meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő házas- vagy élettársának és gyermekének védelme kiterjed a (2) bekezdés b) pontjában meghatározott védelmi intézkedésre is.
 
@@ -50,7 +50,7 @@ c) viszonosság alapján védett személynek tekintendő külföldi.
 [^13]: A 3. § (1) bekezdés f) pontját a 232/2010. (VIII. 19.) Korm. rendelet 9. §-a iktatta be.
 [^14]: A 3. § (2) bekezdés nyitó szövegrésze a 63/2010. (III. 18.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^15]: A 3. § (2) bekezdésének c) pontja a 197/1999. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^16]: A 3. § (3) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 4. §-ával megállapított, a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés a) pontja, a 102/2012. (V. 18.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^16]: A 3. § (3) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 4. §-ával megállapított, a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés a) pontja, a 102/2012. (V. 18.) Korm. rendelet 11. § b) pontja, az 591/2020. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^17]: A 3. § (3a) bekezdését a 83/2015. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 4. § e) pontja, a 120/2018. (VII. 4.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^18]: A 3. § (3b) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
 [^19]: A 3. § (4) bekezdése a 63/2010. (III. 18.) Korm. rendelet 12. § d) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.

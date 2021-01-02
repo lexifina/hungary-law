@@ -1,4 +1,4 @@
-8/D. §[^53] (1) Az igénybe vett egészségügyi intézmények vezetői gondoskodnak arról, hogy az igénybe vett egészségügyi intézmények
+8/D. §[^54] (1) Az igénybe vett egészségügyi intézmények vezetői gondoskodnak arról, hogy az igénybe vett egészségügyi intézmények
 
 a) a rendelkezésére álló körülmények között biztosítsák
 
@@ -12,7 +12,7 @@ b) dolgozói a védett személy védelmét ellátók utasításainak figyelembev
 
 (3) A védett személy egészségügyi ellátása az igénybe vett egészségügyi intézményekben kezelt betegek ellátását nem hátráltathatja.
 
-(4)[^54] Az (1) és (3) bekezdés végrehajtásában a fővárosi és megyei tisztifőorvos ellenőrzési jogkört gyakorol az igénybe vett egészségügyi intézmények vezetői felett. Ha az ellenőrzés során azt tapasztalja, hogy az igénybe vett egészségügyi intézmények vezetői nem látják el az (1) és (3) bekezdés végrehajtása érdekében szükséges feladatokat, erről haladéktalanul értesíti az igénybe vett egészségügyi intézmények felett fenntartói jogokat gyakorló szervet és az egészségügyért felelős minisztert.
+(4)[^55] Az (1) és (3) bekezdés végrehajtásában a fővárosi és megyei tisztifőorvos ellenőrzési jogkört gyakorol az igénybe vett egészségügyi intézmények vezetői felett. Ha az ellenőrzés során azt tapasztalja, hogy az igénybe vett egészségügyi intézmények vezetői nem látják el az (1) és (3) bekezdés végrehajtása érdekében szükséges feladatokat, erről haladéktalanul értesíti az igénybe vett egészségügyi intézmények felett fenntartói jogokat gyakorló szervet és az egészségügyért felelős minisztert.
 
-[^53]: A 8/D. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
-[^54]: A 8/D. § (4) bekezdése a 165/2017. (VI. 28.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
+[^54]: A 8/D. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
+[^55]: A 8/D. § (4) bekezdése a 165/2017. (VI. 28.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
