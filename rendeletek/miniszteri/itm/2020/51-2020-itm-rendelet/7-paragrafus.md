@@ -1,1 +1,3 @@
-## „i) a tv. 2. melléklete szerinti műszaki követelményeknek való megfelelését a gáz- és riasztófegyverek esetében.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

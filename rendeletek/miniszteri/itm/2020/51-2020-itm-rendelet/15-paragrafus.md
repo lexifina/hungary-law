@@ -1,1 +1,3 @@
-## 14. § Hatályát veszti a 31/2006. (VI. 1.) GKM rendelet Függeléke.
+## 14. §[^15]
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

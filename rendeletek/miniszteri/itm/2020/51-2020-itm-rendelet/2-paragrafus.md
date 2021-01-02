@@ -1,1 +1,3 @@
-## „21a. saját töltényűrrel nem rendelkező gáz- és riasztófegyver: az a hasábtáras riasztófegyver, amelynél a töltényűröket tartalmazó különálló tömböt a fegyverbe betöltve a töltényűrök tengelye a csőtengelyre vetítve merőlegest zár be.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
