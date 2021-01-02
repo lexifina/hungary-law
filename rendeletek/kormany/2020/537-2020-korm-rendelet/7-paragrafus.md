@@ -1,5 +1,8 @@
 ## 6. § E rendelet végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter gondoskodik.
 
-7. § (1) Hatályát veszti a sportbeli dopping elleni nemzetközi egyezmény I. melléklete módosításának kihirdetéséről szóló 293/2019. (XII. 10.) Korm. rendelet.
+7. § (1)[^1]
 
-(2) Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény I. és II. melléklete módosításának kihirdetéséről szóló 245/2018. (XII. 17.) Korm. rendelet.
+(2)[^2]
+
+[^1]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
