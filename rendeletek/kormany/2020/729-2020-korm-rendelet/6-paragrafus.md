@@ -1,1 +1,3 @@
-## 5. § Hatályát veszti az R. 1. § (1) bekezdésében az „a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zrt. mint építtető által megvalósítandó” szövegrész.
+## 1–5. §[^2]
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
