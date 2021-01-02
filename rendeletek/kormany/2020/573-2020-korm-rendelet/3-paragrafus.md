@@ -1,5 +1,3 @@
-## 3. § Hatályát veszti
+3. §[^1]
 
-a) a Rendszerváltás Történetét Kutató Intézet és Archívum létrehozásáról szóló 83/2013. (III. 21.) Korm. rendelet, valamint
-
-b) a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 1. melléklet 16. pontja.
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
