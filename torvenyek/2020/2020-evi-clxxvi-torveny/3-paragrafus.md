@@ -1,3 +1,1 @@
-3. § A Vet. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az átviteli rendszerirányító a 20. § (2) bekezdése szerinti piaci alapú eljárás eredménytelensége és az elosztó a 32/A. § (1) bekezdése szerinti piaci alapú eljárás eredménytelensége, vagy a Hivatal 32/B. § (2) bekezdése szerinti döntése esetén a legkisebb költség elvének és a 2019/943/EU rendelet rendelkezéseinek figyelembevételével – ide nem értve a 36. § (1) és (2) bekezdése szerinti eseteket – bármikor igényelheti bármely üzemeltetésre alkalmas villamosenergia-tároló vagy -termelő berendezés – a keresletoldali szabályozásra alkalmas felhasználói berendezést is ideértve – hálózatra kapcsolását, leállítását, vagy korlátozását. Az igénybevétel feltétele, hogy az átviteli rendszerirányító vagy az elosztó annak költségeit a 2019/943/EU rendelet rendelkezéseinek figyelembevételével vállalja. A költségek vállalása esetén az igény teljesítése nem tagadható meg.”
+3. §
