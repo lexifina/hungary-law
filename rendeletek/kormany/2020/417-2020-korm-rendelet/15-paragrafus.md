@@ -1,1 +1,3 @@
-## 14. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: R3.) 26/A. (4) bekezdésében az „olyan pedagógiai intézkedéseket” szövegrész helyébe az „olyan, az iskolai lemorzsolódás megelőzését támogató pedagógiai rendszerben megvalósuló pedagógiai intézkedéseket” szöveg lép.
+## 14. §[^15]
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
