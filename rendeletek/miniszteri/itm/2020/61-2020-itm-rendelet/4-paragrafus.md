@@ -1,1 +1,3 @@
-## „(6a) Meglévő épületek esetén a több mint húsz parkolóhellyel rendelkező, nem lakáscélú épületeknek meg kell felelnie a 8. mellékletben meghatározott követelményeknek.”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
