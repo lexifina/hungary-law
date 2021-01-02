@@ -1,13 +1,17 @@
 ## lép.
 
-## 5. § Hatályát veszti a 80/2012. NFM rendelet
+## 5. §[^8]
 
-a) 1. § (1) bekezdés b) pontja,
+a)[^9]
 
-b)[^5]
+b)[^10]
 
-c) 6. §-a,
+c)[^11]
 
-d) 6/A. § (1) bekezdésében az „ezer forintra kerekítve” szövegrész.
+d)[^12]
 
-[^5]: Az 5. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 5. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 5. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

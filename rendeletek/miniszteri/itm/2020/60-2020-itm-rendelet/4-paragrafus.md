@@ -4,11 +4,14 @@
 
 a)[^4]
 
-b) 6/A. § (1) bekezdésében az „Az Éhvt. 10/C. §-a” szövegrész helyébe az „Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) 10/C. §-a” szöveg, valamint az „átutalási megbízással” szövegrész helyébe az „átutalással” szöveg,
+b)[^5]
 
-c) 6/A. § (3) bekezdésében a „díjbekérőt” szövegrész helyébe az „egyenlegértesítőt” szöveg,
+c)[^6]
 
-d) 6/A. § (5) bekezdésében a „Hatóság” szövegrész helyébe a „Hatóság a” szöveg
+d)[^7]
 
 [^3]: A 3. § a 6. § (3) bekezdése alapján 2021. január 30-án lép hatályba.
 [^4]: A 4. § a) pontja a 6. § (3) bekezdése alapján 2021. január 30-án lép hatályba.
+[^5]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
