@@ -1,3 +1,3 @@
-## 19. § Az egyházi jogi személyek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 296/2013. (VII. 29.) Korm. rendelet (a továbbiakban: Ekr.) a következő 15. §-sal egészül ki:
+## 19. §[^20]
 
-## „15. § E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló kormányrendelet módosításáról szóló 616/2020. (XII. 21.) Korm. rendelettel hatályon kívül helyezett 6. § (4) bekezdését először a 2020. évben induló üzleti évről készített beszámolóra nem kell alkalmazni.”
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
