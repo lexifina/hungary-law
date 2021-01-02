@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-137-00-00
 | 2020-12-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-137-00-00.3 |
 | 2020-12-28 | 2010. évi CXXX. törvény | 2020-137-00-00.4 |
 | 2021-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-137-00-00.5 |
+| 2021-01-02 | 2010. évi CXXX. törvény | 2020-137-00-00.6 |
