@@ -2,7 +2,7 @@
 
 2. A KKB felhívja a BM OKF főigazgatóját, mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy az Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, és ezzel egyidejűleg hatályát veszti a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2020. évi munkatervének elfogadásáról szóló 4/2019. (XII. 20.) KKB határozat.
+3.[^1] Ez a határozat a közzétételét követő napon lép hatályba.
 
 Melléklet a 4/2020. (XII. 15.) KKB határozathoz
 
@@ -64,6 +64,7 @@ Határidő: folyamatos
 
 Függelék
 
-Az Országos Nukleárisbaleset-elhárítási Rendszer 2021. évi képzési és gyakorlatozási terve[^1]
+Az Országos Nukleárisbaleset-elhárítási Rendszer 2021. évi képzési és gyakorlatozási terve[^2]
 
-[^1]: A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság határozatának függelékét képező, az Országos Nukleárisbaleset-elhárítási Rendszer 2021. évi képzési és gyakorlatozási terve a BM Országos Katasztrófavédelmi Főigazgatóság honlapján érhető el, a következő útvonalon: https://www.katasztrofavedelem.hu/26425/vedelmi-igazgatas
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság határozatának függelékét képező, az Országos Nukleárisbaleset-elhárítási Rendszer 2021. évi képzési és gyakorlatozási terve a BM Országos Katasztrófavédelmi Főigazgatóság honlapján érhető el, a következő útvonalon: https://www.katasztrofavedelem.hu/26425/vedelmi-igazgatas
