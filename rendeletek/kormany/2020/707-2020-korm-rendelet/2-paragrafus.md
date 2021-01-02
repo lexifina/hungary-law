@@ -1,3 +1,3 @@
-## 1. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet a 3. §-t követően a következő alcím címmel egészül ki:
+## 1. §[^2]
 
-## „A tizenharmadik havi nyugdíj”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
