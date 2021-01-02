@@ -1,3 +1,5 @@
-## 30. § Hatályát veszti a 259/2011. Korm. rendelet 7. § (1) és (2) bekezdése.
+## 30. §[^31]
 
 ## 23. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
+
+[^31]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

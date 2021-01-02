@@ -1,1 +1,3 @@
-## 11. § Az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: 238/2005. Korm. rendelet) 1/A. § (2) bekezdésében a „szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló” szövegrész helyébe a „szankcióiról szóló” szöveg lép.
+## 11. §[^12]
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-## lép.
+## 37. §[^38]
 
-## 38. § Hatályát veszti a 369/2013. Korm. rendelet
-
-a) 40. § (3) bekezdése,
-
-b) 42/A. § (2) bekezdése,
-
-c) 46. § (1) és (2) bekezdése.
+[^38]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

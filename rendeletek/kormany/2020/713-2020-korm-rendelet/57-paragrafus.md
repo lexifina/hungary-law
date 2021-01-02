@@ -1,3 +1,5 @@
-## „16/A. § Ha a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR Szabályzat) szerinti oktató a veszélyes áruk közúti szállítására vonatkozó, az oktatni kívánt áruosztályokra érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal nem rendelkezik, illetve ha a közlekedési hatóság által meghirdetett továbbképzésen nem vett részt vagy – ha a már elismert oktató – a továbbképzést követő ismeretfelújító vizsgát nem teljesítette, továbbá ha a szakfelügyeleti ellenőrzés megállapítása szerint a foglalkozásvezető szakmai tevékenységének színvonala nem kielégítő, a közlekedési hatóság az oktatót a tevékenység gyakorlásától a hiányosság megszüntetéséig eltiltja.”
+## 56. §[^57]
 
 ## 42. Egyes hajózási hatósági eljárások részletes szabályairól szóló 515/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^57]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
