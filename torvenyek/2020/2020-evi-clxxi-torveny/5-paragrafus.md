@@ -1,3 +1,1 @@
-5. § Az Mmtv. 23. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A megváltozott munkaképességű munkavállalót foglalkoztató munkaadó a rehabilitációs hozzájárulás megállapítása céljából nyilvántartást vezet, amely tartalmazza a megváltozott munkaképességű munkavállaló és a 22/A. § szerinti személy természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, a megváltozott munkaképességű munkavállaló munkaképesség-változásának, egészségi állapotának, egészségkárosodásának mértékét, a sajátos nevelési igény vagy fogyatékosság tényét, továbbá az ezek igazolására szolgáló okiratok másolatát. A nyilvántartást a munkáltató a foglalkoztatás megszűnését követő 5 évig köteles megőrizni. A sajátos nevelési igényre vagy a fogyatékosság tényére vonatkozó adat a foglalkoztatás megszűnését követő 5 évig, de legfeljebb a 23. életév betöltését követő 5 évig kezelhető.”
+5. §
