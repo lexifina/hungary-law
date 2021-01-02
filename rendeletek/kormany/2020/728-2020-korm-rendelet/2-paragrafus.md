@@ -1,3 +1,0 @@
-## 1. § Az egyes koncesszióköteles tevékenységek tekintetében az illetékes ágazati miniszteri feladatok ellátásáról szóló 495/2020. (XI. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 5. § (1) bekezdésében meghatározott – a pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a Ktv. 10/A. §-a szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére vonatkozó – feladatokat az 1. mellékletben meghatározott koncesszióköteles tevékenységek tekintetében a Nemzeti Koncessziós Iroda látja el.”
