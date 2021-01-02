@@ -1,1 +1,3 @@
-## 11. § Az önkéntes tartalékos rendszerhez kapcsolódóan, a munkáltatót megillető támogatásokra vonatkozó szabályokról szóló 294/2011. (XII. 22.) Korm. rendelet 1. § (1) bekezdés b) pontjában a „személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18. pontja” szövegrész helyébe a „családi gazdaságokról szóló 2020. évi CXXIII. törvény” szöveg lép.
+## 11. §[^4]
+
+[^4]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 13. § A mezőgazdasági termelők által üzemeltetett gépjárművek útdíj fizetése alóli mentesülésének részletes szabályairól szóló 243/2013. (VI. 30.) Korm. rendelet 1. § a) pontjában az „őstermelő” szövegrész helyébe az „a családi gazdaságokról szóló 2020. évi CXXIII. törvény szerinti mezőgazdasági őstermelő” szöveg lép.
+## 13. §[^6]
+
+[^6]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

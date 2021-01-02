@@ -1,3 +1,5 @@
+## 17. §[^10]
+
 1. melléklet a 665/2020. (XII. 28.) Korm. rendelethez
 
 ## A mezőgazdasági őstermelői nyilvántartásban szereplő, a tevékenységre és az előállított termékre vonatkozó adatok
@@ -57,3 +59,5 @@
 7. az őstermelői tevékenység megnevezése (ÖVTJ-kód)
 
 8. tevékenység azonosítója
+
+[^10]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

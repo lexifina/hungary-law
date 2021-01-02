@@ -1,1 +1,3 @@
-## 12. § A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 5. melléklet, II. Jövedelmi adatok 2. pontjában a „Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel” szövegrész helyébe az „Az átalányadózó mezőgazdasági őstermelő esetében a bevétel csökkenthető a bevétel 90%-ának megfelelő összeggel” szöveg lép.
+## 12. §[^5]
+
+[^5]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
