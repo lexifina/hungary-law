@@ -1,9 +1,7 @@
-16. § A Vkt.
+16. §
 
 a)
 
-b) 26. § (4) bekezdés b) pontjában az „orgazdaság” szövegrész helyébe az „a 2020. december 31-ig hatályban volt orgazdaság” szöveg,
+b)
 
 c)
-
-lép.
