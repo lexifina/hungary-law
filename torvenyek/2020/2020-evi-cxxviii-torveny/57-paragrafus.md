@@ -1,6 +1,6 @@
 57. § Hatályát veszti a Kbt.
 
-1. 4. § (3) bekezdése,
+1.
 
 2.
 
@@ -22,10 +22,10 @@
 
 11.
 
-12. 195. § (4) bekezdése,
+12.
 
 13.
 
-14. 198. § (1) bekezdés 20. pontja,
+14.
 
 15.
