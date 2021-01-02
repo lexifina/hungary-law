@@ -1,4 +1,4 @@
-## 51. § Hatályát veszti a Nemzeti Adó- és Vámhivatalnál foglalkoztatottak alkalmassági vizsgálatáról, valamint a Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete által nyújtott egészségügyi szolgáltatás igénybevételére jogosultakról szóló 73/2013. (XII. 30.) NGM rendelet.
+## 51. §[^1]
 
 1. melléklet a 15/2020. (XII. 29.) PM rendelethez
 
@@ -63,3 +63,5 @@ A III. alkalmassági kategóriába tartozik az a személy, aki munkakörének el
 | 19 | vezető | VEZ | I. vagy II. vagy III. |
 
 2.2. Megjegyzés a 2.1. pont szerinti táblázathoz: Azoknál a munkaköröknél, ahol több alkalmassági kategória van feltüntetve, a konkrét munkakörnek, a munkahelyi kockázatbecslés, valamint a feladatellátás sajátosságainak figyelembevételével kell elvégezni az alkalmassági kategóriába való besorolást, amely a munkáltatói jogkört gyakorló feladata.
+
+[^1]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
