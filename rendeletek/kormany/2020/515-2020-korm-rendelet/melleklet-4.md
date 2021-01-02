@@ -1,7 +1,3 @@
-## „2. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+4. melléklet az 515/2020. (XI. 24.) Korm. rendelethez[^19]
 
-## 20202220000515_2
-
-## ”
-
-4. melléklet az 515/2020. (XI. 24.) Korm. rendelethez
+[^19]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

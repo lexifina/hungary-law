@@ -1,7 +1,3 @@
-## „6. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+8. melléklet az 515/2020. (XI. 24.) Korm. rendelethez[^23]
 
-## 20202220000515_6
-
-## ”
-
-8. melléklet az 515/2020. (XI. 24.) Korm. rendelethez
+[^23]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

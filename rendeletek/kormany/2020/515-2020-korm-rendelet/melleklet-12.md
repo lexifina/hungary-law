@@ -1,7 +1,3 @@
-## „10. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+12. melléklet az 515/2020. (XI. 24.) Korm. rendelethez[^27]
 
-## 20202220000515_10
-
-## ”
-
-12. melléklet az 515/2020. (XI. 24.) Korm. rendelethez
+[^27]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
