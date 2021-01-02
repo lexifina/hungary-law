@@ -1,1 +1,3 @@
-## „i) a környezeti nevelésben mutatott jártasság, a fenntarthatóság értékrendjének hiteles képviselete és a környezettudatossághoz kapcsolódó attitűdök formálásának módja.”
+## 14. §[^6]
+
+[^6]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
