@@ -1,4 +1,4 @@
-## 114. § Hatályát veszti a Nemzeti Adó- és Vámhivatalnál foglalkoztatott kormánytisztviselők és pénzügyőrök képesítési előírásairól szóló 396/2012. (XII. 20.) Korm. rendelet.
+## 109–114. §[^1]
 
 1. melléklet a 672/2020. (XII. 28.) Korm. rendelethez
 
@@ -75,3 +75,5 @@ III. A 24. § (6) bekezdése szerinti beosztási pótlék mértéke
 | 9. | beosztott tiszthelyettes | 30 euró/hó |
 
 IV. A 28. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
+
+[^1]: A 109–114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
