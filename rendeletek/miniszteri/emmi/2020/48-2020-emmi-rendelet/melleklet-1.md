@@ -1,4 +1,4 @@
-## 5. § A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló 9/2006. (V. 9.) NKÖM rendelet módosításáról szóló 46/2020. (XII. 16.) EMMI rendelet 1. mellékletével megállapított, a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló 9/2006. (V. 9.) NKÖM rendelet 1. számú mellékletében foglalt táblázat B:5 mezője a „Közgyűjtemények Kollégiuma” szövegrész helyett a „Könyvkiadás Kollégiuma” szöveggel lép hatályba.
+## 5. §[^1]
 
 1. melléklet a 48/2020. (XII. 23.) EMMI rendelethez
 
@@ -47,3 +47,5 @@ A regionális könyvtárak és illetékességi területük
 | 20. | Somogy megye |
 
 | 21. | Tolna megye |
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
