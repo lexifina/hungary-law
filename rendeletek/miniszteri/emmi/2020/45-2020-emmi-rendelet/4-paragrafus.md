@@ -1,3 +1,3 @@
-## 3. § Az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló 81/2004. (IX. 18.) ESZCSM rendelet 10. §-a a következő (2a) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(2a) Az 1. § c) pontjában meghatározott képzés záróvizsgájára a vizsgabizottság egy tagját a megyei önkormányzat delegálja.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
