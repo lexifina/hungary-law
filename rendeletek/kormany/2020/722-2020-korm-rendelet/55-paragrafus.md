@@ -1,3 +1,5 @@
-## 54. § Hatályát veszti a vasúti vizsgaközpont kijelöléséről szóló 246/2019. (X. 24.) Korm. rendelet 1. § (2) bekezdés b) pontja.
+## 54. §[^59]
 
 ## 20. A hajózási vizsgaközpont kijelöléséről szóló 247/2019. (X. 24.) Korm. rendelet módosítása
+
+[^59]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

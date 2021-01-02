@@ -1,3 +1,5 @@
-## 52. § A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet 100. § (4) bekezdésében az „a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légialkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló 2003. november 20-i 2042/2003/EK bizottsági rendelet” szövegrész helyébe az „a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet” szöveg lép.
+## 52. §[^57]
 
 ## 18. A Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról szóló 284/2018. (XII. 21.) Korm. rendelet módosítása
+
+[^57]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 33. § A 382/2016. (XII. 2.) Korm. rendelet 8. § (2) bekezdés 5. pontjában a „hajózási képesítések okmányainak kiállításával és” szövegrész helyébe a „hajózási képesítések és képesítő okmányok” szövegrész lép.
+## 33. §[^38]
+
+[^38]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

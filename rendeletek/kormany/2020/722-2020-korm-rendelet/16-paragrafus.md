@@ -1,1 +1,3 @@
-## „(5) Az (1) bekezdés e) pontjában megjelölt utasok és utasoktól eltérő személyek részére a védelmi ellenőrzést végző szervezetnek biztosítani kell, hogy az érintett személyek panasszal élhessenek az átvizsgálás végrehajtásával kapcsolatban.”
+## 15. §[^19]
+
+[^19]: A 15. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.

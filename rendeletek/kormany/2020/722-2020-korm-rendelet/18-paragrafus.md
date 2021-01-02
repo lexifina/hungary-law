@@ -1,3 +1,3 @@
-## 17. § A 169/2010. (V. 11.) Korm. rendelet 29. §-a a következő (1a) bekezdéssel egészül ki:
+## 17. §[^21]
 
-## „(1a) A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet alapján az I–VI. osztályú repülőterek esetében a légi oldalon elkülönített területeket lehet kijelölni, amelyet a védelmi tervben kell szabályozni. Az elkülönített területeknél a jól beazonosítható határokat a védelmi terv térképmellékletében fel kell tüntetni, valamint az elkülönített területekre való belépés szabályait és az alternatív intézkedéseket az üzemeltetőnek részleteznie kell.”
+[^21]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

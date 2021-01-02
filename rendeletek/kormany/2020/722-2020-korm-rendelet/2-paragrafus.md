@@ -1,3 +1,3 @@
-## 1. § A légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet [a továbbiakban: 141/1995. (XI. 30.) Korm. rendelet] 15. § (1) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „A légiközlekedési hatóság engedélye, valamint a polgári légi közlekedéshez kapcsolódó műszaki követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő rögzítéséről szóló, 2011. november 3-i 1178/2011/EU bizottsági rendeletben meghatározott bejelentett képzési szervezetek esetében a képzési tevékenység bejelentése, a következő személyek képzéséhez szükséges:”
+[^1]: Az 1. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.

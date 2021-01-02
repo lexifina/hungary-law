@@ -1,3 +1,3 @@
-## 20. § A 169/2010. (V. 11.) Korm. rendelet 23. alcíme a következő 37/A. §-sal egészül ki:
+## 20. §[^24]
 
-## „37/A. § A légifuvarozói posta és légifuvarozói anyag légiközlekedés-védelmi ellenőrzéséért a légitársaság felelős.”
+[^24]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
