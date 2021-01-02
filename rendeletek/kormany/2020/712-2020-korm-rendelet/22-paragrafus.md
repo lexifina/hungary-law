@@ -1,4 +1,4 @@
-## 21. §[^4]
+## 21. §[^5]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az 1–17. § 2022. május 28-án lép hatályba.
 
-[^4]: A 21. § a 22. § (3) bekezdése alapján 2021. március 01. napján lép hatályba.
+[^5]: A 21. § a 22. § (3) bekezdése alapján 2021. március 01. napján lép hatályba.
