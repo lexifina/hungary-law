@@ -1,3 +1,3 @@
-## 10. § Az Ehat. Vhr. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 10. §[^11]
 
-## „(1) A tárgyévre vonatkozó felújítási kötelezettséget meghaladó mértékű energiahatékonysági felújítás beszámítható az adott évet megelőző vagy az azt követő három évre vonatkozó felújítási kötelezettségbe.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

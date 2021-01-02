@@ -1,3 +1,3 @@
-## 9. § Az Ehat. Vhr. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „(1) A fűtés és hűtés hatékonysági potenciálja átfogó értékelésének kötelező tartalmi elemeit a 3. melléklet tartalmazza.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

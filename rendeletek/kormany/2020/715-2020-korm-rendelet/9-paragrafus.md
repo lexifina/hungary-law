@@ -1,5 +1,3 @@
-## 8. § Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet (a továbbiakban: Ehat. Vhr.) 1. §-a a következő 6a. ponttal egészül ki:
+## 8. §[^9]
 
-## (E rendelet alkalmazásában:)
-
-## „6a. mérés-felügyeleti rendszer: informatikai, kommunikációs rendszer, valamint humán erőforrás, ami a mért adatok gyűjtését, értékelését és nyomon követését látja el;”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

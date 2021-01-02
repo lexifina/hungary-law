@@ -1,5 +1,3 @@
-## 16. § Az Ehat. Vhr. 13. § (4) bekezdése a következő g) ponttal egészül ki:
+## 16. §[^17]
 
-## (Az energetikai auditnak ki kell terjednie)
-
-## „g) az épülethasználat módjából adódó megtakarítási potenciál vizsgálatára.”
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
