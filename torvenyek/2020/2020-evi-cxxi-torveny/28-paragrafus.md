@@ -1,5 +1,5 @@
-28. § Hatályát veszti a Bv. Sztv.
+28. §
 
-a) 28/A. § (1) bekezdés nyitó szövegrészében az „– a kapcsolattartóként megjelölt személy hozzájárulásával –” szövegrész,
+a)
 
 b)
