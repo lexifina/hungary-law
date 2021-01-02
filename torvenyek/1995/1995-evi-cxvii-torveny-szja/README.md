@@ -105,3 +105,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2020-08-13 | 2020. évi LXXX. törvény | 1995-117-00-00.174 |
 | 2020-11-27 | 2020. évi CXVIII. törvény | 1995-117-00-00.175 |
 | 2021-01-01 | 2020. évi CXXIII. törvény | 1995-117-00-00.176 |
+| 2021-01-02 | 2020. évi CLXXVIII. törvény | 1995-117-00-00.177 |
