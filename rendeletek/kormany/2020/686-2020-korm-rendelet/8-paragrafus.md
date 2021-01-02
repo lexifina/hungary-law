@@ -1,1 +1,3 @@
-## „b) tetőtér beépítéssel vagy emelet-ráépítéssel létrehozott lakás akkor, ha a tetőtér beépítés vagy emelet-ráépítés révén új, önálló társasházi tulajdoni különlapon nyilvántartott vagy több lakásból álló osztatlan közös tulajdon esetén a 20. § (2) bekezdése szerinti kizárólagos használati joggal érintett, lépcsőházból vagy szabadlépcsőn megközelíthető, külön bejárattal rendelkező, az a) pont aa)–ae) alpontja szerinti feltételnek megfelelő újabb lakás jön létre;”
+## 7. §[^8]
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 29. § A három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló 337/2017. (XI. 14.) Korm. rendelet [a továbbiakban: 337/2017. (XI. 14.) Korm. rendelet] 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 29. §[^30]
 
-## „(1) A második vagy további gyermek születésére tekintettel e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatás (a továbbiakban: támogatás) vehető igénybe a Magyarország területén lévő lakást, lakóházat, tanyát, vagy birtokközpontot – vagy amennyiben a támogatással érintett lakáscélú jelzáloghitel- vagy kölcsönszerződésben rögzített hitelcél lakóingatlan építése, akkor az építési tevékenység megvalósításának helyszínéül szolgáló telket vagy annak tulajdoni hányadát – (a továbbiakban együtt: ingatlan) terhelő lakáscélú jelzáloghitel-tartozás csökkentése érdekében.”
+[^30]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

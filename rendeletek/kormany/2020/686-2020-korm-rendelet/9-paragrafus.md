@@ -1,11 +1,3 @@
-## 8. § A 16/2016. (II. 10.) Korm. rendelet 19. §-a helyébe a következő rendelkezés lép:
+## 8. §[^9]
 
-## „19. § (1) A családi otthonteremtési kedvezmény az új lakás bekerülési költsége vagy vételára megfizetéséhez használható fel.
-
-## (2) Az (1) bekezdésben foglaltaktól eltérően a 3. § (1) bekezdés 1. pont j) alpontja szerinti lépcső kialakítására a támogatás abban az esetben is felhasználható, ha a lépcső
-
-## a) a 20. § (2) bekezdése szerinti közös tulajdonban álló ingatlannak nem az igénylő kizárólagos, hanem a tulajdonostársak közös használatába tartozó részében, vagy
-
-## b) társasháztulajdon esetében annak közös tulajdonban álló épületrészében
-
-## található.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

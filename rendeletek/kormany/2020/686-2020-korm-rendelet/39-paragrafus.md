@@ -1,5 +1,7 @@
-## 38. § Hatályát veszti a 44/2019. (III. 12.) Korm. rendelet 14. § (1) bekezdés b) pontjában és 19. § (2) bekezdés b) pontjában a „született,” szövegrész.
+## 38. §[^39]
 
 ## 12. Záró rendelkezések
 
 39. § Ez a rendelet 2021. január 1-jén lép hatályba.
+
+[^39]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

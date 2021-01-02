@@ -1,1 +1,3 @@
-## „bd) a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt –, és ezt 30 napnál nem régebbi okirattal igazolja.”
+## 23. §[^24]
+
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
