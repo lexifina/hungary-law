@@ -1,3 +1,3 @@
-## 73. §[^129]
+## 73. §[^132]
 
-[^129]: A 73. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^132]: A 73. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

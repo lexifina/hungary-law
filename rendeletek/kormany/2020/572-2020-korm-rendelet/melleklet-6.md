@@ -1,3 +1,3 @@
-6. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^199]
+6. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^205]
 
-[^199]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^205]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

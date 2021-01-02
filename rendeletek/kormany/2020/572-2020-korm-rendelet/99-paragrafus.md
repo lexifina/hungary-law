@@ -1,3 +1,3 @@
-## 98. §[^165]
+## 98. §[^169]
 
-[^165]: A 98. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: A 98. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

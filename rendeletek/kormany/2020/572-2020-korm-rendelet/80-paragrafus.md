@@ -1,3 +1,3 @@
-## 79. §[^135]
+## 79. §[^138]
 
-[^135]: A 79. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^138]: A 79. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.

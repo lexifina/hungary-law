@@ -1,3 +1,3 @@
-## 58. §[^111]
+## 58. §[^114]
 
-[^111]: Az 58. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^114]: Az 58. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
