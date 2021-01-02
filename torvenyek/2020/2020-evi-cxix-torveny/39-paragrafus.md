@@ -1,3 +1,0 @@
-39. § A Pp. 259. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a felperes csak részben teljesíti illetékfizetési kötelezettségét, a keresetet tartalmazó iratban nem tünteti fel annak kötelező tartalmi elemeit vagy nem csatolja annak kötelező mellékleteit, az eljárás megszüntetésének van helye, ha a bíróság tizenöt napos határidővel, a mulasztás következményére történő figyelmeztetés mellett a felperest hiánypótlásra felhívta és a határidő eredménytelenül eltelt. Nincs helye az eljárás megszüntetésének, ha a keresetet tartalmazó irat hiányzó eleme – ide nem értve a képviselő képviseleti jogának igazolását – a közjegyzői iratanyagból megállapítható.”
