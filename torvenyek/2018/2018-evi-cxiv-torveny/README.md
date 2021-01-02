@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-114-00-00
 | 2020-06-18 | 2020. évi LVIII. törvény | 2018-114-00-00.6 |
 | 2020-07-01 | 2020. évi XLVII. törvény | 2018-114-00-00.7 |
 | 2021-01-01 | 2020. évi CLXIX. törvény | 2018-114-00-00.8 |
+| 2021-01-02 | 2010. évi CXXX. törvény | 2018-114-00-00.9 |
