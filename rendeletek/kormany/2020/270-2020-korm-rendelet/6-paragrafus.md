@@ -1,3 +1,3 @@
-## 5. § Az R. 7/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## „(1) A 2–7. §-ban foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott szabályok szerint.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

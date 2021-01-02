@@ -1,3 +1,3 @@
-## „(5) A vállalkozás az e rendelet előírásainak megfelelő jótállási jegyet elektronikus úton is átadhatja a fogyasztó részére. A fogyasztó részére elektronikusan átadott számla jótállási jegyként akkor fogadható el, ha tartalma megfelel e rendelet jótállási jegyre vonatkozó előírásainak is. A vállalkozás a jótállási jegy elektronikus úton való átadására legkésőbb a termék átadását vagy üzembe helyezését követő napon köteles. Ha a vállalkozás a jótállási jegyet elektronikus dokumentumként nem közvetlen megküldéssel adja át, hanem letöltést biztosító elérési cím formájában bocsátja azt a fogyasztó rendelkezésére, akkor az elektronikus jótállási jegy letölthetőségét a jótállási idő végéig nem szüntetheti meg, a letöltési cím elérhetőségét biztosítania kell. A vállalkozás a jótállási jegy elektronikus úton történő átadására legkésőbb a termék átadását vagy üzembehelyezését követő napon köteles.
+## 2. §[^3]
 
-## (6) Vita esetén az (5) bekezdésben meghatározott kötelezettség teljesítését a vállalkozás köteles bizonyítani.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
