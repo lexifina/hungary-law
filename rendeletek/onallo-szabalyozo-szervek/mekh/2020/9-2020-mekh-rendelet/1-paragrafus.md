@@ -1,17 +1,18 @@
-1. § (1) A rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok köréről, a teljesítés módjára vonatkozó követelményekről, valamint az adatszolgáltatási kötelezettség határidejéről, továbbá a rendkívüli adatszolgáltatással kapcsolatos rendelkezésekről, valamint a földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak meghatározásának keretszabályairól szóló 8/2016. (X. 13.) MEKH rendelet, a földgáz rendszerhasználati díjak, a külön díjak, valamint a csatlakozási díjak alkalmazásának szabályairól szóló 11/2016. (XI. 14.) MEKH rendelet és a földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló 13/2016. (XII. 20.) MEKH rendelet módosításáról szóló 7/2017. (VII. 13.) MEKH rendelet eltérő szöveggel történő hatályba léptetéséről szóló 11/2017. (VIII. 25.) MEKH rendelet (a továbbiakban: R.) 8. melléklete helyébe az 1. melléklet lép.
+1. § (1)[^2]
 
-(2)[^1]
+(2)[^3]
 
-(3)[^2]
+(3)[^4]
 
-(4)[^3]
+(4)[^5]
 
-(5)[^4]
+(5)[^6]
 
-(6)[^5]
+(6)[^7]
 
-[^1]: Az 1. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
