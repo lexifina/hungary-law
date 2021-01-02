@@ -1,3 +1,1 @@
-84. § A Tbj. 100. §-a következő (3) bekezdéssel egészül ki:
-
-„(3) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény alapján járulékalapot képező jövedelem után érvényesíthető családi járulékkedvezmény esetében a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szabályait, míg az e törvény alapján járulékalapot képező jövedelem után érvényesíthető családi járulékkedvezményt az e törvény szabályai szerint lehet igénybe venni.”
+84. §

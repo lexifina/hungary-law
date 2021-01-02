@@ -1,3 +1,1 @@
-28. § Az Szja tv. 10. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A kifizető a mezőgazdasági őstermelő részére kifizetett összeget bejegyzi a mezőgazdasági őstermelő értékesítési betétlapjára. Nem köteles a kifizető a bejegyzést elvégezni, ha az őstermelő a kifizető által kiállított bizonylat kifizetőnél maradó másolatán aláírásával jelzi azt a szándékát, hogy a kifizetett összeget saját maga írja be az értékesítési betétlapra, vagy, hogy nyilvántartási kötelezettségének az értékesítési betétlaptól eltérő alapnyilvántartás vezetésével tesz eleget. A kifizető minden esetben adatot szolgáltat a kifizetésről az állami adó- és vámhatóságnak az őstermelő adóazonosító jelének és az őstermelői nyilvántartási számának feltüntetésével az adózás rendjéről szóló törvényben meghatározott formában és előírt határidőre a kötelezettséget eredményező kifizetésekről, juttatásokról teljesítendő bevallásában.”
+28. §
