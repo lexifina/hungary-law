@@ -1,7 +1,3 @@
-## 25. § A Korm. rendelet
+25. §[^26]
 
-a) 334. § (1) bekezdése a „Nemzeti Foglalkoztatási Alap” szövegrész helyett a „foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap” szöveggel,
-
-b) 334. § (2) bekezdés záró szövegrésze a „Nemzeti Foglalkoztatási Alap” szövegrész helyett a „foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap” szöveggel
-
-lép hatályba.
+[^26]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
