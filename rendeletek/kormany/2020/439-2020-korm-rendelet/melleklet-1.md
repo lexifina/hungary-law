@@ -1,3 +1,3 @@
-1. melléklet a 439/2020. (IX. 23.) Korm. rendelethez[^20]
+1. melléklet a 439/2020. (IX. 23.) Korm. rendelethez[^22]
 
-[^20]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
