@@ -1,5 +1,3 @@
 ## 16. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-16. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 59/A. §-a helyébe a következő rendelkezés lép:
-
-„59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része és az annak kezeléséhez szükséges eszközök vonatkozásában a tulajdonosi jogokat az állam 100%-os tulajdonában álló Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság gyakorolja. A nemzeti tervvagyonba tartozó építészeti-műszaki dokumentációk összessége közgyűjteménynek minősül.”
+16. §
