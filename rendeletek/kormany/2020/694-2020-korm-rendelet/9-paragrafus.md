@@ -1,9 +1,3 @@
-## „e) az országos gyógyintézet és az országos társgyógyintézet”
+## 8. §[^2]
 
-## (irányítására alkalmazandó szabályokat.)
-
-## 9. § Hatályát veszti az R.
-
-a) 1. § (2) bekezdés a) pontjában az „az országos gyógyintézetek kivételével” szövegrész,
-
-b) 2. § (2) bekezdése.
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
