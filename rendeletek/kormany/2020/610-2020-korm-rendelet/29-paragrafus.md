@@ -1,1 +1,3 @@
-## 28. § Hatályát veszti a Cstnmr. 2. melléklet 7. pontja.
+## 28. §[^20]
+
+[^20]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

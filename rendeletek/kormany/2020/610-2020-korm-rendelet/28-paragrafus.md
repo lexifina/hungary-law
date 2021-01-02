@@ -1,1 +1,3 @@
-## 27. § A családokért felelős tárca nélküli miniszter feladat- és hatáskörébe tartozó jogszabályok meghatározásáról és egyes kormányrendeletek módosításáról szóló 444/2020. (IX. 30.) Korm. rendelet (a továbbiakban: Cstnmr.) 3. melléklete az 1. melléklet szerint módosul.
+## 27. §[^19]
+
+[^19]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

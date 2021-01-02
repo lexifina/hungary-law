@@ -1,1 +1,3 @@
-## 14. § Hatályát veszti a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 27. §-a.
+## 14. §[^6]
+
+[^6]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

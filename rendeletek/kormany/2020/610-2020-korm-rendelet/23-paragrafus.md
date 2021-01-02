@@ -1,1 +1,3 @@
-## 22. § Hatályát veszti a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 50/E. §-a.
+## 22. §[^14]
+
+[^14]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
