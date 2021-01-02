@@ -1,1 +1,3 @@
-## „t) használati melegvíz rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, ideértve a megújuló energiaforrások alkalmazását is.”
+7. §[^5]
+
+[^5]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
