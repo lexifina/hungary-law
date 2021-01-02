@@ -1,1 +1,3 @@
-## „(6) Az Ebtv. 45. § (3a) és (4) bekezdése szerinti esetben az egészségbiztosítási, illetve az orvosszakértői szerv a keresőképtelenség visszamenőleges elbírálásáról tájékoztatja a keresőképtelenség igazolására jogosult orvost, aki ez alapján kiállítja – az (1) bekezdésnek megfelelően – az 5. számú melléklet szerinti igazolást.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
