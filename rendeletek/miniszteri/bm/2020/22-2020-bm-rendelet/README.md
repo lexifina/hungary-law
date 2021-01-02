@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-22-20-0
 | 2020-07-10 | 2020-22-20-0A.1 | 22/2020. (VII. 9.) BM rendelet |
 | 2020-07-11 | 2020-22-20-0A.2 | 2010: CXXX. törvény |
 | 2021-01-01 | 2020-22-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-01-02 | 2020-22-20-0A.4 | 2010: CXXX. törvény |
