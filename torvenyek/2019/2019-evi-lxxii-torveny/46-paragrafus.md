@@ -1,10 +1,10 @@
-46. § Hatályát veszti az Áfa tv.
+46. §
 
 1.
 
 2.
 
-3. 206. § (1) bekezdés c) pontja és (2) bekezdése,
+3.
 
 4.
 
