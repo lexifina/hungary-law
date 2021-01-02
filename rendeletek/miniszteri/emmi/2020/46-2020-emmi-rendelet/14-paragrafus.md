@@ -1,7 +1,3 @@
-## lép.
+## 13. §[^14]
 
-## 14. § Hatályát veszti az R.
-
-a) 19/A. § (7) bekezdése és
-
-b) 29. § (4)–(6) bekezdése.
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 5. § Az R. 15. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## (A kezelő szerv feladata)
-
-## „e) a támogatói okirat, illetve a támogatási szerződés (a továbbiakban együtt: szerződés) kibocsátása, illetve megkötése,”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

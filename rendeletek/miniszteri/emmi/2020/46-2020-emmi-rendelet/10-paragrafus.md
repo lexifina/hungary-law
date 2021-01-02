@@ -1,3 +1,3 @@
-## 9. § Az R. 23. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „(4) Az Alapból nyújtott támogatás harmadik személy részére támogatásként történő továbbadására vagy a támogatás harmadik személy részére történő átruházására az államháztartásról szóló törvény és a végrehajtásáról szóló kormányrendelet vonatkozó rendelkezéseit kell alkalmazni.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 1. § A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló 9/2006. (V. 9.) NKÖM rendelet (a továbbiakban: R.) 1/B. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## [Az Alap alelnöke (a továbbiakban: alelnök):]
-
-## „d) az elnök akadályoztatása esetén összehívja a Bizottság ülését,”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 6. § Az R. 18. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „(4) A pályázati felhívás teljes szövegét az Alap portálján legkésőbb a pályázat benyújtási határidejét megelőző 30. napon közzé kell tenni. Meghívásos pályázat esetén csak a pályázati felhívás megjelentetése kötelező, legkésőbb a pályázat benyújtási határidejét megelőző hetedik napon, az Alap portálján.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
