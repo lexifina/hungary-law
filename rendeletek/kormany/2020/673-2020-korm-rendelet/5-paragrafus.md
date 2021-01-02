@@ -1,5 +1,3 @@
-## biztosítja.
-
 5. § (1) Az adatgyűjtő modul interfész kapcsolatot biztosít a Tv. 7. § (1) bekezdése szerinti adatfeltöltés végrehajtása érdekében.
 
 (2) Ha a KSZDR szervezet a személyügyi alapnyilvántartását nem az adatgyűjtő modul használatával vezeti, saját személyügyi ügyviteli rendszerét csatlakoztatja az adatgyűjtő modul részét képező interfészhez.

@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 1. alkalmazásüzemeltetés: az alkalmazások elérhetővé tétele és működtetése, az alkalmazásokkal kapcsolatos képzési feladatok elvégzése, hibakezelés,

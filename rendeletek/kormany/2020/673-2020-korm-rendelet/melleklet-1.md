@@ -1,6 +1,6 @@
 1. melléklet a 673/2020. (XII. 28.) Korm. rendelethez
 
-## Jogszabályban meghatározott szaknyilvántartások, melyekből a foglalkoztatott személyéhez köthető kiegészítő adatok átvételére kerül sor
+Jogszabályban meghatározott szaknyilvántartások, melyekből a foglalkoztatott személyéhez köthető kiegészítő adatok átvételére kerül sor
 
 I. Közigazgatás
 

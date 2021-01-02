@@ -1,6 +1,6 @@
 2. melléklet a 673/2020. (XII. 28.) Korm. rendelethez
 
-## Az állami vagy felsőoktatási intézmény által fenntartott egészségügyi szolgáltató, illetve működtetett klinikai központ és egyetemi kórház, amely egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában az adatgyűjtő modulba történő adatfeltöltést 2021. január 1-jén meg kell kezdeni
+Az állami vagy felsőoktatási intézmény által fenntartott egészségügyi szolgáltató, illetve működtetett klinikai központ és egyetemi kórház, amely egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában az adatgyűjtő modulba történő adatfeltöltést 2021. január 1-jén meg kell kezdeni
 
 1. Albert Schweitzer Kórház-Rendelőintézet
 

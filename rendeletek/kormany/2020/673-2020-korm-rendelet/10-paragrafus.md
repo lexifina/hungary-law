@@ -6,7 +6,7 @@ a) „Felhasználói névvel” és jelszóval, valamint
 
 b) tároló elemet tartalmazó állandó személyazonosító igazolvánnyal
 
-## kell azonosítani, és a rendszer adataihoz történő hozzáférését a KSZDR jogosultsági rendszerén keresztül kell biztosítani.
+kell azonosítani, és a rendszer adataihoz történő hozzáférését a KSZDR jogosultsági rendszerén keresztül kell biztosítani.
 
 (3) A jogosultsági rendszer megfelelő működéséért a KSZDR Központ felel, mint a legmagasabb szintű felhasználói jogosultsággal rendelkező felhasználó (a továbbiakban: KSZDR adminisztrátor).
 

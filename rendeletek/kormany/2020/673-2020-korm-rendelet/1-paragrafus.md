@@ -11,3 +11,5 @@ c) rendvédelmi feladatokat ellátó szervre,
 d) Nemzeti Adó- és Vámhivatalra,
 
 e) állami vagy felsőoktatási intézmény által fenntartott egészségügyi szolgáltatóra, illetve működtetett klinikai központra és egyetemi kórházra, valamint önkormányzati fenntartású egészségügyi szolgáltatóra
+
+terjed ki.

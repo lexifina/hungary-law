@@ -9,3 +9,5 @@ b) az emberi erőforrás-folyamatok adatainak jogszabályban meghatározott, 1. 
 c) a foglalkoztatottak létszám- és illetményadatairól, kereseti adatairól a központosított illetményszámfejtési rendszer adatszolgáltatása, valamint
 
 d) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból érkező szervezeti adatok szolgáltatása
+
+biztosítja.

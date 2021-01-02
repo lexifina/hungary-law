@@ -1,1 +1,3 @@
-## 28. § A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 2. melléklete a 3. melléklet szerint módosul.
+29. §[^3]
+
+[^3]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
