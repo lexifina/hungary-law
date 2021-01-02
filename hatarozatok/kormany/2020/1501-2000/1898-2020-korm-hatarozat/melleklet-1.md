@@ -10,7 +10,7 @@
 
 ## 6. Ez a határozat 2021. január 1-jén lép hatályba.
 
-## 7. Hatályát veszti a 2020. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1686/2019. (XII. 10.) Korm. határozat.
+## 7.[^1]
 
 1. melléklet az 1898/2020. (XII. 14.) Korm. határozathoz
 
@@ -391,3 +391,5 @@
 | 32 | STEADFAST DEFENDER | I–IV. negyedév | egyidejűleg legfeljebb 2500 fő |
 
 | 33 | IMMEDIATE RESPONSE | I–IV. negyedév | egyidejűleg legfeljebb 2500 fő |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
