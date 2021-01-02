@@ -1,1 +1,0 @@
-## „e) az eredeti követelést engedményezőnél (eladónál) az engedményezett (átruházott) követelés engedményes által elismert értékének és könyv szerinti értékének a különbözetét, amennyiben a könyv szerinti érték meghaladja az elismert értéket, a követelés átruházásakor,”
