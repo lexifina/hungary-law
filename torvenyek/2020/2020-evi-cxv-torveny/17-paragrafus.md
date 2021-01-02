@@ -1,5 +1,1 @@
-17. § Az Ügkr. tv. 34/A. §-a helyébe a következő rendelkezés lép:
-
-„34/A. § (1) Ha az üzemeltető vagy a légijármű-üzembentartó a számlavezetési díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követően fizetési kötelezettség teljesítésének elmulasztását megállapító és a számlavezetési díj megfizetésére kötelező határozatot hoz.
-
-(2) A végleges határozatban megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a számlavezetési díj behajtása érdekében megkeresi az állami adóhatóságot. A számlavezetési díj megfizetéséig a hatóság zárolja az üzemeltető vagy a légijármű-üzembentartó forgalmi jegyzékbeli számláját. A számla zárolásának feloldását a jegyzékkezelő a követelés teljesítésének beérkezését követő 15 napon belül végzi el. A számlavezetési díj üzemeltetői és légijármű-üzembentartói teljesítéséhez kapcsolódó zárolásról és a zárolás feloldásának tényéről a jegyzékkezelő minden esetben értesíti az érintetteket.”
+17. §

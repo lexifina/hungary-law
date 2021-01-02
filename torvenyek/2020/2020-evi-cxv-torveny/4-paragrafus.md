@@ -1,15 +1,15 @@
-4. § Hatályát veszti az Éhvt.
+4. §
 
-a) 2. § 3., 7–10. és 20–21. pontja,
+a)
 
-b) 6. §-ában az „ , a nemzetközi rugalmassági mechanizmusokra” szövegrész,
+b)
 
-c) 11. §-át megelőző alcím címében a „rugalmassági mechanizmusokban és” szövegrész,
+c)
 
-d) 11–13/E. §-a,
+d)
 
-e) 14. § (3) bekezdése, (5) bekezdés c), i), q), u) pontja, (6) bekezdés a) pontja és (7) bekezdése,
+e)
 
-f) 16–16/A. §-a,
+f)
 
-g) 17. § (1) bekezdés b)–h) pontja.
+g)
