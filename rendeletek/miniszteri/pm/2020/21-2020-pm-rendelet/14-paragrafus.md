@@ -1,1 +1,3 @@
-## 13. § A vámszabálysértések eljárási szabályairól, valamint felderítése és elbírálása végrehajtásának részletes szabályairól szóló 32/2012. (XII. 4.) NGM rendelet 7. §-ában a „NAV hivatásos szolgálati jogviszonyban álló tagja” szövegrész helyébe a „NAV pénzügyőri munkakört betöltő foglalkoztatottja” szöveg lép.
+## 13. §[^1]
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

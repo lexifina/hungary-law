@@ -1,3 +1,5 @@
+## 15. §[^3]
+
 1. melléklet a 21/2020. (XII. 30.) PM rendelethez
 
 ## A pénzügyőri munkakörök
@@ -47,3 +49,5 @@
 2.1. Az oktató munkakör akkor minősül pénzügyőri munkakörnek, ha a munkaköri fő feladatként pénzügyőri munkakörök feladatellátásához kapcsolódó oktatási tevékenységet lát el.
 
 2.2. A szakértő munkakör akkor minősül pénzügyőri munkakörnek, ha munkaköri feladatként I. besorolási osztályba tartozó pénzügyőri munkakörbe tartozó feladatot lát el.
+
+[^3]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
