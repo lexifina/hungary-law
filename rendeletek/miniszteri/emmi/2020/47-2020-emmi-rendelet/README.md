@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-47-20-5
 | 2020-12-27 | 2020-47-20-5H.1 | 47/2020. (XII. 22.) EMMI rendelet |
 | 2020-12-28 | 2020-47-20-5H.2 | 2010: CXXX. törvény |
 | 2021-01-01 | 2020-47-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-01-02 | 2020-47-20-5H.4 | 2010: CXXX. törvény |
