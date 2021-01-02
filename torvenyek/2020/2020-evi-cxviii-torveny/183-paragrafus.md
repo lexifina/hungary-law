@@ -1,4 +1,4 @@
-183. § A Kkt.
+### 183. §
 
 1.
 
@@ -16,9 +16,9 @@
 
 8.
 
-9. 110. § (2) bekezdés b) pontjában az „50 főnél” szövegrész helyébe a „25 főnél” szöveg,
+9.
 
-10. 110. § (2) bekezdés c) pontjában az „50 tagonként” szövegrész helyébe a „25 tagonként” szöveg, továbbá az „az 50 főt” szövegrész helyébe az „a 25 főt” szöveg,
+10.
 
 11.
 
@@ -31,5 +31,3 @@
 15.
 
 16.
-
-lép.

@@ -1,6 +1,6 @@
 66. § Az Áfa tv.
 
-1. 3. § b) pontjában a „hatálya alá tartozó, zárjeggyel ellátott dohánygyártmányokra” szövegrész helyébe a „hatálya alá tartozó dohánygyártmányokra”,
+1.
 
 2.
 
