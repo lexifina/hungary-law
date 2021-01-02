@@ -1,10 +1,9 @@
-## 14–15. §[^5]
+## 14–15. §[^10]
 
-16. § (1)–(2)[^6]
+16. § (1)–(2)[^11]
 
-(3) A Rendelet 1. melléklete helyébe a 3. melléklet lép.
+(3)–(4)[^12]
 
-(4) A Rendelet 2. melléklete helyébe a 4. melléklet lép.
-
-[^5]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 16. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 16. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 16. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
