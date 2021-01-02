@@ -1,13 +1,3 @@
-## „11. melléklet a 11/2017. (VIII. 256.) MEKH rendelethez
+2. melléklet a 17/2020. (XII. 21.) MEKH rendelethez[^4]
 
-## 20205Z20000017_1
-
-## ”
-
-2. melléklet a 17/2020. (XII. 21.) MEKH rendelethez
-
-„23. melléklet a 11/2017. (VIII. 256.) MEKH rendelethez
-
-20205Z20000017_2
-
-”
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
