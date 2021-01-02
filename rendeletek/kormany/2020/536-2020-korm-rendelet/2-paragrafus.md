@@ -1,7 +1,3 @@
-## 1. § A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet (a továbbiakban: Statútum rendelet) 14. § (1) bekezdése a következő 4. ponttal egészül ki:
+## 1. §[^2]
 
-## [A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
-
-## „4. európai uniós források felhasználásáért,”
-
-## (felelős tagja.)
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
