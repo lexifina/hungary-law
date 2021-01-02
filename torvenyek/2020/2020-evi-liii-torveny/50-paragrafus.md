@@ -1,27 +1,25 @@
-50. § A Máoktv.
+50. §
 
-1. 10. § (1) bekezdés d) pontjában, valamint (2) bekezdés c) pontjában az „országos etikai” szövegrész helyébe az „országos első- és másodfokú etikai”,
+1.
 
-2. 11. § (2) bekezdés b) pontjában, 13. § (1) bekezdésében, valamint 17. § (2) bekezdés b) pont bb) alpontjában az „országos etikai” szövegrész helyébe az „országos másodfokú etikai”,
+2.
 
-3. 15. § (5) bekezdésében az „etikai, az országos etikai” szövegrész helyébe az „országos első- és másodfokú etikai”,
+3.
 
 4.
 
-5. 25. § (2) bekezdésében az „etikai bizottság és az országos etikai” szövegrész helyébe az „országos első- és másodfokú etikai”,
+5.
 
-6. 25. § (4) bekezdésében az „Etikai bizottság és országos etikai” szövegrész helyébe az „Az országos első- és másodfokú etikai”,
+6.
 
-7. 26. § (2) bekezdésében az „etikai bizottság” szövegrész helyébe az „országos elsőfokú etikai bizottság”,
+7.
 
-8. 26. § (4) bekezdésében az „etikai bizottság” szövegrészek helyébe az „eseti etikai bizottság”,
+8.
 
-9. 26. § (5) bekezdésében az „etikai bizottság” szövegrész helyébe az „országos elsőfokú etikai bizottság”,
+9.
 
-10. 27. § (5) bekezdésében az „a területi etikai bizottság vagy az országos etikai” szövegrész helyébe az „az országos első- vagy másodfokú etikai”,
+10.
 
-11. 28. § (3) bekezdésében, valamint 30. § (1) bekezdésében és (2) bekezdés nyitó szövegrészében az „országos etikai” szövegrész helyébe az „országos másodfokú etikai”,
+11.
 
-12. 30. § (1) bekezdésében az „eljáró etikai” szövegrész helyébe az „eljáró elsőfokú etikai”
-
-szöveg lép.
+12.
