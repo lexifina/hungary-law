@@ -1,3 +1,1 @@
-8. § A Külszoltv. 25. § (19) bekezdése helyébe a következő rendelkezés lép:
-
-„(19) Ha a kihelyezési okiraton szereplő hozzátartozók az állomáshelyet a tartós külszolgálat befejező időpontja előtt elhagyták, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozók a kihelyezett ideiglenes berendelése alatt hagyták el az állomáshelyet és a végleges berendelés előtt az állomáshelyre nem térnek vissza, a kihelyezett a végleges berendelésének napjáig jogosult a hozzátartozók utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozókkal együtt hagyja el, de a hozzátartozók nem térnek vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részükről befejeződött, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.”
+8. §
