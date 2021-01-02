@@ -1,3 +1,5 @@
-## „(3c) Az (1) bekezdés 27. és 28. pontjában meghatározott mentesség feltétele, hogy az idegenrendészeti hatóság a magyarországi foglalkoztatásról az illetékes kormányhivatalt tájékoztassa.”
+## 6–7. §[^4]
 
 ## 4. Záró rendelkezések
+
+[^4]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
