@@ -1,5 +1,3 @@
-## 25. § Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működésével összefüggésben a kockázatos termékek meghatározásáról szóló 51/2014. (XII. 31.) NGM rendelet
+25–26. §[^1]
 
-a) 1. és 2. §-ában a „kockázatos” szövegrészek helyébe a „bejelentésköteles” szöveg,
-
-b) 1. és 2. mellékletében a „kockázatos” szövegrész helyébe a „bejelentésköteles” szöveg
+[^1]: A 25–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
