@@ -1,3 +1,1 @@
-62. § Az EUtv. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Fővárosi Törvényszék a tárgyalásról – a rendelkezésre álló ügyiratok Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) közreműködésével történő megküldésével együtt – az ügyészséget értesíti, a tárgyalásra a védőt idézi. Ha a terheltnek nincs meghatalmazott védője és a 7. § (2) bekezdése alapján kirendelt védő megjelenése a tárgyaláson aránytalan nehézséggel járna, a Fővárosi Törvényszék a terhelt részére új védőt rendel ki, egyidejűleg a korábban eljárt védőt a kirendelés alól felmenti. Ebben az esetben a bíróság feladata a kirendelt védő kijelölése. A Fővárosi Törvényszék – a terhelt őrizetének elrendelése esetén a NEBEK útján, az őrizetet foganatosító szerv kísérési feladatainak meghatározásával – gondoskodik a terhelt megjelenéséről.”
+62. §

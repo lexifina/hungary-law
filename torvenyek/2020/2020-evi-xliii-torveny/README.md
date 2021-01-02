@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-43-00-00
 | 2020-11-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-43-00-00.1 |
 | 2020-11-21 | 2010. évi CXXX. törvény | 2020-43-00-00.2 |
 | 2021-01-01 | 2020. évi LVIII. törvény | 2020-43-00-00.3 |
+| 2021-01-02 | 2010. évi CXXX. törvény | 2020-43-00-00.4 |

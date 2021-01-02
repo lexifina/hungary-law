@@ -1,3 +1,1 @@
-109. § A Bv. tv. 150. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Annak az elítéltnek a zárkájában, aki korábban öngyilkosságot kísérelt meg vagy a saját testi épsége elleni önkárosító cselekményt követett el, továbbá akinél az öngyilkosságra irányuló vagy az önkárosító magatartás magas kockázata áll fenn, elektronikus megfigyelési eszköz helyezhető el, ha az elítélt életének és testi épségének megóvása érdekében az elítélt viselkedésének folyamatos nyomon követése szükséges. Kötelező az elektronikus megfigyelési eszköz alkalmazása a korábban öngyilkosságot megkísérlő vagy a saját testi épsége elleni önkárosító cselekményt elkövető elítélt biztonsági elkülönítése, biztonsági zárkába helyezése, magánelzárás fenyítésének végrehajtása és egyszemélyes elhelyezéssel járó fegyelmi elkülönítése során.”
+109. §
