@@ -1,3 +1,3 @@
-## 10. § A Cskr. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 10. §[^15]
 
-## „(1) A gyártó a 11. § (2) bekezdés b) pontja szerinti nyilvántartás adatairól az országos környezetvédelmi hatóságnak a tárgyévet követő év január 31. napjáig adatot szolgáltat.”
+[^15]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

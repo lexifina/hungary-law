@@ -1,14 +1,17 @@
-## 12. §[^8]
+## 12. §[^17]
 
 ## 13. § Hatályát veszti a Cskr.
 
-a)[^9]
+a)[^18]
 
-b) 11. § (6) bekezdésében az „ , a kereskedő, a közvetítő, a hulladékkezelő” szövegrész,
+b)[^19]
 
-c) 12. § (4) bekezdésében az „ , a forgalmazó, a kereskedő, a közvetítő, valamint a hulladékkezelő” szövegrész,
+c)[^20]
 
-d) 4. melléklete.
+d)[^21]
 
-[^8]: A 12. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^9]: A 13. § a) pontja a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^17]: A 12. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^18]: A 13. § a) pontja a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^19]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

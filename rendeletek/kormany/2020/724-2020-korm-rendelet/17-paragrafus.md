@@ -1,3 +1,3 @@
-## 16. §[^10]
+## 16. §[^22]
 
-[^10]: A 16. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^22]: A 16. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.

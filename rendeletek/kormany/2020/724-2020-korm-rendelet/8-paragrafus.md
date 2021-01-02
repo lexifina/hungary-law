@@ -1,1 +1,3 @@
-## „10. újrahasználható csomagolás: olyan csomagolás, amelyet arra szántak, úgy terveztek és azzal a céllal helyeztek forgalomba, hogy életciklusa alatt több utat vagy forgási ciklust teljesítsen azáltal, hogy az eredeti célra újratöltik vagy újrafelhasználják.”
+## 7. §[^12]
+
+[^12]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
