@@ -4,9 +4,9 @@
 
 PÓTLAP
 
-OKIRATTAL VAGY TÁRGYI BIZONYÍTÁSI ESZKÖZZEL TÖRTÉNŐ BIZONYÍTÁS INDÍTVÁNYOZÁSA, ILLETVE OKIRAT VAGY TÁRGYI BIZONYÍTÁSI ESZKÖZ RENDELKEZÉSRE BOCSÁTÁSA[^705]
+OKIRATTAL VAGY TÁRGYI BIZONYÍTÁSI ESZKÖZZEL TÖRTÉNŐ BIZONYÍTÁS INDÍTVÁNYOZÁSA, ILLETVE OKIRAT VAGY TÁRGYI BIZONYÍTÁSI ESZKÖZ RENDELKEZÉSRE BOCSÁTÁSA[^706]
 
-1. A pótlap sorszáma:[^706]
+1. A pótlap sorszáma:[^707]
 
 2. Az okirat vagy tárgyi bizonyítási eszköz
 
@@ -40,5 +40,5 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
-[^705]: Amennyiben tényállításait okirattal vagy tárgyi bizonyítási eszközzel kívánja alátámasztani, azokat meg kell neveznie, és, ha rendelkezésre állnak, akkor meg kell jelölnie a benyújtandó nyomtatvány erre vonatkozó rovatánál és csatolnia kell a nyomtatványhoz. Tárgyi bizonyítási eszköz pl. a kép- és hangfelvétel. Ha több okirattal, illetve tárgyi bizonyítási eszközzel történő bizonyítást indítványoz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
-[^706]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^706]: Amennyiben tényállításait okirattal vagy tárgyi bizonyítási eszközzel kívánja alátámasztani, azokat meg kell neveznie, és, ha rendelkezésre állnak, akkor meg kell jelölnie a benyújtandó nyomtatvány erre vonatkozó rovatánál és csatolnia kell a nyomtatványhoz. Tárgyi bizonyítási eszköz pl. a kép- és hangfelvétel. Ha több okirattal, illetve tárgyi bizonyítási eszközzel történő bizonyítást indítványoz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
+[^707]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
