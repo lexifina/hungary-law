@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-45-20-7
 | 2020-12-01 | 2020-45-20-7Q.1 | 45/2020. (XI. 28.) ITM rendelet |
 | 2020-12-02 | 2020-45-20-7Q.2 | 2010: CXXX. törvény |
 | 2021-01-01 | 2020-45-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-01-02 | 2020-45-20-7Q.4 | 2010: CXXX. törvény |
