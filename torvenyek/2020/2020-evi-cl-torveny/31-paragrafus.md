@@ -1,3 +1,0 @@
-31. § A Be. 556. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A terhelt az elsőfokú ügydöntő határozat meghozataláig nyilatkozhat úgy, hogy a polgári jogi igényként érvényesíteni kívánt követeléssel szemben ellenkérelmet nem kíván előterjeszteni és a követelést a magánfél által előterjesztetteknek megfelelően teljesíteni kívánja. Ha a magánfél polgári jogi igényként sérelemdíj fizetésére irányuló követelést terjesztett elő, ennek teljesítésével kapcsolatban a terhelt kifejezett nyilatkozata szükséges. Ilyen esetben a bíróság a polgári jogi igénnyel kapcsolatban bizonyítást nem folytat le.”
