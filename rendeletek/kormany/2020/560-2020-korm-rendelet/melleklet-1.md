@@ -1,4 +1,4 @@
-## „(3) A hatósági bizonyítvány kiadására irányuló kérelemben meg kell jelölni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 13. § (1) bekezdés a) pontja szerinti adatokat, továbbá az árverezésre kerülő vagy a bírósági döntés alapján történő tulajdonjog bejegyzéssel, illetve a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 7. § (4) bekezdése vagy a 8. § (1) bekezdése szerinti vételi joggal érintett föld fekvésének települését és helyrajzi számát, valamint a szerzéssel érintett tulajdoni hányadot.”
+## 6. §[^2]
 
 1. melléklet az 560/2020. (XII. 7.) Korm. rendelethez
 
@@ -49,3 +49,5 @@
 5.3. Számlaszám
 
 6. A kártalanítást igénylő aláírása és a kérelem kelte
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
