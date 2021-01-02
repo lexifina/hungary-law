@@ -1,5 +1,5 @@
-## 14. §[^13]
+## 14. §[^15]
 
 ## 8. A méhállomány egészségügyi kondíciójának megőrzéséhez igénybe vehető csekély összegű támogatásról szóló 29/2019. (VI. 20.) AM rendelet módosítása
 
-[^13]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
