@@ -1,3 +1,5 @@
-## 6. § A nemzetgazdaság védelmi felkészítése és mozgósítása feladatai végrehajtásának szabályozásáról szóló 131/2003. (VIII. 22.) Korm. rendelet 3. § a) pontjában a „rendvédelmi szervek és a NAV hivatásos állománya” szövegrész helyébe a „rendvédelmi szervek hivatásos állománya és a NAV pénzügyőri munkakört betöltő foglalkoztatottja” szöveg lép.
+## 6. §[^7]
 
 ## 7. A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosítása
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

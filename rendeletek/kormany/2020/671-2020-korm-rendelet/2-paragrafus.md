@@ -1,3 +1,5 @@
-## 1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet 38. §-ában az „a rendvédelmi szervek tagja, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja tartózkodási helyének bentlakásos iskolára (tanfolyamra) vezénylés” szövegrész helyébe az „a rendvédelmi szervek hivatásos állományú tagja, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja tartózkodási helyének bentlakásos iskolára (tanfolyamra) vezénylés vagy átrendelés” szöveg lép.
+## 1. §[^2]
 
 ## 2. A személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárásról szóló 137/1994. (X. 26.) Korm. rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 7. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 26. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) E rendelet eltérő rendelkezésének hiányában a rendőrség, a nemzetbiztonsági szolgálat, az Országgyűlési Őrség, a büntetés-végrehajtás szervezetének hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagja, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja számára lőfegyver tartása az (1) bekezdés a) pont aa) alpontja szerinti feltétel hiányában is engedélyezhető, ha a kérelmező a munkáltatónak a 17. számú melléklet szerinti kérelem megfelelő kitöltése útján megtett nyilatkozata alapján a hivatásos, pénzügyőri, illetve a katonai szolgálatra egészségi és pszichikai vagy pszichológiai szempontból alkalmas. A hivatásos, pénzügyőri, illetve a katonai szolgálatra való alkalmatlanság megállapítása esetén a munkáltató – ha a lőfegyvertartás hatóság általi engedélyezéséről hivatalos tudomással bír – köteles e körülményről az engedélyt megadó hatóságot haladéktalanul írásban tájékoztatni.”
+## 7. §[^8]
 
 ## 8. A területfejlesztés intézményei törvényességi felügyeletének részletes szabályairól szóló 51/2005. (III. 24.) Korm. rendelet módosítása
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 39. § A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet 2. § (2) bekezdés a) pontjában az „a kormánytisztviselők jogállásáról szóló törvény” szövegrész helyébe az „a kormánytisztviselők jogállásáról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény”, továbbá a „kormánytisztviselői” szövegrész helyébe a „kormánytisztviselői, adó- és vámhatósági” szöveg lép.
+## 39. §[^40]
 
 ## 38. A felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet módosítása
+
+[^40]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

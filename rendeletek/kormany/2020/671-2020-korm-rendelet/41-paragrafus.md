@@ -1,5 +1,7 @@
-## 40. § A felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet 19. § (4) bekezdésében a „kormányzati szolgálati jogviszonyban,” szövegrész helyébe a „kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban,” szöveg lép.
+## 40. §[^41]
 
 ## 39. Záró rendelkezések
 
 41. § Ez a rendelet 2021. január 1-jén lép hatályba.
+
+[^41]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

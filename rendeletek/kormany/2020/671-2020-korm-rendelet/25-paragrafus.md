@@ -1,3 +1,5 @@
-## 24. § A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 17. § (3) bekezdés b) pontjában az „a rendőrség, illetve a vámszerv olyan hivatásos állományú tagjai” szövegrész helyébe az „a rendőrség olyan hivatásos állományú tagjai, illetve a Nemzeti Adó- és Vámhivatal olyan pénzügyőri munkakört betöltő foglalkoztatottjai” szöveg lép.
+## 24. §[^25]
 
 ## 24. A közszolgálati tisztviselők részére adható juttatásokról és egyes illetménypótlékokról szóló 249/2012. (VIII. 31.) Korm. rendelet módosítása
+
+[^25]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 35. § A szakdiplomata-álláshely létesítésére, valamint a szakdiplomata felkészítésére és szakmai irányítására vonatkozó részletes szabályokról szóló 239/2017. (VIII. 18.) Korm. rendelet 3. § (1) és (2) bekezdésében a „kormányzati szolgálati jogviszonyban” szövegrész helyébe a „kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban” szöveg lép.
+## 35. §[^36]
 
 ## 34. A kulturális szakemberek szakmai továbbképzésének nyilvántartásba vételi szabályairól szóló 378/2017. (XII. 11.) Korm. rendelet módosítása
+
+[^36]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
