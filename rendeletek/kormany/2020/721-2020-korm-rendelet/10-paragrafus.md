@@ -1,9 +1,3 @@
-## 9. § A Vet. vhr. 47. § (3) bekezdése a következő d) és e) ponttal egészül ki:
+## 9. §[^10]
 
-## (Az Elosztói Szabályzat előírásai a 46. §-ban meghatározottakkal összhangban legalább az alábbiakra terjednek ki:)
-
-## „d) az elosztói rugalmassági szolgáltatások beszerzésének rendjére, igénybevételére és elszámolására, valamint
-
-## e) a teher-újraelosztás elosztó általi alkalmazására és elszámolására
-
-## vonatkozó szabályaira.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 4. § A Vet. vhr. (A VET 46. §-ához) Villamosenergia-kereskedelem alcíme a következő 22/E. §-sal egészül ki:
+## 4. §[^5]
 
-## „22/E. § A fizetési móddal vagy az előre fizetési rendszerrel kapcsolatos díjakban mutatkozó bármely különbség objektív, megkülönböztetésmentes és arányos lehet és az nem lépheti túl a fizetési móddal összefüggésben a kereskedőnél felmerült és a felhasználó által viselt költséget.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

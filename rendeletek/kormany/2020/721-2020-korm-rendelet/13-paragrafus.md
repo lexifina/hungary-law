@@ -1,11 +1,3 @@
-## 12. § A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet (a továbbiakban: KÁT-rendelet) 3. § (17) bekezdése helyébe a következő rendelkezés lép:
+## 12. §[^13]
 
-## „(17) Ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre, vagy elosztói rugalmassági szolgáltatások keretében az elosztó hálózati engedélyes részére kerül értékesítésre, akkor a villamosenergia-termeléssel összefüggő költségeket a kötelező átvételű villamos energia külön jogszabályban szabályozott átvétele rendszerén kívül, az átviteli rendszerirányítónak a villamosenergia-rendszer szabályozásával vagy az elosztónak az elosztói rugalmassági szolgáltatás igénybevételével összefüggő költségei között kell elszámolni, a villamosenergia-ellátási szabályzatokban meghatározottak szerint.”
-
-13. § (1) A KÁT-rendelet 4. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-## „(13) Ha a kötelező átvételre jogosult erőműegység a közcélú hálózaton piaci alapon is értékesít vagy kíván értékesíteni villamos energiát, akkor át kell lépnie a METÁR rendelet szerinti prémium típusú támogatási rendszerbe. Ebben az esetben a (12) bekezdésben meghatározott támogatott árat és időtartamot kell alkalmazni. A KÁT termelőnek nem kell átlépnie a METÁR rendelet szerinti prémium típusú támogatási rendszerbe, ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre vagy az elosztói rugalmassági szolgáltatás keretében az elosztó hálózati engedélyes részére kerül értékesítésre.”
-
-(2) A KÁT-rendelet 4. § (12) bekezdésében a „METÁR rendelet” szövegrész helyébe az „a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet (a továbbiakban: METÁR rendelet)” szöveg lép.
-
-(3) A KÁT-rendelet 6. § (2c) bekezdésében az „a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet” szövegrész helyébe a „METÁR rendelet” szöveg lép.
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
