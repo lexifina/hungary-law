@@ -1,1 +1,3 @@
-## „(5a) Színházi tűzfegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy kialakításának a módja megfelel a 22. számú mellékletben meghatározott követelményeknek, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.”
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

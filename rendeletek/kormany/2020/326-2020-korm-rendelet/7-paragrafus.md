@@ -1,5 +1,3 @@
-## 6. § A Vhr. 15. § (2) bekezdése a következő k) ponttal egészül ki:
+## 6. §[^7]
 
-## [Fegyver, lőszer (töltény) és lőszerelem forgalmazási tevékenység esetén]
-
-## „k) az Ftv. 12. § (1) bekezdés d) pontjában előírt adattovábbítási kötelezettség kizárólag elektronikus úton teljesíthető.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

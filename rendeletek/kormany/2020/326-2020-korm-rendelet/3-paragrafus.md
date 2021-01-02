@@ -1,1 +1,3 @@
-## „(6) Ha jogszabály szigorúbb követelményt nem támaszt, a tűzfegyver tartására jogosító engedélyt kiadó hatóság legfeljebb ötévente megvizsgálja, hogy az engedély kiadásának a feltételei a hatályos engedélyben megjelölt jogosultnál változatlanul fennállnak-e.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

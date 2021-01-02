@@ -1,1 +1,3 @@
-## „(5) Sportlövőnek az „A” kategória 5., illetve 6. alkategóriájába tartozó sportlőfegyver tartása abban az esetben engedélyezhető, ha megfelel az (1) és (3) bekezdésben meghatározott feltételeknek, továbbá bizonyítja, hogy az (1) bekezdés szerinti sportegyesületi tagsága az e rendelkezés hatálya alá tartozó eszköz tartására jogosító engedély iránti kérelem előterjesztésétől számított legalább tizenkét hónapja fennáll.”
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
