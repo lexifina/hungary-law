@@ -1,1 +1,3 @@
-## „(6) A Bt. 26/A. § (2) bekezdés szerinti előkutatás, archív adattári adatok, új elméleti földtani értelmezés eredményei alapján elkészített készletszámítási jelentés szakmai tartalmának meg kell felelnie a (2) és (3) bekezdésben meghatározott szakmai és mellékleti követelményeknek. A készletszámítási jelentést földtani szakértőnek kell ellenjegyeznie.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

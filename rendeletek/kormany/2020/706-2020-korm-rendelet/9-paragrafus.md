@@ -1,1 +1,3 @@
-## „(9) A bányavállalkozó a kitermelés megkezdését követően az üzemszerű kitermelés megkezdéséig az (5) bekezdésben meghatározott térítést és bányajáradékot, az üzemszerű kitermelés megkezdését követően pedig a Bt. 20. §-a szerinti bányajáradékot fizeti.”
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
