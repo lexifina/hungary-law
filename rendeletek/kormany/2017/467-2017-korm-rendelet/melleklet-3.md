@@ -336,4 +336,6 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 59. | Központi Bűnjelnyilvántartó Rendszer | szakrendszer |
 
-[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja szerint módosított szöveg.
+| 60. | Mesterséges Intelligencia Alapú Alkalmazások Szolgáltatása (MIA – MIaaS) Multi Tenant alapon | szakrendszer |
+
+[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja, a 680/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
