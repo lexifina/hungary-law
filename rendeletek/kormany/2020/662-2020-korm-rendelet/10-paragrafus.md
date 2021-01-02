@@ -1,4 +1,4 @@
-## 9. §[^16]
+## 9. §[^10]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. § i) pontja 2021. január 1-jén lép hatályba.
 
-[^16]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
