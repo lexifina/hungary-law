@@ -1,3 +1,3 @@
-## 1. § A piaci árinformációs rendszer és a tesztüzemi információs rendszer működéséről szóló 127/2013. (XII. 18.) VM rendelet (a továbbiakban: Rendelet) 2. §-a a következő (3) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(3) Amennyiben a NAIK a (2) bekezdésben meghatározott feladatai ellátása során a termékpályán jelentésre kötelezettek adatszolgáltatási kötelezettségének megszegését észleli, a kötelezettségszegés tényét az ezt alátámasztó adatokkal együtt haladéktalanul továbbítja a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH). Ezzel egyidejűleg a NAIK értesíti a jelentésre kötelezettet az adatszolgáltatási kötelezettség megszegéséről és annak jogkövetkezményéről.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 6. § A Rendelet 14/D. §-ában az „1,5 milliárd” szövegrész helyébe az „1,0 milliárd” szöveg lép.
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
