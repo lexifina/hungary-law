@@ -1,5 +1,3 @@
-## 7. § A 9/2016. (II. 15.) FM rendelet 4. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## (A szőlőtermelő akkor jogosult a támogatás igénybevételére, ha)
-
-## „f) a növényegészségügyi megelőzéshez, illetve a növényegészségügyi felszámoláshoz kapcsolódó növényvédőszeres védekezésről permetezési naplót vezet, és”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „t) támogatható területnagyság: a szőlőtermelő vagy a termelői szerveződés által a kifizetési kérelemben, a hegybírói igazoláson, a permetezési naplóban vagy a Gazdálkodási Napló szerinti nyilvántartásban (a továbbiakban együtt: permetezési napló) megjelölt, hektárban – négy tizedesjegy pontossággal – kifejezett területnagyság közül a legkisebb;”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

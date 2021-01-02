@@ -1,1 +1,3 @@
-## „A szőlőtermelő növényegészségügyi megelőzés támogatása igénybevételére irányuló, (1) bekezdés szerinti kérelme – a szőlőtermelő azonosító adatain túl – az alábbi adatokat tartalmazza:”
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
