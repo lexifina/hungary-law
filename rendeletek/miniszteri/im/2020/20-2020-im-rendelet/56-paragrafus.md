@@ -1,1 +1,3 @@
-## „(9) A büntetés-végrehajtási pártfogó felügyelő az elítélt családi kapcsolatainak feltárásakor a vizsgálja, hogy az elítélt kiskorú gyermekével összefüggésben fennállnak-e a Bv. tv. 185. § (8) bekezdésében meghatározott feltételek, és ha igen, értesíti az elítélt kiskorú gyermekének lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyámhatóságot a várható szabadulás időpontjáról.”
+## 55. §[^56]
+
+[^56]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

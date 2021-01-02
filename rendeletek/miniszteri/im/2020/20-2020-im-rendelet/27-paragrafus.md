@@ -1,3 +1,3 @@
-## 26. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 38. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 26. §[^27]
 
-## „(3) A bűnjelkezelő a határozat (értesítés) alapján a bűnjel kiadásának megtörténtét rögzíti a KBR-ben és az átvételi elismervényt megőrzi.”
+[^27]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 36. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 74. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 36. §[^37]
 
-## „(3) A jövedéki termékek és a nem uniós áruk tekintetében befolyt összeget a jövedéki, illetve a vámjogszabályok szerint kell elszámolni.”
+[^37]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

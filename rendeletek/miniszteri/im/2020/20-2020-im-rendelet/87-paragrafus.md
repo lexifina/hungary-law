@@ -1,1 +1,3 @@
-## „(3) Az ellenőrzést biztosító megfigyelési eszközként a külön légterű illemhely, illetve fürdőhelyiség falán vagy ajtaján az ellenőrző nyílást úgy kell kialakítani, hogy azon az elítéltek ne tekinthessenek be.”
+## 86. §[^87]
+
+[^87]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

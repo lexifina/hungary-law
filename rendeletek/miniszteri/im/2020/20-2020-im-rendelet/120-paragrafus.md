@@ -1,3 +1,3 @@
-## 119. § A 9/2018. (VI. 11.) IM rendelet 90. § (8) bekezdése helyébe a következő rendelkezés lép:
+## 119. §[^120]
 
-## „(8) A közjegyző az általa kiszabott pénzbírságnak a székhelye szerint illetékes törvényszék bevételi számlája javára történő megfizetésére a kötelezettet önkéntes teljesítésre utalva – a pénzbírságot kiszabó határozat ügyszámára hivatkozással – hívja fel. Ha a kötelezett a pénzbírság megfizetését a megjelölt határidő lejártától számított harminc napon belül a közjegyzőnél nem igazolta, a közjegyző a végrehajtható határozat egy kiadmányát megküldi annak a GH-nak, amelynek a területén a székhelye található. A GH a behajtás érdekében 4. § (3) bekezdése szerint jár el.”
+[^120]: A 119. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

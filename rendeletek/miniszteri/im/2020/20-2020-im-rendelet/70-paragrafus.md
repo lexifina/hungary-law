@@ -1,3 +1,5 @@
-## 69. § Hatályát veszti a 14/2014. (XII. 17.) IM rendelet 31. § (4) bekezdése.
+## 69. §[^70]
 
 ## 9. A büntetés-végrehajtási intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak letétjének kezeléséről és a birtokukban lévő külföldi fizetőeszközzel kapcsolatos eljárásról szóló 15/2014. (XII. 17.) IM rendelet módosítása
+
+[^70]: A 69. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

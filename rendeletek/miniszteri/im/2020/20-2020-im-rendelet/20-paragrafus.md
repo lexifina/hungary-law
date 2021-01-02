@@ -1,3 +1,3 @@
-## 19. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 27. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 19. §[^20]
 
-## „(2) Az (1) bekezdésben meghatározott esetben a bűnjelkezelő a bűnjelet az illetékes hatósághoz vagy annak bűnjelkezelőjéhez továbbítja, majd a 19. § alapján jár el.”
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

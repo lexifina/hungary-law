@@ -1,3 +1,5 @@
-## 144. § Hatályát veszti a 12/2018. (VI. 12.) IM rendelet 6. §-a.
+## 144. §[^145]
 
 ## 14. Záró rendelkezések
+
+[^145]: A 144. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

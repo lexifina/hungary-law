@@ -1,11 +1,3 @@
-## 50. § A 8/2013. (VI. 29.) KIM rendelet 40/A. §-a helyébe a következő rendelkezés lép:
+## 50. §[^51]
 
-## „40/A. § (1) A pártfogó felügyelet végrehajtása során a pártfogó felügyelő a pártfogolt figyelemmel kísérését elsősorban személyes kapcsolattartás keretében végzi, és ennek megfelelően határozza meg – az egyéni pártfogó felügyelői terv megvalósulása és a pártfogolt személyi körülményei, illetve szükségletei alapján, a (2) bekezdésben és a Bv. tv. 317. § (5) bekezdésében meghatározottak figyelembevételével – a pártfogolt személyes jelentkezési kötelezettségének gyakoriságát.
-
-## (2) A Btk. 69. § (2) bekezdés d) pontja alapján megállapított pártfogó felügyelet végrehajtása során a jelentkezési kötelezettség gyakoriságát a pártfogó felügyelő úgy határozza meg, hogy arra havonta legalább egy alkalommal sor kerüljön.
-
-## (3) A pártfogó felügyelő feljegyzést készít vagy jegyzőkönyvbe foglalja, ha a kapcsolattartási kötelezettség teljesítésének módjaként telefon vagy egyéb elektronikus kapcsolattartást határoz meg, vagy az intézkedését visszavonja. A feljegyzés tartalmazza a személyes kapcsolattartás keretében szerzett tapasztalatok összegzését vagy az intézkedés visszavonásának indokát, a kapcsolattartás konkrét módját, kezdő vagy visszavonásának időpontját és a pártfogoltnak az intézkedésekre vonatkozó tájékoztatásának idejét és módját
-
-## (4) A Btk. 69. § (2) bekezdés d) pontja alapján megállapított pártfogó felügyelet végrehajtása során a pártfogó felügyelő feladatai ellátása kapcsán együttműködik a pártfogolt, a sértett vagy a külön magatartási szabállyal érintett más személy lakcíme vagy tényleges tartózkodási helye szerinti család- és gyermekjóléti szolgálattal, család- és gyermekjóléti központtal, a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalával.
-
-## (5) A Bv. tv. 313. § (4b) bekezdése esetén a kapcsolat felvételekor a sértett vagy a külön magatartási szabállyal érintett más személy kíméletével kell eljárni. A pártfogó felügyelő zártan kezeli a sértett vagy a külön magatartási szabállyal érintett más személy lakcímét vagy tényleges tartózkodási helyét, ha azt a büntetőeljárás során zártan kezelték vagy a gyámhatóság az adat átadását a terhelt részére a távoltartásra figyelemmel megtagadta.”
+[^51]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

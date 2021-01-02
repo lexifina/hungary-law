@@ -1,3 +1,3 @@
-## 22. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 33. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 22. §[^23]
 
-## „(2) Ha az érintett a lefoglalt dolog megváltására 15 napon belül nem tesz indítványt, vagy az indítványt az ügyészség vagy a nyomozó hatóság elutasítja, az ügyészség vagy a nyomozó hatóság az 57–61. § megfelelő alkalmazásával értékesíti a lefoglalt dolgot.”
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

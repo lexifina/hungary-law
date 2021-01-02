@@ -1,3 +1,3 @@
-## 35. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 73. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 35. §[^36]
 
-## „(3) A hatóság a jövedéki termékről vagy a nem uniós áruról rendelkező határozatát megküldi a NAV-nak.”
+[^36]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

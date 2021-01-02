@@ -1,1 +1,3 @@
-## „(3) Ha a bíróság az érintett, valamint egyes szerv őrizetében hagyott vagy kezelésére bízott bűnjel elkobzásáról határozott, erről a bírósági bűnjelkezelő a BGH-t a jogerős vagy véglegessé vált határozat megküldésével haladéktalanul értesíti.”
+## 31. §[^32]
+
+[^32]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „(5) A GH a vagyonelkobzást az állami adó- és vámhatóságnak,
+## 113. §[^114]
 
-## a) ha a végrehajtás nem járt eredménnyel, az eljárás befejezéséről szóló, vagy
-
-## b) ha a vagyonelkobzást a bíróság pénzösszegben rendelte el, a Be. CVI. Fejezete szerinti eljárás kezdeményezéséről szóló
-
-## értesítése alapján továbbra is nyilvántartásban tartja.”
+[^114]: A 113. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

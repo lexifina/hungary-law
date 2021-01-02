@@ -1,3 +1,3 @@
-## 132. § Az egyes büntetőeljárási cselekményekre és a büntetőeljárásban részt vevő személyekre vonatkozó szabályokról szóló 12/2018. (VI. 12.) IM rendelet [a továbbiakban: 12/2018. (VI. 12.) IM rendelet] 5. § (1) bekezdés helyébe a következő rendelkezés lép:
+## 132. §[^133]
 
-## „(1) A Be. 47. § (1) és (2) bekezdése, illetve a Be. 49. §-a szerinti esetekben a bíróság, az ügyészség és a nyomozó hatóság a területi ügyvédi kamara által a védőként kirendelhető ügyvédekről vezetett jegyzékben szereplő ügyvédek közül jelöli ki a kirendelt vagy a helyettes védőt. A bíróság, az ügyészség és a nyomozó hatóság a Be. 47. § (2) bekezdése szerinti esetben a kirendelt vagy a Be. 47. § (1) bekezdése, illetve a Be. 49. §-a szerinti esetekben a helyettes védő kijelölése érdekében olyan ingyenes internetes szolgáltatást is igénybe vehet, amely az eljárási cselekményre jelentkezni kívánó ügyvédek számára teszi lehetővé a védőkénti kijelölés érdekében a kirendelő szervvel való kapcsolatfelvételt.”
+[^133]: A 132. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(8) A le nem foglalt bűnjel létrehozása esetén az (1)–(7) bekezdésben foglaltakat megfelelően alkalmazni kell.”
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

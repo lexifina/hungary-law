@@ -1,5 +1,5 @@
-## 59. § A büntetés-végrehajtási intézetekben fogvatartott elítéltek és egyéb jogcímen fogvatartottak egészségügyi ellátásáról szóló 8/2014. (XII. 12.) IM rendelet 3. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2a) Járványügyi érdekből vagy fertőző megbetegedés terjedésének megelőzése érdekében az egészségügyi szakterület javaslatot tehet a fogvatartottnak a befogadó részlegen vagy a bv. intézet egészségügyi részlegén legfeljebb tizennégy napig történő elkülönítésére. Ha ez idő alatt a bv. orvos megállapítása szerint a fogvatartottnak a jogszabályban meghatározott fertőző betegség gyanúja miatt fekvőbeteg-gyógyintézet fertőző osztályán, illetve kijelölt gyógyintézetben való járványügyi elkülönítése válik szükségessé, a bv. intézet – a 25. § megtartásával – intézkedik a fogvatartottnak a legközelebbi járványügyi megfigyelést végző egészségügyi intézménybe szállítása iránt.”
+## 59. §[^60]
 
 ## 6. A büntetés-végrehajtási intézetben fogvatartott elítéltekkel és egyéb jogcímen fogvatartottakkal kapcsolatos kártérítési eljárás szabályairól szóló 12/2014. (XII. 16.) IM rendelet módosítása
+
+[^60]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

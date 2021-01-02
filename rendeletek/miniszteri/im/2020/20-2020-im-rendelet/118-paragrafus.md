@@ -1,1 +1,3 @@
-## „(5) A GH az előírt bűnügyi költséget az állami adó- és vámhatóság értesítéséig, de legfeljebb az Avt. 125/A. § (7) bekezdése és 125/B. § (3) bekezdése értelmében a követelés elévüléséig nyilvántartja.”
+## 117. §[^118]
+
+[^118]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

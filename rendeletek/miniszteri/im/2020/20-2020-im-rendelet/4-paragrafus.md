@@ -1,1 +1,3 @@
-## „(6) Az e §-ban nem szabályozott kérdésekben a Kincstár által végzett bűnjelkezelésre a bűnjel egyes szervek őrizetébe és kezelésébe adásának szabályait kell alkalmazni.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

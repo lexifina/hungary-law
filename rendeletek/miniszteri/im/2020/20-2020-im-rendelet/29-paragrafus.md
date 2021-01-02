@@ -1,1 +1,3 @@
-## „(1a) Ha a lefoglalás megszüntetésére nem került sor, a bűnjelet az (1) bekezdés b) és c) pontjában meghatározott szerveknek a hatóság határozata vagy engedélye alapján lehet kiadni.”
+## 28. §[^29]
+
+[^29]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

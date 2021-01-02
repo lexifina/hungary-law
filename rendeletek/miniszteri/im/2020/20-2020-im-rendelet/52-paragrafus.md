@@ -1,5 +1,3 @@
-## 51. § A 8/2013. (VI. 29.) KIM rendelet 47. § (4) bekezdése a következő d) ponttal egészül ki:
+## 51. §[^52]
 
-## [Az (1) bekezdés szerinti javaslatot a bv. ügyészhez terjeszti elő]
-
-## „d) szabadságvesztés végrehajtása elrendelésének indítványozására, ha a felfüggesztett szabadságvesztésre ítélt a magatartási szabályokat súlyosan megszegi.”
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

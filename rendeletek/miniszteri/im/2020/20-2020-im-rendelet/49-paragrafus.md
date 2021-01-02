@@ -1,3 +1,3 @@
-## 48. § A 8/2013. (VI. 29.) KIM rendelet 37. §-a a következő (3a) bekezdéssel egészül ki:
+## 48. §[^49]
 
-## „(3a) A pártfogó felügyelő a munkahely kijelöléséről szóló határozatot a törvényes képviselőnek is kézbesíti, vagy azt kihirdetés útján közli, ha a határozatot meghallgatáson hozta és a törvényes képviselő jelen volt, egyebekben a 30. § (3) bekezdése szerint jár el.”
+[^49]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

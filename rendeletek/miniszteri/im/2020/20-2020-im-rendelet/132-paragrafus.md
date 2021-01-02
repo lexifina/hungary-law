@@ -1,3 +1,5 @@
-## 131. § A bűnügyi költségek előlegezéséről szóló 11/2018. (VI. 12.) IM rendelet 2. § (1) bekezdés a) pontjában az „a terhelt” szövegrész helyébe az „a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy” szöveg lép.
+## 131. §[^132]
 
 ## 13. Az egyes büntetőeljárási cselekményekre és a büntetőeljárásban részt vevő személyekre vonatkozó szabályokról szóló 12/2018. (VI. 12.) IM rendelet módosítása
+
+[^132]: A 131. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

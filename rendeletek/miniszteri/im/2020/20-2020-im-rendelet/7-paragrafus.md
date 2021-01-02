@@ -1,3 +1,3 @@
-## „(7) A bűnjel adataira vonatkozó hiányosságokat és a csomagoláskor észlelt változásokat rögzíteni kell a KBR-ben.
+## 6. §[^7]
 
-## (8) A bűnjelnek az érintett őrizetében hagyása vagy egyes szervek őrizetébe és kezelésébe adása esetén a bűnjel csomagolása és a bűnjel azonosító megjelölés elhelyezése kivételes esetben akkor mellőzhető, ha arra a bűnjel állagára tekintettel nincs lehetőség.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „(5) Az elkülönítést meg kell szüntetni, ha
+## 64. §[^65]
 
-## a) a határideje lejárt,
-
-## b) a bv. orvos vagy a pszichológus az egyszemélyes fegyelmi elkülönítés folytatását nem javasolja, vagy
-
-## c) az elkülönítés indoka már nem áll fenn, a fegyelmi jogkör gyakorlójának rendelkezésére.”
+[^65]: A 64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 88. § A 16/2014. (XII. 19.) IM rendelet 75. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 88. §[^89]
 
-## „(1) A kérelmezőnek igazolnia kell, hogy a kérelem indoka a valóságnak megfelel. A kérelem indokoltságát a bv. intézet ellenőrizheti, az indokok tisztázását kezdeményezheti. A félbeszakítás iránti kérelem indokoltságának ellenőrzésére a bv. intézet beszerezheti, az országos parancsnok, illetve a büntetés-végrehajtásáért felelős miniszter hatáskörébe tartozó döntés esetén beszerzi a büntetés-végrehajtási pártfogó felügyelői környezettanulmányt, valamint az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentést.”
+[^89]: A 88. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
