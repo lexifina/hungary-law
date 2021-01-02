@@ -1,3 +1,1 @@
-6. § Az Mktv. 19/L. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a (2) és (3) bekezdésben meghatározott követelményeknek. Ha a bejelentés megfelel a (2) és (3) bekezdésben meghatározott követelményeknek, és az igazgatási szolgáltatási díjat megfizették, legkésőbb a bejelentés megérkezésétől számított nyolc napon belül a Hatóság a bejelentőt erről a tényről értesíti. A bejelentésben foglalt adatokban bekövetkezett változást a moziüzemeltető köteles a változást követő 15 napon belül bejelenteni a Hatóságnak.”
+6. §

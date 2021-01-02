@@ -1,10 +1,10 @@
 19. § Az Mktv.
 
-a) 14. § (3) bekezdés i) pontjában a „telephellyel” szövegrész helyébe a „fiókteleppel”,
+a)
 
-b) 23. § (4) bekezdésében a „tiszteletdíjban, az eljáró Korhatár Bizottság tagjai a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter által megállapított költségtérítésben” szövegrész helyébe a „díjazásban”,
+b)
 
-c) 23. § (5) bekezdésében az „A miniszter” szövegrész helyébe az „A kultúráért felelős miniszter (a továbbiakban: miniszter)”,
+c)
 
 d)
 
