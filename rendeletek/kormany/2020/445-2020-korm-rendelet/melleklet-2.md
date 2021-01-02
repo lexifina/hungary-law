@@ -1,3 +1,3 @@
-2. melléklet a 445/2020. (X. 1.) Korm. rendelethez[^26]
+2. melléklet a 445/2020. (X. 1.) Korm. rendelethez[^32]
 
-[^26]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

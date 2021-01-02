@@ -1,29 +1,15 @@
-## 11. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet a következő 95/B. §-sal egészül ki:
+## 11. §[^12]
 
-## „95/B. § (1) A támogatási szerződés 95. § (1) bekezdése szerinti módosítását a támogató vagy a kedvezményezett egyoldalúan, a támogató és a kedvezményezett közösen is kezdeményezhetik.
+12. § (1)[^13]
 
-## (2) A támogató a támogatási szerződésben meghatározott támogatási célt – ha az a kedvezményezett hátrányára történik – csak akkor módosíthatja, ha erről a felek a támogatási szerződésben megállapodtak, vagy a támogató általános szerződési feltételt alkalmaz, és az általános szerződési feltételben a támogató ezt kikötötte. A támogatói okiratban meghatározott támogatási cél támogató részéről történő módosítására az általános szerződési feltételekre történő kikötés szabálya irányadó.
+(2)[^14]
 
-## (3) A támogatási szerződés eredeti célja a kedvezményezett kezdeményezésére – a 95. § (1) bekezdésében foglaltakon túl – akkor is módosítható, ha a támogatott tevékenység eredeti célja meghiúsul, tartós akadályba ütközése a támogatási szerződésben meghatározott határidőhöz képest előreláthatóan eléri, vagy meghaladja a három hónapos késedelmet, ideértve az ezen határidő-módosítások miatt változó támogatási intenzitás esetét is. A kedvezményezett által kezdeményezett támogatási szerződésben meghatározott eredeti cél módosításáról a támogató a kezdeményezés beérkezésétől számított negyvenöt napon belül dönt.
+(3)[^15]
 
-## (4) A támogató és a kedvezményezett a (2) és (3) bekezdésben foglaltaktól eltérően közösen is kezdeményezheti a támogatási szerződésben meghatározott támogatási cél módosítását azzal, hogy a módosítás során a feleket nem köti a (3) bekezdésben foglalt határidő és a támogatási szerződés módosítása a támogató Áht. 53/A. § (5) bekezdése szerinti előzetes engedélyének minősül. Ha a támogató a támogatást biztosító előirányzat felett fejezetet irányító szervi jogállással nem bíró kezelő szervet, az előzetes engedélynek minősülő módosító szerződés érvényességéhez a fejezetet irányító szerv egyetértő záradéka is szükséges.
+(4)[^16]
 
-## (5) A támogatási szerződés (2)–(4) bekezdés szerinti módosítása esetén a támogató a támogatott tevékenység időtartama alatt felmerült, a támogatott tevékenység megvalósításához kapcsolódó költségekről a 92–94. §-ban meghatározottak alapján elszámol a támogató felé.
-
-## (6) A támogatási szerződés (2)–(4) bekezdés szerinti módosítása esetén a fel nem használt költségvetési támogatás összege az Áht. 53/A. §-ában és a 96. §-ában foglaltaktól eltérően nem minősül a támogatás jogosulatlan igénybevételének, ha azt a kedvezményezett – a támogató döntése alapján – egy összegben vagy részletekben visszatéríti.”
-
-12. § (1)[^4]
-
-(2) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A támogatási döntés meghozatalához nem szükséges)
-
-## „b) a támogatónak a 70. § (1) bekezdése szerinti tájékoztatást kibocsátania.”
-
-(3) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-## „(10) A kedvezményezett a támogatott tevékenység részletes bemutatását és a 76. § (1) bekezdés d) pontja szerinti költségtervet a támogatói okirat kiadásától számított hatvan napon belül küldi meg a támogatónak. Ha a kedvezményezett a támogatónak a költségtervet egyáltalán nem, vagy hiányosan, vagy nem az előírtaknak megfelelő tartalommal nyújtja be, és a hiányosságot felszólításra sem pótolja, akkor a támogató a támogatói okiratot jogosult azonnali hatállyal visszavonni.”
-
-(4) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-[^4]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 12. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

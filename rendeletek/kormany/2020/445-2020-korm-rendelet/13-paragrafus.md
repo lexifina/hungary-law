@@ -1,1 +1,0 @@
-## „(13) Ha a Kormány egyedi határozatában meghozott támogatási döntésének eredeti célját egyedi határozatában utóbb módosítja, a támogatói okirat tartalmát a módosított kormányhatározatban foglaltaknak megfelelően módosítani kell.”
