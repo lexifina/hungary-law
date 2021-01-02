@@ -1,3 +1,1 @@
-7. § A Törvény a következő 8. §-sal egészül ki:
-
-„8. § Az 1. § (1) bekezdése a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló, 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésének való megfelelést szolgálja.”
+7. §
