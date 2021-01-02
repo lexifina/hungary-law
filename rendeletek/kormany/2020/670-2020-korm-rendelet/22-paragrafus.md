@@ -1,4 +1,4 @@
-## lép.
+## 21. §[^39]
 
 ## 3. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 17. § o) pontja 2021. április 1-jén lép hatályba.
 
 (3) A 20. § 2021. július 1-jén lép hatályba.
+
+[^39]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

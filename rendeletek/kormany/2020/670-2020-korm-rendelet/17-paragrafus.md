@@ -1,45 +1,62 @@
-## 16. § A NAV Korm. rendelet 98. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3a) Az 5. § l) pontja, a 14. § c) pontja és a 15. § (6) bekezdése az Uniós Vámkódex alapján történő információcserére és az érintett információk tárolására szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló, 2019. június 21-i (EU) 2019/1026 bizottsági végrehajtási rendelet végrehajtását szolgálja.”
+## 16. §[^16]
 
 ## 17. § A NAV Korm. rendelet
 
-a) 3. § (1) bekezdésében az „alkalmazottja” szövegrész helyébe a „foglalkoztatottja” szöveg,
+a)[^17]
 
-b) 7. § f) pontjában az „eljárással kapcsolatos” szövegrész helyébe az „eljárással kapcsolatos, valamint” szöveg,
+b)[^18]
 
-c) 12. §-ában a „Repülőtéri Igazgatóság, valamint” szövegrész helyébe a „Repülőtéri Igazgatóság, a Bevetési Igazgatóság, valamint” szöveg,
+c)[^19]
 
-d) 11. alcíme címében az „Igazolásokkal, nyilvántartásba vétellel,” szövegrész helyébe az „Igazolásokkal, egyes nyilatkozatokkal, nyilvántartásba vétellel,” szöveg,
+d)[^20]
 
-e) 22. § (1) bekezdés i) pontjában az „átvétele és nyilvántartásba vétele” szövegrész helyébe az „átvétele és nyilvántartásba vétele, feldolgozása, érvényességének megállapítása” szöveg,
+e)[^21]
 
-f) 16. alcíme címében az „Általános megbízólevéllel végzett ellenőrzéshez kapcsolódó különös hatáskör és illetékesség” szövegrész helyébe az „Ellenőrzési ügyben alkalmazandó különös hatásköri és illetékességi szabályok” szöveg,
+f)[^22]
 
-g) 28. § (1) bekezdésében a „megyei igazgatóság, illetve a Repülőtéri Igazgatóság” szövegrész helyébe a „megyei igazgatóság, a KAVIG, illetve a Repülőtéri Igazgatóság” szöveg,
+g)[^23]
 
-h) 29. § (1) bekezdés c) pontjában az „az állami adó- és vámhatóság vezetője által kijelölt” szövegrész helyébe az „az első helyen megjelölt vagyonszerző lakóhelye, székhelye szerint illetékes, a Magyar Állam öröklése esetén az állami adó- és vámhatóság vezetője által kijelölt” szöveg,
+h)[^24]
 
-i) 52. § (1) bekezdésében a „hatósági ellenőrzést” szövegrész helyébe a „hatósági ellenőrzést, valamint a 90. § (2) bekezdés a) pontja szerinti hatósági ellenőrzést” szöveg,
+i)[^25]
 
-j) 52. § (4) bekezdésében az „az általános szabályok szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóságok jogosultak” szövegrész helyébe az „a Bevetési Igazgatóság jogosult” szöveg,
+j)[^26]
 
-k) 52. § (5) bekezdésében az „az általános szabályok szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóságok is jogosultak” szövegrész helyébe az „a Bevetési Igazgatóság jogosult” szöveg,
+k)[^27]
 
-l) 52. § (6) bekezdésében az „ellenőrzést lefolytató” szövegrész helyébe az „ellenőrzés helye szerinti” szöveg,
+l)[^28]
 
-m) 56/A. § (1) bekezdésében a „valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény (a továbbiakban: Avt.) 48. § (4) bekezdése, 65. § (9) bekezdése, 90. § (3) bekezdése, 91. § (7) bekezdése, 102. §-a, valamint a 113. § (3) bekezdése” szövegrész helyébe a „valamint az Avt. 48. § (4) bekezdése, 65. § (9) bekezdése, 70. § (8) bekezdése, 82. § (5) bekezdése, 90. § (3) bekezdése, 91. § (7) bekezdése, 102. §-a, 112. §-a, valamint 113. § (3) bekezdése” szöveg,
+m)[^29]
 
-n) 63. § (1) bekezdés e) pontjában a „kormánytisztviselői és közalkalmazottai adóügyében” szövegrész helyébe a „kormánytisztviselői és közalkalmazottai, honvédelmi alkalmazottai és rendvédelmi igazgatási alkalmazottai adóügyében” szöveg,
+n)[^30]
 
-o)[^1]
+o)[^31]
 
-p) 66. § d) pontjában a „kapcsolatos helyszíni szemle” szövegrész helyébe a „kapcsolatos egyéb helyszíni eljárások” szöveg,
+p)[^32]
 
-q) 1. melléklet B) cím 7. pont f) alpontjában az „illetékességi területe Baranya megye” szövegrész helyébe az „illetékességi területe – e rendeletben meghatározott eltérésekkel – Baranya megye” szöveg,
+q)[^33]
 
-r) 1. melléklet B) cím 7. pont i) alpontjában az „illetékességi területe Csongrád-Csanád megye” szövegrész helyébe az „illetékességi területe – e rendeletben meghatározott eltérésekkel – Csongrád-Csanád megye” szöveg,
+r)[^34]
 
-s) 1. melléklet B) cím 7. pont j) alpontjában az „illetékességi területe Fejér megye” szövegrész helyébe az „illetékességi területe – e rendeletben meghatározott eltérésekkel – Fejér megye” szöveg
+s)[^35]
 
-[^1]: A 17. § o) pontja a 22. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 17. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 17. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 17. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 17. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 17. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 17. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 17. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 17. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 17. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 17. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 17. § o) pontja a 22. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+[^32]: A 17. § p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 17. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 17. § r) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 17. § s) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

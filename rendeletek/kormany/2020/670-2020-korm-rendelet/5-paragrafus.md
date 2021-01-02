@@ -1,7 +1,3 @@
-## 4. § A NAV Korm. rendelet 7. §-a a következő g) ponttal egészül ki:
+## 4. §[^4]
 
-## (A Központi Irányítás ellátja)
-
-## „g) a Magyarországon megtartandó OECD nemzetközi adóügyi szeminárium lebonyolításával kapcsolatos”
-
-## (feladatokat.)
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
