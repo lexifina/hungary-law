@@ -48,10 +48,14 @@ d) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 3 000 000
 
 e) a 2026–2032. évekre vonatkozó kötelezettségvállalások felső korlátja évente 2 500 000 000 forint.
 
-7. A Széchenyi Kártya Program egyes konstrukciói támogatásának folytatásáról szóló 1736/2019. (XII. 19.) Korm. határozat [a továbbiakban: 1736/2019. (XII. 19.) Korm. határozat] 1–3. pontjaiban a „2020. január 1. és 2020. december 31. között” szövegrész helyébe a „2020. január 1-jétől” szöveg lép.
+7.[^1]
 
-8. A Kormány visszavonja a kezességvállalási díjak költségvetési támogatásának összegéről szóló 1778/2018. (XII. 21.) Korm. határozat 6. pontját.
+8.[^2]
 
-9. Hatályát veszti az 1736/2019. (XII. 19.) Korm. határozat 4. és 6. pontja.
+9.[^3]
 
 10. Ez a határozat 2021. január 1-jén lép hatályba.
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
