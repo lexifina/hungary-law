@@ -1,3 +1,1 @@
-44. § A Haj.tv. a következő 52/A. §-sal egészül ki:
-
-„52/A. § Ha a honvédelmi szervezet rendeltetésszerű és eredményes működéséhez, jogszabályban, közjogi szervezetszabályozó eszközben vagy alapító okiratban meghatározott feladatainak teljesítéséhez szükséges, miniszteri rendeletben az Mt. 109. § (1) bekezdésében foglaltakon túl, naptári évenként legfeljebb további százötven óra rendkívüli munkaidő elrendelése is engedélyezhető.”
+44. §

@@ -1,3 +1,1 @@
-14. § A Hvt. 54. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A honvédelmi szervezet működésére szolgáló objektum objektumparancsnoka elrendelheti, hogy az objektum területére történő beléptetést, illetve az onnan történő kiléptetést végző őrzés-védelmi, ügyeleti szolgálati feladatot ellátó katona, fegyveres biztonsági őr az ellenőrzött területre történő belépést vagy az onnan történő kilépést megelőzően köteles legyen felhívni a be-, illetve kilépni szándékozó személyt a ruházata, valamint a magával hozott tárgyak, táskák, csomagok és a be-, illetve kilépéshez igénybe vett gépjármű bemutatására. Ha ennek az érintett nem tesz eleget, az ellenőrzött területre történő belépését a beléptetést végző szolgálati személy megtilthatja. Az őrzés-védelmi, ügyeleti szolgálati feladatot ellátó katona, fegyveres biztonsági őr csak a vele azonos nemű be- és kilépő személy ruházatát vizsgálhatja át. Az intézkedés nem történhet szeméremsértő módon.”
+14. §
