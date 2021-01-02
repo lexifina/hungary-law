@@ -1,5 +1,5 @@
-## 76. §[^76]
+## 76. §[^77]
 
 ## 62. A tanárképzés rendszeréről, a szakosodás rendjéről és a tanárszakok jegyzékéről szóló 283/2012. (X. 4.) Korm. rendelet módosítása
 
-[^76]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

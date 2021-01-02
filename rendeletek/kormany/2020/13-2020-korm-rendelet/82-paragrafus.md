@@ -1,24 +1,29 @@
-## lép.
-
-82. § (1) Hatályát veszti a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 21. § (1) bekezdés k) pontjában az „a szakképzésről szóló 2011. évi CLXXXVII. törvény 73. § (2) bekezdés h) pontja szerint a szakképesítésért felelős miniszter által szervezett” szövegrész.
+82. § (1)[^84]
 
 (2) Hatályát veszti a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet
 
-1. 15. § (6) bekezdése,
+1.[^85]
 
-2.[^82]
+2.[^86]
 
-3. 47. §-a,
+3.[^87]
 
-4. 48. §-a,
+4.[^88]
 
-5. 50. §-a,
+5.[^89]
 
-6. 51. §-a,
+6.[^90]
 
-7. 52. §-a,
+7.[^91]
 
-8.[^83]
+8.[^92]
 
-[^82]: A 82. § (2) bekezdés 2. pontja a 661/2020. (XII. 24.) Korm. rendelet 27. § b) pontja alapján nem lép hatályba.
-[^83]: A 82. § (2) bekezdés 8. pontja a 186. § (4) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^84]: A 82. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 82. § (2) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 82. § (2) bekezdés 2. pontja a 661/2020. (XII. 24.) Korm. rendelet 27. § b) pontja alapján nem lép hatályba.
+[^87]: A 82. § (2) bekezdés 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 82. § (2) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 82. § (2) bekezdés 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 82. § (2) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 82. § (2) bekezdés 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 82. § (2) bekezdés 8. pontja a 186. § (4) bekezdése alapján 2021. március 1-jén lép hatályba.
