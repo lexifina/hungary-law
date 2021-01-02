@@ -1,1 +1,3 @@
-## 10. § Nem lép hatályba az R3. 3. § (2) bekezdése.
+## 10. §[^10]
+
+[^10]: A 10. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

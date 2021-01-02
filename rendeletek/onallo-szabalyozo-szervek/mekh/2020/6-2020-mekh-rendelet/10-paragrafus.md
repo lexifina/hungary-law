@@ -1,7 +1,3 @@
-## 9. § Az R3. 3. § (1) bekezdése a következő szöveggel lép hatályba:
+## 9. §[^9]
 
-## „(1) Az energetikai szakreferens igénybevételére kötelezett gazdálkodó szervezet villamosenergia-felhasználásának figyelemmel kísérése, az indokolatlan fogyasztások feltárása és az energiamegtakarítási lehetőségek azonosítása érdekében köteles almérőt felszerelni az alábbi villamosenergia-felhasználási pontokon, ha a villamosenergia-felhasználás a beépített teljesítmény és az üzemidő alapján nem határozható meg:
-
-## a) minden 100 kW feletti névleges teljesítményű önálló villamos berendezés (különösen a kompresszorok, motorok, szivattyúk, egyéb hajtások és technológiai berendezések),
-
-## b) minden 140 kW feletti névleges elektromos teljesítményű hőtermelő és klímaberendezés.”
+[^9]: A 9. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
