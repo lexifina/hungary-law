@@ -1,13 +1,17 @@
-## 32. § Az R3. 22. § (8) bekezdésében a „nyilvántartott műemléki értékre” szövegrész helyébe a „műemlékre” szöveg lép.
+## 31–32. §[^14]
 
-## 33. § Hatályát veszti az R3.
+## 33. §
 
-a) 26. § (3) bekezdés b) pontjában a „településképi rendelet hiányában” szövegrész,
+a)[^15]
 
-b) 26/B. § (1) bekezdésében a „nyilvántartott műemléki értéket vagy” szövegrész,
+b)[^16]
 
-c)[^4]
+c)[^17]
 
-d) 9. mellékletében foglalt táblázat C:17 és D:17 mezőjében a „nyilvántartott műemléki érték,” szövegrész.
+d)[^18]
 
-[^4]: A 33. § c) pontja a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^14]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 33. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 33. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 33. § c) pontja a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^18]: A 33. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

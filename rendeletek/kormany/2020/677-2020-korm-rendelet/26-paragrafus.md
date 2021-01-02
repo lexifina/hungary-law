@@ -1,3 +1,3 @@
-## 25. §[^2]
+## 25. §[^10]
 
-[^2]: A 25. § a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^10]: A 25. § a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
