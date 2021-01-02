@@ -1,3 +1,0 @@
-## 30. A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött Szerződés (Prümi Szerződés) kihirdetéséről, valamint ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CXII. törvény módosítása
-
-32. §

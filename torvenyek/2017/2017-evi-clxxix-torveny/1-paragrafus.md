@@ -1,7 +1,0 @@
-## I. Fejezet
-
-## A KÖZIGAZGATÁSI SZABÁLYSZEGÉSEK SZANKCIÓIHOZ KAPCSOLÓDÓ ÁTMENETI SZABÁLYOK
-
-## 1. Tárgyi hatály
-
-1. §
