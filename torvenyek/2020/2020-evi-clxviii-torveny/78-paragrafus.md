@@ -1,1 +1,1 @@
-78. § A Gytv. 20. § (3) bekezdés d) pontjában a „határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére,” szövegrész helyébe az „a figyelmeztetést tartalmazó döntésében, megfelelő határidő megállapításával felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére,” szöveg lép.
+78. §
