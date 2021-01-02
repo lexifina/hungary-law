@@ -1,15 +1,5 @@
-## 1. § A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet 1. §-a a következő (1b) bekezdéssel egészül ki:
-
-## „(1b) E rendeletet nem kell alkalmazni a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 1. § (6) bekezdés f) pontja szerinti beszerzési tárgy vagy a VBÜ rendelet 1. § (8) bekezdése szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog tekintetében, feltéve, hogy a VBÜ rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv a VBÜ rendelet szerinti eljárási cselekményei megtétele, illetve döntések meghozatala előtt a VBÜ rendelet 1. § (12) bekezdése szerinti előzetes egyeztetések eredményeképpen erről szóló döntést hozott. Az ilyen beszerzést az érintett szervezet a VBÜ rendelet szerinti Portálon kezdeményezi.”
+## 1. §[^2]
 
 ## 2. A minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet módosítása
 
-2. § (1) A minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet (a továbbiakban: R1.) 2. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4a) A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet [a továbbiakban: 329/2019. (XII. 20.) Korm. rendelet] hatálya alá tartozó beszerzés esetén a kérelemhez a 329/2019. (XII. 20.) Korm. rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv (a továbbiakban: VBÜ) beszerzés megvalósításának tervezett módjára vonatkozó szakmai véleményét is csatolni kell. A VBÜ az erre irányuló megkeresés kézhezvételétől és a beszerzési igény 329/2019. (XII. 20.) Korm. rendelet 6. § (1) bekezdés b) vagy c) pontja szerinti megküldésétől számított 5 munkanapon belül küldi meg szakmai véleményét.”
-
-(2) Az R1. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az előterjesztő miniszter az egyetértése esetén a mentesítési kérelmet, a 2. § (3), (4) és (4a) bekezdés szerinti szakmai állásfoglalást, illetve szakmai véleményt – a szükséges kiegészítő információk kézhezvételétől számítva – legkésőbb 15 napon belül megküldi a Nemzetbiztonsági Kabinetnek (a továbbiakban: Kabinet).”
-
-(3) Az R1. 3. §-a a következő (7) bekezdéssel egészül ki:
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
