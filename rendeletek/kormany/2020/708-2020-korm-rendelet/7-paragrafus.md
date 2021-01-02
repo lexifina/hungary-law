@@ -1,1 +1,3 @@
-## „(3) A másodfokú doppingeljárásban a felülvizsgálat kiterjedhet a doppingbizottság eljárása során nem vizsgált, de az ügy szempontjából releváns kérdésekre is. A fellebbezéssel érintett bármely fél jogosult olyan bizonyítékot, érvelést vagy igényt előterjeszteni, amely a doppingeljárás alá vont személy önhibáján kívüli okból a doppingbizottság eljárása során nem merült fel, ha az a doppingbizottság által vizsgált magatartással, általános tényekkel vagy körülményekkel kapcsolatosak. A dopping fellebbviteli bizottság az eljárása során felmerülő egészségügyi szakkérdésben orvos végzettséggel rendelkező személyt hallgathat meg.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

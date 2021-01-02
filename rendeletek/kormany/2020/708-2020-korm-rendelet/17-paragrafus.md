@@ -1,3 +1,3 @@
-## 16. § Az R. 31. § (8) bekezdése helyébe a következő rendelkezés lép:
+## 16. §[^17]
 
-## „(8) Ha a versenyző vagy a sportszakember megsérti az eltiltás időtartamára vonatkozó részvételi tilalmat, az eredetileg kiszabott eltiltás utolsó napján az eltiltás időtartama újrakezdődik. Az újrakezdődött eltiltási időtartam a versenyző vagy a sportszakember vétkességétől és az eset egyedi körülményeitől függően módosítható, ideértve a megrovás alkalmazásának lehetőségét újabb eltiltás kiszabása nélkül. Ha a versenyző vagy a sportszakember a részvételi tilalmat az ideiglenes felfüggesztés ideje alatt szegi meg, az ideiglenes felfüggesztés időtartama nem kerül beszámításra az eltiltás időtartamába. Az eltiltás időtartamára vagy az ideiglenes felfüggesztésre vonatkozó részvételi tilalom megsértésével elért eredményt meg kell semmisíteni.”
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

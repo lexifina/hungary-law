@@ -1,5 +1,3 @@
-## 7. § Az R. a következő 8/A. §-sal egészül ki:
+## 7. §[^8]
 
-## „8/A. § (1) A doppingbizottság és a dopping fellebbviteli bizottság a működési függetlenség elve alapján jár el. A doppingellenőrzésért felelős doppingellenes szervezetnek vagy tagszervezeteinek azon munkavállalója, bizottsági tagja, tanácsadója és vezető tisztségviselője, aki a vizsgálatban és doppingeljárást lezáró érdemi döntés meghozatalát megelőzően az eljárásban részt vett, nem nevezhető ki a doppingeljárást lefolytató bizottság tagjai vagy munkatársai közé. A doppingeljárást lefolytató bizottság a meghallgatást és a döntéshozatalt önállóan, a doppingellenes szervezet vagy harmadik fél külső befolyása nélkül végzi. A doppingeljárást lefolytató bizottság tagjai és a doppingeljárást lefolytató bizottság döntéshozatalában más módon résztvevő személy nem szerepelhet az ügy kivizsgálásában, felülvizsgálatában és az ügy további menetére vonatkozó döntések meghozatalában.
-
-## (2) A dopping fellebbviteli bizottság az (1) bekezdésben foglaltakon túl az intézményi függetlenség elve alapján szervezetileg teljesen független a doppingellenőrzésért felelős doppingellenes szervezettől. Ennek megfelelően a doppingellenőrzésért felelős doppingellenes szervezet semmilyen befolyással nem lehet a dopping fellebbviteli bizottság irányítására, és azzal semmiféle kapcsolatban vagy alárendeltségi viszonyban nem állhat.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(3) Doppingvétséget követ el az egyéb közreműködő, ha – a nemzetközi követelményekben foglaltakra is figyelemmel – az (1) bekezdés e), g)–k) pontjában meghatározott magatartást valósít meg.”
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

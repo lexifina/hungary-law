@@ -1,3 +1,3 @@
-## 15. § Az R. 30. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^16]
 
-## „(3) Ha bizonyíthatóan a doppingeljárás alá vont személy önhibáján kívüli okból a doppingeljárás megindítása és a tárgyalás között jelentős késedelem következik be, vagy a doppingeljárás egyébként elhúzódik, az eljáró doppingbizottság, dopping fellebbviteli bizottság az eltiltás időtartamának kezdetét a mintavétel vagy a doppingvétséget megalapozó egyéb magatartás tanúsításának napjával is meghatározhatja. A doppingeljárás alá vont személyt terheli annak a bizonyítása, hogy a késedelem neki nem felróható. Az eltiltási időszakban – ideértve a visszamenőleges hatályú eltiltást is – a versenyző által elért összes eredmény érvénytelenítésre kerül. Ha a versenyző a sporteredmény eléréséért díjazást vagy egyéb juttatást, elismerést kapott, azokat köteles visszaszolgáltatni.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
