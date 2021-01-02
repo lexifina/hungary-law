@@ -1,5 +1,0 @@
-## 14. § A Nyer. 197. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-## „(2a) Az alkalmazási tervhez minden esetben csatolni kell a fedett nyomozót foglalkoztató szerv állásfoglalását arról, hogy a fedett nyomozó alkalmazásával elérni kívánt eredményhez képest milyen kockázatok azonosíthatók a fedett nyomozónak a konkrét esetben történő és a hosszú távú alkalmazásával, illetve annak esetleges ellehetetlenülésével kapcsolatban, valamint hogy a fedett nyomozó védelme érdekében milyen intézkedéseket tart szükségesnek. A fedett nyomozót foglalkoztató szerv állásfoglalásában arról is kifejtheti az álláspontját, ha a fedett nyomozó közreműködésének a biztosítása nehézségekbe ütközik vagy lehetetlen. Késedelmet nem tűrő esetben a fedett nyomozót foglalkoztató szerv állásfoglalása rövid úton is beszerezhető.
-
-## (2b) Az ügyészség az engedély megadása előtt a fedett nyomozót foglalkoztató szerv állásfoglalása alapján egyeztetést kezdeményezhet az alkalmazó szerv és a fedett nyomozót foglalkoztató szerv képviselőivel.”

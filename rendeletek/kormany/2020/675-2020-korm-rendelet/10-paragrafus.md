@@ -1,3 +1,0 @@
-## 9. § A Nyer. 58. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) Az elkobozható vagy a vagyonelkobzás alá eső dolog vagy vagyon felderítése és biztosítása érdekében adatgyűjtést a nyomozás befejezését követően az ügyészség rendelkezése alapján mindaddig folytatni kell, amíg az eljárás során az elkobzás, illetve a vagyonelkobzás alkalmazásának lehet helye, és az ehhez szükséges adat megszerzése valószínűsíthető, legfeljebb azonban a bíróság ügydöntő határozatának jogerőre emelkedéséig vagy véglegessé válásáig. Ezt követően a Be. CVI. Fejezet szerinti vagyonelvonásra irányuló eljárás lefolytatásának lehet helye.”

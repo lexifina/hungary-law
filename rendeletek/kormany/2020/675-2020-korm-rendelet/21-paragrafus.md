@@ -1,5 +1,5 @@
-## 20. § A 138/2018. (VII. 26.) Korm. rendelet 6. §-a helyébe a következő rendelkezés lép:
-
-## „6. § Ha a kártalanítást igénylő keresetlevelet terjeszt elő, az igazságügyért felelős miniszter a Be. 852. § (2) bekezdése szerinti bíróság megkeresésére a büntetőügy ügyiratait haladéktalanul megküldi.”
+## 19–20. §[^7]
 
 ## 7. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
+
+[^7]: A 19–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
