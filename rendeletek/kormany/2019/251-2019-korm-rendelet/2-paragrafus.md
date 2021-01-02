@@ -1,1 +1,3 @@
-## „(3a) Az EESZT útján kiállított beutaló esetén, ha az EESZT üzemszünet vagy üzemzavar miatt nem elérhető, az ellátás a (2) bekezdés szerinti papíralapú igazolás alapján is nyújtható. Ilyen esetben az adatok rögzítésére vonatkozó kötelezettséget az üzemszünet esetén annak végét, üzemzavar esetén annak tényleges megszűnését követő négy napon belül kell teljesíteni.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 2. § A Vhr. 50. §-a a következő (20) bekezdéssel egészül ki:
-
-## „(20) A 4/A. § (2) bekezdésétől eltérően 2021. december 31-ig minden, az EESZT útján kiállított beutaló esetében kötelező papíralapú igazolást készíteni, és azt a beteg részére átadni.”
+## 2. §[^3]
 
 3. § Ez a rendelet 2021. január 1-jén lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
