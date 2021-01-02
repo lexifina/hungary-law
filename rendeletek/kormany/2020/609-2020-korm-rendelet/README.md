@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-609-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-19 | 2020-609-20-22.1 | 609/2020. (XII. 18.) Korm. rendelet |
+| 2021-01-02 | 2020-609-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
