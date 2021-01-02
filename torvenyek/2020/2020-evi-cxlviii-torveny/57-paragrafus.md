@@ -1,3 +1,1 @@
-57. § Az Nftv. 63. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az Országos Tudományos Diákköri Tanács jogi személy, székhelye Budapest, képviseletére az elnök jogosult. Az Országos Tudományos Diákköri Tanács felett az ügyészség gyakorol törvényességi ellenőrzést. Az Országos Tudományos Diákköri Tanácsot az oktatási hivatal veszi nyilvántartásba. Az Országos Tudományos Diákköri Tanács beszámolási és könyvvezetési kötelezettségére a számvitelről szóló törvényben az egyéb szervezetekre meghatározott szabályokat kell alkalmazni. Az Országos Tudományos Diákköri Tanács – közhasznúsági nyilvántartásba vétel nélkül – közhasznú szervezet. Az Országos Tudományos Diákköri Tanács megfelelő színvonalú működéséhez szükséges forrást a miniszter által vezetett minisztérium fejezetéből kell biztosítani.”
+57. §

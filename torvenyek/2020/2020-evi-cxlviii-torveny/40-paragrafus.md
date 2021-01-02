@@ -1,19 +1,19 @@
 40. § Hatályát veszti az MMA tv.
 
-a) 6. §-ában az „a 7. § (2) bekezdésében és” szövegrész,
+a)
 
-b) 7. § (2) bekezdése,
+b)
 
 c)
 
-d) 14. § h) és m) pontja,
+d)
 
-e) 17. § (3) bekezdés d) pontjában az „ – a közgyűlés időpontjában legalább két éve megválasztott akadémikusok közül –” szövegrész,
+e)
 
-f) 20. § (4) bekezdésében az „ – a tagozatvezetőt választó ülés időpontjában legalább két éve megválasztott –” szövegrész,
+f)
 
-g) 22. § (1) bekezdésében az „ , a közgyűlés időpontjában legalább két éve megválasztott” szövegrész,
+g)
 
-h) 25. § (1) bekezdésében az „ – a közgyűlés időpontjában legalább két éve megválasztott –” szövegrész,
+h)
 
-i) 28/L. § (1) bekezdés b) pont ba) alpontjában az „ – a Balassa Péter-díjat beleértve –” szövegrész.
+i)
