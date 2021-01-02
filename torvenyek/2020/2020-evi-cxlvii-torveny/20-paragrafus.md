@@ -1,3 +1,1 @@
-20. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 93. § (9a) bekezdése helyébe a következő rendelkezés lép:
-
-„(9a) A 24. életévét betöltött, középfokú iskolában tanuló vagy szakképző intézménnyel tanulói vagy felnőttképzési jogviszonyban álló fiatal felnőtt és a 25. életévét betöltött, felsőoktatási intézménnyel hallgatói jogviszonyban álló fiatal felnőtt utógondozói ellátása a fiatal felnőtt kérelmére meghosszabbítható a tanulói, hallgatói vagy felnőttképzési jogviszonya megszűnéséig, de legkésőbb a 30. életévének betöltéséig. A kérelemről az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartója dönt a fiatal felnőtt tanulmányaiból hátralévő időtartamra, a tanulmányok befejezésének esélyére, a fiatal felnőttnek az utógondozói ellátást nyújtó intézménnyel történő együttműködési készségére és a rászorultságára tekintettel.”
+20. §
