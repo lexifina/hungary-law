@@ -1,3 +1,3 @@
-## 1. § A fogyasztó és vállalkozás közötti szerződés keretében eladott dolgokra vonatkozó szavatossági és jótállási igények intézésének eljárási szabályairól szóló 19/2014. (IV. 29.) NGM rendelet (a továbbiakban: R.) 5. §-a helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „5. § A vállalkozásnak törekednie kell arra, hogy a kijavítást vagy kicserélést legfeljebb tizenöt napon belül elvégezze. Ha a kijavítás vagy a kicserélés időtartama a tizenöt napot meghaladja, akkor a vállalkozás a fogyasztót tájékoztatni köteles a kijavítás vagy a csere várható időtartamáról. A tájékoztatás a fogyasztó előzetes hozzájárulása esetén, elektronikus úton vagy a fogyasztó általi átvétel igazolására alkalmas más módon történik.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

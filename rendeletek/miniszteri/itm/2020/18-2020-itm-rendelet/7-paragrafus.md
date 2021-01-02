@@ -1,1 +1,3 @@
-## 6. § Az R. az 1. melléklet szerinti 1. melléklettel egészül ki.
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 7. § Az R. 4. § (3) bekezdésében a „megyei (fővárosi) kereskedelmi és iparkamarák mellett működő békéltető testület” szövegrész helyébe a „megyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület” szöveg lép.
+## 7. §[^8]
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
