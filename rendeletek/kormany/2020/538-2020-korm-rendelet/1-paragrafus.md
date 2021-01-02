@@ -66,6 +66,6 @@ c) baleseti járadéknak vagy
 
 d) bányászok egészségkárosodási járadékának
 
-## a megszűnését követő naptól állapítják meg, a megállapított ellátást az (1) bekezdés szerinti mértékkel meg kell emelni.
+a megszűnését követő naptól állapítják meg, a megállapított ellátást az (1) bekezdés szerinti mértékkel meg kell emelni.
 
 (4) Az ellátások (2), illetve (3) bekezdés szerinti emelésére való jogosultság akkor is fennáll, ha az ellátásokban több, a (2), illetve a (3) bekezdés szerinti változás következett be.
