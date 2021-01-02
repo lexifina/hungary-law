@@ -1,5 +1,3 @@
-## 2. § A 2/2019. (III. 19.) TNM rendelet 3. §-a helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „3. § (1) A XI. Miniszterelnökség fejezetébe sorolt előirányzatok felhasználásának részletes szabályait az 1. melléklet tartalmazza, a XLVII. Gazdaságvédelmi Alap fejezetébe sorolt előirányzatok felhasználásának részletes szabályait a 2. melléklet tartalmazza. Az 1. mellékletben és a 2. mellékletben meghatározott felhasználási szabályokat az egyes előirányzatokhoz rendelt megfelelő államháztartási egyedi azonosító számmal azonosított előirányzatra kell alkalmazni, annak a fejezeten belüli címrendi besorolásától függetlenül.
-
-## (2) Az előirányzatok felhasználása során felmerülő költségek, így különösen a Magyar Államkincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a postaköltség fedezetét a felmerülés helye szerinti előirányzat terhére vagy az előirányzat tekintetében kötelezettségvállalásra jogosult, szakmai felügyeletet ellátó állami vezető vagy a miniszter által meghatározott előirányzat terhére kell biztosítani.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

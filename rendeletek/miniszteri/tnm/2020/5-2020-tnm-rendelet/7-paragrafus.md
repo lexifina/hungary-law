@@ -1,1 +1,3 @@
-## 6. § A 2/2019. (III. 19.) TNM rendelet a 2. melléklet szerinti 2. melléklettel egészül ki.
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
