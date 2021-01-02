@@ -1,3 +1,1 @@
-24. § Az Nbtv. 52/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ és a Legfőbb Ügyészség megállapodásban rögzíti a megállapodás megkötését követően indult, az ügyészség és az együttműködő szervek által párhuzamosan folytatott titkos információgyűjtések, leplezett eszköz-alkalmazások, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárások és nyomozások Terrorelhárítási Információs és Bűnügyi Elemző Központ általi feltárása, illetve ezen tevékenységek támogatása érdekében elektronikus úton átadható adatok, tájékoztatás, illetve iratok körét, valamint az adatszolgáltatás részletes rendjét.”
+24. §
