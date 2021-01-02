@@ -1,15 +1,3 @@
-## 11. § A 44/2004. (IV. 28.) ESZCSM rendelet 16. §-a a következő (4) bekezdéssel egészül ki:
+## 11. §[^5]
 
-## „(4) A (3) bekezdés szerinti gyógyszerkiadás esetén az EESZT rendszerben rögzíteni kell
-
-## a) a kiadott gyógyszer
-
-## aa) nevét,
-
-## ab) hatáserősségét,
-
-## ac) kiszerelését és
-
-## ad) mennyiségét, valamint
-
-## b) a kiváltó orvos, gyógyszerész alapnyilvántartási számát, állatorvos kamarai nyilvántartási számát, ezek hiányában diplomaszámát.”
+[^5]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
