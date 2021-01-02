@@ -1,3 +1,5 @@
-## 7. § A TNM rendelet 5. § (3) bekezdésében és 6. § (3) bekezdésében a „jogszabályban” szövegrész helyébe az „(1) bekezdésben” szöveg lép.
+## 1–7. §[^2]
 
 ## Záró rendelkezések
+
+[^2]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
