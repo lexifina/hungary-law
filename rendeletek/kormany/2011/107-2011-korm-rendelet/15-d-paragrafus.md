@@ -1,10 +1,10 @@
-## 5/D. [^174] Az uniós versenyjogi szabályoknak való megfelelést biztosító közös rendelkezések
+## 5/D. [^178] Az uniós versenyjogi szabályoknak való megfelelést biztosító közös rendelkezések
 
 15/D. § (1) Nem ítélhető meg támogatás
 
 a) – a 15/G. § szerinti csekély összegű támogatás kivételével – azon szervezet részére, amely az Európai Bizottság állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának nem tett eleget;
 
-b) – a 15/G. § szerinti csekély összegű támogatás kivételével – az Atr. 6. §-a szerinti nehéz helyzetben lévő vállalkozás részére;
+b)[^179] – a 15/G. § szerinti csekély összegű támogatás kivételével – az Atr. 6. §-a szerinti nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került;
 
 c) ha a támogatásra jogosult szervezet a támogatást – a 651/2014/EU bizottsági rendelet 1. cikk (3) bekezdés utolsó albekezdése kivételével – a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés c)–d) pontjában, az 1. cikk (3) bekezdés a)–d) pontjában meghatározott kizárt ágazatokra használja;
 
@@ -26,6 +26,8 @@ a) a 15/E. § szerinti képzési támogatás esetén képzési projektenként me
 
 b) a 15/F. § szerinti működési támogatás esetén sportcélú ingatlanonként évente meghaladja a 2 millió eurónak megfelelő forintösszeget.
 
-(7) A 15/E. § és a 15/F. § szerinti támogatások tekintetében a 2020–2021-es támogatási időszakra vonatkozóan hozható támogatási döntés.
+(7)[^180] A 15/E. § és a 15/F. § szerinti támogatások tekintetében 2024. június 30-ig hozható támogatási döntés.
 
-[^174]: Az 5/D. alcímet (5/D. §) a 318/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
+[^178]: Az 5/D. alcímet (5/D. §) a 318/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
+[^179]: A 15/D. § (1) bekezdés b) pontja a 723/2020. (XII. 31.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^180]: A 15/D. § (7) bekezdése a 723/2020. (XII. 31.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
