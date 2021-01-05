@@ -1,4 +1,4 @@
-2. melléklet a 28/2009. (X. 29.) ÖM rendelethez[^5]
+2. melléklet a 28/2009. (X. 29.) ÖM rendelethez[^8]
 
 A megyei kormányhivatalok előirányzat-felhasználási keretszámlaszámai
 
@@ -42,4 +42,4 @@ A megyei kormányhivatalok előirányzat-felhasználási keretszámlaszámai
 
 | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
 
-[^5]: A 2. melléklet a 31/2011. (IX. 22.) BM rendelet 4. §-ával megállapított szöveg.
+[^8]: A 2. melléklet a 31/2011. (IX. 22.) BM rendelet 4. §-ával megállapított szöveg.

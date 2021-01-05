@@ -6,7 +6,7 @@ b) a díjfizetési kötelezettség fennállására az Itv. 28. §-ának (2)–(3
 
 c) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-át,
 
-d) a jogorvoslati eljárás díjának visszatérítésére az Itv. 32. §-át,
+d)[^5]
 
 e) a hiánypótlásra az Itv. 73/A. §-át,
 
@@ -15,3 +15,5 @@ f) a díjfizetés törlésére és visszatérítésére az Itv. 79. §-ának (1)
 g) a mulasztási bírságra az Itv. 82. §-át
 
 kell megfelelően alkalmazni azzal, hogy illeték helyett díjat, állami adóhatóság helyett eljáró hatóságot, lelet helyett jegyzőkönyvet kell érteni.
+
+[^5]: A 6. § d) pontját a 47/2020. (XII. 28.) BM rendelet 2. § d) pontja hatályon kívül helyezte.
