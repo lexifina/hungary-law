@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-29-20-1
 | 2016-07-01 | 2010-29-20-1U.3 | 23/2016. (VI. 29.) BM rendelet |
 | 2017-01-01 | 2010-29-20-1U.4 | 34/2013. (VI. 30.) BM rendelet |
 | 2019-07-01 | 2010-29-20-1U.5 | 34/2013. (VI. 30.) BM rendelet |
+| 2021-01-05 | 2010-29-20-1U.6 | 47/2020. (XII. 28.) BM rendelet |
