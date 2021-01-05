@@ -42,7 +42,7 @@
 
 | A *-gal jelölt helyen a megfelelő rész kitöltendő. |
 
-3. melléklet a 22/2012. (IV. 13.) BM rendelethez[^64]
+3. melléklet a 22/2012. (IV. 13.) BM rendelethez[^65]
 
 A szabálysértési statisztikai adatgyűjtők az alábbi statisztikai adatokra kötelesek teljesíteni a szabálysértési statisztikai adatgyűjtési kötelezettségüket:
 
@@ -216,4 +216,4 @@ II. a felhívás időpontja
 
 III. a felhívás eredménye
 
-[^64]: A 3. mellékletet a 80/2013. (XII. 23.) BM rendelet 19. §-a iktatta be, szövege a 81/2015. (XII. 23.) BM rendelet 19. §-ával megállapított szöveg.
+[^65]: A 3. mellékletet a 80/2013. (XII. 23.) BM rendelet 19. §-a iktatta be, szövege a 81/2015. (XII. 23.) BM rendelet 19. §-ával megállapított szöveg.

@@ -8,6 +8,6 @@ c) ha olyan dolgot kell elkobozni, amelynek a birtoklása engedélyhez kötött,
 
 d) a nem magyar állampolgárságú személyt érintő közúti közlekedési baleset esetén a kárrendezés érdekében a Magyar Biztosítók Szövetségét.
 
-(2)[^8] Közérdekű munka kiszabása esetén a jogerős határozat egy példányát az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szervnek kell megküldeni.
+(2)[^9] Közérdekű munka kiszabása esetén a jogerős határozat egy példányát az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szervnek kell megküldeni.
 
-[^8]: A 9. § (2) bekezdése a 81/2015. (XII. 23.) BM rendelet 18. § 3. pontja szerint módosított szöveg.
+[^9]: A 9. § (2) bekezdése a 81/2015. (XII. 23.) BM rendelet 18. § 3. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 17. §[^27]
+## 17. §[^28]
 
 ## II. Fejezet
 
@@ -10,4 +10,4 @@
 
 (3) Ha az eljárás alá vont személy a helyszíni bírság kiszabását aláírásával igazoltan nem veszi tudomásul, a helyszíni bírság kiszabására jogosult a helyszíni bírságolás alkalmazásától eláll és közli az eljárás alá vont személlyel, hogy feljelentést tesz.
 
-[^27]: A 17. §-t a 81/2015. (XII. 23.) BM rendelet 20. § c) pontja hatályon kívül helyezte.
+[^28]: A 17. §-t a 81/2015. (XII. 23.) BM rendelet 20. § c) pontja hatályon kívül helyezte.

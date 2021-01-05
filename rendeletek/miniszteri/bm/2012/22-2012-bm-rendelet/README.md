@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-0
 | 2020-05-21 | 2012-22-20-0A.19 | 14/2020. (V. 20.) BM rendelet |
 | 2020-07-16 | 2012-22-20-0A.20 | 60/2016. (XII. 29.) BM rendelet |
 | 2020-07-21 | 2012-22-20-0A.21 | 24/2020. (VII. 13.) BM rendelet |
+| 2021-01-05 | 2012-22-20-0A.22 | 47/2020. (XII. 28.) BM rendelet |

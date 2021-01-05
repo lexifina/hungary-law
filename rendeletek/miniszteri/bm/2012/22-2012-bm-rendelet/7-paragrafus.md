@@ -2,7 +2,7 @@
 
 7. § (1) A járművezetéstől eltiltást elrendelő határozatnak tartalmaznia kell
 
-a)[^6] az eltiltás tartamát a vezetői engedély elvételétől, illetve leadásától eltelt idő beszámítására történő utalással együtt,
+a)[^7] az eltiltás tartamát a vezetői engedély elvételétől, illetve leadásától eltelt idő beszámítására történő utalással együtt,
 
 b) a közlekedési ágazat meghatározását,
 
@@ -18,4 +18,4 @@ a) közúti járművezetéstől történő eltiltás esetén a lakóhely (tartó
 
 b) nem közúti jármű vezetésétől történő eltiltás esetén az engedélyt kiállító hatósághoz.
 
-[^6]: A 7. § (1) bekezdés a) pontja a 81/2015. (XII. 23.) BM rendelet 7. §-ával megállapított szöveg.
+[^7]: A 7. § (1) bekezdés a) pontja a 81/2015. (XII. 23.) BM rendelet 7. §-ával megállapított szöveg.

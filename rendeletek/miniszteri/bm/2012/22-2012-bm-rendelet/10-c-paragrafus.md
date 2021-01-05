@@ -1,4 +1,4 @@
-10/C. §[^12] (1) A szabálysértési elzárással is büntethető szabálysértés elkövetésén tetten ért fiatalkorút az előkészítő eljárás lefolytatásra jogosult szervhez történő előállításakor, de legkésőbb az eljárás alá vont személyként történő meghallgatásakor haladéktalanul írásban, az általa értett nyelven egyszerűen, közérthető módon – szükség esetén a Szabs. tv. 73. § (12) bekezdésében foglaltakra figyelemmel – tájékoztatni kell
+10/C. §[^13] (1) A szabálysértési elzárással is büntethető szabálysértés elkövetésén tetten ért fiatalkorút az előkészítő eljárás lefolytatásra jogosult szervhez történő előállításakor, de legkésőbb az eljárás alá vont személyként történő meghallgatásakor haladéktalanul írásban, az általa értett nyelven egyszerűen, közérthető módon – szükség esetén a Szabs. tv. 73. § (12) bekezdésében foglaltakra figyelemmel – tájékoztatni kell
 
 a) az előkészítő, valamint a bírósági eljárás során, illetve a jelenlétében lefolytatandó eljárási cselekményeken törvényes képviselője, jogi képviselője vagy képviselője jelenlétének jogáról, melynek érdekében azok időpontjáról és helyszínéről értesítik,
 
@@ -22,4 +22,4 @@ e) az a)–d) pontban foglalt jogai megsértése esetén biztosított, a Szabs. 
 
 (4) A szabálysértési elzárással is büntethető szabálysértés elkövetésén tetten ért fiatalkorú esetében a 10/A. § szerinti tájékoztatást az (1) bekezdés szerinti tájékoztatással egyidejűleg kell teljesíteni.
 
-[^12]: A 10/C. §-t a 28/2019. (VII. 9.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A 10/C. §-t a 28/2019. (VII. 9.) BM rendelet 1. § (1) bekezdése iktatta be.
