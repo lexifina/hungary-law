@@ -1,1 +1,1 @@
-## 12. § Ez a rendelet a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 2019. június 20-i (EU) 2019/1021 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## végrehajtásához szükséges rendelkezéseket állapít meg.

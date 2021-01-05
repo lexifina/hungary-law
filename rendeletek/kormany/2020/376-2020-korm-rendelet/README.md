@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-376-20-
 | --- | --- | --- |
 | 2020-08-15 | 2020-376-20-22.1 | 376/2020. (VII. 30.) Korm. rendelet |
 | 2020-08-16 | 2020-376-20-22.2 | 2010: CXXX. törvény |
+| 2021-01-05 | 2020-376-20-22.3 | 681/2020. (XII. 28.) Korm. rendelet |

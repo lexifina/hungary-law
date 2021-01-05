@@ -1,4 +1,4 @@
-## 20. §[^8]
+## 20. §[^9]
 
 1. melléklet a 376/2020. (VII. 30.) Korm. rendelethez
 
@@ -29,6 +29,8 @@
 1.11. Hexabróm-ciklododekán „Hexabróm-ciklododekán” alatt a következő anyagok értendők: a hexabróm-ciklododekán, az 1,2,5,6,9,10-hexabróm- ciklododekán, valamint annak fő diasztereoizomerjei: az alfahexabróm- ciklododekán, a béta-hexabróm-ciklododekán és a gamma-hexabrómciklododekán,
 
 1.12. Hexaklór-butadién.
+
+1.13.[^10] Perfluor-oktánsav (PFOA), a PFOA sói és a PFOA-rokon vegyületek.
 
 2. Nem szándékos előállításból származó anyagok:
 
@@ -76,4 +78,8 @@
 
 3.14. Pentaklór-fenol, valamint annak sói és észterei.
 
-[^8]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3.15.[^11] Dikofol.
+
+[^9]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet 1. pont 1.13. alpontját a 681/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^11]: Az 1. melléklet 2. pont 3.15. alpontját a 681/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
