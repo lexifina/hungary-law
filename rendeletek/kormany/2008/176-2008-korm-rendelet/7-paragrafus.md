@@ -1,10 +1,10 @@
 ## Energia-megtakarításra irányuló javaslat
 
-7. §[^35] (1) A 6. § (4) bekezdésében meghatározott javaslatban fel kell tüntetni
+7. §[^36] (1) A 6. § (4) bekezdésében meghatározott javaslatban fel kell tüntetni
 
-a)[^36] a határoló szerkezetek jelentős felújításával vagy az épülettechnikai rendszerek korszerűsítésével járó műszakilag megvalósítható intézkedéseket,
+a)[^37] a határoló szerkezetek jelentős felújításával vagy az épülettechnikai rendszerek korszerűsítésével járó műszakilag megvalósítható intézkedéseket,
 
-b)[^37] a határoló szerkezetek vagy az épülettechnikai rendszerek kisebb felújításával járó műszakilag megvalósítható intézkedéseket, és
+b)[^38] a határoló szerkezetek vagy az épülettechnikai rendszerek kisebb felújításával járó műszakilag megvalósítható intézkedéseket, és
 
 c) az épület energiahatékonyságára vonatkozó minimumkövetelményeket.
 
@@ -20,15 +20,15 @@ b) az Európai Bizottság 244/2012/EU felhatalmazáson alapuló rendeletében me
 
 (5) Amennyiben a tanúsítvány javaslata nem tartalmaz költséghatékonysági számítást, a tanúsítványban fel kell tüntetni, hol kaphat a tulajdonos, illetve a bérlő további információt a felújítások gazdaságosságára és megvalósítására.
 
-(6)[^38] Az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendeletben meghatározott www.e-epites.hu honlapon az Építésügyi Dokumentációs és Információs Központ az energetikai tanúsítással kapcsolatos információkat és szolgáltatásokat biztosít, továbbá tájékoztató és műszaki segédleteket tesz elérhetővé az energiahatékony épületfelújítások érdekében.
+(6)[^39] Az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendeletben meghatározott www.e-epites.hu honlapon az Építésügyi Dokumentációs és Információs Központ az energetikai tanúsítással kapcsolatos információkat és szolgáltatásokat biztosít, továbbá tájékoztató és műszaki segédleteket tesz elérhetővé az energiahatékony épületfelújítások érdekében.
 
-(7)[^39] Az (1) bekezdés a)–b) pontja szerinti energia-megtakarításra irányuló javaslatot az 1. § (3) bekezdés c) pontjában meghatározott épületek esetében, a tanúsítvány hatálya alatt megvalósított energia-megtakarítási célú épületfelújítás során figyelembe kell venni, amennyiben a beruházás a (3) bekezdés szerint készült számítás alapján az épület várható élettartama alatt megtérül. A javasolt intézkedések részlegesen, több ütemben is megvalósíthatóak.
+(7)[^40] Az (1) bekezdés a)–b) pontja szerinti energia-megtakarításra irányuló javaslatot az 1. § (3) bekezdés c) pontjában meghatározott épületek esetében, a tanúsítvány hatálya alatt megvalósított energia-megtakarítási célú épületfelújítás során figyelembe kell venni, amennyiben a beruházás a (3) bekezdés szerint készült számítás alapján az épület várható élettartama alatt megtérül. A javasolt intézkedések részlegesen, több ütemben is megvalósíthatóak.
 
-(8)[^40] Energia-megtakarításra irányuló javaslat vagy az energiahatékonyságra vonatkozó minimumkövetelmények betartása a műemléki vagy a helyi védettséget megalapozó érték megváltoztatását nem eredményezheti.
+(8)[^41] Energia-megtakarításra irányuló javaslat vagy az energiahatékonyságra vonatkozó minimumkövetelmények betartása a műemléki vagy a helyi védettséget megalapozó érték megváltoztatását nem eredményezheti.
 
-[^35]: A 7. § a 105/2012. (V. 30.) Korm. rnedelet 8. §-ával megállapított szöveg.
-[^36]: A 7. § (1) bekezdés a) pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^37]: A 7 § (1) bekezdés b) pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^38]: A 7. § (6) bekezdését a 440/2013. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^39]: A 7. § (7) bekezdését a 440/2013. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^40]: A 7. § (8) bekezdését a 387/2014. (XII. 31.) Korm. rendelet 4. §-a iktatta be.
+[^36]: A 7. § a 105/2012. (V. 30.) Korm. rnedelet 8. §-ával megállapított szöveg.
+[^37]: A 7. § (1) bekezdés a) pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^38]: A 7 § (1) bekezdés b) pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^39]: A 7. § (6) bekezdését a 440/2013. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^40]: A 7. § (7) bekezdését a 440/2013. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^41]: A 7. § (8) bekezdését a 387/2014. (XII. 31.) Korm. rendelet 4. §-a iktatta be.

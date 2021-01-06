@@ -44,7 +44,7 @@
 
 ## (3) csak „BB” vagy annál jobb besorolású épület esetén kötelező megadni
 
-2. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^66]
+2. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^67]
 
 ## Energetikai tanúsítvány alátámasztó munkarésze
 
@@ -96,7 +96,7 @@
 
 1.12. Arra vonatkozó információ, hogy az épület egésze műemléki vagy helyi védelem alatt áll-e.
 
-1.12.1.[^67] Műemléki védettség esetében minden épületelem, ami az épületnek a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárában szerepel.
+1.12.1.[^68] Műemléki védettség esetében minden épületelem, ami az épületnek a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárában szerepel.
 
 1.13. Az épület fűtött szintjeinek száma.
 
@@ -200,9 +200,9 @@
 
 2.14. Az összesített energetikai jellemző követelményértéke a Rend. 6. melléklete szerint.
 
-2.15.[^68] „BB” vagy annál jobb besorolású épület esetén a megújuló energia részarány vagy a Rend. szerinti összesített energetikai jellemző meghatározása.
+2.15.[^69] „BB” vagy annál jobb besorolású épület esetén a megújuló energia részarány vagy a Rend. szerinti összesített energetikai jellemző meghatározása.
 
-2.16.[^69] A használatbavételi engedély kiadásához vagy a használatbavétel tudomásulvételéhez, továbbá az épített környezet alakításáról és védelméről szóló törvényben meghatározott egyszerű bejelentéshez kötött építési tevékenység esetén a megvalósulást igazoló hatósági bizonyítvány iránti kérelemhez készülő tanúsítvány esetén az épületre, épületszerkezetekre, gépészeti rendszerekre és azok elemeire az építési tevékenységre vonatkozóan meghatározott módon a Rend. 6. §-a szerinti követelmények és az azoknak való megfelelés igazolása.
+2.16.[^70] A használatbavételi engedély kiadásához vagy a használatbavétel tudomásulvételéhez, továbbá az épített környezet alakításáról és védelméről szóló törvényben meghatározott egyszerű bejelentéshez kötött építési tevékenység esetén a megvalósulást igazoló hatósági bizonyítvány iránti kérelemhez készülő tanúsítvány esetén az épületre, épületszerkezetekre, gépészeti rendszerekre és azok elemeire az építési tevékenységre vonatkozóan meghatározott módon a Rend. 6. §-a szerinti követelmények és az azoknak való megfelelés igazolása.
 
 3. Egész épület számítással végzett tanúsítása esetén a 2. pontban meghatározottakon felül az alátámasztó munkarésznek tartalmaznia kell továbbá a következőket:
 
@@ -230,7 +230,7 @@
 
 4.5. A fogyasztási értékek MSZ EN 15603 szerint korrigálandók az épületben lévő irodai, háztartási berendezések fogyasztásával. Amennyiben a besoroláshoz figyelembe vett energiafogyasztás csökkentésre került az épületben lévő más technológiai, berendezések (pl. főző tűzhely) fogyasztásával, azok tételes kimutatását és energiafogyasztását meg kell adni.
 
-5.[^70] Javasolt korszerűsítési megoldás, megoldások [a helyszíni szemle alapján a tanúsító megállapítja, hogy az adott épület(rész) primer energiafogyasztásának csökkentésére milyen ésszerű lehetőség kínálkozik; a mérlegelendő lehetőségek körébe tartozik pl. az utólagos hőszigetelés, a nyílászárók tömítése vagy cseréje, társított szerkezetek alkalmazása, a hőtermelő készülék vagy az ahhoz tartozó egyes elemek (égő, szabályozók) cseréje, elosztó hálózatok és szerelvények hőszigetelése, hőleadók, ventillátorok, szivattyúk, fényforrások cseréje, energiahordozók cseréje; homlokzati-, tetőszerkezeten kialakított vagy a benapozottságot módosító növényzet alkalmazása; a javasolt felújítás nem vezethet állagkárosodási és egészségkárosodási kockázathoz és az épület, valamint az épülettechnikai rendszerek várható élettartamának figyelembevételével kell ésszerűnek lennie; továbbá műemlék esetében a javaslatnak a műemléki érték fizikai valójában történő megőrzését kell szolgálnia, valamint előnyben kell részesíteni az ezt elősegítő, az érték anyagi megőrzését biztosító építészeti-műszaki megoldásokat, illetve a műemléki érték megjelenését és érvényesülését nem sértő megoldásokat kell alkalmazni]:
+5.[^71] Javasolt korszerűsítési megoldás, megoldások [a helyszíni szemle alapján a tanúsító megállapítja, hogy az adott épület(rész) primer energiafogyasztásának csökkentésére milyen ésszerű lehetőség kínálkozik; a mérlegelendő lehetőségek körébe tartozik pl. az utólagos hőszigetelés, a nyílászárók tömítése vagy cseréje, társított szerkezetek alkalmazása, a hőtermelő készülék vagy az ahhoz tartozó egyes elemek (égő, szabályozók) cseréje, elosztó hálózatok és szerelvények hőszigetelése, hőleadók, ventillátorok, szivattyúk, fényforrások cseréje, energiahordozók cseréje; homlokzati-, tetőszerkezeten kialakított vagy a benapozottságot módosító növényzet alkalmazása; a javasolt felújítás nem vezethet állagkárosodási és egészségkárosodási kockázathoz és az épület, valamint az épülettechnikai rendszerek várható élettartamának figyelembevételével kell ésszerűnek lennie; továbbá műemlék esetében a javaslatnak a műemléki érték fizikai valójában történő megőrzését kell szolgálnia, valamint előnyben kell részesíteni az ezt elősegítő, az érték anyagi megőrzését biztosító építészeti-műszaki megoldásokat, illetve a műemléki érték megjelenését és érvényesülését nem sértő megoldásokat kell alkalmazni]:
 
 5.1. A javasolt megoldás rövid műszaki leírása.
 
@@ -242,11 +242,11 @@
 
 6. További, önkéntesen csatolható munkarészek: tervrajz, infra-felvétel, mérési jegyzőkönyv, iratmásolatok, költség-haszon elemzés, a 2. pont szerinti részletezettségében energetikai méretezés a tervezett felújításról.
 
-7.[^71] Műemléki védettségű építmény esetében az alátámasztó munkarésznek tartalmaznia kell a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárt. A javasolt korszerűsítési megoldás nem változtathatja meg a műemlék egészét vagy az értékleltárban szereplő épületelemeket.
+7.[^72] Műemléki védettségű építmény esetében az alátámasztó munkarésznek tartalmaznia kell a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárt. A javasolt korszerűsítési megoldás nem változtathatja meg a műemlék egészét vagy az értékleltárban szereplő épületelemeket.
 
-[^66]: A 2. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
-[^67]: A 2. melléklet 1. pont 1.12.1. alpontja a 497/2016. (XII. 28.) Korm. rendelet 3. § a) alpontja szerint módosított szöveg.
-[^68]: A 2. melléklet 2.15. pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^69]: A 2. melléklet 2.16. pontja a 456/2015. (XII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^70]: A 2. melléklet 5. pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^71]: A 2. melléklet 7. pontja a 497/2016. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^67]: A 2. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
+[^68]: A 2. melléklet 1. pont 1.12.1. alpontja a 497/2016. (XII. 28.) Korm. rendelet 3. § a) alpontja szerint módosított szöveg.
+[^69]: A 2. melléklet 2.15. pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^70]: A 2. melléklet 2.16. pontja a 456/2015. (XII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^71]: A 2. melléklet 5. pontja a 715/2020. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^72]: A 2. melléklet 7. pontja a 497/2016. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
