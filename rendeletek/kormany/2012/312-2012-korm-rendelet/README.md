@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-312-20-
 | 2020-07-02 | 2012-312-20-22.46 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2020-07-24 | 2012-312-20-22.47 | 482/2016. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2012-312-20-22.48 | 700/2020. (XII. 29.) Korm. rendelet |
+| 2021-01-06 | 2012-312-20-22.49 | 701/2020. (XII. 29.) Korm. rendelet |
