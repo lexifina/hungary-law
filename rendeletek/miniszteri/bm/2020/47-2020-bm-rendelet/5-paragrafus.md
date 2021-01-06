@@ -1,1 +1,3 @@
-## 4. § Hatályát veszti a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet (a továbbiakban: R1.) 1. §-a.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 5. § Az R1. 2. §-ában a „Szabs. tv.” szövegrész helyébe a „szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.)” szöveg lép.
+## 5. §[^6]
 
 ## 4. Záró rendelkezések
+
+[^6]: Az 5. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.
