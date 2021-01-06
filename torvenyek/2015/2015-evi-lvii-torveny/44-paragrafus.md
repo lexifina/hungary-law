@@ -18,7 +18,7 @@ e) a felújítási kötelezettség alá eső kormányzati épületekből a tény
 
 f) a közintézmények által az energiahatékonysági célú beszerzéseik során megköthető energiahatékonyság-alapú szerződés kötelező tartalmi elemeit,
 
-g) a végfelhasználási energiamegtakarítás alapját képező energiamennyiség kiszámítására vonatkozó számítási módszert, a végfelhasználási energiamegtakarítás mértékének csökkentésére vonatkozó szabályokat, a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszerét, a szakpolitikai intézkedés alkalmazására vonatkozó módszertan kötelező tartalmi elemeit, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
+g) az energiahatékonysági kötelezettségi rendszerben az energiamegtakarítási kötelezettség más kötelezett felek, kötelezett félnek nem minősülő energiahatékonysági szolgáltatók vagy egyéb harmadik személyek által megvalósított, hitelesített energiamegtakarítás szervezett piacon történő átruházásának, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait
 
 h) a 7. § f) pontja szerinti költség-haszon elemzésre kötelezettek körét, a költség-haszon elemzéssel érintettek jogait és kötelezettségeit, a költség-haszon elemzés jóváhagyásának és a költség-haszon elemzéssel kapcsolatos mentesség részletes szabályait, valamint a költség-haszon elemzés módszertanának kialakítása érdekében a Hivatal részére történő adatszolgáltatás részletes szabályait,
 
@@ -43,5 +43,9 @@ q) az energetikai szakreferens igénybevételére köteles gazdálkodó szerveze
 r) a Nemzeti Energetikusi Hálózat szakmai feladatait közvetlenül ellátó természetes személy szakmai végzettségére vonatkozó követelményeket, a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületekre vonatkozó energiafogyasztási adatok bejelentésére vonatkozó részletes szabályokat,
 
 s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
+
+t) a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, azon belül az addicionális energiamegtakarítás kritériumait, a nyomon követés és hitelesítés szabályait, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
+
+u) az energiahatékonysági kötelezettségi rendszerben a kötelezett fél által igénybe vett oktatási, képzési, tanácsadási és szemléletformálási program eredményeként megvalósult energiamegtakarítás tekintetében az elszámolhatóság részarányát,
 
 rendeletben állapítsa meg.

@@ -4,6 +4,8 @@ a) az energiahatékonysággal kapcsolatos, az energiafogyasztók és a piaci sze
 
 b) az energiahatékonyság növelésével kapcsolatos energiahatékonysági tájékoztató honlap tartalmával és üzemeltetésével kapcsolatos részletes szabályokat,
 
-c)–d)
+c) az első kötelezettségi időszak vonatkozásában az alternatív szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás számbavételéhez és hitelesítéséhez szükséges adatok körét és az adatszolgáltatás rendjét,
+
+d)
 
 rendeletben állapítsa meg.
