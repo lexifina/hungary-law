@@ -1,0 +1,1127 @@
+# Az Alkotmánybíróság 3/2021. (I. 7.) AB határozata
+
+Magyar Közlöny 2021. évi 3. szám, 2021. január 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/LHcFjvUjt5qKbJcu5eUq5ff19f8d4440d/dokumentumok/8b4031d181f737a5e514cca4870ef60078ad5ff0/letoltes)
+
+---
+
+Az Alkotmánybíróság 3/2021. (I. 7.) AB határozata
+a polgári perrendtartásról szóló 2016. évi CXXX. törvény 70. §-át és az ügyvédi tevékenységről szóló
+2017. évi LXXVIII. törvény 20. § (5) bekezdését érintő, az Alaptörvény XXVIII. cikk (1) bekezdéséből fakadó
+alkotmányos követelmény megállapításáról
+Az Alkotmánybíróság teljes ülése jogszabály alaptörvény-ellenességének megállapítása iránti bírói kezdeményezés
+tárgyában – dr. Czine Ágnes, dr. Hörcherné dr. Marosi Ildikó, dr. Salamon László és dr. Sulyok Tamás alkotmánybírók
+párhuzamos indokolásával, valamint dr. Schanda Balázs alkotmánybíró különvéleményével meghozta a következő
+h a t á r o z a t o t:
+1. Az Alkotmánybíróság a polgári perrendtartásról szóló 2016. évi CXXX. törvény 70. §-át és az ügyvédi
+tevékenységről szóló 2017. évi LXXVIII. törvény 20. § (5) bekezdését érintően az Alaptörvény XXVIII. cikk
+(1) bekezdése alapján alkotmányos követelményként megállapítja: a meghatalmazott képviseleti
+jogosultságának tartalmi vizsgálata arra is kiterjed, hogy nincs-e jogszabályi – így az ügyvédi tevékenységről
+szóló 2017. évi LXXVIII. törvény 20. § (5) bekezdése alapján fennálló – akadálya a meghatalmazott
+eljárásának, és ezen vizsgálata alapján szükség esetén le kell vonnia a felek perbeli képviseletét érintő
+jogkövetkezményeket.
+2. Az Alkotmánybíróság az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 20. § (5) bekezdése
+alaptörvény-ellenességének megállapítására és alkalmazásának kizárására irányuló bírói kezdeményezést
+elutasítja.
+Az Alkotmánybíróság elrendeli e határozatának közzétételét a Magyar Közlönyben.
+I n d o k o l á s
+I.
+[1] 1. A Kúria eljáró tanácsa az előtte folyamatban lévő közigazgatási jogvita elbírálása iránti Kfv.I.35.231/2020. számú
+perben az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) 25. § (1) bekezdése alapján
+az Alkotmánybírósághoz 2020. június 26-án érkezett bírói kezdeményezéssel élt az ügyvédi tevékenységről szóló
+2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) 20. § (5) bekezdése ellen, annak alaptörvény-ellenességének
+megállapítását és visszamenőleges hatályú megsemmisítését kérve. A Kúria tanácsa kérte továbbá az Üttv. 20. §
+(5) bekezdésének az előtte folyamatban levő perben, továbbá valamennyi valamely bíróság előtt folyamatban lévő
+ügyben történő alkalmazásának kizárását.
+[2] Az indítványozó bírói tanács előadta, hogy az előtte folyamatban lévő ügy előzménye, hogy az érintett közigazgatási
+jogvitában a felperes képviselőjeként eljáró ügyvéd (a továbbiakban: Ügyvéd) 2002. október 21-től kormányzati
+tisztviselői szolgálati jogviszonyban állt a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) jogelődjének
+különböző szervezeti egységeivel. Az Ügyvéd szolgálati jogviszonyát 2011. június 27-ei hatállyal a NAV felmentéssel
+megszüntette. A NAV Kiemelt Ügyek Adóigazgatóságának igazgatója 2011. március 30-án az Ügyvéd részére
+az ügyvédekről szóló 1998. évi XI. törvény (a továbbiakban: Ügyvédi tv.) 25. § (3) bekezdése szerinti, a hároméves
+ügyvállalási korlát alóli felmentés megadásáról szóló okiratot állított ki. Ezt követően az Ügyvéd 2014. június 27-ig
+ügyvédként a NAV egyes szervei előtt 16 ügyben eljárt.
+[3] A Fővárosi Törvényszék 2016. november 3-án kelt, 6.Mf.680510/2016/10. számú ítéletével megállapította, hogy
+az Ügyvéd felmentése a rendeltetésszerű joggyakorlás követelményébe ütközően jogellenes volt, ezért kötelezte
+a NAV-ot arra, hogy az Ügyvédet az eredeti munkakörében foglalkoztassa tovább. Ezt követően az Ügyvéd a NAV
+köztisztviselőjeként tényleges munkát nem végzett. Az Ügyvéd kormánytisztviselői szolgálati jogviszonyát
+a vele 2017. február 3-án közölt okirattal 2017. április 3-i hatállyal a NAV ismételten megszüntette, az ügyvállalási
+korlát alól az Ügyvéd ekkor felmentést nem kapott. Az Ügyvéd az ismételt felmentés miatt munkaügyi jogvitát
+kezdeményezett.
+
+[4] Az indítványozó kúriai tanács előtt folyamatban lévő eljárás alapjául az szolgált, hogy az elsőfokú adóhatóság
+2017. október 18-án a felperes vállalkozás terhére határozattal mulasztási bírságot állapított meg. A felperes
+vállalkozás ügyvezetője 2017. november 14-én meghatalmazást adott az Ügyvéd részére a vele szemben folyó
+adóigazgatási eljárás, továbbá a rendes bíróság előtt folyó jogorvoslati eljárásban az adózó teljes jogkörű
+képviseletére.
+[5] A NAV elsőfokú adóhatósága 2017. december 12-én külön végzéssel (a továbbiakban: elsőfokú adóhatósági
+végzés) érdemi vizsgálat nélkül – mint nem jogosulttól származót – elutasította az Ügyvéd által az elsőfokú
+határozat ellen benyújtott fellebbezést a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló
+2004. évi CXL. törvény (a továbbiakban: Ket.) 40. § (2) bekezdése és az adózás rendjéről szóló 2003. évi XCII. törvény
+(a továbbiakban: régi Art.) 136. § (6) bekezdésére hivatkozással. Az elsőfokú adóhatósági végzés indokolása szerint
+az Ügyvéd a NAV-nál 2017. április 3-ig jogviszonyban állt, ezért az Ügyvédi tv. 25. § (2)–(3) bekezdései alapján
+2020. április 3-ig nem jogosult a NAV előtt ügyvédként eljárni. Ezen elsőfokú adóhatósági végzést a másodfokú
+adóhatóság helybenhagyta, amely ellen önállóan nem, csak az ügy érdemében hozott közigazgatási határozattal
+szemben előterjesztett jogorvoslati kérelem keretében volt jogorvoslat kezdeményezhető.
+[6] A NAV Központi Irányítás Vezetője az elsőfokú adóhatósági végzés indokolásával azonos tartalmú általános hatályú
+rendelkezést (a továbbiakban: Körlevél) is kiadott a NAV szervezeti egységei vezetőinek címezve, amelyben
+a folyamatban lévő eljárások felülvizsgálatát kérte azzal, hogy amennyiben az adózót az Ügyvéd képviseli, az eljárása
+visszautasítása érdekében a Ket. 40. § (4) bekezdése szerinti intézkedéseket tegyék meg, valamint az adózókat
+tájékoztassák arról, hogy a képviselet visszautasítása jogaik gyakorlását és érvényesítését nem befolyásolja.
+[7] A Kúria tanácsa előtt folyamatban lévő közigazgatási jogvitát érintően a NAV másodfokú adóhatósága a felperes
+ügyvezetője által benyújtott fellebbezés alapján meghozott határozatával az elsőfokú határozatot helybenhagyta.
+Ezen másodfokú adóhatósági határozatot az Ügyvédnek nem kézbesítették. A felperes vállalkozás a másodfokú
+határozat és a Körlevél ellen közigazgatási jogvitát kezdeményezett. A közigazgatási perben az alperes NAV
+kezdeményezte az Ügyvéd felperesi képviselőként történő kizárását az Ügyvédi tv. 25. § (2)–(3) bekezdései és
+az Üttv. 20. § (5) bekezdése alapján.
+[8] A Fővárosi Közigazgatási és Munkaügyi Bíróság (a továbbiakban: elsőfokú bíróság) az Ügyvéd eljárását a felperes
+ügyvezetője által 2017. november 14-én adott meghatalmazás alapján elfogadta, és 26.K.33.645/2018/4. számú
+végzésével a keresetlevelet a közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban: Kp.) 48. §
+(1) bekezdés d) pontja alapján visszautasította, mert álláspontja szerint az adóhatóság nem jogszerűen utasította
+vissza az Ügyvéd képviseleti jogosultságát. Az elsőfokú bíróság szerint az Ügyvédi tv. 25. §-a az ügyvéd számára
+tartalmaz korlátozást a megbízásvállalásra, az adóhatóság a Polgári Törvénykönyvről szóló 2013. évi V. törvény
+(a továbbiakban: Ptk.) 6:95. §-ára figyelemmel nem volt jogosult a megbízási jogviszony érvényességét vizsgálni.
+Az elsőfokú bíróság indokolása szerint az Alaptörvény 28. cikke alapján az Üttv. 20–21. §-aihoz fűzött miniszteri
+indokolás és a bírói gyakorlat (BDT 2009.1995., BH2018.130) értelmében az adóhatóság a Ket. 40. §-a és a 40/A. §-a,
+a régi Art. 7–9/A. §-ai, valamint az Ügyvédi tv. 26. §-a alapján csak annyiban vizsgálhatja a meghatalmazott
+képviseleti jogosultságát, amennyiben az magából a meghatalmazásból kitűnik. Mindezekre tekintettel
+a keresetlevél – a Körlevélre is kiterjedő – visszautasítására a régi Art. 7. § (2) bekezdés cb) pontja, 143. §-a, a Ket.
+40. § (7) bekezdése, 73/A. § (3) bekezdése és a 78. § (1) bekezdése alkalmazásával azért került sor, mert az Ügyvéd
+részére nem kézbesítették szabályszerűen a másodfokú adóhatósági határozatot, ezáltal nincs közigazgatási per
+tárgyává tehető jogerős közigazgatási cselekmény.
+[9] Az elsőfokú bíróság végzése ellen a NAV kezdeményezett bírósági felülvizsgálatot a Kúria előtt. A Kúria
+2019. április 18-án kelt, Kfv.V.35.181/2019/8. számú végzésében megállapította, hogy az Ügyvéd a felülvizsgálati
+eljárásban a felperes vállalkozás képviseletében a törvény erejénél fogva nem járhat el. A Kúria ezen végzésének
+indokolása alapján az Üttv. 20. § (5) bekezdése szerinti törvényi korlátozás az ügyvédi tevékenység gyakorlásával
+kapcsolatban köti a feleket és a bíróságot, ezért megállapítható, hogy a 2017. április 3-tól kezdődő hároméves
+ügyvállalási korlát még nem telt el, ily módon a Kúria ezen végzése alapján a Kfv.V.35.181/2019/11. számú
+végzésével a felülvizsgálati ellenkérelmet és a csatlakozó felülvizsgálati kérelmet visszautasította.
+[10] Ezt követően az Ügyvéd kifogásolta a Kúria eljárásának szabályszerűségét. A Kúria felülvizsgálati ügyben eljáró
+három bíróból álló tanácsa jogegységi eljárást kezdeményezett. A Kúria elnöke a bíróságok szervezetéről
+és igazgatásáról szóló 2011. évi CLXI. törvény (a továbbiakban: Bszi.) 32. § (1) bekezdés a) pontjában foglalt
+feltétel hiánya miatt mellőzte a jogegységi eljárás elrendelését. A Kúria eljáró tanácsa a Kp. 8. § (6) bekezdése
+alapján öt hivatásos bíróból álló tanács eljárását rendelte el és a felülvizsgálati eljárás felfüggesztése mellett
+az Alkotmánybírósághoz fordult utólagos normakontroll eljárást kezdeményezve.
+
+[11] 2. A Kúria eljáró tanácsa indítványának indokolása szerint az előtte folyó ügyben alkalmazandó Üttv. 20. §
+(5) bekezdése ellentétes az Alaptörvény B) cikk (1) bekezdésével, a XII. cikk (1) bekezdésével és a XXVIII. cikk (1) és
+(7) bekezdéseivel.
+[12] A Kúria eljáró tanácsa szerint az Ügyvédi tv. 25. § (2)–(3) bekezdéseinek második fordulata tartalmilag nagyrészt
+azonos az Üttv. 20. § (5) bekezdésével. A két jogszabályhely közötti eltérés abban áll, hogy a korábbi norma„ügyvédi
+megbízásról” és az ügy intézésében „munka-, szolgálati- vagy alkalmazotti jogviszony” alapján való részvétel
+hiányáról, míg a hatályos törvény„ügyvédi tevékenység folytatásáról” rendelkezik, azonban az ügy intézésében való
+részvétel jogi természetét nem konkretizálja. A Kúria értelmezése szerint a hatályos Üttv. a korábbi Ügyvédi tv.-hez
+képest kitágította az ügyvállalási korlátot, mert korábban csak a megbízás alapján folytatott ügyvédi tevékenység
+volt tilalmazott – a kirendelés vagy a szolgáltatási szerződés alapján végzett tevékenység nem – és csak akkor,
+ha a megbízással érintett konkrét ügyben az ügyvéd korábban munka-, szolgálati-, vagy alkalmazotti jogviszony
+alapján járt el. A hatályos Üttv. értelmében – a Kúria szerint – minden ügyvédi tevékenység korlátozás alá esik attól
+függetlenül, hogy az ügyvéd az ügyet milyen jogviszonyban intézi, illetve korábban milyen jog viszony alapján
+járt el.
+[13] A Kúria eljáró tanácsa szerint az előtte folyamatban levő, kötelező jogi képviselet igénybevétele mellett
+folytatható felülvizsgálati eljárásban a Kp. 27. § (1) bekezdése értelmében az vizsgálandó, hogy az Ügyvéd
+részére a felülvizsgálati eljárásra adott meghatalmazás az Üttv. 20. § (5) bekezdése alapján az ügyvállalási korlát
+alóli felmentés hiányában jogosult-e képviselni a felperest, és ennek függvényében az Ügyvéd által benyújtott
+felülvizsgálati ellenkérelem és csatlakozó felülvizsgálati kérelem hatályos-e.
+[14] A Kúria eljáró tanácsa szerint a régi Art., a Ket. és a polgári perrendtartásról szóló 2016. évi CXXX. törvény
+(a továbbiakban: Pp.) nem tartalmaz kifejezett utalást az Üttv. ügyvállalási korlátról szóló rendelkezéseinek,
+így az Üttv. 20. § (5) bekezdésének az alkalmazhatóságára. E tekintetben csak a Pp. 63. § (1) bekezdése
+tartalmaz az Üttv. 20. § (4) bekezdésével megfeleltethető rendelkezést. A Kúria eljáró tanácsa szerint az ügyvédi
+meghatalmazással összefüggésben a Pp. szabályai értelmében azt vizsgálhatja, hogy a meghatalmazás
+nyilvánvaló, magából az okiratból kitűnő hiányosságban szenved-e, illetve az adott perben az ellenérdekű fél
+maga a képviselő vagy olyan személy-e, akit ugyancsak ő képvisel. A Kúria szerint a képviselet vizsgálata szöveg
+szerint a meghatalmazáshoz kötött, azonban a jelenlegi bírói gyakorlat mellett az Alkotmánybíróság 3179/2018.
+(VI. 8.) AB határozata (a továbbiakban: Abh.) tükrében már nem tartható. A Kúria eljáró tanácsa szerint a jelenlegi
+szabályozási környezetben az Üttv. 20. § (5) bekezdése az Alaptörvény B) cikk (1) bekezdése alapján sérti
+a normavilágosság követelményét különös tekintettel arra, hogy a releváns ügyvállalási korlát közigazgatási
+eljárásban való vizsgálhatóságát nem jogszabály tételes rendelkezése írja elő. A Kúria eljáró tanácsa hivatkozása
+szerint a bírói gyakorlatban országosan sem alakult ki egységes álláspont, a Pp. alapján az Üttv. 20. § (5) bekezdésére
+hivatkozással ellentétes döntések születtek.
+[15] A Kúria eljáró tanácsa indítványában hivatkozott az Üttv. 20–21. §-aihoz fűzött miniszteri indokolásra, amely
+értelmezése szerint azt tartalmazza, hogy az ügyvédi megbízás az ügyvállalási korlát esetére sem semmis,
+az kizárólag az ügyvéd oldalán, és kizárólag fegyelmi felelősség megállapításával szankcionálható. A Kúria eljáró
+tanácsa szerint a miniszteri indokolás és az Abh. nem állnak egymással összhangban. A Kúria eljáró tanácsának
+álláspontja szerint alkotmányossági aggályokat vet fel továbbá, hogy a bíróság az eljárása során az ügyvédi kamara
+köztestületi hatáskörbe tartozó fegyelmi ügy alapjául szolgáló kérdésben nem dönthet.
+[16] A Kúria eljáró tanácsának indítványa szerint a bíróság hivatalból köteles arról gondoskodni, hogy a törvényben
+szabályozott ügyvállalási korlát alá eső megbízással rendelkező ügyvéd perbeli képviselőként járhasson el.
+Azáltal, hogy a peres eljárás szabályai szerint az ügyvédi megbízás csak annyiban vizsgálható, amennyiben
+magából a meghatalmazásból kitűnik, a bíróságnak nincs arra törvényes lehetősége, hogy az igazságszolgáltatási
+tevékenységén belül érvényesítse a fél azon jogát, hogy az ellenérdekű felet ne az Üttv. 20. § (5) bekezdése
+értelmében kizárt ügyvéd képviselje, ezáltal végső soron az alkotmányos értelemben vett törvényes eljárás
+követelményeit érvényesítse.
+[17] A Kúria eljáró tanácsa szerint amennyiben kizárólagos kamarai hatáskörbe tartozik az ügyvállalási korlát megsértése
+következményeinek levonása, úgy az Alaptörvény 25. cikk (1) bekezdésében meghatározott igazságszolgáltatási
+tevékenysége csorbát szenved. A Kúria utalt arra is, hogy az Üttv. 209. § b) pontja értelmében az Üttv. az ügyvédi
+szolgáltatásnyújtás szabadsága tényleges gyakorlásának elősegítéséről szóló, a Tanács 1977. március 22-i
+77/249/EK Irányelvének történő megfelelést szolgálja, ily módon még a más tagállamban ellátott tevékenység
+esetén sem mellőzhetők az ügyvállalási korlátra vonatkozó szabályok.
+
+[18] A Kúria eljáró tanácsa az Alaptörvény XXVIII. cikk (1) bekezdésével összefüggésben utalt arra, hogy a bíróságok
+által sem mellőzhető a képviseleti jog Üttv. 20. § (5) bekezdéséhez kötött vizsgálata, melyet a közigazgatási perben
+a Kp. 26. § (1) bekezdése folytán irányadó Pp. 70. §-a sem zár ki.
+[19] A Kúria eljáró tanácsa szerint a Pp. 64–71. §-ai a Ket. 40. §-ától (jelenleg az Ákr. 13–14. §-aitól) részben eltérnek,
+mivel a Pp.-ben nincs a Ket. 40. § (4) bekezdésének [jelenleg az Ákr. 13. § (4) bekezdés a) pontjának, illetve
+az Air. 14. § (4) bekezdés a) pontjának] megfelelő rendelkezés. A Kúria eljáró tanácsának indítványa értelmében
+a közigazgatási és a perrendi eljárási rezsimben az ügyvédi képviselet különböző szempontok melletti vizsgálata
+ahhoz az ellentmondáshoz vezetne, hogy a korábbi munkáltató közigazgatási szervvel szemben az ügyvéd
+felmentés hiányában nem láthatna el képviseletet, míg a korábbi munkáltató ellen indított perben pedig elláthatna.
+A Kúria eljáró tanácsa szerint e téren nincs jelentősége annak, hogy az ügyvállalási korlát vizsgálata hivatalból
+vagy az ellenérdekű fél kérelmére történik-e, sem pedig annak, hogy az eljárás mely szakaszában, mert a vizsgálat
+eredménye az ügyvéd és megbízója közötti megbízási kötelem tárgyára, a megbízás érvényességére is kihat.
+[20] A Kúria eljáró tanácsa szerint kétséges a tisztességes eljáráshoz való jog érvényesülése, ha a fél és megbízottja
+akaratán kívül az ügyvédi képviselet szabályszerű meghatalmazás ellenére az eljárás bármely pontján úgy is
+megszűnhet, hogy az ügyvállalási korlátra az ellenérdekű fél hivatkozik. Az Üttv. 20. § (5) bekezdése szerinti
+ügyvállalási korlát ugyanakkor jellemzően összetettebb, több tény együttes értékelését, akár bizonyítás felvételét is
+igénylő bizonyítást igényel.
+[21] A Kúria eljáró tanácsa szerint amennyiben a képviselet körében a bíróság az ügyvállalási korlátot adóügyben indított
+közigazgatási perben vizsgálja, akkor ténylegesen az ügyvédi kamara fegyelmi bizottsága hatáskörébe tartozó
+fegyelmi ügy alapját képező tényeket értékeli, miközben egy majdani fegyelmi ügyben a kamarai döntés a bíróságot
+nem köti a Kp. 85. § (6) bekezdése és a Pp. 263. § (2) bekezdése értelmében.
+[22] A Kúria eljáró tanácsának álláspontja szerint, ha a bíróság a perbeli képviselet körében az ügyvédi meghatalmazás
+Üttv. 20. § (5) bekezdésének való megfelelését teljeskörűen vizsgálhatja, az ellentétes az Alaptörvény B) cikk
+(1) bekezdésével, a XXVIII. cikk (1) és (7) bekezdéseivel és az I. cikk (3) bekezdésével, mert az Alaptörvény által
+elismert alapjogok szükségtelen és aránytalan korlátozását eredményezi. A Kúria eljáró tanácsa szerint „a korábbi
+munkáltató belső információinak védelmét biztosító számos jogi norma folytán az Üttv. 20. § (5) bekezdése olyan
+törvényi rendelkezés, amely – azáltal, hogy az ügyvállalási korlát érvényesülését a korábbi munkáltató felmentő
+nyilatkozatától objektíve teszi függővé és az eljáró hatóságok, illetve a bíróság részére nem ad mérlegelési
+lehetőséget az ügyvállalási korlát jogalkotói és alapjogi célja vizsgálatát illetően – aránytalanul és szükségtelenül
+korlátozza a fél védelemhez való joga keretében a jogi képviselő megválasztásának jogát, így az Alaptörvény
+XXVIII. cikk (1) és (7) bekezdésében elismert alapjogot, azon keresztül pedig ellentétes a B) cikk (1) bekezdésével
+is, mert annak értelmezése során a jogalkotói cél (a volt munkáltató üzleti titok védelme) értékelésére nem ad
+lehetőséget.”
+[23] A Kúria eljáró tanácsa azzal indokolta az Üttv. 20. § (5) bekezdésének az Alaptörvény XII. cikk (1) bekezdésébe
+ütközését, hogy a jogszabályhely nem tartalmaz többletrendelkezést arra az esetre, ha egy munkaügyi vita
+eredményeként az időközben ügyvéddé lett munkavállalót eredeti munkakörébe visszahelyezi a bíróság, azonban
+a korábbi munkáltató tényleges munkavégzés nélkül ismételten megszünteti a jogviszonyt, azonban az ügyvállalási
+korlát alól nem ad felmentést, amely esetben a korábbi munkáltató visszaélésszerűen is hivatkozhat az ügyvállalási
+korlátra, amely az Ügyvéd oldalán többszöri hároméves korlátot is eredményezhet, ily módon sértve a munka
+és a foglalkozás szabad megválasztásához, valamint a vállalkozáshoz való jogot, illetve a megbízó oldalán
+a tisztességes eljáráshoz (védelemhez) való jog sérelmét eredményezheti.
+[24] 3. Az ügyben az igazságügyi miniszter és a Magyar Ügyvédi Kamara észrevételeket terjesztett elő.
+II.
+[25] 1. Az Alaptörvény bírói kezdeményezéssel érintett rendelkezései:
+„B) cikk (1) Magyarország független, demokratikus jogállam.”
+„XII. cikk (1) Mindenkinek joga van a munka és a foglalkozás szabad megválasztásához, valamint a vállalkozáshoz.
+Képességeinek és lehetőségeinek megfelelő munkavégzéssel mindenki köteles hozzájárulni a közösség
+gyarapodásához.”
+
+„XXVIII. cikk (1) Mindenkinek joga van ahhoz, hogy az ellene emelt bármely vádat vagy valamely perben a jogait és
+kötelezettségeit törvény által felállított, független és pártatlan bíróság tisztességes és nyilvános tárgyaláson, ésszerű
+határidőn belül bírálja el.”
+[26] 2. A bírói kezdeményezésben felhívott Üttv. érintett rendelkezése:
+„20. § (5) Korábbi munkáltatójával szemben az ügyvédi tevékenység gyakorlója akkor folytathat ügyvédi
+tevékenységet, ha a munkavégzésre irányuló jogviszony legalább három éve megszűnt, és az ügy intézésében nem
+vett részt. A korábbi munkáltató e korlátozás alól felmentést adhat.”
+[27] 3. A bírói kezdeményezésben felhívott Ügyvédi tv. 2017. december 31-ig hatályos érintett rendelkezése:
+„25. § (2) Korábbi megbízójával szemben az ügyvéd megbízást akkor vállalhat el, ha a korábbi és az új ügy között
+nincs összefüggés, korábbi munkáltatójával szemben pedig akkor, ha a munkaviszony (szolgálati, alkalmazotti
+jogviszony) legalább 3 éve megszűnt, és munkavállalóként az ügy intézésében nem vett részt.
+(3) A megbízó, a korábbi megbízó és a munkáltató az e §-ban foglalt korlátozás alól írásban felmentést adhat.”
+[28] 4. A bírói kezdeményezésben felhívott Pp. hatályos érintett rendelkezése:
+„70. § [A képviseleti jogosultság vizsgálata]
+A meghatalmazott képviseleti jogosultságát a bíróság az eljárás bármely szakaszában hivatalból vizsgálja.”
+III.
+[29] Az Alkotmánybíróság mindenekelőtt megvizsgálta, hogy a bírói kezdeményezés megfelel-e az Abtv. 25. és
+52. §-ában írt formai és tartalmi feltételeknek {3058/2015. (III. 31.) AB végzés, Indokolás [15]–[24], 3242/2017. (X. 10.)
+AB határozat, Indokolás [7]; 3102/2018. (IV. 9.) AB határozat, Indokolás [18]}.
+[30] Az Abtv. 25. §-a értelmében a bíró – a bírósági eljárás felfüggesztése mellett – abban az esetben kezdeményezheti
+az Alaptörvény 24. cikk (2) bekezdés b) pontja alapján az Alkotmánybíróságnál a jogszabály vagy jogszabályi
+rendelkezés alaptörvény-ellenességének megállapítását, illetve az alaptörvény-ellenes jogszabály alkalmazásának
+kizárását, ha az előtte folyamatban lévő egyedi ügy elbírálása során olyan jogszabályt kell alkalmaznia, amelynek
+alaptörvény-ellenességét észleli, vagy alaptörvény-ellenességét az Alkotmánybíróság már megállapította.
+[31] Az Alkotmánybíróság gyakorlata szerint „[a] kérelem az Abtv. 52. §-ának (1) bekezdésében megkövetelt
+határozottságnak (applicatio certa) akkor felel meg, ha az (1b) bekezdésben felsorolt feltételeknek eleget tesz, így
+pontosan és egyértelműen megjelöli az indítvány indokait, az indítvány által támadott jogszabályt vagy jogszabályi
+rendelkezést, az Alaptörvény vagy nemzetközi szerződés megsértett rendelkezését. Az indítványnak indokolnia kell
+továbbá, hogy a sérelmezett jogszabály vagy jogszabályi rendelkezés miért ellentétes az Alaptörvény megjelölt
+rendelkezésével vagy a nemzetközi szerződéssel, továbbá kifejezett kérelmet kell tartalmaznia a támadott
+jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességének megállapítására és alkalmazása tilalmának
+kimondására. Nem alkalmas az indítvány az érdemi elbírálásra, ha félreérthetően jelöli meg az Alaptörvénynek
+azt a rendelkezését, amelyet sérülni vél {3175/2014. (VI. 18.) AB végzés, Indokolás [5]}, vagy pusztán megjelöli
+azt, de nem indokolja meg – nem tartalmaz részletes érvelést arra vonatkozóan –, hogy az Alaptörvény megjelölt
+rendelkezésével miért ellentétes a támadott jogszabály vagy jogszabályi rendelkezés [3136/2013. (VII. 2.) AB végzés,
+3193/2014. (VII. 15.) AB végzés, 3226/2013. (XII. 12.) AB végzés]. Az elégtelen indokolás miatt akadálya az érdemi
+elbírálásnak az is, ha a támadott jogszabály vagy jogszabályi rendelkezés és az Alaptörvény megjelölt rendelkezése
+között nem állapítható meg összefüggés [3269/2012. (X. 4.) AB határozat, 12/2014. (IV. 10.) AB határozat, 3025/2014.
+(II. 17.) AB határozat, 37/2013. (XII. 5.) AB határozat, 3074/2013. (III. 14.) AB határozat] vagy az alkotmányjogi
+értelemben nem releváns [3009/2012. (VI. 21.) AB határozat].”{3058/2015. (III. 31.) AB végzés, Indokolás [19]}
+[32] Az Alkotmánybíróság utal arra, hogy az Abtv. 52. §-ának (2) bekezdése értelmében állandó gyakorlata szerint
+a határozottság követelményének minden támadott jogszabály vagy jogszabályi rendelkezés és az Alaptörvény
+minden felhívott rendelkezése vonatkozásában külön-külön teljesülnie kell {3136/2013. (VII. 2.) AB végzés,
+Indokolás [7]}.
+[33] Az Alkotmánybíróság megállapította, hogy a bírói kezdeményezés az Abtv. 25. §-ában, valamint az 52. § (1) és
+(1b) bekezdéseiben előírt, az Alkotmánybíróság 3058/2015. (III. 31.) AB végzésével értelmezett feltételeknek
+megfelel, mivel az eljárásban alkalmazni kell az Üttv. megjelölt rendelkezését, az eljárás felfüggesztése megtörtént,
+és az indítvány határozott kérelmet tartalmaz, valamint az Alaptörvény B) cikk (1) bekezdésére és a XXVIII. cikk
+
+(1) bekezdésére alapított érvelés vonatkozásában pontosan és egyértelműen megjelöli az indítvány indokait,
+a támadott jogszabályi rendelkezést, illetve az Alaptörvény megsértett rendelkezését.
+[34] Az Alkotmánybíróság megállapította ugyanakkor, hogy a bírói kezdeményezés az Alaptörvény XII. cikkére és
+a XXVIII. cikk (7) bekezdésére vonatkozó indítványi elem tekintetében nem tartalmaz indokolást, ily módon
+e tekintetben az indítvány nem felel meg a határozott kérelem követelményének, ezért az indítvány az Alaptörvény
+XII. cikkére és a XXVIII. cikk (7) bekezdésére alapított elemei tekintetében nem vizsgálható érdemben. Ugyanígy nem
+vizsgálható érdemben az indítványozó bírói tanács védelemhez való jogra történő hivatkozása, mert e tekintetben
+egyrészt konkrét alaptörvényi rendelkezést nem jelölt meg, másrészt e tekintetben az indítvány külön indokolást
+nem tartalmaz, így nem felel meg a határozott kérelem követelményének.
+[35] Az indítvány az Alaptörvény B) cikk (1) bekezdése és a XXVIII. cikk (1) bekezdése vonatkozásában megindokolja,
+hogy a sérelmezett jogszabályi rendelkezés miért ellentétes az Alaptörvénnyel, továbbá kifejezett kérelmet
+tartalmaz a támadott jogszabályi rendelkezés alaptörvény-ellenességének megállapítására és alkalmazása
+tilalmának kimondására.
+IV.
+[36] A bírói kezdeményezés nem megalapozott.
+[37] 1. Az indítványozó bírói tanács az Üttv. 20. § (5) bekezdésének alkotmányossági vizsgálatát kéri
+az Alkotmánybíróságtól, mert álláspontja szerint az előtte folyamatban lévő ügyben az Üttv. 20. § (5) bekezdését
+együtt értelmezve a Pp. 70. §-ával és az Abh.-val vizsgálnia kell, hogy az Ügyvéd az ügyvállalási korlát alóli felmentés
+hiányában jogosult-e képviselni a felperest, és ennek függvényében az Ügyvéd által benyújtott felülvizsgálati
+ellenkérelem és csatlakozó felülvizsgálati kérelem hatályos-e. Az indítványozó szerint sérti az Alaptörvény B) cikk
+(1) bekezdése szerinti normavilágosságot, illetve az Alaptörvény XXVIII. cikk (1) bekezdése szerinti tisztességes
+bírósági eljáráshoz való jogot, amennyiben a bíróság tartalmi vizsgálatnak veti alá a perben benyújtott ügyvédi
+meghatalmazást.
+[38] Az Alkotmánybíróság elöljáróban rögzíti, hogy a jelen ügyben is szakjogi – így nem az Alkotmánybíróság
+hatáskörébe tartozó, alkotmányossági – kérdésnek tekinti annak megítélését, hogy az alapügyben benyújtott
+ügyvédi meghatalmazás esetében fennáll-e az Üttv. 20. § (5) bekezdése szerinti ügyvállalási korlát.
+[39] Következésképpen az Alkotmánybíróság határozata kizárólag az indítvánnyal érintett Üttv. 20. § (5) bekezdésének,
+illetőleg az ezzel szoros összefüggésben álló eljárásjogi rendelkezések, így különösen a Pp. 70. §-ának
+alkotmányossági vizsgálatára szorítkozik.
+[40] 2. Az Alkotmánybíróság mindenekelőtt áttekintette az ügyvállalási korlátra vonatkozó szabályozást.
+[41] Az Üttv. 20. § (5) bekezdése értelmében az ügyvéd korábbi munkáltatójával szemben akkor folytathat ügyvédi
+tevékenységet, ha a munkavégzésre irányuló jogviszony legalább három éve megszűnt, és az ügy intézésében nem
+vett részt. A korábbi munkáltató e korlátozás alól felmentést adhat. Az Üttv. 2018. január 1-ei hatálybalépésével
+változott az ügyvállalási korlátra vonatkozó szabályozás, amelyet korábban az Ügyvédi tv. 25. § (2) és (3) bekezdései
+tartalmaztak. Az Üttv. e vonatkozásban a személyi hatályában bekövetkezett változásokra tekintettel, illetve
+a munkáltató Üttv. 2. § (2) bekezdés a) pont aa) alpontjában meghatározott gyűjtőfogalmának hivatkozásában tér el
+a korábbi Ügyvédi tv. szövegétől, az ügyvállalási korlát jogintézményén érdemben nem változtatott.
+[42] Az ügyvállalási korlát alkalmazását továbbra is érdemben változatlan feltételek mellett indokoltnak tartotta
+a jogalkotó, mivel a cél annak megelőzése, hogy az ügyvédi tevékenységet gyakorló a korábbi jogviszonya alapján
+megszerzett belső információkat ne használhassa fel a korábbi munkáltatóval ellenérdekű későbbi ügyfele hasznára.
+Az ügyvállalási korlát az Üttv. és az Ügyvédi tv. alapján is abban az esetben áll fenn időhatár nélkül, ha az ügyvéd
+az érintett ügy intézésben részt vett, amennyiben nem vett részt, azaz új ügyről van szó, akkor a korlátozás
+a munkavégzésre irányuló jogviszony megszűnését követő három évig áll fenn. Mind az Üttv., mind a korábbi
+Ügyvédi tv. lehetőséget ad arra, hogy a korábbi munkáltató a hároméves ügyvállalási korlát alól felmentést adjon.
+[43] Az Alkotmánybíróság utal arra, hogy az ügyvállalási korlát jogintézményének fenntartása – a Magyar Ügyvédi
+Kamara amicus curiae beadványában foglaltak szerint is – az igazságszolgáltatás integritásának fenntartását
+szolgálja, amely egyaránt jelenti a külső és a belső befolyástól mentes, pártatlan és tárgyilagos eljárás biztosítását.
+Az igazságszolgáltatás integritását nemcsak családi, hozzátartozói kapcsolatok, hanem egyéb külső, belső
+
+befolyásoló tényezők is érinthetik, amelyek bírósági perben veszélyeztethetik az ítélkezés, illetve a hatósági ügyben
+a hatósági döntéshozatal pártatlanságát, tárgyilagosságát.
+[44] 3. Az Alkotmánybíróság az Abh.-ban már részletesen foglalkozott az ügyvéd által ellátott jogi képviselet hatósági és
+bírósági eljárásban történő vizsgálatának alkotmányos szempontjaival, azonban a meghatalmazás alapjául szolgáló
+semmisség kérdésére nem tért ki.
+[45] Az Alkotmánybíróság elöljáróban utal arra, hogy számos más foglalkozás feladatköre és részletszabályai esetében
+a jogi szabályozás legfeljebb a tevékenység kereteit és feltételrendszerét határozza meg, ugyanakkor az ügyvédi
+hivatás gyakorlásának feltételei, részletszabályai erősen normatívan formalizáltak. Mindazonáltal az ügyvédi hivatás
+minden egyéb hivatástól eltér abban a tekintetben, hogy a megbízók alkotmányos jogaival szoros kapcsolatban áll,
+azok érvényesítését garanciális jelentőséggel elősegíti.
+[46] Az Alkotmánybíróság az Abh.-ban utalt arra, hogy „[a]z ügyvéd funkcionális függetlensége megköveteli, hogy
+az ügyvéd független legyen a közhatalom, illetve az ügyfele érdekeit hátrányosan érintő befolyásoktól. Az Ütv.-ben
+rögzített összeférhetetlenségi, illetve a megbízás elvállalásának korlátaira vonatkozó szabályok célja, hogy
+az ügyvéd funkcionális függetlenségén keresztül az igazságszolgáltatás rendes működését biztosítsák, illetve
+fenntartsák az ügyvédséggel szembeni közbizalmat. Az Alkotmánybíróság a 365/B/2000. (IX. 23.) AB határozatában
+rámutatott, hogy »[m]ás oldalról tekintve az összeférhetetlenségi szabályoknak az a céljuk, hogy kizárják az elvtelen,
+a megbízó érdekeivel ellentétes, vagy egyébként jogszerűtlen képviselet lehetőségét. Az ügyvédi megbízás
+ugyanakkor természeténél fogva magas szintű etikai követelményekkel járó bizalmi jellegű jogviszony, így indokolt,
+hogy a szabályozás az elvtelen képviseletnek még a látszatát is törekedjék elkerülni.« [ABH 2002, 1147, 1151]”
+(Abh., Indokolás [47])
+[47] Az Alkotmánybíróság az Abh.-ban a hatósági eljárásra vonatkoztatva az alábbi megállapításokat tette az ügyvéd
+képviseleti jogának vizsgálatával összefüggésben: „A Ket. 40. §-a alapján a hatóságnak nemcsak joga, hanem
+kötelezettsége is a meghatalmazott képviseleti jogosultságának vizsgálata, amely szükségszerűen lehetővé
+teszi a jogszabályok által meghatározott körben, azok kereteit nem túllépve az ügyvédség feletti hatósági
+jogkör gyakorlását, következésképpen önmagában a képviseleti jog hatóság általi vizsgálata nem eredményezi
+az ügyvédség önkormányzatiságának és a kamarai hatáskörnek a sérelmét. A Ket. 40. § (4) bekezdésében foglalt
+»alkalmatlanság« fogalmát a jogszabály nem határozza meg, annak értelme egyéb jogszabályi rendelkezések
+jelentéstartalma és az adott ügy speciális tényei és körülményei alapján határozható meg, amely adott esetben jogi
+tények alapján fennálló alkalmatlanság megállapítását is eredményezheti.
+Az Alkotmánybíróság a Ket. 40. § (4) bekezdése és az Ütv. [Ügyvédi tv.] 25. § (2)–(3) bekezdése szabályozásának
+összevetése és a joggyakorlat alapján arra a következtetésre jutott, hogy az Ütv. 25. § (2) bekezdésében foglalt
+összeférhetetlenség esete megalapozhatja az ügyvéd képviselőként történő visszautasítását a hatósági eljárásban
+a Ket. 40. § (4) bekezdésének alkalmazásával, azonban e tekintetben külön mérlegelendő, hogy az érintett ügyvéd
+a hatóságtól az Ütv. 25. § (3) bekezdése alapján felmentést kapott-e és az mire terjedt ki.”(Abh., Indokolás [61]–[62])
+[48] Következésképpen az Abh.-ban az Alkotmánybíróság a hatósági eljárás vonatkozásában megerősítette, hogy
+a hatóságnak a Ket. 40. §-a alapján kötelezettsége az ügyvédi meghatalmazás tartalmi vizsgálata olyan terjedelmi
+körben, amely a nyilvánvaló – adott esetben jogi tényeken alapuló összeférhetetlenség esetére is vonatkozó –
+alkalmatlanság nyilvánvaló eseteit hivatott kiszűrni és szükség esetén a képviselő visszautasításáról dönteni. Az Ákr.
+13. § (4) bekezdés a) pontja alapján a korábbi szabályozás érdemben nem változott, ily módon a hatóságnak az Ákr.
+alapján folytatott eljárásokban is ugyanúgy kötelezettsége az ügyvédi meghatalmazás tartalmi vizsgálata.
+[49] A jelen ügyben azonban az indítványozó bírói tanács által jelzett körben nem a hatósági eljárásra vonatkozó
+eljárásjogi rendelkezések értelmezése a fő kérdés – amelyet az Abh. már érdemben vizsgált –, hanem az ügyvédi
+meghatalmazás bírósági eljárásban irányadó eljárásjogi rendelkezések alapján történő vizsgálatának terjedelmi
+köre vizsgálandó. Az Abh. az azon ügyben benyújtott alkotmányjogi panasz tárgyából adódóan, az indítványhoz
+kötöttségre figyelemmel nem vizsgálta érdemben a bírósági eljárásban benyújtott ügyvédi meghatalmazás
+vizsgálatának terjedelmi kereteit, e tekintetben pusztán abban látta az adott ügyben támadott bírósági határozat
+alaptörvény-ellenességét, hogy a konkrét ügyben eljáró bíróság indokolási kötelezettségének nem tett eleget,
+ezáltal megsértette az Alaptörvény XXVIII. cikk (1) bekezdését.
+[50] Az Alkotmánybíróság visszautalva a IV/2. pontban (Indokolás [40] és köv.) kifejtettekre megállapítja, hogy a bírósági
+eljárásban benyújtott ügyvédi meghatalmazás vizsgálata a Pp. 70. §-a értelmében az eljáró bíróság hivatalból
+ellátandó kötelezettsége, amely nemcsak a formai, hanem a tartalmi vizsgálatra is vonatkozik. A régi Pp. 72. §-a
+a meghatalmazás hivatalbóli vizsgálatát a régi Pp. 67–69. §-okban meghatározott követelményekre szűkítette,
+azonban a hatályos Pp. a 70. §-ban többek között arra tekintettel is mellőzte a korábbi szabályozási megoldásban
+
+szereplő merev hivatkozások szerepeltetését, hogy az eljáró bíróság megfelelően érvényre tudja juttatni
+a meghatalmazás formai és tartalmi vizsgálatát. Az Alkotmánybíróság kiemeli, hogy az ügyvédi meghatalmazás
+perbeli tartalmi vizsgálatának nem lehet akadálya, hogy az ügyvédekre irányadó ügyvállalási korlát jogintézménye
+az ügyvédekre vonatkozó státusztörvényben és nem a Pp.-ben szerepel.
+[51] 4. Az Alkotmánybíróság elsőként az Alaptörvény B) cikk (1) bekezdése szerinti normavilágosság sérelmére
+vonatkozó indítványozói hivatkozást vizsgálta meg.
+[52] Az Alkotmánybíróság felidézte a normavilágossággal kapcsolatos gyakorlatát. Az Alkotmánybíróság gyakorlata
+szerint a jogállam nélkülözhetetlen eleme a jogbiztonság, amely „az államtól, és elsősorban a jogalkotótól azt
+követeli meg, hogy a jog egésze, egyes részterületei és szabályai világosak, egyértelműek, hatásukat tekintve
+kiszámíthatóak és a norma címzettjei számára is előre láthatóak legyenek” {3057/2019. (III. 25.) AB határozat,
+Indokolás [15]}. Az Alkotmánybíróság szerint a jogbiztonság alapkövetelménye a jogszabályok kiszámíthatósága és
+az egyes jogi normák egyértelműsége {33/2014. (XI. 7.) AB határozat, Indokolás [32]; 3001/2019. (I. 7.) AB határozat,
+Indokolás [87]}.
+[53] Az Alkotmánybíróság a 24/2013. (X. 4.) AB határozatban rögzítette, hogy „[a]z Alkotmánybíróságnak a norma
+egyértelműségének követelményével kapcsolatos eddigi gyakorlata szerint a jogszabályokat a magyar nyelv
+szabályainak megfelelően, világosan és közérthetően kell megszövegezni. A jogszabály-értelmezési nehézségeket
+általában a jogalkotói vagy jogalkalmazói jogszabály-értelmezés eszközeivel kell felszámolni.” {Indokolás [49];
+3098/2016. (V. 24.) AB határozat, Indokolás [30]–[33]; 3296/2018. (X. 1.) AB határozat, Indokolás [32]}
+[54] Az Alkotmánybíróság a 3/2016. (II. 22.) AB határozatban kiemelte, hogy a szabályozás mindaddig nem sérti
+a normavilágosság elvét, amíg nem minősül a jogalkalmazó számára értelmezhetetlennek, illetőleg nem nyílik
+lehetőség a túlzottan általános megfogalmazás miatt szubjektív, önkényes jogalkalmazásra (Indokolás [11]).
+Következésképpen „[a]lkotmánysértésnek csak az minősül, ha a sérelmezett jogszabály tartalma olyan mértékben
+homályos, vagy rendelkezései annyira ellentmondásosak, hogy a tisztázatlanság feloldására a jogszabály-
+értelmezés már nem elegendő” {1263/B/1993. AB határozat, ABH 1994, 672–674; 3047/2013. (II. 28.) AB határozat,
+Indokolás [18]}.
+[55] Az indítványozó bírói tanács szerint az Üttv. 20. § (5) bekezdése azon okból nem felel meg a normavilágosság
+követelményének, hogy az Alaptörvény 28. cikkének második fordulata értelmében a bíróságnak a jogszabályok
+értelmezése során a jogalkotói indokolásra elsődlegesen figyelemmel kell lennie. Az Üttv. 20. §-ához fűzött
+indokolás értelmében az ügyvállalási korlát megsértése nem eredményezi a megbízási szerződés semmisségét,
+e szabály megsértése az ügyvéd fegyelmi felelősségének megállapítását vonja maga után. Az indítványozó
+bírói tanács ezen törvényi indokolásra hivatkozással indokolta az Alaptörvény B) cikk (1) bekezdése szerinti
+normavilágosság sérelmét. Az Alkotmánybíróság szerint az ügyvédi meghatalmazás ügyvállalási korlátra kiterjedő
+tartalmi vizsgálata nem jelenti az ügyvédi kamarai fegyelmi hatáskör elvonását, illetve a semmisség megállapítását
+sem. A Pp. 70. §-a alapján a képviseleti jogosultság tartalmi vizsgálata is szükséges, ugyanakkor a bíróság vizsgálata
+nem terjedhet ki a fél és jogi képviselője közötti megbízási szerződés érvényességére, semmisségére. Kiemelendő,
+hogy a Pp. 70. §-a, illetve a Pp. és a Kp. egyéb rendelkezései sem tartalmazzák szövegszerűen, hogy a bíróságnak
+a meghatalmazás vizsgálatakor a semmisség kérdésében is állást kellene foglalnia, mindazonáltal az ügyvállalási
+korlát Üttv.-ben szabályozott jogintézménye és a Pp. 70. §-a szerinti perbeli meghatalmazás vizsgálatára vonatkozó
+rendelkezések együttes értelmezéséből sem vezethető le, hogy a képviseleti jogosultság perbeli vizsgálatának
+szükségszerű eleme lenne az alap megbízási jogviszony érvényessége. A Pp. 70. §-a alapján a bíróságnak olyan
+terjedelmi körben szükséges a meghatalmazást tartalmi vizsgálat alá vetnie, amely a perbeli képviseleti jogosultság
+fennállására/megengedhetőségére vonatkozik, hiszen a Pp. 70. §-a szövegszerűen a képviseleti jogra, azaz nem
+a megbízó és az ügyvéd közötti megbízási szerződésre vonatkoztatja a hivatalbóli vizsgálati kötelezettséget.
+[56] Ezen túlmenően, az ügyvéddel szembeni kamarai fegyelmi hatáskör gyakorlása sem előfeltétele a Pp. 70. §-a alapján
+a képviseleti jog tartalmi vizsgálatának, annál is inkább mert a kamarai fegyelmi határozat a közigazgatási jogvita
+tárgyában eljáró bíróságot nem köti a Kp. 85. § (6) bekezdése értelmében.
+[57] Mindezekre tekintettel megállapítható, hogy az Üttv. 20. § (5) bekezdése és annak indokolása nem áll ellentétben
+a Pp. 70. §-ával, a jogszabályi hierarchiában azonos szinten lévő normák között nem eredményez kollíziót, hogy
+a Pp. 70. §-a szerinti tartalmi vizsgálati kötelezettség egyik eleme az Üttv.-ben és nem a Pp.-ben szerepel, illetve
+nem áll fenn normakollízió az ügyvédi kamarát megillető fegyelmi hatáskör vonatkozásában sem. Ugyanígy nem
+normakollízió, hogy a meghatalmazásból kitűnő tények képviseleti joggal összefüggő tartalmi vizsgálata nem
+terjedhet a megbízási szerződés semmisségének vizsgálatáig.
+
+[58] Ezen túlmenően, tekintettel arra, hogy az indítványozó bírói tanács azon kifogása, miszerint az ügyvállalási korlát
+bíróság általi vizsgálata nem szerepel tételesen a jogszabályban, a fentebb kifejtettek szerint nem helytálló,
+megállapítható, hogy a normavilágosság követelménye ezen okból sem sérül, hiszen a Pp. 70. §-a alapján
+a meghatalmazás képviseleti joggal összefüggő tartalmi vizsgálatába beletartozik a törvény alapján kizárt
+képviselet esete is, amilyen az Üttv. 20. § (5) bekezdésében szabályozott ügyvállalási korlát. Az Alkotmánybíróság
+kiemeli, hogy a Pp. 70. §-ának szövegezése a tekintetben változott a régi Pp.-hez képest, hogy a meghatalmazás
+tartalmi vizsgálatát nem szűkíti a régi Pp. 67–69. §-aiban szabályozott esetekre, éppen ezért nem áll összhangban
+az Alaptörvénnyel a Pp. 70. §-a alapján egy olyan bírósági gyakorlat kialakítása, amely továbbra is csak a régi
+Pp. szerinti esetekben ismeri el a tartalmi vizsgálat terjedelmét és nem veszi hivatalból figyelembe az egyéb
+jogszabály alapján kizárt képviselet eseteit. Az Alkotmánybíróság ezzel összefüggésben utal azon gyakorlatára,
+miszerint „[a] bírói függetlenségnek nem korlátja, sokkal inkább biztosítéka a törvényeknek való alávetettség:
+a bírónak a határozatait a jogszabályok alapján kell meghoznia. Ha a törvényeknek való alávetettségtől a bíróság
+eloldja magát, saját függetlenségének egyik tárgyi alapját vonja el. A vonatkozó jogszabályokat be nem tartó
+bíróság lényegében visszaél saját függetlenségével, amely adott esetben ezen keresztül a tisztességes bírósági
+eljáráshoz való jog sérelmét okozhatja. Az a bírói ítélet, amely alapos ok nélkül hagyja figyelmen kívül a hatályos
+jogot, önkényes, fogalmilag nem lehet tisztességes, és nem fér össze a jogállamiság alapelvével.” {20/2017. (VII. 18.)
+AB határozat, Indokolás [23]}
+[59] Az Alkotmánybíróság megjegyzi, hogy az ügyvéd volt munkáltatójával szembeni perben szükségszerűen
+az egyik fél a korábbi munkáltató. Következésképpen az ilyen típusú perekben a bíróság figyelmét a másik fél
+szükségszerűen felhívja az ügyvállalási korlát megsértésére és a bíróság számára a Pp. alapján minden eszköz adott,
+hogy a feleket és képviselőiket az ügyvállalási korláttal kapcsolatos tényekről nyilatkoztassa. Az Alkotmánybíróság
+megjegyzi, hogy az indítványozó bírói tanács által hivatkozott uniós irányelv sem helyezi más megvilágításba
+a vonatkozó eljárásjogi rendelkezéseket. Következésképpen a bíróság részéről az ügyvállalási korlát, mint jogszabály
+alapján kizárt képviselet felderítése a gyakorlatban nem igényel bonyolultabb nyilatkozattételre kötelezést, mint
+például a benyújtott meghatalmazás esetében az arra jogosulttól származóság cégjegyzék vagy egyéb okiratok
+alapján történő megítélése, vagy egy tanúmeghallgatás, illetve szakértői meghallgatás előtt a felekkel való
+személyes kapcsolat feltárása, amely mintegy előkérdésként megelőzi a konkrét perbeli eljárás megengedhetőségét.
+[60] Az Alkotmánybíróság mindezek alapján megállapítja, hogy az Üttv. 20. § (5) bekezdése nem tartalmaz
+olyan rendelkezést, amely a jogalanyok számára értelmezhetetlen lenne, vagy ellentmondásos értelmezést
+eredményezne, ezért az Alaptörvény B) cikk (1) bekezdése szerinti normavilágosság sérelme nem állapítható meg,
+ebből kifolyólag ezen rendelkezés alaptörvény-ellenességének megállapítására és alkalmazásának kizárására
+irányuló bírói kezdeményezést elutasítja.
+[61] 5. Az Alkotmánybíróság ezt követően az Alaptörvény XXVIII. cikk (1) bekezdésének megsértésével kapcsolatos
+indítványi elemet vizsgálta meg.
+[62] Az Alkotmánybíróság a tisztességes bírósági eljáráshoz való jog esetében minden esetben tartalmi vizsgálatot
+folytat, így elemzi a jogszabályi környezetet és a bírói döntést, a szabályozás célját és a konkrét ügy tényállását és
+mindezek alapján von le következtetéseket az adott esetben megállapítható alapjogsérelemre {20/2017. (VII. 18.)
+AB határozat, Indokolás [17]; 3102/2017. (V. 8.) AB határozat, Indokolás [18]}.
+[63] A tisztességes eljárás (fair trial) az Alkotmánybíróság szerint „olyan minőség, amelyet az eljárás egészének és
+körülményeinek figyelembevételével lehet csupán megítélni. Ezért egyes részletek hiánya ellenére éppúgy, mint
+az összes részletszabály betartása dacára lehet az eljárás méltánytalan vagy igazságtalan, avagy nem tisztességes.”
+[6/1998. (III. 11.) AB határozat, ABH 1998, 91, 95] Az Alaptörvény XXVIII. cikk (1) bekezdése alapján meghatározhatók
+a tisztességes eljáráshoz való jog tartalmát kitöltő ún. részjogosítványok. Az Alkotmánybíróság gyakorlata szerint
+a tisztességes eljárásnak az is része, hogy az eljárásban biztosítva legyen a fegyverek egyenlősége {2/2017. (II. 10.)
+AB határozat, Indokolás [50]}.
+[64] Az indítványozó bírói tanács szerint az Üttv. 20. § (5) bekezdése azért sérti az Alaptörvény XXVIII. cikk (1) bekezdését,
+mert ha ugyanannak az ügynek bármely megelőző eljárásaiban az ügyvállalási korlátot nem vizsgálták, vagy
+annak hiányát elfogadták, és később a jogorvoslati fórum dönt úgy, hogy a félre hátrányos jogkövetkezményként
+alkalmazva új jogi képviselő meghatalmazásának hiányában visszautasítja a beadványt, miközben a félnek közben
+már költségei is keletkeztek és időmúlás is történt az ügyében. A Kúria azon okból is alaptörvény-ellenesnek tartja
+az Üttv. 20. § (5) bekezdését, hogy a fél ügyvédi képviselete ezen norma alapján a fél és az ügyvéd akaratán kívül
+az eljárás bármely pontján úgy is megszűnhet, hogy az ellenérdekű félnek elegendő csak hivatkoznia az ügyvállalási
+korlát fennálltára.
+
+[65] Az Alaptörvény I. cikk (3) bekezdése értelmében alapvető jog más alapvető jog érvényesülése vagy valamely
+alkotmányos érték védelme érdekében, a feltétlenül szükséges mértékben, az elérni kívánt céllal arányosan,
+az alapvető jog lényeges tartalmának tiszteletben tartásával korlátozható.
+[66] Az Alaptörvény XXVIII. cikk (1) bekezdése mindenkinek alapvető jogot biztosít ahhoz, hogy az ellene emelt vádról,
+vagy valamely perben a jogairól és kötelezettségeiről törvény által felállított, független és pártatlan bíróság
+tisztességes és nyilvános tárgyaláson, észszerű határidőn belül döntsön. A jelen ügyben az Üttv. 20. § (5) bekezdése
+vonatkozásában az Alaptörvény I. cikk (3) bekezdése alapján a fél tisztességes bírósági eljáráshoz való jogának
+fegyverek egyenlőségére vonatkozó részjogosítványa ütközik a pártatlan bíróság követelményével.
+[67] A pártatlanság követelményével az Alkotmánybíróság elsőként a 67/1995. (XII. 7.) AB határozatban foglalkozott
+részletesen. Ezen határozat értelmében „[a] pártatlan bírósághoz való alkotmányos alapjog az eljárás alá vont
+személy iránti előítéletmentesség és elfogulatlanság követelményét támasztja a bírósággal szemben. Ez egyrészt
+magával a bíróval, a bíró magatartásával, hozzáállásával szembeni elvárás, másrészt az eljárás szabályozásával
+kapcsolatos objektív követelmény: el kell kerülni minden olyan helyzetet, amely jogos kétséget kelt a bíró
+pártatlansága tekintetében.” (ABH 1995, 346, 348) Az Alkotmánybíróság a 166/2011. (XII. 20.) AB határozatban
+az Emberi Jogok Európai Bírósága által alkalmazott ún. kettős tesztre hivatkozott, amely szerint „a szubjektív
+teszt keretében az eljáró bíró személyes magatartását, vagyis azt vizsgálja, hogy volt-e az eljárás során olyan
+megnyilvánulása, amelyből a pártatlanságának hiányára lehet következtetni. Az objektív megközelítés pedig
+annak vizsgálata, hogy volt-e objektíve igazolható oka a pártatlanság hiánya feltételezésének (ABH 1995, 346–348),
+vagyis az adott szabályozás biztosítja-e a pártatlanság követelményét, ideértve azt is, hogy az eljárás a közösség,
+elsősorban a jogkeresők oldaláról nézve objektíve nem támaszthat kételyeket a pártatlanságot illetően [20/2005.
+(V. 26.) AB határozat, ABH 2005, 202, 225–226; 32/2002. (VI. 4.) AB határozat, ABH 2002, 153, 161; 17/2001. (VI. 1.)
+AB határozat, ABH 2001, 222, 227–228].” (ABH 2011, 545, 558–559). Az Alkotmánybíróság a 20/2020. (VIII. 4.)
+AB határozatában – a korábbi gyakorlat megerősítése mellett – hangsúlyozta, hogy a „törvény által felállított
+bíróság függetlensége és pártatlansága olyan általános jogelv, amely az emberi jogok védelme érdekében
+megkötött valamennyi jelentősebb univerzális és regionális nemzetközi egyezménynek sajátja {részletesen lásd:
+34/2013. (XI. 22.) AB határozat, Indokolás [25]}” (Indokolás [98]). Ugyanezen határozatában az Alkotmánybíróság
+megállapította, hogy a „pártatlanság érvényesülését objektív megközelítésben a bírák kizárására vonatkozó
+büntetőeljárási szabályok biztosítják”{20/2020. (VIII. 4.) AB határozat, Indokolás [100]}.
+[68] Az integritásvédelem megőrzése és a perbeli, valamint hatósági eljárásban történő biztosításának tipikus példája
+a Pp.-ben (12. §, 19. §, 511. §, 563. §), illetve a Kp.-ben (10. §) a bírók kizárásának, valamint az Ákr.-ben (22–24. §)
+az ügyintézővel szemben érvényesülő kizárás jogintézménye. A bírókkal szemben érvényesülő kizárási szabályok
+jelentőségét jelzi, hogy azok megsértése abszolút hatályon kívül helyezési oknak minősül. Az igazságszolgáltatás
+integritásának védelmét a jogalkotó ugyanakkor nemcsak a bírókra vonatkozó kizárási szabályokon keresztül,
+hanem a bíróság oldalán eljáró ülnökökre és jegyzőkönyvvezetőkre is vonatkoztatja. Kiemelendő, hogy a régi Pp.
+325. § (1) bekezdés c) pontja értelmében a közigazgatási perben bíróként nem járhatott el, aki korábban a perben
+félként szereplő, határozatot hozó közigazgatási szerv dolgozója volt, a jogviszonya megszűnését követő 2 évig,
+amely szabályt a Kp. is fenntartja, sőt a 10. § (1) bekezdés c) pontjában a korábbi kétéves időkorlátot 5 évre
+felemelte.
+[69] Az igazságszolgáltatás integritásának védelme azonban nem lenne teljes, ha a perben eljáró felek jogi képviselői
+vonatkozásában nem érvényesülnének az ügyvállalási korlát rendelkezései, amelyek egyrészt a bírák külső és belső
+befolyástól mentes, pártatlan ítélkezését biztosító szabályok, másrészt végső soron az fél érdekét (ti. az ügyvállalási
+korláttal érintett ügyvéd által képviselt féllel ellenérdekű fél), a vele szembeni tisztességes eljárás érvényre juttatását
+szolgálják.
+[70] Az Alkotmánybíróság kiemeli, hogy az ügyvédi hivatással szembeni közbizalom olyan alkotmányos érték, amelynek
+fenntartása jogállami feladat. Az ügyvédségre vonatkozó szabályozás abban az értelemben dichotóm, hogy részben
+közjogi szabályozás értelmében az ügyvédnek a megbízása ellátása során érvényre kell juttatnia a közjót, illetve
+a magánjogi szabályozás alapján megbízója partikuláris érdekeit. Az ügyvédnek mindazonáltal nemcsak szervezeti
+értelemben, hanem funkcionálisan is függetlennek kell lennie, azaz foglalkozását a megbízója érdekeivel ellentétes
+érdekek befolyásától mentesen, illetve az elvtelen képviseletet elkerülve kell ellátnia. Az ügyvéd funkcionális
+függetlensége és az elvtelen képviselet tilalma – amelynek egyik esete az Üttv. 20. § (5) bekezdése szerinti
+ügyvállalási korlát jogintézménye – teremti meg az ügyvédi hivatással szembeni közbizalmat, amely szerves részét
+képezi az igazságszolgáltatás integritásvédelmére hivatott szabályozási rendszernek.
+
+[71] A tisztességes bírósági eljáráshoz való jog a bírósági perben félként szereplő személyek alapjoga, ugyanakkor ezen
+alapjog tényleges érvényesülésének elengedhetetlen feltétele az ügyvédi képviselet alkotmányos védelemben
+részesítése nem közvetlenül, hanem közvetetten, a perbeli felek jogállami intézményvédelme útján.
+[72] Ugyanígy említendő, hogy a bizonyítási eljárás kulcsszereplőinek tekinthető tanúk és szakértők vonatkozásában is
+érvényesülnek integritásvédelmi rendelkezések, például szakértő és tanú esetében a felekkel való korábbi személyi
+összefonódás is kizárást (Pp. 301. §), illetve a tanúvallomás megtagadását (Pp. 290. §) vonja maga után. Mindezek
+alapján az Alkotmánybíróság megállapította, hogy az igazságszolgáltatás integritásának védelme komplex
+rendszerben érvényesül, amely úgy tud a maga teljességében a gyakorlatban érvényre jutni, ha a per minden
+szereplőjére (bírók, ülnökök, jegyzőkönyvvezetők, tanúk, szakértők, felek jogi képviselői) vonatkoznak a felekkel való
+korábbi, illetve jelenlegi kapcsolatukra tekintettel kizárási szabályok.
+[73] A perből a felek magától értetődő jelleggel nem zárhatók ki, hiszen az ő jogvitájuk eldöntésére hivatott a bírósági
+per jogintézménye. Annak érdekében, hogy az igazságszolgáltatás integritásának védelme a maga teljességében
+érvényesülni tudjon, a per minden szereplője vonatkozásában szükségesek a felekkel való korábbi/jelenlegi
+személyes kapcsolatuktól függő kizárási szabályok. Amennyiben a kizárási szabályok csak a bírók, az ülnökök,
+a jegyzőkönyvvezetők, illetve a tanúk, szakértők vonatkozásában érvényesülnek és a felek képviselőire nem
+vonatkoznának, úgy az igazságszolgáltatás integritásvédelmének pajzsán, így az ügyvédi hivatást érintően fennálló
+közbizalom alkotmányos értékén olyan rés keletkezne, amely veszélyeztetné a tárgyilagos és pártatlan ítélkezést,
+azaz a bíró szakmai, ítélkezésbeli függetlenségét, amely végső soron a felek érdekét, az igazságos és törvényes
+jogállami ítélethozatalt szolgálja.
+[74] Az Alkotmánybíróság nem osztja az indítványozó bírói tanács azon álláspontját, miszerint az Üttv. 20. §
+(5) bekezdése szerinti ügyvállalási korlát vonatkozásában a jogalkotói cél a volt munkáltató üzleti titokvédelmére
+szorítkozna csak, hiszen egy közelmúltban megszüntetett munkavégzésre irányuló jogviszony során nemcsak üzleti
+és egyéb titkok, hanem a volt munkáltató működésére vonatkozó olyan belső – főként személyes kapcsolatokon
+alapuló – információk is felhasználhatóvá válnának, amelyek veszélyeztetnék a külső és belső befolyástól mentes
+pártatlan ítélkezést. Az Alkotmánybíróság megjegyzi, hogy a konkrét ügyben félként érintett NAV esetében az üzleti
+titoksértés eleve nehezen értelmezhető.
+[75] Tekintettel arra, hogy az Üttv. 20. § (5) bekezdése szerinti ügyvállalási korlát nem kizárólag a volt munkáltató üzleti
+titokvédelmét hivatott elősegíteni, nem állítható, hogy ezen szabály elhagyása a jogrendszerből nem eredményezne
+koherenciazavart arra hivatkozással, hogy az üzleti titok védelmét a büntetőjog és a polgári jog megfelelően
+biztosítja. Az Alkotmánybíróság megállapítása szerint az Üttv. 20. § (5) bekezdése szerinti ügyvállalási korlát
+jogintézménye az igazságszolgáltatás integritása védelmének, mint alkotmányos értéknek a védelmét szolgálja,
+amely szerves részét képezi az integritásvédelemre hivatott azon komplex rendszernek, amely főként az eljárási
+törvényekben nyert szabályozást. Az a tény, hogy az ügyvédek esetében érvényesülő ügyvállalási korlát nem
+a Pp.-ben, hanem az ügyvédekre vonatkozó státusztörvényben került külön szabályozásra nem képezheti akadályát
+annak, hogy a bíróság ezen jogintézményt a perben érvényre juttassa.
+[76] Az Alkotmánybíróság szerint az Üttv. 20. § (5) bekezdése szerinti ügyvállalási korlát jogintézménye egy sajátos
+hármas hatásköri rendszerben jut érvényre, amelynek szerves részét képezi az ügyvállalási korlát konkrét perben/
+hatósági ügyben történő tartalmi vizsgálata. A hármas hatásköri rendszer összetevői koherens részét képezik
+az ügyvállalási korlát integritásvédelmi funkciójának érvényesülését biztosítani hivatott szabályozási rendszernek,
+ily módon bármelyik hatáskör kivonása a jogrendszerből, vagy a hatáskör elégtelen gyakorlása azt eredményezné,
+hogy a jogintézmény a gyakorlatban nem jut érvényre.
+[77] A hármas hatásköri rendszer első eleme a konkrét perben/hatósági ügyben az ügyvállalási korlát meglétének
+vizsgálata, szükség esetén bizonyítási eljárás lefolytatása útján (kapott-e az ügyvéd felmentést az ügyvállalási korlát
+alól a korábbi munkáltatójától vagy sem, illetve eltelt-e a 3 év a korábbi jogviszonya megszűnésétől számítva). Ezen
+első hatáskörnek szükségszerűen csak a konkrét hatósági ügyben eljáró hatóság, illetve a bírósági perben eljáró
+bíróság tud érvényt szerezni, ezért a hatósági eljárás vonatkozásában a korábbi Ket. 40. §-a illetve az Ákr. 13. §-a,
+valamint a bírósági perben a Pp. 70. §-a lehetővé teszi az ügyvédi meghatalmazás tartalmi vizsgálatát is.
+[78] A második elem az ügyvédi kamara által az Üttv. szerint gyakorolható fegyelmi hatáskör, amely nem eredményezi
+az első hatáskör szerinti konkrét perben az ügyvéd képviselői eljárásának visszautasítását, hiszen az ügyvállalási
+korlát megsértésének gyanúja esetén még ha lenne is folyamatban az ügyvéd ellen fegyelmi eljárás, annak
+jogkövetkezményei a konkrét ügyekben a kamara által nem vonhatók le, kizárólag az egyedi ügyben eljáró hatóság,
+bíróság jogosult az ügyvállalási korlátnak konkrét ügyben érvényt szerezni.
+[79] A harmadik hatáskör az ügyvállalási korlát megsértése esetén a megbízó vagy a korábbi munkáltató által az ügyvéd
+ellen kezdeményezett polgári (kártérítési, illetve semmisség megállapítása iránti) per, amely perben a polgári
+
+bíróság a megbízás semmisségének jogkövetkezményeit alkalmazhatja, következésképpen ezen harmadik
+hatáskör miatt az első hatáskör egyidejűleg nem jelenti a megbízás semmisségének kimondását sem, hiszen annak
+jogkövetkezményei, kizárólag külön e célból indított polgári perben érvényesíthetők.
+[80] A hármas hatásköri rendszer második és harmadik eleme az első (konkrét ügyben érvényesített kizárás/képviselő
+visszautasítása) hatáskörtől elkülönül abban az értelemben, hogy a második hatáskör szerinti kamarai fegyelmi
+hatáskör, illetve a harmadik elem szerinti kártérítési hatáskör egymásra épülnek, hiszen a polgári per indítását
+szükségszerűen megelőzi a kamarai fegyelmi hatáskör gyakorlása, míg az első hatáskör gyakorlásának nem
+feltétele a második illetve a harmadik hatáskör gyakorlása. A Pp. 263. § (2) bekezdése és a Kp. 85. § (6) bekezdése
+értelmében a bíróságot nem köti a kamarai hatáskörben hozott fegyelmi határozat, illetve az abban megállapított
+tényállás, ezért a kamarai fegyelmi hatáskör gyakorlása nem előfeltétele a konkrét perben a Pp. 70. §-a alapján
+a meghatalmazás tartalmi, ügyvállalási korlátra is kiterjedő vizsgálatának.
+[81] Tekintettel arra, hogy a Pp. 70. §-a alapján a bíróságnak hivatalból formai és tartalmi vizsgálatnak kell alávetnie
+a képviseleti jogosultságot, amely tartalmi vizsgálati körbe beletartozik a jogszabály alapján – így az Üttv. 20. §
+(5) bekezdésében szabályozott ügyvállalási korlátra tekintettel – kizárt képviselet esete is, így megállapítható,
+hogy a Pp. 70. §-ának létezik olyan alkotmányos értelmezése, amely nem eredményezi az Alaptörvény XXVIII. cikk
+(1) bekezdésének megsértését.
+[82] Az Alkotmánybíróság mindezek alapján megállapítja, hogy az Üttv. 20. § (5) bekezdése nem tartalmaz olyan
+rendelkezést, amely szükségtelenül és aránytalanul korlátozná a felek tisztességes bírósági eljáráshoz való
+jogát, ezért az Alaptörvény XXVIII. cikk (1) bekezdésének a sérelme nem állapítható meg, ebből kifolyólag
+ezen rendelkezések alaptörvény-ellenességének megállapítására és alkalmazásának kizárására irányuló bírói
+kezdeményezést elutasítja.
+[83] Az Alkotmánybíróság ugyanakkor az Abtv. 46. § (3) bekezdése alapján, hivatalból eljárva, alkotmányos követelmény
+megállapítását tartotta szükségesnek annak érdekében, hogy az Üttv. 20. § (5) bekezdése és a Pp. 70. §-ának
+együttalkalmazása az Alaptörvénnyel összhangban álló jogalkalmazói értelmezést eredményezzen, amelynek
+értelmében a meghatalmazott képviseleti jogosultságának tartalmi vizsgálata arra is kiterjed, hogy nincs-e
+jogszabályi – így az Üttv. 20. § (5) bekezdése alapján fennálló – akadálya a meghatalmazott eljárásának és
+ezen vizsgálata alapján szükség esetén le kell vonnia a felek perbeli képviseletét érintő jogkövetkezményeket.
+Az Alkotmánybíróság kiemeli, amennyiben a bíróság a képviseleti jogosultság tartalmi vizsgálata során azt észleli,
+hogy az jogszabályba, így az Üttv. 20. § (5) bekezdésébe ütközik, akkor nyilatkoztatnia szükséges az érintett
+feleket és az ügyvédet, szükség esetén fel kell hívnia a feleket arra is, hogy nyilatkozatukat okirattal igazolják. Ezt
+követően amennyiben a nyilatkozatok és az okiratok alapján megállapítható az ügyvállalási korlát fennállása,
+a bíróság oly módon tudja biztosítani a tisztességes bírósági eljáráshoz való jog érvényesülését, ha megfelelő
+határidő biztosításával hiánypótlásra hívja fel az ügyvállalási korláttal érintett ügyvéd által képviselt felet,
+hogy gondoskodjon új jogi képviselő meghatalmazásáról, vagy amennyiben a jogi képviselet nem kötelező,
+a továbbiakban járjon el személyesen, illetőleg az eddig, a kizárt jogi képviselő által megtett perbeli cselekmények
+vonatkozásában is nyilatkozzon arról, hogy azokat magáénak ismeri-e el, ellenkező esetben ezen perbeli
+cselekmények megismétlése szükséges.
+[84] Ezen túlmenően az Alkotmánybíróság utal arra, hogy amennyiben az eljáró bíróság úgy látja, hogy az előtte folyó
+perben eljáró hatóság jogait/tevékenységét visszaélésszerűen gyakorolja, akkor egyrészt élhet a Pp. 166. §-a alapján
+a Pp. 18. § (2) bekezdése szerinti eset mintájára pénzbírság kiszabás lehetőségével, amennyiben úgy ítéli meg,
+hogy az egyik fél nyilvánvalóan alaptalanul kezdeményezte a másik fél jogi képviselőjének perből történő kizárását,
+másrészt súlyosabb esetekben felvetődhet a Büntető Törvénykönyvről szóló 2012. évi C. törvény 305. §-ában
+szabályozott hivatali visszaélés gyanúja, amely vonatkozásban a bíróságot feljelentési kötelezettség terheli
+a büntetőeljárásról szóló 2017. évi XC. törvény 376. § (2) bekezdése alapján. Ugyanakkor a közigazgatási ügyben
+eljáró bíróságnak nincs, és nem is kell, hogy hatásköre legyen az egyik fél vagy ügyvédje által elszenvedett kár
+megállapítására, vagy munkajogi, fegyelmi hatáskör gyakorlására.
+6. Az Alkotmánybíróság a határozat Magyar Közlönyben történő közzétételét az Abtv. 44. § (1) bekezdésének
+második mondata alapján rendelte el.
+Budapest, 2020. december 15.
+
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Czine Ágnes dr. Dienes-Oehm Egon
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Handó Tünde dr. Horváth Attila
+alkotmánybíró helyett előadó alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Hörcherné dr. Marosi Ildikó dr. Juhász Imre
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Juhász Miklós dr. Pokol Béla
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Salamon László dr. Schanda Balázs
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Szabó Marcel dr. Szalay Péter
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Szívós Mária
+alkotmánybíró helyett
+Alkotmánybírósági ügyszám: III/1116/2020.
+Dr. Czine Ágnes alkotmánybíró párhuzamos indokolása
+[85] Egyetértek a rendelkező részben foglaltakkal, ugyanakkor fontosnak tartom kiemelni az alábbiakat.
+[86] 1. A Kúria eljáró tanácsa szerint az Üttv. 20. § (5) bekezdése az Alaptörvény B) cikk (1) bekezdése alapján sérti
+a normavilágosság követelményét. Az indítványozó bírói tanács hangsúlyozta, hogy álláspontja szerint a bíróság
+hivatalból köteles gondoskodni arról, hogy a törvényben meghatározott ügyvállalási korlát alá eső megbízással
+rendelkező ügyvéd perbeli képviselőként ne járhasson el. Az indítvány érvelése szerint ugyanis ezáltal biztosítható,
+hogy a bíróságnak az Alaptörvény 25. cikk (1) bekezdésében meghatározott igazságszolgáltatási tevékenysége
+ne szenvedjen csorbát. Ellene hat ugyanakkor ezen alkotmányos követelménynek, hogy az Üttv. támadott
+rendelkezésének a bírói gyakorlatban nem alakult ki egységes értelmezése, és számos esetben a bíróságok nem
+vizsgálták az ügyvállalási korlátot.
+
+[87] Az Alkotmánybíróság következetes gyakorlata szerint a jogbiztonság az államtól és elsősorban a jogalkotótól
+azt várja el, hogy a jog egésze, egyes részterületei és egyes szabályai is világosak, egyértelműek, hatásukat
+tekintve kiszámíthatóak és a norma címzettjei számára előre láthatóak legyenek {3057/2019. (III. 25.) AB határozat,
+Indokolás [15]}. Ebből tehát az következik, hogy a normavilágosság szempontjából a konkrét mérce, hogy a norma
+legyen„egyértelmű” és alkalmazása„kiszámítható” {3098/2016. (V. 24.) AB határozat, Indokolás [30]–[33]; 3296/2018.
+(X. 1.) AB határozat, Indokolás [32]}.
+[88] Az Üttv. 20. § (5) bekezdése a meghatalmazott képviseleti jogosultságát korlátozza. A Pp. 70. §-a pedig
+előírja, hogy a meghatalmazott képviseleti jogosultságát a bíróság az eljárás bármely szakaszában hivatalból
+vizsgálja. A Pp. hatályos szabályozása nem változtatott a régi Pp. szabályozásán, és annak bírói gyakorlatán:
+a bíróság a meghatalmazott képviseleti jogosultságát az eljárás folyamán (nyilvánvalóan különös figyelemmel
+az egyes eljárási szakok kezdetére, mint a keresetlevél benyújtása, az ellenkérelem előterjesztése, a fellebbezés,
+a felülvizsgálat vagy a perújítás) mindvégig hivatalból vizsgálja. Ez kiterjed a meghatalmazás alaki és tartalmi
+vizsgálatára (lásd például: EBH2010. 2195.).
+[89] Fontosnak tartom kiemelni azt is, hogy a jogi képviselet szabályszerűsége az igazságszolgáltatás fontos alkotmányos
+garanciája. Az Alkotmánybíróság hangsúlyozta ugyanis, hogy az ügyvédi tevékenység gyakorlása során az ügyvédi
+hivatás függetlensége az alkotmányos jogok – így elsősorban az igazságszolgáltatáshoz fűződő jogok –
+érvényesítésének garanciáját képezi. Ennek pedig lényeges eleme az összeférhetetlenségi szabályok érvényesülése,
+amelyek e függetlenség biztosítékai. Az Alkotmánybíróság rámutatott ezért, hogy az összeférhetetlenségi
+szabályoknak ezáltal az a céljuk, hogy kizárják az elvtelen, a megbízó érdekeivel ellentétes, avagy egyébként
+jogszerűtlen képviselet lehetőségét. Az ügyvédi megbízás ugyanakkor természeténél fogva magas szintű etikai
+követelményekkel járó bizalmi jellegű jogviszony, így indokolt, hogy a szabályozás az elvtelen képviseletnek még
+a látszatát is törekedjék elkerülni [365/B/2000. (IX. 23.) AB határozat, ABH 2002, 1147, 1151].
+[90] A fentiek alapján az alkotmányos követelmény tartalmával egyetértek. Álláspontom szerint ugyanakkor az Üttv.
+20. § (5) bekezdésének és ezzel összefüggésben a Pp. 70. §-ának az indítványban bemutatott eltérő értelmezése
+a bírói gyakorlatban a jogalkalmazás kiszámíthatóságának követelményén keresztül a jogbiztonság elvét sérti.
+Az Abtv. 46. § (3) bekezdésén alapuló jogkövetkezményt az Alkotmánybíróságnak ezért az Alaptörvény B) cikk
+(1) bekezdéséből kellett volna levezetnie.
+[91] 2. Az Abh.-hoz fűzött különvéleményemben is utaltam rá, hogy álláspontom szerint a tisztességes bírósági
+eljáráshoz való jog a bírósági eljárásban résztvevő feleket, illetve az eljárás alá vont személyeket illeti meg.
+Az eljárás során a jogi képviselet megszűnése miatt a feleket ért joghátrány ezért a felek vonatkozásában vetheti
+fel a tisztességes bírósági eljáráshoz való jog sérelmét. Erre tekintettel az indokolásnak az Alaptörvény XXVIII. cikk
+(1) bekezdésével összefüggő részeivel csak részben értek egyet.
+[92] Annak hangsúlyozását tartom fontosnak, hogy az eljáró bíróságnak az eljárási szabályok keretei között mindent meg
+kell tennie annak érdekében, hogy a megszűnt jogi képviselet miatt a feleket az eljárás során hátrány ne érje.
+Budapest, 2020. december 15.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Czine Ágnes
+alkotmánybíró helyett
+Dr. Hörcherné dr. Marosi Ildikó alkotmánybíró párhuzamos indokolása
+[93] Az Alaptörvény XXVIII. cikk (1) bekezdésében elismert tisztességes (fair, méltányos kiegyensúlyozott) bírósági
+eljáráshoz való jog védelmi körébe tartozik részben a bírósági eljárás alapjogilag egységként értékelt és védett
+minősége, részben pedig azok a részjogosítványok, amelyeket az Alaptörvény maga nevesít és amelyeket
+az Alkotmánybíróság bontott ki gyakorlata során. A bírósági eljárással kapcsolatos jogosultságok tartalmuk mellett
+a jogosulti és a kötelezetti kör, valamint a korlátozhatóság oldaláról mutatnak eltérő sajátosságokat {összefoglalóan
+lásd erről például: 3046/2019. (III. 14.) AB határozat, Indokolás [49]–[51]}.
+
+[94] A többségi indokolás által Abh.-ként hivatkozott 3179/2018. (VI. 8.) AB határozat jelen ügy szempontjából fontos
+momentuma az, hogy a testület a bírósági eljárásban jogi képviselőként eljáró ügyvéd alapjogi jogalanyiságát
+is elismerte a XXVIII. cikk (1) bekezdése kapcsán (Abh., Indokolás [49]). Eszerint a perben jogi képviselőként eljáró
+ügyvéd – meghatározott körben – „saját jogon”, ügyfele érdekeitől függetlenül is sérelmezheti a bírói döntéssel
+szemben az Alkotmánybíróság előtt a fair bírósági eljárás tartalmi követelményeit.
+[95] Az Üttv. 20. § (5) bekezdése – konkrét normakontroll hatáskörben vizsgált szabálya – meghatározott ténybeli
+körülmények között az ügyvéd perbeli jogi képviselőkénti eljárásának lehetőségét ügyhöz kötötten, avagy
+meghatározott időtartamban kizárja. A tilalom az érintett ügyvéd számára – alapjogi oldalról – korlátozást jelent.
+[96] Ahogy arra a határozat többségi indokolása – a törvényi indokolás és a megkeresett, tárgykör szerint illetékes
+miniszter állásfoglalását idézve – is utal, az Üttv. vizsgált rendelkezésének a célja az, hogy akadályát képezze a jogi
+képviselő korábbi foglalkoztatásával összefüggő információs vagy kapcsolati tőkén alapuló, avagy egyéb jellegű, de
+mindenképpen illetéktelen előny perbeli felhasználhatóságának.
+[97] Álláspontom szerint az indítvány alapján a testületnek abban a kérdésben kellett állást foglalnia, hogy az ügyvédi
+képviselet Üttv.-n alapuló fentiek szerinti korlátozása az ügyvéd XXVIII. cikk (1) bekezdésén alapuló mely
+részjogosultságát korlátozza. Emellett a korlátozást milyen alkotmányosan értékelendő cél (más alapvető jog
+érvényesülése vagy alkotmányos érték védelme) elérése teszi szükségessé, a szükségesség igenlő megválaszolása
+esetén pedig a törvényben megjelenő korlátozás arányos-e [Alaptörvény I. cikk (3) bekezdése].
+[98] A határozat rendelkező részét támogatom, mert meggyőződésem szerint a konkrét ügyhöz és a meghatározott
+időtartamhoz kötött Üttv.-beli szabály szükséges korlátja a jogi képviselő perbeli képviseleti jogának, figyelemmel
+az ellenérdekű fél (felek) alanyi és alapjogainak, például a fegyverek egyenlőségének érvényesíthetősége,
+de a bírósági eljárás alapjogilag egységként értékelt és védett minőségének megőrizhetősége miatt is. Mivel
+a szabályban előírt korlátozás mindkét esetében jól körülhatárolt, időleges, egyebekben pedig az ügyvéd korábbi
+foglalkoztatójának döntésével fel is oldható, ezért az arányosság követelménye sem sérül.
+Budapest, 2020. december 15.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Hörcherné dr. Marosi Ildikó
+alkotmánybíró helyett
+Dr. Salamon László alkotmánybíró párhuzamos indokolása
+[99] A határozat a megállapított alkotmányos követelményben tartalmilag egyértelműsíti, hogy a Pp. 70. §-ából
+és az Üttv. 20. § (5) bekezdéséből következően az eljáró bíróságnak minden esetben hivatalból kell vizsgálnia
+a meghatalmazott képviseleti jogosultságát tartalmi szempontból abban a tekintetben is, hogy nincs-e jogszabályi
+akadálya a meghatalmazott eljárásának. Nem vitatva a megállapított alkotmányos követelményt, nézetem szerint
+a jogi szabályozás hiányos abban a tekintetben, hogy milyen eljárási kötelezettségei vannak konkrétan az eljáró
+bíróságnak illetve az ügyvédi tevékenységet gyakorló meghatalmazottnak az Üttv. 20. § (5) bekezdésében foglalt
+összeférhetetlenség hivatalból történő kétséget kizáró tisztázása érdekében.
+[100] Ha ugyanis a perben eljáró ellenérdekű fél nem hivatkozik a vele szemben képviseletet ellátó ügyvédi
+tevékenységet gyakorló meghatalmazott összeférhetetlenségére (amikor is nem kérelemre történő, hanem
+a törvény rendelkezése folytán hivatalbóli vizsgálat kötelezettségének esete áll fenn), kérdés, hogy hivatalból milyen
+természetű eljárási lépésre van lehetősége (illetve mi a konkrét kötelezettsége) a bíróságnak az összeférhetetlenség
+kétséget kizáró tisztázására, és milyen kötelezettséggel terhelhető a hivatalbóli vizsgálat érdekében az ügyvédi
+tevékenységet gyakorló meghatalmazott. (Ilyen lehet például az ügyvédi tevékenységet gyakorló vonatkozásában
+annak előírása, hogy a keresetlevélben vagy az ellenkérelemben tegyen minden esetben nyilatkozatot
+az összeférhetetlenséget illetően, vagy a bíróságot érintően más, a fenti célt szolgáló konkrét eljárási lépések
+meghatározása.)
+
+[101] Mivel eljárási jogokról (kötelezettségről), illetve ezeket realizáló (megvalósító) eljárási lépésekről van szó,
+az eljárásjog természetéből kiindulva ezek tételes szabályozását nem tartom mellőzhetőnek. Ennek hiányában
+nézetem szerint sérül az Alaptörvény B) cikk (1) bekezdésében foglalt jogállamiság (jogbiztonság) követelménye,
+mire is tekintettel az alkotmányos követelmény megállapítása mellett indokolt lett volna az Abtv. 46. §
+(1) bekezdésének alkalmazásával jogalkotói mulasztás megállapítása és a jogalkotó felhívása a mulasztás pótlására.
+Budapest, 2020. december 15.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Salamon László
+alkotmánybíró helyett
+Dr. Sulyok Tamás alkotmánybíró párhuzamos indokolása
+[102] Egyetértek az elfogadott határozat rendelkező részével és az indokolás főbb irányával, ugyanakkor fontosnak tartom
+az üggyel kapcsolatban az alábbi alkotmányjogi jelentőségű összefüggések bemutatását és hangsúlyozását.
+[103] A bírói kezdeményezés az ügyvédi törvény rendelkezésével [Üttv. 20. § (5) bekezdés] és perjogi alkalmazásával
+kapcsolatban fogalmazott meg alkotmányossági aggályokat. A kezdeményezés elbírálásakor álláspontom szerint
+nem mellőzhető az ügyvédi hivatással kapcsolatos alkotmányjogi szempontú vizsgálat lefolytatása és a jelen
+ügyben is releváns alkotmánybírósági gyakorlat értékelése.
+[104] Az ügyvédek alkotmányjogi helyzetével kapcsolatban az Alkotmánybíróság több elvi jelentőségű, a jelen ügyhöz is
+közvetlenül kapcsolódó megállapítást tett, amelyek egy része ugyan még a korábbi Alkotmányon alapult, de ezeket
+az Alaptörvény hatályba lépése utáni alkotmánybírósági gyakorlat is megerősítette.
+[105] Az ügyvédi hivatás közvetlen alapjogi védelem alatt áll, amely egyrészt a munka és a foglalkozás szabad
+megválasztásán keresztül érvényesül, továbbá mind a hatósági mind a bírósági eljárások tisztességességének
+keretében értelmezhető, hiszen az ügyvéd egyes, a tisztességes eljáráshoz való jog részjogosítványainak védelmét
+és érvényesítését hivatott előmozdítani {Abh., Indokolás [45]}.
+[106] Az ügyvédi hivatás alkotmányjogi jelentőségű jellemzője a funkcionális függetlenség. A funkcionális függetlenség
+azt a követelmény támasztja az ügyvéddel szemben, hogy független legyen a közhatalomtól, másrészt az ügyfele
+érdekeit hátrányosan érintő befolyástól. Az Alkotmánybíróság a 428/B/1998. AB határozatában megállapította, hogy
+az ügyvédi hivatás az alkotmányos alapjogok érvényesítésének garanciális eszközeként más hivatásoktól eltérő,
+„lényegesen nagyobb mértékű, szélesebb körű, […] kivételes függetlenséggel párosul. Alapvető jellemzője továbbá,
+hogy az ügyvéd tevékenysége az ügyfelek bizalmára épül és az ügyvédi kar bármelyik tagjának a közbizalmat sértő
+magatartása – egyebek közt éppen az ügyvédi kar önállósága, függetlensége folytán – szélesebb körben, az egész
+hivatást, az ügyvédi hivatás tekintélyét, másrészt az állami szervektől különálló köztestület, a szakmai kamara többi
+tagját is közvetlenebb módon érinti.”{ABH 2004, 1236, 1243, idézi és megerősíti: Abh., Indokolás [46]}
+[107] Az ügyvédi hivatás szabályozásának alapjogvédelmi tartalma és funkciója eredményezi azt, hogy más hivatásokkal
+szemben az„ügyvédi foglalkozás gyakorlásának tevékenységformái normatívan előírtak és formalizáltak”, és közjogi
+jellegűek {ABH 1994, 127, 132; ABH 2004, 1561, 1569; 3380/2012. (XII. 30.) AB határozat, Indokolás [16]}. Az ügyvédi
+hivatásra irányadó szabályok ellenőrzését a szakmai kamara végzi, amely kamarával szemben szintén érvényesül
+a közbizalom és az ügyvédi függetlenség: annak „az ügyvédi kamara mint köztestületi szerv ad garanciát és
+nyomatékot”[ABH 1994, 127, 131; ABH 2009, 2183, 2193].
+[108] Az ügyvédi hivatás funkcionális függetlenségének alkotmányos pozíciójából vezethetőek le azok a szakjogi
+követelmények, amelyek részben az egyes eljárásjogi törvényekben foglalt eljárásjogi jogosítványokban, részben
+a hivatásrendre vonatkozó jogállási normákban jutnak érvényre.
+[109] A bírói kezdeményezéssel érintett jogintézmény is ezen rendszer egyik eleme, és mint ilyen hozzájárul
+az igazságszolgáltatás rendes működésének biztosításhoz, illetve az ügyvédséggel szembeni közbizalom
+fenntartásához. A vizsgált norma alkotmányossági vizsgálatakor irányadónak tartom az összeférhetetlenségi
+szabályokkal összefüggésben kimunkált alkotmánybírósági gyakorlatot, amelynek elvi tételei álláspontom
+szerint jelen ügyben is alkalmazandóak. Az Alkotmánybíróság megállapította, hogy „[m]ás oldalról tekintve
+az összeférhetetlenségi szabályoknak az a céljuk, hogy kizárják az elvtelen, a megbízó érdekeivel ellentétes, vagy
+egyébként jogszerűtlen képviselet lehetőségét. Az ügyvédi megbízás ugyanakkor természeténél fogva magas szintű
+
+etikai követelményekkel járó bizalmi jellegű jogviszony, így indokolt, hogy a szabályozás az elvtelen képviseletnek
+még a látszatát is törekedjék elkerülni.”{ABH 2002, 1147, 1151; idézi és megerősíti: Abh., Indokolás [47]}
+[110] Az ügyvédi hivatással szembeni közbizalom fenntartásához, az alkotmányos alapjogok érvényesítéséhez szükséges
+funkcionális függetlenség azt a követelményt támasztja az ügyvédre irányadó alapvetően közjogi szabályozással
+szemben, hogy kizárja az elvtelen, a megbízó érdekeivel ellentétes vagy egyébként jogszerűtlen képviselet
+lehetőségét. Ez más oldalról azt jelenti, hogy az ügyvállalási korlát megsértése, és ennek perjogi következményeinek
+elmaradása aláássa az ügyvédi hivatás funkcionális függetlenségét, az ügyvédi karral szembeni közbizalmat is. Ha
+az ügyvéd a tisztességes eljáráshoz való alapjog egyes részjogosítványait gyakorolja, akkor azt törvényesen kell,
+hogy tegye és e körben kiemelt jelentősége van a garanciális szabályok betartásának, amelyek elősegítik azt, hogy
+az eljárás tisztességes és pártatlan legyen.
+[111] Mindezekből az alkotmányjogi érvekből következik véleményem szerint az, hogy az ügyvállalási korlát
+jogintézménye nem alaptörvény-ellenes és az ügyvállalási korláttal ellentétes jogcselekményeket perjogi szankciók
+is sújtják. Összességében úgy vélem, hogy a párhuzamos indokolásomban foglalt alkotmánybírósági határozatok
+és alkotmányos összefüggések részletesebb ismertetése mindenképpen szükségesek ahhoz, hogy az érdemi
+alkotmányossági vizsgálat megalapozott legyen. Ezen megállapítások nélkül ugyanis nehezen ítélhető meg ennek
+a fontos alkotmányossági kérdésnek az érdemi vetülete.
+Budapest, 2020. december 15.
+Dr. Sulyok Tamás s. k.,
+alkotmánybíró
+Dr. Schanda Balázs alkotmánybíró különvéleménye
+[112] A határozat rendelkező részében kimondott alkotmányos követelménnyel nem értek egyet. Nem látom
+alátámasztottnak, hogy a tisztességes eljáráshoz való jogból kényszerítően következik az, hogy az ügyvéd
+képviseleti jogosultságának Pp. szerinti vizsgálata szükségszerűen kiterjed annak vizsgálatára is, hogy az ügyvéd
+a korábbi munkáltatójával szemben vállalhatja-e az adott per vitelét.
+[113] Az Alaptörvény XXVIII. cikk (1) bekezdése szerint „mindenkinek joga van ahhoz, hogy az ellene emelt bármely
+vádat vagy valamely perben a jogait és kötelezettségeit törvény által felállított, független és pártatlan bíróság
+tisztességes és nyilvános tárgyaláson, ésszerű határidőn belül bírálja el”. Az Alaptörvény eme rendelkezése a felek
+számára biztosít jogot, kötelezettje pedig egyrészt a bíróság (folytassa le tisztességesen az eljárást), másrészt
+az állam (teremtse meg ennek garanciáit). Az eljárás tisztességessége felett őrködő és az ítéletet meghozó
+bíró függetlensége és pártatlansága nem állítható párhuzamba az eljárás egyéb szereplőinek (így a képviselő)
+függetlenségével. Az ügyvédekkel szembeni közbizalom fontos és alkotmányosan elismert érték, de nem
+a tisztességes eljáráshoz való jog részjogosítványa.
+[114] Amennyiben egy képviselő az Ütv. 20. § (5) bekezdését megsértve vállal képviseletet, ez megalapozhatja fegyelmi és
+polgári jogi felelősségét, de ennek vizsgálata véleményem szerint meghaladja az alapügy kereteit.
+Budapest, 2020. december 15.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Schanda Balázs
+alkotmánybíró helyett
+
+VIII. A Kúria határozatai
+A Kúria Önkormányzati Tanácsának Köf.5026/2020/4. számú határozata
+Az ügy száma: Köf.5026/2020/4.
+A tanács tagja: Dr. Balogh Zsolt, a tanács elnöke, Dr. Kiss Árpád Lajos előadó bíró, Dr. Varga Eszter bíró
+Az indítványozó: Győri Törvényszék
+Az érintett önkormányzat: Győr Megyei Jogú Város Önkormányzata (9021 Győr, Városház tér 1.)
+Az ügy tárgya: önkormányzati rendelet törvényességének vizsgálata
+Rendelkező rész
+A Kúria Önkormányzati Tanácsa
+– megállapítja, hogy Győr Megyei Jogú Város Önkormányzata Közgyűlésének a Győri Építési Szabályzatról
+(GYÉSZ-ről) és Győr Szabályozási Tervéről szóló 1/2006. (01.25.) Ök. rendelet 103. §-ának a 03965 övezeti
+sorszámmal jelölt előírása törvénysértő, ezért azt ezen határozat közzétételével megsemmisíti;
+– megállapítja, hogy Győr Megyei Jogú Város Önkormányzata Közgyűlésének a Győri Építési Szabályzatról
+(GYÉSZ-ről) és Győr Szabályozási Tervéről szóló 1/2006. (01.25.) Ök. rendelet 103. §-ának a 03965 övezeti
+sorszámmal jelölt előírása nem alkalmazható a Győri Törvényszék előtt 1.K.700.211/2020. számon
+folyamatban lévő perben, valamint valamennyi, a jelen határozat meghozatalának időpontjában valamely
+bíróság előtt folyamatban lévő egyedi ügyben;
+– elrendeli határozatának a Magyar Közlönyben való közzétételét;
+– elrendeli, hogy a határozat közzétételére – a Magyar Közlönyben való közzétételt követő 8 napon belül –
+az önkormányzati rendeletek kihirdetésével azonos módon kerüljön sor.
+Ezen határozat ellen jogorvoslatnak nincs helye.
+Indokolás
+Az indítvány alapjául szolgáló tényállás
+[1] A Győri Hulladékégető Kft. a Győr, …/2 hrsz.-ú ingatlanon végzi különböző hulladékok égetéssel történő
+ártalmatlanítását, hasznosítását és előkezelését, melyre 8.000 tonna/év kapacitásra egységes környezethasználati
+engedéllyel rendelkezik. A kapacitásbővítés iránti kérelmében a kapacitás 12.000 tonna/évre történő emelésének
+engedélyezését kérte.
+[2] A Győr-Moson-Sopron Megyei Kormányhivatal az elsőfokú határozatával évi 12.000 tonna hulladékmennyiség
+hulladékártalmatlanítási, hulladékhasznosítási előkezelési tevékenységre vonatkozóan hulladékgazdálkodási
+engedélyt, levegőtisztaság-védelmi engedélyt, környezetvédelmi működési engedélyt és egyben egységes
+környezethasználati engedélyt adott a Győri Hulladékégető Kft. alperesi érdekelt részére. A határozat XII. fejezet
+A) pontja szerint a hatóság azzal engedélyezte a kapacitásbővítést, hogy:
+„1. a jelen határozatban foglalt tevékenység, kizárólag a Győr MJV Közgyűlése 1/2006. (I.25.) Ök. rendelettel
+jóváhagyott Győr város szabályozási terve és helyi építési szabályzata (GYÉSZ) – mely szerint a 03965* sz.
+Hulladékkezelők és – lerakók különleges övezet (Khu) övezetbe van sorolva, az övezet egyedi előírása alapján
+a 2005-ben engedélyezett feldolgozási kapacitás tovább nem növelhető – tárgyi …/20 hrsz.-ú ingatlanra vonatkozó
+kapacitásbővítést engedélyező egyedi előírásainak módosításával végezhető el.
+2. A fenti GYÉSZ módosításról szóló döntést a Hatósághoz, annak jogerőre emelkedésétől számított 15 napon belül
+el kell juttatni.
+3. Amíg a győri …/2 helyrajzi számú ingatlan Győr MJV Közgyűlése 1/2006. (I.25.) Ök rendelettel jóváhagyott
+Győr város szabályozási terve és helyi építési szabályzata (GYÉSZ) szerint a 03965* sz. Hulladékkezelők és lerakók
+
+különleges övezet (Khu) övezetbe van sorolva, az övezet egyedi előírásai alapján a 2005-ben engedélyezett
+feldolgozási kapacitás tovább nem növelhető, és amíg ez az előírás módosításra nem kerül, addig az Ügyfél részére
+összesen 8000 t/év – 7000 t/év veszélyes hulladék, 1000 t/év nem veszélyes hulladék – az égetési technológiába
+átvehető hulladék mennyisége. A fenti mennyiségen belül a hasznosításra átvehető hulladékok mennyisége
+– amennyiben minimálisan a hulladék fűtőértéke a 13 MJ/kg értéket meghaladja 4.800 t/év – 4.200 t a veszélyes
+hulladék, 600 t/év a nem veszélyes hulladékok.”
+[3] A Pest Megyei Kormányhivatal, mint másodfokú hatóság a 2019. november 11. napján kelt, PE/KTFO/2497-
+10/2019. számú határozatával az elsőfokú határozatot megváltoztatta és többek között az elsőfokú határozat
+XII. fejezet A) pontjának törléséről rendelkezett. A határozat indokolása tartalmazza, hogy a Győr Megyei Jogú
+Város Önkormányzata Közgyűlésének a Győri Építési Szabályzatról (GYÉSZ-ről) és Győr Szabályozási Tervéről
+szóló 1/2006. (01.25.) Ök. rendelet (a továbbiakban: GYÉSZ) alapját többek között az épített környezet alakításáról
+és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. § (6) bekezdés 6. pontja képezi, amely
+szerint felhatalmazást kap a települési önkormányzat, hogy rendeletben állapítsa meg a helyi építési szabályzatát.
+A másodfokú hatóság utalt továbbá az Étv. hatályát rögzítő 1. § (1) bekezdésre, a helyi építési szabályzat fogalmát
+tartalmazó 2. § 11. pontra, a településfejlesztés és településrendezés célját tartalmazó 10. § (1) bekezdésre, valamint
+az Étv. 13. § (1) bekezdésére és arra, hogy az Alaptörvény 32. § (3) bekezdése szerint az önkormányzati rendelet
+más jogszabállyal nem lehet ellentétes. A hatóság kiemelte, hogy a GYÉSZ az Étv. felhatalmazása alapján született,
+szabályozása az önkormányzat közigazgatási területének településszerkezetére, annak területén történő építésekre,
+épületek elhelyezésére terjed ki és terjedhet ki. Tekintettel arra, hogy az engedélyes ált kért kapacitásnövelés
+további épületek építésével nem jár, hanem a meglévő épületek kihasználása és kihasználtsága fog növekedni, így
+a GYÉSZ-t nem lehet úgy értelmezni, hogy az megtiltja az ilyen formájú, típusú kapacitásnövelést.
+[4] A jogerős határozattal szemben Győr Megyei Jogú Város Önkormányzata keresettel élt, melynek folytán
+a közigazgatási per a Győri Törvényszék előtt 1.K.700.211/2020. számon van folyamatban. A kereset szerint a jogerős
+közigazgatási határozat jogszabálysértő, mert az elsőfokú határozatból törölt rendelkezés azt eredményezi, hogy
+a kapacitás bővítésére a GYÉSZ rendelkezéseivel ellentétesen, jogszabályba ütköző módon kerülhet sor.
+Az indítvány és az önkormányzat védirata
+[5] A Győri Törvényszék (a továbbiakban: az indítványozó) az előtte folyó eljárásban az 1.K.700.211/2020/10. számú
+végzésében a közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban: Kp.) 144. §-a értelmében
+indítványozta annak megállapítását, hogy a GYÉSZ 103. §-ának 03965 övezeti sorszámmal jelölt előírása az Étv. 1. §
+(1) bekezdésébe, 2. § 11. pontjába és 13. § (1) bekezdésébe ütközik, kérte továbbá, hogy a Kúria Önkormányzati
+Tanácsa ezen rendelkezést a Kp. 146. § (1) bekezdés a) pontja alapján semmisítse meg. Az indítványozó egyidejűleg
+az eljárását felfüggesztette.
+[6] Az indítvány szerint az önkormányzat a hulladékégető – építési tevékenységgel nem járó – működési kapacitásának
+növelését annak ellenére tiltotta meg a GYÉSZ-ben, hogy az nem tartozik a helyi építés rendjének szabályozási
+körébe. A helyi építési szabályzat tartalmi kereteit meghatározó Étv. 13. § (1) bekezdés sem engedi a helyi építési
+szabályzat fogalmának olyan kiterjesztő értelmezését, hogy a települési önkormányzat a helyi építés rendjére
+hivatkozással korlátozhatja a hulladékégető működési teljesítményét. Ebből következően az Étv. 13. § (1) bekezdése
+nem biztosít jogkört arra, hogy a települési önkormányzat a helyi építési szabályzatban előírja a hulladékégető által
+„feldolgozható”, ártalmatlanítható hulladék mennyiségét.
+[7] A Kúria a Kp. 140. § (1) bekezdése alapján alkalmazandó 42. § (1) bekezdése alapján az érintett önkormányzatot
+felhívta az indítványra vonatkozó nyilatkozata megtételére. Az önkormányzat védiratában az indítvány elutasítását
+kérte. Hivatkozott arra, hogy az „építés rendje” kifejezés alatt nem lehet kizárólag az építési tevékenységgel
+kapcsolatos előírásokat érteni, az Étv. 3. § (1) bekezdés b) pontja szerint ugyanis az épített környezet alakítását és
+védelmét a jogszabályokban előírt építészeti, településképi műszaki, biztonsági, egészségügyi, rendeltetési és
+használati, továbbá környezet- és természetvédelmi követelményekkel összhangban kell megvalósítani. A GYÉSZ
+pedig az építés rendjét annak feltételeinek és módjának meghatározással szabályozza.
+[8] Az önkormányzat utalt az Étv. és az országos településrendezési és építési követelményekről szóló 253/1997.
+(XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) GYÉSZ megalkotásának időpontjában hatályos rendelkezéseire,
+kiemelve, hogy ezen rendelkezések előírták, hogy az érintett terület lakosságának életkörülményeiben bekövetkező
+hátrányos következmények elhárítása vagy csökkentése érdekében figyelemmel kell lenni az érintettek
+értékrendjére, szociális helyzetére, ezek várható változására, továbbá vizsgálni kell a lakosság életkörülményeit és
+
+igényeit, ezen rendelkezések megengedték a felhasználás korlátozásának szabályozását. A GYÉSZ megalkotására
+megfelelő jogszabályi felhatalmazás mellett, a környezeti szempontok figyelembevétele mellett került sor.
+[9] Az önkormányzat kifejtette, hogy a GYÉSZ hivatkozott rendelkezésének megalkotását megelőzően széleskörű
+társadalmi egyeztetést folytatott le, melynek eredményeként „a jogalkotó egyértelműen a meglévő állapot
+konzerválását célozta meg a településrendészeti eszköz készítésekor. Az égetőmű működését adottságnak tekintve,
+az övezeti előírást nem változtató, meglévő rendeltetést és használati módot nem tiltó, vagy korlátozó szabályt
+alkotott”. Az egyeztetések során a beépítési százalék is megemelésre került. „Ennek az »alkunak« a következménye
+volt, hogy a GYÉSZ 103. §-ba egyedi előírás került”. A véleménye szerint a megalkotott szabályozásra az OTÉK 7. §
+(5) bekezdés 1. pontja biztosított lehetőséget.
+A Kúria Önkormányzati Tanácsa döntésének indokolása
+[10] Az indítvány az alábbiak szerint megalapozott.
+[11] A Kúria Önkormányzati Tanácsa az indítványt a Kp. 141. § (2) bekezdése alapján tárgyaláson kívül bírálta el. A Kp.
+140. § (1) bekezdése szerint az indítványra a keresetlevél szabályait kell alkalmazni.
+[12] Az indítvánnyal érintett GYÉSZ rendelkezés a következő:
+A GYÉSZ V. fejezet 103. §-ában található táblázat alábbi sora:
+Övezet sorszáma Előírás
+03965 A 2005-ben engedélyezett feldolgozási kapacitás tovább nem növelhető.
+[13] A Kúriának az indítvány alapján abban a kérdésben kellett állást foglalni, hogy az önkormányzatnak lehetősége
+van-e a helyi építési szabályzatban a hulladékfeldolgozási kapacitás szabályozására.
+[14] Elsőként az állapítható meg, hogy a támadott szabály, rendeletbe foglalt egyedi döntésnek tekinthető, amennyiben
+egy meghatározott jogalany – a Győri Hulladékégető Kft. – tevékenységére, tervezett kapacitásbővítésére
+vonatkozik. A rendelkezés egyedi döntés jellegét az önkormányzat is elismerte védiratában.
+[15] A Kúria már a Köf.5.047/2013/3. számú határozatában megállapította, hogy az Alaptörvény hatálybalépését
+követően „a Kúria – a normakontroll keretében – az önkormányzati rendeletek törvényességi vizsgálatát végzi,
+önálló törvényértelmezés keretében. A Kúria normakontroll eljárása során fennállónak tekinti hatáskörét a normába
+foglalt egyedi döntések törvényességi vizsgálatára is. Az Alaptörvény 25. cikk (2) bekezdés c) pontjába foglalt
+hatáskör, azaz az önkormányzati rendeletek törvényességi vizsgálata kiterjed az önkormányzati rendeletbe és
+azok mellékleteibe foglalt valamennyi rendelkezés vizsgálatára, függetlenül attól, hogy azok normatív vagy
+– tartalmában – egyedi döntést tartalmaznak. Ha nem így lenne, akkor a törvényességi vizsgálat – és egyben
+mindenfajta bírói felülvizsgálat – alól kikerülnének a rendeletbe foglalt egyedi döntések. Mindez – azon túl, hogy
+jogorvoslati problémákat is felvet – az önkormányzati működés törvényességi vizsgálatával kapcsolatos bírósági
+feladatoktól is idegen lenne.”
+[16] Az Alaptörvény 32. cikk (3) bekezdése szerint az önkormányzati rendelet más jogszabállyal nem lehet ellentétes.
+Az Alkotmánybíróság következetes gyakorlata szerint „a jogállamiság alkotmányos alapját jelentő jogbiztonság
+elvének egyik garanciája a jogforrási hierarchia érvényesülése. A jogforrási hierarchia azt jelenti, hogy
+az alacsonyabb szintű jogszabály tartalma nem lehet ellentétes magasabb szintű jogszabály rendelkezéseivel”
+{3132/2013. (VII. 2.) AB határozat, Indokolás [42], 3152/2016. (VII. 22.) AB határozat, Indokolás [14], 3019/2017. (II. 17.)
+AB határozat, Indokolás [26]}. Az Alaptörvény juttatja kifejezésre a hierarchikus rendet, a jogszabályok egymáshoz és
+az Alaptörvényhez való viszonyát.
+[17] A Kúria kiemeli, hogy az, hogy az önkormányzati rendelet más jogszabállyal nem lehet ellentétes nem korlátozódhat
+az önkormányzati rendelet megalkotásakor hatályos jogszabályokkal való összeütközés tilalmára, az önkormányzati
+rendelet ugyanis a jogforrási hierarchiában elfoglalt helye alapján sem megalkotásakor, sem azt követően nem lehet
+ellentétes más jogszabállyal. Mindez következik az Alaptörvény jogállamiságot deklaráló B) cikk (1) bekezdéséből és
+a jogbiztonság alapelvéből is.
+[18] Az Önkormányzati Tanács a Köf.5031/2012/11. számú határozata óta követett gyakorlata szerint a Kúria
+Önkormányzati Tanácsa az önkormányzati rendeletek törvényességi vizsgálata során az önkormányzati rendeleteket
+mindig a hatályos törvényekhez és a hatályos más jogszabályokhoz méri. A Kúria Önkormányzati Tanácsának
+– az Alaptörvény 25. cikk (2) bekezdés c) pontjában és a Bszi. 24. § (1) bekezdés f) pontjában foglalt hatáskörében
+eljárva – az Alaptörvényből és törvényből eredő feladata, hogy az önkormányzati normákat a törvényekkel
+
+összhangba hozza, illetőleg – az új jogalkotást tekintve – összhangban tartsa. Az önkormányzati rendszer hatályos
+szabályainak a mindenkor hatályos törvényekkel és más jogszabályokkal kell összhangban állni.
+[19] Nem annak volt tehát jelentősége az ügyben, hogy a GYÉSZ megalkotásakor milyen tartalmú jogszabályok voltak
+hatályban, hanem annak, hogy a támadott rendelkezés ellentétes-e más jogszabállyal.
+[20] Az Alaptörvény 32. cikk (2) bekezdése alapján az önkormányzatok egyrészt eredeti rendeletalkotó hatáskörrel
+rendelkeznek (törvény által nem szabályozott helyi társadalmi viszonyok rendezésére) másrészt törvényben kapott
+felhatalmazás alapján alkothatnak önkormányzati rendeletet (származékos rendeletalkotó hatáskör).
+[21] A települési önkormányzatok helyi építési szabályzat tárgyú rendelet alkotására való felhatalmazását az Étv. 62. §
+(6) bekezdés 6. pontja alapján biztosítja.
+[22] Az Étv. 1. § (1) bekezdése szerint az Étv. hatálya kiterjed az épített környezet alakítása és védelme körébe tartozóan:
+a) a településfejlesztésre és a települések területének rendezésére (a továbbiakban: településrendezés),
+b) a településfejlesztés tervezése és a településrendezés tervezésére (a továbbiakban: településtervezés),
+c) az épületek, műtárgyak (a továbbiakban együtt: építmények), valamint az építési munkák és építési
+tevékenységek építési előírásainak kialakítására,
+d) az építmények építészeti-műszaki tervezésére (a továbbiakban: építészeti-műszaki tervezés),
+e) az építmények kivitelezésére,
+f) az építési termékek, anyagok, szerkezetek, berendezések és módszerek minőségi követelményeinek
+kialakítására,
+g) az épített környezet emberhez méltó és esztétikus kialakítására, valamint az építészeti örökség védelmére,
+h) a települések zöldfelületeivel kapcsolatos munkákra,
+i) az a)–h) pontok körébe tartozó kutatásra, műszaki fejlesztésre és ezek eredményének alkalmazására,
+j) az a)–i) pontokban foglaltakkal kapcsolatos feladatokra, hatáskörökre és hatósági jogkörökre, továbbá
+k) az a)–j) pontokban foglaltakra vonatkozó szabályok megállapítására, alkalmazásuk ellenőrzésére és érvényre
+juttatására (a továbbiakban együtt: építésügy).
+[23] Az Étv. 2. § 11. pontja szerint helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően
+megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet, a Duna-parti építési szabályzat és
+a Városligeti építési szabályzat.
+[24] Az Étv. 13. § (1) bekezdése rögzíti, hogy az építés helyi rendjének biztosítása érdekében a települési
+önkormányzatnak az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település
+közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek
+védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi
+építési szabályzatban kell megállapítania.
+[25] Az OTÉK 1. § (1) bekezdése szerint területet használni, építmény elhelyezésére felhasználni, telket alakítani, építés
+alapjául szolgáló tervet elkészíteni, építményt építeni, átalakítani, bővíteni, felújítani, helyreállítani, korszerűsíteni,
+elmozdítani vagy lebontani, továbbá az építmény rendeltetését megváltoztatni e rendelet, valamint a helyi építési
+szabályzat rendelkezései szerint szabad.
+[26] A Kúria megállapította, hogy a helyi építési szabályzat speciális tartalmú önkormányzati rendelet, a szabályozási
+tárgyköre nem lehet tetszőleges, az így csak az építés rendjének a helyi sajátosságoknak megfelelő szabályozását
+tartalmazhatja. Az építés rendje ennek megfelelően az Étv. és az OTÉK hivatkozott rendelkezései között
+értelmezhető.
+[27] A jogalkotás alkotmányos és törvényből fakadó követelményeitől nem idegen, hogy meghatározott tárgykört
+szabályozó normák esetén az adott tárgykörrel össze nem függő szabályokat e speciális normában nem lehet
+elhelyezni. Ennek oka, hogy a speciális tárgykörű jogszabályok előkészítéséhez, megalkotásához, általában speciális
+jogalkotási eljárás vezet.
+[28] Az Alkotmánybíróság a 4/2006. (II. 15.) AB határozatában a Magyar Köztársaság 2005. évi költségvetéséről szóló
+2004. évi CXXXV. törvényből megsemmisítette azokat a rendelkezéseket, amelyek más törvények módosításait
+is tartalmazták. Az Alkotmánybíróság megállapította, hogy a költségvetés speciális tárgyára tekintettel
+– az Országgyűlés jóváhagyja az állami költségvetést – a költségvetési törvényhez semmilyen más törvény
+nem kapcsolódhat, a további törvényi módosítások a kiemelt tárgynak a szabályozásától elválasztandók.
+Az Alkotmánybíróság azt is megállapította, hogy a speciális előkészítési és végrehajtási eljárással megalkotandó
+normák ekkénti megőrzése a demokratikus jogalkotási eljárástól elválaszthatatlan.
+[29] Az önkormányzati rendeletalkotást tekintve is találunk speciális szabályozási tárgyakat. Ilyennek tekinthetjük
+az önkormányzatok szervezeti-és működési szabályzatáról szóló rendeletét [Alaptörvény 32. cikk (1) bekezdés
+d) pont, Mötv. 53. §] amelynek megalkotásához vezető eljárás és annak tárgya is kötött. Speciális normának
+
+tekinthetjük továbbá az önkormányzat költségvetéséről és zárszámadásról szóló rendeletét [Alaptörvény 32. cikk
+(1) bekezdés f) pont, Mötv. 111–116. §-ok], de speciális tárgyú jogszabályok a településrendezési eszközök
+[Étv. 9/B. § (2) bekezdés], köztük a helyi építési szabályzat is. Az Étv. 13. § (1) bekezdése – a fent bemutatott módon –
+meghatározza a helyi építési szabályzat szabályozásának célját a 13. § (2) bekezdés pedig a szabályozási tárgyakat,
+amelyeket építési tevékenység esetén figyelembe kell venni (pl. övezetet, megengedett legnagyobb beépítettséget,
+szabályozási vonalat stb.).
+[30] A Kúria rámutat: a településrendezési eszközök, így a helyi építési szabályzat elfogadási eljárása eltér
+az önkormányzati rendeletalkotás általános szabályaitól. Eltér, amennyiben előre meghatározott
+véleményezési és egyeztetési eljárás kell, hogy megelőzze a normaalkotást [Étv. 8. §, 30/C. §]. A jelenleg
+hatályos Étv. 8. § (2) bekezdése értelmében a településfejlesztési koncepciót, az integrált településfejlesztési
+stratégiát és a településrendezési eszközöket a települési önkormányzat a településfejlesztési koncepció,
+az integrált településfejlesztési stratégia és a településrendezési eszközök elkészítéséről és elfogadásáról
+szóló kormányrendeletben foglaltak szerint a megállapításuk előtt véleményezteti. (2013. január 1 előtt
+a véleményeztetési eljárás szabályait az Étv. 9. §-a tartalmazta.)
+[31] A Kúria többször vizsgálta már a helyi építési szabályzat megalkotásához kapcsolódó speciális eljárási szabályok
+betartását. A Kúria a Köf.5055/2013. számú határozatában megállapította, hogy az érdekelt államigazgatási
+szervekkel való egyeztetés kötelezettsége és a lakosság bevonása az eljárásba olyan garanciális jellegű eljárási
+követelményeket jelent, amelyeket a jogi szabályozás nem ír elő más önkormányzati rendelet megalkotása során.
+Megállapítható így, hogy az önkormányzat képviselő-testülete nem rendelkezik szabad döntési lehetőséggel
+abban a tekintetben, hogy a helyi építési előírások megállapításáról az Étv.-ben szabályozott eljárási rendben
+elfogadott helyi építési szabályzatban, vagy ezen eljárási kötöttségek nélkül elfogadott önkormányzati rendeletben
+rendelkezik-e. (Ezt az értelmezést megerősítette később pl. a Köf. 5030/2018/3. számú határozat is [38]).
+[32] Megállapítható tehát, hogy a jogalkotási eljárás különös garanciái érvényesülnek a helyi építési szabályzat esetén
+is, az építési szabályzatról szóló önkormányzati rendelet is olyan jogszabály, amelyben csak a törvényekben
+meghatározott tárgyak szabályozhatók, az építés rendjétől való eltérő szabályoknak a helyi építési szabályokban
+nincs helye.
+[33] Az érintett önkormányzat hivatkozásival ellentétben továbbá nem bővíti a helyi építési szabályzat megalkotására
+vonatkozó jogalkotási felhatalmazás kereteit az, hogy az Étv. 3. § (1) bekezdés b) pontja szerint a környezet- és
+természetvédelmi követelményeket is szem előtt kell tartani.
+[34] Ebből következően a hulladékfeldolgozási kapacitás korlátozása nem tekinthető az építés rendjének körébe tartozó,
+helyi építési szabályzat által meghatározható rendelkezésnek, a GYÉSZ V. fejezet 103. §-ában található vizsgált
+rendelkezés nem függ össze az építés rendjének helyi sajátosságok szerinti megalkotásával, mivel a szabály így
+önmagában egy kapacitásbővítési tilalmat tartalmaz. Mint ahogy az ügy irataiból is kiderül a Győri Hulladékégető
+Kft. – mint a norma címzettje – a kapacitásbővítést építési tevékenység nélkül is meg tudja valósítani, viszont
+a GYÉSZ-ben foglalt tilalom erre az esetre is vonatkozik. Az önkormányzat ezért olyan szabályt foglalt a helyi építési
+szabályzatba, mint speciális önkormányzati normába, amely független az építésügy helyi szabályozásától.
+[35] A Kúria megítélése szerint az önkormányzat védiratában megjelölt OTÉK 4. § (3) bekezdése és 7. § (5) bekezdés
+e) pontja nem ad felhatalmazást a GYÉSZ indítványban támadott rendelkezésének megalkotására. Az OTÉK 4. §
+(3) bekezdésében is az építés rendjével összefüggő szabályok megalkotása szerepel, a 7. § (5) bekezdés 1) pontja
+pedig az övezetek felhasználásról szól. A Kúria egyébiránt megjegyzi, hogy az OTÉK mint kormányrendelet,
+az Alaptörvény 32. cikk (2) bekezdése alapján, törvénynél alacsonyabb szintű jogszabályként már jogforrási
+minősége miatt sem hatalmazhat fel, vagy kötelezhet önkormányzatot rendeletalkotásra.
+[36] Mindezek alapján megállapítható, hogy a GYÉSZ indítvánnyal érintett rendelkezései ellentétesek az Étv. hivatkozott
+rendelkezéseivel, ezért a Kp. 146. § (1) bekezdése szerint megállapította azok más jogszabályba ütközését, illetve
+azokat az a) pont rendelkezései alapján megsemmisítette. A Kp. 147. § (1) bekezdése szerint a megsemmisített
+önkormányzati rendelet, illetve annak rendelkezése nem alkalmazható a bíróság előtt folyamatban lévő egyedi
+ügyben, valamint valamennyi, a megsemmisítés időpontjában valamely bíróság előtt folyamatban lévő egyedi
+ügyben. A Kúria ez alapján általános alkalmazási tilalmat rendelt el.
+[37] A Kúria végezetül megjegyzi, hogy a fentebb kifejtettek nem jelentik egyúttal azt is, hogy a helyi önkormányzat
+az általa a védiratában hivatkozott célok elérése érdekében eszköztelen lenne. A hulladékégetői kapacitása
+növelésének korlátozása lehet legitim cél, egy ilyen törekvés az Alaptörvény 31. cikk (1) bekezdésben meghatározott
+helyi közügynek tekinthető. Az önkormányzat – mint ahogy azt a védirata is tartalmazza – számos más módon
+elérheti a kapacitásbővítés tilalmát, a vonatkozó tárgyban (pl. környezetvédelem) rendeletalkotásra is van lehetőség.
+
+[38] Összefoglalva: A Kúria azt állapította meg, hogy a vitatott rendelkezés helyi építési szabályzatba foglalása nem
+egyeztethető össze az Étv.-vel; a GYÉSZ V. fejezet 103. §-ában található megtámadott szabály törvényellenessége
+az Étv. 2. § 11. pontja és 13. §-a alapján áll fenn.
+Záró rész
+[39] A Kúria az indítványt a Kp. 141. § (2) bekezdése szerint tárgyaláson kívül bírálta el.
+[40] A Magyar Közlönyben történő közzététel a Kp. 146. § (2) bekezdésén, a helyben történő közzététel a Kp. 142. §
+(3) bekezdésén alapul.
+[41] Jelen eljárásban a Kp. 141. § (4) bekezdése alapján az önkormányzati rendelet törvényességének vizsgálatára
+irányuló eljárásban a feleket teljes költségmentesség illeti meg és saját költségeiket maguk viselik.
+[42] A határozat elleni jogorvoslatot a Kp. 116. § d) pontja zárja ki. A Kúria határozata a Kp. 146. § (5) bekezdése alapján
+mindenkire nézve kötelező.
+Budapest, 2020. december 15.
+Dr. Balogh Zsolt s. k., a tanács elnöke, Dr. Kiss Árpád Lajos s. k., előadó bíró, Dr. Varga Eszter s. k., bíró
+
+IX. Határozatok Tára
