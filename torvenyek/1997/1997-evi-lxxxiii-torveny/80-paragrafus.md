@@ -21,3 +21,5 @@ a) természetes személy 10 ezertől 100 ezer forintig,
 b) a Tbj. 4. § 4. pontjában meghatározott foglalkoztató, és a Tbj. 4. § 2. pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű,
 
 az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető.
+
+(7) A (6) bekezdés szerinti mulasztási bírságot a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni. Nem szabható ki mulasztási bírság, ha a bejelentési kötelezettségre előírt határidő lejártától számított öt év eltelt.
