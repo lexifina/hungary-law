@@ -8,7 +8,7 @@ a) eladónként és vevőnként a fémkereskedelmi engedélyköteles anyag megne
 
 b) a jogi személy, a jogi személyiség nélküli szervezet, az egyéni vállalkozó eladó és vevő (címzett) nevét, székhelye (telephelye) címét és adóazonosító számát;
 
-c) a természetes személy eladó és vevő (címzett) természetes személyazonosító adatait, valamint személyazonosságát igazoló hatósági okmánya számát;
+c) a természetes személy eladó és vevő (címzett) természetes személyazonosító adatait, személyazonosságát igazoló hatósági okmánya számát, valamint – külföldi állampolgár kivételével – adóazonosító jelét;
 
 d) a vásárlás és a teljesítés időpontját;
 

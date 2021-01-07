@@ -4,7 +4,13 @@
 
 (3) Ha a (2) bekezdésben foglaltak szerinti értékesítésből befolyt ellenértéket az annak átvételére jogosult személy a fémkereskedelmi hatóság ez irányú tájékoztatásának közlésétől számított öt éven belül nem veszi át, az értékesítésből befolyt ellenérték a Magyar Államra száll. Az értékesítésből befolyt ellenérték után a fémkereskedelmi hatóságnak kamatfizetési kötelezettsége nincs.
 
-(4) A lefoglalt vagy zár alá vett anyagot, dolgot és eszközt el kell kobozni, ha az ügyben végleges döntéssel a 11. § (2) bekezdés a) és b) pontja szerinti bírságot szabnak ki, vagy a 3. § (4) bekezdésében meghatározott kötelezettség megsértése esetén alkalmazott figyelmeztetésben meghatározott határidő eredménytelenül telt el, és a fémkereskedelmi hatóság a jogsértéssel érintett fémkereskedelmi engedélyköteles anyagot lefoglalta vagy zár alá vette.
+(4) A lefoglalt vagy zár alá vett anyagot, dolgot és eszközt el kell kobozni,
+
+a) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése, vagy
+
+b) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés esetén
+
+ha a fémkereskedelmi hatóság véglegessé vált határozattal bírságot szab ki.
 
 (5) A jogsértéssel érintett anyag fuvarozására, szállítására, tárolására, raktározására és hasznosítására használt, nem a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a tulajdonos a 12. § (2) bekezdés c) pontjában foglaltakról írásban nem nyilatkozik, vagy az ügy összes körülményére tekintettel megállapítható, hogy a tulajdonos tudomással bírhatott arról, hogy a jogsértés időpontjában az eszközt jogsértés céljából használják fel, és a végleges döntéssel kiszabott bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, vagy arra részletfizetést, illetve fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
 

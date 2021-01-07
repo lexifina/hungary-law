@@ -10,6 +10,6 @@ c) fémkereskedőnek nem minősülő személytől beszerzett, a hulladékról sz
 
 fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezett anyag nem minősül fémkereskedelmi engedélyköteles anyagnak.
 
-(2) Az (1) bekezdés b) és c) pontja szerinti hasznosítás céljára kizárólag írásba foglalt megállapodás alapján vehető át a fémkereskedőtől fémkereskedelmi engedélyköteles anyag.
+(2) Az (1) bekezdés b) és c) pontja szerinti hasznosítás céljára kizárólag írásba foglalt megállapodás alapján vehető át fémkereskedelmi engedélyköteles anyag.
 
 (3) Az (1) bekezdésben meghatározott személy az országhatárt átlépő hulladékszállításról szóló Korm. rendelet hatálya alá tartozó szállításokról köteles a fémkereskedelmi hatóság részére szállítmányonként adatot szolgáltatni a külön jogszabályban meghatározottak szerint.

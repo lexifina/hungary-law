@@ -1,0 +1,1 @@
+11/D. § A kiszabott bírságot a kötelezett a határozat véglegessé válását követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.

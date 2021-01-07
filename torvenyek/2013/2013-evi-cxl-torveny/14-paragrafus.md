@@ -4,7 +4,7 @@
 
 (2a) Az e törvény hatálya alá tartozó eljárásokban hozott határozatok ellen fellebbezésnek van helye.
 
-(2b) A zár alá vett és elkobzott, valamint a kiadni rendelt, de át nem vett eszközök, anyagok, dolgok értékesítésére az adózás rendjéről szóló törvénynek az árverés és elektronikus árverés útján történő értékesítésre vonatkozó rendelkezéseit kell alkalmazni.
+(2b) A zár alá vett és elkobzott, valamint a kiadni rendelt, de át nem vett eszközök, anyagok, dolgok értékesítésére az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvénynek az árverés és elektronikus árverés útján történő értékesítésre vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben a fémkereskedelmi hatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
 

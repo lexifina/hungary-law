@@ -14,6 +14,8 @@
 
 (6a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+(6b) E törvénynek a közigazgatási szabályszegések szankcióiról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2020. évi CLXVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit azok hatálybalépésekor folyamatban lévő hatósági ügyekben is alkalmazni kell.
+
 (7) Felhatalmazást kap a Kormány, hogy
 
 a) a fémkereskedelmi hatóság vagy hatóságok kijelölését,

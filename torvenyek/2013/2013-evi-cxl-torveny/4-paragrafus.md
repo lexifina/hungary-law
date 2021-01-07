@@ -6,7 +6,7 @@
 
 (3) Ha fémkereskedelmi engedélyköteles anyagot fémkereskedő természetes személytől, üzletszerű gazdasági tevékenységet nem folytató jogi személytől vagy jogi személyiség nélküli szervezettől vesz át, és a természetes személy, az üzletszerű gazdasági tevékenységet nem folytató jogi személy vagy jogi személyiség nélküli szervezet esetén az annak képviseletében eljáró természetes személy a személyazonosságát igazolja, a fémkereskedelmi engedélyköteles anyag a természetes személynek az anyag jogszerű szerzésére vonatkozó nyilatkozata alapján is átvehető. Ha a természetes személy a személyazonosságát nem igazolja, az átvételt meg kell tagadni.
 
-(4) Fémkereskedelmi engedélyben rögzített telephellyel rendelkező fémkereskedő a fémkereskedelmi engedélyköteles anyagot kizárólag a fémkereskedelmi engedélyben meghatározott telephelyen raktározhatja és tárolhatja az alábbiak kivételével:
+(4) Fémkereskedelmi engedélyben rögzített telephellyel rendelkező fémkereskedő a fémkereskedelmi engedélyköteles anyagot saját vagy más fémkereskedő fémkereskedelmi engedélyben meghatározott telephelyén raktározhatja és tárolhatja az alábbiak kivételével:
 
 a) a telephelyen kívüli tárolás, a szállítást, fuvarozást végző fémkereskedőnek nem minősülő személy és a fémkereskedő közötti szerződéses jogviszony alapján, igazolt módon a rakodási, illetve vasúti, vízi szállítási tevékenységhez kapcsolódik, annak részeként jelenik meg,
 
@@ -16,6 +16,8 @@ b) a bérmunka keretében történő telephelyen kívüli tárolás, ha a szerz�
 
 (6) Ha a fémkereskedő fémkereskedelmi engedélyköteles anyagot nem vesz át természetes személytől, illetve üzletszerű gazdasági tevékenységet nem folytató jogi személytől vagy jogi személyiség nélküli szervezettől, úgy fémkereskedelmi engedélyköteles anyagot telephely fenntartása nélkül is felvásárolhat és értékesíthet, amely tevékenysége során a tulajdonába került fémkereskedelmi engedélyköteles anyag tárolására nem kerülhet sor, még telephellyel rendelkező fémkereskedőnél sem.
 
+(6a) A (6) bekezdésben meghatározott tevékenység folytatása esetén a fémkereskedő a felvásárlás és értékesítés során a szállításról köteles a fémkereskedelmi hatóság részére elektronikus úton, előzetesen adatot szolgáltatni.
+
 (7) A fémkereskedelmi engedélyben meghatározott telephelyen a fémkereskedő saját tulajdonú fémkereskedelmi engedélyköteles anyagával folytatott engedélyköteles tevékenysége mellett
 
 a) más személy tulajdonát képező fémkereskedelmi engedélyköteles anyag fémkereskedő általi, a fém kinyerésére irányuló feldolgozása vagy más anyag vagy termék előállításához való felhasználása,
@@ -24,7 +26,7 @@ b) nem a fémkereskedő tulajdonát képező fémkereskedelmi engedélyköteles 
 
 c) más személy tulajdonát képező, betárolt fémkereskedelmi engedélyköteles anyag raktározása
 
-is végezhető, feltéve, ha az a) és b) pont szerinti felhasználásról, tárolásról, raktározásról a felek írásban megállapodtak.
+is végezhető, feltéve, ha felhasználásról, tárolásról, raktározásról a felek írásban megállapodtak.
 
 (8) Fémkereskedelmi engedélyköteles anyagot a fémkereskedő csak a külön jogszabályban meghatározott adattartalmú anyagkísérő okmánnyal együtt szállíthat.
 
@@ -32,7 +34,7 @@ is végezhető, feltéve, ha az a) és b) pont szerinti felhasználásról, tár
 
 (10) A fémkereskedelmi hatóság a fémkereskedőkről, telephelyeikről, valamint a telephelyek nyitva tartásáról nyilvántartást vezet, amelyet honlapján közzétesz.
 
-(11) A fémkereskedő a fémkereskedelmi hatóság felkérésére a jogi személyeket érintő fémkereskedelmi engedélyköteles anyag vételára tekintetében írásbeli nyilatkozatot tesz a fémkereskedelmi hatóság által megállapított határidőre.
+(11) A fémkereskedő a fémkereskedelmi hatóság felszólítására a jogi személyeket érintő fémkereskedelmi engedélyköteles anyag vételára tekintetében írásbeli nyilatkozatot tesz a fémkereskedelmi hatóság által megállapított határidőre.
 
 (12) A fémkereskedő a 3. § (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot a fémkereskedelmi hatóság 3. § (7) bekezdésben meghatározott írásbeli visszaigazolása alapján vagy a 3. § (6) bekezdésben meghatározott módon veheti át. Visszaigazolás hiányában a fémkereskedő az átvételt megtagadja, amelyről a fémkereskedelmi hatóságot haladéktalanul értesíti.
 

@@ -10,11 +10,11 @@
 
 5. hasznosítás: fémkereskedelmi engedélyköteles anyag fémtartalmának feldolgozása, beolvasztása, megmunkálása, átalakítása,
 
-6. hulladékgazdálkodási közszolgáltatást nyújtó szervezet: a hulladékról szóló törvényben meghatározott szolgáltatást ellátó közszolgáltató,
+6. hulladékgazdálkodási közszolgáltatást nyújtó szervezet: a hulladékról szóló törvényben meghatározott szolgáltatást ellátó közszolgáltató, a közszolgáltatói alvállalkozó és a Koordináló szerv,
 
 7. igazolt anyagi kár: okirattal, a számvitelről szóló törvény szerinti bizonylattal, illetve más hitelt érdemlő módon alátámasztott kár,
 
-8. ingatlantulajdonos: az ingatlan tulajdonosa, vagyonkezelője, birtokosa vagy használója, ideértve azt az esetet is, amikor az ingatlan tulajdonosa, vagyonkezelője, birtokosa, illetve használója egyben a hulladék termelője, birtokosa,
+8. ingatlantulajdonos: az ingatlan tulajdonosa, vagyonkezelője, birtokosa vagy használója, ideértve azt az esetet is, amikor az ingatlan tulajdonosa, vagyonkezelője, birtokosa, illetve használója egyben a fémkereskedelmi engedélyköteles anyag termelője, birtokosa,
 
 9. közszolgáltatást nyújtó gazdálkodó szervezet: olyan gazdálkodó szervezet, amely az államháztartáson belüli vagy kívüli szervezet vagy személy által más szerv vagy személy számára végzett, jogszabályban meghatározott, a közfeladat-ellátás körébe tartozó olyan szolgáltatást nyújt, amely nem jár közhatalom gyakorlásával és az e törvény végrehajtására kiadott kormányrendeletben meghatározott felismerésre alkalmas jellemzővel rendelkező fémkereskedelmi engedélyköteles anyagot értékesít,
 

@@ -8,7 +8,13 @@ c) a 3. § (4) bekezdésében meghatározott kötelezettség megsértése eseté
 
 (2) A lefoglalást vagy zár alá vételt meg kell szüntetni
 
-a) ha a fémkereskedelmi hatóság a 11. § (2) bekezdés a) pontja szerinti bírságot nem szabott ki,
+a) ha a fémkereskedelmi hatóság
+
+aa) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése esetén, vagy
+
+ab) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés alapján
+
+véglegessé vált határozatban bírságot nem szabott ki,
 
 b) ha a jogsértéssel összefüggésben indult büntetőeljárásban a bíróság, az ügyészség vagy a nyomozó hatóság lefoglalást rendelt el,
 
