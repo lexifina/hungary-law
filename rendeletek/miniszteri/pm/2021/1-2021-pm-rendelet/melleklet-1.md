@@ -1,4 +1,4 @@
-## 29. § Hatályát veszti a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjainak Öltözködési Szabályzatáról és a szolgálati igazolványokról, valamint a szolgálati jelvény rendszeresítéséről szóló 44/2013. (X. 8.) NGM rendelet.
+## 29. §[^1]
 
 1. melléklet az 1/2021. (I. 5.) PM rendelethez
 
@@ -129,3 +129,5 @@
 2.30. gyakorló zokni,
 
 2.31. gyakorló alsó póló.
+
+[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
