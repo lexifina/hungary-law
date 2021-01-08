@@ -4,33 +4,13 @@
 
 3. A „Földet a Gazdáknak!” programhoz kapcsolódóan a Kormány a mintagazdaság kijelölésénél irányadó szakmai kritériumrendszerre, valamint a kijelölés eljárási rendjére vonatkozóan a következő elvi döntéseket hozta.
 
-4. Mintagazdaság lehet magántulajdonú gazdálkodó szervezet, valamint állami ménesgazdaság.
+4.[^1]
 
 5. Magántulajdonú mintagazdaság állami és nem állami földön egyaránt gazdálkodhat.
 
-6. Mezőgazdasági termelőszervezet magántulajdonú mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
+6.[^2]
 
-a) több megyére kiterjedő, mikro- és kisvállalkozásokat is magában foglaló, az alapanyag piaci árkockázatát kiegyenlítő mechanizmust is tartalmazó, legalább öt éve működtetett termékpálya szintű integráció keretében abból a célból tenyészt, tart, illetve vásárol fel állatot, hogy azokat a részvételével működő és egységes irányítás alatt álló vállalatcsoport keretében kiskereskedelmi forgalomba kerülő termékként feldolgozzák;
-
-b) közvetlenül vagy egységes irányítás alatt álló vállalatcsoport tagjaként részt vesz a termékpálya szintű integráció keretében előállított termékek piacbővítésében, azaz ennek érdekében szorosan együttműködik a termékeit feldolgozó vállalkozással a stratégia meghatározásában, napi üzemszervezésben, logisztikában, minőségpolitikában;
-
-c) közvetlenül vagy egységes irányítás alatt álló vállalatcsoport tagjaként a hosszú távú gazdasági fejlesztés megalapozása érdekében a Kormánnyal stratégiai megállapodást köt vagy kötött;
-
-d) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti átlátható szervezetnek minősül;
-
-e) tudományos, kutatás-fejlesztési tevékenységben vesz részt;
-
-f) tevékenysége bekapcsolható a közép- és a felsőfokú agrárszakmai oktatás legalább egy szintjébe.
-
-7. Állami ménesgazdaság mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
-
-a) magas színvonalon tenyészti a tevékenységi körébe utalt védett őshonos és egyéb lófajtákat, fenntartja azok állami tulajdonban álló méneseit, a fajta tenyésztési céljának és az állam érdekének megfelelően gazdálkodik a rábízott lóállománnyal, megőrzi és javítja e fajták genetikai értékét;
-
-b) egészben vagy részben állami tulajdonban lévő földeken való gazdálkodással biztosítja a mindenkori lóállomány magas szintű fenntartásához szükséges takarmány előállítását;
-
-c) ápolja a hazai lovassport és lovas kultúra hagyományait;
-
-d) részt vesz a magyar lótenyésztés és lovaskultúra idegenforgalmi célú bemutatásában.
+7.[^3]
 
 8. A mintagazdaságokat a földművelésügyi miniszter javaslata alapján a Kormány jelöli ki.
 
@@ -75,3 +55,7 @@ cb) miként vehető figyelembe a mintagazdaság által fizetendő helyi iparűz�
 Felelős: nemzetgazdasági miniszter
 
 Határidő: 2015. december 15.
+
+[^1]: A 4. pontot az Alkotmánybíróság az 1/2021. (I. 7.) AB határozatának 1. pontjával megsemmisítette.
+[^2]: A 6. pontot az Alkotmánybíróság az 1/2021. (I. 7.) AB határozatának 1. pontjával megsemmisítette.
+[^3]: A 7. pontot az Alkotmánybíróság az 1/2021. (I. 7.) AB határozatának 1. pontjával megsemmisítette.
