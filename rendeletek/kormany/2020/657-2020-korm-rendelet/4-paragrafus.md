@@ -1,3 +1,5 @@
-4. §[^1]
+4. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi
 
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2021. január 8-án lép hatályba.
+CIX. törvény hatályvesztéséig meghosszabbítja.
+
+(2) Ez a rendelet 2021. február 8-án hatályát veszti.
