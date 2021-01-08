@@ -68,4 +68,6 @@ emberi erőforrások minisztere
 
 Határidő: az fa) alpont tekintetében 2021. március 31. az fb) alpont tekintetében 2021. június 30.
 
-2. A Steindl Imre Programra vonatkozó egyes részhatáridők egységesítéséről szóló 1444/2019. (VII. 26.) Korm. határozat 1. és 2. pontjában a „2021. január 31.” szövegrész helyébe a „2021. május 31.” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
