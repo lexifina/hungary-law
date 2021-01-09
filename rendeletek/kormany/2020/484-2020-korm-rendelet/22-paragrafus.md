@@ -33,4 +33,4 @@ a) az ellenőrzés helye szerint illetékes rendőrkapitányság,
 b) a Budapest Liszt Ferenc Nemzetközi Repülőtéren a Repülőtéri Rendőr Igazgatóság.
 
 [^32]: A 22. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^33]: A 22. § (2) bekezdése az 513/220. (XI. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^33]: A 22. § (2) bekezdése az 513/2020. (XI. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.

@@ -12,5 +12,5 @@ c) a gyógyszert, a gyógyászati segédeszközt forgalmazó üzletet (a tovább
 
 (2) Az élelmiszerüzletben, a drogériában és a gyógyszertárban hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és vasárnap 8.00 óra és 10.00 óra közötti időben (a továbbiakban: védett vásárlási idősáv) az ott foglalkoztatottak kivételével kizárólag az (1) bekezdés szerinti személy tartózkodhat.
 
-[^19]: Az 5/A. alcím címet az 513/220. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
-[^20]: A 9/A. §-t az 513/220. (XI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^19]: Az 5/A. alcím címet az 513/2020. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 9/A. §-t az 513/2020. (XI. 23.) Korm. rendelet 2. §-a iktatta be.
