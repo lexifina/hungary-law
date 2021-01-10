@@ -2,9 +2,9 @@
 
 | Munkakörök | Szakképzettségek és szakképesítések | Szakmai egységben minimum 1 fő szakirányú végzettsége |
 
-|  |  | Pszichiátriai beteg (Kiegészítő szabály 3.) | Szenvedélybeteg (Kiegészítő szabály 3.) | Demens (Kiegészítő szabály 3.) |
+|  |  | Pszichiátriai beteg | Szenvedélybeteg | Demens |
 
-| intézmény- vezető | – andragógus – diakónus – diplomás ápoló – egészségügyi tanár – gyógypedagógus – gyógypedagógus, értelmileg akadályozottak pedagógiája szakirányon – gyógypedagógus, hallássérültek pedagógiája szakirányon – gyógypedagógus, látássérültek pedagógiája szakirányon – gyógypedagógus, logopédia szakirányon – gyógypedagógus, pszichopedagógia szakirányon – gyógypedagógus, szomatopedagógia szakirányon – gyógypedagógus, tanulásban akadályozottak pedagógiája szakirányon – gyógypedagógus, autizmus spektrum pedagógiája szakirányon – gyógytornász-fizioterapeuta – hajléktalanellátás esetében felsőfokú végzettség – humánfejlesztő – igazgatásszervező szociális szakigazgatás-szervező szakirányú szakképzettség – intézetvezető – konduktor – közgazdász – közigazgatás-szervező – mentálhigiénés segítő szakember – mentálhigiénés szakember – mentálhigiénés szakember és közösségi segítő – okleveles ápoló – okleveles egészségügyi szociális munkás – egészségügyi menedzser – okleveles egészségügyi menedzser – okleveles egészségpszichológus – okleveles ápoló – okleveles egyetemi ápoló – okleveles fizioterapeuta – okleveles jogász – okleveles orvosdoktor – okleveles pasztorális tanácsadó – okleveles pasztorális tanácsadó és szervezetfejlesztő szakember – okleveles rehabilitációs szakember – okleveles szociális gazdaság szakember – okleveles szociálpolitikus – okleveles szociálgerontológus – teológus – okleveles társadalmi befogadás tanácsadó – szociális menedzser – szociális munkás – szociálpedagógus – szociológus – szenvedélybetegek ellátása esetén addiktológiai konzultáns – viselkedéselemző |  |  |  |
+| intézmény- vezető | – andragógus – diakónus – diplomás ápoló – egészségügyi szervező – egészségügyi tanár – gyógypedagógus – gyógypedagógus, értelmileg akadályozottak pedagógiája szakirányon – gyógypedagógus, hallássérültek pedagógiája szakirányon – gyógypedagógus, látássérültek pedagógiája szakirányon – gyógypedagógus, logopédia szakirányon – gyógypedagógus, pszichopedagógia szakirányon – gyógypedagógus, szomatopedagógia szakirányon – gyógypedagógus, tanulásban akadályozottak pedagógiája szakirányon – gyógypedagógus, autizmus spektrum pedagógiája szakirányon – gyógytornász-fizioterapeuta – hajléktalanellátás esetében felsőfokú végzettség – humánfejlesztő – igazgatásszervező, szociális szakigazgatás-szervező szakirányú szakképzettség – intézetvezető – konduktor – közgazdász – közigazgatás-szervező – mentálhigiénés segítő szakember – mentálhigiénés szakember – mentálhigiénés szakember és közösségi segítő – okleveles ápoló – okleveles egészségügyi szociális munkás – egészségügyi menedzser – okleveles egészségügyi menedzser – okleveles egészségpszichológus – okleveles ápoló – okleveles egyetemi ápoló – okleveles fizioterapeuta – okleveles jogász – okleveles orvosdoktor – okleveles pasztorális tanácsadó – okleveles pasztorális tanácsadó és szervezetfejlesztő szakember – okleveles rehabilitációs szakember – okleveles szociális gazdaság szakember – okleveles szociálpolitikus – okleveles szociálgerontológus – teológus – okleveles társadalmi befogadás tanácsadó – szociális menedzser – szociális munkás – szociálpedagógus – szociológus – szenvedélybetegek ellátása esetén addiktológiai konzultáns – viselkedéselemző |  |  |  |
 
 | vezető ápoló/ vezető szakápoló | – diplomás ápoló – okleveles egyetemi ápoló – okleveles ápoló – intézetvezető – mentőtiszt |  |  |  |
 
@@ -28,6 +28,6 @@
 
 | asszisztens | – mentálhigiénés asszisztens – szociális asszisztens |  |  |  |
 
-4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^434]
+4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^437]
 
-[^434]: A 4. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 21. § b) pontja hatályon kívül helyezte.
+[^437]: A 4. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 21. § b) pontja hatályon kívül helyezte.

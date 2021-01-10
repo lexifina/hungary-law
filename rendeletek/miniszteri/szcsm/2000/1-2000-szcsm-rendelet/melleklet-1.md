@@ -1,3 +1,5 @@
+## meghatározott határidőbe nem számít bele.
+
 1. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez
 
 ## A személyes gondoskodást nyújtó szociális intézmény szabályzatai
