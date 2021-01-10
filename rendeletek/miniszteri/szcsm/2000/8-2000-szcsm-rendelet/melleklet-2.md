@@ -252,7 +252,15 @@
 
 ## 61. hivatásos gondnok
 
-## 62. egyéb, éspedig: ..........................
+## 62. a Gyvt. 61. § (2) bekezdés szerinti szolgáltatást végző orvos
+
+## 63. a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szaktanácsadó
+
+## 64. a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szociális munkás
+
+## 65. a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző technikus
+
+## 66. egyéb, éspedig: ..........................
 
 | 13.1. Jelenlegi munkáltatónál a munkaviszony kezdete: |  |  |  |  |  |  |  |  |  |
 

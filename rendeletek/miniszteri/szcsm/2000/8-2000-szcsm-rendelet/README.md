@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-8-20-85
 | 2018-02-06 | 2000-8-20-85.12 | 7/2018. (II. 5.) EMMI rendelet |
 | 2018-07-01 | 2000-8-20-85.13 | 7/2018. (II. 5.) EMMI rendelet |
 | 2020-02-09 | 2000-8-20-85.14 | 16/2003. (IV. 9.) ESZCSM rendelet |
+| 2021-01-10 | 2000-8-20-85.15 | 16/2003. (IV. 9.) ESZCSM rendelet |
