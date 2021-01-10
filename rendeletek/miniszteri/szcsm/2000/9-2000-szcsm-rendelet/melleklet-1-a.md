@@ -44,4 +44,4 @@ I. Szociális és gyermekjóléti szolgáltatások területén
 
 II. Gyermekvédelmi szakellátási intézményekben és a javítóintézetben
 
-[^84]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 38. § (1) bekezdése iktatta be.
+[^84]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 38. § (1) bekezdése iktatta be, szövege az 1/2021. (I. 7.) EMMI rendelet 14. §-a szerint módosított szöveg.

@@ -50,6 +50,14 @@
 
 | 25. | Védőnő |
 
+| 26. | Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szaktanácsadó |
+
+| 27. | Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző orvos |
+
+| 28. | Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szociális munkás |
+
+| 29. | Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző technikus |
+
 2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^85]
 
 [^85]: A 2. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
