@@ -1,6 +1,6 @@
-## Óvodai és iskolai szociális segítő szolgáltatás[^79]
+## Óvodai és iskolai szociális segítő szolgáltatás[^82]
 
-25. §[^80] (1) Az óvodai és iskolai szociális segítő szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében a szociális segítő munka eszközeivel támogatást nyújt a köznevelési intézménybe járó gyermeknek, a gyermek családjának és a köznevelési intézmény pedagógusainak.
+25. §[^83] (1) Az óvodai és iskolai szociális segítő szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében a szociális segítő munka eszközeivel támogatást nyújt a köznevelési intézménybe járó gyermeknek, a gyermek családjának és a köznevelési intézmény pedagógusainak.
 
 (2) Az óvodai és iskolai szociális segítő egyéni, csoportos és közösségi szociális munkát végez, valamint gyermek- és ifjúságvédelmi feladatokat lát el. Ennek keretében segíti
 
@@ -18,14 +18,14 @@ f) a jelzőrendszer működését.
 
 (3) Ha a köznevelési intézmény foglalkoztat gyermek- és ifjúságvédelmi felelőst, az intézményt érintő gyermekvédelmi feladatokat az óvodai és iskolai szociális segítő a gyermek- és ifjúságvédelmi felelőssel együttműködésben látja el.
 
-(4)[^81] Az óvodai és iskolai szociális segítő szolgáltatást nyújtó személy a szolgáltatásnyújtás helye szerinti intézménnyel nem állhat foglalkoztatási jogviszonyban.
+(4)[^84] Az óvodai és iskolai szociális segítő szolgáltatást nyújtó személy a szolgáltatásnyújtás helye szerinti intézménnyel nem állhat foglalkoztatási jogviszonyban.
 
-(5)[^82] Az óvodai és iskolai szociális segítő a szolgáltatásnyújtás helye szerinti intézményben a tevékenysége során a gyermekek, tanulók felügyeletéről az egyéni szociális szolgáltatások megvalósításának ideje alatt maga gondoskodik.
+(5)[^85] Az óvodai és iskolai szociális segítő a szolgáltatásnyújtás helye szerinti intézményben a tevékenysége során a gyermekek, tanulók felügyeletéről az egyéni szociális szolgáltatások megvalósításának ideje alatt maga gondoskodik.
 
-(6)[^83] Az óvodai és iskolai szociális segítőnek a foglalkoztatás kezdő időpontjától számított két éven belül el kell végeznie az óvodai és iskolai szociális segítő képzést. Nem kell elvégezni az óvodai és iskolai szociális segítő képzést azon személyeknek, akik részt vettek az EFOP-3.8.2-16 „Szociális humán erőforrás fejlesztés” elnevezésű, európai uniós finanszírozású projekt keretében szervezett képzésben, vagy akik iskolai szociális munka szakirányú végzettséggel, illetve óvodai és iskolai szociális segítő szakképzettséggel rendelkeznek.
+(6)[^86] Az óvodai és iskolai szociális segítőnek a foglalkoztatás kezdő időpontjától számított két éven belül el kell végeznie az óvodai és iskolai szociális segítő képzést. Nem kell elvégezni az óvodai és iskolai szociális segítő képzést azon személyeknek, akik részt vettek az EFOP-3.8.2-16 „Szociális humán erőforrás fejlesztés” elnevezésű, európai uniós finanszírozású projekt keretében szervezett képzésben, vagy akik iskolai szociális munka szakirányú végzettséggel, illetve óvodai és iskolai szociális segítő szakképzettséggel rendelkeznek.
 
-[^79]: A 25. §-t megelőző alcím a 2/2018. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^80]: A 25. § a 2/2018. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^81]: A 25. § (4) bekezdését a 4/2019. (II. 27.) EMMI rendelet 3. §-a iktatta be.
-[^82]: A 25. § (5) bekezdését a 4/2019. (II. 27.) EMMI rendelet 3. §-a iktatta be.
-[^83]: A 25. § (6) bekezdését a 4/2019. (II. 27.) EMMI rendelet 3. §-a iktatta be, szövege a 6/2020. (III. 6.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^82]: A 25. §-t megelőző alcím a 2/2018. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^83]: A 25. § a 2/2018. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^84]: A 25. § (4) bekezdését a 4/2019. (II. 27.) EMMI rendelet 3. §-a iktatta be.
+[^85]: A 25. § (5) bekezdését a 4/2019. (II. 27.) EMMI rendelet 3. §-a iktatta be.
+[^86]: A 25. § (6) bekezdését a 4/2019. (II. 27.) EMMI rendelet 3. §-a iktatta be, szövege a 6/2020. (III. 6.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.

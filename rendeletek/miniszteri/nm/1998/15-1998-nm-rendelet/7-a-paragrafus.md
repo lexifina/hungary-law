@@ -1,4 +1,4 @@
-## 7/A. §[^63] A szolgáltatást igénybe vevő számára az első kapcsolatfelvételkor tájékoztatást kell nyújtani
+## 7/A. §[^66] A szolgáltatást igénybe vevő számára az első kapcsolatfelvételkor tájékoztatást kell nyújtani
 
 a) a szolgáltatás elemeiről, azok tartalmáról, feltételeiről,
 
@@ -6,4 +6,4 @@ b) az intézmény által vezetett, az igénybe vevőre vonatkozó nyilvántartá
 
 c) panaszjoga gyakorlásának módjáról.
 
-[^63]: A 7/A. §-t az 1/2017. (II. 14.) EMMI rendelet 3. §-a iktatta be.
+[^66]: A 7/A. §-t az 1/2017. (II. 14.) EMMI rendelet 3. §-a iktatta be.

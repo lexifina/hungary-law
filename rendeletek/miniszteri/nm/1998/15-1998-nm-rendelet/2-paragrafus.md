@@ -16,8 +16,11 @@ c) az érdekképviseleti fórum ülésének időpontjáról való tudomásszerz�
 
 (6)[^8] Az ellátás megkezdésekor az ellátást nyújtó felhívja a gyermek törvényes képviselőjét, illetve a fiatal felnőttet az intézményi nyilvántartásokhoz szükséges adatok szolgáltatására, továbbá a jogosultsági feltételekben, illetve a nyilvántartásban szereplő adatokban beállott változások bejelentésére.
 
+(7)[^9] A gyermekvédelmi gyám a gyámsága alatt álló, ítélőképessége birtokában lévő gyermek számára tájékoztatást ad a hivatali telefonszámáról és e-mail-címéről annak érdekében, hogy a gyermek számára a vele történő kapcsolatfelvétel biztosított legyen. A gyermekvédelmi gyám akadályoztatása esetére a helyettes gyermekvédelmi gyám elérhetőségéről is tájékoztatást ad.
+
 [^4]: A 2. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva.
 [^5]: A 2. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (6) bekezdésre változtatva.
 [^6]: A 2. § (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 1. §-a iktatta be.
 [^7]: A 2. § eredeti (2) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 1. §-a, szövege a 28/2010. (XII. 30.) NEFMI rendelet 25. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 1. §-a.
+[^9]: A 2. § (7) bekezdését az 1/2021. (I. 7.) EMMI rendelet 1. §-a iktatta be.
