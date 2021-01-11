@@ -1,3 +1,3 @@
-## 6. § Az Nmr. a következő 162. §-sal egészül ki:
+## 6. §[^6]
 
-## „162. § A veszélyhelyzet és az egészségügyi válsághelyzet időtartama az óvodai és iskolai szociális segítő képzésre a 25. § (6) bekezdésében meghatározott határidőbe nem számít bele.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

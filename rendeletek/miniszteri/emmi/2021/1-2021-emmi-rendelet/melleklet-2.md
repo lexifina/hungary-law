@@ -1,3 +1,3 @@
-2. melléklet az 1/2021. (I. 7.) EMMI rendelethez[^4]
+2. melléklet az 1/2021. (I. 7.) EMMI rendelethez[^16]
 
-[^4]: A 2. melléklet a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 2. melléklet a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.

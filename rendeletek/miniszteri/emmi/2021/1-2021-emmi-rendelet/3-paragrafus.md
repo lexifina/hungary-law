@@ -1,5 +1,3 @@
-## „d) a Gyermeki jogokat védő szakértői tevékenység, tanácsadás asszisztenciája szakmacsoportba tartozó munkakörök:
+## 2. §[^2]
 
-## da) gyermekvédelmi ügyintéző,
-
-## db) a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző technikus.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
