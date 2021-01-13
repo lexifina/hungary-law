@@ -1,5 +1,5 @@
-## 8–20. §[^5]
+## 8–20. §[^4]
 
 ## 6. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet módosítása
 
-[^5]: A 8–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

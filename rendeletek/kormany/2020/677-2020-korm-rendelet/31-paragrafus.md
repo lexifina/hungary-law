@@ -1,3 +1,3 @@
-## 29–30. §[^13]
+## 29–30. §[^12]
 
-[^13]: A 29–30. § a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^12]: A 29–30. § a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
