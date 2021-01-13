@@ -1,6 +1,6 @@
-## 9. §[^43] Ez a rendelet a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 9. §[^47] Ez a rendelet a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 191/2001. (X. 18.) Korm. rendelethez[^44]
+1. melléklet a 191/2001. (X. 18.) Korm. rendelethez[^48]
 
 ## A műemlékvédelem sajátos tárgyai érték számításának alapjául szolgáló értékek
 
@@ -84,5 +84,5 @@
 
 | 4. | erősen csonkult | 0,4 |
 
-[^43]: A 9. §-t a 367/2020. (VII. 28.) Korm. rendelet 1. §-a iktatta be.
-[^44]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^47]: A 9. §-t a 367/2020. (VII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^48]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 2. § (12) bekezdésével megállapított szöveg.

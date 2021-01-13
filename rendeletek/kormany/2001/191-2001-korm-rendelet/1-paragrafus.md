@@ -2,12 +2,14 @@
 
 (2) A kategóriába sorolás során figyelemmel kell lenni a kulturális örökséghez tartozó elemek korára, ritkaságára, a kulturális örökség egészén, valamint az érintett társadalmi (etnikai, kulturális, vallási) közösségen belüli történeti, művészeti, gazdasági és funkcionális jelentőségére.
 
-(3) A műemléket a bírság szempontjából
+(3)[^2] A bírság szempontjából
 
-a) I. kategóriába kell sorolni, ha a műemlék a (2) bekezdésben foglaltak tekintetében eszmei jelentősége és egyedisége révén országos szinten kiemelkedő műemléki jelentőséggel bír vagy jelentős gazdasági-fejlesztési potenciállal is rendelkezik,
+a) I. kategóriába kell sorolni a kiemelten védett műemléket,
 
-b) II. kategóriába kell sorolni, ha a műemlék nem tartozik az I. kategóriába.
+b) II. kategóriába kell sorolni a védett műemléket.
 
-(4) A nyilvántartott műemléki érték a III. kategóriába tartozik.
+(4)[^3]
 
 [^1]: Az 1. § a 38/2015. (III. 11.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
