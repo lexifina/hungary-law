@@ -30,7 +30,7 @@
 
 ## Felelős: Alkotmánybíróság elnöke, honvédelmi miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, a miniszterelnök általános helyettese
 
-## Határidő: 2020. december 31., a Versenysport támogatása előirányzat javára átcsoportosított 7 636 125 000 forint tekintetében 2022. június 30.
+## Határidő: 2020. december 31., a Gazdasági társaságok által ellátott feladatok támogatása előirányzat javára átcsoportosított 73 200 000 forint tekintetében 2021. június 30., a Versenysport támogatása előirányzat javára átcsoportosított 7 636 125 000 forint tekintetében 2022. június 30.
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 2 038 788 000 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint.
 
@@ -58,7 +58,7 @@
 
 1. melléklet az 1020/2020. (II. 6.) Korm. határozathoz[^11]
 
-[^1]: Az 1. pont c) alpontja az 1778/2020. (XI. 11.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: Az 1. pont c) alpontja az 1778/2020. (XI. 11.) Korm. határozat 1. pontja, az 1005/2021. (I. 14.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
