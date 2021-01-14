@@ -1,3 +1,3 @@
-1–2. melléklet a 677/2020. (XII. 28.) Korm. rendelethez[^39]
+1–2. melléklet a 677/2020. (XII. 28.) Korm. rendelethez[^40]
 
-[^39]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
