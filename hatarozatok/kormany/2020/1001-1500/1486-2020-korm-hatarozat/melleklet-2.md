@@ -235,7 +235,3 @@ XX. Emberi Erőforrások Minisztériuma
 XLII. A költségvetés közvetlen bevételei és kiadásai
 
 XLVII. Gazdaságvédelmi Alap
-
-ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
-
-Költségvetési év: 2020.

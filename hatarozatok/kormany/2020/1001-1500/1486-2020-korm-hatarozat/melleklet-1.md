@@ -70,21 +70,13 @@
 
 ## Határidő: 2022. március 2.
 
-## j) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 18 925 000 forint egyszeri átcsoportosítását rendeli el, a 6. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## külgazdasági és külügyminiszter
-
-## Határidő: 2021. január 15.
+## j)[^1]
 
 ## k) az Ávr. 172/A. § (9) bekezdésében biztosított jogkörében eljárva az Ávr. 172/A. § (3) bekezdése alapján a 2018. decemberi, 2019. márciusi, júniusi, szeptemberi, októberi és novemberi hónapokra vonatkozóan a Kvtv. 1. melléklet XIX. Uniós Fejlesztések fejezet részére megállapított befizetési kötelezettséget elengedi.
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
 1. melléklet az 1486/2020. (VIII. 7.) Korm. határozathoz
 
@@ -106,5 +98,6 @@ XLV. Kiemelt Kormányzati Magasépítési Beruházások
 
 XLVII. Gazdaságvédelmi Alap
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont j) alpontját az 1005/2021. (I. 14.) Korm. határozat 6. pontja visszavonta.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
