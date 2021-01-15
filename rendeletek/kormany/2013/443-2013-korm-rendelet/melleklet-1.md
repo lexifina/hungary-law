@@ -1,4 +1,4 @@
-## 41. §[^30]
+## 41. §[^39]
 
 1. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
 
@@ -14,7 +14,7 @@ A felismerésre alkalmas jellemzők (FAJ) listája és a hozzájuk tartozó kód
 
 5. egyéb ipari fémhulladék
 
-6. egyéb[^31]
+6. egyéb[^40]
 
 7. ipari elektronikai berendezés, villanyoszlop fémhulladék, trafóházak, elektromos betápláló transzformátor, elosztó szekrények
 
@@ -60,5 +60,11 @@ A felismerésre alkalmas jellemzők (FAJ) listája és a hozzájuk tartozó kód
 
 28. közlekedési tábla
 
-[^30]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: „egyéb” kód választása esetén, 160 karakter hosszan kötelezően kitöltendő a megjegyzés rovat
+29.[^41] csomagolási vashulladék
+
+30.[^42] csomagolási alumínium hulladék
+
+[^39]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: „egyéb” kód választása esetén, 160 karakter hosszan kötelezően kitöltendő a megjegyzés rovat
+[^41]: Az 1. melléklet 29. pontját a 713/2020. (XII. 30.) Korm. rendelet 39. § (6) bekezdése iktatta be.
+[^42]: Az 1. melléklet 30. pontját a 713/2020. (XII. 30.) Korm. rendelet 39. § (6) bekezdése iktatta be.

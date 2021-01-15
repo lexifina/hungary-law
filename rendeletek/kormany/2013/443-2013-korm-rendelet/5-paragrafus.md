@@ -1,4 +1,4 @@
-5. §[^9] (1) Amennyiben az engedélyező vámszerv, illetve az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszerv a kérelmező telephelyén vizsgálatot tart, annak időpontjáról előzetesen értesíti a 2. melléklet 1.9. pontja szerint megadott kapcsolattartó személyt.
+5. §[^13] (1) Amennyiben az engedélyező vámszerv, illetve az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszerv a kérelmező telephelyén vizsgálatot tart, annak időpontjáról előzetesen értesíti a 2. melléklet 1.9. pontja szerint megadott kapcsolattartó személyt.
 
 (2) Elektronikus úton benyújtott fémkereskedelmi engedély iránti kérelem esetében az engedélyező vámszerv, illetve az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszerv megvizsgálja a 4. § (2) és (3) bekezdésében meghatározott okiratok és bizonylatok eredetiségét, valódiságát.
 
@@ -8,4 +8,4 @@
 
 (5) Az engedélyező vámszerv a fémkereskedelmi engedélyt a 3. melléklet szerinti adattartalmú nyomtatványon adja ki. Az engedélyező vámszerv a fémkereskedelmi engedélybe foglalja vagy 8 napon belül a fémkereskedelmi engedélyhez mellékeli a kérelemhez benyújtott nyilvántartás mintájának jóváhagyását és – erre irányuló kérelem alapján – a számítógépes nyilvántartásvezetést engedélyező határozatot. Az engedélyező vámszerv, és az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszerv a nyilvántartást az engedély kiadását követő 10 napon belül köteles hitelesíteni. A fémkereskedőnek a fémkereskedelmi tevékenység tényleges megkezdését megelőző legalább 10. napig kell kérnie a nyilvántartás hitelesítését.
 
-[^9]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 467. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 467. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

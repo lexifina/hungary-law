@@ -1,4 +1,4 @@
-3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^32]
+3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^43]
 
 ## A fémkereskedelmi engedély adattartalma
 
@@ -62,4 +62,4 @@ Kelt: ...................................................
 
 kiadmányozó
 
-[^32]: A 3. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 468. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^43]: A 3. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 468. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
