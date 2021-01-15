@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az egyrészről Izland, a Liechtensteini Hercegség, a Norvég Királyság, és másrészről Magyarország között az EGT Finanszírozási Mechanizmus 2014–2021-es időszakának végrehajtásáról szóló együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
