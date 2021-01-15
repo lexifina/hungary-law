@@ -1,4 +1,4 @@
-7. melléklet a 15/2013. (VIII. 22.) HM rendelethez[^75]
+7. melléklet a 15/2013. (VIII. 22.) HM rendelethez[^73]
 
 A Magyar Honvédség parancsnoka által adományozható elismerések leírása
 
@@ -18,4 +18,4 @@ Az Év Katonája Kitüntető Cím jelvénye 20 mm átmérőjű, fehér zománcos
 
 7. A Különleges Helytállásért Emlékérem leírása: Kör alakú, 42,5 mm átmérőjű, tombak anyagú, vert érem, elő- és hátlapján peremmel, ezüstszínű kivitelben. Előlapján vonalszegélyes mezőben, a peremmel párhuzamosan futó, „KÜLÖNLEGES HELYTÁLLÁSÉRT” köriratban a Magyar Honvédség tűzzománcozott kivitelű emblémája látható, alul díszítő motívum. Hátlapján a peremmel párhuzamosan futó, „A MAGYAR HONVÉDSÉG PARANCSNOKÁTÓL” köriratban a Magyar Honvédség Parancsnoksága karjelzésének ábrája látható, alatta díszítő motívum.
 
-[^75]: A 7. melléklet a 20/2018. (XII. 28.) HM rendelet 86. § (2) bekezdésével megállapított szöveg.
+[^73]: A 7. melléklet a 20/2018. (XII. 28.) HM rendelet 86. § (2) bekezdésével megállapított szöveg.

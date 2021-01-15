@@ -1,0 +1,5 @@
+37/B. § (1) A miniszter a 37/A. § (1) bekezdés b) pontja szerinti személyt, ha a mindenkori magyar haderő állományában teljesített katonai múlttal rendelkezik, és katonai szolgálat során bekövetkezett különös méltánylást érdemlő hősies, bátor, példamutató helytállás igazolható, a „Katonai szolgálat példaképévé” nyilváníthatja.
+
+(2) A „Katonai szolgálat példaképévé” nyilvánított személyek esetén a hozzátartozó kérelmére a Honvédelmi Minisztérium viseli az emlékművének, emléktáblájának és sírjelének vagy síremlékének költségeit legfeljebb az illetményalap tízszereséig, valamint, ha emléktábla állítására kerül sor, annak további költségeit legfeljebb az illetményalap háromszorosáig.
+
+(3) „Katonai szolgálat példaképévé” nyilvánítás esetén a miniszter a 37/A. § (1) bekezdés b) pontja szerinti személyt posztumusz címzetes rendfokozatba helyezheti. A posztumusz címzetes rendfokozat a tényleges szolgálat alatt elért rendfokozat szerinti állománykategória váltása nélküli magasabb rendfokozat vagy posztumusz címzetes hadnagy rendfokozat lehet.
