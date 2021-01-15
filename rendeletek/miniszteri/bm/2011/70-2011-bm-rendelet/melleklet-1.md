@@ -1,6 +1,6 @@
-## 35–36. §[^61]
+## 35–36. §[^63]
 
-1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^62]
+1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^64]
 
 ## A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet ellátó
 
@@ -86,5 +86,5 @@ Ahol felsőfokú munkavédelmi szakképesítésű személy alkalmazása kötelez
 
 * A 3. pontban meghatározottak szerint, a kötelezően foglalkoztatandó szakember mellett munkavállalói létszámhoz igazítandó azzal, hogy minden megyében és megyei jogállású szervnél kötelező felsőfokú végzettségű munkavédelmi szakember foglalkoztatása.
 
-[^61]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^62]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a, a 18/2020. (VI. 30.) BM rendelet 4. §-a szerint módosított szöveg.
+[^63]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a, a 18/2020. (VI. 30.) BM rendelet 4. §-a szerint módosított szöveg.

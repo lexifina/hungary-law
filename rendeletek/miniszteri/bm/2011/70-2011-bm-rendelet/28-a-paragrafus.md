@@ -16,19 +16,19 @@ c)[^51] élelmiszer eredetű vagy állatról emberre terjedő fertőzés okozta 
 
 (5) Ha a munkahelyen halálos kimenetelű vagy tömeges foglalkozási megbetegedés fordult elő, az állományilletékes parancsnok az észlelő orvos bejelentési kötelezettségétől függetlenül azonnal értesíti a munkavédelmi főfelügyelőt, vagy ha az adott rendvédelmi szervnél nincs munkavédelmi főfelügyelő, akkor a munkavédelmi felügyelőt, aki haladéktalanul jelentést tesz a BM munkavédelmi főfelügyelője felé. Vezénylés esetén a vezénylés helye szerint illetékes szerv, a vezénylő szerv személyügyi feladatokat ellátó szervezeti eleme egyidejű értesítése mellett köteles a megbetegedést bejelenteni, kivizsgálni és minősíteni.
 
-(6) A foglalkozási megbetegedés, és fokozott expozíció, szolgálati kötelmekkel, munkavégzéssel összefüggő jellegének megállapításához, minősítéséhez első fokon az illetékes I. fokú Felülvizsgáló Orvosi Bizottság (a továbbiakban: FÜV Bizottság), másodfokon a II. fokú FÜV Bizottság véleménye szükséges. A FÜV Bizottság a szakvéleményét az iratanyag kézhezvételétől számított 30 napon belül elkészíti és megküldi. A szakvélemény beszerzéséről az állományilletékes parancsnok gondoskodik.
+(6)[^52] A foglalkozási megbetegedés és a fokozott expozíció szolgálati kötelmekkel, munkavégzéssel összefüggő jellegének megállapításához, minősítéséhez a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló miniszteri rendeletben meghatározott felülvizsgáló egység vezető főorvosának véleménye szükséges. A felülvizsgáló egység vezető főorvosa szakvéleményét az iratanyag kézhezvételétől számított 30 napon belül elkészíti és megküldi. A szakvélemény beszerzéséről az állományilletékes parancsnok gondoskodik.
 
-(7)[^52] Az állományilletékes parancsnok a foglalkozási megbetegedés, valamint a fokozott expozíciós esetek szolgálattal, munkavégzéssel összefüggő minősítését a munkavédelmi hatóság, a munkavédelmi felügyelő, az alapellátó orvos, valamint a pszichológus által elkészített és összeállított kivizsgálási dokumentáció, valamint a FÜV Bizottság véleménye alapján végzi el. A bekövetkezett betegséget a hivatásos állomány tagja esetén a 14. melléklet szerinti határozatban szolgálati kötelmekkel összefüggőnek vagy nem összefüggőnek kell minősíteni, továbbá dönteni kell arról, hogy a betegség a szolgálatellátás során vagy azzal összefüggésben keletkezett-e, munkavállaló esetén a 15. melléklet szerinti határozatban foglalkozási vagy nem foglalkozási megbetegedésnek kell minősíteni. A határozat 5 példányban készül, amelyet a sérült – halál esetén a hozzátartozó –, az alapellátó orvos és a társadalombiztosítási kifizető hely kap, valamint egy-egy példány kerül elhelyezésre az érintett személyi anyagába, valamint az irattárba.
+(7)[^53] Az állományilletékes parancsnok a foglalkozási megbetegedés, valamint a fokozott expozíciós esetek szolgálattal, munkavégzéssel összefüggő minősítését a munkavédelmi hatóság, a munkavédelmi felügyelő, az alapellátó orvos, valamint a pszichológus által elkészített és összeállított kivizsgálási dokumentáció, valamint a felülvizsgáló egység vezető orvosa véleménye alapján végzi el. A bekövetkezett betegséget a hivatásos állomány tagja esetén a 14. melléklet szerinti határozatban szolgálati kötelmekkel összefüggőnek vagy nem összefüggőnek kell minősíteni, továbbá dönteni kell arról, hogy a betegség a szolgálatellátás során vagy azzal összefüggésben keletkezett-e, munkavállaló esetén a 15. melléklet szerinti határozatban foglalkozási vagy nem foglalkozási megbetegedésnek kell minősíteni. A határozat 5 példányban készül, amelyet a sérült – halál esetén a hozzátartozó –, az alapellátó orvos és a társadalombiztosítási kifizető hely kap, valamint egy-egy példány kerül elhelyezésre az érintett személyi anyagába, valamint az irattárba.
 
-(8) A megállapított foglalkozási megbetegedésről az állományilletékes parancsnok a 16. melléklet szerinti nyomtatványon értesíti
+(8)[^54] A megállapított foglalkozási megbetegedésről az állományilletékes parancsnok a 16. melléklet szerinti nyomtatványon értesíti
 
 a) a munkahigiénés és foglalkozás-egészségügyi szervet,
 
-b) az Országos Egészségbiztosítási Pénztárt,
+b) a Nemzeti Egészségbiztosítási Alapkezelőt,
 
-c)[^53] a társadalombiztosítási kifizetőhelyet, annak hiányában az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatalt.
+c) a társadalombiztosítási kifizetőhelyet, annak hiányában az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatalt.
 
-Az állományilletékes parancsnok az értesítéssel egyidejűleg mellékeli a minősítésről szóló határozat másolatát, továbbá az Országos Egészségbiztosítási Pénztár részére mellékeli a 12. melléklet szerinti bejelentő lapot, valamint a 13. melléklet szerinti vizsgálati jegyzőkönyvet.
+(8a)[^55] Az állományilletékes parancsnok a (8) bekezdés szerinti értesítéssel egyidejűleg mellékeli a minősítésről szóló határozat másolatát, továbbá a Nemzeti Egészségbiztosítási Alapkezelő részére mellékeli a 12. melléklet szerinti bejelentő lapot, valamint a 13. melléklet szerinti vizsgálati jegyzőkönyvet.
 
 (9) Az állományilletékes parancsnok köteles felhívni az érintett figyelmét arra, hogy ha a betegséggel kapcsolatban kára keletkezett kárigényét a balesetminősítő határozat kézhezvételétől számított 30 napon belül hivatásos állomány tagja a 10. melléklet, munkavállaló a 11. melléklet vagy a 11/A. melléklet szerinti nyomtatványon terjesztheti elő.
 
@@ -38,5 +38,7 @@ Az állományilletékes parancsnok az értesítéssel egyidejűleg mellékeli a 
 [^49]: A 28/A. § (4) bekezdés a) pontja a 11/2015. (III. 31.) BM rendelet 10. § d) pontja szerint módosított szöveg.
 [^50]: A 28/A. § (4) bekezdés b) pontja a 11/2015. (III. 31.) BM rendelet 10. § e) pontja szerint módosított szöveg.
 [^51]: A 28/A. § (4) bekezdés c) pontja a 11/2015. (III. 31.) BM rendelet 10. § f) pontja szerint módosított szöveg.
-[^52]: A 28/A. § (7) bekezdése az 55/2016. (XII. 22.) BM rendelet 5. § c) pontja szerint módosított szöveg.
-[^53]: A 28/A. § (8) bekezdés c) pontja a 11/2015. (III. 31.) BM rendelet 10. § g) pontja szerint módosított szöveg.
+[^52]: A 28/A. § (6) bekezdése a 2/2021. (I. 14.) BM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^53]: A 28/A. § (7) bekezdése az 55/2016. (XII. 22.) BM rendelet 5. § c) pontja, a 2/2021. (I. 14.) BM rendelet 29. § (4) bekezdése szerint módosított szöveg.
+[^54]: A 28/A. § (8) bekezdése a 2/2021. (I. 14.) BM rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^55]: A 28/A. § (8a) bekezdését a 2/2021. (I. 14.) BM rendelet 29. § (3) bekezdése iktatta be.
