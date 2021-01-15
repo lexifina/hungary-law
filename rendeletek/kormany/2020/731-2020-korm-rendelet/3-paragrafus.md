@@ -1,3 +1,3 @@
-3. §[^1]
+3. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
 
-[^1]: A 3. § a 2. § (2) bekezdése alapján 2021. január 15-én lép hatályba.
+(2) Ez a rendelet 2021. február 8-án hatályát veszti.
