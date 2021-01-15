@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya, Románia Kormánya, a Szlovák Köztársaság Kormánya és Ukrajna Kormánya között a többnemzetiségű műszaki zászlóalj létrehozásáról szóló Megállapodás Jegyzőkönyve (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
