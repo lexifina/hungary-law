@@ -1,8 +1,8 @@
-## 45/A. §[^53] A kijelölt beruházás-lebonyolító a 42. § (2) bekezdés a) pontjában rögzített feladatait a 43. § (1) bekezdésében meghatározott előirányzat terhére látja el, azzal, hogy a kijelölt beruházás-lebonyolító ezen feladatainak ellátására a 43. § (1) bekezdés szerinti előirányzat legfeljebb 5%-a használható fel a Kezelő útján kötött támogatási szerződés alapján.
+## 45/A. §[^54] A kijelölt beruházás-lebonyolító a 42. § (2) bekezdés a) pontjában rögzített feladatait a 43. § (1) bekezdésében meghatározott előirányzat terhére látja el, azzal, hogy a kijelölt beruházás-lebonyolító ezen feladatainak ellátására a 43. § (1) bekezdés szerinti előirányzat legfeljebb 5%-a használható fel a Kezelő útján kötött támogatási szerződés alapján.
 
 ## 20. A beruházási támogatás szabályai
 
-46. § (1)[^54] A beruházás finanszírozásához hitelintézettel megkötendő szerződésben előírt önerő pótlására, illetve amennyiben az ingatlan tulajdonosa hitelfelvétel nélkül, részben saját forrásai felhasználásával kívánja a beruházást lebonyolítani, a beruházás részfinanszírozására támogatás nyújtható.
+46. § (1)[^55] A beruházás finanszírozásához hitelintézettel megkötendő szerződésben előírt önerő pótlására, illetve amennyiben az ingatlan tulajdonosa hitelfelvétel nélkül, részben saját forrásai felhasználásával kívánja a beruházást lebonyolítani, a beruházás részfinanszírozására támogatás nyújtható.
 
 (2) Az önerőt pótló támogatás csak olyan hitelszerződéshez igényelhető, amely alapján kizárólag forint alapú kölcsön vehető igénybe, és a kamat, a költség, valamint a tőke törlesztése is csak forintban történhet.
 
@@ -12,5 +12,5 @@
 
 (5) A támogatási kérelem benyújtásához a hitelintézetnek az (1) bekezdés szerinti szerződés megkötésére szóló ajánlatát, vagy a saját finanszírozású rész rendelkezésre állásának igazolását mellékelni kell.
 
-[^53]: A 45/A. §-t a 197/2020. (V. 12.) Korm. rendelet 10. §-a iktatta be.
-[^54]: A 46. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^54]: A 45/A. §-t a 197/2020. (V. 12.) Korm. rendelet 10. §-a iktatta be.
+[^55]: A 46. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.

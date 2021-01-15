@@ -10,5 +10,12 @@
 
 (5)[^11] Az Országház homlokzati címergalériájában a címertáblák az eredeti címertáblákhoz méretben és anyaghasználatban illeszkedő módon, tartalmi változás nélkül és tartalmi változással egyaránt cserélhetők, a címertan alkalmazott szabályai szerint. A (3) és (4) bekezdést ebben az esetben nem kell alkalmazni.
 
+(6)[^12] A Budapest V. kerület belterület 24891 helyrajzi számú telken megvalósuló Agrárminisztérium épület teljes rekonstrukciója során
+
+a) új homlokzati nyílás létesíthető azzal, hogy az új nyílások kialakításánál a településképi követelményektől a KNEB hozzájárulásával lehet eltérni,
+
+b) a középső udvar közösségi térként történő használata, valamint a Kossuth Lajos tér és a Kozma Ferenc utca közötti gyalogos kapcsolat biztosítása érdekében vagy azzal összefüggésben a meglévő homlokzati elemeken és egyéb történeti épületelemeken építési tevékenység a KNEB hozzájárulásával engedélyezhető.
+
 [^10]: A 8. § (1) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^11]: A 8. § (5) bekezdését a 320/2019. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 8. § (6) bekezdését a 2/2021. (I. 7.) Korm. rendelet 7. §-a iktatta be.

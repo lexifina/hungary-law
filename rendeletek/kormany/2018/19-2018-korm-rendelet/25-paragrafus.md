@@ -6,6 +6,6 @@
 
 (4) Közterületen a tulajdonos és a KNEB hozzájárulásával telepíthető vendéglátó terasz és használható terület filmforgatás helyszíneként.
 
-(5)[^33] Vendéglátó terasz kizárólag vendéglátási rendeltetéshez, épülethez kapcsolódóan telepíthető.
+(5)[^34] Vendéglátó terasz kizárólag vendéglátási rendeltetéshez, épülethez kapcsolódóan telepíthető.
 
-[^33]: A 25. § (5) bekezdése a 197/2020. (V. 12.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^34]: A 25. § (5) bekezdése a 197/2020. (V. 12.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.

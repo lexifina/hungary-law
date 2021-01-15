@@ -16,9 +16,9 @@ bb) a tervezett építési tevékenység vagy rendeltetésváltoztatás nem ille
 
 bc) a KNEB nyilatkozatában a tudomásulvételt nem támogatja.
 
-(2)[^43]
+(2)[^44] A hatóság által tudomásul vett tevékenységet a hatóság döntésének közlésétől számított egy éven belül lehet megkezdeni. Ha a bejelentésben megjelölt tevékenységet a döntés közlésétől számított egy éven belül nem kezdik el, a bejelentést az e rendeletben meghatározottak szerint meg kell ismételni.
 
-(3)[^44] A hatóság az (1) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+(3)[^45] A hatóság az (1) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
 
-[^43]: A 35. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^44]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^44]: A 35. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 8. §-a iktatta be.
+[^45]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.

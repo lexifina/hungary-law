@@ -196,6 +196,6 @@
 
 | 97. | Szabadság tér 17. / Nádor utca 25–27. / Széchenyi utca 18. / Zoltán utca 17. | 24714 | teljes épület |  |  |
 
-2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^69]
+2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^72]
 
-[^69]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a, a 85/2019. (IV. 23.) Korm. rendelet 10. § c) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése és 15. § d) pontja szerint módosított szöveg.
+[^72]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a, a 85/2019. (IV. 23.) Korm. rendelet 10. § c) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése és 15. § d) pontja szerint módosított szöveg.
