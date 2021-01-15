@@ -1,5 +1,3 @@
-## 32. §[^33]
+## 32. § A 368/2011. Korm. rendelet 171. § (1) bekezdésében a „kétmillió” szövegrész helyébe a „négymillió” szöveg lép.
 
 ## 24. A szén-dioxid geológiai tárolásáról szóló 145/2012. (VII. 3.) Korm. rendelet módosítása
-
-[^33]: A 32. § a 66. § (2) bekezdése alapján 2021. január 15-én lép hatályba.

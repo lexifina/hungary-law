@@ -1,3 +1,3 @@
-2. melléklet a 713/2020. (XII. 30.) Korm. rendelethez[^68]
+2. melléklet a 713/2020. (XII. 30.) Korm. rendelethez[^63]
 
-[^68]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 45. §[^46]
+## 45. §[^41]
 
-[^46]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

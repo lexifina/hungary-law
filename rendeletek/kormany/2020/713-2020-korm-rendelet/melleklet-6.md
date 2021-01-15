@@ -1,3 +1,3 @@
-6. melléklet a 713/2020. (XII. 30.) Korm. rendelethez[^72]
+6. melléklet a 713/2020. (XII. 30.) Korm. rendelethez[^67]
 
-[^72]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

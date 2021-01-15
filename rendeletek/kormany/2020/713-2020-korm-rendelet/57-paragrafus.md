@@ -1,5 +1,5 @@
-## 56. §[^57]
+## 56. §[^52]
 
 ## 42. Egyes hajózási hatósági eljárások részletes szabályairól szóló 515/2017. (XII. 29.) Korm. rendelet módosítása
 
-[^57]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
