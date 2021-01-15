@@ -16,7 +16,7 @@ d)[^3]
 
 (2)[^4] A rendelet hatálya kiterjed az egészségügyi alapellátás tekintetében:
 
-a)[^5] az Országgyűlési Őrség kivételével a rendvédelmi szervek és a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatok rendvédelmi alkalmazottaira, valamint a polgári nemzetbiztonsági szolgálatok közalkalmazottaira, köztisztviselőire és kormánytisztviselőire;
+a)[^5] az Országgyűlési Őrség kivételével a rendvédelmi szervek rendvédelmi alkalmazottaira, valamint a polgári nemzetbiztonsági szolgálatok közalkalmazottaira, köztisztviselőire és kormánytisztviselőire;
 
 b)[^6] a hivatásos, a rendvédelmi alkalmazotti, a közalkalmazotti, a köztisztviselői vagy a kormánytisztviselői állományból nyugállományba helyezettekre, valamint szolgálati járandóságra jogosultakra, az Országgyűlési Őrség esetében a hivatásos, a rendvédelmi alkalmazotti állományból nyugállományba helyezettekre.
 
@@ -24,5 +24,5 @@ b)[^6] a hivatásos, a rendvédelmi alkalmazotti, a közalkalmazotti, a köztisz
 [^2]: Az 1. § (1) bekezdés a) pont ab) alpontját a 45/2020. (XII. 16.) BM rendelet 113. § b) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (1) bekezdés d) pontját a 45/2020. (XII. 16.) BM rendelet 113. § c) pontja hatályon kívül helyezte.
 [^4]: Az 1. § (2) bekezdése a 10/2010. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § (2) bekezdés a) pontja az 56/2012. (XI. 22.) BM rendelet 159. § c) pontja, a 6/2019. (III. 11.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés a) pontja az 56/2012. (XI. 22.) BM rendelet 159. § c) pontja, a 6/2019. (III. 11.) BM rendelet 2. § b) pontja, a 2/2021. (I. 14.) BM rendelet 28. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 27. §-át.
 [^6]: Az 1. § (2) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § a) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § d) pontja, a 6/2019. (III. 11.) BM rendelet 2. § c) pontja szerint módosított szöveg.
