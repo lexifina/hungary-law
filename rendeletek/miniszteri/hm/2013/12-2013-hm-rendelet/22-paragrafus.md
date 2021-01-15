@@ -1,4 +1,4 @@
-22. § (1)[^65] A költségvetésben külön meghatározott előirányzat, valamint jóváhagyott segélykeret terhére a HM közigazgatási államtitkára mérlegelés alapján engedélyezheti segély kifizetését
+22. § (1)[^66] A költségvetésben külön meghatározott előirányzat, valamint jóváhagyott segélykeret terhére a HM közigazgatási államtitkára mérlegelés alapján engedélyezheti segély kifizetését
 
 a) a nyugállományú katonának, a nyugdíjas honvédelmi alkalmazottnak, a nyugdíjas közalkalmazottnak, elhalálozása esetén a közeli hozzátartozójának, élettársának,
 
@@ -10,7 +10,7 @@ d) annak, akinek szolgálati viszonya szolgálati kötelmekkel, illetve honvéde
 
 e) annak az állományból kivált személynek, akinek szolgálati kötelmekkel összefüggő balesete vagy megbetegedése a szolgálat vagy a honvédelem ügye érdekében kifejtett kiemelkedő, különleges tevékenység, bátor helytállás, hősies magatartás tanúsítása során vagy azzal összefüggésben következett be, és ennek elismerésére a „Hazáért Érdemjelet” adományozták részére, valamint elhalálozása esetén özvegyének, árvájának.
 
-(2)[^66] A nyugállományú katona, illetve nyugdíjas honvédelmi alkalmazott, közalkalmazott részére nem engedélyezhető az (1) bekezdés szerinti segély kifizetése, ha szolgálati viszonya, honvédelmi alkalmazotti, közalkalmazotti jogviszonya
+(2)[^67] A nyugállományú katona, illetve nyugdíjas honvédelmi alkalmazott, közalkalmazott részére nem engedélyezhető az (1) bekezdés szerinti segély kifizetése, ha szolgálati viszonya, honvédelmi alkalmazotti, közalkalmazotti jogviszonya
 
 a) jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése,
 
@@ -26,7 +26,7 @@ f) nyugállományú katona esetében a katonai szolgálatra történő, fizikai 
 
 ## miatt szűnt meg.
 
-(3)[^67] Az (1) bekezdés szerinti segély iránti kérelmet az MH hadkiegészítésért és központi nyilvántartásért felelős szervéhez, a HM közigazgatási államtitkárának címezve kell benyújtani az erre rendszeresített formanyomtatvány alkalmazásával.
+(3)[^68] Az (1) bekezdés szerinti segély iránti kérelmet az MH hadkiegészítésért és központi nyilvántartásért felelős szervéhez, a HM közigazgatási államtitkárának címezve kell benyújtani az erre rendszeresített formanyomtatvány alkalmazásával.
 
 (4) A (3) bekezdés szerinti formanyomtatványnak a következő formai és tartalmi elemeket kell tartalmaznia:
 
@@ -42,6 +42,6 @@ e) a kérelmező aláírása,
 
 f) az MH hadkiegészítésért és központi nyilvántartásért felelős szervének környezettanulmánya, valamint a kérelem benyújtását megelőző 12 hónapban esetlegesen nyújtott segélyekre vonatkozó adatok.
 
-[^65]: A 22. § (1) bekezdése a 17/2020. (XII. 12.) HM rendelet 11. §-ával megállapított szöveg.
-[^66]: A 22. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg, nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § a) és b) pontja szerint módosított szöveg.
-[^67]: A 22. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 15. § c) pontja szerint módosított szöveg.
+[^66]: A 22. § (1) bekezdése a 17/2020. (XII. 12.) HM rendelet 11. §-ával megállapított szöveg.
+[^67]: A 22. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg, nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § a) és b) pontja szerint módosított szöveg.
+[^68]: A 22. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 15. § c) pontja szerint módosított szöveg.

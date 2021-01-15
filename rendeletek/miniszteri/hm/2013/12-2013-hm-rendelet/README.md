@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-12-20-1
 | 2018-07-28 | 2013-12-20-15.10 | 12/2018. (VII. 27.) HM rendelet |
 | 2019-01-01 | 2013-12-20-15.11 | 20/2018. (XII. 28.) HM rendelet |
 | 2020-12-13 | 2013-12-20-15.12 | 17/2020. (XII. 12.) HM rendelet |
+| 2021-01-15 | 2013-12-20-15.13 | 1/2021. (I. 14.) HM rendelet |

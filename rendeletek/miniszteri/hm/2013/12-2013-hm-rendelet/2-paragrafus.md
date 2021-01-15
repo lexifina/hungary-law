@@ -31,7 +31,7 @@ c) a KNBSZ főigazgatója a KNBSZ állománya tekintetében.
 (3)[^11] A felszámítási alap összege 38 650 Ft.
 
 [^5]: A 2. § (1) bekezdése a 10/2017. (VIII. 31.) HM rendelet 31. §-ával megállapított szöveg.
-[^6]: A 2. § (1) bekezdés 4. pontját a 17/2020. (XII. 12.) HM rendelet 16. §-a hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés 4. pontját a 17/2020. (XII. 12.) HM rendelet 16. §-a hatályon kívül helyezte. [Az 1/2021. (I. 14.) HM rendelet 1. §-ával elrendelt módosítás nem vezethető át.]
 [^7]: A 2. § (1) bekezdés 6. pontja a 20/2018. (XII. 28.) HM rendelet 75. § c) pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés 8. pontját a 12/2018. (VII. 27.) HM rendelet 25. §-a iktatta be, hatályon kívül helyezte a 20/2018. (XII. 28.) HM rendelet 76. § a) pontja.
 [^9]: A 2. § (2) bekezdés a) pontja a 17/2020. (XII. 12.) HM rendelet 15. § a) pontja szerint módosított szöveg.
