@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-61-20-0
 | 2019-01-01 | 2012-61-20-0A.10 | 87/2012. (XII. 29.) BM rendelet |
 | 2020-01-01 | 2012-61-20-0A.11 | 87/2012. (XII. 29.) BM rendelet |
 | 2020-11-05 | 2012-61-20-0A.12 | 87/2012. (XII. 29.) BM rendelet |
+| 2021-01-15 | 2012-61-20-0A.13 | 44/2021. (XII. 16.) BM rendelet |

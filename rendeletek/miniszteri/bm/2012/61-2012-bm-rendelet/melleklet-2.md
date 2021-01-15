@@ -1016,7 +1016,7 @@
 
 | 3. | Békéssámson | II. |
 
-| 4. | Csanádapáca | III. |
+| 4. | Csanádapáca | II. |
 
 | 5. | Dombegyház | III. |
 
@@ -1032,7 +1032,7 @@
 
 | 11. | Kisdombegyház | III. |
 
-| 12. | Kunágota | III. |
+| 12. | Kunágota | II. |
 
 | 13. | Magyarbánhegyes | III. |
 
@@ -1050,11 +1050,11 @@
 
 | 20. | Nagykamarás | III. |
 
-| 21. | Nagyszénás | II. |
+| 21. | Nagyszénás | III. |
 
 | 22. | Orosháza | I. |
 
-| 23. | Pusztaföldvár | III. |
+| 23. | Pusztaföldvár | II. |
 
 | 24. | Pusztaottlaka | III. |
 
@@ -1938,7 +1938,7 @@
 
 | 2. | Csanytelek | II. |
 
-| 3. | Csongrád | II. |
+| 3. | Csongrád | I. |
 
 | 4. | Derekegyház | II. |
 
@@ -3418,7 +3418,7 @@
 
 | 35. | Mohora | II. |
 
-| 36. | Nagylóc | II. |
+| 36. | Nagylóc | III. |
 
 | 37. | Nagyoroszi | II. |
 
@@ -3434,7 +3434,7 @@
 
 | 43. | Nógrádsáp | III. |
 
-| 44. | Nógrádsipek | II. |
+| 44. | Nógrádsipek | III. |
 
 | 45. | Nógrádszakál | II. |
 
@@ -3886,9 +3886,9 @@
 
 | 23. | Pilis | III. |
 
-| 24. | Pusztavacs | II. |
+| 24. | Pusztavacs | I. |
 
-| 25. | Táborfalva | II. |
+| 25. | Táborfalva | I. |
 
 | 26. | Tatárszentgyörgy | II. |
 
@@ -4100,7 +4100,7 @@
 
 | 42. | Porrogszentpál | III. |
 
-| 43. | Potony | II. |
+| 43. | Potony | III. |
 
 | 44. | Rinyabesenyő | II. |
 
@@ -4744,7 +4744,7 @@
 
 | 18. | Lövőpetri | III. |
 
-| 19. | Mándok | I. |
+| 19. | Mándok | III. |
 
 | 20. | Mezőladány | II. |
 
@@ -4770,7 +4770,7 @@
 
 | 31. | Tiszabercel | II. |
 
-| 32. | Tiszabezdéd | I. |
+| 32. | Tiszabezdéd | II. |
 
 | 33. | Tiszakanyár | II. |
 
@@ -6652,6 +6652,6 @@
 
 | 132. | Zebecke | III. |
 
-2. melléklet a 61/2012. (XII. 11.) BM rendelethez[^4]
+2. melléklet a 61/2012. (XII. 11.) BM rendelethez[^5]
 
-[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
