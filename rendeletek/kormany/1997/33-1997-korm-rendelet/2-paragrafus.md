@@ -30,9 +30,11 @@ gd) az ideiglenes vagy átmeneti védettség kimondásáról szóló hatósági 
 
 ge)[^10] tájvédelmi előírások megsértése esetében a területnagyság alapján, megkezdett hektáronként legfeljebb százezer forint;
 
-h)[^11] az a)–g) pontokba nem tartozó esetekben legfeljebb kettőszázezer forint.
+gf)[^11] járművel történő közlekedés esetén legfeljebb százezer forint;
 
-(2)[^12] Fokozottan védett természeti terület, illetve fokozottan védett természeti érték veszélyeztetése, károsítása, elpusztítása esetében az alapbírság az (1) bekezdés b)–h) pontjaiban meghatározott mérték kétszerese.
+h)[^12] az a)–g) pontokba nem tartozó esetekben legfeljebb kettőszázezer forint.
+
+(2)[^13] Fokozottan védett természeti terület, illetve fokozottan védett természeti érték veszélyeztetése, károsítása, elpusztítása esetében az alapbírság az (1) bekezdés b)–h) pontjaiban meghatározott mérték kétszerese.
 
 [^2]: A 2. § (1) bekezdés a) pont nyitó szövegrésze a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés a) pont ab) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -43,5 +45,6 @@ h)[^11] az a)–g) pontokba nem tartozó esetekben legfeljebb kettőszázezer fo
 [^8]: A 2. § (1) bekezdés g) pontja a 713/2020. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (1) bekezdés g) pont gc) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (5) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § (1) bekezdés g) pont ge) alpontját a 336/2013. (IX. 20.) Korm. rendelet 2. § (6) bekezdése iktatta be.
-[^11]: A 2. § (1) bekezdés h) pontja a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^12]: A 2. § (2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés g) pont gf) alpontját a 713/2020. (XII. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^12]: A 2. § (1) bekezdés h) pontja a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 2. § (2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
