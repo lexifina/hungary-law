@@ -17,3 +17,7 @@ f) az Alkotmányvédelmi Hivatal,
 g) a Nemzetbiztonsági Szakszolgálat,
 
 h) a Terrorelhárítási Információs és Bűnügyi Elemző Központ
+
+i)[^1] az idegenrendészeti szerv
+
+[^1]: Az 1. § i) pontját a 2/2021. (I. 14.) BM rendelet 31. §-a iktatta be.

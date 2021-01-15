@@ -1,6 +1,6 @@
 ## 11. § Ha a hivatásos állomány tagja a Hszt. 82/A. § (6) bekezdése szerint az egészségkárosodási ellátásra jogosultság megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését kéri, e kérelmet az állományilletékes parancsnoknak címezve a humánigazgatási szakszolgálathoz kell benyújtani. Ebben az esetben a 9. § (2) bekezdése szerinti tájékoztatással egyidejűleg a humánigazgatási szakszolgálat intézkedik a hivatásos állomány tagjának felmentése érdekében.
 
-## 12. §[^7] A Hszt. 82/D. § (2) bekezdése alapján az állományilletékes parancsnok az eljárás lefolytatásához szükséges alábbi iratokat terjeszti fel a központi humánigazgatási szakszolgálatnak:
+## 12. §[^12] A Hszt. 82/D. § (2) bekezdése alapján az állományilletékes parancsnok az eljárás lefolytatásához szükséges alábbi iratokat terjeszti fel a központi humánigazgatási szakszolgálatnak:
 
 a) a FÜV Bizottság által folytatott eljárás során beszerzett, a rehabilitációs hatóság által kiállított szakvélemény,
 
@@ -22,4 +22,4 @@ i) a döntéshozatalhoz szükséges egyéb személyügyi adatok, és
 
 j) a szolgálati viszony megszüntetéséről szóló állományparancs vagy határozat tervezete.
 
-[^7]: A 12. § nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 12. § nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.

@@ -1,7 +1,7 @@
-7. § (1)[^5] A Hszt. 82/C. § (1) bekezdése szerinti kérelmet a hivatásos állomány tagja az állományilletékes parancsnoknak címezve a humánigazgatási szakszolgálathoz nyújthatja be. A humánigazgatási szakszolgálat e kérelem alapján haladéktalanul intézkedik a Hszt. 82/C. § (2c)–(2d) bekezdésében foglaltak végrehajtása érdekében.
+7. § (1)[^9] A Hszt. 82/C. § (1) bekezdése szerinti kérelmet a hivatásos állomány tagja az állományilletékes parancsnoknak címezve a humánigazgatási szakszolgálathoz nyújthatja be. A humánigazgatási szakszolgálat e kérelem alapján haladéktalanul intézkedik a Hszt. 82/C. § (2c)–(2d) bekezdésében foglaltak végrehajtása érdekében.
 
 (2) A Hszt. 82/C. § (1) bekezdése szerinti kérelem esetén a 4–5. §-ban meghatározott eljárást mindaddig folytatni kell, ameddig a rendvédelmi szervet irányító miniszter (a továbbiakban: miniszter) nem dönt a továbbfoglalkoztatási kötelezettség alóli mentesítés tárgyában, azzal, hogy a hivatásos állomány tagját csak a miniszter elutasító döntése esetében, a döntés kézhezvételét követően lehet nyilatkoztatni a felajánlott álláshely elfogadásáról.
 
 (3) Az egészségi állapota miatt az ügyei vitelében tartósan akadályozott és ebből kifolyólag nyilatkozattételre nem képes személy esetében a Hszt. 82/C. § (1) bekezdése szerinti kérelmet helyette és nevében törvényes képviselője is előterjesztheti.
 
-[^5]: A 7. § (1) bekezdése a 40/2017. (XII. 29.) BM rendelet 16. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 7. § (1) bekezdése a 40/2017. (XII. 29.) BM rendelet 16. § (5) bekezdés c) pontja szerint módosított szöveg.
