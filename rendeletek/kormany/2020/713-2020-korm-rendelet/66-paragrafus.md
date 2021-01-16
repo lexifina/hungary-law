@@ -1,4 +1,4 @@
-## 65. §[^61]
+## 65. §[^67]
 
 ## 48. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. § (1) bekezdése, a 32. § és a 39–41. §, valamint a 14. és 15. melléklet a rendelet kihirdetését követő tizenhatodik napon lép hatályba.
 
-[^61]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
