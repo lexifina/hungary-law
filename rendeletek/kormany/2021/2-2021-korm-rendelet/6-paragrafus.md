@@ -1,1 +1,3 @@
-## 5. § A 100/2012. (V. 16.) Korm. rendelet a 2. melléklet szerinti 2. melléklettel egészül ki.
+6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
