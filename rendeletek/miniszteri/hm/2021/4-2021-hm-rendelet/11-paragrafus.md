@@ -1,0 +1,3 @@
+11. § (1) A határozatból egy példányt a honvédelmi alkalmazottnak kell kézbesíteni, egy példányt az ügy irataihoz kell csatolni, egy-egy további példányt a határozat véglegessé válása után ellenjegyzésre, illetve végrehajtásra az ellátó pénzügyi és számviteli szervezetnek, valamint logisztikai szervezetnek kell átadni. Gondnok vagy ügyvéd eljárása esetén a határozat egy további példányát a gondnok, illetve az ügyvéd részére is kézbesíteni kell.
+
+(2) A határozat átvételének tényét és idejét a honvédelmi alkalmazott aláírásával igazolja. Ha a kézbesítés postai úton történik, a határozatot tértivevényes küldeményben kell a honvédelmi alkalmazottnak megküldeni.
