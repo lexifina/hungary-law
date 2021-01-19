@@ -1,0 +1,1 @@
+## 12/C. § A kulturális szakmai és kulturális működéstámogató munkakörben foglalkoztatott honvédelmi alkalmazotti munkakörökre a 3. alcímben foglaltakat az ezen alcímben foglalt eltérésekkel kell alkalmazni.

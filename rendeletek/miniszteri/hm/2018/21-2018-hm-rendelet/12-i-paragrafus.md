@@ -1,0 +1,1 @@
+## 12/H. § Ha a munkakörre képesítési előírás nincs meghatározva, a munkakör betölthető mindazon végzettséggel, szakképesítéssel, szakképzettséggel, amelyet a Haj.tv. 62. § (1) bekezdése a munkakörhöz a meghatározott fizetési osztályba sorolás feltételeként előír.

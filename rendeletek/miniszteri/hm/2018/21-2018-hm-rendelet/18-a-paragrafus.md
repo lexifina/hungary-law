@@ -1,0 +1,1 @@
+## 18. § A honvédelmi alkalmazotti fizetési osztályok első fizetési fokozatához tartozó illetmény garantált összegét, valamint a növekvő számú fizetési fokozatokhoz tartozó – az első fizetési fokozat garantált illetményére épülő – legkisebb szorzószámokat a 3. melléklet határozza meg.

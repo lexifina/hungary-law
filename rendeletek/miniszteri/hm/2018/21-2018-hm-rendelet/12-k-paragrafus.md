@@ -1,0 +1,5 @@
+12/K. § (1) Kulturális intézményen kívül a könyvtári, levéltári, illetve muzeális intézményi munkakörök betöltéséhez előírt szakvizsgával egyenértékűnek kell tekinteni az ellátott kulturális tevékenységnek megfelelő, szakirányú továbbképzésben szerzett oklevelet.
+
+(2) Kulturális intézményen kívül a közművelődési munkakör esetében jogszabályban előírt felsőfokú szakirányú munkaköri szakvizsgával egyenértékű az államilag elismert szakképzés szerinti felsőfokú közművelődési szakember, a felsőfokú kulturális menedzser és a felsőfokú közművelődési menedzser szakképesítés megszerzését igazoló bizonyítvány.
+
+(3) Kulturális intézményen kívül a besorolás megállapításakor főiskolai szintű végzettségként kell figyelembe venni a tanítóképző intézeti népművelő-könyvtáros, továbbá a tanítóképző főiskolai szakkollégiumi könyvtáros, népművelő oklevelet, valamint a hároméves népművelő-könyvtáros szakot vagy könyvtárosképző szaktanfolyamot végzettek részére a főiskolai végzettség megszerzésének feltételeiről szóló 2/1976. (IX. 14.) OM rendelet alapján szerzett képzettséget.

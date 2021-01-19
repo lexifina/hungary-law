@@ -2,6 +2,11 @@
 
 6. § (1) A honvédelmi alkalmazotti munkaköröket az 1. melléklet határozza meg.
 
-(2) A munkaköri jegyzékek és az állománytáblák az 1. melléklet szerinti munkaköri megnevezéseket tartalmazhatnak.
+(2)[^4] A munkaköri jegyzékek és állománytáblák (továbbiakban együtt: állománytábla) az 1. melléklet szerinti munkaköri megnevezéseket tartalmazhatnak.
 
 (3) Az (1) és (2) bekezdéstől eltérően az egyes ágazati jogszabályok eltérő honvédelmi alkalmazotti munkaköröket is megállapíthatnak.
+
+(4)[^5] Katonai beosztásban foglalkoztatott honvédelmi alkalmazott kinevezési okmányában kizárólag honvédelmi alkalmazotti munkaköri megnevezés használható. Ha a katonai beosztás és a honvédelmi alkalmazotti munkakör megnevezése eltérő, a munkakör leírás szerinti feladatrendszerét tekintve az ahhoz legközelebb álló honvédelmi alkalmazotti munkaköri megnevezést kell alkalmazni.
+
+[^4]: A 6. § (2) bekezdése az 5/2021. (I. 18.) HM rendelet 15. § a) pontja szerint módosított szöveg.
+[^5]: A 6. § (4) bekezdését az 5/2021. (I. 18.) HM rendelet 3. §-a iktatta be.
