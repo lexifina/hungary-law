@@ -1,6 +1,6 @@
-## 18. §[^28]
+## 18. §[^29]
 
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^29]
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^30]
 
 1. Forgalomba helyezés előtti műszaki vizsgálat keretében érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki megvizsgálás)
 
@@ -280,5 +280,5 @@ alapján történő megállapítása)”
 
 | 26. | Sb2 |  |
 
-[^28]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^29]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.
