@@ -2,6 +2,6 @@
 
 ## 13. Módosító rendelkezések
 
-39. § A kártérítési felelősségről, valamint egyes meg nem térülő károk leírásának és törlésének szabályairól szóló 10/2013. (VIII. 12.) HM rendelet a következő 35/A. §-sal egészül ki:
+39. §[^1]
 
-„35/A. § E fejezetet kell alkalmazni a honvédelmi alkalmazottak károkozásával összefüggésben felmerülő meg nem térülő károk leírására és törlésére.”
+[^1]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
