@@ -1,4 +1,4 @@
-8/F. §[^28] (1) A záróvizsga
+8/F. §[^29] (1) A záróvizsga
 
 a) a 8/D. § (4) bekezdés d) pontja szerinti esetelemzés értékeléséből és
 
@@ -24,4 +24,4 @@ d) „nem felelt meg”
 
 (6) A KOP-képzésért felelős szerv az általa kiadott, (5) bekezdés szerinti tanúsítványokról nyilvántartást vezet.
 
-[^28]: A 8/F. §-t a 48/2015. (X. 28.) EMMI rendelet 10. §-a iktatta be.
+[^29]: A 8/F. §-t a 48/2015. (X. 28.) EMMI rendelet 10. §-a iktatta be.
