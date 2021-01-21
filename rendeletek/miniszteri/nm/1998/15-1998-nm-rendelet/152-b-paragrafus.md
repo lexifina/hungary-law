@@ -1,4 +1,4 @@
-152/B. §[^526] (1) Az engedélyes címe szerint illetékes szakszolgálat látja el a menekült státuszt nem kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorú gyermekvédelmi gyámságával kapcsolatos feladatokat.
+152/B. §[^528] (1) Az engedélyes címe szerint illetékes szakszolgálat látja el a menekült státuszt nem kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorú gyermekvédelmi gyámságával kapcsolatos feladatokat.
 
 (2) A fővárosi területi gyermekvédelmi szakszolgálat látja el
 
@@ -8,4 +8,4 @@ b) a menekültként elismert, nevelésbe vett gyermek
 
 gyermekvédelmi gyámságával kapcsolatos feladatokat.
 
-[^526]: A 152/B. §-t a 46/2015. (X. 12.) EMMI rendelet 4. §-a iktatta be.
+[^528]: A 152/B. §-t a 46/2015. (X. 12.) EMMI rendelet 4. §-a iktatta be.

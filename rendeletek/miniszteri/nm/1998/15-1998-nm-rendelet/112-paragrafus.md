@@ -1,4 +1,4 @@
-## 111. §[^296] A gyermekotthon nevelési alapdokumentuma a pedagógus munkakörben foglalkoztatott, továbbá a nevelő-gondozó munkát közvetlenül segítő felsőfokú végzettségű munkatársak (a továbbiakban együtt: nevelőtestület) által elfogadott, a nevelés céljait, alapelveit és módszereit tartalmazó, a 4/A. § szerinti szakmai program.
+## 111. §[^298] A gyermekotthon nevelési alapdokumentuma a pedagógus munkakörben foglalkoztatott, továbbá a nevelő-gondozó munkát közvetlenül segítő felsőfokú végzettségű munkatársak (a továbbiakban együtt: nevelőtestület) által elfogadott, a nevelés céljait, alapelveit és módszereit tartalmazó, a 4/A. § szerinti szakmai program.
 
 112. § (1) A gyermekotthon belső életének rendjét, a gyermek, fiatal felnőtt jogai gyakorlásának és kötelességei teljesítésének szabályait a házirend tartalmazza. A házirendben kell megállapítani különösen
 
@@ -12,7 +12,7 @@ d) a panaszjog érvényesítésének módjára [Gyvt. 36. § (1) bek.],
 
 e) az érdekképviseleti fórum véleményezési és egyetértési jogának gyakorlására,
 
-f)[^297] az irányított tevékenység nélküli szabad levegőn tartózkodás biztosítására
+f)[^299] az irányított tevékenység nélküli szabad levegőn tartózkodás biztosítására
 
 vonatkozó előírásokat.
 
@@ -20,5 +20,5 @@ vonatkozó előírásokat.
 
 (3) A házirend egy példányát a gyermekotthonban jól látható helyen ki kell függeszteni.
 
-[^296]: A 111. § az 1/2017. (II. 14.) EMMI rendelet 14. §-ával megállapított szöveg.
-[^297]: A 112. § (1) bekezdés f) pontját a 2/2018. (I. 18.) EMMI rendelet 20. §-a iktatta be.
+[^298]: A 111. § az 1/2017. (II. 14.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^299]: A 112. § (1) bekezdés f) pontját a 2/2018. (I. 18.) EMMI rendelet 20. §-a iktatta be.

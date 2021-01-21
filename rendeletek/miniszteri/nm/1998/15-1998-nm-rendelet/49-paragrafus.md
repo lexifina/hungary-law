@@ -4,18 +4,18 @@
 
 a) valamennyi gyermek betöltötte a második életévét, vagy
 
-b)[^107] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is nevelnek, gondoznak.
+b)[^109] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is nevelnek, gondoznak.
 
 (2) Az (1) bekezdés a) pontja szerinti esetben egy bölcsődei csoportban legfeljebb nyolc gyermek nevelhető, gondozható.
 
 (3) Az (1) bekezdés b) pontja szerinti esetben egy bölcsődei csoportban, ha
 
-a)[^108] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb hat gyermek,
+a)[^110] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb hat gyermek,
 
-b)[^109] kettő vagy három sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb három gyermek
+b)[^111] kettő vagy három sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb három gyermek
 
 nevelhető, gondozható.
 
-[^107]: A 49. § (1) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^108]: A 49. § (3) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § e) pontja szerint módosított szöveg.
-[^109]: A 49. § (3) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^109]: A 49. § (1) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^110]: A 49. § (3) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § e) pontja szerint módosított szöveg.
+[^111]: A 49. § (3) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.

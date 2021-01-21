@@ -6,6 +6,6 @@
 
 a) szakszolgálatot,
 
-b)[^314] a szülő lakóhelye szerinti család- és gyermekjóléti központot.
+b)[^316] a szülő lakóhelye szerinti család- és gyermekjóléti központot.
 
-[^314]: A 121. § (3) bekezdés b) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
+[^316]: A 121. § (3) bekezdés b) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
