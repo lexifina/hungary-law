@@ -28,18 +28,21 @@ b) a képesítési előírásoknak megfelelő szakképesítéssel rendelkezik.
 
 (2) A személyes gondoskodást végző személy – a (3) és (4) bekezdésben foglalt kivétellel – folyamatos szakmai továbbképzésben köteles részt venni (a továbbiakban: továbbképzésre kötelezett).
 
-(3)[^5] E rendelet hatálya nem terjed ki a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet alapján vezetőképzésre kötelezett személyes gondoskodást végző személyre.
+(3)[^5] E rendelet hatálya – a (4) bekezdésben foglalt kivétellel – nem terjed ki a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet alapján vezetőképzésre kötelezett, személyes gondoskodást végző személyre.
 
-(4) A személyes gondoskodást végző személy mentesül a továbbképzési kötelezettség alól, ha
+(4)[^6] A személyes gondoskodást végző személy mentesül a továbbképzési kötelezettség alól, ha
 
-a) a reá irányadó öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra,
+a) a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet alapján vezetőképzésre kötelezett,
 
-b) heti 15 óránál kevesebb időtartamban végez személyes gondoskodást vagy
+b) a reá irányadó öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra,
 
-c) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 165. § (2) bekezdés b) pontja alapján vagy a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendelet alapján a nevelőszülő-képesítés megszerzése alól mentesül.
+c) heti 15 óránál kevesebb időtartamban végez személyes gondoskodást, vagy
+
+d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 165. § (2) bekezdés b) pontja alapján vagy a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendelet alapján a nevelőszülő-képesítés megszerzése alól mentesül.
 
 [^1]: Az 1. § a 25/2017. (X. 18.) EMMI rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 4. pontját a 7/2018. (II. 5.) EMMI rendelet 23. §-a iktatta be.
 [^3]: Az 1. § (1) bekezdés 5. pontját a 7/2018. (II. 5.) EMMI rendelet 23. §-a iktatta be.
 [^4]: Az 1. § (1) bekezdés 6. pontját a 7/2018. (II. 5.) EMMI rendelet 23. §-a iktatta be.
-[^5]: Az 1. § (3) bekezdése a 7/2018. (II. 5.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^5]: Az 1. § (3) bekezdése a 2/2021. (I. 18.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^6]: Az 1. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 5. §-ával megállapított szöveg.

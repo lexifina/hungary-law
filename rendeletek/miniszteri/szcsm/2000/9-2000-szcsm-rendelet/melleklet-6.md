@@ -1,3 +1,3 @@
-6. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^90]
+6. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^101]
 
-[^90]: Az 5. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 6. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése. A 6. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.
+[^101]: Az 5. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 6. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése. A 6. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.

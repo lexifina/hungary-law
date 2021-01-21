@@ -68,7 +68,7 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-## A beszámolót minden megszervezett, minősített továbbképzési programról a továbbképzés megszervezését követő hónap utolsó napjáig kell megküldeni a Szociális és Gyermekvédelmi Főigazgatóság címére: 1132 Budapest, Visegrádi u. 49.
+## A beszámolót minden megszervezett, minősített továbbképzési programról a továbbképzés megszervezését követő hónap utolsó napjáig kell megküldeni a Nemzeti Szociálpolitikai Intézet címére: 1132 Budapest, Visegrádi u. 49.
 
 ## 1. számú melléklet: A továbbképzés elvégzéséről igazolást kapott résztvevők névsora, a kiadott igazolások sorszámával, a résztvevők működési nyilvántartási számával.
 
@@ -76,6 +76,6 @@
 
 ## A beszámoló csak a mellékletekkel együtt fogadható el!
 
-4. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^88]
+4. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^99]
 
-[^88]: Az új 4. számú mellékletet a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti 4–8. számú melléklet számozását 5–9. számú mellékletre változtatva. A 4. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés b) pontja szerint módosított szöveg.
+[^99]: Az új 4. számú mellékletet a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti 4–8. számú melléklet számozását 5–9. számú mellékletre változtatva. A 4. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés b) pontja szerint módosított szöveg.
