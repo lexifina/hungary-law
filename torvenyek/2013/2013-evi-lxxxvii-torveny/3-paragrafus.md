@@ -1,12 +1,10 @@
 3. § (1) Az országgyűlési képviselők általános választásán minden pártlistát állító párt a központi költségvetésből az 5. § szerinti összeg
 
-a) 15%-ával megegyező összegű támogatásra jogosult, ha legalább huszonhét,
+a) 40%-ával megegyező összegű támogatásra jogosult, ha legalább hetvenegy,
 
-b) 30%-ával megegyező összegű támogatásra jogosult, ha legalább ötvennégy,
+b) 50%-ával megegyező összegű támogatásra jogosult, ha legalább nyolcvan,
 
-c) 45%-ával megegyező összegű támogatásra jogosult, ha legalább nyolcvan,
-
-d) 60%-ával megegyező összegű támogatásra jogosult, ha minden
+c) 60%-ával megegyező összegű támogatásra jogosult, ha minden
 
 egyéni választókerületben jelöltet állított.
 

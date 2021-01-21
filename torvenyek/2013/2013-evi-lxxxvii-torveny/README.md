@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-87-00-00
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-87-00-00.5 |
 | 2017-11-24 | 2017. évi CLX. törvény | 2013-87-00-00.6 |
 | 2018-09-01 | 2018. évi XXXVI. törvény | 2013-87-00-00.7 |
+| 2021-01-21 | 2020. évi CLXVII. törvény | 2013-87-00-00.8 |
