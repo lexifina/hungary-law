@@ -1,4 +1,4 @@
-7. §[^14] (1) A nyilvántartó az 5. számú melléklet szerint igazolást állít ki
+7. §[^14] (1)[^15] A nyilvántartó igazolást állít ki
 
 a) a működési nyilvántartásba vételről,
 
@@ -18,7 +18,7 @@ c) – a vezetőképzésre nem kötelezett és a továbbképzési kötelezettsé
 
 (3) A nyilvántartó az igazolást a munkáltatónak, önbejelentés esetén a nyilvántartásba vett személynek küldi meg. A munkáltató az igazolást a munkavállaló részére köteles átadni.
 
-(4) Ha a nyilvántartásba vétel munkáltatói bejelentés alapján történt, a nyilvántartó a nyilvántartásba vételről a 6. számú melléklet szerint visszaigazolást küld a munkáltatónak.
+(4)[^16] Ha a nyilvántartásba vétel munkáltatói bejelentés alapján történt, a nyilvántartó a nyilvántartásba vételről visszaigazolást küld a munkáltatónak.
 
 (5) A működési nyilvántartásba vett személy a nyilvántartásba vételről szóló igazolást
 
@@ -31,3 +31,5 @@ b) – ha a személyes gondoskodást végző személyek továbbképzéséről sz
 (6) Ha a munkavállaló nem tett eleget a továbbképzési kötelezettségének, a nyilvántartó erről értesíti a munkáltatót.
 
 [^14]: A 7. § a 25/2017. (X. 18.) EMMI rendelet 22. § (4) bekezdésével megállapított szöveg.
+[^15]: A 7. § (1) bekezdés nyitó szövegrésze a 2/2021. (I. 18.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^16]: A 7. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.

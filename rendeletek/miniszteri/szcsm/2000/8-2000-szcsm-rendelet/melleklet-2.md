@@ -298,6 +298,6 @@
 
 ## **** Az 1/2000. (I. 7.) SZCSM rendelet 6. §-a és a 15/1998. (IV. 30.) NM rendelet 3. §-a alapján
 
-2. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^20]
+2. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^22]
 
-[^20]: A 2. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (7) bekezdésével megállapított szöveg.
+[^22]: A 2. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (7) bekezdésével megállapított szöveg.

@@ -66,6 +66,6 @@
 
 ## a bejelentésre kötelezett aláírása
 
-5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^22]
+5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^24]
 
-[^22]: Az 5. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (9) bekezdésével megállapított szöveg.
+[^24]: Az 5. számú mellékletet a 2/2021. (I. 18.) EMMI rendelet 4. § c) pontja hatályon kívül helyezte.
