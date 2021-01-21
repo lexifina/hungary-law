@@ -2,12 +2,12 @@
 
 112. § (1) Ez a rendelet – a (2) bekezdésben foglaltakat kivéve – a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^402] E rendelet 52. §-a 2001. január 1-jén lép hatályba.
+(2)[^404] E rendelet 52. §-a 2001. január 1-jén lép hatályba.
 
-(3)[^403]
+(3)[^405]
 
-(4)[^404]
+(4)[^406]
 
-[^402]: A 112. § (2)-(3) bekezdése a 6/2000. (VII. 6.) SZCSM rendelet 7. §-ával megállapított szöveg.
-[^403]: A 112. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.
-[^404]: A 112. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.
+[^404]: A 112. § (2)-(3) bekezdése a 6/2000. (VII. 6.) SZCSM rendelet 7. §-ával megállapított szöveg.
+[^405]: A 112. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.
+[^406]: A 112. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.

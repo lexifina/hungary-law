@@ -132,6 +132,6 @@
 
 ## 5.19. Minden egyéb, orvos által elrendelt és felügyelt szakápolási tevékenység.
 
-8. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^441]
+8. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^443]
 
-[^441]: A 8. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § h) pontja hatályon kívül helyezte.
+[^443]: A 8. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § h) pontja hatályon kívül helyezte.
