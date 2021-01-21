@@ -41,3 +41,5 @@ c) a fővárosi és megyei kormányhivatalnak.
 a) a képviselő által meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában
 
 b) a lemondás bejelentésének vagy az írásbeli nyilatkozat átvételének napján.
+
+(7) A képviselő-testület, közgyűlés szóbeli lemondás esetén a képviselő-testület, közgyűlés ülését követő munkanapon, írásbeli lemondás esetén a lemondás átvételét követő munkanapon, az írásbeli lemondás másolatának megküldésével tájékoztatja a választási bizottságot.
