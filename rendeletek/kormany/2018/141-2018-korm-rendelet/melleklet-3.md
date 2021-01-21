@@ -120,7 +120,9 @@
 
 | 58. | Lupa-tó fejlesztéséhez kapcsolódó rekreációs és szabadidős tevékenységek, sport és strand megvalósításához szükséges beruházások | Szentendre közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 016/4, 017/6, 017/7 helyrajzi számú, Budakalász közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0189/186, 0189/9, 0184/4, 0226/5 helyrajzi számú ingatlanok. | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^115]
+| 59. | Gyáregység létrehozására irányuló beruházás Karcag területén | Karcag közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 7275/9, 7275/13, 7275/15, 7277/10, 7278, 7279/4, 7279/5, 7291/1 és 7291/2 helyrajzi számú ingatlan | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^117]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -300,4 +302,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^115]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^117]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
