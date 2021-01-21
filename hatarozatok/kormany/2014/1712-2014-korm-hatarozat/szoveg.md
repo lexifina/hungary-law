@@ -6,7 +6,7 @@
 
 a) elnöke a miniszterelnök, akit akadályoztatása esetén a Tanács alelnöke helyettesít,
 
-b) alelnöke az Emberi Erőforrások Minisztériumának család- és ifjúságügyért felelős államtitkára,
+b)[^1] alelnöke a családokért felelős tárca nélküli miniszter,
 
 c) tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idősügy területén működő civil szervezetek javaslata alapján, részben a tudományos élet, a demográfia, a szociálpolitika, a helyi önkormányzatok, a vallási közösségek és a civil szervezetek szakemberei közül.
 
@@ -16,35 +16,43 @@ c) tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idős�
 
 6. A tagok a feladatuk ellátásáért díjazásban nem részesülnek, de jogosultak a tevékenységük során felmerült, számlával igazolt és indokolt szállás- és útiköltségük megtérítésére.
 
-7. A Tanács ülésén állandó meghívottként tanácskozási joggal részt vesz
+7.[^2] A Tanács ülésén állandó meghívottként tanácskozási joggal részt vesz
 
-a) az Emberi Erőforrások Minisztériuma család- és ifjúságügyért felelős államtitkárának,
+a) a családokért felelős tárca nélküli miniszter,
 
-b)[^1] az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkárának,
+b) a Miniszterelnökség családokért felelős parlamenti államtitkára,
 
-c) az Emberi Erőforrások Minisztériuma egészségügyért felelős államtitkárának,
+c) a Miniszterelnökséget vezető miniszter,
 
-d) az Emberi Erőforrások Minisztériuma sportért felelős államtitkárának,
+d) a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkára,
 
-e) az Emberi Erőforrások Minisztériuma egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkárának,
+e) az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkára,
 
-f) az Emberi Erőforrások Minisztériuma parlamenti államtitkárának,
+f) az Emberi Erőforrások Minisztériuma egészségügyért felelős államtitkára,
 
-g) a Miniszterelnökségnek,
+g) az Emberi Erőforrások Minisztériuma sportért felelős államtitkára,
 
-h) a Nemzetgazdasági Minisztériumnak,
+h) a pénzügyminiszter,
 
-i) az Igazságügyi Minisztériumnak,
+i) az innovációért és technológiáért felelős miniszter,
 
-j)[^2] a Nemzeti Egészségbiztosítási Alapkezelőnek,
+j) az igazságügyi miniszter,
 
-k)[^3] a Magyar Államkincstárnak és
+k) a miniszterelnök kabinetfőnöke,
 
-l) a Központi Statisztikai Hivatalnak
+l) a Nemzeti Egészségbiztosítási Alapkezelő vezetője,
+
+m) a Magyar Államkincstár vezetője,
+
+n) a Központi Statisztikai Hivatal vezetője,
+
+o) a Kopp Mária Intézet a Népesedésért és a Családokért vezetője és
+
+p) a Nemzeti Szociálpolitikai Intézet vezetője
 
 egy-egy képviselője.
 
-8. A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Emberi Erőforrások Minisztériuma fejezetében kell biztosítani.
+8.[^3] A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Miniszterelnökség fejezetében kell biztosítani.
 
 9. A Tanács az ügyrendjét és a munkatervét maga határozza meg.
 
@@ -56,7 +64,7 @@ egy-egy képviselője.
 
 13.[^4]
 
-[^1]: A 7. pont b) alpontja az 1267/2019. (V. 8.) Korm. határozat 21. pontja szerint módosított szöveg.
-[^2]: A 7. pont j) alpontja az 1853/2016. (XII. 27.) Korm. határozat 47. pontjával megállapított szöveg.
-[^3]: A 7. pont k) alpontja az 1757/2017. (X. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: A 3. pont b) alpontja az 1011/2021. (I. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 7. pont az 1011/2021. (I. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 8. pont az 1011/2021. (I. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^4]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
