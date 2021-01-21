@@ -10,8 +10,10 @@ emberi erőforrások minisztere
 
 Határidő: a 2019. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-3. felhívja az emberi erőforrások miniszterét, hogy – a Beruházás előkészítését követően – a megvalósításhoz szükséges intézkedésekről és forrásigényről, valamint az üzemeltetés feltételeiről készítsen előterjesztést a Kormány részére.
+3.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a Beruházás előkészítését követően – a megvalósításhoz szükséges intézkedésekről és forrásigényről, valamint az üzemeltetés feltételeiről készítsen előterjesztést a Kormány részére.
 
-Felelős: emberi erőforrások minisztere
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-Határidő: 2019. december 31.
+Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárás lezárását követően
+
+[^1]: A 3. pont az 1009/2021. (I. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
