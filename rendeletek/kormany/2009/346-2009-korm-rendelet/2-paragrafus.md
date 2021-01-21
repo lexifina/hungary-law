@@ -20,7 +20,7 @@ e)[^10] a HM vagyonkezelésében lévő ingatlanok felújítása, rekonstrukció
 
 f)[^11] a központi logisztikai beszerzési, importbeszerzési és beruházási feladatok ellátása;
 
-g)[^12] a honvédelmi szervezet haditechnikai eszközökkel és anyagokkal, továbbá közjogi szervezetszabályozó eszközben meghatározott egészségügyi anyagokkal történő ellátása;
+g)[^12] a honvédelmi szervezet haditechnikai és egyéb eszközökkel, valamint anyagokkal, továbbá közjogi szervezetszabályozó eszközben meghatározott egészségügyi anyagokkal történő ellátása;
 
 h) a nemzetközi feladatok költségvetési javaslatának és éves költségvetésének összeállítása, valamint elszámolása;
 
@@ -37,6 +37,6 @@ k)[^14] a katonai vám, jövedéki és határforgalmi feladatok ellátása.
 [^9]: A 2. § (4) bekezdés c) pontja a 26/2015. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^10]: A 2. § (4) bekezdés e) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^11]: A 2. § (4) bekezdés f) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^12]: A 2. § (4) bekezdés g) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 354/2019. (XII. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § (4) bekezdés g) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 354/2019. (XII. 23.) Korm. rendelet 7. § b) pontja, a 11/2021. (I. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § (4) bekezdés j) pontját újonnan a 247/2018. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^14]: A 2. § (4) bekezdés k) pontját a 354/2019. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
