@@ -26,13 +26,7 @@
 
 ## Határidő: a 2020. évi központi költségvetés tervezése során
 
-## 5. felhívja az innovációért és technológiáért felelős minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával, a Beruházás megvalósításához készítsen előterjesztést a Kormány részére az Áht. 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében a 4. pont szerinti forrás egyszeri átcsoportosítása céljából a központi költségvetés Innovációs és Technológiai Minisztérium fejezet kerékpáros létesítmények fejlesztését finanszírozó előirányzata javára;
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+## 5.[^1]
 
 ## 6. egyetért azzal, hogy a Beruházás építtetői feladatait a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság lássa el, és felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházás megvalósítása érdekében kössön támogatási szerződést a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársasággal.
 
@@ -113,3 +107,5 @@
 |  | 1 példány |  | egyéb: | azonnal |  | 1 465 110 000 |  |  |  |  |  |  |  |  | 1 465 110 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pontot az 1009/2021. (I. 20.) Korm. határozat 5. pontja visszavonta.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1095-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-03-08 | 2019-1095-30-22.1 | 1095/2019. (III. 8.) Korm. határozat |
+| 2021-01-21 | 2019-1095-30-22.2 | 1009/2021. (I. 20.) Korm. határozat |
