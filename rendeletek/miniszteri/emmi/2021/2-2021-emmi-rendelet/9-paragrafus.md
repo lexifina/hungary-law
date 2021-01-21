@@ -1,0 +1,1 @@
+## „(2) A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok – ideértve a felülvizsgálat eredményeként módosított továbbképzési programokat – meghirdetését és közzétételét a szociál- és nyugdíjpolitikáért felelős miniszter, valamint a gyermekek és az ifjúság védelméért felelős miniszter hagyja jóvá.”
