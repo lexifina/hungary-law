@@ -1,4 +1,4 @@
-11. § (1) A Nemzeti Választási Bizottság a kérdés hitelesítéséről vagy annak megtagadásáról a benyújtásától számított harminc napon belül dönt. A Nemzeti Választási Bizottság a kérdést akkor hitelesíti, ha az az Alaptörvényben, valamint az e törvényben a kérdéssel szemben támasztott követelményeknek megfelel.
+11. § (1) A Nemzeti Választási Bizottság a kérdés hitelesítéséről vagy annak megtagadásáról a benyújtásától számított hatvan napon belül dönt. A Nemzeti Választási Bizottság a kérdést akkor hitelesíti, ha az az Alaptörvényben, valamint az e törvényben a kérdéssel szemben támasztott követelményeknek megfelel.
 
 (2) A Nemzeti Választási Bizottság a kérdést hitelesítő határozatában dönt a 8. § (3) bekezdésében meghatározott körülmény fennállásáról.
 

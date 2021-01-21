@@ -14,7 +14,7 @@ c) az országos népszavazási eljárás határidőinek naptár szerinti dátuma
 
 d) az országos népszavazási eredmény országosan összesített adatainak körét,
 
-e) az országos népszavazási eljárás költségeinek normatíváit, tételeit, elszámolási és belső ellenőrzési rendjét,
+e) az országos és helyi népszavazási eljárás költségeinek normatíváit, tételeit, elszámolási és belső ellenőrzési rendjét,
 
 f) az országos népszavazási eljárásban – a Nemzeti Választási Bizottság kivételével – a választási bizottságok tagjait megillető tiszteletdíj és a választási irodák tagjait megillető díjazás összegét,
 
