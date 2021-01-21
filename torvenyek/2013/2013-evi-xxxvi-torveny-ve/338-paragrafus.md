@@ -4,7 +4,7 @@
 
 (2) A listát a Nemzeti Választási Bizottság veszi nyilvántartásba.
 
-(3) A lista ajánlására a 120. § (1)–(2) bekezdése, valamint a 121–128. § rendelkezéseit is alkalmazni kell.
+(3) A lista ajánlására a 120. § (1)–(2) bekezdése, valamint a 121–127. § rendelkezéseit is alkalmazni kell.
 
 (3a) A magyarországi lakcímmel nem rendelkező választópolgár az ajánlóívre a személyi azonosítója és a lakcíme helyett a személyazonosságát igazoló hatósági igazolványa számát és a születési idejét is rávezetheti.
 

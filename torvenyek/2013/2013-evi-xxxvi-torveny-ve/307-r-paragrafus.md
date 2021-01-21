@@ -1,0 +1,1 @@
+307/R. § A kompenzációs listás eredmény megállapítása elleni fellebbezést csak az egyéni választókerületi eredmények összesítésére és a választási eredmény megállapítására vonatkozó szabályok megsértésére hivatkozással lehet benyújtani.

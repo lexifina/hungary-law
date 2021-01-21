@@ -1,12 +1,12 @@
 ## 9/A. Kizárás a választójogból
 
-13/A. § (1) A bíróságnak a cselekvőképességet korlátozó gondnokság alá helyezést kimondó, a cselekvőképességet kizáró gondnokság alá helyezést kimondó, valamint a felülvizsgálati eljárás alapján hozott ítéletében rendelkeznie kell a választójogból való kizárás kérdéséről.
+13/A. § (1) A bíróságnak a cselekvőképességet részlegesen vagy teljesen korlátozó gondnokság alá helyezésről rendelkező, valamint a felülvizsgálati eljárás alapján hozott ítéletében rendelkeznie kell a választójogból való kizárás kérdéséről.
 
-(2) A bíróság azt a nagykorú személyt zárja ki a választójogból, akinek a választójog gyakorlásához szükséges belátási képessége
+(2) A bíróság azt a nagykorú személyt zárja ki a választójogból, akinek a választójog gyakorlásához szükséges belátási képessége mentális zavara következtében
 
-a) pszichés állapota, szellemi fogyatkozása vagy szenvedélybetegsége miatt tartósan vagy időszakonként visszatérően nagymértékben csökkent, vagy
+a) tartósan vagy időszakonként visszatérően nagymértékben csökkent, vagy
 
-b) pszichés állapota vagy szellemi fogyatkozása miatt tartósan teljes mértékben hiányzik.
+b) tartósan, teljeskörűen hiányzik.
 
 (3) Ha a bíróság a nagykorú személyt a választójogból nem zárja ki, a gondnokság alá helyezett személy a választójogát személyesen gyakorolja, e jog gyakorlásával kapcsolatosan önállóan érvényes jognyilatkozatot tehet.
 

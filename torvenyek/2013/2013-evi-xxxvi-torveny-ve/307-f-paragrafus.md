@@ -10,4 +10,4 @@ b) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait
 
 (3) A nemzetiségi jelöltként indulni szándékozó választópolgár ajánlóívén fel kell tüntetni, hogy melyik nemzetiség képviseletét vállalja.
 
-(4) A megyei lista ajánlására a 120. § (1) és (2) bekezdése, valamint a 121–128. § rendelkezéseit is alkalmazni kell.
+(4) A megyei lista ajánlására a 120. § (1) és (2) bekezdése, valamint a 121–127. § rendelkezéseit is alkalmazni kell.

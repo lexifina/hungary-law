@@ -16,7 +16,7 @@ e) a nyilatkozat hiányosan tartalmazza a választópolgár adatait, vagy nem ta
 
 f) a polgár nem szerepel a levélben szavazók névjegyzékében,
 
-g) a választópolgár már leadott érvényes szavazási iratot,
+g) a választópolgár már leadott szavazási iratot,
 
 h) a választópolgárnak az azonosító nyilatkozaton feltüntetett adatai – a (4) bekezdés szerinti eltérés kivételével – eltérnek a (2) bekezdés szerinti névjegyzékben, illetve nyilvántartásban szereplő adataitól,
 
@@ -40,7 +40,7 @@ d) földrajzi név idegen nyelvű megjelölése,
 
 e) a 278. § (2) bekezdés a) pontja szerinti adatban több utónév egyikének elhagyása, „dr.” megjelölés elhagyása vagy feltüntetése, az ifjabb, idősebb, özvegy vagy más előtag, illetve ezen előtagok rövidítésének feltüntetése vagy adat más nyelven történő megadása.
 
-(6) Nem tekinthető érvénytelenségi oknak, ha a azonosító nyilatkozat nem tartalmazza a kérelmező születési nevét, feltéve, hogy az megegyezik a viselt nevével.
+(6)
 
 (7) A (3) bekezdés g) pontjában a választópolgár által már leadott szavazási iratnak csak az olyan szavazási irat tekinthető, amelynek azonosító nyilatkozata alapján a választópolgár személyazonossága kétséget kizáróan megállapítható.
 

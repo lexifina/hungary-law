@@ -2,7 +2,7 @@
 
 250. § (1) Az átjelentkezésre irányuló kérelmet az a lakcíme szerinti szavazóköri névjegyzékben szereplő választópolgár nyújthatja be, aki a szavazás napján Magyarország területén, de a magyarországi lakcíme szerinti szavazókörtől eltérő szavazókör területén tartózkodik.
 
-(2) Az átjelentkezésre irányuló kérelemnek a választás kitűzését követően, legkésőbb a szavazást megelőző negyedik napon kell megérkeznie a helyi választási irodához.
+(2) Az átjelentkezésre irányuló kérelemnek legkésőbb a szavazást megelőző kilencedik napon kell megérkeznie a helyi választási irodához.
 
 (3) Az átjelentkezésre irányuló kérelemnek a 92. § (1) vagy (3) bekezdésében foglalt adatokon túl tartalmaznia kell annak a településnek a megjelölését, ahol a választópolgár szavazni kíván.
 
@@ -23,3 +23,5 @@ a) a választópolgár olyan címre kér mozgóurnát, amely nem abban a szavaz�
 b) az átjelentkező választópolgár olyan címre kér mozgóurnát, amely nem azon a településen található, amelynek névjegyzékében szerepel,
 
 a kérelmét egyben átjelentkezésre, illetve az átjelentkezés módosítására irányuló kérelemnek is kell tekinteni. Ebben az esetben – attól függően, hogy a kérelmet hova nyújtották be – a választópolgár lakcíme szerint illetékes helyi választási iroda vagy a mozgóurna kivitelére illetékes szavazatszámláló bizottság illetékességi területén működő helyi választási iroda dönt az átjelentkezés és a mozgóurna iránti kérelemről is.
+
+(7) Azt a választópolgárt, aki átjelentkezési és mozgóurna iránti kérelmet is benyújtott, a mozgóurna iránti kérelmének visszavonása esetén – eltérő nyilatkozata hiányában – az átjelentkezés helye szerinti szavazókör névjegyzékébe kell felvenni. A (6) bekezdés szerinti mozgóurna iránti kérelem visszavonása esetén a választópolgárt – eltérő nyilatkozata hiányában – a lakcíme szerinti szavazókör névjegyzékébe kell felvenni.

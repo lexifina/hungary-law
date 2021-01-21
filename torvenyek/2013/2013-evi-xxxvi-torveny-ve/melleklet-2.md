@@ -16,6 +16,6 @@
 
 ## g) a szavazókörök és választókerületek térképes megjelenítését,
 
-## h) annak megjelölését, hogy – a legutóbbi népszámlálásnak a nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a településen melyik nemzetiséghez tartozó személyek száma éri el a harminc főt.
+## h) annak megjelölését, hogy – a legutóbbi népszámlálásnak a nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a településen melyik nemzetiséghez tartozó személyek száma éri el a huszonöt főt.
 
 2. melléklet a 2013. évi XXXVI. törvényhez

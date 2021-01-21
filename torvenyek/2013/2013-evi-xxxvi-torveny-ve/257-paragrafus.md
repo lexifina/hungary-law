@@ -14,4 +14,4 @@ a szavazatszámláló bizottság egy egyéni választókerületi szavazólapot a
 
 (2) Az átjelentkezéssel szavazó választópolgár a lakcíme szerinti országgyűlési egyéni választókerület szavazólapján és az országos listás szavazólapon szavaz. A szavazólapok elhelyezésére szolgáló borítékon az országgyűlési egyéni választókerület megjelölése szerepel. A választópolgár a szavazólapokat a borítékba helyezi, és a borítékot lezárja.
 
-(3) A kijelölt szavazókör szavazatszámláló bizottsága a mozgóurnás szavazás lebonyolítását az átjelentkezéssel szavazó választópolgárok tekintetében a település egészére kiterjedő illetékességgel végzi.
+(3) A kijelölt szavazókör szavazatszámláló bizottsága a mozgóurnás szavazás lebonyolítását az átjelentkezéssel szavazó választópolgárok és a települési szintű lakóhellyel rendelkező választópolgárok tekintetében a település egészére kiterjedő illetékességgel végzi.

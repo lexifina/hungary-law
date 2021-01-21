@@ -10,4 +10,4 @@
 
 (6) Ha a bíróság a fellebbezést alaposnak tartja, elrendeli a névjegyzék módosítását, ellenkező esetben a fellebbezést elutasítja.
 
-(7) A Nemzeti Választási Iroda központi névjegyzékkel kapcsolatos kérelmet elbíráló döntése elleni fellebbezést a Nemzeti Választási Iroda elnökéhez kell benyújtani. A fellebbezés benyújtására és elbírálására a 235. § (1) bekezdése és a (2)–(6) bekezdés rendelkezéseit kell alkalmazni. Ha a Nemzeti Választási Iroda elnöke a fellebbezésnek nem ad helyt, a fellebbezést a Fővárosi Törvényszék bírálja el.
+(7) A Nemzeti Választási Iroda központi névjegyzékkel kapcsolatos döntése elleni fellebbezést a Nemzeti Választási Iroda elnökéhez kell benyújtani. A fellebbezés benyújtására és elbírálására a 235. § (1) bekezdése és a (2)–(6) bekezdés rendelkezéseit kell alkalmazni. Ha a Nemzeti Választási Iroda elnöke a fellebbezésnek nem ad helyt, a fellebbezést a Fővárosi Törvényszék bírálja el.

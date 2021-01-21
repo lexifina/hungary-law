@@ -10,4 +10,4 @@ b) a külképviseleti szavazás eredményét megállapító jegyzőkönyv és
 
 c) a levélben szavazás eredményét megállapító jegyzőkönyv
 
-alapján megállapítja a választás eredményét.
+alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja a választás eredményét.

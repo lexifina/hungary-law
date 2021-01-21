@@ -32,9 +32,9 @@
 
 ## k) annak megjelölését, hogy a fogyatékossággal élő választópolgár milyen, a 88. § szerinti segítséget igényel,
 
-## l) a 89. § szerinti nyilatkozat tartalmát,
+## l) a 89. § (1) bekezdése szerinti nyilatkozat tartalmát,
 
-## m) a választópolgárnak a 92. § (4) bekezdése szerint bejelentett postacímét, email címét vagy telefax számát, ezek hiányában a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett értesítési címét,
+## m) a választópolgár polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett értesítési címét,
 
 ## n) a választókerület és a szavazókör megjelölését,
 
@@ -44,6 +44,10 @@
 
 ## pa) az átvételre megjelölt település megjelölését, ha a szavazási levélcsomag személyes átvételét kérte,
 
-## pb) a postacímet, ha a szavazási levélcsomag postai kézbesítését kérte.
+## pb) a postacímet, ha a szavazási levélcsomag postai kézbesítését kérte,
+
+## pc) a 92. § (4) bekezdése szerint bejelentett postacímét, email-címét vagy telefax számát,
+
+## q) a választópolgár menekült, bevándorolt vagy letelepedett jogállását.
 
 2/A. melléklet a 2013. évi XXXVI. törvényhez

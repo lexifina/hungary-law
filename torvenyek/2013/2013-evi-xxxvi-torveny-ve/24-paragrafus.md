@@ -1,9 +1,11 @@
-24. § (1) A szavazatszámláló bizottság három tagját és szükséges számban póttagokat a települési önkormányzat képviselő-testülete az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti huszadik napon választja meg; személyükre a helyi választási iroda vezetője tesz indítványt. A szavazatszámláló bizottság tagjait és a póttagokat települési szinten kell megválasztani.
+24. § (1) A szavazatszámláló bizottságok tagjait a szükséges számban a települési önkormányzat képviselő-testülete az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti huszadik napon választja meg, személyükre a helyi választási iroda vezetője tesz indítványt. A szavazatszámláló bizottság tagjait települési szinten kell megválasztani.
 
-(2) Az egy szavazókörrel rendelkező településen nem kell szavazatszámláló bizottságot választani.
+(2) A helyi választási iroda vezetője a választás kitűzését követően, legkésőbb a szavazást megelőző harmadik napon osztja be a megválasztott tagokat az adott választásra a szavazatszámláló bizottságokba. A beosztást a helyi választási iroda vezetője – a szavazás napja kivételével – bármikor módosíthatja.
 
-(3) A szavazatszámláló bizottságot a helyi választási iroda vezetője – legkésőbb a szavazást megelőző harmadik napon – a póttagok közül a szükséges számban további tagokkal egészíti ki, ha az átjelentkező választópolgárok vagy a mozgóurnát igénylő választópolgárok száma azt indokolja. A helyi választási iroda vezetője köteles a szavazatszámláló bizottságot
+(3) Egy szavazatszámláló bizottságba három választott tagot kell beosztani. Ha a szavazatszámláló bizottság megbízott tagjainak száma kettőnél kevesebb, a helyi választási iroda vezetője a szavazatszámláló bizottságot kiegészíti úgy, hogy tagjainak száma öt legyen.
 
-a) legalább négy taggal kiegészíteni, ha a szavazóköri névjegyzéken szereplő választópolgárok száma az 1500 főt meghaladja, valamint
+(4) Az egy szavazókörrel rendelkező településen nem kell szavazatszámláló bizottsági tagot választani.
 
-b) a szavazóköri névjegyzékben szereplő minden további ezredik választópolgár után legalább további két fővel kiegészíteni.
+(5) A szavazatszámláló bizottságot a helyi választási iroda vezetője a szükséges számban további tagokkal egészítheti ki, ha a mozgóurnát igénylő választópolgárok száma több mint negyven.
+
+(6) A helyi választási iroda vezetője a 78. § szerint kijelölt szavazókör szavazatszámláló bizottságát – legkésőbb a szavazást megelőző harmadik napon – a szükséges számban további tagokkal egészíti ki, ha a névjegyzékben lévő választópolgárok száma meghaladja az ezerötszázat.

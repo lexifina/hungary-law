@@ -2,7 +2,7 @@
 
 279. § (1) A levélben szavazók névjegyzékében szereplő, magyarországi lakcímmel nem rendelkező választópolgár a szavazatát tartalmazó, a 278. § (4) bekezdés a) pontja szerinti válaszborítékot
 
-a) a Nemzeti Választási Irodába postai úton juttathatja el úgy, hogy a szavazást megelőző napon 24 óráig megérkezzen,
+a) a Nemzeti Választási Irodába postai úton juttathatja el úgy, hogy a szavazás napján 19 óráig megérkezzen,
 
 b) a magyarországi szavazást megelőző tizenöt napon belül a Nemzeti Választási Iroda elnöke által a szavazási levélcsomagok személyes átvételére megállapított időben, valamint a külképviseleti szavazás ideje alatt eljuttathatja bármely külképviseleti választási irodába, vagy
 

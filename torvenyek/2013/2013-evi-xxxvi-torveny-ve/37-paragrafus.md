@@ -1,6 +1,6 @@
 ## 16. Eskü- vagy fogadalomtétel
 
-37. § (1) A választási bizottság tagja és póttagja a megválasztását vagy bejelentését követő öt napon belül, a szavazatszámláló bizottság tagja és póttagja legkésőbb a szavazást megelőző második napon esküt vagy fogadalmat tesz.
+37. § (1) A választási bizottság tagja a megválasztását vagy bejelentését követő öt napon belül, a szavazatszámláló bizottság tagja legkésőbb a szavazást megelőző második napon esküt vagy fogadalmat tesz.
 
 (2) A választási bizottság 28. § (5) bekezdése szerint megbízott tagja legkésőbb a szavazást megelőző napon tesz esküt vagy fogadalmat.
 

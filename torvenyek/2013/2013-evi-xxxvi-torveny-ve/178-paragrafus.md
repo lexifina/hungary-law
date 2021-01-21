@@ -2,4 +2,4 @@
 
 (2) A szavazatszámláló bizottság szükség esetén – a választópolgár befolyásolása nélkül – megmagyarázza a szavazás módját.
 
-(3) Ha egy, az egyéni szavazólapon szereplő jelölt vagy egy lista a szavazólapok elkészítése után, de a szavazás napját megelőzően kiesett, e tényről a szavazatszámláló bizottság köteles a szavazóhelyiségben elhelyezett hirdetményen, valamint szükség szerint szóban tájékoztatni a választópolgárokat. A kiesett jelölt vagy lista nevét a szavazólapon át kell húzni.
+(3) Ha egy, az egyéni szavazólapon szereplő jelölt vagy egy lista a szavazást megelőző tizennegyedik nap után, de a szavazás napját megelőzően kiesett – és a szavazólapokat már ezt megelőzően előállították –, e tényről a szavazatszámláló bizottság köteles a szavazóhelyiségben elhelyezett hirdetményen, valamint szükség szerint szóban tájékoztatni a választópolgárokat. A kiesett jelölt vagy lista nevét a szavazólapon a szavazás napját megelőzően a helyi választási iroda vagy a szavazás napján a szavazatszámláló bizottság áthúzza.

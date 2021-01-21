@@ -1,6 +1,6 @@
 ## 15. A választási bizottság megüresedett tagságának betöltése
 
-35. § (1) Ha a választási bizottság választott tagjának megbízatása a 34. § (1) bekezdés a)–c) és f) pontja szerinti okból megszűnt, helyébe a póttagok megválasztására irányuló indítványban a soron következő – a szavazatszámláló bizottság esetében a helyi választási iroda vezetője által kijelölt – póttag lép.
+35. § (1) Ha a választási bizottság választott tagjának megbízatása a 34. § (1) bekezdés a)–c) és f) pontja szerinti okból megszűnt, helyébe a póttagok megválasztására irányuló indítványban a soron következő póttag lép.
 
 (2) Póttag hiányában a települési önkormányzat képviselő-testülete vagy a fővárosi, megyei közgyűlés, a Nemzeti Választási Bizottság esetében az Országgyűlés új tagot és póttagokat választ.
 

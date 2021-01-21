@@ -18,4 +18,4 @@ f) köteles pártatlanul végezni tevékenységét.
 
 (3) A nemzetközi megfigyelő nyilvántartásba vételéről, valamint nyilvántartásból való törléséről a Nemzeti Választási Iroda elnöke dönt, a döntés ellen nincs helye jogorvoslatnak.
 
-(4) A nemzetközi megfigyelő személyes adatait a nyilvántartásból a szavazást követő kilencvenedik nap utáni munkanapon törölni kell.
+(4)
