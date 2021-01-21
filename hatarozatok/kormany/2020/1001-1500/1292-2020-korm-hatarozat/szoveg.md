@@ -88,7 +88,7 @@ Határidő: a 2023. évi központi költségvetés tervezése során
 
 7. a 3. pont 3.1. és 3.5. alpontja szerinti kulturális fejlesztések előkészítési fázisainak kormányzati felelőseként – az emberi erőforrások minisztere bevonásával – az innovációért és technológiáért felelős minisztert, a 3. pont 3.2. alpontja szerinti kulturális fejlesztések megvalósítási fázisainak kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-8. felhívja az innovációért és technológiáért felelős minisztert, valamint az emberi erőforrások miniszterét, hogy a 3. pont szerinti forrást támogatási jogviszony keretében biztosítsa Debrecen Megyei Jogú Város Önkormányzata számára elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
+8.[^1] felhívja az innovációért és technológiáért felelős minisztert, valamint az emberi erőforrások miniszterét, hogy a 3. pont szerinti forrást támogatási jogviszony keretében biztosítsa Debrecen Megyei Jogú Város Önkormányzata számára elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -102,11 +102,11 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 emberi erőforrások minisztere
 
-Határidő: a 3. pont 3.1. és 3.2. alpontja tekintetében 2021. december 31.
+Határidő: a 3. pont 3.1. alpontja és 3.2. alpont a) és b) pontja tekintetében 2021. december 31.
 
 a 3. pont 3.3. és 3.4. alpontja tekintetében 2022. december 31.
 
-a 3. pont 3.5. és 3.6. alpontja tekintetében 2023. december 31.
+a 3. pont 3.2. alpont c) pontja, valamint 3.5. és 3.6. alpontja tekintetében 2023. december 31.
 
 9. egyetért azzal, hogy a közlekedésfejlesztésre a 2021–2023. évi fejlesztések előkészítése és megvalósítása céljára összesen 4 434 800 000 forint központi költségvetési támogatás kerüljön biztosításra, az alábbiak szerint:
 
@@ -237,3 +237,5 @@ Határidő: a 2023. évi központi költségvetés tervezése során
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. december 31.
+
+[^1]: A 8. pont az 1009/2021. (I. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
