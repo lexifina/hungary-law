@@ -13,11 +13,3 @@
 (7) A 39–47. §, a 66. § e)–g) pontja, a 67. § i)–l) pontja és a 6. alcím az Alaptörvény 2. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (8) A 48–53. § és a 66. § h)–i) pontja az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

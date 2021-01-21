@@ -2,7 +2,7 @@
 
 a) 4. § (4) bekezdése,
 
-b) 28. § (5)–(7) bekezdése,
+b)
 
 c) 35. § (1) bekezdésében az „– a szavazatszámláló bizottság esetében a helyi választási iroda vezetője által kijelölt –” szövegrész,
 
@@ -24,6 +24,6 @@ k) 289. § (3) bekezdés g) pontjában az „érvényes” szövegrész,
 
 l) 289. § (6) bekezdése,
 
-m) 318. § (3) és (4) bekezdése,
+m)
 
 n) 346. § l) pontja.
