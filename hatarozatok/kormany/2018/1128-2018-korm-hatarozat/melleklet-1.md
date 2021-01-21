@@ -16,7 +16,7 @@
 
 ## Határidő: felmerülés ütemében
 
-## 4.[^1] a Közalapítvány Budapest belterület 28766 helyrajzi számú, természetben az 1062 Budapest, Andrássy út 60. szám alatt található Terror Háza Múzeuma felújítása érdekében a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a)–e), g)–h), valamint k)–o) pontja szerinti előkészítési fázisaira összesen 60 000 000 forint forrást biztosít a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31-ig kell megvalósítani;
+## 4.[^1] a Közalapítvány Budapest belterület 28766 helyrajzi számú, természetben az 1062 Budapest, Andrássy út 60. szám alatt található Terror Háza Múzeuma felújítása érdekében a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a)–e), g)–h), valamint k)–o) pontja szerinti előkészítési fázisaira összesen 60 000 000 forint forrást biztosít a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31-ig kell megvalósítani;
 
 ## 5. a 4. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -120,5 +120,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4. pont az 1154/2020. (IV. 14.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: A 4. pont az 1009/2021. (I. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 8. pont b) alpontja az 1154/2020. (IV. 14.) Korm. határozat 4. pontjával megállapított szöveg.
