@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2020-05-29 | 2020. évi XXVII. törvény | 2012-36-00-00.44 |
 | 2020-12-04 | 2020. évi CXXI. törvény | 2012-36-00-00.45 |
 | 2021-01-01 | 2020. évi CLII. törvény | 2012-36-00-00.46 |
+| 2021-01-21 | 2020. évi CLXVII. törvény | 2012-36-00-00.47 |
