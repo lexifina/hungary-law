@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-75-00-00
 | 2019-03-01 | 2018. évi CXXV. törvény | 2010-75-00-00.19 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 2010-75-00-00.20 |
 | 2021-01-01 | 2020. évi CLXXVIII. törvény | 2010-75-00-00.21 |
+| 2021-01-22 | 2020. évi CLXXVIII. törvény | 2010-75-00-00.22 |
