@@ -1,0 +1,5 @@
+66/D. § (1) A légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján kiadott engedéllyel rendelkező képző szervezet, valamint a távoli pilóták képzését és vizsgáztatását végző szervezetek kijelöléséről, a távoli pilóták képzésének és vizsgáztatásának részletes szabályairól, valamint a vizsgán való részvétel díjáról szóló miniszteri rendelet szerint bejelentés alapján tevékenységet végző képzőszervezetek felett ellátott felügyeleti feladatok ellátásért az engedélyezett, valamint a bejelentés alapján nyilvántartásba vett szervek évente felügyeleti díjat fizetnek. A felügyeleti díjat 2021. évre vonatkozóan 2021. június 30. napjáig, azt követően az adott évre vonatkozó felügyeleti díjat január 31-ig kell a légiközlekedési hatóság számlájára átutalással megfizetni.
+
+(2) A felügyeleti díj a légiközlekedési hatóságot illeti meg, amely azt a felügyeleti feladataival összefüggésben használhatja fel.
+
+(3) A felügyeleti díj éves mértéke az engedélyezett képző szervezet esetén 290 000 forint, bejelentés alapján tevékenységet végző szervezet esetén 165 000 forint.
