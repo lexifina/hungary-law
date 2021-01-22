@@ -1,4 +1,4 @@
-70. §[^81] (1) Az állomány tagja a 6. § (3) bekezdése, valamint a 7. § (1), (2) és (3) bekezdése szerint jogosult ellátmányra azzal az eltéréssel, hogy az alapellátmánya havi nettó összegének megállapításához szükséges szorzószámot a képzés megkezdését megelőzően utoljára betöltött hazai beosztáshoz rendszeresített rendfokozat alapulvételével a 7. melléklet tartalmazza.
+70. §[^114] (1) Az állomány tagja a 6. § (3) bekezdése, valamint a 7. § (1), (2) és (3) bekezdése szerint jogosult ellátmányra azzal az eltéréssel, hogy az alapellátmánya havi nettó összegének megállapításához szükséges szorzószámot a képzés megkezdését megelőzően utoljára betöltött hazai beosztáshoz rendszeresített rendfokozat alapulvételével a 7. melléklet tartalmazza.
 
 (2) A 7. melléklet szerinti szorzószámot térítésmentesen vagy kedvezményesen biztosított étkezés esetén – az ellátás mértékének figyelembevételével – csökkenteni kell. A csökkentés mértéke reggeli biztosítása esetén a szorzószám 5%-a, ebéd vagy vacsora biztosítása esetén a szorzószám 10%-a, napi háromszori étkezés biztosítása esetén a szorzószám 25%-a.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a külföldi képzés összességében 18 hónapnál hosszabb időtartamra meghosszabbításra kerül, akkor az állomány tagja ellátmánypótlékra a meghosszabbításról szóló vezénylési okmány kiadása napjától jogosult.
 
-[^81]: A 70. § a 2/2019. (I. 31.) HM rendelet 26. §-ával megállapított szöveg.
+[^114]: A 70. § a 2/2019. (I. 31.) HM rendelet 26. §-ával megállapított szöveg.

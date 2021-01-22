@@ -12,6 +12,6 @@
 
 | 5. | altiszti és legénységi állománycsoport | 10,0 USD | 39,0 USD | 30,0 USD |
 
-7. melléklet a 8/2018. (VI. 22.) HM rendelethez[^142]
+7. melléklet a 8/2018. (VI. 22.) HM rendelethez[^180]
 
-[^142]: A 7. melléklet a 2/2019. (I. 31.) HM rendelet 38. § c) pontjával megállapított szöveg.
+[^180]: A 7. melléklet a 2/2019. (I. 31.) HM rendelet 38. § c) pontjával megállapított szöveg.

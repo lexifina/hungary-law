@@ -4,6 +4,8 @@
 
 (2) Az egészségügyi szabadság során bekövetkezett elhalálozás esetén az (1) bekezdés szerinti külszolgálati ellátmány kiszámításánál a 12. § (2)–(4) bekezdése szerint kell eljárni.
 
-(3) Az (1) bekezdés szerinti külszolgálati ellátmány és családi átalány-költségtérítés előleglevonással nem terhelhető. Az állomány tagja halála esetén – ide nem értve a Hjt. 141/A. §-a szerinti esetet – a Hjt. 141/B. §-a szerinti miniszteri döntés hiányában, az illetményelőlegnek, az ellátmányelőlegnek és az utazási előlegnek az elhalálozást követően esedékes, még törlesztetlen részéből adódó tartozás miatt fennálló visszafizetési kötelezettség törvényben meghatározott értékhatárt el nem érő kis összegű követelésnek minősülő része törlésre kerül.
+(3)[^81] Az (1) bekezdés szerinti külszolgálati ellátmány és családi átalány-költségtérítés előleg- és kölcsön levonással nem terhelhető. Az állomány tagja halála esetén – ide nem értve a Hjt. 141/A. §-a szerinti esetet – a Hjt. 141/B. §-a szerinti miniszteri döntés hiányában, az illetményelőlegnek, az ellátmányelőlegnek és az utazási kölcsönnek az elhalálozást követően esedékes, még törlesztetlen részéből adódó tartozás miatt fennálló visszafizetési kötelezettség törvényben meghatározott értékhatárt el nem érő kis összegű követelésnek minősülő része törlésre kerül.
 
 (4) A családi átalány-költségtérítésre jogosító hozzátartozó külföldi szolgálat alatti elhalálozása esetén az állomány tagja részére ki kell fizetni az elhalálozott hozzátartozó után az elhalálozást követő 1 hónapra számított családi átalány-költségtérítést is.
+
+[^81]: A 40. § (3) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 17. pontja szerint módosított szöveg.

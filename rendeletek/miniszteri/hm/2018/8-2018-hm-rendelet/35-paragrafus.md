@@ -1,6 +1,6 @@
-35. §[^53] (1) Az állomány tagja kérelemre, egyszeri alkalommal legfeljebb a 2,5-es szorzószámmal számított ellátmány 9 havi összegének megfelelő ellátmányelőlegre jogosult azzal, hogy az ellátmányelőleg havi törlesztőrészlete nem haladhatja meg az állomány tagja havi nettó ellátmányának 50%-át.
+35. §[^63] (1)[^64] Az állomány tagja kérelemre, egyszeri alkalommal legfeljebb a 2,5-es szorzószámmal számított ellátmány 9 havi összegének megfelelő ellátmánykölcsönre jogosult azzal, hogy az ellátmánykölcsön havi törlesztőrészlete nem haladhatja meg az állomány tagja havi nettó ellátmányának 50%-át.
 
-(2) Az ellátmányelőleg folyósítását az állomány tagja legkorábban a külföldi szolgálat megkezdése előtti 15. naptól és legkésőbb a külföldi szolgálat megkezdését követő 6. hónap végéig írásban kérheti. A kérelmet
+(2)[^65] Az ellátmánykölcsön folyósítását az állomány tagja legkorábban a külföldi szolgálat megkezdése előtti 15. naptól és legkésőbb a külföldi szolgálat megkezdését követő 6. hónap végéig írásban kérheti. A kérelmet
 
 a) a külföldi szolgálat megkezdése előtt a külföldi szolgálat alatt betöltésre kerülő beosztás szerinti illetékes pénzügyi ellátó szervhez,
 
@@ -8,8 +8,11 @@ b) a külföldi szolgálat megkezdését követően az illetékes pénzügyi ell
 
 kell benyújtani.
 
-(3) Az ellátmányelőleget lehetőség szerint soron kívül, de a (2) bekezdés a) pontja szerinti esetben legkorábban a külföldi szolgálat megkezdésekor, de legkésőbb az azt követő 15. napig, a (2) bekezdés b) pontja szerinti esetben legkésőbb a kérelem benyújtásától számított 15. napig kell folyósítani.
+(3)[^66] Az ellátmánykölcsönt lehetőség szerint soron kívül, de a (2) bekezdés a) pontja szerinti esetben legkorábban a külföldi szolgálat megkezdésekor, de legkésőbb az azt követő 15. napig, a (2) bekezdés b) pontja szerinti esetben legkésőbb a kérelem benyújtásától számított 15. napig kell folyósítani.
 
 (4) Az (1)–(3) bekezdéstől eltérően nem jogosult ellátmányelőlegre az állomány tagja, ha a külföldi szolgálat időtartama az 1 évet nem haladja meg.
 
-[^53]: A 35. § a 2/2019. (I. 31.) HM rendelet 18. §-ával megállapított szöveg.
+[^63]: A 35. § a 2/2019. (I. 31.) HM rendelet 18. §-ával megállapított szöveg.
+[^64]: A 35. § (1) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 11–12. pontja szerint módosított szöveg.
+[^65]: A 35. § (2) bekezdés nyitó szövegrésze a 3/2021. (I. 14.) HM rendelet 12. § 12. pontja szerint módosított szöveg.
+[^66]: A 35. § (3) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 13. pontja szerint módosított szöveg.
