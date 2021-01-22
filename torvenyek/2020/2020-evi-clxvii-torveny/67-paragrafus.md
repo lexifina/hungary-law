@@ -1,29 +1,29 @@
 67. § Hatályát veszti a Ve.
 
-a) 4. § (4) bekezdése,
+a)
 
 b)
 
-c) 35. § (1) bekezdésében az „– a szavazatszámláló bizottság esetében a helyi választási iroda vezetője által kijelölt –” szövegrész,
+c)
 
-d) 37. § (1) bekezdésében az „és póttagja” szövegrészek,
+d)
 
-e) 109. §-a,
+e)
 
-f) 128. §-a,
+f)
 
-g) 205. § (2) bekezdésében az „A szavazást követő kilencvenedik nap utáni munkanapon a választási iratokat – a jegyzőkönyvek kivételével – meg kell semmisíteni.” szövegrész,
+g)
 
-h) 235. § (1) és (2) bekezdésében, valamint 236. § (7) bekezdésében a „kérelmet elbíráló” szövegrész,
+h)
 
-i) 264. §-a,
+i)
 
-j) 278. § (2) bekezdés b) pontja,
+j)
 
-k) 289. § (3) bekezdés g) pontjában az „érvényes” szövegrész,
+k)
 
-l) 289. § (6) bekezdése,
+l)
 
 m)
 
-n) 346. § l) pontja.
+n)

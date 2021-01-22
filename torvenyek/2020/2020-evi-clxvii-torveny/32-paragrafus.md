@@ -1,9 +1,1 @@
-32. § A Ve. 153. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szavazóköri névjegyzékben szereplő választópolgárok nevét és lakcímét – a 89. § rendelkezéseire is figyelemmel –
-
-a) az egyéni jelölt kérésére – az érintett választókerületre kiterjedően – a jelölt nyilvántartásba vételére illetékes választási bizottság mellett működő választási iroda,
-
-b) a listát állító jelölő szervezet kérésére – a jelölő szervezet által megjelölt választókerületekre kiterjedően – a Nemzeti Választási Iroda
-
-öt napon belül, de legkorábban a 132. § szerinti nyilvántartásba vétele jogerőre emelkedését követően átadja.”
+32. §
