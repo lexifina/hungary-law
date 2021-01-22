@@ -1,0 +1,3 @@
+## 5. § Az R. 32. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+## „(9) A tandíjköltséghez történő hozzájárulás összegét juttatásra jogosító gyermekenként a kiküldött (3) bekezdés szerinti kérelmében megjelölt EUR, USD vagy CAD pénznemben kell megállapítani és folyósítani. Az EUR-tól eltérő pénznemben felmerülő tandíjköltség összegét a (3) bekezdés szerinti kérelem benyújtását megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell átszámítani. Az MNB által nem jegyzett, az MNB hivatalos devizalapján nem szereplő, egyéb árfolyamok esetében a kérelem benyújtását megelőző hónap 1. napján, az MNB által közzétett árfolyamon kell a tandíjköltséget EUR-ra átszámítani.”
