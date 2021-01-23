@@ -4,7 +4,7 @@
 
 ## ÉS A KAPCSOLATTARTÁS
 
-## III. Fejezet[^81]
+## III. Fejezet[^82]
 
 ## A SZÜLŐI FELÜGYELETI JOG GYAKORLÁSÁVAL KAPCSOLATOS ÜGYEK
 
@@ -20,7 +20,7 @@ b) a jövőre nézve a szülői felügyeletet egyikőjük gyakorolja,
 
 a gyámhivatal e megállapodásukat – kérésükre – jegyzőkönyvben rögzíti. A jegyzőkönyvben rögzíteni kell azt a tényt is, hogy a gyermek – megállapodásuk alapján – melyik szülő gondozásában nevelkedik, valamint, hogy a gyermek sorsát érintő lényeges kérdésekben a szülői felügyeleti jogot közösen gyakorolják, feltéve, hogy a bíróság nem rendelkezett ettől eltérően.
 
-(3)[^82] A szülőket tájékoztatni kell arról, hogy a (2) bekezdésben meghatározott megállapodásukat közös megegyezéssel módosíthatják.
+(3)[^83] A szülőket tájékoztatni kell arról, hogy a (2) bekezdésben meghatározott megállapodásukat közös megegyezéssel módosíthatják.
 
-[^81]: A III. Fejezet (18–26/C. §) a 70/2014. (III. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^82]: A 18. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^82]: A III. Fejezet (18–26/C. §) a 70/2014. (III. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^83]: A 18. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

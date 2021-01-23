@@ -1,6 +1,6 @@
-## 111. §[^860] A gyámhivatal a nevelésbe vett gyermeket nagykorúságának elérése előtt hat hónappal írásban tájékoztatja a Gyvt. 25–27. §-a szerinti otthonteremtési támogatás lehetőségéről.
+## 111. §[^872] A gyámhivatal a nevelésbe vett gyermeket nagykorúságának elérése előtt hat hónappal írásban tájékoztatja a Gyvt. 25–27. §-a szerinti otthonteremtési támogatás lehetőségéről.
 
-112. §[^861]
+112. §[^873]
 
-[^860]: A 111. §-t és az azt megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés f) pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
-[^861]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^872]: A 111. §-t és az azt megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés f) pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
+[^873]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.

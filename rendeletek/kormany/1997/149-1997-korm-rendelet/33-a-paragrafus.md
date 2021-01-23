@@ -1,3 +1,3 @@
-33/A. §[^169]
+33/A. §[^179]
 
-[^169]: A 33/A. §-t a 360/2019. (XII. 30.) Korm. rendelet 10. § (11) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^179]: A 33/A. §-t a 360/2019. (XII. 30.) Korm. rendelet 10. § (11) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

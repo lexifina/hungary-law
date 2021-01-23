@@ -1,4 +1,4 @@
-29. §[^118] (1) A gyámhivatal vita esetében – a Ptk. 4:181. § (2) bekezdésében meghatározottak figyelembevételével – bármelyik fél kérelmére dönt a kapcsolattartásról vagy annak megváltoztatásáról, kivéve, ha a szülő és a gyermek kapcsolattartásának megállapítása a Ptk. 4:181. § (1) bekezdése szerint a bíróság hatáskörébe tartozik.
+29. §[^123] (1)[^124] A gyámhivatal vita esetében – a Ptk. 4:181. § (2) bekezdésében meghatározottak figyelembevételével – bármelyik fél kérelmére dönt a kapcsolattartásról vagy annak megváltoztatásáról, kivéve, ha a szülő és a gyermek kapcsolattartásának megállapítása a Ptk. 4:181. § (1) vagy (4) bekezdése szerint a bíróság hatáskörébe tartozik.
 
 (2) Különélő szülők kapcsolattartás iránti kérelmének elbírálása előtt tisztázni kell, hogy a szülői felügyeleti jogot egyezségük vagy a bíróság döntése alapján miként gyakorolják, és hogy a különélő szülő jogosult-e kapcsolattartásra.
 
@@ -12,4 +12,5 @@ a) a szülői felügyeletet gyakorló, kapcsolattartásra kötelezett szülő d�
 
 b) a kapcsolattartásra jogosult kérelmére és a szülői felügyeleti jogát gyakorló szülő hozzájárulásával a kapcsolattartás során a gyermek gondozásában huzamos időn át részt vevő személy.
 
-[^118]: A 29. § a 70/2014. (III. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^123]: A 29. § a 70/2014. (III. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^124]: A 29. § (1) bekezdése a 10/2021. (I. 20.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

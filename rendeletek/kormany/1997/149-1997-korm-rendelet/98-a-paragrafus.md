@@ -1,6 +1,6 @@
-## A gyermek elhelyezése a büntetés-végrehajtási intézet anya–gyermek részlegén és a javítóintézet fiatalkorú és gyermeke együttes elhelyezést biztosító részlegén[^766]
+## A gyermek elhelyezése a büntetés-végrehajtási intézet anya–gyermek részlegén és a javítóintézet fiatalkorú és gyermeke együttes elhelyezést biztosító részlegén[^776]
 
-98/A. §[^767] (1) A gyámhivatal a gyermeknek a büntetés-végrehajtási intézet anya–gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezést biztosító részlegén történő ideiglenes hatályú elhelyezéséről szóló bírósági döntés megérkezését követően
+98/A. §[^777] (1) A gyámhivatal a gyermeknek a büntetés-végrehajtási intézet anya–gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezést biztosító részlegén történő ideiglenes hatályú elhelyezéséről szóló bírósági döntés megérkezését követően
 
 a) öt napon belül intézkedik
 
@@ -14,9 +14,10 @@ b) – ha a gyermek külön élő szülője vagy a családbafogadó gyámként e
 
 (2) Ha a gyámhivatal a gyermek érdekét mérlegelve a gyermeknek a büntetés-végrehajtási intézet anya–gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezést biztosító részlegén történő elhelyezéséhez
 
-a) hozzájárul a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvényben (a továbbiakban: Bv. tv.) meghatározott időtartamra, egyidejűleg – szülői felügyeleti jogot gyakorló másik szülő hiányában – a gyermek számára gyámot rendel,
+a)[^778] hozzájárul a Bv. tv.-ben meghatározott időtartamra, egyidejűleg – szülői felügyeleti jogot gyakorló másik szülő hiányában – a gyermek számára gyámot rendel,
 
 b) való hozzájárulást megtagadja, egyidejűleg – szülői felügyeleti jogot gyakorló másik szülő hiányában – a gyermek számára gyámot rendel, és rendelkezik a gyermeknek a külön élő szülő vagy a gyám részéről történő kiadásának időpontjáról.
 
-[^766]: A 98/A. §-t megelőző alcímet a 384/2017. (XII. 12.) Korm. rendelet 2. §-a iktatta be.
-[^767]: A 98/A. §-t a 384/2017. (XII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^776]: A 98/A. §-t megelőző alcímet a 384/2017. (XII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^777]: A 98/A. §-t a 384/2017. (XII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^778]: A 98/A. § (2) bekezdés a) pontja a 10/2021. (I. 20.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

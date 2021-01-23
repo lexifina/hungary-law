@@ -1,8 +1,8 @@
-## Elhelyezési javaslat és egyéni elhelyezési terv[^835]
+## Elhelyezési javaslat és egyéni elhelyezési terv[^847]
 
-107. § (1)[^836] Az elhelyezési javaslat és egyéni elhelyezési terv célja, hogy elősegítse a gyermek saját családjába történő visszahelyezését és ehhez meghatározza a szükséges feltételeket.
+107. § (1)[^848] Az elhelyezési javaslat és egyéni elhelyezési terv célja, hogy elősegítse a gyermek saját családjába történő visszahelyezését és ehhez meghatározza a szükséges feltételeket.
 
-(2)[^837] A gyámhivatal által elfogadott elhelyezési javaslat és egyéni elhelyezési terv tartalmazza
+(2)[^849] A gyámhivatal által elfogadott elhelyezési javaslat és egyéni elhelyezési terv tartalmazza
 
 a) annak a célnak a megjelölését, hogy a nevelésbe vétel megszüntetése után melyik szülő vagy más hozzátartozó, vagy örökbefogadó szülő gondozásába kerüljön a gyermek,
 
@@ -20,16 +20,16 @@ f) a soron kívüli felülvizsgálat időpontját, ha az szükségesnek látszik
 
 a) a (2) bekezdés d) pontjában előírt feltételek megvalósításához igénybe vehető szolgáltatások megjelölését,
 
-b)[^838] a gyermekvédelmi gyám és a lakóhely szerinti család- és gyermekjóléti központ esetmenedzsere, illetve család- és gyermekjóléti szolgálat családsegítője, valamint megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti munkamegosztás formáit,
+b)[^850] a gyermekvédelmi gyám és a lakóhely szerinti család- és gyermekjóléti központ esetmenedzsere, illetve család- és gyermekjóléti szolgálat családsegítője, valamint megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti munkamegosztás formáit,
 
-c)[^839] a család- és gyermekjóléti központ esetmenedzsere, illetve a család- és gyermekjóléti szolgálat családsegítője, a szülő, a gyermek és megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti együttműködés részletes szabályait,
+c)[^851] a család- és gyermekjóléti központ esetmenedzsere, illetve a család- és gyermekjóléti szolgálat családsegítője, a szülő, a gyermek és megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti együttműködés részletes szabályait,
 
 d) a szakmailag indokoltnak tartott egyéb feltételeket.
 
 (4) A gyámhivatalnak az egyéni elhelyezési terv elfogadásáról való döntése nem terjed ki a (3) bekezdésben meghatározott rendelkezésekre.
 
-[^835]: A 107. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 38. §-a iktatta be.
-[^836]: A 107. § (1) bekezdése a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 11. pontja szerint módosított szöveg.
-[^837]: A 107. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 39. §-ával megállapított szöveg.
-[^838]: A 107. § (3) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított, a 419/2015. (XII. 23.) Korm. rendelet 14. § 29. pontja szerint módosított szöveg.
-[^839]: A 107. § (3) bekezdés c) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított, a 419/2015. (XII. 23.) Korm. rendelet 14. § 30. pontja szerint módosított szöveg.
+[^847]: A 107. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 38. §-a iktatta be.
+[^848]: A 107. § (1) bekezdése a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 11. pontja szerint módosított szöveg.
+[^849]: A 107. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^850]: A 107. § (3) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított, a 419/2015. (XII. 23.) Korm. rendelet 14. § 29. pontja szerint módosított szöveg.
+[^851]: A 107. § (3) bekezdés c) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított, a 419/2015. (XII. 23.) Korm. rendelet 14. § 30. pontja szerint módosított szöveg.
