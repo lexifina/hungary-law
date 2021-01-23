@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 6. § (2) bekezdése alapján 2021. január 23-án lép hatályba.
+## „78. az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.”
