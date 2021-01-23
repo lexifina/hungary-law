@@ -138,7 +138,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 56.[^80] gondoskodik a teljesítménytervek és teljesítménycélok (EU) 2019/317 bizottsági végrehajtási rendelet 10. cikk (6) bekezdése szerinti módosításáról, a teljesítményterv tervezetének az (EU) 2019/317 bizottsági végrehajtási rendelet 12. cikke szerinti benyújtásáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 13. cikk (2) bekezdésében, 14. cikk (3) bekezdésében, 15. cikk (6) bekezdésében a tagállamok részére megállapított feladatok végrehajtásáról, a teljesítménycéloknak az (EU) 2019/317 bizottsági végrehajtási rendelet 18. cikk (1) bekezdése szerinti felülvizsgálatáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 6. cikkében, 24. cikk (2) és (3) bekezdésében, valamint 30. cikk (1) bekezdésében meghatározott konzultációk lefolytatásáról, továbbá az (EU) 2019/317 bizottsági végrehajtási rendelet 24. cikk (4) bekezdésében, 30. cikk (2) bekezdésében és 38. cikk (1) bekezdés c)–e) pontjában foglaltak végrehajtásáról,
 
-57.[^81] a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (6) bekezdésében, az 5. cikk (1) és (2) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint II. mellékletében meghatározott feladatok végrehajtása és a hatálya alá tartozó repülőterek repülőtéri kézikönyvének jóváhagyása,
+57.[^81] kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésében, 3. cikk (6) bekezdésében, 5. cikk (1) és (2) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint a II. mellékletében meghatározott feladatok végrehajtásáról és a hatálya alá tartozó repülőterek repülőtéri kézikönyvének jóváhagyásáról,
 
 58. az 598/2014/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik az 598/2014/EU európai parlamenti és tanácsi rendeletben meghatározott, a légijárművek zajának kezelésére, az egyes repülőterek zajhelyzetének értékelésére, az üzemeltetési korlátozások bevezetésére és a bizottság értesítésére vonatkozó feladatok végrehajtásáról,
 
@@ -180,6 +180,8 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 77.[^86] Ellátja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 70. és 71. cikkében a tagállamok számára meghatározott feladatokat.
 
+78.[^87] az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.
+
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
 (6) Ha
@@ -199,9 +201,10 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 [^78]: A 9. § (4) bekezdés 28. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^79]: A 9. § (4) bekezdés 36. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^80]: A 9. § (4) bekezdés 56. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^81]: A 9. § (4) bekezdés 57. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^81]: A 9. § (4) bekezdés 57. pontja a 9/2021. (I. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^82]: A 9. § (4) bekezdés 59. pontját a 348/2019. (XII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^83]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
 [^84]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
 [^85]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
 [^86]: A 9. § (4) bekezdés 77. pontját a 722/2020. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
+[^87]: A 9. § (4) bekezdés 78. pontját a 9/2021. (I. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
