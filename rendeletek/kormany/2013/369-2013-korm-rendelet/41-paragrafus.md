@@ -36,6 +36,8 @@ p)[^127] az engedélyest törölheti a szolgáltatói nyilvántartásból, és k
 
 q)[^128] az Szt. 92/L. § (1) bekezdésében, illetve a Gyvt. 100/A. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
 
+(3)[^129] Ha a működtető és a fenntartó határidőben nem fizeti meg a nevelőszülőknek járó nevelési díjat, külön ellátmányt és a nevelőszülő munkájáért járó díjazást, a működést engedélyező szerv harmincnapos határidővel ismételten felszólítja ennek teljesítésére. Ennek eredménytelen leteltét követően a nevelőszülői hálózatot harminc napon belül törölni kell a szolgáltatói nyilvántartásból.
+
 [^118]: A 41. § (2) bekezdés a) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés r) pontja szerint módosított szöveg.
 [^119]: A 41. § (2) bekezdés e) pontja a 419/2015. (XII. 23.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
 [^120]: A 41. § (2) bekezdés f) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés s) pontja szerint módosított szöveg.
@@ -47,3 +49,4 @@ q)[^128] az Szt. 92/L. § (1) bekezdésében, illetve a Gyvt. 100/A. § (1) beke
 [^126]: A 41. § (2) bekezdés o) pontját a 221/2015. (VIII. 7.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 419/2015. (XII. 23.) Korm. rendelet 40. § k) pontja szerint módosított szöveg.
 [^127]: A 41. § (2) bekezdés p) pontját a 419/2015. (XII. 23.) Korm. rendelet 35. § (2) bekezdése iktatta be.
 [^128]: A 41. § (2) bekezdés q) pontját a 419/2015. (XII. 23.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^129]: A 41. § (3) bekezdését a 10/2021. (I. 20.) Korm. rendelet 17. §-a iktatta be.

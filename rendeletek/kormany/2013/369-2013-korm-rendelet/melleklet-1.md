@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^164]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^166]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -394,8 +394,10 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.1. falugondnoki szolgáltatás esetén a település, tanyagondnoki szolgáltatás esetén a településrész vagy az önkormányzati rendeletben meghatározott ellátási körzet megnevezésével,
 
-6.3.2. szociális étkeztetés, házi segítségnyújtás, támogató szolgáltatás, közösségi ellátások, utcai szociális munka, valamint családsegítés és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület vagy járás megnevezésével,
+6.3.2. szociális étkeztetés, házi segítségnyújtás, támogató szolgáltatás, közösségi ellátások, valamint családsegítés és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület vagy járás megnevezésével,
 
-6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
+6.3.3. utcai szociális munka esetén önkormányzati rendeletben meghatározott vagy a határoló közterületekkel megjelölt településrész, település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület vagy járás megnevezésével,
 
-[^164]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 18. és 20. §-a, a 457/2017. (XII. 28.) Korm. rendelet 457. § 17–18. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. Az 1. melléklet a 226/2018. (XII. 4.) Korm. rendelet 15. §-a, a 305/2018. (XII. 27.) Korm. rendelet 18. §-a és 19. § b)–c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 123. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+6.3.4. a 6.3.1–6.3.3. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
+
+[^166]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 18. és 20. §-a, a 457/2017. (XII. 28.) Korm. rendelet 457. § 17–18. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. Az 1. melléklet a 226/2018. (XII. 4.) Korm. rendelet 15. §-a, a 305/2018. (XII. 27.) Korm. rendelet 18. §-a és 19. § b)–c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 123. § (5) bekezdés a) pontja, a 10/2021. (I. 20.) Korm. rendelet 19. §-a szerint módosított szöveg.
