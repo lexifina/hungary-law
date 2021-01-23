@@ -1,5 +1,3 @@
-## 1. § A külföldi szolgálatot teljesítők egyes járandóságairól szóló 8/2018. (VI. 22.) HM rendelet (a továbbiakban: R.) 2. § (4) bekezdés d) pontja helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## (Az illetékes pénzügyi ellátó szerv)
-
-## „d) a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjében meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem az állomány (2) bekezdés e) pontja szerinti tagja esetén.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

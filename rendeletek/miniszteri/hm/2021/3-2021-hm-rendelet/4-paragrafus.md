@@ -1,7 +1,3 @@
-## 3. § Az R. 28. § (1) bekezdése a következő e) ponttal egészül ki:
+## 3. §[^3]
 
-## (A kiküldetés időtartamára az állomány tagja)
-
-## „e) – ha a részére elrendelt karantén miatt az étkezést meghatározott helyen tudja csak igénybe venni – az engedélyező elöljáró engedélye alapján étkezési költségeinek megtérítésére”
-
-## (jogosult.)
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(7) A (2) és (3) bekezdésben foglalt határidő be nem tartása esetén az illetékes pénzügyi ellátó szerv szervezetének vezetője írásban tájékoztatja a kiküldő szervezetet a kiküldött elszámolásának elmaradásáról. Ha a kiküldött – neki felróható okból – az ezt követő 10 napon belül sem számol el, az illetékes pénzügyi ellátó szerv az (1) bekezdés szerinti előlegeket a kiküldött havi illetményéből levonja.”
+## 9. §[^9]
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
