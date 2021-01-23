@@ -1,0 +1,3 @@
+## 17. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet (a továbbiakban: Sznyr.) 41. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) Ha a működtető és a fenntartó határidőben nem fizeti meg a nevelőszülőknek járó nevelési díjat, külön ellátmányt és a nevelőszülő munkájáért járó díjazást, a működést engedélyező szerv harmincnapos határidővel ismételten felszólítja ennek teljesítésére. Ennek eredménytelen leteltét követően a nevelőszülői hálózatot harminc napon belül törölni kell a szolgáltatói nyilvántartásból.”
