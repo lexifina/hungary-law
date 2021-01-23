@@ -244,7 +244,7 @@ Ezen belül
 
 2.[^109] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
 
-– ,,A'' fizetési osztályba kell sorolni: a legfeljebb alapfokú iskolai végzettséghez kötött munkaköröket, valamint az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkaköröket pl. falugondnok;
+– ,,A'' fizetési osztályba kell sorolni: a legfeljebb alapfokú iskolai végzettséghez kötött munkaköröket, valamint az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkaköröket pl. alapfokú iskolai végzettséggel rendelkező falu- és tanyagondnok;
 
 – ,,B'' fizetési osztályba kell sorolni: az alapfokú iskolai végzettséget igénylő szakképesítéshez kötött munkakört, pl. 2/1975. (II. 1.) EüM rendelet szerinti képzésben szerzett általános ápoló és általános asszisztensi végzettséghez kötött munkakört;
 
@@ -267,4 +267,4 @@ Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú v�
 [^106]: A 2. számú melléklet III. pontja a 305/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^107]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 244/2016. (VIII. 17.) Korm. rendelet 1. § i) pontja.
 [^108]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, hatályon kívül helyezte a 418/2015. (XII. 23.) Korm. rendelet 10. § b) pontja. [A 2. számú melléklet V. részének a 406/2017. (XII. 15.) Korm. rendelet 3. §-ával elrendelt módosítása nem vezethető át.]
-[^109]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja, a 34/2014. (II. 18.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^109]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja, a 34/2014. (II. 18.) Korm. rendelet 13. § b) pontja, a 10/2021. (I. 20.) Korm. rendelet 10. §-a szerint módosított szöveg.
