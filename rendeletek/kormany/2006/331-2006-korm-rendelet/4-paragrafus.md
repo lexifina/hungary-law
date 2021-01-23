@@ -44,6 +44,8 @@ q)[^32] megkeresi az adóhatóságot a gondozási díj behajtása érdekében,
 
 r)[^33] a gyermek gondozási helyére vonatkozó javaslat kialakítása érdekében felkérhet az illetékességi területén kívüli más megyei (fővárosi) gyermekvédelmi szakértői bizottságot szakvélemény elkészítésére.
 
+s)[^34] a büntetés-végrehajtási intézet megkeresésére az elítélt kiskorú gyermekével kapcsolatban elkészíti a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 188. § (2a) bekezdés c) pontja szerinti gyámhatósági véleményt.
+
 [^16]: A 4. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 4. § nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^18]: A 4. § a) pontja a 97/2013. (III. 29.) Korm. rendelet 68. § (1) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 101. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 26. § a) pontja, a 31/2020. (II. 29.) Korm. rendelet 7. § (3) bekezdés a) pontja szerint módosított szöveg.
@@ -62,3 +64,4 @@ r)[^33] a gyermek gondozási helyére vonatkozó javaslat kialakítása érdeké
 [^31]: A 4. § p) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 26. § b) pontja, a 31/2020. (II. 29.) Korm. rendelet 7. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^32]: A 4. § q) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
 [^33]: A 4. § r) pontját a 257/2013. (VII. 5.) Korm. rendelet 21. §-a iktatta be.
+[^34]: A 4. § s) pontját a 10/2021. (I. 20.) Korm. rendelet 11. §-a iktatta be.

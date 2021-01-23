@@ -1,3 +1,3 @@
-## 11/A. §[^66] A gyámhivatal rendeli ki az ügygondnokot a menedékjogról szóló 2007. évi LXXX. törvény 35. § (5) bekezdésében meghatározott esetben.
+## 11/A. §[^69] A gyámhivatal rendeli ki az ügygondnokot a menedékjogról szóló 2007. évi LXXX. törvény 35. § (5) bekezdésében meghatározott esetben.
 
-[^66]: A 11/A. §-t a 21/2012. (II. 29.) Korm. rendelet 24. §-a iktatta be, szövege a 440/2016. (XII. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^69]: A 11/A. §-t a 21/2012. (II. 29.) Korm. rendelet 24. §-a iktatta be, szövege a 440/2016. (XII. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
