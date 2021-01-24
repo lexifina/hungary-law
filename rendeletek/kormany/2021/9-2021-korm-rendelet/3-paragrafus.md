@@ -1,1 +1,3 @@
-## „78. az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
