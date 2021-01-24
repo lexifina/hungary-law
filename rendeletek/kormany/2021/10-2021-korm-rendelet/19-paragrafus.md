@@ -1,3 +1,0 @@
-## 18. § Az Sznyr. 42. §-a a következő (11) bekezdéssel egészül ki:
-
-## „(11) A működést engedélyező szerv a 41. § (3) bekezdése szerinti esetben a második felszólítással egyidejűleg megkeresi a Főigazgatóságot a nevelőszülői ellátás folyamatos biztosításának megszervezése és a nevelőszülők más működtető általi továbbfoglalkoztatásának elősegítése érdekében. Ha a működést engedélyező szerv egyéb esetben a jogsértés folytatása esetén várhatóan törölni fogja az engedélyest a szolgáltatói nyilvántartásból, és kötelezni fogja a fenntartót a szolgáltatásnyújtás megszüntetésére, haladéktalanul megkeresi a Főigazgatóságot a szolgáltatás folyamatos biztosításának megszervezése érdekében.”

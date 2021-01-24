@@ -1,1 +1,0 @@
-## „(10a) Az örökbefogadás engedélyezése iránti eljárásban – a nyílt örökbefogadási eljárás során a Gyvt. 75/A. § b) pontja szerinti gyámrendeléstől függetlenül – az örökbefogadási ügyben kijelölt gyámhivatal illetékessége az örökbefogadási eljárás befejezéséig nem változik.”
