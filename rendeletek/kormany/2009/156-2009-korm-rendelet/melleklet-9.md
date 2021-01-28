@@ -102,6 +102,6 @@
 
 | 20. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén | SJ | 100 000 | járművezető |
 
-9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^77]
+9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^78]
 
-[^77]: A 9. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § j) pontjával megállapított szöveg.
+[^78]: A 9. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § j) pontjával megállapított szöveg.

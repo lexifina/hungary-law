@@ -70,6 +70,6 @@
 
 | 14. | A konténer vagy a cserefelépítmény tömegét tanúsító bizonylat hiánya a fuvarozás során | EJ | 30 000 | fuvarozó, feladó |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^69]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^70]
 
-[^69]: A 2. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § b) pontjával megállapított szöveg.
+[^70]: A 2. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § b) pontjával megállapított szöveg.

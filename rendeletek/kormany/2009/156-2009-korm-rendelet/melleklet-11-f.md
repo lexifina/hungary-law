@@ -6,7 +6,7 @@
 
 | 3. | nem gépi meghajtású járművet – a kerékpár kivételével – vezető vagy hajtó szervezetében 0,50 gramm/liter véralkohol-, illetve 0,25 milligramm/liter levegőalkohol-koncentrációnál magasabb értéket eredményező szeszes ital fogyasztásából származó alkohol van, amennyiben az nem minősül bűncselekménynek és a járművel a) nem főútvonalon közlekednek, b) főútvonalon közlekednek | 4. § (1) bekezdés c) pont és 4. § (4) bekezdése | 10 000 30 000 | járművezető, hajtó |
 
-## 11/E . melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^83]
+## 11/E . melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^84]
 
 | Sorszám | Az autópálya leálló sávjának igénybevételére | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
@@ -14,7 +14,7 @@
 
 | 2. |  |  |  |  |
 
-11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^84]
+11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^85]
 
-[^83]: A 11/E. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege e módosító rendelet 10. § (4) bekezdése, a 248/2019. (X. 24.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^84]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be.
+[^84]: A 11/E. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege e módosító rendelet 10. § (4) bekezdése, a 248/2019. (X. 24.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^85]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be.
