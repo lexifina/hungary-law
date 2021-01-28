@@ -1,4 +1,4 @@
-## 1.[^1] egyetért a Modern Városok Program keretében egy új Onkológiai Központ kialakításának és a kiegészítő egészségügyi fejlesztéseknek (a továbbiakban: Beruházás) a salgótarjáni Szent Lázár Megyei Kórház (a továbbiakban: Kórház) általi megvalósításával, valamint azzal, hogy a Beruházáshoz kapcsolódó megvalósítási feladatok mindösszesen 16 536 370 000 forint összegű költségvetési támogatással valósuljanak meg, az alábbi költségvetési évek szerinti bontásban:
+## 1.[^1] egyetért a Modern Városok Program keretében egy új Onkológiai Központ kialakításának és a kiegészítő egészségügyi fejlesztéseknek (a továbbiakban: Beruházás) a salgótarjáni Szent Lázár Megyei Kórház (a továbbiakban: Kórház) általi megvalósításával, valamint azzal, hogy a Beruházáshoz kapcsolódó megvalósítási feladatok mindösszesen 17 439 718 000 forint összegű költségvetési támogatással valósuljanak meg, az alábbi költségvetési évek szerinti bontásban:
 
 ## a) a 2018. évben 746 123 000 forint,
 
@@ -6,7 +6,7 @@
 
 ## c) a 2020. évben 6 935 668 900 forint,
 
-## d) a 2021. évben 4 913 951 100 forint;
+## d) a 2021. évben 5 817 299 100 forint;
 
 ## 2. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Kórház útján a Beruházás végrehajtási feladatainak a megvalósításáról;
 
@@ -116,5 +116,5 @@ Költségvetési év: 2018.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1594/2019. (X. 16.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1015/2021. (I. 28.) Korm. határozat 2. pontjával megállapított szöveg.
 [^2]: Az 5. pontot az 1455/2020. (VII. 30.) Korm. határozat 4. pontja visszavonta.
