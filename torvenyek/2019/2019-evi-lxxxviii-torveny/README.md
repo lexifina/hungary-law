@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-88-00-00
 | --- | --- | --- |
 | 2019-12-13 | 2019. évi LXXXVIII. törvény | 2019-88-00-00.0 (közlönyállapot) |
 | 2019-12-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-88-00-00.1 |
+| 2021-01-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-88-00-00.2 |
