@@ -432,7 +432,7 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 4. Katonai körzetek
 
-## 0X06850N_3
+## 1X00241M_3
 
 |  | A | B | C |
 
@@ -740,7 +740,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 0X06850N_4
+## 1X00241M_4
 
 |  | A | B | C | D |
 
@@ -1108,7 +1108,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 3. Vitorlázó- és siklórepülések céljára kijelölt légterek
 
-## 0X06850N_6
+## 1X00241M_6
 
 |  | A | B | C |
 
@@ -1518,9 +1518,17 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | LHB24 Velencei tó, Dinnyés környezetvédelmi szempontból korlátozott légtér átfedő részének kizárásával |
 
-| 10. | LHSDZLHGD/Gödöllő | FL145 (4400 m STD)/GND | LHSDZLHTL/Tököl légtérrel egyidejűleg nem működhet. |
+| 10. | LHSDZLHGD/Gödöllő | 6500’ (2000 m) AMSL/GND | LHSDZLHTL/Tököl légtérrel egyidejűleg nem működhet. |
 
-| 2 km (1 NM) sugarú kör a 473425N 0191957E középpont körül |
+| 473646N |  | 0191900E |
+
+| 473439N |  | 0191741E |
+
+| 473336N |  | 0192243E |
+
+| 473548N |  | 0192352E |
+
+| 473646N |  | 0191900E |
 
 | 11. | LHSDZLHKA/Kalocsa | FL135 (4100 m STD)/GND |  |
 
@@ -1762,4 +1770,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^94]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése szerint módosított szöveg.
+[^94]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a szerint módosított szöveg.
