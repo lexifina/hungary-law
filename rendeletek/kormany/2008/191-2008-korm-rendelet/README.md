@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2020-06-18 | 2008-191-20-22.37 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2020-07-31 | 2008-191-20-22.38 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2021-01-01 | 2008-191-20-22.39 | 610/2020. (XII. 18.) Korm. rendelet |
+| 2021-01-29 | 2008-191-20-22.40 | 284/2020. (VI. 17.) Korm. rendelet |
