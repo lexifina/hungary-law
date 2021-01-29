@@ -16,4 +16,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-4. visszavonja az 1395/2019. (VI. 28.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
