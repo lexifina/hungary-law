@@ -2,7 +2,7 @@
 
 a) a független vagy ideiglenes vagyonértékelés jóváhagyása,
 
-b) a szanálási feltételek fenn nem állta vagy fennállta tényének megállapítása,
+b)[^17] a szanálási feltételek fennállta tényének megállapítása,
 
 c) a szanálási biztos kirendelése és visszahívása,
 
@@ -22,7 +22,9 @@ j) a szanálhatóság értékelésére irányuló eljárás szanálhatóság jel
 
 k) a rendszerszinten jelentős intézmények esetében bírság alkalmazása,
 
-l) a szanálási hatósági feladatok ellátásához szükséges, a (2) bekezdésben nem nevesített döntések.
+l)[^18] engedélyezési eljárás során az engedélyezés tárgyában hozott érdemi döntés,
+
+m)[^19] a szanálási hatósági feladatok ellátásához szükséges, a (2) bekezdésben nem nevesített döntések.
 
 (2) A Szanálási igazgatóság igazgatója hoz döntést az 1. § b) pontja szerinti, az (1) bekezdésbe nem tartozó következő esetekben:
 
@@ -55,3 +57,7 @@ m) az információkérésre, iratbetekintésre irányuló kérelem tárgyában h
 n) az értékelés elvégzésének tűrésére és az értékelésben való közreműködésre kötelezésre irányuló döntés,
 
 o) a szanálhatósági akadály kiküszöbölésére irányuló felhívás.
+
+[^17]: A 3. § (1) bekezdés b) pontja a 4/2021. (I. 28.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
+[^18]: A 3. § (1) bekezdés l) pontja a 4/2021. (I. 28.) MNB rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^19]: A 3. § (1) bekezdés m) pontját a 4/2021. (I. 28.) MNB rendelet 1. § (8) bekezdése iktatta be.
