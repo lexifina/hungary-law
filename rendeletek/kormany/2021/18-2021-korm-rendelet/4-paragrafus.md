@@ -1,4 +1,4 @@
-## 3. §[^1]
+## 3. §[^3]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § a kihirdetését követő 8. napon lép hatályba.
 
-[^1]: A 3. § a 4. § (2) bekezdése alapján 2021. február 4-én lép hatályba.
+[^3]: A 3. § a 4. § (2) bekezdése alapján 2021. február 4-én lép hatályba.
