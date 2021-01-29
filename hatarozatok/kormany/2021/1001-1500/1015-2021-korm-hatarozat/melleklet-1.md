@@ -12,19 +12,7 @@
 
 ## Határidő: 2021. január 31.
 
-## 2. A Modern Városok Program keretén belül a salgótarjáni Szent Lázár Megyei Kórház komplex fejlesztése megvalósításához szükséges támogatás biztosításáról szóló 1577/2018. (XI. 15.) Korm. határozat 1. pontja helyébe a következő rendelkezés lép:
-
-## [A Kormány, figyelemmel a Magyarország Kormánya és Salgótarján Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1388/2017. (VI. 27.) Korm. határozat 4. pont a) alpontjára,]
-
-## „1. egyetért a Modern Városok Program keretében egy új Onkológiai Központ kialakításának és a kiegészítő egészségügyi fejlesztéseknek (a továbbiakban: Beruházás) a salgótarjáni Szent Lázár Megyei Kórház (a továbbiakban: Kórház) általi megvalósításával, valamint azzal, hogy a Beruházáshoz kapcsolódó megvalósítási feladatok mindösszesen 17 439 718 000 forint összegű költségvetési támogatással valósuljanak meg, az alábbi költségvetési évek szerinti bontásban:
-
-## a) a 2018. évben 746 123 000 forint,
-
-## b) a 2019. évben 3 940 627 000 forint,
-
-## c) a 2020. évben 6 935 668 900 forint,
-
-## d) a 2021. évben 5 817 299 100 forint;”
+## 2.[^1]
 
 1. melléklet az 1015/2021. (I. 28.) Korm. határozathoz
 
@@ -93,3 +81,5 @@
 | 5 817 299 100 | 5 817 299 100 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
