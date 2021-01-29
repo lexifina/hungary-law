@@ -26,7 +26,7 @@
 
 12. működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételei, csökkentve a diszkontált működési költségekkel (így különösen személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) és – a támogatást nyújtó döntése alapján – a diszkontált észszerű nyereséggel, ha a számítás végeredménye pozitív, ellenkező esetben a működési eredmény nulla,
 
-13. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
+13.[^1] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti vállalkozás,
 
 14. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás,
 
@@ -35,3 +35,5 @@
 16. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
 
 17. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz.
+
+[^1]: A 2. § 13. pontja a 6/2021. (I. 28.) HM rendelet 3. § a) pontja szerint módosított szöveg.
