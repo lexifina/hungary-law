@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Zalaegerszegi Szakképzési Centrum egyes intézményeinek 21. századi elvárásoknak megfelelő fejlesztését célzó, a Zalaegerszeg belterület 4875 és 5028 helyrajzi számú ingatlanokon, valamint az ezen ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
