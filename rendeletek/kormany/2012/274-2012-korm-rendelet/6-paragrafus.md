@@ -10,5 +10,8 @@
 
 (5)[^27] A vizsgáról a vizsgabiztos jegyzőkönyvet készít. Eredményes vizsga esetén a vizsgázó számára – a vizsgajegyzőkönyv alapján – megfelelt minősítésű bizonyítványt kell kiállítani.
 
+(6)[^28] Az (5) bekezdés szerinti bizonyítvány legalább fokozott biztonságú elektronikus aláírással történő hitelesítésére a központi szerv vezetője jogosult.
+
 [^26]: A 6. § (2) bekezdése a 11/2019. (II. 5.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
 [^27]: A 6. § (5) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^28]: A 6. § (6) bekezdését a 23/2021. (I. 28.) Korm. rendelet 2. §-a iktatta be.

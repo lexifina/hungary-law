@@ -1,4 +1,4 @@
-## 25/A. §[^77] A rendészeti alap- vagy szakvizsgára történő felkészítésen oktatóként a vizsgabizottsági és a vizsgabiztosi névjegyzékben szereplő személy működhet közre.
+## 25/A. §[^81] A rendészeti alap- vagy szakvizsgára történő felkészítésen oktatóként a vizsgabizottsági és a vizsgabiztosi névjegyzékben szereplő személy működhet közre.
 
 ## 17. A Rendészeti Alap- és Szakvizsga Bizottság
 
@@ -12,4 +12,4 @@
 
 (5) A RASZB a tárgyévet követő február 28-ig elfogadja és a rendészetért felelős miniszterhez jóváhagyásra felterjeszti az éves beszámoló jelentését.
 
-[^77]: A 25/A. §-t a 396/2017. (XII. 13.) Korm. rendelet 14. §-a iktatta be.
+[^81]: A 25/A. §-t a 396/2017. (XII. 13.) Korm. rendelet 14. §-a iktatta be.

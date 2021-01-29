@@ -1,4 +1,4 @@
-34. §[^86] (1) A 2017. december 31-éig a vizsgabizottsági névjegyzék
+34. §[^90] (1) A 2017. december 31-éig a vizsgabizottsági névjegyzék
 
 a) határrendészeti-rendőrségi szakterületéhez besorolt vizsgáztatót 2018. január 1-jét követően a névjegyzék rendőrségi szakterületéhez,
 
@@ -16,4 +16,4 @@ c) hivatali igazgatási-humánigazgatási,
 
 d) migrációs
 
-[^86]: A 34. §-t a 396/2017. (XII. 13.) Korm. rendelet 16. §-a iktatta be.
+[^90]: A 34. §-t a 396/2017. (XII. 13.) Korm. rendelet 16. §-a iktatta be.

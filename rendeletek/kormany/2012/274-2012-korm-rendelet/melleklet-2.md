@@ -1,8 +1,8 @@
-2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^90]
+2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^94]
 
 ## A RENDÉSZETI SZAKVIZSGA KÖVETELMÉNYRENDSZERE
 
-## I.[^91] KÖTELEZŐ VIZSGATÁRGY
+## I.[^95] KÖTELEZŐ VIZSGATÁRGY
 
 ## KÖZIGAZGATÁSI ÉS INTEGRÁLT RENDÉSZETI VEZETÉSI ISMERETEK
 
@@ -56,9 +56,9 @@ XIII. Büntetés-végrehajtási igazgatás
 
 XIV. Adó- és vámigazgatás
 
-## II.[^92] VÁLASZTHATÓ VIZSGATÁRGYAK
+## II.[^96] VÁLASZTHATÓ VIZSGATÁRGYAK
 
-## II.1.[^93] BÜNTETÉS-VÉGREHAJTÁSI IGAZGATÁS
+## II.1.[^97] BÜNTETÉS-VÉGREHAJTÁSI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
@@ -82,7 +82,7 @@ VII. Büntetés-végrehajtási nevelés
 
 VIII. Büntetés-végrehajtási pszichológia
 
-## II.2.[^94] KATASZTRÓFAVÉDELMI IGAZGATÁS
+## II.2.[^98] KATASZTRÓFAVÉDELMI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
@@ -116,7 +116,7 @@ IV. Nemzeti Védelmi Szolgálat
 
 V. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-## II.4.[^95] RENDŐRSÉGI IGAZGATÁS
+## II.4.[^99] RENDŐRSÉGI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
@@ -142,7 +142,7 @@ VIII. A rendőrség megelőzési feladatai
 
 IX. Az Országgyűlési Őrség speciális feladatai
 
-## II.5.[^96] ADÓ- ÉS VÁMIGAZGATÁS
+## II.5.[^100] ADÓ- ÉS VÁMIGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
@@ -160,10 +160,10 @@ IV. Áruosztályozás és áruismereti feladatok
 
 V. Büntető- és szabálysértési jogi feladatok
 
-[^90]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^91]: A 2. melléklet I. pontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^92]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^93]: A 2. melléklet II. pont II.1. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^94]: A 2. melléklet II. pont II.2. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^95]: A 2. melléklet II. pont II.4. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^96]: A 2. melléklet II. pont II.5. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^94]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^95]: A 2. melléklet I. pontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^96]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^97]: A 2. melléklet II. pont II.1. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^98]: A 2. melléklet II. pont II.2. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^99]: A 2. melléklet II. pont II.4. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^100]: A 2. melléklet II. pont II.5. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.

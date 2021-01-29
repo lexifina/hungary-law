@@ -1,4 +1,4 @@
-## 35. §[^87] A rendvédelmi szervnél 2019. január 31-én kormánytisztviselői vagy közalkalmazotti jogviszonyban álló dolgozó mentesül a rendészeti alapismeretek vizsgarész letételének kötelezettsége alól, ha közigazgatási alapvizsgával, közigazgatási szakvizsgával vagy jogi szakvizsgával és rendvédelmi szervnél legalább három éve megszakítás nélküli jogviszonnyal rendelkezik, vagy a megszakítás nélküli, hároméves jogviszonyt a rendészeti igazgatási szolgálati jogviszonnyal együtt 2021. január 31-ig eléri.
+## 35. §[^91] A rendvédelmi szervnél 2019. január 31-én kormánytisztviselői vagy közalkalmazotti jogviszonyban álló dolgozó mentesül a rendészeti alapismeretek vizsgarész letételének kötelezettsége alól, ha közigazgatási alapvizsgával, közigazgatási szakvizsgával vagy jogi szakvizsgával és rendvédelmi szervnél legalább három éve megszakítás nélküli jogviszonnyal rendelkezik, vagy a megszakítás nélküli, hároméves jogviszonyt a rendészeti igazgatási szolgálati jogviszonnyal együtt 2021. január 31-ig eléri.
 
 1. melléklet a 274/2012. (IX. 28.) Korm. rendelethez
 
@@ -26,7 +26,7 @@ I. Közigazgatási alapismeretek
 
 10. Információbiztonság és adatvédelem, a híradásra, összeköttetésre és adattovábbításra vonatkozó sajátos lehetőségek és szabályok
 
-11.[^88] Nemzetpolitika
+11.[^92] Nemzetpolitika
 
 II. Rendészeti alapismeretek
 
@@ -40,7 +40,7 @@ II. Rendészeti alapismeretek
 
 5. Magatartási szabályok szolgálatban és szolgálaton kívül, viselkedési és közszolgálati etikai szabályok
 
-6.[^89] A rendvédelmi feladatokat ellátó szerveknél a szolgálati viszonyra vonatkozó általános szabályok, jogosultságok, kötelezettségek, valamint juttatások, járandóságok, karrierlehetőségek
+6.[^93] A rendvédelmi feladatokat ellátó szerveknél a szolgálati viszonyra vonatkozó általános szabályok, jogosultságok, kötelezettségek, valamint juttatások, járandóságok, karrierlehetőségek
 
 7. A szolgálati érintkezés szabályai, a szolgálati feladatok ellátásának egységesen érvényes rendje
 
@@ -58,6 +58,6 @@ II. Rendészeti alapismeretek
 
 14. Pszichológiai, intézkedés-lélektani és kommunikációs alapismeretek
 
-[^87]: A 35. §-t a 11/2019. (II. 5.) Korm. rendelet 4. §-a iktatta be.
-[^88]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
-[^89]: Az 1. melléklet II. pont 6. alpontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^91]: A 35. §-t a 11/2019. (II. 5.) Korm. rendelet 4. §-a iktatta be.
+[^92]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^93]: Az 1. melléklet II. pont 6. alpontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
