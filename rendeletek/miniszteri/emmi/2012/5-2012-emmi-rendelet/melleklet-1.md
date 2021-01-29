@@ -26,7 +26,7 @@
 
 1.2.5. Szegedi Nemzeti Színház (Szeged)
 
-1.2.6.[^4] Katona József Színház (Kecskemét)
+1.2.6.[^4] Katona József Nemzeti Színház (Kecskemét)
 
 2. Nemzeti minősítésű táncművészeti szervezet:
 
@@ -79,5 +79,5 @@
 [^1]: Az 1. melléklet a 43/2018. (XII. 18.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. melléklet 1.1.1. pontja a 31/2019. (XII. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.
 [^3]: Az 1. melléklet 1.1.2. pontja a 31/2019. (XII. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 1.1.6. pontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
+[^4]: Az 1. melléklet 1. pont 1.2.6. alpontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be, szövege a 3/2021. (I. 28.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. melléklet 3.1.2. pontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
