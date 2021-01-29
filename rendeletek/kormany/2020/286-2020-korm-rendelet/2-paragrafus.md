@@ -14,7 +14,7 @@ e) az egészségügyért felelős miniszter által kijelölt államtitkár,
 
 f) az országos tisztifőorvos,
 
-g) a rendészetért felelős miniszter által vezetett minisztérium közbiztonsági főigazgatója,
+g)[^1] a rendészetért felelős miniszter által vezetett minisztérium belbiztonsági államtitkára,
 
 h) az Operatív Törzs ügyeleti központjának vezetője.
 
@@ -27,3 +27,5 @@ b) az a) pont hatálya alá nem tartozó személyt vendégként meghívhat.
 (4) Az Operatív Törzs ülésén a miniszterelnök bármikor részt vehet. Ebben az esetben az ülést a miniszterelnök vezeti.
 
 (5) Az Operatív Törzs az ügyrendjét maga állapítja meg.
+
+[^1]: A 2. § (2) bekezdés g) pontja a 23/2021. (I. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
