@@ -44,4 +44,11 @@ jf) integrált kulturális intézménynek
 
 (4) A jégpályák, az uszodák, az edző- és fitnesztermek és a sportlétesítmények a sportról szóló törvény szerint versenyszerűen sportolók számára edzésen vagy sportrendezvényen való részvétel céljából látogathatóak.
 
+(5)[^26] Az (1) bekezdés j) pontja szerinti intézmény
+
+a) a felnőttképzésről szóló törvény vagy
+
+b) a szakképzésről szóló törvény
+
 [^25]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^26]: A 12. § (5) bekezdését a 28/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
