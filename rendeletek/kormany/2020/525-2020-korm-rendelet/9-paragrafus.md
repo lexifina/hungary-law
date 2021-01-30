@@ -3,3 +3,7 @@
 (2) Az (1) bekezdés szerinti foglalkoztatás esetén az oktatói és kutatói munkakörhöz szabadságként kizárólag pótszabadság jár, melynek igénybevételét a rendes szabadsággal együtt a klinikai központ elnöke engedélyezi. A klinikai képzésben a betegellátásra irányuló jogviszonyban foglalkoztatott dolgozó oktatást kiegészítő és segítő feladatokban részt vehet. A kettős feladatellátást eredményező foglalkoztatás esetén az egyes tevékenységekre vonatkozó díjazási szabályokat kell alkalmazni.
 
 (3) Az (1) bekezdés szerinti alkalmazottak a kettős feladatellátási kötelezettségük és jogviszonyuk körében mind az egészségügyi minimumfeltételek, mind az oktatási akkreditáció szempontjából teljes értékű alkalmazottnak minősülnek.
+
+(4)[^2] Az (1) bekezdés szerinti további jogviszonyként létrehozásra kerülő oktatói és kutatói munkakör betöltésére nem kell alkalmazni az Nftv. 29. § (1) és (2) bekezdését, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a közalkalmazotti jogviszony pályázat útján történő létesítésére vonatkozó rendelkezéseit, ha az oktatói, kutatói munkakör betöltésére az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény szerinti egészségügyi szolgálati jogviszonnyá történő átalakulást követő 3 hónapon belül kerül sor annál a foglalkoztatónál, amely az érintett személyt ugyanazon oktatói vagy kutatói munkakörben a jogviszonyváltás időpontjában foglalkoztatta.
+
+[^2]: A 9. § (4) bekezdését a 33/2021. (I. 29.) Korm. rendelet 2. §-a iktatta be.
