@@ -1,4 +1,4 @@
-## 7. §[^2]
+## 7. §[^7]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 6. és 7. § 2021. február 1-jén lép hatályba.
 
-[^2]: A 7. § a 8. § (2) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^7]: A 7. § a 8. § (2) bekezdése alapján 2021. február 1-jén lép hatályba.
