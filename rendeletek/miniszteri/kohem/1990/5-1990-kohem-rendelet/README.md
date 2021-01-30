@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2020-06-12 | 1990-5-20-5E.92 | 15/2020. (VI. 4.) ITM rendelet |
 | 2020-07-25 | 1990-5-20-5E.93 | 71/2013. (XII. 2.) NFM rendelet |
 | 2020-09-01 | 1990-5-20-5E.94 | 29/2020. (VII. 17.) ITM rendelet |
+| 2021-01-30 | 1990-5-20-5E.95 | 4/2021. (I. 29.) ITM rendelet |
