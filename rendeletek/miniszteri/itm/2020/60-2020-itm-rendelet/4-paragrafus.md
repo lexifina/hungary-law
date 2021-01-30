@@ -1,17 +1,15 @@
-## 3. §[^3]
+## 3. § A 80/2012. NFM rendelet az 1. melléklet szerinti 2. melléklettel egészül ki.
 
 ## 4. § A 80/2012. NFM rendelet
 
-a)[^4]
+a) 2. § (1) bekezdésében az „1. § (1) bekezdésében” szövegrész helyébe az „1. § (1) bekezdésében és az 1/A. § (1) bekezdésében” szöveg,
 
-b)[^5]
+b)[^2]
 
-c)[^6]
+c)[^3]
 
-d)[^7]
+d)[^4]
 
-[^3]: A 3. § a 6. § (3) bekezdése alapján 2021. január 30-án lép hatályba.
-[^4]: A 4. § a) pontja a 6. § (3) bekezdése alapján 2021. január 30-án lép hatályba.
-[^5]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
