@@ -1,6 +1,6 @@
 ## 1. Ingyenes internet-hozzáférési szolgáltatás biztosítása
 
-1. § (1)[^2] A helyhez kötött internet-hozzáférési szolgáltatás kétszer 30 napra (a továbbiakban: szolgáltatás) ingyenesen vehető igénybe a köznevelésben és a szakképzésben, nappali rendszerű nevelés-oktatásban és szakmai oktatásban, a veszélyhelyzet idején alkalmazandó védelmi intézkedésekről szóló kormányrendelettel összhangban elrendelt tantermen kívüli, digitális munkarendben működő középfokú iskolával fennálló jogviszonyra tekintettel a (2) bekezdésben meghatározott jogosult által.
+1. § (1)[^2] A helyhez kötött internet-hozzáférési szolgáltatás háromszor 30 napra (a továbbiakban: szolgáltatás) ingyenesen vehető igénybe a köznevelésben és a szakképzésben, nappali rendszerű nevelés-oktatásban és szakmai oktatásban, a veszélyhelyzet idején alkalmazandó védelmi intézkedésekről szóló kormányrendelettel összhangban elrendelt tantermen kívüli, digitális munkarendben működő középfokú iskolával fennálló jogviszonyra tekintettel a (2) bekezdésben meghatározott jogosult által.
 
 (2) Az (1) bekezdés szerinti szolgáltatás ingyenes igénybevételére jogosult
 
@@ -12,4 +12,4 @@ b) az előfizetéssel rendelkező pedagógus vagy oktató, vagy az a személy, a
 
 (3) A jogosult lakóhelye, tartózkodási helye vagy szálláshelye szerinti helyek közül egy jogosultság alapján csak egy helyen veheti a szolgáltatást ingyenesen igénybe.
 
-[^2]: Az 1. § (1) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 32/2021. (I. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
