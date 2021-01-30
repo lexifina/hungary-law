@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-80-20-2
 | 2018-09-29 | 2012-80-20-2W.10 | 78/2016. (XII. 30.) NFM rendelet |
 | 2020-12-31 | 2012-80-20-2W.11 | 60/2020. (XII. 30.) ITM rendelet |
 | 2021-01-01 | 2012-80-20-2W.12 | 60/2020. (XII. 30.) ITM rendelet |
+| 2021-01-30 | 2012-80-20-2W.13 | 60/2020. (XII. 30.) ITM rendelet |
