@@ -64,7 +64,7 @@ b) a tevékenységet végző rendelkezik a díj ellenében végzett közúti ár
 
 (3) Tényleges főtevékenységnek e rendelet alkalmazásában azt a tevékenységet kell érteni, amelyből a kifizetőnek, kisvállalati adóalanynak e rendelet hatálybalépését megelőző hat hónapban a legtöbb bevétele, de legalább bevételének 30%-a származott.
 
-(4)[^12] Az (1) bekezdés szerinti kifizetőt 2020. év november és december hónapjára, valamint 2021. év január hónapjára illeti meg az 1–4. § szerinti kedvezmény.
+(4)[^12] Az (1) bekezdés szerinti kifizetőt 2020. év november és december hónapjára, valamint 2021. év január és február hónapjára illeti meg az 1–4. § szerinti kedvezmény.
 
 [^3]: Az 5. § (1) bekezdés 17. pontja az 571/2020. (XII. 9.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^4]: Az 5. § (1) bekezdés 19. pontját az 571/2020. (XII. 9.) Korm. rendelet 1. §-a iktatta be.
@@ -75,4 +75,4 @@ b) a tevékenységet végző rendelkezik a díj ellenében végzett közúti ár
 [^9]: Az 5. § (1) bekezdés 24. pontját az 571/2020. (XII. 9.) Korm. rendelet 1. §-a iktatta be.
 [^10]: Az 5. § (1) bekezdés 25. pontját a 638/2020. (XII. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^11]: Az 5. § (2a) bekezdését a 638/2020. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^12]: Az 5. § (4) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § b) pontja, a 32/2021. (I. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
