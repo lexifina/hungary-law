@@ -1,3 +1,3 @@
-1. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^69]
+1. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^70]
 
-[^69]: Az 1. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § a) pontjával megállapított szöveg.
+[^70]: Az 1. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § a) pontjával megállapított szöveg.

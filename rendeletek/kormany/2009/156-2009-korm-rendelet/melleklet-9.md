@@ -12,15 +12,13 @@
 
 | 30% ≤ ... | 500 000 |
 
-| 3. | A 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése jármű vagy járműszerelvény - kivéve az M1 és N1 kategóriájú járművet, vagy M1 és N1 kategóriájú járművet tartalmazó járműszerelvényt - esetében | ... < 5% | EJ | 50 000 | feladó felrakó szállító járművezető |
+| 3. | A 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése jármű vagy járműszerelvény esetében | ... < 5% | – | 50 000 | feladó felrakó szállító járművezető |
 
 | 5% ≤ ... < 10% | SJ | 100 000 |
 
-| 10% ≤ ... < 20% | N3, vagy ilyen járműből is álló járműszerelvény esetén NSJ, N2, vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ | 200 000 |
+| 10% ≤ ... < 20% | N3 vagy ilyen járműből is álló járműszerelvény esetén NSJ, N2 vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ | 200 000 |
 
-| 20 ≤ ...< 30% | N3, vagy ilyen járműből is álló járműszerelvény esetén NSJ, N2, vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ 25%-tól RSJ | 350 000 |
-
-| 30% ≤ ... | 500 000 |
+| 20% ≤ ... < 30% 30% ≤ ... | N3 vagy ilyen járműből is álló járműszerelvény esetén NSJ, N2 vagy ilyen járműből is álló járműszerelvény esetében 25% alatt NSJ, 25%-tól RSJ | 350 000 500 000 |
 
 | 4. | A 9. § (1) bekezdés b) pontjában hivatkozottjogszabály szerint megengedett legnagyobb tengely- vagy tengelycsoport-terhelést meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű esetében | ... < 5% | EJ | 50 000 | feladó felrakó szállító járművezető |
 
@@ -102,6 +100,6 @@
 
 | 20. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén | SJ | 100 000 | járművezető |
 
-9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^78]
+9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^79]
 
-[^78]: A 9. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § j) pontjával megállapított szöveg.
+[^79]: A 9. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § j) pontjával megállapított szöveg.

@@ -170,6 +170,6 @@
 
 | F2 | A járművezető munkájának nem megfelelő szervezése vagy a szervezés elmaradása, illetve nem megfelelő utasítások a járművezető részére a jogszabály betartására vonatkozóan vagy az utasítások hiánya | NSJ | 200 000 | szállító |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^72]
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^73]
 
-[^72]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § d) pontjával megállapított szöveg.
+[^73]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § d) pontjával megállapított szöveg.
