@@ -1,0 +1,3 @@
+## 1. § A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: ER.) 14. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A (2) bekezdés a), b), c) és f) pontjában meghatározott közúti ellenőrzések esetén, a (7) bekezdésben foglalt szempontok alapján a közlekedési hatóság a járművet részletesebb, műszeres ellenőrző vizsgálat alá vonhatja a legközelebbi – de legfeljebb 100 km távolságon belül lévő – mobil ellenőrzési egységen, kijelölt közúti ellenőrzési létesítményben vagy vizsgálóállomáson, amelynek helyszínére történő közlekedésre a jármű vezetőjét utasíthatja.”
