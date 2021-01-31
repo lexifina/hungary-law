@@ -1,3 +1,3 @@
-## 6. § Az R. 28. §-a helyébe a következő rendelkezés lép:
+## 6. §[^6]
 
-## „28. § E rendelet rendelkezéseit 2021. március 1-ig lehet alkalmazni.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

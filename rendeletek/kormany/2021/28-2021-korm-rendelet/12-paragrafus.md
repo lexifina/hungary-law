@@ -1,4 +1,4 @@
-## 11. §[^3]
+## 11. §[^11]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 9–11. § 2021. február 8-án lép hatályba.
 
-[^3]: A 11. § a 12. § (2) bekezdése alapján 2021. február 8-án lép hatályba.
+[^11]: A 11. § a 12. § (2) bekezdése alapján 2021. február 8-án lép hatályba.
