@@ -28,7 +28,7 @@ h)[^206] az MR.-ben meghatározott alternatív üzemanyaggal hajtott és intermo
 
 (5)[^209] A közlekedési hatóság a szabálysértési eljárás kezdeményezésétől elállhat és a helyszínen elvett okmányokat visszaadhatja, amennyiben a szabálysértési eljárás kezdeményezésére okot adó körülmény megszűnését – az okmányoknak a szabálysértési hatósághoz történő továbbítást megelőzően – igazolják.
 
-(6)[^210] A (2) bekezdés a), b), c) és f) pontjában meghatározott közúti ellenőrzések esetén a közlekedési hatóság a járművet részletesebb, műszeres ellenőrző vizsgálat alá vonhatja mobil ellenőrzési egységen, kijelölt közúti ellenőrzési létesítményben vagy vizsgálóállomáson, amelynek – legfeljebb 15 km távolságban lévő – helyszínére történő közlekedésre a jármű vezetőjét utasíthatja.
+(6)[^210] A (2) bekezdés a), b), c) és f) pontjában meghatározott közúti ellenőrzések esetén, a (7) bekezdésben foglalt szempontok alapján a közlekedési hatóság a járművet részletesebb, műszeres ellenőrző vizsgálat alá vonhatja a legközelebbi – de legfeljebb 100 km távolságon belül lévő – mobil ellenőrzési egységen, kijelölt közúti ellenőrzési létesítményben vagy vizsgálóállomáson, amelynek helyszínére történő közlekedésre a jármű vezetőjét utasíthatja.
 
 (7)[^211] A közlekedési hatóság a járművet vizsgálatra rendeli, amennyiben a közúti ellenőrzés során alapos gyanú merül fel arra, hogy
 
@@ -78,7 +78,7 @@ c) a két- vagy többoldalú nemzetközi egyezményben meghatározott engedélly
 [^207]: A 14. § (3) bekezdése a 2/2018. (II. 5.) NFM rendelet 8. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 8. § a) pontja szerint módosított szöveg.
 [^208]: A 14. § (4) bekezdése a 2/2018. (II. 5.) NFM rendelet 8. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 8. § b)–c) pontja szerint módosított szöveg.
 [^209]: A 14. § (5) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
-[^210]: A 14. § (6) bekezdése a 2/2018. (II. 5.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^210]: A 14. § (6) bekezdése az 50/2020. (XII. 17.) ITM rendelet 1. §-ával megállapított szöveg.
 [^211]: A 14. § (7) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
 [^212]: A 14. § (7) bekezdés b) pontja a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés l) pontja szerint módosított szöveg.
 [^213]: A 14. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (2) bekezdésével megállapított szöveg.
