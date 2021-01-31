@@ -1,15 +1,18 @@
-## 3. § A 80/2012. NFM rendelet az 1. melléklet szerinti 2. melléklettel egészül ki.
+## 3. §[^4]
 
-## 4. § A 80/2012. NFM rendelet
+## 4. §[^5]
 
-a) 2. § (1) bekezdésében az „1. § (1) bekezdésében” szövegrész helyébe az „1. § (1) bekezdésében és az 1/A. § (1) bekezdésében” szöveg,
+a)[^6]
 
-b)[^2]
+b)[^7]
 
-c)[^3]
+c)[^8]
 
-d)[^4]
+d)[^9]
 
-[^2]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

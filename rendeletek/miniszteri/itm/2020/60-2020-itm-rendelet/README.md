@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-60-20-7
 | 2021-01-01 | 2020-60-20-7Q.2 | 2010: CXXX. törvény |
 | 2021-01-02 | 2020-60-20-7Q.3 | 2010: CXXX. törvény |
 | 2021-01-30 | 2020-60-20-7Q.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-01-31 | 2020-60-20-7Q.5 | 2010: CXXX. törvény |
