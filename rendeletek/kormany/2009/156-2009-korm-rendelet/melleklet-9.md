@@ -12,13 +12,13 @@
 
 | 30% ≤ ... | 500 000 |
 
-| 3. | A 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése jármű vagy járműszerelvény esetében | ... < 5% | – | 50 000 | feladó felrakó szállító járművezető |
+| 3. | A 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése jármű vagy járműszerelvény esetében | ... < 5% | EJ | 50 000 | feladó felrakó szállító járművezető |
 
 | 5% ≤ ... < 10% | SJ | 100 000 |
 
-| 10% ≤ ... < 20% | N3 vagy ilyen járműből is álló járműszerelvény esetén NSJ, N2 vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ | 200 000 |
+| 10% ≤ ... < 20% | M3, N3, vagy ilyen járműből is álló járműszerelvény esetén NSJ, M1, M2, N1, N2, vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ | 200 000 |
 
-| 20% ≤ ... < 30% 30% ≤ ... | N3 vagy ilyen járműből is álló járműszerelvény esetén NSJ, N2 vagy ilyen járműből is álló járműszerelvény esetében 25% alatt NSJ, 25%-tól RSJ | 350 000 500 000 |
+| 20% ≤ ...< 30% 30% ≤ ... | M3, N3, vagy ilyen járműből is álló járműszerelvény esetén RSJ, M1, M2, N1, N2, vagy ilyen járműből is álló járműszerelvény esetében 25% alatt NSJ, 25%-tól RSJ | 350 000 500 000 |
 
 | 4. | A 9. § (1) bekezdés b) pontjában hivatkozottjogszabály szerint megengedett legnagyobb tengely- vagy tengelycsoport-terhelést meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű esetében | ... < 5% | EJ | 50 000 | feladó felrakó szállító járművezető |
 

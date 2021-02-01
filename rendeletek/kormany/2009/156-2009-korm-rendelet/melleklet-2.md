@@ -34,13 +34,13 @@
 
 | 6. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély |  |  |  |
 
-|  | a) hiánya, érvénytelensége (sérült, olvashatatlan, lejárt, korábban már felhasznált, a gépjárműadó 90%-a nem került megfizetésre) | RSJ | 800 000 | szállító |
+|  | a) | hiánya, érvénytelensége (sérült, olvashatatlan, lejárt, korábban már felhasznált, a gépjárműadó 90%-a nem került megfizetésre) | RSJ | 800 000 | szállító, járművezető |
 
-|  | b) szabálytalan használata, illetve eltérés az engedélyben foglaltaktól | RSJ | 500 000 | járművezető |
+|  | b) | szabálytalan használata, illetve eltérés az engedélyben foglaltaktól | RSJ | 500 000 | szállító, járművezető |
 
-|  | c) a KR. 4/A. §-ában meghatározott engedélykezelési, bemutatási kötelezettség teljesítésének elmulasztása | NSJ | 800 000 | járművezető |
+|  | c) | a KR. 4/A. § (1)-(3) bekezdésében meghatározott előzetes elektronikus regisztrációs kötelezettség teljesítésének elmulasztása | NSJ | 800 000 | szállító, járművezető |
 
-|  | d) a c) alpontban meghatározott engedélykezelési, fénymásolat-készítési, bejelentési és megőrzési kötelezettség teljesítésének elmulasztása | SJ | 300 000 | feladó, címzett |
+|  | d) | a KR. 4/A.§ (5)-(7) bekezdésében a fel- és lerakóhelyekre előírt engedélykezelési és bejelentési kötelezettség teljesítésének elmulasztása | SJ | 300 000 | feladó, címzett |
 
 | 7. | A járművezető szakmai képesítését igazoló okmány hiánya | NSJ | 100 000 | járművezető |
 
