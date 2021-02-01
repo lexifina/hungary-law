@@ -21,3 +21,5 @@ d) a miniszter által rendeletben meghatározott államigazgatási szerv és egy
 (7) A miniszter rendeletben határozza meg a (6) bekezdés szerinti követelmények teljesítéséhez szükséges feltételeket.
 
 (8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e.
+
+(9) Törvényben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
