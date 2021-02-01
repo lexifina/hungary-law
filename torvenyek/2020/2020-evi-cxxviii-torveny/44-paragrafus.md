@@ -1,1 +1,3 @@
-44. §
+44. § A Kbt. 141. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A (2) bekezdés és a (4) bekezdés b) és c) pontja alkalmazásában az eredeti szerződés értékét az indexált szerződéses díj alapján kell megállapítani, ha a szerződés a (4) bekezdés a) pontjának megfelelően a nyertes ajánlattevőként szerződő félnek fizetendő valamely díjelem indexálására vonatkozó rendelkezést tartalmaz. Építési és szolgáltatási koncesszió esetében, ha a szerződés nem tartalmaz indexálási rendelkezést, a (2) bekezdés és a (4) bekezdés b) és c) pontja alkalmazásakor az indexáláson alapuló értéket a Központi Statisztikai Hivatal által közzétett inflációs érték éves átlagának figyelembevételével lehet kiszámolni.”
