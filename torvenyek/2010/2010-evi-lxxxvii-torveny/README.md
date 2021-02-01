@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2020-08-01 | 2020. évi XXXIII. törvény | 2010-87-00-00.39 |
 | 2020-08-13 | 2020. évi LXXX. törvény | 2010-87-00-00.40 |
 | 2021-01-01 | 2020. évi CXXIII. törvény | 2010-87-00-00.41 |
+| 2021-02-01 | 2020. évi CXLIX. törvény | 2010-87-00-00.42 |
