@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-174-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 2005-174-00-00.17 |
 | 2018-01-01 | 2017. évi CXCIII. törvény | 2005-174-00-00.18 |
 | 2020-12-26 | 2020. évi CX. törvény | 2005-174-00-00.19 |
+| 2021-02-01 | 2019. évi CXVI. törvény | 2005-174-00-00.20 |
