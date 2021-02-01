@@ -14,4 +14,8 @@ e) részt vesz a közúti járművezetők és a közúti közlekedési szakember
 
 f) feladatkörét érintően együttműködik hazai és határon túli civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, illetve testületekkel.
 
+(2a)[^1] A vizsgaközpont elektronikus ügyintézés biztosítására kötelezett a közúti közlekedési nyilvántartás engedély-nyilvántartásával való kapcsolattartása és a vizsgára, vizsgálatra és utánképzésre jelentkezők adatainak ellenőrzése során a (2) bekezdés a)–c) pontja szerinti közfeladatai ellátása keretében.
+
 (3) A vizsgaközpont a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. §-ában meghatározott adatokat – díjmentesen – igényelheti a közúti közlekedési nyilvántartásból a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához. A vizsgaközpont a közúti közlekedési nyilvántartásból átvett személyes adatot az érintett személlyel kapcsolatban ellátott feladatának befejezését követő 6 hónapig kezelheti.
+
+[^1]: Az 1. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 122. §-a iktatta be.
