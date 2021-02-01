@@ -64,4 +64,8 @@ pa) a 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampo
 
 pb) – a Magyarország területén élő, a 4. § (2d) bekezdése szerinti magyar állampolgár esetében – a természetes személyazonosító és magyarországi lakcím adatokról, a családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről és a neméről;
 
-q) a magánútlevél kiadásában közreműködő hatóság értesítése a természetes személyazonosító adatokról, családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről, nemről, magyarországi lakcím- vagy külföldi lakóhely adatokról.
+q) a magánútlevél kiadásában közreműködő hatóság értesítése a természetes személyazonosító adatokról, családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről, nemről, magyarországi lakcím- vagy külföldi lakóhely adatokról;
+
+r) a születést anyakönyvező anyakönyvvezető által a 7. § (3) bekezdésében meghatározott újszülött hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.
+
+s) az anyakönyvvezető által a 7. § (4) bekezdésében meghatározott polgároknak a hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.

@@ -77,3 +77,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2020-09-01 | 2020. évi XXXI. törvény | 1992-66-00-00.109 |
 | 2020-12-04 | 2020. évi CXXI. törvény | 1992-66-00-00.110 |
 | 2021-01-01 | 2020. évi CXXI. törvény | 1992-66-00-00.111 |
+| 2021-02-01 | 2019. évi CXVI. törvény | 1992-66-00-00.112 |

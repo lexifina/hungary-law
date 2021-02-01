@@ -28,6 +28,8 @@ dh) felhasználónevét,
 
 di) hivatali kapcsolattartásra használható elektronikus levélcímét.
 
+(2a) Az elhalálozásról szóló értesítési szolgáltatáshoz csatlakozott szervek esetében az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a)–c) pontjában, valamint a d) pont da)–dd), dg) és di) alpontjában foglalt adatokat tartalmazza. Jelen bekezdés alkalmazásában a nyilvántartás tartalmazza a csatlakozott szerv elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét is.
+
 (3) Az adatközlésre kötelezett, a nyilvántartásban adatkezelést végző, illetve abból közvetlen adatátvételre vagy adatigénylésre jogosult személy hozzáférési jogosultsága határozott idejű, amelynek időtartama két év. A hozzáférési jogosultság – a meghatározott időtartam lejártával – a jogosultságot kérő szerv kérelme alapján kerül megújításra.
 
 (4) Az (1) bekezdés szerinti nyilvántartásban kezelt személyes adatokat a felhasználó utolsó jogosultságának törlésétől számított tíz évig kell megőrizni.

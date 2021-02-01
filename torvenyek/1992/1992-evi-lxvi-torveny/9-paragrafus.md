@@ -32,7 +32,11 @@ i) ellátja a Schengeni Információs Rendszerben elhelyezendő vagy elhelyezett
 
 j) ellátja a 4. § (2a) bekezdés a) és h) pontja szerinti külföldön élő magyar állampolgár személyi- és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
-m)
+k) ellátja a 7. § (3) bekezdésében meghatározott újszülött esetén az állandó személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával kapcsolatos hatósági feladatokat.
+
+l) ellátja a 28/C. §-ban meghatározott értesítési szolgáltatással kapcsolatos feladatokat,
+
+m) ellátja a 7. § (4) bekezdésében meghatározott polgárok házasságkötés során választott házassági nevének felvétele esetén az állandó személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány hivatalból történő kiadásával kapcsolatos hatósági feladatokat.
 
 n) vezeti a 33/B. § (1) bekezdése szerinti nyilvántartást.
 

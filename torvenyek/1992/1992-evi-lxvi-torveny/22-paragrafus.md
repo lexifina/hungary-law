@@ -24,4 +24,8 @@ k) a körözési nyilvántartó szerv a körözött személy személyazonosság�
 
 l) A Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvényben meghatározott feladatai ellátásához;
 
-m) a nyilvántartás történeti állományára kiterjedően is, a konzuli szolgálat a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése, valamint 11. § (1) bekezdése szerinti feladata körében a hozzátartozó felkutatása, felvilágosítása, illetve értesítése céljából.
+m) a nyilvántartás történeti állományára kiterjedően is, a konzuli szolgálat a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése, valamint 11. § (1) bekezdése szerinti feladata körében a hozzátartozó felkutatása, felvilágosítása, illetve értesítése céljából;
+
+n) az Elektronikus Egészségügyi Szolgáltatási Tér útján az intézetben történt születést bejelentő intézet a születés bejelentéséhez, a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez szükséges adatok továbbításával kapcsolatos kötelezettségeinek teljesítéséhez.
+
+o) a közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez.

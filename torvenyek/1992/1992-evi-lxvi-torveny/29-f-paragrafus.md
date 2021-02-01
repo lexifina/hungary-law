@@ -14,7 +14,7 @@ f) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, va
 
 g) jogosulatlan felhasználása okán szabálysértési vagy büntetőeljárás indult.
 
-(2) A (3) és a (7) bekezdésben foglalt eset kivételével a személyazonosító igazolvány érvénytelen, ha az igazolványon szereplő adat a nyilvántartásban szereplő adattól eltér. A személyazonosító igazolvány attól a naptól számít érvénytelennek, amikor a Büntető Törvénykönyvről szóló 2012. évi C. törvényben (a továbbiakban: Btk.) meghatározott hivatalos személy az eltérést észleli, és erről a polgárt értesíti.
+(2) A (3) és a (7) bekezdésben foglalt eset kivételével a személyazonosító igazolvány érvénytelen, ha az igazolványon szereplő adat a nyilvántartásban szereplő adattól eltér. A személyazonosító igazolvány attól a naptól számít érvénytelennek, amikor a Büntető Törvénykönyvről szóló 2012. évi C. törvényben (a továbbiakban: Btk.) meghatározott hivatalos személy az eltérést észleli, és erről a polgárt, valamint a polgár lakóhelye szerint illetékes járási hivatalt is értesíti.
 
 (3) A személyazonosító igazolványon szereplő adat megváltozásának nyilvántartásba vételét követő 30. naptól a személyazonosító igazolvány érvénytelen. A határidőt az adatváltozás bejegyzését követő naptól kell számítani.
 

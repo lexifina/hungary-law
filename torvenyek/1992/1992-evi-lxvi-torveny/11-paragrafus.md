@@ -26,7 +26,7 @@ j) adataiból történő rendszeres adatszolgáltatásra vonatkozó jelzést;
 
 k) családi állapotát, házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét;
 
-l) arcképmását és – ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan – aláírását, ha a 29. § (12) bekezdésében meghatározott személyazonosításra alkalmas hatósági igazolványt igényelt, vagy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyafelhasználói regisztrációt kezdeményezett;
+l) arcképmását és – ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan – aláírását, ha a 29. § (12) bekezdésében meghatározott személyazonosításra alkalmas hatósági igazolványt igényelt, vagy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyafelhasználói regisztrációt kezdeményezett, illetve, ha videotechnológiával történt személyazonosítást követően egységes arcképmás- és aláírás-felvételezés iránti kérelmet terjesztett elő;
 
 m) személyazonosító igazolványának okmányazonosítóját, állandó személyazonosító igazolványa elektronikus egyedi azonosítóját, szolgáltatásazonosítóját, azt a tényt, hogy az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány van elhelyezve, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját;
 

@@ -6,13 +6,17 @@ b) a személyazonosító igazolványt kiadó és nyilvántartó hatóság, valam
 
 c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési eljárásban a feljelentett vagy tanú (szakértő) személyi adatainak és lakcímének megállapításához;
 
+cs) a lakcím, az értesítési cím, a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a vizsgára jelentkező adatainak ellenőrzése céljából a járművezetők vizsgáztatását és pályaalkalmassági vizsgálatát végző szervezet (vizsgaközpont);
+
 d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 
 e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 
-f) a közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
+f)
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
+
+gy) a lakcím, az értesítési cím, az állampolgárság, a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, valamint a nemre vonatkozó adatok kivételével a vizsgára jelentkező adatainak vagy a vizsgakötelezettség alóli mentesülés ellenőrzése céljából a Magyar Vöröskereszt;
 
 h) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való kikerülés helyére, annak – az elhalálozáson kívüli – okára és idejére, az értesítési címadatokra vonatkozó adatok kivételével a cégnyilvántartással összefüggő feladatai ellátásához a cégbíróság, valamint a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat;
 
@@ -38,7 +42,7 @@ o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, 
 
 p) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a nyilvántartást vezető szerv a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához.
 
-q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, valamint az értesítési cím adatok, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a TAJ szám nyilvántartásának vezetésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben;
+q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, valamint az értesítési cím adatok, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a TAJ szám nyilvántartásának vezetésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben, valamint jogszabályban meghatározott feladatai ellátásához;
 
 r) az út- és úthasználati díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 
@@ -53,6 +57,10 @@ u) a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapc
 v) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre, az értesítési címre vonatkozó adatok kivételével az erdészeti hatóság az erdőgazdálkodói nyilvántartás működtetésével összefüggő feladatai ellátásához;
 
 w) – az a)–v) pont eltérő rendelkezése hiányában – a közigazgatási hatóság az általa vezetett közhiteles hatósági nyilvántartás törvényben meghatározott adattartalmának részét képező adatok és a nyilvántartásból való, elhalálozás miatti kikerülés ideje tekintetében;
+
+x) a családi állapotra, valamint a házasságkötés helyére vonatkozó adatok kivételével a születést anyakönyvező anyakönyvvezető a 7. § (3) bekezdésében meghatározott újszülött részére hivatalból kiadott állandó személyazonosító igazolvánnyal kapcsolatos kötelezettségei teljesítéséhez;
+
+y) a családi állapotra, valamint a házasságkötés helyére vonatkozó adatok kivételével az anyakönyvvezető a 7. § (4) bekezdésében meghatározott polgárok részére hivatalból kiadott állandó személyazonosító igazolvánnyal kapcsolatos kötelezettségei teljesítéséhez.
 
 z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
 

@@ -16,7 +16,9 @@ d) a 9. § (2) bekezdés i) pontja, a 11. § (1) bekezdés q) pontja és (4) bek
 
 e) természetes személyazonosító adatok és állampolgárság;
 
-f) természetes személyazonosító adatok, valamint a lakcím és értesítési cím adatok.
+f) természetes személyazonosító adatok, valamint a lakcím és értesítési cím adatok;
+
+g) elhalálozás ténye, helye és ideje.
 
 (3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat — a 2. § (5) bekezdésében foglalt feltételekkel — statisztikai célra felhasználhatják és azokat nyilvánosságra hozhatják.
 

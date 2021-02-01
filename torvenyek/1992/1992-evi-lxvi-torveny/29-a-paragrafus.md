@@ -9,3 +9,5 @@
 (5) A honosítási kérelmet előterjesztő polgár ujjnyomatát a kijelölt kormányhivatal az állampolgársági eskü vagy fogadalom letételéig, legfeljebb azonban a magyar állampolgárságról szóló 1993. évi LV. törvény 16. § (6) bekezdésében meghatározott időpontig jogosult kezelni. A honosítási kérelmet előterjesztő polgár ujjnyomatát a kijelölt kormányhivatal a tároló elemen csak akkor helyezheti el, ha a polgár a 12. életévét legkésőbb az állampolgársági eskü vagy fogadalom letételének napján betölti.
 
 (6) Az ujjnyomatot az e törvényben foglaltak kivételével adatszolgáltatás során nem lehet átadni és továbbítani.
+
+(7) A nyilvántartást kezelő szerv a magánútlevél kiállítása céljából továbbított ujjnyomatot az útiokmány-nyilvántartás részére történő átadást követően haladéktalanul törli.

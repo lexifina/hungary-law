@@ -92,7 +92,9 @@ e) a kiadásának okát.
 
 (12a) A hadköteles katona a személyazonosságát a katonai szolgálatteljesítési ideje alatt a Honvédség katonai igazgatási és központi adatfeldolgozó szerve által a hadköteles katonák részére kibocsátott katonai igazolvánnyal igazolja. Személyazonosítás céljából a hadköteles katona nem kötelezhető más okmány bemutatására.
 
-(13) A cselekvőképtelen kiskorú polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú és a cselekvőképességében részlegesen korlátozott nagykorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
+(13) A cselekvőképtelen kiskorú polgár részére a személyazonosító igazolványt – a (13a) bekezdésben meghatározott kivétellel – a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú és a cselekvőképességében részlegesen korlátozott nagykorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
+
+(13a) A személyazonosító igazolványt a 7. § (3) és (4) bekezdésében meghatározott esetben hivatalból kell kiadni.
 
 (14) A polgár köteles a személyazonosító igazolvány kiadását igényelni, ha nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal. A cselekvőképtelen kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár törvényes képviselője köteles biztosítani azt, hogy a kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár személyazonosságot igazoló hatósági igazolvánnyal rendelkezzen.
 
@@ -119,3 +121,5 @@ b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét,
 c) a nyilvántartás szervei a polgár lakcímét, illetve személyi azonosítóját
 
 a tároló elemen elhelyezi.
+
+(22) A polgár elektronikus azonosítást követően elektronikus kapcsolattartás útján is kezdeményezheti lakcímének rögzítését az állandó személyazonosító igazolvány tároló elemén, ha a tároló elem azt nem, vagy nem helyesen tartalmazza.

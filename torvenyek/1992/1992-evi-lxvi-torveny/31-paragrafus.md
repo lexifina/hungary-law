@@ -10,6 +10,8 @@ c) az adatszolgáltatást igénylő polgár, jogi személy vagy jogi személyis�
 
 d) a szolgáltatott adatok körének megnevezését.
 
+e) az adatszolgáltatás alanyának természetes személyazonosító adatait.
+
 (3) A polgár az adatszolgáltatási nyilvántartásból jogosult megismerni, hogy mely adatszolgáltatások alanya volt. Ezt a jogosultságot a 24. §-ban felsorolt szervek részére teljesített adatszolgáltatás tekintetében külön törvény korlátozhatja vagy kizárhatja.
 
 (3a) A nyilvántartást kezelő szerv a polgár személyes adataihoz való hozzáférési jogának gyakorlása esetén, ha az a 24/F. § (2) bekezdés alapján történő adattovábbításra vonatkozik, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvénynek a polgár tájékoztatására vonatkozó szabályai szerint jár el azzal, hogy a nyilvántartást kezelő szerv fogalma alatt e törvény szerinti nyilvántartást kezelő szerv szervet kell érteni.
