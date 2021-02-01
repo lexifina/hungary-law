@@ -1,3 +1,7 @@
 30. § (1)
 
-(2)
+(2) A Szaz.tv. 14. §-a helyébe a következő rendelkezés lép:
+
+„14. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a fiatalok életkezdési támogatásáról szóló törvény szerinti belföldi gyermek természetes személyazonosító adatait, állampolgárságát, lakcímét, nyilvántartási jogcímét, továbbá ha a Magyarországon élő magyar állampolgár újszülött – a titkolt terhesség, valamint a szülőnek az újszülött örökbefogadásához adott hozzájárulás esete kivételével – intézetben született, ezt a tényt közli az állami adóhatósággal. Az állami adóhatóság a belföldi gyermek részére az adóigazolvány kiállításáról hivatalból gondoskodik.
+
+(2) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv (1) bekezdés szerinti adatszolgáltatása alapján – a titkolt terhesség, valamint a szülőnek az újszülött örökbefogadásához adott hozzájárulás esete kivételével – az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány tároló elemén az adóazonosító jel elhelyezése, továbbá az adóigazolvány megszemélyesítése céljából az állami adóhatóság az adatok átadását követően 8 órán belül gondoskodik a gyermek adóazonosító jelének képzéséről és az adóigazolvány kiállításához szükséges adatoknak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldéséről.”
