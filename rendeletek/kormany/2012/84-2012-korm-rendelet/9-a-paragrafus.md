@@ -1,3 +1,3 @@
-## 9. §[^59]
+## 9. §[^60]
 
-[^59]: A 9. §-t a 414/2015. (XII. 23.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés e) pontja.
+[^60]: A 9. §-t a 414/2015. (XII. 23.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés e) pontja.

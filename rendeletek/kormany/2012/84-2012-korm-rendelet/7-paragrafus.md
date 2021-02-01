@@ -14,7 +14,9 @@ b) ha az a) pont alapján a kijelölt szerv a hatáskör gyakorlása mellett dö
 
 (3)[^43]
 
-(4)[^44] Az elektronikus ügyintézés részletszabályairól szóló kormányrendelet szerinti videoképes regisztráció használata során történő ügyfélkapu és részleges kódú telefonos azonosítás regisztráció és az ehhez kapcsolódó Központi Ügyfél-regisztrációs Nyilvántartás regisztráció az országos telefonos ügyfélszolgálat működtetőjénél kezdeményezhető.
+(4)[^44] A Kormány a videotechnológián keresztül történő azonosítás szolgáltatás regisztrációjára az országos telefonos ügyfélszolgálat működtetőjét jelöli ki.
+
+(5)[^45] Az ügyfélkapu és részleges kódú telefonos azonosítás videotechnológián keresztül történő azonosítás szolgáltatással az országos telefonos ügyfélszolgálat működtetőjénél is regisztrálható.
 
 [^37]: Az 5. alcím címe a 414/2015. (XII. 23.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
 [^38]: A 7. § a 414/2015. (XII. 23.) Korm. rendelet 74. § (2) bekezdésével megállapított szöveg.
@@ -23,4 +25,5 @@ b) ha az a) pont alapján a kijelölt szerv a hatáskör gyakorlása mellett dö
 [^41]: A 7. § (1b) bekezdését a 78/2017. (IV. 6.) Korm. rendelet 1. §-a iktatta be.
 [^42]: A 7. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 200. § (14) bekezdés f) pontja, a 78/2017. (IV. 6.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^43]: A 7. § (3) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 55. § c) pontja hatályon kívül helyezte.
-[^44]: A 7. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 53. § (2) bekezdése iktatta be.
+[^44]: A 7. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 53. § (2) bekezdése iktatta be, szövege az 53. § (3) bekezdésével megállapított szöveg.
+[^45]: A 7. § (5) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 53. § (4) bekezdése iktatta be.

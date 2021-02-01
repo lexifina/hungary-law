@@ -1,3 +1,3 @@
-## 7/G. §[^56]
+## 7/G. §[^57]
 
-[^56]: A 7/G. §-t az 572/2020. (XII. 9.) Korm. rendelet 55. § d) pontja hatályon kívül helyezte.
+[^57]: A 7/G. §-t az 572/2020. (XII. 9.) Korm. rendelet 55. § d) pontja hatályon kívül helyezte.
