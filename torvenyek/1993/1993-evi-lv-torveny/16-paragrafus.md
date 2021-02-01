@@ -2,7 +2,7 @@
 
 (2) A polgármester vagy a magyar külképviselet vezetője az okirat megérkezését követő harminc napon belül értesíti a kérelmezőt az állampolgársági eskü vagy fogadalom letételének időpontjáról és helyéről.
 
-(3) A 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy – legkésőbb a (2) bekezdés szerinti felhívásban meghatározott időpontot megelőző ötödik napon – kérheti, hogy az esküt vagy a fogadalmat a felhívásban megjelölttől eltérő helyen tegye le.
+(3) A 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy egy alkalommal – legkésőbb a (2) bekezdés szerinti felhívásban meghatározott időpontot megelőző ötödik napon – kérheti, hogy az esküt vagy a fogadalmat a felhívásban megjelölttől eltérő helyen tegye le.
 
 (3a) A (3) bekezdésben meghatározott esetben a polgármester vagy a magyar külképviselet vezetője haladéktalanul megküldi a honosítási okiratot a (3) bekezdés szerinti kérelemben megjelölt polgármesternek vagy – diplomáciai futár útján – a magyar külképviselet vezetőjének, aki gondoskodik a (2) bekezdésben meghatározott feladatok ellátásáról. Ebben az esetben a 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy újabb, a (3) bekezdés szerinti kérelemmel nem élhet.
 

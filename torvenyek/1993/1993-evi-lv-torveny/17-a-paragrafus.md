@@ -1,4 +1,4 @@
-17/A. § (1) Az állampolgársági ügyekben eljáró szerv a nyilatkozattal, a lemondással és a magyar állampolgárság visszavonásával összefüggésben hozott határozatát közli azzal a természetes személlyel, akire nézve az rendelkezést tartalmaz.
+17/A. § (1) Az állampolgársági ügyekben eljáró szerv a nyilatkozattal, a lemondással és a magyar állampolgárság visszavonásával összefüggésben hozott határozatát, valamint a köztársasági elnök honosítást, visszahonosítást elutasító döntését közli azzal a természetes személlyel, akire nézve az rendelkezést tartalmaz.
 
 (2) Az állampolgársági ügyekben eljáró szerv a közlés érdekében a döntését postai úton az általa ismert összes külföldi és belföldi címre két alkalommal kísérli meg kézbesíteni.
 
