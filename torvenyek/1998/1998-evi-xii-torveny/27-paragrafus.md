@@ -10,6 +10,12 @@
 
 (1e) Az adatkezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás céljából a polgár útiokmány-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
 
+(1f) Az adatkezelő szerv a közölt okmányazonosító adat alapján, az érintett családi és utónevét, születési családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét átadja a természetes személy személyazonosságának ellenőrzése céljából a videotechnológián keresztül történő személyazonosítást végző szervezet részére.
+
+(1g) Az adatkezelő szerv a közölt természetes személyazonosító adatok alapján, az érintett úti okmánya érvényességének tényére és kiállítás szerinti érvényességi idejére vonatkozó adatokat átadja a házasságkötés miatt hivatalból történő okmánykiállításra való jogosultság megállapítása céljából az anyakönyvvezető részére.
+
+(1h) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat, továbbá az érintett saját kezű aláírását a Nemzeti Szakértői és Kutató Központ részére, az általa végzett igazságügyi szakértői tevékenység ellátása céljából átadja.
+
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
 (2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a), e) és f) pontja alapján kezelt adatállományból.
