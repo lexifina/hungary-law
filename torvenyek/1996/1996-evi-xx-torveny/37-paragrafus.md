@@ -6,7 +6,7 @@ a) az állami adóhatóságnak az adóalanyok nyilvántartásában szereplő pol
 
 b) a társadalombiztosítási szervnek az egészségbiztosítási nyilvántartásában szereplő polgár családi és utónevének, nemének, állampolgárságának, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, nyilvántartásba történő bekerülés okának, nyilvántartásból való kikerülés okának (passziválási jogcím), lakóhelyének, tartózkodási helyének változásáról, azok időpontjáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, nyilvántartási jogcíméről és annak változásáról;
 
-c) a társadalombiztosítási szervnek a nyugdíj-biztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
+c) a társadalombiztosítási szervnek a nyugdíj-biztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozása tényéről, helyéről, idejéről, a külföldön történő letelepedésről;
 
 d) a kincstárnak a TAJ szám nyilvántartásában szereplő polgár családi és utónevének, nemének, állampolgárságának, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, nyilvántartásba történő bekerülése okának, nyilvántartásból való kikerülése okának (passziválási jogcím), lakóhelyének, tartózkodási helyének változásáról, azok időpontjáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, nyilvántartási jogcíméről és annak változásáról, továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól;
 
@@ -22,7 +22,9 @@ h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni váll
 
 i) a nyilvántartást vezető szervnek a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 
-j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról.
+j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról;
+
+k) a kincstárnak és az egészségbiztosítási nyilvántartásokat vezető szervnek jogszabályban meghatározott feladatai ellátásához a polgár elhalálozásának tényéről, helyéről és idejéről.
 
 l) a Központi Statisztikai Hivatalnak a hivatalos statisztikáról szóló törvény alapján kezelt adatbázisában szereplő adatszolgáltató természetes személy családi és utónevének, születési nevének, anyja nevének, nemének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének, családi állapotának változásáról, azok időpontjáról, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyéről, az érintett elhalálozásáról, a külföldön történő letelepedésről, a nyilvántartásba bekerülés és a nyilvántartásból való kikerülés okáról, idejéről.
 
@@ -81,5 +83,9 @@ f) az (1) bekezdés l) pontja szerinti Központi Statisztikai Hivatal,
 g) a (2) bekezdés a) pontja szerinti Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
 
 h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv
+
+i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást vezető társadalombiztosítási szerv,
+
+j) az (1) bekezdés k) pontja szerinti kincstár,
 
 kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

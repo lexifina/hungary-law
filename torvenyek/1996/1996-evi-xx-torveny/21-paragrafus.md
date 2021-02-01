@@ -14,7 +14,7 @@ c) TAJ szám, valamint
 
 d) a kiállító szerv bélyegzőlenyomata és a kiállító személy aláírása.
 
-(3) A TAJ számról szóló hatósági igazolványt az egészségbiztosítási szerv állítja ki és juttatja el az érintett részére.
+(3) A TAJ számról szóló hatósági igazolványt – a (7b) bekezdés kivételével – az egészségbiztosítási szerv állítja ki és juttatja el az érintett részére.
 
 (4) A (3) bekezdés szerinti hatósági igazolvánnyal egy tekintet alá esik a TAJ szám igazolására e törvény hatálybalépése előtt kiadott hatósági bizonyítvány.
 
@@ -34,9 +34,13 @@ f) a hatósági bizonyítvány kiállításának időpontja.
 
 (6) E törvény 8. §-ának (1) bekezdése szerinti hatósági igazolvánnyal esik egy tekintet alá a külön törvény szerint kiállított, az egészségügyi szolgáltatásra való jogosultságot is igazoló okirat.
 
-(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát és nemét, valamint lakcímét közli a kincstárral a TAJ szám képzésével és nyilvántartásával kapcsolatos feladatok ellátása céljából.
+(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát és nemét, lakcímét, valamint ha a Magyarországon élő magyar állampolgár újszülött intézetben született, ennek tényét közli a kincstárral a TAJ szám képzésével és nyilvántartásával kapcsolatos, valamint az anyasági támogatás és a családi pótlék hivatalból történő megállapításával, a kérelmek elbírálásával összefüggő feladatok ellátása céljából.
 
-(7a) Az újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
+(7a) A Magyarországon élő magyar állampolgár újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ számot tartalmazó hatósági igazolványt hivatalból állítja ki.
+
+(7b) Amennyiben az újszülött – a titkolt terhesség, valamint a szülőnek az újszülött örökbefogadásához adott hozzájárulás esete kivételével – intézetben született, Magyarországon élő magyar állampolgár, a kincstár a (7) bekezdésben meghatározott adatainak átadását követően haladéktalanul TAJ számot képez, és erről adatot szolgáltat az egészségbiztosítási nyilvántartásokat vezető szerv részére. Az egészségbiztosítási nyilvántartásokat vezető szerv az adatok átadását követő 8 órán belül gondoskodik az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány tároló elemén a TAJ szám elhelyezése céljából a TAJ számnak, valamint a hivatalból kiállításra kerülő TAJ számot tartalmazó hatósági igazolvány adatainak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldéséről.
+
+(7c) Az egészségbiztosítási szerv a TAJ számot tartalmazó hatósági igazolványt hivatalból állítja ki a Magyarországon házasságot kötött magyar állampolgár részére, amennyiben a polgár a házasságkötést követően a korábban viselt nevétől eltérő házassági nevet visel. Az egészségbiztosítási nyilvántartásokat vezető szerv a házasságkötésből eredő névváltozásra vonatkozó, a személyiadat- és lakcímnyilvántartás szerve általi adatszolgáltatást követően gondoskodik a hivatalból kiállításra kerülő TAJ számot tartalmazó hatósági igazolvány adatainak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldésről.
 
 (8) Amennyiben a rendőrség tudomást szerez a TAJ számot tartalmazó hatósági igazolvány eltulajdonításáról, haladéktalanul értesíti az egészségbiztosítási szervet.
 
