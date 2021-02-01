@@ -1,3 +1,3 @@
-15. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^213]
+15. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^146]
 
-[^213]: A 15. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^146]: A 15. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

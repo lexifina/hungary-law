@@ -1,3 +1,7 @@
-## 59. §[^115]
+## 59. § A Hvkr. a következő 43/A. §-sal egészül ki:
 
-[^115]: Az 59. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## „43/A. § (1) Az eHVB rendszer az elektronikus halottvizsgálati bizonyítvány kitöltésével és felhasználásával összefüggő egészségügyi és közigazgatási folyamatok adatintegrációját elősegítő informatikai rendszer.
+
+## (2) Az eHVB rendszerből a 42. § (10) bekezdése szerint rögzített adatok automatizált továbbítása történik meg az Elektronikus Anyakönyvi Rendszer felé.
+
+## (3) A Kormány az Országos Kórházi Főigazgatóságot jelöli ki az eHVB működtetőjeként.”

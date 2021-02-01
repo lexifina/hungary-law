@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1. §) a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## 1. A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet módosítása

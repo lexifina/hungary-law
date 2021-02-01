@@ -1,3 +1,3 @@
-## 78. §[^137]
+## 78. § A SzigR. 61. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^137]: A 78. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## „(2a) Az egységes arcképmás- és aláírás-felvételezésre irányuló kérelem videotechnológiával történt azonosítást követően a járási hivatalnál és az országos telefonos ügyfélszolgálatnál elektronikus kapcsolattartás keretében is előterjeszthető.”

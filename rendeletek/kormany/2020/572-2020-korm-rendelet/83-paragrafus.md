@@ -2,30 +2,28 @@
 
 ## 83. § Hatályát veszti a SzigR.
 
-a)[^146]
+a)[^94]
 
-b)[^147]
+b) 13. §-a,
 
-c)[^148]
+c)[^95]
 
-d)[^149]
+d)[^96]
 
-e)[^150]
+e)[^97]
 
-f)[^151]
+f)[^98]
 
-g)[^152]
+g) 23. § (5) bekezdése,
 
-h)[^153]
+h)[^99]
 
-i)[^154]
+i)[^100]
 
-[^146]: A 83. § a) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^147]: A 83. § b) pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^148]: A 83. § c) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^149]: A 83. § d) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^150]: A 83. § e) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^151]: A 83. § f) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^152]: A 83. § g) pontja a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^153]: A 83. § h) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^154]: A 83. § i) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^94]: A 83. § a) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^95]: A 83. § c) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^96]: A 83. § d) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^97]: A 83. § e) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^98]: A 83. § f) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^99]: A 83. § h) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^100]: A 83. § i) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.

@@ -1,3 +1,1 @@
-## 106. §[^182]
-
-[^182]: A 106. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## „(10) Az (1), (2) és a (4) bekezdés esetében az adatátadás az anyakönyvi bejegyzést követően az elektronikus anyakönyvi rendszeren keresztül automatikus átadással történik. Az (5) bekezdés, valamint a (6)–(8) bekezdés esetében az adatszolgáltatást az anyakönyvi bejegyzést követő hónap ötödik napjáig kell teljesíteni. Az adatszolgáltatást a (9) bekezdés esetében a nyilatkozattételt követő hónap ötödik napjáig kell teljesíteni. A (3) bekezdés esetében az adatszolgáltatást a perinatális halottvizsgálati bizonyítvány küldésével egyidejűleg, a halálesetet követő hónap ötödik napjáig kell teljesíteni.”

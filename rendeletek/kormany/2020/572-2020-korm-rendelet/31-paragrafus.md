@@ -1,3 +1,1 @@
-## 30. §[^31]
-
-[^31]: A 30. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## „(4b) A vezetői engedély automatikus kiállítása során a (4a) bekezdés szerinti, a felvételezésétől számított három évnél nem régebbi arcképmás és aláírás használható fel. Amennyiben csak ennél régebbi aláírás és arcképmás felvétel áll rendelkezésre, úgy az ügyfélnek videotechnológiával történt személyazonosítást követően elektronikus úton vagy a kormányablakban személyesen van lehetősége új egységes arcképmás- és aláírás-felvételezést kezdeményezni.”

@@ -1,3 +1,1 @@
-## 72. §[^131]
-
-[^131]: A 72. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## „(9) Elektronikus ügyintézési ponton benyújtott kérelem esetén az állandó személyazonosító igazolványhoz tartozó PIN-kód létrehozásához szükséges aktiváló PIN-kódot és PUK-kódot amennyiben rendelkezik vele, a kérelmező Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyére kell megküldeni.”

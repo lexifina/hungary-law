@@ -1,6 +1,3 @@
-## 16. §[^17]
+## 16. § Az Utvvhr. 23. § (2) bekezdésében az „a (2a) és (2b) bekezdésben” szövegrész helyébe az „a (2a)–(2c) bekezdésben” szöveg lép.
 
-## 6.[^18]
-
-[^17]: A 16. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^18]: A 6. alcím (17–18. §) a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## 6. A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet módosítása

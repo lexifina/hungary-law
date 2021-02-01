@@ -1,6 +1,5 @@
-## 123. §[^196]
+## 123. §[^134]
 
-## 30.[^197]
+## 30. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet módosítása
 
-[^196]: A 123. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^197]: A 30. alcím (124. §) a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^134]: A 123. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

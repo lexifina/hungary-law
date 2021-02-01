@@ -1,9 +1,10 @@
-## 27. §[^27]
+## 27. §[^15]
 
-28. § (1)[^28]
+28. § (1)[^16]
 
-(2)[^29]
+(2) Az R. 2. § (1) bekezdése a következő 19–21. ponttal egészül ki:
 
-[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 28. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 28. § (2) bekezdése a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+(E rendelet alkalmazásában:)
+
+[^15]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 28. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

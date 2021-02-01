@@ -1,3 +1,1 @@
-## 107. §[^183]
-
-[^183]: A 107. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## 107. § Az Stt. Vhr. 2. melléklete a 11. melléklet szerint módosul.

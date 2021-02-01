@@ -1,3 +1,3 @@
-## 56. §[^112]
+## 56. § A halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet (a továbbiakban: Hvkr.) 40. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^112]: Az 56. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## „(1) A halottvizsgálat keretében – a 41. § (1) bekezdésében foglalt eset kivételével – az 1. mellékletben meghatározott adattartalmú halottvizsgálati bizonyítványt kell kitölteni, valamint a 4. mellékletben meghatározott adattartalmú halottvizsgálati bizonyítványt – az ismeretlen személyazonosságú elhunyt kivételével – a haláleset helye szerint illetékes anyakönyvvezetőnek elektronikus úton megküldeni.”

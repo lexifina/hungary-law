@@ -1,3 +1,9 @@
-17. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^215]
+17. melléklet az 572/2020. (XII. 9.) Korm. rendelethez
 
-[^215]: A 17. melléklet a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 7. melléklete a következő 32. és 33. ponttal egészül ki:
+
+(A kormányablak által végzett kiegészítő szolgáltatások)
+
+„32. A magánútlevél iránti kérelmet előterjesztő Magyarországon élő magyar állampolgárként történő nyilvántartásba vételéhez szükséges adatlap továbbítása
+
+33. A magánútlevél iránti kérelmet előterjesztő külföldön élő magyar állampolgárként történő nyilvántartásba vételéhez szükséges adatlap továbbítása”

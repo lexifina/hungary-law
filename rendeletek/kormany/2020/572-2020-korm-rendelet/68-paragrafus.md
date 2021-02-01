@@ -1,3 +1,3 @@
-## 67. §[^125]
+## 67. § A SzigR. 9. §-a helyébe a következő rendelkezés lép:
 
-[^125]: A 67. § a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+## „9. § Az állandó személyazonosító igazolvány kiadására irányuló eljárás a 26., 29., 30., 31/A. és a 31/B. §-ban meghatározott kivétellel kérelemre indul.”

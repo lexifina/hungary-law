@@ -1,15 +1,15 @@
-## 52. §[^101]
+## 52. §[^70]
 
-53. § (1)[^102]
+53. § (1)[^71]
 
-(2)[^103]
+(2)[^72]
 
-(3)[^104]
+(3) A 84/2012. Korm. rendelet 7. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-(4)[^105]
+## „(4) A Kormány a videotechnológián keresztül történő azonosítás szolgáltatás regisztrációjára az országos telefonos ügyfélszolgálat működtetőjét jelöli ki.”
 
-[^101]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^102]: Az 53. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^103]: Az 53. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^104]: Az 53. § (3) bekezdése a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^105]: Az 53. § (4) bekezdése a 127. § (4) bekezdése alapján 2021. február 1-jén lép hatályba.
+(4) A 84/2012. Korm. rendelet 7. §-a a következő (5) bekezdéssel egészül ki:
+
+[^70]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: Az 53. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: Az 53. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
