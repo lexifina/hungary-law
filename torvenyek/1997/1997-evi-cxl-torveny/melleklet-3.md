@@ -12,7 +12,7 @@ d) a Magyar Mezőgazdasági Múzeum és Könyvtár,
 
 e) az Országgyűlési Könyvtár,
 
-f) az Országos Idegen nyelvű Könyvtár,
+f) az Országos Idegennyelvű Könyvtár,
 
 g) Országos Pedagógiai Könyvtár és Múzeum,
 

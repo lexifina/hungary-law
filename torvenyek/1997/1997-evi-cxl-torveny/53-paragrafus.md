@@ -10,4 +10,4 @@
 
 (2) A nyilvános könyvtári ellátás rendszerének működtetése az állam és a helyi önkormányzatok feladata.
 
-(3) A nyilvános könyvtárak gyűjteményeit és szolgáltatásait úgy kell kialakítani, hogy azok biztosítsák az ismeretek tárgyilagos, sokoldalú közvetítését.
+(3) A nyilvános könyvtárak gyűjteményeit, valamint szolgáltatásait úgy kell kialakítani, hogy azok biztosítsák az ismeretek tárgyilagos, sokoldalú közvetítését.

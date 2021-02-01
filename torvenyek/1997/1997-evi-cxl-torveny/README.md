@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2020-01-01 | 2019. évi CXII. törvény | 1997-140-00-00.55 |
 | 2020-07-01 | 2020. évi XXXII. törvény | 1997-140-00-00.56 |
 | 2021-01-01 | 2020. évi XXXII. törvény | 1997-140-00-00.57 |
+| 2021-02-01 | 2020. évi CXLVIII. törvény | 1997-140-00-00.58 |

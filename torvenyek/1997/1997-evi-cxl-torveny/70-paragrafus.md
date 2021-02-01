@@ -2,7 +2,7 @@
 
 ## A könyvtárak finanszírozásának és központi támogatásának alapelvei
 
-70. § (1) A könyvtárnak rendelkeznie kell a feladatai ellátásához szükséges feltételekkel. A könyvtár az alapító, illetőleg a fenntartó által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik feladatainak ellátásáról. A könyvtár fenntartási és működési költségeit az évente összeállított és a fenntartó által megállapított költségvetésben kell előirányozni.
+70. § (1) A könyvtárnak rendelkeznie kell a feladatai ellátásához szükséges feltételekkel. A könyvtár az alapító, illetőleg a fenntartó által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik feladatainak ellátásáról. A könyvtár fenntartási és működési költségeit az évente összeállított és a fenntartó által megállapított költségvetésben szükséges előirányozni.
 
 (2) A nyilvános könyvtári ellátásból adódó állami feladatokhoz a központi költségvetés hozzájárul:
 

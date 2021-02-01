@@ -10,7 +10,7 @@ c) a muzeális intézményben folytatható kutatást,
 
 d) a nemzetiségi bázisintézmény cím adományozásának részletes szabályait,
 
-e) a nyilvános könyvtárak jegyzékének vezetését,
+e) a nyilvános könyvtárak jegyzéke vezetésének szabályait,
 
 f) az országos dokumentumellátási rendszer működését,
 

@@ -4,7 +4,7 @@ Fogalmak
 
 E törvény alkalmazásában:
 
-a) Állami egyetemek könyvtárai: a felsőoktatásról szóló törvény 1. számú mellékletében felsorolt állami egyetemek központi könyvtárai.
+a) Állami egyetemek könyvtárai: a nemzeti felsőoktatásról szóló törvény 1. mellékletében felsorolt állami egyetemek központi könyvtárai, valamint a Kormány által felsőoktatási intézmény működtetése céljából alapított vagyonkezelő alapítványok fenntartásában lévő egyetemek központi könyvtárai.
 
 b) Archiválás: a könyvtár gyűjtőköri szabályzatában meghatározott könyvtári dokumentumoknak a könyvtár állományában való végleges megtartása érdekében a könyvtár által folytatott megőrző tevékenység, beleértve az elektronikus dokumentumok olyan módon történő megőrzését, ami kizárja az utólagos tartalmi módosítás lehetőségét, valamint védi az elektronikus dokumentumokat a törlés, a megsemmisítés, a véletlen megsemmisülés, sérülés és a jogosulatlan hozzáférés ellen, továbbá biztosítja, hogy az elektronikus dokumentumok értelmezhetősége, olvashatósága – a dokumentumok megjeleníthetőségét lehetővé tevő technikai megoldások alkalmazásával – megmaradjon.
 
