@@ -1,4 +1,4 @@
-## 58. §[^206] E rendeletnek a családi otthonteremtési kedvezmény igénylésének adminisztratív egyszerűsítéséhez kapcsolódóan egyes kormányrendeletek módosításáról szóló 26/2018. (II. 28.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 7. § (3a) bekezdését és 43. § (5a) bekezdését a Módr2. hatálybalépését[^207] megelőzően benyújtott támogatás iránti kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra, valamint folyamatban lévő eljárásokra is alkalmazni kell.
+## 58. §[^208] E rendeletnek a családi otthonteremtési kedvezmény igénylésének adminisztratív egyszerűsítéséhez kapcsolódóan egyes kormányrendeletek módosításáról szóló 26/2018. (II. 28.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 7. § (3a) bekezdését és 43. § (5a) bekezdését a Módr2. hatálybalépését[^209] megelőzően benyújtott támogatás iránti kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra, valamint folyamatban lévő eljárásokra is alkalmazni kell.
 
-[^206]: Az 58. §-t a 26/2018. (II. 28.) Korm. rendelet 36. §-a iktatta be.
-[^207]: A hatálybalépés időpontja 2018. március 15.
+[^208]: Az 58. §-t a 26/2018. (II. 28.) Korm. rendelet 36. §-a iktatta be.
+[^209]: A hatálybalépés időpontja 2018. március 15.

@@ -4,7 +4,13 @@
 
 45. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
-(2) A hitelintézetet az általa jogszerűen folyósított családi otthonteremtési kedvezmény összege után 2% költségtérítés illeti meg, amelyet a családi otthonteremtési kedvezménnyel együtt számol el a központi költségvetéssel.
+(2)[^195] A hitelintézetet az általa jogszerűen folyósított
+
+a) családi otthonteremtési kedvezmény összege után 2% költségtérítés illeti meg, amelyet a családi otthonteremtési kedvezménnyel,
+
+b) 14b. alcím szerinti otthonfelújítási kölcsön összege után 1,5% költségtérítés illeti meg azzal, hogy a pénzügyi közvetítője részére fizethető közvetítői díj nem haladhatja meg a 0,8%-ot, valamint amelyet a kamattámogatással
+
+## együtt számol el a központi költségvetéssel.
 
 (3) A hitelintézet a tárgyhónapra legfeljebb az előző hónapban a hitelintézet által benyújtott elszámolás alapján a Kincstár által ténylegesen kifizetett és elszámolt családi otthonteremtési kedvezménnyel azonos összegű előleget igényelhet utólagos elszámolási kötelezettséggel.
 
@@ -27,3 +33,4 @@
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
 [^194]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^195]: A 45. § (2) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
