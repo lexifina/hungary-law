@@ -27,3 +27,5 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok
 12. Színház- és Filmművészetért Alapítvány
 
 13. Universitas Miskolcinensis Alapítvány
+
+14. Magyar Agrár- és Élettudományi Egyetemért Alapítvány
