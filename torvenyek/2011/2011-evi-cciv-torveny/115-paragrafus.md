@@ -93,3 +93,5 @@ megnevezéssel működik.
 (30) 2020. július 31. napján a Budapesti Gazdasági Egyetem Gazdálkodási Kara (Gazdálkodási Kar Zalaegerszeg) a Budapesti Gazdasági Egyetem szervezetéből kiválik és a Pannon Egyetem szervezetébe olvad be.
 
 (31) 2020. augusztus 1. napjával a Kaposvári Egyetem és a Szent István Egyetem összeolvadásával a Szent István Egyetem jön létre.
+
+(32) A Szent István Egyetem 2021. február 1. napjától Magyar Agrár- és Élettudományi Egyetem megnevezéssel működik.
