@@ -6,6 +6,6 @@ b) az energiahatékonyság növelésével kapcsolatos energiahatékonysági táj
 
 c) az első kötelezettségi időszak vonatkozásában az alternatív szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás számbavételéhez és hitelesítéséhez szükséges adatok körét és az adatszolgáltatás rendjét,
 
-d)
+d) az energiahatékonysági járulék bejelentésének, megfizetésének, nyilvántartásának, valamint a bevételek felhasználásának részletszabályait
 
 rendeletben állapítsa meg.
