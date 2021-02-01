@@ -1,10 +1,10 @@
-## I/A. Fejezet[^34]
+## I/A. Fejezet[^35]
 
 ## AZ ELJÁRÁSI KÖLTSÉGEK, AZ IRATBETEKINTÉSSEL ÖSSZEFÜGGŐ KÖLTSÉGTÉRÍTÉS, A KÖLTSÉGEK MEGFIZETÉSE, VALAMINT A KÖLTSÉGMENTESSÉG RÉSZLETES SZABÁLYAI
 
 ## 13/B. Az eljárási költség
 
-27/B. §[^35] (1) Az adóigazgatási eljárásban eljárási költség:
+27/B. §[^36] (1) Az adóigazgatási eljárásban eljárási költség:
 
 1. az eljárási illeték,
 
@@ -42,5 +42,5 @@
 
 (2) A tolmács és a jelnyelvi tolmács díjának megállapítására a közigazgatási hatósági eljárásban közreműködő tolmácsok és jelnyelvi tolmácsok díjazásának szabályairól szóló miniszteri rendelet szabályai az irányadóak.
 
-[^34]: Az I/A. Fejezetet (27/B–27/L. §-t) a 311/2018. (XII. 27.) Korm. rendelet 30. §-a iktatta be.
-[^35]: A 27/B. § a 260/2019. (XI. 7.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^35]: Az I/A. Fejezetet (27/B–27/L. §-t) a 311/2018. (XII. 27.) Korm. rendelet 30. §-a iktatta be.
+[^36]: A 27/B. § a 260/2019. (XI. 7.) Korm. rendelet 7. §-ával megállapított szöveg.

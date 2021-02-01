@@ -10,7 +10,7 @@ A feltételes adómegállapítás iránti kérelem
 
 1.2. állandó lakóhelyét (belföldi és külföldi székhelyét, telephelyét), levelezési címét,
 
-1.3.[^79] adószámát, adóazonosító jelét, csoportos adóalany kérelmező esetében a csoportazonosító számot,
+1.3.[^80] adószámát, adóazonosító jelét, csoportos adóalany kérelmező esetében a csoportazonosító számot,
 
 1.4. létesítő okiratának keltét,
 
@@ -70,4 +70,4 @@ A feltételes adómegállapítás iránti kérelem
 
 17. az adózó képviselője cégszerű aláírását.
 
-[^79]: Az 1. melléklet 1. pont 1.3. alpontja a 260/2019. (XI. 7.) Korm. rendelet 14. § 6. pontjával megállapított szöveg.
+[^80]: Az 1. melléklet 1. pont 1.3. alpontja a 260/2019. (XI. 7.) Korm. rendelet 14. § 6. pontjával megállapított szöveg.
