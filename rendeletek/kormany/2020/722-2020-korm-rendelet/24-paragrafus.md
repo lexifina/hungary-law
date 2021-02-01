@@ -1,5 +1,5 @@
-## 23. §[^27]
+## 23. §[^24]
 
 ## 9. A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 179/2011. (IX. 2.) Korm. rendelet módosítása
 
-[^27]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

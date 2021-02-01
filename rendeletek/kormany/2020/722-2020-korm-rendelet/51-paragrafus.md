@@ -1,5 +1,5 @@
-## 50. §[^55]
+## 50. §[^52]
 
 ## 16. A vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képessége biztosításának részletes szabályairól szóló 529/2017. (XII. 29.) Korm. rendelet módosítása
 
-[^55]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
