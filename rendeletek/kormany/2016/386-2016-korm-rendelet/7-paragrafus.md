@@ -132,6 +132,10 @@ m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a h
 
 (7)[^22] A nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya és a TAJ kártya kibocsátásával kapcsolatosan a kormányhivatalok és a kormányablakok felügyeleti szerve a NEAK.
 
+(8)[^23] A Kormány országos illetékességgel Budapest Főváros Kormányhivatalát jelöli ki a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 21. § (7b) bekezdése szerinti, az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő, TAJ számot tartalmazó hatósági igazolvány hivatalbóli kibocsátására. A TAJ számot igazoló hatósági igazolvány megszemélyesítését végző szerv részére történő adatszolgáltatásra a Kormány országos illetékességgel a NEAK-ot jelöli ki.
+
+(9)[^24] A Kormány országos illetékességgel Budapest Főváros Kormányhivatalát jelöli ki a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 21. § (7c) bekezdése szerinti, magyar állampolgár Magyarországon létrejött házasságkötése nyomán megváltozó nevével kiállított TAJ számot tartalmazó hatósági igazolvány hivatalbóli kibocsátására. A TAJ számot igazoló hatósági igazolvány megszemélyesítését végző szerv részére történő adatszolgáltatásra a Kormány országos illetékességgel a NEAK-ot jelöli ki.
+
 [^10]: A 7. § (1) bekezdés e) pont ea) alpontját a 147/2019. (VI. 25.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
 [^11]: A 7. § (1) bekezdés e) pont eb) alpontja a 147/2019. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^12]: A 7. § (1) bekezdés f) pontját a 147/2019. (VI. 25.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
@@ -145,3 +149,5 @@ m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a h
 [^20]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^21]: A 7. § (6) bekezdése a 311/2017. (X. 31.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
 [^22]: A 7. § (7) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^23]: A 7. § (8) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 86. §-a iktatta be.
+[^24]: A 7. § (9) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 86. §-a iktatta be.
