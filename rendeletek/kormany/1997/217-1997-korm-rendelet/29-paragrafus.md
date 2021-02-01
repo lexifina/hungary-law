@@ -1,8 +1,8 @@
-29. § (1)[^486]
+29. § (1)[^488]
 
 (2) Ha a bedolgozónál a keresőképtelensége első napján feldolgozásra átvett anyag van, táppénz csak az anyag visszaszolgáltatásának a napjától jár, kivéve, ha a foglalkoztató igazolja, hogy a keresőképtelenség ideje alatt a bedolgozó bedolgozói munkát nem végez.
 
-(3)[^487]
+(3)[^489]
 
-[^486]: A Vhr. 29. § (1) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 21. § (3) bekezdésének g) pontja hatályon kívül helyezte.
-[^487]: A Vhr. 29. §-ának (3) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^488]: A Vhr. 29. § (1) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 21. § (3) bekezdésének g) pontja hatályon kívül helyezte.
+[^489]: A Vhr. 29. §-ának (3) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
