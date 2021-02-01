@@ -1,6 +1,6 @@
-161. § (1) A Közbeszerzési Döntőbizottság a közbeszerzési ügyet tárgyalás tartása nélkül bírálja el, kivéve, ha a tárgyalás tartása feltétlenül szükséges különösen az ügyféli jogok gyakorlásához, a tényállás tisztázásához, a szakszerű és minden, az ügy szempontjából fontos körülményt figyelembe vevő döntés meghozatalához. Nem tartható tárgyalás, ha a jogorvoslat tárgya kizárólag a gazdasági szereplő által a közbeszerzési eljárás során bemutatott referenciáknak az eljárást megindító felhívásban előírtakkal való műszaki egyenértékűségének megállapítása.
+161. § (1) A Közbeszerzési Döntőbizottság a közbeszerzési ügyet tárgyalás tartása nélkül bírálja el, kivéve, ha a tárgyalás tartása feltétlenül szükséges különösen az ügyféli jogok gyakorlásához, a tényállás tisztázásához, a szakszerű és minden, az ügy szempontjából fontos körülményt figyelembe vevő döntés meghozatalához.
 
-(2) A Közbeszerzési Döntőbizottság a tárgyalást az eljárás megindításától számított tizenöt napon belül tartja meg.
+(2) A Közbeszerzési Döntőbizottság a tárgyalást az ügyintézési határidő kezdetétől [164. § (7) bekezdés] számított tizenöt napon belül tartja meg.
 
 (3)
 

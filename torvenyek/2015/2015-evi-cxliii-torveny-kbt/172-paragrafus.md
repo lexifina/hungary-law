@@ -1,4 +1,4 @@
-172. § (1) Ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja – ideértve a bírság összegét is – alkalmazhatja a 165. § (3), (6), (8)–(10) bekezdése szerinti jogkövetkezményeket.
+172. § (1) Ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja – ideértve a bírság összegét is – alkalmazhatja a 165. § (3) és (6) bekezdése szerinti jogkövetkezményeket.
 
 (2) Ha a bíróság a Közbeszerzési Döntőbizottság határozatának megváltoztatása körében megállapítja a 137. § (1) bekezdése szerinti jogsértés megvalósulását, hivatalból vizsgálja a 137. § (3) bekezdésének alkalmazhatóságát, és ítéletében megállapítja a jogsértésre tekintettel a szerződés semmisségét vagy azt, hogy a 137. § (3) bekezdésében foglalt feltételek fennállására tekintettel nem semmis.
 

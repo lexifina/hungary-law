@@ -10,7 +10,7 @@ a) nem nyújtottak be ajánlatot vagy több szakaszból álló eljárás részv�
 
 b) kizárólag érvénytelen ajánlatot vagy részvételi jelentkezést nyújtottak be;
 
-c) az eljárásban benyújtott minden ajánlat tekintetében lejárt az ajánlati kötöttség és egyetlen ajánlattevő sem tartja fenn ajánlatát.
+c) az eljárásban benyújtott minden ajánlat tekintetében lejárt az ajánlati kötöttség és egyetlen ajánlattevő sem tartja fenn ajánlatát, vagy a 70. § (2a) bekezdés szerinti száznyolcvan napos ajánlati kötöttség lejártát követően az értékelési szempontokra figyelemmel legkedvezőbbnek tekinthető ajánlattevő nem tartja fenn ajánlatát.
 
 (2) Az ajánlatkérő eredménytelenné nyilváníthatja az eljárást, ha
 

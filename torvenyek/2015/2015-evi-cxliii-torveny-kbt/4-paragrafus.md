@@ -2,7 +2,7 @@
 
 ## A TÖRVÉNY SZEMÉLYI ÉS TÁRGYI HATÁLYA
 
-4. § (1) A 15. § (1) bekezdése szerinti értékhatárokat elérő értékű közbeszerzési szerződés, építési vagy szolgáltatási koncesszió megkötése érdekében az 5–7. §-ban ajánlatkérőként meghatározott szervezetek az e törvény szerinti közbeszerzési vagy koncessziós beszerzési eljárást kötelesek lefolytatni.
+4. § (1) A 15. § (1) bekezdése szerinti értékhatárokat elérő értékű közbeszerzési szerződés, építési vagy szolgáltatási koncesszió (ideértve a védelmi és biztonsági tárgyú koncessziót is) megkötése érdekében az 5–7. §-ban ajánlatkérőként meghatározott szervezetek az e törvény szerinti közbeszerzési vagy koncessziós beszerzési eljárást kötelesek lefolytatni.
 
 (2) A közbeszerzési szerződés megkötésére közbeszerzési eljárást, építési vagy szolgáltatási koncesszió megkötésére koncessziós beszerzési eljárást kell lefolytatni.
 

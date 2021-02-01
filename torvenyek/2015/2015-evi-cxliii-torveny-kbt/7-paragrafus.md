@@ -21,3 +21,5 @@ c) a postai szolgáltatásokról szóló törvény szerinti, engedélyköteles p
 d) a bányászatról szóló törvény szerinti, szénhidrogén-kutatás, -feltárás és -kitermelés engedélyezése;
 
 e) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet szerinti autóbusszal, villamossal, vasúttal vagy metróval végzett személyszállítási közszolgáltatás nyújtására irányuló közbeszerzési eljárás, feltéve, ha az megfelel e rendelet 4. cikk (3)–(4) bekezdésének, valamint 5. cikk (3) bekezdésének.
+
+f) e törvény vagy a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti, hirdetménnyel induló eljárás.

@@ -8,4 +8,14 @@
 
 (4) A közbeszerzésekre vonatkozó statisztikai adatok rendelkezésre állása érdekében e törvény felhatalmazása alapján alkotott jogszabály meghatározhatja az ajánlatkérő számára az e törvényben előírtakon kívül az adott közbeszerzésre vonatkozóan az EKR-ben rögzítendő – személyes adatnak nem minősülő – adatok körét.
 
-(5) Az EKR üzemeltetésével összefüggő feladatok teljesítése érdekében az EKR üzemeltetője az EKR-ben rögzített személyes adatokat a (2) bekezdésben meghatározott időtartamig kezeli.
+(4a) A közbeszerzésekért felelős miniszter az EKR-ben az alábbi személyes adatokat kezeli:
+
+a) a rendszer üzemeltetése, a közbeszerzési és koncessziós beszerzési eljárások és azok módosításainak közbeszerzési-jogi ellenőrzése céljából a természetes személyazonosító, valamint kapcsolattartást szolgáló adatokat, a felelős akkreditált közbeszerzési szaktanácsadó eljárásához kapcsolódó személyazonosító adatait, a kizáró okok fenn nem állása, a közbeszerzési kizáró okot jelentő jogsértésre vonatkozó adatokat, az alkalmasság megítélése és az értékelési szempontok alapján a gazdaságilag legelőnyösebb ajánlat kiválasztása céljából az ajánlatban vagy részvételi jelentkezésben megnevezett személyek természetes személyazonosító adatait, valamint képzettségre és végzettségre, szakmai gyakorlatra, szervezeti, köztestületi tagságra és gazdasági társaságban fennálló tagságra vonatkozó adatait;
+
+b) a rendszerhasználók azonosítása, nyilvántartása, a rendszerhez való szükséges hozzáférések biztosítása céljából a természetes személyazonosító, valamint kapcsolattartást szolgáló adatokat;
+
+c) a rendszerhasználati díj számviteli nyilvántartása céljából, valamint a számlázásához kapcsolódó célból szükséges adatokat.
+
+(4b) Az EKR-ben rögzített személyes adatokról a közbeszerzésekért felelős miniszter a jogszabályban arra feljogosított hatóság számára teljesíthet adatszolgáltatást.
+
+(5) Az EKR üzemeltetésével összefüggő feladatok teljesítése érdekében az EKR-ben a közbeszerzési eljárások lefolytatása során rögzített személyes adatok a (2) bekezdésben meghatározott időtartamig kezelhetők.

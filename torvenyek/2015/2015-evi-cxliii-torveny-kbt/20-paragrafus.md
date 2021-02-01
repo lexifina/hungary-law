@@ -18,6 +18,8 @@ f) a koncesszió teljesítéséhez szükséges, az ajánlatkérő által rendelk
 
 g) a részvételre jelentkezők, vagy az ajánlattevők részére fizetendő jutalék vagy egyéb kifizetés.
 
+h) a koncesszió időtartamának esetleges meghosszabbítása.
+
 (3) Az építési vagy szolgáltatási koncesszió becsült értékének meghatározása során a 19. § (1)–(3) bekezdését megfelelően kell alkalmazni.
 
 (4) Az építési vagy szolgáltatási koncesszió becsült értékének meghatározására vonatkozó objektív módszert a közbeszerzési dokumentumokban ismertetni kell.

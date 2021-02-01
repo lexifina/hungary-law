@@ -8,13 +8,13 @@ a) az alaptalan kérelmet elutasítja;
 
 b) a hivatalból indított vagy folytatott eljárásban megállapítja a jogsértés hiányát;
 
-c) megállapítja a jogsértés megtörténtét, és a 62. § (1) bekezdés q) pont szerinti kizáró ok alkalmazása érdekében a közbeszerzési eljárás vagy a koncessziós beszerzési eljárás eredményeként kötött szerződés e törvényben előírt rendelkezéseinek megsértése esetén dönt annak súlyosságáról;
+c) megállapítja a jogsértés megtörténtét;
 
-d) megállapítja a jogsértés megtörténtét, a 62. § (1) bekezdés q) pont szerinti kizáró ok alkalmazása érdekében a közbeszerzési eljárás vagy a koncessziós beszerzési eljárás eredményeként kötött szerződés e törvényben előírt rendelkezéseinek megsértése esetén dönt annak súlyosságáról és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket;
+d) megállapítja a jogsértés megtörténtét és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket;
 
 e) a (6) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki;
 
-f) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a közbeszerzési eljárásban részt vett más szervezetet vagy személyt a közbeszerzési eljárásban való részvételtől;
+f)
 
 g) hivatalból megállapítja a 137. § (1) bekezdésében meghatározott jogsértés esetén a szerződés semmisségét vagy a 137. § (3) bekezdésében foglalt feltételek fennállása esetén azt, hogy az érintett szerződés nem semmis,
 
@@ -52,17 +52,15 @@ e) a Közbeszerzési Hatóság elnöke kezdeményezte a Közbeszerzési Döntőb
 
 (7b) A 137. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, a (6)–(7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
-(8) A Közbeszerzési Döntőbizottság a (2) bekezdés f) pontja alapján a jogsértés megállapítása mellett köteles az ajánlattevőt, alvállalkozót vagy a közbeszerzési eljárásban részt vett más szervezetet vagy személyt – a (11) bekezdésében foglaltak figyelembevételével – fél évtől három évig terjedő időszakra eltiltani a közbeszerzési eljárásban való részvételtől, ha
+(7c) Nem szab ki bírságot a Közbeszerzési Döntőbizottság olyan esetben, amikor az ajánlatkérő a jogorvoslat tárgyává tett cselekményt a jogszabályban foglaltak szerint folyamatba épített ellenőrzést végző szervnek az érintett eljárásban adott előírása alapján teljesítette.
 
-a) az a közbeszerzési eljárás során, illetve közbeszerzési eljárással kapcsolatban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett és a kizárásnak a 62. § (1) bekezdés i) pontja szerinti feltételei fennállnak;
+(8)
 
-b) az a közbeszerzési eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a közbeszerzési eljárásban.
+(9)
 
-(9) A Közbeszerzési Döntőbizottság a (2) bekezdés f) pontja alapján a jogsértés megállapítása mellett köteles az ajánlattevőt, alvállalkozót vagy a közbeszerzési eljárásban részt vett más szervezetet vagy személyt – a (11) bekezdésben foglaltak figyelembevételével – eltiltani a közbeszerzési eljárásban való részvételtől, ha a 25. § szerinti összeférhetetlenségből, illetve a közbeszerzési eljárás előkészítésében való előzetes bevonásból eredő versenytorzulást az adott eljárásban való részvételtől való eltiltásán kívül nem lehet más, kevésbé kényszerítő intézkedésekkel hatékonyan orvosolni.
+(10)
 
-(10) A (8) bekezdés alkalmazásában a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a közbeszerzési eljárásban részt vett más szervezetet vagy személyt nemcsak a jövőre nézve, hanem a vizsgált közbeszerzési eljárásban, továbbá egyéb folyamatban lévő közbeszerzési eljárás vonatkozásában is köteles eltiltani a közbeszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől, ha az érintett eljárásokban az eljárás eredményének megküldésére még nem került sor. A (9) bekezdés szerinti esetben a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a közbeszerzési eljárásban részt vett más szervezetet vagy személyt kizárólag a vizsgált közbeszerzési eljárásban tilthatja el a közbeszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől.
-
-(11) A Közbeszerzési Döntőbizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, valamint a bírság összegének – továbbá a 62. § (1) bekezdés q) pont szerinti jogsértés megállapítása esetén az eltiltás időtartamának – megállapításában az eset összes körülményét, így különösen
+(11) A Közbeszerzési Döntőbizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, valamint a bírság összegének megállapításában az eset összes körülményét, így különösen
 
 a) a jogsértés súlyát,
 
@@ -76,7 +74,7 @@ e) a jogsértés megtörténte és a jogorvoslati eljárás megindítása közö
 
 f) támogatásból megvalósult beszerzés esetén azt a körülményt, ha a jogsértéshez más szerv eljárásában a támogatás visszafizetésére vonatkozó szankció kapcsolódhat
 
-figyelembe veszi. A bírság összegének és az eltiltás időtartamának megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
+figyelembe veszi. A bírság összegének megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
 
 (12) Ha a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő köteles a határozat véglegességének időpontjától számított harminc napon belül új eljárást lezáró döntést hozni. Ha az eljárás előre láthatólag nem eredménytelen, döntése meghozatala előtt – határidő tűzésével – be kell szereznie valamennyi érvényes ajánlatot tevő nyilatkozatát arról, hogy ajánlatát fenntartja. Ha az ajánlattevő a megadott határidőben nem nyilatkozott, úgy kell tekinteni, hogy ajánlatát nem tartja fenn. Ha az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötötte, az ajánlatát fenntartó ajánlattevőnek igazolnia kell az ajánlati biztosíték fenntartását vagy újbóli rendelkezésre bocsátását az ajánlati kötöttségnek az ajánlatkérő által meghatározott új idejére.
 

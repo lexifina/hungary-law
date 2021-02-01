@@ -1,6 +1,6 @@
 ## A Hatóság keretében működő Tanács
 
-182. § (1) A Tanács tizenöt tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
+182. § (1) A Tanács tizenhat tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 

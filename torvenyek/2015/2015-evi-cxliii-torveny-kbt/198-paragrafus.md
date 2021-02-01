@@ -18,7 +18,7 @@
 
 7a. a kormányzati informatikai beszerzések tekintetében a központosított eljárások – e törvénytől az ilyen eljárások sajátosságai miatt eltérő – részletes szabályait, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét;
 
-8. az elektronikusan gyakorolható eljárási cselekmények, az elektronikus árlejtés, az elektronikus katalógus, valamint az elektronikus úton történő beszerzés részletes, az elektronikus út által szükségessé tett mértékben e törvénytől eltérő szabályait, az elektronikus kommunikációs eszközök kötelező alkalmazása alóli kivételeket, az EKR működésével, valamint igénybevételének részletes feltételeivel, az e törvényben előírtakon kívül az adott közbeszerzésre vonatkozóan az EKR-ben rögzítendő – személyes adatnak nem minősülő – adatok körével kapcsolatos rendelkezéseket;
+8. az elektronikusan gyakorolható eljárási cselekmények, az elektronikus árlejtés, az elektronikus katalógus, valamint az elektronikus úton történő beszerzés részletes, az elektronikus út által szükségessé tett mértékben e törvénytől eltérő szabályait, az elektronikus kommunikációs eszközök kötelező alkalmazása alóli kivételeket, az EKR működésével, valamint igénybevételének részletes feltételeivel, az e törvényben előírtakon kívül az adott közbeszerzésre vonatkozóan az EKR-ben rögzítendő – személyes adatnak nem minősülő – adatok körével, keretmegállapodás és dinamikus beszerzési rendszer alkalmazása esetén a szerződések és a szerződés teljesítésére vonatkozó adatok közzétételével kapcsolatos rendelkezéseket;
 
 9. az építési beruházások, valamint az azokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzéseire vonatkozó részletes – szükség esetén e törvénytől az ilyen tárgyú közbeszerzések sajátosságai miatt eltérő – szabályokat, valamint az ilyen tárgyú szerződések teljesítésére vonatkozó részletes szabályokat, továbbá az építési beruházások megvalósítására irányuló közbeszerzési szerződések esetén a szerződésben foglalt ellenérték kifizetésének – e törvénytől és a Ptk.-tól eltérő – szabályait;
 
@@ -47,3 +47,17 @@
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 
 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
+
+23. a közétkeztetés tárgyú közbeszerzések – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
+
+(2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
+
+a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét, valamint – az adópolitikáért felelős miniszter egyetértésével – a hirdetmény nélküli tárgyalásos eljárások 103. § szerinti, Közbeszerzési Hatóság által végzett törvényességi ellenőrzése díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+
+b) a hirdetmények, és a bírálati összegezések mintáját, a hirdetmények egyes tartalmi elemeit, a közbeszerzési terv minimális adattartalmát;
+
+c) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe vételéért fizetendő – az adópolitikáért felelős miniszter egyetértésével megállapított – igazgatási szolgáltatási díj mértékére, a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, valamint a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
+
+d) az EKR használatáért fizetendő szolgáltatási díjjal, az EKR használatáért fizetendő díj befizetésének elmulasztása esetén a rendszer üzemeltetője által alkalmazható intézkedésekkel, az EKR fenntartásával és működtetésével kapcsolatos sajátos szabályokat;
+
+e) a Közbeszerzési Döntőbizottság eljárásáért fizetendő igazgatási szolgáltatási díj – az adópolitikáért felelős miniszter egyetértésével megállapított – mértékét, megfizetésének módját, továbbá megfizetésének, valamint viselésének szabályait;

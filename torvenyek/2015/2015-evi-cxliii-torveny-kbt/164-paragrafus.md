@@ -1,8 +1,8 @@
-164. § (1) A Közbeszerzési Döntőbizottság – a (2) bekezdésben meghatározott ügy kivételével – az eljárás megindításától számított tizenöt napon belül köteles az eljárást befejezni, ha az ügyben tárgyalás tartására nem került sor.
+164. § (1) A Közbeszerzési Döntőbizottság – a (2) bekezdésben meghatározott ügy kivételével – az ügyintézési határidő kezdetétől számított tizenöt napon belül köteles az eljárást befejezni, ha az ügyben tárgyalás tartására nem került sor.
 
-(2) Ha a Közbeszerzési Döntőbizottság az ügyben tárgyalást tartott, az eljárás megindításától számított huszonöt napon belül köteles – a (3) bekezdésben meghatározott ügy kivételével – az eljárást befejezni.
+(2) Ha a Közbeszerzési Döntőbizottság az ügyben tárgyalást tartott, az ügyintézési határidő kezdetétől számított huszonöt napon belül köteles – a (3) bekezdésben meghatározott ügy kivételével – az eljárást befejezni.
 
-(3) A Közbeszerzési Döntőbizottság a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése, valamint a közbeszerzési eljárás mellőzése ügyében az eljárás megindításától számított hatvan napon belül köteles az eljárást befejezni.
+(3) A Közbeszerzési Döntőbizottság a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése, a közbeszerzési eljárás mellőzése ügyében, valamint azon ügyekben, ahol a Közbeszerzési Döntőbizottság eljárása hivatalból indul és a jogorvoslattal érintett közbeszerzési eljárásban a szerződést már megkötötték, az eljárás megindításától számított hatvan napon belül köteles az eljárást befejezni.
 
 (4) A 155. § (1) bekezdése szerinti egyesítés esetében az ügyintézési határidőt a legkésőbb indult eljáráshoz képest kell számítani.
 

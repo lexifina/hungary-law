@@ -1,6 +1,6 @@
 ## Az ajánlatok és a részvételi jelentkezések benyújtása és felbontása
 
-68. § (1) Az ajánlatokat vagy részvételi jelentkezéseket tartalmazó iratok felbontását az ajánlattételi, illetve részvételi határidő lejártát követően, jogszabályban meghatározott időtartam elteltével kell megkezdeni.
+68. § (1) Az ajánlatokat vagy részvételi jelentkezéseket tartalmazó iratok felbontását az ajánlattételi, illetve részvételi határidő lejártát követően, – amennyiben jogszabály azt előírja – jogszabályban meghatározott időtartam elteltével kell megkezdeni.
 
 (1a) Az (1) bekezdéstől eltérően, ha a 41/C. § (1) bekezdés e)–f) pontja alapján az ajánlatok benyújtása egészében papíralapon történik, az ajánlatokat vagy részvételi jelentkezéseket tartalmazó iratok felbontását az ajánlattételi, illetve részvételi határidő lejártának időpontjában kell megkezdeni, és a (4) bekezdéstől eltérően a rendelkezésre álló fedezet összege az ajánlatok bontásának megkezdése előtt ismertethető.
 

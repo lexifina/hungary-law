@@ -26,9 +26,11 @@ h) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet olyan jog
 
 i) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő más ajánlatkérőkkel közösen a saját szervezeti egységei felettihez hasonló kontrollt gyakorol, az ajánlatkérők közösen döntő befolyással rendelkeznek annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke-részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a a kontrollt gyakorló ajánlatkérővel (ajánlatkérőkkel) vagy az ajánlatkérő által e pont szerint kontrollált más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik;
 
-j) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységből származó éves nettó árbevételének legfeljebb 20%-a származik a nyílt piacról;
+j) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységből származó éves nettó árbevételének kevesebb mint 20%-a származik a nyílt piacról;
 
 k) a központi beszerző szerv által közbeszerzési eljárás útján beszerzett áru, szolgáltatás vagy építési beruházás megrendelésére azon szervezetek részéről, amelyek javára a központi beszerző szerv közbeszerzési szerződést kötött, valamint a központi beszerző szervek által nyújtott járulékos közbeszerzési szolgáltatások megrendelése.
+
+(1a) Az (1) bekezdés b) pont bb) alpontjában említett, a közbeszerzési eljárásban előírható biztonsági intézkedések különösen az ajánlatkérő által az eljárásban rendelkezésre bocsátott információk bizalmas jellegének védelmét szolgáló, az ajánlatkérő által előírt követelmények.
 
 (2) Az (1) bekezdés h) pontja alkalmazandó abban az esetben is, ha a közbeszerzési szerződést a kontrollált jogi személy ajánlatkérőként eljárva köti meg a felette kontrollt gyakorló ajánlatkérővel vagy az ajánlatkérő által az (1) bekezdés h) pontja szerint kontrollált más jogi személlyel.
 
@@ -46,7 +48,7 @@ k) a központi beszerző szerv által közbeszerzési eljárás útján beszerze
 
 a) meglévő építmény vagy egyéb ingatlan vétele, illetve az arra vonatkozó egyéb jog megszerzése;
 
-b) audiovizuális vagy rádiós médiaszolgáltató olyan beszerzése, amelynek tárgya audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vétele, fejlesztése, előállítása, illetve audiovizuális vagy rádiós médiaszolgáltatók általi közös előállítása; valamint bármely ajánlatkérőnek az audiovizuális vagy rádiós médiaszolgáltatótól megrendelt műsorszám szolgáltatására vagy műsoridőre vonatkozó szerződése, továbbá az audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vételére, fejlesztésére, előállítására, közös előállítására vagy műsoridő vásárlásra vonatkozó szerződések;
+b) audiovizuális vagy rádiós médiaszolgáltató olyan beszerzése, amelynek tárgya audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vétele, fejlesztése, előállítása, illetve audiovizuális vagy rádiós médiaszolgáltatók általi közös előállítása; valamint a reklám és társadalmi célú reklám kivételével bármely ajánlatkérőnek az audiovizuális vagy rádiós médiaszolgáltatótól megrendelt műsorszám szolgáltatására vagy műsoridőre vonatkozó szerződése, továbbá az audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vételére, fejlesztésére, előállítására, közös előállítására vagy műsoridő vásárlásra vonatkozó szerződések;
 
 c) választottbírósági, közvetítői és békéltetői tevékenység;
 

@@ -8,7 +8,7 @@
 
 (4) A (2)–(3) bekezdés szerint előírt biztosíték rendelkezésre álló összege az ajánlatkérő követelésének kielégítésével csökken, nem írható elő a követelés kielégítése esetére az ajánlattevőként szerződő fél számára a biztosíték meghatározott mértékű folyamatos fenntartására vonatkozó kötelezettség. A biztosítéknak a szerződésben foglalt feltételek szerint kell rendelkezésre állnia, nem írható elő azonban, hogy a szerződés teljesítésének elmaradásával kapcsolatos igényekre kikötött biztosíték a szerződés hatálybalépését, a hibás teljesítéssel kapcsolatos igények teljesítésére kikötött biztosíték a szerződés teljesítésének időpontját megelőzően álljon rendelkezésre. Bármely egyéb célból kikötött biztosíték esetében a biztosíték rendelkezésre állása attól az időponttól követelhető meg, amelytől kezdve a biztosítékkal biztosított esemény bekövetkezhet, de legkorábban a szerződéskötés időpontjától.
 
-(5) A (4) bekezdés szerinti biztosíték határidőre történő nyújtására vonatkozóan az ajánlattevőnek az ajánlatban nyilatkoznia kell, egyéb igazolás, nyilatkozat a biztosítékokról a közbeszerzési eljárásban nem kérhető.
+(5) A (4) bekezdés szerinti biztosíték határidőre történő nyújtására vonatkozóan igazolás vagy nyilatkozat a közbeszerzési eljárásban nem kérhető.
 
 (6) Biztosíték kikötése esetén az ajánlatkérő a közbeszerzési dokumentumokban
 

@@ -6,27 +6,21 @@
 
 a) naprakészen vezeti és a honlapján közzéteszi
 
-aa)
+aa) a minősített ajánlattevők Hatóság által létrehozott hivatalos jegyzékét,
 
-ab) a minősített ajánlattevők Hatóság által létrehozott hivatalos jegyzékét,
+ab) – a gazdasági szereplő megbízhatóságának mérlegelése nélkül – a 62. § (1) bekezdés i) és j) pontja szerinti kizárás megalapozására alkalmas ajánlatkérői döntések tényét, leírását és lényeges körülményeinek összefoglalását, és a 62. § (1) bekezdés i) és j) pontja szerinti kizárást megalapozó döntőbizottsági és bírósági határozatok számát, a határozat elektronikus elérhetőségét (amennyiben elérhető) és a határozathozatal napját,
 
-ac) a 62. § (1) bekezdés h) pontja szerinti kizárást megalapozó döntőbizottsági és bírósági határozatok számát és a határozathozatal napját, valamint – a jogsértés súlyosságának mérlegelése nélkül – minden olyan véglegessé vált döntőbizottsági – vagy annak közigazgatási perben való megtámadása esetén jogerős bírósági – határozat számát és a határozathozatal napját, amely megalapozhatja a 62. § (1) bekezdés q) pontja szerinti kizárást;
+ac) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak a honlapon a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
 
-ad) a közbeszerzési eljárásban való részvételtől eltiltott ajánlattevők listáját, amely lista tartalmazza az eltiltás idejét is,
+ad) a kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát megállapító határozatokat [188. § (4) bekezdés],
 
-ae) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak a honlapon a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
-
-af) a kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát megállapító határozatokat [188. § (4) bekezdés],
-
-ag) a védett munkahelyek listáját, amely tartalmazza az általuk gyártott vagy forgalmazott termékek, illetve nyújtott szolgáltatások felsorolását,
-
-ah) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét;
+ae) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét;
 
 b) nyilvántartást vezet a közbeszerzésekről;
 
 c) a gazdasági, valamint szakmai kamara által létrehozott minősített ajánlattevői jegyzékbe vétel feltételeinek megfelelőségét ellenőrzi, a jegyzéket nyilvántartja;
 
-d) az Európai Bizottság által kért, hiányzó statisztikai adatokat a Bizottságnak megküldi, az e törvényben előírt tájékoztatásokat az Európai Bizottság részére megküldi;
+d) az Európai Bizottság által kért, hiányzó statisztikai adatokat az Európai Bizottságnak megküldi, az e törvényben előírt tájékoztatásokat az Európai Bizottság részére megküldi;
 
 e) háromévente statisztikai jelentést készít az uniós értékhatárt el nem érő becsült értékű közbeszerzésekről – különösen az érintett időszakban az ilyen közbeszerzések becsült, összesített teljes értékéről – amelyet megfelelő határidőben a közbeszerzésekért felelős miniszter rendelkezésére bocsát;
 
@@ -36,7 +30,7 @@ g) honlapján a beérkezés időpontjában közzéteszi a Közbeszerzési Dönt�
 
 h) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
 
-i) a (10) bekezdés, továbbá a 183. § c) pontja, valamint a 194. § (3) bekezdése szerinti útmutatót vagy közleményt honlapján közéteszi;
+i) a (10) bekezdés, továbbá a 183. § c) pontja, valamint a 194. § (3) bekezdése szerinti útmutatót vagy közleményt honlapján közzéteszi;
 
 j) figyelemmel kíséri a közbeszerzési eljárás, valamint a koncessziós beszerzési eljárás alapján megkötött szerződések módosításáról szóló hirdetményeket, ennek során az Ákr. alapján hatósági ellenőrzés (a továbbiakban: szerződés-ellenőrzési eljárás) keretében – jogszabályban meghatározott részletes szabályok szerint – ellenőrzi a szerződések teljesítését és módosítását, a tervpályázati eljárás eredményét, valamint megteszi különösen a 153. § (1) bekezdés c) pontjában és a 175. §-ban meghatározott intézkedéseket;
 
@@ -44,9 +38,9 @@ k) az archív adatok tekintetében működteti a Közbeszerzési Adatbázist, am
 
 l) a közbeszerzési szabályozás széles körű megismertetése érdekében konferenciákat szervez;
 
-m) a közbeszerzési eljárások előkészítése és lebonyolítása során az ajánlatkérők segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a közbeszerzésekért felelős miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad;
+m) a közbeszerzési eljárások előkészítése és lebonyolítása során az ajánlatkérők segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a közbeszerzésekért felelős miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad ki;
 
-n) az Európai Unió más tagállamainak közbeszerzési szervezeteivel való kapcsolattartás keretében – különösen a közbeszerzési eljárások során alkalmazandó igazolásokról, Magyarországon nyilvánosan elérhető adatbázisokról, nyilvántartásokról – információt szolgáltat, gondoskodik a vonatkozó nyilvántartások listájának az e-Certis rendszerben való közzétételéről, és teljesíti különösen a 2014/24/EU irányelv 44. cikk (3) bekezdésében, 59. cikk (6) bekezdésében, 60. cikk (5) bekezdésében, 61. cikk (1) bekezdésében, 62. cikk (3) bekezdésében, 64. cikk (1) és (8) bekezdésében, valamint 69. cikk (5) bekezdésében foglalt kötelezettségeket, továbbá a 2014/25/EU irányelv 62. cikk (3) bekezdésében, 81. cikk (3) bekezdésében, 84. cikk (5) bekezdésében, 86. cikk (1) és (4) bekezdésében foglalt kötelezettségeket;
+n) az Európai Unió más tagállamainak közbeszerzési szervezeteivel való kapcsolattartás keretében – különösen a közbeszerzési eljárások során alkalmazandó igazolásokról, Magyarországon nyilvánosan elérhető adatbázisokról, nyilvántartásokról – információt szolgáltat, gondoskodik a vonatkozó nyilvántartások listájának az Európai Bizottság által működtetett e-Certis rendszerben való közzétételéről, és teljesíti különösen a 2014/24/EU irányelv 44. cikk (3) bekezdésében, 59. cikk (6) bekezdésében, 60. cikk (5) bekezdésében, 61. cikk (1) bekezdésében, 62. cikk (3) bekezdésében, 64. cikk (1) és (8) bekezdésében, valamint 69. cikk (5) bekezdésében foglalt kötelezettségeket, továbbá a 2014/25/EU irányelv 62. cikk (3) bekezdésében, 81. cikk (3) bekezdésében, 84. cikk (5) bekezdésében, 86. cikk (1) és (4) bekezdésében foglalt kötelezettségeket;
 
 o) figyelemmel kíséri e törvény szabályainak érvényesülését, kezdeményezi az arra jogosultnál a közbeszerzésekkel kapcsolatos jogszabályok megalkotását, módosítását;
 
@@ -60,13 +54,15 @@ s) statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket honl
 
 t) elkészíti a Hatóság szervezeti és működési, valamint más, a Hatóság működését érintő belső szabályzatát, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
 
-u)
+u) honlapján tájékoztató jelleggel közzéteszi a védett munkahelyek listáját, amely tartalmazza az általuk gyártott vagy forgalmazott termékek, illetve nyújtott szolgáltatások felsorolását.
 
 v) ellátja a részére törvényben előírt egyéb feladatokat,
 
-x) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatkérők listáját.
+w) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatkérők listáját.
 
-(2a) A (2) bekezdés a) pont ag) alpontjában foglalt feladatok ellátásához a védett munkahelyek kötelesek ezen minőségükről – valamint az adataikban történt változásokról – haladéktalanul tájékoztatni a Hatóságot az általuk gyártott vagy forgalmazott termékek, valamint a részükről nyújtott szolgáltatások megjelölésével együtt.
+x) kizárólagos joggal ellátja a CoRe üzemeltetését.
+
+(2a) A (2) bekezdés u) pontjában foglalt feladatok ellátásához a védett munkahelyek kötelesek ezen minőségükről – valamint az adataikban történt változásokról – haladéktalanul tájékoztatni a Hatóságot az általuk gyártott vagy forgalmazott termékek, valamint a részükről nyújtott szolgáltatások megjelölésével együtt.
 
 (3) A Hatóság elnöke, illetve a közbeszerzési biztos megkeresésére a közbeszerzéssel kapcsolatos ügyben minden szervezet – ideértve a szakmai kamarákat és az érdekképviseleti szervezeteket is – köteles tíz napon belül tájékoztatást adni, és az EKR-ben rendelkezésre álló adatok hozzáférhetőségét biztosítani.
 
@@ -84,7 +80,7 @@ x) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatké
 
 (10) A Hatóság a közbeszerzések terén fennálló nemzetközi szerződésekről, továbbá azokról az államokról, amelyekkel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, a külpolitikáért felelős miniszterrel egyeztetve útmutatót ad ki.
 
-(11) A Hatóság (2) bekezdés a) pont ab) és ac) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett minősített ajánlattevő a Hatóság határozatát közigazgatási perben megtámadhatja a határozat kézhezvételétől számított tizenöt napon belül. A bíróság ítélete ellen fellebbezésnek nincs helye.
+(11) A Hatóság (2) bekezdés a) pont aa) és ab) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett minősített ajánlattevő a Hatóság határozatát közigazgatási perben megtámadhatja a határozat kézhezvételétől számított tizenöt napon belül. A bíróság ítélete ellen fellebbezésnek nincs helye.
 
 (12) A Hatóság a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult a felelős akkreditált közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és a felelős akkreditált közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy a felelős akkreditált közbeszerzési szaktanácsadó jogosult-e az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 2. § (1) bekezdésében meghatározott tevékenység folytatására.
 

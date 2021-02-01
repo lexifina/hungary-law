@@ -14,7 +14,7 @@
 
 (6) A közös ajánlattevők a szerződés teljesítéséért az ajánlatkérő felé egyetemlegesen felelnek.
 
-(7) A közös ajánlatot vagy részvételi jelentkezést benyújtó gazdasági szereplők személyében az ajánlattételi vagy több szakaszból álló eljárásban a részvételi határidő lejárta után változás nem következhet be.
+(7) A közös ajánlatot vagy részvételi jelentkezést benyújtó gazdasági szereplők közül az ajánlattételi vagy több szakaszból álló eljárásban a részvételi határidő lejárta után valamely gazdasági szereplő kiválása esetén a fennmaradó gazdasági szereplők akkor vehetnek részt az eljárás további részében, ha továbbra is megfelelnek az eljárásban előírt valamennyi alkalmassági feltételnek és a változás nem jár a verseny tisztaságának sérelmével.
 
 (8) Az ajánlatkérő a közbeszerzési eljárásban történő részvételt nem kötheti gazdálkodó szervezet alapításához, azonban ha a közbeszerzési eljárás eredményeként megkötendő szerződés teljesítése érdekében indokolt, a nyertes ajánlattevő(k)től megkövetelheti azt. Az eljárást megindító felhívásnak a gazdálkodó szervezet alapítására vonatkozó ajánlatkérői elvárást egyértelműen rögzítenie kell.
 

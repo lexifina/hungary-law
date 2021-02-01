@@ -120,4 +120,6 @@ b) az a) pontban nem szereplő postai küldeményekhez, különösen címzés n�
 
 40. tervpályázat: olyan jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként a település- és területrendezés, építészet és építés, adatfeldolgozás területén – olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
 
+40a. védelmi és biztonsági tárgyú koncesszió: a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 4. § (1) és (2) bekezdésében meghatározott célra irányuló olyan beszerzés, amely a 8. § (5)–(6) bekezdése szerint építési vagy szolgáltatási koncessziónak minősül;
+
 41. védett munkahely: az akkreditált munkáltató általi foglalkoztatás, ha a munkáltató biztosít tranzit- vagy tartós foglalkoztatást, és a munkavállalóinak legalább a 30%-a a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22. §-a szerinti megváltozott munkaképességű személynek minősül, valamint az olyan munkáltató, amely működésének fő célja hátrányos helyzetű munkavállalók foglalkoztatása.

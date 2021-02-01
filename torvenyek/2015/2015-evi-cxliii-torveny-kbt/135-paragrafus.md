@@ -1,8 +1,8 @@
 ## A szerződés teljesítésére vonatkozó feltételekre irányadó sajátos rendelkezések
 
-135. § (1) Az ajánlatkérőként szerződő fél a szerződés teljesítésének elismeréséről (teljesítésigazolás) vagy az elismerés megtagadásáról legkésőbb az ajánlattevőként szerződő fél teljesítésétől vagy az erről szóló írásbeli értesítés kézhezvételétől számított tizenöt napon belül írásban köteles nyilatkozni.
+135. § (1) A felek a szerződésben az ellenérték kifizetésére irányadó jogszabályokat figyelembe véve rendelkeznek a teljesítés tényének írásbeli elismeréséről, a teljesítésigazolás kiállításáról.
 
-(2) Építési beruházás megvalósítására kötött kivitelezési szerződés esetében, ha az ajánlattevőként szerződő fél írásbeli értesítésére (készre jelentés) az ajánlatkérőként szerződő fél a szerződésben az átadás-átvételi eljárás megkezdésére meghatározott határidőt követő tizenöt napon belül nem kezdi meg az átadás-átvételi eljárást, vagy megkezdi, de a szerződésben – a Ptk. 6:247. § (2) bekezdésére figyelemmel – meghatározott határidőben nem fejezi be, az ajánlattevőként szerződő fél kérésére a teljesítésigazolást köteles kiadni.
+(2)
 
 (3) Építési beruházások esetén a szerződésben foglalt ellenérték kifizetésére kormányrendelet a Ptk. 6:130. § (1)–(3) bekezdésétől eltérő, sajátos szabályokat állapíthat meg.
 
@@ -12,7 +12,7 @@
 
 (6) Az ajánlatkérő a szerződésen alapuló ellenszolgáltatásból eredő tartozásával szemben csak a jogosult által elismert, egynemű és lejárt követelését számíthatja be.
 
-(7) Ha a közbeszerzés tárgya építési beruházás és a szerződés teljesítésének időtartama a két hónapot meghaladja, az ajánlatkérő köteles a szerződésben foglalt – tartalékkeret és általános forgalmi adó nélkül számított – teljes ellenszolgáltatás 5%-ának megfelelő összeg, de legfeljebb hetvenötmillió forint előleg igénybevételének lehetőségét biztosítani. Az előleg fizetését e kötelezően biztosítandó mértékben az ajánlatkérő nem teheti függővé a szerződő fél részéről biztosíték nyújtásától.
+(7) Ha a közbeszerzés tárgya építési beruházás és a szerződés teljesítésének időtartama a két hónapot meghaladja, az ajánlatkérő köteles a szerződésben foglalt – tartalékkeret és általános forgalmi adó nélkül számított – teljes ellenszolgáltatás 5%-ának megfelelő összeg, de legfeljebb kétszázötvenmillió forint előleg igénybevételének lehetőségét biztosítani. Az előleg fizetését e kötelezően biztosítandó mértékben az ajánlatkérő nem teheti függővé a szerződő fél részéről biztosíték nyújtásától.
 
 (8) A felek a (7) bekezdésben foglalt kötelező mértéket meghaladóan és bármely más esetben is kiköthetik előleg nyújtását a szerződésben. Külön jogszabály a (7) bekezdésben foglalt mértéket meghaladóan és bármely más esetre is előírhatja előleg nyújtását, valamint a (7) bekezdésben foglaltnál nagyobb mértékű előleg nyújtását is kötelezővé teheti biztosíték megkövetelése nélkül.
 

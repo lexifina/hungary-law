@@ -34,9 +34,13 @@ e) gazdasági, illetve szakmai tevékenységével kapcsolatban bűncselekmény e
 
 f) tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdés b) pontja alapján vagy az adott közbeszerzési eljárásban releváns módon c) vagy g) pontja alapján a bíróság jogerős ítéletében korlátozta, az eltiltás ideje alatt, vagy ha az ajánlattevő tevékenységét más bíróság hasonló okból és módon jogerősen korlátozta;
 
-g) közbeszerzési eljárásokban való részvételtől a 165. § (2) bekezdés f) pontja alapján véglegesen vagy jogerősen eltiltásra került, a Közbeszerzési Döntőbizottság véglegessé vált döntésében vagy – a Közbeszerzési Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén – a bíróság által jogerősen megállapított időtartam végéig;
+g)
 
-h) korábbi közbeszerzési vagy koncessziós beszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor, az érintett közbeszerzési eljárás lezárulásától számított három évig, vagy amennyiben a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését – a hamis adat szolgáltatásának megállapítása mellett – a Közbeszerzési Döntőbizottság véglegessé vált, – a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki;
+h) korábbi közbeszerzési vagy koncessziós beszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és
+
+ha) ha a kizárás miatt jogorvoslatra nem került sor, az ajánlatkérő megítélése szerint a kizárás alapjául szolgáló cselekmény miatt a szerződés teljesítése vonatkozásában a megbízhatósága alapos okkal megkérdőjelezhető, az érintett közbeszerzési eljárás lezárulásától számított három évig, vagy
+
+hb) ha a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését – a hamis adat szolgáltatásának megállapítása mellett – a Közbeszerzési Döntőbizottság véglegessé vált, – a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki;
 
 i) az adott eljárásban előírt adatszolgáltatási kötelezettség teljesítése során a valóságnak nem megfelelő adatot szolgáltat (a továbbiakban: hamis adat), illetve hamis adatot tartalmazó nyilatkozatot tesz, vagy a közbeszerzési eljárásban előzetes igazolásként benyújtott nyilatkozata ellenére nem tud eleget tenni az alkalmasságot, a kizáró okokat vagy a 82. § (5) bekezdése szerinti kritériumokat érintő igazolási kötelezettségének (a továbbiakban együtt: hamis nyilatkozat), amennyiben
 
@@ -44,7 +48,11 @@ ia) a hamis adat vagy nyilatkozat érdemben befolyásolja az ajánlatkérőnek a
 
 ib) a gazdasági szereplő szándékosan szolgáltatott hamis adatot vagy tett hamis nyilatkozatot, vagy az adott helyzetben általában elvárható gondosság mellett egyértelműen fel kellett volna ismernie, hogy az általa szolgáltatott adat a valóságnak, illetve nyilatkozata a rendelkezésére álló igazolások tartalmának nem felel meg;
 
-j) esetében az ajánlatkérő bizonyítani tudja, hogy az adott eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a közbeszerzési eljárásban, vagy korábbi közbeszerzési vagy koncessziós beszerzési eljárásból ebből az okból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor az érintett közbeszerzési eljárás lezárulásától számított három évig, vagy amennyiben a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését – a jogtalan befolyásolás megállapítása mellett – a Közbeszerzési Döntőbizottság véglegessé vált, – a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki;
+j) esetében az ajánlatkérő bizonyítani tudja, hogy az adott eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a közbeszerzési eljárásban, vagy korábbi közbeszerzési vagy koncessziós beszerzési eljárásból ebből az okból kizárták, és
+
+ja) ha a kizárás miatt jogorvoslatra nem került sor, az ajánlatkérő megítélése szerint a kizárás alapjául szolgáló cselekmény miatt a szerződés teljesítése vonatkozásában a megbízhatósága alapos okkal megkérdőjelezhető, az érintett eljárás lezárulásától számított három évben, vagy
+
+jb) ha a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését a jogtalan befolyásolás megállapítása mellett – a Közbeszerzési Döntőbizottság véglegessé vált, – a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki;
 
 k) tekintetében a következő feltételek valamelyike megvalósul:
 
@@ -62,9 +70,11 @@ n) a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti – három évnél nem r�
 
 o) esetében az ajánlatkérő bizonyítani tudja, hogy az adott közbeszerzési eljárásban a gazdasági szereplő más gazdasági szereplővel a verseny torzítására irányuló megállapodást kötött;
 
-p) a közbeszerzési vagy koncessziós beszerzési eljárás eredményeként kötött szerződésben részére biztosított előleget nem a szerződésnek megfelelően használta fel, és ezt három évnél nem régebben meghozott, jogerős bírósági, véglegessé vált közigazgatási vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági határozat megállapította;
+p)
 
-q) súlyosan megsértette a közbeszerzési eljárás vagy koncessziós beszerzési eljárás eredményeként kötött szerződés teljesítésére e törvényben előírt rendelkezéseket, és ezt a Közbeszerzési Döntőbizottság véglegessé vált, – vagy a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – 90 napnál nem régebben meghozott határozata megállapította.
+q)
+
+(1a) Az (1) bekezdés c) pontja azzal az eltéréssel alkalmazandó, hogy az ajánlatkérő dönthet úgy, hogy nem zárja ki azon gazdasági szereplőt, amelynek tekintetében a kizáró ok szerinti valamely helyzet fennáll, amennyiben az ajánlatkérő megállapította, hogy – az üzletmenet-folytonosság biztosításával kapcsolatos jogszabályokat és intézkedéseket figyelembe véve – az érintett gazdasági szereplő képes lesz a szerződés teljesítésére.
 
 (2) A gazdasági szereplő akkor sem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt alkalmasság igazolásában, amennyiben
 
@@ -96,4 +106,4 @@ kell érteni.
 
 (6) Az ajánlatkérő az eljárást megindító felhívásban köteles hivatkozni az (1) és (2) bekezdésben foglalt kizáró okokra.
 
-(7) Az ajánlatkérő – az érintett ajánlattevő, részvételre jelentkező, alvállalkozó, alkalmasság igazolásában részt vevő szervezet nevének és címének (székhelyének, lakóhelyének) az eljárás tárgyának és azonosítójának, valamint a kizárás és a kizárt gazdasági szereplő erről való tudomásszerzése időpontjának megjelölésével – köteles tájékoztatni a Közbeszerzési Hatóságot az (1) bekezdés i) és j) pontja szerinti kizárásról és a kizárás időpontjáról.
+(7) Az ajánlatkérő – az érintett ajánlattevő, részvételre jelentkező, alvállalkozó, alkalmasság igazolásában részt vevő szervezet nevének és címének (székhelyének, lakóhelyének) az eljárás tárgyának és azonosítójának, valamint a kizárás és a kizárt gazdasági szereplő erről való tudomásszerzése időpontjának megjelölésével, valamint a kizárásra okot adó cselekmény és az eset lényeges körülményeinek leírásával – köteles tájékoztatni a Közbeszerzési Hatóságot az (1) bekezdés i) és j) pontja szerinti kizárásról és a kizárás időpontjáról.

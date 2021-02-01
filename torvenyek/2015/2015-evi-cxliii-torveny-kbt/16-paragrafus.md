@@ -1,6 +1,6 @@
 ## A közbeszerzés becsült értéke
 
-16. § (1) A közbeszerzés becsült értékén a közbeszerzés megkezdésekor annak tárgyáért az adott piacon általában kért vagy kínált – általános forgalmi adó nélkül számított, a 17–20. §-ban foglaltakra tekintettel megállapított – teljes ellenszolgáltatást kell érteni. Opcionális részt tartalmazó ajánlatkérés esetén a teljes ellenszolgáltatásba az opcionális rész értékét is bele kell érteni.
+16. § (1) A közbeszerzés becsült értékén a közbeszerzés megkezdésekor annak tárgyáért az adott piacon általában kért vagy kínált – általános forgalmi adó nélkül számított, a 17–20. §-ban foglaltakra tekintettel megállapított – teljes ellenszolgáltatást kell érteni. Opcionális részt tartalmazó ajánlatkérés esetén a teljes ellenszolgáltatásba az opcionális rész értékét is bele kell érteni. Mennyiségi eltérés meghatározása esetén a szerződésben megjelölt legnagyobb mennyiséget kell figyelembe venni a becsült érték meghatározása során.
 
 (2) A közbeszerzés becsült értékébe be kell számítani az ajánlatkérő által a részvételre jelentkezők vagy az ajánlattevők részére fizetendő díjat vagy egyéb kifizetést (jutalékot) is, ha az ajánlatkérő teljesít ilyen jellegű fizetést.
 

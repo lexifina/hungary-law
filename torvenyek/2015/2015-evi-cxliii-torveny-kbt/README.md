@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2020-08-01 | 2020. évi LXXVI. törvény | 2015-143-00-00.36 |
 | 2020-12-11 | 2020. évi CXXVIII. törvény | 2015-143-00-00.37 |
 | 2021-01-01 | 2020. évi CXXVIII. törvény | 2015-143-00-00.38 |
+| 2021-02-01 | 2020. évi CXXVIII. törvény | 2015-143-00-00.39 |
