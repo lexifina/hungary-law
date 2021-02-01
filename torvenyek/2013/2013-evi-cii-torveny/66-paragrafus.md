@@ -16,6 +16,8 @@ g) megszegi a hivatásos halőrök alkalmazásával és bejelentésével kapcsol
 
 h) a 10. § (3) bekezdés szerint előírt kötelezettségének teljesítését a határozat kézhezvételétől számított 60 napon belül nem kezdi meg.
 
+i) területi jegy helyett olyan okmányt ad ki, amely az e törvény végrehajtására kiadott rendeletben meghatározott kötelező tartalmi elemeket nem, vagy csak részben tartalmazza.
+
 (2) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki a halgazdálkodási vízterülettel érintett ingatlan tulajdonosára, használójára, ha a halgazdálkodási szolgalmi jog gyakorlását jelentős mértékben akadályozza.
 
 (3) A (2) bekezdés alkalmazásában jelentős mértékűnek minősül az akadályozás, ha a halőrzéssel, a haltelepítéssel, a halállomány védelmével kapcsolatos feladatok ellátását akadályozza, illetve az arra egyébként jogosult személy horgászatát akadályozza.

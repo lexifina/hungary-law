@@ -16,7 +16,7 @@ g) a halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban 
 
 h) a törvényben foglalt tilalmakat és korlátozásokat megszegve halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó;
 
-i) a halászati engedély, állami horgászjegy, állami halászjegy igénylése során az e törvény végrehajtására kiadott rendeletben meghatározott nyilatkozatot valótlan tartalommal megtevő;
+i) a horgász regisztráció, a halászati engedély, állami horgászjegy, turista állami horgászjegy, állami halászjegy igénylése, halfogásra jogosító okmány kiváltása során valótlan adatot szolgáltató, illetve a halfogásra jogosító okmány kiváltására nem jogosult személy részére okmányt értékesítő;
 
 j) halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő horgászkészséggel haltermelési létesítményen vagy annak partján tartózkodó és a 43. § (2) bekezdés a) pontja szerinti pótlást elmulasztó;
 
@@ -48,9 +48,13 @@ személlyel szemben.
 
 (1a) A halgazdálkodási hatóság országos illetékességű szerve alkalmazásában álló állami halászati őr az (1) bekezdés szerinti halvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
 
+(1b) A halgazdálkodási hatóság halvédelmi bírságot szab ki azzal a személlyel szemben, aki az idegen és nem honos fajokat haltermelési létesítménybe engedély nélkül telepít.
+
+(1c) A halgazdálkodási hatóság halvédelmi bírságot szab ki azzal a személlyel szemben, aki a halászati engedély birtokában kifogott törzsállomány egyedét kereskedelmi forgalomba hozza.
+
 (2) Ha a jogsértés súlya azt indokolja, a halgazdálkodási hatóság a vízilétesítmény üzemeltetőjére halvédelmi bírságot szab ki, ha a vízilétesítmény üzemeltetője a 19. § (1) vagy (3) bekezdésben foglaltaknak ismétlődő jelleggel nem tesz eleget és emiatt jelentős halpusztulás következik be.
 
-(3) A halvédelmi bírság legkisebb összege tízezer forint, legmagasabb összege ötszázezer forint.
+(3) A halvédelmi bírság legkisebb összege tízezer forint, legmagasabb összege kettőmillió forint.
 
 (4) A halgazdálkodási hatóság halvédelmi bírságot szab ki az igazolatlan eredetű, nem nyomon követhető halat, halterméket vagy más hasznos víziállatot forgalmazó természetes vagy jogi személlyel szemben.
 

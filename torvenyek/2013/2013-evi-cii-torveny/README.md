@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-102-00-00
 | 2020-01-01 | 2019. évi CIV. törvény | 2013-102-00-00.19 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2013-102-00-00.20 |
 | 2021-01-01 | 2020. évi CLXXIV. törvény | 2013-102-00-00.21 |
+| 2021-02-01 | 2020. évi CLXXIV. törvény | 2013-102-00-00.22 |
