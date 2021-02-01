@@ -1,10 +1,10 @@
-## 29. §[^10] A 3. § (4) bekezdés b) pontjának alkalmazásban a 2018. január 1-jét megelőzően törvényszéki nyilvántartásba vett jogtanácsosként teljesített gyakorlat a kamarai jogtanácsosi gyakorlattal azonosan minősül.
+## 29. §[^14] A 3. § (4) bekezdés b) pontjának alkalmazásban a 2018. január 1-jét megelőzően törvényszéki nyilvántartásba vett jogtanácsosként teljesített gyakorlat a kamarai jogtanácsosi gyakorlattal azonosan minősül.
 
 1. melléklet a 184/2017. (VII. 5.) Korm. rendelethez
 
 ## Az élveszületési lap adattartalma
 
-1.[^11] Anyakönyvi azonosító, az eseményazonosító
+1.[^15] Anyakönyvi azonosító, az eseményazonosító
 
 2. A gyermek
 
@@ -18,7 +18,7 @@
 
 3. Az anya
 
-3.1.[^12] születési családi és utóneve, valamint házassági neve
+3.1.[^16] születési családi és utóneve, valamint házassági neve
 
 3.2. családi állapota
 
@@ -56,6 +56,6 @@
 
 12. A gyermek súlya, hossza és 5 perces Apgar-értéke, fejlődési rendellenessége
 
-[^10]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 393/2017. (XII. 13.) Korm. rendelet 74. § (1) bekezdése iktatta be.
-[^11]: Az 1. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^12]: Az 1. melléklet 3.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 393/2017. (XII. 13.) Korm. rendelet 74. § (1) bekezdése iktatta be.
+[^15]: Az 1. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^16]: Az 1. melléklet 3.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
