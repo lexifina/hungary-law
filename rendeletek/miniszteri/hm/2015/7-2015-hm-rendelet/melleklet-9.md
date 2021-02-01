@@ -1,12 +1,12 @@
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | repülési pótlék, az éves repülési tervben meghatározott repülési feladatok 100%-os teljesítése esetén, évente | 25–100 |
+| 1. | repülési pótlék, az éves repülési tervben meghatározott repülési feladatok 100%-os teljesítése esetén, évente | 25–100 |
 
-|  | 2. | ejtőernyősugrási pótlék, az ugrások számától függően, ugrásonként | 2–5 |
+| 2. | ejtőernyősugrási pótlék, az ugrások számától függően, ugrásonként | 2–5 |
 
-|  | 3. | katasztrófavédelmi pótlék, valamint a Hvt. 36. § (1) bekezdés h) pont szerinti feladat végrehajtásáért járó pótlék, naponta | 5,80 |
+| 3. | katasztrófavédelmi pótlék, valamint a Hvt. 36. § (1) bekezdés h) pontja szerinti feladat végrehajtásáért járó pótlék, naponta | 5,80 |
 
-9. melléklet a 7/2015. (VI. 22.) HM rendelethez[^202]
+9. melléklet a 7/2015. (VI. 22.) HM rendelethez[^208]
 
 ## A honvéd altiszt-jelölt ösztöndíja
 
@@ -48,4 +48,4 @@ III. Tanulmányi pótlék szorzószáma havonta, a honvéd altiszt-jelölt előz
 
 IV. Egyéb pótlék a honvédelmi illetményalap százalékában
 
-[^202]: A 9. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § b) pontja iktatta be.
+[^208]: A 9. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § b) pontja iktatta be.

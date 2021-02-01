@@ -254,54 +254,54 @@
 
 | 126 | 5.7. Munkavezető, foglalkozásvezető | kiemelt főtiszt, egészségügyi főtiszt, főtiszt, egészségügyi tiszt, tiszt |
 
-8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^201]
+8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^207]
 
 ## A honvéd tisztjelölt ösztöndíja
 
 I. Az alapösztöndíj szorzószáma havonta
 
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | szakaszparancsnoki feladatok ellátására kijelöltek esetén | 0,60 |
+| 1. | szakaszparancsnoki feladatok ellátására kijelöltek esetén | 1,2 |
 
-|  | 2. | rajparancsnoki feladatok ellátására kijelöltek esetén | 0,55 |
+| 2. | rajparancsnoki feladatok ellátására kijelöltek esetén | 1,1 |
 
-|  | 3. | az 1–2. pontokba nem tartozók esetén | 0,50 |
+| 3. | az 1–2. pontokba nem tartozók esetén | 1,0 |
 
 II. Az alapösztöndíj-kiegészítés szorzószáma havonta a katonai alapfelkészítés időszakában és az egyes tanulmányi szemeszterek alatt
 
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | I. szemeszter (katonai alapfelkészítés) | 0,25 |
+| 1. | I. szemeszter (katonai alapfelkészítés) | 0,45 |
 
-|  | 2. | II. szemeszter | 0,26 |
+| 2. | II. szemeszter | 0,46 |
 
-|  | 3. | III. szemeszter | 0,27 |
+| 3. | III. szemeszter | 0,47 |
 
-|  | 4. | IV. szemeszter | 0,28 |
+| 4. | IV. szemeszter | 0,48 |
 
-|  | 5. | V. szemeszter | 0,29 |
+| 5. | V. szemeszter | 0,49 |
 
-|  | 6. | VI. szemeszter | 0,30 |
+| 6. | VI. szemeszter | 0,50 |
 
-|  | 7. | VII. szemeszter | 0,31 |
+| 7. | VII. szemeszter | 0,51 |
 
-|  | 8. | VIII. szemeszter | 0,32 |
+| 8. | VIII. szemeszter | 0,52 |
 
 III. A honvéd tisztjelölt előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlaga alapján számítandó tanulmányi pótlékának szorzószáma havonta
 
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | 3,50 és alatta | nem jár |
+| 1. | 3,50 és alatta | nem jár |
 
-|  | 2. | 3,51–4,00 között | 0,10 |
+| 2. | 3,51–4,00 között | 0,20 |
 
-|  | 3. | 4,01–4,50 között | 0,15 |
+| 3. | 4,01–4,50 között | 0,25 |
 
-|  | 4. | 4,51–5,00 között | 0,20 |
+| 4. | 4,51–5,00 között | 0,30 |
 
-|  | 5. | miniszteri utasításban megfogalmazott legmagasabb követelményeknek megfelelők esetében | 0,40 |
+| 5. | miniszteri utasításban meghatározott legmagasabb követelményeknek megfelelők esetében | 0,60 |
 
 IV. Egyéb pótlék a honvédelmi illetményalap százalékában
 
-[^201]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be.
+[^207]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be, szövege a 7/2021. (I. 29.) HM rendelet 5. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 48/F. § Az állomány tagja havonta a részére járó alapilletmény, honvédelmi szolgálati díj, rendszeres illetménypótlék, valamint a munkaerőpiaci kiegészítő illetmény együttes összege 10%-ának megfelelő összegre jogosult honvédelmi szervezetek kiegészítő illetménye címén.
 
-## 29/G. [^99] A honvédségi szakképző intézmény oktatóinak kiegészítő illetménye
+## 29/G. [^103] A honvédségi szakképző intézmény oktatóinak kiegészítő illetménye
 
 48/G. § (1) A szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerinti honvédségi szakképző intézménynél az Szkt. oktatói munkakörbe tartozó szolgálati beosztást kinevezéssel, áthelyezéssel, vezénylés alapján vagy megbízás keretében ellátó állomány tagja – a (2) és (3) bekezdésben foglaltakra tekintettel – kiegészítő illetményre jogosult.
 
@@ -8,4 +8,4 @@
 
 (3) A (2) bekezdés szerinti intézményi elkülönített keret terhére állapítható meg a honvédségi szakképző intézmény parancsnoka, igazgatója részére járó kiegészítő illetmény, ha esetében az (1) bekezdés szerinti kiegészítő illetményre való jogosultság feltételei fennállnak.
 
-[^99]: A 29/G. alcímet (48/G. §) a 13/2020. (X. 14.) HM rendelet 37. §-a iktatta be.
+[^103]: A 29/G. alcímet (48/G. §) a 13/2020. (X. 14.) HM rendelet 37. §-a iktatta be.
