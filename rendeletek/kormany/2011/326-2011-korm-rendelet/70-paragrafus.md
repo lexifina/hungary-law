@@ -1,44 +1,44 @@
-70. § (1)[^251] Kérelemre P betűjelű ideiglenes rendszámtáblát kell kiadni
+70. § (1)[^264] Kérelemre P betűjelű ideiglenes rendszámtáblát kell kiadni
 
-a)[^252] a fő tevékenysége szerint járműgyártó gazdálkodó szervezetnek az általa gyártott, vagy tesztelési célból részére üzemeltetésre átadott, de forgalomba még nem helyezett járművei tesztelése,
+a)[^265] a fő tevékenysége szerint járműgyártó gazdálkodó szervezetnek az általa gyártott, vagy tesztelési célból részére üzemeltetésre átadott, de forgalomba még nem helyezett járművei tesztelése,
 
 b) a fő tevékenysége szerint gépjármű-kereskedelemre jogosult gazdálkodó szervezetnek a még forgalomba nem helyezett, vagy forgalomból kérelemre ideiglenesen kivont jármű kereskedelmi célból történő szállítása, továbbá kereskedelmi célú kipróbálása,
 
-c)[^253] a gépjármű-fenntartó szervezetnek a forgalomból kérelemre ideiglenesen kivont, vagy lejárt műszaki érvényességű jármű javításához kapcsolódó diagnosztikai tevékenység (a javítást megelőző vagy azt követő kipróbálás), és
+c)[^266] a gépjármű-fenntartó szervezetnek a forgalomból kérelemre ideiglenesen kivont, vagy lejárt műszaki érvényességű jármű javításához kapcsolódó diagnosztikai tevékenység (a javítást megelőző vagy azt követő kipróbálás), és
 
 d) a közlekedési kutatóintézetnek járművizsgálatok végzése,
 
-e)[^254] a közlekedési hatóság nyilvántartásában szereplő, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott járműfejlesztő szervezetnek tesztelés
+e)[^267] a közlekedési hatóság nyilvántartásában szereplő, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott járműfejlesztő szervezetnek tesztelés
 
-céljából.
+## céljából.
 
-(2)[^255] A P betűjelű ideiglenes rendszámtáblával ellátott jármű vezetése az ideiglenes forgalomban tartási engedély jogosítottján vagy a vele munkavégzésre irányuló jogviszonyban álló személyen kívül másnak nem engedhető át, kivéve
+(2)[^268] A P betűjelű ideiglenes rendszámtáblával ellátott jármű vezetése az ideiglenes forgalomban tartási engedély jogosítottján vagy a vele munkavégzésre irányuló jogviszonyban álló személyen kívül másnak nem engedhető át, kivéve
 
 a) az (1) bekezdés a) pontjában meghatározott esetben a járműgyártó által a teszteléssel megbízott személyt,
 
 b) az (1) bekezdés b) pontjában meghatározott esetben, azonban ez esetben a jármű használata során a gépjármű-kereskedelemre jogosult gazdálkodó szervezettel munkavégzésre irányuló jogviszonyban álló személynek is a járműben kell tartózkodnia. A P betűjelű ideiglenes rendszámtábla használatának jogszerűségét a közúti ellenőrzés során okirattal kell igazolni,
 
-c)[^256] az (1) bekezdés e) pontjában meghatározott esetben a fejlesztő által a teszteléssel megbízott személyt.
+c)[^269] az (1) bekezdés e) pontjában meghatározott esetben a fejlesztő által a teszteléssel megbízott személyt.
 
-(3)[^257] Az (1) bekezdés c) pontjában meghatározott járműjavításra jogosult szervezet, vállalkozás részére kiadott P betűjelű ideiglenes rendszámtáblával ellátott járművet olyan személy vezetheti, aki rendelkezik a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben a járműszerelői tevékenység önálló végzéséhez előírt képesítéssel. A járművet vezető személy e feltétel fennállását a járműjavító szervezet által kiadott okirattal köteles igazolni.
+(3)[^270] Az (1) bekezdés c) pontjában meghatározott járműjavításra jogosult szervezet, vállalkozás részére kiadott P betűjelű ideiglenes rendszámtáblával ellátott járművet olyan személy vezetheti, aki rendelkezik a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben a járműszerelői tevékenység önálló végzéséhez előírt képesítéssel. A járművet vezető személy e feltétel fennállását a járműjavító szervezet által kiadott okirattal köteles igazolni.
 
-(4)[^258] A P betűjelű ideiglenes rendszámtáblával ellátott járműnek a közúti forgalomban való részvételéről a közlekedési igazgatási hatóság által hitelesített indítási naplót kell vezetni.
+(4)[^271] A P betűjelű ideiglenes rendszámtáblával ellátott járműnek a közúti forgalomban való részvételéről a közlekedési igazgatási hatóság által hitelesített indítási naplót kell vezetni.
 
 (5) A P betűjelű ideiglenes rendszámtáblával ellátott járművel a személy- és teherszállítás, valamint a vontatás tilos. A korlátozás alól az engedélyező közlekedési igazgatási hatóság indokolt esetben felmentést adhat.
 
-(6)[^259] A P betűjelű ideiglenes rendszámtáblával ellátott jármű esetében az (5) bekezdésben meghatározott személy- és teherszállítás, valamint vontatási tilalom alól akkor lehet felmentést adni, ha a tesztelés a jármű ezen jellemzőinek megismerésére irányul.
+(6)[^272] A P betűjelű ideiglenes rendszámtáblával ellátott jármű esetében az (5) bekezdésben meghatározott személy- és teherszállítás, valamint vontatási tilalom alól akkor lehet felmentést adni, ha a tesztelés a jármű ezen jellemzőinek megismerésére irányul.
 
 A közlekedési igazgatási hatóság a jogszabályban előírt korlátozásokon túl útvonalbeli, területi és időbeli korlátozásokat írhat elő. Ezt és a jogszabályban meghatározott tilalmak alóli felmentés tényét az ideiglenes forgalomban tartási engedélyen fel kell tüntetni.
 
-(7)[^260] A P betűjelű ideiglenes rendszámtáblával ellátott vagy – ha a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – azzal ellátott járművet vontató jármű vezetője a közúti közlekedés során köteles igazolni az ideiglenes forgalomban tartási engedéllyel, az indítási naplóval és a (2)–(3) bekezdésben meghatározott feltételeket igazoló okirattal a rendszámtábla használatának jogszerűségét, valamint a kötelező gépjármű-felelősségbiztosítás fennállását.
+(7)[^273] A P betűjelű ideiglenes rendszámtáblával ellátott vagy – ha a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – azzal ellátott járművet vontató jármű vezetője a közúti közlekedés során köteles igazolni az ideiglenes forgalomban tartási engedéllyel, az indítási naplóval és a (2)–(3) bekezdésben meghatározott feltételeket igazoló okirattal a rendszámtábla használatának jogszerűségét, valamint a kötelező gépjármű-felelősségbiztosítás fennállását.
 
-[^251]: A 70. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^252]: A 70. § (1) bekezdés a) pontja a 90/2015. (IV. 9.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^253]: A 70. § (1) bekezdés c) pontja a 90/2015. (IV. 9.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
-[^254]: A 70. § (1) bekezdés e) pontját a 468/2016. (XII. 23.) Korm. rendelet 17. § (1) bekezdése iktatta be.
-[^255]: A 70. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^256]: A 70. § (2) bekezdés c) pontját a 468/2016. (XII. 23.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^257]: A 70. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^258]: A 70. § (4) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (7) bekezdésével megállapított szöveg.
-[^259]: A 70. § (6) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^260]: A 70. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 468/2016. (XII. 23.) Korm. rendelet 31. § f) pontja szerint módosított szöveg.
+[^264]: A 70. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^265]: A 70. § (1) bekezdés a) pontja a 90/2015. (IV. 9.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^266]: A 70. § (1) bekezdés c) pontja a 90/2015. (IV. 9.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^267]: A 70. § (1) bekezdés e) pontját a 468/2016. (XII. 23.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^268]: A 70. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^269]: A 70. § (2) bekezdés c) pontját a 468/2016. (XII. 23.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^270]: A 70. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^271]: A 70. § (4) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (7) bekezdésével megállapított szöveg.
+[^272]: A 70. § (6) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^273]: A 70. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 468/2016. (XII. 23.) Korm. rendelet 31. § f) pontja szerint módosított szöveg.

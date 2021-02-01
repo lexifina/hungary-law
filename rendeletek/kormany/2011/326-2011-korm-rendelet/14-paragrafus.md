@@ -1,3 +1,3 @@
-## 13. §[^57] Járművezetésre jogosító okmányt az kaphat, aki az egészségi, pályaalkalmassági, képzési és vizsgáztatási előírásoknak, továbbá az e rendeletben meghatározott feltételeknek megfelel, valamint az elsősegélynyújtási ismeretek megszerzését vagy annak megszerzése alóli mentességét a közlekedési igazgatási hatóság részére igazolja.
+## 13. §[^61] Járművezetésre jogosító okmányt az kaphat, aki az egészségi, pályaalkalmassági, képzési és vizsgáztatási előírásoknak, továbbá az e rendeletben meghatározott feltételeknek megfelel, valamint az elsősegélynyújtási ismereteket megszerezte vagy az elsősegélynyújtási vizsgakötelezettsége alól a Magyar Vöröskereszt igazolása szerint mentesült.
 
-[^57]: A 13. § az 516/2017. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^61]: A 13. § az 516/2017. (XII. 29.) Korm. rendelet 20. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 45. § 3. pontja szerint módosított szöveg.

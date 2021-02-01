@@ -1,18 +1,18 @@
-18. § (1)[^78] A közlekedési igazgatási eljárásban a külföldi hatóság által kiállított, a 17. § (2) bekezdés a) vagy b) pontjában meghatározottaknak megfelelő vezetői engedély – kivéve az ideiglenes jelleggel vagy a járművezetés tanulására kiadott okmányokat – akkor tekinthető érvényesnek, ha:
+18. § (1)[^84] A közlekedési igazgatási eljárásban a külföldi hatóság által kiállított, a 17. § (2) bekezdés a) vagy b) pontjában meghatározottaknak megfelelő vezetői engedély – kivéve az ideiglenes jelleggel vagy a járművezetés tanulására kiadott okmányokat – akkor tekinthető érvényesnek, ha:
 
 a) a vezetői engedély jogosítottja nyilatkozik arról, hogy a külföldi vezetői engedély kiadásakor a kiállító országban rendelkezett szokásos tartózkodási hellyel vagy lakóhellyel;
 
-b)[^79] a külföldi vezetői engedély jogosítottja a magyar vezetői engedély kiadására irányuló eljárás időpontjában megfelel az e rendeletben meghatározott életkori és jártassági feltételeknek.
+b)[^85] a külföldi vezetői engedély jogosítottja a magyar vezetői engedély kiadására irányuló eljárás időpontjában megfelel az e rendeletben meghatározott életkori és jártassági feltételeknek.
 
-(2)[^80] Az (1) bekezdésben meghatározott feltételeknek megfelelő külföldi vezetői engedély vizsgakötelezettség nélkül honosítható, illetve – más EGT-államban kiállított vezetői engedély esetén – cserélhető. A 17. § (2) bekezdés b) pontjában meghatározott tagállamban kiállított vezetői engedély a kategóriabővítés szempontjából a képzés és vizsgáztatás folyamatában is megfelelőnek tekintendő.
+(2)[^86] Az (1) bekezdésben meghatározott feltételeknek megfelelő külföldi vezetői engedély vizsgakötelezettség nélkül honosítható, illetve – más EGT-államban kiállított vezetői engedély esetén – cserélhető. A 17. § (2) bekezdés b) pontjában meghatározott tagállamban kiállított vezetői engedély a kategóriabővítés szempontjából a képzés és vizsgáztatás folyamatában is megfelelőnek tekintendő.
 
-(3)[^81] Tanfolyammentes közlekedési alapismeretekből tett sikeres elméleti vizsgát követően kerülhet sor a vezetői engedély honosítására, ha
+(3)[^87] Tanfolyammentes közlekedési alapismeretekből tett sikeres elméleti vizsgát követően kerülhet sor a vezetői engedély honosítására, ha
 
 a) a külföldi vezetői engedélyt nem a 17. § (2) bekezdés a) vagy b) pontjában meghatározott országban állították ki és
 
 b) a külföldi vezetői engedélyről készült hiteles fordítás alapján a vezetési jogosultság tartalma megfeleltethető az 1. és 2. mellékletben meghatározott valamely nemzetközi kategória tartalmának.
 
-(3a)[^82] Tanfolyammentes gyakorlati vezetési és közlekedési alapismeretekből tett sikeres vizsgát követően kerülhet sor a vezetői engedély honosítására, ha
+(3a)[^88] Tanfolyammentes gyakorlati vezetési és közlekedési alapismeretekből tett sikeres vizsgát követően kerülhet sor a vezetői engedély honosítására, ha
 
 a) a külföldi vezetői engedélyt nem a 17. § (2) bekezdés a) vagy b) pontjában meghatározott országban állították ki és
 
@@ -22,7 +22,7 @@ b) a külföldi vezetői engedélyről készült hiteles fordítás alapján sem
 
 (5) Ha a külföldi vezetői engedélyt kiállító hatóság a vezetési jogosultságot korlátozta, vagy a jogosultság gyakorlását feltételhez kötötte, a közlekedési igazgatási hatóság az okmány hiteles fordítását a 17. § (1) bekezdésében és (2) bekezdés a) és c) pontjában felsorolt feltételeknek való megfelelés esetén is kérheti.
 
-(6)[^83] A Központi Okmányiroda megkeresi a harmadik ország hatóságát, ha a magyar vezetői engedély kiállítására irányuló eljárás során kétség merül fel a benyújtott vezetői engedély valódiságával vagy az ügyfél vezetési jogosultságával kapcsolatban.
+(6)[^89] A Központi Okmányiroda megkeresi a harmadik ország hatóságát, ha a magyar vezetői engedély kiállítására irányuló eljárás során kétség merül fel a benyújtott vezetői engedély valódiságával vagy az ügyfél vezetési jogosultságával kapcsolatban.
 
 (7) A harmadik ország által kiállított vezetői engedély honosítása során az engedély-nyilvántartásba és a kiadásra kerülő magyar vezetői engedélybe be kell jegyezni a vezetői engedély honosításának tényét, valamint a kérelmező által benyújtott vezetői engedélyt kiadó államot. A nyilvántartásba és a kiadásra kerülő vezetői engedélybe a bejegyzés a 8. melléklet 70. kódjának, valamint a kiadó állam – az országok és igazgatási egységeik nevének kódjaira vonatkozó MSZ EN ISO 3166-1 nemzeti szabványban meghatározott – háromjegyű betűkódjának (a továbbiakban: országkód) alkalmazásával történik.
 
@@ -30,9 +30,9 @@ b) a külföldi vezetői engedélyről készült hiteles fordítás alapján sem
 
 (9) Ha egy másik EGT-állam által kiadott – a 8. mellékletben meghatározott 70. kódot és a kiadó harmadik állam országkódját tartalmazó – vezetői engedély jogosultja szokásos tartózkodási helyét Magyarországra helyezi át, a vezetői engedély kiadására irányuló eljárásban az e rendeletben meghatározott, eredeti vezetői engedélyt kiadó harmadik ország tekintetében alkalmazandó szabályokat kell alkalmazni, és a (7) bekezdés szerint kell eljárni.
 
-[^78]: A 18. § (1) bekezdés nyitó szövegrészében a 467/2015. (XII. 29.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
-[^79]: A 18. § (1) bekezdés b) pontja a 468/2016. (XII. 23.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
-[^80]: A 18. § (2) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
-[^81]: A 18. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze a 90/2015. (IV. 9.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^82]: A 18. § (3a) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^83]: A 18. § (6) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 7. §-ával megállapított, a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^84]: A 18. § (1) bekezdés nyitó szövegrészében a 467/2015. (XII. 29.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^85]: A 18. § (1) bekezdés b) pontja a 468/2016. (XII. 23.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^86]: A 18. § (2) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
+[^87]: A 18. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze a 90/2015. (IV. 9.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^88]: A 18. § (3a) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^89]: A 18. § (6) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 7. §-ával megállapított, a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.

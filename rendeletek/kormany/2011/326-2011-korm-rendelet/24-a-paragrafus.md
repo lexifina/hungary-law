@@ -1,7 +1,9 @@
-24/A. §[^106] (1) A 13. §-ban foglaltakra tekintettel, a vezetői engedély iránti kérelem benyújtásakor az ügyfélnek igazolnia kell, hogy a jogszabályban előírt egészségi alkalmassági előírásoknak megfelel.
+24/A. §[^115] (1)[^116] A 13. §-ban foglaltakra tekintettel, a vezetői engedély iránti kérelem benyújtásakor a közlekedési igazgatási hatóság a nyilvántartásba elektronikus úton érkezett adatok alapján ellenőrzi, hogy a járművezető a jogszabályban előírt egészségi alkalmassági előírásoknak megfelel-e, valamint a vezetői engedély első alkalommal történő kiadása esetén azt is, hogy az elsősegélynyújtási ismereteket megszerezte-e, vagy az alól mentesült-e.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően nem kell igazolni az egészségi alkalmasságot abban az esetben, ha a közúti közlekedési nyilvántartásban szereplő egészségi adatok alapján az ügyfél egészségi alkalmasságának határideje még nem járt le és időközben nem minősítették egészségi szempontból alkalmatlannak.
+(2)[^117] A vezetői engedély automatikus kiállítása esetén a Nyilvántartó elektronikusan, az engedély-nyilvántartást támogató informatikai szakrendszer segítségével végzi el az ügyfél azonosítását és a vezetői engedély kiadásához szükséges valamennyi feltétel teljesülésének ellenőrzését.
 
 (3) A vezetői engedély kiállítása iránti kérelem benyújtásakor az ügyfélnek igazolnia kell, hogy az eljárás illetékét, – honosítás vagy nemzetközi vezetői engedély kiállítása esetén – díját megfizette. Az illeték vagy díj megfizetését igazoló iratot a közlekedési igazgatási hatóság a Nyilvántartónak okmánytári alapiratként továbbítja.
 
-[^106]: A 24/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 367. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^115]: A 24/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 367. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^116]: A 24/A. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^117]: A 24/A. § (2) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 31. §-ával megállapított szöveg.

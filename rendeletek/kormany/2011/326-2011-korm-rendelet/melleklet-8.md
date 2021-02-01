@@ -28,7 +28,7 @@
 
 ## 9.2. az „A” kategóriába tartozó motorkerékpár vezetésére, előzetes motorkerékpár vezetési gyakorlat hiányában.
 
-## 10.[^432] A „C” , a „CE”, a „D1” és a „D1E” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” és a „DE” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható, azonban ezen gépjármű vezetésére jogosító engedélyek – a 8. és a 9. pontban meghatározott életév betöltéséig – kizárólag Magyarország területén jogosítanak vezetésre.
+## 10.[^454] A „C” , a „CE”, a „D1” és a „D1E” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” és a „DE” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható, azonban ezen gépjármű vezetésére jogosító engedélyek – a 8. és a 9. pontban meghatározott életév betöltéséig – kizárólag Magyarország területén jogosítanak vezetésre.
 
 ## II. Jártassági feltételek
 
@@ -56,7 +56,7 @@
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^433]
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^455]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -64,5 +64,5 @@
 
 GÉPJÁRMŰVEZETŐ (egészségügyi okok)
 
-[^432]: A 7. melléklet I. pont 10. alpontja a 8/2016. (II. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^433]: A 8. melléklet a 467/2015. (XII. 29.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^454]: A 7. melléklet I. pont 10. alpontja a 8/2016. (II. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^455]: A 8. melléklet a 467/2015. (XII. 29.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
