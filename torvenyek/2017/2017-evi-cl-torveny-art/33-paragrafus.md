@@ -2,6 +2,8 @@
 
 Az állami adó- és vámhatóság hivatalból állapítja meg az adóazonosító jelét annak a természetes személynek,
 
-a) aki bejelentési kötelezettségét elmulasztotta, vagy
+a) akire vonatkozóan a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény alapján adatot szolgáltatott,
 
-b) akinek az adóhatóság jogszabályban meghatározott feladatainak végrehajtásához adóhatósági nyilvántartása szükséges.
+b) aki bejelentési kötelezettségét elmulasztotta, vagy
+
+c) akinek az adóhatóság jogszabályban meghatározott feladatainak végrehajtásához adóhatósági nyilvántartása szükséges.
