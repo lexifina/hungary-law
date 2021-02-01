@@ -28,7 +28,7 @@
 
 | e) járműkísérő lap kiadása | 1 600 |
 
-| f) a forgalomból kérelemre történő ideiglenes, átmeneti és végleges kivonás, az ideiglenes forgalomból történő kivonás kérelemre történő megszüntetése | 2 300 |
+| f) a forgalomból kérelemre történő ideiglenes kivonás, ha a kérelem nem az első forgalomba helyezéssel egy időben kerül előterjesztésre, valamint az átmeneti és végleges kivonás, az ideiglenes forgalomból történő kivonás kérelemre történő megszüntetése, kivonás kérelemre történő meghosszabbítása, megszüntetése | 2 300 |
 
 | g) záradék elrendelése, törlése, ha nem kell forgalmi engedélyt és törzskönyvet kiállítani | 2 300 |
 
