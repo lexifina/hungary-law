@@ -2,11 +2,35 @@
 
 5. § (1) A közlekedési igazgatási hatóság:
 
-a) ellenőrzi a járművezetésre jogosító okmányok (a továbbiakban: engedély) kiállítása, érvényesítése, cseréje, pótlása iránti kérelem adatait, gondoskodik a kérelem teljesítéséről és az engedély ügyfél részére történő kiadásáról;
+a) vezetői engedély kiállítása kapcsán
 
-b) a jármű tulajdonjogát igazoló hatósági okmány (a továbbiakban: törzskönyv) kiállítására, cseréjére, pótlására irányuló kérelem alapján intézkedik a törzskönyv kiállításáról és az ügyfél részére történő kiadásáról;
+aa) ellenőrzi a külföldi vezetői engedély cseréjére, honosítására, visszahonosítására irányuló kérelem teljesítésének feltételeit,
 
-c) ellátja a jármű közúti forgalomban tarthatóságát igazoló okmány kiállításával, cseréjével, pótlásával és az ügyfél részére történő átadásával kapcsolatos feladatokat;
+ab) eljár a magyar vezetői engedély kiállítása, érvényesítése, cseréje, pótlása ügyében azokban az esetekben, amikor a vezetői engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+
+ac) az aa) és ab) alpontban meghatározott esetekben gondoskodik a vezetői engedély kiállításáról,
+
+ad) jogszabályban meghatározott esetekben gondoskodik a vezetői engedély ügyfél részére történő kiadásáról;
+
+b) a jármű tulajdonjogát igazoló hatósági igazolvány (a továbbiakban: törzskönyv) kapcsán:
+
+ba) ellenőrzi a törzskönyv kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
+
+bb) eljár a törzskönyv kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor a törzskönyv automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+
+bc) a ba) és bb) alpontban meghatározott esetekben gondoskodik a törzskönyv kiállításáról,
+
+bd) jogszabályban meghatározott esetekben gondoskodik a törzskönyv ügyfél részére történő kiadásáról;
+
+c) a jármű forgalomban tarthatóságát igazoló okmány kapcsán:
+
+ca) ellenőrzi a jármű forgalomban tarthatóságát igazoló okmány kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
+
+cb) eljár a jármű forgalomban tarthatóságát igazoló okmány kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor az állandó forgalmi engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+
+cc) a ca) és cb) alpontban meghatározott esetekben gondoskodik a jármű forgalomban tarthatóságát igazoló okmány kiállításáról,
+
+cd) jogszabályban meghatározott esetekben gondoskodik a jármű forgalomban tarthatóságát igazoló okmány ügyfél részére történő kiadásáról;
 
 d) ellátja az a)–c) és i) pontokban megjelölt okmányok kiadásával kapcsolatos hatáskörébe utalt adatkezelési feladatokat;
 
@@ -39,3 +63,5 @@ ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS II-ből, valam
 cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása számára a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
 
 cc) a ca) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, és a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
+
+(3) A személyiadat- és lakcímnyilvántartást kezelő szerv a Magyarországon házasságot kötött magyar állampolgár esetén továbbítja a nyilvántartó részére a vezetői engedély, törzskönyv, forgalmi engedély házasságkötésből eredő névváltozás miatti, hivatalbóli cseréjéhez szükséges adatokat.

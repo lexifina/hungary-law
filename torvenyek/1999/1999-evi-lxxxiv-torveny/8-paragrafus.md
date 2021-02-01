@@ -24,6 +24,10 @@ aj) vezetési jogosultságának szünetelésére vonatkozó adatokat,
 
 ak) kényszergyógykezelését elrendelő bíróság megnevezésére és ügyszámára, valamint a kényszergyógykezelés elrendelésének és megszűnésének vagy megszüntetésének időpontjára vonatkozó adatokat.
 
+al) az elsősegély-nyújtási ismeretek megszerzésére (sikeres vizsga időpontja, vizsgaigazolás sorszáma) vagy az elsősegély-nyújtási vizsgakötelezettség alóli mentesülés tényére (mentesülés megállapításának időpontja és a mentesülési igazolás sorszáma) vonatkozó adatokat,
+
+am) vezetői engedély automatikus kiállításához szükséges nyilatkozatait; továbbá
+
 b) az engedély
 
 ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,

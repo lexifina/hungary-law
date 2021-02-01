@@ -1,6 +1,12 @@
 ## Speciális közlekedési igazgatási eljárási szabályok
 
-6. § (1) Az ügyfélnek személyesen kell eljárnia – az elektronikusan is elintézhető ügyek kivételével – a vezetői engedély kiállítása, cseréje, pótlása, valamint a külföldi vezetői engedély honosítása iránti kérelem benyújtása esetén.
+6. § (1) Az ügyfélnek személyesen kell eljárnia
+
+a) a külföldi vezetői engedély cseréje, honosítása vagy visszahonosítása iránti kérelem benyújtása ügyében, vagy
+
+b) ha a vezetői engedély automatikus kiállítása visszautasításra került,
+
+c) ha a vezetői engedély automatikus kiállításának ügyfél által elhárítható akadálya van.
 
 (1a)
 

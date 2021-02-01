@@ -42,6 +42,14 @@ hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározot
 
 hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről,
 
+hd) a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, járművezetői képzés és vizsgáztatás folyamatában tett nyilatkozatairól,
+
 i) a gondnokoltak nyilvántartásának adatkezelője elektronikus úton a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 3. § (1) bekezdés a) pont aa)–ae) alpontjában, valamint b)–e) pontjában meghatározott adatokról, a cselekvőképesség, valamint a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából,
 
 j) a bűnügyi nyilvántartó szerv elektronikus úton a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokról.
+
+k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont ae) alpontjában meghatározott egészségi alkalmassági adatokról és azok változásáról az Elektronikus Egészségügyi Szolgáltatási Téren keresztül,
+
+l) a Magyar Vöröskereszt fővárosi, megyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
+
+m) a személyiadat- és lakcímnyilvántartást kezelő szerv a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, az anyakönyvvezetőnél a házasságkötési szándék bejelentésekor tett nyilatkozatairól.

@@ -1,0 +1,1 @@
+4/E. § A vezetői engedély és a törzskönyv hivatalbóli kiállításáról a nyilvántartó a megszemélyesítést végző szervezet útján, az állandó forgalmi engedély hivatalbóli kiállításáról az okmány jogosultjának lakó-, ennek hiányában tartózkodási vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság útján gondoskodik.

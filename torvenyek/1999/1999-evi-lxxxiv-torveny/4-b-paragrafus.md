@@ -1,0 +1,1 @@
+4/B. § Ha a vezetői engedély 4/A. §-ban foglaltak szerinti automatikus kiállítása valamely jogszabályi feltétel hiánya miatt akadályba ütközik, arról a nyilvántartó a személyre szabott ügyintézési felületen keresztül értesíti az ügyfelet.

@@ -6,7 +6,7 @@ b) a továbbított adatok körének megnevezését és az adattovábbítás idő
 
 c) az adatszolgáltatás célját és jogalapját,
 
-d) az adatszolgáltatás alanyának nevét.
+d) az adatszolgáltatás alanyának természetes személyazonosító adatait.
 
 (2) A nyilvántartó az adattovábbítási nyilvántartásba bejegyzett adatot az adatszolgáltatástól számított öt évig kezeli.
 
