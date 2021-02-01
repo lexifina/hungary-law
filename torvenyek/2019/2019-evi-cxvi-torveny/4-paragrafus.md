@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 21. § q) pontjában a „biztosításával összefüggésben” szövegrész helyébe a „biztosításával összefüggésben, valamint jogszabályban meghatározott feladatai ellátásához” szöveg,
 
 d)
 
