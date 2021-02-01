@@ -44,6 +44,10 @@ t)[^22] a nála előterjesztett kérelem esetén végzi az állandó személyazo
 
 u)[^23] dönt az állandó személyazonosító igazolvány az Nytv. 29. § (16a) bekezdésében foglalt kiadásáról, kiadásának megtagadásáról.
 
+v)[^24] hivatalból kiadja a személyazonosító igazolványt a 31/A. § (1) bekezdése szerinti esetben,
+
+w)[^25] hivatalból kiadja a személyazonosító igazolványt a 31/B. § (1) bekezdése szerinti esetben.
+
 [^17]: A 3/C. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
 [^18]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
 [^19]: A 4. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 555. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
@@ -51,3 +55,5 @@ u)[^23] dönt az állandó személyazonosító igazolvány az Nytv. 29. § (16a)
 [^21]: A 4. § s) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (5) bekezdése iktatta be.
 [^22]: A 4. § t) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (6) bekezdése iktatta be.
 [^23]: A 4. § u) pontját a 6/2020. (I. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^24]: A 4. § v) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.
+[^25]: A 4. § w) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.

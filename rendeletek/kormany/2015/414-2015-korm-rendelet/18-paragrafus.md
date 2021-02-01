@@ -1,8 +1,8 @@
-## 17/D. §[^48] Az Nytv. 29. § (16a) bekezdésében meghatározott állandó személyazonosító igazolvány kiadására irányuló eljárást a nyilvántartást kezelő szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatali eljárás útján folytatja le.
+## 17/D. §[^52] Az Nytv. 29. § (16a) bekezdésében meghatározott állandó személyazonosító igazolvány kiadására irányuló eljárást a nyilvántartást kezelő szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatali eljárás útján folytatja le.
 
-18. § (1)[^49] A kérelmezőnek a személyazonosságát igazolnia szükséges. Ha a kérelmező a kérelem benyújtásakor rendelkezik vagy a kérelem benyújtását megelőző évben rendelkezett érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal, akkor az igazoláshoz ezt felhasználhatja.
+18. § (1)[^53] A kérelmezőnek a személyazonosságát igazolnia szükséges. Ha a kérelmező a kérelem benyújtásakor rendelkezik vagy a kérelem benyújtását megelőző évben rendelkezett érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal, akkor az igazoláshoz ezt felhasználhatja.
 
-(2)[^50] Ha a kérelmező érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, illetve ha a menekült vagy az oltalmazott jogállású kérelmező az útlevélen kívül más, személyazonosságot igazoló érvényes okmánnyal nem rendelkezik, és a kérelmező a kérelem benyújtását megelőző évben sem rendelkezett ilyen érvényes okmánnyal, a személyazonosságát egyéb módon igazolnia szükséges. Az igazoláshoz felhasználható különösen:
+(2)[^54] Ha a kérelmező érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, illetve ha a menekült vagy az oltalmazott jogállású kérelmező az útlevélen kívül más, személyazonosságot igazoló érvényes okmánnyal nem rendelkezik, és a kérelmező a kérelem benyújtását megelőző évben sem rendelkezett ilyen érvényes okmánnyal, a személyazonosságát egyéb módon igazolnia szükséges. Az igazoláshoz felhasználható különösen:
 
 a) a bevándorolt, a menekült, az oltalmazott és a letelepedett jogállású kérelmező esetén a bevándorlási engedély, a menekültkénti vagy oltalmazottkénti elismerését igazoló okirat, a letelepedett jogállást igazoló okmány,
 
@@ -14,6 +14,6 @@ b) a menekült és az oltalmazott jogállású kérelmező esetén – ha első 
 
 (5) Ha a polgár a doktori címet 2006. február 1-jén vagy azt követően fennálló hallgató jogviszony alapján szerezte, a (2) bekezdés a) pontjától eltérően a doktori címre jogosító okiratot vagy annak másolatát bemutathatja.
 
-[^48]: A 17/D. §-t a 6/2020. (I. 31.) Korm. rendelet 12. § (7) bekezdése iktatta be.
-[^49]: A 18. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^50]: A 18. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^52]: A 17/D. §-t a 6/2020. (I. 31.) Korm. rendelet 12. § (7) bekezdése iktatta be.
+[^53]: A 18. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^54]: A 18. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

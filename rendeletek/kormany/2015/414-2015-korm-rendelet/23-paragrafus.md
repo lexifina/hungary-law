@@ -1,24 +1,28 @@
-23. § (1) Az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolvány igénylése kivételével a kérelem felvételét követően haladéktalanul az eljáró hatóság sértetlen, lezárt borítékban a kérelmező rendelkezésre bocsátja
+23. § (1)[^66] E rendelet eltérő rendelkezése hiányában a kérelem felvételét követően haladéktalanul az eljáró hatóság sértetlen, lezárt borítékban a kérelmező rendelkezésére bocsátja
 
-a) az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kódot és a regisztrációs kódot, és
+a) az állandó személyazonosító igazolványhoz tartozó PIN-kód létrehozásához szükséges aktiváló PIN-kódot és a regisztrációs kódot és
 
-b) a PUK kódot.
+b) a PUK-kódot.
 
 (2) A 12. § (2) bekezdésében foglalt esetekben az eljáró hatóság az (1) bekezdésben meghatározott kódokat átadás céljából a kérelmező meghatalmazottjának adja át.
 
-(3)[^61] A 11. § (3) bekezdésében foglalt esetekben a járási hivatal a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmezőnek, törvényes képviselőjének vagy meghatalmazottjának.
+(3)[^67] A 11. § (3) bekezdésében foglalt esetekben a járási hivatal a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmezőnek, törvényes képviselőjének vagy meghatalmazottjának.
 
-(4)[^62] A 11. § (4) bekezdésében foglalt esetben a kijelölt kormányhivatal átadás céljából a bv. szervnek a személyazonosító igazolványtól elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat.
+(4)[^68] A 11. § (4) bekezdésében foglalt esetben a kijelölt kormányhivatal átadás céljából a bv. szervnek a személyazonosító igazolványtól elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat.
 
-(5)[^63] A 13. §-ban foglalt esetben – ha a személyazonosító igazolvány postai úton történő továbbítására kerül sor – a járási hivatal a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmező törvényes képviselőjének.
+(5)[^69]
 
 (6) Az állandó személyazonosító igazolvány iránti kérelemnek az eljáró hatóság általi átvételét a kérelem másolati példányával igazolni kell.
 
 (7) Az (1) bekezdés szerinti kódok kérelmező általi átvételét, illetve az átvétel kérelmező általi megtagadását igazolni kell.
 
-(8)[^64] Az Nytv. 29. § (16a) bekezdésében foglalt esetben a nyilvántartást kezelő szerv az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kódot és a PUK kódot a kérelmező Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyére küldi meg.
+(8)[^70] Az Nytv. 29. § (16a) bekezdésében foglalt esetben a nyilvántartást kezelő szerv az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kódot és a PUK kódot a kérelmező Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyére küldi meg.
 
-[^61]: A 23. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 6. pontja szerint módosított szöveg.
-[^62]: A 23. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
-[^63]: A 23. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 6. pontja szerint módosított szöveg.
-[^64]: A 23. § (8) bekezdését a 6/2020. (I. 31.) Korm. rendelet 12. § (9) bekezdése iktatta be.
+(9)[^71] Elektronikus ügyintézési ponton benyújtott kérelem esetén az állandó személyazonosító igazolványhoz tartozó PIN-kód létrehozásához szükséges aktiváló PIN-kódot és PUK-kódot amennyiben rendelkezik vele, a kérelmező Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyére kell megküldeni.
+
+[^66]: A 23. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.
+[^67]: A 23. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 6. pontja szerint módosított szöveg.
+[^68]: A 23. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^69]: A 23. § (5) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 83. § g) pontja hatályon kívül helyezte.
+[^70]: A 23. § (8) bekezdését a 6/2020. (I. 31.) Korm. rendelet 12. § (9) bekezdése iktatta be.
+[^71]: A 23. § (9) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 72. § (2) bekezdése iktatta be.

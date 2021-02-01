@@ -1,3 +1,3 @@
-77. §[^189]
+77. §[^202]
 
-[^189]: A 76–77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^202]: A 76–77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

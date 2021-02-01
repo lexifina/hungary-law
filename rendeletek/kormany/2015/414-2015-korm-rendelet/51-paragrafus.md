@@ -1,8 +1,8 @@
-## 15. [^133] Az e-aláírási funkcióval és időbélyegzéssel kapcsolatos szolgáltatási szerződés
+## 15. [^143] Az e-aláírási funkcióval és időbélyegzéssel kapcsolatos szolgáltatási szerződés
 
-51. § (1)[^134] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a járási hivatalnál, a kijelölt kormányhivatalnál és a nyilvántartást kezelő szervnél köthető meg.
+51. § (1)[^144] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a járási hivatalnál, a kijelölt kormányhivatalnál és a nyilvántartást kezelő szervnél köthető meg.
 
-(2)[^135] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés
+(2)[^145] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés
 
 a) – a (3) bekezdésben foglalt kivételekkel – az állandó személyazonosító igazolvány kiadására irányuló kérelem előterjesztésével egyidejűleg, valamint
 
@@ -10,7 +10,7 @@ b) tároló elemmel ellátott érvényes állandó személyazonosító igazolvá
 
 személyesen köthető meg.
 
-(3)[^136] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a (2) bekezdés b) pont szerinti feltételekkel köthető meg, ha az állandó személyazonosító igazolvány kiadására
+(3)[^146] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a (2) bekezdés b) pont szerinti feltételekkel köthető meg, ha az állandó személyazonosító igazolvány kiadására
 
 a) hivatalból,
 
@@ -26,7 +26,7 @@ került sor.
 
 (4) Ha annak műszaki és technikai feltételei adottak, a szolgáltatási szerződés megkötése és az e-aláírás funkcióhoz kapcsolódó tanúsítvány igénylése a szolgáltatást igénybe vevő által on-line felületen is megtehető.
 
-[^133]: A 15. alcím címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^134]: Az 51. § (1) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 21. pontja szerint módosított szöveg.
-[^135]: Az 51. § (2) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^136]: Az 51. § (3) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^143]: A 15. alcím címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^144]: Az 51. § (1) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 21. pontja szerint módosított szöveg.
+[^145]: Az 51. § (2) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^146]: Az 51. § (3) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
