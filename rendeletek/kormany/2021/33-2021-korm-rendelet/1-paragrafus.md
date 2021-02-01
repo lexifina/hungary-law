@@ -1,1 +1,0 @@
-## 1. Az orvos- és egészségtudományi felsőoktatási intézmények irányító megyei intézményi feladatokat is ellátó klinikai központjainak irányítására a veszélyhelyzet idején alkalmazandó szabályokról szóló 524/2020. (XI. 25.) Korm. rendelet módosítása
