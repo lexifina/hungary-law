@@ -1,9 +1,7 @@
-## 2. §[^4]
+## 2. § A Díjrendelet az 1. melléklet szerinti 1. melléklettel egészül ki.
 
-3. § (1)[^5]
+3. § (1)[^3]
 
-(2)[^6]
+(2) A Díjrendelet 42. §-a a következő (4) bekezdéssel egészül ki:
 
-[^4]: A 2. § a 4. § (2) bekezdése alapján 2021. február 1-jén lép hatályba.
-[^5]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 3. § (2) bekezdése a 4. § (2) bekezdése alapján 2021. február 1-jén lép hatályba.
+[^3]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
