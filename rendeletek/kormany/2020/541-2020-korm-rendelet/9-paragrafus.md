@@ -1,5 +1,3 @@
 ## 8. § Ez a rendelet a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet III. fejezetének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-9. §[^2]
-
-[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+9. § Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 68/A. § (2a) bekezdésében az „a központi azonosítási ügynök KEÜSZ szolgáltatást” szövegrész helyébe az „a Kormány által biztosított szabályozott elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartás és a központi azonosítási ügynök KEÜSZ szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés szolgáltató által nyújtott tanúsítványszolgáltatást” szöveg lép.
