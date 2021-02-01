@@ -1,1 +1,7 @@
-6. §
+6. § (1) Az Erdőtelek 364/1, a Keszthely 1418/1 és a Keszthely 1418/3 helyrajzi számú, ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan idejű elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
+
+(2) Az 5. § (1) bekezdése alapján ingyenesen tulajdonba adott ingatlanok – az (1) bekezdésben meghatározott ingatlant ide nem értve – tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+
+(3) Az Egyetem a tulajdonába adott ingatlanokat – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlan értékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(4) Az 5. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
