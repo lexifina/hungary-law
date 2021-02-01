@@ -36,16 +36,8 @@ g) töröl az apai elismerő nyilatkozatok nyilvántartásából.
 
 (8) Az anyakönyvi hatósági bizonyítvány kiállítására az anyakönyvvezető jogosult.”
 
-(2) Az At. 4. § (6) bekezdése a következő h) ponttal egészül ki:
+(2)
 
-(Az anyakönyvi szerv)
+(3)
 
-„h) elektronikus úton benyújtott kérelem esetén dönt a házassági névviselési forma módosításáról.”
-
-(3) Az At. 4. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Anyakönyvi kivonat kiállítására az anyakönyvvezető és az anyakönyvi szerv jogosult. Az anyakönyvi szerv az adatoknak az általa történt bejegyzését követően, valamint elektronikus úton benyújtott kérelem esetén jogosult anyakönyvi kivonat kiállítására.”
-
-(4) Az At. 4. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A névváltozási hatósági bizonyítványt az anyakönyvvezető vagy a névváltoztatásért felelős anyakönyvi szerv állítja ki.”
+(4)

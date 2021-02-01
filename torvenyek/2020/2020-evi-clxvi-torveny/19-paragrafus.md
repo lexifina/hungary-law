@@ -26,9 +26,7 @@ b) ha – ide nem értve a külföldi állampolgárságot, illetve személyazono
 
 c) hazai anyakönyvezési kérelem esetén hetvenöt nap.”
 
-(2) Az At. 63. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) Az anyakönyvi szerv az elektronikus úton előterjesztett házassági névviselési forma módosítására irányuló kérelem esetén az automatikus döntéshozatali eljárás szabályai szerint folytatja le az eljárást.”
+(2)
 
 (3) Az At. 64. §-a helyébe a következő rendelkezés lép:
 
