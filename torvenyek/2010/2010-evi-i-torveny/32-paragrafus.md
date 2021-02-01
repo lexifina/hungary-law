@@ -2,7 +2,7 @@
 
 32. § (1) A települési önkormányzat térítésmentesen biztosítja a bejegyzett élettársi kapcsolat létesítésére alkalmas hivatali helyiséget.
 
-(2) A bejegyzett élettársi kapcsolat hivatali helyiségen, illetve hivatali munkaidőn kívüli létesítésének engedélyezéséről a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésének helye szerinti jegyző a kérelem benyújtásától számított nyolc napon belül dönt.
+(2) A bejegyzett élettársi kapcsolat hivatali helyiségen, illetve hivatali munkaidőn kívüli létesítésének engedélyezéséről a bejegyzett élettársi kapcsolat létesítése iránti szándék bejelentésének helye szerinti jegyző a kérelem benyújtásától számított öt napon belül dönt.
 
 (3) A jegyző a bejegyzett élettársi kapcsolat hivatali helyiségen kívüli létesítését akkor engedélyezheti, ha a felek nyilatkoznak arról, hogy
 

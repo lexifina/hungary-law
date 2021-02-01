@@ -26,7 +26,7 @@ bj) családi állapotát,
 
 c) annak a házassági névviselési formának a megjelölését, amelynek viselésére az érintett törvény vagy bírósági határozat alapján nem jogosult,
 
-d) a b) pontban foglalt adatok változását,
+d) a b) pont ba), bd), bf), bg), bh), bi) és bj) alpontjában foglalt adatok változását,
 
 e) az adatot bejegyző személy nevét és felhasználói azonosítóját,
 
@@ -36,10 +36,10 @@ g) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén – ha az
 
 h) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén a családi és utónevet az adott nemzetiségi nyelven is, ha ezt a 46. § (1) bekezdés d) pontja alapján kérték.
 
-(1a) A szülő születési nevének megváltozását a kiskorú gyermek anyakönyvi bejegyzésébe akkor is rögzíteni kell, ha a szülő nem kérte a névváltoztatás hatályának a kiskorú gyermekre történő kiterjesztését, vagy a gyermek nem a névváltoztatással érintett szülő születési családi nevét viseli.
+(1a) A szülő születési nevének a megváltozását a kiskorú gyermek anyakönyvi bejegyzésébe hivatalból be kell jegyezni.
 
-(2) A szülő születési családi és utónevének megváltozását vagy a családi név korrekcióját nagykorú személy esetében kizárólag a nagykorú személy kérelmére kell a saját személyazonosító adatainál adatváltozásként átvezetni és megjeleníteni.
+(2) A szülő születési nevének megváltozását nagykorú személy esetében kizárólag a nagykorú személy kérelmére kell bejegyezni.
 
 (3) Az (1) bekezdés b) pont be) alpontjában meghatározott adat nem változtatható meg.
 
-(4)
+(4) Az anyakönyvbe korábban bejegyzett, a szülő nemének és ahhoz kapcsolódóan az utónevének a megváltozása a gyermek személyazonosító adatainál nem vezethető át adatváltozásként.

@@ -22,7 +22,7 @@ ah) lakóhelyét, annak hiányában tartózkodási helyét, valamint ha ilyennel
 
 ai) személyazonosságát és magyar állampolgárságát igazoló okiratának típusát, számát és érvényességi idejét,
 
-aj) nemét,
+aj) születési nemét,
 
 ak) állampolgárságát.
 

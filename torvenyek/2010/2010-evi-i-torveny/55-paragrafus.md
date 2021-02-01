@@ -1,6 +1,6 @@
 55. § (1) Az anyakönyvbe korábban bejegyzett betűjel és a családi név részét nem képező ragadványnév – az 53. §-ban és a (2)–(5) bekezdésben foglaltak szerint – a családi név korrekciója esetén viselhető. Az elektronikus anyakönyvbe történő bejegyzést megelőzően, az anyakönyvvezető erre irányuló felhívásának kézhezvételétől számított tizenöt napon belül az érintett, nyilatkozatával kérheti családi nevének korrekcióját. Ha az érintett úgy nyilatkozik, hogy az anyakönyvbe korábban bejegyzett betűjelet, illetve a családi név részét nem képező ragadványnevet nem kívánja viselni, vagy nem tesz nyilatkozatot, az anyakönyvbe korábban bejegyzett betűjel és a családi név részét nem képező ragadványnév nem viselhető. A családi név korrekciója iránti eljárás a határidő lejártát követően is bármikor kezdeményezhető.
 
-(1a) A doktori cím és más tudományos fokozat, valamint az egyes címek és rangok megszüntetéséről szóló 1947. évi IV. törvény szabályaival ellentétes adatok bejegyzését meg kell tagadni.
+(1a)
 
 (2) A születési anyakönyvbe 1953. január 1-je előtt bejegyzett megkülönböztető betűjelet az érintett akkor jogosult és köteles viselni, ha az erre irányuló nyilatkozatát az anyakönyv tartalmazza.
 
@@ -9,3 +9,5 @@
 (4) A megkülönböztető betűjel megerősítésére vonatkozó nyilatkozatban csak annak a betűjeles névalaknak a viselése erősíthető meg, amelyet az érintett vagy az érintett 1953. január 1-je előtt született felmenőjének a születési bejegyzése tartalmaz.
 
 (5) Az anyakönyvbe korábban bejegyzett ragadványnév akkor viselhető többtagú családi névként, ha az erre irányuló szándékot az érintett az anyakönyvvezető felhívására vagy a családi név korrekciója iránti kérelemben írásban bejelenti. Ebben az esetben is – a kérelmező erre irányuló nyilatkozata alapján választott – legfeljebb két tagú családi név viselhető.
+
+(6) Az a személy, akinek kéttagú családi nevét 1953. január 1-jét megelőzően kötőjel nélkül anyakönyvezték, kérheti, hogy a családi nevét a továbbiakban kötőjellel összekapcsolva viselje. Az a személy, akinek két- vagy többtagú családi nevét kötőjellel összekapcsolva anyakönyvezték, kérheti a családi név tagjait összekötő kötőjel törlését. A nyilatkozatnak megfelelően az anyakönyvi adatváltozásokat át kell vezetni az anyakönyvben.

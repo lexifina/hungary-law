@@ -1,10 +1,10 @@
 69/E. § (1) Az elektronikus anyakönyv a bejegyzett élettársi kapcsolattal összefüggésben nyilvántartja
 
-a) a létrehozás helyét és idejét,
+a) a létesítésének helyét és idejét,
 
 b) a bejegyzett élettárs 69/B. § (1) bekezdés b), g) és h) pontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatait,
 
-c) a bejegyzett élettársi kapcsolat létrehozásánál közreműködött anyakönyvvezető nevét,
+c) a bejegyzett élettársi kapcsolat létesítésénél közreműködött anyakönyvvezető nevét,
 
 d) a tanúk és a tolmács családi és utónevét,
 
@@ -22,4 +22,4 @@ j) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljes�
 
 k) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
 
-(2) Ha a bejegyzett élettársi kapcsolat létesítésének helye szerint illetékes anyakönyvvezető, más hatóság vagy bíróság megállapítja a bejegyzett élettársi kapcsolat nem létezését, a bejegyzett élettársi kapcsolat létesítésének helye szerint illetékes anyakönyvvezető törli az (1) bekezdésben foglalt adatokat az elektronikus anyakönyvből, az elektronikus anyakönyvbe a nem létező bejegyzett élettársi kapcsolatra vonatkozó adatok törlésére utaló bejegyzést tesz az (1) bekezdés i)–k) pontja szerinti adatokkal, valamint gondoskodik a 69/B. § (1) bekezdés b) pont bj) alpontjában foglalt adat megváltozásának bejegyzéséről.
+(2) Ha a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető vagy a bíróság a bejegyzett élettársi kapcsolat nem létezését állapítja meg, a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető a határozat véglegessé válását vagy a bíróság értesítését követően az (1) bekezdésben foglalt adatokat törli, egyúttal intézkedik a bejegyzett élettársi kapcsolatról kiállított kivonat érvénytelenítéséről és gondoskodik az okirat bevonásáról.

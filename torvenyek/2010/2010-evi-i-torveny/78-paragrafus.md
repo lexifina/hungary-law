@@ -8,4 +8,6 @@ c) az arra jogosult kérelmére anyakönyvi hatósági bizonyítványt állít k
 
 d) biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
 
+(1a) Az anyakönyvbe az ügyfél részére betekintés nem engedélyezhető. Az anyakönyvbe bejegyzett adatok anyakönyvi okirattal igazolhatóak.
+
 (2) Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányában nyilvántartott adatok tekintetében a levéltár biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.

@@ -24,4 +24,4 @@ k) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljes�
 
 l) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
 
-(2) Ha a házasságkötés helye szerint illetékes anyakönyvvezető, más hatóság vagy bíróság megállapítja a házasság nem létezését, a házasságkötés helye szerint illetékes anyakönyvvezető törli az (1) bekezdésben foglalt adatokat az elektronikus anyakönyvből, az elektronikus anyakönyvbe a nem létező házasságra vonatkozó adatok törlésére utaló bejegyzést tesz az (1) bekezdés j)–l) pontja szerinti adatokkal, valamint gondoskodik a 69/B. § (1) bekezdés b) pont bi) és bj) alpontjában, valamint g) és h) pontjában foglalt adatok megváltozásának bejegyzéséről.
+(2) Ha a házasságkötést nyilvántartó anyakönyvvezető vagy a bíróság a házasság nem létezését állapítja meg, a házasságkötést nyilvántartó anyakönyvvezető a határozat véglegessé válását vagy a bíróság értesítését követően az (1) bekezdésben foglalt adatokat törli, egyúttal intézkedik a házassági anyakönyvi kivonat érvénytelenítéséről és gondoskodik az okirat bevonásáról.

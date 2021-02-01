@@ -1,1 +1,1 @@
-64. § Ha az anyakönyvi bejegyzést nem az eljárásra illetékes anyakönyvvezető teljesítette, az anyakönyvi alapiratokat megküldi az eljárásra illetékes anyakönyvvezetőnek.
+64. § Ha az anyakönyvi bejegyzést nem a nyilvántartó anyakönyvvezető teljesítette, az anyakönyvi alapiratokat nyolc napon belül megküldi a nyilvántartó anyakönyvvezetőnek.

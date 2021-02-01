@@ -16,11 +16,19 @@ d) a bejegyzett élettársi kapcsolat létesítése,
 
 e) a névváltoztatási eljárás,
 
-f) a házassági névviselési forma módosítására irányuló eljárás és
+f) a házassági névviselési forma módosítására irányuló eljárás,
 
-g) az anyakönyvi nyilvántartások rendszerének vezetése.
+g) a családi név korrekciójára irányuló eljárás,
 
-(2) Az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása az ellenkező bizonyításáig közhitelesen tanúsítja a bejegyzett adatokat, illetve azok változását.
+h) az adatigénylés alapján történő adattovábbítás,
+
+i) a házassági név megváltoztatására irányuló eljárás,
+
+j) az anyakönyvi okiratok kiállítása,
+
+k) az anyakönyvi nyilvántartások rendszerének vezetése.
+
+(2) Az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása az ellenkező bizonyításáig közhitelesen tanúsítja a bejegyzett adatokat, illetve az anyakönyvbe bejegyzett adatok változását.
 
 (3) Az anyakönyv
 

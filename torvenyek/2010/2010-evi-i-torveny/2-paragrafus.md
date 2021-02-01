@@ -1,1 +1,1 @@
-2. § Az 1. § (1) bekezdése szerinti eljárások közül az a), c), e) és f) pontban meghatározott eljárások, valamint az anyakönyv vezetése és az apai elismerő nyilatkozatok nyilvántartásának vezetése közigazgatási hatósági eljárás.
+2. § Az 1. § (1) bekezdése szerinti eljárások közül az a), c), e)–j) pontban meghatározott eljárások, valamint az anyakönyv vezetése és az apai elismerő nyilatkozatok nyilvántartásának vezetése közigazgatási hatósági eljárás.

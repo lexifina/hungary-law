@@ -26,4 +26,6 @@ a) a papír alapú anyakönyv és
 
 b) a papír alapú anyakönyvbe tett bejegyzések betűrendes névmutatója.
 
+(3a) A papír alapú anyakönyv és a névmutató nem selejtezhető, őrzéséről a nyilvántartó anyakönyvvezető gondoskodik.
+
 (4) A nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter és az e-közigazgatásért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével, kivéve, ha az anyakönyvi ügyekért felelős miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak alapján más adatfeldolgozó megbízását engedélyezi.

@@ -2,7 +2,7 @@
 
 (2) Ha a korrekcióval érintett anyakönyvi esemény külföldön történt, az eljárás feltétele a hazai anyakönyvezés.
 
-(3) Az eljárás lefolytatása során tisztázni kell, hogy az érintett saját vagy felmenőjének születési anyakönyvi bejegyzése tartalmazta-e a betűjeles, valamint ragadványneves névalakot.
+(3) Az eljárás lefolytatása során tisztázni kell, hogy az érintett saját vagy felmenőjének születési anyakönyvi bejegyzése tartalmazta-e a kért névalakot.
 
 (4) A szülő családi nevének korrekciója a szülők erre irányuló nyilatkozata, valamint kérelme esetén kiterjed a szülő családi nevét viselő cselekvőképtelen kiskorú gyermek családi nevére is. A szülő családi nevének korrekciója a szülők erre irányuló nyilatkozata, valamint kérelme alapján és korlátozottan cselekvőképes kiskorú hozzájárulása esetén terjed ki a szülő családi nevét viselő korlátozottan cselekvőképes kiskorú gyermek családi nevére is.
 

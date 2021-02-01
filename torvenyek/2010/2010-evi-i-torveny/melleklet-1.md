@@ -14,7 +14,7 @@
 
 ## 3.3. 69/B. § (1) bekezdés b) pont bc) alpontja,
 
-## 3.4. 69/B. § (1) bekezdés b) pont bd) alpontja,
+## 3.4.
 
 ## 3.5. 69/B. § (1) bekezdés b) pont be) alpontja,
 
@@ -38,7 +38,7 @@
 
 ## 4.5. lakóhelye,
 
-## 4.6. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja szerinti adata,
+## 4.6. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja szerinti adata, az azt igazoló okmányának típusa, okmányazonosítója, érvényességi ideje, kiállító hatósága.
 
 ## 4.7. menekült vagy oltalmazott jogállása,
 
@@ -54,31 +54,55 @@
 
 ## 5. Az anya 69/B. § (1) bekezdés b) pont bj) alpontja szerinti adata.
 
-## 6. A szülők 69/D. § (1) bekezdés a) pontja szerinti adata.
+## 6. Az anya 5. pont szerinti adatának igazolása
 
-## 7. Ha az anya özvegy, a volt férj
+## 6.1. A szülők 69/D. § (1) bekezdés a) pontja szerinti adata,
 
-## 7.1. 69/F. § (1) bekezdés a) pontja és
+## 6.2. Ha az anya özvegy, a volt férj
 
-## 7.2. 69/B. § (1) bekezdés a) pontja
+## 6.2.1. 69/F. § (1) bekezdés a) pontja és
+
+## 6.2.2. 69/B. § (1) bekezdés a) pontja
 
 ## szerinti adata.
 
-## 8. Ha az anya elvált, a jogerős határozat 69/H. § szerinti adatai.
+## 6.3. Ha az anya elvált, a jogerős határozat 69/H. § szerinti adatai.
 
-## 9. Az egyes vagy ikerszülés ténye, ha ikerszülés, a gyermek hányadikként született.
+## 7. Születéssel kapcsolatos egyéb adatok
 
-## 10. Megjegyzés a titkolt terhesség tényéről.
+## 7.1. Az anya nyilatkozata arról, hogy
 
-## 11. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
+## 7.1.1. a gyermekre tettek-e apai elismerő nyilatkozatot, ha igen, a nyilatkozatot felvevő anyakönyvvezető, gyámhatóság, hivatásos konzuli tisztviselő, közjegyző vagy bíróság megnevezése a település megjelölésével,
 
-## 12. A szülő vagy a szülők aláírása.
+## 7.1.2. a gyermek emberi reprodukcióra irányuló különleges eljárásból származik-e,
 
-## 13. A kiállítás kelte.
+## 7.1.3. a hivatalból kiállításra kerülő születési anyakönyvi kivonatot, állandó személyazonosító igazolványt, személyi azonosítót és lakcímet igazoló hatósági igazolványt, TAJ számról szóló hatósági igazolványt és adóigazolványt hova kéri kézbesíteni,
 
-## 14. A születést bejelentő intézmény neve és címe, képviselőjének neve és aláírása, az intézmény bélyegzőlenyomata.
+## 7.1.4. az anyasági támogatás és a családi pótlék megállapítására irányuló eljárás hivatalbóli megindítását visszautasítja-e (igen/nem).
 
-## 15. Magánszemély bejelentő neve, aláírása, lakcíme, személyazonosító okmányának típusa, okmányazonosítója, érvényességi ideje, kiállító hatósága.
+## 7.2. Az egyes vagy ikerszülés ténye, ha ikerszülés, a gyermek hányadikként született.
+
+## 7.3 Megjegyzés a titkolt terhesség tényéről.
+
+## 7.4. Megjegyzés az örökbefogadáshoz adott hozzájárulásról.
+
+## 7.5. A kiállított anyakönyvi kivonathoz többnyelvű formanyomtatványt kér-e, ha igen hány példányban, milyen nyelven (angol, bolgár, cseh, dán, észt, finn, francia, görög, holland, horvát, ír, lengyel, lett, litván, máltai, német, olasz, portugál, román, spanyol, svéd, szlovák, szlovén).
+
+## 8. Az anya aláírása.
+
+## 9. Az anya elérhetősége (telefonszám, e-mail cím).
+
+## 10. A bejelentés időpontja.
+
+## 11. Az egészségügyi szolgáltató neve és címe, az egészségügyi szolgáltató vezetője által kijelölt személy neve, elektronikus aláírása, elektronikus bélyegzője.
+
+## 12. Magánszemély bejelentő neve, aláírása, lakcíme, személyazonosító okmányának típusa, okmányazonosítója, érvényességi ideje, kiállító hatósága.
+
+## 13. Az anyakönyvvezető aláírása.
+
+## 14.
+
+## 15.
 
 ## b) Jegyzőkönyv a házasságkötési szándék bejelentéséről
 
@@ -136,17 +160,25 @@
 
 ## 6.1. a termen kívüli házasságkötés tényéről,
 
-## 6.2. az egyik fél közeli halállal fenyegető állapotáról.
+## 6.2. az egyik fél közeli halállal fenyegető állapotáról,
+
+## 6.3. a nemzetiségi nyelven történő házasságkötésről,
+
+## 6.4. a hivatalból kiállítandó személyazonosság igazolására alkalmas hatósági igazolvány kiállításához szükséges adatok felvételezésének tényéről.
 
 ## 7. A házassági akadályok elhallgatásának következményeire való figyelmeztetés után a menyasszony és a vőlegény nyilatkozata arról, hogy egymással házasságot kívánnak kötni és legjobb tudomásuk szerint házasságkötésüknek törvényi akadálya nincs.
 
-## 8. A menyasszony és a vőlegény nyilatkozata a születendő közös gyermekeik családi nevéről.
+## 8. Nyilatkozatok
+
+## 8.1. A menyasszony és a vőlegény nyilatkozata a házasságkötést követően viselni kívánt nevéről,
+
+## 8.2. A menyasszony és a vőlegény nyilatkozata a születendő közös gyermek családi nevéről.
 
 ## 9. A házasság hivatali helyiségen kívüli vagy hivatali munkaidőn kívüli megkötése iránti kérelem és a nyilatkozatok.
 
 ## 10. A 30 napos várakozási idő alóli felmentés iránti kérelem és indokolása.
 
-## 11. A tanúsítvány bemutatása alóli felmentés iránti kérelem és indokolása.
+## 11.
 
 ## 12. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
 
@@ -168,7 +200,7 @@
 
 ## 17.4. aláírása.
 
-## 18. Megjegyzés a nemzetiségi nyelven történő házasságkötésről.
+## 18. A kiállított anyakönyvi kivonathoz többnyelvű formanyomtatványt kér-e, ha igen hány példányban, milyen nyelven (angol, bolgár, cseh, dán, észt, finn, francia, görög, holland, horvát, ír, lengyel, lett, litván, máltai, német, olasz, portugál, román, spanyol, svéd, szlovák, szlovén).
 
 ## 19. A kiállítás kelte.
 
@@ -228,13 +260,15 @@
 
 ## 6.1. a bejegyzett élettársi kapcsolat hivatalos helyiségen kívüli létesítésének tényéről,
 
-## 6.2. az egyik fél közeli halállal fenyegető állapotáról.
+## 6.2. az egyik fél közeli halállal fenyegető állapotáról,
+
+## 6.3. a nemzetiségi nyelven történő bejegyzett élettársi kapcsolat létesítéséről.
 
 ## 7. A bejegyzett élettársi kapcsolat létrejötte akadályai elhallgatásának következményeire való figyelmeztetés után a felek nyilatkozata arról, hogy egymással bejegyzett élettársi kapcsolatot kívánnak létesíteni és legjobb tudomásuk szerint ennek törvényi akadálya nincs.
 
 ## 8. A bejegyzett élettársi kapcsolat hivatalos helyiségen vagy hivatali munkaidőn kívüli létesítése iránti kérelem és a nyilatkozatok.
 
-## 9. A tanúsítvány alóli felmentés iránti kérelem és indokolása.
+## 9.
 
 ## 10. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
 
@@ -254,15 +288,15 @@
 
 ## 14.4. aláírása.
 
-## 15. Megjegyzés a nemzetiségi nyelven történő bejegyzett élettársi kapcsolat létesítéséről.
+## 15. A kiállított anyakönyvi kivonathoz többnyelvű formanyomtatványt kér-e, ha igen hány példányban, milyen nyelven (angol, bolgár, cseh, dán, észt, finn, francia, görög, holland, horvát, ír, lengyel, lett, litván, máltai, német, olasz, portugál, román, spanyol, svéd, szlovák, szlovén).
 
 ## 16. A kiállítás kelte.
 
 ## d) Jegyzőkönyv a haláleset bejelentéséről
 
-## 1. A szervet megjelölő azonosító.
+## 1. A szervet megjelölő azonosító, a haláleset eseményazonosítója.
 
-## 2. A haláleset eseményazonosítója.
+## 2. A halottvizsgálati bizonyítvány azonosítója.
 
 ## 3. A 69/F. § (1) bekezdés a) pontja szerinti adat.
 
@@ -328,7 +362,7 @@
 
 ## 12. A jegyzőkönyvet felvevő személy neve és aláírása.
 
-## 13. Ha a jegyzőkönyvet nem az anyakönyvvezető vette fel, az anyakönyvvezető neve és aláírása.
+## 13. A kiállított anyakönyvi kivonathoz többnyelvű formanyomtatványt kér-e, ha igen hány példányban, milyen nyelven (angol, bolgár, cseh, dán, észt, finn, francia, görög, holland, horvát, ír, lengyel, lett, litván, máltai, német, olasz, portugál, román, spanyol, svéd, szlovák, szlovén).
 
 ## 14. A kiállítás kelte.
 

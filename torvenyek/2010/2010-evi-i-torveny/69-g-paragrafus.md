@@ -1,4 +1,4 @@
-69/G. § (1) Az elektronikus anyakönyv az ismeretlen holttest személyazonosságának megállapításáig nyilvántartja
+69/G. § (1) Az elektronikus anyakönyv az ismeretlen holttest anyakönyvezése esetén határidő nélkül nyilvántartja
 
 a) az elektronikus anyakönyvi egyedi azonosítót,
 
@@ -10,10 +10,10 @@ d) az ügyirat számát,
 
 e) az adatot bejegyző személy nevét és felhasználói azonosítóját,
 
-f) a bejegyzés idejét és
+f) a bejegyzés idejét,
 
-g) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+g) a keletkezett anyakönyvi alapiratok típusát és azonosító számát és
 
-(2) Ha az elhalt személyazonossága ismertté válik, a halálesetnek az elektronikus anyakönyvbe való bejegyzését követően az (1) bekezdés b)–f) pontjában foglalt adatokat az illetékes anyakönyvvezető törli, és az elektronikus anyakönyvbe az ismeretlen személyazonosságú holttestre vonatkozó adatok törlésére utaló bejegyzést tesz, az adatot bejegyző személy nevének és felhasználói azonosítójának, valamint a bejegyzés idejének feltüntetésével.
+h) ismertté válás esetén annak tényét és időpontját.
 
-(3) Ha az elhalt személyazonossága ismertté válik, az (1) bekezdés a) pontjában foglalt adatot akkor kell törölni, ha az elhalt személy az elektronikus anyakönyvben már szerepel.
+(2) Ha az elhalt személyazonossága ismertté válik és az elhalt személy az elektronikus anyakönyvben már szerepel, az (1) bekezdés a) pontjában foglalt adatot módosítani kell.

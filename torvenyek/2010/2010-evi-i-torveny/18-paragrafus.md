@@ -2,7 +2,7 @@
 
 18. § (1) A települési önkormányzat térítésmentesen biztosítja a házasságkötésre alkalmas hivatali helyiséget.
 
-(2) A házasság hivatali helyiségen, illetve hivatali munkaidőn kívüli megkötésének engedélyezéséről a házasságkötési szándék bejelentésének helye szerinti jegyző a kérelem benyújtásától számított nyolc napon belül dönt.
+(2) A házasság hivatali helyiségen, illetve hivatali munkaidőn kívüli megkötésének engedélyezéséről a házasságkötési szándék bejelentésének helye szerinti jegyző a kérelem benyújtásától számított öt napon belül dönt.
 
 (3) A házasság hivatali helyiségen kívüli megkötését a jegyző akkor engedélyezheti, ha a felek nyilatkoznak arról, hogy
 

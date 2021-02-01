@@ -4,4 +4,4 @@
 
 (3) A halál tényének bírósági megállapítása esetén a haláleset bejegyzésére az az anyakönyvvezető illetékes, akinek az illetékességi területén a bíróság döntése szerint a haláleset bekövetkezett.
 
-(4) Ha a bíróság holtnak nyilvánító döntést hozott, a halálesetet a holtnak nyilvánított személy születését nyilvántartó anyakönyvvezető jegyzi be az anyakönyvbe.
+(4) Ha a bíróság holtnak nyilvánító döntést hozott, a halálesetet a holtnak nyilvánított személy születését nyilvántartó, ennek hiányában a születés helye szerint illetékes anyakönyvvezető jegyzi be az anyakönyvbe.
