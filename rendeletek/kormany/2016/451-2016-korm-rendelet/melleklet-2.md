@@ -40,7 +40,7 @@
 
 | 17 | ÁNYK KR konténer | .kr | A biztonságos kézbesítési szolgáltatás interfész specifikációja. |
 
-2. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^213]
+2. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^214]
 
 ## A piaci szereplő részére biztosított SZEÜSZ/KEÜSZ szolgáltatásért fizetendő díj megállapításának szabályai
 
@@ -48,4 +48,4 @@
 
 2. A Kormány által kijelölt szolgáltató tranzakciós díjat – melyben jogszabályban biztosított észszerű nyereséget is megállapít – számol fel az adott szolgáltatás igénybevételi tranzakció száma és a tranzakció egységdíjának szorzata alapján.
 
-[^213]: A 2. mellékletet a 361/2017. (XI. 30.) Korm. rendelet 5. § (15) bekezdése iktatta be.
+[^214]: A 2. mellékletet a 361/2017. (XI. 30.) Korm. rendelet 5. § (15) bekezdése iktatta be.

@@ -1,5 +1,3 @@
-## 72/C. §[^43] A Kormány a videoképes regisztráció biztosítására az országos telefonos ügyfélszolgálat működtetéséért felelős szervet jelöli ki.
-
 ## Biztonságos kézbesítési szolgáltatás
 
 73. § (1) A biztonságos kézbesítési szolgáltatás olyan kézbesítési szolgáltatás, amely az elektronikus üzenet kézbesítésével kapcsolatban biztosítja az alábbi feltételek mindegyikének teljesülését:
@@ -10,11 +8,10 @@ b) sértetlenség: az üzenet és a kézbesítést igazoló okirat észrevétlen
 
 c) az átvevő igazolása: az üzenet átvevője csak a címzett vagy a feljogosított helyettes átvevő lehet, és a feladó számára a tényleges átvevőt az átvétellel kapcsolatos okirat igazolja;
 
-d)[^44] sikertelen kézbesítés igazolása: a feladónak okirat áll rendelkezésére arról az esetről is, ha a kézbesítés a megadott határidőn belül sikertelen; az igazolás a meghiúsulás időpontját és – ha azonosítható – okát tartalmazza.
+d)[^45] sikertelen kézbesítés igazolása: a feladónak okirat áll rendelkezésére arról az esetről is, ha a kézbesítés a megadott határidőn belül sikertelen; az igazolás a meghiúsulás időpontját és – ha azonosítható – okát tartalmazza.
 
 (2) A biztonságos kézbesítési szolgáltatásnak továbbá biztosítania kell, hogy a címzett számára az üzenet elkülönített, a szolgáltató felügyelete alatt álló informatikai rendszerben legalább az (1) bekezdés d) pontja szerinti okirat kiállításáig hozzáférhető.
 
 (3) A biztonságos kézbesítési szolgáltatás alapjául szolgáló informatikai rendszernek biztosítania kell a rendszer zártságát, a jogosulatlan változtatások kizárását. A szolgáltató köteles e követelményeknek való megfelelést a felügyelet részére tanúsítvánnyal igazolni, majd a szolgáltatás nyújtása során a tanúsítványt annak lejárta előtt folyamatosan megújítani, az új tanúsítványt a felügyeletnek benyújtani.
 
-[^43]: A 72/C. §-t az 572/2020. (XII. 9.) Korm. rendelet 91. §-a iktatta be.
-[^44]: A 73. § (1) bekezdés d) pontja a 361/2017. (XI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^45]: A 73. § (1) bekezdés d) pontja a 361/2017. (XI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
