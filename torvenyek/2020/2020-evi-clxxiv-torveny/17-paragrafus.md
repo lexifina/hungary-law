@@ -32,7 +32,7 @@ o)
 
 p)
 
-q)
+q) 67. § (3) bekezdésében az „ötszázezer” szövegrész helyébe a „kettőmillió”,
 
 r)
 
