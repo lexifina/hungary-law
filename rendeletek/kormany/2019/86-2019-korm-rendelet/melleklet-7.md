@@ -64,6 +64,10 @@ A kormányablak által végzett kiegészítő szolgáltatások
 
 31.[^76] Levéltári adatszolgáltatás tanulóidőre, illetve iskolai végzettségre vonatkozóan
 
+32.[^77] A magánútlevél iránti kérelmet előterjesztő Magyarországon élő magyar állampolgárként történő nyilvántartásba vételéhez szükséges adatlap továbbítása
+
+33.[^78] A magánútlevél iránti kérelmet előterjesztő külföldön élő magyar állampolgárként történő nyilvántartásba vételéhez szükséges adatlap továbbítása
+
 [^67]: A 7. melléklet 3. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés g) pontja hatályon kívül helyezte, újonnan a 713/2020. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
 [^68]: A 7. melléklet 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^69]: A 7. melléklet 24. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
@@ -74,3 +78,5 @@ A kormányablak által végzett kiegészítő szolgáltatások
 [^74]: A 7. melléklet 29. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^75]: A 7. melléklet 30. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^76]: A 7. melléklet 31. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^77]: A 7. melléklet 32. pontját az 572/2020. (XII. 9.) Korm. rendelet 124. §-a iktatta be.
+[^78]: A 7. melléklet 33. pontját az 572/2020. (XII. 9.) Korm. rendelet 124. §-a iktatta be.
