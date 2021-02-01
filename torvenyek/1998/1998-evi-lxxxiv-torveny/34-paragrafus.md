@@ -4,7 +4,7 @@
 
 ## Az igényelbírálás szabályai
 
-34. § (1) A családtámogatási eljárásban a kérelmet írásban kell előterjeszteni.
+34. § (1) Az anyasági támogatás és a családi pótlék megállapítása intézetben született, Magyarországon élő, magyar állampolgár újszülött esetén – feltéve, hogy a szülő ezt vissza nem utasítja – az Elektronikus Egészségügyi Szolgáltatási Tér útján elektronikusan megkapott adatok alapján hivatalból induló eljárás keretében történik. Egyéb esetekben a családtámogatási ellátásokat írásban benyújtott kérelem alapján lehet megállapítani.
 
 (2)
 

@@ -4,7 +4,7 @@
 
 a) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 
-b)
+b) intézetben született újszülött: az az újszülött, akinek születését az anyakönyvi eljárásról szóló 2010. évi I. törvény 61. § (3) bekezdése szerint jelentik be az illetékes anyakönyvvezetőnek;
 
 c)
 
