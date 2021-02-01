@@ -1,4 +1,4 @@
-24. § (1) Halottat csak külön jogszabályban előírt orvosi vizsgálat és az erről szóló halottvizsgálati bizonyítvány alapján szabad eltemetni, vagy elhamvasztani. A halottvizsgálati bizonyítványt a temetés előtt kell az üzemeltető részére átadni. Az elhunyt elhamvasztásához a halottvizsgálati bizonyítványra minden esetben fel kell jegyezni az elhamvaszthatóságot. A halottvizsgálati bizonyítvány egy példányának megőrzéséről a temető tulajdonosa gondoskodik.
+24. § (1) Halottat csak jogszabályban előírt orvosi vizsgálat és az erről szóló halottvizsgálati bizonyítvány alapján szabad eltemetni vagy elhamvasztani. A halottvizsgálati bizonyítványt a temetés előtt kell az üzemeltető részére átadni, vagy elektronikus dokumentumként megküldeni. Az elhunyt elhamvasztásához a halottvizsgálati bizonyítványra minden esetben fel kell jegyezni az elhamvaszthatóságot. A halottvizsgálati bizonyítvány egy papíralapú vagy elektronikus példányának megőrzéséről a temető tulajdonosa gondoskodik.
 
 (2) Ha a halál körülményeinek vizsgálatára hatósági vagy büntetőeljárás indult, az elhunyt eltemetéséhez, elhamvasztásához az eljáró hatóság engedélye is szükséges.
 

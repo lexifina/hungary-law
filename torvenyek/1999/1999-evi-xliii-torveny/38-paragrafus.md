@@ -1,4 +1,4 @@
-38. § (1) Ha a halottvizsgálati bizonyítvány szerint a holttest hamvasztható, a hamvasztást az ország területén működő bármely hamvasztóüzemben el lehet végezni. A hamvaszthatóságot tanúsító halottvizsgálati bizonyítványról az üzem másolatot készít, amit a nyilvántartáshoz csatolva kell megőrizni.
+38. § (1) Ha a halottvizsgálati bizonyítvány szerint a holttest hamvasztható, a hamvasztást az ország területén működő bármely hamvasztóüzemben el lehet végezni. A hamvaszthatóságot tanúsító halottvizsgálati bizonyítványról az üzem másolatot készítve vagy a halottvizsgálati bizonyítvány elektronikus példányát az üzem a nyilvántartáshoz csatolva megőrzi.
 
 (2) Magyarországon elhunyt külföldi személy, vagy más országban elhunyt és Magyarországra szállított külföldi személy elhamvasztásához az elhunyt állampolgársága szerinti ország külképviseletének, ennek hiányában az utolsó lakhelye szerint illetékes hatóság engedélye szükséges, ha nemzetközi szerződés másként nem rendelkezik.
 

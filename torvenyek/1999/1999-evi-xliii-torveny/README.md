@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-43-00-00
 | 2018-01-01 | 2017. évi L. törvény | 1999-43-00-00.26 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 1999-43-00-00.27 |
 | 2021-01-01 | 2020. évi CLXIV. törvény | 1999-43-00-00.28 |
+| 2021-02-01 | 2019. évi CXVI. törvény | 1999-43-00-00.29 |
