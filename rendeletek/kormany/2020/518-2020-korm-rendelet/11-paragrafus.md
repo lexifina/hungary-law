@@ -2,7 +2,7 @@
 
 (2) A támogatói okirat tartalmazza
 
-a)[^15] az igénylő – együttes igénylés esetén az igénylők – alábbi adatait:
+a)[^17] az igénylő – együttes igénylés esetén az igénylők – alábbi adatait:
 
 aa) családi és utónév,
 
@@ -16,7 +16,7 @@ ae) lakóhely és
 
 af) adóazonosító jel,
 
-b)[^16] az igénylők – a magzat kivételével – valamennyi gyermekének alábbi adatait:
+b)[^18] az igénylők – a magzat kivételével – valamennyi gyermekének alábbi adatait:
 
 ba) családi és utónév,
 
@@ -32,13 +32,28 @@ bf) apja családi és utóneve, születési családi és utóneve, születési h
 
 c) a felújított ingatlan címét, helyrajzi számát,
 
-d) az igénylő belföldi pénzügyi intézménynél vezetett fizetési számlájának számát, valamint
+d)[^19] az igénylő belföldi pénzforgalmi szolgáltatónál vezetett – vagy a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet – fizetési számlájának számát, valamint
 
 e) az igénybe vett támogatás összegét.
 
-(3) A Kincstár a támogatói okiratot megküldi az igénylő részére.
+(3)[^20] A Kincstár a támogatói okiratot megküldi az igénylő, valamint a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet részére.
 
-(4) A Kincstár a támogatói okirat kiállítását követő 5 napon belül folyósítja a támogatást az igénylő belföldi fizetési számlájára.
+(4)[^21] A Kincstár a támogatói okirat kiállítását követő 5 napon belül
 
-[^15]: A 11. § (2) bekezdés a) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^16]: A 11. § (2) bekezdés b) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+a) az igénylő, vagy
+
+b) a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet
+
+## belföldi fizetési számlájára folyósítja – az igénylő javára történő előtörlesztés érdekében – a támogatást.
+
+(5)[^22] Az otthonfelújítási támogatás (4) bekezdés b) pontja szerinti folyósítását követően a hitelintézet az otthonfelújítási támogatást 4 napon belül egy összegben, előtörlesztésként a támogatott személy hitelintézetnél vezetett hitelszámláján írja jóvá, legfeljebb a fennálló otthonfelújítási kölcsöntartozás összegéig.
+
+(6)[^23] Ha az (5) bekezdésben foglalt esetben az otthonfelújítási támogatás folyósításának időpontjában az otthonfelújítási kölcsönhöz kapcsolódó tőketartozás és annak járulékai összege alacsonyabb a támogatói okirat szerint igénybe vehető támogatás összegénél, a különbözetet a hitelintézet a támogatott személy részére haladéktalanul megfizeti a támogatott személy által megjelölt belföldi fizetési számlára.
+
+[^17]: A 11. § (2) bekezdés a) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^18]: A 11. § (2) bekezdés b) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^19]: A 11. § (2) bekezdés d) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^20]: A 11. § (3) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^21]: A 11. § (4) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^22]: A 11. § (5) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^23]: A 11. § (6) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdése iktatta be.

@@ -1,5 +1,3 @@
-## 8. § A támogatás a lakáson végzett építési tevékenységek befejezését és a számlák kifizetését követően 60 napon belül, de legkésőbb 2022. december 31-ig igényelhető. Több számla esetén az igénylési határidő számításánál a legutolsó kifizetési időpontot kell alapul venni.
-
 9. § (1) A támogatás iránti kérelem a Kincstár által rendszeresített formanyomtatványon,
 
 a) – az igénylő, együttes igénylés esetén az igénylők egyike elektronikus azonosítását követően – a Kincstár által üzemeltetett elektronikus felületen,
@@ -84,7 +82,9 @@ q) a három hónapot meghaladó tartózkodás jogát tanúsító, a szabad mozg�
 
 r) a 3. § (5) bekezdése szerinti esetben a gyermekek otthongondozási díja vagy az ápolási díj megállapításáról szóló, a járási vagy fővárosi (kerületi) hivatal által kiállított határozat.
 
-s)[^14] a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (5a) bekezdésben foglaltak teljesüléséről,
+s)[^15] a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (5a) bekezdésben foglaltak teljesüléséről,
+
+t)[^16] otthonfelújítási kölcsön igénybevétele esetén a kölcsönszerződés,
 
 (4) Az igénylő az elektronikus úton benyújtott kérelmét és mellékleteit – így különösen a szükséges mellékletek másolatait – saját maga is hitelesítheti.
 
@@ -102,4 +102,5 @@ c) a kormányablak általi átvételének
 
 (7) Amennyiben az a szülő, akinek a nevére a számlát kiállították, a kérelem benyújtását megelőzően elhalálozik, és a számlát a másik szülő csatolja a kérelméhez, ez a tény a számla elfogadhatóságát nem akadályozza.
 
-[^14]: A 9. § (3) bekezdés s) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^15]: A 9. § (3) bekezdés s) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^16]: A 9. § (3) bekezdés t) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (2) bekezdése iktatta be.
