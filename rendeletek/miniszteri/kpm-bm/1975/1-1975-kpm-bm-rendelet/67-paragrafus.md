@@ -1,4 +1,4 @@
-67. §[^378] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+67. §[^379] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 91/671/EGK irányelve (1991. december 16.) a 3,5 tonnánál könnyebb járművekben a biztonsági öv kötelező használatára vonatkozó tagállami jogszabályok közelítéséről, a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelettel együtt;
 
@@ -6,17 +6,17 @@ b) az Európai Parlament és a Tanács 2003/20/EK irányelve (2003. április 8.)
 
 c) az Európai Parlament és a Tanács 2004/54/EK irányelve (2004. április 29.) a transzeurópai közúthálózat alagútjaira vonatkozó biztonsági minimumkövetelményekről, III. melléklet 2.1. pont;
 
-d)[^379] a járművekben a biztonsági övek és gyermekbiztonsági rendszerek kötelező használatáról szóló 91/671/EGK tanácsi irányelv módosításáról szóló, 2014. február 27-i 2014/37/EU bizottsági végrehajtási irányelv.
+d)[^380] a járművekben a biztonsági övek és gyermekbiztonsági rendszerek kötelező használatáról szóló 91/671/EGK tanácsi irányelv módosításáról szóló, 2014. február 27-i 2014/37/EU bizottsági végrehajtási irányelv.
 
-1. számú Függelék az 1/1975. (II. 5.) KPM–BM együttes rendelethez[^380]
+1. számú Függelék az 1/1975. (II. 5.) KPM–BM együttes rendelethez[^381]
 
 A rendeletben használt egyes fogalmak meghatározása a következő:
 
 I. Az úttal kapcsolatos fogalmak
 
-a)[^381] Út: a gyalogosok és a közúti járművek közlekedésére szolgáló közterület (közút), illetőleg magánterület (közforgalom elől el nem zárt magánút).
+a)[^382] Út: a gyalogosok és a közúti járművek közlekedésére szolgáló közterület (közút), illetőleg magánterület (közforgalom elől el nem zárt magánút).
 
-b)[^382] Járda: az útnak a gyalogosok közlekedésére szolgáló – az úttesttől szintkülönbséggel, kiemelt szegéllyel, vagy más látható módon elhatárolt – része; a gyalogút azonban nem járda.
+b)[^383] Járda: az útnak a gyalogosok közlekedésére szolgáló – az úttesttől szintkülönbséggel, kiemelt szegéllyel, vagy más látható módon elhatárolt – része; a gyalogút azonban nem járda.
 
 c) Úttest: az útnak a közúti járművek közlekedésére szolgáló része.
 
@@ -26,17 +26,17 @@ e) Forgalmi sáv: az úttestnek egy gépkocsisor biztonságos közlekedésére e
 
 f) Leállósáv: az útnak az úttesttel azonos szintben levő, attól útburkolati jellel elválasztott és útburkolattal ellátott része.
 
-f/1.[^383] Kerékpársáv: az úttesten útburkolati jellel kijelölt – kerékpárosok egyirányú közlekedésére szolgáló – különleges forgalmi sáv.
+f/1.[^384] Kerékpársáv: az úttesten útburkolati jellel kijelölt – kerékpárosok egyirányú közlekedésére szolgáló – különleges forgalmi sáv.
 
 g) Útpadka: az útnak az úttest mellett levő, útburkolattal el nem látott része.
 
-h)[^384] Kerékpárút: jelzőtáblával kerékpárútként megjelölt út.
+h)[^385] Kerékpárút: jelzőtáblával kerékpárútként megjelölt út.
 
-h/1.[^385] Gyalog- és kerékpárút: jelzőtáblával gyalog- és kerékpárútként megjelölt út, amelyen a gyalogos és a kerékpáros forgalom részére fenntartott útfelületet burkolati jellel és eltérő színű burkolattal is kijelölhető.
+h/1.[^386] Gyalog- és kerékpárút: jelzőtáblával gyalog- és kerékpárútként megjelölt út, amelyen a gyalogos és a kerékpáros forgalom részére fenntartott útfelületet burkolati jellel és eltérő színű burkolattal is kijelölhető.
 
-h/2.[^386] Kerékpáros nyom: az úttesten kerékpárt és nyilat mutató sárga színű burkolati jellel kijelölt útfelület.
+h/2.[^387] Kerékpáros nyom: az úttesten kerékpárt és nyilat mutató sárga színű burkolati jellel kijelölt útfelület.
 
-h/3.[^387] Nyitott kerékpársáv: az úttesten útburkolati jellel kijelölt – kerékpár és különleges esetekben (az egymás mellett történő elhaladáshoz szükséges hely biztosítása érdekében) jármű egyirányú közlekedésére szolgáló – különleges forgalmi sáv.
+h/3.[^388] Nyitott kerékpársáv: az úttesten útburkolati jellel kijelölt – kerékpár és különleges esetekben (az egymás mellett történő elhaladáshoz szükséges hely biztosítása érdekében) jármű egyirányú közlekedésére szolgáló – különleges forgalmi sáv.
 
 i) Járdasziget: az útnak az úttesten levő, attól kiemelt szegéllyel elválasztott és körülhatárolt – a járműforgalom elől elzárt, a gyalogosok védelmére vagy a járműforgalom irányítására szolgáló – része.
 
@@ -50,27 +50,27 @@ m) Autóút: jelzőtáblával autóútként megjelölt út.
 
 n) Főútvonal:jelzőtáblával főútvonalként megjelölt út.
 
-o)[^388] Gyalogút: jelzőtáblával gyalogútként megjelölt út, illetőleg olyan út, amely kizárólag a gyalogosok közlekedésére szolgál és az úttesttől tartós fizikai akadály (árok, korlát, kerítés, sövény, stb.) vagy két méternél nagyobb távolság választja el.
+o)[^389] Gyalogút: jelzőtáblával gyalogútként megjelölt út, illetőleg olyan út, amely kizárólag a gyalogosok közlekedésére szolgál és az úttesttől tartós fizikai akadály (árok, korlát, kerítés, sövény, stb.) vagy két méternél nagyobb távolság választja el.
 
-p)[^389] Útzár: a közútnak, rendőrségi ellenőrzés céljából, a járművek továbbhaladását akadályozó eszközökkel történő lezárása.
+p)[^390] Útzár: a közútnak, rendőrségi ellenőrzés céljából, a járművek továbbhaladását akadályozó eszközökkel történő lezárása.
 
-r)[^390] Biztosított vasúti átjáró: a közúti járművek forgalmát teljes sorompó; teljes sorompó és piros fényt adó kiegészítő berendezés; hangjelző berendezés; fénysorompó; félsorompóval kiegészített fénysorompó; jelzőőr szabályozza.
+r)[^391] Biztosított vasúti átjáró: a közúti járművek forgalmát teljes sorompó; teljes sorompó és piros fényt adó kiegészítő berendezés; hangjelző berendezés; fénysorompó; félsorompóval kiegészített fénysorompó; jelzőőr szabályozza.
 
-s)[^391] Biztosítatlan vasúti átjáró: a közúti járművek forgalmát az r) pontban meghatározott berendezések vagy jelzőőr nem szabályozza.
+s)[^392] Biztosítatlan vasúti átjáró: a közúti járművek forgalmát az r) pontban meghatározott berendezések vagy jelzőőr nem szabályozza.
 
-sz)[^392] Földút: jármű közlekedésre szabadon tartott, eredeti termett talajú vagy ahhoz hasonló anyagú (pl. zúzottkő, kavics, murva, kohósalak stb.) út, amelyen legfeljebb talajszerkezetet javító beavatkozás történt, ideértve azon földutat is, amely a szilárd burkolatú úthoz való csatlakozás, illetve a vasúti átjáró előtt legfeljebb 50 méter hosszban szilárd burkolattal rendelkezik.
+sz)[^393] Földút: jármű közlekedésre szabadon tartott, eredeti termett talajú vagy ahhoz hasonló anyagú (pl. zúzottkő, kavics, murva, kohósalak stb.) út, amelyen legfeljebb talajszerkezetet javító beavatkozás történt, ideértve azon földutat is, amely a szilárd burkolatú úthoz való csatlakozás, illetve a vasúti átjáró előtt legfeljebb 50 méter hosszban szilárd burkolattal rendelkezik.
 
-t)[^393] Szilárd burkolatú út: olyan út, amelynek úttestje szabályosan lerakott kő vagy műkő, továbbá beton vagy aszfalt burkolattal rendelkezik.
+t)[^394] Szilárd burkolatú út: olyan út, amelynek úttestje szabályosan lerakott kő vagy műkő, továbbá beton vagy aszfalt burkolattal rendelkezik.
 
 II. A közúti járművekkel kapcsolatos fogalmak
 
-a) Jármű:[^394] közúti szállító- vagy vontató eszköz, ideértve az önjáró vagy vontatott munkagépet is. A mozgáskorlátozottak közlekedésére szolgáló, emberi erővel tolt vagy hajtott kerekes szék és a gépi meghajtású kerekes szék – ha sík úton önerejéből 10 km/óra sebességnél gyorsabban haladni nem képes, továbbá a gyermekkocsi és a talicska – azonban nem minősül járműnek. Az ilyen eszközökkel közlekedő személyek gyalogosoknak minősülnek.
+a) Jármű:[^395] közúti szállító- vagy vontató eszköz, ideértve az önjáró vagy vontatott munkagépet is. A mozgáskorlátozottak közlekedésére szolgáló, emberi erővel tolt vagy hajtott kerekes szék és a gépi meghajtású kerekes szék – ha sík úton önerejéből 10 km/óra sebességnél gyorsabban haladni nem képes, továbbá a gyermekkocsi és a talicska – azonban nem minősül járműnek. Az ilyen eszközökkel közlekedő személyek gyalogosoknak minősülnek.
 
 b) Gépjármű: olyan jármű, amelyet beépített erőgép hajt. A mezőgazdasági vontató, a lassú jármű, a segédmotoros kerékpár és a villamos azonban nem minősül gépjárműnek.
 
-c)[^395] Gépkocsi: olyan gépjármű, melynek négy vagy több kereke van; a négy kerekű motorkerékpár azonban nem gépkocsi.
+c)[^396] Gépkocsi: olyan gépjármű, melynek négy vagy több kereke van; a négy kerekű motorkerékpár azonban nem gépkocsi.
 
-d)[^396] Személygépkocsi: személyszállítás céljára készült olyan gépkocsi, amelyben – a vezető ülését is beleértve – legfeljebb 9 állandó ülőhely van.
+d)[^397] Személygépkocsi: személyszállítás céljára készült olyan gépkocsi, amelyben – a vezető ülését is beleértve – legfeljebb 9 állandó ülőhely van.
 
 e) Autóbusz: személyszállítás céljára készült, elektromos felsővezetékhez nem kötött olyan gépkocsi, amelyben – a vezető ülését is beleértve – kilencnél több állandó ülőhely van.
 
@@ -82,27 +82,27 @@ h) Nyerges vontató: olyan vontató, amely a rajta levő nyeregszerkezet útján
 
 i) Tehergépkocsi: a személygépkocsit, az autóbuszt, a trolibuszt és a vontatót kivéve minden gépkocsi.
 
-i/1.[^397] Nehéz tehergépkocsi: tehergépkocsi, vontató, valamint e járművekből és pótkocsiból álló járműszerelvény, amelynek megengedett legnagyobb össztömege a 7,5 tonnát meghaladja.
+i/1.[^398] Nehéz tehergépkocsi: tehergépkocsi, vontató, valamint e járművekből és pótkocsiból álló járműszerelvény, amelynek megengedett legnagyobb össztömege a 7,5 tonnát meghaladja.
 
-j)[^398] Motorkerékpár: a külön jogszabályban L3e járműkategóriába sorolt kétkerekű oldalkocsi nélküli, L4e járműkategóriába sorolt oldalkocsival rendelkező jármű, továbbá a motoros tricikli.
+j)[^399] Motorkerékpár: a külön jogszabályban L3e járműkategóriába sorolt kétkerekű oldalkocsi nélküli, L4e járműkategóriába sorolt oldalkocsival rendelkező jármű, továbbá a motoros tricikli.
 
-k)[^399] Motoros tricikli: a külön jogszabályban L5e járműkategóriába sorolt háromkerekű és L7e járműkategóriába sorolt négykerekű motorkerékpár.
+k)[^400] Motoros tricikli: a külön jogszabályban L5e járműkategóriába sorolt háromkerekű és L7e járműkategóriába sorolt négykerekű motorkerékpár.
 
-l)[^400] Mezőgazdasági vontató: kerekes vagy lánctalpas kialakítású, legalább két tengellyel rendelkező, pótkocsi vontatására és/vagy mezőgazdasági, erdészeti feladatú berendezések, gépek vontatására, hordozására, tolására, működtetésére alkalmas, 25 km/óra sebességnél gyorsabban haladni képes jármű, mely teher- és személyszállításra is alkalmas lehet.
+l)[^401] Mezőgazdasági vontató: kerekes vagy lánctalpas kialakítású, legalább két tengellyel rendelkező, pótkocsi vontatására és/vagy mezőgazdasági, erdészeti feladatú berendezések, gépek vontatására, hordozására, tolására, működtetésére alkalmas, 25 km/óra sebességnél gyorsabban haladni képes jármű, mely teher- és személyszállításra is alkalmas lehet.
 
 m) Lassú jármű: olyan jármű, amelyet beépített erőgép hajt és sík úton önerejéből 25 km/óra sebességnél gyorsabban haladni nem képes.
 
 n) Pótkocsi: olyan jármű, amely gépjárművel, mezőgazdasági vontatóval vagy lassú járművel történő vontatásra készült. A legfeljebb 750 kilogramm megengedett legnagyobb össztömegű pótkocsi: könnyű pótkocsi, az ennél nagyobb össztömegű pótkocsi: nehéz pótkocsi.
 
-o)[^401] Félpótkocsi: olyan pótkocsi, amely a vontató nyeregszerkezetére támaszkodik úgy, hogy súlyának jelentős részét a vontató veszi át.
+o)[^402] Félpótkocsi: olyan pótkocsi, amely a vontató nyeregszerkezetére támaszkodik úgy, hogy súlyának jelentős részét a vontató veszi át.
 
 p) Járműszerelvény: gépjárműből, mezőgazdasági vontatóból vagy lassú járműből és hozzákapcsolt pótkocsiból (egyéb vontatmányból) álló, a forgalomban egy vezetővel, egységként részt vevő járműkombináció.
 
-r)[^402] Segédmotoros kerékpár: a külön jogszabályban L1e járműkategóriába sorolt kétkerekű, L2e járműkategóriába sorolt háromkerekű jármű, továbbá az L6e járműkategóriába sorolt quad és mopedautó.
+r)[^403] Segédmotoros kerékpár: a külön jogszabályban L1e járműkategóriába sorolt kétkerekű, L2e járműkategóriába sorolt háromkerekű jármű, továbbá az L6e járműkategóriába sorolt quad és mopedautó.
 
-r/1.[^403] Kerékpár: olyan, legalább kétkerekű jármű, amelyet emberi erő hajt, és ezt legfeljebb 300 W teljesítményű motor segíti. A kerékpáron a kerékpárt nem hajtó személy is szállítható erre alkalmas ülésen. A kerékpáron utánfutó vontatására alkalmas berendezés helyezhető el.
+r/1.[^404] Kerékpár: olyan, legalább kétkerekű jármű, amelyet emberi erő hajt, és ezt legfeljebb 300 W teljesítményű motor segíti. A kerékpáron a kerékpárt nem hajtó személy is szállítható erre alkalmas ülésen. A kerékpáron utánfutó vontatására alkalmas berendezés helyezhető el.
 
-r/2.[^404] Quad: a külön jogszabályban
+r/2.[^405] Quad: a külön jogszabályban
 
 – L6e járműkategóriába sorolt könnyű négykerekű segédmotoros kerékpár vagy
 
@@ -110,37 +110,37 @@ r/2.[^404] Quad: a külön jogszabályban
 
 amely nyitott utasterű, kormányműve nem áttételes és a motorkerékpárok esetében szokásos kezelőszervekkel van felszerelve.
 
-r/3.[^405] Mopedautó: a külön jogszabályban L6e járműkategóriába sorolt könnyű négykerekű segédmotoros kerékpár, amely zárt utasterű, több személy szállítására kialakított, kormánykerékkel és a gépkocsikban szokásos kezelőszervekkel van felszerelve.
+r/3.[^406] Mopedautó: a külön jogszabályban L6e járműkategóriába sorolt könnyű négykerekű segédmotoros kerékpár, amely zárt utasterű, több személy szállítására kialakított, kormánykerékkel és a gépkocsikban szokásos kezelőszervekkel van felszerelve.
 
 s) Villamos: olyan jármű, amely az úttestbe épített, vasúti pályaként meg nem jelölt sínpályán való közlekedésre szolgál.
 
-sz)[^406] Veszélyes anyagot szállító jármű: olyan jármű, amelyet elején és hátulján narancssárga alapszínű, felirat nélküli vagy felirattal ellátott táblával jelöltek meg (162. és 163. ábra).
+sz)[^407] Veszélyes anyagot szállító jármű: olyan jármű, amelyet elején és hátulján narancssárga alapszínű, felirat nélküli vagy felirattal ellátott táblával jelöltek meg (162. és 163. ábra).
 
-t)[^407] Saját tömeg: üzemanyaggal feltöltött és a szükséges tartozékokkal (szerszám, pótkerék stb.) ellátott üres jármű tömege.
+t)[^408] Saját tömeg: üzemanyaggal feltöltött és a szükséges tartozékokkal (szerszám, pótkerék stb.) ellátott üres jármű tömege.
 
-u)[^408] Össztömeg: a jármű saját tömegének, valamint a rajta levő személyeknek, rakománynak és egyéb tárgyaknak az együttes tömege.
+u)[^409] Össztömeg: a jármű saját tömegének, valamint a rajta levő személyeknek, rakománynak és egyéb tárgyaknak az együttes tömege.
 
-v)[^409] Megengedett legnagyobb össztömeg: az illetékes hatóság által meghatározott az a tömeg, amelyet a jármű össztömege nem haladhat meg.
+v)[^410] Megengedett legnagyobb össztömeg: az illetékes hatóság által meghatározott az a tömeg, amelyet a jármű össztömege nem haladhat meg.
 
-w)[^410] Gyermekbiztonsági rendszer:
+w)[^411] Gyermekbiztonsági rendszer:
 
 wa) integrált gyermekbiztonsági rendszer: hevederek vagy hajlékony elemek kombinációja, biztonsági csattal, beállító eszközökkel, tartozékokkal és egyes esetekben kiegészítő székkel és/vagy ütközésvédelemmel együtt, amit a saját beépített hevederrel vagy hevederekkel rögzítenek;
 
 wb) nem integrált gyermekbiztonsági rendszer: részleges biztonsági rendszer, amely a felnőttek számára szolgáló biztonsági övvel együtt használva – amely körbeveszi a gyermek testét, vagy biztonságosan rögzíti azt a szerkezetet, amelyben a gyermeket elhelyezik – teljes gyermekbiztonsági rendszert képez.
 
-x)[^411] Betegszállító gépjármű: külön jogszabály szerint ilyennek megjelölt és üzemeltetett jármű.
+x)[^412] Betegszállító gépjármű: külön jogszabály szerint ilyennek megjelölt és üzemeltetett jármű.
 
-y)[^412] Iskolabusz: kizárólag gyermekek, tanulók, felnőtt kísérő melletti szállítására rendszeresített és a 48. § (12) bekezdésében meghatározott feltételeknek megfelelő autóbusz, amely a közoktatási intézmény munkarendjéhez igazodóan közlekedik.
+y)[^413] Iskolabusz: kizárólag gyermekek, tanulók, felnőtt kísérő melletti szállítására rendszeresített és a 48. § (12) bekezdésében meghatározott feltételeknek megfelelő autóbusz, amely a közoktatási intézmény munkarendjéhez igazodóan közlekedik.
 
-y/1)[^413] Gyermekeket szállító autóbusz: az y) pontba nem tartozó, kizárólag gyermekek, tanulók és felnőtt kísérőjük szállítására igénybe vett – nem menetrend szerint közlekedő – autóbusz, amelyet a 20. § (6) bekezdésében foglaltak szerint a „Gyermekszállítás” táblával, továbbá „Gyermekszállítás” felirattal megjelöltek.
+y/1)[^414] Gyermekeket szállító autóbusz: az y) pontba nem tartozó, kizárólag gyermekek, tanulók és felnőtt kísérőjük szállítására igénybe vett – nem menetrend szerint közlekedő – autóbusz, amelyet a 20. § (6) bekezdésében foglaltak szerint a „Gyermekszállítás” táblával, továbbá „Gyermekszállítás” felirattal megjelöltek.
 
 z) Tengelyterhelés: a jármű egy-egy tengelyén levő kerekek által a vízszintes talajra átvitt súly.
 
-zs)[^414] Mezőgazdasági erőgép és vontatmánya: a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendeletben meghatározott járművek.
+zs)[^415] Mezőgazdasági erőgép és vontatmánya: a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendeletben meghatározott járművek.
 
 III. A közúti forgalommal kapcsolatos fogalmak
 
-a)[^415] Vezető: az a személy, aki az úton járművet vezet, vagy állatot hajt (vezet). A segédmotoros kerékpárt és a kerékpárt toló személy nem minősül vezetőnek. A gépkocsivezetés oktatása és az azt követő gyakorlati vizsga során vezetőnek az oktató minősül.
+a)[^416] Vezető: az a személy, aki az úton járművet vezet, vagy állatot hajt (vezet). A segédmotoros kerékpárt és a kerékpárt toló személy nem minősül vezetőnek. A gépkocsivezetés oktatása és az azt követő gyakorlati vizsga során vezetőnek az oktató minősül.
 
 b) Elsőbbség: továbbhaladási jog a közlekedés más résztvevőjével szemben. Azt a járművet, amelynek elsőbbsége van, az elsőbbségadásra kötelezett nem kényszerítheti haladási irányának vagy sebességének hirtelen megváltoztatására. Azt a gyalogost, akinek elsőbbsége van, az elsőbbségre kötelezett nem akadályozhatja és nem zavarhatja áthaladásában.
 
@@ -156,9 +156,9 @@ g) Éjszaka: az esti szürkület kezdetétől a reggeli szürkület megszűnés�
 
 h) Korlátozott látási viszonyok: az átlagos látási viszonyoknak felhősödés, köd, eső, hóesés, porfelhő vagy más ok miatt előállt jelentősebb korlátozottsága.
 
-i)[^416] Mobil rádiótelefon: a közcélú mobil rádiótelefon szolgáltatás igénybevételére alkalmas készülék (végberendezés).
+i)[^417] Mobil rádiótelefon: a közcélú mobil rádiótelefon szolgáltatás igénybevételére alkalmas készülék (végberendezés).
 
-j)[^417] Gyermekbiztonsági rendszer testsúly szerinti csoportba sorolása: a benne elhelyezhető gyermek testsúlya szerint:
+j)[^418] Gyermekbiztonsági rendszer testsúly szerinti csoportba sorolása: a benne elhelyezhető gyermek testsúlya szerint:
 
 j/a) 0. csoport: 10 kg testsúly alatt,
 
@@ -170,11 +170,11 @@ j/d) II. csoport: 15–25 kg testsúlyig,
 
 j/e) III. csoport: 22–36 kg testsúlyig,
 
-j/f)[^418] csoportba sorolás nélkül: a gyártó által meghatározott és a gyermekbiztonsági rendszeren feltüntetett mérettartomány és megengedett legnagyobb testsúly.
+j/f)[^419] csoportba sorolás nélkül: a gyártó által meghatározott és a gyermekbiztonsági rendszeren feltüntetett mérettartomány és megengedett legnagyobb testsúly.
 
-k)[^419] Fényvisszaverő mellény (ruházat): az MSZ EN 471:2003. számú szabványban meghatározott követelményeknek megfelelő mellény vagy ruházat.
+k)[^420] Fényvisszaverő mellény (ruházat): az MSZ EN 471:2003. számú szabványban meghatározott követelményeknek megfelelő mellény vagy ruházat.
 
-2. számú függelék az 1/1975. (II. 5.) KPM–BM együttes rendelethez[^420]
+2. számú függelék az 1/1975. (II. 5.) KPM–BM együttes rendelethez[^421]
 
 Az út mellett vagy közelében levő egyes létesítményekről tájékoztatást adó jelzőtáblák:
 
@@ -212,7 +212,7 @@ p) „Műemlék épület” (19. ábra)
 
 q) „Műemlék templom” (20. ábra)
 
-q/1.[^421] Templom vagy vallásgyakorlásra rendelt más hely (20/a. és 20/a/1. ábra)
+q/1.[^422] Templom vagy vallásgyakorlásra rendelt más hely (20/a. és 20/a/1. ábra)
 
 r) „Műemlék vár, várrom” (21. ábra)
 
@@ -236,62 +236,62 @@ z) „Fürdőhely” (30. ábra)
 
 zs) „Lovaglás” (31. ábra)
 
-zs/1.[^422] Ólommentes benzint is árusító üzemanyagtöltő állomás (32. ábra)
+zs/1.[^423] Ólommentes benzint is árusító üzemanyagtöltő állomás (32. ábra)
 
-zs/2.[^423] Az úton erre illetékes hatóság ellenőrzést végez (33. ábra).
+zs/2.[^424] Az úton erre illetékes hatóság ellenőrzést végez (33. ábra).
 
-zs/3.[^424] Ólommentes benzint és autógázt is árusító üzemanyagtöltő állomás (34. ábra).
+zs/3.[^425] Ólommentes benzint és autógázt is árusító üzemanyagtöltő állomás (34. ábra).
 
-zs/4.[^425] Közösségi Internet hozzáférési (eMagyarország) pont (35. ábra).
+zs/4.[^426] Közösségi Internet hozzáférési (eMagyarország) pont (35. ábra).
 
-zs/5.[^426] „Közúti forgalom ellenőrzése” (36. ábra); a járművek elhaladási sebességének ellenőrzésére szolgáló sebességellenőrző berendezés fix telepítését – a berendezéstől számított ésszerű távolságra – e táblával kell jelezni. Az átlagsebesség-ellenőrző rendszerrel ellátott útszakasz kezdetét a „Közúti forgalom ellenőrzése” (36. ábra), az ellenőrzött útszakasz végét a „Közúti forgalom ellenőrzésének vége” (37. ábra) jelzőtábla jelzi.
+zs/5.[^427] „Közúti forgalom ellenőrzése” (36. ábra); a járművek elhaladási sebességének ellenőrzésére szolgáló sebességellenőrző berendezés fix telepítését – a berendezéstől számított ésszerű távolságra – e táblával kell jelezni. Az átlagsebesség-ellenőrző rendszerrel ellátott útszakasz kezdetét a „Közúti forgalom ellenőrzése” (36. ábra), az ellenőrzött útszakasz végét a „Közúti forgalom ellenőrzésének vége” (37. ábra) jelzőtábla jelzi.
 
-[^378]: A 67. §-t az 58/2007. (III. 31.) Korm. rendelet 11. §-a iktatta be.
-[^379]: A 67. § d) pontját a 226/2014. (IX. 4.) Korm. rendelet 4. §-a iktatta be.
-[^380]: Az eredeti függelék megjelölését 1. számú Függelékre változtatta a 2/1984. (I. 29.) KM–BM rendelet 39. § (1) bekezdése.
-[^381]: Az 1. számú Függelék I. rész a) pontja a 4/1988. (VI. 30.) KM-BM együttes rendelet 21. §-ának (1) bekezdésével megállapított szöveg.
-[^382]: Az 1. számú Függelék I. rész b) pontja a 4/1988. (VI. 30.) KM–BM együttes rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^383]: Az 1. számú Függelék I. részének f/1. pontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (1) bekezdése iktatta a szövegbe. Újonnan a 28/2001. (II. 15.) Korm. rendelet 25. §-a állapította meg.
-[^384]: Az 1. számú Függelék I. rész h) pontja a 4/1988. (VI. 30.) KM–BM együttes rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^385]: Az 1. számú függelék I. fejezet h/1. pontját a 289/2009. (XII. 18.) Korm. rendelet 27. §-a iktatta be.
-[^386]: Az 1. számú függelék I. fejezet h/2. pontját a 289/2009. (XII. 18.) Korm. rendelet 27. §-a iktatta be.
-[^387]: Az 1. számú függelék I. fejezet h/3. pontját a 289/2009. (XII. 18.) Korm. rendelet 27. §-a iktatta be.
-[^388]: A rendelet 1. számú Függeléke I. részének o) pontját a 4/1988. (VI. 30.) KM-BM együttes rendelet 21. §-ának (1) bekezdése iktatta be a rendeletbe.
-[^389]: Az 1. számú Függelék I. rész p) pontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (1) bekezdése iktatta a szövegbe.
-[^390]: Az 1. számú Függelék I. rész r) pontját a 104/1997. (VI. 18.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^391]: Az 1. számú Függelék I. rész s) pontját a 104/1997. (VI. 18.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^392]: Az 1. számú Függelék I. részének sz) pontját a 28/2001. (II. 15.) Korm. rendelet 25. §-a iktatta be.
-[^393]: Az 1. számú Függelék I. részének t) pontját a 28/2001. (II. 15.) Korm. rendelet 25. §-a iktatta be.
-[^394]: Az 1. számú Függelék II. részének a) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (1) bekezdésével megállapított szöveg.
-[^395]: Az 1. számú Függelék II. részének c) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (2) bekezdésével megállapított szöveg.
-[^396]: Az 1. számú Függelék II. részének d) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (2) bekezdésével megállapított szöveg.
-[^397]: Az 1. számú függelék II. cím i) pont i/1. alpontját a 209/2013. (VI. 18.) Korm. rendelet 51. § (2) bekezdése iktatta be.
-[^398]: Az 1. számú függelék II. fejezet j) pontja a 289/2009. (XII. 18.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^399]: Az 1. számú függelék II. fejezet k) pontja a 289/2009. (XII. 18.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^400]: Az 1. számú Függelék II. részének l) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (2) bekezdésével megállapított szöveg.
-[^401]: A rendelet 1. számú Függeléke II. részének o) pontja a 16/1979. (VIII. 12.) KPM-BM együttes rendelet 5. §-ával megállapított szöveg.
-[^402]: Az 1. számú függelék II. fejezet r) pontja a 289/2009. (XII. 18.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^403]: Az 1. számú Függelék II. részének r/1. alpontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (2) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^404]: Az 1. számú függelék II. fejezet r/2. pontját a 289/2009. (XII. 18.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^405]: Az 1. számú függelék II. fejezet r/3. pontját a 289/2009. (XII. 18.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^406]: A rendelet 1. számú Függeléke II. részének sz) pontja a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (3) bekezdésével megállapított szöveg.
-[^407]: Az 1. számú Függelék II. rész t) pontja a 2/1984. (I. 29.) KM-BM együttes rendelet 39. §-ának (1) bekezdésével megállapított szöveg.
-[^408]: Az 1. számú Függelék II. rész u) pontja a 2/1984. (I. 29.) KM–BM együttes rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^409]: Az 1. számú Függelék II. rész v) pontja a 2/1984. (I. 29.) KM–BM együttes rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^410]: Az 1. számú függelék II. fejezetének w) pontját az 58/2007. (III. 31.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^411]: Az 1. számú függelék II. fejezetének x) pontját az 59/2004. (III. 31.) Korm. rendelet 9. §-a iktatta be.
-[^412]: Az 1. számú függelék II. fejezetének y) pontját az 58/2007. (III. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
-[^413]: Az 1. számú függelék II. fejezet y/1) pontját a 129/2013. (IV. 30.) Korm. rendelet 8. §-a iktatta be.
-[^414]: Az 1. számú függelék II. pont zs) alpontját a 137/2011. (VII. 19.) Korm. rendelet 4. §-a iktatta be.
-[^415]: Az I. számú Függelék III. része a) pontjának utolsó mondata a 148/1992. (XI. 12.) Korm. rendelet 12. §-ának (2) bekezdésével megállapított szöveg.
-[^416]: Az 1. számú Függelék III. részének i) alpontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (2) bekezdése iktatta a szövegbe.
-[^417]: Az 1. számú függelék III. részének j) pontját a 28/2001. (II. 15.) Korm. rendelet 27. §-a iktatta be, szövege az 58/2007. (III. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^418]: Az 1. számú függelék III. fejezet j) pont j/f) alpontját a 226/2014. (IX. 4.) Korm. rendelet 5. §-a iktatta be.
-[^419]: Az 1. számú függelék III. fejezetének k) pontját az 58/2007. (III. 31.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^420]: A rendelet 2. számú Függelékét a 2/1984. (I. 29.) KM-BM együttes rendelet 40. §-a iktatta be a rendeletbe.
-[^421]: A 2. számú függeléke a következő q/1. pontját a 183/2019. (VII. 26.) Korm. rendelet 4. §-a iktatta be.
-[^422]: A rendelet 2. számú Függelékének zs/1 pontját a 4/1988. (VI. 30.) KM-BM együttes rendelet 22. §-a iktatta a szövegbe.
-[^423]: A 2. számú Függelék zs/2. pontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (3) bekezdése iktatta a szövegbe.
-[^424]: A 2. számú Függelék zs/3. pontját a 104/1997. (VI. 18.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^425]: A 2. számú függelék zs/4. pontját az 59/2004. (III. 31.) Korm. rendelet 10. §-a iktatta be.
-[^426]: A 2. számú függelék zs/5. pontját a 289/2009. (XII. 18.) Korm. rendelet 29. §-a iktatta be.
+[^379]: A 67. §-t az 58/2007. (III. 31.) Korm. rendelet 11. §-a iktatta be.
+[^380]: A 67. § d) pontját a 226/2014. (IX. 4.) Korm. rendelet 4. §-a iktatta be.
+[^381]: Az eredeti függelék megjelölését 1. számú Függelékre változtatta a 2/1984. (I. 29.) KM–BM rendelet 39. § (1) bekezdése.
+[^382]: Az 1. számú Függelék I. rész a) pontja a 4/1988. (VI. 30.) KM-BM együttes rendelet 21. §-ának (1) bekezdésével megállapított szöveg.
+[^383]: Az 1. számú Függelék I. rész b) pontja a 4/1988. (VI. 30.) KM–BM együttes rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^384]: Az 1. számú Függelék I. részének f/1. pontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (1) bekezdése iktatta a szövegbe. Újonnan a 28/2001. (II. 15.) Korm. rendelet 25. §-a állapította meg.
+[^385]: Az 1. számú Függelék I. rész h) pontja a 4/1988. (VI. 30.) KM–BM együttes rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^386]: Az 1. számú függelék I. fejezet h/1. pontját a 289/2009. (XII. 18.) Korm. rendelet 27. §-a iktatta be.
+[^387]: Az 1. számú függelék I. fejezet h/2. pontját a 289/2009. (XII. 18.) Korm. rendelet 27. §-a iktatta be.
+[^388]: Az 1. számú függelék I. fejezet h/3. pontját a 289/2009. (XII. 18.) Korm. rendelet 27. §-a iktatta be.
+[^389]: A rendelet 1. számú Függeléke I. részének o) pontját a 4/1988. (VI. 30.) KM-BM együttes rendelet 21. §-ának (1) bekezdése iktatta be a rendeletbe.
+[^390]: Az 1. számú Függelék I. rész p) pontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (1) bekezdése iktatta a szövegbe.
+[^391]: Az 1. számú Függelék I. rész r) pontját a 104/1997. (VI. 18.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^392]: Az 1. számú Függelék I. rész s) pontját a 104/1997. (VI. 18.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^393]: Az 1. számú Függelék I. részének sz) pontját a 28/2001. (II. 15.) Korm. rendelet 25. §-a iktatta be.
+[^394]: Az 1. számú Függelék I. részének t) pontját a 28/2001. (II. 15.) Korm. rendelet 25. §-a iktatta be.
+[^395]: Az 1. számú Függelék II. részének a) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (1) bekezdésével megállapított szöveg.
+[^396]: Az 1. számú Függelék II. részének c) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (2) bekezdésével megállapított szöveg.
+[^397]: Az 1. számú Függelék II. részének d) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (2) bekezdésével megállapított szöveg.
+[^398]: Az 1. számú függelék II. cím i) pont i/1. alpontját a 209/2013. (VI. 18.) Korm. rendelet 51. § (2) bekezdése iktatta be.
+[^399]: Az 1. számú függelék II. fejezet j) pontja a 289/2009. (XII. 18.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^400]: Az 1. számú függelék II. fejezet k) pontja a 289/2009. (XII. 18.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^401]: Az 1. számú Függelék II. részének l) pontja a 28/2001. (II. 15.) Korm. rendelet 26. §-ának (2) bekezdésével megállapított szöveg.
+[^402]: A rendelet 1. számú Függeléke II. részének o) pontja a 16/1979. (VIII. 12.) KPM-BM együttes rendelet 5. §-ával megállapított szöveg.
+[^403]: Az 1. számú függelék II. fejezet r) pontja a 289/2009. (XII. 18.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^404]: Az 1. számú Függelék II. részének r/1. alpontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (2) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^405]: Az 1. számú függelék II. fejezet r/2. pontját a 289/2009. (XII. 18.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^406]: Az 1. számú függelék II. fejezet r/3. pontját a 289/2009. (XII. 18.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^407]: A rendelet 1. számú Függeléke II. részének sz) pontja a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (3) bekezdésével megállapított szöveg.
+[^408]: Az 1. számú Függelék II. rész t) pontja a 2/1984. (I. 29.) KM-BM együttes rendelet 39. §-ának (1) bekezdésével megállapított szöveg.
+[^409]: Az 1. számú Függelék II. rész u) pontja a 2/1984. (I. 29.) KM–BM együttes rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^410]: Az 1. számú Függelék II. rész v) pontja a 2/1984. (I. 29.) KM–BM együttes rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^411]: Az 1. számú függelék II. fejezetének w) pontját az 58/2007. (III. 31.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^412]: Az 1. számú függelék II. fejezetének x) pontját az 59/2004. (III. 31.) Korm. rendelet 9. §-a iktatta be.
+[^413]: Az 1. számú függelék II. fejezetének y) pontját az 58/2007. (III. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
+[^414]: Az 1. számú függelék II. fejezet y/1) pontját a 129/2013. (IV. 30.) Korm. rendelet 8. §-a iktatta be.
+[^415]: Az 1. számú függelék II. pont zs) alpontját a 137/2011. (VII. 19.) Korm. rendelet 4. §-a iktatta be.
+[^416]: Az I. számú Függelék III. része a) pontjának utolsó mondata a 148/1992. (XI. 12.) Korm. rendelet 12. §-ának (2) bekezdésével megállapított szöveg.
+[^417]: Az 1. számú Függelék III. részének i) alpontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (2) bekezdése iktatta a szövegbe.
+[^418]: Az 1. számú függelék III. részének j) pontját a 28/2001. (II. 15.) Korm. rendelet 27. §-a iktatta be, szövege az 58/2007. (III. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^419]: Az 1. számú függelék III. fejezet j) pont j/f) alpontját a 226/2014. (IX. 4.) Korm. rendelet 5. §-a iktatta be.
+[^420]: Az 1. számú függelék III. fejezetének k) pontját az 58/2007. (III. 31.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^421]: A rendelet 2. számú Függelékét a 2/1984. (I. 29.) KM-BM együttes rendelet 40. §-a iktatta be a rendeletbe.
+[^422]: A 2. számú függeléke a következő q/1. pontját a 183/2019. (VII. 26.) Korm. rendelet 4. §-a iktatta be.
+[^423]: A rendelet 2. számú Függelékének zs/1 pontját a 4/1988. (VI. 30.) KM-BM együttes rendelet 22. §-a iktatta a szövegbe.
+[^424]: A 2. számú Függelék zs/2. pontját a 104/1997. (VI. 18.) Korm. rendelet 28. §-ának (3) bekezdése iktatta a szövegbe.
+[^425]: A 2. számú Függelék zs/3. pontját a 104/1997. (VI. 18.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^426]: A 2. számú függelék zs/4. pontját az 59/2004. (III. 31.) Korm. rendelet 10. §-a iktatta be.
+[^427]: A 2. számú függelék zs/5. pontját a 289/2009. (XII. 18.) Korm. rendelet 29. §-a iktatta be.

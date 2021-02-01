@@ -2,7 +2,7 @@
 
 4. § (1) Járművet az vezethet, aki
 
-a) a jármű vezetésére jogszabályban meghatározott, érvényes engedéllyel rendelkezik, és a jármű vezetésétől eltiltva nincs,
+a)[^6] a jármű vezetésére jogszabályban meghatározott, érvényes engedéllyel vagy – jogszabályban meghatározott esetben – az engedély-nyilvántartásba bejegyzett érvényes járművezetési jogosultsággal rendelkezik, és a jármű vezetésétől nincs eltiltva,
 
 b) a jármű biztonságos vezetésére képes állapotban van, továbbá
 
@@ -12,6 +12,7 @@ c) a vezetési képességre hátrányosan ható szer befolyása alatt nem áll, 
 
 (3) Az (1) bekezdésben említett engedélyt a vezetőnek vezetés közben magánál kell tartania.
 
-(4)[^6] Az (1) bekezdés b) pontjában foglalt feltétel fennállása esetén a kerékpárosra nem kell alkalmazni az (1) bekezdés c) pontjában a járművezető szervezetében szeszesital fogyasztásából származó alkohol jelenlétére vonatkozó korlátozást.
+(4)[^7] Az (1) bekezdés b) pontjában foglalt feltétel fennállása esetén a kerékpárosra nem kell alkalmazni az (1) bekezdés c) pontjában a járművezető szervezetében szeszesital fogyasztásából származó alkohol jelenlétére vonatkozó korlátozást.
 
-[^6]: A 4. § (4) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 172/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdés a) pontja az 572/2020. (XII. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 4. § (4) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 172/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -22,7 +22,7 @@ e) karjelzés hiányában a rendőr vállával párhuzamos, illetőleg vállára
 
 f) ha a rendőr kinyújtott karjával maga felé int, ezzel a sebesség növelésére, ha pedig kinyújtott karját le- és felfelé mozgatja, a sebesség csökkentésére ad utasítást.
 
-(2)[^16] Ha a rendőr a forgalmat nem útkereszteződésben irányítja,
+(2)[^17] Ha a rendőr a forgalmat nem útkereszteződésben irányítja,
 
 a) a járművek megállítására
 
@@ -34,10 +34,10 @@ b) a megkülönböztető fényjelzést használó gépkocsiból vagy motorkerék
 
 (3) A rendeletben meghatározott egyéb közúti jelzések és a forgalmi szabályok csak annyiban irányadók, amennyiben a rendőr jelzésével nem ellentétesek.
 
-(4)[^17] Az (1), (2) és a (3) bekezdésben foglalt rendelkezések értelemszerűen irányadók a szolgálatban lévő katonai forgalomszabályozó, a katasztrófavédelmi hatóság közúti ellenőre, a vám- és pénzügyőr, a tűzoltó, valamint a forgalmat ellenőrző közlekedési hatóság közúti ellenőre által adott jelzésekre is.
+(4)[^18] Az (1), (2) és a (3) bekezdésben foglalt rendelkezések értelemszerűen irányadók a szolgálatban lévő katonai forgalomszabályozó, a katasztrófavédelmi hatóság közúti ellenőre, a vám- és pénzügyőr, a tűzoltó, valamint a forgalmat ellenőrző közlekedési hatóság közúti ellenőre által adott jelzésekre is.
 
-(5)[^18] A közterület-felügyelő a jármű megállítására a (2) bekezdés a) pont aa) alpontjában foglalt jelzést adja. Az ilyen jelzés észlelése esetén a járművel meg kell állni.
+(5)[^19] A közterület-felügyelő a jármű megállítására a (2) bekezdés a) pont aa) alpontjában foglalt jelzést adja. Az ilyen jelzés észlelése esetén a járművel meg kell állni.
 
-[^16]: A 6. § (2) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A 6. § (4) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: A 6. § (5) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^17]: A 6. § (2) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 6. § (4) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 6. § (5) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 5. § (4) bekezdése iktatta be.
