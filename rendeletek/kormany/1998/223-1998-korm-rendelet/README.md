@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-223-20-
 | 2020-07-31 | 1998-223-20-22.56 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2020-10-01 | 1998-223-20-22.57 | 306/2020. (VI. 30.) Korm. rendelet |
 | 2021-01-01 | 1998-223-20-22.58 | 668/2020. (XII. 28.) Korm. rendelet |
+| 2021-02-01 | 1998-223-20-22.59 | 572/2020. (XII. 9.) Korm. rendelet |

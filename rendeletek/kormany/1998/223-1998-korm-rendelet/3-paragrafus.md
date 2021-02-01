@@ -1,12 +1,12 @@
 ## 3. § A Cst. 39. §-a alapján – írásban – be kell jelenteni
 
-a)[^33] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
+a)[^35] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
 
 aa) a gyermeknek az ellátásra jogosult háztartásából történő kikerülését,
 
 ab) a gyermek, személy tartós betegségére, illetve súlyos fogyatékosságára okot adó körülmény megszűnését,
 
-ac)[^34]
+ac)[^36]
 
 ad) a 18 éven felüli személy rendszeres jövedelmét,
 
@@ -22,31 +22,31 @@ ai) az Európai Unió tagállamában vagy az Európai Gazdasági Térségről sz
 
 aj) az ellátásra jogosult Cst. 45. § (2) bekezdés c) pontja szerinti adatában bekövetkezett változást, továbbá – ha az adatváltozás házasságkötésre, új bejegyzett élettársi vagy élettársi kapcsolat létesítésére tekintettel következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. § (2) bekezdés a) és e) pontjában meghatározott adatát,
 
-ak)[^35] ha a családi pótlék folyósításának időtartama alatt a nevelőszülőnél vagy gyermekotthonban elhelyezett gyermek három hónapot egybefüggően engedély nélkül távol van a kijelölt gondozási helyétől,
+ak)[^37] ha a családi pótlék folyósításának időtartama alatt a nevelőszülőnél vagy gyermekotthonban elhelyezett gyermek három hónapot egybefüggően engedély nélkül távol van a kijelölt gondozási helyétől,
 
-al)[^36] ha a tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy vagy vele együtt élő házastársa, élettársa részére a gyermek után jogszabály alapján a tartós külszolgálatra vagy tartós külföldi szolgálatra tekintettel bármilyen jogcímen ellátást, díjat vagy támogatást állapítanak meg;
+al)[^38] ha a tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy vagy vele együtt élő házastársa, élettársa részére a gyermek után jogszabály alapján a tartós külszolgálatra vagy tartós külföldi szolgálatra tekintettel bármilyen jogcímen ellátást, díjat vagy támogatást állapítanak meg;
 
-b)[^37] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
+b)[^39] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
 
 ba) a gyermek tartós betegségére, illetve súlyos fogyatékosságára okot adó körülmény megszűnését,
 
-bb)[^38] ha az ellátásra jogosult – ide nem értve a kiskorú szülő gyermekének gyámját – a gyermek féléves kora előtt, nagyszülő esetében a gyermek hároméves kora előtt folytat keresőtevékenységet,
+bb)[^40] ha az ellátásra jogosult – ide nem értve a kiskorú szülő gyermekének gyámját – a gyermek féléves kora előtt, nagyszülő esetében a gyermek hároméves kora előtt folytat keresőtevékenységet,
 
-bc)[^39]
+bc)[^41]
 
-bd)[^40] ha a gyermekgondozást segítő ellátásra jogosult nagyszülő a gyermek hároméves kora után folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 21/A. §-ában megjelölt módon és időtartamban történik,
+bd)[^42] ha a gyermekgondozást segítő ellátásra jogosult nagyszülő a gyermek hároméves kora után folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 21/A. §-ában megjelölt módon és időtartamban történik,
 
-be)[^41] ha a gyermekgondozást segítő ellátásra a Cst. 20/B. §-a alapján jogosult személy heti 30 órát meghaladó időtartamban folytat keresőtevékenységet,
+be)[^43] ha a gyermekgondozást segítő ellátásra a Cst. 20/B. §-a alapján jogosult személy heti 30 órát meghaladó időtartamban folytat keresőtevékenységet,
 
-bf)[^42] ha az ellátásra jogosult a Cst. 27. § (1) bekezdés a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, vagy ha házastársa, élettársa csecsemőgondozási díjban vagy gyermekgondozási díjban részesül,
+bf)[^44] ha az ellátásra jogosult a Cst. 27. § (1) bekezdés a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, vagy ha házastársa, élettársa csecsemőgondozási díjban vagy gyermekgondozási díjban részesül,
 
-bg)[^43]
+bg)[^45]
 
 bh) az ellátásra jogosult előzetes letartóztatásba vételét, illetve szabadságvesztés büntetésének megkezdését,
 
 bi) az ellátásra jogosult három hónapot meghaladó, egybefüggő külföldi tartózkodásának tényét,
 
-bj)[^44] nagyszülő által igénybe vett gyermekgondozást segítő ellátás esetében mindazokat a körülményeket, amelyek akár a nagyszülő vonatkozásában, akár a szülő vonatkozásában az ellátásra való jogosultság elvesztését vonják maguk után,
+bj)[^46] nagyszülő által igénybe vett gyermekgondozást segítő ellátás esetében mindazokat a körülményeket, amelyek akár a nagyszülő vonatkozásában, akár a szülő vonatkozásában az ellátásra való jogosultság elvesztését vonják maguk után,
 
 bk) az ellátásra jogosult nevének, fizetési számlaszámának vagy lakcímének megváltozását,
 
@@ -56,26 +56,26 @@ bm) ha a gyermeknevelési támogatásra jogosult személy folytat keresőtevéke
 
 bn) az EGT-államban történő munkavállalás vagy önálló vállalkozói tevékenység folytatásának tényét,
 
-bo)[^45] ha a tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy vagy vele együtt élő házastársa, élettársa részére a gyermek után jogszabály alapján a tartós külszolgálatra vagy tartós külföldi szolgálatra tekintettel bármilyen jogcímen ellátást, díjat vagy támogatást állapítanak meg;
+bo)[^47] ha a tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy vagy vele együtt élő házastársa, élettársa részére a gyermek után jogszabály alapján a tartós külszolgálatra vagy tartós külföldi szolgálatra tekintettel bármilyen jogcímen ellátást, díjat vagy támogatást állapítanak meg;
 
-c)[^46] a méltányossági jogkörben megállapított gyermekgondozást segítő ellátás folyósításának, szüneteltetésének időtartama alatt a b) pont alpontjaiban megjelölt bejelentési kötelezettségen túl
+c)[^48] a méltányossági jogkörben megállapított gyermekgondozást segítő ellátás folyósításának, szüneteltetésének időtartama alatt a b) pont alpontjaiban megjelölt bejelentési kötelezettségen túl
 
 ca) a gyermek szüleinek a gyermek nevelésében történő akadályoztatásának megszűnését,
 
-cb)[^47] a gyermek – méltányossági gyermekgondozást segítő ellátás megállapítására okot adó – betegségének megszűnését.
+cb)[^49] a gyermek – méltányossági gyermekgondozást segítő ellátás megállapítására okot adó – betegségének megszűnését.
 
-[^33]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^34]: A 3. § a) pont ac) alpontját a 360/2019. (XII. 30.) Korm. rendelet 16. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^35]: A 3. § a) pont ak) alpontját a 417/2015. (XII. 23.) Korm. rendelet 11. §-a iktatta be.
-[^36]: A 3. § a) pont al) alpontját a 405/2017. (XII. 15.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^37]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^38]: A 3. § b) pont bb) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^39]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^40]: A 3. § b) pont bd) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^41]: A 3. § b) pont be) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^42]: A 3. § b) pont bf) alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 33. § (20) bekezdés a) pontja szerint módosított szöveg.
-[^43]: A 3. § b) pont bg) alpontja a 417/2015. (XII. 23.) Korm. rendelet 23. § (1) bekezdés a) pontja alapján hatályát vesztette.
-[^44]: A 3. § b) pont bj) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^45]: A 3. § b) pont bo) alpontját a 405/2017. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^46]: A 3. § c) pont nyitó szövegrésze a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^47]: A 3. § c) pont cb) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^35]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^36]: A 3. § a) pont ac) alpontját a 360/2019. (XII. 30.) Korm. rendelet 16. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^37]: A 3. § a) pont ak) alpontját a 417/2015. (XII. 23.) Korm. rendelet 11. §-a iktatta be.
+[^38]: A 3. § a) pont al) alpontját a 405/2017. (XII. 15.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^39]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^40]: A 3. § b) pont bb) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^41]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^42]: A 3. § b) pont bd) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^43]: A 3. § b) pont be) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^44]: A 3. § b) pont bf) alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 33. § (20) bekezdés a) pontja szerint módosított szöveg.
+[^45]: A 3. § b) pont bg) alpontja a 417/2015. (XII. 23.) Korm. rendelet 23. § (1) bekezdés a) pontja alapján hatályát vesztette.
+[^46]: A 3. § b) pont bj) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^47]: A 3. § b) pont bo) alpontját a 405/2017. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^48]: A 3. § c) pont nyitó szövegrésze a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^49]: A 3. § c) pont cb) alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
