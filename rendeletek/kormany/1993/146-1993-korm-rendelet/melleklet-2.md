@@ -8,7 +8,7 @@
 
 ## Címzett:
 
-## Én[^292]
+## Én[^299]
 
 ## – családi neve:
 
@@ -34,7 +34,7 @@
 
 ## Aláírás / Elektronikus aláírás
 
-2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^293]
+2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^300]
 
-[^292]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
-[^293]: Az R. 2. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés a) pontjával megállapított szöveg.
+[^299]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
+[^300]: Az R. 2. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés a) pontjával megállapított szöveg.

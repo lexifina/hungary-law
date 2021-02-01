@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2020-10-02 | 1993-146-20-22.58 | 446/2020. (X. 1.) Korm. rendelet |
 | 2020-12-12 | 1993-146-20-22.59 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-01-01 | 1993-146-20-22.60 | 668/2020. (XII. 28.) Korm. rendelet |
+| 2021-02-01 | 1993-146-20-22.61 | 572/2020. (XII. 9.) Korm. rendelet |
