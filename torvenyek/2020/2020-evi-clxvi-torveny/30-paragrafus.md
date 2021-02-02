@@ -2,24 +2,24 @@
 
 a)
 
-b) 34. § (2) bekezdés e) pontja,
+b)
 
-c) 34. § (4) bekezdése,
+c)
 
-d) 44/A. §-a,
+d)
 
 e)
 
 f)
 
-g) 55. § (1a) bekezdése,
+g)
 
-h) 61. § (6) bekezdése,
+h)
 
 i)
 
-j) 1. melléklet b) Jegyzőkönyv a házasságkötési szándék bejelentéséről cím 11. pontja,
+j)
 
-k) 1. melléklet c) Jegyzőkönyv bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről cím 9. pontja,
+k)
 
 l)

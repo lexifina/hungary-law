@@ -4,6 +4,6 @@
 
 a)
 
-b) 29/F. § (2) bekezdésében az „a polgárt” szövegrész helyébe az „a polgárt, valamint a polgár lakóhelye szerint illetékes járási hivatalt is” szöveg
+b)
 
 lép.
