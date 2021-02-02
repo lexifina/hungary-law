@@ -1,3 +1,3 @@
-## 67. § A SzigR. 9. §-a helyébe a következő rendelkezés lép:
+## 67. §[^125]
 
-## „9. § Az állandó személyazonosító igazolvány kiadására irányuló eljárás a 26., 29., 30., 31/A. és a 31/B. §-ban meghatározott kivétellel kérelemre indul.”
+[^125]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 79. § A SzigR. 62. §-a helyébe a következő rendelkezés lép:
+## 79. §[^138]
 
-## „62. § (1) Az egységes arcképmás- és aláírás-felvételezésre irányuló eljárásban a kérelmező – a 61. § (2a) bekezdésében meghatározott kivétellel – személyesen köteles megjelenni.
-
-## (2) A kérelem előterjesztésekor az eljáró szerv a kérelmezőről arcképmás felvételt készít.”
+[^138]: A 79. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

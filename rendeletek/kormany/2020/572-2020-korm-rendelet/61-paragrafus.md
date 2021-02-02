@@ -1,12 +1,14 @@
-## 60. § A Hvkr. a 9. melléklet szerinti 4. melléklettel egészül ki.
+## 60. §[^116]
 
 ## 61. § A Hvkr.
 
-a)[^79]
+a)[^117]
 
-b) 42. § (2) bekezdésében a „három példányát” szövegrész helyébe az „ismeretlen személyazonosságú elhunyt esetén három példányát, egyéb esetben a Központi Statisztikai Hivatal (a továbbiakban: KSH) példányát” szöveg,
+b)[^118]
 
-c)[^80]
+c)[^119]
 
-[^79]: A 61. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^80]: A 61. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 61. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 61. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 61. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

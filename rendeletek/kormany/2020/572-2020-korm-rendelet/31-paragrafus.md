@@ -1,1 +1,3 @@
-## „(4b) A vezetői engedély automatikus kiállítása során a (4a) bekezdés szerinti, a felvételezésétől számított három évnél nem régebbi arcképmás és aláírás használható fel. Amennyiben csak ennél régebbi aláírás és arcképmás felvétel áll rendelkezésre, úgy az ügyfélnek videotechnológiával történt személyazonosítást követően elektronikus úton vagy a kormányablakban személyesen van lehetősége új egységes arcképmás- és aláírás-felvételezést kezdeményezni.”
+## 30. §[^31]
+
+[^31]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

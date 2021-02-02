@@ -1,3 +1,3 @@
-## 73. § A SzigR. 24. §-a a következő (3c) bekezdéssel egészül ki:
+## 73. §[^132]
 
-## „(3c) A járási hivatalban, a kijelölt kormányhivatalban kell átadni az állandó személyazonosító igazolványt, ha a kérelem benyújtására elektronikus ügyintézési ponton kerül sor.”
+[^132]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

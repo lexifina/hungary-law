@@ -1,5 +1,6 @@
-## 108. §[^125]
+## 108. §[^184]
 
-## 22. Az anyakönyvezési feladatok ellátásának részletes szabályairól szóló 429/2017. (XII. 20.) Korm. rendelet módosítása
+## 22.[^185]
 
-[^125]: A 108. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^184]: A 108. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 22. alcím (109–112. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

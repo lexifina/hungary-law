@@ -1,1 +1,3 @@
-## „(9) Elektronikus ügyintézési ponton benyújtott kérelem esetén az állandó személyazonosító igazolványhoz tartozó PIN-kód létrehozásához szükséges aktiváló PIN-kódot és PUK-kódot amennyiben rendelkezik vele, a kérelmező Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyére kell megküldeni.”
+## 72. §[^131]
+
+[^131]: A 72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

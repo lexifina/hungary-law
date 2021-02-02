@@ -1,1 +1,3 @@
-## „(7) A nyilvántartást kezelő szerv – a 17. § (1) bekezdés c) pont cd) és ce) alpontjában meghatározott kivétellel – és a kijelölt kormányhivatal a hatósági igazolványt közvetlenül is átadhatja az érintettnek.”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,23 +1,23 @@
-## 104. §[^118]
+## 104. §[^175]
 
 ## 105. § Hatályát veszti az eVhr.
 
-a)[^119]
+a)[^176]
 
-b)[^120]
+b)[^177]
 
-c)[^121]
+c)[^178]
 
-d)[^122]
+d)[^179]
 
-e)[^123]
+e)[^180]
 
-f)[^124]
+f)[^181]
 
-[^118]: A 104. § a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^119]: A 105. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^120]: A 105. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^121]: A 105. § c) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^122]: A 105. § d) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^123]: A 105. § e) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^124]: A 105. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^175]: A 104. § a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^176]: A 105. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^177]: A 105. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^178]: A 105. § c) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^179]: A 105. § d) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^180]: A 105. § e) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^181]: A 105. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

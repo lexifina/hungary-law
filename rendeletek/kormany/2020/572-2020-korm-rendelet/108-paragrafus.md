@@ -1,1 +1,3 @@
-## 107. § Az Stt. Vhr. 2. melléklete a 11. melléklet szerint módosul.
+## 107. §[^183]
+
+[^183]: A 107. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

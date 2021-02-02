@@ -1,3 +1,3 @@
-## 41. § Az R. a következő 117/A. §-sal egészül ki:
+## 41. §[^43]
 
-## „117/A. § A statisztikai számjele alapján főtevékenységként gépjármű, jármű, pótkocsi, illetve mezőgazdasági gépek forgalmazására jogosult egyéni vállalkozó járműkereskedőre, továbbá a településszintű lakcímmel rendelkező természetes személyre nem alkalmazhatóak a házasságkötésből eredő névváltozás miatti törzskönyv és forgalmi engedély automatikus kiállítás útján történő cseréjére vonatkozó szabályok.”
+[^43]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

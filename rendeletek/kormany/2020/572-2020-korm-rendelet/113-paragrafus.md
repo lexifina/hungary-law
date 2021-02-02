@@ -1,3 +1,5 @@
-## 112. § A 429/2017. Korm. rendelet 17. § (2) bekezdésében a „Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ)” szövegrész helyébe a „NISZ” szöveg lép.
+## 112. §
 
-## 23. Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet módosítása
+## 23.[^186]
+
+[^186]: A 23. alcím (113. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

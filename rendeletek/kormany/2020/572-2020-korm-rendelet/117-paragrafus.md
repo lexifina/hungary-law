@@ -1,3 +1,3 @@
-## 116. §[^127]
+## 116. §[^188]
 
-[^127]: A 116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^188]: A 116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

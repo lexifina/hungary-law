@@ -1,1 +1,3 @@
-## „(10) Az (1), (2) és a (4) bekezdés esetében az adatátadás az anyakönyvi bejegyzést követően az elektronikus anyakönyvi rendszeren keresztül automatikus átadással történik. Az (5) bekezdés, valamint a (6)–(8) bekezdés esetében az adatszolgáltatást az anyakönyvi bejegyzést követő hónap ötödik napjáig kell teljesíteni. Az adatszolgáltatást a (9) bekezdés esetében a nyilatkozattételt követő hónap ötödik napjáig kell teljesíteni. A (3) bekezdés esetében az adatszolgáltatást a perinatális halottvizsgálati bizonyítvány küldésével egyidejűleg, a halálesetet követő hónap ötödik napjáig kell teljesíteni.”
+## 106. §[^182]
+
+[^182]: A 106. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

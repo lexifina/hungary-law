@@ -1,3 +1,3 @@
-## 103. §[^117]
+## 103. §[^174]
 
-[^117]: A 103. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^174]: A 103. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

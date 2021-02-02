@@ -1,3 +1,3 @@
-## 78. § A SzigR. 61. §-a a következő (2a) bekezdéssel egészül ki:
+## 78. §[^137]
 
-## „(2a) Az egységes arcképmás- és aláírás-felvételezésre irányuló kérelem videotechnológiával történt azonosítást követően a járási hivatalnál és az országos telefonos ügyfélszolgálatnál elektronikus kapcsolattartás keretében is előterjeszthető.”
+[^137]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
