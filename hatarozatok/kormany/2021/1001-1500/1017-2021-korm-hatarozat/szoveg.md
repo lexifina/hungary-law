@@ -26,4 +26,6 @@ c) az érintett gazdasági társaságok vezetői részére intézkedés megtéte
 
 7. Ez a határozat 2021. február 1-jén lép hatályba.
 
-8. Hatályát veszti a kormánybiztos kinevezéséről szóló 1015/2019. (I. 25.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
