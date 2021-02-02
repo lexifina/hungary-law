@@ -1,4 +1,4 @@
-17. § A Hhvtv.
+17. §
 
 a)
 
@@ -32,10 +32,8 @@ o)
 
 p)
 
-q) 67. § (3) bekezdésében az „ötszázezer” szövegrész helyébe a „kettőmillió”,
+q)
 
 r)
 
 s)
-
-szöveg lép.
