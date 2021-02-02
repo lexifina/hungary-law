@@ -1,1 +1,1 @@
-13. § A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény az 5. melléklet szerinti 2. melléklettel egészül ki.
+13. §

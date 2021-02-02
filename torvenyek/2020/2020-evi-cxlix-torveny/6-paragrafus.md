@@ -1,3 +1,1 @@
-6. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (2) bekezdés alkalmazásában 100%-os állami tulajdonban álló gazdálkodó szervezetnek kell tekinteni a Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény 3. § (4) bekezdése szerinti gazdasági társaságot, valamint költségvetési szervnek kell tekinteni a Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény 2. § (1) bekezdésében nevesített Magyar Agrár- és Élettudományi Egyetemet.”
+6. §

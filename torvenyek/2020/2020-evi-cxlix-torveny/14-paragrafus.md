@@ -1,1 +1,1 @@
-14. § A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény 7. §-ában a „4. § (1) bekezdése” szövegrész helyébe a „4. § (1), (9) és (10) bekezdése” szöveg lép.
+14. §
