@@ -1,3 +1,5 @@
 ## is érteni kell.
 
-5. § Hatályát veszti a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 367/2019. (XII. 30.) Korm. rendelet.
+5. §[^2]
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
