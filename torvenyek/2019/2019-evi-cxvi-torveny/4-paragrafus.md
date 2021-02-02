@@ -1,11 +1,9 @@
-4. § Az Nytv.
+4. §
 
 a)
 
 b)
 
-c) 21. § q) pontjában a „biztosításával összefüggésben” szövegrész helyébe a „biztosításával összefüggésben, valamint jogszabályban meghatározott feladatai ellátásához” szöveg,
+c)
 
 d)
-
-lép.

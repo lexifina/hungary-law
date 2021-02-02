@@ -1,7 +1,5 @@
-15. § Az 1996. évi XX. törvény
+15. §
 
-a) 37. § (1) bekezdés c) pontjában az „elhalálozásáról” szövegrész helyébe az „elhalálozása tényéről, helyéről, idejéről” szöveg,
+a)
 
 b)
-
-lép.
