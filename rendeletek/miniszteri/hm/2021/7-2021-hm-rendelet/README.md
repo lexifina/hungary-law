@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-7-20-15
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-02-01 | 2021-7-20-15.1 | 7/2021. (I. 29.) HM rendelet |
+| 2021-02-02 | 2021-7-20-15.2 | 2010: CXXX. törvény |
