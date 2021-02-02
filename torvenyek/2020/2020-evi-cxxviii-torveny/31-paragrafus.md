@@ -1,3 +1,1 @@
-31. § A Kbt. 105. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az ajánlatkérő a közbeszerzési dokumentumokban rendelkezhet úgy is, hogy az ajánlatok bírálatát az ajánlatok értékelését követően végzi el. Ebben az esetben csak az értékelési sorrendben legkedvezőbb vagy a legkedvezőbb és az azt követő egy vagy több legkedvezőbb ajánlattevő tekintetében végzi el a bírálatot. A bírálat során biztosítani kell, hogy a nyertes – és ha az összegezésben meg kívánja nevezni, a második legkedvezőbb ajánlatot tett – ajánlattevő ajánlatának érvényességét az eljárást lezáró döntést megelőzően az ajánlatkérő teljeskörűen elbírálja.”
+31. §
