@@ -4,7 +4,7 @@ a)
 
 b)
 
-c) 21. § f) pontja,
+c)
 
 d)
 
