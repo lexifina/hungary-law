@@ -1,0 +1,3 @@
+## 2. § A CSTNM rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A XI. Miniszterelnökség fejezetbe sorolt előirányzat felhasználásának részletes szabályait az 1. melléklet tartalmazza, a XLVII. Gazdaságvédelmi Alap fejezetbe sorolt előirányzat felhasználásának részletes szabályait a 2. melléklet tartalmazza. Az 1. mellékletben és a 2. mellékletben meghatározott felhasználási szabályokat az egyes előirányzatokhoz rendelt megfelelő államháztartási egyedi azonosító számmal azonosított előirányzatra kell alkalmazni, annak a fejezeten belüli címrendi besorolásától függetlenül.”
