@@ -8,5 +8,11 @@ b)[^16] – a megkötött szerződésre vonatkozó adatok rögzítésével egyid
 
 c) a jogorvoslati eljárás megindítását követő munkanapon az adott eljárással kapcsolatban jogorvoslati eljárás indulásának tényét és – a Közbeszerzési Döntőbizottság határozatának közlését követő munkanapon – a jogorvoslati eljárás eredményét.
 
+d)[^17] a Kbt. 35. § (1) bekezdése szerinti esetben – keretmegállapodás esetén kizárólag a keretmegállapodás alapján kötött egyedi szerződés vonatkozásában – a szerződéses ellenszolgáltatásból a közös ajánlattevők szerződéskötéskor tervezett, valamint a szerződés teljesítését követően a tényleges részesedésének értékét,
+
+e)[^18] az EKR-ben statisztikai célból rögzítendő más adatokat.
+
 [^15]: A 8. § a) pontja a 9/2020. (I. 31.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^16]: A 8. § b) pontja a 66/2019. (III. 27.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^17]: A 8. § d) pontját a 40/2021. (II. 2.) Korm. rendelet 15. §-a iktatta be.
+[^18]: A 8. § e) pontját a 40/2021. (II. 2.) Korm. rendelet 15. §-a iktatta be.

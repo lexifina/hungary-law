@@ -16,11 +16,15 @@
 
 (8) A 2018. január 1-jét megelőzően elektronikusan megkezdett eljárásokra a közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól, valamint az elektronikus árlejtés alkalmazásáról szóló 257/2007. (X. 4.) Korm. rendeletnek az eljárás megindításakor hatályos rendelkezéseit kell alkalmazni.
 
-(9)[^56] E rendeletnek az egyes kormányrendeleteknek az elektronikus közbeszerzés szabályainak rendezésével összefüggő módosításáról szóló 66/2019. (III. 27.) Korm. rendelet (a továbbiakban: Módr.) által – a (10) bekezdésben hivatkozott rendelkezések kivételével – megállapított rendelkezéseit a Módr. hatálybalépése[^57] után megkezdett beszerzésekre, közbeszerzési eljárásokra kell alkalmazni.
+(9)[^59] E rendeletnek az egyes kormányrendeleteknek az elektronikus közbeszerzés szabályainak rendezésével összefüggő módosításáról szóló 66/2019. (III. 27.) Korm. rendelet (a továbbiakban: Módr.) által – a (10) bekezdésben hivatkozott rendelkezések kivételével – megállapított rendelkezéseit a Módr. hatálybalépése[^60] után megkezdett beszerzésekre, közbeszerzési eljárásokra kell alkalmazni.
 
-(10)[^58] E rendeletnek a Módr. által megállapított 16. § (2)–(4) bekezdésének, valamint 22. § (3)–(4) bekezdésének rendelkezéseit a Módr. hatálybalépését[^59] követően felmerülő üzemzavar vagy működési hiba esetén, a folyamatban lévő beszerzésekben, közbeszerzési eljárásokban is kell alkalmazni.
+(10)[^61] E rendeletnek a Módr. által megállapított 16. § (2)–(4) bekezdésének, valamint 22. § (3)–(4) bekezdésének rendelkezéseit a Módr. hatálybalépését[^62] követően felmerülő üzemzavar vagy működési hiba esetén, a folyamatban lévő beszerzésekben, közbeszerzési eljárásokban is kell alkalmazni.
 
-[^56]: A 35. § (9) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^57]: A hatálybalépés időpontja 2019. április 1.
-[^58]: A 35. § (10) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^59]: A hatálybalépés időpontja 2019. április 1.
+(11)[^63] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 40/2021. (II. 2.) Korm. rendelet által megállapított 3. §-át, 8. § d) és e) pontját, valamint 8/A. §-át a hatálybalépését[^64] követően teljesített közzétételi és statisztikai célú adatrögzítési kötelezettség teljesítésekor kell alkalmazni.
+
+[^59]: A 35. § (9) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^60]: A hatálybalépés időpontja 2019. április 1.
+[^61]: A 35. § (10) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^62]: A hatálybalépés időpontja 2019. április 1.
+[^63]: A 35. § (11) bekezdését a 40/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2021. február 3.
