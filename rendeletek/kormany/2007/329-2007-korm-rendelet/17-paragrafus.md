@@ -6,6 +6,7 @@ b) az Európai Unió Bűnüldözési Képzési Ügynökségéről (CEPOL), valam
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) A 6. § (3) bekezdés n) pontja a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2)[^158] A 6. § (3) bekezdés n) pontja a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^157]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 298/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^158]: A 17. § (2) bekezdése a 37/2021. (II. 2.) Korm. rendelet 2. §-ával megállapított szöveg.

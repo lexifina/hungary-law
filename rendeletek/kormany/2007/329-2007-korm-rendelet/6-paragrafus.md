@@ -98,7 +98,7 @@ l)[^47] ellátja a fegyveres biztonsági őrség létrehozásával, működésé
 
 m)[^48] engedélyezi a fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását,
 
-n)[^49] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet szerinti nemzeti kapcsolattartó pontként fogadja a magyarországi székhellyel, fiókteleppel rendelkező gazdasági szereplőnek a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló kormányrendeletben meghatározott gyanús tranzakciókra, valamint jelentős hiányokra és lopásokra vonatkozó bejelentését,
+n)[^49] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet szerinti nemzeti kapcsolattartó pontként fogadja a magyarországi székhellyel, fiókteleppel rendelkező gazdasági szereplőnek a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló kormányrendeletben meghatározott gyanús tranzakciókra, valamint jelentős hiányokra és lopásokra vonatkozó bejelentését,
 
 o)[^50] másodfokon elbírálja a közúti közlekedésről szóló 1988. évi I. törvény 9. § (5) bekezdése alapján a területi szerv által hozott első fokú döntéssel szemben benyújtott fellebbezéseket, továbbá ezekben az ügyekben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el,
 
@@ -157,7 +157,7 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^46]: A 6. § (3) bekezdés j) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni. A 6. § (3) bekezdés eredeti j) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése k) pontra változtatta.
 [^47]: A 6. § (3) bekezdés l) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^48]: A 6. § (3) bekezdés m) pontját a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^49]: A 6. § (3) bekezdés n) pontját a 275/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 298/2018. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^49]: A 6. § (3) bekezdés n) pontját a 275/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 37/2021. (II. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^50]: A 6. § (3) bekezdés o) pontját a 457/2017. (XII. 28.) Korm. rendelet 205. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^51]: A 6. § (3) bekezdés p) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^52]: A 6. § (3) bekezdés q) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.

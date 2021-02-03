@@ -116,7 +116,7 @@
 
 ## 5.23. BRFK Dunai Vízirendészeti Rendőrkapitányság, Budapest
 
-## 6.[^168] Csongrád-Csanád Megyei Rendőr-főkapitányság
+## 6.[^169] Csongrád-Csanád Megyei Rendőr-főkapitányság
 
 ## 6.1. Szegedi Rendőrkapitányság, Szeged
 
@@ -348,7 +348,7 @@
 
 ## 20.4. Lenti Rendőrkapitányság, Lenti
 
-3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^169]
+3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^170]
 
-[^168]: A 2. melléklet 6. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
-[^169]: A 3. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^169]: A 2. melléklet 6. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
+[^170]: A 3. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
