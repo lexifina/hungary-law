@@ -6,29 +6,29 @@
 
 a) a Kbt. 62. § (1) bekezdés a) és e) pontja tekintetében – amelyet kizárólag természetes személy gazdasági szereplő köteles igazolni –, valamint a Kbt. 62. § (2) bekezdésében említett személyek esetén közjegyző vagy gazdasági, illetve szakmai kamara által hitelesített nyilatkozatot;
 
-b)[^14] a Kbt. 62. § (1) bekezdés b) pontja tekintetében az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) szerinti köztartozásmentes adózói adatbázisból az ajánlatkérő ellenőrzi, ha a gazdasági szereplő az adatbázisban nem szerepel, az illetékes adó- és vámhivatal igazolását vagy az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti adóigazolást;
+b)[^19] a Kbt. 62. § (1) bekezdés b) pontja tekintetében az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) szerinti köztartozásmentes adózói adatbázisból az ajánlatkérő ellenőrzi, ha a gazdasági szereplő az adatbázisban nem szerepel, az illetékes adó- és vámhivatal igazolását vagy az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti adóigazolást;
 
-c) a Kbt. 62. § (1) bekezdés c) és d) pontja tekintetében a céginformációs és az elektronikus cégeljárásban közreműködő szolgálattól (a továbbiakban: céginformációs szolgálat) ingyenesen, elektronikusan kérhető cégjegyzék-adatok alapján az ajánlatkérő ellenőrzi; a Kbt. 62. § (1) bekezdés d) pontja tekintetében, ha a gazdasági szereplő a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény értelmében nem minősül cégnek, vagy ha az adott szervezet tevékenységének felfüggesztésére a cégbíróságon kívül más hatóság is jogosult, közjegyző vagy gazdasági, illetve szakmai kamara által hitelesített nyilatkozatot;
+c)[^20] a Kbt. 62. § (1) bekezdés c) és d) pontja tekintetében a céginformációs és az elektronikus cégeljárásban közreműködő szolgálattól (a továbbiakban: céginformációs szolgálat) ingyenesen, elektronikusan kérhető cégjegyzékadatok alapján az ajánlatkérő ellenőrzi; a Kbt. 62. § (1) bekezdés c) pontja és a 62. § (1a) bekezdése alkalmazása esetén az ajánlatkérő szükség esetén a gazdasági szereplő nyilatkozatában megadott információkon kívül a gazdasági szereplő szerződés teljesítésére való képességének igazolására más dokumentum benyújtását is kérheti; a Kbt. 62. § (1) bekezdés d) pontja tekintetében, ha a gazdasági szereplő a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény értelmében nem minősül cégnek, vagy ha az adott szervezet tevékenységének felfüggesztésére a cégbíróságon kívül más hatóság is jogosult, közjegyző vagy gazdasági, illetve szakmai kamara által hitelesített nyilatkozatot;
 
 d) a Kbt. 62. § (1) bekezdés f) pontja tekintetében a kizáró ok hiányát a céginformációs szolgálattól ingyenesen, elektronikusan kérhető cégjegyzék-adatok alapján az ajánlatkérő ellenőrzi; ha a nem természetes személy gazdasági szereplő nem minősül cégnek, közjegyző vagy gazdasági, illetve szakmai kamara által hitelesített nyilatkozatot;
 
-e) a Kbt. 62. § (1) bekezdés g) pontja tekintetében a kizáró ok hiányát a Hatóság honlapján elérhető nyilvántartásból, valamint a céginformációs szolgálattól ingyenesen, elektronikusan kérhető cégjegyzék-adatok alapján az ajánlatkérő ellenőrzi;
+e)[^21]
 
-f)[^15] a Kbt. 62. § (1) bekezdés h) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot, a Közbeszerzési Döntőbizottság vagy a bíróság döntésére vonatkozóan a kizáró ok hiányát a Hatóság honlapján közzétett adatokból az ajánlatkérő ellenőrzi;
+f)[^22] a Kbt. 62. § (1) bekezdés h) pontjára vonatkozóan az ajánlatkérő a Hatóság honlapján közzétett adatbázist ellenőrzi. A Kbt. 62. § (1) bekezdés h) pont ha) alpontja alkalmazásában az ajánlatkérő a Hatóság honlapján közzétett információkat és a gazdasági szereplő 4. § (1b) bekezdése szerinti nyilatkozatát veszi figyelembe, valamint alkalmazhatja a Kbt. 69. § (13) bekezdését a kizárás megítéléséhez szükséges további információk kéréséhez;
 
 g) a Kbt. 62. § (1) bekezdés i) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
-h) a Kbt. 62. § (1) bekezdés j) pontja tekintetében az adott eljárásban a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során; korábbi közbeszerzési eljárásra vonatkozóan pedig az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
+h)[^23] a Kbt. 62. § (1) bekezdés j) pontja tekintetében az adott eljárásban a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során; korábbi közbeszerzési eljárásra vonatkozóan az ajánlatkérő a Hatóság honlapján közzétett adatbázist ellenőrzi. A Kbt. 62. § (1) bekezdés j) pont ja) alpontja alkalmazásában az ajánlatkérő a Hatóság honlapján közzétett információkat és a gazdasági szereplő 4. § (1b) bekezdése szerinti nyilatkozatát veszi figyelembe, valamint alkalmazhatja a Kbt. 69. § (13) bekezdését a kizárás megítéléséhez szükséges további információk kéréséhez;
 
 i) a Kbt. 62. § (1) bekezdés k) pontjára vonatkozóan
 
 ia) a Kbt. 62. § (1) bekezdés k) pont ka) alpontja tekintetében nem szükséges igazolás vagy nyilatkozat benyújtása, a céginformációs szolgálattól ingyenesen, elektronikusan kérhető cégjegyzék-adatok alapján az ajánlatkérő azt ellenőrzi, hogy valóban Magyarországon bejegyzett gazdasági szereplőről van szó;
 
-ib)[^16] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az ajánlattevő, illetve részvételre jelentkező nyilatkozata, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: pénzmosásról szóló törvény) 3. § 38. pont a)–b) vagy d) alpontja szerint definiált valamennyi tényleges tulajdonosa nevének és lakóhelyének bemutatását tartalmazza; ha a gazdasági szereplőnek nincs a pénzmosásról szóló törvény 3. § 38. pont a)–b) vagy d) alpontja szerinti tényleges tulajdonosa, úgy erre vonatkozó nyilatkozatot szükséges csatolni;
+ib)[^24] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az ajánlattevő, illetve részvételre jelentkező nyilatkozata, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: pénzmosásról szóló törvény) 3. § 38. pont a)–b) vagy d) alpontja szerint definiált valamennyi tényleges tulajdonosa nevének és lakóhelyének bemutatását tartalmazza; ha a gazdasági szereplőnek nincs a pénzmosásról szóló törvény 3. § 38. pont a)–b) vagy d) alpontja szerinti tényleges tulajdonosa, úgy erre vonatkozó nyilatkozatot szükséges csatolni;
 
 ic) a Kbt. 62. § (1) bekezdés k) pont kc) alpontjára vonatkozóan az ajánlattevő vagy részvételre jelentkező nyilatkozata arról, hogy van-e olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik; ha van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező azt nyilatkozatban megnevezi (cégnév, székhely), továbbá nyilatkozik, hogy annak vonatkozásában a Kbt. 62. § (1) bekezdés k) pont kc) alpontjában hivatkozott kizáró feltétel nem áll fenn;
 
-j)[^17] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
+j)[^25] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
 
 k) a Kbt. 62. § (1) bekezdés m) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -36,12 +36,16 @@ l) a Kbt. 62. § (1) bekezdés n) pontja tekintetében a Gazdasági Versenyhivat
 
 m) a Kbt. 62. § (1) bekezdés o) pontja tekintetében az ajánlatkérő köteles elfogadni igazolásként az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
 
-n) a Kbt. 62. § (1) bekezdés p) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
+n)[^26]
 
-o)[^18] a Kbt. 62. § (1) bekezdés q) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a jogsértés megtörténtét vagy annak hiányát a Hatóság honlapján közzétett adatokból az ajánlatkérő ellenőrzi.
+o)[^27]
 
-[^14]: A 8. § b) pontja a 475/2017. (XII. 28.) Korm. rendelet 61. § 1. pontja szerint módosított szöveg.
-[^15]: A 8. § f) pontja a 487/2016. (XII. 28.) Korm. rendelet 7. § (7) bekezdésével megállapított szöveg.
-[^16]: A 8. § i) pont ib) alpontja a 66/2019. (III. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^17]: A 8. § j) pontja a 126/2019. (V. 30.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^18]: A 8. § o) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (8) bekezdése iktatta be.
+[^19]: A 8. § b) pontja a 475/2017. (XII. 28.) Korm. rendelet 61. § 1. pontja szerint módosított szöveg.
+[^20]: A 8. § c) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^21]: A 8. § e) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 1. pontja hatályon kívül helyezte.
+[^22]: A 8. § f) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^23]: A 8. § h) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^24]: A 8. § i) pont ib) alpontja a 66/2019. (III. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^25]: A 8. § j) pontja a 126/2019. (V. 30.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^26]: A 8. § n) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja hatályon kívül helyezte.
+[^27]: A 8. § o) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (8) bekezdése iktatta be, hatályon kívül helyezte a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja.

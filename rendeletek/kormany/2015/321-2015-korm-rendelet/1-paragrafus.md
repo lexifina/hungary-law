@@ -8,17 +8,20 @@
 
 (3) A III. és IV. Fejezetben feltüntetett igazolások nem kérhetők, ha az ajánlatkérő a Kbt. 69. § (11) bekezdésében foglaltaknak megfelelően közvetlenül hozzáfér az érintett Fejezetekben nem említett, a kizáró okok hiányát vagy a gazdasági szereplő alkalmasságát igazoló adatbázisokhoz, és a gazdasági szereplő ezek elérhetőségét az egységes európai közbeszerzési dokumentumban megjelölte.
 
+(3a)[^3] Ha a III. és IV. Fejezet szerinti igazoláshoz használt adatbázisok tartalma a közbeszerzésekért felelős miniszter által üzemeltetett elektronikus közbeszerzési rendszerben (a továbbiakban: EKR) elérhető, az ajánlatkérő az igazoláshoz szükséges információkat közvetlenül az EKR-ben, az EKR erre szolgáló funkciójának segítségével is ellenőrizheti.
+
 (4) A III. és IV. Fejezetben említett igazolási módok az V. Fejezetnek megfelelőn kiválthatók, ha az érintett gazdasági szereplő minősített ajánlattevői jegyzéken való szerepléssel bizonyítja, hogy megfelel a közbeszerzési eljárásban előírt követelményeknek.
 
 (5) Nem Magyarországon letelepedett gazdasági szereplő esetén az ajánlatkérő az igazolások hitelességét a VI. Fejezetnek megfelelően jogosult ellenőrizni.
 
 (6) A közbeszerzési műszaki leírást a VII. Fejezetnek megfelelően kell összeállítani.
 
-(7)[^3] A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.
+(7)[^4] A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.
 
-(8)[^4] Részekre történő ajánlattétel esetén nem kérhető a gazdasági szereplőtől olyan nyilatkozat vagy igazolás benyújtása, amelyet ugyanazon közbeszerzési eljárás valamely része tekintetében a gazdasági szereplő már benyújtott. Ebben az esetben a gazdasági szereplő nyilatkozik arról, hogy mely rész tekintetében benyújtott nyilatkozatot vagy igazolást kéri figyelembe venni a bírálat során.
+(8)[^5] Részekre történő ajánlattétel esetén nem kérhető a gazdasági szereplőtől olyan nyilatkozat vagy igazolás benyújtása, amelyet ugyanazon közbeszerzési eljárás valamely része tekintetében a gazdasági szereplő már benyújtott. Ebben az esetben a gazdasági szereplő nyilatkozik arról, hogy mely rész tekintetében benyújtott nyilatkozatot vagy igazolást kéri figyelembe venni a bírálat során.
 
 [^1]: Az 1. § (1) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 9/2020. (I. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^3]: Az 1. § (7) bekezdését a 481/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
-[^4]: Az 1. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^3]: Az 1. § (3a) bekezdését a 40/2021. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (7) bekezdését a 481/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^5]: Az 1. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 9. §-a iktatta be.

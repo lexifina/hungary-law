@@ -4,6 +4,6 @@
 
 (2) A 8. § i) pont ib) és ic) alpontjában, valamint a 10. § gb) és gc) alpontjában foglalt nyilatkozat benyújtása mellett a nyilatkozattal igazolt kizáró ok tekintetében az ajánlatkérőt további ellenőrzési kötelezettség – hatóságok, más szervezetek megkeresése – nem terheli és kizárólag a tudomására jutott kétséget kizáró bizonyíték esetében köteles a hamis nyilatkozattétel tényét megállapítani.
 
-(3)[^24]
+(3)[^36]
 
-[^24]: A 14. § (3) bekezdését a 66/2019. (III. 27.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^36]: A 14. § (3) bekezdését a 66/2019. (III. 27.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
