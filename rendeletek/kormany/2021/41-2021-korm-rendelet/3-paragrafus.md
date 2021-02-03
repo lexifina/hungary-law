@@ -1,0 +1,3 @@
+## 2. § A 168/2004. (V. 25.) Korm. rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra, a tulajdonukban álló gazdálkodó szervezetekre, gazdasági társaságokra, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekre. Nem kell alkalmazni e rendelet előírásait az állami felsőoktatási intézmény nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontja szerinti felsőoktatási kutatás-fejlesztési vállalkozási tevékenységének keretében megvalósított közbeszerzései tekintetében.”

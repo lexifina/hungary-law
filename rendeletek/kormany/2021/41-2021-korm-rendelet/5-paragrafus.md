@@ -1,0 +1,3 @@
+## 4. § A 168/2004. (V. 25.) Korm. rendelet 1. fejezete a következő 2/C. §-sal egészül ki:
+
+## „2/C. § A Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság, a Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság, valamint a Nemzeti Kommunikációs Hivatal az 1. számú melléklet 11. pontjában meghatározott szolgáltatás beszerzése során – az 1. § (1a) bekezdésében, (2a)–(2c) bekezdésében és (2m) bekezdésében foglaltaktól eltérően – abban az esetben köteles e rendelet szerint eljárni, ha olyan közbeszerzési eljáráshoz veszi igénybe a szolgáltatást, amelybe a közbeszerzési törvény 27. § (3) bekezdés c) pontja alapján kötelező felelős akkreditált közbeszerzési szaktanácsadó bevonása.”
