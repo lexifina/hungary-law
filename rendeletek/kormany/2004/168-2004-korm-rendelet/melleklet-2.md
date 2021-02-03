@@ -54,7 +54,7 @@
 
 ## 6.1. Elektronikus árlejtés szolgáltatás
 
-## 7.[^129] Egészségügyi termékek
+## 7.[^135] Egészségügyi termékek
 
 ## 7.1. Orvostechnikai eszközök és az ezekhez kapcsolódó szolgáltatások
 
@@ -94,7 +94,7 @@
 
 ## 7.3.16. Tisztító hatású eszköz- és felületfertőtlenítő szerek
 
-## 8.[^130] Létesítménygazdálkodással kapcsolatos szolgáltatások fekvőbeteg szakellátást nyújtó egészségügyi intézmények részére
+## 8.[^136] Létesítménygazdálkodással kapcsolatos szolgáltatások fekvőbeteg szakellátást nyújtó egészségügyi intézmények részére
 
 ## 8.1. Fekvőbeteg szakellátást nyújtó egészségügyi intézmények őrzés-védelmére irányuló szolgáltatás
 
@@ -108,8 +108,11 @@
 
 ## 10. Közbiztonsági térfigyelő kamerák és kapcsolódó szolgáltatások önként csatlakozó önkormányzatok részére
 
-2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^131]
+## 11.[^137] Járulékos közbeszerzési szolgáltatás, beleértve a felelős akkreditált közbeszerzési szaktanácsadói tevékenység ellátására irányuló szolgáltatást
 
-[^129]: Az 1. melléklet 7. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^130]: Az 1. melléklet 8. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^131]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^138]
+
+[^135]: Az 1. melléklet 7. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^136]: Az 1. melléklet 8. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^137]: Az 1. melléklet 11. pontja a 41/2021. (II. 2.) Korm. rendelet 1. melléklete alapján beiktatott szöveg.
+[^138]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.

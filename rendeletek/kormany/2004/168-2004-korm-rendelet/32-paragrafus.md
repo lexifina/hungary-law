@@ -1,3 +1,3 @@
-## Az Európai Unió Jogának való megfelelés[^126]
+## Az Európai Unió Jogának való megfelelés[^132]
 
-[^126]: A 32. §-t megelőző alcímet a 196/2006. (IX. 27.) Korm. rendelet 16. §-a iktatta be.
+[^132]: A 32. §-t megelőző alcímet a 196/2006. (IX. 27.) Korm. rendelet 16. §-a iktatta be.

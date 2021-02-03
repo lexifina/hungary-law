@@ -1,8 +1,8 @@
 ## A keretszerződés, a keretmegállapodás és a szerződés
 
-24. §[^80] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
+24. §[^84] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
 
-(2)[^81] A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti a 26. § (1) bekezdése szerint lebonyolított közbeszerzési eljárás eredményeként.
+(2)[^85] A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti a 26. § (1) bekezdése szerint lebonyolított közbeszerzési eljárás eredményeként.
 
 (3) A központosított közbeszerzési eljárás eredményeképpen keretszerződés vagy keretmegállapodás legfeljebb 4 évre köthető.
 
@@ -24,7 +24,7 @@ g) a megrendelések kezdeményezésével, ezek visszaigazolásával, valamint a 
 
 h) a szerződésszegésért való felelősség szabályait,
 
-i)[^82] a keretszerződéssel és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket,
+i)[^86] a keretszerződéssel és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket,
 
 j) annak rögzítését, hogy az intézmény előleget nem adhat.
 
@@ -44,12 +44,12 @@ f) a szerződésszegésért való felelősség szabályait,
 
 g) a keretmegállapodáson alapuló egyedi szerződés megkötésére irányuló kiválasztási eljárás során alkalmazandó – a közbeszerzési törvény 105. § (4) bekezdése alapján meghatározott – értékelési szempontokat,
 
-h)[^83] a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
+h)[^87] a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
 
-i)[^84] a termékcsere lehetőségét és szabályait, összhangban a Kbt. 141. § (4) bekezdés a) pontjával.
+i)[^88] a termékcsere lehetőségét és szabályait, összhangban a Kbt. 141. § (4) bekezdés a) pontjával.
 
-[^80]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^81]: A 24. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^82]: A 24. § (4) bekezdés i) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^83]: A 24. § (5) bekezdés h) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^84]: A 24. § (5) bekezdés i) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^84]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^85]: A 24. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^86]: A 24. § (4) bekezdés i) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^87]: A 24. § (5) bekezdés h) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^88]: A 24. § (5) bekezdés i) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (5) bekezdése iktatta be.

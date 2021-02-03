@@ -18,15 +18,23 @@ e)[^3] – a nemzetbiztonsági szolgálatok, a külpolitikáért felelős minisz
 
 ## az e rendelet előírásai szerint kötelesek eljárni.
 
-(2)[^4] Nem kell alkalmazni e rendelet előírásait az állami felsőoktatási intézmény nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontja szerinti felsőoktatási kutatás-fejlesztési vállalkozási tevékenységének keretében megvalósított közbeszerzései tekintetében.
+(1a)[^4] Az 1. számú melléklet 11. pontjában meghatározott szolgáltatás beszerzése esetén e rendelet előírásai szerint kötelesek eljárni a következő szervezetek:
 
-(2a)[^5] Nem kell alkalmazni e rendelet előírásait a Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet 10. § (1) bekezdése szerinti, valamint a Nemzeti Kommunikációs Hivatal működésével összefüggésben álló beszerzési eljárásokra.
+a) az államháztartásról szóló 2011. évi CXCV. törvény szerinti, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek,
 
-(2b)[^6] Nem kell alkalmazni e rendelet előírásait a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) 13. § (1) bekezdés a) pontja szerinti beszerzések tekintetében.
+b) a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány,
 
-(2c)[^7] Nem kell alkalmazni e rendelet előírásait a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 10. § (1) bekezdés a) pontja szerinti eljárásokra.
+c) a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaság kivételével azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol.
 
-(2d)[^8] Az 1. számú melléklet 7. és 8. pontjában meghatározott eszközök és szolgáltatások beszerzése során központi beszerző szervezetként a Közbeszerzési és Ellátási Főigazgatóság jár el. Az 1. számú melléklet 7. pontjában meghatározott eszközök beszerzése során
+(2)[^5] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra, a tulajdonukban álló gazdálkodó szervezetekre, gazdasági társaságokra, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekre. Nem kell alkalmazni e rendelet előírásait az állami felsőoktatási intézmény nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontja szerinti felsőoktatási kutatás-fejlesztési vállalkozási tevékenységének keretében megvalósított közbeszerzései tekintetében.
+
+(2a)[^6] Nem kell alkalmazni e rendelet előírásait a Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet 10. § (1) bekezdése szerinti, valamint a Nemzeti Kommunikációs Hivatal működésével összefüggésben álló beszerzési eljárásokra.
+
+(2b)[^7] Nem kell alkalmazni e rendelet előírásait a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) 13. § (1) bekezdés a) pontja szerinti beszerzések tekintetében.
+
+(2c)[^8] Nem kell alkalmazni e rendelet előírásait a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 10. § (1) bekezdés a) pontja szerinti eljárásokra.
+
+(2d)[^9] Az 1. számú melléklet 7. és 8. pontjában meghatározott eszközök és szolgáltatások beszerzése során központi beszerző szervezetként a Közbeszerzési és Ellátási Főigazgatóság jár el. Az 1. számú melléklet 7. pontjában meghatározott eszközök beszerzése során
 
 a) az Egészségbiztosítási Alapból finanszírozott, a Magyar Állam, költségvetési szerv, helyi önkormányzat vagy önkormányzati társulás fenntartása alá tartozó fekvőbeteg- és járóbeteg szakellátást nyújtó intézmények, valamint a Magyar Állam többségi befolyása alatt álló, egészségügyi szolgáltatási tevékenységet végző gazdasági társaságok,
 
@@ -36,41 +44,45 @@ c) a központosított közbeszerzési rendszerbe önként csatlakozó, az a) és
 
 ## kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pontjában meghatározott szolgáltatások beszerzése során az a) pontban meghatározott fekvőbeteg szakellátó intézmények kötelesek e rendelet szerint eljárni.
 
-(2e)[^9] Az intézmények nem kötelesek e rendelet szabályai szerint beszerezni azokat a gyógyszereket és orvostechnikai eszközöket, amelyeket az intézeti gyógyszertár közvetlen lakossági gyógyszerellátás keretében szolgáltat ki.
+(2e)[^10] Az intézmények nem kötelesek e rendelet szabályai szerint beszerezni azokat a gyógyszereket és orvostechnikai eszközöket, amelyeket az intézeti gyógyszertár közvetlen lakossági gyógyszerellátás keretében szolgáltat ki.
 
-(2f)[^10] A (2d) bekezdésben foglaltaktól eltérően a klinikai központot, egészségügyi szolgáltatót vagy egyetemi kórházat működtető állami felsőoktatási intézmény, továbbá a Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 8. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 8. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+(2f)[^11] A (2d) bekezdésben foglaltaktól eltérően a klinikai központot, egészségügyi szolgáltatót vagy egyetemi kórházat működtető állami felsőoktatási intézmény, továbbá a Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 8. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 8. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
 
-(2g)[^11] A Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 7. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni a nem az Alapból finanszírozott ellátásokhoz történő beszerzéseire, de az 1. számú melléklet 7. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+(2g)[^12] A Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 7. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni a nem az Alapból finanszírozott ellátásokhoz történő beszerzéseire, de az 1. számú melléklet 7. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
 
-(2h)[^12] A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet az 1. számú melléklet 9. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 9. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+(2h)[^13] A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet az 1. számú melléklet 9. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 9. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
 
-(2i)[^13] A (2d) bekezdés a)–b) pontjában szereplő szervezetek beszerzési igényeit – ide nem értve a klinikai központot, egészségügyi szolgáltatót működtető állami felsőoktatási intézmények beszerzési igényeit – az Országos Kórházi Főigazgatóság hagyja jóvá. Az igények bejelentését a 17. §-ban meghatározottak szerint kell teljesíteni.
+(2i)[^14] A (2d) bekezdés a)–b) pontjában szereplő szervezetek beszerzési igényeit – ide nem értve a klinikai központot, egészségügyi szolgáltatót működtető állami felsőoktatási intézmények beszerzési igényeit – az Országos Kórházi Főigazgatóság hagyja jóvá. Az igények bejelentését a 17. §-ban meghatározottak szerint kell teljesíteni.
 
-(2j)[^14] A klinikai központot, egészségügyi szolgáltatót működtető állami felsőoktatási intézmények, illetve az egyházi jogi személy által fenntartott egészségügyi szolgáltató beszerzési igényeit a fenntartó hagyja jóvá. Az igények bejelentését a 17. §-ban meghatározottak szerint kell teljesíteni.
+(2j)[^15] A klinikai központot, egészségügyi szolgáltatót működtető állami felsőoktatási intézmények, illetve az egyházi jogi személy által fenntartott egészségügyi szolgáltató beszerzési igényeit a fenntartó hagyja jóvá. Az igények bejelentését a 17. §-ban meghatározottak szerint kell teljesíteni.
 
-(2k)[^15] Nem alkalmazható ez a rendelet azon gyógyszerekre és orvostechnikai eszközökre, amelyek beszerzése során a gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló kormányrendelet szerint a Nemzeti Egészségbiztosítási Alapkezelő jár el.
+(2k)[^16] Nem alkalmazható ez a rendelet azon gyógyszerekre és orvostechnikai eszközökre, amelyek beszerzése során a gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló kormányrendelet szerint a Nemzeti Egészségbiztosítási Alapkezelő jár el.
 
-(2l)[^16] A Magyar Honvédség Egészségügyi Központ az Egészségbiztosítási Alapból finanszírozott, az 1. számú melléklet 7. és 8. pontja szerinti, valamint a központosított közbeszerzéshez önként csatlakozóként megfogalmazott beszerzési igényét a központi beszerző szervezet részére közvetlenül küldi meg.
+(2l)[^17] A Magyar Honvédség Egészségügyi Központ az Egészségbiztosítási Alapból finanszírozott, az 1. számú melléklet 7. és 8. pontja szerinti, valamint a központosított közbeszerzéshez önként csatlakozóként megfogalmazott beszerzési igényét a központi beszerző szervezet részére közvetlenül küldi meg.
 
-(3)[^17] A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: közbeszerzési törvény) hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.
+(2m)[^18] Az (1a) bekezdés szerinti szervezetek az 1. számú melléklet 11. pontjában meghatározott szolgáltatás beszerzése során abban az esetben kötelesek e rendelet szerint eljárni, ha olyan közbeszerzési eljáráshoz veszik igénybe a szolgáltatást, amelybe a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: közbeszerzési törvény) 27. § (3) bekezdése alapján felelős akkreditált közbeszerzési szaktanácsadó bevonása kötelező.
 
-(4)[^18] A központosított közbeszerzési rendszerbe regisztrált szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
+(3)[^19] A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzési törvény hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.
+
+(4)[^20] A központosított közbeszerzési rendszerbe regisztrált szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
 
 [^1]: Az 1. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 266. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 204/2019. (VIII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés e) pontja a 206/2016. (VII. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdését a 46/2012. (III. 28.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 473/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^6]: Az 1. § (2b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (2c) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^8]: Az 1. § (2d) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (2e) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (2f) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^11]: Az 1. § (2g) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^12]: Az 1. § (2h) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^13]: Az 1. § (2i) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^14]: Az 1. § (2j) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^15]: Az 1. § (2k) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^16]: Az 1. § (2l) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^17]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 1. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1a) bekezdését a 41/2021. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (2) bekezdését újonnan a 473/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 41/2021. (II. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 1. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (2b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (2c) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (2d) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (2e) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (2f) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: Az 1. § (2g) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^13]: Az 1. § (2h) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^14]: Az 1. § (2i) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: Az 1. § (2j) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: Az 1. § (2k) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: Az 1. § (2l) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^18]: Az 1. § (2m) bekezdését a 41/2021. (II. 2.) Korm. rendelet 3. §-a iktatta be.
+[^19]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 41/2021. (II. 2.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^20]: Az 1. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

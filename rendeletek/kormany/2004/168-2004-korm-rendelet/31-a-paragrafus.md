@@ -1,4 +1,4 @@
-31/A. §[^122] (1) Az Állami Egészségügyi Ellátó Központról szóló 27/2015. (II. 25.) Korm. rendelet (a továbbiakban: ÁEEK rendelet) 3. § c) pontja és a fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és fertőtlenítőszer beszerzések országos központosított rendszeréről szóló 46/2012. (III. 28.) Korm. rendelet 3. §-a szerinti központi beszerző szervi feladatok ellátása érdekében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) által az 1. számú melléklet 7. pontjában meghatározott kiemelt termékek vonatkozásában kötött keretmegállapodások vagy más keret jellegű szerződések tekintetében az ÁEEK jogutódja a Közbeszerzési és Ellátási Főigazgatóság.
+31/A. §[^128] (1) Az Állami Egészségügyi Ellátó Központról szóló 27/2015. (II. 25.) Korm. rendelet (a továbbiakban: ÁEEK rendelet) 3. § c) pontja és a fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és fertőtlenítőszer beszerzések országos központosított rendszeréről szóló 46/2012. (III. 28.) Korm. rendelet 3. §-a szerinti központi beszerző szervi feladatok ellátása érdekében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) által az 1. számú melléklet 7. pontjában meghatározott kiemelt termékek vonatkozásában kötött keretmegállapodások vagy más keret jellegű szerződések tekintetében az ÁEEK jogutódja a Közbeszerzési és Ellátási Főigazgatóság.
 
 (2) Az (1) bekezdés szerinti jogutódlás időpontja 2020. május 1. napja.
 
@@ -14,4 +14,4 @@
 
 (8) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések tekintetében a központi beszerző szervezet gondoskodik a keretmegállapodások vagy más keret jellegű szerződések módosításáról, ha az az e rendeletben foglaltakkal való összhang megteremtéséhez szükséges.
 
-[^122]: A 31/A. §-t a 165/2020. (IV. 30.) Korm. rendelet 20. §-a iktatta be.
+[^128]: A 31/A. §-t a 165/2020. (IV. 30.) Korm. rendelet 20. §-a iktatta be.
