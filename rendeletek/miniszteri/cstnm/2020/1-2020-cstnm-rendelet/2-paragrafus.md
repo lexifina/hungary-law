@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a központi költségvetés XI. Miniszterelnökség fejezetébe sorolt azon fejezeti kezelésű előirányzatra (a továbbiakban: előirányzat) terjed ki, amely esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet I. pont 10. alpontja alapján a fejezetet irányító szerv vezetője a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 143/B. §-a szerinti tagja (a továbbiakban: miniszter).
+## 1. §[^1] E rendelet hatálya a központi költségvetés XI. Miniszterelnökség fejezetébe, valamint a XLVII. Gazdaságvédelmi Alap fejezetébe sorolt azon fejezeti kezelésű előirányzatra (a továbbiakban: előirányzat) terjed ki, amely esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet I. pont 10. alpont b) pontja és I. pont 41. alpont f) pontja alapján a fejezetet irányító szerv vezetője a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 143/B. §-a szerinti tagja (a továbbiakban: miniszter).
 
 ## 2. § E rendelet alkalmazásában
 
@@ -19,3 +19,5 @@
 8. nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti vállalkozás,
 
 9. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás.
+
+[^1]: Az 1. § az 1/2021. (II. 2.) CSTNM rendelet 1. §-ával megállapított szöveg.
