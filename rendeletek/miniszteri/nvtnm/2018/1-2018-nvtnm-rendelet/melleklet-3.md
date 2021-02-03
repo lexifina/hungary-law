@@ -198,6 +198,14 @@
 
 | 6. | Pannon Reprodukciós Intézet Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság | 19-09-505155 | 2022. december 31. |
 
+## XXI. Tulajdonosi joggyakorló: a Nemzeti Szociálpolitikai Intézet
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Nemzeti Fogyatékosságügyi- és Szociálpolitikai Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-978791 | 2022. december 31. |
+
 3. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^5]
 
 [^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése, a 7/2018. (XII. 21.) NVTNM rendelet 2. § (2) bekezdése, a 2/2019. (III. 6.) NVTNM rendelet 1. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 1. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 4. § (2) bekezdése, a 23/2019. (XII. 23.) NVTNM rendelet 3. §-a, a 7/2020. (VII. 14.) NVTNM rendelet 2. §-a és 3. § b) pontja, a 9/2020. (VIII. 7.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 1. §-a, a 15/2020. (XI. 11.) NVTNM rendelet 1. §-a, a 16/2020. (XI. 30.) NVTNM rendelet 2. §-a, a 20/2020. (XII. 29.) NVTNM rendelet 2. § c) pontja szerint módosított szöveg.
