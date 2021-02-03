@@ -54,6 +54,8 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból történő és fejezetek közötti előirányzat-átcsoportosításról, a központi költségvetés címrendjének módosításáról, valamint egyes kormányhatározatok módosításáról szóló 1104/2019. (III. 8.) Korm. határozat 1. pont a) alpontjában a „2021. február 15.” szövegrész helyébe a „2022. február 28.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1021/2021. (II. 2.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
