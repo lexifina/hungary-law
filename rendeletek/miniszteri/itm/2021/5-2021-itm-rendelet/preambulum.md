@@ -1,7 +1,0 @@
-A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 42. § b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 18. pontjában meghatározott feladatkörömben eljárva, – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 13. pontjában meghatározott feladatkörében eljáró belügyminiszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában eljáró pénzügyminiszterrel egyetértésben –,
-
-a 2. alcím és az 1. melléklet tekintetében a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 42. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 18. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 13. pontjában meghatározott feladatkörében eljáró belügyminiszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában eljáró pénzügyminiszterrel egyetértésben –,
-
-a 3. alcím tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 18. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 18. pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
