@@ -4,7 +4,7 @@
 
 (3) Az érintett szervezet a beszerzési igényét a kezdőnaptól számított 30. nap elteltét követően tölti fel a Portálra.
 
-(4)[^54] A VBÜ létrejöttével, valamint a tevékenységének megkezdésével összefüggésben álló beszerzési és közbeszerzési eljárások tekintetében a VBÜ – mint ajánlatkérő – e rendelet hatálybalépésétől számított 210. napig valamennyi beszerzés esetében jogosult a Vbt., illetve a Kbt. szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására és megindítására.
+(4)[^56] A VBÜ létrejöttével, valamint a tevékenységének megkezdésével összefüggésben álló beszerzési és közbeszerzési eljárások tekintetében a VBÜ – mint ajánlatkérő – e rendelet hatálybalépésétől számított 210. napig valamennyi beszerzés esetében jogosult a Vbt., illetve a Kbt. szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására és megindítására.
 
 (5) E rendelet hatályba lépésétől a kezdőnapig az érintett szervezet e rendelet szerint védelmi és biztonsági feladatokkal összefüggő beszerzés kielégítésére irányuló beszerzési eljárást saját hatáskörben kizárólag a Kormány egyedi döntése alapján indíthat.
 
@@ -14,12 +14,12 @@
 
 (8) Ha a beszerzési eljárást a (7) bekezdés szerint a VBÜ folytatja le, a beszerzéssel kapcsolatban a 4. alcím rendelkezéseit megfelelően alkalmazni kell.
 
-(9)[^55] Az egyes védelmi és biztonsági feladatokkal összefüggő beszerzésekkel kapcsolatos kormányrendeletek módosításáról szóló 649/2020. (XII. 23.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésének[^56] napján folyamatban lévő beszerzési eljárásokat az érintett szervezet folytatja le.
+(9)[^57] Az egyes védelmi és biztonsági feladatokkal összefüggő beszerzésekkel kapcsolatos kormányrendeletek módosításáról szóló 649/2020. (XII. 23.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésének[^58] napján folyamatban lévő beszerzési eljárásokat az érintett szervezet folytatja le.
 
-(10)[^57] A Módr. hatálybalépésének[^58] napjától az érintett szervezet e rendelet hatálya alá tartozó beszerzési igényének kielégítésére irányuló beszerzési eljárást nem indíthat.
+(10)[^59] A Módr. hatálybalépésének[^60] napjától az érintett szervezet e rendelet hatálya alá tartozó beszerzési igényének kielégítésére irányuló beszerzési eljárást nem indíthat.
 
-[^54]: A 15. § (4) bekezdése a 33/2020. (III. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^55]: A 15. § (9) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
-[^56]: A hatálybalépés időpontja 2021. január 1.
-[^57]: A 15. § (10) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
+[^56]: A 15. § (4) bekezdése a 33/2020. (III. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^57]: A 15. § (9) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
 [^58]: A hatálybalépés időpontja 2021. január 1.
+[^59]: A 15. § (10) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
+[^60]: A hatálybalépés időpontja 2021. január 1.
