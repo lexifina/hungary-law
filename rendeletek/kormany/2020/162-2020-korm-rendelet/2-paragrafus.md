@@ -12,15 +12,21 @@ e)[^5] e feladata megvalósítása vonatkozásában az a szervezet, amely kiemel
 
 f)[^6] az a)–e) pontba nem tartozó olyan szervezet, amely javára a kommunikációs beszerzési eljárást vagy a szervezetfejlesztési beszerzési eljárást az a)–d) pontba tartozó szervezet bonyolítja le jogszabály kötelező rendelkezése folytán vagy jogszabályon alapuló megállapodás értelmében,
 
-g)[^7] az a)–d) pontba nem tartozó olyan szervezet, amely a központosított közbeszerzési és beszerzési rendszerbe való csatlakozást önként vállalja valamely kommunikációs beszerzés vagy szervezetfejlesztési beszerzés vonatkozásában.
+g)[^7] az a)–d) pontba nem tartozó olyan szervezet, amely
 
-(2)[^8] A központosított közbeszerzési és beszerzési rendszerbe való önkéntes csatlakozásra a Hivatal engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–f) pontja szerinti érintett szervezetek ellátását. A Hivatal az önkéntesen csatlakozni kívánó szervezet központosított közbeszerzési és beszerzési rendszerbe való belépését megtagadhatja, vagy feltételhez kötheti. Az (1) bekezdés g) pontja szerinti szervezet kizárólag az általa megjelölt kommunikációs beszerzés vagy szervezetfejlesztési beszerzés tekintetében csatlakozik a központosított közbeszerzési és beszerzési rendszerbe.
+ga) az e rendelet szerinti központosított közbeszerzési vagy beszerzési rendszerhez való vagy
 
-(3)[^9] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra.
+gb) valamely, e rendelet szerinti egy vagy több kommunikációs beszerzés vagy szervezetfejlesztési beszerzés vonatkozásában a
+
+## csatlakozást önként vállalja (a továbbiakban együttesen: önkéntes csatlakozó).
+
+(2)[^8] A központosított közbeszerzési és beszerzési rendszerbe való önkéntes csatlakozásra a Hivatal engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–f) pontja szerinti érintett szervezetek ellátását. A Hivatal az önkéntesen csatlakozni kívánó szervezet központosított közbeszerzési és beszerzési rendszerbe való belépését megtagadhatja, vagy feltételhez kötheti.
+
+(3)[^9] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra, a tulajdonukban álló gazdálkodó szervezetekre, gazdasági társaságokra, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekre.
 
 [^4]: A 2. § (1) bekezdés nyitó szövegrésze az 590/2020. (XII. 17.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés e) pontja az 590/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés f) pontja az 590/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1) bekezdés g) pontja az 590/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § (2) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
-[^9]: A 2. § (3) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés g) pontja a 41/2021. (II. 2.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 4. pontja, a 41/2021. (II. 2.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^9]: A 2. § (3) bekezdése a 41/2021. (II. 2.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

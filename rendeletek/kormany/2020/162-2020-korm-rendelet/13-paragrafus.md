@@ -20,14 +20,17 @@ d) a Kbt. 105. §-a szerinti keretmegállapodás alapján történő kommunikác
 
 e) a Kbt. 105. §-a szerinti keretmegállapodás alapján történő szervezetfejlesztési beszerzés eredményes megvalósítása alapján kötött szerződés általános forgalmi adó nélkül számított értékének 3%-a, de legfeljebb nettó hárommillió forint; eredménytelen kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljárás esetén – amennyiben az eredménytelenség nem olyan okból következett be, melyért a Hivatal felelős – a szervezetfejlesztési beszerzési eljárás becsült értékének 0,75%-a, de legfeljebb nettó háromszázhetvenötezer forint.
 
-(7)[^45] Több részből álló kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljárás esetén a közbeszerzési díj számítása a (6) bekezdésben foglaltak szerint történik, azzal, hogy valamennyi rész esetében részenként kell megállapítani a közbeszerzési díj mértékét.
+f)[^45] ha a Hivatal a beszerzési igény megvalósításához a 11. § (8) bekezdés a) pontja alapján járult hozzá, és az érintett szervezet a beszerzési igényétől az előkészítés megkezdését követően, de a kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljárás megindítását megelőzően eláll, úgy a kommunikációs beszerzési eljárás becsült értékének 0,25%-a, de legfeljebb kétszázezer forint, kivéve, ha az elállás olyan okból következett be, amelyért az érintett szervezet nem felelős.
 
-(8)[^46] Ha az érintett szervezet eredménytelen kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljáráshoz kapcsolódó közbeszerzési díj fizetésére köteles, akkor az ismételten lefolytatott eredményes kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljárás után fizetendő közbeszerzési díj mértékét csökkenti az eredménytelen kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljáráshoz kapcsolódóan megfizetett közbeszerzési díj.
+(7)[^46] Több részből álló kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljárás esetén a közbeszerzési díj számítása a (6) bekezdésben foglaltak szerint történik, azzal, hogy valamennyi rész esetében részenként kell megállapítani a közbeszerzési díj mértékét.
+
+(8)[^47] Ha az érintett szervezet eredménytelen kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljáráshoz kapcsolódó közbeszerzési díj fizetésére köteles, akkor az ismételten lefolytatott eredményes kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljárás után fizetendő közbeszerzési díj mértékét csökkenti az eredménytelen kommunikációs beszerzési vagy szervezetfejlesztési beszerzési eljáráshoz kapcsolódóan megfizetett közbeszerzési díj.
 
 [^40]: A 13. § (1) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 24. pontja szerint módosított szöveg.
 [^41]: A 13. § (2) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 25. és 26. pontja szerint módosított szöveg.
 [^42]: A 13. § (4) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 27. pontja szerint módosított szöveg.
 [^43]: A 13. § (5) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 28. pontja szerint módosított szöveg.
 [^44]: A 13. § (6) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^45]: A 13. § (7) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 29. pontja szerint módosított szöveg.
-[^46]: A 13. § (8) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^45]: A 13. § (6) bekezdés f) pontját a 40/2021. (II. 2.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^46]: A 13. § (7) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 29. pontja szerint módosított szöveg.
+[^47]: A 13. § (8) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

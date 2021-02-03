@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-162-20-
 | 2020-12-02 | 2020-162-20-22.2 | 2010: CXXX. törvény |
 | 2020-12-18 | 2020-162-20-22.3 | 590/2020. (XII. 17.) Korm. rendelet |
 | 2021-01-01 | 2020-162-20-22.4 | 668/2020. (XII. 28.) Korm. rendelet |
+| 2021-02-03 | 2020-162-20-22.5 | 41/2021. (II. 2.) Korm. rendelet |
