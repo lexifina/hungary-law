@@ -14,6 +14,6 @@
 
 | 6. | A vízi utak tengelyétől és hajózási létesítményektől számított 100 méteren belüli létesítés esetén, ha üzeme a hajózási tevékenységhez vagy létesítményhez kapcsolódik. | A veszélyes anyag szállítására vonatkozó előírások, a(z) (vízi) üzemanyagtöltő állomások engedélyezésével kapcsolatos hajózási hatósági érdekek érvényesítése. | – |
 
-2. melléklet a 216/2019. (IX. 5.) Korm. rendelethez[^5]
+2. melléklet a 216/2019. (IX. 5.) Korm. rendelethez[^10]
 
-[^5]: A 2. melléklet a 190/2020. (V. 7.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet a 190/2020. (V. 7.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
