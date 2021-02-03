@@ -18,12 +18,17 @@ f) büntetlen előéletű, és
 
 g) igazoltan teljesítette a közbeszerzési szakmai képzésre vonatkozó követelményeket.
 
+h)[^1] nem áll ügyvédi vagy kamarai jogtanácsosi tevékenységtől való eltiltás hatálya alatt.
+
 (3) A kérelmező a névjegyzékbe vétel iránti kérelme benyújtásával egyidejűleg igazolja a (2) bekezdés a)–d) pontjában foglalt követelményeknek való megfelelést, benyújtja az e) pont szerinti nyilatkozatot, valamint büntetőjogi felelőssége tudatában nyilatkozik arról, hogy az általa benyújtott dokumentumok a birtokában megtalálható eredeti dokumentumokkal mindenben megegyeznek, és a Hatóság erre vonatkozó felhívása esetén az eredeti dokumentumokat bemutatja.
 
 (4) A kérelemben fel kell tüntetni, hogy a kérelmező kifejezetten hozzájárul a (2) bekezdés f)–g) pontja szerinti adatoknak a kérelem elbírálásához szükséges, a (2) bekezdés f) pontja szerinti adat adatigényléséhez, a (2) bekezdés g) pontja szerinti adat információátadás útján történő beszerzéséhez és az adatok Hatóság általi kezeléséhez.
 
-(5) Az okiratok teljeskörűsége és megfelelősége esetén a Hatóság a kérelmezőt felelős akkreditált közbeszerzési szaktanácsadóként a Kbt. 187. § (2) bekezdés a) pont ah) alpontja szerinti névjegyzékbe veszi.
+(5)[^2] Az okiratok teljeskörűsége és megfelelősége esetén a Hatóság a kérelmezőt felelős akkreditált közbeszerzési szaktanácsadóként a Kbt. 187. § (2) bekezdés a) pont ae) alpontja szerinti névjegyzékbe veszi.
 
 (6) Az (1)–(5) bekezdés alapján névjegyzékbe vett felelős akkreditált közbeszerzési szaktanácsadók tevékenységüket a névjegyzékbe történő bejegyzés hatálya alatt gyakorolhatják.
 
 (7) A névjegyzékbe történő bejegyzés hatálya a névjegyzékbe vételtől számított két évig tart.
+
+[^1]: A 2. § (2) bekezdés h) pontját a 40/2021. (II. 2.) Korm. rendelet 18. §-a iktatta be.
+[^2]: A 2. § (5) bekezdése a 40/2021. (II. 2.) Korm. rendelet 21. §-a szerint módosított szöveg.
