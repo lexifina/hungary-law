@@ -22,7 +22,7 @@
 
 10. az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló, 2012. március 23-i 267/2012/EU tanácsi rendelet,
 
-11. a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (3) bekezdésének,
+11.[^98] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdésének
 
 12. a 2009/125/EK európai parlamenti és tanácsi irányelvnek a számítógépek és a kiszolgáló számítógépek környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2013. június 26-i 617/2013/EU bizottsági rendelet,
 
@@ -38,7 +38,7 @@
 
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2)[^98] Ez a rendelet
+(2)[^99] Ez a rendelet
 
 1. az aeroszoladagolókra vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. május 20-i 75/324/EGK tanácsi irányelvnek,
 
@@ -70,4 +70,5 @@
 [^95]: A hatálybalépés időpontja 2017. november 17.
 [^96]: A 34. § (1) bekezdés 6. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^97]: A 34. § (1) bekezdés 7. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^98]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^98]: A 34. § (1) bekezdés 11. pontja a 37/2021. (II. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^99]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-4. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^102]
+4. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^103]
 
-[^102]: A 4. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § e) pontja hatályon kívül helyezte.
+[^103]: A 4. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § e) pontja hatályon kívül helyezte.
