@@ -12,13 +12,19 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 
 (4) A főváros és megyei kormányhivatal nyolc munkanapon belül határozatban dönt.
 
-(5)[^17] A támogatás legfeljebb 2020. év november és december hónapjára, valamint 2021. év január és február hónapjára nyújtható. A támogatás, illetve az arányos támogatás a munkáltató részére a munkaerőpiaci programban meghatározottak szerint utólag kerül folyósításra.
+(4a)[^17] Ha a határozattal megállapított támogatásra a munkaadó bármely okból már nem vagy nem teljes egészében jogosult, azt – a munkaerőpiaci programban meghatározottak szerint – haladéktalanul be kell jelentenie a határozatot hozó fővárosi és megyei kormányhivatalnak.
+
+(5)[^18] A támogatás legfeljebb 2020. év november és december hónapjára, valamint 2021. év január és február hónapjára nyújtható. A támogatás, illetve az arányos támogatás a munkáltató részére a munkaerőpiaci programban meghatározottak szerint támogatási előlegként kerül folyósításra.
+
+(5a)[^19] A munkaadó a támogatás időtartamának utolsó napját követő második hónap végéig – a munkaerőpiaci programban meghatározottak szerint – igazolja, hogy a részére folyósított támogatásra jogosult volt. Amennyiben ezen időpontig a munkaadó nem vagy csak részben igazolja a támogatásra való jogosultságát, a részére folyósított támogatás azon részét, amelyet jogosulatlanul vett igénybe, vissza kell fizetnie.
+
+(5b)[^20] Ha a munkaadó a fővárosi és megyei kormányhivatal által megállapított visszafizetési kötelezettségének a visszafizetési kötelezettség megállapításától számított harmincadik napig eleget tesz, részére további, a visszafizetési kötelezettséghez kapcsolódó szankció nem kerül megállapításra.
 
 (6) A támogatásra az Flt. és a végrehajtási rendeleteinek szabályait a jelen alcímben és a munkaerőpiaci programban foglalt eltérésekkel kell alkalmazni.
 
 (7) A támogatás a XLVII. Gazdaságvédelmi Alap fejezet, 2. Nemzeti Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható.
 
-(7a)[^18] Az e § szerinti támogatás a 2021. évben a XLVII. Gazdaságvédelmi Alap fejezet, 4. Gazdaságvédelmi Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható. Ezen előirányzat teljesülése módosítás nélkül eltérhet az előirányzat összegétől.
+(7a)[^21] Az e § szerinti támogatás a 2021. évben a XLVII. Gazdaságvédelmi Alap fejezet, 4. Gazdaságvédelmi Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható. Ezen előirányzat teljesülése módosítás nélkül eltérhet az előirányzat összegétől.
 
 (8) A támogatás az átmeneti közlemény 3. 10. szakasza szerinti támogatást tartalmaz.
 
@@ -28,5 +34,8 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 
 [^15]: A 14. § (1) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^16]: A 14. § (2) bekezdés a) pontja az 571/2020. (XII. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^17]: A 14. § (5) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § d) pontja, a 32/2021. (I. 29.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^18]: A 14. § (7a) bekezdését a 32/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A 14. § (4a) bekezdését a 43/2021. (II. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^18]: A 14. § (5) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § d) pontja, a 32/2021. (I. 29.) Korm. rendelet 3. § c) pontja, a 43/2021. (II. 2.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^19]: A 14. § (5a) bekezdését a 43/2021. (II. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A 14. § (5b) bekezdését a 43/2021. (II. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 14. § (7a) bekezdését a 32/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
