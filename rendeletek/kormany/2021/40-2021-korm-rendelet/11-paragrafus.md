@@ -1,0 +1,3 @@
+## 10. § A 321/2015. (X. 30.) Korm. rendelet 21. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Ha az egy keretmegállapodáson alapuló szerződéseket a verseny újbóli megindítását követően ítélik oda, akkor a Kbt. 65. § (5) bekezdésében említett, a referenciákra vonatkozó maximális követelményt az egy időben teljesítendő külön szerződések várható nagyságrendje alapján kell kiszámítani. Dinamikus beszerzési rendszer esetén a Kbt. 65. § (5) bekezdésében említett, referenciákra vonatkozó maximális követelményt az említett rendszer keretében odaítélendő egyes szerződések várható maximális nagyságrendje alapján kell kiszámítani.”
