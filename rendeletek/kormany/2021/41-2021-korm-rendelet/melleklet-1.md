@@ -1,9 +1,5 @@
 ## 9. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 41/2021. (II. 2.) Korm. rendelethez
+1. melléklet a 41/2021. (II. 2.) Korm. rendelethez[^3]
 
-A 168/2004. (V. 25.) Korm. rendelet 1. számú melléklete a következő 11. ponttal egészül ki:
-
-(A termék megnevezése)
-
-„11. Járulékos közbeszerzési szolgáltatás, beleértve a felelős akkreditált közbeszerzési szaktanácsadói tevékenység ellátására irányuló szolgáltatást”
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
