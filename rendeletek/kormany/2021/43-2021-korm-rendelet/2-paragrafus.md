@@ -1,3 +1,0 @@
-## „(5a) A munkaadó a támogatás időtartamának utolsó napját követő második hónap végéig – a munkaerőpiaci programban meghatározottak szerint – igazolja, hogy a részére folyósított támogatásra jogosult volt. Amennyiben ezen időpontig a munkaadó nem vagy csak részben igazolja a támogatásra való jogosultságát, a részére folyósított támogatás azon részét, amelyet jogosulatlanul vett igénybe, vissza kell fizetnie.
-
-## (5b) Ha a munkaadó a fővárosi és megyei kormányhivatal által megállapított visszafizetési kötelezettségének a visszafizetési kötelezettség megállapításától számított harmincadik napig eleget tesz, részére további, a visszafizetési kötelezettséghez kapcsolódó szankció nem kerül megállapításra.”
