@@ -1,1 +1,3 @@
-## „h) a Kbt. 62. § (1) bekezdés j) pontja tekintetében az adott eljárásban a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során; korábbi közbeszerzési eljárásra vonatkozóan az ajánlatkérő a Hatóság honlapján közzétett adatbázist ellenőrzi. A Kbt. 62. § (1) bekezdés j) pont ja) alpontja alkalmazásában az ajánlatkérő a Hatóság honlapján közzétett információkat és a gazdasági szereplő 4. § (1b) bekezdése szerinti nyilatkozatát veszi figyelembe, valamint alkalmazhatja a Kbt. 69. § (13) bekezdését a kizárás megítéléséhez szükséges további információk kéréséhez;”
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 18. § A felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 257/2018. (XII. 18.) Korm. rendelet [a továbbiakban: 257/2018. (XII. 18.) Korm. rendelet] 2. § (2) bekezdése a következő h) ponttal egészül ki:
+## 18. §[^33]
 
-## (A névjegyzékbe vételt kizárólag olyan természetes személy kezdeményezheti, aki)
-
-## „h) nem áll ügyvédi vagy kamarai jogtanácsosi tevékenységtől való eltiltás hatálya alatt.”
+[^33]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
