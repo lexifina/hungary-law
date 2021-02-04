@@ -1,12 +1,12 @@
-4/A. §[^24] (1) A Magyarország területét érintő,
+4/A. §[^24] (1)[^25] A Magyarország területét érintő,
 
-a) díj ellenében nemzetközi közúti árutovábbítást végző 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű,
+a) díj ellenében nemzetközi közúti árutovábbítást végző, 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű,
 
-b) a saját számlás nemzetközi közúti áruszállítást végző 7,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű, továbbá
+b) a saját számlás nemzetközi közúti áruszállítást végző, 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű, továbbá
 
 c) a Magyarország területén végzett kabotázs fuvarozást végző tehergépjármű
 
-## az adott fuvarfeladatra (az üresfutást is beleértve) érvényes, a (3) bekezdés szerinti elektronikus fuvarregisztrációval (a továbbiakban: fuvarregisztráció) vehet részt a közúti forgalomban.
+## – az a) vagy b) pont szerinti jármű által a 4. § (1) bekezdés a) pontja szerinti engedély alapján végzett fuvarfeladatot kivéve – az adott, Magyarország területén engedélyköteles vagy engedély birtokában végzett fuvarfeladatra, üresfutásra vonatkozó, a (3) bekezdés szerinti elektronikus fuvarregisztrációval (a továbbiakban: fuvarregisztráció) vehet részt a közúti forgalomban.
 
 (2) Az (1) bekezdésben meghatározott tehergépjármű üzembentartója vagy a szállító a Magyarország területén végzett szállítási feladat megkezdése, vagy a Magyarország területére történő belépés előtt a közlekedési hatóság által üzemeltetett nyilvánosan elérhető informatikai rendszerben (a továbbiakban: BIREG rendszer) a vállalkozás adatait – cégnév, székhely, tevékenységi vagy közösségi engedély adatai, és az adott vállalkozás szállítási tevékenységének a BIREG rendszerben történő rögzítésére jogosult felhasználók adatait és jogosultságait rögzíti (üzembentartói regisztráció).
 
@@ -27,3 +27,4 @@ b) magyarországi lerakodás vagy felrakodás esetén, a magyarországi lerakod�
 (7) A magyarországi felrakás helyén a feladó, a magyarországi lerakás helyén a címzett a CEMT engedély részét képező fuvarnaplóra vagy a 4. § (1) bekezdés c) pontjában meghatározott engedélyre rávezeti a felrakás és a lerakás helyét, idejét, valamint az árutovábbítási feladatot végző tehergépjármű kilométeróra állását és ellátja a fel- vagy lerakóhely bélyegzőjével. Ezt követően a feladó, vagy a címzett a fuvarnaplóról vagy az engedélyről fénymásolatot készít, és azt a magyarországi felrakás vagy lerakás helyén vagy a címzett telephelyén a fuvarlevélhez csatoltan egy évig megőrzi, valamint a hatóság kérésére bemutatja (engedélykezelés).
 
 [^24]: A 4/A. §-t a 116/2014. (IV. 3.) Korm. rendelet 5. §-a iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4/A. § (1) bekezdése a 18/2021. (I. 27.) Korm. rendelet 3. §-ával megállapított szöveg.

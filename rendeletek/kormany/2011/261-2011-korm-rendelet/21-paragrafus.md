@@ -2,6 +2,6 @@
 
 (2) A járművezetői igazolvány iránti kérelemhez mellékelni kell a járművezető munkavállalási engedélyének, munkaszerződésének és Magyarország területén való tartózkodása jogszerűségét igazoló okmánynak a hiteles másolatát. Mellékelni kell továbbá a járművezető szakmai képesítését igazoló okirat hiteles másolatát és annak hiteles fordítását is.
 
-(3)[^52] A közlekedési hatóság a kiadott járművezetői igazolványokról nyilvántartást vezet, és a munkavédelmi hatósági és munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatalt értesíti a járművezetői igazolvány kiadásáról.
+(3)[^53] A közlekedési hatóság a kiadott járművezetői igazolványokról nyilvántartást vezet, és a munkavédelmi hatósági és munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatalt értesíti a járművezetői igazolvány kiadásáról.
 
-[^52]: A 21. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 180. §-a szerint módosított szöveg.
+[^53]: A 21. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 180. §-a szerint módosított szöveg.

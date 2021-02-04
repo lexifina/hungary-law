@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-261-20-
 | 2020-02-15 | 2011-261-20-22.21 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-06-12 | 2011-261-20-22.22 | 265/2020. (VI. 11.) Korm. rendelet |
 | 2021-01-01 | 2011-261-20-22.23 | 722/2020. (XII. 31.) Korm. rendelet |
+| 2021-02-04 | 2011-261-20-22.24 | 18/2021. (I. 27.) Korm. rendelet |

@@ -1,5 +1,5 @@
-## 39. §[^96]
+## 39. §[^97]
 
 ## 20. A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosítása
 
-[^96]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
