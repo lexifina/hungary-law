@@ -1,20 +1,8 @@
-## 1. egyetért a meglévő önkéntes tartalékos rendszer részeként speciális önkéntes tartalékos kategória bevezetésével;
+## 1.[^1]
 
-## 2. az 1. pont szerinti feladat végrehajtása érdekében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 3 099 215 729 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím terhére, az 1. melléklet szerint;
+## 2.[^2]
 
-## Felelős: pénzügyminiszter
-
-## honvédelmi miniszter
-
-## Határidő: azonnal
-
-## 3. az 1. pont szerinti feladat végrehajtása érdekében felhívja a pénzügyminisztert és a honvédelmi minisztert, hogy a 2021. évi költségvetési évben tegyék meg a szükséges intézkedést arra vonatkozóan, hogy a feladat megvalósításához szükséges forrás a XIII. Honvédelmi Minisztérium fejezet 2. Magyar Honvédség címen a 2021. évben 2 027 197 783 forint összegben biztosításra kerüljön;
-
-## Felelős: pénzügyminiszter
-
-## honvédelmi miniszter
-
-## Határidő: 2021. január 31.
+## 3.[^3]
 
 ## 4. egyetért a szerződéses állományú katonák egyszeri szerződéskötési díjának bevezetésével;
 
@@ -97,3 +85,7 @@
 |  |  | egyéb: |  | azonnal |  | 3 191 615 729 |  |  |  |  |  |  |  |  |  | 3 191 615 729 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pontot az 1029/2021. (II. 5.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 2. pontot az 1029/2021. (II. 5.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 3. pontot az 1029/2021. (II. 5.) Korm. határozat 4. pontja visszavonta.
