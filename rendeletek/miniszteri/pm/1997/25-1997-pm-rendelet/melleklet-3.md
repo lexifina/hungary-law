@@ -74,10 +74,10 @@
 
 ## A hitelbiztosítéki értékelés során csak reál (inflációtól megtisztított) kamatláb alkalmazható.
 
-3. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^21]
+3. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^23]
 
 ## Költségalapú módszer
 
 A költségalapú érték-megközelítés lényege, hogy az ingatlan újra-előállítási költségéből le kell vonni az idő múlása miatti avulást, majd ehhez kell hozzáadni a felépítményekhez tartozó földterület értékét. Ez a módszer fejezi ki legkevésbé a tényleges piaci viszonyokat. Építés alatt lévő létesítménynél, károsodott létesítménynél, takart műtárgynál, valamint olyan esetekben alkalmazható, ha más módszer nem áll rendelkezésre. A módszer fő lépései:
 
-[^21]: A 3. számú melléklet a 26/2005. (VIII. 11.) PM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (3) bekezdése alapján a rendelkezést a jelzálog-hitelintézet választása szerint alkalmazni lehet a 2005. november 9. napján folyamatban lévő értékelésekre is.
+[^23]: A 3. számú melléklet a 26/2005. (VIII. 11.) PM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (3) bekezdése alapján a rendelkezést a jelzálog-hitelintézet választása szerint alkalmazni lehet a 2005. november 9. napján folyamatban lévő értékelésekre is.
