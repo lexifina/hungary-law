@@ -1,1 +1,3 @@
-## 18. § Ha az eljárás során a kormányzati igazgatási szerv jogutódlással megszűnik – a jogutód eljárásba történő bevonásáig vagy belépéséig – az eljárás félbeszakad. Az eljárás félbeszakadását az eljáró tanács elnöke, ha tanácskijelölés még nem történt, a Döntőbizottság elnöke állapítja meg. Az eljárás félbeszakadásával minden határidő megszakad, a félbeszakadás megszűnésekor – az eljárási határidő kivételével – a határidők újra kezdődnek. A félbeszakadásról szóló döntést a Titkárság megküldi a panaszosnak, aki köteles bejelenteni a jogutód kormányzati igazgatási szervet a döntés kézbesítésétől számított tizenöt napon belül. E bejelentést követően a Döntőbizottság az eljárást a jogutód kormányzati igazgatási szervvel szemben folytatja le.
+## 18/A. §[^13] A felfüggesztés és a félbeszakadás időtartama az eljárási határidőbe nem számít bele.
+
+[^13]: A 18/A. §-t a 49/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.

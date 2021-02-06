@@ -12,7 +12,7 @@ e) dönt az igazolási kérelemről,
 
 f) dönt az eljárás félbeszakadásáról,
 
-g) kijelöli az eljáró tanács tagjait és a véleményt kiadmányozó közszolgálati biztost,
+g)[^1] kijelöli az eljáró tanács tagjait,
 
 h) összehangolja a Döntőbizottság tevékenységét, közreműködik az egységes joggyakorlat biztosításában,
 
@@ -21,3 +21,5 @@ i) összehívja a Döntőbizottság üléseit,
 j) ellátja azokat a feladatokat, amelyeket jogszabály és a Döntőbizottság ügyrendje számára meghatároz.
 
 (2) A Döntőbizottság elnökét távolléte vagy akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti.
+
+[^1]: A 3. § (1) bekezdés g) pontja a 49/2021. (II. 5.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

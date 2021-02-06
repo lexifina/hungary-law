@@ -6,7 +6,7 @@ b) a panaszos és képviselője nevét, lakcímét, székhelyét,
 
 c) a kormányzati igazgatási szerv és képviselője nevét, székhelyét,
 
-d) a panasz tárgyának megjelölését, a sérelmezett munkáltatói intézkedést,
+d)[^14] a panasz tárgyának megjelölését, a sérelmezett munkáltatói intézkedést, a kormányzati igazgatási szervvel szemben érvényesíteni kívánt igényt,
 
 e) a határozat rendelkező részét és indokolását,
 
@@ -29,3 +29,5 @@ d) azon okokra történő utalást, amelyek miatt a Döntőbizottság valamely t
 e) a jogvita elbírálása szempontjából jelentőséggel bíró jogszabályokat, valamint
 
 f) az eljárási költség viselésére vonatkozó indokokat.
+
+[^14]: A 22. § (1) bekezdés d) pontja a 49/2021. (II. 5.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

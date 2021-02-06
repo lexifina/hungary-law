@@ -1,6 +1,6 @@
 ## 7. § A Döntőbizottság ügyviteli és döntés-előkészítési feladatait – a Döntőbizottság iránymutatása mellett – a Titkárság látja el, amely a miniszter által vezetett minisztérium szervezetében működik. A Titkárságon foglalkoztatottak kormányzati szolgálati jogviszonyban állnak.
 
-## 5. A Döntőbizottság eljárása a közszolgálati panaszügyekben
+## 5. [^2] A Döntőbizottság eljárása
 
 8. § (1) A közszolgálati panasz (a továbbiakban: panasz) elbírálásában nem vehet részt
 
@@ -19,3 +19,5 @@ a) a rábízott ügyekben folyamatosan, lelkiismeretesen, befolyástól mentesen
 b) a tisztségéhez méltó, kifogástalan magatartást tanúsítani és tartózkodni minden olyan megnyilvánulástól, amely a Döntőbizottság eljárásába vetett bizalmat vagy a Döntőbizottság tekintélyét csorbítaná,
 
 c) a Döntőbizottság elnökének haladéktalanul bejelenteni, ha vele szemben az (1) bekezdés szerinti kizáró ok áll fenn.
+
+[^2]: Az 5. alcím címe a 49/2021. (II. 5.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
