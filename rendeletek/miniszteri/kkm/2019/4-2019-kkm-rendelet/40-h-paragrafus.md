@@ -1,4 +1,4 @@
-40/H. §[^43] (1) A képzési támogatás (e § vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át. A támogatási intenzitás legfeljebb az elszámolható költségek 70%-ának megfelelő maximális támogatási intenzitásig növelhető a következők szerint:
+40/H. §[^31] (1) A képzési támogatás (e § vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át. A támogatási intenzitás legfeljebb az elszámolható költségek 70%-ának megfelelő maximális támogatási intenzitásig növelhető a következők szerint:
 
 a) megváltozott munkaképességű munkavállaló vagy hátrányos helyzetű munkavállaló részére biztosított képzés esetén 10 százalékponttal,
 
@@ -18,4 +18,4 @@ d) a képzésben részt vevők személyi jellegű ráfordításai és az által�
 
 (4) Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege képzési projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget.
 
-[^43]: A 40/H. §-t a 17/2020. (XII. 17.) KKM rendelet 4. §-a iktatta be.
+[^31]: A 40/H. §-t a 17/2020. (XII. 17.) KKM rendelet 4. §-a iktatta be.

@@ -1,4 +1,4 @@
-40/E. §[^40] (1) A 40/D. § (1) bekezdés a) pontja szerinti versenyképesség-növelő támogatás (e § vonatkozásában a továbbiakban: támogatás) a világjárvány miatt nehéz helyzetbe került, Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaság részére nyújtható.
+40/E. §[^28] (1) A 40/D. § (1) bekezdés a) pontja szerinti versenyképesség-növelő támogatás (e § vonatkozásában a továbbiakban: támogatás) a világjárvány miatt nehéz helyzetbe került, Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaság részére nyújtható.
 
 (2) A támogatás a (3) bekezdésben meghatározottak kivételével bármely iparágban és gazdasági területen nyújtható.
 
@@ -40,4 +40,4 @@ b) olyan pályázónak vagy olyan vállalkozás kapcsolt vállalkozásának, ame
 
 (7) Az e §-ban meghatározott összegeket a pályázat benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett devizaárfolyam alapján kell átszámítani forintra.
 
-[^40]: A 40/E. §-t a 17/2020. (XII. 17.) KKM rendelet 4. §-a iktatta be.
+[^28]: A 40/E. §-t a 17/2020. (XII. 17.) KKM rendelet 4. §-a iktatta be.
