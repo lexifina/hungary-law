@@ -16,7 +16,7 @@
 
 ## Határidő: a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 4. visszavonja a Gazdaságvédelmi Akcióterv végrehajtásához kapcsolódó honvédelmi munkaerőpiaci helyzet fejlesztéséhez szükséges források biztosításáról szóló 1293/2020. (VI. 11.) Korm. határozat 1–3. pontját.
+## 4.[^1]
 
 1. melléklet az 1029/2021. (II. 5.) Korm. határozathoz
 
@@ -75,3 +75,5 @@
 | Magyar Államkincstár 1 példány | időarányos teljesítésarányos egyéb: azonnal | 848 484 029 |  | 848 484 029 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
