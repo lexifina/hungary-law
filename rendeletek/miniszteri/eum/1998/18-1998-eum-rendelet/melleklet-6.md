@@ -12,7 +12,7 @@
 
 ## 1.6. Gottsegen György Országos Kardiológiai Intézet Budapest (gyermekszív, valamint veleszületett szívbetegségben – GUCH Disease; Grown-Up Congenital Heart Disease – szenvedő 18 év feletti betegek esetén szív).
 
-## 1.7.[^151] Semmelweis Egyetem Általános Orvostudományi Kar Mellkassebészeti Klinika (tüdő)
+## 1.7.[^151] Országos Onkológiai Intézet (tüdő)
 
 ## 2. Az adott szerv tekintetében halott személyből történő szervkivételre jogosított egészségügyi szolgáltatók
 
@@ -30,14 +30,14 @@
 
 ## 2.7. Gottsegen György Országos Kardiológiai Intézet Budapest (gyermekszív és szív).
 
-## 2.8.[^154] Semmelweis Egyetem Általános Orvostudományi Kar Mellkassebészeti Klinika (tüdő)
+## 2.8.[^154] Országos Onkológiai Intézet (tüdő)
 
 6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^155]
 
 [^149]: Az 5. számú melléklet 1. pont 1.2. alpontja az 54/2015. (XI. 24.) EMMI rendelet 12. §-ával megállapított szöveg.
 [^150]: Az 5. számú melléklet 1. pont 1.3. alpontja az 54/2015. (XI. 24.) EMMI rendelet 12. §-ával megállapított szöveg.
-[^151]: Az 5. számú melléklet 1. pont 1.7. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be.
+[^151]: Az 5. számú melléklet 1. pont 1.7. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be, szövege az 5/2021. (II. 5.) EMMI rendelet 2. §-a szerint módosított szöveg.
 [^152]: Az 5. számú melléklet 2. pont 2.2. alpontja az 54/2015. (XI. 24.) EMMI rendelet 12. §-ával megállapított szöveg.
 [^153]: Az 5. számú melléklet 2. pont 2.3. alpontja az 54/2015. (XI. 24.) EMMI rendelet 12. §-ával megállapított szöveg.
-[^154]: Az 5. számú melléklet 2. pont 2.8. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be.
+[^154]: Az 5. számú melléklet 2. pont 2.8. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be, szövege az 5/2021. (II. 5.) EMMI rendelet 2. §-a szerint módosított szöveg.
 [^155]: A 6. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 44/2016. (XII. 28.) EMMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
