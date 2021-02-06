@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-344-20-
 | 2018-01-01 | 2017-344-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2019-03-06 | 2017-344-20-22.3 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-07-24 | 2017-344-20-22.4 | 361/2020. (VII. 23.) Korm. rendelet |
+| 2021-02-06 | 2017-344-20-22.5 | 47/2021. (II. 5.) Korm. rendelet |
