@@ -1,0 +1,9 @@
+# 45/2021. (II. 5.) Korm. rendelet
+
+a veszélyhelyzet idején alkalmazandó további védelmi intézkedésekről szóló 479/2020. (XI. 3.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-45-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-02-06 | 2021-45-20-22.1 | 45/2021. (II. 5.) Korm. rendelet |
