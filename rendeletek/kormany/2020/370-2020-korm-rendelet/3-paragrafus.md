@@ -20,6 +20,8 @@ i) a Beruházással összefüggésben megvalósuló építmények között nem k
 
 j) a telek beépítési módja szabadon álló.
 
+k)[^1] a városképi szempontok érvényesítését a megengedett beépítés egy épületben (tömegben) történő létrehozásával is lehet biztosítani.
+
 (2) A Beruházás során megvalósítandó építmény, építményrész terepszint alatt közterületre az Ingatlan, illetve a Beruházás által érintett barlangrendszer vonatkozásában legfeljebb 5 méterrel nyúlhat be, olyan módon, hogy a közterület rendeltetésszerű használatát nem zavarhatja, biztonságát nem veszélyeztetheti.
 
 (3) Az Ingatlan, illetve a Beruházás által érintett barlangrendszerben a Beruházás megvalósításával összefüggő tartószerkezeti megerősítések, illetve bármely egyéb szükséges munkálatok elvégezhetők.
@@ -32,8 +34,9 @@ j) a telek beépítési módja szabadon álló.
 
 (7) Az Ingatlan, annak egyes elemei, illetve az Ingatlanon álló épületek vonatkozásában újonnan helyi védelmet megállapítani nem lehet.
 
-(8)[^1] Az Ingatlanon a járművek elhelyezésének kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 4. számú melléklete alapján számított személygépkocsik számának legalább 15%-a elhelyezését kell biztosítani.
+(8)[^2] Az Ingatlanon a járművek elhelyezésének kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 4. számú melléklete alapján számított személygépkocsik számának legalább 15%-a elhelyezését kell biztosítani.
 
 (9) A Beruházás keretében megvalósított építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a – helyi és fővárosi – településrendezési eszközökben előírt infrastruktúra-fejlesztések megvalósulása.
 
-[^1]: A 3. § (8) bekezdése a 460/2020. (X. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^1]: A 3. § (1) bekezdés k) pontját a 47/2021. (II. 5.) Korm. rendelet 12. §-a iktatta be.
+[^2]: A 3. § (8) bekezdése a 460/2020. (X. 20.) Korm. rendelet 11. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 7. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^3] E rendeletnek az egyes gazdaságfejlesztési tárgyú kormányrendeletek módosításáról szóló 47/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (1) bekezdés k) pontját a Módr. hatálybalépésekor[^4] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 370/2020. (VII. 30.) Korm. rendelethez
 
@@ -61,3 +61,6 @@
 28. azok az 1–27. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 29. az 1–28. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 8. §-t a 47/2021. (II. 5.) Korm. rendelet 13. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2021. február 6.
