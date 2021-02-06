@@ -1,4 +1,4 @@
-6/G. §[^25] (1) A 2. mellékletben foglalt táblázat 37. sora szerinti beruházás esetében a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet szerinti nagyberuházással kapcsolatos régészeti feladatellátás általános szabályai alkalmazandók.
+6/G. §[^29] (1) A 2. mellékletben foglalt táblázat 37. sora szerinti beruházás esetében a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet szerinti nagyberuházással kapcsolatos régészeti feladatellátás általános szabályai alkalmazandók.
 
 (2) A 2. mellékletben foglalt táblázat 37. sora szerinti beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
@@ -8,4 +8,4 @@
 
 (5) A 2. mellékletben foglalt táblázat B:37 mezője szerinti ingatlanra vonatkozóan az építési engedély akkor is megadható, ha a létesítendő épület helyszínéül szolgáló terület több telekből áll, továbbá épület az telkek építési területnek nem minősülő területén is elhelyezhető.
 
-[^25]: A 6/G. §-t a 117/2020. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 6/G. §-t a 117/2020. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
