@@ -1304,6 +1304,8 @@
 
 ## 3.4.15. M0 gyorsforgalmi út – Haraszti út összekötő út és híd megvalósítása.
 
+## 3.4.16. Városliget környezetének egyes közlekedési fejlesztései (Hősök tere gépjárműmentesítése, P+R funkciójú parkolóházak, a Szegedi út vonalában új közúti és villamosvasúti felüljáró és ezek megközelítéséhez szükséges útkapcsolatok).
+
 ## 4. Országos vízi közlekedési projektek
 
 ## 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
