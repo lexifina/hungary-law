@@ -1,0 +1,1 @@
+## 9. § A Bizottság – a koordináló szerv útján – gondoskodik arról, hogy a szakmai közvélemény az adott témával kapcsolatban a javaslatait kifejthesse. A koordináló szerv a vasúti műszaki előírás tervezetét véleményezés céljából a Bizottság intranet felületén a koordináló szerv tagjai és a Bizottság tagjai számára az Ügyrendben foglaltak szerint közzéteszi.

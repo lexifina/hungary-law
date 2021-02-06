@@ -1,0 +1,1 @@
+16. § Ez a rendelet az Európai Unió Vasúti Ügynökségéről és a 881/2004/EK rendelet hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/796 európai parlamenti és tanácsi rendelet 25. cikk (3)–(4) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
