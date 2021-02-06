@@ -1,4 +1,4 @@
-16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^92]
+16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^94]
 
 2019. július 1-jétől a kompenzáció bérszámfejtéséhez szükséges összegek
 
@@ -40,4 +40,4 @@
 
 | 17 | 49–51 | 13 576 | 15 585 | 17 077 | 18 537 | 22 790 | 29 621 | 31 282 | 34 749 | 36 247 | 39 802 |
 
-[^92]: A 16. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be.
+[^94]: A 16. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be.

@@ -1,4 +1,4 @@
-## 22. §[^64]
+## 22. §[^66]
 
 1. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
@@ -122,7 +122,7 @@
 
 2.49. egészségügyi operátor
 
-2.50.[^65] egészségügyi ügyvitelszervező***
+2.50.[^67] egészségügyi ügyvitelszervező***
 
 2.51. laboráns, vegyésztechnikus
 
@@ -152,21 +152,21 @@
 
 2.64. vezető közegészségügyi felügyelő*
 
-2.65.[^66] ápolási igazgató
+2.65.[^68] ápolási igazgató
 
-2.66.[^67] egészségügyi szakoktató
+2.66.[^69] egészségügyi szakoktató
 
-2.67.[^68] mentőhelikopter vezető
+2.67.[^70] mentőhelikopter vezető
 
-2.68.[^69] mentő-technikus
+2.68.[^71] mentő-technikus
 
-2.69.[^70] mentésirányító
+2.69.[^72] mentésirányító
 
-2.70.[^71] mentésvezető
+2.70.[^73] mentésvezető
 
-2.71.[^72] okleveles ápoló-mentőtiszt
+2.71.[^74] okleveles ápoló-mentőtiszt
 
-2.72.[^73] orvosírnok
+2.72.[^75] orvosírnok
 
 3. Az Eütev. 11/A. § (6) bekezdése szerinti, felsőfokú végzettséggel betölthető munkakörök:
 
@@ -184,9 +184,9 @@
 
 3.7. mikrobiológus*
 
-3.8.[^74] fizikus
+3.8.[^76] fizikus
 
-3.9.[^75] kémikus
+3.9.[^77] kémikus
 
 4. Az Eütev. 11/A. § (6a) bekezdése szerinti gyógyszerészi végzettséggel betölthető munkakörök:
 
@@ -208,7 +208,7 @@
 
 5.3. parancsnok helyettes*
 
-5.4.[^76]
+5.4.[^78]
 
 5.5. intézetvezető*
 
@@ -218,7 +218,7 @@
 
 5.8. munkavezető, foglalkozásvezető
 
-Jelmagyarázat:[^77]
+Jelmagyarázat:[^79]
 
 * = a Honvédelmi Minisztérium és a Magyar Honvédség egészségügyi intézményeiben foglalkoztatott közalkalmazottakra irányadó munkakör.
 
@@ -226,17 +226,17 @@ Jelmagyarázat:[^77]
 
 *** = felsőfokú végzettséggel rendelkező.
 
-[^64]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^65]: Az 1. melléklet 2. pont 2.50. alpontja a 328/2019. (XII. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^66]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^67]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^68]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^69]: Az 1. melléklet 2. pont 2.68. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^70]: Az 1. melléklet 2. pont 2.69. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^71]: Az 1. melléklet 2. pont 2.70. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^72]: Az 1. melléklet 2. pont 2.71. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^73]: Az 1. melléklet 2. pont 2.72. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^74]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^75]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^76]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^77]: Az 1. melléklet „Jelmagyarázat” része a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^66]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: Az 1. melléklet 2. pont 2.50. alpontja a 328/2019. (XII. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^68]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^69]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^70]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^71]: Az 1. melléklet 2. pont 2.68. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^72]: Az 1. melléklet 2. pont 2.69. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^73]: Az 1. melléklet 2. pont 2.70. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^74]: Az 1. melléklet 2. pont 2.71. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^75]: Az 1. melléklet 2. pont 2.72. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^76]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^77]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^78]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^79]: Az 1. melléklet „Jelmagyarázat” része a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

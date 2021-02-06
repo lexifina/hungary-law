@@ -38,7 +38,7 @@
 
 | 17 | 49–51 | 80 275 | 115 961 | 92 886 | 118 837 | 194 416 | 308 364 | 323 233 | 356 629 | 352 010 | 385 614 |
 
-11. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^87]
+11. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^89]
 
 1. Az orvos, szakorvos, fogorvos, fogszakorvos munkakörben foglalkoztatott dolgozók illetmény- vagy bérnövelése
 
@@ -122,4 +122,4 @@
 
 | 17 | 49–51 | 16 835 | 19 326 | 21 177 | 22 988 | 28 261 | 36 733 | 38 793 | 43 092 | 44 949 | 49 358 |
 
-[^87]: A 11. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^89]: A 11. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (1) bekezdése iktatta be.
