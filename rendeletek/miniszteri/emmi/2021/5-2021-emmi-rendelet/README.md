@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-5-20-5H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-02-06 | 2021-5-20-5H.1 | 5/2021. (II. 5.) EMMI rendelet |
+| 2021-02-07 | 2021-5-20-5H.2 | 2010: CXXX. törvény |
