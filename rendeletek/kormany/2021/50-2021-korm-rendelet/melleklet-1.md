@@ -1,7 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet az 50/2021. (II. 5.) Korm. rendelethez
+1. melléklet az 50/2021. (II. 5.) Korm. rendelethez[^3]
 
-A Rendelet 1. melléklet 3.4. pontja a következő 3.4.16. alponttal egészül ki:
-
-„3.4.16. Városliget környezetének egyes közlekedési fejlesztései (Hősök tere gépjárműmentesítése, P+R funkciójú parkolóházak, a Szegedi út vonalában új közúti és villamosvasúti felüljáró és ezek megközelítéséhez szükséges útkapcsolatok).”
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
