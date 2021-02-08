@@ -20,7 +20,7 @@ f) teljesítette-e a 7. § (7) és (8) bekezdésében meghatározott követelmé
 
 (4) Ha az importőr tudomást szerez arról, vagy feltételezi, hogy a rádióberendezés nem felel meg a 3. §-ban meghatározott alapvető követelményeknek, azt nem hozhatja forgalomba, amíg ezen követelmények nem teljesülnek. Ha a rádióberendezés kockázatot jelent, az importőr tájékoztatja erről a gyártót, valamint a piacfelügyeleti hatóságot.
 
-(5) Ha az importőr tudomást szerez arról, vagy feltételezi, hogy az általa forgalomba hozott rádióberendezés nem felel meg e rendeletnek, azonnal meghozza a rádióberendezés megfelelőségének biztosításához szükséges kiigazító intézkedéseket, vagy kivonja a forgalomból vagy visszahívja a rádióberendezést. Ha a rádióberendezés kockázatot jelent, az importőr erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett kiigazító intézkedésről.
+(5)[^4] Ha az importőr tudomást szerez arról, vagy feltételezi, hogy az általa forgalomba hozott rádióberendezés nem felel meg e rendeletnek, azonnal meghozza a rádióberendezés megfelelőségének biztosításához szükséges korrekciós intézkedéseket, vagy kivonja a forgalomból vagy visszahívja a rádióberendezést. Ha a rádióberendezés kockázatot jelent, az importőr erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett korrekciós intézkedésről.
 
 (6) Az importőr a rádióberendezés forgalomba hozatalát követő 10 évig megőrzi az EU-megfelelőségi nyilatkozatot, valamint biztosítja, hogy a műszaki dokumentáció a piacfelügyeleti hatóság felhívására rendelkezésre bocsátható legyen.
 
@@ -37,3 +37,5 @@ f) teljesítette-e a 7. § (7) és (8) bekezdésében meghatározott követelmé
 (12) Amennyiben a rádióberendezés jelentette kockázatra tekintettel szükséges, az importőr a végfelhasználók egészsége és biztonsága érdekében elvégzi a forgalmazott rádióberendezés mintadarabjainak vizsgálatát és nem megfelelőség észlelése esetén az (5) bekezdés szerint jár el.
 
 (13) Az importőr kivizsgálja a rádióberendezés megfelelőségével kapcsolatos panaszokat. A panaszokról, valamint az e rendeletnek nem megfelelő rádióberendezésekről és a nem megfelelő rádióberendezések visszahívásáról nyilvántartást vezet, és folyamatosan tájékoztatja a forgalmazókat minden ilyen intézkedésről. Természetes személy panaszos esetében a személyes adatok nyilvántartásba vételéhez szükséges az érintett – az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti – hozzájárulása.
+
+[^4]: A 9. § (5) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 3. pontja szerint módosított szöveg.
