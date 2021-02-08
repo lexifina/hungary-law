@@ -1,3 +1,5 @@
+## 3. §[^2]
+
 1. melléklet az 582/2020. (XII. 15.) Korm. rendelethez
 
 Igazolás
@@ -49,3 +51,5 @@ _______________________
 A jogosult díjmentes utazási jogosultsága a belföldi, helyközi vasúti és autóbuszos személyszállítási közszolgáltatások vonatkozásában kiterjed a helyjegyre, valamint a pótjegyre, így a helyközi autóbusz-közlekedésben alkalmazott kiegészítő jegyre, valamint a vasúti közlekedésben rendszeresített gyorsvonati pótjegyre, ezáltal mentesít ezek megváltásának kötelezettsége alól.
 
 A jogosult jelen igazolást köteles magánál hordani és a díjmentes utazás igénybevételéhez a közlekedési szolgáltatók munkatársainak kérésük esetén a személyazonosság igazolására alkalmas okmánnyal együtt felmutatni.
+
+[^2]: A 3. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 36. pontja alapján hatályát vesztette.
