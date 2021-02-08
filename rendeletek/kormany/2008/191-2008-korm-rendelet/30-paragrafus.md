@@ -4,10 +4,12 @@
 
 a) a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzettel,
 
-b) a járványügyi készültség bevezetéséről szóló 283/2020. (VI. 17.) Korm. rendelet szerinti egészségügyi válsághelyzettel, valamint
+b) a járványügyi készültség bevezetéséről szóló 283/2020. (VI. 17.) Korm. rendelet szerinti egészségügyi válsághelyzettel,
 
-c) a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzettel
+c) a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzettel, valamint
+
+d) a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerint veszélyhelyzettel
 
 [^189]: A 29. §-t újonnan a 180/2019. (VII. 26.) Korm. rendelet 6. § (4) bekezdése iktatta be.
 [^190]: A hatálybalépés időpontja 2019. július 27.
-[^191]: A 30. §-t a 284/2020. (VI. 17.) Korm. rendelet 40. §-a iktatta be, szövege a 23/2021. (I. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^191]: A 30. §-t a 284/2020. (VI. 17.) Korm. rendelet 40. §-a iktatta be, szövege a 28/2021. (I. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
