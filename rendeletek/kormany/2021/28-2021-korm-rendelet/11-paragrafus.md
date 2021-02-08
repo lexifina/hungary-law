@@ -1,5 +1,3 @@
-## 10. §[^10]
+## 10. § A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 116. § (2a) bekezdésében az „a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti és a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet” szövegrész helyébe „a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti, a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti és a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet” szöveg lép.
 
 ## 4. Az egyes közlekedési tárgyú kormányrendeletekkel összefüggő veszélyhelyzeti szabályokról szóló 559/2020. (XII. 4.) Korm. rendelet módosítása
-
-[^10]: A 10. § a 12. § (2) bekezdése alapján 2021. február 8-án lép hatályba.
