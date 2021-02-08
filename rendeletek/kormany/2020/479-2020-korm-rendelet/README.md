@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-479-20-
 | 2020-12-03 | 2020-479-20-22.5 | 552/2020. (XII. 2.) Korm. rendelet |
 | 2021-02-03 | 2020-479-20-22.6 | 42/2021. (II. 2.) Korm. rendelet |
 | 2021-02-06 | 2020-479-20-22.7 | 45/2021. (II. 5.) Korm. rendelet |
+| 2021-02-08 | 2020-479-20-22.8 | 505/2020. (XI. 17.) Korm. rendelet |
