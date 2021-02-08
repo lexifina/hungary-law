@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-509-20-
 | 2020-12-03 | 2020-509-20-22.2 | 552/2020. (XII. 2.) Korm. rendelet |
 | 2020-12-04 | 2020-509-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-12-05 | 2020-509-20-22.4 | 558/2020. (XII. 4.) Korm. rendelet |
+| 2021-02-08 | 2020-509-20-22.5 | 27/2021. (I. 29.) Korm. rendelet |

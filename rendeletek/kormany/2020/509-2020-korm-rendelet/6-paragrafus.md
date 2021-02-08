@@ -1,3 +1,3 @@
-6. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+6. §[^13]
 
-(2) Ez a rendelet 2021. február 8-án hatályát veszti.
+[^13]: A 6. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 14. pontja alapján hatályát vesztette.
