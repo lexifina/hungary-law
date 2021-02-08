@@ -1,4 +1,4 @@
-## 10. §[^2]
+## 10. §[^3]
 
 1. melléklet az 523/2020. (XI. 25.) Korm. rendelethez
 
@@ -46,4 +46,4 @@ Tudomásul veszem, hogy a Támogató a támogatás felhasználását ellenőrizh
 
 Kelt: ....................................................................
 
-[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
