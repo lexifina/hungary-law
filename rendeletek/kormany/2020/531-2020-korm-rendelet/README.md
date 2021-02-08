@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-531-20-
 | 2020-11-29 | 2020-531-20-22.1 | 531/2020. (XI. 28.) Korm. rendelet |
 | 2020-12-12 | 2020-531-20-22.2 | 577/2020. (XII. 11.) Korm. rendelet |
 | 2020-12-13 | 2020-531-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-02-08 | 2020-531-20-22.4 | 27/2021. (I. 29.) Korm. rendelet |
