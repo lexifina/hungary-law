@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-524-20-
 | 2020-12-10 | 2020-524-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-01-01 | 2020-524-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-01-30 | 2020-524-20-22.4 | 33/2021. (I. 29.) Korm. rendelet |
+| 2021-02-08 | 2020-524-20-22.5 | 27/2021. (I. 29.) Korm. rendelet |
