@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1846-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-11-26 | 2020-1846-30-22.1 | 1846/2020. (XI. 25.) Korm. határozat |
+| 2021-02-08 | 2020-1846-30-22.2 | 1026/2021. (II. 2.) Korm. rendelet |
