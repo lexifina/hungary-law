@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-568-20-
 | --- | --- | --- |
 | 2020-12-10 | 2020-568-20-22.1 | 568/2020. (XII. 9.) Korm. rendelet |
 | 2020-12-24 | 2020-568-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-02-08 | 2020-568-20-22.3 | 27/2021. (I. 29.) Korm. rendelet |
