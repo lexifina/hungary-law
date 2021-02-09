@@ -2,61 +2,51 @@ A Kormány az UEFA 2020 labdarúgó Európa-bajnokság budapesti eseményeinek (
 
 1. egyetért azzal, hogy a Puskás Arénát – az ingatlan tekintetében vagyonkezelőként, valamint a beruházás tekintetében építtetőként eljáró – Nemzeti Sportközpontok üzemeltesse és működtesse;
 
-2. egyetért azzal, hogy a Puskás Aréna üzemeltetése és működtetése tekintetében 2020. augusztus 1-jéig a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos (a továbbiakban: Kormánybiztos) egyes irányítási hatásköröket a Kormány rendeletében meghatározottak szerint a Nemzeti Sportközpontok vonatkozásában átvegyen, és ezen irányítási hatáskörök gyakorlása során az emberi erőforrások miniszterével együttműködjön;
+2.[^1] egyetért azzal, hogy a Puskás Aréna üzemeltetése és működtetése tekintetében 2021. december 31-éig a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos (a továbbiakban: Kormánybiztos) egyes irányítási hatásköröket a Kormány rendeletében meghatározottak szerint a Nemzeti Sportközpontok vonatkozásában átvegyen, és ezen irányítási hatáskörök gyakorlása során az emberi erőforrások miniszterével együttműködjön;
 
-3. egyetért azzal, hogy az Európa-bajnokság megrendezésével kapcsolatban az Európai Labdarúgó-szövetség (a továbbiakban: UEFA), a Magyar Labdarúgó Szövetség (a továbbiakban: MLSZ) és Budapest Főváros Önkormányzata (a továbbiakban: Fővárosi Önkormányzat) között létrejött Rendező Város Megállapodásban (a továbbiakban: a Megállapodás) foglalt, a Fővárosi Önkormányzatot terhelő, a szurkolói zóna kialakítása és üzemeltetése, az Európa-bajnoksághoz kapcsolódó kísérőrendezvények, a rendezvények promóciója és kommunikációja, illetve a vonatkozó tervek és stratégiák előkészítése és operatív megvalósítása feladatok tekintetében, valamint egy közös szervezőtestület felállítása érdekében a Fővárosi Önkormányzat, a Kormánybiztos és a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.) együttműködési megállapodást kössön, és annak alapján a Fővárosi Önkormányzattal együttműködve a Kormánybiztos irányítása mellett a KKBK Nonprofit Zrt. valósítsa meg ezen feladatokat;
+3.[^2] egyetért azzal, hogy az Európa-bajnokság megrendezésével kapcsolatban az Európai Labdarúgó-szövetség (a továbbiakban: UEFA), a Magyar Labdarúgó Szövetség (a továbbiakban: MLSZ) és Budapest Főváros Önkormányzata (a továbbiakban: Fővárosi Önkormányzat) között létrejött Rendező Város Megállapodásban (a továbbiakban: a Megállapodás) foglalt, a Fővárosi Önkormányzatot terhelő, a szurkolói zóna kialakítása és üzemeltetése, az Európa-bajnoksághoz kapcsolódó kísérőrendezvények, a rendezvények promóciója és kommunikációja, illetve a vonatkozó tervek és stratégiák előkészítése és operatív megvalósítása feladatok tekintetében, valamint egy közös szervezőtestület felállítása érdekében a Fővárosi Önkormányzat, a Kormánybiztos és a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: BFK Budapest Fejlesztési Központ Nonprofit Zrt.) együttműködési megállapodást kössön, és annak alapján a Fővárosi Önkormányzattal együttműködve a Kormánybiztos irányítása mellett a BFK Budapest Fejlesztési Központ Nonprofit Zrt. valósítsa meg ezen feladatokat;
 
-Felelős: a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos, együttműködésben Budapest főpolgármesterével
+Felelős: a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos, együttműködésben Budapest főpolgármesterével
 
 Határidő: folyamatos
 
-4. egyetért azzal, hogy a Puskás Aréna Európa-bajnokságra való felkészítésével és az Európa-bajnokság ideje alatti üzemeltetésével és működtetésével, továbbá az Európa-bajnoksághoz kapcsolódó kísérőrendezvényekkel kapcsolatban az UEFA-val, az MLSZ-szel, a Fővárosi Önkormányzattal és a Nemzeti Sportközpontokkal való kormányzati kapcsolattartást – a KKBK Nonprofit Zrt. közreműködésével – a Kormánybiztos lássa el;
+4.[^3] egyetért azzal, hogy a Puskás Aréna Európa-bajnokságra való felkészítésével és az Európa-bajnokság ideje alatti üzemeltetésével és működtetésével, továbbá az Európa-bajnoksághoz kapcsolódó kísérőrendezvényekkel kapcsolatban az UEFA-val, az MLSZ-szel, a Fővárosi Önkormányzattal és a Nemzeti Sportközpontokkal való kormányzati kapcsolattartást – a BFK Budapest Fejlesztési Központ Nonprofit Zrt. közreműködésével – a Kormánybiztos lássa el;
 
-5. egyetért azzal, hogy a 2–4. pontban foglalt feladatokra tekintettel a Puskás Aréna 2. pontban meghatározott időpontig történő üzemeltetésének és működtetésének irányításával és az Európa-bajnokság kísérőrendezvényeivel kapcsolatos feladatok ellátására a KKBK Nonprofit Zrt. szervezetén belül létrejöjjön és legkésőbb 2020. december 31-éig működjön egy programiroda (a továbbiakban: Programiroda);
+5.[^4] egyetért azzal, hogy a 2–4. pontban foglalt feladatokra tekintettel a Puskás Aréna 2. pontban meghatározott időpontig történő üzemeltetésének és működtetésének irányításával és az Európa-bajnokság kísérőrendezvényeivel kapcsolatos feladatok ellátására a BFK Budapest Fejlesztési Központ Nonprofit Zrt. szervezetén belül létrejöjjön és legkésőbb 2021. december 31-éig működjön egy programiroda (a továbbiakban: Programiroda);
 
-6. felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával a 2–4. pont szerinti feladatok ellátása érdekében gondoskodjon a Programiroda működéséhez és feladatainak ellátásához szükséges mindösszesen 186 000 000 forint összegű forrás biztosításáról, az alábbi ütemezés szerint:
-
-a) a 2019. évben 20 000 000 forint forrás a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 9. Kiemelt Nemzetközi Sportesemény Stratégia és sportesemény pályázatok jogcím javára,
-
-b) a 2020. évben 166 000 000 forint forrás a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet javára;
+6.[^5] felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával a 2–4. pont szerinti feladatok ellátása érdekében gondoskodjon a Programiroda működéséhez és feladatainak ellátásához a 2021. évben szükséges 138 863 530 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságvédelmet szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 6. Kiemelt Nemzetközi Sportesemény Stratégia és sportesemény pályázatok, valamint kiemelt hazai rendezésű sportesemények támogatása jogcímcsoport javára;
 
 Felelős: pénzügyminiszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: az a) alpont tekintetében azonnal
+Határidő: a felmerülés ütemében
 
-a b) alpont tekintetében a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
-
-6/A.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a 6. pont a) alpontja alapján kiadott támogatási szerződést a 6. pont b) alpontja szerinti költségvetési többlettámogatás biztosítása érdekében módosítsa;
+6/A.[^6] felhívja a Miniszterelnökséget vezető minisztert, hogy a 6. pont szerinti forrás terhére adjon ki támogatói okiratot a BFK Budapest Fejlesztési Központ Nonprofit Zrt. mint kedvezményezett részére;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: a 6. pont b) alpontja szerinti költségvetési forrás rendelkezésre állását követően azonnal
+Határidő: a 6. pont szerinti forrás rendelkezésre állását követően azonnal
 
-7. felhívja az emberi erőforrások miniszterét, hogy a Kormánybiztos bevonásával készítsen előterjesztést a Kormány számára az 1. pont szerinti feladatok ellátásához kapcsolódóan, a Nemzeti Sportközpontok működéséhez és feladatainak ellátásához szükséges forrásigény vonatkozásában;
+7.[^7] felhívja az emberi erőforrások miniszterét, hogy a Kormánybiztos bevonásával készítsen előterjesztést a Kormány számára az 1. pont szerinti feladatok ellátásához kapcsolódóan, a Nemzeti Sportközpontok működéséhez és feladatainak ellátásához szükséges forrásigény vonatkozásában;
 
-Felelős: emberi erőforrások minisztere
+Felelős: emberi erőforrások minisztere,
 
-a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
+a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
 
 Határidő: 2019. október 30.
 
-8. felhívja a Kormánybiztost, hogy az emberi erőforrások minisztere bevonásával készítsen előterjesztést a Kormány számára a létesítmény hosszú távú – a 2. pontban meghatározott időpontot követő – hasznosítása, üzemeltetése és működtetése vonatkozásában;
+8.[^8] felhívja a Kormánybiztost, hogy az emberi erőforrások minisztere bevonásával készítsen előterjesztést a Kormány számára a létesítmény hosszú távú – a 2. pontban meghatározott időpontot követő – hasznosítása, üzemeltetése és működtetése vonatkozásában;
 
-Felelős: a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
+Felelős: a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos,
 
 emberi erőforrások minisztere
 
-Határidő: 2019. december 31.
+Határidő: 2021. május 31.
 
-9. felhívja a Kormánybiztost és felkéri a városvezetés kijelölt képviselőjét, hogy a Fővárosi Önkormányzattal együttműködve készítsen előterjesztést a Kormány számára az Európa-bajnoksághoz kapcsolódó kísérőrendezvények, a rendezvények promóciója és kommunikációja, valamint ezek forrásigénye vonatkozásában;
+9.[^9]
 
-Felelős: a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos, együttműködésben Budapest főpolgármesterével
-
-Határidő: 2019. október 30.
-
-10. egyetért azzal, hogy az Európa-bajnokság, valamint a Megállapodásban foglalt események megszervezéséhez és lebonyolításához szükséges kommunikációs és rendezvényszervezési feladatokat a Kormánybiztos, a Fővárosi Önkormányzat, valamint a KKBK Nonprofit Zrt. a Nemzeti Kommunikációs Hivatal bevonásával valósítsa meg;
+10.[^10] egyetért azzal, hogy az Európa-bajnokság, valamint a Megállapodásban foglalt események megszervezéséhez és lebonyolításához szükséges kommunikációs és rendezvényszervezési feladatokat a Kormánybiztos, a Fővárosi Önkormányzat, valamint a BFK Budapest Fejlesztési Központ Nonprofit Zrt. a Nemzeti Kommunikációs Hivatal bevonásával valósítsa meg;
 
 11. felhívja a Miniszterelnökséget vezető minisztert, hogy tájékoztassa az UEFA-t és az MLSZ-t az Európa-bajnoksághoz kapcsolódó kormányzati feladatok e határozat szerinti ellátásáról.
 
@@ -64,4 +54,13 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-[^1]: A 6/A. pontot az 1165/2020. (IV. 21.) Korm. határozat 8. pontja iktatta be.
+[^1]: A 2. pont az 1041/2021. (II. 9.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1041/2021. (II. 9.) Korm. határozat 3. pont b)–c) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1041/2021. (II. 9.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1041/2021. (II. 9.) Korm. határozat 3. pont c)–d) alpontja szerint módosított szöveg.
+[^5]: A 6. pont az 1041/2021. (II. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 6/A. pontot az 1165/2020. (IV. 21.) Korm. határozat 8. pontja iktatta be, szövege az 1041/2021. (II. 9.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: A 7. pont az 1041/2021. (II. 9.) Korm. határozat 3. pont e) alpontja szerint módosított szöveg.
+[^8]: A 8. pont az 1041/2021. (II. 9.) Korm. határozat 3. pont f) alpontja szerint módosított szöveg.
+[^9]: A 9. pontot az 1041/2021. (II. 9.) Korm. határozat 4. pontja visszavonta.
+[^10]: A 10. pont az 1041/2021. (II. 9.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
