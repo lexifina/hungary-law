@@ -1,3 +1,3 @@
-## 20. §[^71] A felelős személy képesítési feltételeiről külön jogszabály rendelkezései irányadóak.
+## 20. §[^74] A felelős személy képesítési feltételeiről külön jogszabály rendelkezései irányadóak.
 
-[^71]: A 20. § a 10/2012. (VII. 19.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
+[^74]: A 20. § a 10/2012. (VII. 19.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
