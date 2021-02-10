@@ -1,6 +1,6 @@
 ## (Az Lt. 71. §-ához)
 
-27/A. §[^58] (1) E rendelet alkalmazásában
+27/A. §[^59] (1) E rendelet alkalmazásában
 
 1. adatgyűjtési terület: akadály és terep adatok gyűjtése céljából kijelölt terület a következők szerint:
 
@@ -48,4 +48,4 @@ c) addig a pontig terjed, amelyen túl nincsenek légiközlekedési akadályok, 
 
 (2) Az e rendeletben meg nem határozott fogalmakat a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 139/2014/EU bizottsági rendeletben, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben meghatározottak szerint kell értelmezni.
 
-[^58]: A Vhr. 27/A. §-t és az azt megelőző alcímet a 167/2019. (VII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^59]: A Vhr. 27/A. §-t és az azt megelőző alcímet a 167/2019. (VII. 9.) Korm. rendelet 4. §-a iktatta be.
