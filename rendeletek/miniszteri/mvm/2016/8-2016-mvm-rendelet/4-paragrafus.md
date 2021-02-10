@@ -1,4 +1,4 @@
-## 3/A. §[^3] A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges fordítási és lektorálási tevékenységet az Országos Fordító és Fordításhitelesítő Iroda Zrt. végzi.
+## 3/B. §[^6] A központi költségvetés XI. Miniszterelnökség fejezetébe sorolt Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) nemzeti tervvagyonnal kapcsolatos bevételek és kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve a Lechner Tudásközpont.
 
 ## III. Fejezet
 
@@ -84,7 +84,7 @@
 
 38. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás,
 
-39.[^4] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
+39.[^7] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
 
 40. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
@@ -114,5 +114,5 @@
 
 53. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
 
-[^3]: A 3/A. §-t a 6/2020. (IV. 27.) MvM rendelet 1. §-a iktatta be.
-[^4]: A 4. § 39. pontja a 18/2020. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3/B. §-t az 1/2021. (II. 9.) MvM rendelet 2. §-a iktatta be.
+[^7]: A 4. § 39. pontja a 18/2020. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
