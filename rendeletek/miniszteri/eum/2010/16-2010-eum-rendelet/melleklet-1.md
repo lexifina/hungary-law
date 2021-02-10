@@ -1,6 +1,6 @@
-## 24. §[^110]
+## 24. §[^107]
 
-1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^111]
+1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^108]
 
 1. A rendszerbevételi eljárás során adható többletpontok
 
@@ -50,5 +50,5 @@
 
 adatok feldolgozása tudományos tevékenységben stb.) 2 pont
 
-[^110]: A 24. § a (4) bekezdés alapján hatályát vesztette.
-[^111]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja, a 34/2015. (VI. 30.) EMMI rendelet 18. § 6. pontja szerint módosított szöveg.
+[^107]: A 24. § a (4) bekezdés alapján hatályát vesztette.
+[^108]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja, a 34/2015. (VI. 30.) EMMI rendelet 18. § 6. pontja szerint módosított szöveg.

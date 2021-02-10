@@ -2,7 +2,7 @@
 
 ## AZ AKKREDITÁCIÓS ELJÁRÁS[^28]
 
-7. § (1)[^29] A szakképzés gyakorlati programjának lebonyolítása akkreditált egészségügyi szolgáltatónál (a továbbiakban: szakképző hely) történik.
+7. § (1)[^29] A szakképzés gyakorlati programjának szervezése és lebonyolítása a felnőttképzésről szóló törvény szerinti bejelentés alapján felnőttképzési tevékenységet folytató, akkreditált egészségügyi szolgáltatónál (a továbbiakban: szakképző hely) történik.
 
 (2)[^30] Az egészségügyi szolgáltatók szakképző hellyé minősítéséről (a továbbiakban: akkreditáció) az ÁEEK főigazgatója dönt.
 
@@ -31,7 +31,7 @@ d)[^36] az egyetem támogató nyilatkozatát a szolgáltató teljes vagy részbe
 (8)[^39] A 3. melléklet szerinti személyi és tárgyi feltételekben bekövetkezett változásról a szakképző hely az ÁEEK-et tizenöt napon belül értesíti.
 
 [^28]: A III. Fejezet címe a 34/2015. (VI. 30.) EMMI rendelet 18. § 7. pontja szerint módosított szöveg.
-[^29]: A 7. § (1) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^29]: A 7. § (1) bekezdése a 6/2021. (II. 9.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^30]: A 7. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 72. § d) pontja szerint módosított szöveg.
 [^31]: A 7. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^32]: A 7. § (4) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 8. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 72. § b) és e) pontja szerint módosított szöveg.
