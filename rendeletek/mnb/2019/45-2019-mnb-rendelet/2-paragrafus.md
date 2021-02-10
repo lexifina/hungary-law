@@ -44,6 +44,12 @@ b) az irányítása alatt álló szervezeti egység SZMSZ szerinti felügyeleti 
 
 a)[^4] az átfogó, cél-, téma-, utóvizsgálatot lezáró határozat és eljáráson kívül hozott határozat, ide nem értve a kizárólag fogyasztóvédelmi ellenőrzési eljárásban és eljáráson kívül, rendkívüli adatszolgáltatást elrendelő, valamint a teljesítési határidő meghosszabbítása tárgyában hozott döntést, továbbá a pénzmosás és terrorizmus finanszírozásának megelőzése és megakadályozása tárgyában folyamatos felügyelés során hozott döntést,
 
+aa) a 2. § (1) bekezdés h) pontja alá nem tartozó, az éves beszámoló alapján 100 milliárd forintot meghaladó mérlegfőösszeggel rendelkező hitelintézet, valamint
+
+ab) az előző év december 31-i felügyeleti adatszolgáltatás alapján 50 milliárd forintnál nagyobb éves díjbevétellel rendelkező biztosító
+
+## esetében,
+
 b) a felügyelt szervezetek – a közvetítők kivételével – működési, tevékenységi engedélyének hivatalból történő visszavonásáról szóló határozat,
 
 c) intézkedést, kivételes vagy rendkívüli intézkedést tartalmazó alábbi döntések:
@@ -325,7 +331,7 @@ c) – azonos vezetési szinten álló, vezetői hatáskörrel rendelkező szem�
 [^1]: A 2. § (1) bekezdés h) pontja a 4/2021. (I. 28.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés j) pontja a 4/2021. (I. 28.) MNB rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdés nyitó szövegrésze a 16/2020. (VI. 11.) MNB rendelet 1. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (3) bekezdés a) pontja a 4/2021. (I. 28.) MNB rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: A 2. § (3) bekezdés a) pontja az 5/2021. (II. 9.) MNB rendelet 1. §-ával megállapított szöveg.
 [^5]: A 2. § (3) bekezdés c) pont ci) alpontja a 4/2021. (I. 28.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (4) bekezdés nyitó szövegrésze a 16/2020. (VI. 11.) MNB rendelet 1. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (5) bekezdés c) pontja a 16/2020. (VI. 11.) MNB rendelet 1. § c) pontja, a 4/2021. (I. 28.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
