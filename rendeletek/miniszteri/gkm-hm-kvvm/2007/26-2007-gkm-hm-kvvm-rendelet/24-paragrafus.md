@@ -68,6 +68,8 @@
 
 30. műrepülő légtér: meghatározott kiterjedésű, a műrepülést végző légijárművek védelme céljából kijelölt légtér (azonosító jelölése: LHSA..);
 
+30a.[^81] No Drone Zone: a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 13. § 3. pontja szerinti légtér.
+
 31. NOTAM: bármely légiforgalmi berendezés, szolgálat, eljárás létesítéséről, állapotáról, változásáról vagy veszély fennállásáról szóló értesítés, amelynek idejében történő megismerése elengedhetetlenül szükséges a repülésben érdekelt személyzet részére;
 
 32. OAT (Operational Air Traffic): azon repülések, amelyek végrehajtása GAT-szabályoktól eltérő szabályok és eljárások szerint történik. Ezek a repülések rendszerint a katonai ATC szervezet irányítása vagy fennhatósága alatt működnek;
@@ -76,17 +78,17 @@
 
 34. RCA (Reduced Co-ordination Airspace): csökkentett koordinációs légtér, olyan meghatározott kiterjedésű ellenőrzött légtér, amelyen belül a katonai repülések végrehajtására előzetes igénylés nélkül, az érintett polgári légiforgalmi irányító és légvédelmi irányító szolgálatok közötti együttműködési megállapodásban meghatározott eljárások szerint, bejelentés alapján kerülhet sor. A GAT-repülések számára a légtéren történő áthaladás az illetékes irányító szolgálatok közötti előzetes koordináció nélkül, az együttműködési megállapodásban foglalt eljárások betartása mellett biztosított;
 
-34a.[^81] RMZ (Radio Mandatory Zone): a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló, 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendelet (a továbbiakban: SERA rendelet) 2. cikk 106. pontjában meghatározott fogalom;
+34a.[^82] RMZ (Radio Mandatory Zone): a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló, 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendelet (a továbbiakban: SERA rendelet) 2. cikk 106. pontjában meghatározott fogalom;
 
 35. STD (Standard): az 1013,25 hPa légnyomásszint szerinti repülési magasság jelölésére használt rövidítés;
 
 36. TIZ (Traffic Information Zone): forgalmi tájékoztató körzet, az a nem ellenőrzött repülőterek körül kijelölt meghatározott térbeli kiterjedésű légtér, amelyben a repülések számára a repüléstájékoztató és riasztó szolgálatot az érintett repülőtér repülőtéri repüléstájékoztató szolgálata nyújtja;
 
-37.[^82] TMA (Terminal Control Area): közelkörzeti irányítói körzet, amelyet egy vagy több nagyobb repülőtér közelében, rendszerint ATS útvonalak találkozásánál létesítettek. A közelkörzeti irányító körzet alsó határa a földrajzi viszonyoknak és a légiforgalomnak megfelelően változik, de sehol sem alacsonyabb 600 lábnál (180 m) a terep felszíne felett;
+37.[^83] TMA (Terminal Control Area): közelkörzeti irányítói körzet, amelyet egy vagy több nagyobb repülőtér közelében, rendszerint ATS útvonalak találkozásánál létesítettek. A közelkörzeti irányító körzet alsó határa a földrajzi viszonyoknak és a légiforgalomnak megfelelően változik, de sehol sem alacsonyabb 600 lábnál (180 m) a terep felszíne felett;
 
-38.[^83] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
+38.[^84] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
 
-38a.[^84] TMZ (Transponder Mandatory Zone): a SERA rendelet 2. cikk 136. pontjában meghatározott fogalom;
+38a.[^85] TMZ (Transponder Mandatory Zone): a SERA rendelet 2. cikk 136. pontjában meghatározott fogalom;
 
 39. UTC (Coordinated Universal Time): az egyeztetett egyetemes világidő jelölésére használt rövidítés;
 
@@ -102,7 +104,8 @@
 [^78]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
 [^79]: A 24. § 12a. pontját a 15/2014. (IV. 3.) NFM rendelet 13. §-a iktatta be, szövege a 25/2017. (VI. 30.) NFM rendelet 12. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § g) pontja szerint módosított szöveg.
 [^80]: A 24. § 23. pontja a 34/2019. (IX. 13.) ITM rendelet 7. § h) pontja szerint módosított szöveg.
-[^81]: A 24. § 34a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
-[^82]: A 24. § 37. pontja a 25/2017. (VI. 30.) NFM rendelet 13. § k) pontja szerint módosított szöveg.
-[^83]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
-[^84]: A 24. § 38a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^81]: A 24. § 30a. pontját a 7/2021. (II. 5.) ITM rendelet 2. §-a iktatta be.
+[^82]: A 24. § 34a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^83]: A 24. § 37. pontja a 25/2017. (VI. 30.) NFM rendelet 13. § k) pontja szerint módosított szöveg.
+[^84]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
+[^85]: A 24. § 38a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.

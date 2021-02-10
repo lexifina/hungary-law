@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-0
 | 2020-01-30 | 2007-26-20-0L.27 | 34/2019. (IX. 13.) ITM rendelet |
 | 2020-10-10 | 2007-26-20-0L.28 | 33/2020. (X. 5.) ITM rendelet |
 | 2021-01-28 | 2007-26-20-0L.29 | 45/2017. (XII. 4.) NFM rendelet |
+| 2021-02-10 | 2007-26-20-0L.30 | 7/2021. (II. 5.) ITM rendelet |
