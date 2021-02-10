@@ -6,16 +6,16 @@
 
 (4) A jogosultsági időszak lejárta esetére a licenc megújítása
 
-a)[^36] a licenc megújítására irányuló, a működési nyilvántartást vezető szerv részére benyújtott kérelemmel lehetséges, ha a licenc jogosultja az adott tevékenységet a jogosultsági időszak alatt legalább három évig, legalább havonta, önállóan gyakorolta, és e feltételek fennállását megfelelően igazolja,
+a)[^37] a licenc megújítására irányuló, a működési nyilvántartást vezető szerv részére benyújtott kérelemmel lehetséges, ha a licenc jogosultja az adott tevékenységet a jogosultsági időszak alatt legalább három évig, legalább havonta, önállóan gyakorolta, és e feltételek fennállását megfelelően igazolja,
 
 b) a) pontban foglalt feltételek hiányában ismételt licenc vizsga letételével lehetséges.
 
-(5)[^37]
+(5)[^38]
 
-(6)[^38] A (4) bekezdés a) pontja szerinti feltételek fennállása esetén a működési nyilvántartást vezető szerv a licencet megújítja, és a megújítás tényét igazolja.
+(6)[^39] A (4) bekezdés a) pontja szerinti feltételek fennállása esetén a működési nyilvántartást vezető szerv a licencet megújítja, és a megújítás tényét igazolja.
 
 (7) A (4) bekezdés b) pontja szerinti ismételt licenc vizsgára a 6–9. §-ban foglaltak irányadók.
 
-[^36]: A 10. § (4) bekezdés a) pontja a 8/2018. (II. 13.) EMMI rendelet 72. §-a szerint módosított szöveg.
-[^37]: A 10. § (5) bekezdését a 8/2018. (II. 13.) EMMI rendelet 73. §-a hatályon kívül helyezte.
-[^38]: A 10. § (6) bekezdése a 8/2018. (II. 13.) EMMI rendelet 71. §-ával megállapított szöveg.
+[^37]: A 10. § (4) bekezdés a) pontja a 8/2018. (II. 13.) EMMI rendelet 72. §-a szerint módosított szöveg.
+[^38]: A 10. § (5) bekezdését a 8/2018. (II. 13.) EMMI rendelet 73. §-a hatályon kívül helyezte.
+[^39]: A 10. § (6) bekezdése a 8/2018. (II. 13.) EMMI rendelet 71. §-ával megállapított szöveg.
