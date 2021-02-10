@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2021-01-01 | 2018-141-20-22.41 | 725/2020. (XII. 31.) Korm. rendelet |
 | 2021-01-21 | 2018-141-20-22.42 | 12/2021. (I. 20.) Korm. rendelet |
 | 2021-02-06 | 2018-141-20-22.43 | 47/2021. (II. 5.) Korm. rendelet |
+| 2021-02-10 | 2018-141-20-22.44 | 371/2019. (XII. 30.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 51. §[^120] E rendeletnek az egyes gazdaságfejlesztési tárgyú kormányrendeletek módosításáról szóló 47/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr43.) megállapított 6. § (1) bekezdését, 6. § (3a) és (3b) bekezdését, 6/M. §-át, 2. mellékletben foglalt táblázat 60. sorát, valamint 4. mellékletét a Módr43. hatálybalépésekor[^121] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 52. §[^122] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 56/2021. (II. 9.) Korm. rendelettel (a továbbiakban: Módr44.) megállapított 6/E. § rendelkezéseit és a 2. mellékletben foglalt táblázat 33. sorát a Módr44. hatálybalépésekor[^123] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^122] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^124] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^120]: Az 51. §-t a 47/2021. (II. 5.) Korm. rendelet 8. §-a iktatta be.
-[^121]: A hatálybalépés időpontja 2021. február 6.
-[^122]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^122]: Az 52. §-t az 56/2021. (II. 9.) Korm. rendelet 2. §-a iktatta be.
+[^123]: A hatálybalépés időpontja 2021. február 10.
+[^124]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
