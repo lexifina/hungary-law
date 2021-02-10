@@ -1,6 +1,10 @@
-## A korlátozott légtér igénybevétele[^32]
+## A korlátozott légtér igénybevétele[^53]
 
-5/B. §[^33] (1) A magyar légtér légiközlekedés céljára történő kijelölésről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtér igénybevételére a légiközlekedési hatóság – a (7) bekezdés b) pont bf) alpontjában meghatározott eset kivételével – az Lt. 22. §-a szerinti engedéllyel rendelkező szervezetnek adhat engedélyt.
+5/B. §[^54] (1)[^55] A légiközlekedési hatóság engedélyezi az Együttes rendelet 3. mellékletében meghatározott, LH-R1 és LH-R1A korlátozott légterek igénybevételét a (7) bekezdés b) pont bf) alpontjában, valamint az Lt. 71. § 10. pont a)–d) és f)–h) alpontjában meghatározott tevékenység végzése céljából.
+
+(1a)[^56] Az Együttes rendelet 3. mellékletében meghatározott korlátozott légterek – ide nem értve az (1) bekezdésben meghatározott korlátozott légtereket, valamint az Együttes rendelet 3. mellékletében a polgári légijárművek számára korlátozott légtereket – pilóta nélküli légijárművek által a védett objektum zavartalan és biztonságos működésének biztosításáért felelős szervezet hozzájárulásával a légiközlekedési hatósághoz az UAS művelet végrehajtása előtt legalább három nappal tett előzetes bejelentés mellett vehetők igénybe.
+
+(1b)[^57] Az (1a) bekezdésben meghatározott bejelentéshez csatolni kell az (1a) bekezdésben meghatározott hozzájárulást.
 
 (2) A korlátozott légtér igénybevétele iránti kérelemnek tartalmaznia kell:
 
@@ -26,7 +30,7 @@ e) környezetvédelmi szempontból korlátozott légtér esetében az a)–d) po
 
 a) nem létesíthető repülőtér vagy leszállóhely, kivéve a mező- és erdőgazdasági légi munkavégzéshez szükséges „B” osztályú leszállóhelyet;
 
-b) nem végezhető hajtóművel felszerelt és a hajtóművét használó légijárművel, valamint hőlégballonnal történő repülés, kivéve a (4) bekezdésben meghatározott, előzetes engedélyhez nem kötött, továbbá a következő célból végzett engedélyezett repüléseket:
+b)[^58] nem végezhető hajtóművel felszerelt és a hajtóművét használó légijárművel – ideértve a pilóta nélküli légijárművet és a pilóta nélküli állami légijárművet is –, valamint hőlégballonnal történő repülés, kivéve a (4) bekezdésben meghatározott, előzetes engedélyhez nem kötött, továbbá a következő célból végzett engedélyezett repüléseket:
 
 ba) térképezés céljából történő repülés,
 
@@ -40,5 +44,9 @@ be) polgári célú légi felderítés és megfigyelés (például vezetékellen
 
 bf) egyéb, közérdekű célból – így különösen a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek hivatalos látogatása céljából – végzett repülés.
 
-[^32]: Az 5/B. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be.
-[^33]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^53]: Az 5/B. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be.
+[^54]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^55]: Az 5/B. § (1) bekezdése a 39/2021. (II. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^56]: Az 5/B. § (1a) bekezdését a 39/2021. (II. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^57]: Az 5/B. § (1b) bekezdését a 39/2021. (II. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^58]: Az 5. § (7) bekezdés b) pont nyitó szövegrésze a 39/2021. (II. 2.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.

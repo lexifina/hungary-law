@@ -1,4 +1,4 @@
-8/B. §[^46] (1)[^47] A 8/A. §-ban meghatározott, a légtér igénybevételének korlátozására irányuló kérelemnek tartalmaznia kell
+8/B. §[^71] (1)[^72] A 8/A. §-ban meghatározott, a légtér igénybevételének korlátozására irányuló kérelemnek tartalmaznia kell
 
 a) a korlátozás indokait,
 
@@ -10,7 +10,7 @@ d) a korlátozással érintett légtér magassági határait,
 
 e) a korlátozás alá eső légijárművek, repülések, tevékenységek vagy a korlátozás alól mentesülő légijárművek, repülések, tevékenységek leírását.
 
-(2)[^48] A légtér igénybevételének korlátozására vonatkozó eljárásban a kérelmet a légiközlekedési hatóság 8 napon belül bírálja el. Indokolt esetben a légiközlekedési hatóság vezetője ennél rövidebb ügyintézési határidőt is megállapíthat. A határozatnak az (1) bekezdésben meghatározott adatokat kell tartalmaznia.
+(2)[^73] A légtér igénybevételének korlátozására vonatkozó eljárásban a kérelmet a légiközlekedési hatóság 8 napon belül bírálja el. Indokolt esetben a légiközlekedési hatóság vezetője ennél rövidebb ügyintézési határidőt is megállapíthat. A határozatnak az (1) bekezdésben meghatározott adatokat kell tartalmaznia.
 
 (3) A légtér igénybevételének korlátozására irányuló eljárásban a légiközlekedési hatóság mérlegeli a légtér igénybevételének korlátozásának a repülés biztonságára és a légiforgalomra gyakorolt hatását.
 
@@ -20,6 +20,6 @@ e) a korlátozás alá eső légijárművek, repülések, tevékenységek vagy a
 
 (6) A légtér igénybevételi korlátozással érintett légtérben végrehajtott repülésekre azon légiforgalmi és repülési szabályokat, eljárásokat kell alkalmazni, amelyek a vele közös részt alkotó légiforgalmi légtérre vagy időszakosan korlátozott légtérre vonatkoznak.
 
-[^46]: A 8/B. §-t a 177/2011. (IX. 1.) Korm. rendelet 8. §-a iktatta be.
-[^47]: A 8/B. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^48]: A 8/B. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^71]: A 8/B. §-t a 177/2011. (IX. 1.) Korm. rendelet 8. §-a iktatta be.
+[^72]: A 8/B. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^73]: A 8/B. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
