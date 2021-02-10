@@ -704,7 +704,7 @@
 
 |  | 112. | Közös felhasználású repülőtér üzembentartási engedélyezésére irányuló eljárás. | A repülőtér polgári célú felhasználása tekintetében. | Minden esetben. | A légiközlekedési hatóság | - | - |
 
-|  | 113. | Eseti légtér kijelölésére irányuló elsőfokú eljárás. | Eseti légtér kijelölésének a polgári légiforgalom biztonságára gyakorolt hatásának, a légtérszerkezetben és a légiforgalmi szolgáltatást érintő változások kérdésében. | Minden esetben. | A légiközlekedési hatóság | - | - |
+|  | 113. | Eseti légtér kijelölésére irányuló elsőfokú eljárás. | Eseti légtér kijelölésének a polgári légiforgalom biztonságára gyakorolt hatásának, a légtérszerkezetben és a légiforgalmi szolgáltatást érintő változások kérdésében. | A magyar légtér igénybevételéről szóló kormányrendelet 5. § (11) bekezdésében meghatározott eljárások kivételével az eseti légtér kijelölésére irányuló eljárás esetén. | A légiközlekedési hatóság | - | - |
 
 |  | 114. | Telekalakítási eljárás | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú légiközlekedést, illetve a repülőtéri létesítmények működését. | Ha a telekalakítás meglévő állandó, ideiglenes működésű repülőtér területét érinti. | Közlekedésért felelős miniszter | - | - |
 
@@ -1212,4 +1212,4 @@
 
 [^6]: A 7. §-t a 363/2020. (VII. 23.) Korm. rendelet 7. §-a iktatta be.
 [^7]: A hatálybalépés időpontja 2020. július 24.
-[^8]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a, a 375/2020. (VII. 30.) Korm. rendelet 103. §-a, a 444/2020. (IX. 30.) Korm. rendelet 9. §-a, az 572/2020. (XII. 9.) Korm. rendelet 121. §-a, a 706/2020. (XII. 30.) Korm. rendelet 17. §-a, 668/2020. (XII. 28.) Korm. rendelet 50. § (2)–(3) bekezdése, a 677/2020. (XII. 28.) Korm. rendelet 51. § a)–c) pontja, a 700/2020. (XII. 29.) Korm. rendelet 28. §-a, a 716/2020. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg. [A 677/2020. (XII. 28.) Korm. rendelet 51. § d) pontjával elrendelt módosítás nem vezethető át.]
+[^8]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a, a 375/2020. (VII. 30.) Korm. rendelet 103. §-a, a 444/2020. (IX. 30.) Korm. rendelet 9. §-a, az 572/2020. (XII. 9.) Korm. rendelet 121. §-a, a 706/2020. (XII. 30.) Korm. rendelet 17. §-a, 668/2020. (XII. 28.) Korm. rendelet 50. § (2)–(3) bekezdése, a 677/2020. (XII. 28.) Korm. rendelet 51. § a)–c) pontja, a 700/2020. (XII. 29.) Korm. rendelet 28. §-a, a 716/2020. (XII. 30.) Korm. rendelet 4. §-a, a 39/2021. (II. 2.) Korm. rendelet 20. §-a szerint módosított szöveg. [A 677/2020. (XII. 28.) Korm. rendelet 51. § d) pontjával elrendelt módosítás nem vezethető át.]

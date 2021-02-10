@@ -100,7 +100,4 @@
 
 36. a Szegedi Olimpiai Központ fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 131/2017. (VI. 8.) Korm. rendelet szerinti beruházás.
 
-37.[^10] A Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet szerinti beruházások.
-
 [^9]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^10]: A 3. melléklet 37. pontját a 42/2018. (III. 13.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
