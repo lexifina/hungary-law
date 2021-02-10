@@ -182,6 +182,16 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 78.[^87] az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.
 
+79.[^88] ellátja az (EU) 2019/945 felhatalmazáson alapuló bizottsági rendeletben meghatározott bejelentő hatóságra, valamint piacfelügyeleti hatóságra vonatkozó feladatokat,
+
+80.[^89] ellátja az (EU) 2019/947 bizottsági végrehajtási rendelet 18. cikkében – ide nem értve annak c) pontját – meghatározott, az illetékes hatóságnak címzett feladatokat,
+
+81.[^90] közzéteszi a honlapján a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. melléklet 2. számú Korlátozott légterek táblázatban szereplő légtereket, valamint az adott légtérben pilóta nélküli légijárművekkel hozzájárulással végrehajtható műveletekhez hozzájárulást adni jogosult szervezet nevét, valamint a kapcsolattartást biztosító elérhetőségeit,
+
+82.[^91] jóváhagyja a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 8/D. §-ában meghatározott háromoldalú koordinációs együttműködési megállapodást,
+
+83.[^92] ellátja a távoli pilóták képzését végző képzőszervek felügyeletét.
+
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
 (6) Ha
@@ -208,3 +218,8 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 [^85]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
 [^86]: A 9. § (4) bekezdés 77. pontját a 722/2020. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
 [^87]: A 9. § (4) bekezdés 78. pontját a 9/2021. (I. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^88]: A 9. § (4) bekezdés 79. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^89]: A 9. § (4) bekezdés 80. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^90]: A 9. § (4) bekezdés 81. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^91]: A 9. § (4) bekezdés 82. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^92]: A 9. § (4) bekezdés 83. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.

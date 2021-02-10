@@ -1,6 +1,6 @@
 ## 10. A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése
 
-12. § (1)[^90] A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány
+12. § (1)[^95] A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány
 
 a) a 2. § (2) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest Főváros Kormányhivatalát,
 
@@ -18,10 +18,10 @@ d) 2. § (6) bekezdése hatálya alá tartozó közúti közlekedési építmén
 
 (4) Építésfelügyeleti hatóságként az országos közforgalmú kikötők, valamint a vám- és határkikötők továbbá a nemzetközi személy- vagy áruforgalmat lebonyolító vagy azokhoz kapcsolódó hajózási létesítmények tekintetében a miniszter jár el.
 
-(5)[^91] Építésfelügyeleti hatóságként a (4) bekezdés hatálya alá nem tartozó víziközlekedési építmények vonatkozásában Budapest Főváros Kormányhivatala jár el.
+(5)[^96] Építésfelügyeleti hatóságként a (4) bekezdés hatálya alá nem tartozó víziközlekedési építmények vonatkozásában Budapest Főváros Kormányhivatala jár el.
 
-(6)[^92]
+(6)[^97]
 
-[^90]: A 12. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (10) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^91]: A 12. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^92]: A 12. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés h) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^95]: A 12. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (10) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^96]: A 12. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^97]: A 12. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés h) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

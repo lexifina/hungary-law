@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2020-12-15 | 2016-382-20-22.31 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2016-382-20-22.32 | 722/2020. (XII. 31.) Korm. rendelet |
 | 2021-01-23 | 2016-382-20-22.33 | 9/2021. (I. 18.) Korm. rendelet |
+| 2021-02-10 | 2016-382-20-22.34 | 39/2021. (II. 2.) Korm. rendelet |
