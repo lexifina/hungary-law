@@ -4,33 +4,34 @@
 
 (2) Azon továbbképzésre kötelezett esetében, aki több szakképesítésének megfelelő szakmát önállóan gyakorol, az általa teljesített kötelező szintentartó továbbképzés pontértéke valamennyi olyan szakképesítése tekintetében elismerésre kerül, amely a teljesített továbbképzés célcsoportjában szerepel.
 
-(3) A kötelező szintentartó továbbképzést a (7) bekezdés alapján meghatározott témakörök alapján
+(3)[^3] A kötelező szintentartó továbbképzést a (7) bekezdés alapján meghatározott témakörök alapján a felnőttképzésről szóló törvény szerinti bejelentés alapján felnőttképzési tevékenységet folytató
 
-a) az egészségügyi felsőoktatási intézmények (a továbbiakban: felsőoktatási intézmény) és
+a) egészségügyi felsőoktatási intézmények (a továbbiakban: felsőoktatási intézmény) és
 
 b) az adott szakma szerinti országos szakmai intézmények
 
-szervezik és bonyolítják le.
+## szervezik és bonyolítják le.
 
-(4)[^3] A (3) bekezdés szerinti intézmények egymással együttműködve biztosítják, hogy valamennyi szakképesítés tekintetében legalább évente egy kötelező szintentartó tanfolyam meghirdetésre kerüljön.
+(4)[^4] A (3) bekezdés szerinti intézmények egymással együttműködve biztosítják, hogy valamennyi szakképesítés tekintetében legalább évente egy kötelező szintentartó tanfolyam meghirdetésre kerüljön.
 
-(5)[^4] A kötelező szintentartó továbbképzés legalább 25 óra időtartamú, írásbeli tudásszint felmérő teszttel zárul és minden esetben magába foglalja a reanimációra vonatkozó továbbképzési elemet. A tanfolyam pontértéke akkor ismerhető el kötelező szintentartó tanfolyamként, ha a továbbképzésre kötelezett a tanfolyam időtartamának legalább 75%-án igazoltan részt vett, és a tudásszintfelmérő tesztet sikeresen teljesítette.
+(5)[^5] A kötelező szintentartó továbbképzés legalább 25 óra időtartamú, írásbeli tudásszint felmérő teszttel zárul és minden esetben magába foglalja a reanimációra vonatkozó továbbképzési elemet. A tanfolyam pontértéke akkor ismerhető el kötelező szintentartó tanfolyamként, ha a továbbképzésre kötelezett a tanfolyam időtartamának legalább 75%-án igazoltan részt vett, és a tudásszintfelmérő tesztet sikeresen teljesítette.
 
-(5a)[^5] Amennyiben a részvétel a tanfolyam időtartamának 75%-át nem éri el, a tanfolyam pontértéke szabadon választható elméleti továbbképzésként a tanfolyamon való részvételi idő arányában kerül elszámolásra.
+(5a)[^6] Amennyiben a részvétel a tanfolyam időtartamának 75%-át nem éri el, a tanfolyam pontértéke szabadon választható elméleti továbbképzésként a tanfolyamon való részvételi idő arányában kerül elszámolásra.
 
-(5b)[^6] Amennyiben a továbbképzésre kötelezett a tudásszintfelmérő tesztet nem teljesítette sikeresen, a tanfolyam pontértéke szabadon választható elméleti továbbképzésként kerül elszámolásra.
+(5b)[^7] Amennyiben a továbbképzésre kötelezett a tudásszintfelmérő tesztet nem teljesítette sikeresen, a tanfolyam pontértéke szabadon választható elméleti továbbképzésként kerül elszámolásra.
 
 (6) A kötelező szintentartó továbbképzés szervezője a továbbképzés szervezésével és lebonyolításával összefüggésben anyagi támogatást gyógyszert vagy gyógyászati segédeszközt gyártó, illetve forgalmazó gazdálkodó szervezettől nem fogadhat el. A kötelező szintentartó továbbképzés reklám vagy üzleti érdeket szolgáló programelemet nem tartalmazhat.
 
 (7) Az egészségügyért felelős miniszter a (3) bekezdés szerinti intézmények javaslatára legalább ötévenként meghatározza a kötelező szintentartó továbbképzések kiemelt témaköreit, és azt az általa vezetett minisztérium honlapján közzéteszi.
 
-(8)[^7] A továbbképzésre kötelezettnek a továbbképzési időszak alatt egy kötelező szintentartó továbbképzésen történő részvétel térítésmentes, amelyre vonatkozó költségvetési támogatás a (3) bekezdés szerinti intézmény számára utólag kerül biztosításra.
+(8)[^8] A továbbképzésre kötelezettnek a továbbképzési időszak alatt egy kötelező szintentartó továbbképzésen történő részvétel térítésmentes, amelyre vonatkozó költségvetési támogatás a (3) bekezdés szerinti intézmény számára utólag kerül biztosításra.
 
-(9)[^8] Az (5a) és (5b) bekezdés szerinti esetben a továbbképzésre kötelezett a továbbképzés részvételi díjának utólagos befizetését követően jelentkezhet be ismételten a (8) bekezdés alapján térítésmentes kötelező szintentartó továbbképzésre.
+(9)[^9] Az (5a) és (5b) bekezdés szerinti esetben a továbbképzésre kötelezett a továbbképzés részvételi díjának utólagos befizetését követően jelentkezhet be ismételten a (8) bekezdés alapján térítésmentes kötelező szintentartó továbbképzésre.
 
-[^3]: A 3. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (5a) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (2) bekezdése iktatta be.
-[^6]: A 3. § (5b) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (2) bekezdése iktatta be.
-[^7]: A 3. § (8) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (3) bekezdésével megállapított szöveg.
-[^8]: A 3. § (9) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (3) bekezdése iktatta be.
+[^3]: A 3. § (3) bekezdése a 6/2021. (II. 9.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^4]: A 3. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (5a) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (2) bekezdése iktatta be.
+[^7]: A 3. § (5b) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (2) bekezdése iktatta be.
+[^8]: A 3. § (8) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (3) bekezdésével megállapított szöveg.
+[^9]: A 3. § (9) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (3) bekezdése iktatta be.

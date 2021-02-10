@@ -4,15 +4,15 @@
 
 (2) A 3. § (8) bekezdésében foglaltak a 2012. január 1-jét követően lefolytatott továbbképzésekre alkalmazhatók.
 
-(3)[^27]
+(3)[^30]
 
-(4)[^28]
+(4)[^31]
 
-(5)[^29]
+(5)[^32]
 
-(6)[^30] Az a továbbképzésre kötelezett, aki a nyilvántartási adatait a nyilvántartást vezető szerv által biztosított elektronikus felületen 2014. július 31-éig aktualizálja, 20 szabadon választható elméleti továbbképzési pontra jogosult azzal, hogy az adatok aktualizálásával egy továbbképzési időszakban szakképesítésenként legfeljebb 30 pont szerezhető.
+(6)[^33] Az a továbbképzésre kötelezett, aki a nyilvántartási adatait a nyilvántartást vezető szerv által biztosított elektronikus felületen 2014. július 31-éig aktualizálja, 20 szabadon választható elméleti továbbképzési pontra jogosult azzal, hogy az adatok aktualizálásával egy továbbképzési időszakban szakképesítésenként legfeljebb 30 pont szerezhető.
 
-[^27]: A 15. § (3) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 3. §-a hatályon kívül helyezte.
-[^28]: A 15. § (4) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 3. §-a hatályon kívül helyezte.
-[^29]: A 15. § (5) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 3. §-a hatályon kívül helyezte.
-[^30]: A 15. § (6) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 7. §-a iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 22. §-a szerint módosított szöveg.
+[^30]: A 15. § (3) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 3. §-a hatályon kívül helyezte.
+[^31]: A 15. § (4) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 3. §-a hatályon kívül helyezte.
+[^32]: A 15. § (5) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 3. §-a hatályon kívül helyezte.
+[^33]: A 15. § (6) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 7. §-a iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 22. §-a szerint módosított szöveg.
