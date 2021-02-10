@@ -1246,6 +1246,6 @@
 
 ## –
 
-4. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^31]
+4. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^32]
 
-[^31]: A 4. melléklet a 28/2018. (VIII. 29.) EMMI rendelet 10. § d) pontja és 12. § d) pontja szerint módosított szöveg.
+[^32]: A 4. melléklet a 28/2018. (VIII. 29.) EMMI rendelet 10. § d) pontja és 12. § d) pontja szerint módosított szöveg.
