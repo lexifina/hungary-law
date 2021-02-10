@@ -34,6 +34,10 @@
 
 | 14. | EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság | 01-09-341681 | 2022. december 31. |
 
+| 15. | Büki Gyógyfürdő Zártkörűen Működő Részvénytársaság | 18-10-100542 | 2022. december 31. |
+
+| 16. | Pápai Termálvízhasznosító Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság | 19-10-500232 | 2022. december 31. |
+
 ## II.
 
 ## III. Tulajdonosi joggyakorló: a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság
