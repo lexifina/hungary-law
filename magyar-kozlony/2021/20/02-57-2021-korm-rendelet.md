@@ -1,0 +1,74 @@
+# A Kormány 57/2021. (II. 10.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 20. szám, 2021. február 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/P2hPHujNbWqqxHIP0hzX6019bb2048692/dokumentumok/8337443ebf4c501dd4c34cbf9cda35cc0a8323e5/letoltes)
+
+---
+
+A Kormány 57/2021. (II. 10.) Korm. rendelete
+a veszélyhelyzet idején biztosított arcképes azonosítást lehetővé tevő videotechnológián alapuló
+telemedicináról
+A Kormány az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel
+a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára, az
+Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+E rendelet alkalmazásában
+1. beteg: az egészségügyről szóló 1997. évi CLIV. törvény 3. § a) pontja szerinti beteg;
+2. egészségügyi szolgáltató: az egészségügyről szóló 1997. évi CLIV. törvény 3. § f) pontja szerinti egészségügyi
+szolgáltató.
+2. § (1) Az egészségügyi szolgáltató az egészségügyért felelős miniszter által meghatározott telemedicina útján
+nyújtott egészségügyi szolgáltatásokat (a továbbiakban: telemedicina szolgáltatás) – ha az ellátás sajátosságai
+és orvosszakmai megítélése az arcképes azonosítást indokolttá teszik – arcképes azonosítást biztosító, videojel
+és hang továbbítására alkalmas infokommunikációs eszköz (a továbbiakban: arcképes azonosítást biztosító
+videotechnológia) útján is nyújthatja.
+(2) Az egészségügyért felelős miniszter rendeletében előírhatja, hogy egyes telemedicina szolgáltatások esetében
+kötelező az arcképes azonosítást biztosító videotechnológia használata.
+(3) Az egészségügyi szolgáltató abban az esetben ajánlja fel a beteg számára az arcképes azonosítást biztosító
+videotechnológia útján történő telemedicina szolgáltatást, ha a betegadatok védelme, a beteg egyes tüneteinek
+vizsgálata vagy az ellátás jellege miatt egyéb telemedicina szolgáltatás útján az ellátás nem lenne kivitelezhető.
+(4) Az egészségügyi szolgáltató egyes, egészségügyi dolgozó jelenlétét igénylő ellátásokat úgy is biztosíthat
+telemedicina szolgáltatás útján, hogy
+a) az orvosi, fogorvosi, szakorvosi, szakfogorvosi végzettséget igénylő egészségügyi ellátás esetében az orvos,
+fogorvos, szakorvos a beteggel arcképes azonosítást biztosító videotechnológia útján tartja a kapcsolatot, és
+b) az ellátásban egészségügyi dolgozó személyesen közreműködik.
+(5) A (4) bekezdés szerinti telemedicina szolgáltatás esetében a (4) bekezdés b) pontja szerinti egészségügyi dolgozót
+az egészségügyi szolgáltató képviselőjének kell tekinteni.
+3. § (1) Arcképes azonosítást biztosító videotechnológia használata esetén a videojel segítségével az informatikai
+rendszer a beteg személyazonosság igazolására alkalmas hatósági igazolványából (a továbbiakban: okmány)
+kiolvasott természetes személyazonosító adatokat, és az okmányszámot összeveti az okmányt nyilvántartó
+központi nyilvántartásban szereplő természetes személyazonosító adatokkal, ellenőrzi az okmány érvényességét,
+valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény
+(a továbbiakban: Arcképtörvény) 9/B. alcíme szerinti automatizált összehasonlítás igénybevételével az ügyfélről
+videojel útján készült arckép és a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság
+ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásának az egymással történő
+megfeleltethetőségét. A nyilvántartásban szereplő adatok egyezősége, az okmány érvényessége, valamint
+az egyezőség feltételeként meghatározott értékszám elérése esetén az azonosítás sikeres.
+(2) Az Arcképtörvény 3. § (3) bekezdésétől eltérően az arckép profil nyilvántartás arcképes azonosítást biztosító
+videotechnológia céljából is használható.
+(3) Az (1) bekezdés szerinti azonosítást követően a 4. § (2) bekezdése szerinti szerv automatikus információátadás útján
+– szükség esetén az összerendelési nyilvántartás szolgáltatás bevonásával – a személyiadat- és
+lakcímnyilvántartásból a beteg természetes személyazonosító adatait és lakcímét, valamint az összerendelési
+nyilvántartás útján a társadalombiztosítási azonosító jelet átveszi, és azokat az egészségügyi szolgáltató részére
+átadja.
+
+(4) Ha az (1) bekezdés szerinti azonosítás sikertelen, arcképes azonosítást biztosító videotechnológia útján végzett
+telemedicina szolgáltatásnak nincs helye.
+(5) A (4) bekezdés szerinti esetben az egészségügyi szolgáltató az ellátást személyes jelenlét útján vagy egyéb
+telemedicina szolgáltatás útján biztosítja azzal, hogy egyéb telemedicina szolgáltatás a 2. § (3) bekezdése szerinti
+feltételek fennállása esetében csak a 2. § (4) bekezdése szerinti módon, mellett végezhető azzal, hogy az e rendelet
+szerinti arcképes azonosítás elhagyható.
+4. § (1) Az arcképes azonosítást biztosító videotechnológiához szükséges informatikai rendszert – az azonosítási rendszer
+tekintetében az e-közigazgatásért felelős miniszter (a továbbiakban: miniszter) bevonásával – az Elektronikus
+Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője teszi elérhetővé térítésmentesen az EESZT-hez
+csatlakozott egészségügyi szolgáltatók részére.
+(2) A miniszter a beteg természetes személyazonosító adatait, lakcímét, arcképmását, az okmány adatait, valamint
+a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi
+XX. törvény 10/A. § (4) bekezdése szerinti titkosított összerendelési kapcsolati kódot az azonosítás és az adatátadás
+idejéig kezeli, azokat az okmányt nyilvántartó központi nyilvántartásból átveheti, valamint jogosult az okmányról
+készült másolatot készíteni és azt az azonosítás és az adatátadás idejéig kezelni.
+(3) Az EESZT működtetője az (1) bekezdésben foglalt feladatai érdekében térítésmentesen jogosult a feladatellátáshoz
+szükséges szabályozott elektronikus ügyintézési szolgáltatások és központi elektronikus ügyintézési szolgáltatások
+használatára.
+5. §
+Ez a rendelet 2021. február 15-én lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
