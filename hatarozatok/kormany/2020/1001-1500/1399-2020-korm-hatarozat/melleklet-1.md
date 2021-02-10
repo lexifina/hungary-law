@@ -26,11 +26,11 @@
 
 ## Határidő: azonnal
 
-## 6. egyetért azzal, hogy a DORNA SPORTS, S.L.-t MotoGP versenysorozattal kapcsolatos kizárólagos jogaira tekintettel lefolytatott eljárás eredményeként a Társaság a MotoGP hazai megrendezésére vonatkozó megállapodást írjon alá a DORNA SPORTS, S.L.-lel, azzal, hogy a MotoGP hazai megrendezésére vonatkozó megállapodás szerinti díj összege 2023-ban 9 450 000 euró, az ezt követő években pedig az előző éves jogdíj összegének öt százalékkal növelt összege;
+## 6.[^1] egyetért azzal, hogy a Társaság a DORNA SPORTS, S.L.-lel mint a MotoGP versenysorozat megrendezésével kapcsolatos kizárólagos jogok tulajdonosával lefolytatott tárgyalás eredményeként a MotoGP hazai megrendezésére vonatkozó megállapodást írjon alá a 10 éves, legkorábban 2023-tól kezdődő időtartamra, azzal, hogy a MotoGP hazai megrendezésére vonatkozó megállapodás szerinti díj nettó összege 2023-ban legfeljebb 9 000 000 euró, az ezt követő években pedig az előző éves jogdíj összegének legfeljebb öt százalékkal növelt összege;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2020. július 31.
+## Határidő: 2021. február 28.
 
 ## 7. felhívja az innovációért és technológiáért felelős minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a MotoGP magyarországi megrendezéséről szóló, a 6. pontban foglalt szerződés szerint a Társaságot terhelő díjjal egyező költségvetési támogatásnak a XVII. Innovációs és Technológiai Minisztérium fejezetbe való betervezéséről a 2023–2027 közötti évekre folyamatosan, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény rendelkezéseire is figyelemmel;
 
@@ -44,9 +44,9 @@
 
 ## a) a fejlesztés előkészítése és megvalósítása során az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése és az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 17. §-a alapján felmentést ad a Korm. rendelet szerinti eljárásrend alkalmazása alól,
 
-## b) a fejlesztés előkészítésére és az ahhoz kapcsolódó közbeszerzési feladatok ellátására – a c) alpont szerinti előkészítési fázisok kivételével – a Társaságot jelöli ki azzal, hogy a teljes előkészítés befejezésének határideje 2020. december 31.,
+## b)[^2] a fejlesztés előkészítésére és az ahhoz kapcsolódó közbeszerzési feladatok ellátására – a c) alpont szerinti előkészítési fázisok kivételével – a Társaságot jelöli ki azzal, hogy a teljes előkészítés befejezésének határideje 2021. december 31.,
 
-## c) egyetért a Korm. rendelet 4. § a) és k) pontja szerinti előkészítési fázisainak az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: IFKA Kft.) útján történő teljesítésével, azzal, hogy az IFKA Kft. a megvalósíthatósági tanulmányt teljes körű felhasználási joggal a Társaság rendelkezésére bocsátja,
+## c)[^3] egyetért a Korm. rendelet 4. § a) pontja szerinti előkészítési fázisainak az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: IFKA Kft.) útján történő teljesítésével, azzal, hogy az IFKA Kft. a megvalósíthatósági tanulmányt teljes körű felhasználási joggal a Társaság rendelkezésére bocsátja,
 
 ## d) a fejlesztés megvalósítására és az ahhoz kapcsolódó közbeszerzési feladatok ellátására az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdésében foglalt jogkörében eljárva a Társaságot jelöli ki,
 
@@ -60,7 +60,7 @@
 
 ## Határidő: 2021. március 31.
 
-## 11.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter és a Társaság bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti beruházás megvalósításához szükséges ingatlanok független értékbecslés szerinti értéken történő megszerzéséről és annak beruházásra alkalmas területté nyilvánításáról legfeljebb 800 000 000 forint összeghatáron belül, továbbá a Társaság részére tulajdonosi joggyakorlásra történő átadásáról.
+## 11.[^4] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter és a Társaság bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti beruházás megvalósításához szükséges ingatlanok független értékbecslés szerinti értéken történő megszerzéséről és annak beruházásra alkalmas területté nyilvánításáról legfeljebb 800 000 000 forint összeghatáron belül, továbbá a Társaság részére tulajdonosi joggyakorlásra történő átadásáról.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -138,4 +138,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 11. pontot az 1690/2020. (X. 23.) Korm. határozat 2. pontja iktatta be.
+[^1]: A 6. pont az 1047/2021. (II. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 8. pont b) alpontja az 1047/2021. (II. 10.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^3]: A 8. pont c) alpontja az 1047/2021. (II. 10.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^4]: A 11. pontot az 1690/2020. (X. 23.) Korm. határozat 2. pontja iktatta be.
