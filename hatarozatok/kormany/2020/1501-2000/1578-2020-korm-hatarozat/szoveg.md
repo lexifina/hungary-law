@@ -32,7 +32,7 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2020. november 30.
 
-6. felhívja a pénzügyminisztert, hogy – a külgazdasági és külügyminiszter bevonásával – gondoskodjon az ideiglenes elhelyezés költségeinek a 2020. évben a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím javára, a 2021. évben a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím javára történő biztosításáról, az alábbiak szerint:
+6.[^1] felhívja a pénzügyminisztert, hogy – a külgazdasági és külügyminiszter bevonásával – gondoskodjon az ideiglenes elhelyezés költségeinek a 2020. évben a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím javára, a 2021. évben a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet javára történő biztosításáról, az alábbiak szerint:
 
 a) a 2020. évben 51 827 000 forint,
 
@@ -69,3 +69,5 @@ Felelős: külgazdasági és külügyminiszter
 innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
+
+[^1]: A 6. pont az 1045/2021. (II. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
