@@ -1,6 +1,6 @@
 ## 94. § A légiközlekedési hatóság, az általa lefolytatott sikeres elméleti vizsgáról tanúsítványt állít ki, amely a vizsga dátumától számított 2 évig érvényes.
 
-94/A. §[^43] (1) A légiközlekedési hatóság a vizsgáztatói tanúsítást felfüggeszti, ha
+94/A. §[^44] (1) A légiközlekedési hatóság a vizsgáztatói tanúsítást felfüggeszti, ha
 
 a) az engedélyes akadályozza a légiközlekedési hatóságnak a vizsgáztatói tevékenység ellenőrzésével kapcsolatos eljárását, az ellenőrzés lehetővé tételéig,
 
@@ -14,4 +14,4 @@ c) az engedélyes a polgári légiközlekedési személyzet egészségügyi alka
 
 (4) A vizsgáztatói tanúsítás engedélyese a felfüggesztett tanúsításához kapcsolódó jogosultságokat a felfüggesztés hatálya alatt nem gyakorolhatja.
 
-[^43]: A 94/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (6) bekezdése iktatta be.
+[^44]: A 94/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (6) bekezdése iktatta be.

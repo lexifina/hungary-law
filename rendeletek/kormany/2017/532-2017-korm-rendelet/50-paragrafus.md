@@ -1,4 +1,4 @@
-## 49. § A légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló 29/2011. (VI. 15.) NFM rendelet alapján kiszabott bírság összegét, a bírság kiszabásáról rendelkező határozat kézhezvételétől számított 15 napon belül a határozatot hozó hatóság részére kell megfizetni, a bírságot kiszabó hatóság Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlájára. A közlemény rovatban a bírsághatározat számát fel kell tüntetni.
+## 49. §[^39] A légiközlekedési hatóság által kiszabott bírság összegét, a bírság kiszabásáról rendelkező határozat kézhezvételétől számított 15 napon belül a határozatot hozó hatóság részére kell megfizetni, a bírságot kiszabó hatóság által a határozatban megjelölt, Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlára vagy a központosított beszedési számlára. A közlemény rovatban a bírsághatározat számát fel kell tüntetni.
 
 ## VI. Fejezet
 
@@ -11,3 +11,5 @@
 (2) A repüléstájékoztató szakszolgálati engedélybe bejegyzett munkahelyi kiterjesztés, nyelvi kiterjesztés, szakszolgálati kiterjesztés, valamint a légiforgalmi tiszt szakszolgálati engedélybe bejegyzett jogosítás meghosszabbítása esetén az újabb érvényességi időtartam kezdőnapja a még érvényes jogosítás vagy kiterjesztés lejárati napja.
 
 (3) A repüléstájékoztató szakszolgálati engedélybe bejegyzett munkahelyi kiterjesztés, nyelvi kiterjesztés, szakszolgálati kiterjesztés, és a légiforgalmi tiszt szakszolgálati engedélybe bejegyzett jogosítás megújítása esetén az újabb érvényességi időtartam kezdőnapja a megújítás kiadásának napja.
+
+[^39]: A 49. § a 39/2021. (II. 2.) Korm. rendelet 21. §-ával megállapított szöveg.
