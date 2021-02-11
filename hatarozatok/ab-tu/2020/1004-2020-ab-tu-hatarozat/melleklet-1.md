@@ -88,7 +88,7 @@
 
 ## 5.2. A főtitkár megbízatása az Abtv. 22. § (2)–(3) bekezdése alapján áll fenn. A gazdasági főigazgató jogviszonya az Abtv. 22. § (7) bekezdése alapján áll fenn. A főtitkár és a gazdasági főigazgató vezetői álláshelyet töltenek be. A vezetői álláshelyet betöltő feladata az Alkotmánybíróság feladat- és hatáskörébe, illetve az Alkotmánybíróság Hivatalának feladatkörébe tartozó ügyek érdemi elintézése és a kiadmányozás. A vezetői álláshelyet betöltő az álláshelyen ellátandó feladatait – az elnöktől kapott utasítás és határidő figyelembevételével – a jogszabályoknak, a szakmai előírásoknak és az ügyviteli szabályoknak megfelelően önállóan látja el.
 
-## 5.3. Az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselők jogviszonya a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) alapján áll fenn. A köztisztviselők feladata az Alkotmánybíróság feladat- és hatáskörébe, illetve az Alkotmánybíróság Hivatalának feladatkörébe tartozó ügyek érdemi döntésre való előkészítése, erre vonatkozó felhatalmazás esetén a kiadmányozás. A köztisztviselő az álláshelyén ellátandó, illetőleg a felettese által meghatározott feladatokat – a felettesétől kapott utasítás és határidő figyelembevételével – a jogszabályoknak, a szakmai előírásoknak és az ügyviteli szabályoknak megfelelően, önállóan látja el. Köztisztviselői álláshelyek az alkotmánybírói törzskarok, a főtitkárság és az elnöki kabinet jogász munkatársi, a titkárságvezetői, valamint a főtitkárság és a gazdasági főosztály további munkatársi álláshelyei, ide nem értve a szakmunkás, a garázsmesteri, a gépkocsivezetői és az egyéb fizikai alkalmazotti álláshelyeket.
+## 5.3.[^1] Az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselők jogviszonya a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) alapján áll fenn. A köztisztviselők feladata az Alkotmánybíróság feladat- és hatáskörébe, illetve az Alkotmánybíróság Hivatalának feladatkörébe tartozó ügyek érdemi döntésre való előkészítése, erre vonatkozó felhatalmazás esetén a kiadmányozás. A köztisztviselő az álláshelyén ellátandó, illetve a felettese által meghatározott feladatokat – a felettesétől kapott utasítás és határidő figyelembevételével – a jogszabályoknak, a szakmai előírásoknak és az ügyviteli szabályoknak megfelelően, önállóan látja el. Köztisztviselői álláshelyek az alkotmánybírói törzskarok, a főtitkárság és az elnöki kabinet jogász munkatársi, a titkárságvezetői, valamint a főtitkárság és a gazdasági főosztály további munkatársi álláshelyei, ide nem értve a szakmunkás, a garázsmesteri, a gépkocsivezetői és az egyéb fizikai alkalmazotti álláshelyeket. Az általános öregségi nyugdíjkorhatárt elérő foglalkoztatottak munkavállalóként is betölthetnek köztisztviselői álláshelyeket, ha a Küt. 101. § (2)–(3) bekezdése erre lehetőséget ad.
 
 ## 5.4. A jogász álláshelyen foglalkoztatott köztisztviselők előmenetele
 
@@ -241,6 +241,8 @@
 ## e) a beérkezett indítványok figyelemmel kísérése, elemzések készítése, kutatómunka végzése;
 
 ## f) az elnök igénye szerint szakmai anyagok készítése a nemzetközi megbeszélésekhez, egyeztetésekhez és az elnök által meghatározott egyéb szakmai és operatív feladatok elvégzése.
+
+## g)[^2] az európai alkotmánybíróságok együttműködésével és a határozataik feldolgozásával kapcsolatos feladatok ellátása, ideértve különösen a határozatok figyelemmel követését, angol nyelvű fordítások és összefoglalók készítését, valamint az ezeket tartalmazó adatbázis építését és gondozását.
 
 ## 8.7. A kommunikációs vezetői álláshelyen ellátandó feladatokat az elnök állapítja meg.
 
@@ -744,10 +746,12 @@
 
 ## c) az SZMSZ-2012. 5.7. pontja alapján adományozott szakmai tanácsadói, szakmai főtanácsadói, valamint az SZMSZ-2012. 5.9. pontja alapján adományozott címzetes vezetőtanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, címzetes főmunkatársi címek megszűnnek. Az ilyen címekkel rendelkező köztisztviselők esetében a Küt. 105. § (15) bekezdésének a végrehajtása során ezeknek a címeknek, illetve az azokkal járó juttatásoknak a figyelembevételével kell eljárni.
 
-## 20.2.[^1] Ez a határozat 2020. május 1-jén lép hatályba.
+## 20.2.[^3] Ez a határozat 2020. május 1-jén lép hatályba.
 
 ## 20.3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 1. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz
 
-[^1]: A 20.2. pont a 2010: CXXX. törvény 12. § (2) bekezdése szerint módosított szöveg.
+[^1]: Az 5.3. pont az 1002/2021. (II. 10.) AB Tü. határozat 2. pontjával megállapított szöveg.
+[^2]: A 8.6. pont g) alpontját az 1002/2021. (II. 10.) AB Tü. határozat 1. pontja iktatta be.
+[^3]: A 20.2. pont a 2010: CXXX. törvény 12. § (2) bekezdése szerint módosított szöveg.
