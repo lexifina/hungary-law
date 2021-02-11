@@ -50,20 +50,9 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. február 28.
 
-2. A MotoGP Határozat 6. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„6. egyetért azzal, hogy a Társaság a DORNA SPORTS, S.L.-lel mint a MotoGP versenysorozat megrendezésével kapcsolatos kizárólagos jogok tulajdonosával lefolytatott tárgyalás eredményeként a MotoGP hazai megrendezésére vonatkozó megállapodást írjon alá a 10 éves, legkorábban 2023-tól kezdődő időtartamra, azzal, hogy a MotoGP hazai megrendezésére vonatkozó megállapodás szerinti díj nettó összege 2023-ban legfeljebb 9 000 000 euró, az ezt követő években pedig az előző éves jogdíj összegének legfeljebb öt százalékkal növelt összege;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2021. február 28.”
-
-3. A MotoGP Határozat
-
-a) 8. pont b) alpontjában a „2020. december 31.” szövegrész helyébe a „2021. december 31.” szöveg,
-
-b) 8. pont c) alpontjában a „4. § a) és k) pontja” szövegrész helyébe a „4. § a) pontja” szöveg
-
-lép.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
