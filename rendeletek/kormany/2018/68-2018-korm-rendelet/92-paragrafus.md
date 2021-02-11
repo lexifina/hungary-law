@@ -4,17 +4,17 @@
 
 92. § (1) A hatóság nem hatósági örökségvédelmi feladatai:
 
-a)[^198] a műemlék fenntartható, integrált szemléletű, a védelmet és fejlesztést összehangoló megőrzésének – hatósági szolgáltatás keretében történő – elősegítése,
+a)[^200] a műemlék fenntartható, integrált szemléletű, a védelmet és fejlesztést összehangoló megőrzésének – hatósági szolgáltatás keretében történő – elősegítése,
 
 b) az örökségvédelem érdekeit érintő helyi szintű szakmai és társadalmi együttműködés elősegítése,
 
-c)[^199] előzetes tervegyeztetési lehetőség biztosítása,
+c)[^201] előzetes tervegyeztetési lehetőség biztosítása,
 
-d)[^200] a nyilvántartást vezető hatóság megkeresésére a műemlékké nyilvánítás vagy a műemléki védelem törlésére irányuló kezdeményezések vizsgálata és véleményezése.
+d)[^202] a nyilvántartást vezető hatóság megkeresésére a műemlékké nyilvánítás vagy a műemléki védelem törlésére irányuló kezdeményezések vizsgálata és véleményezése.
 
 (2) A hatóság örökségvédelmi szolgáltatás keretében
 
-a)[^201]
+a)[^203]
 
 b) az (1) bekezdés a) pontjában meghatározott céllal – a nyilvántartást vezető hatósággal együttműködve – segíti a tulajdonosokat az alábbiak tekintetében:
 
@@ -34,7 +34,7 @@ cb) a tervezett tevékenységek megvalósításához szükséges örökségvéde
 
 (3) A hatóságot az előzetes tájékoztatása azokban a kérdésekben, amelyekről tájékoztatást adott, mindaddig köti, amíg a vonatkozó jogszabályi rendelkezés vagy a nyilatkozat iránti kérelemben meghatározott tevékenység érdemben nem változik meg.
 
-[^198]: A 92. (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
-[^199]: A 92. § c) pontját a 677/2020. (XII. 28.) Korm. rendelet 77. §-a iktatta be.
-[^200]: A 92. § d) pontját a 677/2020. (XII. 28.) Korm. rendelet 77. §-a iktatta be.
-[^201]: A 92. § (2) bekezdés a) pontját a 677/2020. (XII. 28.) Korm. rendelet 84. § 28. pontja hatályon kívül helyezte.
+[^200]: A 92. (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^201]: A 92. § c) pontját a 677/2020. (XII. 28.) Korm. rendelet 77. §-a iktatta be.
+[^202]: A 92. § d) pontját a 677/2020. (XII. 28.) Korm. rendelet 77. §-a iktatta be.
+[^203]: A 92. § (2) bekezdés a) pontját a 677/2020. (XII. 28.) Korm. rendelet 84. § 28. pontja hatályon kívül helyezte.

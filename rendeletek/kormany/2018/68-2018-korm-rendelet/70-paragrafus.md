@@ -1,4 +1,4 @@
-## 28.[^130] Bejelentés és tudomásulvétel műemlék esetén
+## 28.[^132] Bejelentés és tudomásulvétel műemlék esetén
 
 70. § (1) A hatóság a bejelentést – az ÉTDR-ben való érkeztetését követő első munkanaptól számított tíz napon belül – jogszerű hallgatással – a (4) bekezdésben meghatározott esetek kivételével – tudomásul veszi és a tudomásulvétel tényét hatósági bizonyítvánnyal igazolja, ha a tulajdonos vagy meghatalmazottja a bejelentésben kéri a tevékenység tudomásulvételének írásba foglalását.
 
@@ -10,7 +10,7 @@
 
 a) szakszerűtlen, vagy
 
-b)[^131] az érintett műemléki érték
+b)[^133] az érintett műemléki érték
 
 ba) épségének vagy jelentőségének veszélyeztetésével jár,
 
@@ -20,7 +20,7 @@ bc) helyreállíthatatlan sérülésével fenyeget, vagy
 
 bd) méltó használatát nem szolgálja, illetve
 
-c)[^132] műemlék érvényesülését és megjelenését gátolja,
+c)[^134] műemlék érvényesülését és megjelenését gátolja,
 
 d) műemléki jelentőségű terület, műemléki környezet, műemlék történeti táj esetén a jogszabályban meghatározott követelményeket nem teljesíti, vagy
 
@@ -28,6 +28,6 @@ e) jellege vagy célja a bejelentés tartalmából nem ítélhető meg.
 
 (5) Ha a bejelentés nem felel meg az e jogszabályban meghatározott tartalmi követelményeknek, vagy az eljárási illetéket nem fizették meg, és a tulajdonos nem részesült költségmentességben, a bejelentés vagy a melléklete hiányainak megjelölése mellett a hatóság öt napon belül tájékoztatja arról, hogy a bejelentés nem megfelelő és figyelmezteti a tulajdonost vagy meghatalmazottját a tevékenység bejelentés, illetve tudomásulvétel nélküli elvégzésének jogkövetkezményeire.
 
-[^130]: A 28. alcím címe a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
-[^131]: A 70. § (4) bekezdés b) pont nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
-[^132]: A 70. § (4) bekezdése c) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 15. pontja szerint módosított szöveg.
+[^132]: A 28. alcím címe a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^133]: A 70. § (4) bekezdés b) pont nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
+[^134]: A 70. § (4) bekezdése c) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 15. pontja szerint módosított szöveg.

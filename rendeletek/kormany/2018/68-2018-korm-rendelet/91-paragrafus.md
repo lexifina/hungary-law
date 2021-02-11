@@ -4,7 +4,7 @@
 
 ## 43. A településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök egyeztetési eljárásában adott szakmai vélemény örökségvédelmi szempontjai
 
-91. § (1)[^196] A településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök jogszabályban meghatározott egyeztetési eljárás keretében kialakított szakmai vélemény során figyelemmel kell lenni a védett régészeti örökség és a műemléki értékek helyben történő megőrzésének alapvető követelményére.
+91. § (1)[^198] A településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök jogszabályban meghatározott egyeztetési eljárás keretében kialakított szakmai vélemény során figyelemmel kell lenni a védett régészeti örökség és a műemléki értékek helyben történő megőrzésének alapvető követelményére.
 
 (2) A szakmai véleményezés során az 57. § (7) bekezdésében meghatározottakon túl a következő szempontokat kell különösen érvényesíteni:
 
@@ -26,7 +26,7 @@ e) az önkormányzati településképi rendelet hatálybalépését követően a
 
 a) nyilvántartott vagy védetté nyilvánított régészeti lelőhelyet és védőövezetét érintő esetben az Ásatási Bizottság,
 
-b)[^197] műemléket, műemléki környezetet, műemléki jelentőségű területet, történeti tájat érintő esetben a miniszter
+b)[^199] műemléket, műemléki környezetet, műemléki jelentőségű területet, történeti tájat érintő esetben a miniszter
 
-[^196]: A 91. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 76. pontja szerint módosított szöveg.
-[^197]: A 91. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 75. pontja és a 84. § 27. pontja szerint módosított szöveg.
+[^198]: A 91. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 76. pontja szerint módosított szöveg.
+[^199]: A 91. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 75. pontja és a 84. § 27. pontja szerint módosított szöveg.

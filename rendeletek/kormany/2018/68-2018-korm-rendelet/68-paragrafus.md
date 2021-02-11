@@ -1,12 +1,12 @@
-## 27.[^119] A hatóság műemlékkel kapcsolatos feladatai és eljárásainak közös szabályai
+## 27.[^121] A hatóság műemlékkel kapcsolatos feladatai és eljárásainak közös szabályai
 
 68. § (1) A hatóság
 
-a)[^120] a műemléket érintően a bejelentést jogszerű hallgatással tudomásul veheti, vagy jogszabálysértés esetén a tudomásulvételt megtagadja, és a tervezett tevékenység elvégzését vagy a kialakult szabálytalan állapot fennmaradását hivatalból megtiltja,
+a)[^122] a műemléket érintően a bejelentést jogszerű hallgatással tudomásul veheti, vagy jogszabálysértés esetén a tudomásulvételt megtagadja, és a tervezett tevékenység elvégzését vagy a kialakult szabálytalan állapot fennmaradását hivatalból megtiltja,
 
-b)[^121] dönt az örökségvédelmi engedély kiadásáról, módosításáról vagy hatályának legfeljebb két évvel való meghosszabbításáról.
+b)[^123] dönt az örökségvédelmi engedély kiadásáról, módosításáról vagy hatályának legfeljebb két évvel való meghosszabbításáról.
 
-(2)[^122] A hatóság a műemléken tervezett tevékenység esetén, a döntése meghozatala során
+(2)[^124] A hatóság a műemléken tervezett tevékenység esetén, a döntése meghozatala során
 
 a) a méltó használat,
 
@@ -26,24 +26,24 @@ h) a nevesített műemléki érték hiteles és meghatározó módon történő 
 
 ## szempontjának érvényesülését mérlegeli.
 
-(3)[^123] Műemléki jelentőségű terület esetén a hatóság a döntése meghozatala során szempontként figyelembe veszi, hogy
+(3)[^125] Műemléki jelentőségű terület esetén a hatóság a döntése meghozatala során szempontként figyelembe veszi, hogy
 
 a) új építmény építése, vagy meglévő építmény átalakítása nem járhat a műemléki jelentőségű terület történeti összképének, feltárulásának műemléki szempontból előnytelen megváltozásával,
 
 b) történeti épület, amely építési korát, stílusát, megjelenését tekintve a védettséget megalapozó történeti karakterbe illeszkedik, megjelenésében megőrzendő.
 
-(4)[^124] Történeti táj esetén a hatóság a döntése meghozatala során szempontként figyelembe veszi, hogy a kiemelkedő egyetemes értéket érintő
+(4)[^126] Történeti táj esetén a hatóság a döntése meghozatala során szempontként figyelembe veszi, hogy a kiemelkedő egyetemes értéket érintő
 
 a) táji léptékű beavatkozások – külfejtéses művelésű bányák bővítése, rekultivációja, napelemparkok vagy napelemes erőművek létesítése vagy bővítése, közlekedési infrastruktúra létesítése vagy bővítése – nem veszélyeztethetik a védelem alapjául szolgáló műemléki érték fennmaradását, méltó megjelenését, érvényesülését,
 
 b) építési tevékenység nem járhat a településkép történeti megjelenésének, a terület történeti összképének előnytelen megváltozásával.
 
-(5)[^125] Műemléki környezet esetén a hatóság a döntése meghozatala során szempontként figyelembe veszi, hogy új építmény építése, meglévő építmény külső átalakítása, részleges vagy teljes bontása nem járhat a műemlék érvényesülésének és megjelenésének műemléki szempontból előnytelen megváltozásával.
+(5)[^127] Műemléki környezet esetén a hatóság a döntése meghozatala során szempontként figyelembe veszi, hogy új építmény építése, meglévő építmény külső átalakítása, részleges vagy teljes bontása nem járhat a műemlék érvényesülésének és megjelenésének műemléki szempontból előnytelen megváltozásával.
 
-[^119]: A 27. alcím címe a 677/2020. (XII. 28.) Korm. rendelet 83. § 55. pontja szerint módosított szöveg.
-[^120]: A 68. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 32. pontja szerint módosított szöveg.
-[^121]: A 68. §. § (1) bekezdése b) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 14. pontja szerint módosított szöveg.
-[^122]: A 68. § (2) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 73. §-ával megállapított szöveg.
-[^123]: A 68. § (3) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 73. §-a iktatta be.
-[^124]: A 68. § (4) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 73. §-a iktatta be.
-[^125]: A 68. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 73. §-a iktatta be.
+[^121]: A 27. alcím címe a 677/2020. (XII. 28.) Korm. rendelet 83. § 55. pontja szerint módosított szöveg.
+[^122]: A 68. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 32. pontja szerint módosított szöveg.
+[^123]: A 68. §. § (1) bekezdése b) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 14. pontja szerint módosított szöveg.
+[^124]: A 68. § (2) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^125]: A 68. § (3) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 73. §-a iktatta be.
+[^126]: A 68. § (4) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 73. §-a iktatta be.
+[^127]: A 68. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 73. §-a iktatta be.

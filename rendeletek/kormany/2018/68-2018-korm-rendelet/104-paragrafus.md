@@ -4,6 +4,6 @@
 
 (2) A kérelmet tárgyanként kell kitölteni, de a több tárgy egyidejű, azonos célállomásra irányuló kivitele iránti kérelem 19. mellékletben meghatározott tartalmú, a kulturális javak hatósága által rendszeresített kiegészítő lap alkalmazásával egy formanyomtatványba vagy elektronikus űrlapba foglalható.
 
-(3)[^207]
+(3)[^209]
 
-[^207]: A 104. § (3) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 30. pontja hatályon kívül helyezte.
+[^209]: A 104. § (3) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 30. pontja hatályon kívül helyezte.

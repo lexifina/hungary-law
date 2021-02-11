@@ -24,7 +24,7 @@ b) kulturális javak esetében az e rendeletben foglaltak szerint kijelölt áll
 
 (5) A hatóság ügyintézési határideje – ha a Kötv. vagy e rendelet eltérően nem rendelkezik – huszonöt nap.
 
-(6)[^17] A Tao tv. 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként műemlék jogi jellegű ingatlanon az (1) bekezdés a) pontjában meghatározott hatóság, a helyi egyedi védelem alatt álló ingatlanon az illetékes jegyző jár el.
+(6)[^17] A Tao tv. 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
 
 (7)[^18] A Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) e rendeletben kijelölt örökségvédelmi szakértő szervként
 
@@ -49,6 +49,6 @@ g) a 71. § (2) bekezdés b) pont bc) alpontja szerint megkeresés alapján szak
 [^14]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 83. § 4. pontja szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 5. pontja szerint módosított szöveg.
 [^16]: A 3. § (4) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 6. pontja szerint módosított szöveg.
-[^17]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § b) pontja, a 677/2020. (XII. 28.) Korm. rendelet 83. § 7. pontja szerint módosított szöveg.
+[^17]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § b) pontja, a 677/2020. (XII. 28.) Korm. rendelet 83. § 7. pontja, az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^18]: A 3. § (7) bekezdését a 121/2019. (V. 27.) Korm. rendelet 23. §-a iktatta be, szövege a 677/2020. (XII. 28.) Korm. rendelet 55. §-ával megállapított szöveg..
 [^19]: A 3. § (8) bekezdését a 30/2020. (II. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-68-20-2
 | 2020-03-13 | 2018-68-20-22.12 | 42/2020. (III. 12.) Korm. rendelet |
 | 2020-09-01 | 2018-68-20-22.13 | 367/2020. (VII. 28.) Korm. rendelet |
 | 2021-01-01 | 2018-68-20-22.14 | 677/2020. (XII. 28.) Korm. rendelet |
+| 2021-02-11 | 2018-68-20-22.15 | 677/2020. (XII. 28.) Korm. rendelet |

@@ -34,8 +34,8 @@
 
 3. A kérelem mellékleteként csatolt okiratokra vonatkozó adatok: a kérelemhez csatolt eredeti adásvételi szerződések példányszáma, pótlapok száma.
 
-4.[^232]
+4.[^234]
 
 5. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak és az adásvételi szerződésben foglaltaknak megfelelnek.
 
-[^232]: A 16. melléklet 4. pontját a 677/2020. (XII. 28.) Korm. rendelet 84. § 33. pontja hatályon kívül helyezte.
+[^234]: A 16. melléklet 4. pontját a 677/2020. (XII. 28.) Korm. rendelet 84. § 33. pontja hatályon kívül helyezte.

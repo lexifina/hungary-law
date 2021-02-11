@@ -1,4 +1,4 @@
-## 115. §[^215]
+## 115. §[^217]
 
 ## 55. A védetté nyilvánított kulturális javak restaurálási engedélye
 
@@ -60,4 +60,4 @@ d) rajz- és fotódokumentációt kísérő szöveggel: a tárgy restaurálás e
 
 e) a további kezelésre és tárolásra vonatkozó javaslatokat.
 
-[^215]: A 115. § a 677/2020. (XII. 28.) Korm. rendelet 84. § 31. pontja hatályon kívül helyezte.
+[^217]: A 115. § a 677/2020. (XII. 28.) Korm. rendelet 84. § 31. pontja hatályon kívül helyezte.
