@@ -1,4 +1,4 @@
-14/H. §[^127] (1) Az MNV Zrt. ellenőrzi a tulajdonosi joggyakorlói adatszolgáltatások helyességét.
+14/H. §[^129] (1) Az MNV Zrt. ellenőrzi a tulajdonosi joggyakorlói adatszolgáltatások helyességét.
 
 (2) Az MNV Zrt. az adatszolgáltatási keretrendszer felhasználási szabályzatban meghatározott szintaktikai és szemantikai ellenőrzéseket végez.
 
@@ -14,4 +14,4 @@ c) a tulajdonosi joggyakorlói adatszolgáltatás ellenőrzése során feltárt 
 
 d) a tulajdonosi joggyakorlói adatszolgáltatás hibás adatainak módosítására vonatkozó szabályokat.
 
-[^127]: A 14/H. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^129]: A 14/H. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.

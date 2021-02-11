@@ -1,26 +1,26 @@
 ## A felek jogai és kötelezettségei
 
-9. §[^57] (1) A vagyonkezelő a kezelt vagyont rendeltetésének, a vagyonkezelési szerződésnek, továbbá a rendes gazdálkodás szabályainak megfelelően, az ilyen személytől elvárható gondossággal birtokolhatja, használhatja és szedheti hasznait.
+9. §[^59] (1) A vagyonkezelő a kezelt vagyont rendeltetésének, a vagyonkezelési szerződésnek, továbbá a rendes gazdálkodás szabályainak megfelelően, az ilyen személytől elvárható gondossággal birtokolhatja, használhatja és szedheti hasznait.
 
-(2)[^58] Amennyiben a vagyonkezelő a kezelt vagyon hasznosítását másnak átengedi, a használó magatartásáért, mint a sajátjáért felel.
+(2)[^60] Amennyiben a vagyonkezelő a kezelt vagyon hasznosítását másnak átengedi, a használó magatartásáért, mint a sajátjáért felel.
 
 (3) A vagyonkezelő köteles teljesíteni a jogszabályban, illetve a vagyonkezelési szerződésben előírt, az állami vagyonra vonatkozó nyilvántartási, adatszolgáltatási és elszámolási kötelezettséget, köteles továbbá tűrni az (5) bekezdés szerinti ellenőrzést, illetve annak lefolytatásában közreműködni.
 
-(4)[^59] A vagyonkezelő köteles a vagyont fenyegető veszélyről és a beállott kárról haladéktalanul értesíteni a tulajdonosi joggyakorlót – ideértve azt az esetet is, ha őt harmadik személy a jogainak gyakorlásában akadályozza –, köteles továbbá tűrni, hogy a tulajdonosi joggyakorló a veszély elhárítására, illetőleg a kár következményeinek megszüntetésére a szükséges intézkedéseket megtegye. A vagyonkezelő felelős minden olyan kárért, amely a rendeltetésellenes vagy szerződésellenes használat következménye kivéve, ha bizonyítja, hogy úgy járt el, ahogy adott helyzetben az állami vagyon kezelőjétől elvárható.
+(4)[^61] A vagyonkezelő köteles a vagyont fenyegető veszélyről és a beállott kárról haladéktalanul értesíteni a tulajdonosi joggyakorlót – ideértve azt az esetet is, ha őt harmadik személy a jogainak gyakorlásában akadályozza –, köteles továbbá tűrni, hogy a tulajdonosi joggyakorló a veszély elhárítására, illetőleg a kár következményeinek megszüntetésére a szükséges intézkedéseket megtegye. A vagyonkezelő felelős minden olyan kárért, amely a rendeltetésellenes vagy szerződésellenes használat következménye kivéve, ha bizonyítja, hogy úgy járt el, ahogy adott helyzetben az állami vagyon kezelőjétől elvárható.
 
-(5)[^60] A tulajdonosi joggyakorló ellenőrizheti a használatot, követelheti a rendeltetésellenes vagy szerződésellenes használat megszüntetését, továbbá az ilyen használatból eredő kár megtérítését. Abban az esetben, ha az ilyen használat tovább folyik, vagy ha a kezelt vagyont fenyegető veszély súlyossága miatt a kifogásolt használat megszüntetésének követelése sem vezetne eredményre, a tulajdonosi joggyakorló a szerződést azonnali hatállyal felmondhatja és kártérítést követelhet.
+(5)[^62] A tulajdonosi joggyakorló ellenőrizheti a használatot, követelheti a rendeltetésellenes vagy szerződésellenes használat megszüntetését, továbbá az ilyen használatból eredő kár megtérítését. Abban az esetben, ha az ilyen használat tovább folyik, vagy ha a kezelt vagyont fenyegető veszély súlyossága miatt a kifogásolt használat megszüntetésének követelése sem vezetne eredményre, a tulajdonosi joggyakorló a szerződést azonnali hatállyal felmondhatja és kártérítést követelhet.
 
-(6)[^61]
+(6)[^63]
 
-(6a)[^62]
+(6a)[^64]
 
-(7)[^63]
+(7)[^65]
 
 (8) A vagyonkezelési szerződésben rögzíteni kell az érintett vagyonelem esetleges védettségét, illetve Natura 2000 területnek minősítését, rendeltetését és a vagyonkezelő ehhez kapcsolódó kötelezettségeit.
 
-(9)[^64] Az államháztartás alrendszereibe nem tartozó vagyonkezelő köteles továbbá:
+(9)[^66] Az államháztartás alrendszereibe nem tartozó vagyonkezelő köteles továbbá:
 
-a)[^65] a vagyonkezelésbe vett eszközöket a számvitelről szóló törvény előírásai szerint a hosszú lejáratú kötelezettségekkel szemben a vagyonkezelési szerződésben rögzített értéken állományba venni,
+a)[^67] a vagyonkezelésbe vett eszközöket a számvitelről szóló törvény előírásai szerint a hosszú lejáratú kötelezettségekkel szemben a vagyonkezelési szerződésben rögzített értéken állományba venni,
 
 b) ha törvény és ez alapján a vagyonkezelési szerződés másként nem rendelkezik, a számviteli politikájában meghatározott módon terv szerinti – szükség esetén terven felüli – értékcsökkenést elszámolni,
 
@@ -30,15 +30,15 @@ d) ha törvény és ez alapján a vagyonkezelési szerződés másként nem rend
 
 (10) A (9) bekezdés a)–b) pontját a kulturális örökség ingó javaira nem kell alkalmazni.
 
-(11)[^66] A vagyonkezelőnél a (9) bekezdés b) pontjában előírt terven felüli értékcsökkenés elszámolása és a visszapótlási kötelezettség nem áll fenn abban az esetben, ha az értékcsökkenés elszámolását előidéző ok a vagyonkezelőnek nem róható fel.
+(11)[^68] A vagyonkezelőnél a (9) bekezdés b) pontjában előírt terven felüli értékcsökkenés elszámolása és a visszapótlási kötelezettség nem áll fenn abban az esetben, ha az értékcsökkenés elszámolását előidéző ok a vagyonkezelőnek nem róható fel.
 
-(12)[^67] A központi költségvetési szerv vagyonkezelő köteles harminc napon belül írásban, az érintett ingatlan pontos megjelölésével, részletes indokolással ellátva jelezni a tulajdonosi joggyakorló felé, ha az általa ellátandó állami feladathoz vagy a közvetlen intézményi elhelyezéséhez kilencven napot meghaladóan nem szükséges az ingatlan vagyonkezelése. A határidő elmulasztása a szerződés szempontjából a 12. § (4) bekezdés c) pontjában említett lényeges kötelezettségszegésnek minősül. A kötelezettség nem áll fenn, ha a használat ideiglenes szünetelése az állami feladat időszakos ellátása vagy a vagyon értékesítésének előkészítése miatt következett be.
+(12)[^69] A központi költségvetési szerv vagyonkezelő köteles harminc napon belül írásban, az érintett ingatlan pontos megjelölésével, részletes indokolással ellátva jelezni a tulajdonosi joggyakorló felé, ha az általa ellátandó állami feladathoz vagy a közvetlen intézményi elhelyezéséhez kilencven napot meghaladóan nem szükséges az ingatlan vagyonkezelése. A határidő elmulasztása a szerződés szempontjából a 12. § (4) bekezdés c) pontjában említett lényeges kötelezettségszegésnek minősül. A kötelezettség nem áll fenn, ha a használat ideiglenes szünetelése az állami feladat időszakos ellátása vagy a vagyon értékesítésének előkészítése miatt következett be.
 
-(13)[^68] A tulajdonosi joggyakorló a (12) bekezdés alapján tett bejelentéstől számított kilencven napon belül megvizsgálja a vagyonkezelő kérelmét, és – a (14) bekezdésben meghatározott esetek, valamint az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés keretében (a továbbiakban: PPP-konstrukcióban) létrehozott, felújított vagy átalakított felépítmények és az azokhoz tartozó földterületek kivételével – az érintett ingatlan tekintetében a vagyonkezelővel együtt eljár a vagyonkezelési szerződés (adott ingatlan vonatkozásában történő) megszüntetése és az ingatlan birtok-átruházása érdekében. A kilencven napos ügyintézési határidőbe nem számít bele az esetleges hiánypótlás időtartama. A tulajdonosi joggyakorló birtokba vételi késedelme esetén a vagyonkezelő az ingatlan őrzésére és állagának megóvására a megbízás nélküli ügyvitel szabályai szerint köteles, valamint jogosult a tulajdonosi joggyakorlótól – annak késedelembe esésétől kezdődően felmerült – igazolt, indokolt költségei megtérítését követelni.
+(13)[^70] A tulajdonosi joggyakorló a (12) bekezdés alapján tett bejelentéstől számított kilencven napon belül megvizsgálja a vagyonkezelő kérelmét, és – a (14) bekezdésben meghatározott esetek, valamint az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés keretében (a továbbiakban: PPP-konstrukcióban) létrehozott, felújított vagy átalakított felépítmények és az azokhoz tartozó földterületek kivételével – az érintett ingatlan tekintetében a vagyonkezelővel együtt eljár a vagyonkezelési szerződés (adott ingatlan vonatkozásában történő) megszüntetése és az ingatlan birtok-átruházása érdekében. A kilencven napos ügyintézési határidőbe nem számít bele az esetleges hiánypótlás időtartama. A tulajdonosi joggyakorló birtokba vételi késedelme esetén a vagyonkezelő az ingatlan őrzésére és állagának megóvására a megbízás nélküli ügyvitel szabályai szerint köteles, valamint jogosult a tulajdonosi joggyakorlótól – annak késedelembe esésétől kezdődően felmerült – igazolt, indokolt költségei megtérítését követelni.
 
-(14)[^69] A tulajdonosi joggyakorló nem köteles a vagyonkezelő (12) bekezdés alapján tett bejelentésére a vagyonkezelési szerződését megszüntetni és az ingatlant birtokátruházással birtokba venni, ha
+(14)[^71] A tulajdonosi joggyakorló nem köteles a vagyonkezelő (12) bekezdés alapján tett bejelentésére a vagyonkezelési szerződését megszüntetni és az ingatlant birtokátruházással birtokba venni, ha
 
-a)[^70] az ingatlan költségvetési támogatásból megvalósult beruházással érintett, és a vagyonkezelőt a támogatói döntésből eredően az ingatlan vonatkozásában fenntartási kötelezettség terheli,
+a)[^72] az ingatlan költségvetési támogatásból megvalósult beruházással érintett, és a vagyonkezelőt a támogatói döntésből eredően az ingatlan vonatkozásában fenntartási kötelezettség terheli,
 
 b) az ingatlan hasznosítási jogviszonnyal terhelt, és a hasznosítási jogviszony
 
@@ -56,23 +56,23 @@ e) a vagyonkezelés időtartama alatt a vagyonkezelő tevékenysége vagy mulasz
 
 f) a vagyonkezelő nem tett eleget jogszabályban előírt kötelezettségének.
 
-(15)[^71] A vagyonkezelő a (12) bekezdés szerinti bejelentésében köteles felhívni a tulajdonosi joggyakorló figyelmét a (14) bekezdésben felsorolt valamely körülmény fennállására, illetve tájékoztatni a körülmény megszüntetése iránti intézkedéséről. A tulajdonosi joggyakorló a (14) bekezdésben meghatározott valamely körülmény fennállása esetén – a honvédelmi célt szolgáló ingatlanok tűzszerészeti mentesítését kivéve – köteles felhívni a vagyonkezelőt a körülmény megszüntetésére. A tulajdonosi joggyakorló az ingatlan helyzetének rendezését követően a vagyonkezelővel együttműködve kilencven napon belül intézkedik a vagyonkezelési szerződés megszüntetése és az ingatlan birtok-átruházása érdekében, azzal, hogy a megbízás nélküli ügyvitel szabályai nem alkalmazhatók.
+(15)[^73] A vagyonkezelő a (12) bekezdés szerinti bejelentésében köteles felhívni a tulajdonosi joggyakorló figyelmét a (14) bekezdésben felsorolt valamely körülmény fennállására, illetve tájékoztatni a körülmény megszüntetése iránti intézkedéséről. A tulajdonosi joggyakorló a (14) bekezdésben meghatározott valamely körülmény fennállása esetén – a honvédelmi célt szolgáló ingatlanok tűzszerészeti mentesítését kivéve – köteles felhívni a vagyonkezelőt a körülmény megszüntetésére. A tulajdonosi joggyakorló az ingatlan helyzetének rendezését követően a vagyonkezelővel együttműködve kilencven napon belül intézkedik a vagyonkezelési szerződés megszüntetése és az ingatlan birtok-átruházása érdekében, azzal, hogy a megbízás nélküli ügyvitel szabályai nem alkalmazhatók.
 
-(16)[^72] A központi költségvetési szerv a működéséhez már nem szükséges, az államháztartás számviteléről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz, készlet (e bekezdésben a továbbiakban együtt: ingóság) vagyonkezelői jogának megszüntetését írásban jogosult kezdeményezni a tulajdonosi joggyakorlónál. A tulajdonosi joggyakorló – a PPP-konstrukcióban megvalósult fejlesztések során, az azokhoz kapcsolódóan létrejött vagy beszerzett ingóságok kivételével – a központi költségvetési szerv kezdeményezésétől számított kilencven napon belül megvizsgálja, hogy az ingóság közfeladat ellátása céljából más központi költségvetési szerv számára szükséges-e. Ha az ingóságot közfeladat ellátása céljából más központi költségvetési szerv igényli, akkor arról a tulajdonosi joggyakorló – az átadó központi költségvetési szerv kezdeményezésétől számított kilencven napon belül – tájékoztatja az átadó és átvételt kezdeményező szerveket. Az érintett átadó és átvevő központi költségvetési szervek ezt követően az Nvtv. 11. § (9) bekezdése szerint járnak el, azzal, hogy a tulajdonosi joggyakorló tájékoztatásának kézhezvételétől számított kilencven napon belül kötelesek a szerződés megkötésére. Ha az átvevő központi költségvetési szerv miatt nem történik meg határidőben a szerződés megkötése, a tulajdonosi joggyakorló az átadó központi költségvetési szerv ingóság feletti vagyonkezelői jogát az átadó szerv erre irányuló bejelentésétől számított kilencven napon belül megszünteti. Ha nem központi költségvetési szerv igényli az ingóságot közfeladat ellátásához, akkor a tulajdonosi joggyakorló – az átadó központi költségvetési szerv közreműködésével, a szerv kezdeményezésétől számított kilencven napon belül – intézkedik az érintett ingóság tekintetében a vagyonkezelési szerződés megszüntetéséről.
+(16)[^74] A központi költségvetési szerv a működéséhez már nem szükséges, az államháztartás számviteléről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz, készlet (e bekezdésben a továbbiakban együtt: ingóság) vagyonkezelői jogának megszüntetését írásban jogosult kezdeményezni a tulajdonosi joggyakorlónál. A tulajdonosi joggyakorló – a PPP-konstrukcióban megvalósult fejlesztések során, az azokhoz kapcsolódóan létrejött vagy beszerzett ingóságok kivételével – a központi költségvetési szerv kezdeményezésétől számított kilencven napon belül megvizsgálja, hogy az ingóság közfeladat ellátása céljából más központi költségvetési szerv számára szükséges-e. Ha az ingóságot közfeladat ellátása céljából más központi költségvetési szerv igényli, akkor arról a tulajdonosi joggyakorló – az átadó központi költségvetési szerv kezdeményezésétől számított kilencven napon belül – tájékoztatja az átadó és átvételt kezdeményező szerveket. Az érintett átadó és átvevő központi költségvetési szervek ezt követően az Nvtv. 11. § (9) bekezdése szerint járnak el, azzal, hogy a tulajdonosi joggyakorló tájékoztatásának kézhezvételétől számított kilencven napon belül kötelesek a szerződés megkötésére. Ha az átvevő központi költségvetési szerv miatt nem történik meg határidőben a szerződés megkötése, a tulajdonosi joggyakorló az átadó központi költségvetési szerv ingóság feletti vagyonkezelői jogát az átadó szerv erre irányuló bejelentésétől számított kilencven napon belül megszünteti. Ha nem központi költségvetési szerv igényli az ingóságot közfeladat ellátásához, akkor a tulajdonosi joggyakorló – az átadó központi költségvetési szerv közreműködésével, a szerv kezdeményezésétől számított kilencven napon belül – intézkedik az érintett ingóság tekintetében a vagyonkezelési szerződés megszüntetéséről.
 
-[^57]: A 9. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^58]: A 9. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^59]: A 9. § (4) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 148/2019. (VI. 25.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^60]: A 9. § (5) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) és h) pontja szerint módosított szöveg.
-[^61]: A 9. § (6) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^62]: A 9. § (6a) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^63]: A 9. § (7) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^64]: A 9. § (9) bekezdése a 77/2014. (III. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^65]: A 9. § (9) bekezdés a) pontja a 26/2015. (II. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^66]: A 9. § (11) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^67]: A 9. § (12) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^68]: A 9. § (13) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^69]: A 9. § (14) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^70]: A 9. § (14) bekezdés a) pontja a 148/2019. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^71]: A 9. § (15) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be.
-[^72]: A 9. § (16) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be.
+[^59]: A 9. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^60]: A 9. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^61]: A 9. § (4) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 148/2019. (VI. 25.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^62]: A 9. § (5) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) és h) pontja szerint módosított szöveg.
+[^63]: A 9. § (6) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^64]: A 9. § (6a) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^65]: A 9. § (7) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^66]: A 9. § (9) bekezdése a 77/2014. (III. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^67]: A 9. § (9) bekezdés a) pontja a 26/2015. (II. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^68]: A 9. § (11) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^69]: A 9. § (12) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^70]: A 9. § (13) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^71]: A 9. § (14) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^72]: A 9. § (14) bekezdés a) pontja a 148/2019. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^73]: A 9. § (15) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be.
+[^74]: A 9. § (16) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be.
