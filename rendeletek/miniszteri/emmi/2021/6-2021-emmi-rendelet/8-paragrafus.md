@@ -1,3 +1,5 @@
-## 7. § Az egészségügyi felsőfokú szakirányú szakképesítés megszerzéséről szóló 22/2012. (IX. 14.) EMMI rendelet 15. § (1) bekezdésében a „2020. december 31-éig tehetnek szakvizsgát” szövegrész helyébe a „2022. december 31-éig tehetnek szakvizsgát” szöveg lép.
+## 7. §[^4]
 
 ## 4. A szakorvosok, szakfogorvosok, szakgyógyszerészek és szakpszichológusok egészségügyi szakirányú szakmai továbbképzéséről szóló 23/2012. (IX. 14.) EMMI rendelet módosítása
+
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
