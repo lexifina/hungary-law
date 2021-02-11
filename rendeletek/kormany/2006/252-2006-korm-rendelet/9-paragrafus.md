@@ -12,9 +12,9 @@ b) – az e) és f) pontban foglaltak kivételével – a nemzetgazdasági szemp
 
 c) az Étv. 19. § (4) bekezdése szerinti épület építészeti-műszaki dokumentációját,
 
-d) a nemzeti emlékhellyel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési –, örökségvédelmi hatósági engedélyezési és örökségvédelmi bejelentési eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt,
+d)[^34] a nemzeti emlékhellyel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési –, valamint – a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet (a továbbiakban: Övr.) 63. § (3) bekezdés a) pontja és b) pont ba) alpontja esetében – örökségvédelmi hatósági engedélyezési és – az Övr. 64. § (2) bekezdés c) pontja esetében – örökségvédelmi bejelentési eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt,
 
-e) a kiemelten védett műemlékkel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési –, valamint – a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet (a továbbiakban: Övr.) 63. § (3) bekezdés a) pontja és b) pont ba) alpontja esetében – örökségvédelmi hatósági engedélyezési és – az Övr. 64. § (2) bekezdés c) pontja esetében – örökségvédelmi bejelentési eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt,
+e)[^35] a kiemelten védett műemlékkel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési –, valamint – az Övr. 63. § (3) bekezdés a) pontja és b) pont ba) alpontja esetében – örökségvédelmi hatósági engedélyezési és – az Övr. 64. § (2) bekezdés c) pontja esetében – örökségvédelmi bejelentési eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt,
 
 f) a védett műemlékkel kapcsolatos építésügyi hatósági engedélyezési – kivéve az országos építési követelményektől való eltérés és a használatbavételi engedélyezési – eljárást megelőzően az eljárás kötelező mellékletét képező dokumentációt.
 
@@ -61,3 +61,5 @@ b) védett műemléket vagy műemléki területet érint az (5) bekezdés a) és
 (11) A (2) bekezdés szerinti eljárások világörökségi érintettsége esetén a világörökségi tervtanácsra vonatkozó szabályokat is alkalmazni kell.
 
 [^33]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^34]: A 9. § (2) bekezdés d) pontja az 58/2021. (II. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^35]: A 9. § (2) bekezdés e) pontja az 58/2021. (II. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
