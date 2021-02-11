@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a külügyminiszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 2/2014. (II. 25.) KüM rendelet.
+## 18. §[^1]
 
 1. melléklet a 2/2021. (II. 2.) KKM rendelethez
 
@@ -27,3 +27,5 @@
 11. MANEVI Zártkörű Részvénytársaság
 
 12. MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
