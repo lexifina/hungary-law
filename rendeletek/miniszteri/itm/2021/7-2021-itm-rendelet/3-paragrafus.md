@@ -1,5 +1,3 @@
-## 2. § A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet (a továbbiakban: R1.) 24. §-a a következő 30a. ponttal egészül ki:
+## 2. §[^2]
 
-## (E rendelet alkalmazásában:)
-
-## „30a. No Drone Zone: a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 13. § 3. pontja szerinti légtér.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
