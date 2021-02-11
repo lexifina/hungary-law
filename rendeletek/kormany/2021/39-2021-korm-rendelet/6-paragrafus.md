@@ -1,3 +1,3 @@
-## „(1a) Az Együttes rendelet 3. mellékletében meghatározott korlátozott légterek – ide nem értve az (1) bekezdésben meghatározott korlátozott légtereket, valamint az Együttes rendelet 3. mellékletében a polgári légijárművek számára korlátozott légtereket – pilóta nélküli légijárművek által a védett objektum zavartalan és biztonságos működésének biztosításáért felelős szervezet hozzájárulásával a légiközlekedési hatósághoz az UAS művelet végrehajtása előtt legalább három nappal tett előzetes bejelentés mellett vehetők igénybe.
+## 5. §[^6]
 
-## (1b) Az (1a) bekezdésben meghatározott bejelentéshez csatolni kell az (1a) bekezdésben meghatározott hozzájárulást.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

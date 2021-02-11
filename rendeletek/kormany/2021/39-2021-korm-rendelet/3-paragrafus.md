@@ -1,1 +1,3 @@
-## „(6) A katonai légügyi hatóság az eseti légtér kijelölésére vonatkozó határozatot a légtér működésének megkezdése előtt legkésőbb 7 nappal, az 5. § (3) bekezdésében meghatározott esetben a légtér működésének megkezdése előtt legkésőbb 2 nappal megküldi a légiforgalmi tájékoztató szolgálatnak közzététel céljából, valamint a Budapest ATS Központnak és tájékoztatásul a légiközlekedési hatóságnak.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

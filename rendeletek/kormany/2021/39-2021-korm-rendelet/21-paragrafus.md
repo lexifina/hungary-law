@@ -1,3 +1,5 @@
-## 20. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. számú melléklet 10. Közlekedési ügyek táblázat 113. eseti légtér kijelölésére irányuló eljárás sora, C Bevonás és közreműködés feltétele oszlopa szerinti „Minden esetben” szövegrész helyébe az „a magyar légtér igénybevételéről szóló kormányrendelet 5. § (11) bekezdésében meghatározott eljárások kivételével az eseti légtér kijelölésére irányuló eljárás esetén” szöveg lép.
+## 20. §[^21]
 
 ## 6. A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^21]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 15. § Az R2. 6. §-a helyébe a következő rendelkezés lép:
+## 15. §[^16]
 
-## „6. § Az e rendeletben előírt biztosítási kötelezettségeknek – a 2/A. §-ban szabályozott esetek kivételével – ki kell terjedniük az esetleges erőszakos cselekmények által okozott károk (háborús kockázatok) fedezésére is.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

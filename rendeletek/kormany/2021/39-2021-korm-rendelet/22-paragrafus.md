@@ -1,3 +1,3 @@
-## 21. § A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R4.) 49. §-a helyébe a következő rendelkezés lép:
+## 21. §[^22]
 
-## „49. § A légiközlekedési hatóság által kiszabott bírság összegét, a bírság kiszabásáról rendelkező határozat kézhezvételétől számított 15 napon belül a határozatot hozó hatóság részére kell megfizetni, a bírságot kiszabó hatóság által a határozatban megjelölt, Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlára vagy a központosított beszedési számlára. A közlemény rovatban a bírsághatározat számát fel kell tüntetni.”
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
