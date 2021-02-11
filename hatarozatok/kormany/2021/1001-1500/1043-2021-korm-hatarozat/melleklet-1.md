@@ -12,17 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 1. pontjában foglalt táblázat
-
-## aa) C:18 mezőjében a „2,00” szövegrész helyébe a „2,20” szöveg,
-
-## ab) C:31 mezőjében a „17,13” szövegrész helyébe a „16,93” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:10 mezőjében a „2,00” szövegrész helyébe a „2,20” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1043/2021. (II. 9.) Korm. határozathoz
 
@@ -31,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-1.3.2-16- 2016-00001 | Felzárkózási mentorhálózat fejlesztése | Társadalmi Esélyteremtési Főigazgatóság | 2 000 000 000 | 200 000 000 | 2 200 000 000 | A projekt célja a roma személyeket érintő fejlesztési programok mentorálással történő szakmai támogatása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
