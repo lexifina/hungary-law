@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1002-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-02-11 | 2021-1002-30-29.1 | 1002/2021. (II. 10.) AB Tü. határozat |
+| 2021-02-12 | 2021-1002-30-29.2 | 2010: CXXX. törvény |
