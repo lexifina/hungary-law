@@ -1,3 +1,5 @@
-## 2. § A Vhr. 2/A. § (1) bekezdésében a „vásárlási szabályzat alapján történő beszerzéseket.” szövegrész helyébe a „vásárlási szabályzat alapján, továbbá az Országgyűlés Hivatala által történő beszerzéseket.” szöveg lép.
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
