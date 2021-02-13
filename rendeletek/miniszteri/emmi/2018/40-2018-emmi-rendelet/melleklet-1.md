@@ -1,4 +1,4 @@
-## 27. §[^6]
+## 27. §[^19]
 
 1. melléklet a 40/2018. (XII. 4.) EMMI rendelethez
 
@@ -28,4 +28,4 @@
 
 4.3. a gyermeket kísérő személy aláírása.
 
-[^6]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

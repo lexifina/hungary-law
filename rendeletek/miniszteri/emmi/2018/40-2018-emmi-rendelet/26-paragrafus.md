@@ -1,3 +1,3 @@
-## 25. §[^4]
+## 25. §[^17]
 
-[^4]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
