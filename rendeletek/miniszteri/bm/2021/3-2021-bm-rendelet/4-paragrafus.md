@@ -1,0 +1,1 @@
+## „(3a) A (3) bekezdésben foglalt feltételeknek a szolgáltatás igénybevételéről szóló megállapodás aláírásának időpontjában kell fennállnia, és azokat a szolgáltatás igénybevételének időtartama alatt folyamatosan fennállónak kell tekinteni.”
