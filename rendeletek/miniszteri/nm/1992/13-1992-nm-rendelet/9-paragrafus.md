@@ -10,8 +10,14 @@
 
 (5)[^29] Ha az elsőfokú egészségügyi szerv az alkalmassági vizsgálat során a közúti járművezető-jelölt, illetve közúti járművezető alkalmatlanságát, illetve alkalmasságát feltételekkel vagy korlátozásokkal állapítja meg, úgy arról a 2. melléklet szerinti adattartalmú véleményt kiállítja. A vélemény a másodfokú alkalmassági vizsgálatnak a 11. § (1) bekezdése szerinti szervnél történő kezdeményezése céljából vagy a járművezetésre jogosító okmány kiadásának kezdeményezése alkalmával használható fel.
 
+(6)[^30] Az egészségi alkalmassági vizsgálatot végző szerv az EESZT útján értesíti a közúti közlekedési nyilvántartó szervet az egészségi alkalmassági vélemény adatairól. Ha az elektronikus adattovábbítás és adatfeldolgozás sikertelen volt, a vizsgálatot végző szerv papír alapú igazolást állít ki a vizsgált személy számára.
+
+(7)[^31] A vizsgálatot végző szerv az egészségi alkalmassági véleményen a személyazonosító adatokat a vizsgált személy által bemutatott, személyazonosításra alkalmas okmány adataival egyezően tölti ki.
+
 [^25]: A 9. § (2) bekezdése a 4/2004. (XI. 17.) EüM rendelet 1. §-ával megállapított, a 19/2010. (XII. 23.) NEFMI rendelet 7. § (3) bekezdése szerint módosított szöveg.
 [^26]: A 9. § (3) bekezdése a 4/2004. (XI. 17.) EüM rendelet 1. §-ával megállapított szöveg.
 [^27]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet.
 [^28]: A 9. § (4) bekezdése a 4/2004. (XI. 17.) EüM rendelet 1. §-ával megállapított szöveg.
 [^29]: A 9. § (5) bekezdése a 16/2008. (IV. 24.) EüM rendelet 4. §-ával megállapított, a 19/2010. (XII. 23.) NEFMI rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^30]: A 9. § (6) bekezdését a 7/2021. (II. 12.) EMMI rendelet 1. §-a iktatta be.
+[^31]: A 9. § (7) bekezdését a 7/2021. (II. 12.) EMMI rendelet 1. §-a iktatta be.

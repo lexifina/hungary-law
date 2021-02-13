@@ -228,31 +228,34 @@
 
 | 11.3. | Azon kérelmezők vagy járművezetők esetében, akik átmenetileg vagy véglegesen olyan, a fenti pontokban nem említett valamely betegségben szenvednek, amely a járművezetés biztonságát hátrányosan befolyásoló funkcionális alkalmatlanságot idéz vagy idézhet elő, az egészségi alkalmasság az erre felhatalmazott orvos szakvéleménye és – szükség esetén – rendszeres orvosi felülvizsgálat előírása mellett állapítható meg, illetve újítható meg. |
 
-2. melléklet a 13/1992. (VI. 26.) NM rendelethez[^52]
+2. melléklet a 13/1992. (VI. 26.) NM rendelethez[^54]
 
 ## Az egészségügyi alkalmassági vélemény adattartalma
 
-1.[^53] Az egészségügyi szolgáltató neve, címe és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló EüM rendelet szerint kapott kilencjegyű azonosító.
+1. Az egészségügyi szolgáltató neve, címe és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló EüM rendelet szerint kapott kilencjegyű azonosító.
 
-2. A vizsgált személy neve, születési helye, ideje, állandó lakóhelye
+2. A vizsgált személy családi és utóneve, születési családi és utóneve, születési helye, ideje, anyja születési családi és utóneve, állandó lakóhelye.
 
-3. A vizsgált személy személyazonosságát igazoló irat típusa, száma
+3. A vizsgált személy személyazonosságát igazoló okmány típusa, száma.
 
-4. Az alkalmassági csoport
+4. Az alkalmassági csoport.
 
-5.[^54] A korábbi járművezetésre jogosító okmány száma és az abban megtalálható korlátozások/feltételek
+5. A korábbi járművezetésre jogosító okmány száma és az abban megtalálható korlátozások/feltételek.
 
-6. Az alkalmassági vizsgálat eredménye (ALKALMATLAN, ALKALMAS, ALKALMAS feltétellel, korlátozással)
+6. Az alkalmassági vizsgálat eredménye (ALKALMATLAN, ALKALMAS, ALKALMAS feltétellel, korlátozással).
 
-7. A legközelebbi orvosi vizsgálat időpontja (év, hónap, nap)
+7. A legközelebbi orvosi vizsgálat időpontja (év, hónap, nap).
 
-8. A kiállítás helye, ideje
+8. A kiállítás helye, ideje.
 
-9. Az orvos neve, orvosi bélyegzője
+9. Az orvos neve, orvosi bélyegzője, elektronikus adatátadás esetén bélyegzőszáma.
 
-10.[^55] A következő tájékoztatás: „Ezt a véleményt – ha a véleményt nem a vizsgált személy választott háziorvosa állította ki – az alkalmassági vizsgálatot végző orvos a vizsgálat elvégzését követő 15 napon belül megküldi a vizsgált személy választott háziorvosának.”
+10. Az egészségi alkalmassági vélemény azonosítója.
 
-[^52]: A mellékletet a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (2) bekezdése iktatta be, az eredeti melléklet szövegének megjelölését 2. mellékletre változtatta a 19/2010. (XII. 23.) NEFMI rendelet 6. § (2) bekezdése.
-[^53]: A melléklet 1. pontja a 16/2008. (IV. 24.) EüM rendelet 10. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^54]: A melléklet 5. pontja a 16/2008. (IV. 24.) EüM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^55]: A melléklet 10. pontját a 16/2008. (IV. 24.) EüM rendelet 10. § (2) bekezdése iktatta be.
+11. Az egészségi alkalmassági vizsgálat célja.
+
+12. Az egészségi alkalmassági vizsgálat típusa (ELŐZETES, IDŐSZAKOS, SORON KÍVÜLI).
+
+13. A következő tájékoztatás: „Ezt a véleményt – ha a véleményt nem a vizsgált személy választott háziorvosa állította ki – az alkalmassági vizsgálatot végző orvos a vizsgálat elvégzését követő 15 napon belül megküldi a vizsgált személy választott háziorvosának.”
+
+[^54]: A mellékletet a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (2) bekezdése iktatta be, az eredeti melléklet szövegének megjelölését 2. mellékletre változtatta a 19/2010. (XII. 23.) NEFMI rendelet 6. § (2) bekezdése. A 2. melléklet a 7/2021. (II. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
