@@ -150,7 +150,7 @@
 
 ## 7.3. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
 
-## 8. Pintér-hegyi földtani alapszelvény természeti emlék
+## 8. Lókúti temető feletti földtani alapszelvény természeti emlék
 
 ## 8.1. Az alapszelvény területéről a törmelékanyag rendszeres (évente legalább egy alkalom) eltávolításáról a működési területével érintett nemzeti park igazgatóság gondoskodik.
 
@@ -206,6 +206,10 @@
 
 ## 16. A Zempléni Tájvédelmi Körzet Telkibányai perlitfolyás néven meghatározott részterülete A terület kezelése során elsősorban a nem őshonos, tájidegen fafajok egyedeinek eltávolítását kell előtérbe helyezni, amelyhez mechanikus módszereket kell alkalmazni.
 
-4. melléklet az 55/2015. (IX. 18.) FM rendelethez[^7]
+## 17. A Kapc-tetői feltárás természeti emlék
 
-[^7]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## Amennyiben az A) Általános rész 1.1. és 1.3. pontjában meghatározott természetvédelmi célkitűzések érdekében történő növényzeteltávolításra a 13. pontban meghatározott feltételeknek megfelelően kerül sor, továbbá a tevékenység során keletkezett növényi anyagnak a területről való elszállítása a tevékenység elvégzését követő 30 napon belül megtörténik, a tevékenység mentesül a természetvédelmi hatósági engedély beszerzésének kötelezettsége alól. Egyebekben a 13. pontban foglaltakat kell alkalmazni.
+
+4. melléklet az 55/2015. (IX. 18.) FM rendelethez[^11]
+
+[^11]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

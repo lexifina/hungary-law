@@ -64,7 +64,7 @@
 
 | 30 | Lókúti legelő földtani alapszelvény természeti emlék | J-28 | Lókút | 030/3 hrsz.-ból az Y X 561638 207375 561638 207382 561658 207381 561658 207371 EOV koordináták által kijelölt vonaltól D-re eső 0,0189 ha kiterjedésű rész, 030/14 hrsz.-ból az Y X 561638 207375 561637 207348 561632 207325 561652 207321 561657 207345 561658 207371 EOV koordináták által kijelölt vonaltól É-ra eső 0,099 ha kiterjedésű rész | 0,1179 | Balaton-felvidéki Nemzeti Park Igazgatóság |
 
-| 31 | Pintér-hegyi földtani alapszelvény természeti emlék | K-24 | Lókút | 021/7c hrsz.-ból az Y X 561159 207669 561186 207694 561220 207658 561192 207632 561159 207669 EOV koordináták által lehatárolt 0,1837 ha kiterjedésű rész | 0,1837 | Balaton-felvidéki Nemzeti Park Igazgatóság |
+| 31 | Lókúti temető feletti földtani alapszelvény természeti emlék | K-24 | Lókút | 021/7c hrsz.-ból az Y X 561159 207669 561186 207694 561220 207658 561192 207632 561159 207669 EOV koordináták által lehatárolt 0,1837 ha kiterjedésű rész | 0,1837 | Balaton-felvidéki Nemzeti Park Igazgatóság |
 
 | 32 | Szappan-völgyi kőfejtő földtani alapszelvény természeti emlék | K-50 | Ajka | 068/5 hrsz.-ból az Y X 541617 194727 541654 194698 541618 194653 541581 194682 541617 194727 EOV koordináták által lehatárolt 0,2712 ha kiterjedésű rész | 0,2712 | Balaton-felvidéki Nemzeti Park Igazgatóság |
 
@@ -74,8 +74,14 @@
 
 | 35 | Zsidó-hegyi útbevágás földtani alapszelvény természeti emlék | K-06 | Bakonynána | 041 hrsz.-ból az Y X 569503 214275 569513 214283 569520 214292 569527 214303 569534 214311 569537 214314 569541 214317 569547 214319 569572 214324 569575 214312 569546 214304 569510 214268 569503 214275 EOV koordináták által lehatárolt 0,1017 ha kiterjedésű rész | 0,1017 | Balaton-felvidéki Nemzeti Park Igazgatóság |
 
+| 36 | Páris-patak völgye földtani alapszelvény természeti emlék | M-10 | Nógrádszakál | 089/3 hrsz.-ból az | 4,9276 | Bükki Nemzeti Park Igazgatóság |
+
+| Y 685993 685993 686094 686110 686130 686130 686134 686153 686165 686166 686374 686406 686521 686519 686406 686232 686212 686205 686199 686201 686018 685993 | X 316933 316943 317061 317093 317104 317107 317136 317134 317128 317128 317270 317316 317300 317259 317200 317081 317066 317058 317037 317028 316906 316933 |
+
+| EOV koordináták által lehatárolt 4,9276 ha kiterjedésű rész |
+
 ## A mellékletben aláhúzással jelölt ingatlanok az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló 14/2010. (V. 11.) KvVM rendelet alapján európai közösségi jelentőségű természetvédelmi rendeltetésű területek.
 
-2. melléklet az 55/2015. (IX. 18.) FM rendelethez[^5]
+2. melléklet az 55/2015. (IX. 18.) FM rendelethez[^9]
 
-[^5]: A 2. melléklet a 16/2020. (V. 12.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet a 16/2020. (V. 12.) AM rendelet 3. § (2) bekezdésével megállapított, az 1/2021. (II. 5.) AM rendelet 4. § (2) bekezdése szerint módosított szöveg.

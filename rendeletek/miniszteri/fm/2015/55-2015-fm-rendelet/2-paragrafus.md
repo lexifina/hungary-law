@@ -58,7 +58,7 @@
 
 29. Lókúti legelő földtani alapszelvény természeti emlék néven az 1. mellékletben foglalt táblázat 30. sorában meghatározott kiterjedésű természeti területet;
 
-30. Pintér-hegyi földtani alapszelvény természeti emlék néven az 1. mellékletben foglalt táblázat 31. sorában meghatározott kiterjedésű természeti területet;
+30.[^3] Lókúti temető feletti földtani alapszelvény természeti emlék néven az 1. mellékletben foglalt táblázat 31. sorában meghatározott kiterjedésű természeti területet;
 
 31. Szappan-völgyi kőfejtő földtani alapszelvény természeti emlék néven az 1. mellékletben foglalt táblázat 32. sorában meghatározott kiterjedésű természeti területet;
 
@@ -72,4 +72,14 @@
 
 (2) A védetté nyilvánítás célja egyes, az etalon értékű feltárások rendszerébe illeszkedő földtani alapszelvények, valamint egyes, az ország földtani jelenségeit reprezentáló egyedülálló képződmények természetvédelmi célú megőrzése és bemutathatóságának fenntartása.
 
+(3)[^4] Páris-patak völgye földtani alapszelvény természeti emlék néven országos jelentőségű védett természeti területté minősítem át a Nógrád Megyei Tanács Végrehajtó bizottságának 92/1976. (VIII. 31.) VB számú határozata, valamint Nógrádszakál Község Önkormányzat Képviselő-testületének a helyi jelentőségű védett természeti terület(ek) védettségének fenntartásáról szóló 7/2007. (XI. 29.) rendelete alapján helyi jelentőségű védett természeti területként kiemelt természetvédelmi oltalom alatt álló, az 1. mellékletben foglalt táblázat 36. sorában meghatározott kiterjedésű területet.
+
+(4)[^5] A (3) bekezdés szerinti átminősítés célja megegyezik a (2) bekezdésben meghatározott céllal.
+
+(5)[^6] Az (1) bekezdés és a (3) bekezdés szerinti országos jelentőségű védett természeti területek összkiterjedése 60,2256 hektár.
+
 [^2]: A 2. § (1) bekezdése a 16/2020. (V. 12.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 30. pontja az 1/2021. (II. 5.) AM rendelet 5. §-a szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdését az 1/2021. (II. 5.) AM rendelet 3. §-a iktatta be.
+[^5]: A 2. § (4) bekezdését az 1/2021. (II. 5.) AM rendelet 3. §-a iktatta be.
+[^6]: A 2. § (5) bekezdését az 1/2021. (II. 5.) AM rendelet 3. §-a iktatta be.
