@@ -1,0 +1,1 @@
+## 5. § Az EESZT-csatlakozásra kötelezett egészségügyi szolgáltató a védőoltást igazoló védettségi igazolvány kiállítása érdekében a védőoltás beadását követő egy évig kezeli az érintett 2. § (1) bekezdés b)–f) pontja, valamint 3. § (1) bekezdése szerinti adatait.
