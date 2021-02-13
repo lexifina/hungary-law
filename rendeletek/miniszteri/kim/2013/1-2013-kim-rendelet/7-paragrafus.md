@@ -1,8 +1,8 @@
-## 6. §[^7] A felügyeletet gyakorló miniszter az 5. § szerinti döntését az államnak az államtudományi és közigazgatási, rendészeti, katonai és nemzetbiztonsági, valamint nemzetközi és európai közszolgálati szakterületen előre látható szakemberigénye figyelembevételével alkotja meg.
+## 6. §[^8] A felügyeletet gyakorló miniszter az 5. § szerinti döntését az államnak az államtudományi és közigazgatási, rendészeti, katonai és nemzetbiztonsági, valamint nemzetközi és európai közszolgálati szakterületen előre látható szakemberigénye figyelembevételével alkotja meg.
 
 ## 2. Az Egyetem rendészeti képzést folytató karára történő felvétel különös feltételei
 
-7. §[^8] (1) Az Egyetem rendészeti képzést folytató karára történő felvétel – az NKEtv.-ben meghatározottakon kívüli – különös feltétele:
+7. §[^9] (1) Az Egyetem rendészeti képzést folytató karára történő felvétel – az NKEtv.-ben meghatározottakon kívüli – különös feltétele:
 
 a) a magyarországi állandó lakóhely,
 
@@ -18,7 +18,8 @@ b) nappali munkarendű képzések esetén nyilatkozat, melyben a hivatásos jogv
 
 (6) A rendészeti igazgatási alapképzési szak informatikai nyomozó szakirány önköltséges képzése, a biztonsági és a migrációs szakirány, valamint a katasztrófavédelem alapképzési szak önköltséges képzése esetén a jelentkezésnek nem feltétele az (1) bekezdés b) pontjában foglalt nyilatkozat.
 
-(7) A nappali munkarendben folyó katasztrófavédelem alapképzés önköltséges képzései esetén nem felvételi követelmény az alkalmassági vizsgálat.
+(7)[^10] A nappali munkarendben folyó katasztrófavédelem alapképzés önköltséges képzései esetén nem felvételi követelmény az alkalmassági vizsgálat, valamint a tisztjelölti jogviszony létesítésére és fenntartására vonatkozó nyilatkozat.
 
-[^7]: A 6. § a 2/2016. (I. 7.) MvM rendelet 2. §-ával megállapított szöveg.
-[^8]: A 7. § a 20/2019. (XII. 20.) MvM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 6. § a 2/2016. (I. 7.) MvM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 7. § a 20/2019. (XII. 20.) MvM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 7. § (7) bekezdése a 2/2021. (II. 12.) MvM rendelet 2. §-ával megállapított szöveg.
