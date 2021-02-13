@@ -1,0 +1,5 @@
+## 1. § A veszélyhelyzet ideje alatt érvényesülő egyes egyszerűsített közjegyzői eljárási szabályokról szóló 732/2020. (XII. 31.) Korm. rendelet (a továbbiakban: R.) a következő 1/A. §-sal egészül ki:
+
+## „1/A. § (1) Az 1. § szerinti közjegyzői okirat elkészítése során az ügyérték megállapításának alapjául kizárólag az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződésben meghatározott, folyósítani kívánt kölcsön összege szolgál, a jelzálogszerződésben foglalt biztosított követelés összege vagy az önálló zálogjog alapításához kapcsolódó szerződésben meghatározott követelés összege az ügyérték megállapítása során nem vehető figyelembe.
+
+## (2) A közjegyző az okiratról a közjegyzői okirat elkészítésével egyidejűleg köteles hivatalból elektronikus hiteles kiadmányt kiállítani, és azt a fél és a hitelező részére megküldeni. A közjegyzői okirat elkészítéséért fizetendő munkadíj, költségátalány és készkiadás díja magában foglalja az okiratról készített és az okiratkészítés során kiállított elektronikus hiteles kiadmány díját is.”
