@@ -1,3 +1,3 @@
-## 14. §[^18]
+## 14. §[^16]
 
-[^18]: A 14. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.

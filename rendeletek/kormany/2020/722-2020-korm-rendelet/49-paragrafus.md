@@ -1,5 +1,5 @@
-## 48. §[^53]
+## 48. §[^51]
 
 ## 15. A közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló 511/2017. (XII. 29.) Korm. rendelet módosítása
 
-[^53]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

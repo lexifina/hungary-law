@@ -1,3 +1,3 @@
-## 13. §[^17]
+## 13. §[^15]
 
-[^17]: A 13. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.
