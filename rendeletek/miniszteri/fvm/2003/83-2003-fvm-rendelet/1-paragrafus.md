@@ -6,8 +6,8 @@ a) annak, aki jogszabály alapján az adott gép kezeléséhez előírt nehézg�
 
 b) a fakitermelési munka tekintetében annak, aki a Magyar Honvédség tényleges szolgálatot teljesítő állományába tartozik, és a fakitermelésre jogosító belső képzésen vagy kiképzésen részt vett.
 
-(3)[^3] A jogosítvány alaki és tartalmi követelményeit a 2. számú melléklet tartalmazza.
+(3)[^3] A jogosítvány a 2. számú mellékletben meghatározott adatokat tartalmazza.
 
 [^1]: Az 1. § (1) bekezdése a 36/2004. (IV. 1.) FVM rendelet 1. §-ával megállapított, a 15/2016. (III. 2.) FM rendelet 2. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § új (2) bekezdését a 36/2004. (IV. 1.) FVM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva. Az 1. § (2) bekezdése a 15/2016. (III. 2.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § eredeti (2) bekezdésének számozását a 36/2004. (IV. 1.) FVM rendelet 2. §-a (3) bekezdésre változtatta.
+[^3]: Az 1. § (3) bekezdése az 59/2020. (XI. 30.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.

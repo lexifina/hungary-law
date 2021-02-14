@@ -62,86 +62,62 @@
 
 Mezőgazdasági és erdészeti gépkezelői jogosítvány
 
-| a) A jogosítvány külső (cím) oldala |
+A mezőgazdasági és erdészeti gépkezelői jogosítvány a következőket tartalmazza:
 
-FÖLDMŰVELÉSÜGYI MINISZTÉRIUM
+1. a kiállító hatóság megnevezése;
 
-| Mezőgazdasági és erdészeti gépkezelői jogosítvány |
+2. a mezőgazdasági és erdészeti gépkezelői jogosítvány megnevezése;
 
-b) A jogosítvány belső (borítólapokon levő) oldalai
+3. a jogosítvány nyilvántartási száma;
 
-Elülső borítólapon:
+4. a jogosítvány tulajdonosának
 
-........................ / 20 ............
+4.1. neve,
 
-a jogosítvány nyilvántartási száma
+4.2. születési helye és ideje,
 
-,
+4.3. anyja neve,
 
-név
+4.4. fényképe,
 
-aki .......... évben ................................... hónap ............. napján helységben született,
+4.5. aláírása;
 
-anyja neve: , a jogosítványba bejegyzett gépek kezelésére jogosult.
+5. a jogosítványba bejegyzett gépek kezelésére való jogosultság feltüntetése;
 
-Kelt ....................................., 20........ év ............. hó ........ nap.
+6. a gépkezelői jogosítvánnyal kapcsolatos következő tudnivalók:
 
-3 × 4 cm fénykép
+6.1. a gépkezelői jogosítvány jármű vezetésére nem jogosít,
 
-|  | ...............................................................................………… |
+6.2. a gépkezelői jogosítvány tulajdonosa a géppel végzett munka időtartamára köteles a gépkezelői jogosítványt magánál tartani, és azt hatósági személy, továbbá a munkáltató, valamint a felügyeleti szervek képviselőjének felhívására bemutatni,
 
-|  | a kiállító szerv vezetője |
+6.3. a jogosítványba tett újabb bejegyzéseket haladéktalanul be kell mutatni a munkáltató képviselőjének,
 
-P. H.
+6.4. az igazolvány tulajdonosa az előírt időszakos orvosi vizsgálatokon köteles megjelenni, amelynek elmulasztása a gépkezelői jogosultság megszűnését vonja maga után;
 
-Hátulsó borítólapon:
+7. keltezés;
 
-TUDNIVALÓK:
+8. a kiállító hatóság vezetőjének aláírása;
 
-A gépkezelői jogosítvány jármű vezetésére nem jogosít.
+9. a jogosultsággal kapcsolatos következő bejegyzések:
 
-A gépkezelői jogosítvány tulajdonosa a géppel végzett munka időtartamára köteles magánál tartani és azt hatósági személy, továbbá a munkáltató, valamint a felügyeleti szervek illetékes képviselőjének felhívására bemutatni.
+9.1. a gépkezelői jogosultság megszerzésének időpontja,
 
-Haladéktalanul be kell mutatni a munkáltató illetékes képviselőjének a jogosítványba tett újabb bejegyzéseket is.
+9.2. a mezőgazdasági, erdészeti gép megnevezése,
 
-Az igazolvány tulajdonosa az előírt időszakos orvosi vizsgálatokon köteles megjelenni.
+9.3. keltezés,
 
-Ennek elmulasztása a gépkezelői jogosultság megszűnését vonja maga után.
+9.4. a kiállító hatóság vezetőjének aláírása;
 
-|  | ................................................................................................. |
+10. az egészségügyi alkalmasságra vonatkozó következő adatok:
 
-|  | a jogosítvány tulajdonosának aláírása |
+10.1. egészségügyi alkalmasság lejáratának időpontja,
 
-c) A jogosítvány 3–6. oldala
+10.2. keltezés,
 
-A) A JOGOSULTSÁGGAL KAPCSOLATOS BEJEGYZÉSEK
+10.3. orvosi megjegyzések,
 
-Gépkezelői jogosultság megszerzésének időpontja:
+10.4. orvos aláírása és bélyegzőlenyomata;
 
-Az adott rendeltetésű gép megnevezése:
+11. egyéb bejegyzések.
 
-Kelt: ........................, .................. év .................. hó ......... nap.
-
-|  | ................................................................................………… |
-
-|  | a kiállító szerv vezetője |
-
-d) A jogosítvány 7–10. oldala
-
-B) ORVOSI ÉRVÉNYESÍTÉS
-
-Érvényes: ........................ év ............................. hó ..........-ig.
-
-Kelt: ........................, .................. év .................. hó ......... nap.
-
-Orvosi megjegyzések:
-
-|  | .........….......................................................................……… |
-
-|  | aláírás |
-
-e) A jogosítvány 11–12. oldala
-
-C) EGYÉB BEJEGYZÉSEK
-
-[^16]: A 2. számú melléklet a 36/2015. (VI. 30.) FM rendelet 3. § d) pontja szerint módosított szöveg.
+[^16]: A 2. számú melléklet az 59/2020. (XI. 30.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.

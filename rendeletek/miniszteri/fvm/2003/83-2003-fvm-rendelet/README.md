@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-83-20-8
 | 2016-02-19 | 2003-83-20-82.8 | 8/2016. (II. 11.) FM rendelet |
 | 2016-03-03 | 2003-83-20-82.9 | 36/2004. (IV. 1.) FVM rendelet |
 | 2017-01-01 | 2003-83-20-82.10 | 89/2016. (XII. 29.) FM rendelet |
+| 2021-02-14 | 2003-83-20-82.11 | 59/2020. (XI. 30.) AM rendelet |
