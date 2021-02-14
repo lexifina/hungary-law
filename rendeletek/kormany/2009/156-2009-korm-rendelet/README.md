@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2021-01-28 | 2009-156-20-22.43 | 18/2021. (I. 27.) Korm. rendelet |
 | 2021-01-31 | 2009-156-20-22.44 | 289/2018. (XII. 21.) Korm. rendelet |
 | 2021-02-01 | 2009-156-20-22.45 | 713/2020. (XII. 30.) Korm. rendelet |
+| 2021-02-14 | 2009-156-20-22.46 | 722/2020. (XII. 31.) Korm. rendelet |

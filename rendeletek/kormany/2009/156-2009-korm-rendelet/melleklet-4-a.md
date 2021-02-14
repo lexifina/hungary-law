@@ -14,7 +14,7 @@
 
 | H4 | A járművezető olyan járművezetői kártyával vezet, amelynek nem ő a jogosultja | RSJ | 600 000 | járművezető |
 
-| H5 | A járművezető olyan járművezetői kártyával vezet, amelyet a valóságnak nem megfelelő nyilatkozatok és/vagy hamis okmányok alapján szerzett meg (úgy tekintendő, mintha járművezetői kártya nélkül vezetne) | RSJ | 600 000 | járművezető |
+| H5 | Járművezetői kártya nélküli vezetés vagy a járművezető olyan járművezetői kártyával vezet, amelyet a valóságnak nem megfelelő nyilatkozatok és/vagy hamisokmányok alapján szerzett meg (úgy tekintendő, mintha járművezetői kártya nélkül vezetne) | RSJ | 800 000 | járművezető |
 
 | H6 | A menetíró készülék nem működik megfelelően (pl.: nem került sor a menetíró készülék megfelelő felülvizsgálatára, kalibrálására és plombálására) | NSJ | 300 000 | szállító |
 
@@ -78,69 +78,69 @@
 
 | H28 | A lap használatba vétele kezdetének vagy végének ideje hiányzik | SJ | 50 000 | járművezető |
 
-|  | H29 | A lap használatba vétele kezdetének vagy végének helye hiányzik | EJ | 20 000 | járművezető |
+| H29 | A lap használatba vétele kezdetének vagy végének helye hiányzik | EJ | 20 000 | járművezető |
 
-|  | H30 | Az adatrögzítő lapról hiányzik a rendszám | EJ | 20 000 | járművezető |
+| H30 | Az adatrögzítő lapról hiányzik a rendszám | EJ | 20 000 | járművezető |
 
-|  | H31 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (első menet előtt) | SJ | 50 000 | járművezető |
+| H31 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (első menet előtt) | SJ | 50 000 | járművezető |
 
-|  | H32 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (utolsó menet végén) | EJ | 20 000 | járművezető |
+| H32 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (utolsó menet végén) | EJ | 20 000 | járművezető |
 
-|  | H33 | Az adatrögzítő lapról hiányzik a járműcsere időpontja | EJ | 20 000 | járművezető |
+| H33 | Az adatrögzítő lapról hiányzik a járműcsere időpontja | EJ | 20 000 | járművezető |
 
-|  | H34 | Az ország betűjele beírásának elmulasztása a menetíró készülékbe | EJ | 20 000 | járművezető |
+| H34 | Az ország betűjele beírásának elmulasztása a menetíró készülékbe | EJ | 20 000 | járművezető |
 
-|  | I | Adatok bemutatása |
+| I | Adatok bemutatása |
 
-|  | I1 | Ellenőrzés megtagadása, vagy jármű visszatartása esetén a helyszín engedély nélküli elhagyása | NSJ | 800 000 | járművezető |
+| I1 | Ellenőrzés megtagadása, vagy jármű visszatartása esetén a helyszín engedély nélküli elhagyása | NSJ | 800 000 | járművezető |
 
-|  | szállító |
+| szállító |
 
-|  | I2 | A járművezető nem tudja bemutatni az adott napra és a megelőző 28 napra vonatkozóan rögzített információkat | NSJ | 400 000 | járművezető |
+| I2 | A járművezető nem tudja bemutatni az adott napra és az azt megelőző, jogszabály által meghatározott időszakra vonatkozóan rögzített információkat | NSJ | 400 000 | járművezető |
 
-|  | I3 | A járművezető nem tudja bemutatni a járművezetői kártyához kapcsolódó információkat (ha rendelkezik járművezetői kártyával) | NSJ | 400 000 | járművezető |
+| I3 | A járművezető nem tudja bemutatni a járművezetői kártyához kapcsolódó információkat (ha rendelkezik járművezetői kártyával) | NSJ | 400 000 | járművezető |
 
-|  | I4 | A járművezető nem tudja bemutatni az adott napon és az azt megelőző 28 nap során készített kézi feljegyzéseket és kinyomatokat | NSJ | 400 000 | járművezető |
+| I4 | A járművezető nem tudja bemutatni az adott napon és az azt megelőző, jogszabály által meghatározott időszakra vonatkozó kézi feljegyzéseket és kinyomatokat | NSJ | 400 000 | járművezető |
 
-|  | I5 | A járművezető nem tudja bemutatni a járművezetői kártyát | NSJ | 400 000 | járművezető |
+| I5 | A járművezető nem tudja bemutatni a járművezetői kártyát | NSJ | 400 000 | járművezető |
 
-|  | J | Hibás működés |
+| J | Hibás működés |
 
-|  | J1 | A menetíró készülék javítását nem engedéllyel rendelkező | NSJ | 200 000 | szállító |
+| J1 | A menetíró készülék javítását nem engedéllyel rendelkező | NSJ | 200 000 | szállító |
 
-|  | szerelő vagy műhely végezte |
+| szerelő vagy műhely végezte |
 
-|  | J2 | A járművezető nem jegyez be minden előírt információt azon időszakokra vonatkozóan, amelyekben a menetíró készülék üzemképtelensége vagy hibás működése miatt már nem rögzített információkat | NSJ | 300 000 | járművezető |
+| J2 | A járművezető nem jegyez be minden előírt információt azon időszakokra vonatkozóan, amelyekben a menetíró készülék üzemképtelensége vagy hibás működése miatt már nem rögzített információkat | NSJ | 300 000 | járművezető |
 
-|  | J3 | A javítást nem végezték el útközben (Ha a jármű nem tud visszatérni a telephelyre az üzemzavar-fellépésnek vagy a hibás működés megállapításának napjától számított egy héten belül) | NSJ | 100 000 | szállító járművezető |
+| J3 | A javítást nem végezték el útközben (Ha a jármű nem tud visszatérni a telephelyre az üzemzavar-fellépésnek vagy a hibás működés megállapításának napjától számított egy héten belül) | NSJ | 100 000 | szállító járművezető |
 
-|  | L | Kézi bejegyzések a kinyomatokon |
+| L | Kézi bejegyzések a kinyomatokon |
 
-|  | L1 | Az ideiglenes lapról hiányzik a járművezető kártyájának száma, illetve neve, illetve vezetői engedélyének száma: |  |  |  |
+| L1 | Az ideiglenes lapról hiányzik a járművezető kártyájának száma, illetve neve, illetve vezetői engedélyének száma: |  |  |  |
 
-|  |  | a) amennyiben az azonosítás a hiányzó adatok miatt lehetetlen | NSJ | 200 000 | járművezető |
+|  | a) amennyiben az azonosítás a hiányzó adatok miatt lehetetlen | NSJ | 200 000 | járművezető |
 
-|  |  | b) amennyiben azonosítható | EJ | 30 000 |  |
+|  | b) amennyiben azonosítható | EJ | 30 000 |  |
 
-|  | L2 | Az ideiglenes lapról hiányzik az aláírás | EJ | 30 000 | járművezető |
+| L2 | Az ideiglenes lapról hiányzik az aláírás | EJ | 30 000 | járművezető |
 
-|  | L3 | A járművezetői kártya elvesztéséről vagy eltulajdonításáról azon tagállam hatáskörrel rendelkező hatóságánál teendő hivatalos bejelentés elmulasztása, amelynek területén a kártyalopás történt | SJ | 150 000 | járművezető |
+| L3 | A járművezetői kártya elvesztéséről vagy eltulajdonításáról azon tagállam hatáskörrel rendelkező hatóságánál teendő hivatalos bejelentés elmulasztása, amelynek területén a kártyalopás történt | SJ | 150 000 | járművezető |
 
-|  | M | A menetíró készülék kapcsán típusjóváhagyásra, menetíró szerelőműhelyre, menetíró szerelőre vonatkozó rendelkezések |
+| M | A menetíró készülék kapcsán típusjóváhagyásra, menetíró szerelőműhelyre, menetíró szerelőre vonatkozó rendelkezések |
 
-|  | M1 | Típusjóváhagyással nem rendelkező menetíró készülék kereskedelmi forgalmazása | RSJ | 300 000 | forgalmazó |
+| M1 | Típusjóváhagyással nem rendelkező menetíró készülék kereskedelmi forgalmazása | RSJ | 300 000 | forgalmazó |
 
-|  | M2 | Adatrögzítő lap típusjóváhagyás nélküli forgalmazása | RSJ | 300 000 | forgalmazó |
+| M2 | Adatrögzítő lap típusjóváhagyás nélküli forgalmazása | RSJ | 300 000 | forgalmazó |
 
-|  | M3 | Menetíró szerelőműhely engedély nélküli működtetése | RSJ | 1 000 000 | menetíró szerelőműhely üzemeltetője |
+| M3 | Menetíró szerelőműhely engedély nélküli működtetése | RSJ | 1 000 000 | menetíró szerelőműhely üzemeltetője |
 
-|  | M4 | Menetíró szerelő tevékenység engedély nélküli végzése | RSJ | 300 000 | a tevékenységet végző személy |
+| M4 | Menetíró szerelő tevékenység engedély nélküli végzése | RSJ | 300 000 | a tevékenységet végző személy |
 
-|  | M5 | Külső kalibrálási tevékenység végzése a közlekedési hatóság részére történő bejelentés nélkül | NSJ | 300 000 | a menetíró szerelőműhely üzemeltetője |
+| M5 | Külső kalibrálási tevékenység végzése a közlekedési hatóság részére történő bejelentés vagy – amennyiben az szükséges – az illetékes közlekedési hatóság által egyedi kérelemre kiadott engedély nélkül | NSJ | 300 000 | a menetíró szerelő-műhely üzemeltetője |
 
-|  | M6 | Elveszett vagy egyéb ok miatt működésképtelenné vált tachográf-kártya bejelentési kötelezettségének elmulasztása | NSJ | 300 000 | a tevékenységet végző személy |
+| M6 | Elveszett vagy egyéb ok miatt működésképtelenné vált tachográf-kártya bejelentési kötelezettségének elmulasztása | NSJ | 300 000 | a tevékenységet végző személy |
 
-|  | M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | NSJ | 300 000 | a menetíró szerelőműhely üzeme |
+| M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | NSJ | 300 000 | a menetíró szerelőműhely üzeme |
 
 4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^74]
 
