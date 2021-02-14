@@ -1,1 +1,3 @@
-## „(3a) A (3) bekezdésben foglalt feltételeknek a szolgáltatás igénybevételéről szóló megállapodás aláírásának időpontjában kell fennállnia, és azokat a szolgáltatás igénybevételének időtartama alatt folyamatosan fennállónak kell tekinteni.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
