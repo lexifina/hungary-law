@@ -1,1 +1,3 @@
-## 1. § Az Aggtelek-Rudabánya-Szendrői hegység földtani alapszelvényeinek védetté nyilvánításáról szóló 13/1991. (XII. 24.) KTM rendelet (a továbbiakban: 13/1991. KTM rendelet) Melléklete helyébe az 1. melléklet lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
