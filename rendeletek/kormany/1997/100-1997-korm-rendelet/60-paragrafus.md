@@ -1,10 +1,10 @@
-60. §[^353] (1) Az érettségi vizsgán végzett munkáért
+60. §[^364] (1) Az érettségi vizsgán végzett munkáért
 
 a) a vizsgabizottság és a tantárgyi bizottság elnökének, a szaktanárnak, a kérdező tanárnak, a vizsgabizottság jegyzőjének vizsgáztatási díj,
 
 b) a vizsgabiztosnak, a felügyelő tanárnak, a helyettesnek, valamint a kormányhivatal által működtetett vizsgabizottság kivételével az igazgatónak díjazás
 
-## jár.
+jár.
 
 (2) A vizsgáztatási díj nem lehet kevesebb a vizsgáztatási alapdíj (a továbbiakban: alapdíj) százalékában meghatározott összegnél. Az alapdíj összege százegyezer-ötszáz forint.
 
@@ -24,7 +24,7 @@ f) a tantárgyi bizottság elnöke részére legalább az alapdíj huszonöt sz�
 
 g) a tantárgyi bizottság kérdező tanára részére legalább az alapdíj tizenöt százalékában, illetve ha ezt meghaladja, a tantárgyi bizottságba beosztott összes vizsgázó száma és az alapdíj kettő százaléka szorzata
 
-## eredményeként kell megállapítani.
+eredményeként kell megállapítani.
 
 (4) Ha a szaktanári és a kérdező tanári feladatokat azonos személy látja el, a vizsgadíj mind a kettő jogcímen megilleti.
 
@@ -48,4 +48,4 @@ d) háromszorosánál, ha a vizsgázók száma meghaladja a hetvenet.
 
 (10) Az e §-ban szabályozott díjak közül a vizsgabizottság elnökével, valamint az emelt szintű vizsgáztatással kapcsolatos költségeket a kormányhivatal, a kormányhivatal által működtetett vizsgabizottság esetén a vizsgabizottság elnökével kapcsolatos költségeket a Hivatal, minden egyéb költséget a vizsgabizottságot működtető intézmény köteles fedezni. A díjat, díjazást száz forintra kerekítve kell megállapítani.
 
-[^353]: A 60. § a 36/2015. (III. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^364]: A 60. § a 36/2015. (III. 6.) Korm. rendelet 8. §-ával megállapított szöveg.

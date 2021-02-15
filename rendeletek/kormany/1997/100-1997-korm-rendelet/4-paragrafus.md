@@ -1,22 +1,22 @@
-4. §[^4] (1) Az érettségi vizsga egyes vizsgatárgyaiból középszinten vagy emelt szinten tehető érettségi vizsga.
+4. §[^5] (1) Az érettségi vizsga egyes vizsgatárgyaiból középszinten vagy emelt szinten tehető érettségi vizsga.
 
-(2)[^5] A gimnázium és a szakgimnázium a tizenegyedik–tizenkettedik évfolyamon a kötelező vizsgatárgyból biztosítja, hogy a tanuló – választása szerint – mind a középszintű, mind az emelt szintű érettségi vizsgára fel tudjon készülni. A szakközépiskola az érettségi vizsgára felkészítő évfolyamokon a kötelező közismereti vizsgatárgyból biztosítja, hogy a tanuló a középszintű érettségi vizsgára fel tudjon készülni.
+(2)[^6] A gimnázium, a szakgimnázium és a technikum (a továbbiakban együtt: középiskola) a közismereti oktatás két befejező évfolyamán a kötelező vizsgatárgyból biztosítja, hogy a tanuló – választása szerint – mind a középszintű, mind az emelt szintű érettségi vizsgára fel tudjon készülni. A szakgimnázium és a technikum az érettségi vizsgára felkészítő két évfolyamos képzésekben a kötelező közismereti vizsgatárgyból biztosítja, hogy a tanuló a középszintű érettségi vizsgára fel tudjon készülni.
 
-(2a)[^6] A szakgimnázium biztosítja, hogy a tanuló
+(2a)[^7] A szakgimnázium biztosítja, hogy a tanuló
 
 a) képzési ágazatának megfelelő ágazati,
 
-b)[^7] ágazaton belüli specializáció
+b)[^8] ágazaton belüli specializáció
 
-## szakmai vizsgatárgya érettségi vizsgájára fel tudjon készülni.
+szakmai vizsgatárgya érettségi vizsgájára fel tudjon készülni.
 
-(3)[^8] A gimnázium legalább két, a szakgimnázium az ágazati és ágazaton belüli specializáció szakmai vizsgatárgyon kívül legalább egy vizsgatárgyból a helyi tantervében meghatározottak szerint teszi lehetővé az emelt szintű érettségi vizsgára történő felkészülést. E döntéséhez kikéri az iskolai diákönkormányzat véleményét. Az emelt szintre történő felkészítés mellett a kötelező érettségi vizsgatárgyakon kívül gimnáziumban legalább három, szakgimnáziumban legalább kettő vizsgatárgyból lehetővé kell tenni a középszintű vizsgára történő felkészülést. A (2) és (3) bekezdés alkalmazásában az idegen nyelv vizsgatárgyak egy vizsgatárgynak minősülnek.
+(3)[^9] A gimnázium legalább két, a szakgimnázium és a technikum – az érettségi vizsgára felkészítő két évfolyamos képzések kivételével – a kötelező érettségi vizsgatárgyakon kívül egy vizsgatárgyból a helyi tantervében, oktatási programjában (a továbbiakban együtt: helyi tanterv) meghatározottak szerint lehetővé teszi az emelt szintű érettségi vizsgára történő felkészülést. E döntéséhez kikéri az iskolai diákönkormányzat véleményét. Az emelt szintre történő felkészítés mellett a kötelező érettségi vizsgatárgyakon kívül gimnáziumban legalább három, szakgimnáziumban és technikumban legalább kettő vizsgatárgyból a helyi tantervben meghatározottak szerint lehetővé kell tenni a középszintű vizsgára történő felkészülést. A (2) és (3) bekezdés alkalmazásában az idegen nyelv vizsgatárgyak egy vizsgatárgynak minősülnek.
 
-(4)[^9] A középiskolák az emelt szintű érettségi vizsgára történő felkészítés feladatait egymás közötti megállapodás alapján közösen is megoldhatják.
+(4)[^10] A középiskolák az emelt szintű érettségi vizsgára történő felkészítés feladatait egymás közötti megállapodás alapján közösen is megoldhatják.
 
-[^4]: A 4. § a 16/2000. (II. 11.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (2) bekezdését újonnan a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 311/2016. (X. 14.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^6]: A 4. § (2a) bekezdését az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^7]: A 4. § (2a) bekezdés b) pontja a 18/2018. (II. 14.) Korm. rendelet 3. § b) pontjával megállapított szöveg.
-[^8]: A 4. § (3) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 5/2016. (I. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 18/2018. (II. 14.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^9]: A 4. § (4) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^5]: A 4. § a 16/2000. (II. 11.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (2) bekezdését újonnan a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2a) bekezdését az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^8]: A 4. § (2a) bekezdés b) pontja a 18/2018. (II. 14.) Korm. rendelet 3. § b) pontjával megállapított szöveg.
+[^9]: A 4. § (3) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^10]: A 4. § (4) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
