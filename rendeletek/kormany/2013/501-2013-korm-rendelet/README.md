@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-501-20-
 | 2019-10-05 | 2013-501-20-22.7 | 232/2019. (X. 4.) Korm. rendelet |
 | 2019-12-01 | 2013-501-20-22.8 | 259/2019. (X. 31.) Korm. rendelet |
 | 2020-02-15 | 2013-501-20-22.9 | 13/2020. (II. 7.) Korm. rendelet |
+| 2021-02-15 | 2013-501-20-22.10 | 65/2021. (II. 15.) Korm. rendelet |

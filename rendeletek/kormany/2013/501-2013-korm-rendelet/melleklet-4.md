@@ -48,6 +48,6 @@
 
 ## *Előző évi rendelési szám alapján
 
-4. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^56]
+4. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^57]
 
-[^56]: A 4. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (4) bekezdés iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 8. pontja.
+[^57]: A 4. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (4) bekezdés iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 8. pontja.
