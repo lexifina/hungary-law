@@ -52,17 +52,9 @@ c) több teljes településre vagy több település részeire kiterjedő körze
 
 d) ha a körzet ellátási területéhez külterületi lakott hely is tartozik 43 000 Ft.
 
-(4a)[^148] A háziorvosi szolgáltató havonta – szakdolgozónként, legalább heti 20 órában történő foglalkoztatás esetén – a következő szakdolgozói kiegészítő díjazásra jogosult:
+(4a)[^148]
 
-a) a legalább heti 40 órában foglalkoztatott szakdolgozó esetén 20 000 Ft,
-
-b) a legalább heti 30 órában foglalkoztatott szakdolgozó esetén 15 000 Ft,
-
-c) a legalább heti 20 órában foglalkoztatott szakdolgozó esetén 10 000 Ft,
-
-amelyet a háziorvosi szolgáltató a szakdolgozót közvetlenül megillető bérének, jövedelmének kiegészítésére köteles fordítani.
-
-(4b)[^149] A (4a) bekezdés a)–c) pontjában foglaltaktól eltérő mértékű foglalkoztatás esetén a háziorvosi szolgáltató időarányos díjazásra jogosult.
+(4b)[^149]
 
 (5)[^150] A területi ellátási kötelezettség nélküli háziorvosi szolgáltató havi 78 000 Ft összegű kiegészítő díjra jogosult, ha a szolgálathoz bejelentkezett biztosítottak száma gyermekorvosi szolgálat esetében meghaladja a 300, felnőtt és vegyes szolgálat esetében a 600 főt. A kiegészítő díj az adott havi teljesítménydíjak utalásával egy időben történik.
 
@@ -85,8 +77,8 @@ amelyet a háziorvosi szolgáltató a szakdolgozót közvetlenül megillető bé
 [^145]: A 14. § (3) bekezdése d) pont db) alpontja a 151/2008. (V. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 192/2015. (VII. 21.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
 [^146]: A 14. § (3) bekezdése d) pontjának dc) alpontját a 151/2008. (V. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be. Lásd e módosító rendelet 11. § (6) bekezdését.
 [^147]: A 14. § (4) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^148]: A 14. § (4a) bekezdését a 40/2014. (II. 24.) Korm. rendelet 4. §-a iktatta be.
-[^149]: A 14. § (4b) bekezdését a 40/2014. (II. 24.) Korm. rendelet 4. §-a iktatta be.
+[^148]: A 14. § (4a) bekezdését a 40/2014. (II. 24.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte az 53/2021. (II. 9.) Korm. rendelet 13. § a) pontja.
+[^149]: A 14. § (4b) bekezdését a 40/2014. (II. 24.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte az 53/2021. (II. 9.) Korm. rendelet 13. § a) pontja.
 [^150]: A 14. § (5) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 4. § (2) bekezdése iktatta be, e módosító rendelet 13. § (1) bekezdése alapján a díjazást az OEP először a 2003. május hónapra vonatkozóan a havi teljesítmény-elszámolással utalványozza. A 14. § (5) bekezdése a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének b) pontja szerint módosított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést első alkalommal a 2005. január hónapra szóló kifizetések tekintetében kell alkalmazni.
 [^151]: A 14. § (6) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 4. § (2) bekezdése iktatta be, e módosító rendelet 13. § (2) bekezdése alapján 2004. január 1-jén lépett hatályba.
 [^152]: A 14. § (7) bekezdését a 112/2004. (IV. 28.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.

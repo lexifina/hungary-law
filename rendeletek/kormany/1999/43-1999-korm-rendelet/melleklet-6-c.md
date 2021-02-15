@@ -138,8 +138,8 @@
 
 ## az ellátásért felelős orvos azonosítója és aláírása
 
-6/C. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^652]
+6/C. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^656]
 
 A járóbeteg-szakellátás fix díja
 
-[^652]: A 6/C. számú mellékletet a 464/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^656]: A 6/C. számú mellékletet a 464/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-33/B. §[^423] (1) Betegszállításnak kell tekinteni
+33/B. §[^426] (1) Betegszállításnak kell tekinteni
 
 a) a beteg feltalálási helyén levett vizsgálati anyag – illetékes szakdolgozó által elrendelt – mobil mintavételi gyűjtőpontba, vagy közvetlenül a kijelölt vizsgáló helyre történő, valamint
 
@@ -38,4 +38,4 @@ c) a megrendelő személy beazonosítására alkalmas adatokat (név, munkahely 
 
 (11) Az (1) bekezdés szerinti vizsgálati anyag szállítása esetén az adatlapot a vizsgálati anyag szállítási elrendelő lap adatai alapján, mintánként, TAJ-számhoz köthetően kell kiállítani, az adatlapon a mintát adó személy TAJ-számán kívül egyéb személyes adatot nem kell szerepeltetni.
 
-[^423]: A 33/B. §-t az 557/2020. (XII. 4.) Korm. rendelet 4. §-a iktatta be.
+[^426]: A 33/B. §-t az 557/2020. (XII. 4.) Korm. rendelet 4. §-a iktatta be.

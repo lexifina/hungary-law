@@ -1,4 +1,4 @@
-| Millió forint |
+## Millió forint
 
 | Megnevezés | 2021. évi előirányzat |
 
@@ -30,7 +30,13 @@
 
 | 2. | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen | 27 028,2 |
 
-| 3. | Fogászati ellátás | 42 494,1 |
+|  | Fogászati ellátás |  |
+
+|  | Praxisfinanszírozás | 42 494,1 |
+
+|  | Fogorvosi, szakdolgozói bértámogatás | 24 583,0 |
+
+| 3. | Fogászati ellátás összesen | 67 077,1 |
 
 | 4. | Otthoni szakápolás | 5 596,8 |
 
@@ -48,11 +54,11 @@
 
 | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
-| Egészségügyi dolgozók 2018-2021. évi béremelésének fedezete | 365 441,1 |
+| Egészségügyi dolgozók 2018–2021. évi béremelésének fedezete | 365 441,1 |
 
 | Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete | 3 830,1 |
 
-| Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése | 15 029,1 |
+| Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem- kiegészítése | 15 029,1 |
 
 | Fiatal szakorvosok támogatása | 320,8 |
 
@@ -96,9 +102,9 @@
 
 | 14. | Nagyértékű gyógyszerfinanszírozás | 119 659,8 |
 
-| ÖSSZESEN | 1 840 438,5 |
+| ÖSSZESEN | 1 865 021,5 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^650]
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^654]
 
 Ambuláns adatlap
 
@@ -580,4 +586,4 @@ A felírt gyógyászati ellátás vények számát kell megadni
 
 39.
 
-[^650]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 124/2015. (V. 26.) Korm. rendelet 8. § a) pontja, a 413/2015. (XII. 23.) Korm. rendelet 19. § g) pontja és 20. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 19. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja, az 507/2017. (XII. 29.) Korm. rendelet 22. § (2) bekezdése, az 557/2020. (XII. 4.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^654]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 124/2015. (V. 26.) Korm. rendelet 8. § a) pontja, a 413/2015. (XII. 23.) Korm. rendelet 19. § g) pontja és 20. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 19. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja, az 507/2017. (XII. 29.) Korm. rendelet 22. § (2) bekezdése, az 557/2020. (XII. 4.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

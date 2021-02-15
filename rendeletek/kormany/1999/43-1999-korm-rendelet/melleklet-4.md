@@ -230,8 +230,8 @@
 
 | 5900 | 3916,6 | 3919,9 | 3923,3 | 3926,6 | 3929,9 | 3933,2 | 3936,5 | 3939,8 | 3943,1 | 3946,4 | 0,3 |
 
-4. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^648]
+4. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^652]
 
 NEM BEJELENTKEZETT BIZTOSÍTOTTAK ELLÁTÁSÁNAK NYILVÁNTARTÁSI ADATAI
 
-[^648]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
+[^652]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
