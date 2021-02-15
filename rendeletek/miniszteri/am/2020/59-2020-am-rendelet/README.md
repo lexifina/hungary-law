@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-59-20-7
 | 2020-12-05 | 2020-59-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-12-06 | 2020-59-20-7R.4 | 2010: CXXX. törvény |
 | 2021-02-14 | 2020-59-20-7R.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-02-15 | 2020-59-20-7R.6 | 2010: CXXX. törvény |
