@@ -1,0 +1,1 @@
+## „(6c) Technikumban a tanulói jogviszonyban az érettségi bizonyítvány akkor állítható ki, ha a vizsgázó sikeresen teljesítette a kötelező vizsgatárgyak érettségi vizsgáit, és emellett a technikum szakmai programjában számára előírt szakmai vizsgát sikeresen letette.”

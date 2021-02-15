@@ -1,0 +1,5 @@
+## 23. § Az R2. 37/N. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(3) Ha a fenntartó visszafizetési kötelezettségének határidőben nem tesz eleget, a késedelembe esés napjától a jegybanki alapkamat kétszeresének 365-öd részével megegyező mértékű késedelmi pótlékot fizet addig a napig, amíg fizetési kötelezettségét nem teljesíti. Késedelmi kamat számításakor a jegybanki alapkamaton a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamatot kell érteni.
+
+## (4) Az Igazgatóság a fenntartó teljesítési határidő lejárta előtt benyújtott kérelmére a fizetési kötelezettség teljesítésére legfeljebb tizenkét havi részletfizetést engedélyezhet. A részletfizetéssel érintett összeget a kérelem benyújtásának napját magában foglaló naptári félév első napján érvényes jegybanki alapkamat terheli. A részletfizetésben engedélyezett havi összeg a fenntartó kérelmére a folyósítandó támogatásból is levonható. A részletfizetési kérelemről az Igazgatóság soron kívül dönt. Köznevelési tevékenységének megszüntetése vagy szüneteltetése miatt támogatásban nem részesülő fenntartó részére részletfizetés nem engedélyezhető.”
