@@ -1,0 +1,5 @@
+4. § (1) Az arcképes azonosítást biztosító videotechnológiához szükséges informatikai rendszert – az azonosítási rendszer tekintetében az e-közigazgatásért felelős miniszter (a továbbiakban: miniszter) bevonásával – az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője teszi elérhetővé térítésmentesen az EESZT-hez csatlakozott egészségügyi szolgáltatók részére.
+
+(2) A miniszter a beteg természetes személyazonosító adatait, lakcímét, arcképmását, az okmány adatait, valamint a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/A. § (4) bekezdése szerinti titkosított összerendelési kapcsolati kódot az azonosítás és az adatátadás idejéig kezeli, azokat az okmányt nyilvántartó központi nyilvántartásból átveheti, valamint jogosult az okmányról készült másolatot készíteni és azt az azonosítás és az adatátadás idejéig kezelni.
+
+(3) Az EESZT működtetője az (1) bekezdésben foglalt feladatai érdekében térítésmentesen jogosult a feladatellátáshoz szükséges szabályozott elektronikus ügyintézési szolgáltatások és központi elektronikus ügyintézési szolgáltatások használatára.
