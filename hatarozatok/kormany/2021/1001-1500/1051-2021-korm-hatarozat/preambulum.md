@@ -1,0 +1,1 @@
+A Kormány a Budapesti Agglomerációhoz tartozó Pest megyei településeken működő köznevelési intézmények infrastrukturális fejlesztéseinek előkészítéséről szóló 1692/2019. (XII. 10.) Korm. határozat 9. pont b) alpontja szerinti feladat végrehajtása érdekében
