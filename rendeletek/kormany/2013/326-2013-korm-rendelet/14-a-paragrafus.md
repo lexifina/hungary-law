@@ -40,7 +40,7 @@ h) a (3) bekezdésben foglalt értesítést követő hónap első napjától
 
 ## kell visszasorolni és az illetményét a besorolásának megfelelően megállapítani, amelyhez a pedagógus hozzájárulása nem szükséges.
 
-(5) Ha a pedagógus visszasorolására az (1) bekezdés a)–d) pontja alapján kerül sor, a visszasorolás időpontját követő két éven belül a pedagógus a fokozat elérése érdekében nem jelentkezhet a minősítési eljárásra.
+(5)[^136] Ha a pedagógus visszasorolására az (1) bekezdés b) és d) pontja alapján kerül sor, a visszasorolás időpontját követő két éven belül a pedagógus a fokozat elérése érdekében nem jelentkezhet a minősítési eljárásra.
 
 [^129]: A 14/A. § (1) bekezdés f) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.1. alpontja szerint módosított szöveg.
 [^130]: A 14/A. § (1) bekezdés g) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.2. alpontja szerint módosított szöveg.
@@ -49,3 +49,4 @@ h) a (3) bekezdésben foglalt értesítést követő hónap első napjától
 [^133]: A 14/A. § (4) bekezdés b) pontja a 308/2018. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^134]: A 14/A. § (4) bekezdés c) pontja a 196/2019. (VIII. 1.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
 [^135]: A 14/A. § (4) bekezdés d) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.3. alpontja szerint módosított szöveg.
+[^136]: A 14/A. § (5) bekezdése a 65/2021. (II. 15.) Korm. rendelet 31. §-a szerint módosított szöveg.

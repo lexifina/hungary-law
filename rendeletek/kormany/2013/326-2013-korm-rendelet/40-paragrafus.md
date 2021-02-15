@@ -1,5 +1,5 @@
-## 39/Q. §[^278] A 2020. június 30-tól Kutatótanár fokozatba sorolt pedagógusok pedagógiai-szakmai ellenőrzési és pedagógusminősítési szakértői, illetve szaktanácsadói feladatokat nem látnak el.
+## 39/R. §[^280] Aki a 3. § (1) bekezdése alapján a 2022. évben a Pedagógus I. fokozatba történő besorolásától számított 9 év szakmai gyakorlatot szerzett, minősítési eljárásban legkésőbb 2023. évben köteles részt venni.
 
 ## 17. Hatályon kívül helyező rendelkezés
 
-[^278]: A 39/Q. §-t a 278/2019. (XI. 21.) Korm. rendelet 12. §-a iktatta be.
+[^280]: A 39/R. §-t a 65/2021. (II. 15.) Korm. rendelet 30. §-a iktatta be.

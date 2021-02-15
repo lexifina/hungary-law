@@ -2,17 +2,17 @@
 
 16. § (1) A magasabb vezetői megbízás megszűnését megelőzően legalább tíz évig intézményvezetői megbízással rendelkező pedagógus „címzetes igazgatói” címben és pótlékban részesül, amennyiben intézményvezetői megbízásának lejártát vagy megszűnését követően továbbra is a korábban általa vezetett intézményben marad. A pótlék mértéke a volt intézményvezető korábbi vezetői pótlékának huszonöt százaléka.
 
-(2)[^140] Osztályfőnöki pótlékra jogosult az a pedagógus, aki általános vagy középfokú iskolában osztályfőnöki feladatot, kollégiumban önálló tanulócsoport-vezetői feladatot, alapfokú művészeti iskolában tanszakvezetői feladatot lát el.
+(2)[^141] Osztályfőnöki pótlékra jogosult az a pedagógus, aki általános vagy középfokú iskolában osztályfőnöki feladatot, kollégiumban önálló tanulócsoport-vezetői feladatot, alapfokú művészeti iskolában tanszakvezetői feladatot lát el.
 
-(3)[^141] A munkaközösség-vezetői (tagozatvezetői, szakosztályvezetői) pótlékra az a pedagógus jogosult, aki intézményi munkaközösség-vezetői (tagozatvezetői, szakosztályvezetői) vagy intézmények közötti munkaközösség-vezetői (tagozatvezetői, szakosztályvezetői) feladatot lát el.
+(3)[^142] A munkaközösség-vezetői (tagozatvezetői, szakosztályvezetői) pótlékra az a pedagógus jogosult, aki intézményi munkaközösség-vezetői (tagozatvezetői, szakosztályvezetői) vagy intézmények közötti munkaközösség-vezetői (tagozatvezetői, szakosztályvezetői) feladatot lát el.
 
-(4)[^142]
+(4)[^143]
 
-(4a)[^143]
+(4a)[^144]
 
 (5) A tagintézményvezető-helyettes és az intézményegységvezető-helyettes az intézményvezető-helyettesi pótlék alsó határa alapján megállapított pótlékra jogosult.
 
-(5a)[^144] A nevelési-oktatási, valamint a többcélú köznevelési intézmény intézményvezetőjét az Nkt. 8. mellékletében meghatározott pótlék mértékét figyelembe véve az intézmény – tárgyévet megelőző tanév, nevelési év – október 1-jei gyermek- és tanulólétszáma alapján
+(5a)[^145] A nevelési-oktatási, valamint a többcélú köznevelési intézmény intézményvezetőjét az Nkt. 8. mellékletében meghatározott pótlék mértékét figyelembe véve az intézmény – tárgyévet megelőző tanév, nevelési év – október 1-jei gyermek- és tanulólétszáma alapján
 
 a) legalább ezeregy fő esetén a pótlékalap százhetven százaléka,
 
@@ -30,15 +30,15 @@ g) legfeljebb százötven fő esetén a pótlékalap legalább hatvan százalék
 
 mértékű pótlék illeti meg.
 
-(5b)[^145] A nevelési-oktatási, valamint a többcélú köznevelési intézmény intézményvezető-helyettesét az (5a) bekezdésben meghatározott mértékű pótlék ötven százaléka illeti meg.
+(5b)[^146] A nevelési-oktatási, valamint a többcélú köznevelési intézmény intézményvezető-helyettesét az (5a) bekezdésben meghatározott mértékű pótlék ötven százaléka illeti meg.
 
-(5c)[^146] A nevelési-oktatási, valamint a többcélú köznevelési intézmény tagintézmény-vezetőjét, intézményegység-vezetőjét az általuk vezetett tagintézmény, intézményegység (5a) bekezdés szerint megállapított gyermek- és tanulólétszáma alapján számított intézményvezetői pótlék ötven százaléka illeti meg.
+(5c)[^147] A nevelési-oktatási, valamint a többcélú köznevelési intézmény tagintézmény-vezetőjét, intézményegység-vezetőjét az általuk vezetett tagintézmény, intézményegység (5a) bekezdés szerint megállapított gyermek- és tanulólétszáma alapján számított intézményvezetői pótlék ötven százaléka illeti meg.
 
-(5d)[^147] A pedagógiai szakszolgálati intézmény vezetőjét a költségvetési törvényben az átlagbéralapú támogatás megállapítása szerint meghatározott számított létszám alapján illeti meg az (5a) bekezdésben meghatározott pótlék. Az intézményvezető helyettesét az (5b) bekezdésben meghatározott pótlék, a tagintézmény-vezetőjét pedig az (5c) bekezdésben meghatározott pótlék illeti meg.
+(5d)[^148] A pedagógiai szakszolgálati intézmény vezetőjét a költségvetési törvényben az átlagbéralapú támogatás megállapítása szerint meghatározott számított létszám alapján illeti meg az (5a) bekezdésben meghatározott pótlék. Az intézményvezető helyettesét az (5b) bekezdésben meghatározott pótlék, a tagintézmény-vezetőjét pedig az (5c) bekezdésben meghatározott pótlék illeti meg.
 
-(6)[^148] Nemzetiségi pótlékra az a pedagógus jogosult, aki
+(6)[^149] Nemzetiségi pótlékra az a pedagógus jogosult, aki
 
-a)[^149] nemzetiségi nyelvű óvodában, iskolában, kollégiumban állandó jelleggel nemzetiségi anyanyelven nevelő, oktató munkát végez, ha e tevékenységet a neveléssel-oktatással, tanórával, foglalkozással lekötött munkaidejének – a neveléssel-oktatással lekötött munkaidő alsó határa figyelembevételével –
+a)[^150] nemzetiségi nyelvű óvodában, iskolában, kollégiumban állandó jelleggel nemzetiségi anyanyelven nevelő, oktató munkát végez, ha e tevékenységet a neveléssel-oktatással, tanórával, foglalkozással lekötött munkaidejének – a neveléssel-oktatással lekötött munkaidő alsó határa figyelembevételével –
 
 aa) kevesebb, mint húsz százalékában, de legalább heti egy órában végzi, a pótlék alsó határával megegyező,
 
@@ -48,9 +48,9 @@ ac) legalább ötven százalékában végzi, a pótlék felső határával megeg
 
 b) óvodában, iskolában siket vagy nagyothalló gyermekek, tanulók nevelésénél, oktatásánál a jelnyelvet is alkalmazza, feltéve, hogy rendelkezik a szakértő jeltolmács vagy fordító jeltolmács szakképzettséggel.
 
-(7)[^150] Gyógypedagógiai pótlékra az a pedagógus jogosult, aki sajátos nevelési igényű gyermekek, tanulók óvodai nevelését, iskolai nevelés-oktatását, kollégiumi nevelését vagy fejlesztő nevelés-oktatását a szakértői bizottság szakvéleményében foglaltak szerint végzi, feltéve, ha kizárólag sajátos nevelési igényű gyermekekkel, tanulókkal foglalkozik, vagy ha az általa felkészített gyermekek, tanulók közül a sajátos nevelési igényű gyermekek, tanulók aránya a nevelési év, tanév első napján eléri a harminchárom százalékot.
+(7)[^151] Gyógypedagógiai pótlékra az a pedagógus jogosult, aki sajátos nevelési igényű gyermekek, tanulók óvodai nevelését, iskolai nevelés-oktatását, kollégiumi nevelését vagy fejlesztő nevelés-oktatását a szakértői bizottság szakvéleményében foglaltak szerint végzi, feltéve, ha kizárólag sajátos nevelési igényű gyermekekkel, tanulókkal foglalkozik, vagy ha az általa felkészített gyermekek, tanulók közül a sajátos nevelési igényű gyermekek, tanulók aránya a nevelési év, tanév első napján eléri a harminchárom százalékot.
 
-(8)[^151] A nehéz körülmények között végzett munkáért járó pótlékra az a pedagógus-munkakörben foglalkoztatott jogosult, aki
+(8)[^152] A nehéz körülmények között végzett munkáért járó pótlékra az a pedagógus-munkakörben foglalkoztatott jogosult, aki
 
 a) az óvodai nevelésben, nappali rendszerű általános vagy középfokú iskolai oktatásban, kollégiumban, pedagógiai szakszolgálatnál vagy e köznevelési intézmény olyan feladatellátási helyén dolgozik, amely a kedvezményezett települések besorolásáról és a besorolás feltételrendszeréről szóló kormányrendelettel kiadott jegyzékben a kedvezményezett települések között szereplő településen található, vagy
 
@@ -58,21 +58,21 @@ b) az Mt. szerinti általános teljes napi munkaidő alapulvételével meghatár
 
 (9) A pedagógus számára jogszabályban meghatározottak szerint az (1)–(8) bekezdésben meghatározott pótlékokon felül további pótlék is megállapítható.
 
-(10)[^152] Ha az ágazati pótlékot középfokú végzettséggel nem rendelkező munkavállaló vagy közalkalmazott részére kell fizetni, a középfokú végzettséghez kapcsolódó pótlékalappal számolt pótlékra jogosult.
+(10)[^153] Ha az ágazati pótlékot középfokú végzettséggel nem rendelkező munkavállaló vagy közalkalmazott részére kell fizetni, a középfokú végzettséghez kapcsolódó pótlékalappal számolt pótlékra jogosult.
 
-(11)[^153] A pedagógus előmeneteli rendszer hatálya alá tartozó foglalkoztatott a (9) bekezdésben foglaltak alapján a pótlék és illetményeltérítés nélkül számított illetménye tíz százalékának megfelelő ágazati szakmai pótlékra jogosult.
+(11)[^154] A pedagógus előmeneteli rendszer hatálya alá tartozó foglalkoztatott a (9) bekezdésben foglaltak alapján a pótlék és illetményeltérítés nélkül számított illetménye tíz százalékának megfelelő ágazati szakmai pótlékra jogosult.
 
-[^140]: A 16. § (2) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^141]: A 16. § (3) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 14. § (1) bekezdése szerint módosított szöveg.
-[^142]: A 16. § (4) bekezdését a 24/2020. (II. 24.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^143]: A 16. § (4a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2020. (II. 24.) Korm. rendelet 4. §-a.
-[^144]: A 16. § (5a) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
-[^145]: A 16. § (5b) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
-[^146]: A 16. § (5c) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
-[^147]: A 16. § (5d) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
-[^148]: A 16. § (6) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^149]: A 16. § (6) bekezdés a) pontja a 321/2019. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^150]: A 16. § (7) bekezdése a 249/2015. (IX. 8.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^151]: A 16. § (8) bekezdése a 307/2017. (X. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^152]: A 16. § (10) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 24. §-a iktatta be.
-[^153]: A 16. § (11) bekezdését a 24/2020. (II. 24.) Korm. rendelet 2. §-a iktatta be.
+[^141]: A 16. § (2) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^142]: A 16. § (3) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^143]: A 16. § (4) bekezdését a 24/2020. (II. 24.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^144]: A 16. § (4a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2020. (II. 24.) Korm. rendelet 4. §-a.
+[^145]: A 16. § (5a) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
+[^146]: A 16. § (5b) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
+[^147]: A 16. § (5c) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
+[^148]: A 16. § (5d) bekezdését a 24/2020. (II. 24.) Korm. rendelet 1. §-a iktatta be.
+[^149]: A 16. § (6) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^150]: A 16. § (6) bekezdés a) pontja a 321/2019. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^151]: A 16. § (7) bekezdése a 249/2015. (IX. 8.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^152]: A 16. § (8) bekezdése a 307/2017. (X. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^153]: A 16. § (10) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 24. §-a iktatta be.
+[^154]: A 16. § (11) bekezdését a 24/2020. (II. 24.) Korm. rendelet 2. §-a iktatta be.
