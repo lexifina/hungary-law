@@ -84,7 +84,7 @@ Az egészséges életmódra nevelés, az egészséges életvitel igényének ala
 
 – a gyermek egészségének védelme, edzése, óvása, megőrzése;
 
-– az egészséges életmód, a testápolás, a tisztálkodás, az étkezés, különösen a magas cukortartalmú ételek és italok, a magas só- és telítetlenzsír-tartalmú ételek fogyasztásának csökkentése, a zöldségek és gyümölcsök, illetve tejtermékek fogyasztásának ösztönzése, a fogmosás, az öltözködés, a pihenés, a betegségmegelőzés és az egészségmegőrzés szokásainak alakítása;
+– az egészséges életmód, a testápolás, a tisztálkodás, az étkezés, különösen a magas cukortartalmú ételek és italok, a magas só- és telítettzsír-tartalmú ételek fogyasztásának csökkentése, a zöldségek és gyümölcsök, illetve tejtermékek fogyasztásának ösztönzése, a fogmosás, az öltözködés, a pihenés, a betegségmegelőzés és az egészségmegőrzés szokásainak alakítása;
 
 – a gyermek fejlődéséhez és fejlesztéséhez szükséges egészséges és biztonságos környezet biztosítása;
 
@@ -312,7 +312,7 @@ A szociálisan érett gyermek:
 
 5. A kiemelt figyelmet igénylő gyermekek iskolaérettségi kritériumai tükrözik a befogadó intézmény elvárásait az iskolába kerülő gyermekekkel szemben.
 
-[^3]: Az 1. melléklet III. címe a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet III. címe a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított, a 65/2021. (II. 15.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^4]: Az 1. melléklet IV. cím Az óvoda kapcsolatai alcím 4. pontját a 137/2018. (VII. 25.) Korm. rendelet 1. §-a iktatta be.
 [^5]: Az 1. melléklet V. cím Verselés mesélés alcím 2. pontja a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. melléklet V. cím Verselés mesélés alcím 7. pontja a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
