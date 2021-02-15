@@ -46,6 +46,8 @@ u)[^14] az egyes tevékenységterületekhez kapcsolódó továbbképzések kifej
 
 v)[^15] az emberi erőforrások minisztere hatáskörébe tartozó egyes szakképesítések komplex szakmai vizsga szervezésére kijelölt intézményekről szóló 5/2013. (I. 18.) EMMI rendeletben megjelölt szakmai vizsgaszervezésre.
 
+w)[^16] a Jelnyelvoktatói Névjegyzék vezetésére.
+
 [^4]: A 3. § b) pontja a 486/2016. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^5]: A 3. § f) pontja a 325/2013. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § m) pontját a 136/2016. (VI. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 443. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
@@ -58,3 +60,4 @@ v)[^15] az emberi erőforrások minisztere hatáskörébe tartozó egyes szakké
 [^13]: A 3. § t) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
 [^14]: A 3. § u) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
 [^15]: A 3. § v) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 3. § w) pontját a 65/2021. (II. 15.) Korm. rendelet 29. §-a iktatta be.

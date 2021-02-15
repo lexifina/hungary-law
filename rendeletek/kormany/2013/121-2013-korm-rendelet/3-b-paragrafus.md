@@ -1,3 +1,3 @@
-## 3/A. §[^16] A Hivatal ellátja az Nkt. 44/A. §-ban meghatározott integrált nyomon követő rendszer (a továbbiakban: INYR) adatkezelői feladatait.
+## 3/A. §[^17] A Hivatal ellátja az Nkt. 44/A. §-ban meghatározott integrált nyomon követő rendszer (a továbbiakban: INYR) adatkezelői feladatait.
 
-[^16]: A 3/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 3. §-a iktatta be.
+[^17]: A 3/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 3. §-a iktatta be.

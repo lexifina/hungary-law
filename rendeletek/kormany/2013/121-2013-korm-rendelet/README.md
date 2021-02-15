@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-121-20-
 | 2020-01-01 | 2013-121-20-22.24 | 275/2019. (XI. 21.) Korm. rendelet |
 | 2020-02-15 | 2013-121-20-22.25 | 308/2018. (XII. 27.) Korm. rendelet |
 | 2020-03-01 | 2013-121-20-22.26 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-02-15 | 2013-121-20-22.27 | 65/2021. (II. 15.) Korm. rendelet |
