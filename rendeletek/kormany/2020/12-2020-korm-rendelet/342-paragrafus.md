@@ -20,8 +20,4 @@ ae) a szakképző intézmény fenntartásával kapcsolatos pénzügyi és gazdá
 
 af) a szakképző intézményt és fenntartóját érintő ellenőrzések eredményét,
 
-ag) a tankönyvjegyzékkel és a tankönyvrendeléssel kapcsolatos adatokat,
-
-ah) az Országos Statisztikai Adatfelvételi Program (a továbbiakban: OSAP) keretében a szakképző intézménytől begyűjtött adatokat és
-
 [^85]: A 342. § (1) bekezdés a) pontja a 319/2020. (VII. 1.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
