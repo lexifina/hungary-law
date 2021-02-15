@@ -1,3 +1,3 @@
-## 50/D. §[^247]
+50/E. §[^267]
 
-[^247]: Az 50/D. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 9. pontja.
+[^267]: Az 50/E. §-t a 365/2014. (XII. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 10. pontja.

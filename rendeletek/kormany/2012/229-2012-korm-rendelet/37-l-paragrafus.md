@@ -2,24 +2,24 @@
 
 ## 16/D. A támogatások elszámolása és ellenőrzése
 
-37/L. § (1)[^155] A fenntartó a 37/C. § (2)–(3) bekezdése szerinti létszámadatok alapján igénybe vett támogatásokkal – a 37/C. § (2) bekezdés a) pont ab) alpontja kivételével – a ténylétszám adatok figyelembevételével, a kincstár és a miniszter által közösen meghatározott és a kincstár honlapján közzétett adatlapon köznevelési intézményi, feladatellátási helyenkénti, valamint fenntartói szinten összesített módon számol el az Igazgatóságnak. A 37/C. § (2) bekezdés a) pont ab) alpontja szerinti támogatás esetében a fenntartó a tárgyévben a minősített pedagógusok tényleges foglalkoztatási idejét figyelembe véve a teljes munkaidőre számított létszáma alapján számol el.
+37/L. § (1)[^161] A fenntartó a 37/C. § (2)–(3) bekezdése szerinti létszámadatok alapján igénybe vett támogatásokkal – a 37/C. § (2) bekezdés a) pont ab) alpontja kivételével – a ténylétszám adatok figyelembevételével, a kincstár és a miniszter által közösen meghatározott és a kincstár honlapján közzétett adatlapon köznevelési intézményi, feladatellátási helyenkénti, valamint fenntartói szinten összesített módon számol el az Igazgatóságnak. A 37/C. § (2) bekezdés a) pont ab) alpontja szerinti támogatás esetében a fenntartó a tárgyévben a minősített pedagógusok tényleges foglalkoztatási idejét figyelembe véve a teljes munkaidőre számított létszáma alapján számol el.
 
-(1a)[^156] Az évközbeni megszűnés elszámolása időarányosan történik, a támogatás a megszűnés hónapjának utolsó napjáig illeti meg a fenntartót. A fenntartó az igénybe vett költségvetési támogatással a tárgyév augusztus 31-éig történő megszűnés esetén az előző év október 1-jei ténylétszám, a szeptember hónapban történő megszűnés esetén a tárgyév szeptember 1-jei létszám, október 1-jét követő megszűnés esetén a tárgyév októberi 1-jei ténylétszám alapján számol el.
+(1a)[^162] Az évközbeni megszűnés elszámolása időarányosan történik, a támogatás a megszűnés hónapjának utolsó napjáig illeti meg a fenntartót. A fenntartó az igénybe vett költségvetési támogatással a tárgyév augusztus 31-éig történő megszűnés esetén az előző év október 1-jei ténylétszám, a szeptember hónapban történő megszűnés esetén a tárgyév szeptember 1-jei létszám, október 1-jét követő megszűnés esetén a tárgyév októberi 1-jei ténylétszám alapján számol el.
 
-(2)[^157] Az elszámoláshoz csatolni kell a 37/C. § (7) bekezdés c) pontja szerinti nyilatkozatokat, valamint a pedagógus- és nevelő-oktató munkát közvetlenül segítő munkakörben a tárgyévben foglalkoztatottakkal, továbbá a minősített pedagógusokkal kapcsolatban a fenntartói nyilatkozatot arról, hogy az illetmények, bérek, és ezek járulékai teljes mértékben megfizetésre kerültek. A 37/C. § (7) bekezdés c) pont ca) alpontjára vonatkozó nyilatkozat hiányában vagy eltérő tartalmú nyilatkozat esetén az Igazgatóság a fenntartót a tárgyévben igénybe vett támogatás – a 37/M. § szerinti – igénybevételi kamattal növelt visszafizetésére kötelezi.
+(2)[^163] Az elszámoláshoz csatolni kell a 37/C. § (7) bekezdés c) pontja szerinti nyilatkozatokat, valamint a pedagógus- és nevelő-oktató munkát közvetlenül segítő munkakörben a tárgyévben foglalkoztatottakkal, továbbá a minősített pedagógusokkal kapcsolatban a fenntartói nyilatkozatot arról, hogy az illetmények, bérek, és ezek járulékai teljes mértékben megfizetésre kerültek. A 37/C. § (7) bekezdés c) pont ca) alpontjára vonatkozó nyilatkozat hiányában vagy eltérő tartalmú nyilatkozat esetén az Igazgatóság a fenntartót a tárgyévben igénybe vett támogatás – a 37/M. § szerinti – igénybevételi kamattal növelt visszafizetésére kötelezi.
 
-(3)[^158]
+(3)[^164]
 
-(4)[^159] Ha az elszámolással érintett évet megelőző év október 2-a és december 31-e között – az adott évre vonatkozó központi költségvetési törvényben meghatározott életkorú – első alkalommal óvodai jogviszonyt létesített gyermekek után az óvodai fenntartót az október 1-jei ténylétszám alapján igényeltnél több pedagógus után illetné meg átlagbér alapú támogatás, akkor a fenntartó a többlettámogatásra vonatkozó igényét az elszámolás benyújtásával egyidejűleg érvényesítheti.
+(4)[^165] Ha az elszámolással érintett évet megelőző év október 2-a és december 31-e között – az adott évre vonatkozó központi költségvetési törvényben meghatározott életkorú – első alkalommal óvodai jogviszonyt létesített gyermekek után az óvodai fenntartót az október 1-jei ténylétszám alapján igényeltnél több pedagógus után illetné meg átlagbér alapú támogatás, akkor a fenntartó a többlettámogatásra vonatkozó igényét az elszámolás benyújtásával egyidejűleg érvényesítheti.
 
-(5)[^160] Ha a fenntartó az elszámolási kötelezettségének nem teljes körűen tesz eleget, az Igazgatóság nyolc napos határidő kitűzésével felhívja az elszámolási kötelezettség teljesítésére. Ha a fenntartó a felhívásnak határidőben nem teljes körűen tesz eleget, a támogatások folyósítását az Igazgatóság felfüggeszti és az elszámolással érintett évben, valamint a tárgyévben folyósított támogatások visszafizetésére és igénybevételi kamat megfizetésére kötelezi.
+(5)[^166] Ha a fenntartó az elszámolási kötelezettségének nem teljes körűen tesz eleget, az Igazgatóság nyolc napos határidő kitűzésével felhívja az elszámolási kötelezettség teljesítésére. Ha a fenntartó a felhívásnak határidőben nem teljes körűen tesz eleget, a támogatások folyósítását az Igazgatóság felfüggeszti és az elszámolással érintett évben, valamint a tárgyévben folyósított támogatások visszafizetésére és igénybevételi kamat megfizetésére kötelezi.
 
-(6)[^161] A támogatások elszámolásával és ellenőrzésével kapcsolatos hatósági eljárásokban az eljárás szünetelése nem kérhető.
+(6)[^167] A támogatások elszámolásával és ellenőrzésével kapcsolatos hatósági eljárásokban az eljárás szünetelése nem kérhető.
 
-[^155]: A 37/L. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^156]: A 37/L. § (1a) bekezdését a 102/2016. (V. 13.) Korm. rendelet 5. §-a iktatta be.
-[^157]: A 37/L. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^158]: A 37/L. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
-[^159]: A 37/L. § (4) bekezdése a 3/2015. (I. 28.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^160]: A 37/L. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
-[^161]: A 37/L. § (6) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 11. §-a iktatta be.
+[^161]: A 37/L. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^162]: A 37/L. § (1a) bekezdését a 102/2016. (V. 13.) Korm. rendelet 5. §-a iktatta be.
+[^163]: A 37/L. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^164]: A 37/L. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^165]: A 37/L. § (4) bekezdése a 3/2015. (I. 28.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^166]: A 37/L. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^167]: A 37/L. § (6) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 11. §-a iktatta be.

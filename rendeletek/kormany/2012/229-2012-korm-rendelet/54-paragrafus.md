@@ -1,4 +1,4 @@
-## 53. §[^254] E rendeletnek a fővárosi és megyei kormányhivatalok működésével összefüggő egyes kormányrendeletek módosításáról szóló 52/2017. (III. 20.) Korm. rendelettel megállapított 38/A. § (2) bekezdése hatálybalépése[^255] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat az eljárás megindításakor hatályos rendelkezések szerint kell befejezni.
+## 53. §[^273] E rendeletnek a fővárosi és megyei kormányhivatalok működésével összefüggő egyes kormányrendeletek módosításáról szóló 52/2017. (III. 20.) Korm. rendelettel megállapított 38/A. § (2) bekezdése hatálybalépése[^274] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat az eljárás megindításakor hatályos rendelkezések szerint kell befejezni.
 
-[^254]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 52/2017. (III. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^255]: A hatálybalépés időpontja 2017. március 21.
+[^273]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 52/2017. (III. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^274]: A hatálybalépés időpontja 2017. március 21.

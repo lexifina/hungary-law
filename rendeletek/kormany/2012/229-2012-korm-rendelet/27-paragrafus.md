@@ -16,4 +16,6 @@ b) a köznevelést érintő, a hátrányos, halmozottan hátrányos helyzetű ta
 
 c) az óvodai, tanulói, kollégiumi jogviszonyhoz kapcsolódó kedvezmények, juttatások folyósításával
 
+összefüggésben használhatja fel.
+
 [^64]: A 27. § a 257/2013. (VII. 5.) Korm. rendelet 26. §-ával megállapított szöveg.

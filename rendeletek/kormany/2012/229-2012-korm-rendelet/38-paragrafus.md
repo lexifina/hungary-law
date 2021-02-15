@@ -1,8 +1,8 @@
-## IV. Fejezet[^189]
+## IV. Fejezet[^207]
 
 ## AZ ILLETÉKES KORMÁNYHIVATAL ÁLTAL FOLYTATOTT HATÓSÁGI ELLENŐRZÉS TÁRGYKÖREI
 
-38. § (1)[^190] Az illetékes kormányhivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
+38. § (1)[^208] Az illetékes kormányhivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
 
 a) az egyenlő bánásmód követelményére,
 
@@ -16,16 +16,16 @@ e) az alkalmazási feltételekre, a kötelező tanügyi nyilvántartások vezet�
 
 f) a minimális (kötelező) eszközök és felszerelések meglétére,
 
-g)[^191] a köznevelés ingyenességére, a tankönyvek és más tanulói felszerelések biztosítására,
+g)[^209] a köznevelés ingyenességére, a tankönyvek és más tanulói felszerelések biztosítására,
 
-h)[^192] a tanulói fegyelmi eljárás megszervezésére, lefolytatására, a döntéshozatalra
+h)[^210] a tanulói fegyelmi eljárás megszervezésére, lefolytatására, a döntéshozatalra
 
 vonatkozó rendelkezések megtartását.
 
-(2)[^193] Az illetékes kormányhivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
+(2)[^211] Az illetékes kormányhivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
 
-[^189]: A IV. fejezet címe a 486/2016. (XII. 28.) Korm. rendelet 11. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^190]: A 38. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^191]: A 38. § (1) bekezdés g) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 10. pontja szerint módosított szöveg.
-[^192]: A 38. § (1) bekezdés h) pontját a 307/2017. (X. 27.) Korm. rendelet 7. §-a iktatta be.
-[^193]: A 38. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^207]: A IV. fejezet címe a 486/2016. (XII. 28.) Korm. rendelet 11. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^208]: A 38. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^209]: A 38. § (1) bekezdés g) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 10. pontja szerint módosított szöveg.
+[^210]: A 38. § (1) bekezdés h) pontját a 307/2017. (X. 27.) Korm. rendelet 7. §-a iktatta be.
+[^211]: A 38. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
