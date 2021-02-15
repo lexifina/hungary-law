@@ -1,3 +1,3 @@
-5/I. §[^138]
+5/I. §[^139]
 
-[^138]: A Vhr. 5/I. §-át a 172/2007. (VI. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének e) pontja.
+[^139]: A Vhr. 5/I. §-át a 172/2007. (VI. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének e) pontja.
