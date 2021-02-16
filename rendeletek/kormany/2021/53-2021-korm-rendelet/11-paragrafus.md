@@ -1,17 +1,21 @@
-## „78. § Ez a rendelet a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+## 10. §[^5]
 
-11. § (1) A Kr. 5. számú melléklete helyébe az 1. melléklet lép.
+11. § (1)[^6]
 
-(2) A Kr. a 2. melléklet szerinti 36. számú melléklettel egészül ki.
+(2)[^7]
 
-(3)[^1]
+(3)[^8]
 
-(4) A Kr. a 4. melléklet szerinti 37. számú melléklettel egészül ki.
+(4)[^9]
 
-(5)[^2]
+(5)[^10]
 
-(6)[^3]
+(6)[^11]
 
-[^1]: A 11. § (3) bekezdése az 5. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^2]: A 11. § (5) bekezdése az 5. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^3]: A 11. § (6) bekezdése az 5. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^5]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 11. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 11. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 11. § (3) bekezdése az 5. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^9]: A 11. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. § (5) bekezdése az 5. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^11]: A 11. § (6) bekezdése az 5. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.

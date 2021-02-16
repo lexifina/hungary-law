@@ -1,7 +1,3 @@
-## lép.
+## 12. §[^12]
 
-## 13. § Hatályát veszti a Kr.
-
-a) 14. § (4a) és (4b) bekezdése,
-
-b) 15. §-a.
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
