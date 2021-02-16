@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-12-20-7
 | --- | --- | --- |
 | 2018-07-08 | 2018-12-20-7R.1 | 12/2018. (VII. 3.) AM rendelet |
 | 2020-11-01 | 2018-12-20-7R.2 | 52/2020. (X. 27.) AM rendelet |
+| 2021-02-16 | 2018-12-20-7R.3 | 2/2021. (II. 15.) AM rendelet |

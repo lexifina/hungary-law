@@ -346,11 +346,11 @@ az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben 900 egyed
 
 7.1. A fácán végleges hasznosítási tervszáma a vadgazdálkodók őszi állománybecslései és annak hatósági ellenőrzései alapján kerüljön meghatározásra. Szabadterületi fácán hasznosítása helyileg indokolt esetben csak meghatározott küszöb felett (jelenleg: 4 egyed/km2) engedélyezhető. A szabadterületi vad állományra gyakorolt vadászati nyomás maradjon 25–40% alatt.
 
-7.2. A kibocsátott egyedeket meg kell jelölni megfelelő minőségű lábgyűrűvel vagy szárnyjelölővel, hogy a visszavadászási arány és a vad fácánokra gyakorolt vadászati nyomás mérhető legyen.
+7.2.[^4] A kibocsátott egyedek lábgyűrűvel vagy szárnyjelölővel történő megjelölését a vadászati hatóság előírhatja.
 
 7.3. A hasznosítási tervet a felnevelt szaporulatra (szabadterületi állomány) és a kibocsátott fácánok várható megtérülése (korábbi évek adatai) alapján elkülönítve célszerű megtervezni.
 
-7.4. Kibocsátások esetén a vadászati hatóság fácántyúk elejtésére adott külön engedélyében a tyúkok hasznosítási mértéke a 40%-ot nem haladhatja meg. A természetes tyúkállomány védelme érdekében a tojók lövése nem támogatott.
+7.4.[^5]
 
 8. A vadgazdálkodási tájegység ragadozógazdálkodási irányelvei
 
@@ -367,3 +367,5 @@ az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben 900 egyed
 8.6. Csaliállatos élvefogó csapdák alkalmazása csak napi ellenőrzés mellett lehetséges, a csaliállat rendszeres takarmány- és frissvíz-ellátása, valamint 2-3 naponkénti cseréje mellett, úttól, lakott területtől távol.
 
 [^3]: A 3. melléklet 3.7. pontja az 52/2020. (X. 27.) AM rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. melléklet 7. pont 7.2. alpontja a 2/2021. (II. 15.) AM rendelet 6. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet 7. pont 7.4. alpontját a 2/2021. (II. 15.) AM rendelet 7. §-a hatályon kívül helyezte.
