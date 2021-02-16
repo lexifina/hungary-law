@@ -216,7 +216,7 @@ a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 1600 egyed
 
 7.3. A hasznosítási tervet a felnevelt szaporulatra (szabadterületi állomány) és a kibocsátott fácánok várható megtérülése (korábbi évek adatai) alapján elkülönítve kell megtervezni.
 
-7.4. Kibocsátások esetén a vadászati hatóság fácántyúk elejtésére adott külön engedélyében a tyúkok hasznosítási mértéke a 40%-ot nem haladhatja meg. A természetes tyúkállomány védelme érdekében a tojók lövése nem támogatott.
+7.4.[^3]
 
 8. A vadgazdálkodási tájegység ragadozógazdálkodási irányelvei
 
@@ -231,3 +231,5 @@ a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 1600 egyed
 8.5. Az aranysakál megtelepedésének a megakadályozása, illetve az állományának csökkentése a cél, ezért legalább 2-es gyérítési ráta előírása szükséges.
 
 8.6. Csaliállatos élvefogó csapdák alkalmazása csak napi ellenőrzés mellett lehetséges, a csaliállat rendszeres takarmány- és frissvíz-ellátása, valamint 2-3 naponkénti cseréje mellett, úttól, lakott területtől távol.
+
+[^3]: A 3. melléklet 7. pont 7.4. alpontját a 2/2021. (II. 15.) AM rendelet 13. § d) pontja hatályon kívül helyezte.
