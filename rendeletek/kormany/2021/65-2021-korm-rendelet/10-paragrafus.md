@@ -1,3 +1,3 @@
-## 9. § Az R1. 50. § (3) bekezdése helyébe a következő rendelkezés lép:
+10. §[^12]
 
-## „(3) Az érettségi bizonyítvány rovatainak kitöltésekor a vizsgatárgyak felesleges rovatait egy-egy vízszintes vonallal érvényteleníteni kell. Ha a vizsgázó csak négy kötelező érettségi vizsgatárgyból tesz érettségi vizsgát, és számára az érettségi vizsgabizonyítvány e jogszabály alapján kiállítható, a törzslapon és az érettségi bizonyítványban azt a megfelelő záradék alkalmazásával rögzíteni kell.”
+[^12]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

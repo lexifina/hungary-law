@@ -1,5 +1,3 @@
-## 18. § Az R2. 37/D. § (3) bekezdése a következő e) ponttal egészül ki:
+19. §[^30]
 
-## [A fenntartó az (1) bekezdés szerinti kérelemhez csatolja]
-
-## „e) szakképzési feladatellátás esetén a megkötött szakképzési megállapodást,”
+[^30]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

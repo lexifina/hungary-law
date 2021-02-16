@@ -1,3 +1,3 @@
-## 21. § Az R2. 37/I. § (1) bekezdése helyébe a következő rendelkezés lép:
+22. §[^33]
 
-## „(1) A fenntartó a csődeljárás, végelszámolás, felszámolási eljárás megindítását követő nyolc napon belül köteles bejelenteni az Igazgatóságnak az eljárás megindítását. A bejelentéshez csatolni kell az eljárás megindításáról a hivatalos lapban közzétett közleményt. Amennyiben az Igazgatóság tudomására jut, hogy a fenntartó csődeljárás, végelszámolás vagy felszámolási eljárás alatt áll, és a fenntartó nem tett eleget nyolc napon belül a bejelentési kötelezettségnek, az Igazgatóság a csődeljárás, végelszámolás, felszámolási eljárás befejezéséig felfüggeszti a támogatás folyósítását.”
+[^33]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

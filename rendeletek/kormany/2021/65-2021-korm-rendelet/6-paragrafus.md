@@ -1,5 +1,3 @@
-## 5. § Az R1. 20. § (7) bekezdése a következő e) ponttal egészül ki:
+6. §[^6]
 
-## [A 6. § (7) bekezdése szerint a vizsgázó kérelmére, az igazgató engedélye alapján]
-
-## „e) a látási fogyatékos, a mozgásszervi fogyatékos tanuló a nyomtatott nem enciklopédikus szótár helyett a szótár digitalizált, világháló-kapcsolattal nem rendelkező változatát is használhatja.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

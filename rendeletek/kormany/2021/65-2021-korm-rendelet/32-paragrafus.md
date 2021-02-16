@@ -1,1 +1,3 @@
-## 31. § Az R3. 14/A. § (5) bekezdésében az „a)–d)” szövegrész helyébe a „b) és d)” szöveg lép.
+32. §[^43]
+
+[^43]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

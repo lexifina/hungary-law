@@ -1,5 +1,3 @@
-## 8. § Az R1. 45. § (3) bekezdése a következő d) ponttal egészül ki:
+9. §[^11]
 
-## (Az érettségi bizonyítványban, tanúsítványban fel kell tüntetni,)
-
-## „d) – a szakképző intézmény tanulója esetében – az arra vonatkozó záradékot, hogy a vizsgázó a kötelezően választható vizsgatárgy helyett szakmai vizsgát tett.”
+[^11]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

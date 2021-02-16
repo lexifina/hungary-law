@@ -1,1 +1,3 @@
-## „(6c) Technikumban a tanulói jogviszonyban az érettségi bizonyítvány akkor állítható ki, ha a vizsgázó sikeresen teljesítette a kötelező vizsgatárgyak érettségi vizsgáit, és emellett a technikum szakmai programjában számára előírt szakmai vizsgát sikeresen letette.”
+8. §[^10]
+
+[^10]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
