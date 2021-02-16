@@ -1,3 +1,3 @@
-51. §[^113]
+51. §[^115]
 
-[^113]: A Vhr. 51. §-át a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^115]: A Vhr. 51. §-át a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.

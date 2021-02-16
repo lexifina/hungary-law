@@ -134,6 +134,6 @@
 
 | faja | ivara | db | azonosító jel száma |
 
-14. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^259]
+14. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^261]
 
-[^259]: A Vhr. 14. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (8) bekezdésével megállapított szöveg.
+[^261]: A Vhr. 14. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (8) bekezdésével megállapított szöveg.

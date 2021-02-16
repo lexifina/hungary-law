@@ -58,6 +58,6 @@
 
 ## – az 503. számú Alpokaljai, az 504. számú Rába-menti-Kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni és az 508. számú Marcal-medencei vadgazdálkodási tájegységben.
 
-17. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^263]
+17. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^265]
 
-[^263]: A Vhr. 17. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (5) bekezdésével megállapított szöveg.
+[^265]: A Vhr. 17. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (5) bekezdésével megállapított szöveg.

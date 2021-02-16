@@ -1,3 +1,3 @@
-90. §[^224]
+90. §[^226]
 
-[^224]: A Vhr. 90. §-át a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^226]: A Vhr. 90. §-át a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
