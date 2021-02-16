@@ -1,0 +1,17 @@
+A Kormány
+
+1. támogatja a – Nyírbátori Református Egyházközség (a továbbiakban: Egyházközség) fenntartásában működő – Báthory Anna Református Általános Iskola épületének (Nyírbátor belterület 2650/1 hrsz., természetben a 4300 Nyírbátor, Fáy András utca 17.) Egyházközség általi megvásárlását és teljes körű felújítását;
+
+2. felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon az 1. pontban meghatározott cél érdekében 1 308 103 725 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságvédelmet szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 3. Egyházi működési, program és fejlesztési támogatások jogcímcsoport javára;
+
+Felelős: pénzügyminiszter
+
+a miniszterelnök általános helyettese
+
+Határidő: azonnal
+
+3. felhívja a miniszterelnök általános helyettesét, hogy az 1. pontban foglalt cél megvalósítása érdekében, a 2. pontban meghatározott forrás terhére 1 307 450 000 forint támogatási összegben adjon ki támogatói okiratot.
+
+Felelős: a miniszterelnök általános helyettese
+
+Határidő: a 2. pontban meghatározott forrás rendelkezésre állását követően azonnal
