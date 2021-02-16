@@ -1,5 +1,6 @@
-## 20. §[^35] E rendeletnek az agrárpolitikáért felelős miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról 64/2020. (XII. 16.) AM rendelettel megállapított 2. mellékletét a 2020/2021. támogatási év II. tárgynegyedévre benyújtott kérelmekre indult eljárásokban kell alkalmazni.
+## 22. §[^38] E rendeletnek az egyes vadgazdálkodási és agrártámogatási tárgyú rendeletek módosításáról szóló 2/2021. (II. 15.) AM rendelettel [a továbbiakban: 2/2021. (II. 15.) AM rendelet] megállapított 21. §-át a 2/2021. (II. 15.) AM rendelet hatálybalépésekor[^39] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 11/2019. (IV. 1.) AM rendelethez
 
-[^35]: A 20. §-t a 64/2020. (XII. 16.) AM rendelet 11. §-a iktatta be.
+[^38]: A 22. §-t a 2/2021. (II. 15.) AM rendelet 9. §-a iktatta be.
+[^39]: A hatálybalépés időpontja 2021. február 16.

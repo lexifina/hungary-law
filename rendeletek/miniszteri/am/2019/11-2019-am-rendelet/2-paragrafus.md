@@ -10,7 +10,7 @@ c) a megfelelő épület-mikroklíma biztosítására,
 
 d) a csökkentett nyersfehérje tartalmú takarmány használatára
 
-(a továbbiakban: tevékenység).
+## (a továbbiakban: tevékenység).
 
 (2) E rendelet alapján a 3. § szerinti igénylő által az adott gazdasági esemény időpontjában fennálló
 

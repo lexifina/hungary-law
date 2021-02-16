@@ -16,7 +16,7 @@ ba) víziszárnyas esetében 150g/m2/hét (1 vagy 2 szeri kijuttatásban),
 
 bb) a többi fajta esetében legalább 100g/m2/hét
 
-mennyiségben.
+## mennyiségben.
 
 (3) Az igénylőnek az istálló gázkoncentrációjának javítása érdekében biztosítani kell az istállóban
 
