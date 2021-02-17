@@ -1,3 +1,0 @@
-## 9. § A 11/2019. (IV. 1.) AM rendelet a következő 21. és 22. §-sal egészül ki:
-
-## „21. § E rendelet alapján mezőgazdasági csekély összegű támogatás – a 11. § (6) bekezdésében foglaltaktól eltérően – a 2020/2021. támogatási évre vonatkozóan legfeljebb 2 milliárd forint összegig állapítható meg. 22. § E rendeletnek az egyes vadgazdálkodási és agrártámogatási tárgyú rendeletek módosításáról szóló 2/2021. (II. 15.) AM rendelettel [a továbbiakban: 2/2021. (II. 15.) AM rendelet] megállapított 21. §-át a 2/2021. (II. 15.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

@@ -1,1 +1,0 @@
-## 11. § A 11/2019. (IV. 1.) AM rendelet 4. § (1) bekezdés záró szövegrészében a „11,73056 milliárd forint” szövegrész helyébe a „10,768 milliárd forint, a 2021/2022. támogatási évben legfeljebb 10 milliárd forint” szöveg lép.
