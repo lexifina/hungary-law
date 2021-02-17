@@ -4,7 +4,7 @@
 
 (2)[^14] Ha a berendezés létesítése építési engedélyhez kötött építési tevékenységgel nem jár együtt, – az (5) bekezdésben foglalt kivétellel – a létesítést, a használatbavételt, a veszélytelenítés utáni ismételt üzemeltetést, az áthelyezést, a berendezés e rendeletben felsorolt főbb műszaki adatainak megváltozásával járó átalakítását a Hatóság engedélyezi műszaki biztonsági hatósági eljárásban. Az üzemeltetőnek a kérelemhez – annak tárgyától függően – a 2. melléklet I. vagy II. Fejezetében meghatározott dokumentációt kell csatolnia
 
-(3)[^15] A létesítési engedély – a (2) bekezdésben meghatározott esetben – a véglegessé válásának napjától számított két év elteltével hatályát veszti, kivéve, ha a létesítési tevékenységet ez idő alatt megkezdték és a létesítés megkezdésétől számított egy éven belül a berendezés üzembe helyezésének feltételeit megteremtették. Az engedély kérelemre, indokolt esetben egy alkalommal, legfeljebb további egy évre meghosszabbítható.
+(3)[^15] A létesítési engedély – a (2) bekezdésben meghatározott esetben – a véglegessé válásának napjától számított négy év elteltével hatályát veszti, kivéve, ha a létesítési tevékenységet ez idő alatt megkezdték, és a létesítés megkezdésétől számított hat éven belül a berendezés üzembe helyezésének feltételeit megteremtették. A létesítési engedély időbeli hatálya nem hosszabbítható meg.
 
 (4)[^16] Ha a (2) bekezdésben meghatározott tevékenység a kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemlék építményben valósul meg, az engedélyezési eljárásban a Hatóság vizsgálja, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
@@ -26,7 +26,7 @@ b) megállapítja, hogy a berendezés nem felel meg az e rendeletben – és a 2
 [^12]: A 3. § a 280/2015. (IX. 22.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^13]: A 3. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 132. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^14]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 132. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^15]: A 3. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 497. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 3. § (3) bekezdése a 37/2021. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^16]: A 3. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 36. §-a szerint módosított szöveg.
 [^17]: A 3. § (6) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^18]: A 3. § (7) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

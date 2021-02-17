@@ -24,8 +24,9 @@ h) a berendezés üzemeltető általi leállítását.
 
 (4)[^25] A megszüntetett berendezésre vonatkozó adatokat a Kormányhivatal a berendezés megszüntetését követő egy év leteltével – a berendezés nyilvántartási száma kivételével – törli az (1) bekezdésben említett nyilvántartásból.
 
-(5) A bejelentett tanúsító szervezet, továbbá a tanúsított minőségügyi rendszert („H” vagy „E” modult) alkalmazó szerelő- és forgalmazó vállalkozás a központi nyilvántartást vezető szervezet részére megküldi az üzembe helyezés előtti vizsgálat jegyzőkönyvét, a berendezés tanúsítványának másolatát, valamint a 3. melléklet szerinti műszaki adatlapot.
+(5)[^26] A bejelentett tanúsító szervezet, továbbá a tanúsított minőségügyi rendszert („H” vagy „E” modult) alkalmazó szerelő- és forgalmazó vállalkozás a központi nyilvántartást vezető szervezet részére megküldi az üzembe helyezés előtti vizsgálat jegyzőkönyvét, a berendezés tanúsítványának másolatát, valamint a szakági műszaki előírásokban meghatározott műszaki adatlapot.
 
 [^23]: A 8. § (1) bekezdése a 280/2015. (IX. 22.) Korm. rendelet 4. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 271. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^24]: A 8. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 497. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^25]: A 8. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 271. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^26]: A 8. § (5) bekezdése a 37/2021. (II. 2.) Korm. rendelet 8. §-a szerint módosított szöveg.
