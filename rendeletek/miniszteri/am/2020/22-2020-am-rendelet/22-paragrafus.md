@@ -1,4 +1,4 @@
-## 21. §[^22]
+## 21. §[^25]
 
 22. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglaltak kivételével – a kihirdetését követő nyolcadik napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 20. § a) pontja 2021. február 16-án lép hatályba.
 
-[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
