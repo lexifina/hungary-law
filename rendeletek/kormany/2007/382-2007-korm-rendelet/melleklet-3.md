@@ -34,7 +34,9 @@
 
 2.1. Az 1.1–1.9. pontokban felsorolt dokumentációk.
 
-3.[^136]
+3.[^136] Előmunkálati engedély dokumentációi
+
+3.1. Az 1. pont 1.1–1.7. alpontjában felsorolt dokumentációk (térképekből 3-3 db).
 
 4. Vezetékjog engedélyezéséhez szükséges dokumentáció
 
@@ -171,7 +173,7 @@ d) az adott tervezésre jogosultsággal rendelkezik.
 [^133]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
 [^134]: A 3. számú melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 214. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^135]: A 3. számú melléklet 1. pont 1.10. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^136]: A 3. számú melléklet 3. pontját a 441/2015. (XII. 28.) Korm. rendelet 101. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^136]: A 3. számú melléklet 3. pontját újonnan a 37/2021. (II. 2.) Korm. rendelet 5. §-a iktatta be.
 [^137]: A 3. számú melléklet 4. pont 4.2. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^138]: A 3. számú melléklet 4. pont 4.3. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^139]: A 3. számú melléklet 4. pont 4.5. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
