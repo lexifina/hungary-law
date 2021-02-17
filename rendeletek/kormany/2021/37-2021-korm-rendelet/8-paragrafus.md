@@ -1,3 +1,5 @@
-## 7. §[^7]
+## 7. § Az Fmr. 13. alcíme a következő 26. §-sal egészül ki:
 
-[^7]: A 7. § a 16. § (2) bekezdése alapján 2021. február 17-én lép hatályba.
+## „26. § (1) Az e rendelet hatálya alá tartozó berendezések létesítési és üzemeltetési tapasztalatainak figyelembevételével az iparügyekért felelős miniszter az ágazati szakmai érdekképviseleti szervezetek közreműködésével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából szakági műszaki előírások formájában az egészségvédelem magas szintjét kielégítő, valamint a műszaki-tudományos színvonallal és a gazdasági megfontolások alapján megvalósítható gyakorlattal összhangban álló műszaki megoldásokat dolgoz ki, azokat az ágazati szakmai érdekképviseleti szervezetek bevonásával rendszeresen felülvizsgálja, és az adott időszak technikai színvonalának megfelelően frissíti.
+
+## (2) A szakági műszaki előírásoknak a kormányzati honlapon, valamint a termékinformációs pont honlapján történő közzétételét az iparügyekért felelős miniszter kezdeményezi. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekinteni, hogy az megfelel az adott kor technikai színvonalának.”
