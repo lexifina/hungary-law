@@ -4,7 +4,7 @@
 
 (1a)[^2] Budapest Főváros Kormányhivatalának a 3. § (2) bekezdés a)–d) pontjában foglalt feladatkörei gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a turizmusért felelős miniszter gyakorolja.
 
-(1b)[^3] Budapest Főváros Kormányhivatalának a 3. § (2) bekezdés e) pontjában és a 10. §-ban foglalt feladatköre gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a kereskedelemért felelős miniszter gyakorolja.
+(1b)[^3] Budapest Főváros Kormányhivatalának a 3. § (2) bekezdés e) és f) pontjában és a 10. §-ban foglalt feladatköre gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a kereskedelemért felelős miniszter gyakorolja.
 
 (1c)[^4] Budapest Főváros Kormányhivatalának a 2. § (2) bekezdés a) és d) pontjában, valamint 24. § c) pontjában foglalt feladatkörei gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a külgazdasági ügyekért felelős miniszter gyakorolja.
 
@@ -56,7 +56,7 @@ b) a megfelelőségértékelő szervezeteknek a mérőeszközökre vonatkozó eg
 
 [^1]: Az 1. § (1) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1a) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (1b) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (1b) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 37/2021. (II. 2.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^4]: Az 1. § (1c) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be.
 [^5]: Az 1. § (1d) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 14. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

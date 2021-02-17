@@ -14,7 +14,7 @@ d) a tartós szálláshasználati szolgáltatási tevékenység bejelentésére 
 
 e) a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló eljárásokban,
 
-f)[^23]
+f)[^23] a konfliktusok által érintett és nagy kockázatot jelentő térségekből származó ón, tantál, volfrám, ezek ércei és arany uniós importőrei körében a kellő gondosság elvének megfelelő ellátási láncra vonatkozó kötelezettségek megállapításáról szóló, 2017. május 17-i (EU) 2017/821 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/821 európai parlamenti és tanácsi rendelet] szerinti hatósági ügyekben,
 
 g) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló jogszabályban meghatározott hatósági eljárásokban,
 
@@ -46,7 +46,7 @@ b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeret�
 
 [^21]: A 3. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
 [^22]: A 3. § (2) bekezdés a) pontja a 198/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^23]: A 3. § (2) bekezdés f) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^23]: A 3. § (2) bekezdés f) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte, újonnan a 37/2021. (II. 2.) Korm. rendelet 11. §-a iktatta be.
 [^24]: A 3. § (2) bekezdés i) pontja a 360/2019. (XII. 30.) Korm. rendelet 157. § (10) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^25]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^26]: A 3. § (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 157. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

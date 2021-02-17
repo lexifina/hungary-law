@@ -1,4 +1,4 @@
-## 13/A. [^75] A termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó általános szabályok
+## 13/A. [^76] A termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó általános szabályok
 
 24/A. § (1) Az iparügyekért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölése iránti kérelemben a kérelmező szervezet alkalmasságát, felkészültségét a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény (a továbbiakban: Msztv.)
 
@@ -22,4 +22,4 @@ c) az előző ellenőrzés óta a minőségirányítási kézikönyvben, valamin
 
 d) a gazdasági szereplők panaszainak kivizsgálása e rendeletnek és a panaszkezelési szabályzatnak megfelelő volt-e.
 
-[^75]: A 13/A. alcímet (24/A. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^76]: A 13/A. alcímet (24/A. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.

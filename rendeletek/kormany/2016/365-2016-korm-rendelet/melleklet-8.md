@@ -1,3 +1,3 @@
-8. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^106]
+8. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^108]
 
-[^106]: A 8. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
+[^108]: A 8. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
