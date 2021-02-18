@@ -1,9 +1,3 @@
-1. melléklet a 37/2021. (II. 2.) Korm. rendelethez
+1. melléklet a 37/2021. (II. 2.) Korm. rendelethez[^19]
 
-Az Épvhr. 3. számú melléklete a következő 3. ponttal egészül ki:
-
-(Műszaki dokumentáció)
-
-„3. Előmunkálati engedély dokumentációi
-
-3.1. Az 1. pont 1.1–1.7. alpontjában felsorolt dokumentációk (térképekből 3-3 db).”
+[^19]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

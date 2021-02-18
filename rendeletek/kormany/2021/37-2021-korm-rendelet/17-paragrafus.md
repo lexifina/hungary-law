@@ -2,6 +2,6 @@
 
 (2) Ez a rendelet a konfliktusok által érintett és nagy kockázatot jelentő térségekből származó ón, tantál, volfrám, ezek ércei és arany uniós importőrei körében a kellő gondosság elvének megfelelő ellátási láncra vonatkozó kötelezettségek megállapításáról szóló, 2017. május 17-i (EU) 2017/821 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^7]
+(3)[^18]
 
-[^7]: A 17. § (3) bekezdése a 16. § (4) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^18]: A 17. § (3) bekezdése a 16. § (4) bekezdése alapján 2021. július 1-jén lép hatályba.
