@@ -1,0 +1,202 @@
+# A Kormány 69/2021. (II. 19.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 25. szám, 2021. február 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/JViKBIgqSgPTaiOLAGIN6026fbc69cde3/dokumentumok/efa2cedfc8de412d4da06cbc09cfaa7d73854183/letoltes)
+
+---
+
+A Kormány 69/2021. (II. 19.) Korm. rendelete
+egyes, az egészségügyi szolgálati jogviszonnyal összefüggő veszélyhelyzeti szabályokról
+A Kormány az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel
+a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: 1990. évi C. törvény) alkalmazásában az 1990. évi
+C. törvény 52. § 53. pontjában foglaltakon túl közszolgálati kötelezettségen az egészségügyi szolgálati jogviszonyról
+szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) szerinti egészségügyi szolgálati jogviszony (a továbbiakban:
+egészségügyi szolgálati jogviszony) keretében végzett tevékenységet is érteni kell.
+2. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 19. §
+(3) bekezdésében foglaltak alkalmazásakor a közalkalmazotti jogviszonyon az egészségügyi szolgálati jogviszonyt is
+érteni kell.
+(2) Az Ebtv. 27. § (5) és (7) bekezdésében foglaltak alkalmazásakor az ott felsorolt jogviszonyokon túl az egészségügyi
+szolgálati jogviszonyt is érteni kell.
+3. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 116/A. § (6) bekezdésében foglaltakat
+a (2) bekezdésben foglaltak szerint kell alkalmazni.
+(2) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának
+a feltétele a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató és az egészségügyi felsőoktatási
+intézmény által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás
+a képzésben részt vevő személynek az Eütv. 116/A. § (5) bekezdés d) pontja szerinti adatairól.
+(3) Az Eütv. 116/A. § (7) bekezdésében foglaltakat a (4) bekezdésben foglaltak szerint kell alkalmazni.
+(4) Az Eütv. 116/A. §
+a) (5) bekezdés a) pontjában foglalt adatok közül a természetes személyazonosító adatokban bekövetkezett
+változást a jelölt,
+b) (5) bekezdés b) és c) pontja szerinti adatokban bekövetkezett változást a felsőoktatási intézmény és
+c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a képzésben részt vevő személyt
+foglalkoztató egészségügyi szolgáltató
+a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv
+részére.
+(5) Az Eütv. 116/A. § (7b) bekezdésében foglaltakat a (6) bekezdésben foglaltak szerint kell alkalmazni.
+(6) Az Eütv. 116/A. § (7) bekezdés c) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás
+közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt
+tőle a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató kéri – az Eütv. 116/A. § (7) bekezdése
+szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
+4. §
+Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban:
+Eütev.) 7. § (2) bekezdésében foglaltak alkalmazásakor az ott felsorolt jogviszonyokon túl az egészségügyi szolgálati
+jogviszonyt is érteni kell.
+5. § (1) Az Eütev. 11/A. § (2) bekezdésében foglaltakat az Eszjtv. 8. §-ában foglaltakra figyelemmel kell alkalmazni.
+(2) Az Eszjtv. 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személyt az Eütev. 11/A. §
+(3) bekezdésében foglaltaktól eltérően az Eszjtv. 8. § (8) és (9) bekezdése alapján, az e rendeletben foglaltak
+figyelembevételével kell fizetési fokozatba sorolni.
+(3) Az Eütev. 11/A. § (4), (6) és (6a) bekezdésében foglaltaktól eltérően az Eszjtv. 8. § (3) bekezdése szerinti egészségügyi
+szolgálati jogviszonyban álló személy havi illetménye nem lehet kevesebb, mint az Eszjtv. 1. mellékletében
+meghatározott összeg.
+(4) Az Eütev. 11/A. § (7) bekezdésében foglaltaktól eltérően az egészségügyi szolgálati jogviszonyban álló egészségügyi
+dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő
+számítására, az illetményre, valamint az átsorolással kapcsolatos eljárási szabályokra az Eszjtv.-ben és a Kormány
+által rendeletben megállapított szabályokat kell alkalmazni.
+
+6. § (1) Az Eütev. 11/B. § (1) bekezdésében foglaltakat a (2) bekezdésben foglaltak szerint kell alkalmazni.
+(2) A rezidens az egészségügyi felsőfokú szakirányú szakképzése ideje alatt az elsődleges képzőhelyével egészségügyi
+szolgálati jogviszonyban, a nem az Eszjtv. hatálya alá tartozó képzőhely esetében munkaviszonyban áll.
+(3) Az Eütev. 11/B. § (6) bekezdésében foglaltakat a (4) bekezdésben foglaltak szerint kell alkalmazni.
+(4) Ügyeleti feladatokat a rezidens az Eütev. 12/D. § (2) bekezdése szerinti beosztás alapján is csak a képzési tervben
+foglaltakkal összhangban láthat el.
+7. §
+Az Eütev. 14/E. § (3) bekezdésének alkalmazásában a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény
+(a továbbiakban: Kjt.) 57. § (3) bekezdése szerinti pótszabadságra jogosító munkakört betöltő személyeken az Eszjtv.
+6. § (4)–(7) bekezdésében meghatározott pótszabadságra jogosító munkakört betöltő személyeket kell érteni.
+8. §
+Az Eütev. 16/A. § c) pontja szerinti munkáltatón az Eszjtv. szerinti munkáltatót is érteni kell.
+9. §
+Az 5–8. §-ban foglaltakon túlmenően ahol az Eütev.
+a) közalkalmazottat említ, azon egészségügyi szolgálati jogviszonyban állót,
+b) jubileumi jutalmat említ, azon szolgálati elismerést,
+c) Kjt.-t említ, azon az Eszjtv.-t
+is érteni kell.
+10. §
+Az Eütev.
+a) 11/A. § (9) bekezdését,
+b) 11/B. § (2), (3), (5) és (7) bekezdését,
+c) 13. § (2) bekezdését,
+d) 14/D. §-át,
+e) 15/D. §-át,
+f) 19/B. §-át
+nem kell alkalmazni.
+11. §
+Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.)
+alkalmazásában a Vnytv. 2. § a) pontjában foglaltakon túl közszolgálatban álló személyen az egészségügyi szolgálati
+jogviszonyban álló személyt is érteni kell.
+12. §
+A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről
+szóló 2011. évi LXXV. törvény (a továbbiakban: 2011. évi LXXV. törvény) alkalmazásában a 2011. évi LXXV. törvény
+1. § 7a. pontjában foglaltakon túl közszférában dolgozón az egészségügyi szolgálati jogviszonyban álló személyt is
+érteni kell.
+13. §
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi
+XLII. törvény 51. § (2) bekezdésének, 65. § (2) bekezdésének és 65. § (3) bekezdés a) pontjának alkalmazásában
+a közalkalmazotti jogviszonyban betölthető munkakörön az egészségügyi szolgálati jogviszonyban betölthető
+munkakört is érteni kell.
+14. § (1) Az Eszjtv. 1. § (1) bekezdésében foglaltakat a (2) bekezdésben foglaltak szerint kell alkalmazni.
+(2) Az Eszjtv. hatálya – ide nem értve a munkavállalói résztulajdont – az állami és az önkormányzati fenntartású
+egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi
+szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati
+jogviszonyban álló személy) jogállására terjed ki.
+(3) Az Eszjtv. 1. § (4) bekezdését a (4) bekezdésben foglalt eltéréssel kell alkalmazni.
+(4) Az Eszjtv. 1. § (4) bekezdése szerinti tevékenységet a kormányzati igazgatási szervként működő egészségügyi
+szolgáltatónál kormányzati szolgálati jogviszonyban is lehet végezni.
+15. §
+Az Eszjtv. 7. § (2) és (3) bekezdésében foglaltakat az egészségügyi szakdolgozókra is alkalmazni kell.
+
+16. § (1) Az Eszjtv. 8. § (3) bekezdésében foglaltakat a (2) bekezdésben foglaltak szerint kell alkalmazni.
+(2) Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében
+meghatározott munkakörben foglalkoztatott, egyéb, nem egészségügyi egyetemi végzettséggel, valamint
+nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező
+egészségügyi szolgálati jogviszonyban álló személy illetménye el kell hogy érje az Eszjtv. 1. mellékletében
+az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatához meghatározott összeget, és nem
+haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában a fizetési fokozathoz az Eszjtv.
+1. mellékletében meghatározott összeg százhúsz százalékát. Az egészségügyi szolgáltató vezetőjének illetménye
+el kell hogy érje az Eszjtv. 1. melléklete szerinti legmagasabb fizetési fokozathoz meghatározott összeget, és nem
+haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában az Eszjtv. 1. melléklete szerinti
+legmagasabb fizetési fokozathoz meghatározott összeg százhúsz százalékát.
+(3) Az Eszjtv. 8. § (6) bekezdésében foglaltakon túl az egészségügyi szakdolgozó alapilletményen felül járó munkáltatói
+döntésen alapuló juttatásra is jogosult.
+(4) Az Eszjtv. 8. § (8) bekezdésében foglaltakon túl az egészségügyi szakdolgozók esetében a munkakör betöltéséhez
+szükséges iskolai végzettséget, szakképzettséget is figyelembe kell venni a fizetési fokozatba történő besorolásnál.
+(5) Az Eszjtv. 8. § (9) bekezdésében foglaltakon túl egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni
+a) a munkaviszonynak azt az időtartamát, amely alatt a közalkalmazott a közalkalmazotti jogviszonyában
+betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel rendelkezett,
+b) az 1992. július 1-jét megelőzően fennállt munkaviszony teljes időtartamát, továbbá
+c) a hadkötelezettség alapján teljesített sor- vagy tartalékos katonai szolgálatnak, illetve a polgári szolgálatnak
+az időtartamát,
+d) az Eszjtv. 8. § (9) bekezdés h) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási
+jogviszonyban eltöltött időt, valamint
+e) a PhD fokozat megszerzése esetén a doktori képzésben töltött időt,
+ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti jogviszonyba.
+(6) Az Eszjtv. 8. § (10) bekezdésében foglaltaktól eltérően az egészségügyi szolgálati jogviszonyban álló egészségügyi
+dolgozó az egészségügyi szolgálati jogviszonyban töltött idő alapján az Eszjtv. 1. melléklete, valamint az egyes
+egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz
+kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete
+szerint eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától.
+17. §
+Az Eszjtv. 14. §-ában és 2. mellékletében foglaltak alkalmazásakor az alapnyilvántartáson a személyi nyilvántartást
+kell érteni.
+18. § (1) Az Eszjtv. 19. § (16) bekezdésében foglaltakon érteni kell azt is, hogy az egészségügyi szakdolgozó illetménye
+a jogviszonyváltásra tekintettel nem csökkenhet a 2020. december 31-ei illetményéhez képest.
+(2) Az Eszjtv. 19. § (18) bekezdésében foglaltak esetén az Eszjtv. 4. § (6) bekezdése helyett az Eszjtv. 4. § (5) bekezdését
+nem kell alkalmazni.
+19. § (1) Az egészségügyi szolgálati jogviszonyt is érteni kell
+1. a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés
+a) pontjában és (6) bekezdésében,
+2. a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 5. §-ában és 87. § 9. pontjában,
+3. az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (2) bekezdésében,
+4. a bírósági végrehajtásról szóló 1994. évi LIII. törvény 7. § (1) bekezdésében és 66. § a) pontjában,
+5. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 4. pont e) alpontjában,
+6. az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi
+XLVII. törvény 4. § (2) bekezdés o) pontjában,
+7. a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/C. § (1) bekezdésében,
+8. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 4. § (2) bekezdés
+x) pontjában,
+9. a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § d) pontjában,
+10. a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 29. § (1) bekezdésében,
+
+11. az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 3. §
+(1) bekezdés a) pontjában,
+12. a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve
+a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas
+foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: 2004. évi CXXIII. törvény) 1. § (2) bekezdés
+3. és 6. pontjában,
+13. az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény 21. § (2) bekezdésében,
+14. a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 23. pontjában,
+15. a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 56. § (1) bekezdésében,
+16. a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi
+CXXVIII. törvény 19. § (3) bekezdésében,
+17. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/F. § (1), (3), (7) és
+(8) bekezdésében,
+18. a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 37. § (4) és (5) bekezdésében,
+19. a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi
+XLII. törvény 34. § (2) és (3) bekezdésében, 80. § (2) bekezdés e) pontjában, 91. § (2) bekezdés b) pontjában,
+95. §-ában, 57. alcím címében, 96. § c) pontjában, 96. § záró szövegrészében, 280. § (1) bekezdés
+f) pontjában, 283. §-ában, 288/E. § (4) bekezdés e) pontjában, 289/H. § d) pont dc) alpontjában, 334. §
+(3) bekezdésében és 340. § 3. pontjában,
+20. a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (8) bekezdés g) pontjában,
+21. a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 7. § (1) bekezdés 12. pontjában,
+22. az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 7. § (1) bekezdés
+12. pontjában,
+23. a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 34. § 12. pont b) alpontjában
+foglaltak alkalmazásakor az ott felsorolt jogviszonyokon túl.
+(2) Az Eszjtv.-t is érteni kell
+a) az Mvt. 5. §-ában,
+b) a 2004. évi CXXIII. törvény 1. § (2) bekezdés 7. és 8. pontjában,
+c) az Áht. 11/F. § (1) bekezdésében
+foglaltak alkalmazásakor az ott felsorolt törvényeken túl.
+20. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) Az 1–19. § 2021. március 1-jén lép hatályba.
+21. §
+Az egészségügyi dolgozók és egészségügyben dolgozók jogviszonyával kapcsolatos egyes kérdésekről szóló
+530/2020. (XI. 28.) Korm. rendelet 1. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A (2) bekezdésben foglaltaktól eltérően nem alakul át egészségügyi szolgálati jogviszonnyá a szociális
+intézményként működő egészségügyi szolgáltatónál foglalkoztatott személy (2) bekezdés szerinti jogviszonya azzal,
+hogy az érintett foglalkoztatott vonatkozásában nem alkalmazható az Eszjtv. 1. § (4) bekezdése, valamint a (7) és
+a (8) bekezdés.”
+ Orbán Viktor s. k.,
+ miniszterelnök
