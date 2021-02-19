@@ -1,0 +1,9 @@
+# 1062/2021. (II. 19.) Korm. határozat
+
+a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok előirányzatból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, valamint kötelezettségvállalás engedélyezéséről, címrendi kiegészítésről és kormányhatározat módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1062-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-02-19 | 2021-1062-30-22.1 | 1062/2021. (II. 19.) Korm. határozat |
