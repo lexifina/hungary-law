@@ -10,7 +10,7 @@
 
 | 5. | Új Budapesti Teniszközpont | Budapest XXI. kerület, Észak-Csepel |
 
-| 6. | Új Budapesti Velodrom | Budapest III. kerület, volt Fővárosi Gázgyár területe |
+| 6. |  |  |
 
 | 7. | Takács Károly Nemzeti Lövészeti Központ | ORFK RSZKK Nagytétényi lőtér |
 
@@ -22,6 +22,6 @@
 
 | 11. | A Népliget jelenleg is sportolásra hasznosított területe | Budapest X. kerület, Népliget |
 
-2. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz[^3]
+2. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz[^5]
 
-[^3]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
