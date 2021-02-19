@@ -2,7 +2,7 @@
 
 13. § (1) Az Eht. 94. § (2f) bekezdése szerinti jogvitás eljárás megindítására irányuló kérelemhez csatolni kell – ha rendelkezésre állnak – a jogvitás eljárás tárgyát képező, a kérelem benyújtását megelőzően az üggyel kapcsolatban a felek által egymásnak megküldött, valamint az egyeztetésekről készült dokumentumokat, így különösen jegyzőkönyveket, kép- vagy hangfelvételeket vagy emlékeztetőket.
 
-(1a)[^3] A kérelmező a kérelmében – amennyiben erre vonatkozóan az eljáró tanács döntését kéri – köteles pontosan megjelölni, hogy az eljáró tanács
+(1a)[^5] A kérelmező a kérelmében – amennyiben erre vonatkozóan az eljáró tanács döntését kéri – köteles pontosan megjelölni, hogy az eljáró tanács
 
 a) a fizikai infrastruktúra felhasználását, a használati jogot és szükség szerint a kapcsolódó szolgalmi jogot,
 
@@ -26,4 +26,4 @@ b) ha az ügy sajátosságai indokolják, a fizikai infrastruktúra átalakítá
 
 (5) Az Eht. 94. § (2d) bekezdés f) pontja szerint felajánlott más fizikai infrastruktúrához való hozzáférés feltételei akkor tekinthetők tisztességesnek és észszerűnek, ha a szolgáltató a hozzáféréshez lényegét tekintve azonos műszaki, közgazdasági és jogi feltételekkel jut hozzá, mint az Eht. 94. § (2b) bekezdése szerinti ajánlat alapján.
 
-[^3]: A 13. § (1a) bekezdését a 13/2017. (XII. 29.) NMHH rendelet 16. § (3) bekezdése iktatta be.
+[^5]: A 13. § (1a) bekezdését a 13/2017. (XII. 29.) NMHH rendelet 16. § (3) bekezdése iktatta be.
