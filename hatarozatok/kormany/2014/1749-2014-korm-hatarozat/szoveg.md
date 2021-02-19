@@ -1,6 +1,6 @@
 A Kormány
 
-1.[^1] egyetért azzal, hogy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) 8 milliárd forint keretösszeggel a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB törvény) 4. § (2) bekezdése alapján – 2020. december 31-éig történő hitelszerződés-kötési lehetőség biztosításával – meghirdesse az MFB TÉSZ Forgóeszköz Hitelprogram 2020-at (a továbbiakban: Hitelprogram)
+1.[^1] egyetért azzal, hogy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) 8 milliárd forint keretösszeggel a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB törvény) 4. § (2) bekezdése alapján – 2022. december 31-éig történő hitelszerződés-kötési lehetőség biztosításával – meghirdesse az MFB TÉSZ Forgóeszköz Hitelprogram 2020-at (a továbbiakban: Hitelprogram)
 
 a) a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló 150/2012. (XII. 28.) VM rendelet szerinti, zöldség- és gyümölcs termékpályán működő termelői szervezetek és előzetesen elismert zöldség-gyümölcs termelői csoportok, valamint
 
@@ -20,7 +20,7 @@ számára maximum 7 éves lejárattal, azon belül maximum 4 év türelmi időve
 
 7.[^3] egyetért azzal, hogy a kedvezményes kamatból és a jogszabályi alapú állami készfizető kezességvállalásból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást erre irányuló megállapodás hiányában a támogatás nyújtója, a kedvezményes díjú intézményi készfizető kezességvállalásból és a költségvetési kezesi díjtámogatásból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást a kezességvállaló intézmény, a költségvetési kamattámogatásból származó állami támogatás támogatástartalmáról és támogatási kategóriájáról szóló igazolást a Magyar Államkincstár adja ki;
 
-8. felhívja a nemzetgazdasági minisztert, hogy a Hitelprogram finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 8 milliárd forint mértékig az MFB törvény 5. § (2) bekezdése alapján az MFB Zrt.-vel árfolyam-fedezeti megállapodást kössön, azzal, hogy a Hitelprogram futamideje az árfolyam-fedezeti megállapodás szempontjából 8 év, lejárata 2028. december 31., és az árfolyam-fedezeti megállapodás e határozat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
+8.[^4] felhívja a nemzetgazdasági minisztert, hogy a Hitelprogram finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 8 milliárd forint mértékig az MFB törvény 5. § (2) bekezdése alapján az MFB Zrt.-vel árfolyam-fedezeti megállapodást kössön, azzal, hogy a Hitelprogram futamideje az árfolyam-fedezeti megállapodás szempontjából 10 év, lejárata 2030. december 31., és az árfolyam-fedezeti megállapodás e határozat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -36,6 +36,7 @@ Határidő: 2015. január 31.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 1. pont záró szövegrésze az 1505/2020. (VIII. 12.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: Az 1. pont záró szövegrésze az 1505/2020. (VIII. 12.) Korm. határozat 1. pontja, nyitó szövegrésze az 1056/2021. (II. 19.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^2]: A 6. pontot az 1505/2020. (VIII. 12.) Korm. határozat 4. pont a) alpontja visszavonta.
 [^3]: A 7. pont az 1853/2016. (XII. 27.) Korm. határozat 44. pontja szerint módosított szöveg.
+[^4]: A 8. pont az 1056/2021. (II. 19.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
