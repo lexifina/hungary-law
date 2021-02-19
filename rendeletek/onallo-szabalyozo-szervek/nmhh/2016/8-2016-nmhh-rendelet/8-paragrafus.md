@@ -18,7 +18,7 @@ e) teljesítette-e a 6. § (5) és (6) bekezdésében meghatározott követelmé
 
 (4) Ha az importőr tudomást szerez arról, vagy feltételezi, hogy a készülék nem felel meg az alapvető követelményeknek, azt nem hozhatja forgalomba, amíg ezen követelmények nem teljesülnek. Ha a készülék hiányosságai az alapvető követelmények megvalósulását veszélyeztetik vagy kockázatot jelentenek, az importőr tájékoztatja erről a gyártót, valamint a piacfelügyeleti hatóságot.
 
-(5) Ha az importőr tudomást szerez arról, vagy feltételezi, hogy az általa forgalomba hozott készülék nem felel meg e rendeletnek, azonnal meghozza a szükséges kiigazító intézkedéseket a készülék megfelelőségének biztosítására, vagy kivonja a forgalomból vagy visszahívja a készüléket. Ha a készülék hiányosságai az alapvető követelmények megvalósulását veszélyeztetik, vagy kockázatot jelentenek, az importőr erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett kiigazító intézkedésről.
+(5)[^12] Ha az importőr tudomást szerez arról, vagy feltételezi, hogy az általa forgalomba hozott készülék nem felel meg e rendeletnek, azonnal meghozza a szükséges korrekciós intézkedéseket a készülék megfelelőségének biztosítására, vagy kivonja a forgalomból vagy visszahívja a készüléket. Ha a készülék hiányosságai az alapvető követelmények megvalósulását veszélyeztetik, vagy kockázatot jelentenek, az importőr erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett korrekciós intézkedésről.
 
 (6) Az importőr a készülék forgalomba hozatalát követő 10 évig megőrzi az EU megfelelőségi nyilatkozatot, a műszaki dokumentációt, és a piacfelügyeleti hatóság felhívására rendelkezésére bocsátja.
 
@@ -31,3 +31,5 @@ e) teljesítette-e a 6. § (5) és (6) bekezdésében meghatározott követelmé
 (10) Az importőr gondoskodik arról, hogy a készülékhez magyar nyelven mellékelve legyen a használati és kezelési útmutató, továbbá a 13. alcím szerinti információ.
 
 (11) Az importőr biztosítja, hogy a tárolás és a szállítás körülményei ne veszélyeztessék az alapvető követelményeknek való megfelelést.
+
+[^12]: A 8. § (5) bekezdése a 2/2021. (II. 16.) NMHH rendelet 4. § 3. pontja szerint módosított szöveg.

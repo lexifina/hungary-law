@@ -12,8 +12,10 @@ c) megfelelt-e a 6. § (5) és (6) bekezdésében, valamint az importőr megfele
 
 (3) A forgalmazó biztosítja, hogy a tárolás és a szállítás körülményei ne veszélyeztessék az alapvető követelményeknek való megfelelést.
 
-(4) Ha a forgalmazó tudomást szerez arról, vagy feltételezi, hogy az általa forgalmazott készülék nem felel meg e rendeletnek, gondoskodik arról, hogy meghozza a szükséges kiigazító intézkedéseket a készülék megfelelőségének biztosítására, vagy kivonja a forgalomból vagy visszahívja a készüléket. Ha a készülék hiányosságai az alapvető követelmények megvalósulását veszélyeztetik vagy kockázatot jelentenek, a forgalmazó erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett kiigazító intézkedésről.
+(4)[^13] Ha a forgalmazó tudomást szerez arról, vagy feltételezi, hogy az általa forgalmazott készülék nem felel meg e rendeletnek, gondoskodik arról, hogy meghozza a szükséges korrekciós intézkedéseket a készülék megfelelőségének biztosítására, vagy kivonja a forgalomból vagy visszahívja a készüléket. Ha a készülék hiányosságai az alapvető követelmények megvalósulását veszélyeztetik vagy kockázatot jelentenek, a forgalmazó erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett korrekciós intézkedésről.
 
 (5) A forgalmazó a piacfelügyeleti hatóság felhívására rendelkezésre bocsátja a készülék megfelelőségének igazolásához szükséges összes nyomtatott vagy elektronikus formátumú információt és dokumentációt. A piacfelügyeleti hatóság felhívására a forgalmazó együttműködik vele a készülék által képviselt veszélyek kiküszöbölése érdekében tett intézkedések terén.
 
 (6) A forgalmazó, aki saját neve vagy védjegye alatt hoz forgalomba egy készüléket, vagy olyan módon módosít egy már forgalomba hozott készüléket, hogy a módosítás befolyásolja a készülék e rendeletnek való megfelelését, e rendelet alkalmazásában gyártónak minősül, és a gyártóra előírt kötelezettségek terhelik.
+
+[^13]: A 9. § (4) bekezdése a 2/2021. (II. 16.) NMHH rendelet 4. § 3. pontja szerint módosított szöveg.

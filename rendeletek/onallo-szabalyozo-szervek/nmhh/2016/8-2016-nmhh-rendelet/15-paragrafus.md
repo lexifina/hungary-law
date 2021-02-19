@@ -2,21 +2,15 @@
 
 15. § (1) Ha a piacfelügyeleti hatóságnak tudomására jut vagy azt feltételezi, hogy a készülék hiányosságai az alapvető követelmények megvalósulását veszélyeztetik vagy kockázatot jelentenek, akkor elvégzi az érintett készülék ellenőrzését, amely kiterjed az e rendeletben foglalt valamennyi szabályra. Az érintett gazdasági szereplő e célból együttműködik a piacfelügyeleti hatósággal.
 
-(2) Ha az (1) bekezdés szerinti ellenőrzés során a piacfelügyeleti hatóság megállapítja, hogy a készülék nem felel meg e rendeletnek, haladéktalanul felhívja az érintett gazdasági szereplőt, hogy a 765/2008/EK rendelet 21. cikkének megfelelően
-
-a) tegyen kiigazító intézkedéseket a jogsértés megszüntetésére és a követelményeknek való megfelelés biztosítására,
-
-b) a készüléket vonja ki a forgalomból vagy
-
-c) a készüléket hívja vissza.
+(2)[^15] Ha az (1) bekezdés szerinti ellenőrzés során a piacfelügyeleti hatóság megállapítja, hogy a készülék nem felel meg e rendeletnek, haladéktalanul felhívja az érintett gazdasági szereplőt, hogy az (EU) 2019/1020 rendelet 16. cikk (2) és (3) bekezdésének megfelelően tegyen korrekciós intézkedéseket a jogsértés megszüntetésére és az alapvető követelményeknek való megfelelés biztosítására.
 
 (3) A (2) bekezdésben meghatározott felhívás teljesítésére az eset összes körülményeinek mérlegelésével megfelelő határidőt kell biztosítani.
 
 (4) Ha a rendelkezésre álló adatok alapján a készüléket más tagállamban is forgalmazzák, a piacfelügyeleti hatóság az (1) bekezdés szerinti ellenőrzés eredményéről és a (2) bekezdés szerinti intézkedéséről egyidejűleg értesíti a Bizottságot és a többi tagállamot. Az értesítésnek tartalmaznia kell, hogy a gazdasági szereplőt milyen intézkedés meghozatalára hívták fel.
 
-(5) A gazdasági szereplő megteszi a szükséges kiigazító intézkedéseket az általa forgalmazott készülék tekintetében.
+(5)[^16] A gazdasági szereplő megteszi a szükséges korrekciós intézkedéseket az általa forgalmazott készülék tekintetében.
 
-(6)[^9] Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (3) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az elektronikus hírközlésről szóló törvényben, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a készülék betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a véglegessé vált és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot.
+(6)[^17] Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (3) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az elektronikus hírközlésről szóló törvényben, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a készülék betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a véglegessé vált és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot.
 
 (7) A piacfelügyeleti hatóság a (6) bekezdés szerinti tájékoztatásban megadja az összes rendelkezésre álló adatot, különösen a nem megfelelő készülék azonosításához szükséges adatokat, a készülék származási helyét, a feltárt jogsértést és a felmerülő kockázatot, az alkalmazott jogkövetkezményeket, valamint az érintett gazdasági szereplő eljárás során kifejtett álláspontját. A piacfelügyeleti hatóság a tájékoztatásban jelzi, ha a megfelelés hiánya az alábbiakban felsoroltak valamelyike miatt következett be:
 
@@ -28,7 +22,7 @@ b) a megfelelőség vélelmezését megalapozó, a 11. §-ban hivatkozott harmon
 
 (9) Ha a (6) bekezdés szerinti átmeneti intézkedést a Bizottság vagy a többi tagállam indokolatlannak ítéli, akkor a piacfelügyeleti hatóság az átmeneti intézkedést visszavonja.
 
-(10) Amennyiben valamely más tagállam illetékes piacfelügyeleti hatósága a (6) bekezdés szerinti átmeneti intézkedésről küld értesítést és az átmeneti intézkedést a (8) bekezdés alapján elfogadottnak kell tekinteni, a piacfelügyeleti hatóság gondoskodik az értesítésben szereplő, a 765/2008/EK rendelet 21. cikke szerinti korlátozó intézkedés haladéktalan meghozataláról.
+(10)[^18] Amennyiben valamely más tagállam illetékes piacfelügyeleti hatósága a (6) bekezdés szerinti átmeneti intézkedésről küld értesítést és az átmeneti intézkedést a (8) bekezdés alapján elfogadottnak kell tekinteni, a piacfelügyeleti hatóság gondoskodik az értesítésben szereplő, a (EU) 2019/1020 rendelet 16. cikke szerinti korlátozó intézkedés haladéktalan meghozataláról.
 
 (11) Ha a (6) bekezdés szerinti átmenti intézkedésre vonatkozó szabályok sérelme nélkül a piacfelügyeleti hatóság azt állapítja meg, hogy:
 
@@ -50,4 +44,7 @@ g) a gyártó a 6. § (7) bekezdés szerinti, vagy az importőr a 8. § (3), (7)
 
 (12) Amennyiben a gazdasági szereplő a (11) bekezdés szerinti felhívásnak nem tesz eleget, a piacfelügyeleti hatóság az elektronikus hírközlésről szóló törvényben, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával intézkedik a nem megfelelő készülék forgalmazásának betiltására vagy korlátozására, forgalomból történő kivonására vagy visszahívására.
 
-[^9]: A 15. § (6) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 14. §-a szerint módosított szöveg.
+[^15]: A 15. § (2) bekezdése a 2/2021. (II. 16.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^16]: A 15. § (5) bekezdése a 2/2021. (II. 16.) NMHH rendelet 4. § 5. pontja szerint módosított szöveg.
+[^17]: A 15. § (6) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 14. §-a szerint módosított szöveg.
+[^18]: A 15. § (10) bekezdése a 2/2021. (II. 16.) NMHH rendelet 4. § 5. pontja szerint módosított szöveg.

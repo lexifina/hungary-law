@@ -1,4 +1,4 @@
-## 19. § Ez a rendelet az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. melléklet a 8/2016. (XII. 6.) NMHH rendelethez
 
