@@ -14,13 +14,13 @@
 
 | 6. | Salgótarjáni Kisvasút megvalósíthatósági tanulmány | 15 |  |  |  |  |  |
 
-| 7. | Hajtánypálya tervezés |  |  | 15 |  |  |  |
+| 7. | Hajtányozásra is alkalmas keskeny nyomtávolságú vasúti pálya engedélyezési és kiviteli tervezése, szükséges engedélyek megszerzése |  |  | 15 |  |  |  |
 
 | 8. | Összesen | 4293,9 | 243,1 | 3342 | 931 | 2642,6 | 1129 |
 
 | 9. | 4537 | 4273 | 3771,6 |
 
-2. melléklet az 1474/2019. (VIII. 1.) Korm. határozathoz
+2. melléklet az 1474/2019. (VIII. 1.) Korm. határozathoz[^4]
 
 |  | A | B | C |
 
@@ -48,7 +48,7 @@
 
 | 12. | Salgótarjáni Kisvasút megvalósíthatósági tanulmány | Nógrád Megyei Kormányhivatal | Innovációs és Technológiai Minisztérium |
 
-| 13. | Hajtánypálya tervezése és prototípus fejlesztése |  | Aktív és Ökoturisztikai Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság |
+| 13. | Hajtányozásra is alkalmas keskeny nyomtávolságú vasúti pálya engedélyezési és kiviteli tervezése, szükséges engedélyek megszerzése | Kiskunsági Nemzeti Park | Agrárminisztérium |
 
 | 14. | Mesztegnyői Állami Erdei Kisvasút | SEFAG Erdészeti és Faipari Zártkörűen Működő Részvénytársaság | Agrárminisztérium |
 
@@ -63,3 +63,5 @@
 | 19. | Nagybörzsöny-Nagyirtás Erdei Vasút | Nagybörzsöny Község Önkormányzata | Innovációs és Technológiai Minisztérium |
 
 | 20. | Börzsöny Kisvasút (Szob-Márianosztra) | Szob Város Önkormányzata | Innovációs és Technológiai Minisztérium |
+
+[^4]: A 2. melléklet az 1066/2021. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
