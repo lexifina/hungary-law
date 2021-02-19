@@ -10,8 +10,10 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-3. felhívja az emberi erőforrások miniszterét, hogy az 1. pont szerinti sportszervezeteknek az ott meghatározott célra, a 2. pont alapján biztosított forrás terhére – külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – 2021. január 31-éig történő elszámolási kötelezettséggel támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
+3.[^1] felhívja az emberi erőforrások miniszterét, hogy az 1. pont szerinti sportszervezeteknek az ott meghatározott célra, a 2. pont alapján biztosított forrás terhére – külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – 2023. február 28-áig történő elszámolási kötelezettséggel támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: a 2. pont végrehajtását követően 30 napon belül
+
+[^1]: A 3. pont az 1062/2021. (II. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
