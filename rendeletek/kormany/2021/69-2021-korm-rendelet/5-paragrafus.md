@@ -1,0 +1,3 @@
+## 4. §[^4]
+
+[^4]: A 4. § a 20. § (2) bekezdése alapján 2021. március 1-jén lép hatályba.
