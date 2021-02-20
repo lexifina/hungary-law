@@ -300,7 +300,7 @@
 
 ## 1.119.[^126] nemzetközi gépjárművezetői engedély;
 
-## 1.120.[^127] az Állami Egészségügyi Ellátó Központ által kiállított működési nyilvántartási igazolvány;
+## 1.120.[^127] az Országos Kórházi Főigazgatóság által kiállított működési nyilvántartási igazolvány;
 
 ## 1.121.[^128] esélyegyenlőségi szakértői bizonyítvány;
 
@@ -529,7 +529,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^124]: Az 1. számú melléklet III. rész 1. pont 1.117. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^125]: Az 1. számú melléklet III. rész 1. pont 1.118. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^126]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^127]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^127]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2021. (II. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^128]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^129]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (3) bekezdés e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^130]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
