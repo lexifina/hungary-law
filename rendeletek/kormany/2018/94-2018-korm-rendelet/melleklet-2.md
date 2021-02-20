@@ -100,7 +100,7 @@
 
 | 2 |  |  |
 
-| 3 | Állami Egészségügyi Ellátó Központ | irányítás |
+| 3 | Országos Kórházi Főigazgatóság | irányítás |
 
 | 4 | Klebelsberg Központ | irányítás |
 
