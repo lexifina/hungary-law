@@ -158,7 +158,7 @@
 
 | 27 | KÖFOP-1.0.0-VEKOP- 15-2017-00050 | Kormányzati Informatikai Fejlesztési Ügynökség | Földmegfigyelési Információs Rendszer (FIR) földmegfigyelési adatinfrastruktúra és szolgáltatások kialakítása | 27.1. Földmegfigyelési Információs Rendszer (FIR) |
 
-| 28 | KÖFOP-1.0.0-VEKOP- 15-2017-00051 | Állami Egészségügyi Ellátó Központ | Az egészségügyi ellátási rendszer pénzügyi irányítási és közigazgatási funkcióinak megújítása | 28.1. Központi Pénzügyi Rendszer (KPR) |
+| 28 | KÖFOP-1.0.0-VEKOP- 15-2017-00051 | Országos Kórházi Főigazgatóság | Az egészségügyi ellátási rendszer pénzügyi irányítási és közigazgatási funkcióinak megújítása | 28.1. Központi Pénzügyi Rendszer (KPR) |
 
 | 28.2. Online Elektronikus Halottvizsgálati Bizonyítvány Kitöltő Rendszer (EÜ-eHVB) |
 
