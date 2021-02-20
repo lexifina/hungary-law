@@ -1,4 +1,4 @@
-## 28. §[^50]
+## 28. §[^51]
 
 ## 9. A MAB Felügyelő Bizottsága
 
@@ -8,4 +8,4 @@
 
 (3) A MAB Felügyelő Bizottsága ellenőrzi a MAB működését és gazdálkodását. Ennek során a MAB elnökétől jelentést, a MAB Titkársága munkavállalóitól pedig tájékoztatást vagy felvilágosítást kérhet, továbbá a MAB könyveibe és irataiba betekinthet, azokat megvizsgálhatja.
 
-[^50]: A 28. §-t a 407/2017. (XII. 15.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte.
+[^51]: A 28. §-t a 407/2017. (XII. 15.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte.
