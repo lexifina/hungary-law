@@ -1,0 +1,1 @@
+## „(2) Vezetőnek minősül – az (1) bekezdésben foglaltak kivételével – az intézmény önálló szervezeti egységének vezetője és annak helyettese, valamint a munkamegosztás szempontjából elkülönült szervezeti egység vezetője és annak helyettese.”
