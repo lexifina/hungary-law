@@ -22,4 +22,6 @@ ba) a Képzés elvégzésével okleveles ápoló szakképzettséget szerez, és
 
 bb) a ba) alpont szerinti szakképzettség megszerzését követő öt éven belül, a szakképzettségének megfelelő jogviszonyban legalább három évig teljes munkaidőben végez közfinanszírozott ápolási tevékenységet magyarországi közfinanszírozott egészségügyi szolgáltatónál vagy egészségügyi, ápolási tevékenységet lát el honvédségi szervezetnél.
 
-(4) A pályázati felhívást a Központ honlapján kell közzé tenni.
+(4)[^5] A pályázati felhívást az OKFŐ honlapján kell közzé tenni.
+
+[^5]: A 7. § (4) bekezdése a 70/2021. (II. 19.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

@@ -1,12 +1,12 @@
 3. § (1) A Bizottság
 
-a) kidolgozza és a miniszter jóváhagyását követően az Állami Egészségügyi Ellátó Központ (a továbbiakban: Központ) honlapján közzéteszi az ösztöndíjprogram működési szabályzatát, valamint a pályázati felhívást,
+a)[^1] kidolgozza és a miniszter jóváhagyását követően az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) honlapján közzéteszi az ösztöndíjprogram működési szabályzatát, valamint a pályázati felhívást,
 
-b) javaslatot tesz a Központ főigazgatója részére a benyújtott pályázatok elbírálására,
+b)[^2] javaslatot tesz az országos kórház-főigazgató részére a benyújtott pályázatok elbírálására,
 
 c) kidolgozza az ösztöndíjak meghatározásának értékelési szempontrendszerét,
 
-d) az ösztöndíjprogram működési szabályzatával összhangban javaslatot tesz a Központ főigazgatója részére az ösztöndíjak mértékére vonatkozóan,
+d)[^3] az ösztöndíjprogram működési szabályzatával összhangban javaslatot tesz az országos kórház-főigazgató részére az ösztöndíjak mértékére vonatkozóan,
 
 e) meghatározza a képzési időszak 2. félévére vonatkozó kreditindexhez kapcsolódó ösztöndíjak összegét és a 3. félévre vonatkozó, ösztöndíjra jogosító kreditindex minimumszintjét,
 
@@ -17,3 +17,7 @@ g) tájékoztatja a képző felsőoktatási intézményt az elnyert ösztöndíj
 h) koordinációs, kapcsolattartási és információs feladatokat lát el.
 
 (2) A Bizottság üléseinek összehívása és levezetése, valamint az ülés napirendjének meghatározása az elnök feladata. A Bizottság a döntéseit nyílt szavazással, a jelenlévő tagok több mint felének egybehangzó szavazatával hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt. A Bizottság határozatképességéhez a tagjai több mint felének jelenléte szükséges. Az ülésekről jegyzőkönyvet kell készíteni.
+
+[^1]: A 3. § (1) bekezdés a) pontja a 70/2021. (II. 19.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés b) pontja a 70/2021. (II. 19.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés d) pontja a 70/2021. (II. 19.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
