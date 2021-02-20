@@ -1,5 +1,7 @@
 ## 2. § Az Elismerési tv. 53/A. §-ának alkalmazásában szabályozott szakmai tevékenységnek minősül az egészségügyi kártevőirtószerekkel, valamint gázosítószerekkel végzett tevékenység szabályairól szóló miniszteri rendelet szerint megállapított szakképesítésekkel végezhető, az 1. melléklet szerinti szakmai tevékenység.
 
-3. § (1) Az Elismerési tv. 53/A. §-a szerinti feltételek teljesülése esetén az ÁEEK – kérelemre – az Európai Gazdasági Térség valamely tagállamában mérgező termék felhasználását igénylő, jogszerűen folytatott szakmai tevékenységet elismeri. Az elismerés Magyarországon jogszabály szerint, a 2. § szerinti szakképesítéssel végezhető valamennyi tevékenység, illetve – az elismerés tartalmától függően – kizárólag egyes résztevékenységek végzésére jogosít.
+3. § (1)[^2] Az Elismerési tv. 53/A. §-a szerinti feltételek teljesülése esetén az OKFŐ – kérelemre – az Európai Gazdasági Térség valamely tagállamában mérgező termék felhasználását igénylő, jogszerűen folytatott szakmai tevékenységet elismeri. Az elismerés Magyarországon jogszabály szerint, a 2. § szerinti szakképesítéssel végezhető valamennyi tevékenység, illetve – az elismerés tartalmától függően – kizárólag egyes résztevékenységek végzésére jogosít.
 
 (2) Ha jogszabály mérgező termék felhasználását igénylő, szabályozott szakmai tevékenység végzésére szakképesítés (bizonyítvány) megszerzése alapján jogosultak számára továbbképzési kötelezettséget ír elő, e továbbképzési kötelezettségnek a szakmai gyakorlat (1) bekezdés szerinti elismerése alapján tevékenységvégzésre jogosultak is kötelesek eleget tenni.
+
+[^2]: A 3. § (1) bekezdése a 70/2021. (II. 19.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

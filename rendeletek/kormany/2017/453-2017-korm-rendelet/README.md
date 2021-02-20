@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-453-20-
 | --- | --- | --- |
 | 2018-01-01 | 2017-453-20-22.1 | 453/2017. (XII. 27.) Korm. rendelet |
 | 2020-02-15 | 2017-453-20-22.2 | 13/2020. (II. 7.) Korm. rendelet |
+| 2021-02-20 | 2017-453-20-22.3 | 70/2021. (II. 19.) Korm. rendelet |
