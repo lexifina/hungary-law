@@ -40,7 +40,7 @@ A) Földművelésügyi Minisztérium hivatali szervezete
 
 B) Központi hivatalok
 
-1.[^1]
+1.[^2]
 
 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -64,7 +64,7 @@ B) Központi hivatalok
 
 2.10. országos főállatorvos által az országos élelmiszerlánc-biztonsági válságkezelési feladatok ellátására kijelölt személy
 
-3–4.[^2]
+3–4.[^3]
 
 5. Nemzeti Park Igazgatóságok
 
@@ -86,11 +86,8 @@ C) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 1.5. integritás tanácsadó
 
-2. Nemzeti Agrárkutatási és Innovációs Központ
+2.[^4]
 
-2.1. főigazgató
-
-2.2. általános főigazgató-helyettes
-
-[^1]: Az 1. melléklet B) rész 1. pontját a 42/2017. (VIII. 17.) FM rendelet 212. §-a hatályon kívül helyezte.
-[^2]: Az 1. melléklet B) rész 3–4. pontját a 42/2017. (VIII. 17.) FM rendelet 212. §-a hatályon kívül helyezte.
+[^2]: Az 1. melléklet B) rész 1. pontját a 42/2017. (VIII. 17.) FM rendelet 212. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet B) rész 3–4. pontját a 42/2017. (VIII. 17.) FM rendelet 212. §-a hatályon kívül helyezte.
+[^4]: Az 1. melléklet C) fejezet 2. pontját a 3/2021. (II. 19.) AM rendelet 7. §-a hatályon kívül helyezte.
