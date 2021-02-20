@@ -1,4 +1,4 @@
-## 5/H. §[^56] E rendelet alkalmazásában
+## 5/H. §[^57] E rendelet alkalmazásában
 
 1. hiteles fordítás:
 
@@ -18,7 +18,7 @@ b) az a másolat, amely hitelesnek minősül valamely tagállam joga szerint, to
 
 c) a jogszabály által hitelesnek minősített másolat,
 
-d)[^57] a kormányablak ügyintézője által az eredeti okiratról készített, bélyegzőjével és záradékával ellátott másolat.
+d)[^58] a kormányablak ügyintézője által az eredeti okiratról készített, bélyegzőjével és záradékával ellátott másolat.
 
-[^56]: Az 5/H. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
-[^57]: Az 5/H. § 2. pont d) alpontját a 457/2017. (XII. 28.) Korm. rendelet 218. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^57]: Az 5/H. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+[^58]: Az 5/H. § 2. pont d) alpontját a 457/2017. (XII. 28.) Korm. rendelet 218. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
