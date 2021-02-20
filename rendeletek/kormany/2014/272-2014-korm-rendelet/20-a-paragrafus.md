@@ -1,4 +1,4 @@
-20/A. §[^150] (1)[^151] Az irányító hatóság köteles a kiemelt projekt
+20/A. §[^152] (1)[^153] Az irányító hatóság köteles a kiemelt projekt
 
 a) támogatásáról szóló döntést és
 
@@ -8,5 +8,5 @@ b) támogatási szerződése szakmai tartalmat is érintő módosítását
 
 (2) Ha az (1) bekezdés szerinti felelős a megkereséstől számított 8 napon belül nem ad véleményt, egyetértőnek kell tekinteni.
 
-[^150]: A 20/A. §-t a 387/2017. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
-[^151]: A 20/A. § (1) bekezdés záró szövegrésze az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^152]: A 20/A. §-t a 387/2017. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^153]: A 20/A. § (1) bekezdés záró szövegrésze az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés c) pontja szerint módosított szöveg.

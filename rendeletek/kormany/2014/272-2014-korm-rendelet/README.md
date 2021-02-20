@@ -71,3 +71,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2020-12-04 | 2014-272-20-22.63 | 293/2020. (VI. 17.) Korm. rendelet |
 | 2021-01-01 | 2014-272-20-22.64 | 238/2020. (V. 26.) Korm. rendelet |
 | 2021-02-08 | 2014-272-20-22.65 | 293/2020. (VI. 17.) Korm. rendelet |
+| 2021-02-20 | 2014-272-20-22.66 | 75/2021. (II. 19.) Korm. rendelet |
