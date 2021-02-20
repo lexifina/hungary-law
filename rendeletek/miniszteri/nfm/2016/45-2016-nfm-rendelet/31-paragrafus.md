@@ -8,7 +8,8 @@ b) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályo
 
 ## való megfelelést szolgálja.
 
-(2) Ez a rendelet a tengerészeti felszerelésekre vonatkozó tervezési, gyártási és teljesítménykövetelményekről és vizsgálati előírásokról, valamint az (EU) 2018/773 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. augusztus 6-i (EU) 2019/1397 bizottsági végrehajtási rendelet alkalmazásához szükséges rendelkezéseket állapít meg.
+(2)[^5] Ez a rendelet a tengerészeti felszerelésekre vonatkozó tervezési, gyártási és teljesítménykövetelményekről és vizsgálati előírásokról, valamint az (EU) 2019/1397 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2020. július 16-i (EU) 2020/1170 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^3]: A 30. §-t a 34/2020. (X. 7.) ITM rendelet 6. § a) pontja hatályon kívül helyezte.
 [^4]: A 31. § a 34/2020. (X. 7.) ITM rendelet 5. §-ával megállapított szöveg.
+[^5]: A 31. § (2) bekezdése a 9/2021. (II. 15.) ITM rendelet 2. §-ával megállapított szöveg.

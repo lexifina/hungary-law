@@ -8,7 +8,7 @@
 
 7. § (1) A termék gyártásának megkezdését a hajózási hatóságnak be kell jelenteni.
 
-(2)[^2] A hajókormány-emblémának a terméken való feltüntetésével a gyártó felel azért, hogy a tengerészeti felszerelést, amelyre a megfelelőségi jelölés került, az (EU) 2019/1397 bizottsági végrehajtási rendelet melléklete szerinti nemzetközi dokumentumokban foglalt tervezési, gyártási és teljesítménykövetelményeknek és vizsgálati előírásoknak megfelelően tervezték és gyártották, valamint az e §-ban és a 8–9. §-ban meghatározott kötelezettségek teljesítéséért.
+(2)[^2] A hajókormány-emblémának a terméken való feltüntetésével a gyártó felel azért, hogy a tengerészeti felszerelést, amelyre a megfelelőségi jelölés került, az (EU) 2020/1170 bizottsági végrehajtási rendelet melléklete szerinti nemzetközi dokumentumokban foglalt tervezési, gyártási és teljesítménykövetelményeknek és vizsgálati előírásoknak megfelelően tervezték és gyártották, valamint az e §-ban és a 8–9. §-ban meghatározott kötelezettségek teljesítéséért.
 
 (3) A gyártó elkészíti a szükséges műszaki dokumentációt, és elvégezteti a megfelelőségértékelési eljárást.
 
@@ -18,4 +18,4 @@
 
 (6) A gyártó gondoskodik azon eljárásokról, amelyek révén sorozatgyártás esetén is biztosított a megfelelőség fenntartása. Ezen eljárások során a tengerészeti felszerelés kialakításában vagy tulajdonságaiban, és a 3. § szerinti, a felszerelésre vonatkozó és a megfelelőségi nyilatkozat alapjául szolgáló nemzetközi dokumentumokban bekövetkező változásokat figyelembe kell venni. Ha a 3. melléklet alapján szükséges, a gyártó újra elvégezteti a megfelelőségértékelést.
 
-[^2]: A 7. § (2) bekezdése a 34/2020. (X. 7.) ITM rendelet 4. §-ával megállapított szöveg.
+[^2]: A 7. § (2) bekezdése a 34/2020. (X. 7.) ITM rendelet 4. §-ával megállapított, a 9/2021. (II. 15.) ITM rendelet 3. §-a szerint módosított szöveg.
