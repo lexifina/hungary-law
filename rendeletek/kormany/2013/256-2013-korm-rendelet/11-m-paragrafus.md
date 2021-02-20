@@ -1,8 +1,8 @@
-## 11/L. §[^54] E rendelet alkalmazásában 2021. március 1. napját megelőzően egészségügyi szolgálati jogviszony alatt közalkalmazotti jogviszonyt kell érteni.
+## 11/L. §[^56] E rendelet alkalmazásában 2021. március 1. napját megelőzően egészségügyi szolgálati jogviszony alatt közalkalmazotti jogviszonyt kell érteni.
 
-11/M. §[^55] (1) A 2. mellékletben foglalt táblázat A:267–A:272 mezőjében meghatározott egészségügyi szolgáltatónak 2021. január 1-jén jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2021. január 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
+11/M. §[^57] (1) A 2. mellékletben foglalt táblázat A:267–A:272 mezőjében meghatározott egészségügyi szolgáltatónak 2021. január 1-jén jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2021. január 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
 
 (2) Az (1) bekezdés szerinti munkáltató illetmény- vagy bérnövelésre jogosult foglalkoztatottja részére az (1) bekezdés szerinti emelt összegű illetményt (bért) első alkalommal a 2021. január hónapra esedékes illetmény (bér) tekintetében kell megfizetni.
 
-[^54]: A 11/L. §-t a 48/2021. (II. 5.) Korm. rendelet 2. §-a iktatta be.
-[^55]: A 11/M. §-t a 48/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.
+[^56]: A 11/L. §-t a 48/2021. (II. 5.) Korm. rendelet 2. §-a iktatta be.
+[^57]: A 11/M. §-t a 48/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.

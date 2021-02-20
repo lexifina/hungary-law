@@ -296,7 +296,7 @@
 
 | 148. | Nemzeti Népegészségügyi Központ | Budapest |
 
-| 149. | Állami Egészségügyi Ellátó Központ | Budapest |
+| 149. | Országos Kórházi Főigazgatóság | Budapest |
 
 | 150. | Országos Klinikai Idegtudományi Intézet | Budapest |
 
@@ -544,7 +544,7 @@
 
 | 272. | Biatorbágy Város Önkormányzata | Biatorbágy |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^81]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^83]
 
 ## Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
@@ -624,4 +624,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^81]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^83]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
