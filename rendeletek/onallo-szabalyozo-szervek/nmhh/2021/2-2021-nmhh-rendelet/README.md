@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-2-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-02-19 | 2021-2-20-3H.1 | 2/2021. (II. 16.) NMHH rendelet |
+| 2021-02-20 | 2021-2-20-3H.2 | 2010: CXXX. törvény |
