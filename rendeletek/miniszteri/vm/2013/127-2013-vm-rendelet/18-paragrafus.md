@@ -1,5 +1,5 @@
-## 17. §[^29] A NAIK, mint kapcsolattartó iroda ellátja a tesztüzemi információs rendszer működtetésével és fejlesztésével kapcsolatos feladatokat, fenntartja és elsődlegesen hasznosítja a tesztüzemi rendszer adatbázisát.
+## 17. §[^30] Az AKI Nonprofit Kft., mint kapcsolattartó iroda ellátja a tesztüzemi információs rendszer működtetésével és fejlesztésével kapcsolatos feladatokat, fenntartja és elsődlegesen hasznosítja a tesztüzemi rendszer adatbázisát.
 
 ## 4. Záró rendelkezések
 
-[^29]: A 17. § a 17/2019. (V. 10.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^30]: A 17. § a 3/2021. (II. 19.) AM rendelet 4. § a) pontja szerint módosított szöveg.
