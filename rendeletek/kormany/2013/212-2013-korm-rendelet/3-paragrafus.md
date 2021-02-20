@@ -22,7 +22,7 @@ bd) tudomásul veszi, hogy amennyiben a ba) és bb) alpont alapján tett nyilatk
 
 c)[^12] csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
 
-d)[^13] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Állami Egészségügyi Ellátó Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
+d)[^13] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Országos Kórházi Főigazgatóság által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
 
 e) csatolja a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságnak a legfőbb szerve ülésének jegyzőkönyvében rögzített döntéséről készült másolatot a tulajdonosi szerkezet megváltoztatásáról, amely döntés legalább a következőket tartalmazza:
 
@@ -48,5 +48,5 @@ h) csatolja nyilatkozatát arról, hogy a gyógyszerészi foglalkozás gyakorlá
 
 [^11]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
 [^12]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^13]: A 3. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 233. §-a szerint módosított szöveg.
+[^13]: A 3. § d) pontja a 70/2021. (II. 19.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^14]: A 3. § e) pont ee) alpontját a 172/2016. (VII. 1.) Korm. rendelet 60. § (2) bekezdése iktatta be.
