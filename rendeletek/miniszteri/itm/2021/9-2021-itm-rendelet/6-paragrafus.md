@@ -1,0 +1,3 @@
+## 5. § Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
+
+6. § Ez a rendelet a tengerészeti felszerelésekre vonatkozó tervezési, gyártási és teljesítménykövetelményekről és vizsgálati előírásokról, valamint az (EU) 2019/1397 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2020. július 16-i (EU) 2020/1170 bizottsági végrehajtási rendelet és a harmadik országok által kibocsátott pilótatanúsítványok elfogadására vonatkozó részletes szabályok megállapításáról és az 1178/2011/EU rendelet módosításáról szóló, 2020. március 4-i (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

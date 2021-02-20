@@ -1,0 +1,3 @@
+## 4. § A légijármű és a repülőeszköz személyzet, valamint a repülésüzemi tiszt képzéséről, vizsgáztatásáról, engedélyeiről és a képzésükben részt vevő képző szervezetek engedélyezéséről szóló 53/2016. (XII. 16.) NFM rendelet 146. § (2) bekezdésében az „1178/2011/EU bizottsági rendelet 8. cikkében” szövegrész helyébe az „a harmadik országok által kibocsátott pilótatanúsítványok elfogadására vonatkozó részletes szabályok megállapításáról és az 1178/2011/EU rendelet módosításáról szóló, 2020. március 4-i (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelet” szöveg lép.
+
+## 3. Záró rendelkezések
