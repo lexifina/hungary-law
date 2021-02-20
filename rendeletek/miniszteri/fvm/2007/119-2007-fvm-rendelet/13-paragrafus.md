@@ -8,7 +8,7 @@ b) a körzeti kapcsolattartó állatorvosok részére a körzetükkel kapcsolato
 
 c) az ellenőrző szervezetek részére az eljárásukhoz szükséges valamennyi adathoz;
 
-d)[^94] a Nemzeti Agrárkutatási és Innovációs Központ részére statisztikai célú adatokhoz;
+d)[^94] az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság részére statisztikai célú adatokhoz;
 
 e) a más jogszabályok felhatalmazása alapján végzett tevékenység zavartalan ellátása érdekében a jogszabályban megnevezett szervezetek részére, az eljárásukhoz szükséges adatokhoz folyamatosan, elektronikus formában is;
 
@@ -20,5 +20,5 @@ f) a Baromfi Termék Tanács (a továbbiakban: BTT) részére azon állattartók
 
 (4) Az Országos Adatbázis üzemeltetője a Központi Statisztikai Hivatal számára a különböző állatfajokról, illetve az állattartókról rendelkezésre álló adatokat statisztikai célú felhasználásra térítésmentesen átadja. Az adatátadási kötelezettség írásbeli megkeresés alapján és csak a Központi Statisztikai Hivatal jogszabályban rögzített feladatainak ellátásához szükséges mértékig teljesíthető. A Központi Statisztikai Hivatal az átvett adatokat a rá vonatkozó jogszabály alapján jogosult kezelni.
 
-[^94]: A 13. § (1) bekezdés d) pontja a 17/2019. (V. 10.) AM rendelet 2. §-a szerint módosított szöveg.
+[^94]: A 13. § (1) bekezdés d) pontja a 3/2021. (II. 19.) AM rendelet 2. §-a szerint módosított szöveg.
 [^95]: A 13. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja, a 40/2018. (XII. 15.) AM rendelet 5. § k) pontja szerint módosított szöveg.
