@@ -13,3 +13,7 @@ e) kirendelés
 ## esetén.
 
 (2) Az (1) bekezdés alá nem tartozó egészségügyi szolgáltatónál az (1) bekezdés szerinti díjak feltételeit és mértékét az egészségügyi szolgáltató fenntartója, illetve tulajdonosa állapítja meg az országos kórház-főigazgató javaslatának figyelembevételével.
+
+(3)[^12] Az országos kórház-főigazgató megállapítja az állami fenntartású egészségügyi szolgáltatónál az egészségügyi szakdolgozók esetében az illetményen felül járó helyettesítési díj feltételeit és mértékét.
+
+[^12]: A 26. § (3) bekezdését a 70/2021. (II. 19.) Korm. rendelet 24. §-a iktatta be.

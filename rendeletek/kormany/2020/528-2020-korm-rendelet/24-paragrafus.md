@@ -14,6 +14,8 @@ e) egészségügyi szolgáltató 5. § (2) bekezdése szerinti vezetőjét
 
 ## vezetői juttatás illeti meg, melynek felső határát az országos kórház-főigazgató állapítja meg.
 
+(1a)[^11] Az Eszjtv. 8. § (3) bekezdésében foglaltakon túl az állami fenntartású mentőszolgálat és vérellátó-szolgálat vezetőjét vezetői juttatás illeti meg, melynek felső határát az egészségügyért felelős miniszter állapítja meg.
+
 (2) Az (1) bekezdés szerinti vezetői juttatás mértékét
 
 a) az országos és a megyei fekvőbeteg-ellátó egészségügyi szolgáltató, valamint az irányító megyei intézményi feladatokat ellátó klinikai központ vezetője esetében az országos kórház-főigazgató,
@@ -23,3 +25,5 @@ b) a városi fekvőbeteg-ellátó egészségügyi szolgáltató vezetője, a já
 ## állapítja meg.
 
 (3) Az (1) bekezdés alá nem tartozó egészségügyi szolgáltatónál a vezetői juttatások mértékét az egészségügyi szolgáltató fenntartója, illetve tulajdonosa állapítja meg.
+
+[^11]: A 24. § (1a) bekezdését a 70/2021. (II. 19.) Korm. rendelet 23. §-a iktatta be.

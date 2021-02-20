@@ -12,6 +12,8 @@ e) az egyházi jogi személy tulajdonában álló vagy fenntartásában működ�
 
 f) az önkormányzati fenntartású egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén az egészségügyi szolgáltató vezetője a fenntartó által kijelölt személy
 
+g)[^3] az a)–f) pont alá nem tartozó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén az egészségügyi szolgáltató vezetője a fenntartó által kijelölt személy
+
 (a továbbiakban együtt: engedélyező szerv) engedélyét kérni.
 
 (2) A további jogviszonyra irányuló kérelemnek tartalmaznia kell
@@ -43,3 +45,5 @@ e) a donor plazmaferezis folytatására előírt engedéllyel rendelkező szerve
 (6) Az egészségügyi szolgálati jogviszonyban álló egészségügyben dolgozónak nem kell az engedélyező szerv előzetes engedélyét kérnie – az Eszjtv. hatálya alá tartozó egészségügyi szolgáltatónál történő további munkavégzésre irányuló jogviszony kivételével – a további munkavégzésére irányuló jogviszony létesítésekor.
 
 (7) Az Eszjtv. 4. § (5) bekezdésének alkalmazása alóli kivételeket a Kormány külön rendeletben állapítja meg.
+
+[^3]: A 7. § (1) bekezdés g) pontját a 70/2021. (II. 19.) Korm. rendelet 19. §-a iktatta be.
