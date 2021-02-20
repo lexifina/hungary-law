@@ -20,14 +20,15 @@ bb) a referenciahozam feltüntetésével kell szerepeltetni, ha a tárgyévi hoz
 
 (5)[^43] A kárenyhítő juttatás iránti kérelem alapján történő juttatás számítása során a szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet 1. § b) pontja szerinti intézkedésbe vont, zöldszürettel érintett területen termesztett minőségi- és egyéb borszőlőültetvény kultúrák zöldszürettel érintett kárenyhítési évre vonatkozó tárgyévi hozamait
 
-a) az Mkk. tv. 2. § 2a. pontja szerinti, a NAIK által meghatározott országos átlaghozammal kell figyelembe venni, ha az országos átlaghozam nagyobb, mint a mezőgazdasági termelő referenciahozama,
+a)[^44] az Mkk. tv. 2. § 2a. pontja szerinti, az AKI Nonprofit Kft. által meghatározott országos átlaghozammal kell figyelembe venni, ha az országos átlaghozam nagyobb, mint a mezőgazdasági termelő referenciahozama,
 
 b) a mezőgazdasági termelő referenciahozamával kell figyelembe venni, ha az a) pont szerinti országos átlaghozam kisebb vagy egyenlő, mint a mezőgazdasági termelő referenciahozama.
 
-(6)[^44] Az (5) bekezdés szerinti terület mezőgazdasági káreseménnyel nem érintett területnek minősül azzal, hogy a kárenyhítő juttatás iránti kérelemben ezen terület vonatkozásában a mezőgazdasági termelőnek a zöldszürettel érintett kárenyhítési évi termésmennyiséget nulla értékkel kell megadnia.
+(6)[^45] Az (5) bekezdés szerinti terület mezőgazdasági káreseménnyel nem érintett területnek minősül azzal, hogy a kárenyhítő juttatás iránti kérelemben ezen terület vonatkozásában a mezőgazdasági termelőnek a zöldszürettel érintett kárenyhítési évi termésmennyiséget nulla értékkel kell megadnia.
 
 [^40]: A 7. § (1) bekezdése a 35/2017. (VII. 6.) FM rendelet 12. §-ával megállapított szöveg.
 [^41]: A 7. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 14. §-ával megállapított szöveg.
 [^42]: A 7. § (4) bekezdés b) pont nyitó szövegrésze a 35/2017. (VII. 6.) FM rendelet 17. § e) pontjával megállapított szöveg.
 [^43]: A 7. § (5) bekezdését a 46/2019. (X. 4.) AM rendelet 9. §-a iktatta be, nyitó szövegrésze a 60/2020. (XII. 9.) AM rendelet 8. § g) pontja szerint módosított szöveg.
-[^44]: A 7. § (6) bekezdését a 46/2019. (X. 4.) AM rendelet 9. §-a iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 8. § h) pontja szerint módosított szöveg.
+[^44]: A 7. § (5) bekezdés a) pontja a 3/2021. (II. 19.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^45]: A 7. § (6) bekezdését a 46/2019. (X. 4.) AM rendelet 9. §-a iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 8. § h) pontja szerint módosított szöveg.

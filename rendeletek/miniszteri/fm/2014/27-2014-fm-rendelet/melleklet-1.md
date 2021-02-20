@@ -1,4 +1,4 @@
-## 22. §[^68] E rendeletnek a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosításáról szóló 60/2020. (XII. 9.) AM rendelettel [a továbbiakban: 60/2020. (XII. 9.) AM rendelet] megállapított 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet hatálybalépésekor[^69] folyamatban lévő eljárásokban is alkalmazni kell.
+## 22. §[^69] E rendeletnek a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosításáról szóló 60/2020. (XII. 9.) AM rendelettel [a továbbiakban: 60/2020. (XII. 9.) AM rendelet] megállapított 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet hatálybalépésekor[^70] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 27/2014. (XI. 25.) FM rendelethez
 
@@ -58,5 +58,5 @@ ____________
 
 2 A 4. § (1) bekezdés szerinti várható hozamcsökkenés a 10. és a 11. pont szerinti várható tárgyévi hozamok különbsége.
 
-[^68]: A 22. §-t a 60/2020. (XII. 9.) AM rendelet 7. §-a iktatta be.
-[^69]: A hatálybalépés időpontja 2020. december 17.
+[^69]: A 22. §-t a 60/2020. (XII. 9.) AM rendelet 7. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2020. december 17.

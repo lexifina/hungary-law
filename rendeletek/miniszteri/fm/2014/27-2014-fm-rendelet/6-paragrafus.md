@@ -1,12 +1,12 @@
 ## 5. A hozamérték-csökkenés megállapítása
 
-6. § (1)[^32] Az Mkk. tv. 2. § 31. pontja szerinti tárgyévi hozamértéket – a 3. melléklet szerinti számítási módszerrel – a tárgyévben ténylegesen hasznosított termőföldről betakarított termésmennyiség alapulvételével a Nemzeti Agrárkutatási és Innovációs Központ (a továbbiakban: NAIK) által meghatározott és a minisztérium honlapján közzétett, tárgyévre vonatkozó referenciaárakon kell figyelembe venni.
+6. § (1)[^32] Az Mkk. tv. 2. § 31. pontja szerinti tárgyévi hozamértéket – a 3. melléklet szerinti számítási módszerrel – a tárgyévben ténylegesen hasznosított termőföldről betakarított termésmennyiség alapulvételével az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: AKI Nonprofit Kft.) által meghatározott és a minisztérium honlapján közzétett, tárgyévre vonatkozó referenciaárakon kell figyelembe venni.
 
 (2) A tárgyév november 30-ig még be nem takarított,
 
 a) 50%-os betakarítási készültségi állapotot meghaladó növénykultúrák tárgyévi hozamának kiszámításánál a már betakarított területek termésmennyiségének és a betakarított terület nagyságának hányadosát,
 
-b)[^33] 50%-os betakarítási készültségi állapotot meg nem haladó növénykultúrák tárgyévi hozamának kiszámításánál az – elektronikus benyújtófelületen elérhető, a NAIK által meghatározott – ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatokat
+b)[^33] 50%-os betakarítási készültségi állapotot meg nem haladó növénykultúrák tárgyévi hozamának kiszámításánál az – elektronikus benyújtófelületen elérhető, az AKI Nonprofit Kft. által meghatározott – ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatokat
 
 kell alapul venni.
 
@@ -14,7 +14,7 @@ kell alapul venni.
 
 (4)[^34] Azon növénykultúrák esetében, amelyeknél az (1) bekezdés szerinti referenciaár mellett ársáv közzétételére is sor került, a mezőgazdasági termelő a közzétett referenciaár helyett az adott kárenyhítési év értékesítéseinek számlával, illetve termeltetési szerződéssel igazolt ár adatait jogosult felhasználni, amennyiben ezen ár adatok a közzétett ársávba esnek.
 
-(5)[^35] Ha a mezőgazdasági termelő az adott növénykultúrára vonatkozóan nem rendelkezik a referencia-időszak egy vagy több évének bejelentett hozamadatával, a referencia-időszak hozamadatainak meghatározása során az adott növénykultúrára és az adott évre vonatkozóan – az elektronikus benyújtófelületen elérhető, a NAIK által meghatározott – az ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok alapján kell képezni a bázisadatokat. Ezen bázisadatok szolgálnak az adott mezőgazdasági termelő esetében a hozamérték-csökkenés kiszámításához szükséges referencia hozamérték kiszámításának alapjául.
+(5)[^35] Ha a mezőgazdasági termelő az adott növénykultúrára vonatkozóan nem rendelkezik a referencia-időszak egy vagy több évének bejelentett hozamadatával, a referencia-időszak hozamadatainak meghatározása során az adott növénykultúrára és az adott évre vonatkozóan – az elektronikus benyújtófelületen elérhető, az AKI Nonprofit Kft. által meghatározott – az ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok alapján kell képezni a bázisadatokat. Ezen bázisadatok szolgálnak az adott mezőgazdasági termelő esetében a hozamérték-csökkenés kiszámításához szükséges referencia hozamérték kiszámításának alapjául.
 
 (6)[^36] A referencia-időszak hozamadatainak meghatározása során azokra az évekre, amelyekre vonatkozóan a mezőgazdasági termelő az egységes kérelemben az adott növénykultúra termesztéséről nyilatkozott, az ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok nem használhatóak fel.
 
@@ -30,10 +30,10 @@ kell alapul venni.
 
 (10)[^39] A kárenyhítő juttatás vonatkozásában csak abban az esetben kerül figyelembevételre a növénykultúra egységes kérelemben történő szaporítóanyag célú megjelölése, ha az ügyfél a terület vonatkozásában rendelkezik a szaporítóanyag előállításához kapcsolódóan növénytermesztési hatóság által kiállított hatóság bizonyítvánnyal. A kárenyhítési eljárás szempontjából a hibridnapraforgó és hibridkukorica szaporítóanyag előállítás céljából termesztett növénykultúrának minősül.
 
-[^32]: A 6. § (1) bekezdése a 17/2019. (V. 10.) AM rendelet 4. § a) pontja szerint módosított szöveg.
-[^33]: A 6. § (2) bekezdés b) pontja a 35/2017. (VII. 6.) FM rendelet 11. § (1) bekezdésével megállapított, a 17/2019. (V. 10.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^32]: A 6. § (1) bekezdése a 3/2021. (II. 19.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^33]: A 6. § (2) bekezdés b) pontja a 35/2017. (VII. 6.) FM rendelet 11. § (1) bekezdésével megállapított, a 3/2021. (II. 19.) AM rendelet 5. § b) pontja szerint módosított szöveg.
 [^34]: A 6. § (4) bekezdése a 10/2019. (IV. 1.) AM rendelet 5. § c) pontja szerint módosított szöveg.
-[^35]: A 6. § (5) bekezdése a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított, a 17/2019. (V. 10.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^35]: A 6. § (5) bekezdése a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított, a 35/2017. (VII. 6.) FM rendelet 11. § (1) bekezdésével megállapított, a 3/2021. (II. 19.) AM rendelet 5. § b) pontja szerint módosított szöveg.
 [^36]: A 6. § (6) bekezdése a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^37]: A 6. § (6a) bekezdését a 4/2016. (I. 20.) FM rendelet 20. §-a iktatta be, szövege a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^38]: A 6. § (6b) bekezdését a 4/2016. (I. 20.) FM rendelet 20. §-a iktatta be.
