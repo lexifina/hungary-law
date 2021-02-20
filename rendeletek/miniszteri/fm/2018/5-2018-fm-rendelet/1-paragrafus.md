@@ -12,6 +12,6 @@
 
 3.3. őszi mezőgazdasági munkák állásáról szóló jelentés: a 3. melléklet C) pontjában meghatározott növénykultúrák és munkaműveletek elvégzéséről szeptembertől decemberig, a munkák megkezdésétől a munkák befejezéséig, hetente a miniszter részére készített jelentés;
 
-4.[^1] mezőgazdasági munkák állásáról szóló tájékoztató jelentés: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti egységes kérelem (a továbbiakban: egységes kérelem) benyújtásához meghatározott hasznosítási kódokkal jelölt növénykultúrák körére kiterjedően, a 4. melléklet szerinti ütemezéssel a Nemzeti Agrárkutatási és Innovációs Központ (a továbbiakban: NAIK) részére készített jelentés.
+4.[^1] mezőgazdasági munkák állásáról szóló tájékoztató jelentés: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti egységes kérelem (a továbbiakban: egységes kérelem) benyújtásához meghatározott hasznosítási kódokkal jelölt növénykultúrák körére kiterjedően, a 4. melléklet szerinti ütemezéssel az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: AKI Nonprofit Kft.) részére készített jelentés.
 
-[^1]: Az 1. § 4. pontja a 17/2019. (V. 10.) AM rendelet 9. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 4. pontja a 17/2019. (V. 10.) AM rendelet 9. § a) pontja, a 3/2021. (II. 19.) AM rendelet 10. § a) pontja szerint módosított szöveg.

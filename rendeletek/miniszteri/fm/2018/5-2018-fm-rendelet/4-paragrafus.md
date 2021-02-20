@@ -6,8 +6,8 @@
 
 (3) A megyénként összeállított, 1. § 1–3. pontja szerinti jelentések adatait a NAK országos ügyintéző szervezete ellenőrzi, majd összesített országos jelentés formájában megküldi a miniszter részére.
 
-(4)[^5] A megyénként összeállított, 1. § 4. pontja szerinti jelentések adatait a NAK országos ügyintéző szervezete ellenőrzi, majd megküldi a NAIK részére.
+(4)[^5] A megyénként összeállított, 1. § 4. pontja szerinti jelentések adatait a NAK országos ügyintéző szervezete ellenőrzi, majd megküldi az AKI Nonprofit Kft. részére.
 
 (5) A NAK a rétegzett mintában szereplő adatokat és a gazdálkodó szervezetek által szolgáltatott termelési adatokat kizárólag statisztikai célra használhatja fel.
 
-[^5]: A 4. § (4) bekezdése a 17/2019. (V. 10.) AM rendelet 9. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (4) bekezdése a 17/2019. (V. 10.) AM rendelet 9. § b) pontja, a 3/2021. (II. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
