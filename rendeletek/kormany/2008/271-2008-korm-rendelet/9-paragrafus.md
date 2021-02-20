@@ -8,20 +8,21 @@ a) a kultúráért és az oktatásért felelős miniszter,
 
 b) a kormányzati tudománypolitikáért felelős miniszter,
 
-c) a Magyar Tudományos Akadémia elnöke és a Magyar Művészeti Akadémia elnöke, valamint
+c)[^19] a Magyar Tudományos Akadémia elnöke, a Magyar Művészeti Akadémia elnöke és a Nemzeti Kulturális Tanács elnöke, valamint
 
 d) a Kossuth-díjjal, Széchenyi-díjjal vagy az Állami Díjjal korábban kitüntetettek, továbbá a tudományos, a műszaki, a gazdasági, a művészeti és a kulturális élet mértékadó képviselői köréből a Bizottság elnöke által egyéves időtartamra felkért tíz fő.
 
-(3a)[^19] A Bizottság elnöke a művészeti élet mértékadó képviselői köréből a Magyar Művészeti Akadémia elnöke javaslatára kér fel tagot vagy tagokat.
+(3a)[^20] A Bizottság elnöke a művészeti élet mértékadó képviselői köréből a Magyar Művészeti Akadémia elnöke javaslatára kér fel tagot vagy tagokat.
 
 (4) A Bizottság tagjai sorából előkészítő, jelölő bizottságot alakíthat. A Bizottság, illetve a jelölőbizottság a véleménynyilvánításra külső szakértőt is felkérhet. A felkért szakértő véleményét a Bizottság ülésén fejti ki.
 
 (5) A művészeti díjra vonatkozó javaslatok értékelését a Művészeti Díj Bizottság végzi.
 
-(6)[^20] A Művészeti Díj Bizottság elnöke a miniszterelnök általános helyettese, tagjai az általános politikai koordinációért felelős miniszter, a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért négy fő.
+(6)[^21] A Művészeti Díj Bizottság elnöke a miniszterelnök általános helyettese, tagjai az általános politikai koordinációért felelős miniszter, a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért négy fő.
 
 [^16]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: A 9. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^18]: A 9. § (3) bekezdése az 1/2019. (I. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^19]: A 9. § (3a) bekezdését a 407/2012. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^20]: A 9. § (6) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^19]: A 9. § (3) bekezdés c) pontja a 74/2021. (II. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^20]: A 9. § (3a) bekezdését a 407/2012. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 9. § (6) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
