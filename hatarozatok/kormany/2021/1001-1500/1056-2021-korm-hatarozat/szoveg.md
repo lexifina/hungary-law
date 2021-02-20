@@ -26,26 +26,12 @@ a b) alpont tekintetében folyamatos
 
 a c) alpont tekintetében 2021. március 31.
 
-2. Az 1749/2014. (XII. 15.) Korm. határozat
+2.[^1]
 
-a) 1. pontjában a „2020. december 31-éig” szövegrész helyébe a „2022. december 31-éig” szöveg,
+3.[^2]
 
-b) 8. pontjában a „8 év, lejárata 2028. december 31.” szövegrész helyébe a „10 év, lejárata 2030. december 31.” szöveg
+4.[^3]
 
-lép.
-
-3. Az 1750/2014. (XII. 15.) Korm. határozat
-
-a) 1. pontjában a „2020. december 31-éig” szövegrész helyébe a „2022. december 31-éig” szöveg,
-
-b) 5. pontjában a „7 év, lejárata 2027. december 31.” szövegrész helyébe a „9 év, lejárata 2029. december 31.” szöveg
-
-lép.
-
-4. Az 1751/2014. (XII. 15.) Korm. határozat
-
-a) 1. pontjában a „2020. december 31-éig” szövegrész helyébe a „2022. december 31-éig” szöveg,
-
-b) 5. pontjában a „7 év, lejárata 2027. december 31.” szövegrész helyébe a „9 év, lejárata 2029. december 31.” szöveg
-
-lép.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
