@@ -38,7 +38,7 @@ d) a termőföld öt évet elérő időtartamra való haszonbérbe adásából s
 
 e) az a)–d) alpont szerinti, forinttól eltérő pénznemű jövedelmének a Magyar Nemzeti Bank által a havi adósságszolgálat számítását megelőző második munkanapon közzétett hivatalos devizaárfolyam alapján forintban kifejezett értéke;
 
-10. ingatlan forgalmi értéke: a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendelet 2. § (2) bekezdés a) pontjában és a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet 3. § (2) bekezdés a) pontjában meghatározott, a piaci összehasonlító adatok elemzésén alapuló értékelés szerint meghatározott érték;
+10.[^25] ingatlan forgalmi értéke: a hitelbiztosítéki érték megállapítása során a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendelet 2. § (2) bekezdés a) vagy b) pontja, illetve a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet 3. § (2) bekezdés a) pontja szerinti értékeléssel meghatározott érték;
 
 11. nyugdíj: a személyi jövedelemadóról szóló törvényben meghatározott fogalom;
 
@@ -48,9 +48,9 @@ e) az a)–d) alpont szerinti, forinttól eltérő pénznemű jövedelmének a M
 
 14. pénzügyi lízing: a Hpt.-ben meghatározott fogalom;
 
-15.[^25] ügyfél: hitelügyletben adósként, adóstársként szereplő természetes személy.
+15.[^26] ügyfél: hitelügyletben adósként, adóstársként szereplő természetes személy.
 
-16.[^26] vállalkozó természetes személy: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerinti egyéni vállalkozó és mezőgazdasági őstermelő.
+16.[^27] vállalkozó természetes személy: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerinti egyéni vállalkozó és mezőgazdasági őstermelő.
 
 [^19]: A 2. § 3. pontja a 8/2016. (IV. 6.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^20]: A 2. § 4. pontját a 29/2018. (VIII. 21.) MNB rendelet 7. § a) pontja hatályon kívül helyezte.
@@ -58,5 +58,6 @@ e) az a)–d) alpont szerinti, forinttól eltérő pénznemű jövedelmének a M
 [^22]: A 2. § 6. pont c) alpontját a 8/2016. (IV. 6.) MNB rendelet 2. § (2) bekezdése iktatta be, szövege a 29/2018. (VIII. 21.) MNB rendelet 2. § (1) bekezdésvel megállapított szöveg.
 [^23]: A 2. § 8. pontja a 8/2016. (IV. 6.) MNB rendelet 3. § c) pontja szerint módosított szöveg.
 [^24]: A 2. § 9. pontja a 29/2018. (VIII. 21.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^25]: A 2. § 15. pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § f) pontja szerint módosított szöveg.
-[^26]: A 2. § 16. pontját a 29/2018. (VIII. 21.) MNB rendelet 2. § (3) bekezdése iktatta be.
+[^25]: A 2. § 10. pontja a 6/2021. (II. 19.) MNB rendelet 1. §-ával megállapított szöveg.
+[^26]: A 2. § 15. pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § f) pontja szerint módosított szöveg.
+[^27]: A 2. § 16. pontját a 29/2018. (VIII. 21.) MNB rendelet 2. § (3) bekezdése iktatta be.
