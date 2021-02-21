@@ -1,1 +1,3 @@
-## „(1a) A hallássérült közúti járművezetők időszakos egészségi alkalmassági vizsgálatát a háziorvos vagy a foglalkozás-egészségügyi szolgálat orvosa végzi el, 3 hónapnál nem régebbi audiológiai vizsgálati eredmény alapján. Jelentős állapotromlás esetén a háziorvos és a foglalkozás-egészségügyi szolgálat orvosa kérheti, hogy a gépjárművezetői alkalmasságot szakértői bizottság állapítsa meg. Azon közúti járművezetők esetében, akiknek állapota végleges, a háziorvos vagy a foglalkozás-egészségügyi szolgálat orvosa az alkalmasságot a korábbi hallásállapotra vonatkozó szakvélemény figyelembevételével állapítja meg.”
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
