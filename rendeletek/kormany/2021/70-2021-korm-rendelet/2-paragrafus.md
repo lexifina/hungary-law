@@ -1,3 +1,5 @@
-## 1. § A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet III. pont 1.120. alpontjában az „Állami Egészségügyi Ellátó Központ” szövegrész helyébe az „Országos Kórházi Főigazgatóság” szöveg lép.
+## 1. §[^1]
 
 ## 2. A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosítása
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
