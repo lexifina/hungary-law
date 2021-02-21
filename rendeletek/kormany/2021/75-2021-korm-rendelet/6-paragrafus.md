@@ -1,1 +1,3 @@
-## 5. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. § (1) bekezdés g) pontjában az „és” szövegrész.
+## 1–5. §[^2]
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
