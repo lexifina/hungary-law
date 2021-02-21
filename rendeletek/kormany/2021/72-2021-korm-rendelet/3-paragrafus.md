@@ -1,5 +1,5 @@
-## 2. § Az R. a következő 5/A. §-sal egészül ki:
-
-## „5/A. § A veszélyhelyzet ideje alatt az állami vagy önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vezetőjének vezetői megbízásához és annak visszavonásához az országos kórház-főigazgató egyetértése szükséges.”
+## 2. §[^3]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
