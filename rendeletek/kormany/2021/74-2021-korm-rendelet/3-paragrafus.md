@@ -1,7 +1,5 @@
-## 2. § A Rendelet 9. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-## (A Bizottság tagjai:)
-
-## „c) a Magyar Tudományos Akadémia elnöke, a Magyar Művészeti Akadémia elnöke és a Nemzeti Kulturális Tanács elnöke, valamint”
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
