@@ -1,0 +1,7 @@
+# 2021. évi I. törvény a koronavírus-világjárvány elleni védekezésről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-1-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2021-02-22 | 2021. évi I. törvény | 2021-1-00-00.0 (közlönyállapot) |

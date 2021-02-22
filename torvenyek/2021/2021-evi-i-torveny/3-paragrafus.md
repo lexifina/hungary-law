@@ -1,0 +1,1 @@
+3. § A Kormány a SARS-CoV-2 koronavírus-világjárvány következményeinek elhárítása érdekében az intézkedések hatályának fenntartásáig megtett intézkedésekről rendszeresen, az Országgyűlés ülésén – annak hiányában az Országgyűlés elnöke és az országgyűlési képviselőcsoportok vezetői részére – ad tájékoztatást.
