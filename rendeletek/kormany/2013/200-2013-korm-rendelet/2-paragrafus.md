@@ -32,25 +32,25 @@ bd) csapatsportágban legalább 12 állam
 
 (3) Az állami jutalom pénzjutalom.
 
-(4)[^5] A versenyzői pénzjutalom mértéke
+(4)[^5] A versenyzői pénzjutalom mértéke:
 
 a) a Nemzetközi Olimpiai Bizottság (a továbbiakban: IOC) által szervezett olimpiai játékok esetében az 1. mellékletben meghatározott összeg;
 
 b) a Nemzetközi Paralimpiai Bizottság (a továbbiakban: IPC) által szervezett Paralimpia esetében az 1a. mellékletben meghatározott összeg;
 
-c) a Nemzetközi Világjátékok Szövetsége (a továbbiakban: IWGA) által szervezett Világjátékok esetében az 1a. mellékletben meghatározott összeg;
+c) a Nemzetközi Világjátékok Szövetsége (a továbbiakban: IWGA) által szervezett Világjátékok esetében az 1b. mellékletben meghatározott összeg;
 
-d) a Nemzetközi Sakkszövetség (a továbbiakban: FIDE) által szervezett Sakkolimpia esetében az 1a. mellékletben meghatározott összeg;
+d) a Nemzetközi Sakkszövetség (a továbbiakban: FIDE) által szervezett Sakkolimpia esetében az 1b. mellékletben meghatározott összeg;
 
-e) a Siketek Sportjának Nemzetközi Bizottsága (a továbbiakban: ICSD) által szervezett Siketlimpia esetében az 1a. mellékletben meghatározott összeg 60 százaléka;
+e) a Siketek Sportjának Nemzetközi Bizottsága (a továbbiakban: ICSD) által szervezett Siketlimpia esetében az 1b. mellékletben meghatározott összeg 60 százaléka;
 
-f) a Siketek Nemzetközi Sakk Bizottsága (a továbbiakban: ICCD) által szervezett Sakkolimpia esetében az 1a. mellékletben meghatározott összeg 30 százaléka;
+f) a Siketek Nemzetközi Sakk Bizottsága (a továbbiakban: ICCD) által szervezett Sakkolimpia esetében az 1b. mellékletben meghatározott összeg 30 százaléka;
 
-g) a Vakok Nemzetközi Sakk Szövetsége (a továbbiakban: IBCA) által szervezett Sakkolimpia esetében az 1a. mellékletben meghatározott összeg 30 százaléka;
+g) a Vakok Nemzetközi Sakk Szövetsége (a továbbiakban: IBCA) által szervezett Sakkolimpia esetében az 1b. mellékletben meghatározott összeg 30 százaléka;
 
-h) a Szervátültetettek Világjátékainak Szövetsége (a továbbiakban: WTGF) által szervezett Szervátültetettek Világjátékai esetében az 1a. mellékletben meghatározott összeg 30 százaléka;
+h) a Szervátültetettek Világjátékainak Szövetsége (a továbbiakban: WTGF) által szervezett Szervátültetettek Világjátékai esetében az 1b. mellékletben meghatározott összeg 30 százaléka;
 
-i) a Nemzetközi Speciális Olimpia Szövetség (a továbbiakban: SOI) által szervezett Speciális Olimpia Világjátékai (a továbbiakban: Speciális Olimpia) esetében az 1a. mellékletben meghatározott összeg 2 százaléka.
+i) a Nemzetközi Speciális Olimpia Szövetség (a továbbiakban: SOI) által szervezett Speciális Olimpia Világjátékai (a továbbiakban: Speciális Olimpia) esetében az 1b. mellékletben meghatározott összeg 2 százaléka.
 
 (5)[^6] A sport világeseményen több 1–8. helyezést elért versenyző minden 1–8. helyezése után részesülhet állami jutalomban.
 
@@ -61,7 +61,7 @@ i) a Nemzetközi Speciális Olimpia Szövetség (a továbbiakban: SOI) által sz
 [^2]: A 2. § (1) bekezdés c) pontja a 294/2015. (X. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdése a 294/2015. (X. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (2a) bekezdését a 294/2015. (X. 8.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^5]: A 2. § (4) bekezdése az 566/2020. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (4) bekezdése a 79/2021. (II. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (5) bekezdése a 234/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: A 2. § (6) bekezdése a 234/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: A 2. § (7) bekezdése a 294/2015. (X. 8.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## A versenyzői pénzjutalom az IPC által szervezett nyári és téli paralimpiai játékok, az IWGA által szervezett Világjátékok, valamint a FIDE által szervezett Sakkolimpia esetén (nettó összegben, forintban, 100%)
+## A versenyzői pénzjutalom az IWGA által szervezett Világjátékok, valamint a FIDE által szervezett Sakkolimpia esetén (nettó összegben, forintban, 100%)
 
 |  | A | B |
 
@@ -20,7 +20,7 @@
 
 | 9. | VIII. helyezés | 1 000 000 |
 
-2. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^42]
+2. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^43]
 
 ## A versenyzői eredményességi támogatás mértéke világ- és Európa-bajnokság esetében olimpiai versenyszámban (nettó összegben, forintban, 100%)
 
@@ -84,4 +84,4 @@
 
 | 8. | III. | 225 000 | 450 000 |
 
-[^42]: A 2. melléklet az 566/2020. (XII. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^43]: A 2. melléklet az 566/2020. (XII. 8.) Korm. rendelet 6. §-ával megállapított szöveg.

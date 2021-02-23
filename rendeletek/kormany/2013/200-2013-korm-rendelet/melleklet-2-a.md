@@ -1,4 +1,4 @@
-2a. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^43]
+2a. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^44]
 
 ## A versenyzői eredményességi támogatás mértéke világ- és Európa-bajnokság esetében paralimpiai versenyszámban (nettó összegben, forintban, 100%)
 
@@ -44,4 +44,4 @@
 
 | 5. | III. | 375 000 | 750 000 |
 
-[^43]: A 2a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 7. §-a iktatta be.
+[^44]: A 2a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 7. §-a iktatta be.

@@ -24,4 +24,4 @@
 
 1a. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^41]
 
-[^41]: Az 1a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 5. §-a iktatta be.
+[^41]: Az 1a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 5. §-a iktatta be, szövege a 79/2021. (II. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
