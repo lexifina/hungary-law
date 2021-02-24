@@ -16,4 +16,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a forrás rendelkezésre állását követő 30 napon belül
 
-4. visszavonja a 2020-ban Budapesten rendezendő női és férfi 3×3 kosárlabda olimpiai kvalifikációs torna megrendezése érdekében szükséges kormányzati intézkedésekről szóló 1058/2020. (II. 25.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
