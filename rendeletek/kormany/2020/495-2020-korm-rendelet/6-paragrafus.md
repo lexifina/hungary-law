@@ -18,6 +18,14 @@
 
 (9)[^17] A Mód. rendelet 2. hatálybalépése[^18] napján folyamatban levő, a Ktv. szerinti koncessziós és a Ktv. 10/A. §-a szerinti eljárásokban az e rendelet alapján a miniszterelnök kabinetfőnökéhez benyújtott beadványokat a Mód. rendelet 2. hatálybalépésekor a Magyar Állam törvényes képviseletében beálló általános jogutódlásra tekintettel nem kell ismételten benyújtani.
 
+(10)[^19] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelettel (a továbbiakban: Mód. rendelet 3.) megállapított 1. §-a és 1. melléklete hatálybalépésekor[^20] folyamatban levő eljárások (a továbbiakban: Koncessziós eljárás) vonatkozásában a Magyar Állam képviseletében az egyes koncesszióköteles tevékenységek tekintetében a Mód. rendelet 3. hatálybalépése napjáig eljárt Nemzeti Koncessziós Iroda általános jogutódjának a minisztert kell tekinteni.
+
+(11)[^21] A Nemzeti Koncessziós Iroda a Koncessziós eljárás iratanyagát a Mód. rendelet 3. hatálybalépése napját követő 2 munkanapon belül adja át a miniszter részére.
+
+(12)[^22] A miniszter a Koncessziós eljárásban a Magyar Állam törvényes képviselője személyében beállt változásról – így különösen a Mód. rendelet 3. hatálybalépéséről és a beadványok benyújtásának rendjéről – a folyamatban levő eljárásokban pályázatot, ajánlatot, egyéb beadványt már benyújtott személyeket a Mód. rendelet 3. hatálybalépése[^23] napját követő 2 munkanapon belül írásban tájékoztatja.
+
+(13)[^24] A Mód. rendelet 3. hatálybalépése[^25] napján folyamatban levő Koncessziós eljárásban az e rendelet alapján a Nemzeti Koncessziós Irodához benyújtott beadványokat a Mód. rendelet 3. hatálybalépésekor a Magyar Állam törvényes képviseletében beálló általános jogutódlásra tekintettel nem kell ismételten benyújtani.
+
 [^5]: A 6. § (3) bekezdését az 594/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^6]: A hatálybalépés időpontja 2020. december 18.
 [^7]: A 6. § (4) bekezdését az 594/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
@@ -32,3 +40,10 @@
 [^16]: A hatálybalépés időpontja 2021. január 1.
 [^17]: A 6. § (9) bekezdését a 728/2020. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
 [^18]: A hatálybalépés időpontja 2021. január 1.
+[^19]: A 6. § (10) bekezdését a 83/2021. (II. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^20]: A hatálybalépés időpontja 2021. február 24.
+[^21]: A 6. § (11) bekezdését a 83/2021. (II. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^22]: A 6. § (12) bekezdését a 83/2021. (II. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^23]: A hatálybalépés időpontja 2021. február 24.
+[^24]: A 6. § (13) bekezdését a 83/2021. (II. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^25]: A hatálybalépés időpontja 2021. február 24.
