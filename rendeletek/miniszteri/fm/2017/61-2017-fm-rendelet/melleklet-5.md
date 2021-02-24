@@ -1,4 +1,4 @@
-5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^63]
+5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^64]
 
 ## Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó helységek (név, erdészeti azonosító) listája az erdészeti hatóságként eljáró megyei kormányhivatalok illetékességi területe szerint
 
@@ -3750,4 +3750,4 @@
 
 6.14.27. Szörény (104)
 
-[^63]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a szerint módosított szöveg.
+[^64]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a szerint módosított szöveg.
