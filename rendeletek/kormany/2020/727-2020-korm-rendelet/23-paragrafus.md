@@ -1,3 +1,3 @@
-## 22. §[^1]
+## 22. §[^4] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelettel (a továbbiakban: Mód. rendelet 1.) módosított 3. § (1) és (2) bekezdését a Mód. rendelet 1. hatálybalépésekor folyamatban levő Ktv. szerinti koncessziós és 10/A. § szerinti eljárásokban is alkalmazni kell.
 
-[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 83/2021. (II. 23.) Korm. rendelet 13. § (2) bekezdése iktatta be.
