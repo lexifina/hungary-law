@@ -1,4 +1,4 @@
-## 3. függelék[^155]
+## 3. függelék[^164]
 
 ## Növényvédelmi gépek biztonsági követelményei
 
@@ -272,7 +272,7 @@
 
 ## A tömlőkön meg kell adni a megengedett nyomást.
 
-## 4. függelék[^156]
+## 4. függelék[^165]
 
 ## Növényvédelmi gépek környezetvédelmi követelményei
 
@@ -850,11 +850,11 @@
 
 ## A tisztítóvíz összegyűjthető és a permetezőgép tartályába juttatható legyen.
 
-## 5. függelék[^157]
+## 5. függelék[^166]
 
 ## Növényvédelmi gép forgalomba hozatali engedélyének mintája
 
-## Nemzeti Agrárkutatási és Innovációs Központ Mezőgazdasági Gépesítési Intézet
+## Magyar Agrár- és Élettudományi Egyetem
 
 ## 2100 Gödöllő, Tessedik S. u. 4.
 
@@ -862,7 +862,7 @@
 
 ## NÖVÉNYVÉDELMI GÉP FORGALOMBA HOZATALI ENGEDÉLYE
 
-## ................................................................ gyártó, illetve forgalmazó nyilatkozata és a benyújtott dokumentumok, illetve az elvégzett vizsgálatok alapján a Nemzeti Agrárkutatási és Innovációs Központ Mezőgazdasági Gépesítési Intézete a .............................................................. típusú, .................................................. kivitelű növényvédelmi gép forgalomba hozatalát engedélyezi.
+## ................................................................ gyártó, illetve forgalmazó nyilatkozata és a benyújtott dokumentumok, illetve az elvégzett vizsgálatok alapján a Magyar Agrár- és Élettudományi Egyetem a .............................................................. típusú, .................................................. kivitelű növényvédelmi gép forgalomba hozatalát engedélyezi.
 
 ## A gépen a forgalomba hozatali engedély hatályosságát igazoló matricát fel kell tüntetni.
 
@@ -870,9 +870,9 @@
 
 ## Az időbeli hatály lejárta esetén a forgalomba hozatali engedélyt új nyilatkozat benyújtásával meg kell újítani.
 
-## Az Intézet jogosult a forgalomba hozatali engedély hatályossági időtartamán belül vizsgálatot folytatni, ha a géptípusnál minőségromlás vagy változtatás gyanúja merül fel.
+## A MATE jogosult a forgalomba hozatali engedély hatályossági időtartamán belül vizsgálatot folytatni, ha a géptípusnál minőségromlás vagy változtatás gyanúja merül fel.
 
-## Az Intézet a forgalomba hozatali engedélyt visszavonja, ha a géptípusnál minőségromlás vagy változtatás következik be.
+## A MATE a forgalomba hozatali engedélyt visszavonja, ha a géptípusnál minőségromlás vagy változtatás következik be.
 
 ## Dátum: ............................................................................
 
@@ -880,17 +880,17 @@
 
 ## aláírás
 
-## 6. függelék[^158]
+## 6. függelék[^167]
 
 ## A forgalomba hozatali engedély hatályosságát igazoló matrica mintája
 
-## 7–10. függelék[^159]
+## 7–10. függelék[^168]
 
-4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^160]
+4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^169]
 
-[^155]: A 3. melléklet 3. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 25–26. pontja szerint módosított szöveg.
-[^156]: A 3. melléklet 4. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 27. pontja szerint módosított szöveg.
-[^157]: A 3. melléklet 5. függeléke a 70/2013. (VII. 31.) VM rendelet 125. § i) és s) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 23. és 28. pontja szerint módosított szöveg.
-[^158]: A 3. melléklet 6. függeléke a 84/2015. (XII. 17.) FM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^159]: A 3. melléklet 7–10. függelékét a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
-[^160]: A 4. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^164]: A 3. melléklet 3. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 25–26. pontja szerint módosított szöveg.
+[^165]: A 3. melléklet 4. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 27. pontja szerint módosított szöveg.
+[^166]: A 3. melléklet 5. függeléke a 70/2013. (VII. 31.) VM rendelet 125. § i) és s) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 23. és 28. pontja, a 4/2021. (II. 23.) AM rendelet 6. § d) és f)–g) pontja szerint módosított szöveg.
+[^167]: A 3. melléklet 6. függeléke a 84/2015. (XII. 17.) FM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^168]: A 3. melléklet 7–10. függelékét a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
+[^169]: A 4. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.

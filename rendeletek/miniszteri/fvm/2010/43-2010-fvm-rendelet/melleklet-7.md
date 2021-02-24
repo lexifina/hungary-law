@@ -1,4 +1,4 @@
-7. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^163]
+7. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^172]
 
 ## Raktári kártevők
 
@@ -56,7 +56,7 @@
 
 27. Trogoderma granarium Everts.
 
-28.[^164]
+28.[^173]
 
-[^163]: A 7. mellékletet a 66/2010. (V. 12.) FVM rendelet 13. § (17) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^164]: A 7. melléklet 28. pontját a 84/2015. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.
+[^172]: A 7. mellékletet a 66/2010. (V. 12.) FVM rendelet 13. § (17) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^173]: A 7. melléklet 28. pontját a 84/2015. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.

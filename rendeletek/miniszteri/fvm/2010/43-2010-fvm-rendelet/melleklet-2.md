@@ -1,34 +1,34 @@
-2. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^150]
+2. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^152]
 
-## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^151]
+## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^153]
 
 ## Növényvédelmi gépek típusminősítési eljárásának követelményei
 
-## 1.[^152]
+## 1.[^154]
 
 ## 2. A 32. § (1) bekezdésében foglalt rendelkezésekre figyelemmel, az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépek csak típusminősítés után hozhatók forgalomba. A típusminősítési eljárást a növényvédelmi gép gyártója, forgalmazója által szolgáltatott adatok alapján, vagy vizsgálat alapján kell lefolytatni.
 
-## 3. A növényvédelmi gép gyártójának, illetve forgalmazójának a gép forgalomba hozatala előtt nyilatkozatot kell tenni az 1. függelék szerint a típusminősítési eljárást végző Intézetnek, hogy a géptípus megfelel a minősítési követelményeknek és ezzel egyidejűleg a növényvédelmi gép gyártójának, illetve forgalmazójának kérni kell a forgalomba hozatali engedély kiadását. A nyilatkozathoz magyar nyelven mellékelni kell a használati útmutatót, a géptípust leíró dokumentumokat (adatlap, mátrix), a hazai vagy külföldi minőségtanúsítást, valamint egyéb, a növényvédelmi gép megítélését elősegítő dokumentumokat.
+## 3.[^155] A növényvédelmi gép gyártójának, illetve forgalmazójának a gép forgalomba hozatala előtt nyilatkozatot kell tenni az 1. függelék szerint a típusminősítési eljárást végző MATE-nak, hogy a géptípus megfelel a minősítési követelményeknek és ezzel egyidejűleg a növényvédelmi gép gyártójának, illetve forgalmazójának kérni kell a forgalomba hozatali engedély kiadását. A nyilatkozathoz magyar nyelven mellékelni kell a használati útmutatót, a géptípust leíró dokumentumokat (adatlap, mátrix), a hazai vagy külföldi minőségtanúsítást, valamint egyéb, a növényvédelmi gép megítélését elősegítő dokumentumokat.
 
 ## 4. A növényvédelmi gépekkel szemben támasztott követelményeket a 2. függelék tartalmazza.
 
-## 5. A gyártó vagy forgalmazó köteles a típusminősítési eljárásra bejelentett növényvédelmi gép megtekintését vagy vizsgálatát az Intézet számára lehetővé tenni.
+## 5.[^156] A gyártó vagy forgalmazó köteles a típusminősítési eljárásra bejelentett növényvédelmi gép megtekintését vagy vizsgálatát a MATE számára lehetővé tenni.
 
-## 6. Az Intézet a nyilatkozat és a nyilatkozathoz mellékelt dokumentumok alapján a típusminősítési eljárást 30 napon belül köteles lefolytatni. Ha a benyújtott dokumentumok nem kielégítők, a gyártótól vagy forgalmazótól adatpótlás kérhető. A típusminősítési eljárást ebben az esetben a pótlás benyújtását követő 30 napon belül kell lefolytatni. Ha a típus minősítéséhez a növényvédelmi gép vizsgálata is szükséges, a minősítést a növényvédelmi gép átadásától számított 90 napon belül el kell végezni. Amennyiben a benyújtott dokumentumok alapján nem lehet dönteni az alkalmasságról, de vizsgálatra nincs szükség, az alkalmasság megítéléséhez szükséges adatok szemle útján is beszerezhetők.
+## 6.[^157] A MATE a nyilatkozat és a nyilatkozathoz mellékelt dokumentumok alapján a típusminősítési eljárást 30 napon belül köteles lefolytatni. Ha a benyújtott dokumentumok nem kielégítők, a gyártótól vagy forgalmazótól adatpótlás kérhető. A típusminősítési eljárást ebben az esetben a pótlás benyújtását követő 30 napon belül kell lefolytatni. Ha a típus minősítéséhez a növényvédelmi gép vizsgálata is szükséges, a minősítést a növényvédelmi gép átadásától számított 90 napon belül el kell végezni. Amennyiben a benyújtott dokumentumok alapján nem lehet dönteni az alkalmasságról, de vizsgálatra nincs szükség, az alkalmasság megítéléséhez szükséges adatok szemle útján is beszerezhetők.
 
-## 7. Az Intézet a növényvédelmi gép megfelelése esetén az 5. függelék szerinti forgalomba hozatali engedélyt kiadja.
+## 7.[^158] A MATE a növényvédelmi gép megfelelése esetén az 5. függelék szerinti forgalomba hozatali engedélyt kiadja.
 
-## 8. A forgalomba hozatalra engedélyezett növényvédelmi gépekről az Intézet nyilvántartást vezet.
+## 8.[^159] A forgalomba hozatalra engedélyezett növényvédelmi gépekről a MATE nyilvántartást vezet.
 
-## 9. A forgalomba hozatali engedély 5 évig hatályos. Az időbeli hatály lejártával a forgalomba hozatali engedélyt meg kell újítani. Az Intézet a forgalomba hozatali engedélyt visszavonja, ha a géptípusnál minőségromlás következik be, vagy a használatot befolyásoló műszaki változást az engedélyes nem jelentette be. A növény- és környezetvédelmi szempontból nem jelentős hiányosság, eltérés esetén 1 évig hatályos ideiglenes forgalomba hozatali engedély is kiadható.
+## 9.[^160] A forgalomba hozatali engedély 5 évig hatályos. Az időbeli hatály lejártával a forgalomba hozatali engedélyt meg kell újítani. A MATE a forgalomba hozatali engedélyt visszavonja, ha a géptípusnál minőségromlás következik be, vagy a használatot befolyásoló műszaki változást az engedélyes nem jelentette be. A növény- és környezetvédelmi szempontból nem jelentős hiányosság, eltérés esetén 1 évig hatályos ideiglenes forgalomba hozatali engedély is kiadható.
 
 ## 10. A forgalomba hozatali engedély hatályosságát igazoló, 6. függelék szerinti matricát a növényvédelmi gépen feltűnő helyen kell elhelyezni.
 
-## Növényvédelmi gépek felülvizsgálata[^153]
+## Növényvédelmi gépek felülvizsgálata[^161]
 
-## 1–5.[^154]
+## 1–5.[^162]
 
-## 1. függelék
+## 1. függelék[^163]
 
 ## A növényvédelmi gép forgalomba hozatali engedélyének kiadására irányuló kérelem mintája
 
@@ -52,7 +52,7 @@
 
 ## A fent feltüntetett gép(ek), illetve gépcsalád(ok) a ........................................................................... helyszínen megtekinthetők.
 
-## Kívánságra a gép(ek)et, illetve gépcsaládo(ka)t megbeszélés alapján az Intézet telephelyére szállítjuk.
+## Kívánságra a gép(ek)et, illetve gépcsaládo(ka)t megbeszélés alapján a MATE telephelyére szállítjuk.
 
 ## Kérjük, hogy a fent felsorolt gép(ek), illetve gépcsalád(ok) forgalomba hozatali engedélyét kiadni szíveskedjenek.
 
@@ -282,8 +282,15 @@ A gépnek könnyen és alaposan tisztíthatónak kell lennie.
 
 A gyorsan kopó alkatrészeknek hozzáférhetőeknek és cserélhetőeknek kell lennie. A gépen meg kell adni a típusjelzést és a típusbesorolást, valamint a gyártás évét.
 
-[^150]: A 2. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § g) pontja hatályon kívül helyezte.
-[^151]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
-[^152]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
-[^153]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
-[^154]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1–5. pontját a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
+[^152]: A 2. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § g) pontja hatályon kívül helyezte.
+[^153]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
+[^154]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
+[^155]: A 3. melléklet 3. pontja a 4/2021. (II. 23.) AM rendelet 6. § e) pontja szerint módosított szöveg.
+[^156]: A 3. melléklet 5. pontja a 4/2021. (II. 23.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^157]: A 3. melléklet 6. pontja a 4/2021. (II. 23.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^158]: A 3. melléklet 7. pontja a 4/2021. (II. 23.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^159]: A 3. melléklet 8. pontja a 4/2021. (II. 23.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^160]: A 3. melléklet 9. pontja a 4/2021. (II. 23.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^161]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
+[^162]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1–5. pontját a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
+[^163]: A 3. melléklet 1. függeléke a 4/2021. (II. 23.) AM rendelet 6. § c) pontja szerint módosított szöveg.
