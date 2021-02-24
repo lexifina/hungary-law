@@ -1,4 +1,4 @@
-## 52. §[^122] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 56/2021. (II. 9.) Korm. rendelettel (a továbbiakban: Módr44.) megállapított 6/E. § rendelkezéseit és a 2. mellékletben foglalt táblázat 33. sorát a Módr44. hatálybalépésekor[^123] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 53. §[^124] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelettel (a továbbiakban: Módr45.) megállapított 2. mellékletben foglalt táblázat 60. sorát a Módr45. hatálybalépésekor[^125] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^124] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^126] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^122]: Az 52. §-t az 56/2021. (II. 9.) Korm. rendelet 2. §-a iktatta be.
-[^123]: A hatálybalépés időpontja 2021. február 10.
-[^124]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^124]: Az 53. §-t a 83/2021. (II. 23.) Korm. rendelet 11. §-a iktatta be.
+[^125]: A hatálybalépés időpontja 2021. február 24.
+[^126]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
