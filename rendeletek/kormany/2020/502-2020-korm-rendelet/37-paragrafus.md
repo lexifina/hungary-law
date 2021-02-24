@@ -1,4 +1,4 @@
-37. §[^13] (1) A veszélyhelyzet során a személy- és vagyonegyesítő szervezetek működésére vonatkozó eltérő rendelkezések újbóli bevezetéséről szóló 502/2020. (XI. 16.) Korm. rendelet módosításáról szóló 608/2020. (XII. 18.)Korm. rendelettel (a továbbiakban: Módr.) megállapított 23. §-t
+37. §[^14] (1) A veszélyhelyzet során a személy- és vagyonegyesítő szervezetek működésére vonatkozó eltérő rendelkezések újbóli bevezetéséről szóló 502/2020. (XI. 16.) Korm. rendelet módosításáról szóló 608/2020. (XII. 18.)Korm. rendelettel (a továbbiakban: Módr.) megállapított 23. §-t
 
 a) a veszélyhelyzet kihirdetésekor már megüresedett, valamint
 
@@ -10,4 +10,4 @@ közjegyzői állások esetében is alkalmazni kell.
 
 (3) A Módr.-rel megállapított 33/B. § (2) bekezdését a veszélyhelyzet kihirdetését követően lejárt továbbképzési időszak esetében is alkalmazni kell.
 
-[^13]: A 37. §–t a 608/2020. (XII. 18.) Korm. rendelet 8. §-a iktatta be.
+[^14]: A 37. §–t a 608/2020. (XII. 18.) Korm. rendelet 8. §-a iktatta be.
