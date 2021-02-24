@@ -4,7 +4,7 @@
 
 a) elnökét a miniszterek együttesen kérik fel az idősügy területén elismert és köztiszteletben álló személyek köréből,
 
-b)[^3] négy további tagját az emberi erőforrások minisztere kéri fel, közülük kettőt az Idősek Tanácsának (a továbbiakban: Tanács) tagjai közül,
+b)[^3] négy további tagját a családokért felelős tárca nélküli miniszter kéri fel, közülük kettőt az Idősek Tanácsának (a továbbiakban: Tanács) tagjai közül,
 
 c)[^4]
 
@@ -27,7 +27,7 @@ c) szavazategyenlőség esetén az elnök szavazata dönt.
 (7)[^9] A tagok a feladatuk ellátásáért díjazásban nem részesülnek, de jogosultak a tevékenységük során felmerült, számlával igazolt és indokolt szállás- és útiköltségük megtérítésére.
 
 [^2]: A 3. § (2) bekezdése a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (2) bekezdés b) pontja az 5/2020. (II. 26.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (2) bekezdés b) pontja az 5/2020. (II. 26.) EMMI rendelet 1. § (1) bekezdésével megállapított, a 2/2021. (II. 23.) CSTNM rendelet 1. § b) pontja szerint módosított szöveg.
 [^4]: A 3. § (2) bekezdés c) pontját az 5/2020. (II. 26.) EMMI rendelet 4. § a) pontja hatályon kívül helyezte.
 [^5]: A 3. § (3) bekezdése az 5/2020. (II. 26.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § (4) bekezdése a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 1. § (1) bekezdésével megállapított szöveg.
