@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-23-20-8
 | 2019-05-11 | 2007-23-20-82.48 | 63/2007. (VII. 13.) FVM rendelet |
 | 2020-09-28 | 2007-23-20-82.49 | 53/2008. (IV. 24.) FVM rendelet |
 | 2021-02-20 | 2007-23-20-82.50 | 63/2007. (VII. 13.) FVM rendelet |
+| 2021-02-24 | 2007-23-20-82.51 | 63/2007. (VII. 13.) FVM rendelet |

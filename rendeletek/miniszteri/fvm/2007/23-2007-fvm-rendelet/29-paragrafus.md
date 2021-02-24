@@ -12,9 +12,9 @@ d)[^185] amelyeknek gyártásától a támogatási kérelem benyújtásáig 3 é
 
 (2)[^186] A tárgyévre vonatkozó gépkatalógust az IH az ME, valamint a Kincstár hivatalos honlapján teszi közzé.
 
-(3)[^187] A közzétételt követően a gépkatalógusban nem szereplő gép, illetve technológiai berendezés felvétele céljából az IH által rendszeresített nyomtatványon a Kincstár Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerében szereplő, regisztrált forgalmazók javaslatot tehetnek a NAIK MGI-hez.
+(3)[^187] A közzétételt követően a gépkatalógusban nem szereplő gép, illetve technológiai berendezés felvétele céljából az IH által rendszeresített nyomtatványon a Kincstár Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerében szereplő, regisztrált forgalmazók javaslatot tehetnek a MATE-hoz.
 
-(4)[^188] A javaslatot a NAIK MGI-hez kell benyújtani, amely azt szakvéleményével együtt 30 napon belül továbbítja az IH-hoz. Ezt követően az IH a javaslatról 30 napon belül dönt. A gépkatalógus közzététele előtt legalább hatvan nappal beérkezett javaslatban szereplő gépet vagy technológiai berendezést felveszik a gépkatalógusba.
+(4)[^188] A javaslatot a MATE-hoz kell benyújtani, amely azt szakvéleményével együtt 30 napon belül továbbítja az IH-hoz. Ezt követően az IH a javaslatról 30 napon belül dönt. A gépkatalógus közzététele előtt legalább hatvan nappal beérkezett javaslatban szereplő gépet vagy technológiai berendezést felveszik a gépkatalógusba.
 
 (5) A gépkatalógusba olyan gép, illetve technológiai berendezés vehető fel, amely
 
@@ -48,8 +48,8 @@ c) az élelmiszeripari gépek és technológiai berendezések katalógusát kiv�
 
 [^185]: A 29. § (1) bekezdés d) pontja az 53/2015. (XII. 1.) MvM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^186]: A 29. § (2) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított, a 12/2014. (XII. 30.) MvM rendelet 2. § g) pontja, a 37/2016. (XII. 29.) MvM rendelet 1. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^187]: A 29. § (3) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított, a 12/2014. (XII. 30.) MvM rendelet 2. § h) pontja, a 37/2016. (XII. 29.) MvM rendelet 1. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^188]: A 29. § (4) bekezdése a 137/2012. (XII. 22.) VM rendelet 8. § (1) bekezdésével megállapított, a 12/2014. (XII. 30.) MvM rendelet 2. § i) pontja szerint módosított szöveg.
+[^187]: A 29. § (3) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított, a 37/2016. (XII. 29.) MvM rendelet 1. § (5) bekezdés c) pontja, a 4/2021. (II. 23.) AM rendelet 3. §-a szerint módosított szöveg.
+[^188]: A 29. § (4) bekezdése a 137/2012. (XII. 22.) VM rendelet 8. § (1) bekezdésével megállapított, a 4/2021. (II. 23.) AM rendelet 3. §-a szerint módosított szöveg.
 [^189]: A 29. § (6) bekezdése az 53/2008. (IV. 24.) FVM rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^190]: A 29. § (7) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^191]: A 29. § (8) bekezdése a 137/2012. (XII. 22.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
