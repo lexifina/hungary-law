@@ -30,7 +30,7 @@ l) 51. § (2) bekezdésében,
 
 m) 57. § (12) bekezdésében,
 
-n) 59. § (1) bekezdésében, (2) bekezdés b) pontjában, (9) vagy (10) bekezdésében vagy
+n)[^4] 59. § (1) bekezdésében, (2) bekezdés b) pontjában, (9) vagy (10) bekezdésében,
 
 o) 60. § (4) bekezdésében
 
@@ -42,4 +42,10 @@ o) 60. § (4) bekezdésében
 
 (4) A veszélyhelyzet ideje alatt, valamint az annak megszűnését követő 30. napig az R2. szerinti családi otthonteremtési kedvezményt együttesen igénylők egyike a másik igénylőt teljes bizonyító erejű magánokiratban meghatalmazhatja az együttes igénylés mindkettejük nevében történő benyújtására, valamint minden, az igénylés benyújtásához és a támogatási szerződés megkötéséhez szükséges jognyilatkozat mindkettejük nevében való megtételére, továbbá a támogatási szerződés megkötésére.
 
-(5) Az R2. 30. § (1) bekezdés b) pontjában, valamint az R2. 31. § (1) bekezdés b) pontjában és (2) bekezdésében foglaltaktól eltérően a biztosítási jogviszonyban a veszélyhelyzet ideje alatt, vagy a veszélyhelyzet megszűnését követő 30 napon belül bekövetkező megszakítás esetén a veszélyhelyzet megszűnését követő 90. napig nem kell figyelembe venni a megszakítás időtartamát akkor sem, ha az a 30 napot meghaladja. Ha az igénylő a veszélyhelyzet ideje alatt vagy a veszélyhelyzet megszűnését követő 90 napon belül újabb, a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti biztosítási jogviszonyt létesít, akkor a veszélyhelyzet időtartamát az R2. 30. és 31. §-a alkalmazása során a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti biztosítási jogviszonyban töltött időnek kell tekinteni.
+(5)[^5] Az R2. 30. § (1) bekezdés b) pontjában, valamint az R2. 31. § (1) bekezdés b) pontjában és (2) bekezdésében foglaltaktól eltérően a jogviszonyban a veszélyhelyzet ideje alatt vagy a veszélyhelyzet megszűnését követő 30 napon belül bekövetkező megszakítás esetén – ide nem értve az R2. 30. § (1) bekezdés b) pont ba), bb) és bd) alpontjában, valamint az R2. 31. § (1) bekezdés b) pont ba), bb) és bd) alpontjában és (2) bekezdésében szereplő jogviszony szünetelését, amely nem minősül a jogviszony megszakításának, de annak időtartama az R2. 30. § (1) bekezdés b) pontjában meghatározott 180 napos, az R2. 31. § (1) bekezdés b) pontjában meghatározott 2 éves, valamint az R2. 31. § (2) bekezdése szerinti 180 napos időszakba nem számítható be – a veszélyhelyzet megszűnését követő 90. napig nem kell figyelembe venni a megszakítás időtartamát akkor sem, ha az egybefüggően a 30 napot meghaladja.
+
+(6)[^6] Ha az (5) bekezdés szerinti megszakítást követően az igénylő a veszélyhelyzet ideje alatt vagy a veszélyhelyzet megszűnését követő 90 napon belül újabb, a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti biztosítási jogviszonyt létesít – ideértve a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személlyé válást is –, akkor a veszélyhelyzet időtartamát, de legfeljebb 180 napot – az R2. 9. § a) vagy b) pontja szerinti összegben igényelt családi otthonteremtési kedvezmény esetében 90 napot – az R2. 30. és 31. §-a alkalmazása során a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti biztosítási jogviszonyban töltött időnek kell tekinteni, továbbá abban az esetben is, ha a veszélyhelyzet időtartama alatt az R2. 30. § (1) bekezdés b) pont ba), bb) vagy bd) alpontjában, valamint az R2. 31. § (1) bekezdés b) pont ba), bb) vagy bd) alpontjában szereplő jogviszony nem szakadt meg, csak szünetelt, és a veszélyhelyzet ideje alatt vagy a veszélyhelyzet megszűnését követő 90 napon belül a szünetelés véget ér.
+
+[^4]: A 6. § (1) bekezdés n) pontja a 82/2021. (II. 23.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: A 6. § (5) bekezdése a 82/2021. (II. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: A 6. § (6) bekezdését a 82/2021. (II. 23.) Korm. rendelet 3. §-a iktatta be.
