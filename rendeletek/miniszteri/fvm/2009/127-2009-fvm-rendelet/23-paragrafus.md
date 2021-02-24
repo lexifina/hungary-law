@@ -6,7 +6,7 @@ b) az ortofotót,
 
 c) a szőlőültetvény fedvényt,
 
-d)[^96]
+d)[^97]
 
 e) a támogatás fedvényt,
 
@@ -24,7 +24,7 @@ k) a talajtani fedvényt,
 
 l) a blokkhatár fedvényt.
 
-(2)–(3)[^97]
+(2)–(3)[^98]
 
-[^96]: A 23. § (1) bekezdés d) pontját az 59/2017. (XII. 18.) FM rendelet 14. § b) pontja hatályon kívül helyezte.
-[^97]: A 23. § (2)–(3) bekezdését az 59/2017. (XII. 18.) FM rendelet 14. § c) pontja hatályon kívül helyezte.
+[^97]: A 23. § (1) bekezdés d) pontját az 59/2017. (XII. 18.) FM rendelet 14. § b) pontja hatályon kívül helyezte.
+[^98]: A 23. § (2)–(3) bekezdését az 59/2017. (XII. 18.) FM rendelet 14. § c) pontja hatályon kívül helyezte.

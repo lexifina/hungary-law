@@ -244,6 +244,6 @@
 
 ## Bizonyítványt kérelmező aláírása
 
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^250]
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^251]
 
-[^250]: A 11. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § d) pontjával megállapított, a 34/2015. (VI. 25.) FM rendelet 6. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) pontja, és (5) bekezdés a) és b) pontja, az 59/2017. (XII. 18.) FM rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^251]: A 11. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § d) pontjával megállapított, a 34/2015. (VI. 25.) FM rendelet 6. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) pontja, és (5) bekezdés a) és b) pontja, az 59/2017. (XII. 18.) FM rendelet 12. § (3) bekezdése szerint módosított szöveg.

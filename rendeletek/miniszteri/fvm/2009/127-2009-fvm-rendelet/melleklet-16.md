@@ -60,7 +60,7 @@
 
 | 29. | tájbor | bor (OFJ) | igen | Az oltalom alatt álló földrajzi jelzés kifejezés helyett használható a vonatkozó termékleírás szerint. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^257]
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^258]
 
 „A” rész
 
@@ -428,4 +428,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^257]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^258]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 61/C. §[^229] A 14. § (2) és (2a) bekezdésében foglaltaktól eltérően a 2017-ben szüretelt szőlőre kiadott és határidőben első borászati termék származási bizonyítványra át nem váltott szőlő származási bizonyítvánnyal a Hktv. 41. § szerinti mulasztási bírság megfizetése mellett legkésőbb 2019. január 15-ig lehet kérelmezni az első borászati termék származási bizonyítvány kiadását.
+## 61/C. §[^230] A 14. § (2) és (2a) bekezdésében foglaltaktól eltérően a 2017-ben szüretelt szőlőre kiadott és határidőben első borászati termék származási bizonyítványra át nem váltott szőlő származási bizonyítvánnyal a Hktv. 41. § szerinti mulasztási bírság megfizetése mellett legkésőbb 2019. január 15-ig lehet kérelmezni az első borászati termék származási bizonyítvány kiadását.
 
 ## Hatályukat vesztő rendelkezések
 
@@ -20,4 +20,4 @@ g) a védett eredetű borok minősítéséhez kapcsolódó borvizsgáló bizotts
 
 h) az Országos Borszakértő Bizottságról szóló 58/2005. (VI. 28.) FVM rendelet.
 
-[^229]: A 61/C. §-t a 35/2018. (XII. 6.) AM rendelet 11. §-a iktatta be.
+[^230]: A 61/C. §-t a 35/2018. (XII. 6.) AM rendelet 11. §-a iktatta be.

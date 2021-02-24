@@ -82,6 +82,6 @@
 
 |  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^247]
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^248]
 
-[^247]: A 9. melléklet a 19/2018. (VII. 27.) AM rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^248]: A 9. melléklet a 19/2018. (VII. 27.) AM rendelet 4. § (6) bekezdésével megállapított szöveg.

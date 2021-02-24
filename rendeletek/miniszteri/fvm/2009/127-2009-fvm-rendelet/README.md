@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-127-20-
 | 2018-12-07 | 2009-127-20-82.28 | 60/2015. (X. 8.) FM rendelet |
 | 2020-03-25 | 2009-127-20-82.29 | 5/2020. (III. 20.) AM rendelet |
 | 2020-09-28 | 2009-127-20-82.30 | 42/2017. (VIII. 17.) FM rendelet |
+| 2021-02-24 | 2009-127-20-82.31 | 20/2014. (X. 31.) FM rendelet |
