@@ -1,0 +1,5 @@
+## lép.
+
+## 10. Záró rendelkezés
+
+11. § Ez a rendelet a kihirdetését követő napon lép hatályba.
