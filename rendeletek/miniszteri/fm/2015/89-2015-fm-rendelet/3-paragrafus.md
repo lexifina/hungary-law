@@ -14,7 +14,7 @@ e) ötéves halgazdálkodási gyakorlattal rendelkezik.
 
 (2) A halgazdálkodási gyakorlat a gazdálkodási tevékenység telephelye szerint illetékes halgazdálkodási hatóság által kiadott, 30 napnál nem régebbi okirattal igazolható.
 
-(3)[^1] A pályázaton a következő jogi személyek vehetnek részt:
+(3)[^2] A pályázaton a következő jogi személyek vehetnek részt:
 
 a) a helyi önkormányzat, a helyi önkormányzatok társulása,
 
@@ -36,4 +36,4 @@ cb) amely vállalja, hogy a pályázat benyújtásának évét követő 5 évben
 
 (6) A (4) bekezdés szerinti esetben a feleknek polgári jogi szerződést kell kötniük a közös hasznosítás részletes feltételeire, módjára, valamint a felek jogaira és kötelezettségeire vonatkozóan.
 
-[^1]: A 3. § (3) bekezdése a 75/2016. (XI. 30.) FM rendelet 2. §-ával megállapított szöveg.
+[^2]: A 3. § (3) bekezdése a 75/2016. (XI. 30.) FM rendelet 2. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-24. § (1)[^13] Ha a pályázat olyan nyilvántartott halgazdálkodási vízterületre irányul, amelynek a Hhvtv. alapján előhaszonbérletre jogosult tulajdonosa van, a pályázati döntésre, valamint a szerződéskötésre a (2)–(8) bekezdést kell alkalmazni.
+24. § (1)[^14] Ha a pályázat olyan nyilvántartott halgazdálkodási vízterületre irányul, amelynek a Hhvtv. alapján előhaszonbérletre jogosult tulajdonosa van, a pályázati döntésre, valamint a szerződéskötésre a (2)–(8) bekezdést kell alkalmazni.
 
 (2) Az előhaszonbérletre való jogot nem érinti az a körülmény, hogy a tulajdonos az e rendelet szerinti pályázaton indult-e.
 
@@ -18,7 +18,7 @@ d) a halgazdálkodási jog elfogadására vonatkozó jognyilatkozat megtételén
 
 (6) Az előhaszonbérletre jogosult a nyertes pályázat átvételére nyitva álló határidő lejártát követő naptól számított 15 napon belül a minisztériumhoz címezve elfogadó jognyilatkozatot tehet. Az előhaszonbérleti jogról való lemondásnak kell tekinteni, ha a jogosult határidőn belül nem nyilatkozik.
 
-(6a)[^14] Az elfogadó nyilatkozatban az előhaszonbérletre jogosult nyilatkozik arról, hogy
+(6a)[^15] Az elfogadó nyilatkozatban az előhaszonbérletre jogosult nyilatkozik arról, hogy
 
 a) a Hhvtv. 29. § (5) bekezdésében foglalt kizáró okok vele szemben nem állnak fenn,
 
@@ -32,5 +32,5 @@ d) vállalja a Hhvtv. 31. § (2) bekezdésében foglaltak teljesítését.
 
 (8) Elfogadó nyilatkozat hiányában a 16–18. §-ban foglaltak az irányadók azzal, hogy a szerződéskötés határidejének kezdő napja a (6) bekezdésben meghatározott határidő lejártát követő nap.
 
-[^13]: A 24. § (1) bekezdése a 75/2016. (XI. 30.) FM rendelet 4. § c) pontja szerint módosított szöveg.
-[^14]: A 24. § (6a) bekezdését a 62/2019. (XII. 18.) AM rendelet 10. §-a iktatta be.
+[^14]: A 24. § (1) bekezdése a 75/2016. (XI. 30.) FM rendelet 4. § c) pontja szerint módosított szöveg.
+[^15]: A 24. § (6a) bekezdését a 62/2019. (XII. 18.) AM rendelet 10. §-a iktatta be.

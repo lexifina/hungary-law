@@ -24,14 +24,14 @@ d) a pályázó a pályázat szerinti haszonbérleti szerződés megkötésére 
 
 e) a közölt tények, adatok, információk részben vagy egészben nem felelnek meg a valóságnak;
 
-f)[^7] a pályázóval szemben a pályázati felhívás közzétételét megelőző három évben véglegessé vált határozattal legalább kétszer halgazdálkodási vagy halvédelmi bírságot szabtak ki;
+f)[^8] a pályázóval szemben a pályázati felhívás közzétételét megelőző három évben véglegessé vált határozattal legalább kétszer halgazdálkodási vagy halvédelmi bírságot szabtak ki;
 
-g)[^8] a pályázóval szemben az államot megillető halgazdálkodási jog gyakorlásával összefüggésben a pályázati felhívás közzétételét megelőző öt évben – ideértve az f) pont szerinti bírságokat kiszabó határozatokat is – legalább három véglegessé vált, kötelezettséget megállapító hatósági döntést hoztak;
+g)[^9] a pályázóval szemben az államot megillető halgazdálkodási jog gyakorlásával összefüggésben a pályázati felhívás közzétételét megelőző öt évben – ideértve az f) pont szerinti bírságokat kiszabó határozatokat is – legalább három véglegessé vált, kötelezettséget megállapító hatósági döntést hoztak;
 
-h)[^9] a pályázónak vagy annak a gazdasági társaságnak, amelyben a pályázó többségi befolyással rendelkezik, a minisztériummal, az országos illetékességű halgazdálkodási hatósággal, a területi halgazdálkodási hatósággal vagy a Nemzeti Élelmiszerlánc-biztonsági Hivatallal szemben 120 napot meghaladó, lejárt tartozása van.
+h)[^10] a pályázónak vagy annak a gazdasági társaságnak, amelyben a pályázó többségi befolyással rendelkezik, a minisztériummal, az országos illetékességű halgazdálkodási hatósággal, a területi halgazdálkodási hatósággal vagy a Nemzeti Élelmiszerlánc-biztonsági Hivatallal szemben 120 napot meghaladó, lejárt tartozása van.
 
 (4) A pályázatok benyújtására nyitva álló határidő lejártát követően az érvénytelen pályázatot benyújtó pályázó a pályázati eljárásban, illetve annak további szakaszában nem vehet részt. Erről – az érvénytelenség okának megjelölésével – a minisztérium írásban értesíti a pályázót.
 
-[^7]: A 15. § f) pontja a 62/2019. (XII. 18.) AM rendelet 11. § a) pontja szerint módosított szöveg.
-[^8]: A 15. § g) pontja a 62/2019. (XII. 18.) AM rendelet 11. § b) pontja szerint módosított szöveg.
-[^9]: A 15. § (3) bekezdés h) pontja a 89/2016. (XII. 29.) FM rendelet 25. §-ával megállapított szöveg.
+[^8]: A 15. § f) pontja a 62/2019. (XII. 18.) AM rendelet 11. § a) pontja szerint módosított szöveg.
+[^9]: A 15. § g) pontja a 62/2019. (XII. 18.) AM rendelet 11. § b) pontja szerint módosított szöveg.
+[^10]: A 15. § (3) bekezdés h) pontja a 89/2016. (XII. 29.) FM rendelet 25. §-ával megállapított szöveg.

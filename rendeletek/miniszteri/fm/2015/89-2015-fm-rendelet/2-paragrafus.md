@@ -10,7 +10,7 @@ b) a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) által
 
 c) a halgazdálkodási hatóságot,
 
-d) a Nemzeti Agrárkutatási és Innovációs Központ Halászati Kutató Intézetet,
+d)[^1] a Magyar Agrár- és Élettudományi Egyetemet,
 
 e) az ingatlanügyi hatóságot
 
@@ -19,3 +19,5 @@ e) az ingatlanügyi hatóságot
 (3) A kiíró a pályázati felhívás előkészítésébe más szervet, szakmai szervezetet, szakértő intézetet vagy személyt is bevonhat.
 
 (4) A pályázat a miniszter jóváhagyását követően írható ki.
+
+[^1]: A 2. § (2) bekezdés d) pontja a 4/2021. (II. 23.) AM rendelet 9. §-ával megállapított szöveg.
