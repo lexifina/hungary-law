@@ -10,15 +10,15 @@ b) a kérelemben megjelölt termőhely szerinti, a Balaton Kiemelt Üdülőkörz
 
 a) a hegybíró véleménye,
 
-b)[^6] a NAIK által adott szakvélemény
+b)[^7] a MATE által adott szakvélemény
 
 ## figyelembevételével dönt.
 
-(4)[^7] A termőhelyi katasztert vezető szerv a határozatát közli a termőhely szerint illetékes hegyközséggel, a települési önkormányzat jegyzőjével, a földmérési és térinformatikai államigazgatási szervvel és a NAIK-kal is.
+(4)[^8] A termőhelyi katasztert vezető szerv a határozatát közli a termőhely szerint illetékes hegyközséggel, a települési önkormányzat jegyzőjével, a földmérési és térinformatikai államigazgatási szervvel és a MATE-val is.
 
 (5) A Balaton Törvény hatálya alá tartozó települések esetén a termőhelyi katasztert vezető szerv a határozatot közli az illetékes első fokú építési hatósággal is.
 
-(6)[^8] A földmérési és térinformatikai államigazgatási szerv a borszőlő termőhelyi kataszterét érintő változásokat, a NAIK által szolgáltatott adatokat is felhasználva, átvezeti a digitális termőhelyi kataszteri térkép-fedvényeken és megjeleníti VINGIS rendszerben.
+(6)[^9] A földmérési és térinformatikai államigazgatási szerv a borszőlő termőhelyi kataszterét érintő változásokat, a MATE által szolgáltatott adatokat is felhasználva, átvezeti a digitális termőhelyi kataszteri térkép-fedvényeken és megjeleníti VINGIS rendszerben.
 
 (7) A papíralapú térképi nyilvántartás mellett a térképek adattartalma bekerül a VINGIS digitális térinformatikai adatállományába (borszőlő termőhelyi kataszterének fedvénye), ami egyenértékű a papíralapú térképek adataival. Eltérés esetén a borszőlő termőhelyi kataszterének fedvénye az irányadó.
 
@@ -26,6 +26,6 @@ b)[^6] a NAIK által adott szakvélemény
 
 (9) Borszőlő termőhelyi kataszterébe nem rögzíthető az építési területbe tartozó vagy építési területnek kijelölt, illetve a nem mezőgazdasági művelési ágba sorolt földterület.
 
-[^6]: A 4. § (3) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 129. § h) pontja szerint módosított szöveg.
-[^7]: A 4. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 129. § c) és i) pontja szerint módosított szöveg.
-[^8]: A 4. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 129. § d) és h) pontja szerint módosított szöveg.
+[^7]: A 4. § (3) bekezdés b) pontja a 4/2021. (II. 23.) AM rendelet 4. § c) pontja szerint módosított szöveg.
+[^8]: A 4. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 129. § c) pontja, a 4/2021. (II. 23.) AM rendelet 4. § d) pontja szerint módosított szöveg.
+[^9]: A 4. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 129. § d) pontja, a 4/2021. (II. 23.) AM rendelet 4. § c) pontja szerint módosított szöveg.

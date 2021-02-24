@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-97-20-8
 | --- | --- | --- |
 | 2009-07-31 | 2009-97-20-82.1 | 97/2009. (VII. 30.) FVM rendelet |
 | 2017-08-18 | 2009-97-20-82.2 | 42/2017. (VIII. 17.) FM rendelet |
+| 2021-02-24 | 2009-97-20-82.3 | 4/2021. (II. 23.) AM rendelet |
