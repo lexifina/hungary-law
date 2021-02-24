@@ -132,7 +132,7 @@
 
 ## 1.2.1. Kezdeményezés
 
-## 1.2.1.1.[^117] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, a Nyugat-Magyarországi Egyetem, az erdészeti hatáskörben eljáró megyei kormányhivatal, a Nemzeti Földügyi Központ, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
+## 1.2.1.1.[^117] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró megyei kormányhivatal, a Nemzeti Földügyi Központ, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
 
 ## 1.2.1.2.[^118] A törzskönyvezés kezdeményezője a kérelmét 1 példányban megküldi a NÉBIH részére a ,,Magtermelő állomány-törzslap'' című nyomtatványon.
 
@@ -142,7 +142,7 @@
 
 ## 1.2.2.1.[^120] A NÉBIH a beérkezett javaslat helyszíni elbírálására bírálóbizottságot kér fel.
 
-## 1.2.2.2.[^121] A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, az erdészeti hatáskörben eljáró megyei kormányhivatal, valamint a NÉBIH. Védett természeti területen a nemzeti park igazgatóságok is tagot küldhetnek.
+## 1.2.2.2.[^121] A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró megyei kormányhivatal, valamint a NÉBIH. Védett természeti területen a nemzeti park igazgatóságok is tagot küldhetnek.
 
 ## 1.2.2.3. A bírálóbizottság az állományokat helyszíneli, ellenőrzi határait és az üzemtervnek való megfelelést. Mintaterületet jelöl ki, és az egyedek bonitálásával megállapítja a minőségi jellemzőket. Az állomány fenotípusos minősítése a bírálóbizottság feladata.
 
@@ -456,11 +456,11 @@
 
 [^115]: Az 5. számú melléklet 1.1.2.4.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
 [^116]: Az 5. számú melléklet 1.1.2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
-[^117]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^117]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés h) pontja, a 4/2021. (II. 23.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^118]: Az 5. számú melléklet 1.2.1.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^119]: Az 5. számú melléklet 1.2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^120]: Az 5. számú melléklet 1.2.2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^121]: Az 5. számú melléklet 1.2.2.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^121]: Az 5. számú melléklet 1.2.2.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 4/2021. (II. 23.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^122]: Az 5. számú melléklet 1.2.4.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^123]: Az 5. számú melléklet 1.2.4.4. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja szerint módosított szöveg.
 [^124]: Az 5. számú melléklet 1.2.4.4. alpont b) alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés i) pontja szerint módosított szöveg.
