@@ -1,8 +1,4 @@
-## 16. § Az R4. a következő 5. és 6. §-sal egészül ki:
-
-## „5. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (3) bekezdését, 1. és 2. mellékletét a Módr. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-## 6. § A Mosonmagyaróvár Város Önkormányzatának tulajdonában álló forgalomképtelen törzsvagyonba tartozó, a Módr.-rel megállapított 2. melléklet b) és c) pontja szerinti közterület tulajdonjogát Győr-Moson-Sopron Megye Önkormányzata a Módr. hatálybalépésével szerzi meg.”
+## 16. §[^7]
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -53,3 +49,5 @@
 22. azok az 1–21. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^7]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

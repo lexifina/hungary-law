@@ -1,1 +1,3 @@
-## 10. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R1.) 2. melléklete a 4. melléklet szerint módosul.
+## 10. §[^1]
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
