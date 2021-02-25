@@ -1,0 +1,5 @@
+## 2. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+
+3. § (1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, illetve a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény szerinti előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások kivételével – tizenöt nap. A katasztrófavédelmi engedélyezési eljárások ügyintézési határideje harmincöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, valamint a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével – nyolc nap.
