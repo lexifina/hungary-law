@@ -14,18 +14,20 @@
 
 | 4.c | A déli út és az iparterület közötti útkapcsolat kialakítása [nyugati út] |
 
-2. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
+2. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz[^11]
 
-Víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok
+Víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok
 
 | Sorszám | Projekt |
 
-| 1. | 1051 m3/nap mennyiségű ivóvíz Fővárosi Vízművektől történő átvételéhez szükséges infrastruktúra kiépítése |
+| 1. | Vác Déli-Forte vízbázis területén található ivóvíztermelő kutak és a kutakat összekötő vezeték rekonstrukciója |
 
 | 2. | Vác Déli-Forte vízbázis területén létrehozandó vízkivételi mű és egy Ultraszűrő rendszert tartalmazó vízkezelő technológia kialakítása |
 
-| 3. | Vác Déli-Forte vízbázis és a gödi ipari-innovációs fejlesztési terület közötti D 600-as ipari vízvezeték építése |
+| 3. | Vác Déli-Forte vízbázis és a gödi ipari-innovációs fejlesztési terület közötti vízvezetékek építése |
 
-| 4. | A gödi ipari-innovációs fejlesztési területen keletkező ipari szennyvizek teljes körű tisztítása |
+| 4. | A gödi ipari-innovációs fejlesztési területen keletkező kommunális és ipari szennyvizek teljes körű tisztítása |
 
-| 5. | A gödi ipari-innovációs fejlesztési terület és a váci szennyvíztelep közötti D 500-as ipari szennyvízvezeték építése |
+| 5. | A gödi ipari-innovációs fejlesztési terület és a váci szennyvíztelep közötti szennyvízvezeték építése |
+
+[^11]: A 2. melléklet az 1080/2021. (II. 27.) Korm. határozat 8. pontjával megállapított szöveg.

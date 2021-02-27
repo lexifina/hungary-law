@@ -54,25 +54,47 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.10.[^2] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 11 984 389 200 forint biztosításával, amelynek érdekében
+## 1.10.[^2] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 32 254 575 648 forint biztosításával;
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésének érdekében legfeljebb 11 984 389 200 forint kötelezettséget vállaljon,
+## 1.10a.[^3] felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával az 1.10. alpontban foglalt fejlesztések komplex előkészítése, megvalósítása és az ezekkel összefüggő feladatok elvégzése érdekében gondoskodjon az 1.10. pontban foglalt feladat ellátására szolgáló előirányzat javára
 
-## b) az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcím, 7. Állami többletfeladatok jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját a 2021. év vonatkozásában 10 962 478 500 forint összegben állapítja meg;
+## a) a 2020. évben 1 021 910 700 forint,
 
-## 1.11. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával az 1.10. alpont szerinti feladat megvalósítása érdekében gondoskodjon a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcím, 7. Állami többletfeladatok jogcímcsoport javára
+## b) a 2021. évben 21 561 621 843 forint,
 
-## a) a 2020. évben 1 021 910 700 forint forrás biztosításáról,
+## c) a 2022. évben 6 385 331 070 forint,
 
-## b) a 2021. évben összesen 10 962 478 500 forint forrás biztosításáról;
+## d) a 2023. évben 2 230 494 690 forint,
+
+## e) a 2024. évben 1 055 217 345 forint
+
+## forrás biztosításáról;
 
 ## Felelős: pénzügyminiszter
 
 ## innovációért és technológiáért felelős miniszter
 
-## Határidő: az a) pont vonatkozásában azonnal a b) pont vonatkozásában a 2021. évi központi költségvetés tervezése során
+## Határidő: az a) alpont tekintetében azonnal
 
-## 1.12.[^3] egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
+## a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása során
+
+## a c)–e) alpont tekintetében az adott évi központi költségvetés tervezése során
+
+## 1.11.[^4] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1.10. alpontban foglalt fejlesztések megvalósítása érdekében legfeljebb 32 238 967 120 forint kötelezettséget vállaljon;
+
+## 1.11a.[^5] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 1.10. alpontban foglalt fejlesztések komplex előkészítése, megvalósítása és az ezekkel összefüggő feladatok elvégzése érdekében a központi költségvetés XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím terhére vállalható kötelezettségvállalás felső korlátját
+
+## a) a 2021. év vonatkozásában 21 550 846 420 forint,
+
+## b) a 2022. év vonatkozásában 6 382 140 000 forint,
+
+## c) a 2023. év vonatkozásában 2 229 380 000 forint,
+
+## d) a 2024. év vonatkozásában 1 054 690 000 forint
+
+## összegben állapítja meg.
+
+## 1.12.[^6] egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -80,24 +102,27 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.13.[^4]
+## 1.13.[^7]
 
-## 1.14.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
+## 1.14.[^8] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## Határidő: a beruházás befejezését követően azonnal
 
-## 2.[^6]
+## 2.[^9]
 
-## 3.[^7]
+## 3.[^10]
 
 1. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
 
 [^1]: Az 1. pont 1.8. alpontja az 1581/2020. (IX. 10.) Korm. határozattal megállapított szöveg.
-[^2]: Az 1. pont 1.10. alpontja az 1248/2020. (V. 20.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: Az 1. pont 1.13. alpontját az 1821/2020. (XI. 18.) Korm. határozat 4. pontja visszavonta.
-[^5]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
-[^6]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont 1.10. alpontja az 1080/2021. (II. 27.) Korm. határozat 4. pontjával megállapított szöveg.
+[^3]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be.
+[^4]: Az 1. pont 1.11. alpontja az 1080/2021. (II. 27.) Korm. határozat 6. pontjával megállapított szöveg.
+[^5]: Az 1. pont 1.11a. alpontját az 1080/2021. (II. 27.) Korm. határozat 7. pontja iktatta be.
+[^6]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^7]: Az 1. pont 1.13. alpontját az 1821/2020. (XI. 18.) Korm. határozat 4. pontja visszavonta.
+[^8]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
+[^9]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
