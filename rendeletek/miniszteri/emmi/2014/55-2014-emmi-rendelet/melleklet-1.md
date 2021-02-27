@@ -740,13 +740,27 @@ tartalmazhat.
 
 | 292. | Glaucine | 1,2,9,10-tetramethoxy-6-methyl-5,6,6a,7-tetrahydro-4H- dibenzo[de,g]quinoline |
 
-| 293. | LSA | (6aS,9S)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide |
+| 293. | LSA | (6aS,9S)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline- 9-carboxamide |
 
 | 294. | Arecoline | methyl 1-methyl-1,2,5,6-tetrahydropyridine-3-carboxylate |
+
+| 295. | 5-Br-DMT | [2-(5-bromo-1H-indol-3-yl)ethyl]dimethylamine |
+
+| 296. | 5-Cl-DMT | [2-(5-chloro-1H-indol-3-yl)ethyl]dimethylamine |
+
+| 297. | Mephedrene | N-methyl-1-(5-methyl-2-thiophenyl)propan-2-amine |
+
+| 298. | PTI-3 | N-({2-[1-(5-fluoropentyl)-1H-indol-3-yl]-1,3-thiazol-4-yl}methyl)- 2-methoxy-N-methylethan-1-amine |
+
+| 299. | Cumyl-Cb-MeGaClone | 5-(cyclobutylmethyl)-2-(1-methyl-1-phenyl-ethyl)pyrido[4,3-b] indol-1-one |
+
+| 300. | BOH-2C-B | 2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanol |
+
+| 301. | N-methylbenzedrone | 2-[benzyl(methyl)amino]-1-(4-methylphenyl)propan-1-one |
 
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 [^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1–2. §-a szerint módosított szöveg.
