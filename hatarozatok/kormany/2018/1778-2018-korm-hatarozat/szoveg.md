@@ -22,7 +22,7 @@ b) gondoskodjon a hitelintézetek által 2020. április 21. napjától kibocsát
 
 c) gondoskodjon a hitelintézetek által 2020. április 21. napjától kezdődően az Európai Bizottság „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című közleménye (a továbbiakban: Közlemény) alapján az Európai Bizottság határozataiban jóváhagyott határidőig kibocsátott, legfeljebb 6 év futamidejű folyószámla-, forgóeszköz-finanszírozási, beruházási célú, valamint egyéb ügyletkörbe tartozó új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 90%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át,
 
-d) gondoskodjon a hitelintézetek által 2020. október 22. napjától kezdődően a Közlemény alapján az Európai Bizottság határozataiban jóváhagyott határidőig kibocsátott, legfeljebb 10 év futamidejű beruházási célú új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) és c) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, maximálisan 100 000 000 forint hitelösszeg esetén a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás, 100 000 000 forintot meghaladó hitelösszeg esetén a teljes hitelösszeg legfeljebb 2%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át;
+d)[^2] gondoskodjon a hitelintézetek által 2020. október 22. napjától kezdődően a Közlemény alapján az Európai Bizottság határozataiban jóváhagyott határidőig kibocsátott, legfeljebb 10 év futamidejű, valamint 2021. március 1. napjától kezdődően a legfeljebb 15 év futamidejű beruházási célú új hitelek és hitelkiváltások – ideértve a 2020. október 22. és 2021. február 28. között kibocsátott hitelek legfeljebb 15 év futamidőre történő meghosszabbítását is, és ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) és c) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, maximálisan 100 000 000 forint hitelösszeg esetén a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás, 100 000 000 forintot meghaladó hitelösszeg esetén a teljes hitelösszeg legfeljebb 2%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át,
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -40,22 +40,26 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2020. évi központi költségvetés tervezése során
 
-5. felhívja a pénzügyminisztert, hogy gondoskodjon az 1. és 2. pont szerinti feladat végrehajtásához szükséges költségvetési források rendelkezésre állásáról a 2021. és 2030. közötti időszakban;
+5.[^3] felhívja a pénzügyminisztert, hogy gondoskodjon az 1. és 2. pont szerinti feladat végrehajtásához szükséges költségvetési források rendelkezésre állásáról a 2021. és 2036. közötti időszakban;
 
 Felelős: pénzügyminiszter
 
-Határidő: Magyarország 2021–2030. évi központi költségvetéseinek tervezése során
+Határidő: a 2021. év tekintetében a felmerülés ütemében
 
-6.[^2]
+a 2022–2036. évek tekintetében az adott évi központi költségvetés tervezése során
 
-7.[^3]
+6.[^4]
 
-8.[^4]
+7.[^5]
 
-9.[^5]
+8.[^6]
+
+9.[^7]
 
 [^1]: A 2. pont az 1857/2020. (XI. 28.) Korm. határozat 4. pontjával megállapított szöveg.
-[^2]: A 6. pontot az 1913/2020. (XII. 16.) Korm. határozat 8. pontja visszavonta.
-[^3]: A 7. pontot az 1684/2020. (X. 21.) Korm. határozat 7. pontjával visszavonta.
-[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont d) alpontja az 1083/2021. (II. 27.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: Az 5. pont az 1083/2021. (II. 27.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A 6. pontot az 1913/2020. (XII. 16.) Korm. határozat 8. pontja visszavonta.
+[^5]: A 7. pontot az 1684/2020. (X. 21.) Korm. határozat 7. pontjával visszavonta.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
