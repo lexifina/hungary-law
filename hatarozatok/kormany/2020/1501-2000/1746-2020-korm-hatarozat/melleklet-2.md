@@ -74,7 +74,7 @@
 
 | 37. | Monorierdő Község Önkormányzata útfejlesztési feladatainak támogatása | 55 000 000 | belterület útfelújítás, útkarbantartás |
 
-| 38. | Nagykáta Város Önkormányzata kötelező feladatainak támogatása | 195 000 000 | temető felújítása (kápolna- és kerítésfelújítás) |
+| 38. | Nagykáta Város Önkormányzata kötelező feladatainak támogatása | 195 000 000 | temető felújítása, új ravatalozó építése |
 
 | 39. | Nagykáta Város Önkormányzata szociális feladatainak támogatása | 700 000 000 | bentlakásos idősek otthona kialakítása |
 
