@@ -1,0 +1,31 @@
+# A Kormány 1078/2021. (II. 27.) Korm. határozata
+
+Magyar Közlöny 2021. évi 31. szám, 2021. február 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1TLev8x4QZrXeCyLRQBh60340e1411bd9/dokumentumok/083e3397386f5c3594092ad502288d1f8289d18c/letoltes)
+
+---
+
+A Kormány 1078/2021. (II. 27.) Korm. határozata
+a szabályozott piacra bevezetett értékpapírokra vonatkozó éves pénzügyi jelentés egységes elektronikus
+beszámolási formátumban való közzétételének feltételes halasztásáról
+A Kormány felhívja a pénzügyminisztert, hogy az elfogadás alatt álló, a Covid19-világjárványt követő helyreállítás elősegítése
+érdekében az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő
+bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i
+2017/1129/EU európai parlamenti és tanácsi rendeletnek az uniós helyreállítási tájékoztató és a pénzügyi közvetítőkre vonatkozó
+célzott kiigazítások tekintetében történő, valamint a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos
+információkra vonatkozó átláthatósági követelmények harmonizációjáról és a 2001/34/EK irányelv módosításáról szóló,
+2004. december 15-i 2004/109/EK európai parlamenti és tanácsi irányelvnek (a továbbiakban: Irányelv) az egységes elektronikus
+beszámolási formátum éves pénzügyi beszámolók elkészítéséhez való használata tekintetében történő módosításáról szóló
+európai parlamenti és tanácsi rendelet tervezetében foglaltakra tekintettel
+1. tájékoztassa az érintetteket arról, hogy Magyarország él azon lehetőséggel, hogy a szabályozott piacra
+bevezetett értékpapírok kibocsátói a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes
+elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő
+kiegészítéséről szóló, 2018. december 17-i 2019/815/EU felhatalmazáson alapuló bizottsági rendeletnek az Irányelv
+4. cikk (7) bekezdésében foglalt rendelkezésére figyelemmel megalkotott – az éves pénzügyi jelentés egységes
+elektronikus beszámolási formátumban való elkészítésére vonatkozó – előírásokat a 2021. január 1-jén kezdődő
+pénzügyi évekre alkalmazzák;
+2. az éves pénzügyi jelentés egységes elektronikus beszámolási formátumban való elkészítésére vonatkozó előírások
+kötelező alkalmazásának Magyarország általi halasztásáról tájékoztassa az Európai Bizottságot.
+Felelős: pénzügyminiszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
