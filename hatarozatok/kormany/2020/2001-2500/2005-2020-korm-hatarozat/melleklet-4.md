@@ -40,4 +40,6 @@
 
 | 20. | Zalaegerszeg Megyei Jogú Város Önkormányzata kötelező feladatainak támogatása | 228 649 000 | kötelező önkormányzati feladat biztosítása érdekében pénzeszközátadás |
 
-4. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz
+4. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^16]
+
+[^16]: A 4. melléklet az 1079/2021. (II. 27.) Korm. határozat 2. pontja szerint módosított szöveg.

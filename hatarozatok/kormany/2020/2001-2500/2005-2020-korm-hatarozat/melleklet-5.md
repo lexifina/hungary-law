@@ -2,7 +2,7 @@
 
 | 1. | Bagamér Nagyközség Önkormányzata óvoda felújításának támogatása | 63 952 846 | óvoda felújításának támogatása |
 
-| 2. | Levelek Nagyközség Önkormányzata óvoda beruházásának támogatása | 55 732 927 | óvoda felújításának támogatása |
+| 2. | Levelek Nagyközség Önkormányzata óvoda beruházásának támogatása | 55 732 927 | óvoda építésének támogatása |
 
 | 3. | Kemecse Város Önkormányzata mentőállomás építésének támogatása | 750 000 000 | mentőállomás építésének támogatása |
 
@@ -24,6 +24,6 @@
 
 | 12. | Tomajmonostora Község Önkormányzata fejlesztési feladatainak támogatása | 50 000 000 | fejlesztési feladatainak támogatása |
 
-5. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^16]
+5. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^17]
 
-[^16]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
