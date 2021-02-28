@@ -4,4 +4,6 @@ a) Dányi Gábort a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív
 
 b) Vartus Gergelyt, a Miniszterelnökség helyettes államtitkárát a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program monitoring bizottsága elnökévé – 2021. március 1-i hatállyal – kinevezem.
 
-2. Visszavonom a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 61/2020. (VIII. 7.) ME határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
