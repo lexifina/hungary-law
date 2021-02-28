@@ -1,0 +1,3 @@
+## 2. § Az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos nemzeti jelentés tartalmáról és elkészítésének módjáról, az adatszolgáltatás rendjéről, illetve az adatszolgáltatási kötelezettség megszegése esetén fizetendő bírságról szóló 278/2014. (XI. 14.) Korm. rendelet 1. mellékletében foglalt táblázat A:2 mezőjében a „Nemzeti Agrárkutatási és Innovációs Központ” szövegrész helyébe az „AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság” szöveg lép.
+
+## 3. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet módosítása
