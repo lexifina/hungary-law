@@ -20,8 +20,11 @@
 
 ## d) egyetért azzal, hogy a belügyminiszter a 3. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az 1. melléklet szerinti települési önkormányzatok számára.
 
-## 2. A Gazdaságvédelmi programok előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, kötelezettségvállalás engedélyezéséről, továbbá a 2021. évi központi költségvetés végrehajtása érdekében szükséges intézkedésekről és egyes kormányhatározatok módosításáról szóló 2005/2020. (XII. 24.) Korm. határozat 4. mellékletében foglalt táblázat „Támogatási cél” oszlop 2. sorában az „óvoda felújításának támogatása” szövegrész helyébe az „óvoda építésének támogatása” szöveg lép.
+## 2.[^1]
 
-## 3. Az egyes térségi fejlesztési igények támogatásáról szóló 1746/2020. (XI. 11.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlop 38. sorában a „temető felújítása (kápolna- és kerítésfelújítás)” szövegrész helyébe a „temető felújítása, új ravatalozó építése” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1079/2021. (II. 27.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
