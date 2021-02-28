@@ -10,7 +10,7 @@ c) az érintett állandó személyazonosító igazolványának számát, okmány
 
 d) a védettségi igazolvány sorszámát,
 
-e) az oltottság tényének igazolása esetén az oltás idejét, valamint a védőoltás típusát,
+e)[^2] az oltottság tényének igazolása esetén az oltás idejét,
 
 f) a fertőzésből történő felgyógyulás tényének az igazolása esetén az igazolvány érvényességének dátumát,
 
@@ -95,3 +95,5 @@ b) (7) bekezdés szerinti kiállítása, valamint (10) bekezdés szerinti pótl�
 (17) Ha a visszatérítés kérelemre történik, a kérelemben meg kell jelölni a visszatérítés okát, a számlatulajdonos nevét, a fizetési számlaszámot, vagy a postai címet, ahová a kérelmező a visszatérített összeg utalását kéri. A díj visszatérítését a hatóság a kérelmező által megjelölt fizetési számlaszámra átutalással vagy a postai címre kiutalással teljesíti.
 
 (18) Hivatalból történő visszatérítés esetén a hatóság a fizetési számla megterhelését tartalmazó napi kivonat, a postai készpénzátutalási megbízás feladást igazoló szelvényrész vagy ezek másolatán feltüntetett fizetési számlaszámra átutalással, vagy az azon feltüntetett címre történő kiutalással teljesíti.
+
+[^2]: A 2. § (1) bekezdés e) pontja a 86/2021. (II. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
