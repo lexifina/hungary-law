@@ -1,4 +1,4 @@
-## 53. §[^124] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelettel (a továbbiakban: Módr45.) megállapított 2. mellékletben foglalt táblázat 60. sorát a Módr45. hatálybalépésekor[^125] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 54. §[^126] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 98/2021. (II. 27.) Korm. rendelettel (a továbbiakban: Módr46.) megállapított 2. mellékletben foglalt táblázat 61. sorát a Módr46. hatálybalépésekor[^127] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^126] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^128] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^124]: Az 53. §-t a 83/2021. (II. 23.) Korm. rendelet 11. §-a iktatta be.
-[^125]: A hatálybalépés időpontja 2021. február 24.
-[^126]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^126]: Az 54. §-t a 98/2021. (II. 27.) Korm. rendelet 1. §-a iktatta be.
+[^127]: A hatálybalépés időpontja 2021. február 28.
+[^128]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
