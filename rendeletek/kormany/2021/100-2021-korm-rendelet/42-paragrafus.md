@@ -1,0 +1,3 @@
+42. § (1) A munkaerőpiaci programban meghatározottak szerint az állami foglalkoztatási szerv legalább a kötelező legkisebb munkabér 70%-ának megfelelő összegű havi támogatást nyújthat álláskeresést ösztönző juttatásként annak az álláskeresőnek vagy csoportos létszámleépítéssel érintett foglalkoztatottnak, aki a munkaerőpiacon történő elhelyezkedése érdekében jogszabályban meghatározott képzésen vesz részt.
+
+(2) Az álláskereső a támogatást követően – kivéve, ha ráépülő képzésben vesz részt – a képzés kétszeres időtartamának megfelelő ideig nem részesülhet munkaerőpiaci alkalmazkodás támogatásában.
