@@ -1,0 +1,3 @@
+## 12. § A 12/2020. (II. 7.) Korm. rendelet 135. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az igazgató a kötött munkaidőben ellátandó feladatok elosztásánál biztosítja az arányos és egyenletes feladatelosztást az oktatók között. Az oktató havi tizenhat foglalkozásnál több eseti helyettesítésre nem kötelezhető. A be nem töltött munkakörbe tartozó feladatot és a tartósan távollévő oktató helyettesítését az oktató külön megállapodással láthatja el. Külön megállapodás köthető a szakmai képzésben az (1) bekezdés a) pontjában meghatározott időkeretet meghaladó foglalkozások ellátására is.”
