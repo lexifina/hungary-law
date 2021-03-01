@@ -56,6 +56,6 @@
 
 | 28. | Vatikán |
 
-9. melléklet a 8/2018. (VI. 22.) HM rendelethez[^182]
+9. melléklet a 8/2018. (VI. 22.) HM rendelethez[^184]
 
-[^182]: A 9. mellékletet a 2/2019. (I. 31.) HM rendelet 39. § j) pontja hatályon kívül helyezte.
+[^184]: A 9. mellékletet a 2/2019. (I. 31.) HM rendelet 39. § j) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 19. [^62] Előlegek és kölcsönök
+## 19. [^64] Előlegek és kölcsönök
 
 34. § (1) Az állomány tagja a külföldi szolgálatot megelőzően, a külföldi szolgálat megkezdése előtt legfeljebb 2 hónappal illetményelőleg folyósítását kérheti.
 
@@ -6,4 +6,4 @@
 
 (3) Az illetményelőleg folyósítását a központi keret terhére az állományilletékes parancsnok engedélyezheti. Az illetményelőleget a külföldi szolgálat időtartama, de legfeljebb 12 hónap alatt kell visszafizetni.
 
-[^62]: A 19. alcím címe a 3/2021. (I. 14.) HM rendelet 12. § 10. pontjával megállapított szöveg.
+[^64]: A 19. alcím címe a 3/2021. (I. 14.) HM rendelet 12. § 10. pontjával megállapított szöveg.

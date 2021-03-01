@@ -2,7 +2,7 @@
 
 ## 26. Utazási költségek
 
-50. § (1)[^97] Ha az állomány tagja utazását a Honvédség természetben nem biztosítja, vagy a béketámogató műveletet irányító szervezet azt nem téríti meg, alkalmazni kell a 14. § (1) bekezdés a), c), e) és f) pontjának az állomány tagjára vonatkozó rendelkezéseit, a 14. § (3) bekezdés a) pontját, a 14. § (4) bekezdés a) és c) pontját, a 14. § (7) bekezdésének az állomány tagjára vonatkozó rendelkezéseit és a 15. § (1) és (1a) bekezdését.
+50. § (1)[^99] Ha az állomány tagja utazását a Honvédség természetben nem biztosítja, vagy a béketámogató műveletet irányító szervezet azt nem téríti meg, alkalmazni kell a 14. § (1) bekezdés a), c), e) és f) pontjának az állomány tagjára vonatkozó rendelkezéseit, a 14. § (3) bekezdés a) pontját, a 14. § (4) bekezdés a) és c) pontját, a 14. § (7) bekezdésének az állomány tagjára vonatkozó rendelkezéseit és a 15. § (1) és (1a) bekezdését.
 
 (2) Az állomány tagja utazási költségtérítésre az (1) bekezdésben foglaltakon felül évente egy alkalommal, az évi alap- és pótszabadsága letöltése céljából Magyarországra történő haza- és visszautazásakor is jogosult, ha a külföldi szolgálat időtartama – a meghosszabbítás időtartamát is figyelembe véve – a vezénylési okmány vagy annak módosítása szerint az 1 évet meghaladja.
 
@@ -14,4 +14,4 @@ b) az évi alap- és pótszabadság letöltésének a műveleti szabadnap Hjt. 2
 
 (4) Az (1) és a (2) bekezdés szerinti utazásoknál igénybe vehető utazási eszköz típusát az engedélyező elöljáró határozza meg.
 
-[^97]: Az 50. § (1) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 16. pontja szerint módosított szöveg.
+[^99]: Az 50. § (1) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 16. pontja szerint módosított szöveg.
