@@ -1,4 +1,4 @@
-4. § (1)[^8] Az 1. §-ban, valamint a 4/A. §-ban meghatározott támogatáshoz szükséges pénzeszközöket a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi kerete biztosítja oly módon, hogy a támogatás nyújtására központi munkaerő-piaci program keretében kerül sor.
+4. § (1)[^8] Az 1. §-ban, valamint a 4/A. §-ban meghatározott támogatáshoz szükséges pénzeszközöket a Gazdaságvédelmi Foglalkoztatási Alap foglalkoztatási alaprészének központi kerete biztosítja oly módon, hogy a támogatás nyújtására munkaerőpiaci program keretében kerül sor.
 
 (2) A támogatásban részesülő haladéktalanul köteles bejelenteni az 1. § (1) bekezdés a) pontjában meghatározott munkaviszonynak az 1. § (2) bekezdésében meghatározott időpont előtti megszűnését.
 
@@ -10,6 +10,6 @@ a) a munkaadó a munka törvénykönyvéről szóló 2012. évi I. törvény 79.
 
 b) a munkavállaló a munkaviszony megszűnését követően 7 napon belül az 1. § (1) bekezdésben meghatározott munkáltatóval újabb munkaviszonyt létesít.
 
-[^8]: A 4. § (1) bekezdése a 185/2018. (X. 8.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 101/2021. (II. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^9]: A 4. § (3) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^10]: A 4. § (4) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 6. § (4) bekezdése iktatta be.
