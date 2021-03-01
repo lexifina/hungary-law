@@ -1,4 +1,4 @@
-3. § (1) A környezetvédelmi hatóság, valamint a helyi önkormányzat – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
+3. § (1) A hulladékgazdálkodási hatóság, valamint a helyi önkormányzat – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
 
 (1a) A kijelölt közérdekű szolgáltató megad minden adatot és információt, amely a Koordináló szerv díjbeszedési feladatkörének gyakorlásához szükséges, ideértve a Ht. 38. § (3) bekezdésében meghatározott adatokat is. Az adatokat, személyes adatokat a Koordináló szerv az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti és nyilvántarthatja.
 

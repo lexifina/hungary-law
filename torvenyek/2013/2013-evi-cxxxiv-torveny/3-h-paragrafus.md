@@ -1,4 +1,4 @@
-3/H. § (1) A helyi önkormányzat, a környezetvédelmi hatóság és a vízügyi hatóság – az ideiglenes begyűjtési ellátás, továbbá a rendkívüli ellátás megszervezéséhez szükséges – a nyilvántartásában szereplő és rendelkezésére álló, jogi személyekre, jogi személyiség nélküli szervezetekre, egyéni vállalkozókra és egyéni cégekre vonatkozó adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
+3/H. § (1) A helyi önkormányzat, a hulladékgazdálkodási hatóság és a vízügyi hatóság – az ideiglenes begyűjtési ellátás, továbbá a rendkívüli ellátás megszervezéséhez szükséges – a nyilvántartásában szereplő és rendelkezésére álló, jogi személyekre, jogi személyiség nélküli szervezetekre, egyéni vállalkozókra és egyéni cégekre vonatkozó adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
 
 (2) Kártalanítás mellett az ideiglenes begyűjtési ellátáshoz és a rendkívüli ellátáshoz szükséges szállítóeszköz rendelkezésre bocsátására kötelezhető – a más településen végzett közszolgáltatás veszélyeztetése nélkül – a közszolgáltatást végző közszolgáltató.
 
