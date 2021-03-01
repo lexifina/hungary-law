@@ -14,6 +14,8 @@ e) a tárolás szabályai tekintetében, ha azok megsértése a fogyasztóvédel
 
 f) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény (a továbbiakban: Fttv.) 2. §-ának a) pontjában meghatározott fogyasztó számára forgalmazott termék feliratozása (címkézése), egyéb jelölése, a használati utasítás, továbbá a reklámozás tekintetében a fogyasztóvédelmi hatóság az Fttv. szabályai szerint
 
+g) a hulladékgazdálkodás vonatkozásában a hulladékgazdálkodási hatóság
+
 végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 (2) Az ellenőrzést végző hatóságok eljárására és intézkedéseire a rájuk vonatkozó külön jogszabályok rendelkezései az irányadóak. A tevékenység ellenőrzésére az (1) bekezdés b)–f) pontja szerint jogosult hatóság értesíti az egészségügyi államigazgatási szervet, ha feladatkörében eljárva az e törvényben, illetőleg a végrehajtására kiadott jogszabályokban foglalt rendelkezések megsértése miatt eljárást indított.

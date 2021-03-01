@@ -39,3 +39,5 @@ d) az európai statisztikákról és a titoktartási kötelezettség hatálya al
 e) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK európai parlamenti és tanácsi rendeletnek egy, az egészséget érintő vészhelyzetre való reagálással kapcsolatos harmonizált információkról szóló melléklet hozzáadásával történő módosításáról szóló 2017. március 22-i (EU) 2017/542 bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(3) A 11. § a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

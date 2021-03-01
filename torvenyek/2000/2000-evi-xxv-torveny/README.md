@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-25-00-00
 | 2018-01-01 | 2017. évi CLXXXVIII. törvény | 2000-25-00-00.29 |
 | 2020-01-01 | 2019. évi CXXI. törvény | 2000-25-00-00.30 |
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2000-25-00-00.31 |
+| 2021-03-01 | 2021. évi II. törvény | 2000-25-00-00.32 |
