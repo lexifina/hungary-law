@@ -28,7 +28,7 @@ ib)[^24] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az aján
 
 ic) a Kbt. 62. § (1) bekezdés k) pont kc) alpontjára vonatkozóan az ajánlattevő vagy részvételre jelentkező nyilatkozata arról, hogy van-e olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik; ha van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező azt nyilatkozatban megnevezi (cégnév, székhely), továbbá nyilatkozik, hogy annak vonatkozásában a Kbt. 62. § (1) bekezdés k) pont kc) alpontjában hivatkozott kizáró feltétel nem áll fenn;
 
-j)[^25] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
+j)[^25] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a foglalkoztatás-felügyeleti hatóságnak a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
 
 k) a Kbt. 62. § (1) bekezdés m) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -46,6 +46,6 @@ o)[^27]
 [^22]: A 8. § f) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^23]: A 8. § h) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^24]: A 8. § i) pont ib) alpontja a 66/2019. (III. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^25]: A 8. § j) pontja a 126/2019. (V. 30.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^25]: A 8. § j) pontja a 40/2021. (II. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^26]: A 8. § n) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja hatályon kívül helyezte.
 [^27]: A 8. § o) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (8) bekezdése iktatta be, hatályon kívül helyezte a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja.

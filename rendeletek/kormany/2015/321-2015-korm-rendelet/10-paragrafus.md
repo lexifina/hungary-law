@@ -20,7 +20,7 @@ gb)[^32] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az aján
 
 gc) a Kbt. 62. § (1) bekezdés k) pont kc) pontja tekintetében az ajánlattevő vagy részvételre jelentkező nyilatkozata arról, hogy van-e olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik; ha van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező azt nyilatkozatban megnevezi (cégnév, székhely), továbbá nyilatkozik, hogy annak vonatkozásában a Kbt. 62. § (1) bekezdés k) pont kc) alpontjában hivatkozott kizáró feltétel nem áll fenn;
 
-h)[^33] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
+h)[^33] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a foglalkoztatás-felügyeleti hatóságnak a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
 
 i) a Kbt. 62. § (1) bekezdés m) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -37,6 +37,6 @@ l)[^35]
 [^30]: A 10. § (1) bekezdés d) pontja a 40/2021. (II. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^31]: A 10. § (1) bekezdés f) pontja a 40/2021. (II. 2.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^32]: A 10. § (1) bekezdés g) pont gb) alpontja a 66/2019. (III. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^33]: A 10. § (1) bekezdés h) pontja a 126/2019. (V. 30.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^33]: A 10. § (1) bekezdés h) pontja a 40/2021. (II. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^34]: A 10. § (1) bekezdés k) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 3. pontja hatályon kívül helyezte.
 [^35]: A 10. § (1) bekeztdés l) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (10) bekezdése iktatta be, hatályon kívül helyezte a 40/2021. (II. 2.) Korm. rendelet 13. § 3. pontja.
