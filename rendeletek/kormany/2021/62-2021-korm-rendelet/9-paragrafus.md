@@ -1,0 +1,7 @@
+9. § (1) Ha a támogatás igénylője a támogatási kérelemben egyéb szolgáltatásként postai közreműködői tevékenység és a postai közreműködői tevékenységhez kapcsolódó egyéb, az egyetemes postai szolgáltató által meghatározott tevékenység ellátását is vállalja, és csatolja az egyetemes postai szolgáltató postai közreműködői szerződés megkötésére vonatkozó szándéknyilatkozatát, a lebonyolító szerv a támogatás igénylőjének erre irányuló kérelme alapján javaslatot tesz a támogatónak.
+
+(2) Ha az érintett kistelepülés vonatkozásában több támogatást igénylő is csatolja az (1) bekezdés szerinti szándéknyilatkozatot, a támogató a kérelmek lebonyolító szerv által történő formai elbírálását követően jelöli ki azt az egy igénylőt, aki részére a postai közreműködői tevékenység érdekében költségvetési támogatás nyújtható.
+
+(3) Ha a támogatás igénylője a támogatási kérelemben nyilatkozott arról, hogy vállalja gyógyszer gyógyszertáron kívüli forgalmazását, a gyógyszer beszerzésére vonatkozóan a közúton történő megközelítés figyelembevételével az üzlethez legközelebb eső közforgalmú gyógyszertár működtetőjével szerződést köt.
+
+(4) Ha a legközelebb eső közforgalmú gyógyszertárral a szerződés nem jön létre, elsősorban más – a közúton történő megközelítés figyelembevételével közelebb eső, de legfeljebb 30 km távolságra működő – közforgalmú gyógyszertárral kell a gyógyszer beszerzésére vonatkozó szerződést megkötnie.

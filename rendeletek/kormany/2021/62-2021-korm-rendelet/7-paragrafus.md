@@ -1,0 +1,3 @@
+7. § (1) A 3. § (1) bekezdés b) pontja szerinti esetben a 6. § a) pont aj) és cd) alpontját nem, új vállalkozás esetén a 6. § a) pont ab) alpontját sem kell alkalmazni.
+
+(2) A 3. § (1) bekezdés b) pontja szerinti esetben a támogatás igénylője a 6. §-ban meghatározottak mellett nyilatkozik az üzlet működési engedélyének megszerzéséről, illetve az üzlet üzemeltetésére irányuló szándéknak a kereskedelmi hatóság részére történő bejelentése várható nyilvántartásba vételéről, az üzletben várhatóan foglalkoztatott alkalmazottak számáról, valamint az üzlet tervezett heti és napi nyitvatartási idejéről.
