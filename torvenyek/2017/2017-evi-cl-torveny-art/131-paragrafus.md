@@ -2,7 +2,7 @@
 
 (1) Az állami adó- és vámhatóság adatot szolgáltat megkeresésre tizenöt napon belül
 
-a) a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság és az egészségbiztosítási szerv, a kincstár, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
+a) a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság és az egészségbiztosítási szerv, a kincstár, az állami foglalkoztatási szerv, a foglalkoztatás-felügyeleti hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
 
 b) az állami foglalkoztatási szerv részére, ha statisztikai célú adatfeldolgozás érdekében szükséges.
 
@@ -12,7 +12,7 @@ a) a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz, valamint a nyugdíjfo
 
 b) az egészségbiztosítási ellátások, valamint a rehabilitációs hatóság által folyósított ellátások utólagos ellenőrzéséhez szükséges adatokat az egészségbiztosítási szerv, és a rehabilitációs hatóság részére;
 
-c) az álláskeresési támogatások és a foglalkoztatást elősegítő támogatások megállapításához, ellenőrzéséhez és hatásvizsgálatához adatokat az állami foglalkoztatási szerv részére, a munkaügyi ellenőrzés elősegítéséhez és a munkajogviszonyok jogszerűségének ellenőrzéséhez szükséges adatokat a munkaügyi hatóság részére.
+c) az álláskeresési támogatások és a foglalkoztatást elősegítő támogatások megállapításához, ellenőrzéséhez és hatásvizsgálatához adatokat az állami foglalkoztatási szerv részére, a munkaügyi ellenőrzés elősegítéséhez és a munkajogviszonyok jogszerűségének ellenőrzéséhez szükséges adatokat a foglalkoztatás-felügyeleti hatóság részére.
 
 (2a) A honvédelmi egészségkárosodási keresetkiegészítést és a honvédelmi egészségkárosodási járadékot (a továbbiakban együtt: honvédelmi egészségkárosodási ellátás) megállapító honvédelmi szerv a honvédelmi egészségkárosodási ellátásra való jogosultság elbírálása céljából megkeresheti az állami adó- és vámhatóságot annak tisztázása érdekében, hogy a honvédelmi egészségkárosodási ellátásban részesülő a megkeresésben megjelölt időszakban hány – az 1. melléklet 3. pontjában meghatározott – foglalkoztatási jogviszonyban volt bejelentve. Az állami adó- és vámhatóság az e bekezdés szerinti adatszolgáltatást a megkeresés kézbesítésétől számított tizenöt napon belül teljesíti.
 
@@ -24,7 +24,7 @@ c) az álláskeresési támogatások és a foglalkoztatást elősegítő támoga
 
 (6) Az állami adó- és vámhatóság a foglalkoztató megszűnésének, a vállalkozási tevékenység megszüntetésének, az őstermelői igazolvány visszaadásának, visszavonásának időpontjáról, az egyéni vállalkozói, illetve az ügyvédi, szabadalmi ügyvivői tevékenység, valamint a közjegyzői szolgálat szünetelésének időtartamáról hivatalból tájékoztatja az egészségbiztosítási szervet, a nyugdíjbiztosítási szervet, ha a természetes személyre vonatkozóan a munkáltató, kifizető (ideértve a saját biztosítási jogviszonyának tekintetében az egyéni vállalkozót, a biztosított mezőgazdasági őstermelőt és a Tbj. 87.§ (6) bekezdése szerinti kötelezettet is) biztosítási jogviszony létesítésével kapcsolatos adatot közölt (bejelentést tett), de a biztosítási jogviszony megszűnésének időpontját a foglalkoztatónak minősülő személy nem jelentette be és arról az adóhatóságnak hivatalos tudomása van.
 
-(7) Az állami adó- és vámhatóság elektronikus úton hivatalból haladéktalanul átadja az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 3. § (3) bekezdése szerint a foglalkoztató által hozzá bejelentett adatokat a munkaügyi hatóság részére ellenőrzésre történő kiválasztás céljából.
+(7) Az állami adó- és vámhatóság elektronikus úton hivatalból haladéktalanul átadja az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 3. § (3) bekezdése szerint a foglalkoztató által hozzá bejelentett adatokat a foglalkoztatás-felügyeleti hatóság részére ellenőrzésre történő kiválasztás céljából.
 
 (8) Az állami adó- és vámhatóság megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére vagy megnevezésére, lakóhelyére vagy székhelyére, valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat
 
@@ -78,6 +78,8 @@ m) az online pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a t�
 
 n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 
+o) a hulladékgazdálkodási hatóságot, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
+
 (14a) A (14) bekezdés e) pontja szerinti szervek részére csak abban az esetben adható tájékoztatás az adótitokról, ha az ügyészség az adatkérést engedélyezte. A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdése vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdése szerinti adatkérés esetén az adóhatóság az ügyészség engedélye nélkül is köteles az általa kezelt, adótitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. Ilyen esetben az adatkérő az engedélyt utólag, haladéktalanul beszerzi, és megküldi az adóhatóságnak.
 
 (15) Az állami adó- és vámhatóság tájékoztatja az állami adó- és vámhatóság nyomozó hatóságát az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntetőeljárás megindítása vagy lefolytatása céljából.
@@ -88,7 +90,7 @@ n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatáro
 
 (18) Az adótitok megőrzésének a kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi információs egységként működő hatóság – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy a külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – az adótitoknak minősülő adatot az állami adó- és vámhatóság nyilvántartásából (az arra a célra kialakított rendszer útján) közvetlen hozzáféréssel lekérdezi vagy írásbeli megkeresés útján kér adótitoknak minősülő adatot az adóhatóságtól.
 
-(19) Ha az állami adó- és vámhatóság az adózónál be nem jelentett alkalmazottat talál, a foglalkoztatotti jogviszony rendezése érdekében a véglegessé vált határozata egy példányának megküldésével tájékoztatja a munkaügyi hatóságot és az egészségbiztosítási szervet. Az adóhatóság a hónap folyamán véglegessé vált határozatokat a következő hónap tizedik napjáig elektronikus úton továbbítja a munkaügyi hatóságnak és az egészségbiztosítási szervnek.
+(19) Ha az állami adó- és vámhatóság az adózónál be nem jelentett alkalmazottat talál, a foglalkoztatotti jogviszony rendezése érdekében a véglegessé vált határozata egy példányának megküldésével tájékoztatja a foglalkoztatás-felügyeleti hatóságot és az egészségbiztosítási szervet. Az adóhatóság a hónap folyamán véglegessé vált határozatokat a következő hónap tizedik napjáig elektronikus úton továbbítja a foglalkoztatás-felügyeleti hatóságnak és az egészségbiztosítási szervnek.
 
 (20) Ha az állami adó- és vámhatóság a biztosítottat terhelő járulékkötelezettséget a természetes személlyel szemben állapítja meg, akkor annak megtérülése esetén az erről szóló határozatot a megtérüléstől számított harminc napon belül, a nyugellátás, illetve a korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék, átmeneti bányászjáradék megállapítása céljából megküldi a központi nyugdíjbiztosítási szervnek.
 

@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2020-12-19 | 2020. évi CXXXVII. törvény | 2017-150-00-00.16 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 2017-150-00-00.17 |
 | 2021-02-01 | 2020. évi CXXI. törvény | 2017-150-00-00.18 |
+| 2021-03-01 | 2020. évi CXXXV. törvény | 2017-150-00-00.19 |

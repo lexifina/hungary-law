@@ -309,7 +309,3 @@
 ## 2.2. a feltétel bekövetkeztéhez kötött költségvetési támogatást az előírt mellékletekkel ellátott bevallás benyújtása időpontjától
 
 ## igényelheti.
-
-## 3. Gyakoribb igénybevétel, egyszeri támogatási előleg
-
-## 3.1 Az adóhatóság az adózó igénylésére a költségvetési támogatásokat kiutalja, kérelemre azt indokolt esetben gyakrabban folyósítja, illetve a költségvetési támogatásra egyszeri támogatási előleg kiutalását engedélyezi.

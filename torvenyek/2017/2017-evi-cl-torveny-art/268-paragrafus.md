@@ -72,6 +72,6 @@ c) a rehabilitációs hatóság,
 
 d) az állami foglalkoztatási szerv és
 
-e) a munkaügyi hatóság
+e) a foglalkoztatás-felügyeleti hatóság
 
 részére az állami adóhatóság által teljesített adatátadással érintett, az 50. §-ban meghatározott havi adó- és járulékbevallásban szereplő adatok körét, az adatátadás részletes szabályait, így különösen az adatátadás határidejét és gyakoriságát rendeletben állapítsa meg.
