@@ -33,5 +33,3 @@ l)
 m) a társasági jog területén az egyszemélyes korlátolt felelősségű társaságokról szóló 2009. szeptember 16-i 2009/102/EK európai parlamenti és tanácsi irányelvnek;
 
 n)
-
-o) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanács irányelvnek;
