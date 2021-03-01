@@ -1,7 +1,3 @@
-## lép.
+## 4. §[^5]
 
-## 5. § Hatályát veszti az R2.
-
-a) 2. § (1) bekezdés e) pontjában a „valamint a védőoltás típusát,” szövegrész,
-
-b) 4. § (3) bekezdés c) pontjában a „védőoltás típusát,” szövegrész.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
