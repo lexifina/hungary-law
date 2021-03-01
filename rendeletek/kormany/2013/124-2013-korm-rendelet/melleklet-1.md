@@ -1,4 +1,4 @@
-1. melléklet a 124/2013. (IV. 26.) Korm. rendelethez[^20]
+1. melléklet a 124/2013. (IV. 26.) Korm. rendelethez[^22]
 
 ## Kérelem jövedelemkiegészítés megállapítása iránt
 
@@ -50,4 +50,4 @@ _______________________
 
 2 Kitöltendő, amennyiben az a) pontban a „több” választási lehetőség került megjelölésre. A ba) és bb) alpontban meghatározott lehetőségek közül a megfelelőt kérjük „X”-szel megjelölni.
 
-[^20]: Az 1. melléklet a 30/2015. (II. 25.) Korm. rendelet 79. § f) pontja, a 464/2016. (XII. 23.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet a 30/2015. (II. 25.) Korm. rendelet 79. § f) pontja, a 464/2016. (XII. 23.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.

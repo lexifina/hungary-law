@@ -1,4 +1,4 @@
-4. §[^16] (1) A miniszter a támogatás iránti igényt – az igénylés adattartalmát is ideértve –, valamint a támogatás felhasználását folyamatosan ellenőrzi. A miniszter az ellenőrzés keretében az igénylés adattartalmát érintően kiegészítő adatokat kérhet a munkáltatótól.
+4. §[^18] (1) A miniszter a támogatás iránti igényt – az igénylés adattartalmát is ideértve –, valamint a támogatás felhasználását folyamatosan ellenőrzi. A miniszter az ellenőrzés keretében az igénylés adattartalmát érintően kiegészítő adatokat kérhet a munkáltatótól.
 
 (2) A miniszter az ellenőrzéseinek megállapításait, valamint a támogatási összeg tekintetében fennálló változásokat összesítve, intézményi bontásban küldi meg a NEAK részére.
 
@@ -10,4 +10,4 @@ b) ha az értesítés az adott hónap 20-át követően érkezik be, a tárgyhó
 
 esedékes, a jövedelem-kiegészítéssel összefüggő támogatási összegből levonja.
 
-[^16]: A 4. § a 464/2016. (XII. 23.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^18]: A 4. § a 464/2016. (XII. 23.) Korm. rendelet 31. §-ával megállapított szöveg.
