@@ -16,6 +16,14 @@
 
 (3) A gyűjtő által gyűjtött hulladék előzetes válogatása, előzetes tárolása – kormányrendeletben vagy miniszteri rendeletben meghatározott kivétellel – összesen legfeljebb 1 évig végezhető. Ezt követően a hulladék kezeléséről haladéktalanul gondoskodni kell.
 
-(4) A hulladékbirtokos a hulladékot a kezelésre történő elszállítás érdekében – amennyire az műszaki, környezetvédelmi és gazdasági szempontból megvalósítható – az ingatlanon, telephelyen elkülönítetten gyűjti. Az elkülönítetten gyűjtött hulladékot más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal összekeverni nem lehet.
+(4) A hulladékbirtokos a hulladékot a 15. § (1) bekezdésében meghatározott hasznosítási művelet megvalósíthatósága, az újrahasználatra való előkészítés, az újrafeldolgozás és egyéb hasznosítási műveletek előmozdítása vagy javítása érdekében az ingatlanon, telephelyen elkülönítetten gyűjti. Az elkülönítetten gyűjtött hulladékot más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal összekeverni nem lehet. Ettől eltérni – az elkülönített hulladékgyűjtés helyes gyakorlataira és a hulladékgazdálkodás terén megvalósuló fejlesztésekre figyelemmel – a következő esetekben lehet:
+
+a) a különböző hulladéktípusok együtt történő gyűjtése nem befolyásolja hátrányosan a 15. § (1) bekezdése szerinti műveletet, és a gyűjtést követő hasznosítás eredménye az elkülönített gyűjtéssel hasonló minőségű,
+
+b) az adott hulladékáram kezelésének általános környezeti hatásait figyelembe véve az elkülönített gyűjtés nem hozza a legjobb környezeti eredményt,
+
+c) az elkülönített gyűjtés a hulladékgyűjtés helyes gyakorlatainak figyelembevétele mellett műszakilag nem megvalósítható, vagy
+
+d) az elkülönített gyűjtés aránytalan gazdasági költségekkel járna, figyelembe véve a vegyes hulladékgyűjtés és -kezelés kedvezőtlen környezeti és egészségügyi hatásait, a hulladékgyűjtés és -kezelés hatékonyságának javításában rejlő lehetőségeket, a másodlagos nyersanyagok értékesítéséből származó bevételeket, valamint a szennyező fizet elv és a kiterjesztett gyártói felelősség alkalmazását.
 
 (5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a közszolgáltatónak vagy a hulladékkezelőnek átadja.

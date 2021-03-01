@@ -2,9 +2,11 @@
 
 (2) A lomtalanítás során közterületre helyezett hulladék a Koordináló szerv tulajdonát képezi és egyben a közszolgáltató birtokába kerül.
 
-(2a) Az (1) és (2) bekezdés szerinti hulladékon túli hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék a közszolgáltató vagy a közszolgáltatói alvállalkozó által történő birtokbavétellel kerül a Koordináló szerv tulajdonába.
+(2a)
 
 (2b) A Koordináló szerv tulajdonjogára tekintettel a feladatainak teljesítése során, továbbá a közszolgáltató a Koordináló szerv részére nyújtott adatszolgáltatása helyességének megállapítása érdekében, jogosult a Koordináló szerv tulajdonába kerülő hulladékkal kapcsolatos tevékenységet végző közszolgáltató, a Koordináló szerv tulajdonában álló hulladékot kezelő, valamint ezek közreműködője tevékenységének a Koordináló szerv feladataival való összhangjának ellenőrzésére, ideértve a helyszíni ellenőrzést is.
+
+(2c) A hulladékgazdálkodási rendszer fejlesztésére irányuló támogatások biztosításának feltételeként előírható, hogy a hulladékokat nemcsak hulladékfajta, hanem használati tárgy jelleg szerint is szét kell válogatni, és a szétválogatott, még használható eszközök újrahasznosítás céljából pályázat útján ingyenesen megszerezhetők. A pályázati rendszer alapján át nem adott termékek karitatív célra felhasználhatók.
 
 (3) Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy
 
@@ -17,3 +19,5 @@ c) a lomhulladék átvételének, összegyűjtésének és elszállításának m
 d) a települési hulladék hulladékgyűjtő szigeten történő elhelyezése csak kiegészítő megoldásként, elsősorban olyan sűrűn lakott településrészeken legyen alkalmazható, ahol az elkülönítetten gyűjtött háztartási hulladék házhoz menő gyűjtése és elszállítása nem biztosítható;
 
 e) a hulladékgyűjtő udvarban a lehető legtöbb típusú, fajtájú és jellegű települési hulladék átvételéről tudjon gondoskodni.
+
+(4) A közszolgáltató (3) bekezdésben meghatározott kötelezettsége a gyártó és a forgalmazó kiterjesztett gyártói felelősségét nem érinti.

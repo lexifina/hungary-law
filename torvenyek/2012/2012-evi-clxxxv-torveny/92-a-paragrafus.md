@@ -1,1 +1,1 @@
-92/A. § Azon közszolgáltató, amely az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépéséig három hónapnál ritkábban állított ki számlát, az egyes közszolgáltatási tárgyú törvények módosításáról szóló 2014. évi XLI. törvény hatálybalépését követő két hónapon belül a díjfizetéssel nem rendezett időszak vonatkozásában számla kibocsátására köteles.
+### 92/A. §

@@ -8,7 +8,7 @@
 
 3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit;
 
-3a. a hulladékgazdálkodással kapcsolatos hatósági eljárások szabályait,
+3a. a hulladékgazdálkodással kapcsolatos hatósági eljárások, a hatósági feladat- és hatáskörök, valamint a hatósági szervezet kialakításának részletes szabályait, a hulladékgazdálkodási eljárások során és a hatósági eljárásokban vizsgálandó hulladékgazdálkodási szakkérdéseket,
 
 4. a hulladékgazdálkodási engedélyezés, valamint a nyilvántartásba vétel tartalmi követelményeit,
 
@@ -16,7 +16,7 @@
 
 6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, részletes tartalmi követelményeit;
 
-7. a hulladékgazdálkodási bírság megállapításának és kiszabásának módját, mértékét;
+7. a hulladékgazdálkodási bírság mértékét, megállapításának szempontrendszerét, a helyszíni bírság kiszabásának és a bírság megfizetése módjának részletes szabályait;
 
 8. a hulladék külföldről történő behozatalát, az országból történő kivitelét és az ország területén történő átszállítását;
 
@@ -40,7 +40,7 @@
 
 18. a közszolgáltató kiválasztásának módját és a hulladékgazdálkodási közszolgáltatási szerződés tartalmi követelményeit;
 
-19. a céltartalék képzésére kötelezettek körét, a céltartalék formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, a környezetvédelmi biztosítás részletes szabályait, valamint a gyártók biztosítékadására vonatkozó részletes szabályokat;
+19. a pénzügyi biztosíték, a céltartalék képzésére kötelezettek körét, a pénzügyi biztosíték, a céltartalék formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, a környezetvédelmi biztosítás részletes szabályait, valamint a gyártók biztosítékadására vonatkozó részletes szabályokat;
 
 20. az életciklus-szemléleten alapuló vizsgálati elemzés elvégzésének részletes szabályait;
 
@@ -52,15 +52,17 @@
 
 24. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 
-25. a Hivatal által kiszabható bírság felső határát;
+25. a megfelelőségi vélemény kiállításának részletes szabályait;
 
 26. a közterület tisztántartásával kapcsolatos hulladékgazdálkodási szabályokat;
 
-27. a melléktermék státusznak való megfelelés igazolására, valamint a melléktermék tárolására és nyilvántartására vonatkozó részletes szabályokat;
+27. a melléktermék státusznak való megfelelés igazolására, a minőségbiztosítási rendszer üzemeltetésére, valamint a melléktermék tárolására és nyilvántartására vonatkozó részletes szabályokat;
 
 28. a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységek, valamint a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint a biohulladékból előállított komposzt osztályozásának szabályait;
 
 29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, műszaki és felhasználási feltételeket, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
+
+29a. a hulladékstátusz megszűnésének feltételeit, a minőségbiztosítási rendszer üzemeltetésének részletes szabályait;
 
 30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait;
 
@@ -76,13 +78,27 @@
 
 36. a kitermelt talaj és más, építési tevékenység során kitermelt természetes állapotában meglévő anyag kitermelés helyén kívüli felhasználásának részletes szabályait.
 
+37. a kiterjesztett gyártói felelősséggel kapcsolatos részletes szabályokat;
+
+38. a körforgásos gazdasággal kapcsolatos, a termékek forgalmazásával, azok korlátozásával összefüggő részletes szabályokat;
+
+39. a körforgásos gazdaság szempontjából jelentős anyagok adatszolgáltatásával kapcsolatos előírásokat;
+
+40. az e törvény szerinti NHIR azonosító beszerzésére kötelezett szereplők, a létesítmények, tevékenységek NHIR-ben történő nyilvántartásba vételének, valamint az NHIR azonosító kiadásának, felfüggesztésének, visszavonásának és törlésének, valamint az NHIR működtetését érintő részletes szabályait;
+
+41. a termék értéklánc nyomon követésének eljárási és dokumentálási szabályait, a forgalomból történő visszahívhatóság feltételeit, valamint a bejelentésre és az adatszolgáltatásra vonatkozó szabályokat;
+
+42. a minőségvédelmi bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletes szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
+
 (2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg:
 
 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
 
-2.
+2. az elhagyott hulladék ingatlanról történő elszállításának és megfelelő hulladékkezelési helyre történő elszállítás tényének igazolására vonatkozó formai előírásokat;
 
-3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
+3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait és a hulladéklerakás körforgásos gazdasággal összefüggő követelményeit;
 
 4. a hulladék termikus kezelésének technikai követelményeit és részletes szabályait;
 
@@ -97,6 +113,8 @@
 9. a hasznosítási műveleteket és az energetikai hasznosítás feltételeként meghatározott energiahatékonysági mutató megállapítására vonatkozó szabályokat, valamint az ártalmatlanítási műveleteket;
 
 10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat.
+
+11. a hulladékgazdálkodási képzés részletes szabályait.
 
 (3) Felhatalmazást kap:
 
@@ -116,7 +134,7 @@ bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási fel
 
 bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 
-bd)
+bd) az Országos Hulladékgazdálkodási Közszolgáltatási Tervet.
 
 be) a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének időpontjára, rendjére, módjára, tartalmára vonatkozó részletes szabályokat,
 
@@ -140,4 +158,4 @@ b) az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
 
 c) a közterület tisztán tartására vonatkozó részletes szabályokat;
 
-d) a hulladékgazdálkodási közszolgáltatási díjra vonatkozó, a (3) bekezdés b) pontjának bb) alpontja szerinti miniszteri rendeletben nem szabályozott díjalkalmazási és díjfizetési feltételeket.
+d) a hulladékgazdálkodási közszolgáltatási díjra vonatkozó, a (3) bekezdés b) pont bb) alpontja szerinti miniszteri rendeletben nem szabályozott díjalkalmazási és díjfizetési feltételeket.

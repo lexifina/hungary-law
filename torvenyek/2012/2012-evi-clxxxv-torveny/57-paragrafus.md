@@ -4,4 +4,4 @@ a) a veszélyes hulladék képződését eredményező termelő tevékenységér
 
 b) a veszélyes hulladék képződését, gyűjtését, átadását és átvételét, szállítását és kezelését nyilvántartja, azt bizonylattal igazolja, továbbá
 
-c) tevékenységéről a környezetvédelmi hatóságnak adatot szolgáltat.
+c) tevékenységéről a környezetvédelmi hatóságnak és a hulladékgazdálkodási hatóságnak adatot szolgáltat.

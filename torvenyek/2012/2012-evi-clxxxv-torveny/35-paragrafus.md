@@ -14,6 +14,8 @@ f) az üdülőingatlanokra vonatkozó sajátos szabályokat;
 
 g) a hulladékgazdálkodási közszolgáltatási tevékenységgel összefüggő közszolgáltatási díj beszedésével kapcsolatos adatszolgáltatási kötelezettség, valamint ügyfélszolgálati feladatok ellátásához szükséges személyes adatok (a természetes személyazonosító adatok, valamint a lakcím) kezelésére vonatkozó további rendelkezéseket.
 
+h) az elhagyott hulladék felszámolásához szükséges helyi intézkedések körét.
+
 (2) A települési önkormányzat gondoskodik az elkülönített hulladékgyűjtési rendszer helyi feltételeinek megszervezéséről.
 
 (3) Abban az esetben, ha az önkormányzat díjkedvezményt vagy díjkompenzációt állapít meg, a hulladékgazdálkodási közszolgáltatási díj ezáltal meg nem fizetett összegét a Koordináló szerv számára az önkormányzat köteles megtéríteni.

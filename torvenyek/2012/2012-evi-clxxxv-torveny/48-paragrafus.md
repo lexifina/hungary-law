@@ -8,9 +8,9 @@ ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
 
 bb) a közszolgáltató által nyújtott, a hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg,
 
-c) bírságot szabhat ki a közszolgáltatóval szemben, amennyiben a nem megfelelő adatszolgáltatása következtében került sor jogszabálysértő díj alkalmazására.
+c)
 
-(2) A díjfelügyeleti eljárásban az ügyintézési határidő huszonöt nap.
+(2) Az (1) bekezdés szerinti eljárásban az ügyintézési határidő huszonöt nap. Az eljárás során hozott véglegessé vált döntések a Hivatal honlapján kerülnek közzétételre.
 
 (3) A Hivatal a díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait közhírré teszi.
 

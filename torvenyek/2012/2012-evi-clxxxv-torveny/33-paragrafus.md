@@ -5,3 +5,5 @@
 (2) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátására közbeszerzési eljárást folytat le, kivéve, ha a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) szerint nem kell közbeszerzési eljárást lefolytatni, a hulladékgazdálkodási közszolgáltatási szerződés megkötése nem tartozik a Kbt. alkalmazási körébe, vagy ha a hulladékgazdálkodási közszolgáltatási szerződés megkötése a Kbt. szerinti kivételi körbe esik.
 
 (3) A felhívásban az ajánlatkérő meghatározza, hogy a közbeszerzési eljárás során milyen, a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint osztályba sorolt gazdasági szereplők tehetnek ajánlatot vagy nyújthatnak be részvételi jelentkezést.
+
+(4) A települési önkormányzat önkormányzati hulladékgazdálkodási közfeladat ellátási kötelezettsége nem mentesíti a települési önkormányzatot a Mötv. 13. § (1) bekezdés 5. pontjában foglalt köztisztasági feladatok ellátásának, azon belül is a közterületen elhagyott hulladék felszámolásával összefüggő kötelezettsége alól.

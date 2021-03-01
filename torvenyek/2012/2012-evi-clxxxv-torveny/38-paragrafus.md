@@ -4,4 +4,4 @@
 
 (2) Az ingatlanhasználó a hulladékgazdálkodási közszolgáltatás ellátásáért hulladékgazdálkodási közszolgáltatási díjat fizet az e törvényben, valamint a miniszter rendeletében meghatározott feltételek szerint.
 
-(3) A 32/A. §-ban meghatározott állami hulladékgazdálkodási közfeladat ellátása érdekében a Koordináló szerv felhívására a gazdálkodó szervezet a közhiteles nyilvántartás szerinti nevét, székhelyének, telephelyének címét, adószámát, elektronikus kézbesítési címét, a természetes személy ingatlanhasználó a családi és utónevét, születési nevét, születési helyét és idejét, anyja születési családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét megadja.
+(3) A 32/A. § (4e) bekezdésében meghatározott állami hulladékgazdálkodási közfeladat ellátása érdekében a Koordináló szerv felhívására a gazdálkodó szervezet a közhiteles nyilvántartás szerinti nevét, székhelyének, telephelyének címét, adószámát, elektronikus kézbesítési címét, a természetes személy ingatlanhasználó a családi és utónevét, születési nevét, születési helyét és idejét, anyja születési családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét megadja.

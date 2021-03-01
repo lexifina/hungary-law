@@ -1,8 +1,8 @@
 ## 7. A hulladékstátusz megszűnése
 
-9. § (1) Hasznosítási műveleten átesett anyag vagy tárgy a továbbiakban nem tekintendő hulladéknak a következő feltételek együttes teljesülése esetén:
+9. § (1) Az újrafeldolgozáson vagy egyéb hasznosítási műveleten átesett hulladék nem minősül hulladéknak, ha megfelel a következő feltételeknek:
 
-a) meghatározott célra rendeltetésszerűen, általános jelleggel használják,
+a) az anyagot vagy tárgyat meghatározott rendeltetési célra használják fel,
 
 b) rendelkezik piaccal vagy van rá kereslet,
 

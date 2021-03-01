@@ -1,23 +1,39 @@
-## 34.
-
 ## IX/A. Fejezet
 
-## A HULLADÉKGAZDÁLKODÁSI ÁGAZAT ÁLLAMI IRÁNYÍTÁSA
+## A HULLADÉKGAZDÁLKODÁS ÁLLAMI IRÁNYÍTÁSA
 
-78. § (1) A hulladékgazdálkodásért felelős miniszter
+## 34. Az állam feladatai
 
-a) irányítja
+78. § (1) Az állam a körforgásos gazdaságra történő átállás, illetve a hulladékgazdálkodásért, azok felügyeletéért, valamint az azokkal összefüggő állami feladatok ellátásáért való felelőssége körében
 
-aa) a törvényben vagy kormányrendeletben feladatkörébe utalt hulladékgazdálkodási tevékenységeket,
+a) működteti a hulladékgazdálkodási minőségbiztosítási rendszert,
 
-ab) a nemzetközi szerződésekből adódó hulladékgazdálkodási feladatok végrehajtását,
+b) az e törvény szerinti hatósági intézkedések megalapozása céljából állami laboratóriumokat működtet,
 
-ac) a feladat- és hatáskörébe tartozó hulladékgazdálkodási igazgatást;
+c) a Magyarország központi költségvetéséről szóló törvényben külön az elhagyott hulladék felszámolása, továbbá jogszabályban állami feladatként meghatározott, a körforgásos gazdaságra történő átállással és a hulladékgazdálkodási vizsgálatok fedezetére célelőirányzatot biztosít, valamint
 
-b) közreműködik a hulladékgazdálkodási szakképesítési rendszer kialakításában és működtetésében.
+d) ellátja a hulladékgazdálkodási ágazattal összefüggő piacfelügyeleti feladatokat.
 
-(2) A hulladékgazdálkodás környezet állapotára gyakorolt hatásának megismerésére és a hulladékgazdálkodás fejlesztésére irányuló kutatások összehangolása, támogatása, értékelése és állami hulladékgazdálkodással összefüggő kutatási célok teljesítésének biztosítása – a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével együttműködésben – a hulladékgazdálkodásért felelős miniszter feladata.
+(2) Az állam az (1) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben biztosítja a hulladékgazdálkodási hatóság nemzeti és nemzetközi követelményeknek megfelelő szintű működésének fedezetét.
 
-(3) A hulladékgazdálkodási ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása az oktatásért felelős miniszter, valamint a hulladékgazdálkodásért felelős miniszter közös feladata, a hulladékgazdálkodási szakterületet érintő szakképzés tekintetében a hulladékgazdálkodásért felelős miniszter gyakorolja a szakképesítésért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányba tartozó felsőoktatási intézmények oktató munkáját.
+(3) Az állam az (1) bekezdésben meghatározott feladata ellátásáért való felelőssége körében, különösen emberi élet, testi épség, egészség, a föld, a víz, a levegő vagy azok összetevői, illetve élő szervezet egyedének védelme, a hulladék mennyiségének mérséklése, a hulladék hierarchia fokozott érvényre juttatása, a hulladékgazdálkodási ágazat piacgazdasági kereteinek megteremtése érdekében
 
-(4) A hulladékgazdálkodással kapcsolatos egységes információs rendszert az OKIR önálló részeként a környezetvédelemért felelős miniszter alakítja ki és működteti azzal, hogy annak szakmai tartalma tekintetében a hulladékgazdálkodásért felelős miniszter egyetértése szükséges.
+a) hozzájárul az ismeretek széles körű terjesztésével, tájékoztatások, képzések, oktatás biztosításával a fenntartható és tudatos hulladékminimalizáló és hulladék-újrahasznosító, újrafeldolgozó szemlélet kialakításához,
+
+b) adatokat gyűjt – a termék értékláncra és a hulladékgazdálkodásra vonatkozóan – az elhagyott hulladék felszámolás, a hulladék összetételének, innovatív válogatásának, feldolgozásának és hasznosítási megoldásainak meghatározása érdekében,
+
+c) felméréseket végez a hulladékra, valamint az e törvény hatálya alá tartozó létesítményekre, tevékenységekre, és a tevékenységet végzőkre vonatkozóan.
+
+(4) Az (1) bekezdésben meghatározott felügyeletet a hulladékgazdálkodásért felelős miniszter a hulladékgazdálkodási hatóság útján látja el.
+
+(5) A hulladékgazdálkodási hatóság feladatait a Kormány által – e törvény végrehajtására kiadott kormányrendeletben – kijelölt szerv látja el.
+
+(6) Az (1) bekezdés szerinti felügyeleti tevékenység magában foglalja
+
+a) valamennyi hulladéktípushoz kapcsolódó hulladékgazdálkodási megfelelőségi, minőségbiztosítási, nyilvántartásba vételi, engedélyezési feladatokat,
+
+b) a hulladékgazdálkodási ágazat megfelelőségéhez kapcsolódó minőségbiztosítási és tanúsítási feladatokat,
+
+c) a körforgásos gazdaságra történő átállás érdekében a termék életciklus valamennyi szakaszának ellenőrzésére, minőségbiztosítására és felügyeletére vonatkozó feladatokat, valamint
+
+d) az elhagyott hulladék felszámolásával kapcsolatos, e törvényben a települési önkormányzatok számára előírt feladatok körébe nem tartozó feladatokat.

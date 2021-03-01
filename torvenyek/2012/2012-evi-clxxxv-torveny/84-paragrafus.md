@@ -1,13 +1,25 @@
-## 36. A hulladékgazdálkodással kapcsolatos szabályok megsértésének jogkövetkezményei
+## 36. A hulladékgazdálkodással kapcsolatos szabályok megsértésének jogkövetkezményei, a közigazgatási szankciókra vonatkozó közös szabályok
 
-84. § (1) A környezetvédelmi hatóság az e törvényben, valamint más jogszabályban meghatározott előírások teljesítése érdekében a hulladékbirtokost, a hulladék tulajdonosát, illetve a környezethasználót kötelezi
+84. § (1) A hulladékgazdálkodási hatóság az e törvényben, a Kvt.-ben, az e törvények végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági döntésben foglaltak megsértése esetén intézkedést hozhat, bírságot szabhat ki vagy figyelmeztetésben részesíti az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező szervezetet vagy természetes személyt.
 
-a) a jogszabályban foglalt vagy hatósági határozatban előírt kötelezettségeinek betartására, illetve a jogsértő állapot megszüntetésére, ha az abban foglalt előírásokat a hulladék birtokosa, tulajdonosa, illetve a környezethasználó megszegi, teljesülésüket elmulasztja, illetve a hulladékgazdálkodási engedélyhez vagy a minősítési engedélyhez kötött tevékenységet az engedélytől, a nyilvántartásba vételhez kötött tevékenységet a nyilvántartástól eltérő módon gyakorolja;
+(2) A hulladékgazdálkodási hatóság azt a gazdálkodó szervezetet, amely hulladékot termékként, illetve melléktermékként használ fel, forgalmaz vagy tárol, kötelezi a hulladék melléktermékként történő felhasználásának, forgalmazásának, illetve tárolásának beszüntetésére, valamint a hulladék – a hulladékjegyzékről szóló miniszteri rendeletben meghatározott – hulladékjegyzék szerint történő besorolására.
 
-b) a környezetet veszélyeztető, szennyező, illetve károsító tevékenység felfüggesztésére, abbahagyására, az eredeti állapot helyreállítására;
+(3) Eltiltás során a tevékenység korlátozása vagy felfüggesztése a szabályszerű tevékenység visszaállítása érdekében szükséges kötelezettségek teljesítéséig terjedő időtartamra rendelhető el.
 
-c) a környezet szennyezése esetében olyan intézkedés megtételére, amely a környezetszennyezést csökkenti vagy megszünteti, a környezet károsodását kizárja.
+(4) Kizárt a figyelmeztetés szankció alkalmazása,
 
-(2) A környezetvédelmi hatóság – az (1) bekezdésben foglaltakon túlmenően – felfüggeszti, korlátozza vagy megtiltja a hulladékgazdálkodási engedélyhez, minősítési engedélyhez kötött tevékenység engedélytől eltérő vagy engedély nélküli, valamint a nyilvántartásba vételhez kötött tevékenység nyilvántartástól eltérő vagy nyilvántartás nélküli folytatását. A határozat azonnal végrehajthatóvá nyilvánítható.
+a) ha a hulladékgazdálkodási tevékenységet engedély vagy nyilvántartásba vétel nélkül, vagy attól eltérően végzik,
 
-(3) A környezetvédelmi hatóság azt a gazdálkodó szervezetet, amely hulladékot termékként, illetve melléktermékként használ fel, forgalmaz vagy tárol, kötelezi a hulladék melléktermékként történő felhasználásának, forgalmazásának, illetve tárolásának beszüntetésére, valamint a hulladék – a hulladékjegyzékről szóló miniszteri rendeletben meghatározott – hulladékjegyzék szerint történő besorolására.
+b) ha a hulladékkal kapcsolatos tájékoztatási, nyilvántartási, adatszolgáltatási vagy bejelentési kötelezettséget egymást követő két naptári évben is megsértik,
+
+c) hulladék jogellenes elhelyezése, illetve elhagyása esetén, vagy
+
+d) a hulladék országhatárt átlépő jogellenes szállítása esetén, kivéve a nemzetközi hulladékszállítás során rendszeresített, szállítmányt kísérő dokumentum hibás vagy hiányos kitöltését, valamint a zöldlistás hulladékok behozatalához és kiviteléhez kapcsolódó adatszolgáltatást.
+
+(5) Nem alkalmazható közigazgatási szankció, ha
+
+a) a jogsértő magatartás hatóság tudomására jutásától számított egy év, vagy
+
+b) az elkövetéstől számított öt év
+
+eltelt.

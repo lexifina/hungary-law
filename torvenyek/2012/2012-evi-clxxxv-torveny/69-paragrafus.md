@@ -1,6 +1,6 @@
-69. § (1) A hulladéklerakási járulék bizonylatait a környezetvédelmi hatóság ellenőrzi.
+69. § (1) A hulladéklerakási járulék bizonylatait a hulladékgazdálkodási hatóság ellenőrzi.
 
-(2) Ha a környezetvédelmi hatóság az ellenőrzése során megállapítja, hogy a járulékfizetésre kötelezett a hulladéklerakási járulékot nem vagy nem megfelelően fizette meg, a járulékfizetésre kötelezettet kötelezi
+(2) Ha a hulladékgazdálkodási hatóság az ellenőrzése során megállapítja, hogy a járulékfizetésre kötelezett a hulladéklerakási járulékot nem vagy nem megfelelően fizette meg, a járulékfizetésre kötelezettet kötelezi
 
 a) a megfizetendő járulék vagy
 
@@ -10,13 +10,13 @@ kamattal növelt összegben történő megfizetésére.
 
 (3) A járulékfizetésre kötelezett által megfizetett összeget – ha az összes tartozásnál kisebb – sorrendben (ezen belül nemenként a legrégebbi tartozástól kezdve) az adóbírságra, a mulasztási bírságra, azt követően a késedelmi pótlékra, végül a hulladéklerakási járulék tartozásra kell elszámolni.
 
-(4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon környezetvédelmi hatóságot kell érteni.
+(4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon hulladékgazdálkodási hatóságot kell érteni.
 
 (4a)
 
 (5) A járulékfizetésre kötelezettnek nem kell hulladéklerakási járulékot fizetni, ha
 
-a) a környezetvédelmi hatóság által engedélyezett rekultiváció vagy kármentesítés során a rekultivációval vagy kármentesítéssel érintett hulladéklerakóból hulladékot helyeznek át egy másik hulladéklerakóba,
+a)
 
 b) az állam vagy az Európai Unió által támogatott kármentesítés során képződő hulladékot helyeznek el hulladéklerakóban,
 

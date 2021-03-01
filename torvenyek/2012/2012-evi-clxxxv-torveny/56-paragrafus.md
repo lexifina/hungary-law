@@ -2,9 +2,11 @@
 
 (2) Veszélyes hulladékot nem lehet hígítani vagy összekeverni annak érdekében, hogy a veszélyes anyagok eredeti koncentrációja a hulladékot veszélyes hulladékká minősítő határérték szintje alá csökkenjen.
 
-(3) Ha a hulladék keverésére hulladékgazdálkodási engedély nélkül kerül sor, az összekevert hulladékot – amilyen mértékben műszaki, környezetvédelmi szempontból és az ésszerű költségráfordítás figyelembevételével megvalósítható – szét kell választani.
+(3) Ha a hulladék keverésére hulladékgazdálkodási engedély nélkül kerül sor, az összekevert hulladékot szét kell választani, ha az műszakilag megvalósítható, és a szétválasztással a környezetre és az emberi egészségre gyakorolt hatások csökkennek vagy nem növekednek.
 
-(4) A környezetvédelmi hatóság – a megvalósíthatóságtól függően – a hulladékbirtokost a hulladék szétválasztására kötelezi, ha a (3) bekezdésben foglalt kötelezettségének nem tesz eleget.
+(3a) Ha a (3) bekezdés szerinti szétválasztásra nincs lehetőség, a hulladékbirtokos gondoskodik az összekevert hulladék kezeléséről.
+
+(4) A hulladékgazdálkodási hatóság – a megvalósíthatóságtól függően – az intézkedésében a hulladékbirtokost a hulladék szétválasztására kötelezi, ha a (3) bekezdésben foglalt kötelezettségének nem tesz eleget.
 
 (5) A veszélyes hulladék keverése és hígítása hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezet részére akkor engedélyezhető, ha
 

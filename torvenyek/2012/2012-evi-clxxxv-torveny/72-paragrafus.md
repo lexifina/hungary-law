@@ -1,7 +1,3 @@
-72. § (1) A céltartalék képzésére kötelezett gazdálkodó szervezet, illetve a közszolgáltató, valamint a környezetvédelmi biztosítás kötésére kötelezett személy az üzleti év végét követő év május 31-ig a környezetvédelmi hatóságnak igazolja, hogy
+72. § (1) A pénzügyi biztosíték, a céltartalék képzésére kötelezett gazdálkodó szervezet, valamint a környezetvédelmi biztosítás kötésére kötelezett személy az üzleti év végét követő év május 31-ig a hulladékgazdálkodási hatóságnak igazolja, hogy a környezetvédelmi biztosítást megkötötte, a pénzügyi biztosíték, a céltartalék rendelkezésére áll.
 
-a) a céltartalék rendelkezésére áll, vagy
-
-b) a környezetvédelmi biztosítást megkötötte.
-
-(2) A környezetvédelmi biztosítással, a céltartalék képzésével, valamint a gyártók biztosítékadási kötelezettségével kapcsolatos részletes szabályokat kormány- vagy miniszteri rendelet határozza meg.
+(2) A pénzügyi biztosítékkal, a környezetvédelmi biztosítással, a céltartalék képzésével, valamint a gyártók biztosítékadási kötelezettségével kapcsolatos részletes szabályokat kormány- vagy miniszteri rendelet határozza meg.

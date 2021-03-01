@@ -8,9 +8,9 @@ c) a lomtalanítás körébe tartozó lomhulladékot az ingatlanhasználóktól 
 
 d) az általa üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő udvaron gyűjtött vagy átvételi helyen átvett hulladékot összegyűjti és elszállítja,
 
-e) az elhagyott vagy ellenőrizetlen körülmények között elhelyezett hulladékot összegyűjti, elszállítja, gondoskodik az elhagyott vagy ellenőrizetlen körülmények között elhelyezett hulladék kezeléséről, ha erre a települési önkormányzattal megkötött hulladékgazdálkodási közszolgáltatási szerződése kiterjed,
+e)
 
-f) az a)–e) pontban meghatározott hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kezeli, vagy annak kezeléséről a (2) bekezdésben foglaltaknak megfelelően hulladékkezelőnek történő átadás útján gondoskodik,
+f) az a)–e) pontban meghatározott hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kezeli, vagy annak kezeléséről a (2) bekezdésben foglaltak szerint a hulladékkezelőnek történő átadás útján gondoskodik,
 
 g) a 37/B. § szerinti, valamint a Koordináló szerv mint vagyonkezelő által a részére üzemeltetésre átadott létesítményeket, eszközöket, vagyonelemeket, valamint a hulladékgazdálkodási közszolgáltatással érintett egyéb hulladékgazdálkodási létesítményt üzemelteti, és
 
@@ -22,4 +22,4 @@ h) köteles az e törvényben foglalt előírásoknak megfelelő ügyfélszolgá
 
 (3)–(4)
 
-(5) A közszolgáltató hulladékgazdálkodási közszolgáltatáson kívüli egyéb hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységét köteles úgy megszervezni, hogy az a hulladékgazdálkodási közszolgáltatási tevekénységét ne veszélyeztesse. A közszolgáltató hulladékgazdálkodási közszolgáltatáson kívüli egyéb hulladékgazdálkodási engedélyhez, illetve nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységből származó eredményét köteles a közszolgáltatásra fordítani.
+(5) A közszolgáltató hulladékgazdálkodási közszolgáltatáson kívüli egyéb, hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet csak abban az esetben végezhet, ha a Hivatal a közszolgáltatási feladatok ellátását megfelelőnek minősítette legalább egy üzleti évre vonatkozóan. Az egyéb hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységét a közszolgáltató köteles úgy megszervezni, hogy az a hulladékgazdálkodási közszolgáltatási tevekénységét ne veszélyeztesse. A közszolgáltató hulladékgazdálkodási közszolgáltatáson kívüli egyéb hulladékgazdálkodási engedélyhez, illetve nyilvántartásba vételhez kötött hulladékgazdálkodási tevékenységéből származó eredményét köteles a közszolgáltatásra fordítani.

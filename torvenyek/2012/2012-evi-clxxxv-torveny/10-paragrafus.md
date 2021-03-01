@@ -1,11 +1,29 @@
-10. § (1) A hulladékstátusz megszűnésére vonatkozó feltételek teljesítéséhez szükséges egyedi, illetve részletes előírásokat – ideértve a szennyező anyagok határértékeit, továbbá az anyag vagy tárgy lehetséges káros környezeti hatásainak elkerülésére vonatkozó szabályokat – a 2008/98/EK európai parlamenti és tanácsi irányelv 6. cikke (1) bekezdésének végrehajtására kiadott uniós jogi aktus állapítja meg a (2) bekezdésben meghatározott kivétellel.
+10. § (1) A hulladékstátusz megszűnésére vonatkozó feltételek teljesítéséhez szükséges egyedi, illetve részletes előírásokat – ideértve a szennyező anyagok határértékeit, az anyag vagy tárgy emberi egészséget érintő hatásait, továbbá az anyag vagy tárgy lehetséges káros környezeti hatásainak elkerülésére vonatkozó szabályokat – a 2008/98/EK európai parlamenti és tanácsi irányelv 6. cikke (1) bekezdésének végrehajtására kiadott uniós jogi aktus állapítja meg a (2) bekezdésben meghatározott kivétellel.
 
-(2) Ha egy hulladékáram vonatkozásában a hulladékstátusz megszűnésének feltételeiről uniós jogi aktus nem rendelkezik, a hulladékstátusz megszűnésének további feltételeit, valamint az ilyen feltételek teljesítéséhez szükséges részletes előírásokat kormányrendelet vagy miniszteri rendelet állapítja meg.
+(2) Ha egy hulladékáram vonatkozásában a hulladékstátusz megszűnésének feltételeiről uniós jogi aktus nem rendelkezik, a hulladékstátusz megszűnésének további feltételeit, valamint az ilyen feltételek teljesítéséhez szükséges részletes előírásokat az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
-(3) A hulladékstátusz megszűnésére vonatkozó feltételeknek való megfelelés igazolását jogszabályban meghatározott tanúsító szervezet végezheti.
+(3) Ha egy hulladékáram vonatkozásában a hulladékstátusz megszűnésének feltételeiről uniós jogi aktus, vagy jogszabály nem rendelkezik, az ilyen feltételek teljesítéséhez szükséges részletes előírásokról a hulladékgazdálkodási hatóság dönt a következő tartalmi elemek meghatározásával:
 
-(4) A hulladékstátusz megszűnésének igazolására alkalmas minőségbiztosítási rendszert az arra feljogosított tanúsító szervezet – kormányrendelet vagy miniszteri rendelet eltérő rendelkezése hiányában – negyedévente ellenőrzi.
+a) a hasznosítási művelet során engedélyezett hulladékból álló alapanyag;
 
-(5) A hasznosítási művelet útján előállított anyag vagy tárgy a hulladékstátusz megszűnésére vonatkozó feltételeknek való megfelelését a termék megfelelőségének és biztonságának ellenőrzéséért felelős hatóság, illetve piacának felügyeletéért felelős hatóság ellenőrzi.
+b) engedélyezett kezelési eljárások és technikák;
 
-(6) Ha a hasznosítási művelet útján előállított anyag vagy tárgy nem felel meg a hulladékstátusz megszűnésére vonatkozó feltételeknek, az (5) bekezdés szerinti hatóság tájékoztatja a gyártó telephelye szerint illetékes környezetvédelmi hatóságot.
+c) az alkalmazandó termékszabványokkal összhangban lévő hasznosítási műveletből származó, a hulladékstátusz megszűnésére vonatkozó minőségi kritériumok, ideértve szükség esetén a szennyező anyagokra vonatkozó határértékeket;
+
+d) a hulladékstátusz megszűnésére vonatkozó kritériumoknak való megfelelést bemutató irányítási rendszerekre – ideértve a minőség-ellenőrzésre és az önellenőrzésre, valamint szükség esetén az akkreditációra – vonatkozó követelmények; és
+
+e) a megfelelőségi nyilatkozatra vonatkozó követelmény.
+
+(4) A termék előállítója a hulladékstátusz megszűnése során a hulladékstátusz megszűnésének igazolására alkalmas minőségbiztosítási rendszert üzemeltet, amelynek részletes szabályait e törvény végrehajtására kiadott kormányrendelet állapítja meg. A minőségbiztosítási rendszernek a hasznosítási művelet alapanyagául szolgáló hulladékok átvételi ellenőrzésére, a kezelési műveletek ellenőrzésére, az ellenőrzések nyilvántartására, a minőségbiztosítási rendszer felülvizsgálatára és a képzésre vonatkozó előírásokat, valamint szükség esetén az akkreditációra vonatkozó követelményeket kell legalább tartalmaznia.
+
+(5) A hasznosítási művelet útján előállított anyag vagy tárgy a hulladékstátusz megszűnésére vonatkozó feltételeknek való megfelelését a körforgásos gazdasági és hulladékgazdálkodási felügyeleti szervként a hulladékgazdálkodási hatóság szükség szerinti közreműködésével a termék megfelelőségének és biztonságának ellenőrzéséért felelős hatóság, illetve piacának felügyeletéért felelős hatóság ellenőrzi. Az ellenőrzés időpontjáról a hatóság előzetesen tájékoztatja a hulladékgazdálkodási hatóságot.
+
+(6) Aki hulladéknak már nem minősülő
+
+a) és forgalomba nem hozott anyagot első alkalommal használ, vagy
+
+b) anyagot első alkalommal hoz forgalomba,
+
+biztosítja, hogy az anyag megfeleljen a kémiai biztonságról szóló 2000. évi XXV. törvény (a továbbiakban: Kbtv.) 1. § (1) bekezdésében meghatározott európai parlamenti és tanácsi rendeletek, a Kbtv. és a végrehajtására kiadott rendeletek követelményeinek.
+
+(7) A 9. § (1) bekezdésében meghatározott feltételeknek és a vegyi anyagokra és termékekre vonatkozó jogszabályi előírásoknak a hulladéknak már nem minősülő anyag alkalmazását megelőzően kell teljesülniük.

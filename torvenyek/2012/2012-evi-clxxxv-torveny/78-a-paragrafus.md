@@ -1,13 +1,23 @@
-## X. Fejezet
+78/A. § (1) A hulladékgazdálkodásért felelős miniszter ellátja az állam 78. §-ban meghatározott feladatait. Ennek keretében
 
-## A HULLADÉKGAZDÁLKODÁSSAL KAPCSOLATOS EGYES HATÓSÁGI TEVÉKENYSÉGEK
+a) irányítja
 
-## 34a. A hulladékgazdálkodási hatósági eljárásokra vonatkozó különös szabályok
+aa) a törvényben vagy kormányrendeletben feladatkörébe utalt hulladékgazdálkodási tevékenységeket,
 
-78/A. § (1) Hulladékgazdálkodási hatósági eljárásban
+ab) a nemzetközi szerződésekből adódó hulladékgazdálkodási feladatok végrehajtását, és
 
-a) az ügyfél a kapcsolattartás formáját nem választhatja meg,
+ac) a feladat- és hatáskörébe tartozó hulladékgazdálkodási igazgatást,
 
-b) a hiánypótlási felhívás teljesítésének határideje legfeljebb tizenöt nap.
+b) szakmailag irányítja a hulladékgazdálkodási hatóságot,
 
-(2) A telepengedélyezési eljárásban, illetve a tárolóhely üzemeltetési szabályzatának jóváhagyására irányuló eljárásban hozható döntés az e törvény szerinti engedélyezési eljárásban hozható döntés feltétele.
+c) közreműködik a hulladékgazdálkodási szakképzési rendszer kialakításában és működtetésében,
+
+d) jóváhagyja a hulladékgazdálkodási hatóság által előkészített több éves és éves nemzeti ellenőrzési tervet, valamint
+
+e) ellátja a körforgásos gazdaságra történő átállással kapcsolatos feladatokat.
+
+(2) A hulladékgazdálkodás, a körforgásos gazdaságra történő átállás környezet állapotára gyakorolt hatásának megismerésére és azok fejlesztésére irányuló kutatások összehangolása, támogatása, értékelése és az állami hulladékgazdálkodással összefüggő kutatási célok teljesítésének biztosítása – a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével együttműködésben – a hulladékgazdálkodásért felelős miniszter feladata.
+
+(3) A körforgásos gazdasági és hulladékgazdálkodási ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása az oktatásért felelős miniszter, valamint a hulladékgazdálkodásért felelős miniszter közös feladata, a hulladékgazdálkodási szakterületet érintő szakképzés tekintetében a hulladékgazdálkodásért felelős miniszter gyakorolja az ágazatért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányba tartozó felsőoktatási intézmények oktató munkáját.
+
+(4) A hulladékgazdálkodásért felelős miniszter és a hulladékgazdálkodási hatóság feladatainak ellátása érdekében jogosult az OKIR és a nemzeti hulladékgazdálkodási információs rendszer (a továbbiakban: NHIR) adataihoz való közvetlen hozzáférésre és azok kezelésére.

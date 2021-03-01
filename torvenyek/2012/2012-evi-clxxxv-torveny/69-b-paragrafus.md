@@ -14,10 +14,12 @@ e) az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkez
 
 (3) A felvétel és az adatok – megkeresés alapján vagy a hatóság által végzett helyszíni ellenőrzés alkalmával – kizárólag
 
-a) a környezetvédelmi hatóság,
+a) a hulladékgazdálkodási hatóság,
 
-b) bűncselekmény gyanújának észlelése esetén a nyomozó hatóság, valamint
+b) bűncselekmény gyanújának észlelése esetén a nyomozó hatóság,
 
-c) a bíróság
+c) a bíróság, és
+
+d) a hulladékgazdálkodási hatóság
 
 részére adhatók át.

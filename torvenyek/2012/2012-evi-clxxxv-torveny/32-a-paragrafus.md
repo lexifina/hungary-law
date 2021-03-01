@@ -4,41 +4,53 @@
 
 ## 17/A. Az állami hulladékgazdálkodási közfeladatra vonatkozó rendelkezések
 
-32/A. § (1) Az állami hulladékgazdálkodási közfeladat keretében az állam
+32/A. § (1) Az állami hulladékgazdálkodási közfeladat keretében a hulladékgazdálkodásért felelős miniszter – a (2) bekezdésben meghatározott kivétellel –
 
-a) meghatározza a hulladékgazdálkodás országos céljait, melyek a 73. § (1) bekezdése szerinti e törvényben megállapított céloknak minősülnek,
+a) meghatározza a hulladékgazdálkodás országos céljait, amelyek a 73. § (1) bekezdése szerinti e törvényben megállapított céloknak minősülnek,
 
 b) meghatározza a hulladékgazdálkodás fejlesztésének irányait,
 
-c) ellátja az önkormányzatok közötti és a regionális koordinációt, amelynek keretében gondoskodik a közszolgáltatás során elkülönítetten gyűjtött és a vegyes hulladék kezelése során keletkezett hasznosítható hulladék hasznosításának megszervezéséről, továbbá koordinálja a hasznosításra nem kerülő hulladékok ártalmatlanítását,
+c) elkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet, amely többek között meghatározza a közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat,
 
-d) elkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet, amely többek között meghatározza a közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat,
+d) ellátja a körforgásos gazdaságra való áttéréshez kapcsolódó szakmapolitikai feladatokat,
 
-e) megállapítja, hogy a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek,
+e) ellátja a hulladékgazdálkodás ágazati, szakmapolitikai felügyeletét,
 
-f) megállapítja, hogy a közszolgáltató tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról véleményt állít ki (a továbbiakban: megfelelőségi vélemény),
+f) ellátja az elhagyott hulladék felszámolására vonatkozó jogszabályokban meghatározott feladatok koordinációját.
 
-g) a hulladékgazdálkodás országos szintű céljainak és fejlesztési irányainak teljesülése érdekében kialakítja az infrastrukturális erőforrások optimális használatának rendszerét,
+(2) A Hivatal megállapítja, hogy a közszolgáltató, valamint a közszolgáltatói alvállalkozó tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról – a (4e) bekezdésben foglalt feladatok ellátására az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv) véleményének kikérését követően – véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
 
-h) kezeli az önkormányzatok, önkormányzati társulások által önkéntesen vagyonkezelés körében rábízott vagyont,
+(3) A Hivatal a (2) bekezdésben meghatározott feladatainak ellátása érdekében jogszabályban meghatározott tartalommal a feladatköréhez tartozó nyilvántartást vezet, amelyhez minden, a Hivatal feladatkörével érintett szervezet adatot szolgáltat. A Hivatal jogosult az OKIR Országos Környezetvédelmi Információs Rendszer hulladékgazdálkodási közszolgáltatással összefüggő adataihoz való hozzáférésre.
 
-i) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) rendeletében foglaltaknak megfelelően meghatározott szolgáltatási díjat,
+(4) A Koordináló szerv, a hulladékgazdálkodási közszolgáltató és a közszolgáltatói alvállalkozó megad minden adatot és információt, amely a Hivatal megfelelőségi vélemény kiadásával kapcsolatos feladatának ellátásához szükséges.
 
-j) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
+(4a) A megfelelőségi vélemény kiállítása iránti kérelmet a hulladékgazdálkodási közszolgáltató minden naptári év május 31. napjáig, a közszolgáltatói alvállalkozó minden naptári év június 30. napjáig az e törvény végrehajtására kiadott kormányrendeletben meghatározott formában és tartalommal nyújtja be.
 
-(2) Az állam az (1) bekezdés szerinti feladatainak ellátására koordináló szervezetet (a továbbiakban: Koordináló szerv) hoz létre.
+(4b) Annak a gazdálkodó szervezetnek, amely megfelelőségi véleménnyel nem rendelkezik, a közszolgáltatói, illetve a közszolgáltatói alvállalkozói tevékenység megkezdése előtt be kell szereznie a Hivatal által kiállított megfelelőségi véleményt.
 
-(3) A Koordináló szerv az érintett közigazgatási szervezetnek javaslatot tesz a hulladékgazdálkodási közszolgáltatás
+(4c) A megfelelőségi vélemény kiállítására irányuló eljárásban az ügyintézési határidő 60 nap.
 
-a) állami támogatásainak felhasználására,
+(4d) A (2)–(4) és a (4b) bekezdés szerinti feladatokhoz kapcsolódó nyilvántartások adatait a hulladékgazdálkodásért felelős miniszter az (1) bekezdés e) pontja szerinti feladatainak ellátása érdekében megismerheti és kezeli.
 
-b) közszolgáltatási területek szerinti lehatárolására, és
+(4e) A Koordináló szerv:
 
-c) szabályozására.
+a) ellátja az önkormányzatok közötti és a regionális koordinációt, amelynek keretében gondoskodik a közszolgáltatás során elkülönítetten gyűjtött és a vegyes hulladék kezelése során keletkezett hasznosítható hulladék hasznosításának megszervezéséről, továbbá koordinálja a hasznosításra nem kerülő hulladékok ártalmatlanítását,
 
-(3a) A Koordináló szerv az állami hulladékgazdálkodási, jogszabályban meghatározott feladatainak ellátása érdekében jogosult az Országos Környezetvédelmi Információs Rendszer (a továbbiakban: OKIR) a 78. § (4) bekezdése szerinti hulladékgazdálkodással kapcsolatos önálló részének adataihoz való közvetlen hozzáférésre és azok kezelésére.
+b) megállapítja, hogy a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek,
 
-(4) A közszolgáltató, a települési önkormányzat, az önkormányzati társulás, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv az elszámolási, számlázási, és kintlévőség-kezelési feladatai befejezését követő 5 évig kezeli a részére átadott, az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatot.
+c) a hulladékgazdálkodás országos szintű céljainak és fejlesztési irányainak teljesülése érdekében kialakítja az infrastrukturális erőforrások optimális használatának rendszerét,
+
+d) kezeli az önkormányzatok, önkormányzati társulások által önkéntesen vagyonkezelés körében rábízott vagyont,
+
+e) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) rendeletében foglaltaknak megfelelően meghatározott szolgáltatási díjat,
+
+f) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
+
+(4f) A miniszter (1) bekezdésben meghatározott feladatai vonatkozásában a (2) és a (4e) bekezdésben meghatározott szerv javaslatot tehet.
+
+(4g) A hulladékgazdálkodási hatóság és a Koordináló szerv az állami hulladékgazdálkodási feladatainak ellátása érdekében jogszabályban meghatározott tartalommal a feladatköréhez tartozó hulladékgazdálkodási nyilvántartást vezet, amelyhez minden, az e törvény hatálya alá tartozó szervezet adatot szolgáltat. A hulladékgazdálkodási hatóság és a Koordináló szerv jogosult az Országos Környezetvédelmi Információs Rendszer hulladékgazdálkodással összefüggő adatainak kezelésére.
+
+(4h) A (4g) bekezdésben meghatározottakon túl a támogatást nyújtó szerv, a Hivatal, valamint – a hulladékgazdálkodási hatóság részére – a Koordináló szerv megad minden adatot és információt, amely a hulladékgazdálkodási hatóság és a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv az elszámolási, számlázási, és kintlévőség-kezelési feladatai befejezését követő 5 évig kezeli a részére átadott, az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatot.
 
 (5) A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlevőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás szerveitől.
 

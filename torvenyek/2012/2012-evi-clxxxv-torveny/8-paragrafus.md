@@ -1,6 +1,6 @@
 ## 6. Melléktermék
 
-8. § Valamely anyagot vagy tárgyat, amely olyan előállítási folyamat során képződik, amelynek elsődleges célja nem az ilyen anyag vagy tárgy előállítása, a következő feltételek együttes teljesülése esetén nem hulladéknak, hanem mellékterméknek lehet tekinteni:
+8. § Valamely anyag vagy tárgy, amely olyan előállítási folyamat eredményeként keletkezik, amelynek elsődleges célja nem az ilyen anyag vagy tárgy előállítása, a következő feltételek együttes teljesülése esetén nem hulladéknak, hanem mellékterméknek minősül:
 
 a) további felhasználása biztosított,
 

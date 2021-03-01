@@ -18,6 +18,10 @@ g) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről sz�
 
 h) a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelvnek
 
+i) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelvnek;
+
+j) a hulladéklerakókról szóló 1999/31/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/850 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) Ez a törvény

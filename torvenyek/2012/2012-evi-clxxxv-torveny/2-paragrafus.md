@@ -2,11 +2,13 @@
 
 2. § (1) E törvény alkalmazásában
 
-1. anyagában történő hasznosítás: bármilyen hasznosítási művelet az energetikai hasznosítás kivételével;
+1. anyagában történő hasznosítás: bármilyen hasznosítási művelet, így különösen az újrahasználatra való előkészítés, az újrafeldolgozás és a feltöltés, ide nem értve az energetikai hasznosítást, valamint a tüzelőanyagként vagy más módon energia előállítására felhasználandó anyagokká történő átalakítást;
 
 2. ártalmatlanítás: minden olyan kezelési művelet, amely nem hasznosítás; a művelet abban az esetben is ártalmatlanítás, ha az másodlagos jelleggel anyag- vagy energiakinyerést eredményez;
 
-3. biohulladék: a biológiailag lebomló, parkokból származó vagy kerti hulladék, háztartásokban, éttermekben, étkeztetőkben és kiskereskedelmi tevékenységet folytató létesítményekben képződő élelmiszer- és konyhai hulladék, valamint az ezekhez hasonló, élelmiszer-feldolgozó üzemekben képződő hulladék;
+2a. betétdíj: a betétdíjas termék árával együtt felszámított, annak visszaváltásakor a forgalmazónak, illetve a visszaváltójának maradéktalanul visszafizetett díj;
+
+3. biohulladék: a biológiailag lebomló, kerti vagy parkból származó hulladék, háztartásban, irodában, étteremben, nagykereskedelmi, étkeztetési, vendéglátóipari és kiskereskedelmi létesítményben képződő élelmiszer- és konyhai hulladék, valamint az élelmiszer-feldolgozó üzemekben képződő hasonló hulladék;
 
 4. biológiailag lebomló hulladék: minden szervesanyag-tartalmú hulladék, amely aerob vagy anaerob úton biológiailag lebomlik vagy lebontható, ideértve a biohulladékot is;
 
@@ -18,13 +20,23 @@
 
 8. energetikai hasznosítás: hasznosítási művelet, amelynek során a hulladék energiatartalmát kinyerik, ideértve a biológiailag lebomló hulladékból történő energia-előállítást, valamint az olyan anyaggá történő feldolgozást, amelyet üzemanyagként, illetve tüzelőanyagként használnak fel;
 
+8a. élelmiszer-hulladék: minden olyan, a 178/2002/EK európai parlamenti és tanácsi rendelet 2. cikke szerinti élelmiszer, amely hulladékká vált;
+
 9. életciklus-szemlélet: olyan összehasonlító megközelítési mód, amely a megelőzés, valamint a hulladékgazdálkodás során az elővigyázatosságra és a fenntarthatóságra vonatkozó általános környezetvédelmi elvekre, a műszaki megvalósíthatóságra, továbbá az erőforrások védelmére és a gazdasági életképességre vonatkozó szempontokra figyelemmel, az általános környezeti és gazdasági hasznok, költségek, valamint az emberi, egészségügyi és társadalmi hatások felmérésére irányul;
 
-10. építési-bontási hulladék: az épített környezet alakításáról és védelméről szóló törvény szerinti építési tevékenységből származó hulladék;
+10. építési-bontási hulladék: az épített környezet alakításáról és védelméről szóló törvény szerinti építmény építéséből vagy bontásából származó hulladék;
 
 11. ésszerű nyereség: az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat 5. cikk (5) bekezdése szerinti nyereség;
 
-12. feltöltés: olyan hasznosítási művelet, amelynek során meghatározott célra alkalmas hulladék felhasználásával hulladéknak nem minősülő anyagokat helyettesítenek kitermeléssel érintett területek helyreállításakor vagy tájrendezéskor;
+12. feltöltés: olyan hasznosítási művelet, amely során
+
+a) a célokra alkalmas nem veszélyes hulladékot használnak,
+
+b) talajkiemeléssel érintett területek helyreállítására, vagy mérnöki tájrendezési célokra,
+
+c) a feltöltéshez használt hulladékkal hulladéknak nem minősülő anyagot helyettesítve, valamint
+
+d) szigorúan a célok eléréséhez szükséges mennyiségben;
 
 13. fogyasztó: aki a terméket továbbértékesítési cél nélkül a gyártótól vagy a forgalmazótól átveszi vagy megvásárolja;
 
@@ -42,11 +54,13 @@
 
 19. gyűjtőhely: az átvételi hely, a hulladékgyűjtő pont, a hulladékgyűjtő udvar, valamint a munkahelyi gyűjtőhely és az üzemi gyűjtőhely;
 
-20. hasznosítás: bármely kezelési művelet, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse;
+20. hasznosítás: bármely kezelési művelet – ideértve a válogatást is –, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse;
 
-21. háztartási hulladék: a háztartásokban képződő vegyes, elkülönítetten gyűjtött, valamint lomhulladék, ideértve a lakásokban, lakóingatlanokban, a pihenés, üdülés céljára használt helyiségekben, valamint a lakóházak közös használatú helyiségeiben és területein képződő hulladékot;
+21. háztartási hulladék: a háztartásban, ideértve a lakó-, üdülő, vagy hétvégi házas ingatlanban, valamint a háztartásokhoz tartozó közös használatú helyiségekben képződő vegyes és elkülönítetten gyűjtött hulladék, amely magában foglalja a papír- és kartonpapír-, üveg-, fém- és műanyaghulladékot, biohulladékot, fa- és textilhulladékot, csomagolási hulladékot, elektromos és elektronikus berendezések hulladékait, elem- és akkumulátorhulladékot, továbbá a lomhulladékot, így különösen a matracokat és bútorokat;
 
-22. háztartási hulladékhoz hasonló hulladék: az a vegyes, illetve elkülönítetten gyűjtött hulladék, amely a háztartásokon kívül képződik, és jellegében, összetételében a háztartási hulladékhoz hasonló;
+22. háztartási hulladékhoz hasonló hulladék: az a vegyes, illetve elkülönítetten gyűjtött hulladék, amely a háztartáson kívül képződik, és jellegében, összetételében a háztartási hulladékhoz hasonló, így különösen a kiskereskedelemből, közigazgatásból, oktatásból, egészségügyi szolgáltatásokból, szállásadásból, étkeztetésből, valamint egyéb hasonló szolgáltatásokból és tevékenységekből származó hulladék;
+
+22a. helyes gyakorlat: a legjobb elérhető technika, ennek hiányában olyan műszaki megoldás, amely megfelelő, erőforrás-takarékos, környezetkímélő, költséghatékony, korszerű, és eredményes;
 
 23. hulladék: bármely anyag vagy tárgy, amelytől birtokosa megválik, megválni szándékozik vagy megválni köteles;
 
@@ -58,7 +72,7 @@
 
 27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését, vagyonkezelését és a hulladékgazdálkodási közszolgáltatás országos szintű megszervezését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
 
-27a. önkormányzati hulladékgazdálkodási közfeladat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 19. pontja szerinti közfeladat az önkormányzat közigazgatási területén a hulladékgazdálkodási közszolgáltatás helyi szintű részletszabályainak meghatározása, valamint a hulladékgazdálkodási közszolgáltató kiválasztása, a közszolgáltatási szerződés megkötése;
+27a. önkormányzati hulladékgazdálkodási közfeladat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 13. § (1) bekezdés 19. pontja szerinti közfeladat az önkormányzat közigazgatási területén a hulladékgazdálkodási közszolgáltatás helyi szintű részletszabályainak meghatározása, valamint a hulladékgazdálkodási közszolgáltató kiválasztása, a közszolgáltatási szerződés megkötése;
 
 27b. állami hulladékgazdálkodási közfeladat: a hulladékgazdálkodási közszolgáltatás országos szintű megszervezése.
 
@@ -80,7 +94,11 @@
 
 36. kezelés: hasznosítási vagy ártalmatlanítási műveletek, ideértve a hasznosítást vagy ártalmatlanítást megelőző előkészítést is;
 
-36a. közszolgáltatási terület: az Országos Hulladékgazdálkodási Közszolgáltatási Terv által meghatározott olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyre vonatkozóan az önkormányzat hulladékgazdálkodási közszolgáltatási szerződést kötött;
+36a. kiemelt hulladékjogi szabályszegést elkövető: akit a hulladékgazdálkodási hatóság egy költségvetési évben összesen százmillió forintot, természetes személy esetében tízmillió forintot elérő bírsággal sújt;
+
+36b. kiterjesztett gyártói felelősségi rendszer: olyan intézkedések együttese, amelyek célja annak biztosítása, hogy a termék gyártója viselje a pénzügyi felelősséget, vagy a pénzügyi és szervezési felelősséget a termék életciklusa során a hulladékká válást követő hulladékkezelésért;
+
+36c. közszolgáltatási terület: az Országos Hulladékgazdálkodási Közszolgáltatási Terv által meghatározott olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyre vonatkozóan a települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést kötött;
 
 37. közszolgáltató: az a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint minősített nonprofit gazdasági társaság, amely a települési önkormányzattal kötött hulladékgazdálkodási közszolgáltatási szerződés alapján hulladékgazdálkodási közszolgáltatást lát el;
 
@@ -89,6 +107,8 @@
 38. közvetítő: olyan gazdálkodó szervezet – az egyéni vállalkozót, valamint az egyéni céget ide nem értve –, amely más nevében szervezi a hulladék hasznosítását vagy ártalmatlanítását, ideértve azt az esetet is, amikor a közvetítő nem lesz a hulladék tényleges birtokosa;
 
 38a. közvetítő szervezet: olyan nonprofit gazdasági társaságként működő közvetítő – a környezetvédelmi termékdíjról szóló törvény szerinti, a termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő, valamint az egyes gyűjtési és hasznosítási célok elérését szolgáló szervezetet kivéve –, amely a hulladék hasznosítását vagy ártalmatlanítását nyilvántartásba vétel alapján szervezi;
+
+38b. kritikus fontosságú nyersanyag: a biztonságos, fenntartható és megfizethető ellátás biztosítása és az újrafeldolgozása elősegítése céljából, a gazdasági jelentőség és az ellátási kockázat szempontjából stratégiai jelentőségű, az Európai Unió által a kritikus fontosságú nyersanyagok rendszeresen felülvizsgált jegyzékéről szóló bizottsági közleményben meghatározott nyersanyag;
 
 39. lomhulladék: az ingatlanhasználótól a közszolgáltató által a lomtalanítás során átvett olyan háztartási hulladék, amely a közszolgáltatás keretében rendszeresített gyűjtőedény méreteit meghaladja;
 
@@ -100,11 +120,15 @@ b) a képződött hulladék környezetre és emberi egészségre gyakorolt káro
 
 c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
+40a. nem veszélyes hulladék: az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem rendelkező hulladék;
+
 41. szállítás: a hulladék telephelyen kívüli mozgatása;
+
+41a. szociális jellegű vállalkozás: hátrányos munkaerőpiaci helyzetű munkavállalókat a körforgásos gazdaság céljaival összhangban foglalkoztató vállalkozás;
 
 42. tárolás: a hulladéknak a gyűjtő, a kereskedő, illetve a hulladékkezelő telephelyén történő, valamint telephelyén kívüli átvételét, összegyűjtését, majd telephelyre történő szállítását követő ideiglenes elhelyezése a további hulladékgazdálkodási tevékenységek elvégzése érdekében, kivéve a hulladékkezelő létesítményben képződött hulladék ugyanazon hulladékkezelő létesítményben történő elhelyezését, valamint a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló miniszteri rendelet szerinti D12 ártalmatlanítási műveletet;
 
-43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló szilárd hulladék;
+43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló hulladék, amely nem foglalja magában a termelésből, a mezőgazdaságból, az erdészetből, a halászatból származó hulladékot, a nem közművel összegyűjtött háztartási szennyvizet, a szennyvízhálózatból és a szennyvízkezelő művekből származó hulladékot, így különösen a szennyvíziszapot, továbbá az elhasználódott járműveket, és az építési-bontási hulladékot;
 
 43a. termékcsoport: a gyártó által előállított vagy a forgalmazó által forgalmazott termékkel és csomagolásával jellegében és funkciójában azonos termékek csoportja;
 
@@ -112,7 +136,7 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 45. újrahasználat: olyan művelet, amelynek révén a hulladéknak nem minősülő terméket vagy alkatrészét újrahasználják arra a célra, amelyre eredetileg szolgált;
 
-46. újrahasználatra előkészítés: tisztítással, javítással, valamint ellenőrzéssel végzett hasznosítási művelet, amelynek során a hulladékká vált terméket vagy alkatrészét előkészítik arra, hogy bármilyen egyéb előkezelés nélkül újrahasználható legyen;
+46. újrahasználatra való előkészítés: tisztítással, javítással, valamint ellenőrzéssel végzett hasznosítási művelet, amelynek során a hulladékká vált terméket vagy alkatrészét előkészítik arra, hogy bármilyen egyéb előkezelés nélkül újrahasználható legyen;
 
 46a. üzlet: termékértékesítést szolgáló, a kereskedelemről szóló törvény szerinti üzlet, a vendéglátási tevékenységet folytató üzlet kivételével;
 
@@ -122,7 +146,7 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
 
-50.
+50. zöldhulladék: kertben, vagy kertészeti tevékenység során képződő növényi eredetű hulladék.
 
 (2) Az e törvény hatálya alá tartozó állati mellékterméket az (1) bekezdés 23. pontja szerinti fogalommeghatározással összhangban kell értelmezni.
 
@@ -147,3 +171,5 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 (8) Törvény vagy kormányrendelet az egyes hulladéktípusok és -fajták képződésének megelőzése érdekében, valamint a hulladékgazdálkodási tevékenységek vonatkozásában e törvénnyel összhangban álló további rendelkezéseket állapíthat meg.
 
 (9) A közszolgáltatók minősítésének részletes szabályait a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény határozza meg.
+
+(10) Az (1) bekezdés 43. pontja szerinti fogalommeghatározás nem érinti a hulladékgazdálkodással összefüggő felelősségi körök állami és magánszereplők közötti megosztását.

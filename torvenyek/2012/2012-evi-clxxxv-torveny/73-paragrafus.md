@@ -4,9 +4,9 @@
 
 ## 31. Az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program
 
-73. § (1) A környezetvédelmi igazgatási szerv a hulladékgazdálkodás stratégiai célkitűzéseinek, az e törvényben megállapított célok elérésének, továbbá az alapvető hulladékgazdálkodási elvek érvényesítésének érdekében elkészíti az Országos Hulladékgazdálkodási Tervet (a továbbiakban: OHT), és annak részeként az Országos Megelőzési Programot (a továbbiakban: OMP).
+73. § (1) A hulladékgazdálkodási hatóság a hulladékgazdálkodás stratégiai célkitűzéseinek, az e törvényben megállapított célok elérésének, továbbá az alapvető hulladékgazdálkodási elvek – különösen a hulladékképződés megelőzésének elve – érvényesítésének érdekében előkészíti az Országos Hulladékgazdálkodási Tervet (a továbbiakban: OHT), és annak részeként az Országos Megelőzési Programot (a továbbiakban: OMP).
 
-(2) Az OHT és az OMP kidolgozásakor a környezetvédelmi igazgatási szerv, a környezetvédelmi hatóság, valamint a helyi önkormányzatok – szükség esetén – együttműködnek az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
+(2) Az OHT és az OMP kidolgozásakor a hulladékgazdálkodásért felelős miniszter együttműködik az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
 
 (3) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter terjeszti a Kormány elé.
 

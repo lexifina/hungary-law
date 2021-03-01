@@ -2,7 +2,7 @@
 
 (2) Aki olyan hulladékgazdálkodási tevékenységet végez, amely a tevékenység jellegéből fakadóan a környezeti elemekre, az emberi egészségre, a tájra, valamint a védett természeti és kulturális értékekre kockázatot jelent, gondoskodik arról, hogy a kockázatot a lehető legkisebbre csökkentse.
 
-(3) A hulladékban rejlő anyag, energia hasznosítása érdekében törekedni kell a hulladék lehető legnagyobb arányú újrahasználatra előkészítésére, újrafeldolgozására, valamint a nyersanyagok hulladékkal történő helyettesítésére.
+(3) A hulladékban rejlő anyag, energia hasznosítása érdekében törekedni kell a hulladék lehető legnagyobb arányú újrahasználatra való előkészítésére, újrafeldolgozására, valamint a nyersanyagok hulladékkal történő helyettesítésére.
 
 (4) A hulladékgazdálkodáshoz használt technológia, berendezés, eszköz vagy anyag alkalmazását, illetve forgalmazását jogszabály engedélyhez vagy alkalmassági vizsgálathoz, referenciához, valamint minősítéshez kötheti.
 

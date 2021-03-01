@@ -20,9 +20,11 @@ a) a szennyvízre,
 
 b) az ásványi nyersanyagok kutatásából, kitermeléséből, feldolgozásából és tárolásából származó hulladékra,
 
-c) az állati melléktermékekre, ideértve a belőlük származó feldolgozott termékeket, kivéve, ha azokat hulladéklerakóban történő lerakásra, égetésre, valamint biogáz- vagy komposztáló üzemben történő hasznosításra szánják, valamint
+c) az állati melléktermékekre, ideértve a belőlük származó feldolgozott termékeket, kivéve, ha azokat hulladéklerakóban történő lerakásra, égetésre, valamint biogáz- vagy komposztáló üzemben történő hasznosításra szánják,
 
-d) a nem vágás következtében elpusztult és ártalmatlanításra kerülő állatokra, ideértve a járványos állatbetegségek leküzdése érdekében leölt állatok tetemeit is.
+d) a nem vágás következtében elpusztult és ártalmatlanításra kerülő állatokra, ideértve a járványos állatbetegségek leküzdése érdekében leölt állatok tetemeit is, valamint
+
+e) az olyan anyagra, amelyeket a 767/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdés g) pontjában meghatározott takarmány-alapanyagként szándékoznak felhasználni, és amely nem állati melléktermékekből áll, vagy nem tartalmaz ilyet.
 
 (3) Nem terjed ki a törvény hatálya
 
