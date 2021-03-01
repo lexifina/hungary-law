@@ -36,4 +36,4 @@ i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajlék
 
 j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító végleges döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
 
-k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó törvényben foglalt adatokat.
+k)

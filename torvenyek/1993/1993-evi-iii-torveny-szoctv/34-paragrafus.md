@@ -28,7 +28,7 @@ b) aki az aktív korúak ellátására való jogosultság feltételeinek vagy az
 
 c) aki keresőtevékenységet folytat, a keresőtevékenység 121. napjától,
 
-d) akire vonatkozóan az aktív korúak ellátására való jogosultság fennállása alatt a munkaügyi hatóság a jogellenes munkavégzés tényét két éven belül ismételten véglegessé vált döntéssel megállapította, vagy
+d)
 
 e) akinek a 36. § (2) bekezdése alapján a foglalkoztatást helyettesítő támogatásra való jogosultságát meg kell szüntetni,
 
@@ -40,7 +40,7 @@ h) akinek részére az aktív korúak ellátása keretében nyújtott ellátás 
 
 (3) Az aktív korú személy részére az aktív korúak ellátására való jogosultság a megszüntetéstől számított harminchat hónapon belül – ide nem értve a (2) bekezdés b), d) és e) pontja szerinti megszüntetési eseteket – az előzetes együttműködési kötelezettség teljesítése nélkül ismételten megállapítható, amennyiben a jogosultsági feltételek egyébként fennállnak.
 
-(4) A járási hivatal a jogellenesen munkát végző aktív korúak ellátására jogosult személy ellátásának folyósítását – a munkaügyi hatóságnak a jogsértés tényét első ízben megállapító végleges és végrehajtható határozata alapján, a határozat véglegessé válásáról szóló értesítés megérkezését követő hónap első napjától – egy hónap időtartamra felfüggeszti.
+(4)
 
 (5) A (2) bekezdés f) pontja szerinti esetben az aktív korúak ellátására való jogosultságot a kérelemben megjelölt időponttól, vagy – időpont megjelölésének hiányában – a kérelem benyújtását követő hónap utolsó napjával kell megszüntetni.
 
