@@ -1,10 +1,10 @@
-93. § (1)[^223] A teljesítményértékelés eredményét az előmenetel szempontjából csak abban az esetben lehet figyelembe venni, ha az állomány tagja eredményesen teljesítette az értékelési időszakra vonatkozóan a fizikai állapotfelmérést és az éves kiképzési feladatokat.
+93. § (1)[^224] A teljesítményértékelés eredményét az előmenetel szempontjából csak abban az esetben lehet figyelembe venni, ha az állomány tagja eredményesen teljesítette az értékelési időszakra vonatkozóan a fizikai állapotfelmérést és az éves kiképzési feladatokat.
 
-(2)[^224]
+(2)[^225]
 
-(3)[^225] Az (1) bekezdéstől eltérően az állomány egybefüggően 1 évet meghaladó külföldi szolgálatot teljesítő tagjának külföldi szolgálata alatt készült teljesítményértékelésénél a külföldi szolgálat megkezdésének időpontját megelőző 1 éven belül eredményesen teljesített fizikai állapotfelmérést és az éves kiképzési feladatokat kell figyelembe venni.
+(3)[^226] Az (1) bekezdéstől eltérően az állomány egybefüggően 1 évet meghaladó külföldi szolgálatot teljesítő tagjának külföldi szolgálata alatt készült teljesítményértékelésénél a külföldi szolgálat megkezdésének időpontját megelőző 1 éven belül eredményesen teljesített fizikai állapotfelmérést és az éves kiképzési feladatokat kell figyelembe venni.
 
-(4)[^226] Az (1) bekezdéstől eltérően az éves teljesítményértékelés során az értékelt időszakot megelőző évben eredményesen teljesített fizikai állapotfelmérés, illetve az éves kiképzési feladatok eredményét kell figyelembe venni, ha az állomány tagja a Hvt. 36. § (1) bekezdés h) pontja, valamint a Hvt. 36. § (2) bekezdés a) pontja szerinti szolgálati feladat
+(4)[^227] Az (1) bekezdéstől eltérően az éves teljesítményértékelés során az értékelt időszakot megelőző évben eredményesen teljesített fizikai állapotfelmérés, illetve az éves kiképzési feladatok eredményét kell figyelembe venni, ha az állomány tagja a Hvt. 36. § (1) bekezdés h) pontja, valamint a Hvt. 36. § (2) bekezdés a) pontja szerinti szolgálati feladat
 
 a) végrehajtásában való részvétele miatt nem vett részt a fizikai állapotfelmérésen, illetve nem teljesítette az éves kiképzési feladatokat, vagy
 
@@ -16,17 +16,17 @@ b) végrehajtása miatt nem került megszervezésre a fizikai állapotfelmérés
 
 a) a tárgyévet megelőző évi teljesítményértékelés során a 7. melléklet I–III. pontja szerinti értékelési szempontok vonatkozásában elért eredményt,
 
-b)[^227] a teljesítményértékelés elmaradásának okát
+b)[^228] a teljesítményértékelés elmaradásának okát
 
-c)[^228]
+c)[^229]
 
 (7) Ha a tiszti vagy az altiszti állomány tagjáról már a tárgyévet megelőző évben sem készült teljesítményértékelés, előmenetelre a tárgyévben nem tervezhető.
 
 (8) A (6) bekezdés szerint végrehajtott eljárás során készített dokumentum az előmenetel tervezése során figyelembe vehető, de a tárgyévet követő évben az egyes értékelési szempontok vonatkozásában elért eredményt már nem lehet figyelembe venni.
 
-[^223]: A 93. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 28. §-ával megállapított szöveg.
-[^224]: A 93. § (2) bekezdését a 13/2020. (X. 14.) HM rendelet 32. § 8. pontja hatályon kívül helyezte.
-[^225]: A 93. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 12. pontja szerint módosított szöveg.
-[^226]: A 93. § (4) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 13. pontja szerint módosított szöveg.
-[^227]: A 93. § (6) bekezdés b) pontja a 13/2020. (X. 14.) HM rendelet 32. § 9. pontja szerint módosított szöveg.
-[^228]: A 93. § (6) bekezdés c) pontját a 13/2020. (X. 14.) HM rendelet 32. § 8. pontja hatályon kívül helyezte.
+[^224]: A 93. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 28. §-ával megállapított szöveg.
+[^225]: A 93. § (2) bekezdését a 13/2020. (X. 14.) HM rendelet 32. § 8. pontja hatályon kívül helyezte.
+[^226]: A 93. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 12. pontja szerint módosított szöveg.
+[^227]: A 93. § (4) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 13. pontja szerint módosított szöveg.
+[^228]: A 93. § (6) bekezdés b) pontja a 13/2020. (X. 14.) HM rendelet 32. § 9. pontja szerint módosított szöveg.
+[^229]: A 93. § (6) bekezdés c) pontját a 13/2020. (X. 14.) HM rendelet 32. § 8. pontja hatályon kívül helyezte.

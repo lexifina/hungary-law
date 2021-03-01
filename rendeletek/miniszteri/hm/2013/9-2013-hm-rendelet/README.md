@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-15
 | 2020-02-29 | 2013-9-20-15.27 | 4/2020. (II. 28.) HM rendelet |
 | 2020-06-24 | 2013-9-20-15.28 | 11/2020. (VI. 23.) HM rendelet |
 | 2020-10-15 | 2013-9-20-15.29 | 13/2020. (X. 14.) HM rendelet |
+| 2021-03-01 | 2013-9-20-15.30 | 8/2021. (II. 27.) HM rendelet |

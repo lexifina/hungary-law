@@ -1,3 +1,3 @@
-99. §[^234]
+99. §[^235]
 
-[^234]: A 99. §-t a 13/2020. (X. 14.) HM rendelet 32. § 11. pontja hatályon kívül helyezte.
+[^235]: A 99. §-t a 13/2020. (X. 14.) HM rendelet 32. § 11. pontja hatályon kívül helyezte.
