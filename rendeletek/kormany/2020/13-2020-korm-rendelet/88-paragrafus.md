@@ -1,3 +1,3 @@
-## 87. §[^97]
+## 87. §[^96]
 
-[^97]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

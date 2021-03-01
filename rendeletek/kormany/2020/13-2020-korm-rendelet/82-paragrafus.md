@@ -16,7 +16,7 @@
 
 7.[^91]
 
-8.[^92]
+8. 4. melléklete.
 
 [^84]: A 82. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^85]: A 82. § (2) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -26,4 +26,3 @@
 [^89]: A 82. § (2) bekezdés 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^90]: A 82. § (2) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^91]: A 82. § (2) bekezdés 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^92]: A 82. § (2) bekezdés 8. pontja a 186. § (4) bekezdése alapján 2021. március 1-jén lép hatályba.
