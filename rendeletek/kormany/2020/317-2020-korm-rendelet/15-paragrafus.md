@@ -1,3 +1,5 @@
-15. §[^42]
+## 15. § Hatályát veszti a Vhr4.
 
-[^42]: A 15. § a 17. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+a) 96. § (2) bekezdése, valamint
+
+b) 100. § (3), (4) és (7) bekezdése.
