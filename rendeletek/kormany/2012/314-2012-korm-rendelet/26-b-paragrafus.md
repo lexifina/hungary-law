@@ -1,20 +1,18 @@
 ## 18/C. A településképi bejelentési eljárás
 
-26/B. § (1)[^92] A polgármester – a műemléket érintő, az örökségvédelmi hatósághoz történő bejelentéshez vagy örökségvédelmi engedélyhez kötött tevékenység, valamint az (1a) és az (1c) bekezdés kivételével – településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytathat le
+26/B. § (1)[^92] A polgármester – a műemléket vagy műemléki területet érintő, az örökségvédelmi hatósághoz történő bejelentéshez vagy örökségvédelmi engedélyhez kötött tevékenység, valamint az (1a) és az (1c) bekezdés kivételével – településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytathat le
 
-a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött azon építési tevékenységek tekintetében, melynek megkezdését,
+a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez vagy
 
-b) azon építmények rendeltetésének megváltoztatása tekintetében, melyek rendeltetésének megváltoztatását
+b) az Étv. 33/A. §-a szerinti egyszerű bejelentéshez
 
-## a települési önkormányzat – az e rendeletben foglaltak szerint – településképi rendeletében bejelentési eljárás lefolytatásához kötötte, és az eljárás részletes szabályairól ebben rendelkezett.
+## nem kötött azon építési tevékenységek tekintetében, melyek megkezdését a települési önkormányzat – az e rendeletben foglaltak szerint – településképi rendeletében bejelentési eljárás lefolytatásához kötötte, és az eljárás részletes szabályairól ebben rendelkezett.
 
-(1a)[^93] A polgármester – a településképi rendeletben meghatározott részletes eljárási szabályok szerint – településképi bejelentési eljárást folytat le a reklámok és reklámhordozók elhelyezése tekintetében
+(1a)[^93] A polgármester – a településképi rendeletben meghatározott részletes eljárási szabályok szerint – településképi bejelentési eljárást folytat le
 
-a) a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezési, és a településképi rendeletben szereplő különös településképi követelmények vagy
+a) az építmények rendeltetésének módosítása vagy rendeltetési egysége számának megváltozása (a továbbiakban együtt: rendeltetésváltozás) tekintetében, és
 
-b) – különös településképi követelmények meghatározásának hiányában – a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezési követelmények
-
-## érvényesítése érdekében.
+b) a reklámok és reklámhordozók elhelyezése tekintetében a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezési, és a településképi rendeletben szereplő különös településképi követelmények vagy – különös településképi követelmények meghatározásának hiányában – a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezési követelmények érvényesítése érdekében.
 
 (1b)[^94] A bejelentési eljárás során
 
@@ -46,8 +44,8 @@ e)[^98] az építési tevékenység elvégzése, a rendeltetésváltozás megval
 
 (5)[^101] A bejelentési eljárásban az eljárás szünetelésének nincs helye.
 
-[^92]: A 26/B. § (1) bekezdése a 16/2018. (II. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze a 357/2020. (VII. 23.) Korm. rendelet 3. §-a, a 677/2020. (XII. 28.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
-[^93]: A 26/B. § (1a) bekezdését a 105/2017. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^92]: A 26/B. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^93]: A 26/B. § (1a) bekezdését a 105/2017. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 677/2020. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^94]: A 26/B. § (1b) bekezdését a 16/2018. (II. 13.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^95]: A 26/B. § (1c) bekezdését a 357/2020. (VII. 23.) Korm. rendelet 2. §-a iktatta be.
 [^96]: A 26/B. § (2) bekezdés c) pontja a 105/2017. (IV. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
