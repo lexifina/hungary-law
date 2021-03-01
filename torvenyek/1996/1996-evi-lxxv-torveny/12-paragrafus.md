@@ -1,1 +1,0 @@
-12. § E törvénynek az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel megállapított rendelkezéseit a hatálybalépést követően megindult ügyekben kell alkalmazni.
