@@ -1,1 +1,1 @@
-6/A. § A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák elektronikus nyilvántartásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+6/A. § A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.

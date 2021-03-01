@@ -58,4 +58,6 @@ nem változtathatja meg.
 
 (5) A 159. § (1) bekezdés 2. és 13. pontjában, valamint a 159. § (5) bekezdés 4. pontjában közvetlenül érintett az engedélyes.
 
+(5a) A Hivatal e törvény szerinti hatáskörében hozott határozataival szembeni közigazgatási perben az elsőfokú ítélet ellen fellebbezésnek van helye.
+
 (6) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.

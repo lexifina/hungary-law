@@ -10,7 +10,7 @@
 
 a) a közvetlen vezeték engedélyesére, a magánvezeték engedélyesére és a töltőállomás-üzemeltetőre az (1) és (2) bekezdés,
 
-b) a kiserőművi összevont engedélyesre, valamint a felhasználót el nem látó villamosenergia-kereskedelmi engedélyesre a (2) bekezdés
+b) a kiserőművi összevont engedélyesre, valamint a felhasználót el nem látó villamosenergia-kereskedelmi engedélyesre – ha a befolyásszerző a befolyásszerzésről a befolyásszerzés hatályosulásától számított 30 napon belül tájékoztatja a Hivatalt – az (1) és (2) bekezdés
 
 rendelkezéseit.
 

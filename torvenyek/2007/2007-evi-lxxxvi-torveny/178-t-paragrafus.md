@@ -1,4 +1,4 @@
-178/T. § (1) Az egyes energetikai tárgyú törvények módosításáról szóló 2020. évi CXIII. törvény hatálybalépésekor folyamatban lévő 141. § (10) bekezdése szerinti árszabályozási ciklus 2021. március 31-ig meghosszabbodik.
+178/T. § (1) Az egyes energetikai tárgyú törvények módosításáról szóló 2020. évi CXIII. törvény hatálybalépésekor folyamatban lévő 141. § (10) bekezdése szerinti árszabályozási ciklus 2021. március 31-ig meghosszabbodik. A folyamatban lévő árszabályozási ciklus tekintetében a 143. § (1) bekezdése nem alkalmazandó.
 
 (2) Az (1) bekezdés szerinti árszabályozási ciklust követő új árszabályozási ciklus kezdő időpontja 2021. április 1.
 
