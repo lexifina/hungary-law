@@ -12,8 +12,9 @@
 
 ## 6. a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 10/A. § (2) bekezdése
 
-## 7.[^8]
+## 7.[^9] a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendelet 4. § (1) és (7) bekezdése, 6. § (3) bekezdés a) pontja, 7. § (1) bekezdése, 8. § (5) bekezdése, 9/A. § (2) bekezdése, 15. § (1) és (2) bekezdése
 
-3. melléklet a 444/2020. (IX. 30.) Korm. rendelethez
+3. melléklet a 444/2020. (IX. 30.) Korm. rendelethez[^10]
 
-[^8]: A 2. melléklet 7. pontját a 610/2020. (XII. 18.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^9]: A 2. melléklet 7. pontját a 610/2020. (XII. 18.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 94/2021. (II. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^10]: A 3. melléklet a 94/2021. (II. 27.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.

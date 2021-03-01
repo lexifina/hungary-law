@@ -4,12 +4,16 @@
 
 ## 2. a Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 14. § (1) bekezdés d) pontja
 
-## 3. a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 1. § (3) bekezdése, 2. § (4) bekezdése, 14. § (3) és (4) bekezdése, 20. §-a
+## 3.[^11] a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 1. § (3) és (4) bekezdése, 2. § (4) bekezdése, 14. § (3) és (4) bekezdése, 20. §-a
 
 ## 4. a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. § (2) bekezdés c) pontja
 
 ## 5. a Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet 1. mellékletében foglalt táblázat C:6 mezője
 
-5. melléklet a 444/2020. (IX. 30.) Korm. rendelethez[^10]
+## 6.[^12] a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 164. §-a
 
-[^10]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+5. melléklet a 444/2020. (IX. 30.) Korm. rendelethez[^13]
+
+[^11]: A 4. melléklet 3. pontja a 94/2021. (II. 27.) Korm. rendelet 10. §-a szerint módosított szöevg.
+[^12]: A 4. melléklet 6. pontját a 94/2021. (II. 27.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^13]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
