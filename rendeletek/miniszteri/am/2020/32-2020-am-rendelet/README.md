@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-32-20-7
 | --- | --- | --- |
 | 2020-06-29 | 2020-32-20-7R.1 | 32/2020. (VI. 26.) AM rendelet |
 | 2020-06-30 | 2020-32-20-7R.2 | 2010: CXXX. törvény |
+| 2021-03-01 | 2020-32-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
