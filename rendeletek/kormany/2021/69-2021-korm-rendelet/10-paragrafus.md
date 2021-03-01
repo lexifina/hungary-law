@@ -1,3 +1,15 @@
-## 9. §[^9]
+## 10. § Az Eütev.
 
-[^9]: A 9. § a 20. § (2) bekezdése alapján 2021. március 1-jén lép hatályba.
+a) 11/A. § (9) bekezdését,
+
+b) 11/B. § (2), (3), (5) és (7) bekezdését,
+
+c) 13. § (2) bekezdését,
+
+d) 14/D. §-át,
+
+e) 15/D. §-át,
+
+f) 19/B. §-át
+
+nem kell alkalmazni.

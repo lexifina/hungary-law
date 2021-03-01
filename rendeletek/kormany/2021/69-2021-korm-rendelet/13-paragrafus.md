@@ -1,3 +1,1 @@
-## 12. §[^12]
-
-[^12]: A 12. § a 20. § (2) bekezdése alapján 2021. március 1-jén lép hatályba.
+## 12. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: 2011. évi LXXV. törvény) alkalmazásában a 2011. évi LXXV. törvény 1. § 7a. pontjában foglaltakon túl közszférában dolgozón az egészségügyi szolgálati jogviszonyban álló személyt is érteni kell.
