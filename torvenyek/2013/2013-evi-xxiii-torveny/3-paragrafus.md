@@ -2,7 +2,7 @@
 
 (2) A tárolt biztonsági kőolajkészlet összetételének meghatározásakor tekintettel kell lenni Magyarország energiaellátásának biztonságára, kőolajimport-függőségére, valamint figyelembe kell venni a hazai kőolaj-termelési és -feldolgozási, valamint termékfogyasztási mutatókat.
 
-(3) A biztonsági kőolajkészlet legalább egyharmadát a 2. melléklet 1. pont b)–f) alpontja szerinti kőolajtermékekből kell képezni, kivéve, ha a Szövetség igazgatótanácsa (a továbbiakban: igazgatótanács) különleges kőolajkészlet képzéséről dönt.
+(3) A biztonsági kőolajkészlet legalább egyharmadát a 2. melléklet 1. pontjában foglalt táblázat 3–8. sora szerinti kőolajtermékekből kell képezni, kivéve, ha a Szövetség igazgatótanácsa (a továbbiakban: igazgatótanács) különleges kőolajkészlet képzéséről dönt.
 
 (4) A biztonsági kőolajkészlet mértékének minden év július 1-jétől a következő év június 30-ig meg kell felelnie legalább 90 napi, a 2. § (2) és (3) bekezdése szerint számított átlagos napi nettó behozatalnak.
 

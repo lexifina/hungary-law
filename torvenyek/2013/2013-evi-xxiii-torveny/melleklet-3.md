@@ -2,7 +2,7 @@
 
 A különleges kőolajkészlet összetétele és mértéke
 
-1. Különleges kőolajkészletként is nyilvántartható a 2. melléklet 1. pont b)–f) alpontja szerinti kőolajtermékekből álló készlet azon része, amelyre teljesülnek a következő feltételek:
+1. Különleges kőolajkészletként is nyilvántartható a 2. melléklet 1. pontjában foglalt táblázat 3–8. sora szerinti kőolajtermékekből álló készlet azon része, amelyre teljesülnek a következő feltételek:
 
 a) a készlet az Európai Unió területén van,
 

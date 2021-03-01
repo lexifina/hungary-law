@@ -2,9 +2,7 @@
 
 A biztonsági kőolajkészlet képzése
 
-1. Biztonsági kőolajkészlet a következő nyersolajból és kőolajtermékekből képezhető:
-
-|
+1. 1. Biztonsági kőolajkészlet a következő nyersolajból és kőolajtermékekből képezhető:
 
 |
 
@@ -18,9 +16,7 @@ B
 
 |
 
-|
-
-1
+1.
 
 |
 
@@ -28,13 +24,11 @@ Készletezett anyag
 
 |
 
-Kombinált nomenklatúra 2012
+Kombinált Nómenklatúra-kód (KN-kód)
 
 |
 
-|
-
-2
+2.
 
 |
 
@@ -46,9 +40,7 @@ Nyersolaj
 
 |
 
-|
-
-3
+3.
 
 |
 
@@ -60,9 +52,7 @@ Motorbenzin
 
 |
 
-|
-
-4
+4.
 
 |
 
@@ -74,9 +64,7 @@ Motorikus gázolaj/dízelolaj
 
 |
 
-|
-
-5
+5.
 
 |
 
@@ -84,37 +72,31 @@ Háztartási és egyéb tüzelőolaj
 
 |
 
-|
-
-6
+6.
 
 |
 
-Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb)
+Fűtőolaj – alacsony kéntartalmú (legfeljebb 0,5 tömegszázalék kéntartalom)
 
 |
 
-27101962-27101964, 27102031-27102035
+27101962, 27101966, 27102032
 
 |
 
-|
-
-7
+7.
 
 |
 
-Fűtőolaj – magas kéntartalmú (1%-nál magasabb)
+Fűtőolaj – magas kéntartalmú (0,5 tömegszázalékot meghaladó kéntartalom)
 
 |
 
-27101968, 27102039
+27101967, 27102038
 
 |
 
-|
-
-8
+8.
 
 |
 
