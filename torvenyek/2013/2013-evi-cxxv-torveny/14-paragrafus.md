@@ -1,6 +1,8 @@
 ## 8. Ellenőrzés
 
-14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását hivatalból ellenőrzi. Az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést hivatalból ellenőrzi. Az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+
+(1a) A környezetirányítási programban foglaltak végrehajtását a környezetvédelmi hatóság ellenőrzi a minősítő kérésére.
 
 (2) Ha a minősítő az ellenőrzés alapján megállapítja, hogy a kérelmező
 

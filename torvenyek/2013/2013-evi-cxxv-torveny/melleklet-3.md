@@ -4,6 +4,8 @@ Környezetirányítási célok B/III. és C/III. minősítési osztályokhoz
 
 (bázisév a hulladékgazdálkodási közszolgáltatási szerződés megkötésének éve)
 
+3K63480_0
+
 |
 
 I. A B/III. minősítési osztály céljai:

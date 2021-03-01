@@ -2,7 +2,7 @@
 
 1. § E törvény hatálya
 
-a) a környezetvédelmi hatóságra (a továbbiakban: minősítő),
+a) a hulladékgazdálkodási hatóságra (a továbbiakban: minősítő),
 
 b) a hulladékgazdálkodási közszolgáltatási tevékenységet végző vagy végezni kívánó, minősítést kérelmező gazdálkodó szervezetre (a továbbiakban: kérelmező),
 

@@ -12,4 +12,4 @@ c) a minősítési engedélyben megjelölt minősítési osztályt,
 
 d) a minősítési engedély időbeli hatályát.
 
-(3) A minősítési engedélyeket, továbbá a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni.
+(3) A minősítési engedélyeket, továbbá a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat a hulladékgazdálkodási hatóság honlapján közzé kell tenni.

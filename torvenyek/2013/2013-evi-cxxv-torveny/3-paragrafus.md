@@ -19,3 +19,5 @@ b) a törvény előírásainak betartása és a kérelmező részére előírt c
 c) nem szolgálhat hivatkozási alapul a kérelmezett minősítési osztály megfelelősége elbírálásánál.
 
 (6) A kérelmező az e törvény szerinti közigazgatási hatósági eljárások lefolytatásáért, valamint a (4) bekezdés szerinti igazgatási jellegű szolgáltatás (konzultáció) igénybevételéért igazgatási szolgáltatási díjat fizet.
+
+(7) Az e törvényben meghatározott környezethasználati célok megvalósulásáról a környezetvédelmi hatóság véleményét kell beszerezni. A környezetvédelmi hatóság a megkeresés kézhezvételétől számított tizenöt napon belül állítja ki a véleményt.
