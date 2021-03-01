@@ -18,6 +18,6 @@ f) egészségügyi ellátóhálózat szerve: az egészségügyi szolgáltatást 
 
 g) szociális igazgatás szerve: a települési és a megyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
 
-h) munkaügyi igazgatás szerve: az állami foglalkoztatási szerv és a munkaügyi hatóság;
+h) munkaügyi igazgatás szerve: az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság;
 
 i) összerendelési bejegyzés: a természetes személy összerendelési nyilvántartásba történő felvétele céljából az összerendelési nyilvántartás működtetője által képzett nyilvántartási elemi egység, amely biztosítja az összerendelési kapcsolati kódokat képező nyilvántartások egy személyhez tartozó adatelemeihez tartozó titkosított összerendelési kapcsolati kódokkal történő kiegészítését és tárolását.
