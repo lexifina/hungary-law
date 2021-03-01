@@ -2,4 +2,4 @@
 
 (2) A felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő részére a földgázelosztó köteles a felhasználó mérési adatait átadni.
 
-(3) A felhasználó személyében történő változás esetén a földgázelosztó köteles jegyzőkönyvben rögzíteni a fogyasztásmérő berendezés állását és a mérőberendezés, illetve a zárópecsétek (plomba) szemrevételezéssel megállapított állapotát, és ennek egy példányát az új felhasználó, valamint a felhasználót ellátó földgázkereskedő részére megküldeni.
+(3) A felhasználó személyében történő változás esetén a földgázelosztó jegyzőkönyvben rögzíti a fogyasztásmérő berendezés állását, valamint a mérőberendezés és a zárópecsétek (plomba) szemrevételezéssel megállapított állapotát. A jegyzőkönyv egy-egy példányát átadja, postai úton megküldi vagy – a 63/B. §-ban meghatározott esetben – elektronikusan kézbesíti és az új felhasználónak, a felhasználót ellátó földgázkereskedőnek, valamint a korábbi felhasználónak annak ezirányú kérése esetén.

@@ -2,7 +2,7 @@
 
 (2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal határozatában meghatározott rendszerhasználati díjat megfizetni.
 
-(2a) A szállítási rendszerüzemeltetővel rendszerhasználati szerződést kötő rendszerhasználó az egyensúlyozási elszámolás tárgyában a szállítási rendszerüzemeltetővel szerződéses kapcsolatban álló elszámolóházzal szerződést köt.
+(2a) A szállítási rendszerüzemeltetővel rendszerhasználati szerződést kötő rendszerhasználó az egyensúlyozási elszámolás tárgyában a szállítási rendszerüzemeltetővel szerződéses kapcsolatban álló elszámolóházzal – az elszámolóház által meghatározott feltételek szerint – szerződést köt.
 
 (3) Elosztóvezetékhez csatlakozó felhasználó részére az adott felhasználási helyen legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás. A szállítóvezetékhez csatlakozó felhasználó részére az érintett gázátadó állomáson mint kiadási ponton legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás.
 

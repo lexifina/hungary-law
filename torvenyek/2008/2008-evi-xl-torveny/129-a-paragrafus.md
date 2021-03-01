@@ -16,4 +16,6 @@ b) más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszk
 
 c) referenciaár-módszertant, az (EU) 2017/460 bizottsági rendelet szerinti árkedvezményeket, szorzókat és szezonális faktorokat, rendszerhasználati díjakat, rendszerüzemeltetők által külön díj ellenében végezhető szolgáltatások díjait vagy csatlakozási díjakat állapít meg.
 
+(2a) A Hivatal e törvényben meghatározott hatáskörében hozott határozataival szembeni közigazgatási perben hozott elsőfokú ítélet ellen fellebbezésnek van helye.
+
 (3) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.

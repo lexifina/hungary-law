@@ -4,7 +4,7 @@
 
 (1b) A kereskedési platformot működtető köteles a kereskedési platform szabályzat szerinti ügyletekről a Hivatal elnökének rendeletében meghatározott módon adatot szolgáltatni.
 
-(2) A kereskedési platformon az ügyletek pénzügyi elszámolását törvényben meghatározott, a kereskedési platformot működtető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet végzi.
+(2) A szállítási rendszerüzemeltető által üzemeltetett kereskedési platformon az ügyletek pénzügyi elszámolását törvényben meghatározott, a kereskedési platformot működtető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet végzi.
 
 (3) A kereskedési platformon ügyletet kizárólag a kereskedési platformon tagsággal rendelkezők köthetnek. A kereskedési platform tagja lehet
 

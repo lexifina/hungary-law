@@ -20,7 +20,7 @@
 
 6. Egyablakos kiszolgálású nemzetközi földgázszállító- vezeték: Magyarország és rajta kívül egy vagy több ország területét érintő – a hazai együttműködő földgázrendszernek részét nem képező – földgázszállító-vezeték, amelynek egy vagy több országot érintő szakaszára vonatkozóan egyetlen ügylettel lehet kapacitást lekötni.
 
-7. Egybefüggő telephely: telephelyi szolgáltatás esetén a gázfelhasználó tulajdonában, kezelésében vagy használatában lévő egybefüggő ingatlan, ahol a csatlakozóvezeték, a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely vagy a fogyasztói főcsap van. Egy telephely több felhasználási helyet is tartalmazhat.
+7. Egybefüggő telephely: telephelyi szolgáltatás esetén a gázfelhasználó tulajdonában, kezelésében vagy használatában lévő egybefüggő ingatlan, ahol a csatlakozóvezeték, a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely vagy a fogyasztói főcsap van. Egy telephely több felhasználási helyet is tartalmazhat eltérő felhasználó vagy rendszerhasználó esetén.
 
 8. Egyetemes szolgáltatás: a jogosult felhasználók földgázellátására vonatkozó, e törvényben és külön jogszabályban meghatározott szolgáltatások értékesítése.
 
@@ -44,7 +44,13 @@
 
 14. Elszámolási mérés: az Üzemi és Kereskedelmi Szabályzat szerint kialakított, rendszerüzemeltető által működtetett, a mérésügyi jogszabályok szerint mérésre alkalmas fogyasztásmérő berendezés adatainak rögzítése a földgázforgalom meghatározása érdekében.
 
-14a. Elszámolóház: a szállítási rendszerüzemeltető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet (szakosított hitelintézet, illetve annak a teljesítés során közreműködő kapcsolt vállalkozása), amely az egyensúlyozási elszámolást, valamint a Kereskedési Platformon kötött ügyletek anonim elszámolását végzi, valamint az ügyletek klíringjével és garantálásával kapcsolatos szolgáltatásokat nyújt.
+14a. Elszámolóház: központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet (szakosított hitelintézet, illetve annak a teljesítés során közreműködő kapcsolt vállalkozása), amely a következők közül legalább az egyik tevékenységet végzi:
+
+a) egyensúlyozási elszámolás,
+
+b) kereskedési platformon kötött ügyletek anonim elszámolása,
+
+c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások nyújtása.
 
 15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Hivatal által kiadott érvényes engedéllyel rendelkezik.
 
@@ -238,17 +244,17 @@ b) önálló kereskedelmi ügynöki tevékenység keretében, a PB-gáz forgalma
 
 75. Alapvető szociális szolgáltató:
 
-a) az egészségügyről szóló törvényben meghatározott egészségügyi intézmény,
+a) az egészségügyről szóló törvényben meghatározott egészségügyi szolgáltató,
 
 b) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott szociális intézmény,
 
 c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi szerv,
 
-d) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényben meghatározott honvédelemben közreműködő szerv,
+d) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényben meghatározott honvédségi szervezet,
 
 e) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti intézmény
 
-f) a nemzeti köznevelésről szóló törvény szerinti köznevelési intézmény,
+f) a nemzeti köznevelésről szóló törvény szerinti köznevelési intézmény, és a szakképzésről szóló törvény szerinti szakképző intézmény,
 
 g) a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény,
 

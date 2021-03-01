@@ -15,3 +15,7 @@ d) a 108. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október
 a) a szállítási és az elosztási rendszerhasználati díjak, valamint az egyetemes szolgáltatás tekintetében 2021. szeptember 30.,
 
 b) a tárolási rendszerhasználati díjak tekintetében 2021. március 31.
+
+c) a szállításhoz, elosztáshoz kapcsolódó csatlakozási díjak, valamint a szállításhoz, elosztáshoz és az egyetemes szolgáltatáshoz kapcsolódó külön díjak tekintetében 2021. szeptember 30.,
+
+d) a tároláshoz kapcsolódó külön díjak tekintetében 2021. március 31.
