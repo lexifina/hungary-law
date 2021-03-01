@@ -1,0 +1,7 @@
+## 13. § Az állami foglalkoztatási szerv hatáskörében kiszabható bírságról szóló 29/2018. (II. 28.) Korm. rendelet (a továbbiakban: a 29/2018. Korm. rendelet) 1. § c) pontja helyébe a következő rendelkezés lép, és a következő d) ponttal egészül ki:
+
+## [Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) közigazgatási bírság fizetésére kötelezi]
+
+## „c) azt, aki a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvényben (a továbbiakban: Fftv.), valamint a felhatalmazása alapján más jogszabályban meghatározott foglalkoztatást elősegítő támogatásban részesül, és az erről szóló véglegessé vált határozatban előírt nyilvántartási, adatszolgáltatási kötelezettségének nem tett eleget,
+
+## d) az Flt. 58. § (5) bekezdés c) pontjában meghatározott munkaadót, ha a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló kormányrendeletben meghatározott bejelentési kötelezettségének nem tett eleget.”
