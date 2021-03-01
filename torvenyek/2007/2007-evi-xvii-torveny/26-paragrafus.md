@@ -52,7 +52,7 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 14. az Országos Halászati Adattárból,
 
-15. a munkaügyi és munkavédelmi hatóság adatbázisából,
+15. a foglalkoztatás-felügyeleti és munkavédelmi hatóság adatbázisából,
 
 16. az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
 
