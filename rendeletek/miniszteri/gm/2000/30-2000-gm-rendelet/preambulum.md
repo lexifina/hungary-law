@@ -1,1 +1,0 @@
-A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 8. §-ának (5) bekezdésében, valamint 13/A. §-ának (3)–(4) bekezdésében foglalt felhatalmazás alapján – a foglalkozási rehabilitációt segítő szolgáltatások tekintetében a szociális és családügyi miniszterrel egyetértésben – a következőket rendelem el:
