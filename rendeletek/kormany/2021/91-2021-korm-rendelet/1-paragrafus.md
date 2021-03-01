@@ -1,0 +1,3 @@
+1. § (1) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (12) bekezdésében foglaltakat a (2) bekezdésben foglaltak szerint kell alkalmazni.
+
+(2) A munka törvénykönyvéről szóló 2012. évi I. törvény XVI. fejezetét azzal az eltéréssel kell alkalmazni, hogy egészségügyi szolgáltató alaptevékenysége körében nem foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló. Ha az egészségügyi szolgáltató alaptevékenysége szerinti feladat ellátása más módon nem biztosítható, az országos kórház-főigazgató előzetes engedélyével foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló az egészségügyi szolgáltatónál. Az engedélyezés eljárásrendjét az országos kórház-főigazgató állapítja meg.
