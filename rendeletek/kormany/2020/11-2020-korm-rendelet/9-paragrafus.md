@@ -1,11 +1,15 @@
-9. §[^9] (1) A felnőttképzési államigazgatási szerv a felnőttképzők nyilvántartásából törli a felnőttképzőt, ha a felnőttképző
+9. §[^22] (1)[^23] A felnőttképzési államigazgatási szerv a felnőttképzők nyilvántartásából törli a felnőttképzőt, ha
 
-a) jogutód nélkül megszűnt, vagy az egyéni vállalkozó meghalt, vagy
+a) a felnőttképző jogutód nélkül megszűnt, az egyéni vállalkozó, illetve a gazdasági tevékenységet folytató más természetes személy meghalt,
 
-b) bejelentéshez kötött felnőttképzési tevékenység esetén a Szolg. tv. 28. § a) vagy b) pontjában, engedélyhez kötött felnőttképzési tevékenység esetén a Szolg. tv. 26. § (3) bekezdésében meghatározott eset bekövetkezett.
+b) a felnőttképző a felnőttképzési tevékenység megszüntetését bejelentette, vagy
+
+c) bejelentéshez kötött felnőttképzési tevékenység esetén a Szolg. tv. 28. § a) pontjában, engedélyhez kötött felnőttképzési tevékenység esetén a Szolg. tv. 26. § (3) bekezdésében meghatározott eset bekövetkezett.
 
 (2) A 7. § (3) bekezdés a) pontja szerinti esetben a felnőttképzőt a felnőttképzők nyilvántartásából csak annak a nyilvántartásba vételi számát érintően lehet törölni, amelyik tekintetében a törlés jogszabályban meghatározott feltételei bekövetkeznek.
 
-(3) Ha jogszabály a képzés megszervezését bejelentéshez vagy engedélyhez köti, a felnőttképzési államigazgatási szerv a felnőttképzőnek a felnőttképzők nyilvántartásából való törlését elrendelő, véglegessé vált határozat megküldésével tájékoztatja a bejelentés, illetve az engedély tekintetében hatáskörrel rendelkező szervet arról, hogy a felnőttképző felnőttképzési tevékenység végzésére a továbbiakban nem jogosult.
+(3)[^24] Ha jogszabály a képzés megszervezését bejelentéshez vagy engedélyhez köti, a felnőttképzési államigazgatási szerv a felnőttképzőnek a felnőttképzők nyilvántartásából való törlését elrendelő, véglegessé vált határozat megküldésével tájékoztatja a bejelentés, illetve az engedély tekintetében hatáskörrel rendelkező szervet arról, hogy a felnőttképző felnőttképzési tevékenység folytatására a továbbiakban nem jogosult.
 
-[^9]: A 9. § a 318/2020. (VII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: A 9. § a 318/2020. (VII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^23]: A 9. § (1) bekezdése a 95/2021. (II. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 9. § (3) bekezdése a 95/2021. (II. 27.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-4. §[^6]
+4. §[^12]
 
-[^6]: A 4. §-t a 318/2020. (VII. 1.) Korm. rendelet 17. § 3. pontja hatályon kívül helyezte.
+[^12]: A 4. §-t a 318/2020. (VII. 1.) Korm. rendelet 17. § 3. pontja hatályon kívül helyezte.

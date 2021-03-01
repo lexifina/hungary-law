@@ -1,4 +1,4 @@
-## III/B. Fejezet[^34]
+## III/B. Fejezet[^57]
 
 ## A FELNŐTTKÉPZÉS TÁMOGATÁSA
 
@@ -54,4 +54,4 @@ f) a felnőttképző ellenőrzésénél szakértői bizottságot nem kell kijel�
 
 g) a felnőttképzővel szemben pénzbírság kiszabása helyett a minősítés visszavonása kezdeményezhető.
 
-[^34]: A III/B. fejezetet (26/B–26/C. §) a 318/2020. (VII. 1.) Korm. rendelet 12. §-a iktatta be.
+[^57]: A III/B. fejezetet (26/B–26/C. §) a 318/2020. (VII. 1.) Korm. rendelet 12. §-a iktatta be.

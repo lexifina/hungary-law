@@ -4,13 +4,13 @@
 
 ## 8. Az Fktv. 11. § (2) bekezdés a) pont aa) alpontjához
 
-18. § (1)[^19]
+18. § (1)[^38]
 
 (2) A felnőttképzési szakértő a képzési program előzetes minősítése során vizsgálja, hogy
 
-a) a képzési program tartalma megfelel-e az Fktv.-nek és szakmai oktatás vagy szakmai képzés esetén a szakképzésről szóló törvénynek és a szakképzésről szóló törvény végrehajtásáról szóló kormányrendeletnek, és
+a)[^39] a képzési program tartalma megfelel-e az Fktv.-nek és szakmai oktatás vagy szakmai képzés esetén a szakképzésről szóló törvénynek és a szakképzésről szóló törvény végrehajtásáról szóló kormányrendeletnek,
 
-b) a képzési programban meghatározott tartalommal, feltételekkel és módon, valamint a képzéssel érintett célcsoport számára megszerezhetők-e a képzési programban megjelölt kompetenciák,
+b)[^40] a képzési programban meghatározott tartalommal, feltételekkel és módon, valamint a képzéssel érintett célcsoport számára megszerezhetők-e a képzési programban megjelölt kompetenciák, és
 
 c) – több oldalból álló képzési program esetén – a képzési program minden oldala folyamatos oldalszámozással van ellátva, és papíralapú képzési program esetében az összefűzésre úgy került sor, hogy annak szétválasztására sérülésmentesen nincs lehetőség.
 
@@ -18,8 +18,11 @@ c) – több oldalból álló képzési program esetén – a képzési program 
 
 (4) A felnőttképzési szakértőnek – a (3) bekezdés szerinti írásos vélemény alapján – a képzési program előzetes minősítését úgy kell elvégeznie, hogy a képzési program utolsó oldalán fel kell tüntetnie az előzetes minősítés tényét, helyét, időpontját, a felnőttképzési szakértők nyilvántartásában szereplő nyilvántartási számát, elektronikusan megszerkesztett képzési program esetében legalább fokozott biztonságú elektronikus aláírással, papíralapú képzési program esetében a képzési program mindegyik oldalát a szignójával, utolsó oldalát az aláírásával kell ellátnia. A képzési program előzetes minősítését követően a felnőttképzési szakértő a képzési programmal kapcsolatban további – a képzési program előzetes minősítését érintő, azt módosító vagy kiegészítő – megállapításokat nem tehet.
 
-(5) Az előzetesen minősített képzési programot a felnőttképző képviseletére jogosult személynek – a képzési program utolsó oldalán – alá kell írnia. A felnőttképző az előzetes minősítés alapját képező, (3) bekezdés szerinti szakértői véleményt a képzési programhoz mellékeli.
+(5)[^41] Az előzetesen minősített képzési programot a felnőttképző képviseletére jogosult személynek – elektronikusan megszerkesztett képzési program esetében minősített elektronikus aláírással, minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, minősített elektronikus bélyegzővel vagy minősített tanúsítványon alapuló fokozott biztonsági elektronikus bélyegzővel, vagy papíralapú képzési program esetében a képzési program utolsó oldalán – alá kell írnia. A felnőttképző az előzetes minősítés alapját képező, (3) bekezdés szerinti szakértői véleményt a képzési programhoz mellékeli.
 
 (6) A képzés program módosítása esetén a felnőttképzőnek el kell végeztetnie a módosított képzési program előzetes minősítését.
 
-[^19]: A 18. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte.
+[^38]: A 18. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte.
+[^39]: A 18. § (2) bekezdés a) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^40]: A 18. § (2) bekezdés b) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
+[^41]: A 18. § (5) bekezdése a 95/2021. (II. 27.) Korm. rendelet 7. § n) pontja szerint módosított szöveg.

@@ -6,13 +6,13 @@
 
 (3) A felnőttképzési szakértő továbbképzéséhez szükséges, legalább húsz óra időtartamú továbbképzési programot a felnőttképzési államigazgatási szerv állítja össze. A továbbképzési programot úgy kell összeállítani, hogy az tartalmazzon legalább nyolc, legfeljebb tíz óra időtartamú komplex felnőttképzési szakértői gyakorlatot. A továbbképzés a továbbképzési program elméleti képzési részét érintő óraszámban távoktatási formában is megvalósítható.
 
-(4)[^15] A vizsga tematikáját, időpontját és a vizsgaszabályzatot a felnőttképzési államigazgatási szerv állapítja meg, és a vizsga tematikáját és a vizsgaszabályzatot évente, a vizsga időpontját a vizsgát megelőző legalább harminc nappal a honlapján közzéteszi.
+(4)[^33] A vizsga tematikáját, időpontját és a vizsgaszabályzatot a felnőttképzési államigazgatási szerv állapítja meg, és a vizsga tematikáját és a vizsgaszabályzatot évente, a vizsga időpontját a vizsgát megelőző legalább harminc nappal a honlapján közzéteszi.
 
 (5) A továbbképzést csoportos képzési forma esetén egymást követő napokon kell megszervezni, amelynek időtartamába nem számít be a vizsga – legfeljebb egyórás – időtartama.
 
 (6) A vizsgára való jelentkezéshez a (3) bekezdésben meghatározott óraszámú szakértői gyakorlaton való részvétel szükséges. A vizsga eredményes teljesítéséről tanúsítványt kell kiállítani.
 
-(7)[^16]
+(7)[^34]
 
-[^15]: A 15. § (4) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^16]: A 15. § (7) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 8. pontja hatályon kívül helyezte.
+[^33]: A 15. § (4) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^34]: A 15. § (7) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 8. pontja hatályon kívül helyezte.

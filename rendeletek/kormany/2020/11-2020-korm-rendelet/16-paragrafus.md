@@ -2,6 +2,6 @@
 
 (2) A szünetelés idejére a szakértő Fktv. 7. § (1) bekezdése szerinti adatainak feltüntetését mellőzni kell a felnőttképzési szakértők nyilvántartásának Fktv. 7. § (3) bekezdése szerinti közzététele során.
 
-(3)[^17] A szünetelés időtartama a felnőttképzési szakértő továbbképzési kötelezettségének időtartamába nem számít bele.
+(3)[^35] A szünetelés időtartama a felnőttképzési szakértő továbbképzési kötelezettségének időtartamába nem számít bele.
 
-[^17]: A 16. § (3) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^35]: A 16. § (3) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
