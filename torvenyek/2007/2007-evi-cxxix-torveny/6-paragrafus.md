@@ -8,7 +8,7 @@ a) a terület újrahasznosításáról erdő telepítésével kíván gondoskodn
 
 b) bányászati igazgatási eljárásban a bányászati tevékenység befejezését követően a területen tájrendezés végrehajtására köteles vagy
 
-c) a hulladéklerakó terület rekultivációját környezetvédelmi hatóság döntése alapján végzi.
+c) a hulladéklerakó terület rekultivációját hulladékgazdálkodási hatóság döntése alapján végzi.
 
 (3) A bejelentésben meg kell jelölni:
 
