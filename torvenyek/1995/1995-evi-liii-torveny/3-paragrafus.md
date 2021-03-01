@@ -24,7 +24,7 @@ k) a vadgazdálkodásról
 
 l) a vízgazdálkodásról,
 
-m) a hulladékokról,
+m) a hulladékról, a hulladékgazdálkodásról és a körforgásos gazdaságra történő áttéréssel kapcsolatos kérdésekről,
 
 n) a veszélyes anyagokról.
 

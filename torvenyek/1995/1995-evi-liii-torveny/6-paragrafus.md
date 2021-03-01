@@ -10,6 +10,6 @@ b) megelőzze a környezetszennyezést;
 
 c) kizárja a környezetkárosítást.
 
-(2) A környezethasználatot az elővigyázatosság elvének figyelembevételével, a környezeti elemek kíméletével, takarékos használatával, továbbá a hulladékkeletkezés csökkentésével, a természetes és az előállított anyagok visszaforgatására és újrafelhasználására törekedve kell végezni.
+(2) A környezethasználatot az elővigyázatosság elvének figyelembevételével, a környezeti elemek kíméletével, takarékos használatával, továbbá a hulladékképződés csökkentésével, a természetes és az előállított anyagok visszaforgatására és újrafelhasználására törekedve kell végezni.
 
 (3) A megelőzés érdekében a környezethasználat során a leghatékonyabb megoldást, továbbá a külön jogszabályban meghatározott tevékenységek esetén az elérhető legjobb technikát kell alkalmazni.

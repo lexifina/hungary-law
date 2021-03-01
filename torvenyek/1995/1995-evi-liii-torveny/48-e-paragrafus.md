@@ -14,7 +14,7 @@ f) a települési csapadékvíz-gazdálkodással,
 
 g) a kommunális szennyvízkezeléssel,
 
-h) a településihulladék-gazdálkodással,
+h) a településihulladék-gazdálkodással, valamint az elhagyott hulladék felszámolásával,
 
 i) az energiagazdálkodással,
 

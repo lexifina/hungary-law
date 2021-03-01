@@ -1,6 +1,6 @@
 ## Hulladékok
 
-30. § (1) A hulladékok környezetre gyakorolt hatásai elleni védelem kiterjed mindazon anyagokra, termékekre — ideértve azok csomagoló- és burkolóanyagait is —, amelyeket tulajdonosa eredeti rendeltetésének megfelelően nem tud, vagy nem kíván felhasználni, illetve, amely azok használata során keletkezik.
+30. § (1) A hulladékok környezetre gyakorolt hatásai elleni, a hulladékról szóló törvény rendelkezései alapján megvalósuló védelem kiterjed mindazon anyagokra, termékekre – ideértve azok csomagoló- és burkolóanyagait is –, amelyeket tulajdonosa eredeti rendeltetésének megfelelően nem tud, vagy nem kíván felhasználni, illetve, amely azok használata során keletkezik.
 
 (2) A környezethasználó köteles a hulladék kezeléséről (ártalmatlanításáról, hasznosításáról) gondoskodni.
 
