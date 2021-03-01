@@ -18,7 +18,7 @@ h) az állampolgársági ügyekben eljáró szerv és az állampolgársági ügy
 
 i) a személyiadat- és lakcímnyilvántartással kapcsolatos ügyekben eljáró hatóság,
 
-j) a munkaügyi hatóság,
+j) a foglalkoztatás-felügyeleti hatóság,
 
 k) a munkavédelmi hatóság,
 

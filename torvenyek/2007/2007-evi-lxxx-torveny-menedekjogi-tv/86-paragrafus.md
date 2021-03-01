@@ -34,7 +34,7 @@ c) a Magyarország helyi önkormányzatairól szóló törvény szerinti szervek
 
 d) az adóhatóságtól;
 
-e) a munkaügyi hatóságtól;
+e) a foglalkoztatás-felügyeleti hatóságtól;
 
 f) az állami foglalkoztatási szervtől;
 
