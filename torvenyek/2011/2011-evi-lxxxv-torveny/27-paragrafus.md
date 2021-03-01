@@ -10,6 +10,6 @@ c) ha az fizikai módon összetevőire szét nem választható és nincs olyan �
 
 kell alkalmazni.
 
-(2) A környezetvédelmi hatóság a kötelezett, vagy a csomagolószer felhasználójának kérelmére akkor veszi fel a csomagolószert az újrahasználható csomagolószerek nyilvántartásába, ha az megfelel az újrahasználható csomagolószerre vonatkozóan a 2. § 31. pontban meghatározott feltételeknek.
+(2) A hulladékgazdálkodási hatóság a kötelezett, vagy a csomagolószer felhasználójának kérelmére akkor veszi fel a csomagolószert az újrahasználható csomagolószerek nyilvántartásába, ha az megfelel az újrahasználható csomagolószerre vonatkozóan a 2. § 31. pontban meghatározott feltételeknek.
 
 (3)

@@ -1,4 +1,4 @@
-29/B. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével – tényleges megvalósulását ellenőrzi.
+29/B. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a hulladékgazdálkodási vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével – tényleges megvalósulását ellenőrzi.
 
 (2) Ha a vámhatóság kérésére elvégzett mintavétel érdekében a hulladék válogatása, osztályozása válik szükségessé, úgy annak költsége, amennyiben az ellenőrzés jogsértést tár fel, az ellenőrzött személyt vagy szervezetet, egyébként a vámhatóságot terheli.
 

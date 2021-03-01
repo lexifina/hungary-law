@@ -6,6 +6,6 @@
 
 (3)–(6)
 
-(7) A vámhatóság az Air. jogkövetési vizsgálatra vonatkozó ellenőrzés szabályai alapján ellenőrzi – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével –, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
+(7) A vámhatóság az Air. jogkövetési vizsgálatra vonatkozó ellenőrzés szabályai alapján ellenőrzi – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a hulladékgazdálkodási vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével –, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
 
 (8) A Ht.-ban, valamint a Ht. felhatalmazása alapján kiadott jogszabályokban meghatározott nyilvántartásokat, üzemnaplót és bizonylatokat a vámhatóság az ellenőrzései során felhasználja.
