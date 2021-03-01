@@ -10,9 +10,9 @@ c) a három- vagy többnapos távollétnél az első és az utolsó napon a két
 
 d) a többhetes távollétnél az utazással indokoltan eltöltött időt annyiszor kell figyelembe venni, ahányszor a hivatásos állomány tagja részére az utazást engedélyezték.
 
-(2a)[^43] A (2) bekezdés b) pontjában foglaltaktól eltérően rugalmas szolgálati időrendszer esetén legalább napi öt, vezényléses szolgálati időrendszer alkalmazása esetén legalább napi négy óra szolgálatteljesítési időt kell jóváírni, ennél többet akkor, ha az első napon az indulás és a napi feladatteljesítés befejezési ideje közötti, a második napon a feladatteljesítés kezdési ideje és a visszautazással eltöltött idő közötti időtartam az öt, illetve a négy órát meghaladja.
+(2a)[^45] A (2) bekezdés b) pontjában foglaltaktól eltérően rugalmas szolgálati időrendszer esetén legalább napi öt, vezényléses szolgálati időrendszer alkalmazása esetén legalább napi négy óra szolgálatteljesítési időt kell jóváírni, ennél többet akkor, ha az első napon az indulás és a napi feladatteljesítés befejezési ideje közötti, a második napon a feladatteljesítés kezdési ideje és a visszautazással eltöltött idő közötti időtartam az öt, illetve a négy órát meghaladja.
 
-(3)[^44] Ha a külföldi kiküldetés során a hivatásos állomány tagját a napi tényleges szolgálatteljesítés befejezését követően arra kötelezik, hogy pihenőidejében meghatározott szolgálati feladatokra történő igénybevétel céljából rendelkezésre álljon, a tényleges szolgálatteljesítés nélküli rendelkezésre állás időtartama készenlétnek vagy kiemelt készenlétnek. Ha ilyen rendelkezésre állási kötelezettség a hivatásos állomány tagját nem terheli, a szolgálatteljesítési idő leteltét követő időtartam nem tekinthető sem túlszolgálatnak, sem készenlétnek, sem kiemelt készenlétnek.
+(3)[^46] Ha a külföldi kiküldetés során a hivatásos állomány tagját a napi tényleges szolgálatteljesítés befejezését követően arra kötelezik, hogy pihenőidejében meghatározott szolgálati feladatokra történő igénybevétel céljából rendelkezésre álljon, a tényleges szolgálatteljesítés nélküli rendelkezésre állás időtartama készenlétnek vagy kiemelt készenlétnek. Ha ilyen rendelkezésre állási kötelezettség a hivatásos állomány tagját nem terheli, a szolgálatteljesítési idő leteltét követő időtartam nem tekinthető sem túlszolgálatnak, sem készenlétnek, sem kiemelt készenlétnek.
 
-[^43]: A 74. § (2a) bekezdését az 55/2016. (XII. 22.) BM rendelet 15. §-a iktatta be.
-[^44]: A 74. § (3) bekezdése az 55/2016. (XII. 22.) BM rendelet 16. §-a szerint módosított szöveg.
+[^45]: A 74. § (2a) bekezdését az 55/2016. (XII. 22.) BM rendelet 15. §-a iktatta be.
+[^46]: A 74. § (3) bekezdése az 55/2016. (XII. 22.) BM rendelet 16. §-a szerint módosított szöveg.
