@@ -1,20 +1,12 @@
 ## 1. A Kormány a koronavírus világjárvány negatív gazdasági hatásainak mérséklése érdekében a hazai mikro-, kis- és középvállalkozások, valamint hazai nagyvállalatok likviditási nehézségeinek enyhítése, valamint beruházásaik megvalósítása érdekében
 
-## a) egyetért az MFB Vis Maior Garanciaprogramjának elindításához 90%-os mértékű visszavonhatatlan állami készfizető kezességvállalás biztosításával,
+## a)[^1]
 
 ## b) egyetért a Garantiqa Krízis Garanciaprogram elindításához 90%-os mértékű visszavonhatatlan állami viszontgarancia biztosításával, valamint
 
 ## c) támogatja a Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság (a továbbiakban: Garantiqa Hitelgarancia Zrt.) által állami viszontgarancia mellett vállalt készfizető kezesség 2020. december 31-én fennálló állományának 1000 milliárd forint összegre történő emelését.
 
-## 2. A Kormány úgy dönt, hogy az 1. pont a) alpontjában jelzett, az 1. mellékletben meghatározott tartalmú garanciaprogram (e pont alkalmazásában a továbbiakban: Garanciaprogram) keretében vállalt garanciához a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (1) bekezdés b) pontja alapján az állam visszavonhatatlan készfizető kezességet vállal a Garanciaprogram keretében vállalt garancia összegének 90%-áig.
-
-## Az e pont szerinti állami készfizető kezességvállalásért az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság által fizetendő díj mértéke a garancia összeg 90%-ára vetített 0,1%/év.
-
-## Felelős: pénzügyminiszter
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. A Kormány az 1. pont b) alpontja alapján felhívja a pénzügyminisztert, hogy – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával – kezdeményezze a költségvetési törvény szabályaitól való eltérést, valamint gondoskodjon a költségvetési viszontgarancia vállalásának és érvényesítésének részletes szabályairól szóló 48/2002. (XII. 28.) PM rendelet módosításáról, és tegye lehetővé
 
@@ -58,29 +50,14 @@
 
 ## Határidő: azonnal
 
-## 9.[^1]
+## 9.[^3]
 
-## 10.[^2]
+## 10.[^4]
 
-1. melléklet az 1170/2020. (IV. 21.) Korm. határozathoz
+1. melléklet az 1170/2020. (IV. 21.) Korm. határozathoz[^5]
 
-Az MFB Vis Maior Garancia feltételei
-
-| Sorszám | Program megnevezése | MFB Vis Maior Garancia |
-
-| 1. | A kötelezett személye | kis- és középvállalkozás, valamint nagyvállalat |
-
-| 2. | A vállalható állami kezesség, viszontgarancia összege / mértéke | a garancia összegének 90%-a |
-
-| 3. | Az állami kezesség-, viszontgarancia-vállalással támogatott hitelcél | forgóeszköz, beruházás |
-
-| 4. | Futamidő | 6 év |
-
-| 5. | Keretösszeg | 50 milliárd forint |
-
-| 6. | Kezességvállalás (garancia) mértéke | a hitel tőkeösszegének 90%-a |
-
-| 7. | Hitelösszeg | maximum 10 milliárd forint |
-
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontját az 1085/2021. (III. 1.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 2. pontot az 1085/2021. (III. 1.) Korm. határozat 3. pontja visszavonta.
+[^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. mellékletet az 1085/2021. (III. 1.) Korm. határozat 3. pontja visszavonta.

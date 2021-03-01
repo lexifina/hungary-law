@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1170-30
 | --- | --- | --- |
 | 2020-04-21 | 2020-1170-30-22.1 | 1170/2020. (IV. 21.) Korm. határozat |
 | 2020-04-22 | 2020-1170-30-22.2 | 2010: CXXX. törvény |
+| 2021-03-01 | 2020-1170-30-22.3 | 1085/2021. (III. 1.) Korm. határozat |
