@@ -64,7 +64,7 @@ Nemzeti Filmintézet mozgóképszakmai támogatásban részesítette: igen nem
 
 7. A kérelem benyújtásával együtt csatolandó mellékletek:
 
-7.1. Igazgatási szolgáltatási díj megfizetésének igazolása: alapeljárás iránti kérelem esetében 12 000 forint, sürgős eljárás iránti kérelem esetében 55 000 forint. A díjat a Nemzeti Filmintézet 10032000-00313278-00000048 számú számlájára kell megfizetni, melynek közlemény rovatában a beazonosítás érdekében kérjük megjelölni a kérelem keltének napját, a kérelmező nevét, a kérelmezett területre vonatkozó utalást és a filmalkotás munkacímét.
+7.1. Igazgatási szolgáltatási díj megfizetésének igazolása: alapeljárás iránti kérelem esetében 12 000 forint, sürgős eljárás iránti kérelem esetében 55 000 forint.
 
 7.2. Közérdekű célt szolgáló filmalkotás forgatása esetén az e célt alátámasztó dokumentum.
 
@@ -85,7 +85,7 @@ _____________________
 Kérelmező
 
 [^22]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: Az 1. melléklet a 350/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet a 350/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított, a 96/2021. (II. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^24]: A szerzői jogról szóló 1999. évi LXXVI. törvény szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort.
 [^25]: Olyan közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
 [^26]: Egy kérelmen kizárólag ugyanazon közterület tulajdonosának tulajdonában álló közterületek tüntethetők fel.

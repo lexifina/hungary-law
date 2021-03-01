@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-302-20-
 | 2016-10-15 | 2016-302-20-22.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2016-302-20-22.3 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-12-31 | 2016-302-20-22.4 | 350/2019. (XII. 23.) Korm. rendelet |
+| 2021-03-01 | 2016-302-20-22.5 | 96/2021. (II. 27.) Korm. rendelet |
