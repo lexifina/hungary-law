@@ -8,7 +8,7 @@ c) az adós székhelye szerint illetékes egészségbiztosítási szervet és ny
 
 d) az állami foglalkoztatási szervet,
 
-e) a környezetvédelmi hatóságot és a munkavédelmi hatóságot,
+e) a környezetvédelmi hatóságot, a hulladékgazdálkodási hatóságot és a munkavédelmi hatóságot,
 
 f) a bíróság Gazdasági Hivatalát,
 

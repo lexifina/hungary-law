@@ -10,7 +10,7 @@ b) a környezeti teherrel érintett ingatlanok értékesíthetőségével kapcso
 
 (4) A (3) bekezdés a) pont szerinti eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
-(5) A felszámolók névjegyzékét vezető szerv az előtte folyamatban lévő eljárást felfüggesztheti, ha a környezeti teherrel érintett vagyontárgy értékesítéséhez való hozzájárulás érdekében a környezetvédelemért felelős miniszter szakmai állásfoglalásának beszerzése szükséges.
+(5) A felszámolók névjegyzékét vezető szerv az előtte folyamatban lévő eljárást felfüggesztheti, ha a környezeti teherrel érintett vagyontárgy értékesítéséhez való hozzájárulás érdekében a környezetvédelemért felelős miniszter, ha az ingatlanon még nem kezelt hulladék van, a hulladékgazdálkodási hatóság szakmai állásfoglalásának beszerzése szükséges.
 
 (6) A felszámolók névjegyzékébe való felvétellel kapcsolatos eljárás ügyintézési határideje a pályázati kérelmeket értékelő bizottság értékelő jegyzőkönyvének hatósághoz történő megérkezését követő napon kezdődik. Ezen eljárásokban szünetelésnek nincs helye.
 

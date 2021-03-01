@@ -34,4 +34,6 @@ c) amely törvény által meghatározott országos közfeladatot lát el,
 
 d) amely nagy összegű állami szerkezetátalakítási támogatásban, hitelgaranciában, kezességvállalásban vagy exporthitel biztosításban részesült vagy koncesszióköteles tevékenységet folytat vagy erre vállalt kötelezettséget, és az említettekkel összefüggésben az állammal vagy állami szervvel (ideértve az említett feladatok ellátására létrehozott állami tulajdonú gazdálkodó szervezeteket is) jogviszonya áll fenn, vagy
 
-e) amely az a)–d) pontban nem említett, de nemzetgazdasági stratégiai szempontból kiemelt jelentőségű tevékenységet folytat.
+e) amely hulladékkezelési tevékenységet végez, vagy
+
+f) amely az a)–e) pont hatálya alá nem tartozó, de nemzetgazdasági stratégiai szempontból kiemelt jelentőségű tevékenységet folytat.

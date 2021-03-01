@@ -4,7 +4,7 @@ a) a felszámolás kezdő időpontját megelőző nappal záróleltárt, valamin
 
 b) a nem selejtezhető iratokról iratjegyzéket készíteni, és azt, az irattári anyagot, valamint a vagyont leltár szerint átadni a felszámolónak legkésőbb a felszámolás kezdő időpontját követő 30 napon belül, ugyanilyen határidővel a folyamatban lévő ügyekről, eljárásokról tájékoztatást adni, továbbá nyilatkozni arról, hogy valamennyi vagyontárgyra, iratra vonatkozóan teljesítette az átadási kötelezettségét,
 
-c) a felszámolás kezdő időpontjától számított 15 napon belül a felszámolónak és a felszámoló útján a környezetvédelmi és természetvédelmi hatóságnak nyilatkozatot tenni arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások, illetve terhek rendezéséhez szükséges kiadás származhat;
+c) a felszámolás kezdő időpontjától számított 15 napon belül a felszámolónak és a felszámoló útján a környezetvédelmi és természetvédelmi hatóságnak nyilatkozatot tenni arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások, illetve terhek rendezéséhez szükséges kiadás származhat, továbbá a hulladékgazdálkodási hatóságnak a vállalkozás telephelyein lévő hulladékokról, az ezek kezelésével kapcsolatos, még végre nem hajtott hatósági határozatokról, illetve folyamatban lévő ellenőrzésekről;
 
 d) a felszámolónak tájékoztatást adni minden a 40. § (1) bekezdés tárgyát képező jogügyletről, illetve kötelezettségvállalásról,
 
