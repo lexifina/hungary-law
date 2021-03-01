@@ -68,3 +68,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2021-02-01 | 1997-217-20-22.146 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-02-15 | 1997-217-20-22.147 | 97/2008. (IV. 29.) Korm. rendelet |
 | 2021-02-20 | 1997-217-20-22.148 | 71/2021. (II. 19.) Korm. rendelet |
+| 2021-03-01 | 1997-217-20-22.149 | 157/2015. (VI. 25.) Korm. rendelet |
