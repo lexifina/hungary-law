@@ -1,1 +1,1 @@
-6. §
+6. § Hatályát veszti az egyrészről az Európai Közösségek és tagállamai, másrészről az Örmény Köztársaság közötti partnerség létrehozásáról szóló Partnerségi és Együttműködési Megállapodás, valamint az ahhoz csatolt jegyzőkönyvek kihirdetéséről szóló 2011. évi X. törvény.
