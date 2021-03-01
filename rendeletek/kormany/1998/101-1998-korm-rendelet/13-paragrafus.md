@@ -2,7 +2,7 @@
 
 ## A kérelem
 
-13. §[^63] (1)[^64] Az úti okmány kiadására irányuló eljárás – az Utv. 10. § (3) bekezdésében és 21/D. §-ában meghatározott kivétellel – kérelemre indul.
+13. §[^63] (1)[^64] Az úti okmány kiadására irányuló eljárás – az Utv. 10. § (5) bekezdésében és 21/D. §-ában meghatározott kivétellel – kérelemre indul.
 
 (2)[^65] Az útlevél iránti kérelemről az általános hatáskörű útlevélhatóság, a külpolitikáért felelős miniszter, a járási hivatal vagy a konzuli tisztviselő a kérelemnek megfelelő adattartalmú, elektronikus kérelmet állít elő, amely tartalmazza
 
@@ -35,7 +35,7 @@ a) az elektronikus kérelmet, valamint a csatolt mellékleteket továbbítja az 
 b) a diplomata- és külügyi szolgálati útlevél iránti kérelem formanyomtatványát és a kinyomtatott és aláírt kérelmet, valamint a csatolt mellékleteket megküldi a külpolitikáért felelős miniszternek, az elektronikus kérelmet elektronikus úton továbbítja a külpolitikáért felelős miniszternek.
 
 [^63]: A 13. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^64]: A 13. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^64]: A 13. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
 [^65]: A 13. § (2) bekezdés nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^66]: A 13. § (2) bekezdés b) pontja a 317/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^67]: A 13. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 14. § (3) bekezdése iktatta be.
