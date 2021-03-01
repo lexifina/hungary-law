@@ -1,4 +1,4 @@
-4. §[^3] (1) A honvédelmi szervezet vezetője a munkáltatói jogok gyakorlását – esetenként vagy az ügyek meghatározott csoportjára nézve, a (2) és (3) bekezdésben foglaltak kivételével – írásban, honvédelmi alkalmazotti jogviszonyban, hivatásos vagy szerződéses katonai szolgálati viszonyban álló, a honvédelmi szervezetnél magasabb vezetői vagy vezetői beosztást betöltő személyre ruházhatja át. Az átruházott munkáltatói jogkör tovább nem ruházható.
+4. §[^4] (1) A honvédelmi szervezet vezetője a munkáltatói jogok gyakorlását – esetenként vagy az ügyek meghatározott csoportjára nézve, a (2) és (3) bekezdésben foglaltak kivételével – írásban, honvédelmi alkalmazotti jogviszonyban, hivatásos vagy szerződéses katonai szolgálati viszonyban álló, a honvédelmi szervezetnél magasabb vezetői vagy vezetői beosztást betöltő személyre ruházhatja át. Az átruházott munkáltatói jogkör tovább nem ruházható.
 
 (2) A honvédelmi szervezet vezetője a kinevezéstől eltérő munkáltatónál történő foglalkoztatás esetén a tényleges foglalkoztatáshoz szükséges munkáltatói jogok – így különösen az utasítási, az irányítási és az ellenőrzési jog – gyakorlását írásban átruházhatja a kinevezéstől eltérő munkáltatóra. Az átruházás pénzügyi kötelezettségvállalás megtételére nem terjedhet ki. A (3) bekezdéstől eltérően ezen bekezdést kell alkalmazni a tényleges foglalkoztatáshoz szükséges kiadmányozási jog átruházására.
 
@@ -6,4 +6,4 @@
 
 (4) Átruházott kiadmányozási jog esetén a munkáltatói döntés meghozatala a honvédelmi szervezet vezetője nevében történik. A munkáltatói döntésben fel kell tüntetni a honvédelmi szervezet vezetőjének és a kiadmányozási jog gyakorlójának beosztását, valamint azt, hogy a kiadmányozási jog gyakorlója a honvédelmi szervezet vezetője nevében jár el.
 
-[^3]: A 4. § az 5/2021. (I. 18.) HM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § az 5/2021. (I. 18.) HM rendelet 2. §-ával megállapított szöveg.

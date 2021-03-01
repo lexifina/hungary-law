@@ -1,0 +1,1 @@
+## 38/E. § Az MH EK-nál rendszeresíthető honvédelmi alkalmazotti munkakörök elnevezését, fizetési osztályokba sorolását, a magasabb vezetői, valamint a vezetői megbízásokat a 7. melléklet tartalmazza.

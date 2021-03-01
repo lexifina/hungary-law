@@ -1,4 +1,4 @@
-8. §[^6] (1) Nem kell próbaidőt megállapítani akkor, ha a honvédelmi alkalmazott a kinevezését megelőző egy évben
+8. §[^8] (1) Nem kell próbaidőt megállapítani akkor, ha a honvédelmi alkalmazott a kinevezését megelőző egy évben
 
 a) honvédelmi szervezetnél,
 
@@ -8,6 +8,7 @@ c) az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c
 
 ## állt folyamatosan munkaviszonyban, feltéve, hogy a honvédelmi alkalmazott ez idő alatt rendelkezett a honvédelmi alkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel.
 
-(2) Nem kell próbaidőt megállapítani, ha a jogviszony létesítésére a miniszter irányítása alá tartozó egészségügyi szolgáltatónál igazgatói vagy osztályvezető főorvosi megbízás ellátása érdekében került sor, és a honvédelmi alkalmazott kinevezéskor legalább ötéves, költségvetési szervnél eltöltött szakmai gyakorlattal rendelkezik.
+(2)[^9]
 
-[^6]: A 8. § az 5/2021. (I. 18.) HM rendelet 4. §-ával megállapított szöveg.
+[^8]: A 8. § az 5/2021. (I. 18.) HM rendelet 4. §-ával megállapított szöveg.
+[^9]: A 8. § (2) bekezdését a 8/2021. (II. 27.) HM rendelet 8. §-a hatályon kívül helyezte.

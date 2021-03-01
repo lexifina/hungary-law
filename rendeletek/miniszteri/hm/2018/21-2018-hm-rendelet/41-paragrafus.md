@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti betegszabadság időtartamára járó kiegészítő pótlékot megfelelően kell alkalmazni, ha a 2019. január 1-jén honvédelmi alkalmazotti jogviszonyban foglalkoztatott személy 2009. január 1-jét megelőzően létesített honvédelmi szervezetnél köztisztviselői jogviszonyt, és kormányzati szolgálati jogviszonya 2018. december 31-én megszakítás nélkül fennállt.
 
-(3)[^33] A 21. § (3) bekezdésétől eltérően 2019. és 2020. évre a gyakorlati pótlékra jogosító honvédelmi alkalmazotti munkaköröket és a jogosultság feltételeit érvényes kollektív szerződés is megállapíthatja, amely a gyakorlati pótlék 21. § (3) bekezdése szerinti mértékétől a honvédelmi alkalmazott javára eltérhet.
+(3)[^37] A 21. § (3) bekezdésétől eltérően 2019. és 2020. évre a gyakorlati pótlékra jogosító honvédelmi alkalmazotti munkaköröket és a jogosultság feltételeit érvényes kollektív szerződés is megállapíthatja, amely a gyakorlati pótlék 21. § (3) bekezdése szerinti mértékétől a honvédelmi alkalmazott javára eltérhet.
 
-[^33]: A 41. § (3) bekezdése a 3/2020. (II. 25.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^37]: A 41. § (3) bekezdése a 3/2020. (II. 25.) HM rendelet 7. § b) pontja szerint módosított szöveg.

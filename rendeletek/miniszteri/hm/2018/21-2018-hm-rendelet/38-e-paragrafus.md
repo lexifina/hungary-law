@@ -1,0 +1,1 @@
+## 38/D. § Nem kell próbaidőt megállapítani, ha a jogviszony létesítésére az MH EK-nál igazgatói vagy osztályvezető főorvosi megbízás ellátása érdekében került sor, és a honvédelmi alkalmazott kinevezéskor legalább ötéves, költségvetési szervnél eltöltött szakmai gyakorlattal rendelkezik.

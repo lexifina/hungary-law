@@ -34,6 +34,6 @@
 
 | 16 | 15. | 1,564 | 1,719 | 1,809 |
 
-6. melléklet a 21/2018. (XII. 28.) HM rendelethez[^47]
+6. melléklet a 21/2018. (XII. 28.) HM rendelethez[^51]
 
-[^47]: A 6. mellékletet újonnan az 5/2021. (I. 18.) HM rendelet 14. § (2) bekezdése iktatta be.
+[^51]: A 6. mellékletet újonnan az 5/2021. (I. 18.) HM rendelet 14. § (2) bekezdése iktatta be.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-21-20-1
 | 2020-10-15 | 2018-21-20-15.5 | 13/2020. (X. 14.) HM rendelet |
 | 2020-12-13 | 2018-21-20-15.6 | 17/2020. (XII. 12.) HM rendelet |
 | 2021-01-19 | 2018-21-20-15.7 | 5/2021. (I. 18.) HM rendelet |
+| 2021-03-01 | 2018-21-20-15.8 | 8/2021. (II. 27.) HM rendelet |

@@ -1,6 +1,6 @@
-1. melléklet a 21/2018. (XII. 28.) HM rendelethez[^46]
+1. melléklet a 21/2018. (XII. 28.) HM rendelethez[^50]
 
-1. A honvédelmi alkalmazotti munkakörök, a vezetői megbízással ellátható magasabb vezetői és vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke, a kulturális szakmai és kulturális működéstámogató munkakörök kivételével
+1. A honvédelmi alkalmazotti munkakörök, a vezetői megbízással ellátható magasabb vezetői és vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke, a kulturális szakmai és kulturális működéstámogató munkakörök, valamint az MH EK-nál rendszeresíthető munkakörök kivételével
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L |
 
@@ -494,4 +494,4 @@
 
 | 16. | Közművelődési tevékenység | tudományos kutató |
 
-[^46]: Az 1. melléklet az 5/2021. (I. 18.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^50]: Az 1. melléklet az 5/2021. (I. 18.) HM rendelet 14. § (1) bekezdésével megállapított, a 8/2021. (II. 27.) HM rendelet 6. § (1) bekezdése szerint módosított szöveg.
