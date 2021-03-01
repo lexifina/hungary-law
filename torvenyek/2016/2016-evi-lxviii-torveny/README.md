@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2020-07-01 | 2019. évi CIII. törvény | 2016-68-00-00.23 |
 | 2020-11-27 | 2020. évi CXVIII. törvény | 2016-68-00-00.24 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 2016-68-00-00.25 |
+| 2021-03-01 | 2021. évi II. törvény | 2016-68-00-00.26 |
