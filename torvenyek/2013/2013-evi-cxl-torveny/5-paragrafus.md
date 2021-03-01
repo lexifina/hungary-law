@@ -32,7 +32,7 @@ törli.
 
 a) bíróságot, az ügyészséget vagy a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
 
-b) a környezetvédelmi hatóságot, ha a tájékoztatás a hulladékgazdálkodási hatósági engedélyezési eljárás lefolytatása, a hulladékgazdálkodási tevékenység ellenőrzése, a hulladékgazdálkodási bírság kiszabása,
+b) a hulladékgazdálkodási hatóságot, ha a tájékoztatás a hulladékgazdálkodási hatósági engedélyezési eljárás lefolytatása, a hulladékgazdálkodási tevékenység ellenőrzése, a hulladékgazdálkodási bírság kiszabása,
 
 c) a közlekedési hatóságot, ha a tájékoztatás a hulladékká vált gépjárművekre vonatkozó szabályok megtartásának ellenőrzése
 
@@ -40,7 +40,7 @@ c) a közlekedési hatóságot, ha a tájékoztatás a hulladékká vált gépj�
 
 (7a) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(8) A fémkereskedelmi hatóság a fémkereskedelmi eljárás megindítása és lefolytatása, a tényállás tisztázása céljából tájékoztatást kérhet a környezetvédelmi hatóság engedélyezési és ellenőrzési eljárásaiban felmerült adatokról. Ha a megkeresés személyes adatok továbbítására irányul, az a természetes személy ügyfél és az eljárás egyéb résztvevőjének azonosítása céljából az alábbi adatokra terjedhet ki:
+(8) A fémkereskedelmi hatóság a fémkereskedelmi eljárás megindítása és lefolytatása, a tényállás tisztázása céljából tájékoztatást kérhet a hulladékgazdálkodási hatóság engedélyezési és ellenőrzési eljárásaiban felmerült adatokról. Ha a megkeresés személyes adatok továbbítására irányul, az a természetes személy ügyfél és az eljárás egyéb résztvevőjének azonosítása céljából az alábbi adatokra terjedhet ki:
 
 a) neve,
 

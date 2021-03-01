@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-140-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2013-140-00-00.12 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2013-140-00-00.13 |
 | 2021-01-07 | 2020. évi CLXVIII. törvény | 2013-140-00-00.14 |
+| 2021-03-01 | 2021. évi II. törvény | 2013-140-00-00.15 |
