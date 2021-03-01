@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-125-00-00
 | 2020-01-01 | 2019. évi CIX. törvény | 2003-125-00-00.38 |
 | 2020-04-11 | 2020. évi XIX. törvény | 2003-125-00-00.39 |
 | 2021-01-01 | 2020. évi CXXVII. törvény | 2003-125-00-00.40 |
+| 2021-03-01 | 2020. évi CXXXV. törvény | 2003-125-00-00.41 |
