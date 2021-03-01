@@ -1,6 +1,6 @@
 ## Bejelentés
 
-61. § (1) A születést – a (3) bekezdésben meghatározott kivétellel – anyakönyvezés céljából – legkésőbb az azt követő első munkanapon – az illetékes anyakönyvvezetőnél be kell jelenteni. A bejelentéssel egyidejűleg a bejelentő közli és igazolja – az anyakönyvvezető által beszerzendő okiratok kivételével – mindazokat az adatokat, amelyek rendelkezésére állnak és a születés anyakönyvezéséhez szükségesek. Születésnél a bejelentésről az 1. melléklet szerinti adattartalommal jegyzőkönyvet kell felvenni.
+61. § (1) A születést – a (3) bekezdésben meghatározott kivétellel – anyakönyvezés céljából – legkésőbb az azt követő első munkanapon – az illetékes anyakönyvvezetőnél be kell jelenteni. A bejelentéssel egyidejűleg a bejelentő közli és igazolja – az anyakönyvvezető által beszerzendő okiratok kivételével – mindazokat az adatokat, amelyek rendelkezésére állnak és a születés anyakönyvezéséhez szükségesek. Születésnél a bejelentésről a kormányrendeletben meghatározott adattartalommal jegyzőkönyvet kell felvenni.
 
 (1a) A halálesetet anyakönyvezés céljából a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv az Elektronikus Egészségügyi Szolgáltatási Tér útján – az eljárás megindításához szükséges, kormányrendeletben meghatározott adatok megküldésével – haladéktalanul bejelenti az illetékes anyakönyvvezetőnek.
 
@@ -8,7 +8,7 @@
 
 (3) Intézetben történt születés esetén az egészségügyi szolgáltató – az Elektronikus Egészségügyi Szolgáltatási Téren és az elektronikus anyakönyvi rendszeren keresztül haladéktalanul – az illetékes anyakönyvvezető felé
 
-a) bejelenti – az 1. mellékletben meghatározott adatok megküldésével – a születést,
+a) bejelenti – a kormányrendeletben meghatározott adatok megküldésével – a születést,
 
 b) továbbítja a hivatalos statisztikáról szóló törvény végrehajtásáról szóló rendeletben meghatározott, intézetben rögzített születési statisztikai adatokat,
 
