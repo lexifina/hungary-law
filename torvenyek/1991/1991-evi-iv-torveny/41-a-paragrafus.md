@@ -22,15 +22,15 @@ b) a jogelőd számára halasztást vagy részletekben történő teljesítést 
 
 (8) Az álláskeresőként való nyilvántartással, az álláskeresők ellátásával, valamint a természetes személynek nyújtott foglalkoztatást elősegítő támogatással kapcsolatos eljárás során – az 54. § (9b) bekezdésében foglaltakat kivéve – a törvényes képviselő eljárása kizárt, az ügyfélnek személyesen kell eljárnia.
 
-(9) Az e törvényben, valamint a felhatalmazása alapján kiadott miniszteri rendeletben meghatározott foglalkoztatást elősegítő támogatással, valamint az álláskeresők ellátásával kapcsolatos kérelemre induló hatósági ügyben – a (10) bekezdésben foglaltak kivételével – a kérelmező, pályázó ügyfél választása szerint a lakóhelye vagy tartózkodási helye, illetve székhelye, telephelye vagy fióktelepe szerint illetékes állami foglalkoztatási szerv jár el.
+(9) A foglalkoztatást elősegítő támogatással, valamint az álláskeresők ellátásával kapcsolatos kérelemre induló hatósági ügyben – a (10) bekezdésben foglaltak kivételével – a kérelmező, pályázó ügyfél választása szerint a lakóhelye vagy tartózkodási helye, illetve székhelye, telephelye vagy fióktelepe szerint illetékes állami foglalkoztatási szerv jár el.
 
 (10) A
 
-a) 14. § (1) bekezdés g) pontjában meghatározott személy képzésének támogatásával kapcsolatos hatósági ügyben a munkaadó telephelye szerint illetékes állami foglalkoztatási szerv,
+a)
 
-b) 16. §-ban meghatározott foglalkoztatás bővítését szolgáló támogatással, valamint a 19/B. § (3) bekezdésében meghatározott bérköltség támogatással kapcsolatos hatósági ügyben a munkaadó által foglalkoztatni kívánt személy lakóhelye, tartózkodási helye vagy ennek hiányában értesítési címe szerint illetékes állami foglalkoztatási szerv,
+b)
 
-c) 18. §-ban meghatározott munkahelyteremtés támogatásával kapcsolatos hatósági ügyben a tervezett beruházás helye szerint illetékes állami foglalkoztatási szerv,
+c)
 
 d) jogszabályban meghatározott kötelezettségét elmulasztó magán-munkaközvetítővel szemben, a közigazgatási bírság kiszabásával kapcsolatos ügyben a magán-munkaközvetítő székhelye szerinti állami foglalkoztatási szerv
 

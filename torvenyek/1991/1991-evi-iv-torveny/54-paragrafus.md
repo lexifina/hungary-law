@@ -16,7 +16,7 @@
 
 (7)
 
-(8) A külföldiek magyarországi foglalkoztatására vonatkozó szabályok megtartásának ellenőrzésére és az ennek alapján indult eljárásra a munkaügyi ellenőrzésről szóló törvény eljárási szabályait kell alkalmazni.
+(8) A külföldiek magyarországi foglalkoztatására vonatkozó szabályok megtartásának ellenőrzésére és az ennek alapján indult eljárásra a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény eljárási szabályait kell alkalmazni.
 
 (9) Az 58. § (5) bekezdése d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében – a (10)–(10c) bekezdésben foglaltak figyelembe vételével – az ügyfél
 
@@ -28,7 +28,7 @@ c) az 58. § (5) bekezdés d) pontjának 1–4. alpontjaiban bekövetkezett vál
 
 d) maga is aktívan keres munkahelyet, és
 
-e) az állami foglalkoztatási szerv által felajánlott munkaerő-piaci szolgáltatást, valamint az állami foglalkoztatási szerv által támogatott képzési lehetőséget elfogadja, illetőleg igénybe veszi,
+e) az állami foglalkoztatási szerv által felajánlott foglalkoztatást elősegítő szolgáltatást, valamint az állami foglalkoztatási szerv által támogatott képzési lehetőséget elfogadja, illetőleg igénybe veszi,
 
 f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci programban,
 
@@ -38,11 +38,11 @@ g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
 (9b) A cselekvőképtelen vagy a munkaviszonnyal összefüggő ügycsoportban, cselekvőképességében részlegesen korlátozott személy az együttműködési kötelezettségét törvényes képviselője útján teljesíti.
 
-(9c) A 13/A. §-ban foglalt munkaerőpiaci szolgáltatások igénybevétele esetén, valamint – a (9a) bekezdésben foglaltak figyelembevételével – a (9) bekezdésben foglalt együttműködési kötelezettség keretében a személyes megjelenés kötelező.
+(9c) A foglalkoztatást elősegítő szolgáltatások igénybevétele esetén, valamint – a (9a) bekezdésben foglaltak figyelembevételével – a (9) bekezdésben foglalt együttműködési kötelezettség keretében a személyes megjelenés kötelező.
 
 (10) Az álláskeresési járadékra vagy nyugdíj előtti álláskeresési segélyre jogosult vagy abban részesülő álláskereső az 58. § (5) bekezdés d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a 25. § (2) bekezdésében meghatározott megfelelő munkahelyet köteles elfogadni.
 
-(10a) A 25. életévét betöltött olyan álláskereső esetében, aki sem álláskeresési járadékra, sem nyugdíj előtti álláskeresési segélyre nem jogosult, és nem vesz részt munkaerő-piaci programban vagy nem részesül munkaerő-piaci szolgáltatásban a 25. § (2) bekezdésében foglaltakon kívül a munkahely abban az esetben is megfelelő, ha a foglalkoztatás közfoglalkoztatási jogviszonyban történik.
+(10a) A 25. életévét betöltött olyan álláskereső esetében, aki sem álláskeresési járadékra, sem nyugdíj előtti álláskeresési segélyre nem jogosult, és nem vesz részt munkaerő-piaci programban vagy nem részesül foglalkoztatást elősegítő szolgáltatásban a 25. § (2) bekezdésében foglaltakon kívül a munkahely abban az esetben is megfelelő, ha a foglalkoztatás közfoglalkoztatási jogviszonyban történik.
 
 (10b) A közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a munkahely – a 25. § (2) bekezdés d) pontjában foglaltakon kívül – akkor is megfelelő, ha a munkavégzés helye és a közfoglalkoztatott lakóhelye között naponta történő oda- és visszautazás ideje tömegközlekedési eszközzel
 
@@ -64,7 +64,7 @@ együttműködik.
 
 (12) Az állami foglalkoztatási szerv a gyermekgondozást segítő ellátásban részesülő személyt – kérelmére – a (11) bekezdésben meghatározott feltételek fennállása esetén, akkor veszi álláskeresőként nyilvántartásba, ha annak folyósítása alatt, a családok támogatásáról szóló törvény szerint keresőtevékenységet folytathat.
 
-(13) A közfoglalkoztatott a közfoglalkoztatás időtartama alatt köteles elfogadni az állami foglalkoztatási szerv által részére felajánlott, 25. § (2) bekezdése szerinti megfelelő munkahelyet, valamint a részére felajánlott, 14. § (1) bekezdése szerinti képzést.
+(13) A közfoglalkoztatott a közfoglalkoztatás időtartama alatt köteles elfogadni az állami foglalkoztatási szerv által részére felajánlott, 25. § (2) bekezdése szerinti megfelelő munkahelyet, valamint a részére felajánlott képzést.
 
 (14) Az állami foglalkoztatási szerv – külön jogszabályban meghatározott időponttól – törli az álláskeresők nyilvántartásából az álláskeresőt, ha
 

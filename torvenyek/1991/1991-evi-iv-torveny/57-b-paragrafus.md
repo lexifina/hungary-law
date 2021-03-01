@@ -20,7 +20,7 @@ af) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai v�
 
 ag) a foglalkoztatást elősegítő támogatás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatokat,
 
-b) a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. § (4) és (5) bekezdése alapján az állami foglalkoztatási szervnek átadott, és az adatbázisban nyilvántartott személyekre vonatkozó adatokat,
+b)
 
 c) a jogosult munkaerő-piaci helyzete vonatkozásában
 

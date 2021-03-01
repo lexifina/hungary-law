@@ -14,6 +14,6 @@
 
 (6) Ha a bíróság jogerősen megállapította, hogy a munkaadó a munkavállaló munkaviszonyát jogellenesen szüntette meg, a munkaadó köteles a bíróság határozatának jogerőre emelkedéséig az érintett részére kifizetett álláskeresési ellátás és annak járulékai összegét az Alap szolidaritási alaprészébe befizetni. A bíróság a jogerős határozatot az állami foglalkoztatási szervnek megküldi, amely ennek alapján határoz.
 
-(7) Az (5) bekezdésben meghatározott méltányosság szempontjából a 21. § (6) bekezdésében foglaltakat kell figyelembe venni.
+(7) Az (5) bekezdésben meghatározott méltányosság szempontjából természetes személy esetében figyelembe vehető különösen kedvezőtlen szociális helyzete, valamint az, hogy az ellátás visszafizetése a kötelezett és a háztartásában élők megélhetését súlyosan veszélyeztetné.
 
 (8) Az álláskeresési járadék, az álláskeresési segély, valamint a 32–33. § szerinti költségtérítés visszakövetelése esetén ügyleti kamat, illetve késedelmi kamat nem számítható fel.

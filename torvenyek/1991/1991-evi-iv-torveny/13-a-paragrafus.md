@@ -1,35 +1,3 @@
 ## III. Fejezet
 
-## MUNKAERŐPIACI SZOLGÁLTATÁSOK ÉS FOGLALKOZTATÁST ELŐSEGÍTŐ TÁMOGATÁSOK
-
-## Munkaerőpiaci szolgáltatások
-
-13/A. § (1) Az állami foglalkoztatási szerv a munkahelykeresést, a munkához, valamint a megfelelő munkaerőhöz jutást, továbbá a munkahely megtartást munkaerőpiaci szolgáltatásokkal is elősegíti.
-
-(2) A munkaerő-piaci szolgáltatást az állami foglalkoztatási szerv közvetlenül, illetve a nyilvántartásba vett munkaerőpiaci-szolgáltatást nyújtó szervezeteken keresztül nyújtja.
-
-(2a) A (2) bekezdésben meghatározott nyilvántartással összefüggő eljárásért igazgatási szolgáltatási díjat kell fizetni.
-
-(3) Az állami foglalkoztatási szerv az (1) bekezdésben meghatározott célokat az egyéni cselekvési tervvel is elősegíti.
-
-(4) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
-
-a) a munkaerő-piaci szolgáltatásokat nyújtó szervezetek és az általuk nyújtott szolgáltatások nyilvántartásának, valamint a nyilvántartott szervezetek ellenőrzésének szabályait,
-
-b) a munkaerő-piaci szolgáltatásokat, – ideértve az egyes munkaadói és munkavállalói csoportok számára nyújtható speciális szolgáltatásokat is –,
-
-c) a munkaerő-piaci szolgáltatások tartalmát, csoportosítását és a szolgáltatások szakmai követelményeit,
-
-d) az egyéni cselekvési tervre vonatkozó részletes szabályokat,
-
-e) a szolgáltatások igénybevételének feltételeit, valamint
-
-f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának, valamint a szolgáltatás igénybevételének biztosítása érdekében, a szolgáltatás időtartama alatt az arra rászoruló hozzátartozó gondozásával, ápolásával, továbbá gyermek (ideértve az örökbefogadott és a nevelt gyermek) felügyeletével kapcsolatban felmerült indokolt kiadás megtérítésének feltételeit és szabályait,
-
-g) az állami foglalkoztatási szerv szolgáltatásait igénybe vevő vagy kérő, álláskeresőként nem nyilvántartott személyek nyilvántartásának szabályait,
-
-h) – az adópolitikáért felelős miniszter egyetértésével – az a) pontban meghatározott nyilvántartással összefüggő eljárásért járó igazgatási szolgáltatási díj mértékét, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat,
-
-i)
-
-(5) A munkaerő-piaci programot és munkaerő-piaci szolgáltatást nyújtók szakmai támogatása a miniszter által alapított közhasznú szervezet kedvezményezett részére továbbadási kötelezettséggel átadott szakmai támogatás nyújtásával is megvalósulhat. A szakmai támogatás továbbadásáról a miniszter által alapított közhasznú szervezet a munkaerő-piaci programot és a munkaerő-piaci szolgáltatást nyújtóval szerződést köt. A szerződésben meg kell határozni a kedvezményezettet jogszabály, támogatói okirat, támogatási szerződés alapján terhelő kötelezettségek megtartását biztosító feltételeket.
+### 13/A. §

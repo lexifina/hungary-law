@@ -10,7 +10,7 @@ c) a lakcím (lakóhely, tartózkodási hely) és elérhetőség adatait,
 
 d) a foglalkozást, a munkahelyet, a munkakört (tevékenység), a munkaviszonyt,
 
-e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerő-piaci szolgáltatás megállapításához, igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatokat,
+e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a foglalkoztatást elősegítő szolgáltatás megállapításához, igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatokat,
 
 f) az iskolai végzettség, a szakképzettség megnevezését, az e képesítéseket igazoló oklevél, bizonyítvány számát, a kiállító intézmény nevét, a kiállítás keltét,
 
@@ -24,7 +24,7 @@ j) az arra vonatkozó adatokat, hogy az álláskereső korhatár előtti ellát�
 
 k) önkéntes nyilatkozat alapján a nemzetiséghez való tartozásra vonatkozó adatokat,
 
-l) az állami foglalkoztatási szerv által végzett munkaközvetítői tevékenység végzéséhez, valamint a munkaerő-piaci szolgáltatások igénybevételéhez a munkavállalással kapcsolatos személyes és szakmai kompetenciákra, körülményekre és az állami foglalkoztatási szerv, valamint a munkáltató munkaerő-tervezésére vonatkozó adatokat,
+l) az állami foglalkoztatási szerv által végzett munkaközvetítői tevékenység végzéséhez, valamint a foglalkoztatást elősegítő szolgáltatások igénybevételéhez a munkavállalással kapcsolatos személyes és szakmai kompetenciákra, körülményekre és az állami foglalkoztatási szerv, valamint a munkáltató munkaerő-tervezésére vonatkozó adatokat,
 
 m) a cselekvőképtelen vagy cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott személy törvényes képviselőjének természetes személyazonosító adatait, lakóhelyét és értesítési címét,
 
@@ -62,7 +62,7 @@ p) az arra vonatkozó adatokat, hogy várható-e a munkakör betöltéséhez kap
 
 q) az arra vonatkozó adatokat, hogy a munkáltató kívánja-e az állást külön törvényben meghatározott szabad mozgás és tartózkodás jogával rendelkező személy figyelmébe ajánlani,
 
-r) a foglalkoztatást elősegítő támogatások, valamint a támogatások és munkaerő-piaci szolgáltatások keretében nyújtott juttatások vonatkozásában a támogatás megállapítása, kifizetése céljából a bérbeadó személy természetes személyazonosító adatait, bankszámlaszámát, valamint adószámát.
+r) a foglalkoztatást elősegítő támogatások, valamint a támogatások és foglalkoztatást elősegítő szolgáltatások keretében nyújtott juttatások vonatkozásában a támogatás megállapítása, kifizetése céljából a bérbeadó személy természetes személyazonosító adatait, bankszámlaszámát, valamint adószámát.
 
 (2) A munkaügyi adatszolgáltatásra kötelezett munkaadó e tevékenységével összefüggésben a külön jogszabályban meghatározott TAJ számot alkalmazhatja.
 
@@ -76,9 +76,9 @@ a) a nyilvántartásba vétellel kapcsolatos feladatai ellátása során az (1) 
 
 b) az álláskeresési ellátás, valamint a közfoglalkoztatottak részére nyújtandó utazási költségtérítés megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai végzése során az (1) bekezdés a)–e) és m) pontjában meghatározott adatokat,
 
-c) a foglalkoztatást elősegítő támogatások, valamint a támogatások és munkaerő-piaci szolgáltatások keretében nyújtott juttatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
+c) a foglalkoztatást elősegítő támogatások, valamint a támogatások és foglalkoztatást elősegítő szolgáltatások keretében nyújtott juttatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
 
-d) a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
+d) a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
 
 e) a munkaadó munkaerőigény bejelentésével kapcsolatos feladatai ellátása során az (1) bekezdés n) pontjában meghatározott adatokat
 
@@ -86,11 +86,11 @@ kezeli.
 
 (2d) A kormányhivatal
 
-a) a foglalkoztatást elősegítő támogatások, valamint a munkaerő-piaci szolgáltatásokkal kapcsolatos támogatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
+a) a foglalkoztatást elősegítő támogatások, valamint a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos támogatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
 
 b) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben a foglalkoztató által benyújtott munkaerőigények befogadása során az (1) bekezdés n) pontjában meghatározott adatokat,
 
-c) a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
+c) a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
 
 d) a munkaerő-piaci ellenőrzése során a tényállás tisztázásához elengedhetetlenül szükséges személyes adatokat, így különösen az érintettek vonatkozásában a természetes személyazonosító adatokat, és a szakképzettségre vonatkozó adatokat,
 
@@ -148,8 +148,8 @@ szerinti adatok igénylésére jogosultak.
 
 (11)
 
-(12) Ha az állami foglalkoztatási szerv a munkaerő-piaci szolgáltatást a 13/A. § (2) bekezdése szerinti nyilvántartásba vett munkaerő-piaci szolgáltatást nyújtó szervezeten keresztül nyújtja, akkor e szervezet e feladatának ellátásához szükséges (2c) bekezdés d) pontja szerinti adatokat kezeli.
+(12) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő szolgáltatást nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást nyújtó szervezeten keresztül nyújtja, akkor e szervezet e feladatának ellátásához szükséges (2c) bekezdés d) pontja szerinti adatokat kezeli.
 
 (13) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő támogatást az Európai Szociális Alap által finanszírozott intézkedések keretében nyújtja, akkor a támogatáskezelő szervezet e feladat ellátásához a támogatással érintett természetes személyek (1) bekezdés a) és i) pontja, n) pont nc) alpontja, valamint r) pontja szerinti adatait kezeli.
 
-(14) Az állami foglalkoztatási szerv a foglalkoztatást elősegítő képzési támogatás nyújtása céljából a képző intézménynek átadja a képzésen részt vevő személy (1) bekezdés a) és c) pontja szerinti adatait.
+(14)
