@@ -26,7 +26,7 @@ a) magánútlevél érvényességi ideje egy év,
 
 b) második magánútlevél és hivatalos útlevél érvényességi ideje legfeljebb egy év.
 
-(6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza.
+(6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállítás okát, az utazás célországát, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza. A hivatalból kiállított ideiglenes magánútlevél az állampolgár aláírása nélkül is érvényes.
 
 (7) A hivatalos útlevél adattartalma kiegészül a használatára jogosult személy diplomáciai rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
 

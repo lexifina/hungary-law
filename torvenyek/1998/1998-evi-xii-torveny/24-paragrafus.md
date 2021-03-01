@@ -32,7 +32,7 @@ m) az eljárás illetékének és igazgatási szolgáltatási pótdíjának az �
 
 n) az okmány kézbesítésének, illetve átvételének idejét, helyét, az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
 
-o) az ideiglenes magánútlevél esetében az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását.
+o) az ideiglenes magánútlevél esetében az ellenőrző sorszámot, a kiállítás okát és az utazás célországát.
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
