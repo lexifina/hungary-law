@@ -1,3 +1,3 @@
-1. melléklet a 320/2014. (XII. 13.) Korm. rendelethez[^100]
+1. melléklet a 320/2014. (XII. 13.) Korm. rendelethez[^111]
 
-[^100]: Az 1. mellékletet a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés c) pontja hatályon kívül helyezte.
+[^111]: Az 1. mellékletet a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés c) pontja hatályon kívül helyezte.

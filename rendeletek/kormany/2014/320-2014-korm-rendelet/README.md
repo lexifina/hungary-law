@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-320-20-
 | 2020-07-17 | 2014-320-20-22.15 | 337/2020. (VII. 9.) Korm. rendelet |
 | 2020-07-30 | 2014-320-20-22.16 | 337/2020. (VII. 9.) Korm. rendelet |
 | 2021-01-01 | 2014-320-20-22.17 | 171/2017. (VI. 29.) Korm. rendelet |
+| 2021-03-01 | 2014-320-20-22.18 | 101/2021. (II. 27.) Korm. rendelet |
