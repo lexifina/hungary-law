@@ -1,3 +1,3 @@
-225. § (1) Ha a duális képzőhely a foglalkozási napló vezetésének és ellenőrzésének rendjét megszegi, vele szemben a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara közigazgatási bírságot szab ki.
+225. §[^62]
 
-(2) Ha a duális képzőhely a foglalkozási napló vezetését a bírság kiszabását követően ismételten elmulasztja, a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara a duális képzőhelyet három évre eltilthatja a szakirányú oktatás folytatásától. Ha a foglalkozási napló vezetését a duális képzőhely csak valamely telephelyén mulasztotta el, az eltiltás csak a mulasztással érintett telephely tekintetében áll fenn.
+[^62]: A 225. §-t a 95/2021. (II. 27.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

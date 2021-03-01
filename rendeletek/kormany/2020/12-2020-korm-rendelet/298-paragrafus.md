@@ -8,7 +8,7 @@
 
 ## 98. Az Szkt. 96. §-ához
 
-298. § (1)[^55] A szakképzésért felelős miniszter
+298. § (1)[^68] A szakképzésért felelős miniszter
 
 a) a szakképzés szakmai és módszertani fejlesztése keretében
 
@@ -40,7 +40,7 @@ d) a szakképzés együttműködési rendszerével összefüggésben fejleszti a
 
 (2) A szakképzésért felelős miniszter felkérésére a Kormány adott ágazatért felelős tagja meghatározza a szakmai vizsga központi vizsgatevékenysége és interaktív vizsgatevékenysége tartalmát, és kidolgozza azok értékelési útmutatóit és egyéb dokumentumait.
 
-(3)[^56] A szakképzésért felelős miniszter az Szkt.
+(3)[^69] A szakképzésért felelős miniszter az Szkt.
 
 a) 96. § (1) bekezdés e) pontjában és azzal összefüggésben
 
@@ -48,15 +48,18 @@ aa) az (1) bekezdés b) pont ba) alpontjában meghatározott feladatot az IKK In
 
 ab) az (1) bekezdés b) pont bb)–be) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-b) 96. § g) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
+b)[^70] 96. § (1) bekezdés g) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
 
-c) 96. § h) pontjában és azzal összefüggésben az (1) bekezdés a) pont ab) alpontjában és d) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
+c)[^71] 96. § (1) bekezdés h) pontjában és azzal összefüggésben az (1) bekezdés a) pont ab) alpontjában és d) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
 
-d) 96. § i) pontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
+d)[^72] 96. § (1) bekezdés i) pontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
 e) 125. § (10) bekezdésében meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság
 
 útján végzi. E feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt.
 
-[^55]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^56]: A 298. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^68]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^69]: A 298. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^70]: A 298. § (3) bekezdés b) pontja a 95/2021. (II. 27.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
+[^71]: A 298. § (3) bekezdés c) pontja a 95/2021. (II. 27.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
+[^72]: A 298. § (3) bekezdés d) pontja a 95/2021. (II. 27.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.

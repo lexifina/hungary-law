@@ -1,4 +1,4 @@
-93. § (1)[^33] A fenntartó a fenntartói megállapodás felülvizsgálatát – a területileg illetékes gazdasági kamara tájékoztatása mellett – a fenntartói megállapodásban részes feleknél kezdeményezi, ha
+93. § (1)[^39] A fenntartó a fenntartói megállapodás felülvizsgálatát – a területileg illetékes gazdasági kamara tájékoztatása mellett – a fenntartói megállapodásban részes feleknél kezdeményezi, ha
 
 a) az abban rögzített adatokban – a tanulói létszám változása kivételével – vagy a fenntartói megállapodás megkötésének alapjául szolgáló valamely feltétel tekintetében változás következett be, a változás bekövetkeztétől vagy
 
@@ -16,4 +16,4 @@ c) az elindult szakmai oktatás mellett új szakmai oktatást kíván indítani.
 
 (3) A fenntartói megállapodás módosítására a fenntartói megállapodás megkötésére vonatkozó rendelkezéseket kell alkalmazni.
 
-[^33]: A 93. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^39]: A 93. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 10. §-ával megállapított szöveg.

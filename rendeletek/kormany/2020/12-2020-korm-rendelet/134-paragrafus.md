@@ -28,4 +28,6 @@ kell rendelkeznie.
 
 (6) Idegen nyelv, nemzetiségi nyelv oktatására alkalmazható az is, aki főiskolai szintű nyelvtanári vagy idegen nyelv- és irodalom szakos tanári felsőfokú végzettséggel és szakképzettséggel rendelkezik. Az anyanyelvi oktató a küldő állam vagy államközi megállapodásban meghatározott közvetítő szervezet olyan igazolása alapján vehet rész az idegen nyelv, nemzetiségi nyelv oktatásában, amely a középfokú iskolában való oktatásra jogosító felsőfokú oklevéllel való rendelkezésének tényét igazolja.
 
-(7) A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 3. mellékletét kell alkalmazni.
+(7)[^49] A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletét kell alkalmazni.
+
+[^49]: A 134. § (7) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.

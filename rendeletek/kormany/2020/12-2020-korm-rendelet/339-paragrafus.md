@@ -1,4 +1,4 @@
-339. § (1)[^81] A foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap képzési alaprésze terhére nyújtott költségvetési támogatásra az Ávr. VI. Fejezetét az e §-ban meghatározott eltérésekkel kell alkalmazni.
+339. § (1)[^95] A foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap képzési alaprésze terhére nyújtott költségvetési támogatásra az Ávr. VI. Fejezetét az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) A támogatási kérelem az Ávr. 69. § (1) bekezdésében és 75. § (2) bekezdésében foglaltakat tartalmazza. A támogatási szerződés megkötéséhez, illetve a támogatói okirat kiadásához a támogatási kérelemhez csatolt nyilatkozatokat, dokumentumokat csak akkor kell újra benyújtani, ha az a támogatási kérelem benyújtása óta megváltozott.
 
@@ -12,4 +12,4 @@
 
 (7) A költségek felmerülését igazoló, eredeti számviteli bizonylatokat – abban az esetben is, ha a beszámolóhoz nem kell mellékelni – a kedvezményezett köteles záradékkal ellátni, amelyben jeleznie kell, hogy a számviteli bizonylaton szereplő összegből mekkora összeget számolt el a támogatásból.
 
-[^81]: A 339. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 50. pontja szerint módosított szöveg.
+[^95]: A 339. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 50. pontja szerint módosított szöveg.

@@ -70,6 +70,6 @@ d) a gyakorlati idő és más feltétel előírását a megszerezhető kompetenc
 
 (3) A programkövetelmény nem vehető nyilvántartásba, ha a programkövetelmény alapján megszerezhető szakképesítés szakmai kompetenciái a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott kompetenciáinak több mint harminc százalékával azonos vagy hasonló, kivéve, ha az a szakmához kapcsolódó szakmai kompetenciák magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek megszerzésére irányul.
 
-(4)[^6] A (3) bekezdésben foglaltaktól eltérően – az ágazatért felelős miniszter kezdeményezésére – a szakképzésért felelős miniszter a programkövetelményt indokolt esetben akkor is nyilvántartásba veheti, ha a szakmajegyzékben szereplő szakma képzési és kimeneti követelményében meghatározott szakmai kompetenciák vonatkozásában harminc százaléknál nagyobb azonosságot vagy hasonlóságot mutatnak.
+(4)[^8] A (3) bekezdésben foglaltaktól eltérően – az ágazatért felelős miniszter kezdeményezésére – a szakképzésért felelős miniszter a programkövetelményt indokolt esetben akkor is nyilvántartásba veheti, ha a szakmajegyzékben szereplő szakma képzési és kimeneti követelményében meghatározott szakmai kompetenciák vonatkozásában harminc százaléknál nagyobb azonosságot vagy hasonlóságot mutatnak.
 
-[^6]: A 18. § (4) bekezdését a 223/2020. (V. 22.) Korm. rendelet 3. §-a iktatta be.
+[^8]: A 18. § (4) bekezdését a 223/2020. (V. 22.) Korm. rendelet 3. §-a iktatta be.

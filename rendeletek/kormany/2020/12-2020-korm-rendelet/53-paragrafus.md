@@ -12,4 +12,6 @@ b) alapfokú végzettséggel rendelkezik és a 16. életévét betöltötte.
 
 (4) A tanuló, illetve a képzésben részt vevő kiskorú személy műhelyiskolában való részvétele az Szkt. 71. § (2) bekezdésében meghatározott esetben nem utasítható el.
 
-(5) A műhelyiskolában a tanuló, illetve a képzésben részt vevő személy a szakképző iskolai tanulót az ágazati alapoktatásban megillető ösztöndíj felére jogosult.
+(5)[^13] A műhelyiskolában a tanuló a szakképző iskolai tanulót az ágazati alapoktatásban megillető ösztöndíj felére jogosult.
+
+[^13]: Az 53. § (5) bekezdése a 95/2021. (II. 27.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

@@ -46,6 +46,6 @@ lehet.
 
 (5) Az (1) és (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a regisztrációs és tanulmányi alaprendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
 
-(6)[^7] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelyét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
+(6)[^9] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelyét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
 
-[^7]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
+[^9]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.

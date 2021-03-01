@@ -14,7 +14,7 @@
 
 6. a szakmai vizsga eredményét,
 
-7. a megszerzett szakma azonosító számának és megnevezésének megjelölésével tájékoztatást arról, hogy az oklevél, illetve a szakmai bizonyítvány melyik szakma megszerzését igazolja,
+7.[^11] a megszerzett szakma azonosító számának, megnevezésének és szakmairányának megjelölésével tájékoztatást arról, hogy az oklevél, illetve a szakmai bizonyítvány melyik szakma megszerzését igazolja,
 
 8. a megszerzett szakma Európai Képesítési Keretrendszer, Magyar Képesítési Keretrendszer és Digitális Kompetencia Keretrendszer szerinti szintjének meghatározására vonatkozó megjelölését,
 
@@ -25,3 +25,5 @@
 (3) Csak olyan oklevél, illetve szakmai bizonyítvány használható, amely az aláíráshoz kapcsolódóan Magyarország címerét előre nyomott képként tartalmazza.
 
 (4) Az oklevelet, illetve a szakmai bizonyítványt a szakmai vizsga jegyzője a törzslap alapján – a törzslapon szereplő adatokkal egyezően – tölti ki, és azt az akkreditált vizsgaközpont vezetője írja alá.
+
+[^11]: A 34. § (2) bekezdés 7. pontja a 95/2021. (II. 27.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

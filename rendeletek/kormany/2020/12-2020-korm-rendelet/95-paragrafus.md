@@ -16,7 +16,7 @@
 
 5. a szervezeten belüli kapcsolattartás rendjét, formáját, a vezetők közötti feladatmegosztást, a kiadmányozás és a képviselet szabályait,
 
-6.[^35] az igazgató vagy az igazgatóhelyettes akadályoztatása, érintettsége, illetve az igazgatói és az igazgatóhelyettesi tisztség betöltetlensége esetén a helyettesítés rendjét,
+6.[^41] az igazgató vagy az igazgatóhelyettes akadályoztatása, érintettsége, illetve az igazgatói és az igazgatóhelyettesi tisztség betöltetlensége esetén a helyettesítés rendjét,
 
 7. a vezetők és a képzési tanács közötti kapcsolattartás formáját, rendjét,
 
@@ -60,11 +60,11 @@
 
 6. a szakképző intézményi könyvtár szervezeti és működési szabályzatát,
 
-7.[^36] a munkáltatói jogkörgyakorlás rendjét.
+7.[^42] a munkáltatói jogkörgyakorlás rendjét.
 
 (3) A szakképző intézmény szervezeti és működési szabályzatában meghatározhatók a szakképző intézmény biztonságos működését biztosító olyan szabályok, amelyek megtartása kötelező a szakképző intézmény területén tartózkodóknak és a szakképző intézménnyel kapcsolatban nem álló más személyeknek.
 
 (4) A szakképzési centrum szervezeti és működési szabályzata tartalmazza a működés közös szabályait és – szakképző intézményenként külön-külön – a szakképzési centrum részeként működő szakképző intézmények működését meghatározó előírásokat.
 
-[^35]: A 95. § (1) bekezdés 6. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
-[^36]: A 95. § (2) bekezdés 7. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 17. pontja szerint módosított szöveg.
+[^41]: A 95. § (1) bekezdés 6. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
+[^42]: A 95. § (2) bekezdés 7. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 17. pontja szerint módosított szöveg.
