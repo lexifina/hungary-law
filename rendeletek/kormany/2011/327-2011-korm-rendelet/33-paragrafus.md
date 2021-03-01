@@ -4,5 +4,8 @@
 
 (2) Ha az ellátási összeg felülvizsgálata során megállapítást nyer, hogy az Mmtv. 2021. január 1-jétől hatályos 1. § (2) bekezdés 3. pontjában foglalt rendelkezés alkalmazásával megállapítható ellátási összeg a kérelmező számára kedvezőbb, részére a magasabb ellátási összeget kell megállapítani. Ebben az esetben a megváltozott munkaképességű személy részére az így megállapított ellátási összeg és a ténylegesen kifizetett ellátás különbözete 2021. január 1-jéig visszamenőlegesen is jár.
 
+(3)[^177] Ahol e rendelet munkaerőpiaci szolgáltatást említ, ott 2021. március 1-je után a foglalkoztatást elősegítő szolgáltatást is érteni kell.
+
 [^175]: A 32. §-t a 402/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
 [^176]: A 33. §-t a 612/2020. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^177]: A 33. § (3) bekezdését a 101/2021. (II. 27.) Korm. rendelet 4. §-a iktatta be.
