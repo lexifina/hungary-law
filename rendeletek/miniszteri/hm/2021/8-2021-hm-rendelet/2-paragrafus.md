@@ -1,0 +1,7 @@
+## 1. § A honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: R1.) a következő 3/A. §-sal egészül ki:
+
+## „3/A. § (1) Az MH EK állománya esetén az állományilletékes parancsnoki munkáltatói jogköröket – a (2) bekezdés és az MH EK alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység állománya kivételével – az MH EK parancsnoka gyakorolja.
+
+## (2) Az MH EK-nak az MH PK intézkedésében meghatározott egyes telephelyein szolgálatot teljesítő állománya tekintetében az MH EK állományába tartozó, a szolgálatteljesítési hely szerinti szervezeti egység vezetője gyakorolja az állományilletékes parancsnoki munkáltatói jogköröket, ide nem értve a szolgálati viszony létesítésére, módosítására, megszüntetésére, az illetménymegállapításra vonatkozó, továbbá a fegyelmi, a méltatlansági és a kártérítési eljárással kapcsolatos állományilletékes parancsnoki munkáltatói jogköröket.
+
+## (3) Az (1) bekezdés szerinti, valamint az MH EK-nak a HM és a miniszter közvetlen alárendeltségébe tartozó szervezet székhelyén lévő telephelyén szolgálatot teljesítő állományára vonatkozó munkáltatói döntéseket az MH EK személyügyi szerve, a (2) bekezdés szerinti munkáltatói döntéseket az MH EK-nak az MH PK intézkedésében meghatározott telephelyével megegyező szolgálatteljesítési hely szerinti honvédségi szervezet személyügyi szerve készíti elő.”
