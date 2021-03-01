@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-178-00-00
 | 2021-01-03 | 2010. évi CXXX. törvény | 2020-178-00-00.3 |
 | 2021-01-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-178-00-00.4 |
 | 2021-01-23 | 2010. évi CXXX. törvény | 2020-178-00-00.5 |
+| 2021-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-178-00-00.6 |

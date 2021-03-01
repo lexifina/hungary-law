@@ -6,22 +6,22 @@ b)
 
 c)
 
-d)
+d) 34. § (3) bekezdésében és 37. § (1) bekezdésében az „az NFI” szövegrész helyébe az „a 35. § (9) bekezdése szerinti gazdasági társaság”,
 
-e)
+e) 35. § (1) bekezdésében az „Az NFI” szövegrészek helyébe az „A (9) bekezdés szerinti gazdasági társaság”,
 
-f)
+f) 35. § (2) és (7) bekezdésében az „Az NFI” szövegrész helyébe az „A (9) bekezdés szerinti gazdasági társaság”,
 
-g)
+g) 35. § (2) bekezdésében az „az NFI-nél” szövegrészek helyébe az „a (9) bekezdés szerinti gazdasági társaságnál”,
 
-h)
+h) 35. § (3) és (4) bekezdésében az „az NFI-nél” szövegrész helyébe az „a (9) bekezdés szerinti gazdasági társaságnál”,
 
-i)
+i) 35. § (2), (4) és (5) bekezdésében az „az NFI” szövegrész helyébe az „a (9) bekezdés szerinti gazdasági társaság”,
 
-j)
+j) 35. § (7) bekezdésében az „Az NFI-t” szövegrész helyébe az „A (9) bekezdés szerinti gazdasági társaságot”,
 
-k)
+k) 35. § (9) bekezdésében az „NFI erre kijelölt szervezeti egysége” szövegrész helyébe az „NFI tulajdonában álló gazdasági társaság”,
 
-l)
+l) 37. § (2) bekezdés c) pontjában az „az NFI-t” szövegrész helyébe az „a 35. § (9) bekezdése szerinti gazdasági társaságot”
 
 szöveg lép.
