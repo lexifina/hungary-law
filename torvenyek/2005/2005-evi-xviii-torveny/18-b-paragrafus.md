@@ -1,1 +1,3 @@
-18/B. § Az engedélyes könyvvizsgálója a beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás tevékenységei közötti keresztfinanszírozás-mentességet.
+18/B. § (1) Az engedélyes könyvvizsgálója a beszámolóra vonatkozó független könyvvizsgálói jelentésében nyilatkozik az engedélyes által kidolgozott számviteli szétválasztási szabályzat e törvény előírásainak való megfelelőségéről.
+
+(2) Az engedélyes könyvvizsgálója a beszámolóra vonatkozó független könyvvizsgálói jelentésében külön véleményt fogalmaz meg arról, hogy a beszámoló kiegészítő mellékletében bemutatott, tevékenységenként szétválasztott mérleg és eredménykimutatás a számvitelről szóló törvény előírásaival, valamint az engedélyes számviteli szétválasztási szabályzatában foglaltakkal összhangban áll.

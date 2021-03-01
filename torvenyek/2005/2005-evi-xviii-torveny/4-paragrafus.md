@@ -40,4 +40,6 @@ g) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezt
 
 (4) Közigazgatási perben nincs helye a keresetlevél halasztó hatálya elrendelésének, ha a Hivatal határozatában a távhőszolgáltatási támogatás igénybevételének jogszerűsége, engedélyes kijelölése vagy engedélyének visszavonása tárgyában döntött.
 
+(4a) A Hivatal e törvény szerinti hatáskörében hozott határozataival szembeni közigazgatási perben hozott elsőfokú ítélet ellen fellebbezésnek van helye.
+
 (5) A Hivatal véglegessé vált határozatait – a személyes és védett adatok kivételével – a honlapján közzéteszi.
