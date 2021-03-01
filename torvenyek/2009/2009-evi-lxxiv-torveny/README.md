@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-74-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2009-74-00-00.11 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2009-74-00-00.12 |
 | 2020-07-01 | 2020. évi XXX. törvény | 2009-74-00-00.13 |
+| 2021-03-01 | 2020. évi CXXXV. törvény | 2009-74-00-00.14 |
