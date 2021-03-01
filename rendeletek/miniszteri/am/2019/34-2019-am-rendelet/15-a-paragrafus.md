@@ -1,3 +1,0 @@
-15/A. §[^13] (1) E rendeletnek az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2020. évi finanszírozásának szabályairól szóló 32/2020. (VI. 26.) AM rendelettel [a továbbiakban: 32/2020. (VI. 26.) AM rendelet] megállapított 8. § (1) bekezdésében és (3) bekezdés b) pontjában, 9. § (1), (2) bekezdésében és (3) bekezdés a) pontjában meghatározott költségekre vonatkozóan a NÉBIH 2020. július 1-jétől 2020. július 15-éig pénzügyi hozzájárulás iránti kérelmet nyújthat be az 5. § (1) bekezdésében foglaltak szerint.
-
-[^13]: A 15/A. §-t a 32/2020. (VI. 26.) AM rendelet 17. § (1) bekezdése iktatta be.
