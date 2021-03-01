@@ -56,29 +56,11 @@ d) szigorúan a célok eléréséhez szükséges mennyiségben;”
 
 „22a. helyes gyakorlat: a legjobb elérhető technika, ennek hiányában olyan műszaki megoldás, amely megfelelő, erőforrás-takarékos, környezetkímélő, költséghatékony, korszerű, és eredményes;”
 
-(9) A Ht. 2. § (1) bekezdése a következő 26a–26d. ponttal egészül ki:
+(9)
 
-(E törvény alkalmazásában)
+(10)
 
-„26a. hulladékgazdálkodási eszközök: a hulladékgazdálkodási tevékenység ellátását szolgáló és ahhoz bármilyen jogcímen használt vagyon és vagyoni értékű jogok;
-
-26b. hulladékgazdálkodási intézményi résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó települési hulladékának, kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékek hulladékának, a környezetvédelmi termékdíjas termék hulladékának és a visszaváltási díjas rendszer hulladékának az átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve az ezek által érintett hulladékgazdálkodási létesítmények fenntartását és üzemeltetését, továbbá az ilyen hulladékokra létrehozott kiterjesztett gyártói felelősségi rendszerek 53/A. § (4) bekezdésében meghatározott kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezeti feladatainak ellátását, valamint a kötelező visszaváltási díjas rendszer működtetését;
-
-26c. hulladékgazdálkodási közszolgáltatási résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó települési vegyes és elkülönítetten gyűjtött hulladékának – ide nem értve a gazdálkodó szervezet ingatlanhasználó háztartási hulladékhoz hasonló hulladék részét képező elkülönítetten gyűjtött hulladékát –, valamint a természetes személy ingatlanhasználó lomtalanítás körébe tartozó lomhulladékának átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását és üzemeltetését;
-
-26d. hulladékgazdálkodási tevékenység: a hulladékgazdálkodás körébe tartozó tevékenységek összessége;”
-
-(10) A Ht. 2. § (1) bekezdés 27b. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„27b. állami hulladékgazdálkodási közfeladat: együttesen a hulladékgazdálkodási intézményi résztevékenység és a hulladékgazdálkodási közszolgáltatási résztevékenység;”
-
-(11) A Ht. 2. § (1) bekezdése a következő 33a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„33a. indokolt költség: jogszabálynak vagy engedélynek megfelelően az engedélyköteles tevékenység, illetve az állami hulladékgazdálkodási közfeladat folyamatos és biztonságos ellátásához, valamint a hulladékgazdálkodási tevékenységet végző gazdálkodó szervezet működéséhez ténylegesen szükséges költség, beleértve a tőkeköltséget is;”
+(11)
 
 (12) A Ht. 2. § (1) bekezdés 36a. pontja helyébe a következő rendelkezés lép, és a Ht. 2. § (1) bekezdése a következő 36b. és 36c. ponttal egészül ki:
 
@@ -90,23 +72,7 @@ d) szigorúan a célok eléréséhez szükséges mennyiségben;”
 
 36c. közszolgáltatási terület: az Országos Hulladékgazdálkodási Közszolgáltatási Terv által meghatározott olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyre vonatkozóan a települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést kötött;”
 
-(13) A Ht. 2. § (1) bekezdés 36c. pontja helyébe a következő rendelkezés lép, és a Ht. 2. § (1) bekezdése a következő 36d–36i. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„36c. kompenzáció: az eredeti hulladéktermelő gazdálkodó szervezet részére pénzben kifejezhető értékkel rendelkező, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladékának átadásáért fizetett ellenérték;
-
-36d. koncessziós társaság: a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Konctv.) 20. § (1) bekezdésében meghatározott, a koncesszor által, annak részvételével alapított gazdasági társaság;
-
-36e. koncessziós terület: az ország egész területe, amelyre vonatkozóan a koncesszor a koncesszió tárgyát képező hulladékgazdálkodási résztevékenységre vonatkozó koncessziós szerződést kötött;
-
-36f. koncesszor: a hulladékgazdálkodási koncessziós jogosultság átengedése tekintetében az állam által lefolytatott, jogszabályban meghatározott nyilvános kiválasztási eljárás nyertes ajánlattevője, a koncesszió jogosultja;
-
-36g. koncesszori alvállalkozó: azok az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozások, amelyek a koncesszorral, illetve a koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat ellátásában történő közreműködés tárgyában kötött hatályos szerződéssel rendelkeznek;
-
-36h. koncesszori alvállalkozói nyilvántartás: a koncesszori alvállalkozókról a hulladékgazdálkodási hatóság által vezetett nyilvántartás;
-
-36i. közszolgáltatási terület: az Országos Hulladékgazdálkodási Közszolgáltatási Terv által meghatározott olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyre vonatkozóan az önkormányzat hulladékgazdálkodási közszolgáltatási szerződést kötött;”
+(13)
 
 (14) A Ht. 2. § (1) bekezdése a következő 38b. ponttal egészül ki:
 
@@ -132,17 +98,9 @@ d) szigorúan a célok eléréséhez szükséges mennyiségben;”
 
 „43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló hulladék, amely nem foglalja magában a termelésből, a mezőgazdaságból, az erdészetből, a halászatból származó hulladékot, a nem közművel összegyűjtött háztartási szennyvizet, a szennyvízhálózatból és a szennyvízkezelő művekből származó hulladékot, így különösen a szennyvíziszapot, továbbá az elhasználódott járműveket, és az építési-bontási hulladékot;”
 
-(18) A Ht. 2. § (1) bekezdése a következő 49a. ponttal egészül ki:
+(18)
 
-(E törvény alkalmazásában)
-
-„49a. visszaváltási díj: kormányrendeletben meghatározott termékek visszafogadásának, ezáltal újrahasználatának vagy az azokból képződött hulladékok gyűjtésének ösztönzése érdekében a termék forgalomba hozatala során felszámított díj, amely a termék vagy hulladéka visszaváltásakor visszafizetésre kerül a visszaváltó részére;”
-
-(19) A Ht. 2. § (1) bekezdése a következő 49b. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„49b. visszaváltó berendezés: a visszaváltási díjat és a visszaváltási díjas termék visszaváltását biztosító eszköz és berendezés;”
+(19)
 
 (20) A Ht. 2. § (1) bekezdése a következő 50. ponttal egészül ki:
 

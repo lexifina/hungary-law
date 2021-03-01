@@ -22,6 +22,6 @@ j) 113. § (1) bekezdésében az „egyablakos kapacitásértékesítő” szöv
 
 k) 123. § (7a) bekezdésében az „emelkedésétől számított” szövegrész helyébe az „emelkedésétől, vagy ha a cégjogi esemény később hatályosul, annak hatályosulásától számított” szöveg,
 
-l) 129. § (1) bekezdésében a „0,075%” szövegrészek helyébe a „0,085%” szöveg
+l)
 
 lép.

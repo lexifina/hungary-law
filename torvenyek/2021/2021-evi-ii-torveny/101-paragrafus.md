@@ -33,11 +33,3 @@ a) 29. § (9) bekezdése – a Ht. 2. § (1) bekezdés 26b. pontját érintően 
 b) 38. § (2) bekezdése – a Ht. 18/B. § (3) bekezdését érintően –, 49. § (1) bekezdése – a Ht. 31. § (2) bekezdését érintően – és 57. § (1) bekezdése, valamint 62. §-a – a Ht. 53/A. § (3), (7) és 53/H. § (2) bekezdését érintően – tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése
 
 szerinti bejelentése megtörtént.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

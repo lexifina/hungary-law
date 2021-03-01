@@ -1,6 +1,6 @@
 8. § A Tszt.
 
-a) 5. § (1) bekezdésében a „0,075%” szövegrészek helyébe a „0,085%” szöveg,
+a)
 
 b) 18/A. § (2) bekezdésében a „köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni” szövegrész helyébe az „– a számviteli politika részeként – olyan számviteli szétválasztási szabályzatot dolgoz ki, és az egyes tevékenységeire olyan elkülönült számviteli nyilvántartást vezet” szöveg,
 

@@ -1,8 +1,4 @@
-85. § (1) A Ht. 88. § (1) bekezdés 9. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:)
-
-„9. a letéti díj, valamint a visszaváltási díj megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal és a visszaváltási díjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;”
+85. § (1)
 
 (2) A Ht. 88. § (1) bekezdés 19. pontja helyébe a következő rendelkezés lép:
 
@@ -32,15 +28,7 @@
 
 42. a minőségvédelmi bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletes szabályait.”
 
-(5) A Ht. 88. § (1) bekezdése a következő 43–45. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:)
-
-„43. a koncessziós társaság és a Koordináló szerv együttműködésére vonatkozó részletes szabályokat;
-
-44. a 92/H. § (2) és (5) bekezdésében meghatározott kártalanítás feltételeit és megállapításának rendjét;
-
-45. a hulladékgazdálkodási hatóság által vezetett koncesszori alvállalkozói nyilvántartás tartalmával és vezetésével kapcsolatos részletes szabályokat.”
+(5)
 
 (6) A Ht. 88. §-a a következő (1a) bekezdéssel egészül ki:
 
@@ -68,32 +56,8 @@ miniszter, hogy)
 
 (rendeletben állapítsa meg.)
 
-(10) A Ht. 88. § (3) bekezdés b) pontja a következő bi) alponttal egészül ki:
+(10)
 
-(Felhatalmazást kap:
+(11)
 
-miniszter, hogy)
-
-„bi) a gördülő fejlesztési terv részletes tartalmi és formai követelményeit,”
-
-(rendeletben állapítsa meg.)
-
-(11) A Ht. 88. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Felhatalmazást kap a Hivatal elnöke, hogy
-
-a) a 18/B. § (3) bekezdésében és a 18/D. § (1) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét,
-
-b) az 53/B. § (7) bekezdés d) pontjában meghatározott érték meghatározásának szempontrendszerét,
-
-c) az 53/N. §-ban előírt indokolt költségek meghatározására, valamint szabályozására vonatkozó alapelveket és keretszabályokat, továbbá az indokolt költség mértékét
-
-rendeletben állapítsa meg.”
-
-(12) A Ht. 88. § (3a) bekezdése a következő d) ponttal egészül ki:
-
-(Felhatalmazást kap a Hivatal elnöke, hogy)
-
-„d) a kompenzáció összegének Hivatal általi meghatározásának keretszabályait, az így meghatározott kompenzáció megfizetésének módját, továbbá a kompenzáció meghatározására irányuló kérelem tartalmi követelményeit és a részletes kiegészítő eljárási szabályokat”
-
-(rendeletben állapítsa meg.)
+(12)

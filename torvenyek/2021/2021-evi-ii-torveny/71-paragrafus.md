@@ -18,6 +18,4 @@ e) megőrzi az e törvény hatálya alá tartozó hulladék származási helyén
 
 f) a hulladékstátusszal rendelkező terméket a forgalomból kivonja, visszahívja, valamint egyidejűleg tájékoztatja az hulladékgazdálkodási hatóságot a megtett intézkedésről, okáról és eredményéről, ha a hulladék termék nem felel meg az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban vagy a jogszabályban foglalt előírásoknak.”
 
-(2) A Ht. 68. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A hulladéklerakási járulékot a járulékfizetésre kötelezett negyedévente, a tárgynegyedévet követő hónap 20. napjáig a hulladékgazdálkodási hatóság számlájára forintban fizeti be. A hulladéklerakási díjról szóló számlában a hulladéklerakási járulék összegét – a járulékköteles hulladék mennyisége szerint – külön soron, kapcsolódó tételként kell szerepeltetni.”
+(2)

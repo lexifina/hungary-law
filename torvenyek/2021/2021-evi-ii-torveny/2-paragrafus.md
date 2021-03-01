@@ -18,6 +18,6 @@ c) 31. § (1) bekezdés c) pontjában a „származhat” szövegrész helyébe 
 
 d) 48. § (3) és (5) bekezdésében a „környezetvédelmi” szövegrész helyébe a „hulladékgazdálkodási, környezetvédelmi” szöveg,
 
-e) 57. § (2) bekezdés b) pontjában a „felmerült kiadásokat,” szövegrész helyébe a „felmerült kiadásokat, a hulladékkezeléssel összefüggő, jogszabályban vagy hatósági határozatban megállapított tevékenységek költségeit,” szöveg
+e)
 
 lép.
