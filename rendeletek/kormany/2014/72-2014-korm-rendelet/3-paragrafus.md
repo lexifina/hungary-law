@@ -4,9 +4,9 @@ a) a szolgáltatás szakmai programját,
 
 b) a szolgáltatásért felelős szakmai vezető és valamennyi szolgáltatást végző személy 1. mellékletben meghatározottak szerinti szakképesítését igazoló okirat másolatát,
 
-c)[^2] a szolgáltatásért felelős szakmai vezető és valamennyi szolgáltatást végző személy részére a Nemzeti Szociálpolitikai Intézet által kiállított, a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyam elvégzését tanúsító bizonyítvány másolatát,
+c)[^3] a szolgáltatásért felelős szakmai vezető és valamennyi szolgáltatást végző személy részére a Nemzeti Szociálpolitikai Intézet által kiállított, a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyam elvégzését tanúsító bizonyítvány másolatát,
 
-d)[^3] a szolgáltatásért felelős szakmai vezető és a szolgáltatást végző személy nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 10/A. § (1) bekezdésében meghatározott kizáró okok,
+d)[^4] a szolgáltatásért felelős szakmai vezető és a szolgáltatást végző személy nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 10/A. § (1) bekezdésében meghatározott kizáró okok,
 
 e) a szolgáltatás adatvédelmi szabályzatát,
 
@@ -20,5 +20,5 @@ i) – ha a nyílt örökbefogadást elősegítő közhasznú szervezet családo
 
 (2) Ha a kérelmező a közhasznú szervezet bírósági nyilvántartásba vételét nem igazolja, a szolgáltatást engedélyező szerv a bírósági nyilvántartásból szerzi be, illetve ellenőrzi a közhasznú szervezet adatait.
 
-[^2]: A 3. § (1) bekezdés c) pontja a 610/2020. (XII. 18.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés d) pontja a 311/2019. (XII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés c) pontja a 610/2020. (XII. 18.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés d) pontja a 311/2019. (XII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
