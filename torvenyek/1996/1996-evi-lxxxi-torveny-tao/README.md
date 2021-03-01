@@ -85,3 +85,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2020-11-27 | 2020. évi CXVIII. törvény | 1996-81-00-00.130 |
 | 2020-12-27 | 2020. évi CXVIII. törvény | 1996-81-00-00.131 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 1996-81-00-00.132 |
+| 2021-03-01 | 2020. évi CXXXV. törvény | 1996-81-00-00.133 |
