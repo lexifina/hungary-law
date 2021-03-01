@@ -18,6 +18,8 @@ fa) a Kormány feladatkörében érintett tagjával együttműködve kialakítja
 
 fb) gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a hazai jogi szabályozás összhangjának megőrzéséről,
 
+fc)[^107] felel az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága között létrejött kereskedelmi és együttműködési megállapodás végrehajtásáért, és gondoskodik a felek közötti kapcsolatok ezt érintő hazai koordinációjáról,
+
 g) koordinálja az Európai Duna Stratégiával kapcsolatos kormányzati feladatokat,
 
 h) felel a külgazdasági diplomata hálózat irányításáért,
@@ -35,3 +37,5 @@ m) kialakítja a nemzetközi energetikai tárgyalásokon képviselendő állásp
 n) ellátja a határ menti operatív programok tervezésével és megvalósításával összefüggő feladatokat,
 
 o) ellátja a regionális és határ menti gazdaságfejlesztési programok végrehajtásával összefüggő feladatokat.
+
+[^107]: A 140. § f) pont fc) alpontját a 92/2021. (II. 27.) Korm. rendelet 1. §-a iktatta be.

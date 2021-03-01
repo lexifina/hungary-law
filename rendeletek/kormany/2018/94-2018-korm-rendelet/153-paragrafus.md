@@ -26,14 +26,14 @@ j) a külgazdasági és külügyminiszter esetében a KKM,
 
 k) az innovációért és technológiáért felelős miniszter esetében az ITM,
 
-l)[^113] a családokért felelős tárca nélküli miniszter esetében a CSTNM,
+l)[^117] a családokért felelős tárca nélküli miniszter esetében a CSTNM,
 
-m)[^114] a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter estében az NVTNM,
+m)[^118] a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter estében az NVTNM,
 
-n)[^115] a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter esetében a PTNM
+n)[^119] a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter esetében a PTNM
 
 rövid megjelölést kell alkalmazni.
 
-[^113]: A 153. § l) pontja a 437/2020. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^114]: A 153. § m) pontja a 437/2020. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^115]: A 153. § n) pontját a 437/2020. (IX. 22.) Korm. rendelet 4. §-a iktatta be.
+[^117]: A 153. § l) pontja a 437/2020. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^118]: A 153. § m) pontja a 437/2020. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^119]: A 153. § n) pontját a 437/2020. (IX. 22.) Korm. rendelet 4. §-a iktatta be.

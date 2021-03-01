@@ -20,7 +20,7 @@ a) kidolgozza a Kormány foglalkoztatáspolitikai, valamint – a Kormány felad
 
 b) ellátja a foglalkoztatáspolitika koordinációjával kapcsolatos feladatokat,
 
-c) meghatározza a foglalkoztatáspolitika és az álláskeresők ellátásának eszközrendszerét, a munkaerőpiaci szolgáltatások szabályait és irányítja a munka-, pálya-, álláskeresési, foglalkoztatási tanácsadással kapcsolatos feladatokat, elemzi és ellenőrzi azok működését,
+c)[^104] meghatározza a foglalkoztatáspolitika és az álláskeresők ellátásának eszközrendszerét, a foglalkoztatást elősegítő szolgáltatások szabályait és irányítja a munka-, pálya-, álláskeresési, foglalkoztatási tanácsadással kapcsolatos feladatokat, elemzi és ellenőrzi azok működését,
 
 d) programokat dolgoz ki a munkaerőpiacon hátrányos helyzetben lévők foglalkoztatására, a foglalkoztatási válsághelyzetekből adódó kedvezőtlen munkaerőpiaci hatások csökkentésére és – a szociál- és nyugdíjpolitikáért felelős miniszterrel együttműködve – az atipikus foglalkoztatás bővítésére,
 
@@ -47,3 +47,4 @@ h) részt vesz a Kormány elosztás- és jövedelempolitikai koncepciójának ki
 i) képviseli a Kormányt a Nemzetközi Munkaügyi Szervezetben.
 
 [^103]: A 137/D. §-t a 341/2019. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^104]: A 137/D. § (2) bekezdés c) pontja a 101/2021. (II. 27.) Korm. rendelet 16. §-a szerint módosított szöveg.

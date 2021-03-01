@@ -10,8 +10,8 @@
 
 4. űrkutatásért,
 
-5.[^105] – a csángó ügyek vonatkozásában – nemzetpolitikáért
+5.[^106] – a csángó ügyek vonatkozásában – nemzetpolitikáért
 
 felelős tagja.
 
-[^105]: A 138. § 5. pontját a 103/2019. (V. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^106]: A 138. § 5. pontját a 103/2019. (V. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
