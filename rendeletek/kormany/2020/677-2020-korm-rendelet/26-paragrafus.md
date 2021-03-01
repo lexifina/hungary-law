@@ -1,3 +1,3 @@
-## 25. §[^10]
+## 25. § Az R2. 56. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 25. § a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+## „(1) Az építésügyi hatóság az Étv. 34. § (5) bekezdés b) pontja szerinti célból – építmény, építményrész bontása, valamint az építési engedélyhez, egyszerű bejelentéshez vagy örökségvédelmi bejelentéshez nem kötött építmény felépítésének, meglétének igazolása céljából – kérelemre vagy az ingatlan-nyilvántartást vezető ingatlanügyi hatóság hivatalból folytatott eljárása esetén az OÉNY-ből megismerhető adat, tény, állapot vagy szükség esetén helyszíni szemle alapján, a (2)–(4) bekezdés figyelembevételével – hatósági bizonyítványt állít ki. Az ingatlan-nyilvántartási térképi adatbázisban történő átvezetés céljából benyújtott hatósági bizonyítvány iránti kérelemhez – kivéve, ha a földrészleten valamennyi épületet elbontották – mellékelni kell a változás ingatlan-nyilvántartási átvezetéséhez jogszabályban előírt változási vázrajzot. A bontási engedélyhez nem kötött lakóépület bontása esetén a kérelemhez mellékelni kell a 9. melléklet szerinti kitöltött adatlapot.”

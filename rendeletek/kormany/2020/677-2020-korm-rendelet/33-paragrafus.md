@@ -1,17 +1,16 @@
-## 31–32. §[^14]
+## 31–32. §[^12]
 
 ## 33. §
 
-a)[^15]
+a)[^13]
 
-b)[^16]
+b)[^14]
 
-c)[^17]
+c) 26/C. § (2) bekezdése,
 
-d)[^18]
+d)[^15]
 
-[^14]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 33. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 33. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 33. § c) pontja a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
-[^18]: A 33. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 33. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 33. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 33. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

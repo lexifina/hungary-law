@@ -1,3 +1,3 @@
-## 29–30. §[^13]
+## 30. § Az R3. 26/C. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^13]: A 29–30. § a 86. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+## „(3) Ha a rendeltetésváltozás megfelel a helyi építési szabályzatban foglalt követelményeknek, a polgármester kérelemre – az ingatlan-nyilvántartásban történő átvezetés céljából – 15 napon belül hatósági bizonyítványt állít ki az építmény, valamint az építményen belüli önálló rendeltetési egység rendeltetésének módosításáról és új rendeltetéséről, valamint az építmény rendeltetési egységei számának megváltozásáról és az új rendeltetésszámáról.”
