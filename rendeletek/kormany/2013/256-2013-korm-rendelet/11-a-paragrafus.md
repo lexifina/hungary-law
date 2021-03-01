@@ -1,1 +1,3 @@
-## 11. § Az Eütev. 29. § (16) bekezdésének az alkalmazásában az ott meghatározott kinevezésben meghatározott illetmény vagy munkaszerződésben meghatározott alapbér, továbbá a Kjt. 2012. június 30-án hatályos szabályainak alapulvételével meghatározott besorolási osztályhoz és fokozathoz tartozó garantált illetmény összegének a megállapítása során – az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának alapjaként – a 2012. június 30-át követő, az egészségügyi ágazati illetmény- vagy bérnöveléstől függetlenül esedékessé vált átsorolások és a munkáltatónál egyébként megvalósult munkabéremelések összegét figyelembe kell venni.
+## 11. §[^47]
+
+[^47]: A 11. §-t az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
