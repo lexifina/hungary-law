@@ -1,3 +1,0 @@
-1. § (1) Az állami foglalkoztatási szerv feladatkörében eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: állami foglalkoztatási szerv) a munkahelykeresés eredményessége, valamint a megfelelő munkához jutás elősegítése érdekében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés d) pontjában meghatározott álláskeresővel egyéni cselekvési tervet (a továbbiakban: egyéni cselekvési terv) készít.
-
-(2) Egyéni cselekvési terv – kérelmére – az állami foglalkozatási szervhez forduló, álláskeresőként nem nyilvántartott, közvetítést kérő személlyel (a továbbiakban: közvetítést kérő személy) is készíthető.
