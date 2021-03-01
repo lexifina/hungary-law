@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-313-20-
 | 2017-04-01 | 2011-313-20-22.10 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2020-01-01 | 2011-313-20-22.11 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2011-313-20-22.12 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-03-01 | 2011-313-20-22.13 | 529/2020. (XI. 28.) Korm. rendelet |
