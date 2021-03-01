@@ -1,0 +1,3 @@
+43. § A Ht. 27. §-a helyébe a következő rendelkezés lép:
+
+„27. § A forgalmazó a fogyasztó által felajánlott terméket és a termék csomagolását képező csomagolószert, amely után a fogyasztó visszaváltási díjat vagy letéti díjat fizetett, a fogyasztótól visszaváltja vagy visszaveszi, és részére a díjat visszafizeti.”
