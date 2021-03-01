@@ -26,7 +26,7 @@ bi) a szolgálati beosztáshoz előírt idegennyelv-tudást,
 
 bj) a ruházati ellátási normát,
 
-bk) a speciális alkalmassági követelmények (pszichológiai alkalmasság) megjelölését,
+bk)[^5] a szolgálati beosztás alkalmasságvizsgálati kategóriájának megjelölését,
 
 bl) a nemzetbiztonsági ellenőrzésre, valamint a vagyonnyilatkozat-tételre vonatkozó kötelezést,
 
@@ -38,3 +38,4 @@ bm) a könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati b
 
 [^3]: Az 1/A. §-t a 6/2019. (III. 11.) BM rendelet 9. § (1) bekezdése iktatta be, szövege a 20/2019. (V. 15.) BM rendelet 7. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés b) pont be) alpontja a 6/2019. (III. 11.) BM rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés b) pont bk) alpontja a 2/2021. (I. 14.) BM rendelet 30. §-ával megállapított szöveg.

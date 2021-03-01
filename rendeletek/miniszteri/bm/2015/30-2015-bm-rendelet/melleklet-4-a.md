@@ -2,7 +2,7 @@
 
 ## I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 8K05064O_0
+## 1X00692M_0
 
 |  | A | B | C | D | E |
 
@@ -14,27 +14,29 @@
 
 | 4. | központi szerv vezetőjének helyettese (tábornok) | főigazgató-helyettes | 550 |  |
 
-| 5. | közép- vezető | szakirányító 1 | igazgató | 550 | 400 |
+| 5. | közép- vezető | szakirányító 1 | igazgató | 550 650* | 400 |
 
-| 6. | szakirányító 2 | igazgató-helyettes | 550 vagy 650* | 400 |
+| 5a. | szakirányító 1 | kabinetvezető | 550 | 400 |
+
+| 6. | szakirányító 2 | igazgató-helyettes | 550 650* | 400 |
 
 | 7. | főosztályvezető 1 | főosztályvezető** | 550 650* | 400 |
 
-| 8. | főtanácsadó | 550 vagy 650* | 400 |
+| 8. | főtanácsadó | 550 650* | 400 |
 
 | 9. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes** | 550 650* | 400 |
 
 | 10. | főosztályvezető- helyettes 2 | osztályvezető** | 550 650* | 400 |
 
-| 11. | osztályvezető 1 | irodavezető | 550 | 400 |
+| 11. | főosztályvezető-helyettes 2 | irodavezető | 550 650* | 400 |
 
-| 12. | tanácsadó | 550 vagy 650* | 400 |
+| 12. | osztályvezető 1 | tanácsadó | 550 650* | 400 |
 
-| 13. | osztályvezető** | 550 650* | 400 |
+| 13. | osztályvezető 1 | osztályvezető** | 550 650* | 400 |
 
 ## II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 8K05064O_1
+## 1X00692M_1
 
 |  | A | B | C | D |
 
@@ -80,7 +82,7 @@
 
 | 20. | műveleti tiszt 3 | 650 |  |
 
-| 21. | szolgálatparancsnok | 650 vagy 500 |  |
+| 21. | szolgálatparancsnok | 650 500 |  |
 
 | 22. | A | biztonsági tiszt | 650 |  |
 
@@ -88,7 +90,7 @@
 
 ## III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 8K05064O_2
+## 1X00692M_2
 
 |  | A | B | C | D |
 
@@ -152,10 +154,12 @@
 
 | 29. | segédelőadó 3 | 650 500** | 400 |
 
-## 650* A TEK Műveleti Igazgatóság, Személyvédelmi Igazgatóság, a Felderítési Igazgatóság, valamint az Operatív Technikai-Informatikai Igazgatóság közvetlen műveleti tevékenységében résztvevő vezető beosztást betöltő állomány esetében a hivatásos pótlék mértéke 650%.
+## IV. Magyarázat
 
-## 500** A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 500%.
+## a) 650*: A főigazgató közvetlen alárendeltségében, a Műveleti Igazgatóságon, a Személyvédelmi Igazgatóságon, a Felderítési Igazgatóságon szolgálatot teljesítő, közvetlen műveleti tevékenységében részt vevő, vezető beosztást betöltő állomány esetében a hivatásos pótlék mértéke 650%.
 
-4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^26]
+## b) 500**: A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 500%.
 
-[^26]: A 4/A. mellékletet a 20/2019. (V. 15.) BM rendelet 8. §-a iktatta be.
+4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^27]
+
+[^27]: A 4/A. mellékletet a 20/2019. (V. 15.) BM rendelet 8. §-a iktatta be.

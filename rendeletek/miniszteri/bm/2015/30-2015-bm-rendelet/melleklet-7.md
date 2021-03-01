@@ -48,9 +48,9 @@
 
 | 21. | területi | C | raktáros | 100 |  |
 
-| 22. | területi | C | szociális segédelőadó | 150** vagy 100 |  |
+| 22. | területi | C | szociális segédelőadó | 150* vagy 100 |  |
 
-| 23. | területi | C | segédelőadó | 150** vagy 100 | 50 |
+| 23. | területi | C | segédelőadó | 150* vagy 100 | 50 |
 
 | 23a. | területi | C | segédelőadó (műveleti) | 250 |  |
 
@@ -64,7 +64,7 @@
 
 | 27. | területi | C | szakápoló | 100 |  |
 
-| 28. | területi | B | felügyelő (foglalkoztatási) | 150** vagy 100 |  |
+| 28. | területi | B | felügyelő (foglalkoztatási) | 150* vagy 100 |  |
 
 | 29. | területi | B | gépjárművezető | 200 | 75 |
 
@@ -76,7 +76,7 @@
 
 | 33. | helyi | E | körlet-főfelügyelő | 150 |  |
 
-| 34. | főfelügyelő | *150 vagy 125 |  |
+| 34. | főfelügyelő | 150* vagy 125 |  |
 
 | 35. | raktárvezető | 100 |  |
 
@@ -106,9 +106,9 @@
 
 | 48. | raktáros | 100 |  |
 
-| 49. |  |  | szociális segédelőadó | 150** vagy 100 |  |
+| 49. |  |  | szociális segédelőadó | 150* vagy 100 |  |
 
-| 50. | segédelőadó | 150** vagy 100 | 50 |
+| 50. | segédelőadó | 150* vagy 100 | 50 |
 
 | 51. | művezető | 100 |  |
 
@@ -116,7 +116,7 @@
 
 | 53. | szakápoló | 100 |  |
 
-| 54. | B | felügyelő (körlet, foglalkoztatási, munkáltatási) | 150** vagy 100 |  |
+| 54. | B | felügyelő (körlet, foglalkoztatási, munkáltatási) | 150* vagy 100 |  |
 
 | 55. | kutyavezető | 125 |  |
 
@@ -130,12 +130,12 @@
 
 ## Megjegyzés:
 
-## * 150% a pótlék mértéke, amennyiben speciális (hosszúidős biztonsági, gyógyító-terápiás, pszichoszociális, szexuális bűncselekményt elkövetettek, drogprevenciós) részlegen, különleges biztonsági részlegen vagy HIV részlegen, műveleti osztályon, illetve csoportban teljesít szolgálatot, vagy páncélozott szállító járművet vezet, vagy ténylegesen életfogytiglani szabadságvesztésre ítélt fogvatartottat munkáltat.
+## 150*: 150% a pótlék mértéke, amennyiben speciális (hosszúidős biztonsági, gyógyító-terápiás, pszichoszociális, szexuális bűncselekményt elkövetettek, drogprevenciós) részlegen, különleges biztonsági részlegen vagy HIV részlegen, műveleti osztályon, illetve csoportban teljesít szolgálatot, vagy páncélozott szállító járművet vezet, vagy ténylegesen életfogytiglani szabadságvesztésre ítélt fogvatartottat munkáltat.
 
 ## Kiemelt büntetés-végrehajtási intézetek:
 
 ## Budapesti Fegyház és Börtön, Fővárosi Büntetés-végrehajtási Intézet, Pálhalmai Országos Büntetés-végrehajtási Intézet, Sopronkőhidai Fegyház és Börtön, Szegedi Fegyház és Börtön, Szombathelyi Országos Büntetés-végrehajtási Intézet, Állampusztai Országos Büntetés-végrehajtási Intézet, Közép-dunántúli Országos Büntetés-végrehajtási Intézet, Márianosztrai Fegyház és Börtön, Tiszalöki Országos Büntetés-végrehajtási Intézet, Váci Fegyház és Börtön
 
-7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^29]
+7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
 
-[^29]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés c) pontja, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 15/2017. (VI. 22.) BM rendelet 6. §-a, a 14/2018. (VI. 7.) BM rendelet 1. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (3) bekezdés b) pontja, a 13/2019. (IV. 12.) BM rendelet 3. §-a, a 18/2020. (VI. 30.) BM rendelet 13. §-a szerint módosított szöveg.
+[^30]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés c) pontja, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 15/2017. (VI. 22.) BM rendelet 6. §-a, a 14/2018. (VI. 7.) BM rendelet 1. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (3) bekezdés b) pontja, a 13/2019. (IV. 12.) BM rendelet 3. §-a, a 18/2020. (VI. 30.) BM rendelet 13. §-a szerint módosított szöveg.
