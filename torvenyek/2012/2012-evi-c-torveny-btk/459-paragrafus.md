@@ -108,6 +108,8 @@ q) a fegyveres biztonsági őr a szolgálatának teljesítése során,
 
 r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás biztosítását célzó parkolási közszolgáltatást a közúti közlekedésről szóló törvény szerint ellátó szervezetnél a parkolóhelyek rendeltetésszerű működtetését és a parkolóhelyek rendeltetésszerű használatának ellenőrzését végző személy e tevékenysége során.
 
+s) az útellenőr, és a kezelői ellenőr a közúti közlekedésről szóló törvényben meghatározott tevékenysége körében.
+
 13. külföldi hivatalos személy:
 
 a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy, illetve külföldi államban közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, ideértve a köztestületben vagy az állami vagy önkormányzati vállalkozásban ilyen feladatot ellátó vagy szolgálatot teljesítő személyt is,
