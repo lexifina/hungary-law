@@ -12,7 +12,7 @@ c) a munkabér kifizetésére vonatkozó iratainak papíralapú vagy elektroniku
 
 a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak befejezését követő 3 évig a munkáltató székhelyén vagy telephelyén hozzáférhető és ellenőrizhető legyen.
 
-(4) A külföldi munkáltató a kijelölt hatóságként eljáró munkaügyi hatósággal való kapcsolattartásért, valamint a (3) bekezdés szerinti dokumentumok küldéséért és átvételéért felelős személyt jelöl ki. A külföldi munkáltató a megbízott személyéről, valamint a megbízott személyében bekövetkezett változásról haladéktalanul tájékoztatja a munkaügyi hatóságot.
+(4) A külföldi munkáltató a kijelölt hatóságként eljáró foglalkoztatás-felügyeleti hatósággal való kapcsolattartásért, valamint a (3) bekezdés szerinti dokumentumok küldéséért és átvételéért felelős személyt jelöl ki. A külföldi munkáltató a megbízott személyéről, valamint a megbízott személyében bekövetkezett változásról haladéktalanul tájékoztatja a foglalkoztatás-felügyeleti hatóságot.
 
 (5) A külföldi munkáltató – ha az nem azonos a (4) bekezdés szerinti megbízottal – olyan kapcsolattartó személyt jelöl ki, akin keresztül a szociális partnerek kollektív tárgyalások folytatása céljából, a szolgáltatásnyújtás ideje alatt a szolgáltatóval kapcsolatba léphetnek.
 

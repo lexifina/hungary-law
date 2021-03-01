@@ -28,7 +28,7 @@ tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszony
 
 (5) Ha az (1) bekezdés szerinti kiküldetés időtartama meghaladja a tizenkét hónapot, a munkaviszonyra e törvény rendelkezéseit – a (7) bekezdésben foglaltak kivételével – megfelelően alkalmazni kell.
 
-(6) Az (5) bekezdés szerinti időtartam további hat hónappal meghosszabbodik a külföldi munkáltató munkaügyi hatóság részére benyújtott, indokolással ellátott bejelentése esetén.
+(6) Az (5) bekezdés szerinti időtartam további hat hónappal meghosszabbodik a külföldi munkáltató foglalkoztatás-felügyeleti hatóság részére benyújtott, indokolással ellátott bejelentése esetén.
 
 (7) A tizenkét hónapot meghaladó kiküldetés esetén
 
