@@ -27,3 +27,5 @@
 (7) A 2. melléklet II. pont d) alpontja szerinti nemzeti vagyon az állam és a helyi önkormányzat között átruházható.
 
 (8) Az olyan – pályázat alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, a pályázati kiírástól, illetve a nyertes pályázattól eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
+
+(9) Nemzeti vagyonba tartozó ingatlanok esetében a hulladékról szóló törvény szerinti elhagyott hulladék felszámolásának kötelezettsége az ingatlan tulajdonosát terheli azzal, hogy az elhagyott hulladék elszállításáról a 11. §-ban meghatározott személyeknek kell gondoskodnia.
