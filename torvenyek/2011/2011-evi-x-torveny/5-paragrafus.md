@@ -1,1 +1,0 @@
-5. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamai, másrészről az Örmény Köztársaság közötti partnerségi és együttműködési megállapodáshoz a Bolgár Köztársaságnak és Romániának a partnerségi és együttműködési megállapodáshoz történő csatlakozásának figyelembevételéről szóló jegyzőkönyvet (a továbbiakban: 2. Jegyzőkönyv) e törvénnyel kihirdeti.
