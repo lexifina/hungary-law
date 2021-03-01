@@ -1,5 +1,7 @@
-## 5. § Hatályát veszti a Termékpálya Bizottságok általános működési rendjének meghatározásáról, valamint a piaci árinformációs rendszer működtetéséért felelős szerv kijelöléséről szóló 339/2006. (XII. 23.) Korm. rendelet.
+## 5. §[^6]
 
 ## 6. Záró rendelkezések
 
 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
