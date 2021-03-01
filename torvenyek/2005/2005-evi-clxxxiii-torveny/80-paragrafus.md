@@ -24,7 +24,7 @@ i) az egységes biztonsági tanúsítvány megszerzéséhez szükséges tudnival
 
 j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal döntéshozatali kritériumaik uniós szintű harmonizálása érdekében, elsősorban az Ügynökség által létrehozott hálózaton belül,
 
-k) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése és felügyelete, amely nem érinti a munkaügyi hatóságnak a rá irányadó jogszabályban foglalt ellenőrzési hatáskörét,
+k) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése és felügyelete, amely nem érinti a foglalkoztatás-felügyeleti hatóságnak a rá irányadó jogszabályban foglalt ellenőrzési hatáskörét,
 
 l) a vasúti járművezetői engedélyek kiállítása, megújítása, nyilvántartása, másolatok készítése, az engedélyek felfüggesztése és visszavonása, valamint a kiállító vasúti társaság értesítése a tanúsítványok felfüggesztésének kéréséről, továbbá a tanúsítvánnyal kapcsolatos munkáltatói döntés felülvizsgálata,
 
