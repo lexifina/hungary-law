@@ -18,6 +18,8 @@ c) érmeátadás;
 
 5. érmevizsgáló gép: olyan gép, amelyet a pénzfeldolgozó és a pénzforgalmazó az érmék valódiságának, illetve forgalomképességének – a gép működtetőjének beavatkozása nélküli – ellenőrzésére működtet;
 
+5a.[^1] fogyasztó: a Polgári Törvénykönyvről szóló törvényben meghatározott személy;
+
 6. forgalomból bevont érme: törvényes fizetőeszköznek már nem minősülő, az MNB 2004. május 1. előtt közzétett hirdetményében (a továbbiakban: MNB hirdetmény) vagy MNB rendeletben, illetve a pénzkibocsátásra jogosult külföldi intézmény jogi aktusában vagy hivatalos közleményében ilyenként meghatározott érme;
 
 7. forgalomképes érme: olyan, törvényes fizetőeszköznek minősülő, valódi
@@ -40,15 +42,19 @@ bb) külföldi érme, amely a kibocsátó forgalomképességre vonatkozó rendel
 
 ## alapján érme-visszaforgatásra nem alkalmas;
 
-9. forintérme átváltása: a hitelintézet és a Posta Elszámoló Központot működtető intézmény (a továbbiakban: posta) által, a pénztárral rendelkező hitelintézeti, postai fiók pénztárában
+9.[^2] forintérme átváltása:
 
-a) a forgalomból bevont forintérmének a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 23. § (3) bekezdése szerinti határidőn belül,
+a) a forgalomból bevont forintérmének a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 23. § (3) bekezdése szerinti határidőn belül
+
+aa) azonos címletű, forgalomképes forintérmére történő cseréje,
+
+ab) fizetésül való elfogadása, ideértve az ügyfél saját fizetési számlájára történő befizetést is,
 
 b) a nehezen felismerhető és sérült forintérmének
 
-## azonos címletű, forgalomképes forintérmére történő cseréje.
+ba) azonos címletű, forgalomképes forintérmére történő cseréje,
 
-## Nem minősül forintérme átváltásának a forgalomból bevont, a nehezen felismerhető és a sérült forintérme fizetésül való elfogadása, ideértve az ügyfél saját fizetési számlájára történő befizetést is;
+bb) fizetésül való elfogadása, ideértve az ügyfél saját fizetési számlájára történő befizetést is;
 
 10. forintérmék címletváltása: a forgalomképes, valamint a törvényes fizetőeszköznek minősülő forgalomképtelen forintérméknek – azok névértékével egyező összegben – más címletű, forgalomképes forintbankjegyekre, illetve forintérmékre történő cseréje;
 
@@ -69,3 +75,6 @@ b) a nehezen felismerhető és sérült forintérmének
 18. törvényes fizetőeszköz: a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló MNB rendeletben meghatározott fogalom;
 
 19. ügyfél: a készpénzforgalmazás keretében a pénzfeldolgozó vagy a pénzforgalmazó szolgáltatását igénybe vevő természetes és jogi személy, valamint jogi személyiséggel nem rendelkező szervezet.
+
+[^1]: A 2. § 5a. pontját a 39/2020. (X. 21.) MNB rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. § 9. pontja a 39/2020. (X. 21.) MNB rendelet 1. § (2) bekezdésével megállapított szöveg.

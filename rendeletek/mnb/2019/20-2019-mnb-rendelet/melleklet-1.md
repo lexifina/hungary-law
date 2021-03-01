@@ -1,4 +1,4 @@
-## 19. §[^1]
+## 19. §[^14]
 
 1. melléklet a 20/2019. (V. 13.) MNB rendelethez
 
@@ -20,4 +20,4 @@ b) sérült.
 
 4. Sérültnek minősül az a forintérme, amely eredeti alakját elveszítette.
 
-[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
