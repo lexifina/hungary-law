@@ -1,4 +1,4 @@
-## 7. §[^2]
+## 7. §[^7]
 
 1. melléklet a 210/2018. (XI. 20.) Korm. rendelethez
 
@@ -14,4 +14,4 @@ c) a vizsgálati jelentéseket – amennyiben rendelkezésre állnak –, beleé
 
 d) ha ugyanazon értékeket más, hasonló modellek esetében is felhasználják, akkor ezen modellek azonosítását lehetővé tevő hivatkozásokat.
 
-[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
