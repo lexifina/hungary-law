@@ -14,7 +14,7 @@ e) a közúti forgalom biztonsága érdekében az általa elvégezhető halaszth
 
 (3) Feladatainak ellátása során az útellenőr intézkedik, figyelmeztet, a szabálytalan magatartás megszüntetésére felhív, illetőleg büntető, szabálysértési feljelentést tesz, vagy közlekedési hatósági eljárást kezdeményez.
 
-(4) Az útellenőrt fokozott büntetőjogi védelem illeti meg.
+(4)
 
 (5) A külön jogszabály szerinti díjköteles utak díjfizetés ellenében történő használatának ellenőrzésére jogosult szerv, illetve az általa megbízott gazdálkodó szervezet
 

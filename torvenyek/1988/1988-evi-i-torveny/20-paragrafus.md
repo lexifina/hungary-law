@@ -56,7 +56,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (1c) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés k), m) és o) pontjában felsorolt ügycsoportba tartozó, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes jogsértések miatt indult közigazgatási hatósági eljárásokban.
 
-(2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a munkaügyi hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
+(2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a foglalkoztatás-felügyeleti hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
 
 (2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
 
@@ -114,7 +114,7 @@ c) az üzemben tartó telephelyén, a fel-, át- és lerakóhelyeken, illetve m�
 
 ca) a közlekedési hatóság, a rendőrség, és a vámhatóság,
 
-cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a munkaügyi hatóság is,
+cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a foglalkoztatás-felügyeleti hatóság is,
 
 d) az (1) bekezdés e) pontja tekintetében – a veszélyes áru szállítójának (fuvarozójának), feladójának, csomagolójának, be- és kirakójának, töltő- és ürítőjének, címzettjének telephelyén is – külön jogszabály alapján a katasztrófavédelmi hatóság és a vámhatóság is,
 
@@ -126,7 +126,7 @@ g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési ható
 
 h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság és a katasztrófavédelmi hatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 
-jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is bevonható.
+jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a foglalkoztatás-felügyeleti hatóság is bevonható.
 
 (11a) Az (1) bekezdés k) pontja tekintetében ellenőrzésre jogosult a katonai rendészeti szolgálat is a Magyar Honvédség személyi állománya, valamint a honvédségi gépjárművek vonatkozásában. A katonai rendészeti szolgálat az általa feltárt szabályszegések esetén az ügy iratait megküldi a rendőrség részére.
 

@@ -1,4 +1,4 @@
-34. § (1) A közút kezelője – az országos és a helyi közutak kezeléséről szóló jogszabályok szerint eljárva – köteles gondoskodni arról, hogy a közút a biztonságos közlekedésre alkalmas, közvetlen környezete esztétikus és kulturált legyen.
+34. § (1) A közút kezelője – az országos és a helyi közutak kezeléséről szóló jogszabályok szerint és az (5)–(8) bekezdésben foglaltakra tekintettel eljárva – köteles gondoskodni arról, hogy a közút a biztonságos közlekedésre alkalmas, közvetlen környezete esztétikus és kulturált legyen.
 
 (2) A közút forgalmi rendjét – ha jogszabály másként nem rendelkezik – a közút kezelője alakítja ki. A forgalmi rendet – a forgalmi körülmények vagy a baleseti helyzet jelentősebb változása esetén, de legalább ötévenként – a közút kezelőjének felül kell vizsgálnia, és ha szükséges, módosítania kell. A közlekedési hatóság – a közlekedés biztonságát sértő vagy veszélyeztető helyzet megszüntetése érdekében – kezdeményezheti a forgalomszabályozás módosítását, vagy a közút kezelőjét a forgalmi rend felülvizsgálatára kötelezheti.
 
@@ -9,3 +9,7 @@
 (5) A közút tisztántartásáról a közút kezelője gondoskodik. A közút síkosságmentesítését a Magyarország helyi önkormányzatairól szóló törvény eltérő rendelkezése hiányában a közút kezelője végzi.
 
 (6) Közút mellett, kijelölt pihenőhelyen vagy várakozóhelyen kizárólag az utasforgalomból származó hulladék helyezhető el. Ha közút mellett, kijelölt pihenőhelyen vagy várakozóhelyen nem utasforgalomból származó hulladékot helyeztek el és az ilyen hulladék elhelyezője azonosítható, továbbá a hulladékgazdálkodási bírság kiszabásának lehet helye, a közút kezelője értesíti a bírság kiszabására jogosult, külön jogszabályban meghatározott hatóságot. A közútkezelő a hulladékkezeléssel és az eljárással kapcsolatos költségeit a hulladék elhelyezőjével szemben érvényesíti.
+
+(7) A közút kezelője az ingatlanra lépés helyett technikai eszközt is igénybe vehet a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (9) bekezdése szerinti tisztántartási kötelezettség teljesítéséről való meggyőződés érdekében, amelyet az ingatlan mindenkori tulajdonosa, vagyonkezelője és birtokosa (használója) tűrni köteles.
+
+(8) A közút kezelője a (7) bekezdés szerinti feladatai ellátása körében a technikai eszköz alkalmazása során rögzített adatok vonatkozásában a 33/D. § alkalmazásával jár el, és jogosult felvétel készítésére. Amennyiben a közút kezelője hulladékot észlel, azt elszállítja és ezt a hulladékról szóló törvény szerint bejelenti, a rendelkezésére álló adatokat továbbítja a hulladékgazdálkodási hatóságnak.

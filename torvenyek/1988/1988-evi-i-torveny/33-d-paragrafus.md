@@ -10,7 +10,7 @@ a) a közút kezelője részére jogszabályban meghatározott feladatok ellát�
 
 b) elkövetett bűncselekmény, szabályszegés vagy szabálysértés, továbbá rendkívüli haláleset miatt indult eljárásban,
 
-c) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
+c) a terrorcselekmények vagy más bűncselekmények és közigazgatási szabályszegések megelőzése, felderítése és megszakítása céljából,
 
 d) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
 

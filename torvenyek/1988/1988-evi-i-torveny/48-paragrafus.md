@@ -278,6 +278,6 @@ e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra j
 
 (5b) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés –, hogy hogy a közlekedésért felelős miniszter rendeletében előírt közutak kezelési feladataival kapcsolatban, valamint a közlekedésért felelős miniszter rendeletében előírt közutak építésével kapcsolatban előírt minőségi követelmények ellenőrzésének való megfelelés érdekében az általa kezelt közutak vonatkozásában a helyi sajátosságoknak megfelelő további szabályokat rendeletben állapíthasson meg.
 
-(6)
+(6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat.
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.

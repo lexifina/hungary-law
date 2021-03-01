@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdést a szolgáltatásnak a határon átnyúló szolgáltatásnyújtás keretében történő ellátására is alkalmazni kell.
 
-(4) A hulladékká vált jármű bontását a környezetvédelmi hatóság által kiadott veszélyes hulladékkezelési tevékenység végzésére jogosító engedéllyel is rendelkező járműfenntartó (a továbbiakban: regisztrált bontó-hulladékkezelő) végezheti. A (2) bekezdés szerinti bejelentést a veszélyes hulladékkezelési tevékenység engedélyezése iránti kérelemmel egyidejűleg a környezetvédelmi hatóságnál is meg lehet tenni, amely a bejelentést haladéktalanul továbbítja a közlekedési hatósághoz.
+(4) A hulladékká vált jármű bontását a hulladékgazdálkodási hatóság által kiadott veszélyes hulladékkezelési tevékenység végzésére jogosító engedéllyel is rendelkező járműfenntartó (a továbbiakban: regisztrált bontó-hulladékkezelő) végezheti. A (2) bekezdés szerinti bejelentést a veszélyes hulladékkezelési tevékenység engedélyezése iránti kérelemmel egyidejűleg a hulladékgazdálkodási hatóságnál is meg lehet tenni, amely a bejelentést haladéktalanul továbbítja a közlekedési hatósághoz.
 
 (5) A hulladékká vált gépjárművekről szóló kormányrendelet hatálya alá tartozó hulladékká vált jármű bontásához a jármű tulajdonosának kérelmére a közlekedési hatóság által kiadott egyedi engedély szükséges. A regisztrált bontó-hulladékkezelő – a közlekedési hatóság engedélye alapján – a bontási engedély kiadását megelőző vizsgálatban közreműködik. A jármű forgalomból történő végleges kivonását csak a bontási engedély véglegessé válását követően lehet elvégezni.
 
