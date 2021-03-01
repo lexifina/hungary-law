@@ -1,6 +1,6 @@
 ## 13. § A megengedett össztömeget, a megengedett legnagyobb tengelyterhelést és a megengedett legnagyobb tengelycsoport-terhelést meghaladó jármű közlekedéséhez megadott hozzájárulás magában foglalja a jármű útvonala által érintett, jelzőtáblával elrendelt „Súlykorlátozás” és „Tengelyterhelés-korlátozás” alóli felmentést is, ha a hozzájárulás tartalmazza a jármű számára előírt útvonalat.
 
-## 5. [^34] A túlsúlydíj, illetve a túlméretdíj, valamint az eljárási díj megfizetése alóli mentességek
+## 5. [^43] A túlsúlydíj, illetve a túlméretdíj, valamint az eljárási díj megfizetése alóli mentességek
 
 14. § (1) Mentesül a hozzájárulás beszerzése alól
 
@@ -16,7 +16,7 @@ e) a nemzetközi szerződés és viszonosság körébe tartozó jármű,
 
 f) a közút kezelését végző társaság vagy a közútkezelővel szerződésben lévő vállalkozó által üzemben tartott, kezelői feladatokat ellátó jármű,
 
-g)[^35] a közlekedési közszolgáltatást végző jármű,
+g)[^44] a közlekedési közszolgáltatást végző jármű,
 
 h) a mezőgazdasági jármű a szélességi méretére vonatkozóan
 
@@ -44,22 +44,26 @@ ja) háromtengelyes jármű esetén a jármű össztömege a 28 tonnát,
 
 jb) négytengelyes jármű esetén a jármű össztömege a 38 tonnát,
 
-jc) öt- vagy ennél több tengelyes jármű esetén a jármű össztömege a 40 tonnát
+jc) öt- vagy ennél több tengelyes jármű esetén a jármű össztömege a 40 tonnát,
+
+k)[^45] a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti átviteli rendszerirányító által üzemeltetett, a biztonságos és zavartalan villamosenergia-ellátás érdekében végzett átviteli-rendszerirányítói feladatokat ellátó különleges felépítményű jármű.
 
 ## nem haladja meg.
 
 (2) Az (1) bekezdés szerinti mentesség a közúti közlekedési nyilvántartásról szóló törvény szerinti nyilvántartásba történő bejegyzésre irányuló kérelem benyújtásával jön létre, és a benyújtás napjától számított egy évig hatályos.
 
-(3) A (2) bekezdéstől eltérően az (1) bekezdés h) pontjában meghatározott mentesség nyilvántartásba vétel nélkül a forgalomba helyezéssel vagy az ideiglenes forgalomban tartás engedélyezésével jön létre, és a jármű forgalomból történő végleges kivonásáig hatályos.
+(3)[^46] A (2) bekezdéstől eltérően az (1) bekezdés h) és k) pontjában meghatározott mentesség nyilvántartásba vétel nélkül a forgalomba helyezéssel vagy az ideiglenes forgalomban tartás engedélyezésével jön létre, és a jármű forgalomból történő végleges kivonásáig hatályos.
 
 (4) Mezőgazdasági vontató vagy lassú jármű által vontatott, az (1) bekezdés i) pontjában meghatározott pótkocsi mentessége abban az esetben áll fenn a közlekedés időtartamára nézve, ha a vontató jármű a közúti közlekedési nyilvántartásról szóló törvény szerinti nyilvántartásba bejelentésre került.
 
-(5)[^36] Az (1) bekezdés szerinti bejelentés nélküli közlekedés esetén a jármű üzembentartója vagy vezetője a túlsúlydíj, illetve a túlméretdíj, valamint az eljárási díj megfizetése alóli mentességre utólagosan nem jogosult.
+(5)[^47] Az (1) bekezdés szerinti bejelentés nélküli közlekedés esetén a jármű üzembentartója vagy vezetője a túlsúlydíj, illetve a túlméretdíj, valamint az eljárási díj megfizetése alóli mentességre utólagosan nem jogosult.
 
 (6) Az (1) bekezdés i) és j) pontjában meghatározott túlsúlyos, illetve túlméretes járművek az ott meghatározott értékek túllépése esetén hozzájárulás beszerzésére kötelezettek.
 
 (7) Az e §-ban meghatározott mentesség kizárólag a megjelölt célból történő közlekedésre jogosít.
 
-[^34]: Az 5. alcím címe a 28. § (10) bekezdése szerint módosított szöveg.
-[^35]: A 14. § (1) bekezdés g) pontja a 28. § (2) bekezdésével megállapított szöveg.
-[^36]: A 14. § (5) bekezdése a 28. § (10) bekezdése szerint módosított szöveg.
+[^43]: Az 5. alcím címe a 28. § (10) bekezdése szerint módosított szöveg.
+[^44]: A 14. § (1) bekezdés g) pontja a 28. § (2) bekezdésével megállapított szöveg.
+[^45]: A 14. § (1) bekezdés k) pontját az 53/2020. (XII. 23.) ITM rendelet 5. §-a iktatta be.
+[^46]: A 14. § (3) bekezdése az 53/2020. (XII. 23.) ITM rendelet 9. § e) pontja szerint módosított szöveg.
+[^47]: A 14. § (5) bekezdése a 28. § (10) bekezdése szerint módosított szöveg.

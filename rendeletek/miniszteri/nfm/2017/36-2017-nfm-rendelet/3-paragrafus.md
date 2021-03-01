@@ -10,13 +10,13 @@ b) egyedi elbírálás alapján.
 
 a) az össztömeg vonatkozásában 20%,
 
-b) a tengelyterhelés vonatkozásában – a 15. § (1) és (2) bekezdésében foglalt kivétellel – 5%,
+b)[^6] a tengelyterhelés vonatkozásában – a 15. § (1)–(2a) bekezdésében foglalt kivétellel – 5%,
 
-c) a tengelycsoport terhelés vonatkozásában a 15. § (1) és (2) bekezdésében foglalt kivétellel 20%,
+c)[^7] a tengelycsoport terhelés vonatkozásában a 15. § (1)–(2a) bekezdésében foglalt kivétellel 30%,
 
 ## vagy annál nagyobb az eltérés mértéke.
 
-(4)[^6] Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a jármű vagy járműszerelvény túlméretes és a mérete
+(4)[^8] Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a jármű vagy járműszerelvény túlméretes és a mérete
 
 a) a magasság vonatkozásában a – 16. § (1a) bekezdés a) pontjában foglalt kivétellel – 4,30 métert,
 
@@ -25,4 +25,6 @@ b) a szélesség vonatkozásában a – 16. § (1a) bekezdés b) pontjában fogl
 c) a hosszúság vonatkozásában járműszerelvény esetén a – 16. § (1a) bekezdés c) pontjában foglalt kivétellel – 22,50 métert – egyéb esetekben a megengedetthez képest a 120%-ot –
 
 [^5]: A 3. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 2. §-ával megállapított szöveg.
-[^6]: A 3. § (4) bekezdését az 56/2017. (XII. 27.) NFM rendelet 2. §-a iktatta be.
+[^6]: A 3. § (3) bekezdés b) pontja az 53/2020. (XII. 23.) ITM rendelet 9. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdés c) pontja az 53/2020. (XII. 23.) ITM rendelet 9. § a) és b) pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdését az 56/2017. (XII. 27.) NFM rendelet 2. §-a iktatta be.

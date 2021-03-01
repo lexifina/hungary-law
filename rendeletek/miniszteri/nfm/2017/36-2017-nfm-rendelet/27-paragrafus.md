@@ -6,4 +6,6 @@
 
 (3) A (2) bekezdés szerinti hozzájárulások helyett a közútkezelő 2017. december 31-ig benyújtott kérelem esetén hatályát vesztett hozzájárulásonként egy hozzájárulást eljárásidíj-mentesen ad ki.
 
-(4) 2017. december 31-ig kizárólag túlméretes járműre vonatkozóan határozott időre szóló hozzájárulás a 4. § (4) bekezdés e)–f) pontja szerinti időtartamra nem adható.
+(4)[^80]
+
+[^80]: A 27. § (4) bekezdését az 53/2020. (XII. 23.) ITM rendelet 10. §-a hatályon kívül helyezte.

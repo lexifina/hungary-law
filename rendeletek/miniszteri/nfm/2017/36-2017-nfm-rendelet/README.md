@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-36-20-2
 | 2018-06-01 | 2017-36-20-2W.7 | 56/2017. (XII. 27.) NFM rendelet |
 | 2018-06-02 | 2017-36-20-2W.8 | 2010: CXXX. törvény |
 | 2020-01-01 | 2017-36-20-2W.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-03-01 | 2017-36-20-2W.10 | 53/2020. (XII. 23.) ITM rendelet |

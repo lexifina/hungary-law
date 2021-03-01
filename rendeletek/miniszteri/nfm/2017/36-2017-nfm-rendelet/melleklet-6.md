@@ -1,3 +1,3 @@
-6. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^74]
+6. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^96]
 
-[^74]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

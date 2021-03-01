@@ -2,10 +2,18 @@
 
 ## A TÚLSÚLYOS, ILLETVE TÚLMÉRETES JÁRMŰVEK KÖZLEKEDÉSÉNEK HATÓSÁGI ELLENŐRZÉSE
 
-21. § (1) A közlekedési hatósági jogkörben eljáró ellenőr jelzésére a jármű vezetője köteles a járművet megállítani, a jármű és a rakomány okmányait átadni, a járművet a helyszíni mérésnek alávetni, valamint az ellenőrzéssel kapcsolatos felhívást teljesíteni.
+21. § (1)[^73] A közlekedési hatósági jogkörben eljáró ellenőr jelzésére a jármű vezetője köteles a járművet megállítani, a jármű és a rakomány okmányait átadni, a járművet a helyszíni mérésnek alávetni, a súlymérés során a járműben tartózkodni, valamint az ellenőrzéssel kapcsolatos felhívást teljesíteni.
 
-(2) Az ellenőrzés alá vont járművel az ellenőrzés helyszínét kizárólag a mérés befejezése után, a mérést végző ellenőr engedélyével szabad elhagyni. Az ellenőrzés során a továbbhaladás feltételeként szabható az össztömeg-, tengelyterhelés-, tengelycsoport-terhelés és mérethatár túllépésének megszüntetése a rakomány átrendezésével vagy átrakodással.
+(2)[^74] Az ellenőrzés alá vont járművel az ellenőrzés helyszínét kizárólag a mérés befejezése után, a mérést végző ellenőr engedélyével szabad elhagyni. A megtett útra vonatkozóan az ellenőrzést végző ellenőr jogosult az általa megállapított díjak beszedésére. Az ellenőrzés során a továbbhaladás feltételeként szabható az össztömeg-, tengelyterhelés-, tengelycsoport-terhelés és mérethatár túllépésének megszüntetése
 
-(3)[^55] A Katonai Nemzetbiztonsági Szolgálat, valamint a Honvédség által üzemben tartott, továbbá a Honvédség érdekében szállító más üzembentartó által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek ellenőrzését kizárólag Katonai Rendész Szolgálat jelenlétében hajthatják végre.
+a) a rakomány átrendezésével,
 
-[^55]: A 21. § (3) bekezdését az 56/2017. (XII. 27.) NFM rendelet 15. §-a iktatta be.
+b) átrakodással vagy
+
+c) a közútkezelői hozzájárulás megszerzésével.
+
+(3)[^75] A Katonai Nemzetbiztonsági Szolgálat, valamint a Honvédség által üzemben tartott, továbbá a Honvédség érdekében szállító más üzembentartó által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek ellenőrzését kizárólag Katonai Rendész Szolgálat jelenlétében hajthatják végre.
+
+[^73]: A 21. § (1) bekezdése az 53/2020. (XII. 23.) ITM rendelet 7. §-ával megállapított szöveg.
+[^74]: A 21. § (2) bekezdése az 53/2020. (XII. 23.) ITM rendelet 7. §-ával megállapított szöveg.
+[^75]: A 21. § (3) bekezdését az 56/2017. (XII. 27.) NFM rendelet 15. §-a iktatta be.
