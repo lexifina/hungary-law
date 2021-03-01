@@ -2,7 +2,7 @@
 
 57. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a)
+a) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelv;
 
 b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 

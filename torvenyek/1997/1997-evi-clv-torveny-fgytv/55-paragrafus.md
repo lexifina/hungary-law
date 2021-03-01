@@ -27,3 +27,5 @@ l) a 2012. január 1-je előtt létrehozott fogyasztói csoportok bejelentésér
 vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
+
+(3) Felhatalmazást kap a Kormány, hogy meghatározza a pótalkatrészek kötelező forgalmazására alkalmazandó követelményeket, a gyártók által jogellenesen tervezett avulással kapcsolatos jogkövetkezményeket, a pótalkatrészek és a javítóhálózat biztosításával, a tájékoztatással kapcsolatos kötelezettségeket, a digitális és csatlakoztatott eszközök élettartamával, a szoftverek elavulásával kapcsolatos kötelezettségeket, valamint az áru megvásárlásával egyidejűleg szállított operációs rendszer és a szoftver frissítéseihez kapcsolódó szoftverek elavulása miatti kockázatok csökkentésének lehetséges módjait.
