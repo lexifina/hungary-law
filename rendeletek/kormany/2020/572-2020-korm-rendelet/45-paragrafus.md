@@ -1,122 +1,121 @@
 ## 45. § Az R.
 
-1.[^48]
+1.[^47]
 
-2.[^49]
+2.[^48]
 
-3.[^50]
+3.[^49]
 
-4.[^51]
+4.[^50]
 
-5.[^52]
+5.[^51]
 
-6.[^53]
+6.[^52]
 
-7.[^54]
+7.[^53]
 
-8.[^55]
+8.[^54]
 
-9.[^56]
+9.[^55]
 
-10.[^57]
+10.[^56]
 
-11.[^58]
+11.[^57]
 
-12.[^59]
+12.[^58]
 
-13.[^60]
+13.[^59]
 
-14.[^61]
+14.[^60]
 
-15.[^62]
+15.[^61]
 
-16.[^63]
+16.[^62]
 
-17.[^64]
+17.[^63]
 
-18.[^65]
+18.[^64]
 
-19.[^66]
+19.[^65]
 
-20.[^67]
+20.[^66]
 
-21.[^68]
+21.[^67]
 
-22.[^69]
+22.[^68]
 
-23.[^70]
+23.[^69]
 
-24.[^71]
+24.[^70]
 
-25.[^72]
+25.[^71]
 
-26.[^73]
+26.[^72]
 
-27.[^74]
+27.[^73]
 
-28.[^75]
+28.[^74]
 
-29.[^76]
+29.[^75]
 
-30.[^77]
+30.[^76]
 
-31.[^78]
+31.[^77]
 
-32.[^79]
+32. 100. § (2) bekezdésében a „hat hónapra” és a „6 hónapra” szövegrész helyébe az „egy évre” szöveg,
 
-33.[^80]
+33.[^78]
 
-34.[^81]
+34.[^79]
 
-35.[^82]
+35.[^80]
 
-36.[^83]
+36.[^81]
 
-37.[^84]
+37.[^82]
 
-38.[^85]
+38.[^83]
 
-39.[^86]
+39.[^84]
 
-40.[^87]
+40.[^85]
 
-[^48]: A 45. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^49]: A 45. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: A 45. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: A 45. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^52]: A 45. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^53]: A 45. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: A 45. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^55]: A 45. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^56]: A 45. § 9. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^57]: A 45. § 10. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^58]: A 45. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^59]: A 45. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^60]: A 45. § 13. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^61]: A 45. § 14. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^62]: A 45. § 15. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^63]: A 45. § 16. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^64]: A 45. § 17. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^65]: A 45. § 18. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^66]: A 45. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^67]: A 45. § 20. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^68]: A 45. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^69]: A 45. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^70]: A 45. § 23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^71]: A 45. § 24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^72]: A 45. § 25. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^73]: A 45. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^74]: A 45. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^75]: A 45. § 28. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^76]: A 45. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^77]: A 45. § 30. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^78]: A 45. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^79]: A 45. § 32. pontja a 127. § (5) bekezdése alapján 2021. március 1-jén lép hatályba.
-[^80]: A 45. § 33. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^81]: A 45. § 34. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^82]: A 45. § 35. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^83]: A 45. § 36. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^84]: A 45. § 37. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^85]: A 45. § 38. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^86]: A 45. § 39. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^87]: A 45. § 40. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 45. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 45. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 45. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 45. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 45. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 45. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 45. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 45. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 45. § 9. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^56]: A 45. § 10. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^57]: A 45. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 45. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 45. § 13. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^60]: A 45. § 14. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^61]: A 45. § 15. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^62]: A 45. § 16. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^63]: A 45. § 17. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^64]: A 45. § 18. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^65]: A 45. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: A 45. § 20. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^67]: A 45. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 45. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 45. § 23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 45. § 24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 45. § 25. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: A 45. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 45. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 45. § 28. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 45. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 45. § 30. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 45. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 45. § 33. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 45. § 34. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 45. § 35. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 45. § 36. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 45. § 37. pontja a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^83]: A 45. § 38. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 45. § 39. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 45. § 40. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

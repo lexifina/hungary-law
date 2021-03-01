@@ -1,6 +1,6 @@
-## 123. §[^196]
+## 123. §[^193]
 
-## 30.[^197]
+## 30.[^194]
 
-[^196]: A 123. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^197]: A 30. alcím (124. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^193]: A 123. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^194]: A 30. alcím (124. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

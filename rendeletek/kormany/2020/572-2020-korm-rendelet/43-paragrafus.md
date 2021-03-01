@@ -1,3 +1,3 @@
-## 42. §[^44]
+## 42. §[^43]
 
-[^44]: A 42. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^43]: A 42. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.

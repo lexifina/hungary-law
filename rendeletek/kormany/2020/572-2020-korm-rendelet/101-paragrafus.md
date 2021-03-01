@@ -1,3 +1,3 @@
-## 100. §[^171]
+## 100. §[^168]
 
-[^171]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^168]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
