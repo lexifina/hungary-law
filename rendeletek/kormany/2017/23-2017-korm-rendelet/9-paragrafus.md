@@ -1,6 +1,6 @@
-## 8/A. §[^40] E rendelet alapján helyi önkormányzat, önkormányzati társulás, helyi önkormányzat 100%-os tulajdonában álló gazdasági társaság, valamint önkormányzati társulás 100%-os tulajdonában álló gazdasági társaság részére helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás, nem helyi önkormányzat vagy önkormányzati társulás 100%-os tulajdonában álló gazdasági társaság részére regionális beruházási támogatás biztosítható.
+## 8/A. §[^44] E rendelet alapján helyi önkormányzat, önkormányzati társulás, helyi önkormányzat 100%-os tulajdonában álló gazdasági társaság, valamint önkormányzati társulás 100%-os tulajdonában álló gazdasági társaság részére helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás, nem helyi önkormányzat vagy önkormányzati társulás 100%-os tulajdonában álló gazdasági társaság részére regionális beruházási támogatás biztosítható.
 
-9. § (1)[^41] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget, regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat.
+9. § (1)[^45] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget, regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat.
 
 (2) Ha a támogatás nyújtása az uniós állami támogatási szabályok értelmében az Európai Bizottság előzetes jóváhagyásától függ, a támogatási döntés csak az Európai Bizottság jóváhagyó határozatának meghozatalát követően hajható végre.
 
@@ -26,5 +26,5 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 
 (10) A (9) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére az Atr. 18/A–18/D. §-ait kell alkalmazni.
 
-[^40]: A 8/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 6. §-a iktatta be.
-[^41]: A 9. § (1) bekezdése a 226/2019. (IX. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^44]: A 8/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 6. §-a iktatta be.
+[^45]: A 9. § (1) bekezdése a 226/2019. (IX. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
