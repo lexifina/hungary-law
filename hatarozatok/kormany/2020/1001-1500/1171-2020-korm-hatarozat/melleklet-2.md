@@ -14,7 +14,7 @@
 
 | 6. | Futamidő | forgóeszközhitel: maximum 3 év beruházási hitel és hitelkiváltás: maximum 15 év |
 
-2. melléklet az 1171/2020. (IV. 21.) Korm. határozathoz[^5]
+2. melléklet az 1171/2020. (IV. 21.) Korm. határozathoz[^6]
 
 MFB Versenyképességi Hitel feltételei
 
@@ -32,4 +32,4 @@ MFB Versenyképességi Hitel feltételei
 
 | 6. | Futamidő | forgóeszközhitel: maximum 5 év beruházási, akvizíciós és hitelkiváltó hitel: maximum 15 év |
 
-[^5]: A 2. melléklet az 1799/2020. (XI. 17.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 2. melléklet az 1799/2020. (XI. 17.) Korm. határozat 4. pontjával megállapított szöveg.
