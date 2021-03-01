@@ -8,7 +8,11 @@ ba) az Flt. 6. § (1) bekezdésében előírt nyilvántartásba vételi kötelez
 
 bb) a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyilvántartásba vételéről és folytatásának feltételeiről szóló 118/2001. (VI. 30.) Korm. rendeletben (a továbbiakban: Korm. rendelet) meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem a Korm. rendeletben foglaltak szerint vagy valótlan adattartalommal tett eleget;
 
-c) azt, aki az Flt.-ben, valamint a felhatalmazása alapján más jogszabályban meghatározott foglalkoztatást elősegítő támogatásban részesül, és az erről szóló véglegessé vált határozatban előírt nyilvántartási, adatszolgáltatási kötelezettségének nem tett eleget.
+c)[^3] azt, aki a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvényben (a továbbiakban: Fftv.), valamint a felhatalmazása alapján más jogszabályban meghatározott foglalkoztatást elősegítő támogatásban részesül, és az erről szóló véglegessé vált határozatban előírt nyilvántartási, adatszolgáltatási kötelezettségének nem tett eleget,
+
+d)[^4] az Flt. 58. § (5) bekezdés c) pontjában meghatározott munkaadót, ha a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló kormányrendeletben meghatározott bejelentési kötelezettségének nem tett eleget.
 
 [^1]: Az 1. § nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § a) pontja a 47/2019. (III. 12.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^3]: Az 1. § c) pontja a 101/2021. (II. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^4]: Az 1. § d) pontját a 101/2021. (II. 27.) Korm. rendelet 13. §-a iktatta be.
