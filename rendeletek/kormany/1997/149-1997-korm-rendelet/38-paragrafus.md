@@ -28,7 +28,9 @@ da) körülményei tekintetében köteles a valóságnak megfelelő információ
 
 db) az örökbefogadásra való alkalmasság feltétele az örökbefogadás előtti tanácsadáson történő részvétel.
 
-(4)[^214] A gyermekvédelmi szakszolgálat a kérelem előterjesztésével egyidejűleg, de legkésőbb tizenöt napon belül írásban tájékoztatja az örökbe fogadni szándékozót
+e)[^214] a vele egy háztartásban élő személyekről, a velük fennálló kapcsolatról, és arról, hogy betegsége, akadályoztatása esetén van-e olyan személy, aki a gyermeket átmeneti jelleggel gondozza, ha a Ptk. 4:121. § (4) bekezdése alapján egyedül szándékozik örökbe fogadni.
+
+(4)[^215] A gyermekvédelmi szakszolgálat a kérelem előterjesztésével egyidejűleg, de legkésőbb tizenöt napon belül írásban tájékoztatja az örökbe fogadni szándékozót
 
 a) az örökbefogadás feltételeiről,
 
@@ -38,15 +40,16 @@ c) arról, hogy családi és lakáskörülményeiről a gyermekvédelmi szakszol
 
 d) arról, hogy jövedelmi viszonyairól 30 napnál nem régebbi igazolást kell benyújtania a gyermekvédelmi szakszolgálathoz.
 
-(5)[^215] Ha az örökbe fogadni szándékozó személy az alkalmassági vizsgálaton, a tanácsadáson nem jelent meg, és távolmaradását nem mentette ki, a környezettanulmány elkészítését nem tette lehetővé, vagy a jövedelmi viszonyairól szóló 30 napnál nem régebbi igazolást nem csatolta, a gyermekvédelmi szakszolgálat az örökbe fogadni szándékozó személy kérelmét visszavontnak tekinti, és az alkalmassági vizsgálatot nem folytatja le.
+(5)[^216] Ha az örökbe fogadni szándékozó személy az alkalmassági vizsgálaton, a tanácsadáson nem jelent meg, és távolmaradását nem mentette ki, a környezettanulmány elkészítését nem tette lehetővé, vagy a jövedelmi viszonyairól szóló 30 napnál nem régebbi igazolást nem csatolta, a gyermekvédelmi szakszolgálat az örökbe fogadni szándékozó személy kérelmét visszavontnak tekinti, és az alkalmassági vizsgálatot nem folytatja le.
 
-(6)[^216] A gyermekvédelmi szakszolgálat a kérelem beadásától számított 60 napon belül tájékoztatja az örökbe fogadni szándékozó személyt az alkalmassági vizsgálat eredményéről, és az alkalmasság megállapítását megalapozó vélemények esetén arról, hogy döntése megalapozása érdekében részt vehet a térítésmentes felkészítő tanfolyamon.
+(6)[^217] A gyermekvédelmi szakszolgálat a kérelem beadásától számított 60 napon belül tájékoztatja az örökbe fogadni szándékozó személyt az alkalmassági vizsgálat eredményéről, és az alkalmasság megállapítását megalapozó vélemények esetén arról, hogy döntése megalapozása érdekében részt vehet a térítésmentes felkészítő tanfolyamon.
 
 [^209]: A 38. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 17. §-ának (1) bekezdésével megállapított, a 339/2007. (XII. 15.) Korm. rendelet 18. §-a, a 334/2011. (XII. 29.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^210]: A 38. § (2a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 21. § (1) bekezdése iktatta be.
 [^211]: A 38. § (2b) bekezdését a 70/2014. (III. 13.) Korm. rendelet 21. § (1) bekezdése iktatta be.
 [^212]: A 38. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^213]: A 38. § (3) bekezdés d) pontja a 325/2020. (VII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^214]: A 38. § (4) bekezdése a 325/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^215]: A 38. § (5) bekezdése a 325/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^216]: A 38. § (6) bekezdése a 325/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^214]: A 38. § (3) bekezdés e) pontját a 94/2021. (II. 27.) Korm. rendelet 1. §-a iktatta be.
+[^215]: A 38. § (4) bekezdése a 325/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^216]: A 38. § (5) bekezdése a 325/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^217]: A 38. § (6) bekezdése a 325/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
