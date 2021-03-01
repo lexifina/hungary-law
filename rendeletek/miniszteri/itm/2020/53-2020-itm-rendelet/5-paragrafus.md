@@ -1,0 +1,1 @@
+## „(4a) A kiadott hozzájárulások esetében a túlsúlydíj, illetve a túlméretdíj megfizetése az engedélyben szereplő értékek alapján történik, annak – a túlsúlyos, illetve túlméretes közlekedés megkezdését követően – a mért értékek alapján történő utólagos módosítására nincs lehetőség.”
