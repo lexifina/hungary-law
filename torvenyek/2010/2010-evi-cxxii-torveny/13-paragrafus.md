@@ -58,7 +58,7 @@ e) lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti
 
 f)
 
-g) ellátja a munkáltatók és kifizetők által foglalkoztatott biztosítottak adatainak nyilvántartásával, továbbá az adatoknak az egészségbiztosítás biztosítotti nyilvántartása és a munkaügyi hatóság részére történő átadásával kapcsolatos, jogszabályban az állami adó- és vámhatóság feladataként meghatározott feladatokat,
+g) ellátja a munkáltatók és kifizetők által foglalkoztatott biztosítottak adatainak nyilvántartásával, továbbá az adatoknak az egészségbiztosítás biztosítotti nyilvántartása és a foglalkoztatás-felügyeleti hatóság részére történő átadásával kapcsolatos, jogszabályban az állami adó- és vámhatóság feladataként meghatározott feladatokat,
 
 h) jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, az adópolitikáért felelős miniszter részére teljesítendő adatszolgáltatást,
 
