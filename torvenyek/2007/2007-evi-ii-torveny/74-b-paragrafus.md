@@ -34,6 +34,6 @@ b) gazdasági társaság, az idegenrendészeti hatóság a cégnyilvántartásb�
 
 (7) Az idegenrendészeti hatóság megtagadja a fogadó szervezet, illetve a gyakornoki program nyilvántartásba vételét, valamint törli a nyilvántartásból a fogadó szervezetet, illetve a gyakornoki programot, ha a bejelentés nem felel meg a (2)–(3) bekezdés szerinti feltételeknek vagy a gyakornok fogadása nem a (2) bekezdés e) pontja szerinti fogadó szervezet cégnyilvántartásban meghatározott tevékenysége keretében történik.
 
-(8) A (7) bekezdésben foglaltak vizsgálata során az idegenrendészeti hatóság állásfoglalást kérhet a foglalkoztatás jellegével összefüggésben feladatot ellátó minisztériumoktól, valamint szakmai kamaráktól, továbbá a munkaügyi hatóságtól és az állami foglalkoztatási szervtől. A megkeresett szerv állásfoglalását 5 munkanapon belül megküldi az idegenrendészeti hatóságnak.
+(8) A (7) bekezdésben foglaltak vizsgálata során az idegenrendészeti hatóság állásfoglalást kérhet a foglalkoztatás jellegével összefüggésben feladatot ellátó minisztériumoktól, valamint szakmai kamaráktól, továbbá a foglalkoztatás-felügyeleti hatóságtól és az állami foglalkoztatási szervtől. A megkeresett szerv állásfoglalását 5 munkanapon belül megküldi az idegenrendészeti hatóságnak.
 
 (9) Ha a bejelentési kötelezettségének a fogadó szervezet nem tesz eleget, az idegenrendészeti hatóság határozatban – a jogsértés súlyának figyelembevételével – törli a fogadó szervezetet a gyakornokot fogadó szervezetek nyilvántartásából és legfeljebb egy évre eltiltja gyakornok fogadásától.
