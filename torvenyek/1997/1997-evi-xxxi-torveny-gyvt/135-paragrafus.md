@@ -98,13 +98,11 @@ dj) – részükre az ellátás folyamatos biztosítása, engedély nélküli el
 
 adatainak a kezelésére.
 
-(3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését a (2) bekezdésben meghatározott adattartalmú – jogszabályban meghatározott – környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök rögzítése jogszabályban meghatározottak szerint
+(3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését a (2) bekezdésben meghatározott adattartalmú – jogszabályban meghatározott – környezettanulmány, cselekvési és intézkedési terv, családgondozási terv, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök rögzítése jogszabályban meghatározottak szerint
 
-a) a gyermekjóléti alapellátások tekintetében a gyermekvédelmi nyilvántartásban,
+a) a gyermekjóléti szolgáltatás, a gyermekek átmeneti gondozása és a gyermekvédelmi szakellátások tekintetében a Gyermekeink védelmében elnevezésű informatikai rendszerben,
 
-b) a gyermekvédelmi szakellátások tekintetében a Gyermekeink védelmében elnevezésű informatikai rendszerben,
-
-c) a javítóintézeti ellátás tekintetében a javítóintézeti informatikai rendszerben
+b) a javítóintézeti ellátás tekintetében a javítóintézeti informatikai rendszerben
 
 történik.
 
@@ -112,7 +110,11 @@ történik.
 
 a) a (2) bekezdés a)–c) pontjai szerinti adatok rögzítése a törzsadat alrendszerben,
 
-b) a gyermek nevelkedésének megtervezése a környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv alapján, valamint a gondozási-nevelési tevékenység megvalósításának értékelése a tervező és értékelő alrendszerben,
+b) a tervező és értékelő alrendszerben
+
+ba) a gyermekjóléti alapellátást nyújtó részéről a gyermek veszélyeztetettségének feltárása, a veszélyeztetettség megelőzéséhez és megszüntetéséhez szükséges intézkedésre történő javaslat megtétele; a gyermek nevelkedésének megtervezése érdekében a környezettanulmány, cselekvési és intézkedési terv, védelembe vétel esetén a családi, egyéni gondozási terv elkészítése, az egészségügyi lap feltöltése; nevelésbe vétel esetén a családi kapcsolatok, családgondozás tervezése és a helyzetértékelés; a családbafogadás és utógondozás esetén a gondozási terv elkészítése és a helyzetértékelés, valamint az átmeneti gondozás esetén az egyéni gondozási-nevelési terv, a családgondozási terv elkészítése és a helyzetértékelés;
+
+bb) a gyermekvédelmi szakellátás esetén az elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv elkészítése, valamint a gondozási-nevelési tevékenység megvalósításának értékelése
 
 c) a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
 

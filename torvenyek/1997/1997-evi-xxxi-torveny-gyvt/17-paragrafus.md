@@ -20,7 +20,7 @@ i) a menekülteket befogadó állomás, a menekültek átmeneti szállása,
 
 j) az egyesületek, az alapítványok és az egyházi jogi személyek,
 
-k) a munkaügyi hatóság,
+k) a foglalkoztatás-felügyeleti hatóság,
 
 l) a javítóintézet,
 

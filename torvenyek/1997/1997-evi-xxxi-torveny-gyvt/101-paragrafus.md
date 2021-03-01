@@ -58,4 +58,4 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
-(6)
+(6) A családpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.

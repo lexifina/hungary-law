@@ -14,7 +14,7 @@ e) az örökbefogadásra való alkalmasságot megállapító érvényes és hat�
 
 ea) házaspárral együttesen vagy
 
-eb) egyedülálló személlyel [(az a)–e) pontban foglaltak a továbbiakban együtt: a szolgáltatást igénybe vevő].
+eb) egyedüli személlyel [(az a)–e) pontban foglaltak a továbbiakban együtt: a szolgáltatást igénybe vevő].
 
 (1a) A közhasznú szervezet – a (3) bekezdésben foglalt kivétellel – azzal a vér szerinti szülővel és örökbe fogadni szándékozó személlyel, akik már ismerik egymást és együtt kérik a nyílt örökbefogadást elősegítő szolgáltatást
 
