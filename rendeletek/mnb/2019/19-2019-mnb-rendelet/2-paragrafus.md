@@ -44,6 +44,8 @@ bd) bankjegy-kifizető gép;
 
 8. ERA rendszer: az MNB elektronikus ügyintézést biztosító információs rendszere;
 
+8a.[^2] fogyasztó: a Polgári Törvénykönyvről szóló törvényben meghatározott személy;
+
 9. forgalomból bevont bankjegy: törvényes fizetőeszköznek már nem minősülő, MNB hirdetményben vagy MNB rendeletben, illetve a pénzkibocsátásra jogosult külföldi intézmény jogi aktusában vagy hivatalos közleményében ilyenként meghatározott bankjegy;
 
 10. forgalomból bevont érme: az érmék feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló MNB rendeletben meghatározott fogalom;
@@ -72,17 +74,21 @@ alapján bankjegy-visszaforgatásra nem alkalmas, valamint
 
 c) az EKB határozat 2. cikk 11. pontja szerinti euróbankjegy;
 
-13. forintbankjegy átváltása:
+13.[^3] forintbankjegy átváltása:
 
-a) a forgalomból bevont forintbankjegynek a hitelintézet és a Posta Elszámoló Központot működtető intézmény (a továbbiakban: posta) által az MNB tv. 23. § (3) bekezdése szerinti határidőn belül
+a) a forgalomból bevont forintbankjegynek az MNB tv. 23. § (3) bekezdése szerinti határidőn belül
 
-aa) a pénztárral rendelkező hitelintézeti, postai fiók pénztárában azonos címletű, forgalomképes forintbankjegyre történő cseréje,
+aa) azonos címletű, forgalomképes forintbankjegyre történő cseréje,
 
-ab) a pénztárral nem, de az 5. pont b) alpont ba)–bc) pontja szerinti ügyfél által kezelt géppel rendelkező hitelintézeti vagy postai fiókban a bankjegyvizsgáló gépen keresztül lebonyolított befizetés,
+ab) fizetésül való elfogadása, ideértve az ügyfél saját fizetési számlájára történő befizetést is,
 
-b) a nehezen felismerhető és sérült forintbankjegynek a hitelintézet és a posta által, a pénztárral rendelkező hitelintézeti, postai fiók pénztárában azonos címletű, forgalomképes forintbankjegyre történő cseréje.
+ac) az 5. pont b) alpont ba)–bc) pontja szerinti ügyfél által kezelt gépen keresztül lebonyolított befizetés elfogadása,
 
-Nem minősül forintbankjegy átváltásának a forgalomból bevont, a nehezen felismerhető és a sérült forintbankjegy fizetésül való elfogadása a hitelintézeti és postai fiók pénztárában, ideértve az ügyfél saját fizetési számlájára történő befizetést is;
+b) a nehezen felismerhető és sérült forintbankjegy
+
+ba) azonos címletű, forgalomképes forintbankjegyre történő cseréje,
+
+bb) fizetésül való elfogadása, ideértve az ügyfél saját fizetési számlájára történő befizetést is;
 
 14. forintbankjegyek címletváltása: a forgalomképes, valamint a törvényes fizetőeszköznek minősülő forgalomképtelen forintbankjegyeknek – azok névértékével egyező összegben – más címletű, forgalomképes forintbankjegyekre, illetve forintérmékre történő cseréje;
 
@@ -140,7 +146,7 @@ b) a pénzforgalmi intézmény,
 
 c) a Hpt. szerinti pénzváltási tevékenységet közvetítő,
 
-d) a posta,
+d)[^4] a Posta Elszámoló Központot működtető intézmény (a továbbiakban: posta),
 
 e) a postai szolgáltatásokról szóló törvény szerinti nemzetközi postautalvány-szolgáltatást nyújtó postai szolgáltató;
 
@@ -157,3 +163,7 @@ e) a postai szolgáltatásokról szóló törvény szerinti nemzetközi postauta
 30. ügyfél: a készpénzforgalmazás keretében a pénzfeldolgozó, a pénzforgalmazó, az ügyfél által kezelt gép, valamint az automata bankjegykiadó gép szolgáltatását igénybe vevő természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet;
 
 31. vis maior: minden, a pénzfeldolgozót, a pénzforgalmazót és az egyéb gazdasági szereplőt befolyásoló, elháríthatatlan, a bankjegyellátásban komoly fennakadást okozó természeti vagy társadalmi körülmény, amely az e rendeletben foglaltak teljesítését befolyásolja, illetve gátolja, így különösen a természeti katasztrófa, a terrorcselekmény, a sztrájk, a háború és a polgárháború.
+
+[^2]: A 2. § 8a. pontját a 38/2020. (X. 21.) MNB rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 2. § 13. pontja a 38/2020. (X. 21.) MNB rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § 24. pont d) alpontja a 38/2020. (X. 21.) MNB rendelet 1. § (3) bekezdésével megállapított szöveg.

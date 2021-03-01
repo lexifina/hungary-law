@@ -1,8 +1,6 @@
-## 29. §[^1]
-
 1. melléklet a 19/2019. (V. 13.) MNB rendelethez
 
-## A forintbankjegyek forgalomképességi vizsgálatának részletes szempontjai
+A forintbankjegyek forgalomképességi vizsgálatának részletes szempontjai
 
 1. A melléklet a forintbankjegyek forgalomképességének egységes elveken alapuló, elsősorban gépi vizsgálati minimumkövetelményeit határozza meg. A forintbankjegyek csak abban az esetben forgathatók vissza, ha a következőkben meghatározott válogatási kritériumok alapján forgalomképesnek minősülnek. Az MNB kérésre referencia-bankjegyekkel látja el a pénzfeldolgozókat és a pénzforgalmazókat.
 
@@ -38,7 +36,7 @@ A forgalomképtelennek minősítendő forintbankjegyen található szakadás min
 
 |  | 3 | Átlós | 4 mm | 18 mm* |
 
-* A forintbankjegyen a szakadás hosszúsága a szakadás csúcsát és a szakadás kiindulópontjához tartozó bankjegyszélt összekötő egyenes hosszával mérendő (nem a szakadás vonalhosszúságával).
+## * A forintbankjegyen a szakadás hosszúsága a szakadás csúcsát és a szakadás kiindulópontjához tartozó bankjegyszélt összekötő egyenes hosszával mérendő (nem a szakadás vonalhosszúságával).
 
 4.5. Lyukas forintbankjegy
 
@@ -67,5 +65,3 @@ A forintbankjegyen a kibocsátásáról rendelkező MNB hirdetményben, illetve 
 4.11. Hajtogatásból eredő gyűrődés
 
 A forintbankjegy teljes felületén többszörös, véletlenszerű elhelyezkedésű gyűrődések találhatók, amelyek kedvezőtlenül befolyásolják a forintbankjegy megjelenését, tartását. Az összehajtott forintbankjegy forgalomképtelennek minősül, amennyiben az összehajtogatás miatt a forintbankjegy hossza, illetve szélessége több, mint 3 mm-rel csökkent.
-
-[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

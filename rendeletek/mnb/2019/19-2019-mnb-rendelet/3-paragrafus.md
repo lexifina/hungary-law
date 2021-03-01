@@ -18,7 +18,7 @@ db) euróbankjegy esetén a 7. §-ban foglaltak szerint,
 
 dc) a db) alpontban nem szabályozott külföldi bankjegy esetén az (1) és (4) bekezdésben foglaltak szerint
 
-## már igazoltan elvégezte.
+már igazoltan elvégezte.
 
 (3) A forintbankjegy valódiságvizsgálatát a kibocsátásáról rendelkező MNB hirdetményben, illetve MNB rendeletben, valamint az MNB-nek az adott címlet leírását tartalmazó kiadványában foglaltak figyelembevételével, forgalomképességi vizsgálatát pedig az 1. mellékletben foglalt szempontok szerint kell elvégezni.
 

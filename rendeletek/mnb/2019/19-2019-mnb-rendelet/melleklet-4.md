@@ -1,5 +1,3 @@
-## A bankjegyvizsgáló gép MNB általi bevizsgálása és az MNB jegyzékbe való felvétele iránti igény bejelentése
-
 | 1. Az igény bejelentőjére – gyártó, forgalmazó, üzemeltető* – vonatkozó adatok | Név: |  |
 
 | Székhely: |  |
@@ -54,11 +52,11 @@
 
 4. melléklet a 19/2019. (V. 13.) MNB rendelethez
 
-## A bankjegyek szakértői vizsgálatához kapcsolódó jegyzőkönyv tartalmi elemei
+A bankjegyek szakértői vizsgálatához kapcsolódó jegyzőkönyv tartalmi elemei
 
 1. A jegyzőkönyvnek – a 2. pontban foglalt eltérésekkel – a következő adatokat kell tartalmaznia:
 
-1.1. A szakértői vizsgálat kezdeményezésének oka[^2]:
+1.1. A szakértői vizsgálat kezdeményezésének oka[^17]:
 
 a) hamisgyanús bankjegy,
 
@@ -94,4 +92,4 @@ i) a jegyzőkönyv sorszáma.
 
 2.3. Az ügyfél által kezelt gépből származó hamisgyanús bankjegyre vonatkozóan a jegyzőkönyvet az 1.2. pont e) és f) alpontjában meghatározott adatok nélkül kell elkészíteni.
 
-[^2]: A megfelelő ok aláhúzással jelölendő.
+[^17]: A megfelelő ok aláhúzással jelölendő.

@@ -1,6 +1,6 @@
 2. melléklet a 19/2019. (V. 13.) MNB rendelethez
 
-## A bankjegyvizsgáló gépek funkcióira és működésére vonatkozó részletes szabályok, valamint a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő ehhez kapcsolódó teendői
+A bankjegyvizsgáló gépek funkcióira és működésére vonatkozó részletes szabályok, valamint a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő ehhez kapcsolódó teendői
 
 1. A bankjegyvizsgáló gépek funkciói
 
