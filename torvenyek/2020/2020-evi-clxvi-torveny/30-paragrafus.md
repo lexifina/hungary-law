@@ -22,4 +22,4 @@ j)
 
 k)
 
-l) 1. melléklete.
+l)
