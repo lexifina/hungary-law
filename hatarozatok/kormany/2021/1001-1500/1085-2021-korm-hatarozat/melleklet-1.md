@@ -26,8 +26,11 @@
 
 ## Határidő: a Kvtv. felülvizsgálata során
 
-## 2. A Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság által megvalósításra kerülő hitelkonstrukciókkal kapcsolatos intézkedésekről szóló 1171/2020. (IV. 21.) Korm. határozat 1. pont b) alpontjában a „150” szövegrész helyébe a „15” szöveg lép.
+## 2.[^1]
 
-## 3. A Kormány visszavonja a Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság és a Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság által megvalósítandó garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 1170/2020. (IV. 21.) Korm. határozat 1. pont a) alpontját, 2. pontját és 1. mellékletét.
+## 3.[^2]
 
 1. melléklet az 1085/2021. (III. 1.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
