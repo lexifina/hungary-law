@@ -1,4 +1,4 @@
-## 23. §[^36]
+## 23. §[^38]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 11. § és a 12. § 4–9. és 14. pontja 2021. július 1-jén lép hatályba.
 
-[^36]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
