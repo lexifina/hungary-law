@@ -1,5 +1,3 @@
-## 15. § Hatályát veszti a Vhr4.
+15. §[^42]
 
-a) 96. § (2) bekezdése, valamint
-
-b) 100. § (3), (4) és (7) bekezdése.
+[^42]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
