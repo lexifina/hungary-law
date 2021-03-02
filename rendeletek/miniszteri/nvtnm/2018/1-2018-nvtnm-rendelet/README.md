@@ -55,3 +55,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7P
 | 2021-01-01 | 2018-1-20-7P.47 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2021-02-03 | 2018-1-20-7P.48 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2021-02-10 | 2018-1-20-7P.49 | 3/2018. (VIII. 1.) NVTNM rendelet |
+| 2021-03-02 | 2018-1-20-7P.50 | 3/2018. (VIII. 1.) NVTNM rendelet |

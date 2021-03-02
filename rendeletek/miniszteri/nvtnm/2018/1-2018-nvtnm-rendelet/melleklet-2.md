@@ -246,7 +246,7 @@
 
 | 1. | KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság | 01-09-203215 | 2022. december 31. |
 
-| 2. | MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-200580 | 2022. december 31. |
+| 2. |  |  |  |
 
 | 3. | Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság | 01-09-327932 | 2022. december 31. |
 
@@ -286,9 +286,9 @@
 
 | 4. | Magyar Házak Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014103 | 2022. december 31. |
 
-| 5. | Millenáris Széllkapu Beruházó, Fejlesztő és Üzemeltető Nonprofit Korlátolt Felelősségű Társaság | 01-09-177112 | 2022. december 31. |
+| 5. |  |  |  |
 
-| 6. | Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság | 01-09-895196 | 2022. december 31. |
+| 6. |  |  |  |
 
 | 7. | NEKSZT Nemzeti Elektronikus Közbeszerzési Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság | 01-09-297946 | 2022. december 31. |
 
@@ -309,6 +309,8 @@
 | 15. | Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2022. december 31. |
 
 | 16. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
+
+| 17. | MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-200580 | 2022. december 31. |
 
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 
