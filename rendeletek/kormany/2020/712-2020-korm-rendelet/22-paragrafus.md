@@ -1,4 +1,4 @@
-## 21. § Hatályát veszti a háztartási kombinált mosó-szárítógépek energiafelhasználásának ismérveiről való tájékoztatásról szóló 211/2018. (XI. 20.) Korm. rendelet.
+## 21. §[^5]
 
 ## 5. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) A 20. § és 21. § 2021. március 1-jén lép hatályba.
 
 (4) Az 1–17. § 2022. május 28-án lép hatályba.
+
+[^5]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
