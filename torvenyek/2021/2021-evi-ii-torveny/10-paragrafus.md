@@ -1,10 +1,10 @@
 10. § A Vet.
 
-a) 6/A. §-ában az „elektronikus nyilvántartásáról” szövegrész helyébe a „megbízható és hiteles elektronikus tárolásáról” szöveg,
+a)
 
-b) 17. § (2) bekezdésében a „tájékoztatásával” szövegrész helyébe a „hozzájárulásával” szöveg,
+b)
 
-c) 95. § (4) bekezdésében az „emelkedésétől számított” szövegrész helyébe az „emelkedésétől, vagy ha a cégjogi esemény később hatályosul, a hatályosulástól számított” szöveg,
+c)
 
 d)
 

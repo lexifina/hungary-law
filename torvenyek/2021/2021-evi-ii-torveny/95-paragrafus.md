@@ -6,4 +6,4 @@
 
 (3)
 
-(4) Az Ekt. 3. § (1) bekezdésében és 3/H. § (1) bekezdésében a „környezetvédelmi” szövegrész helyébe a „hulladékgazdálkodási” szöveg lép.
+(4)

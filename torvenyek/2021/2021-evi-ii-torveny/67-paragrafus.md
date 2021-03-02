@@ -1,5 +1,1 @@
-67. § A Ht. 63. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Ha a hulladék termelője vagy birtokosa besorolási kötelezettségének nem vagy nem megfelelően tesz eleget, a hulladékot a hulladékgazdálkodási hatóság a hulladék termelőjének vagy birtokosának költségén besorolja és a hulladék megfelelő besorolását határozatban megállapítja.
-
-(3) Ha a hulladék termelője vagy birtokosa besorolási kötelezettségének azért nem tesz eleget, mert az adott anyag vagy tárgy a hulladékjegyzékről szóló miniszteri rendelet szerinti hulladékjegyzékben nem szerepel, a hulladék termelője vagy birtokosa erről a hulladékgazdálkodási hatóságot haladéktalanul tájékoztatja. A hulladékjegyzékben nem veszélyes hulladékként szereplő hulladékot a hulladékgazdálkodási hatóság a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendeletben meghatározottak szerint minősíti, és – ha a besorolás feltételei fennállnak – a hulladék termelőjének vagy birtokosának költségén gondoskodik annak besorolásáról.”
+67. §
