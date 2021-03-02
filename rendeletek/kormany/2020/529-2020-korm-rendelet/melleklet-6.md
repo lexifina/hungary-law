@@ -1,3 +1,3 @@
-6. melléklet az 529/2020. (XI. 28.) Korm. rendelethez[^19]
+6. melléklet az 529/2020. (XI. 28.) Korm. rendelethez[^26]
 
-[^19]: A 6. melléklet a 21. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^26]: A 6. melléklet a 21. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.

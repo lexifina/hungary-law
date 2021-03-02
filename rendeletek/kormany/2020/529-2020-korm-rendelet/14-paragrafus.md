@@ -1,3 +1,3 @@
-## 13. §[^6]
+## 13. §[^13]
 
-[^6]: A 13. § a 21. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^13]: A 13. § a 21. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
