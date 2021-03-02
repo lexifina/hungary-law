@@ -1,4 +1,4 @@
-## 28. §[^16]
+## 28. §[^19]
 
 ## 19. Záró rendelkezés
 
@@ -6,4 +6,4 @@
 
 (2) A 4. § és a 27. § 2021. március 1-jén lép hatályba.
 
-[^16]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
