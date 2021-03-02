@@ -1,3 +1,3 @@
-## 2. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet 71. §-a a következő (3a) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(3a) A rendőrségnél őrszolgálati beosztásban szolgálatot teljesítő, vezényléses szolgálati időrendszerben dolgozóknál, ahol a szolgálatteljesítést naponta azonos helyen két fő egymás utáni beosztásával rendelik el, az eligazítás, váltás, valamint a szolgálati felszerelések felvétele és leadása érdekében a szolgálatteljesítési idő legfeljebb harminc perccel meghosszabbítható.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
