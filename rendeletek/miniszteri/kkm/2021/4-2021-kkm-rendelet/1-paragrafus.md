@@ -1,27 +1,37 @@
-## 1. § A járványügyi készültségi időszak utazási korlátozásairól szóló 408/2020. (VIII. 30.) Korm. rendelet 9/A. § (2) bekezdés f) pontja szerinti államok a következők:
+## 1. §[^1] A járványügyi készültségi időszak utazási korlátozásairól szóló 408/2020. (VIII. 30.) Korm. rendelet 9/A. § (2) bekezdés f) pontja szerinti államok a következők:
 
 a) Amerikai Egyesült Államok,
 
-b) Bahrein,
+b) Azerbajdzsán,
 
-c) Egyesült Arab Emírségek,
+c) Bahrein,
 
-d) Indiai Köztársaság,
+d) Egyesült Arab Emírségek,
 
-e) Indonéz Köztársaság,
+e) Indiai Köztársaság,
 
-f) Izrael Állam,
+f) Indonéz Köztársaság,
 
-g) Japán,
+g) Izrael Állam,
 
-h) Kínai Népköztársaság,
+h) Japán,
 
-i) Koreai Köztársaság,
+i) Kazahsztán,
 
-j) Oroszországi Föderáció,
+j) Kínai Népköztársaság,
 
-k) Szingapúr,
+k) Kirgizisztán,
 
-l) Török Köztársaság és
+l) Koreai Köztársaság,
 
-m) Ukrajna.
+m) Oroszországi Föderáció,
+
+n) Szingapúr,
+
+o) Török Köztársaság,
+
+p) Ukrajna,
+
+q) Üzbegisztán.
+
+[^1]: Az 1. § az 5/2021. (III. 2.) KKM rendelet 1. §-ával megállapított szöveg.
