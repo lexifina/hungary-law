@@ -1,5 +1,3 @@
-## „(5) Alkalmatlanság megállapítása esetén új eljárás a határozat véglegessé válásától számított
+## 2. §[^3]
 
-## a) 3 éven belül nem indítható, ha az eljárás során az örökbe fogadni szándékozó személy a körülményei tekintetében nem a valóságnak megfelelő információkat szolgáltatott,
-
-## b) 1 éven belül nem indítható az a) pontban nem említett esetben.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

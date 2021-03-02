@@ -1,5 +1,3 @@
-## 7. § A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 143/C. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## (A miniszter a családpolitikáért való felelőssége keretében)
-
-## „h) közreműködik az emberkereskedelem elleni küzdelemről szóló stratégia végrehajtásában,”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
