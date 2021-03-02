@@ -1,3 +1,3 @@
-## 35. §[^35]
+## 35. §[^36]
 
-[^35]: A 35. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^36]: A 35. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.

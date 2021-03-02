@@ -1,3 +1,3 @@
-## 66. §[^121]
+## 66. §[^124]
 
-[^121]: A 66. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 66. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
-## 121. §[^191]
+## 121. §[^194]
 
-## 28.[^192]
+## 28.[^195]
 
-[^191]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^192]: A 28. alcím (122. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^194]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^195]: A 28. alcím (122. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
