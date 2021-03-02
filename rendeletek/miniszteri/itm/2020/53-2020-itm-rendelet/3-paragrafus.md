@@ -1,3 +1,3 @@
-## 2. § Az R. 8. §-a a következő (4b) bekezdéssel egészül ki:
+## 2. §[^4]
 
-## „(4b) A (4a) bekezdésben foglaltakat nem kell alkalmazni az egyszerűsített eljárás keretében elektronikus úton, ügyintéző közreműködése nélkül megadott hozzájárulás iránti kérelemre.”
+[^4]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
