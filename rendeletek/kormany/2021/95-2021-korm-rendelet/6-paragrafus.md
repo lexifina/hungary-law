@@ -1,5 +1,0 @@
-## 5. § A 11/2020. (II. 7.) Korm. rendelet 25/A. §-a helyébe a következő rendelkezés lép:
-
-## „25/A. § (1) Ha a felnőttképző olyan képzésben részt vevő személlyel létesít felnőttképzési jogviszonyt, aki rendelkezik oktatási azonosító számmal, a képzésben részt vevő személy oktatási azonosító számát az Oktatási Hivatal a képzésben részt vevő természetes személyazonosító adatainak megadása alapján a felnőttképzés adatszolgáltatási rendszerén keresztül elektronikus úton közli a felnőttképzővel.
-
-## (2) Ha a felnőttképző olyan képzésben részt vevő személlyel létesít felnőttképzési jogviszonyt, aki nem rendelkezik oktatási azonosító számmal, annak kiadását a felnőttképző a felnőttképzés adatszolgáltatási rendszerén keresztül kezdeményezi. Az oktatási azonosító szám kiadására és a változásbejelentésre a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 14. § (2) és (3) bekezdését és 15. § (2) bekezdését kell alkalmazni, azzal, hogy köznevelési intézmény alatt a felnőttképzőt, KIR alatt a felnőttképzés adatszolgáltatási rendszerét kell érteni.”
