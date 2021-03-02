@@ -8,10 +8,13 @@ c)[^188] a 47. alcím szerinti támogatás esetén 2023. december 31-ig,
 
 d) a 46. alcím szerinti támogatás esetén 2024. június 30-ig,
 
-e)[^189] a 41/A–41/C., a 48/A. és az 51–69. alcím szerinti támogatás esetén 2021. június 30-ig
+e)[^189] a 41/A–41/C. alcím szerinti támogatás esetén 2021. december 31-ig,
 
 f) az 50. alcím szerinti támogatás esetén 2028. június 30-ig
 
+g)[^190] a 48/A. és az 51–69. alcím szerinti támogatás esetén 2022. december 31-ig
+
 [^187]: A 24. § a 491/2020. (XI. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^188]: A 24. § c) pontja a 662/2020. (XII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^189]: A 24. § e) pontja a 662/2020. (XII. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^189]: A 24. § e) pontja a 99/2021. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^190]: A 24. § g) pontját a 99/2021. (II. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.

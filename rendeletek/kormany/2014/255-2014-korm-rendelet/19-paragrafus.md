@@ -6,7 +6,7 @@ a)[^161] – a 46., 47. és 50. alcím szerinti támogatás kivételével – az
 
 b)[^162] – a 17. alcím, a 41. alcím, a 100. § (4) bekezdésében foglaltak figyelembevételével – a 46. alcím, a 48–50. alcím, valamint – a 103/H. § (1) bekezdés d) pontjában foglaltak figyelembevételével – az 57. alcím szerinti támogatás kivételével nehéz helyzetben lévő vállalkozás részére, azzal, hogy a 17. és 41. alcím szerinti támogatás nyújtása során a nehéz helyzetben lévő vállalkozások nem részesíthetők a nehéz helyzetükre hivatkozással előnyben az egyéb vállalkozásokkal szemben.
 
-(1a)[^163] A 11–16., 18–40. és 42–45/A. alcím szerinti támogatás olyan vállalkozásnak is nyújtható, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került.
+(1a)[^163] A 11–16., 18–40., 42–45/A., 47., 48/A. és 51–69. alcím alcím szerinti támogatás olyan vállalkozásnak is nyújtható, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került.
 
 (2) Nem ítélhető meg
 
@@ -38,7 +38,7 @@ h)[^167] a 11–45/B. és 47. alcím szerinti támogatás a 2010/787/EU tanácsi
 
 [^161]: A 19. § (1) bekezdés a) pontja a 483/2017. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^162]: A 19. § (1) bekezdés b) pontja a 365/2017. (XII. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^163]: A 19. § (1a) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 8. §-a iktatta be.
+[^163]: A 19. § (1a) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 8. §-a iktatta be, szövege a 99/2021. (II. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^164]: A 19. § (2) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 58. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 18. pontja, a 365/2017. (XII. 5.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^165]: A 19. § (2) bekezdés b) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 59. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 19. pontja szerint módosított szöveg.
 [^166]: A 19. § (2) bekezdés g) pontját a 271/2015. (IX. 18.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 127/2016. (VI. 7.) Korm. rendelet 17. § 20. pontja, a 305/2016. (X. 13.) Korm. rendelet 18. § 4. pontja szerint módosított szöveg.
