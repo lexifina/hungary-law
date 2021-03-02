@@ -1,5 +1,5 @@
-## 95. §[^104]
+## 95. §[^97]
 
 ## 75. A Nemzeti Szakképzési és Felnőttképzési Hivatalról szóló 319/2014. (XII. 13.) Korm. rendelet hatályon kívül helyezése
 
-[^104]: A 95. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 95. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

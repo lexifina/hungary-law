@@ -1,5 +1,5 @@
-## 178. §[^187]
+## 178. §[^180]
 
 ## 152. A nemzeti fejlesztési miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 35/2016. (VIII. 31.) NFM rendelet hatályon kívül helyezése
 
-[^187]: A 178. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^180]: A 178. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

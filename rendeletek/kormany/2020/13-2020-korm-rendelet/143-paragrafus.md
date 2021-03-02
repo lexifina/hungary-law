@@ -1,4 +1,4 @@
-## 142. §[^151]
+## 142. §[^144]
 
 ## II. Fejezet
 
@@ -8,4 +8,4 @@
 
 ## 4/2002. ( II. 26.) OM rendelet hatályon kívül helyezése
 
-[^151]: A 142. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^144]: A 142. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

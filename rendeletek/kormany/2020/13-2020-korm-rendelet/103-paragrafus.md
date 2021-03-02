@@ -1,5 +1,5 @@
-## 102. §[^111]
+## 102. §[^104]
 
 ## 81. A Klebelsberg Intézményfenntartó Központ fenntartásában működő egyes szakképzési feladatot ellátó köznevelési intézmények fenntartóváltásával összefüggő intézkedésekről 120/2015. (V. 21.) Korm. rendelet hatályon kívül helyezése
 
-[^111]: A 102. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 102. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
