@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-48-20-2
 | 2021-02-06 | 2021-48-20-22.1 | 48/2021. (II. 5.) Korm. rendelet |
 | 2021-02-07 | 2021-48-20-22.2 | 2010: CXXX. törvény |
 | 2021-03-01 | 2021-48-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-03-02 | 2021-48-20-22.4 | 2010: CXXX. törvény |
