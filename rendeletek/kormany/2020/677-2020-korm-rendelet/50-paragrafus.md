@@ -1,5 +1,5 @@
-## 49. §[^31]
+## 49. §[^37]
 
 ## 27. A fóti Károlyi István Gyermekközpont által nyújtott gyermekvédelmi szakellátások jövőbeni helyszíneinek kialakítására irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 528/2017. (XII. 29.) Korm. rendelet módosítása
 
-[^31]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

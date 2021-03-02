@@ -1,5 +1,5 @@
-## 26–27. §[^10]
+## 26–27. §[^12]
 
 ## 10. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosítása
 
-[^10]: A 26–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 26–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

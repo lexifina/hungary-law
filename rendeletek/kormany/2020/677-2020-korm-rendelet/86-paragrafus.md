@@ -1,4 +1,4 @@
-## 85. §[^36]
+## 85. §[^42]
 
 ## 32. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 25. §, a 29. §, a 30. § és a 33. § c) pontja 2021. március 1-jén lép hatályba.
 
-[^36]: A 85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
