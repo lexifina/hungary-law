@@ -1,12 +1,15 @@
-## 12. §[^12]
+## 12. §[^13]
 
-## 13. § Hatályát veszti az R.
+## 13. §[^14]
 
-a) 30. § (1) bekezdés nyitó szövegrészében a „családi” szövegrész,
+a)[^15]
 
-b) 30. § (2) bekezdése,
+b)[^16]
 
-c)[^13]
+c)[^17]
 
-[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
