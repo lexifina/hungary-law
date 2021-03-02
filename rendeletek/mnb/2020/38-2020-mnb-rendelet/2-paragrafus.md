@@ -1,17 +1,3 @@
-## „d) a Posta Elszámoló Központot működtető intézmény (a továbbiakban: posta),”
+## 1. §[^2]
 
-2. § (1) A Rendelet 21. § (1) bekezdése helyébe a következő rendelkezés lép, és a Rendelet 21. §-a a következő (1a) és (1b) bekezdésekkel egészül ki:
-
-## „(1) A hitelintézet és a posta a forintbankjegyek címletváltását és átváltását – az (1a) bekezdésben foglalt kivételekkel – valamennyi állandó és mobil fiókjában köteles végezni. Amennyiben a hitelintézet és a posta a 2. § 5. pont b) alpont ba)–bc) pontja szerinti ügyfél által kezelt gépet üzemeltet, a forgalomból bevont bankjegyek átváltására vonatkozó kötelezettségének az ügyfél által kezelt gépen keresztüli befizetés elfogadásával is köteles eleget tenni.
-
-## (1a) Az (1) bekezdés szerinti kötelezettség nem terjed ki a hitelintézet és a posta pénztár nélküli fiókjára, amennyiben
-
-## a) a hitelintézet pénztár nélküli fiókjában kizárólag a Hpt. 3. § (1) bekezdés b) pontja szerinti szolgáltatást nyújt,
-
-## b) a hitelintézet és a posta a főváros ugyanazon kerületében vagy ugyanazon a – fővároson kívüli – településen legalább egy olyan másik – pénztárral rendelkező vagy pénztár nélküli – saját állandó fiókot üzemeltet, amelyben végzi a forintbankjegyek címletváltását és átváltását,
-
-## c) a hitelintézet és a posta a pénztár nélküli fiókját a főváros vonzáskörzetébe tartozó olyan településen üzemelteti, amely település közigazgatási határától mért 20 kilométeres távolságon belül elérhető a hitelintézetnek és a postának olyan másik – pénztárral rendelkező vagy pénztár nélküli – saját állandó fővárosi fiókja, amelyben végzi a forintbankjegyek címletváltását és átváltását.
-
-## (1b) Amennyiben a hitelintézet és a posta az adott településen kizárólag pénztár nélküli fiókot üzemeltet, a forintbankjegyek címletváltására és átváltására vonatkozó kötelezettsége teljesítéséhez közreműködőt vehet igénybe. Közreműködő csak hitelintézet, posta vagy a Hpt. szerinti pénzváltási tevékenységet közvetítő lehet. A hitelintézet és a posta a közreműködő igénybevételéről köteles az MNB-t előzetesen – legkésőbb az igénybevételt 5 munkanappal megelőzően –, a kpl-ellenorzes@mnb.hu elektronikus levélcímre megküldött elektronikus üzenetben tájékoztatni, a következő adatok megadásával: a közreműködő megnevezése, székhelye, cégjegyzékszáma, az érintett fiókok címe.”
-
-(2) A Rendelet 21. § (4) bekezdése helyébe a következő rendelkezés lép:
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
