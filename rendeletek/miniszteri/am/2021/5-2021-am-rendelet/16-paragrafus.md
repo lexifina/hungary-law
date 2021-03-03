@@ -1,0 +1,1 @@
+## szerint módosul.
