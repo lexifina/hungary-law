@@ -1,4 +1,4 @@
-1. melléklet a 133/2013. (XII. 29.) VM rendelethez[^200]
+1. melléklet a 133/2013. (XII. 29.) VM rendelethez[^235]
 
 A nyilvántartott és a nem nyilvántartott halgazdálkodási vízterületeken élő őshonos halfajok halgazdálkodási értéke, valamint a kiszámítás módja
 
@@ -44,8 +44,8 @@ I. KISTERMETŰ FAJOK
 
 | 19. | vágó durbincs | Gymnocephalus cernuus | 50 | 1000 |
 
-| 20. | kősüllő | Sander volgensis | 100 | 3000 |
+| 20. | kősüllő | Sander volgensis | 200 | 3000 |
 
 II. NAGYOBB MÉRETŰ FAJOK
 
-[^200]: Az 1. mellékllet a 62/2019. (XII. 18.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^235]: Az 1. mellékllet a 62/2019. (XII. 18.) AM rendelet 7. § (1) bekezdésével megállapított, az 5/2021. (II. 23.) AM rendelet 15. § a) pontja szerint módosított szöveg.

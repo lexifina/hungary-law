@@ -32,12 +32,10 @@
 
 | menyhal | – | legalább 25 cm | * |
 
-## A naponta kifogható darabszámmal is védett halfajokból éves területi engedéllyel évente összesen legfeljebb
-
-## 100 db fogható ki.
+## A naponta kifogható darabszámmal is védett halfajokból egy személy érvényes állami horgászjeggyel, turista állami horgászjeggyel vagy állami halászjeggyel évente együttesen és összesen legfeljebb 100 darabot foghat ki. A meghatározott kifogható mennyiség az adott személyre vonatkozik, így nem állami vagy területi jegy típusonként értendő.
 
 ## * Menyhal, sügér és domolykó esetében a naponta kifogható mennyiség darabszámtól függetlenül 3 kg.
 
-10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^209]
+10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^244]
 
-[^209]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
+[^244]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.

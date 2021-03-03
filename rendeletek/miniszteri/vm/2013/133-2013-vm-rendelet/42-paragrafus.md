@@ -1,4 +1,4 @@
-42. §[^190] (1) A halgazdálkodásra jogosult a nyilvántartott halgazdálkodási vízterület Hhvtv. 56. § (1) bekezdése szerinti halőrzését társadalmi halőr megbízásával is végezheti.
+42. §[^224] (1) A halgazdálkodásra jogosult a nyilvántartott halgazdálkodási vízterület Hhvtv. 56. § (1) bekezdése szerinti halőrzését társadalmi halőr megbízásával is végezheti.
 
 (2) Minden 10 hektárnál nagyobb, de 50 hektárnál kisebb egybefüggő vízfelületű nyilvántartott halgazdálkodási vízterületen a jogosult köteles legalább 5 fő társadalmi halőr megbízásával vagy 1 fő hivatásos halőr alkalmazásával vagy megbízásával eleget tenni a Hhvtv. 56. § (1) bekezdése szerinti kötelezettségeinek.
 
@@ -16,4 +16,4 @@ e) minden 6000 hektár feletti halgazdálkodási vízterületen legalább 10 fő
 
 (4) A (3) bekezdés szerinti hivatásos halőri létszám társadalmi halőrrel nem helyettesíthető, de hivatásos halőr több jogosult általi közös foglalkoztatása, illetve megbízása a halgazdálkodási hatóság engedélyével lehetséges.
 
-[^190]: A 42. § a 45/2018. (XII. 28.) AM rendelet 31. §-ával megállapított szöveg.
+[^224]: A 42. § a 45/2018. (XII. 28.) AM rendelet 31. §-ával megállapított szöveg.
