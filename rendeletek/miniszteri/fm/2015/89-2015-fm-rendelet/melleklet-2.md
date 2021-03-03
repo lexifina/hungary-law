@@ -106,6 +106,6 @@
 
 | MINDÖSSZESEN |  | 1–100 |
 
-2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^17]
+2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^19]
 
-[^17]: A 2. melléklet a 62/2019. (XII. 18.) AM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^19]: A 2. mellékletet az 5/2021. (II. 23.) AM rendelet 19. § b) pontja hatályon kívül helyezte.
