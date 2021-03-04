@@ -1,0 +1,5 @@
+31/C. § (1) A támogatás támogatástartalma az átmeneti keretszabály 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozásnak a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (3) bekezdése szerinti kapcsolt vállalkozásait (a továbbiakban: kapcsolt vállalkozás) is figyelembe véve, a (2) és a (3) bekezdésben meghatározott kivétellel – nem haladhatja meg az 1,8 millió eurónak megfelelő forintösszeget.
+
+(2) A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma az átmeneti keretszabály 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 225 ezer eurónak megfelelő forintösszeget.
+
+(3) A halászati és akvakultúra-ágazatban tevékeny vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma az átmeneti keretszabály 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 270 ezer eurónak megfelelő forintösszeget.

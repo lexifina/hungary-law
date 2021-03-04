@@ -2,7 +2,7 @@
 
 (2) Működési támogatás esetén a támogatás a működési veszteségen felül fedezetet nyújthat az ésszerű nyereségre is.
 
-(3) A működésből származó veszteség összegét előzetesen, megalapozott előrejelzések alapján kell meghatározni.
+(3)[^23] A működésből származó veszteség és észszerű nyereség összegét előzetesen, megalapozott előrejelzések alapján kell meghatározni.
 
 (4) Az (1) és a (2) bekezdésben meghatározottak teljesítése – a (3) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
@@ -35,3 +35,5 @@ dh) a projekt vagy tevékenység eredményeként közvetlenül felmerült költs
 e) a kulturális intézmény, örökségi helyszín vagy projekt személyi jellegű ráfordítása,
 
 f) a külső tanácsadással és külső szolgáltatók által biztosított támogató szolgáltatásokkal kapcsolatos, közvetlenül a projekt eredményeként felmerülő költség.
+
+[^23]: A 23. § (3) bekezdése az 1/2021. (III. 3.) MK rendelet 3. §-ával megállapított szöveg.

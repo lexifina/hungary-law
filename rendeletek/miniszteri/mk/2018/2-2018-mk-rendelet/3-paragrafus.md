@@ -26,7 +26,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 7. bérköltség: a támogatás kedvezményezettje által ténylegesen fizetendő teljes összeg, amely egy meghatározott időszakban magában foglalja az adózás előtti bruttó bért, a kötelező járulékokat a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerint;
 
-7a.[^3] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet és az 1388/2014/EU bizottsági rendelet;
+7a.[^2] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet és az 1388/2014/EU bizottsági rendelet;
 
 8. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb;
 
@@ -128,7 +128,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 57. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás;
 
-58.[^4] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás;
+58.[^3] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás;
 
 59. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
 
@@ -149,6 +149,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 67. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
 68. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A és B csoportba sorolt szén kitermelésével kapcsolatos tevékenység;
+
+68a.[^4] szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné,
 
 69. szintetikusszál-ipar: a 651/2014/EU bizottsági rendelet 2. cikk 44. pontja szerinti eljárás;
 
@@ -204,5 +206,6 @@ f) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szó
 
 g) a 651/2014/EU bizottsági rendeletben
 
-[^3]: A 3. § (1) bekezdés 7a. pontját az 5/2019. (XII. 10.) MK rendelet 1. §-a iktatta be.
-[^4]: A 3. § (1) bekezdés 58. pontja a 4/2020. (X. 30.) MK rendelet 2. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés 7a. pontját az 5/2019. (XII. 10.) MK rendelet 1. §-a iktatta be.
+[^3]: A 3. § (1) bekezdés 58. pontja a 4/2020. (X. 30.) MK rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdés 68a. pontját az 1/2021. (III. 3.) MK rendelet 2. §-a iktatta be.
