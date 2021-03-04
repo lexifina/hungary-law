@@ -1,0 +1,1 @@
+## 1. § A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XIV. Belügyminisztérium fejezetben szabályozott központi kezelésű előirányzatok felhasználásának szabályait az 1. melléklet tartalmazza.
