@@ -1,3 +1,3 @@
-## 11. § A Vhr. 39. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 11. §[^12]
 
-## „(4) A halgazdálkodási hatóság ötévente a halászattal és a horgászattal, a halvédelemmel, valamint a halászati őrzéssel összefüggő jogszabályokkal kapcsolatos továbbképzést szervez, amelyen – ha az adott személy sikeres halőri vizsgája és a továbbképzés időpontja között legalább két év eltelt – a hivatásos halőr köteles, a társadalmi halőr jogosult részt venni. A továbbképzésen való részvételt követő sikeres továbbképzési vizsgáról a halgazdálkodási hatóság a honlapján közzétett adattartamú vizsgabizonyítványt állít ki. A társadalmi halőr továbbképzési részvételéről a halgazdálkodási hatóság igazolást ad ki.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 9. § A Vhr. a következő 31/B. §-sal egészül ki:
+## 9. §[^10]
 
-## „31/B. § A halgazdálkodási terv szerkezetét, kötelező és ajánlott elemeit, formai követelményeit a 14. melléklet tartalmazza.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

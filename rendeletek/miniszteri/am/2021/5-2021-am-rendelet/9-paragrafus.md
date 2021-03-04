@@ -1,1 +1,3 @@
-## „(20) A horgászat vagy a halászat megkezdésekor a tevékenység megkezdésének napját tollal, kitörölhetetlen módon kell megjelölni a papíralapú fogási naplóban szereplő 13 hónapra kiterjedő naptárban. Több egymást követő napra tervezett tevékenység esetén legfeljebb a horgászat kezdő napja és az azt követő nap jelölhető meg előre. Vízi járműből történő horgászat esetén a vízi jármű indulása minősül a horgászat megkezdésének.”
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
