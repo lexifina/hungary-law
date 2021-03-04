@@ -960,7 +960,7 @@
 
 ## 2.1.22. A „V0” Budapestet délről elkerülő vasútvonal, Szárliget–Ceglédbercel szakasz megvalósítása.
 
-## 2.1.23. A 150. számú vasútvonal, Budapest – Kelebia (országhatár) szakasz fejlesztése.
+## 2.1.23.
 
 ## 2.1.24. A 101. számú vasútvonal, Püspökladány–Biharkeresztes szakasz rekonstrukciója.
 
