@@ -1,0 +1,1 @@
+## 4. § A Beruházás esetén az előzetes régészeti dokumentáció elkészítéséhez próbafeltárást csak akkor lehet végezni, ha a beruházó rendelkezésére állnak a próbafeltárás elvégzéséhez szükséges földrészletek, azzal, hogy a földrészletek rendelkezésre állása tekintetében a beruházó nyilatkozata az irányadó.
