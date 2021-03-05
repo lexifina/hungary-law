@@ -1,0 +1,89 @@
+# A Kormány 106/2021. (III. 5.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 37. szám, 2021. március 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/u4WlPliioz0PLbskXtKc603eb0886038f/dokumentumok/e9d3ce6651c652aca7450acb0a094e68c2ee501d/letoltes)
+
+---
+
+A Kormány 106/2021. (III. 5.) Korm. rendelete
+az egészségügyi szolgálatra berendelés és az egészségügyi szolgáltatás biztosításának veszélyhelyzeti
+különös szabályairól
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 4. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.)
+Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt az országos kórház-főigazgató
+– a (2) és (4) bekezdésben foglaltak kivételével – a (3) bekezdésben foglaltak szerint, határozattal berendelheti
+egészségügyi szolgálat teljesítésére azon egészségügyi dolgozót, aki
+a) az egészségügyről szóló törvény szerinti működési nyilvántartásban érvényes bejegyzéssel szerepel, és
+b) e rendelet hatálybalépésének napján vagy azt követően nem állami vagy nem önkormányzati fenntartású
+vagy tulajdonú egészségügyi szolgáltatónál egészségügyi tevékenységet végez, vagy kormányzati igazgatási
+szervvel szolgálati jogviszonyban áll.
+(2) Az (1) bekezdés szerinti berendelés nem alkalmazható
+a) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről
+szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet személyi állományára,
+b) a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók esetében,
+c) az egyházi fenntartású egészségügyi szolgáltató által foglalkoztatott egészségügyi dolgozó esetében,
+d) arra az egészségügyi dolgozóra, akinek a jogviszonya az egészségügyi dolgozók és egészségügyben
+dolgozók jogviszonyával kapcsolatos egyes kérdésekről szóló 530/2020. (XI. 28.) Korm. rendelet 1. §
+(2) bekezdése alapján nem alakult át egészségügyi szolgálati jogviszonnyá, továbbá
+e) a háziorvosi, a házi gyermekorvosi és a háziorvosi ügyeleti feladat keretében egészségügyi tevékenységet
+végző személyek esetében.
+(3) Az egészségügyi dolgozót egészségügyi tevékenység végzésére állami vagy önkormányzati fenntartású
+szolgáltatóhoz lehet az országos kórház-főigazgató által meghatározott időtartamra, de legfeljebb a veszélyhelyzet
+megszűnéséig berendelni.
+(4) Nem alkalmazható az (1) bekezdés
+a) az egészségügyi dolgozó várandóssága megállapításától a gyermeke hároméves koráig,
+b) az egészségügyi dolgozó gyermeke tizenhat éves koráig, ha gyermekét egyedül neveli,
+c) az egészségügyi dolgozó hozzátartozójának tartós, személyes gondozása esetén, vagy
+d) a társadalombiztosítási nyugellátásról szóló törvény szerinti nyugellátásban részesülő egészségügyi
+dolgozóra, ha nem kapott SARS-CoV-2 elleni védőoltást, valamint igazoltan 6 hónapon belül nem esett át
+a COVID-19 betegségen.
+(5) Az (1) bekezdés szerinti határozatban kijelölt egészségügyi szolgáltató és a berendelt személy között szerződés
+jön létre, amely alapján a berendelt személy egészségügyi tevékenységet végez. A létrejött jogviszonyra
+az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvényt megfelelően kell alkalmazni.
+(6) A berendelés ideje alatt a berendelt egészségügyi dolgozó tekintetében munkáltatónak az (1) bekezdés szerinti
+határozatban kijelölt egészségügyi szolgáltató minősül.
+(7) Az egészségügyi szolgálati jogviszonyra vonatkozó szabályok szerint megállapított, a feladatellátásért járó
+pénzbeli ellentételezést az az egészségügyi szolgáltató biztosítja, ahol az egészségügyi dolgozó a berendelés
+alapján egészségügyi tevékenységet végez. Az egészségügyi dolgozó jogosult a kijelölt munkahelyen történő
+munkavégzéssel kapcsolatos utazási és szállásköltségeinek megtérítésére, azzal, hogy a költségtérítés mértékét,
+módját és az elszámolási rendjét az országos kórház-főigazgató határozza meg.
+(8) Az országos kórház-főigazgató berendelésről szóló határozata tartalmazza
+a) a munkavégzés helyét,
+b) a kijelölt munkahelyen történő munkavégzés kezdő és befejező időpontját és
+c) a kijelölt munkahelyen történő munkavégzéshez kapcsolódó szállási és utazási feltételeket.
+
+(9) Az (1) bekezdés szerinti határozat azonnal végrehajtható. Az országos kórház-főigazgató a határozatát visszavonja,
+ha az egészségügyi dolgozó által jelzett, a (4) bekezdésben felsorolt mentességi ok valamelyike fennáll.
+(10) Az egészségügyi dolgozó berendelésekor fennálló munkavégzésre irányuló jogviszonya a berendelés időtartama
+alatt nem szüntethető meg.
+2. § (1) A veszélyhelyzet ideje alatt az országos kórház-főigazgató, kártalanítás mellett, határozattal bármely – nem állami
+vagy önkormányzati fenntartású vagy tulajdonú – egészségügyi szolgáltatót kötelezheti a SARS-CoV-2 vírus elleni
+védekezéshez szükséges ingatlan, valamint ingó eszközök és felszerelések rendelkezésre bocsátására a kijelölt állami
+vagy önkormányzati fenntartású vagy tulajdonú egészségügyi intézmény részére.
+(2) A kártalanítást a kötelezett egészségügyi szolgáltató kérelmére kell megállapítani. A kérelmet az országos
+kórház-főigazgatóhoz kell benyújtani. A kérelmet a benyújtástól számított 60 napon belül kell elbírálni.
+(3) A kártalanítás fedezetét a központi költségvetés az egészségügyért felelős miniszter által vezetett minisztérium
+költségvetési fejezetében az Országos Kórházi Főigazgatóság költségvetésében biztosítja.
+(4) A kártalanítás összegének megállapításánál figyelembe kell venni
+a) az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának szabályait,
+b) az igénybevétel tárgyának használatra történő átengedéséért a használat során bekövetkezett
+értékcsökkenés mértékét,
+c) ingó és ingatlan dolog állagában okozott kárnál a dolog szakszerű helyreállításának, kijavításának költségét,
+d) az igénybevétel tárgyának az igénybevétel napján nyilvántartott könyv szerinti értékét,
+e) a biztosítás alapján megtérülő összeget.
+(5) A kártalanítást pénzben kell megállapítani és megtéríteni.
+(6) A kártalanítás megfizetésére a döntés véglegessé válásának napjától számított 45 napon belül kerül sor.
+(7) A ténylegesen felmerült kárát és költségét az (1) bekezdés szerinti egészségügyi szolgáltató igényelheti. Nem
+jár kártalanítás, ha az ingó és ingatlan rendelkezésre bocsátása nem akadályozta az igénybevétel tárgyának
+rendeltetésszerű használatát.
+3. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 4. § az e rendelet kihirdetését követő 15. napon lép hatályba.
+4. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet 2021. május 23-án hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
