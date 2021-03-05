@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az adóalap-erózió és nyereségátcsoportosítás megelőzése érdekében hozott, adóegyezményekhez kapcsolódó intézkedések végrehajtásáról szóló Multilaterális Egyezmény (a továbbiakban: Multilaterális Adóegyezmény) kötelező hatályának elismerésére.
