@@ -1,0 +1,1 @@
+(A Montrealban, 1999. május 28-án kelt, a nemzetközi légi fuvarozásra vonatkozó egyes jogszabályok egységesítéséről szóló Egyezmény 2019. évi módosítása Magyarország vonatkozásában 2019. december 28-án nemzetközi jogilag hatályba lépett.)
