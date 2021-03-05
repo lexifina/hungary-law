@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Finn Köztársaság Kormánya között a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között a beruházások védelméről szóló megállapodás megszűnéséről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
