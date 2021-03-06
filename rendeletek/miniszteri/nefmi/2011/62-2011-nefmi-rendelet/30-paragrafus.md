@@ -1,4 +1,4 @@
-30. § (1)[^36] A fenntartó az adott tolmácsolási eset kapcsán részére folyósított kiegészítő támogatás összegének legalább 75%-át köteles az azt ellátó
+30. § (1)[^45] A fenntartó az adott tolmácsolási eset kapcsán részére folyósított kiegészítő támogatás összegének legalább 75%-át köteles az azt ellátó
 
 a) – a 7. § (1) bekezdése szerinti, munkaviszony keretében kötelezően alkalmazott – munkatársnak, annak személyi alapbérén felül bruttó bérként biztosítani, amennyiben a munkatárs az adott hónapban már teljesítette a munkaidejéhez igazodóan erre jogosító, 6. mellékletben foglalt térítésmentes jelnyelvi tolmácsolási óraszámot,
 
@@ -6,7 +6,7 @@ b) – a 7. § (2) bekezdése szerinti, munkaviszony keretében alkalmazott – 
 
 c) – a 7. § (2) bekezdése szerinti, megbízási jogviszony keretében foglalkoztatott – jelnyelvi tolmácsnak díjként kifizetni.
 
-(2)[^37] A tolmácsszolgálat a részére folyósított kiegészítő támogatásból az (1) bekezdés szerinti kifizetéseket követően fennmaradt összeget
+(2)[^46] A tolmácsszolgálat a részére folyósított kiegészítő támogatásból az (1) bekezdés szerinti kifizetéseket követően fennmaradt összeget
 
 a) amennyiben arra az alaptámogatás nem nyújt fedezetet
 
@@ -28,5 +28,5 @@ használhatja fel.
 
 (3) Ha egy fenntartó több tolmácsszolgálatot működtet, az egyik tolmácsszolgálatra tekintettel kapott kiegészítő támogatás a másik tolmácsszolgálat költségeire nem használható fel.
 
-[^36]: A 30. § (1) bekezdés nyitó szövegrésze a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^37]: A 30. § (2) bekezdése a 11/2015. (II. 25.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^45]: A 30. § (1) bekezdés nyitó szövegrésze a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^46]: A 30. § (2) bekezdése a 11/2015. (II. 25.) EMMI rendelet 8. §-ával megállapított szöveg.

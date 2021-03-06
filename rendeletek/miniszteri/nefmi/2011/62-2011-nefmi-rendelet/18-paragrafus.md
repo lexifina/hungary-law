@@ -1,4 +1,4 @@
-18. § (1)[^24] A fenntartó a változás bekövetkezésétől számított 15 napon belül köteles postai úton vagy személyesen bejelenteni a módszertani központnak, ha a 16. § (6) bekezdés a)–c) pontja, vagy a 4. melléklet 2., illetve 3. pontja szerint valamely adat megváltozik.
+18. § (1)[^31] A fenntartó a változás bekövetkezésétől számított 15 napon belül köteles postai úton vagy személyesen bejelenteni a módszertani központnak, ha a 16. § (6) bekezdés a)–c) pontja, vagy a 4. melléklet 2., illetve 3. pontja szerint valamely adat megváltozik.
 
 (2) A bejelentéssel egyidejűleg meg kell küldeni
 
@@ -10,4 +10,4 @@ c) a fenntartó képviseletére jogosult személy változása esetén a 3. mell�
 
 d) a 3. melléklet 8. pontja szerinti valamely dokumentum változása esetén az új dokumentumot.
 
-[^24]: A 18. § (1) bekezdése a11/2015. (II. 25.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^31]: A 18. § (1) bekezdése a11/2015. (II. 25.) EMMI rendelet 5. §-ával megállapított szöveg.

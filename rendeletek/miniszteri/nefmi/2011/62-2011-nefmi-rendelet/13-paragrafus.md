@@ -2,7 +2,7 @@
 
 (2) A bíráló bizottság megyénként egy, a fővárosban három tolmácsszolgálat támogatására vonatkozóan tehet javaslatot. A megyei tolmácsszolgálatok ellátási területe az adott megyére, a fővárosi tolmácsszolgálatok ellátási területe a fővárosra terjed ki.
 
-(3)–(4)[^14]
+(3)–(4)[^18]
 
 (5) A bíráló bizottság akkor határozatképes, ha minden tagja jelen van. A bíráló bizottsági javaslat elfogadásához a bizottság tagjainak egybehangzó szavazata szükséges.
 
@@ -10,4 +10,4 @@
 
 (7) A bíráló bizottság a működési rendjét – az e rendeletben meghatározott keretek között – maga alakítja ki.
 
-[^14]: A 13. § (3)–(4) bekezdését a 48. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: A 13. § (3)–(4) bekezdését a 48. § (2) bekezdés b) pontja hatályon kívül helyezte.

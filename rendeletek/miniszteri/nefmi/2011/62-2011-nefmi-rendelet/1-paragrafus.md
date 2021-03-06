@@ -4,7 +4,7 @@
 
 1. § (1) E rendelet alkalmazásában:
 
-1. alaptámogatás: a tolmácsszolgálat működéséhez nyújtott, – a 26. § szerinti kiadásokra elszámolható – állami támogatás;
+1.[^1] alaptámogatás: a tolmácsszolgálat működéséhez nyújtott, – a 26. § szerinti kiadásokra elszámolható – támogatás;
 
 2. ellátási terület: az a földrajzi terület (megye, illetve főváros), amelyre a módszertani központ térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására pályázatot ír ki, illetve amelyre a finanszírozási szerződésben a fenntartó tolmácsszolgálat létrehozását, működtetését, és tolmácsszolgáltatás biztosítását vállalja;
 
@@ -14,11 +14,11 @@
 
 a) párt kivételével bármely jogi személy,
 
-b)[^1]
+b)[^2]
 
 c) egyéni cég, egyéni vállalkozó,
 
-d)[^2] önkormányzati társulás,
+d)[^3] önkormányzati társulás,
 
 e) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe;
 
@@ -32,7 +32,7 @@ e) az Európai Gazdasági Térségről szóló megállapodásban részes valamel
 
 9. megrendelő: jelnyelvi tolmácsszolgáltatás biztosítását kérő szervezet vagy személy, függetlenül attól, hogy e rendelet szerint igénybe vevőnek minősül-e;
 
-9a.[^3] megvalósítási szakasz: a finanszírozási időszakon belül tárgyév április 1-jétől az azt követő év március 31-éig terjedő időszak;
+9a.[^4] megvalósítási szakasz: a finanszírozási időszakon belül tárgyév április 1-jétől az azt követő év március 31-éig terjedő időszak;
 
 10. módszertani központ: a Jtv. 6. § (1) bekezdése szerinti szervezet;
 
@@ -56,7 +56,7 @@ a) magyar jelnyelv,
 
 b) a Jtv. mellékletében foglalt valamely speciális kommunikációs rendszer;
 
-14.[^4] tolmácsszolgálat: a Magyarország területén állami támogatással működő jelnyelvi tolmácsszolgálat;
+14.[^5] tolmácsszolgálat: a Magyarország területén támogatással működő jelnyelvi tolmácsszolgálat;
 
 15. tolmácsszolgáltatási fajta: az alábbi tolmácsszolgáltatások valamelyike:
 
@@ -70,10 +70,11 @@ d) a Jtv. 10. § (4) bekezdése szerinti, oktatás, képzés kapcsán szervezett
 
 e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgáltatás.
 
-(2)[^5] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
+(2)[^6] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
 
-[^1]: Az 1. § (1) bekezdés 4. pont b) alpontját a 19/2014. (III. 13.) EMMI rendelet 54. §-a hatályon kívül helyezte.
-[^2]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be.
-[^4]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés 1. pontja a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 4. pont b) alpontját a 19/2014. (III. 13.) EMMI rendelet 54. §-a hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja, a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.

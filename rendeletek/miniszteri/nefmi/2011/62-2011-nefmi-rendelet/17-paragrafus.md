@@ -12,8 +12,9 @@ a) vele szemben csőd-, felszámolási, végelszámolási, végrehajtási, illet
 
 b) az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerint nem minősül köztartozásmentes adózónak.
 
-(3) A fenntartó a határidő leteltét követő 8 napon belül köteles értesíteni a módszertani központot, ha állami támogatást nyújtó szervtől vagy szervezettől a finanszírozási szerződés alapjául szolgáló pályázat benyújtását megelőző 5 évben kapott támogatásokkal határidőre nem számolt el.
+(3)[^29] A fenntartó a határidő leteltét követő 8 napon belül köteles értesíteni a módszertani központot, ha támogatást nyújtó szervtől vagy szervezettől a finanszírozási szerződés alapjául szolgáló pályázat benyújtását megelőző 5 évben kapott támogatásokkal határidőre nem számolt el.
 
-(4)[^23] A tolmácsszolgálat szolgáltatási rendjében foglalt bármely adat vagy információ változása esetén a fenntartó a változás bekövetkezésétől számított 8 napon belül köteles a módosításokat a módszertani központnál elektronikus levélben bejelenteni, és a változásoknak megfelelő új szolgáltatási rendet a bejelentéstől számított 15 napon belül a 2. § (2) és (3) bekezdésében foglaltaknak megfelelően hozzáférhetővé tenni.
+(4)[^30] A tolmácsszolgálat szolgáltatási rendjében foglalt bármely adat vagy információ változása esetén a fenntartó a változás bekövetkezésétől számított 8 napon belül köteles a módosításokat a módszertani központnál elektronikus levélben bejelenteni, és a változásoknak megfelelő új szolgáltatási rendet a bejelentéstől számított 15 napon belül a 2. § (2) és (3) bekezdésében foglaltaknak megfelelően hozzáférhetővé tenni.
 
-[^23]: A 17. § (4) bekezdése a 11/2015. (II. 25.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^29]: A 17. § (3) bekezdése a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^30]: A 17. § (4) bekezdése a 11/2015. (II. 25.) EMMI rendelet 4. §-ával megállapított szöveg.

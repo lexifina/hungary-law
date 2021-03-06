@@ -9,5 +9,3 @@ b) a tanulói jogviszonyra tekintettel tanévenként biztosított speciális ór
 c) a hallgatói jogviszonyra tekintettel szemeszterenként biztosított speciális órakeret jogviszonyonként, és a szemeszter fennmaradó időtartamával,
 
 d) a felnőttképzésben történő részvételre tekintettel biztosított speciális órakeret képzésenként, és a képzés fennmaradó óraszámával
-
-időarányosan kerül megállapításra.

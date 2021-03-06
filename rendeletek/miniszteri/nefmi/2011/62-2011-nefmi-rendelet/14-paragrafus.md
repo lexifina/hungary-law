@@ -2,11 +2,11 @@
 
 a) a tolmácsszolgálatnál a 7. § (1) bekezdésében meghatározott munkakörök tekintetében a pályázó által vállalt minimális munkaidő, illetve az ott meghatározott létszám felett alkalmazottak és foglalkoztatottak száma, feladata, munkaköre, munkaideje,
 
-b)[^15] a tolmácsszolgálat és annak munkatársai által használt eszközök száma, a tolmácsszolgálat fizikai akadálymentessége,
+b)[^19] a tolmácsszolgálat és annak munkatársai által használt eszközök száma, a tolmácsszolgálat fizikai akadálymentessége,
 
-c)[^16]
+c)[^20]
 
-d)[^17]
+d)[^21]
 
 e) a költségterv belső arányai, megalapozottsága,
 
@@ -24,7 +24,7 @@ c) a pályázó a pályázatot határidőn túl nyújtja be, vagy a hiánypótl�
 
 d) a költségterv a pályázati dokumentációban foglaltak alapján nem kellően megalapozott, nem megfelelően indokolt, vagy a tolmácsszolgálat működésének pénzügyi feltételei egyéb okból nem biztosítottak.
 
-(3)[^18] A pályázatokról – a bíráló bizottság javaslata alapján – a módszertani központ a bíráló bizottság javaslatának kézhezvételét követően 5 napon belül döntési javaslatot készít, és azt felterjeszti a miniszternek. A miniszter a döntési javaslatról annak kézhezvételétől számított 5 napon belül dönt, és erről 5 napon belül értesíti a módszertani központot. A módszertani központ a döntés kézhezvételétől számított 3 napon belül értesíti a pályázókat.
+(3)[^22] A pályázatokról – a bíráló bizottság javaslata alapján – a módszertani központ a bíráló bizottság javaslatának kézhezvételét követően 5 napon belül döntési javaslatot készít, és azt felterjeszti a miniszternek. A miniszter a döntési javaslatról annak kézhezvételétől számított 5 napon belül dönt, és erről 5 napon belül értesíti a módszertani központot. A módszertani központ a döntés kézhezvételétől számított 3 napon belül értesíti a pályázókat.
 
 (4) Az értesítés tartalmazza:
 
@@ -36,9 +36,9 @@ c) nyertes pályázat esetén
 
 ca) az ellátási területet,
 
-cb)–cc)[^19]
+cb)–cc)[^23]
 
-cd)[^20] az első megvalósítási szakaszra vonatkozó alaptámogatás összegét,
+cd)[^24] az első megvalósítási szakaszra vonatkozó alaptámogatás összegét,
 
 ce) a kiegészítő támogatás igénybevételének feltételeit,
 
@@ -58,9 +58,9 @@ c) a pályázó a pályázatban vagy az ahhoz csatolt dokumentumokban szándéko
 
 (6) Az (5) bekezdés b), illetve c) pontja szerinti körülmény fennállásáról a módszertani központ – a finanszírozási szerződés megkötésére megjelölt határidő leteltét, illetve a valótlan adat közléséről, jelentős tény, körülmény elhallgatásáról történő tudomásszerzést követő 5 napon belül – írásban értesíti a pályázót.
 
-[^15]: A 14. § (1) bekezdés b) pontja a 11/2015. (II. 25.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^16]: A 14. § (1) bekezdés c) pontját a 48. § (3) bekezdés c) pontja hatályon kívül helyezte.
-[^17]: A 14. § (1) bekezdés d) pontját a 48. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^18]: A 14. § (3) bekezdése a 11/2015. (II. 25.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^19]: A 14. § (4) bekezdés c) pont cb)–cc) alpontját a 48. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^20]: A 14. § (4) bekezdés c) pont cd) alpontja a 11/2015. (II. 25.) EMMI rendelet 14. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^19]: A 14. § (1) bekezdés b) pontja a 11/2015. (II. 25.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^20]: A 14. § (1) bekezdés c) pontját a 48. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^21]: A 14. § (1) bekezdés d) pontját a 48. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^22]: A 14. § (3) bekezdése a 11/2015. (II. 25.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^23]: A 14. § (4) bekezdés c) pont cb)–cc) alpontját a 48. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^24]: A 14. § (4) bekezdés c) pont cd) alpontja a 11/2015. (II. 25.) EMMI rendelet 14. § (2) bekezdés a) pontja szerint módosított szöveg.

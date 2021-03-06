@@ -4,7 +4,7 @@
 
 ## 4. Pályázati eljárás
 
-10. § (1) A térítésmentes jelnyelvi tolmácsszolgáltatás állami támogatásának igénybevételére irányuló pályázatot a módszertani központ írja ki.
+10. § (1)[^15] A térítésmentes jelnyelvi tolmácsszolgáltatás támogatásának igénybevételére irányuló pályázatot a módszertani központ írja ki.
 
 (2) A pályázatok típusai:
 
@@ -32,7 +32,7 @@ g) a jelnyelvi tolmácsok és a diszpécser díjazására vonatkozó feltételek
 
 h) a pályázható ellátási területek megjelölését,
 
-i)[^12]
+i)[^16]
 
 j) a finanszírozási időszak megjelölését,
 
@@ -56,7 +56,8 @@ s) a finanszírozási szerződés megkötésének feltételeire, az azzal szerze
 
 (5) A pályázat benyújtásának határidejét a pályázati kiírásban úgy kell meghatározni, hogy a pályázat benyújtására a pályázat közzétételét követően legalább 30 nap álljon rendelkezésre.
 
-(6)[^13] A pályázati kiírást közzé kell tenni a módszertani központ honlapján, valamint a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) által irányított minisztérium honlapján.
+(6)[^17] A pályázati kiírást közzé kell tenni a módszertani központ honlapján, valamint a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) által irányított minisztérium honlapján.
 
-[^12]: A 10. § (4) bekezdés i) pontját a 48. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^13]: A 10. § (6) bekezdése a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^15]: A 10. § (1) bekezdése a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^16]: A 10. § (4) bekezdés i) pontját a 48. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^17]: A 10. § (6) bekezdése a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.

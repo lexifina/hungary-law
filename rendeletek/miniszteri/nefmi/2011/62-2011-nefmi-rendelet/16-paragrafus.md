@@ -28,7 +28,9 @@ e) a tolmácsszolgálat által teljesítendő általános működési, személyi
 
 f) az ellátási területet,
 
-g)–h)[^22]
+g)[^27]
+
+h)[^28]
 
 i) a tárgyév április 1-jétől a következő év március 31-éig meghatározott alaptámogatás összegét, annak általános forgalmi adó tartalmát,
 
@@ -50,4 +52,5 @@ q) a fenntartó és a tolmácsszolgálat 35. § szerinti nyilvántartási, valam
 
 r) a szerződésszegés következményeit.
 
-[^22]: A 16. § (6) bekezdés g)–h) pontját a 48. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^27]: A 16. § (6) bekezdés g) pontját a 48. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^28]: A 16. § (6) bekezdés h) pontját a 48. § (2) bekezdés f) pontja hatályon kívül helyezte.
