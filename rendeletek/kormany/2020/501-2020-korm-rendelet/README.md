@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-501-20-
 | 2021-01-30 | 2020-501-20-22.4 | 32/2021. (I. 29.) Korm. rendelet |
 | 2021-02-08 | 2020-501-20-22.5 | 27/2021. (I. 29.) Korm. rendelet |
 | 2021-02-28 | 2020-501-20-22.6 | 86/2021. (II. 27.) Korm. rendelet |
+| 2021-03-06 | 2020-501-20-22.7 | 105/2021. (III. 5.) Korm. rendelet |
