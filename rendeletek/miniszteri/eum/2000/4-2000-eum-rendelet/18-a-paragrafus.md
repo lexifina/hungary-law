@@ -1,4 +1,4 @@
-18/A. §[^51] (1) A háziorvos a hozzá bejelentkezett biztosítottakról törzskartont vezet. A törzskarton az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben meghatározott személyazonosító adatokon túl a 3. és 4. számú melléklet szerinti adatokat tartalmazza. A biztosított részéről a 3. számú melléklet 8. pontja és a 4. számú melléklet 8. pontja szerinti adatok szolgáltatása önkéntes, erről a biztosítottat tájékoztatni kell.
+18/A. §[^52] (1) A háziorvos a hozzá bejelentkezett biztosítottakról törzskartont vezet. A törzskarton az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben meghatározott személyazonosító adatokon túl a 3. és 4. számú melléklet szerinti adatokat tartalmazza. A biztosított részéről a 3. számú melléklet 8. pontja és a 4. számú melléklet 8. pontja szerinti adatok szolgáltatása önkéntes, erről a biztosítottat tájékoztatni kell.
 
 (2) A biztosított vizsgálatakor a biztosított állapota szerinti vizsgálati értékeket és állapotokat rögzíteni kell a törzskartonban. A biztosított a törzskarton adatait írásban vagy elektronikus úton is a háziorvos rendelkezésére bocsáthatja.
 
@@ -22,4 +22,4 @@ b) alkalmasnak kell lennie arra, hogy más háziorvoshoz történő átjelentkez
 
 (10) A törzskarton kitöltéséről szóló útmutatót az Egészségügyi Szakmai Kollégium a honlapján közzéteszi.
 
-[^51]: A 18/A. §-t a 28/2017. (X. 25.) EMMI rendelet 13. §-a iktatta be.
+[^52]: A 18/A. §-t a 28/2017. (X. 25.) EMMI rendelet 13. §-a iktatta be.
