@@ -14,6 +14,6 @@
 
 (7) Úszólétesítmény nem gépüzemű sólyáról történő vízre bocsátása esetén, a sólyát üzemben tartó köteles a hajózás biztonsága érdekében szükséges intézkedéseket megtenni.
 
-(8) A sólya víz alatt elhelyezkedő vagy ideiglenesen víz alá kerülő olyan elemeit, amelyek a víziközlekedésben résztvevők számára akadályt jelentenek, a sólyázásban részt nem vevők tájékoztatására ,,Áthaladni tilos'' jelekkel[^33] kell megjelölni.
+(8) A sólya víz alatt elhelyezkedő vagy ideiglenesen víz alá kerülő olyan elemeit, amelyek a víziközlekedésben résztvevők számára akadályt jelentenek, a sólyázásban részt nem vevők tájékoztatására ,,Áthaladni tilos'' jelekkel[^34] kell megjelölni.
 
-[^33]: Hajózási Szabályzat, 7. melléklet A.1 jel.
+[^34]: Hajózási Szabályzat, 7. melléklet A.1 jel.

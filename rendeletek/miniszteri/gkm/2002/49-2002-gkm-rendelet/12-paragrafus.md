@@ -14,7 +14,7 @@
 
 (6) Utas csak a járművek és az állatok behajtása után szállhat a kompra. A kompról járművekkel kihajtani, és állatokat kivezetni – a komp vezetője által meghatározott sorrendben az utasok kiszállása után szabad. A szállított jármű utasa – a (9) bekezdésben említett kivétellel – köteles a kompra történő behajtás előtt a járműből kiszállni. Az átkelés alatt utas a járműben nem tartózkodhat. A járműveket úgy kell elhelyezni a kompon, hogy szükség esetén a jármű vezetője a járművet el tudja hagyni.
 
-(7) A külön jogszabály[^31] hatálya alá tartozó veszélyes árut továbbító gépjármű akkor szállítható együtt a kompon más járművekkel, ha az azokon szállított veszélyes anyagokat szállító gépjárművek egymás között, vagy egyéb járművektől biztonsági távolság tartására vonatkozó előírás nincs, továbbá együvérakási tilalom alá nem esik; utasok ilyen gépjárművel együtt nem szállíthatók.
+(7) A külön jogszabály[^32] hatálya alá tartozó veszélyes árut továbbító gépjármű akkor szállítható együtt a kompon más járművekkel, ha az azokon szállított veszélyes anyagokat szállító gépjárművek egymás között, vagy egyéb járművektől biztonsági távolság tartására vonatkozó előírás nincs, továbbá együvérakási tilalom alá nem esik; utasok ilyen gépjárművel együtt nem szállíthatók.
 
 (8) A köteles komp olyan vezetőkötelét, amely alatt nem áll rendelkezésre a víziútra előírt hajózási űrszelvény, az engedélyező hajózási hatóságnak az üzemeltetési engedélyben foglalt előírásai szerint – a komp áthaladásának idejét kivéve – le kell ereszteni úgy, hogy az ne jelentsen veszélyt sem a parton, sem pedig a vízen közlekedők számára.
 
@@ -54,4 +54,4 @@ c) a szállított jármű engedélyezett tengelynyomásának betartásáról.
 
 (19) Tilos üzemanyagot vételezni akkor, ha az átkelést végző vízijárművön utasok tartózkodnak.
 
-[^31]: 20/1979. (IX. 18.) KPM rendelet a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) ,,A'' és ,,B'' Mellékletének kihirdetéséről és belföldi alkalmazásáról.
+[^32]: 20/1979. (IX. 18.) KPM rendelet a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) ,,A'' és ,,B'' Mellékletének kihirdetéséről és belföldi alkalmazásáról.

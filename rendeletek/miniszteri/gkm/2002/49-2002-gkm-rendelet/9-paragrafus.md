@@ -1,8 +1,8 @@
 ## Veszélyes árut fogadó kikötőre vonatkozó különleges előírások
 
-9. § (1) A külön jogszabályban[^14] veszélyesnek minősített árut (a továbbiakban: veszélyes áru) vagy szennyezőnek minősített árut (a továbbiakban: szennyező áru) szállító hajó rakodási műveleteit a külön jogszabályban foglalt előírások megtartásával kell végezni.
+9. § (1) A külön jogszabályban[^15] veszélyesnek minősített árut (a továbbiakban: veszélyes áru) vagy szennyezőnek minősített árut (a továbbiakban: szennyező áru) szállító hajó rakodási műveleteit a külön jogszabályban foglalt előírások megtartásával kell végezni.
 
-(2) A veszélyes áru rakodására kijelölt hajóállásra csak olyan úszólétesítménnyel szabad kikötni, amely rendelkezik veszélyes áruk szállítására külön jogszabályban[^15] előírt érvényes jóváhagyási bizonyítvánnyal vagy külföldi hatóság által kiállított jóváhagyási bizonyítvánnyal[^16].
+(2) A veszélyes áru rakodására kijelölt hajóállásra csak olyan úszólétesítménnyel szabad kikötni, amely rendelkezik veszélyes áruk szállítására külön jogszabályban[^16] előírt érvényes jóváhagyási bizonyítvánnyal vagy külföldi hatóság által kiállított jóváhagyási bizonyítvánnyal[^17].
 
 (3) Töltés, illetve lefejtés alatt álló tartályhajóval, vagy annak igénybevételével tilos hajóműveletet végezni.
 
@@ -40,9 +40,9 @@ f) a vízen úszó szennyezés felfogására alkalmas eszközöket, anyagokat a 
 
 g) a tartályhajó kikötése után a hajóra történő beszállásra, illetve a hajóról történő – szükség szerinti – menekülésre egynél több eszköznek kell rendelkezésre állni (pl. a járón kívül egy leeresztett csónak a víz felőli oldalon kikötve),
 
-h) jogszabállyal veszélyesnek vagy szennyezőnek minősített árut szállító hajó a kikötőt csak akkor hagyhatja el, ha annak vezetője a kikötő üzemben tartójának igazolta, hogy jogszabályban[^17] foglalt bejelentési kötelezettségének eleget tett.
+h) jogszabállyal veszélyesnek vagy szennyezőnek minősített árut szállító hajó a kikötőt csak akkor hagyhatja el, ha annak vezetője a kikötő üzemben tartójának igazolta, hogy jogszabályban[^18] foglalt bejelentési kötelezettségének eleget tett.
 
-[^14]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról (ADN) és 20/1979. (IX. 18.) KPM rendelet a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás ,,A'' és ,,B'' mellékletének kihirdetéséről és belföldi alkalmazásáról (ADR).
-[^15]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról (ADN).
-[^16]: Például a Rajnai Hajózási Központi Bizottság veszélyes áruk Rajnán való szállításáról szóló szabályzata (ADNR) alapján.
-[^17]: 27/1993. (IX. 24.) KHVM rendelet a víziközlekedés rendjéről, melléklet 9.08 cikk.
+[^15]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról (ADN) és 20/1979. (IX. 18.) KPM rendelet a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás ,,A'' és ,,B'' mellékletének kihirdetéséről és belföldi alkalmazásáról (ADR).
+[^16]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról (ADN).
+[^17]: Például a Rajnai Hajózási Központi Bizottság veszélyes áruk Rajnán való szállításáról szóló szabályzata (ADNR) alapján.
+[^18]: 27/1993. (IX. 24.) KHVM rendelet a víziközlekedés rendjéről, melléklet 9.08 cikk.

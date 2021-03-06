@@ -18,9 +18,9 @@
 
 (9) Medencés kikötőben a kikötő és az úszólétesítmények saját eszközeivel végzett tűzoltás hatékonyságának növelése érdekében az úszólétesítmények között a jégben tűzi víz nyerése céljából – a telelő úszólétesítmények méretétől függően – a telelésért felelős három úszólétesítményenként legalább egy lék vágásáról és azok folyamatos jégmentesen tartásáról köteles gondoskodni.
 
-(10) Az olyan árut szállító úszólétesítmények, amelyekre külön jogszabály[^12] rendelkezéseit kell alkalmazni – a jogszabályban előírt biztonsági távolság betartásával – csak a többi úszólétesítménytől elkülönítetten vesztegelhetnek.
+(10) Az olyan árut szállító úszólétesítmények, amelyekre külön jogszabály[^13] rendelkezéseit kell alkalmazni – a jogszabályban előírt biztonsági távolság betartásával – csak a többi úszólétesítménytől elkülönítetten vesztegelhetnek.
 
-(11) Ha a hajózási hatóság szükséghelyzetben a kikötőt vagy annak egy részét szükségkikötőként[^13] jelöli ki, akkor a kijelölt kikötő üzemben tartója, a szükséghelyzet idejére köteles a veszélyeztetett úszólétesítményeket a kikötő működését nem korlátozó mértékig befogadni és a tartózkodását térítésmentesen biztosítani.
+(11) Ha a hajózási hatóság szükséghelyzetben a kikötőt vagy annak egy részét szükségkikötőként[^14] jelöli ki, akkor a kijelölt kikötő üzemben tartója, a szükséghelyzet idejére köteles a veszélyeztetett úszólétesítményeket a kikötő működését nem korlátozó mértékig befogadni és a tartózkodását térítésmentesen biztosítani.
 
-[^12]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról (ADN).
-[^13]: 2000. évi XLII. törvény a víziközlekedésről, 86. § (1) bekezdés.
+[^13]: 2/1982. (II. 22.) KPM rendelet a veszélyes áruk nemzetközi belvízi szállításáról szóló szabályzatról (ADN).
+[^14]: 2000. évi XLII. törvény a víziközlekedésről, 86. § (1) bekezdés.

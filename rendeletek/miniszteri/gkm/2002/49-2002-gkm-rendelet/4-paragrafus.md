@@ -2,7 +2,7 @@
 
 4. § (1) A hajózási létesítmények az e rendeletben meghatározott feltételek szerint használhatók.
 
-(2)[^5]
+(2)[^6]
 
 (3) A hajózási létesítmény üzemben tartója köteles a létesítmény területén, illetve a létesítmény használói számára könnyen hozzáférhető helyen, a hajózási hatóság által jóváhagyott, és a létesítményre vonatkozó Szabályzatot kifüggeszteni.
 
@@ -16,9 +16,9 @@ b) olajat, olajhulladékot, illetve ezek vízzel képzett elegyét, valamint szi
 
 c) fényforrást olyan módon használni vagy elhelyezni, hogy az a víziközlekedést zavarja,
 
-d) fürdeni[^6], továbbá az üzemben tartó engedélye – és az általa előírt biztonsági intézkedések betartása – nélkül búvárkodni.
+d) fürdeni[^7], továbbá az üzemben tartó engedélye – és az általa előírt biztonsági intézkedések betartása – nélkül búvárkodni.
 
-(6)[^7] A hatóság által előírt
+(6)[^8] A hatóság által előírt
 
 a) tűzoltó-, mentő-, illetve kárelhárító eszközök elhelyezését a létesítmény üzemben tartója, illetve az úszólétesítmény vezetője köteles készenlétben és használatra alkalmas állapotban tartani,
 
@@ -44,6 +44,6 @@ b) megtenni a kár enyhítéséhez, behatárolásához szükséges minden intéz
 
 c) a nagyobb kár elhárítása érdekében a tűzzel sújtott létesítményt eltávolítani.
 
-[^5]: A 4. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 54. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^6]: 46/2001. (XII. 27.) BM rendelet a szabad vízen való tartózkodás alapvető szabályairól.
-[^7]: A 4. § (6) bekezdés bevezető szövegrésze a 48/2009. (IX. 30.) KHEM rendelet 27. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 4. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 54. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^7]: 46/2001. (XII. 27.) BM rendelet a szabad vízen való tartózkodás alapvető szabályairól.
+[^8]: A 4. § (6) bekezdés bevezető szövegrésze a 48/2009. (IX. 30.) KHEM rendelet 27. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

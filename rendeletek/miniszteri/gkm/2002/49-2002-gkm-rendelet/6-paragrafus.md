@@ -22,7 +22,7 @@ b) amelyen tűz keletkezett, vagy tűzeset alapos gyanúja áll fenn;
 
 c) amely a hajózás rendjét és biztonságát, a hajóforgalom zavartalanságát vagy a kikötő igénybevételét egyéb okból veszélyezteti, illetőleg akadályozza;
 
-d)[^11] amely után a korábbi kikötői szolgáltatás díját nem fizették meg.
+d)[^12] amely után a korábbi kikötői szolgáltatás díját nem fizették meg.
 
 (9) A kikötő üzemben tartója megtilthatja a kikötőbe való belépést, illetőleg az ott-tartózkodást olyan személy számára, aki a kikötőben a rend, és biztonság megtartása érdekében meghirdetett magatartási szabályokat megsérti.
 
@@ -40,4 +40,4 @@ a) a kikötő üzemben tartójának a rakodóhelyek, és a kikötői (beleértve
 
 b) az úszólétesítmény személyzetének az úszólétesítményekre és azokon át vezető
 
-[^11]: A 6. § (8) bekezdésének d) pontját a 16/2006. (IV. 6.) GKM rendelet 7. § (3) bekezdése iktatta be.
+[^12]: A 6. § (8) bekezdésének d) pontját a 16/2006. (IV. 6.) GKM rendelet 7. § (3) bekezdése iktatta be.

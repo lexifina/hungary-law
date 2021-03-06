@@ -30,7 +30,7 @@ a) tilos a töltés technológiai (parti és úszólétesítményen lévő) ter�
 
 b) tilos utasok ki- és beszállása, valamint utasok tartózkodása a töltés alatt álló úszólétesítményen,
 
-c) a vételezést végző úszólétesítményen és a kikötőhely technológiai területén dohányzást és nyílt láng használatát tiltó jelzést[^32] kell elhelyezni.
+c) a vételezést végző úszólétesítményen és a kikötőhely technológiai területén dohányzást és nyílt láng használatát tiltó jelzést[^33] kell elhelyezni.
 
 (12) A személykikötőben jól látható helyen fel kell tüntetni az alábbi adatokat:
 
@@ -40,4 +40,4 @@ b) az üzemben tartó nevét és elérhetőségét (URH-rádiócsatorna száma, 
 
 c) a hajóállomás üzemelésére vonatkozó vízállási korlátozásokat, amennyiben van.
 
-[^32]: Hajózási Szabályzat, 3. melléklet 4.2. pont.
+[^33]: Hajózási Szabályzat, 3. melléklet 4.2. pont.
