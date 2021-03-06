@@ -1,4 +1,4 @@
-12/B. §[^47] (1) Ha a jármű nem felel meg a követelményeknek, a hajózási hatóság a (4)–(7) bekezdés alapján felhívja a vízi jármű tulajdonosát vagy annak képviselőjét, hogy a hatóság által meghatározott észszerű határidőn belül a bizonyítvány kiadásához szükséges követelményeknek tegyen eleget.
+12/B. §[^49] (1) Ha a jármű nem felel meg a követelményeknek, a hajózási hatóság a (4)–(7) bekezdés alapján felhívja a vízi jármű tulajdonosát vagy annak képviselőjét, hogy a hatóság által meghatározott észszerű határidőn belül a bizonyítvány kiadásához szükséges követelményeknek tegyen eleget.
 
 (2) A vízi jármű fedélzetén lévő bizonyítványt kiadó hajózási hatóságot az ellenőrzést követő hét napon belül értesíteni kell arról, hogy a jármű nem felel meg az előírásoknak.
 
@@ -8,7 +8,7 @@
 
 (5) A hatóság hét napon belül tájékoztatja a meghozott határozatáról annak a tagállamnak az illetékes hatóságát, ahol a járműbizonyítványt kiadták vagy legutoljára megújították, arról, hogy megakadályozta a vízi jármű útjának folytatását, illetve a vízi jármű tulajdonosát vagy annak képviselőjét értesítette arról, hogy a fellelt hibák javításának elmulasztása esetén a vízi jármű útjának folytatását meg fogják akadályozni.
 
-(6)[^48] A hajózási hatóság értesíti a Bizottságot és a többi tagállamot, valamint a többi illetékes hatóságot a következőkről:
+(6)[^50] A hajózási hatóság értesíti a Bizottságot és a többi tagállamot, valamint a többi illetékes hatóságot a következőkről:
 
 a) azoknak a műszaki szolgálatoknak a nevéről és címéről, amelyek a nemzeti illetékes hatósággal együtt a 2. melléklet alkalmazásáért felelősek;
 
@@ -22,5 +22,5 @@ e) azokról a hajózási radarberendezésekről és fordulásjelzőkről, amelye
 
 f) a hajózási radarberendezések és fordulásjelzők beszerelésére, cseréjére, javítására vagy karbantartására jogosult szakosodott cégek jóváhagyásáért felelős illetékes hatóságokról.
 
-[^47]: A 12/B. §-t a 42/2019. (XI. 21.) ITM rendelet 5. §-a iktatta be.
-[^48]: A 12/B. § (6) bekezdését a 34/2020. (X. 7.) ITM rendelet 1. §-a iktatta be.
+[^49]: A 12/B. §-t a 42/2019. (XI. 21.) ITM rendelet 5. §-a iktatta be.
+[^50]: A 12/B. § (6) bekezdését a 34/2020. (X. 7.) ITM rendelet 1. §-a iktatta be.
