@@ -6,9 +6,10 @@
 
 (3) A Drop Zone légtér koordinációs feladatait ellátó szervezet a Drop Zone légtérben működő légijárműveket rádión tájékoztatja a légtér igénybevételének befejező időpontjáról és a Drop Zone légtér egyéb korlátozásáról.
 
-(4) Az (1) bekezdés szerinti engedélyre a 13. §-ban meghatározottakat kell alkalmazni.
+(4)[^53]
 
 [^49]: A 18/C. §-t megelőző alcímet a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
 [^50]: A 18/C. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
 [^51]: A 18/C. § (1) bekezdése a 25/2017. (VI. 30.) NFM rendelet 13. § h) pontja szerint módosított szöveg.
 [^52]: A 18/C. § (2) bekezdése a 25/2017. (VI. 30.) NFM rendelet 10. §-ával megállapított szöveg.
+[^53]: A 18/C. § (4) bekezdését a 12/2021. (III. 5.) ITM rendelet 13. § b) pontja hatályon kívül helyezte.
