@@ -22,7 +22,7 @@ bc) 60. életévét betöltötte, de a 70. életévét még nem töltötte be, 3
 
 bd) 70. életévét betöltötte, 2 évenként
 
-kell vizsgálni.
+## kell vizsgálni.
 
 (3) A kedvtelési célú vízijárművet vezető személy – az I. és II. osztályú tengeri kedvtelési célú vízijármű-vezetők kivételével – egészségi alkalmasságának megállapítása a gépjármű-vezetői egészségi alkalmassági vizsgálattal egyidejűleg is érvényesíthető.
 
@@ -34,7 +34,7 @@ b) ötvenedik életévének betöltése után háromévenként,
 
 c) hatvanötödik életévének betöltésekor, majd azt követően évenként
 
-kell végezni.
+## kell végezni.
 
 (5) Tengeri hajón hajózási szolgálatot teljesítő személynél az egészségi alkalmasságot
 
@@ -42,7 +42,7 @@ a) hatvanadik életévének betöltéséig kétévenként,
 
 b) hatvanadik életévének betöltése után évenként
 
-kell vizsgálni.
+## kell vizsgálni.
 
 (6) Hajózási szolgálat ellátására vonatkozó első munkaviszony vagy munkavégzésre irányuló egyéb jogviszony létesítését követően fiatalkorú személy egészségi alkalmasságát évente kell vizsgálni.
 
@@ -50,13 +50,15 @@ kell vizsgálni.
 
 (7a)[^7] A munkáltató köteles a belvízi hajózási szolgálatot teljesítő személy részére a víziközlekedésről szóló 2000. évi XLII. törvény 21. § (1a) bekezdése szerinti egészségügyi szűrővizsgálaton való részvételt biztosítani.
 
-(8) A munkáltató köteles a hajózási szolgálatot teljesítő személy egészségi alkalmasságának soron kívüli vizsgálatát kezdeményezni, ha az egészségi alkalmasságot kizáró vagy korlátozó bármilyen körülményt észlel. Soron kívüli vizsgálatot a hajózási szolgálatot teljesítő személy maga is kérhet.
+(8)[^8]
 
-(9) A hajózási hatóság, a hajózási szolgálatot teljesítő, illetve a kedvtelési célú vízijárművet vezető személyt a hajózás biztonságát veszélyeztető egészségi állapot észlelésének esetében határidő tűzésével soron kívüli vizsgálatra hívhatja fel, és az alkalmasság újbóli megállapításáig a hajózási szolgálat ellátásától, illetve a kedvtelési célú vízijármű vezetésétől – a szolgálati könyvbe való bejegyzéssel, illetve a kedvtelési célú vízijárművezetői bizonyítvány bevonásával – ideiglenesen eltilthatja.
+(9)[^9]
 
-(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^8] előírt orvosi vizsgálat alól.
+(10)[^10]
 
 [^5]: A 4. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 11. §-ával megállapított szöveg.
 [^6]: A 4. § (4) bekezdés a) pontját a 66/2015. (XI. 18.) NFM rendelet 12. §-a hatályon kívül helyezte.
 [^7]: A 4. § (7a) bekezdését az 58/2016. (XII. 23.) NFM rendelet 7. §-a iktatta be.
-[^8]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
+[^8]: A 4. § (8) bekezdését a 12/2021. (III. 5.) ITM rendelet 9. § a) pontja hatályon kívül helyezte.
+[^9]: A 4. § (9) bekezdését a 12/2021. (III. 5.) ITM rendelet 9. § a) pontja hatályon kívül helyezte.
+[^10]: A 4. § (10) bekezdését a 12/2021. (III. 5.) ITM rendelet 9. § a) pontja hatályon kívül helyezte.

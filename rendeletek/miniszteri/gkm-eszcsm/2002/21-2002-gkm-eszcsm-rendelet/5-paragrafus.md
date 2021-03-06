@@ -6,7 +6,7 @@ b) 4. § (1) bekezdésének d) pontjában meghatározott esetben az oktatási in
 
 c) a 4. § (2) bekezdésében meghatározott esetben a képesítésért folyamodó, illetve a képesített személy
 
-kezdeményezi.
+## kezdeményezi.
 
 (2) A tengeri hajón szolgálatot teljesítő személy behajózása előtt köteles gondoskodni a várható távollét időtartama alatt esedékessé váló vizsgálat elvégzéséről.
 

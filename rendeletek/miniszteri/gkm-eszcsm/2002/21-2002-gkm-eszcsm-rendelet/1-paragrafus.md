@@ -9,5 +9,3 @@ b) a kedvtelési célú kishajó és gépi meghajtású vízi sporteszköz (a to
 c) az iskolai rendszerű hajózási oktatási intézmény és az iskolai rendszeren kívüli jóváhagyott hajózási szakképzés tanulóira, illetve hallgatóira (a továbbiakban együtt: hallgató), valamint az oktatási intézmény vezetőjére,
 
 d) az egészségi alkalmassági vizsgálatot (a továbbiakban: vizsgálat) végző orvosokra, illetve szervezetekre
-
-terjed ki.

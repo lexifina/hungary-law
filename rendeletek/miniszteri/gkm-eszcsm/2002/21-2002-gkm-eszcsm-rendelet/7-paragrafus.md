@@ -1,3 +1,5 @@
+## 6/C. §[^19]
+
 ## A vizsgálat eredményének minősítése, a vizsgálatról kiállított bizonyítvány, az egészségügyi törzslap
 
 7. § (1) A vizsgálat eredményeként a vizsgált személy
@@ -16,23 +18,23 @@ f) belvízi kedvtelési célú vízijármű vezetésére,
 
 g) tengeri kedvtelési célú kishajó vezetésére,
 
-h)[^18] egyéb szolgálatra
+h)[^20] egyéb szolgálatra
 
-egészségi szempontból alkalmasnak vagy alkalmatlannak minősíthető.
+## egészségi szempontból alkalmasnak vagy alkalmatlannak minősíthető.
 
 (2) Amennyiben a hajózási oktatási intézménybe jelentkező személy egészségileg alkalmatlannak bizonyul, a jelöltnek, illetve kiskorú jelölt esetében gondviselőjének, írásbeli nyilatkozatával kell igazolnia annak tudomásulvételét, hogy a megszerzendő hajózási képesítést – az egészségi alkalmatlanság fennállása alatt – csak parti szolgálatban hasznosíthatja.
 
-(3)[^19] Hajózási szolgálatot ellátó személy esetében a vizsgálat eredményéről a vizsgálatot végző orvos
+(3)[^21] Hajózási szolgálatot ellátó személy esetében a vizsgálat eredményéről a vizsgálatot végző orvos
 
 a) orvosi igazolást (1. számú melléklet),
 
-b)[^20] belvízi nagyhajó vezetésére jogosító képesítéssel rendelkező személy részére magyar és német nyelven „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány”-t (4. számú melléklet), vagy
+b)[^22] belvízi nagyhajó vezetésére jogosító képesítéssel rendelkező személy részére magyar és német nyelven „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány”-t (4. számú melléklet), vagy
 
-c)[^21] tengeri hajózási szolgálatot ellátó személy részére magyar és angol nyelven „Tengerész szolgálati egészségi bizonyítvány”-t (5. számú melléklet)
+c)[^23] tengeri hajózási szolgálatot ellátó személy részére magyar és angol nyelven „Tengerész szolgálati egészségi bizonyítvány”-t (5. számú melléklet)
 
-állít ki.
+## állít ki.
 
-(4)[^22] A vizsgálat eredményét – az 5. § (3) bekezdésében említett vizsgálat esetét kivéve –
+(4)[^24] A vizsgálat eredményét – az 5. § (3) bekezdésében említett vizsgálat esetét kivéve –
 
 a) a hajós szolgálati könyvbe az orvosi igazolás vagy a „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány” alapján a hajózási hatóság,
 
@@ -40,16 +42,17 @@ b) a tengerész szolgálati könyvbe a vizsgálatot végző orvos,
 
 c) kedvtelési célú vízijármű vezetőjének nem kártyaformátumú képesítő okmányába a vizsgálatot végző orvos
 
-jegyzi be.
+## jegyzi be.
 
-(5)[^23] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
+(5)[^25] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
 
-(6)[^24] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
+(6)[^26] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
 
-[^18]: A 7. § (1) bekezdés h) pontját a 23/2015. (V. 8.) NFM rendelet 13. §-a iktatta be.
-[^19]: A 7. § (3) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^20]: A 7. § (3) bekezdés b) pontja a 29/2014. (V. 5.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
-[^21]: A 7. § (3) bekezdés c) pontja a 29/2014. (V. 5.) NFM rendelet 21. § b) pontja, a 23/2015. (V. 8.) NFM rendelet 17. § a) pontja szerint módosított szöveg.
-[^22]: A 7. § (4) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^23]: A 7. § (5) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^24]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.
+[^19]: A 6/C. §-t a 23/2015. (V. 8.) NFM rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 12/2021. (III. 5.) ITM rendelet 9. § b) pontja.
+[^20]: A 7. § (1) bekezdés h) pontját a 23/2015. (V. 8.) NFM rendelet 13. §-a iktatta be.
+[^21]: A 7. § (3) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^22]: A 7. § (3) bekezdés b) pontja a 29/2014. (V. 5.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
+[^23]: A 7. § (3) bekezdés c) pontja a 29/2014. (V. 5.) NFM rendelet 21. § b) pontja, a 23/2015. (V. 8.) NFM rendelet 17. § a) pontja szerint módosított szöveg.
+[^24]: A 7. § (4) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^25]: A 7. § (5) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^26]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.
