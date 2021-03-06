@@ -1,3 +1,5 @@
+## 128. §
+
 ## 53. A vizsgáztatói tanúsításhoz és a vizsgáztatói megbízáshoz kapcsolódó jogosultságok és kiadásuk előfeltételei
 
 129. § (1) Ultralight repülőgép vizsgáztatói tanúsítás (a továbbiakban: FE(UL)) engedélyese jogosult az ULPL kiadásához szükséges jártassági vizsgáztatást, az ultralight repülőgép vontató jogosításhoz és az NVFR jogosításhoz szükséges jártassági vizsgáztatást és készségellenőrzést, továbbá a FI(UL), valamint a FE(UL) kiadásához szükséges kompetencia felmérést végrehajtani feltéve, hogy

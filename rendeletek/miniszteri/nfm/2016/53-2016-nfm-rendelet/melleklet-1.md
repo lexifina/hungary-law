@@ -1,4 +1,4 @@
-## 148. §[^47]
+## 148. §[^48]
 
 1. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
@@ -278,4 +278,4 @@ a) egy a vontatórepüléssel és eljárásokkal kapcsolatos elméleti képzést
 
 b) 10 gyakorlórepülést transzparens vontatása közben, amely tartalmaz legalább 5 kétkormányos repülést.
 
-[^47]: A 148. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 148. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
