@@ -18,6 +18,6 @@ b) továbbképzési képesítés megszerzését követő 3 éven belül
 
 a menetíró készülék működési elvéhez igazodó továbbképzési képesítést kell szereznie.
 
-(4)–(6)[^4]
+(4)–(6)[^5]
 
-[^4]: A 11. § (4)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § c) pontja hatályon kívül helyezte.
+[^5]: A 11. § (4)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § c) pontja hatályon kívül helyezte.

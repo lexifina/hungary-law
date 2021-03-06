@@ -1,3 +1,5 @@
+## 30. §[^14]
+
 31. § (1) Ellenőrzőkártya kiadását a menetíró ellenőrzésére hatáskörrel rendelkező hatóság vezetője kérheti az általa foglalkoztatott menetíró ellenőr számára a közlekedési hatóságtól. Ellenőrzőkártya a 35. § szerint a menetíró ellenőrzésére kijelölt személy részére kérhető.
 
 (2) Az (1) bekezdéstől eltérően ellenőrzőkártyát közúti közlekedési szakterületre bejegyzett – menetíró ellenőri tanfolyamot végzett – igazságügyi szakértő is igényelhet.
@@ -13,3 +15,5 @@ a) a szolgálaton kívüli menetíró ellenőr ellenőrzőkártyáját illetékt
 b) az ellenőrzőkártyát kizárólag a kártyatulajdonos használhassa,
 
 c) az ellenőrzőkártyát a közlekedési hatóságnál leadják, ha az ellenőrzőkártya tulajdonosának a menetíró ellenőri jogállása megszűnik.
+
+[^14]: A 30. §-t a 12/2021. (III. 5.) ITM rendelet 24. § d) pontja hatályon kívül helyezte.

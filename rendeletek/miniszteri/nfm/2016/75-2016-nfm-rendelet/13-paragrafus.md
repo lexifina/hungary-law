@@ -1,4 +1,4 @@
-## 12. §[^5]
+## 12. §[^6]
 
 13. § (1) A Kkt. 27/B. § (1) bekezdése szerinti képzési engedély kiadásának feltétele, hogy a kérelmező rendelkezzen:
 
@@ -30,4 +30,4 @@ alap- vagy továbbképzési képesítést igazoló okmányt/vizsgaigazolást ad 
 
 (4) A menetíró szerelői alap- és továbbképzési képesítés megszerzéséhez szükséges tantárgyi és vizsgakötelezettséget az 1. melléklet alapján, a közlekedési hatóság által meghatározott tantervi és vizsgakövetelmények tartalmazzák.
 
-[^5]: A 12. § az 55/2017. (XII. 27.) NFM rendelet 110. § d) pontja hatályon kívül helyezte.
+[^6]: A 12. § az 55/2017. (XII. 27.) NFM rendelet 110. § d) pontja hatályon kívül helyezte.
