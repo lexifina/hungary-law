@@ -1,12 +1,6 @@
 ## A képesítő okmány visszavonása, érvénytelenítése, érvényességének korlátozása, illetve a hajózási képesítéshez kötött szolgálattól, illetve járművezetéstől való eltiltás
 
-10. § (1) A hajózási hatóság az általa kiadott képesítő okmányt visszavonja vagy érvényességét korlátozza, ha
-
-a)[^72] az okmány kiadásának alapjául szolgáló adatok, tények, nyilatkozatok valótlansága bizonyosodik be, az okmány hamis vagy azt meghamisították, vagy
-
-b) a tengeri hajó parancsnoka olyan személyt alkalmaz, aki nem az STCW Egyezmény által előírt képesítéssel, illetve érvényesítéssel rendelkezik, vagy
-
-c) az illetékes hajózási hatóság vizsgálata megállapítja, hogy a víziközlekedési baleset (havaria) az élet- és vagyonbiztonság, valamint a környezet veszélyeztetése az érvényes képesítő okmánnyal rendelkező személy hozzá nem értése, mulasztása miatt történt.
+10. § (1)[^72]
 
 (2) A képesítő okmány nem jogosít az abban megnevezett képesítésnek megfelelő tevékenység végzésére, ha
 
@@ -22,7 +16,7 @@ b) a képesített személyt a képesítő okmányban megnevezett képesítésnek
 
 (6)[^76] Harmadik állam elismerését visszavonó európai bizottsági határozat meghozatalának napja előtt az ezen állam hatósága által kiállított bizonyítványra vonatkozóan megadott hajózási hatósági érvényesítés továbbra is érvényben marad. Az ilyen érvényesítéssel rendelkező személy nem tarthat igényt magasabb szintű képesítést elismerő érvényesítésre, kivéve, ha a magasabb szintű képesítést elismerő minősítés az eredeti elismerést követően teljesített tengeri szolgálat során szerzett tapasztalaton alapul.
 
-[^72]: A 10. § (1) bekezdésének a) pontja a 16/2006. (IV. 6.) GKM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^72]: A 10. § (1) bekezdését a 12/2021. (III. 5.) ITM rendelet 6. §-a hatályon kívül helyezte.
 [^73]: A 10. § (3) bekezdését a 74/2005. (IX. 28.) GKM rendelet 4. §-a iktatta be, szövege a 48/2009. (IX. 30.) KHEM rendelet 18. §-a, az 55/2009. (X. 14.) KHEM rendelet 2. §-a szerint módosított szöveg.
 [^74]: A 10. § (4) bekezdését a 74/2005. (IX. 28.) GKM rendelet 4. §-a iktatta be.
 [^75]: A 10. § (5) bekezdését a 74/2005. (IX. 28.) GKM rendelet 4. §-a iktatta be.
