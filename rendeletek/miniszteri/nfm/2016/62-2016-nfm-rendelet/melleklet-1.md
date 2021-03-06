@@ -1,6 +1,6 @@
-## 20–21. §[^87]
+## 20–21. §[^83]
 
-1. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^88]
+1. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^84]
 
 1. Kötelező átvétel címén kiosztható új támogatási jogosultságok korlátai
 
@@ -36,5 +36,5 @@ A barna prémium mértékének Hivatal általi megállapítása során annak mé
 
 | 2 | Maximálisan kiosztható éves új támogatás | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 2,5 Mrd Ft | 2,5 Mrd Ft | 2,5 Mrd Ft | 2,5 Mrd Ft | 2,5 Mrd Ft | 2,5 Mrd Ft | 2,5 Mrd Ft |
 
-[^87]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^88]: Az 1. melléklet a 22/2019. (VIII. 10.) ITM rendelet 15. §-ával megállapított szöveg.
+[^83]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: Az 1. melléklet a 22/2019. (VIII. 10.) ITM rendelet 15. §-ával megállapított szöveg.

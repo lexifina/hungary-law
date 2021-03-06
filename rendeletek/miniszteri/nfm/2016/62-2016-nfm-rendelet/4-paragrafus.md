@@ -10,11 +10,13 @@ b) a kereskedelmi üzem kezdetére vonatkozó határidők valamennyi pályázór
 
 c) a külföldi telephelyen termelt villamos energia termelői által elnyerhető támogatás legmagasabb mértéke;
 
-d)[^18] névleges teljesítőképesség szerinti pályázati kategóriák;
+d)[^18] névleges teljesítőképesség szerinti pályázati kategóriák és a pályázók névleges teljesítőképesség szerinti kategóriákba sorolásához alkalmazandó szabályok;
 
 e)[^19] az egészben megegyező tényleges tulajdonosú pályázók által egyes kategóriákban elnyerhető támogatás maximális mértéke.
 
-(3)[^20] Az induló támogatott ár nem lehet magasabb a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet (a továbbiakban: Metár kormányrendelet) 1. melléklet 3. pont b) alpontja szerinti árnak a Metár kormányrendelet 2. melléklete szerint indexált aktuális értékénél.
+f)[^20] a tervezett telephely földrajzi elhelyezkedése, földhasználati jellege, művelési ága, minőségi osztályba sorolása, aranykorona értéke szerinti pályázati kategóriája.
+
+(3)[^21] Az induló támogatott ár nem lehet magasabb a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet (a továbbiakban: Metár kormányrendelet) 1. melléklet 3. pont b) alpontja szerinti árnak a Metár kormányrendelet 2. melléklete szerint indexált aktuális értékénél.
 
 (4) A (2) és (3) bekezdésben felsoroltakon túlmenően más korlátok nem érvényesíthetőek a pályázaton beszerzendő mennyiségek, a kiosztható éves új támogatások, a benyújtott ajánlati árak vonatkozásában.
 
@@ -26,11 +28,12 @@ e)[^19] az egészben megegyező tényleges tulajdonosú pályázók által egyes
 
 (8) A pályázati eljárás nyertesei az ajánlati árukkal azonos induló támogatott ár alapján jogosultak támogatásra.
 
-(9)[^21] Az ajánlati biztosítékot és a teljesítési biztosítékot azonos elv alapján, megkülönböztetéstől mentesen kell megállapítani az egyes technológiákra és pályázókra. A biztosíték mértéke a megvalósítani tervezett beruházás értékétől függően különböző lehet. A biztosítékok meghatározásának módját és mértékét a kiírási dokumentáció tartalmazza.
+(9)[^22] Az ajánlati biztosítékot és a teljesítési biztosítékot azonos elv alapján, megkülönböztetéstől mentesen kell megállapítani az egyes technológiákra és pályázókra. A biztosíték mértéke a megvalósítani tervezett beruházás értékétől függően különböző lehet. A biztosítékok meghatározásának módját és mértékét a kiírási dokumentáció tartalmazza.
 
 [^16]: A 4. § a 43/2017. (XI. 8.) NFM rendelet 9. §-ával megállapított szöveg.
 [^17]: A 4. § (2) bekezdés a) pontja a 22/2019. (VIII. 10.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^18]: A 4. § (2) bekezdés d) pontját a 22/2019. (VIII. 10.) ITM rendelet 3. § (2) bekezdése iktatta be.
+[^18]: A 4. § (2) bekezdés d) pontját a 22/2019. (VIII. 10.) ITM rendelet 3. § (2) bekezdése iktatta be, szövege a 11/2021. (III. 3.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^19]: A 4. § (2) bekezdés e) pontját a 22/2019. (VIII. 10.) ITM rendelet 3. § (2) bekezdése iktatta be.
-[^20]: A 4. § (3) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^21]: A 4. § (9) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^20]: A 4. § (2) bekezdés f) pontját a 11/2021. (III. 3.) ITM rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 4. § (3) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^22]: A 4. § (9) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (4) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-11. §[^56] (1) Összeférhetetlenség miatt nem lehet az Értékelő Bizottság tagja vagy póttagja az a személy, aki
+11. §[^60] (1) Összeférhetetlenség miatt nem lehet az Értékelő Bizottság tagja vagy póttagja az a személy, aki
 
 a) valamely benyújtott pályázat előkészítésében vagy kidolgozásában bármilyen módon részt vett,
 
@@ -16,4 +16,4 @@ f) az a)–e) pontban meghatározott személyek Polgári Törvénykönyvről sz�
 
 (3) A tag és a póttag megbízatásának visszavonása esetén az új tagot és póttagot a 9. § (3) bekezdés szerinti jelölés alapján az Értékelő Bizottság elnöke nevezi ki.
 
-[^56]: A 11. § a 22/2019. (VIII. 10.) ITM rendelet 7. §-ával megállapított szöveg.
+[^60]: A 11. § a 22/2019. (VIII. 10.) ITM rendelet 7. §-ával megállapított szöveg.
