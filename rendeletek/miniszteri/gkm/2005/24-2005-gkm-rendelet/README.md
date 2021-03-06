@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2020-01-01 | 2005-24-20-0L.28 | 45/2019. (XII. 20.) ITM rendelet |
 | 2020-06-25 | 2005-24-20-0L.29 | 20/2020. (VI. 24.) ITM rendelet |
 | 2021-02-01 | 2005-24-20-0L.30 | 5/2021. (I. 29.) ITM rendelet |
+| 2021-03-06 | 2005-24-20-0L.31 | 12/2021. (III. 5.) ITM rendelet |
