@@ -1,6 +1,6 @@
-12. § (1)[^33] A műhely vagy műhelyek műszaki szakterület vezetőjévé olyan személy nevezhető ki, aki szakirányú felsőfokú, okleveles, BSc vagy MSc végzettséggel vagy okleveles vagy BSc végzettségű mérnök-informatikus vagy üzemmérnök-informatikus végzettséggel és legalább 3 éves, a vasúti járműkarbantartás vagy javítás területén szerzett szakmai gyakorlattal rendelkezik. Egy engedélyesnél a műszaki vezető legfeljebb négy műhely műszaki vezetőjévé nevezhető ki és egyidejűleg a (3) bekezdés a)–e) pontjában meghatározott részterületek közül egynek a felelőse lehet.
+12. § (1)[^35] A műhely vagy műhelyek műszaki szakterület vezetőjévé olyan személy nevezhető ki, aki szakirányú felsőfokú, okleveles, BSc vagy MSc végzettséggel vagy okleveles vagy BSc végzettségű mérnök-informatikus vagy üzemmérnök-informatikus végzettséggel és legalább 3 éves, a vasúti járműkarbantartás vagy javítás területén szerzett szakmai gyakorlattal rendelkezik. Egy engedélyesnél a műszaki vezető legfeljebb négy műhely műszaki vezetőjévé nevezhető ki és egyidejűleg a (3) bekezdés a)–e) pontjában meghatározott részterületek közül egynek a felelőse lehet.
 
-(2)[^34] A vasúti járművek közlekedésbiztonsági szempontból meghatározó jelentőségű alkatrészei és részegységei javítását részterületi felelős irányítja.
+(2)[^36] A vasúti járművek közlekedésbiztonsági szempontból meghatározó jelentőségű alkatrészei és részegységei javítását részterületi felelős irányítja.
 
 (3) A műhely részterületet irányító alkalmazottá olyan személy nevezhető ki, aki rendelkezik az alábbiakban meghatározott végzettséggel és szakmai gyakorlattal:
 
@@ -8,7 +8,7 @@ a) kerék és csapágyszerelő műszaki felelős esetében szakirányú felsőfo
 
 b) fékfelelős esetében szakirányú felsőfokú végzettséggel vagy szakirányú középfokú végzettséggel és a területen szerzett 3 év szakmai gyakorlattal;
 
-c)[^35] vonatbefolyásoló berendezés felelős esetében szakirányú felsőfokú végzettséggel és
+c)[^37] vonatbefolyásoló berendezés felelős esetében szakirányú felsőfokú végzettséggel és
 
 ca) azon vasúti járművek vonatbefolyásoló berendezésének javításához, amelyek nyílt hozzáférésű vasúti pályahálózaton közlekednek, egyesített éberségi és vonatbefolyásoló hitelesítői vizsgával,
 
@@ -44,11 +44,11 @@ j) főiskolai vagy BSc villamosmérnök, vagy
 
 k) okleveles vagy MSc villamosmérnök,
 
-l)[^36] egyetemi szintű okleveles kohómérnök
+l)[^38] egyetemi szintű okleveles kohómérnök
 
 ## végzettség és szakképzettség.
 
-(6)[^37] A (3) bekezdés b) pontja esetén szakirányú középfokú végzettségnek minősül:
+(6)[^39] A (3) bekezdés b) pontja esetén szakirányú középfokú végzettségnek minősül:
 
 a) a vasúti villamos járműszerelő,
 
@@ -58,8 +58,8 @@ c) a vasútijármű-technikusi vagy
 
 d) a közúti járműszerelő
 
-[^33]: A 12. § (1) bekezdése az 54/2017. (XII. 27.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^34]: A 12. § (2) bekezdése az 54/2017. (XII. 27.) NFM rendelet 22. §-a szerint módosított szöveg.
-[^35]: A 12. § (3) bekezdés c) pontja az 54/2017. (XII. 27.) NFM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^36]: A 12. § (5) bekezdés l) pontját az 54/2017. (XII. 27.) NFM rendelet 12. § (3) bekezdése iktatta be.
-[^37]: A 12. § (6) bekezdése az 54/2017. (XII. 27.) NFM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^35]: A 12. § (1) bekezdése az 54/2017. (XII. 27.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^36]: A 12. § (2) bekezdése az 54/2017. (XII. 27.) NFM rendelet 22. §-a szerint módosított szöveg.
+[^37]: A 12. § (3) bekezdés c) pontja az 54/2017. (XII. 27.) NFM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^38]: A 12. § (5) bekezdés l) pontját az 54/2017. (XII. 27.) NFM rendelet 12. § (3) bekezdése iktatta be.
+[^39]: A 12. § (6) bekezdése az 54/2017. (XII. 27.) NFM rendelet 12. § (4) bekezdésével megállapított szöveg.

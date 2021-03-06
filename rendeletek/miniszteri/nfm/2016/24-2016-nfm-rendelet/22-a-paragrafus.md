@@ -1,4 +1,4 @@
-## 22/A. §[^58] Az engedélyes
+## 22/A. §[^62] Az engedélyes
 
 a) a 2017. december 31-ig megkötött alvállalkozói szerződések esetén a szerződések megszűnéséig, de legfeljebb 2024. december 31-ig,
 
@@ -6,4 +6,4 @@ b) a 2017. december 31-ig megindított közbeszerzési és versenyeztetési elj�
 
 mentesül a 13. § (5) bekezdésében foglalt kötelezettség alól.
 
-[^58]: A 22/A. §-t az 54/2017. (XII. 27.) NFM rendelet 18. §-a iktatta be.
+[^62]: A 22/A. §-t az 54/2017. (XII. 27.) NFM rendelet 18. §-a iktatta be.

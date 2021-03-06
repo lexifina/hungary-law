@@ -26,8 +26,8 @@ g) a 18. § (1) bekezdés a) pontja.
 
 (5) Az e §-ban szabályozott tevékenység során a 13. § (2) bekezdés a) pontját és (3) bekezdését nem kell alkalmazni.
 
-(6)[^53] A 17. § (2) bekezdés a) pontjától eltérően a műhelynek az adatok rögzítéséhez és továbbításához zárt láncú informatikai hálózattal nem kell rendelkeznie.
+(6)[^57] A 17. § (2) bekezdés a) pontjától eltérően a műhelynek az adatok rögzítéséhez és továbbításához zárt láncú informatikai hálózattal nem kell rendelkeznie.
 
 (7) A 17. § (2) bekezdés szerinti kérelemhez csatolni kell a 13. § (1) bekezdésben meghatározott létesítmények, berendezések, eszközök meglétét igazoló nyilatkozatot is.
 
-[^53]: A 19. § (6) bekezdése az 54/2017. (XII. 27.) NFM rendelet 21. § c) pontja szerint módosított szöveg.
+[^57]: A 19. § (6) bekezdése az 54/2017. (XII. 27.) NFM rendelet 21. § c) pontja szerint módosított szöveg.
