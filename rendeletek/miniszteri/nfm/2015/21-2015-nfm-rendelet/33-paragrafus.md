@@ -10,9 +10,10 @@
 
 (5)[^41] A kutatási, kísérleti, vagy tudományos célú légijárműre kiadott egyedi repülési engedély meghosszabbítására irányuló kérelemnek tartalmaznia kell a hosszabbítás indokait, vagy a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendeletben meghatározott a kérelem mellékleteként benyújtandó dokumentumokban történt módosítás leírását.
 
-(6) A légiközlekedési hatóság a kutatási, kísérleti, vagy tudományos célú légijárműre kiadott egyedi repülési engedélyt felfüggeszti, ha a légijármű súlyosan veszélyezteti a repülés biztonságát.
+(6)[^42]
 
 [^38]: A 33. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 12. pontja hatályon kívül helyezte.
 [^39]: A 33. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 89. § a) pontja szerint módosított szöveg.
 [^40]: A 33. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 12. pontja hatályon kívül helyezte.
 [^41]: A 33. § (5) bekezdése az 55/2017. (XII. 27.) NFM rendelet 89. § d) pontja szerint módosított szöveg.
+[^42]: A 33. § (6) bekezdését a 12/2021. (III. 5.) ITM rendelet 20. § b) pontja hatályon kívül helyezte.
