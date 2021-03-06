@@ -1,3 +1,3 @@
-3. §[^2]
+3. §[^5]
 
-[^2]: A 3. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 28. pontja alapján hatályát vesztette.
+[^5]: A 3. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 28. pontja alapján hatályát vesztette.
