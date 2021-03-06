@@ -1,6 +1,6 @@
 ## Technológiai gép, berendezés karbantartása, javítása és átalakítása
 
-60. § (1)[^108] Az „RV-besorolású” építménybe telepített technológiai gép, berendezés és annak mérő-, ellenőrző- és vezérlőműszereinek rendszeres karbantartására éves tervet kell készíteni, és a terv szerinti karbantartást egyeztetett időpontban, az egyes berendezésekre vonatkozó karbantartási és minőségbiztosítási utasítások alapján kell elvégezni.
+60. § (1)[^110] Az „RV-besorolású” építménybe telepített technológiai gép, berendezés és annak mérő-, ellenőrző- és vezérlőműszereinek rendszeres karbantartására éves tervet kell készíteni, és a terv szerinti karbantartást egyeztetett időpontban, az egyes berendezésekre vonatkozó karbantartási és minőségbiztosítási utasítások alapján kell elvégezni.
 
 (2) A karbantartási munka megkezdése előtt
 
@@ -22,4 +22,4 @@ c) a karbantartást végzők nevét és
 
 d) az elvégzett munka megfelelő minőségének tanúsítását.
 
-[^108]: A 60. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 28. pontja szerint módosított szöveg.
+[^110]: A 60. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 28. pontja szerint módosított szöveg.

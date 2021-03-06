@@ -2,6 +2,6 @@
 
 (2) A gyártásról részletes műszaknaplót kell vezetni, amelybe be kell jegyezni minden olyan adatot és eseményt, amely a termeléssel és a gyártás biztonságával összefügg.
 
-(3)[^100] A robbanóanyaggal kapcsolatos kutatási, fejlesztési munkára kísérleti gyártási technológiai utasítást kell készíteni, amelyben az anyagi, tárgyi, szervezési és személyi feltételeken túlmenően a munkavédelmi követelményeket is meg kell határozni. A kísérleti gyártási technológiai utasítást a gazdálkodó szervezet vezetője az Mvtv. szerinti munkavédelmi üzembe helyezési eljárásban hagyja jóvá.
+(3)[^101] A robbanóanyaggal kapcsolatos kutatási, fejlesztési munkára kísérleti gyártási technológiai utasítást kell készíteni, amelyben az anyagi, tárgyi, szervezési és személyi feltételeken túlmenően a munkavédelmi követelményeket is meg kell határozni. A kísérleti gyártási technológiai utasítást a gazdálkodó szervezet vezetője az Mvtv. szerinti munkavédelmi üzembe helyezési eljárásban hagyja jóvá.
 
-[^100]: A 47. § (3) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 20. §-a iktatta be.
+[^101]: A 47. § (3) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 20. §-a iktatta be.

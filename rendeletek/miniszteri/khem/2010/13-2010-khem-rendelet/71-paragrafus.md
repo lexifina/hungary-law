@@ -4,11 +4,11 @@
 
 (2) A robbantási munkához annyi személyt kell beosztani, amennyi a robbantás helyének megközelítéséhez, a robbantás előkészítéséhez és a robbantás által veszélyeztetett terület lezárásához szükséges.
 
-(3)[^122] Az indítótöltet elkészítésének, a robbantószerkezet összeszerelésének vagy a megállt töltet hatástalanításának megkezdése előtt a robbantómester köteles az általa meghatározott körzetből a robbantáshoz be nem osztott személyeket eltávolítani.
+(3)[^124] Az indítótöltet elkészítésének, a robbantószerkezet összeszerelésének vagy a megállt töltet hatástalanításának megkezdése előtt a robbantómester köteles az általa meghatározott körzetből a robbantáshoz be nem osztott személyeket eltávolítani.
 
-(4)[^123] Az indítótöltet, a robbantószerkezet elkészítését megkezdeni vagy folytatni nem lehet, ha a robbantás elvégzését akadályozó vagy tiltó körülmény áll fenn, vagy ilyennel számolni kell.
+(4)[^125] Az indítótöltet, a robbantószerkezet elkészítését megkezdeni vagy folytatni nem lehet, ha a robbantás elvégzését akadályozó vagy tiltó körülmény áll fenn, vagy ilyennel számolni kell.
 
-(5)[^124] A robbantómester köteles – szükség esetén őrökkel – biztosítani, hogy a robbantás kezdetétől annak befejezéséig a személyek védelmére előírt biztonsági távolságon belül – a védett helyen levők és a robbantáshoz beosztottak kivételével –, valamint a robbanási termékek által veszélyeztetett körzetben személyek ne tartózkodjanak.
+(5)[^126] A robbantómester köteles – szükség esetén őrökkel – biztosítani, hogy a robbantás kezdetétől annak befejezéséig a személyek védelmére előírt biztonsági távolságon belül – a védett helyen levők és a robbantáshoz beosztottak kivételével –, valamint a robbanási termékek által veszélyeztetett körzetben személyek ne tartózkodjanak.
 
 (6) A robbantómester köteles az érintett személyekkel jelzés útján vagy egyéb módon közölni azt az időpontot, amikor a biztonsági távolságon túlra vagy védett helyre kell távozniuk, valamint a robbantás befejezését.
 
@@ -30,7 +30,7 @@ b) robbanóanyag kézi szállításának irányítása, felügyelete,
 
 c) robbanóanyag tárolási helyének kijelölése a munkahelyen,
 
-d)[^125] indítótöltet elkészítése,
+d)[^127] indítótöltet elkészítése,
 
 e) robbanózsinór előkészítése és összekötése,
 
@@ -40,7 +40,7 @@ g) robbantószerkezet összeszerelése, szétszerelése,
 
 h) túlnyomásos légtérben végzett robbantás, valamint meleg anyagok robbantása során a robbantótöltet elkészítése, elhelyezése és fojtása,
 
-i)[^126] külszíni robbantásnál az indítótöltet elhelyezése,
+i)[^128] külszíni robbantásnál az indítótöltet elhelyezése,
 
 j) robbantóhálózat kialakítása, ellenőrzése, robbantógépre kapcsolása,
 
@@ -60,11 +60,11 @@ a) a robbanóanyag kézi szállítása,
 
 b) a robbantási jel leadása,
 
-c)[^127] robbanóanyag töltés, az indítótöltet elkészítésének és elhelyezésének kivételével,
+c)[^129] robbanóanyag töltés, az indítótöltet elkészítésének és elhelyezésének kivételével,
 
 d) a fojtás elkészítése,
 
-e)[^128]
+e)[^130]
 
 f) segítség a megállt töltet hatástalanításánál,
 
@@ -72,10 +72,10 @@ g) segítség a robbanóanyag és a gyutacs megsemmisítésénél.
 
 (15) Ha ugyanazon robbantásnál több robbantómester tevékenykedik az egyik robbantómestert a munka irányítójának kell kijelölni.
 
-[^122]: A 71. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 33. pontja szerint módosított szöveg.
-[^123]: A 71. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 34. pontja szerint módosított szöveg.
-[^124]: A 71. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 35. pontja szerint módosított szöveg.
-[^125]: A 71. § (12) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 36. pontja szerint módosított szöveg.
-[^126]: A 71. § (12) bekezdés i) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 37. pontja szerint módosított szöveg.
-[^127]: A 71. § (14) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 23. §-ával megállapított szöveg.
-[^128]: A 71. § (14) bekezdés e) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^124]: A 71. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 33. pontja szerint módosított szöveg.
+[^125]: A 71. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 34. pontja szerint módosított szöveg.
+[^126]: A 71. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 35. pontja szerint módosított szöveg.
+[^127]: A 71. § (12) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 36. pontja szerint módosított szöveg.
+[^128]: A 71. § (12) bekezdés i) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 37. pontja szerint módosított szöveg.
+[^129]: A 71. § (14) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 23. §-ával megállapított szöveg.
+[^130]: A 71. § (14) bekezdés e) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 8. pontja hatályon kívül helyezte.

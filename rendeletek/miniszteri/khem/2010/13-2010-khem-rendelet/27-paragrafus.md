@@ -4,7 +4,7 @@
 
 (3) Minden tűzszakasz részére külön tűzvédelmi leválasztó kapcsolót kell felszerelni a tűzszakasz bejárata (megközelítési helye) közelében.
 
-(4)[^83] Az „RV-besorolású”, azonos rendeltetésű helyiségcsoport vagy építmény részére a veszélyességi övezeten kívül tűzvédelmi leválasztó kapcsolót kell alkalmazni.
+(4)[^84] Az „RV-besorolású”, azonos rendeltetésű helyiségcsoport vagy építmény részére a veszélyességi övezeten kívül tűzvédelmi leválasztó kapcsolót kell alkalmazni.
 
 (5) Minden védősánccal vagy védőfallal ellátott építményen a védősáncon, védőfalon kívül elhelyezett, a (4) bekezdésnek megfelelő feszültségmentesítő kapcsolót kell alkalmazni.
 
@@ -12,11 +12,11 @@
 
 (7) Különválasztott villamos hálózati rendszereknél hálózatonként alkalmazható leválasztó kapcsoló, de ezeket egymás mellett kell elhelyezni, és a rendeltetésüket egyértelmű és tartós felirattal kell megjelölni.
 
-(8)[^84] Leválasztó kapcsoló céljára távműködtetésű kapcsoló is alkalmazható, ebben az esetben a működtető szervre alkalmazandók az elhelyezésre vonatkozó előírások. A távműködtetett főáramköri kapcsolóra a leválasztó kapcsoló kialakítására vonatkozó előírásokat kell alkalmazni. A távműködtetett főáramköri kapcsolót úgy kell bekötni, hogy a kapcsoló a leválasztott hálózat elosztó berendezésének betáplálási pontjait is leválassza.
+(8)[^85] Leválasztó kapcsoló céljára távműködtetésű kapcsoló is alkalmazható, ebben az esetben a működtető szervre alkalmazandók az elhelyezésre vonatkozó előírások. A távműködtetett főáramköri kapcsolóra a leválasztó kapcsoló kialakítására vonatkozó előírásokat kell alkalmazni. A távműködtetett főáramköri kapcsolót úgy kell bekötni, hogy a kapcsoló a leválasztott hálózat elosztó berendezésének betáplálási pontjait is leválassza.
 
 (9) A leválasztó kapcsolót, a feszültség-mentesítő kapcsolót a beépítés helyén felirattal kell megjelölni. Ezeket a kapcsolókat üzemszerű (rendszeres) kapcsolások céljára nem szabad használni.
 
 (10) A leválasztó (feszültségmentesítő) kapcsolónak vagy a távműködtető szervnek csak egyértelműen megjelölt „ki” és „be” állása lehet, a „ki” állás lakatolható vagy zárható kivitelű legyen. A leválasztó kapcsoló „be” állásban nem lehet lakatolható vagy zárható. Kulcsos kivitel esetén a kulcs csak „ki” helyzetben lehet levehető.
 
-[^83]: A 27. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 15. §-ával megállapított szöveg.
-[^84]: A 27. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^84]: A 27. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 15. §-ával megállapított szöveg.
+[^85]: A 27. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 13. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Növényzet
 
-16. § (1)[^68] A gyártó létesítmény be nem épített vagy burkolattal be nem fedett területeire – a (2)–(3) bekezdés szerint – növényzetet kell telepíteni és azt folyamatosan gondozni kell.
+16. § (1)[^69] A gyártó létesítmény be nem épített vagy burkolattal be nem fedett területeire – a (2)–(3) bekezdés szerint – növényzetet kell telepíteni és azt folyamatosan gondozni kell.
 
 (2) A védősáncok rézsűit füvesíteni kell.
 
@@ -8,4 +8,4 @@
 
 (4) Az „RV-besorolású” építménytől mért 5 m távolságon belül fát nem szabad ültetni; bokrot, cserjét 10 m távolságon belül nem szabad telepíteni.
 
-[^68]: A 16. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 9. §-ával megállapított szöveg.
+[^69]: A 16. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 9. §-ával megállapított szöveg.

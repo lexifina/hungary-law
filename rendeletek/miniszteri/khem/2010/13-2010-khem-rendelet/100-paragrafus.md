@@ -6,6 +6,6 @@
 
 (3) A robbantásos bővítés befejezésekor a robbantólyuk hosszának növekedését meg kell határozni, a betölthető robbanóanyag tömegét ennek ismeretében kell megbecsülni. Megállt töltetnél a töltet elhelyezkedését a robbantólyuk hossz-növekedésének megfelelő térben kell feltételezni.
 
-(4)[^185]
+(4)[^187]
 
-[^185]: A 100. § (4) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 17. pontja hatályon kívül helyezte.
+[^187]: A 100. § (4) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 17. pontja hatályon kívül helyezte.

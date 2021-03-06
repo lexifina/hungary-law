@@ -2,7 +2,7 @@
 
 a) 106 ohm-nál nagyobb felületi ellenállású szigetelőanyagot nem szabad használni,
 
-b)[^107]
+b)[^109]
 
 c) a munkavállaló keze és a föld közötti eredő szigetelési ellenállást naponként, a munka megkezdése előtt műszerrel kell ellenőrizni és bizonylatolni,
 
@@ -20,4 +20,4 @@ i) a feltöltődés lehetőségével járó részművelet után – a műveleti 
 
 j) a műveleti utasítást a robbanóanyag elektrosztatikus kisülésekkel szembeni érzékenységének szem előtt tartásával kell elkészíteni és a munkavállalókat ki kell oktatni a feltöltődés elleni tudatos védekezés elméleti ismereteire és gyakorlati teendőire.
 
-[^107]: Az 58. § b) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 7. pontja hatályon kívül helyezte.
+[^109]: Az 58. § b) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 7. pontja hatályon kívül helyezte.

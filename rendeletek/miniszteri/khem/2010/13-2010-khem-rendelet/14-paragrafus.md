@@ -12,7 +12,7 @@ b) a terelőfal anyaga helyszínen öntött monolit vasbeton, amelynek a betonoz
 
 c) a terelőfal teteje legalább 50 cm-rel legyen a tetősík felett, kifúvófalak mellett legalább 50 cm-rel nyúljon a homlokzat síkja elé,
 
-d)[^64] terelőfalakba az esetleges robbanás hatásának ellenálló nyílászáró szerkezeteket szabad beépíteni,
+d)[^65] terelőfalakba az esetleges robbanás hatásának ellenálló nyílászáró szerkezeteket szabad beépíteni,
 
 e) vezetékek áttörési helyein peremes védőcsövet kell a terelőfalba építeni úgy, hogy a védőcső és a vezetékek közötti rést rugalmas, nem éghető anyaggal kell kitölteni.
 
@@ -44,7 +44,7 @@ a) kifúvófödém alkalmazható az „RV-besorolású” helyiségeknél abban 
 
 b) a kifúvófödém fajlagos tömege legfeljebb 120 kg/m2 lehet,
 
-c)[^65] a kifúvófödémet csak az időjárási hatásoknak ellenállóan szabad méretezni,
+c)[^66] a kifúvófödémet csak az időjárási hatásoknak ellenállóan szabad méretezni,
 
 d) világítótesteket vagy egyéb szerelvényeket csak a kifúvófödém gerendáira szabad szerelni,
 
@@ -80,7 +80,7 @@ a) az ablak anyaga és kialakítása olyan legyen, hogy a mechanikus szikraképz
 
 b) a robbanóanyagipari építmény ablakán legfeljebb 2 mm vastag síküveget szabad alkalmazni,
 
-c)[^66] ha az „RV-besorolású” helyiségben fény- vagy hőérzékeny robbanóanyag van, akkor matt fehér ablakot kell alkalmazni,
+c)[^67] ha az „RV-besorolású” helyiségben fény- vagy hőérzékeny robbanóanyag van, akkor matt fehér ablakot kell alkalmazni,
 
 d) kifúvófalba D tűzvédelmi osztályú ablakszerkezetet lehet alkalmazni,
 
@@ -108,7 +108,7 @@ b) a helyiség belső színezése legyen világos, a robbanásveszélyes anyag s
 
 c) többrétegű burkolatban ne legyen légrés, álmennyezetet létesíteni nem lehte,
 
-d)[^67] a helyiség padlóburkolata hézagmentes, vízzáró, legalább Cfl tűzvédelmi osztályú, valamint csúszásmentes legyen, továbbá a széleken lábazati szegélyt kell alkalmazni,
+d)[^68] a helyiség padlóburkolata hézagmentes, vízzáró, legalább Cfl tűzvédelmi osztályú, valamint csúszásmentes legyen, továbbá a széleken lábazati szegélyt kell alkalmazni,
 
 e) veszélyes mértékű elektrosztatikus feltöltődésre hajlamos anyagot belső felületen alkalmazni nem szabad,
 
@@ -116,7 +116,7 @@ f) az „RV-1”, „RV-2” besorolású helyiség falai és mennyezetei moshat
 
 g) az „RV-besorolású” helyiség padlója általában egyszintben legyen, ha ez nem lehetséges, az átjárást lépcső nélkül, 1,5%-nál nem nagyobb lejtővel kell biztosítani úgy, hogy helyiségenként a padló lejtése az 1,5%-ot nem haladhatja meg.
 
-[^64]: A 14. § (3) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 10. pontja szerint módosított szöveg.
-[^65]: A 14. § (6) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 15. pontja szerint módosított szöveg.
-[^66]: A 14. § (8) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 8. §-ával megállapított szöveg.
-[^67]: A 14. § (12) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^65]: A 14. § (3) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 10. pontja szerint módosított szöveg.
+[^66]: A 14. § (6) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^67]: A 14. § (8) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 8. §-ával megállapított szöveg.
+[^68]: A 14. § (12) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 16. pontja szerint módosított szöveg.

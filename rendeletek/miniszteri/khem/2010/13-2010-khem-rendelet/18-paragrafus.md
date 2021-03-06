@@ -2,8 +2,8 @@
 
 ## Kerítés
 
-18. § (1)[^69] A gyártó létesítményt illetéktelen személyek és erdei nagyvadak külső behatolásától védeni kell. E célból a létesítményt, vagy ha a hatékonyabb ellenőrzés megvalósítása érdekében szükséges, az üzem területét külön is, legalább 1,8 m magas kerítéssel kell körülhatárolni és a kerítés tetejére szögesdrót-spirált kell felszerelni.
+18. § (1)[^70] A gyártó létesítményt illetéktelen személyek és erdei nagyvadak külső behatolásától védeni kell. E célból a létesítményt, vagy ha a hatékonyabb ellenőrzés megvalósítása érdekében szükséges, az üzem területét külön is, legalább 1,8 m magas kerítéssel kell körülhatárolni és a kerítés tetejére szögesdrót-spirált kell felszerelni.
 
 (2) A létesítmény külső kerítésén belül, annak teljes hosszában, legalább 3 m széles, növényzet mentes sávot kell kialakítani az őrizendő terület jó áttekinthetősége és az esetleges erdőtűz átterjedésének megakadályozása érdekében.
 
-[^69]: A 18. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 10. §-ával megállapított szöveg.
+[^70]: A 18. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 10. §-ával megállapított szöveg.

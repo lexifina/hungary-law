@@ -1,4 +1,4 @@
-7/A. §[^53] (1) A robbanóanyag nem robbanóképes alkotókból, egyszerű mechanikai keveréssel történő előállítása esetén a keverő berendezés helyét – a keverés alatt álló és az egyidejűleg tárolt robbanóanyag-mennyiség alapján – a robbantóanyag-raktárakra vonatkozó védőtávolság figyelembevételével kell kijelölni.
+7/A. §[^54] (1) A robbanóanyag nem robbanóképes alkotókból, egyszerű mechanikai keveréssel történő előállítása esetén a keverő berendezés helyét – a keverés alatt álló és az egyidejűleg tárolt robbanóanyag-mennyiség alapján – a robbantóanyag-raktárakra vonatkozó védőtávolság figyelembevételével kell kijelölni.
 
 (2) A robbanóanyag keveréssel való előállítására, mérlegelésére, csomagolására, átmeneti tárolására szolgáló helyiségek, térségek fokozottan tűz- és robbanásveszélyesek, „A” tűzveszélyességi osztályúak.
 
@@ -16,4 +16,4 @@ d) az egyes helyiségekben, az előállítás helyén tárolható robbanóanyag-
 
 e) a biztonsági szempontból fontosabb rendelkezéseket.
 
-[^53]: A 7/A. §-t a 49/2013. (VIII. 9.) NFM rendelet 5. §-a iktatta be.
+[^54]: A 7/A. §-t a 49/2013. (VIII. 9.) NFM rendelet 5. §-a iktatta be.

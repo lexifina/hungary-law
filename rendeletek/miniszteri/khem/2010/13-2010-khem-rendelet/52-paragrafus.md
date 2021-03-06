@@ -34,4 +34,6 @@ b) ellenőrizni kell, hogy a rendszeres ellenőrzéseket az előírt időszakokb
 
 (5) Az időszakos biztonsági felülvizsgálatot csak a kijelölt intézet, a villamos felülvizsgálatokat csak olyan személyek végezhetik, akik az előírt szakképzettséggel rendelkeznek.
 
-(6) A munkavédelmi hatóság a létesítmény nem kielégítő biztonsága esetén jogosult a létesítmény vagy annak egyes részei üzemeltetésének ideiglenes – a kielégítő biztonságú állapot megvalósításáig tartó – felfüggesztését elrendelni.
+(6)[^106]
+
+[^106]: Az 52. § (6) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § b) pontja hatályon kívül helyezte.

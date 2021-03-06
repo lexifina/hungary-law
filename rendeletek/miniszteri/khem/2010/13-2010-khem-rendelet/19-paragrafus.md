@@ -14,6 +14,6 @@ c) „RV-4” besorolású helyiség és szabadtér esetén
 
 ca) zárt csatornát, csatornatönköt, szabadon vezetett csatornát, padlóban, falban, horonyban vezetett csatornát, félig zárt fedlapú és nyitott csatornát szabad alkalmazni,
 
-cb)[^70] a csatornákat egyenes pontokból és íves irányváltoztatásokkal kell kialakítani, ha pedig ez nem lehetséges, úgy az iránytörésnél tisztító nyílást kell létesíteni.
+cb)[^71] a csatornákat egyenes pontokból és íves irányváltoztatásokkal kell kialakítani, ha pedig ez nem lehetséges, úgy az iránytörésnél tisztító nyílást kell létesíteni.
 
-[^70]: A 19. § (3) bekezdés c) pont cb) alpontja a 49/2013. (VIII. 9.) NFM rendelet 11. §-ával megállapított szöveg.
+[^71]: A 19. § (3) bekezdés c) pont cb) alpontja a 49/2013. (VIII. 9.) NFM rendelet 11. §-ával megállapított szöveg.

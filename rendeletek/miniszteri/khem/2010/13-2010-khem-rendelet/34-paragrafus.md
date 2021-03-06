@@ -22,7 +22,7 @@ d) az üzemi világítás által szolgáltatott megvilágítás 5%-a, legalább 
 
 (8) A tartalékvilágítás által szolgáltatott megvilágítás figyelembe vehető az üzemi világítás részeként, ha a tartalékvilágítás mindig teljes fényárammal világít, és megengedett az üzemi világítás működésekor kisebb fényáram-kibocsátású (tartalékkapcsolású) megoldás is. A tartalékvilágítás fényforrásainak fényárama ennél a megoldásnál az üzemi világítás működésekor annyira csökkenthető, hogy a bekapcsolt állapot rátekintéssel még jól észlelhető legyen.
 
-(9)[^88] A tartalékvilágítás az üzemi világítástól elkülönített vezetékhálózattal alakítandó ki.
+(9)[^89] A tartalékvilágítás az üzemi világítástól elkülönített vezetékhálózattal alakítandó ki.
 
 (10) A (4) bekezdés c) és d) pontja szerinti világítás részére olyan központi tartalék áramforrásról kell gondoskodni, amely ezt az üzemi világítás kimaradása után legalább egy órán keresztül képes üzemben tartani úgy, hogy a feszültség nem csökken a névleges érték 75%-a alá.
 
@@ -34,4 +34,4 @@ d) az üzemi világítás által szolgáltatott megvilágítás 5%-a, legalább 
 
 (14) A veszélyes anyagot tartalmazó építményben minden kijárat, vészkijáratot megközelítő útvonal, kiürítési, menekülési útvonal megjelölésére irányfényként megfelelő jelekkel ellátott, a menekülési útvonalat egyértelműen jelölő világító táblákat kell alkalmazni. Az utánvilágító táblák üzemszerű, kellő szintű megvilágításáról gondoskodni kell.
 
-[^88]: A 34. § (9) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 14. pontja szerint módosított szöveg.
+[^89]: A 34. § (9) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 14. pontja szerint módosított szöveg.

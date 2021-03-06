@@ -2,7 +2,7 @@
 
 (2) A nyilvántartási könyvet ceruzával vezetni, bejegyzést átírással megváltoztatni nem lehet. A téves bejegyzést egyszeri áthúzással kell törölni.
 
-(3)[^206] A nyilvántartási könyvben a robbantóanyag-készletet minden készletváltozás esetén ki kell mutatni.
+(3)[^208] A nyilvántartási könyvben a robbantóanyag-készletet minden készletváltozás esetén ki kell mutatni.
 
 (4) A robbanóanyag-bevételt és -kiadást tételenként kell bejegyezni és igazoltatni.
 
@@ -16,7 +16,7 @@ b) visszavétel: felhasználásra kiadott, de fel nem használt (maradvány) rob
 
 c) megsemmisítés: megsemmisítés céljából kiadott, vagy bevételezett robbanóanyag.
 
-(7)[^207] A használatból kivont nyilvántartási könyvet – a tevékenység befejezése esetén is – a használatból kivonást követő öt évig meg kell őrizni.
+(7)[^209] A használatból kivont nyilvántartási könyvet – a tevékenység befejezése esetén is – a használatból kivonást követő öt évig meg kell őrizni.
 
-[^206]: A 123. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^207]: A 123. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^208]: A 123. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^209]: A 123. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 47. § (2) bekezdésével megállapított szöveg.

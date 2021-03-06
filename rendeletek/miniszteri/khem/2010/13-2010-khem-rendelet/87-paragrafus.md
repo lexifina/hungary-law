@@ -1,10 +1,10 @@
 ## Kiegészítő előírások sújtólégveszélyes bányákra
 
-87. § (1)[^162] Sújtólégveszélyes bányában
+87. § (1)[^164] Sújtólégveszélyes bányában
 
 a) ha a robbantás helyének 3 m-es körzetében vagy a robbantóállomáson a főte alatt 30 cm-ben a levegő metántartalma az 1 V/V%-ot meghaladja,
 
-b)[^163] ha a töltet 3 m-es körzetében ellenőrizhetetlen levegőösszetételű üreg van vagy ilyennel számolni kell,
+b)[^165] ha a töltet 3 m-es körzetében ellenőrizhetetlen levegőösszetételű üreg van vagy ilyennel számolni kell,
 
 c) fejtésben omlasztással egyidejűleg,
 
@@ -24,11 +24,11 @@ d) döntőgurítóban vagy bunkerben, ha abban szenet tárolnak,
 
 (7) Ahol csak sújtólégbiztos robbanóanyagot lehet használni, ott
 
-a)[^164] a robbantólyukat úgy kell telepíteni, hogy a robbantótöltet és a legközelebbi szabad felület vagy robbantólyuk közötti távolság szénben legalább 50 cm, meddőben legalább 30 cm legyen,
+a)[^166] a robbantólyukat úgy kell telepíteni, hogy a robbantótöltet és a legközelebbi szabad felület vagy robbantólyuk közötti távolság szénben legalább 50 cm, meddőben legalább 30 cm legyen,
 
 b) a fúrólyuk átmérője legfeljebb 10 mm-rel haladhatja meg a használt robbanóanyag-töltény átmérőjét,
 
-c)[^165] az indítótöltetet a robbantólyuk szájától számítva elsőként vagy másodikként kell elhelyezni úgy, hogy a gyutacs talpa a robbantólyuk talpa felé nézzen,
+c)[^167] az indítótöltetet a robbantólyuk szájától számítva elsőként vagy másodikként kell elhelyezni úgy, hogy a gyutacs talpa a robbantólyuk talpa felé nézzen,
 
 d) a töltényeket szorosan kell egymáshoz illeszteni,
 
@@ -38,7 +38,7 @@ f) a vízfojtás hosszának legalább 25 cm-nek, az agyag- vagy homokfojtás hos
 
 g) sűrített levegővel végzett homokfojtás esetén a homok nyirkos, kézi nyomásra összetapadó legyen,
 
-h)[^166] több töltet egyidejű indítása esetén az elsőként és az utolsóként robbanó villamos gyutacs névleges időzítése között a különbség legfeljebb 300 ms lehet,
+h)[^168] több töltet egyidejű indítása esetén az elsőként és az utolsóként robbanó villamos gyutacs névleges időzítése között a különbség legfeljebb 300 ms lehet,
 
 i) rátett töltetet alkalmazni nem lehet,
 
@@ -46,11 +46,11 @@ j) védett hely frontfejtésben nem jelölhető ki,
 
 k) főteprovokálás esetén a robbantóállomást a behúzó vágatban, a fejtés homlokától legalább 150 m távolságban kell kijelölni, továbbá a robbantóállomás és a fejtés közötti vágatba robbanásfojtó zárat kell beépíteni.
 
-(8)[^167] A II. osztályú sújtólégveszélyes bányában végzett főteprovokáláskor a fejtési légosztály kihúzó légáramában személyek nem tartózkodhatnak. A III. osztályú sújtólégveszélyes bányában a főteprovokálást kiürített légosztály mellett kell végezni.
+(8)[^169] A II. osztályú sújtólégveszélyes bányában végzett főteprovokáláskor a fejtési légosztály kihúzó légáramában személyek nem tartózkodhatnak. A III. osztályú sújtólégveszélyes bányában a főteprovokálást kiürített légosztály mellett kell végezni.
 
-[^162]: A 87. § (1) bekezdés nyitó szövegrésze a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 56. pontja szerint módosított szöveg.
-[^163]: A 87. § (1) bekezdés b) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 57. pontja szerint módosított szöveg.
-[^164]: A 87. § (7) bekezdés a) pontja a 49/2013. (VIII. 9.) NFM rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^165]: A 87. § (7) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^166]: A 87. § (7) bekezdés h) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 58. pontja szerint módosított szöveg.
-[^167]: A 87. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 59. pontja szerint módosított szöveg.
+[^164]: A 87. § (1) bekezdés nyitó szövegrésze a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 56. pontja szerint módosított szöveg.
+[^165]: A 87. § (1) bekezdés b) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 57. pontja szerint módosított szöveg.
+[^166]: A 87. § (7) bekezdés a) pontja a 49/2013. (VIII. 9.) NFM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^167]: A 87. § (7) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^168]: A 87. § (7) bekezdés h) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 58. pontja szerint módosított szöveg.
+[^169]: A 87. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 59. pontja szerint módosított szöveg.

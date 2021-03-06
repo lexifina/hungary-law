@@ -38,11 +38,12 @@ g) föld alatti robbantási munka
 
 ## érvényességi körre adható.
 
-(5)[^44] A bányafelügyelet a robbantásvezető vagy a robbantómester engedélyét két éves időtartamra felfüggeszti, ha halmozottan vagy egy éven belül ismétlődően megszegi a vonatkozó biztonsági szabályokat, vagy szabályszegésével súlyos balesetet vagy súlyos üzemzavart okoz.
+(5)[^44]
 
-(6) A felfüggesztés időtartamát követően a robbantásvezető vagy a robbantómester az engedélye szerinti tevékenységet csak akkor folytathatja, ha a (3) bekezdés szerinti tanfolyamon részt vett és sikeres vizsgát tett.
+(6)[^45]
 
 (7) A (3) bekezdés szerinti engedélyt a bányafelügyelet véglegesen visszavonja attól, aki feladatai ellátására egészségügyileg (orvosi szakvélemény alapján) véglegesen alkalmatlanná vált.
 
 [^43]: Az 5. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 2. §-ával megállapított szöveg.
-[^44]: Az 5. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^44]: Az 5. § (5) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^45]: Az 5. § (6) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § a) pontja hatályon kívül helyezte.

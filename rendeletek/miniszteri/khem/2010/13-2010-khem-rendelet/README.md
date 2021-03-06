@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-13-20-2
 | 2013-09-08 | 2010-13-20-2M.3 | 49/2013. (VIII. 9.) NFM rendelet |
 | 2015-04-01 | 2010-13-20-2M.4 | 15/2015. (III. 31.) NFM rendelet |
 | 2017-07-01 | 2010-13-20-2M.5 | 49/2013. (VIII. 9.) NFM rendelet |
+| 2021-03-06 | 2010-13-20-2M.6 | 12/2021. (III. 5.) ITM rendelet |

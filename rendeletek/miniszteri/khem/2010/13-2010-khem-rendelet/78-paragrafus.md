@@ -4,7 +4,7 @@
 
 (3) A robbantómester köteles a gyutacsok összekapcsolásának és a kötési helyek szigetelésének, elrendezésének megfelelőségét ellenőrizni.
 
-(4)[^145] Robbantóvezetékként réz erű, acélszállal erősített, sodrott, a robbantógép csúcsfeszültségének megfelelő szigetelésű vezetéket szabad használni.
+(4)[^147] Robbantóvezetékként réz erű, acélszállal erősített, sodrott, a robbantógép csúcsfeszültségének megfelelő szigetelésű vezetéket szabad használni.
 
 (5) A nem állandó beépítésű robbantóvezetéket a robbantás kezdetéig és a robbantás befejezésétől kezdve dobra csévélve, végeit a robbantógépre vagy a csatlakozó robbantóvezetékre való kapcsolásig rövidre zártan kell tartani. A rövidre zárás kötelezettsége nem vonatkozik az alumíniumkohókban, valamint a rádióadó, televízióadó, radarállomás 2 km-es körzetében végzett robbantásra.
 
@@ -12,7 +12,7 @@
 
 (7) A robbantóvezetéket csak akkor lehet a robbantó hálózathoz csatlakoztatni, ha a gyutacsok összekapcsolása már megtörtént.
 
-(8)[^146] A robbantóvezetéket robbantómester felügyelete mellett, a töltetektől – meleg anyagok robbantásának kivételével – a robbantóállomás felé haladóan kell fektetni.
+(8)[^148] A robbantóvezetéket robbantómester felügyelete mellett, a töltetektől – meleg anyagok robbantásának kivételével – a robbantóállomás felé haladóan kell fektetni.
 
 (9) A robbantóvezetéket úgy kell fektetni, hogy feszültség alatt álló villamos berendezéssel ne érintkezhessen.
 
@@ -20,5 +20,5 @@
 
 (11) Fektetéskor szemrevételezéssel ellenőrizni kell a robbantóvezeték burkolatát, szigetelését. Sérült robbantóvezeték nem használható.
 
-[^145]: A 78. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^146]: A 78. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^147]: A 78. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^148]: A 78. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 26. § (2) bekezdésével megállapított szöveg.

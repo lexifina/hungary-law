@@ -1,6 +1,6 @@
-## A konténerre vonatkozó speciális rendelkezések[^218]
+## A konténerre vonatkozó speciális rendelkezések[^220]
 
-135/A. §[^219] (1) Konténer akkor használható ideiglenes vagy állandó tárolóhelyként, ha megfelel a benne tárolt fajtájú és mennyiségű robbantóanyag szállítására használható konténerre vonatkozó, a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodásban meghatározott követelményeknek. A konténer csak zárt, szerkezetileg megfelelő, nem oldható kötéssel rögzített vázú, osztatlan nagykonténer lehet.
+135/A. §[^221] (1) Konténer akkor használható ideiglenes vagy állandó tárolóhelyként, ha megfelel a benne tárolt fajtájú és mennyiségű robbantóanyag szállítására használható konténerre vonatkozó, a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodásban meghatározott követelményeknek. A konténer csak zárt, szerkezetileg megfelelő, nem oldható kötéssel rögzített vázú, osztatlan nagykonténer lehet.
 
 (2) A konténer környezetében – annak szállítása kivételével – a tárolható robbantóanyag mennyiségének megfelelő telepítési távolságot kell tartani.
 
@@ -14,5 +14,5 @@
 
 (7) A konténer telepítési irányát úgy kell meghatározni, hogy a konténer ajtónyílásának középvonalától vízszintesen mért 50 m-es sugarú – az ajtónyílás függőleges vetületének vonala előtt elhelyezkedő – félkörön belül építmények kiürítésre szolgáló kijárata, továbbá „A”–„B” tűzveszélyességi osztályba tartozó veszélyességi övezet ne legyen. A távolságot a felére lehet csökkenteni, ha a konténert védett tárolónak építik.
 
-[^218]: A 135/A. §-t megelőző alcímet a 49/2013. (VIII. 9.) NFM rendelet 52. §-a iktatta be.
-[^219]: A 135/A. §-t a 49/2013. (VIII. 9.) NFM rendelet 52. §-a iktatta be.
+[^220]: A 135/A. §-t megelőző alcímet a 49/2013. (VIII. 9.) NFM rendelet 52. §-a iktatta be.
+[^221]: A 135/A. §-t a 49/2013. (VIII. 9.) NFM rendelet 52. §-a iktatta be.
