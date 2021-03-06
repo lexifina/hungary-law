@@ -30,4 +30,6 @@ Határidő: folyamatos
 
 6. a 2–5. pontban foglaltakat 2021. március 22-ig rendeli alkalmazni,
 
-7. visszavonja az ország működéséhez szükséges létfontosságú állami és nem állami gazdasági társaságok veszélyhelyzeti feladat-ellátásának szakmai támogatásáról szóló 1109/2020. (III. 18.) Korm. határozatot.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
