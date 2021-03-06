@@ -1,4 +1,4 @@
-## 27. §[^22]
+## 27. §[^24]
 
 ## 22. Jóváhagyott eljárások
 
@@ -16,4 +16,4 @@ e) iratok és okmányok megfelelő dokumentáltságának és visszakereshetősé
 
 (2) Az eljárásokat a légiközlekedési hatósághoz egységes kézikönyvként kell benyújtani a léigközlekedési hatóság által meghatározott formai követelmények szerint.
 
-[^22]: A 27. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § f) pontja hatályon kívül helyezte.
+[^24]: A 27. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § f) pontja hatályon kívül helyezte.

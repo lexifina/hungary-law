@@ -1,1 +1,3 @@
-## 7. A szakszolgálati engedély felfüggesztése vagy visszavonása
+## 7.[^9]
+
+[^9]: A 7. alcím címét a 12/2021. (III. 5.) ITM rendelet 18. § b) pontja hatályon kívül helyezte.

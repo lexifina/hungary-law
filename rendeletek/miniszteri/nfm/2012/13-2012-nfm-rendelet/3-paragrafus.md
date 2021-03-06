@@ -4,7 +4,7 @@
 
 ## 3. Légijárművek üzemképesség tanúsításának személyi követelményei
 
-3. §[^5] (1) A légijárművek üzemképesség tanúsításához légijármű karbantartó szakszolgálati engedély vagy az e rendelet szerinti jogosítás bejegyzése szükséges a 2042/2003/EK bizottsági rendelet III. Melléklete (a továbbiakban: Part-66) szerint kiadott szakszolgálati engedély „Nemzeti jogosítások” rovatába (a továbbiakban együtt: szakszolgálati engedély).
+3. §[^6] (1) A légijárművek üzemképesség tanúsításához légijármű karbantartó szakszolgálati engedély vagy az e rendelet szerinti jogosítás bejegyzése szükséges a 2042/2003/EK bizottsági rendelet III. Melléklete (a továbbiakban: Part-66) szerint kiadott szakszolgálati engedély „Nemzeti jogosítások” rovatába (a továbbiakban együtt: szakszolgálati engedély).
 
 (2) A szakszolgálati engedélynek a következő kategóriái léteznek:
 
@@ -34,4 +34,4 @@ b) B-BL.2 – gázballonok,
 
 c) B-BL.3 – léghajók.
 
-[^5]: A 3. § az 55/2017. (XII. 27.) NFM rendelet 60. §-ával megállapított szöveg.
+[^6]: A 3. § az 55/2017. (XII. 27.) NFM rendelet 60. §-ával megállapított szöveg.

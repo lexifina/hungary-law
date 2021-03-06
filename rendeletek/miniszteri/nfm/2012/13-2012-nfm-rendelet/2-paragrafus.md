@@ -20,6 +20,7 @@
 
 8. léghajó: a levegőnél könnyebb, erőgép-meghajtású légijármű,
 
-9. szakszolgálati engedély felfüggesztése: a szakszolgálati engedéllyel rendelkező a szakszolgálati engedélyéhez kapcsolódó jogosultságokat a légiközlekedési hatóság által meghatározott feltételek teljesüléséig nem gyakorolhatja.
+9.[^5]
 
 [^4]: A 2. § 3. pontja a 41/2012. (VII. 13.) NFM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § 9. pontját a 12/2021. (III. 5.) ITM rendelet 18. § a) pontja hatályon kívül helyezte.

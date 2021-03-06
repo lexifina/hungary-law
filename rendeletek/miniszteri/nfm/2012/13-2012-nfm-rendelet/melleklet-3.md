@@ -1,3 +1,3 @@
-3. melléklet a 13/2012. (III. 6.) NFM rendelethez[^29]
+3. melléklet a 13/2012. (III. 6.) NFM rendelethez[^31]
 
-[^29]: A 3. melléklet a 41/2012. (VII. 13.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^31]: A 3. melléklet a 41/2012. (VII. 13.) NFM rendelet 6. §-a szerint módosított szöveg.
