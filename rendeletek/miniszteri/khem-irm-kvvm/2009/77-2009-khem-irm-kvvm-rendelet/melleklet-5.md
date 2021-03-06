@@ -126,7 +126,7 @@
 
 ## Aláírás
 
-5. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^20]
+5. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^18]
 
 ## A környezetvédelmi felülvizsgálat ellenőrzése, nyilvántartások
 
@@ -186,4 +186,4 @@ f) a felülvizsgáló állomás nem megfelelő munkavégzésének alapos gyanúj
 
 4.1.3. A közlekedési hatóság az éves ellenőrzés eredményéről és javaslatairól összefoglaló értékelést készít a közlekedésért felelős miniszter részére. Az ellenőrzés során megállapított hiányosságok felszámolása, a jelentésben foglalt javaslatok megvalósítása érdekében tett intézkedésekről a felülvizsgáló helynek 30 napon belül tájékoztatni kell az ellenőrzést végző közlekedési hatóságot.
 
-[^20]: Az 5. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^18]: Az 5. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (3) bekezdésével megállapított szöveg.
