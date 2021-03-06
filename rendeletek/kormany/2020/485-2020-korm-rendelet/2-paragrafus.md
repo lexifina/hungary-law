@@ -1,1 +1,0 @@
-## 1. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény alapján fennálló szociális hozzájárulási adófizetési kötelezettséget az 5. § (4) bekezdése szerinti hónapra vonatkozóan nem kell teljesítenie az 5. § (1) bekezdése szerinti tényleges főtevékenységet folytató kifizetőnek a munkaviszonyban foglalkoztatott természetes személy foglalkoztatása tekintetében.
