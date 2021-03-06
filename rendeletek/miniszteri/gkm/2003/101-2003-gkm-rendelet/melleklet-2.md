@@ -90,7 +90,7 @@ d) a tanúsítás aláírására jogosult személyt.
 
 1.3. A felhatalmazott autóbusz-fenntartó az – általa a 2. pontban meghatározott vizsgálati módszer alkalmazásával megvizsgált – autóbuszra abban az esetben ad ki tanúsítást, ha annak vizsgált fődarabjai és szerkezeti egységei a vizsgált jellemzőik, valamint az állapotuk tekintetében megfelelnek a külön jogszabályban foglalt követelményeknek.
 
-1.4.[^21] A felhatalmazott autóbusz-fenntartó tevékenységét a közlekedési hatóság rendszeresen ellenőrzi. Ha az ellenőrzés során a regionális igazgatóság megállapítja, hogy a vizsgálat elvégzésekor a jogszabályban előírt feltételeket megsértették, a felhatalmazást a feltételek teljesítéséig felfüggeszti, illetőleg indokolt esetben visszavonja.
+1.4.[^21]
 
 1.5.[^22] A vizsgálatot csak olyan személy végezheti, aki a Nemzeti Fejlesztési Minisztérium által a tanúsítási tevékenység végzésére felkészítő tanfolyamot elvégezte és eredményes vizsgát tett.
 
@@ -632,6 +632,6 @@ Kiállítás kelte: ........ év ........... hó ......... nap
 [^18]: A 2. melléklet III. fejezetének 2. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § d) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) pontja szerint módosított szöveg.
 [^19]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 11. §.
 [^20]: A 2. melléklet IV. fejezetének 1.1. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) és d) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) és d) pontja, az 1/2017. (I. 3.) NFM rendelet 37. § b) pontja szerint módosított szöveg.
-[^21]: A 2. melléklet IV. fejezetének 1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
+[^21]: A 2. számú melléklet IV. fejezet 1.4. pontját a 12/2021. (III. 5.) ITM rendelet 11. §-a hatályon kívül helyezte.
 [^22]: A 2. számú melléklet IV. fejezet 1.5. pontja az 1/2017. (I. 3.) NFM rendelet 37. § b) pontja szerint módosított szöveg.
 [^23]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének IV. fejezete.
