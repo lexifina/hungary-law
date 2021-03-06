@@ -1,4 +1,4 @@
-23. §[^42] (1) A Szabstv. 1. § (1) bekezdésétől eltérően szabálysértést követ el, aki
+23. §[^43] (1) A Szabstv. 1. § (1) bekezdésétől eltérően szabálysértést követ el, aki
 
 a) az 1. § (1), (2) és (4) bekezdésében, 2. § (3) bekezdésében, 3. § (1), (3) és (7) bekezdésében, 4. § (1) és (3) bekezdésében, 5. § (2) bekezdésében, 6. § (1) és (5) bekezdésében, 9. § (1) bekezdésében, 10. § (1) bekezdésében, 12. § (1) és (2) bekezdésében, 17. § (7) bekezdésében, 18. § (1) bekezdésében vagy
 
@@ -16,4 +16,4 @@ b) az (1) bekezdés b) pontja szerinti szabálysértés esetén a pénzbírság 
 
 (4) Az (1) bekezdés b) pontja szerinti szabálysértés esetén a helyszíni bírság összege a Szabstv. 99. § (2) bekezdésétől eltérően százötvenezer forinttól ötszázezer forintig, a szabálysértés ismételt elkövetése esetén hatszázezer forintig terjed.
 
-[^42]: A 23. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja. A 23. § a 28/2021. (I. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^43]: A 23. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja. A 23. § a 28/2021. (I. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

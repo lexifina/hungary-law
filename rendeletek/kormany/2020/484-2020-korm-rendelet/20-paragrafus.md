@@ -23,3 +23,9 @@ b) a Kormány honvédelemért felelős tagja döntése,
 c) a járványügyi készültség során működő Operatív Törzs feladatairól szóló 286/2020. (VI. 17.) Korm. rendelet 1. §-a alapján létrehozott Operatív Törzs (a továbbiakban: Operatív Törzs) felkérése vagy
 
 d) a Kormány katasztrófák elleni védekezésért felelős tagjának felkérése
+
+## alapján, az a) vagy b) pont szerinti döntésben, valamint a c) vagy d) pont szerinti felkérésben megjelölt létesítmény vonatkozásában – a kapacitásai és az egyéb, a veszélyhelyzetben ellátandó feladatai teljesíthetősége figyelembevétele mellett – látja el.
+
+(5)[^33] A Magyar Honvédség a veszélyhelyzet ideje alatt a (2) bekezdésben meghatározott feladatokon túl az Operatív Törzs felkérése alapján közreműködik a SARS-CoV-2 koronavírus elleni tömeges oltási feladatok biztosításában a kapacitásai, valamint az egyéb, a veszélyhelyzet és a járványügyi készültség ideje alatt ellátandó feladatai teljesíthetősége figyelembevétele mellett.
+
+[^33]: A 20. § (5) bekezdését a 109/2021. (III. 5.) Korm. rendelet 1. §-a iktatta be.

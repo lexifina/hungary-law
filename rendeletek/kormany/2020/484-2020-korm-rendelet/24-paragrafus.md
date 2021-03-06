@@ -1,6 +1,6 @@
 ## 14. Értelmező rendelkezések
 
-## 24. §[^43] E rendelet alkalmazásában
+## 24. §[^44] E rendelet alkalmazásában
 
 a) kulturális esemény: a személyes művészi teljesítményt igénylő vagy kulturális szolgáltatást nyújtó, közönség jelenlétében zajló nyilvános rendezvény,
 
@@ -10,4 +10,4 @@ c) nyilvános hely: a közterületnek nem tekinthető, mindenki számára nyitva
 
 d) tömegközlekedési eszköz: a közösségi közlekedés során használt jármű, eszköz.
 
-[^43]: A 24. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^44]: A 24. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
