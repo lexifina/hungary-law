@@ -1,4 +1,4 @@
-## 4. §[^7] Ez a rendelet
+## 4. §[^8] Ez a rendelet
 
 a) a veszélyes áruk szárazföldi szállításáról szóló, 2008. szeptember 24-i 2008/68/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -8,4 +8,4 @@ c) a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európ
 
 d) a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődés figyelembevétele céljából történő módosításáról szóló, 2018. november 23-i (EU) 2018/1846 bizottsági irányelvnek
 
-[^7]: A 4. § a 20/2019. (VIII. 1.) ITM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 4. § a 20/2019. (VIII. 1.) ITM rendelet 1. §-ával megállapított szöveg.
