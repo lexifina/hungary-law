@@ -1,6 +1,6 @@
 ## 1. a költségvetési intézmények fosszilis energia felhasználásának csökkentése érdekében napelemes villamosenergia-termelő erőmű működtetéséről szóló 232/2015. (VIII. 20.) Korm. rendelet 4. § (2) bekezdése alapján a 2020. évi kedvezményes árú villamos energia felhasználására a költségvetési intézményeket az 1. mellékletben foglaltak szerint jelöli ki;
 
-## 2. visszavonja a 2020. évben kedvezményes villamos energia felhasználásra jogosult költségvetési intézmények kijelöléséről szóló 1730/2019. (XII. 19.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1097/2021. (III. 5.) Korm. határozathoz
 
@@ -181,3 +181,5 @@ A 2020. évben kedvezményes villamos energia felhasználásra jogosult végfelh
 | 86. | Somogy Megyei Kormányhivatal | 7400 Kaposvár, Bajcsy-Zs. Endre utca 28. | 53 | 0,5585 |
 
 | Összesen: | 9490 | 100% |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
