@@ -56,9 +56,9 @@
 
 6. A díjfizető adószáma vagy adóazonosító jele
 
-7.[^10] A bejelentő nyilatkozata arról, hogy az értesítési címének a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
+7.[^6] A bejelentő nyilatkozata arról, hogy az értesítési címének a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
 
-8.[^11] A bejelentő nyilatkozata arról, hogy a telefonszámának, elektronikus levélcímének, faxszámának a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
+8.[^7] A bejelentő nyilatkozata arról, hogy a telefonszámának, elektronikus levélcímének, faxszámának a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
 
 9. Csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata esetében a bejelentő nyilatkozata arról, hogy végzi-e olyan felhasználói berendezés tartozékát képező gázfelhasználó technológia [11/2013. (III. 21.) NGM rendelet 2. § 2. pont] műszaki biztonsági felülvizsgálatát, amelynek együttes hőterhelése nagyobb, mint 70 kW
 
@@ -136,5 +136,5 @@
 
 14. A legalább 10 óra személyes jelenléti továbbképzés teljesítését igazoló okirat
 
-[^10]: A 2. melléklet 7. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
-[^11]: A 2. melléklet 8. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet 7. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet 8. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.

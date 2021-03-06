@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-42-20-2
 | 2018-01-01 | 2017-42-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-02 | 2017-42-20-2X.4 | 2010: CXXX. törvény |
 | 2020-06-30 | 2017-42-20-2X.5 | 22/2020. (VI. 29.) ITM rendelet |
+| 2021-03-06 | 2017-42-20-2X.6 | 12/2021. (III. 5.) ITM rendelet |
