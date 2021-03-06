@@ -18,7 +18,7 @@
 
 | 3. | Közlekedési hatóság Borsod-Abaúj-Zemplén megyei központosított bevételek számla | 10032000-01040504-00000000 |
 
-| 4. | Közlekedési hatóság Csongrád megyei központosított bevételek számla | 10032000-01040528-00000000 |
+| 4. | Közlekedési hatóság a Csongrád-Csanád megyei központosított bevételek számla | 10032000-01040528-00000000 |
 
 | 5. | Közlekedési hatóság Győr-Moson-Sopron megyei központosított bevételek számla | 10032000-01040542-00000000 |
 
@@ -70,7 +70,7 @@
 
 | 6. | Borsod-Abaúj-Zemplén MRFK Központosított bírságbevételek | 10027006-01040023-00000000 |
 
-| 7. | Csongrád MRFK Központosított bírságbevételek | 10028007-01040023-00000000 |
+| 7. | Csongrád-Csanád MRFK Központosított bírságbevételek | 10028007-01040023-00000000 |
 
 | 8. | Fejér MRFK Központosított bírságbevételek | 10029008-01040023-00000000 |
 
@@ -106,6 +106,6 @@
 
 5. A Pénzügyminisztérium számlaszáma: 10032000-01460658-00000000
 
-6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla.
+6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10032000-01040047-00000000 Közúti közlekedési bírság letéti számla.
 
-[^23]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a, a 22/2020. (VI. 29.) ITM rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^23]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a, a 22/2020. (VI. 29.) ITM rendelet 22. § (2) bekezdése, a 12/2021. (III. 5.) ITM rendelet 16. §-a szerint módosított szöveg.
