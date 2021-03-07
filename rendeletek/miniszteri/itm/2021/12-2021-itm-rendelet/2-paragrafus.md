@@ -1,9 +1,3 @@
-## lép.
+## 1. §[^2]
 
-## 2. § Hatályát veszti az 5/1990. (IV. 12.) KöHÉM rendelet
-
-a) 12/A. § (1) és (2)–(9) bekezdése,
-
-b) 24. § (2) bekezdése,
-
-c) 26. § (2) bekezdése.
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

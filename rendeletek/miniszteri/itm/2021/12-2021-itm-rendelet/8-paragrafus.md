@@ -1,9 +1,3 @@
-## lép.
+## 7. §[^8]
 
-## 8. § Hatályát veszti a földi kiszolgálás feltételeiről és engedélyezésének rendjéről szóló
-
-## 7/2002. (I. 28.) KöViM rendelet
-
-a) „Az engedély felfüggesztése” alcíme,
-
-b) „Az engedély visszavonása” alcíme.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
