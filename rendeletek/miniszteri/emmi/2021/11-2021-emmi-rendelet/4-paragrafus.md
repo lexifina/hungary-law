@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti a Rendelet 1. § (1) bekezdés 1. és 14. pontjában, II. Fejezetének címében, 10. § (1) bekezdésében, 17. § (3) bekezdésében és 23. § (3) bekezdés i) pontjában az „állami” szövegrész.
+## 1–3. §[^2]
 
 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
