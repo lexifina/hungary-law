@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-93-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-03-06 | 2021-93-20-22.1 | 93/2021. (II. 27.) Korm. rendelet |
+| 2021-03-07 | 2021-93-20-22.2 | 2010: CXXX. törvény |
