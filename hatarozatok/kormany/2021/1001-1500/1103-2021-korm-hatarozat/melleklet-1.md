@@ -18,17 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:112 mezőjében a „0,17” szövegrész helyébe a „0,37” szöveg,
-
-## b) E:112 mezőjében a „0,03” szövegrész helyébe a „0,05” szöveg,
-
-## c) D:139 mezőjében a „0,12” szövegrész helyébe a „0,50” szöveg,
-
-## d) E:139 mezőjében a „0,02” szövegrész helyébe a „0,06” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1103/2021. (III. 5. ) Korm. határozathoz
 
@@ -43,3 +33,5 @@
 | 4. | KEHOP- 2.1.1-15- 2016-00021 | Ivóvíz- minőség- javítás Hajdú- bagoson | Hajdúbagos Község Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség- javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet [a továbbiakban: 339/2014. (XII. 9) Korm. rendelet] szerint | 90 | 170 933 212 | 18 992 579 | 50 864 575 | 0 | – | +195 707 648 | +21 745 294 | +58 712 294 | – | 90 | 366 640 860 | 40 737 873 | 109 576 869 | 0 | 516 955 602 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelv és a 201/2001. (X. 25.) Korm. rendeletben [a továbbiakban: 201/2001. (X. 25.) Korm. rendelet] rögzített paramétereknek, határértékeknek. |
 
 | 5. | KEHOP- 2.1.3-15- 2016-00005 | Víz- minőség- javítás Nyírlugos város szolgáltatási területén | Nyírlugos Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 90 | 110 889 493 | 12 321 055 | 3 197 604 | 0 | – | +383 348 871 | +42 594 319 | +5 684 | – | 90 | 494 238 364 | 54 915 374 | 3 203 288 | 0 | 552 357 026 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelv és a 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
