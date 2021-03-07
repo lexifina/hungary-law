@@ -1,3 +1,3 @@
-## 3. § Az R. a következő 4/A. §-sal egészül ki:
+## 3. §[^3]
 
-## „4/A. § A Katv. szerinti kisadózó vállalkozás, amely az 5. § (1) bekezdése szerinti tevékenységet folytat (a továbbiakban: mentesített tevékenységet folytató), 2021. március hónapra tekintettel mentesül a kisadózó után a Katv. szerinti tételes adó megfizetése alól. Az e bekezdés szerinti adófizetési kötelezettség alóli mentesülés nem befolyásolja a társadalombiztosítási és munkaerőpiaci ellátásokra való jogosultságot és az ellátások összegét, és nem csökkenti a Katv. 8. § (6) bekezdése szerinti értékhatárt. E rendelkezést az a Katv. hatálya alá tartozó mentesített tevékenységet folytató kisadózó vállalkozás alkalmazhatja, amely e tevékenysége tekintetében 2021. február hónapjában már a Katv. hatálya alá tartozott.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

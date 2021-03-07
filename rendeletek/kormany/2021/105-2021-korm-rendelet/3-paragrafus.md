@@ -1,3 +1,3 @@
-## 2. § Az R. 4. §-a helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „4. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (a továbbiakban: Katv.) szerinti kisvállalati adóalany, e tevékenységével összefüggésben az 5. § (4) bekezdése szerinti időszakra történő kisvállalati adókötelezettsége megállapításánál nem tekinti kisvállalati adóalapnak a személyi jellegű kifizetések összegét.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
