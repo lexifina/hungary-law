@@ -1,0 +1,1 @@
+## 33. § Személyes meghallgatás szükségessége esetén a nyilatkozatokat írásban kell beszerezni, vagy a személyazonosítást lehetővé tevő elektronikus eszköz igénybevétele útján kell beszerezni, és szükség szerint jegyzőkönyvben rögzíteni.

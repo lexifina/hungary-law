@@ -1,0 +1,3 @@
+9. § (1) A szigorított védekezés ideje alatt az 1986. évi 14. törvényerejű rendelettel kihirdetett, A Gyermekek Jogellenes Külföldre Vitelének Polgári Jogi Vonatkozásairól szóló, Hágában, az 1980. évi október 25. napján kelt szerződés alapján a gyermek visszavitelét elrendelő határozat és a szülői felügyelet és kapcsolattartás tárgyában hozott olyan határozat végrehajtásának elrendelésére nem kerülhet sor, amely alapján a gyermeket külföldön élő személy részére kell átadni.
+
+(2) Az (1) bekezdés szerinti végrehajtás elrendelésére vonatkozó határidő a szigorított védekezés megszűnését követő napon újrakezdődik.

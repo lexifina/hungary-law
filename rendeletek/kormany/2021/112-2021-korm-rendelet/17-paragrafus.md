@@ -1,0 +1,1 @@
+## 16. § A szigorított védekezés ideje alatt a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény, valamint a Kivezető tv. rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
