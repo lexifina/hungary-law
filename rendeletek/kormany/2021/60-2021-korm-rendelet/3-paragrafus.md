@@ -1,4 +1,4 @@
-3. § (1)[^3] A 2. § (6) bekezdés c) és d) pontja szerinti esetben az egészségügyi szolgáltató
+3. § (1)[^9] A 2. § (6) bekezdés c) és d) pontja szerinti esetben az egészségügyi szolgáltató
 
 a) az oltottság tényét, idejét, a védőoltás típusát,
 
@@ -12,9 +12,9 @@ d) ha az érintett a védettségi igazolvány kiküldését hivatalos iratként 
 
 (2) A hatóság – a 2. § (6) bekezdés a) és b) pontja, valamint a 2. § (7) bekezdése szerinti esetben –
 
-a)[^4] az EESZT működtetőjétől a gyógyult személy TAJ számát, valamint a 2. § (1) bekezdés g) pontja szerinti adatot, valamint az igazolvány érvényességi idejének adatát,
+a)[^10] az EESZT működtetőjétől a gyógyult személy TAJ számát, valamint a 2. § (1) bekezdés g) pontja szerinti adatot, valamint az igazolvány érvényességi idejének adatát,
 
-b)[^5] a személyiadat- és lakcímnyilvántartást vezető szervtől a gyógyult személy nevét, útlevelének és állandó személyazonosító igazolványának okmányazonosítóját, lakcímét
+b)[^11] a személyiadat- és lakcímnyilvántartást vezető szervtől a gyógyult személy nevét, útlevelének és állandó személyazonosító igazolványának okmányazonosítóját, lakcímét
 
 ## automatikus információátadással – szükség esetén az összerendelési nyilvántartás szolgáltatás útján – átveszi.
 
@@ -34,6 +34,6 @@ b) a személyiadat- és lakcímnyilvántartást vezető szervtől az érintett n
 
 (7) A postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet 29. § (1) bekezdésétől eltérően a védettségi igazolványt csak akkor kell személyes átadással kézbesíteni, ha azt az érintett kérte, egyebekben a védettségi igazolványt a levélszekrénybe kell kézbesíteni.
 
-[^3]: A 3. § (1) bekezdés záró szövegrésze a 86/2021. (II. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § (2) bekezdés a) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^5]: A 3. § (2) bekezdés b) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés záró szövegrésze a 86/2021. (II. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdés a) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés b) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
