@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-484-20-
 | 2021-02-08 | 2020-484-20-22.14 | 505/2020. (XI. 17.) Korm. rendelet |
 | 2021-02-28 | 2020-484-20-22.15 | 505/2020. (XI. 17.) Korm. rendelet |
 | 2021-03-06 | 2020-484-20-22.16 | 109/2021. (III. 5.) Korm. rendelet |
+| 2021-03-08 | 2020-484-20-22.17 | 104/2021. (III. 5.) Korm. rendelet |

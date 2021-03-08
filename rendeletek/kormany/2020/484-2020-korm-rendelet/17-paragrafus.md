@@ -2,9 +2,9 @@
 
 ## 10. A nevelési, oktatási intézményekre vonatkozó védelmi intézkedések
 
-17. §[^30] (1) A bölcsődék, az óvodák és az általános iskolák a 8. osztályig nyitva tartanak.
+17. §[^30] (1)[^31] A bölcsődék nyitva tartanak.
 
-(2) Az iskolák a középfokú oktatásban 9. osztálytól digitális munkarendben működnek. A középfokú intézmények kollégiumai az iskolaigazgató döntése szerint működnek. A középiskolák és szakképző intézmények kapcsán a kormányzati intézkedések végrehajtásáról a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény értelmében a köznevelésért, illetve a szakképzésért felelős miniszter határozatban rendelkezik.
+(2)[^32]
 
 (3) A nevelési, oktatási intézménybe
 
@@ -21,3 +21,5 @@ b) történő belépés során azt a gyermeket, illetve kiskorú tanulót, akine
 (7) A nevelési, oktatási intézménybe történő érkezéskor mindenki köteles magát a testhőmérséklet ellenőrzésnek alávetni.
 
 [^30]: A 17. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^31]: A 17. § (1) bekezdése a 104/2021. (III. 5.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^32]: A 17. § (2) bekezdését a 104/2021. (III. 5.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.

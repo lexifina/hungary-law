@@ -1,4 +1,4 @@
-22/A. §[^41] (1) Ha a vendéglátó üzletet a rendőrség ideiglenesen bezáratta, a vendéglátó üzlet
+22/A. §[^43] (1) Ha a vendéglátó üzletet a rendőrség ideiglenesen bezáratta, a vendéglátó üzlet
 
 a) üzemeltetőjének a vendéglátó tevékenység végzésére kiadott engedélye vagy ilyen célú bejelentése a vendéglátó üzlet ideiglenes bezáratásának az időtartamára érvényét veszti,
 
@@ -34,4 +34,4 @@ b) a (2) bekezdés szerinti személy, valamint
 
 c) a (3) bekezdés szerinti vendéglátó üzletet üzemeltetőjének
 
-[^41]: A 22/A. §-t a 28/2021. (I. 29.) Korm. rendelet 3. §-a iktatta be.
+[^43]: A 22/A. §-t a 28/2021. (I. 29.) Korm. rendelet 3. §-a iktatta be.
