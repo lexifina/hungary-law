@@ -16,6 +16,6 @@
 
 | 596. | Igazolás kiállítása nyilvántartásba vételről | 4 090 |
 
-2. melléklet a 7/2021. (II. 5.) ITM rendelethez[^8]
+2. melléklet a 7/2021. (II. 5.) ITM rendelethez[^7]
 
-[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
