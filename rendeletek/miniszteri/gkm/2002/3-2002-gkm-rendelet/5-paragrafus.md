@@ -1302,6 +1302,20 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^18]
 
 | 590. | A repülőtér üzemben tartója által készített, a légijármű által történő igénybevételért fizetendő díjak meghatározásának részletes szabályait tartalmazó szabályzat jóváhagyása, illetve e szabályzat módosításának jóváhagyása | 109 000 |
 
+| XIV. PILÓTA NÉLKÜLI LÉGIJÁRMŰVEKKEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK |
+
+| 591. | Pilóta nélküli légijármű-rendszer, valamint a pilóta nélküli légijármű-rendszer üzembentartó nyilvántartásba vétele | 2 000 |
+
+| 592. | Változás a pilóta nélküli légijármű-rendszer tulajdonosának adataiban vagy a légijármű-rendszer üzembentartói nyilvántartás adataiban | 2 000 |
+
+| 593. | Törlés a nyilvántartásból | 1 000 |
+
+| 594. | Könnyű pilóta nélküli légijármű üzemben tartási tanúsítvány (LUC) kiadása | 230 020 |
+
+| 595. | Műveleti engedélyek | 95 570 |
+
+| 596. | Igazolás kiállítása nyilvántartásba vételről | 4 090 |
+
 [^16]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
 [^17]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^18]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a szerint módosított szöveg.
+[^18]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a szerint módosított szöveg.
