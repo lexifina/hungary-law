@@ -1,3 +1,3 @@
-## 18. § A határellenőrzés ideiglenes visszaállításáról szóló 407/2020. (VIII. 30.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 18. §[^3]
 
-## „(2) Ez a rendelet 2021. március 22-én hatályát veszti.”
+[^3]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

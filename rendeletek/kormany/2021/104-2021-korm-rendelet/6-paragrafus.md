@@ -1,3 +1,5 @@
+## 5. §
+
 ## 5. A szolgáltatásokkal kapcsolatos ideiglenes védelmi intézkedések
 
 6. § (1) A személyes megjelenést igénylő szolgáltatás céljára szolgáló helyiség vagy helyszín köteles zárva tartani, kivéve

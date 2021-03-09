@@ -1,9 +1,6 @@
-## 19. § Az R. 28. §-a helyébe a következő rendelkezés lép:
+## 19. §[^4]
 
-## „28. § E rendelet rendelkezéseit 2021. március 22-ig lehet alkalmazni.”
+20. §[^5]
 
-## 20. § Hatályát veszti az R.
-
-a) 17. § (1) bekezdésében az „ , az óvodák és az általános iskolák a 8. osztályig” szövegrész,
-
-b) 17. § (2) bekezdése.
+[^4]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
