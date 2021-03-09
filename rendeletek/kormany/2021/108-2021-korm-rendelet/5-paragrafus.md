@@ -1,3 +1,5 @@
-## 4. § Az R. 2. § (9) bekezdésében a „védőanyagnak” szövegrész helyébe az „ellenanyagnak” szöveg lép.
+## 4. §[^5]
 
 5. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

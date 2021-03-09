@@ -1,5 +1,3 @@
-## „c) ha az oltás beadására 2021. március 1. napját megelőzően került sor, 2021. március 15. napjáig,
+## 2. §[^3]
 
-## d) ha az oltás beadására 2021. március 1. napját követően került sor, 8 napon belül”
-
-## [hivatalból állítja ki.]
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
