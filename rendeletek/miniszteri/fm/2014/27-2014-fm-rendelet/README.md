@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-27-20-1
 | 2020-09-28 | 2014-27-20-11.16 | 54/2015. (IX. 16.) FM rendelet |
 | 2020-12-17 | 2014-27-20-11.17 | 60/2020. (XII. 9.) AM rendelet |
 | 2021-02-20 | 2014-27-20-11.18 | 3/2021. (II. 19.) AM rendelet |
+| 2021-03-09 | 2014-27-20-11.19 | 60/2020. (XII. 9.) AM rendelet |
