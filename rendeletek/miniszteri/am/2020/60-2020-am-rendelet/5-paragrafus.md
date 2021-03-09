@@ -1,3 +1,1 @@
-## 4. §[^13]
-
-[^13]: A 4. § a 10. § (2) bekezdése alapján 2021. március 9-én lép hatályba.
+## „(10) A kárenyhítő juttatás tekintetében akkor kerül figyelembevételre a növénykultúra egységes kérelemben történő szaporítóanyag célú megjelölése, ha az ügyfél a terület vonatkozásában a vetőmag-előállítást a szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet, valamint a zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendelet alapján végzi. A kárenyhítési eljárás szempontjából a hibridnapraforgó és a hibridkukorica szaporítóanyag-előállítás céljából termesztett növénykultúrának minősül.”

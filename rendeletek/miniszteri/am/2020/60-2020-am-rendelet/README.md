@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-60-20-7
 | --- | --- | --- |
 | 2020-12-17 | 2020-60-20-7R.1 | 60/2020. (XII. 9.) AM rendelet |
 | 2020-12-18 | 2020-60-20-7R.2 | 2010: CXXX. törvény |
+| 2021-03-09 | 2020-60-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
