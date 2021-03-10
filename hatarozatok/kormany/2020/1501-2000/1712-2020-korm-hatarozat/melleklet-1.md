@@ -22,7 +22,7 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-1. melléklet az 1712/2020. (X. 30.) Korm. határozathoz
+1. melléklet az 1712/2020. (X. 30.) Korm. határozathoz[^1]
 
 | Sor- szám | Település | Kedvezményezett | Támogatás célja | Támogatás összege a 2020. évre (forintban) |
 
@@ -38,7 +38,7 @@
 
 | 6. | Farmos | Római Katolikus Egyházközség Farmos | farmosi római katolikus ravatalozó építése | 15 056 147 |
 
-| 7. | Tápiószentmárton | Római Katolikus Plébánia Tápiószentmárton | tápiószentmártoni római katolikus templom- és parókiafelújítás | 50 000 000 |
+| 7. | Tápiószentmárton | Római Katolikus Plébánia Tápiószentmárton | a tápiószentmártoni Római Katolikus Plébánia ingatlan beruházásainak támogatása | 50 000 000 |
 
 | 8. | Tura | Római Katolikus Egyházközség Tura | turai római katolikus templom felújítása | 99 949 000 |
 
@@ -71,3 +71,5 @@
 | 22. | Cserépváralja | Egri Főegyházmegye | cserápváraljai római katolikus templom felújítása | 50 000 000 |
 
 | 23. | Köröm | Egri Főegyházmegye | körömi Szent II. János Pál Katolikus Általános Iskola új épületének és tornatermének építése, berendezése, meglévő épületének felújítása | 3 000 000 000 |
+
+[^1]: Az 1. melléklet az 1115/2021. (III. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
