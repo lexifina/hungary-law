@@ -1,9 +1,9 @@
-## lép.
+## 9. §[^32]
 
-## 9. § Hatályát veszti a 27/2014. (XI. 25.) FM rendelet
+a)[^33]
 
-a) 1. melléklete és
+b)[^34]
 
-b)[^22]
-
-[^22]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 9. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
