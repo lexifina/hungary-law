@@ -1,10 +1,10 @@
 A Kormány
 
-1. a 2022. évi Férfi Kézilabda Európa-bajnokság magyar–szlovák társrendezéséhez szükséges 2019. évi kormányzati intézkedésekről szóló 1260/2019. (V. 7.) Korm. határozatban foglaltakkal összhangban felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a 2022. évi Férfi Kézilabda Európa-bajnokság (a továbbiakban: Európa-bajnokság) megrendezéséhez szükséges forrás biztosításáról, az alábbiak szerint:
+1.[^1] a 2022. évi Férfi Kézilabda Európa-bajnokság magyar–szlovák társrendezéséhez szükséges 2019. évi kormányzati intézkedésekről szóló 1260/2019. (V. 7.) Korm. határozatban foglaltakkal összhangban felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a 2022. évi Férfi Kézilabda Európa-bajnokság (a továbbiakban: Európa-bajnokság) megrendezéséhez szükséges forrás biztosításáról, az alábbiak szerint:
 
 a) a 2020. évben legfeljebb 1 300 000 000 forint összegben a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet javára;
 
-b) a 2021. évben legfeljebb 1 860 085 000 forint összegben a központi költségvetés Miniszterelnökség fejezet javára;
+b)[^2] a 2021. évben legfeljebb 2 860 085 000 forint összegben a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságvédelmet szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 6. Kiemelt Nemzetközi Sportesemény Stratégia és sportesemény pályázatok, valamint kiemelt hazai rendezésű sportesemények támogatása jogcímcsoport javára;
 
 Felelős: pénzügyminiszter
 
@@ -12,7 +12,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: az a) alpont tekintetében a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-a b) alpont tekintetében a 2021. évi központi költségvetés tervezése során
+a b) alpont tekintetében 1 860 085 000 forint összegben a 2021. évi központi költségvetés tervezése során, további 1 000 000 000 forint összegben a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
 2. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az Európa-bajnokság megrendezése érdekében – az 1. pontban meghatározott források terhére – az Eurohandball 2022 Nonprofit Korlátolt Felelősségű Társasággal (cégjegyzékszám: 01-09-333795, székhely: 1087 Budapest, Könyves Kálmán körút 76.) (a továbbiakban: Társaság) támogatási jogviszony létesítéséről oly módon, hogy a Társaságot elszámolási és a fel nem használt költségvetési támogatás kapcsán visszatérítési kötelezettség terhelje;
 
@@ -27,3 +27,6 @@ Határidő: az 1. pont a) és b) alpontja szerinti forrás rendelkezésre állá
 Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: az Európa-bajnokság szervezésével és lebonyolításával egyidejűleg, folyamatosan
+
+[^1]: Az 1. pont záró szövegrésze az 1110/2021. (III. 10.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. pont b) alpontja az 1110/2021. (III. 10.) Korm. határozat 2. pontjával megállapított szöveg.
