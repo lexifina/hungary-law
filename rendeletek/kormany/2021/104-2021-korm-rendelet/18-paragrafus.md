@@ -1,1 +1,3 @@
-## 17. § Hatályát veszti a 4. alcím.
+## 17. §[^3]
+
+[^3]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
