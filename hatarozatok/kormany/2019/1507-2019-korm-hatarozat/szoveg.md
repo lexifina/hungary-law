@@ -4,15 +4,16 @@ A Kormány
 
 2.[^1]
 
-3. úgy rendelkezik, hogy a Beruházás teljes költsége nem haladhatja meg a bruttó 101 544 852 000 forintot;
+3.[^2] úgy rendelkezik, hogy a Beruházás teljes költsége nem haladhatja meg a bruttó 106 952 575 500 forintot;
 
-4.[^2]
+4.[^3]
 
-5.[^3]
+5.[^4]
 
-6.[^4]
+6.[^5]
 
 [^1]: A 2. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
-[^2]: A 4. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
-[^3]: Az 5. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
-[^4]: A 6. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 3. pont az 1110/2021. (III. 10.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^3]: A 4. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
+[^4]: Az 5. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
+[^5]: A 6. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
