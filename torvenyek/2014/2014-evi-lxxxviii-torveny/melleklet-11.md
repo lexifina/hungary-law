@@ -29,15 +29,3 @@
 ## (et) «Nõude esitamise kutse. Järgitavad tähtajad»
 
 ## (el) «Προ’σκληση για αναγγελι’α απαιτη’σεως. Προσοχή’ στις προθεσμι’ες»
-
-## (en) «Invitation to lodge a claim. Time limits to be observed»
-
-## (fr) «Invitation à produire une créance. Délais à respecter»
-
-## (it) «Invito alľinsinuazione di un cedito. Termine da osservare»
-
-## (lv) «Uzaicinājums iesniegt prasïjumu. Termini, kas jāievēro»
-
-## (It) «Kvietimas pateikti reikalavimą. Privalomieji terminai»
-
-## (hu) «Felhívás követelés bejelentésére. Betartandó határidők»
