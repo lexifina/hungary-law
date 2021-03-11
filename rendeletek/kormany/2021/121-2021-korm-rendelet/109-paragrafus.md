@@ -1,0 +1,1 @@
+109. § Ha az Audit Hatóság ellenőrzési tevékenysége során szabálytalanságot észlel, úgy a szabálytalanságról és az ellenőrzési jelentésben az általa javasolt alkalmazandó jogkövetkezményekről értesíti a Nemzeti Kapcsolattartó vezetőjét. A Nemzeti Kapcsolattartó vezetője figyelembe veszi az Audit Hatóság szabálytalanság megállapítására vonatkozó javaslatát.

@@ -1,0 +1,3 @@
+33. § (1) Folyamatos elbírálású pályázati felhívás esetén, ha a támogatásra rendelkezésre álló kötelezettségvállalási keret kimerül vagy annak kimerülése előre jelezhető, a Program Operátor a benyújtási határidő letelte előtt a benyújtás lehetőségét felfüggesztheti vagy a pályázatot lezárhatja és az erről szóló tájékoztatást a Program Operátor és a Végrehajtó Ügynökség a honlapján közzéteszi.
+
+(2) Ha a felfüggesztés dátuma előtt beérkezett támogatási igényekről hozott döntést követően a támogatásra rendelkezésre álló keret nem merült ki, a felfüggesztést meg lehet szüntetni és új benyújtási határidőt lehet meghatározni.

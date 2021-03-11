@@ -1,0 +1,3 @@
+35. § (1) A nyílt pályázati felhívás esetén támogatás igénylésére pályázat benyújtása útján van lehetőség, mely magában foglalja a pályázati felhívásban meghatározott adatokat tartalmazó elektronikus pályázati adatlapot és mellékleteit.
+
+(2) A pályázati felhívás előírhatja, hogy a pályázati adatlapot vagy annak egyes részeit a támogatást igénylő papír alapon is köteles benyújtani. A kétféle módon benyújtott pályázati adatlapban mutatkozó eltérés esetén a papíralapú és aláírt pályázati adatlap tekintendő hitelesnek azzal, hogy a papíralapú és az elektronikus pályázati adatlap egyezőségéről a támogatást igénylő köteles gondoskodni.

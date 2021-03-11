@@ -1,0 +1,1 @@
+88. § A donor országokkal történő elszámolás ezen alcím szerinti feladatait a GRACE rendszer alkalmazásával kell ellátni. Ha a GRACE rendszer nem áll rendelkezésre, úgy a feladatokat a donor országok által meghatározott elektronikus formanyomtatványok segítségével kell teljesíteni.

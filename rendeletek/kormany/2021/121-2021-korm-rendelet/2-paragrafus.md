@@ -1,0 +1,1 @@
+2. § Az e rendeletben foglalt jogokat és kötelezettségeket az Együttműködési Megállapodásokkal, továbbá az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelettel (a továbbiakban: Atr.) összhangban kell gyakorolni és teljesíteni.

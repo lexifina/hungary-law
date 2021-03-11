@@ -1,0 +1,3 @@
+51. § (1) Ha a nevesített projekt támogatását lehetővé tevő program megállapodás megkötésre került, a Program Operátor meghatározza a nevesített projekt támogatásának további részletes feltételeit annak érdekében, hogy a nevesített projekt megfelelő kidolgozottsága, a program céljaihoz való hozzájárulása és a jogszabályokkal való összhangja biztosított legyen.
+
+(2) A Végrehajtó Ügynökség a Program Operátor iránymutatása alapján közreműködik az (1) bekezdés szerinti feltételek részletesebb meghatározása folyamatában, melynek eredményeként a nevesített projekt tekintetében a támogatási szerződéskötési folyamat megkezdhető.

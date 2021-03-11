@@ -1,0 +1,1 @@
+38. § A pályázatokat a pályázati felhívás eltérő rendelkezése hiányában magyar nyelven kell benyújtani. Ha a pályázati felhívás kizárólag donor partnerségi projektek támogatását teszi lehetővé, a pályázatokat angol nyelven kell benyújtani.

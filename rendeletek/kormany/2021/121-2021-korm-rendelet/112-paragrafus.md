@@ -1,0 +1,1 @@
+112. § A szabálytalansági eljárás megindításáról a szabálytalanság felelős az eljárás megindításától számított 8 napon belül – a szabálytalansági gyanú ismertetésével – írásban tájékoztatja az érintett kedvezményezettet és felhívja, hogy észrevételeit, valamint az azokat alátámasztó dokumentumokat a tájékoztatás kézhezvételétől számított 8 napon belül nyújtsa be.

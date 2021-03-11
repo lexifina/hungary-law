@@ -1,0 +1,1 @@
+87. § Az Igazoló Hatóság a Program Operátor, illetve a Nemzeti Kapcsolattartó által benyújtott kifizetési ütemezések figyelembevételével a tárgyévre és az azt követő évre vonatkozó kifizetési előrejelzéseket programonként február 20-ig, április 20-ig, szeptember 20-ig és november 20-ig megküldi a donor országok döntéshozatali szerve részére.

@@ -1,0 +1,3 @@
+125. § (1) Ha a donor országok döntéshozatali szerve visszafizetési kötelezettséget állapít meg Magyarországgal szemben és a visszafizetési kötelezettség alapját képező szabálytalanságban érintett összeg behajtása nem lehetséges, akkor a szabálytalanságért felelős, illetve annak hiányában a szabálytalanul felhasznált forrást folyósító fejezet költségvetéséből kell az érintett összeget az Igazoló Hatóság megfelelő pénzforgalmi számlájára visszapótolni az Igazoló Hatóság által megadott fizetési határidőben.
+
+(2) Ha a szabálytalanságban érintett összegeket a program zárásáig nem sikerült behajtani, akkor a behajtásra tett kísérletek és intézkedések valamennyi dokumentációját legalább a program zárását követő 3. év végéig programonkénti bontásban meg kell őrizni.

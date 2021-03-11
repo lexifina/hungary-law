@@ -1,0 +1,1 @@
+103. § Az Audit Hatóság – a kialakított ellenőrzési stratégia alapján – programonként legalább egy ellenőrzést lefolytat a programok végrehajtásának időszaka során a menedzsment és kontrollrendszerek hatékony működésének értékelése érdekében.

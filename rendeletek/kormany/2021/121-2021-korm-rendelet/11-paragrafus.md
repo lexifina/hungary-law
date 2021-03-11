@@ -1,0 +1,1 @@
+11. § E rendelet rendelkezéseinek vélelmezett megsértése esetén a finanszírozási mechanizmusok hazai hivatalos honlapján közzétett panasz- és kifogáskezelési szabályzatban meghatározott módon lehet panaszt vagy kifogást benyújtani. A benyújtott kifogásnak az e rendeletben meghatározott eljárások tekintetében – ha jogszabály eltérően nem rendelkezik – nincs halasztó hatálya.

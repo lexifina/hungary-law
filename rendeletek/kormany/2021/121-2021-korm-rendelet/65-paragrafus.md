@@ -1,0 +1,1 @@
+65. § A monitoring tevékenység révén a program céljaihoz és várt eredményeihez mért előrehaladása tekintetében tett megállapításokat a Program Operátor az Együttműködési Bizottság elé terjeszti, illetve bemutatja azokat az éves programjelentésben.

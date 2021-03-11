@@ -1,0 +1,1 @@
+45. § Az Értékelő Bizottság – az Értékelő Bizottság összetételét is magában foglaló – ügyrendjét a Program Operátor határozza meg, amelyet megküld a pályázati felhívás lejártának napjáig a Nemzeti Kapcsolattartó részére jóváhagyás céljából. A Nemzeti Kapcsolattartó a benyújtást követő 7 napon belül dönt az ügyrend elfogadásáról.
