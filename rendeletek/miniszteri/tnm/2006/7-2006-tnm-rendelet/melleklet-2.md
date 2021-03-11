@@ -86,7 +86,7 @@
 
 ## 2.2. Lakóépület
 
-## Légtechnikai rendszerrel az alábbi helyiségekben a tartózkodási zónába minimálisan bejuttatandó friss levegő mennyiséget a 2. táblázat szerint lehet megállapítani
+## Légtechnikai rendszer esetén az alábbi helyiségekben a tartózkodási zónába minimálisan bejuttatandó friss levegő mennyiséget a 2. táblázat szerint lehet megállapítani
 
 ## 2. táblázat: Friss levegő igény
 
@@ -102,7 +102,7 @@
 
 ## 2.3. Az energiaigény meghatározásánál figyelembe vett szellőzési levegő mennyisége nem lehet kevesebb, mint a 3. melléklet IV.1. táblázatban megadott érték.
 
-## 2.4. Az épület 2.1. vagy 2.2. alpontban meghatározott, a tartózkodási zónába minimálisan bejuttatandó friss levegő mennyiséget és az elvezetésre kerülő szennyezett levegőt, így a légcserét, csak szabályozott működésű hővisszanyerős szellőztetőrendszer vagy központi elszívásos szellőzés kiépítésével lehet biztosítani, mely a belső páratartalom és CO2-szint alapján automatikusan és folyamatosan, igény szerint üzemel. A rendszer részeként és kialakításánál figyelembe vehetők a friss levegő bevezetésére alkalmas passzív, automatikus működésű páraszabályozású légbevezető elemek. Az épület külső nyílászáróinak teljes vagy részleges nyitásával történő friss levegő bejutást a 2.1. és 2.2. alpontban meghatározott érték számításnál nem szabad figyelembe venni.
+## 2.4. Ha az épület tartózkodási zónájába bejuttatandó friss levegő mennyiségét szabályozott működésű hővisszanyerős vagy központi elszívásos szellőztetőrendszer biztosítja, akkor a rendszer részeként és kialakításánál figyelembe vehetők a friss levegő bevezetésére alkalmas passzív, automatikus működésű páraszabályozású légbevezető elemek, de az épület külső nyílászáróinak teljes vagy részleges nyitásával történő frisslevegő-bejutást a 2.1. és 2.2. alpontban meghatározott érték számításánál nem szabad figyelembe venni.
 
 ## 3. A hőtermelőre vonatkozó előírások
 
@@ -196,7 +196,7 @@
 
 ## 4. táblázat: Légcsatornák megengedett maximális levegő vesztesége
 
-## 0X11691M_6
+## 1X01691M_6
 
 | Statikus nyomás[Pa] | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 | 1200 | 1500 | 1800 | 2000 |
 
