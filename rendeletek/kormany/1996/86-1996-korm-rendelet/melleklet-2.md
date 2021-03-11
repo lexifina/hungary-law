@@ -116,7 +116,7 @@
 
 ## 1.26.[^65] a Honvédelmi Minisztérium és a Magyar Honvédség hivatásos és szerződéses állománya, továbbá egyes kormánytisztviselői, közalkalmazottai, az önkéntes tartalékosok részére rendszeresített szolgálati, munkáltatói igazolványok, az ideiglenes szolgálati igazolvány, a nyugállományú katonák igazolványa, valamint a honvéd tiszt- és tiszthelyettes jelöltek igazolványa;
 
-## 1.27.[^66] a honvédelemért felelős miniszter által átadott hatósági hatáskörök gyakorlására jogosító honvédelmi szakhatósági, katonai építésügyi, katonai építésfelügyeleti, munkaügyi, munkavédelmi, tűzvédelmi, veszélyes katonai objektum felügyeleti, környezetkárosító-gáz felügyeleti, honvédelmi létfontosságú rendszerelemek ágazati kijelölő hatósági igazolványok, az építésügyi és építésfelügyeleti hatósági eljárásokban közreműködő szakhatóságok igazolványai, továbbá a Magyar Honvédség Közegészségügyi-Járványügyi Szolgálata hatósági feladatot ellátó honvéd-tisztifőorvosi, helyettes honvéd-tisztifőorvosi, honvéd-tisztiorvosi, valamint a közegészségügyi-járványügyi felügyelő igazolványai;
+## 1.27.[^66] a honvédelemért felelős miniszter által átadott hatósági hatáskörök gyakorlására jogosító honvédelmi szakhatósági, katonai építésügyi, katonai építésfelügyeleti, foglalkoztatás-felügyeleti, munkavédelmi, tűzvédelmi, veszélyes katonai objektum felügyeleti, környezetkárosító-gáz felügyeleti, honvédelmi létfontosságú rendszerelemek ágazati kijelölő hatósági igazolványok, az építésügyi és építésfelügyeleti hatósági eljárásokban közreműködő szakhatóságok igazolványai, továbbá a Magyar Honvédség Közegészségügyi-Járványügyi Szolgálata hatósági feladatot ellátó honvéd-tisztifőorvosi, helyettes honvéd-tisztifőorvosi, honvéd-tisztiorvosi, valamint a közegészségügyi-járványügyi felügyelő igazolványai;
 
 ## 1.28.[^67] hadkötelezettség bevezetését követően behívás alapján szolgálatot teljesítő hadköteles katona katonai igazolványa;
 
@@ -468,7 +468,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^63]: Az 1. számú melléklet III. rész 1. pont 1.22. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^64]: Az 1. melléklet III. fejezet 1. pont 1.25. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^65]: Az 1. számú melléklet III. rész 1. pont 1.26. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^66]: Az 1. számú melléklet III. rész 1. pont 1.27. alpontja a 379/2016. (XII. 2.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^66]: Az 1. számú melléklet III. rész 1. pont 1.27. alpontja a 379/2016. (XII. 2.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 117/2021. (III. 10.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^67]: Az 1. számú melléklet III. rész 1. pont 1.28. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^68]: Az 1. számú melléklet III. rész 1. pont 1.29. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
 [^69]: Az 1. számú melléklet III. rész 1. pont 1.34. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
