@@ -6,13 +6,13 @@
 
 ## 4. Ha a gyakorlat jellege azt indokolja, az 1. pont szerinti engedély az 1. mellékletben meghatározott időtartamokon belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésre is vonatkozik.
 
-## 5. A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 32. és 48. sora, valamint az 1. melléklet 2. pontjában foglalt táblázat 45. és 62. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+## 5.[^2] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 32., 48. és 49. sora, valamint az 1. melléklet 2. pontjában foglalt táblázat 45. és 62. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
 
 ## 6. Ez a határozat 2021. január 1-jén lép hatályba.
 
-## 7.[^1]
+## 7.[^3]
 
-1. melléklet az 1898/2020. (XII. 14.) Korm. határozathoz
+1. melléklet az 1898/2020. (XII. 14.) Korm. határozathoz[^4]
 
 ## A 2021. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -72,7 +72,7 @@
 
 | 26 | EU RETEX katasztrófavédelmi gyakorlat | MHP KIKCSF | Belgium és Franciaország | II–III. negyedév | 25 |
 
-| 27 | Sampling and Identification of Biological Chemical and Radiological Agents (SIBCRA) gyakorlat | MHP HSZ SZF / MH GAVIK | Olaszország | III. negyedév | 5 |
+| 27 | Sampling and Idenfication of Biological, Chemical, and Radiological Agents (SIBCRA) gyakorlat | MHP HSZ SZF | Olaszország | II–IV. negyedév | 20 |
 
 | 28 | YGGDRASIL CIMIC gyakorlat | MHP HSZ SZF | Dánia | III–IV. negyedév | 10 |
 
@@ -82,7 +82,7 @@
 
 | 31 | NATO Response Force (NRF) CBRN felkészítés | MHP HSZ SZF / MH GAVIK | Hollandia, Németország, Lengyelország | I–IV. negyedév | 30 |
 
-| 32 | BLACK SWAN különleges műveleti gyakorlat | MHP HSZ KM | Magyarország | II. negyedév | 300 |
+| 32 | BLACK SWAN különleges műveleti gyakorlat | MHP HSZ KM | Magyarország, Szlovákia, Horvátország, Románia | II. negyedév | 300 |
 
 | 33 | NEWFIP (RAMSTEIN GUARD) elektronikai hadviselési gyakorlat | MHP HSZ LE | Magyarország, Szlovénia és NATO tagállamok | I–IV. negyedév | 300 |
 
@@ -108,7 +108,7 @@
 
 | 44 | Mobil Biológiai Laboratórium (MBL) NATO Response Force (NRF) minősítő gyakorlat | MH EK | NATO tagállamok | IV. negyedév | 15 |
 
-| 45 | TORREJON ADVANTAGE légierő gyakorlat | MH HSZ LE | Spanyolország | II. és IV. negyedév | 20 |
+| 45 | TORREJON ADVANTAGE 2021 légierő gyakorlat | MHP HSZ LE | Spanyolország | I–IV. negyedév | 60 |
 
 | 46 | NATO Response Force (NRF) Különleges Művelet készenléti szolgálatok felkészülései, gyakorlatai | MHP HSZ KM | NATO és EU tagállamok | I–IV. negyedév | 150 |
 
@@ -116,7 +116,7 @@
 
 | 48 | European Tactical Airlift Programme – Training (ETAP-T) szállító repülőgép gyakorlat | MHP HSZ LE | Magyarország, Franciaország, Hollandia | I–IV. negyedév | 500 |
 
-| 49 | EDA Helikopteres kiképzések (Helicopter Tactical Instructor Course, Helicopter Exercise Program, Multinational Helicopter Traing Centre) | MHP HSZ LE / MHP KIKCSF | NATO EU tagállamok | I–IV. negyedév | 200 |
+| 49 | EDA Helikopteres kiképzések (Helicopter Tactical Instructor Course, Helicopter Exercise Program, Multinational Helicopter Training Centre) | MHP HSZ LE, MHP KIKCSF | Magyarország és NATO és EU Tagállamok | I–IV. negyedév | 200 |
 
 | 50 | EDA Air Transport Fleet | MHP HSZ LE | NATO és EU tagállamok | I–IV. negyedév | 100 |
 
@@ -141,6 +141,8 @@
 | 60 | ALLIGATOR SWORD parancsnoki és törzsvezetési gyakorlat | HQ MND-C | Németország | III–IV. negyedév | 10 |
 
 | 61 | VIGOROUS WARRIOR többnemzeti egészségügyi gyakorlat | MHP EÜCSF, MH EK | NATO EU tagállamok | I–IV. negyedév | 30 |
+
+| 62 | JOINT ENDEAVOUR többnemzeti gyakorlat | MHP HSZ (KM) / MHP HDMCSF | Ukrajna | III–IV. negyedév | 5 |
 
 2. Az MH és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
@@ -244,15 +246,15 @@
 
 | 49 | SÁRARANY MEZŐ vegyivédelmi gyakorlat | MHP HSZ SZF | Szlovákia | II. negyedév | 50 |
 
-| 50 | CLEARANCE DIVER búvár gyakorlat | MHP HSZ SZF | NATO és EU tagállamok | I–IV. negyedév | 10 |
+| 50 | CLEARANCE DIVER búvár gyakorlat | MHP HSZ SZF | NATO és EU tagállamok és Magyarország | I–IV. negyedév | 30 |
 
-| 51 | Magyar– Holland–Amerikai közös FTX (öfni/műszaki) | MHP HSZ SZF | Magyarország | II. negyedév | 650 |
+| 51 | Holland térítéses harcászati gyakorlat I. | MHP HSZ SZF | Magyarország | II. negyedév | 650 |
 
 | 52 | Military Load Classification Ex-MLC EX | MHP TTP | Németország | I–IV. negyedév | 5 |
 
 | 53 | INFORMATIONSLEHRÜBUNG (ILÜ) logisztikai demonstrációs gyakorlat | MHP HSZ LOG | Németország | III. negyedév | 100 |
 
-| 54 | COMBINED RESOLVE többnemzeti harcászati gyakorlat | MHP KIKCSF / MH HSZ LE | NATO és EU tagállamok | I–IV. negyedév | 50 |
+| 54 | COMBINED RESOLVE XVI nemzetközi gyakorlat | MHP KIKCSF / MH HSZ LE / MH TTP | Németország | I–IV. negyedév | 100 |
 
 | 55 | SAFETY TRANSPORT logisztikai gyakorlat | MHP HSZ LOG | Németország, Magyarország | II. negyedév | 100 |
 
@@ -320,7 +322,17 @@
 
 | 87 | EFES többnemzeti harcászati gyakorlat | MHP HSZ SZF | Törökország | I–IV. negyedév | 25 |
 
-| 88 | Holland térítéses harcászati gyakorlat | MH TP | Magyarország | III. negyedév | 1000 |
+| 88 | Holland térítéses harcászati gyakorlat II. | MH TP | Magyarország | III. negyedév | 1500 |
+
+| 89 | Disaster Relief Military Mobility Exercise (többnemzeti katasztrófavédelmi gyakorlat) | MHP HSZ SZF / MHP EÜCSF / MHP HDMCSF / MHP LGCSF | Szlovénia | III–IV. negyedév | 60 |
+
+| 90 | AGILE SPIRIT többnemzeti számítógéppel támogatott parancsnoki és törzsvezetési gyakorlat | MHP KIKCSF | Georgia | III–IV. negyedév | 5 |
+
+| 91 | Complex Aviation Exercise II térítéses olasz gyakorlat | MHP HSZ LE MHP KIKCSF | Magyarország | III–IV. negyedév | 150 |
+
+| 92 | EURASIAN PEACE többnemzeti számítógéppel támogatott parancsnoki és törzsvezetési gyakorlat | MHP HSZ SZF | Törökország | IV. negyedév | 5 |
+
+| 93 | EDA MilCERT kibervédelmi gyakorlat | KNBSZ | Franciaország | I–IV. negyedév | 10 |
 
 3. Külföldi fegyveres erők átvonulásával járó műveletek, gyakorlatok és kiképzések
 
@@ -392,4 +404,6 @@
 
 | 33 | IMMEDIATE RESPONSE | I–IV. negyedév | egyidejűleg legfeljebb 2500 fő |
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont az 1114/2021. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1114/2021. (III. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
