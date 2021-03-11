@@ -86,7 +86,7 @@
 
 ## 24.[^99] A tárgybeli időszakban az állami adóhatóság végleges határozattal megállapította-e a foglalkoztatási jogviszony létesítésével összefüggő bejelentési kötelezettség elmulasztását (fel kell tüntetni a jogerős határozat számát és a határozatban kiszabott mulasztási bírság összegét, illetve egyéb adóhatósági intézkedés tényét).
 
-## 25.[^100] Volt-e a tárgybeli időszakban olyan jogsértés, ami miatt munkaügyi hatóság végleges határozattal pénzbírsággal sújtotta, vagy a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezte (fel kell tüntetni a végleges határozat számát is).
+## 25.[^100] Volt-e a tárgybeli időszakban olyan jogsértés, ami miatt foglalkoztatás-felügyeleti hatóság végleges határozattal pénzbírsággal sújtotta, vagy a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezte (fel kell tüntetni a végleges határozat számát is).
 
 ## 26. A tárgybeli időszakban folyamatban lévő csődeljárásokban, felszámolási eljárásokban, kényszervégelszámolási eljárásokban a felszámoló szervezet által a fedezetelvonó ügyletek megtámadása érdekében, csődbűncselekmény vagy más, a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény gyanúja miatt, illetőleg az adós volt vezetői, tulajdonosai ellen indított vagy kezdeményezett eljárások (eljárás típusonként csoportosítva).
 
@@ -130,7 +130,7 @@
 [^97]: A 2. melléklet II. 6. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^98]: A 2. melléklet II. 23. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés c) pontja szerint módosított szöveg.
 [^99]: A 2. melléklet II. 24. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^100]: A 2. melléklet II. 25. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^100]: A 2. melléklet II. 25. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja, a 116/2021. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^101]: A 2. melléklet IV. pont 1. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
 [^102]: A 2. melléklet IV. pont 2. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
 [^103]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.

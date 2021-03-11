@@ -50,7 +50,7 @@ ec) a pályázó közvetett tulajdonosi személyi köre (tagjai, részvényesei)
 
 (8)[^30] Hátrányt jelent a pályázat elbírálásakor
 
-a)[^31] ha a pályázó a pályázat benyújtását megelőző öt éven belül elkövetett olyan jogsértést, ami miatt a munkaügyi hatóság végleges határozata bírsággal sújtotta, vagy a Nemzeti Foglalkoztatási Alapba, illetve annak jogelődjébe való befizetésre kötelezte,
+a)[^31] ha a pályázó a pályázat benyújtását megelőző öt éven belül elkövetett olyan jogsértést, ami miatt a foglalkoztatás-felügyeleti hatóság végleges határozata bírsággal sújtotta, vagy a Nemzeti Foglalkoztatási Alapba, illetve annak jogelődjébe való befizetésre kötelezte,
 
 b) a 3. mellékletben említett jogerős határozatok szerinti elmarasztalás,
 
@@ -104,7 +104,7 @@ e)[^33] ha a pályázó a pályázat benyújtását megelőző öt éven belül 
 [^28]: A 3. § (6) bekezdés e) pontját a 113/2013. (IV. 12.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte, újonnan a 151/2020. (IV. 24.) Korm. rendelet 6. § (4) bekezdése iktatta be.
 [^29]: A 3. § (7) bekezdését a 151/2020. (IV. 24.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
 [^30]: A 3. § (8) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^31]: A 3. § (8) bekezdés a) pontja a 151/2020. (IV. 24.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^31]: A 3. § (8) bekezdés a) pontja a 151/2020. (IV. 24.) Korm. rendelet 6. § (5) bekezdésével megállapított, a 116/2021. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^32]: A 3. § (8) bekezdés d) pontja a 151/2020. (IV. 24.) Korm. rendelet 6. § (6) bekezdésével megállapított szöveg.
 [^33]: A 3. § (8) bekezdés e) pontját a 151/2020. (IV. 24.) Korm. rendelet 6. § (6) bekezdése iktatta be.
 [^34]: A 3. § (8a) bekezdését a 113/2013. (IV. 12.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 151/2020. (IV. 24.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
