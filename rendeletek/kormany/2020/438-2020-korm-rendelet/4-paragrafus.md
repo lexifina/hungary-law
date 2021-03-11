@@ -1,4 +1,4 @@
-## 4. § Az állami adóhatóság átadja az állami foglalkoztatási szerv és a munkaügyi hatóság részére az Art. 50. §-a szerint bevallott adatok közül:
+## 4. §[^1] Az állami adóhatóság átadja az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság részére az Art. 50. §-a szerint bevallott adatok közül:
 
 a) a Tbj. 66. § (1) bekezdése szerinti nyilvántartásra kötelezett nevét, székhelyét és adóazonosító számát,
 
@@ -19,3 +19,5 @@ h) a foglalkozás FEOR számát, a heti munkaidő tartamát,
 i) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér és közteher – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér és közteher együttes – összegét és a foglalkoztatás napját (napjait) személyenként, az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerinti foglalkoztatási jogviszonnyal összefüggésben, és
 
 j) a felszolgálási díj után fizetett társadalombiztosítási járulék alapját és levont összegét.
+
+[^1]: A 4. § nyitó szövegrésze a 116/2021. (III. 10.) Korm. rendelet 34. §-a szerint módosított szöveg.
