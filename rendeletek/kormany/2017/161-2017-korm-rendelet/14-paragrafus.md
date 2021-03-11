@@ -1,4 +1,4 @@
-14. § (1)[^8] A Magyar Földtani és Geofizikai Intézet 2017. június 30. napjával államháztartásról szóló 2011. évi CXCV. törvény 11. § (3) bekezdés alapján beolvadás útján jogutódlással megszűnik.
+14. § (1)[^9] A Magyar Földtani és Geofizikai Intézet 2017. június 30. napjával államháztartásról szóló 2011. évi CXCV. törvény 11. § (3) bekezdés alapján beolvadás útján jogutódlással megszűnik.
 
 (2) A Magyar Földtani és Geofizikai Intézet általános és egyetemes jogutódja a Magyar Bányászati és Földtani Hivatal, azzal, hogy 2017. július 1. naptól a megnevezése Magyar Bányászati és Földtani Szolgálatra változik.
 
@@ -6,4 +6,4 @@
 
 (4) E rendelet közigazgatási hatósági eljárásra vonatkozó rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-[^8]: A 14. § (1) bekezdése a 133/2019. (VI. 5.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^9]: A 14. § (1) bekezdése a 133/2019. (VI. 5.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

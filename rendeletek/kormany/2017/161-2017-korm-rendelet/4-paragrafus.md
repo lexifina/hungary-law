@@ -50,7 +50,7 @@ e) a geotermikus energia kinyerő létesítmények;
 
 15. egyes gázipari engedélyeseknek a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti műszaki-biztonsági szempontú minősítése;
 
-16. a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-ában és a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. §-ában meghatározott feladatok ellátása;
+16.[^4] a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. § (3)–(5) bekezdésében és a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. §-ában meghatározott feladatok ellátása;
 
 17. a bányászatról szóló törvény szerinti alábbi szolgáltatások bejelentésével kapcsolatos eljárás, valamint e tevékenységek folytatására jogosult személyek nyilvántartásának vezetése:
 
@@ -91,3 +91,5 @@ c) robbantómesterekre és a robbantásvezetőkre
 (3) Az MBFSZ által végzett, a (2) bekezdés 13. pontjában, a 17. pont a) alpontjában és 18–19. pontjában szereplő nyilvántartások vezetéséhez a kormányhivatalt adatszolgáltatási kötelezettség terheli. A kormányhivatal a bányászatról szóló törvény szerinti kutatási zárójelentés, az összefoglaló földtani jelentés egy példányát megküldi az MBFSZ-nek.
 
 (4) Az MBFSZ a (2) bekezdés 25. pontban foglalt ellenőrzési feladatát a kormányhivatal bevonásával végzi. A kormányhivatal a koncessziós területekkel kapcsolatos határozatok egy példányát megküldi az MBFSZ-nek.
+
+[^4]: A 4. § (2) bekezdés 16. pontja a 116/2021. (III. 10.) Korm. rendelet 33. §-a szerint módosított szöveg.

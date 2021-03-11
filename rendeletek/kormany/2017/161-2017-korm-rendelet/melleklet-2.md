@@ -14,6 +14,6 @@
 
 | 6. | Veszprém Megyei Kormányhivatal | Fejér, Győr-Moson-Sopron, Vas és Veszprém megye | 4,8 |
 
-2. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^12]
+2. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^13]
 
-[^12]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 169. § (3) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 169. § (3) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 46. §-a szerint módosított szöveg.
