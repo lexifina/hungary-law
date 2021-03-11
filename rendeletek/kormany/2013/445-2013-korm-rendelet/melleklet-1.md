@@ -1,6 +1,6 @@
-## 28. §[^110]
+## 28. §[^116]
 
-1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^111]
+1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^117]
 
 KÉRELEM
 
@@ -122,13 +122,11 @@ a befizetésnek ................................................. napján eleget
 
 6.3. Kijelentem, hogy a kérelemben megjelölt harmadik országbeli állampolgár magyarországi foglalkoztatására nem tőlem eltérő foglalkoztatónál kerül sor.
 
-6.4. Kijelentem, hogy az illetékes hatósága szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül
+6.4. Kijelentem, hogy az illetékes hatóság a szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül
 
-– velem szemben a foglalkoztatási jogviszony létesítésével, megszűnésével, megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása miatt pénzbírságot nem szabott ki,
+6.4.1. foglalkoztatási jogviszony létesítésével, megszűnésével, megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása vagy harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt pénzügyi szankció megfizetésére nem vagyok kötelezett, vagy
 
-– a Met. 7/A. §-ában foglaltak szerint a központi költségvetésbe történő befizetésre nem kötelezett vagy
-
-– nem állok felszámolási eljárás alatt, gazdasági tevékenységet folytatok.
+6.4.2. nem állok felszámolási eljárás alatt, gazdasági tevékenységet folytatok.
 
 7. A kormányhivatal – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
@@ -138,5 +136,5 @@ Dátum: .................................................
 
 foglalkoztató cégszerű aláírása
 
-[^110]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^111]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 471. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. szöveg.
+[^116]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 471. § a) pontja, a 116/2021. (III. 10.) Korm. rendelet 24. §-a szerint módosított szöveg.

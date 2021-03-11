@@ -12,11 +12,7 @@ e) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatását a k�
 
 f) a harmadik országbeli állampolgár foglalkoztatására nem a kérelmet benyújtó foglalkoztatónál kerül sor vagy a foglalkoztatásra irányuló jogviszony nem a kérelmet benyújtó foglalkoztató és a harmadik országbeli állampolgár között jön létre,
 
-g) a munkaügyi hatóság vagy az adóhatóság (a továbbiakban: illetékes hatóság) a szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül
-
-ga) a foglalkoztatóval szemben foglalkoztatási jogviszony létesítésével, megszűnésével, megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása miatt pénzbírságot szabott ki vagy
-
-gb) a foglalkoztatót a Met. 7/A. §-ában foglaltak szerint a központi költségvetésbe történő befizetésre kötelezte, vagy
+g)[^28] a foglalkoztatás-felügyeleti hatóság vagy az adóhatóság (a továbbiakban: illetékes hatóság) a szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül a foglalkoztatót foglalkoztatási jogviszony létesítésével, megszűnésével, megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása vagy harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt pénzügyi szankció megfizetésére kötelezte, vagy
 
 h) a foglalkoztató felszámolási eljárás alatt áll vagy nem folytat gazdasági tevékenységet.
 
@@ -27,3 +23,5 @@ h) a foglalkoztató felszámolási eljárás alatt áll vagy nem folytat gazdas�
 (4) A (3) bekezdésben meghatározott esetben a kérelmet el kell utasítani az (1) bekezdés a)–f) pontja szerinti esetben, továbbá, ha a kölcsönbeadó nem szerepel a kormányhivatal nyilvántartásában.
 
 (5) A (3) bekezdés alkalmazása esetén foglalkoztatón a kölcsönbeadót kell érteni.
+
+[^28]: A 8. § (1) bekezdés g) pontja a 116/2021. (III. 10.) Korm. rendelet 19. §-ával megállapított szöveg.
