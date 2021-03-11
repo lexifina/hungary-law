@@ -52,18 +52,18 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a felmerülés ütemében
 
-2. A 2022. évi Férfi Kézilabda Európa-bajnokság magyar–szlovák társrendezéséhez szükséges forrás biztosításáról szóló 1589/2019. (X. 16.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pont b) alpontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-[A Kormány
+3.[^2]
 
-a 2022. évi Férfi Kézilabda Európa-bajnokság magyar–szlovák társrendezéséhez szükséges 2019. évi kormányzati intézkedésekről szóló 1260/2019. (V. 7.) Korm. határozatban foglaltakkal összhangban felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a 2022. évi Férfi Kézilabda Európa-bajnokság (a továbbiakban: Európa-bajnokság) megrendezéséhez szükséges forrás biztosításáról, az alábbiak szerint:]
+4.[^3]
 
-„b) a 2021. évben legfeljebb 2 860 085 000 forint összegben a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságvédelmet szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 6. Kiemelt Nemzetközi Sportesemény Stratégia és sportesemény pályázatok, valamint kiemelt hazai rendezésű sportesemények támogatása jogcímcsoport javára;”
+5.[^4]
 
-3. A Korm. határozat 1. pontjában az „a b) alpont tekintetében a 2021. évi központi költségvetés tervezése során” szövegrész helyébe az „a b) alpont tekintetében 1 860 085 000 forint összegben a 2021. évi központi költségvetés tervezése során, további 1 000 000 000 forint összegben a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében” szöveg lép.
+6.[^5]
 
-4. A 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges további kormányzati intézkedésekről szóló 1507/2019. (VIII. 23.) Korm. határozat 3. pontjában a „101 544 852 000” szövegrész helyébe a „106 952 575 500” szöveg lép.
-
-5. A tatabányai multifunkciós csarnok beruházás megvalósításáról szóló 1535/2019. (IX. 18.) Korm. határozat 3. pontjában a „27 702 773 698” szövegrész helyébe a „29 564 593 698” szöveg lép.
-
-6. A Szegedi kézilabdacsarnok beruházás megvalósításáról szóló 1642/2019. (XI. 14.) Korm. határozat 2. pontjában a „35 812 958 063” szövegrész helyébe a „40 485 571 280” szöveg lép.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
