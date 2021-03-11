@@ -204,7 +204,7 @@
 
 | 101. | OH | Felsőoktatási intézmények | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 102. | Kormányhivatal | Munkaügyi hatóság | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 102. | Kormányhivatal | Foglalkoztatás-felügyeleti hatóság | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 103. | Kormányhivatal | Munkavédelmi hatóság | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
