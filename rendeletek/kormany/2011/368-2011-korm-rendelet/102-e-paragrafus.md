@@ -1,6 +1,6 @@
-## [Az Áht. 56/B. §-ához és 56/C. §-ához][^451]
+## [Az Áht. 56/B. §-ához és 56/C. §-ához][^447]
 
-102/E. §[^452] (1)[^453] A támogató vagy a támogató nevében eljáró szervezet
+102/E. §[^448] (1)[^449] A támogató vagy a támogató nevében eljáró szervezet
 
 a) – pályázati úton nyújtott támogatás esetén – a pályázati kiírás adatait a pályázati kiírás közzétételét megelőzően,
 
@@ -8,9 +8,9 @@ b) – pályázati rendszeren kívül nyújtott támogatás esetén – a támog
 
 a Kincstár által meghatározott adattartalommal a Kincstár részére bejelenti. Ha a támogató vagy a támogató nevében eljáró szervezet adatszolgáltatása a monitoringrendszer teljessége szempontjából hibás vagy hiányos, annak kijavítására vagy kiegészítésére a Kincstár utólag kötelezi a támogatót vagy a támogató nevében eljáró szervezetet.
 
-(2)[^454] Az (1) bekezdés szerinti adatok változását a támogatási döntés meghozatalát megelőzően a támogató vagy a támogató nevében eljáró szervezet a Kincstárnak bejelenti. A bejelentésre az (1) bekezdést kell alkalmazni.
+(2)[^450] Az (1) bekezdés szerinti adatok változását a támogatási döntés meghozatalát megelőzően a támogató vagy a támogató nevében eljáró szervezet a Kincstárnak bejelenti. A bejelentésre az (1) bekezdést kell alkalmazni.
 
-[^451]: Az Ávr. 102/E. §-t megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^452]: Az Ávr. 102/E. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^453]: Az Ávr. 102/E. § (1) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 11. pontja, a 340/2019. (XII. 23.) Korm. rendelet 7. § 8. és 9. pontja szerint módosított szöveg.
-[^454]: A 102/E. § (2) bekezdése a 340/2019. (XII. 23.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
+[^447]: Az Ávr. 102/E. §-t megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^448]: Az Ávr. 102/E. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^449]: Az Ávr. 102/E. § (1) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 11. pontja, a 340/2019. (XII. 23.) Korm. rendelet 7. § 8. és 9. pontja szerint módosított szöveg.
+[^450]: A 102/E. § (2) bekezdése a 340/2019. (XII. 23.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
