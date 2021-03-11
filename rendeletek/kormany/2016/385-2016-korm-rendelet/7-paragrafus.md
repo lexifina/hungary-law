@@ -1,4 +1,4 @@
-## 6/G. §[^16] A Kormány a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 239. § (2) bekezdése tekintetében egészségügyi államigazgatási szervként az NNK-t jelöli ki.
+## 6/G. §[^17] A Kormány a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 239. § (2) bekezdése tekintetében egészségügyi államigazgatási szervként az NNK-t jelöli ki.
 
 ## 5. Az egészségügyi államigazgatási szerv kijelölése
 
@@ -20,4 +20,4 @@ alkalmazásában.
 
 (6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a járási hivatal és a kormányhivatal jár el a gyógyászati segédeszköz-forgalmazási tevékenység tekintetében.
 
-[^16]: A 6/G. §-t a 360/2019. (XII. 30.) Korm. rendelet 161. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^17]: A 6/G. §-t a 360/2019. (XII. 30.) Korm. rendelet 161. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
