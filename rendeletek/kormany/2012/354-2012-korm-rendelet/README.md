@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-354-20-
 | 2018-01-01 | 2012-354-20-22.6 | 228/2017. (VIII. 14.) Korm. rendelet |
 | 2019-03-06 | 2012-354-20-22.7 | 33/2019. (III. 5.) Korm. rendelet |
 | 2020-03-01 | 2012-354-20-22.8 | 228/2017. (VIII. 14.) Korm. rendelet |
+| 2021-03-11 | 2012-354-20-22.9 | 228/2017. (VIII. 14.) Korm. rendelet |
