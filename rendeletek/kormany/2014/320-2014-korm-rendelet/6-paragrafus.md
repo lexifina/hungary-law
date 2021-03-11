@@ -6,10 +6,10 @@ b) részt vesz a munkavédelemben érintett nemzetközi szervezetek munkájában
 
 c) mint kijelölt nemzeti hatóság, ellátja az Európai Munkahelyi Biztonsági és Egészségvédelmi Ügynökség Nemzeti Fókuszpontja feladatait,
 
-d)[^40] ellátja az Mvt. 78. §-ában megjelölt Országos Munkavédelmi Bizottság titkársági, adminisztratív teendőit,
+d)[^42] ellátja az Mvt. 78. §-ában megjelölt Országos Munkavédelmi Bizottság titkársági, adminisztratív teendőit,
 
 e) működteti az Mvt. 14. §-a (1) bekezdésének e) pontja szerinti munkavédelmi információs rendszert,
 
 f) külön jogszabályban meghatározottak szerint részt vesz egyéb bizottságok, testületek, tevékenységek végzésében, működésében, különösen a szabványosítás, az akkreditálás, a nukleáris balesetelhárítás és a kémiai biztonság területén.
 
-[^40]: A 6. § d) pontja a 337/2020. (VII. 9.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^42]: A 6. § d) pontja a 337/2020. (VII. 9.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

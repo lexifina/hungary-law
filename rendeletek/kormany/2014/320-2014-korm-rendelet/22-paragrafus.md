@@ -4,6 +4,6 @@
 
 (3) Az NMH megszűnését követően esedékessé váló, az NMH javára fizetendő felügyeleti díjat, igazgatási szolgáltatási díjat és bírságot 2015. január 1-jétől a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztériumnak kell befizetni.
 
-(4)[^102]
+(4)[^103]
 
-[^102]: A 22. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés f) pontja hatályon kívül helyezte.
+[^103]: A 22. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés f) pontja hatályon kívül helyezte.

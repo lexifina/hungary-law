@@ -102,7 +102,7 @@ d) egyéb szervezetekkel.
 
 [^7]: A 4. § (1) bekezdés a) pont aa) alpontja a 101/2021. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^8]: A 4. § (1) bekezdés a) pont ab) alpontja a 101/2021. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^9]: A 4. § (1) bekezdés a) pont ac) alpontja a 101/2021. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdés a) pont ac) alpontja a 101/2021. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg [A 4. § (1) bekezdés a) pont ac) alpontjában a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontjával elrendelt módosítás nem vezethető át.]
 [^10]: A 4. § (1) bekezdés b) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^11]: A 4. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
 [^12]: A 4. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
