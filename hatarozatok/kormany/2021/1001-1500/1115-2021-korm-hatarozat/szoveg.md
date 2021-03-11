@@ -16,6 +16,6 @@ Felelős: a miniszterelnök általános helyettese
 
 Határidő: az 1.2. pont szerinti forrás rendelkezésre állását követően azonnal
 
-2. Az egyes egyházi ingatlanok fejlesztésének támogatásáról szóló 1712/2020. (X. 30.) Korm. határozat 1. melléklet 7. sora helyébe a következő rendelkezés lép:
+2.[^1]
 
-| 7. | Tápiószentmárton | Római Katolikus Plébánia Tápiószentmárton | a tápiószentmártoni Római Katolikus Plébánia ingatlan beruházásainak támogatása | 50 000 000 |
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
