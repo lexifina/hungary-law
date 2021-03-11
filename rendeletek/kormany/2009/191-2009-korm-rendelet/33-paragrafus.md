@@ -1,6 +1,6 @@
-## Építési munkaterület átadása, használatbavételi engedély vagy tudomásulvétel megkérése[^292]
+## Építési munkaterület átadása, használatbavételi engedély vagy tudomásulvétel megkérése[^293]
 
-33. §[^293] (1)[^294] A műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, a teljesítésigazolás kiadását, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező átadja az építtetőnek az építési munkaterületet, továbbá átadja
+33. §[^294] (1)[^295] A műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, a teljesítésigazolás kiadását, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező átadja az építtetőnek az építési munkaterületet, továbbá átadja
 
 a) az építési-bontási hulladék tárolására, elszállítására vonatkozó, 5. mellékletnek megfelelő tartalmú hulladék-nyilvántartó lapot,
 
@@ -8,15 +8,15 @@ b) a kivitelezési dokumentációt vagy az épület tényleges megvalósulásán
 
 c) az építmény, építményrész kezelési és karbantartási útmutatóját, valamint
 
-d)[^295] minden olyan egyéb hatósági engedélyt, dokumentumot, nyilatkozatot, amely az építtető számára a rendeltetésszerű és biztonságos használatot igazolja és a használatbavételi engedély vagy tudomásul vétel, vagy az egyszerű bejelentés alapján végzett építési tevékenység hatósági bizonyítványának megkéréséhez szükséges.
+d)[^296] minden olyan egyéb hatósági engedélyt, dokumentumot, nyilatkozatot, amely az építtető számára a rendeltetésszerű és biztonságos használatot igazolja és a használatbavételi engedély vagy tudomásul vétel, vagy az egyszerű bejelentés alapján végzett építési tevékenység hatósági bizonyítványának megkéréséhez szükséges.
 
-(2)[^296] Az (1) bekezdésben foglalt dokumentációk összeállításában a kivitelezési dokumentáció tervezője, az építőipari kivitelezési tevékenységben részt vevő alvállalkozó kivitelezők és a beszállítók – a saját tevékenység ellátáshoz dokumentumok átadásával – kötelesek együttműködni.
+(2)[^297] Az (1) bekezdésben foglalt dokumentációk összeállításában a kivitelezési dokumentáció tervezője, az építőipari kivitelezési tevékenységben részt vevő alvállalkozó kivitelezők és a beszállítók – a saját tevékenység ellátáshoz dokumentumok átadásával – kötelesek együttműködni.
 
-(3)[^297] Az építési munkaterület átadás-átvétele során a fővállalkozó kivitelező – az (1) bekezdésben foglaltakon túlmenően – az építtetőnek átadja
+(3)[^298] Az építési munkaterület átadás-átvétele során a fővállalkozó kivitelező – az (1) bekezdésben foglaltakon túlmenően – az építtetőnek átadja
 
 a) az őt megillető építési naplópéldányt annak összes mellékletével,
 
-b)[^298]
+b)[^299]
 
 c) a jótállási dokumentumokat,
 
@@ -36,25 +36,25 @@ cg) a közüzemi mérőórák jótállási jegyét, hitelesítési jegyzőkönyv
 
 ch) az építmény használatával összefüggő későbbi munkákhoz kapcsolódó biztonsági és egészségvédelmi tervet.
 
-(3a)[^299] A fővállalkozó az (1) és (3) bekezdésben felsorolt dokumentumok és nyilatkozatok építtető számára történő átadását az e-építési naplóban történő rögzítéssel teljesíti.
+(3a)[^300] A fővállalkozó az (1) és (3) bekezdésben felsorolt dokumentumok és nyilatkozatok építtető számára történő átadását az e-építési naplóban történő rögzítéssel teljesíti.
 
-(4)[^300] A fővállalkozó kivitelező a fővállalkozói kivitelezési szerződés teljesítéséhez szükséges mértékben az építési naplóban, a kivitelezési szerződésben meghatározott mértékben és módon az építési munkaterületre vonatkozóan a birtokláshoz való jogára – a munkaterület 5. § (4) bekezdése szerinti átvételétől az (1) bekezdés szerinti átadásáig, ennek hiányában a használatbavételi engedély kiadásáig vagy a használatbavétel építésügyi hatóság általi tudomásul vételéig vagy az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány kiállításáig – kellő alappal hivatkozhat az építtetővel, illetve az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosával szemben is.
+(4)[^301] A fővállalkozó kivitelező a fővállalkozói kivitelezési szerződés teljesítéséhez szükséges mértékben az építési naplóban, a kivitelezési szerződésben meghatározott mértékben és módon az építési munkaterületre vonatkozóan a birtokláshoz való jogára – a munkaterület 5. § (4) bekezdése szerinti átvételétől az (1) bekezdés szerinti átadásáig, ennek hiányában a használatbavételi engedély kiadásáig vagy a használatbavétel építésügyi hatóság általi tudomásul vételéig vagy az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány kiállításáig – kellő alappal hivatkozhat az építtetővel, illetve az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosával szemben is.
 
-(5)[^301] Az alvállalkozói kivitelezési szerződés esetén a műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, a teljesítésigazolás kiadását, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően az alvállalkozó kivitelező átadja a megrendelő vállalkozó kivitelezőnek az építési munkaterületet.
+(5)[^302] Az alvállalkozói kivitelezési szerződés esetén a műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, a teljesítésigazolás kiadását, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően az alvállalkozó kivitelező átadja a megrendelő vállalkozó kivitelezőnek az építési munkaterületet.
 
-(6)[^302] A fővállalkozó kivitelezőt az építtetővel, illetve az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosával szemben megillető, (4) bekezdés szerinti birtoklás jogára az alvállalkozó kivitelező is hivatkozhat a munkaterület 5. § (4) bekezdése szerinti átvételétől az e § (5) bekezdése szerinti átadásig vagy ennek hiányában a fővállalkozó kivitelező birtoklási jogának (4) bekezdés szerinti fennállásáig.
+(6)[^303] A fővállalkozó kivitelezőt az építtetővel, illetve az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosával szemben megillető, (4) bekezdés szerinti birtoklás jogára az alvállalkozó kivitelező is hivatkozhat a munkaterület 5. § (4) bekezdése szerinti átvételétől az e § (5) bekezdése szerinti átadásig vagy ennek hiányában a fővállalkozó kivitelező birtoklási jogának (4) bekezdés szerinti fennállásáig.
 
-(7)[^303] Ha az építtető és a fővállalkozó kivitelező közötti vita miatt nem történik meg az építési munkaterület (1) bekezdés szerinti átadás-átvétele, a vitarendezés érdekében a fővállalkozó kivitelező vitarendezési eljárást vagy szakértői szervezet szakvéleményének kiadását kezdeményezheti.
+(7)[^304] Ha az építtető és a fővállalkozó kivitelező közötti vita miatt nem történik meg az építési munkaterület (1) bekezdés szerinti átadás-átvétele, a vitarendezés érdekében a fővállalkozó kivitelező vitarendezési eljárást vagy szakértői szervezet szakvéleményének kiadását kezdeményezheti.
 
-[^292]: A 33. §-t megelőző alcím a 109/2013. (IV. 9.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^293]: A 33. § a 182/2010. (V. 14.) Korm. rendelet 5. § (34) bekezdésével megállapított szöveg.
-[^294]: A 33. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (12) bekezdésével megállapított szöveg.
-[^295]: A 33. § (1) bekezdés d) pontja a 668/2020. (XII. 28.) Korm. rendelet 23. § (4) bekezdés d) pontja, a 700/2020. (XII. 29.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
-[^296]: A 33. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § r) pontja szerint módosított szöveg.
-[^297]: A 33. § (3) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 16. pontja szerint módosított szöveg.
-[^298]: A 33. § (3) bekezdés b) pontját a 322/2012. (XI. 16.) Korm. rendelet 93. § q) pont qb) alpontja hatályon kívül helyezte.
-[^299]: A 33. § (3a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 84. §-a iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 27. pontja szerint módosított szöveg.
-[^300]: A 33. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 11. és 17. pontja, a 668/2020. (XII. 28.) Korm. rendelet 23. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^301]: A 33. § (5) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
-[^302]: A 33. § (6) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdése iktatta be.
-[^303]: A 33. § (7) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdése iktatta be.
+[^293]: A 33. §-t megelőző alcím a 109/2013. (IV. 9.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^294]: A 33. § a 182/2010. (V. 14.) Korm. rendelet 5. § (34) bekezdésével megállapított szöveg.
+[^295]: A 33. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^296]: A 33. § (1) bekezdés d) pontja a 668/2020. (XII. 28.) Korm. rendelet 23. § (4) bekezdés d) pontja, a 700/2020. (XII. 29.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^297]: A 33. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § r) pontja szerint módosított szöveg.
+[^298]: A 33. § (3) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 16. pontja szerint módosított szöveg.
+[^299]: A 33. § (3) bekezdés b) pontját a 322/2012. (XI. 16.) Korm. rendelet 93. § q) pont qb) alpontja hatályon kívül helyezte.
+[^300]: A 33. § (3a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 84. §-a iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 27. pontja szerint módosított szöveg.
+[^301]: A 33. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 11. és 17. pontja, a 668/2020. (XII. 28.) Korm. rendelet 23. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^302]: A 33. § (5) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
+[^303]: A 33. § (6) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdése iktatta be.
+[^304]: A 33. § (7) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (13) bekezdése iktatta be.

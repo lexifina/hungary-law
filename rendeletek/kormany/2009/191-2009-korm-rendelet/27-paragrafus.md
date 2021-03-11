@@ -34,25 +34,25 @@ b)[^275] az e-építési napló készenlétének lezárásáig
 
 ba) az ellenőrzésre jogszabályban feljogosított egyéb hatóság,
 
-bb) a helyszíni ellenőrzést folytató munkavédelmi és munkaügyi hatóság,
+bb)[^276] a helyszíni ellenőrzést folytató munkavédelmi és foglalkoztatás-felügyeleti hatóság,
 
 bc) az építtetői fedezetkezelő,
 
-bd)[^276] az építtető által betekintésre felhatalmazott, az építési beruházás megvalósításához támogatást nyújtó szervezet,
+bd)[^277] az építtető által betekintésre felhatalmazott, az építési beruházás megvalósításához támogatást nyújtó szervezet,
 
 be) az építtető megbízása alapján a tervezői művezető.
 
 (4) Az érdekelt szerződéses feleken, az építtetői fedezetkezelői eljárásban feljogosítottak és a (3) bekezdés a) pont ad) alpontja szerinti hatóságon kívül a bejegyzésre vagy betekintésre felhatalmazottak nem jogosultak megtekinteni az e-főnaplóban, az e-alnaplóban és mellékleteikben feltüntetett fő- vagy alvállalkozói teljesítés, részteljesítés ellenértékét.
 
-(5)[^277] Az e-főnapló és e-alnapló mellékletei:
+(5)[^278] Az e-főnapló és e-alnapló mellékletei:
 
 a) az ellenőrző hatóságok és szakhatóságok által készített okiratokat, jegyzőkönyveket tartalmazó hatósági napló,
 
-b)[^278] a kivitelezési szerződést, felmérési naplót, a teljesítésösszesítőt, a teljesítésigazolást és a teljesítésről felvett jegyzőkönyveket tartalmazó teljesítésigazolási napló, valamint
+b)[^279] a kivitelezési szerződést, felmérési naplót, a teljesítésösszesítőt, a teljesítésigazolást és a teljesítésről felvett jegyzőkönyveket tartalmazó teljesítésigazolási napló, valamint
 
 c) az építési-bontási hulladék-nyilvántartást, az építési termékekre vonatkozó teljesítménynyilatkozatokat, mérési jegyzőkönyveket, felülvizsgálati jegyzőkönyveket, elvégzett üzempróbák jegyzőkönyveit, üzembe helyezési vizsgálati tanúsítványokat, továbbá az a)–b) pont szerinti mellékletek tartalmaként fel nem sorolt minden további dokumentumot tartalmazó gyűjtőnapló.
 
-(6)[^279]
+(6)[^280]
 
 [^269]: A 27. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
 [^270]: A 27. § (1) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 27. pontja szerint módosított szöveg.
@@ -61,7 +61,8 @@ c) az építési-bontási hulladék-nyilvántartást, az építési termékekre 
 [^273]: A 27. § (1) bekezdés g) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (12) bekezdése iktatta be.
 [^274]: A 27. § (3) bekezdés a) pont ad) alpontja az 538/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^275]: A 27. § (3) bekezdés b) pont nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 21. pontja szerint módosított szöveg.
-[^276]: A 27. § (3) bekezdés b) pont bd) alpontja a 62/2014. (III. 6.) Korm. rendelet 13. § m) pontja szerint módosított szöveg.
-[^277]: A 27. § (5) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 13. §-a iktatta be.
-[^278]: A 27. § (5) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 32. pontja szerint módosított szöveg.
-[^279]: A 27. § (6) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.
+[^276]: A 27. § (3) bekezdés b) pont bb) alpontja a 116/2021. (III. 10.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^277]: A 27. § (3) bekezdés b) pont bd) alpontja a 62/2014. (III. 6.) Korm. rendelet 13. § m) pontja szerint módosított szöveg.
+[^278]: A 27. § (5) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 13. §-a iktatta be.
+[^279]: A 27. § (5) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 32. pontja szerint módosított szöveg.
+[^280]: A 27. § (6) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.
