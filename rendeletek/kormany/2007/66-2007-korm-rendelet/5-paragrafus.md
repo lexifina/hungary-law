@@ -1,4 +1,4 @@
-5. §[^8] (1) A gépjárművezető az ellenőrzés során köteles a gépjárműbe beépített tachográf, valamint annak rendeltetésszerű használatát szolgáló egyéb eszközök (különösen a vezetékek, zárjelek, biztosítékok, csatlakozók, beépítési és hitelesítési plakettek, plombák, a készülék rögzítése, átalakítók), továbbá az adatrögzítő lapok és a gépjárművezetői kártya vizsgálatát az ellenőr számára lehetővé tenni.
+5. §[^9] (1) A gépjárművezető az ellenőrzés során köteles a gépjárműbe beépített tachográf, valamint annak rendeltetésszerű használatát szolgáló egyéb eszközök (különösen a vezetékek, zárjelek, biztosítékok, csatlakozók, beépítési és hitelesítési plakettek, plombák, a készülék rögzítése, átalakítók), továbbá az adatrögzítő lapok és a gépjárművezetői kártya vizsgálatát az ellenőr számára lehetővé tenni.
 
 (2) Ha a gépjárművezető az ellenőrzés alkalmával a vele szemben lefolytatott korábbi ellenőrzés során részére átadott közúti ellenőrzési okmányt bemutatja, akkor az újabb ellenőrzést ennek figyelembevételével kell elvégezni.
 
@@ -6,4 +6,4 @@
 
 (4) A közlekedési hatóság a tachográf készüléket befolyásoló eszközök, módszerek alkalmazásának feltárt típusairól értesíti az Európai Bizottságot (a továbbiakban: Bizottság).
 
-[^8]: Az 5. § a 272/2009. (XII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: Az 5. § a 272/2009. (XII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.

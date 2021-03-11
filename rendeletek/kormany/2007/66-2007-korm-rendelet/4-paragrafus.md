@@ -1,8 +1,8 @@
-4. § (1)[^5] A közúti ellenőrzés az 561/2006/EK európai parlamenti és tanácsi rendeletben, illetve az AETR Megállapodásban, továbbá a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére terjed ki, így különösen:
+4. § (1)[^6] A közúti ellenőrzés az 561/2006/EK európai parlamenti és tanácsi rendeletben, illetve az AETR Megállapodásban, továbbá a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére terjed ki, így különösen:
 
 a) a gépjárművezetők azonosítására, létszámára [az 561/2006/EK európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdés előírásának ellenőrzése érdekében],
 
-b)[^6] a 165/2014/EU európai parlamenti és tanácsi rendeletben, illetve az AETR Megállapodásban a tachográfra és annak üzemeltetésére előírt feltételek megtartására,
+b)[^7] a 165/2014/EU európai parlamenti és tanácsi rendeletben, illetve az AETR Megállapodásban a tachográfra és annak üzemeltetésére előírt feltételek megtartására,
 
 c) az adatrögzítő lapok, illetve a gépjárművezetői kártya meglétére és használatára,
 
@@ -28,8 +28,8 @@ e) a beépített tachográf kivitele (analóg vagy digitális)
 
 (5) Az (1) bekezdésben meghatározott ellenőrzéseket a közúti ellenőrzés során az 1. melléklet A. részében meghatározott vizsgálati célok együttes vagy külön-külön történő vizsgálatával kell elvégezni.
 
-(6) Az ellenőrző szerv az 1. melléklet A. részében meghatározott vizsgálati célok jegyzékét, valamint a 2. mellékletben meghatározott ellenőrző eszközöket biztosítja az ellenőr részére. Az ellenőr részére a digitális tachográf ellenőrzéséhez szükséges ellenőri kártyát a közlekedési hatóság biztosítja a külön jogszabályban[^7] meghatározott eljárásban.
+(6) Az ellenőrző szerv az 1. melléklet A. részében meghatározott vizsgálati célok jegyzékét, valamint a 2. mellékletben meghatározott ellenőrző eszközöket biztosítja az ellenőr részére. Az ellenőr részére a digitális tachográf ellenőrzéséhez szükséges ellenőri kártyát a közlekedési hatóság biztosítja a külön jogszabályban[^8] meghatározott eljárásban.
 
-[^5]: A 4. § (1) bekezdés nyitó szövegrésze a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^6]: A 4. § (1) bekezdés b) pontja a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^7]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet.
+[^6]: A 4. § (1) bekezdés nyitó szövegrésze a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés b) pontja a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^8]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet.
