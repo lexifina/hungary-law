@@ -1,6 +1,6 @@
 ## meghatározott, a veszélyes áruk, anyagok, hulladékok szállítására (fuvarozására), valamint a közúti járműre és annak személyzetére, az áru feladójára, átmeneti tárolójára, a csomagolóra, a berakóra, a töltőre, a címzettre és a veszélyes áru szállítási biztonsági tanácsadó kinevezésére és képesítésére vonatkozó rendelkezést megsérti.
 
-6/A. §[^25] (1) Az 5. melléklet 1. táblázatában felsorolt szabálytalanságok esetén, a bírságösszeg meghatározásához a szabálytalanságot a következő meghatározások szerinti, csökkenő súlyosságú kockázati kategóriák egyikébe kell sorolni, ahol az I. kategória a legsúlyosabb:
+6/A. §[^26] (1) Az 5. melléklet 1. táblázatában felsorolt szabálytalanságok esetén, a bírságösszeg meghatározásához a szabálytalanságot a következő meghatározások szerinti, csökkenő súlyosságú kockázati kategóriák egyikébe kell sorolni, ahol az I. kategória a legsúlyosabb:
 
 a) I. kockázati kategória: a veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely haláleset, súlyos személyi sérülés vagy jelentős környezetkárosodás okozásának nagyfokú kockázatával jár;
 
@@ -24,4 +24,4 @@ b) veszélyes áru kiszabadulása nem következett be vagy a veszélyes áru kis
 
 (5) A (4) bekezdésben szereplő bírságcsökkentő tényező nem alkalmazható az ADR 3.2 fejezet „A” táblázat 15. oszlopa szerinti „0” és „1” szállítási kategóriába tartozó, valamint a szállításból kizárt veszélyes áruk szállítása esetén.
 
-[^25]: A 6/A. §-t a 372/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.
+[^26]: A 6/A. §-t a 372/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 | 1. | Kombinált árufuvarozáshoz kapcsolódó engedélymentesség és kedvezmény igénybevétele esetén a kombinált árufuvarozás végzését igazoló okmányok hiánya | SJ | 200000 | szállító gépjárművezető |
 
-10. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^80]
+10. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^81]
 
-[^80]: A 10. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § k) pontjával megállapított szöveg.
+[^81]: A 10. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § k) pontjával megállapított szöveg.
