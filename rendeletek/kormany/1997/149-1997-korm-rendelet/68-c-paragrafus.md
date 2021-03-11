@@ -1,3 +1,3 @@
-68/C. §[^520]
+68/C. §[^521]
 
-[^520]: A 68/C. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés e) pontja.
+[^521]: A 68/C. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés e) pontja.

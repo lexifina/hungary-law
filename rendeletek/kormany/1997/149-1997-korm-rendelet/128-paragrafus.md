@@ -1,4 +1,4 @@
-128. § (1)[^933] A gyámrendelés előtt a gyámhivatal vizsgálja, hogy
+128. § (1)[^934] A gyámrendelés előtt a gyámhivatal vizsgálja, hogy
 
 a) mi a gyámrendelés oka,
 
@@ -16,17 +16,17 @@ g) az ítélőképessége birtokában lévő gyermeknek mi a véleménye a gyám
 
 h) van-e a gyermeknek olyan vagyona vagy más ügye, melynek kezelése, intézése különös szakértelmet igényel.
 
-(1a)[^934] A gyámhivatal tájékoztatja a családbafogadó gyámot, hogy kérheti a családi pótléknak a gyámrendelés tényleges időpontját legfeljebb két hónappal megelőző időponttól történő folyósítását, feltéve, hogy erre az időtartamra más személy nem részesült családi pótlékban.
+(1a)[^935] A gyámhivatal tájékoztatja a családbafogadó gyámot, hogy kérheti a családi pótléknak a gyámrendelés tényleges időpontját legfeljebb két hónappal megelőző időponttól történő folyósítását, feltéve, hogy erre az időtartamra más személy nem részesült családi pótlékban.
 
 (2) A gyámrendelés előtt a gyámhivatal beszerzi:
 
-a)[^935] a gyámrendelés alapjául szolgáló okiratokat (így különösen szülők halotti anyakönyvi kivonatának adattartalma, bírói ítélet),
+a)[^936] a gyámrendelés alapjául szolgáló okiratokat (így különösen szülők halotti anyakönyvi kivonatának adattartalma, bírói ítélet),
 
-b)[^936] – az ismeretlen szülőktől származó gyermek kivételével – a gyermek születési anyakönyvi kivonatának adattartalmát,
+b)[^937] – az ismeretlen szülőktől származó gyermek kivételével – a gyermek születési anyakönyvi kivonatának adattartalmát,
 
-c)[^937] a gyermek ingó, ingatlan vagyonáról készült leltárt, ha a gyámhivatal tudomással bír arról, hogy a gyermeknek van vagyona.
+c)[^938] a gyermek ingó, ingatlan vagyonáról készült leltárt, ha a gyámhivatal tudomással bír arról, hogy a gyermeknek van vagyona.
 
-(3)[^938] A gyámhivatal
+(3)[^939] A gyámhivatal
 
 a) a Gyvt. 128. §-ában meghatározottakon kívül meghallgatja
 
@@ -36,20 +36,20 @@ ab) a Ptk. 4:231. § (1) bekezdés a) és b) pontja szerinti többes gyámrendel
 
 ac) a Ptk. 4:231. § (1) bekezdés c) pontja szerinti többes gyámrendelés esetén a különleges szakértelmet igénylő ügyekben a gyámi tisztséget vállaló személyeket, és
 
-b)[^939] a gyermekvédelmi gyám, helyettes gyermekvédelmi gyám kivételével vizsgálja, hogy az érintett személy viselhet-e gyámságot, és személyiségénél, valamint körülményeinél fogva alkalmas-e a tisztség ellátására.
+b)[^940] a gyermekvédelmi gyám, helyettes gyermekvédelmi gyám kivételével vizsgálja, hogy az érintett személy viselhet-e gyámságot, és személyiségénél, valamint körülményeinél fogva alkalmas-e a tisztség ellátására.
 
-(3a)[^940] Gyermekvédelmi gyám kirendelése esetén a meghallgatás mellőzhető azzal, hogy a kirendelendő gyermekvédelmi gyám köteles írásban nyilatkozni a gyámi tisztség vállalásáról.
+(3a)[^941] Gyermekvédelmi gyám kirendelése esetén a meghallgatás mellőzhető azzal, hogy a kirendelendő gyermekvédelmi gyám köteles írásban nyilatkozni a gyámi tisztség vállalásáról.
 
 (4) A gyámhivatal a (3) bekezdésben foglaltak vizsgálata során – szükség szerint – orvosi, pszichológiai véleményt és jövedelemigazolást szerez be.
 
-(5)[^941] Az (1) bekezdés g) pontjában foglaltak vizsgálatakor alapos oknak kell tekinteni különösen, ha a gyámságot vállaló személy a gyermekkel vagy a gyermek szülőjével szemben felróható magatartást tanúsított, vagy a gyermek és a családbafogadó gyámságot vállaló személy érzelmileg nem kötődnek egymáshoz.
+(5)[^942] Az (1) bekezdés g) pontjában foglaltak vizsgálatakor alapos oknak kell tekinteni különösen, ha a gyámságot vállaló személy a gyermekkel vagy a gyermek szülőjével szemben felróható magatartást tanúsított, vagy a gyermek és a családbafogadó gyámságot vállaló személy érzelmileg nem kötődnek egymáshoz.
 
-[^933]: A 128. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
-[^934]: A 128. § (1a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 61. § (2) bekezdése iktatta be.
-[^935]: A 128. § (2) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés o) pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés r) pontja szerint módosított szöveg.
-[^936]: A 128. § (2) bekezdés b) pontja a 60/2017. (III. 20.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
-[^937]: A 128. § (2) bekezdésének c) pontját a 14/2003. (II. 12.) Korm. rendelet 81. §-ának (1) bekezdése iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^938]: A 128. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg.
-[^939]: A 128. § (3) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.
-[^940]: A 128. § (3a) bekezdését a 60/2017. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be.
-[^941]: A 128. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 61. § (4) bekezdése iktatta be.
+[^934]: A 128. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^935]: A 128. § (1a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 61. § (2) bekezdése iktatta be.
+[^936]: A 128. § (2) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés o) pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés r) pontja szerint módosított szöveg.
+[^937]: A 128. § (2) bekezdés b) pontja a 60/2017. (III. 20.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^938]: A 128. § (2) bekezdésének c) pontját a 14/2003. (II. 12.) Korm. rendelet 81. §-ának (1) bekezdése iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^939]: A 128. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg.
+[^940]: A 128. § (3) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 16. § l) pontja szerint módosított szöveg.
+[^941]: A 128. § (3a) bekezdését a 60/2017. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^942]: A 128. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 61. § (4) bekezdése iktatta be.

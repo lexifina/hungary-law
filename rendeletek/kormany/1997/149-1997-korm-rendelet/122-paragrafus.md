@@ -1,3 +1,3 @@
-122. §[^906]
+122. §[^907]
 
-[^906]: A 122. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés h) pontja hatályon kívül helyezte.
+[^907]: A 122. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés h) pontja hatályon kívül helyezte.

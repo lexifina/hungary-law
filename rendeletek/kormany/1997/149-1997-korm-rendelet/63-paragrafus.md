@@ -1,4 +1,4 @@
-63. § (1)[^445] A gyermek születésének anyakönyvi bejegyzéséhez a települési önkormányzat jegyzője megállapítja
+63. § (1)[^446] A gyermek születésének anyakönyvi bejegyzéséhez a települési önkormányzat jegyzője megállapítja
 
 a) a gyermek születési helyét és idejét, valamint családi és utónevét,
 
@@ -8,10 +8,10 @@ b) képzelt szülőként a 60. § rendelkezése alapján az apa és anya család
 
 (3) Ha a gyermek életkora bizonytalan, a feltételezhető születési időt igazságügyi orvosszakértői vélemény alapján kell megállapítani.
 
-(4)[^446] Az anyakönyvi bejegyzéshez szükséges adatokat a települési önkormányzat jegyzője a gyermek gyámjával egyetértésben állapítja meg úgy, hogy az más jogos érdekét ne sértse. A gyermek megtalálásának körülményeire utalni nem lehet. A gyermekre sérelmes családi és utónév nem állapítható meg.
+(4)[^447] Az anyakönyvi bejegyzéshez szükséges adatokat a települési önkormányzat jegyzője a gyermek gyámjával egyetértésben állapítja meg úgy, hogy az más jogos érdekét ne sértse. A gyermek megtalálásának körülményeire utalni nem lehet. A gyermekre sérelmes családi és utónév nem állapítható meg.
 
-(5)[^447] Amennyiben a gyermek valódi adatai, valamint a vér szerinti szülők adatai utóbb ismertté válnak, a települési önkormányzat jegyzője kezdeményezi a gyermek születésének újbóli anyakönyvezését.
+(5)[^448] Amennyiben a gyermek valódi adatai, valamint a vér szerinti szülők adatai utóbb ismertté válnak, a települési önkormányzat jegyzője kezdeményezi a gyermek születésének újbóli anyakönyvezését.
 
-[^445]: A 63. § (1) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés h) pontja szerint módosított szöveg.
-[^446]: A 63. § (4) bekezdése a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés h) pontja szerint módosított szöveg.
-[^447]: A 63. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés h) pontja szerint módosított szöveg.
+[^446]: A 63. § (1) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés h) pontja szerint módosított szöveg.
+[^447]: A 63. § (4) bekezdése a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés h) pontja szerint módosított szöveg.
+[^448]: A 63. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés h) pontja szerint módosított szöveg.
