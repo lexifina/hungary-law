@@ -1,0 +1,1 @@
+## 13. § A foglalkoztatás-felügyeleti hatóság a fővállalkozó vagy a vele jogviszonyban álló köztes alvállalkozó helytállási kötelezettségét állapíthatja meg, ha az alvállalkozó olyan munkáltató, aki a külön jogszabály szerinti szezonális munka keretében harmadik országbeli állampolgárt foglalkoztat, és a részére járó munkabért a foglalkoztatás megszűnéséig nem fizette meg.
