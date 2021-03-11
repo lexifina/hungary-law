@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-306-20-
 | --- | --- | --- |
 | 2015-01-01 | 2014-306-20-22.1 | 306/2014. (XII. 5.) Korm. rendelet |
 | 2018-01-01 | 2014-306-20-22.2 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2021-03-11 | 2014-306-20-22.3 | 118/2021. (III. 10.) Korm. rendelet |
