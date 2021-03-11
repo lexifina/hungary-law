@@ -1,4 +1,4 @@
-## VII/A. Fejezet[^66]
+## VII/A. Fejezet[^67]
 
 ## A Pp. 141. §-A SZERINTI BÍRÓSÁGI IRATOK KÉZBESÍTÉSE
 
@@ -10,4 +10,4 @@
 
 (4) A kézbesítési ügy a Kar hivatali szervének a végrehajtható okiratok és a kézbesítendő iratok elosztására szolgáló informatikai alkalmazása útján, a 3. §-ban megjelölt végrehajtó részére kerül kiosztásra. Az ügykiosztást követően az ügyben eljáró végrehajtó személyéről a Kar hivatali szerve az eljáró bíróságot haladéktalanul értesíti.
 
-[^66]: A VII/A. fejezetet (46/G-46/I. §) a 393/2017. (XII. 13.) Korm. rendelet 16. §-a iktatta be.
+[^67]: A VII/A. fejezetet (46/G-46/I. §) a 393/2017. (XII. 13.) Korm. rendelet 16. §-a iktatta be.

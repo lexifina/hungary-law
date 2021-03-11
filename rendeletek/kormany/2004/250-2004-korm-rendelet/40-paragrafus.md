@@ -4,7 +4,7 @@
 
 40. § (1) A különleges kézbesítés végrehajtása – az e Fejezetben foglalt eltérésekkel – az egyszerű kézbesítés szabályai szerint történik.
 
-(2)[^48] A helyszíni eljárást a végrehajtó a kézbesítés helyén a kérelem hozzá való beérkezésétől, vagy ha a kézbesítési helyet abban nem jelölték meg, a kézbesítési helyre vonatkozó adat beszerzésétől számított 45 napon belül folytatja le.
+(2)[^49] A helyszíni eljárást a végrehajtó a kézbesítés helyén a kérelem hozzá való beérkezésétől, vagy ha a kézbesítési helyet abban nem jelölték meg, a kézbesítési helyre vonatkozó adat beszerzésétől számított 45 napon belül folytatja le.
 
 (3) A 14. § (3)–(5) bekezdésében foglalt eseteket kivéve a bírósági irat a címzettnek csak abban az esetben adható át, ha a 24. §-ban foglalt okiratok valamelyikével vagy egyéb közokirattal a személyének beazonosítása megtörtént.
 
@@ -16,4 +16,4 @@ b) a kézbesítés megkísérléséről csak akkor kell értesítést hagyni, ha
 
 c) második helyszíni eljárást csak akkor kell lefolytatni, ha annak eredményessége valószínűnek látszik.
 
-[^48]: A 40. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
+[^49]: A 40. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.

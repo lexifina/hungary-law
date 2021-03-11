@@ -72,7 +72,7 @@
 
 | 4 A megfelelő aláhúzandó. |
 
-3. számú melléklet a 250/2007. (VIII. 27.) Korm. rendelethez[^74]
+3. számú melléklet a 250/2007. (VIII. 27.) Korm. rendelethez[^75]
 
 ## önálló bírósági végrehajtó
 
@@ -118,4 +118,4 @@ III.  A fizetési meghagyás átvételének módja
 
 V.  Tájékoztatás
 
-[^74]: A 3. számú mellékletet a 142/2010. (IV. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^75]: A 3. számú mellékletet a 142/2010. (IV. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be.
