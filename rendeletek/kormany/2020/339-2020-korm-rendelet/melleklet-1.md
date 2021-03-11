@@ -1,6 +1,7 @@
-## 14. §[^4] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 617/2020. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (2) bekezdés a), c) és d) pontját a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
+## 15. §[^9] E rendeletnek a Citadella erőd és környezete megújításához és értékőrző fenntartásához szükséges beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 339/2020. (VII. 10.) Korm. rendelet módosításáról szóló 123/2021. (III. 10.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 7. § (4) bekezdését, 10. § (3) és (4) bekezdését, valamint 1. mellékletét a Módr2. hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 339/2020. (VII. 10.) Korm. rendelethez
+1. melléklet a 339/2020. (VII. 10.) Korm. rendelethez[^11]
 
-[^4]: A 14. §-t a 617/2020. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2020. december 22.
+[^9]: A 15. §-t a 123/2021. (III. 10.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2021. március 11.
+[^11]: Az 1. melléklet a 123/2021. (III. 10.) Korm. rendelet 4. §-ával megállapított szöveg.

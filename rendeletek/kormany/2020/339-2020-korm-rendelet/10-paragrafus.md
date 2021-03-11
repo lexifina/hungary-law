@@ -29,3 +29,10 @@ i) az építmények és önálló rendeltetési egységek rendeltetésszerű has
 j) a közterületről látható hírközlési és egyéb adatátviteli berendezés (antenna) az épületen elhelyezhető,
 
 k) a helyi településrendezési eszközben előírt infrastruktúra-fejlesztések elmaradása a Beruházásokkal összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem lehet a feltétele.
+
+(3)[^5] A Beruházások 1. mellékletben meghatározott helyszíneként szolgáló ingatlanokon a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 43. § (5c) bekezdésében foglaltakon kívül a műemlék részlegesen lebontható akkor is, ha a (2) bekezdésben meghatározott funkció megvalósításához, az ingatlanokban elhelyezésre kerülő közösségi rendeltetésű intézmények működéséhez, feladatellátásához, az ingatlan közcélú rendeltetéséhez, az ingatlan méltó és fenntartható használatához, valamint hasznosításához szükséges átalakítások érdekében szükséges, és ezek az átalakítások a műemléki értékek aránytalan sérelme nélkül, a műemléki jelleg megtartása és a védelmet megalapozó általános műemléki érték érvényesülése mellett elvégezhetőek.
+
+(4)[^6] A Beruházásokkal érintett műemlék építményének, épületének részleges bontása – a (3) bekezdésben foglaltak figyelembevételével – elektronikus építési napló vezetésével engedély nélkül, örökségvédelmi bejelentés alapján végezhető. A hatóság a bejelentési eljárás során a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 70. § (4) bekezdés b) pont ba) és bc) alpontjai helyett a (3) bekezdésben foglaltak érvényesülését vizsgálja.
+
+[^5]: A 10. § (3) bekezdését a 123/2021. (III. 10.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 10. § (4) bekezdését a 123/2021. (III. 10.) Korm. rendelet 2. §-a iktatta be.
