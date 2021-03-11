@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^422]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^421]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -86,4 +86,4 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 33. A lakó rendeltetést bemutató épület építése, amely a nemzetközi innovációs házépítő verseny keretében vagy kutatási, kiállítási célból valósul meg.
 
-[^422]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a, a 668/2020. (XII. 28.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.
+[^421]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a, a 668/2020. (XII. 28.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.

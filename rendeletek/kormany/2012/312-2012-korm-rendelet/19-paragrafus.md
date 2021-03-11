@@ -32,13 +32,7 @@ g)[^110] a kiemelt településképi véleményt, a települési önkormányzat p
 
 h) az engedély hatályát,
 
-i)[^111] a 2015. december 31-ét követően benyújtott, az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet hatálya alá eső új és nem közel nulla vagy annál kedvezőbb energiaigényű épületre vonatkozó kérelem esetén azt a feltételt, hogy
-
-ia) a hatóságok használatára szánt vagy tulajdonukban lévő épület esetében 2018. december 31-ig,
-
-ib) egyéb épület esetében 2020. december 31-ig
-
-## az épületnek rendeltetésszerű és biztonságos használatra alkalmas állapotban kell lennie, valamint az építésügyi hatóság használatbavételi engedélyével vagy tudomásul vételével kell rendelkeznie.
+i)[^111] a 2015. december 31-ét követően benyújtott, az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet hatálya alá eső új és nem közel nulla vagy annál kedvezőbb energiaigényű épületre vonatkozó kérelem esetén azt a feltételt, hogy 2022. június 30-ig az épületnek rendeltetésszerű és biztonságos használatra alkalmas állapotban kell lennie, valamint az építésügyi hatóság használatbavételi engedélyével vagy tudomásul vételével kell rendelkeznie.
 
 (5)[^112] A határozat indokolási része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, a rendelkezéstől függően tartalmazza:
 
@@ -79,7 +73,7 @@ i)[^119] a (4) bekezdés i) pontjában meghatározott épületek esetén figyelm
 [^108]: A 19. § (4) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^109]: A 19. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (9) bekezdésével megállapított szöveg.
 [^110]: A 19. § (4) bekezdés g) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^111]: A 19. § (4) bekezdés i) pontját a 262/2015. (IX. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^111]: A 19. § (4) bekezdés i) pontját a 262/2015. (IX. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 114/2021. (III. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^112]: A 19. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 18. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^113]: A 19. § (5) bekezdés a) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés e) pontja szerint módosított szöveg.
 [^114]: A 19. § (6) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 19. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
