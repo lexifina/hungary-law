@@ -78,3 +78,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1084-30
 | 2020-12-18 | 2016-1084-30-22.70 | 1625/2017. (IX. 11.) Korm. határozat |
 | 2021-01-01 | 2016-1084-30-22.71 | 1660/2017. (IX. 13.) Korm. határozat |
 | 2021-03-06 | 2016-1084-30-22.72 | 1717/2016. (XII. 5.) Korm. határozat |
+| 2021-03-11 | 2016-1084-30-22.73 | 1717/2016. (XII. 5.) Korm. határozat |
