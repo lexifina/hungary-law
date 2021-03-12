@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-114-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-03-11 | 2021-114-20-22.1 | 114/2021. (III. 10.) Korm. rendelet |
+| 2021-03-12 | 2021-114-20-22.2 | 2010: CXXX. törvény |
