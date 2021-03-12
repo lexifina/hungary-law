@@ -1,1 +1,0 @@
-## 13. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 83. § (2) bekezdésében az „a 82. §-ban meghatározott” szövegrész helyébe az „a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet 20. §-ában meghatározott” szöveg lép.

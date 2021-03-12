@@ -1,3 +1,5 @@
-## 33. § A Magyar Bányászati és Földtani Szolgálatról szóló 161/2017. (VI. 28.) Korm. rendelet 4. § (2) bekezdés 16. pontjában az „a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-ában” szövegrész helyébe az „a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. § (3)–(5) bekezdésében” szöveg lép.
+## 33. §[^22]
 
 ## 22. A központi nyugdíjbiztosítási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, az állami foglalkoztatási szerv és a munkaügyi hatóság részére az állami adó- és vámhatóság által teljesített adatátadás részletes szabályairól szóló 438/2020. (IX. 22.) Korm. rendelet módosítása
+
+[^22]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

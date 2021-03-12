@@ -1,3 +1,0 @@
-## 25. § Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet (a továbbiakban: 320/2014. Korm. rendelet) 7. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A miniszter a foglalkoztatás-felügyeleti hatósági ellenőrzéssel kapcsolatos állami irányítási feladatok keretében a foglalkoztatás-felügyeleti hatósági hatáskörében eljáró kormányhivatal közreműködésével részt vesz a munkaügyi jogszabályok alkalmazásának elősegítését szolgáló tájékoztató és felvilágosító tevékenység ellátásában.”

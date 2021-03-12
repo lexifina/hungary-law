@@ -1,3 +1,5 @@
-## lép.
+## 25–31. §[^20]
 
 ## 20. A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet módosítása
+
+[^20]: A 25–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
