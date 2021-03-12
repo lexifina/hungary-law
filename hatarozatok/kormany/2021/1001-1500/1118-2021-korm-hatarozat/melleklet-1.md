@@ -14,13 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:351d mezőjében az „1,10” szövegrész helyébe az „1,24” szöveg,
-
-## b) E:351d mezőjében a „0,12” szövegrész helyébe a „0,14” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1118/2021. (III. 10.) Korm. határozathoz
 
@@ -33,3 +27,5 @@
 | 3. | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) | Az EU felé el nem számolható költségek összege (Ft) | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) | Az EU felé el nem számolható költségek összege (Ft) | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) | Az EU felé el nem számolható költségek összege (Ft) |
 
 | 4. | KEHOP- 3.2.1-15- 2017- 00029 | Komplex hulladék- gazdálkodási rendszer fejlesztése a Mecsek–Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Mecsek–Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás és Pécs Megyei Jogú Város Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 90,16 | 1 099 999 995 | 120 000 005 | 49 778 928 | 0 | – | +138 437 122 | +15 102 232 | –20 467 027 | – | 90,16 | 1 238 437 117 | 135 102 237 | 29 311 901 | 0 | 1 402 851 255 | A projekttel szembeni szakmai elvárás a projektterületen élők megfelelő hulladékgazdálkodási közszolgáltatással történő ellátásának biztosítása az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek megfelelően. A projekt keretében a Mecsek–Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás hulladékgazdálkodási rendszerének komplex továbbfejlesztése történik meg. A fejlesztés célja – az Országos Hulladékgazdálkodási Közszolgáltatási Terv céljaival megegyezően – az anyagában történő hasznosítás arányának növelése érdekében az elkülönített gyűjtés kiemelt fejlesztése, különös tekintettel a zöldhulladékok, valamint az elektronikai, a papír-, a műanyag- és az üveghulladékok területén. Kiemelt cél továbbá az előkezelési és haszonanyag-előállítási tevékenység alrendszereinek fejlesztése az ártalmatlanítás jelentős csökkentése érdekében. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
