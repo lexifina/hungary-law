@@ -1,3 +1,0 @@
-## 3. § A Korm. rendelet a következő 15. §-sal egészül ki:
-
-## „15. § E rendeletnek a Citadella erőd és környezete megújításához és értékőrző fenntartásához szükséges beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 339/2020. (VII. 10.) Korm. rendelet módosításáról szóló 123/2021. (III. 10.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 7. § (4) bekezdését, 10. § (3) és (4) bekezdését, valamint 1. mellékletét a Módr2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
