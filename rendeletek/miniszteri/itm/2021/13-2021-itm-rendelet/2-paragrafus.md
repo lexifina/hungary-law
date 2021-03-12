@@ -1,3 +1,0 @@
-## 1. § Az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet (a továbbiakban: R.) 6/B. §-a helyébe a következő rendelkezés lép:
-
-## „6/B. § A 6. § (2) bekezdés a) pontjától eltérően, ha az építészeti-műszaki tervezési dokumentáció alapján az épület kialakítása nem közel nulla vagy annál kedvezőbb energiaigényű, és a használatbavételre 2020. december 31. napját követően kerül sor, a 6. § (2) bekezdés a) pontjában foglaltaknak 2022. június 30. napja utáni használatbavétel esetén kell megfelelni azzal, hogy a 2020. december 31. napján hatályos energetikai előírásokat ebben az esetben is alkalmazni kell.”
