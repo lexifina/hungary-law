@@ -1,4 +1,4 @@
-2. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^61]
+2. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^72]
 
 ## A RENDSZERESÍTÉSI JAVASLAT, ILLETVE AZ ALKALMAZÁSBA VÉTELI JAVASLAT TARTALMI ELEMEI
 
@@ -28,4 +28,4 @@
 
 13. Mellékletek: a 10. § (1) bekezdés szerinti dokumentációk és a 11. § szerinti szakértői bizottság üléseinek jegyzőkönyvei, a kényszerítő eszköz korábbi rendszeresítéséről szóló dokumentumok másolata
 
-[^61]: A 2. melléklet a 118/2017. (V. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^72]: A 2. melléklet a 118/2017. (V. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
