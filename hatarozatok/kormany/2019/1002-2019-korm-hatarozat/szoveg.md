@@ -1,4 +1,4 @@
-1. A Kormány – az 1989–90-es rendszerváltoztatás 30. évfordulójáról történő méltó megemlékezés érdekében – a 2019. március 15. és a 2021. június 19. közötti időtartamot a „30 éve szabadon” emlékévvé (a továbbiakban: Emlékév) nyilvánítja. Az Emlékév célja, hogy
+1.[^2] A Kormány – az 1989–90-es rendszerváltoztatás 30. évfordulójáról történő méltó megemlékezés érdekében – a 2019. március 15. és a 2022. március 31. közötti időtartamot a „30 éve szabadon” emlékévvé (a továbbiakban: Emlékév) nyilvánítja. Az Emlékév célja, hogy
 
 a) ráirányítsa a magyar emberek és a közép-európai nemzetek figyelmét az akkori események világpolitikai súlyára,
 
@@ -6,7 +6,7 @@ b) nyilvánvalóvá tegye, hogy Nyugat-Európa a második világháborút követ
 
 c) a szabadság és függetlenség visszaszerzéséért hozott áldozatok a XXI. században elfoglalhassák méltó helyüket a magyarság és Közép-Európa közösségi emlékezetében.
 
-2. A Kormány az 1. pont szerinti célok megvalósítására a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 10. § (1) bekezdése alapján – javaslattevő, véleményező és tanácsadói tevékenységet végző szervként – 2019. január 15. napjától 2021. június 19. napjáig terjedő időtartamra Emlékbizottságot (a továbbiakban: Bizottság) hoz létre.
+2.[^3] A Kormány az 1. pont szerinti célok megvalósítására a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 10. § (1) bekezdése alapján – javaslattevő, véleményező és tanácsadói tevékenységet végző szervként – 2019. január 15. napjától 2022. március 31. napjáig terjedő időtartamra Emlékbizottságot (a továbbiakban: Bizottság) hoz létre.
 
 3. A Bizottság feladatkörében
 
@@ -32,7 +32,7 @@ e) az Országgyűlés Külügyi bizottságának elnökét,
 
 f) a Magyar Művészeti Akadémia elnökét,
 
-g) a nemzeti filmipar fejlesztéséért felelős kormánybiztost,
+g)[^4] a magyar nemzeti mozgóképipar fejlesztéséért felelős kormánybiztost,
 
 h) az Országos Széchényi Könyvtár főigazgatóját,
 
@@ -88,4 +88,9 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-13. Ez a határozat a közzétételét követő napon lép hatályba, és 2021. június 19-én hatályát veszti.
+13.[^5] Ez a határozat a közzétételét követő napon lép hatályba, és 2022. március 31-én hatályát veszti.
+
+[^2]: Az 1. pont nyitó szövegrésze az 1123/2021. (III. 12.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: A 2. pont az 1123/2021. (III. 12.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont g) alpontja az 1123/2021. (III. 12.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 13. pont az 1123/2021. (III. 12.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
