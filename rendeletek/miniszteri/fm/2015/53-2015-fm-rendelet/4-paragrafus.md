@@ -28,17 +28,17 @@ a)[^14] legalább a Tbj. törvény 4. § 14. pontjában meghatározott minimálb
 
 b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg, úgy az elismert élőmunka ráfordítás arányosan csökken.
 
-(8) A (7) bekezdéstől eltérően, e rendelet vonatkozásában, amennyiben az a mezőgazdasági őstermelő, akinek e tevékenységéből származó, tárgyévet megelőző évben elért bevétele nem haladja meg a személyi jövedelemadóról szóló törvény szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatárt, és a járulékokat a Tbj. törvény alapján
+(8)[^15] A (7) bekezdéstől eltérően, e rendelet vonatkozásában, ha a mezőgazdasági őstermelő a társadalombiztosítási járulékot
 
-a) legalább az őstermelői tevékenységből származó, tárgyévet megelőző évi bevételének húsz százaléka után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
+a) legalább a Tbj. törvényben meghatározott járulékalap után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
 
-b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg, úgy az elismert élőmunka ráfordítás arányosan csökken.
+b) az a) pontban meghatározott járulékalapnál kevesebb összeg után fizette meg, úgy az elismert élőmunka-ráfordítás arányosan csökken.
 
-(9) E rendelet vonatkozásában, amennyiben a természetes személy a (7) és (8) bekezdésben foglaltaktól eltérően egészségügyi hozzájárulás fizetésére kötelezett, és az egészségügyi hozzájárulást az egészségügyi hozzájárulásról szóló törvény alapján
+(9)[^16] E rendelet vonatkozásában, ha a mezőgazdasági őstermelő szociális hozzájárulási adó fizetésére kötelezett és a szociális hozzájárulási adót a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho törvény) alapján
 
-a) legalább az (1) bekezdés d) pontjában meghatározott árbevételnek megfelelő összeg után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
+a) legalább a Szocho törvényben meghatározott adóalap után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
 
-b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg, úgy az elismert élőmunka ráfordítás arányosan csökken.
+b) az a) pontban meghatározott adóalapnál kevesebb összeg után fizette meg, úgy az elismert élőmunka-ráfordítás arányosan csökken.
 
 (10) A (7)–(9) bekezdés szerinti közterhek megfizetését pénzügyi bizonylatokkal kell igazolni.
 
@@ -58,3 +58,5 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 [^12]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § d) pontja, a 41/2020. (VIII. 19.) AM rendelet 11. § a) pontja szerint módosított szöveg.
 [^13]: A 4. § (7) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 32. § a) pontja szerint módosított szöveg.
 [^14]: A 4. § (7) bekezdés a) pontja a 46/2020. (IX. 23.) AM rendelet 32. § b) pontja szerint módosított szöveg.
+[^15]: A 4. § (8) bekezdése a 9/2021. (III. 12.) AM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 4. § (9) bekezdése a 9/2021. (III. 12.) AM rendelet 1. §-ával megállapított szöveg.
