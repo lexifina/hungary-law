@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-278-20-
 | 2019-10-23 | 2014-278-20-22.12 | 236/2019. (X. 15.) Korm. rendelet |
 | 2021-01-01 | 2014-278-20-22.13 | 527/2020. (XI. 26.) Korm. rendelet |
 | 2021-02-28 | 2014-278-20-22.14 | 236/2019. (X. 15.) Korm. rendelet |
+| 2021-03-13 | 2014-278-20-22.15 | 120/2021. (III. 10.) Korm. rendelet |
