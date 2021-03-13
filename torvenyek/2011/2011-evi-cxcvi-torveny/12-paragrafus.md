@@ -28,7 +28,9 @@ l) dohánytermékek kiskereskedelme, illetve a dohánykiskereskedelem-ellátási
 
 m) az egységes elektronikus értékesítésű közszolgáltatások egységes rendszerének működtetése,
 
-n) az a)–m) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
+n) a hulladékról szóló törvény szerinti állami hulladékgazdálkodási közfeladat,
+
+o) az a)–n) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 
@@ -77,6 +79,8 @@ közvetlen vagy közvetett többségi tulajdonában lévő gazdálkodó szerveze
 (11) Az (1) bekezdés k) pontjában és a (2) bekezdés f)–g) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga – a (4) és (5) bekezdésben meghatározott korlátozásokra figyelemmel – törvényben szabályozott módon másnak átengedhető.
 
 (11a) Az (1) bekezdés l) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga külön ágazati törvényben szabályozott módon másnak átengedhető.
+
+(11b) Az (1) bekezdés n) pontjában meghatározott kizárólagos gazdasági tevékenység vagy egyes résztevékenységei gyakorlásának joga ágazati törvényben szabályozott módon másnak átengedhető.
 
 (12) A (4)–(6) bekezdésben foglalt korlátozások figyelembevételével, valamint a (7)–(11) bekezdésben meghatározottakon kívül az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége gyakorlásának időleges joga koncessziós szerződés megkötése nélkül kizárólag
 
