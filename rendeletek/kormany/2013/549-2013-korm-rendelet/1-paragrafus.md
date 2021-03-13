@@ -6,7 +6,7 @@
 
 ## 1. § E rendelet hatálya kiterjed
 
-a)[^1] a központi költségvetésről szóló törvénynek az Uniós fejlesztések fejezetében (a továbbiakban: fejezet) eredeti előirányzatként megállapított fejezeti és központi kezelésű előirányzatokra,
+a)[^2] a központi költségvetésről szóló törvénynek az Uniós fejlesztések fejezetében (a továbbiakban: fejezet) eredeti előirányzatként megállapított fejezeti és központi kezelésű előirányzatokra,
 
 b) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján a fejezetben a költségvetési év során megállapított új fejezeti kezelésű előirányzatokra,
 
@@ -14,4 +14,4 @@ c) a költségvetési évet megelőző évekről áthúzódó, a fejezetet irán
 
 [az a)–c) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok].
 
-[^1]: Az 1. § a) pontja a 710/2020. (XII. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § a) pontja a 710/2020. (XII. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.

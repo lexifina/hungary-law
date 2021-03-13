@@ -1,6 +1,6 @@
-## 4/A. [^71] Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 előirányzat és az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 előirányzat felhasználási szabályai
+## 4/A. [^74] Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 előirányzat és az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 előirányzat felhasználási szabályai
 
-11/A. § (1)[^72] Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 előirányzat és az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzatok) célja a CEF projektek, valamint azok koordinálásával összefüggő elszámolható és az európai uniós forrásból nem fedezett, el nem számolható, azonban a projektek lebonyolításához és a projektek fenntartási időszakához kötődő kötelezettségek teljesítéséhez elengedhetetlen tevékenységek kiadásai fedezetének biztosítása, így különösen
+11/A. § (1)[^75] Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 előirányzat és az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzatok) célja a CEF projektek, valamint azok koordinálásával összefüggő elszámolható és az európai uniós forrásból nem fedezett, el nem számolható, azonban a projektek lebonyolításához és a projektek fenntartási időszakához kötődő kötelezettségek teljesítéséhez elengedhetetlen tevékenységek kiadásai fedezetének biztosítása, így különösen
 
 a) a CEF projektek előkészítési és végrehajtási költségeinek,
 
@@ -10,13 +10,13 @@ c) a CEF pályázatok előkészítéséhez, benyújtásához és megvalósítás
 
 d) a deviza utóterhelési díjak, az árfolyam-különbözet, valamint a CEF terhére el nem számolható általános forgalmi adó és egyéb, a végrehajtás során felmerülő el nem számolható költségek,
 
-e)[^73] a CEF projektek végrehajtása során vagy azt követően az Európai Unió részére történő visszafizetések
+e)[^76] a CEF projektek végrehajtása során vagy azt követően az Európai Unió részére történő visszafizetések
 
 ## finanszírozása.
 
-(2)[^74] A CEF projektek támogatásáról a Kormány a 75/2016. (IV. 5.) Korm. rendelet 4. alcíme szerinti határozattal dönt.
+(2)[^77] A CEF projektek támogatásáról a Kormány a 75/2016. (IV. 5.) Korm. rendelet 4. alcíme szerinti határozattal dönt.
 
-(3)[^75] Az előirányzatok terhére támogatásban részesíthető kedvezményezett:
+(3)[^78] Az előirányzatok terhére támogatásban részesíthető kedvezményezett:
 
 a) a végrehajtó szerv,
 
@@ -24,7 +24,7 @@ b) az Európai Támogatásokat Auditáló Főigazgatóság,
 
 c) az Innovációs és Technológiai Minisztérium mint tagállami kedvezményezett.
 
-(4)[^76] Az előirányzatok terhére megállapított támogatás támogatási szerződéssel bocsátható a kedvezményezett rendelkezésére, a támogatásra vonatkozó egyedi feltételek meghatározása mellett.
+(4)[^79] Az előirányzatok terhére megállapított támogatás támogatási szerződéssel bocsátható a kedvezményezett rendelkezésére, a támogatásra vonatkozó egyedi feltételek meghatározása mellett.
 
 (5) A támogatás a beszámoló elfogadását követően utófinanszírozással vagy szállítói kifizetéssel, időarányosan vagy teljesítésarányosan folyósítható.
 
@@ -34,9 +34,9 @@ c) az Innovációs és Technológiai Minisztérium mint tagállami kedvezményez
 
 (8) Szállítói előleg a kedvezményezett és a szállító közötti szerződés összege 30%-áig biztosítható a szállító részére, a szállítói előlegnek közvetlenül a szállító fizetési számlájára történő folyósítással.
 
-[^71]: A 4/A. alcímet (11/A. §) a 79/2019. (IV. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 710/2020. (XII. 30.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
-[^72]: A 11/A. § (1) bekezdés nyitó szövegrésze a 710/2020. (XII. 30.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
-[^73]: A 11/A. § (1) bekezdés e) pontját a 710/2020. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^74]: A 11/A. § (2) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
-[^75]: A 11/A. § (3) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
-[^76]: A 11/A. § (4) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^74]: A 4/A. alcímet (11/A. §) a 79/2019. (IV. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 710/2020. (XII. 30.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^75]: A 11/A. § (1) bekezdés nyitó szövegrésze a 710/2020. (XII. 30.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^76]: A 11/A. § (1) bekezdés e) pontját a 710/2020. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^77]: A 11/A. § (2) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^78]: A 11/A. § (3) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
+[^79]: A 11/A. § (4) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

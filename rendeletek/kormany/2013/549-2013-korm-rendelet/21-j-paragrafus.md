@@ -1,4 +1,4 @@
-## 9/C.[^128] A Közvetlen uniós programok támogatása előirányzat felhasználási szabályai
+## 9/C.[^131] A Közvetlen uniós programok támogatása előirányzat felhasználási szabályai
 
 21/J. § (1) A Közvetlen uniós programok támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja a 2021–2027 programozási időszakban támogatás biztosítása
 
@@ -50,4 +50,4 @@
 
 (6) Lebonyolító szerv igénybevétele esetén a fejezetet irányító szerv vezetője az előirányzat-felhasználási keretszámlához kapcsolódó alszámlára rendelkezési jogot biztosít a lebonyolító szervezet részére.
 
-[^128]: A II. fejezet 9/C. alcímét (21/J–21/M. §) a 710/2020. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^131]: A II. fejezet 9/C. alcímét (21/J–21/M. §) a 710/2020. (XII. 30.) Korm. rendelet 6. §-a iktatta be.

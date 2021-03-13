@@ -2,28 +2,28 @@
 
 ## A FEJEZET ELŐIRÁNYZATAINAK KEZELŐ SZERVI KIJELÖLÉSEI
 
-50. § (1)[^249] Központi és fejezeti kezelésű előirányzatonként az 1. melléklet szerinti kezelő szervek kerülnek kijelölésre.
+50. § (1)[^252] Központi és fejezeti kezelésű előirányzatonként az 1. melléklet szerinti kezelő szervek kerülnek kijelölésre.
 
-(2)[^250]
+(2)[^253]
 
-(3)[^251] A kezelő szerv ellátja
+(3)[^254] A kezelő szerv ellátja
 
 a) a havi és éves szintű költségvetési tervezési,
 
-b)[^252] a fejezeti likviditás biztosításához, az előirányzatok felhasználásához, a havi időközi költségvetési jelentések, a negyedéves mérlegjelentések, a költségvetési beszámoló, a zárszámadás és a maradvány-felülvizsgálat elkészítéséhez kapcsolódó adatszolgáltatási
+b)[^255] a fejezeti likviditás biztosításához, az előirányzatok felhasználásához, a havi időközi költségvetési jelentések, a negyedéves mérlegjelentések, a költségvetési beszámoló, a zárszámadás és a maradvány-felülvizsgálat elkészítéséhez kapcsolódó adatszolgáltatási
 
 feladatokat.
 
-(4)[^253] A kezelő szerv köteles a fizetési számlák forgalmáról készült elektronikus kivonatot haladéktalanul megküldeni a fejezetet irányító szerv részére.
+(4)[^256] A kezelő szerv köteles a fizetési számlák forgalmáról készült elektronikus kivonatot haladéktalanul megküldeni a fejezetet irányító szerv részére.
 
-(5)[^254] A Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program 3. prioritása kivételével a kezelő szervi feladatok nem terjednek ki a technikai segítségnyújtás jellegű prioritásokra, programokra.
+(5)[^257] A Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program 3. prioritása kivételével a kezelő szervi feladatok nem terjednek ki a technikai segítségnyújtás jellegű prioritásokra, programokra.
 
-(6)[^255] A fejezetet irányító szerv a (3) bekezdés szerinti feladatok vonatkozásában központi szabályzatot ad ki, amelyet a www.palyazat.gov.hu honlapon is megjelentet.
+(6)[^258] A fejezetet irányító szerv a (3) bekezdés szerinti feladatok vonatkozásában központi szabályzatot ad ki, amelyet a www.palyazat.gov.hu honlapon is megjelentet.
 
-[^249]: Az 50. § (1) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
-[^250]: Az 50. § (2) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.
-[^251]: Az 50. § (3) bekezdés nyitó szövegrésze a 401/2016. (XII. 5.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
-[^252]: Az 50. § (3) bekezdés b) pontja a 294/2018. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^253]: Az 50. § (4) bekezdése a 287/2015. (X 6.) Korm. rendelet 31. § 19. pontja szerint módosított szöveg.
-[^254]: Az 50. § (5) bekezdése a 294/2018. (XII. 21.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^255]: Az 50. § (6) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^252]: Az 50. § (1) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^253]: Az 50. § (2) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.
+[^254]: Az 50. § (3) bekezdés nyitó szövegrésze a 401/2016. (XII. 5.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^255]: Az 50. § (3) bekezdés b) pontja a 294/2018. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^256]: Az 50. § (4) bekezdése a 287/2015. (X 6.) Korm. rendelet 31. § 19. pontja szerint módosított szöveg.
+[^257]: Az 50. § (5) bekezdése a 294/2018. (XII. 21.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^258]: Az 50. § (6) bekezdése a 710/2020. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.

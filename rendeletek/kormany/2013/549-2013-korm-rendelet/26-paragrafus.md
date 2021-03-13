@@ -1,3 +1,3 @@
-## 25. §[^143]
+## 25. §[^146]
 
-[^143]: A 25. §-t a 15/2020. (II. 12.) Korm. rendelet 5. § h) pontja hatályon kívül helyezte.
+[^146]: A 25. §-t a 15/2020. (II. 12.) Korm. rendelet 5. § h) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^268]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^271]
 
 Kezelő szervi kijelölés
 
@@ -102,4 +102,4 @@ Kezelő szervi kijelölés
 
 | 49. | Közvetlen uniós programok támogatása | európai uniós források felhasználásáért felelős miniszter |
 
-[^268]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja, a 79/2019. (IV. 12.) Korm. rendelet 8. §-a, a 82/2019. (IV. 18.) Korm. rendelet 4. §-a, a 476/2020. (X. 30.) Korm. rendelet 2. §-a, a 710/2020. (XII. 30.) Korm. rendelet 12. § és a 13. § 16-18. pontja szerint módosított szöveg.
+[^271]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja, a 79/2019. (IV. 12.) Korm. rendelet 8. §-a, a 82/2019. (IV. 18.) Korm. rendelet 4. §-a, a 476/2020. (X. 30.) Korm. rendelet 2. §-a, a 710/2020. (XII. 30.) Korm. rendelet 12. § és a 13. § 16-18. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 7.[^89]
+## 7.[^92]
 
-[^89]: A 7. alcímet (15. §) a 15/2020. (II. 12.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^92]: A 7. alcímet (15. §) a 15/2020. (II. 12.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
