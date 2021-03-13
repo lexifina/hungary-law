@@ -10,6 +10,8 @@ bb) a közszolgáltató által nyújtott, a hulladékgazdálkodási közszolgál
 
 c)
 
+(1a) A Hivatal az (1) bekezdésben foglalt intézkedéseken túl, a közszolgáltatóval szemben bírságot szab ki, ha a nem megfelelő adatszolgáltatása következtében került sor jogszabálysértő díj alkalmazására.
+
 (2) Az (1) bekezdés szerinti eljárásban az ügyintézési határidő huszonöt nap. Az eljárás során hozott véglegessé vált döntések a Hivatal honlapján kerülnek közzétételre.
 
 (3) A Hivatal a díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait közhírré teszi.
