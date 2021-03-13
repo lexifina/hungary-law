@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-220-20-
 | 2017-01-01 | 2008-220-20-22.5 | 98/2014. (III. 25.) Korm. rendelet |
 | 2020-01-01 | 2008-220-20-22.6 | 352/2019. (XII. 23.) Korm. rendelet |
 | 2020-01-02 | 2008-220-20-22.7 | 98/2014. (III. 25.) Korm. rendelet |
+| 2021-03-13 | 2008-220-20-22.8 | 98/2014. (III. 25.) Korm. rendelet |
