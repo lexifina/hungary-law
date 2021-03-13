@@ -1,0 +1,1 @@
+## „19. végrehajtó ügynökség: az EGT és Norvég Finanszírozási Mechanizmusok 2009–2014-es időszak tekintetében a 326/2012. (XI. 16.) Korm. rendelet 3. § 100. pontja szerinti szervezet, valamint az EGT és Norvég Finanszírozási Mechanizmusok 2014–2021-es időszak tekintetében a 121/2021. (III. 10.) Korm. rendelet 5. § 16. pontja szerinti szervezet,”
