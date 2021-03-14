@@ -1,17 +1,11 @@
-2. § (1) Ha az általános adómértékkel számított 2021. év után fizetendő helyi iparűzési adó összegének és a csökkentett adómértékkel számított 2021. év után fizetendő helyi iparűzési adó összegének különbözete meghaladja az 1. § (2) bekezdése szerint számított támogatástartalmat, az 1. § (2) bekezdésében meghatározott támogatástartalmat meghaladó összeg az EUMSz 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és az a vállalkozás tevékenységének függvényében
+2. §[^4] (1) Az átmeneti támogatás támogatástartalma a 2021. évben végződő adóévben – a Korm. rendelet 3. §-a szerinti vállalkozó esetében a 2021. évben kezdődő adóévben – alkalmazandó önkormányzati rendeletben megállapított adómérték (a továbbiakban: általános adómérték) és az 1%-os adómérték (a továbbiakban: csökkentett adómérték) különbözetének szorzatával egyező összeg.
 
-a) az 1407/2013/EU bizottsági rendelet szerinti általános csekély összegű támogatásként,
+(2) Az (1) bekezdés szerinti támogatástartalmat a vállalkozó számára a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 52. § 41. pontja szerinti székhelye és a Htv. 52. § 31. pontja szerinti telephelye szerinti önkormányzati adóhatóság a 2021. évben végződő – a Korm. rendelet 3. §-a szerinti vállalkozó esetében a 2021. évben kezdődő – adóévről szóló adóbevallás benyújtását követő hónap utolsó napjáig visszaigazolja.
 
-b) az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatásként vagy
+(3) Ha a vállalkozó az elsődleges mezőgazdasági termelési ágazatban vagy a halászati és akvakultúra-ágazatban is folytat tevékenységet, az egyes ágazatokra eső átmeneti támogatás arányát annak alapján kell megállapítani, hogy az adott ágazatban folytatott tevékenységből származó árbevétel milyen arányt képviselt a vállalkozó 2021. évi árbevételén belül.
 
-c) a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű támogatásként
+(4) Ha az átmeneti támogatásként nyújtott egyedi támogatás támogatástartalma meghaladja a 100 000 eurónak megfelelő forintösszeget, vagy a (3) bekezdés szerinti tevékenységre eső átmeneti támogatás támogatástartalma meghaladja a 10 000 eurónak megfelelő forintösszeget, az önkormányzati adóhatóság a (2) bekezdésben meghatározott határnapot követő második hónap utolsó napjáig megküldi az állami adó- és vámhatóság részére az egyedi támogatásnak az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 6. melléklete szerinti adatait.
 
-## nyújtható.
+(5) Az állami adó- és vámhatóság a (2) bekezdésben meghatározott határnapot követő harmadik hónap utolsó napjáig továbbítja a (4) bekezdés szerinti adatokat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a közlemény 4. szakasza szerinti közzététel céljából.
 
-(2) Ha a vállalkozás az elsődleges mezőgazdasági termelési ágazatban vagy a halászati és akvakultúra-ágazatban is folytat tevékenységet, az (1) bekezdés a)–c) pontja szerinti egyes bizottsági rendeletek szerinti támogatás összegét az alapján kell meghatározni, hogy az adott ágazatban folytatott tevékenység milyen arányt képviselt az adózó 2021. évi árbevételén belül.
-
-(3) Az 5. § (2) és (3) bekezdése szerinti egyes ágazatokra eső átmeneti támogatás arányát annak alapján kell megállapítani, hogy az adott ágazatban folytatott tevékenység milyen arányt képviselt az adózó 2019. évi árbevételén belül.
-
-(4) Ha az adózót nem terheli adóelőleg-fizetési kötelezettség a 2021. évben, részére a Korm. rendelet 1. §-a szerinti adóelőny az (1) bekezdés szerinti jogcímeken nyújtható.
-
-(5) A (4) bekezdés szerinti esetben a támogatás támogatástartalma az általános adómérték és a csökkentett adómérték különbözete.
+[^4]: A 2. § a 129/2021. (III. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
