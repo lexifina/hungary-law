@@ -78,8 +78,10 @@ d) a kijelölés, megbízatás alapjául szolgáló jogviszony megszűnésével.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13. Hatályát veszti az Országos Állatvédelmi és Állatjóléti Tanácsról szóló 1377/2013. (VI. 27.) Korm. határozat.
+13.[^1]
 
 14. Az Országos Állatvédelmi és Állatjóléti Tanács tagjainak megbízatása megszűnik.
 
 15. A Tanács elnökét, társelnökét, titkárát és az 5. pont a) alpontja szerinti tagját a miniszter kéri fel, az 5. pont b)–i) alpontja szerinti szervezetek vezetőit a miniszter hívja fel a Tanács tagjának kijelölése érdekében, úgy, hogy a Tanács alakuló ülése 2021. április 15-ig megvalósuljon.
+
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
