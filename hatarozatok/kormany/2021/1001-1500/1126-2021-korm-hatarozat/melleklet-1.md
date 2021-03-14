@@ -6,7 +6,7 @@
 
 ## Határidő: a 2021. évre halasztott Birkózó Európai Kontinens Olimpiai Kvalifikációs Verseny befejezését követő 10. napig folyamatosan
 
-## b) visszavonja a 2020. évi Birkózó Európai Kontinens Olimpiai Kvalifikációs Verseny megrendezése érdekében szükséges kormányzati intézkedésekről szóló 1030/2020. (II. 12.) Korm. határozat 7. és 8. pontját, valamint az 1. mellékletét.
+## b)[^1]
 
 ## 2. Az 1. pont a) alpontja szerinti járművek megjelölésére szolgáló jelzést (matricát), annak a járművön történő rögzítési módját, a jelzés viselésére jogosító igazolás tartalmát és használatának ellenőrzését az 1. melléklet tartalmazza.
 
@@ -67,3 +67,5 @@ típus
 4. Az igazolás használatának ellenőrzése:
 
 Az igazolás és a jelzés (matrica) használatát a közúti közlekedésről szóló 1988. évi I. törvény 44. § (2) bekezdése szerint a rendőrség ellenőrzi.
+
+[^1]: Az 1. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
