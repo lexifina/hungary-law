@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdés c) pontja szerinti időtartam lejárta előtt benyújtott és a mulasztást kellőképpen megindokolt kérelemre a teljesítési határidő építés esetén két évvel, vásárlás esetén három hónappal hosszabbítható meg.”

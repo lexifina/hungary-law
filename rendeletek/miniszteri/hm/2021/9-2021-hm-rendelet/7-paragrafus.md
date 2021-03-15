@@ -1,0 +1,1 @@
+## „(3) A fővárosi lakáselosztási tervet a fővárosi helyi lakásgazdálkodási szerv jóváhagyásra előterjeszti a közigazgatási államtitkárnak. A HM központi lakásgazdálkodási szerv – a lakásgazdálkodási érdekek figyelembevételével – év közben kiegészítő lakáselosztási terv készítését rendelheti el.”
