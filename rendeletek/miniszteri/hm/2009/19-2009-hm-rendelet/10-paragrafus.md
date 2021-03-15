@@ -20,7 +20,7 @@
 
 E rendelet alkalmazásában két fél lakószoba egy lakószobának felel meg.
 
-(2)[^47] Az (1) bekezdésben meghatározott igény mértékét meghaladó nagyságú lakás csak a közigazgatási államtitkár előzetes engedélyével juttatható. Nem szükséges előzetes engedély, ha az igény mértékét legfeljebb egy lakószobával meghaladó lakást tartósan beteg személy elkülönítése vagy a bérlő beosztásának, illetőleg munkájának ellátása indokolja.
+(2)[^57] Az (1) bekezdésben meghatározott igény mértékét meghaladó nagyságú lakás csak a közigazgatási államtitkár előzetes engedélyével juttatható. Nem szükséges előzetes engedély, ha az igény mértékét legfeljebb egy lakószobával meghaladó lakást tartósan beteg személy elkülönítése vagy a bérlő beosztásának, illetőleg munkájának ellátása indokolja.
 
 (3) Ahol a rendelet a HM rendelkezésű lakás meghatározott személy részére történő bérbeadását vagy a lakásbérleti jogviszony folytatását írja elő, az (1) bekezdés rendelkezéseit nem kell alkalmazni.
 
@@ -34,17 +34,24 @@ b) hastífusz vagy paratífusz bacilusgazda,
 
 c) cselekvőképtelen elmebeteg.
 
-(6) A (2) bekezdés alkalmazásában figyelembe vehető beosztás, illetőleg munkavégzés
+d)[^58] rokkantsági vagy rehabilitációs ellátásra jogosult, vagy
 
-a)[^48] a hivatásos szolgálati viszonyban, az állománytáblában dandártábornoki vagy annál magasabb rendfokozattal rendszeresített beosztás,
+e)[^59] a bíróság jogerős ítélete alapján cselekvőképességet teljesen korlátozó gondnokság alatt áll.
 
-b)[^49] kormánytisztviselői jogviszony alapján főosztályvezetői vagy ennél magasabb beosztás,
+(6)[^60] A (2) bekezdés alkalmazásában figyelembe vehető beosztás, illetve munkavégzés
 
-c)[^50] hivatásos szolgálati viszony, kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszony alapján végzett rendszeres kutatómunka, tudományos és publicisztikai tevékenység a jogszabályban meghatározott tudományos minősítés esetén.
+a)[^61] a hivatásos szolgálati viszonyban, az állománytáblában dandártábornoki vagy annál magasabb rendfokozattal rendszeresített beosztás,
+
+b)[^62] kormánytisztviselői jogviszony alapján főosztályvezetői vagy ennél magasabb beosztás,
+
+c)[^63] vezetői megbízással ellátható főigazgatói honvédelmi alkalmazotti munkakör.
 
 (7) Vezetői lakás tekintetében az igény mértékét nem kell figyelembe venni.
 
-[^47]: A 10. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
-[^48]: A 10. § (6) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 1. §-ával megállapított szöveg.
-[^49]: A 10. § (6) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^50]: A 10. § (6) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
+[^57]: A 10. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^58]: A 10. § (5) bekezdés d) pontját a 9/2021. (III. 2.) HM rendelet 5. § (1) bekezdése iktatta be.
+[^59]: A 10. § (5) bekezdés e) pontját a 9/2021. (III. 2.) HM rendelet 5. § (1) bekezdése iktatta be.
+[^60]: A 10. § (6) bekezdés nyitó szövegrésze a 9/2021. (III. 2.) HM rendelet 23. § 3. pontja szerint módosított szöveg.
+[^61]: A 10. § (6) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 1. §-ával megállapított szöveg.
+[^62]: A 10. § (6) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^63]: A 10. § (6) bekezdés c) pontja a 9/2021. (III. 2.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.

@@ -2,11 +2,12 @@
 
 76. § (1) A HM rendelkezésű lakás bérleti joga állami és önkormányzati tulajdonú lakás bérleti jogára cserélhető el. A lakáscserére vonatkozó szerződés a helyi lakásgazdálkodási szerv hozzájárulásával érvényes.
 
-(2)[^159] A honvédelmi szervezet szolgálati (kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti, munkavállalói) jogviszonyába tartozó személyek között a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig szóló bérleti jog csak ezzel azonos feltételű bérleti jogra cserélhető el.
+(2)[^178]
 
-(3) A határozott időtartamra és a 30. § (1) bekezdéstől eltérő feltétel bekövetkezéséig szóló bérleti jog nem cserélhető el.
+(3)[^179] Nem adható hozzájárulás a határozott időtartamra vagy a 30. § (1) bekezdésétől eltérő lakásbérlet cseréjéhez.
 
-(4)[^160]
+(4)[^180]
 
-[^159]: A 76. § (2) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja, a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^160]: A 76. § (4) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^178]: A 76. § (2) bekezdését a 9/2021. (III. 2.) HM rendelet 24. § d) pontja hatályon kívül helyezte.
+[^179]: A 76. § (3) bekezdése a 9/2021. (III. 2.) HM rendelet 12. §-ával megállapított szöveg.
+[^180]: A 76. § (4) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.

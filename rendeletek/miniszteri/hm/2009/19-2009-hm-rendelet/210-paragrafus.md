@@ -1,14 +1,14 @@
 ## XIV. Fejezet
 
-## LAKÁSÜZEMELTETÉSI HOZZÁJÁRULÁS[^288]
+## LAKÁSÜZEMELTETÉSI HOZZÁJÁRULÁS[^311]
 
-210. §[^289] (1) A lakóhelye szerinti lakás fenntartási költségeinek csökkentése érdekében, kérelmére, lakásüzemeltetési hozzájárulás illeti meg a szolgálati érdekből áthelyezett szerződéses tisztet és altisztet, ha
+210. §[^312] (1) A lakóhelye szerinti lakás fenntartási költségeinek csökkentése érdekében, kérelmére, lakásüzemeltetési hozzájárulás illeti meg a szolgálati érdekből áthelyezett szerződéses tisztet és altisztet, ha
 
 a) szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett,
 
 b) a szerződéses szolgálatban folyamatosan 5 évet már eltöltött és összesen legalább a 10. év eléréséig vállalta a további szolgálatot, és
 
-c)[^290] a kérelmező vagy annak házastársa, élettársa a honvédelmi szervezettől nem részül lakáspénzben,
+c)[^313] a kérelmező vagy annak házastársa, élettársa a honvédelmi szervezettől nem részül lakáspénzben,
 
 d) a kérelmező házastársa, élettársa nem részesül lakásüzemeltetési hozzájárulásban.
 
@@ -22,6 +22,6 @@ c) egy évet meghaladó időtartamú vezénylése.
 
 (3) A lakásüzemeltetési hozzájárulást havonta, az illetménnyel együtt kell folyósítani a jogosult részére.
 
-[^288]: A XIV. fejezet címe a 10/2014. (VII. 25.) HM rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^289]: A 210. § a 10/2014. (VII. 25.) HM rendelet 56. § (2) bekezdésével megállapított szöveg.
-[^290]: A 210. § (1) bekezdés c) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.
+[^311]: A XIV. fejezet címe a 10/2014. (VII. 25.) HM rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^312]: A 210. § a 10/2014. (VII. 25.) HM rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^313]: A 210. § (1) bekezdés c) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.

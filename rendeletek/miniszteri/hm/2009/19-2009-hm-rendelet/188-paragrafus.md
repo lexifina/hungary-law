@@ -1,32 +1,34 @@
-188. § (1) A munkáltatói kölcsön összege a kölcsönszámítási alap 60%-a, de legfeljebb a 187. § (1) bekezdés
+188. § (1)[^258] A munkáltatói kölcsön összege a kölcsönszámítási alap 70%-a, de a 187. § (1) bekezdés
 
-a)[^233] a)–b) és f) pontja szerinti esetekben a kormánytisztviselői illetményalap 110-szeres,
+a) a)–c) pontja szerinti esetben legfeljebb 5 millió forint,
 
-b)[^234] c)–e) pontjai szerinti esetekben a kormánytisztviselői illetményalap 70-szeres
+b) d)–h) pontja szerinti esetben legfeljebb 2,5 millió forint
 
-összege lehet.
+## lehet.
 
-(2)[^235] Az önkormányzati tulajdonú lakás megvásárlásához az abban bent lakó részére nyújtott munkáltatói kölcsön a kötelezően fizetendő vételárhányad összege, de legfeljebb a kormánytisztviselői illetményalap 10-szeres összege lehet.
+(2)[^259] Az önkormányzati tulajdonú vagy az eszközkezelői lakás megvásárlásához a bent lakó bérlő vagy bérlőtárs részére nyújtott munkáltatói kölcsön a vételár 15%-a, de legfeljebb 2,5 millió forint lehet.
 
 (3) Az (1) bekezdés, továbbá a 189. § szerint számított kölcsön összege növelhető:
 
-a)[^236] 25%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül 2 személy, 50%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül kettőnél több személy áll a honvédelmi szervezettel szolgálati, kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonyban, a támogatást együttesen igénylik és külön-külön rendelkeznek a kölcsönnyújtás feltételeivel,
+a)[^260] 25%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül 2 személy, 50%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül kettőnél több személy áll a honvédelmi szervezettel szolgálati, kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonyban, a támogatást együttesen igénylik és külön-külön rendelkeznek a kölcsönnyújtás feltételeivel,
 
 b) az igénylő számára már elbírált munkáltatói kölcsön és az a) pont alapján számított összeg különbözete adható munkáltatói kölcsönként az együtt költöző, a 10. § (4) bekezdésben meghatározott hozzátartozó részére, ha kölcsönigénylését külön vagy utólagosan nyújtja be.
 
 (4) A kölcsönszámítási alap a 187. §-ban felsoroltak igazolt költségének vagy vételárának
 
-a) az igénylő vagy a házastársa (élettársa), valamint a vele együttköltöző családtagja által bérelt lakás bérleti szerződésének (jogcím nélküli használatának) a kölcsönigénylést megelőző öt éven belül történt megszüntetéséért kapott pénzbeli térítéssel, továbbá
+a)[^261] az igénylő vagy a házastársa (élettársa), valamint a vele együttköltöző családtagja által bérelt lakás bérleti szerződésének (jogcím nélküli használatának) a kölcsönigénylést megelőző egy éven belül történt megszüntetéséért kapott pénzbeli térítéssel, továbbá
 
-b) a természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet tulajdonában lévő lakáson az igénylő vagy a házastársa (élettársa), saját háztartásában nevelt kiskorú gyermeke (örökbe fogadott, mostoha és nevelt gyermeke), valamint a vele együttköltöző családtagja javára fennálló haszonélvezeti és egyéb használati jognak a kölcsönigénylést megelőző öt éven belül történt megszüntetéséért kapott pénzbeli térítéssel, valamint
+b)[^262] a természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet tulajdonában lévő lakáson az igénylő vagy a házastársa (élettársa), saját háztartásában nevelt kiskorú gyermeke (örökbe fogadott, mostoha és nevelt gyermeke), valamint a vele együttköltöző családtagja javára fennálló haszonélvezeti és egyéb használati jognak a kölcsönigénylést megelőző egy éven belül történt megszüntetéséért kapott pénzbeli térítéssel, valamint
 
 c) az igénylő vagy a házastársa (élettársa), saját háztartásában nevelt kiskorú gyermeke (örökbe fogadott, mostoha és nevelt gyermeke), valamint a vele együttköltöző családtagja – beleértve a felsoroltak közös tulajdonát is – tulajdonát képező lakás elidegenítéséből származó tiszta bevétellel
 
 csökkentett összege. A tulajdont eredményező lakáscsere esetén pedig a cserélni kívánt lakások szerződésben kikötött értékének az igénylőt terhelő különbözete.
 
-(5) Az elidegenítésből származó tiszta bevételként kell számításba venni a kölcsönigénylést megelőző öt éven belül értékesített lakásnak az azt terhelő és visszafizetett önkormányzati, valamint munkáltatói támogatás, továbbá kiegyenlített lakáscélú pénzintézeti kölcsön összegével csökkentett eladási árát.
+(5)[^263] Az elidegenítésből származó tiszta bevételként kell számításba venni a kölcsönigénylést megelőző egy éven belül értékesített lakásnak az azt terhelő és visszafizetett önkormányzati, valamint munkáltatói támogatás, továbbá kiegyenlített lakáscélú pénzintézeti kölcsön összegével csökkentett eladási árát.
 
-[^233]: A 188. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^234]: A 188. § (1) bekezdés b) pontja a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^235]: A 188. § (2) bekezdése a 26/2016. (XII. 22.) HM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^236]: A 188. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja, a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^258]: A 188. § (1) bekezdése a 9/2021. (III. 2.) HM rendelet 16. §-ával megállapított szöveg.
+[^259]: A 188. § (2) bekezdése a 9/2021. (III. 2.) HM rendelet 16. §-ával megállapított szöveg.
+[^260]: A 188. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja, a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^261]: A 188. § (4) bekezdés a) pontja a 9/2021. (III. 2.) HM rendelet 23. § 16. pontja szerint módosított szöveg.
+[^262]: A 188. § (4) bekezdés b) pontja a 9/2021. (III. 2.) HM rendelet 23. § 16. pontja szerint módosított szöveg.
+[^263]: A 188. § (5) bekezdése a 9/2021. (III. 2.) HM rendelet 23. § 16. pontja szerint módosított szöveg.

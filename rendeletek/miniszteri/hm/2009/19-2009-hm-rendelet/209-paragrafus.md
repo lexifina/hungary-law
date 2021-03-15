@@ -2,9 +2,9 @@
 
 209. § (1) A kölcsöntámogatásban részesült személy halála esetén a túlélő házastárs, illetve az örökösök a kölcsöntartozást változatlan feltételek mellett fizethetik vissza.
 
-(2)[^286] Ha a lakásban életvitelszerűen bent lakó, illetve oda ilyen céllal beköltöző túlélő házastárs vagy örökös a honvédelmi szervezettel szolgálati, kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkaviszonyban áll, őt a reá átszállt tartozásra a szolgálati (munkajogi) jogviszonyban töltött időtartam szerint soron következő engedmény megilleti, amennyiben
+(2)[^309] Ha a lakásban életvitelszerűen bent lakó, illetve oda ilyen céllal beköltöző túlélő házastárs vagy örökös a honvédelmi szervezettel szolgálati, kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkaviszonyban áll, őt a reá átszállt tartozásra a szolgálati (munkajogi) jogviszonyban töltött időtartam szerint soron következő engedmény megilleti, amennyiben
 
-a)[^287] korábban a honvédelmi szervezettől munkáltatói kölcsönt nem kapott, és
+a)[^310] korábban a honvédelmi szervezettől munkáltatói kölcsönt nem kapott, és
 
 b) HM rendelkezésű vagy önkormányzati lakás bérletével nem rendelkezik, továbbá
 
@@ -12,5 +12,5 @@ c) HM rendelkezésű vagy önkormányzati lakást bentlakóként a maga vagy má
 
 (3) A túlélő házastársat vagy örököst megillető engedményt a 196. § (1) bekezdésben meghatározott időtartam(ok) letöltésekor kell a tartozásból jóváírni.
 
-[^286]: A 209. § (2) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja, a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^287]: A 209. § (2) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.
+[^309]: A 209. § (2) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja, a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^310]: A 209. § (2) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.

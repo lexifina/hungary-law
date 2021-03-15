@@ -6,7 +6,15 @@
 
 a)[^2] a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) állományában lévő tiszti vagy altiszti állományú hivatásos és szerződéses katonára,
 
-b)[^3] a honvédelmi szervezet kormánytisztviselőjére és kormányzati ügykezelőjére (a továbbiakban együtt: kormánytisztviselő), honvédelmi alkalmazottjára, közalkalmazottjára és munkavállalójára, kivéve, ha a XII–XIII. fejezetben foglalt lakhatási támogatások tekintetében a kollektív szerződés másként rendelkezik,
+b)[^3] a honvédelmi szervezet
+
+ba) kormányzati szolgálati, politikai szolgálati jogviszonyban (a továbbiakban együtt: kormányzati szolgálati jogviszony) álló foglalkoztatottjára (a továbbiakban együtt: kormánytisztviselő),
+
+bb) honvédelmi alkalmazottjára, közalkalmazottjára,
+
+bc) munkavállalójára,
+
+## kivéve, ha a bb) és bc) alpont szerinti alkalmazottak esetében jogszabály eltérően rendelkezik,
 
 c)[^4] a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) rendelkezése alatt lévő (a továbbiakban: HM rendelkezésű) lakásra és szükséglakásra, nem lakás céljára szolgáló, bérbeadás útján hasznosított helyiségre, valamint honvédségi szállóra és garzonházra,
 
@@ -24,7 +32,7 @@ b)[^9] a hivatásos, a hivatásos állományból szolgálati nyugállományba he
 
 [^1]: Az 1. §-t a 22/2013. (X. 7.) HM rendelet 27. § a) pontja hatályon kívül helyezte.
 [^2]: A 2. § (1) bekezdés a) pontja a 22/2013. (X. 7.) HM rendelet 1. § (1) bekezdésével megállapított, a 22/2018. (XII. 28.) HM rendelet 4. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés b) pontja a 22/2013. (X. 7.) HM rendelet 1. § (1) bekezdésével megállapított, a 10/2014. (VII. 25.) HM rendelet 58. § (1) bekezdése, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja, a 8/2020. (V. 27.) HM rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja a 9/2021. (III. 2.) HM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés c) pontja a 22/2018. (XII. 28.) HM rendelet 4. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés e) pontja a 22/2018. (XII. 28.) HM rendelet 4. § d) pontja szerint módosított szöveg.

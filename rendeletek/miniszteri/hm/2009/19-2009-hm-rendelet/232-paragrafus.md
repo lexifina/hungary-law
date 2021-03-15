@@ -1,6 +1,6 @@
-## 231. §[^344]
+## 231. §[^369]
 
-232. §[^345] (1) A közigazgatási államtitkár át nem ruházható hatáskörben
+232. §[^370] (1) A közigazgatási államtitkár át nem ruházható hatáskörben
 
 a) dönt a katonai rehabilitációval, az aktív vagy nyugállományú tagként külföldről hazatelepülő személyek elhelyezésével összefüggő lakásügyekben,
 
@@ -14,12 +14,12 @@ e) jóváhagyja a budapesti éves lakáselosztási tervet,
 
 f) dönt a 9. § (1) bekezdés b)–h) pontjában, továbbá a (2) bekezdés a) és c) pontjában meghatározott kizáró okok alóli felmentési kérelmek tárgyában, és
 
-g)[^346] a honvédelmi szervezetek szervezeti változásaival összefüggésben közleményben dönt a 229. § (2) bekezdése szerinti keretgazda lakásbizottságok ideiglenes szervezeti összetételéről.
+g)[^371] a honvédelmi szervezetek szervezeti változásaival összefüggésben közleményben dönt a 229. § (2) bekezdése szerinti keretgazda lakásbizottságok ideiglenes szervezeti összetételéről.
 
 (2) A közigazgatási államtitkár döntéseit a központi lakásügyek titkára készíti elő.
 
 (3) A közigazgatási államtitkár a helyőrségi és a keretgazda lakásbizottságok működését a HM központi lakásgazdálkodási szerv útján ellenőrzi.
 
-[^344]: A 231. §-t az 1/2018. (I. 26.) HM rendelet 6. § b) pontja hatályon kívül helyezte.
-[^345]: A 232. § az 1/2018. (I. 26.) HM rendelet 4. §-ával megállapított szöveg.
-[^346]: A 232. § (1) bekezdés g) pontja a 22/2018. (XII. 28.) HM rendelet 4. § h) pontja szerint módosított szöveg.
+[^369]: A 231. §-t az 1/2018. (I. 26.) HM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^370]: A 232. § az 1/2018. (I. 26.) HM rendelet 4. §-ával megállapított szöveg.
+[^371]: A 232. § (1) bekezdés g) pontja a 22/2018. (XII. 28.) HM rendelet 4. § h) pontja szerint módosított szöveg.

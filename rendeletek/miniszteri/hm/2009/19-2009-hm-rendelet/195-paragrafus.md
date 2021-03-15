@@ -8,7 +8,7 @@ c) HM rendelkezésű lakását megvásárolta, és annak vételárát még nem e
 
 d) a 194. § (1) bekezdésben meghatározott feltételekkel nem rendelkezik, illetve azokat nem vállalja,
 
-e)[^251] a hivatásos tiszti állomány tagja, és nyugállományba helyezésére a szolgálati viszonyának 201. § (1) bekezdés a)–k) pontjai szerinti megszűnésével egyidejűleg kerül sor
+e)[^272] a hivatásos tiszti állomány tagja, és nyugállományba helyezésére a szolgálati viszonyának 201. § (1) bekezdés a)–k) pontjai szerinti megszűnésével egyidejűleg kerül sor
 
 f) korábban – beleértve a kiegészítést is – legalább két alkalommal munkáltatói kölcsön támogatásban részesült,
 
@@ -18,4 +18,4 @@ h) a 187. § (1) bekezdés e) pont kivételével a Polgári Törvénykönyvről 
 
 i) lakástulajdonát gazdasági társaság tagja által a társaság részére vagyoni hozzájárulásként szolgáltatja, vagy azt ilyen céllal értékesítette, továbbá ha azt üzleti céllal működteti. Minderről az igénylő nyilatkozni köteles.
 
-[^251]: A 195. § e) pontja a 22/2013. (X. 7.) HM rendelet 16. §-ával megállapított szöveg.
+[^272]: A 195. § e) pontja a 22/2013. (X. 7.) HM rendelet 16. §-ával megállapított szöveg.

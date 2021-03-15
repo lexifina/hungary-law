@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-1
 | 2019-04-18 | 2009-19-20-15.20 | 6/2019. (IV. 15.) HM rendelet |
 | 2019-08-31 | 2009-19-20-15.21 | 9/2019. (VIII. 30.) HM rendelet |
 | 2020-05-28 | 2009-19-20-15.22 | 4/2012. (IV. 5.) HM rendelet |
+| 2021-03-15 | 2009-19-20-15.23 | 9/2021. (III. 2.) HM rendelet |

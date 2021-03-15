@@ -1,5 +1,5 @@
 ## XVII. Fejezet
 
-## A LAKÁSIGÉNYEK ELBÍRÁLÁSÁBAN KÖZREMŰKÖDŐ SZERVEK[^335]
+## A LAKÁSIGÉNYEK ELBÍRÁLÁSÁBAN KÖZREMŰKÖDŐ SZERVEK[^360]
 
-[^335]: A XVII. fejezet címe a 9/2017. (VIII. 31.) HM rendelet 6. §-ával megállapított szöveg.
+[^360]: A XVII. fejezet címe a 9/2017. (VIII. 31.) HM rendelet 6. §-ával megállapított szöveg.

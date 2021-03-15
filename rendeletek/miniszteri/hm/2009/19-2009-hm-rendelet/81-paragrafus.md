@@ -10,6 +10,6 @@ c) a félkomfortos lakásé 40 Ft/m2,
 
 d) a komfort nélküli lakásé 35 Ft/m2.
 
-(2)[^167] A 28. § (5) bekezdés vagy a 30. § (5) bekezdés szerinti előzetes közigazgatási államtitkári engedély alapján bérbe adott lakás lakbére az (1) bekezdésben meghatározott összeg kétszerese.
+(2)[^188] A 28. § (5) bekezdés vagy a 30. § (5) bekezdés szerinti előzetes közigazgatási államtitkári engedély alapján bérbe adott lakás lakbére az (1) bekezdésben meghatározott összeg kétszerese.
 
-[^167]: A 81. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § i) pontja szerint módosított szöveg.
+[^188]: A 81. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § i) pontja szerint módosított szöveg.
