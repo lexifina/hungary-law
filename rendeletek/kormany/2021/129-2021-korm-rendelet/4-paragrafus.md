@@ -1,7 +1,3 @@
-## lép.
+## 3. §[^4]
 
-## 4. § Hatályát veszti az R.
-
-a) 1. § (2) és (3) bekezdése,
-
-b) 3., 4. és 5. alcíme.
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
