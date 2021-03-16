@@ -1,1 +1,3 @@
-## „(3) A fővárosi lakáselosztási tervet a fővárosi helyi lakásgazdálkodási szerv jóváhagyásra előterjeszti a közigazgatási államtitkárnak. A HM központi lakásgazdálkodási szerv – a lakásgazdálkodási érdekek figyelembevételével – év közben kiegészítő lakáselosztási terv készítését rendelheti el.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

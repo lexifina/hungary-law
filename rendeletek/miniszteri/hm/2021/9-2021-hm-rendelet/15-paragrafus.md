@@ -1,5 +1,3 @@
-## 14. § Az R1. 174. § (3) bekezdése a következő g) ponttal egészül ki:
+## 14. §[^15]
 
-## (A bérbeadó a szerződést akkor mondhatja fel, ha a bérlő:)
-
-## „g) az általa bérelt szállóférőhelyet életvitelszerűen nem használja.”
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

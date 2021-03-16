@@ -1,1 +1,3 @@
-## „(3) A (2) bekezdés c) pontja szerinti időtartam lejárta előtt benyújtott és a mulasztást kellőképpen megindokolt kérelemre a teljesítési határidő építés esetén két évvel, vásárlás esetén három hónappal hosszabbítható meg.”
+## 19. §[^20]
+
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

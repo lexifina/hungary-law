@@ -1,3 +1,3 @@
-## 12. § Az R1. 76. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 12. §[^13]
 
-## „(3) Nem adható hozzájárulás a határozott időtartamra vagy a 30. § (1) bekezdésétől eltérő lakásbérlet cseréjéhez.”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 10. § Az R1. 65. §-a a következő (5) bekezdéssel egészül ki:
+## 10. §[^11]
 
-## „(5) A (2) bekezdés b) pontja szerinti időtartam számítása szempontjából a fennálló lakásbérleti jogviszony és az azt közvetlenül megelőző bérleti időszak akkor számítható össze, ha a lakáscserére a bérbeadó érdekkörében felmerülő okból került sor.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

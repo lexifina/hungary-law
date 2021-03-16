@@ -1,1 +1,3 @@
-## „(6) A részleges lakásfelújítási átalány a nyílászárók, lakásberendezések felújítása és cseréje, a lakás tisztasági festése, tapétázása, mázolása, a parkettaburkolat védőkezelése, valamint a lakás takarítása számlával igazolt anyag- és díjköltségeinek részleges visszatérítésére szolgál a lakhatási támogatásokkal összefüggő feladatok ellátásáról szóló HM utasításban közzétett mértékig, amelyet a lakásbérleti jogviszony keletkezésétől számított egy éven belül lehet igényelni.”
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
