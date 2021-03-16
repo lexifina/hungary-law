@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-5-20-80
 | 2010-05-17 | 1997-5-20-80.6 | 21/2010. (V. 14.) NFGM rendelet |
 | 2012-11-01 | 1997-5-20-80.7 | 50/1999. (IX. 10.) GM rendelet |
 | 2015-06-17 | 1997-5-20-80.8 | 50/1999. (IX. 10.) GM rendelet |
+| 2021-03-16 | 1997-5-20-80.9 | 34/2021. (VII. 26.) ITM rendelet |
