@@ -18,7 +18,7 @@
 
 | 8. | Csongrád-Csanád Megyei Kormányhivatal | Csongrád-Csanád megye, Bács-Kiskun megye |
 
-3. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^94]
+3. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^97]
 
 ## A területi környezetvédelmi és természetvédelmi hatóságok különös illetékessége
 
@@ -44,4 +44,4 @@
 
 | 4. | Baranya Megyei Kormányhivatal | Kiemelt létesítményekkel kapcsolatos környezetvédelmi hatósági ügyek [az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló 15/2001. (VI. 6.) KöM rendelet 2. § i) pontja szerinti kiemelt létesítmények (atomerőmű, kísérleti és tanreaktor, uránbánya, radioaktív hulladéktároló, A-szintű izotóplaboratórium, kiégett fűtőelem-tároló)] |
 
-[^94]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet – a 31/2020. (II. 28.) Korm. rendelet 21. § (1) bekezdése szerint módosított – 141. § (8) bekezdés a) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^97]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet – a 31/2020. (II. 28.) Korm. rendelet 21. § (1) bekezdése szerint módosított – 141. § (8) bekezdés a) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 40. §[^89]
+## 40. §[^92]
 
-[^89]: A 40. §-t a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés i) pontja hatályon kívül helyezte.
+[^92]: A 40. §-t a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés i) pontja hatályon kívül helyezte.

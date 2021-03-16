@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^92]
+1. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^95]
 
 I. A nemzeti park igazgatóságok elnevezése és székhelye
 
@@ -650,4 +650,4 @@ Zalalövő
 
 települések közigazgatási területéből a Balaton-felvidéki Nemzeti Park Igazgatóság működési területén kívül eső területek.
 
-[^92]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 33. § a)–b) pontja, a 425/2020. (IX. 10.) Korm. rendelet 7. § d)–e) pontja szerint módosított szöveg.
+[^95]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 33. § a)–b) pontja, a 425/2020. (IX. 10.) Korm. rendelet 7. § d)–e) pontja szerint módosított szöveg.

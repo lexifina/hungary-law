@@ -96,7 +96,7 @@
 
 | 20. | Zala Megyei Kormányhivatal | a) a „10. Az ország többi területe” légszennyezettségi zónából Zala megye közigazgatási területe, b) a „11. Kijelölt városok” légszennyezettségi zónából Zalaegerszeg közigazgatási területe |
 
-5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^96]
+5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^99]
 
 I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban vizsgálandó szakkérdések
 
@@ -136,6 +136,8 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 | 17. | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg. | Természetes gyógytényezők, gyógyhelyek természeti adottságainak és az emberi használatra szolgáló felszíni vizek védelmére, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően. |
 
+| 18. | Minden esetben. | A hulladékképződés megelőzését szolgáló intézkedéseket, a hulladékkezelésre vonatkozó jogszabályi követelmények teljesítését, a hulladékgazdálkodási előírások alapján a technológiából származó környezetterhelések kockázatát, a tevékenység végzése során képződő hulladék elhelyezését, a hulladék kezelésének megfelelőségét, továbbá a hulladékgazdálkodásból eredő környezeti kockázatokat, valamint építésnél az építési és a bontási hulladékok kezelését. |
+
 II.
 
-[^96]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k)–l) pontja, a 677/2020. (XII. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^99]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k)–l) pontja, a 677/2020. (XII. 28.) Korm. rendelet 37. §-a, a 124/2021. (III. 12.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

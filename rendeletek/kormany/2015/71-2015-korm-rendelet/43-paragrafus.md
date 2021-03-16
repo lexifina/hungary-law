@@ -1,4 +1,4 @@
-## 42. §[^91]
+## 42. §[^94]
 
 ## 43. § Ez a rendelet
 
@@ -8,4 +8,4 @@ b) a természetes élőhelyek, valamint a vadon élő állatok és növények v�
 
 c) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelvnek
 
-[^91]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 147/2015. (VI. 12.) Korm. rendelet 11. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 141. § (9) bekezdés l) pontja.
+[^94]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 147/2015. (VI. 12.) Korm. rendelet 11. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 141. § (9) bekezdés l) pontja.

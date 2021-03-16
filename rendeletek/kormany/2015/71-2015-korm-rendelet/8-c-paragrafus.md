@@ -14,19 +14,19 @@ feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszter
 
 (2) A Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket az országos környezetvédelmi hatóság, valamint a területi környezetvédelmi hatóság
 
-a) hulladékgazdálkodási feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszterként a hulladékgazdálkodásért felelős miniszter,
+a)[^11]
 
 b) klímaváltozással kapcsolatos feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszterként az energiapolitikáért felelős miniszter
 
 gyakorolja.
 
-(3) Az országos környezetvédelmi és természetvédelmi hatóság, valamint a területi környezetvédelmi és természetvédelmi hatóság hatáskörébe tartozó közigazgatási hatósági ügyek vonatkozásában a Ksztv. 2. § (1) bekezdés e) és f) pontjában, valamint kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket a (4) bekezdés szerinti esetben a miniszter, a (6) bekezdés szerinti esetben a hulladékgazdálkodásért felelős miniszter gyakorolja.
+(3)[^12] Az országos környezetvédelmi és természetvédelmi hatóság, valamint a területi környezetvédelmi és természetvédelmi hatóság hatáskörébe tartozó közigazgatási hatósági ügyek vonatkozásában a Ksztv. 2. § (1) bekezdés e) és f) pontjában, valamint kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket a (4) bekezdés szerinti esetben a miniszter gyakorolja.
 
 (4) Az országos környezetvédelmi és természetvédelmi hatóság, valamint a területi környezetvédelmi és természetvédelmi hatóság hatáskörébe tartozó közigazgatási hatósági ügyek vonatkozásában az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti jogköröket – a (6) bekezdésben foglalt kivétellel – a miniszter gyakorolja.
 
 (5) Ha az országos környezetvédelmi és természetvédelmi hatóság, valamint a területi környezetvédelmi és természetvédelmi hatóság olyan döntésével szemben kerül sor a (4) bekezdés szerinti felügyeleti eljárás lefolytatására, amely
 
-a) hulladékgazdálkodással kapcsolatos megállapítást is tartalmaz, a miniszter beszerzi a hulladékgazdálkodásért felelős miniszter,
+a)[^13]
 
 b) klímavédelemmel kapcsolatos megállapítást is tartalmaz, a miniszter beszerzi az energiapolitikáért felelős miniszter,
 
@@ -36,9 +36,13 @@ d) vízvédelemmel kapcsolatos megállapítást is tartalmaz, a miniszter beszer
 
 véleményét.
 
-(6) Hulladékgazdálkodási tevékenységekkel kapcsolatos közigazgatási hatósági ügyekben az országos környezetvédelmi hatóság és a területi környezetvédelmi hatóság felügyeleti szerve a hulladékgazdálkodásért felelős miniszter.
+(6)[^14]
 
 (7) A miniszter az Országos Légszennyezettségi Mérőhálózat szakszerűségi ellenőrzéséhez az Országos Meteorológiai Szolgálatot (a továbbiakban: OMSZ) közreműködőként veheti igénybe.
 
 [^9]: A 4/C. alcímet (8/C. §) a 473/2016. (XII. 27.) Korm. rendelet 15. § (1) bekezdése iktatta be.
 [^10]: A 8/C. § a 425/2020. (IX. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^11]: A 8/C. § (2) bekezdés a) pontját a 124/2021. (III. 12.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^12]: A 8/C. § (3) bekezdése a 124/2021. (III. 12.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^13]: A 8/C. § (5) bekezdés a) pontját a 124/2021. (III. 12.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^14]: A 8/C. § (6) bekezdését a 124/2021. (III. 12.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
