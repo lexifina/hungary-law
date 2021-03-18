@@ -1,1 +1,0 @@
-A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
