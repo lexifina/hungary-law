@@ -33,3 +33,22 @@
 15. D12S391
 
 16. D22S1045
+
+17.[^9] D5S818
+
+18.[^10] D13S317
+
+19.[^11] D7S820
+
+20.[^12] TPOX
+
+21.[^13] CSF1PO
+
+22.[^14] SE33
+
+[^9]: A 6. melléklet 17. pontját a 8/2021. (III. 17.) BM rendelet 24. § a) pontja iktatta be. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^10]: A 6. melléklet 18. pontját a 8/2021. (III. 17.) BM rendelet 24. § a) pontja iktatta be. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^11]: A 6. melléklet 19. pontját a 8/2021. (III. 17.) BM rendelet 24. § a) pontja iktatta be. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^12]: A 6. melléklet 20. pontját a 8/2021. (III. 17.) BM rendelet 24. § a) pontja iktatta be. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^13]: A 6. melléklet 21. pontját a 8/2021. (III. 17.) BM rendelet 24. § a) pontja iktatta be. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^14]: A 6. melléklet 22. pontját a 8/2021. (III. 17.) BM rendelet 24. § a) pontja iktatta be. Alkalmazására lásd e módosító rendelet 23. §-át.

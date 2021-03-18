@@ -1,4 +1,4 @@
-## 27. §[^2]
+## 27. §[^4]
 
 1. melléklet a 12/2016. (V. 4.) BM rendelethez
 
@@ -24,4 +24,4 @@
 
 10. A rögzített arcképmásnak a képmező közepében kell elhelyezkedni, a képen a fej és az azonosító tábla töltse ki az egész képmezőt úgy, hogy a fejtető a kép felső szélére, az azonosító tábla alsó széle a képmező alsó szélére illesztve helyezkedjen el.
 
-[^2]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
