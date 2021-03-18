@@ -174,6 +174,8 @@
 
 | 34. | NEOEMKI Nemzeti Orvostechnikai Eszköz Megfelelőségértékelő és Tanúsító Korlátolt Felelősségű Társaság | 01-09-357519 | 2022. december 31. |
 
+| 35. | Magyar Házak Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014103 | 2022. december 31. |
+
 ## V. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
 |  | A | B | C |
@@ -284,7 +286,7 @@
 
 | 3. | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2022. december 31. |
 
-| 4. | Magyar Házak Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014103 | 2022. december 31. |
+| 4. |  |  |  |
 
 | 5. |  |  |  |
 
