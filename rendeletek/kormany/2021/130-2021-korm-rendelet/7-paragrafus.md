@@ -1,0 +1,1 @@
+## 6. § Az 1. § (1) bekezdése szerinti ingatlanokon – az egyedileg védett műemlék kivételével – bontási tevékenység bontási engedély nélkül végezhető azzal, hogy a tevékenység végzéséről elektronikus építési naplót kell vezetni.
