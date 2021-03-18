@@ -1,4 +1,4 @@
-13. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^145]
+13. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^152]
 
 A kibocsátások jelentésére vonatkozó előírások
 
@@ -48,7 +48,7 @@ A kibocsátások jelentésére vonatkozó előírások
 
 |  | 4 | – As, Cr, Cu, Ni, Se, Zn, valamint ezek vegyületei; – TSP | Évenként, 1990-től (TSP esetén 2000-től) a jelentéstételi év előtti 2. évig (X–2) |
 
-2.2. A természetes kibocsátásokat az LRTAP egyezményhez kapcsolódó, a savasodás, az eutrofizáció és a talaj közeli ózon csökkentését előíró Göteborgi Jegyzőkönyv kihirdetéséről szóló kormányrendelettel és a Magyar Köztársaságnak az Európai Környezetvédelmi Ügynökségben és az Európai Környezeti Tájékoztató és Megfigyelő Hálózatban való részvételéről szóló Megállapodás kihirdetéséről szóló törvény által meghivatkozott útmutatókban meghatározott módszereknek megfelelően kell jelenteni.
+2.2. A természetes kibocsátásokat az LRTAP Egyezményben, valamint a légszennyezőanyagok emissziókataszterére vonatkozó EMEP/EKÜ útmutatóban meghatározott módszerekkel összhangban kell jelenteni.
 
 2.3. A természetes kibocsátásokról külön jelentés készül, azokat az országos összkibocsátás-számításánál nem kell figyelembe venni.
 
@@ -76,4 +76,4 @@ A kibocsátások jelentésére vonatkozó előírások
 
 |  | 2 | Tájékoztató kataszterjelentés | – SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10; – Cd, Hg, Pb és korom; – POP-ok, összes PAH, dioxinok/furánok, PCB-k, HCB; – As, Cr, Cu, Ni, Se, Zn, valamint ezek vegyületei és TSP | évente | március 15. |
 
-[^145]: A 13. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § d) pontja iktatta be.
+[^152]: A 13. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § d) pontja iktatta be, szövege a 122/2021. (III. 10.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

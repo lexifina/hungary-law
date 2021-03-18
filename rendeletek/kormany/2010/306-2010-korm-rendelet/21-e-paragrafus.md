@@ -2,8 +2,11 @@
 
 ## 21/E. § Az országos légszennyezőanyag kibocsátás-csökkentési kötelezettség legfeljebb három éven keresztül teljesül, ha
 
-a) az érintett szennyezőanyagra vonatkozó kibocsátás-csökkentési kötelezettség nem teljesítésének oka a villamosenergia- vagy hőszolgáltatásban vagy -termelésben bekövetkezett, előre nem látható üzemzavar vagy kapacitáskiesés, és
+a)[^58] az érintett szennyezőanyagra vonatkozó kibocsátás-csökkentési kötelezettség nem teljesítésének oka a villamosenergia- vagy hőszolgáltatásban vagy -termelésben bekövetkezett, előre nem látható hirtelen és rendkívüli üzemzavar vagy kapacitáskiesés, és
 
-b) a kötelezettség teljesítése érdekében minden lehetséges költséghatékony intézkedés megtörtént, valamint a villamosenergia- vagy hőszolgáltatásért vagy -termelésért felelős döntéshozók további intézkedéseket tesznek a kötelezettség lehető legrövidebb időn belüli teljesítéséhez, és
+b)[^59] igazolható, hogy a kötelezettség teljesítése érdekében minden lehetséges költséghatékony intézkedés megtörtént, valamint az energiapolitikáért, a villamosenergia- vagy hőszolgáltatásért vagy -termelésért felelős döntéshozók további szakpolitikai lépéseket és gyakorlati intézkedéseket határoznak meg és hajtatnak végre a kötelezettség lehető legrövidebb időn belüli teljesítéséhez, és
 
 c) a megtett és tervezett intézkedéseken kívüli további intézkedés vagy szakpolitikai előírás aránytalanul nagy költséggel járna, és súlyosan veszélyeztetné Magyarország energiabiztonságát, vagy a lakosság nagy részénél növelné az energiaszegénység kockázatát.
+
+[^58]: A 21/E. § a) pontja a 122/2021. (III. 10.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^59]: A 21/E. § b) pontja a 122/2021. (III. 10.) Korm. rendelet 2. §-ával megállapított szöveg.

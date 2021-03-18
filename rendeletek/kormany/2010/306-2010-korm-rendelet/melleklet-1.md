@@ -1,4 +1,4 @@
-1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^125]
+1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^131]
 
 ## A levegőminőségi terv tartalmi követelményei
 
@@ -74,7 +74,7 @@
 
 12.3. a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet,
 
-12.4.[^126] a 2016/1628 európai parlamenti és tanácsi rendelet,
+12.4.[^132] a 2016/1628 európai parlamenti és tanácsi rendelet,
 
 12.5. a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendelet,
 
@@ -92,7 +92,7 @@
 
 12.12. a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról, a távhőszolgáltatásról szóló törvény végrehajtásáról és az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletek,
 
-12.13.[^127] a 140 kWth és annál nagyobb, de 50 MWth-nál kisebb teljes névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló miniszteri rendelet.
+12.13.[^133] a 140 kWth és annál nagyobb, de 50 MWth-nál kisebb teljes névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló miniszteri rendelet.
 
 13. A levegőszennyezés csökkentését célzó alábbi intézkedések megnevezése:
 
@@ -128,6 +128,6 @@
 
 14.2.3. alacsony kibocsátású tüzelőanyagok mozgó források számára.
 
-[^125]: Az 1. melléklet a 292/2015. (X. 8.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^126]: Az 1. melléklet 12.4. pontja a 174/2019. (VII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^127]: Az 1. melléklet 12.13. pontját a 158/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^131]: Az 1. melléklet a 292/2015. (X. 8.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^132]: Az 1. melléklet 12.4. pontja a 174/2019. (VII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^133]: Az 1. melléklet 12.13. pontját a 158/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése iktatta be.

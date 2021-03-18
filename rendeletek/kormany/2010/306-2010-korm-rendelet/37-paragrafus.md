@@ -1,4 +1,4 @@
-## 36/B. §[^109] A területi környezetvédelmi hatóság az e rendelet szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
+## 36/B. §[^115] A területi környezetvédelmi hatóság az e rendelet szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
 
 ## IV. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## 23. Hatályba léptető rendelkezések
 
-[^109]: A 36/B. §-t a 668/2020. (XII. 28.) Korm. rendelet 27. §-a iktatta be.
+[^115]: A 36/B. §-t a 668/2020. (XII. 28.) Korm. rendelet 27. §-a iktatta be.
