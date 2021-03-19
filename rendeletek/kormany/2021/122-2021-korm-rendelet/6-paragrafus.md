@@ -1,7 +1,3 @@
-## lép.
+## 5. §[^6]
 
-## 6. § Az R.
-
-a) 11. melléklete az 1. melléklet,
-
-b) 13. melléklete a 2. melléklet
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
