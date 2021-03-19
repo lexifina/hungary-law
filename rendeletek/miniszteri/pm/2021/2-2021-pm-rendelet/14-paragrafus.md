@@ -1,0 +1,1 @@
+14. § A szolgáltató a valós idejű ügyfél-átvilágítás rendszerét úgy alakítja ki, hogy azt a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékos személy is igénybe tudja venni.
