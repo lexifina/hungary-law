@@ -58,6 +58,6 @@
 
 | (a szervezet felelős vezetője) |
 
-6. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^89]
+6. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^90]
 
-[^89]: A 6. mellékletet a 80/2018. (IV. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^90]: A 6. mellékletet a 80/2018. (IV. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.
