@@ -1,4 +1,4 @@
-## 12. § A kereskedelmi hatóság a szolgáltató által alkalmazott egyszerűsített és fokozott ügyfél-átvilágítás esetköreit a Pmt. szerinti belső szabályzat részeként hagyja jóvá.
+## 12. §[^14] A kereskedelmi hatóság a szolgáltató által alkalmazott egyszerűsített és fokozott ügyfél-átvilágítás esetköreit a belső szabályzat részeként hagyja jóvá.
 
 ## 4. A megerősített eljárás esetkörei és feltételrendszere
 
@@ -13,3 +13,5 @@ c) stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harma
 d) stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országban lakóhellyel rendelkező tényleges tulajdonos.
 
 (2) A szolgáltató belső kockázatértékelése alapján a belső szabályzatában határozza meg, hogy a Pmt.-ben és az e rendeletben meghatározottakon kívül mely esetekben alkalmaz megerősített eljárást.
+
+[^14]: A 12. § a 3/2021. (II. 2.) PM rendelet 10. §-ával megállapított szöveg.

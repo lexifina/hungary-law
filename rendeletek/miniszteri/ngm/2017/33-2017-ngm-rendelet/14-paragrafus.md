@@ -14,7 +14,7 @@ b) az ügyfélhez kötődő üzleti kapcsolatok számának és időzítésének 
 
 c) további vizsgálatok céljából ügylet kiválasztása.
 
-(2) Húszmillió forintot meghaladó ügyleti megbízás, valamint a kockázatértékelésben magas kockázatúnak minősített esetekben a szolgáltató nyilatkoztatja az ügyfelet a pénzeszköz forrásáról.
+(2)[^15] A kockázatértékelésben magas kockázatúnak minősített esetekben a szolgáltató nyilatkoztatja az ügyfelet a pénzeszköz forrásáról, valamint ezen információk igazoló ellenőrzése érdekében kéri a pénzeszközök forrására vonatkozó dokumentumok bemutatását is.
 
 (3) Ha pénzmosás vagy terrorizmus finanszírozásának gyanúja merül fel, a szolgáltató az ügyfél azonosítását szolgáló iratok hiteles másolatát bekéri az ügyféltől.
 
@@ -25,3 +25,5 @@ c) további vizsgálatok céljából ügylet kiválasztása.
 (6) Összetett egy tranzakció, ha az ügyfél korábbi tevékenységéhez képest eltér az alkalmazott tranzakcióformáktól, bonyolult, nehezen átlátható és áttekinthető folyamatokon, résztvevőkön keresztül valósul meg.
 
 (7) A megerősített eljárás alkalmazása során a szolgáltató csak a Pmt., valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény (a továbbiakban: Kit.) által meghatározott további adatokat kérhet az ügyféltől.
+
+[^15]: A 14. § (2) bekezdése a 3/2021. (II. 2.) PM rendelet 11. §-ával megállapított szöveg.
