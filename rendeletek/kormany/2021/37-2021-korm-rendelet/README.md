@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-37-20-2
 | 2021-02-04 | 2021-37-20-22.2 | 2010: CXXX. törvény |
 | 2021-02-17 | 2021-37-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-02-18 | 2021-37-20-22.4 | 2010: CXXX. törvény |
+| 2021-03-19 | 2021-37-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
