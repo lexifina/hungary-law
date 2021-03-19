@@ -1,1 +1,3 @@
-## 3. § Az R. 1. §-ában a „2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény” szövegrész helyébe a „2021. évi központi költségvetéséről szóló 2020. évi XC. törvény” szöveg lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
