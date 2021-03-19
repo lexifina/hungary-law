@@ -1,0 +1,15 @@
+## 1. jóváhagyja a projektjavaslat Európai Hálózatfinanszírozási Eszköz 2020. évi pályázati kiírására történő benyújtását, az 1. melléklet szerint;
+
+## 2. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. melléklet szerinti projektjavaslat vonatkozásában gondoskodjon az Európai Hálózatfinanszírozási Eszköz létrehozásáról, a 913/2010/EU rendelet módosításáról és a 680/2007/EK és 67/2010/EK rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1316/2013/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdése szerinti tagállami hozzájáruló nyilatkozatok kiállításáról.
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2021. március 22.
+
+1. melléklet az 1131/2021. (III. 19.) Korm. határozathoz
+
+| Sor- szám | A | B | C | D | E | F | G | H | I |
+
+| 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Támogatást igénylő neve | Projektjavaslat tervezett költsége (nettó, Ft) | Projektjavaslat tervezett összköltsége (bruttó, Ft) | Európai Hálózat- finanszírozási Eszköz terhére biztosítandó támogatás tervezett összege (nettó, Ft) | Hazai költségvetési támogatás tervezett összege (Ft) | Saját erő (Ft) | Projektjavaslat rövid bemutatása |
+
+| 2. | Európai Hálózat- finanszírozási Eszköz | A Csepeli Gerincút befejező ütemeinek teljes előkészítése a szükséges területszerzés megkezdésével | Budapest Főváros Önkormányzata, Budapesti Közlekedési Központ Zrt. | 900 000 000 | 1 143 000 000 | 765 000 000 | 0 | 378 000 000 | Az előkészítési projekt célja a Csepeli Gerincút megvalósításához szükséges engedélyezési és területszerzési feladatok elvégzése. A Csepeli Gerincút fejlesztése a Budapesti Mobilitási Tervben foglaltak alapján kiemelt jelentőségű feladat. 10 évvel ezelőtt már születtek tanulmánytervek, viszont forrás hiányában a projekt továbbtervezése nem valósulhatott meg. A Teller Ede út (Csepeli Gerincút első szakasza) 2012-ben elkészült (a Weiss Manfréd út és a Posztógyár utca között), amelynek folytatása lenne jelen projektjavaslatban tárgyalt befejező szakasz (a Posztógyár utca és az M0 autóút között). Forgalombiztonsági szempontból a jelenlegi II. Rákóczi Ferenc úton zajló nagy intenzitású forgalom igen kedvezőtlen (magas nehéztehergépjármű-aránnyal), amit időszakosan tovább ront a csepeli temető személy- és gépjárműforgalma. Ez nagymértékben javulna a gerincút további szakaszainak megépítésével, amely által a tranzitforgalom megszűnik a városi, lakott területen áthaladó útszakaszokon. A tendereljárás eredményesen zárult, a tervezésre vonatkozó keretmegállapodás aláírása 2020. március 25. napján megtörtént, a projekt teljes körű finanszírozására Budapest Főváros Önkormányzatának nincs forrása, ezért az egyedi szerződések lehívása nem történt meg. (A városhatáron kívüli tervezési terület Fővárosi Önkormányzat által történő finanszírozása így is kérdéses.) A CEF esetében az elszámolhatóság alapja a TEN-T törzshálózat részét képező csepeli kikötő és az M0 TEN-T közúti törzshálózati folyosó összeköttetésének kiépítése. A Fővárosi Önkormányzat vezető pályázóként, a BKK Zrt. megvalósítóként vesz részt a projektben. |
