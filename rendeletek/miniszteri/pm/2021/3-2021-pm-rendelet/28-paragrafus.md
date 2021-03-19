@@ -1,0 +1,1 @@
+## „(7) A szűrés eredményeképpen egyezéssel érintett ügyfél, ügylet pénzmosás és terrorizmus finanszírozása szempontjából történő elemzését és értékelését a szolgáltató haladéktalanul végrehajtja, és hiteles, visszakereshető módon dokumentálja.”
