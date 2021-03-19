@@ -1,4 +1,4 @@
-## lép.
+## 25. §[^2]
 
 1. melléklet a 8/2021. (III. 17.) BM rendelethez
 
@@ -27,3 +27,5 @@
 11. A tenyérnyomat felvételét hengerrel kell végrehajtani úgy, hogy a bőrfodorszál-rajzolatok, valamint a tenyér minden része – így a hüvelykujjpárna, a kisujjpárna, a csukló feletti rész, az ujjak alatti rész, valamint a tenyér közepe is – jól látható legyen.
 
 12. A digitális nyomatfelvételi berendezéssel rögzített ujj- és tenyérnyomat a berendezés használati utasításában leírtaknak megfelelően készül.
+
+[^2]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
