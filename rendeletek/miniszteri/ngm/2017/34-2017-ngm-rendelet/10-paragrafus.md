@@ -2,7 +2,7 @@
 
 ## 6. Az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményei, az auditálás módja, az elektronikus hírközlő eszköz útján végzett ügyfél-átvilágítás végrehajtása
 
-10. § (1) Az auditált elektronikus hírközlő eszköznek alkalmasnak kell lennie a Pmt. 7. § (2)–(3) és (5) bekezdésében, 8. § (1)–(3) bekezdésében, 10. § (1)–(2) bekezdésében, 15. § (1) bekezdésében, 17. § (3)–(4) bekezdésében és 19. § (1) bekezdésében meghatározott intézkedéseknek legalább a személyes megjelenéssel történő ügyfél-átvilágítás biztonsági szintjével megegyező biztonsági szint biztosításával történő végrehajtására.
+10. § (1)[^9] Az auditált elektronikus hírközlő eszköznek alkalmasnak kell lennie a szolgáltató által végrehajtott ügyfél-átvilágítási intézkedéseknek legalább a személyes megjelenéssel történő ügyfél-átvilágítás biztonsági szintjével megegyező biztonsági szint biztosításával történő elvégzésére.
 
 (2) Az elektronikus hírközlő eszköz akkor auditálható és működtethető, ha legalább az alábbi informatikai biztonsági követelményeknek megfelel:
 
@@ -59,3 +59,5 @@ fd) az Információbiztonsági irányítási rendszerekre vonatkozó ISO/IEC 270
 ## képesítéssel és minősítéssel, valamint
 
 g) az ügyfél kérésére az ügyfél számára lehetővé tegye az azonosításával, hitelesítésével és a nyilatkozatával kapcsolatos adatoknak az adatkezelés céljának megfelelő ideig történő tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
+
+[^9]: A 10. § (1) bekezdése a 3/2021. (II. 2.) PM rendelet 23. §-ával megállapított szöveg.
