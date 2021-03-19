@@ -1,0 +1,1 @@
+## 6. § Az 1. § d) pontja szerinti fokozott ügyfél-átvilágítás esetköreit és belső eljárási rendjét – ha jogszabály másként nem rendelkezik – a szolgáltató legalább a 2. mellékletben felsorolt, magasabb kockázatra vonatkozó tényezők alapján határozza meg.

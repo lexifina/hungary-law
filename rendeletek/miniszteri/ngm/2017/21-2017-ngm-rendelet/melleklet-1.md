@@ -1,4 +1,4 @@
-## 8. § Ez a rendelet a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i 2015/849 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## való megfelelést szolgálja.
 
 1. melléklet a 21/2017. (VIII. 3.) NGM rendelethez
 
@@ -24,7 +24,7 @@
 
 2.5. olyan termékek, amelyek esetében a pénzmosással és a terrorizmus finanszírozásával kapcsolatos kockázatot egyéb intézkedések, például az elektronikus pénzeszközök korlátozása vagy a tulajdonlás átláthatósága révén kezelik (például az egyes elektronikuspénz-típusok).
 
-3. Földrajzi kockázati tényezők:
+3.[^7] Földrajzi kockázati tényezők az ügyfél székhelye, fióktelepe vagy telephelye, továbbá lakóhelye vagy tartózkodási helye tekintetében:
 
 3.1. az Európai Unió tagállamai;
 
@@ -33,3 +33,5 @@
 3.3. olyan harmadik országok, amelyekben – legalább a Világbank országok kormányzati rendszereit értékelő indexe, illetve egyéb források, különös tekintettel a nemzetközi szervezetek által elfogadott értékelő jelentések alapján – alacsony szintű a korrupció vagy alacsony a más büntetendő cselekmények száma;
 
 3.4. olyan harmadik országok, amelyeknek a pénzmosás és a terrorizmus finanszírozása elleni küzdelemmel kapcsolatos előírásai összhangban vannak a felülvizsgált FATF-ajánlásokkal, és hatékonyan alkalmazzák ezeket az előírásokat.
+
+[^7]: Az 1. melléklet 3. pont nyitó szövegrésze a 3/2021. (II. 2.) PM rendelet 5. §-ával megállapított szöveg.
