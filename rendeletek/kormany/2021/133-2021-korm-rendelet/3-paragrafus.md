@@ -1,0 +1,9 @@
+## 2. § A védelmi intézkedések ideiglenes szigorításáról szóló 104/2021. (III. 5.) Korm. rendelet 14. § a) pontja helyébe a következő rendelkezés lép:
+
+## (E rendelet)
+
+## „a) 2. alcímét, 3. alcímét, 5. alcímét, 8. alcímét és 9. alcímét 2021. március 29. napjáig,”
+
+## (lehet alkalmazni.)
+
+## 3. A veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet alkalmazhatóságának a meghosszabbítása
