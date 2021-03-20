@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-407-20-
 | 2021-01-31 | 2020-407-20-22.6 | 29/2021. (I. 29.) Korm. rendelet |
 | 2021-02-28 | 2020-407-20-22.7 | 87/2021. (II. 27.) Korm. rendelet |
 | 2021-03-08 | 2020-407-20-22.8 | 104/2021. (III. 5.) Korm. rendelet |
+| 2021-03-20 | 2020-407-20-22.9 | 133/2021. (III. 19.) Korm. rendelet |
