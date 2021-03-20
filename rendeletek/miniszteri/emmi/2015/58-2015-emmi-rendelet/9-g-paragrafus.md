@@ -12,6 +12,6 @@ b) visszafizetési mechanizmus alkalmazásával utólag kell levonni az elszámo
 
 (5) A (3) bekezdésben meghatározottak teljesítése – a (4) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
-(6)[^28] A 2 millió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
+(6)[^31] A 2 millió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
 
-[^28]: A 9/G. § (6) bekezdése a 48/2018. (XII. 27.) EMMI rendelet 11. § f) pontja szerint módosított szöveg.
+[^31]: A 9/G. § (6) bekezdése a 48/2018. (XII. 27.) EMMI rendelet 11. § f) pontja szerint módosított szöveg.

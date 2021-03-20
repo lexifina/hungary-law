@@ -1,8 +1,5 @@
-## 15. §[^38]
+1. melléklet az 58/2015. (XII. 30.) EMMI rendelethez[^44]
 
-1. melléklet az 58/2015. (XII. 30.) EMMI rendelethez[^39]
+A XX. Emberi Erőforrások Minisztériuma fejezet fejezeti kezelésű kiadási előirányzatainak feladatterve
 
-XX. Emberi Erőforrások Minisztériuma 2020. évi fejezeti kezelésű kiadási előirányzatainak feladatterve
-
-[^38]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: Az 1. melléklet a 44/2020. (XII. 8.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^44]: Az 1. melléklet a 12/2021. (III. 17.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
