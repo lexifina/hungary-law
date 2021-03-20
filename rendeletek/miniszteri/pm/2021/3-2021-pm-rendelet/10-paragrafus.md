@@ -1,5 +1,3 @@
-## 9. § A 33/2017. (X. 26.) NGM rendelet 3. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+## 9. §[^10]
 
-## „(1) Az ügyfél-azonosítási kötelezettség végrehajtása érdekében a Pmt. 14. § (4) bekezdése értelmében a háromszázezer forintot elérő vagy meghaladó összegű, valamint a négymillió-ötszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor rögzített adatok kezelése során úgy kell eljárni, hogy azok a további azonosítás során a nemesfémmel kereskedő ügyfél-átvilágításban közreműködő vezető tisztségviselője, foglalkoztatottja vagy segítő családtagja (a továbbiakban együtt: foglalkoztatott) részére elérhetőek legyenek.
-
-## (2) Az ügyfél-azonosítási kötelezettség végrehajtása érdekében a Pmt. 14. § (4) bekezdése értelmében háromszázezer forintot elérő vagy meghaladó összegű, valamint a hárommillió forintot elérő vagy meghaladó összegű készpénzes ügyleti megbízás teljesítésekor rögzített adatok kezelése során úgy kell eljárni, hogy azok a további azonosítás során az árukereskedő ügyfél-átvilágításban közreműködő foglalkoztatottja részére elérhetőek legyenek.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

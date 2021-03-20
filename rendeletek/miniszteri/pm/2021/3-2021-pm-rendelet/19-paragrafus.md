@@ -1,1 +1,3 @@
-## „(1a) A szolgáltató a kockázati tényezőket legalább az ügyfél személyéhez, az adott szerencsejáték fajtájához és azon belül az egyes szerencsejáték-termékekhez, a szolgáltatási csatornához – különös tekintettel az online vagy offline szolgáltatásnyújtásra és közvetítő igénybevételére –, valamint az ügyfél lakó- vagy tartózkodási helyéhez kapcsolódó kockázati csoportokba sorolja. A szolgáltató a kockázati tényezőket alacsony, átlagos és magas kockázati szintekbe sorolja.”
+## 18. §[^19]
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

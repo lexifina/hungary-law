@@ -1,1 +1,3 @@
-## „(4) A szolgáltató a belső kockázatértékelése alapján a meghatározott kockázatok csökkentésére és kezelésére vonatkozó eljárásrendet a belső szabályzatában határozza meg. A szolgáltató belső szabályzatában rögzíti, hogy mely esetben kér be az ügyféltől a pénzügyi eszköz forrására vonatkozó információt, mikor alkalmaz megerősített eljárást, és milyen időszakonként vizsgálja felül az általa beszerzett ügyfél-átvilágítási adatot.”
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

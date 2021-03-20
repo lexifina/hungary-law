@@ -1,1 +1,3 @@
-## „(7) A szűrés eredményeképpen egyezéssel érintett ügyfél, ügylet pénzmosás és terrorizmus finanszírozása szempontjából történő elemzését és értékelését a szolgáltató haladéktalanul végrehajtja, és hiteles, visszakereshető módon dokumentálja.”
+## 27. §[^28]
+
+[^28]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

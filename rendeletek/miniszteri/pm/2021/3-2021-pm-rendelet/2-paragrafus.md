@@ -1,3 +1,3 @@
-## „o) a speciális ügyfél-átvilágítás esetkörei és belső eljárási rendje;
+## 1. §[^2]
 
-## p) a pénzeszközök és a vagyon forrására vonatkozó információk beszerzésének és igazolásának belső eljárási rendje.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

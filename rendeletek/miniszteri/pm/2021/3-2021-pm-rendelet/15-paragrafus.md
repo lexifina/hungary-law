@@ -1,5 +1,3 @@
-## 14. § A 33/2017. (X. 26.) NGM rendelet 19. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 14. §[^15]
 
-## (Az ügyleti megbízás teljesítéséhez a belső szabályzatban meghatározott vezető jóváhagyása szükséges, ha)
-
-## „b) az ügyleti megbízás ellenértéke vagy annak készpénzes része a húszmillió forintot eléri vagy meghaladja, valamint”
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

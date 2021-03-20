@@ -1,1 +1,3 @@
-## „(1a) Pénzmosásra, terrorizmus finanszírozására vagy pénzeszköz büntetendő cselekményből való származására utaló adat, tény, körülmény felmerülése esetén a szolgáltató – kockázatérzékenységi alapon – kéri az ügyféltől a pénzeszközök forrására vonatkozó információk rendelkezésre bocsátását és ezen információk igazoló ellenőrzése érdekében a pénzeszközök forrására vonatkozó dokumentumok bemutatását.”
+## 22. §[^23]
+
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

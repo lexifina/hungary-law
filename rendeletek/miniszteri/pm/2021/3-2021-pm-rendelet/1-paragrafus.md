@@ -1,11 +1,1 @@
 ## 1. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény alapján elkészítendő belső szabályzat kötelező tartalmi elemeiről szóló 21/2017. (VIII. 3.) NGM rendelet módosítása
-
-1. § (1) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény alapján elkészítendő belső szabályzat kötelező tartalmi elemeiről szóló 21/2017. (VIII. 3.) NGM rendelet [a továbbiakban: 21/2017. (VIII. 3.) NGM rendelet] 1. § b) pontja helyébe a következő rendelkezés lép:
-
-[A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben (a továbbiakban: Pmt.) meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a szolgáltató által elkészítendő, a Pmt. 65. § (1) bekezdése szerinti belső szabályzat kötelező tartalmi elemei a következők:]
-
-## „b) az ügyfél azonosításának, üzleti kapcsolat létesítése esetén az ügyfél kockázati szintbe történő besorolásának, a személyazonosság igazoló ellenőrzésének, a tényleges tulajdonos azonosításának, az üzleti kapcsolat célját és tervezett jellegét feltáró tevékenységnek, illetve az üzleti kapcsolat folyamatos figyelemmel kísérésének, ennek során az ügyfél kockázati szintje ellenőrzésének és a kockázati szint változása esetén megteendő intézkedéseknek, valamint az üzleti kapcsolatra vonatkozó adatok, okiratok naprakészen tartásának (a továbbiakban együtt: ügyfél-átvilágítás) belső eljárási rendje,”
-
-(2) A 21/2017. (VIII. 3.) NGM rendelet 1. §-a a következő o) és p) ponttal egészül ki:
-
-[A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben (a továbbiakban: Pmt.) meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a szolgáltató által elkészítendő, a Pmt. 65. § (1) bekezdése szerinti belső szabályzat kötelező tartalmi elemei a következők:]
