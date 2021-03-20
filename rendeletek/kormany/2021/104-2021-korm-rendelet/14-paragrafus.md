@@ -4,6 +4,8 @@
 
 ## 14. § E rendelet
 
-a) 2. alcímét, 3. alcímét, 5. alcímét, 8. alcímét és 9. alcímét 2021. március 22. napjáig,
+a)[^2] 2. alcímét, 3. alcímét, 5. alcímét, 8. alcímét és 9. alcímét 2021. március 29. napjáig,
 
 b) 7. alcímét 2021. április 7. napjáig
+
+[^2]: A 14. § a) pontja a 133/2021. (III. 19.) Korm. rendelet 2. §-ával megállapított szöveg.

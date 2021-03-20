@@ -1,3 +1,3 @@
-## 16. §[^2]
+## 16. §[^3]
 
-[^2]: A 16. § a 15. § (2) bekezdése alapján 2021. március 22-én lép hatályba.
+[^3]: A 16. § a 15. § (2) bekezdése alapján 2021. március 22-én lép hatályba.
