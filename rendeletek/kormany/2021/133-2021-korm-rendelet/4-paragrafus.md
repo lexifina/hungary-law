@@ -1,5 +1,5 @@
-## 3. § A veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet 28. §-a helyébe a következő rendelkezés lép:
-
-## „28. § E rendelet rendelkezéseit 2021. március 29-ig lehet alkalmazni.”
+## 3. §[^3]
 
 ## 4. A határellenőrzés ideiglenes visszaállításáról szóló 407/2020. (VIII. 30.) Korm. rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
