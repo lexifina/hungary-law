@@ -1,0 +1,1 @@
+## 13. § A vízilétesítmény üzemeltetőjére kiszabható halvédelmi bírság mértéke, ha a vízilétesítmény üzemeltetője a Hhvtv. 19. § (1) vagy (3) bekezdésében foglaltaknak ismétlődő jelleggel nem tesz eleget és emiatt jelentős halpusztulás következik be: 50 000–500 000 forint.

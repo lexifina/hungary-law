@@ -4,4 +4,6 @@ a) horgászat esetén: 10 000–50 000 forint,
 
 b) rekreációs célú halászat esetén: 10 000–50 000 forint,
 
-c) kereskedelmi, továbbá ökológiai célú szelektív halászat esetén: 20 000–100 000 forint.
+c)[^9] ökológiai célú szelektív halászat esetén: 20 000–100 000 forint.
+
+[^9]: A 3. § c) pontja a 110/2021. (III. 5.) Korm. rendelet 11. §-a szerint módosított szöveg.

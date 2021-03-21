@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-314-20-
 | 2015-01-12 | 2014-314-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-08-23 | 2014-314-20-22.4 | 223/2015. (VIII. 7.) Korm. rendelet |
 | 2017-09-29 | 2014-314-20-22.5 | 271/2017. (IX. 13.) Korm. rendelet |
+| 2021-03-21 | 2014-314-20-22.6 | 110/2021. (III. 5.) Korm. rendelet |
