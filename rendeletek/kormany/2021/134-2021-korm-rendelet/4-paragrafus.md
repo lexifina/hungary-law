@@ -1,1 +1,3 @@
-## 3. § Az R. 3. § (2) bekezdésében az „A Beruházásokkal összefüggésben” szövegrész helyébe az „A 2. mellékletben foglalt táblázat 4., 5. és 6. sora szerinti beruházás kivételével a Beruházásokkal összefüggésben” szöveg lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
