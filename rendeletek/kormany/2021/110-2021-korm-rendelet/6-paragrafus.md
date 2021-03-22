@@ -1,7 +1,3 @@
-## 5. § A 314/2014. (XII. 12.) Korm. rendelet a következő 9/A. §-sal egészül ki:
+## 5. §[^5]
 
-## „9/A. § Halfogásra jogosító okmány kiváltására nem jogosult személy részére halfogásra jogosító okmányt értékesítő személlyel szemben kiszabható halvédelmi bírság mértéke:
-
-## a) állami horgászjegy vagy területi jegy kiadása esetén: 100 000 forint,
-
-## b) állami halászjegy kiadása esetén: 200 000 forint.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
