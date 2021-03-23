@@ -148,37 +148,7 @@ mb) (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a zöldfelület
 
 mc) (6) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy az érintett területen vendéglátás, vegyes, üdülő és szálláshely rendeltetésű épületek és ezeket kiszolgáló építmények is elhelyezhetők.
 
-(7) A Balatonvilágos belterület 1392 helyrajzi számú telekre meghatározott sajátos beépítési szabályok:
-
-a) a beépítettség megengedett legnagyobb mértéke 30%,
-
-b) az épületmagasság megengedett legnagyobb mértéke 16,5 méter,
-
-c) a kialakítható telek legkisebb területe 1000 m2,
-
-d) a zöldfelület megengedett legkisebb mértéke 40%,
-
-e) a terepszint alatti beépítés legnagyobb mértéke 50%,
-
-f) a szintterületi mutató nem korlátozott,
-
-g) bármely épület által elfoglalt beépített alapterület meghaladhatja az övezetben kialakítható legkisebb telekméret és a megengedett legnagyobb beépítési százalék szorzatának kétszeresét,
-
-h) a telken vegyes, lakó, üdülő, strand, kereskedelmi, szolgáltató, vendéglátó, szálláshely rendeltetésű épületek és ezek kiszolgáló építményei elhelyezhetőek,
-
-i) a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 30%-ának elhelyezését kell biztosítani, azzal, hogy az OTÉK 42. § (11) bekezdése ezen követelmények érvényesítése esetében is alkalmazható, mélygarázst, valamint autóbusz-várakozóhelyet nem kell biztosítani,
-
-j) a telkek beépítési módja szabadon álló,
-
-k) parti sétány, közhasználat céljára szolgáló strandolásra alkalmas partszakasz, közhasználat céljára szolgáló strand és különleges strandterület nem alakítható ki, illetve nem állhat fenn,
-
-l) az építési hely az érintett ingatlanok teljes területe,
-
-m) a telken elhelyezhető épületek és rendeltetési egységek száma nem korlátozott,
-
-n) a közlekedési létesítmények és műtárgyak korlátozás nélkül elhelyezhetők,
-
-o) a hatályos településrendezési eszköz szerinti szabályozási vonalat nem kell alkalmazni.
+(7)[^34]
 
 (8) A Balatonvilágos belterület 1412 helyrajzi számú telekre meghatározott sajátos beépítési szabályok:
 
@@ -211,3 +181,4 @@ m) magánút korlátozás nélkül létesíthető.
 (9) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkek és az azokból telekalakítással kialakításra kerülő telkek közterületként, illetve közútként nem alakíthatók ki.
 
 [^33]: A 6/K. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 6/K. § (7) bekezdését a 136/2021. (III. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.

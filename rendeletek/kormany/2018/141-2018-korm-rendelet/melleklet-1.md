@@ -1,12 +1,10 @@
-## 54. §[^126] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 98/2021. (II. 27.) Korm. rendelettel (a továbbiakban: Módr46.) megállapított 2. mellékletben foglalt táblázat 61. sorát a Módr46. hatálybalépésekor[^127] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^128] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^132] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +54,4 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^126]: Az 54. §-t a 98/2021. (II. 27.) Korm. rendelet 1. §-a iktatta be.
-[^127]: A hatálybalépés időpontja 2021. február 28.
-[^128]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^132]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
