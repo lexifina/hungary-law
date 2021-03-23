@@ -28,8 +28,9 @@ Felelős: honvédelmi miniszter
 
 Határidő: folyamatos
 
-6. a 2–5. pontban foglaltakat 2021. március 22-ig rendeli alkalmazni,
+6.[^1] a jelen kormányhatározatban foglaltakat a védelmi intézkedések ideiglenes szigorításáról szóló 104/2021. (III. 5.) Korm. rendelet 14. § a) pontjában meghatározott időpontig rendeli alkalmazni.
 
-7.[^1]
+7.[^2]
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6. pont az 1133/2021. (III. 23.) Korm. határozattal megállapított szöveg.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
