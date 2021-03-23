@@ -52,9 +52,9 @@
 
 | 24 | Próbafeltárás (az ár a földmunka költségét nem tartalmazza) |  |  |
 
-| 25 | a) egy vagy több korszak történeti összefüggésben megmaradt emlékanyagának feltárása (1 rétegű) 5 méteres poligonnal határolt | Ft/m² | 4 650 + áfa |
+| 25 | a) egy vagy több korszak történeti összefüggésben megmaradt emlékanyagának feltárása (1 rétegű) 10 méteres poligonnal határolt | Ft/m² | 2 520+ áfa |
 
-| 26 | b) többrétegű lelőhely (2 rétegtől) | Ft/m² | 4 650× (rétegszám–1) + áfa |
+| 26 | b) többrétegű lelőhely (2 rétegtől) | Ft/m² | 2 520× (rétegszám–1) + áfa |
 
 | 27 | c) történeti városmag esetén | Ft/m² | 31 500 + áfa |
 
@@ -70,11 +70,11 @@
 
 | 33 | Előzetes régészeti dokumentáció járulékos költségei: térképészeti előfeldolgozási díj [ha a beruházó nem tud olyan georeferált, CAD vagy GIS alapú digitális állományokat biztosítani, melyeken egyértelműen azonosítható a beruházás helye, kiterjedése, és lehetőleg a földmunka mértéke (keresztszelvények)], koordináció | Ft | 25 000 + áfa |
 
-| 34 | Teljes felületű feltárás 5 méteres poligonnal, illetve az 5 méternél nem nagyobb szélességű területet igénybe vevő beruházások esetén 5 méteres raszterben határolt területe (az ár a beruházó által végzett földmunka költségét nem tartalmazza) |  |  |
+| 34 | Teljes felületű feltárás 5 méteres poligonnal, illetve az 5 méternél nem nagyobb szélességű területet igénybe vevő beruházások esetén 10 méteres raszterben határolt területe (az ár a beruházó által végzett földmunka költségét nem tartalmazza) |  |  |
 
-| 35 | a) egy vagy több korszak történeti összefüggésben megmaradt emlékanyagának feltárása (1 rétegű) | Ft/m² | 4 650 + áfa |
+| 35 | a) egy vagy több korszak történeti összefüggésben megmaradt emlékanyagának feltárása (1 rétegű) | Ft/m² | 2 520 + áfa |
 
-| 36 | b) többrétegű lelőhely (2 rétegtől) | Ft/m² | 4 650× (rétegszám–1) + áfa |
+| 36 | b) többrétegű lelőhely (2 rétegtől) | Ft/m² | 2 520× (rétegszám–1) + áfa |
 
 | 37 | c) történeti városmag, kis intenzitású (kis mélység, csekély fedettség, kevés objektum) | Ft/m² | 15 750 + áfa |
 
