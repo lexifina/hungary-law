@@ -1,0 +1,3 @@
+## 1. § A veszélyhelyzet ideje alatt a digitális oktatással érintett családokat segítő intézkedésekről szóló 501/2020. (XI. 14.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) A jogosult az (1) és (1a) bekezdése szerinti kedvezményre vonatkozó igényét a veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 484/2020. (XI. 10.) Korm. rendelet] 28. §-ában meghatározott időpontig jelezheti az elektronikus hírközlésről szóló törvény szerinti szolgáltató (a továbbiakban: szolgáltató) felé.”
