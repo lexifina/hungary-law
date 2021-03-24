@@ -14,5 +14,8 @@ b) az előfizetéssel rendelkező pedagógus vagy oktató, vagy az a személy, a
 
 (3) A jogosult lakóhelye, tartózkodási helye vagy szálláshelye szerinti helyek közül egy jogosultság alapján csak egy helyen veheti a szolgáltatást ingyenesen igénybe.
 
+(4)[^4] A jogosult az (1) és (1a) bekezdése szerinti kedvezményre vonatkozó igényét a veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 484/2020. (XI. 10.) Korm. rendelet] 28. §-ában meghatározott időpontig jelezheti az elektronikus hírközlésről szóló törvény szerinti szolgáltató (a továbbiakban: szolgáltató) felé.
+
 [^2]: Az 1. § (1) bekezdése a 86/2021. (II. 27.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1a) bekezdését a 105/2021. (III. 5.) Korm. rendelet 9. §-a iktatta be.
+[^4]: Az 1. § (4) bekezdését a 138/2021. (III. 23.) Korm. rendelet 1. §-a iktatta be.
