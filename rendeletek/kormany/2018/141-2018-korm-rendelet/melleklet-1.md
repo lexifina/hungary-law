@@ -1,10 +1,12 @@
+## 56. §[^132] E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet és az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet módosításáról szóló 139/2021. (III. 23.) Korm. rendelettel (a továbbiakban: Módr48.) módosított 3. § (3) és (4) bekezdését a Módr48. hatálybalépésekor[^133] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^132] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^134] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -54,4 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^132]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^132]: Az 56. §-t a 139/2021. (III. 23.) Korm. rendelet 6. §-a iktatta be.
+[^133]: A hatálybalépés időpontja 2021. március 24.
+[^134]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
