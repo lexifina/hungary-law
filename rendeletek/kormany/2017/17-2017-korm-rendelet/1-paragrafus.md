@@ -16,6 +16,6 @@ g) a Leginkább Rászoruló Személyeket Támogató Európai Segítségnyújtás
 
 h) az Európai Hálózatfinanszírozási Eszközből
 
-származó források terhére létrejött támogatási jogviszonyokban további kötelezettségek vállalására, továbbá a felhasználásban, a lebonyolításban és az ellenőrzésben részt vevő szervezetekre, a támogatást igénylőkre és a támogatásban részesülőkre.
+## származó források terhére létrejött támogatási jogviszonyokban további kötelezettségek vállalására, továbbá a felhasználásban, a lebonyolításban és az ellenőrzésben részt vevő szervezetekre, a támogatást igénylőkre és a támogatásban részesülőkre.
 
 (2) E rendeletet nem kell alkalmazni az ERFA-ból származó, az Európai Területi Együttműködés programjaiból nyújtandó támogatásokra.

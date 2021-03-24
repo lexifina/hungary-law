@@ -5,5 +5,3 @@
 a) keletkezett támogatási jogviszonyokra, valamint
 
 b) megkezdett és a hatálybalépésekor még folyamatban lévő eljárásokban
-
-is alkalmazni kell.
