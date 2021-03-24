@@ -112,7 +112,7 @@
 
 | 3. | Concerto Akadémia Nonprofit Korlátolt Felelősségű Társaság | 01-09-177086 | 2022. december 31. |
 
-| 4. | Duna Palota Kulturális Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-920836 | 2022. december 31. |
+| 4. | Duna Művészegyüttes Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-920836 | 2022. december 31. |
 
 | 5. | ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-919716 | 2022. december 31. |
 
@@ -154,7 +154,7 @@
 
 | 24. | OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-921266 | 2022. december 31. |
 
-| 25. | Pro Rekreatione Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 07-09-020967 | 2022. december 31. |
+| 25. |  |  |  |
 
 | 26. | Robert Capa Kortárs Fotográfiai Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-176337 | 2022. december 31. |
 
@@ -313,6 +313,8 @@
 | 16. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
 
 | 17. | MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-200580 | 2022. december 31. |
+
+| 18. | Magyar Fejlesztésösztönző Iroda Nonprofit Korlátolt Felelősségű Társaság | 01-09-380926 | 2022. december 31. |
 
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 
