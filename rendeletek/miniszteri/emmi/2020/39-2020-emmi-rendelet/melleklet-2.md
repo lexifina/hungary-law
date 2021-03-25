@@ -24,7 +24,7 @@
 
 | 11. | Felsőoktatási levéltár, települési önkormányzati levéltár, köztestület, közalapítvány vagy jogszabályban meghatározott egyéb közfeladatot ellátó szerv levéltára, valamint állam által fenntartott tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény állami szaklevéltárként működő levéltára | mesterfokozatú szakirányú szakképzettség | KER szerinti B2 szintet elérő idegennyelv-ismeret | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább hároméves szakmai gyakorlatot szerzett | kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez |
 
-2. melléklet a 39/2020. (X. 30.) EMMI rendelethez
+2. melléklet a 39/2020. (X. 30.) EMMI rendelethez[^9]
 
 Kulturális szakmai munkakörök és a betöltésükhöz szükséges képesítési és egyéb feltételek
 
@@ -160,7 +160,7 @@ Kulturális szakmai munkakörök és a betöltésükhöz szükséges képesíté
 
 | 65. | levéltáros | szakirányú mesterfokozatú szakképzettség | 2 év szakmai gyakorlat | igen |
 
-| 66. | segédlevéltáros | szakirányú felsőfokú végzettség |  | nem |
+| 66. | segédlevéltáros | szakirányú felsőfokú végzettség vagy felsőfokú szakképesítés |  | nem |
 
 | 67. | levéltáros asszisztens | szakirányú középfokú szakképzettség |  | nem |
 
@@ -262,4 +262,8 @@ Kulturális szakmai munkakörök és a betöltésükhöz szükséges képesíté
 
 | 116. | múzeumi kiállítás-rendező | szakirányú felsőfokú szakképzettség, felsőfokú szakképesítés vagy szakirányú középfokú szakképzettség |  | nem |
 
-| 117. | teremőr, közönségkapcsolati szakember | felsőfokú végzettség vagy felsőfokú szakképesítés vagy szakirányú középfokú szakképzettség |  | nem |
+| 117. | közönségkapcsolati szakember | felsőfokú végzettség vagy felsőfokú szakképesítés vagy szakirányú középfokú szakképzettség |  | nem |
+
+| 118. | teremőr | középfokú végzettség |  | nem |
+
+[^9]: A 2. melléklet a 13/2021. (III. 24.) EMMI rendelet 3. §-a és 4. § c) pontja szerint módosított szöveg.

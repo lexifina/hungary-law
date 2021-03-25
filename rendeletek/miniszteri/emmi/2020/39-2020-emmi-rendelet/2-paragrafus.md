@@ -22,7 +22,7 @@
 
 11. mesterfokozatú szakképzettség: a nemzeti felsőoktatásról szóló törvény szerinti egyetemi szintű végzettség és szakképzettség vagy mesterfokozat és szakképzettség, továbbá az ezekkel egyenértékű szakképzettség;
 
-12. szakirányú középfokú szakképzettség: az államilag elismert szakképzésben szerzett, a kulturális intézmény alaptevékenységének vagy az ellátott munkakörnek megfelelő középfokú szakképzettség;
+12.[^1] szakirányú középfokú szakképzettség: az államilag elismert szakképzésben szerzett, a kulturális intézmény alaptevékenységének vagy az ellátott munkakörnek megfelelő, a szakképzésről szóló 2019. évi LXXX. törvény szerinti oklevéllel igazolt szakma, érettségire épülő szakképesítés vagy a Magyar Képesítési Keretrendszer szerinti 5. szintű szakképesítés;
 
 13. szakirányú felsőfokú szakképzettség: a kulturális intézmény alaptevékenységének vagy az ellátott munkakörnek megfelelő felsőfokú végzettség;
 
@@ -35,3 +35,5 @@
 17. tudományos szakfeladat: tudományos kutatási, feldolgozási és publikációs tevékenység végzésére irányuló kulturális szakfeladat;
 
 18. vezetői gyakorlat: intézményvezetői vagy szervezeti egység vezetői munkakörben eltöltött idő.
+
+[^1]: A 2. § 12. pontja a 13/2021. (III. 24.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
