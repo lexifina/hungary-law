@@ -1,6 +1,6 @@
 ## 20. Az éves fejlesztési keret előkészítése, elfogadása, módosítása
 
-41/A. § (1)[^240] Az éves fejlesztési keret tervezetét az adott éves fejlesztési kerethez tartozó program végrehajtásáért felelős irányító hatóság készíti el. Az irányító hatóság gondoskodik a szakpolitikai felelős, EMVA esetén a kifizető ügynökség, ETHA esetén a közreműködő szervezet bevonásáról.
+41/A. § (1)[^242] Az éves fejlesztési keret tervezetét az adott éves fejlesztési kerethez tartozó program végrehajtásáért felelős irányító hatóság készíti el. Az irányító hatóság gondoskodik a szakpolitikai felelős, EMVA esetén a kifizető ügynökség, ETHA esetén a közreműködő szervezet bevonásáról.
 
 (2) A szakpolitikai felelős készíti el az éves fejlesztési keretben szerepeltetni kívánt felhívások szakmai koncepcióját. A koncepció tartalmazza – az adott felhívásban alkalmazandó kiválasztási eljárásnak megfelelően – a 41/D–41/H. §-ban meghatározott információkat.
 
@@ -8,7 +8,7 @@
 
 (4) Ha az adott felhívás a szakpolitikai felelősön kívüli miniszter feladatkörét érinti, vagy ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban került kijelölésre, a szakpolitikai felelős köteles felhívás előkészítő munkacsoportot létrehozni és a munkacsoport munkáját dokumentálni.
 
-(5)[^241] A szakpolitikai felelős a felhívások szakmai koncepcióját benyújtja az irányító hatóságnak.
+(5)[^243] A szakpolitikai felelős a felhívások szakmai koncepcióját benyújtja az irányító hatóságnak.
 
-[^240]: A 41/A. § (1) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^241]: A 41/A. § (5) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^242]: A 41/A. § (1) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^243]: A 41/A. § (5) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 4. pontja szerint módosított szöveg.

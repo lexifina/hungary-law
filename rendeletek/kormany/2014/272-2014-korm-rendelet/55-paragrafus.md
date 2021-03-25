@@ -1,3 +1,3 @@
-## 54/E. §[^311] Közösségvezérelt helyi fejlesztés kiválasztási eljárásrendet kell alkalmazni a programokban meghatározott esetben.
+## 54/E. §[^313] Közösségvezérelt helyi fejlesztés kiválasztási eljárásrendet kell alkalmazni a programokban meghatározott esetben.
 
-[^311]: Az 54/E. § a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^313]: Az 54/E. § a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.

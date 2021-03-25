@@ -2,11 +2,11 @@
 
 (2) Támogatói okirat alkalmazása esetén az aláírt támogatói okirattal kell értesíteni a támogatást igénylőt. A támogatói okirat elektronikus formában kerül kiállításra, aláírásra és megküldésre.
 
-(3)[^399] A támogatási kérelem elutasítása, csökkentett összköltséggel vagy támogatási összeggel történő támogatása vagy feltételekkel történő támogatása esetén a tájékoztatásnak tartalmaznia kell a kifogás benyújtásának lehetőségét, módját.
+(3)[^401] A támogatási kérelem elutasítása, csökkentett összköltséggel vagy támogatási összeggel történő támogatása vagy feltételekkel történő támogatása esetén a tájékoztatásnak tartalmaznia kell a kifogás benyújtásának lehetőségét, módját.
 
-(3a)[^400] EMVA és ETHA forrásból származó támogatásnál a 65. § (1) bekezdés a) pontja szerinti döntés esetén az elutasított tételekre vonatkozó részletes indokolást, valamint a kifogás benyújtásának lehetőségét és módját tartalmazó támogatói okirat kibocsátására kerül sor, külön értesítés nélkül.
+(3a)[^402] EMVA és ETHA forrásból származó támogatásnál a 65. § (1) bekezdés a) pontja szerinti döntés esetén az elutasított tételekre vonatkozó részletes indokolást, valamint a kifogás benyújtásának lehetőségét és módját tartalmazó támogatói okirat kibocsátására kerül sor, külön értesítés nélkül.
 
 (4) A támogatást igénylők a támogatási kérelmük értékelését a döntésről szóló tájékoztatás kézhezvételét követően megtekinthetik.
 
-[^399]: A 66. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 13. pontja szerint módosított szöveg.
-[^400]: A 66. § (3a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^401]: A 66. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^402]: A 66. § (3a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be.

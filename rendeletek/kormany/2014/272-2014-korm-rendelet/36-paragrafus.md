@@ -1,3 +1,3 @@
-## 35/A. §[^216] Az egyes intézmények kijelöléséről és a próbaidővel kapcsolatos intézkedésekről az európai uniós források felhasználásáért felelős miniszter tájékoztatja az Európai Bizottságot.
+## 35/A. §[^218] Az egyes intézmények kijelöléséről és a próbaidővel kapcsolatos intézkedésekről az európai uniós források felhasználásáért felelős miniszter tájékoztatja az Európai Bizottságot.
 
-[^216]: A 35/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 15. §-a iktatta be.
+[^218]: A 35/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 15. §-a iktatta be.
