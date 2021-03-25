@@ -44,16 +44,11 @@
 
 ## Határidő: a programok elfogadását követően azonnal
 
-## 2. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat a [továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete az 1. melléklet szerint módosul.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1132/2021. (III. 23.) Korm. határozathoz
+1. melléklet az 1132/2021. (III. 23.) Korm. határozathoz[^2]
 
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 109. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 109. | IKOP-3.1.0-15 | Gödöllői HÉV (H8) és Csömöri HÉV (H9) vonalszakaszok korszerűsítése és az Örs vezér terén az M2 metróvonallal történő összekötése, valamint metró és elővárosi vasúti üzemre képes járművek beszerzése előkészítése | BFK Nonprofit Zrt. (konzorciumvezető) és a MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság konzorcium | 4,63 (becsült támogatási intenzitás: 100%) | A Gödöllői HÉV (H8) és Csömöri HÉV (H9) HÉV-vonalak rekonstrukciójának és az Örs vezér terén az M2 metróvonallal történő összekötésének teljes körű előkészítése, a kivitelezésre irányuló közbeszerzési eljárás megindításához szükséges tartalmú és részletezettségű terveinek, tenderdokumentációjának elkészítése, továbbá a fejlesztéshez illeszkedő metró és elővárosi vasúti üzemre képes járművek beszerzésének előkészítése. |
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
