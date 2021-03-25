@@ -5,3 +5,10 @@
 (2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét az egészségügyért felelős miniszter egyetértésével a honvédelemért felelős miniszter nevezi ki.
 
 (3) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének az 1. § b) pontja szerinti egészségügyi szolgáltató irányításáért felelős helyettesét az országos kórház-főigazgató nevezi ki.
+
+(4)[^2] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a veszélyhelyzet időszakában a pandémiával összefüggésben felmerülő egészségügyi kockázatok mérséklése érdekében huszonnégy órás vezetői ügyeletet működtet. A vezetői ügyelet kapcsolatot tart az Operatív Törzs Ügyeleti Központjával, az Országos Kórházi Főigazgatósággal, valamint az illetékes védelmi bizottsággal. A vezetői ügyelet működésének rendjét a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője határozza meg azzal, hogy a vezetői ügyeletben a munkaidő-szervezésre vonatkozó jogszabályok keretei között, annak feltételei megléte esetén egyszerre legalább három fő vezető részvételét kell biztosítani.
+
+(5)[^3] Az egyes, az egészségügyi szolgáltatók irányításával összefüggő veszélyhelyzeti szabályokról és a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató, valamint az ennek irányítása alá tartozó egyéb egészségügyi szolgáltató irányításának veszélyhelyzeti rendjéről szóló 691/2020. (XII. 29.) Korm. rendelet módosításáról szóló 137/2021. (III. 23.) Korm. rendelet 2. és 3. §-ában foglaltakat megfelelően alkalmazni kell, azzal az eltéréssel, hogy ahol egészségügyi szolgáltató vezetője szerepel, azon a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét kell érteni.
+
+[^2]: A 3. § (4) bekezdését a 137/2021. (III. 23.) Korm. rendelet 9. §-a iktatta be.
+[^3]: A 3. § (5) bekezdését a 137/2021. (III. 23.) Korm. rendelet 9. §-a iktatta be.

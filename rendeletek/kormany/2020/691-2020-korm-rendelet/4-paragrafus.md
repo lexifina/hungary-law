@@ -30,6 +30,16 @@ f) az egészségügyi szolgáltató által kötendő egészségügyi ellátási 
 
 g) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés megkötése.
 
+(2a)[^4] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének vagy átruházott hatáskörben a 3. § (3) bekezdése szerinti vezetőjének hatásköre – a koronavírus elleni védőoltási tevékenység szervezése és a mentési tevékenység kivételével – a 2. mellékletben meghatározott illetékességi területén valamennyi egészségügyi tevékenység irányítására kiterjed. Így különösen
+
+a) a járóbeteg-szakellátó egészségügyi szolgáltatók működésével összefüggésben, sürgősség esetén – az illetékes városi intézmény egyidejű értesítése mellett – az (1) bekezdésben meghatározott jogosultságokat gyakorolja,
+
+b) a háziorvosi szolgáltatók tekintetében szakmai irányítási jogot gyakorol,
+
+c) a háziorvosi szakképzettség mellett egyéb szakképzettséggel rendelkező háziorvosokat – a védőoltási tevékenység sérelme nélkül – a megyén belül működő, fekvőbeteg- vagy járóbeteg-szakellátást nyújtó egészségügyi intézményhez kirendelheti,
+
+d) a veszélyhelyzet időszakában a pandémiával összefüggésben felmerülő egészségügyi kockázatok mérséklése érdekében javaslatokat fogalmazhat meg a megyei, fővárosi védelmi bizottságnak.
+
 (3) A honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője az (1) bekezdés szerinti egyetértési kezdeményezést előzetesen az országos kórház-főigazgató felé továbbítja, aki az egyetértési jogkörében a megkeresés beérkezésétől számított 15 napon belül – indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el, nem hajtható végre. A határidő eredménytelen eltelte esetén az országos kórház-főigazgató egyetértését vélelmezni kell.
 
 (4) A (3) bekezdés szerinti kezdeményezési jogát a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a honvédelemért felelős miniszter által delegált katonai összekötő útján gyakorolja.
@@ -53,3 +63,5 @@ b) az egyéb munkáltatói jogokat az 1. § b) pontja szerinti egészségügyi s
 ## gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
 
 (8) A (6) és (7) bekezdés alkalmazásában alapvető munkáltatói jog, illetve egyéb munkáltatói jog alatt az állami fenntartású, egészségügyi szakellátást nyújtó egészségügyi szolgáltatók irányításának a veszélyhelyzetben alkalmazandó szabályairól szóló 507/2020. (XI. 17.) Korm. rendelet 2. § (1) bekezdés a), illetve b) pontjában meghatározott jogköröket kell érteni.
+
+[^4]: A 4. § (2a) bekezdését a 137/2021. (III. 23.) Korm. rendelet 10. §-a iktatta be.
