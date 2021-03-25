@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználására terjed ki.
+## terhére kerülnek elszámolásra.
 
 ## 2. Értelmező rendelkezések
 
@@ -36,7 +36,6 @@
 
 16. szabálytalansági gyanú: bármilyen adat vagy információ, amely szabálytalanság elkövetésére utal.
 
-[^1]: Az 1. § a 306/2017. (X. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § 6. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 10. pontja a 323/2018. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
 [^4]: A 2. § 12. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 252/2019. (X. 24.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
