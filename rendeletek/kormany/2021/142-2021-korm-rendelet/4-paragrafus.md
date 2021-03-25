@@ -1,0 +1,3 @@
+## 3. § A 272/2014. (XI. 5.) Korm. rendelet a következő 201/ZA. §-sal egészül ki:
+
+## „201/ZA. § A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet, valamint a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló 135/2015. (VI. 2.) Korm. rendelet módosításáról szóló 142/2021. (III. 24.) Korm. rendelettel [a továbbiakban: 142/2021. (III. 24.) Korm. rendelet] megállapított 5. melléklet 3.12.4a. pontját a 142/2021. (III. 24.) Korm. rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
