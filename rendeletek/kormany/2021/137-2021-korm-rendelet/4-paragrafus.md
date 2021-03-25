@@ -1,0 +1,1 @@
+## 3. § A veszélyhelyzet ideje alatt az egészségügyi szolgáltató vezetője – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 4. § (10) bekezdésétől eltérően – a koronavírussal fertőzött vagy fertőzésgyanús betegek ellátásához kapcsolódó gyógyító-megelőző tevékenységet korlátozás nélkül folytathatja.

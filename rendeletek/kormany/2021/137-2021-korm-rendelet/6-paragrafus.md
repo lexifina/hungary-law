@@ -1,0 +1,1 @@
+## egyedileg, az érintett intézményi kör meghatározásával vagy az egészségügyi szolgáltatások meghatározott körére vonatkozóan felmentést adhat, meghatározva a teljesítendő szakmai minimumfeltételeket.
