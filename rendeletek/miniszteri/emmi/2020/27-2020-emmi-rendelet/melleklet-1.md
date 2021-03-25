@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet 2022. június 1-jén hatályát veszti.
 
-1. melléklet a 27/2020. (VIII. 11.) EMMI rendelethez
+1. melléklet a 27/2020. (VIII. 11.) EMMI rendelethez[^2]
 
 ## Érettségi vizsgaidőszakok, vizsganapok
 
@@ -100,11 +100,11 @@
 
 | 19. | francia nyelv | francia nyelv | 2021. május 19., 8.00 |
 
-| 20. | – | filozófia | 2021. május 19., 14.00 |
+| 20. | filozófia | filozófia | 2021. május 19., 14.00 |
 
 | 21. | spanyol nyelv | spanyol nyelv | 2021. május 20., 8.00 |
 
-| 22. | – | mozgóképkultúra és médiaismeret, dráma | 2021. május 20., 14.00 |
+| 22. | mozgóképkultúra és médiaismeret, dráma | mozgóképkultúra és médiaismeret, dráma | 2021. május 20., 14.00 |
 
 | 23. | orosz nyelv, egyéb, más vizsganapon nem szereplő nyelvek | orosz nyelv, egyéb, más vizsganapon nem szereplő nyelvek | 2021. május 21., 8.00 |
 
@@ -121,3 +121,5 @@
 | 2. | szóbeli vizsgák | – | 2021. június 3–10. |
 
 | 3. | – | szóbeli vizsgák | 2021. június 14–25. |
+
+[^2]: Az 1. melléklet a 13/2021. (III. 24.) EMMI rendelet 1. §-a szerint módosított szöveg.
