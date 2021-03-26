@@ -100,6 +100,6 @@
 
 | 48 | Közönséges szurokfű | Origanum vulgare | 65 000 | 0,1 | – | – | 45 000 |  |
 
-4. melléklet a 9/2015. (III. 13.) FM rendelethez[^162]
+4. melléklet a 9/2015. (III. 13.) FM rendelethez[^164]
 
-[^162]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^164]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.

@@ -84,6 +84,6 @@
 
 | 41 | Zwartbonten van België/pie noire de Belgique |
 
-3. melléklet a 9/2015. (III. 13.) FM rendelethez[^161]
+3. melléklet a 9/2015. (III. 13.) FM rendelethez[^163]
 
-[^161]: A 3. melléklet a 10/2020. (IV. 3.) AM rendelet 11. §-ával megállapított szöveg.
+[^163]: A 3. melléklet a 10/2020. (IV. 3.) AM rendelet 11. §-ával megállapított szöveg.

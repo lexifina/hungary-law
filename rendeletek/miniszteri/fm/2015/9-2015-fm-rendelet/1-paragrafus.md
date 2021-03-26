@@ -64,7 +64,7 @@ d)[^17] édeskömény vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 3. sz�
 
 13.[^18] szaporítóanyag: vetőmag, palánta, dugvány, tősarj, gumó, hagyma vagy hagymagerezd;
 
-14.[^19] támogatási időszak: 2015. január 1-jétől 2020. december 31-ig tartó időszak;
+14.[^19] támogatási időszak: 2015. január 1-jétől 2022. december 31-éig tartó időszak;
 
 15.[^20] tárgyév: a támogatási időszak azon naptári éve, amelynek vonatkozásában a mezőgazdasági termelő a támogatást kérelmezi;
 
@@ -94,7 +94,7 @@ d)[^17] édeskömény vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 3. sz�
 [^16]: Az 1. § 12. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^17]: Az 1. § 12. pont d) alpontját a 18/2020. (VI. 12.) AM rendelet 3. § (2) bekezdése iktatta be.
 [^18]: Az 1. § 13. pontja a 8/2018. (III. 29.) FM rendelet 8. §-ával megállapított szöveg.
-[^19]: Az 1. § 14. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 1. § 14. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított, a 12/2021. (III. 23.) AM rendelet 5. § a) pontja szerint módosított szöveg.
 [^20]: Az 1. § 15. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^21]: Az 1. § 16. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított, a 13/2017. (III. 17.) FM rendelet 30. § b) pontja szerint módosított szöveg.
 [^22]: Az 1. § 17. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.

@@ -30,6 +30,6 @@
 
 | 14 | Mezei borsó | Pisum arvense | 100 |
 
-7. melléklet a 9/2015. (III. 13.) FM rendelethez[^167]
+7. melléklet a 9/2015. (III. 13.) FM rendelethez[^169]
 
-[^167]: A 7. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (8) bekezdésével megállapított szöveg.
+[^169]: A 7. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (8) bekezdésével megállapított szöveg.

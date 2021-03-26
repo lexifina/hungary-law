@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-9-20-11
 | 2020-06-15 | 2015-9-20-11.31 | 18/2020. (VI. 12.) AM rendelet |
 | 2020-09-28 | 2015-9-20-11.32 | 46/2020. (IX. 23.) AM rendelet |
 | 2020-12-17 | 2015-9-20-11.33 | 64/2020. (XII. 16.) AM rendelet |
+| 2021-03-26 | 2015-9-20-11.34 | 12/2021. (III. 23.) AM rendelet |
