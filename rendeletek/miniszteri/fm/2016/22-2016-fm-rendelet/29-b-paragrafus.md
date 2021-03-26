@@ -1,6 +1,6 @@
-29/B. §[^87] (1) E rendeletnek az egyes közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 72/2016. (XI. 3.) FM rendelettel [a továbbiakban: 72/2016. (XI. 3.) FM rendelet] megállapított 20. § (2)–(4) bekezdését a 72/2016. (XI. 3.) FM rendelet hatálybalépésekor[^88] folyamatban lévő eljárásokban is alkalmazni kell.
+29/B. §[^90] (1) E rendeletnek az egyes közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 72/2016. (XI. 3.) FM rendelettel [a továbbiakban: 72/2016. (XI. 3.) FM rendelet] megállapított 20. § (2)–(4) bekezdését a 72/2016. (XI. 3.) FM rendelet hatálybalépésekor[^91] folyamatban lévő eljárásokban is alkalmazni kell.
 
 (2) E rendeletnek a 72/2016. (XI. 3.) FM rendelettel hatályon kívül helyezett 5. § (1) bekezdését a 2016. évben benyújtott egységes kérelemre indult eljárásokban nem kell alkalmazni.
 
-[^87]: A 29/B. §-t a 72/2016. (XI. 3.) FM rendelet 14. §-a iktatta be.
-[^88]: A hatálybalépés napja 2016. november 4.
+[^90]: A 29/B. §-t a 72/2016. (XI. 3.) FM rendelet 14. §-a iktatta be.
+[^91]: A hatálybalépés napja 2016. november 4.

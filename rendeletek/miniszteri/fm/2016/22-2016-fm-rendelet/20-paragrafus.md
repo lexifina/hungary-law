@@ -1,6 +1,6 @@
 ## 8. A másodvetés és az ökológiai jelentőségű másodvetés bejelentése
 
-20. §[^52] (1) Ökológiai másodvetés és zöldtrágyázás céljából elvetett másodvetés bejelentése során az ügyfélnek az egységes kérelmében – az egységes kérelem benyújtására előírt határidőn belül – meg kell jelölnie
+20. §[^53] (1) Ökológiai másodvetés és zöldtrágyázás céljából elvetett másodvetés bejelentése során az ügyfélnek az egységes kérelmében – az egységes kérelem benyújtására előírt határidőn belül – meg kell jelölnie
 
 a) az ökológiai másodvetéssel, zöldtrágyázás céljából elvetett másodvetéssel érintett terület nagyságát,
 
@@ -22,4 +22,4 @@ b) a határidőn belül bejelentett ökológiai jelentőségű másodvetés és 
 
 (5) Ha jogszabály eltérően nem rendelkezik, akkor nem fogadható el olyan másodvetés, amely a vetéstől számított legalább hatvan napig nincs jelen a mezőgazdasági termelő földterületén.
 
-[^52]: A 20. § a 10/2019. (IV. 1.) AM rendelet 21. §-ával megállapított szöveg.
+[^53]: A 20. § a 10/2019. (IV. 1.) AM rendelet 21. §-ával megállapított szöveg.
