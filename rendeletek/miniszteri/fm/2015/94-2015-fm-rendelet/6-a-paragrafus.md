@@ -1,5 +1,5 @@
-6/A. §[^21] (1) Az elektronikus kapcsolattartásnak a 2007. évi XVII. törvény 38. § (3) bekezdése alapján történő kötelező vagy önkéntes választása esetén az ügyfél vagy meghatalmazottja a Kincstár felé teljesítendő, az e rendeletben, valamint a Kincstár döntésében meghatározott kötelezettségét, illetve jogosultságát – amennyiben más, az elektronikus ügyintézéssel kapcsolatos jogszabályok azt lehetővé teszik – kizárólag elektronikus úton teljesítheti, illetve gyakorolhatja az e rendelet alapján benyújtott vis maior bejelentésre indult eljárásban, ideértve – a bírósági felülvizsgálat és a felügyeleti eljárás kivételével – a jogorvoslati eljárást is.
+6/A. §[^24] (1) Kamarai meghatalmazott eljárása esetén, ha a természetes személy ügyfél ügyfélkapuval nem rendelkezik, vagy ha ügyfélkapuval rendelkezik, és elektronikus úton úgy nyilatkozik, hogy postai úton történő közlést kér, akkor az ügyfél felé irányuló közlést postai úton kell megküldeni.
 
-(2) Ha az ügyfél vagy a meghatalmazottja az (1) bekezdés alapján az elektronikus kapcsolattartást választja, akkor a Kincstár az eljárás során keletkezett iratokat elektronikus úton közli az ügyféllel vagy annak meghatalmazottjával.
+(2) A kamarai meghatalmazás benyújtása kapcsán a 22/2016. (IV. 5.) FM rendelet szabályait kell alkalmazni.
 
-[^21]: A 6/A. §-t a 43/2017. (IX. 5.) FM rendelet 16. §-a iktatta be.
+[^24]: A 6/A. §-t a 43/2017. (IX. 5.) FM rendelet 16. §-a iktatta be, szövege a 12/2021. (III. 23.) AM rendelet 11. §-ával megállapított szöveg.
