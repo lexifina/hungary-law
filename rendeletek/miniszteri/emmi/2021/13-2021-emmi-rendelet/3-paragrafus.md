@@ -1,3 +1,0 @@
-## 2. § A kulturális intézményben foglalkoztatottak munkaköreiről és foglalkoztatási követelményeiről, az intézményvezetői pályázat lefolytatásának rendjéről, valamint egyes kulturális tárgyú rendeletek módosításáról szóló 39/2020. (X. 30.) EMMI rendelet (a továbbiakban: R2.) 7. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) A Magyar Nemzeti Levéltár megyei tagintézménye igazgatói munkaköre betöltésének feltétele az 5. §-ban és a 6. §-ban meghatározott eljárásrend szerinti pályázati eljárás lefolytatása, valamint az 1. melléklet 10. sorában meghatározott követelményeknek való megfelelés.”
