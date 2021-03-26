@@ -14,4 +14,7 @@ d) a kieső állat tekintetében a mezőgazdasági termelő megfelelt az (1) bek
 
 (4) A pótlásként beállított állatra vonatkozó, (1) bekezdésben foglalt hat hónapos birtokon tartási kötelezettség számításakor a kieső állat esetében eltelt időt figyelembe kell venni.
 
+(5)[^37] Ha a mezőgazdasági termelő a birtokon tartási kötelezettség ideje alatt megváltoztatja a kérelmezett állatállomány tartási helyét, tenyészetét, akkor köteles azt a változás bekövetkezésétől – tartási hely változtatása esetén az állatállomány átszállításának napjától, tenyészet megváltoztatása esetén az ENAR nyilvántartásban bejegyzett állatmozgás dátumától – számított tizenöt napon belül, ügyfélkapun keresztül, elektronikus úton a Kincstár részére bejelenteni.
+
 [^36]: A 15. § (3) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
+[^37]: A 15. § (5) bekezdését a 12/2021. (III. 23.) AM rendelet 2. §-a iktatta be.
