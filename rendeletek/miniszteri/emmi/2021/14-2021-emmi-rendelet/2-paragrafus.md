@@ -1,3 +1,5 @@
-## 1. § Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet 9. § (7) bekezdésében az „az adott szakterület szakorvosa, egészségügyi szakdolgozója” szövegrész helyébe az „az adott szakterület szakorvosa, egészségügyi szakdolgozója és a felsőfokú egészségügyi szakirányú szakképzettséggel rendelkező klinikai szakpszichológusa” szöveg lép.
+## 1. §[^2]
 
 ## 2. A területi védőnői ellátásról szóló 49/2004. (V. 21.) ESZCSM rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
