@@ -1,0 +1,1 @@
+## „(4a) Az (1) bekezdés g) és h) pontja alá tartozó, a végrehajtásban közreműködő szerv hatáskörén kívüli események a szolgáltató állatorvos által kiállított igazolással vagy laboratóriumi vizsgálattal igazolható.”
