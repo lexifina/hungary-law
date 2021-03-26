@@ -1,3 +1,5 @@
+## 20. §[^1]
+
 1. melléklet a 8/2021. (III. 10.) AM rendelethez
 
 ## A szolgáltató laboratórium általános működési feltételei
@@ -11,3 +13,5 @@
 3. a vizsgálati módszerek és a módszerek érvényesítése (validálása) tekintetében a 7.2.1.1., 7.2.1.4., 7.2.1.5. és 7.2.2.1. pont,
 
 4. az eszközök tekintetében a 6.4.1., 6.4.5. és 6.4.6. pont.
+
+[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
