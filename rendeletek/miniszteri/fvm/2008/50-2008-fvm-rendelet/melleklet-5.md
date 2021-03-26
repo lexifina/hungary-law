@@ -1,4 +1,4 @@
-5. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^50]
+5. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^54]
 
 | Kérődzők, lófélék |
 
@@ -26,4 +26,4 @@
 
 | Egyéb baromfi | 0,03 ÁE |
 
-[^50]: Az 5. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^54]: Az 5. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.

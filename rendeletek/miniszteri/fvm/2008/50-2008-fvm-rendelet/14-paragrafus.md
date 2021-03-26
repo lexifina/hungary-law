@@ -1,3 +1,3 @@
-## 10–13. §[^35]
+14. §[^39]
 
-[^35]: A 10–13. §-t a 14. § hatályon kívül helyezte.
+[^39]: A 14. §-t a 32/2010. (III. 30.) FVM rendelet 8. §-a hatályon kívül helyezte.
