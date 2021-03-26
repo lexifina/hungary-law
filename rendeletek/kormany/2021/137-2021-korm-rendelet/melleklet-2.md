@@ -18,12 +18,6 @@
 
 ## b) Pest megyében az Érdi járás
 
-2. melléklet a 137/2021. (III. 23.) Korm. rendelethez
+2. melléklet a 137/2021. (III. 23.) Korm. rendelethez[^6]
 
-„2. melléklet a 691/2020. (XII. 29.) Korm. rendelethez
-
-A honvédelmi egészségügyi szolgáltató szervezeti egység illetékességi területe
-
-1. Budapesten a IV., V., VI., XIII., XIV., XV., XVI. kerület
-
-2. Pest megyében az Aszódi, Dunakeszi, Gödöllői, Szobi, Váci járás”
+[^6]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
