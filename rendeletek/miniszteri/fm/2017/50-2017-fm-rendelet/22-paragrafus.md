@@ -14,11 +14,11 @@ a) denaturálás,
 
 b) talajba történő bedolgozás (a bejelentett területen lévő termés lekaszálása, beszántása, betárcsázása, leégetése, valamint egyéb más intézkedés a be nem takarítás elvégzésére),
 
-c)[^72] egyéb, a termelői szervezet által megfelelően indokolt és a miniszter által jóváhagyott intézkedés.
+c)[^77] egyéb, a termelői szervezet által megfelelően indokolt és a miniszter által jóváhagyott intézkedés.
 
-(5a)[^73] Az (5) bekezdés c) pontja szerinti intézkedést a miniszter akkor hagyja jóvá, ha az nem jár káros környezeti hatással, illetve növényegészségügyi kockázattal.
+(5a)[^78] Az (5) bekezdés c) pontja szerinti intézkedést a miniszter akkor hagyja jóvá, ha az nem jár káros környezeti hatással, illetve növényegészségügyi kockázattal.
 
 (6) A be nem takarítási intézkedés alapján csak abban az esetben vehető igénybe támogatás, ha a bejelentett terület vonatkozásában a Kincstár a helyszíni ellenőrzés során is megállapítja az intézkedés alkalmazásával összefüggő szabályok maradéktalan betartását.
 
-[^72]: A 22. § (5) bekezdés c) pontja a 22/2020. (VI. 19.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^73]: A 22. § (5a) bekezdését a 22/2020. (VI. 19.) AM rendelet 16. § (2) bekezdése iktatta be.
+[^77]: A 22. § (5) bekezdés c) pontja a 22/2020. (VI. 19.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^78]: A 22. § (5a) bekezdését a 22/2020. (VI. 19.) AM rendelet 16. § (2) bekezdése iktatta be.

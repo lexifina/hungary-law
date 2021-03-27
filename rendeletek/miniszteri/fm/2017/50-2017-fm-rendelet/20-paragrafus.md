@@ -12,6 +12,6 @@ d) a szállítható termék minimális és maximális mennyiségét (kilogrammba
 
 e) a 891/2017/EU bizottsági rendelet 47. cikkében meghatározott feltételeknek való megfelelésre vonatkozó nyilatkozatokat.
 
-(3)[^71] Az (1) bekezdés szerinti árukivonás alkalmazása esetén a 892/2017/EU bizottsági rendelet 9. cikke szerinti támogatási kérelemhez – az 543/2011/EU bizottsági rendelet 4. cikkében meghatározott esetek kivételével – mellékelni kell a gyümölcs és zöldség ellenőrzéséről szóló miniszteri rendeletben meghatározott, a kivonásra szánt termékek forgalmazási előírásoknak való megfeleléséről szóló igazolást.
+(3)[^76] Az (1) bekezdés szerinti árukivonás alkalmazása esetén a 892/2017/EU bizottsági rendelet 9. cikke szerinti támogatási kérelemhez – az 543/2011/EU bizottsági rendelet 4. cikkében meghatározott esetek kivételével – mellékelni kell a gyümölcs és zöldség ellenőrzéséről szóló miniszteri rendeletben meghatározott, a kivonásra szánt termékek forgalmazási előírásoknak való megfeleléséről szóló igazolást.
 
-[^71]: A 20. § (3) bekezdése a 22/2020. (VI. 19.) AM rendelet 15. §-ával megállapított szöveg.
+[^76]: A 20. § (3) bekezdése a 22/2020. (VI. 19.) AM rendelet 15. §-ával megállapított szöveg.

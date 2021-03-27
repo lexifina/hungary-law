@@ -1,3 +1,5 @@
+## 33/F. §[^108] E rendeletnek a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet módosításáról szóló 11/2021. (III. 19.) AM rendelettel hatályon kívül helyezett 11. § (10) és (11) bekezdését, valamint 11/A. §-át a 2019. és 2020. évi operatív programok tekintetében folyamatban lévő eljárásokban alkalmazni kell.
+
 ## 21. Az Európai Unió jogának való megfelelés
 
 ## 34. § Ez a rendelet
@@ -14,6 +16,7 @@ e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs-, z
 
 f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozottgyümölcs- és feldolgozottzöldség-ágazatra történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2017. március 13-i 892/2017/EU bizottsági végrehajtási rendelet,
 
-g)[^102]
+g)[^109]
 
-[^102]: A 34. § g) pontját a 30/2019. (VI. 25.) AM rendelet 14. § d) pontja hatályon kívül helyezte.
+[^108]: A 33/F. §-t a 11/2021. (III. 19.) AM rendelet 6. §-a iktatta be.
+[^109]: A 34. § g) pontját a 30/2019. (VI. 25.) AM rendelet 14. § d) pontja hatályon kívül helyezte.
