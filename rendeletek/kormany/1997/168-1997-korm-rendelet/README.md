@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2020-07-01 | 1997-168-20-22.75 | 306/2020. (VI. 30.) Korm. rendelet |
 | 2020-10-22 | 1997-168-20-22.76 | 461/2020. (X. 21.) Korm. rendelet |
 | 2021-01-01 | 1997-168-20-22.77 | 707/2020. (XII. 30.) Korm. rendelet |
+| 2021-03-27 | 1997-168-20-22.78 | 141/2021. (III. 24.) Korm. rendelet |
