@@ -1,5 +1,0 @@
-## 1. §[^2]
-
-## 2. A kulturális intézményben foglalkoztatottak munkaköreiről és foglalkoztatási követelményeiről, az intézményvezetői pályázat lefolytatásának rendjéről, valamint egyes kulturális tárgyú rendeletek módosításáról szóló 39/2020. (X. 30.) EMMI rendelet módosítása
-
-[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
