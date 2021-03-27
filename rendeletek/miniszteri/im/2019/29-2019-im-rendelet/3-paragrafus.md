@@ -1,5 +1,3 @@
-## is érteni kell.
-
 ## 3. Az ügyvitel szervezete
 
 3. § (1) Az e rendeletben foglalt ügyviteli és iratkezelési szabályok betartásáért a közjegyző felelős. A közjegyző a közjegyzői iratok kezelésére utasítást adhat a közjegyző alkalmazottjának.

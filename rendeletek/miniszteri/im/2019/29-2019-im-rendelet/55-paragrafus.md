@@ -14,7 +14,7 @@ d) a selejtezhető irattári tételek selejtezési idejét.
 
 (3) A selejtezési idő a MOKK, a területi kamara és a közjegyző által selejtezhető irattári tételekbe tartozó iratok megőrzésének időtartamát határozza meg években kifejezve.
 
-(4) Az irattári tételszám az IT betűkből, kötőjelből és az őrzési időre utaló két számjegyből áll. Az egyes tételszámok jelentése a következő:
+(4)[^19] Az irattári tételszám az IT betűkből, kötőjelből és az őrzési időre utaló két számjegyből áll. Az egyes tételszámok jelentése a következő:
 
 a) IT-00 jelöli a nem selejtezhető iratokat,
 
@@ -22,17 +22,19 @@ b) IT-02 jelöli a 2 év őrzési idő után selejtezhető iratokat,
 
 c) IT-05 jelöli az 5 év őrzési idő után selejtezhető iratokat,
 
-d) IT-10 jelöli a 10 év őrzési idő után selejtezhető iratokat,
+d) IT-08 jelöli a 8 év őrzési idő után selejtezhető iratokat,
 
-e) IT-15 jelöli a 15 év őrzési idő után selejtezhető iratokat,
+e) IT-10 jelöli a 10 év őrzési idő után selejtezhető iratokat,
 
-f) IT-20 jelöli a 20 év őrzési idő után selejtezhető iratokat,
+f) IT-15 jelöli a 15 év őrzési idő után selejtezhető iratokat,
 
-g) IT-25 jelöli a 25 év őrzési idő után selejtezhető iratokat,
+g) IT-20 jelöli a 20 év őrzési idő után selejtezhető iratokat,
 
-h) IT-30 jelöli a 30 év őrzési idő után selejtezhető iratokat,
+h) IT-25 jelöli a 25 év őrzési idő után selejtezhető iratokat,
 
-i) IT-50 jelöli az 50 év őrzési idő után selejtezhető iratokat.
+i) IT-30 jelöli a 30 év őrzési idő után selejtezhető iratokat,
+
+j) IT-50 jelöli az 50 év őrzési idő után selejtezhető iratokat.
 
 (5) Az irattári tételszámot fel kell tüntetni a KÜR-ben, papíralapú iratanyag esetén pedig az iratborítón is.
 
@@ -70,8 +72,13 @@ i) a 16. § (3) bekezdése alapján nem szkennelendő irat esetén az eljárást
 
 j) a MOKK és a területi kamara irata esetén az eljárást befejező határozat jogerőre emelkedésének, az utolsó érdemi intézkedés megtételének időpontjától
 
-## kezdődik.
+k)[^20] a fizetési meghagyásos üggyel összefüggésben a MOKK-hoz érkezett tértivevény esetén az iratanyag irattárba helyezésének időpontjától
+
+kezdődik.
 
 (9) Ha az ügy iratai között eltérő irattári tételszámú iratok szerepelnek, a selejtezés idejét a leghosszabb őrzési idejű irat alapján kell megállapítani.
 
 (10) A közjegyzői okirat, illetve a közjegyzői ügyben hozott határozat őrzési ideje irányadó a közjegyzői ügyben előterjesztett kérelemre, továbbá az okirat kijavítása, illetve a határozat kijavítása, valamint kiegészítése tárgyában hozott végzésre is.
+
+[^19]: Az 55. § (4) bekezdése az 1/2021. (III. 12.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 55. § (8) bekezdés k) pontját az 1/2021. (III. 12.) IM rendelet 9. § (2) bekezdése iktatta be.

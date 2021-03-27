@@ -4,7 +4,7 @@
 
 1. a MOKK rendszere: a MOKK-nak a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény (a továbbiakban: Fmhtv.) által szabályozott eljárások informatikai támogatására szolgáló, a közjegyzők, közjegyzőhelyettesek, illetve közjegyzőjelöltek, a felek és az eljárásban részt vevő egyéb személyek, valamint egyéb felhasználók részére rendelkezésre álló, az interneten elérhető országosan egységes számítástechnikai rendszere;
 
-2. azonos székhely: az a székhely, illetve álláshely is, amelyen valamely székhely, illetve álláshely megszűnése, megváltozása, illetve az illetékességi terület változása folytán kiadott MOKK iránymutatás alapján az utód közjegyző működik;
+2.[^1] azonos székhely: az a székhely, illetve álláshely is, amelyen valamely székhely, illetve álláshely megszűnése, megváltozása, illetve az illetékességi terület változása folytán kiadott MOKK szabályzat alapján az utód közjegyző működik;
 
 3. beadvány: a közjegyzőhöz ügyféltől érkező irat, amely rendeltetésszerűen az iratanyagban kerül elhelyezésre;
 
@@ -85,3 +85,7 @@ a) közjegyző alatt az állandó, illetve tartós helyettest, valamint a közje
 b) közjegyzőhelyettes alatt az azonos székhelyen működő közjegyzőhelyettest,
 
 c) közjegyzőjelölt alatt az azonos székhelyen működő közjegyzőjelöltet
+
+is érteni kell.
+
+[^1]: A 2. § (1) bekezdés 2. pontja az 1/2021. (III. 12.) IM rendelet 21. § a) pontja szerint módosított szöveg.

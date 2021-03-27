@@ -10,6 +10,8 @@
 
 (5) A felvilágosításra jogosult személynek a tárgyalás (meghallgatás) helyéről és időpontjáról, az iratok hollétéről, a jogorvoslati határidőről, arról, hogy az ügyben érkezett-e szakértői vélemény, továbbá terjesztettek-e elő jogorvoslati kérelmet, rövid úton is adható felvilágosítás, ha az ügy és a felvilágosítást kérő személy azonosításához szükséges adatokat közli.
 
-(6) A (4) bekezdés alapján átadandó, illetve megküldendő iratok közül a végintézkedés eredeti példányát és azokat az iratokat, amelyeknek a megtekintését a közjegyző, közjegyzőhelyettes, illetve a közjegyzőjelölt nem engedélyezte, illetve amelyekről felvilágosítás nem adható, az ügyintéző az iratok közül kiemeli, és az iratok visszaérkezéséig zárt borítékban kezeli.
+(6)[^5]
 
 (7) A felvilágosítás során gondoskodni kell az iratok megőrzéséről, épségük védelméről.
+
+[^5]: A 28. § (6) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § a) pontja hatályon kívül helyezte.

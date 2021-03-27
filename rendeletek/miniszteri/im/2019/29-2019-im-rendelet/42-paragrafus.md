@@ -4,7 +4,7 @@ a) KÜR-ben rögzített iratait a KÜR-ben, a további intézkedést nem igényl
 
 b) papíralapú iratait az irattárban
 
-## tárolja.
+tárolja.
 
 (2) Az irattárban való tárolás céljára olyan helyiséget kell kialakítani, amely a tűzrendészeti szabályoknak megfelel, és ahol az iratokat szárazon lehet tartani, illetve ahol azokat veszély (állati vagy növényi kártevő stb.) nem fenyegeti.
 

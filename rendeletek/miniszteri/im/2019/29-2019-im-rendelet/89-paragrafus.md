@@ -1,5 +1,3 @@
-## küldi meg a megkereső közjegyző részére.
-
 ## 51. Európai öröklési bizonyítvány kiállítása
 
 89. § (1) Kezdőiratnak minősül az európai öröklési bizonyítvány kiállítása iránti kérelem.

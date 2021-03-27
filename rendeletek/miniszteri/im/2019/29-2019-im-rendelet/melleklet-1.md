@@ -1,8 +1,8 @@
-## 100. §[^1]
+## 100. § E rendelet 63/A. §-a és 67/A. §-a a az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet 66. cikk (5) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. melléklet a 29/2019. (XII. 20.) IM rendelethez
 
-## Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. év .. hónapjában
+Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. év .. hónapjában
 
 1. Közjegyzői okiratok
 
@@ -74,6 +74,8 @@
 
 3.16. Összesen
 
+## 9K09997_2
+
 | Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 
 | a | b |
@@ -119,5 +121,3 @@
 |  | A hónap végén folyamatban maradt ügyek száma |  |  |  |
 
 |  | Az ügyekből önálló bírósági végrehajtónak átadva |  |  |  |
-
-[^1]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

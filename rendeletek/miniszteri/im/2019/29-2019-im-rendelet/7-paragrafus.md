@@ -12,7 +12,7 @@ e) a MOKK a közjegyzői díjszabásról szóló jogszabály rendelkezései beta
 
 f) a fegyelmi eljárást lefolytató szerv a fegyelmi eljárás lefolytatásával összefüggésben
 
-## fér hozzá.
+fér hozzá.
 
 (2) A KÜR-ben rögzített adatok
 
@@ -24,7 +24,7 @@ c) adószám, cégjegyzékszám, illetve nyilvántartási szám, ezek hiányába
 
 d) ügy tárgyának
 
-## megadása alapján kereshetők.
+megadása alapján kereshetők.
 
 (3) A KÜR-nek alkalmasnak kell lennie
 

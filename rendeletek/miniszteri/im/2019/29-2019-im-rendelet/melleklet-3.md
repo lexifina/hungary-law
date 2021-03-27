@@ -1,6 +1,6 @@
 3. melléklet a 29/2019. (XII. 20.) IM rendelethez
 
-## Statisztikai jelentés adattartalma a hitelbiztosítéki nyilatkozatokról 20.. év .. hónapjában
+Statisztikai jelentés adattartalma a hitelbiztosítéki nyilatkozatokról 20.. év .. hónapjában
 
 1. Bejegyzésre irányuló hitelbiztosítéki nyilatkozatok száma
 

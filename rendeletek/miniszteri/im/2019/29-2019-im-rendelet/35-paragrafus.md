@@ -32,7 +32,13 @@ i) egyéb befejező intézkedést tett (a nemperes eljárás lefolytatása irán
 
 2. az okirat, illetve információhordozó megőrzésére irányuló eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes az okirat átvételéről jegyzőkönyvet vett fel;
 
-3. a végrehajtási eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes a végrehajtás elrendelését megtagadta;
+3.[^8] a végrehajtási eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+
+a) a végrehajtás elrendelését megtagadta,
+
+b) biztosítási intézkedést rendelt el,
+
+c) fizetési meghagyás alapján indult végrehajtási eljárásban a díjfeljegyzési kérelemről döntött;
 
 4. a közjegyző előtti előzetes bizonyítás iránti eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes az előzetes bizonyítást elrendelte;
 
@@ -58,33 +64,15 @@ a) a letét kiutalásáról,
 
 b) ennek hiányában a ki nem utalt letét visszautalásáról
 
-## döntött;
+döntött;
 
-12. a fizetési meghagyásos eljárásban, amelyben a közjegyző, a közjegyzőhelyettes – illetve a 12. pont i) alpont tekintetében a közjegyzőjelölt is –
+12.[^9] a fizetési meghagyásos eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
 
 a) a fizetési meghagyást kibocsátotta,
 
-b) a fizetési meghagyás iránti kérelmet visszautasította,
+b) helyett a MOKK elnökének kizárás miatt meghozott határozata alapján más közjegyző került kijelölésre,
 
-c) az eljárást befejezetté nyilvánította,
-
-d) helyett a MOKK elnökének kizárás miatt meghozott határozata alapján más közjegyző került kijelölésre,
-
-e) a fizetési meghagyás végrehajtása iránti kérelmet visszautasította,
-
-f) a végrehajtási lap kiállítását megtagadta,
-
-g) biztosítási intézkedést rendelt el,
-
-h) a biztosítási intézkedés elrendelése iránti kérelmet elutasította vagy visszautasította,
-
-i) egyéb befejező intézkedést tett (a fizetési meghagyás kibocsátása iránti kérelemnek nem minősülő, kezdőiratként érkezett beadványt elintézte),
-
-j) a végrehajtási lap visszavonását elrendelte,
-
-k) a végrehajtási lap visszavonása iránti kérelmet elutasította vagy visszautasította, vagy
-
-l) a díjfeljegyzési kérelemről döntött;
+c) a díjfeljegyzési kérelemről döntött;
 
 13. az európai fizetési meghagyásos eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes az európai fizetési meghagyást kibocsátotta;
 
@@ -111,3 +99,6 @@ d) rész-hagyatékátadás után az eljárást megszüntette;
 (4) Az ügy befejezésének tényét a közjegyző vagy a közjegyzőhelyettes irodai utasításban állapítja meg.
 
 (5) A KÜR-nek alkalmasnak kell lennie arra, hogy a befejezett, de további intézkedést igénylő ügyek a befejezett és további intézkedést nem igénylő ügyektől elkülönítve legyenek lekérdezhetők.
+
+[^8]: A 35. § (3) bekezdés 3. pontja az 1/2021. (III. 12.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 35. § (3) bekezdés 12. pontja az 1/2021. (III. 12.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.

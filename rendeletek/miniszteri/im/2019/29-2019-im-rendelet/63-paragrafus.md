@@ -22,10 +22,14 @@ a) papíralapú közjegyzői okiratról készült elektronikus hiteles kiadmány
 
 b) elektronikus közjegyzői okiratról az elektronikus közjegyzői okiratot készítő közjegyzőnek – ha a közjegyzői okiratot közjegyzőhelyettes készítette, az őt alkalmazó közjegyzőnek – azon a székhelyen való működése befejezésétől, ahol az elektronikus közjegyzői okirat készült,
 
-## a Levéltár ad ki papíralapú vagy elektronikus hiteles másolatot a hiteles kiadmány kiadására vonatkozó szabályok megfelelő alkalmazásával.
+a Levéltár ad ki papíralapú vagy elektronikus hiteles másolatot a hiteles kiadmány kiadására vonatkozó szabályok megfelelő alkalmazásával.
 
-(6) Az elektronikus hiteles kiadmány kiadását és azt, hogy kinek adták ki, a KÜR-ben a hiteles kiadmány alapjául szolgáló közjegyzői okirat ügyszáma alatt fel kell jegyezni.
+(6)[^27]
 
-(7) Ügyleti okirat esetén – ha jogszabály eltérően nem rendelkezik – a felek a közjegyzői okiratban meghatározhatják a törvényben meghatározotton túli azon személyi kört, akinek hiteles kiadmány kiadható.
+(7)[^28]
 
-(8) A felek a hiteles kiadmány kiadásának lehetőségét feltétel vagy időpont bekövetkezéséhez köthetik és meghatározhatják a feltétel vagy időpont bekövetkezése igazolásának módját, feltéve, hogy az nem köztudomású vagy a közjegyzőnek, illetve a közjegyzőhelyettesnek nincs róla tudomása. A feltétel vagy időpont bekövetkezéséig a közjegyzői okirat nem adható le a Levéltárba.
+(8)[^29]
+
+[^27]: A 63. § (6) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
+[^28]: A 63. § (7) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
+[^29]: A 63. § (8) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
