@@ -1,4 +1,4 @@
-2/A. §[^2] (1) A bérbeadó a bérleti díj 2021. március hónapra eső részét nem követelheti a bérlőtől
+2/A. §[^2] (1)[^3] A bérbeadó a bérleti díj 2021. március és április hónapra eső részét nem követelheti a bérlőtől
 
 a) az állam vagy a helyi önkormányzat, valamint
 
@@ -80,4 +80,8 @@ b) az állam vagy a helyi önkormányzat többségi befolyása alatt álló gazd
 
 (6) A (2) bekezdésnek megfelelő helyiség tekintetében fennálló bérleti szerződés alapján e rendelet hatálybalépése előtt az (1) bekezdés szerinti időszakra már megfizetett bérleti díjat 2021. március 16. napjáig a bérbeadó köteles a bérlőnek visszafizetni.
 
+(7)[^4] A (2) bekezdésnek megfelelő helyiség tekintetében fennálló bérleti szerződés alapján a veszélyhelyzet ideje alatt egyes gazdaságvédelmi intézkedésekről szóló kormányrendeletek módosításáról szóló 147/2021. (III. 27.) Korm. rendelet hatálybalépése előtt az (1) bekezdés szerinti időszakra már megfizetett bérleti díjat 2021. április 16. napjáig a bérbeadó köteles a bérlőnek visszafizetni.
+
 [^2]: A 2/A. §-t a 105/2021. (III. 5.) Korm. rendelet 10. §-a iktatta be.
+[^3]: A 2/A. § (1) bekezdés nyitó szövegrésze a 147/2021. (III. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^4]: A 2/A. § (7) bekezdését a 147/2021. (III. 27.) Korm. rendelet 4. §-a iktatta be.
