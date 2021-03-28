@@ -22,10 +22,8 @@ i) hulladékgazdálkodási szakkérdés vizsgálata során, ha az engedélyező 
 
 a) a Ht. 92/G. §-a szerinti előzetes jóváhagyás,
 
-b)[^1]
+b) a Ht. 53/K. §-a szerinti gördülő fejlesztési rendszerterv jóváhagyás
 
 hulladékgazdálkodási hatóságként.
 
 (3) A területi hulladékgazdálkodási hatóság, illetve az országos hulladékgazdálkodási hatóság a piacfelügyeletre, a tanúsításra, a megfelelőségre és a minőségbiztosításra vonatkozó végrehajtási jogszabályokban meghatározott hatáskörébe tartozó kérdéseket vizsgálja a Ht. 78/B. § (2) bekezdés 7., 8., 19. pontja szerinti feladatkörében.
-
-[^1]: A 3. § (2) bekezdés b) pontja a 9. § (2) bekezdése alapján 2021. március 28-án lép hatályba.
