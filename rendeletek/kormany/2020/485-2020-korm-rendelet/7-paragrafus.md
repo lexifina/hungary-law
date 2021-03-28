@@ -16,7 +16,7 @@ d) Egyéb szálláshely szolgáltatás (TEÁOR 5590) tevékenységet
 
 (3) A (2) bekezdés szerinti megtérítés feltétele, hogy
 
-a)[^51] a szálláshely-szolgáltató a szálláshelyen 2020. november 8. napján foglalkoztatott munkavállalók munkaviszonyát 2020. november hónapban fenntartja,
+a)[^52] a szálláshely-szolgáltató a szálláshelyen 2020. november 8. napján foglalkoztatott munkavállalók munkaviszonyát 2020. november hónapban fenntartja,
 
 b) a szálláshely-szolgáltató a szálláshelyen foglalkoztatott munkavállalók bérét a munkavállalók részére kifizeti, és
 
@@ -24,4 +24,4 @@ c) a megtérítendő összeg számításának alapját azok a regisztrált fogla
 
 (4) A támogatás igénylésének részletes szabályait külön kormányrendelet határozza meg.
 
-[^51]: A 7. § (3) bekezdés a) pontja az 571/2020. (XII. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^52]: A 7. § (3) bekezdés a) pontja az 571/2020. (XII. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
