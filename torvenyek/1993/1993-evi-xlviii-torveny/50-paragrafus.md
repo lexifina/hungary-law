@@ -6,7 +6,7 @@
 
 (2) Az e törvény hatálybalépése előtt állami költségvetésből finanszírozott kutatás vagy állami bányavállalatok tevékenysége során létrejött földtani adatokat, továbbá ásványvagyon számításokat és nyilvántartásokat az állami földtani feladatokat ellátó szerv rendelkezésére kell bocsátani.
 
-(3)
+(3) E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel (a továbbiakban: Módtv5.) megállapított 43. § (9a) bekezdés a) pontját és 43. § (9d) bekezdését azzal az eltéréssel kell alkalmazni, hogy a 2021. évre vonatkozóan a Módtv5. 3. alcíme hatálybalépését megelőző időszakra eső felügyeleti díjat a Módtv5. 3. alcíme hatálybalépését megelőzően hatályos szabályok szerint, a Módtv5. 3. alcíme hatálybalépését követő időszakra eső felügyeleti díjat a Módtv5. 3. alcíme hatálybalépését követően hatályos szabályok szerint, időarányosan kell megfizetni. E törvénynek a Módtv5.-tel megállapított 20. § (4)–(4b) bekezdése először a 2021. április hónapra vonatkozó bányajáradék bevallása esetén alkalmazandó.
 
 (4) A törvény 9. §-a szerinti zárt területté történő kijelölés a folyamatban lévő eljárásokat nem érinti.
 

@@ -24,7 +24,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (4) Az (1) bekezdés szerinti jogok megszűnése esetén az engedélyes, illetőleg az elosztóvezeték tulajdonosa köteles az ingatlan eredeti állapotát helyreállítani.
 
-(5) Előmunkálati jog, vezetékjog, valamint használati jog az engedélyesnek az ingatlan tulajdonosával kötött megállapodása alapján keletkezik. Megállapodás hiányában az előmunkálati jogot, a vezetékjogot, valamint a használati jogot a bányafelügyelet engedélyezi.
+(5) Előmunkálati jog, vezetékjog, valamint használati jog az engedélyesnek az ingatlan tulajdonosával kötött megállapodása alapján keletkezik. Ha a használattal érintett ingatlan közös tulajdonban áll, a megállapodáshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Megállapodás hiányában az előmunkálati jogot, a vezetékjogot, valamint a használati jogot a bányafelügyelet engedélyezi.
 
 (5a) Közterületen elhelyezendő elosztóvezetékre vagy a 38/D. § (1) bekezdésében meghatározott létesítményre és ezek közterületet érintő biztonsági övezetére vezetékjogot vagy használati jogot alapítani nem lehet. Az elosztóvezeték vagy a 38/D. § (1) bekezdésében meghatározott létesítmény közterületen történő elhelyezését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért az építtető köteles kártalanítást fizetni.
 
@@ -40,9 +40,27 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (6) A felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
-(7)
+(7) Az (5) bekezdés szerinti megállapodás megkötéséhez való hozzájárulást vélelmezni kell az olyan tulajdonos, tulajdonostárs részéről, akinek a megállapodás tervezetének közlése
 
-(8)
+a) nem lehetséges, mert
+
+aa) személye bizonytalan, vagy
+
+ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen, vagy
+
+b) meghiúsul, mert a postai küldemény
+
+ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy „elköltözött”, vagy
+
+bb) átvételét megtagadta, vagy
+
+c) eredményes, de a nyilatkozattételre megszabott határidőn belül nem nyilatkozott.
+
+(8) A (7) bekezdés a) pont aa) alpontja alkalmazásában a tulajdonos, tulajdonostárs személye bizonytalannak minősül, ha közokirattal igazolt, hogy
+
+a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai alapján, vagy
+
+b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból nem állapítható meg.
 
 (9)
 

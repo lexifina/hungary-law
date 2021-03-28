@@ -22,7 +22,7 @@
 
 (9a) A felügyeleti díj éves mértéke
 
-a) a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
+a) – a (9d) bekezdésben foglaltak kivételével – a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
 
 b) az engedélyes tevékenység esetében a tárgyévet megelőző évi árbevétel 0,4%-a,
 
@@ -35,6 +35,8 @@ e) a szén-dioxid-tárolóhely üzemeltetőjének, valamint a szén-dioxid-szál
 (9b) A bányafelügyelet eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
 (9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
+
+(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 350 Ft/em3.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 

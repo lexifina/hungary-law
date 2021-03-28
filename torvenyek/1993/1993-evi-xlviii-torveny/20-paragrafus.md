@@ -64,7 +64,11 @@ b) a 3. § (1a) bekezdés b) pontja szerint a katasztrófaveszély vagy az Alapt
 
 (3b) A föld alatti szénelgázosítással történő kitermelés esetében a bányajáradék mértéke az igénybevett ásványi nyersanyag mennyisége után keletkező értéknek a 2%-a.
 
-(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
+(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
+
+(4a) Ha a TTF földgáz tőzsdei jegyzésárának a havi átlaga a 18 EUR/MWh-t meghaladja, földgáz esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke L%-kal, de legfeljebb 6%-kal emelkedik, ahol L = Jalap × (PTTF – 18 EUR/MWh) × 3,2%, L: a bányajáradék-növekedés százalékos mértéke (%); Jalap: a bányajáradék (3) bekezdés a) és c) pontja szerinti mértéke (%); PTTF: a TTF földgáz bevallási időszak napi jegyzésárainak számtani átlaga (EUR/MWh).
+
+(4b) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
 
 (5) A bányajáradék mértéke 0% a növelt hatékonyságú művelési eljárások alkalmazásával kitermelt szénhidrogén mennyisége után.
 
