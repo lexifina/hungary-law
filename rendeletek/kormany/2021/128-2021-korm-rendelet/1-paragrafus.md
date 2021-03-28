@@ -1,4 +1,4 @@
-1. § (1) Az e rendelet hatálybalépésének napján
+1. § (1)[^2] A 2021. március 8-án
 
 a) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 42/A. §-a, 42/E. §-a, 42/F. §-a, 42/G. §-a vagy 50. §-a alapján a gyermekgondozási díjra vagy
 
@@ -17,3 +17,5 @@ fennálló jogosultságot 2021. április 7-ig továbbra is fennállónak kell te
 a) a gyermekgondozási díjra az Ebtv. 42/G. §-a alapján fennálló jogosultság megszűnik az Ebtv. 42/G. § (3) bekezdés f) pontja szerinti esetben,
 
 b) a gyermekgondozást segítő ellátásra a Cst. 20/A. §-a alapján fennálló jogosultság megszűnik a Cst. 20/A. § (1) bekezdés c) pontja szerinti nyilatkozat visszavonásával.
+
+[^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 155/2021. (III. 27.) Korm. rendelet 2. § a) pontjával megállapított szöveg.

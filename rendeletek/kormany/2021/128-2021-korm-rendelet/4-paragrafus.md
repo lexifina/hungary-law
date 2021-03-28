@@ -1,3 +1,3 @@
-4. §[^1]
+4. § (1) A Kormány e rendelet hatályát 2021. április 8-ig meghosszabbítja.
 
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2021. március 28-án lép hatályba.
+(2) Ez a rendelet 2021. április 8-án hatályát veszti.
