@@ -9,7 +9,3 @@
 (3a) Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének, 14. cikk (10) bekezdésének és 15. cikkének való megfelelést szolgálja.
 
 (3b) E törvény a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról szóló, 2014. május 15-i 2014/65/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-(3c) Ez a törvény az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 5., 7., 9. pontjának és a Melléklet 3. pontjának való megfelelést szolgálja.
-
-(4) Ez a törvény
