@@ -1,1 +1,3 @@
-## „(9) Az 1308/2013/EU európai parlamenti és tanácsi rendelet 35. cikke szerinti nemzeti támogatás igénybevétele érdekében az operatív program módosítására vonatkozó, a 11. § (1) bekezdése és a 16. § (1) bekezdése szerinti kérelmet, valamint a 16. § (5) bekezdése szerinti bejelentést a minisztérium honlapján közzétett, a nemzeti támogatás tervezett felhasználásáról szóló formanyomtatvány csatolásával kell megküldeni a miniszter részére. A nemzeti támogatás nem fordítható a 14. § (2) bekezdésében meghatározott bérköltségekre, használt eszközök beszerzésére, valamint beruházási típusú tevékenységek bérlet útján történő megvalósítására.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

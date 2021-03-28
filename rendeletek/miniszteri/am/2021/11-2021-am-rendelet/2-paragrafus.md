@@ -1,3 +1,3 @@
-## 1. § A zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet [a továbbiakban 50/2017. (X. 10.) FM rendelet] 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(2) Ha a termelő tag általi zöldség-, illetve gyümölcstermelés átmeneti szüneteltetése eseteinek megállapítására és annak bejelentésére vonatkozó szabályokat a termelői szervezet a létesítő okiratában megállapítja, akkor az e feltételeknek megfelelő tagot a termelést átmenetileg szüneteltető nem termelő tagnak kell tekinteni. A szántóművelési ágban nyilvántartott mezőgazdasági területen vetésforgó miatt adott évben zöldséget, illetve gyümölcsöt nem termelő, a termelését átmenetileg szüneteltető tagot termelő tagnak kell tekinteni. Az (1) bekezdés szerinti arányok megállapításánál a termelését legfeljebb egybefüggően három évig szüneteltető tagot nem kell beszámítani a nem termelő tagok számába.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

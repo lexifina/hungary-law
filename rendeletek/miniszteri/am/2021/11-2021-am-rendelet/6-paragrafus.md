@@ -1,1 +1,3 @@
-## „(11) Ha a (4b) bekezdésben rögzített tevékenységekre fordított kiadások támogatási jogosultsága részben vagy teljesen nem igazolható, és emiatt nem teljesül az ott előírt arány, akkor a nemzeti támogatás (4) bekezdésben meghatározott arányt meghaladó hányadát a nem igazolt kiadások arányában csökkenteni kell. A támogatáscsökkentést a 892/2017/EU bizottsági rendelet 9. cikke szerinti kérelem alapján jóváhagyható támogatás (10) bekezdés szerint számított szankcióval csökkentett összegéből kell elvégezni.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
