@@ -1,3 +1,3 @@
-## „k) a fizetési meghagyásos üggyel összefüggésben a MOKK-hoz érkezett tértivevény esetén az iratanyag irattárba helyezésének időpontjától”
+## 9. §[^10]
 
-## (kezdődik.)
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

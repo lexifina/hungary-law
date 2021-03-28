@@ -1,1 +1,3 @@
-## „(2) A közjegyző a Hbnytv. 4. § (4) bekezdése szerinti, záradékkal ellátott azonossági nyilatkozatnak, a záradékkal ellátott regisztráció törlése iránti kérelemnek, illetve a regisztrált felhasználó képviseleti jogosultságára vonatkozó nyilvántartási adat törlése iránti, záradékkal ellátott kérelemnek a KÜR-ben rögzített elektronikus másolatát vagy papíralapú másodpéldányát 5 évig őrizheti.”
+## 18. §[^19]
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

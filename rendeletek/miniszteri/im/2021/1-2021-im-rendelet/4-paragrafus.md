@@ -1,7 +1,3 @@
-## „12. a fizetési meghagyásos eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+## 3. §[^4]
 
-## a) a fizetési meghagyást kibocsátotta,
-
-## b) helyett a MOKK elnökének kizárás miatt meghozott határozata alapján más közjegyző került kijelölésre,
-
-## c) a díjfeljegyzési kérelemről döntött;”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
