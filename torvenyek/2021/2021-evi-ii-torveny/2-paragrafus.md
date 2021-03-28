@@ -12,6 +12,6 @@ c)
 
 d)
 
-e)
+e) 57. § (2) bekezdés b) pontjában a „felmerült kiadásokat,” szövegrész helyébe a „felmerült kiadásokat, a hulladékkezeléssel összefüggő, jogszabályban vagy hatósági határozatban megállapított tevékenységek költségeit,” szöveg
 
 lép.
