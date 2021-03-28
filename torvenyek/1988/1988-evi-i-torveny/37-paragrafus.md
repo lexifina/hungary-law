@@ -1,4 +1,4 @@
-37. § (1) A közút területének nem közlekedési célú igénybevételéért – az úttesten kívül végzett közműépítési vagy fenntartási munka kivételével – igénybevételi díjat kell fizetni.
+37. § (1) A közút területének nem közlekedési célú igénybevételéért – az úttesten kívül végzett közműépítési vagy fenntartási munka kivételével – igénybevételi díjat kell fizetni, közút nem közlekedési célú igénybevételéért az igénybevételi díj mellett óvadékfizetési kötelezettség írható elő.
 
 (2) Ha a közutat nem közlekedési célból a kezelő hozzájárulása nélkül, vagy a hozzájárulásban előírt feltételektől eltérően vették igénybe, a közlekedési hatóság – a közút kezelőjének kérelme alapján – az igénybe vevőt az eredeti állapot helyreállítására, a hozzájárulásban előírt feltételek betartására, illetve a közút állagának védelme és a forgalom biztonsága érdekében szükséges intézkedések megtételére kötelezheti, továbbá pótdíj fizetésére kötelezi.
 

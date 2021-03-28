@@ -104,6 +104,8 @@ a) a Kormány, hogy
 
 48. az elektromobilitás szolgáltatást érintő bejelentési kötelezettség alapján eljáró és az elektromos töltőberendezés üzemeltetésének engedélyezését végző Hivatal feladat- és hatáskörét
 
+49. a közút nem közlekedési célú igénybevétele esetén az igénybe vevő óvadékfizetési kötelezettségének részletes szabályait
+
 b) a miniszter, hogy
 
 1. a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának részletes szabályait,

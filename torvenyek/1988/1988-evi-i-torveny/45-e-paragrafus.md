@@ -24,12 +24,14 @@ b) a jogsértő állapot megszüntetése érdekében tett, a Hivatal eljárásá
 
 (4) A Hivatal részére az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője
 
-a) a bejelentés- vagy engedélyköteles tevékenységéből származó előző évi nettó árbevételének 0,075%-ában, vagy
+a) a bejelentés- vagy engedélyköteles tevékenységéből származó előző évi nettó árbevételének 0,085%-ában, vagy
 
-b) – ha a tárgyévet megelőző évben az elektromobilitás szolgáltatónak nem volt, vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor – a tárgyévre vonatkozó üzleti tervben a bejelentés- vagy engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-ában
+b) – ha a tárgyévet megelőző évben nem volt, vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor – a tárgyévre vonatkozó üzleti tervben a bejelentés- vagy engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,085%-ában
 
 meghatározott összegű felügyeleti díjat fizet.
 
 (5) A Hivatal a feladatai ellátásához szükséges mértékben rendszeres és rendkívüli adatszolgáltatásra kötelezheti az elektromobilitás szolgáltatót és az elektromos töltőberendezés üzemeltetőjét. A rendszeres és rendkívüli adatszolgáltatásra vonatkozó rendelkezéseket, az adatszolgáltatás alóli mentesülés szabályait a Hivatal e törvény végrehajtására kiadott rendeletében határozza meg.
 
 (6) A Hivatal véglegessé vált elektromobilitás szolgáltatásra vonatkozó határozatait – a személyes és védett adatok kivételével – a honlapján közzé teszi.
+
+(7) Ha a (4) bekezdés b) pontja szerinti tárgyévi tényleges nettó árbevétel nem azonos az üzleti tervben tervezettel, a különbözet 0,085%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően korrigálni kell.
