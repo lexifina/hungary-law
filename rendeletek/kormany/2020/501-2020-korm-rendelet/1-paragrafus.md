@@ -1,8 +1,8 @@
 ## 1. Ingyenes internet-hozzáférési szolgáltatás biztosítása
 
-1. § (1)[^2] A helyhez kötött internet-hozzáférési szolgáltatás négyszer 30 napra (a továbbiakban: szolgáltatás) ingyenesen vehető igénybe a köznevelésben és a szakképzésben, nappali rendszerű nevelés-oktatásban és szakmai oktatásban, a veszélyhelyzet idején alkalmazandó védelmi intézkedésekről szóló kormányrendelettel összhangban elrendelt tantermen kívüli, digitális munkarendben működő középfokú iskolával fennálló jogviszonyra tekintettel a (2) bekezdésben meghatározott jogosult által.
+1. § (1)[^2] A helyhez kötött internet-hozzáférési szolgáltatás ötször 30 napra (a továbbiakban: szolgáltatás) ingyenesen vehető igénybe a köznevelésben és a szakképzésben, nappali rendszerű nevelés-oktatásban és szakmai oktatásban, a veszélyhelyzet idején alkalmazandó védelmi intézkedésekről szóló kormányrendelettel összhangban elrendelt tantermen kívüli, digitális munkarendben működő középfokú iskolával fennálló jogviszonyra tekintettel a (2) bekezdésben meghatározott jogosult által.
 
-(1a)[^3] Az (1) bekezdés szerinti kedvezmény 2021. március hónap tekintetében az alapfokú nevelés-oktatást folytató köznevelési intézménnyel fennálló jogviszonyra tekintettel is igénybe vehető, egyszer 30 napra.
+(1a)[^3] Az (1) bekezdés szerinti kedvezmény 2021. március és április hónap tekintetében az alapfokú nevelés-oktatást folytató köznevelési intézménnyel fennálló jogviszonyra tekintettel is igénybe vehető, kétszer 30 napra.
 
 (2) Az (1) bekezdés szerinti szolgáltatás ingyenes igénybevételére jogosult
 
@@ -16,6 +16,6 @@ b) az előfizetéssel rendelkező pedagógus vagy oktató, vagy az a személy, a
 
 (4)[^4] A jogosult az (1) és (1a) bekezdése szerinti kedvezményre vonatkozó igényét a veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 484/2020. (XI. 10.) Korm. rendelet] 28. §-ában meghatározott időpontig jelezheti az elektronikus hírközlésről szóló törvény szerinti szolgáltató (a továbbiakban: szolgáltató) felé.
 
-[^2]: Az 1. § (1) bekezdése a 86/2021. (II. 27.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1a) bekezdését a 105/2021. (III. 5.) Korm. rendelet 9. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdése a 147/2021. (III. 27.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 105/2021. (III. 5.) Korm. rendelet 9. §-a iktatta be, szövege a 147/2021. (III. 27.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdését a 138/2021. (III. 23.) Korm. rendelet 1. §-a iktatta be.
