@@ -1,0 +1,3 @@
+1. § (1) A veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet 20. § (5) bekezdése szerinti feladat végrehajtása érdekében kinevezésétől eltérően foglalkoztatott honvédelmi alkalmazott naponta 10 000 forint összegű illetménypótlékra jogosult.
+
+(2) Az (1) bekezdés hatálya alá tartozó honvédelmi alkalmazott a kinevezéstől eltérő foglalkoztatással összefüggésben nem jogosult a munka törvénykönyvéről szóló 2012. évi I. törvény 140–144. §-a és az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 13/A–14/B. §-a szerinti pótlékokra.
