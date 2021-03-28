@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-104-20-
 | 2021-03-10 | 2021-104-20-22.3 | 2010: CXXX. törvény |
 | 2021-03-20 | 2021-104-20-22.4 | 133/2021. (III. 19.) Korm. rendelet |
 | 2021-03-22 | 2021-104-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-03-28 | 2021-104-20-22.6 | 143/2021. (III. 27.) Korm. rendelet |
