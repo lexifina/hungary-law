@@ -90,6 +90,12 @@
 
 42. a minőségvédelmi bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletes szabályait.
 
+43. a koncessziós társaság és a Koordináló szerv együttműködésére vonatkozó részletes szabályokat;
+
+44. a 92/H. § (2) és (5) bekezdésében meghatározott kártalanítás feltételeit és megállapításának rendjét;
+
+45. a hulladékgazdálkodási hatóság által vezetett koncesszori alvállalkozói nyilvántartás tartalmával és vezetésével kapcsolatos részletes szabályokat.
+
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
 
 (2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg:
@@ -147,6 +153,16 @@ bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizeté
 bi)
 
 c) a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
+
+rendeletben állapítsa meg.
+
+(3a) Felhatalmazást kap a Hivatal elnöke, hogy
+
+a) a 18/B. § (3) bekezdésében és a 18/D. § (1) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét,
+
+b) az 53/B. § (7) bekezdés d) pontjában meghatározott érték meghatározásának szempontrendszerét,
+
+c) az 53/N. §-ban előírt indokolt költségek meghatározására, valamint szabályozására vonatkozó alapelveket és keretszabályokat, továbbá az indokolt költség mértékét
 
 rendeletben állapítsa meg.
 

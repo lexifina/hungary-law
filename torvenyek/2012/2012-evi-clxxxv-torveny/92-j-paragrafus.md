@@ -1,0 +1,3 @@
+92/J. § (1) E törvénynek a Mód. tv. által megállapított 2. § (1) bekezdés 26a–26d., 33a., 36c–36h. és 49b. pontja, 53/A–53/K. §-a, 53/M. §-a és 53/N. §-a rendelkezéseit a koncessziós jogosultság gyakorlása tekintetében – a koncessziós szerződés megkötésére irányuló pályázati eljárás előkészítésével és lefolytatásával, a koncessziós szerződéssel, valamint annak megkötésével vagy megszűnésével, továbbá a koncesszori feladatellátásra való felkészüléssel összefüggő rendelkezések kivételével – 2023. július 1-jétől kell alkalmazni.
+
+(2) E törvénynek a Mód. tv. által megállapított 47/A. § (1) és (4a) bekezdése, valamint 47/D. § (3) bekezdése rendelkezéseit 2023. július 1-je előtt csak a 18/B. § (3) bekezdésében és a 92/K. §-ban foglaltak teljesítése érdekében kell alkalmazni.

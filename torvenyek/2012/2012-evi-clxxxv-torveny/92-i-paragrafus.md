@@ -1,0 +1,1 @@
+92/I. § E törvénynek a Mód. tv. által megállapított 53/H. § (1) bekezdését első alkalommal, azzal az eltéréssel kell alkalmazni, hogy a koncessziós társaságnak 2022. december 31. napjáig kell az engedélyekkel és a kapacitást biztosító szerződésekkel rendelkeznie.

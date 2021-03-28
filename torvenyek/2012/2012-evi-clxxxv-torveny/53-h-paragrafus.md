@@ -1,0 +1,7 @@
+## 22/C. A koncessziós társaság és az általa ellátott hulladékgazdálkodási tevékenység
+
+53/H. § (1) A koncessziós társaság a hulladékgazdálkodási koncesszió gyakorlására akkor lesz jogosult, ha a koncessziós szerződés aláírásától számított 1 éven belül gondoskodik a tevékenység végzéséhez szükséges engedély megszerzéséről és a kapacitást biztosító szerződések megkötéséről. Ha a koncessziós társaság az 1 év alatt a szükséges engedélyeket nem szerzi meg vagy a kapacitást biztosító szerződéseket nem köti meg, a koncessziós szerződés a szerződés aláírását követő egy év lejártával megszűnik. A koncessziós szerződés megszűnéséről a Konctv. végrehajtására kiadott kormányrendeletben kijelölt központi kormányzati igazgatási szerv vagy miniszter közleményt tesz közzé a honlapján és intézkedik új koncessziós szerződés megkötése érdekében.
+
+(2) A koncesszornak koncessziós társaságként olyan gazdasági társaságot kell alapítania, amelyben a társaság megalakulásakor és működése alatt folyamatosan a részvények, üzletrészek és szavazatok többségével rendelkezik, valamint kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a koncessziós társaságban tulajdonosként érvényesíteni fogja.
+
+(3) A koncessziós szerződés alapján keletkezett jogok és kötelezettségek a koncesszort illetik meg illetve terhelik, amelyek gyakorlását és teljesítését a koncessziós társaságon és annak szerződött partnerein keresztül valósítja meg.

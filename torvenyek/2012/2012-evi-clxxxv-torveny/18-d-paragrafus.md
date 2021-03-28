@@ -1,0 +1,9 @@
+18/D. § (1) A hulladékgazdálkodási koncessziós jogosultság átengedésével kapcsolatos nyilvános pályázat kiírásának időpontját megelőzően üzembe helyezett nem veszélyes vegyes települési hulladékot égető hulladékégető mű, amelynek hulladékgazdálkodási engedélye a koncessziós területen a legnagyobb éves befogadható égethető hulladékmennyiséget tartalmazza, valamint az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszköz (e § alkalmazásában a továbbiakban: eszköz) üzemeltetője a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó által az eszköz használatát az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben, a Hivatal elnökének e törvény végrehajtására kiadott rendeletében meghatározott díj ellenében.
+
+(2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett eszközök tekintetében a szabad kapacitásokról tájékoztatást ad.
+
+(3) Ha az érintett eszköz üzemeltetője a szabad kapacitás ellenére az eszköz használatát legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal, vagy új eszköz létesítése esetén a vonatkozó hulladékgazdálkodási engedély véglegessé válását követő egy hónapon belül, szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
+
+(4) Az e §-ban alkalmazandó díj, a díjra vonatkozó rendelkezések megsértésének jogkövetkezményei, a bírság és a díjfelügyeleti eljárás tekintetében a 18/B–18/C. § rendelkezései irányadók.
+
+(5) Az e § alkalmazásában 2023. július 1. napjától a hulladékgazdálkodási közszolgáltatás ellátásához 2023. június 30. napjáig igénybe vett eszköz szabad kapacitásnak minősül.

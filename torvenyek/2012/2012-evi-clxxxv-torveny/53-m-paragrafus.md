@@ -1,0 +1,1 @@
+53/M. § A koncessziós kötelezettségek teljesítése során törekedni kell az 53/B. § (6) bekezdése szerinti tájékoztatóban meghatározott hulladékgazdálkodási vagyonelemek további használatára a legkisebb költség elvét is figyelembe véve.
