@@ -1,4 +1,4 @@
-15. § A Get.
+15. §
 
 a)
 
@@ -22,6 +22,4 @@ j)
 
 k)
 
-l) 129. § (1) bekezdésében a „0,075%” szövegrészek helyébe a „0,085%” szöveg
-
-lép.
+l)
