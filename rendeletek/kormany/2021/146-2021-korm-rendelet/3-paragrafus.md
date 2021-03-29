@@ -1,3 +1,5 @@
-## 2. § Az R. 9/B. § (1) bekezdésében a „MÁK” szövegrész helyébe a „MÁK, az Oktatási Hivatal, a Nemzeti Szakképzési és Felnőttképzési Hivatal” szöveg lép.
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
