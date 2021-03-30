@@ -1,0 +1,1 @@
+## „(7) A hitelfelvevő a hallgatói hitel folyósításának szüneteltetését és újraindítását a Diákhitel szervezettől bármikor írásban vagy a Diákhitel szervezet erre rendszeresített elektronikus felületén kérheti.”

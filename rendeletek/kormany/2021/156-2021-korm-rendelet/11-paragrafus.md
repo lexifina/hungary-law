@@ -1,0 +1,3 @@
+## 10. § A Rendelet 33. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A hallgatói hitelrendszerről és a Diákhitel Központról szóló 86/2006. (IV. 12.) Korm. rendelet módosításáról szóló 27/2009. (II. 13.) Korm. rendelet alapján folyósítható emelt összegű hallgatói hitelt akár egy alkalommal is igénybe vevő hitelfelvevő tárgyévi havi törlesztő részlete a 14. § (2)–(4) bekezdésének megfelelő alkalmazásával számított éves jövedelem nyolc – a költségtérítéses képzésre tekintettel meghatározott legnagyobb hitelösszeget akár egy alkalommal is igénybe vett hitelfelvevők esetében kilenc – százalékának 1/12-ed része.”
