@@ -14,7 +14,9 @@ e) a KKIGR működését támogató, egységesített – az OKFŐ honlapján kö
 
 (2) Az (1) bekezdés szerinti intézmények a KKIGR-rel kapcsolatos feladataik elvégzése során kötelesek a Nemzeti Távközlési Gerinchálózat használatára.
 
-(3) Az (1) bekezdés hatálya alá nem tartozó állami fenntartású fekvőbeteg-szakellátó intézmények, valamint az egyházi fenntartásban álló közfinanszírozott fekvőbeteg-szakellátó intézmények interfészen keresztül kötelesek a KKIGR-hez csatlakozni és az 1. mellékletben meghatározott adatokat szolgáltatni.
+(3)[^1] Az (1) bekezdés hatálya alá nem tartozó állami fenntartású fekvőbeteg-szakellátó intézmények interfészen keresztül kötelesek a KKIGR-hez csatlakozni és az 1. mellékletben meghatározott adatokat szolgáltatni.
+
+(3a)[^2] Az egyházi fenntartásban álló közfinanszírozott fekvőbeteg-szakellátó intézmények interfészen keresztül kötelesek a KKIGR-hez csatlakozni és a 2. mellékletben meghatározott adatokat szolgáltatni.
 
 (4) A közfinanszírozott járóbeteg-szakellátó intézmények interfészen keresztül kötelesek a KKIGR-hez csatlakozni és az 1. mellékletben meghatározott adatokat szolgáltatni.
 
@@ -26,4 +28,8 @@ b) központi beszerző szervezet alkalmazását írja elő,
 
 ## a fekvőbeteg-szakellátó intézménynek a 2. § (3) bekezdés c) pontja szerinti rendszerbe feltöltött és engedélyezett beszerzéseit a jóváhagyásra jogosult szerv részére vagy a központi beszerző szerv részére az OKFŐ továbbítja.
 
-(6) A (3) és (4) bekezdés alapján szolgáltatott adatok kezelése az Egészségbiztosítási Alapból származó bevételek hatékony felhasználásának ellenőrzése és az egészségügyi költségvetés tervezése céljából történik.
+(6)[^3] A (3)–(4) bekezdés alapján szolgáltatott adatok kezelése az Egészségbiztosítási Alapból származó bevételek hatékony felhasználásának ellenőrzése és az egészségügyi költségvetés tervezése céljából történik.
+
+[^1]: A 3. § (3) bekezdése a 157/2021. (III. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (3a) bekezdését a 157/2021. (III. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 3. § (6) bekezdése a 157/2021. (III. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
