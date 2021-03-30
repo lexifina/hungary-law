@@ -10,13 +10,13 @@ ba) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás
 
 bb) a ba) pontban meghatározott személy családtagjaként az Szmtv. 6. § (2) bekezdése alapján három hónapot meghaladó tartózkodásra jogosult,
 
-bc) az Szmtv. 7. § (1) bekezdése alapján három hónapot meghaladó tartózkodásra jogosult, vagy
+bc)[^18]
 
 bd) az Szmtv. alapján állandó tartózkodásra jogosult.
 
 (2) A hitelfelvétel feltétele, hogy a hallgató, tanuló (a továbbiakban együtt: hallgató)
 
-a) felsőoktatási intézményben – állami ösztöndíjas, állami részösztöndíjas, önköltséges, államilag támogatott, vagy költségtérítéses képzésben, a Fot. által meghatározott képzési formákban, szinten – érvényes hallgatói, tanulói jogviszonnyal (a továbbiakban együtt: hallgatói jogviszonnyal) rendelkezzen,
+a)[^19] felsőoktatási intézményben – állami ösztöndíjas, állami részösztöndíjas, önköltséges, államilag támogatott, vagy költségtérítéses képzésben, a Nftv. által meghatározott képzési formákban, szinten – érvényes hallgatói, tanulói jogviszonnyal (a továbbiakban együtt: hallgatói jogviszonnyal) rendelkezzen,
 
 b) lakóhelyét a személyiadat- és lakcímnyilvántartásba bejelentette, és
 
@@ -24,13 +24,15 @@ c) tanulmányai folytatása céljából a képzési időszakra bejelentkezett, v
 
 d) a hallgatói hitel igénylésekor nincs érvényes, azonos hitelcélú felhasználást biztosító hallgatói hitel-, vagy kölcsönszerződése a Diákhitel szervezettel.
 
-(3)[^7] Nem jogosult hallgatói hitelre az a hallgató,
+(3)[^20] Nem jogosult hallgatói hitelre az a hallgató,
 
 a) akinek korábban kötött hitel- vagy kölcsönszerződése megszűnt és hallgatói hiteltartozása van, vagy
 
 b) aki a 19. § (1) bekezdés f) pontja szerint elengedett tartozással rendelkezik.
 
-(4)[^8] Nem kezdeményezheti a szabad felhasználású hitelre vonatkozó hallgatói hitelszerződés megkötését az, akit a bíróság jogerősen végrehajtandó szabadságvesztésre ítélt és a szabadságvesztést még nem hajtották végre, vagy annak végrehajthatósága még nem szűnt meg, kivéve, ha a bíróság az elítéltet feltételes szabadságra bocsátotta.
+(4)[^21] Nem kezdeményezheti a szabad felhasználású hitelre vonatkozó hallgatói hitelszerződés megkötését az, akit a bíróság jogerősen végrehajtandó szabadságvesztésre ítélt és a szabadságvesztést még nem hajtották végre, vagy annak végrehajthatósága még nem szűnt meg, kivéve, ha a bíróság az elítéltet feltételes szabadságra bocsátotta.
 
-[^7]: A 3. § (3) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^8]: A 3. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 3. § (1) bekezdés b) pont bc) alpontját a 156/2021. (III. 29.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^19]: A 3. § (2) bekezdés a) pontja a 156/2021. (III. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^20]: A 3. § (3) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^21]: A 3. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 1. §-a iktatta be.

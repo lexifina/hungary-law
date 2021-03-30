@@ -12,6 +12,6 @@ c) az egyes hitelfelvevő nők által igényelt gyermektámogatás összegét.
 
 (4) A kincstár a Diákhitel szervezet által igényelt támogatási összeg kifizetését a tárgyhónapot követő hónap 25. napjáig teljesíti.
 
-(5)[^59] A Diákhitel szervezet negyedévente, a negyedév 10. napjáig elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít az államháztartásért felelős miniszternek, valamint a családpolitikáért felelős miniszternek a tárgyévre és a következő három naptári évre várható gyermektámogatás összegéről, a második és a harmadik gyermek születéséhez vagy örökbefogadásához kapcsolódó igénylések számáról, valamint a törlesztési kötelezettség szüneteltetését igénybe vevő várandós vagy örökbefogadó nők számáról.
+(5)[^85] A Diákhitel szervezet negyedévente, a negyedév 10. napjáig elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít az államháztartásért felelős miniszternek, valamint a családpolitikáért felelős miniszternek a tárgyévre és a következő három naptári évre várható gyermektámogatás összegéről, a második és a harmadik gyermek születéséhez vagy örökbefogadásához kapcsolódó igénylések számáról, valamint a törlesztési kötelezettség szüneteltetését igénybe vevő várandós vagy örökbefogadó nők számáról.
 
-[^59]: A 18/D. § (5) bekezdése a 444/2020. (IX. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^85]: A 18/D. § (5) bekezdése a 444/2020. (IX. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
