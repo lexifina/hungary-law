@@ -1,1 +1,3 @@
-## „(7) A hitelfelvevő a hallgatói hitel folyósításának szüneteltetését és újraindítását a Diákhitel szervezettől bármikor írásban vagy a Diákhitel szervezet erre rendszeresített elektronikus felületén kérheti.”
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

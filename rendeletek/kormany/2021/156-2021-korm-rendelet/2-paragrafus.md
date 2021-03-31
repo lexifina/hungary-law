@@ -1,1 +1,3 @@
-## „(10) A 29/A. §-ban meghatározott hallgatói hitel esetében a kamat tőkésítésére nem kerül sor.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 8. § A Rendelet 26. §-a a következő (3a) bekezdéssel egészül ki:
+## 8. §[^8]
 
-## „(3a) A céltartalék (3) bekezdésben meghatározott felszabadítására vonatkozó rendelkezést nem kell alkalmazni abban az esetben, ha az aktuárius által meghatározott szükséges céltartalék a hiteltörlesztési moratórium hatásának következményeként – abból az okból, hogy a hátralékossági státusz romlását nem eredményezi a visszafizetések elmaradása – marad el a céltartalék mérleg-fordulónapi állományától.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
