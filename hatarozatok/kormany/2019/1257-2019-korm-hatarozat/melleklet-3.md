@@ -1,6 +1,6 @@
 | Alcím megnevezése | Támogatási cél | Támogatási összeg (forint) |
 
-| 32. Szár Község Önkormányzata feladatainak támogatása | Sport infrastruktúra fejlesztése és kulturális feladatok támogatása | 30 400 000 |
+| 32. Szár Község Önkormányzata feladatainak támogatása | Sport infrastruktúra fejlesztése és kulturális feladatok ellátása támogatás nyújtásával | 30 400 000 |
 
 | 33. Szank Község Önkormányzata feladatainak támogatása | Sport infrastruktúra fejlesztése | 127 000 000 |
 
