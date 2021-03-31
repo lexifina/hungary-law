@@ -14,7 +14,7 @@
 
 ## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – a helyi önkormányzatok támogatása érdekében – elrendeli
 
-## a) 1 399 759 000 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím (a továbbiakban: GVP előirányzat) terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 40. Komárom Város Önkormányzata gazdaságfejlesztési feladatainak támogatása cím javára, a 2. melléklet szerint az ipari park bővítése és zajvédelmi feladatok megvalósítása érdekében,
+## a)[^1] 1 399 759 000 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím (a továbbiakban: GVP előirányzat) terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 40. Komárom Város Önkormányzata gazdaságfejlesztési feladatainak támogatása cím javára, a 2. melléklet szerint az ipari park bővítése és infrastruktúra fejlesztés megvalósítása érdekében,
 
 ## b) 167 157 100 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím, 1. A helyi önkormányzatok általános feladatainak működési célú támogatása alcím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 41. Helyi önkormányzatok fejlesztési és működési feladatainak támogatása cím 1. melléklet szerinti alcímei javára, az ott megjelölt célokra, a 2. melléklet szerint;
 
@@ -31,3 +31,5 @@
 ## 5. egyetért azzal, hogy a belügyminiszter a 4. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a kedvezményezett települési önkormányzatok számára.
 
 1. melléklet az 1801/2020. (XI. 17.) Korm. határozathoz
+
+[^1]: A 2. pont a) alpontja az 1147/2021. (III. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
