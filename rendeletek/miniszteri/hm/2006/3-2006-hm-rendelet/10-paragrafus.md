@@ -2,7 +2,7 @@
 
 ## 10. § Helikopterrel végrehajtott speciális feladatok a következők:
 
-a)[^7] repülés terepkövetéssel, lopakodó (NOE) repülés;
+a)[^8] repülés terepkövetéssel, lopakodó (NOE) repülés;
 
 b) csörlőzés;
 
@@ -14,4 +14,4 @@ e) leszállás repülőtéren kívül, magas hegyekben, korlátozott méretű te
 
 f) személyek légi deszantolása.
 
-[^7]: A 10. § a) pontja a 12/2009. (VIII. 19.) HM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 10. § a) pontja a 12/2009. (VIII. 19.) HM rendelet 3. §-ával megállapított szöveg.

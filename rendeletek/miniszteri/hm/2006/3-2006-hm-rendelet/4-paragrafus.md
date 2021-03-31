@@ -56,7 +56,7 @@ cb) kalibráló repülés;
 
 cc) kísérleti repülés;
 
-cd) személyzet nélküli állami légi jármű repülése;
+cd)[^3] pilóta nélküli állami légijármű repülése;
 
 ce) légvédelmi ellenőrző (cél-) repülés;
 
@@ -132,3 +132,4 @@ e) sztratoszféra repülésekre FL 410 (12 500 m) magasságtól 131 230 láb (40
 
 [^1]: A 4. § (2) bekezdése a 12/2009. (VIII. 19.) HM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 4. § (3) bekezdése a 12/2009. (VIII. 19.) HM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (3) bekezdés c) pont cd) alpontja a 10/2021. (III. 23.) HM rendelet 3. § a) pontja szerint módosított szöveg.

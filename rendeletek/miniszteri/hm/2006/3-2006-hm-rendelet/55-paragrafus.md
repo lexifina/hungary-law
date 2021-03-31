@@ -12,7 +12,7 @@ c) 10 km-en belülre csak a repülőtérrendben meghatározott forgalmi körre l
 
 d) a légijármű vezető kérésére a radar forgalmi körön minimum 8 km-re lehet vektorálni a légijárművet.
 
-(2)[^32] A közelkörzeti irányító:
+(2)[^37] A közelkörzeti irányító:
 
 a) a fordulóparancsot megelőzően tájékoztatja a légijármű-vezetőt a repülőtérhez viszonyított helyzetéről, majd
 
@@ -36,4 +36,4 @@ b) a többi kötelék esetén a céljelek köré írt körvonaltól kell számí
 
 c) nagy létszámú kötelék esetén célszerű a perifériákon elhelyezkedő légijárművek SSR válaszjeladó berendezéseit üzemeltetni.
 
-[^32]: Az 55. § (2) bekezdése a 12/2009. (VIII. 19.) HM rendelet 17. §-ával megállapított szöveg.
+[^37]: Az 55. § (2) bekezdése a 12/2009. (VIII. 19.) HM rendelet 17. §-ával megállapított szöveg.

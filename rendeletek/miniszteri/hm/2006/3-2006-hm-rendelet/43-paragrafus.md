@@ -16,10 +16,10 @@ d) közvetlen életmentő feladatban részt vevő légijármű;
 
 e) „RAMSZESZ” kódszót használó rendészeti légijármű;
 
-f)[^30] gyakorló légvédelmi készenléti szolgálatot ellátó állami légi jármű;
+f)[^33] gyakorló légvédelmi készenléti szolgálatot ellátó állami légi jármű;
 
 g) védett személyt szállító légijármű;
 
 h) navigációs eszközök berepülését végző légijármű.
 
-[^30]: A 43. § (3) bekezdésének f) pontja a 12/2009. (VIII. 19.) HM rendelet 15. §-ával megállapított szöveg.
+[^33]: A 43. § (3) bekezdésének f) pontja a 12/2009. (VIII. 19.) HM rendelet 15. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 18. § (1) A kötelék lehet zárt, illetve nyitott kötelék.
 
-(2)[^11] Zárt kötelék esetén a légi járművek azonos magasságon repülnek úgy, hogy az egyes légi járművek közötti vízszintes távolság legfeljebb 0,5 NM (1 km), a repülési magasság eltérés legfeljebb 100 láb (30 m) lehet. A légi járművek között állandó vizuális kapcsolat megléte szükséges.
+(2)[^12] Zárt kötelék esetén a légi járművek azonos magasságon repülnek úgy, hogy az egyes légi járművek közötti vízszintes távolság legfeljebb 0,5 NM (1 km), a repülési magasság eltérés legfeljebb 100 láb (30 m) lehet. A légi járművek között állandó vizuális kapcsolat megléte szükséges.
 
 (3) Nyitott kötelék esetén a legnagyobb, illetve a legkisebb magasságon repülő légijármű között a függőleges távolság több mint 100 láb (30 m), az egyes légijárművek közötti vízszintes távolság meghaladja a 0,5 NM (1 km)-t.
 
@@ -14,7 +14,7 @@
 
 (7) Radarkövetéssel történő repülésnél – ahol a kötelékben repülő légijárművek az egymástól való távolságot a fedélzeti radarok folyamatos alkalmazásával tartják – a radarkövetés minimális távolsága nem elkülönített légtérben 5 NM (10 km). A radarkövetéssel repülő légijárművek csak műveleti szempontból tekintendők köteléknek.
 
-(8)[^12] Katonai repülés végrehajtásakor a kötelékrepülésre – az e rendeletben foglaltakon túlmenően – az üzemeltetői, illetve üzemben tartói utasítások, valamint az SOP szabályai vonatkoznak.
+(8)[^13] Katonai repülés végrehajtásakor a kötelékrepülésre – az e rendeletben foglaltakon túlmenően – az üzemeltetői, illetve üzemben tartói utasítások, valamint az SOP szabályai vonatkoznak.
 
-[^11]: A 18. § (2) bekezdése a 12/2009. (VIII. 19.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^12]: A 18. § (8) bekezdését a 12/2009. (VIII. 19.) HM rendelet 6. § (2) bekezdése iktatta be.
+[^12]: A 18. § (2) bekezdése a 12/2009. (VIII. 19.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^13]: A 18. § (8) bekezdését a 12/2009. (VIII. 19.) HM rendelet 6. § (2) bekezdése iktatta be.

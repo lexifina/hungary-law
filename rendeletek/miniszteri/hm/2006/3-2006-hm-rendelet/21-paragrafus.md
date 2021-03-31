@@ -1,4 +1,4 @@
-## 20. § Állami légijármű veszélyes légtérben a külön jogszabályban[^16] meghatározottak szerint repülhet.
+## 20. § Állami légijármű veszélyes légtérben a külön jogszabályban[^17] meghatározottak szerint repülhet.
 
 ## Vészelhagyás, vészledobás, katapultálás
 
@@ -8,4 +8,4 @@
 
 (3) Katapultálás vagy vészelhagyás során – ha a rendelkezésre álló idő megengedi –, az erre a célra kijelölt légtérben a légi üzemeltetési utasításban leírtak szerint kell eljárni. Ha a légijármű elhagyása haladéktalanul szükséges, katapultálni lehetőleg az emberi élet és anyagi javak védelmének figyelembevételével kell.
 
-[^16]: A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 14/1998. (VI. 24.) KHVM–HM–KTM együttes rendelet.
+[^17]: A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 14/1998. (VI. 24.) KHVM–HM–KTM együttes rendelet.
