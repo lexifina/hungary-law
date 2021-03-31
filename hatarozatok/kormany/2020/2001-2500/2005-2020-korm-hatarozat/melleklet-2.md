@@ -4,7 +4,7 @@
 
 | 2. | Debrecen Megyei Jogú Város Önkormányzata feladatainak támogatása | 1 380 000 000 | önkormányzati feladatok ellátása érdekében pénzeszközátadás, támogatásnyújtás |
 
-| 3. | Esztergom Város Önkormányzata parkolási feladatainak támogatása | 435 982 000 | mélygarázs károsodásainak helyreállítása |
+| 3. | Esztergom Város Önkormányzata parkolási feladatainak támogatása | 435 982 000 | önkormányzati utak építése, felújítása kapcsolódó közműfejlesztésekkel |
 
 | 4. | Eger Megyei Jogú Város Önkormányzata feladatainak támogatása | 600 000 000 | egri vár fejlesztése |
 

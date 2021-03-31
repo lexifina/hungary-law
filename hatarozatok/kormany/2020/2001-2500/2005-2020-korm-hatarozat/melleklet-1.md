@@ -204,7 +204,7 @@
 
 ## 17. A Kormány egyetért azzal, hogy a Központi Maradványelszámolási Alapból, a Beruházás Előkészítési Alapból, a Gazdaságvédelmi programok előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1176/2020. (IV. 23.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára átcsoportosított 1 200 000 000 forintból 49 932 847 forint a XV. Pénzügyminisztérium fejezet, 5. Közbeszerzési és Ellátási Főigazgatóság címen a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-1. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz
+1. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^16]
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -221,3 +221,4 @@
 [^13]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^14]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^15]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 1. melléklet 1147/2021. (III. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
