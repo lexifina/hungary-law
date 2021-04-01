@@ -476,7 +476,7 @@ Sátoraljaújhelyi járás
 
 Tokaji járás
 
-5.[^237] Csongrád-Csanád megye
+5.[^238] Csongrád-Csanád megye
 
 5.1. Hódmezővásárhelyi Járási Hivatal
 
@@ -852,7 +852,7 @@ Szombathelyi járás
 
 Kőszegi járás
 
-18.[^238] Veszprém megye
+18.[^239] Veszprém megye
 
 18.1. Devecseri Járási Hivatal
 
@@ -904,5 +904,5 @@ Letenyei járás
 
 Zalaegerszegi járás
 
-[^237]: A 3. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendelet 41. § a) pontjával megállapított szöveg.
-[^238]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.
+[^238]: A 3. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendelet 41. § a) pontjával megállapított szöveg.
+[^239]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.

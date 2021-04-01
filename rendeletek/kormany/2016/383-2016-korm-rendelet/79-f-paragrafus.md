@@ -6,6 +6,6 @@ b) műemléki területeket és műemlékeket tartalmazó kulturális és öröks
 
 (2) A kulturális örökségvédelmi szakkérdés vizsgálata annak megállapítására irányul, hogy a telekalakítás a kulturális örökség védelméről szóló törvényben rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
-(3)[^226]
+(3)[^227]
 
-[^226]: A 79/F. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 27. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^227]: A 79/F. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 27. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
