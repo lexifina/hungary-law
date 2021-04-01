@@ -28,6 +28,6 @@ m) a hozott döntéseket és
 
 n) a szervezeti és működési szabályzatban meghatározottakat.
 
-(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyv közokirat, amelynek elkészítéséről a jegyző gondoskodik. A zárt ülésről külön jegyzőkönyvet kell készíteni. A jegyzőkönyvet az ülést követő tizenöt napon belül a jegyző köteles megküldeni a kormányhivatalnak.
+(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyv közokirat, amelynek elkészítéséről a jegyző gondoskodik. A zárt ülésről külön jegyzőkönyvet kell készíteni. A jegyzőkönyvet a jegyző kormányrendeletben meghatározottak szerint köteles megküldeni a kormányhivatalnak.
 
 (3) A választópolgárok – a zárt ülés kivételével – betekinthetnek a képviselő-testület előterjesztésébe és ülésének jegyzőkönyvébe. A közérdekű adat és közérdekből nyilvános adat megismerésének lehetőségét zárt ülés tartása esetén is biztosítani kell. A zárt ülésen hozott képviselő-testületi döntés is nyilvános.

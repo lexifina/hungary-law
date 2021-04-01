@@ -20,7 +20,7 @@ g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közter
 
 h) az önkormányzati ASP rendszer elemeit és működtetésének szabályait, az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
 
-(2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
+(2) Felhatalmazást kap a Kormány, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
 (3) Felhatalmazást kap a települési, a fővárosban a fővárosi önkormányzat, hogy rendeletben állapítsa meg a közterületek elnevezésének, valamint az elnevezésük megváltoztatására irányuló kezdeményezés és a házszám-megállapítás szabályait.
 
