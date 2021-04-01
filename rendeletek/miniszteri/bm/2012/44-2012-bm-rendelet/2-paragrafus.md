@@ -20,9 +20,11 @@ c) korábbi, nem belügyi munkáltató által lakáscélra nyújtott munkáltat�
 
 6. lakásbővítés: a lakás alapterületének olyan növelése, amely legalább eggyel több lakószoba kialakítását eredményezi;
 
+6a.[^4] lakáscélú pénzintézeti kölcsön: olyan, pénzintézet által jelzálogjog alapítása mellett kötött kölcsönszerződés alapján folyósított kölcsön, amelyet a pénzintézet lakóingatlan építése, vásárlása, cseréje vagy bővítése céljából nyújt,
+
 7. lakásépítés: a dolgozó tulajdonába kerülő lakás építése, ideértve az önálló lakást eredményező emeletráépítést, tetőtér-beépítést, lakás műszaki megosztását, valamint a nem lakás céljára szolgáló helyiségek lakássá történő átalakítását;
 
-7a.[^4] lakás vásárlása: az Szja. törvényben ekként meghatározott fogalom;
+7a.[^5] lakás vásárlása: az Szja. törvényben ekként meghatározott fogalom;
 
 8. önerő:
 
@@ -52,7 +54,7 @@ gb) az eladott lakás értékesítésével kapcsolatosan megfizetett, igazolt k�
 
 gc) a bővíteni, korszerűsíteni vagy akadálymentesíteni kívánt lakás megvétele, építése, cseréje esetén az erre fordított összeggel.
 
-9.[^5] méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
+9.[^6] méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
 
 a) egy-két személy esetében legfeljebb három lakószoba,
 
@@ -63,5 +65,6 @@ c) minden további személy esetében egy lakószobával nő;
 [^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított, a 11/2019. (IV. 8.) BM rendelet 12. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § az 1/2018. (I. 18.) BM rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § 3. pontja a 31/2018. (XII. 19.) BM rendelet 9. § (1) bekezdésével megállapított, a 11/2019. (IV. 8.) BM rendelet 12. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § 7a. pontját a 11/2019. (IV. 8.) BM rendelet 7. §-a iktatta be.
-[^5]: A 2. § 9. pontját a 31/2018. (XII. 19.) BM rendelet 9. § (2) bekezdése iktatta be.
+[^4]: A 2. § 6a. pontját a 7/2021. (III. 10.) BM rendelet 1. §-a iktatta be.
+[^5]: A 2. § 7a. pontját a 11/2019. (IV. 8.) BM rendelet 7. §-a iktatta be.
+[^6]: A 2. § 9. pontját a 31/2018. (XII. 19.) BM rendelet 9. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-## 36. §[^88] E rendeletnek az egyes lakhatási támogatásokkal kapcsolatos miniszteri rendeletek módosításáról szóló 11/2019. (IV. 8.) BM rendelettel megállapított rendelkezéseit a rendvédelmi igazgatási szolgálati jogviszonyban lévőkre 2019. február 1-jétől kell alkalmazni. A 2019. február 1-jén rendvédelmi igazgatási szolgálati jogviszonyban továbbfoglalkoztatott 2019. január 31. napján fennálló lakáscélú munkáltatói kölcsönét a foglalkoztatási jogviszonyának megváltozása nem érinti.
+## 36. §[^107] E rendeletnek az egyes lakhatási támogatásokkal kapcsolatos miniszteri rendeletek módosításáról szóló 11/2019. (IV. 8.) BM rendelettel megállapított rendelkezéseit a rendvédelmi igazgatási szolgálati jogviszonyban lévőkre 2019. február 1-jétől kell alkalmazni. A 2019. február 1-jén rendvédelmi igazgatási szolgálati jogviszonyban továbbfoglalkoztatott 2019. január 31. napján fennálló lakáscélú munkáltatói kölcsönét a foglalkoztatási jogviszonyának megváltozása nem érinti.
 
-1. melléklet a 44/2012. (VIII. 29.) BM rendelethez[^89]
+1. melléklet a 44/2012. (VIII. 29.) BM rendelethez[^108]
 
 |  | A | B |
 
@@ -24,5 +24,5 @@
 
 | 9. | Terrorelhárítási Központ vezetője | a teljes személyi állomány tekintetében |
 
-[^88]: A 36. §-t a 11/2019. (IV. 8.) BM rendelet 11. §-a iktatta be.
-[^89]: Az 1. mellékletet a 31/2018. (XII. 19.) BM rendelet 16. §-a iktatta be, szövege a 27/2019. (VI. 28.) BM rendelet 26. § b) pontja szerint módosított szöveg.
+[^107]: A 36. §-t a 11/2019. (IV. 8.) BM rendelet 11. §-a iktatta be.
+[^108]: Az 1. mellékletet a 31/2018. (XII. 19.) BM rendelet 16. §-a iktatta be, szövege a 27/2019. (VI. 28.) BM rendelet 26. § b) pontja szerint módosított szöveg.

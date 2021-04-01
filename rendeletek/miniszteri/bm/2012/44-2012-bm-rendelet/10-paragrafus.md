@@ -1,19 +1,28 @@
 ## adható.
 
-10. § (1) A munkáltatói kölcsön visszafizetésének időtartama (futamidő)
+10. § (1)[^52] A munkáltatói kölcsön visszafizetésének időtartama (a továbbiakban: futamidő)
 
-a) lakásépítés, lakásvásárlás esetén legfeljebb 20 év,
+a)[^53] lakásépítés, lakásvásárlás esetén legfeljebb 25 év,
 
-b)[^49] lakásbővítés, valamint a 4. § (1) bekezdés c) pontjában foglalt esetben legfeljebb 15 év,
+b)[^54] lakásbővítés, valamint a 4. § (1) bekezdés c) pontjában foglalt esetben legfeljebb 20 év,
 
-c)[^50] korszerűsítés és akadálymentesítés esetén legfeljebb 10 év.
+c)[^55] korszerűsítés és akadálymentesítés esetén legfeljebb 15 év.
 
-(2)[^51]
+d)[^56] lakáscélú pénzintézeti kölcsön alapján fennálló tartozás összegének csökkentése, kiegyenlítése esetén legfeljebb 25 év,
+
+(2)[^57]
 
 (3) A munkáltatói kölcsön visszafizetésének kezdő időpontja a kölcsönszerződés megkötését követő hónapnak a kölcsönszerződésben megállapított napja.
 
-(4) A munkáltatói kölcsön visszafizetésének időtartama alatt, rendkívül indokolt esetben, írásbeli kérelemre, a munkáltatói jogkör gyakorlójának javaslatára, a helyi lakásügyi szerv vezetője – a korábbi jogszabályok alapján nyújtott felújítási kölcsön kivételével – a törlesztést legfeljebb két évre felfüggesztheti. A felfüggesztés a futamidőt nem változtatja meg, a felfüggesztési idő elteltével a törlesztő részletek összegét újból meg kell állapítani.
+(4)[^58] A munkáltatói kölcsön visszafizetésének időtartama alatt, rendkívül indokolt esetben, írásbeli kérelemre, a munkáltatói jogkör gyakorlójának javaslatára, a helyi lakásügyi szerv vezetője – a korábbi jogszabályok alapján nyújtott felújítási kölcsön kivételével – a törlesztést egy alkalommal legfeljebb két évre felfüggesztheti. A felfüggesztés a futamidőt nem változtatja meg, a felfüggesztési idő elteltével a törlesztő részletek összegét újból meg kell állapítani.
 
-[^49]: A 10. § (1) bekezdés b) pontja az 1/2018. (I. 18.) BM rendelet 12. § l) pontja szerint módosított szöveg.
-[^50]: A 10. § (1) bekezdés c) pontja az 1/2018. (I. 18.) BM rendelet 12. § n) pontja szerint módosított szöveg.
-[^51]: A 10. § (2) bekezdését a 81/2012. (XII. 28.) BM rendelet 33. § c) pontja hatályon kívül helyezte.
+(5)[^59] A munkáltatói kölcsön visszafizetésének időtartama alatt kétévente a dolgozó írásbeli kérelmére a helyi lakásügyi szerv a dolgozó jövedelmi viszonyaihoz igazodóan módosíthatja a megállapodást a törlesztőrészlet és a futamidő vonatkozásában. Ha ezzel kapcsolatosan a kölcsönszerződés módosítása miatt a pénzintézet költséget számol fel, annak megfizetése a dolgozót terheli. A futamidő módosítása esetén sem haladhatja meg a futamidő az (1) bekezdésben meghatározott időtartamot.
+
+[^52]: A 10. § (1) bekezdés nyitó szövegrésze a 7/2021. (III. 10.) BM rendelet 10. § a) pontja szerint módosított szöveg.
+[^53]: A 10. § (1) bekezdés a) pontja a 7/2021. (III. 10.) BM rendelet 10. § b) pontja szerint módosított szöveg.
+[^54]: A 10. § (1) bekezdés b) pontja az 1/2018. (I. 18.) BM rendelet 12. § l) pontja, a 7/2021. (III. 10.) BM rendelet 10. § c) pontja szerint módosított szöveg.
+[^55]: A 10. § (1) bekezdés c) pontja az 1/2018. (I. 18.) BM rendelet 12. § n) pontja, a 7/2021. (III. 10.) BM rendelet 10. § d) pontja szerint módosított szöveg.
+[^56]: A 10. § (1) bekezdés d) pontját a 7/2021. (III. 10.) BM rendelet 4. § (1) bekezdése iktatta be.
+[^57]: A 10. § (2) bekezdését a 81/2012. (XII. 28.) BM rendelet 33. § c) pontja hatályon kívül helyezte.
+[^58]: A 10. § (4) bekezdése a 7/2021. (III. 10.) BM rendelet 10. § e) pontja szerint módosított szöveg.
+[^59]: A 10. § (5) bekezdését a 7/2021. (III. 10.) BM rendelet 4. § (2) bekezdése iktatta be.

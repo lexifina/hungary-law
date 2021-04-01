@@ -1,4 +1,4 @@
-## 27. § A helyi lakásügyi szerv a munkáltatói kölcsön iránti kérelmek jogszerűségét a beérkezés sorrendjében vizsgálja meg, és a 8. §-ban foglaltak alapján megállapítja a munkáltatói kölcsön összegét, valamint a 24. §-ban foglaltak figyelembevételével megállapítja az elbírálás sorrendjét.
+## 27. §[^99] A helyi lakásügyi szerv a munkáltatói kölcsön iránti kérelmek jogszerűségét a beérkezés sorrendjében vizsgálja meg, és a 8. §-ban foglaltak alapján javaslatot tesz a munkáltatói kölcsön összegére, valamint a 24. §-ban foglaltak figyelembevételével megállapítja az elbírálás sorrendjét, majd a 28. § (1) bekezdése szerinti bizottsági javaslatot 10 munkanapon belül továbbítja a döntésre jogosult vezetőnek.
 
 28. § (1) A helyi lakásügyi szerv – a szakmailag előkészített – kérelmet az adott szervnél működő, e célra létrehozott bizottság elé terjeszti, és a bizottság javaslatát továbbítja a döntésre jogosult vezetőnek.
 
@@ -10,6 +10,7 @@
 
 (5) A Büntetés-végrehajtás Országos Parancsnokságával, valamint a büntetés-végrehajtási intézetekkel és intézményekkel szolgálati jogviszonyban álló igénylő esetén a kérelmek elbírálására a helyi lakásügyi szerv vezetője jogosult.
 
-(6)[^82] Az Alkotmányvédelmi Hivatalnál, a Nemzetbiztonsági Szakszolgálatnál szolgálati jogviszonyban álló vagy a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt igénylő esetén a kérelmek elbírálására e szervek vezetője jogosult.
+(6)[^100] Az Alkotmányvédelmi Hivatalnál, a Nemzetbiztonsági Szakszolgálatnál szolgálati jogviszonyban álló vagy a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt igénylő esetén a kérelmek elbírálására e szervek vezetője jogosult.
 
-[^82]: A 28. § (6) bekezdése a 29/2016. (VII. 15.) BM rendelet 22. §-ával megállapított szöveg.
+[^99]: A 27. § a 7/2021. (III. 10.) BM rendelet 9. §-ával megállapított szöveg.
+[^100]: A 28. § (6) bekezdése a 29/2016. (VII. 15.) BM rendelet 22. §-ával megállapított szöveg.
