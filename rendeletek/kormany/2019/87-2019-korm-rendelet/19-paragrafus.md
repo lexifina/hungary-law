@@ -1,3 +1,1 @@
-19. § (1) A Kit. 176. § (3) bekezdése és a Kttv. 178. § (2) bekezdése alapján a Magyar Államkincstár a közszolgálati életpálya kidolgozásáért felelős miniszter részére átadja a rendelet hatálya alá tartozó munkáltatók közszolgálati alkalmazottai és munkavállalói létszámára (teljes és nem teljes munkaidős foglalkoztatottak), keresetére (havi rendszeres kereset, egyéb nem havi rendszerességű kereset, egyéb jövedelem) vonatkozó statisztikai adatokat.
-
-(2) Az (1) bekezdés szerinti adatok átadásának időpontjával, valamint az átadással kapcsolatos feldolgozási és technikai szempontokról a közszolgálati életpálya kidolgozásáért felelős miniszter közvetlenül tájékoztatja a Magyar Államkincstárt.
+## 18. §

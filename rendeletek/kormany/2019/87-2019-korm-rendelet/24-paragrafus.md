@@ -1,4 +1,4 @@
-## 23. §[^4]
+## 23. §[^6]
 
 ## 9. Az álláshely-nyilvántartásra vonatkozó szabályok
 
@@ -8,7 +8,7 @@
 
 (3) Az álláshely-nyilvántartás a Kit. 62. § (7) és (8) bekezdése szerinti adatokat tartalmazza.
 
-(4)[^5]
+(4)[^7]
 
-[^4]: A 23. §-t a 673/2020. (XII. 28.) Korm. rendelet 30. § e) pontja hatályon kívül helyezte.
-[^5]: A 24. § (4) bekezdése a 673/2020. (XII. 28.) Korm. rendelet 30. § f) pontja hatályon kívül helyezte.
+[^6]: A 23. §-t a 673/2020. (XII. 28.) Korm. rendelet 30. § e) pontja hatályon kívül helyezte.
+[^7]: A 24. § (4) bekezdése a 673/2020. (XII. 28.) Korm. rendelet 30. § f) pontja hatályon kívül helyezte.
