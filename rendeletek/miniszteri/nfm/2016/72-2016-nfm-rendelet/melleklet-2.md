@@ -4,17 +4,13 @@
 
 | 1. | Szolgáltatás | A külön díj mértéke az elosztói alapdíj százalékában | A külön díj felszámításának alapja |
 
-| 2. | 2. § a) pontja, ha a felhasználó személyesen veszi át a másolatot | 1 | számla db (lapok számától függetlenül) |
+| 2. | 2. § a) pontja, ha a felhasználó személyesen veszi át a másolatot | 0,7 | számla db (lapok számától függetlenül) |
 
-| 3. | 2. § a) pontja, ha a felhasználó a másolatot postai kézbesítéssel kéri | 2 | számla db (lapok számától függetlenül) |
+| 3. | 2. § a) pontja, ha a felhasználó a másolatot postai kézbesítéssel kéri | 1,4 | számla db (lapok számától függetlenül) |
 
-| 4. | 2. § b) pontja | 2 | eset |
+| 4. | 2. § b) pontja | 0,4 | lapok száma |
 
-| 5. | 2. § c) pontja | 0,5 | lapok száma |
-
-| 6. | 2. § d) pontja | 15 | eset |
-
-2. melléklet a 72/2016. (XII. 29.) NFM rendelethez
+2. melléklet a 72/2016. (XII. 29.) NFM rendelethez[^7]
 
 A felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások legmagasabb külön díjai
 
@@ -22,6 +18,8 @@ A felhasználó szerződésszegése esetén külön díj ellenében végezhető 
 
 | 1. | Szolgáltatás (tevékenység) | A külön díj mértéke az elosztói alapdíj százalékában | A külön díj felszámításának alapja |
 
-| 2. | 3. § a) pontja | 0,5 | eset |
+| 2. | 3. § (1) bekezdés a) pontja | 0,4 | eset |
 
-| 3. | 3. § b) pontja | 1,5 | eset |
+| 3. | 3. § (1) bekezdés b) pontja | 1,4 | eset |
+
+[^7]: A 2. melléklet a 14/2021. (III. 31.) ITM rendelet 12. § (2) bekezdésével megállapított szöveg.
