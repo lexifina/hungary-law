@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1056-30
 | 2018-12-28 | 2016-1056-30-22.7 | 1198/2016. (IV. 15.) Korm. határozat |
 | 2019-07-17 | 2016-1056-30-22.8 | 1198/2016. (IV. 15.) Korm. határozat |
 | 2020-08-08 | 2016-1056-30-22.9 | 1198/2016. (IV. 15.) Korm. határozat |
+| 2021-04-01 | 2016-1056-30-22.10 | 1198/2016. (IV. 15.) Korm. határozat |
