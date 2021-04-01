@@ -1,6 +1,6 @@
 ## 3. A nyilvántartásra vonatkozó szabályok
 
-3. § (1)[^7] A hulladék termelője, gyűjtője, szállítója, közvetítője, kereskedője és kezelője – az (5) és (6) bekezdésben meghatározott kivétellel – a tevékenysége során telephelyenként és hulladéktípusonként képződő, mástól átvett, másnak átadott általa kezelt vagy a Ht. 14. § (1) bekezdés c) pontja szerint szállított hulladékról az adott telephelyen nyilvántartást vezet.
+3. § (1)[^11] A hulladék termelője, gyűjtője, szállítója, közvetítője, kereskedője és kezelője – az (5) és (6) bekezdésben meghatározott kivétellel – a tevékenysége során telephelyenként és hulladéktípusonként képződő, mástól átvett, másnak átadott általa kezelt vagy a Ht. 14. § (1) bekezdés c) pontja szerint szállított hulladékról az adott telephelyen nyilvántartást vezet.
 
 (2) A nyilvántartást úgy kell vezetni, hogy az alkalmas legyen arra, hogy annak alapján az e rendelet szerinti adatszolgáltatási kötelezettség teljes körűen teljesíthető legyen, és a hatósági ellenőrzések során a telephelyi hulladékforgalom tételes nyomon követhetőségét biztosítsa.
 
@@ -24,7 +24,7 @@ meghatározott hulladékfajtára vonatkozó adatot is tartalmaznia kell.
 
 (5) Ha a hulladékot Magyarország területére külföldről hozzák be, a hulladékról a hulladék első belföldi átvevője vezet nyilvántartást.
 
-(6)[^8] Nem kell nyilvántartást vezetnie:
+(6)[^12] Nem kell nyilvántartást vezetnie:
 
 a) a Ht. 12. § (2a) bekezdése szerinti nevelési-oktatási intézménynek a területén kialakított átvételi helyen átvett papírhulladékról;
 
@@ -32,5 +32,5 @@ b) a hulladéktermelőnek – a Ht. 66. § (1) bekezdésében foglaltakra tekint
 
 c) a hulladéktermelőnek, illetve a speciális gyűjtőhely üzemeltetőjének a gyűjtőhelyen átadott vagy gyűjtőedényben elhelyezett települési hulladékról.
 
-[^7]: A 3. § (1) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 3. § (6) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 3. § (6) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 20. §[^32]
+## 20. §[^45]
 
 1. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
@@ -16,7 +16,7 @@ c) nyilatkozat a nyilvántartás adatainak valódiságáról.
 
 1.2. Adatok hulladéktípusonként:
 
-a)[^33] a hulladék eredete (tevékenység, technológia megnevezése, TEÁOR kódja, illetve a Ht. 14. § (1) bekezdés c) pontja szerinti szállítás esetén ennek jelölése);
+a)[^46] a hulladék eredete (tevékenység, technológia megnevezése, TEÁOR kódja, illetve a Ht. 14. § (1) bekezdés c) pontja szerinti szállítás esetén ennek jelölése);
 
 b) a hulladék megnevezése, hulladékjegyzék szerinti azonosító kódja;
 
@@ -34,7 +34,7 @@ h) a hulladéktermelő tevékenysége során képződő hulladék mennyisége k�
 
 i) a kezelésre átadott hulladék mennyisége (ideértve azt az esetet is, amikor a hulladéktermelő a telephelyén kezeli a hulladékot), valamint az átvevő teljes neve, Környezetvédelmi Ügyfél Jele (a továbbiakban: KÜJ) és Környezetvédelmi Területi Jele (a továbbiakban: KTJ), külföldre történő szállítás esetén az importáló ország neve;
 
-j)[^34] a kezelésre átadott hulladéknak a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet (a továbbiakban: miniszteri rendelet) 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló 439/2012. (XII. 29.) Korm. rendelet (a továbbiakban: 439/2012. Korm. rendelet) 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
+j)[^47] a kezelésre átadott hulladéknak a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet (a továbbiakban: miniszteri rendelet) 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló 439/2012. (XII. 29.) Korm. rendelet (a továbbiakban: 439/2012. Korm. rendelet) 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
 k) az egyes hulladékszállítmányok fuvarokmányainak azonosítója;
 
@@ -72,7 +72,7 @@ e) a veszélyes hulladék csomagolási módja;
 
 f) a veszélyes hulladék fizikai megjelenési formája;
 
-g)[^35] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
+g)[^48] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
 
 h) a képződő hulladékra jellemző veszélyes reakciók: hőre, savra, nyomásra, lúgra, vízre, oxidálószerre, levegőre, redukáló szerre, más termékre, továbbá, hogy milyen egyéb anyagok esetén van veszélyes reakció;
 
@@ -80,7 +80,7 @@ i) a képződő veszélyes hulladék mennyisége közvetlen méréssel megállap
 
 j) a kezelés céljából átadott veszélyes hulladék mennyisége (ideértve azt az esetet is, amikor a hulladéktermelő a telephelyén kezeli a hulladékot), valamint az átvevő teljes neve, KÜJ- és KTJ-azonosítója, külföldre történő szállítás esetén az importáló ország neve;
 
-k)[^36] a kezelés céljából átadott veszélyes hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
+k)[^49] a kezelés céljából átadott veszélyes hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
 l) az egyes hulladékszállítmányok fuvarokmányának és szállítási lapjának azonosítója;
 
@@ -138,7 +138,7 @@ b) a közvetített veszélyes hulladék mennyisége;
 
 c) a veszélyes hulladék fizikai megjelenési formája;
 
-d)[^37] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
+d)[^50] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
 
 e) veszélyes reakciók: hőre, savra, nyomásra, lúgra, vízre, oxidálószerre, levegőre, redukáló szerre, más termékre, továbbá, hogy milyen egyéb anyagok esetén van veszélyes reakció;
 
@@ -176,7 +176,7 @@ f) a kereskedelemre vagy kezelésre átadott hulladék mennyisége, valamint az 
 
 g) a hulladékot gyűjtőnek, kereskedőnek, hulladékkezelőnek átadó gazdálkodó szervezet neve, KÜJ- és KTJ-azonosítója; ezek hiányában a KSH statisztikai számjel, a gazdálkodó szervezet neve, címe, tevékenység végzésének helye (település, közterület, házszám, helyrajzi szám); az exportáló ország neve, ha a hulladékot külföldről hozták be;
 
-h)[^38] a kezelésre átadott hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
+h)[^51] a kezelésre átadott hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
 i) az egyes hulladékszállítmányok fuvarokmányainak azonosítója;
 
@@ -206,7 +206,7 @@ c) a veszélyes hulladék csomagolási módja;
 
 d) a veszélyes hulladék fizikai megjelenési formája;
 
-e)[^39] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
+e)[^52] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
 
 f) veszélyes reakciók: hőre, savra, nyomásra, lúgra, vízre, oxidálószerre, levegőre, redukáló szerre, más termékre, továbbá, hogy milyen egyéb anyagok esetén van veszélyes reakció;
 
@@ -216,7 +216,7 @@ h) a kereskedelemre vagy kezelésre átadott veszélyes hulladék mennyisége, v
 
 i) a veszélyes hulladékot gyűjtőnek, kereskedőnek, hulladékkezelőnek átadó gazdálkodó szervezet neve, KÜJ- és KTJ-azonosítója, az exportáló ország neve, ha a veszélyes hulladékot külföldről hozták be;
 
-j)[^40] a kezelésre átadott veszélyes hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
+j)[^53] a kezelésre átadott veszélyes hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja és a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja, valamint a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
 k) az egyes hulladékszállítmányok fuvarokmányának és szállítási lapjának azonosítója;
 
@@ -252,12 +252,12 @@ d) az adatmeghatározás módja (M = mért, SZ = számított, B = becsült) és 
 
 e) a hasznosító vagy ártalmatlanító létesítmény neve, címe és a szállítmányt befogadó tényleges hasznosító vagy ártalmatlanító telephely címe (megjelölve az országkódot).
 
-[^32]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: Az 1. melléklet 1.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^34]: Az 1. melléklet 1.2. pont j) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^35]: Az 1. melléklet 2. pont 2.2. alpont g) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^36]: Az 1. melléklet 2.2. pont k) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^37]: Az 1. melléklet 4. pont 4.2.1. alpont d) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^38]: Az 1. melléklet 5.2. pont h) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^39]: Az 1. melléklet 6. pont 6.2. alpont e) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^40]: Az 1. melléklet 6.2. pont j) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^45]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: Az 1. melléklet 1.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^47]: Az 1. melléklet 1.2. pont j) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^48]: Az 1. melléklet 2. pont 2.2. alpont g) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 2.2. pont k) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^50]: Az 1. melléklet 4. pont 4.2.1. alpont d) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^51]: Az 1. melléklet 5.2. pont h) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet 6. pont 6.2. alpont e) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 6.2. pont j) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.

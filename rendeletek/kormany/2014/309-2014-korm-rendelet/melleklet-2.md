@@ -1,6 +1,6 @@
 2. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A hulladékkal valamint a hulladéklerakókkal kapcsolatos adatszolgáltatási kötelezettség keletkezése és megszűnése bejelentésének teljesítésére vonatkozó adatcsomag adattartalma (EHIR: KÖT)[^41]
+## A hulladékkal valamint a hulladéklerakókkal kapcsolatos adatszolgáltatási kötelezettség keletkezése és megszűnése bejelentésének teljesítésére vonatkozó adatcsomag adattartalma (EHIR: KÖT)[^54]
 
 1. Az adatszolgáltatóra vonatkozó adatok:
 
@@ -18,7 +18,7 @@ a) a telephely Környezetvédelmi Területi Jele;
 
 b) a telephely címe (irányítószám, település neve, közterület neve, típusa, házszám).
 
-3.[^42] Az adatszolgáltatási kötelezettségre vonatkozó adatok:
+3.[^55] Az adatszolgáltatási kötelezettségre vonatkozó adatok:
 
 3.1. Éves adatszolgáltatási kötelezettség
 
@@ -32,7 +32,7 @@ Az éves adatszolgáltatási kötelezettség megszűnésének oka
 
 Negyedéves adatszolgáltatási kötelezettség megszűnésének oka
 
-4.[^43] A hulladéklerakókkal kapcsolatos adatszolgáltatási kötelezettségre vonatkozó adatok
+4.[^56] A hulladéklerakókkal kapcsolatos adatszolgáltatási kötelezettségre vonatkozó adatok
 
 4.1. A további üzemeltetők adatai:
 
@@ -84,9 +84,9 @@ gc) utógondozása befejeződött;
 
 gd) egyéb.
 
-5.[^44] Kapcsolattartó személy adatai (teljes név, beosztás, elérhetőségek).
+5.[^57] Kapcsolattartó személy adatai (teljes név, beosztás, elérhetőségek).
 
-[^41]: A 2. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^42]: A 2. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^43]: A 2. melléklet 4. pontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^44]: A 2. melléklet 5. pontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^54]: A 2. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^55]: A 2. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^56]: A 2. melléklet 4. pontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^57]: A 2. melléklet 5. pontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
