@@ -34,7 +34,7 @@
 
 | 14. | Budapest | WINDIRECT Kft. | Budapesti Távhőszolgáltató Zrt. | 0 | 2 607 |
 
-| 15. | Budapest | MVM GTER Zrt. – kapcsoltan és önálló tüzeléssel termelt hő | Budapesti Távhőszolgáltató Zrt. | 136 803 000 | 2 156 |
+| 15. | Budapest | MVM Balance Zrt. kapcsoltan és önálló tüzeléssel termelt hő | Budapesti Távhőszolgáltató Zrt. | 136 803 000 | 2 156 |
 
 | 16. | Budapest | MVM GTER Zrt. – póttüzeléssel termelt hő | Budapesti Távhőszolgáltató Zrt. | 0 | 1 948 |
 
@@ -171,6 +171,8 @@
 | 82. | Veszprém | Veszprém-Kogeneráció Energiatermelő Zrt. | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 2 804 |
 
 | 83. | Kiskunhalas | MK-MÓR Termelő Kft. | Halasi Városgazda Zrt. | 0 | 2597 |
+
+| 84 | Mátészalka | Geotherm FIRE Kft. | Mátészalkai Távhőszolgáltató Kft. | 0 | 3467 |
 
 2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^19]
 
