@@ -6,11 +6,15 @@
 
 ## A CSATLAKOZÁSI DÍJRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
-25. § (1)[^16] E rendelet csatlakozási díjra vonatkozó rendelkezéseit – e rendeletben foglalt kivételekkel – csatlakozási pontonként önállóan kell alkalmazni.
+25. § (1)[^31] E rendelet csatlakozási díjra vonatkozó rendelkezéseit – e rendeletben foglalt kivételekkel – csatlakozási pontonként önállóan kell alkalmazni.
 
 (2) A hálózati engedélyesek egymás hálózatára történő csatlakozásánál csatlakozási díjat nem fizetnek.
 
-(3) A csatlakozási díjakat a csatlakozást igénylő annak a hálózati engedélyesnek a részére fizeti meg, akinek a hálózatára csatlakozik vagy csatlakozni kíván.
+(3)[^32] A csatlakozási díjat a csatlakozást igénylő a befogadó hálózati engedélyes részére fizeti meg.
+
+(3a)[^33] Ha csatlakozási díj összege nem kizárólag a befogadó hálózati engedélyesnek a csatlakozáshoz szükséges beruházásai alapján kerül meghatározásra, a befogadó hálózati engedélyes és az egyéb érintett hálózati engedélyesek egymás között külön megállapodást kötnek az egyéb érintett hálózati engedélyes által megvalósított csatlakozási beruházás csatlakozási díjjal – a díj kiszámítására vonatkozó módszer szerint – fedezett költségeinek a befogadó hálózati engedélyes által kapott csatlakozási díjból történő megtérítéséről.
+
+(3b)[^34] A (3a) bekezdés nem alkalmazható a csatlakozási minimumdíj figyelembevételével meghatározott, a tételesen megállapított és az ideiglenes csatlakozást kérő által fizetendő csatlakozási díj esetén.
 
 (4) A hálózati engedélyes a csatlakozást igénylőtől a közcélú hálózatra való új csatlakozáshoz igényelt villamos teljesítmény, illetve a közcélú hálózaton már rendelkezésre álló teljesítményen felüli többletteljesítmény nyújtásáért az e rendeletben foglaltakon kívüli díjat nem kérhet.
 
@@ -24,9 +28,19 @@ b) a csatlakozást igénylő és a hálózati engedélyes közötti megállapod�
 
 (6) Abban az esetben, ha a hálózati engedélyes igénye miatt van szükség a legkisebb költség elvének megfelelő – a jogszabályi előírásokat is figyelembe vevő – csatlakozásnál magasabb költséggel megvalósítható csatlakozásra, akkor a csatlakozást igénylővel szemben a legkisebb költség elvének megfelelően létesíthető csatlakozáshoz tartozó díjfizetési szabályokat kell alkalmazni.
 
-(7) A befizetett csatlakozási díjak összegét a hálózati engedélyes külön, a csatlakozások érdekében megvalósított beruházásokhoz hozzárendelve tartja nyilván, és azt kizárólag hálózatfejlesztésre vagy a 26. § (2) bekezdés és a 33. § (5) és (6) bekezdés szerinti visszafizetésekre használhatja fel.
+(7)[^35] A csatlakozást igénylő által megfizetett csatlakozási díjak összegét a hálózati engedélyes csatlakozási igényenként, továbbá a csatlakozások érdekében megvalósított beruházásokhoz hozzárendelve tartja nyilván, és azt kizárólag hálózatfejlesztésre vagy a 26. § (2) bekezdése és a 33. § (14) bekezdése szerinti visszafizetésekre és a (3a) bekezdés szerinti megtérítésre használhatja fel.
 
-(8)[^17] A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári hónap első munkanapján honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható kiserőművi csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat a elosztói szabályzat tartalmazza.
+(7a)[^36] Az elosztók a honlapjukon naprakész tájékoztatást nyújtanak a működési területükön található elosztói tápponti körzetekről.
 
-[^16]: A 25. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^17]: A 25. § (8) bekezdése a 12/2018. (XII. 15.) MEKH rendelet 3. §-ával megállapított, a 16/2019. (XII. 14.) MEKH rendelet 3. § (2) bekezdése szerint módosított szöveg.
+(7b)[^37] Az elosztói tápponti körzetek meghatározásának és nyilvántartásának részletszabályait az üzemi szabályzat tartalmazza.
+
+(8)[^38] A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári hónap első munkanapján honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható kiserőművi csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat a elosztói szabályzat tartalmazza.
+
+[^31]: A 25. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^32]: A 25. § (3) bekezdése az 1/2021. (II. 10.) MEKH rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^33]: A 25. § (3a) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (2) bekezdése iktatta be.
+[^34]: A 25. § (3b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (2) bekezdése iktatta be.
+[^35]: A 25. § (7) bekezdése az 1/2021. (II. 10.) MEKH rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^36]: A 25. § (7a) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (4) bekezdése iktatta be.
+[^37]: A 25. § (7b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (4) bekezdése iktatta be.
+[^38]: A 25. § (8) bekezdése a 12/2018. (XII. 15.) MEKH rendelet 3. §-ával megállapított, a 16/2019. (XII. 14.) MEKH rendelet 3. § (2) bekezdése szerint módosított szöveg.

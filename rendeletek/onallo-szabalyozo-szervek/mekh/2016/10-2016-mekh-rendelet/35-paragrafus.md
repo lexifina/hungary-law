@@ -12,11 +12,15 @@
 
 2. előre fizetős fogyasztásmérő berendezés felszerelése vagy nem előre fizetős fogyasztásmérő berendezésnek előre fizetős fogyasztásmérő berendezésre történő cseréje,
 
+2a.[^50] okosmérő felszerelése, vagy nem okosmérőnek okosmérőre történő cseréje,
+
 3. előre fizetős fogyasztásmérő berendezésnek nem előre fizetős fogyasztásmérő berendezésre történő cseréje,
 
-4. a felhasználónak a villamosenergia-ellátásból a 38. § (2) bekezdés 3. pontja szerinti kikapcsolása utáni visszakapcsolása,
+3a.[^51] okosmérő nem okosmérőre történő cseréje,
 
-5. számlamásolat készítése esetén azonos számlánként, készpénz-átutalási megbízások pótlása esetén ugyanazon számlához tartozó készpénz-átutalási megbízásonként a második alkalmat követően,
+4.[^52] a felhasználónak a villamosenergia-ellátásból annak szerződésszegése következtében való jogszerű kikapcsolása utáni visszakapcsolása,
+
+5.[^53] számlamásolat készítése esetén azonos számlánként, készpénz-átutalási megbízások pótlása esetén ugyanazon számlához tartozó készpénz-átutalási megbízásonként a harmadik alkalommal kezdődően,
 
 6. rendkívüli leolvasás felhasználási helyenként felszámítva,
 
@@ -30,16 +34,25 @@
 
 11. az elosztó kezelésében lévő középfeszültségű földkábel-hálózaton végzett feszültségmentesítés és feszültség alá helyezés,
 
-12. egy felhasználási helyre vonatkozó felhasználói csatlakozási terv felülvizsgálata naptári évenként a második alkalmat követően és
+12.[^54] egy felhasználási helyre vonatkozó felhasználói csatlakozási terv felülvizsgálata naptári évenként a harmadik alkalommal kezdődően
 
-13. a felhasználási helyen hibaelhárítás céljából történő megjelenés esetében, ha a hiba a csatlakozási pont után a felhasználói berendezésben van.
+13.[^55] a felhasználási helyen hibaelhárítás céljából történő megjelenés esetében, ha a hiba a csatlakozási pont után a felhasználói berendezésben van, és
 
-(2)[^24] Az elosztó – a külön díjak meghatározásának keretszabályairól szóló rendeletben foglaltak szerint – külön díjat kérhet a kiserőművi csatlakozást igénylőtől (a háztartási méretű kiserőmű kivételével) kiserőművenként
+14.[^56] a szerződéses jogviszonnyal összefüggő, az interneten is elérhető dokumentumok (pl. az üzletszabályzat) részei másolatának kiadása a 7. oldaltól kezdve, ha az igényelt másolat a 6 oldal terjedelmet meghaladja.
 
-1. az igénybejelentésre vonatkozó tájékoztató elkészítéséért,
+(2)[^57] Az elosztó – a külön díjak meghatározásának keretszabályairól szóló rendeletben foglaltak szerint – a kiserőművi csatlakozást igénylőtől (a háztartási méretű kiserőmű kivételével) kiserőművenként kapott külön díj ellenében
 
-2. a megvalósíthatósági tanulmány felülvizsgálatáért és
+1. elkészíti az igénybejelentésre vonatkozó tájékoztatót,
 
-3. a csatlakozási terv felülvizsgálatáért.
+2. felülvizsgálja a megvalósíthatósági tanulmányt, és
 
-[^24]: A 35. § (2) bekezdése a 15/2017. (XII. 13.) MEKH rendelet 1. §-ával megállapított szöveg.
+3. felülvizsgálja a csatlakozási tervet.
+
+[^50]: A 35. § (1) bekezdés 2a. pontját az 1/2021. (II. 10.) MEKH rendelet 6. § (1) bekezdése iktatta be.
+[^51]: A 35. § (1) bekezdés 3a. pontját az 1/2021. (II. 10.) MEKH rendelet 6. § (2) bekezdése iktatta be.
+[^52]: A 35. § (1) bekezdés 4. pontja az 1/2021. (II. 10.) MEKH rendelet 9. § h) pontja szerint módosított szöveg.
+[^53]: A 35. § (1) bekezdés 5. pontja az 1/2021. (II. 10.) MEKH rendelet 9. § i) pontja szerint módosított szöveg.
+[^54]: A 35. § (1) bekezdés 12. pontja az 1/2021. (II. 10.) MEKH rendelet 9. § j) pontja szerint módosított szöveg.
+[^55]: A 35. § (1) bekezdés 13. pontja az 1/2021. (II. 10.) MEKH rendelet 9. § k) pontja szerint módosított szöveg.
+[^56]: A 35. § (1) bekezdés 14. pontját az 1/2021. (II. 10.) MEKH rendelet 6. § (3) bekezdése iktatta be.
+[^57]: A 35. § (2) bekezdése az 1/2021. (II. 10.) MEKH rendelet 6. § (4) bekezdésével megállapított szöveg.
