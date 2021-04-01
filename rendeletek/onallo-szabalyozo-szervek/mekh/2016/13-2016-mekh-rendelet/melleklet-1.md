@@ -1,6 +1,6 @@
-1. melléklet a 13/2016. (XII. 20.) MEKH rendelethez[^5]
+1. melléklet a 13/2016. (XII. 20.) MEKH rendelethez[^6]
 
-## I. Szállítási rendszerüzemeltetési díj elemei és mértéke
+I. Szállítási rendszerüzemeltetési díj elemei és mértéke
 
 1. Szállítási kapacitásdíjak és forgalmi díj:
 
@@ -134,24 +134,6 @@ f) Földgázelosztási díj elemei és mértékei a TIGÁZ Földgázelosztó Zrt
 
 |  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 8 940 | 851 | 75,70 |
 
-III. Földgáztárolási díj
+III.
 
-A tárolási díj elemei és mértékei:
-
-Kitárolási díj: 13,32 Ft/MWh
-
-Betárolási díj: 109,27 Ft/MWh
-
-A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
-
-ahol:
-
-TM: tárolói kapacitásdíj (Ft/kWh/év)
-
-M: a rendszerhasználó tárolói mobil lekötése (kWh)
-
-B: a rendszerhasználó betárolási kapacitás lekötése (kWh/nap)
-
-K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
-
-[^5]: Az 1. melléklet az 5/2020. (VI. 2.) MEKH rendelet 7. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet az 5/2020. (VI. 2.) MEKH rendelet 7. §-ával megállapított szöveg. Az 1. melléklet III. Földgáztárolási díj pontját hatályon kívül helyezte a 2020: CXIII. törvény 29. § b) pontja 2021. április 1. 6.00 órakor.

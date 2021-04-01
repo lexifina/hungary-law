@@ -30,6 +30,8 @@
 
 ## Adatszolgáltatás rendszerüzemeltetők, rendszerhasználók és felhasználók részére:
 
+## 9K08832M_1
+
 |  | A) | B) | C) | D) |
 
 | 1. | Az alapszolgáltatásokhoz kapcsolódó adatforgalmon felül igényelt adatszolgáltatás díjai | ipDATA (Ft) | OTR szerver-szerver kommunikáció (Ft) | ipDATA és OTR szerver-szerver kommunikáció (Ft) |
