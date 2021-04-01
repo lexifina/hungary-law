@@ -1,6 +1,6 @@
-## 6. [^15] A gyártó átvételi, gyűjtési és kezelési kötelezettségének átruházása
+## 6. [^17] A gyártó átvételi, gyűjtési és kezelési kötelezettségének átruházása
 
-8. § (1)[^16] A gyártó az átvételi, a gyűjtési és a kezelési kötelezettségének teljesítését – a (2) bekezdésben meghatározott kivétellel –
+8. § (1)[^18] A gyártó az átvételi, a gyűjtési és a kezelési kötelezettségének teljesítését – a (2) bekezdésben meghatározott kivétellel –
 
 a) megállapodás alapján részben vagy együttesen a 9. § szerinti átvállalóra (a továbbiakban: átvállaló), vagy
 
@@ -12,7 +12,7 @@ b) közvetítő szervezetre
 
 a) egyéni hulladékkezelés,
 
-b)[^17] állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív teljesítés, vagy
+b)[^19] állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív teljesítés, vagy
 
 c) termékdíjátalány-fizetés
 
@@ -20,9 +20,9 @@ c) termékdíjátalány-fizetés
 
 (3) A (2) bekezdés b) pontja a gyártó akkumulátorhulladék átvételére vonatkozó kötelezettségét nem érinti.
 
-(4)[^18] A gyártó forgalmazás helyén történő átvételi kötelezettsége másra nem ruházható át.
+(4)[^20] A gyártó forgalmazás helyén történő átvételi kötelezettsége másra nem ruházható át.
 
-[^15]: A 6. alcím címe a 370/2014. (XII. 30.) Korm. rendelet 25. § 3. pontja szerint módosított szöveg.
-[^16]: A 8. § (1) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^17]: A 8. § (2) bekezdés b) pontja a 368/2014. (XII. 30.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^18]: A 8. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.
+[^17]: A 6. alcím címe a 370/2014. (XII. 30.) Korm. rendelet 25. § 3. pontja szerint módosított szöveg.
+[^18]: A 8. § (1) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^19]: A 8. § (2) bekezdés b) pontja a 368/2014. (XII. 30.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 8. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.

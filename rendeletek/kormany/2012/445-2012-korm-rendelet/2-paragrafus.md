@@ -12,6 +12,8 @@
 
 5. forgalmazás: elem, akkumulátor – ellenérték fejében vagy ingyenesen – üzletszerű gazdasági tevékenység keretében történő rendelkezésre bocsátása, ideértve az e célból való felkínálást is, továbbá az import;
 
+5a.[^3] forgalmazott hordozható elem, akkumulátor: az adott évben Magyarország területén forgalomba hozott hordozható elem, akkumulátor, ide nem értve azokat a hordozható elemeket és akkumulátorokat, amelyeket a végfelhasználók részére történt eladást megelőzően ugyanabban az évben véglegesen kivittek Magyarország területéről;
+
 6. gépjárműelem vagy gépjármű akkumulátor: a gépjármű indításához, világításához, gyújtásához használt elem, akkumulátor;
 
 7. gombelem: különleges célokra, így különösen hallókészülékekben, karórákban, kisméretű, hordozható berendezésekben, valamint tartalék áramforrásként felhasznált, kisméretű és köralakú hordozható elem, akkumulátor, amelynek nagyobb az átmérője, mint a vastagsága;
@@ -31,3 +33,4 @@
 (2) E rendeletben az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott fogalmak is alkalmazandóak.
 
 [^2]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 5a. pontját a 158/2021. (III. 31.) Korm. rendelet 9. §-a iktatta be.

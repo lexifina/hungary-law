@@ -2,7 +2,7 @@
 
 7. § (1) A gyártó gondoskodik arról, hogy a (2) bekezdés szerinti tájékoztató a fogyasztó és a forgalmazó rendelkezésére álljon (tájékoztatási kötelezettség).
 
-(2)[^14] Az (1) bekezdés szerinti tájékoztató legalább a következőkre terjed ki:
+(2)[^16] Az (1) bekezdés szerinti tájékoztató legalább a következőkre terjed ki:
 
 a) az elemben, akkumulátorban felhasznált anyagok környezetre és emberi egészségre gyakorolt lehetséges hatásaira;
 
@@ -24,4 +24,4 @@ h) az elemre és akkumulátorra vonatkozó, 1. melléklet szerinti jelölési sz
 
 (4) A gyártó viseli az átvételi, gyűjtési, kezelési és tájékoztatási kötelezettségével kapcsolatban felmerült költségeket.
 
-[^14]: A 7. § (2) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 19. §-ávall megállapított szöveg.
+[^16]: A 7. § (2) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 19. §-ávall megállapított szöveg.

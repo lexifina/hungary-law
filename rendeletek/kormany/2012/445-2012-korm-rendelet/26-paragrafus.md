@@ -1,6 +1,6 @@
-26. § (1)[^71] Ha a közvetítő szervezet vagy a gyártó az e rendeletben meghatározott kötelezettségének nem tesz eleget, az országos környezetvédelmi hatóság a gyártót, a közvetítő szervezetet a Hbr.-ben meghatározottak szerint hulladékgazdálkodási bírság megfizetésére kötelezheti.
+26. § (1)[^74] Ha a közvetítő szervezet vagy a gyártó az e rendeletben meghatározott kötelezettségének nem tesz eleget, az országos környezetvédelmi hatóság a gyártót, a közvetítő szervezetet a Hbr.-ben meghatározottak szerint hulladékgazdálkodási bírság megfizetésére kötelezheti.
 
-(2)[^72] Ha az ismételten kiszabott bírság nem vezet eredményre, az országos környezetvédelmi hatóság az eredménytelenség megállapítását követő 90. napon a közvetítő szervezetet a nyilvántartásból törli. A nyilvántartásból történő törlésről rendelkező határozat közlése és véglegessé válása közötti időszakban a közvetítő szervezet a tevékenységével összefüggő, új szerződést már nem köthet.
+(2)[^75] Ha az ismételten kiszabott bírság nem vezet eredményre, az országos környezetvédelmi hatóság az eredménytelenség megállapítását követő 90. napon a közvetítő szervezetet a nyilvántartásból törli. A nyilvántartásból történő törlésről rendelkező határozat közlése és véglegessé válása közötti időszakban a közvetítő szervezet a tevékenységével összefüggő, új szerződést már nem köthet.
 
-[^71]: A 26. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
-[^72]: A 26. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 427. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^74]: A 26. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
+[^75]: A 26. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 427. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
