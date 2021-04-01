@@ -1,4 +1,4 @@
-## 13. §
+## 13. § A 383/2016. (XII. 2.) Korm. rendelet 35. §-ában az „a halász” szövegrész helyébe az „az ahhoz tartozó halász” szöveg lép.
 
 ## 3. Záró rendelkezések
 
