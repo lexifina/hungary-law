@@ -878,4 +878,4 @@
 
 2. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^2]
 
-[^2]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 6–8., 14–19. és 24–26. sora, az ott meghatározott felügyeleti jelentések táblái az 15. § (3) bekezdése alapján 2021. április 1-jén lép hatályba. A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 4. és 21–23. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (4) bekezdése alapján 2021. június 1-jén lép hatályba
+[^2]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 4. és 21–23. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (4) bekezdése alapján 2021. június 1-jén lép hatályba

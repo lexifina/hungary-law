@@ -1,4 +1,4 @@
-## 20202C20000042_9
+## 20202C20000042_10
 
 3. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^3]
 
@@ -308,7 +308,69 @@ Az egyéb átfogó jövedelem valamennyi komponense vonatkozásában az „Egyé
 
 Az IFRS-ek értelmében a „Nem átsorolandó tételekhez kapcsolódó nyereségadót” és a „Nyereségbe vagy (-) veszteségbe átsorolható tételekhez kapcsolódó nyereségadót” [IAS 1 91. bekezdés b) pontja, IG6] külön soron kell feltüntetni.
 
-6.
+6. SF040102, SF040301, SF040401 – Pénzügyi eszközök instrumentum és ügyfélszektor szerinti részletezése
+
+Az SF040102, SF040301, SF040401 kódú táblákban a pénzügyi eszközöket számviteli portfóliónként instrumentumok és ügyfélszektorok szerint bontásban kell részletezni:
+
+SF040102 Az eredménnyel szemben valós értéken értékelt pénzügyi eszközök instrumentum és ügyfélszektor szerinti részletezése
+
+Ebben a táblában minden olyan pénzügyi eszköz instrumentum és ügyfélszektor szerinti részletezése jelentendő, amelynek értékelése az eredménnyel szemben valós értéken történik. Itt kell jelenteni a következő számviteli portfólióba tartozó pénzügyi eszközöket:
+
+– kereskedési céllal tartott pénzügyi eszközök,
+
+– kötelezően az eredménnyel szemben valós értéken értékelt, nem kereskedési céllal tartott pénzügyi eszközök,
+
+– eredménnyel szemben valós értéken értékeltnek megjelölt pénzügyi eszközök.
+
+A Tulajdoni részesedést megtestesítő instrumentumok részletező soraiban a Tulajdoni részesedést megtestesítő instrumentumok teljes állományából (010) kiemelten a rezidens hitelintézetekben (020), a rezidens egyéb pénzügyi vállalatokban (030) és a rezidens nem pénzügyi vállalatokban (040) lévő tulajdoni részesedést kell bemutatni.
+
+Az SF040102 kódú táblában a „kereskedési céllal tartott pénzügyi eszközök” esetén a könyv szerinti érték (010. oszlop), a „kötelezően az eredménnyel szemben valós értéken értékelt, nem kereskedési céllal tartott pénzügyi eszközök” és az „eredménnyel szemben valós értéken értékeltnek megjelölt pénzügyi eszközök” esetén a könyv szerinti érték (010. oszlop) mellett „a hitelkockázat-változásból származó negatív valósérték-változás halmozott összege nem teljesítő kitettségek esetében” is jelentendő külön oszlopban (020. oszlop).
+
+„A hitelkockázat-változásból származó negatív valósérték-változás halmozott összege nem teljesítő kitettségek esetében” kifejezés (020. oszlop) a valós érték hitelkockázat változásból származó halmozott változását jelenti, ahol a halmozott nettó változás negatív. A hitelkockázat-változásból származó nettó valósérték-változás halmo zott összegét úgy kell meghatározni, hogy figyelembe kell venni a hitelviszonyt megtestesítő instrumentum kezdeti megjelenítése óta a valós értékben a hitelkockázat változása miatt bekövetkezett valamennyi negatív és pozitív változást. Ezt az összeget csak akkor kell feltüntetni, ha a hitelkockázat változása miatt a valós értékben bekövetkezett pozitív és negatív változások összeadása negatív összeget eredményez. A hitelviszonyt megtestesítő instrumentumok értékelését az egyes pénzügyi instrumentumok szintjén kell elvégezni. „A hitelkockázat-változásból származó negatív valósérték-változás halmozott összege” minden egyes hitelviszonyt megtestesítő instrumentum esetében az instrumentum kivezetéséig jelentendő.
+
+SF040301 Egyéb átfogó jövedelemmel szemben valós értéken értékelt pénzügyi eszközök instrumentum és ügyfélszektor szerinti részletezése
+
+Az egyéb átfogó jövedelemmel szemben valós értéken értékelt tulajdoni részesedést megtestesítő instrumentumok esetén a könyv szerinti értéket kell a táblában feltüntetni.
+
+A Tulajdoni részesedést megtestesítő instrumentumok részletező soraiban a Tulajdoni részesedést megtestesítő instrumentumok teljes állományából (010) kiemelten a rezidens hitelintézetekben (020), a rezidens egyéb pénzügyi vállalatokban (030) és a rezidens nem pénzügyi vállalatokban (040) lévő tulajdoni részesedést kell bemutatni.
+
+Az egyéb átfogó jövedelemmel szemben valós értéken értékelt hitelviszonyt megtestesítő instrumentumok esetén a könyv szerinti érték (010. oszlop) mellett a bruttó könyv szerinti értékét (015-040. oszlop) és a halmozott értékvesztést (050-070. oszlop) is be kell mutatni az IFRS 9 szerinti értékvesztési szakaszonként, részletezve.
+
+Az IFRS 9 szerinti értékvesztési szakaszoknak megfelelő eszközcsoportok a következők:
+
+1. szakasz: „Eszközök, amelyek hitelkockázata nem növekedett jelentősen a kezdeti megjelenítés óta”
+
+2. szakasz: „Eszközök, amelyek hitelkockázata jelentősen növekedett a kezdeti megjelenítés óta, de amelyek nem váltak értékvesztetté”
+
+3. szakasz: „Értékvesztett eszközök”
+
+Az IFRS 9 szerinti elszámolásnak megfelelően a bruttó könyv szerinti értéknek az értékvesztés elszámolás korrekciója előtti könyv szerinti érték minősül.
+
+Az IFRS 9 szerinti 1. szakaszba azok a pénzügyi eszközök tartoznak, amelyek hitelkockázata nem növekedett jelentősen a kezdeti megjelenítés óta. Ezen eszközcsoporton belül külön oszlopban kell jelenteni az „alacsony hitelkockázatú eszközök” (020. oszlop) bruttó könyv szerinti értékét, amelyekbe azok az instrumentumokat tartoznak amelyekről megállapításra került az adatszolgáltatás fordulónapján, hogy hitelkockázatuk alacsony, és amelyekről az intézmény feltételezi, hogy hitelkockázatuk nem növekedett meg jelentősen a kezdeti megjelenítés óta, az IFRS 9 5.5.10. bekezdésének megfelelően.
+
+A halmozott értékvesztés az IFRS 9-ben meghatározott értékvesztési szakaszokba sorolt pénzügyi eszközök várható hitelezési veszteségére képzett értékvesztést foglalja magában. Az egyéb átfogó jövedelemmel szemben valós értéken értékelt hitelviszonyt megtestesítő instrumentumok (kivéve a vásárolt vagy keletkeztetett értékvesztett pénzügyi eszközök) halmozott értékvesztése a várható hitelezési veszteségek és változásaik összege, amelyet az adott instrumentum valós értékében a kezdeti megjelenítés óta bekövetkezett csökkenésként jelenítik meg.
+
+Az SF040301 kódú táblában fel kell tüntetni külön oszlopokban a „Halmozott részleges leírások” (080. oszlop) és a „Halmozott teljes leírások” (090. oszlop) összegét is. A „Halmozott részleges leírások összege” és a „Halmozott teljes leírások összege” oszlop tartalmazza azon hitelviszonyt megtestesítő instrumentumok tőkeösszegének, lejárt esedékességű kamatainak és díjainak az adatszolgáltatási vonatkozási időpontra számított halmozott részleges vagy teljes összegét, amelyeket az adott időpontig kivezettek, mert az intézmény észszerű várakozások alapján nem számíthat a szerződéses cash flow-k beszedésére. Ezeket az összegeket az adatszolgáltató valamennyi jogának (az elévülési idő lejárta, elengedés vagy más okok miatt) teljes megszűnéséig vagy az összegek megtérüléséig jelenteni kell.
+
+Amennyiben egy hitelviszonyt megtestesítő instrumentum több egymást követő részleges leírás következtében végül teljes mértékben leírásra kerül, a leírás kumulált összege a „Halmozott részleges leírások összegéből” átsorolásra kerül a „Halmozott teljes leírások összege” oszlopba.
+
+A leírások kivezetési eseményt jelentenek és vagy a pénzügyi eszköz egészére vagy egy részére vonatkoznak. A leírások magukban foglalják a pénzügyi eszközök könyv szerinti értékének közvetlenül az eredményben elszámolt csökkentése, valamint a hitelezési veszteségekre képzett értékvesztés összegének a pénzügyi eszközök könyv szerinti értékével szembeni csökkentése eredményeként elszámolt összegeket.
+
+SF040401 Amortizált bekerülési értéken értékelt pénzügyi eszközök instrumentum és ügyfélszektor szerinti részletezése
+
+Az amortizált bekerülési értéken értékelt hitelviszonyt megtestesítő instrumentumok bruttó könyv szerinti értékét és a halmozott értékvesztéseket is értékvesztési szakaszonként kell részletezni, kivéve, ha olyan vásárolt vagy keletkeztetett pénzügyi eszközöket vásárolnak, amelyek a kezdeti megjelenítéskor értékvesztettek, ahogyan azt az IFRS 9 A. függeléke meghatározza. Ezen eszközök esetében a bruttó könyv szerinti értéket és a halmozott értékvesztést az értékvesztési szakaszokon kívül, külön oszlopokban kell feltüntetni.
+
+Az IFRS-ek szerinti elszámolásnak megfelelően a bruttó könyv szerinti értéknek az értékvesztés elszámolás korrekciója előtti könyv szerinti érték minősül.
+
+Az amortizált bekerülési értéken értékelt hitelviszonyt megtestesítő instrumentumok (ide nem értve a vásárolt vagy keletkeztetett értékveszett pénzügyi eszközöket) halmozott értékvesztése az értékvesztés miatti veszteségek felhasználásokkal és visszaírásokkal csökkentett kumulált összege, amelyet az IFRS 9-nek megfelelően, értékvesztési szakaszonként kell elszámolni.
+
+Az IAS 1 54. bekezdés h) pontja szerinti vevőköveteléseket, szerződéses eszközöket vagy lízingköveteléseket, amelyek esetében az elszámolt veszteség becslésére az IFRS 9 5.5.15. bekezdése szerinti egyszerűsített megközelítés kerül alkalmazásra, az SF040401 táblában a hitelek vagy előlegek között kell feltüntetni. Ezekre az eszközökre elszámolt veszteséget a következő IFRS 9 szerinti szakaszokban lehet megjeleníteni: „Olyan eszközök halmozott értékvesztése, amelyek hitelkockázata jelentősen növekedett a kezdeti megjelenítés óta, de amelyek nem váltak értékvesztetté (2. szakasz)” vagy az „Értékvesztett eszközök halmozott értékvesztése (3. szakasz)”.
+
+A „Halmozott részleges leírások összege” és a „Halmozott teljes leírások összege” oszlopokra az SF040301 kódú táblánál leírtak érvényesek.
+
+Az olyan vásárolt vagy keletkeztetett pénzügyi eszközöket, amelyek már a kezdeti megjelenítéskor értékvesztettek, az SF040301 és SF040401 kódú táblákban kiemelten, az értékvesztési szakaszoktól elkülönítve, külön oszlopokban kell szerepeltetni, bruttó könyv szerinti értéküket a 041., halmozott értékvesztésüket a 071. oszlopban.
+
+A vásárolt vagy keletkeztetett értékvesztett pénzügyi eszközök halmozott értékvesztése pozitív is lehet a korábban elszámolt értékvesztés miatti veszteségeket meghaladó értékvesztés miatti nyereség esetén [IFRS 9.5.5.14].
 
 7. SF07HT─SF07HB A hitelintézet által nyújtott hitelek állományának alakulása
 
@@ -464,7 +526,193 @@ A „Kibocsátott hitelviszonyt megtestesítő értékpapírokat” a következ�
 
 Az SF0802 kódú tábla számviteli portfólió szerinti bontásban tartalmazza azon „Betétek”, „Felvett hitelek” és „Kibocsátott hitelviszonyt megtestesítő értékpapírok” könyv szerinti értékét, amelyek megfelelnek az alárendelt pénzügyi kötelezettség fogalmának. Az alárendelt kötelezettségek olyan járulékos követelést biztosítanak a kibocsátó intézménnyel szemben, amely csak azután gyakorolható, miután minden magasabb rendű követelés kielégítésre került [EKB BSI rendelet].
 
-10–12.
+10. SF0901 Mérlegen kívüli kötelezettségek ─ Adott hitelnyújtási elkötelezettségek, pénzügyi garanciák és egyéb kötelezettségvállalások
+
+SF0902 Mérlegen kívüli követelések ─ Kapott hitelnyújtási elkötelezettségek, pénzügyi garanciák és egyéb kötelezettségvállalások
+
+A mérlegen kívüli kitettségek közé a CRR I. mellékletében felsorolt mérlegen kívüli tételek tartoznak. A mérlegen kívüli kitettségeket a hitelnyújtási elkötelezettségek, pénzügyi garanciák és egyéb elkötelezettségek szerint kell részletezni.
+
+Az adott és kapott hitelnyújtási elkötelezettségekre, pénzügyi garanciákra és egyéb kötelezettségvállalásokra vonatkozó információk tartalmazzák a visszavonható és a visszavonhatatlan kötelezettségvállalásokat egyaránt.
+
+A CRR I. mellékletében felsorolt adott hitelnyújtási elkötelezettségek, pénzügyi garanciák és egyéb kötelezettségvállalások lehetnek az IFRS 9 hatálya alá tartozó, eredménnyel szemben valós értéken értékelt instrumentumok vagy az IFRS 9 értékvesztési követelményeinek hatálya alá tartozó instrumentumok, valamint az IAS 37 vagy az IFRS 4 hatókörébe tartozó instrumentumok.
+
+Az adott hitelnyújtási elkötelezettségeket, pénzügyi garanciákat és egyéb elkötelezettségeket az SF0901 kódú táblában kell feltüntetni, ha a következő feltételek bármelyike teljesül:
+
+- az IFRS 9 szerinti értékvesztés-elszámolási kötelezettség hatálya alá tartoznak,
+
+- az IFRS 9 alapján eredménnyel szemben valós értéken értékeltként vannak megjelölve,
+
+- az IAS 37 vagy az IFRS 4 hatókörébe tartoznak.
+
+Azokat a kötelezettségeket, amelyeket olyan pénzügyi garanciák és elkötelezettségek hitelezési veszteségeként kell elszámolni, amelyek az IFRS 9 értékvesztés-elszámolási kötelezettség hatálya alá tartoznak vagy amelyeket az IAS 37 vagy IFRS 4 szerint értékelnek, céltartalékként kell jelenteni, függetlenül az alkalmazott értékelési kritériumoktól.
+
+Az IFRS 9 szerinti értékvesztés-elszámolási kötelezettség hatálya alá tartozó instrumentumok – ideértve a halmozott bevétellel csökkentett bekerülési értéken értékelt instrumentumokat – névértékét és céltartalékát értékvesztési szakaszonként kell jelenteni (010-030. és 040-060. oszlop), kivéve, ha a kezdeti megjelenítéskor értékvesztettnek minősülnek, összhangban a vásárolt vagy keletkezetett értékvesztett pénzügyi eszközök IFRS 9 A. függelékének meghatározásával. Ezen kitettségek esetében a névértéket a tábla 035. oszlopában, a céltartalékot a 065. oszlopában kell jelenteni.
+
+Ha egy hitelviszonyt megtestesítő instrumentum mérlegen belüli és mérlegen kívüli komponenst egyaránt tartalmaz, ebben a táblában csak a mérlegen kívüli kötelezettség névértékét kell feltüntetni. Ha az adatszolgáltató nem tudja elkülöníteni a mérlegen belüli és mérlegen kívüli komponensek várható hitelezési veszteségét, a mérlegen kívüli kötelezettség várható hitelezési veszteségét a mérleg szerinti komponens értékvesztésével együtt kell feltüntetni. Ha a várható hitelezési veszteségek együttesen meghaladják a hitelviszonyt megtestesítő instrumentum bruttó könyv szerinti értékét, a várható hitelezési veszteségek fennmaradó egyenlegét az SF0901 táblában, a megfelelő oszlopban céltartalékként kell feltüntetni [IFRS 9 5.5.20. bekezdése és az IFRS 7 B8E. bekezdése szerint].
+
+Ha egy pénzügyi garanciát vagy egy, a piaci kamatlábnál alacsonyabb kamatláb melletti hitelnyújtásra vonatkozó elkötelezettséget az IFRS 9 4.2.1. bekezdés d) pontjának megfelelően értékelnek, és elszámolt veszteségének meghatározása az IFRS 9 5.5. bekezdése szerint történik, azt a megfelelő oszlopban kell jelenteni.
+
+Az IFRS 9 szerint valós értéken értékelt hitelnyújtási elkötelezettségek, pénzügyi garanciák és egyéb kötelezettségvállalások esetében a névértéket (120. oszlop) és a hitelkockázat-változásból származó negatív valósérték-változás halmozott összegét kell jelenteni (130. oszlop).
+
+A hitelkockázat-változásból származó negatív valósérték-változás halmozott összegének meghatározására vonatkozó szabályokat az SF040102 tábla kitöltési útmutatója tartalmazza.
+
+Az IAS 37 vagy az IFRS 4 hatálya alá tartozó egyéb kötelezettségvállalások, garanciák névértékét és céltartalékát külön oszlopban kell feltüntetni (100-110. oszlop).
+
+A „Hitelnyújtási elkötelezettségek” előre meghatározott feltételek mellett történő hitelnyújtásra vonatkozó határozott kötelezettségvállalások, azon kötelezettségvállalások kivételével, amelyek azért származtatott ügyletek, mert nettó összegük készpénzben, illetve másik pénzügyi instrumentum átadásával vagy kibocsátásával rendezhető. A CRR I. mellékletének „Hitelnyújtási elkötelezettségekként” besorolandó tételei a következők:
+
+- Határidős betétügyletek
+
+- Le nem hívott hitelkeretek, amelyek kölcsönnyújtásra vagy elfogadványokra vonatkozó megállapodásokat foglalnak magukban előre meghatározott szerződéses feltételek mellett.
+
+A „Pénzügyi garanciák” olyan szerződések, amelyek a kibocsátónak meghatározott fizetések teljesítését írják elő a tulajdonos abból adódó veszteségének megtérítésére, hogy egy meghatározott adós esedékességkor nem fizet a hitelviszonyt megtestesítő instrumentum eredeti vagy módosított feltételeinek megfelelően, ideértve az egyéb pénzügyi garanciákra nyújtott garanciákat. Az IFRS-ek alkalmazási körében ezek megfelelnek az IFRS 9 2.1. bekezdés e) pontjában és az IFRS 4 A. függelékében meghatározott pénzügyi garanciaszerződések fogalmának. A CRR I. mellékletének „Pénzügyi garanciákként” besorolt tételei a következők:
+
+- Hitelhelyettesítő jellegű garanciák
+
+- A pénzügyi garancia definíciójának megfelelő hitelderivatívák
+
+- Hitelhelyettesítő jellegű visszavonhatatlan készenléti hitellevelek.
+
+A CRR I. mellékletének „Egyéb elkötelezettségekként” besorolandó tételei a következők:
+
+- Részben kifizetett részvények és értékpapírok kifizetetlen része
+
+- Megnyitott, igazolt akkreditívek
+
+- Kereskedelem finanszírozási mérlegen kívüli tételek
+
+- Akkreditívek, amelyeknek biztosítéka a szállítmány, valamint egyéb öntörlesztő ügyletek
+
+- Garanciák és jótállások (beleértve a pályázati és teljesítési biztosítékokat), valamint olyan garanciák, amelyek nem hitelhelyettesítő jellegűek
+
+- Szállítási garanciák, vám- és adóbiztosítékok
+
+- Rulírozó hitelmegállapodás rövid lejáratú pénzpiaci eszköz jegyzésére (note issuance facilities, NIF) és középtávú rulírozó megállapodás rövid lejáratú pénzpiaci eszköz jegyzésére és a kibocsátásban való közreműködésre (revolving underwriting facilities, RUF)
+
+- Le nem hívott hitelkeretek, amelyek kölcsönnyújtásra vagy elfogadványokra vonatkozó megállapodásokat foglalnak magukban, ha a szerződéses feltételek nem előre meghatározottak
+
+- Le nem hívott hitelkeretek, amelyek értékpapírok megvásárlására vagy garancianyújtásra vonatkozó megállapodásokat foglalnak magukban
+
+- Pályázati és teljesítési garanciák nyújtására szolgáló, le nem hívott hitelkeretek
+
+- A CRR I. mellékletében felsorolt egyéb mérlegen kívüli tételek.
+
+Az IFRS-ek értelmében a következő tételek a mérlegben kerülnek megjelenítésre, következésképpen ezeket nem lehet mérlegen kívüli kitettségként feltüntetni:
+
+- A pénzügyi garancia definíciójának nem megfelelő hitelderivatívák az IFRS 9 értelmében származtatott ügyletek
+
+- Az elfogadványok egy intézmény által egy – rendszerint áruk adásvételét fedező – váltó névértékének lejáratkori kifizetésére vonatkozó kötelezettségvállalás, ebből követekezően ezek a mérlegben a vevőkövetelések közé sorolandók
+
+- A váltók forgatmányozása, amely nem felel meg az IFRS 9 szerinti kivezetés kritériumainak
+
+- Az ügyletek visszkereseti joggal, amely nem felel meg az IFRS 9 szerinti kivezetés kritériumainak
+
+- A sima határidős ügyletek keretében megvásárolt eszközök az IFRS 9 értelmében származtatott ügyletek
+
+- A bankok és más pénzügyi intézmények éves beszámolójáról és konszolidált éves beszámolójáról szóló 1986. december 8-i 86/635/EGK tanácsi irányelv 12. cikk (3) és (5) bekezdésében definiált visszavásárlási megállapodás mellett kötött eszközeladási (repó) ügyletek. Ezekben a szerződésekben az engedményes rendelkezik azon opcióval, nem pedig kötelezettséggel, hogy az eszközöket az előre megállapodott áron, egy meghatározott (vagy meghatározandó) időpontban visszaszolgáltassa. Ezért ezek az ügyletek megfelelnek a származtatott ügyletek IFRS 9 A. függeléke szerinti definíciójának.
+
+Az „ebből: nem teljesítő kitettségek” sor tartalmazza azon adott hitelnyújtási elkötelezettségek, pénzügyi garanciák és egyéb kötelezettségvállalások névértékét, amelyek a 39/2016. (X. 11.) MNB rendelet alapján nem teljesítőnek tekintendők.
+
+A mérlegen kívüli kitettségek tekintetében a „Névérték” az az összeg, amely leginkább jellemzi az adatszolgáltató maximális hitelkockázati kitettségét, figyelmen kívül hagyva a biztosítékokat vagy egyéb hitelminőség-javítási lehetőségeket. Pénzügyi garanciavállalás esetén a névérték az a maximális összeg, amelyet az adatszolgáltatónak a garancia lehívásakor fizetnie kellene. Hitelnyújtási elkötelezettségek tekintetében a névérték az a le nem hívott hitelösszeg, amelynek nyújtására az adatszolgáltató kötelezettséget vállalt. A névérték a hitelegyenértékesítési tényező és hitelkockázat-mérséklő technikák alkalmazása előtti kitettségérték.
+
+Az SF0902 kódú táblában a kapott hitelnyújtási elkötelezettségek tekintetében a névérték az a le nem hívott teljes hitelösszeg, amelynek intézmény részére történő nyújtására a partner kötelezettséget vállalt. Egyéb kapott hitelnyújtási elkötelezettség tekintetében a névérték annak a hitelnek a teljes összege, amelynek nyújtására a tranzakcióban részt vevő másik fél kötelezettséget vállalt. A kapott pénzügyi garanciák esetében a garancia legmagasabb figyelembe vehető összege az a maximális összeg, amelyet a partnernek a garancia lehívásakor kellene fizetnie. Amikor egy kapott pénzügyi garanciát egynél több garantőr bocsát ki, a garantált összeget ebben a táblában csak egyszer kell feltüntetni, a garantált összeget a hitelkockázat mérséklése szempontjából relevánsabb garantőrhöz kell rendelni.
+
+11. SF12 Hitelezési veszteségekre képzett értékvesztés és céltartalék változása
+
+A tábla a központi bankokkal szembeni számlakövetelések (SF0101030), az egyéb látra szóló betétek (SF010140), az amortizált bekerülési értéken (SF0101181) és a saját tőkével szemben valós értéken értékelt (SF0101141) pénzügyi eszközök értékvesztésének változását mutatja be IFRS 9 szerinti értékvesztési szakaszok, instrumentumok és ügyfélszektorok szerinti részletezésben. A vásárolt vagy keletkeztetett értékvesztett pénzügyi eszközöket az IFRS 9 szerinti értékvesztési szakaszoktól elkülönülten kell bemutatni.
+
+A tábla tartalmazza az IFRS 9 értékvesztés elszámolási kötelezettség hatálya alá tartozó mérlegen kívüli kitettségekre képzett céltartalékokat is. A hitelnyújtási elkötelezettségek várható veszteségére képzett tartalékot céltartalékként kell jelenteni, kivéve ha azt az IFRS 9 7.B8E bekezdése alapján a mérlegtételekre képzett értékvesztéssel együtt kezelik.
+
+Az IAS 37 szerint értékelt elkötelezettségek és pénzügyi garanciák valamint az IFRS 4 szerint biztosítási szerződésként kezelt pénzügyi garanciák céltartalékát az SF12 tábla nem tartalmazza, ezeket a céltartalékokat az SF43 táblában kell szerepeltetni.
+
+A tábla nem tartalmazza az IFRS 9 szerint az eredménnyel szemben valós értéken értékelt elkötelezettségek és pénzügyi garanciák hitelkockázat változásából származó valósérték-változását sem.
+
+A tábla oszlopai
+
+A tábla oszlopai a tárgyév január 1-től a vonatkozási időpontig halmozott adatokat tartalmazzák.
+
+A 010. oszlopban feltüntetett nyitó állomány a tárgyév január 1-jén fennálló értékvesztés állomány. A 020. oszlopban kell szerepeltetni a keletkeztetett vagy vásárolt pénzügyi eszközök kezdeti megjelenítésekor a várható veszteségre a kezdeti megjelenítést követő első adatszolgáltatási vonatkozási időpontig elszámolt növekedést. A várható veszteségnek az ezt követően elszámolt növekedését vagy csökkenését nem itt, hanem a változás jellegének megfelelően a tábla egyéb oszlopaiban kell jelenteni. A keletkeztetett vagy vásárolt eszközök tartalmazzák azokat az eszközöket is, amelyek a mérlegen kívüli kötelezettségek lehívásából keletkeztek.
+
+A 030. oszlop tartalmazza a várható veszteségnek a pénzügyi eszközök teljes kivezetéséből származó változását. A pénzügyi eszköz kivezetése több ok miatt történhet: harmadik félnek történő átadás, a teljes visszafizetés következtében a szerződéses jogok lejárta, a pénzügyi eszközök értékesítése, más számviteli portfólióba történő átsorolás, a követelés elengedése. Ide nem értendő a leírás miatti kivezetés. Mérlegen kívüli kitettségek esetében ez az oszlop tartalmazza a várható veszteség összegében – a mérlegen kívüli tétel mérlegtétellé válása miatt – bekövetkezett csökkenését is.
+
+A 040. oszlopban kell jelenteni a pénzügyi eszköz kezdeti megjelenítése óta az eszköz hitelkockázatában történt változásból származó várható veszteség változást (nettó növekedést vagy csökkenést) függetlenül attól, hogy a pénzügyi eszköz átsorolásra került-e más értékvesztési szakaszba vagy sem. A felhalmozott és megfizetett kamatok miatt a pénzügyi eszköz összegében bekövetkező növekedés vagy csökkenés miatt elszámolt értékvesztés változást is ebben az oszlopban kell szerepeltetni. Ez az oszlop tartalmazza az IFRS 9 5.4.1. bekezdéssel összhangban a várható veszteségnek az idő múlásából eredő változását is. A kockázati paraméterek aktualizálásából vagy felülvizsgálatából és az előretekintő gazdasági adatok változásából származó hatást is itt kell jelenteni. A törlesztőrészletek hatására a kitettségek részleges visszafizetéséből származó várható veszteség változás is itt szerepeltetendő kivéve az utolsó törlesztőrészletet, amely miatti változást a 030. oszlopban kell jelenteni.
+
+Az újratöltődő kitettségek várható veszteségének minden változását a 040. oszlopban kell jelenteni, kivéve azokat a változásokat, amelyek leírásból és az adatszolgáltató becslési módszertanának aktualizálásából származnak. Az újratöltődő kitettségek azok a kitettségek, amelyek esetében az adatszolgáltató által előre jóváhagyott összeghatárig az ügyfél saját döntése alapján használhat, vehet fel és fizethet vissza pénzt.
+
+A 070. oszlop tartalmazza az adatszolgáltató becslési módszertanának aktualizálásából, a meglévő modellek változásából vagy új modellek felállításából származó változást a várható veszteségben. A módszertanok aktualizálása magában foglalja az új sztenderdek bevezetésének hatását is. Az olyan módszertani változást, amely következtében egy eszköz értékvesztési szakaszt vált, teljes egészében a modellből származó változásnak kell tekinteni. A kockázati paraméterek aktualizálásából vagy felülvizsgálatából és az előretekintő gazdasági adatok változásából származó változást a becslésben nem itt, hanem a 040. oszlopban kell jelenteni.
+
+A módosított eszközök [IFRS 9 5.4.3. bekezdése és A. függeléke] várható veszteségében bekövetkező változás jelentése függ a módosítás jellegétől:
+
+a) ahol a módosítás az eszköz részleges vagy teljes leírását eredményezi, a várható veszteség ebből származó csökkenését a 080. oszlopban kell jelenteni,
+
+b) ahol a módosítás az eszköz teljes kivezetését (ide nem értve a leírást) és egy új eszköz felvételét eredményezi, a várható veszteségnek az eszköz kivezetéséből származó csökkenését a 030. oszlopban, a megjelenített új eszközből származó várható veszteség növekedést pedig a 020. oszlopban kell szerepeltetni. A leírásoktól eltérő okból végrehajtott kivezetés az olyan kivezetést tartalmazza, amely esetében a módosított eszköz feltételei lényeges változáson mennek át.
+
+c) ahol a módosítás nem eredményezi az eszköz részleges vagy teljes kivezetését, a módosításból származó várható veszteség változást a 050. oszlopban kell jelenteni.
+
+Ha egy hitelviszonyt megtestesítő instrumentum részben vagy egészben kivezetésre kerül, mert megtérülése észszerűen nem várható, az értékvesztésben a leírt összegekből eredő csökkenést „Az értékvesztési számla leírásokból származó csökkenése” tételben kell megadni;
+
+A 090. oszlop tartalmazza az előző oszlopokban fel nem tüntetett bármely összeget, ideértve többek között a várható veszteségekben az árfolyam-különbözetek miatt végrehajtott kiigazításokat.
+
+A 120. oszlop a pénzügyi eszközök azon, az adatszolgáltatási időszakban leírt összegeit tartalmazza, amelyek meghaladják az adott pénzügyi eszközök értékvesztési számlájának kivezetéskori összegét. Ezek az adatszolgáltatási időszak során leírt valamennyi összeget tartalmazzák, nem csak azokat, amelyek még végrehajtás hatálya alá tartoznak.
+
+A 125. oszlopban a hitelviszonyt megtestesítő instrumentumok adatszolgáltatási időszak alatti kivezetéséből származó nyereséget, veszteséget kell jelenteni. Értékesítés esetén az adásvételi szerződés szerinti érték (eladási ár) és a mérlegben szereplő könyv szerinti érték különbözetét kell szerepeltetni függetlenül attól, hogy az ellenérték megfizetésére mikor került sor. Itt kell kimutatni a hitelintézet portfóliójából állomány átruházás címén kikerülő (engedményezett) instrumentumok kivezetéséből származó eredményt is.
+
+A tábla sorai
+
+Kiemelten is be kell mutatni a csoportosan vagy egyedi alapon értékelt pénzügyi eszközökhöz kapcsolódó értékvesztés összegében bekövetkezett változásokat.
+
+12. SF1301─SF13031 Kapott biztosítékok és garanciák
+
+SF1301 Biztosítékok és garanciák nem kereskedési céllal tartott hitelek és előlegek szerinti részletezése
+
+A hitelek fedezetéül szolgáló biztosítékokat és garanciákat a zálogtípusok szerint kell megadni: ingatlannal fedezett hitelek, egyéb biztosítékkal fedezett hitelek, valamint pénzügyi garanciák bontásban. A hiteleket partner, illetve hitelcél szerint kell részletezni.
+
+A tábla nem tartalmazza a kereskedési céllal tartott pénzügyi eszközök számviteli portfolióba tartozó hitelek fedezeteit.
+
+Az SF1301 kódú táblában a biztosíték vagy garancia figyelembe vehető legmagasabb összegét kell feltüntetni, amelynek értéke nem haladhatja meg a kapcsolódó hitel könyv szerinti értékét.
+
+A hitelek zálogtípus szerinti feltüntetésekor a következő fogalmakat kell használni:
+
+a) Az „Ingatlannal fedezett hitelek”-en belül a „Lakóingatlan” közé tartoznak a lakóingatlannal biztosított hitelek és a „Kereskedelmi ingatlan” hitelek közé a lakóingatlantól eltérő ingatlanon, többek között irodai és kereskedelmi létesítményen, valamint egyéb típusú kereskedelmi ingatlanon létesített zálogjoggal biztosított hitelek, mindkét esetben a CRR meghatározásának megfelelően.
+
+b) „Egyéb biztosítékkal fedezett hitelek”:
+
+ba) A „Pénzeszközök, betétek [kibocsátott hitelviszonyt megtestesítő értékpapírok]” tartalmazzák az adatszolgáltatónál elhelyezett betéteket és az adatszolgáltató által kibocsátott hitelviszonyt megtestesítő értékpapírokat, amelyek a nyújtott hitelek fedezeteként szolgálnak.
+
+bb) Az „Ingó vagyontárgy” magában foglalja az ingatlanon kívüli fizikai biztosítékot, beleértve az autókat, repülőgépeket, hajókat, ipari és mechanikus berendezéseket (gépek, mechanikai és műszaki felszerelések), készleteket és árukat (áru, késztermékek és félkész termékek, nyersanyagok) és egyéb ingóságokat.
+
+bc) A „Tulajdoni részesedést és hitelviszonyt megtestesítő értékpapírok” magukban foglalják a tőkeinstrumentumok formájában rendelkezésre álló biztosítékokat, beleértve a leányvállalatokba, közös vállalkozásokba és társult vállalkozásokba történő befektetéseket, valamint a harmadik felek által kibocsátott, hitelviszonyt megtestesítő értékpapírokat.
+
+bd) Az „Egyéb” oszlopban kell szerepeltetni az egyéb eszközöket.
+
+c) A „Kapott pénzügyi garanciák” olyan szerződések, amelyek a kibocsátónak meghatározott fizetések teljesítését írják elő az adatszolgáltató abból adódó veszteségének megtérítésére, hogy egy meghatározott adós esedékességkor nem fizet a hitelviszonyt megtestesítő instrumentum eredeti vagy módosított feltételeinek megfelelően.
+
+Az olyan hitelek esetében, ahol egyidejűleg egynél több biztosíték- vagy garanciatípus létezik, „A biztosíték/garancia figyelembe vehető legmagasabb összegét” a biztosíték/garancia minősége szerint kell allokálni, a legjobb minőségűvel kezdve. Az ingatlannal fedezett hitelek esetében először mindig az ingatlanfedezetet kell feltüntetni, függetlenül annak más biztosítékhoz viszonyított minőségétől. Ha „A biztosíték/garancia figyelembe vehető legmagasabb összege” meghaladja az ingatlanbiztosíték értékét, a fennmaradó értéket egyéb biztosítéktípusokhoz és garanciákhoz kell allokálni a biztosíték/garancia minősége szerint, a legjobb minőségűvel kezdve.
+
+A tábla sorai
+
+A teljes hitelállományból kiemelten is be kell mutatni a rezidens egyéb pénzügyi vállalatoknak, nem pénzügyi vállalatoknak és háztartásoknak nyújtott hitelek fedezeteit.
+
+A „nem teljesítő” sor a 39/2016. (X. 11.) MNB rendelet alapján nem teljesítőnek minősülő hitelek fedezeteit tartalmazza.
+
+A „Kereskedelmi ingatlanhoz kapcsolódó hitel” sor az ingatlannal kapcsolatos adathiány kiküszöböléséről szóló ERKT/2016/14 európai rendszerkockázati testületi ajánlás 2. szakasz 1. pont 5. alpontjában meghatározott hiteleket tartalmazza.
+
+A „Lakáscélú hitelek” sor tartalmazza a háztartások számára saját használatra vagy bérbeadásra történő lakásvásárlásra – ideértve a lakásépítést és felújítást – nyújtott hitelek fedezeteit.
+
+SF13021 Az időszak alatt birtokbavétellel megszerzett és az adatszolgáltatás vonatkozási időpontjában a mérlegben szereplő biztosítékok állománya
+
+A SF13021 tábla azoknak a biztosítékoknak a könyv szerinti értékét tartalmazza, amelyek megszerzésére a tárgyév január 1. és az adatszolgáltatás vonatkozási időpontja között került sor, és amelyeket az adatszolgáltatás vonatkozási időpontjában a hitelintézet mérlegében kimutat.
+
+A birtokbavétellel megszerzett biztosítékok magukban foglalják az olyan eszközöket is, amelyeket a hitelintézet az adóstól nem biztosítékként foglalt le, hanem a tartozás törléséért akár önkéntes alapon, akár jogi eljárás részeként szerzett meg.
+
+A biztosíték típusok megegyeznek az SF1301 táblánál leírtakkal a „Pénzeszközök, betétek [kibocsátott hitelviszonyt megtestesítő értékpapírok]” kivételével, melyet az SF13021 tábla nem tartalmaz.
+
+SF13031 Birtokbavétellel megszerzett biztosítékok állománya
+
+A SF13031 táblában a birtokbavétellel megszerzett azon eszközök halmozott könyv szerinti értéke jelentendő, amelyek az adatszolgáltatás vonatkozási időpontjában a hitelintézet mérlegében szerepelnek, függetlenül attól, hogy azokat a hitelintézet mely időpontban szerezte be. A táblában az IAS 16 hatálya alá tartozó ingatlanokat, gépeket és berendezéseket, valamint az ettől eltérő, birtokbavétel útján megszerzett biztosítékokat kell jelenteni.
+
+A birtokbavétellel megszerzett biztosítékok magukban foglalják az olyan eszközöket is, amelyeket a hitelintézet az adóstól nem biztosítékként foglalt le, hanem a tartozás törléséért akár önkéntes alapon, akár jogi eljárás részeként szerzett meg.
+
+A biztosíték típusok megegyeznek az SF13021 táblánál leírtakkal.
 
 13. SF14 Valós érték hierarchia: valós értéken értékelt pénzügyi instrumentumok
 
@@ -476,7 +724,47 @@ Az „A valósérték-változás halmozott összege adófizetés előtt” oszlo
 
 14.
 
-15.
+15. SF1901─SF1903 Átstrukturált kitettségek
+
+A tábla a veszteség megelőzése érdekében kényszerű átstrukturáláson átesett kitettségek állományváltozásának, illetve minősítésének nyomonkövetésére szolgál.
+
+A „Forint” részletező tábla a forintban fennálló, deviza árfolyamkockázattal nem rendelkező, a „Deviza” részletező tábla a devizában fennálló kockázatvállalások adatait és a hozzájuk kapcsolódó fedezetet (függetlenül a fedezet devizanemétől), értékvesztést, a hitelkockázat változásból eredő valós érték változás, illetve a céltartalék összegét tartalmazza forintban.
+
+Az átstrukturált kitettség fogalmát – a kereskedési céllal tartott portfólió kivételével – valamennyi adósságeszközre (számlakövetelések központi bankkal szemben és egyéb látra szóló betétek, hitelviszonyt megtestesítő értékpapírok, jegybanki és bankközi betétek, hitelek), valamint a mérlegen kívüli kitettségek közül a visszavonható és visszavonhatatlan hitelnyújtási elkötelezettségekre kell alkalmazni. Ennek megfelelően a táblák tartalmazzák azon adósságeszközöket is, amelyeket a hitelintézet az IFRS 5 alapján az „Értékesítésre tartottá minősített befektetett eszközök és elidegenítési csoportok” kategóriába sorolt.
+
+Az átstrukturált kitettség fogalmát az 1. melléklet 2. pontja tartalmazza.
+
+A táblák oszlopai
+
+Az 010. oszlopban kell szerepeltetni a teljes átstrukturált kitettség állományt bruttó könyv szerinti értéken.
+
+Az átstrukturált kitettségeket tovább kell bontani teljesítő és nem teljesítő átstrukturált kitettségekre, amelyeket a tábla 020. és 080. oszlopában kell feltüntetni.
+
+Mind a teljesítő, mind a nem teljesítő kategórián belül az átstrukturált kitettségeket tovább kell részletezni a fizetési késedelem napjai száma szerint.
+
+Az átstrukturált kitettségek szerződéseit a késedelembe esés időpontjától eltelt időszak alapján kell sávonként besorolni.
+
+Ha a hitelintézet egy ügyféllel szemben több késedelmes átstrukturált szerződéssel rendelkezik, a szerződéses értékeket egymástól függetlenül szerződésenként, legrégebbi hátraléknak megfelelő késedelmességi (lejártsági) kategóriákba kell besorolni.
+
+A már késedelmesen vásárolt követelések esetén a késedelmességet (lejártságot) az eredeti szerződés szerinti nem fizetés időpontjától kell számítani, függetlenül attól, hogy a hitelintézet a követelést mikor vásárolta.
+
+Ha a követelés átstrukturálásakor a szerződésben a lejárati esedékesség módosításra kerül, a fizetési késedelmet az érvényes szerződés ütemezésének megfelelően kell meghatározni.
+
+A 070. oszlop tartalmazza azon, próbaidőszak alatt lévő teljesítő átstrukturált kitettségeket, amelyek a teljesítővé minősítésüket megelőzően a nem teljesítő átstrukturált kategóriában szerepeltek. Ennek megfelelően nem kell itt jelenteni azokat a teljesítő átstrukturált kitettségeket, amelyek az átstrukturálás időpontjától kezdve teljesítőnek minősülnek.
+
+A nem teljesítő átstrukturált követelésekből ki kell emelni és külön oszlopokban be kell mutatni az IFRS 9 szerinti 2. és 3. értékvesztési szakaszban lévő követelések, valamint elkülönülten a vásárolt vagy keletkeztetett értékvesztett pénzügyi eszközök állományát (165-175. oszlop), az azokhoz kapcsolódó értékvesztés, hitelkockázat változásából származó negatív valósérték-változás és céltartalék összegét (321-323. oszlop), valamint a fedezetek értékét (461-463. oszlop).
+
+A 180. oszlopban azon nem teljesítő átstrukturált kitettségek állományát kell feltüntetni, amelyek az átstrukturálásukat megelőzően is nem teljesítőek voltak (azaz az adatszolgáltató egy nem teljesítő kitettséget strukturált át).
+
+A 190-323. Értékvesztés, a hitelkockázat változásából származó negatív valósérték-változás halmozott összege és céltartalék oszlopban az átstrukturált kitettségekhez kapcsolódó értékvesztés és a hitelkockázat változásából származó negatív valósérték-változás halmozott összegét, illetve a mérlegen kívüli tételeken fennálló céltartalék állományát kell kimutatni. A hitelkockázat változásából származó negatív valós érték változást az 1. melléklet 2.19. pontjában foglalt bruttó könyv szerinti érték fogalomnak megfelelően csak a nem teljesítő, eredménnyel szemben valós értéken értékelt, hitelviszonyt megtestesítő instrumentumok esetében (a kereskedési céllal tartottak kivételével) kell meghatározni és jelenteni. Az értékvesztést és a hitelkockázat változásból származó negatív valós érték változást negatív, a céltartalék adatokat pozitív előjellel kell feltüntetni.
+
+A 330-463. Fedezetek értéke a követelés könyv szerinti értékének erejéig oszlopban kell szerepeltetni az átstrukturált kitettségek fedezetéül kapott fedezetek, biztosítékok (beleértve a pénzügyi garanciákat is) értékét a követelés nettó könyv szerinti értékének erejéig. A fedezetek besorolását a kapcsolódó szerződés devizaneme határozza meg. Ha egy fedezet több különböző szerződéshez tartozik, a fedezeteket az adatszolgáltató által meghatározott bevonási sorrendben kell szerepeltetni a kapcsolódó szerződéseknek megfelelő deviza-részletező táblában.
+
+A fedezetet biztosítéki értéken lehet figyelembe venni a követelés, azaz a mérlegen belüli kintlévőség nettó könyv szerinti értéke erejéig. Biztosítéki érték: a piaci érték belső fedezeti előírások alapján korrigált értéke.
+
+A táblák sorai
+
+A tábla szektor és terméktípus megbontása megegyezik az SF1801-SF1803 táblával, a kitöltésnél az ott leírtakat kell figyelembe venni.
 
 16. SF43 Céltartalékok
 
@@ -2960,356 +3248,4 @@ A folyószámlahitel folyósítás és állomány adatai a kényszerhitelt is ta
 
 A hitelállományra vonatkozó szerződés darabszám adatokban – az SF07H kódú táblával egyezően – csak a tárgyidőszak végén kitettséggel rendelkező szerződések számát kell szerepeltetni, azaz a nulla („0") folyószámlahitel állományú, de élő szerződések darabszámát a darabszám adatokban nem kell feltüntetni.
 
-A devizában fennálló hitelállományi és forgalmi adatok forint értékének meghatározásánál az 1. melléklet 5.6. pontja szerint kell eljárni.
-
-A tábla oszlopai
-
-A db oszlopban kell szerepeltetni a szerződésenkénti folyósítások számát.
-
-A bruttó érték oszlopban az értékadatokat millió forintban, három tizedesjegy pontosággal kell kimutatni.
-
-A tábla sorai
-
-14HD1 Tárgyidőszakban nyújtott hitelek összesen (jan. 1-től halmozott)
-
-A tárgyidőszakban nyújtott hitelek összege a tárgyév január 1-jétől a tárgyidőszak végéig folyósított, halmozott (kumulált) adatokat jelenti. Az ügyfélnek folyósított hitel tőkeösszegét kell jelenteni, az IFRS korrekciók figyelembevétele nélkül.
-
-A kumulált adatok éven belül minden tárgyidőszakban kizárólag nagyobbak, vagy egyenlők lehetnek, mint a megelőző tárgyidőszakban. Az év utolsó negyedévében megküldött jelentésben az egész évi hitelnyújtást kell jelenteni. Az éves beszámoló elfogadásával egyidejűleg a „végleges adatokat” az auditált adatokon alapuló jelentéssel együtt megküldött 14HD tábla tartalmazza.
-
-A részletező sorokban a tárgyévben a tárgyidőszak végéig történt hitelfolyósítások darabszámát, illetve összegét (mint forgalmi adatokat) kell szerepeltetni. Amennyiben tárgynapon adott ügyfél számára többször, de ugyanazon szerződés alapján történik hitelfolyósítás, azt egy darabként, összegezve kell kimutatni. A folyószámlahitelek folyósítás adatait a szerződés állományváltozása alapján a következők szerint kell meghatározni: amennyiben az adott folyószámlahitel lehívott állománya az előző negyedév végéhez képest nőtt, folyósításként kell jelenteni. Amennyiben a tárgynegyedévben a változás negatív, a csökkenés törlesztésként értelemezendő, melyet a táblában nem kell bemutatni. A táblában a Széchenyi és a Gazdakártya hiteleket a folyószámla hitelek között kell kimutatni rulírozó jellegük miatt. Ha a hitelkeret rendelkezésre tartási ideje meghaladja az egy évet, a hitel az éven túli lejáratú soron jelentendő.
-
-A tárgyidőszakban folyósított devizahitelek esetében a forintra átszámítás az ügylet napján érvényes árfolyammal történik az adatszolgáltató számviteli politikájában lefektetetteknek megfelelően A devizaárfolyam-változás miatt nem kell átértékelni az előző tárgyidőszakban jelentett, január 1-től összesített devizahitel folyósítást, hanem az aktuális tárgyidőszaki növekményt a megelőző tárgyidőszakban jelentett forint értékhez kell hozzáadni.
-
-A tárgyidőszakban folyósított hiteleket részletezni kell lejárat (éven túli, illetve éven belüli) és ezen belül a hitel devizaneme (forint, illetve deviza) szerint. A 14HD1 soron kimutatott tárgyévi folyósításból külön soron ki kell emelni a beruházási célú hitel (14HD111 sor) folyósítás darabszámát, valamint annak bruttó összegét.
-
-14HD121 Éven túli hitelek összesen sorában kell az éven túli forinthitelek, illetve devizahitelek tárgyévi folyósításait összesíteni.
-
-14HD122 Éven belüli hitelek összesen sorban kell összesíteni a tárgyévben folyósított éven belüli forint- és devizahiteleket.
-
-Az éven belüli és éven túli lejáratú hitelfolyósítás összegének meg kell egyezni a 14HD1 sorral.
-
-14HD2 Hitelállomány összesen (a tárgyidőszak végén)
-
-Ebben a sorban kell az összesített – a fentiekben meghatározott KKV-k részére nyújtott, – a beszámolás időpontjában (tárgyidőszak végén) még fennálló hitelek darabszámát, valamint annak állományát az adatszolgáltató által alkalmazott számviteli szabályozásnak megfelelő bruttó könyv szerinti értéken feltüntetni. A darabszám oszlopban – az SF07HT kódú táblával egyezően –a beszámolási időszak végén fennálló, kitettséggel rendelkező hitelszerződések számát kell jelenteni.
-
-A 14HD2 soron kimutatott időszak végi hitelállomány adataiból külön soron be kell mutatni a beruházási célú hitel (14HD211 sor), valamint a folyószámla-hitel (14HD212 sor) szerződés darabszámát, illetve a fennálló hitelállomány bruttó összegét.
-
-53. 20AA Összevont alapú felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója és 20AB Összevont alapú felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolója
-
-A CRR prudenciális konszolidációra vonatkozó rendelkezései (Első rész, II. Cím, 2. fejezete), valamint a Hpt. 172. §-a szerinti, összevont alapú felügyelet alá tartozó hitelintézetnek a 20AA Összevont alapú felügyelet alá tartozó hitelintézetek negyedéves szöveges beszámolóját, az egyéb hitelintézeteknek a 20AB Összevont alapú felügyelet alá nem tartozó hitelintézetek negyedéves szöveges beszámolóját kell negyedévente elkészítenie.
-
-Az összevont alapú felügyeleti jelleg általános rendező elve mellett az MNB dönthet úgy, hogy a jellegétől eltérő adatszolgáltatás teljesítését rendeli el a hitelintézetre, ha azt a hitelintézet kockázatainak sajátossága, tevékenységének összetettsége és ezek változása indokolttá teszi.
-
-20AA Összevont alapú felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója
-
-A jelentésben azokat az információkat kell részletezni, amelyek a pénzügyi adatokat tartalmazó jelentésekből nem állapíthatóak meg, azaz a számszaki változások mögötti folyamatokat, tendenciákat, a változást előidéző okokat, üzleti döntéseket kell bemutatni. A jelentésben más helyen rendelkezésre álló számszaki adatokat itt nem kell megismételni. Hangsúlyozni kell, hogy az elkövetkező időszakban milyen tendenciákat prognosztizál az intézmény az egyes témakörökben. A kötelezően elvárt elemeken túl az MNB a szöveges jelentést minden olyan információval, kockázattípussal kibővítheti, amelyet felügyeleti tevékenysége szempontjából lényegesnek ítél.
-
-A jelentés elkészítésénél, a folyamatok elemzésénél – jelen kitöltési előírások eltérő rendelkezése hiányában – a tárgyidőszakot megelőző egy évtől (bázistól) bekövetkezett változásokra, azok okaira kell koncentrálni, kiemelve az adott negyedévben tapasztalt sajátosságokat. Lényeges, hogy az alábbiakban rögzített struktúra nem kötött, csupán azokat a pontokat tartalmazza, amelyekre a hitelintézetnek minimálisan ki kell térnie. A kötelezően elvárt elemeken túl a hitelintézet a szöveges jelentést minden olyan információval, kockázattípussal kibővítheti, amelyet tevékenysége szempontjából lényegesnek ítél.
-
-I. Mérlegbeli és mérlegen kívüli tételek alakulása
-
-1. Azokat a változásokat kell részletezni, indokolni, a számszaki változások mögötti folyamatokat bemutatni,
-
-- amelyek az előző év ugyanazon időszakához vagy az előző negyedévhez képest 5%-nál nagyobb elmozdulást jelentenek,
-
-- amelyek mögött tudatos üzleti döntés húzódik meg,
-
-- amelyek a normál üzletmenettől, a portfolió természetes időszakos ingadozásaitól eltérnek, vagy
-
-- amelyek esetében bizonyos tendencia figyelhető meg.
-
-2. Minimálisan a következő tételekben bekövetkezett változásokat és azok alapvető okait kell bemutatni, kitérve a vonatkozó tervek megvalósulására is:
-
-2.1. Mérleg főcsoportok (SF0101, SF0102, SF0103),
-
-2.2. Mérlegen kívüli tételek
-
-a) mérlegen kívüli követelések, a következő megbontás szerint
-
-aa) fedezetek, biztosítékok (biztosítéki értéken),
-
-ab) egyéb mérlegen kívüli tételek;
-
-b) mérlegen kívüli kötelezettségek, a következő megbontás szerint:
-
-függő kötelezettségek, ezen belül
-
-ba) peres ügyekkel kapcsolatos állományok,
-
-bb)) egyéb függő kötelezettségek.
-
-II. Piaci megjelenés
-
-1. Ismertetni kell, hogy milyen új üzletágakat, termékeket, szolgáltatásokat kíván a hitelintézet a jövőben bevezetni.
-
-2. Be kell mutatni, milyen főbb változások történtek az elosztási csatornák fejlesztését illetően (pl. speciális fiókok létrehozása, internet banking, telefon banking fejlesztések).
-
-3. Be kell mutatni, milyen együttműködési formák, szövetségek jöttek létre más pénzügyi és nem pénzügyi intézményekkel, illetve a pénzügyi közvetítő rendszer egyéb tagjaival. Mi az együttműködés célja és formája (többek között közös termék, egy adott termék értékesítése, közös vállalat).
-
-III. Vállalatirányítás
-
-1. Be kell mutatni, milyen intézményen, illetve intézménycsoporton belüli szervezeti, belső szabályozási változások történtek a hatékonyabb kockázatmenedzselés érdekében.
-
-2. Ismertetni kell, hogy a hitelintézet milyen új kockázatcsökkentő eszközöket vezetett be (többek között értékpapírosítás, speciális biztosítékok, biztosítások).
-
-3. Tájékoztatást kell nyújtani a hitelintézetnek a Hpt. 100. §-ában meghatározott tulajdonszerzéshez kapcsolódó kockázatvállalásra, valamint a 101. és 102. §-ában meghatározott befektetési korlátozásokra vonatkozóan.
-
-4. Intézménycsoport
-
-a) az intézménycsoporthoz tartozó, illetve az intézménycsoporthoz nem tartozó, de a hitelintézettel stratégiai kapcsolatban lévő (pl. közös anyabankjuk van, közös külföldi anyabankhoz tartoznak, a bank közvetett tulajdonában vannak) nem banki pénzügyi közvetítőkkel (biztosítók, befektetési alapok, nyugdíjpénztár, pénzügyi- és befektetési vállalkozások) való együttműködés jellemzői (pl. üzletpolitika, közös tevékenység, közös termékek, hitelkapcsolat, keresztértékesítések);
-
-b) az összevont alapú felügyelet alá „bevont" vállalkozások (a 680/2014/EU bizottsági végrehajtási rendelet III. melléklete szerinti F 40.01 tábla kódú tábla) közül az MNB által egyedileg nem felügyelt csoporttagok aktivitásának, a mérlegfőösszeg, jövedelmezőség, portfolió minőség, saját tőke változások bemutatása;
-
-c) az időszakban a jelentősebb vezetők körében, továbbá az irányító testületekben történt személyi-, valamint döntési, hatásköri változások bemutatása;
-
-d) amennyiben a hitelintézet felülvizsgálta stratégiáját és üzleti tervét, ismertesse a változásokat, kitérve a kiemelt üzletágakat érintő módosulásokra.
-
-IV. Hitelkockázat
-
-1. Tájékoztatást kell adni a nem pénzügyi vállalati hitelportfolió állományának nemzetgazdasági ágazatok szerinti megoszlásáról (pl. feldolgozóipar, építőipar, vendéglátás, kereskedelem, kommunikáció, pénzügy), koncentrációs kockázatáról [földrajzi (pl. Budapest, vidék), termék].
-
-2. Ismertetni kell az 1. melléklet 2. pontjában meghatározott nem teljesítő hitelek volumenváltozása mögötti folyamatokat, okokat, továbbá indokolni kell az értékvesztéssel való fedezettség változásának okát a következő megbontás szerint:
-
-a) vállalati hitelek,
-
-b) háztartási hitelek, ezen belül jelzáloggal fedezett hitelek, fedezetlen hitelek, egyéb,
-
-c) külföldi hitelek,
-
-d) önkormányzati hitelek,
-
-e) pénzügyi vállalkozásoknak nyújtott hitelek.
-
-3. Meg kell jelölni azokat az ágazatokat, termékeket, amelyeknél a hitelintézet további portfolióromlásra számít.
-
-4. Be kell mutatni a negyedév során az átstrukturált hitelek volumenében bekövetkezett változások okait, továbbá azt, hogy a negyedév során hozott átstrukturálási döntések közül melyek voltak a jellemzőek (pl. fizetés-könnyítés, halasztás jelzáloghitelnél, személyi hitelnél, futamidő hosszabbítás, devizanem átváltás, kedvezményes előtörlesztés, türelmi idő hosszabbítása, áthidaló hitel nyújtása), azok milyen termékekhez kapcsolódtak és hány ügyletet érintettek.
-
-5. Ismertetni kell a tárgyidőszaki, csoporton belüli jelentősebb, nem rendszeres hitelportfolió értékesítések gazdasági okait és összegét, szegmens, terméktípus, eladó és vevő megjelöléssel. Ezen túlmenően tájékoztatást kell adni az eladott vagy megvásárolt hitelportfolió minőségéről (90+ aránya, biztosítékokkal fedezettség aránya).
-
-6. A banki nagykockázat vállalásával összefüggésben a hitelintézetnek ki kell térnie:
-
-a) a legnagyobb ügyfél és ügyfélcsoportokkal szembeni kockázatvállalások alakulásának értékelésére, különös tekintettel az ügyfelek, ügyfélcsoportok részére történő limitmegállapításra, az ügyfél és ügylet minősítés változására, az értékvesztés- és céltartalékképzésre, a default eseményekre, az egyedi kockázatkezelési, behajtási eljárások alkalmazására (az ügyfélcsoport fogalmára a CRR 4. cikk (1) bekezdés 39. pontja az irányadó). Az értékelés során a nem teljesítő minősítésű ügyfeleket egyedenként is elemezni kell.
-
-b) a más bankkal, bankcsoporttal szembeni nagykockázati kitettségeire;
-
-c) a legnagyobb kockázatok tekintetében a Hpt. 302. §-ában valamint a CRR 400. cikkében foglalt mentesítésekre vonatkozó tájékoztatásra.
-
-7. A konzorciálisan, illetve lebonyolításra nyújtott hitelek adatairól (az ügyfél neve, konzorcium szervezés esetén a többi résztvevő bank neve, a hitelnyújtás devizaneme, a bank felé fennálló tartozás összege devizában és forintban, a saját hitelkeret devizaneme, a saját hitelkeret teljes összege devizában, forintban, a még le nem hívott összeg devizában, forintban, a kötés és a lejárat ideje) tájékoztatást kell adni. A konzorcium keretében kapott forrásokat (hiteleket) is – nevesítve – ismertetni kell.
-
-8. Tájékoztatást kell nyújtani, ha a hitelintézet a tárgynegyedévben kezdi el határon átnyúló tevékenység keretében pénzügyi szolgáltatás, vagy kiegészítő pénzügyi szolgáltatás nyújtását. Ismertetni kell a határon átnyúló szolgáltatás volumenének alakulását. Annak jelentős nagyságrendje, vagy jelentős változása esetén tájékoztatást kell adni a nyújtott szolgáltatások fajtáiról.
-
-V. Likviditás
-
-1. Az anyabanktól származó források alakulásának bemutatása (amennyiben releváns). Ismertetni kell a változás okait, külön kitérve az éven túli állományváltozás indokaira.
-
-2. Tájékoztatást kell nyújtani a szabadrendelkezésű repó képes értékpapírok állományának alakulásáról.
-
-3. Ismertetni kell a partnerbankok a hitelintézettel szemben érvényesített (hitelintézet által ismert) MM limitjeinek, azok kihasználtságának alakulását.
-
-4. Be kell mutatni, hogyan alakult a hitelintézet forrásköltsége, az eszközoldali aktivitásbővülést milyen jellegű, lejárati struktúrájú források finanszírozzák.
-
-a) Ismertetnie kell az egyes forrástípusokban bekövetkezett változások okait, részletezve a tárgyidőszakban esedékes lejáratok teljesítését, valamint a lejárt források megújítását, a külső forrásbevonásokat.
-
-b) Betétállományok stabilitásának értékelése:
-
-5. Részletesen ki kell fejteni, hogy a nagybetétek hogyan változtak, milyen tényezők befolyásolták a változást.
-
-VI. Piaci kockázat
-
-1. Ismertetni kell a főbb állománycsoportok (beleértve a mérlegen kívüli állományokat is) jellemző kamat típusát (ahol releváns), az esetleges benchmarkokat, a hitelintézet árazási gyakorlatát, a kamatpolitika kialakításánál követett megfontolásokat, várakozásokat. Ismertetni kell az intézmény banki és kereskedési könyvi kamatkockázat kezelésére vonatkozó stratégiáját.
-
-2. Ismertetni kell a kamat-, a devizaárfolyam, az áru és részvényárfolyam kockázatát. Ki kell térni a releváns kockázati forrásokra, figyelembe véve a mérlegen kívüli állományokat is. Az elemzés térjen ki külön a kereskedési és külön a banki könyvre is.
-
-3. Be kell mutatni a hitelintézet árazási gyakorlatát, illetve a piaci kockázati politika kialakításánál figyelembe vett feltételezéseket, várakozásokat. Szükséges a tárgyidőszakban előfordult, a piaci kockázatokat jelentősen befolyásoló események bemutatása is.
-
-VII. Működési kockázat
-
-1. Ismertetni kell, milyen jelentősebb fejlesztéseket tervez a hitelintézet és mekkora ezek várható költségvonzata (pl. számviteli-, információs rendszer bővítése).
-
-2. Be kell mutatni, milyen működési kockázatcsökkentő intézkedések történtek a hitelintézetnél a tárgynegyedévben.
-
-VIII. Jövedelmezőség
-
-1. Értékelni kell az eszközök jövedelemtermelő képességének, a forrás költségeinek alakulását, azok eredményre gyakorolt hatását.
-
-2. Ismertetni kell a főbb eredmény-összetevők alakulását, a változást kiváltó mögöttes okokat, valamint a nagyobb egyedi tranzakciók hatását az eredményre. Az értékelésnél a jelentés I. részében a mérlegtételek bemutatására vonatkozó feltételek szerint kell eljárni.
-
-3. Ismertetni kell, melyek voltak a hitelintézetnél a tárgynegyedévben a legfontosabb kamatpolitikai és jutalék változtatási döntések és mi indokolta ezeket.
-
-4. Részletesen ismertetni kell, hogy az egyéb (máshol nem szereplő egyéb)ráfordítások és bevételek főbb tételei miből adódtak.
-
-5. Ismertetni kell a hitelintézet költségeinek alakulására ható főbb tényezőket, kiemelve a jelentősebb költségtételeket.
-
-6. Részletezni kell a pénzügyi műveletek eredményének alakulását meghatározó tényezőket.
-
-7. Értékelni kell a jövedelmezőségre vonatkozó terv időarányos alakulását, továbbá melyek a jövedelmezőségre vonatkozó jövőbeni tervek.
-
-IX. Banki könyvi kamatlábkockázati kérdések (a 9R1 és 9R2 táblakódú felügyeleti jelentésekhez kapcsolódóan)
-
-Összevont alapú felügyelet alá tartozó hitelintézetek esetében az alábbi kérdéseket csak a bankcsoportot vezető hitelintézet válaszolja meg.
-
-1. Ismertetni kell, hogy az adatszolgáltató mely kockázatmentes hozamgörbéket használja a felügyeleti standard kamatlábsokk kiszámításához. Az EBA iránymutatás szerint egy megfelelő általános kockázatmentes hozamgörbét kell alkalmazni. Ezt az információt az összes jelentős devizanemre meg kell adni.
-
-2. Ismertetni kell, hogy a nem kereskedési tevékenységből származó kamatlábkockázat mérésének az EBA iránymutatás I. és II. mellékletében szereplő módszerei közül melyeket használja az intézmény a felügyeleti standard kamatlábsokk és a jövedelmezőségi mutatók kiszámításához.
-
-Az EBA iránymutatás I. és II. melléklete ismerteti a kamatlábkockázat mérésének módszereit és a szofisztikációs szintjeit. A módszerek használatát meg kell indokolni.
-
-3. Ismertetni kell, hogy az adatszolgáltató a felügyeleti standard kamatlábsokk kiszámításakor kiszűrte-e a kereskedelmi felárakat (marzsokat).
-
-Az EBA iránymutatás 115. pont (i) alpontja szerint az intézménynek lehetősége van a kereskedelmi felárak hatásának kizárására a felügyeleti kamatlábsokk számításakor, amiről értesítenie kell a kompetens hatóságot.
-
-4. Ismertetni kell, hogy az adatszolgáltatás legutóbbi teljesítése óta változott-e bármely, a felügyeleti standard kamatlábsokk számítása mögött meghúzódó lényeges feltételezés.
-
-Amennyiben igen, fel kell sorolni a változásokat. A válaszban ki kell fejteni, hogy a mögöttes módszertanban vagy feltételezésekben történte egyéb lényeges változás.
-
-5. Be kell mutatni, hogy hogyan kezelte az adatszolgáltató a CET1, AT1 és T2 tőkeelemeket a gazdasági érték és a nettó kamatjövedelem érzékenységének számításakor.
-
-6. Részletezni kell, hogy melyek a modellezett cash flow-k mögött meghúzódó főbb modellezési feltételezések tételtípusonként. A lejárat nélküli betétek esetében meg kell adni az adatszolgáltató saját becslését a stabilnak tekinthető állomány nominális értékéről, arányáról, valamint az átlagos átárazásig hátralévő idejéről.
-
-7. Be kell mutatni, hogy hogyan kezelte az adatszolgáltató a banki könyvben a beágyazott automatikus opcionalitással rendelkező termékeket a gazdasági érték és a nettó kamatjövedelem érzékenységének számításakor.
-
-8. Ismertetni kell, hogy hogyan kezelte az adatszolgáltató a banki könyvben a beágyazott fogyasztói magatartás alapú opcionalitással rendelkező termékeket. Továbbá meg kell adni az előtörlesztési modellezésben szereplő portfóliók értékét, a modellezés nélküli átlagos hátralévő futamidőt, valamint az átlagos modellezett előtörlesztési rátát.
-
-9. Be kell mutatni, hogy hogyan kezelte az adatszolgáltató a nem teljesítő eszközöket a 9R2 táblában feltüntetett adatok kiszámításakor. Részletezni kell az ezen számítások alkalmával, valamint a 9R1 kódú tábla adatainak számításaihoz felhasznált módszertanokat.
-
-Ismertetni kell, hogy az adatszolgáltató a nem teljesítő eszközöket kamatozó vagy nem kamatozó eszközöknek tekintette-e, és hogyan kezelte azokat a 9R1 és 9R2 kódú táblák kitöltésekor.
-
-10. Ismertetni kell, hogy alkalmaz-e az adatszolgáltató kamatkockázati hatással járó belső ügyleteket a banki és kereskedési könyv között. Ha igen, akkor meg kell adni az ezzel kapcsolatos eljárások és stratégia leírását.
-
-X. Egyéb
-
-1. Részletesen ki kell térni az egyéb vizsgálatokra és hatósági megkeresésekre.
-
-2. Jelenteni kell a Hpt. előírásainak megsértését, azok okait, megszüntetésükre vonatkozó intézkedéseket és azok végrehajtását.
-
-3. Ismertetni kell a további, a hitelintézet által lényegesnek ítélt változásokat és fontosnak vélt információkat.
-
-XI. Konszolidált szintű információk
-
-Az egyéb rendszerszinten jelentős (O-SII) hitelintézetnek és az MNB által kijelölt hitelintézetnek az alábbi tárgykörökhöz tartozó kérdések esetében a konszolidált szintű információkat is részleteznie kell, amennyiben azok az egyedi szintű információkhoz képest releváns információval bírnak:
-
-I. Mérlegbeli és mérlegen kívüli tételek alakulása
-
-IV. Hitelkockázat
-
-V. Likviditás
-
-VI. Piaci kockázat
-
-VII. Működési kockázat
-
-VIII. Jövedelmezőség
-
-20AB Összevont alapú felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolója
-
-A jelentésben azokat az információkat kell részletezni, amelyek a pénzügyi adatokat tartalmazó jelentésekből nem állapíthatóak meg, azaz a számszaki változások mögötti folyamatokat, tendenciákat, a változást előidéző okokat, üzleti döntéseket kell bemutatni. A jelentésben más helyen rendelkezésre álló számszaki adatokat itt nem kell megismételni. Hangsúlyozni szükséges, hogy az elkövetkező egy évre vonatkozóan milyen kockázatokat, veszélyeket prognosztizál az intézmény az egyes témakörökben. A kötelezően elvárt elemeken túl az MNB a szöveges jelentést minden olyan információval, kockázattípussal kibővítheti, amelyet felügyeleti tevékenysége szempontjából lényegesnek ítél.
-
-A jelentés elkészítésénél, a folyamatok elemzésénél a tárgyidőszakot megelőző egy évtől (bázistól) bekövetkezett változásokra, azok okaira kell koncentrálni, kiemelve az adott negyedévben tapasztalt sajátosságokat. Lényeges, hogy az alábbiakban rögzített struktúra nem kötött, csupán azokat a pontokat tartalmazza, amelyekre a hitelintézetnek minimálisan ki kell térnie. A kötelezően elvárt elemeken túl a hitelintézet a szöveges jelentést minden olyan információval, kockázattípussal bővítheti, amelyet tevékenysége szempontjából lényegesnek ítél.
-
-I. Mérlegbeli, mérlegen kívüli és eredmény tételek alakulása
-
-1. Azokat a változásokat kell részletezni, indokolni, a számszaki változások mögötti folyamatokat bemutatni,
-
-− amelyek az előző év ugyanazon időszakához vagy az előző negyedévhez képest 5%-nál nagyobb elmozdulást jelentenek,
-
-− amelyek mögött tudatos üzleti döntés húzódik meg,
-
-− amelyek a normál üzletmenettől, a portfólió természetes időszakos ingadozásaitól eltérnek, vagy
-
-− amelyek esetében bizonyos tendencia figyelhető meg.
-
-2. Fent írtakkal összhangban minimálisan a következő tételekben bekövetkezett változásokat és azok alapvető okait kell bemutatni, kitérve a vonatkozó tervek megvalósulására is:
-
-2.1. Mérleg főcsoportok (SF0101, SF0102, SF0103 kódú tábla szerint)
-
-2.2. Eredménykategóriák (SF02 kódú tábla szerint)
-
-2.3. Mérlegen kívüli tételek
-
-a) a mérlegen kívüli követelések a következő megbontás szerint:
-
-aa) fedezetek, biztosítékok (biztosítéki értéken)
-
-ab) egyéb mérlegen kívüli tételek
-
-b) a mérlegen kívüli kötelezettségek a következő megbontás szerint:
-
-függő kötelezettségek, ezen belül
-
-ba) peres ügyekkel kapcsolatos állományok
-
-bb) egyéb függő kötelezettségek
-
-II. Piaci megjelenés
-
-1. Ismertetni kell, hogy milyen új üzletágakat, termékeket, szolgáltatásokat kíván a hitelintézet a jövőben bevezetni.
-
-2. Be kell mutatni, milyen főbb változások történtek az elosztási csatornák fejlesztését illetően (pl. speciális fiókok létrehozása, internet banking, telefon banking fejlesztések).
-
-3. Meg kell nevezni azon hitelintézeteket vagy pénzügyi intézményi kört, amelyeket a hitelintézet legfontosabb versenytársának tart.
-
-4. Be kell mutatni milyen együttműködési formák, szövetségek jöttek létre más pénzügyi és nem pénzügyi intézményekkel, illetve a pénzügyi közvetítő rendszer egyéb tagjaival. Mi az együttműködés célja és formája (pl. közös termék, egy adott termék értékesítése, közös vállalat).
-
-5. Ismertetni kell a negyedév végén fennálló (duplikáció mentes) ügyfélszámot üzletáganként (vállalati, háztartási stb.) megbontva.
-
-6. Tájékoztatást kell nyújtani arról, ha a hitelintézet a tárgynegyedévben kezdi el határon átnyúló tevékenység keretében pénzügyi szolgáltatás, vagy kiegészítő pénzügyi szolgáltatás nyújtását. Ismertetni kell a határon átnyúló szolgáltatás volumenének alakulását. Annak jelentős nagyságrendje, vagy jelentős változása esetén tájékoztatást kell adni a nyújtott szolgáltatások fajtáiról.
-
-III. Vállalatirányítás
-
-1. Be kell mutatni, milyen intézményen, illetve intézménycsoporton belüli szervezeti, belső szabályozási változások történtek a hatékonyabb kockázatmenedzselés érdekében.
-
-2. Ismertetni kell, hogy a hitelintézet milyen új kockázatcsökkentő eszközöket vezetett be (pl. értékpapírosítás, speciális biztosítékok, biztosítások).
-
-3. Tájékoztatást kell nyújtani a hitelintézetnek a Hpt. 100. §-ában meghatározott tulajdonszerzéshez kapcsolódó kockázatvállalásra, valamint a 101. és 102. §-ában meghatározott befektetési korlátozásokra vonatkozóan.
-
-4. Intézménycsoport
-
-a) az intézménycsoporthoz tartozó, illetve az intézménycsoporthoz nem tartozó, de a hitelintézettel stratégiai kapcsolatban lévő (pl. közös anyabankjuk van, közös külföldi anyabankhoz tartoznak, a bank közvetett tulajdonában vannak) nem banki pénzügyi közvetítőkkel (biztosítók, befektetési alapok, nyugdíjpénztár, pénzügyi- és befektetési vállalkozások) való együttműködés jellemzői (üzletpolitika, közös tevékenység, közös termékek, hitelkapcsolat, keresztértékesítések stb.);
-
-b) a csoporttagok aktivitásának, a mérlegfőösszeg, jövedelmezőség, saját tőke változásának bemutatása. Az egyes csoporttagok esetében megvalósított tőkepótlás, illetve a várható tőkepótlás szükségessége.
-
-IV. Hitelkockázat
-
-1. Tájékoztatást kell adni a nem pénzügyi vállalati hitelportfólió állományának nemzetgazdasági ágazati összetételéről (ipar, mezőgazdaság stb.), terméktípusonkénti megoszlásáról, minőségéről, koncentrációs kockázatáról (ágazati, földrajzi, termék stb.).
-
-2. Indokolni kell az 1. melléklet 2. pontjában meghatározott nem teljesítő hitelek értékvesztéssel való fedezettségének szintjét (pl. magas vagy alacsony biztosítéki fedezettség). Meg kell jelölni azokat az ágazatokat, termékeket, amelyeknél a nem teljesítő hitelek aránya a hitelintézet átlagától lényegesen eltér, vagy amelyeknél a hitelintézet további portfólióromlásra számít.
-
-3. Ismertetni kell a devizaárfolyam-változás hatását a hitelportfólió-minőségre (pl. a forint hitelekhez képest hogyan változott a devizahitelek törlesztési hajlandósága).
-
-4. Be kell mutatni, hogy a negyedév során hozott átstrukturálási döntések közül melyek voltak a jellemzőek (pl. fizetés-könnyítés, halasztás jelzáloghitelnél, személyi hitelnél, futamidő hosszabbítás, devizanem átváltás, kedvezményes előtörlesztés, türelmi idő hosszabbítása, áthidaló hitel nyújtása), azok milyen termékekhez kapcsolódtak és hány ügyletet érintett.
-
-5. Tájékoztatást kell adni az állami konstrukció keretében átstrukturált hiteleknél az állami mentőcsomag elemeiről (pl. állami garanciavállalás mértéke).
-
-6. A banki nagykockázat vállalásával összefüggésben ki kell térni:
-
-a) a legnagyobb ügyfél és ügyfélcsoportokkal szembeni kockázatvállalások alakulásának értékelésére, különös tekintettel az ügyfelek vagy csoportok részére történő limitmegállapításra, az ügyfél és ügylet minősítés változására, az értékvesztés/céltartalék képzésre, a default eseményekre, az egyedi kockázatkezelési, behajtási eljárások alkalmazására (az ügyfélcsoport meghatározás CRR-ben foglalt kritériumok szerinti ügyfélcsoportra vonatkozik.); az értékelés során a nem teljesítő minősítésű ügyfeleket egyedenként is elemezni kell;
-
-b) más bankkal, bankcsoporttal szembeni nagykockázati kitettségeire;
-
-c) a legnagyobb kockázatok tekintetében a Hpt. 302. §-ában valamint a CRR. 400. cikkében foglalt mentesítésekre vonatkozó tájékoztatásra.
-
-V. Likviditás
-
-1. Tájékoztatást kell nyújtani a szabadrendelkezésű repó képes értékpapírok állományának alakulásáról.
-
-2. Ismertetni kell a partnerbankok a hitelintézettel szemben érvényesített (hitelintézet által ismert) MM limiteinek, azok kihasználtságának alakulását (különös tekintettel az anyabank finanszírozási hajlandóságára, készségére).
-
-3. Be kell mutatni, hogy hogyan alakult a hitelintézet forrásköltsége, az eszközoldali aktivitásbővülést milyen jellegű, lejárati struktúrájú források finanszírozzák.
-
-4. Részletesen ki kell fejteni, hogy a nagybetétek hogyan változtak, milyen tényezők befolyásolták a változást.
-
-VI. Piaci kockázat
-
-Ismertetni kell a főbb állománycsoportok (mérlegen kívüli állományok is) kamattípusát, az esetleges benchmarkokat, a hitelintézet árazási gyakorlatát, a kamatpolitika kialakításánál követett megfontolásokat, várakozásokat. Értékelni kell az intézmény kamatkockázatát.
-
-VII. Működési kockázat
-
-1. Ismertetni kell, hogy milyen jelentősebb fejlesztéseket tervez a hitelintézet és mekkora ezek várható költségvonzata (pl. számviteli-, információs rendszer bővítése).
-
-2. Be kell mutatni, hogy milyen működési kockázatcsökkentő intézkedések történtek a hitelintézetnél a tárgynegyedévben.
-
-VIII. Jövedelmezőség
-
-1. Értékelni kell az eszközök jövedelemtermelő képességének, a forrás költségeinek alakulását, azok eredményre gyakorolt hatását.
-
-[^3]: A 3. melléklet II.6., II.10–12. és II.15. pontja a 15. § (3) bekezdése alapján 2021. április 1-jén lép hatályba. A 3. melléklet II.4. és II.14. pontja a 15. § (4) bekezdése alapján 2021. június 1-jén lép hatályba.
+[^3]: A 3. melléklet II.4. és II.14. pontja a 15. § (4) bekezdése alapján 2021. június 1-jén lép hatályba.
