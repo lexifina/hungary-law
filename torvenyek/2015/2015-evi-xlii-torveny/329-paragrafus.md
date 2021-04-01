@@ -2,7 +2,7 @@
 
 329. § (1) Az Országgyűlési Őrség hivatásos állományával kapcsolatos humánigazgatási feladatok ellátásában az Országgyűlés Hivatala is részt vehet.
 
-(2) Az Országgyűlési Őrség központi személyügyi nyilvántartást nem vezet.
+(2) Az Országgyűlési Őrség vonatkozásában a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
 
 (3) Az Országgyűlési Őrség esetében az Országgyűlés elnöke gyakorolja az alábbi munkáltatói jogokat:
 

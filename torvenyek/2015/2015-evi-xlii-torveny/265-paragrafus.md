@@ -8,7 +8,7 @@
 
 (3) A szolgálati nyugdíjas megtartja a minisztérium, valamint a rendvédelmi szerv kezelése vagy rendelkezése alatt álló lakáshoz való bérleti jogát vagy más bérlemény kiutalását kérheti.
 
-(4) A szolgálati nyugdíjas rendfokozatban egy alkalommal előléptethető vagy kinevezhető, ha a rendvédelmi szerv célja érdekében kifejtett kiemelkedő tevékenységével arra érdemesült.
+(4) A szolgálati nyugdíjas rendfokozatban kettő alkalommal előléptethető vagy kinevezhető, ha a rendvédelmi szerv célja érdekében kifejtett kiemelkedő tevékenységével arra érdemesült.
 
 (5) A (3) bekezdés szerinti lakásbérleti jog nem illeti meg a szolgálati nyugdíjast, ha a szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg.
 

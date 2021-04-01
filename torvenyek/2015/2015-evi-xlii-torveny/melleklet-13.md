@@ -65,21 +65,3 @@ I. A rendvédelmi alkalmazott
 ## – legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
 
 ## – felsőfokú szakképzettségei, szakképzettségei, szakképesítései
-
-## – iskolarendszeren kívüli oktatás keretében szerzett szakképesítése(i), valamint meghatározott munkakör betöltésére jogosító okiratok adatai
-
-## – tudományos fokozata
-
-## – idegennyelv-ismerete
-
-III. Korábbi igazgatási jogviszonyok
-
-## – a korábbi igazgatási jogviszonyban töltött időtartamok megnevezése,
-
-## – a korábbi munkahely megnevezése,
-
-## – a megszűnés módja, időpontja
-
-IV. A jelenlegi igazgatási jogviszony adatai
-
-## – a rendvédelmi igazgatási szolgálati igazgatási jogviszony kezdete

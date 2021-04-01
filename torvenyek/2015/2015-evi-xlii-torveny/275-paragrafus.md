@@ -1,4 +1,4 @@
-275. § A személyügyi nyilvántartásban kezelt adatokhoz elektronikus úton közvetlenül hozzáférhetnek, és az annak alapjául szolgáló iratokba betekinthetnek a szolgálati viszonnyal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából:
+275. § (1) A személyügyi alapnyilvántartásba és az annak alapjául szolgáló iratokba betekinthet a szolgálati jogviszonnyal kapcsolatos döntések előkészítése és meghozatala, végrehajtása, ellenőrzése, felügyelete és vizsgálata céljából
 
 a) a szolgálati elöljáró,
 
@@ -16,6 +16,14 @@ g) a törvényességi ellenőrzéssel megbízott személy,
 
 h) a bíróság, az ügyészség és a nyomozó hatóság,
 
-i) az illetmény-számfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
+i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
 
 j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a vezetői beosztásba kinevezés és a rendfokozatban történő soron kívüli előléptetést megelőző előzetes véleményalkotási eljárás keretében.
+
+(2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés c) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
+
+a) más szervhez vezénylése, vagy
+
+b) a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylése
+
+esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben foglaltakon túl a kormányzati személyügyi igazgatásra kijelölt szerv vezetője is jogosult.
