@@ -38,21 +38,23 @@ c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyaszt�
 
 9.[^8] oxidatív úton aprózódó műanyag zacskó: olyan, az áruk vagy termékek értékesítési pontján a fogyasztók részére biztosított, adalékanyagokat tartalmazó, műanyagból készült zacskó, amely elősegíti a műanyag mikroméretű műanyagrészecskékre történő széttöredezését.
 
-10.[^9] újrahasználható csomagolás: olyan csomagolás, amelyet arra szántak, úgy terveztek és azzal a céllal helyeztek forgalomba, hogy életciklusa alatt több utat vagy forgási ciklust teljesítsen azáltal, hogy az eredeti célra újratöltik vagy újrafelhasználják.
+9a.[^9] társított (kompozit) csomagolás: olyan csomagolás, amely különböző anyagok kézi erővel szét nem választható két vagy több rétegéből áll, egyetlen integrált egységet képezve, amely egy belső tartályból és egy külső burkolatból áll, amelyet ennek megfelelően töltenek meg, tárolnak, szállítanak és ürítenek ki;
 
-(2)[^10] Csomagolásnak kell tekinteni továbbá
+10.[^10] újrahasználható csomagolás: olyan csomagolás, amelyet arra szántak, úgy terveztek és azzal a céllal helyeztek forgalomba, hogy életciklusa alatt több utat vagy forgási ciklust teljesítsen azáltal, hogy az eredeti célra újratöltik vagy újrafelhasználják.
+
+(2)[^11] Csomagolásnak kell tekinteni továbbá
 
 a) az árucikket, ha a 2. § (1) bekezdés 1. pontja szerinti fogalom-meghatározásnak a csomagolás által még biztosított egyéb funkciók sérelme nélkül megfelel, kivéve, ha az adott árucikk a termék szerves részét képezi, és erre az árucikkre a termék tartásához vagy megőrzéséhez a termék teljes élettartama alatt szükség van, valamint az egyes alkotóelemeket együttes felhasználásra, fogyasztásra vagy értékesítésre szánták, és
 
 b) az értékesítés helyén történő megtöltésre tervezett és szánt árucikkeket, továbbá az értékesítés helyén eladott, megtöltött vagy az értékesítés helyén történő megtöltésre tervezett és szánt egyszer használatos (eldobható) árucikkeket, ha azok csomagolási funkciót látnak el.
 
-(3)[^11] A csomagolásba beépülő egyes alkotóelemeket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelybe azokat beépítették. Az egy termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemeket csomagolásnak kell tekinteni, kivéve, ha azok a termék szerves részét képezik, és minden alkotóelemet együttes fogyasztásra vagy értékesítésre szántak.
+(3)[^12] A csomagolásba beépülő egyes alkotóelemeket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelybe azokat beépítették. Az egy termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemeket csomagolásnak kell tekinteni, kivéve, ha azok a termék szerves részét képezik, és minden alkotóelemet együttes fogyasztásra vagy értékesítésre szántak.
 
-(4)[^12] A csomagolásnak minősülő, illetve a csomagolásnak nem minősülő tételeket (szemléltető példákat) az 1. melléklet tartalmazza.
+(4)[^13] A csomagolásnak minősülő, illetve a csomagolásnak nem minősülő tételeket (szemléltető példákat) az 1. melléklet tartalmazza.
 
-(5)[^13] A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 2. § 25. pontja szerinti hajlékonyfalú műanyag hordtasaknak vagy hordtáskának minősül az e rendelet szerinti műanyag zacskó, a könnyű műanyag zacskó, valamint az oxidatív úton aprózódó műanyag zacskó.
+(5)[^14] A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 2. § 25. pontja szerinti hajlékonyfalú műanyag hordtasaknak vagy hordtáskának minősül az e rendelet szerinti műanyag zacskó, a könnyű műanyag zacskó, valamint az oxidatív úton aprózódó műanyag zacskó.
 
-(6)[^14] Nem minősül a Ktdt. 2. § 25. pontja szerinti hajlékonyfalú műanyag hordtasaknak vagy hordtáskának az e rendelet szerinti nagyon könnyű műanyag zacskó.
+(6)[^15] Nem minősül a Ktdt. 2. § 25. pontja szerinti hajlékonyfalú műanyag hordtasaknak vagy hordtáskának az e rendelet szerinti nagyon könnyű műanyag zacskó.
 
 [^1]: A 2. § (1) bekezdés 1. pont nyitó szövegrésze az 534/2013. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 4a. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (1) bekezdése iktatta be.
@@ -62,9 +64,10 @@ b) az értékesítés helyén történő megtöltésre tervezett és szánt áru
 [^6]: A 2. § (1) bekezdés 5d. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § 5e. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^8]: A 2. § (1) bekezdés 9. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdés 10. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^10]: A 2. § (2) bekezdése az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^11]: A 2. § (3) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^12]: A 2. § (4) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^13]: A 2. § (5) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^14]: A 2. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 9a. pontját a 158/2021. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 2. § (1) bekezdés 10. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^11]: A 2. § (2) bekezdése az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (3) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A 2. § (4) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A 2. § (5) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^15]: A 2. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
