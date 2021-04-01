@@ -1,4 +1,4 @@
-3. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez
+3. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^13]
 
 ## A megelőzési program szerkezeti felépítése és tartalmi elemei
 
@@ -14,29 +14,29 @@
 
 2. A megelőzési program tartalmi elemei:
 
-2.1. A megelőzéssel kapcsolatos célkitűzések és feladatok:
+2.1. A megelőzéssel kapcsolatos meglévő intézkedések, célkitűzések és feladatok:
 
-2.1.1. A hulladékképződés megelőzésével kapcsolatban meg kell határozni a tervezési területen megvalósítani kívánt rövid és hosszú távú célkitűzéseket.
+2.1.1. Ismertetni kell a meglévő hulladékmegelőzési intézkedéseket és azok hulladékmegelőzéshez való hozzájárulását.
 
-2.1.2. A hulladékképződés megelőzésére irányuló célkitűzéseket, feladatokat úgy kell meghatározni, hogy azok a következő eredmények elérését biztosítsák:
+2.1.2. A hulladékképződés megelőzésére a tervezési területen megvalósítani kívánt rövid és hosszú távú célkitűzéseket, feladatokat úgy kell meghatározni, hogy azok a következő eredmények elérését biztosítsák:
 
-a) a környezetterhelés csökkentését;
+2.1.2.1. a környezetterhelés csökkentését;
 
-b) az elsődleges nyersanyag- és az energiafelhasználás csökkentését;
+2.1.2.2. az elsődleges nyersanyag- és az energiafelhasználás csökkentését;
 
-c) a hulladékok veszélyesanyag-tartalmának csökkentését;
+2.1.2.3. a hulladékok veszélyesanyag-tartalmának csökkentését;
 
-d) adott hulladékáramok vonatkozásában az egy főre eső hulladékképződés csökkentését;
+2.1.2.4. adott hulladékáramok vonatkozásában az egy főre eső hulladékképződés csökkentését;
 
-e) a melléktermékek és a másodnyersanyagok nagyobb arányú felhasználását;
+2.1.2.5. a melléktermékek és a másodnyersanyagok nagyobb arányú felhasználását;
 
-f) a természeti erőforrásokkal való fenntartható gazdálkodást;
+2.1.2.6. a természeti erőforrásokkal való fenntartható gazdálkodást;
 
-g) a hulladékszegény gyártási technológiák és alternatív technológiák alkalmazását, továbbá a helyettesítő bemeneti alapanyagok felhasználását;
+2.1.2.7. a hulladékszegény gyártási technológiák és alternatív technológiák alkalmazását, továbbá a helyettesítő bemeneti alapanyagok felhasználását;
 
-h) a termékek életciklusának növelését;
+2.1.2.8. a termékek életciklusának növelését;
 
-i) a fogyasztáscsökkentést és a fenntartható fogyasztási szokások kialakulásának ösztönzését.
+2.1.2.9. a fogyasztáscsökkentést és a fenntartható fogyasztási szokások kialakulásának ösztönzését.
 
 2.1.3. A célkitűzéseket, feladatokat a szociális, a gazdasági és az egészségügyi ágazat céljaival összhangban kell meghatározni.
 
@@ -91,3 +91,7 @@ Be kell mutatni a megelőzési programban foglaltak megvalósításához szüks�
 2.5. A megelőzési programtól várható eredmények
 
 Be kell mutatni a tervezési időszak alatt a megelőzési programtól várható eredményeket, valamint a megelőzés érdekében elvégezni szükséges fejlesztések lehetőségeit.
+
+2.6. Élelmiszer-hulladék megelőzési program, különös tekintettel a Ht. 76. § (5) bekezdésében foglaltakra.
+
+[^13]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (2) bekezdése, 14. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez
+2. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^12]
 
 ## A hulladékgazdálkodási terv szerkezeti felépítése és tartalmi elemei
 
@@ -72,6 +72,8 @@ f) üveg alapanyagú csomagolási hulladék;
 
 2.1.1.1.9. speciális, a tervezési területen külön feladatot jelentő – a 2.1.1.1.1–2.1.1.1.8. pontokban meg nem határozott – hulladék (így különösen az elkülönített hulladékgyűjtés módjai, házhoz menő hulladékgyűjtés, át-, illetve visszavételi lehetőségek, kiemelt hulladékáramokra vonatkozó kezelési, elkülönítési megoldások).
 
+2.1.1.1.10. a kritikus fontosságú nyersanyagokat jelentős mennyiségben tartalmazó hulladékok képződése és kezelése.
+
 2.1.1.2. A hulladékstátusz megszűnésére vonatkozó feltételek teljesülésével kapcsolatban
 
 – az adott tervezési terület vonatkozásában – a hulladékkörből kikerülő anyagok, illetve termékek éves becsült mennyiségét is meg kell adni (tonnában kifejezve).
@@ -92,15 +94,17 @@ b) a tervezési területen működő komposztáló telepek, átrakóállomások,
 
 c) a fejlesztést vagy felszámolást, illetve utógondozást igénylő hulladékgazdálkodási létesítmények, hulladéklerakók meghatározása, állapotának bemutatása, tulajdonosának, üzemeltetőjének megnevezése, a telephely jellemzőinek általános ismertetése.
 
-2.1.4. Be kell mutatni a tervezési területen működő közszolgáltató által végzett hulladékgazdálkodási tevékenységeket, valamint a hulladékgazdálkodási közszolgáltatás által a tervezési terület hulladékgazdálkodására gyakorolt hatást.
+2.1.4. Be kell mutatni a tervezési területen működő közszolgáltató által végzett hulladékgazdálkodási tevékenységeket, valamint a hulladékgazdálkodási közszolgáltatás által a tervezési terület hulladékgazdálkodására gyakorolt hatását, különös tekintettel a Ht. 76. § (1) bekezdés i) pont ib) alpontjában foglaltakra.
+
+2.1.5. Be kell mutatni azokat az intézkedéseket, melyek az újrafeldolgozásra vagy egyéb hasznosításra alkalmas hulladék lerakásának korlátozására irányulnak, különös tekintettel a Ht. 76. § (1) bekezdés i) pont ia) alpontjában foglaltakra.
 
 2.2. A megvalósítani tervezett célkitűzések és feladatok:
 
-2.2.1. A tervezési területen megvalósítandó hasznosítási célkitűzéseket – lehetőség szerint a 2.1.1.1. pont szerinti bontásban – kell bemutatni, figyelemmel a hasznosítási kapacitások kialakításának lehetőségeire, szükségleteire, prioritásaira.
+2.2.1. A tervezési területen megvalósítandó hasznosítási célkitűzéseket – lehetőség szerint a 2.1.1.1. pont szerinti bontásban – kell bemutatni, figyelemmel a hasznosítási kapacitások kialakításának lehetőségeire, szükségleteire, prioritásaira, különös tekintettel a Ht. 76. § (1) bekezdés o) pontjában foglaltakra.
 
 2.2.2. Be kell mutatni, hogy a jogellenesen üzemelő hulladékgazdálkodási létesítmények felszámolása vagy jogszerű módon történő tovább működtetése rövid vagy hosszú távon hogyan biztosítható, és ennek eléréséhez milyen feltételek szükségesek.
 
-2.2.3. Be kell mutatni, hogy az illegális vagy környezeti ártalommal járó hulladékgazdálkodási tevékenységekből – így különösen hulladéklerakásból, felhagyott ipari ingatlanokon található hulladékból – származó környezeti károk száma hogyan csökkenthető, illetve számolható fel.
+2.2.3. Be kell mutatni, hogy az illegális vagy környezeti ártalommal járó hulladékgazdálkodási tevékenységekből – így különösen hulladéklerakásból, felhagyott ipari ingatlanokon található hulladékból – származó környezeti károk száma hogyan csökkenthető, illetve számolható fel, különös tekintettel a Ht. 76. § (1) bekezdés n) pontjában foglaltakra.
 
 2.2.4. Be kell mutatni, hogy a környezetvédelmi szempontból nem megfelelően üzemelő hulladékgazdálkodási létesítményeket milyen módon és eszközökkel lehet a környezetvédelmi célok elérése érdekében felszámolni, fejleszteni.
 
@@ -131,3 +135,5 @@ A hulladékgazdálkodási terven belül a megelőzési program önálló szerkez
 2.5. Összefoglalás:
 
 Az összefoglalásban be kell mutatni a tervezési időszak alatt várható eredményeket, valamint a hulladékgazdálkodás további fejlesztésének lehetőségeit.
+
+[^12]: A 2. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
