@@ -1,3 +1,1 @@
-14. §[^1]
-
-[^1]: A 14. § a 13. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+14. § Hatályát veszti a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának keretszabályairól szóló 7/2016. (X. 13.) MEKH rendelet.
