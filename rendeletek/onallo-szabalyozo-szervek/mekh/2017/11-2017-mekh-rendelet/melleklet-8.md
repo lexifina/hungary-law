@@ -2,4 +2,4 @@
 
 8. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^33]
 
-[^33]: A 8. melléklet a 14/2020. (XII. 14.) MEKH rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^33]: A 8. melléklet a 2/2021. (III. 24.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.

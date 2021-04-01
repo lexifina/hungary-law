@@ -2,4 +2,4 @@
 
 11. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^36]
 
-[^36]: A 11. melléklet a 17/2020. (XII. 21.) MEKH rendelet 9. § (2) bekezdés a) pontjával megállapított szöveg.
+[^36]: A 11. melléklet a 2/2021. (III. 24.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
