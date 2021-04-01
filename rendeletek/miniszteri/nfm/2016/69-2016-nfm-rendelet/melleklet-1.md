@@ -12,7 +12,7 @@
 
 | 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 2,968 |
 
-1.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
+1.2. Az MVM Égáz-Dégáz Földgázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C |
 
@@ -22,7 +22,7 @@
 
 | 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 3,009 |
 
-1.3. Az NKM Földgázhálózati Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+1.3. Az MVM Főgáz Földgázhálózati Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C |
 
@@ -64,7 +64,7 @@
 
 | 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,474 |
 
-2.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
+2.2. Az MVM Égáz-Dégáz Földgázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C | D | E |
 
@@ -84,7 +84,7 @@
 
 | 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,510 |
 
-2.3. Az NKM Földgázhálózati Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+2.3. Az MVM Főgáz Földgázhálózati Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C | D | E |
 
@@ -124,4 +124,4 @@
 
 | 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,551 |
 
-[^11]: Az 1. melléklet az 52/2017. (XII. 22.) NFM rendelet 38. § b) pontja, a 48/2019. (XII. 23.) ITM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^11]: Az 1. melléklet az 52/2017. (XII. 22.) NFM rendelet 38. § b) pontja, a 48/2019. (XII. 23.) ITM rendelet 10. § (2) bekezdése, a 14/2021. (III. 31.) ITM rendelet 8. §-a szerint módosított szöveg.
