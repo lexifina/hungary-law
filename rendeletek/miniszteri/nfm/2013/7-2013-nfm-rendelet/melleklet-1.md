@@ -144,7 +144,7 @@
 
 1.56.[^64] az EKOP-1.2.1-07-2008-0001 azonosító számú [Költségvetés Gazdálkodási Rendszer (KGR) című] projekt műszaki tartalmának módosításáról szóló 1447/2012. (X. 11.) Korm. határozat 1. pontjának kijelölése alapján a Magyar Államkincstár által működtetett Forrás SQL (ügyviteli) rendszer hardver infrastruktúrájának üzemeltetése;
 
-1.57.[^65] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Nemzeti Választási Iroda működéséhez szükséges hivatali informatikai infrastruktúrájának, valamint az általa működtetett szakrendszerek kiszolgálását végző hardver infrastruktúrájának üzemeltetése;
+1.57.[^65] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Nemzeti Választási Iroda által működtetett szakrendszerek kiszolgálását végző hardver infrastruktúrájának üzemeltetése;
 
 1.58.[^66] a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 3. Fejezet, valamint a 71. § (2) bekezdésében meghatározott, az EKOP-1.2.2-07-2008-0001, valamint az EKOP-1.A.1-08/B-2009-0009 számú projektek keretei között megvalósított Egységes Műtárgytár (EMT) és az ehhez kapcsolódó ügykezelő rendszer (IMER) működéséhez szükséges informatikai rendszerek, ideértve a „forsterkozpont” domain név 2018. január 1-jéig történő fenntartását és kezelését;
 
@@ -561,7 +561,7 @@ virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 [^62]: Az 1. melléklet 1. pont 1.54. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 37/2017. (XII. 27.) BM rendelet 3. §-a.
 [^63]: Az 1. melléklet 1. pont 1.55. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
 [^64]: Az 1. melléklet 1. pont 1.56. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
-[^65]: Az 1. melléklet 1. pont 1.57. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
+[^65]: Az 1. melléklet 1. pont 1.57. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, szövege a 9/2021. (III. 30.) BM rendelet 1. §-ával megállapított szöveg.
 [^66]: Az 1. melléklet 1. pont 1.58. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
 [^67]: Az 1. melléklet 1. pont 1.59. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
 [^68]: Az 1. melléklet 1. pont 1.60. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
