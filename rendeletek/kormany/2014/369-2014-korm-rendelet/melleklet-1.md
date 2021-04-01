@@ -4,7 +4,7 @@
 
 ## A gyártó nyilvántartásba vételéhez, valamint az átvevő- és kezelőhálózat bejelentéséhez szükséges adatok
 
-1. A gyártó nyilvántartásba vételéhez szükséges adatok (HGK-NY-főlap):
+1.[^40] A gyártó nyilvántartásba vételéhez szükséges adatok:
 
 1.1. A gyártó azonosítására szolgáló adatok:
 
@@ -38,7 +38,7 @@ c) telefon, illetve fax;
 
 d) e-mail.
 
-2. Az átvevő- és kezelőhálózat bejelentésére vonatkozó adatok (HGK-NY-1):
+2.[^41] Az átvevő- és kezelőhálózat bejelentésére vonatkozó adatok:
 
 Az átvevő- és kezelőhálózathoz csatlakozott tagokra vonatkozó adatok:
 
@@ -49,3 +49,6 @@ b) KÜJ;
 c) Környezetvédelmi Területi Jel (a továbbiakban: KTJ);
 
 d) telephely címe (település, utca, házszám).
+
+[^40]: Az 1. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.

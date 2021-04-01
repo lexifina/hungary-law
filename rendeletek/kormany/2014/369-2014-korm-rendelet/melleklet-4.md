@@ -2,7 +2,7 @@
 
 ## A bontó adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
-1. A bontóra vonatkozó adatok (HGK-B-főlap):
+1.[^48] A bontóra vonatkozó adatok:
 
 1.1. A bontó azonosítására szolgáló adatok:
 
@@ -34,7 +34,7 @@ c) telefon, illetve fax;
 
 d) e-mail.
 
-2. A gyűjtött és a kezelt gépjárművekre vonatkozó adatok (HGK-B-1):
+2.[^49] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
 
 a) a gépjárművek gyártmányának megnevezése;
 
@@ -46,7 +46,7 @@ d) a gépjárművek össztömege.
 
 3. A hulladékká vált gépjárművek kezeléséből származó hulladékra és az újrahasználatra előkészített gépjármű alkatrészre vonatkozó adatok:
 
-3.1. A hulladékká vált gépjármű bontásából származó hulladék mennyisége (HGK-B-2), amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+3.1.[^50] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
 a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
 
@@ -76,7 +76,7 @@ c) energetikailag hasznosított mennyiség;
 
 d) ártalmatlanított mennyiség.
 
-4. A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok (HGK-B-4):
+4.[^51] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
 
 4.1. A hulladékká vált gépjármű kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatokat a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
@@ -107,3 +107,8 @@ b) exportált hulladékká vált gépjárművek (ideértve annak hulladékká v�
 c) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) hasznosítása;
 
 d) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) teljes ártalmatlanítása.
+
+[^48]: A 4. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § i) pontja szerint módosított szöveg.
+[^49]: A 4. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § j) pontja szerint módosított szöveg.
+[^50]: A 4. melléklet 3. pont 3.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § k) pontja szerint módosított szöveg.
+[^51]: A 4. melléklet 4. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § l) pontja szerint módosított szöveg.

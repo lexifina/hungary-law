@@ -2,7 +2,7 @@
 
 ## A gyártó és a közvetítő szervezet adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
-1. A gyártóra és a közvetítő szervezetre vonatkozó adatok (HGK-GY-főlap):
+1.[^42] A gyártóra és a közvetítő szervezetre vonatkozó adatok:
 
 1.1. A gyártó, a közvetítő szervezet azonosítására szolgáló adatok:
 
@@ -24,7 +24,7 @@ c) telefon, illetve fax;
 
 d) e-mail.
 
-2. A gyártó által forgalomba hozott gépjárművekre vonatkozó adatok (HGK-GY-1):
+2.[^43] A gyártó által forgalomba hozott gépjárművekre vonatkozó adatok:
 
 a) KÜJ;
 
@@ -36,7 +36,7 @@ d) a gépjárművek darabszáma;
 
 e) a gépjárművek össztömege.
 
-3. A gyűjtött és a kezelt gépjárművekre vonatkozó adatok (HGK-GY-2):
+3.[^44] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
 
 a) a gépjárművek gyártmányának megnevezése;
 
@@ -48,7 +48,7 @@ d) a gépjárművek össztömege.
 
 4. A hulladékká vált gépjárművek kezeléséből származó hulladékra és az újrahasználatra előkészített gépjármű alkatrészre vonatkozó adatok:
 
-4.1. A hulladékká vált gépjármű bontásából származó hulladék mennyisége (HGK-GY-3), amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+4.1.[^45] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
 a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
 
@@ -78,7 +78,7 @@ c) energetikailag hasznosított mennyiség;
 
 d) ártalmatlanított mennyiség.
 
-4.3. A hulladékká vált gépjárművek aprításából, darabolásából, zúzásából, származó hulladék mennyisége (HGK-GY-4), amelyet kilogrammban kifejezve kell megadni:
+4.3.[^46] A hulladékká vált gépjárművek aprításából, darabolásából, zúzásából, származó hulladék mennyisége, amelyet kilogrammban kifejezve kell megadni:
 
 a) vas- és acélhulladék;
 
@@ -96,7 +96,7 @@ b) energetikailag hasznosított mennyiség;
 
 c) ártalmatlanított mennyiség.
 
-5. A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok (HGK-GY-5):
+5.[^47] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
 
 5.1. A hulladékká vált gépjármű kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatokat a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
@@ -127,3 +127,10 @@ b) exportált hulladékká vált gépjárművek (ideértve annak hulladékká v�
 c) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) hasznosítása;
 
 d) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) teljes ártalmatlanítása.
+
+[^42]: A 3. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
+[^43]: A 3. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § d) pontja szerint módosított szöveg.
+[^44]: A 3. melléklet 3. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § e) pontja szerint módosított szöveg.
+[^45]: A 3. melléklet 4. pont 4.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^46]: A 3. melléklet 4. pont 4.3. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § g) pontja szerint módosított szöveg.
+[^47]: A 3. melléklet 5. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § h) pontja szerint módosított szöveg.
