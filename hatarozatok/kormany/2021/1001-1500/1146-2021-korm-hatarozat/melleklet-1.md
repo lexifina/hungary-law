@@ -102,6 +102,8 @@
 
 ## 1.12. egyetért azzal, hogy a belügyminiszter az 1.11. alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa Karcag Város Önkormányzata számára.
 
-## 2. A szenttamási Almásy-kastély és a hozzá tartozó park kertépítészeti, kertművészeti és tájökológiai felújítása előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1349/2019. (VI. 11.) Korm. határozat 4. pontjában a „2021.” szövegrész helyébe a „2022.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1146/2021. (III. 31.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
