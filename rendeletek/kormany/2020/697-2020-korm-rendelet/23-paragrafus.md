@@ -1,3 +1,3 @@
-## 22. §[^22]
+## 22. § Az R. 44/A. §-a helyébe a következő rendelkezés lép:
 
-[^22]: A 22. § a 29. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+## „44/A. § Az 1309 általános anesztéziában végzett fogászati ellátás szakmában működési engedéllyel rendelkező, az R.-ben meghatározott egészségügyi szolgáltató az R. szerinti egynapos ellátás nyújtására jogosult. Ezen ellátási formára meghatározott keret csak az általános anesztéziában végzett fogászati ellátásra fordítható és számolható el.”

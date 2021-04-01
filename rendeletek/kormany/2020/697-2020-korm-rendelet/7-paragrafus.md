@@ -1,3 +1,11 @@
-## 6. §[^6]
+## 6. § Az R. az 5/C. §-t megelőzően a következő alcímmel egészül ki:
 
-[^6]: A 6. § a 29. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+## „Elszámoláshoz kapcsolódó egyéb rendelkezések”
+
+7. § (1) Az R. 6. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Egy teljesítményegység forintértéke:)
+
+## „b) az a) pont hiányában az egészségügyért felelős miniszter és az államháztartásért felelős miniszter által kihirdetett alapdíj,”
+
+(2) Az R. 6. § (3) bekezdése helyébe a következő rendelkezés lép:

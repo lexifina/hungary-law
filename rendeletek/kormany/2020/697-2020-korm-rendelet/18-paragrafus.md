@@ -1,3 +1,1 @@
-## 17. §[^17]
-
-[^17]: A 17. § a 29. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+## „(15) Az a szakápolási szolgáltató, aki telephelyén kívül vagy külterületen lakó biztosítottat lát el, a NEAK-kal kötött szerződés alapján területi pótlékra jogosult. A területi pótlék összege a (13) bekezdés szerinti alapdíj 10%-a. A (13) bekezdés szerinti díj 20%-ának megfelelő összegű területi pótlék illeti meg a szolgáltatót, ha 2000 főnél kisebb lakosságszámú településen történt a szakápolás, illetve az otthoni hospice ellátás. A NEAK a telephelyen kívüli településen végzett szakápolás esetén a területi pótlékot a szerződés szerinti havi keretösszegen felül számolja el.”

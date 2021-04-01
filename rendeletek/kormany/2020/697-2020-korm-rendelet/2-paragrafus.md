@@ -1,3 +1,5 @@
-## 1. §[^1]
+## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: R.) 2. §-a a következő t) ponttal egészül ki:
 
-[^1]: Az 1. § a 29. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+## (E rendelet alkalmazásában)
+
+## „t) tervezett éves keret: önálló elszámolási tételként elszámolható, jogszabályban meghatározott szolgáltatási egységek teljesítményértékeinek mennyisége, amelyre a szakellátást nyújtó egészségügyi szolgáltató a jelen rendeletben foglalt szabályok szerint jogosult.”

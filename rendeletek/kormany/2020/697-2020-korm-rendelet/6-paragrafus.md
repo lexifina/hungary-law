@@ -1,3 +1,3 @@
-## 5. §[^5]
+## 5. § Az R. 5. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 29. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+## „(8) Az (1)–(3) és a (6) bekezdés szerinti ellátások elszámolása az elszámolásukkor érvényben lévő díj szerint történik.”

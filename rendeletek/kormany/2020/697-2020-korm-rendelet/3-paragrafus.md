@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § Az R. a 4/B. §-t megelőzően a következő alcím címmel egészül ki:
 
-[^2]: A 2. § a 29. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
+## „Várólista alapján nyújtható ellátások elszámolási szabályai”
