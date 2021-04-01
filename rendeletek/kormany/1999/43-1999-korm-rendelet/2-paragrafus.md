@@ -42,7 +42,9 @@ q)[^17] rehabilitációs ellátási program: az Egészségügyi Szakmai Kollégi
 
 r)[^18] rehabilitációs ellátási program szerinti nappali ellátás: rehabilitációs ellátási program alapján végzett olyan nappali ellátás, amelyet az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendeletben (a továbbiakban: R.) meghatározott finanszírozási paraméterek és elszámolhatósági szabályok szerint végeznek,
 
-s)[^19] tuberkulózis esetfinanszírozási program: a tuberkulózisban szenvedő betegek ellátásának finanszírozási eljárásrendjét megalapozó ellátási program.
+s)[^19]
+
+t)[^20] tervezett éves keret: önálló elszámolási tételként elszámolható, jogszabályban meghatározott szolgáltatási egységek teljesítményértékeinek mennyisége, amelyre a szakellátást nyújtó egészségügyi szolgáltató a jelen rendeletben foglalt szabályok szerint jogosult.
 
 [^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § b) pontja a 293/2002. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -61,4 +63,5 @@ s)[^19] tuberkulózis esetfinanszírozási program: a tuberkulózisban szenvedő
 [^16]: A 2. § p) pontját a 139/2011. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
 [^17]: A 2. § q) pontját a 227/2011. (X. 28.) Korm. rendelet 1. §-a iktatta be.
 [^18]: A 2. § r) pontját a 227/2011. (X. 28.) Korm. rendelet 1. §-a iktatta be.
-[^19]: A 2. § s) pontját az 507/2017. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^19]: A 2. § s) pontját az 507/2017. (XII. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § a) pontja.
+[^20]: A 2. § t) pontját a 697/2020. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

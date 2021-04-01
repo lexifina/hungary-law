@@ -1,4 +1,4 @@
-16. §[^157] (1) A területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatnak az ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó – heti 40 órában foglalkoztatott – egészségügyi szakdolgozója után a szakdolgozói bértámogatás mértékét a 36. számú melléklet tartalmazza. A háziorvosi szolgáltató a bértámogatás szociális hozzájárulási adóval csökkentett összegét a szakdolgozó bérének a szakdolgozó 2020. decemberi munkabérét, de legalább a mindenkori garantált bérminimumot meghaladó részének a kifizetésére köteles fordítani.
+16. §[^154] (1) A területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatnak az ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó – heti 40 órában foglalkoztatott – egészségügyi szakdolgozója után a szakdolgozói bértámogatás mértékét a 36. számú melléklet tartalmazza. A háziorvosi szolgáltató a bértámogatás szociális hozzájárulási adóval csökkentett összegét a szakdolgozó bérének a szakdolgozó 2020. decemberi munkabérét, de legalább a mindenkori garantált bérminimumot meghaladó részének a kifizetésére köteles fordítani.
 
 (2) A háziorvosi szolgáltató az (1) bekezdés szerinti szakdolgozói bértámogatásra háziorvosi szolgálatonként a bejelentkezett biztosítottak korcsoportos pontszáma alapján az alábbiak szerint jogosult:
 
@@ -20,4 +20,4 @@ e) 4501 pont felett három fő – heti 40 órában foglalkoztatott – szakdolg
 
 (6) A szakdolgozói bértámogatás fedezetéül az 5. számú melléklet Háziorvosi, szakdolgozói bértámogatás előirányzat szolgál.
 
-[^157]: A 16. §-t újonnan az 53/2021. (II. 9.) Korm. rendelet 8. §-a iktatta be.
+[^154]: A 16. §-t újonnan az 53/2021. (II. 9.) Korm. rendelet 8. §-a iktatta be.

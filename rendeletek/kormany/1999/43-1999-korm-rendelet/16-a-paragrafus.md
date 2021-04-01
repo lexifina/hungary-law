@@ -1,4 +1,4 @@
-16/A. §[^158] (1) A háziorvosi szolgáltató ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó, területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatokban szolgálatonként egy – heti 40 órában – foglalkoztatott háziorvos után havonta háziorvosi bértámogatásra jogosult, amelyet a háziorvosi szolgáltató a háziorvost közvetlenül megillető munkabérére és annak közterheire köteles fordítani.
+16/A. §[^155] (1) A háziorvosi szolgáltató ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó, területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatokban szolgálatonként egy – heti 40 órában – foglalkoztatott háziorvos után havonta háziorvosi bértámogatásra jogosult, amelyet a háziorvosi szolgáltató a háziorvost közvetlenül megillető munkabérére és annak közterheire köteles fordítani.
 
 (2) Az (1) bekezdés szerinti háziorvosi bértámogatás összegét a 37. számú melléklet tartalmazza.
 
@@ -16,4 +16,4 @@
 
 (9) A háziorvosi bértámogatás fedezetéül az 5. számú melléklet szerinti Háziorvosi, szakdolgozói bértámogatás előirányzat szolgál.
 
-[^158]: A 16/A. §-t az 53/2021. (II. 9.) Korm. rendelet 8. §-a iktatta be.
+[^155]: A 16/A. §-t az 53/2021. (II. 9.) Korm. rendelet 8. §-a iktatta be.

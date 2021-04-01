@@ -1,15 +1,7 @@
-32. § (1)[^410] A CT, MRI vizsgálatok elszámolására a szakellátás orvosának beutalása alapján kerülhet sor. A finanszírozó a járóbeteg-szakellátás keretében végzett vizsgálatokat a szolgáltatóval kötött teljesítményvolumen szerződés alapján finanszírozza. A CT vagy MRI berendezés használatához kötött, az R. 2. számú mellékletében meghatározott beavatkozások finanszírozóhoz történő jelentése kizárólag a készülékkel rendelkező munkahely kódján történhet.
+32. §[^342] (1) A CT, MRI vizsgálatok elszámolására a szakellátás orvosának beutalása alapján kerülhet sor. A CT vagy MRI berendezés használatához kötött, az R. 2. számú mellékletében meghatározott beavatkozások finanszírozóhoz történő jelentése kizárólag a készülékkel rendelkező munkahely kódján történhet.
 
-(2)[^411] Az elszámolás havonta az R. 2. számú mellékletében megállapított pontszám alapján történik az R.-ben meghatározott szabályoknak megfelelően.
+(2) A szolgáltató a tárgyhónapot követő hónap 5. munkanapjáig megküldi a finanszírozónak a CT-MRI vizsgálatok teljesítményét a 15. számú melléklet szerinti adattartalommal.
 
-(3)[^412] A szolgáltató a tárgyhónapot követő hónap 5. munkanapjáig megküldi a finanszírozónak a CT–MRI vizsgálatok teljesítményét a 15. számú melléklet szerinti adattartalommal.
+(3) Nem számolható el járóbeteg-szakellátási teljesítményként az aktív fekvőbeteg osztályon kezelés alatt álló beteg részére nyújtott CT, MRI vizsgálat, ideértve az aktív fekvőbeteg ellátással összefüggésben a felvétel és az elbocsátás napján elvégzett vizsgálatot is.
 
-(4)[^413]
-
-(5)[^414] Nem számolható el járóbeteg-szakellátási teljesítményként az aktív fekvőbeteg osztályon kezelés alatt álló beteg részére nyújtott CT, MRI vizsgálat, ideértve az aktív fekvőbeteg ellátással összefüggésben a felvétel és az elbocsátás napján elvégzett vizsgálatot is.
-
-[^410]: A 32. § (1) bekezdése a 182/2005. (IX. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^411]: A 32. § (2) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^412]: A 32. § (3) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 364/2014. (XII. 30.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
-[^413]: A 32. § (4) bekezdését újonnan a 291/2009. (XII. 18.) Korm. rendelet 10. §-a iktatta be, újból hatályon kívül helyezte a 192/2015. (VII. 21.) Korm. rendelet 27. § c) pontja.
-[^414]: A 32. § (5) bekezdését a 29/2001. (III. 2.) Korm. rendelet 11. §-ának (2) bekezdése iktatta be, szövege a 257/2001. (XII. 19.) Korm. rendelet 15. §-ával megállapított, valamint a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (4) bekezdése szerint módosított szöveg.
+[^342]: A 32. § a 697/2020. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

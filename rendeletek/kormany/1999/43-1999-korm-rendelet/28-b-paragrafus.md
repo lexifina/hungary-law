@@ -1,23 +1,3 @@
-28/B. §[^349] (1)[^350]
+28/B. §[^301]
 
-(2)[^351] Az aktív fekvőbeteg-szakellátás területén
-
-a) a 4000 kardiológia szakma II. és III. progresszivitási szintjén,
-
-b) a 0900 neurológia szakma II. és III. progresszivitási szintjén,
-
-c) a 0901 stroke ellátás II. progresszivitási szintjén,
-
-d) az 1900 tüdőgyógyászat szakma III. progresszivitási szintjén
-
-szakmaspecifikus őrzőt működtető egészségügyi szolgáltató 600 000 Ft havi fix összegű díjra jogosult szakmánként azzal, hogy a díjazás nem növelhető több, azonos szakmához tartozó őrző működtetése esetén.
-
-(2a)[^352] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult a (2) bekezdés szerinti díjazásra, ha arra a telephely az integrációt megelőzően jogosult volt.
-
-(3)[^353] A (2) bekezdés szerinti díjazás fedezetére az 5. számú melléklet szerinti összevont szakellátás előirányzata szolgál.
-
-[^349]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^350]: A 28/B. § (1) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
-[^351]: A 28/B. § (2) bekezdés záró szövegrésze a 25/2017. (II. 7.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^352]: A 28/B. § (2a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 23. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
-[^353]: A 28/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.
+[^301]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § c) pontja.
