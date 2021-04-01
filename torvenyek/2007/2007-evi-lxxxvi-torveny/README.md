@@ -90,3 +90,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2021-01-01 | 2020. évi CLXXVI. törvény | 2007-86-00-00.95 |
 | 2021-03-01 | 2021. évi II. törvény | 2007-86-00-00.96 |
 | 2021-03-28 | 2021. évi II. törvény | 2007-86-00-00.97 |
+| 2021-04-01 | 2020. évi CLXXVI. törvény | 2007-86-00-00.98 |
