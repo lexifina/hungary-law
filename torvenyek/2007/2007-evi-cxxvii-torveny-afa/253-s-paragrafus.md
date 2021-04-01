@@ -1,0 +1,3 @@
+253/S. § (1) Ha az adóalanyt az állami adóhatóság 253/P. § vagy 253/Q. § szerinti minőségében nyilvántartásba vette, az adóalany harmadik államból importált termék távértékesítésére vonatkozó adókötelezettségére törvény rendelkezéseit az e fejezetben meghatározott eltérésekkel, valamint az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaira tekintettel kell alkalmazni (a továbbiakban: import különös szabályozás).
+
+(2) Ha az adóalanyt az állami adó- és vámhatóság 253/P. § vagy 253/Q. § szerinti minőségében nyilvántartásba vette, az adóalany köteles az import különös szabályozást alkalmazni minden harmadik államból importált termék távértékesítésére vonatkozó adókötelezettség teljesítésére.

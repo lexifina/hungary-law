@@ -1,0 +1,3 @@
+12/C. § (1) Ha egy adóalany elektronikus felület, különösen piactér, platform, portál vagy más hasonló eszköz használata által harmadik államból 150 eurónak megfelelő pénzösszeget meg nem haladó belső értékű küldeményként importált termék távértékesítését segíti elő, úgy kell tekinteni, mint aki (amely) ennek a terméknek a beszerzője és értékesítője is egyben.
+
+(2) Ha egy adóalany elektronikus felület, különösen piactér, platform, portál vagy más hasonló eszköz használata által termék Közösség területén történő – a Közösségben nem letelepedett adóalany által nem adóalany részére történő – értékesítését segíti elő, úgy kell tekinteni, mint aki (amely) ennek a terméknek a beszerzője és értékesítője is egyben.
