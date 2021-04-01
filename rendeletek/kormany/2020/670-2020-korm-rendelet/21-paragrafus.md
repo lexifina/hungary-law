@@ -1,3 +1,3 @@
-## 20. §[^38]
+## 20. §[^37]
 
-[^38]: A 20. § a 22. § (3) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^37]: A 20. § a 22. § (3) bekezdése alapján 2021. július 1-jén hatályba.

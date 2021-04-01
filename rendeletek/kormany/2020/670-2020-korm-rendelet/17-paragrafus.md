@@ -30,15 +30,15 @@ m)[^29]
 
 n)[^30]
 
-o)[^31]
+o) 63. § (1) bekezdés i) pontjában az „Art. XIII. fejezetében meghatározott külföldi illetőségű adózók” szövegrész helyébe az „Áfa törvény XIX/A–XIX/B. Fejezetében meghatározott, belföldön gazdasági céllal nem letelepedett adóalanyok” szöveg,
 
-p)[^32]
+p)[^31]
 
-q)[^33]
+q)[^32]
 
-r)[^34]
+r)[^33]
 
-s)[^35]
+s)[^34]
 
 [^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^17]: A 17. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -55,8 +55,7 @@ s)[^35]
 [^28]: A 17. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^29]: A 17. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^30]: A 17. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 17. § o) pontja a 22. § (2) bekezdése alapján 2021. április 1-jén lép hatályba.
-[^32]: A 17. § p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 17. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 17. § r) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A 17. § s) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 17. § p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 17. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 17. § r) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 17. § s) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
