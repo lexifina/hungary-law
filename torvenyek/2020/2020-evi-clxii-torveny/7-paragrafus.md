@@ -4,7 +4,7 @@ a) a kormányzati igazgatási szerv Kit. 175. §-a szerinti közszolgálati alap
 
 b) a Kttv. hatálya alá tartozó foglalkoztató szervezet Kttv. 177. §-a szerinti közszolgálati alapnyilvántartásából, illetve a Kttv. 258. § (9) bekezdése szerinti munkaügyi nyilvántartásából,
 
-c)
+c) a rendvédelmi feladatokat ellátó szerv Hszt. 272. §-a szerinti személyügyi alapnyilvántartásából, illetve a Hszt. 287/C. § (34) bekezdése szerinti munkaügyi nyilvántartásából,
 
 d) a 2. § e) pontja szerinti foglalkoztató szervezet Nsztv. szerinti személyügyi alapnyilvántartásából,
 
