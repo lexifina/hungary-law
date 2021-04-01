@@ -1,8 +1,8 @@
-### 175. § [A közszolgálati alapnyilvántartás]
+### 175. § [A közszolgálati alapnyilvántartásra vonatkozó egyéb szabályok]
 
-(1) A közszolgálati alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint az e törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a kormánytisztviselőt alkalmazó kormányzati igazgatási szerv hivatali szervezetének vezetője felelős.
+(1)
 
-(2) A kormányzati igazgatási szerv elektronikusan vezetett közszolgálati alapnyilvántartási rendszere más személyes adatot tartalmazó nyilvántartással – törvény felhatalmazása hiányában, valamint az álláshely-nyilvántartás kivételével – nem kapcsolható össze.
+(2)
 
 (3) A közszolgálati alapnyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetve abból adatokat átvenni:
 
@@ -26,13 +26,17 @@ i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi é
 
 j) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 3. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából;
 
-k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter és a fővárosi, megyei kormányhivatal tisztviselője feladatkörében;
+k) a Kormányzati Személyügyi Döntéstámogató Rendszer működtetésével összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter;
 
 l) adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra vonatkozó adatok tekintetében, valamint a kormányzati igazgatási szervek kormánytisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatban a személyügyi központ vezetője, és az általa feljogosított, személyügyi központnál alkalmazásban álló személy;
 
 m) az európai támogatásokat auditáló szerv;
 
 n) a kormányzati igazgatási szerv részére informatikai üzemeltetési feladatokat, illetve logisztikai-eszközellátási feladatokat végző szerv – tevékenységéhez szükséges mértékig – a 3. melléklet I/A. pont 1–3. alpontjában foglalt adatkörök tekintetében.
+
+o) a kormányhivatal irányítására kormányrendeletben kijelölt miniszter;
+
+p) a kormányzati személyügyi igazgatásra kijelölt szerv.
 
 (4) A miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 3. mellékletben meghatározott adatokon túl a vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, valamint a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár, továbbá a kormányzati igazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
 

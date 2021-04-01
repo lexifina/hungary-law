@@ -6,4 +6,4 @@
 
 (3) A közigazgatási perrendtartásról szóló 2017. év I. törvény 18. § (3) bekezdése szerinti munkáltató szerv alatt, az ügyvédi tevékenységről szóló törvény, valamint az adózás rendjéről szóló törvény szerinti munkáltató alatt azt a kormányzati igazgatási szervet kell érteni, amelynél a kormánytisztviselő az álláshelye szerinti feladatát ellátja vagy ellátta.
 
-(4) A Kormány a kormányzati szolgálati jogviszonnyal összefüggő munkáltatói feladatok ellátása érdekében kezeli a kormánytisztviselő közszolgálati személyügyi nyilvántartásban szereplő adatait.
+(4) A Kormány a kormányzati szolgálati jogviszonnyal összefüggő munkáltatói feladatok ellátása érdekében kezeli a kormánytisztviselő közszolgálati alapnyilvántartásban szereplő adatait.

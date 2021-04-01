@@ -86,7 +86,7 @@
 
 23. az elhelyezkedési korlátozással érintett ágazatokat és álláshelyeket, a korlátozás alóli mentesítés szabályait, valamint az ágazati tevékenységet főtevékenységként végző gazdasági társaság meghatározásának szempontjait;
 
-24. a közszolgálati személyügyi nyilvántartásokra, a munkaügyi nyilvántartásra és a közszolgálati statisztikai adatgyűjtésre vonatkozó részletes szabályokat;
+24. a közszolgálati alapnyilvántartásra, valamint a munkaügyi nyilvántartásra vonatkozó részletes szabályokat;
 
 25. a céljuttatásra vonatkozó részletes szabályokat;
 

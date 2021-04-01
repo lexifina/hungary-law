@@ -26,4 +26,4 @@ b) a kormánytisztviselő
 
 azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(7) Az (1)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a kormányzati igazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig, vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a 174. § (6) bekezdésében és a 179. § (4) bekezdésében meghatározott időtartamig kezeli.
+(7) Az (1)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a kormányzati igazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig, vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a 174. § (7) bekezdésében és a 179. § (4) bekezdésében meghatározott időtartamig kezeli.

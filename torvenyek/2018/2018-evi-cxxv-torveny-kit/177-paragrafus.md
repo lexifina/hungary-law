@@ -8,7 +8,7 @@ b) a kompetencia vizsgálat,
 
 c) a toborzási adatbázis,
 
-d) a központi közszolgálati nyilvántartás,
+d)
 
 e) a teljesítményértékelés
 

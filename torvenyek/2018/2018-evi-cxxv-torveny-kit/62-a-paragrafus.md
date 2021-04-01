@@ -40,8 +40,18 @@ a) családi és utónév (születési családi és utónév), valamint
 
 b) születési hely és idő.
 
-(3) A kormányzati személyügyi igazgatásra kijelölt szerv a (2) bekezdés szerinti személyes adatot az érintettet foglalkoztató kormányzati igazgatási szervnél fennálló foglalkoztatási jogviszony megszűnését vagy megszüntetését követő öt évig kezeli.
+(2a) Az 54. § (3) bekezdése szerint betöltött álláshely esetén a nemzetbiztonsági szolgálatok állományából vezényelt, kirendelt személyek vonatkozásában a (2) bekezdés szerinti személyazonosító adat helyett álnevesítéssel a személyhez kötötten egyedileg kialakított kódot kell szerepeltetni az álláshely-nyilvántartásban. Ezen kód a vezénylő, kirendelő nemzetbiztonsági szolgálatra utalással jelöli meg azt is, hogy az álláshely mely nemzetbiztonsági szolgálat állományába tartozó személlyel kerül betöltésre.
+
+(3) A kormányzati személyügyi igazgatásra kijelölt szerv a (2) bekezdés szerinti személyes adatot vagy a (2a) bekezdés szerinti kódot az érintettet foglalkoztató kormányzati igazgatási szervnél fennálló foglalkoztatási jogviszony megszűnését vagy megszüntetését követő öt évig kezeli.
 
 (4) A kormányzati személyügyi igazgatásra kijelölt szerv hozzáférést biztosít az álláshely-nyilvántartáshoz a 62/B. § szerinti jogosultságkezelési nyilvántartásban szereplő, szerkesztési és a betekintési jogosultsággal rendelkező személyek részére.
 
-(5) Az álláshely-nyilvántartás a kormányzati igazgatási szervek álláshelyeinek nyilvántartásáról szóló kormányrendeletben meghatározottak szerint összekapcsolásra kerül a kormányzati igazgatási szervek közszolgálati alapnyilvántartásaival, az általuk használt személyügyi nyilvántartó programokkal, a továbbképzési és teljesítményértékelő rendszerrel, a közfeladat-kataszterrel, a központosított illetményszámfejtő rendszer által használt nyilvántartással, valamint a Kormányzati Személyügyi Döntéstámogató Rendszerrel.
+(5) Az álláshely-nyilvántartás a kormányzati személyügyi információs rendszer részeként összekapcsolásra kerül
+
+a) a kormányzati igazgatási szervek közszolgálati alapnyilvántartásával, illetve a közszolgálati alapnyilvántartás kezelésére használt személyügyi nyilvántartó programokkal,
+
+b) a kormányzati igazgatási szervek által használt továbbképzési és teljesítményértékelő rendszerrel,
+
+c) a közfeladat-kataszterrel, valamint
+
+d) a központosított illetményszámfejtő rendszer által használt nyilvántartással.
