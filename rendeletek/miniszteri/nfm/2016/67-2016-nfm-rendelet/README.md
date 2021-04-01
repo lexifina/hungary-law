@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-67-20-2
 | 2020-07-01 | 2016-67-20-2W.18 | 23/2020. (VI. 29.) ITM rendelet |
 | 2020-10-01 | 2016-67-20-2W.19 | 32/2020. (IX. 30.) ITM rendelet |
 | 2021-01-01 | 2016-67-20-2W.20 | 58/2020. (XII. 29.) ITM rendelet |
+| 2021-04-01 | 2016-67-20-2W.21 | 14/2021. (III. 31.) ITM rendelet |
