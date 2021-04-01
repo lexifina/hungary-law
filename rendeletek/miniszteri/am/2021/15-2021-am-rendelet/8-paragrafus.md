@@ -1,0 +1,3 @@
+8. § (1) A fenntartónak és a köznevelési intézménynek a nyilvántartásokat és a dokumentumokat – ideértve a kísérőintézkedés dokumentációját is – a kiállításuktól számított öt évig kell megőrizni.
+
+(2) A kiválasztási eljárásról a fenntartó bontási jegyzőkönyvet készít. A fenntartónak a kiválasztási eljárásról készült dokumentációt az érintett tanév lezárultát követő öt évig kell megőrizni. A miniszter jogosult ellenőrizni a kiválasztási eljárás dokumentáltságát. A fenntartó az ajánlattételi kiírást a közzétételtől számított tíz napon belül, a bontási jegyzőkönyv másolatát harminc napon belül elektronikus úton megküldi az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) részére az iskolagyumolcs@am.gov.hu elektronikus levelezési címre.
