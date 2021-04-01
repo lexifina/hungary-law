@@ -2,9 +2,7 @@
 
 (2) A KTÖRZS-ből a KSZDR-be történő adatszolgáltatásra az ősfeltöltést követően naponta kerül sor.
 
-(3) Ha új KSZDR szervezet jön létre, KSZDR szervezet szűnik meg, vagy a KSZDR szervezetet érintő változásra kerül sor, a KTÖRZS-be történő bejelentéssel egyidejűleg a szerv vezetője köteles a KSZDR-hez jogosultságot (a továbbiakban: KSZDR jogosultság) kérni a KSZDR Központtól a csatlakozás érdekében.
-
-(4) A KSZDR szervezet vezetője a KSZDR jogosultság kiadását követő három munkanapon belül rögzíteni köteles a KTÖRZS nyilvántartásban nem szereplő következő adatait:
+(3)[^7] A KSZDR szervezet vezetője a KSZDR jogosultság kiadását követő három napon belül rögzíteni köteles a szervezet KTÖRZS nyilvántartásban nem szereplő következő adatait:
 
 a) jogállás,
 
@@ -16,4 +14,13 @@ d) szervezet KSZDR típusa,
 
 e) igazgatás szintje.
 
-(5) A (4) bekezdés szerinti adatrögzítést követő harminc munkanapon belül a KSZDR-ben megjelenő KSZDR szervezet köteles elvégezni a Tv. 7. § (1) bekezdése szerinti adatfeltöltést.
+(4)[^8] Ha új KSZDR szervezet jön létre, a KTÖRZS-be történő bejelentéssel egyidejűleg a szervezet vezetője köteles a KSZDR-hez jogosultságot kérni a KSZDR Központtól a csatlakozás érdekében, és a KSZDR jogosultság kiadását követő három napon belül rögzíteni köteles a (3) bekezdés szerinti adatokat.
+
+(5)[^9] Ha a KSZDR szervezet (3) bekezdés szerinti adatai valamelyikében változás következik be, a KSZDR szervezet vezetője a változást haladéktalanul bejelenti az erre szolgáló űrlapon.
+
+(6)[^10] A (3) bekezdés szerinti adatrögzítést követő harminc munkanapon belül a KSZDR-ben megjelenő szervezet köteles elvégezni a Tv. 7. § (1) bekezdése szerinti adatfeltöltést.
+
+[^7]: A 18. § (3) bekezdése a 159/2021. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 18. § (4) bekezdése a 159/2021. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: A 18. § (5) bekezdése a 159/2021. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 18. § (6) bekezdését a 159/2021. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.

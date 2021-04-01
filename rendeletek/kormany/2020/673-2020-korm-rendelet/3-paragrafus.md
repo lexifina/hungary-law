@@ -33,3 +33,10 @@ bb) a monitoring modul,
 bc) az elemző-értékelő modul,
 
 bd) az ágazati és kormányzati intézményi tervező modul.
+
+(3)[^1] A Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a Tv. 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartás vezetésére a Személyügyi Támogató és Nyilvántartó Rendszert köteles használni.
+
+(4)[^2] A Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a munkáltatói intézkedést a Személyügyi Támogató és Nyilvántartó Rendszerben készíti el.
+
+[^1]: A 3. § (3) bekezdését a 159/2021. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 3. § (4) bekezdését a 159/2021. (III. 31.) Korm. rendelet 1. §-a iktatta be.

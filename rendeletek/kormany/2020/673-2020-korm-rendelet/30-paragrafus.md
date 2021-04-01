@@ -1,29 +1,26 @@
 ## 30. § Hatályát veszti a 87/2019. (IV. 23.) Korm. rendelet
 
-a)[^5]
+a) 5. §-ában a „valamint a Kit. 176. § (1) bekezdése és a Kttv. 178. § (1) bekezdése szerinti adatszolgáltatással” szövegrész,
 
-b)[^6]
+b)[^16]
 
-c)[^7]
+c)[^17]
 
-d)[^8]
+d) 5. alcíme,
 
-e)[^9]
+e)[^18]
 
-f)[^10]
+f)[^19]
 
-g)[^11]
+g)[^20]
 
-h)[^12]
+h)[^21]
 
-i)[^13]
+i) 2. melléklete.
 
-[^5]: A 30. § a) pontja a 26. § (3) bekezdése alapján 2021. április 1-jén lép hatályba.
-[^6]: A 30. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 30. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 30. § d) pontja a 26. § (3) bekezdése alapján 2021. április 1-jén lép hatályba.
-[^9]: A 30. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 30. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 30. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 30. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 30. § i) pontja a 26. § (3) bekezdése alapján 2021. április 1-jén lép hatályba.
+[^16]: A 30. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 30. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 30. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 30. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 30. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 30. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
