@@ -1,0 +1,1 @@
+## „(2a) A szolgálati jogviszony ideje alapján járó kedvezmény a havi törlesztőrészlet összegét csökkenti, a törlesztés időtartama nem változik. Ha ezzel kapcsolatosan a kölcsönszerződés módosítása miatt a pénzintézet díjat, jutalékot vagy költséget számol fel, annak megfizetése a belügyi szervet terheli.”
