@@ -430,17 +430,21 @@
 
 | 5. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött képernyők, monitorok és olyan berendezések, amelyek 100 cm2-nél nagyobb felszíni képernyőt tartalmaznak | 162 |
 
-| 6. | Nagygépek (bármely külső méret meghaladja az 50 cm-t) | 171 |
+| 6. | Nagygépek (bármely külső méret meghaladja az 50 cm-t) a fotovoltaikus panelek kivételével | 173 |
 
-| 7. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött nagygépek (bármely külső méret meghaladja az 50 cm-t) | 172 |
+| 7. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött nagygépek (bármely külső méret meghaladja az 50 cm-t) a fotovoltaikus panelek kivételével | 174 |
 
-| 8. | Kisgépek (egyik külső méretük sem haladja meg az 50 cm-t) | 181 |
+| 8. | Fotovoltaikus panelek | 175 |
 
-| 9. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött kisgépek (egyik külső méretük sem haladja meg az 50 cm-t) | 182 |
+| 9. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött fotovoltaikus panelek | 176 |
 
-| 10. | Kisméretű számítástechnikai berendezések és távközlési berendezések (egyik külső méretük sem haladja meg az 50 cm-t) | 191 |
+| 10. | Kisgépek (egyik külső méretük sem haladja meg az 50 cm-t) | 181 |
 
-| 11. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött kisméretű számítástechnikai berendezések és távközlési berendezések (egyik külső méretük sem haladja meg az 50 cm-t) | 192 |
+| 11. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött kisgépek (egyik külső méretük sem haladja meg az 50 cm-t) | 182 |
+
+| 12. | Kis méretű számítástechnikai berendezések és távközlési berendezések (egyik külső méretük sem haladja meg az 50 cm-t) | 191 |
+
+| 13. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött kis méretű számítástechnikai berendezések és távközlési berendezések (egyik külső méretük sem haladja meg az 50 cm-t) | 192 |
 
 ## 1.1.4. gumiabroncs KT kódja
 
@@ -581,6 +585,10 @@
 | 9. | Adagoló automata | 108 |
 
 | 10. | Rádiótelefon-készülék | 109 |
+
+| 11. | Nagygépek (bármely külső méret meghaladja az 50 cm-t) | 171 |
+
+| 12. | Újrafelhasználásra vagy újbóli felhasználásra előkészítést követően létrejött nagygépek (bármely külső méret meghaladja az 50 cm-t) | 172 |
 
 ## 1.2.2. az egyéb kőolajtermék KT kódja
 
