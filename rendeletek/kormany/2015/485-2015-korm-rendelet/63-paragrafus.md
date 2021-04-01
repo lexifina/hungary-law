@@ -32,7 +32,7 @@ g) a rendészetért felelős miniszter, illetve a Büntetés-végrehajtás Orsz�
 
 h)[^139] a NAV vezetőjének, szakmai helyetteseinek valamint foglalkoztatottainak adóügyében, kivéve a helyszíni ellenőrzéssel megvalósuló Jöt. szerinti ellenőrzést;
 
-i)[^140] a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 7. mellékletében és az Art. XIII. fejezetében meghatározott külföldi illetőségű adózók adóügyeiben, valamint az Art. XXIII. fejezetében meghatározott adóügyekben, és
+i)[^140] a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 7. mellékletében és az Áfa törvény XIX/A–XIX/B. Fejezetében meghatározott, belföldön gazdasági céllal nem letelepedett adóalanyok adóügyeiben, valamint az Art. XXIII. fejezetében meghatározott adóügyekben, és
 
 j)[^141] az olyan állami tulajdonban lévő gazdasági társaságok adóügyeiben, melyek tevékenysége honvédelmi érdekhez kapcsolódik az illetékes miniszter rendelete alapján.
 
@@ -49,7 +49,7 @@ j)[^141] az olyan állami tulajdonban lévő gazdasági társaságok adóügyeib
 [^137]: A 63. § (1) bekezdés a) pont ae) alpontja a 311/2018. (XII. 27.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^138]: A 63. § (1) bekezdés e) pontja a 670/2020. (XII. 28.) Korm. rendelet 17. § n) pontja szerint módosított szöveg.
 [^139]: A 63. § (1) bekezdés h) pontja a 670/2020. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^140]: A 63. § (1) bekezdés i) pontja a 475/2017. (XII. 28.) Korm. rendelet 75. §-ával megállapított, a 439/2020. (IX. 23.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^140]: A 63. § (1) bekezdés i) pontja a 475/2017. (XII. 28.) Korm. rendelet 75. §-ával megállapított, a 439/2020. (IX. 23.) Korm. rendelet 13. § e) pontja, a 670/2020. (XII. 28.) Korm. rendelet 17. § o) pontja szerint módosított szöveg.
 [^141]: A 63. § (1) bekezdés j) pontját a 439/2020. (IX. 23.) Korm. rendelet 11. §-a iktatta be.
 [^142]: A 63. § (3) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
 [^143]: A 63. § (4) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
