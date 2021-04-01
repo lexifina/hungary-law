@@ -1,0 +1,1 @@
+## 4. § Tilos a forintérme-utánzaton, valamint a forintérme-utánzathoz kapcsolódóan bármely formában – így különösen a csomagoláson és a kereskedelmi kommunikáció során – az „érme”, „emlékérme”, „forgalmiérme-emlékváltozat” kifejezés használata.
