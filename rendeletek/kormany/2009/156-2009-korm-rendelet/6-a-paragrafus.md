@@ -22,6 +22,16 @@ a) a szállított veszélyes áru fizikai és kémiai veszélyeztető hatását,
 
 b) veszélyes áru kiszabadulása nem következett be vagy a veszélyes áru kiszabadulásának közvetlen veszélye nem áll fenn.
 
-(5) A (4) bekezdésben szereplő bírságcsökkentő tényező nem alkalmazható az ADR 3.2 fejezet „A” táblázat 15. oszlopa szerinti „0” és „1” szállítási kategóriába tartozó, valamint a szállításból kizárt veszélyes áruk szállítása esetén.
+(5)[^27] A (4) bekezdésben meghatározott bírságcsökkentő tényező nem alkalmazható
+
+a) az ADR 3.2 fejezet „A” táblázat 15 oszlopa szerinti „0” és „1” szállítási kategóriába tartozó veszélyes áruk szállítása esetén,
+
+b) a szállításból kizárt veszélyes áruk szállítása esetén, vagy
+
+c) az olyan veszélyes áru szállítmány esetén, amelyre az ADR nagy közbiztonsági kockázattal járó veszélyes árukra vonatkozó 1.10.3 szakasza előírásait kell alkalmazni.
+
+(6)[^28] A (3) és (4) bekezdésben meghatározott bírságcsökkentő tényezők nem alkalmazhatók, ha a veszélyes áru szállítás szabályainak megsértése következtében az ADR 1.8.5 szakasza szerinti esemény következett be.
 
 [^26]: A 6/A. §-t a 372/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.
+[^27]: A 6/A. § (5) bekezdése a 66/2021. (II. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^28]: A 6/A. § (6) bekezdését a 66/2021. (II. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be.

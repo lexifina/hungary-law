@@ -10,6 +10,6 @@
 
 |  | 30 000 |
 
-3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^73]
+3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^77]
 
-[^73]: A 3. melléklet a 722/2020. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^77]: A 3. melléklet a 722/2020. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

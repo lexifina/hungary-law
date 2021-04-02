@@ -192,6 +192,6 @@
 
 | F3 | A rendszeres heti pihenőidő és a korábbi csökkentett heti pihenőidő kompenzációjaként tartott, 45 óránál hosszabb heti pihenőidő járműben való eltöltése | NSJ | 400 000 | járművezető |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^74]
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^78]
 
-[^74]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § d) pontjával megállapított, a 722/2020. (XII. 31.) Korm. rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^78]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § d) pontjával megállapított, a 722/2020. (XII. 31.) Korm. rendelet 9. § (3) bekezdése szerint módosított szöveg.
