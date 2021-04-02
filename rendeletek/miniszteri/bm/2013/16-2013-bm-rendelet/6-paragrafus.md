@@ -12,6 +12,14 @@ c) közreműködnek az elsötétítési rendszabályok bevezetésének alkalmaz�
 
 d) részt vesznek a menekültek elhelyezésében,
 
-e) közreműködnek a lakosság túléléséhez szükséges nélkülözhetetlen létesítmények működőképességének fenntartásában, készenlétbe helyezésének feladataiban, továbbá
+e)[^4] közreműködnek a lakosság túléléséhez szükséges nélkülözhetetlen létesítmények működőképességének fenntartásában, készenlétbe helyezésének feladataiban,
 
 f) részt vesznek a hadműveleti területről kimenekített lakosság regisztrálásában.
+
+g)[^5] a honvédelmi intézkedési terv alapján végzik a polgári védelmi szervezetek létrehozásával, mozgósításával, alkalmazásával kapcsolatos tervezési, szervezési feladatokat, valamint végzik a polgári védelmi szervezetek irányítását, továbbá
+
+h)[^6] az éves költségvetési tervezéssel együtt éves készletképzési tervet készítenek.
+
+[^4]: A 6. § e) pontja a 10/2021. (IV. 1.) BM rendelet 5. §-a szerint módosított szöveg.
+[^5]: A 6. § g) pontját a 10/2021. (IV. 1.) BM rendelet 1. §-a iktatta be.
+[^6]: A 6. § h) pontját a 10/2021. (IV. 1.) BM rendelet 1. §-a iktatta be.

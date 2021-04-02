@@ -1,5 +1,3 @@
-## 8. §[^5] Az Országos Idegenrendészeti Főigazgatóság honvédelmi feladatai teljesítése során szükség esetén végzi az ország területén élő nem magyar állampolgárok jelentkezési kötelezettségével, valamint a tartózkodásuk korlátozásával összefüggő feladatokat.
-
 ## III. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -8,4 +6,10 @@
 
 (2) A honvédelmi intézkedési tervet a rendvédelmi szerv vezetője az e rendelet hatálybalépését követő 90 napon belül terjeszti fel jóváhagyásra a belügyminiszternek.
 
-[^5]: A 8. § az 58/2016. (XII. 22.) BM rendelet 37. § (2) bekezdés a) pontja, a 27/2019. (VI. 28.) BM rendelet 34. § (1) bekezdése szerint módosított szöveg.
+(3)[^10] A hivatásos katasztrófavédelmi szerv vezetője a honvédelmi intézkedési tervét a belügyminiszter feladatkörét érintő honvédelmi feladatokról szóló 16/2013. (V. 9.) BM rendelet módosításáról szóló 10/2021. (IV. 1.) BM rendelet hatálybalépését[^11] követő 90 napon belül felülvizsgálja, szükség szerint módosítja, és jóváhagyásra felterjeszti a belügyminiszternek.
+
+(4)[^12] A hivatásos katasztrófavédelmi szerv a 8/B. § (1) bekezdése szerinti általános polgári védelmi tervet és mozgósítási tervet, valamint a 8/C. § szerinti készletképzési tervet 2022. április 1-jéig készíti el.
+
+[^10]: A 9. § (3) bekezdését a 10/2021. (IV. 1.) BM rendelet 3. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2021. április 2.
+[^12]: A 9. § (4) bekezdését a 10/2021. (IV. 1.) BM rendelet 3. §-a iktatta be.
