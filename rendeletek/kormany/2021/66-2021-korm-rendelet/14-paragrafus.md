@@ -1,0 +1,3 @@
+## 13. § Az R4. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A hivatásos katasztrófavédelmi szerv központi szerve a vasúti közlekedésről szóló törvényben meghatározott, a veszélyes áru szállításának katasztrófavédelmi ellenőrzésére vonatkozó éves, országos kimutatást a vasúti hatóság részére – vasúti társaságonkénti bontásban – a 4. melléklet szerinti adattartalommal a tárgyévet követő év június 30-ig átadja. A katasztrófavédelmi ellenőrzésekkel kapcsolatos adatokat vasúti társaságonként a forgalom típusa (belföldi, kilépő, belépő) szerint, ezen belül az államhatárt átlépő vonatok esetében államhatáronkénti bontásban kell megadni.”

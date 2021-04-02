@@ -1,0 +1,1 @@
+## „(6) A (3) és (4) bekezdésben meghatározott bírságcsökkentő tényezők nem alkalmazhatók, ha a veszélyes áru szállítás szabályainak megsértése következtében az ADR 1.8.5 szakasza szerinti esemény következett be.”
