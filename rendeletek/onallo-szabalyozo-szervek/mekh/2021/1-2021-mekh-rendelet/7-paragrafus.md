@@ -1,7 +1,3 @@
-## „(2) Az elosztó – a külön díjak meghatározásának keretszabályairól szóló rendeletben foglaltak szerint – a kiserőművi csatlakozást igénylőtől (a háztartási méretű kiserőmű kivételével) kiserőművenként kapott külön díj ellenében
+## 6. §[^7]
 
-## 1. elkészíti az igénybejelentésre vonatkozó tájékoztatót,
-
-## 2. felülvizsgálja a megvalósíthatósági tanulmányt, és
-
-## 3. felülvizsgálja a csatlakozási tervet.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

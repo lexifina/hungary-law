@@ -1,3 +1,3 @@
-## „(7a) Az elosztók a honlapjukon naprakész tájékoztatást nyújtanak a működési területükön található elosztói tápponti körzetekről.
+## 3. §[^4]
 
-## (7b) Az elosztói tápponti körzetek meghatározásának és nyilvántartásának részletszabályait az üzemi szabályzat tartalmazza.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
