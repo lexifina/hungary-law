@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-2-20-5Z
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-04-01 | 2021-2-20-5Z.1 | 2/2021. (III. 24.) MEKH rendelet |
+| 2021-04-02 | 2021-2-20-5Z.2 | 2010: CXXX. törvény |

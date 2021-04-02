@@ -1,3 +1,5 @@
-## 2. § A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak alkalmazásának szabályairól szóló 10/2016. (XI. 14.) MEKH rendelet 1. §-ában hatályát veszti az „a 2017. január 1-jétől 2021. március 31-ig tartó árszabályozási ciklusban” szövegrész.
+## 2. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
