@@ -8,6 +8,6 @@
 
 (4) Az ellenőrzés indokolatlanul nem befolyásolhatja a veszélyes áru továbbítását. Szabálytalanság feltárása esetén a katasztrófavédelmi hatóságnak a legkisebb kockázattal járó intézkedést kell megtennie a szabálytalanság megszüntetésére.
 
-(5)[^18]
+(5)[^23]
 
-[^18]: A 8. § (5) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 13. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 366. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^23]: A 8. § (5) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 13. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 366. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

@@ -32,11 +32,12 @@ b) a vízi szállítás tekintetében: a Genfben, 2000. május 26. napján kelt,
 
 12. veszélyes áru vízi továbbítása: a veszélyes áru úszólétesítménnyel – szállítás céljából – történő tényleges mozgatása;
 
-13. veszélyes áru vasúti továbbítása: minden olyan, vasúti járművel végzett veszélyesáru-szállítási, fuvarozási és intermodális fuvarozási tevékenység, ideértve a határállomásokon történő átszállítást is, amelyet vasúton hajtanak végre; e rendelet értelmében az árutovábbítás része a szállítás, fuvarozás során történő megállás, várakozás, ideiglenes tárolás, az áru becsomagolása, továbbá be-, ki- és átrakodása, beleértve a töltést és ürítést is, abban az esetben is, ha ezeket a műveleteket nem a szállító végzi;
+13.[^2] veszélyes áru vasúti továbbítása: minden olyan, vasúti járművel végzett veszélyesáru-szállítási, fuvarozási és intermodális fuvarozási tevékenység, ideértve az államhatáron történő átszállítást is, amelyet vasúton hajtanak végre; e rendelet értelmében az árutovábbítás része a szállítás, fuvarozás során történő megállás, várakozás, ideiglenes tárolás, az áru becsomagolása, továbbá be-, ki- és átrakodása, beleértve a töltést és ürítést is, abban az esetben is, ha ezeket a műveleteket nem a szállító végzi;
 
 14. vízi utak: a víziúttá nyilvánításról szóló jogszabályban meghatározott természetes vagy mesterséges felszíni vizek;
 
-15.[^2] VPSZ: a vasúti közlekedésről szóló törvényben meghatározott Vasúti Pályakapacitás-elosztó Szervezet.
+15.[^3] VPSZ: a vasúti közlekedésről szóló törvényben meghatározott Vasúti Pályakapacitás-elosztó Szervezet.
 
 [^1]: A 2. § 9. pontja a 372/2016. (XI. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 15. pontját a 372/2016. (XI. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^2]: A 2. § 13. pontja a 66/2021. (II. 16.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 15. pontját a 372/2016. (XI. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.
