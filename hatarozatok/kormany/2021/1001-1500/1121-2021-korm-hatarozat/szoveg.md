@@ -32,4 +32,6 @@ b) rendszeresen tájékoztatja a Miniszterelnökséget vezető minisztert, tová
 
 8. Ez a határozat 2021. április 1-jén lép hatályba.
 
-9. Hatályát veszti a Budai Várnegyed területén megvalósuló kormányzati beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1041/2019. (II. 18.) Korm. határozat.
+9.[^2]
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
