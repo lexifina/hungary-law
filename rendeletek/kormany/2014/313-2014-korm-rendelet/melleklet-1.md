@@ -1,4 +1,4 @@
-## 10. § Ez a rendelet 2015. január 1-jén lép hatályba.
+## 11. §[^10] E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését[^11] követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.
 
 1. melléklet a 313/2014. (XII. 12.) Korm. rendelethez
 
@@ -47,3 +47,6 @@ tartalmi követelményei
 12. Nyilatkozat arról, hogy az adatok a bejelentő legjobb tudomása szerint a valóságnak megfelelnek:
 
 13. Dátum:
+
+[^10]: A 11. §-t a 66/2021. (II. 16.) Korm. rendelet 18. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2021. április 2.
