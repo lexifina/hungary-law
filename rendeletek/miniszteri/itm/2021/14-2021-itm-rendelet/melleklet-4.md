@@ -1,11 +1,3 @@
-## Az R2. 1. melléklete a következő 84. sorral egészül ki:
+4. melléklet a 14/2021. (III. 31.) ITM rendelethez[^18]
 
-| (A | B | C | D | E |  |
-
-| Sorszám | Település | Értékesítő megnevezése | Vásárló szolgáltató neve | Értékesítői alapdíj | Értékesítői hődíj |
-
-|  |  |  |  | Ft/hó | Ft/GJ) |
-
-| 84 | Mátészalka | Geotherm FIRE Kft. | Mátészalkai Távhőszolgáltató Kft. | 0 | 3467 |
-
-4. melléklet a 14/2021. (III. 31.) ITM rendelethez
+[^18]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

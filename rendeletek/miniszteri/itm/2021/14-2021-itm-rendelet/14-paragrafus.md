@@ -1,1 +1,3 @@
-## 13. § Az R4. 4. alcím címében a „mértéke” szövegrész helyébe a „mértéke és a külön díj megfizetése alóli mentesülés” szöveg lép.
+## 13. §[^14]
+
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
