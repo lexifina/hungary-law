@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:48b mezőjében a „4,45” szövegrész helyébe a „4,66” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1157/2021. (III. 31.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, forint) | Többlettámogatás legfeljebb (bruttó, forint) | Megnövelt támogatás legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.3.0-15- 2017-00019 | Vízgazdálkodási fejlesztések a Felső-Tisza-vidéken | Országos Vízügyi Főigazgatóság | 4 450 000 000 | 204 878 770 | 4 654 878 770 | A projekt célja az EU Víz Keretirányelvével összhangban a belvízi biztonság növelése, a régió vízkárérzékeny területeinek csökkentése, a főcsatornák megfelelő paraméterekkel rendelkező műszaki állapotának megteremtése. A vízkormányzó és oldalbeeresztő tiltós műtárgyak felújításával a térségben a vízgazdálkodási szélsőségekhez történő alkalmazkodóképesség nő, és hatékony beavatkozási lehetőségeket teremt a vízkészletek helyben tartására, megőrzésére, hozzájárulnak a vízvisszatartás, a vízpótlás és a kártételek elleni védekezés megvalósításához a térségben. A projekt indikátora: a vízgazdálkodási fejlesztéssel érintett területek nagysága 271 171 hektár. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
