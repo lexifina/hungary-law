@@ -2,7 +2,7 @@
 
 1. melléklet a 7/2021. (II. 25.) MNB rendelethez
 
-## A forgalmi érméről, valamint a forgalmiérme-emlékváltozatról készített utánzat egyes paraméterei
+A forgalmi érméről, valamint a forgalmiérme-emlékváltozatról készített utánzat egyes paraméterei
 
 1. A forgalmi érme, valamint a forgalmiérme-emlékváltozat utánzata készítésénél figyelembe veendő referenciasáv meghatározása
 
