@@ -1,3 +1,3 @@
-## 3. § Az R. a következő 4/B. §-sal egészül ki:
+## 3. §[^4]
 
-## „4/B. § Ha az önkormányzati rendelet tervezetéhez tartozó indokolás Nemzeti Jogszabálytárban való közzétételére – jogszabályban meghatározottak szerint – sor kerül, a közzétételre a 4/A. § szerinti eljárási szabályokat megfelelően alkalmazni kell.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
