@@ -1,1 +1,3 @@
-## 1. § A család- és ifjúságügyi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 1/2020. (XII. 22.) CSTNM rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
