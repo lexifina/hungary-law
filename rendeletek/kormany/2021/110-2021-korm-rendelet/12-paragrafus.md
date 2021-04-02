@@ -1,5 +1,5 @@
-## 11. §[^11]
+## 11. §[^12]
 
 ## 2. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet módosítása
 
-[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
