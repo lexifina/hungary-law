@@ -1,1 +1,3 @@
-## „(6) A (3) bekezdés szerinti adatrögzítést követő harminc munkanapon belül a KSZDR-ben megjelenő szervezet köteles elvégezni a Tv. 7. § (1) bekezdése szerinti adatfeltöltést.”
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
