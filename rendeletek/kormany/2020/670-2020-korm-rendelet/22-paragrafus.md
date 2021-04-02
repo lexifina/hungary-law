@@ -1,4 +1,4 @@
-## 21. §[^38]
+## 21. §[^40]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 20. § 2021. július 1-jén lép hatályba.
 
-[^38]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
