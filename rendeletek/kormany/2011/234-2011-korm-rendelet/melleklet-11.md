@@ -6,7 +6,7 @@
 
 ## 1. A károk felméréséről a 9. melléklet szerinti adattartalommal kárfelmérő adatlapot kell kitölteni 3 példányban. A kárfelmérés során a keletkezett károkat fényképeken is rögzíteni kell. A kárfelmérő adatlap tartalma egyéb dokumentumokkal (tulajdoni lap, szerződés, alaprajz, korábbi értékbecslés, szakértő, tanú, jegyzőkönyv, fotó, videó, nyilatkozat a biztosítottságról stb.) is alátámasztható.
 
-## 2.[^59] A kárfelmérő adatlap egy példánya a település polgármesteri hivatalánál, közös önkormányzati hivatalt működtető települések esetében a közös önkormányzati hivatalban marad, egy példányt a polgármester megküld a katasztrófavédelmi igazgatóságnak, egy példányát a károsult veszi át.
+## 2.[^61] A kárfelmérő adatlap egy példánya a település polgármesteri hivatalánál, közös önkormányzati hivatalt működtető települések esetében a közös önkormányzati hivatalban marad, egy példányt a polgármester megküld a katasztrófavédelmi igazgatóságnak, egy példányát a károsult veszi át.
 
 ## 3. A kár jellegétől függően kell meghatározni a keletkezett károkból eredő további feladatokat (talajmechanikai elemzések, másodlagos, járulékos károk köre, statikai vizsgálatok).
 
@@ -14,24 +14,4 @@
 
 11. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
 
-A nyilvántartás tartalmi elemei:
-
-a) a támogatott tulajdonos adatait;
-
-b) a lakcímre és az életvitelszerű ottlakásra vonatkozó igazolásokat;
-
-c) a károsodott ingatlan címét;
-
-d) azt, hogy a támogatás helyreállítást, újjáépítést vagy használt lakás vásárlását szolgálja;
-
-e) a támogatási megállapodás számát;
-
-f) a támogatás összegét;
-
-g) a kifizetések időpontját, és az azokról szóló bizonylatokat;
-
-h) a 86. § (2) bekezdés h) pont és a 87. § szerinti esetekben a megkötött biztosításra vonatkozó adatokat;
-
-i) a támogatott írásbeli hozzájárulását az a)–b) pontban foglalt adatok kezelésére.
-
-[^59]: A 10. melléklet B. pont 2. alpontja a 368/2012. (XII. 17.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^61]: A 10. melléklet B. pont 2. alpontja a 368/2012. (XII. 17.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

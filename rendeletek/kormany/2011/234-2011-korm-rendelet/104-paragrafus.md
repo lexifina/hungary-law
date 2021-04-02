@@ -1,4 +1,4 @@
-## 103. §[^53] E rendeletnek a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet módosításáról szóló 268/2019. (XI. 19.) Korm. rendelettel megállapított 25. § (1) bekezdésében, 27. § (1) bekezdésében, 31. § (1) és (2) bekezdésében, valamint 2. melléklet d) pont 9. alpontjában foglaltakat a veszélyelhárítási terv átdolgozásával 2021. január 1-jétől a VI. Fejezetben meghatározott eljárási rend és határidő alapján kell teljesíteni.
+## 103/A. §[^54] E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését[^55] követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.
 
 ## 66. Az Európai Unió jogának való megfelelés
 
@@ -6,4 +6,5 @@
 
 (2) E rendelet 15–16. §-a és 66. §-a a közösségi Polgári Védelmi Mechanizmus kialakításáról szóló, 2007. november 8-i 2007/779/EK, Euratom tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^53]: A 103. § a 268/2019. (XI. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^54]: A 103/A. §-t a 66/2021. (II. 16.) Korm. rendelet 7. §-a iktatta be.
+[^55]: A hatálybalépés időpontja 2021. április 2.

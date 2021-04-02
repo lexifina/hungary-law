@@ -1,5 +1,3 @@
-## 4/D. §[^10] A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 178/2017. (VII. 5.) Korm. rendeletben, a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 179/2017. (VII. 5.) Korm. rendeletben, és a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 177/2017. (VII. 5.) Korm. rendeletben meghatározott, a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek jóváhagyásával kapcsolatos hatósági feladatokat a hivatásos katasztrófavédelmi szerv központi szerve látja el.
-
 ## II. Fejezet
 
 ## A KATASZTRÓFÁK ELLENI VÉDEKEZÉSÉRT FELELŐS MINISZTER, VALAMINT A KATASZTRÓFÁK ELLENI VÉDEKEZÉSBEN ÉRINTETT MINISZTEREK ÉS ÁLLAMI SZERVEK MEGELŐZÉSSEL, FELKÉSZÜLÉSSEL ÉS VÉDEKEZÉSSEL KAPCSOLATOS FELADATAI, A KATASZTRÓFAVÉDELMI KORMÁNYZATI KOORDINÁCIÓS SZERV
@@ -46,5 +44,4 @@ r) részt vesz az ágazati miniszterek által előterjesztett potenciális ágaz
 
 s) gondoskodik a kijelölt kritikus infrastruktúra elemek katasztrófák elleni fokozott védelmének megszervezéséről.
 
-[^10]: A 4/D. §-t a 360/2019. (XII. 30.) Korm. rendelet 91. §-a iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^11]: Az 5. § e) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
