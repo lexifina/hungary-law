@@ -36,7 +36,7 @@ ba) nettó eszközértéket az előző árszabályozási ciklus utolsó évének
 
 bb) értékcsökkenést a ténylegesen elszámolt értékcsökkenéssel
 
-## összeveti az indokolatlan mértékű eltérések elkerülése érdekében.
+összeveti az indokolatlan mértékű eltérések elkerülése érdekében.
 
 (5) A (2) bekezdés c) pontja szerinti tőkeköltség hozamtényezőjét a Hivatal a közgazdasági alapelveknek és gazdasági feltételeknek megfelelő módon számított súlyozott átlagos adózás előtti tőkeköltség alapján határozza meg, és a hozamtényezőt a szabályozási eszközértékre vetíti.
 

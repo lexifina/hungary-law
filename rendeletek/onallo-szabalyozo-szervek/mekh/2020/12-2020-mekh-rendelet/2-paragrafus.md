@@ -1,5 +1,3 @@
-## (a továbbiakban együtt: díjak) megállapítása során.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában

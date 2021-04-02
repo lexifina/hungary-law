@@ -11,3 +11,5 @@ a) a villamosenergia-rendszer használatáért fizetendő díjak (a továbbiakba
 b) a közcélú hálózathoz történő csatlakozásért fizetendő díj (a továbbiakban: csatlakozási díj) és
 
 c) az elosztó által a felhasználó vagy engedélyes igénye alapján, valamint a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások díjainak (a továbbiakban: külön díjak)
+
+(a továbbiakban együtt: díjak) megállapítása során.

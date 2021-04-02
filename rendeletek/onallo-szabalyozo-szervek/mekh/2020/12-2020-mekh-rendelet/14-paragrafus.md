@@ -1,1 +1,3 @@
-14. § Hatályát veszti a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának keretszabályairól szóló 7/2016. (X. 13.) MEKH rendelet.
+14. §[^2]
+
+[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

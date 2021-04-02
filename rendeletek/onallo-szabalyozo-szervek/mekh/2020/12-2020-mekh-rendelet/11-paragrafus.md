@@ -22,7 +22,7 @@ b) a nagyfeszültségű hálózatra csatlakozó felhasználó és önállóan l�
 
 c) az ideiglenes csatlakozást kérő
 
-## esetében a Hivatal elsősorban a csatlakozás és a teljesítményigény kielégítése érdekében szükséges beruházások figyelembevételével állapítja meg.
+esetében a Hivatal elsősorban a csatlakozás és a teljesítményigény kielégítése érdekében szükséges beruházások figyelembevételével állapítja meg.
 
 (3) A (2) bekezdésben meghatározott esetekben – a villamos energia csatlakozási díj fizetésére kötelezettek köréről és a csatlakozási díjak alkalmazásának szabályairól szóló MEKH rendeletben meghatározott feltételek fennállásakor – a több hálózati engedélyest érintő beruházás esetén a csatlakozási díjat a hálózati engedélyesek között a villamos energia csatlakozási díj fizetésére kötelezettek köréről és a csatlakozási díjak alkalmazásának szabályairól szóló MEKH rendeletben meghatározott módon meg kell osztani.
 
