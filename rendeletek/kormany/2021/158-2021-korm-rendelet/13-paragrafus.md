@@ -1,7 +1,5 @@
-## lép.
+## 9–12. §[^4]
 
 ## 4. A hulladékgazdálkodási tervekre és a megelőzési programokra vonatkozó részletes szabályokról szóló 310/2013. (VIII. 16.) Korm. rendelet módosítása
 
-13. § (1) A hulladékgazdálkodási tervekre és a megelőzési programokra vonatkozó részletes szabályokról szóló 310/2013. (VIII. 16.) Korm. rendelet [a továbbiakban: 310/2013. (VIII. 16.) Korm. rendelet] 2. melléklete a 4. melléklet szerint módosul.
-
-(2) A 310/2013. (VIII. 16.) Korm. rendelet 3. melléklete az 5. melléklet szerint módosul.
+[^4]: A 9–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
