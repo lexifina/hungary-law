@@ -1,11 +1,3 @@
-## lép.
+## 10. §[^11]
 
-## 11. § Hatályát veszti az R.
-
-a) 5. § (4) bekezdés d) pontjában az „– az 1. melléklet szerinti vezető engedélyével –” szövegrész,
-
-b) 7. § (1) bekezdés a) pontja,
-
-c) 7. § (2) bekezdése,
-
-d) 18. § (3)–(5) bekezdése.
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

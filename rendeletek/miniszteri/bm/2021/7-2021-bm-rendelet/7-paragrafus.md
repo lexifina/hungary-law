@@ -1,1 +1,3 @@
-## „(2a) A szolgálati jogviszony ideje alapján járó kedvezmény a havi törlesztőrészlet összegét csökkenti, a törlesztés időtartama nem változik. Ha ezzel kapcsolatosan a kölcsönszerződés módosítása miatt a pénzintézet díjat, jutalékot vagy költséget számol fel, annak megfizetése a belügyi szervet terheli.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

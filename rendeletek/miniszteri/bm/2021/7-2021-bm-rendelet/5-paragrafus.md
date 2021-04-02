@@ -1,1 +1,3 @@
-## „(5) A munkáltatói kölcsön visszafizetésének időtartama alatt kétévente a dolgozó írásbeli kérelmére a helyi lakásügyi szerv a dolgozó jövedelmi viszonyaihoz igazodóan módosíthatja a megállapodást a törlesztőrészlet és a futamidő vonatkozásában. Ha ezzel kapcsolatosan a kölcsönszerződés módosítása miatt a pénzintézet költséget számol fel, annak megfizetése a dolgozót terheli. A futamidő módosítása esetén sem haladhatja meg a futamidő az (1) bekezdésben meghatározott időtartamot.”
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
