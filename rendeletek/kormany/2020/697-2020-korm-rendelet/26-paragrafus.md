@@ -1,18 +1,21 @@
-## 25. §[^2]
+## 25. §[^26]
 
-26. § (1)[^3]
+26. § (1)[^27]
 
-(2) Az R. 9. számú melléklete helyébe a 2. melléklet lép.
+(2)[^28]
 
-(3) Az R. 12. számú melléklete a 3. melléklet szerint módosul.
+(3)[^29]
 
-(4)[^4]
+(4)[^30]
 
-(5)[^5]
+(5)[^31]
 
-(6) Az R. 30. számú melléklete helyébe a 6. melléklet lép.
+(6)[^32]
 
-[^2]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 26. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 26. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 26. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 26. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 26. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 26. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 26. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 26. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 26. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

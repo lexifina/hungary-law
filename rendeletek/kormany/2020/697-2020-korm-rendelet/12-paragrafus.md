@@ -1,3 +1,3 @@
-## 11. § Az R. a 27/A. §-t megelőzően a következő alcímmel egészül ki:
+## 11. §[^12]
 
-## „Tervezett éves keret módosítása”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

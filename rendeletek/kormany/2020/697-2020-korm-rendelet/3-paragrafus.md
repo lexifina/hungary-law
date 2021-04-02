@@ -1,3 +1,3 @@
-## 2. § Az R. a 4/B. §-t megelőzően a következő alcím címmel egészül ki:
+## 2. §[^3]
 
-## „Várólista alapján nyújtható ellátások elszámolási szabályai”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

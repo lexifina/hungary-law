@@ -1,3 +1,3 @@
-## 5. § Az R. 5. § (8) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## „(8) Az (1)–(3) és a (6) bekezdés szerinti ellátások elszámolása az elszámolásukkor érvényben lévő díj szerint történik.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
