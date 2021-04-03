@@ -1,5 +1,5 @@
-## 18. § Az R5. a következő 11. §-sal egészül ki:
-
-## „11. § E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.”
+## 18. §[^19]
 
 ## 6. Záró rendelkezések
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

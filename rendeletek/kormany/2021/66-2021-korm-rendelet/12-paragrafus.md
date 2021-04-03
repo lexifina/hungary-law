@@ -1,1 +1,3 @@
-## „(5) Az államhatáron történő belépés alkalmával, ha az üzemváltó állomás Magyarország területén kívül volt, az (1) vagy a (2) bekezdésben meghatározott előírások megsértése esetén a katasztrófavédelmi hatóság haladéktalanul intézkedik a szabálytalanságok megszüntetése iránt. A 3. melléklet A. részében foglalt táblázat alapján I. vagy II. kockázati kategóriába tartozó és a helyszínen megszüntethető szabálytalanság esetén a visszatartott vasúti jármű kizárólag a szabálytalanság megszüntetését követően haladhat tovább. A Magyarország területén megállás nélküli technológiával, változatlan vonatazonosítóval közlekedő vonatok esetében az (1) vagy a (2) bekezdésben meghatározott előírások megsértése miatt szükséges teendők a 3. mellékletben meghatározott kötelezettet terhelik.”
+## 11. §[^12]
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

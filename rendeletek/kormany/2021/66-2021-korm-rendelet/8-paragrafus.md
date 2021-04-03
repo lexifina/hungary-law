@@ -1,3 +1,3 @@
-## 7. § Az R3. a következő 103/A. §-sal egészül ki:
+## 7. §[^8]
 
-## „103/A. § E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

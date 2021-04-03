@@ -1,1 +1,3 @@
-## „(6) A (3) és (4) bekezdésben meghatározott bírságcsökkentő tényezők nem alkalmazhatók, ha a veszélyes áru szállítás szabályainak megsértése következtében az ADR 1.8.5 szakasza szerinti esemény következett be.”
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
