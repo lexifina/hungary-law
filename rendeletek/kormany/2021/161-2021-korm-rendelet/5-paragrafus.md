@@ -1,0 +1,3 @@
+## „(5a) A Beruházási Alap terhére történő forrásbiztosítási folyamat részletes szabályait, így különösen a forrás igénylésének rendjét, a forrásigény indokoltságának megalapozására irányuló követelményeket, a forrásbiztosítási folyamat lépéseit és határidőit az államháztartásért felelős miniszter által meghatározott eljárásrend tartalmazza, amelyről elektronikus úton tájékoztatja az érintett szervezeteket.”
+
+5. § Az egyes államháztartási szabályok veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 709/2020. (XII. 30.) Korm. rendelet 2. § (1) bekezdésében az „Áht. 108. § (1) bekezdés b) pontja” szövegrész helyébe az „Áht. 108. § (1) bekezdése” szöveg lép.
