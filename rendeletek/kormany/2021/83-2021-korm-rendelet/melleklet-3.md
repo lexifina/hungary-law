@@ -14,4 +14,6 @@
 
 | 6. | Badacsonytördemic turisztikai attraktivitásának javítása | Badacsonytördemic belterület 32/2, 32/3, 32/4, 32/5, 32/6, 33, 234/1, 234/4, 234/5, 234/6, 234/7, 234/8, 414 és 1016/3 helyrajzi számú ingatlanok. | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
+| 11. | A Bicskei Egészségügyi Központ teljes körű rekonstrukciója | Bicske belterület 1602/3, 1602/4, 1602/5, 1602/6, 1602/9 és 1582 helyrajzi számú ingatlanok | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
+
 3. melléklet a 83/2021. (II. 23.) Korm. rendelethez

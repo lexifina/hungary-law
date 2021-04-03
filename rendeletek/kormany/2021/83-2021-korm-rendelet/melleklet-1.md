@@ -1,4 +1,4 @@
-## 16. §[^9]
+## 16. §[^12]
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -50,4 +50,4 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^9]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.
+[^12]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.
