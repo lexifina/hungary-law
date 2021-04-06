@@ -1,6 +1,4 @@
-## 43. §[^18]
-
-1. melléklet a 22/2018. (VIII. 23.) IM rendelethez[^19]
+1. melléklet a 22/2018. (VIII. 23.) IM rendelethez[^22]
 
 Egyoldalú kötelezettségvállaló nyilatkozat minta a 37/B. §-hoz
 
@@ -8,155 +6,211 @@ EGYOLDALÚ KÖTELEZETTSÉGVÁLLALÓ NYILATKOZAT[^1.]
 
 I. A Kölcsönszerződésből eredő kötelezettségek
 
-1. A Kölcsönszerződés: …... adós (a továbbiakban: Adós) és …… adós (a továbbiakban: Adós) (a továbbiakban együtt: Adósok) kijelenti és elismeri / kijelentik és elismerik, hogy közte / köztük és a(z) ……. (székhely: ……, cégjegyzékszám: ……) (a továbbiakban: Bank, Hitelező, Zálogjogosult) között (a továbbiakban a kölcsönszerződés tekintetében együtt: Felek) …… (……) év …… hónap …… (…...) napján az alábbi lényeges tartalommal …… elnevezésű, …… szerződésszámú kölcsönszerződés (a továbbiakban: Kölcsönszerződés) jött létre, amelynek elválaszthatatlan részét képezi a(z) …… megnevezésű Üzletszabályzat / Kondíciós lista / Általános Szerződési Feltételek (együttesen: Kölcsönügylet).
+1. A Kölcsönszerződés: ...... adós (a továbbiakban: Adós) / és ...... adós (a továbbiakban: Adós) (a továbbiakban együtt: Adósok) kijelenti és elismeri / kijelentik és elismerik, hogy közte / köztük és a(z) ....... (székhely: ......, cégjegyzékszám: ......) / , valamint a(z) ....... (székhely: ......, cégjegyzékszám: ......)[^2.] (a továbbiakban: Hitelező, Zálogjogosult) között (a továbbiakban a Kölcsönszerződés tekintetében együtt: Felek) ...... (......) év ...... hónap ...... (......) napján az alábbi lényeges tartalommal ...... elnevezésű, ...... szerződésszámú kölcsönszerződés (a továbbiakban: Kölcsönszerződés) jött létre, amelynek elválaszthatatlan részét képezi a(z) ...... megnevezésű Üzletszabályzat / ...... megnevezésű Kondíciós lista / ...... megnevezésű Hirdetmény / ...... megnevezésű Általános Szerződési Feltételek (a továbbiakban: együttesen: Kölcsönügylet).
 
-Alulírott Adós(ok) kötelezi magát / kötelezik magukat arra, hogy a Kölcsönt az esedékességkor visszafizeti / visszafizetik, és annak a Kölcsönügylet szerinti járulékait az esedékességkor megfizeti / megfizetik. Az Adósok egyetemleges kötelezettek.[^2.]
+Alulírott Adós / Adósok kötelezi magát / kötelezik magukat arra, hogy a Kölcsönt az esedékességkor visszafizeti / visszafizetik, és annak a Kölcsönügylet szerinti járulékait az esedékességkor megfizeti / megfizetik. Az Adósok egyetemleges kötelezettek.[^3.]
 
-Adós(ok) kijelenti / kijelentik, hogy a Kölcsönügylet feltételeit megismerte / megismerték és azokat megértette / megértették.
+Adós / Adósok kijelenti / kijelentik, hogy a Kölcsönügylet feltételeit megismerte / megismerték és azokat megértette / megértették.
 
-2. A Kölcsön célja: az ingatlan-nyilvántartás szerint …… településen …… helyrajzi szám alatt nyilvántartott, természetben a(z) …… szám alatt található ingatlanon lakóingatlan építésének finanszírozása / bővítésének finanszírozása / korszerűsítésének finanszírozása / új lakás vásárlása / használt lakás vásárlása / felújításának finanszírozása a saját erő kiegészítéseként.[^3.]
+2. A Kölcsön célja: az ingatlan-nyilvántartás szerint ...... településen ...... helyrajzi szám alatt nyilvántartott, természetben a(z) ...... szám alatt található ingatlanon
 
-3. A Kamattámogatás jogalapja: az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet / a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet / az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet / a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendelet / a gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet (a továbbiakban: Rendelet).[^4.]
+– lakóingatlan építésének finanszírozása /
+
+– lakóingatlan bővítésének finanszírozása /
+
+– lakóingatlan korszerűsítésének finanszírozása /
+
+– új lakóingatlan vásárlása /
+
+– használt lakóingatlan vásárlása /
+
+– használt lakóingatlan felújításának finanszírozása /
+
+– használt lakóingatlan vásárlása, valamint ezen ingatlan bővítése /
+
+– használt lakóingatlan vásárlása, valamint ezen ingatlan korszerűsítése /
+
+– használt lakóingatlan vásárlása, valamint ezen ingatlan bővítése és korszerűsítése /
+
+– használt lakóingatlan bővítésének és korszerűsítésének finanszírozása
+
+a saját erő kiegészítéseként.
+
+3. A Kamattámogatás jogalapja: az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet / a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet / az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet / a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendelet (a továbbiakban: Rendelet).
 
 4. A Kölcsön adatai:
 
-4.1. A Kölcsön összege: …… Ft, azaz …… forint.
+4.1. A Kölcsön összege: ...... Ft, azaz ...... forint.
 
-4.2. A Kölcsön futamideje: ……, azaz …… hónap.
+4.2. A Kölcsön futamideje: ......, azaz ...... hónap.
 
-4.3. A folyósítás időpontja: …… (……) év …… hónap …… (…...) napja.
+4.3. A folyósítás / Részletekben történő folyósítás esetén az első részlet folyósításának – várható – időpontja: ...... (......) év ...... hónap ...... (......) napja.
 
-4.4. A törlesztés kezdő időpontja: …… (…...) év ……hónap …… (…...) napja.
+4.4. A törlesztés – várható – kezdő időpontja: ...... (......) év ...... hónap ...... (......) napja / a folyósítástól – részletekben történő folyósítás esetén az első részlet folyósításától – számított ......, azaz ...... nap / a folyósítást követő hónap ...... (......) napja.
 
-4.5. A havi törlesztőrészletek száma: ……, azaz …… darab.
+Ha az első esedékesség napja a hónap 29. (huszonkilencedik), 30. (harmincadik) vagy 31. (harmincegyedik) napjára esne, akkor az első esedékesség az azt követő hónap 1. (első) napja / az első esedékesség hónapjának utolsó napja.[^4.]
 
-4.6. A havi törlesztőrészletek összege: …… Ft, azaz …... forint.
+4.5. A havi törlesztőrészletek száma: ...... darab.
 
-4.7. A havi törlesztőrészletek esedékessége: minden hónap …… (…...) napja.
+4.6. A havi törlesztőrészletek összege a Kölcsönszerződés létrejöttekor: ...... Ft, azaz ...... forint. / Az induló havi törlesztőrészlet összege türelmi idő alatt: ...... Ft, azaz ...... forint, a türelmi idő lejárta után: ...... Ft, azaz ...... forint.
 
-4.8. A Kölcsön lejárata: …… (…...) év …… hónap …… (…...) napja. A lejárat a törlesztés kezdete (az első törlesztő részlet esedékessége) időpontjától függően változhat.
+4.7. A havi törlesztőrészletek esedékessége: minden hónap ...... (......) napja / az adott hónapnak az a napja, amely megegyezik az első esedékesség napjával.
 
-4.9. Adós(ok) kötelezettséget vállal(nak) arra, hogy a Kölcsönügyletből eredő fizetési kötelezettségei(k)et a(z) …… számú törlesztési számlára való befizetéssel, vagy erre a számlára átutalással teljesítik. Ha a törlesztés napja nem banki munkanap, a havi törlesztő részlet pénzügyi fedezetét a törlesztési számlán az esedékesség napját megelőző / követő munkanapon kell a Bank rendelkezésére bocsátani.
+4.8. A Kölcsön lejáratának – várható – időpontja: ...... (......) év ...... hónap ...... (......) napja. A lejárat a törlesztés kezdete (az első törlesztőrészlet esedékessége) időpontjától függően változhat.
+
+4.9. Adós / Adósok kötelezettséget vállal / vállalnak arra, hogy a Kölcsönügyletből eredő fizetési kötelezettségeit / kötelezettségeiket a Kölcsönszerződésben meghatározott törlesztési számlára való befizetéssel / átutalással / befizetéssel és átutalással a törlesztési számláról a Hitelező által történő beszedéssel teljesíti / teljesítik. Ha a fizetési kötelezettség teljesítésének esedékessége nem banki munkanapra esik, a havi törlesztőrészlet pénzügyi fedezetét a törlesztési számlán az esedékesség napját megelőző / követő munkanapon kell a Hitelező rendelkezésére bocsátani.
 
 5. A Kölcsön kamata:
 
-5.1. A szerződéses ügyleti kamatnak a Kölcsönszerződés létrejöttekor érvényes mértéke tájékoztató jelleggel évi ……%, azaz …… százalék.
+5.1. A szerződéses ügyleti kamatnak a Kölcsönszerződés létrejöttekor érvényes mértéke tájékoztató jelleggel évi ......%, azaz ...... százalék.
 
-5.2. A Kamattámogatás mértéke: az ügyleti kamat ……, azaz …… százalékponttal csökkentett mértéke.
+5.2. A Kamattámogatás mértéke: a Kölcsönszerződés létrejöttekor hatályos jogszabályok szerint évi ......%, azaz ...... százalék.
 
-5.3. Adós(ok) által a Kamattámogatás időtartama alatt megfizetendő kamat induló mértéke: a Kölcsönszerződés megkötése napján évi ……%, azaz …… százalék.
+5.3. Adós /Adósok által a Kamattámogatás időtartama alatt megfizetendő kamat induló mértéke: a Kölcsönszerződés megkötése napján évi ......%, azaz ...... százalék.
 
-5.4. A Kamattámogatással érintett időszak: …… év, azaz (…...) év. A kamattámogatási időszak …… kezdődik, eddig az időpontig az Adós(ok) a szerződéses ügyleti kamatot köteles(ek) megfizetni a Hitelező részére. Az Adós(ok) Kamattámogatásra csak a le nem járt tőketartozás után jogosult(ak), lejárt tőketartozás esetén, valamint a teljes kölcsöntartozás, és járulékainak egy összegben történő esedékessé válása esetén az Adós(ok) a Kölcsönszerződés szerint számított szerződéses ügyleti kamat mindenkori tényleges mértékét köteles(ek) megfizetni.
+5.4. A Kamattámogatással érintett időszak: ...... év / hónap, azaz ...... év / hónap. A Kamattámogatással érintett időszak a folyósítást követő napon / a használatbavételi engedély / használatbavétel tudomásulvételét igazoló hatósági bizonyítvány / az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány bemutatását követő napon kezdődik. A Kamattámogatással érintett időszak kezdetéig az Adós / Adósok a szerződéses ügyleti kamatot köteles / kötelesek megfizetni a Hitelező részére.
 
-5.5. A kamatperiódus időtartama: a szerződéses ügyleti kamat, és az Adós(ok) által fizetendő kamat mértéke kamatperiódusonként változó mértékű, pontos mértékét a folyósítás napján és az egyes kamatperiódusok kezdő napján a Hitelező állapítja meg. Az első kamatperiódus kezdő időpontja …… (……) év …… hónap …… (……) napja, a kamatperiódusok a kezdő időponttól számított ……, azaz …... éves időtartamúak, a futamidő lejártáig. Az Adós(ok) által fizetendő kamat az egyes kamatperiódusok alatt nem változtatható.
+5.5. A kamatperiódus időtartama: a szerződéses ügyleti kamat, és az Adós / Adósok által fizetendő kamat mértéke kamatperiódusonként változó mértékű, pontos mértékét a folyósítás napján és az egyes kamatperiódusok kezdő napján a Hitelező állapítja meg. Az első kamatperiódus kezdő időpontja – várhatóan – ...... (......) év ...... hónap ...... (......) napja, a kamatperiódusok a kezdő időponttól számított ......, azaz ...... éves időtartamúak, a futamidő lejártáig. Az Adós / Adósok által fizetendő kamat az egyes kamatperiódusok alatt nem változtatható.
 
-5.6. A késedelmi kamat mértéke: évi ……%, azaz …… százalék.
+5.6. A késedelmi kamat mértéke a Kölcsönszerződés létrejöttekor: évi ......%, azaz ...... százalék.
 
-6. Egyéb díjak, jutalékok, költségek:
+6. Egyéb díjak, jutalékok, költségek:[^5.]
 
-6.1. Hitelbírálati díj: …… Ft, azaz …… forint, amely …… esedékes.
+Az Adóst / Adósokat terhelő díjak / jutalékok / költségek a Kölcsönügyletben meghatározott időpontban vagy feltétel bekövetkezésekor, de legkésőbb a lejárat napján esedékesek:
 
-6.2. Szerződéskötési díj: …… Ft, azaz …… forint, amely …… esedékes.
+– Hitelbírálati díj / költség / jutalék: ...... Ft, azaz ...... forint. /
 
-6.3. Kezelési költség: …… Ft, azaz …… forint, amely …… esedékes.
+– Szerződéskötési díj / költség / jutalék: ...... Ft, azaz ...... forint. /
 
-6.4. Folyósítási jutalék: ……%, azaz …… százalék/…… Ft, azaz …… forint, amely ………… esedékes.
+– Kezelési díj / költség / jutalék: ...... Ft, azaz ...... forint. /
 
-6.5. Hitelbiztosítéki érték megállapításának díja: …… Ft, azaz …… forint, amely ………… esedékes.
+– Folyósítási díj / költség / jutalék: ......%, azaz ...... százalék /...... Ft, azaz ...... forint. /
 
-6.6. Előtörlesztési díj: ……%, azaz …… százalék, de maximum …… Ft, azaz …… forint, amely …… esedékes.
+– Hitelbiztosítéki érték megállapításának díja / költsége / jutaléka: ...... Ft, azaz ...... forint. /
 
-6.7. Szerződésmódosítási díj: …… Ft, azaz …… forint, amely …… esedékes.
+– Előtörlesztési díj / költség / jutalék: ......%, azaz ...... százalék, de maximum ...... Ft, azaz ...... forint. /
 
-6.8. Rendelkezésre tartási díj: ……%, azaz …… százalék, amely …… esedékes.
+– Szerződésmódosítási díj / költség / jutalék: ...... Ft, azaz ...... forint. /
 
-6.9. Értékbecslés díja: …… Ft, azaz …… forint, amely …… esedékes.
+– Rendelkezésre tartási díj / költség / jutalék: ......%, azaz ...... százalék. /
 
-6.10. Fedezetkezelés díja: …… Ft, azaz …… forint, amely …… esedékes.
+– Értékbecslés díja / költsége / jutaléka: ...... Ft, azaz ...... forint. /
 
-6.11. Fedezetmódosítás díja: …… Ft, azaz …… forint, amely …… esedékes.
+– Fedezetkezelés díja / költsége / jutaléka: ...... Ft, azaz ...... forint. /
 
-6.12. Tulajdoni lap lekérdezésének díja: …... Ft, azaz …... forint, amely …... esedékes.
+– Fedezetmódosítás díja / költsége / jutaléka: ...... Ft, azaz ...... forint. /
 
-6.13. Térképmásolat lekérdezésének díja: …… Ft, azaz …… forint, amely …… esedékes.
+– Tulajdoni lap lekérdezésének díja / költsége / jutaléka: ...... Ft, azaz ...... forint. /
 
-6.14. Egyéb díjak: …… Ft, azaz …… forint, amely …… esedékes.
+– Térképmásolat lekérdezésének díja / költsége / jutaléka: ...... Ft, azaz ...... forint. /
 
-6.15. A közjegyzőnek fizetendő díjból …… Ft, azaz …… forint az Adós(oka)t, …… Ft, azaz …… forint a Hitelezőt terheli.
+– Hitelbiztosítéki érték felülvizsgálati díja / költsége /jutaléka: ...... Ft, azaz ...... forint. /
 
-7. Kedvezmények: Kedvezmény keretében elengedett díjak: …… Ft, azaz …… forint. Ha az Adós(ok) a Kölcsön folyósítását (vagy szakaszos folyósítás esetén annak első részletének folyósítását) követően …… (……) ügyleti éven belül rendkívüli törlesztést (elő- vagy végtörlesztés) teljesít(enek), a díjat a ………… számú számlára történő átutalással, az elő- vagy végtörlesztéssel egyidejűleg / …………, azaz ………… napon belül[^5.] köteles(ek) megfizetni a Hitelező részére.
+– Ingatlan-felülvizsgálati díj / jutalék / költség: ...... Ft, azaz ....... forint. /
 
-8. Egyoldalú szerződésmódosítás: A Hitelező jogosult a kamat, díj, és/vagy költség mértékét, illetve összegét egyoldalúan meghatározni a módosítás időpontjában hatályos Üzletszabályzat / Kondíciós lista / Általános Szerződési Feltételek szerint.
+– Adósvédelmi eszköz iránti igénylés elbírálásáról szóló tájékoztatás esetén levelezési díj / költség / jutalék: levelenként ...... Ft, azaz ...... forint.
 
-9. Azonnali hatályú felmondás: A Hitelező a Kölcsönszerződést a Kölcsönszerződésben / Üzletszabályzatban / Kondíciós listában / Általános Szerződési Feltételekben foglalt felmondási okok bármelyikének teljesülése esetén azonnali hatállyal felmondhatja.
+7. Kedvezmények: Kedvezmény keretében feltételesen elengedett díjak / költségek / jutalékok: ...... Ft, azaz ...... forint. Ha az Adós / Adósok
 
-Azonnali hatállyal felmondhatja a Hitelező a Kölcsönszerződést akkor is, ha a Kölcsönügylet biztosítékául jelzálogjoggal terhelt zálogtárgy állagának romlása vagy egyéb ok miatt a zálogfedezet értékének csökkenése olyan mértékű, hogy az a biztosított követelésnek a zálogtárgyból való kielégítését veszélyezteti, és a Zálogkötelezett(ek) a Zálogjogosult felhívása ellenére a Zálogjogosult által megszabott megfelelő határidő alatt a zálogfedezetet a szükséges értékig nem egészíti(k) ki.
+– részére a Kölcsön összegének legalább ......%-a, azaz ...... százaléka nem kerül folyósításra, /
 
-A Hitelező azonnali hatályú felmondása azzal a következménnyel jár, hogy a Kölcsönügyletből eredő fizetési kötelezettségek a felmondásnak a Kölcsönszerződésben, illetve a Bank Üzletszabályzatában / Általános Szerződési Feltételeiben írt közléssel egyidejűleg / kézbesítéstől számított…………, azaz ………… napon[^6.] lejárttá és egy összegben esedékessé válik/válnak.
+– a szerződéskötéstől számított ......, azaz ...... éven belül a Kölcsön összege ......%-ánál, azaz ...... százalékánál nagyobb összegű rendkívüli törlesztést (elő- vagy végtörlesztés) teljesít / teljesítenek, /
 
-Ha a zálogtárgyként lekötött ingatlanra bármilyen ügyben végrehajtási jogot jegyeztek be, a Kölcsönügyletből származó teljes tartozás egy összegben, minden külön értesítés nélkül lejárttá és esedékessé válik a végrehajtási jog bejegyzésének elrendelése alapjául szolgáló kérelemnek (megkeresésnek) az ingatlanügyi hatóságoz történt benyújtása időpontjában.
+– a Kölcsön folyósítását / részletekben történő folyósítása esetén az első részlet folyósítását követően az első törlesztőrészlet esedékességének napjáig / napjától számított ......, azaz ...... éven belül rendkívüli törlesztést (elő- vagy végtörlesztés) teljesít / teljesítenek – ide nem értve a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló 337/2017. (XI. 14.) Korm. rendelet szerinti támogatás jóváírása következtében történő elő- vagy végtörlesztést, valamint a lakás-takarékpénztári megtakarításból történő elő- vagy végtörlesztést –, és ezáltal a fennálló tőketartozás összege a Kölcsön szerződés szerinti összegének ......%-a, azaz ...... százaléka alá csökken,
 
-10. Felelősség: Adós(ok) a Kölcsönügyletből eredő valamennyi tartozásért teljes vagyonával / vagyonukkal köteles(ek) helytállni.
+a kedvezmény keretében feltételesen elengedett díjat / költséget / jutalékot ............, azaz ............ napon belül / az elő- vagy végtörlesztéssel egyidejűleg a Kölcsönszerződésben meghatározott módon köteles / kötelesek megfizetni a Hitelező részére.
+
+8. Egyoldalú szerződésmódosítás: A Hitelező jogosult a kamat, díj, jutalék és / vagy költség mértékét, illetve összegét egyoldalúan módosítani a Kölcsönszerződésben foglalt feltételek / a módosítás időpontjában hatályos Üzletszabályzat / Üzletszabályzatok / Általános Szerződési Feltételek szerint.
+
+9. Azonnali hatályú felmondás: A Hitelező a Kölcsönszerződést a Kölcsönszerződésben / Üzletszabályzatban / Üzletszabályzatokban / Általános Szerződési Feltételekben foglalt felmondási okok bármelyikének teljesülése esetén azonnali hatállyal felmondhatja.
+
+A Hitelező azonnali hatállyal felmondhatja a Kölcsönszerződést akkor is, ha a Kölcsönügylet biztosítékául jelzálogjoggal terhelt Zálogtárgy állagának romlása vagy egyéb ok miatt a zálogfedezet értékének csökkenése olyan mértékű, hogy az a biztosított követelésnek a Zálogtárgyból való kielégítését veszélyezteti, és a Zálogkötelezett / Zálogkötelezettek a Zálogjogosult felhívása ellenére a Zálogjogosult által megszabott megfelelő határidő alatt a zálogfedezetet a szükséges értékig nem egészíti ki / egészítik ki.
+
+A Hitelező azonnali hatályú felmondása azzal a következménnyel jár, hogy a Kölcsönügyletből eredő fizetési kötelezettségek a felmondásnak a Kölcsönszerződésben, illetve a Hitelező Üzletszabályzatában / Üzletszabályzataiban / Általános Szerződési Feltételeiben írt közléssel egyidejűleg / közléstől számított ......, azaz ...... napon lejárttá és egy összegben esedékessé válnak.
+
+Ha a Zálogtárgyként lekötött ingatlanra bármilyen ügyben végrehajtási jogot jegyeztek be, a Kölcsönügyletből származó teljes tartozás egy összegben, minden külön értesítés nélkül lejárttá és esedékessé válik a végrehajtási jog bejegyzésének elrendelése alapjául szolgáló kérelemnek (megkeresésnek) az ingatlanügyi hatósághoz történő benyújtása időpontjában.[^6.]
+
+10. Felelősség: Adós / Adósok a Kölcsönügyletből eredő valamennyi tartozásért teljes vagyonával / vagyonukkal köteles / kötelesek helytállni.
 
 11. A Kamattámogatásra való jogosultság megszűnése, a Kamattámogatás visszafizetése:
 
-11.1. A Kamattámogatásra való jogosultság megszűnése, illetve az Adós(ok) Kamattámogatás-visszafizetési kötelezettségének/kötelezettségüknek bármilyen okból történő bekövetkezése esetén a Bank a Kölcsönt piaci kamatozású kölcsönné alakítja át.
+11.1. A Kamattámogatásra való jogosultság megszűnése, illetve az Adós / Adósok Kamattámogatás-visszafizetési kötelezettségének bármilyen okból történő bekövetkezése esetén az Adós / Adósok a Kölcsönszerződés szerinti szerződéses ügyleti kamat megfizetésére köteles / kötelesek.
 
-11.2. Ha az Adós/Adósok bármelyike a Kölcsönszerződés saját magára vonatkozóan történő megszüntetését kezdeményezi, és a kölcsönkérelem benyújtásakor a Rendeletben foglalt feltétel személyére vonatkozóan teljesült, az Adós(oka)t Kamattámogatás-visszafizetési kötelezettség nem terheli, azonban a kötelemben maradó Adós vagy Adóstárs a Kamattámogatásra a Kölcsönszerződés módosítását követően – a Kölcsönszerződésben megjelölt kivétellel − nem jogosult.[^7.]
+11.2. Ha az Adósnak / Adósoknak a Kölcsönszerződés szerinti Kölcsön és az ahhoz kapcsolódó Kamattámogatás igénybevételéhez szükséges feltételek meglétével kapcsolatos, a Hitelező vagy az igénybevétel feltételeire vonatkozó igazolást kibocsátó részére tett nyilatkozata valótlan adatot tartalmaz, akkor a folyósított összeget az igénybevétel napjától a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:48. § (1) bekezdése szerint számított kamatával együtt köteles / kötelesek visszafizetni. A támogatás visszavonásának napjától kezdődően az Adós / Adósok a Kölcsönszerződés szerinti szerződéses ügyleti kamat mindenkori hatályos mértékét köteles / kötelesek megfizetni a Hitelezőnek.
 
-11.3. Ha a Kamattámogatással érintett ingatlan vonatkozásában a támogatott személy(ek) (valamelyike) a Kölcsönszerződés módosításának időpontjáig a Rendeletben írt kötelezettségét nem teljesíti, az Adós(oka)t a Kamattámogatás igénybevételétől esedékes – a Rendelet szerinti kamatfizetési kötelezettséggel növelt – visszafizetési kötelezettség terheli, és a kötelemben maradó Adós a Kamattámogatásra nem jogosult.[^8.]
+11.3. Ha az Adós / Adósok bármelyike a Kölcsönszerződés saját magára vonatkozóan történő megszüntetését kezdeményezi, és a kölcsönkérelem benyújtásakor a Rendeletben foglalt feltétel személyére vonatkozóan teljesült, az Adóst / Adósokat Kamattámogatás-visszafizetési kötelezettség nem terheli, azonban a kötelemben maradó Adós / Adósok a Kamattámogatásra a Kölcsönszerződés módosítását követően − a Kölcsönszerződésben megjelölt kivétellel − nem jogosult / jogosultak.[^7.]
 
-11.4. Ha az Adós(ok)nak a Kölcsönszerződés szerinti Kölcsön és az ahhoz kapcsolódó Kamattámogatás igénybevételéhez szükséges feltételek meglétével kapcsolatos, a Hitelező vagy az igénybevétel feltételeire vonatkozó igazolást kibocsátó részére tett nyilatkozata valótlan adatot tartalmaz, akkor a folyósított összeget az igénybevétel napjától a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:48. § (1) bekezdése szerint számított kamatával együtt köteles(ek) visszafizetni. A támogatás visszavonásának napjától kezdődően az Adós(ok) a Kölcsönszerződés szerinti szerződéses ügyleti kamat mindenkori hatályos mértékét köteles(ek) megfizetni a Hitelezőnek.
+11.4. Ha a Kamattámogatással érintett ingatlan vonatkozásában a támogatott személy / személyek valamelyike a Kölcsönszerződés módosításának időpontjáig a Rendeletben írt kötelezettségét nem teljesíti, az Adóst / Adósokat a Kamattámogatás igénybevételétől esedékes – a Rendelet szerinti kamatfizetési kötelezettséggel növelt – visszafizetési kötelezettség terheli, és a kötelemben maradó Adós / Adósok a Kamattámogatásra nem jogosult / jogosultak.[^8.]
 
-II. A Jelzálogszerződésből eredő kötelezettségek
+II. A Jelzálogszerződésből eredő kötelezettségek[^9.]
 
-1. A Jelzálogszerződés: …… zálogkötelezett (a továbbiakban: Zálogkötelezett) és …… zálogkötelezett (a továbbiakban: Zálogkötelezett) (a továbbiakban együtt: Zálogkötelezettek) kijelenti és elismeri / kijelentik és elismerik, hogy közte / köztük és a ……. (székhely: ……, cégjegyzékszám: ……) (a továbbiakban: Bank, Hitelező, Zálogjogosult) között (a továbbiakban a zálogszerződés tekintetében együtt: Felek) az I.1. pontban hivatkozott Kölcsönszerződés biztosítására …… (……) év …... hónap …… (…………) napján az alábbi lényeges tartalommal ingatlant terhelő jelzálogszerződés jött létre.
+1. A Jelzálogszerződés: ...... zálogkötelezett (a továbbiakban: Zálogkötelezett) / és ...... zálogkötelezett (a továbbiakban: Zálogkötelezett) (a továbbiakban együtt: Zálogkötelezettek), valamint ...... haszonélvező (a továbbiakban: Haszonélvező) és ...... haszonélvező (a továbbiakban: Haszonélvező) (a továbbiakban együtt: Haszonélvezők) kijelenti és elismeri / kijelentik és elismerik, hogy közte / köztük és a ....... (székhely: ......, cégjegyzékszám: ......, statisztikai számjel: ......) (a továbbiakban: Zálogjogosult) között (a továbbiakban a zálogszerződés tekintetében együtt: Felek) az I.1. pontban hivatkozott Kölcsönszerződés biztosítására ...... (......) év ...... hónap ...... (......) napján az alábbi lényeges tartalommal ingatlant terhelő jelzálogszerződés / önálló zálogszerződés (a továbbiakban: Zálogszerződés) jött létre. A Zálogkötelezett / A Zálogkötelezettek és a Haszonélvező / Haszonélvezők egyetemleges kötelezettek.[^10.]
 
-2. Biztosíték: A Jelzálogszerződés alapján a Kölcsön biztosítékát képezi a Bank javára a Zálogkötelezett(ek) …… / …… és …… / ……arányú tulajdoni várományát képező ingatlanra alapított jelzálogjog és ennek biztosítására szolgáló elidegenítési és terhelési tilalom.
+2. Biztosíték: A Zálogszerződés alapján a Kölcsön biztosítékát képezi a Zálogjogosult javára a II.4. pontban megjelölt ingatlanra / ingatlanokra alapított jelzálogjog / önálló zálogjog / egyetemleges jelzálogjog / önálló zálogjog és ennek biztosítására szolgáló elidegenítési és terhelési tilalom.
 
-3. Biztosított követelés: …… Ft, azaz …… forint kölcsöntőke, valamint annak az I.5. és az I.6. pont szerinti járulékai. / A Kölcsönügylet biztosítékául a(z) … ingatlanra alapított önálló zálogjog szolgál.
+3. Biztosított követelés: ...... Ft, azaz ...... forint kölcsöntőke, valamint annak az I.5. és az I.6. pont szerinti járulékai. / Az önálló zálogjog alapján kielégíthető követelés összege: ...... Ft, azaz ...... forint.
 
-4. Az ingatlan adatai:
+3.1. A Zálogkötelezett / A Zálogkötelezettek, valamint a Haszonélvező / Haszonélvezők kéri / kérik, és egyúttal feltétlen és visszavonhatatlan hozzájárulását / hozzájárulásukat adja / adják ahhoz, hogy a II.4. pontban megjelölt, ......, ...... helyrajzi számú ingatlanra – tulajdoni váromány esetén a Zálogkötelezett / Zálogkötelezettek tulajdonjogának bejegyzésével egyidejűleg –[^11.] az ingatlant nyilvántartó illetékes hatóság jelen közjegyzői okiratra utalással a Zálogjogosult javára a II.3. pontban megjelölt követelés biztosítására jelzálogjogot / önálló zálogjogot / egyetemleges jelzálogjogot / egyetemleges önálló zálogjogot, továbbá ennek biztosítására elidegenítési és terhelési tilalmat jegyezzen be.[^12.]
 
-4.1. Az ingatlan megnevezése:
+4. Az ingatlan / ingatlanok (a továbbiakban: Zálogtárgy) adatai:[^13.]
 
-4.2. Az ingatlan helyrajzi száma:
+– Az ingatlan megnevezése: ......
 
-4.3. A Jelzálogszerződés megkötésekor nyilvántartott tulajdonos(ok) neve:
+– Az ingatlan fekvése és helyrajzi száma: ...... / Az ingatlan fekvése és helyrajzi száma a társasház-alapítást megelőzően: ...... és azt követően: ......[^14.]
 
-4.4. Az ingatlant terhelő jogok:
+– Az ingatlan ingatlan-nyilvántartás szerinti címe: ......
 
-4.5. Az ingatlan hitelbiztosítéki értéke: …… Ft, azaz …… forint.
+– Az ingatlan hitelbiztosítéki értéke: ...... Ft, azaz ...... forint.
+
+– Zálogkötelezett / Zálogkötelezettek neve és – a jelzálogjog bejegyzéssel érintett – tulajdoni hányada / tulajdoni várományának aránya: ......[^15.]
 
 5. A kielégítési jog gyakorlása:
 
-5.1. A Bank mint Zálogjogosult a zálogjogát bírósági végrehajtási eljárás útján érvényesítheti, kivéve, ha a kielégítési jog megnyílta után a Bank mint Zálogjogosult és a Zálogkötelezett(ek) az ingatlannak a Bank általi értékesítésében írásban megállapodnak. A Zálogjogosult kérelmére a zálogjogból való kielégítési jog megnyílását követően a zálogtárgy egyszerűsített végrehajtási értékesítésére is sor kerülhet.
+5.1. A Zálogjogosult a zálogjogát bírósági végrehajtási eljárás útján érvényesítheti, kivéve, ha a kielégítési jog megnyílta után a Zálogjogosult és a Zálogkötelezett / Zálogkötelezettek a Zálogtárgynak a Zálogjogosult általi értékesítésében írásban megállapodnak. A Zálogjogosult kérelmére a zálogjogból való kielégítési jog megnyílását követően a Zálogtárgy egyszerűsített végrehajtási értékesítésére is sor kerülhet.
 
-5.2. A zálogjogból való kielégítési jog minden további jogcselekmény nélkül teljes terjedelemben megnyílik, amennyiben az alábbi feltételek bekövetkeznek:
+5.2. A zálogjogból való kielégítési jog minden további jogcselekmény nélkül teljes terjedelemben megnyílik, amennyiben az alábbi feltételek bármelyike bekövetkezik:
 
-5.2.1. A személyes kötelezett a zálogjoggal biztosított esedékes fizetési kötelezettségét (részben vagy egészében) nem teljesíti, beleértve azt is, ha a Zálogjogosult Bank a Kölcsönszerződést az abban megjelölt bármely ok miatt felmondja, és ennek következtében a Kölcsönügyletből eredő követelés egy összegben lejárttá és esedékessé válik, és a személyes kötelezett a fizetési kötelezettségének nem tesz eleget.
+5.2.1. A személyes kötelezett a zálogjoggal biztosított esedékes fizetési kötelezettségét (részben vagy egészében) nem teljesíti, beleértve azt is, ha a Zálogjogosult a Kölcsönszerződést az abban megjelölt bármely ok miatt felmondja, és ennek következtében a Kölcsönügyletből eredő követelés egy összegben lejárttá és esedékessé válik, és a személyes kötelezett a fizetési kötelezettségének nem tesz eleget.
 
-5.2.2. Ha a zálogtárgyat bármely tartozás fejében akár bírósági, akár más hatósági végrehajtás során lefoglalják, vagy a zálogtárgyakra más zálogjogosult a bírósági végrehajtás mellőzésével őt megillető kielégítési jogát gyakorolja.
+5.2.2. Ha a Zálogtárgyat bármely tartozás fejében akár bírósági, akár más hatósági végrehajtás során lefoglalják, vagy a Zálogtárgyakra más zálogjogosult a bírósági végrehajtás mellőzésével őt megillető kielégítési jogát gyakorolja.
 
-5.3. Tűrési kötelezettség: A Zálogkötelezett / A Zálogkötelezettek egyetemlegesen kötelezi(k) magát(magukat) annak a tűrésére, hogy a Zálogjogosult a zálogtárgyból kielégítést keressen, ha a személyes kötelezett(ek) a zálogjoggal biztosított Kölcsönügylet alapján ő(ke)t terhelő esedékes fizetési kötelezettséget részben vagy egészben nem teljesíti(k), vagy más okból a zálogból való kielégítési jog megnyílt.
+5.3. Tűrési kötelezettség: A Zálogkötelezett / A Zálogkötelezettek / , valamint a Haszonélvező / Haszonélvezők kötelezi magát / egyetemlegesen kötelezik magukat annak a tűrésére, hogy a Zálogjogosult a Zálogtárgyból kielégítést keressen, ha a személyes kötelezett / személyes kötelezettek a zálogjoggal biztosított Kölcsönügylet alapján őt / őket terhelő esedékes fizetési kötelezettséget részben vagy egészben nem teljesíti / teljesítik, vagy más okból a Zálogtárgyból való kielégítési jog megnyílt.
 
-5.4. Kiürítési kötelezettség: A Zálogkötelezett(ek) kötelezettséget vállal(nak) arra, hogy az ingatlant a zálogból való kielégítési jog gyakorlása esetén a Zálogjogosult erre irányuló írásbeli felszólításában meghatározott időpontig kiürített, beköltözhető állapotban a Zálogjogosult birtokába bocsátja / bocsátják.
+5.4. Kiürítési kötelezettség: A Zálogkötelezett / A Zálogkötelezettek / , valamint a Haszonélvező / Haszonélvezők kötelezi magát / egyetemlegesen kötelezik magukat arra is, hogy a zálogból való kielégítési jog gyakorlása esetén a Zálogtárgyat beköltözhetően, a vevő, az árverési vevő részére korlátozásmentesen birtokba adhatóan bocsátja / bocsátják – a Zálogtárgyból való kielégítési jog gyakorlási módjával összhangban – a kielégítési jog bírósági végrehajtáson kívüli gyakorlása esetén a Zálogjogosult, a Zálogtárgyból való kielégítési jog bírósági végrehajtás útján történő gyakorlása esetén (ideértve a zálogtárgy egyszerűsített végrehajtási értékesítését is) az árverési vevő birtokába, rendelkezésére.
 
-III. Feltétel, vagy időpont bekövetkezésnek tanúsítása
+III. Feltétel vagy időpont bekövetkezésének tanúsítása
 
-Az Adósok és a Zálogkötelezettek kijelentik, hogy mind a Hitelező, mind a Zálogjogosult közjegyzői okiratba foglalt nyilatkozatát, mind a Hitelező, a Zálogjogosult nyilvántartásai, üzleti könyvei, a Hitelezőnél, a Zálogjogosultnál vezetett számlák, az általa kezelt adatok alapján készült közjegyzői okiratba foglalt közjegyzői ténytanúsítványt is elfogadják végrehajtási eljárás kezdeményezése esetére a jelen egyoldalú kötelezettségvállaló nyilatkozat és az annak alapjául szolgáló jogügyletek alapján az Adósokat és a Zálogkötelezetteket terhelő kötelezettségek teljesítése feltételei bekövetkezésének, a kötelezettségek keletkezése időpontjának, a teljesítési kötelezettség lejáratának, valamint az adósokat, a zálogkötelezetteket terhelő kötelezettségek tárgyának, mennyiségének / összegének / és jogcímének, esedékességének lejáratának, a Kölcsönügylet szerinti Kölcsön folyósítása időpontjának, a folyósított Kölcsön összegének, a jogügylet alapján fennálló kölcsön, járulék és egyéb tartozás jogcímének, összegének, keletkezése és lejárata időpontjának, valamint más egyéb a bírósági végrehajtás céljából szükséges ténynek, adatnak, feltétel vagy időpont bekövetkezésének a közokirati tanúsításaként.
+Az Adós / Adósok és a Zálogkötelezett / Zálogkötelezettek /, valamint a Haszonélvező / Haszonélvezők kijelenti / kijelentik, hogy végrehajtási eljárás kezdeményezése esetén mind a Hitelező, mind a Zálogjogosult közjegyzői okiratba foglalt nyilatkozatát, mind a Hitelező, mind a Zálogjogosult nyilvántartásai, üzleti könyvei, a Hitelezőnél, illetve a Zálogjogosultnál vezetett számlák, az általa / általuk kezelt adatok alapján készült, közjegyzői okiratba foglalt közjegyzői ténytanúsítványt is elfogadja / elfogadják
+
+– a jelen egyoldalú kötelezettségvállaló nyilatkozat és az annak alapjául szolgáló jogügyletek alapján az Adóst / Adósokat és a Zálogkötelezettet / Zálogkötelezetteket /, valamint a Haszonélvezőt / Haszonélvezőket terhelő kötelezettségek keletkezése időpontjának, tárgyának, mennyiségének / összegének, jogcímének, teljesítése feltételei bekövetkezésének, lejáratának,
+
+– a Kölcsönügylet szerinti Kölcsön folyósítása időpontjának, a folyósított Kölcsön összegének, a fennálló Kölcsön, járulék és egyéb tartozás jogcímének, összegének, keletkezése és lejárata időpontjának, valamint
+
+– más egyéb, a bírósági végrehajtás céljából szükséges ténynek, adatnak, feltétel vagy időpont bekövetkezésének
+
+közokirati tanúsításaként.
 
 IV. Kézbesítés
 
-Adós(ok) és Zálogkötelezett(ek) kijelenti(k), hogy a Hitelező / Zálogjogosult által Adós(ok)hoz / Zálogkötelezett(ek)hez intézett azon írásbeli nyilatkozatokat, amelyeket a Kölcsönszerződésben / Zálogszerződésben feltüntetett levelezési címre, tértivevényes és ajánlott, avagy egyéb könyvelt postai küldeményként szabályszerűen postára adtak, a címzettel közöltnek, részére kézbesítettnek kell tekinteni akkor is, ha a küldemény ténylegesen kézbesíthető nem volt, vagy azokról a címzett nem szerzett tudomást, mégpedig az e küldeménynek az első postai kézbesítése megkísérlése napjától; ha ez nem állapítható meg, akkor a postai kézbesítés második megkísérlésének napjától számított ……, azaz (……) munkanapon. Ha ez sem állapítható meg, vagy a kézbesítés másodszori megkísérlésére nem is került sor, avagy a küldemény a feladóhoz „kézbesítés akadályozott” jelzéssel érkezik vissza, akkor azon a napon, amelyen a kézbesítetlen küldeményt a posta a feladónak visszaküldte. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.) és végrehajtási rendeleteiben meghatározott módon történt irattovábbítás esetén pedig a jognyilatkozatot a címzetthez megérkezettnek kell tekinteni az E-ügyintézési tv. szerinti feladási igazoláson szereplő befogadás időpontjában.
+Az Adós / Adósok és a Zálogkötelezett / Zálogkötelezettek / , valamint a Haszonélvező / Haszonélvezők kijelenti / kijelentik, hogy a Hitelező és a Zálogjogosult által az Adóshoz / Adósokhoz és a Zálogkötelezetthez / Zálogkötelezettekhez /, valamint a Haszonélvezőhöz / Haszonélvezőkhöz intézett azon írásbeli nyilatkozatokat, amelyeket a Kölcsönszerződésben / Zálogszerződésben feltüntetett levelezési címre, tértivevényes és ajánlott vagy egyéb könyvelt postai küldeményként szabályszerűen postára adtak, a címzettel közöltnek, részére – a címzett halálát kivéve – kézbesítettnek kell tekinteni akkor is, ha a küldemény ténylegesen kézbesíthető nem volt, vagy azokról a címzett nem szerzett tudomást, mégpedig az e küldeménynek az első postai kézbesítése megkísérlése napjától; ha ez nem állapítható meg, akkor a postai kézbesítés második megkísérlésének napjától számított ......, azaz (......) munkanapon. Ha ez sem állapítható meg, vagy a kézbesítés másodszori megkísérlésére nem is került sor, vagy a küldemény a feladóhoz „kézbesítés akadályozott” jelzéssel érkezik vissza, akkor azon a napon, amelyen a kézbesítetlen küldeményt a posta a feladónak visszaküldte. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.) és végrehajtási rendeleteiben meghatározott módon történt irattovábbítás esetén pedig a jognyilatkozatot a címzetthez megérkezettnek kell tekinteni az E-ügyintézési tv. szerinti feladási igazoláson szereplő befogadás időpontjában.
 
-[^18]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be.
-[^1.]: A / jellel jelölt vagylagosság estén kizárólag a megfelelő alakot kell feltüntetni.
-[^2.]: Kizárólag több adós félként való részvétele estén kell feltüntetni.
-[^3.]: Kizárólag a kölcsön céljának megfelelő meghatározást kell feltüntetni.
-[^4.]: Kizárólag a kölcsön jogalapját biztosító jogszabályt kell feltüntetni.
-[^5.]: Kizárólag az alkalmazandó fizetési határidőt kell feltüntetni.
-[^6.]: Kizárólag az alkalmazandó határidőt kell feltüntetni.
-[^7.]: Kizárólag a az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet / a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet / az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet / a gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
-[^8.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet / a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet / az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet / a gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
+V. Hiteles kiadmány
+
+Az Adós / Adósok és a Zálogkötelezett / Zálogkötelezettek /, valamint a Haszonélvező / Haszonélvezők (a továbbiakban: Ügyfél) akként rendelkeznek, hogy jelen közjegyzői okiratról hiteles kiadmány, másolat és bizonyítvány az Ügyfélnek, továbbá a Hitelezőnek és a Zálogjogosultnak adható ki.
+
+[^22]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be, szövege a 2/2021. (III. 29.) IM rendelet 1. §-ával megállapított szöveg.
+[^1.]: Az okiratminta kitöltése során tartalmi változtatásnak vagy kiegészítésnek nincs helye, annak szövege csak annyiban bővíthető, amennyiben a szöveg bővítését az okiratminta pontozott vonal használatával megengedi. A / jellel jelölt vagylagosság esetén kizárólag a megfelelő fordulatot kell feltüntetni, a többi törlendő. Az okiratmintából csak azok a szövegrészek hagyhatók el, amelyek elhagyását az okiratminta megengedi.
+[^2.]: Kizárólag több jogosult félként való részvétele esetén kell feltüntetni.
+[^3.]: Kizárólag több adós félként való részvétele esetén kell feltüntetni.
+[^4.]: Kizárólag akkor kell feltüntetni, ha az első esedékesség napja a hónap 29., 30. vagy 31. napjára esik, és a Kölcsönügylet tartalmaz erre vonatkozó rendelkezést.
+[^5.]: Kizárólag a felsorolt díjak, jutalékok és költségek tüntethetőek fel.
+[^6.]: Kizárólag akkor kell feltüntetni, ha a Kölcsönügylet tartalmaz erre vonatkozó rendelkezést.
+[^7.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet, valamint az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
+[^8.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet, valamint az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
+[^9.]: A haszonélvezőre vonatkozó szövegrészeket csak akkor kell feltüntetni, ha az ügyletben haszonélvező is szerepel, egyébként törlendő.
+[^10.]: Kizárólag több zálogkötelezett és/vagy haszonélvező félként való részvétele esetén kell feltüntetni.
+[^11.]: Kizárólag tulajdoni váromány esetén feltüntetendő.
+[^12.]: Több ingatlan esetén többször feltüntethető.
+[^13.]: Több ingatlan esetén többször feltüntethető.
+[^14.]: Kizárólag társasház-alapítás esetén kell feltüntetni.
+[^15.]: Zálogkötelezettenként feltüntetendő.
