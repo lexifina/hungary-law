@@ -4,4 +4,6 @@ a) Perényi Sigismund Petert a Partnerségi Megállapodás monitoring bizottság
 
 b) dr. Ágostházy Szabolcs Imrét, a Miniszterelnökség államtitkárát a Partnerségi Megállapodás monitoring bizottsága elnökévé – 2021. április 1-jei hatállyal – kinevezem.
 
-2. Visszavonom a Partnerségi Megállapodás monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 100/2019. (IX. 10.) ME határozatot.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
