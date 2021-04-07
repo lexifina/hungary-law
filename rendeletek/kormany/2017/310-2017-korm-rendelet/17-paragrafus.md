@@ -1,4 +1,4 @@
-17. § (1)[^28] A Kincstár feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer (a továbbiakban: IIER) működtetése és annak továbbfejlesztése. A Kincstár e feladatkörében működteti
+17. § (1)[^29] A Kincstár feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer (a továbbiakban: IIER) működtetése és annak továbbfejlesztése. A Kincstár e feladatkörében működteti
 
 a) az ügyfélnyilvántartási rendszert,
 
@@ -12,7 +12,7 @@ a) a szőlőültetvények országos térinformatikai nyilvántartása,
 
 b) az intervenciós raktárregiszter,
 
-c)[^29] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 9. § 17. pontja szerinti mezőgazdasági célú csekély összegű támogatások nyilvántartási rendszerének,
+c)[^30] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 9. § 17. pontja szerinti mezőgazdasági célú csekély összegű támogatások nyilvántartási rendszerének,
 
 d) a monitoring adat-nyilvántartási rendszer
 
@@ -22,5 +22,5 @@ működtetése.
 
 (4) A (3) bekezdés szerinti adatszolgáltatást a Nemzeti Élelmiszerlánc-biztonsági Hivatal köteles teljesíteni úgy, hogy az adatok az országosan egységes feladatellátást lehetővé tegyék.
 
-[^28]: A 17. § (1) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 39. §-a szerint módosított szöveg.
-[^29]: A 17. § (2) bekezdés c) pontja a 111/2020. (IV. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^29]: A 17. § (1) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^30]: A 17. § (2) bekezdés c) pontja a 111/2020. (IV. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
