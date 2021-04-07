@@ -1,6 +1,4 @@
-## 3/A. §[^12]
-
-4. §[^13] (1) Tilos a közterületen, illetve a nyilvános helyeken a csoportosulás, illetve a gyülekezés.
+4. §[^17] (1) Tilos a közterületen, illetve a nyilvános helyeken a csoportosulás, illetve a gyülekezés.
 
 (2) A közterületen, a nyilvános helyen, illetve a szabadtéri sportpályákon az egyéni szabadidős sporttevékenység – különösen futás, gyaloglás, kerékpározás – gyakorlása megengedett.
 
@@ -8,5 +6,4 @@
 
 (4) A (3) bekezdés szerinti védelmi intézkedést nem kell alkalmazni a sportról szóló törvény szerint versenyszerűen sportolók számára tartott edzés és sportrendezvény alkalmával.
 
-[^12]: A 3/A. §-t a 624/2020. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 3. §-a.
-[^13]: A 4. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^17]: A 4. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
