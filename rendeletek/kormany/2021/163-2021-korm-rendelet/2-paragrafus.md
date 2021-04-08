@@ -1,3 +1,5 @@
-## 1. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 2. § (2) bekezdésében a „közigazgatási” szövegrész helyébe a „közigazgatási vagy pénzügyi” szöveg lép.
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
