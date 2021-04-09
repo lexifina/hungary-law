@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1590-30
 | --- | --- | --- |
 | 2019-10-16 | 2019-1590-30-22.1 | 1590/2019. (X. 16.) Korm. határozat |
 | 2020-12-15 | 2019-1590-30-22.2 | 1911/2020. (XII. 15.) Korm. határozat |
+| 2021-04-09 | 2019-1590-30-22.3 | 1169/2021. (IV. 9.) Korm. határozat |
