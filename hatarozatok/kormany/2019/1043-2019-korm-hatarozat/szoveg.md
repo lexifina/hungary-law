@@ -1,36 +1,28 @@
 A Kormány
 
-1. egyetért azzal, hogy a 2019–2023. években a Hungarian Grand Prix WTA International női szabadtéri tenisztorna (a továbbiakban: Tenisztorna) Magyarországon kerüljön megrendezésre;
+1.[^1] egyetért azzal, hogy a 2021–2023. években a Hungarian Grand Prix WTA International női szabadtéri tenisztorna (a továbbiakban: Tenisztorna) Magyarországon kerüljön megrendezésre;
 
-2. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával a Tenisztorna rendezési jogának elnyerése esetén a Tenisztorna 2020–2023. években történő magyarországi megrendezéséhez gondoskodjon
-
-a) a 2020. évben 900 000 USD-nek megfelelő forintösszegű,
-
-b) a 2021. évben 900 000 USD-nek megfelelő forintösszegű,
-
-c) a 2022. évben 900 000 USD-nek megfelelő forintösszegű,
-
-d) a 2023. évben 900 000 USD-nek megfelelő forintösszegű
-
-forrás rendelkezésre állásáról az adott évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet javára;
+2.[^2] felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával, a Tenisztorna rendezési jogának elnyerése esetén a Tenisztorna 2021–2023. években történő magyarországi megrendezéséhez gondoskodjon évente 900 000 USD-nek megfelelő forintösszegű forrás rendelkezésre állásáról a 2021–2023. években az adott évi központi költségvetés XI. Miniszterelnökség fejezetében;
 
 Felelős: pénzügyminiszter
 
+Miniszterelnökséget vezető miniszter
+
+Határidő: az adott évi központi költségvetés tervezése során
+
+3.[^3] felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Tenisztorna rendezési jogának elnyerése esetén a Tenisztorna sikeres megrendezéséhez szükséges állami támogatással kapcsolatosan a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társasággal (a továbbiakban: Társaság) támogatási jogviszony létesítéséről, oly módon, hogy a Társaságot a fel nem használt állami támogatás kapcsán visszatérítési kötelezettség terhelje;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a 2021–2023. években a felmerülés ütemében
+
+4.[^4] felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost és a Miniszterelnökséget vezető minisztert, hogy egy ATP World Tour férfi tenisztorna magyarországi megrendezésének megvalósítása érdekében – az emberi erőforrások minisztere és a Társaság bevonásával – folytassanak tárgyalásokat a rendezési jog megszerzése érdekében, és készítsenek előterjesztést a megrendezéshez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
+
+Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
+
+Miniszterelnökséget vezető miniszter
+
 emberi erőforrások minisztere
-
-Határidő: a 2020–2023. években a központi költségvetés tervezése során
-
-3. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Tenisztorna rendezési jogának elnyerése esetén a Tenisztorna sikeres megrendezéséhez szükséges állami támogatással kapcsolatosan a Sportesemények Szervezéséért, Lebonyolításáért és Sportszolgáltatásért Felelős Nonprofit Korlátolt Felelősségű Társasággal (a továbbiakban: Társaság) támogatási jogviszony létesítéséről, oly módon, hogy a Társaságot a fel nem használt állami támogatás kapcsán visszatérítési kötelezettség terhelje;
-
-Felelős: emberi erőforrások minisztere
-
-Határidő: a 2019–2023. években a felmerülés ütemében
-
-4.[^1] felhívja az emberi erőforrások miniszterét, hogy egy ATP World Tour férfi tenisztorna magyarországi megrendezésének megvalósítása érdekében – a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos és a Társaság bevonásával – folytasson tárgyalásokat a rendezési jog megszerzése érdekében, és készítsen előterjesztést a megrendezéshez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
-
-Felelős: emberi erőforrások minisztere
-
-kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
 Határidő: 2021. december 31.
 
@@ -46,4 +38,7 @@ Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: folyamatos
 
-[^1]: A 4. pont az 1599/2020. (IX. 22.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1169/2021. (IV. 9.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1169/2021. (IV. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pont az 1169/2021. (IV. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 4. pont az 1169/2021. (IV. 9.) Korm. határozat 1. pontjával megállapított szöveg.
