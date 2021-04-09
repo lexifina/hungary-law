@@ -14,7 +14,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. március 16.
 
-3. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon – a Szerződés rendelkezéseivel összhangban és az abban rögzített ütemezés szerint – a Világbajnokság megrendezése érdekében a FINA részére fizetendő világbajnoksági díj, valamint a producer szolgáltatásaival és a hazai közvetítővel kapcsolatos költségek fedezésére szolgáló központi költségvetési támogatás biztosításáról a XX. Emberi Erőforrások Minisztériuma fejezet javára az alábbi bontás szerint:
+3.[^1] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon – a Szerződés rendelkezéseivel összhangban és az abban rögzített ütemezés szerint – a Világbajnokság megrendezése érdekében a FINA részére fizetendő világbajnoksági díj, valamint a producer szolgáltatásaival és a hazai közvetítővel kapcsolatos költségek fedezésére szolgáló központi költségvetési támogatás biztosításáról a XI. Miniszterelnökség fejezet javára, az alábbi bontás szerint:
 
 a) a 2021. évben 2 000 000 USD-nek megfelelő forintösszeg,
 
@@ -32,14 +32,17 @@ g) a 2027. évben 7 050 000 USD-nek megfelelő forintösszeg;
 
 Felelős: pénzügyminiszter
 
-emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
 
 Határidő: a 2021–2027. évekre, az adott évi központi költségvetés tervezése során
 
-4. felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztost, hogy – az emberi erőforrások miniszterének bevonásával – készítsen előterjesztést a Kormány részére a Világbajnokság megrendezésével kapcsolatos további intézkedésekről, egyéb költségekről és a szükséges költségvetési forrás biztosításáról.
+4.[^2] felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost, hogy – az emberi erőforrások minisztere bevonásával – készítsen előterjesztést a Kormány részére a Világbajnokság megrendezésével kapcsolatos további intézkedésekről, egyéb költségekről és a szükséges költségvetési forrás biztosításáról.
 
-Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
+Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
 
 emberi erőforrások minisztere
 
 Határidő: 2022. március 31.
+
+[^1]: A 3. pont az 1169/2021. (IV. 9.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1169/2021. (IV. 9.) Korm. határozat 9. pontjával megállapított szöveg.
