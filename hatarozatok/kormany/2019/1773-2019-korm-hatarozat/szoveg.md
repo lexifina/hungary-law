@@ -26,15 +26,16 @@ pénzügyminiszter
 
 Határidő: a 2021. évi központi költségvetés tervezése során
 
-f) felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Korm. határozat kapcsán a Nemzeti Sportközpontokkal fennálló támogatási jogviszony lezárásáról.
+f)[^1] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Korm. határozat kapcsán a Nemzeti Sportközpontokkal fennálló támogatási jogviszony lezárásáról.
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2020. december 31.
+Határidő: 2021. július 31.
 
-2.[^1]
+2.[^2]
 
-3.[^2]
+3.[^3]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont f) alpontja az 1169/2021. (IV. 9.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
