@@ -10,10 +10,10 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-3.[^1] felhívja az emberi erőforrások miniszterét, hogy a 2. pont alapján biztosított forrás terhére az Egyesület részére, az 1. pont szerinti célra – külön pályázat és kérelem benyújtása nélkül, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó támogatási előlegként – 2020. december 31-ig történő elszámolási kötelezettséggel költségvetési támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
+3.[^1] felhívja az emberi erőforrások miniszterét, hogy a 2. pont alapján biztosított forrás terhére az Egyesület részére, az 1. pont szerinti célra – külön pályázat és kérelem benyújtása nélkül, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó támogatási előlegként – 2021. június 30-ig történő elszámolási kötelezettséggel költségvetési támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: a 2. pont teljesülését követően azonnal
 
-[^1]: A 3. pont az 1599/2020. (IX. 22.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1169/2021. (IV. 9.) Korm. határozat 3. pontja szerint módosított szöveg.
