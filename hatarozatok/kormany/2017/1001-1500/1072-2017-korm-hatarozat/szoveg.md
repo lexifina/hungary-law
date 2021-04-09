@@ -2,9 +2,9 @@ A Kormány a három kiemelt területen benyújtandó, összesen négy tervezett 
 
 1. felhívja a nemzetgazdasági minisztert, hogy a LIFE integrált projektek megvalósítása érdekében – ha az Európai Bizottság azokat elfogadásra javasolja – gondoskodjon az évente szükséges önrész összegének, az egyes projektek zárásáig mindösszesen 11 231,4 millió forintnak a projektgazdák részére történő biztosításáról az alábbi bontás szerint:
 
-a) az éghajlat-politikai integrált projekt tekintetében legfeljebb 1922,0 millió forint a Nemzeti Fejlesztési Minisztérium fejezetben,
+a)[^1]
 
-b) a természetvédelmi és környezetvédelmi integrált projektek tekintetében legfeljebb 5709,4 millió forint a Földművelésügyi Minisztérium fejezetben,[^1]
+b) a természetvédelmi és környezetvédelmi integrált projektek tekintetében legfeljebb 5709,4 millió forint a Földművelésügyi Minisztérium fejezetben,[^2]
 
 c) a környezetvédelmi (vízgyűjtő-gazdálkodási) integrált projekt tekintetében legfeljebb 3600,0 millió forint a Belügyminisztérium fejezetben;
 
@@ -38,4 +38,5 @@ földművelésügyi miniszter
 
 Határidő: a 2018–2024. évi központi költségvetések tervezése során
 
-[^1]: Az 1683/2018. (XII. 15.) Korm. határozat 3. pontja alapján a központi költségvetés XII. Agrárminisztérium fejezetében legfeljebb 18 170 763 eurónak megfelelő forintösszeget szükséges biztosítani az évente teljesítendő hazai önrészhez.
+[^1]: Az 1. pont a) alpontját az 1170/2021. (IV. 9.) Korm. határozat 2. pontja visszavonta.
+[^2]: Az 1683/2018. (XII. 15.) Korm. határozat 3. pontja alapján a központi költségvetés XII. Agrárminisztérium fejezetében legfeljebb 18 170 763 eurónak megfelelő forintösszeget szükséges biztosítani az évente teljesítendő hazai önrészhez.
