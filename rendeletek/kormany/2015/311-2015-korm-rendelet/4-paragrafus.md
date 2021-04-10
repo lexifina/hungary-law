@@ -2,36 +2,52 @@
 
 ## 2. Az Intézet feladatai
 
-4. § (1) Az Intézet kutató-, fejlesztő-, szellemi központként a kormányzat, a felsőoktatási és egyéb kutató intézetek, valamint a vállalatok közötti együttműködés hatékonyságának javítása, valamint egyes állami tervezési és döntés-előkészítési feladatok ellátása céljából
+4. § (1)[^2] Az Intézet kutató-, fejlesztő-, szellemi központként a kormányzat, a felsőoktatási és egyéb kutatóintézetek, valamint a vállalatok közötti együttműködés hatékonyságának javítása, továbbá egyes állami tervezési és döntés-előkészítési feladatok ellátása céljából
 
-a) hozzájárul a nemzetközi interdiszciplináris kutatásokhoz való felzárkózást elősegítő kutatások szervezéséhez és megvalósításához a társadalomtudományok, a bölcsészet, a művészetek, valamint a hozzájuk kapcsolódó műszaki és természettudományok terén, különös tekintettel a társadalmi újítás, a fenntarthatóság, a technikai innováció, közép-európai regionális kutatások szempontjából kulcsfontosságú tématerületek átfogó elemzésével,
+a) hozzájárul a nemzetközi interdiszciplináris kutatásokhoz való felzárkózást elősegítő kutatások szervezéséhez és megvalósításához a társadalomtudományok, a bölcsészet, a művészetek, műszaki és természettudományok, valamint az adattudományok terén, különös tekintettel a társadalmi újítás, a fenntarthatóság, a hálózatkutatás, a technikai innováció, a közép-európai regionális kutatások szempontjából kulcsfontosságú tématerületek átfogó elemzésével,
 
 b) az a) pontban meghatározott tudományágakban elemzéseket és javaslatokat dolgoz ki a Kormány számára,
 
-c) gondoskodik a nyugat-pannon régió irodalmának kutatását és bemutatását végző, valamint összeurópai művészeti kezdeményezésekben részt vállaló Pannon Irodalom és Művészetek Háza működtetéséről,
+c) hozzájárul a nyugat-pannon régió irodalmának, történelmének, helytörténetének, művészetének, vallási életének kutatásához és bemutatásához, valamint összeurópai művészeti kezdeményezésekben vesz részt a Pannon Irodalom és Művészetek Háza működtetésével,
 
 d) a „Kreatív város – fenntartható vidék” kutatás feladatai keretében
 
-da) a „Kreatív város – fenntartható vidék” kutatás (KRAFT) mint a kreatív integratív fejlesztési koncepciót adaptálja Magyarország más határrégióira, valamint
+da) a „Kreatív város – fenntartható vidék” kutatást (KRAFT) mint a kreatív integratív fejlesztési koncepciót adaptálja Magyarország más határrégióira, valamint
 
-db) nyomon kíséri a da) alpontban meghatározott fejlesztések eredményeként jelentkező változásokat, valamint értékeli azok hatásait,
+db) nyomon követi a da) alpontban meghatározott fejlesztések által indukált változásokat, valamint értékeli azok hatásait,
 
-e) az alkalmazott adattudományi kutatások feladatai keretében
+dc) közreműködik régiós együttműködések kialakításában, működtetésében, valamint koordinálja a Pannon Városok Szövetségének tevékenységét,
 
-ea) nyílt adat- és közösségi informatika kutatást,
+e) a „Fenntartható társadalom – fenntartható környezet”, a környezeti fenntarthatóság és az ökológiai társadalom előmozdítását szolgáló kutatások keretében
 
-eb) a digitális bölcsészet, kulturális örökség és fenntarthatóság kutatást
+ea) a környezeti elemek védelme és a társadalom számára nyújtott ökoszisztéma szolgáltatási kutatást végez,
 
-## végez, valamint
+eb) az ember és környezete kapcsolatait feltáró kutatást végez, különös tekintettel az éghajlatváltozással, a víz- és talajkészletekkel való kapcsolatokat vizsgáló kutatásra,
 
-f) gondoskodik a Hankiss Elemér bibliográfia összegyűjtéséről és a Hankiss Elemér életműve által érintett tudományterületeken kutatást végző Hankiss Elemér Kutatói Archívum működtetéséről,
+ec) környezetinformatikai kutatás-fejlesztést végez,
 
-g) az a)–f) pontokban foglalt feladatai ellátásán túl a Kormány által meghatározott egyéb kutatási témakörbe tartozó feladatokat végez,
+ed) körkörös, fenntartható gazdaságfejlesztési kutatást végez,
 
-h) kiadói feladatokat lát el a kidolgozott kutatási eredmények, elemzések nyilvánosságra hozatala és népszerűsítése érdekében, valamint
+f) az alkalmazott adattudományi kutatások feladatai keretében
 
-i) online folyóirat adatbázisokat épít ki a kutatási munka támogatása céljából.
+fa) nyílt adat- és közösségi informatikai kutatást végez,
+
+fb) adattudományi kutatásokat, elemzéseket végez a gazdaságot támogató folyamatok tervezésére, az ellátási rendszerek hatékonyságának javítására, a társadalmi fenntarthatóság elősegítésére,
+
+fc) adatgyűjtő és -elemző platformokat hoz létre és üzemeltet,
+
+fd) digitális bölcsészet, kulturális örökség és fenntarthatóság kutatást végez, valamint
+
+g) gondoskodik a Hankiss Elemér bibliográfia összegyűjtéséről és Hankiss Elemér életműve által érintett tudományterületeken kutatást végző Hankiss Elemér Kutatói Archívum működtetéséről,
+
+h) az a)–g) pontban foglalt feladatai ellátásán túl a Kormány által meghatározott egyéb kutatási témakörbe tartozó feladatokat végez,
+
+i) kiadói feladatokat lát el a kidolgozott kutatási eredmények, elemzések nyilvánosságra hozatala és népszerűsítése érdekében, valamint
+
+j) online folyóirat- és egyéb adatbázisokat épít ki a kutatási munka támogatása céljából.
 
 (2) Az Intézet tevékenységét nemzeti és nemzetközi működési körben látja el.
 
 (3) Az Intézet főigazgatója a feladatkörében meghatározott célból, feladatkörében eljárva – személyes adatnak és magántitoknak minősülő adatokat kivéve – az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
+
+[^2]: A 4. § (1) bekezdése a 171/2021. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
