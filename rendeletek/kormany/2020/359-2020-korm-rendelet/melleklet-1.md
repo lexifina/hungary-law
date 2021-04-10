@@ -1,4 +1,4 @@
-## 5. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+## 6. §[^3] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3/A. és 3/B. §-át, valamint 2. mellékletét a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 359/2020. (VII. 23.) Korm. rendelethez
 
@@ -51,3 +51,6 @@
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 6. §-t a 174/2021. (IV. 9.) Korm. rendelet 8. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2021. április 10.
