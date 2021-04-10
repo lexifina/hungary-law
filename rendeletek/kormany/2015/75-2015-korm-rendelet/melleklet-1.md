@@ -1,4 +1,4 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+## 7. §[^3] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr.) módosított 2. mellékletét a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 75/2015. (III. 30.) Korm. rendelethez
 
@@ -45,3 +45,6 @@
 20. földvédelmi hatósági eljárások,
 
 21. azok, az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek.
+
+[^3]: A 7. §-t a 174/2021. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2021. április 10.
