@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad Magyarország Kormánya és az Ománi Szultánság Kormánya között a felsőoktatás területén megkötött Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
