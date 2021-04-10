@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2021-02-28 | 2018-141-20-22.46 | 98/2021. (II. 27.) Korm. rendelet |
 | 2021-03-23 | 2018-141-20-22.47 | 136/2021. (III. 22.) Korm. rendelet |
 | 2021-03-24 | 2018-141-20-22.48 | 176/2018. (IX. 27.) Korm. rendelet |
+| 2021-04-10 | 2018-141-20-22.49 | 174/2021. (IV. 9.) Korm. rendelet |

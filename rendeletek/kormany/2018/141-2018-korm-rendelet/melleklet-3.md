@@ -126,6 +126,8 @@
 
 | 61. | Logisztikai csarnok létrehozására irányuló beruházás Ecser területén | Ecser közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Ecser belterület 1370, 1371, 1372/3, 1373, 1374, 1405, 1406, 1407, 1408 és 1409 helyrajzi számú ingatlanok. | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^136]
+| 62. | Gazdaság-fejlesztési beruházás Debrecen területén | Debrecen közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0495/230 és 0495/232 helyrajzi számú ingatlanok | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^136]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^142]
+
+[^142]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

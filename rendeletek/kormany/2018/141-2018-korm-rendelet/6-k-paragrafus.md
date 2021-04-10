@@ -1,4 +1,4 @@
-6/K. §[^33] (1) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(9) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési eszköz vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(9) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azokat korlátozza, illetve azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszköz vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
+6/K. §[^36] (1) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(9) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési eszköz vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(9) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azokat korlátozza, illetve azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszköz vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
 
 (2) A Balatonvilágos belterület 292, 295/5, 297, 301/1, 302 és 303/2 helyrajzi számú telkekre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -148,7 +148,7 @@ mb) (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a zöldfelület
 
 mc) (6) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy az érintett területen vendéglátás, vegyes, üdülő és szálláshely rendeltetésű épületek és ezeket kiszolgáló építmények is elhelyezhetők.
 
-(7)[^34]
+(7)[^37]
 
 (8) A Balatonvilágos belterület 1412 helyrajzi számú telekre meghatározott sajátos beépítési szabályok:
 
@@ -180,5 +180,5 @@ m) magánút korlátozás nélkül létesíthető.
 
 (9) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkek és az azokból telekalakítással kialakításra kerülő telkek közterületként, illetve közútként nem alakíthatók ki.
 
-[^33]: A 6/K. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
-[^34]: A 6/K. § (7) bekezdését a 136/2021. (III. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^36]: A 6/K. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 6/K. § (7) bekezdését a 136/2021. (III. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
