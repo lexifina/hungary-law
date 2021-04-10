@@ -36,6 +36,8 @@
 
 | 17. | kézilabda munkacsarnok-fejlesztés | Nagyhalász közigazgatási területén fekvő, belterület 1603/3 helyrajzi számú ingatlan |
 
+| 18. | kézilabda munkacsarnok-fejlesztés | Budapest XVI. kerület közigazgatási területén fekvő, belterület 106868/4 helyrajzi számú ingatlan |
+
 2. melléklet a 224/2018. (XI. 29.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek

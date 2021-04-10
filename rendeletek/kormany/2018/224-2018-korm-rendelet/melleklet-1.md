@@ -1,6 +1,7 @@
-## 7. §[^3] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 617/2020. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (3) és (4) bekezdését a Módr1. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^5] E rendeletnek az egyes sportcélú beruházásokat érintő kormányrendeletek módosításáról szóló 173/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. mellékletét a Módr2. hatálybalépésekor[^6] folyamatban lévő ügyekben, eljárásokban is alkalmazni kell.
 
-1. melléklet a 224/2018. (XI. 29.) Korm. rendelethez
+1. melléklet a 224/2018. (XI. 29.) Korm. rendelethez[^7]
 
-[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 617/2020. (XII. 21.) Korm. rendelet 4. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2020. december 22.
+[^5]: A 8. §-t a 173/2021. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2021. április 10.
+[^7]: Az 1. melléklet a 173/2021. (IV. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
