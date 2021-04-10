@@ -1,0 +1,1 @@
+## 3. § A Kézilabda Munkacsarnok-fejlesztési Program beruházásainak megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 224/2018. (XI. 29.) Korm. rendelet (a továbbiakban: R2.) 1. melléklete a 2. melléklet szerint módosul.
