@@ -24,4 +24,6 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a 2022–2029. év tekintetében az adott évi központi költségvetés tervezése során
 
-2. visszavonja a LIFE integrált és hagyományos projektek megvalósításához szükséges költségvetési feltételek megteremtéséről szóló 1072/2017. (II. 10.) Korm. határozat 1. pont a) alpontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
