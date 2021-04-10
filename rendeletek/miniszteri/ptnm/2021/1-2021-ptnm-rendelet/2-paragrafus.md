@@ -1,0 +1,3 @@
+## 1. § E rendelet hatálya a központi költségvetés XLVII. Gazdaságvédelmi Alap fejezetébe sorolt azon fejezeti kezelésű előirányzatra és központi kezelésű előirányzatokra (a továbbiakban: előirányzatok) terjed ki, amelyek esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet I. pont 41. alpont a) pontja alapján a fejezetet irányító szerv vezetője a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 151. § (1) bekezdése szerinti tagja (a továbbiakban: miniszter).
+
+## 2. Felhasználásra vonatkozó általános szabályok
