@@ -1,4 +1,4 @@
-## 43. § Hatályát veszti a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter irányítása alá tartozó központi kezelésű előirányzat kezeléséről és felhasználásáról szóló 1/2017. (X. 31.) PTNM rendelet.
+## 43. §[^1]
 
 1. melléklet az 1/2021. (IV. 9.) PTNM rendelethez
 
@@ -19,3 +19,5 @@ A XLVII. Gazdaságvédelmi Alap fejezetbe sorolt, a Paksi Atomerőmű két új b
 | 6. | 387051 | 2 Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |
 
 | 7. | 368840 |  | 2/2 Közép-Duna menti térségfejlesztési feladatok | Az előirányzat a Közép-Duna menti térségfejlesztési – beleértve többek között az infrastruktúra-fejlesztési, innovációs, lokalizációs, képzési – feladatok megvalósításához szükséges forrást biztosítja. A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható. | helyi önkormányzat, helyi önkormányzati társulás, helyi önkormányzat által fenntartott intézmény, köztestület, gazdasági társaság, központi költségvetési szerv, alapítvány, egyesület, nonprofit, valamint közhasznú jogállású szervezet | jogszabály vagy – pályázati rendszeren kívül, kérelemre hozott – egyedi döntés alapján támogatási szerződéssel vagy támogatói okirattal | előleg biztosítható | egyösszegű kifizetéssel vagy időarányos vagy teljesítésarányos részletekben történő kifizetéssel | szerződés vagy okirat szerint | az Ávr. 84. § (2) bekezdése alapján, a költségvetési támogatás összegét meghaladó biztosítéki értékig vagy összeghatár megjelölése nélkül | – | igénybe vehető | – |
+
+[^1]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
