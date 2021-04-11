@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-154-20-
 | --- | --- | --- |
 | 2021-03-28 | 2021-154-20-22.1 | 154/2021. (III. 27.) Korm. rendelet |
 | 2021-04-02 | 2021-154-20-22.2 | 160/2021. (IV. 1.) Korm. rendelet |
+| 2021-04-11 | 2021-154-20-22.3 | 271/2021. (V. 21.) Korm. rendelet |
