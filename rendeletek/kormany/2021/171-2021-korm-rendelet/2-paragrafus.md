@@ -1,3 +1,3 @@
-## 1. § A Felsőbbfokú Tanulmányok Intézete létrehozásáról szóló 311/2015. (X. 28.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(2) A főigazgatót munkájában két főigazgató-helyettes segíti. A főigazgató-helyetteseket 5 évre a miniszter nevezi ki és menti fel. A főigazgató-helyettesek felett az egyéb munkáltatói jogokat a főigazgató gyakorolja.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
