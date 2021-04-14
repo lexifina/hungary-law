@@ -18,7 +18,7 @@ e)[^80] a gépjármű vezetésére jogosító vezetői engedély megszerzésére
 
 f)[^81] a vizsgára való jelentkezésig – a Bizonylati Album szerinti azonosítók szerepeltetésével – a külön jogszabályban meghatározott módon az igazgatási szolgáltatási díjat képző szerv útján vagy közvetlenül megfizette,
 
-g)[^82] meglévő vezetői engedélyét – figyelembe véve a (3) bekezdésben foglaltakat – a vizsgán bemutatja.
+g)[^82] a meglévő vezetői engedélyét – figyelembe véve a (3) bekezdésben foglaltakat – (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot, annak adatlapon feltüntetett érvényességi idején belül) a vizsgán bemutatja.
 
 (2) Az (1) bekezdésben meghatározott feltételek teljesítése esetében is kizárólag az bocsátható elméleti vizsgára, akinek a közlekedési igazgatási hatóság vagy külön jogszabályban[^83] meghatározott külföldi hatóság által kiállított:
 
@@ -68,7 +68,7 @@ b) a közúti közlekedési nyilvántartás engedély-nyilvántartása alapján 
 [^79]: A 10. § (1) bekezdés d) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^80]: A 10. § (1) bekezdés e) pontját az 58/2011. (XI. 24.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 45/2013. (VIII. 7.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^81]: A 10. § (1) bekezdés f) pontját a 45/2013. (VIII. 7.) NFM rendelet 7. § (3) bekezdése iktatta be.
-[^82]: A 10. § (1) bekezdés g) pontját a 45/2019. (XII. 20.) ITM rendelet 21. §-a iktatta be.
+[^82]: A 10. § (1) bekezdés g) pontját a 45/2019. (XII. 20.) ITM rendelet 21. §-a iktatta be, szövege a 15/2021. (IV. 9.) ITM rendelet 15. §-ával megállapított szöveg.
 [^83]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 16. § (2) bekezdés b) pontja.
 [^84]: A 10. § (2) bekezdés a) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (4) bekezdésével megállapított szöveg.
 [^85]: A 10. § (2) bekezdés c) pontja a 14/2015. (III. 31.) NFM rendelet 11. § e) pontja szerint módosított szöveg.

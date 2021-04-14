@@ -6,13 +6,13 @@
 
 ## 1. A kiállító hatóság megnevezése
 
-## 2. A jármű forgalmi rendszáma, gyártmánya, típusa, besorolása[^294]
+## 2. A jármű forgalmi rendszáma, gyártmánya, típusa, besorolása[^298]
 
 ## 3. A jogosultság tartalma
 
 ## 4. Kötelmek
 
-## 5.[^295] Hatály[^296]
+## 5.[^299] Hatály[^300]
 
 ## 6. Napló/tételszám
 
@@ -22,11 +22,11 @@
 
 ## 9. A kiállító hatóság bélyegzőlenyomata
 
-## 10.[^297]
+## 10.[^301]
 
 ## II. AZ OKTATÓJÁRMŰVEK MINŐSÍTŐ VIZSGÁLATÁNAK ELJÁRÁSI RENDJE
 
-## 1.[^298] Az oktatójárművek minősítő vizsgálata
+## 1.[^302] Az oktatójárművek minősítő vizsgálata
 
 ## A közúti járművezető-képzésben a vezetési gyakorlat tantárgy oktatására használt „B”, „C”, „D”, „T” kategóriás, a „B1”, „C1”, „D1” kategóriás, valamint a „BE”, „C1E”, „CE”, „D1E”, „DE” kombinált kategóriás oktatójármű járművekhez tartozó oktatójármű-igazolás kiadásához szükséges minősítő vizsgálatot a közlekedési hatóság végzi.
 
@@ -38,7 +38,7 @@
 
 ## A vizsgálat költségeit – amelyet a kérelmező visel – a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló miniszteri rendelet alapján kell meghatározni és befizetni.
 
-## 2.[^299] Az oktatójármű-igazolás kiadása, érvényesítése
+## 2.[^303] Az oktatójármű-igazolás kiadása, érvényesítése
 
 ## Ha a minősítő vizsgálat során a jármű az e mellékletben foglaltaknak megfelel, akkor a járműre az e melléklet szerinti oktatójármű-igazolást kell kiadni, illetőleg annak érvényességét meg kell hosszabbítani.
 
@@ -52,7 +52,7 @@
 
 ## Ha a vizsgálat alapján a jármű az oktatási, vizsgáztatási feltételeknek nem felel meg, akkor az oktatójármű-igazolás kiadását határozatban el kell utasítani.
 
-## III.[^300] AZ OKTATÁSBAN HASZNÁLT JÁRMŰVEK KÖVETELMÉNYEI
+## III.[^304] AZ OKTATÁSBAN HASZNÁLT JÁRMŰVEK KÖVETELMÉNYEI
 
 ## ÉS VIZSGÁLATA
 
@@ -64,7 +64,7 @@
 
 ## b) az ellenőrzött szerkezeti egységeinek, illetőleg a kezelőszerveinek működése bizonytalan.
 
-## 2.[^301] A járművek terhelhetősége (szállítható személyek száma), sebességadatai, méretei
+## 2.[^305] A járművek terhelhetősége (szállítható személyek száma), sebességadatai, méretei
 
 ## A forgalmi engedély alapján ellenőrizni kell, hogy a járművek terhelhetősége megfelel-e az előírásoknak.
 
@@ -126,13 +126,13 @@
 
 ## PRÓBAPADI ELLENŐRZÉS: tengelyenként a próbapadra állva a vezetőülésből, majd az oktatóülésből kell fékezni.
 
-## 5.[^302] Menetíró készülék (tachográf)
+## 5.[^306] Menetíró készülék (tachográf)
 
 ## Az oktatási célú használatra megfelelő a menetíró, ha
 
 ## – megfelel a 6/1990. (IV. 12.) KöHÉM rendeletben előírtaknak,
 
-## –[^303] beszerelése a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a közlekedésért felelős miniszter által vezetett minisztérium honlapján közzétett (a közlekedési hatóságnál nyilvántartott) szakműhelyben történt,
+## –[^307] beszerelése a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a közlekedésért felelős miniszter által vezetett minisztérium honlapján közzétett (a közlekedési hatóságnál nyilvántartott) szakműhelyben történt,
 
 ## – az oktatójármű a minősítő vizsgán megfelelt.
 
@@ -156,9 +156,9 @@
 
 ## Abban az esetben, ha 2003. december 1-je előtt oktatásba bevont vonójárműhöz kapcsolt – a vonójárműhöz illeszkedő, de korábban oktatás céljára nem használt – új (korszerű) pótkocsival járműszerelvény oktató jármű megvizsgálására kerül sor, a 4. melléklet előírásai szerint kell eljárni.
 
-## A vizsgálat során különös figyelemmel kell lenni a fékezésre vonatkozó külön jogszabály[^304] előírásainak teljesítésére.
+## A vizsgálat során különös figyelemmel kell lenni a fékezésre vonatkozó külön jogszabály[^308] előírásainak teljesítésére.
 
-## 8.[^305] A „T” tábla
+## 8.[^309] A „T” tábla
 
 ## Szemrevételezéssel, szükség esetén mérőeszközzel ellenőrizni kell a „T” jelű tábla és az „Autósiskola” felirat felirat meglétét. A jogszabályi értéktől eltérés ±10%-ig elfogadott. A „T” tábla színe a közlekedési jelzőtáblák kék színéhez hasonló legyen. „T” jelű táblának és „Autósiskola” feliratnak kell elfogadni a járműre ragasztott öntapadó fóliát vagy festést is. Szemrevételezéssel kell meggyőződni arról, hogy legalább az „Autósiskola” felirat, valamint a „T” jelű tábla elölről és hátulról egyaránt jól látható.
 
@@ -172,21 +172,21 @@
 
 ## 9. A tűzoltó készülék
 
-## A tehergépkocsit, az autóbuszt, a mezőgazdasági vontatót és a trolibuszt fel kell szerelni a külön jogszabályban[^306] kötelezően előírt fajtájú és méretű tűzoltó készülékkel.
+## A tehergépkocsit, az autóbuszt, a mezőgazdasági vontatót és a trolibuszt fel kell szerelni a külön jogszabályban[^310] kötelezően előírt fajtájú és méretű tűzoltó készülékkel.
 
-7. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^307]
+7. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^311]
 
-[^294]: A 24/2005. (IV. 21.) GKM rendelet 4. melléklete alá tartozó oktatójármű. (Megjegyzés: A 4. melléklet hatálya alá tartozó jármű oktatójármű-igazolása 2009. december 31-ét követő érvényességgel nem állítható ki.)
-[^295]: A 6. melléklet I. pont 5. alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^296]: A vizsgálat időpontjától számított legfeljebb 2 év időtartam.
-[^297]: A 6. melléklet I. pont 10. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdése iktatta be, hatályon kívül helyezte a 45/2013. (VIII. 7.) NFM rendelet 21. § k) pontja.
-[^298]: A 6. melléklet II. pont 1. alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^299]: A 6. számú melléklet II. 2. pontja a 14/2015. (III. 31.) NFM rendelet 11. § k) pontja szerint módosított szöveg.
-[^300]: A 6. melléklet III. alcímének megjelölése a 45/2013. (VIII. 7.) NFM rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^301]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított, a 14/2015. (III. 31.) NFM rendelet 10. § j) pontja szerint módosított szöveg.
-[^302]: A 6. melléklet III. pont 5. alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^303]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcím 5. pontjának második franciabekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § g) pontja, a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 6. pontja, a 45/2013. (VIII. 7.) NFM rendelet 19. § (5) bekezdése szerint módosított szöveg.
-[^304]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 29–32. §-a.
-[^305]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 8. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 19. § (5) bekezdése szerint módosított szöveg.
-[^306]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 107. § (1)–(3) bekezdése.
-[^307]: A 7. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 12. pontja hatályon kívül helyezte.
+[^298]: A 24/2005. (IV. 21.) GKM rendelet 4. melléklete alá tartozó oktatójármű. (Megjegyzés: A 4. melléklet hatálya alá tartozó jármű oktatójármű-igazolása 2009. december 31-ét követő érvényességgel nem állítható ki.)
+[^299]: A 6. melléklet I. pont 5. alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^300]: A vizsgálat időpontjától számított legfeljebb 2 év időtartam.
+[^301]: A 6. melléklet I. pont 10. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdése iktatta be, hatályon kívül helyezte a 45/2013. (VIII. 7.) NFM rendelet 21. § k) pontja.
+[^302]: A 6. melléklet II. pont 1. alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^303]: A 6. számú melléklet II. 2. pontja a 14/2015. (III. 31.) NFM rendelet 11. § k) pontja szerint módosított szöveg.
+[^304]: A 6. melléklet III. alcímének megjelölése a 45/2013. (VIII. 7.) NFM rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^305]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított, a 14/2015. (III. 31.) NFM rendelet 10. § j) pontja szerint módosított szöveg.
+[^306]: A 6. melléklet III. pont 5. alpontja az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^307]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcím 5. pontjának második franciabekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § g) pontja, a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 6. pontja, a 45/2013. (VIII. 7.) NFM rendelet 19. § (5) bekezdése szerint módosított szöveg.
+[^308]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 29–32. §-a.
+[^309]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 8. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 19. § (5) bekezdése szerint módosított szöveg.
+[^310]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 107. § (1)–(3) bekezdése.
+[^311]: A 7. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 12. pontja hatályon kívül helyezte.

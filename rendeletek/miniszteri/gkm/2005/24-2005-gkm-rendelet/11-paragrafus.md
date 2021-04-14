@@ -14,7 +14,7 @@ e)[^97] a 3. számú melléklet 3.2.1. táblázatában meghatározott kötelező
 
 f)[^98] a vizsgára való jelentkezésig – a Bizonylati Album szerinti azonosítók szerepeltetésével – a külön jogszabályban meghatározott módon az igazgatási szolgáltatási díjat képző szerv útján vagy közvetlenül megfizette,
 
-g)[^99] meglévő vezetői engedélyét – figyelembe véve a (6) bekezdésben foglaltakat – a vizsgán bemutatja.
+g)[^99] a meglévő vezetői engedélyét – figyelembe véve a (6) bekezdésben foglaltakat – (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot, annak adatlapon feltüntetett érvényességi idején belül) a vizsgán bemutatja.
 
 (1a)[^100] Az (1) bekezdésben foglaltaktól eltérően „C” vagy „D” kategóriás rutinvizsgát, valamint biztonsági ellenőrzés és üzemeltetés vizsgát tehet az is, aki az előírt életkort még nem töltötte be, azonban forgalmi vizsgára „C” kategória esetén csak a 18. életév, „D” kategória esetén csak a 21. életév betöltése után bocsátható.
 
@@ -49,7 +49,7 @@ c) „C” kategóriás vizsgához – két évnél nem régebben szerzett – �
 [^96]: A 11. § (1) bekezdés d) pontja az 58/2011. (XI. 24.) NFM rendelet 12. § (2) bekezdésével megállapított, az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
 [^97]: A 11. § (1) bekezdés e) pontját a 45/2013. (VIII. 7.) NFM rendelet 8. § (1) bekezdése iktatta be.
 [^98]: A 11. § (1) bekezdés f) pontját a 45/2013. (VIII. 7.) NFM rendelet 8. § (2) bekezdése iktatta be.
-[^99]: A 11. § (1) bekezdés g) pontját a 45/2019. (XII. 20.) ITM rendelet 22. §-a iktatta be.
+[^99]: A 11. § (1) bekezdés g) pontját a 45/2019. (XII. 20.) ITM rendelet 22. §-a iktatta be, szövege a 15/2021. (IV. 9.) ITM rendelet 16. §-ával megállapított szöveg.
 [^100]: A 11. § (1a) bekezdését a 74/2016. (XII. 29.) NFM rendelet 6. §-a iktatta be.
 [^101]: A 11. § (2) bekezdése az 58/2011. (XI. 24.) NFM rendelet 12. § (3) bekezdésével megállapított szöveg.
 [^102]: A 11. § (3) bekezdés a) pontja a 85/2009. (XII. 30.) KHEM rendelet 6. §-ával megállapított, a 45/2013. (VIII. 7.) NFM rendelet 20. § c) pontja szerint módosított szöveg.

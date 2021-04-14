@@ -10,7 +10,7 @@
 
 (4) A közlekedési hatóság kérelemre a szakoktatói tevékenységét engedélyezi és névjegyzékbe veszi
 
-a)[^134] azt a szakoktatói vagy a 3. melléklet 2.5. pontjában meghatározott képesítéssel rendelkező jelentkezőt, aki az engedélyezés időpontjában megfelel az (5) bekezdésben és a 18. § (3) bekezdés a) pont aa) alpontjában meghatározott feltételeknek;
+a)[^134] azt a szakoktatói vagy a 3. melléklet 2.5. pontjában meghatározott képesítéssel rendelkező jelentkezőt, aki az engedélyezés időpontjában megfelel az (5) bekezdésben és a 18. § (3) bekezdés a) pont aa) alpontjában, valamint a 18. § (3) bekezdés c) pontjában meghatározott feltételeknek;
 
 b)[^135] korlátozással (legfeljebb egyévi időtartamra és kizárólag a szakoktató képzés elvégzéséhez szükséges tevékenységre) járművezetési gyakorlat oktatására azt a jelentkezőt, aki szakoktatói szaktanfolyam hallgatója és igazolja, hogy teljesítette a a közlekedésért felelős miniszter által tantervi és vizsgakövetelményben meghatározott követelményszintet, továbbá megfelel az (5) bekezdésben meghatározott követelményeknek.
 
@@ -30,7 +30,7 @@ e)[^137] a közlekedési hatóság a szakoktatói tevékenység végzésére von
 
 [^132]: A 16. §-t a 45/2019. (XII. 20.) ITM rendelet 29. § 2. pontja hatályon kívül helyezte.
 [^133]: A 17. § az 58/2011. (XI. 24.) NFM rendelet 18. §-ával megállapított szöveg.
-[^134]: A 17. § (4) bekezdés a) pontja a 45/2013. (VIII. 7.) NFM rendelet 20. § f) pontja szerint módosított szöveg.
+[^134]: A 17. § (4) bekezdés a) pontja a 15/2021. (IV. 9.) ITM rendelet 18. §-ával megállapított szöveg.
 [^135]: A 17. (4) bekezdés b) pontja a 45/2019. (XII. 20.) ITM rendelet 28. § 10. pontja szerint módosított szöveg.
 [^136]: A 17. § (5) bekezdés c) pontja a 45/2013. (VIII. 7.) NFM rendelet 20. § g) pontja szerint módosított szöveg.
 [^137]: A 17. § (5) bekezdés e) pontja az 55/2017. (XII. 27.) NFM rendelet 29. § a) pontja szerint módosított szöveg.

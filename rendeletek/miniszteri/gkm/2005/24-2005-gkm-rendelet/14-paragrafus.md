@@ -14,7 +14,7 @@
 
 (7)[^123]
 
-(8)[^124] Nem kell a (6) bekezdésben megfogalmazott körülményt feltüntetni azon kombinált kategóriára vonatkozó vizsgaigazoláson, amellyel kapcsolatos vonó járműre a vizsgázónak korlátozás nélküli (mechanikus váltós) vezetői engedélye van.
+(8)[^124] Nem kell a (6) bekezdésben megfogalmazott körülményt feltüntetni azon kombinált kategóriára vonatkozó vizsgaigazoláson, amellyel kapcsolatos vonó járműre a vizsgázónak korlátozás nélküli (mechanikus váltós) vezetői engedélye van. Nem kell a (6) bekezdésben megfogalmazott körülményt feltüntetni akkor sem, ha a vizsgázó már rendelkezik kézi sebességváltóval rendelkező jármű vezetésére jogosító engedéllyel a következő kategóriák legalább egyikében: „B”, „BE”, „C”, „CE”, „C1”, „C1E”, „D”, „DE”, „D1”, „D1E”.
 
 [^116]: A 14. § (1) bekezdése az 58/2011. (XI. 24.) NFM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^117]: A 14. § (2) bekezdését az 58/2011. (XI. 24.) NFM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
@@ -24,4 +24,4 @@
 [^121]: A 14. § (5) bekezdése a 74/2016. (XII. 29.) NFM rendelet 7. §-ával megállapított, az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja, az 5/2021. (I. 29.) ITM rendelet 4. § b) pontja szerint módosított szöveg.
 [^122]: A 14. § (6) bekezdése a 45/2013. (VIII. 7.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^123]: A 14. § (7) bekezdését a 74/2016. (XII. 29.) NFM rendelet 15. §-a újból hatályon kívül helyezte.
-[^124]: A 14. § (8) bekezdését a 45/2013. (VIII. 7.) NFM rendelet 10. § (2) bekezdése iktatta be.
+[^124]: A 14. § (8) bekezdését a 45/2013. (VIII. 7.) NFM rendelet 10. § (2) bekezdése iktatta be, szövege a 15/2021. (IV. 9.) ITM rendelet 17. §-ával megállapított szöveg.

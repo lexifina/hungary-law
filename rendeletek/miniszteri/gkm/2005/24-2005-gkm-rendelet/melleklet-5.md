@@ -1,4 +1,4 @@
-5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^293]
+5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^297]
 
 ## A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
@@ -22,7 +22,7 @@ A belsőégésű motor hengerűrtartalma legalább 120 cm3, elektromos meghajtá
 
 „A2” kategória
 
-Oldalkocsi nélküli motorkerékpár, amelynek hengerűrtartalma legalább 395 cm3, a motor teljesítménye legalább 20 kW, de nem több 35 kW-nál, a motorkerékpár teljesítmény/tömeg aránya nem haladja meg a 0,2 kW/kg-ot. Amennyiben a motorkerékpár elektromos motorral van felszerelve, annak teljesítmény/tömeg aránya legalább 0,15 kW/kg.
+Oldalkocsi nélküli motorkerékpár, amelynek hengerűrtartalma legalább 245 cm3, a motor teljesítménye legalább 20 kW, de nem több 35 kW-nál, a motorkerékpár teljesítmény/tömeg aránya nem haladja meg a 0,2 kW/kg-ot. Amennyiben a motorkerékpár elektromos motorral van felszerelve, a motor teljesítménye legalább 20 kW, de nem több 35 kW-nál, a motorkerékpár teljesítmény/tömeg aránya legalább 0,15 kW/kg.
 
 „B1” kategória
 
@@ -342,4 +342,4 @@ Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivé
 
 Az „AM” és „A” kategóriás, továbbá az „A1” és „A2” kategóriás gyakorlati képzés főoktatási szakaszában a kísérő szakoktatót szállító személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
-[^293]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^297]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított, a 15/2021. (IV. 9.) ITM rendelet 26. §-a szerint módosított szöveg.
