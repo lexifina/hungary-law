@@ -1,4 +1,4 @@
-## VI/A. Fejezet[^268]
+## VI/A. Fejezet[^269]
 
 ## A MUZEÁLIS JELLEGŰ JÁRMŰVEKRE VONATKOZÓ ELTÉRÉSEK
 
@@ -32,21 +32,21 @@ b) műszaki kivitele megegyezik a gyártásakor meghatározott jellemzőknek,
 
 c) műszaki és esztétikai állapota alapján alkalmas a típusának muzeális szempontú bemutatására.
 
-(4a)[^269] A (4) bekezdés b) pontjában meghatározott követelmény szempontjából figyelmen kívül kell hagyni az MR.-ben meghatározott követelmény teljesítése érdekében a járműre pótlólag felszerelt vagy kiegészítő világító- és fényjelző berendezéseket.
+(4a)[^270] A (4) bekezdés b) pontjában meghatározott követelmény szempontjából figyelmen kívül kell hagyni az MR.-ben meghatározott követelmény teljesítése érdekében a járműre pótlólag felszerelt vagy kiegészítő világító- és fényjelző berendezéseket.
 
 (5) A (4) bekezdésben meghatározott vizsgálati szempontoknak megfelelő muzeális jellegű járművet a Muzeális Minősítő Bizottság nyilvántartásba veszi, és a járművön rögzítendő regisztrációs táblával való megjelölését engedélyezi.
 
-(6)[^270] A muzeális jellegű jármű forgalomba helyezés előtti és időszakos vizsgálata a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal vizsgabiztosa által a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal vagy a Magyar Autóklub vizsgáló állomásán a – (4)–(5) bekezdésben meghatározott – muzeális minősítő vizsgálatot követő legfeljebb 60 napig végezhető el.
+(6)[^271] A muzeális jellegű jármű forgalomba helyezés előtti és időszakos vizsgálata a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal vizsgabiztosa által a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal vagy a Magyar Autóklub vizsgáló állomásán a – (4)–(5) bekezdésben meghatározott – muzeális minősítő vizsgálatot követő legfeljebb 60 napig végezhető el.
 
-(7)[^271] A muzeális jellegű jármű összeépítési- és egyedi forgalomba helyezése engedélyezési eljárása, továbbá forgalomba helyezés előtti és időszakos vizsgálata során a jármű gyártási időpontja alapján meghatározott műszaki követelményeket kell alkalmazni.
+(7)[^272] A muzeális jellegű jármű összeépítési- és egyedi forgalomba helyezése engedélyezési eljárása, továbbá forgalomba helyezés előtti és időszakos vizsgálata során a jármű gyártási időpontja alapján meghatározott műszaki követelményeket kell alkalmazni.
 
-(8)[^272] A muzeális jellegű jármű forgalomba helyezése – a műszaki konstrukciós jellemzői által indokolt korlátozások előírása mellett – abban az esetben is engedélyezhető, amennyiben a jármű – az eredeti, gyári műszaki jellemzői miatt – nem felel meg az MR.-ben a jármű fajtához tartozóan meghatározott műszaki feltételeknek.
+(8)[^273] A muzeális jellegű jármű forgalomba helyezése – a műszaki konstrukciós jellemzői által indokolt korlátozások előírása mellett – abban az esetben is engedélyezhető, amennyiben a jármű – az eredeti, gyári műszaki jellemzői miatt – nem felel meg az MR.-ben a jármű fajtához tartozóan meghatározott műszaki feltételeknek.
 
 (9) A muzeális jellegű jármű forgalmi engedélyének érvényességi idejét a forgalomban való részvétel feltételeként meghatározott korlátozások és a jármű fajtához e rendeletben meghatározottak alapulvételével kell megállapítani.
 
-(10) A Muzeális Minősítő Bizottság igazolása, továbbá a muzeális jellegű járműhöz kiadott – a (8) bekezdés szerinti esetleges korlátozásokat is tartalmazó – ,,Műszaki adatlap'' alapján a Nyilvántartó a járművet a külön jogszabály[^273] szerinti hatósági engedéllyel és jelzéssel látja el.
+(10) A Muzeális Minősítő Bizottság igazolása, továbbá a muzeális jellegű járműhöz kiadott – a (8) bekezdés szerinti esetleges korlátozásokat is tartalmazó – ,,Műszaki adatlap'' alapján a Nyilvántartó a járművet a külön jogszabály[^274] szerinti hatósági engedéllyel és jelzéssel látja el.
 
-(11)[^274] A Muzeális Minősítő Bizottság egy-egy tagját a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal, a Közlekedési Múzeum, a Történelmi Járművek Nemzetközi Szövetsége (a továbbiakban: F.I.V.A.[^275]) nemzeti képviselő szervezete[^276] és a Magyar Autóklub jelöli ki. A muzeális minősítő vizsgálat szervezése és a vizsgálat lefolytatásához szükséges műszaki, technológiai és adminisztratív feltételek biztosítása a Magyar Autóklub feladata.
+(11)[^275] A Muzeális Minősítő Bizottság egy-egy tagját a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal, a Közlekedési Múzeum, a Történelmi Járművek Nemzetközi Szövetsége (a továbbiakban: F.I.V.A.[^276]) nemzeti képviselő szervezete[^277] és a Magyar Autóklub jelöli ki. A muzeális minősítő vizsgálat szervezése és a vizsgálat lefolytatásához szükséges műszaki, technológiai és adminisztratív feltételek biztosítása a Magyar Autóklub feladata.
 
 (12) A Muzeális Minősítő Bizottság – a F.I.V.A. szabályaival összhangban – szabályzatban megállapítja a minősítési vizsgálat eljárási szabályait, így különösen:
 
@@ -58,18 +58,18 @@ c) a muzeális jellegű jármű tulajdonos változása során a muzeális minős
 
 d) a F.I.V.A. minősítés honosításának rendjét,
 
-e)[^277]
+e)[^278]
 
-(13)[^278]
+(13)[^279]
 
-[^268]: A VI/A. fejezetet (19/A. §-t) a 39/2002. (XII. 28.) GKM rendelet 8. §-a iktatta be.
-[^269]: A 19/A. § (4a) bekezdését a 18/2013. (V. 9.) NFM rendelet 11. § (1) bekezdése iktatta be.
-[^270]: A 19/A. § (6) bekezdése a 18/2013. (V. 9.) NFM rendelet 11. § (2) bekezdésével megállapított, a 12/2017. (IV. 24.) NFM rendelet 1. § b) pontja szerint módosított szöveg.
-[^271]: A 19/A. § (7) bekezdése a 18/2013. (V. 9.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^272]: A 19/A. § (8) bekezdése a 65/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.
-[^273]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet.
-[^274]: A 19/A. § (11) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) pontja, a 12/2017. (IV. 24.) NFM rendelet 1. § a) pontja szerint módosított szöveg.
-[^275]: F.I.V.A.: Fédération Internationale des Véhicules Anciens (Történelmi Járművek Nemzetközi Szövetsége).
-[^276]: A F.I.V.A. a Magyar Veteránautós és Motoros Szövetségnek (MAVAMSZ) adott nemzeti képviseleti jogot (ANF).
-[^277]: A 19/A. § (12) bekezdés e) pontját a 18/2013. (V. 9.) NFM rendelet 15. §-a hatályon kívül helyezte.
-[^278]: A 19/A. § (13) bekezdését a 18/2013. (V. 9.) NFM rendelet 15. §-a hatályon kívül helyezte.
+[^269]: A VI/A. fejezetet (19/A. §-t) a 39/2002. (XII. 28.) GKM rendelet 8. §-a iktatta be.
+[^270]: A 19/A. § (4a) bekezdését a 18/2013. (V. 9.) NFM rendelet 11. § (1) bekezdése iktatta be.
+[^271]: A 19/A. § (6) bekezdése a 18/2013. (V. 9.) NFM rendelet 11. § (2) bekezdésével megállapított, a 12/2017. (IV. 24.) NFM rendelet 1. § b) pontja szerint módosított szöveg.
+[^272]: A 19/A. § (7) bekezdése a 18/2013. (V. 9.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^273]: A 19/A. § (8) bekezdése a 65/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.
+[^274]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet.
+[^275]: A 19/A. § (11) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) pontja, a 12/2017. (IV. 24.) NFM rendelet 1. § a) pontja szerint módosított szöveg.
+[^276]: F.I.V.A.: Fédération Internationale des Véhicules Anciens (Történelmi Járművek Nemzetközi Szövetsége).
+[^277]: A F.I.V.A. a Magyar Veteránautós és Motoros Szövetségnek (MAVAMSZ) adott nemzeti képviseleti jogot (ANF).
+[^278]: A 19/A. § (12) bekezdés e) pontját a 18/2013. (V. 9.) NFM rendelet 15. §-a hatályon kívül helyezte.
+[^279]: A 19/A. § (13) bekezdését a 18/2013. (V. 9.) NFM rendelet 15. §-a hatályon kívül helyezte.
