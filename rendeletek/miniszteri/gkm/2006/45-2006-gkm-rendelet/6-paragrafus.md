@@ -1,3 +1,3 @@
-## A térségi, az elővárosi, a helyi és a városi működési engedély kiadásának eltérő feltételei[^34]
+## A térségi, az elővárosi, a helyi és a városi működési engedély kiadásának eltérő feltételei[^37]
 
-[^34]: A 6. §-t megelőző alcím az 59/2015. (IX. 30.) NFM rendelet 6. §-ával megállapított szöveg.
+[^37]: A 6. §-t megelőző alcím az 59/2015. (IX. 30.) NFM rendelet 6. §-ával megállapított szöveg.
