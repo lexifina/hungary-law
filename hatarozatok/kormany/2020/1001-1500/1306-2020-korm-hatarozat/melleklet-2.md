@@ -1,4 +1,4 @@
-| Sorszám | Település | Köznevelési intézmény | Fejlesztés |
+| Sorszám | Település | Köznevelési Intézmény | Fejlesztés |
 
 | 1. | Átány | Hanyi-menti Általános Iskola | Tornaszoba |
 
@@ -14,73 +14,73 @@
 
 | 7. | Csonkahegyhát | Gárdonyi Géza és Szegi Suli Általános Iskola | Tornaszoba |
 
-| 8. | Dorogháza | Aba Sámuel Általános Iskola Móra Ferenc Tagiskolája | Tornaszoba |
+| 8. | Csögle | Csöglei Általános Iskola | Tornaszoba |
 
-| 9. | Ecséd | Ecsédi Richter Gedeon Általános Iskola | Tornaszoba |
+| 9. | Dorogháza | Aba Sámuel Általános Iskola Móra Ferenc Tagiskolája | Tornaszoba |
 
-| 10. | Enese | Enesei Általános Iskola | „B” típusú tornaterem |
+| 10. | Ecséd | Ecsédi Richter Gedeon Általános Iskola | Tornaszoba |
 
-| 11. | Gyöngyöstarján | Gyöngyöstarjáni Általános Iskola | Tornaszoba |
+| 11. | Enese | Enesei Általános Iskola | „B” típusú tornaterem |
 
-| 12. | Hévízgyörk | Hévízgyörki Petőfi Sándor Általános Iskola | „A” típusú tornaterem |
+| 12. | Gyöngyöstarján | Gyöngyöstarjáni Általános Iskola | Tornaszoba |
 
-| 13. | Izsófalva | Izsó Miklós Általános Iskola | Tornaszoba |
+| 13. | Hévízgyörk | Hévízgyörki Petőfi Sándor Általános Iskola | „A” típusú tornaterem |
 
-| 14. | Kecskemét | Kecskeméti Corvin Mátyás Általános Iskola Kertvárosi Általános Iskolája | „A” típusú tornaterem |
+| 14. | Izsófalva | Izsó Miklós Általános Iskola | Tornaszoba |
 
-| 15. | Magyarhomorog | Magyarhomorogi Szabó Pál Általános Iskola | Tornaszoba |
+| 15. | Kecskemét | Kecskeméti Corvin Mátyás Általános Iskola Kertvárosi Általános Iskolája | „A” típusú tornaterem |
 
-| 16. | Magyarpolány | Magyarpolányi Kerek Nap Német Nemzetiségi Nyelvoktató Általános Iskola és Alapfokú Művészeti Iskola | Tornaszoba |
+| 16. | Magyarhomorog | Magyarhomorogi Szabó Pál Általános Iskola | Tornaszoba |
 
-| 17. | Mezőtárkány | Mezőtárkányi Általános Iskola | Tornaszoba |
+| 17. | Magyarpolány | Magyarpolányi Kerek Nap Német Nemzetiségi Nyelvoktató Általános Iskola és Alapfokú Művészeti Iskola | Tornaszoba |
 
-| 18. | Mocsa | Mocsai Arany János Általános Iskola | Tornaszoba |
+| 18. | Mezőtárkány | Mezőtárkányi Általános Iskola | Tornaszoba |
 
-| 19. | Nagykáta | Mátray Gábor Általános Iskola | „A” típusú tornaterem |
+| 19. | Mocsa | Mocsai Arany János Általános Iskola | Tornaszoba |
 
-| 20. | Nagykónyi | Würtz Ádám Általános Iskola Tamási Lajos Tagiskolája | Tornaszoba |
+| 20. | Nagykáta | Mátray Gábor Általános Iskola | „A” típusú tornaterem |
 
-| 21. | Nagymaros | Nagymarosi Kittenberger Kálmán Általános Iskola és Alapfokú Művészeti Iskola | „A” típusú tornaterem |
+| 21. | Nagykónyi | Würtz Ádám Általános Iskola Tamási Lajos Tagiskolája | Tornaszoba |
 
-| 22. | Nagyoroszi | Börzsöny Általános Iskola | Tornaszoba |
+| 22. | Nagymaros | Nagymarosi Kittenberger Kálmán Általános Iskola és Alapfokú Művészeti Iskola | „A” típusú tornaterem |
 
-| 23. | Nagyvázsony | Nagyvázsonyi Kinizsi Pál Német Nemzetiségi Nyelvoktató Általános Iskola | „A” típusú tornaterem |
+| 23. | Nagyoroszi | Börzsöny Általános Iskola | Tornaszoba |
 
-| 24. | Nyírpilis | Nyírpilisi Általános Iskola | Tornaszoba |
+| 24. | Nagyvázsony | Nagyvázsonyi Kinizsi Pál Német Nemzetiségi Nyelvoktató Általános Iskola | „A” típusú tornaterem |
 
-| 25. | Ostoros | Egri Kemény Ferenc Sportiskolai Általános Iskola Árpád Fejedelem Tagiskolája | Tornaszoba |
+| 25. | Nyírpilis | Nyírpilisi Általános Iskola | Tornaszoba |
 
-| 26. | Pétervására | Pétervásárai Tamási Áron Általános Iskola | „B” típusú tornaterem |
+| 26. | Ostoros | Egri Kemény Ferenc Sportiskolai Általános Iskola Árpád Fejedelem Tagiskolája | Tornaszoba |
 
-| 27. | Petőfiszállás | Petőfiszállási Petőfi Sándor Általános Iskola | Tornaszoba |
+| 27. | Pétervására | Pétervásárai Tamási Áron Általános Iskola | „B” típusú tornaterem |
 
-| 28. | Pilisszántó | Pilisszántói Szlovák Nemzetiségi Általános Iskola | Tornaszoba |
+| 28. | Petőfiszállás | Petőfiszállási Petőfi Sándor Általános Iskola | Tornaszoba |
 
-| 29. | Pilisszentkereszt | Pilisszentkereszti Szlovák Nemzetiségi Általános Iskola | Tornaszoba |
+| 29. | Pilisszántó | Pilisszántói Szlovák Nemzetiségi Általános Iskola | Tornaszoba |
 
-| 30. | Rábapaty | Rábapatyi Arany János Általános Iskola | Tornaszoba |
+| 30. | Pilisszentkereszt | Pilisszentkereszti Szlovák Nemzetiségi Általános Iskola | Tornaszoba |
 
-| 31. | Súr | Súri Arany János Általános Iskola | Tornaszoba |
+| 31. | Rábapaty | Rábapatyi Arany János Általános Iskola | Tornaszoba |
 
-| 32. | Sümegcsehi | Fazekas József Általános Iskola | Tornaszoba |
+| 32. | Súr | Súri Arany János Általános Iskola | Tornaszoba |
 
-| 33. | Szalonna | Szalonnai Kalász László Általános Iskola | Tornaszoba |
+| 33. | Sümegcsehi | Fazekas József Általános Iskola | Tornaszoba |
 
-| 34. | Szikszó | Szikszói Móricz Zsigmond Általános Iskola | Sportterem |
+| 34. | Szalonna | Szalonnai Kalász László Általános Iskola | Tornaszoba |
 
-| 35. | Szolnok | Szolnoki II. Rákóczi Ferenc Magyar–Német Két Tanítási Nyelvű Általános Iskola | „B” típusú tornaterem |
+| 35. | Szikszó | Szikszói Móricz Zsigmond Általános Iskola | Sportterem |
 
-| 36. | Szolnok | Varga Katalin Gimnázium | „C” típusú tornaterem |
+| 36. | Szolnok | Szolnoki II. Rákóczi Ferenc Magyar–Német Két Tanítási Nyelvű Általános Iskola | „B” típusú tornaterem |
 
-| 37. | Ugod | Ugodi Német Nemzetiségi Nyelvoktató Általános Iskola és Alapfokú Művészeti Iskola | „A” típusú tornaterem |
+| 37. | Szolnok | Varga Katalin Gimnázium | „C” típusú tornaterem |
 
-| 38. | Vácduka | Vácdukai Benedek Elek Általános Iskola | Tornaszoba |
+| 38. | Ugod | Ugodi Német Nemzetiségi Nyelvoktató Általános Iskola és Alapfokú Művészeti Iskola | „A” típusú tornaterem |
 
 | 39. | Vácszentlászló | Vácszentlászlói Szent László Általános Iskola | Tornaszoba |
 
 | 40. | Vámosújfalu | Vámosújfalui Általános Iskola | Sportterem |
 
-| 41. | Zalaszentiván | Egervári László Általános Iskola Zalaszentiváni Tagintézménye | Sportterem |
+| 41. | Zalaszentiván | Egervári László Általános Iskola Zalaszentiváni Telephelye | Sportterem |
 
 2. melléklet az 1306/2020. (VI. 12.) Korm. határozathoz
 

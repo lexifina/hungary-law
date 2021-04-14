@@ -36,4 +36,4 @@
 
 1. melléklet az 1306/2020. (VI. 12.) Korm. határozathoz[^1]
 
-[^1]: Az 1. melléklet az 1492/2020. (VIII. 11.) Korm. határozattal megállapított szöveg.
+[^1]: Az 1. melléklet az 1176/2021. (IV. 14.) Korm. határozat 2. pontjával megállapított szöveg.
