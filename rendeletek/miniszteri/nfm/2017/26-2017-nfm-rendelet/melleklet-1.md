@@ -70,12 +70,13 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 
 ## g)[^3] a hajózási hatóságnál nyilvántartott és iktatott kérelmen feltüntetett adatokon kívül a szállítás befejezésekor (kirakó kikötőbe történt megérkezés vagy az ország területének elhagyása), illetve nemzetközi szerződés szerinti adattovábbítás megtörténte után a veszélyes árut szállító hajók bejelentett adatai közül a hajót és a vezetőjét azonosító adatokat (név, tulajdonos, lajstromszám) törölni kell minden más nyilvántartásból, a többi adatot statisztikai célokra felhasználásra havonta az Innovációs és Technológiai Minisztériumnak kell átadni.”
 
-10. Az ADN Szabályzat 8.2.2.7.3.1 pontjának rendelkezéseit a következő kiegészítéssel kell alkalmazni:
+10.[^4] Az ADN Szabályzat 8.2.2.7.3.1 pontjának rendelkezéseit a következő kiegészítéssel kell alkalmazni:
 
-## „A tesztvizsgát a hajózási hatóság által delegált vizsgabizottság előtt kell megtartani.”
+## „A tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani.”
 
-11.[^4] Az ADN Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben, és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
+11.[^5] Az ADN Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben, és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
 
 [^2]: Az 1. melléklet 3. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
 [^3]: Az 1. melléklet 9. pont (4) bekezdés g) pontja a 20/2019. (VIII. 1.) ITM rendelet 6. § szerint módosított szöveg.
-[^4]: Az 1. melléklet 11. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 10. pont a 15/2021. (IV. 9.) ITM rendelet 50. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 11. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
