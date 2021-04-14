@@ -1,0 +1,3 @@
+## 22. § Az R3. 33/F. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A nyilvántartásból azonosítható „Gépjárművezetői képesítési igazolvány” tulajdonosának kérelme alapján a vizsgaközpont – a (3) bekezdésben meghatározott esetben – az érvényes vezetői engedély (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlap, annak adatlapon feltüntetett érvényességi idején belül) felmutatása mellett, a nyilvántartásban rögzített adatok felhasználásával a korábban kiadott „Gépjárművezetői képesítési igazolvány” helyett új „Gépjárművezetői képesítési igazolvány”-t ad ki. A (3) bekezdés b) pontjában meghatározott esetben a korábban kiadott „Gépjárművezetői képesítési igazolvány”-t bevonja.”

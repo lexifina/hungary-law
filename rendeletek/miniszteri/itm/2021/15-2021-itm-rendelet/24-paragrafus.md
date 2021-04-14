@@ -1,0 +1,3 @@
+## 23. § Az R3. 33/F. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) Ha a „Gépjárművezetői képesítési igazolvány”-ba bejegyzett adatok megváltoztak, a nyilvántartásból azonosítható „Gépjárművezetői képesítési igazolvány” tulajdonosának a 33/D. § (6) bekezdése alapján benyújtott kérelmére a vizsgaközpont – az érvényes vezetői engedély (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlap, annak adatlapon feltüntetett érvényességi idején belül) és az adatváltozást tanúsító okmány felmutatása mellett – a nyilvántartásban rögzített adatok felhasználásával a korábban kiadott „Gépjárművezetői képesítési igazolvány” egyidejű bevonása mellett új „Gépjárművezetői képesítési igazolvány”-t ad ki.”

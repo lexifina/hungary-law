@@ -1,0 +1,1 @@
+## 53. § Ez a rendelet a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv Melléklet b) pontjának való megfelelést szolgálja.
