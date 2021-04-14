@@ -1942,6 +1942,10 @@ f) a kikötőkben.
 
 2. Minden hajó köteles kellő távolságot tartani a 3.36 cikkben előírt jelzést viselő hajótól.
 
+6.38 cikk
+
+Az üzemeltetési engedéllyel rendelkező vízi járművel végzett személyszállításnak nem képezheti részét a hajóval végrehajtott, közlekedésbiztonsági vagy forgalmi okból nem indokolt – hirtelen, a megszokottnál gyorsabban végrehajtott fordulási, megállási, kitérési, irány- vagy sebességváltoztató – manőverek bemutatása.
+
 7. FEJEZET
 
 A VESZTEGLÉS SZABÁLYAI
@@ -2528,4 +2532,4 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 | 3.13 cikk 6. bekezdése: Gép- és vitorlás hajónak nem minősülő magányosan haladó kishajó minden oldalról látható szokásos fehér fény |
 
-[^2]: Az 1. melléklet a 42/2013. (VII. 19.) NFM rendelet 5–6. §-a, a 29/2014. (V. 5.) NFM rendelet 25. §-a, a 13/2020. (V. 8.) ITM rendelet 5. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 42/2013. (VII. 19.) NFM rendelet 5–6. §-a, a 29/2014. (V. 5.) NFM rendelet 25. §-a, a 13/2020. (V. 8.) ITM rendelet 5. §-a, a 15/2021. (IV. 9.) ITM rendelet 40. §-a szerint módosított szöveg.
