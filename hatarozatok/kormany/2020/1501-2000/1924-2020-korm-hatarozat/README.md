@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1924-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-17 | 2020-1924-30-22.1 | 1924/2020. (XII. 17.) Korm. határozat |
+| 2021-04-14 | 2020-1924-30-22.2 | 1178/2021. (IV. 14.) Korm. határozat |
