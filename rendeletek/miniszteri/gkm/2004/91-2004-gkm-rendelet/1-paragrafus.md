@@ -8,7 +8,7 @@ c) III. fejezete a gépjárműfenntartó szervezetek személyi és dologi felté
 
 d)[^2] IV. fejezete a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásáról szóló miniszteri rendeletben meghatározott hatósági eljárások
 
-igazgatási szolgáltatási díjait tartalmazza.
+## igazgatási szolgáltatási díjait tartalmazza.
 
 (2)[^3]
 

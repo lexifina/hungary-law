@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-91-20-0
 | 2017-01-29 | 2004-91-20-0L.18 | 75/2015. (XII. 29.) NFM rendelet |
 | 2017-04-25 | 2004-91-20-0L.19 | 81/2009. (XII. 29.) KHEM rendelet |
 | 2020-06-30 | 2004-91-20-0L.20 | 22/2020. (VI. 29.) ITM rendelet |
+| 2021-04-14 | 2004-91-20-0L.21 | 15/2021. (IV. 9.) ITM rendelet |
