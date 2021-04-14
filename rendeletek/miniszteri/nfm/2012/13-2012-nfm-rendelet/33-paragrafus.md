@@ -1,4 +1,4 @@
-## 32. §[^27]
+## 32. §[^33]
 
 ## VI. Fejezet
 
@@ -6,7 +6,7 @@
 
 33. § (1) Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba.
 
-(2)[^28]
+(2)[^34]
 
-[^27]: A 32. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § g) pontja hatályon kívül helyezte.
-[^28]: A 33. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 32. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § g) pontja hatályon kívül helyezte.
+[^34]: A 33. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

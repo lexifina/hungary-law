@@ -1,8 +1,8 @@
 ## 25. Jóváhagyott típustanfolyam és típusvizsga
 
-31. § (1)[^25] Légijármű típusvizsga esetében a légiközlekedési hatóság a 22. § (2) bekezdése szerinti szervezet részére arra a típusvizsgára adhat ki jóváhagyást, amely megfelel a Part-66 III. Függelék 5. pontjában meghatározott követelményeknek, és a kategóriának megfelelő jogosultságoknak megfelelő témaköröket fedi le.
+31. § (1)[^31] Légijármű típusvizsga esetében a légiközlekedési hatóság a 22. § (2) bekezdése szerinti szervezet részére arra a típusvizsgára adhat ki jóváhagyást, amely megfelel a Part-66 III. Függelék 5. pontjában meghatározott követelményeknek, és a kategóriának megfelelő jogosultságoknak megfelelő témaköröket fedi le.
 
-(2)[^26] Az (1) bekezdéstől eltérően 5700 kg-nál nagyobb maximális felszálló tömegű légijármű vagy több hajtóműves helikopter esetében a légiközlekedési hatóság arra a légijármű típustanfolyamra és típusvizsgára adhat ki jóváhagyást, amely megfelel a Part-66 III. Függelék 2., 3. és 4. pontjában foglalt követelményeknek.
+(2)[^32] Az (1) bekezdéstől eltérően 5700 kg-nál nagyobb maximális felszálló tömegű légijármű vagy több hajtóműves helikopter esetében a légiközlekedési hatóság arra a légijármű típustanfolyamra és típusvizsgára adhat ki jóváhagyást, amely megfelel a Part-66 III. Függelék 2., 3. és 4. pontjában foglalt követelményeknek.
 
 (3) A légiközlekedési hatóság arra a hajtómű típustanfolyamra és típusvizsgára adhat jóváhagyást, amelyik
 
@@ -32,5 +32,5 @@ bf) tanfolyami jegyzeteket nem szabad használni.
 
 (8) A légijármű vagy hajtómű típusvizsga jóváhagyásához a kérelmezőnek rendelkeznie kell az (1), (2) vagy (3) bekezdésben foglalt követelményeket biztosító vizsgakérdés adatbázissal.
 
-[^25]: A 31. § (1) bekezdése a 41/2012. (VII. 13.) NFM rendelet 4. §-ával megállapított szöveg.
-[^26]: A 31. § (2) bekezdése a 41/2012. (VII. 13.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^31]: A 31. § (1) bekezdése a 41/2012. (VII. 13.) NFM rendelet 4. §-ával megállapított szöveg.
+[^32]: A 31. § (2) bekezdése a 41/2012. (VII. 13.) NFM rendelet 5. §-a szerint módosított szöveg.

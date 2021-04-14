@@ -1,4 +1,4 @@
-## 5. §[^8]
+## 5. §[^10]
 
 6. § (1) Az e rendelet szerint kiadott szakszolgálati engedélyekről a légiközlekedési hatóság nyilvántartást vezet, amely a következőket tartalmazza:
 
@@ -16,4 +16,4 @@ b) c) pontjában említett dokumentumokat legalább öt évig meg kell őrizni.
 
 (3) Az engedélyes felelős azért, hogy a szakszolgálati engedélyben lévő adatok megegyezzenek a légiközlekedési hatóság nyilvántartásában szereplő adatokkal. Ennek érdekében az engedélyesnek az engedélyben szereplő adatok változását tizenöt napon belül be kell jelentenie a légiközlekedési hatóságnak. A légiközlekedési hatóság a bejelentés alapján módosítja az engedélyben szereplő adatokat.
 
-[^8]: Az 5. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § a) pontja hatályon kívül helyezte.
+[^10]: Az 5. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § a) pontja hatályon kívül helyezte.
