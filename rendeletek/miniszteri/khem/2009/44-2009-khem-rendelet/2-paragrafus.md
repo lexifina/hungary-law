@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya Magyarország Állami Légijármű Lajstromába felvett, nem gazdasági célú légiközlekedési tevékenység céljából üzemeltetett légijármű fedélzetén munkavállalóként vagy munkavégzésre irányuló egyéb jogviszony alapján – a légiutas-kísérő kivételével – hajózó szakszolgálatot teljesítőkre (a továbbiakan: hajózó) terjed ki.
+## 1. §[^1] E rendelet hatálya azon Magyarországon székhellyel rendelkező üzembentartókra terjed ki, amelyek olyan célból tartanak üzemben légijárművet, melyekre nézve a 965/2012/EU bizottsági rendelet 8. cikke szerint a repülési idő korlátozások vonatkozásában az adott tagállam nemzeti joga alkalmazandó.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -16,4 +16,4 @@ f) hosszú távú repülés: olyan repülés, ahol az indulási repülőtér és
 
 g) időzónaváltás: a légijárművel folytatott munkavégzés befejezésének helyén a helyi idő több mint három órával eltér a hajózó helyi idejétől.
 
-[^1]: Az 1. § a 91/2011. (XII. 30.) NFM rendelet 68. §-a szerint módosított szöveg.
+[^1]: Az 1. § a 15/2021. (IV. 9.) ITM rendelet 34. §-ával megállapított szöveg.
