@@ -1,15 +1,37 @@
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet a 22/2013. (V. 16.) NFM rendelethez
+1. melléklet a 22/2013. (V. 16.) NFM rendelethez[^17]
 
-A külső légiközlekedés védelmi minőségbiztosítási ellenőrző tevékenység átlagos éves gyakorisága
+|  | Audit | Ellenőrzés | Teszt |
 
-| A | B | C | D | E |
+|  | gyakoriság | időtartam | gyakoriság | időtartam | gyakoriság | időtartam |
 
-| Felülvizsgálat | Vizsgálat | Teszt |
+| több mint 2 millió utasforgalommal rendelkező repülőterek | évente | 3-5 munkanap | 6 alkalom/év | 1 nap | 20 | fél nap |
 
-| időtartam | gyakoriság | időtartam | gyakoriság | időtartam | gyakoriság |
+| több mint 500 00 utasforgalommal rendelkező repülőterek | 2 évente | 1-5 munkanap | 2 alkalom/év | 1 nap | 5 | fél nap |
 
-| 1. | 2 millió utas alatti forgalmat lebonyolító repülőtér és az ilyen repülőtérre szolgáltatást nyújtó szervezet. | 1 alkalom 1–2 nap | 2–3 évente | 1 alkalom 1–2 nap | évente | 1 alkalom 2–3 óra | 26 hetente |
+| kevesebb mint 500 00 utasforgalommal rendelkező repülőterek | 3 évente | 1-2 munkanap | évente legalább 1 szervezet | 1 nap | 1 | fél nap |
 
-| 2. | 2 millió utas feletti forgalmat lebonyolító repülőtér vagy az ilyen repülőtérre szolgáltatást nyújtó szervezet. | 1 alkalom 5–10 nap | évente | 6 alkalom 1–2 nap | évente | 1 alkalom 3–4 óra | negyedévente |
+| kis repülőterek | 5 évente | 1 munkanap | x |  | x |  |
+
+| földi kiszolgálói minősítéssel rendelkező meghatalmazott ügynök | 5 évente | 1 munkanap | évente legalább egy szervezet | fél nap | 6 | fél nap |
+
+| meghatalmazott ügynök | 5 évente | 1 munkanap | évente legalább két szervezet | fél nap | 2 | fél nap |
+
+| ismert szállítók | 5 évente | 1 munkanap | 2 évente legalább egy szervezet | fél nap | 2 | fél nap |
+
+| fedélzeti ellátmány meghatalmazott beszállítói | 5 évente | 1 munkanap | 2 évente legalább egy szervezet | fél nap | 2 | fél nap |
+
+| több mint 2000 főt foglalkoztató magyar AOC-val rendelkező légitársaságok | 3 évente | 1 munkanap | 2 évente | fél nap | 5 | fél nap |
+
+| kevesebb mint 2000 főt foglalkoztató magyar AOC-val rendelkező légitársaságok | 5 évente | 1 munkanap | 3 évente | fél nap | 2 | fél nap |
+
+| külföldi légitársaságok | x |  | legalább 20 légitársaság/év | fél nap | 20 | fél nap |
+
+| földi kiszolgálók | 5 évente | 1 munkanap | 3 évente | fél nap | x |  |
+
+| légiforgalmi irányító szolgálat | 3 évente | 1 munkanap | 3 évente | fél nap | x |  |
+
+| védelmi oktatók | x |  | legalább 5 oktató/év | fél nap | x |  |
+
+[^17]: Az 1. melléklet a 15/2021. (IV. 9.) ITM rendelet 49. §-ával megállapított szöveg.
