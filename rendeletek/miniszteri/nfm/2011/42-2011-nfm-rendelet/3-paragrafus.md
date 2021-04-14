@@ -44,6 +44,8 @@ b) a bírságot kiszabó, önálló költségvetési szervként létrehozott kö
 
 (6)[^13] A Kkt. 20. § (7) bekezdése szerinti pénzkövetelés biztosításának összegét az eljáró hatóság 1. melléklet szerinti számlájára kell befizetni.
 
+(7)[^14] A Bolgár Köztársaság, a Horvát Köztársaság, Magyarország és az Osztrák Köztársaság között a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértések miatt alkalmazott jogkövetkezmények határon átnyúló végrehajtásának elősegítéséről szóló Megállapodás alapján a határozatok határokon átnyúló végrehajtásából származó pénzösszeget az 1. melléklet 4. pont 17. sorában meghatározott számlára kell megfizetni.
+
 [^6]: A 2/B. §-t a 36/2017. (IX. 18.) NFM rendelet 31. § (1) bekezdése iktatta be.
 [^7]: A 3. § (2) bekezdés b) pont ba) alpontja a 47/2012. (VIII. 23.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (2) bekezdés d) pontját a 75/2015. (XII. 29.) NFM rendelet 26. §-a iktatta be.
@@ -52,3 +54,4 @@ b) a bírságot kiszabó, önálló költségvetési szervként létrehozott kö
 [^11]: A 3. § (4a) bekezdését a 31/2013. (VI. 18.) NFM rendelet 6. § (2) bekezdése iktatta be, szövege a 36/2017. (IX. 18.) NFM rendelet 31. § (2) bekezdésével megállapított, az 55/2017. (XII. 27.) NFM rendelet 47. § a) pontja szerint módosított szöveg.
 [^12]: A 3. § (5) bekezdését a 47/2012. (VIII. 23.) NFM rendelet 4. § (3) bekezdése iktatta be.
 [^13]: A 3. § (6) bekezdését a 41/2016. (X. 6.) NFM rendelet 1. §-a iktatta be.
+[^14]: A 3. § (7) bekezdését a 15/2021. (IV. 9.) ITM rendelet 36. §-a iktatta be.

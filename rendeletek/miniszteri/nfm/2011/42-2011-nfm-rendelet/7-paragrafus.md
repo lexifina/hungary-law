@@ -1,4 +1,4 @@
-## 6. §[^14]
+## 6. §[^15]
 
 7. § (1) A helyszínen kiszabott bírságról a 3. mellékletben meghatározott tartalmú tájékoztatót 2 példányban kell kiállítani. A tájékoztató kiállítása előtt a személyazonosító igazolványból vagy a személyazonosság igazolására szolgáló más okmányból meg kell állapítani a szabályszegő személyi adatait.
 
@@ -8,4 +8,4 @@
 
 (4) A tájékoztató eredeti példányát az eljáró hatóság öt évig megőrzi.
 
-[^14]: A 6. §-t a 12/2021. (III. 5.) ITM rendelet 17. §-a hatályon kívül helyezte.
+[^15]: A 6. §-t a 12/2021. (III. 5.) ITM rendelet 17. §-a hatályon kívül helyezte.

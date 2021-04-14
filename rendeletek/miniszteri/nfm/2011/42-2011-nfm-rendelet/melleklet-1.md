@@ -1,6 +1,6 @@
 ## 17. § Hatályát veszti a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet, valamint a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet módosításról szóló 15/2011. (IV. 27.) NFM rendelet.
 
-1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^23]
+1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^31]
 
 ## Az eljáró hatóságok számlaszámai
 
@@ -18,7 +18,7 @@
 
 | 3. | Közlekedési hatóság Borsod-Abaúj-Zemplén megyei központosított bevételek számla | 10032000-01040504-00000000 |
 
-| 4. | Közlekedési hatóság a Csongrád-Csanád megyei központosított bevételek számla | 10032000-01040528-00000000 |
+| 4. | Közlekedési hatóság Csongrád-Csanád megyei központosított bevételek számla | 10032000-01040528-00000000 |
 
 | 5. | Közlekedési hatóság Győr-Moson-Sopron megyei központosított bevételek számla | 10032000-01040542-00000000 |
 
@@ -102,10 +102,10 @@
 
 | 22. | Repülőtéri Rendőr Igazgatóság Központosított bírságbevételek | 10032000-01040322-00000000 |
 
-| 23. | ORFK Objektív felelősségen alapuló központosított bírságbevételek | 10032000-01040061-00000000 |
+| 23. | ORFK Központosított bírságbevételek | 10032000-01040061-00000000 |
 
 5. A Pénzügyminisztérium számlaszáma: 10032000-01460658-00000000
 
 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10032000-01040047-00000000 Közúti közlekedési bírság letéti számla.
 
-[^23]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a, a 22/2020. (VI. 29.) ITM rendelet 22. § (2) bekezdése, a 12/2021. (III. 5.) ITM rendelet 16. §-a szerint módosított szöveg.
+[^31]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a, a 22/2020. (VI. 29.) ITM rendelet 22. § (2) bekezdése, a 12/2021. (III. 5.) ITM rendelet 16. §-a, a 15/2021. (IV. 9.) ITM rendelet 38. § (2) bekezdése szerint módosított szöveg.

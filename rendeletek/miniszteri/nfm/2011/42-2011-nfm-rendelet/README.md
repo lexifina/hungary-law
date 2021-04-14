@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-42-20-2
 | 2019-11-05 | 2011-42-20-2W.14 | 31/2019. (XI. 4.) AB határozat |
 | 2020-06-30 | 2011-42-20-2W.15 | 22/2020. (VI. 29.) ITM rendelet |
 | 2021-03-06 | 2011-42-20-2W.16 | 12/2021. (III. 5.) ITM rendelet |
+| 2021-04-14 | 2011-42-20-2W.17 | 15/2021. (IV. 9.) ITM rendelet |

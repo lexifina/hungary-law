@@ -1,27 +1,31 @@
-4. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^25]
+4. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^33]
 
-## Írásbeli tájékoztatás a járművezető távollétében kiszabott közigazgatási bírságról
+## ÍRÁSBELI TÁJÉKOZTATÁS
 
-1. Az eljáró hatóság megnevezése, ügyszám (azonosító szám).
+## a járművezető távollétében kiszabott közigazgatási bírságról
 
-2. A jármű rendszáma.
+1. Az eljáró hatóság megnevezése, ügyszám (azonosító szám)
 
-3. A jármű üzemben tartójának adatai (személyazonosító adat, lakcím, nem természetes személy esetében cégnév, székhely vagy telephely).
+2. A gépjármű rendszáma
 
-4. Szabályszegés ideje.
+3. A gépjármű üzembentartójának adatai (személyazonosító adat, lakcím, nem természetes személy esetében cégnév, székhely vagy telephely)
 
-5. Szabályszegés helye (település, kerület, utca, házszám).
+4. Szabályszegés ideje
 
-6. Lakott területen kívül a kilométerszelvény megjelölése.
+5. Szabályszegés helye (település, kerület, utca, házszám)
 
-7. Tényállás rövid leírása és jogszabályi minősítése.
+6. Lakott területen kívül a kilométerszelvény megjelölése
 
-8. A bizonyítékot rögzítő technikai eszköz megnevezése, illetve az azonosításhoz szükséges egyéb adatok.
+7. Tényállás rövid leírása és jogszabályi minősítése
 
-9. A bírság kiszabásának alapját képező jogszabályi rendelkezés, a kiszabott bírság összege, megfizetésének határideje és lehetséges módja, tájékoztatás a jogkövetkezményről.
+8. A bizonyítékot rögzítő technikai eszköz megnevezése, valamint az azonosításhoz szükséges egyéb adatok, feltéve, hogy a jogsértést technikai eszközzel is rögzítették
 
-10. Egyéb intézkedés.
+9. A bírság kiszabásának alapját képező jogszabályi rendelkezés, a kiszabott bírság összege, megfizetésének határideje és lehetséges módja
 
-11. Az eljáró hatóság megnevezése, bélyegzőlenyomata, a hatóság eljáró tagjának aláírása.
+10. Tájékoztatás arról, hogy a közúti közlekedésről szóló 1988. évi I. törvény 20. § (4c) bekezdése alapján, ha a gépjármű üzembentartója a közigazgatási bírságot a közléstől számított 30 napon belül nem fizeti meg, vagy a közigazgatási bírság kiszabását bármely okból vitatja, a jogsértés miatt az elkövetés helye szerint illetékes rendőrkapitányságnál a közigazgatási eljárás kezdeményezésére kerül sor.
 
-[^25]: A 4. mellékletet a 47/2012. (VIII. 23.) NFM rendelet 8. § (2) bekezdése iktatta be.
+11. Egyéb intézkedés
+
+12. Az eljáró hatóság megnevezése, bélyegzőlenyomata, a hatóság eljáró tagjának aláírása
+
+[^33]: A 4. mellékletet a 47/2012. (VIII. 23.) NFM rendelet 8. § (2) bekezdése iktatta be, szövege a 15/2021. (IV. 9.) ITM rendelet 38. § (1) bekezdésével megállapított szöveg.
