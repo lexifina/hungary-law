@@ -1,0 +1,1 @@
+## „(4) Az (1) bekezdés szerint benyújtott kifizetési kérelmek vonatkozásában a 3. §-ban, a 4. § (4)–(6) és (9)–(10) bekezdésében, valamint az 5. § (1)–(4) bekezdésében foglalt, a támogatási kérelemre vonatkozó rendelkezéseket a kifizetési kérelemre is alkalmazni kell.”
