@@ -48,7 +48,7 @@ f) őstermelő, egyéni vállalkozó esetében az utolsó két év adóbevallás
 
 g) a borászati gép, technológiai berendezés nem saját tulajdonú vagy más személy rendelkezési jogával terhelt ingatlanon történő üzemeltetése esetében a Kincstár honlapján közzétett – a (4) bekezdésben meghatározott adattartalmú –, teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatot;
 
-h) három, egymástól és a kérelmezőtől független ajánlattevőtől származó, azonos műszaki paraméterekkel rendelkező borászati gépre, technológiai berendezésre vonatkozó, a Kincstár honlapján közzétett – az (5) bekezdésben meghatározott adattartalmú – árajánlatot;
+h)[^2] három, egymástól és a kérelmezőtől független ajánlattevőtől származó, azonos vagy hasonló műszaki paraméterekkel rendelkező, funkcionálisan egyező borászati gépre, technológiai berendezésre vonatkozó, a Kincstár honlapján közzétett – az (5) bekezdésben meghatározott adattartalmú – árajánlatot;
 
 i) a kérelmező által választott legkedvezőbb ajánlat szakmai indokolását, amelyben bemutatja a beruházás reális, takarékos, költséghatékony megvalósítását;
 
@@ -107,3 +107,5 @@ c) az (1) bekezdés c) pontjában meghatározott határidőben benyújtott támo
 (9) A kérelmezőnek a támogatási kérelmét vissza kell vonnia, ha a támogatási kérelem benyújtását követően a kérelemben megjelölt borászati gép, technológiai berendezés tekintetében a 3. § (1) bekezdés a) pontja szerinti támogatói okiratot állítanak ki.
 
 (10) A támogatási kérelem annak benyújtását követő naptól számított tíz napon belül, de legkésőbb az (1) bekezdésben meghatározott határidő végéig elektronikus úton, az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó támogatási kérelem kerül elbírálásra, a kérelem benyújtásának időpontját az utolsó módosító kérelem benyújtásának időpontja jelenti.
+
+[^2]: A 4. § (3) bekezdés h) pontja a 18/2021. (IV. 14.) AM rendelet 36. §-ával megállapított szöveg.

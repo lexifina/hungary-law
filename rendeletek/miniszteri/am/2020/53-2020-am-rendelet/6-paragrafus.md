@@ -48,7 +48,7 @@ af) a borászati gép, technológiai berendezés műszaki adatait tartalmazó, a
 
 b) a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a 127/2009. (IX. 29.) FVM rendeletben meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
 
-c) az üzemeltetési hely szerinti üzemre vonatkozó, az adott borászati gép, technológiai berendezés szabályszerű működtetését lehetővé tevő működési engedély másolatát;
+c)[^7] az üzemeltetési hely szerinti üzemre vonatkozó, az adott borászati gép, technológiai berendezés szabályszerű működtetését lehetővé tevő, a kérelmező nevére kiállított működési engedély másolatát;
 
 d) az angoltól eltérő idegen nyelven kiállított dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását és
 
@@ -77,3 +77,8 @@ d) legkésőbb a kifizetési kérelem benyújtásának napjáig nem történik m
 e) borászati gép, technológiai berendezés vagy annak bármely, egy ajánlattevőtől származó eleme esetében a gyártástól a kifizetési kérelem benyújtásáig két évnél több idő telt el, illetve
 
 f) a borászati gép, technológiai berendezés nem tartalmaz egyedi azonosításra alkalmas jelölést.
+
+g)[^8] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
+
+[^7]: A 6. § (5) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (11) bekezdés g) pontját a 18/2021. (IV. 14.) AM rendelet 38. § (2) bekezdése iktatta be.
