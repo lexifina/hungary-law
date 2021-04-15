@@ -50,7 +50,7 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 
 6. támogatástartalom: a termelői szerveződés számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-7.[^12] támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Magyar Államkincstár (a továbbiakban: Kincstár) által kiállított igazolás, amely a hitelcél szerint megállapított támogatás csekély összegű támogatás kategóriáját is megjelöli;
+7.[^12] támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Magyar Államkincstár (a továbbiakban: Kincstár) által kiállított igazolás, amely a hitelcél szerint megállapított támogatás támogatáskategóriáját is megjelöli;
 
 8. termelői szerveződés: a termelői csoportokról szóló miniszteri rendelet szerinti elismeréssel rendelkező termelői csoport, a 2015. június 1. előtt minősített elismeréssel rendelkező termelői csoport, és a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendelet szerinti termelői szervezet, valamint zöldség-gyümölcs termelői csoport.
 
@@ -65,4 +65,4 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 [^9]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^10]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^11]: A hatálybalépés időpontja 2017. december 23.
-[^12]: Az 1. § 7. pontja a 88/2016. (XII. 29.) FM rendelet 92. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § 7. pontja a 88/2016. (XII. 29.) FM rendelet 92. § a) pontja, a 18/2021. (IV. 14.) AM rendelet 14. § a) pontja szerint módosított szöveg.
