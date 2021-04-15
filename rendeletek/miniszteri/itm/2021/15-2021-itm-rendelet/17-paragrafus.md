@@ -1,5 +1,3 @@
-## 16. § Az R3. 11. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+## 16. §[^16]
 
-## (Gyakorlati vizsgára az bocsátható, aki)
-
-## „g) a meglévő vezetői engedélyét – figyelembe véve a (6) bekezdésben foglaltakat – (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot, annak adatlapon feltüntetett érvényességi idején belül) a vizsgán bemutatja.”
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

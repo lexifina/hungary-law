@@ -1,3 +1,3 @@
-## „c) 2. alkalmassági csoportra vonatkozó egészségi alkalmassági kategória megléte,
+## 19. §[^19]
 
-## d) az alapképzésre vagy kiegészítő képzésre jelentkező rendelkezik valamely – közúti járművezető képzésre vonatkozó érvényes képzési engedéllyel rendelkező – képző szerv által kiadott „Befogadó nyilatkozattal”, amelyben a képző szerv vállalja a szakoktatói képzésre jelentkező tekintetében a szakoktatóik szaktanfolyam „Hospitálási és tanítási gyakorlat – HOSP” tantárgyában nevesített követelmények teljesítésére vonatkozó lehetőség biztosítását.”
+[^19]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

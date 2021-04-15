@@ -1,3 +1,3 @@
-## 11. § Az R2. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 11. §[^11]
 
-## „(1) Az 1. § (1) bekezdés a)–e) pontja szerinti eljárásban a közlekedési hatóság eljárásáért fizetendő díjat – az (1) bekezdés e) pontjában meghatározott, az auditáló szervet megillető díj, valamint a (2) bekezdésben és a 4. § (1) bekezdésében meghatározott, a vizsgáló állomást megillető díjrész kivételével – az Innovációs és Technológiai Minisztériumnak a Magyar Államkincstárnál vezetett 10032000-00290713-38100004 számú számlájára kell az eljárás megkezdése előtt igazoltan, bankszámlák közötti átutalással vagy készpénzben befizetni. A vizsgáló állomást megillető díjrészt a vizsgáló állomás részére kell megfizetni.”
+[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

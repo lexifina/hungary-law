@@ -1,7 +1,3 @@
-## 31. § Az R5. 1. § (2) bekezdésében az „a Nemzeti Fejlesztési Minisztérium” szövegrész helyébe az „az Innovációs és Technológiai Minisztérium” szöveg lép.
+## 31. §[^31]
 
-## 32. § Hatályát veszti az R5.
-
-a) 1. § (3) bekezdése,
-
-b) 1. § (5) bekezdése.
+[^31]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

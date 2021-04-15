@@ -1,3 +1,3 @@
-## 36. § Az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével kapcsolatos bírságolással összefüggő hatósági feladatokról, a bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 42/2011. (VIII. 11.) NFM rendelet (a továbbiakban: R7.) 3. §-a a következő (7) bekezdéssel egészül ki:
+## 36. §[^36]
 
-## „(7) A Bolgár Köztársaság, a Horvát Köztársaság, Magyarország és az Osztrák Köztársaság között a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértések miatt alkalmazott jogkövetkezmények határon átnyúló végrehajtásának elősegítéséről szóló Megállapodás alapján a határozatok határokon átnyúló végrehajtásából származó pénzösszeget az 1. melléklet 4. pont 17. sorában meghatározott számlára kell megfizetni.”
+[^36]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

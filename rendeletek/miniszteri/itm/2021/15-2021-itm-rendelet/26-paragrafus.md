@@ -1,1 +1,3 @@
-## 25. § Az R3. 33/D. § (2) bekezdésében az „A sikeresen vizsgázók részére – érvényes vezetői engedély megléte esetén – a közlekedési hatóság” szövegrész helyébe az „A sikeres vizsgázók részére – érvényes vezetői engedély megléte esetén – a vizsgaközpont” szöveg lép.
+## 25. §[^25]
+
+[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

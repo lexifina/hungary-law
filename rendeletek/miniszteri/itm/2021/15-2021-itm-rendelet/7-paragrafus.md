@@ -1,13 +1,3 @@
-## lép.
+## 6. §[^6]
 
-7. § (1) Az R1.
-
-a) 1. számú melléklete az 1. melléklet,
-
-b) 2. számú melléklete a 2. melléklet,
-
-c) 3. számú melléklete a 3. melléklet
-
-## szerint módosul.
-
-(2) Az R1. 6. számú melléklete helyébe a 4. melléklet lép.
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 27. § A vasúti társaságok működésének engedélyezéséről szóló 45/2006. (VII. 11.) GKM rendelet (a továbbiakban: R4.) 5/B. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 27. §[^27]
 
-## „(7) A bejelentés tudomásulvételével egyidejűleg a vasúti igazgatási szerv a bejelentőt és a bejelentett tevékenységet nyilvántartásba veszi.”
+[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

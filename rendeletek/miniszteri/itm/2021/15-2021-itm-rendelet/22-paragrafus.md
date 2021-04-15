@@ -1,3 +1,3 @@
-## 21. § Az R3. 28. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 21. §[^21]
 
-## „(1) A vizsgabiztos vizsgáztatás közben köteles magánál tartani a vezetői engedélyét (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot, annak adatlapon feltüntetett érvényességi idején belül) és a vizsgabiztosi igazolványát, ez utóbbit köteles jól láthatóan magán viselni.”
+[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

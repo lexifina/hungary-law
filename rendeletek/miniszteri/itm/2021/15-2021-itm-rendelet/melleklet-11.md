@@ -1,7 +1,3 @@
-## A víziközlekedés rendjéről szóló 57/2011. (XI. 22.) NFM rendelet 1. melléklet 6. fejezet G. Különleges szabályok alcím a következő 6.38 cikkel egészül ki:
+11. melléklet a 15/2021. (IV. 9.) ITM rendelethez[^62]
 
-## „6.38 cikk
-
-## Az üzemeltetési engedéllyel rendelkező vízi járművel végzett személyszállításnak nem képezheti részét a hajóval végrehajtott, közlekedésbiztonsági vagy forgalmi okból nem indokolt – hirtelen, a megszokottnál gyorsabban végrehajtott fordulási, megállási, kitérési, irány- vagy sebességváltoztató – manőverek bemutatása.”
-
-11. melléklet a 15/2021. (IV. 9.) ITM rendelethez
+[^62]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

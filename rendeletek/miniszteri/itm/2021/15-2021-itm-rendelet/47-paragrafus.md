@@ -1,3 +1,3 @@
-## 46. § A Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programról szóló 22/2013. (V. 16.) NFM rendelet (a továbbiakban: R9.) a következő 6. §-sal egészül ki:
+## 46. §[^46]
 
-## „6. § A légiközlekedési hatóság az éves monitoring terv szerint végrehajtja a minőségbiztosítási ellenőrzéseket. Az ellenőrzésekbe a légiközlekedés védelemben együttműködő hatóságok auditori képzettséggel rendelkező tagjai bevonhatók. A légiközlekedési hatóság szervezi és hajtja végre a monitoring tevékenységeket. Az együttműködő hatóságok auditori képzettséggel rendelkező tagjai is betölthetnek vezető védelmi ellenőri feladatokat. Az ellenőrzéseken a légiközlekedési hatóság döntése alapján további megfigyelők is részt vehetnek.”
+[^46]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

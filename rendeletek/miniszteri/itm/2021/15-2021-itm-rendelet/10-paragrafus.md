@@ -1,3 +1,5 @@
-## 9. § A hajózási hatósági eljárások díjairól szóló 29/2001. (IX. 1.) KöVIM rendelet 2. § (1a) bekezdésében az „Az I. 2. a) és b) pontjai szerint beszedett díjakat a vizsgaközpont havi elszámolással, a tárgyhónapot követő hónap 15. napjáig átutalja az okmánykiállító Innovációs és Technológiai Minisztérium részére, a jelen bekezdés szerint beszedett további díjak a vizsgaközpont bevételét képezik.” szövegrész helyébe az „A jelen bekezdés szerint beszedett további díjak a vizsgaközpont bevételét képezik.” szöveg lép.
+## 9. §[^9]
 
 ## 5. A közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló 91/2004. (VI. 29.) GKM rendelet módosítása
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

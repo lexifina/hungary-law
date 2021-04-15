@@ -1,5 +1,3 @@
-## 15. § A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet (a továbbiakban: R3.) 10. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+## 15. §[^15]
 
-## (Elméleti vizsgára az bocsátható, aki)
-
-## „g) a meglévő vezetői engedélyét – figyelembe véve a (3) bekezdésben foglaltakat – (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot, annak adatlapon feltüntetett érvényességi idején belül) a vizsgán bemutatja.”
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
