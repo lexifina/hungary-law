@@ -30,25 +30,25 @@ d) a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település ese
 
 e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása esetén az egyes nemzeti forrásból finanszírozott agrártámogatásokat és közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 66/2017. (XII. 22.) FM rendelet [a továbbiakban: 66/2017. (XII. 22.) FM rendelet] hatálybalépésének napja[^3] és 2018. május 31. között (a határnapokat is beleértve)
 
-## hatályba lépett hitelszerződéssel rendelkezik;
+## hatályossá vált hitelszerződéssel rendelkezik;
 
 5b.[^4] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében a kedvezőtlen időjárással érintett vállalkozás által benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely
 
-a) a 77/2015. (XII. 1.) FM rendelet 1. mellékletében szereplő településen működő és 2016. június 30-áig hatályba lépett hitelszerződéssel rendelkező kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb a 2015. április 30-át követően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
+a)[^5] a 77/2015. (XII. 1.) FM rendelet 1. mellékletében szereplő településen működő és 2016. június 30-áig hatályossá vált hitelszerződéssel rendelkező kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb a 2015. április 30-át követően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
 
 b) a 77/2015. (XII. 1.) FM rendeletnek
 
 ba) kizárólag a 3. mellékletében szereplő településen működő, vagy
 
-bb)[^5] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de 2017. május 31-ig hatályba lépett hitelszerződéssel rendelkező
+bb)[^6] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de 2017. május 31-ig hatályossá vált hitelszerződéssel rendelkező
 
-kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^6] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
+kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^7] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
 
-c)[^7] a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő településen működő és a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja[^8] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező, kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napjától kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
+c)[^8] a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő településen működő és a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja[^9] és 2018. május 31. között (a határnapokat is beleértve) hatályossá vált hitelszerződéssel rendelkező, kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napjától kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
 
-d)[^9] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő településen működő vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolással és a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja[^10] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező, kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napjától kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
+d)[^10] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő településen működő vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolással és a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja[^11] és 2018. május 31. között (a határnapokat is beleértve) hatályossá vált hitelszerződéssel rendelkező, kedvezőtlen időjárással érintett vállalkozás esetében legfeljebb a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napjától kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
 
-6.[^11] költségátalány: a Magyar Államkincstárhoz (a továbbiakban: Kincstár) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6%-a;
+6.[^12] költségátalány: a Magyar Államkincstárhoz (a továbbiakban: Kincstár) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6%-a;
 
 7. önálló kamattámogatási kérelem: a kamattámogatási kérelem beadásának időpontjában hatályos, a hitelprogram keretében megkötött hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely legfeljebb a kamattámogatási kérelem beadásának naptári negyedévét megelőző második naptári negyedév első napjától kezdődően, a hitel hátralévő futamidejére vonatkozik;
 
@@ -56,22 +56,23 @@ d)[^9] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település
 
 9. támogatástartalom: a vállalkozás számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-10.[^12] támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Kincstár által kiállított igazolás, amely a hitelcél szerint megállapított támogatás csekély összegű támogatás kategóriáját is megjelöli;
+10.[^13] támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Kincstár által kiállított igazolás, amely a hitelcél szerint megállapított támogatás támogatáskategóriáját is megjelöli;
 
 11. vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő hitelfelvevő.
 
-12.[^13] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+12.[^14] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
 [^1]: Az 1. § 5. pontja a 77/2015. (XII. 1.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege a 23/2020. (VI. 19.) AM rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege a 23/2020. (VI. 19.) AM rendelet 2. §-ával megállapított, nyitó szövegrésze a 18/2021. (IV. 14.) AM rendelet 8. § a) pontja szerint módosított szöveg.
 [^3]: A hatálybalépés időpontja 2017. december 23.
 [^4]: Az 1. § 5b. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § 5b. pont b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a, a 17/2017. (IV. 10.) FM rendelet 15. §-a szerint módosított szöveg.
-[^6]: A hatálybalépés időpontja 2016. július 22.
-[^7]: Az 1. § 5b. pont c) alpontját a 39/2017. (VIII. 7.) FM rendelet 10. § (2) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 21. §-a szerint módosított szöveg.
-[^8]: A hatálybalépés időpontja 2017. augusztus 8.
-[^9]: Az 1. § 5b. pont d) alpontját a 66/2017. (XII. 22.) FM rendelet 17. § (2) bekezdése iktatta be.
-[^10]: A hatálybalépés időpontja 2017. december 23.
-[^11]: Az 1. § 6. pontja a 88/2016. (XII. 29.) FM rendelet 90. § a) pontja szerint módosított szöveg.
-[^12]: Az 1. § 10. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
-[^13]: Az 1. § 12. pontját az 51/2016. (VII. 21.) FM rendelet 22. § (2) bekezdése iktatta be.
+[^5]: Az 1. § 5b. pont a) alpontja a 18/2021. (IV. 14.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § 5b. pont b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a, a 17/2017. (IV. 10.) FM rendelet 15. §-a, a 18/2021. (IV. 14.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^7]: A hatálybalépés időpontja 2016. július 22.
+[^8]: Az 1. § 5b. pont c) alpontját a 39/2017. (VIII. 7.) FM rendelet 10. § (2) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 21. §-a, a 18/2021. (IV. 14.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^9]: A hatálybalépés időpontja 2017. augusztus 8.
+[^10]: Az 1. § 5b. pont d) alpontját a 66/2017. (XII. 22.) FM rendelet 17. § (2) bekezdése iktatta be, szövege a 18/2021. (IV. 14.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^11]: A hatálybalépés időpontja 2017. december 23.
+[^12]: Az 1. § 6. pontja a 88/2016. (XII. 29.) FM rendelet 90. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § 10. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja, a 18/2021. (IV. 14.) AM rendelet 8. § b) pontja szerint módosított szöveg.
+[^14]: Az 1. § 12. pontját az 51/2016. (VII. 21.) FM rendelet 22. § (2) bekezdése iktatta be.
