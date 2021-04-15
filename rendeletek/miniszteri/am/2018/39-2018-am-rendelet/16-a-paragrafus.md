@@ -1,4 +1,4 @@
-## 3a.[^6] Átmeneti támogatás
+## 3a.[^7] Átmeneti támogatás
 
 16/A. § (1) A 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2020. támogatási év I., valamint II. negyedévére jóváhagyott támogatás átmeneti támogatásnak minősül.
 
@@ -10,4 +10,4 @@
 
 (5) Az igénylő az (1) bekezdés szerinti átmeneti támogatásként legfeljebb a 2020. támogatási év I., illetve II. negyedévére – a mezőgazdasági csekély összegű támogatás iránt – benyújtott kérelmére meghozott elsőfokú támogatási döntésben megállapított támogatási összegre jogosult.
 
-[^6]: A 3a. alcímet (16/A–16/C. §) a 41/2020. (VIII. 19.) AM rendelet 18. §-a iktatta be.
+[^7]: A 3a. alcímet (16/A–16/C. §) a 41/2020. (VIII. 19.) AM rendelet 18. §-a iktatta be.
