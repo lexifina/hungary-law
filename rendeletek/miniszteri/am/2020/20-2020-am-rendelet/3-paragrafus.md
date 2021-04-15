@@ -1,14 +1,14 @@
 3. § (1)[^8] A 2. § (3) bekezdése szerinti átmeneti támogatás összege a közlemény 3.1. pontja alapján nyújtott egyéb támogatásokkal együtt – a kérelmező kapcsolt vállalkozásait is figyelembe véve – vállalkozásonként nem haladhatja meg
 
-a) a 2. § (1) bekezdés a) pontja szerinti esetben a 100 000 eurónak,
+a)[^9] a 2. § (1) bekezdés a) pontja szerinti esetben a 225 000 eurónak,
 
-b) a 2. § (1) bekezdés b)–d) pontjai szerinti esetben a 800 000 eurónak,
+b)[^10] a 2. § (1) bekezdés b)–d) pontjai szerinti esetben az 1 800 000 eurónak,
 
-c) a 2. § (1) bekezdés e) pontja szerinti esetben a 120 000 eurónak
+c)[^11] a 2. § (1) bekezdés e) pontja szerinti esetben a 270 000 eurónak
 
 ## megfelelő forintösszeget.
 
-(2) Az (1) bekezdés b) pontja szerinti átmeneti támogatás azzal a feltétellel nyújtható a mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozások számára, ha az nem került továbbadásra teljes mértékben vagy részlegesen a mezőgazdasági termék elsődleges termelője részére.
+(2)[^12] Az (1) bekezdés b) pontja szerinti átmeneti támogatás akkor nyújtható a mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozások számára, ha az nem került továbbadásra teljes mértékben vagy részlegesen a mezőgazdasági termék elsődleges termelője részére, és a támogatás mértékét nem az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg.
 
 (3) Ha a kérelmező a 2. § (1) bekezdése szerinti több ágazatban is folytat gazdasági tevékenységet, akkor a támogatott tevékenységhez kapcsolódó, (1) bekezdés szerinti legmagasabb támogatási összegeket kell figyelembe venni azzal, hogy ezen összegek közül – a kérelmező kapcsolt vállalkozásait is figyelembe véve – vállalkozásonként a legmagasabb összegig nyújtható átmeneti támogatás. A kérelmező az átmeneti támogatásokról olyan elkülönített nyilvántartást köteles vezetni, amelyből az (1) és ezen bekezdés szerinti, legmagasabb támogatási összegekre vonatkozó feltétel ellenőrizhető.
 
@@ -17,3 +17,7 @@ c) a 2. § (1) bekezdés e) pontja szerinti esetben a 120 000 eurónak
 (5) A támogatás a kérelmező szabad – (1) bekezdés szerinti – átmeneti támogatási kerete terhére korábban már odaítélt támogatások figyelembevételével kerül meghatározásra.
 
 [^8]: A 3. § (1) bekezdése a 41/2020. (VIII. 19.) AM rendelet 36. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdés a) pontja a 18/2021. (IV. 14.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontja a 18/2021. (IV. 14.) AM rendelet 32. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 32. § c) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése a 18/2021. (IV. 14.) AM rendelet 29. §-ával megállapított szöveg.
