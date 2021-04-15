@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-39-20-2
 | 2018-12-13 | 2011-39-20-2Y.22 | 37/2018. (XII. 10.) AM rendelet |
 | 2019-04-11 | 2011-39-20-2Y.23 | 14/2019. (IV. 10.) AM rendelet |
 | 2020-12-21 | 2011-39-20-2Y.24 | 66/2020. (XII. 18.) AM rendelet |
+| 2021-04-15 | 2011-39-20-2Y.25 | 18/2021. (IV. 14.) AM rendelet |
