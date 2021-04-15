@@ -1,6 +1,6 @@
 ## 4. A támogatás igénylése
 
-4. § (1)[^7] Az élelmiszeripari vállalkozás a Kincstár által rendszeresített és honlapján közzétett nyomtatványon kamattámogatási kérelmét a hitel futamideje alatt egy alkalommal a Kincstárhoz nyújthatja be. A kamattámogatási kérelem legfeljebb a kamattámogatási kérelem beadásának naptári negyedévét megelőző második naptári negyedév első napjától kezdődően, a hitel hátralévő futamidejére vonatkozhat.
+4. § (1)[^8] Az élelmiszeripari vállalkozás a Kincstár által rendszeresített és honlapján közzétett nyomtatványon kamattámogatási kérelmét a hitel futamideje alatt egy alkalommal a Kincstárhoz postai úton nyújthatja be. A kamattámogatási kérelem legfeljebb a kamattámogatási kérelem beadásának naptári negyedévét megelőző második naptári negyedév első napjától kezdődően, a hitel hátralévő futamidejére vonatkozhat.
 
 (2) A kamattámogatási kérelemben százalékpontban kifejezve, két tizedesjegy pontossággal, 0,05 százalékpontos lépésköz alkalmazásával kell megjelölni az élelmiszeripari vállalkozás által igénybe venni kívánt kamattámogatás mértékét, valamint meg kell adni a kamattámogatás igénybevételének kezdő időpontját, amely valamely kamatidőszak első napja lehet.
 
@@ -16,7 +16,7 @@ d) a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott nyilatkoza
 
 e) a 3. § b) és c) pontja szerinti nyilatkozatokat.
 
-(4)[^8] A kamattámogatás támogatástartalmát a Kincstár az 1. mellékletben meghatározott módszertan szerint számolja ki.
+(4)[^9] A kamattámogatás támogatástartalmát a Kincstár az 1. mellékletben meghatározott módszertan szerint számolja ki.
 
-[^7]: A 4. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 91. § b) és d) pontja szerint módosított szöveg.
-[^8]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 91. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 91. § b) és d) pontja, a 18/2021. (IV. 14.) AM rendelet 11. § c) pontja szerint módosított szöveg.
+[^9]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 91. § b) pontja szerint módosított szöveg.
