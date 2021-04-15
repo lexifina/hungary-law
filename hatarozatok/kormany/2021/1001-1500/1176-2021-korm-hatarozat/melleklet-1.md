@@ -32,6 +32,8 @@
 
 ## Határidő: a Beruházások megvalósítását célzó feltételes közbeszerzési eljárást követő 60 napon belül
 
-## 2. A Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
+## 2.[^1]
 
 1. melléklet az 1176/2021. (IV. 14.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
