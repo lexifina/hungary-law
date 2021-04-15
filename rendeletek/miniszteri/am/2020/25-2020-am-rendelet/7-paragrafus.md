@@ -1,3 +1,4 @@
-## 6/A. §[^5] E rendeletnek az agrárpolitikáért felelős miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról szóló 64/2020. (XII. 16.) AM rendelettel megállapított 3. § (1) bekezdés c) pont ci) alpontját és (1a) bekezdését a 2020. október 1-jét követően benyújtott adományozási megállapodásokra kell alkalmazni.
+## 6/B. §[^7] A 2021. február 15. és az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépése[^8] között benyújtott 3. § (1) bekezdés c) pont ci) alpontja szerinti megállapodás másolati példányokat határidőben benyújtottnak kell tekinteni.
 
-[^5]: A 6/A. §-t a 65/2020. (XII. 17.) AM rendelet 23. §-a iktatta be.
+[^7]: A 6/B. §-t a 18/2021. (IV. 14.) AM rendelet 33. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2021. április 15.

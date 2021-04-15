@@ -8,4 +8,6 @@
 
 (4) Ha a jogos igények együttesen meghaladják a 2. § (2) bekezdésében meghatározott keretösszeget, a rendelkezésre álló forrást a benyújtott támogatási kérelmekben foglalt jogos igények között egyenlő arányban kell felosztani.
 
-(5) A nagyvállalkozásnak minősülő kérelmezőnek a 3. § (1) bekezdés c) pont ci) alpontja szerinti megállapodás másolati példányát 2021. február 15-éig elektronikus úton kell benyújtani a Kincstár részére, amelynek elmulasztása esetén a támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+(5)[^5] A nagyvállalkozásnak minősülő kérelmezőnek a 3. § (1) bekezdés c) pont ci) alpontja szerinti megállapodás másolati példányát 2021. április 30-áig elektronikus úton kell benyújtani a Kincstár részére, amelynek elmulasztása esetén a támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+
+[^5]: Az 5. § (5) bekezdése a 18/2021. (IV. 14.) AM rendelet 34. §-a szerint módosított szöveg.
