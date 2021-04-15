@@ -16,7 +16,7 @@ f) a tevékenység megvalósításához szükséges, tervezett támogatási öss
 
 g) nagyvállalkozás esetén a (6) bekezdés a) pontja szerinti élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal igazolását és
 
-h) a (6) bekezdés b) pontja szerinti baromfilétszámról szóló igazolást.
+h)[^3]
 
 (3) Egy támogatási évre baromfi megnevezés-csoportonként kizárólag egy támogatási kérelem nyújtható be.
 
@@ -28,12 +28,17 @@ h) a (6) bekezdés b) pontja szerinti baromfilétszámról szóló igazolást.
 
 a) nagyvállalkozás igénylő esetében a járási hivatal által a nagyvállalkozás támogatás igénybevételével előálló és a támogatás igénybevétele nélkül várható helyzetére vonatkozó, a 3. melléklet szerinti elemzés alapján kiállított igazolását arról, hogy részvétele a támogatási programban indokolt, és
 
-b) a Baromfi Termék Tanács (a továbbiakban: BTT) igazolásának eredeti példányát az igénylő által – a támogatási kérelem benyújtásának időpontjáig – az adott tartási hely férőhely kapacitása alapján megállapított maximálisan tarható baromfilétszámról darabszámban kifejezve.
+b)[^4]
 
 (7) A Kincstár a támogatási kérelemről az ott megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan – a 2. melléklet szerinti baromfi megnevezés-csoportonként – hoz döntést.
+
+(7a)[^5] A Baromfi Termék Tanács (a továbbiakban: BTT) az igénylő kérésére igazolást állít ki az adott tartási hely férőhely kapacitása alapján megállapított maximálisan tartható baromfilétszám darabszámáról, és azt legkésőbb tárgyév április 15-éig – az ügyfél tájékoztatásával egyidejűleg – elektronikus úton továbbítja a Kincstár részére.
 
 (8) A támogatási kérelemben megjelölt állatok vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
 (9) A (6) bekezdés b) pontja szerinti igazolásban meghatározott létszámot meghaladó igény nem támogatható.
 
 [^2]: Az 5. § (1) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (2) bekezdés h) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
+[^4]: Az 5. § (6) bekezdés b) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
+[^5]: Az 5. § (7a) bekezdését a 18/2021. (IV. 14.) AM rendelet 21. §-a iktatta be.

@@ -24,13 +24,13 @@ c) a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtás
 
 a) az (1) bekezdés a) pontja szerinti tevékenység esetében minden baromfi megnevezés-csoport esetében a vágóhídra levágásra leadott állatlétszám,
 
-b)[^14] az (1) bekezdés b) pontja szerinti tevékenység esetében a naposkori letelepítési, házi tyúknál és növendék pulykánál az átminősítéskori állatlétszám.
+b)[^17] az (1) bekezdés b) pontja szerinti tevékenység esetében a naposkori letelepítési, házi tyúknál és növendék pulykánál az átminősítéskori állatlétszám.
 
-(6)[^15] E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan tárgynegyedévenként legfeljebb 500 millió forint összegig állapítható meg.
+(6)[^18] E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan tárgynegyedévenként legfeljebb 500 millió forint összegig állapítható meg.
 
 (7) A Kincstár a forrás rendelkezésre állását követően intézkedik a támogatás folyósításáról.
 
-(8)[^16] A Kincstár a mezőgazdasági csekély összegű támogatás összegét a (2)–(4) bekezdésben meghatározott feltételek teljesülése esetén a mezőgazdasági termelő és a vele egy és ugyanazon vállalkozás rendelkezésére álló szabad mezőgazdasági csekély összegű támogatási keret alapján állapítja meg.
+(8)[^19] A Kincstár a mezőgazdasági csekély összegű támogatás összegét a (2)–(4) bekezdésben meghatározott feltételek teljesülése esetén a mezőgazdasági termelő és a vele egy és ugyanazon vállalkozás rendelkezésére álló szabad mezőgazdasági csekély összegű támogatási keret alapján állapítja meg.
 
 (9) Ha a mezőgazdasági csekély összegű támogatások esetében az adott negyedévre igényelt támogatás összegével az igénylő túllépi az Átr. 11. § (8) bekezdésében meghatározott csekély összegű támogatási keretet, akkor a kifizetési kérelemben feltüntetett igénynek a fenti összeget meghaladó részét a Kincstár elutasítja.
 
@@ -40,6 +40,6 @@ b)[^14] az (1) bekezdés b) pontja szerinti tevékenység esetében a naposkori 
 
 (12) A mezőgazdasági csekély összegű támogatások tekintetében a forintban meghatározott összegek euróra történő átszámításánál a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtási hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam alkalmazandó.
 
-[^14]: A 11. § (5) bekezdés b) pontja a 26/2019. (VI. 7.) AM rendelet 12. § h) pontja szerint módosított szöveg.
-[^15]: A 11. § (6) bekezdése a 18/2020. (VI. 12.) AM rendelet 20. § b) pontja szerint módosított szöveg.
-[^16]: A 11. § (8) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § i) pontja szerint módosított szöveg.
+[^17]: A 11. § (5) bekezdés b) pontja a 26/2019. (VI. 7.) AM rendelet 12. § h) pontja szerint módosított szöveg.
+[^18]: A 11. § (6) bekezdése a 18/2020. (VI. 12.) AM rendelet 20. § b) pontja szerint módosított szöveg.
+[^19]: A 11. § (8) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § i) pontja szerint módosított szöveg.
