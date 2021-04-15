@@ -62,6 +62,8 @@
 
 ## 1.8. egyetért azzal, hogy a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő előirányzat-átcsoportosításról szóló 1028/2021. (II. 5.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 16. Nemzeti Népegészségügyi Központ cím javára átcsoportosított 80 732 870 000 forintból 803 000 000 forint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása címen, a K3 Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 2. A Határozat1. 2. pontjában a „2021. január 1.” szövegrész helyébe a „2021. szeptember 1.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1178/2021. (IV. 14.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
