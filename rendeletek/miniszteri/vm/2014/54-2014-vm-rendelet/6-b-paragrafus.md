@@ -1,4 +1,4 @@
-6/B. §[^25] (1) A 2. § (1) bekezdésében foglaltaktól eltérően, a kérelmező 2021. január 1. és január 31. közötti időszakra a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon, a Kincstárhoz postai úton benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
+6/B. §[^25] (1)[^26] A 2. § (1) bekezdésében foglaltaktól eltérően, a kérelmező 2021. január 1. és január 31., valamint 2021. július 1. és július 31. közötti időszakra – a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a Kincstárhoz postai úton – benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
 
 (2) Az (1) bekezdés szerinti átmeneti támogatás vonatkozásában nem kell alkalmazni a 2. § (4), (6) és (7) bekezdésében, valamint a 4. § b) pont bd) alpontjában foglaltakat.
 
@@ -20,4 +20,8 @@ bd) a kapcsolt vállalkozások azonosító adatairól (név, adószám vagy adó
 
 (5) A Kincstár – az (1) bekezdésben meghatározott időszakban benyújtott átmeneti támogatás iránti kérelmek vonatkozásában – a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés a) pontjában meghatározott értékhatárt meghaladó átmeneti támogatási igényt elutasítja, illetve annak összegét a 20/2020. (VI. 19.) AM rendelet 3. § (5) bekezdésében foglaltakra tekintettel állapítja meg.
 
+(6)[^27] A Kincstár az (1) bekezdés szerinti támogatási kérelmekről legkésőbb 2021. december 31-éig dönt.
+
 [^25]: A 6/B. §-t a 65/2020. (XII. 17.) AM rendelet 3. §-a iktatta be.
+[^26]: A 6/B. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^27]: A 6/B. § (6) bekezdését a 18/2021. (IV. 14.) AM rendelet 4. § (2) bekezdése iktatta be.
