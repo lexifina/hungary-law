@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-68-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-31 | 2020-68-20-7R.1 | 68/2020. (XII. 23.) AM rendelet |
+| 2021-04-15 | 2020-68-20-7R.2 | 18/2021. (IV. 14.) AM rendelet |
