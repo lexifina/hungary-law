@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti a LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap költségvetési fejezetbe sorolt előirányzatok felhasználásáról szóló 56/2020. (XII. 28.) ITM rendelet.
+## 5. §[^2]
 
 1. melléklet a 18/2021. (IV. 14.) ITM rendelethez
 
@@ -15,3 +15,5 @@ LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap 2021. évi kiadási 
 | 4. | 348995 | 3 Befizetés a központi költségvetésbe | A Kvtv. 10. § (3) bekezdése szerinti befizetés teljesítése | Központi költségvetés | Jogszabály alapján | – | Közvetlen utalás negyedévente az előirányzat 25%-ának megfelelő összegben | – | – | NKFI Hivatal | – | – |
 
 | 5. | 349017 | 4 Alapkezelőnek átadott pénzeszköz | A Nemzeti Kutatási, Fejlesztési és Innovációs Alap kezeléséhez kapcsolódó feladatok finanszírozása | NKFI Hivatal | Jogszabály alapján | – | Közvetlen utalás | – | – | NKFI Hivatal | – | – |
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
