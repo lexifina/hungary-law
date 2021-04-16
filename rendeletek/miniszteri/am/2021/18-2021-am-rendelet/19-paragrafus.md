@@ -1,5 +1,3 @@
-## 18. § A 39/2018. (XII. 13.) AM rendelet 16/B. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+## 18. §[^19]
 
-## „(1) Az igénylő a 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2020. támogatási év III. és IV. negyedévére, valamint a 2021. támogatási év I–III. negyedévére – a 14. § (1) bekezdésében foglaltaktól eltérően – kizárólag átmeneti támogatás igénybevételére jogosult.
-
-## (2) Az átmeneti támogatás iránti kérelem az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének napja [a továbbiakban: 18/2021. (IV. 14.) AM rendelet] és 2021. április 30., 2021. július 1. és július 31., valamint 2021. október 1. és október 31. között ügyfélkapus azonosítást követően, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 33. § A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Programból az élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének részletes szabályairól szóló 25/2020. (VI. 22.) AM rendelet [a továbbiakban: 25/2020. (VI. 22.) AM rendelet] a következő 6/B. §-sal egészül ki:
+## 33. §[^34]
 
-## „6/B. § A 2021. február 15. és az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépése között benyújtott 3. § (1) bekezdés c) pont ci) alpontja szerinti megállapodás másolati példányokat határidőben benyújtottnak kell tekinteni.”
+[^34]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

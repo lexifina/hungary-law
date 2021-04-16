@@ -1,3 +1,3 @@
-## 29. § A koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 29. §[^30]
 
-## „(2) Az (1) bekezdés b) pontja szerinti átmeneti támogatás akkor nyújtható a mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozások számára, ha az nem került továbbadásra teljes mértékben vagy részlegesen a mezőgazdasági termék elsődleges termelője részére, és a támogatás mértékét nem az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg.”
+[^30]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

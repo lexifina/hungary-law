@@ -1,5 +1,7 @@
-## 41. § Hatályát veszti a mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet 16. § (3) bekezdésében a „– kivéve kamarai meghatalmazott –” és a „– kivéve a kamarai meghatalmazott útján –” szövegrész.
+## 41. §[^42]
 
 ## 19. Záró rendelkezések
 
 42. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^42]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
