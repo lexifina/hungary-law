@@ -8,7 +8,7 @@ b) a napi fogyasztási cikket értékesítő egyéb (illatszert, drogériai term
 
 c) a gyógyszert, a gyógyászati segédeszközt forgalmazó üzletet (a továbbiakban együtt: gyógyszertár)
 
-hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és vasárnap 8.00 óra és 10.00 óra közötti időben látogathatja.
+## hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és vasárnap 8.00 óra és 10.00 óra közötti időben látogathatja.
 
 (2) Az élelmiszerüzletben, a drogériában és a gyógyszertárban hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és vasárnap 8.00 óra és 10.00 óra közötti időben (a továbbiakban: védett vásárlási idősáv) az ott foglalkoztatottak kivételével kizárólag az (1) bekezdés szerinti személy tartózkodhat.
 

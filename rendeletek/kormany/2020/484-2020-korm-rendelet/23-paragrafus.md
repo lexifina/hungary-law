@@ -4,7 +4,7 @@ a) az 1. § (1), (2) és (4) bekezdésében, 2. § (3) bekezdésében, 3. § (1)
 
 b) a 8. § (1) bekezdésében
 
-meghatározott védelmi intézkedést megszegi.
+## meghatározott védelmi intézkedést megszegi.
 
 (2) A Szabstv. 11. § (1) bekezdésétől eltérően
 

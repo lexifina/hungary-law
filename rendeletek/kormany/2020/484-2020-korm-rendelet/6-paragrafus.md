@@ -20,6 +20,4 @@ e) a házasulók testvérei és
 
 f) a házasulók gyermekei
 
-lehetnek jelen.
-
 [^19]: A 6. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

@@ -8,7 +8,7 @@ a) az ott foglalkoztatottak kivételével és
 
 b) a (2) bekezdés szerinti kivétellel
 
-tilos tartózkodni.
+## tilos tartózkodni.
 
 (2) Vendéglátó üzletben való tartózkodás – az elvitelre alkalmas ételek kiadása és szállítása érdekében – az ehhez szükséges időtartamig megengedett.
 

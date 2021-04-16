@@ -4,6 +4,4 @@ a) a személygépkocsival díj ellenében végzett közúti személyszállítás
 
 b) ha a helyi önkormányzat a közigazgatási területén rendeletében meghatározott feltételekhez kötötte a személytaxi-szolgáltatatást folytató vállalkozások működését, akkor az ilyen rendeletben
 
-foglalt előírásokat nem kell alkalmazni.
-
 [^36]: A 16. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

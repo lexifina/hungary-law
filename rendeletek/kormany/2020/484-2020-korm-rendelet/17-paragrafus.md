@@ -1,3 +1,5 @@
+## foglalt előírásokat nem kell alkalmazni.
+
 ## 10. A nevelési, oktatási intézményekre vonatkozó védelmi intézkedések
 
 17. §[^37] (1)[^38] A bölcsődék nyitva tartanak.

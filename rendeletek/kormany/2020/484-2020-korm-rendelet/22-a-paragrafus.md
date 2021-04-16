@@ -14,7 +14,7 @@ b) a (3) bekezdés b) pontja szerinti más gazdasági társaság vezető tiszts�
 
 c) a (3) bekezdés c) pontja szerinti más gazdasági társaság tagjaként
 
-az üzlet ideiglenes bezáratásának időtartama alatt vendéglátó tevékenységet nem végezhet.
+## az üzlet ideiglenes bezáratásának időtartama alatt vendéglátó tevékenységet nem végezhet.
 
 (3) Ha az ideiglenesen bezáratott vendéglátó üzlet üzemeltetője gazdasági társaság, abban az esetben
 
@@ -33,7 +33,5 @@ a) a szervező vagy az üzemeltető,
 b) a (2) bekezdés szerinti személy, valamint
 
 c) a (3) bekezdés szerinti vendéglátó üzletet üzemeltetőjének
-
-működési engedélyét visszavonja, illetve a tevékenység folytatását megtiltja és az üzletet a nyilvántartásból törli.
 
 [^50]: A 22/A. §-t a 28/2021. (I. 29.) Korm. rendelet 3. §-a iktatta be.

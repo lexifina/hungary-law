@@ -8,6 +8,4 @@ c) a szociális intézmény dolgozója és
 
 d) a bölcsőde dolgozója
 
-esetében.
-
 [^41]: A 19. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.

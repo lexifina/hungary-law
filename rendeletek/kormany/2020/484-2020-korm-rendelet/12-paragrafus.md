@@ -1,3 +1,5 @@
+## üzemeltetője, illetve vezetője köteles gondoskodni.
+
 ## 7. A szabadidős létesítményekre vonatkozó védelmi intézkedések
 
 12. §[^32] (1) Az e rendeletben meghatározott kivétellel tilos
@@ -34,7 +36,7 @@ je) közösségi színtérnek és
 
 jf) integrált kulturális intézménynek
 
-a látogatása és e helyszíneken – az ott foglalkoztatottak kivételével – a tartózkodás.
+## a látogatása és e helyszíneken – az ott foglalkoztatottak kivételével – a tartózkodás.
 
 (2) A szálláshelyen – a 10. § (3) és (4) bekezdése szerint – jogszerűen tartózkodó vendég a szálláshelyen található (1) bekezdés szerinti helyszíneket nem látogathatja.
 
@@ -47,8 +49,6 @@ a látogatása és e helyszíneken – az ott foglalkoztatottak kivételével �
 a) a felnőttképzésről szóló törvény vagy
 
 b) a szakképzésről szóló törvény
-
-szerinti képzés megtartása céljából látogatható, ott a képzés időtartama alatt a képzésen résztvevők és az oktatók tartózkodása megengedett.
 
 [^32]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
 [^33]: A 12. § (5) bekezdését a 28/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.

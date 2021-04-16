@@ -32,7 +32,7 @@ ha) történő munkavégzés során,
 
 hb) vendégként
 
-orvosi maszkot, munkavédelmi maszkot, illetve textil vagy más anyagból készült maszkot (a továbbiakban együtt: maszk) olyan módon viselni, hogy az az orrot és a szájat folyamatosan elfedje.
+## orvosi maszkot, munkavédelmi maszkot, illetve textil vagy más anyagból készült maszkot (a továbbiakban együtt: maszk) olyan módon viselni, hogy az az orrot és a szájat folyamatosan elfedje.
 
 (2) Az egészségügyi intézmény területén – a (3) bekezdés szerinti kivétellel – mindenki köteles az (1) bekezdésben meghatározott módon maszkot viselni.
 
@@ -44,7 +44,7 @@ a) az ott foglalkoztatottaknak az ellátottakkal való közvetlen érintkezésko
 
 b) az ellátottaknak a közösségi programok alkalmával és a közösségi terekben való tartózkodás esetén lehetőség szerint
 
-az (1) bekezdésben meghatározott módon maszkot kell viselniük.
+## az (1) bekezdésben meghatározott módon maszkot kell viselniük.
 
 (4a)[^6] A munkáltató és a munkavállaló megállapodhatnak abban, hogy az üzletben történő munkavégzés során az ott dolgozók számára a munkáltató vagy az üzletvezető olyan szünetet biztosít, amely során mellőzhetik a maszk használatát.
 
@@ -64,7 +64,7 @@ ab) a maszkviselésre vonatkozó szabályok alóli mentesség érvényesítésé
 
 b) orvosi igazolással
 
-igazolhatja állapotát.
+## igazolhatja állapotát.
 
 (6)[^9] Nem köteles a tömegközlekedési eszköz vezetője maszkot viselni a tömegközlekedési eszköz zárt kialakítású vezetőfülkéjében történő munkavégzés során.
 
