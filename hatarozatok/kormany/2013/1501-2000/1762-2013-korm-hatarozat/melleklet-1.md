@@ -36,7 +36,7 @@
 
 ## d) a kérelmező önkormányzat kötelezettséget vállal arra, hogy a kormányablak projekt megvalósításához szükséges helyiségek használatát ingyenesen biztosítja a Vas Megyei Kormányhivatal részére.
 
-## 5. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján intézkedjen annak érdekében, hogy a 4. pont b) alpontja szerinti ingatlan – az állam javára történő megszerzést követően – a BM Országos Katasztrófavédelmi Főigazgatóság vagyonkezelésébe kerüljön.
+## 5.[^1]
 
 ## 6. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Visegrád Város Önkormányzatával megkötésre kerülő tulajdonátruházási szerződés – a 3. pontban foglaltakon túlmenően – tartalmazza azt is, hogy a Visegrád 71/2 helyrajzi számú ingatlannak a kérelmező önkormányzat javára történő tulajdonba adására kizárólag abban az esetben kerülhet sor, ha Visegrád Város Önkormányzata a tulajdonában álló, Visegrád 741/1 helyrajzi számú ingatlan tulajdonjogát az állam részére ingyenesen átruházza, és ezzel kapcsolatban a Vidékfejlesztési Minisztérium nyilatkozata rendelkezésre áll.
 
@@ -50,7 +50,7 @@
 
 ## 9. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Szombathely Megyei Jogú Város Önkormányzatával megkötésre kerülő tulajdonátruházási szerződés – a 3. pontban foglaltakon túlmenően – tartalmazza azt is, hogy:
 
-## a)[^1] a Szombathely 4877/3 helyrajzi számú ingatlannak a kérelmező önkormányzat javára történő ingyenes tulajdonba adására kizárólag abban az esetben kerülhet sor, ha Szombathely Megyei Jogú Város Önkormányzata a tulajdonában álló, Szombathely 6130 helyrajzi számú ingatlannak a tulajdonjogát az állam részére ingyenesen átruházza;
+## a)[^2] a Szombathely 4877/3 helyrajzi számú ingatlannak a kérelmező önkormányzat javára történő ingyenes tulajdonba adására kizárólag abban az esetben kerülhet sor, ha Szombathely Megyei Jogú Város Önkormányzata a tulajdonában álló, Szombathely 6130 helyrajzi számú ingatlannak a tulajdonjogát az állam részére ingyenesen átruházza;
 
 ## b) a Szombathely 4877/3 helyrajzi számú ingatlannak a kérelmező önkormányzat javára történő ingyenes tulajdonba adására kizárólag a 12. pontban meghatározott társasági részesedés kérelmező önkormányzat részére történő átruházásával együtt, egyidejűleg kerülhet sor.
 
@@ -80,7 +80,8 @@
 
 ## Határidő: közzétételt követő hat hónapon belül
 
-1. melléklet az 1762/2013. (X. 25.) Korm. határozathoz[^2]
+1. melléklet az 1762/2013. (X. 25.) Korm. határozathoz[^3]
 
-[^1]: A 9. pont a) alpontja az 1528/2016. (IX. 29.) Korm. határozat szerint módosított szöveg.
-[^2]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont g) alpontja szerint módosított szöveg.
+[^1]: Az 5. pontot az 1183/2021. (IV. 16.) Korm. határozat 17. pontja visszavonta.
+[^2]: A 9. pont a) alpontja az 1528/2016. (IX. 29.) Korm. határozat szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1624/2017. (IX. 11.) Korm. határozat 2. pont g) alpontja szerint módosított szöveg.
