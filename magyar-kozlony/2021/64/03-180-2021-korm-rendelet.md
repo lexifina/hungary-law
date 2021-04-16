@@ -1,0 +1,119 @@
+# A Kormány 180/2021. (IV. 16.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 64. szám, 2021. április 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5uanx3f7Zic6wNkpf7pb606e00da19a2d/dokumentumok/15e1b6122c57ce0404b198e8865b3e8d8aaf1c16/letoltes)
+
+---
+
+A Kormány 180/2021. (IV. 16.) Korm. rendelete
+a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról,
+a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény egyes rendelkezéseinek eltérő
+alkalmazásáról
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 10. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.)
+Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt
+a) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.),
+b) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény
+(a továbbiakban: Ctv.), valamint
+c) a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló
+2020. évi LVIII. törvény (a továbbiakban: Vmtv.) 157. §-a
+rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+2. §
+A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes a Kormány Cstv. 65. §-a
+alapján kihirdetett rendeletében stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősített szervezet
+csődeljárására és felszámolási eljárására (Cstv. IV. Fejezet), valamint arra a csődeljárásra és felszámolási eljárásra,
+amelyben e rendelet 4. §-a alapján kell a Cstv. IV. Fejezetének szabályait alkalmazni.
+3. §
+A Cstv. 27. § (2b) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Cstv. 27. § (2) bekezdés a) és b) pontja
+esetében csak akkor nyújtható be az adós felszámolása iránti kérelem, ha a követelés összege (kamatok és járulékok
+nélkül számítva) meghaladja a 400 000 forintot.
+4. § (1) A Cstv. IV. Fejezetében foglalt szabályokat kell alkalmazni arra a gazdasági társaságra is, amelyben az államnak
+részesedése van. Ebben az esetben a Kormánynak nem kell a Cstv. 65. §-a szerinti rendeletet meghoznia. A bíróság
+az állami részesedésre vonatkozó adatokat a cégjegyzékből állapítja meg, szükség esetén az adós gazdálkodó
+szervezetet kiegészítő nyilatkozattételre hívja fel.
+(2) Ha a gazdálkodó szervezet végelszámolójaként – az e rendelet 7. §-a alapján – a Cstv. 66. § (2) bekezdésében
+meghatározott állami felszámoló szervezet jár el, és a gazdálkodó szervezet felszámolását kezdeményezi
+a Ctv. 108. § (1) bekezdése és a Cstv. 22. § (1) bekezdés b) pontja alapján, a Cstv. 27/A. § (1) bekezdését azzal
+az eltéréssel kell alkalmazni, hogy a bíróság a Cstv. 66. § (2) bekezdése szerinti állami felszámolót rendeli ki
+felszámolóként, és a Cstv. IV. Fejezetében foglalt szabályokat alkalmazza, kivéve, ha a gazdálkodó szervezet olyan
+pénzügyi szervezet, amelynek végelszámolója – külön törvényben foglaltak szerint – a Magyar Nemzeti Bank által
+kijelölt állami pénzügyi felszámoló szervezet volt.
+5. § (1) A Cstv. 65. § (3) bekezdés b) pontja szerint nemzetgazdasági szempontból jelentős projekt megvalósításában
+vesz részt az a gazdálkodó szervezet is, amely a nemzetgazdasági szempontból kiemelt jelentőségű beruházások
+megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá eső beruházás megvalósításában vesz
+részt megrendelőként, fővállalkozóként vagy a beruházás megvalósítására irányuló közbeszerzési eljárásban, illetve
+védelmi, biztonsági beszerzési eljárásban bejelentett alvállalkozóként.
+(2) A Cstv. 65. § (3) bekezdés c) pontja alkalmazásában a Kormány stratégiailag kiemelt jelentőségű gazdálkodó
+szervezetté minősítheti azt a szervezetet is, amely jogszabály alapján lát el közfeladatot.
+(3) A Cstv. 65. § (3) bekezdés d) pontja alkalmazásában a Kormány stratégiailag kiemelt jelentőségű gazdálkodó
+szervezetté minősítheti azt a gazdálkodó szervezetet is, amely 500 millió forintot meghaladó európai uniós vagy
+más nemzetközi forrásból valósít meg beruházást vagy más fejlesztést.
+
+(4) A Cstv. 68. § (1) bekezdésében foglaltak alapján nyilváníthatja a Kormány stratégiailag kiemelt jelentőségű
+gazdálkodó szervezetté azt a szervezetet is, amely vagyona vagy gazdasági tevékenysége a nemzetgazdaság
+stabilitása szempontjából kiemelt jelentőséggel bír.
+(5) A Cstv. 67. § (9i) bekezdésében foglaltakat az adós gazdálkodó szervezet 25 millió forintot meghaladó egyedi
+forgalmi értékű vagyonelemeinek értékesítésekor kell alkalmazni. Az elővásárlási jogot a Magyar Nemzeti
+Vagyonkezelő Zártkörűen működő Részvénytársaság gyakorolja.
+(6) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolási eljárásában a felszámoló az élet-
+és vagyonbiztonságot fenyegető helyzetek elhárításához és a hatósági határozattal elrendelt intézkedés
+végrehajtásához, továbbá a felszámolás alatti továbbműködéshez szükséges költségek kifizetése érdekében
+a Cstv. 58. § (1) bekezdésében foglaltakat akként alkalmazza, hogy az indokolt esetekben a Cstv. 57. § (1) bekezdés
+a) pontjában meghatározott felszámolási költségként kifizetendő követelések esetében az esedékesség sorrendjét
+figyelmen kívül hagyhatja. Ezeket a kifizetéseket a közbenső mérleg, valamint a zárómérleg szöveges jelentésében
+be kell mutatni.
+6. §
+A cég a Ctv. 24. § (1) bekezdés m) pontja szerinti adatának változását illeték és közzétételi költségtérítés nélkül
+jelentheti be, ha más adatának változását egyidejűleg nem jelenti be és a cégadat változtatására a cégtől független
+külső ok miatt kerül sor, amely körülményt a cég hitelt érdemlően igazol a változásbejegyzési kérelmében.
+7. § (1) A Ctv. 99. §-át azzal az eltéréssel kell alkalmazni, hogy az a cég, amelyben az államnak közvetlen többségi
+befolyása van [a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. § (1) és (2) bekezdése], végelszámolóként
+kizárólag a Cstv. 66. § (2) bekezdésében meghatározott állami felszámoló szervezetet választhatja meg, kivéve, ha
+a gazdálkodó szervezet olyan pénzügyi szervezet, amelynek végelszámolója – külön törvényben foglaltak szerint –
+a Magyar Nemzeti Bank által kijelölt állami pénzügyi felszámoló szervezet.
+(2) Az (1) bekezdés szerinti végelszámoló díjazásáról a végelszámolás alatt álló cég és a végelszámoló szabadon
+állapodnak meg.
+(3) A (2) bekezdésben meghatározott megállapodás hiányában a végelszámoló díjazása a tevékenység zárómérlegben
+szereplő eszközök könyv szerinti értékének alapulvételével:
+a) 100 000 000 forint alatti könyv szerinti érték esetén annak 2%-a, de legalább 250 000 forint,
+b) 100 000 000 forint – 500 000 000 forint közötti könyv szerinti érték esetén a 100 000 000 forint 2%-a és
+az efeletti rész 1,25%-a,
+c) 500 000 001 forint – 1 000 000 000 forint közötti könyv szerinti érték esetén az 500 000 000 forint 1,25%-a és
+az efeletti rész 0,75%-a,
+d) 1 000 000 001 forint feletti könyv szerinti érték esetén az 1 000 000 000 forint 0,75%-a és az efeletti rész
+0,25%-a.
+(4) A végelszámoló jogosult előleg felvételére a számviteli beszámoló legfőbb szerv általi elfogadását követő 15 napon
+belül.
+(5) Ha az értékesítés bevételének és a végelszámolás alatti működés nettó árbevételének 2%-a a (3) bekezdés szerinti
+díjazás összegét meghaladja, úgy ez utóbbi összeg illeti meg a végelszámolót, legkésőbb a vagyonfelosztási javaslat
+jóváhagyásával egyidejűleg.
+(6) A végelszámoló a (3) és (5) bekezdés szerinti díjazásra abban az esetben is jogosult, ha a cég legfőbb szerve
+a Ctv. 113. §-a szerint a végelszámolás megszüntetéséről és a cég működésének továbbfolytatásáról határozott.
+8. §
+A Vmtv. 157. §-a hatálya alá tartozó, felfüggesztett kényszertörlési eljárásokban a felfüggesztés ideje alatt
+a Bérgarancia biztos a Ctv. 117/A. § (4) bekezdésében foglaltak szerint kijelölhető és a törvényben előírt feladatait
+elláthatja.
+9. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 10. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+10. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet 2021. május 23-án hatályát veszti.
+
+11. § (1) A 2–3. §-ban és a 4. § (2) bekezdésében foglaltakat azokra a csődeljárásokra és felszámolási eljárásokra kell
+alkalmazni, amelyekben a csődeljárás vagy felszámolási eljárás iránti kérelem e rendelet hatálybalépését követően
+került benyújtásra, vagy a felszámolás hivatalból történő elrendelésére hivatalból e rendelet hatálybalépését
+követően kerül sor.
+(2) A 4. § (1) bekezdésében foglaltakat a 2021. május 22. napján folyamatban lévő eljárásokra vonatkozóan is
+alkalmazni kell. A bíróság az e rendelet hatálybalépésétől számított 15 napon belül hozza meg a Cstv. 66. §
+(3a) bekezdése szerinti végzését.
+(3) Az 5. §-ban foglaltakat a 2021. május 22. napján folyamatban lévő eljárásokra vonatkozóan is alkalmazni kell.
+(4) A 6. §-ban foglaltakat e rendelet hatálybalépését követően benyújtott változásbejegyzési kérelmekre kell
+alkalmazni.
+(5) A 7. §-ban foglaltakat az e rendelet hatálybalépését követően elhatározott végelszámolásokra kell alkalmazni.
+ Orbán Viktor s. k.,
+ miniszterelnök
