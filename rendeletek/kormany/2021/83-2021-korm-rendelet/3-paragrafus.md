@@ -4,7 +4,7 @@
 
 (2)[^1] A 2. mellékletben foglalt táblázat 4, 5., 6. és 11. sora szerinti beruházás kivételével a Beruházásokkal összefüggésben településképi bejelentési eljárásnak nincs helye.
 
-(3)[^2] A 2. mellékletben foglalt táblázat 3. sora szerinti beruházás esetében településképi véleményezési eljárást nem kell lefolytatni.
+(3)[^2] A 2. mellékletben foglalt táblázat 3. és 10. sora szerinti beruházás esetében településképi véleményezési eljárást nem kell lefolytatni.
 
 [^1]: A 3. § (2) bekezdése a 134/2021. (III. 19.) Korm. rendelet 3. §-a, a 162/2021. (IV. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^2]: [A 3. § (3) bekezdésének a 162/2021. (IV. 2.) Korm. rendelet 3. § b) pontjával elrendelt módosítása, amely szerint a „3., 7. és 10. sora szerinti” szövegrész helyébe a „3., 7., 10. és 11. sora szerinti” szöveg lép, nem vezethető át.]
+[^2]: A 3. § (3) bekezdése a 184/2021. (IV. 16.) Korm. rendelet 3. §-a szerint módosított szöveg.

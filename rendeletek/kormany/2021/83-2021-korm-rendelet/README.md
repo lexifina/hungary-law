@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2021-02-25 | 2021-83-20-22.2 | 2010: CXXX. törvény |
 | 2021-03-20 | 2021-83-20-22.3 | 2010: CXXX. törvény |
 | 2021-04-03 | 2021-83-20-22.4 | 162/2021. (IV. 2.) Korm. rendelet |
+| 2021-04-17 | 2021-83-20-22.5 | 184/2021. (IV. 16.) Korm. rendelet |
