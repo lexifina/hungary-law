@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-175-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-04-16 | 2021-175-20-22.1 | 175/2021. (IV. 15.) Korm. rendelet |
+| 2021-04-17 | 2021-175-20-22.2 | 2010: CXXX. törvény |

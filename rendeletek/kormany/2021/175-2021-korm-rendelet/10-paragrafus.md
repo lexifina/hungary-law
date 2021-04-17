@@ -1,6 +1,4 @@
-## 9. § A határellenőrzés ideiglenes visszaállításáról szóló 407/2020. (VIII. 30.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ez a rendelet 2021. május 23-án hatályát veszti.”
+## 9. §[^9]
 
 ## 6. Záró rendelkezések
 
@@ -9,3 +7,5 @@
 (2) Az 1. § és a 3–5. § a hárommillió-ötszázezredik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.
 
 (3) Az 1. § és a 3–5. § hatálybalépésének naptári napját az élet és vagyonbiztonság védelméért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
