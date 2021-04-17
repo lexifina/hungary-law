@@ -166,6 +166,8 @@
 
 ## Határidő: e határozat közzétételét követő hat hónapon belül
 
-## 17. visszavonja az egyes állami vagyontárgyak ingyenes önkormányzati tulajdonba adásáról szóló 1762/2013. (X. 25.) Korm. határozat 5. pontját.
+## 17.[^1]
 
 1. melléklet az 1183/2021. (IV. 16.) Korm. határozathoz
+
+[^1]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
