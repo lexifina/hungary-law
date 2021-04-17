@@ -1,0 +1,11 @@
+5. § (1) A Cstv. 65. § (3) bekezdés b) pontja szerint nemzetgazdasági szempontból jelentős projekt megvalósításában vesz részt az a gazdálkodó szervezet is, amely a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá eső beruházás megvalósításában vesz részt megrendelőként, fővállalkozóként vagy a beruházás megvalósítására irányuló közbeszerzési eljárásban, illetve védelmi, biztonsági beszerzési eljárásban bejelentett alvállalkozóként.
+
+(2) A Cstv. 65. § (3) bekezdés c) pontja alkalmazásában a Kormány stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítheti azt a szervezetet is, amely jogszabály alapján lát el közfeladatot.
+
+(3) A Cstv. 65. § (3) bekezdés d) pontja alkalmazásában a Kormány stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítheti azt a gazdálkodó szervezetet is, amely 500 millió forintot meghaladó európai uniós vagy más nemzetközi forrásból valósít meg beruházást vagy más fejlesztést.
+
+(4) A Cstv. 68. § (1) bekezdésében foglaltak alapján nyilváníthatja a Kormány stratégiailag kiemelt jelentőségű gazdálkodó szervezetté azt a szervezetet is, amely vagyona vagy gazdasági tevékenysége a nemzetgazdaság stabilitása szempontjából kiemelt jelentőséggel bír.
+
+(5) A Cstv. 67. § (9i) bekezdésében foglaltakat az adós gazdálkodó szervezet 25 millió forintot meghaladó egyedi forgalmi értékű vagyonelemeinek értékesítésekor kell alkalmazni. Az elővásárlási jogot a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság gyakorolja.
+
+(6) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolási eljárásában a felszámoló az élet- és vagyonbiztonságot fenyegető helyzetek elhárításához és a hatósági határozattal elrendelt intézkedés végrehajtásához, továbbá a felszámolás alatti továbbműködéshez szükséges költségek kifizetése érdekében a Cstv. 58. § (1) bekezdésében foglaltakat akként alkalmazza, hogy az indokolt esetekben a Cstv. 57. § (1) bekezdés a) pontjában meghatározott felszámolási költségként kifizetendő követelések esetében az esedékesség sorrendjét figyelmen kívül hagyhatja. Ezeket a kifizetéseket a közbenső mérleg, valamint a zárómérleg szöveges jelentésében be kell mutatni.
