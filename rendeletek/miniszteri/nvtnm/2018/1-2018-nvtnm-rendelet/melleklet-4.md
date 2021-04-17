@@ -46,7 +46,9 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | MPF Felügyeleti Szolgáltató Korlátolt Felelősségű Társaság | 01-09-350667 | 2022. december 31. |
+| 1. | DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaság | 01-09-350667 | 2022. december 31. |
+
+| 2. | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság | 01-09-381151 | 2022. december 31. |
 
 ## IV. Tulajdonosi joggyakorló: a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság
 

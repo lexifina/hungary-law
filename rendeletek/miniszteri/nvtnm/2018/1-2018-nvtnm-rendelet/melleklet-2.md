@@ -252,9 +252,9 @@
 
 | 3. | Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság | 01-09-327932 | 2022. december 31. |
 
-| 4. | Comitatus-Energia Beruházási Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság | 05-10-000475 | 2022. december 31. |
+| 4. |  |  |  |
 
-| 5. | Manevi Zártkörű Részvénytársaság | 01-10-043414 | 2022. december 31. |
+| 5. |  |  |  |
 
 | 6. | HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140442 | 2022. december 31. |
 
