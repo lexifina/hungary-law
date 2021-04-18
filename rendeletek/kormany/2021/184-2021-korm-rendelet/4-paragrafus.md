@@ -1,1 +1,3 @@
-## 3. § Az R. 3. § (3) bekezdésében a „3. sora szerinti” szövegrész helyébe a „3. és 10. sora szerinti” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
