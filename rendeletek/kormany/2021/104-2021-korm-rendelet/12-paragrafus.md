@@ -1,3 +1,5 @@
+## 11. §
+
 ## 8. A közigazgatás működésére vonatkozó ideiglenes védelmi intézkedések
 
 12. § (1) A közigazgatásban foglalkoztatott személyek a munkájukat a munkavégzés rendes helyétől eltérően, a lakó-, illetve tartózkodási helyükön, saját eszközeikkel végzik.
