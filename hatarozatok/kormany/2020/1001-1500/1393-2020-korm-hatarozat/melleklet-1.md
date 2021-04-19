@@ -72,7 +72,7 @@
 
 ## 11. A kormánybiztos 2. melléklet 2. pontja szerinti beruházással kapcsolatos tevékenységét a miniszterelnök a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter útján irányítja.
 
-## 12. A kormánybiztos az 1. melléklet 8. pontja szerinti beruházással kapcsolatos tevékenységét az innovációért és technológiáért felelős miniszterrel együttműködve végzi.
+## 12.[^1]
 
 ## 13. A kormánybiztos tevékenységét titkárság nem segíti.
 
@@ -80,7 +80,7 @@
 
 ## 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 16.[^1]
+## 16.[^2]
 
 1. melléklet az 1393/2020. (VII. 13.) Korm. határozathoz
 
@@ -98,9 +98,9 @@
 
 6. a Rubik-kocka motívuma és gondolatisága által ihletett kiállítási központ („science center”),
 
-7. a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 1. melléklete szerinti Budapest Diákváros – Déli Városkapu Fejlesztési Program részét képező létesítményfejlesztési projektek, városfejlesztés,
+7.[^3] a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 1. melléklete szerinti létesítményfejlesztési projektek, városfejlesztés, a Budapest Diákváros kivételével,
 
-8. a 7. pont szerinti beruházás részeként a Fudan Egyetem elhelyezéséhez szükséges épületegyüttes,
+8.[^4]
 
 9. a Nemzeti Korcsolyázó Központ,
 
@@ -112,4 +112,7 @@
 
 13. további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
 
-[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 12. pontot az 1182/2021. (IV. 16.) Korm. határozat 8. pontja hatályon kívül helyezte.
+[^2]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet 7. pontja az 1182/2021. (IV. 16.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 8. pontját az 1182/2021. (IV. 16.) Korm. határozat 8. pontja hatályon kívül helyezte.
