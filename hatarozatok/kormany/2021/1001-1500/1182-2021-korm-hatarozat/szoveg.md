@@ -18,6 +18,9 @@ b) ellátja – a külpolitikáért felelős miniszterrel és az államháztart�
 
 6. Ez a határozat 2021. április 19-én lép hatályba.
 
-7. A kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos kinevezéséről és feladatairól szóló 1393/2020. (VII. 13.) Korm. határozat (a továbbiakban: Korm. határozat) 1. melléklet 7. pontjában az „1. melléklete szerinti Budapest Diákváros – Déli Városkapu Fejlesztési Program részét képező létesítményfejlesztési projektek, városfejlesztés” szövegrész helyébe az „1. melléklete szerinti létesítményfejlesztési projektek, városfejlesztés, a Budapest Diákváros kivételével” szöveg lép.
+7.[^1]
 
-8. Hatályát veszti a Korm. határozat 12. pontja és 1. melléklet 8. pontja.
+8.[^2]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
