@@ -1,3 +1,3 @@
-## 8. § A védelmi intézkedések ideiglenes szigorítása idején a gyermekfelügyeletről szóló 111/2021. (III. 6.) Korm. rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^3]
 
-## „(1) Az általános iskola 5–8. évfolyamaiban – a köznevelési intézményekben, a szakképző intézményekben, valamint a felnőttképzésben a rendes oktatásra történő visszatérésről és az óvodákban elrendelt rendkívüli szünet megszüntetéséről szóló 177/2021. (IV. 15.) Korm. rendelet 2. § (3) bekezdése szerinti tantermen kívüli, digitális munkarend időtartama alatt – a szülő, törvényes képviselő kérelmére az intézményvezető gondoskodik a gyermekek, tanulók napközbeni felügyeletének megszervezéséről.”
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
