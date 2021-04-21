@@ -10,5 +10,8 @@ fennálló, fel nem mondott lakáscélú jelzáloghitel-szerződés esetén igé
 
 (2)[^9] A lakáscélú jelzáloghitel fedezetét képező ingatlanban az igénylőnek – együttes igénylés esetén az igénylőknek összesen – legalább 50%-os mértékű, az ingatlan-nyilvántartásban bejegyzett tulajdoni hányaddal kell rendelkeznie.
 
+(3)[^10] A támogatás a (2) bekezdésben foglalt feltétel hiányában is igényelhető, ha a lakáscélú jelzáloghitel fedezetét képező ingatlan tekintetében a (2) bekezdésben foglalt feltétel az igénylő elhunyt házastársa vagy élettársa esetében fennállt, és a lakásban az elhunyt házastárs vagy élettárs kiskorú gyermeke örökléssel – az igénylő esetlegesen meglévő tulajdoni hányadával együttesen legalább 50%-ot elérő mértékben – tulajdonjogot szerzett.
+
 [^8]: A 4. § (1a) bekezdését a 686/2020. (XII. 29.) Korm. rendelet 30. §-a iktatta be.
 [^9]: A 4. § (2) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 20. §-a iktatta be.
