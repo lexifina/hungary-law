@@ -30,9 +30,12 @@ a) magzat és az egy évnél nem régebben született gyermek esetén, vagy
 
 b)[^7] ha a támogatással érintett lakás tulajdonjogának megszerzésére, vagy az igénylő, illetve kiskorú gyermekei tulajdonában lévő telken felépült lakás ingatlan-nyilvántartási bejegyzésére a támogatási kérelem benyújtását megelőző egy éven belül került sor.
 
+c)[^8] ha az igénylő és a gyermek az igénylő foglalkoztatásra irányuló jogviszonya következtében – ideértve a sajátos egyházi jogviszonyt is – a foglalkoztatásra irányuló jogviszony jellegéből következően köteles, illetve az igénylés benyújtását megelőző egyéves időszakon belül köteles volt a szolgálati helyén a foglalkoztató által térítésmentesen biztosított szolgálati lakásban lakni a foglalkoztatásra irányuló jogviszony fennállása alatt.
+
 (7) Korábban már támogatással érintett lakásra támogatás nem igényelhető, kivéve, ha a korábbi igénylő az igénylése időpontjában meglévő tulajdoni hányadát teljes mértékben elidegenítette; ebben az esetben a korábban már támogatással érintett lakásra újabb igénylő részéről – figyelemmel a 3. § (2) bekezdésére is – ismételten igényelhető a támogatás, ha az újabb igénylő a korábbi igénylőnek nem hozzátartozója.
 
 [^4]: A 4. § (2) bekezdés b) pontja a 641/2020. (XII. 22.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
 [^5]: A 4. § (3) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^6]: A 4. § (3a) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 5. §-a iktatta be.
 [^7]: A 4. § (6) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (6) bekezdés c) pontját a 183/2021. (IV. 16.) Korm. rendelet 23. §-a iktatta be.

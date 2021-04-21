@@ -1,4 +1,4 @@
-## 5. § A támogatás összege a számlával igazolt felújítási költségek 50%-a, de legfeljebb 3 000 000 forint.
+## és a támogatott személy az otthonfelújítási kölcsöntartozására korábban a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló 337/2017. (XI. 14.) Korm. rendelet szerinti támogatást (a továbbiakban: jelzáloghitel-csökkentési támogatás) vett igénybe, akkor az otthonfelújítási támogatás összege nem lehet magasabb, mint a számlával igazolt felújítási összeg, valamint az otthonfelújítási kölcsöntartozásra igénybe vett jelzáloghitel-csökkentési támogatás összegének különbözete, és nem haladhatja meg az (1) bekezdés szerinti összeget.
 
 ## 5. Támogatható építési tevékenységek
 
@@ -10,7 +10,7 @@ b) fürdőhelyiség, illetve WC létesítése olyan lakásban, amely nem rendelk
 
 c) fűtési rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, ideértve a megújuló energiaforrások alkalmazását is,
 
-d)[^8] az épület külső festése, színezése, valamint szigetelése, utóbbinál, ideértve a lábazatszigetelést, a hő-, hang-, illetve vízszigetelési munkálatokat,
+d)[^10] az épület külső festése, színezése, valamint szigetelése, utóbbinál, ideértve a lábazatszigetelést, a hő-, hang-, illetve vízszigetelési munkálatokat,
 
 e) a külső nyílászáró cseréje, redőny, árnyékoló, spaletta, rovarháló, biztonsági rács felszerelése vagy cseréje, párkányok, küszöbök cseréje vagy felújítása,
 
@@ -36,7 +36,7 @@ je) a villanykapcsolók és -dugaljak kialakítását és cseréjét,
 
 jf) a belső nyílászárók, belső párkányok, küszöbök beépítését, cseréjét vagy felújítását,
 
-jg)[^9] a lámpák vagy világítótestek beépítését vagy cseréjét,
+jg)[^11] a lámpák vagy világítótestek beépítését vagy cseréjét,
 
 k) a lakással azonos ingatlan-nyilvántartási helyrajzi számon található épület, nem lakás céljára szolgáló helyiség (így különösen: nyári konyha, mosókonyha, tároló) felújítása,
 
@@ -52,12 +52,19 @@ p) télikert kialakítása,
 
 q) – amennyiben az igénylő vagy gyermeke mozgáskorlátozott személynek minősül – a 12/2001. (I. 31.) Korm. rendelet 9. § (10) bekezdésében meghatározott akadálymentesítési munkák,
 
-r) alapozási szerkezet megerősítése, valamint
+r)[^12] alapozási szerkezet megerősítése,
 
 s) beépíthető bútor vagy konyhai gép beépítése, cseréje.
 
-t)[^10] használati melegvíz rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, ideértve a megújuló energiaforrások alkalmazását is.
+t)[^13] használati melegvíz rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, ideértve a megújuló energiaforrások alkalmazását is.
 
-[^8]: A 6. § d) pontja a 641/2020. (XII. 22.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^9]: A 6. § j) pont jg) alpontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^10]: A 6. § t) pontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+u)[^14] szabályozott szellőzési rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, valamint
+
+v)[^15] szennyvíz tisztítására és elhelyezésére szolgáló egyedi szennyvízkezelő berendezés vagy tisztítómezővel ellátott oldómedencés műtárgy telepítése vagy cseréje.
+
+[^10]: A 6. § d) pontja a 641/2020. (XII. 22.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^11]: A 6. § j) pont jg) alpontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^12]: A 6. § r) pontja a 183/2021. (IV. 16.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^13]: A 6. § t) pontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^14]: A 6. § u) pontját a 183/2021. (IV. 16.) Korm. rendelet 25. §-a iktatta be.
+[^15]: A 6. § v) pontját a 183/2021. (IV. 16.) Korm. rendelet 25. §-a iktatta be.
