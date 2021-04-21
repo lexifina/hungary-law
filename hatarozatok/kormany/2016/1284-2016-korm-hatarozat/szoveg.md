@@ -130,8 +130,17 @@ Felelős: az 1–4. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
 
+6.[^6] A Kormány Veszprém belterületi közúthálózat és kapcsolódó terek fejlesztési céljainak (a továbbiakban: beruházás) megvalósítása érdekében felhívja a Miniszterelnökséget vezető minisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával és az Önkormányzattal egyeztetve tegye meg a szükséges intézkedéseket a beruházás előkészítéséhez és megvalósításához szükséges források biztosítása érdekében.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: azonnal
+
 [^1]: A 2. pont a)–b) alpontját az 1422/2016. (VII. 29.) Korm. határozat 7. pontja visszavonta.
 [^2]: A 2. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
 [^3]: A 2. pont e) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a) alpontja az 1394/2016. (VII. 21.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^5]: A 3. pont b) alpontja az 1526/2019. (IX. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: A 6. pontot az 1193/2021. (IV. 21.) Korm. határozat iktatta be.
