@@ -16,16 +16,25 @@ a) az 518/2020. (XI. 25.) Korm. rendelet 9. § (3) bekezdés c)–g), i) és k) 
 
 b) az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdésében foglalt biztosítotti jogviszony fennállásáról az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított igazolást,
 
-c) a középfokú oktatási-nevelési intézmény nappali tagozatán folytatott tanulmányokról a középfokú oktatási-nevelési intézmény által kiállított igazolást, vagy az érettségi bizonyítványt vagy az arról az azt kiállító oktatási intézmény által készített hiteles másolatot,
+c)[^204]
 
-d) a felsőoktatási intézmény nappali tagozatán folytatott tanulmányokról a felsőoktatási intézmény által kiállított igazolást,
+d)[^205]
 
 e) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/E. §-a alapján megállapított gyermekgondozási díj folyósításának időtartamáról az ellátást megállapító szerv által kiállított igazolást, és
 
-f) az igénylő büntetőjogi felelőssége tudatában tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatát az 518/2020. (XI. 25.) Korm. rendelet 4. § (2) bekezdés c) pontja szerinti köztartozásmentességéről.
+f)[^206] az igénylő büntetőjogi felelőssége tudatában tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatát
+
+fa) – amennyiben a jogosultság megállapítását erre hivatkozással kéri – az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdés b) pont bd) alpontja szerinti tanulmányok folytatásáról,
+
+fb) az 518/2020. (XI. 25.) Korm. rendelet 4. § (2) bekezdés c) pontja szerinti köztartozás-mentességéről,
+
+fc) annak vállalásáról, hogy az otthonfelújítási kölcsön összegét maradéktalanul a (2) bekezdés szerinti célokra fordítja.
 
 (4) Annak igazolása céljából, hogy az igénylő az 518/2020. (XI. 25.) Korm. rendelet szerinti otthonfelújítási támogatást nem vett igénybe, a hitelintézet megkeresi a Kincstárt.
 
 (5) Ha a hitelintézet a benyújtott kérelem és mellékletei alapján azt állapítja meg, hogy az igénylő a kérelem benyújtásának időpontjában a kamattámogatás feltételeinek megfelel, akkor a kamattámogatás igénybevételéről az igénylővel támogatási szerződést köt.
 
 [^203]: A 14b. alcímet (51/J–51/N. §) a 641/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^204]: Az 51/J. § (3) bekezdés c) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^205]: Az 51/J. § (3) bekezdés d) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^206]: Az 51/J. § (3) bekezdés f) pontja a 183/2021. (IV. 16.) Korm. rendelet 15. §-ával megállapított szöveg.

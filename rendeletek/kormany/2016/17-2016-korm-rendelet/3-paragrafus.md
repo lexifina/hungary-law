@@ -10,9 +10,9 @@
 
 (3)[^10] A (2) és (2a) bekezdés szerinti esetben, illetve állami kamattámogatással érintett lakáscélú kölcsön esetén a korábban igénybe vett támogatással összefüggésben előírt életvitelszerű bentlakási kötelezettséget az e rendelet szerinti újabb családi otthonteremtési támogatással érintett lakásban kell teljesíteni.
 
-(4)[^11] Ha ugyanazon fiatal házaspár megelőlegezett formában nyújtott lakáscélú állami támogatást – ideértve a megelőlegező kölcsönt is – vett igénybe, a 8. alcím szerinti megelőlegezett családi otthonteremtési kedvezmény akkor igényelhető, ha a korábbi gyermekvállalás teljesült.
+(4)[^11]
 
-(5) A hitelintézet a (4) bekezdés szerinti korábbi igénybevételt a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján és a TAKARNET rendszerből ellenőrzi.
+(5)[^12] A hitelintézet a jogosultsági feltételek fennállásának vizsgálata érdekében a korábbi igénybevételt a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján és a TAKARNET rendszerből ellenőrzi.
 
 [^5]: A 3. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 25. § (1) bekezdésével megállapított, a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
 [^6]: A 3. § (2) bekezdése a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
@@ -20,4 +20,5 @@
 [^8]: A 3. § (2b) bekezdését a 46/2019. (III. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
 [^9]: A 3. § (2c) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 11. §-a iktatta be.
 [^10]: A 3. § (3) bekezdése a 26/2018. (II. 28.) Korm. rendelet 37. § 1. pontja, a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
-[^11]: A 3. § (4) bekezdése a 46/2019. (III. 12.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (4) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^12]: A 3. § (5) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
