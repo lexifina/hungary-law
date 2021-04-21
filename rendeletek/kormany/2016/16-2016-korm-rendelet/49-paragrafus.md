@@ -4,9 +4,9 @@
 
 (3) Új lakás építése esetén a hitelintézet felmondja a támogatási szerződést, ha a használatbavételi engedély kiállítása, a használatbavétel tudomásulvétele vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány kiállítása előtt a támogatási szerződés teljesítése más, az építtető támogatott személynek felróható okból hiúsul meg.
 
-(4)[^140] Az (1)–(3) bekezdésben meghatározott esetben a támogatott személy a már folyósított támogatást a folyósítás napjától számított Ptk. szerinti késedelmi kamattal köteles visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a kormányhivatalt és megküldi az ügy iratait.
+(4)[^147] Az (1)–(3) bekezdésben meghatározott esetben a támogatott személy a már folyósított támogatást a folyósítás napjától számított Ptk. szerinti késedelmi kamattal köteles visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a kormányhivatalt és megküldi az ügy iratait.
 
-(5)[^141] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
+(5)[^148] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
 
-[^140]: A 49. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 7. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^141]: A 49. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^147]: A 49. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 7. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^148]: A 49. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
