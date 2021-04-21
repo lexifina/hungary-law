@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért azzal, hogy Balatonfüred Város Önkormányzata az Alkony program (a továbbiakban: Beruházás) keretében idősek számára otthont nyújtó szolgáltatást hozzon létre 150 férőhelyen;
+1.[^1] egyetért a részére bemutatott koncepció szerint az Alkony program keretében idősek számára 150 férőhelyen otthont nyújtó szolgáltatást célzó beruházás (a továbbiakban: Beruházás) előkészítésével az ingatlan-nyilvántartás szerinti Balatonfüred belterület 633/1 helyrajzi számú ingatlanon;
 
 2. egyetért azzal, hogy a Beruházás előkészítése érdekében 400 000 000 forint összegű, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-ának hatálya alá tartozó költségvetési támogatás kerüljön biztosításra Balatonfüred Város Önkormányzata számára;
 
@@ -10,8 +10,32 @@ Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-4. felhívja az emberi erőforrások miniszterét, hogy a Beruházás előkészítésének megvalósítása érdekében gondoskodjon Balatonfüred Város Önkormányzata részére a 2. pont szerinti összegben támogatói okirat kiadásáról, a biztosított költségvetési támogatás tekintetében elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettség rögzítésével.
+4.[^2] a Beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki, azzal, hogy a Beruházás előkészítésének megvalósítása érdekében gondoskodjon Balatonfüred Város Önkormányzata részére a 2. pont szerinti összegben támogatói okirat kiadásáról, a biztosított költségvetési támogatás tekintetében elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettség rögzítésével;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
+
+5.[^3] egyetért azzal, hogy a Beruházás
+
+a) előkészítője Balatonfüred Város Önkormányzata,
+
+b) megvalósítója a Beruházási Ügynökség
+
+legyen;
+
+6.[^4] egyetért azzal, hogy a 2. pont szerinti összeg a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a)–f) és l)–m) pontja szerinti előkészítési fázisainak 2021. június 30. napjáig történő megvalósítására használható fel;
+
+7.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás további előkészítésére és megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján nyújtson be előterjesztést a Kormány részére a Beruházás további előkészítéséről és megvalósításáról, a további előkészítéshez és kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezéséről, továbbá az emberi erőforrások minisztere bevonásával a Beruházás során létrejövő vagyonelemek tulajdoni viszonyaira, vagyonkezelőjére és üzemeltetési modelljére vonatkozó javaslat bemutatásával.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+emberi erőforrások minisztere
+
+Határidő: a Beruházás további előkészítését és megvalósítását célzó feltételes közbeszerzési eljárást követően
+
+[^1]: Az 1. pont az 1195/2021. (IV. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1195/2021. (IV. 21.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: Az 5. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 6. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 7. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be.
