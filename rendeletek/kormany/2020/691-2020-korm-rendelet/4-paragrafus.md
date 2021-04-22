@@ -30,7 +30,7 @@ f) az egészségügyi szolgáltató által kötendő egészségügyi ellátási 
 
 g) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés megkötése.
 
-(2a)[^4] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének vagy átruházott hatáskörben a 3. § (3) bekezdése szerinti vezetőjének hatásköre – a koronavírus elleni védőoltási tevékenység szervezése és a mentési tevékenység kivételével – a 2. mellékletben meghatározott illetékességi területén valamennyi egészségügyi tevékenység irányítására kiterjed. Így különösen
+(2a)[^6] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének vagy átruházott hatáskörben a 3. § (3) bekezdése szerinti vezetőjének hatásköre – a koronavírus elleni védőoltási tevékenység szervezése és a mentési tevékenység kivételével – a 2. mellékletben meghatározott illetékességi területén valamennyi egészségügyi tevékenység irányítására kiterjed. Így különösen
 
 a) a járóbeteg-szakellátó egészségügyi szolgáltatók működésével összefüggésben, sürgősség esetén – az illetékes városi intézmény egyidejű értesítése mellett – az (1) bekezdésben meghatározott jogosultságokat gyakorolja,
 
@@ -64,4 +64,4 @@ b) az egyéb munkáltatói jogokat az 1. § b) pontja szerinti egészségügyi s
 
 (8) A (6) és (7) bekezdés alkalmazásában alapvető munkáltatói jog, illetve egyéb munkáltatói jog alatt az állami fenntartású, egészségügyi szakellátást nyújtó egészségügyi szolgáltatók irányításának a veszélyhelyzetben alkalmazandó szabályairól szóló 507/2020. (XI. 17.) Korm. rendelet 2. § (1) bekezdés a), illetve b) pontjában meghatározott jogköröket kell érteni.
 
-[^4]: A 4. § (2a) bekezdését a 137/2021. (III. 23.) Korm. rendelet 10. §-a iktatta be.
+[^6]: A 4. § (2a) bekezdését a 137/2021. (III. 23.) Korm. rendelet 10. §-a iktatta be.

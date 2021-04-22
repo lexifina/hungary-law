@@ -10,7 +10,7 @@
 
 ## 5. Uzsoki utcai Kórház (Budapest)
 
-2. melléklet a 691/2020. (XII. 29.) Korm. rendelethez[^8]
+2. melléklet a 691/2020. (XII. 29.) Korm. rendelethez[^10]
 
 A honvédelmi egészségügyi szolgáltató szervezeti egység illetékességi területe
 
@@ -18,4 +18,4 @@ A honvédelmi egészségügyi szolgáltató szervezeti egység illetékességi t
 
 2. Pest megyében az Aszódi, Dunakeszi, Gödöllői, Szobi, Váci járás
 
-[^8]: A 2. mellékletet a 137/2021. (III. 23.) Korm. rendelet 12. §-a iktatta be.
+[^10]: A 2. mellékletet a 137/2021. (III. 23.) Korm. rendelet 12. §-a iktatta be.
