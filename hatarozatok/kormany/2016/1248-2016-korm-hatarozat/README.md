@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1248-30
 | 2020-03-26 | 2016-1248-30-22.10 | 1476/2016. (VIII. 31.) Korm. határozat |
 | 2020-08-08 | 2016-1248-30-22.11 | 1476/2016. (VIII. 31.) Korm. határozat |
 | 2020-12-25 | 2016-1248-30-22.12 | 1476/2016. (VIII. 31.) Korm. határozat |
+| 2021-04-22 | 2016-1248-30-22.13 | 1476/2016. (VIII. 31.) Korm. határozat |
