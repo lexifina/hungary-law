@@ -18,7 +18,13 @@
 
 | 46 | Nagykereskedelem (kivéve: jármű, motorkerékpár) |
 
-| 3 | Kommunikációs szektor | 61 | Távközlés |
+| 3 | Kommunikációs szektor | 58 | Kiadói tevékenység |
+
+| 59 | Film, video, televízióműsor gyártása, hangfelvétel-kiadás |
+
+| 60 | Műsorösszeállítás, műsorszolgáltatás |
+
+| 61 | Távközlés |
 
 | 4 | Kritikus ipari szektor (benne az elektronika, a gépipar, az acélgyártás és a közlekedési eszközök gyártása) | 26 | Számítógép, elektronikai, optikai termék gyártása |
 
@@ -120,4 +126,8 @@
 
 | 9 | Bányászati szolgáltatás |
 
-[^1]: Az 1. melléklet a 387/2020. (VIII. 7.) Korm. rendelet 1. §-a szerint módosított szöveg.
+| 23 | Oktatás | 8542 | Felsőfokú oktatás |
+
+| 8560 | Oktatást kiegészítő tevékenység |
+
+[^1]: Az 1. melléklet a 387/2020. (VIII. 7.) Korm. rendelet 1. §-a, a 188/2021. (IV. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
