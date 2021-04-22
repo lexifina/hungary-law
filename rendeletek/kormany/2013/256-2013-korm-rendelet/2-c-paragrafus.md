@@ -2,6 +2,8 @@
 
 2/C. §[^13] (1)[^14] Az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótléka (a továbbiakban együtt: mozgóbér elemek) számítási alapja a 2/A. § és a 2/B. § szerinti alapbér, garantált illetmény, alapilletmény összege.
 
+(1a)[^15] A mozgóbér elemek számítási alapja az egyes, az egészségügyi katonák és az egészségügyi honvédelmi alkalmazottak jogállására vonatkozó veszélyhelyzeti szabályokról szóló 601/2020. (XII. 18.) Korm. rendelet 5. § (3)–(3b) bekezdése, valamint 10. § (3)–(3b) bekezdése szerinti illetmény.
+
 (2) Az egészségügyi ágazati előmeneteli szabályok alapján járó, a 2/A. és 2/B. § szerinti illetmény-, illetve bértáblák változása miatti alapbér (garantált illetmény) növekedést a munka törvénykönyvéről szóló 2012. évi I. törvény és a Hjt. alkalmazásában a távolléti díj számítása során, továbbá az Eszjtv. alkalmazásában a szolgálati elismerés számítása során figyelembe kell venni.
 
 (3) A 2/A. § és 2/B. § szerinti illetmény-, illetve bértáblák változása miatti alapbér (garantált illetmény) növekedés a foglalkoztatottat a munkáltató egyoldalú döntése alapján, az alapbérén (garantált illetményén) felül megillető juttatás – különösen illetménykiegészítés – terhére, annak visszavonásával vagy csökkentésével nem biztosítható.
@@ -12,3 +14,4 @@
 
 [^13]: A 2/C. §-t a 461/2016. (XII. 23.) Korm. rendelet 3. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^14]: A 2/C. § (1) bekezdése a 70/2021. (II. 19.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^15]: A 2/C. § (1a) bekezdését a 185/2021. (IV. 21.) Korm. rendelet 1. §-a iktatta be.

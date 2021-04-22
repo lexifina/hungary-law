@@ -1,4 +1,4 @@
-2/D. §[^15] (1) Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szakdolgozót a (2)–(4) bekezdésben meghatározottak szerint pótlék illeti meg. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szakdolgozót megillető pótlék számításának alapja bruttó húszezer forint.
+2/D. §[^16] (1) Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szakdolgozót a (2)–(4) bekezdésben meghatározottak szerint pótlék illeti meg. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szakdolgozót megillető pótlék számításának alapja bruttó húszezer forint.
 
 (2) A járóbeteg- és fekvőbeteg-szakellátást nyújtó intézetben – ideértve az Országos Vérellátó Szolgálatot – a pótlék mértéke legalább
 
@@ -72,4 +72,4 @@ b) kettő vagy több további szakképesítés esetén legalább 8%-kal növeksz
 
 Az illetménynövekedés feltétele, hogy az egészségügyi szolgálati jogviszonyban álló egészségügyi szakdolgozó a további szakképesítését munkaidejének legalább 10%-ában hasznosítja.
 
-[^15]: A 2/D. §-t az 529/2020. (XI. 28.) Korm. rendelet 9. §-a iktatta be.
+[^16]: A 2/D. §-t az 529/2020. (XI. 28.) Korm. rendelet 9. §-a iktatta be.
