@@ -19,3 +19,10 @@ e) közreműködő: az egészségügyi szolgáltatás gyakorlásának általáno
 (3) A honvédelmi egészségügyi szolgáltatóra, az egészségügyi katonára és az egészségügyi honvédelmi alkalmazottra az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) nem alkalmazható.
 
 (4) A miniszter ellátási érdekből engedélyezheti a honvédelmi egészségügyi szolgáltató számára közreműködő igénybevételét.
+
+(5)[^2] Az 1/A. §-t, a 2/A. §-t, a 4. § (2) bekezdését és az 5. § (3a) és (3b) bekezdését az állomány honvédelmi egészségügyi szolgáltatónál foglalkoztatott, az Eütev. 4. § b) pontja szerinti egészségügyben dolgozó tagjára is alkalmazni kell.
+
+(6)[^3] Az 1/A. §-t, a 7/A. §-t, a 9. § (2) bekezdését és a 10. § (3a) és (3b) bekezdését a honvédelmi egészségügyi szolgáltatónál foglalkoztatott, az Eütev. 4. § b) pontja szerinti egészségügyben dolgozó honvédelmi alkalmazottra is alkalmazni kell.
+
+[^2]: Az 1. § (5) bekezdését a 186/2021. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (6) bekezdését a 186/2021. (IV. 21.) Korm. rendelet 1. §-a iktatta be.

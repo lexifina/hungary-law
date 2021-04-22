@@ -1,3 +1,5 @@
+## A Haj.tv. 6. § (1) bekezdésétől eltérően a munkáltatói jogkörök gyakorlására jogosultak körét és hatáskörüket a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzata is meghatározhatja.
+
 8. § [Összeférhetetlenség]
 
 (1) A Haj.tv. összeférhetetlenségre vonatkozó előírásait a (2)–(12) bekezdésben foglalt sajátos szabályokra figyelemmel kell alkalmazni.
@@ -26,4 +28,6 @@ b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, i
 
 (11) A (9) bekezdés b) pontja a honvédelmi egészségügyi szolgáltatónál, valamint az egészségügyi szolgáltatást nem nyújtó honvédelmi szervezetnél létesített, egészségügyi tevékenység végzésére irányuló, a egészségügyi honvédelmi alkalmazotti jogviszonyhoz kapcsolódó munkakörre, vezetői megbízásra nem alkalmazandó.
 
-(12) A honvédelmi egészségügyi szolgáltató vezetője – a védelem-egészségügyi tevékenység kivételével – az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet nem folytathat azzal, hogy ezen tevékenység végzési ideje a gyakorlati időbe, illetve a kötelező továbbképzésbe beszámít.
+(12)[^21] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+
+[^21]: A 8. § (12) bekezdése a 186/2021. (IV. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

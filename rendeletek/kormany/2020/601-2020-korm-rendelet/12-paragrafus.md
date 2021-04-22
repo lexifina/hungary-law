@@ -1,5 +1,3 @@
-## A 10. § (2) bekezdés hatálya alá nem tartozó egészségügyi honvédelmi alkalmazott az egészségügyi ágazati előmeneteli szabályok szerinti – az Eütev.-ben, a Haj.tv.-ben, a Kormány rendeletében és a Haj.tv. felhatalmazása alapján kiadott jogszabályban meghatározott – illetményre, valamint illetménypótlékra jogosult.
-
 12. § [Kinevezéstől eltérő foglalkoztatás]
 
 (1) A miniszter döntése alapján – az országos kórház-főigazgató erre irányuló kezdeményezése esetén, a honvédelmi egészségügyi szolgáltató vezetője véleményének kikérését követően – egészségügyi közfeladat ellátása érdekében az egészségügyi honvédelmi alkalmazott határozott időre kirendelhető egy másik fenntartóhoz tartozó egészségügyi szolgáltatóhoz. A kirendelés nem veszélyeztetheti a honvédelmi egészségügyi szolgáltató alaprendeltetéséből, valamint a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényből fakadó feladatainak ellátását.

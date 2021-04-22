@@ -1,3 +1,5 @@
+## A Hjt. 4. § (1) bekezdésétől eltérően az állományilletékes parancsnoki jogkör gyakorlására jogosultakat, jogköreiket és a jogkörgyakorlás rendjét a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzata is meghatározhatja.
+
 3. § [Összeférhetetlenség]
 
 (1) A Hjt. összeférhetetlenségre vonatkozó előírásait a (2)–(12) bekezdésben foglalt eltérésekkel kell alkalmazni.
