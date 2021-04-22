@@ -1,9 +1,3 @@
-## 19. § Hatályát veszti az R2.
+19. §[^20]
 
-a) 3. § (4) bekezdése,
-
-b) 21. §-a,
-
-c) 51/J. § (3) bekezdés c) és d) pontja,
-
-d) 51/N. § (1) bekezdése és (2) bekezdés b) pontja.
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

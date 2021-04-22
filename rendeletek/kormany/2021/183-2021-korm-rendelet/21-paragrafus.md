@@ -1,3 +1,3 @@
-## 20. § A három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló 337/2017. (XI. 14.) Korm. rendelet (a továbbiakban: R3.) 4. §-a a következő (3) bekezdéssel egészül ki:
+21. §[^22]
 
-## „(3) A támogatás a (2) bekezdésben foglalt feltétel hiányában is igényelhető, ha a lakáscélú jelzáloghitel fedezetét képező ingatlan tekintetében a (2) bekezdésben foglalt feltétel az igénylő elhunyt házastársa vagy élettársa esetében fennállt, és a lakásban az elhunyt házastárs vagy élettárs kiskorú gyermeke örökléssel – az igénylő esetlegesen meglévő tulajdoni hányadával együttesen legalább 50%-ot elérő mértékben – tulajdonjogot szerzett.”
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

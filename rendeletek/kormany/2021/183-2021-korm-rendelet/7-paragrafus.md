@@ -1,3 +1,3 @@
-## 6. § Az R1. 48. §-a a következő (1a) bekezdéssel egészül ki:
+7. §[^8]
 
-## „(1a) A folyósítás akkor kezdhető meg, ha a vevő támogatott személy a családi otthonteremtési kedvezményen és a hitelintézeti kölcsönön kívül saját erejét az új lakás vásárlására már felhasználta.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

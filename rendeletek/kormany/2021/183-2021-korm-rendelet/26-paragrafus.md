@@ -1,7 +1,3 @@
-## 25. § Az R4. 6. §-a a következő u) és v) ponttal egészül ki:
+26. §[^27]
 
-## (A támogatás a következő építési tevékenységekhez igényelhető:)
-
-## „u) szabályozott szellőzési rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, valamint
-
-## v) szennyvíz tisztítására és elhelyezésére szolgáló egyedi szennyvízkezelő berendezés vagy tisztítómezővel ellátott oldómedencés műtárgy telepítése vagy cseréje.”
+[^27]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

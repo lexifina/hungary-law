@@ -1,3 +1,3 @@
-## 16. § Az R2. 51/L. §-a a következő (3) bekezdéssel egészül ki:
+17. §[^18]
 
-## „(3) A kamattámogatást ugyanazon igénylő egy alkalommal veheti igénybe.”
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 21. § Az R3. 11. §-a a következő e) ponttal egészül ki:
+22. §[^23]
 
-## (A támogatásra való jogosultság feltételeinek meglétét a következők szerint kell igazolni:)
-
-## „e) az örökbefogadást a gyámhatóság engedélyező határozatával.”
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
