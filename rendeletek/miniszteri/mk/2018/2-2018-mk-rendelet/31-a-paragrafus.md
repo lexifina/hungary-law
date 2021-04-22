@@ -1,4 +1,4 @@
-## 20. [^29] A csekély összegű közszolgáltatási támogatás
+## 20. [^31] A csekély összegű közszolgáltatási támogatás
 
 31/A. § (1) Egy vállalkozás részére a 360/2012/EU bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 500 000 eurónak megfelelő forintösszeget.
 
@@ -14,4 +14,4 @@
 
 (7) A támogatás kedvezményezettjének a (4)–(6) bekezdésben meghatározott feltételek teljesítésének megállapítására alkalmas módon nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^29]: A 20. alcímet (31/A. §) az 5/2019. (XII. 10.) MK rendelet 3. §-a iktatta be.
+[^31]: A 20. alcímet (31/A. §) az 5/2019. (XII. 10.) MK rendelet 3. §-a iktatta be.

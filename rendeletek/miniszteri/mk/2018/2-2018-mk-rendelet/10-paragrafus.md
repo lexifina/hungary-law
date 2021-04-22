@@ -1,6 +1,6 @@
 ## 5. A mezőgazdasági csekély összegű támogatás
 
-10. § (1)[^12] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdés a) és b) pontját, 3. cikk (8) és (9) bekezdését és 5. cikkét.
+10. § (1)[^14] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdés a) és b) pontját, 3. cikk (8) és (9) bekezdését és 5. cikkét.
 
 (2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
@@ -14,4 +14,4 @@
 
 (7) A kedvezményezettnek az 1408/2013/EU bizottsági rendelet 5. cikk (1) és (2) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^12]: A 10. § (1) bekezdése a 4/2020. (X. 30.) MK rendelet 4. §-ával megállapított szöveg.
+[^14]: A 10. § (1) bekezdése a 4/2020. (X. 30.) MK rendelet 4. §-ával megállapított szöveg.

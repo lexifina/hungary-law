@@ -52,8 +52,14 @@ g) 9. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott ál
 
 15. 4. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1. szakasza szerinti átmeneti támogatás és a 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás
 
+16.[^2] 4. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás;
+
+17.[^3] 4. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás
+
 ## nyújtható.
 
 (4) A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges fordítási tevékenységet az Országos Fordító- és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság végzi.
 
 [^1]: A 2. § az 1/2021. (III. 3.) MK rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdés 16. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
+[^3]: A 2. § (3) bekezdés 17. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
