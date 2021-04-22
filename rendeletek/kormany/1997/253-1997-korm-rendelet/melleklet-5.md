@@ -2,7 +2,7 @@
 
 ## Egy személygépkocsi elhelyezését kell biztosítani:
 
-## 1. minden lakás, és üdülő önálló rendeltetési egysége után,
+## 1.
 
 ## 2. kereskedelmi, szolgáltató önálló rendeltetési egység árusítóterének 0–100 m2-ig minden megkezdett 10 m2, e fölött minden megkezdett 20 m2 nettó alapterülete után,
 
@@ -72,6 +72,6 @@
 
 ## 17. hajléktalanszálló, szállás jellegű önálló rendeltetési egység huzamos tartózkodás céljára szolgáló irodai helyiségeinek minden megkezdett 20 m2 nettó alapterülete után.
 
-5. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^437]
+5. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^441]
 
-[^437]: Az eredeti 4. számú melléklet számozását a 36/2002. (III. 7.) Korm. rendelet – a Magyar Közlöny 2002. évi 36. számában megjelent helyesbítésének megfelelő – 19. §-a 5. számú mellékletre változtatta. Az 5. számú melléklet a 90/2012. (IV. 26.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^441]: Az eredeti 4. számú melléklet számozását a 36/2002. (III. 7.) Korm. rendelet – a Magyar Közlöny 2002. évi 36. számában megjelent helyesbítésének megfelelő – 19. §-a 5. számú mellékletre változtatta. Az 5. számú melléklet a 90/2012. (IV. 26.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.

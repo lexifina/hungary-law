@@ -4,7 +4,7 @@
 
 a) mérgező gázok keletkezése és kibocsátása,
 
-b)[^207] légszennyező és más veszélyes anyagok keletkezése,
+b)[^208] légszennyező és más veszélyes anyagok keletkezése,
 
 c) veszélyes sugárzás,
 
@@ -20,9 +20,9 @@ h) biológiai kártevők megtelepedése, elszaporodása,
 
 i) káros mértékű zaj és rezgés,
 
-j)[^208] fényszennyezés.
+j)[^209] fényszennyezés.
 
-(2)[^209] Az építmények megvalósítása és rendeltetésszerű használata során biztosítani kell
+(2)[^210] Az építmények megvalósítása és rendeltetésszerű használata során biztosítani kell
 
 a) a helyiségek rendeltetésének megfelelő szellőzési, fűtési, természetes és mesterséges megvilágítási lehetőséget,
 
@@ -38,17 +38,17 @@ f) a tisztíthatóság és a karbantarthatóság lehetőségét,
 
 g) az egyes önálló rendeltetési egységek egymástól független, zavartalan rendeltetésszerű használati lehetőségét.
 
-(3)[^210] Az egészségre és a környezetre káros hatású anyagot, szerkezetet, berendezést építési célra felhasználni nem szabad. Anyagot, szerkezetet, berendezést építménybe beépíteni csak olyan módon szabad, hogy az életet, a testi épséget ne veszélyeztesse.
+(3)[^211] Az egészségre és a környezetre káros hatású anyagot, szerkezetet, berendezést építési célra felhasználni nem szabad. Anyagot, szerkezetet, berendezést építménybe beépíteni csak olyan módon szabad, hogy az életet, a testi épséget ne veszélyeztesse.
 
-(4)[^211]
+(4)[^212]
 
-(5)[^212] Faanyagot a beépítési helyének megfelelő, a tűzvédelemre és a faanyagvédelemre vonatkozó előírásoknak megfelelő égéskésleltető, gombamentesítő, illetőleg rovarkár elleni kezelés után szabad beépíteni.
+(5)[^213] Faanyagot a beépítési helyének megfelelő, a tűzvédelemre és a faanyagvédelemre vonatkozó előírásoknak megfelelő égéskésleltető, gombamentesítő, illetőleg rovarkár elleni kezelés után szabad beépíteni.
 
 (6) Az építményt és részeit úgy kell megvalósítani, hogy a természetes vagy mesterséges forrásból származó sugárzás káros hatásával szemben a rendeltetésnek megfelelő védelmet nyújtsanak. Építményben a sugárterhelés a vonatkozó jogszabályban meghatározott határértéknél nagyobb nem lehet.
 
-[^207]: Az 53. § (1) bekezdés b) pontja a 211/2012. (VII. 30.) Korm. rendelet 33. § 3. pontja szerint módosított szöveg.
-[^208]: Az 53. § (1) bekezdés j) pontját a 211/2012. (VII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^209]: Az 53. § (2) bekezdés nyitó szövegrésze a 211/2012. (VII. 30.) Korm. rendelet 32. § 1. pontja szerint módosított szöveg.
-[^210]: Az 53. § (3) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^211]: Az 53. § (4) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 4. pontja hatályon kívül helyezte.
-[^212]: Az 53. § (5) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 18. §-ával megállapított, a 211/2012. (VII. 30.) Korm. rendelet 32. § 2. pontja szerint módosított szöveg.
+[^208]: Az 53. § (1) bekezdés b) pontja a 211/2012. (VII. 30.) Korm. rendelet 33. § 3. pontja szerint módosított szöveg.
+[^209]: Az 53. § (1) bekezdés j) pontját a 211/2012. (VII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^210]: Az 53. § (2) bekezdés nyitó szövegrésze a 211/2012. (VII. 30.) Korm. rendelet 32. § 1. pontja szerint módosított szöveg.
+[^211]: Az 53. § (3) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^212]: Az 53. § (4) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 4. pontja hatályon kívül helyezte.
+[^213]: Az 53. § (5) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 18. §-ával megállapított, a 211/2012. (VII. 30.) Korm. rendelet 32. § 2. pontja szerint módosított szöveg.

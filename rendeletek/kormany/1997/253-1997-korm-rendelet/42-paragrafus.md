@@ -2,13 +2,15 @@
 
 42. § (1)[^164] Az új építmények, önálló rendeltetési egységek, területek rendeltetésszerű használatához – a helyi építési szabályzat eltérő rendelkezésének hiányában a (10) és a (11) bekezdésben foglaltak kivételével – legalább a (2) és a (4) bekezdésben előírt mennyiségű és fajtájú gépjármű elhelyezési lehetőségét, továbbá rendszeres teherszállítás esetén rakodóhelyet kell biztosítani. Meglévő építmények bővítése, átalakítása, rendeltetésük módosítása esetében – a (10) bekezdésben foglaltak kivételével – csak a bővítésből, az átalakításból, vagy az új rendeltetésből eredő többlet gépjármű elhelyezéséről kell gondoskodni, a meglévők megtartása mellett. Védett épületek (műemlék, helyi egyedi védelem) bővítéssel nem járó átalakítása, rendeltetésmódosítása esetében – a (10) bekezdésben foglaltak kivételével – nem kell a gépjárművek elhelyezését biztosítani.
 
-(2)[^165] Az egyes telkek és építmények rendeltetésszerű használatához a telken – a helyi építési szabályzatnak a terület településen belüli elhelyezkedése, tömegközlekedési ellátottsága és forgalmi terheltsége és az építmény rendeltetése alapján, a (10) bekezdésben foglaltak figyelembe vételével meghozott eltérő rendelkezése hiányában – a 4. számú melléklet szerint meghatározott számú személygépkocsi elhelyezését kell biztosítani azzal, hogyha egy építési telken négy vagy több lakás vagy üdülő önálló rendeltetési egységet helyeznek el, önálló rendeltetési egységenként 1,5 személygépkocsi elhelyezését kell biztosítani.
+(2)[^165] Az egyes telkek és építmények rendeltetésszerű használatához a telken – a helyi építési szabályzatnak a terület településen belüli elhelyezkedése, tömegközlekedési ellátottsága és forgalmi terheltsége és az építmény rendeltetése alapján, a (10) bekezdésben foglaltak figyelembe vételével meghozott eltérő rendelkezése hiányában – a (2a) bekezdésben foglaltak kivételével a 4. számú melléklet szerint meghatározott számú személygépkocsi elhelyezését kell biztosítani.
+
+(2a)[^166] A (2) bekezdéstől eltérően, a lakás és üdülő önálló rendeltetési egysége után a helyi építési szabályzatban meghatározott számú személygépkocsi elhelyezését kell biztosítani, azzal, hogy a helyi építési szabályzat kötelezően legfeljebb egy személygépkocsi elhelyezését írhatja elő.
 
 (3) A (2) bekezdés szerint számított minden megkezdett 50 db várakozóhelyből legalább egyet a mozgásukban korlátozottak részére kell kialakítani, amelyekből legfeljebb négy helyezhető közvetlenül egymás mellé.
 
-(4)[^166] Autóbusz-várakozóhelyet kell létesíteni – a (2) bekezdésben előírtakon túlmenően –
+(4)[^167] Autóbusz-várakozóhelyet kell létesíteni – a (2) bekezdésben előírtakon túlmenően –
 
-a)[^167] minden olyan építményhez 200 látogatónként, vásárlónként, illetőleg férőhelyenként, ahol ilyen rendszeres forgalomra számítani kell;
+a)[^168] minden olyan építményhez 200 látogatónként, vásárlónként, illetőleg férőhelyenként, ahol ilyen rendszeres forgalomra számítani kell;
 
 b) hajóállomásokhoz a következők szerint
 
@@ -20,13 +22,13 @@ bc) 100 000 fő lakos fölött 4 db.
 
 Az ilyen építmények főbejáratánál biztosítani kell legalább egy, mozgáskorlátozottakat is szállító autóbuszból történő biztonságos ki- és beszállás lehetőségét.
 
-(5)[^168] A telken a 7. számú melléklet szerint számított kerékpár elhelyezését kell biztosítani minden olyan rendeltetésű építményhez, ahol rendszeres kerékpárforgalomra kell számítani.
+(5)[^169] A telken a 7. számú melléklet szerint számított kerékpár elhelyezését kell biztosítani minden olyan rendeltetésű építményhez, ahol rendszeres kerékpárforgalomra kell számítani.
 
-(6)[^169] A telken a gépjárműtárolókat – a 103. § előírásai szerint – elsődlegesen épületben vagy terepszint alatti építményben kell megvalósítani.
+(6)[^170] A telken a gépjárműtárolókat – a 103. § előírásai szerint – elsődlegesen épületben vagy terepszint alatti építményben kell megvalósítani.
 
-(7)[^170] A 10 gépjárműnél nagyobb befogadóképességű felszíni várakozó- (parkoló) helyet fásítani kell. A parkoló felületek árnyékolását biztosító fásítást – helyi építési szabályzat eltérő rendelkezésének hiányában – minden megkezdett 6 db várakozó- (parkoló) hely után 1 db, nagy lombkoronát nevelő, környezettűrő, túlkoros, allergén pollent nem termelő lombos fa telepítésével kell megoldani, minimum 1 m2 szabad földterület biztosításával, amely 1 m2 alatti területei a telek zöldfelületébe nem számíthatók be.
+(7)[^171] A 10 gépjárműnél nagyobb befogadóképességű felszíni várakozó- (parkoló) helyet fásítani kell. A parkoló felületek árnyékolását biztosító fásítást – helyi építési szabályzat eltérő rendelkezésének hiányában – minden megkezdett 6 db várakozó- (parkoló) hely után 1 db, nagy lombkoronát nevelő, környezettűrő, túlkoros, allergén pollent nem termelő lombos fa telepítésével kell megoldani, minimum 1 m2 szabad földterület biztosításával, amely 1 m2 alatti területei a telek zöldfelületébe nem számíthatók be.
 
-(8)[^171] Áru-rakodóhelyről kell gondoskodni minden olyan építmény részére, amelybe rendszeres áruszállítás történik. A rakodóhelyek nagyságát, számát és helyét a szállító jármű igénye szerint, továbbá úgy kell meghatározni, hogy a rakodás a közterület forgalmát és az építmény rendeltetésszerű használatát ne akadályozza.
+(8)[^172] Áru-rakodóhelyről kell gondoskodni minden olyan építmény részére, amelybe rendszeres áruszállítás történik. A rakodóhelyek nagyságát, számát és helyét a szállító jármű igénye szerint, továbbá úgy kell meghatározni, hogy a rakodás a közterület forgalmát és az építmény rendeltetésszerű használatát ne akadályozza.
 
 (9) Felszíni gépjármű-várakozóhely (parkoló), rakodóhely és autóbusz megálló
 
@@ -36,7 +38,7 @@ b) nevelési-oktatási, gyógykezelés, regenerálódás célját szolgáló hel
 
 közelebb nem lehet.
 
-(10)[^172] A kereskedelemről szóló törvény szerinti napi fogyasztási cikket értékesítő, 300 m2-nél nagyobb bruttó alapterületű üzlet esetében:
+(10)[^173] A kereskedelemről szóló törvény szerinti napi fogyasztási cikket értékesítő, 300 m2-nél nagyobb bruttó alapterületű üzlet esetében:
 
 a) az árusítótér minden megkezdett 10 m2 nettó alapterülete után egy személygépkocsi elhelyezését kell biztosítani;
 
@@ -46,15 +48,15 @@ c) az üzletre vonatkozóan a (2) bekezdés szerinti önkormányzati rendelet az
 
 d) ha az adottságok szükségessé teszik a gépjármű-várakozóhelyek (parkolók) a telekhatártól mért, legfeljebb 50 m-en belüli más telken parkolóban, parkolóházban vagy a közforgalom céljára átadott magánút egy részének felhasználásával alakíthatók ki.
 
-(11)[^173] Ha az adottságok szükségessé teszik, a (2) bekezdés szerinti gépjármű-várakozóhelyek (parkolók) – a (10) bekezdésben foglaltak kivételével – a telekhatártól mért, legfeljebb 500 m-en belüli más telken parkolóban, parkolóházban vagy a közterületek közlekedésre szánt területe egy részének, illetve a közforgalom céljára átadott magánút egy részének felhasználásával kialakíthatók.
+(11)[^174] Ha az adottságok szükségessé teszik, a (2) bekezdés szerinti gépjármű-várakozóhelyek (parkolók) – a (10) bekezdésben foglaltak kivételével – a telekhatártól mért, legfeljebb 500 m-en belüli más telken parkolóban, parkolóházban vagy a közterületek közlekedésre szánt területe egy részének, illetve a közforgalom céljára átadott magánút egy részének felhasználásával kialakíthatók.
 
-(12)[^174] A települési önkormányzatnak – az építményekhez biztosított gépjármű elhelyezésen túlmenően – biztosítania kell a település idegenforgalmi és központi szerepéből származó forgalom ellátását szolgáló személygépjármű és autóbusz parkolóhelyeket, az igényeknek megfelelően, egyedi méretezés szerint.
+(12)[^175] A települési önkormányzatnak – az építményekhez biztosított gépjármű elhelyezésen túlmenően – biztosítania kell a település idegenforgalmi és központi szerepéből származó forgalom ellátását szolgáló személygépjármű és autóbusz parkolóhelyeket, az igényeknek megfelelően, egyedi méretezés szerint.
 
-(13)[^175] A települési önkormányzatnak – különösen a városközpontok és egyéb történeti városnegyedek tehermentesítése érdekében – biztosítania kell a közterületeken vagy ahhoz csatlakozó területen kerékpárok elhelyezési lehetőségét a helyi sajátosságoknak megfelelően, egyedi méretezés szerint.
+(13)[^176] A települési önkormányzatnak – különösen a városközpontok és egyéb történeti városnegyedek tehermentesítése érdekében – biztosítania kell a közterületeken vagy ahhoz csatlakozó területen kerékpárok elhelyezési lehetőségét a helyi sajátosságoknak megfelelően, egyedi méretezés szerint.
 
-(14)[^176]
+(14)[^177]
 
-(15)[^177] A meglévő, (10) bekezdés a) pontjában meghatározott minden megkezdett 100 várakozó- (parkoló) helyből legalább kettőt elektromos gépjármű töltőállomással kell ellátni
+(15)[^178] A meglévő, (10) bekezdés a) pontjában meghatározott minden megkezdett 100 várakozó- (parkoló) helyből legalább kettőt elektromos gépjármű töltőállomással kell ellátni
 
 a) 1500 m2 nettó árusítóteret meghaladó árusítótér felett 2019. január 1-jéig,
 
@@ -66,23 +68,24 @@ bb) 20 001–50 000 lakosú településen 2020. január 1-jéig,
 
 bc) 20 000 lakosnál kisebb településen 2026. január 1-jéig.
 
-(16)[^178]
+(16)[^179]
 
-(17)[^179] Az ellenérték fejében várakozó- (parkoló) hely értékesítését szolgáló, meglévő építmények esetén minden megkezdett 100 várakozó- (parkoló) helyből 2017. január 1-jéig legalább egyet, 2019. január 1-jéig legalább kettőt elektromos gépjármű töltőállomással kell ellátni.
+(17)[^180] Az ellenérték fejében várakozó- (parkoló) hely értékesítését szolgáló, meglévő építmények esetén minden megkezdett 100 várakozó- (parkoló) helyből 2017. január 1-jéig legalább egyet, 2019. január 1-jéig legalább kettőt elektromos gépjármű töltőállomással kell ellátni.
 
 [^164]: A 42. § (1) bekezdése a 440/2013. (XI. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^165]: A 42. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 2. § (4) bekezdésével megállapított, a 440/2013. (XI. 20.) Korm. rendelet 1. § (3) bekezdése, a 700/2020. (XII. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^166]: A 42. § (4) bekezdése a 36/2002. (III. 7.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^167]: A 42. § (4) bekezdés a) pontja a 90/2012. (IV. 26.) Korm. rendelet 31. § 25. pontja szerint módosított szöveg.
-[^168]: A 42. § (5) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^169]: A 42. § (6) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének j) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2013. január 1. napját követően indított ügyekben kell alkalmazni.
-[^170]: A 42. § (7) bekezdése a 10/2016. (II. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^171]: A 42. § (8) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^172]: A 42. § (10) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 26. pontja hatályon kívül helyezte, újonnan a 440/2013. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^173]: A 42. § (11) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 28. § (3) bekezdésével megállapított, a 440/2013. (XI. 20.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
-[^174]: A 42. § (12) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 14. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^175]: A 42. § (13) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 14. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^176]: A 42. § (14) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 715/2020. (XII. 30.) Korm. rendelet 1. § (1) bekezdése.
-[^177]: A 42. § (15) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^178]: A 42. § (16) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 715/2020. (XII. 30.) Korm. rendelet 1. § (1) bekezdése.
-[^179]: A 42. § (17) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^165]: A 42. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 2. § (4) bekezdésével megállapított, a 440/2013. (XI. 20.) Korm. rendelet 1. § (3) bekezdése, a 700/2020. (XII. 29.) Korm. rendelet 4. § b) pontja, a 190/2021. (IV. 21.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^166]: A 42. § (2a) bekezdését a 190/2021. (IV. 21.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^167]: A 42. § (4) bekezdése a 36/2002. (III. 7.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
+[^168]: A 42. § (4) bekezdés a) pontja a 90/2012. (IV. 26.) Korm. rendelet 31. § 25. pontja szerint módosított szöveg.
+[^169]: A 42. § (5) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^170]: A 42. § (6) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének j) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2013. január 1. napját követően indított ügyekben kell alkalmazni.
+[^171]: A 42. § (7) bekezdése a 10/2016. (II. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^172]: A 42. § (8) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^173]: A 42. § (10) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 26. pontja hatályon kívül helyezte, újonnan a 440/2013. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^174]: A 42. § (11) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 28. § (3) bekezdésével megállapított, a 440/2013. (XI. 20.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^175]: A 42. § (12) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 14. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^176]: A 42. § (13) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 14. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^177]: A 42. § (14) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 715/2020. (XII. 30.) Korm. rendelet 1. § (1) bekezdése.
+[^178]: A 42. § (15) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^179]: A 42. § (16) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 715/2020. (XII. 30.) Korm. rendelet 1. § (1) bekezdése.
+[^180]: A 42. § (17) bekezdését a 10/2016. (II. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
