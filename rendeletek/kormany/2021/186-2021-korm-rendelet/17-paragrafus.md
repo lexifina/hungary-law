@@ -1,0 +1,3 @@
+## 16. § A honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató, valamint az ennek irányítása alá tartozó egyéb egészségügyi szolgáltató irányításának veszélyhelyzeti rendjéről szóló 691/2020. (XII. 29.) Korm. rendelet [a továbbiakban: 691/2020. (XII. 29.) Korm. rendelet] 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének az 1. § b) pontja szerinti egészségügyi szolgáltató irányításáért felelős helyettesét az országos kórház-főigazgató és a honvédelemért felelős miniszter együttesen bízza meg és vonja vissza magasabb vezetői megbízását.”
