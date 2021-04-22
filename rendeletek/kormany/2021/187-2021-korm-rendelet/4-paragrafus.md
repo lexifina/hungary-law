@@ -1,0 +1,1 @@
+## 3. § A rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatóknál foglalkoztatottakra vonatkozó veszélyhelyzeti szabályokról szóló 644/2020. (XII. 22.) Korm. rendelet 5. § (3) bekezdés c) pontjában az „az a) és b) pontba” szövegrész helyébe az „a magasabb vezetők körébe” szöveg lép.
