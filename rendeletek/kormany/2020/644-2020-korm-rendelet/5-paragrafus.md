@@ -8,11 +8,11 @@ b) az állományilletékes parancsnok vagy – rendvédelmi igazgatási alkalmaz
 
 (3) Az egészségügyi vezetői bérkiegészítés mértékét
 
-a) a Büntetés-végrehajtás Egészségügyi Központ főigazgatója, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet főigazgató főorvosa esetében a megyei fekvőbeteg-ellátó egészségügyi szolgáltatónál intézményvezetésre adott megbízással rendelkező személyekre vonatkozó gyakorlat figyelembevételével,
+a)[^6]
 
-b) a Büntetés-végrehajtás Egészségügyi Központ orvos igazgatója, ápolási igazgatója, gazdasági vezetője, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet főigazgató-helyettese esetén a megyei fekvőbeteg-ellátó egészségügyi szolgáltató orvosigazgatói, ápolási igazgatói, illetve gazdasági igazgatói feladatok ellátására adott magasabb vezetői megbízással rendelkező személyekre vonatkozó gyakorlat figyelembevételével,
+b)[^7]
 
-c) az a) és b) pontba nem tartozó azon vezetői szolgálati beosztást vagy munkakört betöltő esetében, aki önálló szervezeti elem vezetője, vagy a munkamegosztás szempontjából elkülönült szervezeti elem vezetője az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet 5. § (2) bekezdésében meghatározott személyekre vonatkozó gyakorlat figyelembevételével
+c)[^8] a magasabb vezetők körébe nem tartozó azon vezetői szolgálati beosztást vagy munkakört betöltő esetében, aki önálló szervezeti elem vezetője, vagy a munkamegosztás szempontjából elkülönült szervezeti elem vezetője az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet 5. § (2) bekezdésében meghatározott személyekre vonatkozó gyakorlat figyelembevételével
 
 ## kell megállapítani.
 
@@ -23,3 +23,7 @@ c) az a) és b) pontba nem tartozó azon vezetői szolgálati beosztást vagy mu
 a) a Hszt. 154. §-a szerinti illetmény része, azt egyéb pótlékként kell figyelembe venni,
 
 b) a Hszt. 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.
+
+[^6]: Az 5. § (3) bekezdés a) pontját a 187/2021. (IV. 21.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^7]: Az 5. § (3) bekezdés b) pontját a 187/2021. (IV. 21.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^8]: Az 5. § (3) bekezdés c) pontja a 187/2021. (IV. 21.) Korm. rendelet 3. §-a szerint módosított szöveg.

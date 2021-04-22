@@ -29,3 +29,38 @@ c) esetében nem alkalmazható a Hszt. 289/D. §-a és a Hszt. 12. melléklete.
 (4) Az (1) bekezdés a) pontja, illetve a (3) bekezdés a) pontja szerinti illetmény legfeljebb 20%-os mértékben növelhető, a hivatásos szolgálati jogviszonyban álló egészségügyi feladatot ellátó dolgozó esetében a Hszt. 111–113. §-a, a rendvédelmi igazgatási szolgálati jogviszonyban álló egészségügyi feladatot ellátó dolgozó esetében a Hszt. 288/Q. §-a szerinti teljesítményértékelés alapján. Az ilyen módon megnövelt illetmény első alkalommal április hónapban folyósítható, utolsó alkalommal a tárgyévet követő év márciusában jár. Az illetmény növelésére első alkalommal a 2020. évre vonatkozó teljesítményértékelés elvégzését követően kerülhet sor.
 
 (5) Ha a Hszt. XXVIII. Fejezete szerinti munkavállaló egészségügyi feladatot ellátó dolgozói feladatot lát el, legalább az Eszjtv. 1. mellékletében meghatározott illetmény 100%-ára jogosult.
+
+(6)[^2] E rendelet alkalmazásában magasabb vezetőnek minősül
+
+a) a Büntetés-végrehajtás Egészségügyi Központ főigazgatója, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet főigazgató főorvosa, valamint
+
+b) a Büntetés-végrehajtás Egészségügyi Központ, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet
+
+ba) orvos igazgatója,
+
+bb) ápolási igazgatója és
+
+bc) gazdasági vezetője.
+
+(7)[^3] Az (1) bekezdés a) pontjában, illetve a (3) bekezdés a) pontjában foglaltaktól eltérően a (6) bekezdés a) pontja szerinti magasabb vezető illetményének összegét egyedileg – az országos kórház-főigazgató egyetértésével, az országos kórház-főigazgató irányítása alá tartozó egészségügyi szolgáltatók vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – a kinevezésre jogosult vezető állapítja meg, azzal, hogy
+
+a) ha a (6) bekezdés a) pontja szerinti magasabb vezető hivatásos szolgálati jogviszonyban áll, a Hszt. 154–158. §-a szerinti illetmény helyett az Eszjtv. 1. melléklete szerinti legmagasabb fizetési fokozathoz meghatározott összeg legalább 106%-ára,
+
+b) ha a (6) bekezdés a) pontja szerinti magasabb vezető rendvédelmi igazgatási szolgálati jogviszonyban áll, a Hszt. 289. §-a szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti legmagasabb fizetési fokozathoz meghatározott összegre
+
+## jogosult.
+
+(8)[^4] Az (1) bekezdés a) pontjában, illetve a (3) bekezdés a) pontjában foglaltaktól eltérően a (6) bekezdés b) pontja szerinti magasabb vezető illetményének összegét egyedileg – az országos kórház-főigazgató egyetértésével, az országos kórház-főigazgató irányítása alá tartozó egészségügyi szolgáltatók vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – a kinevezésre jogosult vezető állapítja meg, azzal, hogy
+
+a) ha a (6) bekezdés b) pontja szerinti magasabb vezető hivatásos szolgálati jogviszonyban áll, a Hszt. 154–158. §-a szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti fizetési fokozathoz meghatározott összeg 106%-ára,
+
+b) ha a (6) bekezdés b) pontja szerinti magasabb vezető rendvédelmi igazgatási szolgálati jogviszonyban áll, a Hszt. 289. §-a szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti fizetési fokozathoz meghatározott összegre
+
+## jogosult.
+
+(9)[^5] A (7) és (8) bekezdésben foglalt magasabb vezető illetményének a (4) bekezdésben foglaltak szerinti növelésére nincs lehetőség.
+
+[^2]: A 2. § (6) bekezdését a 187/2021. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § (7) bekezdését a 187/2021. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § (8) bekezdését a 187/2021. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (9) bekezdését a 187/2021. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
