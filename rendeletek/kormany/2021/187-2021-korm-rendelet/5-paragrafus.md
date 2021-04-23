@@ -1,3 +1,5 @@
-## 4. § Hatályát veszti a rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatóknál foglalkoztatottakra vonatkozó veszélyhelyzeti szabályokról szóló 644/2020. (XII. 22.) Korm. rendelet 5. § (3) bekezdés a) és b) pontja.
+## 1–4. §[^2]
 
 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
