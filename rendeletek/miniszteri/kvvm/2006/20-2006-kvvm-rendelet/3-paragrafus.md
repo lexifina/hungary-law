@@ -1,6 +1,6 @@
 ## A hulladéklerakó tervezése, létesítése, a hulladéklerakás általános szabályai
 
-3. § (1)[^8] Hulladéklerakó az Országos Hulladékgazdálkodási Tervben, valamint a létesítés telephelye szerinti területi hulladékgazdálkodási tervekben foglalt célokkal és feladatokkal összhangban, az e rendelet 1. számú mellékletében felsorolt követelmények betartásával létesíthető és üzemeltethető.
+3. § (1)[^9] Hulladéklerakó az Országos Hulladékgazdálkodási Tervben, valamint a létesítés telephelye szerinti területi hulladékgazdálkodási tervekben foglalt célokkal és feladatokkal összhangban, az e rendelet 1. számú mellékletében felsorolt követelmények betartásával létesíthető és üzemeltethető.
 
 (2) A hulladéklerakó helyének kiválasztásánál, a külön jogszabályokban megállapított terület- és településrendezési, természetvédelmi, kulturális örökségvédelmi, tájvédelmi, vízvédelmi, levegőtisztaság-védelmi feltételek mellett, a következő szempontokat kell figyelembe venni és mérlegelni:
 
@@ -16,13 +16,13 @@ a) erózió-veszélyes területen,
 
 b) a földtani közeg mozgása által veszélyeztetett területen,
 
-c) a külön jogszabály[^9] szerint kiemelten érzékeny felszín alatti vízminőség-védelmi területen,
+c) a külön jogszabály[^10] szerint kiemelten érzékeny felszín alatti vízminőség-védelmi területen,
 
-d) a külön jogszabályban[^10] rögzített előírás alapján a mezőgazdasági művelésre alkalmas közepes vagy annál jobb minőségű területen,
+d) a külön jogszabályban[^11] rögzített előírás alapján a mezőgazdasági művelésre alkalmas közepes vagy annál jobb minőségű területen,
 
 e) árvíz- és belvízveszélyes, továbbá ármentesítéssel nem rendelkező területen,
 
-f) a külön jogszabály[^11] szerinti természeti területen, védett és fokozottan védett természeti területen, valamint az Európai Közösségi jelentőségű területen,
+f) a külön jogszabály[^12] szerinti természeti területen, védett és fokozottan védett természeti területen, valamint az Európai Közösségi jelentőségű területen,
 
 g) védetté nyilvánított régészeti lelőhelyen, műemléki ingatlanon, műemléki környezetben és műemléki jelentőségű területen,
 
@@ -30,15 +30,15 @@ h) energiaszállító vezetékek védősávjában,
 
 i) működő, illetve felhagyott mélyművelésű bánya felszakadási területén, ha a földtani közeg mozgása még nem konszolidálódott, továbbá bányaművelésre, távlati művelés céljából kijelölt területen,
 
-j)[^12] azon a földrengésveszélyes területen, ahol az 50 évre számított 10%-os meghaladási valószínűség mellett (475 éves gyakoriság) a felszínre számított földrengésből származó vízszintes gyorsulás értéke nagyobb, mint 1,5 m/sec2,
+j)[^13] azon a földrengésveszélyes területen, ahol az 50 évre számított 10%-os meghaladási valószínűség mellett (475 éves gyakoriság) a felszínre számított földrengésből származó vízszintes gyorsulás értéke nagyobb, mint 1,5 m/sec2,
 
 k) olyan területen, ahol nem teljesül az a feltétel, hogy a felszín alatti víz maximális nyugalmi, illetve nyomás szintje legalább 1,0 m-rel mélyebben van, mint a lerakó szigetelőrendszerének fenékszintje,
 
-l) a külön jogszabályban[^13] megállapított területen,
+l) a külön jogszabályban[^14] megállapított területen,
 
-m)[^14] földtani közegben lévő üregben.
+m)[^15] földtani közegben lévő üregben.
 
-(4)[^15] A hulladéklerakó telekhatára és összefüggő lakóterület, lakóépület, valamint más, védendő területek, létesítmények között a védőtávolságot a környezetvédelmi hatóság állapítja meg, amely – ha egyéb jogszabály eltérően nem rendelkezik, akkor – nem lehet kevesebb, mint:
+(4)[^16] A hulladéklerakó telekhatára és összefüggő lakóterület, lakóépület, valamint más, védendő területek, létesítmények között a védőtávolságot a környezetvédelmi hatóság állapítja meg, amely – ha egyéb jogszabály eltérően nem rendelkezik, akkor – nem lehet kevesebb, mint:
 
 a) veszélyes hulladék lerakására szolgáló hulladéklerakó esetén: 1000 m,
 
@@ -46,11 +46,11 @@ b) nem veszélyes hulladék lerakására szolgáló hulladéklerakó esetén: 50
 
 c) inert hulladék lerakására szolgáló hulladéklerakó esetén: 300 m.
 
-[^8]: A 3. § (1) bekezdése a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés c) pontja szerint módosított szöveg.
-[^9]: A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet.
-[^10]: A termőföldről szóló 1994. évi LV. törvény.
-[^11]: A természet védelméről szóló 1996. évi LIII. törvény.
-[^12]: A 3. § (3) bekezdésének j) pontja a 92/2007. (XI. 28.) KvVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
-[^13]: Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény.
-[^14]: A 3. § (3) bekezdésének m) pontját a 92/2007. (XI. 28.) KvVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
-[^15]: A 3. § (4) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdése a 40/2013. (V. 24.) VM rendelet 4. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet.
+[^11]: A termőföldről szóló 1994. évi LV. törvény.
+[^12]: A természet védelméről szóló 1996. évi LIII. törvény.
+[^13]: A 3. § (3) bekezdésének j) pontja a 92/2007. (XI. 28.) KvVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^14]: Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény.
+[^15]: A 3. § (3) bekezdésének m) pontját a 92/2007. (XI. 28.) KvVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^16]: A 3. § (4) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.

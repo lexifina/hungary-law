@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-20-20-0
 | 2015-04-01 | 2006-20-20-0N.8 | 15/2015. (III. 31.) FM rendelet |
 | 2017-08-05 | 2006-20-20-0N.9 | 37/2017. (VII. 6.) FM rendelet |
 | 2018-01-01 | 2006-20-20-0N.10 | 70/2017. (XII. 29.) FM rendelet |
+| 2021-04-24 | 2006-20-20-0N.11 | 16/2021. (IV. 9.) ITM rendelet |
