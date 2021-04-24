@@ -1,6 +1,6 @@
-47/G. § (1)[^228] Az MNV Zrt. elektronikus nyilvántartást vezet mindazon természetes személyekről, akik a saját nevükben vagy más személy képviselőjeként eljárva elektronikus árverésen kívánnak részt venni (a továbbiakban: az árverezők elektronikus nyilvántartása). A nyilvántartás arra is kiterjed, hogy a természetes személy mely személy képviseletében jár el.
+47/G. § (1)[^229] Az MNV Zrt. elektronikus nyilvántartást vezet mindazon természetes személyekről, akik a saját nevükben vagy más személy képviselőjeként eljárva elektronikus árverésen kívánnak részt venni (a továbbiakban: az árverezők elektronikus nyilvántartása). A nyilvántartás arra is kiterjed, hogy a természetes személy mely személy képviseletében jár el.
 
-(2)[^229] Az árverezők elektronikus nyilvántartásába az a személy jegyezhető be, aki az e rendeletben előírt adatait, valamint – személyes adatok tekintetében – az azok kezelésére vonatkozó hozzájárulást megadta, elfogadta az árverési felhasználási szabályzatot és az adatkezelési szabályzatot, nem áll a 47/C. § (2) bekezdése szerinti kizárás hatálya alatt, továbbá – jogi személy esetén – átlátható szervezetnek minősül.
+(2)[^230] Az árverezők elektronikus nyilvántartásába az a személy jegyezhető be, aki az e rendeletben előírt adatait, valamint – személyes adatok tekintetében – az azok kezelésére vonatkozó hozzájárulást megadta, elfogadta az árverési felhasználási szabályzatot és az adatkezelési szabályzatot, nem áll a 47/C. § (2) bekezdése szerinti kizárás hatálya alatt, továbbá – jogi személy esetén – átlátható szervezetnek minősül.
 
 (3) Az árverezők elektronikus nyilvántartásába bejegyzett személy köteles a nyilvántartott adataiban bekövetkezett változást haladéktalanul bejelenteni. Ha a nyilvántartásba bejegyzett személy árverésen vesz részt, akkor ezt arra vonatkozó nyilatkozatnak kell tekinteni, hogy a bejegyzéshez vagy az árverési részvételét megelőző állapothoz képest változás nem történt.
 
@@ -12,5 +12,5 @@
 
 (7) Az árverezők elektronikus nyilvántartásának adatai nem nyilvánosak.
 
-[^228]: A 47/G. § (1) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^229]: A 47/G. § (2) bekezdése a 411/2015. (XII. 16.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^229]: A 47/G. § (1) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^230]: A 47/G. § (2) bekezdése a 411/2015. (XII. 16.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

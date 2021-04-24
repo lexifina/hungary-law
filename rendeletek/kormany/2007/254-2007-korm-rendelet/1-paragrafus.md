@@ -22,7 +22,7 @@ a)[^6] állami vagyon használója: az a természetes vagy jogi személy, jogi s
 
 b)[^7] vagyonkezelő: a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben (a továbbiakban: Nvtv.) vagyonkezelőként meghatározott azon személy, amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.), valamint annak jogelődje, vagy az állami vagyon tulajdonosi joggyakorlója vagyonkezelési szerződést kötött, továbbá akit törvény vagyonkezelőnek kijelöl;
 
-c)[^8]
+c)[^8] csomagban történő értékesítés: egymástól elkülönülő, egynemű vagyontárgyak együttes értékesítése;
 
 d) értékesítés: állami vagyon tulajdonjogának bármely jogcímen történő, visszterhes átruházása;
 
@@ -63,7 +63,7 @@ p)[^18] számviteli rendezés: a vagyonkezelő vagy a használó által állami 
 [^5]: Az 1. § (7) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (7) bekezdés a) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 148/2019. (VI. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (7) bekezdés b) pontja a 77/2014. (III. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (7) bekezdés c) pontját a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^8]: Az 1. § (7) bekezdés c) pontját a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte, újonnan a 192/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
 [^9]: Az 1. § (7) bekezdés e) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^10]: Az 1. § (7) bekezdés f) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^11]: Az 1. § (7) bekezdés h) pontját a 77/2014. (III. 14.) Korm .rendelet 27. §-a hatályon kívül helyezte, újonnan a 148/2019. (VI. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.

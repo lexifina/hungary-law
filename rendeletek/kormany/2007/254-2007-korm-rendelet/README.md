@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2020-12-23 | 2007-254-20-22.37 | 631/2020. (XII. 22.) Korm. rendelet |
 | 2021-01-01 | 2007-254-20-22.38 | 727/2020. (XII. 31.) Korm. rendelet |
 | 2021-02-11 | 2007-254-20-22.39 | 59/2021. (II. 10.) Korm. rendelet |
+| 2021-04-24 | 2007-254-20-22.40 | 192/2021. (IV. 23.) Korm. rendelet |

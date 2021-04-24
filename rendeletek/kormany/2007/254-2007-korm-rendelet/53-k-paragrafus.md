@@ -1,3 +1,3 @@
-## Elektronikus ügyintézés a központi költségvetési szervek elhelyezése során[^266]
+## Elektronikus ügyintézés a központi költségvetési szervek elhelyezése során[^268]
 
-[^266]: Az „Elektronikus ügyintézés a központi költségvetési szervek elhelyezése során” alcímet (53/K. §) az 592/2020. (XII. 17.) Korm. rendelet 9. §-a iktatta be.
+[^268]: Az „Elektronikus ügyintézés a központi költségvetési szervek elhelyezése során” alcímet (53/K. §) az 592/2020. (XII. 17.) Korm. rendelet 9. §-a iktatta be.
