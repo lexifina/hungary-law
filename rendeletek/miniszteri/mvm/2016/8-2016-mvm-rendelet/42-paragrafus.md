@@ -42,6 +42,8 @@
 
 (20)[^43] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2021. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 1/2021. (II. 9.) MvM rendelettel (a továbbiakban: Módr18.) megállapított rendelkezéseit a Módr18. hatálybalépése[^44] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(21)[^45] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a nemzeti tervvagyonnal, a kistelepülési üzletek támogatásával, valamint a Nemzeti Hauszmann Programmal kapcsolatos módosításáról szóló 3/2021. (IV. 23.) MvM rendelettel (a továbbiakban: Módr19.) megállapított rendelkezéseit a Módr19. hatálybalépése[^46] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^14]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^15]: A hatálybalépés időpontja 2018. február 16.
 [^16]: A hatálybalépés időpontja 2018. március 29.
@@ -73,3 +75,5 @@
 [^42]: A hatálybalépés napja 2020. december 9.
 [^43]: A 42. § (20) bekezdését az 1/2021. (II. 9.) MvM rendelet 3. §-a iktatta be.
 [^44]: A hatálybalépés időpontja 2021. február 10.
+[^45]: A 42. § (21) bekezdését a 3/2021. (IV. 23.) MvM rendelet 1. §-a iktatta be.
+[^46]: A hatálybalépés időpontja 2021. április 24.
