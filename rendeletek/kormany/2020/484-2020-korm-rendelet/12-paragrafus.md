@@ -1,8 +1,6 @@
-## üzemeltetője, illetve vezetője köteles gondoskodni.
-
 ## 7. A szabadidős létesítményekre vonatkozó védelmi intézkedések
 
-12. §[^32] (1) Az e rendeletben meghatározott kivétellel tilos
+12. §[^35] (1) Az e rendeletben meghatározott kivétellel tilos
 
 a) az előadó-művészet valamennyi ágának fellépése céljából megtartott eseménynek, függetlenül annak nyilvánosságától (így különösen színház, tánc-, zeneművészet, cirkusz),
 
@@ -36,7 +34,7 @@ je) közösségi színtérnek és
 
 jf) integrált kulturális intézménynek
 
-## a látogatása és e helyszíneken – az ott foglalkoztatottak kivételével – a tartózkodás.
+a látogatása és e helyszíneken – az ott foglalkoztatottak kivételével – a tartózkodás.
 
 (2) A szálláshelyen – a 10. § (3) és (4) bekezdése szerint – jogszerűen tartózkodó vendég a szálláshelyen található (1) bekezdés szerinti helyszíneket nem látogathatja.
 
@@ -44,11 +42,13 @@ jf) integrált kulturális intézménynek
 
 (4) A jégpályák, az uszodák, az edző- és fitnesztermek és a sportlétesítmények a sportról szóló törvény szerint versenyszerűen sportolók számára edzésen vagy sportrendezvényen való részvétel céljából látogathatóak.
 
-(5)[^33] Az (1) bekezdés j) pontja szerinti intézmény
+(5)[^36] Az (1) bekezdés j) pontja szerinti intézmény
 
 a) a felnőttképzésről szóló törvény vagy
 
 b) a szakképzésről szóló törvény
 
-[^32]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^33]: A 12. § (5) bekezdését a 28/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
+szerinti képzés megtartása céljából látogatható, ott a képzés időtartama alatt a képzésen résztvevők és az oktatók tartózkodása megengedett.
+
+[^35]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^36]: A 12. § (5) bekezdését a 28/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.

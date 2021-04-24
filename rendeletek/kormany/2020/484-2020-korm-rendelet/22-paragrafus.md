@@ -1,28 +1,22 @@
 ## 13. Jogkövetkezmények
 
-22. §[^43] (1) Az e rendeletben meghatározott védelmi intézkedések betartását a rendőrség a 20. § (2) bekezdés b) pontjára figyelemmel a Magyar Honvédség közreműködésével ellenőrzi.
+22. §[^46] (1) Az e rendeletben meghatározott védelmi intézkedések betartását a rendőrség a 20. § (2) bekezdés b) pontjára figyelemmel a Magyar Honvédség közreműködésével ellenőrzi.
 
-(2)[^44] Ha a rendőrség az ellenőrzés során, vagy a rendőrség a katona értesítése alapján a 2. § (1), (2) és (4) bekezdése, az 5. § (1) bekezdése, a 7. §, a 9. § (2) bekezdése, 9/A. § (2) bekezdése, a 11. § b)–g) pontja, a 12. § (3) bekezdése, a 13. §, valamint a 17. § (6) bekezdése szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
+(2)[^47] Ha a rendőrség az ellenőrzés során, vagy a rendőrség a katona értesítése alapján a 2. § (1), (2) és (4) bekezdése, az 5. § (1) bekezdése, a 7. §, a 8. § (5) és (9) bekezdése, a 9. § (2) bekezdése, 9/A. § (2) bekezdése, a 11. § b)–g) pontja, a 12. § (3) bekezdése, a 13. §, valamint a 17. § (6) bekezdése szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
 
 a) 100 000 forinttól 1 000 000 forintig terjedő bírságot szabhat ki,
 
 b) a helyiséget, területet, intézményt, illetve a helyszínt – a 17. § (6) bekezdése kivételével – legalább egy napra, legfeljebb egy év időtartamra ideiglenesen bezárathatja.
 
-(2a)[^45] Ha a rendőrség az ellenőrzés során, vagy a rendőrség a katona értesítése alapján a 11. § a) pontja szerinti kötelezettség megszegéséről szerez tudomást
+(2a)[^48]
 
-a) a kötelezettség első alkalommal történő megszegése esetén a vendéglátó üzletet hat hónap időtartamra,
-
-b) a kötelezettség ismételt megszegése esetén a vendéglátó üzletet egy év időtartamra
-
-## ideiglenesen bezáratja (a továbbiakban: ideiglenes bezáratás) és az üzemeltető az ideiglenes bezáratás időtartamára a vendéglátó tevékenység végzésétől a 22/A. § szerint eltiltásra kerül (tevékenységtől eltiltás).
-
-(2b)[^46] A rendőrség a (2a) bekezdés szerinti jogkövetkezmény alkalmazása mellett, a kötelezettségszegés súlyosságára tekintettel, különösen a kötelezettség ismételt megszegése esetén a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően a (2) bekezdés a) pontja szerinti bírságot szabhat ki.
+(2b)[^49]
 
 (3) A rendőrség a (2) bekezdés szerinti jogkövetkezményeket együtt is alkalmazhatja.
 
-(4)[^47] A (2) bekezdés a) pontja, illetve a (2b) bekezdés szerinti jogkövetkezmény azonos napon több egymást követő ellenőrzés alkalmával is alkalmazható.
+(4)[^50] A (2) bekezdés a) pontja szerinti jogkövetkezmény azonos napon több egymást követő ellenőrzés alkalmával is alkalmazható.
 
-(5)[^48] A (2) és a (2a) bekezdés szerinti jogkövetkezmény nem alkalmazható, ha a szervező, az üzemeltető, illetve a szervező vagy az üzemeltető alkalmazottja a szükséges intézkedéseket megtette a jogellenes helyzet felszámolása érdekében, így különösen, ha
+(5)[^51] A (2) bekezdés szerinti jogkövetkezmény nem alkalmazható, ha a szervező, az üzemeltető, illetve a szervező vagy az üzemeltető alkalmazottja a szükséges intézkedéseket megtette a jogellenes helyzet felszámolása érdekében, így különösen, ha
 
 a) a jogsértő személyt felszólította távozásra, és
 
@@ -36,16 +30,16 @@ b) azt követően, hogy a jogsértő személy a távozásra történő felszól�
 
 (9) A bírságot kiszabó határozat ellen nincs helye fellebbezésnek.
 
-(10)[^49] A (2)–(2b) bekezdés szerinti hatáskör gyakorlója
+(10)[^52] A (2) bekezdés szerinti hatáskör gyakorlója
 
 a) az ellenőrzés helye szerint illetékes rendőrkapitányság,
 
 b) a Budapest Liszt Ferenc Nemzetközi Repülőtéren a Repülőtéri Rendőr Igazgatóság.
 
-[^43]: A 22. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^44]: A 22. § (2) bekezdés nyitó szövegrésze az 513/2020. (XI. 23.) Korm. rendelet 3. §-a, a 28/2021. (I. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^45]: A 22. § (2a) bekezdését a 28/2021. (I. 29.) Korm. rendelet 2. §-a iktatta be.
-[^46]: A 22. § (2b) bekezdését a 28/2021. (I. 29.) Korm. rendelet 2. §-a iktatta be.
-[^47]: A 22. § (4) bekezdése a 28/2021. (I. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^48]: A 22. § (5) bekezdés nyitó szövegrésze a 28/2021. (I. 29.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
-[^49]: A 22. § (10) bekezdés nyitó szövegrésze a 28/2021. (I. 29.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^46]: A 22. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^47]: A 22. § (2) bekezdés nyitó szövegrésze az 513/2020. (XI. 23.) Korm. rendelet 3. §-a, a 28/2021. (I. 29.) Korm. rendelet 8. § a) pontja, a 175/2021. (IV. 15.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^48]: A 22. § (2a) bekezdését a 28/2021. (I. 29.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § c) pontja.
+[^49]: A 22. § (2b) bekezdését a 28/2021. (I. 29.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § c) pontja.
+[^50]: A 22. § (4) bekezdése a 175/2021. (IV. 15.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^51]: A 22. § (5) bekezdés nyitó szövegrésze a 175/2021. (IV. 15.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^52]: A 22. § (10) bekezdés nyitó szövegrésze a 28/2021. (I. 29.) Korm. rendelet 8. § d) pontja, a 175/2021. (IV. 15.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

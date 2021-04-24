@@ -1,3 +1,4 @@
-## 28/C. §[^63] A védelmi intézkedések lépcsőzetes feloldásának első fokozatáról szóló 144/2021. (III. 27.) Korm. rendelet hatálybalépését megelőzően a 3. §-ra, valamint a 9. §-ra tekintettel a 22. §, valamint a 23. § alapján indított eljárásokat, az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+## 28/E. §[^73] A kijárási tilalom kezdetének este 11 órára történő módosításáról szóló 191/2021. (IV. 23.) Korm. rendelet hatálybalépését[^74] megelőző napon hatályos 3. §-ra tekintettel a 22. § és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
 
-[^63]: A 28/C. §-t a 144/2021. (III. 27.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^73]: A 28/E. §-t a 191/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^74]: A hatálybalépés időpontja 2021. április 24.

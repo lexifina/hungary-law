@@ -1,4 +1,4 @@
-2. §[^10] (1) Az 1. § (1) bekezdése, valamint az 1. § (2) és (4) bekezdése esetében az üzemeltető köteles gondoskodni arról, hogy a tömegközlekedési eszközön vagy a helyiségben tartózkodók a maszkot az 1. § (1) bekezdésében meghatározott módon viseljék, ennek érdekében a szolgáltatás, illetve az üzemeltetett intézmény működésére, igénybevételére vonatkozó szabályozásban az igénybevétel rendjének megsértése esetén egyebekben alkalmazható intézkedéseket, szankciókat alkalmazhatja.
+2. §[^11] (1) Az 1. § (1) bekezdése, valamint az 1. § (2) és (4) bekezdése esetében az üzemeltető köteles gondoskodni arról, hogy a tömegközlekedési eszközön vagy a helyiségben tartózkodók a maszkot az 1. § (1) bekezdésében meghatározott módon viseljék, ennek érdekében a szolgáltatás, illetve az üzemeltetett intézmény működésére, igénybevételére vonatkozó szabályozásban az igénybevétel rendjének megsértése esetén egyebekben alkalmazható intézkedéseket, szankciókat alkalmazhatja.
 
 (2) Tömegközlekedési eszközön maszk nélkül utazó vagy a maszkot nem az 1. § (1) bekezdésében meghatározott módon viselő személyekkel szemben az üzemeltető a szolgáltatás igénybevételére vonatkozó szabályozásában köteles megteremteni a jogszerű magatartás követésének ösztönzésére irányuló további, az üzemeltető szabályozási körébe tartozó feltételeket is, legalább a viteldíjon felüli többletdíj (pótdíj) megfizetési kötelezettség előírásával.
 
@@ -10,6 +10,7 @@ b) a szabálysértésekről, a szabálysértési eljárásról és a szabálysé
 
 c) gondoskodni e személynek a tömegközlekedési eszközről történő leszállításáról.
 
-(4) Azt a személyt, aki a maszkot az 1. § (1) bekezdés c)–h) pontja, valamint az 1. § (2) és (4) bekezdése esetében az üzemeltető felszólítására sem viseli az 1. § (1) bekezdésében meghatározott módon, az üzemeltető köteles a látogatásból kizárni, és gondoskodni arról, hogy e személy a helyiséget, illetve a területet elhagyja.
+(4)[^12] Azt a személyt, aki a maszkot az 1. § (1) bekezdés c)–g) pontja, valamint az 1. § (2) és (4) bekezdése esetében az üzemeltető felszólítására sem viseli az 1. § (1) bekezdésében meghatározott módon, az üzemeltető köteles a látogatásból kizárni, és gondoskodni arról, hogy e személy a helyiséget, illetve a területet elhagyja.
 
-[^10]: A 2. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^11]: A 2. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^12]: A 2. § (4) bekezdése a 175/2021. (IV. 15.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

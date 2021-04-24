@@ -1,8 +1,8 @@
 ## 2. A kijárási tilalom és a közterületi magatartási szabályok
 
-3. §[^11] (1)[^12] Este 10 óra és reggel 5 óra között – e rendeletben meghatározott kivétellel – mindenki köteles a lakóhelyén, a tartózkodási helyén vagy a szálláshelyén tartózkodni.
+3. §[^13] (1)[^14] Este 11 óra és reggel 5 óra között – e rendeletben meghatározott kivétellel – mindenki köteles a lakóhelyén, a tartózkodási helyén vagy a szálláshelyén tartózkodni.
 
-(2)[^13] Az (1) bekezdéstől eltérően
+(2)[^15] Az (1) bekezdéstől eltérően
 
 a) egészségkárosodással, életveszéllyel vagy súlyos kárral fenyegető helyzet esetén, valamint életvédelmi céllal,
 
@@ -18,9 +18,9 @@ db) edzés vagy sportrendezvény helyszínére közlekedés céljából,
 
 dc) edzés vagy sportrendezvény helyszínéről a lakóhelyre, a tartózkodási helyre, illetve a szálláshelyre történő közlekedés céljából
 
-## este 10 óra és reggel 5 óra között megengedett a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen történő tartózkodás.
+este 11 óra és reggel 5 óra között megengedett a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen történő tartózkodás.
 
-(3)[^14] Az (1) bekezdéstől eltérően kutyasétáltatás céljából este 10 óra és reggel 5 óra között megengedett a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen tartózkodás azzal, hogy a kutyasétáltatás során a lakóhely, a tartózkodási hely vagy a szálláshely 500 méteres körzete nem hagyható el.
+(3)[^16] Az (1) bekezdéstől eltérően kutyasétáltatás céljából este 11 óra és reggel 5 óra között megengedett a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen tartózkodás azzal, hogy a kutyasétáltatás során a lakóhely, a tartózkodási hely vagy a szálláshely 500 méteres körzete nem hagyható el.
 
 (4) A települési önkormányzat saját hatáskörben dönthet a kutyafuttató bezárásáról.
 
@@ -28,10 +28,10 @@ dc) edzés vagy sportrendezvény helyszínéről a lakóhelyre, a tartózkodási
 
 (6) Az (5) bekezdés szerinti okirat tartalmi követelményeit a közbiztonságért felelős miniszter a Kormány hivatalos honlapján közzéteszi.
 
-(7)[^15] Az (5) bekezdésben meghatározott – a (6) bekezdés szerinti tartalmi követelményeknek megfelelő – okirat hiányában, este 10 óra és reggel 5 óra között, tilos a (2) bekezdés b)–d) pontja szerinti okból a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen történő tartózkodás.
+(7)[^17] Az (5) bekezdésben meghatározott – a (6) bekezdés szerinti tartalmi követelményeknek megfelelő – okirat hiányában, este 11 óra és reggel 5 óra között, tilos a (2) bekezdés b)–d) pontja szerinti okból a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen történő tartózkodás.
 
-[^11]: A 3. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^12]: A 3. § (1) bekezése a 144/2021. (III. 27.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^13]: A 3. § (2) bekezés záró szövegrésze a 144/2021. (III. 27.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^14]: A 3. § (3) bekezése a 144/2021. (III. 27.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^15]: A 3. § (7) bekezése a 144/2021. (III. 27.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 3. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^14]: A 3. § (1) bekezdése a 191/2021. (IV. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 3. § (2) bekezdés záró szövegrésze a 191/2021. (IV. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^16]: A 3. § (3) bekezdése a 191/2021. (IV. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^17]: A 3. § (7) bekezdése a 191/2021. (IV. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
