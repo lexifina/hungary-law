@@ -1,3 +1,3 @@
-## 2. § Az R. a következő 58. §-sal egészül ki:
+## 2. §[^3]
 
-## „58. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 193/2021. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr50.) módosított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/O. §-át és 2. melléklet 63. sorát a Módr50. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
