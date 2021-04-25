@@ -1,3 +1,3 @@
-22. §[^23]
+22. §[^23] 2021. december 31-ig az Szja tv. 71. § (1) bekezdése alapján béren kívüli juttatásként az egyes alszámlákra utalt Széchenyi Pihenő Kártya juttatást a szolgáltató a Széchenyi Pihenő Kártya elfogadói szerződésétől eltérően az 5. § (1) bekezdése szerinti eredeti alszámlánál meghatározott tevékenységi körébe tartozó szolgáltatás ellenértékének megfizetésére egy másik alszámlán lévő egyenleget is elfogadhatja, valamint a kártyabirtokos az egyes alszámlákon lévő pénzeszközt a 3. § (2) bekezdésétől eltérően az 5. § (1) bekezdése szerinti másik alszámlánál meghatározott szolgáltatás ellenértékének megfizetésére is – ide nem értve a szolgáltatás közvetítését – felhasználhatja.
 
-[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 178/2021. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
