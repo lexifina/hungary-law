@@ -1,1 +1,3 @@
-## „h) az újrahasználatra való előkészítés és újrafeldolgozás céljából elkülönítve gyűjtött hulladékot, kivéve az elkülönítve gyűjtött hulladék későbbi kezelési műveleteiből származó hulladékot, amelynek esetében a hulladékhierarchiával összhangban a hulladéklerakóban való lerakás biztosítja a legjobb környezeti eredményt.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

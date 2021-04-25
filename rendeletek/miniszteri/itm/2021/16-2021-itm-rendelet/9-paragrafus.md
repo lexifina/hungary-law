@@ -1,3 +1,5 @@
-## 8. § A 43/2016. (VI. 28.) FM rendelet 2. melléklete az 1. melléklet szerint módosul.
+## 8. §[^9]
 
 ## 4. Záró rendelkezések
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
