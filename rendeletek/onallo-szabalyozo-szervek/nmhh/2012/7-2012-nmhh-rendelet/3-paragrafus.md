@@ -22,7 +22,7 @@ f)[^16] azon rádiórendszerek esetében, amelyek az NFFF alapján az egyedi eng
 
 g)[^17] jogutódlás vagy érvényes rádióengedély alapján üzemeltetett rádiórendszer tulajdonosváltozása esetében;
 
-h)[^18] a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 65. § (10) bekezdése szerint megkötött ideiglenes hatósági szerződés esetében; vagy
+h)[^18] a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 65. § (1) bekezdése szerint megkötött ideiglenes hatósági szerződés esetében; vagy
 
 i)[^19] versenyeztetési eljárás során megszerzett rádióspektrum-használati jogosultság esetében, kivéve a rádió- és televízió-műsorszóró hálózat vagy rádió- és televízió-műsorszóró adóállomás üzemeltetésére pályázaton szerzett jogosultságot.
 
@@ -42,7 +42,7 @@ i)[^19] versenyeztetési eljárás során megszerzett rádióspektrum-használat
 [^15]: A 3. § (2) bekezdés e) pontja a 8/2017. (VII. 28.) NMHH rendelet 16. § a) pontja szerint módosított szöveg.
 [^16]: A 3. § (2) bekezdés f) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 2. pontja szerint módosított szöveg.
 [^17]: A 3. § (2) bekezdés g) pontja a 8/2017. (VII. 28.) NMHH rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^18]: A 3. § (2) bekezdés h) pontja a 2/2016. (II. 26.) NMHH rendelet 23. §-ával megállapított szöveg.
+[^18]: A 3. § (2) bekezdés h) pontja a 2/2016. (II. 26.) NMHH rendelet 23. §-ával megállapított, a 3/2021. (IV. 23.) NMHH rendelet 1. §-a szerint módosított szöveg.
 [^19]: A 3. § (2) bekezdés i) pontját a 2/2016. (II. 26.) NMHH rendelet 23. §-a iktatta be, szövege a 10/2020. (XII. 10.) NMHH rendelet 11. § 5. pontja szerint módosított szöveg.
 [^20]: A 3. § (3) bekezdése a 10/2020. (XII. 10.) NMHH rendelet 11. § 5. pontja szerint módosított szöveg.
 [^21]: A 3. § (4) bekezdése a 10/2020. (XII. 10.) NMHH rendelet 11. § 5. pontja szerint módosított szöveg.
