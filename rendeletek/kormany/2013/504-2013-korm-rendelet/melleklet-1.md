@@ -864,6 +864,34 @@ A rész
 
 | 426 | 2231 | Zöldségtermesztő és hajtató |
 
+| 427 | 4 0821 17 01 | Erdőművelő-fakitermelő |
+
+| 428 | 5 0821 17 02 | Erdésztechnikus Erdőgazdálkodás szakmairány |
+
+| 429 | 5 0821 17 02 | Erdésztechnikus Vadgazdálkodás szakmairány |
+
+| 430 | 4 0811 17 04 | Gazda Állattenyésztő szakmairány |
+
+| 431 | 4 0811 17 04 | Gazda Lovász szakmairány |
+
+| 432 | 4 0811 17 05 | Kertész |
+
+| 433 | 5 0812 17 06 | Kertésztechnikus Dísznövénytermesztő, virágkötő szakmairány |
+
+| 434 | 5 0812 17 06 | Kertésztechnikus Gyógynövénytermesztő szakmairány |
+
+| 435 | 5 0812 17 06 | Kertésztechnikus Gyümölcstermesztő szakmairány |
+
+| 436 | 5 0812 17 06 | Kertésztechnikus Zöldségtermesztő szakmairány |
+
+| 437 | 4 0810 17 07 | Mezőgazdasági gépész |
+
+| 438 | 5 0810 17 08 | Mezőgazdasági gépésztechnikus |
+
+| 439 | 5 0811 17 09 | Mezőgazdasági technikus Állattenyésztő szakmairány |
+
+| 440 | 5 0811 17 09 | Mezőgazdasági technikus Növénytermesztő szakmairány |
+
 B. rész
 
 | FELSŐFOKÚ AGRÁRSZAKKÉPZÉSEK |
@@ -1078,5 +1106,17 @@ B. rész
 
 | 103 | Zöldségtermesztési üzemmérnök | főiskolai |
 
+C. rész
+
+| RÉSZSZAKMÁK |
+
+|  | A | B | C | D | E | F |
+
+|  | Szakma azonosító száma | Szakma megnevezése | Részszakma megnevezése |
+
+|  | Magyar Képesítési Keretrendszer szint | Képzési terület | Ágazati besorolás | Szakmasorszám |
+
+| 1. | 4 | 0811 | 17 | 04 | Gazda | Aranykalászos gazda |
+
 [^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet a 187/2014. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet a 187/2014. (VII. 25.) Korm. rendelet 1. §-ával megállapított, a 200/2021. (IV. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
