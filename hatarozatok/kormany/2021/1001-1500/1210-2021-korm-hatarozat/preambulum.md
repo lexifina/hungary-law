@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében megvalósuló biatorbágyi szakképző intézmény megvalósítására irányuló beruházással kapcsolatos intézkedésekről szóló 1193/2020. (IV. 30.) Korm. határozatban meghatározott beruházás végrehajtása érdekében
