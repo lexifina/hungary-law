@@ -1,4 +1,4 @@
-## 7. [^16] A sporteseményekre és a kulturális rendezvényekre történő belépés szabályai
+## 7. [^19] A sporteseményekre és a kulturális rendezvényekre történő belépés szabályai
 
 11. § (1) Ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően
 
@@ -18,4 +18,4 @@ lép be Magyarország területére, a 3. §-t a (2)–(5) bekezdés szerinti elt
 
 (6) Az (1) bekezdés szerinti személy esetében a 4. § (1) bekezdése szerinti, két alkalommal elvégzett, az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 PCR teszt – között 24 órának kell eltelnie.
 
-[^16]: A 7. alcím címe a 422/2020. (IX. 4.) Korm. rendelet 5. §-ával megálapított szöveg.
+[^19]: A 7. alcím címe a 422/2020. (IX. 4.) Korm. rendelet 5. §-ával megálapított szöveg.
