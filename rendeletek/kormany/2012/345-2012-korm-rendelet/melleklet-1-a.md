@@ -328,6 +328,8 @@
 
 ## 1.2.92. A 6. számú főút Paks és az 512. számú főút közötti szakasz négynyomúsítása.
 
+## 1.2.140. Az 1. számú főút, Tatabánya, 48+995 km szelvényben lévő csomópont fejlesztése.
+
 ## 1.3. Mellékutak
 
 ## 1.3.1. A 74176. jelű út (Kercaszomor–országhatár) fejlesztése.
@@ -531,6 +533,12 @@
 ## 1.3.100. A 2502. jelű összekötő út, Andornaktálya elkerülő szakasz megvalósítása.
 
 ## 1.3.101. Sopron, 8527. jelű összekötő út új nyomvonalának kiépítése.
+
+## 1.3.130. A 81128. jelű bekötőút 0+000 – 1+971 km szelvények közötti szakasz felújítása.
+
+## 1.3.131. A 81129. jelű bekötőút 0+000 – 1+846 km szelvények közötti szakasz felújítása.
+
+## 1.3.132. A 8156. jelű Tatabánya–Vértessomló összekötő út fejlesztése.
 
 ## 1.4. Csomóponti és közlekedésbiztonsági beavatkozások
 
@@ -911,6 +919,10 @@
 ## 1.8.53. Miskolc–Bogács–Eger kerékpáros-útvonal kiépítése.
 
 ## 1.8.54. EuroVelo 14 Zala mente kerékpáros-útvonal komplex fejlesztése.
+
+## 1.8.271. Vértesszőlős–Baj kerékpárút fejlesztése.
+
+## 1.8.272. Vértesszőlős–Vértestolna kerékpárút fejlesztése.
 
 ## 2. Vasúti projektek
 
@@ -1352,6 +1364,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^46]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^48]
 
-[^46]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^48]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.

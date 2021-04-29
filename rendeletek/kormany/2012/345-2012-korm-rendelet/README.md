@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-345-20-
 | 2020-09-11 | 2012-345-20-22.31 | 236/2020. (V. 26.) Korm. rendelet |
 | 2021-02-06 | 2012-345-20-22.32 | 236/2020. (V. 26.) Korm. rendelet |
 | 2021-03-04 | 2012-345-20-22.33 | 236/2020. (V. 26.) Korm. rendelet |
+| 2021-04-29 | 2012-345-20-22.34 | 201/2021. (IV. 28.) Korm. rendelet |

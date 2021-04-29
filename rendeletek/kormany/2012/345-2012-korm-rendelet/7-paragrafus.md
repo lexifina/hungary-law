@@ -52,6 +52,8 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (15)[^42] E rendeletnek a közlekedési infrastruktúra-fejlesztéssel összefüggő egyes kormányrendeletek módosításáról szóló 236/2020. (V. 26.) Korm. rendelettel (a továbbiakban: Módr. 7.) megállapított 1. § (1) bekezdését, 1. § (3)–(7) bekezdését, 3. § c) pontját, 5/A. § (2) bekezdését és 1. mellékletét a Módr. 7. hatálybalépésekor[^43] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
+(17)[^44] E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 201/2021. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 1. melléklet 1.2.140., 1.3.130–1.3.132. alpontját és 1.8.271–1.8.272. alpontját a Módr9. hatálybalépésekor[^45] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
 [^16]: A 7. § (2) bekezdés d) pontját a 441/2015. (XII. 28.) Korm. rendelet 185. § a) pontja hatályon kívül helyezte.
 [^17]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^18]: A hatálybalépés időpontja 2013. október 26.
@@ -80,3 +82,5 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^41]: A hatálybalépés időpontja 2017. december 8.
 [^42]: A 7. § (15) bekezdését a 236/2020. (V. 26.) Korm. rendelet 6. §-a iktatta be.
 [^43]: A hatálybalépés időpontja 2020. május 27.
+[^44]: A 7. § (17) bekezdését a 201/2021. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^45]: A hatálybalépés időpontja 2021. április 29.
