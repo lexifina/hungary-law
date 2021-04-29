@@ -168,6 +168,20 @@
 
 ## 2.7.[^3] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter a 2.1., 2.2. és a 2.3. pontban foglalt feladatok finanszírozása érdekében a 2019–2021. évek tekintetében összesen legfeljebb 73 128 375 974 forint összegben kötelezettséget vállaljon.
 
+## 2.8.[^4] felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy Debrecen Megyei Jogú Város Önkormányzata 2. pont szerinti vasúti projektekhez kapcsolódó területszerzési és előkészítési feladatainak megvalósítása érdekében gondoskodjanak a 3. pont szerinti közmű projektek megvalósítása során fel nem használt forrásból 309 399 173 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára, az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (2) bekezdése szerint – az Innovációs és Technológiai Minisztérium által – teljesített befizetés terhére, az Ávr. 153. §-ában foglaltak szerint;
+
+## Felelős: pénzügyminiszter
+
+## innovációért és technológiáért felelős miniszter
+
+## Határidő: a fel nem használt forrás rendelkezésre állását követően azonnal
+
+## 2.9.[^5] felhívja az innovációért és technológiáért felelős minisztert, hogy a 2.8. alpont szerinti feladat végrehajtása érdekében az ott megjelölt összeg terhére gondoskodjon a támogatás biztosításáról Debrecen Megyei Jogú Város Önkormányzata részére, a vonatkozó támogatási jogviszonyok módosításával;
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: a forrás rendelkezésre állását követően azonnal
+
 ## 3. A Kormány a debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett közmű projektek megvalósítása vonatkozásában
 
 ## 3.1. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: 2018. évi Kvtv.) 1. melléklet IX. Helyi Önkormányzatok támogatásai fejezet címrendjének a 82. Debrecen Megyei Jogú Város Önkormányzata közműfejlesztési feladatainak támogatása címmel történő kiegészítését;
@@ -186,7 +200,7 @@
 
 ## Határidő: azonnal
 
-## 3.3. egyetért azzal, hogy a belügyminiszter a 3.2. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó egyedi támogatást nyújtson Debrecen Megyei Jogú Város Önkormányzata részére, az 1. melléklet 2. pontjában foglalt táblázat szerinti, „KÖZMŰ-3” azonosítóval jelölt közmű projekt megvalósítása érdekében, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
+## 3.3.[^6] egyetért azzal, hogy a belügyminiszter a 3.2. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az Ávr. 101/A. §-a hatálya alá tartozó egyedi támogatást nyújtson Debrecen Megyei Jogú Város Önkormányzata részére, az 1. melléklet 2. pontjában foglalt táblázat szerinti, „KÖZMŰ-3” azonosítóval jelölt közmű projekt megvalósítása érdekében, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
 ## Felelős: belügyminiszter
 
@@ -214,23 +228,23 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^4]
+## 5.[^7]
 
-## 6.[^5]
+## 6.[^8]
 
-## 7.[^6]
+## 7.[^9]
 
-## 8.[^7]
+## 8.[^10]
 
-## 9.[^8]
+## 9.[^11]
 
-## 10.[^9]
+## 10.[^12]
 
-## 11.[^10]
+## 11.[^13]
 
-## 12.[^11]
+## 12.[^14]
 
-1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^12]
+1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^15]
 
 1. A debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett
 
@@ -315,12 +329,15 @@ közmű projektek
 [^1]: A 2.4. pont az 1053/2020. (II. 19.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 2.5. pontot az 1053/2020. (II. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
 [^3]: A 2.7. pont az 1053/2020. (II. 19.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 2.8. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 2.9. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 3.3. pont az 1213/2021. (IV. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^7]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
