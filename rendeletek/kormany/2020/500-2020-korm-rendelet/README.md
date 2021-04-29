@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-500-20-
 | 2020-11-28 | 2020-500-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-02-08 | 2020-500-20-22.3 | 27/2021. (I. 29.) Korm. rendelet |
 | 2021-02-13 | 2020-500-20-22.4 | 27/2021. (I. 29.) Korm. rendelet |
+| 2021-04-29 | 2020-500-20-22.5 | 27/2021. (I. 29.) Korm. rendelet |
