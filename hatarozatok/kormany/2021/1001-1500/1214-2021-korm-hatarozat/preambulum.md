@@ -1,0 +1,1 @@
+A Kormány – az Eötvös Loránd Tudományegyetem Trefort Ágoston Gyakorló Gimnázium infrastrukturális fejlesztéséről szóló 1853/2020. (XI. 26.) Korm. határozat 1. pont l) alpontja szerinti feladat végrehajtása érdekében – a budapesti felsőoktatási intézmények egyes gyakorlóintézményei infrastruktúrájának fejlesztése keretében –
