@@ -174,6 +174,8 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 
 (5)[^29] Az e rendeletben foglaltakat a rendszerüzemeltető és rendszerhasználó viszonylatában azon rendszerhasználóra kell alkalmazni, aki rendszerhasználati szerződéses kapcsolatban áll az adott rendszerüzemeltetővel.
 
+(6)[^30] A Hivatal által meghatározott díjak az általános forgalmi adót nem tartalmazzák.
+
 [^1]: Az 1. alcím (1. §) a 14/2016. (XII. 20.) MEKH rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pont aa) alpont aad) alpontja a 3/2020. (III. 25.) MEKH rendelet 5. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés a) pont aa) alpont aah) alpontja a 7/2017. (VII. 13.) MEKH rendelet 19. § a) pontja szerint módosított szöveg.
@@ -203,3 +205,4 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 [^27]: Az 1. § (3) bekezdése az 5/2019. (V. 31.) MEKH rendelet 9. § (3) bekezdésével megállapított szöveg.
 [^28]: Az 1. § (4) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdése iktatta be.
 [^29]: Az 1. § (5) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (6) bekezdése iktatta be.
+[^30]: Az 1. § (6) bekezdését a 3/2021. (IV. 14.) MEKH rendelet 1. §-a iktatta be.

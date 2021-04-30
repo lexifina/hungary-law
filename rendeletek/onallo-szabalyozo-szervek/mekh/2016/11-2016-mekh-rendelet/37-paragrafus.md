@@ -16,9 +16,9 @@ c) a rendszerhasználóként eljáró felhasználó
 
 (3) A (2) bekezdés szerinti díjfizetésre kötelezetteket a földgáztárolási díjon felül – a 38–40. §-ban meghatározott áralkalmazási feltételeken kívül – más földgáztárolási díj-fizetési kötelezettség nem terheli.
 
-(4)[^111] A tárolási díjrendszer díjtételeit a Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete, áralkalmazási feltételeit a 38–40. § tartalmazza.
+(4)[^115] A tárolási díjrendszer díjtételeit a Hivatal földgáztárolási díjakat megállapító határozata, áralkalmazási feltételeit a 38–40. § tartalmazza.
 
-(5)[^112] A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztárolást végző földgáztároló engedélyes, a biztonsági földgázkészletből a földgáz biztonsági készlet mértékéről, értékesítéséről és visszapótlásáról szóló miniszteri rendelet alapján értékesített földgázmennyiség ki- és betárolása esetén legfeljebb a Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendeletében meghatározott ki- és betárolási díjat érvényesítheti.
+(5)[^116] A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztárolást végző földgáztároló engedélyes a földgáz biztonsági készletezéséről szóló törvény alapján értékesített földgázmennyiség ki- és betárolása esetén legfeljebb a Hivatal földgáztárolási díjat tartalmazó határozatában meghatározott ki- és betárolási díjat érvényesítheti.
 
-[^111]: A 37. § (4) bekezdése a 14/2016. (XII. 20.) MEKH rendelet 7. §-ával megállapított szöveg. [A 29. § (1) bekezdés a) pontjának a 14/2016. (XII. 20.) MEKH rendelet 11. § d) pontjával elrendelt módosítása, amely szerint az „a GET 104/B. § (4) bekezdése alapján kiadott határozata” szövegrész helyett az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete” szöveggel lép hatályba, nem vezethető át.]
-[^112]: A 37. § (5) bekezdése a 14/2016. (XII. 20.) MEKH rendelet 11. § h) pontja szerint módosított szöveg.
+[^115]: A 37. § (4) bekezdése a 14/2016. (XII. 20.) MEKH rendelet 7. §-ával megállapított, a 3/2021. (IV. 14.) MEKH rendelet 14. § h) pontja szerint módosított szöveg.
+[^116]: A 37. § (5) bekezdése a 3/2021. (IV. 14.) MEKH rendelet 12. §-ával megállapított szöveg.

@@ -1,10 +1,10 @@
-## 24. §[^99]
+## 24. §[^102]
 
 ## 25. § Azokban a lakóépületekben, ahol a szolgáltatott földgáz mérése átadási-átvételi pontonként nem megoldott, a fogyasztott földgázért átadási-átvételi pontonként
 
-a)[^100] az elosztási átalánydíjnak, és
+a)[^103] az elosztási átalánydíjnak, és
 
 b) az 1. mellékletben meghatározott energiamennyiségben kifejezett fogyasztásnak
 
-[^99]: A 24. §-t a 4/2019. (IV. 12.) MEKH rendelet 9. § b) pontja hatályon kívül helyezte.
-[^100]: A 25. § a) pontja a 14/2016. (XII. 20.) MEKH rendelet 11. § f) pontja szerint módosított szöveg.
+[^102]: A 24. §-t a 4/2019. (IV. 12.) MEKH rendelet 9. § b) pontja hatályon kívül helyezte.
+[^103]: A 25. § a) pontja a 14/2016. (XII. 20.) MEKH rendelet 11. § f) pontja szerint módosított szöveg.
