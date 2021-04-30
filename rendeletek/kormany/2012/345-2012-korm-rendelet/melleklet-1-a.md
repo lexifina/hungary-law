@@ -106,7 +106,7 @@
 
 ## 1.1.52. Az M35 autópálya, 354. számú főút csomópont fejlesztése.
 
-## 1.1.53. Az M44 gyorsforgalmi út Kecskemét és Békéscsaba közötti szakasz megvalósítása.
+## 1.1.53. M44 gyorsforgalmi út Kecskemét – Nagykőrös (korábbi M8 tervezési szakasz) – Békéscsaba közötti szakasz.
 
 ## 1.1.54. Az M49 gyorsforgalmi út, M3 autópálya (Vaja) és Csenger, országhatár közötti szakasz megvalósítása.
 
@@ -140,7 +140,31 @@
 
 ## 1.1.69. A Szeged és Pécs közötti közúti kapcsolat fejlesztése.
 
-## 1.1.70. A Komárom-Kisigmánd (M1 autópálya)–Kisbér–Székesfehérvár (M7 autópálya)–Sárbogárd (M8 gyorsforgalmi út) között gyorsforgalmi út megvalósítása.
+## 1.1.70. Az M81 Komárom – Kisigmánd (M1 autópálya) – Kisbér – Székesfehérvár (M7 autópálya) – Sárbogárd (M8 gyorsforgalmi út) között gyorsforgalmi út megvalósítása.
+
+## 1.1.71. Az M2 gyorsforgalmi út, Vác-dél és Vác-észak közötti szakasz fejlesztése.
+
+## 1.1.72. Az M2 gyorsforgalmi út Vác-észak és Hont – Parassapuszta, országhatár közötti szakasz megvalósítása.
+
+## 1.1.73. Az M3 autópálya, Gödöllő csomópont fejlesztése.
+
+## 1.1.74. Az M4 autóút, Üllő ipari park csomópont és kapcsolódó úthálózati elemek megvalósítása.
+
+## 1.1.75. Az M5 autópálya, Csengele csomópont megvalósítása.
+
+## 1.1.76. Az M9 gyorsforgalmi út, 51. számú főút és 54. számú főút közötti szakasz megvalósítása.
+
+## 1.1.77. Az M9 gyorsforgalmi út, 54. számú főút és 53. számú főút közötti szakasz megvalósítása.
+
+## 1.1.78. Az M44 gyorsforgalmi út, Kunszentmárton csomópont megvalósítása.
+
+## 1.1.79. Az M44 gyorsforgalmi út, Kétsoprony, 4644 jelű úti csomópont megvalósítása.
+
+## 1.1.80. Az M4 gyorsforgalmi út, Újszilvási csomópont kialakítása.
+
+## 1.1.81. Az M0 autóút 51+550–52+100 km szelvények között zajárnyékoló fal építése.
+
+## 1.1.82. Az M3 autópálya új csomóponti kapcsolatok kialakítása Görbeháza és Hajdúnánás elérhetőségének biztosítása érdekében.
 
 ## 1.2. Főutak
 
@@ -176,15 +200,15 @@
 
 ## 1.2.16. A 21. számú főút Bátonyterenye és Somoskőújfalu, országhatár közötti (Salgótarján elkerülő) szakasz előkészítése.
 
-## 1.2.17. A 23–25. számú főutak, Bátonyterenye és Ózd közötti szakasz fejlesztése.
+## 1.2.17.
 
 ## 1.2.18. A 25. számú főút, Eger elkerülő szakasz megvalósítása.
 
-## 1.2.19. A 26. számú főút, Sajószentpéter és Kazincbarcika elkerülő szakasz megvalósítása.
+## 1.2.19. A 260. számú főút Sajószentpéter – Kazincbarcika (Berente) elkerülő út.
 
 ## 1.2.20. A 31. számú főút, Jászberény és Dormánd közötti szakasz fejlesztése.
 
-## 1.2.21. A 32. számú főút, Hatvan és Szolnok közötti szakasz fejlesztése.
+## 1.2.21. A 32. számú főút, Hatvan és Szolnok közötti szakasz fejlesztése, párhuzamosan kerékpárút fejlesztéssel.
 
 ## 1.2.22. A 32. számú főút, Jászberény elkerülő szakasz megvalósítása.
 
@@ -210,7 +234,7 @@
 
 ## 1.2.33. Az 51. számú főút, Solt elkerülő szakasz megvalósítása.
 
-## 1.2.34. Az 51. számú főút, Kalocsa és M9 gyorsforgalmi út közötti szakasz fejlesztése.
+## 1.2.34. Az 51. számú főút Kalocsa és M9 gyorsforgalmi út közötti szakasz fejlesztése, párhuzamosan kerékpárút fejlesztéssel.
 
 ## 1.2.35. Az 51. számú főút, M9 gyorsforgalmi út és Baja közötti szakasz fejlesztése.
 
@@ -230,9 +254,9 @@
 
 ## 1.2.43. Az 55. számú főút, Mórahalom és Szeged közötti szakasz fejlesztése.
 
-## 1.2.44. Az 55. számú főút, Baja és Pörböly közötti szakasz fejlesztése.
+## 1.2.44. Az 55. számú főút, Baja és Pörböly közötti szakasz fejlesztése, párhuzamosan kerékpárút fejlesztéssel.
 
-## 1.2.45. Az 55. számú főút 111+460 (Pörböly) és 118+212 (Alsónyék) km szelvény közötti szakasz fejlesztése.
+## 1.2.45. Az 55. számú főút Pörböly és Bátaszék közötti szakasz fejlesztése, párhuzamosan kerékpárút fejlesztéssel.
 
 ## 1.2.46. A 62. számú főút, Székesfehérvár és Dunaújváros közötti szakasz fejlesztése.
 
@@ -254,7 +278,7 @@
 
 ## 1.2.55. A 67. számú főút, Szigetvár és országhatár közötti szakasz megvalósítása.
 
-## 1.2.56. A 68. számú főút, Balatonszentgyörgy és Barcs közötti szakasz fejlesztése.
+## 1.2.56. A 68. számú főút, Balatonszentgyörgy és Barcs közötti szakasz fejlesztése, párhuzamosan kerékpárút fejlesztéssel.
 
 ## 1.2.57. A 71. számú főút, Keszthely-Fenékpuszta és Keszthely közötti szakasz fejlesztése.
 
@@ -274,21 +298,21 @@
 
 ## 1.2.65. A 86. számú főút, Zalalövő elkerülő szakasz megvalósítása.
 
-## 1.2.66. A 86. és 76. számú főút, Nádasd és Katafa-Hegyhátsál elkerülő szakasz megvalósítása.
+## 1.2.66.
 
-## 1.2.67. A 87. számú főút, Kőszeg és Rattersdorf (Rőtfalva) közötti szakasz megvalósítása.
+## 1.2.67. A 87. számú főút, Kőszeg (M87 gyorsforgalmi út) és Kőszeg, országhatár és Rattersdorf (Rőtfalva) közötti szakasz megvalósítása.
 
-## 1.2.68. A 87–89. számú főutak, Szombathely északkeleti elkerülő szakasz előkészítése.
+## 1.2.68. A 87–89. számú főutak, Szombathely északkeleti elkerülő szakasz megvalósítása.
 
-## 1.2.69. A 88. számú főút, Sárvár és Vát közötti szakasz fejlesztése.
+## 1.2.69.
 
-## 1.2.70. A 301. számú főút, M3 és M31 autópálya közötti szakasz megépítése.
+## 1.2.70. A 301. számú főút, M3 autópálya és M2 gyorsforgalmi út közötti szakasz megvalósítása.
 
 ## 1.2.71. A 338. számú főút, Nyíregyháza nyugati elkerülő szakasz megvalósítása.
 
 ## 1.2.72. A 441. számú főút, 445. számú főút és Kecskemét, Nagykörút közötti szakasz fejlesztése.
 
-## 1.2.73. A 441. számú főút, 445. számú főút és Nagykőrös közötti szakasz fejlesztése.
+## 1.2.73. A 441. számú főút, Kecskemét (445. számú főút) és Nagykőrös közötti szakasz fejlesztése.
 
 ## 1.2.74. A 444. számú főút, Békéscsaba, Orosházi úti felüljáró fejlesztése.
 
@@ -328,6 +352,100 @@
 
 ## 1.2.92. A 6. számú főút Paks és az 512. számú főút közötti szakasz négynyomúsítása.
 
+## 1.2.93. A 4. számú főút (R4), Debrecen és Nyíregyháza közötti szakasz négynyomúsítása.
+
+## 1.2.94. A 8. számú főút (R8), Veszprém, Füredi utca és Pápai út közötti szakasz négynyomúsítása.
+
+## 1.2.95. A 23. számú főút, Bátonyterenye – Kisterenye elkerülő szakasz megvalósítása.
+
+## 1.2.96. A 23. számú főút és 25. számú főút, Bátonyterenye – Kisterenye és Szentdomonkos közötti szakasz fejlesztése.
+
+## 1.2.97. A 25. számú főút, Szentdomonkos és Borsodnádasd közötti szakasz fejlesztése.
+
+## 1.2.98. A 25. számú főút, Borsodnádasd és Bánréve közötti szakasz fejlesztése.
+
+## 1.2.99. A 31. számú főút, Budapest és Nagykáta (Pest – Jász-Nagykun-Szolnok megyehatár) közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.100. A 32. számú főút, M3 autópálya és Jászberény közötti szakasz négynyomúsítása.
+
+## 1.2.101. Az 51. számú főút, Baja déli elkerülő szakasz megvalósítása.
+
+## 1.2.102. A 61. számú főút, Simontornya elkerülő szakasz megvalósítása.
+
+## 1.2.103. A 74. számú főút, Zalaegerszeg és Nagykanizsa közötti szakasz négynyomúsítása.
+
+## 1.2.104. A 82. számú főút Győr, új bevezető szakasz megvalósítása.
+
+## 1.2.105. A 82. számú főút, Zirc elkerülő szakasz megvalósítása.
+
+## 1.2.106. A 310. számú főút Mogyoród és Isaszeg közötti szakasz megvalósítása.
+
+## 1.2.107. A 7. számú főút, Siófok elkerülő szakasz megvalósítása.
+
+## 1.2.108. A 451. számú főút, Kiskunfélegyháza és Szentes közötti szakasz fejlesztése.
+
+## 1.2.109. A 471. számú főút, Nyírmihálydi és Nyírbátor közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.110. A 471. számú főút, Nyírbátor elkerülő szakasz megvalósítása.
+
+## 1.2.111. A 471. számú főút, Nyírbátor és Mátészalka közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.112. A szentesi Kurca-híd és kapcsolódó létesítmények megvalósítása.
+
+## 1.2.113. A füzesabonyi különszintű vasúti keresztezés megvalósítása.
+
+## 1.2.114. A váci új Duna-híd megvalósítása.
+
+## 1.2.115. A 75. számú főút, Zalaapáti és Bak közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.116. A 862. számú főút Kapuvár és Beled közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.117. Az 51. számú főút, Bátmonostor elkerülő szakasz megvalósítása.
+
+## 1.2.118. Az 51. számú főút, Csátalja elkerülő szakasz megvalósítása.
+
+## 1.2.119. Az 51. számú főút, Taksony és Dunavecse közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.120. A 26. számú főút, Kazincbarcika és Bánréve, országhatár közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.121. A 443. számú főút, Gyomaendrőd és Szarvas közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.122. A 34. számú főút, Tiszafüred – Fegyvernek közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.123. A 22. számú főút, Rétság és Balassagyarmat közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.124. A 311. számú főút, Cegléd és Nagykáta közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.125. A 441. számú főút, Cegléd és Nagykőrös közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.126. A 493. számú főút, Baktalórántháza és Nyírbátor közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.127. A 73. számú főút, Csopak és Veszprém közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.128. A 77. számú főút, Veszprém és Lesencetomaj közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.129. A 66. számú főút, Pécs és Sásd közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.130. A Karcag keleti elkerülő megvalósítása.
+
+## 1.2.131. A 45. számú főút, Kunszentmárton és Hódmezővásárhely közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+
+## 1.2.132. A Komárom-Kisigmánd (M1 autópálya) – Kisbér – Székesfehérvár (M7 autópálya) – Sárbogárd (M8 gyorsforgalmi út) közötti út megvalósítása.
+
+## 1.2.133. A Berettyóújfalu nyugati elkerülő út megvalósítása.
+
+## 1.2.134. Az 510. számú Budapest-Taksony másodrendű főút 21+400–24+170 km szelvények közötti szakasz felújítása.
+
+## 1.2.135. A 811. számú Székesfehérvár – Bicske másodrendű főút 34+240–39+572 km szelvények közötti szakasz felújítása.
+
+## 1.2.136. A 24. számú Gyöngyös – Eger másodrendű főút 0+000–15+100 km szelvények közötti szakasz felújítása.
+
+## 1.2.137. A 11. számú Budapest – Esztergom – Tát elsőrendű főút 16+700–23+754 km szelvények közötti szakasz felújítása.
+
+## 1.2.138. A 36. számú Polgár – Nyíregyháza másodrendű főút 49+480 km szelvényében vasútvonal feletti híd felújítása.
+
+## 1.2.139. A 75. számú Keszthely – Bak – Rédics másodrendű főút 61+544-65+130 km szelvények közötti szakasz felújítása.
+
 ## 1.2.140. Az 1. számú főút, Tatabánya, 48+995 km szelvényben lévő csomópont fejlesztése.
 
 ## 1.3. Mellékutak
@@ -340,7 +458,7 @@
 
 ## 1.3.4. A 87109. jelű út (Rönök–országhatár) fejlesztése.
 
-## 1.3.5. A 8505. jelű út (Mosonszolnok–Albertkázmérpuszta–országhatár) fejlesztése.
+## 1.3.5. A 8505. jelű út 1. számú főút – Mosonszolnok – Albertkázmérpuszta-országhatár fejlesztése.
 
 ## 1.3.6. A 41133. jelű út (Nagyhódos–országhatár) fejlesztése.
 
@@ -534,6 +652,62 @@
 
 ## 1.3.101. Sopron, 8527. jelű összekötő út új nyomvonalának kiépítése.
 
+## 1.3.102. A Bugyi elkerülő út megvalósítása.
+
+## 1.3.103. Az Etyek elkerülő út megvalósítása.
+
+## 1.3.104. A Hatvan északi elkerülő út megvalósítása.
+
+## 1.3.105. A Környe elkerülő út megvalósítása.
+
+## 1.3.106. A Devecser nyugati elkerülő út megvalósítása.
+
+## 1.3.107. Az Ajka elkerülő út megvalósítása.
+
+## 1.3.108. A Szamossályi, új Szamos-híd megvalósítása.
+
+## 1.3.109. A Somogyvár-Vityapuszta-Gamás összekötő út megvalósítása.
+
+## 1.3.110. A Vereb-Vál-Gyúró-Etyek összekötő út megvalósítása.
+
+## 1.3.111. A 4601. jelű összekötő út 63+585–76+600 km szelvények, valamint a 4608. jelű összekötő út 14+5115–30+197 km szelvények közötti szakasz felújítása.
+
+## 1.3.112. A 4405. jelű összekötő út 0+000–15+821 km szelvények közötti, 4406. jelű összekötő út 0+000–13+576 km szelvények közötti és 4447. jelű összekötő út 0+000–0+827 km szelvények közötti szakasz felújítása.
+
+## 1.3.113. A 3708. jelű összekötő út 13+508–28+636 km szelvények közötti és 3719. jelű összekötő út 5+900-14+200 km szelvények közötti szakasz felújítása.
+
+## 1.3.114. A 8108. jelű összekötő út 0+000–2+225 km szelvények közötti szakasz felújítása.
+
+## 1.3.115. A 8108. jelű összekötő út 2+540–6+850 km szelvények közötti szakasz felújítása.
+
+## 1.3.116. A 8126. jelű összekötőút 18+466–19+652 km szelvények közötti szakasz felújítása.
+
+## 1.3.117. A 8126. jelű összekötőút 19+652–31+355 km szelvények közötti szakasz felújítása.
+
+## 1.3.118. A 11117. jelű bekötő út 0+000–8+369 km szelvények közötti szakasz felújítása.
+
+## 1.3.119. A 8121. jelű összekötő út 0+000–4+752 km szelvények közötti szakasz felújítása.
+
+## 1.3.120. A 7410. jelű összekötő út 11+202–11+575 km szelvények közötti szakasz felújítása.
+
+## 1.3.121. A 7408. jelű összekötő út 0+940–1+288 km szelvények közötti szakasz felújítása.
+
+## 1.3.122. A 74801. jelű összekötő út 0+000–0+135 km szelvények közötti szakasz felújítása.
+
+## 1.3.123. A 74104. jelű összekötő út 1+235–3+789 km szelvények közötti szakasz felújítása.
+
+## 1.3.124. Az 5405. jelű összekötő út 10+175–28+112 km szelvények közötti szakasz felújítása.
+
+## 1.3.125. Az 5405. jelű összekötő út 30+906–45+165 km szelvények közötti szakasz felújítása.
+
+## 1.3.126. Az 5409. jelű összekötő út 0+000–14+214 km szelvények közötti szakasz felújítása.
+
+## 1.3.127. Az 5302. jelű összekötő út 19+235–30+890 km szelvények közötti szakasz felújítása.
+
+## 1.3.128. A 4625. jelű összekötő út 43+200–61+987 km szelvények közötti szakasz felújítása.
+
+## 1.3.129. A 2606 jelű Kazincbarcika – Múcsony összekötő út fejlesztése
+
 ## 1.3.130. A 81128. jelű bekötőút 0+000 – 1+971 km szelvények közötti szakasz felújítása.
 
 ## 1.3.131. A 81129. jelű bekötőút 0+000 – 1+846 km szelvények közötti szakasz felújítása.
@@ -614,11 +788,11 @@
 
 ## 1.4.36. Keszthely, 71. számú főút – 73162. jelű út, Rezi úti körforgalmi csomópont megvalósítása.
 
-## 1.4.37. Veszprémvarsány, 82. számú – 832. számú főúti csomópont átépítésének előkészítése.
+## 1.4.37. Veszprémvarsány, 82. számú – 832. számú főút kereszteződésében körforgalmú csomópont megvalósítása.
 
-## 1.4.38. Sümeg, 84. számú főút – Tóth Tivadar utca – Fehérkő utca csomópont átépítés körforgalmi csomóponttá előkészítése.
+## 1.4.38. Sümeg, 84. számú főút – Tóth Tivadar utca – Fehérkő utca kereszteződésében körforgalmú csomópont megvalósítása.
 
-## 1.4.39. Eger, 2504. jelű Eger–Bogács összekötő úton Vécseyvölgy utca – Gárdonyi utcai csomópont előkészítése.
+## 1.4.39. Eger, 2504. jelű Eger – Bogács összekötő úton Vécseyvölgy utca – Gárdonyi utcai csomópont átépítése.
 
 ## 1.4.40. Makó, 430. számú főút – 4432. jelű úti csomópont körforgalmú csomóponttá történő átépítése.
 
@@ -692,6 +866,60 @@
 
 ## 1.4.75. Szigethalom, Mű út (51104 jelű út) és a ráckevei H6 HÉV-vonal kereszteződésében külön szintű átvezetés előkészítése.
 
+## 1.4.76. A 26. számú főút, Szirmabesenyő csomópont fejlesztése.
+
+## 1.4.77. Balatonfüred, 71. számú főút és Germering utca kereszteződésében körforgalmú csomópont megvalósítása.
+
+## 1.4.78. Baja, 5501. jelű út és Nagy István utca kereszteződésében körforgalmú csomópont megvalósítása.
+
+## 1.4.79. Bácsbokod, 5501. és 5505. jelű utak kereszteződésében körforgalmú csomópont megvalósítása.
+
+## 1.4.80. Csátalja, 51. számú főút Damjanich utcai csomópont fejlesztése.
+
+## 1.4.81. Gyula, 4219. jelű út és Nürnbergi utca kereszteződésében körforgalmú csomópont megvalósítása.
+
+## 1.4.82. Szolnok, Hetényi Géza Megyei Kórház – Rendelőintézet közúti kapcsolatának fejlesztése.
+
+## 1.4.83. Hajdúböszörmény, 35. számú főút és 3318. jelű út kereszteződésének fejlesztése.
+
+## 1.4.84. Hajdúböszörmény, 35. számú főút és Baltazár Dezső utca kereszteződésének fejlesztése.
+
+## 1.4.85. Debrecen, 33. számú főút és Csigekert utca kereszteződésének fejlesztése.
+
+## 1.4.86. Békéscsaba, 446. számú főút és 4239 jelű út kereszteződésében körforgalmú csomópont megvalósítása.
+
+## 1.4.87. Köröstarcsa, 47. számú főút és Kossuth utca kereszteződésében körforgalmú csomópont megvalósítása.
+
+## 1.4.88. Az 52. számú Kecskemét – Dunaföldvár másodrendű főút 5+000–51+000 km szelvények közötti szakasz felújítása, 4 új körforgalom létesítésével.
+
+## 1.4.89. Az M3 autópálya – 2104. jelű összekötő út csomópontjában (2104. jelű összekötő út 23+480 km szelvényében) kanyarodó sávok létesítése.
+
+## 1.4.90. A 3204. jelű összekötő út 17+400 km szelvényben körforgalom építése.
+
+## 1.4.91. A 4. számú Budapest – Debrecen – Záhony elsőrendű főút 128+716 km szelvényében körforgalmú csomópont létesítése.
+
+## 1.4.92. Az 51. számú Budapest – Baja – Hercegszántó másodrendű főút 22+315 km szelvényében körforgalom építése.
+
+## 1.4.93. A 471. számú Debrecen – Mátészalka másodrendű főút 73+026 km szelvényében körforgalom építése.
+
+## 1.4.94. A 471. számú Debrecen – Mátészalka másodrendű főút 70+900 km szelvényében körforgalom építése.
+
+## 1.4.95. A 8108. jelű összekötő út 2+225–2+540 km szelvényében körforgalmú csomópont építése.
+
+## 1.4.96. A 8108. jelű összekötő út 6+850–7+037 km szelvényében körforgalmú csomópont építése.
+
+## 1.4.97. A 7. számú Budapest – Székesfehérvár – Letenye elsőrendű főút 206+781 km szelvényében körforgalom építése.
+
+## 1.4.98. Kecskemét, Akadémia körút – Nyíri út kereszteződésében (önkormányzati kezelésben lévő utak) ötágú körforgalom építése.
+
+## 1.4.99. A 7213. és 72306. jelű utak csomópontjának körforgalmú csomóponttá történő átépítése.
+
+## 1.4.100. A 73. számú Csopak – Veszprém másodrendű főút és a 7221. jelű összekötő út csomópontjának körforgalmú csomóponttá történő átépítése.
+
+## 1.4.101. Sülysáp, 31. számú főút – 3105. j. út körforgalmú csomóponttá történő átépítése.
+
+## 1.4.102. Nagykáta, 31. – 311. számú főúti csomópont körforgalmú csomóponttá történő átépítése.
+
 ## 1.5. Hidak
 
 ## 1.5.1. A kisunyomi Sorok-patak-híd fejlesztése.
@@ -744,6 +972,8 @@
 
 ## 1.5.25. A lenti Malom-patak-híd fejlesztése.
 
+## 1.5.26. Göd, új felüljáró megvalósítása az M2 autóút felett.
+
 ## 1.6. Határátkelőhelyek közúti akadálymentesítése
 
 ## 1.6.1. Rajka, 15. számú főút 17+200 – 17+508 km szelvény szlovák–magyar határátkelőhely közúti akadálymentesítése.
@@ -771,6 +1001,8 @@
 ## 1.6.12. Fertőd, 8531. jelű mellékút 7+790 – 8+230 km szelvény osztrák–magyar határátkelőhely közúti akadálymentesítése.
 
 ## 1.6.13. Hegyeshalom, 1. számú főút 176+500 – 177+031 km szelvény osztrák–magyar határátkelőhely közúti akadálymentesítése.
+
+## 1.6.14. Sopron, 84. számú főút 128+315 – 128+548 km szelvény osztrák–magyar határátkelőhely közúti akadálymentesítése.
 
 ## 1.7. Egyéb létesítményeket érintő beruházások
 
@@ -920,6 +1152,438 @@
 
 ## 1.8.54. EuroVelo 14 Zala mente kerékpáros-útvonal komplex fejlesztése.
 
+## 1.8.55. A 8707. jelű összekötő úttal párhuzamos kerékpárút fejlesztése a 8. számú főút és az M80 gyorsforgalmi út között.
+
+## 1.8.56. A Kecskemét – Nyárlőrinc közötti kerékpárút fejlesztése.
+
+## 1.8.57. A Kecel – Császártöltés közötti kerékpárút fejlesztése.
+
+## 1.8.58. A Lakitelek – Szentkirály közötti kerékpárút fejlesztése.
+
+## 1.8.59. A Hajós – Miske közötti kerékpárút fejlesztése.
+
+## 1.8.60. A Tataháza – Bácsalmás közötti kerékpárút fejlesztése.
+
+## 1.8.61. A Kecskemét – Lajosmizse közötti kerékpárút fejlesztése.
+
+## 1.8.62. A Tass – Dunavecse közötti kerékpárút fejlesztése.
+
+## 1.8.63. A Homokmégy – Halomi elágazás közötti kerékpárút fejlesztése.
+
+## 1.8.64. A Császártöltés – Hajós közötti kerékpárút fejlesztése.
+
+## 1.8.65. A Meszesi Dunapart – Kalocsa közötti kerékpárút fejlesztése.
+
+## 1.8.66. A Solt, Duna-kör összekötése a Solt-Akasztó – Kiskőrös-Soltvadkert – Kiskunhalas körrel.
+
+## 1.8.67. Dunapataj, töltés.
+
+## 1.8.68. A Kalocsa – Kiskőrös közötti kerékpárút fejlesztése.
+
+## 1.8.69. Az 51152. jelű Kalimajori bekötőút kerékpáros útvonal fejlesztése.
+
+## 1.8.70. A Solt, Beszédes József híd – Teleki kastély közötti kerékpáros útvonal fejlesztése.
+
+## 1.8.71. A Géderlak – kompkikötő közötti kerékpáros útvonal fejlesztése.
+
+## 1.8.72. A Bátya – Dunagát közötti kerékpáros útvonal fejlesztése.
+
+## 1.8.73. A Sátorhely – Udvar közötti kerékpárút fejlesztése.
+
+## 1.8.74. A Szigetvár – Szentlőrinc – Pécs közötti kerékpárút fejlesztése.
+
+## 1.8.75. A Pécs (Budai Vám) – Romonya közötti kerékpárút fejlesztése.
+
+## 1.8.76. Az 5613. jelű út vége – Mecseknádasd közötti kerékpárút fejlesztése.
+
+## 1.8.77. A Sátorhely – Nagynyárád – Bóly közötti kerékpárút fejlesztése.
+
+## 1.8.78. A Siklós (Máriagyűd) – 5701. és 5711. jelű utak csomópontja közötti kerékpárút fejlesztése.
+
+## 1.8.79. A Drávacsehi (belterület) – Fekete víz bal parti töltés közötti kerékpárút fejlesztése.
+
+## 1.8.80. A Pécs belterület (Pécs – Harkány hiányzó szakasz) kerékpárút fejlesztése.
+
+## 1.8.81. A Szajk – Lánycsók közötti kerékpárút fejlesztése.
+
+## 1.8.82. A Doboz – Sarkad közötti kerékpárút fejlesztése.
+
+## 1.8.83. A Tarhos – Vésztő közötti kerékpárút fejlesztése.
+
+## 1.8.84. A Kardoskút – Tótkomlós közötti kerékpárút fejlesztése.
+
+## 1.8.85. A Gyula – Elek közötti kerékpárút fejlesztése.
+
+## 1.8.86. A Békéscsaba – Kamut – Murony közötti kerékpárút fejlesztése.
+
+## 1.8.87. A Köröstarcsa – Körösladány közötti kerékpárút fejlesztése.
+
+## 1.8.88. A Békés – Tarhos közötti kerékpárút fejlesztése.
+
+## 1.8.89. A Mezőkovácsháza – Medgyesegyháza közötti kerékpárút fejlesztése.
+
+## 1.8.90. Az Edelény – Szalonna – Perkupa közötti kerékpárút fejlesztése.
+
+## 1.8.91. A Vadna – Dubicsány közötti kerékpárút fejlesztése.
+
+## 1.8.92. A Sátoraljaújhely – Alsóberecki közötti kerékpárút fejlesztése.
+
+## 1.8.93. A Szikszó – 3701. jelű út közötti kerékpárút fejlesztése.
+
+## 1.8.94. A Miskolc – Sajókeresztúr közötti kerékpárút fejlesztése.
+
+## 1.8.95. A Tiszaújváros – Polgár közötti kerékpárút fejlesztése.
+
+## 1.8.96. A Serényfalva – Bánréve közötti kerékpárút fejlesztése.
+
+## 1.8.97. A Sajószentpéter – Edelény közötti kerékpárút fejlesztése.
+
+## 1.8.98. A Legyesbénye – 3605. jelű út közötti kerékpárút fejlesztése.
+
+## 1.8.99. A Miskolc belterület – Felsőzsolca közötti kerékpárút fejlesztése.
+
+## 1.8.100. A Nagycsécs – Muhi – Ónód közötti kerékpárút fejlesztése.
+
+## 1.8.101. A Dobódél – Bódvarákó közötti kerékpárút fejlesztése.
+
+## 1.8.102. A Füzérradvány – Vilyvitány közötti kerékpárút fejlesztése.
+
+## 1.8.103. A Tokaj – Zemplén térség körpanoráma kerékpárút fejlesztése.
+
+## 1.8.104. A Balástya – Szatymaz – Szeged közötti kerékpárút fejlesztése.
+
+## 1.8.105. Az M5 fölötti kapcsolat (Szeged – Domaszék) közötti kerékpárút fejlesztése.
+
+## 1.8.106. A Szeged – Hódmezővásárhely hiányzó szakasz a 47. számú főút mentén Algyő és Vajhát közötti kerékpárút fejlesztése.
+
+## 1.8.107. A Szeged – Makó közötti hiányzó kerékpárútszakaszok fejlesztése.
+
+## 1.8.108. A Mindszent – Szegvár – Szentes közötti kerékpárút fejlesztése.
+
+## 1.8.109. A Földeák – Makó közötti kerékpárút fejlesztése.
+
+## 1.8.110. A Zsombó – Szatymaz közötti kerékpárút fejlesztése.
+
+## 1.8.111. A Makó, Maros-parti kerékpárút fejlesztése.
+
+## 1.8.112. A Veker – Laposi termál tó – 4401. jelű út közötti kerékpárút fejlesztése.
+
+## 1.8.113. A Forráskút – Üllés közötti kerékpárút fejlesztése.
+
+## 1.8.114. A Szatymaz – Sándorfalva közötti kerékpárút fejlesztése.
+
+## 1.8.115. A Kápolnásnyék – Pettend – Baracska – Martonvásár – Tárnok közötti kerékpárút fejlesztése.
+
+## 1.8.116. Az Ercsi – Adony – Kulcs – Rácalmás közötti kerékpárút fejlesztése.
+
+## 1.8.117. A 6307. jelű út – Cece közötti kerékpárút fejlesztése.
+
+## 1.8.118. A Bodajk – Fehérvárcsurgó közötti kerékpárút fejlesztése.
+
+## 1.8.119. A Szabadbattyán kerékpárút fejlesztése.
+
+## 1.8.120. A Nagyvenyim – Dunaújváros közötti kerékpárút fejlesztése.
+
+## 1.8.121. A Mór – Pusztavám közötti kerékpárút fejlesztése.
+
+## 1.8.122. A Vértes – Bakony (Mór) kerékpárút székesfehérvári szakasz fejlesztése.
+
+## 1.8.123. A Budapest – Balaton kerékpárút Gyúró településen áthaladó szakaszának kerékpárút fejlesztése.
+
+## 1.8.124. A Királyok útja, Székesfehérvár – Úrhida – Sárszentmihály – Sárkeszi – Nádasdladány közötti kerékpárút fejlesztése.
+
+## 1.8.125. A Sopron – Harka közötti kerékpárút fejlesztése.
+
+## 1.8.126. A Vitnyéd – Agyagosszergény – Fertőendréd közötti kerékpárút fejlesztése.
+
+## 1.8.127. A Mosonmagyaróvár – Jánossomorja közötti kerékpárút fejlesztése.
+
+## 1.8.128. A Csorna – Kapuvár közötti kerékpárút fejlesztése.
+
+## 1.8.129. A Sopron, Balfi út – Fehér út közötti kerékpárút fejlesztése.
+
+## 1.8.130. A Fertőd – Petőháza közötti kerékpárút fejlesztése.
+
+## 1.8.131. A Ménfőcsanak – Tényő – Sokorópátka közötti kerékpárút fejlesztése.
+
+## 1.8.132. A Zsira – Sopronhorpács – Völcsej – Lövő közötti kerékpárút fejlesztése.
+
+## 1.8.133. A Gönyű (EV6) – Nagyszentjános közötti kerékpárút fejlesztése.
+
+## 1.8.134. Az Ebes – Debrecen közötti kerékpárút fejlesztése.
+
+## 1.8.135. A Debrecen – Vámospércs közötti kerékpárút fejlesztése.
+
+## 1.8.136. A Debrecen – Bocskaikert közötti kerékpárút fejlesztése.
+
+## 1.8.137. A Debrecen – Hosszúpályi – Létavértes közötti kerékpárút fejlesztése.
+
+## 1.8.138. A Hajdúböszörmény – Hajdúvid – Hajdúdorog közötti kerékpárút fejlesztése.
+
+## 1.8.139. A Besenyőtelek – Poroszló közötti kerékpárút fejlesztése.
+
+## 1.8.140. A Gyöngyös – Gyöngyöspata (EV14) közötti kerékpárút fejlesztése.
+
+## 1.8.141. A Hatvan – Hort közötti kerékpárút fejlesztése.
+
+## 1.8.142. Az Abasár – Markaz – Domoszló (EV14) közötti kerékpárút fejlesztése.
+
+## 1.8.143. Az Apc – Rózsaszentmárton (EV14) közötti kerékpárút fejlesztése.
+
+## 1.8.144. A Rózsaszentmárton – Szücsi – Gyöngyöspata (EV14) közötti kerékpárút fejlesztése.
+
+## 1.8.145. Az Abasár – Gyöngyös közötti kerékpárút fejlesztése.
+
+## 1.8.146. A Kerecsend – Füzesabony közötti kerékpárút fejlesztése.
+
+## 1.8.147. A Maklár – Füzesabony közötti kerékpárút fejlesztése.
+
+## 1.8.148. Az Apc – Megyehatár közötti kerékpárút fejlesztése.
+
+## 1.8.149. Az Eger déli hiányzó közötti kerékpárút fejlesztése.
+
+## 1.8.150. A Gyöngyös – Gyöngyössolymos – 24. számú főút közötti kerékpárút fejlesztése.
+
+## 1.8.151. A Martfű – Cibakháza közötti kerékpárút fejlesztése.
+
+## 1.8.152. A Tószeg – Tiszavárkony – Tiszajenő – Tiszabög közötti kerékpárút fejlesztése.
+
+## 1.8.153. A Jászkisér – Jászapáti közötti kerékpárút fejlesztése.
+
+## 1.8.154. A Törökszentmiklós – Szolnok közötti kerékpárút fejlesztése.
+
+## 1.8.155. A Jászfényszaru – Jászberény közötti kerékpárút fejlesztése.
+
+## 1.8.156. A Berekfürdő – Kunmadaras közötti kerékpárút fejlesztése.
+
+## 1.8.157. A Szapárfalu – Surjány közötti kerékpárút fejlesztése.
+
+## 1.8.158. A Nagyigmánd – Bábolna közötti kerékpárút fejlesztése.
+
+## 1.8.159. Az Által-ér völgyi kerékpárút – Vértesszőlős közötti kerékpárút fejlesztése.
+
+## 1.8.160. A Tata, belterületi hálózat kerékpárút fejlesztése.
+
+## 1.8.161. A Tata – Kocs közötti kerékpárút fejlesztése.
+
+## 1.8.162. A Tata – Naszály közötti kerékpárút fejlesztése.
+
+## 1.8.163. A Dorog – Leányvár-megyehatár közötti kerékpárút fejlesztése.
+
+## 1.8.164. A Bábolna – Bana – megyehatár (8152. jelű út) közötti kerékpárút fejlesztése.
+
+## 1.8.165. A Kisbér – Bakonybánk közötti kerékpárút fejlesztése.
+
+## 1.8.166. Az Esztergom – Kertváros – Dorog közötti kerékpárút fejlesztése.
+
+## 1.8.167. A Bokod – Oroszlány közötti kerékpárút fejlesztése.
+
+## 1.8.168. A Zagyva-völgyi kerékpárút fejlesztése.
+
+## 1.8.169. A Szécsény – Balassagyarmat közötti kerékpárút fejlesztése.
+
+## 1.8.170. A Dejtár – Balassagyarmat közötti kerékpárút fejlesztése.
+
+## 1.8.171. A Rimóc – Hollókő közötti kerékpárút fejlesztése.
+
+## 1.8.172. A Somoskőújfalu – Eresztvény közötti kerékpárút fejlesztése.
+
+## 1.8.173. A Salgótarján – Karancsalja közötti kerékpárút fejlesztése.
+
+## 1.8.174. A Bátonyterenye – Szentkút bekötő út közötti kerékpárút fejlesztése.
+
+## 1.8.175. Az Ecseg – Buják közötti kerékpárút fejlesztése.
+
+## 1.8.176. A Márkháza – Szentkút közötti kerékpárút fejlesztése.
+
+## 1.8.177. A Bedepuszta – Zsunypuszta közötti kerékpárút fejlesztése.
+
+## 1.8.178. A Buják, Honvédségi üdülő kerékpárút fejlesztése.
+
+## 1.8.179. A Diósjenő – Pénzásás közötti kerékpárút fejlesztése.
+
+## 1.8.180. A Budapest – Solymár – Pilisszentiván – Piliscsaba – Pilisjászfalu közötti kerékpárút fejlesztése.
+
+## 1.8.181. A Cegléd – Ceglédbercel közötti kerékpárút fejlesztése.
+
+## 1.8.182. Az Albertirsa – Ceglédbercel közötti kerékpárút fejlesztése.
+
+## 1.8.183. A Kistarcsa – Kerepes közötti kerékpárút fejlesztése.
+
+## 1.8.184. A Biatorbágy patakpart közötti kerékpárút fejlesztése.
+
+## 1.8.185. A Dabas – Újhartyán közötti kerékpárút fejlesztése.
+
+## 1.8.186. A Ráckeve – Kiskunlacháza közötti kerékpárút fejlesztése.
+
+## 1.8.187. A Kismaros – Királyrét közötti kerékpárút fejlesztése.
+
+## 1.8.188. Az Ipolydamásd – Kemence – Balassagyarmat – Szécsény közötti kerékpárút fejlesztése.
+
+## 1.8.189. A Gödöllő – Máriabesnyő – Domonyvölgy közötti kerékpárút fejlesztése.
+
+## 1.8.190. Az Alsónémedi – Dunaharaszti közötti kerékpárút fejlesztése.
+
+## 1.8.191. A Tárnok – Martonvásár közötti kerékpárút fejlesztése.
+
+## 1.8.192. A Nagytarcsa – Naplás tó (Budapest) közötti kerékpárút fejlesztése.
+
+## 1.8.193. A Páty – Biatorbágy közötti kerékpárút fejlesztése.
+
+## 1.8.194. A Tököl – Szigetújfalu közötti kerékpárút fejlesztése.
+
+## 1.8.195. A Tököl – Halásztelek – Csepel közötti kerékpárút fejlesztése.
+
+## 1.8.196. A Gödöllő – Veresegyház közötti kerékpárút fejlesztése.
+
+## 1.8.197. Az Érd – Felső – Törökbálint közötti kerékpárút fejlesztése.
+
+## 1.8.198. A Törökbálint – Budaörs közötti kerékpárút fejlesztése.
+
+## 1.8.199. A Kerepes – Mogyoród közötti kerékpárút fejlesztése.
+
+## 1.8.200. A Gyékényes – Berzence közötti kerékpárút fejlesztése.
+
+## 1.8.201. A Som – 6511. jelű útelágazás közötti kerékpárút fejlesztése.
+
+## 1.8.202. A Kereki – Tab közötti kerékpárút fejlesztése.
+
+## 1.8.203. A Lengyeltóti – Somogyvár közötti kerékpárút fejlesztése.
+
+## 1.8.204. A 67. számú főút menti hiányzó szakaszok kerékpárút fejlesztése.
+
+## 1.8.205. A Nyíregyháza, Tünde utca – Ipari park közötti kerékpárút fejlesztése.
+
+## 1.8.206. A Nyíregyháza – Nagyszállás közötti kerékpárút fejlesztése.
+
+## 1.8.207. A Nagyszállás – M3 átvezetés közötti kerékpárút fejlesztése.
+
+## 1.8.208. A Nagykálló belterület kerékpárút fejlesztése.
+
+## 1.8.209. A Nyíregyházi bekötések kerékpárút fejlesztése.
+
+## 1.8.210. Az Ópályi – Mátészalka közötti kerékpárút fejlesztése.
+
+## 1.8.211. A Kállósemjén – Máriapócs közötti kerékpárút fejlesztése.
+
+## 1.8.212. A Nyírbogát belterület kerékpárút fejlesztése.
+
+## 1.8.213. A Vitka – Nagydobos közötti kerékpárút fejlesztése.
+
+## 1.8.214. A Vásárosnamény – Ilk közötti kerékpárút fejlesztése.
+
+## 1.8.215. A Vásárosnamény belterület kerékpárút fejlesztése.
+
+## 1.8.216. A Gergelyiugornya kerékpárút fejlesztése.
+
+## 1.8.217. A Nyírtura – Nyírbogdány közötti kerékpárút fejlesztése.
+
+## 1.8.218. A Szabolcsbáka – Anarcs közötti kerékpárút fejlesztése.
+
+## 1.8.219. A Napkor – Oros közötti kerékpárút fejlesztése.
+
+## 1.8.220. A Nyíregyháza – Nagycserkesz közötti kerékpárút fejlesztése.
+
+## 1.8.221. A Gávavencsellő – Ibrány közötti kerékpárút fejlesztése.
+
+## 1.8.222. A Kisvárda, 4. számú főút menti kerékpárút fejlesztése.
+
+## 1.8.223. A Tamási – Hőgyész – 6535. jelű út csatlakozás közötti kerékpárút fejlesztése.
+
+## 1.8.224. Az Alsónyék – Pörböly közötti kerékpárút fejlesztése.
+
+## 1.8.225. A Döbrököz – Kurd-Csibrák közötti kerékpárút fejlesztése.
+
+## 1.8.226. A Regöly – Szárazd közötti kerékpárút fejlesztése.
+
+## 1.8.227. A Harc – Kölesd közötti kerékpárút fejlesztése.
+
+## 1.8.228. A Szekszárd – Szálka (Mőcsény – Bonyhád) közötti kerékpárút fejlesztése.
+
+## 1.8.229. A Dunaszentgyörgy – Paks közötti kerékpárút fejlesztése.
+
+## 1.8.230. A Szekszárd – Tolna közötti kerékpárút fejlesztése.
+
+## 1.8.231. A Paks – Cseresznyéspuszta – Györköny közötti kerékpárút fejlesztése.
+
+## 1.8.232. A Györköny – Pusztahencse – Tengelic – Paks közötti kerékpárút fejlesztése.
+
+## 1.8.233. A Bölcske – Dunaföldvár közötti kerékpáros útvonal fejlesztése.
+
+## 1.8.234. A Paks, Atomerőmű Halastavak bejáró kerékpáros útvonal fejlesztése.
+
+## 1.8.235. A Fadd – Dombori kerékpáros útvonal fejlesztése.
+
+## 1.8.236. A Zalalövő – Őriszentpéter közötti kerékpárút fejlesztése.
+
+## 1.8.237. A Körmend – Molnaszecsőd közötti kerékpárút fejlesztése.
+
+## 1.8.238. A Sárvár, Hegyközség hiányzó szakasz kerékpárút fejlesztése.
+
+## 1.8.239. A Szombathely – Söpte közötti kerékpárút fejlesztése.
+
+## 1.8.240. A Vép – Porpác közötti kerékpárút fejlesztése.
+
+## 1.8.241. Az Olmód – Bozsok (EV13) közötti kerékpárút fejlesztése.
+
+## 1.8.242. A Celldömölk – Izsákfa közötti kerékpárút fejlesztése.
+
+## 1.8.243. A Torony – EV13 közötti kerékpárút fejlesztése.
+
+## 1.8.244. A Rum – (Kám – Jeli Arborétum) – Vasvár közötti kerékpárút fejlesztése.
+
+## 1.8.245. A Vigántpetend – Diszel (Tapolca) közötti kerékpárút fejlesztése.
+
+## 1.8.246. A Tapolca – Lesencetomaj közötti kerékpárút fejlesztése.
+
+## 1.8.247. A Tapolca – Sümeg közötti kerékpárút fejlesztése.
+
+## 1.8.248. A Tapolcafő – 84102. számú útelágazás közötti kerékpárút fejlesztése.
+
+## 1.8.249. A Pápa – Csót közötti kerékpárút fejlesztése.
+
+## 1.8.250. A Borsosgyőr – Nyárád közötti kerékpárút fejlesztése.
+
+## 1.8.251. A Zirc – Olaszfalu közötti kerékpárút fejlesztése.
+
+## 1.8.252. A Várpalota – Ősi közötti kerékpárút fejlesztése.
+
+## 1.8.253. A Lenti – Mumor – Nova közötti kerékpárút fejlesztése.
+
+## 1.8.254. A Sármellék – Alsópáhok közötti kerékpárút fejlesztése.
+
+## 1.8.255. A Nagykanizsa Buda Ernő utca – közigazgatási határ közötti kerékpárút fejlesztése.
+
+## 1.8.256. A Teskánd – Zalaegerszeg közötti kerékpárút fejlesztése.
+
+## 1.8.257. A Keszthely, Tapolcai út, Martinovics utca – Gyenesdiás körforgalom közötti kerékpárút fejlesztése.
+
+## 1.8.258. A Zalaegerszeg – Csács városrész közötti kerékpárút fejlesztése.
+
+## 1.8.259. A Zalakaros – Zalaszabar (a 7512. jelű útig) közötti kerékpárút fejlesztése.
+
+## 1.8.260. A Nagykanizsa (Miklósfa) – Liszói elágazás közötti kerékpárút fejlesztése.
+
+## 1.8.261. A Zalalövő – Felsőjánosfa közötti kerékpárút fejlesztése.
+
+## 1.8.262. A Sármellék – Zalavári közötti kerékpárút fejlesztése.
+
+## 1.8.263. A Palin – Zsigárd – Hosszúvölgy közötti kerékpárút fejlesztése.
+
+## 1.8.264. A Zalaegerszeg D-i iparterület – Bak közötti kerékpárút fejlesztése.
+
+## 1.8.265. A Keszthely, Rezi út – Rezi belterület határa közötti kerékpárút fejlesztése.
+
+## 1.8.266. A Hévíz Ady utca bekötő út – Széchenyi utca közötti kerékpárút fejlesztése.
+
+## 1.8.267. A Balatongyörök – Szép Kilátó közötti kerékpárút fejlesztése.
+
+## 1.8.268. A Nagyrada, Nagyradai kilátó – Rákóczi Ferenc utca – Petőfi utca Orosztonyi út közötti kerékpárút fejlesztése.
+
+## 1.8.269. A Magyarszerdahely – Bocska – Börzönce közötti kerékpárút fejlesztése.
+
+## 1.8.270. A Murarátka – Muraszemenyei elágazás közötti kerékpárút fejlesztése.
+
 ## 1.8.271. Vértesszőlős–Baj kerékpárút fejlesztése.
 
 ## 1.8.272. Vértesszőlős–Vértestolna kerékpárút fejlesztése.
@@ -970,7 +1634,7 @@
 
 ## 2.1.21. Célzottan közlekedésbiztonságot javító fejlesztések a GYSEV Zrt. hálózatán.
 
-## 2.1.22. A „V0” Budapestet délről elkerülő vasútvonal, Szárliget–Ceglédbercel szakasz megvalósítása.
+## 2.1.22. A „V0” Budapestet délről elkerülő vasútvonal megvalósítása.
 
 ## 2.1.23.
 
@@ -994,7 +1658,7 @@
 
 ## 2.1.33. Debrecen vasúti csomópont fejlesztése.
 
-## 2.1.34. A 100. számú vasútvonal, Debrecen–Nyíregyháza–Záhony szakasz fejlesztése.
+## 2.1.34. A 100. számú vasútvonal, Debrecen – Nyíregyháza szakasz korszerűsítésének tervezése és kivitelezése.
 
 ## 2.1.35. Székesfehérvár vasúti csomópont fejlesztése.
 
@@ -1152,7 +1816,7 @@
 
 ## 2.1.112. 20. számú vasútvonal, Székesfehérvár–Boba szakasz, Torna patak I. és II. híd átépítése.
 
-## 2.1.113. 101. számú vasútvonal, Püspökladány–Biharkeresztes szakasz, Kék-Kálló-híd átépítése.
+## 2.1.113. A 101. számú vasútvonal, Sáp – Berettyóújfalu szakasz, a 1373+29,5 szelvényben lévő Kék-Kálló híd átépítésének tervezése és kivitelezése.
 
 ## 2.1.114. 82. számú Hatvan–Jászberény–Újszász vasútvonal fejlesztése.
 
@@ -1169,6 +1833,10 @@
 ## 2.1.120. Ferencváros C elágazás – Kőbánya felső – Rákos – Rákosliget, valamint Rákos – Gyömrő vasúti vonalszakasz fejlesztése.
 
 ## 2.1.121. Budapest-Nyugati pályaudvar vágányhálózata és bevezető szakaszai (Budapest-Nyugati pályaudvar – Hungária körút – Kőbánya-Kispest) rekonstrukciója és fejlesztése.
+
+## 2.1.122. A 100. számú vasútvonal, Nyíregyháza – Záhony szakasz fejlesztése.
+
+## 2.1.123. Budapest, külső körvasúti vasúti megállóhelyek kiépítése (Albertfalva, Pestújhely, Újpalota, Rákosfalva, Rákosszentmihály).
 
 ## 2.2. Helyi érdekeltségű keskeny nyomközű vasúti közlekedési projektek
 
@@ -1318,6 +1986,10 @@
 
 ## 3.4.16. Városliget környezetének egyes közlekedési fejlesztései (Hősök tere gépjárműmentesítése, P+R funkciójú parkolóházak, a Szegedi út vonalában új közúti és villamosvasúti felüljáró és ezek megközelítéséhez szükséges útkapcsolatok).
 
+## 3.4.17. Szeged, Nagykörút Alsóváros és Újszeged közötti szakasz (új Tisza-híd) megvalósítása.
+
+## 3.4.18. Szentgotthárd, M80 Szentgotthárdi csomópontjához csatlakozó iparterület feltáró út fejlesztése.
+
 ## 4. Országos vízi közlekedési projektek
 
 ## 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
@@ -1364,6 +2036,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^48]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^52]
 
-[^48]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^52]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
