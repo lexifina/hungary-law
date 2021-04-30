@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 59. §-sal egészül ki:
+
+## „59. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 211/2021. (IV. 29.) Korm. rendelettel (a továbbiakban: Módr51.) megállapított 4. § (2), (3) és (4) bekezdését és 2. mellékletben foglalt táblázat 64. sorát a Módr51. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
