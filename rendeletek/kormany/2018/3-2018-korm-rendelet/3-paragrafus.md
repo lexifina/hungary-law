@@ -1,3 +1,3 @@
-## 2/A. §[^1] Az 1. mellékletben foglalt táblázat 2. sora szerinti beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+## 2/B. §[^3] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben, az 1. melléklet 2. sora szerinti beruházás vonatkozásában koordinációs feladatokat ellátó kormánymegbízottként a Pest Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
 
-[^1]: A 2/A. §-t a 166/2020. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2/B. §-t a 206/2021. (IV. 29.) Korm. rendelet 2. §-a iktatta be.

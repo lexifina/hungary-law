@@ -4,7 +4,7 @@
 
 | 1. | A beruházás megnevezése | A beruházás azonosító adatai |
 
-| 2. | iskolafejlesztés | Biatorbágy közigazgatási területén fekvő, 04/25, 9554/1 és 9554/2 helyrajzi számú ingatlanok |
+| 2. | iskolafejlesztés és a hozzá kapcsolódó út- és közmű- infrastruktúra- fejlesztés | Biatorbágy közigazgatási területén fekvő, 9571/1, 9571/2, 9571/4, 9571/5, 8363/1, 8363/2, 8463 és 8743/32 helyrajzi számú ingatlanok |
 
 | 3. | iskolafejlesztés | Göd közigazgatási területén fekvő, 018/5, 018/6, 018/7, 018/51, 018/55, 018/56, 018/57 és 019 helyrajzi számú ingatlanok |
 
