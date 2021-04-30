@@ -130,6 +130,8 @@
 
 | 63. | Ipari park kialakítása, továbbá az ahhoz kapcsolódó építmények, útépítés, közmű- és csatlakozási, valamint egyéb infrastruktúra fejlesztések megvalósítására irányuló beruházások Kaposvár külterületén | Kaposvár közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0285/2, 0285/3, 0285/12, 0285/22, 0285/23, 0285/24, 0285/25, 0285/26, 0285/27, 0285/28 és 0285/29 helyrajzi számú ingatlanok | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^145]
+| 64. | Az ÓAM ÓZDI ACÉLMÜVEK Korlátolt Felelősségű Társaság barnamezős területeinek kiemelt társadalmi igényeken alapuló és munkahelyteremtést támogató beruházás megvalósítása | Ózd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 9195, 9207, 9208, 9209 és 9210 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^145]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^149]
+
+[^149]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

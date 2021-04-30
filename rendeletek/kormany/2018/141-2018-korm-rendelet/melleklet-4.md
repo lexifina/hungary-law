@@ -176,7 +176,7 @@
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^146]
+4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^150]
 
 Göd külterület 050/14 és 050/15 helyrajzi számú telek területén ingatlanrész területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
@@ -192,4 +192,4 @@ Göd külterület 050/14 és 050/15 helyrajzi számú telek területén ingatlan
 
 | 5 | 658071.3958 | 259423.9254 |
 
-[^146]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^150]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be.

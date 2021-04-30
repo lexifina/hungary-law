@@ -1,4 +1,4 @@
-6/O. §[^41] (1) A 2. mellékletben foglalt táblázat 63. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:63 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg azzal, hogy
+6/O. §[^43] (1) A 2. mellékletben foglalt táblázat 63. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:63 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg azzal, hogy
 
 a) az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -40,4 +40,4 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (4) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-[^41]: A 6/O. §-t a 193/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^43]: A 6/O. §-t a 193/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.

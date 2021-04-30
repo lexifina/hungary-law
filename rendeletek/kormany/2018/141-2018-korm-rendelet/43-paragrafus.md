@@ -1,4 +1,4 @@
-## 42. §[^108] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 334/2020. (VII. 2.) Korm. rendelettel (a továbbiakban: Módr34.) megállapított 2. mellékletben foglalt táblázat 47. sorát a Módr34. hatálybalépésekor[^109] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 42. §[^110] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 334/2020. (VII. 2.) Korm. rendelettel (a továbbiakban: Módr34.) megállapított 2. mellékletben foglalt táblázat 47. sorát a Módr34. hatálybalépésekor[^111] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^108]: A 42. §-t a 334/2020. (VII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^109]: A hatálybalépés időpontja 2020. július 3.
+[^110]: A 42. §-t a 334/2020. (VII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^111]: A hatálybalépés időpontja 2020. július 3.
