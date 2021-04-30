@@ -18,4 +18,8 @@
 
 | 11. | A Bicskei Egészségügyi Központ teljes körű rekonstrukciója | Bicske belterület 1602/3, 1602/4, 1602/5, 1602/6, 1602/9 és 1582 helyrajzi számú ingatlanok | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
+| 12. | Az Eötvös Loránd Tudományegyetem Trefort Ágoston Gyakorló Gimnázium infrastrukturális fejlesztése | Budapest VIII. kerület, belterület 36539 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 13. | Az Eötvös Loránd Tudományegyetem Trefort Ágoston Gyakorló Gimnáziumhoz kapcsolódó fejlesztések | Budapest VIII. kerület, belterület 36540 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
 3. melléklet a 83/2021. (II. 23.) Korm. rendelethez
