@@ -34,25 +34,9 @@
 
 ## Határidő: a feltételes közbeszerzési eljárások lefolytatását követően azonnal
 
-## 2. A debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúrafejlesztések megvalósításáról, valamint a fejlesztésekkel összefüggő kormányhatározatok módosításáról szóló 1592/2018. (XI. 22.) Korm. határozat [a továbbiakban: 1592/2018. (XI. 22.) Korm. határozat] a következő 2.8. és 2.9. alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány a debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett vasúti projektek megvalósítása vonatkozásában)
-
-## „2.8. felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy Debrecen Megyei Jogú Város Önkormányzata 2. pont szerinti vasúti projektekhez kapcsolódó területszerzési és előkészítési feladatainak megvalósítása érdekében gondoskodjanak a 3. pont szerinti közmű projektek megvalósítása során fel nem használt forrásból 309 399 173 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára, az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (2) bekezdése szerint – az Innovációs és Technológiai Minisztérium által – teljesített befizetés terhére, az Ávr. 153. §-ában foglaltak szerint;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: a fel nem használt forrás rendelkezésre állását követően azonnal
-
-## 2.9. felhívja az innovációért és technológiáért felelős minisztert, hogy a 2.8. alpont szerinti feladat végrehajtása érdekében az ott megjelölt összeg terhére gondoskodjon a támogatás biztosításáról Debrecen Megyei Jogú Város Önkormányzata részére, a vonatkozó támogatási jogviszonyok módosításával;
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: a forrás rendelkezésre állását követően azonnal”
-
-## 3. Az 1592/2018. (XI. 22.) Korm. határozat 3. pont 3.3. alpontjában az „előlegként az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet” szövegrész helyébe az „előlegként az Ávr.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1213/2021. (IV. 29.) Korm. határozathoz
 
@@ -69,3 +53,6 @@
 | 5. | VASÚT-2/C | 2. ütem: 108-as vasútvonal villamosítása Debrecen állomás és Balmazújváros állomás között | NIF Zrt. |
 
 | 6. | VASÚT-2/D | 2. ütem: 100-as vasútvonalhoz történő kapcsolódás kialakítása (Kisállomás) | NIF Zrt. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
