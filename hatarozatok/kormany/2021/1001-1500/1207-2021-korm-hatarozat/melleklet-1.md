@@ -46,6 +46,8 @@
 
 ## Határidő: azonnal
 
-## 5. visszavonja a Gazdaságvédelmi Akcióterv keretében a 2014–2020 programozási időszakra vonatkozó indikatív támogatási keretösszegekről, valamint a kötelezettségvállalási szükségletről szóló 1152/2020. (IV. 14.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
