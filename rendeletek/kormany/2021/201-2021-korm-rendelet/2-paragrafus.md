@@ -1,3 +1,3 @@
-## 1. § Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 7. §-a a következő (17) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(17) E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 201/2021. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 1. melléklet 1.2.140., 1.3.130–1.3.132. alpontját és 1.8.271–1.8.272. alpontját a Módr9. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
