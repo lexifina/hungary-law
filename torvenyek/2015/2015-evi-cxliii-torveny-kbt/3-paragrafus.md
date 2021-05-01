@@ -86,7 +86,7 @@ b) e törvény szerinti ajánlatkérők számára áruk beszerzésére, szolgál
 
 28. meghatározó befolyást képes gyakorolni az a szervezet, amely az alábbi feltételek közül legalább eggyel rendelkezik egy másik szervezet tekintetében:
 
-a) vagyonkezelő alapítvány kivételével vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
+a) vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
 
 b) a tagok szavazatának többségével egyedül rendelkezik, vagy más tagok a befolyással rendelkezővel kötött megállapodás alapján a befolyással rendelkezővel azonos tartalommal szavaznak, vagy a befolyással rendelkezőn keresztül gyakorolják szavazati jogukat, feltéve hogy együtt a szavazatok több mint felével rendelkeznek,
 

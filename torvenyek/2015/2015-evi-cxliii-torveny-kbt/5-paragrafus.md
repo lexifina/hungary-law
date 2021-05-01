@@ -20,8 +20,8 @@ b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidő
 
 c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3) Az európai uniós támogatásból megvalósuló beszerzés vonatkozásában e törvény szabályait alkalmazni köteles az állam által alapított vagyonkezelő alapítvány és az ilyen alapítvány által fenntartott jogi személy akkor is, ha nem tartozik az (1) bekezdés hatálya alá.
+(3)
 
 (4) E törvény rendelkezését köteles betartani az az (1)–(2) bekezdés hatálya alá nem tartozó szervezet, amely e törvény szerinti közbeszerzési eljárás lefolytatását önként vagy szerződésben vállalja, illetve számára jogszabály közbeszerzési eljárás lefolytatását kötelezővé teszi.
 
-(5) E § alkalmazásában az (1) bekezdésben foglalt szervezetek általi finanszírozás arányának meghatározásakor nem kell figyelembe venni a vagyonkezelő alapítvány tulajdonába adott vagyon hasznosításából származó bevételt.
+(5)
