@@ -12,9 +12,9 @@ d) tudományos, kutatás-fejlesztési tevékenységben vesz részt;
 
 e) tevékenysége bekapcsolható a közép- és a felsőfokú agrárszakmai oktatás legalább egy szintjébe.
 
-(3) A (2) bekezdésben foglaltaktól eltérően az állam tulajdonában álló mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
+(3) A (2) bekezdésben foglaltaktól eltérően az állam vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
 
-a) magas színvonalon tenyészti a tevékenységi körébe utalt védett őshonos és egyéb állatfajtákat, fenntartja azok állami tulajdonban álló állományát, a fajta tenyésztési céljának és az állam érdekének megfelelően gazdálkodik a rábízott állatállománnyal, megőrzi és javítja e fajták genetikai értékét, illetve gazdálkodását a természetvédelem érdekei mentén folytatva kiemelten hozzájárul a biodiverzitás megőrzéséhez;
+a) magas színvonalon tenyészti a tevékenységi körébe utalt védett őshonos és egyéb állatfajtákat, fenntartja azok állami vagy közfeladatot ellátó közérdekű vagyonkezelő alapítványi tulajdonban álló állományát, a fajta tenyésztési céljának és az állam érdekének megfelelően gazdálkodik a rábízott állatállománnyal, megőrzi és javítja e fajták genetikai értékét, illetve gazdálkodását a természetvédelem érdekei mentén folytatva kiemelten hozzájárul a biodiverzitás megőrzéséhez;
 
 b) egészben vagy részben állami tulajdonban lévő földeken való gazdálkodásból származóan biztosítja a mindenkori állatállomány magas szintű fenntartásához szükséges takarmány-szükségletet;
 
