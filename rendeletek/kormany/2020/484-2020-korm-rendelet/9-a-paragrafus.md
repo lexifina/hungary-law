@@ -1,6 +1,6 @@
-## 5/A. [^28] Időskorú honfitársainkra vonatkozó védelmi intézkedések
+## 5/A. [^57] Időskorú honfitársainkra vonatkozó védelmi intézkedések
 
-9/A. §[^29] (1) Saját és családja érdekében a 65. életévét betöltött személy
+9/A. §[^58] (1) Saját és családja érdekében a 65. életévét betöltött személy
 
 a) a napi fogyasztási cikket értékesítő élelmiszerüzletet (a továbbiakban: élelmiszerüzlet),
 
@@ -12,5 +12,5 @@ hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és 
 
 (2) Az élelmiszerüzletben, a drogériában és a gyógyszertárban hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és vasárnap 8.00 óra és 10.00 óra közötti időben (a továbbiakban: védett vásárlási idősáv) az ott foglalkoztatottak kivételével kizárólag az (1) bekezdés szerinti személy tartózkodhat.
 
-[^28]: Az 5/A. alcím címet az 513/2020. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
-[^29]: A 9/A. §-t az 513/2020. (XI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^57]: Az 5/A. alcím címet az 513/2020. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^58]: A 9/A. §-t az 513/2020. (XI. 23.) Korm. rendelet 2. §-a iktatta be.

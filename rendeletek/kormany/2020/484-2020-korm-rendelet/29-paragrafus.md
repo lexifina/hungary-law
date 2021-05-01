@@ -1,4 +1,3 @@
-## 28/E. §[^73] A kijárási tilalom kezdetének este 11 órára történő módosításáról szóló 191/2021. (IV. 23.) Korm. rendelet hatálybalépését[^74] megelőző napon hatályos 3. §-ra tekintettel a 22. § és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+## 28/F. §[^126] A védelmi intézkedések lépcsőzetes feloldásának harmadik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 194/2021. (IV. 26.) Korm. rendelet (a továbbiakban: R4.) hatálybalépését megelőző napon hatályos 3. §-ra, 6. §-ra, 8. §-ra, 10. §-ra, 12. §-ra tekintettel az R4. hatálybalépését megelőző napon hatályos 22. § és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
 
-[^73]: A 28/E. §-t a 191/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
-[^74]: A hatálybalépés időpontja 2021. április 24.
+[^126]: A 28/F. §-t a 194/2021. (IV. 26.) Korm. rendelet 8. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]

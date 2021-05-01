@@ -1,4 +1,4 @@
-## 28/B. §[^68] A veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet és más kormányrendeletek veszélyhelyzeti módosításáról szóló 28/2021. (I. 29.) Korm. rendelet hatálybalépését[^69] megelőzően a 22. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában alkalmazandó szabályok szerint kell elbírálni.
+## 28/B. §[^119] A veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet és más kormányrendeletek veszélyhelyzeti módosításáról szóló 28/2021. (I. 29.) Korm. rendelet hatálybalépését[^120] megelőzően a 22. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában alkalmazandó szabályok szerint kell elbírálni.
 
-[^68]: A 28/B. §-t a 28/2021. (I. 29.) Korm. rendelet 7. §-a iktatta be.
-[^69]: A hatálybalépés időpontja 2021. január 30.
+[^119]: A 28/B. §-t a 28/2021. (I. 29.) Korm. rendelet 7. §-a iktatta be.
+[^120]: A hatálybalépés időpontja 2021. január 30.

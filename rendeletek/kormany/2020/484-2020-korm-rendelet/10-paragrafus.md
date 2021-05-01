@@ -1,8 +1,8 @@
-## 9/C. §[^31] A védett vásárlási idősáv a Kormány ezzel ellentétes döntéséig felfüggesztésre kerül.
+## 9/C. §[^60] A védett vásárlási idősáv a Kormány ezzel ellentétes döntéséig felfüggesztésre kerül.
 
 ## 6. A szálláshelyekre vonatkozó védelmi intézkedések
 
-10. §[^32] (1) A szálláshelyen – e rendelet szerinti kivétellel – tilos tartózkodni.
+10. §[^61] (1) A szálláshelyen – e rendelet szerinti kivétellel – tilos tartózkodni.
 
 (2) A szálláshelyen az ott foglalkoztatottak számára megengedett a tartózkodás.
 
@@ -10,5 +10,27 @@
 
 (4) A szálláshelyen a Magyar Honvédség, illetve a rendvédelmi szervek állományába tartozó, szolgálati feladatok ellátása érdekében elhelyezett személyek, továbbá a kirendelt egészségügyi dolgozók tartózkodása megengedett.
 
-[^31]: A 9/C. §-t az 576/2020. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
-[^32]: A 10. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+(5)[^62] A szálláshelyen a koronavírus ellen védett személy, valamint a felügyelete alatt lévő tizennyolcadik életévét be nem töltött személy tartózkodása megengedett.
+
+(6)[^63] A (3) és a (4) bekezdés kivételével, a szálláshely üzemeltetője vagy vezetője, illetve az üzemeltető vagy a vezető alkalmazottja megtagadja a szálláshelyre történő bejelentkezését annak, aki a koronavírus elleni védettségét vagy az életkorát e rendeletben meghatározott módon nem igazolja.
+
+(7)[^64] A szálláshelyen foglalkoztatott személy számára a maszkhasználat szabályait a szálláshely vezetője határozza meg, azzal, hogy
+
+a) a szálláshelyen foglalkoztatott személy, ha a koronavírus elleni védettséget e rendeletben meghatározott módon a szálláshely vezetője felé nem igazolja, köteles a szálláshely vendégek által látogatható területein és helyszínein az 1. § (1) bekezdésében meghatározott módon maszkot viselni,
+
+b) a maszkhasználatot nem tilthatja meg.
+
+(8)[^65] A szálláshelyen vendégként tartózkodó személy nem köteles maszkot viselni.
+
+(9)[^66] Az 5. § (1)–(3) bekezdésére figyelemmel a szálláshelyen tilos zenés, táncos rendezvényt szervezni, illetve tartani.
+
+(10)[^67] A 6. § (3) bekezdésére figyelemmel a szálláshelyen családi esemény vagy magánrendezvény abban az esetben szervezhető, illetve tartható, ha azon az egy időben jelenlévők száma nem haladja meg a tíz főt.
+
+[^60]: A 9/C. §-t az 576/2020. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^61]: A 10. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^62]: A 10. § (5) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 4. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^63]: A 10. § (6) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 4. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^64]: A 10. § (7) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 4. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^65]: A 10. § (8) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 4. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^66]: A 10. § (9) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 4. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^67]: A 10. § (10) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 4. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
