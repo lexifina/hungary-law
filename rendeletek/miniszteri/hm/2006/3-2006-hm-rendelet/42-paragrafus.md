@@ -36,6 +36,6 @@ f) a rádió-összeköttetés megszakadása, illetve különleges feladatok gyak
 
 a) a légiforgalmi irányító szolgálatoknak minden forgalomról repülésnyilvántartást (FLIGHT PROGRESS STRIP) kell vezetni, a szalagokat 365 napig meg kell őrizni;
 
-b)[^32] a távközlő vagy rádiótávközlő berendezések felhasználásával forgalmazott információkról készült hangfelvételek visszahallgatását és a radar helyzetkép megtekintését az ügyeletes váltásparancsnok/csoportvezető, a légiközlekedési hatóság, az üzembentartó, illetve az üzemeltető szervezet vezetője, a repülés időtartamára kijelölt szervező parancsnok jogosult elrendelni. A hangfelvételek és a radarképek megőrzési ideje 60 nap.
+b)[^33] a távközlő vagy rádiótávközlő berendezések felhasználásával forgalmazott információkról készült hangfelvételek visszahallgatását és a radar helyzetkép megtekintését az ügyeletes váltásparancsnok/csoportvezető, a légiközlekedési hatóság, az üzembentartó, illetve az üzemeltető szervezet vezetője, a repülés időtartamára kijelölt szervező parancsnok jogosult elrendelni. A hangfelvételek és a radarképek megőrzési ideje 60 nap.
 
-[^32]: A 42. § (3) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^33]: A 42. § (3) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.

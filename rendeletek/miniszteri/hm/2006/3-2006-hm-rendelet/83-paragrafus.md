@@ -1,16 +1,16 @@
 ## Egyéb szabályok
 
-83. § (1)[^79] Az üzembentartó – a jogszabályokban foglaltakon túl – a katonai légügyi hatóság egyetértésével, intézkedésben határozza meg az állami repülések céljára kijelölt légterekben végrehajtott repülések, ejtőernyős ugrások és az ezzel összefüggő tevékenységek irányelveit, a működési feltételeket és követelményeket, így különösen:
+83. § (1)[^83] Az üzembentartó – a jogszabályokban foglaltakon túl – a katonai légügyi hatóság egyetértésével, intézkedésben határozza meg az állami repülések céljára kijelölt légterekben végrehajtott repülések, ejtőernyős ugrások és az ezzel összefüggő tevékenységek irányelveit, a működési feltételeket és követelményeket, így különösen:
 
 a) a haderőnemi repülőegységek repüléseinek (ejtőernyős ugrásainak) megszervezésével, végrehajtásával, irányításával és biztosításával kapcsolatos alapelveket;
 
-b)[^80] az MH ÖHP vezető beosztású személyeinek és az alárendelt repülőcsapatok parancsnokainak repülései (ejtőernyős ugrásai) megszervezésével, biztosításával és ellenőrzésével kapcsolatos kötelmeit;
+b)[^84] az MHP vezető beosztású személyeinek és az alárendelt repülőcsapatok parancsnokainak repülései (ejtőernyős ugrásai) megszervezésével, biztosításával és ellenőrzésével kapcsolatos kötelmeit;
 
 c) a repülések (ejtőernyős ugrások) engedélyezésének és a jogosultságok megszerzésének irányelveit;
 
 d) a repüléseket (ejtőernyős ugrásokat) végrehajtó és a repüléseket (ejtőernyős ugrásokat) közvetlenül biztosító állomány igénybevételének alapelveit.
 
-(2)[^81] Az üzemeltető – a vonatkozó jogforrások figyelembevételével – az üzembentartó jóváhagyásával, intézkedésben határozza meg
+(2)[^85] Az üzemeltető – a vonatkozó jogforrások figyelembevételével – az üzembentartó jóváhagyásával, intézkedésben határozza meg
 
 a) a fegyvernemi alegységek repülései (ejtőernyős ugrásai) előkészítésének, végrehajtásának, ellenőrzésének, biztosításának, kiszolgálásának szabályait;
 
@@ -24,12 +24,12 @@ e) a repülések szabályait különleges körülmények között (repülés nag
 
 (3) Az állami repülések céljára kijelölt légterekben történő rendvédelmi repülések vonatkozásában az (1)–(2) bekezdésben foglaltakat az üzemeltető – a katonai légügyi hatóság által jóváhagyott – Kézikönyvben határozza meg.
 
-(4)[^82] Az állami repülések céljára kijelölt légterekben történő repülések szabályaira – az e rendeletben nem szabályozott kérdésekben – a gyártó, a fenntartó, az üzemben tartó, illetve az üzemeltető által kiadott kiképzési, üzemeltetési, működtetési szakutasítások, módszertani segédletek, valamint az (1)–(3) bekezdés szerinti kézikönyvek előírásai az irányadók.
+(4)[^86] Az állami repülések céljára kijelölt légterekben történő repülések szabályaira – az e rendeletben nem szabályozott kérdésekben – a gyártó, a fenntartó, az üzemben tartó, illetve az üzemeltető által kiadott kiképzési, üzemeltetési, működtetési szakutasítások, módszertani segédletek, valamint az (1)–(3) bekezdés szerinti kézikönyvek előírásai az irányadók.
 
-(5)[^83] A rendvédelmi kiképző repülések végrehajtására a rendvédelmi szervek belső rendelkezéseit kell alkalmazni.
+(5)[^87] A rendvédelmi kiképző repülések végrehajtására a rendvédelmi szervek belső rendelkezéseit kell alkalmazni.
 
-[^79]: A 83. § (1) bekezdésének bevezető szövegrésze a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
-[^80]: A 83. § (1) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
-[^81]: A 83. § (2) bekezdésének bevezető szövegrésze a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
-[^82]: A 83. § (4) bekezdése a 12/2009. (VIII. 19.) HM rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^83]: A 83. § (5) bekezdését a 12/2009. (VIII. 19.) HM rendelet 27. § (2) bekezdése iktatta be.
+[^83]: A 83. § (1) bekezdésének bevezető szövegrésze a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^84]: A 83. § (1) bekezdés b) pontja a 11/2021. (IV. 1.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^85]: A 83. § (2) bekezdésének bevezető szövegrésze a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^86]: A 83. § (4) bekezdése a 12/2009. (VIII. 19.) HM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^87]: A 83. § (5) bekezdését a 12/2009. (VIII. 19.) HM rendelet 27. § (2) bekezdése iktatta be.

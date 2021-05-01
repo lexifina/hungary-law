@@ -14,7 +14,7 @@ c) közlik a légijármű vezetőjével, hogy a radarszolgáltatás befejeződö
 
 (4) A helyzetjelentésnek tartalmaznia kell:
 
-a)[^20] a légi jármű hívónevét, helyzetét, repülési magasságát;
+a)[^21] a légi jármű hívónevét, helyzetét, repülési magasságát;
 
 b) az útvonali jelentő pont átrepülési idejét;
 
@@ -24,4 +24,4 @@ d) a következő fontos pontot.
 
 (5) A (4) bekezdés c) és d) pontja szerinti információkat a légijármű vezető csak az illetékes szolgálat külön kérésére továbbítja.
 
-[^20]: A 23. § (4) bekezdésének a) pontja a 12/2009. (VIII. 19.) HM rendelet 9. §-ával megállapított szöveg.
+[^21]: A 23. § (4) bekezdésének a) pontja a 12/2009. (VIII. 19.) HM rendelet 9. §-ával megállapított szöveg.

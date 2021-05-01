@@ -1,4 +1,4 @@
-## 52. §[^36]
+## 52. §[^37]
 
 53. § (1) A repülőtéri irányító az azonos futópályára alkalmazott elkülönítései során a repülőtérrendben meghatározott minimumokat alkalmazza. A minimumokat a katonai légügyi hatóság a légijármű SRS és turbulencia kategóriája alapján hagyja jóvá.
 
@@ -16,4 +16,4 @@ b) a II. kategóriába tartozik a két légcsavaros hajtóművel felszerelt 5670
 
 c) a III. kategóriába tartozik minden egyéb légijármű.
 
-[^36]: Az 52. §-t a 10/2021. (III. 23.) HM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^37]: Az 52. §-t a 10/2021. (III. 23.) HM rendelet 4. § b) pontja hatályon kívül helyezte.

@@ -1,10 +1,10 @@
 ## A repülésvezető szolgálat
 
-63. § (1)[^54] Repülésvezető-szolgálatot a feladat jellegének megfelelő jártassággal, légijármű-vezető szakszolgálati engedéllyel vagy előretolt repülésirányító kiképzettséggel rendelkező személy láthat el, kijelölésére a feladatot elrendelő parancsnok intézkedik.
+63. § (1)[^58] Repülésvezető-szolgálatot a feladat jellegének megfelelő jártassággal, légijármű-vezető szakszolgálati engedéllyel vagy előretolt repülésirányító kiképzettséggel rendelkező személy láthat el, kijelölésére a feladatot elrendelő parancsnok intézkedik.
 
 (2) A repülésvezető szolgálat fő feladatai:
 
-a)[^55] az adott repülési feladat engedélyezése vagy tiltása;
+a)[^59] az adott repülési feladat engedélyezése vagy tiltása;
 
 b) a tevékenységi körzetben folyó repülések folyamatos figyelemmel kísérése;
 
@@ -16,12 +16,12 @@ e) együttműködés a szomszédos légiforgalmi vagy légvédelmi szolgálatokk
 
 f) bajba jutott légijárművek segítése, a szükséges intézkedések megtétele.
 
-(3)[^56] Nem ellenőrzött repülőtéren és annak légterében folyó rendvédelmi célú kiképzés érdekében folytatott repülések során a Készenléti Rendőrség Rendészeti Igazgatóság Légirendészeti Parancsnokság (a továbbiakban: Légirendészeti Parancsnokság) repülésvezetője kizárólag a Repülőtéri Repüléstájékoztató Szolgálat munkáját segíti.
+(3)[^60] Nem ellenőrzött repülőtéren és annak légterében folyó rendvédelmi célú kiképzés érdekében folytatott repülések során a Készenléti Rendőrség Rendészeti Igazgatóság Légirendészeti Parancsnokság (a továbbiakban: Légirendészeti Parancsnokság) repülésvezetője kizárólag a Repülőtéri Repüléstájékoztató Szolgálat munkáját segíti.
 
 (4) Nem nyilvános fel- és leszállóhelyen és olyan elkülönített légtérben (pl. eseti légtér) folyó állami célú repülések során, ahol légiforgalmi irányító szolgálat nem működik, a repülések koordinálását a légijármű üzemeltetője által kijelölt repülésvezető végzi.
 
 (5) A repülésvezető és a katonai repülésirányító szolgálat közötti együttműködés rendjét a repülési feladat függvényében az üzemeltető vagy az üzembentartó határozza meg.
 
-[^54]: A 63. § (1) bekezdése a 12/2009. (VIII. 19.) HM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^55]: A 63. § (2) bekezdésének a) pontja a 12/2009. (VIII. 19.) HM rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^56]: A 63. § (3) bekezdése a 16/2008. (VI. 25.) HM rendelet 10. §-a, a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^58]: A 63. § (1) bekezdése a 12/2009. (VIII. 19.) HM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^59]: A 63. § (2) bekezdésének a) pontja a 12/2009. (VIII. 19.) HM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^60]: A 63. § (3) bekezdése a 16/2008. (VI. 25.) HM rendelet 10. §-a, a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.

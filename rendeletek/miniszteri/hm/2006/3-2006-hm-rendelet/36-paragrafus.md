@@ -2,6 +2,6 @@
 
 (2) A veszélyes légterekben végrehajtott légi lövészet idejére minden esetben, egyéb feladatok esetén az elrendelő parancsnok egyedi elbírálása szerint, repülésvezető szolgálatot kell működtetni.
 
-(3)[^29] A szolgálatok a katonai légügyi hatóság által jóváhagyott együttműködési megállapodások, illetve repülőtérrend alapján átruházhatják az irányítás jogát más irányításra jogosult egységnek, repülésvezetőnek.
+(3)[^30] A szolgálatok a katonai légügyi hatóság által jóváhagyott együttműködési megállapodások, illetve repülőtérrend alapján átruházhatják az irányítás jogát más irányításra jogosult egységnek, repülésvezetőnek.
 
-[^29]: A 36. § (3) bekezdése a 12/2009. (VIII. 19.) HM rendelet 13. §-ával megállapított szöveg.
+[^30]: A 36. § (3) bekezdése a 12/2009. (VIII. 19.) HM rendelet 13. §-ával megállapított szöveg.

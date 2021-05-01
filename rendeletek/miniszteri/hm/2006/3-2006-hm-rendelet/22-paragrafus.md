@@ -14,5 +14,8 @@
 
 (7)[^19] A Magyar Honvédség által üzemben tartott állami légi jármű vezetésére, csak a honvédelmi szervezet állományába tartozó, arra szakszolgálati engedéllyel rendelkező, illetve kiképzés alatt álló személyek, valamint az üzemben tartó által – a nemzetbiztonsági szolgálatok egyetértésével – kiadott írásbeli engedély alapján, az adott kategóriára szakszolgálati engedéllyel rendelkező személyek jogosultak.
 
+(8)[^20] A katonai légügyi hatóság vezetője engedélyezi a katonai légügyi hatóság személyi állománya tagjának az állami légijármű fedélzetén való tartózkodását, ha az szolgálati feladatai ellátásához szükséges.
+
 [^18]: A 22. § (1) bekezdése a 12/2009. (VIII. 19.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^19]: A 22. § (7) bekezdését a 12/2009. (VIII. 19.) HM rendelet 8. § (2) bekezdése iktatta be, szövege a 10/2021. (III. 23.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^20]: A 22. § (8) bekezdését a 11/2021. (IV. 1.) HM rendelet 6. §-a iktatta be.

@@ -4,9 +4,9 @@
 
 (2) A katonai légiforgalmi és a légvédelmi szolgálati egységek együttműködési megállapodást kötnek a velük szomszédos polgári szolgálati egységekkel.
 
-(3)[^30] A légvédelmi irányító szolgálatra vonatkozó együttműködési megállapodást a szolgálat megszervezéséért és ellátásáért felelős katonai szervezet parancsnoka, a katonai légiforgalmi irányító szolgálati egységekre vonatkozó együttműködési megállapodást az illetékes repülőtér parancsnoka írja alá.
+(3)[^31] A légvédelmi irányító szolgálatra vonatkozó együttműködési megállapodást a szolgálat megszervezéséért és ellátásáért felelős katonai szervezet parancsnoka, a katonai légiforgalmi irányító szolgálati egységekre vonatkozó együttműködési megállapodást az illetékes repülőtér parancsnoka írja alá.
 
-(4)[^31] A szerződő felek a megállapodást jóváhagyás céljából megküldik a légiközlekedési hatóság részére.
+(4)[^32] A szerződő felek a megállapodást jóváhagyás céljából megküldik a légiközlekedési hatóság részére.
 
-[^30]: A 38. § (3) bekezdése a 12/2009. (VIII. 19.) HM rendelet 14. §-ával megállapított szöveg.
-[^31]: A 38. § (4) bekezdése a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 38. § (3) bekezdése a 12/2009. (VIII. 19.) HM rendelet 14. §-ával megállapított szöveg.
+[^32]: A 38. § (4) bekezdése a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
