@@ -98,6 +98,22 @@ kivett lakóház, udvar, gazdasági épület
 
 |
 
+5a.
+
+|
+
+KECSKEMÉT
+
+|
+
+5415
+
+|
+
+kivett egyetem
+
+|
+
 6.
 
 |
