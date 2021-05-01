@@ -1,10 +1,10 @@
-12. §[^11] (1) A 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatást a kedvezményezett – a 651/2014/EU bizottsági rendelet 1. cikk (3) bekezdés utolsó albekezdése kivételével – nem használhatja a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés c)–d) pontjában, az 1. cikk (3) bekezdés a)–d) pontjában és az 53. cikk (10) bekezdésében meghatározott kizárt ágazatokra, továbbá nem nyújtható támogatás
+12. §[^15] (1)[^16] A 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatást a kedvezményezett – a 651/2014/EU bizottsági rendelet 1. cikk (3) bekezdés utolsó albekezdése kivételével – nem használhatja a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés c)–d) pontjában, az 1. cikk (3) bekezdés a)–d) pontjában és az 53. cikk (10) bekezdésében meghatározott kizárt ágazatokra, továbbá nem nyújtható támogatás
 
 a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának nem tett eleget,
 
 b) olyan feltétellel, amely az európai uniós jog megsértését eredményezi,
 
-c) nehéz helyzetben lévő vállalkozás részére.
+c) nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került.
 
 (2) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás vagy támogatási összeg túllépéséhez.
 
@@ -28,4 +28,5 @@ c) nehéz helyzetben lévő vállalkozás részére.
 
 (12) A (11) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-a határozza meg.
 
-[^11]: A 12. § a 8/2018. (VI. 4.) IM rendelet 5. §-ával megállapított szöveg.
+[^15]: A 12. § a 8/2018. (VI. 4.) IM rendelet 5. §-ával megállapított szöveg.
+[^16]: A 12. § (1) bekezdése a 3/2021. (IV. 30.) IM rendelet 5. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 3. § Az előirányzatok tartalmazzák a felhasználásukkal kapcsolatosan felmerülő költségek, így különösen a kincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a postaköltség, a fordítási, tolmácsolási, szakértői költség fedezetét is. Ha valamely előirányzat az ilyen költségre nem nyújt fedezetet, azt a 10025 Fejezeti általános tartalék előirányzat terhére kell elszámolni.
+## 3. §[^2] Az előirányzatok tartalmazzák a felhasználásukkal kapcsolatban felmerülő költségek, így különösen a kincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a postaköltség, a fordítási, tolmácsolási, szakértői költség fedezetét is.
 
-## 1/A. [^2] Értelmező rendelkezések
+## 1/A. [^3] Értelmező rendelkezések
 
 ## 3/A. § E rendelet alkalmazásában:
 
@@ -12,10 +12,12 @@
 
 4. működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételei, csökkentve a diszkontált működési költségekkel (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) és – a támogatást nyújtó döntése alapján – a diszkontált észszerű nyereséggel, ha a számítás végeredménye pozitív, ellenkező esetben a működési eredmény nulla,
 
-5. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
+5.[^4] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti vállalkozás,
 
 6. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
 
 7. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom.
 
-[^2]: Az 1/A. alcímet (3/A. §) a 8/2018. (VI. 4.) IM rendelet 1. §-a iktatta be.
+[^2]: A 3. § a 3/2021. (IV. 30.) IM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1/A. alcímet (3/A. §) a 8/2018. (VI. 4.) IM rendelet 1. §-a iktatta be.
+[^4]: A 3/A. § 5. pontja a 3/2021. (IV. 30.) IM rendelet 2. §-ával megállapított szöveg.
