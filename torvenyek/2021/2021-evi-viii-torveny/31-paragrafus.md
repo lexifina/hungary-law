@@ -1,0 +1,1 @@
+31. § A Kit. 182. § (3a) bekezdésében a „kuratóriumának tagjaira” szövegrész helyébe a „kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre” szöveg lép.

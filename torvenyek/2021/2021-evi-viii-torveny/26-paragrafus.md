@@ -1,0 +1,17 @@
+## 8. Az egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról szóló 2017. évi LXXIV. törvény módosítása
+
+26. § (1) Az egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról szóló 2017. évi LXXIV. törvény (a továbbiakban: 2017. évi LXXIV. törvény) a következő 6. §-sal egészül ki:
+
+„6. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése és (2) bekezdés g) pontja alapján a Magyarországi Református Egyház szociális, oktatási, kulturális és hitéleti feladatainak elősegítése érdekében a Nagykőrös, Hősök tere 6. szám alatt található, az ingatlan-nyilvántartás szerint Nagykőrös, belterület 5260 helyrajzi szám alatt nyilvántartott állami tulajdonban lévő ingatlan ingyenesen, a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése szerinti értéken a Magyarországi Református Egyház tulajdonába kerül. Az ingatlan tulajdonjogát a Magyarországi Református Egyház jogokkal és kötelezettségekkel együtt szerzi meg.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság köti meg a Magyarországi Református Egyházzal.”
+
+(2) A 2017. évi LXXIV. törvény 6. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az (1) bekezdés alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdését.”
+
+(3) A 2017. évi LXXIV. törvény 6. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+„(4) A Magyarországi Református Egyház a tulajdonába adott ingatlant – az (1) bekezdésben foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha a Magyarországi Református Egyház a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a vagyonjuttatás céljaként megfogalmazott tevékenységeket szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. A Magyarországi Református Egyház az ingatlan értékesítéséből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(5) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.”
