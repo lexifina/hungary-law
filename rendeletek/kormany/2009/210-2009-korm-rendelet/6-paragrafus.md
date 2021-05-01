@@ -20,7 +20,7 @@ b) élelmiszer, takarmány, állatgyógyászati készítménynek nem minősülő
 
 (4)[^13] A (3) bekezdés szerint lefolytatott ellenőrzés eredményéről a hatóságok az ellenőrzést követő nyolc napon belül elektronikus úton tájékoztatják a jegyzőt.
 
-(5)[^14] A kereskedő az 1. melléklet A) pontja szerinti adatokban bekövetkezett változást haladéktalanul, illetve a nyitva tartási idő változását az azt megelőző nyolc napon belül köteles bejelenteni a jegyzőnek.
+(5)[^14] A kereskedő az 1. melléklet A) pontja szerinti adatokban bekövetkezett változást haladéktalanul, illetve a nyitvatartási idő hosszabb ideig, de legalább egy hétig fennálló változását az azt megelőző nyolc napon belül köteles bejelenteni a jegyzőnek. A nyitvatartási idő rövidebb ideig fennálló, egy hetet el nem érő változása esetén bejelentési kötelezettség nem terheli a kereskedőt. A nyitvatartási idő rövidebb ideig fennálló, egy hetet el nem érő változása a nyilvántartásban feltüntetett nyitvatartási időnél csak rövidebb lehet. A kereskedő a nyitvatartási idő rövidebb ideig fennálló, egy hetet el nem érő változásáról a nyitvatartási idő kifüggesztésével köteles tájékoztatni a vásárlót.
 
 (6)[^15] A jegyző az adatokban történt változást a bejelentés alapján nyilvántartásba veszi. A jegyző eljárásában a (2) és a (2a) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
@@ -34,7 +34,7 @@ b) élelmiszer, takarmány, állatgyógyászati készítménynek nem minősülő
 [^11]: A 6. § (2b) bekezdését az 524/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 116. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 143. § (3) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 266. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^12]: A 6. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 267. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^13]: A 6. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (126) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 116. § c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^14]: A 6. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (126) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. § (5) bekezdése a 218/2021. (IV. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: A 6. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 117. § b) pontja hatályon kívül helyezte, újonnan a 20/2017. (II. 2.) Korm. rendelet 6. § (3) bekezdése iktatta be.
 [^16]: A 6. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 142. § (5) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 143. § (3) bekezdés d) pontja szerint módosított szöveg.
 [^17]: A 6. § (8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 264. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
