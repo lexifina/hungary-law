@@ -1,0 +1,5 @@
+## 3. Állami tulajdonban álló ingatlan ingyenesen történő tulajdonba adásáról
+
+4. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján ingyenesen és illetékmentesen az állam kizárólagos tulajdonában álló, a Budapest XI. kerület belterület 4568/211 helyrajzi számú, természetben az 1113 Budapest, Aga u. 6. szám, illetve a 1113 Budapest, Tardoskedd u. 2–6. szám alatti, kivett kutatóintézet megnevezésű ingatlant (a továbbiakban: Ingatlan) a Magyar Vezetőképző Alapítvány (székhelye: 8420 Zirc, Rákóczi tér 1.; nyilvántartási száma: 19-01-0001842) (a továbbiakban: MVA) tulajdonába kell adni, a (2) bekezdésben meghatározott közfeladatai ellátásának elősegítése érdekében, azzal a feltétellel, hogy az MVA az érintett vagyonelemeket terhelő – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) által a tulajdonátruházás teljesítése érdekében kötendő szerződésben meghatározott – kötelezettségeket teljeskörűen vállalja.
+
+(2) Az MVA az Ingatlant az oktatási, képzési, továbbképzési, kollégiumi, szakkollégiumi tevékenység, illetve diákotthon megvalósításával kapcsolatos közfeladatai ellátásához használja.
