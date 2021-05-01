@@ -1,0 +1,3 @@
+3. § (1) A 2. § szerinti alkalmazás a jogszerű felhasználás megkezdését követően a kereskedő által biztosított címkén szereplő beváltó kóddal aktiválható, és a felhasználó számára elektronikus levélben eljutatott adattörlő kóddal egyetlen eszköz adatainak egyszeri törlésére nyílik lehetőség az NMHH 2. § (2) bekezdése szerinti használati útmutatóban leírt részletes szabályok szerint. A törlést követően a fogyasztó elektronikus levélben törlési igazolást kap.
+
+(2) Az NMHH az alkalmazás biztosításával összefüggésben gondoskodik a címkék előállításáról, annak aktiváló kóddal való ellátásáról és sorszámozásáról.
