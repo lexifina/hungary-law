@@ -4,7 +4,9 @@
 
 a) általános részét az üzemmódváltáskor,
 
-b) aktualizált változatát a körzeti erdőtervezés megkezdésének évében, a 2. § (1) bekezdés szerinti erdőgazdálkodói javaslatok részeként
+b) aktualizált változatát a körzeti erdőtervezés megkezdésének évében, a 2. § (1) bekezdés szerinti erdőgazdálkodói javaslatok részeként,
+
+c)[^30] erdőrészletenként részletezett állapot- és tervadatokkal kiegészített, aktualizált változatát – legkésőbb – az Evt. 41. § (1) bekezdése szerinti bejelentéskor
 
 ## nyújtja be az erdészeti hatósághoz.
 
@@ -17,3 +19,4 @@ b) a körzeti erdőtervezés megkezdésének évében, a 2. § (1) bekezdés sze
 nyújtja be az erdészeti hatósághoz.
 
 [^29]: A 13/A. §-t a 77/2020. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^30]: A 13/A. § (1) bekezdés c) pontját a 77/2020. (III. 31.) Korm. rendelet 2. §-a iktatta be.

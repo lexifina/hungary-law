@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-433-20-
 | 2020-03-01 | 2017-433-20-22.6 | 29/2020. (II. 28.) Korm. rendelet |
 | 2020-05-01 | 2017-433-20-22.7 | 77/2020. (III. 31.) Korm. rendelet |
 | 2021-01-01 | 2017-433-20-22.8 | 668/2020. (XII. 28.) Korm. rendelet |
+| 2021-05-01 | 2017-433-20-22.9 | 77/2020. (III. 31.) Korm. rendelet |
