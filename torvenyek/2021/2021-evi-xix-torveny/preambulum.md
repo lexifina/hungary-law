@@ -1,0 +1,1 @@
+Az Országgyűlés – a közfeladatot ellátó közérdekű vagyonkezelő alapítványok, valamint az ilyen alapítványokat vagyoni juttatással és egyéb szolgáltatásokkal támogató alapítók és csatlakozók társadalmi értékteremtő szerepének állami elismerése, továbbá ezek társadalmilag hasznos tevékenységének támogatása és védelme jegyében – a következő törvényt alkotja:

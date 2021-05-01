@@ -1,0 +1,1 @@
+4. § Az Alapítvány az állam által a tulajdonába adott részvények elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv.-ben meghatározott közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani.
