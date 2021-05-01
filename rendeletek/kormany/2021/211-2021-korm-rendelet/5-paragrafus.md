@@ -1,1 +1,3 @@
-## 4. § Az R. 4. § (2) bekezdésében a „62. és 63. sora” szövegrész helyébe a „62., 63. és 64. sora” szöveg lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
