@@ -1,0 +1,1 @@
+27. § Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza az egészségügyi közfeladatot ellátó közérdekű vagyonkezelő alapítvány egészségügyi közfeladat-ellátására vonatkozó különös elszámolási és nyilvántartási szabályokat.

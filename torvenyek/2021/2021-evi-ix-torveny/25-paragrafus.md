@@ -1,0 +1,5 @@
+25. § (1) Az egészségügyi közfeladat-ellátással terhelt magánvagyont elkülönítetten kell nyilvántartani.
+
+(2) A 12. § (3) bekezdésétől eltérően az egészségügyi közfeladat-ellátással terhelt magánvagyonba tartozó vagyonelemek feletti rendelkezési jog gyakorlásához az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter hozzájárulása szükséges, ingatlan esetében e jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+
+(3) Amennyiben az alapítvány, vagy az általa fenntartott egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója az egészségügyi közfeladat-ellátás céljából olyan új ingatlant biztosít, amely a közfeladat ellátására szolgáló meglévő ingatlan funkciójának legalább azonos szinten megfelel, akkor a meglévő ingatlan felett az alapítvány a (2) bekezdéstől eltérően, a 12. § (3) bekezdésében foglaltaknak megfelelően, vagyonkezelési tevékenysége keretében szabadon rendelkezik, és a (2) bekezdés szerinti jog átszáll az e bekezdés szerinti ingatlanra, melyet az ingatlan-nyilvántartásba be kell jegyezni.

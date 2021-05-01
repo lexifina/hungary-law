@@ -1,0 +1,7 @@
+5. § (1) Az e törvény hatálya alá tartozó alapítvány csak közérdekű célra alapítható.
+
+(2) Közérdekű célnak minősül az alapítvány 1. mellékletben meghatározott közfeladata, illetve a nevelési-oktatási, tehetséggondozási, felsőoktatási, alap- és alkalmazott kutatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális, amatőr- és ifjúsági sporttevékenységek, nemzeti kultúra megőrzése, a hagyományvédelem szempontjából értékkel bíró életmód megőrzésére irányuló tevékenységek, egyházak tevékenységének segítése, támogatása, a tudományos tevékenység, a környezetvédelem, klímavédelem, fenntarthatóság és körkörös gazdaság céljainak elérését támogató tevékenységek, örökségvédelem, az épített és természeti kultúra, környezet védelme, illetve ezek körébe tartozó építmények, területek kulturális célú látogathatóságának, megismerhetőségének biztosítása, e bekezdés szerinti célok elérésére létrehozott civil szervezetek vagy nonprofit gazdasági társaságok finanszírozása, illetve támogatása vagy ilyen tevékenységet ellátó intézmények, jogi személyek fenntartása és működtetése.
+
+(3) Az alapítvány közérdekűségéhez az is szükséges, hogy kedvezményezettjeinek köre – azok személyét illetően – nyitott legyen.
+
+(4) Az alapítvány e törvény rendelkezése alapján egyúttal közhasznú jogállásúnak is minősül, ha ezt kérelmezi, ebben az esetben e jogállást a nyilvántartásban is fel kell tüntetni.
