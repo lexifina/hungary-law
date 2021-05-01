@@ -11,3 +11,5 @@
 (5) A (4) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (6) Az 1. mellékletben meghatározott ingatlanok tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(7) Az 1. melléklet szerinti ingatlanok vonatkozásában a (3) bekezdés szerinti megállapodás megkötéséig, valamint a (4) bekezdés szerinti ingóságok vonatkozásában az (5) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a közfeladatot ellátó vagyonkezelő alapítványokról szóló törvény 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.

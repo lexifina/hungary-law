@@ -4,4 +4,4 @@
 
 (2) Az (1) bekezdés alapján alapítói vagyoni juttatásként az Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
+(3)
