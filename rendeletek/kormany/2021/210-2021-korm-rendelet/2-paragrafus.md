@@ -1,3 +1,0 @@
-## 1. § Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) Az (1) bekezdés rendelkezéseit az 1. mellékletben meghatározott beruházások keretén belül vagy ahhoz közvetlenül kapcsolódó közlekedésfejlesztési, területszerzési, közművek tervezésével, előkészítésével és megvalósításával kapcsolatos feladatokra, valamint mindezen létesítményekkel kapcsolatos tevékenységekre, hatósági eljárásokra is alkalmazni kell.”
