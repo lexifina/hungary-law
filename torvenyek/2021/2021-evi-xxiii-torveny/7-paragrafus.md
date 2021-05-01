@@ -1,1 +1,1 @@
-7. § Az Egyetem a tulajdonába adott ingatlant – a 6. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. melléketében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+7. §
