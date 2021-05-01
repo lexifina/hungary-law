@@ -1,0 +1,1 @@
+Az Egri Főegyházmegye észak-magyarországi régióban vállalt küldetésével összhangban, a hitéleti, szociális, oktatási és kulturális feladatainak elősegítése érdekében az Eszterházy Károly Egyetem fenntartói jogainak átadásáról az Országgyűlés a következő törvényt alkotja:
