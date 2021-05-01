@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-30-00-00
 | 2019-07-02 | 2010. évi CXXX. törvény | 2019-30-00-00.3 |
 | 2020-07-09 | 2020. évi LXXV. törvény | 2019-30-00-00.4 |
 | 2020-07-22 | 2020. évi LXXXI. törvény | 2019-30-00-00.5 |
+| 2021-05-01 | 2021. évi VIII. törvény | 2019-30-00-00.6 |

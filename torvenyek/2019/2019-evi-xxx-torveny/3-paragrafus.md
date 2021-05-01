@@ -4,7 +4,7 @@
 
 a)
 
-b) az Egyetem – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként, az Alapítvány tulajdonába
+b) a Budapesti Corvinus Egyetem (a továbbiakban: Egyetem) – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként, az Alapítvány tulajdonába
 
 kell adni.
 

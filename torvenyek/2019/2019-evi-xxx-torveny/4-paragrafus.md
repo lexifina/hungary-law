@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdés szerint ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) A miniszter, illetve az Alapítvány 2020. június 30-ig köteles az (1) bekezdés szerinti ingatlan ingyenes használatát biztosítani a Nemzeti Közszolgálati Egyetem számára.
+(3)
 
-(4) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
+(4)
