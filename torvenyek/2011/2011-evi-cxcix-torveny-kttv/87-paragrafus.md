@@ -18,6 +18,8 @@ g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső sz
 
 h) létesíthet önkéntes tartalékos katonai szolgálati viszonyt.
 
-(3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1) és (2) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(2a) A (2) bekezdésben foglaltaktól eltérően a vezetői munkakört betöltő köztisztviselő – a munkáltatói jogkör gyakorlójának az előzetes engedélye nélkül – lehet közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának és felügyelőbizottságának tagja, valamint betölthet közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget.
+
+(3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1)–(2a) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
 (4) A 85. § (4) bekezdés c) pontját és (5) bekezdését a vezetői munkakört betöltő kormánytisztviselő esetében akkor is alkalmazni kell, ha a tisztségviselés, a tagság ellátása további jogviszony létesítésével jár.
