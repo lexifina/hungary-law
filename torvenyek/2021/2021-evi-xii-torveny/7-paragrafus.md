@@ -1,1 +1,1 @@
-7. § A 3. mellékletben foglalt táblázatban meghatározott ingatlanok esetében, amennyiben az Egyetem valamely jogelődjét tartalmazza az ingatlan-nyilvántartás tulajdonosként, az ingatlanügyi hatóság az Egyetem tulajdonjogát az ingatlan-nyilvántartásba az Egyetem tulajdonjog-bejegyzési kérelmére, annak egyoldalú jognyilatkozata alapján jegyzi be.
+7. §
