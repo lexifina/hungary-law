@@ -1,0 +1,1 @@
+Hauszmann Alajos életművének, építészeti és kulturális hagyatékának fenntartása és gondozása, egységes gyűjteménnyé rendezése, a Hauszmann Emlékház létrehozása, valamint a hagyományos szépmíves mesterségek komplex oktatási, kutatási és dokumentációs tudásközpontjának és élményközpontjának létrehozása érdekében az Országgyűlés a következő törvényt alkotja:
