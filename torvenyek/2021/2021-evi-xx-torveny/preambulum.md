@@ -1,0 +1,1 @@
+Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és Európa 5 legkiválóbb gyógyító egyeteme közé kerüljön, az ehhez szükséges fejlesztések megvalósítása érdekében az Országgyűlés a következő törvényt alkotja:
