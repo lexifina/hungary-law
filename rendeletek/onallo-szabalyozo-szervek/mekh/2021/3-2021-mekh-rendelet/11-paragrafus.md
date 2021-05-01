@@ -1,3 +1,3 @@
-11. §[^9]
+11. §[^12]
 
-[^9]: A 11. § a 16. § (2) bekezdése alapján 2021. október 1-jén lép hatályba 6 órakor.
+[^12]: A 11. § a 16. § (2) bekezdése alapján 2021. október 1-jén lép hatályba 6 órakor.

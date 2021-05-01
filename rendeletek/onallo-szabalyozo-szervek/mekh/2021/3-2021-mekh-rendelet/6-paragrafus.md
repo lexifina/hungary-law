@@ -1,3 +1,3 @@
-6. §[^5]
+6. §[^7]
 
-[^5]: A 6. § a 16. § (2) bekezdése alapján 2021. október 1-jén lép hatályba 6 órakor.
+[^7]: A 6. § a 16. § (2) bekezdése alapján 2021. október 1-jén lép hatályba 6 órakor.

@@ -1,5 +1,3 @@
-## 15. § Hatályát veszti az R.
+15. §[^30]
 
-a) 7. §-a,
-
-b) 22. § (1) bekezdésében a „földgázforgalom esetén” szövegrész.
+[^30]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
