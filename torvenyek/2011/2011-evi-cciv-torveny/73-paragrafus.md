@@ -46,6 +46,8 @@ j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézmén
 
 k) gyakorolja az állami felsőoktatási intézményben a konzisztórium tagjainak delegálásával, megbízásával, visszahívásával, a megbízás megszüntetésével kapcsolatos döntési hatásköröket.
 
+(3a) A fenntartó a nemzetiségi képzés tekintetében hozott döntéseihez beszerzi az Országos Nemzetiségi Tanács véleményét.
+
 (4) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 
 (5) A törvényesség biztosítása keretében kell ellenőrizni az intézményi dokumentumokban foglaltak megtartását, jogszerűségét, a felsőoktatási intézmény működésének és a döntéshozatalnak a jogszerűségét.
