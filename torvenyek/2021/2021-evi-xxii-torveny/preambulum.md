@@ -1,0 +1,1 @@
+Az Óbudai Egyetem stratégiai céljainak, a nemzetközileg is meghatározó műszaki felsőoktatási tudásközpont szerepének eléréséhez szükséges, az Óbudai Egyetem új fejlődési pályára állítása, megújítása érdekében az Országgyűlés a következő törvényt alkotja:
