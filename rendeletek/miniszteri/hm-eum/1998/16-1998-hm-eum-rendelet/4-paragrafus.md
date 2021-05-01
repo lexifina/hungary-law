@@ -8,10 +8,10 @@ b) hangsebesség alatti repülőgépek II. kategória,
 
 c) hangsebesség feletti repülőgépek III. kategória,
 
-d)[^6] ejtőernyők IV. kategória.
+d)[^7] ejtőernyők IV. kategória.
 
 (2) A Hatóság az egyedi (speciális) technikai színvonalú légijárműveket – a kategóriába történő besorolás mellőzésével – típusjogosításra kötelezett légijárműnek minősítheti.
 
 (3) A Hatóság a légijárművek kategória- és típusbesorolását típusalkalmassági bizonyítványban állapítja meg.
 
-[^6]: A 4. § (1) bekezdésének d) pontját a 14/2001. (V. 30.) HM-EüM együttes rendelet 1. §-a iktatta a szövegbe.
+[^7]: A 4. § (1) bekezdésének d) pontját a 14/2001. (V. 30.) HM-EüM együttes rendelet 1. §-a iktatta a szövegbe.

@@ -2,7 +2,7 @@
 
 87. § (1) Az oktató és berepülő fedélzeti navigátor szakszolgálati engedély kiadásának feltétele, hogy a pályázó rendelkezik
 
-a)[^76] hatályos fedélzeti navigátor szakszolgálati engedéllyel,
+a)[^77] hatályos fedélzeti navigátor szakszolgálati engedéllyel,
 
 b) legalább 500 óra repült idővel.
 
@@ -24,4 +24,4 @@ b) az oktatott felkészítésére a repülés előtti feladatára, és a repül�
 
 c) a berepülési utasításban foglalt feladatok teljesítésére.
 
-[^76]: A 87. § (1) bekezdés a) pontja a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: A 87. § (1) bekezdés a) pontja a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

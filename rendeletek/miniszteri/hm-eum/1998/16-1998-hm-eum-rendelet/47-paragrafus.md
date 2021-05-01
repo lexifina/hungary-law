@@ -4,6 +4,6 @@
 
 (2) Az engedély meghosszabbításának feltétele hat hónaponként legalább egy berepülési feladat végrehajtása.
 
-(3)[^41] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 33. § (2) bekezdés és az 45. § (2) bekezdés szerinti tárgyakból tesz.
+(3)[^42] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 33. § (2) bekezdés és az 45. § (2) bekezdés szerinti tárgyakból tesz.
 
-[^41]: A 47. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 47. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

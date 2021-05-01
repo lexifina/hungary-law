@@ -106,14 +106,15 @@ C) repülőműszaki földi szakszemélyzet:
 
 a) légijármű szerelő,
 
-b) a tevékenységi kört felügyelő, a tevékenységet szervező ellenőr;
+b)[^4] a tevékenységi kört felügyelő, a tevékenységet szervező és oktató ellenőr;
 
-k)[^4] irányítói pozícióban eltöltött idő: az az időtartam, amikor a katonai légiforgalmi irányító légtere aktív, és felelősségi körzetében – beleértve a repülőtér munkaterületét – tartózkodó légi és egyéb járművekkel kétoldalú rádiókapcsolatot tart fenn, azoknak légiforgalmi szolgáltatást biztosít, valamint ellátja az ezzel összefüggő koordinációs feladatokat,
+k)[^5] irányítói pozícióban eltöltött idő: az az időtartam, amikor a katonai légiforgalmi irányító légtere aktív, és felelősségi körzetében – beleértve a repülőtér munkaterületét – tartózkodó légi és egyéb járművekkel kétoldalú rádiókapcsolatot tart fenn, azoknak légiforgalmi szolgáltatást biztosít, valamint ellátja az ezzel összefüggő koordinációs feladatokat,
 
-l)[^5] megújítás: jogosítás, kiterjesztés vagy minősítés időbeli hatályának lejártát követő 5 éven belül végrehajtott olyan hatósági adminisztratív intézkedés, amely révén a 115/C. § (2) bekezdésében meghatározott követelmények teljesítése esetén megújításra kerülnek a jogosítással, kiterjesztéssel vagy minősítéssel járó jogosultságok.
+l)[^6] megújítás: jogosítás, kiterjesztés vagy minősítés időbeli hatályának lejártát követő 5 éven belül végrehajtott olyan hatósági adminisztratív intézkedés, amely révén a 115/C. § (2) bekezdésében meghatározott követelmények teljesítése esetén megújításra kerülnek a jogosítással, kiterjesztéssel vagy minősítéssel járó jogosultságok.
 
 [^1]: A 2. § b) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^2]: A 2. § e) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^3]: A 2. § i) pont B) alpont a) pontját a 12/2020. (VII. 21.) HM rendelet 6. § a) pontja hatályon kívül helyezte.
-[^4]: A 2. § k) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.
-[^5]: A 2. § l) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.
+[^4]: A 2. § j) pont C) alpont b) pontja a 11/2021. (IV. 1.) HM rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § k) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.
+[^6]: A 2. § l) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.

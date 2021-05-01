@@ -2,7 +2,7 @@
 
 a) az engedély kiadásának vagy meghosszabbításának valamely feltétele hiányzik, a feltétel teljesítéséig;
 
-b)[^13] az engedély egészségi alkalmassági időbeli hatálya lejárt, az alkalmasság megállapításáig;
+b)[^14] az engedély egészségi alkalmassági időbeli hatálya lejárt, az alkalmasság megállapításáig;
 
 c) az engedélyes az engedély meghosszabbításához szükséges vizsgán, illetően az ellenőrzésen nem felel meg, a sikeres vizsga letételéig;
 
@@ -24,4 +24,4 @@ b) az egy évnél hosszabb időtartamú visszavonás esetében az elméleti és 
 
 (4) Az engedélyes szakszolgálati tevékenységét az állományilletékes parancsnok az ,,egészségileg ideiglenesen alkalmatlan'' minősítés időtartamára szünetelteti.
 
-[^13]: A 12. § (1) bekezdés b) pontja a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 12. § (1) bekezdés b) pontja a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

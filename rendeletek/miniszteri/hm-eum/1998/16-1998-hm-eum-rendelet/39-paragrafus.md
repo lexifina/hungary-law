@@ -2,7 +2,7 @@
 
 39. § (1) A berepülő repülőgépvezető szakszolgálati engedély kiadásának feltétele, hogy a pályázó
 
-a)[^33] rendelkezik hatályos repülőgépvezető szakszolgálati engedéllyel,
+a)[^34] rendelkezik hatályos repülőgépvezető szakszolgálati engedéllyel,
 
 b) befejezte az adott típuson az átképzési programot,
 
@@ -22,4 +22,4 @@ a) a vizsgáztató által meghatározott berepülési program összeállításá
 
 b) a berepülés adatainak berepülési jegyzőkönyvben történő rögzítésére.
 
-[^33]: A 39. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 39. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
