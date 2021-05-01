@@ -1,0 +1,1 @@
+11. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1) és (4)–(5) bekezdése, a 6. § (1), (5) és (7) bekezdése, a 7. §, a 8. §, a 9. § (1) és (3) bekezdése, a 12. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
