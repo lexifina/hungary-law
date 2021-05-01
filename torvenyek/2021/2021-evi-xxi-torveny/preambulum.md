@@ -1,0 +1,1 @@
+A Nyíregyházi Egyetem többfókuszú stratégiai céljainak megvalósítása, az intézmény és környezetének új fejlődési pályára állítása, megújítása, a képzést folytató oktatók, kutatók, tanárok, a képzésben részt vevők támogatása érdekében az Országgyűlés a következő törvényt alkotja:
