@@ -151,13 +151,3 @@
 ## 1. az alkalmazó kormányzati igazgatási szerv neve, székhelye, statisztikai számjele
 
 ## 2. e szervnél a kormányzati szolgálati jogviszony kezdete
-
-## 3. kormánytisztviselő jelenlegi besorolása, besorolásának időpontja
-
-## 4. feladat(ok) megnevezése és a betöltés időtartama, FEOR-szám
-
-## 5. vezetői kinevezésének és megszűnésének adatai
-
-## 6. jutalmazás, kitüntetés adatai
-
-## 7. hatályos fegyelmi büntetés

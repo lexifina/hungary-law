@@ -7,3 +7,5 @@
 (3) A 301. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (4) A 320. § (1) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+
+(5) A 95. § (11a) bekezdése, a 182. § (3a) bekezdése és a 225. § (2a) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
