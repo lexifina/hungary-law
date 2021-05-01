@@ -1,3 +1,6 @@
-## 16/A. §[^12] A védelmi intézkedések lépcsőzetes feloldásának első fokozatáról szóló 144/2021. (III. 27.) Korm. rendelet hatálybalépését megelőzően a 6. §-ra tekintettel a 9. §, valamint a 10. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+## 16/B. §[^25] A védelmi intézkedések lépcsőzetes feloldásának harmadik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 194/2021. (IV. 26.) Korm. rendelet (a továbbiakban: R1.) hatálybalépését megelőző napon hatályos 7. §-ra tekintettel az R1. hatálybalépését megelőző napon hatályos 9. § és 10. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
 
-[^12]: A 16/A. §-t a 144/2021. (III. 27.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+17. §[^26]
+
+[^25]: A 16/B. §-t a 194/2021. (IV. 26.) Korm. rendelet 13. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^26]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
