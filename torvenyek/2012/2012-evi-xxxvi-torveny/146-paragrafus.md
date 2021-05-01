@@ -37,3 +37,5 @@ sarkalatosnak minősül.
 (8) A 149. § (2) bekezdése, a 154. § és a 160. § (4) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (9) Az 50. alcím az Alaptörvénynek az (1)–(4), (6) és (7) bekezdésben meghatározott rendelkezései alapján sarkalatosnak minősül.
+
+(10) A 80. § (1) és (2a) bekezdése és a 89. § c) pontja az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.

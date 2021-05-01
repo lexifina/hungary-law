@@ -1,10 +1,10 @@
-## 47. Intézkedés az Országház és az Országgyűlés Irodaháza üléstermében
+## 47. Intézkedés az Országház üléstermében
 
 141. § (1) Az országgyűlési őr
 
 a) az ülést vezető elnök hozzájárulása nélkül az Országházban megtartott
 
-b) az országgyűlési bizottság elnöke, akadályoztatása esetén a bizottsági ülést levezető alelnöknek a hozzájárulása nélkül az Országházban vagy az Országgyűlés Irodaházában megtartott bizottsági
+b) az országgyűlési bizottság elnöke, akadályoztatása esetén a bizottsági ülést levezető alelnöknek a hozzájárulása nélkül az Országházban megtartott bizottsági
 
 ülés ideje alatt az ülésterembe, az ülésteremhez tartozó páholyba és karzatra, valamint az üléstermet körülvevő folyosóra nem léphet be és nem intézkedhet.
 

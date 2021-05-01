@@ -1,6 +1,6 @@
-## 40/H. Az Országházba, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére belépést, valamint a Kossuth tér felszín alatti mélygarázsba behajtást rögzítő elektronikus rendszer
+## 40/H. Az Országházba, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére belépést, valamint a Kossuth tér felszín alatti mélygarázsba behajtást rögzítő elektronikus rendszer
 
-124/V. § (1) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a belépést rögzítő elektronikus rendszerben (a továbbiakban: beléptető rendszer) nyilvántartja az Országházba, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére állandó belépési engedéllyel rendelkező személy
+124/V. § (1) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a belépést rögzítő elektronikus rendszerben (a továbbiakban: beléptető rendszer) nyilvántartja az Országházba, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére állandó belépési engedéllyel rendelkező személy
 
 a) családi nevét és utónevét,
 
@@ -10,35 +10,29 @@ c) anyja születési családi és utónevét,
 
 d) arcképmását,
 
-e) személyazonosításra alkalmas hatósági igazolványának típusát és okmányazonosítóját, illetve, ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor az okmányt kiállító ország megnevezését és a belépő személy állampolgárságát is, valamint
+e) személyazonosításra alkalmas hatósági igazolványának típusát és okmányazonosítóját, illetve, ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor az okmányt kiállító ország megnevezését és a belépő személy állampolgárságát is,
 
 f) belépésre jogosító igazolványának számát.
 
-(2) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben jelzett épületekbe tartós belépési engedéllyel rendelkező személy
+g) be- és kilépésének helyét és idejét rögzítő adatokat, valamint
 
-a) családi nevét és utónevét,
+h) arcképmásából képzett, vissza nem fejthető alfanumerikus adatsort (a továbbiakban: biometrikus sablon).
 
-b) születési helyét és idejét,
+(1a) Az (1) bekezdés szerinti állandó belépési engedéllyel rendelkező személy – belépési jogosultságának megállapítása céljából – beléptetésekor a beléptető rendszer részeként működő automatizált arcképelemző rendszer biometrikus sablont képez, amelyet összevet a belépni szándékozó személy beléptető rendszerben szereplő biometrikus sablonjával. Amennyiben a biometrikus sablonok nem egyeznek meg, és a belépni szándékozó személy a belépési jogosultságát más módon nem tudja igazolni, a belépésre nem kerülhet sor.
 
-c) anyja születési családi és utónevét, valamint
+(1b) Az Országgyűlés Hivatala az Országgyűlés Hivatalával közszolgálati jogviszonyban vagy munkaviszonyban álló személyeknek az (1) bekezdés g) pontja szerinti adatait a Kttv. 115. §-ában és az Mt. 134. §-ában meghatározott munkaidő-nyilvántartási feladat támogatása céljából is kezeli.
 
-d) a személyazonosításra alkalmas hatósági igazolvány típusát és okmányazonosítóját.
+(2) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben jelzett épületekbe tartós belépési engedéllyel rendelkező személy (1) bekezdés a)–c), e) és g) pontja szerinti adatait, valamint a belépését kezdeményező személy nevét.
 
 (3) Az (1) és (2) bekezdés szerinti állandó vagy tartós belépési engedéllyel rendelkező személy esetében
 
-a) az (1) és (2) bekezdés szerinti személyes adatot a jogosultság megszűnésétől számított,
+a) az állandó belépési engedéllyel rendelkező személynek az (1) bekezdés a)–f) és h) pontja, a tartós belépési engedéllyel rendelkező személynek az (1) bekezdés a)–c) és e) pontja szerinti személyes adatát a jogosultság megszűnésétől számított,
 
 b) a beléptető rendszerben keletkezett, a be- és kilépés helyét és időpontját, valamint a belépést kezdeményező személy nevét rögzítő adatokat (a továbbiakban: belépést dokumentáló adatok) a keletkezésüktől számított
 
 öt év elteltével törölni kell.
 
-(4) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben meghatározott épületekbe eseti belépési engedéllyel rendelkező személy
-
-a) családi nevét és utónevét,
-
-b) születési idejét, valamint
-
-c) a személyazonosításra alkalmas hatósági igazolvány típusát és okmányazonosítóját, illetve, ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor az okmányt kiállító ország megnevezését és a belépő személy állampolgárságát is.
+(4) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben meghatározott épületekbe eseti belépési engedéllyel rendelkező személy (1) bekezdés a), b), e) és g) pontja szerinti adatait, valamint a belépését kezdeményező személy nevét.
 
 (5) A (4) bekezdés szerinti eseti belépési engedéllyel rendelkező személy valamennyi személyes adatát, továbbá a belépést dokumentáló adatokat a belépés napjától számított öt év elteltével törölni kell.
 
@@ -54,19 +48,23 @@ c) a személyazonosításra alkalmas hatósági igazolvány típusát és okmán
 
 a) családi nevét és utónevét,
 
-b) a gépjármű típusát, színét és forgalmi rendszámát.
+b) gépjárművének típusát, színét és forgalmi rendszámát.
+
+c) be- és kihajtásának helyét és idejét rögzítő adatokat, valamint
+
+d) behajtását kezdeményező személy nevét.
 
 (8) A (7) bekezdésben meghatározott nyilvántartásból az állandó behajtási engedéllyel rendelkező személy esetében
 
-a) a (7) bekezdés szerinti személyes adatot a jogosultság megszűnésétől számított,
+a) a (7) bekezdés a) és b) pontja szerinti személyes adatot a jogosultság megszűnésétől számított,
 
-b) a nyilvántartási rendszerben keletkezett, a belépést dokumentáló adatokat a keletkezésüktől számított
+b) a (7) bekezdés c) és d) pontja szerinti adatokat a keletkezésüktől számított
 
 öt év elteltével törölni kell.
 
-(9) A (7) bekezdésben meghatározott nyilvántartásból az eseti behajtási engedéllyel rendelkező személy valamennyi személyes adatát, továbbá a belépést dokumentáló adatokat a belépés napjától számított öt év elteltével törölni kell.
+(9) A (7) bekezdésben meghatározott nyilvántartásból az eseti behajtási engedéllyel rendelkező személy valamennyi adatát a behajtás napjától számított öt év elteltével törölni kell.
 
-(10) A beléptető rendszer, valamint a Kossuth tér felszín alatti mélygarázsba behajtást nyilvántartó rendszer a belépő személyről, illetve a be- és kihajtó gépjárműről a belépési, illetve a behajtási jogosultság ellenőrzése, a belépő személy vagy a behajtó gépjármű azonosságának megállapítása, és az ezzel kapcsolatos visszaélések megelőzése vagy megszüntetése érdekében a belépés vagy be- és kihajtás időpontjában pillanatfelvételt készít. A pillanatfelvételt a (3) bekezdés b) pontjában és a (8) bekezdés b) pontjában meghatározott határidő elteltével törölni kell.
+(10) A beléptető rendszer, valamint a Kossuth tér felszín alatti mélygarázsba behajtást nyilvántartó rendszer a be- és kilépő személyről, illetve a be- és kihajtó gépjárműről a belépési, illetve a behajtási jogosultság ellenőrzése, a be- és kilépő személy vagy a be- és kihajtó gépjármű azonosságának megállapítása, és az ezzel kapcsolatos visszaélések megelőzése vagy megszüntetése érdekében a be- és kilépés vagy be- és kihajtás időpontjában pillanatfelvételt készít. A pillanatfelvételt a (3) bekezdés b) pontjában és a (8) bekezdés b) pontjában meghatározott határidő elteltével törölni kell.
 
 (11) Az (1), (2), (4), (7) és (10) bekezdésben meghatározott adatokból – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a nyomozó hatóság, a Rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
 

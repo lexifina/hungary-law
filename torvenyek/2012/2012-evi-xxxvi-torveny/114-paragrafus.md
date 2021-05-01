@@ -1,6 +1,6 @@
 114. § (1) A képviselőcsoport – működésének, valamint a képviselők képviselői tevékenységének biztosítására –
 
-a) térítésmentesen az Országházban vagy az Országgyűlés Irodaházában irodákra,
+a) térítésmentesen az Országházban vagy az Országgyűlés Hivatala elhelyezésére szolgáló épületekben irodákra,
 
 b) a képviselőcsoport működéséhez, valamint a képviselők képviselői tevékenységéhez szükséges irodai berendezésre és felszerelésre,
 

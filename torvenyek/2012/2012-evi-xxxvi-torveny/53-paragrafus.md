@@ -4,7 +4,7 @@
 
 (2) Az ülést vezető elnök az Országgyűlési Őrséggel kivezettetheti az ülésteremből azt a 46/G. § alapján kitiltott képviselőt, aki az ülést vezető elnök felszólítása ellenére sem hagyja el a termet.
 
-(3) Az Országgyűlési Őrség gondoskodik arról, hogy a kitiltott képviselő a kitiltás időtartama alatt – a 49/A. § (4) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – ne léphessen be az Országházba, az Országgyűlés Irodaházába, továbbá az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére.
+(3) Az Országgyűlési Őrség gondoskodik arról, hogy a kitiltott képviselő a kitiltás időtartama alatt – a 49/A. § (4) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – ne léphessen be az Országházba, továbbá az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére.
 
 (4) Az a képviselő, akivel szemben az ülést vezető elnök rendészeti intézkedést alkalmazott, kifogást nyújthat be a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottsághoz, amely nyolc napon belül – az 51. § (4) bekezdésének alkalmazásával – kivizsgálja a kifogást, és vizsgálatának eredményéről jelentést tesz az Országgyűlésnek.
 
