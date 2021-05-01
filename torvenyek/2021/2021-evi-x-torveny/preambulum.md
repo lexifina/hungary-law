@@ -1,0 +1,1 @@
+A Budapesti Gazdasági Egyetem stratégiai céljainak, a Közép-Európa vezető alkalmazott tudományok egyeteme szerepének eléréséhez szükséges új fejlődési pályára állítása, megújítása érdekében az Országgyűlés a következő törvényt alkotja:
