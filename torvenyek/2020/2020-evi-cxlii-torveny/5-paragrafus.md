@@ -16,7 +16,7 @@
 
 (8) Az Egyetem közfeladatainak ellátása érdekében a 4. melléklet szerinti ingatlanok, valamint ingatlanrészek e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként ingyenesen, az Egyetem vagyonkezelésébe kerülnek.
 
-(9) A közfeladat ellátása érdekében a 4. melléklet szerinti ingatlanok kapcsán a vagyonkezelési szerződést az adott ingatlan tulajdonosi joggyakorlója köti meg az Egyetemmel, az esetlegesen szükséges minősítési eljárások lefolytatását követően.
+(9) A közfeladat ellátása érdekében a 4. melléklet szerinti ingatlanok kapcsán az Egyetem vagyonkezelői joga tekintetében vagyonkezelői szerződés megkötése nem szükséges.
 
 (10) Az Egyetem a Vtv. 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül. Az Egyetem által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
 
@@ -27,3 +27,7 @@
 (13) Az Egyetemre nézve a tulajdonosi joggyakorló mindenkor hatályos vagyonnyilvántartási és tulajdonosi ellenőrzési szabályzata külön elfogadás nélkül is kötelező. Az Egyetem köteles a vagyonkezelésében álló állami vagyont – az e törvény alapján történő vagyonkezelésbe adás jogcímén – nyilvántartásba venni, és arról a Vhr. szerint adatot szolgáltatni a tulajdonosi joggyakorló részére.
 
 (14) Az 5. mellékletben foglalt táblázatban meghatározott ingatlanok esetében, amennyiben az Egyetem valamely jogelődjét tartalmazza az ingatlan-nyilvántartás tulajdonosként, az ingatlanügyi hatóság az Egyetem tulajdonjogát az ingatlan-nyilvántartásba az Egyetem tulajdonjog-bejegyzési kérelmére, annak egyoldalú jognyilatkozata alapján jegyzi be.
+
+(15) A 3. melléklet szerinti ingatlanok vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint az (5) bekezdés szerinti ingóságok vonatkozásában a (6) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az ingatlan-nyilvántartásba be nem jegyezhető – ingyenes használati jog illeti meg.
+
+(16) A Békésszentandrás 0151/1 és a Kaposvár 3656/2 helyrajzi számú ingatlanokat a művelési ág változást követően az Egyetem tulajdonába kell adni.

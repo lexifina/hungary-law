@@ -142,6 +142,26 @@ kivett gazdasági épület, udvar, út
 
 |
 
+6a.
+
+|
+
+BŐSZÉNFA
+
+|
+
+064/2/a
+
+|
+
+71820/131580
+
+|
+
+kivett lakóház, udvar
+
+|
+
 7.
 
 |
@@ -739,3 +759,23 @@ SZARVAS
 |
 
 garázs
+
+|
+
+37.
+
+|
+
+KAPOSVÁR
+
+|
+
+0320/11/b
+
+|
+
+1/1
+
+|
+
+kivett lakóház, udvar

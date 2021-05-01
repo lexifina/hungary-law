@@ -704,6 +704,26 @@ BUDAPEST
 
 |
 
+34a.
+
+|
+
+BUDAPEST
+
+|
+
+4938
+
+|
+
+1/1
+
+|
+
+kivett egyetem
+
+|
+
 35.
 
 |
@@ -721,6 +741,26 @@ BUDAPEST
 |
 
 kivett oktatási intézmény
+
+|
+
+35a.
+
+|
+
+BUDAPEST
+
+|
+
+5094
+
+|
+
+1/1
+
+|
+
+kivett egyetem
 
 |
 
@@ -3304,6 +3344,46 @@ kivett saját használatú út
 
 |
 
+164a.
+
+|
+
+GÖDÖLLŐ
+
+|
+
+4936
+
+|
+
+1/1
+
+|
+
+kivett saját használatú út
+
+|
+
+164b.
+
+|
+
+GÖDÖLLŐ
+
+|
+
+4937
+
+|
+
+1/1
+
+|
+
+kivett beépített terület (kollégium)
+
+|
+
 165.
 
 |
@@ -4781,6 +4861,26 @@ KAPOSVÁR
 |
 
 kivett lakóház, udvar, gazdasági épület
+
+|
+
+238a.
+
+|
+
+KAPOSVÁR
+
+|
+
+0293/8
+
+|
+
+1/1
+
+|
+
+kivett saját használatú út
 
 |
 
@@ -6504,6 +6604,26 @@ egyéb helyiség
 
 |
 
+324a.
+
+|
+
+SZARVAS
+
+|
+
+204
+
+|
+
+1/1
+
+|
+
+kivett kollégium
+
+|
+
 325.
 
 |
@@ -6681,6 +6801,26 @@ SZARVAS
 |
 
 panzió
+
+|
+
+333a.
+
+|
+
+SZARVAS
+
+|
+
+5301
+
+|
+
+1/1
+
+|
+
+kivett egyetem
 
 |
 
@@ -6961,3 +7101,125 @@ TÖRÖKBÁLINT
 |
 
 kivett kollégium
+
+|
+
+348.
+
+|
+
+GÖDÖLLŐ
+
+|
+
+4937/A.
+
+|
+
+1/1
+
+|
+
+földhasználati jog alapján létesült kollégium
+
+|
+
+349.
+
+|
+
+KAPOSVÁR
+
+|
+
+0291
+
+|
+
+1/1
+
+|
+
+kivett saját használatú út
+
+|
+
+350.
+
+|
+
+KAPOSVÁR
+
+|
+
+0451/7
+
+|
+
+1/1
+
+|
+
+kivett gázfáklya
+
+|
+
+351.
+
+|
+
+KAPOSVÁR
+
+|
+
+0481/19
+
+|
+
+1/1
+
+|
+
+a. kivett ipartelep
+
+b. kivett szennyvíztisztító
+
+|
+
+352.
+
+|
+
+KAPOSVÁR
+
+|
+
+3661/12
+
+|
+
+1/1
+
+|
+
+kivett saját használatú út
+
+|
+
+353.
+
+|
+
+TISZAKÉCSKE
+
+|
+
+0212/3
+
+|
+
+1/1
+
+|
+
+kivett üzem
