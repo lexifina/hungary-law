@@ -8,6 +8,6 @@
 
 (4) A 2. melléklet szerinti ingatlanok tulajdonjogát az MCC Alapítvány a terhekkel együtt szerzi meg.
 
-(5) Az MCC Alapítvány jogosult a tulajdonába adott, 2. melléklet szerinti ingatlanokat hasznosítani. Ha az MCC Alapítvány a tulajdonába adott, 2. melléklet szerinti ingatlanokat értékesíti, az ingatlanok tulajdonjogának átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az MCC tv. 2. §-ban meghatározott célok és feladatok megvalósítására köteles fordítani.
+(5) Az MCC Alapítvány jogosult a tulajdonába adott, 2. melléklet szerinti ingatlanokat hasznosítani. Ha az MCC Alapítvány a tulajdonába adott, 2. melléklet szerinti ingatlanokat értékesíti, az ingatlanok tulajdonjogának átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVAtv. 1. mellékletében meghatározott közfeladatai ellátására és közérdekű céljai megvalósítására köteles fordítani.
 
 (6) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.

@@ -2,4 +2,4 @@
 
 (2) A 8. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
-(3) A Polgári Művelődésért Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik.
+(3)
