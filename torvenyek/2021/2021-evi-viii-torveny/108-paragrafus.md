@@ -13,11 +13,3 @@
 (7) A 24. § a) pontja az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (8) A 106. § a) és c) pontja az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
