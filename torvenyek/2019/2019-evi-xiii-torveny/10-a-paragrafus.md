@@ -1,3 +1,1 @@
-10/A. § (1) A vagyonkezelő alapítvány részére teljesíthető pénzbeli vagyoni juttatás. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében teljesített pénzbeli vagyoni juttatás nem minősül külön törvény szerinti támogatásnak, az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet és pályázati támogatásban részesülhet.
-
-(2) Az (1) bekezdés szerinti vagyoni juttatás teljes körű felhasználásáig a közérdekű vagyonkezelő alapítvány bemutatja e pénzbeli vagyoni juttatás felhasználását, aminek a számviteli törvény szerinti éves beszámolójában tesz eleget.
+10/A. §
