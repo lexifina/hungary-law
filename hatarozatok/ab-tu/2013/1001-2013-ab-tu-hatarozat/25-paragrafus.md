@@ -22,11 +22,11 @@ d) a beadvány nem felel meg a törvényben előírt alaki vagy tartalmi követe
 
 (5)[^14] Jogi képviselő meghatalmazása esetén a szabályszerű meghatalmazást a beadványhoz csatolni kell, annak elmaradása vagy az ügyrend rendelkezéseitől eltérő módon történő benyújtása hiánypótlásra okot adó körülmény.
 
-(6)[^15] Ha a beadványozó a (3)–(4) bekezdésben meghatározott tájékoztatás és a hiánypótlásra való felhívás ellenére a hiányt – a megadott határidőben – nem pótolja, az Alkotmánybíróság az eljárást megszünteti; az (5) bekezdésben meghatározott hiány esetén az Alkotmánybíróság az eljárását úgy folytatja le, mintha a jogi képviselői meghatalmazás nem jött volna létre, az indítványozót erről értesíti, és az indítványozó személyes eljárása alapján a tájékoztatást és közlést a továbbiakban az indítványozó részére küldi meg.
+(6)[^15] Az (5) bekezdésben meghatározott hiány esetén az Alkotmánybíróság az eljárását úgy folytatja le, mintha a jogi képviselői meghatalmazás nem jött volna létre, az indítványozót erről értesíti, és az indítványozó személyes eljárása alapján a tájékoztatást és közlést a továbbiakban az indítványozó részére küldi meg.
 
 (7)[^16] Ha az alkotmányjogi panaszt az Abtv. 53. § (2) bekezdésétől eltérően közvetlenül az Alkotmánybíróságnál nyújtották be, és az ügyben első fokon eljárt bíróság a beadvány tartalmából megállapítható, a beadványt a főtitkár – Ve. és Nsztv. szerinti eljárások kivételével – megküldi a bíróságnak.
 
 [^13]: A 25. § (4) bekezdése az 1003/2015. (VII. 21.) AB Tü. határozat 1. §-a szerint módosított szöveg.
 [^14]: A 25. § (5) bekezdése az 1003/2013. (XII. 21.) AB TÜ. határozat 2. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.
-[^15]: A 25. § (6) bekezdése az 1003/2013. (XII. 21.) AB TÜ. határozat 2. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.
+[^15]: A 25. § (6) bekezdése az 1003/2021. (IV. 7.) AB Tü. határozat 1. §-ával megállapított szöveg. Alkalmazására lásd e módosító határozat 10. §-át.
 [^16]: A 25. § (7) bekezdése az 1001/2014. (III. 20.) AB Tü. határozat 4. §-ával megállapított szöveg. E módosító határozat 8. § (3) bekezdése lapján az Ügyrend-módosítás szabályai a hatálybalépésekor folyamatban lévő eljárások tekintetében is alkalmazandóak.
