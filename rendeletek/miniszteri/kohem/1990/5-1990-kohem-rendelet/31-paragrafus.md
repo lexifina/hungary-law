@@ -40,7 +40,7 @@
 
 10.[^360] a 715/2007/EK európai parlamenti és tanácsi rendeletnek, valamint a 692/2008/EK bizottsági rendeletnek a járműjavítási és – karbantartási információk elérhetősége tekintetében történő módosításáról szóló, 2011. június 8-i 566/2011/EU bizottsági rendelet,
 
-11.[^361] a gumiabroncsok üzemanyag-hatékonyság és más lényeges paraméterek tekintetében történő címkézéséről szóló, 2009. november 25-i 1222/2009/EK európai parlamenti és tanácsi rendelet,
+11.[^361] a gumiabroncsok üzemanyag-hatékonyság és más paraméterek tekintetében történő címkézéséről, az (EU) 2017/1369 rendelet módosításáról és az 1222/2009/EK rendelet hatályon kívül helyezéséről szóló, 2020. május 25-i (EU) 2020/740 európai parlamenti és tanácsi rendelet,
 
 12.[^362] az új könnyű haszongépjárművek nyilvántartásba vett adatainak az 510/2011/EU európai parlamenti és tanácsi rendelet szerinti ellenőrzéséről és bejelentéséről szóló, 2012. április 3-i 293/2012/EU bizottsági végrehajtási rendelet,
 
@@ -149,7 +149,7 @@
 [^358]: A 31. § (2) bekezdés 8. pontját a 62/2011. (XI. 29.) NFM rendelet 13. § (3) bekezdése iktatta be.
 [^359]: A 31. § (2) bekezdés 9. pontját a 62/2011. (XI. 29.) NFM rendelet 13. § (3) bekezdése iktatta be, szövege a 30/2014. (VI. 27.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^360]: A 31. § (2) bekezdés 10. pontját a 22/2012. (V. 8.) NFM rendelet 10. § (4) bekezdése iktatta be.
-[^361]: A 31. § (2) bekezdés 11. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be.
+[^361]: A 31. § (2) bekezdés 11. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be, szövege a 2/2021. (I. 14.) ITM rendelet 2. §-ával megállapított szöveg.
 [^362]: A 31. § (2) bekezdés 12. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be.
 [^363]: A 31. § (2) bekezdés 13. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be.
 [^364]: A 31. § (2) bekezdés 14. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be.

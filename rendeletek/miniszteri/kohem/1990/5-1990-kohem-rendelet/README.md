@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2021-01-31 | 1990-5-20-5E.96 | 50/2020. (XII. 17.) ITM rendelet |
 | 2021-03-06 | 1990-5-20-5E.97 | 12/2021. (III. 5.) ITM rendelet |
 | 2021-04-14 | 1990-5-20-5E.98 | 15/2021. (IV. 9.) ITM rendelet |
+| 2021-05-01 | 1990-5-20-5E.99 | 65/2012. (XII. 10.) NFM rendelet |
