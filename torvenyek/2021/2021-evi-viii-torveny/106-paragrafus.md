@@ -8,6 +8,6 @@ c)
 
 d)
 
-e) 9. §-a és 10. §-a,
+e)
 
-f) 1. mellékletében foglalt táblázat 20. sora.
+f)
