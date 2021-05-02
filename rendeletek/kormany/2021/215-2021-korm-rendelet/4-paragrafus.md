@@ -1,7 +1,3 @@
-## 4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 11. §-ában az „és 10.” szövegrész,
-
-b) 11. § g) pontja,
-
-c) 22. § (2) bekezdésében az „a 10. § (6) bekezdése,” szövegrész.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
