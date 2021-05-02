@@ -1,5 +1,3 @@
-## 2. § Az Ügyrend 27. § (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+## 2. §[^2]
 
-## „(1) Az indítványozó jogi képviselőként ügyvédet, ügyvédi irodát, európai közösségi jogászt, illetve kamarai jogtanácsost hatalmazhat meg.
-
-## (2) A képviseleti jogosultságot az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény rendelkezései szerint kell igazolni.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

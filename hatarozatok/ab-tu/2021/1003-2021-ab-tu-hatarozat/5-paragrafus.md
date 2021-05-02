@@ -1,3 +1,3 @@
-## 4. § Az Ügyrend 31. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^4]
 
-## „(5) A végzést az indítványozóval, valamint az elsőfokú bírósággal kell közölni. A panasz befogadásáról az előadó alkotmánybíró – a Ve. és Nsztv. szerinti eljárások kivételével – az indítványozót, az ellenérdekű felet és az elsőfokú bíróságot értesíti, más érdekeltet értesíthet.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

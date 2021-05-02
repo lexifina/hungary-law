@@ -1,3 +1,3 @@
-## 7. § Az Ügyrend 45. § (1) bekezdés második mondata helyébe a következő rendelkezés lép:
+## 7. §[^7]
 
-## „A felfüggesztő végzést és az eljárás folytatását elrendelő végzést az Alkotmánybíróság hivatalos honlapján és hivatalos lapjában közzé kell tenni, és arról tájékoztatni kell az indítványozót, alkotmányjogi panasz esetében az elsőfokú bíróságot, valamint az egyéb érdekelteket.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
