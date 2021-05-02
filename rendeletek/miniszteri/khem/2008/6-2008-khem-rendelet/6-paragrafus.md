@@ -1,6 +1,6 @@
 ## Az értékesített villamos energia elsődleges energiaforrások szerinti eredetére vonatkozó adatok gyűjtése és szolgáltatása
 
-6. § (1) A villamos energia – az 1. § (2) bekezdés b) pontja szerinti – eladója köteles az általa értékesített összes villamos energia termeléséhez ténylegesen felhasznált elsődleges energiaforrások részarányát a tárgyévre vonatkozóan megállapítani. A tárgyév megegyezik a naptári évvel.
+6. § (1)[^5] A villamos energia – az 1. § (2) bekezdés b) pontja szerinti – eladója köteles az általa értékesített összes villamos energia termeléséhez ténylegesen felhasznált minden egyes energiaforrás részarányát a tárgyévre, valamint az előző évre vonatkozóan megállapítani. A tárgyév megegyezik a naptári évvel.
 
 (2) A villamos energia eladója köteles a felhasználót az (1) bekezdés szerinti részarányról, ezen információ forrásáról, valamint az értékesített villamos energia termelése során felhasznált elsődleges energiaforrás környezeti hatásairól tájékoztatni.
 
@@ -33,3 +33,5 @@ b) ha az a) pont adatai nem állnak rendelkezésre, az érintett ország tárgy�
 ## kell alapul venni.
 
 (10) A (9) bekezdés a) pont ab) alpontjában, valamint b) pontjában meghatározott adatokat és a becsült értékeket – az adatszolgáltatás megkezdése előtt – tájékoztatásul be kell nyújtani a Hivatalnak.
+
+[^5]: A 6. § (1) bekezdése a 21/2021. (IV. 29.) ITM rendelet 2. §-ával megállapított szöveg.
