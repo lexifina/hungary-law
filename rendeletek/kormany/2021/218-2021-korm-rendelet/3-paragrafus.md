@@ -1,3 +1,3 @@
-## 2. § A Korm. rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 1–2. §[^2]
 
-## „(1) A kereskedő a működési engedély megadását követően az 1. melléklet B) pontjában megjelölt adatokban bekövetkezett változást haladéktalanul, illetve a nyitvatartási idő hosszabb ideig, de legalább egy hétig fennálló változását az azt megelőző nyolc napon belül köteles bejelenteni a jegyzőnek. A nyitvatartási idő rövidebb ideig fennálló, egy hetet el nem érő változása esetén bejelentési kötelezettség nem terheli a kereskedőt. A nyitvatartási idő rövidebb ideig fennálló, egy hetet el nem érő változása a nyilvántartásban feltüntetett nyitvatartási időnél csak rövidebb lehet. A kereskedő a nyitvatartási idő rövidebb ideig fennálló, egy hetet el nem érő változásáról a nyitvatartási idő kifüggesztésével köteles tájékoztatni a vásárlót.”
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
