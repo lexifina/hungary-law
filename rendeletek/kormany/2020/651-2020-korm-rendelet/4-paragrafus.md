@@ -1,7 +1,3 @@
-## 3. § A KR. 26. § (2) bekezdés w) pontja helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## (Ez a rendelet)
-
-## „w) a gumiabroncsok üzemanyag-hatékonyság és más paraméterek tekintetében történő címkézéséről, az (EU) 2017/1369 rendelet módosításáról és az 1222/2009/EK rendelet hatályon kívül helyezéséről szóló, 2020. május 25-i (EU) 2020/740 európai parlamenti és tanácsi rendelet,”
-
-## (végrehajtásához szükséges rendelkezéseket állapítja meg.)
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
