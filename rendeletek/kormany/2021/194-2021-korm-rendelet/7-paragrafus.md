@@ -1,3 +1,3 @@
-## 6. § Az R1. 7. alcíme a következő 13/A. §-sal egészül ki:
+## 6. §[^7]
 
-## „13/A. § Ezen alcím alkalmazásában látogatáson a 12. § (1) bekezdésében meghatározott helyszínen nyújtott szolgáltatás igénybevételét vagy a helyszín rendeltetésszerű használatának megkezdését kell érteni.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

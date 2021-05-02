@@ -1,3 +1,3 @@
-## 7. § Az R1. 13. alcíme a következő 23/A. §-sal egészül ki:
+## 7. §[^8]
 
-## „23/A. § A védettségi igazolvány közokirat, a hamis, hamisított vagy más nevére szóló valódi védettségi igazolvány felhasználására a hamis, hamisított vagy más nevére szóló valódi közokirat felhasználására vonatkozó jogkövetkezmények irányadóak.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
