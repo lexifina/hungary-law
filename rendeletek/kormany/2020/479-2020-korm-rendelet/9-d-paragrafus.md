@@ -1,4 +1,4 @@
-## 6/D. [^10] A köznevelési intézményekben, a szakképző intézményekben és a bölcsődei ellátásban foglalkoztatottak önkéntes koronavírus elleni védőoltással kapcsolatos tájékoztatása
+## 6/D. [^16] A köznevelési intézményekben, a szakképző intézményekben és a bölcsődei ellátásban foglalkoztatottak önkéntes koronavírus elleni védőoltással kapcsolatos tájékoztatása
 
 9/D. § (1) A köznevelési intézményekben, a szakképző intézményekben és a bölcsődei ellátásban munkavégzésre irányuló jogviszonyban foglalkoztatott személyek (a továbbiakban: foglalkoztatottak) koronavírus-fertőzésnek való kitettségének csökkentése érdekében a védőoltás igénybevétele és az ahhoz szükséges regisztráció céljából tájékoztatást küld
 
@@ -24,4 +24,4 @@ c) a MÁK – a bölcsődék szakmai irányítását ellátóval egyeztetve – 
 
 (8) A NEAK a köznevelési intézményekben, a szakképző intézményekben és a bölcsődei ellátásban foglalkoztatott személyek viselt nevét, születési nevét, lakcímét, születési helyét és idejét, valamint Társadalombiztosítási Azonosító Jelét a védőoltással kapcsolatos feladatai ellátása céljából kezeli.
 
-[^10]: A 6/D. alcímet (9/D. §) a 146/2021. (III. 27.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 6/D. alcímet (9/D. §) a 146/2021. (III. 27.) Korm. rendelet 1. §-a iktatta be.
