@@ -2,14 +2,14 @@
 
 ## és gyógykezelése
 
-27. §[^135] (1) A fertőző betegség vagy annak gyanúja esetén a betegség és a fertőzőképesség megállapításához szükséges, az 1. számú mellékletben felsorolt járványügyi érdekből kötelező laboratóriumi vizsgálatokat minden esetben el kell végeztetni.
+27. §[^136] (1) A fertőző betegség vagy annak gyanúja esetén a betegség és a fertőzőképesség megállapításához szükséges, az 1. számú mellékletben felsorolt járványügyi érdekből kötelező laboratóriumi vizsgálatokat minden esetben el kell végeztetni.
 
 (2) Fertőző betegtől vagy arra gyanús személytől származó, laboratóriumi vizsgálatra vett anyagot csak az e célra rendszeresített mintavételi eszközben szabad továbbítani.
 
-(3)[^136] A mintavételi eszközt az a laboratórium biztosítja, melyben a vizsgálatot végzik. A mikrobiológiai referencia laboratóriumokban végzendő vizsgálatokhoz a tartályt a járási hivatal bocsátja az egészségügyi szolgáltató rendelkezésére.
+(3)[^137] A mintavételi eszközt az a laboratórium biztosítja, melyben a vizsgálatot végzik. A mikrobiológiai referencia laboratóriumokban végzendő vizsgálatokhoz a tartályt a járási hivatal bocsátja az egészségügyi szolgáltató rendelkezésére.
 
-(4)[^137] Amennyiben az 1. számú mellékletben nevesített fertőző betegségben szenvedő személy nem veti magát alá a gyógykezelésnek, a járási hivatal az Eütv. 56. § (2) bekezdésében foglaltak alapján az érintettet a gyógykezelésre határozattal kötelezheti.
+(4)[^138] Amennyiben az 1. számú mellékletben nevesített fertőző betegségben szenvedő személy nem veti magát alá a gyógykezelésnek, a járási hivatal az Eütv. 56. § (2) bekezdésében foglaltak alapján az érintettet a gyógykezelésre határozattal kötelezheti.
 
-[^135]: A 27. § a 21/2012. (IV. 4.) NEFMI rendelet 17. §-ával megállapított szöveg.
-[^136]: A 27. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
-[^137]: A 27. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
+[^136]: A 27. § a 21/2012. (IV. 4.) NEFMI rendelet 17. §-ával megállapított szöveg.
+[^137]: A 27. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
+[^138]: A 27. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.

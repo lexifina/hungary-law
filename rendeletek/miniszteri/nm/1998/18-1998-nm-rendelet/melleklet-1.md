@@ -1,6 +1,6 @@
-## 44. §[^204]
+## 44. §[^205]
 
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^205]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^206]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -6782,17 +6782,5 @@ Szigorított folyamatos és szigorított zárófertőtlenítést szükséges vé
 
 3.1. A beteggel kontaktusba kerültek felkutatása:
 
-Kötelező.
-
-3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
-
-Nem szükséges.
-
-3.3. Járványügyi megfigyelés:
-
-Azon személyt, aki olyan beteggel, annak légúti váladékával került szoros kontaktusba, aki az esetdefiníció szerint gyanúsíthatóan, valószínűsíthetően vagy igazoltan e súlyos légúti tünetegyüttesben szenved, a beteggel történt utolsó kontaktustól számított 10 napra járványügyi megfigyelés alá kell helyezni. Ezen időszak alatt otthonában kell tartózkodnia, lázát naponta kell mérnie, és jeleznie kell kezelőorvosának, ha egészségi állapotában bármilyen változás áll be.
-
-3.4. Postexpozíciós profilaxis:
-
-[^204]: A 44. §-t a 10/2020. (III. 14.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 17/2020. (IV. 30.) EMMI rendelet 2. § a) pontja.
-[^205]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^205]: A 44. §-t a 10/2020. (III. 14.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 17/2020. (IV. 30.) EMMI rendelet 2. § a) pontja.
+[^206]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
