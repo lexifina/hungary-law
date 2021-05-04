@@ -24,13 +24,13 @@ Felelős: közlekedési infrastrukturális fejlesztésekért felelős kormánybi
 
 Határidő: a fővárosi HÉV vonalakra vonatkozó egységes fejlesztési stratégia és program előkészítése során folyamatosan
 
-4. a 2. pontban meghatározott beruházások előkészítésének kormányzati felelőseként az egyes kiemelt budapesti beruházásokért felelős kormánybiztost (a továbbiakban: kormánybiztos) jelöli ki, és felhívja a kormánybiztost, hogy felkérés alapján Budapest Főváros Önkormányzata és az illetékes kerületi önkormányzatok közreműködésével gondoskodjon a 2. pont szerinti feladatok elvégzéséről, a szükséges tervpályázatok és közbeszerzési eljárások lefolytatásáról;
+4.[^1] a 2. pont e) alpont kivételével a 2. pontban meghatározott beruházások előkészítésének kormányzati felelőseként az egyes kiemelt budapesti beruházásokért felelős kormánybiztost (a továbbiakban: kormánybiztos) jelöli ki, és felhívja a kormánybiztost, hogy felkérés alapján Budapest Főváros Önkormányzata és az illetékes kerületi önkormányzatok közreműködésével a 2. pont e) alpont kivételével gondoskodjon a 2. pont szerinti feladatok elvégzéséről, a szükséges tervpályázatok és közbeszerzési eljárások lefolytatásáról;
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
 Határidő: folyamatos
 
-5. felhívja a kormánybiztost, hogy az emberi erőforrások miniszterével, valamint felkérés alapján Budapest Főváros Önkormányzata és az illetékes kerületi önkormányzatok közreműködésével gondoskodjon az 1. pontban lehatárolt térségnek – különös tekintettel a Budapest Diákváros területének – a mestertervét, valamint a telepítési, tájolási, urbanisztikai és közlekedési viszonyokat, a kötelező és opcionális funkciókat is tisztázó helyszínrajzokat készítő építésziroda kiválasztásához szükséges nemzetközi tervpályázati eljárás lefolytatásáról, a legjobbnak ítélt pályaművet készítő pályázóval történő szerződés megkötéséről, a végleges helyszínrajzok elkészítéséről, valamint a kidolgozott mestertervről és a helyszínrajzokról készítsen jelentést a Kormány részére;
+5.[^2] felhívja a kormánybiztost, hogy az emberi erőforrások miniszterével, valamint felkérés alapján Budapest Főváros Önkormányzata és az illetékes kerületi önkormányzatok közreműködésével gondoskodjon az 1. pontban lehatárolt térségnek – kivéve a Budapest Diákváros területének – a mestertervét, valamint a telepítési, tájolási, urbanisztikai és közlekedési viszonyokat, a kötelező és opcionális funkciókat is tisztázó helyszínrajzokat készítő építésziroda kiválasztásához szükséges nemzetközi tervpályázati eljárás lefolytatásáról, a legjobbnak ítélt pályaművet készítő pályázóval történő szerződés megkötéséről, a végleges helyszínrajzok elkészítéséről, valamint a kidolgozott mestertervről és a helyszínrajzokról készítsen jelentést a Kormány részére;
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
@@ -66,11 +66,11 @@ Határidő: 2018. december 31.
 
 9. a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet [a továbbiakban: 222/2017. (VIII. 11.) Korm. rendelet] 2. § (2) bekezdés m) pontjában foglalt előkészítési fázisra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt – a 2. pont a) alpontjában meghatározott beruházás tekintetében 281 000 000 forint, a 2. pont b) alpontjában meghatározott beruházás tekintetében 292 000 000 forint és a 2. pont c) alpontjában meghatározott beruházás tekintetében 2 427 000 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy a támogatott előkészítési fázisokat legkésőbb 2018. december 31-ig kell megvalósítani;
 
-10.[^1]
+10.[^3]
 
-11.[^2]
+11.[^4]
 
-11a.[^3] egyetért azzal, hogy – a 9. és 11. ponttól eltérően – a 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés f), j), k), l) és m) pontjában foglalt előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt –
+11a.[^5] egyetért azzal, hogy – a 9. és 11. ponttól eltérően – a 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés f), j), k), l) és m) pontjában foglalt előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt –
 
 a) a 2. pont b) alpontjában meghatározott beruházás tekintetében 275 789 899 forint,
 
@@ -82,7 +82,7 @@ forrás kerüljön felhasználásra;
 
 13. felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter közreműködésével gondoskodjon a 2. pontban meghatározott beruházások előkészítésével összefüggő feladatok – a Beruházás Előkészítési Alap terhére nem támogatott előkészítési fázisok tekintetében, a 9. pontban biztosított forráson felül történő – finanszírozása érdekében, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt
 
-a)[^4] a 2018. évben 4 249 000 000 forint, a 2019. évben 12 230 000 000 forint, a 2020. évben 10 258 000 000 forint, a 2021. évben 6 876 000 000 forint és a 2022. évben 1 270 000 000 forint forrás biztosításáról a központi költségvetés XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 5. Kemény Ferenc Program jogcím javára a KKBK Nonprofit Zrt. részére felhasználható módon.
+a)[^6] a 2018. évben 4 249 000 000 forint, a 2019. évben 12 230 000 000 forint, a 2020. évben 10 258 000 000 forint, a 2021. évben 6 876 000 000 forint és a 2022. évben 1 270 000 000 forint forrás biztosításáról a központi költségvetés XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 5. Kemény Ferenc Program jogcím javára a KKBK Nonprofit Zrt. részére felhasználható módon.
 
 Felelős: pénzügyminiszter
 
@@ -106,13 +106,13 @@ a 2019., a 2020. és a 2021. évi források tekintetében az adott évi központ
 
 15. felhívja a kormánybiztost, hogy
 
-a)[^5] készítsen jelentést a Kormány számára a 222/2017. (VIII. 11.) Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében, a 11a. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről,
+a)[^7] készítsen jelentést a Kormány számára a 222/2017. (VIII. 11.) Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében, a 11a. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről,
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
 Határidő: 2019. január 30.
 
-b)[^6] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásának kérdéséről;
+b)[^8] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásának kérdéséről;
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
@@ -124,16 +124,18 @@ Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
 Határidő: a 2. pontban meghatározott egyes beruházásokra vonatkozó előkészítési és tervezési feladat lezárulását követően azonnal
 
-17.[^7] felhívja a kormánybiztost, hogy – a 15. és a 16. pont figyelembevételével – készítsen jelentést és számoljon be a Kormány részére minden költségvetési évben egyszer a 2. pontban meghatározott beruházások előkészítésének előrehaladásáról, valamint – a 11a. pont figyelembevételével – a 9. pont és a 13. pont szerinti források felhasználásáról.
+17.[^9] felhívja a kormánybiztost, hogy – a 15. és a 16. pont figyelembevételével – készítsen jelentést és számoljon be a Kormány részére minden költségvetési évben egyszer a 2. pontban meghatározott beruházások előkészítésének előrehaladásáról, valamint – a 11a. pont figyelembevételével – a 9. pont és a 13. pont szerinti források felhasználásáról.
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
 Határidő: 2022-ig évente december 31-ig
 
-[^1]: A 10. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: A 11. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^3]: A 11a. pontot az 1502/2018. (X. 12.) Korm. határozat 2. pontja iktatta be.
-[^4]: A 13. pont a) alpontja az 1502/2018. (X. 12.) Korm. határozat 3. pontjával megállapított szöveg.
-[^5]: A 15. pont a) alpontja az 1502/2018. (X. 12.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
-[^6]: A 15. pont b) alpontja az 1502/2018. (X. 12.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^7]: A 17. pont az 1502/2018. (X. 12.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
+[^1]: A 4. pont az 1226/2021. (V. 4.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1226/2021. (V. 4.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 10. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 11. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: A 11a. pontot az 1502/2018. (X. 12.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 13. pont a) alpontja az 1502/2018. (X. 12.) Korm. határozat 3. pontjával megállapított szöveg.
+[^7]: A 15. pont a) alpontja az 1502/2018. (X. 12.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^8]: A 15. pont b) alpontja az 1502/2018. (X. 12.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^9]: A 17. pont az 1502/2018. (X. 12.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
