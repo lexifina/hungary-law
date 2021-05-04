@@ -1,3 +1,5 @@
+## nem csatolja, a hajózási hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a nyilvántartást vezető szervet.
+
 6. § (1)[^16] Az üzemeltetési engedély iránti kérelmet a hajózási hatósághoz kell benyújtani.
 
 (2)[^17] A 3. § (4) bekezdésének c) pontjában megjelölt útvonalra szóló üzemeltetési engedély iránti kérelemhez a Hortobágyi Nemzeti Park Igazgatósága által kiadott ökotúra-vezetői engedélyt mellékelni kell.

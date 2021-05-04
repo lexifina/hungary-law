@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-30-20-2
 | 2011-01-01 | 2003-30-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-03-14 | 2003-30-20-22.13 | 37/2015. (III. 6.) Korm. rendelet |
 | 2021-01-01 | 2003-30-20-22.14 | 722/2020. (XII. 31.) Korm. rendelet |
+| 2021-05-04 | 2003-30-20-22.15 | 223/2021. (V. 3.) Korm. rendelet |
