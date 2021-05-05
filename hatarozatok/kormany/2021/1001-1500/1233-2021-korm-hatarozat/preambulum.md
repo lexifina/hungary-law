@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló egyes beruházásokhoz kapcsolódó ingóságok beszerzéséről szóló 1491/2020. (VIII. 11.) Korm. határozat alapján a gazdagréti tanuszoda építéséről szóló 1081/2020. (III. 5.) Korm. határozatban foglaltak végrehajtása érdekében
