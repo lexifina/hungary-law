@@ -6,6 +6,9 @@ a)[^2] valamely miniszter (a továbbiakban: miniszter) irányítása alatt áll�
 
 b)[^3] a miniszter mint fejezetet irányító szerv irányítása alá tartozó előirányzatokból az a) pontba nem tartozó központi költségvetési szerv
 
+c)[^4] Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 41. § (6) bekezdése alapján létesített gazdálkodó szervezet, nonprofit szervezet vagy egyéb szervezet
+
 [^1]: Az 1. § nyitó szövegrésze a 652/2020. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § a) pontja a 652/2020. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^3]: Az 1. § b) pontja a 652/2020. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § c) pontja a 225/2021. (V. 4.) Korm. rendelet 1. §-a iktatta be.

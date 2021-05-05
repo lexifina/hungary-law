@@ -1,6 +1,6 @@
 ## 8. § E rendelet rendelkezéseit a hatálybalépését követően megkötött 6. § szerinti szerződésekre kell alkalmazni.
 
-1. melléklet az 51/2016. (III. 17.) Korm. rendelethez[^7]
+1. melléklet az 51/2016. (III. 17.) Korm. rendelethez[^10]
 
 Kijelölt építési beruházások
 
@@ -30,4 +30,10 @@ Kijelölt építési beruházások
 
 | 12. | A ZalaZONE Ipari Park Zrt. által Zalaegerszeg megyei jogú város és Egervár község közigazgatási területén megvalósított projekt |
 
-[^7]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
+| 13. | A Zalaegerszeg Megyei Jogú Város és a ZalaZONE Ipari Park Zártkörűen Működő Részvénytársaság együttműködésével Zalaegerszegen és Egervár község közigazgatási területén megvalósuló közműfejlesztési beruházások |
+
+| 14. | Budapesti Műszaki és Gazdaságtudományi Egyetem Innovációs és Fejlesztési Központ az ingatlan-nyilvántartás szerinti Budapest belterület 4107/24 helyrajzi számú ingatlanon |
+
+| 15. | Nemzeti Oltóanyaggyár és Nemzeti Koronavírus Oltóanyaggyár az ingatlan-nyilvántartás szerint Debrecen 0204/37 helyrajzi számú ingatlanon |
+
+[^10]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a, a 225/2021. (V. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
