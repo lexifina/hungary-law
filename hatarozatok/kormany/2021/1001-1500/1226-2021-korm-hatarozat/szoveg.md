@@ -46,10 +46,6 @@ Határidő: az 1.5. alpontban foglalt feladat végrehajtását követően azonna
 
 1.10. egyetért azzal, hogy a Déli Városkapu Fejlesztési Program, a Budapest Diákváros és a Fudan Hungary Egyetem megvalósításával összefüggő feladatokról szóló 1181/2021. (IV. 16.) Korm. határozat 3. pontjában foglalt lehatárolás oly módon történjen meg, hogy a Fudan Hungary Egyetem megvalósításához szükséges fejlesztési terület kialakítása állami vagyoni körön kívüli területek bevonását ne igényelje.
 
-2. A Kemény Ferenc Sportlétesítmény-fejlesztési Program, valamint egyéb dél-pesti és észak-csepeli beruházások előkészítése és megtervezése érdekében szükséges intézkedésekről szóló 2016/2017. (XII. 22.) Korm. határozat
+2.[^1]
 
-a) 4. pontjában a „2. pontban meghatározott” szövegrész helyébe a „2. pont e) alpont kivételével a 2. pontban meghatározott” szöveg, a „közreműködésével gondoskodjon” szövegrész helyébe a „közreműködésével a 2. pont e) alpont kivételével gondoskodjon” szöveg,
-
-b) 5. pontjában a „különös tekintettel” szövegrész helyébe a „kivéve” szöveg
-
-lép.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
