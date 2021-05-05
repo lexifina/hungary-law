@@ -41,3 +41,7 @@ Felelős: emberi erőforrások minisztere
 pénzügyminiszter
 
 Határidő: az adott évi központi költségvetés tervezése során
+
+7.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) és (4c) a) pontjában biztosított jogkörében eljárva a 6. pont a) alpontjában meghatározott összegen felül, a 6. pont b) és c) alpontjában meghatározott célok megvalósítása érdekében, az éven túli kötelezettségvállalás felső korlátját a 2022–2025. költségvetési évek vonatkozásában, négy évre összesen 7 000 000 000 forintban, évente 1 750 000 000 forintban állapítja meg, a Magyarország központi költségvetéséről szóló törvény XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 11. A Budapesti Tavaszi Fesztivál és a Budapesti Őszi Fesztivál megrendezésének támogatása jogcímcsoport vonatkozásában.
+
+[^1]: A 7. pontot az 1231/2021. (V. 5.) Korm. határozat 3. pontja iktatta be.
