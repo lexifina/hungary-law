@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében tervezett iskolafejlesztések előkészítéséhez szükséges további intézkedésekről szóló 1126/2019. (III. 13.) Korm. határozat 1. pont e) alpontjában foglalt beruházás megvalósítása érdekében
