@@ -44,6 +44,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 18. induló beruházás: a 651/2014/EU bizottsági rendelet 2. cikk 49. pontja szerinti beruházás,
 
+18a.[^1] kapcsolt vállalkozás: a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (3) bekezdése szerinti kapcsolt vállalkozás,
+
 19. kiskereskedelmi tevékenység: a Kertv. 2. § 13. pontja szerinti tevékenység,
 
 20. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerinti kis- és középvállalkozás,
@@ -83,3 +85,5 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 37. új vállalkozás: az a vállalkozás, amely nem rendelkezik lezárt üzleti évvel, vagy olyan támogatásra jogosult, amely az e rendelet hatálybalépését megelőző 12 hónapon belül jött létre,
 
 38. üzlet: a Kertv. 2. § 27. pontjában meghatározott épület, épületrész vagy helyiség.
+
+[^1]: A 2. § 18a. pontját a 226/2021. (V. 4.) Korm. rendelet 1. §-a iktatta be.

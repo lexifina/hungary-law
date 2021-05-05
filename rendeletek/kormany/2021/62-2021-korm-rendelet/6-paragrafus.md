@@ -36,22 +36,42 @@ ba) igazolja, hogy nem minősül nehéz helyzetben levő vállalkozásnak, kivé
 
 bb) igazolja, hogy nem áll rendezetlen támogatás-visszafizetési kötelezettség hatálya alatt valamely, az Európai Bizottság által hozott, állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján, nem szükséges azonban igazolás a 12. § (3) bekezdése szerinti esetben,
 
-bc) igazolja a 11. § (2) bekezdése szerint választott biztosíték rendelkezésre állását,
+bc)[^2] igazolja a 11. § (1) bekezdés a) pontjában meghatározott kötelező biztosíték rendelkezésre állását, ha azt a támogatói okirat tartalmazza,
 
 bd) ha a támogatás igénylője a postai közreműködői tevékenység, illetve a postai közreműködői tevékenységhez kapcsolódó egyéb, az egyetemes postai szolgáltató által meghatározott tevékenységet lát el, az erre vonatkozó szerződés másolatát bemutatja,
 
 be) ha vállalta gyógyszer forgalmazását, a gyógyszer beszerzésére vonatkozó szerződés másolatát bemutatja,
 
-bf) ha egyéb tevékenység folytatását is vállalta, igazolja a vállalt tevékenység folytatásához szükséges engedélyek beszerzését, és
+bf)[^3] ha egyéb tevékenység folytatását is vállalta, igazolja a vállalt tevékenység folytatásához szükséges engedélyek beszerzését,
 
 bg) igazolja a munkavállaló hátrányos helyzetét vagy megváltozott munkaképességét, ha a költségvetési támogatást a 21. § vagy a 22. § szerinti jogcímen kívánja igénybe venni,
 
+bh)[^4] átmeneti támogatás esetén a ba) alpont szerinti igazolás helyett igazolja, hogy 2019. december 31-én nem volt nehéz helyzetben, vagy ha 2019. december 31-én nehéz helyzetben volt, de kisvállalkozásnak minősül, igazolja, hogy nem áll a 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdés c) pontja szerinti eljárás hatálya alatt, továbbá a 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdés d) pontja szerinti körülmény sem áll fenn, és
+
+bi)[^5] nyilatkozik arról, hogy nem áll fenn harmadik személy irányában olyan kötelezettsége, amely a költségvetési támogatás céljának megvalósulását meghiúsíthatja,
+
 c) a kedvezményezett a költségvetési támogatás folyósításához
 
-ca) nyilatkozik arról, hogy nem áll fenn harmadik személy irányában olyan kötelezettsége, amely a költségvetési támogatás céljának megvalósulását meghiúsíthatja,
+ca)[^6]
 
 cb) nyilatkozik arról, hogy a támogatói okirat kiadásakor nincs költségvetési támogatás jogosulatlan, jogszabálysértő vagy nem rendeltetésszerű felhasználása miatt köztartozása,
 
-cc) ingatlanvásárlásra igényelt költségvetési támogatás esetén az adásvételi, illetve lízingszerződés másolatát csatolja, és
+cc)[^7] ingatlanvásárlásra igényelt költségvetési támogatás esetén az adásvételi, illetve lízingszerződés másolatát csatolja,
 
 cd) a 4. § (2) bekezdés e) pontja szerinti költségvetési támogatás esetén hitelt érdemlően igazolja az igényelt költségvetési támogatás mértékének megállapításához szükséges munkabér és munkáltatót terhelő közterhek mértékét, a jogviszony fennállását, munkaidő mértékét, az üzletben foglalkoztatottak számát.
+
+ce)[^8] igazolja a 11. § (1) bekezdés b) pontjában meghatározott kötelező biztosíték rendelkezésre állását, ha azt a támogatói okirat tartalmazza,
+
+cf)[^9] a 4. § (2) bekezdés d) pontja szerinti költségvetési támogatás esetén igazolja a 11. § (2) bekezdésében meghatározott kötelező biztosíték rendelkezésre állását, és
+
+cg)[^10] igazolja a 11. § (3) bekezdésében meghatározott választott biztosíték rendelkezésre állását.
+
+[^2]: A 6. § b) pont bc) alpontja a 226/2021. (V. 4.) Korm. rendelet 2. § (1) bekezdésével megállaíptott szöveg.
+[^3]: A 6. § b) pont bf) alpontja a 226/2021. (V. 4.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § b) pont bh) alpontját a 226/2021. (V. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 6. § b) pont bi) alpontját a 226/2021. (V. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 6. § c) pont ca) alpontját a 226/2021. (V. 4.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^7]: A 6. § c) pont cc) alpontja a 226/2021. (V. 4.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^8]: A 6. § c) pont ce) alpontját a 226/2021. (V. 4.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^9]: A 6. § c) pont cf) alpontját a 226/2021. (V. 4.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^10]: A 6. § c) pont cg) alpontját a 226/2021. (V. 4.) Korm. rendelet 2. § (3) bekezdése iktatta be.

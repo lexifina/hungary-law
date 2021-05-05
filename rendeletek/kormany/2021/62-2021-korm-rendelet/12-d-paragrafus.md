@@ -1,0 +1,3 @@
+12/D. § (1) Ha az egyedi átmeneti támogatás összege meghaladja a 100 000 eurónak megfelelő forintösszeget, a támogatást nyújtó a 37/2011. (III. 22.) Korm. rendelet 18/C. § (3) bekezdése szerinti határidőknek megfelelően továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az egyedi átmeneti támogatásnak a 37/2011. (III. 22.) Korm. rendelet 6. melléklete szerinti adatait a 37/2011. (III. 22.) Korm. rendelet 18/D. § (1) bekezdés d) pontja szerinti közzététel céljából.
+
+(2) A támogatást nyújtónak és a kedvezményezettnek az átmeneti támogatással kapcsolatos minden iratot az odaítélést követő tíz évig meg kell őriznie.
