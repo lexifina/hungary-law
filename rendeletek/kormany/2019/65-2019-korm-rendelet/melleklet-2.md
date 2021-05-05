@@ -1,4 +1,4 @@
-2. melléklet a 65/2019. (III. 27.) Korm. rendelethez[^10]
+2. melléklet a 65/2019. (III. 27.) Korm. rendelethez[^13]
 
 Nemzetgazdasági szempontból kiemelt jelentőségű, sportinfrastruktúra-fejlesztések megvalósításával összefüggő beruházások
 
@@ -16,4 +16,6 @@ Nemzetgazdasági szempontból kiemelt jelentőségű, sportinfrastruktúra-fejle
 
 | 5. | Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia | Sukoró közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 019/1, 019/16, 019/17 helyrajzi számú ingatlanok, valamint Velence közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 4514, 4515 és 4516 helyrajzi számú ingatlanok |
 
-[^10]: A 2. melléklet a 269/2020. (VI. 11.) Korm. rendelet 3. §-a, a 494/2020. (XI. 11.) Korm. rendelet 4. §-a szerint módosított szöveg.
+| 6. | Egy fővárosi sportlétesítmény korszerűsítésének előkészítése és megvalósítása | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38293/78 helyrajzi számú ingatlan |
+
+[^13]: A 2. melléklet a 269/2020. (VI. 11.) Korm. rendelet 3. §-a, a 494/2020. (XI. 11.) Korm. rendelet 4. §-a, a 227/2021. (V. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.
