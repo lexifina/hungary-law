@@ -1,0 +1,1 @@
+## 4. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Csabrendek (Veszprém megye), 517/4 helyrajzi számú, a közhiteles műemléki nyilvántartásban 4919 törzsszámon és 9800 azonosító számon nyilvántartott Bogyay-kúria műemléki védettségét – tekintettel arra, hogy a szakmai ismérveknek nem felel meg – megszüntetem.
