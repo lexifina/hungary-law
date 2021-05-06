@@ -27,3 +27,7 @@ Határidő: 2017. évi forrás tekintetében folyamatos
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a pályázat elnyerése esetén azonnal
+
+5.[^2] támogatja, hogy a 35. Úszó-, Nyíltvízi-, Műugró- és Műúszó-Európa-bajnokság megrendezésére a 2021. évben kerüljön sor.
+
+[^2]: Az 5. pontot az 1251/2021. (V. 6.) Korm. határozat 2. pontja iktatta be.
