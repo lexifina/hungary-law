@@ -22,4 +22,6 @@
 
 | 13. | Az Eötvös Loránd Tudományegyetem Trefort Ágoston Gyakorló Gimnáziumhoz kapcsolódó fejlesztések | Budapest VIII. kerület, belterület 36540 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
+| 14. | Balatonfüred Alkony Program előkészítése | Balatonfüred belterület 633/1 helyrajzi számú ingatlan | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
+
 3. melléklet a 83/2021. (II. 23.) Korm. rendelethez
