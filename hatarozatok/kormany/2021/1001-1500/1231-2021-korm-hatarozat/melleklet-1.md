@@ -52,12 +52,11 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1035/2020. (II. 13.) Korm. határozatban a „2022. június 30.” szövegrész helyébe a „2022. június 30., az Egyedi sportlétesítmény-fejlesztések támogatása előirányzat javára átcsoportosított 252 000 000 forint tekintetében 2022. március 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A Madách Imre Nemzetközi Színházi Találkozó működtetésével, valamint a „Bartók-tavasz” Fesztivál és a „Liszt Ünnep” Fesztivál létrehozásával és működtetésével kapcsolatos intézkedések megtételéről, valamint a szükséges források biztosításáról szóló 1927/2020. (XII. 17.) Korm. határozat a következő 7. ponttal egészül ki:
-
-## (A Kormány)
-
-## „7. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) és (4c) a) pontjában biztosított jogkörében eljárva a 6. pont a) alpontjában meghatározott összegen felül, a 6. pont b) és c) alpontjában meghatározott célok megvalósítása érdekében, az éven túli kötelezettségvállalás felső korlátját a 2022–2025. költségvetési évek vonatkozásában, négy évre összesen 7 000 000 000 forintban, évente 1 750 000 000 forintban állapítja meg, a Magyarország központi költségvetéséről szóló törvény XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 11. A Budapesti Tavaszi Fesztivál és a Budapesti Őszi Fesztivál megrendezésének támogatása jogcímcsoport vonatkozásában.”
+## 3.[^2]
 
 1. melléklet az 1231/2021. (V. 5.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
