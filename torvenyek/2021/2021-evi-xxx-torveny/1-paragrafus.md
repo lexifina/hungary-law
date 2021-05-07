@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Svédország Kormánya között a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között a beruházások elősegítéséről és kölcsönös védelméről szóló megállapodás megszűnéséről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
