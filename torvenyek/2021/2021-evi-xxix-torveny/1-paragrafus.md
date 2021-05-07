@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a nemzetközi polgári repülésről szóló, Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény 19. Függelékének (a továbbiakban: Függelék) és annak 1. módosításának egységes szerkezetbe foglalt szövegét e törvénnyel kihirdeti.

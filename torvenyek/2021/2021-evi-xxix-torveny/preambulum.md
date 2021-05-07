@@ -1,0 +1,1 @@
+(A nemzetközi polgári repülésről szóló, Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény 19. Függelékének 1. módosítása Magyarország vonatkozásában 2016. július 11-én nemzetközi jogilag hatályba lépett, alkalmazásának kezdő dátuma 2019. november 7.)
