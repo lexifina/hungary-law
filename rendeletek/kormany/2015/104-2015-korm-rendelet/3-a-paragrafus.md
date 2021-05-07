@@ -1,1 +1,0 @@
-## 3. § A miniszter – a megállapodás keretei között – a Fórum javaslatainak figyelembevételével évente összeállítja a pályázati tervet. A beérkezett pályázatokról a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló miniszteri rendelet szerinti Értékelő Bizottság javaslata alapján a miniszter dönt.
