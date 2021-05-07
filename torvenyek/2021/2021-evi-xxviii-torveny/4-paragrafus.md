@@ -1,0 +1,1 @@
+4. § Felhatalmazást kap a Kormány, hogy a genfi szöveg végrehajtása körében az Eredetmegjelölések Oltalmára és Nemzetközi Lajstromozására Vonatkozó Lisszaboni Megállapodáshoz, továbbá a Lisszaboni Megállapodás Eredetmegjelölésekről és Földrajzi Jelzésekről Szóló Genfi Szövegéhez Kapcsolódó Közös Végrehajtási Szabályzat szövegét rendeletben kihirdesse.

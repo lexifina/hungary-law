@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Lisszaboni Megállapodás Eredetmegjelölésekről és Földrajzi Jelzésekről Szóló Genfi Szövege (a továbbiakban: genfi szöveg) kötelező hatályának elismerésére.
