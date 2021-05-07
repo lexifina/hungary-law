@@ -1,0 +1,1 @@
+## „(7) A zajtérkép (6) bekezdés szerinti megküldésével egyidejűleg a települési zajtérkép készítésére kötelezett az érintett önkormányzatok részére hozzáférést biztosít a jóváhagyott stratégiai zajtérképek adatbázisához.”
