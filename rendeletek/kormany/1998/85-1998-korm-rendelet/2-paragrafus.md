@@ -10,9 +10,9 @@ d) az exportőr exportjának teljesítését a Törvény 1. § (5a) bekezdés 1.
 
 e) az exportot a Törvény 1. § (5a) bekezdés 2. pontjában meghatározottak szerint elősegítő, belföldi vagy külföldi befektetést megvalósító exportőrnek,
 
-f)[^21] a versenyképességet javító gazdálkodó szervezet magyarországi befektetéseihez, beruházásához vagy magyarországi termelő tevékenységéhez, szolgáltatásnyújtásához kapcsolódó forgóeszközigény finanszírozásához és
+f)[^21] a gazdálkodó szervezetnek vagy a gazdálkodó szervezet tulajdonában álló társaságnak, annak befektetéseihez, beruházásához vagy termelőtevékenységéhez, szolgáltatásnyújtásához kapcsolódó forgóeszközigény finanszírozásához és
 
 g) a 6. § szerinti, a magyar származású export mértékére vonatkozó feltételek teljesülése esetén a 6. § (11) bekezdésében meghatározott külkereskedelmi szerződés teljesítésében részt vevő belföldi gazdálkodó szervezet vevőinek
 
 [^20]: A 2. § a 75/2017. (IV. 3.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^21]: A 2. § f) pontja a 126/2020. (IV. 16.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^21]: A 2. § f) pontja a 235/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.

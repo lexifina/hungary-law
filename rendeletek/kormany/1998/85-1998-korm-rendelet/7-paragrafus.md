@@ -1,6 +1,6 @@
-## 6/A. §[^57]
+## 6/A. §[^63]
 
-7. §[^58] (1) Az Eximbank az általa közvetlenül nyújtott, kamatkiegyenlítési rendszerbe bevont hitelek, követelésvásárlások legkisebb kamatlábát – a (2) bekezdésben meghatározott kivétellel – az Európai Unió állami támogatási előírásaival összhangban,
+7. §[^64] (1) Az Eximbank az általa közvetlenül nyújtott, kamatkiegyenlítési rendszerbe bevont hitelek, követelésvásárlások legkisebb kamatlábát – a (2) bekezdésben meghatározott kivétellel – az Európai Unió állami támogatási előírásaival összhangban,
 
 a) a piaci kamatlábak, illetve
 
@@ -14,5 +14,5 @@ d) a finanszírozási feltételeket rögzítő szerződés napján érvényes, a
 
 (2) Az Eximbank által közvetlenül nyújtott kétéves és két éven túli futamidejű exporthitelek, és a kétéves és két éven túli futamidejű követelésvásárlás legkisebb kamatlába az OECD Megállapodás rendelkezései szerint megállapított időpontban a hitelnyújtás devizanemére érvényes, az OECD Titkársága által közzétett, általánosan vagy az ágazatokra alkalmazandó CIRR kamatláb (a továbbiakban: CIRR), amely kamatláb rögzített a teljes futamidő alatt, kivéve ha az OECD Megállapodás alapján kötelező vagy megengedett a kamatláb módosítása.
 
-[^57]: A 6/A. §-t a 434/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 7. § b) pontja.
-[^58]: A 7. § a 126/2020. (IV. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^63]: A 6/A. §-t a 434/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 7. § b) pontja.
+[^64]: A 7. § a 126/2020. (IV. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
