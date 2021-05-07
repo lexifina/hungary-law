@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1251-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-05-06 | 2021-1251-30-22.1 | 1251/2021. (V. 6.) Korm. határozat |
+| 2021-05-07 | 2021-1251-30-22.2 | 2010: CXXX. törvény |
