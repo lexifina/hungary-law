@@ -12,7 +12,7 @@ kormányzati szolgálati jogviszonyban álló, tartós külszolgálati pályáza
 
 (3) E rendelet 6. § (2) bekezdésének, valamint 10. § (7) bekezdésének hatálya a felkészülőnek a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) 2. § 8. pontja szerinti házastársára (a továbbiakban: házastárs) is kiterjed.
 
-(4)[^3] A 12. § (1) és (2) bekezdésének hatálya a minisztérium, a külpolitikáért felelős miniszter irányítása vagy felügyelete alatt álló központi hivatal, gazdasági társaság, a Külszoltv. 2. § 17. pontja szerinti szakdiplomata jelölésére jogosult kormányzati igazgatási szervnek a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó foglalkoztatottjára, valamint gazdasági társaság esetében munkavállalójára, azoknak a Külszoltv. 2. § 8. pontja szerinti hozzátartozójára, valamint a minisztériumban a nemzeti felsőoktatásról szóló törvény szerinti szakmai gyakorlatot teljesítő hallgatóra is kiterjed.
+(4)[^3] A 12. § (1) és (2) bekezdésének hatálya a minisztérium, a külpolitikáért felelős miniszter irányítása vagy felügyelete alatt álló központi hivatal, gazdasági társaság, a Külszoltv. 2. § 17. pontja szerinti szakdiplomata jelölésére jogosult kormányzati igazgatási szervnek a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó foglalkoztatottjára, valamint gazdasági társaság esetében munkavállalójára, azoknak a Külszoltv. 2. § 8. pontja szerinti hozzátartozójára (a továbbiakban: hozzátartozó), a minisztériumban a nemzeti felsőoktatásról szóló törvény szerinti szakmai gyakorlatot teljesítő hallgatóra, valamint a minisztériummal ösztöndíjas jogviszonyban álló, illetve szakmai gyakorlatát a minisztériumban a Magyar Közigazgatási Ösztöndíjról szóló 52/2019. (III. 14.) Korm. rendelet szerint teljesítő ösztöndíjasra is kiterjed.
 
 (5)[^4] A 13. § (5) bekezdésének hatálya azon állami tulajdonú gazdasági társaság munkavállalóira is kiterjed, amely felett jogszabályi rendelkezés alapján az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására a külpolitikáért felelős miniszter került kijelölésre.
 
@@ -20,6 +20,6 @@ kormányzati szolgálati jogviszonyban álló, tartós külszolgálati pályáza
 
 [^1]: [A 127/2019. (V. 30.) Korm rendelet 11. §-ával elrendelt módosítás, amely szerint hatályát veszti az „a kormányzati ügykezelőkre,” szövegrész, nem vezethető át.]
 [^2]: Az 1. § (2) bekezdése a 17/2019. (II. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (4) bekezdése a 127/2019. (V. 30.) Korm rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdése a 238/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (5) bekezdését a 127/2019. (V. 30.) Korm rendelet 3. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (6) bekezdését a 279/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be.
