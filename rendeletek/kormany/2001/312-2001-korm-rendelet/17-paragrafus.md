@@ -14,15 +14,25 @@ c) ha a kárfizetési türelmi idő lejártáig a biztosított a kárelbírálá
 
 Kárfizetési türelmi idő nem kerül alkalmazásra az első kárfizetést követően, ha a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint – több időpontban – történik a kárfizetés.
 
-(3)–(5)[^142]
+(3)[^142] A Mehib Zrt. a 30 napos fizetési kötelezettségének abban az esetben tesz eleget a (2) bekezdés a)–c) pontja szerint meghatározott időben, amennyiben a kárfizetés feltételeként előírt – a 20. § (3) bekezdésében meghatározott biztosított által aláírt – követelés átruházására vonatkozó megállapodást a biztosított megküldte, annak hiányában a Mehib Zrt. a kárfizetési kötelezettségét a követelés átruházására vonatkozó megállapodás kézhezvételétől számított 10 munkanapon belül teljesíti.
 
-(6)[^143] A biztosított követelés egészének egyösszegű azonnali esedékessé válása esetén a Mehib Zrt. jogosult a kárt a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint megállapítani.
+(4)[^143]
 
-(7)[^144] A (6) bekezdésben foglalt esetekben a Mehib Zrt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosító mentesülésének feltételei nem állnak fenn.
+(5)[^144]
+
+(6)[^145] A biztosított követelés egészének egyösszegű azonnali esedékessé válása esetén a Mehib Zrt. jogosult
+
+a) a teljes kárt a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint megállapítani, vagy
+
+b) a kár egyik részét egy összegben, másik részét a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint megállapítani, amennyiben a biztosított ügylet vagy a kárügy jellemzői azt indokolják.
+
+(7)[^146] A (6) bekezdésben foglalt részletekben történő kárfizetés esetén a Mehib Zrt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosító mentesülésének feltételei nem állnak fenn.
 
 [^139]: A 17. § az 50/2010. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^140]: A 17. § (1) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^141]: A 17. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 20. § b) pontja, a 126/2020. (IV. 16.) Korm. rendelet 36. § 34. pontja szerint módosított szöveg.
-[^142]: A 17. § (3)–(5) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
-[^143]: A 17. § (6) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 35. pontja szerint módosított szöveg.
-[^144]: A 17. § (7) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 14. §-ával megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 36. pontja szerint módosított szöveg.
+[^142]: A 17. § (3) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte, újonnan a 235/2021. (V. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^143]: A 17. § (4) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^144]: A 17. § (5) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^145]: A 17. § (6) bekezdése a 235/2021. (V. 6.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^146]: A 17. § (7) bekezdése a 235/2021. (V. 6.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

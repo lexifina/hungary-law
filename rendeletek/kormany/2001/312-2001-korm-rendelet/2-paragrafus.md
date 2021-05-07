@@ -12,7 +12,7 @@ da) külföldi vállalkozásba befektetett tőke: a c) pontban meghatározott k�
 
 db) külföldi vállalkozásba befektetett tőke hozama: a c) pontban meghatározott külföldi vállalkozásból származó osztalék, nyereségrészesedés, tulajdonosi hitel miatt felmerült kamat, prémium, továbbá bármilyen, a külföldi vállalkozás székhelye szerinti ország joga alapján harmadik országba irányuló tőkebefektetésből származó jövedelem;
 
-e)[^6] idegen tartalom: azok a termékek, illetve szolgáltatások, amelyeket külföldi beszállító, illetve alvállalkozó szállít, vagy nyújt az exportirányú külkereskedelmi szerződés vagy fővállalkozói szerződés teljesítéséhez;
+e)[^6] idegen tartalom: az exportirányú külkereskedelmi szerződéshez kapcsolódóan nyújtott azon termékek, illetve szolgáltatások, amelyek esetében nem kerül igazolásra a 7. § szerinti magyar származásra vonatkozó követelmény;
 
 f)[^7] állami adós által vállalt szerződéses kötelezettség: a 4. § (1) bekezdésének e) pontjában meghatározott szerződéseket érintően a harmadik országba irányuló tőkebefektetéshez kacsolódóan az a) pontban foglalt meghatározásnak megfelelő harmadik országbeli állami adós szerződő által szerződésben vállalt kötelezettsége;
 
@@ -26,7 +26,7 @@ j)[^11] vevőhitel: olyan kereskedelmi szerződést finanszírozó, egy vagy tö
 
 k)[^12] nemzeti érdekű fedezetnyújtás: exporthitel biztosítás keretében a Mehib Zrt. olyan kockázatvállalása, amelynél a fedezet az ügyletnek a biztosított által benyújtott dokumentumokkal alátámasztható stratégiai jelentősége vagy meghatározott nemzetgazdasági hatásai alapján terjed ki az idegen tartalomra;
 
-l)[^13] viszontbiztosítás: olyan biztosítás, amelynek keretében ellenérték fejében egy biztosító kockázatkezelési céllal egy másik biztosítónak átad kockázatot, és ezáltal saját kockázatát csökkenti, illetve egy másik biztosító ellenérték fejében átvesz más biztosító által vállalt kockázatot,
+l)[^13] viszontbiztosítás: olyan biztosítás, amelynek keretében ellenérték fejében egy biztosító kockázatkezelési céllal egy másik biztosítónak átad kockázatot, és ezáltal saját kockázatát továbbhárítja, illetve egy másik biztosító ellenérték fejében átvesz más biztosító által vállalt kockázatot,
 
 la) passzív viszontbiztosítás: a Mehib Zrt. az általa vállalt kockázatokból átad külföldi székhelyű biztosítónak,
 
@@ -64,7 +64,7 @@ w)[^27] faktoring biztosítás: a hitelintézetekről és a pénzügyi vállalko
 
 x)[^28] gazdálkodó szervezet: az Etv. 1. § (5a) bekezdés 3. pontjában meghatározott szervezet,
 
-y)[^29] külföldi székhelyű biztosító: minden olyan nemzetközi szervezet, amely vagy
+y)[^29] külföldi székhelyű biztosító: minden olyan külföldi szervezet, amely vagy
 
 ya) a Berni Unió tagja,
 
@@ -86,14 +86,14 @@ zs)[^31] helyi költség: a vevő országában felmerülő, azon árukért és s
 
 [^4]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^6]: A 2. § (1) bekezdésének e) pontját a 48/2003. (IV. 3.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
+[^6]: A 2. § (1) bekezdés e) pontját a 48/2003. (IV. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 235/2021. (V. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^7]: A 2. § (1) bekezdésének f) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^8]: A 2. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 215/2015. (VII. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdésének i) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^11]: A 2. § (1) bekezdésének j) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^12]: A 2. § (1) bekezdés k) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
-[^13]: A 2. § (1) bekezdés l) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § (1) bekezdés l) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 19. § (2) bekezdésével megállapított, nyitó szövegrésze a 235/2021. (V. 6.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^14]: A 2. § (1) bekezdés m) pontját újonnan a 126/2020. (IV. 16.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^15]: A 2. § (1) bekezdés n) pontját a 205/2012. (VII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^16]: A 2. § (1) bekezdés n) pont na) alpont naa) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés b) pontja szerint módosított szöveg.
@@ -109,7 +109,7 @@ zs)[^31] helyi költség: a vevő országában felmerülő, azon árukért és s
 [^26]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
 [^27]: A 2. § (1) bekezdés w) pontját az 537/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
 [^28]: A 2. § (1) bekezdés x) pontját a 80/2014. (III. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^29]: A 2. § (1) bekezdés y) pontját a 215/2015. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^29]: A 2. § (1) bekezdés y) pontját a 215/2015. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 19. § (3) bekezdésével megállapított, nyitó szövegrésze a 235/2021. (V. 6.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^30]: A 2. § (1) bekezdés z) pontját a 26/2019. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^31]: A 2. § (1) bekezdés zs) pontját a 26/2019. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^32]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.

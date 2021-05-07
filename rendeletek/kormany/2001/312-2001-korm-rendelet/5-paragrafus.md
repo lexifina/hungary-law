@@ -26,7 +26,7 @@ k) a külföldön kiírt versenytárgyalást (tendert) az ajánlatot benyújtott
 
 l)[^59]
 
-m)[^60] a 4. § (1) bekezdés e) pontja szerinti befektetés biztosítása esetén harmadik országbeli szerződő szerződésszegése, amennyiben a biztosított (vagy a biztosított nevében a külföldi vállalkozás) a 2. § (1) bekezdés f) pontjában meghatározott harmadik országbeli szerződővel szemben, a javára meghozott bírósági ítéletnek képtelen érvényt szerezni, feltéve, hogy a bírósági ítélet számszerűsített értékről szól, és a külföldi vállalkozás harmadik országba irányuló tőkebefektetéséhez kapcsolódó megállapodás szerinti szerződéses kötelezettség szerződő általi nem teljesítése, vagy a megállapodásnak szerződő általi felmondása miatt következett be;
+m)[^60] a 4. § (1) bekezdés e) pontja szerinti befektetés biztosítása esetén harmadik országbeli állami adós szerződésszegése, amennyiben a biztosított (vagy a biztosított nevében a külföldi vállalkozás) a 2. § (1) bekezdés f) pontjában meghatározott harmadik országbeli szerződővel szemben, a javára meghozott bírósági ítéletnek képtelen érvényt szerezni, feltéve, hogy a bírósági ítélet számszerűsített értékről szól, és a külföldi vállalkozás harmadik országba irányuló tőkebefektetéséhez kapcsolódó megállapodás szerinti szerződéses kötelezettség szerződő általi nem teljesítése, vagy a megállapodásnak szerződő általi felmondása miatt következett be;
 
 n)[^61] ha a Mehib Zrt. a biztosítottnak belföldi gazdálkodó szervezettel szembeni követelését biztosítja, e belföldi gazdálkodó szervezet fizetésképtelensége, fizetési késedelme vagy nemfizetése.
 
@@ -38,5 +38,5 @@ n)[^61] ha a Mehib Zrt. a biztosítottnak belföldi gazdálkodó szervezettel sz
 [^57]: Az 5. § i) pontja a 126/2020. (IV. 16.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^58]: Az 5. § j) pontja a 437/2012. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^59]: Az 5. § l) pontját a 48/2003. (IV. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § a) pontja.
-[^60]: Az 5. § m) pontját a 303/2005. (XII. 25.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^60]: Az 5. § m) pontját a 303/2005. (XII. 25.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 235/2021. (V. 6.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
 [^61]: Az 5. § n) pontját a 185/2013. (VI. 7.) Korm. rendelet 5. §-a iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 36. § 7. pontja szerint módosított szöveg.
