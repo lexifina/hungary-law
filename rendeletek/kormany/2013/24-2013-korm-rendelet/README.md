@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-24-20-2
 | 2017-12-23 | 2013-24-20-22.10 | 407/2017. (XII. 15.) Korm. rendelet |
 | 2019-02-01 | 2013-24-20-22.11 | 4/2019. (I. 24.) Korm. rendelet |
 | 2019-05-01 | 2013-24-20-22.12 | 82/2019. (IV. 18.) Korm. rendelet |
+| 2021-05-07 | 2013-24-20-22.13 | 236/2021. (V. 6.) Korm. rendelet |
