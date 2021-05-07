@@ -1,3 +1,3 @@
-## 30. §[^103]
+## 30. §[^104]
 
-[^103]: A 30. §-t és az azt megelőző alcímet a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bf) alpontja hatályon kívül helyezte.
+[^104]: A 30. §-t és az azt megelőző alcímet a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bf) alpontja hatályon kívül helyezte.

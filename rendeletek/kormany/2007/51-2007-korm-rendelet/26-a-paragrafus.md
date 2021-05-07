@@ -1,8 +1,8 @@
-26/A. §[^89] (1)[^90] Az államilag elismert felsőoktatási intézményben államilag támogatott képzésben részt vevő külhoni magyar hallgató részére – az államilag támogatott doktori képzésben részt vevő hallgatót kivéve – az oktatásért felelős miniszter Hunyadi János Ösztöndíjat adományozhat.
+26/A. §[^90] (1)[^91] Az államilag elismert felsőoktatási intézményben államilag támogatott képzésben részt vevő külhoni magyar hallgató részére – az államilag támogatott doktori képzésben részt vevő hallgatót kivéve – az oktatásért felelős miniszter Hunyadi János Ösztöndíjat adományozhat.
 
-(2)[^91] A teljes képzésben részt vevő hallgató részére az ösztöndíj a tanév tíz hónapjára szól, egy főre jutó havi összege 30 000 Ft/hó. A részképzésben részt vevő hallgató részére az ösztöndíj a részképzés időtartamára szól, egy főre jutó havi összege 80 000 Ft/hó.
+(2)[^92] A teljes képzésben részt vevő hallgató részére az ösztöndíj a tanév tíz hónapjára szól, egy főre jutó havi összege 30 000 Ft/hó. A részképzésben részt vevő hallgató részére az ösztöndíj a részképzés időtartamára szól, egy főre jutó havi összege 80 000 Ft/hó.
 
-(3)[^92] A hallgató az ösztöndíjat pályázat útján nyerheti el. A pályázatot az Eötvös Loránd Tudományegyetem bonyolítja le.
+(3)[^93] A hallgató az ösztöndíjat pályázat útján nyerheti el. A pályázat lebonyolítóját az oktatásért felelős miniszter egyedi határozatban jelöli ki. Az egyedi határozatot az oktatásért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
 (4) A pályázati felhívásnak tartalmaznia kell:
 
@@ -22,13 +22,13 @@ g) a pályázati határidők (benyújtás, elbírálás, értesítés) megnevez�
 
 h) hiánypótlási lehetőséget.
 
-(5)[^93] A Hunyadi János Ösztöndíjat a hallgatóval jogviszonyban álló felsőoktatási intézmény fizeti ki.
+(5)[^94] A Hunyadi János Ösztöndíjat a hallgatóval jogviszonyban álló felsőoktatási intézmény fizeti ki.
 
-(6)[^94] Az Eötvös Loránd Tudományegyetem alaptevékenységi körébe nem tartozó közfeladat ellátásaként a külhoni magyar hallgatók magyarországi és határon túli tanulmányainak elősegítése, a magyarországi felsőoktatási intézményekbe történő beilleszkedésük és a szülőföldön való megmaradásuk, magyar azonosságtudatuk fenntartása érdekében Kárpát-medencei szakkollégiumi, a tantervi kötelezettségeken kívüli képzési, ösztöndíjazási és kollégiumi rendszert tart fenn és működtet.
+(6)[^95]
 
-[^89]: A 26/A. §-t a 372/2007. (XII. 23.) Korm. rendelet 23. §-a iktatta be.
-[^90]: A 26/A. § (1) bekezdése a 116/2019. (V. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^91]: A 26/A. § (2) bekezdése a 116/2019. (V. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^92]: A 26/A. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^93]: A 26/A. § (5) bekezdése a 116/2019. (V. 16.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^94]: A 26/A. § (6) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 17. § (6) bekezdése iktatta be, szövege a 116/2019. (V. 16.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^90]: A 26/A. §-t a 372/2007. (XII. 23.) Korm. rendelet 23. §-a iktatta be.
+[^91]: A 26/A. § (1) bekezdése a 116/2019. (V. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^92]: A 26/A. § (2) bekezdése a 116/2019. (V. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^93]: A 26/A. § (3) bekezdése a 236/2021. (V. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^94]: A 26/A. § (5) bekezdése a 116/2019. (V. 16.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^95]: A 26/A. § (6) bekezdését a 236/2021. (V. 6.) Korm. rendelet 3. §-a hatályon kívül helyezte.
