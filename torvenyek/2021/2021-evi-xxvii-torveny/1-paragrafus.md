@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Egységes Szanálási Rendszerhez kapcsolódó kormányközi Megállapodás módosításáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
