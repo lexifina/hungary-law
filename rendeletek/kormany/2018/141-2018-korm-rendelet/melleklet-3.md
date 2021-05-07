@@ -132,6 +132,8 @@
 
 | 64. | Az ÓAM ÓZDI ACÉLMÜVEK Korlátolt Felelősségű Társaság barnamezős területeinek kiemelt társadalmi igényeken alapuló és munkahelyteremtést támogató beruházás megvalósítása | Ózd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 9195, 9207, 9208, 9209 és 9210 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^149]
+| 65. | Gyáregység létrehozására irányuló beruházás Jászberény területén | Jászberény közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 9351 helyrajzi számú ingatlan | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^149]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^151]
+
+[^151]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

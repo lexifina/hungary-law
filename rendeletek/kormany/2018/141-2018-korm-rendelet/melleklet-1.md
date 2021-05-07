@@ -1,4 +1,4 @@
-## 59. §[^145] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 211/2021. (IV. 29.) Korm. rendelettel (a továbbiakban: Módr51.) megállapított 4. § (2), (3) és (4) bekezdését és 2. mellékletben foglalt táblázat 64. sorát a Módr51. hatálybalépésekor[^146] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 60. §[^147] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 240/2021. (V. 6.) Korm. rendelettel (a továbbiakban: Módr52.) megállapított 2. mellékletben foglalt táblázat 65. sorát a Módr52. hatálybalépésekor[^148] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^147] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^149] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^145]: Az 59. §-t a 211/2021. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^146]: A hatálybalépés időpontja 2021. április 30.
-[^147]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^147]: A 60. § a 240/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be.
+[^148]: A hatálybalépés időpontja 2021. május 7.
+[^149]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
