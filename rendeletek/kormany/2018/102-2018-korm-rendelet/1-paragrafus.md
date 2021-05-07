@@ -1,9 +1,7 @@
 ## 1. §[^1] A Modern Települések Fejlesztéséért felelős kormánybiztos irányítja a Miniszterelnökség
 
-a) települési fejlesztések koordinációjáért felelős helyettes államtitkárának,
+a) települési fejlesztések koordinációjáért felelős helyettes államtitkárának és
 
-b) Magyar Falu Program Pályázati Főosztálya vezetőjének és
+b) Településhálózati Koordinációs Főosztálya vezetőjének
 
-c) Településhálózati Koordinációs Főosztálya vezetőjének
-
-[^1]: Az 1. § a 614/2020. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 239/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
