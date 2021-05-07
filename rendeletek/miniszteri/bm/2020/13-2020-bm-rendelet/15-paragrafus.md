@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-## 15. §[^9] E rendelet 1. mellékletében foglalt táblázat 13. és 15. sorai
+## 15. §[^15] E rendelet 1. mellékletében foglalt táblázat 13., 15. és 62. sorai
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet;
 
@@ -10,4 +10,4 @@ c) a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való tám
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^9]: A 15. § a 44/2020. (XII. 11.) BM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 15. § a 44/2020. (XII. 11.) BM rendelet 2. §-ával megállapított, nyitó szövegrésze a 11/2021. (V. 6.) BM rendelet 3. § g) pontja szerint módosított szöveg.
