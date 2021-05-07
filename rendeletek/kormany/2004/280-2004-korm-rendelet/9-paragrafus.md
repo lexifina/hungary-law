@@ -1,29 +1,32 @@
 ## Az intézkedési tervre vonatkozó rendelkezések
 
-9. § (1)[^23] Intézkedési tervet az a természetes személy, illetőleg az a gazdálkodó szervezet és más jogi személy készíthet, aki a külön jogszabály[^24] szerint környezeti zaj- és rezgésvédelem területén szakértői tevékenység folytatására jogosult, vagy ilyen szakértőt foglalkoztat.
+9. § (1)[^26] Intézkedési tervet az a természetes személy, illetőleg az a gazdálkodó szervezet és más jogi személy készíthet, aki a külön jogszabály[^27] szerint környezeti zaj- és rezgésvédelem területén szakértői tevékenység folytatására jogosult, vagy ilyen szakértőt foglalkoztat.
 
-(2)[^25] Az intézkedési terven fel kell tüntetni a szakértői vizsgálatot végző szakértő nevét, a szakértői engedélye számát.
+(2)[^28] Az intézkedési terven fel kell tüntetni a szakértői vizsgálatot végző szakértő nevét, a szakértői engedélye számát.
 
-(3) Az intézkedési tervben kell meghatározni azokat a zajcsökkentési vagy más, a zaj elleni védelmet célzó műszaki, szervezési, településrendezési megoldásokat és egyéb intézkedéseket (például hatósági eljárás kezdeményezését), amelyekkel megakadályozható a zaj növekedése azokon az önkormányzat által kijelölt csendes területeken, a zajtól védendő vagy védelemre szánt területeken, ahol a zajjellemzők megfelelnek a következő stratégiai küszöbértékeknek vagy nem haladják meg azokat:
-
-a) üzemi létesítmény esetén Lden = 46 dB, Léjjel = 40 dB,
-
-b) közlekedési zajforrás esetén Lden = 63 dB, Léjjel = 55 dB.
-
-(4) Az intézkedési tervben 10 évnél nem hosszabb határidőt tartalmazó és zajcsökkentési vagy más, a zaj elleni védelmet célzó műszaki, szervezési, településrendezési megoldásokat és egyéb intézkedéseket rangsorolva kell meghatározni azokban az esetekben, amikor a zajjellemzők a zajtól védendő vagy védelemre szánt területeken a következő stratégiai küszöbértékeket meghaladják:
+(3)[^29] Az intézkedési tervben kell meghatározni azokat a zajcsökkentési vagy más, a zaj elleni védelmet célzó műszaki, szervezési, településrendezési megoldásokat és egyéb intézkedéseket (például hatósági eljárás kezdeményezését), amelyekkel megakadályozható a zaj növekedése azokon az e rendelet hatálya alá tartozó területeken, ahol a zajjellemzők megfelelnek a következő stratégiai küszöbértékeknek vagy nem haladják meg azokat:
 
 a) üzemi létesítmény esetén Lden = 46 dB, Léjjel = 40 dB,
 
 b) közlekedési zajforrás esetén Lden = 63 dB, Léjjel = 55 dB.
 
-(5) Az intézkedési tervben 5 évnél nem hosszabb határidőt tartalmazó zajcsökkentési vagy más, a zaj elleni védelmet célzó műszaki, szervezési, településrendezési megoldásokat és egyéb intézkedéseket kell rangsorolva meghatározni azokban az esetekben, amikor a zajjellemzők a zajtól védendő vagy védelemre szánt területeken a következő stratégiai küszöbértékeket meghaladják:
+(4)[^30] Az intézkedési tervben 10 évnél nem hosszabb határidővel kell olyan zajcsökkentési vagy más, a zaj elleni védelmet célzó műszaki, szervezési, településrendezési megoldásokat és egyéb intézkedéseket meghatározni, amelyek az e rendelet hatálya alá tartozó területeken a következő stratégiai küszöbértékeket meghaladó zaj kezelését szolgálják:
+
+a) üzemi létesítmény esetén Lden = 46 dB, Léjjel = 40 dB,
+
+b) közlekedési zajforrás esetén Lden = 63 dB, Léjjel = 55 dB.
+
+(5)[^31] Az intézkedési tervben 5 évnél nem hosszabb határidővel kell olyan zajcsökkentési vagy más, a zaj elleni védelmet célzó műszaki, szervezési, településrendezési megoldásokat és egyéb intézkedéseket meghatározni, amelyek az e rendelet hatálya alá tartozó területeken a következő stratégiai küszöbértékeket meghaladó zaj kezelését szolgálják:
 
 a) üzemi létesítmény esetén Lden = 56 dB, Léjjel = 50 dB,
 
-b) közlekedési zajforrás esetén Lden = 73 dB, Léjjel = 65 dB.
+b) közlekedési zajforrás esetén Lden = 73 dB, Léjjel = 65 dB
 
 (6) Az intézkedési tervnek meg kell felelnie az e rendelet 5. számú mellékletében meghatározott követelményeknek.
 
-[^23]: A 9. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 380. §-a, az 57/2014. (III. 4.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^24]: A környezet- és természetvédelem egyes szakterületein szakértői működés engedélyezéséről szóló 6/1985. (XII. 28.) OKTH rendelkezés.
-[^25]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 379. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 9. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 380. §-a, az 57/2014. (III. 4.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^27]: A környezet- és természetvédelem egyes szakterületein szakértői működés engedélyezéséről szóló 6/1985. (XII. 28.) OKTH rendelkezés.
+[^28]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 379. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 9. § (3) bekezdés nyitó szövegrésze a 209/2021. (IV. 29.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^30]: A 9. § (4) bekezdése a 209/2021. (IV. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^31]: A 9. § (5) bekezdése a 209/2021. (IV. 29.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-280-20-
 | 2017-01-01 | 2004-280-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2017-05-06 | 2004-280-20-22.12 | 106/2017. (IV. 28.) Korm. rendelet |
 | 2020-03-01 | 2004-280-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-05-07 | 2004-280-20-22.14 | 209/2021. (IV. 29.) Korm. rendelet |

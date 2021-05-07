@@ -4,4 +4,7 @@
 
 (3) A kötelezett az országhatárt érintő stratégiai zajtérkép, illetve és intézkedési terv készítése során együttműködik a szomszédos tagállam által kijelölt kötelezettel.
 
+(4)[^5] A stratégiai zajtérképek és intézkedési tervek elkészítésének végeredményeként előállított téradatkészletek a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló 241/2009. (X. 29.) Korm. rendelet 2. számú melléklet 5. pontja szerinti, „Emberi egészség és biztonság” téradattémák körébe tartoznak.
+
 [^4]: A 2. § (2) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^5]: A 2. § (4) bekezdését a 209/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be.

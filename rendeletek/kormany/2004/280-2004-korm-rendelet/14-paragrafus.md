@@ -1,20 +1,20 @@
 ## Határidők
 
-14. § (1)[^41] A közlekedésért felelős miniszter 2008. október 31-éig, majd azt követően ötévente megküldi a környezetvédelemért felelős miniszter részére és az általa vezetett minisztérium honlapján közzéteszi a Magyarország területén található valamennyi nagyforgalmú közút és nagyforgalmú vasútvonal és fő repülőtér és a fő közlekedési létesítmények kötelezettjeinek listáját.
+14. § (1)[^34] A közlekedésért felelős miniszter 2025. március 31-ig, majd azt követően ötévente megküldi a környezetvédelemért felelős miniszter részére és az általa vezetett minisztérium honlapján közzéteszi a Magyarország területén található valamennyi nagyforgalmú közút és nagyforgalmú vasútvonal és fő repülőtér és a fő közlekedési létesítmények kötelezettjeinek listáját.
 
-(2)–(3)[^42]
+(2)–(3)[^35]
 
-(4)[^43] 2017. június 30-ig, valamint azt követően ötévente a véglegesített stratégiai zajtérképeket a stratégiai zajtérkép készítésére kötelezett benyújtja a környezetvédelemért felelős miniszter részére:
+(4)[^36] 2022. június 30-ig, valamint azt követően ötévente a véglegesített stratégiai zajtérképeket a stratégiai zajtérkép készítésére kötelezett benyújtja a környezetvédelemért felelős miniszter részére:
 
-a)[^44] az 1. § (1) bekezdés a) és b) pontjában meghatározott területekre,
+a)[^37] az 1. § (1) bekezdés a) és b) pontjában meghatározott területekre,
 
 b) valamennyi nagyforgalmú közútra és valamennyi nagyforgalmú vasútvonalra és fő repülőtérre vonatkozóan.
 
-(5)[^45] 2018. július 18-ig a környezetvédelmi hatóság átadja a környezetvédelemért felelős miniszter részére az 1. § (1) bekezdés b) pontjában meghatározott területekre, valamint a fő közlekedési létesítményekre vonatkozó intézkedési tervet.
+(5)[^38] 2024. július 18-ig, valamint azt követően ötévente az intézkedési terv készítésére kötelezett a 11. § (1) bekezdése szerint elfogadott, illetve a 11. § (2) bekezdése szerint jóváhagyott intézkedési tervet átadja a környezetvédelemért felelős miniszter részére.
 
-(6)[^46] Az 1. § (1) bekezdés a) és b) pontjaiban meghatározott területeken működő üzemi létesítmények üzemeltetője a stratégiai zajtérkép készítését megelőző év december 31-ig köteles az e rendelet 4. számú melléklete szerinti adatlapot kitölteni, illetve az ehhez szükséges vizsgálatokat elvégezni, és a települési zajtérkép készítésére kötelezett részére megküldeni.
+(6)[^39] Az 1. § (1) bekezdés a) és b) pontjaiban meghatározott területeken működő üzemi létesítmények üzemeltetője a stratégiai zajtérkép készítését megelőző év december 31-ig köteles az e rendelet 4. számú melléklete szerinti adatlapot kitölteni, illetve az ehhez szükséges vizsgálatokat elvégezni, és a települési zajtérkép készítésére kötelezett részére megküldeni.
 
-(7)[^47] A környezetvédelemért felelős miniszter
+(7)[^40] A környezetvédelemért felelős miniszter
 
 a) e rendelet hatálybalépését követően – legkésőbb 2005. július 18-ig – tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság)
 
@@ -22,20 +22,31 @@ aa) az 1. § (3) bekezdésben meghatározott kötelezetti körről, továbbá a 
 
 ab) az e rendeletben a közúti és vasúti zajra, a repülőterek környezetében a repülőgépek által keltett zajra és az üzemi létesítmények zajára vonatkozó Lden és Léjjel zajjellemzők alapján meghatározott stratégiai küszöbértékeiről;
 
-b) 2005. június 30-ig, majd azt követően ötévente tájékoztatja a Bizottságot a Magyarország területén lévő minden, évente 6 millió jármű áthaladásánál nagyobb forgalmat lebonyolító nagyforgalmú közútról, 60 000 szerelvénynél többet áteresztő nagyforgalmú vasútvonalról és a fő repülőterekről, valamint minden, 250 000-nél több lakost számláló településről és vonzáskörzetéről;
+b)[^41]
 
-c) 2008. december 31-ig, majd azt követően ötévente tájékoztatja a Bizottságot a Magyarország területén található valamennyi, az 1. § a)–b) pontokban meghatározott területről és a nagyforgalmú közútról és nagyforgalmú vasútvonalról és fő repülőtérről;
+c)[^42] 2025. június 30-ig, majd azt követően ötévente tájékoztatja a Bizottságot a Magyarország területén található valamennyi, az 1. § a)–b) pontokban meghatározott területről és a nagyforgalmú közútról és nagyforgalmú vasútvonalról és fő repülőtérről;
 
-d) az e rendelet 6. számú melléklete szerinti adatokról,
+d)[^43] az e rendelet 6. számú melléklete szerinti adatokról tájékoztatja a Bizottságot,
 
-da) a stratégiai zajtérképekre vonatkozóan a (2) és a (4) bekezdések szerinti dátumoktól számított 6 hónapon belül,
+da)[^44] a stratégiai zajtérképekre vonatkozóan a (4) bekezdés szerinti dátumtól számított 6 hónapon belül,
 
-db) az intézkedési tervre vonatkozóan a (3) és az (5) bekezdések szerinti dátumoktól számított 6 hónapon belül.
+db)[^45] az intézkedési tervre vonatkozóan az (5) bekezdés szerinti dátumtól számított 6 hónapon belül.
 
-[^41]: A 14. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 285. §-ával megállapított szöveg.
-[^42]: A 14. § (2)–(3) bekezdését a 106/2017. (IV. 28.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
-[^43]: A 14. § (4) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 286. § c) pontja, a 106/2017. (IV. 28.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^44]: A 14. § (4) bekezdés a) pontja a 106/2017. (IV. 28.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
-[^45]: A 14. § (5) bekedzdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 286. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 68. § b) pontja, a 106/2017. (IV. 28.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
-[^46]: A 14. § (6) bekezdése a 106/2017. (IV. 28.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
-[^47]: A 14. § (7) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 286. § g) pontja szerint módosított szöveg.
+(8)[^46] A stratégiai zajtérkép készítésére kötelezett a stratégiai zajtérképek vonatkozásában a (4) bekezdésben, az intézkedési tervek vonatkozásában az (5) bekezdésben meghatározott dátumoktól számított 6 hónapon belül gondoskodik a stratégiai zajtérképek, valamint intézkedési tervek készítésének végeredményeként előállított téradatkészletek és azok metaadatainak Nemzeti Környezeti Térinformatikai Rendszeren keresztül való közzétételéről.
+
+(9)[^47] A Bizottság (7) bekezdésben szereplő adatokról való tájékoztatását a környezeti zaj értékeléséről és kezeléséről szóló, 2002. június 25-i 2002/49/EK európai parlamenti és tanácsi irányelv 3. cikk w) pontja szerinti adattár alkalmazásával kell elvégezni. Az adattárba feltöltött adatok frissítése esetén meg kell adni az eredeti és a frissített információ közötti különbségeket és a frissítés indokait.
+
+[^34]: A 14. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 285. §-ával megállapított, a 209/2021. (IV. 29.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^35]: A 14. § (2)–(3) bekezdését a 106/2017. (IV. 28.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^36]: A 14. § (4) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 286. § c) pontja, a 106/2017. (IV. 28.) Korm. rendelet 3. § d) pontja, a 209/2021. (IV. 29.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^37]: A 14. § (4) bekezdés a) pontja a 106/2017. (IV. 28.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^38]: A 14. § (5) bekezdése a 209/2021. (IV. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^39]: A 14. § (6) bekezdése a 106/2017. (IV. 28.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^40]: A 14. § (7) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 286. § g) pontja szerint módosított szöveg.
+[^41]: A 14. § b) pontját a 209/2021. (IV. 29.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^42]: A 14. § (7) bekezdés c) pontja a 209/2021. (IV. 29.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^43]: A 14. § (7) bekezdés d) pont nyitó szövegrésze a 209/2021. (IV. 29.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^44]: A 14. § (7) bekezdés d) pont da) alpontja a 209/2021. (IV. 29.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^45]: A 14. § (7) bekezdés d) pont db) alpontja a 209/2021. (IV. 29.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
+[^46]: A 14. § (8) bekezdését a 209/2021. (IV. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^47]: A 14. § (9) bekezdését a 209/2021. (IV. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be.

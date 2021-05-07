@@ -1,41 +1,19 @@
-11. § (1) A fő közlekedési létesítmény kötelezettje, illetve az intézkedési terv készítésére kötelezett önkormányzat jegyzője a 10. §-ban meghatározott zajbizottsághoz – fő repülőtér esetén a külön jogszabály[^30] szerinti zajvédelmi bizottsághoz – véleményezésre benyújtja az intézkedési terv tervezetét (a továbbiakban: intézkedési tervjavaslat).
+11. § (1) Az 1. § (1) bekezdés a) és b) pontjaiban meghatározott települések esetén a saját területükre vonatkozó véglegesített intézkedési tervet a kötelezett önkormányzat képviselő-testülete, illetve közgyűlése fogadja el.
 
-(2)[^31] Fő közlekedési létesítmény kötelezettje az intézkedési tervjavaslatot véleményezésre a közlekedésért felelős miniszternek is benyújtja.
+(2) A fő közlekedési létesítmény kötelezettje a véglegesített intézkedési tervet a közlekedésért felelős miniszternek nyújtja be. A közlekedésért felelős miniszter az intézkedési tervet állásfoglalásával ellátva 30 napon belül továbbítja a környezetvédelmi hatósághoz. A véglegesített intézkedési tervet a környezetvédelmi hatóság 30 napon belül jóváhagyja.
 
-(3) A kötelezett önkormányzat az intézkedési tervjavaslatot – a külön jogszabályban[^32] meghatározottakon kívül – véleményezésre megküldi
+(3) A környezetvédelmi hatóság nem hagyja jóvá a benyújtott intézkedési tervet, és a fő közlekedési létesítmény kötelezettjét értesíti az elutasítás okáról, ha
 
-a)[^33] az illetékes közegészségügyi hatóság,
+a) az intézkedési terv nem felel meg az 5. számú mellékletben foglalt tartalmi feltételeknek, vagy
 
-b)[^34] a közlekedési hatóság,
+b) a fő közlekedési létesítmény kötelezettje az intézkedési tervjavaslatok egyeztetését nem folytatta le.
 
-c)[^35]
+(4) Ha a környezetvédelmi hatóság az intézkedési tervet nem hagyja jóvá, a fő közlekedési létesítmény kötelezettje az intézkedési tervet átdolgozza, és a környezetvédelmi hatóság által előírt határidőre ismételten benyújtja a környezetvédelmi hatósághoz.
 
-d)[^36] az illetékes megyei önkormányzatok
+(5) A kötelezett önkormányzat az (1) bekezdés szerint elfogadott intézkedési tervet, valamint a közgyűlés elfogadó határozatát – a 14. § (5) bekezdésében meghatározott határidő figyelembevételével – megküldi a környezetvédelemért felelős miniszter, valamint a környezetvédelmi hatóság részére.
 
-részére.
+(6) A fő közlekedési létesítmény kötelezettje a (2) bekezdés szerint jóváhagyott intézkedési tervet – a 14. § (5) bekezdésében meghatározott határidő figyelembevételével – megküldi az érintett önkormányzatok és a környezetvédelemért felelős miniszter részére.
 
-(4) Az (1)–(3) bekezdésben meghatározott szervezetek az intézkedési tervjavaslatot a megkereséstől számított 30 napon belül véleményezik. Amennyiben valamely szervezet az előírt határidőn belül nem nyilatkozik, úgy egyetértőnek kell tekinteni.
+(7) A fő közlekedési létesítmény kötelezettje a jóváhagyott, a kötelezett önkormányzat az elfogadott intézkedési tervet honlapján közzéteszi, és annak elérhetőségét a közzétételtől számított 10 éven keresztül biztosítja.
 
-(5) Az intézkedési terv készítésére kötelezett önkormányzat helyben szokásos módon köteles tájékoztatni az érintett közvéleményt
-
-a) az intézkedési tervet megalapozó, elfogadott, az adott területre vonatkozó stratégiai zajtérképek megtekintésének lehetőségéről (helyéről, idejéről);
-
-b) az intézkedési tervjavaslat tartalmáról, valamint az abban foglalt célokról.
-
-(6) Az intézkedési tervjavaslattal kapcsolatos észrevételek megtételére a közzététel időpontjától számított 30 napot kell biztosítani.
-
-(7) A közvélemény (5) bekezdésnek megfelelő tartalmú tájékoztatása érdekében a fő közlekedési létesítmény kötelezettje tájékoztatja az érintett önkormányzatot, amely 8 napon belül tájékoztatja a közvéleményt.
-
-(8) Az intézkedési tervjavaslatról közölt információnak jól érthetőnek kell lennie.
-
-(9) A legfontosabb témakörökről a kötelezett önkormányzat, illetve a fő közlekedési létesítmény kötelezettje összefoglalót készít.
-
-(10) A kötelezett önkormányzat, illetve a fő közlekedési létesítmény kötelezettje a vélemények figyelembevételével véglegesíti az intézkedési tervet.
-
-[^30]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet.
-[^31]: A 11. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 286. § e) pontja szerint módosított szöveg.
-[^32]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény.
-[^33]: A 11. § (3) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 127. §-a, a 70/2015. (III. 30.) Korm. rendelet 68. § d) pontja szerint módosított szöveg.
-[^34]: A 11. § (3) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 33. §-a szerint módosított szöveg.
-[^35]: A 11. § (3) bekezdés c) pontját a 67/2012. (IV. 5.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^36]: A 11. § (3) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
+(8) A (7) bekezdés szerint közétett intézkedési terveket a környezetvédelemért felelős miniszter az általa vezetett minisztérium hivatalos honlapján elérhetővé teszi.

@@ -1,11 +1,5 @@
-12. § (1) Az 1. § (1) bekezdésének a) és b) pontjaiban meghatározott területek esetén a saját területükre vonatkozó véglegesített intézkedési tervet a kötelezett önkormányzatok képviselő-testületei, illetve közgyűlése fogadja el.
+12. § (1) A 14. § (5) bekezdésében meghatározott gyakorisággal, valamint a zajhelyzetet befolyásoló jelentős változás bekövetkezése esetén az intézkedési tervet felül kell vizsgálni, és szükség szerint módosítani kell.
 
-(2)[^38] A fő közlekedési létesítmény kötelezettje a véglegesített intézkedési tervet a közlekedésért felelős miniszternek nyújtja be. A közlekedésért felelős miniszter az intézkedési tervet állásfoglalásával ellátva 30 napon belül továbbítja a környezetvédelmi hatósághoz. A véglegesített intézkedési tervet a környezetvédelmi hatóság jóváhagyja.
+(2) Jelentősnek tekinthető a változás, ha hatására a meglévő üzemi létesítmény, illetve a fő vagy egyéb közlekedési létesítmény által okozott zajterhelés legalább 10 dB-lel növekszik a korábban megállapított zajterheléshez képest.
 
-(3)[^39] A kötelezett önkormányzat az (1) bekezdés szerint elfogadott intézkedési tervet a környezetvédelmi hatóság részére megküldi.
-
-(4)[^40] Fő közlekedési létesítmények kötelezettje a (2) bekezdés szerint jóváhagyott intézkedési tervet az érintett önkormányzatoknak és a környezetvédelmi hatóság részére megküldi.
-
-[^38]: A 12. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 381. §-a, a 221/2014. (IX. 4.) Korm. rendelet 286. § f) pontja, a 70/2015. (III. 30.) Korm. rendelet 68. § b) és e) pontja szerint módosított szöveg.
-[^39]: A 12. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 381. §-a, a 70/2015. (III. 30.) Korm. rendelet 68. § b) pontja, a 477/2016. (XII. 27.) Korm. rendelet 32. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^40]: A 12. § (4) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+(3) A felülvizsgálat során külön-külön kell bemutatni az üzemi és közlekedési zajforrások esetén a meglévő zajterhelést megváltoztató tényezőket, és a megváltozott zajterhelést figyelembe véve át kell dolgozni vagy ki kell egészíteni az intézkedési tervet a 9. § figyelembevételével.
