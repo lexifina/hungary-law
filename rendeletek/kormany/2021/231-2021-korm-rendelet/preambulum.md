@@ -1,0 +1,1 @@
+A Kormány a Lisszaboni Megállapodás Eredetmegjelölésekről és Földrajzi Jelzésekről Szóló Genfi Szövegének kihirdetéséről szóló 2021. évi XXVIII. törvény 4. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
