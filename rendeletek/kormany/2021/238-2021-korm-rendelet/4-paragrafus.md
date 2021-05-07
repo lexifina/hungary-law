@@ -1,0 +1,3 @@
+## 3. § A 238/2017. (VIII. 18.) Korm. rendelet 13. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A továbbképzési kötelezettségek teljesítésébe tanulmányi pontértékük szerinti mértékben, az előírt kötelezettség teljes mértékéig beszámíthatóak a kormánytisztviselő, köztisztviselő által teljesített, a külpolitikáért felelős miniszter által vezetett minisztérium által a közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet és a Korm. rendelet alapján – belső továbbképzésként – nyilvántartásba vett és biztosított, a KÖFOP-2.1.4-VEKOP-16-2016-00001 azonosító jelű kiemelt projekt keretében fejlesztetett belső továbbképzési programok.”
