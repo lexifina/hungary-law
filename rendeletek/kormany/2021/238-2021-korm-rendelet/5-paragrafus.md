@@ -1,3 +1,5 @@
-## 4. § A 238/2017. (VIII. 18.) Korm. rendelet 17. §-ában a „2019. évben” szövegrész helyébe a „2019–2021. évben” szöveg lép.
+## 1–4. §[^2]
 
 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
