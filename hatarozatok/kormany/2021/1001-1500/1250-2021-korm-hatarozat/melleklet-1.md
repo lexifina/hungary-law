@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:364 mezőjében a „0,17” szövegrész helyébe a „0,42” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1250/2021. (V. 6.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, forint) | Többlettámogatás legfeljebb (bruttó, forint) | Megnövelt támogatás legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-3.3.1-16- 2016-00001 | Az MH Ócsai üzemanyagraktár területén feltárt szénhidrogén szennyezettség kármentesítése | Honvédelmi Minisztérium Védelemgazdasági Hivatal | 160 396 810 | 258 565 650 | 418 962 460 | A projekttel szembeni szakmai elvárás a /2004. (VII. 21.) Korm. rendelet előírásait betartva, hatósági kötelezésben foglaltak alapján kármentesítési munkálatok elvégzése, szennyezett talaj és talajvíz megtisztítása az MH Ócsai üzemanyagraktár területén. A projekt eredményeként csökken a szennyezés okozta környezeti és humánegészségügyi kockázat. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
