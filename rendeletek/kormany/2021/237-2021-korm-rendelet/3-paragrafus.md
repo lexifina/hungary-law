@@ -1,5 +1,0 @@
-## 2. § Az R. 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § (1) A miniszter – a megállapodás keretei között – a Fórum javaslatainak figyelembevételével évente összeállítja a pályázati tervet, valamint az Értékelő Bizottság javaslata alapján dönt a beérkezett pályázatokról.
-
-## (2) A pályázati kiíráshoz nem kapcsolódó, egyedi támogatási igény elbírálására a miniszter jogosult. A támogatási döntés meghozatala során a miniszter vizsgálja a költségvetési támogatás forrásául szolgáló előirányzat által finanszírozott közfeladatot, annak – kérelmező által történő – ellátásának célszerűségét, hatékonyságát, szakmai megfelelőségét, valamint a kérelemnek a közfeladat ellátásához történő illeszkedését. A Nemzeti Tehetség Program rendelkezésére álló tárgyévi támogatási forrás kilencvenöt százaléka egységes elvek alapján meghatározott támogatási döntések útján pályázati kiírások szerint, és öt százaléka pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján kerülhet felhasználásra.”
