@@ -1,1 +1,3 @@
-## 8. § Hatályát veszti a 280/2004. (X. 20.) Korm. rendelet 14. § (7) bekezdés b) pontja.
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.

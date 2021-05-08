@@ -1,1 +1,3 @@
-## „(7) A zajtérkép (6) bekezdés szerinti megküldésével egyidejűleg a települési zajtérkép készítésére kötelezett az érintett önkormányzatok részére hozzáférést biztosít a jóváhagyott stratégiai zajtérképek adatbázisához.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
