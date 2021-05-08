@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat C:8 mezőjében a „49,36” szövegrész helyébe a „49,94” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1248/2021. (V. 6.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.9-17- 2018-00011 | Hajdúszoboszló gyógyhely komplex turisztikai fejlesztése | Hajdúszoboszló Város Önkormányzata (konzorciumvezető) Hajdúszoboszlói Turisztikai Közhasznú Nonprofit Kft., Magyar Turisztikai Szövetség Alapítvány, Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság, Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 1 499 411 317 | 578 061 043 | 2 077 472 360 | A fejlesztés közvetlen céljai: a gyógyhely településképének minőségi fejlesztése, egységesebb városkép kialakítása, a látogatóbarát turistafogadás feltételeinek javítása, a fürdő környezetének megújítása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
