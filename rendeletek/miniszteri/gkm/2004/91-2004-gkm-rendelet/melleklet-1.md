@@ -1,6 +1,6 @@
-## 10. §[^23] Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 10. §[^24] Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^24]
+1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^25]
 
 I. FEJEZET
 
@@ -98,7 +98,7 @@ I. FEJEZET
 
 | 5.9. | Kettőnél több tengelyes jármű vizsgálatának díja | 5 900 |
 
-| 6. | Vizsgáló állomás engedélyezésére irányuló eljárás díja, valamint a sorozatszerű átalakítást végző gépjárműfenntartó szervezet feljogosítása az átalakított jármű vizsgálatára | 171 200 |
+| 6. | A sorozatszerű átalakítást végző gépjárműfenntartó szervezet feljogosítása az átalakított jármű vizsgálatára | 167 200 Ft |
 
 | 7. | A „Megfelelőségi nyilatkozattal” történő forgalomba helyezés esetén – az engedélyezési és ellenőrzési tevékenységért fizetendő díj – megegyezik a 4. pontban a jármű kategóriájához meghatározott forgalomba helyezés előtti vizsgálat díjával |  |
 
@@ -107,6 +107,8 @@ I. FEJEZET
 | 8.1. | vizsgáló állomáson végzett műszaki megvizsgálás esetén | 8 200 |
 
 | 8.2. | egyéb gépjárműfenntartó szervezet telephelyén végzett vizsgálat esetén | 13 600 |
+
+| 9. | Minősítő vizsgálat során autóbusz üzemeltetési és karbantartási napló kiadása | 1 700 Ft |
 
 II. FEJEZET
 
@@ -150,5 +152,25 @@ IV. FEJEZET
 
 A MENETÍRÓ KÉSZÜLÉKRŐL SZÓLÓ MINISZTERI RENDELETBEN MEGHATÁROZOTT HATÓSÁGI ELJÁRÁSOK IGAZGATÁSI SZOLGÁLTATÁSI DÍJAI
 
-[^23]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
-[^24]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja, a 74/2016. (XII. 29.) NFM rendelet 1. §-a, a 12/2017. (IV. 24.) NFM rendelet 6. § (7) bekezdése szerint módosított szöveg.
+| 1. | A menetíró szerelőműhely engedélyezéséhez kapcsolódó díjak |  |
+
+| 1.1. | Menetíró szerelőműhely engedélyezésének díja telephelyenként | 175 900 Ft |
+
+| 1.2. | Menetíró szerelőműhely engedélyének módosítása | 17 590 Ft |
+
+| 1.3. | Menetíró szerelő engedélyezésének díja | 5 000 Ft |
+
+| 2. | A fizetendő díj kártyánként |  |
+
+| 2.1. | Járművezetői kártya kiadása, cseréje, pótlása | 7 700 Ft |
+
+| 2.2. | Műhelykártya kiadása, cseréje, pótlása | 7 700 Ft |
+
+| 2.3. | Vállalkozási kártya kiadása, cseréje, pótlása | 7 700 Ft |
+
+| 2.4. | Ellenőrző kártya kiadása, cseréje, pótlása | 3 500 Ft |
+
+V. FEJEZET
+
+[^24]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
+[^25]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja, a 74/2016. (XII. 29.) NFM rendelet 1. §-a, a 12/2017. (IV. 24.) NFM rendelet 6. § (7) bekezdése, a 15/2021. (IV. 9.) ITM rendelet 14. §-a szerint módosított szöveg.
