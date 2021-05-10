@@ -16,7 +16,7 @@ b) (7a) bekezdés szerinti vendége, ha a vendéglátó üzletben az ott megvás
 
 c) kerthelyiségében vagy teraszán a vendéglátó üzlet vendége
 
-nem köteles a maszkot viselni.
+## nem köteles a maszkot viselni.
 
 (4a)[^41] A vendéglátó üzletben foglalkoztatott személy számára a maszkhasználat szabályait a vendéglátó üzlet vezetője határozza meg, azzal, hogy
 
@@ -32,7 +32,7 @@ a) az ott foglalkoztatottak kivételével és
 
 b)[^42] a (7) és a (7a) bekezdés szerinti kivétellel
 
-tilos tartózkodni.
+## tilos tartózkodni.
 
 (7)[^43] A koronavírus ellen védett személy és a felügyelete alatt lévő tizennyolcadik életévét be nem töltött személy kivételével a vendéglátó üzleten belül való tartózkodás
 
@@ -42,7 +42,7 @@ b)[^45] a vendéglátó üzlet mellékhelyiségének használata céljából és
 
 c)[^46] – ha arra a kerthelyiségben vagy a teraszon nincs lehetőség – a fogyasztás kifizetése céljából
 
-az ehhez szükséges időtartamig megengedett, azzal, hogy a vendéglátó üzleten belül a megrendelt étel, illetve ital fogyasztása tilos.
+## az ehhez szükséges időtartamig megengedett, azzal, hogy a vendéglátó üzleten belül a megrendelt étel, illetve ital fogyasztása tilos.
 
 (7a)[^47] A vendéglátó üzleten belül reggel 5 óra és este 11 óra között a koronavírus ellen védett személy, valamint a felügyelete alatt lévő tizennyolcadik életévét be nem töltött személy számára a tartózkodás, és a megrendelt étel, illetve ital elfogyasztása megengedett.
 

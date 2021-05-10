@@ -18,7 +18,7 @@ db) edzés vagy sportrendezvény helyszínére közlekedés céljából,
 
 dc) edzés vagy sportrendezvény helyszínéről a lakóhelyre, a tartózkodási helyre, illetve a szálláshelyre történő közlekedés céljából
 
-éjfél és reggel 5 óra között megengedett a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen történő tartózkodás.
+## éjfél és reggel 5 óra között megengedett a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen történő tartózkodás.
 
 (3)[^18] Az (1) bekezdéstől eltérően kutyasétáltatás céljából éjfél és reggel 5 óra között megengedett a lakóhely, a tartózkodási hely vagy a szálláshely elhagyása, illetve a közterületen tartózkodás azzal, hogy a kutyasétáltatás során a lakóhely, a tartózkodási hely vagy a szálláshely 500 méteres körzete nem hagyható el.
 

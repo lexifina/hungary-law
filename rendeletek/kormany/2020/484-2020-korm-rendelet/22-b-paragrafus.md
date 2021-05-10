@@ -1,3 +1,3 @@
-22/B. §[^104]
+## 22/A. §[^108]
 
-[^104]: A 22/B. §-t a 28/2021. (I. 29.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § g) pontja.
+[^108]: A 22/A. §-t a 28/2021. (I. 29.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § f) pontja.

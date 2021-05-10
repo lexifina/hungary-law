@@ -1,3 +1,5 @@
+## esetében.
+
 ## 11. A Magyar Honvédség veszélyhelyzeti közreműködése
 
 20. § (1) A Magyar Honvédség a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 36. § (1) bekezdés k) pontja alapján a Hvt. 54/E. §-a szerint közreműködik a veszélyhelyzettel kapcsolatos (2) bekezdés szerinti feladatok ellátásában.
@@ -22,8 +24,8 @@ c) a járványügyi készültség során működő Operatív Törzs feladatairó
 
 d) a Kormány katasztrófák elleni védekezésért felelős tagjának felkérése
 
-alapján, az a) vagy b) pont szerinti döntésben, valamint a c) vagy d) pont szerinti felkérésben megjelölt létesítmény vonatkozásában – a kapacitásai és az egyéb, a veszélyhelyzetben ellátandó feladatai teljesíthetősége figyelembevétele mellett – látja el.
+## alapján, az a) vagy b) pont szerinti döntésben, valamint a c) vagy d) pont szerinti felkérésben megjelölt létesítmény vonatkozásában – a kapacitásai és az egyéb, a veszélyhelyzetben ellátandó feladatai teljesíthetősége figyelembevétele mellett – látja el.
 
-(5)[^93] A Magyar Honvédség a veszélyhelyzet ideje alatt a (2) bekezdésben meghatározott feladatokon túl az Operatív Törzs felkérése alapján közreműködik a SARS-CoV-2 koronavírus elleni tömeges oltási feladatok biztosításában a kapacitásai, valamint az egyéb, a veszélyhelyzet és a járványügyi készültség ideje alatt ellátandó feladatai teljesíthetősége figyelembevétele mellett.
+(5)[^98] A Magyar Honvédség a veszélyhelyzet ideje alatt a (2) bekezdésben meghatározott feladatokon túl az Operatív Törzs felkérése alapján közreműködik a SARS-CoV-2 koronavírus elleni tömeges oltási feladatok biztosításában a kapacitásai, valamint az egyéb, a veszélyhelyzet és a járványügyi készültség ideje alatt ellátandó feladatai teljesíthetősége figyelembevétele mellett.
 
-[^93]: A 20. § (5) bekezdését a 109/2021. (III. 5.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A 20. § (5) bekezdését a 109/2021. (III. 5.) Korm. rendelet 1. §-a iktatta be.

@@ -8,7 +8,7 @@ b) a lottózóban, valamint
 
 c) a nemzeti dohányboltban
 
-tartózkodni.
+## tartózkodni.
 
 (2)[^55] Este 11 óra és reggel 5 óra között
 
@@ -18,7 +18,7 @@ b) a lottózó, valamint
 
 c) a nemzeti dohánybolt
 
-köteles zárva tartani.
+## köteles zárva tartani.
 
 (3)[^56] Este 11 óra és reggel 5 óra között
 
@@ -26,7 +26,7 @@ a) a gyógyszertár és
 
 b) az üzemanyagtöltő-állomás
 
-nyitva tarthat.
+## nyitva tarthat.
 
 (4) E § alkalmazásában a vendéglátó üzlet nem minősül üzletnek.
 
