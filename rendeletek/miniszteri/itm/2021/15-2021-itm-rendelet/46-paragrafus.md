@@ -1,5 +1,5 @@
-## 45. §[^45]
+## 45. §[^43]
 
 ## 15. A Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programról szóló 22/2013. (V. 16.) NFM rendelet módosítása
 
-[^45]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
