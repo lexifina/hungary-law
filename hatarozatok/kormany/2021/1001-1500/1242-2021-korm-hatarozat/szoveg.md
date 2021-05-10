@@ -24,4 +24,6 @@ c) az érintett állami szervek vezetői részére intézkedés megtételét jav
 
 7. Ez a határozat 2021. május 9-én lép hatályba.
 
-8. Hatályát veszti a közigazgatási bíróságokról szóló 2018. évi CXXX. törvény hatálybalépésével összefüggő feladatok koordinációjáért felelős kormánybiztos kinevezéséről szóló 1270/2019. (V. 8.) Korm. határozat.
+8.[^2]
+
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
