@@ -1,1 +1,0 @@
-Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 18. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
