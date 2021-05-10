@@ -1,5 +1,3 @@
-## Egységes környezethasználati engedély alapján végezhető tevékenységek engedélyezésének igazgatási szolgáltatási díjai
-
 |  | A | B |
 
 | Sorszám | Egységes környezethasználati engedélyezés alá tartozó tevékenységek | Igazgatási szolgáltatási díj mértéke (Ft) |
@@ -49,3 +47,5 @@
 | 11. |  | Az engedélyes adataiban bekövetkezett változások miatti módosítás | 15 000 |
 
 4. melléklet a 14/2015. (III. 31.) FM rendelethez
+
+Azon tevékenységek engedélyezésének igazgatási szolgáltatási díjai, amelyeknél a környezetvédelmi hatóság előzetes vizsgálatban hozott döntése alapján szükséges a környezeti hatásvizsgálat lefolytatása

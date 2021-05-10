@@ -1,5 +1,3 @@
-## Egyes igazgatási szolgáltatási díjköteles környezetvédelmi és természetvédelmi hatósági eljárások díjának mértéke
-
 |  | A | B |
 
 | Sorszám | Az igazgatási szolgáltatási díjköteles környezetvédelmi, természetvédelmi hatósági eljárások megnevezése | Igazgatási szolgáltatási díj mértéke (Ft) |
@@ -260,25 +258,13 @@
 
 |  | 2. | tokfajok esetében [a védett tokfajok hasznosításáról szóló 24/2008. (X. 8.) KvVM rendelet] | 20 000 |
 
-| 32. |  | Barlangokkal kapcsolatos tevékenységek engedélyezése [Tvt. 51. § (1) és (3) bekezdés] |  |
+| 32. |  | Barlangokkal kapcsolatos tevékenységek engedélyezése [Tvt. 51. § (1) bekezdés] |  |
 
 |  | 1. | barlang, barlangszakasz hasznosítása, a hasznosítási mód megváltoztatása | 60 000 |
 
-|  | 2. |  |  |
+|  | 2. | barlangi képződmények hasznosítása, értékesítése, külföldre juttatása | 60 000 |
 
-|  | 3. | barlangi képződmények hasznosítása, értékesítése, külföldre juttatása | 60 000 |
-
-|  | 4. |  |  |
-
-|  | 5. | barlangi búvármerülés (nem kutatási célból) | 5 500 |
-
-|  | 5.1. |  |  |
-
-|  | 5.2. |  |  |
-
-|  | 6. |  |  |
-
-|  | 7. | barlangi reklámfilm, játékfilm, videoklip forgatás engedélyezése | 30 000 |
+|  | 3. | Országos Barlangnyilvántartásból történő adatszolgáltatás esetén, a hitelesítési és érvényességi záradékkal ellátott adatokat tartalmazó nyomtatvány vagy másolat hitelesítési és érvényességi záradékának kiállítása | 10 000 |
 
 | 33. |  | A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezménnyel (CITES) kapcsolatos engedélyek (bizonylatok) kiállítása: |  |
 
@@ -347,3 +333,5 @@
 | 46. |  | Bejelentési eljárás | 50 000 |
 
 2. melléklet a 14/2015. (III. 31.) FM rendelethez
+
+Környezeti hatásvizsgálat alapján végezhető tevékenységek engedélyezésének igazgatási szolgáltatási díjai

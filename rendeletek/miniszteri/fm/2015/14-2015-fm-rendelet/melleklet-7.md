@@ -1,5 +1,3 @@
-## Igazgatási szolgáltatási díjköteles környezetvédelmi és természetvédelmi szakhatósági eljárások, illetve az igazgatási szolgáltatási díj mértéke
-
 |  | A | B |
 
 |  | Az igazgatási szolgáltatási díjköteles környezetvédelmi és természetvédelmi szakhatósági eljárások megnevezése | Igazgatási szolgáltatási díj mértéke (Ft) |

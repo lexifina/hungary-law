@@ -1,5 +1,3 @@
-## Környezeti hatásvizsgálat alapján végezhető tevékenységek engedélyezésének igazgatási szolgáltatási díjai
-
 |  | A | B |
 
 | Sorszám | Környezeti hatásvizsgálat köteles tevékenységek | Igazgatási szolgáltatási díj mértéke (Ft) |
@@ -69,3 +67,5 @@
 | 16. |  | Az engedélyes adataiban bekövetkezett változások miatti módosítási eljárás | 15 000 |
 
 3. melléklet a 14/2015. (III. 31.) FM rendelethez
+
+Egységes környezethasználati engedély alapján végezhető tevékenységek engedélyezésének igazgatási szolgáltatási díjai

@@ -1,5 +1,3 @@
-## Azon tevékenységek engedélyezésének igazgatási szolgáltatási díjai, amelyeknél a környezetvédelmi hatóság előzetes vizsgálatban hozott döntése alapján szükséges a környezeti hatásvizsgálat lefolytatása
-
 |  | A | B |
 
 | Sorszám | Azon tevékenységek, amelyeknél a környezetvédelmi hatóság előzetes vizsgálatban hozott döntése alapján szükséges a környezeti hatásvizsgálat lefolytatása | Igazgatási szolgáltatási díj mértéke (Ft) |
@@ -152,7 +150,7 @@
 
 5. melléklet a 14/2015. (III. 31.) FM rendelethez
 
-## A konzultációért fizetendő díj és számítási módja
+A konzultációért fizetendő díj és számítási módja
 
 1. A konzultációs óradíj: 6000 forint/óra.
 
