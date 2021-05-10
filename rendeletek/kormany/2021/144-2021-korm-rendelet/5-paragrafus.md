@@ -1,4 +1,4 @@
-5. § (1)[^6] Reggel 5 óra és este 11 óra között az üzlet – beleértve a védelmi intézkedések ideiglenes szigorításáról szóló 104/2021. (III. 5.) Korm. rendelet alapján kötelezően zárva tartó üzletet – az e rendeletben meghatározott ideiglenes védelmi intézkedések végrehajtása és betartása esetén tarthat nyitva.
+5. § (1)[^6] Reggel 5 óra és este 11 óra között az üzlet az e rendeletben meghatározott ideiglenes védelmi intézkedések végrehajtása és betartása esetén tarthat nyitva.
 
 (2) Az e rendeletben meghatározott ideiglenes védelmi intézkedések végrehajtását és betartását nem vállaló
 
@@ -6,7 +6,7 @@ a) üzletben az ott foglalkoztatottak kivételével tilos tartózkodni,
 
 b) üzlet köteles zárva tartani.
 
-(3) A vendéglátó üzletben való tartózkodás – az e rendelet hatálybalépésekor hatályos jogszabályi rendelkezések szerint, a veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet szabályai értelmében – az elvitelre alkalmas ételek kiadása és szállítása érdekében, az ehhez szükséges időtartamig – megengedett. A vendéglátó üzlet e rendelet alkalmazásában nem minősül üzletnek.
+(3)[^7] A vendéglátó üzlet e rendelet alkalmazásában nem minősül üzletnek.
 
 (4) A tíz négyzetméteres vagy ennél kisebb vásárlótérrel rendelkező üzlet vásárlóterében az ott foglalkoztatottakon kívül egy időben egy vásárló tartózkodhat.
 
@@ -46,4 +46,5 @@ c) a fogyatékossággal élő személy segítőjét
 
 (11) Az olyan üzlet, amely nem rendelkezik vásárlótérrel, abban az esetben tarthat nyitva, ha az üzlet üzemeltetője, illetve vezetője gondoskodik arról, hogy a sorban álló várakozók – a közös háztartásban élők kivételével – egymástól 1,5 méteres távolságot folyamatosan tartsanak.
 
-[^6]: Az 5. § (1) bekezdése a 194/2021. (IV. 26.) Korm. rendelet 16. § b) pontja szerint módosított szöveg. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^6]: Az 5. § (1) bekezdése a 194/2021. (IV. 26.) Korm. rendelet 16. § b) pontja, a 233/2021. (V. 6.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (3) bekezdése a 233/2021. (V. 6.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
