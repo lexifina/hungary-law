@@ -2,7 +2,7 @@
 
 ## 3. § E rendelet alkalmazásában
 
-1.[^5] a támogatás odaítélésének időpontja: a 2. § (1) bekezdés a) pontja szerinti versenyképesség-növelő támogatás esetében a támogatói okirat kiállításának az időpontja, míg a 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás esetében a támogatási szerződés aláírásának az időpontja;
+1.[^5] a támogatás odaítélésének időpontja: a 2. § (1) bekezdés a) pontja szerinti versenyképesség-növelő támogatás esetében a támogatói okirat kiállításának az időpontja, míg a 2. § (1) bekezdés b) és c) pontja szerinti versenyképesség-növelő támogatás esetében a támogatási szerződés aláírásának az időpontja;
 
 2. acélipar: az általános csoportmentességi rendelet 2. cikk 43. pontja szerinti acélipar;
 
@@ -28,7 +28,7 @@
 
 13. turisztikai tevékenység: az általános csoportmentességi rendelet 2. cikk 47. pontja szerinti turisztikai tevékenység, beleértve az egészségturizmust;
 
-14.[^7] bázislétszám: a pályázó átlagos állományi létszáma a pályázat vagy a támogatási kérelem benyújtását megelőző 12 hónapban;
+14.[^7] bázislétszám: a 2. § (1) bekezdés a) és b) pontja szerinti versenyképesség-növelő támogatásra irányuló pályázat esetében a pályázó átlagos állományi létszáma a pályázat vagy a támogatási kérelem benyújtását megelőző 12 hónapban, míg a 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatás esetében a pályázó átlagos állományi létszáma a támogatási kérelem benyújtását megelőző 12 hónapban, vagy ha a pályázó ennél magasabb létszámra vállalt más támogatási jogviszonyban létszámfenntartást azonos vagy részben azonos fenntartási időszakra, úgy az a létszám;
 
 15.[^8] beruházás: tárgyi eszközök vagy immateriális javak beszerzése, amely új létesítmény létrehozatalát, meglévő létesítmény kapacitásának bővítését, létesítmény termékkínálatának a létesítményben addig nem gyártott termékekkel történő bővítését vagy egy meglévő létesítmény teljes termelési folyamatának alapvető megváltoztatását eredményezi, vagy a részesedésszerzés kivételével olyan létesítmény eszközeinek az eladótól független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került;
 
@@ -68,7 +68,7 @@ c) a pályázó üzleti tevékenységének teljes vagy részleges korlátozódá
 
 d) a pályázónál jelentkező bevételkiesés, amely a megrendelt áruk és szolgáltatások ügyfelek részéről történt átvételének a koronavírus-járvány miatti ellehetetlenülése vagy amiatt következett be, hogy az ügyfelek a koronavírus-járvány eredményeként nem teljesítették fizetési kötelezettségüket;
 
-25.[^15] pályázó: a 2. § (1) bekezdés a) pontja szerinti versenyképesség-növelő támogatásra irányuló pályázatot vagy a 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatási kérelmet benyújtó gazdasági társaság;
+25.[^15] pályázó: a 2. § (1) bekezdés a) pontja szerinti versenyképesség-növelő támogatásra irányuló pályázatot vagy a 2. § (1) bekezdés b) és c) pontja szerinti versenyképesség-növelő támogatási kérelmet benyújtó gazdasági társaság;
 
 26.[^16] szezonalitással érintett pályázó: olyan pályázó, amely a támogatási kérelmében nyilatkozik, hogy az elmúlt három egymást követő üzleti évben egy adott időszakra vonatkozó napi átlag árbevétele több mint 25%-kal eltér az egész év napi átlag árbevételétől;
 
@@ -76,9 +76,17 @@ d) a pályázónál jelentkező bevételkiesés, amely a megrendelt áruk és sz
 
 28.[^18] garancia: a Polgári Törvénykönyvről szóló 2013. évi V. törvény LXI. Fejezetében meghatározott garanciavállaló nyilatkozat, melyet olyan garantőr állított ki, amelyben a Magyar Állam többségi tulajdonnal nem rendelkezik – a Magyar Állam többségi tulajdona esetén akkor, ha a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § 62. pontja szerinti közérdeklődésre számot tartó hitelintézetnek minősül –, és amely a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank által kiadott, garancia nyújtására vonatkozó engedéllyel rendelkezik, és szerepel a Magyar Nemzeti Bank engedélyezési és intézményfelügyelési nyilvántartásában, és a garancianyilatkozat megfelel a vonatkozó engedély kereteinek és az abban foglalt összeghatárnak.
 
-[^5]: A 3. § 1. pontja a 10/2020. (VII. 4.) KKM rendelet 4. §-ával megállapított szöveg.
+29.[^19] bértömeg: az Sztv. 79. §-ában meghatározott ráfordításoknak az Sztv. 79. § (4) bekezdése szerinti bérjárulékok levonása utáni, az adott lezárt üzleti évben elért éves összege;
+
+30.[^20] kötelező üzemeltetési időszak: a beruházás befejezését követő legalább két üzleti év;
+
+31.[^21] saját forrás: a beruházás megvalósításához szükséges, a pályázó által biztosítandó pénzügyi forrás;
+
+32.[^22] új munkahely: a pályázónál a beruházás eredményeként közvetlenül létrejött, a munka törvénykönyvéről szóló törvény hatálya alá tartozó új munkahelyek, amelyek a beruházáshoz köthető tevékenységhez kapcsolódnak, és amelyek létrehozására és fenntartására a pályázó kötelezettséget vállal, összehasonlítva a pályázó bázislétszámával.
+
+[^5]: A 3. § 1. pontja a 11/2021. (V. 9.) KKM rendelet 4. §-ával megállapított szöveg.
 [^6]: A 3. § 4. pontja a 10/2020. (VII. 4.) KKM rendelet 5. §-ával megállapított szöveg.
-[^7]: A 3. § 14. pontja a 10/2020. (VII. 4.) KKM rendelet 6. §-ával megállapított szöveg.
+[^7]: A 3. § 14. pontja a 11/2021. (V. 9.) KKM rendelet 5. §-ával megállapított szöveg.
 [^8]: A 3. § 15. pontja a 10/2020. (VII. 4.) KKM rendelet 6. §-ával megállapított szöveg.
 [^9]: A 3. § 19. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
 [^10]: A 3. § 20. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
@@ -86,7 +94,11 @@ d) a pályázónál jelentkező bevételkiesés, amely a megrendelt áruk és sz
 [^12]: A 3. § 22. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
 [^13]: A 3. § 23. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
 [^14]: A 3. § 24. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
-[^15]: A 3. § 25. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
+[^15]: A 3. § 25. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be, szövege a 11/2021. (V. 9.) KKM rendelet 6. §-ával megállapított szöveg.
 [^16]: A 3. § 26. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
 [^17]: A 3. § 27. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
 [^18]: A 3. § 28. pontját a 10/2020. (VII. 4.) KKM rendelet 7. §-a iktatta be.
+[^19]: A 3. § 29. pontját a 11/2021. (V. 9.) KKM rendelet 7. §-a iktatta be.
+[^20]: A 3. § 30. pontját a 11/2021. (V. 9.) KKM rendelet 7. §-a iktatta be.
+[^21]: A 3. § 31. pontját a 11/2021. (V. 9.) KKM rendelet 7. §-a iktatta be.
+[^22]: A 3. § 32. pontját a 11/2021. (V. 9.) KKM rendelet 7. §-a iktatta be.
