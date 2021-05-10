@@ -1,1 +1,0 @@
-A természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 49. §-ának (2) bekezdésében, az 51. §-ának (4) bekezdésében, valamint a 85. §-ának b) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
