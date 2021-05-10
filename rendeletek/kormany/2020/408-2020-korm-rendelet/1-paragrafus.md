@@ -22,13 +22,16 @@ b)[^2] a külföldre utazásról szóló 1998. évi XII. törvény 6/A. § (2) b
 
 c) arra a személyre, aki a Magyarországra való belépés során hitelt érdemlően igazolja, hogy a határátlépésre jelentkezés napját megelőző 6 hónapon belül a COVID-19 betegségen (a továbbiakban: fertőzés) átesett.
 
-d)[^3] arra a személyre, aki a határátlépés során a koronavírus elleni védettségét a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet szerinti hatósági igazolvány (a továbbiakban: védettségi igazolvány), valamint a védettségi igazolványon feltüntetett személyazonosság igazolására alkalmas hatósági igazolvány felmutatásával igazolja, valamint
+d)[^3] arra a személyre, aki a határátlépés során a koronavírus elleni védettségét a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet szerinti hatósági igazolvány (a továbbiakban: védettségi igazolvány), valamint a védettségi igazolványon feltüntetett személyazonosság igazolására alkalmas hatósági igazolvány felmutatásával igazolja,
 
-e)[^4] arra a személyre, aki olyan ország által kiállított védettségi igazolással rendelkezik, amely a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötött Magyarországgal, és az ezen ország által a részére kiállított koronavírus elleni védettséget igazoló hatósági igazolvány felmutatásával a koronavírus elleni védettségét igazolja.
+e)[^4] arra a személyre, aki olyan ország által kiállított védettségi igazolással rendelkezik, amely a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötött Magyarországgal, és az ezen ország által a részére kiállított koronavírus elleni védettséget igazoló hatósági igazolvány felmutatásával a koronavírus elleni védettségét igazolja, valamint
+
+f)[^5] arra a tizennyolcadik életévét be nem töltött személyre, aki a d) pont szerinti személy felügyelete alatt áll, és vele együtt lépi át Magyarország határát.
 
 (4) E rendelet alkalmazásában hivatalos célú határátlépés a magánútlevéllel, valamint az egyéb úti okmánnyal végrehajtott hivatalos látogatás céljából történő határátlépés.
 
 [^1]: Az 1. § (2) bekezdés e) pontját a 422/2020. (IX. 4.) Korm. rendelet 1. §-a iktatta be.
 [^2]: Az 1. § (3) bekezdés b) pontja a 203/2021. (IV. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdés d) pontját a 203/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. § (3) bekezdés e) pontját a 203/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (3) bekezdés d) pontját a 203/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 233/2021. (V. 6.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés e) pontját a 203/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 233/2021. (V. 6.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés f) pontját a 233/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be.
