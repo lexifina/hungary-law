@@ -1,0 +1,1 @@
+## 20. § A hatályon kívül helyezett, a barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről, valamint a barlangok kiépítéséről szóló 13/1998. (V. 6.) KTM rendelet szerinti túra-, illetve kutatásvezetői igazolványok az e rendelet szerinti túra-, illetve kutatásvezetői igazolványnak minősülnek.
