@@ -1,3 +1,3 @@
-## 9. § A KKM rendelet 13. §-a a következő (3) bekezdéssel egészül ki:
+## 9. §[^10]
 
-## „(3) A 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatás a közlemény 3.1. szakaszának hatálya alá tartozó támogatást tartalmaz.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

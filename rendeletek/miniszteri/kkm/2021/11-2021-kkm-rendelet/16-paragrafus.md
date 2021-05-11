@@ -1,1 +1,3 @@
-## 15. § A KKM rendelet az 1. melléklet szerinti 3. melléklettel egészül ki.
+## 15. §[^16]
+
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

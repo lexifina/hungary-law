@@ -1,5 +1,3 @@
-## 13. § A KKM rendelet 2. melléklet IV. pont 27. alpontja helyébe a következő rendelkezés lép:
+## 13. §[^14]
 
-## (IV. Az Sztv. 47–51. §-ában meghatározott költségek számolhatók el a következő kivételekkel:)
-
-## „27. energiatermeléshez kapcsolódó eszközök, a IX. pontban meghatározott kivételekkel,”
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
