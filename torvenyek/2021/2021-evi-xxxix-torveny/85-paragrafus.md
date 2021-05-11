@@ -1,0 +1,3 @@
+85. § A Trtv. 93. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A településrendezési tervek (1) bekezdés szerinti elfogadásáig is – mint a kiemelt térségre országosan megállapított településrendezési követelményeket – az 51. § (3) és (5) bekezdésében, az 52–59. §-ban, a 60. § (2) bekezdésében, a 62. § (6) bekezdésében, a 65. § (6) bekezdésében, a 68. §-ban, a 71. § (4) bekezdésében, a 73. § (6) bekezdésében, a 74. § (2) bekezdésében, a 75. §-ban, a 78–84. §-ban, valamint a 87. §-ban foglalt rendelkezéseket alkalmazni kell azzal, hogy a térségi övezetek lehatárolását az e törvényben meghatározottak szerint kell figyelembe venni.”

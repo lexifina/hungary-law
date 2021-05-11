@@ -1,0 +1,3 @@
+## 15. A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény módosítása
+
+44. § A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény 3/A. §-ában a „településrendezési eszközeikben” szövegrész helyébe a „helyi építési szabályzatukban” szöveg, a „településrendezési tervükben, illetve a helyi építési szabályzatukban” szövegrész helyébe a „helyi építési szabályzatukban” szöveg lép.
