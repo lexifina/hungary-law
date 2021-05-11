@@ -1,4 +1,4 @@
-## 51. §[^49]
+## 51. §[^52]
 
 ## 18. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 10. §, a 14. § és az 5. melléklet a kihirdetést követő 31. napon lép hatályba.
 
-[^49]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

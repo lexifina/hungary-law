@@ -1,5 +1,5 @@
-## 40. §[^38]
+## 40. §[^41]
 
 ## 13. A kereskedelmi repülőtér légijármű által történő igénybevételéért fizetendő díj megállapításának elveiről és módszereiről szóló 61/2011. (XI. 25.) NFM rendelet módosítása
 
-[^38]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
