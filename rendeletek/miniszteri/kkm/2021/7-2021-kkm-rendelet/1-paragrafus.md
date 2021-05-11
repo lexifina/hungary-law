@@ -10,4 +10,7 @@ d) Szerb Köztársaság,
 
 e) Szlovén Köztársaság.
 
+f)[^2] Török Köztársaság.
+
 [^1]: Az 1. § a 10/2021. (V. 5.) KKM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § f) pontját a 12/2021. (V. 10.) KKM rendelet 1. §-a iktatta be.
