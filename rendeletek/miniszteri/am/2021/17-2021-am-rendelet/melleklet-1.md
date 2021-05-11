@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti a barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről, valamint a barlangok kiépítéséről szóló 13/1998. (V. 6.) KTM rendelet.
+## 22. §[^2]
 
 1. melléklet a 17/2021. (IV. 9.) AM rendelethez
 
@@ -455,3 +455,5 @@
 6. Fertő–Hanság Nemzeti Park Igazgatóság működési területén
 
 | 1. | Soproni Zsivány-barlang |
+
+[^2]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
