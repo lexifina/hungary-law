@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-39-00-00
 | --- | --- | --- |
 | 2021-05-11 | 2021. évi XXXIX. törvény | 2021-39-00-00.0 (közlönyállapot) |
 | 2021-05-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-39-00-00.1 |
+| 2021-05-12 | 2010. évi CXXX. törvény | 2021-39-00-00.2 |

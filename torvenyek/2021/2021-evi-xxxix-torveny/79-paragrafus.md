@@ -4,6 +4,6 @@
 
 a)
 
-b) 19/A. § (4) bekezdésében az „alkalmazandóak” szövegrész helyébe a „megfelelően alkalmazandóak” szöveg, a „Vagyonkezelő” szövegrészek helyébe a „vagyonkezelő” szöveg, a „keletkezik” szövegrész helyébe a „keletkezik. Az e bekezdés szerinti vagyonkezelőre nem vonatkoznak a 17. § (2) bekezdésében meghatározott, Vagyonkezelőre és vagyonkezelési tevékenységre vonatkozó előírások.” szöveg
+b)
 
 lép.
