@@ -1,5 +1,5 @@
-## 1. § Az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 20/2020. (XII. 18.) NMHH rendelet (a továbbiakban: R.) 33. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet és a 2021. február 8. napjával kihirdetett veszélyhelyzettel összefüggő rendkívüli intézkedések hatályának meghosszabbításáról szóló 80/2021. (II. 22.) Korm. rendelet által meghatározott veszélyhelyzet (a továbbiakban: veszélyhelyzet) időtartama alatt, továbbá e veszélyhelyzet megszűnésének napját követő 180 napon belül lejáró végleges építési engedély, végleges bontási engedély, valamint a 2021. február 15. napját megelőzően nyilvántartásba vett, előzetes bejelentésen alapuló építési vagy bontási jogosultság külön erre irányuló kérelem hiányában is meghosszabbodik e veszélyhelyzet megszűnésének napjától számított további egy évvel.”
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
