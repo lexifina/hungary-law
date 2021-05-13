@@ -10,8 +10,8 @@ a) az érintett nevét,
 
 b) az érintett TAJ számát,
 
-c)[^12] az oltás idejét, a
+c)[^25] az oltás idejét, a
 
 d) a fertőzéssel szembeni védettség tényét vagy annak hiányát
 
-[^12]: A 4. § (3) bekezdés c) pontja a 86/2021. (II. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^25]: A 4. § (3) bekezdés c) pontja a 86/2021. (II. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
