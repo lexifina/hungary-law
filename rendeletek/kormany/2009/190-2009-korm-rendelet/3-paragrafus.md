@@ -1,42 +1,16 @@
-## készíti elő.
+## Foglalkoztatási feltételek és a főépítészi vizsga[^14]
 
-## Foglalkoztatási feltételek
+3. §[^15] (1) A (2) bekezdésben foglalt kivétellel önkormányzati főépítészi feladatkör ellátható köztisztviselőként, vagy – az összeférhetetlenségre, a minősített adatra és a felelősségre vonásra vonatkozó jogszabályi előírásokra való figyelemfelhívást is tartalmazó, a feladatkör ellátására vonatkozó írásban megkötött – megbízási szerződés alapján.
 
-3. § (1)[^13] A fővárosi, a fővárosi kerületi, a megyei jogú városi főépítészi feladatkör köztisztviselői kinevezéssel látható el.
+(2) A fővárosi főépítészi feladatkör köztisztviselői, az állami főépítészi feladatkör kormánytisztviselői kinevezéssel látható el.
 
-(2)[^14] A települési – az (1) bekezdésben foglaltak kivételével –, a megyei és a térségi főépítészi feladatkör ellátható köztisztviselőként, vagy – az összeférhetetlenségre, a minősített adatra és a felelősségre vonásra vonatkozó jogszabályi előírásokra való figyelemfelhívást is tartalmazó, a feladatkör ellátására vonatkozó írásban megkötött – megbízási szerződés alapján.
+(3) Főépítészként az foglalkoztatható, aki
 
-(3) A főépítészek foglalkoztatási feltétele:
+a) a 3/A. § (1) bekezdésében meghatározott szakirányú felsőfokú végzettséggel rendelkezik,
 
-a) a (4) bekezdésben meghatározott szakirányú felsőfokú végzettség,
+b) a főépítészi vizsgát sikeresen teljesítette, kivéve az országos főépítészt, a 3/B. §-ban és a 4. § (2) bekezdésében meghatározott eseteket, és
 
-b) a 4. §-ban meghatározott főépítészi vizsga,
+c) a 3/C. §-ban meghatározott szakmai gyakorlati idővel rendelkezik, kivéve a 3/B. § (1) bekezdés a) pontjában és (2) bekezdésében meghatározott eseteket.
 
-c) az 5. §-ban meghatározott
-
-ca) szakmai gyakorlat teljesítése,
-
-cb)[^15]
-
-(4)[^16] A főépítészi feladatkör betöltéséhez szükséges szakirányú felsőfokú végzettség:
-
-a) megyei jogú városi, fővárosi, fővárosi kerületi, valamint állami főépítészi munkakör esetében építész mesterképzési szakon szerzett okleveles építészmérnök, vagy azzal egyenértékű szakképzettség,
-
-b) az országos főépítészi feladatkör esetében a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben meghatározott szakképzettség,
-
-c) megyei, az a) pontban foglaltak kivételével a települési, valamint a térségi főépítészi feladatkör esetében
-
-ca) építész mesterképzési szakon szerzett okleveles építészmérnök, vagy azzal egyenértékű szakképzettség,
-
-cb) településmérnöki mesterképzési szakon szerzett okleveles településmérnök, vagy azzal egyenértékű szakképzettség.
-
-(5)[^17] Ha a főépítész végzettségét, szakképzettséget igazoló oklevélből a szakirány, illetve az egyenértékűség nem állapítható meg, akkor az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet 8. § (1) bekezdése szerinti szakértői testület jogosult szakértőként véleményt nyilvánítani, amelyet a munkáltató kötelezően figyelembe vesz.
-
-(6)[^18] A főépítészi feladatkör főépítészi vizsga nélkül legfeljebb a foglalkoztatásra irányuló jogviszony kezdetétől számított hat hónapig látható el.
-
-[^13]: A 3. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (3) bekezdésével megállapított, a 30/2020. (II. 29.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
-[^14]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (3) bekezdésével megállapított, a 30/2020. (II. 29.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^15]: A 3. § (3) bekezdés c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte.
-[^16]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (4) bekezdésével megállapított szöveg.
-[^17]: A 3. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^18]: A 3. § (6) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 48. §-a iktatta be.
+[^14]: A „Foglalkoztatási feltételek és a főépítészi vizsga” alcím címe a 241/2021. (V. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 3. § a 241/2021. (V. 12.) Korm. rendelet 3. §-ával megállapított szöveg.

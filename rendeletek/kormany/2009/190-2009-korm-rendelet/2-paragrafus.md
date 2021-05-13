@@ -4,7 +4,13 @@
 
 2. §[^3] (1)[^4] Az állami főépítészi feladatokat illetékességi területén a fővárosi és megyei kormányhivatal látja el.
 
-(2)[^5] A fővárosi és megyei kormányhivatal állami főépítészi feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az építésügyi szabályozásért és építéshatósági ügyekért, valamint a településfejlesztésért és településrendezésért felelős miniszter (a továbbiakban: miniszter) (a továbbiakban: miniszter) gyakorolja.
+(2)[^5] A fővárosi és megyei kormányhivatal állami főépítészi feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként
+
+a) az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint
+
+b) a településfejlesztésért és településrendezésért felelős miniszter (a továbbiakban: miniszter)
+
+## gyakorolja.
 
 (2a)[^6]
 
@@ -12,7 +18,7 @@
 
 a)[^8]
 
-b)[^9] koordinálja az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal terület- és településrendezéssel, valamint építészeti értékvédelemmel kapcsolatos feladatait,
+b)[^9] koordinálja az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal terület- és településrendezéssel, továbbá az épített környezet alakításával, valamint építészeti értékvédelemmel kapcsolatos feladatait,
 
 c)[^10]
 
@@ -32,14 +38,19 @@ b) társulási megállapodásban meghatározott települési önkormányzati fel
 
 c) települési önkormányzati feladatokkal kapcsolatos döntéseket a települési önkormányzat közigazgatási területére kiterjedő illetékességgel a települési főépítész, a fővárosban a fővárosi önkormányzat és a kerületi önkormányzatok megosztott feladatai szerint a fővárosi, illetve a kerületi főépítész
 
+## készíti elő.
+
+(6)[^13] A települési és a térségi főépítész helyettesítésére – legalább egy hónapos akadályoztatása esetén – helyettes települési vagy helyettes térségi főépítész bízható meg. Helyettes főépítész az lehet, aki más településen vagy térségben lát el települési vagy térségi főépítészi feladatot. Egy települési vagy térségi főépítész kizárólag egy polgármesteri hivatalnál, egy közös önkormányzati hivatalnál vagy térségnél láthat el helyettes főépítészi feladatot. A megyei főépítész esetében a települési főépítész helyettesítésére vonatkozó szabályokat azzal az eltéréssel kell alkalmazni, hogy a helyettes megyei főépítész más megyében megyei főépítészi feladatot ellátó személy lehet, és helyettesítése csak egy megyében lehetséges.
+
 [^2]: A 2. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A 2. § a 329/2010. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (2) bekezdésével megállapított, a 150/2018. (VIII. 13.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdése a 241/2021. (V. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (2a) bekezdését a 258/2011. (XII. 7.) Korm. rendelet 37. §-a iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 54. § a) pontja.
 [^7]: A 2. § (3) bekezdés nyitó szövegrésze a 150/2018. (VIII. 13.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdés a) pontját a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés b) pontja hatályon kívül helyezte.
-[^9]: A 2. § (3) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 2. § (3) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés b) pontja, a 241/2021. (V. 12.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § (3) bekezdés c) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
 [^11]: A 2. § (4) bekezdése a 150/2018. (VIII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^12]: A 2. § (5) bekezdés nyitó szövegrésze a 400/2016. (XII. 5.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (6) bekezdését a 241/2021. (V. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.

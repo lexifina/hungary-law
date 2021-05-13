@@ -1,23 +1,19 @@
-4. § (1)[^19] A főépítészi vizsgát – a melléklet szerinti követelményrendszer és a miniszter által jóváhagyott eljárási rend szerint – az önkormányzati főépítészek tekintetében az illetékes állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal, az állami főépítészi feladatokat ellátó kormánytisztviselő tekintetében a miniszter bonyolítja le.
+4. §[^19] (1) A főépítészi vizsga célja, hogy a jelentkező számot adjon a területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, a településkép-védelemmel, a kulturális örökség védelmével, a világörökséggel, továbbá az építésügyi igazgatással kapcsolatos ismereteiről, mely alkalmassá teszi arra, hogy a főépítészi feladatokat ellássa.
 
-(2) A főépítészi vizsga
+(2) A főépítészi feladatkör főépítészi vizsga hiányában egy alkalommal, a foglalkoztatásra irányuló jogviszony kezdetétől számított legfeljebb hat hónapig látható el.
 
-a) általános és
+(3) A főépítészi vizsgát és az azt megelőző vizsgafelkészítő konzultációt – a (4) és (5) bekezdésben foglaltak szerint – az önkormányzati főépítészek tekintetében az illetékes állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal, az állami főépítészi feladatokat ellátó kormánytisztviselő tekintetében a miniszter bonyolítja le.
 
-b) építészeti különös vagy terület- és településrendezési különös
+(4) A főépítészi vizsga szóbeli és írásbeli vizsgarészből áll. A főépítészi vizsga kérdéseit és a felkészülést segítő segédanyagokat az 1. mellékletben meghatározott témakörök alapján a Lechner Tudásközpont az Országos Főépítészi Kollégium (a továbbiakban: OFK) bevonásával állítja össze, és évente legalább egyszer felülvizsgálja.
 
-részből áll.
+(5) A főépítészi vizsga kérdéseit és segédanyagát az országos főépítész hagyja jóvá, és gondoskodik a miniszter által vezetett minisztérium és a Lechner Tudásközpont honlapján való közzétételéről.
 
-(3)[^20] A 3. § (4) bekezdés a) pontja és c) pont ca) alpontja szerinti végzettség esetén általános és terület- és településrendezési különös részből, a 3. § (4) bekezdés c) pont cb) alpontja szerinti végzettség esetén általános és építészeti különös részből kell vizsgázni.
+(6) A Lechner Tudásközpont – a miniszter szakmai irányítása és felügyelete mellett, az OFK bevonásával – gondoskodik
 
-(4) A főépítészi vizsga alól – az (1) bekezdés szerinti – vizsgát lebonyolító kérelemre
+a) a főépítészi vizsga vizsgaszabályzatának és a lebonyolítást meghatározó módszertani útmutatónak az elkészítéséről,
 
-a) mentesíti azt a személyt, aki önkormányzati főépítészi szakmérnöki oklevéllel, vagy építésügyi szakmai tartalmú vizsgával rendelkezik és e vizsga követelményrendszere a főépítészi vizsga követelményrendszerével teljeskörűen megegyezik,
+b) a vizsgafelkészítő konzultációk és a főépítészi vizsga időpontjainak elektronikus meghirdetéséről, valamint
 
-b) részben mentesíti azt a személyt, aki egyéb szakmai tartalmú vizsgával rendelkezik, és e vizsga követelményrendszere a főépítészi vizsga általános vagy a különös rész követelményrendszerével megegyezik.
+c) a vizsgák eredményeinek vizsgaszervező rendszerben való elektronikus kezeléséről.
 
-(5)[^21]
-
-[^19]: A 4. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^20]: A 4. § (3) bekezdése a 217/2018. (XI. 27.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^21]: A 4. § (5) bekezdését a 222/2010. (VII. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^19]: A 4. § a 241/2021. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
