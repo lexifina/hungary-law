@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-654-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-12-26 | 2020-654-20-22.1 | 654/2020. (XII. 23.) Korm. rendelet |
+| 2021-05-13 | 2020-654-20-22.2 | 243/2021. (V. 12.) Korm. rendelet |

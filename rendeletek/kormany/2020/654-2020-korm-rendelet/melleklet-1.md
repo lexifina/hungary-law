@@ -1,4 +1,4 @@
-## 14. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben és közigazgatási ügyekben is alkalmazni kell.
+## 15. §[^3] E rendeletnek az Európa Kulturális Fővárosa 2023 programsorozathoz kapcsolódó, az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat megrendezéséhez szükséges létesítményfejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint további sajátos szabályok megállapításáról szóló 654/2020. (XII. 23.) Korm. rendelet módosításáról szóló 243/2021. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (3) bekezdését, 12. §-át és 2. mellékletét a Módr. hatálybalépésekor[^4] folyamatban levő közigazgatási ügyekben is alkalmazni kell.
 
 1. melléklet a 654/2020. (XII. 23.) Korm. rendelethez
 
@@ -49,3 +49,6 @@
 22. azok az 1–21. pontban nem szereplő azon közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 15. §-t a 243/2021. (V. 12.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2021. május 13.
