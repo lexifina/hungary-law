@@ -1,7 +1,3 @@
-## 6. § Az R. 16. §-a a következő (1a) bekezdéssel egészül ki:
+## 6. §[^7]
 
-## „(1a) A településrendezési tervtanács a tervet
-
-## a) elfogadásra – feltételek meghatározásával vagy feltétel nélkül – ajánlja, vagy
-
-## b) elfogadásra nem ajánlja.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
