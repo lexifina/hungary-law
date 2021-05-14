@@ -1,0 +1,43 @@
+# A Magyar Nemzeti Bank elnökének 10/2021. (V. 14.) MNB rendelete
+
+Magyar Közlöny 2021. évi 89. szám, 2021. május 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/W5mAZOwV5SHjIJr84zlh60997ede94667/dokumentumok/23fad84455499151cc5bfb3aa7de87e01bbd453f/letoltes)
+
+---
+
+A Magyar Nemzeti Bank elnökének 10/2021. (V. 14.) MNB rendelete
+a„XVI. UEFA Labdarúgó-Európa-bajnokság”ezüst emlékérme kibocsátásáról
+A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés d) pontjában kapott felhatalmazás alapján,
+a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (2) bekezdésében meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+1. § (1) A Magyar Nemzeti Bank – a 2021-ben megrendezésre kerülő UEFA EURO 2020 Labdarúgó-Európa-bajnokság
+alkalmából – „XVI. UEFA Labdarúgó-Európa-bajnokság” megnevezéssel 10 000 forintos címletű ezüst emlékérmét
+bocsát ki.
+(2) A kibocsátás időpontja: 2021. május 15.
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+(2) Az emlékérme előlapján, a középmezőben Budapest, az UEFA EURO 2020 Labdarúgó-Európa-bajnokságot
+rendező városok egyike hivatalos emblémájának ábrázolása látható. Az embléma ábrázolása feletti két sorban
+a „BP.” verdejel és a „2021” verési évszám, valamint a „MAGYARORSZÁG” felirat, az embléma ábrázolása alatti két
+sorban a„10 000” értékjelzés, valamint a„FORINT”felirat olvasható. A verdejelben legalább tízszeres nagyítás esetén
+látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme szélén,
+köriratban – fentről, az óramutató járásával megegyezően haladva, betűrend szerinti sorrendben – a rendezés
+jogát elnyert, Budapesten kívüli 11 város neve – „AMSZTERDAM BAKU BILBAO BUKAREST DUBLIN GLASGOW
+KOPPENHÁGA LONDON MÜNCHEN RÓMA SZENTPÉTERVÁR” – olvasható. Az emlékérme előlapjának képét
+az 1. melléklet tartalmazza.
+(3) Az emlékérme hátlapján a Puskás Aréna ábrázolása látható felső oldalnézetből, a háttérben egy futball-
+labda mintázatával. Az emlékérme felső részén, középen – a futball-labda mintázatának ábrázolásába
+illesztve – az UEFA EURO 2020 Labdarúgó-Európa-bajnokság hivatalos emblémája látható, alatta, két sorban
+a „XVI. LABDARÚGÓ”, valamint az „EURÓPA-BAJNOKSÁG”, az emlékérme alsó részén, középen – a Puskás Aréna
+ábrázolásába illesztve – a „PUSKÁS ARÉNA” felirat olvasható. Az emlékérme szélén, jobb oldalon, fent az Európai
+Labdarúgó-szövetség védjegye – „© UEFA TM” –, bal oldalon, lent Bohus Áron tervezőművész mesterjegye látható.
+Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
+3. §
+Az emlékérméből 5000 darab készíthető, különleges – ún. proof – technológiával.
+4. §
+Ez a rendelet 2021. május 15-én lép hatályba.
+ Dr. Matolcsy György s. k.,
+ a Magyar Nemzeti Bank elnöke
+
+1. melléklet a 10/2021. (V. 14.) MNB rendelethez
+Az emlékérme előlapjának képe:
+2. melléklet a 10/2021. (V. 14.) MNB rendelethez
+Az emlékérme hátlapjának képe:
