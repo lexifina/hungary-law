@@ -1,0 +1,17 @@
+97. § (1) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 82/F. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a felülvizsgálat eredménye szerint a 82/B. § (4) bekezdése alapján rendvédelmi egészségkárosodási keresetkiegészítésre jogosult komplex minősítése
+
+a) a 82/C. § (1) bekezdésében meghatározott mértékre változott vagy az alá csökkent, vagy
+
+b) – a felülvizsgálatot megelőző utolsó minősítésével egyezően – a 82/C. § (1) bekezdésében meghatározott mértéket nem haladja meg és korábban azért rendvédelmi egészségkárosodási keresetkiegészítésre jogosultságot állapítottak meg részére, mert a 82/C. § (1) bekezdésében meghatározott mértéket meg nem haladó komplex minősítés mellett nem került sor a továbbfoglalkoztatási kötelezettség alóli miniszteri mentesítésére,
+
+az országos parancsnok előterjesztésére a miniszter felmentést adhat a továbbfoglalkoztatási kötelezettség alól.”
+
+(2) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 82/F. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdés szerinti esetben az országos parancsnok az érintett kérelmére vagy – a rendvédelmi egészségkárosodási keresetkiegészítésre jogosult beleegyezésével – hivatalból előterjesztést tehet a miniszternél, a mentesítésre egyebekben a 82/C. § (2)–(6) bekezdését kell alkalmazni. Mentesítés esetében a foglalkoztatási jogviszony közös megegyezéssel történő megszüntetése és a rendvédelmi egészségkárosodási keresetkiegészítés helyett rendvédelmi egészségkárosodási járadék megállapítása érdekében intézkedni kell.”
+
+(3) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 82/F. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha a miniszter a továbbfoglalkoztatási kötelezettség alóli mentesítéskor annak hatályát a rehabilitációs hatóság következő felülvizsgálatának időpontjáig határozza meg, és ezen felülvizsgálat eredménye alapján a továbbfoglalkoztatási kötelezettség alóli mentesítés feltételei továbbra is fennállnak, a továbbfoglalkoztatási kötelezettség alóli mentesítés érdekében az országos parancsnok az érintett kérelmére vagy – a rendvédelmi egészségkárosodási járadékra jogosult beleegyezésével – hivatalból ismételten előterjesztést tehet a miniszternél.”

@@ -1,0 +1,1 @@
+124. § A 42. § a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló, 2013. június 26-i 2013/33/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

@@ -1,0 +1,1 @@
+120. § A 10. §, az 58. § és az 59. § a) pontja a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
