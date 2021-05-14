@@ -4,11 +4,11 @@ a) az állami vagyon és az ahhoz kapcsolódó bevételek és kiadások, az áll
 
 b) az állami vagyonról vezetett nyilvántartás, és az állami vagyont használó személyek ezzel összefüggő adatszolgáltatási kötelezettségének szabályait,
 
-c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon hasznosítására vonatkozó más szerződésekre vonatkozó részletes szabályokat,
+c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon visszterhes, továbbá ingyenes hasznosítására irányuló más szerződésekre vonatkozó részletes szabályokat,
 
 d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
 
-e) az állami vagyon értékesítésére vonatkozó szabályokat,
+e) az állami vagyon értékesítésére, az állami vagyon tulajdonjogának ingyenes átruházására, továbbá a tulajdonjognak az állam javára történő megszerzésére, valamint a tulajdonjog állam javára történő megszerzésére irányuló jogügylet megkötésére vonatkozó szabályokat,
 
 f) a tulajdonosi joggyakorlói adatszolgáltatás tartalmát, módját és határidejét, az adatszolgáltatási keretrendszerrel, az Országleltár-azonosítóval és a tulajdonosi joggyakorlók jegyzékének vezetésével kapcsolatos szabályokat, a tulajdonosi joggyakorlói adatszolgáltatás ellenőrzésének, valamint az ellenőrzés során feltárt hiányosságok kijavításának szabályait, az adatszolgáltatási keretrendszer használóira vonatkozó szabályzat kötelező tartalmát, az egységes állami vagyonnyilvántartás azon adatait, amelyek közzétételére az Országleltár honlapján nem kerül sor,
 
@@ -16,7 +16,7 @@ g) a 34. § (2) bekezdés b) pontja szerinti elektronikus árverés szabályait,
 
 h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait,
 
-i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezésére, az állami elhelyezési célú ingatlanhasználati jogviszonyra, valamint az állami elhelyezési célú ingatlanok hasznosítására vonatkozó részletszabályokat.
+i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezésére, az állami elhelyezési célú ingatlanhasználati jogviszonyra, valamint az állami elhelyezési célú ingatlanok hasznosítására, üzemeltetésére vonatkozó részletszabályokat,
 
 j) a 24/A. § (1) bekezdése szerinti elektronikus bérleti licit rendszeren keresztül folytatott elektronikus bérleti licit szabályait, ezen belül a bérleti licit rendszer működtetésének szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartása vezetésének szabályait, a bérleti licit rendszeren keresztül történő elektronikus bérleti licit eljárás lebonyolításának szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus bérleti licit rendszer szakmai követelményeit, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az elektronikus bérleti licit rendszerhez felhasználóként történő csatlakozás feltételeit és a bérleti licit rendszer használóira vonatkozó szabályzatok kötelező tartalmát.
 

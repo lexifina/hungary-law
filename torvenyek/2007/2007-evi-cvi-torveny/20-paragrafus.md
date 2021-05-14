@@ -42,7 +42,7 @@ l) döntés az MNV Zrt. számviteli politikájának, pénzügyi és gazdálkodá
 
 m) az MNV Zrt. üzleti tervének, a számviteli törvény szerinti beszámolójának, valamint a rábízott vagyonról szóló éves beszámolójának és vagyonkezelési tervének elkészítése,
 
-n) a felügyelő bizottság részére beszámoló készítése,
+n) a Felügyelőbizottság részére beszámoló készítése,
 
 o) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapításával kapcsolatos döntés 100 millió forint értékhatár felett,
 
@@ -78,4 +78,4 @@ r) döntés ingatlan és ingóság ingyenes tulajdonba adásáról a 36. § szer
 
 (17) Az Igazgatóság üléseiről jegyzőkönyvet kell felvenni. A jegyzőkönyvben rögzíteni kell a jelenlevők nevét, a tárgyalt napirendi pontokat, a hozott határozatokat, a tagok szavazatát, valamint a határozatokhoz fűzött esetleges nyilatkozatokat. A jegyzőkönyv vezetésére és tartalmára vonatkozó szabályokat akkor is alkalmazni kell, ha a tagok az ülésén elektronikus hírközlő eszköz közvetítésével vesznek részt, illetve szavaznak.
 
-(18) Az Igazgatóság ülésein tanácskozási joggal vehet részt a miniszter, illetve képviselője és a Felügyelő Bizottság tagja.
+(18) Az Igazgatóság ülésein tanácskozási joggal vehet részt a miniszter, illetve képviselője és a Felügyelőbizottság tagja.

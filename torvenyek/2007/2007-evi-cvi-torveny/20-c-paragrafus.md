@@ -1,9 +1,9 @@
-20/C. § (1) A Felügyelő Bizottság a jogait és kötelezettségeit – az ügyrendjében foglaltaknak megfelelően – testületként gyakorolja.
+20/C. § (1) A Felügyelőbizottság a jogait és kötelezettségeit – az ügyrendjében foglaltaknak megfelelően – testületként gyakorolja.
 
-(2) A Felügyelő Bizottság az ügyrendjét az alakuló ülésén fogadja el.
+(2) A Felügyelőbizottság az ügyrendjét az alakuló ülésén fogadja el.
 
-(3) A Felügyelő Bizottság ülését az elnök, akadályoztatása esetén az általa kijelölt tag hívja össze.
+(3) A Felügyelőbizottság ülését az elnök, akadályoztatása esetén az általa kijelölt tag hívja össze.
 
-(4) A Felügyelő Bizottság határozatképes, ha legalább három tagja jelen van. A Felügyelő Bizottság határozatait egyszerű szótöbbséggel hozza.
+(4) A Felügyelőbizottság határozatképes, ha legalább három tagja jelen van. A Felügyelőbizottság határozatait egyszerű szótöbbséggel hozza.
 
-(5) A Felügyelő Bizottság tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Felügyelő Bizottság működése során nincs helye.
+(5) A Felügyelőbizottság tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Felügyelőbizottság működése során nincs helye.

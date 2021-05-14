@@ -10,4 +10,4 @@
 
 (4) Az MNV Zrt. munkavállalói felett a munkáltatói jogokat a vezérigazgató gyakorolja.
 
-(5) Az MNV Zrt. vezérigazgatója és általános vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelő Bizottság tagjai.
+(5) Az MNV Zrt. vezérigazgatója és általános vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelőbizottság tagjai.

@@ -1,4 +1,4 @@
-35. § (1) Az értékesítést végzőnek a vagyon tulajdonjogának átruházását – ha törvény vagy annak felhatalmazása alapján kiadott kormányrendelet kivételt nem tesz – versenyeztetéssel kell megkísérelnie.
+35. § (1) Az értékesítést végzőnek a vagyon tulajdonjogának átruházását – ha törvény kivételt nem tesz – versenyeztetéssel kell megkísérelnie.
 
 (2) Mellőzni lehet a versenyeztetést:
 
@@ -36,7 +36,17 @@ p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése e
 
 q) a 37. § (2) és (3) bekezdése alapján történő értékesítések esetén.
 
+r) hulladéknak nem minősülő vissznyereményi anyagok értékesítése esetén.
+
 (2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
+
+(2b) Versenyeztetés mellőzésével kerül sor a (2) bekezdés i) pontja szerinti kis értékű ingó vagyontárgy értékesítésére, ha
+
+a) a vagyontárgy huzamos tárolása, kezelése aránytalan költséggel járna a vagyontárgy piaci értékéhez képest,
+
+b) a versenyeztetéssel történő értékesítés előnyei nem érvényesülnek, vagy
+
+c) a 34. § (2) bekezdés b) pontja szerinti nyilvános árverés során a harmadik árverés is eredménytelenül zárult.
 
 (3) A pályázat nyilvános vagy zártkörű lehet.
 

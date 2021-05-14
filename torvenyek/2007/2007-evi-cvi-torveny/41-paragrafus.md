@@ -1,1 +1,1 @@
-41. § A megkötendő értékesítési szerződésben az MNV Zrt. köteles kikötni a szerződés teljesítésének ellenőrzését. A vevő a szerződésszegésért való felelősséget nem zárhatja ki, az ezzel ellentétes kikötés semmis.
+41. §
