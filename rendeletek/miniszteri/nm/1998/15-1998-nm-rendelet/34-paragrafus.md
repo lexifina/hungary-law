@@ -1,4 +1,4 @@
-## 3. CÍM[^93]
+## 3. CÍM[^111]
 
 ## A GYERMEKEK NAPKÖZBENI ELLÁTÁSA
 
@@ -10,4 +10,4 @@ a) minden év március 1-jéig a helyben szokásos módon felhívást tesz közz
 
 b) minden év március 31-éig megvizsgálja, hogy a Központi Statisztikai Hivatal adott év január 1-jei adatai alapján a település 3 év alatti lakosainak száma meghaladja-e a negyven főt.
 
-[^93]: A II. Fejezet 3. Címe (34–51/S. §) a 6/2016. (III. 24.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^111]: A II. Fejezet 3. Címe (34–51/S. §) a 6/2016. (III. 24.) EMMI rendelet 2. §-ával megállapított szöveg.

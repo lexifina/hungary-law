@@ -1,3 +1,3 @@
-152. §[^527]
+152. §[^545]
 
-[^527]: A 152. §-t az 1/2017. (II. 14.) EMMI rendelet 25. § c) pontja hatályon kívül helyezte.
+[^545]: A 152. §-t az 1/2017. (II. 14.) EMMI rendelet 25. § c) pontja hatályon kívül helyezte.

@@ -1,10 +1,10 @@
-8. § (1)[^69] Amennyiben a szakmai tevékenység az első interjú kapcsán tett intézkedéssel nem zárható le, és esetkezelés szükséges,
+8. § (1)[^70] Ha a szakmai tevékenység az első interjú kapcsán tett intézkedéssel nem zárható le, és esetkezelés szükséges, a szolgáltatást igénybe vevő szülővel vagy más nagykorú személlyel – az (5) bekezdésben meghatározott kivétellel, továbbá a cselekvőképességében a gyermekjóléti, szociális ellátások igénybevételével összefüggő jognyilatkozatok tekintetében részlegesen korlátozott nagykorú személy esetén a gondnoka hozzájárulásával – együttműködési megállapodást kell kötni, és
 
-a) a szolgáltatást igénybe vevő nagykorú személlyel együttműködési megállapodást kell kötni, a cselekvőképességében a gyermekjóléti, szociális ellátások igénybevételével összefüggő jognyilatkozatok tekintetében részlegesen korlátozott nagykorú személy esetén a gondnoka hozzájárulásával, és
+a) a gyermek veszélyeztetettsége miatti jelzés, illetve önkéntes jelentkezés esetén a GYVR-ben cselekvési vagy intézkedési tervet kell készíteni, vagy
 
-b)[^70] a (4) bekezdés szerint esetnaplót kell vezetni,
+b) a szociális vagy mentálhigiénés problémák vagy egyéb krízishelyzet miatt segítségre szoruló személyek, családok esetében a (4) bekezdés szerinti esetnaplót kell vezetni.
 
-ide nem értve a „Gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés alatt álló gyermek védelme” és a „Családból kiemelt gyermek visszahelyezésének, családbafogadásának elősegítése” alcím alá tartozó eseteket.
+(1a)[^71] A család- és gyermekjóléti központ esetmenedzserének a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedéssel érintett gyermekkel és törvényes képviselőjével kapcsolatosan elvégzett feladatait a hatósági intézkedést követően a GYVR-ben rögzíteni kell.
 
 (2) Az együttműködési megállapodás tartalmazza
 
@@ -12,22 +12,23 @@ a) az igénybe vevő és törvényes képviselője nevét, elérhetőségét,
 
 b) az esetkezelést végző családsegítő nevét, elérhetőségét,
 
-c)[^71]
+c)[^72] az igénybe vevő nyilatkozatát az együttműködési szándékáról.
 
-d)[^72]
+d)[^73]
 
-e)[^73]
+e)[^74]
 
-(3) Az együttműködési megállapodást az intézményvezető írásban köti meg a szolgáltatást igénybe vevővel azzal, hogy a megállapodást az Szt. 122/A. §-a alá tartozó szolgáltatás esetében a szolgáltatást nyújtónak is alá kell írnia.
+(3)[^75] Az együttműködési megállapodást a családsegítő az intézményvezető jóváhagyásával, írásban köti meg a szolgáltatást igénybe vevővel. A megállapodást az Szt. 122/A. §-a alá tartozó szolgáltatás esetében a szolgáltatást nyújtónak is alá kell írnia. Az együttműködési megállapodás adatait a GYVR-ben rögzíteni kell, és a megállapodást a GYVR-be fel kell tölteni.
 
-(4)[^74] Az esetnaplót a miniszter által meghatározott, a Szociális Ágazati Portálon közzétett formában kell vezetni.
+(4)[^76] Az esetnaplót a miniszter által meghatározott, a Szociális Ágazati Portálon közzétett formában kell vezetni.
 
-(5)[^75] Az együttműködési megállapodás egy évre köthető, ezt követően annak indokoltságát felül kell vizsgálni, kivéve a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetén.
+(5)[^77] Nem kell együttműködési megállapodást kötni a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetében.
 
-[^69]: A 8. § (1) bekezdés nyitó szövegrésze a 4/2019. (II. 27.) EMMI rendelet 9. § c) pontja szerint módosított szöveg.
-[^70]: A 8. § (1) bekezdés b) pontja a 4/2019. (II. 27.) EMMI rendelet 9. § d) pontja szerint módosított szöveg.
-[^71]: A 8. § (2) bekezdés c) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
-[^72]: A 8. § (2) bekezdés d) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
-[^73]: A 8. § (2) bekezdés e) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
-[^74]: A 8. § (4) bekezdése a 4/2019. (II. 27.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^75]: A 8. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 4. §-a iktatta be.
+[^70]: A 8. § (1) bekezdése a 15/2021. (IV. 29.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^71]: A 8. § (1a) bekezdését a 15/2021. (IV. 29.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^72]: A 8. § (2) bekezdés c) pontját újonnan a 15/2021. (IV. 29.) EMMI rendelet 2. § (3) bekezdése iktatta be.
+[^73]: A 8. § (2) bekezdés d) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^74]: A 8. § (2) bekezdés e) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^75]: A 8. § (3) bekezdése a 15/2021. (IV. 29.) EMMI rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^76]: A 8. § (4) bekezdése a 4/2019. (II. 27.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^77]: A 8. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 4. §-a iktatta be, szövege a 15/2021. (IV. 29.) EMMI rendelet 2. § (5) bekezdésével megállapított szöveg.

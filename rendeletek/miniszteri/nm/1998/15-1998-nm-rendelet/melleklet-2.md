@@ -92,7 +92,7 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^606]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^626]
 
 I. Rész
 
@@ -128,11 +128,11 @@ II. Szakellátások
 
 | Ellátási forma | Vezetői beosztás | Képesítés |
 
-| 1. Nevelőszülői hálózat | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittantanár, hittanár – szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+| 1. Nevelőszülői hálózat | magasabb vezető/ vezető | felsőfokú szociális szakképzettség, pedagógus szakképzettség, teológus, szociológus, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
 
-| 2. Gyermekotthon | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittantanár, hittanár – szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, népművelő, művelődésszervező, kulturális közösségszervező, védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember vagy szociális menedzser oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+| 2. Gyermekotthon | magasabb vezető/ vezető | felsőfokú szociális szakképzettség, pedagógus szakképzettség, teológus, szociológus, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, közgazdász szociálpolitikai szakon, népművelő, művelődésszervező, kulturális közösségszervező, védőnő, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember vagy szociális menedzser oklevéllel rendelkező: védőnő, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
 
-| 2/a. Különleges gyermekotthon, speciális gyermekotthon | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittantanár, hittanár – szakképzettség; – speciális gyermekotthonban tanító, tanár, gyógypedagógia-tanár, pedagógiatanár –, pszichológus, orvos vagy mentálhigiénés szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+| 2/a. Különleges gyermekotthon, speciális gyermekotthon | magasabb vezető/ vezető | felsőfokú szociális szakképzettség, pedagógus szakképzettség, teológus, szociológus; – speciális gyermekotthonban tanító, tanár, gyógypedagógia-tanár, pedagógiatanár, hittanár, hittantanár –, teológus, szociológus, pszichológus, orvos vagy mentálhigiénés szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, közgazdász szociálpolitikai szakon, védőnő, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
 
 | 3. Területi gyermekvédelmi szakszolgálat | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittanár, hittantanár – szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel, közigazgatás-szervező, szociális menedzser oklevéllel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember, hittanár, hittantanár |
 
@@ -184,4 +184,4 @@ I. Alapellátások
 
 |  |  | gyermek- és ifjúságvédelmi asszisztens |
 
-[^606]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a, az 1/2021. (I. 7.) EMMI rendelet 8. § e)–g) pontja szerint módosított szöveg.
+[^626]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a, az 1/2021. (I. 7.) EMMI rendelet 8. § e)–g) pontja, a 15/2021. (IV. 29.) EMMI rendelet 7. §-a, 8. § j)–o) pontja szerint módosított szöveg.

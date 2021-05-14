@@ -1,6 +1,6 @@
-84. § (1)[^200] Az ellátás megkezdésekor a rendelkezésre álló dokumentáció alapján, a Gyermekeink védelmében elnevezésű informatikai rendszerben (a továbbiakban: GYVR) el kell készíteni a gondozott gyermekre vonatkozó egyéni gondozási, nevelési programot tartalmazó egyéni gondozási-nevelési tervet. Az egyéni gondozási-nevelési terv célja az egyéni elhelyezési terv megvalósulását biztosító gondozással, neveléssel kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás meghatározása. A terv elkészítésekor figyelemmel kell lenni különösen
+84. § (1)[^218] Az ellátás megkezdésekor a rendelkezésre álló dokumentáció alapján, a Gyermekeink védelmében elnevezésű informatikai rendszerben (a továbbiakban: GYVR) el kell készíteni a gondozott gyermekre vonatkozó egyéni gondozási, nevelési programot tartalmazó egyéni gondozási-nevelési tervet. Az egyéni gondozási-nevelési terv célja az egyéni elhelyezési terv megvalósulását biztosító gondozással, neveléssel kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás meghatározása. A terv elkészítésekor figyelemmel kell lenni különösen
 
-a)[^201] a család- és gyermekjóléti központ által a védelembe vétel során készített egyéni gondozási-nevelési tervre,
+a)[^219] a család- és gyermekjóléti központ által a védelembe vétel során készített egyéni gondozási-nevelési tervre,
 
 b) a gyermekvédelmi gondoskodást szükségessé tevő okokra,
 
@@ -14,7 +14,7 @@ f) a gondozott gyermekkel és szülőjével folytatott személyes beszélgetés 
 
 g) egyéb, a gondozott gyermek nevelése, gondozása szempontjából jelentős körülményre.
 
-(2)[^202] Az egyéni gondozási-nevelési tervet
+(2)[^220] Az egyéni gondozási-nevelési tervet
 
 a) nevelőszülőnél elhelyezett gyermek esetén a gyermek nevelőszülője, a nevelőszülői tanácsadó és a gyermekvédelmi gyám,
 
@@ -24,7 +24,7 @@ c) más bentlakásos intézményben gondozott gyermek esetén a gyermek gondozó
 
 készíti el.
 
-(2a)[^203] Az egyéni gondozási-nevelési terv elkészítésébe be kell vonni az ítélőképessége birtokában lévő gondozott gyermeket, annak szülőjét, kivéve, ha szülői felügyeleti jogát megszüntették vagy az megszűnt, és a terv végrehajtásában érintett szakembereket.
+(2a)[^221] Az egyéni gondozási-nevelési terv elkészítésébe be kell vonni az ítélőképessége birtokában lévő gondozott gyermeket, annak szülőjét, kivéve, ha szülői felügyeleti jogát megszüntették vagy az megszűnt, és a terv végrehajtásában érintett szakembereket.
 
 (3) Az ellátást nyújtónak az egyéni gondozási-nevelési terv alapján ellátandó feladatai különösen az alábbiak:
 
@@ -50,15 +50,15 @@ af) a szabadideje hasznos és tartalmas eltöltéséhez szükséges feltételekh
 
 ag) szórakoztató, művészeti és kulturális tevékenységekhez;
 
-b)[^204] kapcsolatot tart a gondozott gyermek oktatását, szakképzését végző nevelési-oktatási intézménnyel, továbbá a szakmai gyakorlatát, illetve foglalkoztatását biztosító munkahellyel, valamint a munkanélkülieket támogató állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatallal, és ennek keretében
+b)[^222] kapcsolatot tart a gondozott gyermek oktatását, szakképzését végző nevelési-oktatási intézménnyel, továbbá a szakmai gyakorlatát, illetve foglalkoztatását biztosító munkahellyel, valamint a munkanélkülieket támogató állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatallal, és ennek keretében
 
 ba) fogadóórákon, szülői értekezleteken tájékozódik a gondozott gyermek iskolai előmeneteléről,
 
 bb) érdeklődik a munkahelyen a beilleszkedéséről, munkavégzéséről,
 
-bc)[^205] rendszeresen tájékozódik az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalnál a munka- és az átképzési lehetőségekről;
+bc)[^223] rendszeresen tájékozódik az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalnál a munka- és az átképzési lehetőségekről;
 
-c)[^206] a gondozott gyermeket az önálló életvitelre, a családi háztartás vezetésére történő felkészítése érdekében életkorának megfelelően bevonja
+c)[^224] a gondozott gyermeket az önálló életvitelre, a családi háztartás vezetésére történő felkészítése érdekében életkorának megfelelően bevonja
 
 ca) a háztartási teendők végzésébe
 
@@ -66,10 +66,10 @@ cb) a családi gazdálkodás megtervezésébe
 
 cc) a pénzkezelésbe.
 
-[^200]: A 84. § (1) bekezdés nyitó szövegrésze a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (1) bekezdése, a 34/2020. (X. 2.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
-[^201]: A 84. § (1) bekezdés a) pontja az 55/2015. (XI. 30.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^202]: A 84. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^203]: A 84. § (2a) bekezdését a 26/2013. (III. 29.) EMMI rendelet 3. §-a iktatta be.
-[^204]: A 84. § (4) bekezdés b) pont nyitó szövegrésze a 24/2015. (IV. 30.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
-[^205]: A 84. § (4) bekezdés b) pont bc) alpontja a 24/2015. (IV. 30.) EMMI rendelet 2. § d) pontja szerint módosított szöveg.
-[^206]: A 84. § (4) bekezdésének c) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (2) bekezdése iktatta be.
+[^218]: A 84. § (1) bekezdés nyitó szövegrésze a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (1) bekezdése, a 34/2020. (X. 2.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^219]: A 84. § (1) bekezdés a) pontja az 55/2015. (XI. 30.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^220]: A 84. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^221]: A 84. § (2a) bekezdését a 26/2013. (III. 29.) EMMI rendelet 3. §-a iktatta be.
+[^222]: A 84. § (4) bekezdés b) pont nyitó szövegrésze a 24/2015. (IV. 30.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
+[^223]: A 84. § (4) bekezdés b) pont bc) alpontja a 24/2015. (IV. 30.) EMMI rendelet 2. § d) pontja szerint módosított szöveg.
+[^224]: A 84. § (4) bekezdésének c) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (2) bekezdése iktatta be.

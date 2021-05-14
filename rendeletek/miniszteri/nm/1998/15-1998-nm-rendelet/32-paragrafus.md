@@ -1,10 +1,10 @@
 ## Egyéni gondozási-nevelési terv
 
-32. § (1) A gyermekre vonatkozó egyéni gondozási-nevelési terv tartalmazza
+32. § (1)[^102] A gyermekre vonatkozó egyéni gondozási-nevelési tervet a GYVR tervező és értékelő alrendszerében kell elkészíteni, és tartalmaznia kell
 
 a) a veszélyeztető körülmények megjelölését,
 
-b) a védelembe vétel megszüntetéséhez, a családból kiemelt gyermek visszahelyezéséhez szükséges változásokat, valamint ennek elérése érdekében az esetmenedzser, a szülő és a gyermek feladatait, határidők megállapításával,
+b)[^103] a védelembe vétel megszüntetéséhez szükséges változásokat, valamint ennek elérése érdekében az esetmenedzser, a szülő és a gyermek feladatait, határidők megállapításával,
 
 c) a szükségesnek tartott hatósági, illetve bírósági eljárások kezdeményezésének megjelölését,
 
@@ -42,16 +42,20 @@ cb) azt, hogy a szülő és az ítélőképessége birtokában lévő gyermek ny
 
 cc) a gyermeket veszélyeztető körülmények elhárítását, a gyermek testi, értelmi, érzelmi és erkölcsi fejlődésének szülő általi biztosítását, így a védelembe vétel megszüntetését.
 
-(4) Az egyéni gondozási-nevelési terv megvalósítását az esetmenedzser értékeli, és
+(4)[^104] Az egyéni gondozási-nevelési terv megvalósítását az esetmenedzser a GYVR tervező és értékelő alrendszerében értékeli, és
 
 a) szükség esetén módosítja vagy kezdeményezi a módosítását,
 
-b) amennyiben a megvalósítása a szülő, illetve a gyermek megfelelő együttműködése miatt nem lehetséges
+b) ha annak megvalósítása a szülő, illetve a gyermek megfelelő együttműködése miatt nem lehetséges,
 
-ba) írásban jelzi ezt a gyámhivatalnak,
+ba) ezt a problémát a gyámhivatal számára a GYVR-ben megismerhetővé teszi,
 
 bb) felhívja a szülő, illetve a gyermek figyelmét arra, hogy a védelembe vétel sikertelensége esetén a gyermekvédelmi gondoskodás más eszközének alkalmazására kerülhet sor, és
 
-bc) javaslatot tesz a gyámhivatalnak a gyermekvédelmi gondoskodás más eszközének alkalmazására, és
+bc) a GYVR útján megismerhetővé teszi a gyámhivatal számára, ha a gyermekvédelmi gondoskodás más eszközének alkalmazására tesz javaslatot, és
 
-c) amennyiben a megvalósítás az egyéni gondozási-nevelési tervben megjelölt intézmények, szolgáltatók, személyek és az egyéb közvetített ellátásban, szolgáltatásban dolgozók mulasztása miatt nem valósult meg, írásban jelzi ezt a gyámhivatalnak.
+c) ha a megvalósítás az egyéni gondozási-nevelési tervben megjelölt intézmények, szolgáltatók, személyek és az egyéb közvetített ellátásban, szolgáltatásban dolgozók mulasztása miatt nem valósult meg, ezt a problémát a gyámhivatal számára a GYVR-ben megismerhetővé teszi.
+
+[^102]: A 32. § (1) bekezdés nyitó szövegrésze a 15/2021. (IV. 29.) EMMI rendelet 8. § g) pontja szerint módosított szöveg.
+[^103]: A 32. § (1) bekezdés b) pontja a 15/2021. (IV. 29.) EMMI rendelet 8. § h) pontja szerint módosított szöveg.
+[^104]: A 32. § (4) bekezdése a 15/2021. (IV. 29.) EMMI rendelet 4. §-ával megállapított szöveg.

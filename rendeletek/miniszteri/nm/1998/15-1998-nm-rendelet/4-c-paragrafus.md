@@ -1,6 +1,6 @@
-## 4/B. §[^59] A Családbarát Ország Nonprofit Közhasznú Kft. közreműködik a koragyermekkori intervenció ágazatközi fejlesztés keretében történő rendszerszintű fejlesztésével kapcsolatos feladatok ellátásának koordinálásában.
+## 4/B. §[^60] A Családbarát Ország Nonprofit Közhasznú Kft. közreműködik a koragyermekkori intervenció ágazatközi fejlesztés keretében történő rendszerszintű fejlesztésével kapcsolatos feladatok ellátásának koordinálásában.
 
-4/C. §[^60] (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységnek a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
+4/C. §[^61] (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységnek a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
 
 a) munkahelyi bölcsőde, családi bölcsőde és napközbeni gyermekfelügyelet esetén – kivéve a kizárólag a Gyvt. 44/B. § (3) bekezdés d) pontja szerinti szolgáltatást nyújtó engedélyest – az engedélyesre vonatkozó közegészségügyi és az ivóvíz-minőségi követelmények, ha egy lakásban egy engedélyes kerül kialakításra, és a gondozott gyermekek száma a saját, napközbeni ellátást máshol igénybe nem vevő gyermekeket és az időszakos gyermekfelügyelet keretében ellátott gyermekeket is beleszámítva sem haladja meg a hét főt,
 
@@ -46,5 +46,5 @@ c) amelyben korábban is szolgáltató, intézmény működött, a korábbi enge
 
 (7) A tűzvédelmi feltételek vizsgálatát az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szabályozza.
 
-[^59]: A 4/B. §-t a 21/2016. (VIII. 24.) EMMI rendelet 1. §-a iktatta be.
-[^60]: A 4/C. §-t a 2/2018. (I. 18.) EMMI rendelet 1. §-a iktatta be.
+[^60]: A 4/B. §-t a 21/2016. (VIII. 24.) EMMI rendelet 1. §-a iktatta be.
+[^61]: A 4/C. §-t a 2/2018. (I. 18.) EMMI rendelet 1. §-a iktatta be.

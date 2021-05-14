@@ -4,15 +4,15 @@
 
 (2) A napközbeni gyermekfelügyelet keretében ellátható gyermekek száma
 
-a)[^129] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeknek a többi gyermekkel azonos időben történő ellátása esetén, legfeljebb öt fő,
+a)[^147] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeknek a többi gyermekkel azonos időben történő ellátása esetén, legfeljebb öt fő,
 
-b)[^130] két vagy három sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek azonos időben történő ellátása esetén, legfeljebb három fő.
+b)[^148] két vagy három sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek azonos időben történő ellátása esetén, legfeljebb három fő.
 
-(3)[^131] Ha a napközbeni gyermekfelügyelet keretében sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek napközbeni ellátását biztosítják, a gyermek ellátásának megkezdését követő legalább három hónap elteltével a gyermek orvosa, a család- és gyermekjóléti központ munkatársa és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy a szülővel együtt értékeli a gyermek beilleszkedését, és dönt a gyermek további neveléséről, gondozásáról.
+(3)[^149] Ha a napközbeni gyermekfelügyelet keretében sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek napközbeni ellátását biztosítják, a gyermek ellátásának megkezdését követő legalább három hónap elteltével a gyermek orvosa, a család- és gyermekjóléti központ munkatársa és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy a szülővel együtt értékeli a gyermek beilleszkedését, és dönt a gyermek további neveléséről, gondozásáról.
 
-(4)[^132] Ha a napközbeni gyermekfelügyelet szolgáltatást nyújtó sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek napközbeni ellátását biztosítja, együttműködik a gyermek korai fejlesztését és gondozását ellátó területileg illetékes pedagógiai szakszolgálati intézménnyel.
+(4)[^150] Ha a napközbeni gyermekfelügyelet szolgáltatást nyújtó sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek napközbeni ellátását biztosítja, együttműködik a gyermek korai fejlesztését és gondozását ellátó területileg illetékes pedagógiai szakszolgálati intézménnyel.
 
-[^129]: Az 51/K. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^130]: Az 51/K. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^131]: Az 51/K. § (3) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^132]: Az 51/K. § (4) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja és 7. §-a szerint módosított szöveg.
+[^147]: Az 51/K. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^148]: Az 51/K. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^149]: Az 51/K. § (3) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^150]: Az 51/K. § (4) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja és 7. §-a szerint módosított szöveg.
