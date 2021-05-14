@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-133-00-00
 | 2020-06-18 | 2020. évi LVIII. törvény | 2005-133-00-00.34 |
 | 2020-12-04 | 2020. évi CXXI. törvény | 2005-133-00-00.35 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2005-133-00-00.36 |
+| 2021-05-14 | 2021. évi XXXI. törvény | 2005-133-00-00.37 |
