@@ -1,4 +1,4 @@
-7. § (1) A foglalkoztatottak (2) bekezdés szerinti adatairól, azok változásairól, illetve a foglalkoztató szervezet szervezeti adatairól a 2. § szerinti foglalkoztató szervezet – a Kormány rendeletében meghatározott rendben – elektronikus úton adatfeltöltést végez
+7. § (1) A foglalkoztatottak 6. § (2) bekezdése szerinti adatairól, azok változásairól, illetve a foglalkoztató szervezet szervezeti adatairól a 2. § szerinti foglalkoztató szervezet – a Kormány rendeletében meghatározott rendben – elektronikus úton adatfeltöltést végez
 
 a) a kormányzati igazgatási szerv Kit. 175. §-a szerinti közszolgálati alapnyilvántartásából, illetve a Kit. 279. § (8) bekezdése szerinti munkaügyi nyilvántartásából,
 
