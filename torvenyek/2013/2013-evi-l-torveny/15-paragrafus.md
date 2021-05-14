@@ -10,11 +10,13 @@ d) a szervezet informatikai biztonsági szabályzatát,
 
 e) a biztonsági eseményekkel kapcsolatos, az eseménykezelő központtól kapott értesítéseket.
 
+f) a sérülékenységvizsgálatok eredményét, valamint a sérülékenységek megszüntetésére vonatkozó intézkedési terveket.
+
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja az elektronikus információs rendszerek védelmével kapcsolatos kötelezettségek teljesítése és hatósági ellenőrzésének biztosítása.
 
-(3) A szervezet az (1) bekezdés a)–c) pontjában meghatározott adatokat és ezek változásait, valamint az (1) bekezdés d) pontja szerinti szabályzatot megküldi a hatóságnak a nyilvántartásba vétel érdekében.
+(3) A szervezet az (1) bekezdés a)–c) pontjában meghatározott adatokat, az (1) bekezdés d) pontja szerinti szabályzatot, valamint ezek változásait megküldi a hatóságnak a nyilvántartásba vétel érdekében.
 
-(4) Az (1) bekezdésben meghatározott nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a 19. § (1)–(4) bekezdésében meghatározott eseménykezelő központok részére végezhető.
+(4) Az (1) bekezdésben meghatározott nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a 19. § (1) és (2) bekezdésében meghatározott eseménykezelő központok részére végezhető.
 
 (5) Ha a szervezet e törvény hatálya alá tartozó tevékenységet már nem végez, akkor az (1) bekezdésben meghatározott adatokat a hatóság a tevékenység befejezése bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 

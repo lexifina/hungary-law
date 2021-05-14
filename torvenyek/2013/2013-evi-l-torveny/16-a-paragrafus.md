@@ -8,7 +8,7 @@
 
 (5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a hatóság hirdetményi úton közli. A hirdetményt a hatóság honlapján kell közzétenni. A határozat közlésének napja a hirdetmény közzétételének napja.
 
-(6) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+(6) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) szervezi és ellenőrzi.
 
 (7) A hatóság 1 millió forinttól 5 millió forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely e § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség teljesítésére megszabott határidő eredménytelen elteleltét követően – újabb határidő megjelölése mellett – ismételten is kiszabható.
 

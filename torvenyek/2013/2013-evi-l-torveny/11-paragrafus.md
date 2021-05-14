@@ -34,8 +34,8 @@ n) megteszi az elektronikus információs rendszer védelme érdekében felmerü
 
 (4)
 
-(5) A nemzetbiztonsági védelem alá eső állami szervek esetében az elektronikus információs rendszer biztonságáért felelős személy kinevezése tekintetében az eseménykezelő központ előzetes véleményezési jogot gyakorol.
+(5)
 
-(6) A biztonsági esemény kivizsgálásában részt vevő személy csak az lehet, aki rendelkezik a szervezet vezetője által – az eseménykezelő központ előzetes véleményezésével – kiadott megbízással. A megbízást írásba kell foglalni. A biztonsági esemény kivizsgálásában részt vevő személynek a megbízás előtt részt kell vennie a biztonságiesemény-kezelő eljárásról szóló, eseménykezelő központ által tartott tájékoztató előadáson.
+(6)
 
-(7) A honvédelmi célú elektronikus információs rendszerek esetében az (5) és (6) bekezdés rendelkezései nem alkalmazhatóak.
+(7)

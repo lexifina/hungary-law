@@ -22,7 +22,7 @@ i) a Magyar Nemzeti Bankra,
 
 j) a fővárosi és megyei kormányhivatalokra,
 
-k) a helyi és a nemzetiségi önkormányzatok képviselő-testületének hivatalaira, a hatósági igazgatási társulásokra,
+k) a helyi önkormányzatok képviselő-testületének hivatalaira, a hatósági igazgatási társulásokra,
 
 l) a Magyar Honvédségre.
 
@@ -32,17 +32,17 @@ a) az (1) bekezdésben meghatározott szervek és ezen szervek számára adatkez
 
 b) a jogszabályban meghatározott, a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozói,
 
-c) az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek,
+c) az európai vagy nemzeti létfontosságú rendszerelemmé – a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján – kijelölt rendszerelemeknek a létfontosságú tevékenységben közreműködő,
 
 d) az alapvető szolgáltatást nyújtó szereplőknek az alapvető szolgáltatás nyújtásában közreműködő,
 
-e) a nemzetbiztonsági védelem alá eső szervek
+e) az elektronikus információs rendszert működtető, a központi államigazgatási és kormányzati tevékenység szempontjából fontos, nemzetbiztonsági védelem alá eső szervek
 
 elektronikus információs rendszereinek védelmére.
 
 (3) A Kormány rendeletében meghatározott, a honvédelmért felelős miniszter vezetése, irányítása alatt álló szervek zárt célú elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-(4)
+(4) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény rendelkezései alapján a különleges jogrend ideje alatt nemzeti létfontosságú rendszerelemmé kijelölt rendszerelem tekintetében e törvény rendelkezéseit kizárólag akkor kell alkalmazni, ha a különleges jogrend megszűnését követő felülvizsgálat eredményeként a kijelölését fenntartották.
 
 (5) A honvédelmi célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a honvédelmi ágazaton belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 

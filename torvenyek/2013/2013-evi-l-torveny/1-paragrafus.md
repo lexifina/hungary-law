@@ -12,7 +12,7 @@
 
 3. adatfeldolgozó: az a természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, aki vagy amely szerződés alapján – beleértve a jogszabály rendelkezése alapján kötött szerződést is – adatok feldolgozását végzi;
 
-3a. adatgazda: annak a szervezeti egységnek a vezetője, ahová jogszabály vagy közjogi szervezetszabályozó eszköz az adat kezelését rendeli, illetve ahol az adat keletkezik;
+3a.
 
 4. adatkezelés: az alkalmazott eljárástól függetlenül az adatokon végzett bármely művelet vagy a műveletek összessége, így különösen az adatok gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adatok további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők rögzítése;
 
@@ -66,7 +66,15 @@ c) az a) és b) pontban szereplő elemek által működésük, használatuk, vé
 
 22. globális kibertér: a globálisan összekapcsolt, decentralizált, egyre növekvő elektronikus információs rendszerek, valamint ezen rendszereken keresztül adatok és információk formájában megjelenő társadalmi és gazdasági folyamatok együttese;
 
-23. honvédelmi célú elektronikus információs rendszer: a honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő többcélú szakképző intézmény, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok zárt célú elektronikus információs rendszereinek, valamint egyéb – funkciója, rendeltetése, feladatellátása szerint – nyílt elektronikus információs rendszereinek összessége, amely ágazatspecifikus módon támogatja a honvédelmi ágazaton belüli és ágazatok közötti működést;
+23. honvédelmi célú elektronikus információs rendszer:
+
+a) a honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő többcélú szakképző intézmény, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok zárt célú elektronikus információs rendszereinek, valamint egyéb – funkciója, rendeltetése, feladatellátása szerint – nyílt elektronikus információs rendszereinek összessége, amely ágazatspecifikus módon támogatja a honvédelmi ágazaton belüli és ágazatok közötti működést,
+
+b) a honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló kormányrendelet alapján kijelölt ágazaton belüli honvédelmi létfontosságú rendszerelemek elektronikus információs rendszerei,
+
+c) az illetékes ágazatban ki nem jelölt, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvényben meghatározott ágazaton kívüli honvédelmi rendszerelem elektronikus információs rendszerei, valamint
+
+d) a honvédelmi ágazat hatáskörébe tartozó nemzetbiztonsági védelem alá eső szervek elektronikus információs rendszere;
 
 24.
 
@@ -88,7 +96,7 @@ c) az a) és b) pontban szereplő elemek által működésük, használatuk, vé
 
 32a. kritikus adat: a személyes adat vagy valamely jogszabállyal védett adat;
 
-33. létfontosságú információs rendszerelem: az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt létfontosságú rendszerelemek azon elektronikus információs létesítményei, eszközei vagy szolgáltatásai, amelyek működésképtelenné válása vagy megsemmisülése az európai vagy nemzeti létfontosságú rendszerelemmé kijelölt rendszerelemeket vagy azok részeit elérhetetlenné tenné, vagy működőképességüket jelentősen csökkentené;
+33.
 
 34. logikai védelem: az elektronikus információs rendszerben információtechnológiai eszközökkel és eljárásokkal (programokkal, protokollokkal) kialakított védelem;
 
@@ -124,4 +132,4 @@ c) az a) és b) pontban szereplő elemek által működésük, használatuk, vé
 
 (2)
 
-(3) E törvény alkalmazásában egy elektronikus információs rendszernek kell tekinteni adott adatgazda által, adott cél érdekében az adatok, információk kezelésére használt eszközök (környezeti infrastruktúra, hardver, hálózat és adathordozók), eljárások (szabályozás, szoftver és kapcsolódó folyamatok), valamint az ezeket kezelő személyek együttesét.
+(3) E törvény alkalmazásában egy elektronikus információs rendszernek kell tekinteni adott adatkezelő vagy adatfeldolgozó által, adott cél érdekében az adatok, információk kezelésére használt eszközök – így különösen környezeti infrastruktúra, hardver, hálózat és adathordozók –, eljárások – így különösen szabályozás, szoftver és kapcsolódó folyamatok –, valamint az ezeket kezelő személyek együttesét.

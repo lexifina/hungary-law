@@ -20,7 +20,9 @@ a) a 2. § (2) bekezdés a) pontja szerinti adatkezelési tevékenység feltéte
 
 b) a 2. § (2) bekezdés b) pontja esetében a (3) bekezdés szerinti határidőket az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől kell számítani, a 7. § szerinti biztonsági osztályba sorolást az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépését követő három hónapon belül kell elvégezni;
 
-c) a 2. § (2) bekezdés c) pontja esetében a (3) bekezdés szerinti határidőket a létfontosságú információs rendszerelemmé kijelölő határozat véglegessé válásától kell számítani, a 7. § szerinti biztonsági osztályba sorolást a kijelölő határozat véglegessé válásától számított egy éven belül kell elvégezni.
+c) a 2. § (2) bekezdés c) pontja esetében a (3) bekezdés szerinti határidőket a létfontosságú rendszerelemmé kijelölő határozat véglegessé válásától kell számítani, a 7. § szerinti biztonsági osztályba sorolást a kijelölő határozat véglegessé válásától számított egy éven belül kell elvégezni.
+
+d) a 2. § (2) bekezdés d) pontja esetében a (3) bekezdés szerinti határidőket az alapvető szolgáltatást nyújtó szereplőként történő azonosításra vonatkozó határozat véglegessé válásától kell számítani, a 7. § szerinti biztonsági osztályba sorolást és a 9. § szerinti biztonsági szintbe sorolást az azonosító határozat véglegessé válásától számított egy éven belül kell elvégezni.
 
 (7) A (4) bekezdés szerinti kötelezettség teljesítésére megállapított határidőt a 2014. július 1-jét követően a törvény hatálya alá kerülő szervezetek esetében
 
@@ -28,8 +30,10 @@ a) a 2. § (1) bekezdés tekintetében a szervezet létesítését megalapozó d
 
 b) a 2. § (2) bekezdés a) pont tekintetében az adatkezelés megkezdésétől;
 
-c) a 2. § (2) bekezdés b) pont tekintetében az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől;
+c) a 2. § (2) bekezdés b) pontja tekintetében az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől;
 
-d) a 2. § (2) bekezdés c) pont tekintetében a létfontosságú információs rendszerelemmé kijelölő határozat véglegessé válásától
+d) a 2. § (2) bekezdés c) pontja tekintetében a létfontosságú rendszerelemmé kijelölő határozat véglegessé válásától;
+
+e) a 2. § (2) bekezdés d) pontja tekintetében az alapvető szolgáltatást nyújtó szereplőként történő azonosításról szóló határozat véglegessé válásától
 
 kell számítani.

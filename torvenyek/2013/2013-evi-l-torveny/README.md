@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-50-00-00
 | 2019-07-27 | 2019. évi LV. törvény | 2013-50-00-00.18 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2013-50-00-00.19 |
 | 2021-03-01 | 2020. évi XXXI. törvény | 2013-50-00-00.20 |
+| 2021-05-14 | 2021. évi XXXI. törvény | 2013-50-00-00.21 |

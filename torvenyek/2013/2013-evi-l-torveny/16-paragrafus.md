@@ -2,11 +2,11 @@
 
 a) az érintett szervezeteknél a jogszabályokban foglalt biztonsági követelményeket és az ehhez kapcsolódó eljárási szabályok teljesülését ellenőrizni,
 
-b) a követelményeknek való megfelelőség alátámasztásához szükséges dokumentumokat bekérni, illetve a 12. § b) pontja alapján megküldött dokumentációt felülvizsgálni,
+b) a követelményeknek való megfelelőség alátámasztásához szükséges dokumentumokat bekérni, illetve a 12. § b) pontja alapján megküldött dokumentum felülvizsgálatát elrendelni,
 
 c) a 7–8. § szerinti biztonsági osztályba sorolást, a 9–10. § szerinti biztonsági szint megállapítását, vagy a védelmi intézkedéseket ellenőrizni, az ott feltárt hiányosságok felszámolásához szükséges intézkedéseket elrendelni, ezek teljesülését ellenőrizni,
 
-d) a központi és az európai uniós forrásból megvalósuló fejlesztési projektek tervezési szakaszában ellenőrizni az információbiztonsági követelmények megtartását,
+d) a központi és az európai uniós forrásból megvalósuló fejlesztési projektek tervezési, kivitelezési és záró szakaszában ellenőrizni az információbiztonsági követelmények megtartását,
 
 e) hazai információbiztonsági, kibervédelmi gyakorlatokat szervezni,
 

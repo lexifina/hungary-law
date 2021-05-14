@@ -12,7 +12,7 @@ c) üzemeltetéséért felelős vagy
 
 d) információbiztonságáért felelős
 
-szervezeti egységeket az elektronikus információs rendszerek védelmére való felkészültségük alapján a szervezettől elvárt, eltérő biztonsági szintekbe kell sorolni jogszabályban meghatározott szempontok szerint.
+szervezeti egységek az elektronikus információs rendszerek védelmére való felkészültségük alapján a szervezettől eltérő biztonsági szintekbe sorolhatók jogszabályban meghatározott szempontok szerint.
 
 (3) A szervezet vagy szervezeti egységek biztonsági szintjét a szervezet védelemre való felkészültsége határozza meg.
 
