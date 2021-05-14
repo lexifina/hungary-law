@@ -63,3 +63,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2021-01-01 | 2020. évi CLXV. törvény | 1991-49-00-00.111 |
 | 2021-03-01 | 2021. évi II. törvény | 1991-49-00-00.112 |
 | 2021-03-28 | 2021. évi II. törvény | 1991-49-00-00.113 |
+| 2021-05-14 | 2021. évi XXXIII. törvény | 1991-49-00-00.114 |
