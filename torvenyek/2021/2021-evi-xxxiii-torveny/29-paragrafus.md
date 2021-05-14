@@ -1,0 +1,3 @@
+29. § A Postatv. a következő 27/B. §-sal egészül ki:
+
+„27/B. § Az egyetemes postai szolgáltató jogosult a felvett postai küldemények feldolgozás helyére történő eljuttatása, vagy a postai küldemények feldolgozási, szolgáltatói hozzáférési vagy kézbesítési pontok közötti továbbításának elvégzése céljából foglalkoztatott munkavállalók esetében a beosztás szerinti napi munkaidőt legfeljebb 12 órában meghatározni abban az esetben is, ha a munkavállaló éjszakai munkát is végez.”

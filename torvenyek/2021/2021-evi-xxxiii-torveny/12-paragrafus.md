@@ -1,0 +1,5 @@
+12. § A Vtv. 27. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(8) Az alapfeladatként vagy főtevékenységként közfeladatot ellátó, továbbá a közfeladathoz vagy a lakosság közszolgáltatásokkal való ellátásához szükséges infrastruktúrát biztosító vagyonkezelő a visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül. A vagyonkezelő – alapfeladattól vagy főtevékenységétől függetlenül – e törvény erejénél fogva mentesül a visszapótlási kötelezettség teljesítése alól azon ingatlan és ingó vagyonelemek tekintetében, amelyek közfeladat-ellátási kötelezettség teljesítése érdekében állnak a vagyonkezelésében. A tulajdonosi joggyakorló és a vagyonkezelő a vagyonkezelési szerződésben ettől eltérően is megállapodhat.
+
+(9) A visszapótlási kötelezettség módját és mértékét vagy a visszapótlási kötelezettség alóli, (8) bekezdés szerinti mentesülés tényét a vagyonkezelési szerződésben, vagy – ha a vagyonkezelési szerződés megszűnésére figyelemmel az már nem lehetséges – az elszámolási szerződésben kell rögzíteni.”
