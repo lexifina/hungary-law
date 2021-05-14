@@ -1,6 +1,6 @@
 ## 5. Az ismeretlen holttestek, holttestrészek nyilvántartása
 
-5. § (1) Az ismeretlen holttestek, holttestrészek nyilvántartásának célja az ismeretlen holttest vagy holttestrész azonosításának az elősegítése.
+5. § (1) Az ismeretlen holttestek, holttestrészek nyilvántartásának célja az ismeretlen személyazonosságú holttest vagy holttestrész azonosításának az elősegítése.
 
 (2) Az ismeretlen holttestek, holttestrészek nyilvántartása a következő adatokat tartalmazza:
 

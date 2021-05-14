@@ -4,4 +4,4 @@
 
 a) az eltűnés miatt körözött személy felkutatásának, holléte, illetve személyazonossága megállapításának elősegítése, valamint
 
-b) az ismeretlen holttest vagy holttestrész azonosítása.
+b) az ismeretlen személyazonosságú holttest vagy holttestrész azonosítása.

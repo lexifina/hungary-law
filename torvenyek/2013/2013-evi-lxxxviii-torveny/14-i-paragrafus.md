@@ -1,6 +1,6 @@
 14/I. § (1) Az ismeretlen holttestek vagy holttestrészek ujj- és tenyérnyomatainak nyilvántartása tartalmazza
 
-a) az ismeretlen holttest vagy holttestrész ujj- és tenyérnyomatát,
+a) az ismeretlen személyazonosságú holttest vagy holttestrész ujj- és tenyérnyomatát,
 
 b) a körözés azonosítására szolgáló kapcsolati kódot, valamint
 

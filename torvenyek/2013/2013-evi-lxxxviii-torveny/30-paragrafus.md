@@ -10,7 +10,7 @@ a) a nyilvántartót,
 
 b) a szakértői nyilvántartó szervet, valamint
 
-c) az eltűnés miatt körözött személyek, az eltűnés miatt körözött személyek vér szerinti hozzátartozóinak, valamint az ismeretlen holttest vagy holttestrész DNS-profiljának meghatározására jogosult szervet.
+c) az eltűnés miatt körözött személyek, az eltűnés miatt körözött személyek vér szerinti hozzátartozóinak, valamint az ismeretlen személyazonosságú holttest vagy holttestrész DNS-profiljának meghatározására jogosult szervet.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben állapítsa meg
 
