@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-75-00-00
 | 2016-11-05 | 2016. évi CXV. törvény | 2015-75-00-00.3 |
 | 2016-12-27 | 2016. évi CLXXVI. törvény | 2015-75-00-00.4 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2015-75-00-00.5 |
+| 2021-05-14 | 2021. évi XXXIII. törvény | 2015-75-00-00.6 |
