@@ -1,5 +1,3 @@
-## „(4) A hatóság
+## 5. §[^4]
 
-## a) a veszélyhelyzet idején az okmányokra, továbbá az ügyintézésre vonatkozó egyes szabályok megállapításáról szóló 500/2020. (XI. 13.) Korm. rendelet szerint érvényes útlevelek okmányazonosítóját az útiokmány-nyilvántartásból is átveheti,
-
-## b) a hivatalos útlevél érvényességi adatát és okmányazonosítóját az útiokmány-nyilvántartásból veszi át.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
