@@ -2,13 +2,13 @@
 
 68. §[^497] (1)[^498] A Gyvt. 20/A. §-ában meghatározott pénzbeli támogatás (e § alkalmazásában a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
 
-(2)[^499] A jegyző a 4. számú melléklet szerinti adatlapon
+(2)[^499] A jegyző
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás folyósításához tárgyév augusztus 5-éig,
 
 b) a tárgyév november hónapjára tekintettel járó támogatás folyósításához tárgyév november 5-éig
 
-a Magyar Államkincstár által üzemeltetett elektronikus rendszeren keresztül – az adatlapot elektronikusan hitelesített formában is megküldve – értesíti a Magyar Államkincstár területi szervét (a továbbiakban: Igazgatóság) a támogatás összegéről. Az értesítésben külön kell feltüntetni a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű támogatás összegét és a Gyvt. 20/A. § (2) bekezdése szerinti emelt összegű támogatás összegét.
+a Magyar Államkincstár által üzemeltetett elektronikus rendszeren keresztül – a Magyar Államkincstár által e célra rendszeresített adatlapot elektronikusan hitelesített formában is megküldve – értesíti a Magyar Államkincstár területi szervét (a továbbiakban: Igazgatóság) a támogatás összegéről. Az értesítésben külön kell feltüntetni a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű támogatásban részesülő kiskorúak és nagykorúak számát, valamint a Gyvt. 20/A. § (2) bekezdése szerinti emelt összegű támogatásban részesülő kiskorúak és nagykorúak számát, továbbá a támogatás összegét.
 
 (3)[^500] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az adatok alapján
 
@@ -16,7 +16,7 @@ a) a tárgyév augusztus hónapjára tekintettel járó támogatás folyósítá
 
 b) a tárgyév november hónapjára tekintettel járó támogatás folyósításához tárgyév november 15-éig
 
-rendelkezik a 4. számú melléklet szerint igényelt támogatási összegnek a települési önkormányzatok részére történő átutalásáról, valamint ezzel egyidejűleg a (2) bekezdés szerinti adatokat megyénkénti, települési önkormányzatonkénti és támogatási összegenkénti bontásban, számítógépes hálózaton megküldi a miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium).
+rendelkezik a (2) bekezdés szerint igényelt támogatási összegnek a települési önkormányzatok részére történő átutalásáról, valamint ezzel egyidejűleg az adatokat megyénkénti, települési önkormányzatonkénti és támogatási összegenkénti bontásban, számítógépes hálózaton megküldi a miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium).
 
 (4)[^501]
 
@@ -75,8 +75,8 @@ a jegyző a (14) bekezdésben foglaltak szerint gondoskodik a folyósításra ne
 [^496]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 179/2019. (VII. 18.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^497]: A 68. § a 148/2017. (VI. 12.) Kor. rendelet 1. §-ával megállapított szöveg.
 [^498]: A 68. § (1) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^499]: A 68. § (2) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^500]: A 68. § (3) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^499]: A 68. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^500]: A 68. § (3) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított, záró szövegrésze a 205/2021. (IV. 29.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
 [^501]: A 68. § (4) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
 [^502]: A 68. § (5) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^503]: A 68. § (6) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

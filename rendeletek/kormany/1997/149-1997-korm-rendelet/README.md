@@ -64,3 +64,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2021-01-23 | 1997-149-20-22.81 | 10/2021. (I. 20.) Korm. rendelet |
 | 2021-03-01 | 1997-149-20-22.82 | 94/2021. (II. 27.) Korm. rendelet |
 | 2021-03-11 | 1997-149-20-22.83 | 116/2021. (III. 10.) Korm. rendelet |
+| 2021-05-14 | 1997-149-20-22.84 | 205/2021. (IV. 29.) Korm. rendelet |

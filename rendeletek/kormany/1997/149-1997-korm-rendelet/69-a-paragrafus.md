@@ -1,8 +1,8 @@
-## 69/A. §[^546] Ha a kérelmező kérelmében nem igazolja
+## 69/A. §[^547] Ha a kérelmező kérelmében nem igazolja
 
-a)[^547] a 8. számú melléklet II. pontjában foglalt táblázat 4–6. sora szerinti nyilvános, vagy valamely hatóság vagy bíróság jogszabállyal rendszeresített nyilvántartásában megtalálható adatot, akkor a gyámhivatal az adatok beszerzése érdekében megkeresi a nyilvántartást vezető hatóságot vagy bíróságot,
+a)[^548] a jövedelmi adatai tekintetében a nyilvános, vagy valamely hatóság vagy bíróság jogszabállyal rendszeresített nyilvántartásában megtalálható adatot, akkor a gyámhivatal az adatok beszerzése érdekében megkeresi a nyilvántartást vezető hatóságot vagy bíróságot,
 
 b) a 69. § (4) bekezdés c) pontja szerinti adatot, a gyámhivatal az adat beszerzése érdekében megkeresi a tanulói és hallgatói nyilvántartást vezető szervet.
 
-[^546]: A 69/A. §-t a 173/2009. (VIII. 29.) Korm. rendelet 25. §-a iktatta be. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^547]: A 69/A. § a) pontja a 235/2017. (VIII. 18.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^547]: A 69/A. §-t a 173/2009. (VIII. 29.) Korm. rendelet 25. §-a iktatta be. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^548]: A 69/A. § a) pontja a 205/2021. (IV. 29.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
