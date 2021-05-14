@@ -2,7 +2,7 @@
 
 ## 2/B. [^37] A Gyermekeink védelmében elnevezésű informatikai rendszerre vonatkozó általános szabályok
 
-11/K. § (1) A Kormány a Gyermekeink védelmében elnevezésű informatikai rendszer (a továbbiakban: GYVR) adatkezelőjeként a gyermekek és az ifjúság védelméért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
+11/K. § (1)[^38] A Kormány a Gyermekeink védelmében elnevezésű informatikai rendszer (a továbbiakban: GYVR) adatkezelőjeként a minisztert jelöli ki.
 
 (2) A Kormány országos örökbefogadást elősegítő szervként a minisztert jelöli ki.
 
@@ -16,3 +16,4 @@
 
 [^36]: A 11/J. §-a a 418/2015. (XII. 23.) Korm. rendelet 2. § f) pontja, a 191/2016. (VII. 13.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^37]: A 2/B. alcímet (11/K–11/L. §) a 447/2020. (X. 1.) Korm. rendelet 8. §-a iktatta be.
+[^38]: A 11/K. § (1) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 17. §-a szerint módosított szöveg.
