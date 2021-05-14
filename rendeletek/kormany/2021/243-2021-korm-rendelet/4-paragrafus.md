@@ -1,3 +1,0 @@
-## 3. § A Rendelet a következő 15. §-sal egészül ki:
-
-## „15. § E rendeletnek az Európa Kulturális Fővárosa 2023 programsorozathoz kapcsolódó, az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat megrendezéséhez szükséges létesítményfejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint további sajátos szabályok megállapításáról szóló 654/2020. (XII. 23.) Korm. rendelet módosításáról szóló 243/2021. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (3) bekezdését, 12. §-át és 2. mellékletét a Módr. hatálybalépésekor folyamatban levő közigazgatási ügyekben is alkalmazni kell.”
