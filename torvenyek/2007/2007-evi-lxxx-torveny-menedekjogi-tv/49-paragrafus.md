@@ -14,6 +14,6 @@
 
 (7a)
 
-(8) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
+(8) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
 
 (9) A közigazgatási perben a keresetlevél benyújtásának, valamint az átadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek nincs halasztó hatálya a végzés végrehajtására.

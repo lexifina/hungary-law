@@ -14,6 +14,8 @@ e) a kérelem előterjesztésére repülőtéri eljárásban került sor, vagy
 
 f) a dublini átadási eljárások biztosítása érdekében szükséges, és komoly veszély áll fenn a szökésre.
 
+g) arra annak megállapítása érdekében van szükség, hogy a kérelmező beléphet-e az ország területére.
+
 (1a) A dublini eljárás lefolytatása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, esetében dublini átadásnak lehet helye, és szökésének komoly veszélye áll fenn.
 
 (1b) Az (1a) bekezdés alapján őrizetbe vett külföldire a menekültügyi őrizet időtartama alatt az elismerését kérőre vonatkozó szabályok megfelelően alkalmazandók. A menekültügyi őrizet megszüntetését, továbbá az átadás meghiúsulását követően – az őrizet megszüntetésével egyidőben meghozott, rendelkezésre állást biztosító intézkedésre vonatkozó döntés kivételével – az idegenrendészeti szabályok alkalmazásának van helye.
@@ -26,13 +28,13 @@ f) a dublini átadási eljárások biztosítása érdekében szükséges, és ko
 
 (5) A menekültügyi őrizetet határozattal kell elrendelni, és azt a közléssel egyidejűleg végre kell hajtani.
 
-(6) Menekültügyi őrizet legfeljebb hetvenkét órára rendelhető el. A menekültügyi hatóság a menekültügyi őrizet hetvenkét órán túli meghosszabbítását az elrendeléstől számított huszonnégy órán belül indítványozhatja az őrizet helye szerint illetékes járásbíróságnál az ügyfél által beszélt nyelv feltüntetésével az illetékes járásbíróság általi tolmácskirendelés érdekében. A bíróság legfeljebb hatvan nappal hosszabbíthatja meg az őrizet időtartamát, amely időtartam a menekültügyi hatóság kezdeményezésére újabb legfeljebb hatvan nappal hosszabbítható meg. A menekültügyi hatóság őrizet meghosszabbítására irányuló indítványt többször is előterjeszthet úgy, hogy az őrizet teljes időtartama nem haladhatja meg a hat hónapot. A meghosszabbításra vonatkozó indítványnak a meghosszabbítás esedékességének napját megelőzően legalább nyolc munkanappal kell megérkeznie a bírósághoz. A menekültügyi hatóság az indítványát köteles megindokolni.
+(6) Menekültügyi őrizet legfeljebb hetvenkét órára rendelhető el. A menekültügyi hatóság a menekültügyi őrizet hetvenkét órán túli meghosszabbítását az elrendeléstől számított huszonnégy órán belül indítványozhatja az őrizet helye szerint illetékes járásbíróságnál az ügyfél által beszélt nyelv feltüntetésével az illetékes járásbíróság általi tolmácskirendelés érdekében. A bíróság legfeljebb hatvan nappal hosszabbíthatja meg az őrizet időtartamát, amely időtartam a menekültügyi hatóság kezdeményezésére újabb legfeljebb hatvan nappal hosszabbítható meg. A menekültügyi hatóság őrizet meghosszabbítására irányuló indítványt többször is előterjeszthet úgy, hogy az őrizet teljes időtartama nem haladhatja meg a nyolc hónapot. A meghosszabbításra vonatkozó indítványnak a meghosszabbítás esedékességének napját megelőzően legalább nyolc munkanappal kell megérkeznie a bírósághoz. A menekültügyi hatóság az indítványát köteles megindokolni.
 
-(7) A menekültügyi őrizet hat hónapnál – a kiskorú gyermekkel rendelkező család esetében harminc napnál – nem tarthat tovább.
+(7) A menekültügyi őrizet nyolc hónapnál – a kiskorú gyermekkel rendelkező család esetében harminc napnál – nem tarthat tovább.
 
 (8) A menekültügyi őrizetet haladéktalanul meg kell szüntetni, ha
 
-a) az elrendelésétől számítva hat hónap – a kiskorú gyermekkel rendelkező család esetében harminc nap – eltelt,
+a) az elrendelésétől számítva nyolc hónap – a kiskorú gyermekkel rendelkező család esetében harminc nap – eltelt,
 
 b) az elrendelésének oka megszűnt,
 

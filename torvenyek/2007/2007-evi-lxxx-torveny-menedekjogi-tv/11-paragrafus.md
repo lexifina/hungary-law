@@ -26,6 +26,6 @@ h) elismerésének feltételei már az elismerő határozat meghozatalakor sem �
 
 i) a menekültügyi eljárás során lényeges tényt vagy tényeket elhallgatott, vagy ilyen tényre vagy tényekre vonatkozó valótlan nyilatkozatot tett, illetve hamis vagy hamisított dokumentumokat használt fel, feltéve, hogy ez a menekültkénti elismerését érdemben befolyásolta.
 
-(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekülttel szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn.
+(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekülttel szemben a 8. § (4) vagy (5) bekezdése szerinti kizáró ok áll fenn.
 
 (4) A (2) bekezdés e) pontja nem alkalmazható arra a menekültre, aki korábbi üldöztetéséből fakadó alapos okot tud felhozni származási országa védelmének elutasítására.
