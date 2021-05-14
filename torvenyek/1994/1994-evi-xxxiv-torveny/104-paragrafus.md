@@ -2,17 +2,17 @@
 
 104. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (2) bekezdése,
+a) az Európai Határ- és Parti Őrségről, valamint az 1052/2013/EU és az (EU) 2016/1624 rendelet hatályon kívül helyezéséről szóló, 2019. november 13-i (EU) 2019/1896 európai parlamenti és tanácsi rendelet,
 
-b) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló 2016/1624/EU európai parlamenti és tanácsi rendelet 44. és 47. cikke [91/L. § (3) bekezdése],
+b) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 61. cikke értelmében az Európai Határ- és Parti Őrség készenléti alakulatának felállításához nyújtott pénzügyi támogatásról szóló, 2020. október 26-i (EU) 2020/1567 bizottsági végrehajtási határozat,
 
 c) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelv 3. cikke és a 6. cikk (1) bekezdése,
 
 d) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
 
-e) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (8) bekezdés első albekezdése,
+e)
 
-f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i, 98/2013/EU európai parlamenti és tanácsi rendelet 9. és 10. cikke,
+f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 9. cikke,
 
 g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],
 

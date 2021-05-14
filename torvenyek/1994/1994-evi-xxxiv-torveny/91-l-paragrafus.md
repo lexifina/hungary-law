@@ -24,4 +24,4 @@ b) személyazonosságukat hitelt érdemlően nem tudják igazolni.
 
 (2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
 
-(3) A rendőrség a határrendészeti adatállományból a 86. § és 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési, terrorelhárítása célból valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.
+(3) A rendőrség a határrendészeti adatállományból a 86. § és a 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési, terrorelhárítási célból, az (EU) 2019/1896 európai parlamenti és tanácsi rendelet alkalmazása céljából, valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.

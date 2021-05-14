@@ -6,7 +6,7 @@
 
 1. § (1) A rendőrség feladata az Alaptörvényben meghatározott feladatok mellett a határforgalom ellenőrzése, a terrorizmus elleni küzdelem és az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzés, a bűncselekményből származó vagyon visszaszerzése, valamint az idegenrendészeti és menekültügyi feladatok ellátása.
 
-(2) A rendőrség az az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:
+(2) A rendőrség az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:
 
 1. végzi a bűncselekmények megelőzését, amelynek során figyelemmel kíséri Magyarország bűnügyi helyzetét, feltárja a bűncselekmények elkövetésének kockázatait, a bűncselekmények elkövetésére irányuló törekvéseket, továbbá megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a bűnözéshez kapcsolódó, a bűncselekmények megelőzése, illetve megakadályozása céljából szükséges információkat,
 
@@ -59,3 +59,5 @@ c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszerveze
 19. ellátja a segélyhívó számok fogadásából eredő feladatokat,
 
 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
+
+21. biztosítja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 35. cikk (1) bekezdésében meghatározott hatásszinteknek megfelelő határellenőrzést.
