@@ -8,7 +8,7 @@ b) a hivatalos iratokkal kapcsolatos szolgáltatás részletes szabályait;
 
 c) a postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemeit, a postai szolgáltatásból kizárt, vagy feltételesen szállítható küldemények körét;
 
-d) Egyetemes Postai szolgáltatást Támogató Számla működtetésének részletes szabályait és bevételeinek számítási módját;
+d)
 
 e) a postai szolgáltatások különleges jogrend időszaki felkészítésének rendszerét, feladatait, működési feltételeit;
 

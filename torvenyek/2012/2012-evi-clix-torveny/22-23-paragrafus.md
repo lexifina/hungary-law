@@ -1,3 +1,3 @@
-## 16. Egyetemes Postai szolgáltatást Támogató Számla
+## 16.
 
 ### 22–23. §

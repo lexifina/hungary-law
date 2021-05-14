@@ -22,7 +22,7 @@
 
 (10) Amennyiben a könyvelt postai küldeményt a postai szolgáltató személyes átadással kézbesíti, a személyazonosságot igazoló okmány elnevezését, betűjelét és számát vagy az átvevő által az átvétellel egyidejűleg megadott azonosító kódot a postai szolgáltató – kormányrendelet eltérő rendelkezése hiányában – a kézbesítési okiraton vagy annak elektronikus helyettesítőjén megfelelő módon rögzíti. Ha az okirat tulajdonosa ez ellen tiltakozik, a szolgáltató ezt – mint a kézbesítést meghiúsító körülményt – a kézbesítési okiraton rögzíti, és a postai küldeményt az ok megjelölésével visszaküldi a feladónak.
 
-(11) Amennyiben az aláírás képének rögzítése és az azt is tartalmazó elektronikus dokumentum létrehozása megfelel a kormányrendeletben, illetve az egyetemes postai szolgáltatás keretében feladott küldemények esetén az Egyetemes Postai Közszolgáltatás Szerződésben meghatározott eszköz- és rendszerkövetelményeknek, akkor az aláírást rögzítő egyéb technikai eszközzel felvett aláírás képét is tartalmazó elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
+(11) Amennyiben az aláírás képének rögzítése és az azt is tartalmazó elektronikus dokumentum létrehozása megfelel a kormányrendeletben, illetve az egyetemes postai szolgáltatás keretében feladott küldemények esetén az Egyetemes Postai Közszolgáltatási Szerződésben meghatározott eszköz- és rendszerkövetelményeknek, akkor az aláírást rögzítő egyéb technikai eszközzel felvett aláírás képét is tartalmazó elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
 
 a) könyvelt levélküldemény vagy hivatalos irat kézbesítése során a küldeményt,
 

@@ -50,7 +50,7 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 17. hálózati átvétel: az a – postai szolgáltatók között lezajló – tevékenység, amely során a postai küldemény a postai szolgáltatási szerződést megkötő postai szolgáltatótól hálózati hozzáférési szerződés alapján egy másik postai szolgáltató hálózatába kerül;
 
-18. hivatalos irat: az állami vagy önkormányzati szervek, valamint a jogszabályban meghatározott egyéb szervek vagy személyek jogszabályban meghatározott eljárásában papír alapon, elektronikus adathordozón vagy elektronikus hírközlési hálózat igénybevételével feladott vagy ilyen módon kézbesített, könyvelt postai küldemény, amelynek feladásához vagy kézbesítéséhez (illetve a kézbesítés megkísérléséhez), vagy azok időpontjához jogszabály jogkövetkezményt fűz, illetve amely jogszabályban meghatározott határidő számításának alapjául szolgál, továbbá amit jogszabály hivatalos iratnak minősít;
+18. hivatalos irat: az állami vagy önkormányzati szervek, valamint a jogszabályban meghatározott egyéb szervek vagy személyek által – papíralapon, elektronikus adathordozón vagy elektronikus hírközlési hálózat igénybevételével – feladott vagy ilyen módon kézbesített, olyan könyvelt postai küldemény, amelynek feladásához vagy kézbesítéséhez (illetve a kézbesítés megkísérléséhez), vagy azok időpontjához jogszabály jogkövetkezményt fűz, illetve amely jogszabályban meghatározott határidő számításának alapjául szolgál, továbbá amit jogszabály hivatalos iratnak minősít;
 
 19. időgarantált szolgáltatás: a postai szolgáltató kötelezettségvállalása, amellyel a postai küldemény meghatározott időtartamon belüli vagy meghatározott időpontban történő kézbesítésére vállal kötelezettséget;
 
@@ -58,7 +58,7 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
 
-22. könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban vagy más bizonyítható módon elismeri és kézbesítését a jogosult átvevővel az erre szolgáló okiraton, vagy az aláírást rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával elismerteti;
+22. könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban vagy más bizonyítható módon a feladó irányában elismeri és kézbesítését a jogosult átvevővel az erre szolgáló okiraton, vagy az aláírást rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával elismerteti;
 
 23. küldeményenkénti díjszabás: olyan – a postai szolgáltató általános szerződési feltételeiben vagy ahhoz csatoltan közzétett – árlista, amely egy postai küldeménynek vagy az egy időben feladott több postai küldeménynek a feladott küldeménymennyiségtől függetlenül azonos darabonkénti díjait tartalmazza;
 
@@ -113,6 +113,8 @@ b) a küldeményen „címzett”-ként feltüntetett, gazdálkodó szervezetnek
 39. szolgáltatói hozzáférési pont: postai küldemények hálózati átvételére az átvevő postai szolgáltató által erre a célra kijelölt hely;
 
 39a. szoros kapcsolat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
+
+39b. postai támpont: a közutak mentén a postai szolgáltató által kijelölt és üzemeltetett, felvételi pontnak és kézbesítési pontnak is minősülő, kézbesítésre alkalmas eszközzel ellátott hely, amely lehetővé teszi a postai küldemények felvételét és a címekhez rendelten biztosítja levélszekrénybe kézbesíthető postai küldemények kézbesítését, valamint – a kézbesítés megkísérlésének mellőzésével – a személyes átadással kézbesítendő postai küldemény érkezéséről szóló értesítő elhelyezését.
 
 40. tértivevény-szolgáltatás: járulékos szolgáltatásnak minősülő – könyvelt küldeményekhez igénybe vehető – postai többletszolgáltatás, amely alapján a postai szolgáltató a kézbesítés napját, valamint a jogosult átvevő nevét és aláírását rögzítő okiratot vagy erre irányuló szerződés esetén annak digitalizált változatát a feladónak visszajuttatja, vagy az aláírást rögzítő technikai eszközzel készített adatokat a feladó rendelkezésére bocsátja;
 

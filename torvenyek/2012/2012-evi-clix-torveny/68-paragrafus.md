@@ -34,4 +34,4 @@ c) e)–h) pontjában meghatározott esetben a jogsértő szolgáltató árbevé
 
 (7) A bírság ismételt jogsértés esetén ismételten is kiszabható. Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és postai szolgáltatásra vonatkozó jogszabály, általános szerződési feltétel tekintetében, ugyanazon tárgykörben valósítja meg.
 
-(8) Az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabályban megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, bírságok, valamint az Egyetemes Postai szolgáltatást Támogató Számla részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.
+(8) Az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabályban megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, bírságok adók módjára behajtandó köztartozásnak minősülnek.

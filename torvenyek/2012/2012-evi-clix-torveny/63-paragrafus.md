@@ -8,7 +8,7 @@ c) ellátja a postai szolgáltatással kapcsolatos honvédelmi, rendvédelmi, ne
 
 d) ellátja az egyetemes postai szolgáltatások költségszámításával és a postai szolgáltatók számviteli szétválasztásával összefüggő ellenőrzési feladatokat;
 
-e) ellenőrzi a Számla javára történő befizetéseket és rendelkezik az egyetemes postai szolgáltató részére a Számla terhére történő kifizetésről;
+e)
 
 f) ellátja az európai uniós jogi aktusokban a nemzeti szabályozó hatóságra delegált információszolgáltatással, kapcsolattartással és egyéb együttműködéssel kapcsolatos feladatokat;
 

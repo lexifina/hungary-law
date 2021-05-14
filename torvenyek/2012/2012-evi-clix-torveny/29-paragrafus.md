@@ -1,3 +1,3 @@
-29. § (1) Az egyetemes postai szolgáltató jogosult méltánytalan többletterhének megtéríttetésére.
+29. § (1)
 
 (2)

@@ -11,3 +11,5 @@ c) a 97/67/EK irányelvnek a közösségi postai szolgáltatások belső piacán
 (1a) E törvény a határokon átnyúló csomagkézbesítési szolgáltatásokról szóló 2018. április 18-i 2018/644 európai parlamenti és tanácsi rendeletben foglaltak végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) E törvény az Európai Unió működéséről szóló Szerződés 106. cikk (2) bekezdése és a közszolgáltatás ellentételezése formájában nyújtott állami támogatásról szóló európai uniós keretszabály (HL C 8; 2012.01.11.) hatálya alá tartozó támogatást tartalmaz.
+
+(3) E törvény a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikk (3) bekezdése szerinti eltérést tartalmaz.

@@ -1,4 +1,4 @@
-37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a) és b) pontja szerinti szolgáltatás keretében feladott postai küldemények kézbesítési pontnak nem minősülő címhelyen való kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
+37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a) és b) pontja szerinti szolgáltatás keretében feladott levélküldemények és hivatalos iratok kézbesítési pontnak nem minősülő címhelyen való kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
 
 a) személyesen eljáró postai közreműködő vagy
 
