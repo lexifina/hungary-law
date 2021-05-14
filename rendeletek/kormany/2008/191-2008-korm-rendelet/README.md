@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2021-01-01 | 2008-191-20-22.39 | 610/2020. (XII. 18.) Korm. rendelet |
 | 2021-01-29 | 2008-191-20-22.40 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2021-02-08 | 2008-191-20-22.41 | 284/2020. (VI. 17.) Korm. rendelet |
+| 2021-05-14 | 2008-191-20-22.42 | 205/2021. (IV. 29.) Korm. rendelet |
