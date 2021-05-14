@@ -6,19 +6,19 @@ a) a rendvédelmi szervnél
 
 aa) igazgatási jogviszonyban,
 
-ab) hivatásos szolgálati viszonyban,
+ab) szolgálati viszonyban,
 
 ac) közalkalmazotti jogviszonyban,
 
 ad) kormányzati szolgálati jogviszonyban,
 
-ae) igazságügyi alkalmazotti jogviszonyban,
+ae) igazságügyi alkalmazotti szolgálati jogviszonyban,
 
 af) munkaviszonyban
 
 eltöltött időt;
 
-b) az e törvény hatálya alá tartozó másik rendvédelmi szervnél az aa)–af) alpont szerinti időt;
+b) az e törvény hatálya alá tartozó másik rendvédelmi szervnél az a) pont aa)–af) alpont szerinti időt;
 
 c) a Magyar Honvédség hivatásos és szerződéses katonai állományában töltött időt;
 
@@ -30,11 +30,15 @@ db) állami szolgálati,
 
 dc) közalkalmazotti,
 
-dd) igazságügyi alkalmazotti,
+dd) igazságügyi alkalmazotti szolgálati,
 
-de) bírói,
+de) bírói szolgálati,
 
-df) ügyészi
+df) ügyészi szolgálati,
+
+dg) egészségügyi szolgálati
+
+jogviszonyban eltöltött időt;
 
 e) a Nemzeti Adó- és Vámhivatalnál
 

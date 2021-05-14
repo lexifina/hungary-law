@@ -8,11 +8,13 @@
 
 a) a miniszter által vezetett minisztériumban,
 
-b) a miniszter irányítása alatt álló költségvetési szervnél vagy
+b) a miniszter irányítása alatt álló költségvetési szervnél,
 
-c) a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetnél
+c) a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetnél, vagy
 
-meghatározott munkakör vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti munkakörben.
+d) a miniszter vagy a miniszter irányítása alá tartozó személy, szervezet tulajdonosi joggyakorlása alatt álló gazdasági társaságnál vagy annak leányvállalatánál
+
+meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, a d) pont szerinti esetben továbbá munkavállalói munkakörben.
 
 (3) Hivatásos szolgálat kormányzati, rendvédelmi érdekből a rendvédelmi szerven kívül a következő szerveknél is teljesíthető:
 

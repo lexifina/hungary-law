@@ -59,3 +59,5 @@ b) fogyatékossági támogatásra jogosult, vagy
 c) vakok személyi járadékára jogosult,
 
 évenként öt munkanap pótszabadság jár.
+
+(14) Az a rendvédelmi alkalmazott, aki vezetői pótszabadságra és a (7) és (8) bekezdés szerinti pótszabadságra nem jogosult, az ötvenedik életévének betöltésétől évente három munkanap pótszabadságot is igénybe vehet.

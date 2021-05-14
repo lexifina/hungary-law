@@ -1,4 +1,4 @@
-227. § (1) Az országos parancsnok névjegyzéket vezet a hivatás állomány azon tagjairól, akik a Becsületbíróság tagjaként eljárhatnak. A névjegyzék rendfokozati állománycsoportonként legalább tíz, legfeljebb ötven főt tartalmaz, akik példamutató magatartásuk, szolgálatellátásuk alapján méltóak a Becsületbíróság munkájában való közreműködésre. A névjegyzékre vételhez a hivatásos állomány tagjának beleegyezése szükséges.
+227. § (1) Az országos parancsnok névjegyzéket vezet a hivatás állomány azon tagjairól, akik a Becsületbíróság tagjaként eljárhatnak. A névjegyzék rendfokozati állománycsoportonként legalább tíz, legfeljebb százötven főt tartalmaz, akik példamutató magatartásuk, szolgálatellátásuk alapján méltóak a Becsületbíróság munkájában való közreműködésre. A névjegyzékre vételhez a hivatásos állomány tagjának beleegyezése szükséges.
 
 (2) A Becsületbíróság három főből áll.
 

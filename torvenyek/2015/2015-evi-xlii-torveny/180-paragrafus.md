@@ -12,7 +12,7 @@ a) a tanácsosi cím után a rendvédelmi illetményalap 50%-ának,
 
 b) a főtanácsosi cím után a rendvédelmi illetményalap 100%-ának
 
-megfelelő címpótlékot kell folyósítani.
+megfelelő – a 154. § (2) bekezdése szerinti egyéb pótléknak minősülő – címpótlékot kell folyósítani.
 
 (3) A hivatásos állomány korábbi tagját a kitüntető cím viselésének joga nyugállományba vonulását követően is megilleti.
 

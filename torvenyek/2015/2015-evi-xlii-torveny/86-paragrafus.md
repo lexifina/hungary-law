@@ -36,11 +36,11 @@ g) az 51. § (2) vagy (3) bekezdésében meghatározott szervhez vezénylés, va
 
 (4) A munkáltatói jogkört gyakorló elöljáró a felmentést köteles megindokolni. Ebből világosan ki kell tűnnie, hogy a felmentés indoka valós és okszerű.
 
-(5) Az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság nem önhibából bekövetkezett egészségi, pszichológiai vagy fizikai ok következménye, a rendvédelmi szerv köteles a hivatásos állomány tagja állapotának, képzettségének, végzettségének megfelelő másik szolgálati beosztást, ennek hiányában másik, az állapotának, képzettségének, végzettségének megfelelő nem hivatásos munkakört felajánlani.
+(5) Az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichológiai vagy fizikai ok következménye, a rendvédelmi szerv köteles a hivatásos állomány tagja állapotának, képzettségének, végzettségének megfelelő másik szolgálati beosztást, ennek hiányában másik, az állapotának, képzettségének, végzettségének megfelelő nem hivatásos munkakört felajánlani.
 
 (6) A hivatásos állomány tagját akkor lehet felmenteni, ha
 
-a) a nem önhibából bekövetkezett egészségi, pszichológiai vagy fizikai alkalmatlanság esetén
+a) egészségi, pszichológiai vagy fizikai alkalmatlanság esetén
 
 aa) állapotának megfelelő betöltetlen szolgálati beosztás vagy nem hivatásos munkakör a rendvédelmi szerv szervezeti egységénél nincs,
 

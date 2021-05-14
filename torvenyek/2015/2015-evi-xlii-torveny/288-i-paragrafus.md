@@ -1,6 +1,6 @@
 288/I. § (1) A rendvédelmi alkalmazottat felmentése esetén – a (6) bekezdésben felsorolt kivételekkel – a felmentési időre járó távolléti díjon túl végkielégítés illeti meg.
 
-(2) A végkielégítés összege, ha a felmentett rendvédelmi alkalmazott igazgatási jogviszonyban töltött ideje legalább
+(2) A végkielégítés összege, ha a felmentett rendvédelmi alkalmazott szolgálati ideje legalább
 
 a) három év: egyhavi,
 
@@ -21,6 +21,8 @@ h) huszonöt év: kilenchavi,
 i) harminc év: tízhavi
 
 távolléti díjnak megfelelő összeg.
+
+(2a) A (2) bekezdés szerinti szolgálati idő vonatkozásában a 289/H. § azzal az eltéréssel alkalmazandó, hogy a rendvédelmi alkalmazott nem jogosult végkielégítésre azon időtartam vonatkozásában, amely alapján a korábbi jogviszonyának megszűnésekor vagy megszüntetésekor végkielégítésben részesült.
 
 (3) A végkielégítés összegének felére jogosult a rendvédelmi alkalmazott, ha azért mentették fel, mert az 288/F. § (5) bekezdés b) pontja szerinti áthelyezéséhez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal – így különösen a közeli hozzátartozó elhelyezkedési, iskoláztatási, gondozási lehetetlensége, lakhatási feltételek nehézségei miatt – tagadta meg,
 

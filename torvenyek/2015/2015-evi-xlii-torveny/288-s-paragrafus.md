@@ -4,4 +4,4 @@
 
 (3) A rendvédelmi szerv vezetője határozza meg az egyes munkaköri kategóriákba tartozó rendvédelmi alkalmazott által betölthető munkaköröket.
 
-(4) A rendvédelmi szervnél az „F” munkaköri kategóriába tartozó rendvédelmi alkalmazott által betölthető munkakörök aránya nem haladhatja meg az állománytáblázatban igazgatási szolgálati jogviszonyban álló személlyel betölthető munkakörök számának három százalékát.
+(4) A rendvédelmi szervnél az „F” munkaköri kategóriába tartozó rendvédelmi alkalmazott által betölthető munkakörök aránya nem haladhatja meg az állománytáblázatban igazgatási szolgálati jogviszonyban álló személlyel betölthető munkakörök számának öt százalékát.

@@ -16,4 +16,4 @@
 
 való megfelelést szolgálja.
 
-(2) Ez a törvény az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló 2016/1624/EU európai parlamenti és tanácsi rendelet 20. cikk (2), (3), (4), (11) és (12) bekezdésének, a 21. cikk (4) bekezdésének, valamint a 22. cikk (2) és (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Ez a törvény az Európai Határ- és Parti Őrségről, valamint az 1052/2013/EU és az (EU) 2016/1624 rendelet hatályon kívül helyezéséről szóló, 2019. november 13-i (EU) 2019/1896 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

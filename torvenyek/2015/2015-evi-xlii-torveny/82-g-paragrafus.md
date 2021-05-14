@@ -1,6 +1,6 @@
-82/G. § (1) Az egészségkárosodási ellátás számítási alapja a 82/A. § (2) bekezdése szerinti esetben a rendvédelmi egészségkárosodási ellátásban részesülőt az egészségi alkalmatlanság megállapítását közvetlenül megelőző egy hónapra a szolgálati beosztása alapján megillető távolléti díj 100%-ának megfelelő összegnek a részére megállapított baleseti ellátás, rehabilitációs ellátás és rokkantsági ellátás együttes összegével csökkentett összege.
+82/G. § (1) Az egészségkárosodási ellátás számítási alapja a 82/A. § (2) bekezdése szerinti esetben a rendvédelmi egészségkárosodási ellátásban részesülőt az egészségi alkalmatlanság megállapítását közvetlenül megelőző naptári hónapra a szolgálati beosztása alapján megillető távolléti díj 100%-ának megfelelő összegnek a részére megállapított baleseti ellátás, rehabilitációs ellátás és rokkantsági ellátás együttes összegével csökkentett összege.
 
-(2) Az egészségkárosodási ellátás számítási alapja a 82/A. § (3) bekezdése szerinti esetben a rendvédelmi egészségkárosodási ellátásban részesülőt az egészségi alkalmatlanság megállapítását közvetlenül megelőző egy hónapra a szolgálati beosztása alapján megillető távolléti díj összege
+(2) Az egészségkárosodási ellátás számítási alapja a 82/A. § (3) bekezdése szerinti esetben a rendvédelmi egészségkárosodási ellátásban részesülőt az egészségi alkalmatlanság megállapítását közvetlenül megelőző naptári hónapra a szolgálati beosztása alapján megillető távolléti díj összege
 
 a) tíz év vagy azt meghaladó, de tizenöt évet el nem érő szolgálati viszonyban töltött idő esetén 65%-ának,
 
@@ -8,7 +8,11 @@ b) tizenöt év vagy azt meghaladó, de húsz évet el nem érő szolgálati vis
 
 c) húsz év vagy azt meghaladó, de huszonöt évet el nem érő szolgálati viszonyban töltött idő esetén 75%-ának,
 
-d) huszonöt évet elérő vagy azt meghaladó szolgálati viszonyban töltött idő esetén 80%-ának
+d) huszonöt év vagy azt meghaladó, de harminc évet el nem érő szolgálati viszonyban töltött idő esetén 80%-ának
+
+e) harminc év vagy azt meghaladó, de harmincöt évet el nem érő szolgálati viszonyban töltött idő esetén 85%-ának,
+
+f) harmincöt évet elérő vagy azt meghaladó szolgálati viszonyban töltött idő esetén 90%-ának
 
 a részére megállapított baleseti ellátás, rehabilitációs ellátás és rokkantsági ellátás együttes összegével csökkentett összege.
 

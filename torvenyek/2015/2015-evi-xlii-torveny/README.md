@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2020-09-01 | 2020. évi LXV. törvény | 2015-42-00-00.27 |
 | 2021-01-01 | 2020. évi XXXI. törvény | 2015-42-00-00.28 |
 | 2021-04-01 | 2020. évi CLXII. törvény | 2015-42-00-00.29 |
+| 2021-05-14 | 2021. évi XXXI. törvény | 2015-42-00-00.30 |
