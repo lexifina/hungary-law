@@ -4,9 +4,9 @@
 
 a) if) és ig) alpontjában megjelölt személy esetén a köztársasági elnök,
 
-b) ie), il), im), it) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
+b) ie), il), im) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
 
-c) ib) és id) alpontjában megjelölt személy esetén a miniszterelnök,
+c) ib) alpontjában megjelölt személy esetén, valamint – a h) pontban megjelölt kör kivételével – a 74. § i) pont id) alpontjában megjelölt személy esetén a miniszterelnök,
 
 d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
 
@@ -15,6 +15,8 @@ e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulaj
 f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 
 g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
+
+h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal vezetője és vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
 
 jogosult.
 

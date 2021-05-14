@@ -29,3 +29,5 @@ b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, h
 (5) Az (2)–(4a) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
 
 (6) A (4) vagy (4a) bekezdésben meghatározott esetben a Nemzeti Biztonsági Felügyelet nem adja ki a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítványt.
+
+(7) A nemzetbiztonsági ellenőrzés alá eső személyt foglalkoztató szerv tájékoztatja a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatot arról, ha az érintett már nem tölt be nemzetbiztonsági ellenőrzés alá eső munkakört, ezért a nemzetbiztonsági ellenőrzés alá eső jogviszonya a továbbiakban nem áll fenn.
