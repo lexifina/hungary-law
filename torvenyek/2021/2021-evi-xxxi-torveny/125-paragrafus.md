@@ -1,9 +1,1 @@
 125. § A 68. § (1), (2) és (4) bekezdése, a 69. § (5) és (6) bekezdése, a 79. §, a 83. §, a 84. § (2)–(4) bekezdése, a 86. § és a 87. § c) és d) pontja az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

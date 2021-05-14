@@ -6,4 +6,4 @@ b) 86. § (6) bekezdés a) pont nyitó szövegrészében az „a nem önhibábó
 
 c) 289/H. § a) pont ab) alpontjában a „hivatásos” szövegrész,
 
-d) 11. melléklete.
+d)
