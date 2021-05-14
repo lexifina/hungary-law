@@ -6,11 +6,11 @@
 
 (3) A 4. § (1) bekezdés d) és e) pontjában valamint az 5. § (3) bekezdés d) pontjában meghatározott vizekben élő halakra, más hasznos víziállatra és növényekre az (1) bekezdésben foglaltakat nem kell alkalmazni.
 
-(3a) Az állam és a helyi önkormányzat közös tulajdonában álló, az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak, egyéb vízi létesítmények és vízi közművek, valamint terek és parkok tulajdonközössége – közös tulajdon megszüntetés jogcímén – megszüntethető. A közös tulajdon megszüntetésére kizárólag az egyik tulajdonostárs tulajdoni hányadának ingyenesen, nyilvántartási értéken a másik tulajdonostárs részére történő átruházásával kerülhet sor, feltéve, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3a) Az állam és a helyi önkormányzat közös tulajdonában álló, az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak, egyéb vízi létesítmények és vízi közművek, valamint terek, parkok és közkertek tulajdonközössége – közös tulajdon megszüntetés jogcímén – megszüntethető. A közös tulajdon megszüntetésére kizárólag az egyik tulajdonostárs tulajdoni hányadának ingyenesen, nyilvántartási értéken a másik tulajdonostárs részére történő átruházásával kerülhet sor, feltéve, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3b) Az állami tulajdonban álló országos közutak és műtárgyai, valamint az állami tulajdonban álló terek és parkok tulajdonjogát az állam a helyi önkormányzat javára ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3b) Az állami tulajdonban álló országos közutak és műtárgyai, valamint az állami tulajdonban álló terek, parkok és közkertek tulajdonjogát az állam a helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3c) A helyi önkormányzati tulajdonban álló helyi közutak és műtárgyai, valamint a helyi önkormányzat tulajdonában álló terek és parkok tulajdonjogát a helyi önkormányzat az állam, illetve más helyi önkormányzat javára ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3c) A helyi önkormányzati tulajdonban álló helyi közutak és műtárgyai, valamint a helyi önkormányzat tulajdonában álló terek, parkok és közkertek tulajdonjogát a helyi önkormányzat az állam, illetve más helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
 (3d) A (3b) és (3c) bekezdés szerint ingyenesen átruházott eszközöket az új tulajdonosnak az átvett könyv szerinti értéken kell nyilvántartásba vennie.
 
