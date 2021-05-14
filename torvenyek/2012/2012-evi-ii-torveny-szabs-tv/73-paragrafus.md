@@ -6,6 +6,18 @@
 
 (1b) A rendőrség ügyvédet rendel ki, ha az eljárás alá vont személynek nincsen meghatalmazott ügyvédje. Az ügyvéd kirendelése ellen nincs helye jogorvoslatnak, de az eljárás alá vont személy – indokoltan, egy alkalommal – más ügyvéd kirendelését kérheti.
 
+(1c) Az őrizetbe vétel feltételeinek fennállása esetén az őrizetet elrendelő szerv
+
+a) az elkövetett cselekmény tárgyi súlyának,
+
+b) az elkövetés körülményeinek,
+
+c) az eljárás alá vont személy személyi körülményeinek, valamint
+
+d) az eljárás alá vont személynek a szabálysértés elkövetésének időpontját megelőző két éven belül történt felelősségre vonására vonatkozó adatainak
+
+mérlegelését követően dönt az eljárás alá vont személy őrizetbe vételéről.
+
 (2) A szabálysértési őrizet a bíróság érdemi végzésének meghozataláig, de – e törvény eltérő rendelkezése hiányában – legfeljebb hetvenkét óráig tart, amelybe a szabálysértési őrizetet megelőző előállítás teljes ideje beleszámít. Az eljárás alá vont személyt nyomban szabadon kell bocsátani, ha a szabálysértési őrizet tartama alatt a bíróság a gyorsított eljárást nem folytatta le vagy nem szabott ki szabálysértési elzárást.
 
 (3) Ha a szabálysértési elzárást kiszabó végzés nem emelkedett jogerőre és alappal feltehető, hogy az eljárás alá vont személy szabadlábon újabb, szabálysértési elzárással is büntethető szabálysértést követne el, a bíróság a szabálysértési őrizet tartamát a másodfokú végzés meghozataláig indokolt határozattal meghosszabbíthatja.

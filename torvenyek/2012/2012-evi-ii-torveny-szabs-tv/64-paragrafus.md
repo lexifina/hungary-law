@@ -4,7 +4,7 @@
 
 (2) A szabálysértési hatóság a szakértői névjegyzékben szereplő igazságügyi szakértőt, illetve szakvélemény adására feljogosított gazdasági társaságot (a továbbiakban: gazdasági társaság), szakértői intézményt vagy külön jogszabályban meghatározott állami szervet, intézményt, szervezetet (a továbbiakban: szervezet), ha ez nem lehetséges, kellő szakértelemmel rendelkező személyt vagy intézményt (a továbbiakban: eseti szakértő) rendel ki szakértőként.
 
-(3) A szabálysértéssel okozott kár értékének megállapításához szakértő hivatalból nem rendelhető ki. Ha a szakértő kirendelését az eljárás alá vont személy vagy a sértett indítványozza és a szakértő várható költségét megelőlegezi, a szakértő kirendelése kötelező.
+(3) A szabálysértéssel okozott kár, illetve vagyoni hátrány értékének megállapításához szakértő hivatalból nem rendelhető ki. Ha a szakértő kirendelését az eljárás alá vont személy vagy a sértett indítványozza és a szakértő várható költségét megelőlegezi, a szakértő kirendelése kötelező.
 
 (4) A szakértő jogosult mindazokat az adatokat megismerni, amelyek a feladatának teljesítéséhez szükségesek. E célból az ügy iratait megtekintheti, az eljárási cselekményeknél jelen lehet, az eljárás alá vont személytől, a sértettől és a tanútól felvilágosítást, a kirendelő hatóságtól további adatokat, iratokat és felvilágosítást kérhet. A szakértő a kirendelő hatóság felhatalmazása alapján a neki át nem adott tárgyat is megtekintheti, megvizsgálhatja, abból mintát vehet.
 

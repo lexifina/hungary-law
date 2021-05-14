@@ -30,7 +30,7 @@ i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelőss�
 
 j) a közvetítő a közvetítői eljárás eredményes lefolytatásáról tájékoztatta a szabálysértési hatóságot vagy a bíróságot.
 
-k) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik és az már nem pótolható, illetve az illetékekről szóló törvényben meghatározott szabálysértési eljárási illeték megfizetésére felhívás ellenére nem került sor,
+k) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik és az már nem pótolható,
 
 l) megállapítható, hogy e törvény rendelkezései szerint a feljelentés elutasításának lett volna helye,
 

@@ -1,3 +1,5 @@
-## 131. Járművezetés az eltiltás hatálya alatt
+## 131. Engedély nélküli vezetés
 
-176. § Az a járművezetéstől eltiltott személy, aki a járművezetéstől eltiltás hatálya alatt annak érvényesülési körébe tartozó járművet vezet, szabálysértést követ el.
+176. § (1) Aki vasúti járművet, légi járművet, gépi meghajtású vízi járművet, úszó munkagépet, illetve a közúti forgalomban gépi meghajtású járművet úgy vezet, hogy annak vezetésére hatósági engedéllyel nem rendelkezik, szabálysértést követ el.
+
+(2) Aki vasúti jármű, légi jármű, gépi meghajtású vízi jármű, úszó munkagép, illetve a közúti forgalomban gépi meghajtású jármű vezetését olyan személy részére átengedi, aki annak vezetésére hatósági engedéllyel nem rendelkezik, szabálysértést követ el.

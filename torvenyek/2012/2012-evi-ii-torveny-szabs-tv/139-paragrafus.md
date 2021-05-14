@@ -21,3 +21,5 @@ a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor
 (4)
 
 (5) Ha az elkövető a felhívásban megjelölt határnapon a szabálysértési elzárás büntetés, valamint a meg nem fizetett pénzbírság, illetve helyszíni bírság, a nem teljesített közérdekű munka helyébe lépő szabálysértési elzárás végrehajtása érdekében a büntetés-végrehajtási intézetben nem jelent meg és az elővezetése sem vezetett eredményre, a szabálysértési hatóság az elkövető kijelölt büntetés-végrehajtási intézetbe történő előállítása céljából körözését rendeli el. A körözést vissza kell vonni, ha elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.
+
+(6) Az (5) bekezdésben meghatározott esetben az ismeretlen helyen tartózkodó elkövető körözése az elővezetésének előzetes elrendelése nélkül elrendelhető.
