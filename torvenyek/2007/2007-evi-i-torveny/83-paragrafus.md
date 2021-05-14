@@ -6,7 +6,7 @@ b) bejelentett lakóhelyének megszűnéséről,
 
 c) adatai nyilvántartásának megszüntetéséről.
 
-(2) Az eljáró idegenrendészeti hatóság tájékoztatja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet
+(2) Az eljáró idegenrendészeti hatóság tájékoztatja a kijelölt kormányhivatalt
 
 a) a tartózkodási jog megszűnéséről és a tartózkodási jog gyakorlásával való felhagyás megállapításáról,
 
