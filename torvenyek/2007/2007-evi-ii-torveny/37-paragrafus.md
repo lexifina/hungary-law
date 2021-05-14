@@ -18,4 +18,8 @@ d) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beut
 
 e) az engedélyezéshez szükséges állampapír lejegyzése a harmadik országbeli állampolgár nemzeti letelepedési engedélye kiadásától számított 45 napon belül nem történt meg, vagy azt az értékesítésre jóváhagyott vállalkozás nem jelzi vissza az idegenrendészeti hatóságnak;
 
-f) a harmadik országbeli állampolgár kéri az engedély visszavonását.
+f) a harmadik országbeli állampolgár kéri az engedély visszavonását;
+
+g) a harmadik országbeli állampolgár veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát.
+
+(3) A letelepedési, nemzeti letelepedési vagy a bevándorlási engedély okmány hosszabbítására, valamint a hatósági bizonyítvány kiadására vonatkozó eljárást az idegenrendészeti hatóság a letelepedési, nemzeti letelepedési vagy a bevándorlási engedély felülvizsgálatára vonatkozó eljárás végleges és végrehajtható lezárásáig felfüggeszti.

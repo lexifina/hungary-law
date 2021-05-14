@@ -2,7 +2,7 @@
 
 (2) A munkáltató vagy a fogadó szervezet a harmadik országbeli állampolgár által bemutatott érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély másolatát a foglalkoztatás időtartama alatt köteles megőrizni.
 
-(3) A munkáltató vagy a fogadó szervezet öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak a harmadik országbeli állampolgár foglalkoztatásának megkezdését.
+(3) A munkáltató vagy a fogadó szervezet a harmadik országbeli állampolgár részére kiállított keresőtevékenység folytatására jogosító tartózkodási engedély átvételét követő öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak a harmadik országbeli állampolgár foglalkoztatásának megkezdését.
 
 (4) A munkáltató vagy a fogadó szervezet öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak, ha a harmadik országbeli állampolgár az engedélyezett munkáját nem kezdi meg, illetve ha a munkavégzés a munkavállalási engedély, vagy az összevont engedély érvényességi idején belül megszűnik.
 
@@ -26,4 +26,4 @@ e) a tényleges munkavégzés vagy vállalaton belül áthelyezés megkezdésén
 
 (9) A fogadó szervezet legkésőbb a munkába állást követő öt napon belül köteles bejelenteni, ha az Európai Unió tagállama által, vállalaton belüli áthelyezés céljából kiállított tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából, kilencven napot meg nem haladó, tervezett időtartamig Magyarországon a fogadó szervezetnél végez munkát. A bejelentésnek tartalmaznia kell a harmadik országbeli állampolgár természetes személyazonosító adatait, a vállalaton belüli áthelyezés tervezett időtartamát és a fogadó szervezet vállalkozáscsoporthoz való tartozását.
 
-(10) A munkáltató elektronikus azonosítását követően a (3), (4) és (9) bekezdés szerinti bejelentését elektronikus úton is megteheti.
+(10) A munkáltató elektronikus azonosítását követően a (3), (4) és (9) bekezdés szerinti bejelentését az idegenrendészeti ügyindítási elektronikus felületen elektronikus úton teljesíti.

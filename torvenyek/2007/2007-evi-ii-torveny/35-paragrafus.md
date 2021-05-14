@@ -32,12 +32,12 @@ b) a másodfokon eljáró hatóság harminc
 
 napon belül bírálja el.
 
-(7) A nemzeti letelepedési engedély kiadása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+(7) A nemzeti letelepedési engedély kiadása vagy visszavonása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
 
 a) az elsőfokú eljárásban harminc,
 
 b) a másodfokú eljárásban húsz
 
-napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az engedély kiadása iránti eljárásban az ügyintézési határidőbe beleszámít.
 
 (8) A Magyarországon működő diplomáciai és a hivatásos konzuli tisztviselő által vezetett konzuli képviseletek, a nemzetközi szervezetek, illetve azok magyarországi kirendeltsége, telephelye, irodája, továbbá a kiváltságokkal és mentességekkel törvény alapján rendelkező szervezetek tagjai és családtagjaik részére kibocsátott tartózkodási engedélyek alapján Magyarországon töltött idő az (1) bekezdés a) pontjában meghatározott időbe nem számít bele.

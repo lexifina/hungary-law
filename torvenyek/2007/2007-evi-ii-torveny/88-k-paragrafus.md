@@ -4,13 +4,23 @@
 
 (3) Az idegenrendészeti hatóság hivatalból indít idegenrendészeti eljárást abban az esetben is, ha
 
-a) erre bíróság kötelezte,
+a)
 
 b) erre felügyeleti szerve utasította,
 
 c) ezt egyébként jogszabály előírja.
 
 (4) Ha az idegenrendészeti hatóság előtt jelen nem lévő ügyféllel szemben kerül sor hivatalból indított idegenrendészeti eljárás megindítására, az idegenrendészeti hatóság az ügyfelet az idegrendészeti hatóság előtt való megjelenésre idézi, melyben megjelöli annak okát. Az idézésre az e törvényben szabályozottak irányadóak.
+
+(4a) A (4) bekezdés szerinti idézés csak akkor mellőzhető, ha
+
+a) az veszélyeztetné az eljárás eredményességét,
+
+b) az eljárás megindítása után a hatóság nyolc napon belül érdemben dönt, vagy az eljárást megszünteti,
+
+c) az eljárás megindítására közrendi, nemzetbiztonsági, közbiztonsági okból kerül sor vagy
+
+d) az ügyfél nem tartózkodik Magyarországon.
 
 (5) Az idegenrendészeti hatóság előtt megjelent ügyfelet az idegenrendészeti hatóság tájékoztatja a vele szemben hivatalból megindult idegenrendészeti eljárás okairól, eljárási jogairól és kötelezettségeiről.
 

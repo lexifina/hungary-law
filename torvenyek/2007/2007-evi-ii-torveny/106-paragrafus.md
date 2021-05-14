@@ -38,6 +38,8 @@ r) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rend�
 
 s) a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat
 
+u) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikkéből következően, az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott célok érdekében az Európai Határ- és Partvédelmi Ügynökség és állománya, valamint az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikke alapján felállított állomány tagja
+
 részére továbbíthat adatot.
 
 (1a) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzéséhez továbbíthat adatot.

@@ -70,7 +70,7 @@ d) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. 
 
 e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet;
 
-f) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 48. cikkének (107. §);
+f) az Európai Határ- és Parti Őrségről, valamint az 1052/2013/EU és az (EU) 2016/1624 rendelet hatályon kívül helyezéséről szóló, 2019. november 13-i (EU) 2019/1896 európai parlamenti és tanácsi rendelet;
 
 g) a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i, 343/2003/EK tanácsi rendelet,
 

@@ -1,6 +1,6 @@
 ## A bíróság által elrendelt kiutasítás végrehajtása
 
-49. § (1) A bíróság által elrendelt kiutasítást az idegenrendészeti hatóság végzéssel hajtja végre, amellyel szemben – a végzés közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál – végrehajtási kifogás terjeszthető elő.
+49. § (1) A bíróság jogerős ügydöntő határozatával elrendelt kiutasítást a büntetőügyben eljárt elsőfokú bíróság székhelye szerint illetékes regionális igazgatóság végzéssel hajtja végre, amellyel szemben – a végzés közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál – végrehajtási kifogás terjeszthető elő.
 
 (2) A jogerős kiutasítás végrehajtása érdekében a bíróság, illetve a büntetés-végrehajtási intézet haladéktalanul értesíti az idegenrendészeti hatóságot.
 

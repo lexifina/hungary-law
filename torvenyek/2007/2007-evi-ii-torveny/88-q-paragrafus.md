@@ -26,7 +26,17 @@ f) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott
 
 (7) A határozattal szemben benyújtott fellebbezés elbírálási határideje huszonegy nap, a végzéssel szemben benyújtott fellebbezés elbírálási határideje nyolc nap.
 
-(8) Ha az eljáró idegenrendészeti hatóság döntésével szemben fellebbezésnek van helye és a másodfokú döntés meghozatalához nincs elég adat, vagy az első fokú döntés meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, a másodfokú döntést hozó idegenrendészeti hatóság a döntés megsemmisítése mellett az ügyben első fokú döntést hozó idegenrendészeti hatóságot végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
+(8) Ha az eljáró idegenrendészeti hatóság döntésével szemben fellebbezésnek van helye és
+
+a) a másodfokú döntés meghozatalához nincs elég adat,
+
+b) az elsőfokú döntés meghozatalát követően új tény merül fel,
+
+c) egyébként a tényállás további tisztázása szükséges vagy
+
+d) az elsőfokú hatóság döntése jogszabályt sért,
+
+a másodfokú döntést hozó idegenrendészeti hatóság a döntést megsemmisíti és az ügyben elsőfokú döntést hozó idegenrendészeti hatóságot végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
 
 (9) A másodfokon eljáró idegenrendészeti hatóság által hozott elsőfokú végzésekkel szemben nincs helye fellebbezésnek.
 

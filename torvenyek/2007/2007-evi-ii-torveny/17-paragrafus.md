@@ -3,3 +3,5 @@
 a) nemzeti tartózkodási engedély iránti kérelem esetén rendelkezik érvényes nemzeti vízummal, illetve
 
 b) tartózkodási engedély meghosszabbítása iránti kérelem esetén rendelkezik érvényes tartózkodási engedéllyel.
+
+(2) Az (1) bekezdés b) pontjának alkalmazása során a tartózkodási engedély akkor tekinthető érvényesnek, ha a visszavonására irányuló eljárás nincs folyamatban.
