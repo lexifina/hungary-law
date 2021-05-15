@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-11-20-5
 | 2020-10-01 | 2017-11-20-5Z.14 | 9/2020. (IX. 28.) MEKH rendelet |
 | 2021-01-01 | 2017-11-20-5Z.15 | 14/2020. (XII. 14.) MEKH rendelet |
 | 2021-04-01 | 2017-11-20-5Z.16 | 2/2021. (III. 24.) MEKH rendelet |
+| 2021-05-15 | 2017-11-20-5Z.17 | 5/2021. (V. 12.) MEKH rendelet |
