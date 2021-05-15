@@ -2,16 +2,18 @@
 
 a) Bahreini Királyság,
 
-b) Észak-macedón Köztársaság,
+b) Cseh Köztársaság,
 
-c) Horvát Köztársaság,
+c) Észak-macedón Köztársaság,
 
-d) Montenegrói Köztársaság,
+d) Horvát Köztársaság,
 
-e) Szerb Köztársaság,
+e) Montenegrói Köztársaság,
 
-f) Szlovén Köztársaság,
+f) Szerb Köztársaság,
 
-g) Török Köztársaság.
+g) Szlovén Köztársaság,
 
-[^1]: Az 1. § a 13/2021. (V. 13.) KKM rendelet 1. §-ával megállapított szöveg.
+h) Török Köztársaság.
+
+[^1]: Az 1. § a 15/2021. (V. 14.) KKM rendelet 1. §-ával megállapított szöveg.
