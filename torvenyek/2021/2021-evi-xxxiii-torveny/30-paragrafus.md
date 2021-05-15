@@ -1,3 +1,1 @@
-30. § A Postatv. 31. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az egyetemes postai szolgáltató jogosult a levélgyűjtőszekrények, valamint az egyetemes postai szolgáltatás teljesítését lehetővé tevő egyéb eszköz – így különösen postai támpont – közterületen történő díjmentes elhelyezésére, és rendeltetésszerű használatuk céljából azok akadály- és díjmentes, gyors megközelítésére. A közterület tulajdonosa az igénybevételt akkor tagadhatja meg, ha a levélgyűjtőszekrény, valamint az egyetemes postai szolgáltatás teljesítését lehetővé tevő egyéb eszköz – így különösen postai támpont – adott helyen történő elhelyezése jogszabályba ütközik.”
+30. §

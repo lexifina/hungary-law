@@ -1,3 +1,1 @@
-20. § Az Nvtv. 14/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha az állam törvényi felhatalmazás alapján az állami közfeladat ellátását az államháztartás önkormányzati alrendszerébe tartozó, vagy államháztartáson kívüli személy, vagy szervezet részére adja át, és a közfeladat ellátása, illetve a közfeladat ellátásának elősegítése céljából állami vagyon tulajdonjogát – törvény felhatalmazásán alapuló jognyilatkozattal, szerződéssel vagy jogi személy létesítő okiratával (a továbbiakban együtt: alapokirat) – ingyenesen átruházza, akkor az ezt magában foglaló alapokiratot kizárólag az abban erre feljogosított személyek módosíthatják a Ptk. általános szabályai és az alapokiratban foglaltak szerint.”
+20. §

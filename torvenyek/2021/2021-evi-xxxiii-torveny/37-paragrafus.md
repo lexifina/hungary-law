@@ -1,5 +1,3 @@
 ## 11. A megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló egyes állami tulajdonú vagyontárgyak ingyenes önkormányzati tulajdonba adásáról szóló 2015. évi LXXV. törvény módosítása
 
-37. § A megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló egyes állami tulajdonú vagyontárgyak ingyenes önkormányzati tulajdonba adásáról szóló 2015. évi LXXV. törvény 4. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) A kaposvári Rippl-Rónai Megyei Hatókörű Városi Múzeum vagyonkezelésében lévő, Rippl-Rónai József: Nemes Marcell (ltsz: 55.52, o. karton, 63,5×44 cm, J.j.k: Rónai 1912) című portréja az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi XXXIII. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a Szépművészeti Múzeum vagyonkezelésébe kerül a korábbi vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével. A vagyonkezelői jog tekintetében vagyonkezelési szerződés megkötése nem szükséges.”
+37. §
