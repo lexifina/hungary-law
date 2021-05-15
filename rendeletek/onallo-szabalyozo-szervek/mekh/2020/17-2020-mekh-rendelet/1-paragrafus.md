@@ -10,11 +10,11 @@ b) a jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezés
 
 c) üzemanyagfajtánként az NGM rendelet 1. melléklet II. fejezet 3.22.1. alpontja szerinti, magánszemélyek részére értékesített összesített éves mennyiséget (ezer liter, tonna, normál köbméter),
 
-d) üzemanyagfajtánként az NGM rendelet 1. melléklet II. fejezet 3.22.3. alpontja szerinti, jövedéki kiskereskedő részére jövedéki kiskereskedőnként átadott vagy értékesített éves mennyiséget (ezer liter, tonna, normál köbméter), a jövedéki kiskereskedő nevének és adószámának, valamint a bizományi értékesítési célnak a feltüntetésével,
+d)[^1]
 
 e) üzemanyagfajtánként az NGM rendelet 1. melléklet II. fejezet 3.22.12. alpontja szerinti, egyéb személy részére személyenként értékesített éves mennyiséget (ezer liter, tonna, normál köbméter), az átvevő személy nevének és adószámának feltüntetésével,
 
-f) üzemanyagfajtánként a saját végfelhasználási célra történő felhasználás mennyiségét.
+f)[^2] üzemanyag-fajtánként az NGM rendelet 1. melléklet II. fejezet 3.22.12. alpontja szerinti adatszolgáltatásból az egyéb személy részére végzett bértárolásból kiadott éves mennyiséget (ezer liter, tonna, normál köbméter), a bértárolásra átadó személy nevének és adószámának feltüntetésével.
 
 (3) A közlekedési célú üzemanyagot végső felhasználók részére értékesítő jövedéki engedélyes kereskedő éves adatszolgáltatása saját maga és a jogelődjei vonatkozásában elkülönítve tartalmazza üzemanyagfajtánként
 
@@ -22,14 +22,20 @@ a) az értékesítési jogosultságot megalapozó engedélyszámot, valamint az 
 
 b) az NGM rendelet 3. melléklet 5.1. alpontja szerinti, magánszemélyek részére értékesített összesített éves mennyiséget (liter, kilogramm, normál köbméter),
 
-c) az NGM rendelet 3. melléklet 5.1. alpontja szerinti, magánszemélyen kívüli személy részére személyenként átadott vagy értékesített éves mennyiséget (liter, kilogramm, normál köbméter), az átvevő személy nevének és adószámának, valamint a bizományi értékesítési célnak a feltüntetésével,
+c)[^3] az NGM rendelet 3. melléklet 5.1. alpontja szerinti, magánszemélyen kívüli személy részére személyenként értékesített éves mennyiséget (liter, kilogramm, normál köbméter), a vevő nevének és adószámának feltüntetésével.
 
-d) a saját végfelhasználási célra történő felhasználás mennyiségét.
+d)[^4]
 
-(4) A közlekedési célú üzemanyagot végső felhasználók részére értékesítő jövedéki kiskereskedő éves adatszolgáltatása saját maga és a jogelődjei vonatkozásában elkülönítve tartalmazza üzemanyagfajtánként
+(4)[^5] A közlekedési célú üzemanyagot végső felhasználók részére értékesítő jövedéki kiskereskedő éves adatszolgáltatása saját maga és a jogelődjei vonatkozásában elkülönítve tartalmazza:
 
-a) az értékesítési jogosultságot megalapozó nyilvántartásba vételi számot, valamint a nyilvántartásba vételnek az időpontját,
+a) a kereskedelmi hatóság általi nyilvántartásba vételi számot, valamint a nyilvántartásba vételnek az időpontját,
 
-b) az NGM rendelet 4. melléklet 5.1. alpontja szerinti, végfelhasználó részére értékesített összesített éves mennyiséget (liter, kilogramm, normál köbméter) a bizományi és a saját javára történő értékesítés szerinti lebontásban, bizományi értékesítés esetén az értékesítésre megbízást adó törzsszámát,
+b) üzemanyagfajtánként az NGM rendelet 4. melléklet 5.1. alpontja szerinti, végfelhasználó részére értékesített összesített éves mennyiséget (liter, kilogramm, normál köbméter),
 
-c) a saját végfelhasználási célra történő felhasználás mennyiségét.
+c) az NGM rendelet 4. melléklet 5.1. alpontja szerinti, végfelhasználó részére értékesített benzin összesített éves mennyiségéből a repülőgép-üzemanyag mennyiségét (liter, kilogramm, normál köbméter).
+
+[^1]: Az 1. § (2) bekezdés d) pontját az 5/2021. (V. 12.) MEKH rendelet 5. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdés f) pontja az 5/2021. (V. 12.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés c) pontja az 5/2021. (V. 12.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdés d) pontját az 5/2021. (V. 12.) MEKH rendelet 5. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdése az 5/2021. (V. 12.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
