@@ -1,0 +1,1 @@
+## „c) az energiahatékonysági intézkedés végrehajtásának vagy az energiahatékonysági beruházásnak a helyszíne, a beruházó cégneve, adószáma, természetes személy esetén neve, lakóhelye, adóazonosító jele vagy adószáma,”
