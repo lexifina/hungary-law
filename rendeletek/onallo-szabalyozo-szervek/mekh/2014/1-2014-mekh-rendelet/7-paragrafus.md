@@ -6,7 +6,7 @@ b) a mulasztási bírság tekintetében az Itv. 82. §-ában, valamint
 
 c)[^16] a megfizetett díj visszatérítése tekintetében az Itv. 80. § (1) bekezdés f), g) és k) pontjában
 
-foglalt rendelkezéseket is alkalmazni kell, azzal, hogy ahol azok illetéket említenek, azon e rendelet tekintetében díjat kell érteni.
+## foglalt rendelkezéseket is alkalmazni kell, azzal, hogy ahol azok illetéket említenek, azon e rendelet tekintetében díjat kell érteni.
 
 (2) Ha a kérelem az 1. mellékletben megjelölt díjtételek közül többet is érint, akkor valamennyi díjtételt meg kell fizetni. Több díjtétel esetében a fizetendő igazgatási szolgáltatási díjat – azonosítás céljából – egyenként kell megfizetni.
 

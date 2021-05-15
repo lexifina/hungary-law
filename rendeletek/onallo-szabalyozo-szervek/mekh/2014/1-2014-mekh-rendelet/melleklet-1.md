@@ -1,4 +1,4 @@
-1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^26]
+1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^27]
 
 Igazgatási szolgáltatási díjak
 
@@ -188,6 +188,14 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 90. | Rendszeres adatszolgáltatási kötelezettség alóli mentesség iránti kérelem benyújtása | 50 |
 
+| 91. | Adatcsere Szabályzat |  |
+
+| 92. | a) jóváhagyása iránti kérelem elbírálása | 1000 |
+
+| 93. | b) módosítása iránti kérelem elbírálása | 200 |
+
+| 94. | Üzletszabályzat-készítési kötelezettség alól történő mentesítési kérelem elbírálása | 200 |
+
 B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
 |  | A | B |
@@ -307,6 +315,8 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 | 57 | i) egyéb esetben | az adott engedély kiadása díjának 20%-a |
 
 | 57/A. | j) ha a módosítás tárgya kézbesítési megbízott személyében vagy adataiban beállt változás, illetve ebből következő adatváltozás | 10 |
+
+| 57/B. | k) Mérési pont azonosító módosítása | 10 |
 
 | 58 | Engedély visszavonása iránti kérelem elbírálása, kivéve villamosenergia-termelők és villamosenergia-kereskedők esetében | az adott engedély kiadása díjának 50%-a |
 
@@ -556,6 +566,18 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 175 | Átviteli hálózati távvezetéki üzemzavarok rendkívüli eseménynek történő minősítése iránti kérelem elbírálása | 100 |
 
+| 176 | Energiaközösségek nyilvántartásba vétele iránti kérelem elbírálása | 50 |
+
+| 177 | Energiaközösség nyilvántartott adataiban bekövetkezett változás bejelentése vagy nyilvántartásból való törlése | 10 |
+
+| 178 | Aggregátorok nyilvántartásba vétele iránti kérelem elbírálása | 100 |
+
+| 179 | Aggregátor nyilvántartott adataiban bekövetkezett változás bejelentése | 20 |
+
+| 180 | Aggregátor nyilvántartás módosítása névváltozás vagy székhelyváltozás, illetve az ezekből következő cégjegyzékszám- és adószámváltozás esetén | 10 |
+
+| 181 | Aggregátor nyilvántartásból való törlés a tevékenységgel való felhagyás esetén | 50 |
+
 C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
 |  | A | B |
@@ -568,9 +590,9 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 3 | a) 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
 
-| 4 | b) 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
+| 4 | b) 5 MW-ot elérő, de 50 MW-nál kisebb névleges hőteljesítmény esetében | 500 |
 
-| 5 | c) 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 2000 |
+| 5 | c) 50 MW-ot elérő, de 200 MW-nál kisebb névleges hőteljesítmény esetében | 2000 |
 
 | 6 | d) 200 MW-ot elérő névleges hőteljesítmény esetében | 5000 |
 
@@ -578,9 +600,9 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 8 | a) 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
 
-| 9 | b) 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
+| 9 | b) 5 MW-ot elérő, de 50 MW-nál kisebb névleges hőteljesítmény esetében | 500 |
 
-| 10 | c) 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 2000 |
+| 10 | c) 50 MW-ot elérő, de 200 MW-nál kisebb névleges hőteljesítmény esetében | 2000 |
 
 | 11 | d) 200 MW-ot elérő névleges hőteljesítmény esetében | 5000 |
 
@@ -610,9 +632,9 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 23 | aa) 5 MW-nál kisebb névleges hőteljesítmény esetében | 200 |
 
-| 24 | ab) 5 MW-ot elérő, de 50 MW-nál nem nagyobb névleges hőteljesítmény esetében | 500 |
+| 24 | ab) 5 MW-ot elérő, de 50 MW-nál kisebb névleges hőteljesítmény esetében | 500 |
 
-| 25 | ac) 50 MW-ot elérő, de 200 MW-nál nem nagyobb névleges hőteljesítmény esetében | 1000 |
+| 25 | ac) 50 MW-ot elérő, de 200 MW-nál kisebb névleges hőteljesítmény esetében | 1000 |
 
 | 26 | ad) 200 MW-ot elérő névleges hőteljesítmény esetében | 3000 |
 
@@ -726,7 +748,7 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 |  | c) a teljes időtáv vonatkozásában tényleges feladatot nem tartalmazó beruházási tervrész | a b) pont alapján meghatározott díj 50%-a |
 
-| 19 | Víziközműrendszer gördülő fejlesztési tervének módosítása | a 18. pont alapján meghatározott díj 50%-a |
+| 19 | Víziközműrendszer gördülő fejlesztési tervének módosítása | a 18. pont alapján meghatározott díj 50%-a, de legalább 7,5 |
 
 | 20 | Víziközművé minősítés iránti kérelem | 200 |
 
@@ -743,6 +765,12 @@ F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárá
 | 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
 
 | 2 | A Ht. 47/B. §-a szerinti hulladékgazdálkodási közszolgáltatási díj megállapítása | 150 |
+
+| 3 | Megfelelőségi vélemény kiállítására irányuló eljárás | 100 |
+
+| 4 | A Ht. 92/H. § (7) bekezdése szerinti szerződés jóváhagyására irányuló eljárás (szerződésenként) | 15 |
+
+| 5 | A Ht. 92/H. § (7) bekezdése szerinti kötelezettségvállalás jóváhagyására irányuló eljárás (kötelezettségvállalásonként) | 10 |
 
 G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -762,4 +790,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^26]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a szerint módosított szöveg.

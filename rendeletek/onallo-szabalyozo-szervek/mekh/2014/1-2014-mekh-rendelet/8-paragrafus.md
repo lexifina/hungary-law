@@ -1,5 +1,5 @@
-## 7/A. §[^17] A földgáz rendszerhasználati díjak alkalmazásának feltételeiről szóló rendelet szerinti nem téli időszakra vonatkozó kapacitáslekötés igazolása iránti kérelem elbírálása díjmentes.
+## 7/B. §[^18] Az 1. melléklet A) pont 91–93. sora szerinti eljárás során az igazgatási szolgáltatási díjat a 100 000 vagy annál több rácsatlakozott felhasználó ellátását biztosító földgázelosztók közös kérelmük alapján egyenlő arányban fizetik meg.
 
 ## 3. Záró rendelkezések
 
-[^17]: A 7/A. §-t a 3/2016. (VI. 22.) MEKH rendelet 1. § (1) bekezdése iktatta be.
+[^18]: A 7/B. §-t a 4/2021. (IV. 14.) MEKH rendelet 1. §-a iktatta be.
