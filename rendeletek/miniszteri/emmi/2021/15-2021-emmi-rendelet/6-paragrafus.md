@@ -1,1 +1,3 @@
-## „(8) Az utógondozás felülvizsgálata során a családi kapcsolatok tervének megvalósítását, a helyzetértékelést a család- és gyermekjóléti központ a GYVR tervező és értékelő alrendszerében teszi elérhetővé a gyámhivatal számára.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

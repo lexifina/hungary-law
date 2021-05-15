@@ -1,3 +1,3 @@
-## 6. § Az Nmr. a következő 182. §-sal egészül ki:
+## 6. §[^7]
 
-## „182. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendeletnek a Gyermekeink védelmében elnevezésű informatikai rendszer továbbfejlesztésével összefüggő módosításáról szóló 15/2021. (IV. 29.) EMMI rendelettel (a továbbiakban: Módr2.) megállapított 2/A. §, 8. §, 9. §, 17. §, 28. §, 29. §, 32. §, 33. § és 53. § szerinti szabályokat 2021. július 1-jétől kell kötelezően alkalmazni. Eddig az időpontig a Módr2. hatálybalépését megelőző napon hatályos 2/A. §-ban, 8. §-ban, 9. §-ban, 17. §-ban, 28. §-ban, 29. §-ban, 32. §-ban, 33. §-ban és 53. §-ban foglalt rendelkezés szerint is el lehet járni.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
