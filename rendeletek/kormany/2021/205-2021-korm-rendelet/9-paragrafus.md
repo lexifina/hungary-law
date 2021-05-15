@@ -1,1 +1,3 @@
-## „(1a) A gondozási díj fizetésére kötelezett jövedelemnyilatkozatához mellékelni kell az abban feltüntetett jövedelmek igazolására szolgáló iratokat, kivéve a családi pótlék és a gyermekgondozást segítő ellátás igazolását, ha azt nem munkáltatói kifizetőhely folyósítja, valamint a gyermeknevelési támogatás és a fogyatékossági támogatás igazolását.”
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „(6) A települési önkormányzat jegyzője a hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozatát, a határozat véglegessé válását követő öt napon belül tájékoztatásul megküldi annak a bölcsődei ellátást, gyermekek esélynövelő szolgáltatását nyújtó intézménynek, szolgáltatónak, nevelési-oktatási vagy felsőoktatási intézménynek, ahol a gyermek bölcsődei ellátásban, Biztos Kezdet Gyerekház szolgáltatásban részesül, vagy amellyel a gyermek (nagykorúvá vált gyermek) óvodai, tanulói vagy hallgatói jogviszonyban áll, illetve tanoda esetében megállapodással rendelkezik.”
+## 7. §[^8]
 
-8. § (1) A Gyer. 119. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A gondozási díj összegét és a fizetési kötelezettséget a gyámhivatal évente felülvizsgálja. A felülvizsgálathoz a gyámhivatal beszerzi a gondozási díj fizetésére kötelezettnek a jövedelemnyilatkozatát és a környezettanulmányt. A jövedelemnyilatkozatot a miniszter által e célra rendszeresített formanyomtatványon kell benyújtani. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni. A formanyomtatvány tartalmazza a gondozási díj fizetésére kötelezett és a vele a nyilatkozat benyújtásának időpontjában közös háztartásban élő, az egy főre jutó jövedelem számítása szempontjából figyelembe vehető közeli hozzátartozók Gyvt. 138. § (1) bekezdés a), b) és e) pontja szerinti adatait.”
-
-(2) A Gyer. 119. §-a a következő (1a) bekezdéssel egészül ki:
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

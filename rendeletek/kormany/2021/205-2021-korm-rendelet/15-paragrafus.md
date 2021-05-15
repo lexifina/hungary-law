@@ -1,1 +1,3 @@
-## „(6a) Több család- és gyermekjóléti központot működtető fenntartó esetében a (6) bekezdés szerinti szervezeti egység a fenntartó szolgáltatói nyilvántartásba székhelyként bejegyzett engedélyese, ennek hiányában a fenntartó által kijelölt, a fenntartó szolgáltatói nyilvántartásba telephelyként bejegyezett család- és gyermekjóléti központ engedélyese.”
+## 14. §[^15]
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
