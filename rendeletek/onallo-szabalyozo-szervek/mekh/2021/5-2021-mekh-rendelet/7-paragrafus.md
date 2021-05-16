@@ -1,4 +1,4 @@
-## 6. §[^1]
+## 6. §[^6]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 6. § az e rendelet kihirdetését követő 16. napon lép hatályba.
 
-[^1]: A 6. § a 7. § (2) bekezdése alapján 2021. május 28-án lép hatályba.
+[^6]: A 6. § a 7. § (2) bekezdése alapján 2021. május 28-án lép hatályba.

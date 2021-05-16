@@ -1,13 +1,3 @@
-## „11. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez
+2. melléklet az 5/2021. (V. 12.) MEKH rendelethez[^8]
 
-## 20215Z20000005_1
-
-## ”
-
-2. melléklet az 5/2021. (V. 12.) MEKH rendelethez
-
-„23. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez
-
-20215Z20000005_2
-
-”
+[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „c) az energiahatékonysági intézkedés végrehajtásának vagy az energiahatékonysági beruházásnak a helyszíne, a beruházó cégneve, adószáma, természetes személy esetén neve, lakóhelye, adóazonosító jele vagy adószáma,”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
