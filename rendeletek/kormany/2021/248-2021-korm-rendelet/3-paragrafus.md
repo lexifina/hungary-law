@@ -1,3 +1,3 @@
-## 2. § Az R. a következő 38. §-sal egészül ki:
+## 2. §[^3]
 
-## „38. § Ha a veszélyhelyzet során a személy- és vagyonegyesítő szervezetek működésére vonatkozó eltérő rendelkezések újbóli bevezetéséről szóló 502/2020. (XI. 16.) Korm. rendelet módosításáról szóló 248/2021. (V. 14.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 9/C. § (1) bekezdésének megfelelő alapítvány a Módr2. hatálybalépése napján már a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásába bejegyzésre került, az alapítvány közhasznú minőségét a nyilvántartó bíróság a Módr2. hatálybalépését követő 60 napon belül benyújtott kérelemre jegyzi be a nyilvántartásba.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
