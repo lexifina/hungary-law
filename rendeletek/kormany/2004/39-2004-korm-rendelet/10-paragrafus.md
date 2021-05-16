@@ -12,11 +12,11 @@ c) az indokolásban az eljárás alapjául szolgáló kötelességszegés leír�
 
 d) a határozat meghozatalának helyét és időpontját, valamint a határozat kiadmányozójának nevét.
 
-(3)[^16] A sportszövetség sportfegyelmi bizottsága a sportszövetség fegyelmi szabályzatában foglalt rendelkezések szerint tárgyalás tartásának mellőzésével is hozhat sportfegyelmi büntetést tartalmazó határozatot, ha a sportszövetség fegyelmi szabályzata az érintett felek részére lehetővé teszi, hogy térítésmentesen, írásbeli indokolással kérhessék tárgyalás tartását, ha a tárgyalás tartásának mellőzésével hozott határozatban foglaltakkal nem értenek egyet.
+(3)[^23]
 
-(3a)[^17] Labdarúgás sportágban működő országos sportági szakszövetség – a sportág nemzetközi sportszövetségének szabályzatára figyelemmel – sportfegyelmi szabályzatában rendelkezhet úgy, hogy a versenyző vagy a sportszakember által a sportrendezvény ideje alatt, a versenyszabályzat megszegésével elkövetett sportfegyelmi vétség esetén a 4. § (2)–(13) bekezdése alkalmazásának és tárgyalás tartásának mellőzésével hozható határozat.
+(3a)[^24] Labdarúgás sportágban működő országos sportági szakszövetség – a sportág nemzetközi sportszövetségének szabályzatára figyelemmel – sportfegyelmi szabályzatában rendelkezhet úgy, hogy a versenyző vagy a sportszakember által a sportrendezvény ideje alatt, a versenyszabályzat megszegésével elkövetett sportfegyelmi vétség esetén a 4. § (2)–(13) bekezdése alkalmazásának és tárgyalás tartásának mellőzésével hozható határozat.
 
 (4) Ha az eljárás alá vont a sportfegyelmi büntetés hatálya alatt újabb sportfegyelmi eljárás megindítására alapul szolgáló kötelezettségszegést követ el, ugyanaz a sportfegyelmi büntetés ismételten kiszabható.
 
-[^16]: A 10. § (3) bekezdése a 33/2016. (II. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^17]: A 10. § (3a) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 10. § (3) bekezdését a 245/2021. (V. 13.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^24]: A 10. § (3a) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be.

@@ -6,9 +6,9 @@
 
 (4) Az eljárás alá vont az eljárás során meghatalmazás alapján jogi képviselőt vehet igénybe. A meghatalmazást írásba kell foglalni vagy jegyzőkönyvbe kell mondani. A jogi képviselő köteles írásbeli meghatalmazásának eredeti példányát vagy annak hitelesített másolatát a sportfegyelmi bizottságnak legkésőbb a tárgyalás megkezdésekor bemutatni. A meghatalmazás visszavonására, felmondására és ezek bejelentésére a meghatalmazásra vonatkozó rendelkezéseket megfelelően alkalmazni kell. Az eljárás alá vont kérelmére az eljárás során az ágazatban működő munkavállalói, illetve szakmai érdekképviseleti szerv részvételét, illetve képviseleti jogának gyakorlását lehetővé kell tenni.
 
-(5) Ha az eljárás alá vont meghallgatására tartós akadályoztatása miatt az eljárás időtartama alatt nem kerülhet sor, az eljárás megindításához vezető tényállást, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait vele írásban kell közölni, és fel kell szólítani, hogy védekezését a kézhezvételtől számított nyolcnapos határidőn belül terjessze elő.
+(5)[^20] Ha a sportfegyelmi eljárás során tárgyalás tartására nem kerül sor, vagy az eljárás alá vont meghallgatására tartós akadályoztatása miatt az eljárás időtartama alatt nem kerülhet sor, az eljárás megindításához vezető tényállást, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait vele írásban kell közölni, és fel kell szólítani, hogy védekezését a kézhezvételtől számított nyolcnapos határidőn belül terjessze elő.
 
-(6) Az első fokú eljárást a megindításától számított legfeljebb harminc napon belül határozathozatallal be kell fejezni. Az ügy bonyolultsága esetén a sportfegyelmi bizottság elnöke az eljárást egy alkalommal tizenöt nappal meghosszabbíthatja. Ha az ügy a tárgyaláson nem volt tisztázható, a tárgyalást követő nyolc napon belül újabb tárgyalást kell tartani.
+(6)[^21] Az első fokú eljárást a megindításától számított legfeljebb harminc napon belül határozathozatallal be kell fejezni. Az ügy bonyolultsága esetén a sportfegyelmi bizottság elnöke az eljárást egy alkalommal tizenöt nappal meghosszabbíthatja. Ha tárgyalás tartása esetén az ügy a tárgyaláson nem volt tisztázható, a tárgyalást követő nyolc napon belül újabb tárgyalást kell tartani.
 
 (7) A sportfegyelmi bizottság határozatában
 
@@ -17,3 +17,6 @@ a) a kötelezettségszegést megállapítja és büntetést szab ki, vagy
 b) megállapítja, hogy az eljárás alá vont a kötelezettségszegést nem követte el, vagy
 
 c) az eljárást megszünteti.
+
+[^20]: A 6. § (5) bekezdése a 245/2021. (V. 13.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^21]: A 6. § (6) bekezdése a 245/2021. (V. 13.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
