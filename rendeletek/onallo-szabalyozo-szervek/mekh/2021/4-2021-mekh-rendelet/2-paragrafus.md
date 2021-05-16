@@ -1,3 +1,3 @@
-## 1. § A Magyar Energetikai és Közmű-szabályozási Hivatal igazgatási szolgáltatási díjainak mértékéről, valamint az igazgatási szolgáltatási, a felügyeleti díjak és egyéb bevételek beszedésére, kezelésére, nyilvántartására és visszatérítésére vonatkozó szabályokról szóló 1/2014. (III. 4.) MEKH rendelet (a továbbiakban: R.) a következő 7/B. §-sal egészül ki:
+## 1. §[^2]
 
-## „7/B. § Az 1. melléklet A) pont 91–93. sora szerinti eljárás során az igazgatási szolgáltatási díjat a 100 000 vagy annál több rácsatlakozott felhasználó ellátását biztosító földgázelosztók közös kérelmük alapján egyenlő arányban fizetik meg.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
