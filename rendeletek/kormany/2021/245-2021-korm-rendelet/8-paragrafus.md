@@ -1,3 +1,5 @@
-## 7. § Hatályát veszti a sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet 3/B. alcíme.
+## 7. §[^8]
 
 8. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
