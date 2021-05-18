@@ -1,0 +1,7 @@
+1. § (1) A veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 484/2020. (XI. 10.) Korm. rendelet] 5. § (1) bekezdésétől eltérően a ballagási rendezvény a köznevelési intézmény, illetve a szakképző intézmény (a továbbiakban együtt: nevelési, oktatási intézmény) nyitott, épületen kívüli területein – 2021. május 25. napját követően – megszervezhető, illetve megtartható.
+
+(2) A 484/2020. (XI. 10.) Korm. rendelet 5. § (2) bekezdésétől eltérően a ballagási rendezvény helyszínén megengedett a tartózkodás.
+
+(3) Ballagási rendezvény esetén a 484/2020. (XI. 10.) Korm. rendelet 18. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a ballagási rendezvényen a ballagó gyermek, illetve tanuló (a továbbiakban: ballagó) által meghívott személyek (a továbbiakban: meghívott) életkortól, illetve koronavírus elleni védettségtől függetlenül részt vehetnek, azzal, hogy a nevelési, oktatási intézmény zárt részeiben nem tartózkodhatnak. A ballagási rendezvény helyszínére történő belépés rendjét, a nevelési, oktatási intézmény zárt részein történő áthaladás rendjét, valamint az egy ballagó által meghívható, a nevelési, oktatási intézmény területén lévő szabadtéren zajló eseményeire beléptethető meghívottak számát a nevelési, oktatási intézet vezetője állapítja meg.
+
+(4) A nevelési, oktatási intézmény vezetője – a 2. §-ra figyelemmel – a koronavírus-járvány terjedésének megakadályozása céljából a ballagási rendezvényen betartandó magatartási szabályokat állapíthat meg.
