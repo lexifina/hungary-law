@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-2W
 | 2020-09-23 | 2013-7-20-2W.30 | 37/2020. (IX. 22.) BM rendelet |
 | 2020-12-22 | 2013-7-20-2W.31 | 46/2020. (XII. 21.) BM rendelet |
 | 2021-04-01 | 2013-7-20-2W.32 | 16/2017. (VI. 27.) BM rendelet |
+| 2021-05-18 | 2013-7-20-2W.33 | 12/2021. (V. 10.) BM rendelet |
