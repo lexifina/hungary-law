@@ -1,0 +1,21 @@
+# A köztársasági elnök 254/2021. (V. 18.) KE határozata
+
+Magyar Közlöny 2021. évi 91. szám, 2021. május 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/fmka8x2xjyn0yDY400xY609c36067d32d/dokumentumok/c825d35891ac744db148a50400282e6714fe9419/letoltes)
+
+---
+
+A köztársasági elnök 254/2021. (V. 18.) KE határozata
+bírói kinevezésről
+Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállásáról és javadalmazásáról szóló 2011. évi
+CLXII. törvény 3. § (2) bekezdése alapján – az Országos Bírósági Hivatal elnökének javaslatára –
+Reidlné dr. Kusztos Mónikát 2021. május 15. napjától határozatlan időtartamra bíróvá kinevezem.
+Budapest, 2021. május 5.
+ Áder János s. k.,
+ köztársasági elnök
+KEH ügyszám: KEH/01743-11/2021.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
