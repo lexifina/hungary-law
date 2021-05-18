@@ -12,25 +12,31 @@ Határidő: 2019. november 30.
 
 2. A Kormány egyetért azzal, hogy – a Nemzetközi Atlétikai Szövetséggel (a továbbiakban: IAAF), a DENTSU Inc.-vel és a Szövetséggel 2019. január 21. napján aláírt Rendezvény Szervezési Szerződéssel (a továbbiakban: Szerződés) összhangban a Világbajnokság előkészítéséhez és megrendezéséhez szükséges feladatok ellátása érdekében, a közvetlen állami tulajdonban álló KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.) és a Szövetség tulajdonában álló nonprofit gazdasági társaság (a továbbiakban: Nonprofit gazdasági társaság) jöjjön létre úgy, hogy a KKBK Nonprofit Zrt. tulajdoni hányadának mértéke haladja meg a kilenc tizedet.
 
-3. A Kormány felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztost (a továbbiakban: Kormánybiztos), hogy folytassa le az IAAF-fel és a Szövetséggel a Nonprofit gazdasági társaság megalapításához szükséges egyeztetéseket.
+2a.[^1] A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy tegye meg a szükséges intézkedéseket, hogy a 2. pont szerint létrejött Nonprofit gazdasági társaságban a KKBK Nonprofit Zrt. – jelenlegi elnevezéssel: BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság – 2. pont szerinti tulajdoni hányada a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaságra névértéken kerüljön átruházásra.
 
-Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: 2021. június 30.
+
+3.[^2] A Kormány felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost (a továbbiakban: Kormánybiztos), hogy folytassa le az IAAF-fel és a Szövetséggel a Nonprofit gazdasági társaság megalapításához szükséges egyeztetéseket.
+
+Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
 
 Határidő: azonnal
 
-4. A Kormány felhívja a Kormánybiztost, hogy a Miniszterelnökséget vezető miniszterrel együttműködve gondoskodjon a Nonprofit gazdasági társaság Szerződés alapján történő megalapításáról.
+4.[^3] A Kormány felhívja a Kormánybiztost, hogy a Miniszterelnökséget vezető miniszterrel együttműködve gondoskodjon a Nonprofit gazdasági társaság Szerződés alapján történő megalapításáról.
 
-Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
+Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
 
 Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-5. A Kormány felhívja a Miniszterelnökséget vezető minisztert és a Kormánybiztost, hogy a 3. pont szerinti egyeztetések eredményeként, az emberi erőforrások miniszterével együttműködve készítsenek előterjesztést a Kormány számára a Nonprofit gazdasági társaság megalapításához, működéséhez, valamint a Világbajnokság előkészítéséhez és megrendezéséhez szükséges forrás biztosításáról a 2019–2023. évekre.
+5.[^4] A Kormány felhívja a Miniszterelnökséget vezető minisztert és a Kormánybiztost, hogy a 3. pont szerinti egyeztetések eredményeként, az emberi erőforrások miniszterével együttműködve készítsenek előterjesztést a Kormány számára a Nonprofit gazdasági társaság megalapításához, működéséhez, valamint a Világbajnokság előkészítéséhez és megrendezéséhez szükséges forrás biztosításáról a 2019–2023. évekre.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
+kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
 
 emberi erőforrások minisztere
 
@@ -38,27 +44,27 @@ Határidő: a 3. pont szerinti egyeztetések lezárását követően
 
 6. A Kormány egyetért azzal, hogy a Nonprofit gazdasági társaság megalapításakor és működése során biztosítani kell, hogy a Kormánybiztost a Nonprofit gazdasági társaság rendelkezésére bocsátandó központi költségvetési forrásoknak a Világbajnokság lebonyolításának költségvetésében képviselt hányadával és a központi költségvetési források felhasználásáért viselt felelősséggel arányos felügyeleti és irányítási jogok illessék meg.
 
-7. A Kormány felhívja a Kormánybiztost, hogy – a KKBK Nonprofit Zrt., a Szövetség és a miniszterelnök kabinetfőnöke bevonásával – a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársasággal (a továbbiakban: MTÜ Zrt.) együttműködve a Nonprofit gazdasági társaság megalapításáig gondoskodjon a Világbajnokság előkészületeinek és lebonyolításának stratégiai terve elkészítéséről, különös tekintettel a közösségi részvétel, valamint a nemzetközi kommunikáció tervezésére, továbbá gondoskodjon az időarányosan szükséges közbeszerzési eljárások lefolytatásáról.
+7.[^5]
 
-Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
-
-a miniszterelnök kabinetfőnöke
-
-Határidő: folyamatos
-
-8. A Kormány felhívja a miniszterelnök kabinetfőnökét, hogy – az MTÜ Zrt. útján – a Kormánybiztossal együttműködve dolgozzon ki intézkedési tervet annak érdekében, hogy a Világbajnokság megszervezése és lebonyolítása hozzájáruljon Budapest nemzetközi ismertségének és népszerűségének növeléséhez.
+8.[^6] A Kormány felhívja a miniszterelnök kabinetfőnökét, hogy – a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság útján – a Kormánybiztossal együttműködve dolgozzon ki intézkedési tervet annak érdekében, hogy a Világbajnokság megszervezése és lebonyolítása hozzájáruljon Budapest nemzetközi ismertségének és népszerűségének növeléséhez.
 
 Felelős: a miniszterelnök kabinetfőnöke
 
-kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
+kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
 
 Határidő: 2019. november 30.
 
-9.[^1]
+9.[^7]
 
-10.[^2]
+10.[^8]
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2a. pontot az 1279/2021. (V. 17.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 3. pont az 1279/2021. (V. 17.) Korm. határozat 2. pont a)–b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1279/2021. (V. 17.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1279/2021. (V. 17.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^5]: A 7. pontot az 1279/2021. (V. 17.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^6]: A 8. pont az 1279/2021. (V. 17.) Korm. határozat 2. pont b)–c) alpontja szerint módosított szöveg.
+[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
