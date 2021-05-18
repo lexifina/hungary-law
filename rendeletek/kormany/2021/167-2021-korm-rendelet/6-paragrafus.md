@@ -9,3 +9,7 @@
 (5) Az e rendelet szerint megszervezett közép- és emelt szintű érettségi vizsgák időpontjairól, valamint a vizsgák helyszínéről – a kétszintű érettségi vizsga adminisztrációs rendszerében megjelenített adatok alapján – a vizsgajelentkezést fogadó intézmény értesíti a vizsgázót.
 
 (6) A Vizsgaszabályzat 50. § (7) bekezdése szerinti jelentés központi nyilvántartásba történő elküldésének határideje 2021. június 28. napja.
+
+(7)[^9] A Vizsgaszabályzat 37. § (3) bekezdése szerinti, az érettségi bizonyítvány záradékkal való ellátására vonatkozó rendelkezést nem kell alkalmazni.
+
+[^9]: A 6. § (7) bekezdését a 251/2021. (V. 17.) Korm. rendelet 4. §-a iktatta be.
