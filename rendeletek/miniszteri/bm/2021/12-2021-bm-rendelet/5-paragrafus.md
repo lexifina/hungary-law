@@ -1,0 +1,3 @@
+## 4. § Hatályát veszti az R1. 2. §-ának az egyes szervezetek működéséhez szükséges informatikai támogatás, valamint egyéb szakrendszerek tekintetében üzemeltetési és fejlesztési szolgáltatások központi szolgáltató általi nyújtása érdekében a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló 7/2013. (II. 26.) NFM rendelet módosításáról szóló 4/2020. (III. 3.) BM rendelet 1. § (2) bekezdésével megállapított r) pontja.
+
+## 2. A bizalmi szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményekről szóló 24/2016. (VI. 30.) BM rendelet módosítása
