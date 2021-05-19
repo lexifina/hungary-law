@@ -1,1 +1,0 @@
-## 3. § Az R1. 1. melléklet 1. pont 1.44. alpontjában az „adatbázis informatikai rendszer üzemeltetése az 5. § (1a) bekezdésben meghatározott körben” szövegrész helyébe a „Klímagáz adatbázis és annak jogszabályban meghatározott önálló részét képező informatikai rendszerek üzemeltetése” szöveg lép.
