@@ -1,56 +1,55 @@
 ## 6. A finanszírozási szerződés megkötése
 
-16. § (1) A módszertani központ a nyertes pályázóval finanszírozási szerződést köt, amelyben
+16. § (1)[^36] A módszertani központ a nyertes pályázatot benyújtó fenntartóval – a nyertes pályázatok számától függetlenül – egy finanszírozási szerződést köt, amelyben
 
 a) a módszertani központ kötelezettséget vállal arra, hogy a fenntartónak a jelnyelvi tolmácsszolgáltatás biztosításához és a tolmácsszolgálat működtetéséhez alaptámogatást biztosít,
 
 b) a fenntartó kötelezettséget vállal arra, hogy a jogszabályokban és a finanszírozási szerződésben meghatározottaknak megfelelően biztosítja a jelnyelvi tolmácsszolgáltatást és működteti a tolmácsszolgálatot.
 
-(2) A finanszírozási szerződés megkötésének feltétele a 4. melléklet szerinti, továbbá a jogszabályban meghatározott egyéb dokumentumok benyújtása. A dokumentumokat a nyertes pályázónak a pályázati döntésről szóló értesítés kézhezvételétől számított 20 napon belül kell megküldenie a módszertani központ részére.
+(2)[^37] A finanszírozási szerződés megkötésének feltétele a jogszabályban és a pályázati kiírásban meghatározott dokumentumok benyújtása. A dokumentumokat a nyertes pályázónak a pályázati döntésről szóló értesítés kézhezvételétől számított 10 napon belül kell megküldenie a módszertani központ részére.
 
 (3) A finanszírozási szerződést általános pályázat esetén a teljes finanszírozási időszakra, időközi pályázat esetén a pályázati kiírásban meghatározott időponttól a finanszírozási időszak végéig terjedő időszakra kell megkötni.
 
-(4) Ellátási területenként külön finanszírozási szerződést kell kötni.
+(4)[^38]
 
-(5) Egy tolmácsszolgálat létrehozására, működtetésére tekintettel csak egy ellátási terület ellátására köthető finanszírozási szerződés.
+(5)[^39]
 
-(6) A finanszírozási szerződés tartalmazza különösen:
+(6)[^40] A finanszírozási szerződés tartalmazza különösen:
 
-a) a fenntartó nevét, székhelyét, adószámát és azon számlaszámát, amelyre a támogatás folyósítását kéri,
+1. a fenntartó nevét, székhelyét, adószámát és azon számlaszámát, amelyre a támogatás folyósítását kéri,
 
-b) a fenntartó képviseletére jogosult személy nevét,
+2. a fenntartó képviseletére jogosult személy nevét,
 
-c) a tolmácsszolgálat nevét és címét,
+3. a finanszírozási szerződés módosításának és felmondásának eseteit és módját,
 
-d) a tolmácsszolgálatnál munkaviszony keretében kötelezően alkalmazottak a fenntartó által vállalt minimális munkaidejét,
+4. a fenntartó bejelentési kötelezettségét,
 
-e) a tolmácsszolgálat által teljesítendő általános működési, személyi és tárgyi feltételek meghatározását,
+5. a kötelezően vezetendő dokumentumok körét és a dokumentálás módját,
 
-f) az ellátási területet,
+6. az elszámolás és az ellenőrzés rendjét,
 
-g)[^27]
+7. a fenntartó és a tolmácsszolgálat 35. § szerinti nyilvántartási, valamint ellenőrzéssel kapcsolatos kötelezettségeit,
 
-h)[^28]
+8. a szerződésszegés következményeit,
 
-i) a tárgyév április 1-jétől a következő év március 31-éig meghatározott alaptámogatás összegét, annak általános forgalmi adó tartalmát,
+9. tolmácsszolgálatonként a tolmácsszolgálat nevét és címét,
 
-j) az alaptámogatás folyósításának határidejét és módját,
+10. a tolmácsszolgálatnál munkaviszony keretében kötelezően alkalmazottaknak a fenntartó által vállalt minimális munkaidejét,
 
-k) a kiegészítő támogatás igénybevételének feltételeit, annak általános forgalmi adó tartalmát,
+11. a tolmácsszolgálat által teljesítendő általános működési, személyi és tárgyi feltételek meghatározását,
 
-l) a finanszírozási szerződés kezdetének és megszűnésének időpontját,
+12. az ellátási területet,
 
-m) a finanszírozási szerződés módosításának és felmondásának eseteit és módját,
+13. a tárgyév július 1-jétől a következő év június 30-áig meghatározott alaptámogatás összegét, annak általános forgalmi adó tartalmát,
 
-n) a fenntartó bejelentési kötelezettségét,
+14. az alaptámogatás folyósításának határidejét és módját,
 
-o) a kötelezően vezetendő dokumentumok körét és a dokumentálás módját,
+15. a kiegészítő támogatás igénybevételének feltételeit, annak általános forgalmi adó tartalmát és
 
-p) az elszámolás és az ellenőrzés rendjét,
+16. a finanszírozási szerződés kezdetének és megszűnésének időpontját.
 
-q) a fenntartó és a tolmácsszolgálat 35. § szerinti nyilvántartási, valamint ellenőrzéssel kapcsolatos kötelezettségeit,
-
-r) a szerződésszegés következményeit.
-
-[^27]: A 16. § (6) bekezdés g) pontját a 48. § (2) bekezdés f) pontja hatályon kívül helyezte.
-[^28]: A 16. § (6) bekezdés h) pontját a 48. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^36]: A 16. § (1) bekezdés nyitó szövegrésze a 17/2021. (V. 18.) EMMI rendelet 25. § 4. pontja szerint módosított szöveg.
+[^37]: A 16. § (2) bekezdése a 17/2021. (V. 18.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^38]: A 16. § (4) bekezdését a 17/2021. (V. 18.) EMMI rendelet 26. § a) pontja hatályon kívül helyezte.
+[^39]: A 16. § (5) bekezdését a 17/2021. (V. 18.) EMMI rendelet 26. § a) pontja hatályon kívül helyezte.
+[^40]: A 16. § (6) bekezdése a 17/2021. (V. 18.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.

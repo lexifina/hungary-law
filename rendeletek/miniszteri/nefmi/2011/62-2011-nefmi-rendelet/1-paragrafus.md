@@ -22,7 +22,7 @@ d)[^3] önkormányzati társulás,
 
 e) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe;
 
-5. finanszírozási időszak: az általános pályázat kiírása évének április 1-jétől az azt követő harmadik év március 31-éig terjedő időszak;
+5.[^4] finanszírozási időszak: az általános pályázat kiírása évének július 1-jétől az azt követő harmadik év június 30-áig terjedő időszak;
 
 6. igénybe vevő: a magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény (a továbbiakban: Jtv.) 4. §-a szerinti hallássérült, vagy siketvak személy;
 
@@ -32,7 +32,7 @@ e) az Európai Gazdasági Térségről szóló megállapodásban részes valamel
 
 9. megrendelő: jelnyelvi tolmácsszolgáltatás biztosítását kérő szervezet vagy személy, függetlenül attól, hogy e rendelet szerint igénybe vevőnek minősül-e;
 
-9a.[^4] megvalósítási szakasz: a finanszírozási időszakon belül tárgyév április 1-jétől az azt követő év március 31-éig terjedő időszak;
+9a.[^5] megvalósítási szakasz: a finanszírozási időszakon belül a tárgyév július 1-jétől az azt követő év június 30-áig terjedő időszak;
 
 10. módszertani központ: a Jtv. 6. § (1) bekezdése szerinti szervezet;
 
@@ -56,7 +56,7 @@ a) magyar jelnyelv,
 
 b) a Jtv. mellékletében foglalt valamely speciális kommunikációs rendszer;
 
-14.[^5] tolmácsszolgálat: a Magyarország területén támogatással működő jelnyelvi tolmácsszolgálat;
+14.[^6] tolmácsszolgálat: a Magyarország területén támogatással működő jelnyelvi tolmácsszolgálat;
 
 15. tolmácsszolgáltatási fajta: az alábbi tolmácsszolgáltatások valamelyike:
 
@@ -70,11 +70,12 @@ d) a Jtv. 10. § (4) bekezdése szerinti, oktatás, képzés kapcsán szervezett
 
 e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgáltatás.
 
-(2)[^6] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
+(2)[^7] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 4. pont b) alpontját a 19/2014. (III. 13.) EMMI rendelet 54. §-a hatályon kívül helyezte.
 [^3]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be.
-[^5]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja, a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^6]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 5. pontja a 17/2021. (V. 18.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be, szövege a 17/2021. (V. 18.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja, a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.

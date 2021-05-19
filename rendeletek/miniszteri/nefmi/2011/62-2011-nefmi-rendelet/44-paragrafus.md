@@ -1,5 +1,3 @@
-## 43. § A térítésmentes jelnyelvi tolmácsolási esetről a módszertani központ által rendszeresített munkalapot kell kiállítani, amelyen a tolmácsolás megtörténtét, a tolmácsolás időtartamát az igénybe vevő, a tolmácsolást végző jelnyelvi tolmács, és – 60 percet meghaladó tolmácsolási időtartam esetén – a tolmácsolási helyzetben részt vevő, jelenlévő harmadik fél képviselője is aláírásával igazolja. A munkalapon fel kell tüntetni továbbá, hogy a tolmácsolás az igénybe vevő mely órakeretének terhére történt.
-
 ## V. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

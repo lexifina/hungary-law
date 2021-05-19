@@ -12,15 +12,15 @@
 
 ## 1. telepített induktív hurkos rendszer vagy FM rendszer alkalmazása az irodahelyiségben,
 
-## 2. legalább egy vonalas telefonkészülék előfizetett telefonvonallal,[^60]
+## 2. legalább egy vonalas telefonkészülék előfizetett telefonvonallal,[^106]
 
 ## 3. legalább egy előfizetéses mobiltelefon a tolmácsszolgálat számára, mint készenléti telefonkészülék, továbbá a szakmai vezető jelnyelvi tolmács és minden további munkaviszony keretében alkalmazott jelnyelvi tolmács számára egy-egy előfizetéses mobiltelefon,
 
-## 4. a 3. pont szerinti mobiltelefonok közül legalább egynek video-telefonálásra alkalmasnak (3G) kell lennie,
+## 4.[^107] a 3. pont szerinti mobiltelefonok közül mindegyiknek videótelefonálásra alkalmasnak (3G) kell lennie,
 
 ## 5. szélessávú vagy bérelt vonalas internet-csatlakozás,
 
-## 6. munkaviszony keretében alkalmazott személyenként egy-egy személyi számítógép-konfiguráció (asztali számítógép monitorral, billentyűzettel és egérrel, vagy laptop, továbbá nyomtató, web-camera), amely alkalmas az adatnyilvántartó szoftver futtatására és a számítógép vírusvédelmére,[^61]
+## 6.[^108] munkaviszony keretében alkalmazott személyenként egy-egy személyi számítógép-konfiguráció (asztali számítógép monitorral, billentyűzettel és egérrel vagy laptop, továbbá nyomtató, webkamera, headset vagy fejhallgató és mikrofon), amely alkalmas az adatnyilvántartó szoftver futtatására, az online tolmácsolások lebonyolítására és a számítógép vírusvédelmére,
 
 ## 7. heti legalább húsz órás munkaidőben alkalmazott személyenként egy-egy íróasztal és irodai szék,
 
@@ -28,82 +28,12 @@
 
 ## 9. a várószobában legalább egy asztal és három szék,
 
-## 10. egy fénymásoló gép.
+## 10.[^109] egy fénymásolásra és nyomtatásra alkalmas gép.
 
-3. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez
+3. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^110]
 
-## A térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozásának igénybevételére irányuló pályázathoz benyújtandó dokumentumok
-
-1. a pályázónak a Knyt. alapján benyújtandó, az összeférhetetlenségről és az érintettségről szóló nyilatkozata, továbbá érintettség esetén közzétételi kérelme;
-
-2.[^62] a pályázó nyilatkozata arról, hogy
-
-2.1. ha cég: nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, és nincs ellene folyamatban a működését ellehetetlenítő végrehajtási eljárás,
-
-2.2. ha egyesület, alapítvány: nem áll csőd-, felszámolási, végelszámolási vagy kényszer-végelszámolási eljárás alatt, továbbá a bírósági nyilvántartásból való törlésére irányuló eljárás nincs folyamatban,
-
-2.3. ha közalapítvány: megszüntetésére vagy bírósági nyilvántartásból való törlésére irányuló eljárás nincs folyamatban,
-
-2.4. ha vallási tevékenységet végző szervezet: nem folyik vele szemben a működés törvényességének helyreállítására való kötelezésére, a megszüntetésére vagy a feloszlatására irányuló bírósági eljárás,
-
-2.5. ha egyéni vállalkozó: nem áll végrehajtási eljárás alatt,
-
-2.6. ha helyi önkormányzat: nem áll adósságrendezési eljárás alatt;
-
-3.[^63] a pályázó nyilatkozata arról, hogy a támogatást folyósító szervtől vagy szervezettől a pályázat benyújtását megelőző 5 évben kapott támogatásokkal elszámolt vagy határidőre el fog számolni, továbbá az elszámolás alapjául szolgáló dokumentumok fellelhetőségéről;
-
-4. ha a pályázó nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati igazolás arról, hogy a pályázat benyújtásának időpontjában az Art. 178. § 32. pontja szerint köztartozásmentes adózónak minősül;
-
-5. a pályázó nyilatkozata a közölt adatok, információk, dokumentumok teljeskörűségéről, valódiságáról és hitelességéről, a pályázatban vállalt és egyéb jogi kötelezettségeinek betartásáról, a támogatás szabályszerű felhasználásáról és az ahhoz kapcsolódó elszámolási kötelezettség tudomásulvételéről;
-
-6. a pályázati díj befizetését igazoló átutalási bizonylat másolata;
-
-7.[^64] ha a fenntartó központi költségvetési szerv, helyi önkormányzat, önkormányzati társulás, települési kisebbségi önkormányzat, területi kisebbségi önkormányzat vagy országos kisebbségi önkormányzat, a fenntartót képviselő személy képviseleti jogosultságának igazolása;
-
-8. a fenntartó írásbeli képviseletére jogosult személy, illetve az egyéni vállalkozó fenntartó közjegyző által hitelesített aláírás-mintája, vagy a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 9. §-a szerinti címpéldány, illetve aláírás-minta, vagy pénzforgalmi szolgáltató által hitelesített pénzforgalmi szolgáltatói aláírási címpéldány;
-
-9. a tolmácsszolgálat finanszírozási időszakra készített, szöveges indokolással ellátott pénzügyi-gazdálkodási terve;
-
-10.[^65] részletes költségvetési terv a finanszírozási időszak első megvalósítási szakaszáról;
-
-11.[^66]
-
-12. a pályázó nyilatkozata az általános forgalmi adó levonási jogáról, illetve annak érvényesítéséről;
-
-13. a pályázó hozzájárulása ahhoz, hogy a Magyar Államkincstár által működtetett monitoring rendszerben nyilvántartott adataihoz az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendeletben meghatározott szervek hozzáférjenek;
-
-14. ha a pályázó a pályázat benyújtásakor nem működtet tolmácsszolgálatot, arról szóló nyilatkozata, hogy a pályázat pozitív elbírálása esetén a finanszírozási időszak kezdetétől vállalja tolmácsszolgálat létrehozását és működtetését;
-
-15. a pályázó nyilatkozata a tolmácsszolgálat helyiségeivel, valamint tárgyi eszköz felszereltségével kapcsolatos e rendelet szerinti követelményeknek való megfelelésről;
-
-16. a szakmai vezető jelnyelvi tolmács, vagy újonnan létrehozandó tolmácsszolgálat esetén a pályázó képviseletére jogosult személy által aláírt szolgáltatási rend a 2. § (2) bekezdés szerinti valamennyi formátumban[^67];
-
-17. a tolmácsszolgálatnál munkaviszony keretében alkalmazott, vagy megbízási jogviszony keretében foglalkoztatott, illetve a pályázat pozitív elbírálása esetén újonnan alkalmazni, illetve foglalkoztatni kívánt személyek által vállalt tolmácsolási típusokat, tolmácsolási módokat tartalmazó lista személyenként;
-
-18. a pályázó nyilatkozata arról, hogy megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-a szerinti, rendezett munkaügyi kapcsolatok követelményének, és az annak vizsgálatához szükséges adatait rendelkezésre bocsátja;
-
-19. a tolmácsszolgálatnál alkalmazott szakmai vezető jelnyelvi tolmács aláírás-mintája;
-
-20. a tolmácsszolgálatnál alkalmazott, illetve foglalkoztatott vagy a pályázat pozitív elbírálása esetén alkalmazni vagy foglalkoztatni kívánt valamennyi jelnyelvi tolmács
-
-20.1. önéletrajza,
-
-20.2.[^68]
-
-21. a tolmácsszolgálatnál alkalmazott vagy a pályázat pozitív elbírálása esetén alkalmazni kívánt diszpécser
-
-21.1. önéletrajza,
-
-21.2. a képesítéséről szóló okirat másolata;
-
-22. a pályázat pozitív elbírálása esetén újonnan alkalmazni vagy foglalkoztatni kívánt személyek munkavállalásra, megbízási jogviszony létrehozására vonatkozó szándéknyilatkozata.
-
-[^60]: Ha a közös telefon- és faxvonal működése nem biztosítja a zökkenőmentes kommunikációt, önálló faxvonal létesítése szükséges.
-[^61]: A nyomtató lehet közös, ún. hálózati nyomtató, ekkor azonban még egy darab működőképes nyomtatóval kell rendelkeznie a tolmácsszolgálatnak.
-[^62]: A 3. melléklet 2. pontja a 19/2014. (III. 13.) EMMI rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^63]: A 3. melléklet 3. pontja a 11/2021. (III. 5.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
-[^64]: A 3. melléklet 7. pontja a 19/2014. (III. 13.) EMMI rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^65]: A 3. melléklet 10. pontja a 11/2015. (II. 25.) EMMI rendelet 14. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^66]: A 3. melléklet 11. pontját a 11/2015. (II. 25.) EMMI rendelet 15. § d) pontja hatályon kívül helyezte.
-[^67]: A 2015. évben lefolytatott általános pályázati eljárás során a pályázathoz benyújtott szolgáltatási rendnek nem kell tartalmaznia az 1. melléklet 3. és 4. pont szerinti adatokat.
-[^68]: A 3. melléklet 20.2. pontját a 48. § (1) bekezdése hatályon kívül helyezte.
+[^106]: Ha a közös telefon- és faxvonal működése nem biztosítja a zökkenőmentes kommunikációt, önálló faxvonal létesítése szükséges.
+[^107]: A 2. melléklet B) rész 4. pontja a 17/2021. (V. 18.) EMMI rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^108]: A 2. melléklet B) rész 6. pontja a 17/2021. (V. 18.) EMMI rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^109]: A 2. melléklet B) rész 10. pontja a 17/2021. (V. 18.) EMMI rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^110]: A 3. mellékletet a 17/2021. (V. 18.) EMMI rendelet 26. § e) pontja hatályon kívül helyezte.

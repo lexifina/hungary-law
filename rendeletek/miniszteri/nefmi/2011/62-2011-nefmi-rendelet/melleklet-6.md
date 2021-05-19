@@ -2,46 +2,50 @@
 
 |  | A | B |
 
-| 1. | A tolmácsszolgálatnál munkaviszony keretében kötelezően alkalmazottak együttes heti munkaideje órában | A kiegészítő támogatásra jogosító minimális havi térítésmentes jelnyelvi tolmácsolási óraszám |
+| 1. | A tolmácsszolgálatnál az alaptámogatás terhére munkaviszony keretében jelnyelvi tolmács végzettséggel rendelkező alkalmazottak együttes heti munkaideje órában | A tolmácsszolgálat kiegészítő támogatásra jogosító minimális havi térítésmentes jelnyelvi tolmácsolási óraszáma |
 
-| 2.1 | 80–84 | 125 |
+| 2. | 60–80 | 110 |
 
-| 3. | 85–89 | 130 |
+| 3. | 81–84 | 115 |
 
-| 4. | 90–94 | 135 |
+| 4. | 85–89 | 120 |
 
-| 5. | 95–99 | 140 |
+| 5. | 90–94 | 125 |
 
-| 6. | 100–104 | 145 |
+| 6. | 95–99 | 130 |
 
-| 7. | 105–109 | 150 |
+| 7. | 100–104 | 135 |
 
-| 8. | 110–114 | 155 |
+| 8. | 105–109 | 140 |
 
-| 9.2 | 115–120 | 160 |
+| 9. | 110–114 | 145 |
 
-## ___________________
+| 10. | 115–120 | 150 |
 
-## 1 Minimálisan megtervezendő humánerőforrás.
+| 11. | 121–130 | 155 |
 
-## 2 Az alaptámogatás terhére maximálisan megtervezhető humánerőforrás.
+| 12. | 131–140 | 160 |
 
-6. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^71]
+| 13. | 141–150 | 165 |
 
-A tolmácsszolgálatoknál munkaviszony keretében kötelezően alkalmazottak kiegészítő bérre jogosító térítésmentes jelnyelvi tolmácsolási óraszámai
+| 14. | 151–160 | 170 |
+
+6. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^113]
+
+A tolmácsszolgálatoknál munkaviszony keretében alkalmazottak kiegészítő bérre jogosító térítésmentes jelnyelvi tolmácsolási óraszámai
 
 |  | A | B | C |
 
-| 1. | munkakör | heti munkaidő órában | kiegészítő bérre jogosító minimális havi térítésmentes jelnyelvi tolmácsolási óraszám |
+| 1. | munkakör | heti munkaidő órában | egyénenkénti kiegészítő bérre jogosító minimális havi térítésmentes jelnyelvi tolmácsolási óraszám |
 
-| 2. | szakmai vezető jelnyelvi tolmács | 40 | 50 |
+| 2. | szakmai vezető | 40 | 50 |
 
-| 3. | jelnyelvi tolmács/diszpécser | 20–24 | 65 |
+| 3. | jelnyelvi tolmács/diszpécser | 20–24 | 55 |
 
-| 4. | 25–29 | 70 |
+| 4. | 25–29 | 60 |
 
-| 5. | 30–34 | 75 |
+| 5. | 30–34 | 65 |
 
-| 6. | 35–40 | 80 |
+| 6. | 35–40 | 70 |
 
-[^71]: A 6. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés b) pontjával megállapítot szöveg.
+[^113]: A 6. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés b) pontjával megállapított, a 17/2021. (V. 18.) EMMI rendelet 24. § (3) bekezdése és 25. § 19. pontja szerint módosított szöveg.

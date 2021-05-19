@@ -1,3 +1,3 @@
-## 24. §[^38] A tolmácsszolgálatok támogatására irányuló összegnek a módszertani központ részére történő átadásáról a miniszter és a módszertani központ minden év január 10-éig együttműködési megállapodást köt.
+## 24. §[^65] A tolmácsszolgálatok támogatására irányuló összegnek a módszertani központ rendelkezésére bocsátására vonatkozóan a miniszter és a módszertani központ minden évben megállapodást köt. A megállapodást olyan időpontban kell megkötni, hogy a módszertani központ a számára előírt finanszírozási kötelezettségeit időben teljesíteni tudja.
 
-[^38]: A 24. § a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^65]: A 24. § a 17/2021. (V. 18.) EMMI rendelet 12. §-ával megállapított szöveg. [Ugyanezen módosító rendelet 25. § 11. pontjával elrendelt módosítás, amely szerint a „részére történő átadásáról” szövegrész helyébe a „rendelkezésére bocsátásáról” szöveg és a „január 10-éig” szövegrész helyébe a „március 31-éig” szöveg lép, nem vezethető át.]
