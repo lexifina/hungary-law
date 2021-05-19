@@ -1,0 +1,1 @@
+A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény 31. § (7) bekezdés a) és b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 11. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
