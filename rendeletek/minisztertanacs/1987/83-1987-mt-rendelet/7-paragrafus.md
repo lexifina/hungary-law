@@ -1,4 +1,3 @@
-7. §[^10] A nyugellátások és egyes más ellátások 2020. évi kiegészítő emeléséről szóló 461/2020. (X. 21.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^11] megelőző kezdő időponttól megállapított rokkantsági járadékot a Módr.-rel megállapított 2. § (3) bekezdésének alapulvételével – 2020. november 1-jétől, hivatalból, 2020. január 1-jére visszamenőleges hatállyal – meg kell emelni.
+7. §[^10] A nyugellátások és egyes más ellátások 2021. június havi kiegészítő emeléséről szóló 254/2021. (V. 18.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését megelőző kezdő időponttól megállapított rokkantsági járadékot a Módr.-rel megállapított 2. § (3) bekezdésének alapulvételével – 2021. június 1-jétől, hivatalból, 2021. január 1-jére visszamenőleges hatállyal, illetve a 2021. január 1-je és a Módr. hatálybalépése közötti kezdő időponttól megállapított rokkantsági járadék esetén a járadék kezdő időpontjára visszamenőleges hatállyal – meg kell emelni.
 
-[^10]: A 7. §-t a 461/2020. (X. 21.) Korm. rendelet 6. §-a iktatta be.
-[^11]: A hatálybalépés időpontja 2020. október 22.
+[^10]: A 7. §-t a 461/2020. (X. 21.) Korm. rendelet 6. §-a iktatta be, szövege a 254/2021. (V. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
