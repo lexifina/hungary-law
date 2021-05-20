@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-254-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-05-19 | 2021-254-20-22.1 | 254/2021. (V. 18.) Korm. rendelet |
+| 2021-05-20 | 2021-254-20-22.2 | 2010: CXXX. törvény |

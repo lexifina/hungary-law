@@ -1,3 +1,3 @@
-## 5. § A rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet (a továbbiakban: Rjr.) 7. §-a helyébe a következő rendelkezés lép:
+## 5. §[^1]
 
-## „7. § A nyugellátások és egyes más ellátások 2021. június havi kiegészítő emeléséről szóló 254/2021. (V. 18.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését megelőző kezdő időponttól megállapított rokkantsági járadékot a Módr.-rel megállapított 2. § (3) bekezdésének alapulvételével – 2021. június 1-jétől, hivatalból, 2021. január 1-jére visszamenőleges hatállyal, illetve a 2021. január 1-je és a Módr. hatálybalépése közötti kezdő időponttól megállapított rokkantsági járadék esetén a járadék kezdő időpontjára visszamenőleges hatállyal – meg kell emelni.”
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
