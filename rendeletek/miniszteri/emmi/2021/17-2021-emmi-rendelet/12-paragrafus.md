@@ -1,3 +1,0 @@
-## „(4) Ha a fenntartó több ellátási területre vonatkozóan is jogosult támogatásra, a módszertani központ a finanszírozási szerződés 90 napon belüli módosítását kezdeményezi azon ellátási területre vonatkozó támogatás megszüntetése érdekében, amely esetében a (3) bekezdés c)–i) pontjában meghatározott feltételek az érintett ellátási területen működő tolmácsszolgálatra fennállnak.
-
-## (5) A módszertani központ a finanszírozási szerződést 90 napon belül felmondhatja, ha a (4) bekezdés alapján kezdeményezett szerződésmódosítás a fenntartó érdekkörében felmerült ok miatt 90 napon belül nem jön létre.”

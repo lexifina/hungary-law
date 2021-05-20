@@ -1,1 +1,0 @@
-## „(6) Ha a fenntartó egy finanszírozási szerződés keretében több ellátási területre is jogosult támogatásra, akkor az elszámolás során a fenntartó köteles a felhasználást tolmácsszolgálatonként elkülönítetten nyilvántartani és dokumentálni.”
