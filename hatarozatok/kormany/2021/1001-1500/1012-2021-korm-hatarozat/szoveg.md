@@ -8,11 +8,11 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2021. február 10.
 
-3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az átvilágítás eredményére is figyelemmel, az MNV Zrt. útján gondoskodjon a Részesedés ingyenesen történő állami tulajdonba vételéről;
+3.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az átvilágítás eredményére is figyelemmel, az MNV Zrt. útján gondoskodjon a Részesedés ingyenesen történő állami tulajdonba vételéről;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-Határidő: 2021. február 28.
+Határidő: azonnal
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Részesedés állami tulajdonba vételét követően gondoskodjon a Nemzeti Sportközpontok tulajdonosi joggyakorlóként történő kijelöléséről;
 
@@ -25,3 +25,5 @@ Határidő: a Részesedés állami tulajdonba vételét követően azonnal
 Felelős: pénzügyminiszter
 
 Határidő: azonnal
+
+[^1]: A 3. pont az 1286/2021. (V. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
