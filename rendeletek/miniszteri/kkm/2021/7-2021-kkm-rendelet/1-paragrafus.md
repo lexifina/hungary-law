@@ -6,14 +6,18 @@ b) Cseh Köztársaság,
 
 c) Észak-macedón Köztársaság,
 
-d) Horvát Köztársaság,
+d) Georgia,
 
-e) Montenegrói Köztársaság,
+e) Horvát Köztársaság,
 
-f) Szerb Köztársaság,
+f) Mongólia,
 
-g) Szlovén Köztársaság,
+g) Montenegrói Köztársaság,
 
-h) Török Köztársaság.
+h) Szerb Köztársaság,
 
-[^1]: Az 1. § a 15/2021. (V. 14.) KKM rendelet 1. §-ával megállapított szöveg.
+i) Szlovén Köztársaság,
+
+j) Török Köztársaság.
+
+[^1]: Az 1. § a 16/2021. (V. 20.) KKM rendelet 1. §-ával megállapított szöveg.
