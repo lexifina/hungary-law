@@ -1,6 +1,6 @@
 ## 18. Az RTP működtetése
 
-## 27. §[^111] Az ÁEEK az RTP-vel kapcsolatos teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében különösen
+## 27. §[^109] Az OKFŐ az RTP-vel kapcsolatos teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében különösen
 
 a) kidolgozza és a miniszter jóváhagyását követően közzéteszi az ösztöndíj pályázati felhívását,
 
@@ -14,4 +14,4 @@ e) kapcsolatot tart az egyetemekkel, valamint az ösztöndíjas elsődleges kép
 
 f) évente beszámolót készít a miniszter számára az RTP végrehajtásáról.
 
-[^111]: A 27. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^109]: A 27. § nyitó szövegrésze a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

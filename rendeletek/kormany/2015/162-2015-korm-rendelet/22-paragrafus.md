@@ -1,16 +1,16 @@
-22. §[^88] (1) Ha a támogatott szakképesítés megszerzését megelőzően a rezidens
+22. §[^86] (1)[^87] Ha a támogatott szakképesítés megszerzését megelőzően a rezidens
 
-a)[^89] az OKFŐ-től külföldi munkavégzéshez szükséges hatósági bizonyítvány kiállítását kezdeményezi, és a szakképzése szüneteltetését az OKFŐ részére nem jelezte,
+a)[^88] az OKFŐ-től külföldi munkavégzéshez szükséges hatósági bizonyítvány kiállítását kezdeményezi, és a szakképzése szüneteltetését az OKFŐ részére nem jelezte,
 
 b) a szakképzéshez kapcsolódó, foglalkoztatásra irányuló jogviszonyát megszünteti,
 
 c) az egyetemmel megkötött szakképzési megállapodását felmondja, és egyidejűleg más egyetemmel szakképzési megállapodást nem létesít, vagy
 
-d)[^90] teljesítéséről a képzőhely és az egyetem egyike sem ad tájékoztatást a 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen egybefüggően legalább hat hónap időtartam tekintetében, és a rezidens a szakképzés szüneteltetését nem jelezte az OKFŐ részére,
+d)[^89] teljesítéséről a képzőhely és az egyetem egyike sem ad tájékoztatást a 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen egybefüggően legalább hat hónap időtartam tekintetében, és a rezidens a szakképzés szüneteltetését nem jelezte az OKFŐ részére,
 
-az a)–d) pontban foglaltakról történő tudomásszerzést követően az ÁEEK haladéktalanul felszólítja a rezidenst, hogy 30 napon belül nyilatkozzon arról, hogy a támogatott szakképzést a 21/A. §-ban foglalt határidőn belül be kívánja-e fejezni.
+az a)–d) pontban foglaltakról történő tudomásszerzést követően az OKFŐ haladéktalanul felszólítja a rezidenst, hogy 30 napon belül nyilatkozzon arról, hogy a támogatott szakképzést a 21/A. §-ban foglalt határidőn belül be kívánja-e fejezni.
 
-(2) Ha a rezidens az (1) bekezdés szerinti 30 napon belül nem nyilatkozik, az ÁEEK 15 napos határidő tűzésével ismételten nyilatkozattételre szólítja fel. Ha az újabb határidő is eredménytelenül telik el, a rezidens a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és b) pont bb) alpontja alapján folyósított támogatások és juttatások nettó értékének megfelelő összeg visszafizetésére köteles, figyelemmel az (5) bekezdésben foglaltakra.
+(2)[^90] Ha a rezidens az (1) bekezdés szerinti 30 napon belül nem nyilatkozik, az OKFŐ 15 napos határidő tűzésével ismételten nyilatkozattételre szólítja fel. Ha az újabb határidő is eredménytelenül telik el, a rezidens a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és b) pont bb) alpontja alapján folyósított támogatások és juttatások nettó értékének megfelelő összeg visszafizetésére köteles, figyelemmel az (5) bekezdésben foglaltakra.
 
 (3) Ha a rezidens
 
@@ -30,9 +30,11 @@ a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és b) pont bb) 
 
 (8) Ha a rezidens a (7) bekezdésben meghatározott határidőig nem szerez szakvizsgát, a (2)–(5) bekezdés szerint köteles a támogatás visszatérítésére.
 
-[^88]: A 22. § a a 250/2017. (IX. 5.) Korm. rendelet 62. §-ával megállapított szöveg.
-[^89]: A 22. § (1) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) és n) pontja szerint módosított szöveg.
-[^90]: A 22. § (1) bekezdés d) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^86]: A 22. § a a 250/2017. (IX. 5.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^87]: A 22. § (1) bekezdés záró szövegrésze a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^88]: A 22. § (1) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) és n) pontja szerint módosított szöveg.
+[^89]: A 22. § (1) bekezdés d) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^90]: A 22. § (2) bekezdése a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^91]: A 22. § (5) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^92]: A 22. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^93]: A 22. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

@@ -1,13 +1,11 @@
-16/A. §[^60] (1) A rezidens szakképzése ideje alatt történő foglalkoztatásához kapcsolódó támogatás az alábbiakat foglalja magába:
+16/A. §[^60] (1) A rezidens illetménye nem lehet alacsonyabb az Eszjtv. 1. melléklet szerinti illetménynél.
 
-a) a rezidens illetményének biztosításához kapcsolódó támogatás részeként
+(2) A rezidens szakképzése ideje alatt történő foglalkoztatásához kapcsolódó támogatás az alábbiakat foglalja magában:
 
-aa)[^61] az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet (a továbbiakban: 256/2013. Korm. rendelet) 2. § (6) bekezdése szerinti támogatást az ott meghatározottak szerint,
+a) a rezidens illetményének biztosításához kapcsolódó támogatás részeként az OKFŐ az elsődleges képzőhely részére támogatást biztosít a rezidens támogatott szakképzésének befejezéséig. A támogatási összeg mértéke havi bruttó 150 000 Ft, amely magában foglalja az azt terhelő szociális hozzájárulási adót is,
 
-ab) azon rezidensek esetében, ahol az elsődleges vagy külső képzőhelyen szakképzése során végzett egészségügyi tevékenység nem tartozik a járó- és fekvőbeteg finanszírozás körébe, az Eütev., valamint a 256/2013. Korm. rendeletben meghatározott garantált illetménynek megfelelő összeget,
+b) azon rezidensek esetében, akik után az elsődleges képzőhely nem jogosult az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 9. melléklete szerinti támogatás igénybevételére, az OKFŐ a rezidens illetményének biztosításához kapcsolódó támogatás részeként az Eszjtv. szerint irányadó illetménynek megfelelő összeget biztosítja.
 
-b)[^62] a szakorvosjelölt támogatott szakképzése időtartamára járó 24 000 Ft rezidensi képzési díj összegét.
+(3) Az Eszjtv. hatálya alá nem tartozó rezidensek munkabére nem lehet alacsonyabb, mint az Eszjtv. 1. melléklete szerinti illetmény.
 
-[^60]: A 16/A. §-t a 287/2018. (XII. 21.) Korm. rendelet 37. §-a iktatta be.
-[^61]: [Az 529/2020. (XI. 28.) Korm. rendelet 20. § f) pontjával elrendelt módosítás, amely szerint hatályát veszti a „2. § (6) bekezdés” szövegrész, nem vezethető át.]
-[^62]: A 16/A. § (1) bekezdés b) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § l) pontjával megállapított szöveg.
+[^60]: A 16/A. §-t a 287/2018. (XII. 21.) Korm. rendelet 37. §-a iktatta be, szövege a 260/2021. (V. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

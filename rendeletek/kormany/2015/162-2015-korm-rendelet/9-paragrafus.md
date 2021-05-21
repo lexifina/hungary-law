@@ -1,4 +1,4 @@
-## 6. [^36] Az ÁEEK feladata a szakképzéssel összefüggésben
+## 6. [^36] Az OKFŐ feladata a szakképzéssel összefüggésben
 
 9. § (1)[^37] A szakorvos képzéssel összefüggésben az OKFŐ
 
@@ -22,7 +22,7 @@ i)[^38]
 
 (2)[^39] Az OKFŐ az (1) bekezdés d) és g) pontja szerinti feladatokat az egyetemekkel együttműködésben látja el.
 
-[^36]: A 6. alcím címe a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^36]: A 6. alcím címe a 260/2021. (V. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^37]: A 9. § (1) bekezdés nyitó szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^38]: A 9. § (1) bekezdés i) pontját az 529/2020. (XI. 28.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
 [^39]: A 9. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

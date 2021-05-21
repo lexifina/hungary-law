@@ -1,8 +1,8 @@
 5. § (1) A szakképzés teljesítése érdekében
 
-a)[^12] a támogatott szakképzés keretében a rezidens a szakképzésre akkreditált egészségügyi szolgáltatóval egészségügyi szolgálati jogviszonyt,
+a)[^12] a támogatott szakképzés keretében a rezidens az elsődleges képzőhelyével egészségügyi szolgálati jogviszonyt, a nem az Eszjtv. hatálya alá tartozó képzőhely esetében az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdés d)–g) pontja szerinti jogviszonyt,
 
-b)[^13] a költségtérítéses szakképzés keretében a jelölt a munkáltatóval – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 17. § (7) bekezdésében foglaltakra figyelemmel – az Eütev. 7. § (2) bekezdés d), f), g) és k) pontja szerinti foglalkoztatásra irányuló jogviszonyt
+b)[^13] a költségtérítéses szakképzés keretében a jelölt a munkáltatóval – az Eütev. 17. § (7) bekezdésében foglaltakra figyelemmel – az Eütev. 7. § (2) bekezdés d), f), g) és k) pontja szerinti foglalkoztatásra irányuló jogviszonyt
 
 létesít.
 
@@ -46,8 +46,8 @@ b)[^19] a rezidens olyan magatartást tanúsít, amely alapján az egészségüg
 
 (11)[^23] A (4) bekezdés b) pontjában meghatározott továbbfoglalkoztatási kötelezettség alól az elsődleges képzőhely akkor mentesülhet, ha – a rezidens egyetértésével – megállapodik egy másik egészségügyi szolgáltatóval a továbbfoglalkoztatási kötelezettség átvállalásáról.
 
-[^12]: Az 5. § (1) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^13]: Az 5. § (1) bekezdés b) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdés a) pontja a 260/2021. (V. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: Az 5. § (1) bekezdés b) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § e) pontja, a 260/2021. (V. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^14]: Az 5. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
 [^15]: Az 5. § (2) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § f)–g) pontja szerint módosított szöveg.
 [^16]: Az 5. § (4) bekezdés nyitó szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

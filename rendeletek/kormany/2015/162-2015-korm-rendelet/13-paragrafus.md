@@ -1,4 +1,4 @@
-13. §[^47] (1)[^48] A támogatott szakképzésben a tutort az OKFŐ által – az Eütv. 114. § (2) bekezdés g) pontja szerinti adattartalommal – vezetett tutori névjegyzékből a képzőhely a rezidens gyakorlatának megkezdését megelőzően jelöli ki, és erről az ÁEEK-t és a rezidenst tájékoztatja.
+13. §[^47] (1)[^48] A támogatott szakképzésben a tutort az OKFŐ által – az Eütv. 114. § (2) bekezdés g) pontja szerinti adattartalommal – vezetett tutori névjegyzékből a képzőhely a rezidens gyakorlatának megkezdését megelőzően jelöli ki, és erről az OKFŐ-t és a rezidenst tájékoztatja.
 
 (2) Egy tutor egyidejűleg legfeljebb három jelölt szakképzését felügyelheti.
 
@@ -31,7 +31,7 @@ az OKFŐ a tutort a mulasztására írásban figyelmezteti, és határidő megje
 (12) A (10)–(11) bekezdés szerinti okból történő törlés esetén a tutor a törléstől számított két évig nem vehető fel újra a tutori névjegyzékbe. Nem vehető fel a tutori névjegyzékbe az, akit a tutori névjegyzékből a (10) vagy a (11) bekezdés szerinti okból három alkalommal töröltek.
 
 [^47]: A 13. § a 287/2018. (XII. 21.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^48]: A 13. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^48]: A 13. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja, a 260/2021. (V. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^49]: A 13. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^50]: A 13. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
 [^51]: A 13. § (5) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

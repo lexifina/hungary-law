@@ -1,6 +1,8 @@
+## 24. §[^97]
+
 ## 16. A költségtérítéses szakképzés szakképzési díja
 
-25. § (1)[^101] Az egyetem a szakvizsgával már rendelkező és költségtérítéses képzés keretében második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb az Eszjtv. 1. melléklete szerinti 1. fizetési fokozat garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet. A szakképzési díj a (2)–(4) bekezdésben foglaltak figyelembevételével havonta egy alkalommal, legfeljebb egy hónapra vonatkozó összegben, utólag szedhető be.
+25. § (1)[^98] Az egyetem a szakvizsgával már rendelkező és költségtérítéses képzés keretében második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb az Eszjtv. 1. melléklete szerinti 1. fizetési fokozat garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet. A szakképzési díj a (2)–(4) bekezdésben foglaltak figyelembevételével havonta egy alkalommal, legfeljebb egy hónapra vonatkozó összegben, utólag szedhető be.
 
 (2) Az (1) bekezdés szerinti szakképzési díj
 
@@ -16,4 +18,5 @@ b) az egyetem által a jelölt képzési programja végrehajtásával összefüg
 
 (5) Az e fejezetben nem szabályozott esetekben a költségtérítéses képzésben részt vevő jelöltek képzési díját az egyetem állapítja meg és a honlapján közzéteszi.
 
-[^101]: A 25. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § p) pontja szerint módosított szöveg.
+[^97]: A 24. §-t a 260/2021. (V. 20.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^98]: A 25. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § p) pontja szerint módosított szöveg.
