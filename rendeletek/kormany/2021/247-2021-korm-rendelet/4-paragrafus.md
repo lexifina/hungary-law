@@ -1,0 +1,1 @@
+## „(8) Az érintett (címzett) kérése alapján személyes átadással kézbesítendő – hivatalos iratként feladott – védettségi igazolványokat tartalmazó könyvelt küldeményeken – a küldemény esetleges visszakézbesítése során – mellőzhető a postai szolgáltató által figyelembe veendő feladói adatok feltüntetése, ha azokat a feladást igazoló elektronikus okirat tartalmazza.”
