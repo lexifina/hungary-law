@@ -1,0 +1,9 @@
+## 123. A minisztérium ellenőrzéskoordinációs tevékenységével összefüggő feladatok
+
+482. § (1) Az ellenőrző szervezettel történő kapcsolattartás, az adatszolgáltatás, az egyeztetés és a véleményezés – az egységes adatszolgáltatás és az ellenőrzések hatékony nyomon követése érdekében – az ellenőrzés teljes időtartama alatt a minisztériumon keresztül történik.
+
+(2) Az (1) bekezdést nem kell alkalmazni
+
+a) ha az audit hatóság az ellenőrzött szervezet,
+
+b) az audit hatóság mintavételes ellenőrzésével összefüggő helyszíni ellenőrzéssel, adatszolgáltatással és kedvezményezetti észrevételezéssel kapcsolatban.

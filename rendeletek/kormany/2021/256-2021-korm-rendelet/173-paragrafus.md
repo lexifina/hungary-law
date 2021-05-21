@@ -1,0 +1,1 @@
+## 172. § Ha a költségnövekmény az éves fejlesztési keret elfogadását követően, de a támogatási döntés meghozatala előtt merül fel, a kiemelt projekt éves fejlesztési keretben szereplő indikatív támogatási keretének módosítása vonatkozásában a 171. §-t alkalmazni kell.

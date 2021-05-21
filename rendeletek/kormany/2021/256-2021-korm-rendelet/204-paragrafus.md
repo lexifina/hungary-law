@@ -1,0 +1,3 @@
+204. § (1) Az irányító hatóság szabálytalansági eljárást indít, ha a szerződésmódosítás vonatkozásában a 196. § szerinti utóellenőrzés eredményeként az irányító hatóság nem támogató tartalmú nyilatkozatot vagy a 197. §–200. § szerinti utóellenőrzés eredményeként az irányító hatóság vagy a közbeszerzésekért felelős miniszter nem támogató tartalmú jelentést állított ki.
+
+(2) Ha a szerződésmódosítás ellenőrzésére a 201. §–203. § alapján kerül sor és a kedvezményezett az irányító hatóság vagy a közbeszerzésekért felelős miniszter nem támogató tartalmú nyilatkozata vagy tanúsítványa ellenére, vagy nem a nyilatkozat vagy tanúsítvány tartalmának megfelelően módosítja a szerződést, az irányító hatóság szabálytalansági eljárást indít.

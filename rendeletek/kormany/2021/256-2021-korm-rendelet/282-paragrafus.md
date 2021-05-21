@@ -1,0 +1,1 @@
+## 281. § Ha nem áll rendelkezésre a 279. § (2) bekezdése szerinti kockázatelemzési módszertan, az irányító hatóság elvégzi a kifizetési kérelem és az alátámasztó dokumentumok teljes körű ellenőrzését.

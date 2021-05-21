@@ -1,0 +1,21 @@
+## 12. A szakpolitikai felelős feladatai
+
+26. § (1) A szakpolitikai felelős a programok tervezése és végrehajtása során a szakpolitikai szempontok érvényesítése érdekében
+
+a) elkészíti a felelősségi körébe tartozó éves fejlesztési keret alapját jelentő szakmai koncepciót és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
+
+b) elkészíti a felhívások szakmai koncepcióját az érintett irányító hatósággal és – szükség esetén – más szakpolitikai felelőssel egyeztetve,
+
+c) a kiemelt projektek tekintetében nyomon követi a projektszinten rögzített szakmai elvárások teljesülését,
+
+d) együttműködik a programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, a szakpolitikai elvárások és horizontális követelmények meghatározása során,
+
+e) a szakpolitikai elvárások és szakmai tartalmak kialakítása során a területfejlesztés stratégiai tervezéséért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését,
+
+f) az irányító hatósággal egyeztetve gondoskodik a korábbi programozási időszakok releváns értékelései hasznosításáról,
+
+g) az éves fejlesztési keret alapját jelentő szakmai koncepciót és a felhívások szakmai koncepcióját megküldi véleményezésre a gazdaságfejlesztési zóna komplex fejlesztéséért felelős kormánybiztos részére.
+
+(2) Ahol e rendelet bármely dokumentum tekintetében az irányító hatóság megküldési kötelezettségét írja elő, az abban foglalt javaslatot a szakpolitikai felelőssel közös álláspontnak kell tekinteni, ha a szakpolitikai felelőst a 2. melléklet az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
+
+(3) Ha egy prioritáson belül konstrukciófelelős kerül kijelölésre, a szakpolitikai felelős együttműködik a konstrukciófelelőssel az e rendeletben meghatározott, az adott felhívást érintő feladatok végrehajtása során.

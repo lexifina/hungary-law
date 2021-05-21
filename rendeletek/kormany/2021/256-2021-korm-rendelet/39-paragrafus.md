@@ -1,0 +1,1 @@
+## 38. § A monitoring bizottság és a Partnerségi Megállapodás monitoring bizottság működésének részletes szabályait a miniszter által meghatározott elvek alapján megalkotott ügyrendjében állapítja meg.

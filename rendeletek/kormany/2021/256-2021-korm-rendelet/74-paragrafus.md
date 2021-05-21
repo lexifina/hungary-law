@@ -1,0 +1,29 @@
+74. § (1) A felhívásban
+
+a) egyszerűsített,
+
+b) standard,
+
+c) kiemelt vagy
+
+d) területi
+
+## kiválasztási eljárásrend határozható meg.
+
+(2) Az irányító hatóság a (3)–(5) bekezdés szerinti kivétellel a felhívásban egyszerűsített kiválasztási eljárásrendet vagy standard kiválasztási eljárásrendet határoz meg. Az irányító hatóság az alkalmazandó kiválasztási eljárásrendet a 105. §-ra figyelemmel határozza meg.
+
+(3) Egyszerűsített kiválasztási eljárásrendet kell meghatározni
+
+a) feltételesen vissza nem térítendő támogatás esetén, vagy
+
+b) ha a projektek lehetséges elszámolható összköltsége nem haladja meg a háromszázmillió forintot és a felhívás keretében mikro-, kis- és középvállalkozás is benyújthat támogatási kérelmet.
+
+(4) Kiemelt kiválasztási eljárásrendet kell meghatározni, ha
+
+a) az irányító hatóság az éves fejlesztési keretben meg kívánja határozni a projekt címét, a támogatást igénylőt, az indikatív támogatási összeget, a projekttel kapcsolatos szakmai elvárásokat és a projekt benyújtásának várható időpontját, valamint
+
+b) a projekt közfeladat vagy általános közérdekű feladat ellátására irányul és nemzetgazdasági érdeket szolgál.
+
+(5) Területi kiválasztási eljárásrendet kell meghatározni területi program esetén.
+
+(6) A kutatás-fejlesztésre és innovációra irányuló felhívás esetén az irányító hatóság a (3) bekezdés b) pontja szerinti feltételek fennállása esetén is alkalmazhat standard kiválasztási eljárásrendet.

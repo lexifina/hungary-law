@@ -1,0 +1,7 @@
+## nem áll rendelkezésre.
+
+187. § (1) Az irányító hatóság az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet [a továbbiakban: 314/2018. (XII. 27.) Korm. rendelet] szerinti alkalmazásfejlesztés vonatkozásában csak akkor állítja ki a nyilatkozatát, ha a kedvezményezett rendelkezésére áll a 314/2018. (XII. 27.) Korm. rendelet szerinti támogató tanúsítvány.
+
+(2) A 301/2018. (XII. 27.) Korm. rendelet 13. § (1) bekezdés b) pontja szerinti beszerzések esetén az (1) bekezdés szerinti tanúsítvánnyal egyenértékű az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter jóváhagyása is, ha arra a 301/2018. (XII. 27.) Korm. rendelet 5. § (9) bekezdése szerinti miniszteri rendelet lehetőséget biztosít.
+
+(3) Az irányító hatóság a 314/2018. (XII. 27.) Korm. rendelet szerinti soron kívüli alkalmazásfejlesztés esetén az (1) bekezdés szerinti tanúsítvány helyett a soron kívüliség bejelentését is elfogadhatja.
