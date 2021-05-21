@@ -1,5 +1,3 @@
-## terhére kerülnek elszámolásra.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
@@ -14,7 +12,7 @@
 
 5. Felelős Személy: a Felelős Hatóság irányítására a miniszter által kijelölt személy;
 
-6.[^2] indikátor: a 14. pont szerinti Nemzeti Programban meghatározott, eredményt vagy teljesülést mérő számszerűsített mutató;
+6.[^3] indikátor: a 14. pont szerinti Nemzeti Programban meghatározott, eredményt vagy teljesülést mérő számszerűsített mutató;
 
 7. intézkedés: a Belügyi Alapokat létrehozó rendeletekben meghatározott konkrét és nemzeti célkitűzések eléréséhez szükséges tevékenységek;
 
@@ -22,13 +20,13 @@
 
 9. Kijelölő Személy: a kijelölés feladatát ellátó, a Kormány által felhatalmazott személy;
 
-10.[^3] kiválasztási eljárás: a Nemzeti Programban megjelölt célkitűzések elérése érdekében történő forráselosztás;
+10.[^4] kiválasztási eljárás: a Nemzeti Programban megjelölt célkitűzések elérése érdekében történő forráselosztás;
 
 11. Menekültügyi, Migrációs és Integrációs Alap: a Menekültügyi, Migrációs és Integrációs Alap létrehozásáról, a 2008/381/EK tanácsi határozat módosításáról, valamint az 573/2007/EK és az 575/2007/EK európai parlamenti és tanácsi határozatok és a 2007/435/EK tanácsi határozat hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. április 16-i 516/2014/EU rendeletével létrehozott alap;
 
-12.[^4] monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti Fejlesztéspolitikai Adatbázis és Informatikai Információs Rendszer, valamint a támogatási szerződés megkötésétől a Belügyi Alapok információs rendszere;
+12.[^5] monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti Fejlesztéspolitikai Adatbázis és Informatikai Információs Rendszer, valamint a támogatási szerződés megkötésétől a Belügyi Alapok információs rendszere;
 
-13.[^5]
+13.[^6]
 
 14. Nemzeti Program: a 2014–2020 közötti pénzügyi ciklusra a Belső Biztonsági Alap, vagy a Menekültügyi, Migrációs és Integrációs Alap forrásainak terhére meghatározott stratégiai célkitűzéseket, elérendő eredményeket rögzítő dokumentum;
 
@@ -36,7 +34,7 @@
 
 16. szabálytalansági gyanú: bármilyen adat vagy információ, amely szabálytalanság elkövetésére utal.
 
-[^2]: A 2. § 6. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 10. pontja a 323/2018. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^4]: A 2. § 12. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 252/2019. (X. 24.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
-[^5]: A 2. § 13. pontját a 323/2018. (XII. 28.) Korm. rendelet 39. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 6. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 10. pontja a 323/2018. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^5]: A 2. § 12. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 252/2019. (X. 24.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
+[^6]: A 2. § 13. pontját a 323/2018. (XII. 28.) Korm. rendelet 39. § a) pontja hatályon kívül helyezte.
