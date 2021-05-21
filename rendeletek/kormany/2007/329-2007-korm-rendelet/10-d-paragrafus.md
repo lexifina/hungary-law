@@ -1,6 +1,6 @@
-## 10/C. §[^92] A Kormány a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti nyilvántartó szervként a Nemzetközi Bűnügyi Együttműködési Központot jelöli ki.
+## 10/C. §[^95] A Kormány a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti nyilvántartó szervként a Nemzetközi Bűnügyi Együttműködési Központot jelöli ki.
 
-10/D. §[^93] (1) A Rendőrségi Oktatási és Kiképző Központ országos illetékességgel végzi az oktatással, képzéssel, szolgálati állatokkal, szabadidős és sporttevékenységgel, a hivatásos állomány alkalmasságával kapcsolatosan hatáskörébe utalt, valamint egyéb, jogszabályban és az alapító okiratban meghatározott feladatokat:
+10/D. §[^96] (1) A Rendőrségi Oktatási és Kiképző Központ országos illetékességgel végzi az oktatással, képzéssel, szolgálati állatokkal, szabadidős és sporttevékenységgel, a hivatásos állomány alkalmasságával kapcsolatosan hatáskörébe utalt, valamint egyéb, jogszabályban és az alapító okiratban meghatározott feladatokat:
 
 a) a rendőrség oktatási, kiképzési stratégiája alapján véleményezi, kidolgozza a rendőrséget érintő oktatási, képzési, kiképzési szakmai anyagokat,
 
@@ -22,5 +22,5 @@ i) működteti a rendőrség vizsgaközpontját.
 
 (2) A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 89. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása érdekében a Rendőrségi Oktatási és Kiképző Központ döntés-előkészítő feladatokat lát el.
 
-[^92]: A 10/C. §-t a 157/2015. (VI. 25.) Korm. rendelet 15. §-a iktatta be.
-[^93]: A 10/D. §-t a 157/2015. (VI. 25.) Korm. rendelet 15. §-a iktatta be, szövege a 223/2020. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^95]: A 10/C. §-t a 157/2015. (VI. 25.) Korm. rendelet 15. §-a iktatta be.
+[^96]: A 10/D. §-t a 157/2015. (VI. 25.) Korm. rendelet 15. §-a iktatta be, szövege a 223/2020. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.

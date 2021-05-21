@@ -1,26 +1,26 @@
-## 18. §[^160]
+## 18. §[^165]
 
-1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^161]
+1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^166]
 
-## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^162]
+## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^167]
 
-1.[^163] Az általános rendőri szerv központi szervének székhelye
+1.[^168] Az általános rendőri szerv központi szervének székhelye
 
 1.1. Országos Rendőr-főkapitányság, Budapest
 
-2.[^164] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
+2.[^169] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
 
 2.1. a Készenléti Rendőrség, Budapest
 
 2.2. a Repülőtéri Rendőr Igazgatóság, Budapest
 
-2.3.[^165]
+2.3.[^170]
 
 2.4. a Nemzetközi Bűnügyi Együttműködési Központ, Budapest
 
 2.5. a Rendőrségi Oktatási és Kiképző Központ, Budapest
 
-2.6.[^166] a Nemzetközi Oktatási Központ, Budapest
+2.6.[^171] a Nemzetközi Oktatási Központ, Budapest
 
 3. A rendőr-főkapitányságok elnevezése és székhelye
 
@@ -34,7 +34,7 @@
 
 3.5. Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság, Miskolc
 
-3.6.[^167] Csongrád-Csanád Megyei Rendőr-főkapitányság, Szeged
+3.6.[^172] Csongrád-Csanád Megyei Rendőr-főkapitányság, Szeged
 
 3.7. Fejér Megyei Rendőr-főkapitányság, Székesfehérvár
 
@@ -64,11 +64,11 @@
 
 3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
 
-[^160]: Az újabb 18. §-t a 275/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 298/2018. (XII. 21.) Korm. rendelet 3. § b) pontja.
-[^161]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^162]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
-[^163]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^164]: Az 1. melléklet 2. pontja a 157/2015. (VI. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^165]: Az 1. melléklet 2. pont 2.3. alpontját a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^166]: Az 1. melléklet 2. pont 2.6. alpontját a 227/2016. (VII. 29.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^167]: Az 1. melléklet 3. pont 3.6. alpontja a 371/2020. (VII. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^165]: Az újabb 18. §-t a 275/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 298/2018. (XII. 21.) Korm. rendelet 3. § b) pontja.
+[^166]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^167]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
+[^168]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^169]: Az 1. melléklet 2. pontja a 157/2015. (VI. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^170]: Az 1. melléklet 2. pont 2.3. alpontját a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^171]: Az 1. melléklet 2. pont 2.6. alpontját a 227/2016. (VII. 29.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^172]: Az 1. melléklet 3. pont 3.6. alpontja a 371/2020. (VII. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

@@ -110,9 +110,13 @@ r)[^53] felügyeli és ellenőrzi a megyei (fővárosi) rendőr-főkapitányság
 
 s)[^54] a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 10/A. §-a szerinti panaszügyekben a Repülőtéri Rendőr Igazgatóság által hozott döntések tekintetében az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el.
 
-(3a)[^55] Az ORFK gazdasági feladatkörében ellátja a központi bírságkezelő szerv kijelöléséről szóló kormányrendelet szerinti központi bírságkezelő szerv feladatait.
+t)[^55] az Rtv. 92. §-a alapján indult közigazgatási hatósági eljárásokban a területi szervek által hozott döntések tekintetében az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el,
 
-(4)[^56] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
+u)[^56] a közúti közlekedésről szóló 1988. évi I. törvény 21. § (1) bekezdés a)–c) és e)–h) pontja szerinti bírságolással kapcsolatos eljárások tekintetében az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el.
+
+(3a)[^57] Az ORFK gazdasági feladatkörében ellátja a központi bírságkezelő szerv kijelöléséről szóló kormányrendelet szerinti központi bírságkezelő szerv feladatait.
+
+(4)[^58] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
 
 a) gyakorolja a rendőr-főkapitányságok gazdasági vezetője tekintetében a kinevezés, felmentés, megbízás vagy megbízás visszavonásának jogkörét,
 
@@ -163,5 +167,7 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^52]: A 6. § (3) bekezdés q) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^53]: A 6. § (3) bekezdés r) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^54]: A 6. § (3) bekezdés s) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^55]: A 6. § (3a) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 13. §-a iktatta be.
-[^56]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^55]: A 6. § (3) bekezdés t) pontját a 259/2021. (V. 20.) Korm. rendelet 17. §-a iktatta be.
+[^56]: A 6. § (3) bekezdés u) pontját a 259/2021. (V. 20.) Korm. rendelet 17. §-a iktatta be.
+[^57]: A 6. § (3a) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 13. §-a iktatta be.
+[^58]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

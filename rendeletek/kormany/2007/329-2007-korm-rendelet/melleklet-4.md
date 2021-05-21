@@ -22,7 +22,7 @@
 
 ## 2.5. Határrendészeti Kirendeltség Biharugra, Biharugra
 
-## 3.[^171] Csongrád-Csanád megye
+## 3.[^176] Csongrád-Csanád megye
 
 ## 3.1. Határrendészeti Kirendeltség Szeged, Szeged
 
@@ -52,7 +52,7 @@
 
 ## 5.6. Határrendészeti Kirendeltség Záhony, Záhony
 
-4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^172]
+4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^177]
 
-[^171]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg.
-[^172]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 207. § d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^176]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg.
+[^177]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 207. § d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
