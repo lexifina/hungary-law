@@ -44,7 +44,7 @@
 
 | 27 | Engedély nélküli vezetés (közúti forgalomban közúti közlekedési szolgáltatás végzése során gépi meghajtású jármű vezetése más kategóriába tartozó engedéllyel [BR. 1. melléklet 9., 9/A. pontja] | 5 |
 
-2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^16]
+2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^17]
 
 Eljáró bíróság hatóság megnevezése kódja:
 
@@ -128,4 +128,4 @@ A Kpt. 4. § (2) bekezdés szerinti halmazati összpontszám:
 
 |  |  |  |  | Nyilvántartó ügyintézője |
 
-[^16]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja, a 379/2016. (XII. 2.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^17]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja, a 379/2016. (XII. 2.) Korm. rendelet 42. §-a szerint módosított szöveg.

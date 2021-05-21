@@ -1,3 +1,3 @@
-## 5/B. §[^13] Az 1. számú melléklet 2012. április 15-ig hatályos 1001, 1506 és 1507 kódszám alatt meghatározott tényállásaihoz rendelt pontszámokat a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 252. § (4) bekezdésére figyelemmel a 2012. április 15-e előtt elkövetett szabálysértések elbírálása során alkalmazni kell.
+## 5/C. §[^14] Az 1. számú melléklet 2021. május 13. napjáig hatályos 07 kódszám alatt meghatározott tényállásához rendelt pontszámot a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 4. §-ára figyelemmel a 2021. május 14-e előtt elkövetett szabálysértések elbírálása során alkalmazni kell.
 
-[^13]: Az 5/B. §-t a 63/2012. (IV. 2.) Korm. rendelet 4. §-a iktatta be.
+[^14]: Az 5/C. §-t a 259/2021. (V. 20.) Korm. rendelet 4. §-a iktatta be.

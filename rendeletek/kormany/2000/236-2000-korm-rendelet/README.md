@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-236-20-
 | 2016-12-17 | 2000-236-20-22.15 | 8/2004. (I. 22.) Korm. rendelet |
 | 2017-01-01 | 2000-236-20-22.16 | 8/2004. (I. 22.) Korm. rendelet |
 | 2017-01-27 | 2000-236-20-22.17 | 99/2011. (VI. 29.) Korm. rendelet |
+| 2021-05-21 | 2000-236-20-22.18 | 259/2021. (V. 20.) Korm. rendelet |
