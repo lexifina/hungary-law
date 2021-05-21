@@ -1,6 +1,6 @@
 ## látja el.
 
-## 4/A. [^26] TAJ számmal nem rendelkezők védettségi igazolványa
+## 4/A. [^35] TAJ számmal nem rendelkezők védettségi igazolványa
 
 7/A. § (1) E rendelet rendelkezéseit a TAJ számmal nem rendelkező személyek esetében az e §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -34,4 +34,4 @@ c) a (2) bekezdésben foglalt esetben a tartózkodási engedélyének számát,
 
 (12) A (11) bekezdés szerinti feladatok ellátása érdekében a Külgazdasági és Külügyminisztérium, valamint a külképviselet a (6) bekezdés szerinti adatokat a kézbesítés megtörténtéig kezeli.
 
-[^26]: A 4/A. alcímet (7/A. §) a 222/2021. (V. 3.) Korm. rendelet 6. §-a iktatta be.
+[^35]: A 4/A. alcímet (7/A. §) a 222/2021. (V. 3.) Korm. rendelet 6. §-a iktatta be.

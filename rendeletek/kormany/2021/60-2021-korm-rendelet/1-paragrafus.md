@@ -4,10 +4,10 @@
 
 a) a COVID-19 betegségből (a továbbiakban: fertőzés) e rendeletben meghatározott időn belül történő felgyógyulás vagy
 
-b)[^2] az Európai Unióban, illetve a Magyarországon engedélyezett és a lakosság oltására felhasznált COVID-19 oltóanyaggal Magyarország területén történt védőoltás (a továbbiakban: oltottság)
+b)[^2] az Európai Unióban, illetve a Magyarországon engedélyezett és a lakosság oltására felhasznált COVID-19 oltóanyaggal – a 3. § (2a) bekezdésben foglalt kivétellel – a Magyarország területén történt védőoltás (a továbbiakban: oltottság)
 
 ## tényének az igazolásával történik.
 
 (2) A koronavírus elleni védettség igazolására alkalmas az e rendelet szerinti hatósági igazolvány (a továbbiakban: védettségi igazolvány), illetve applikáció.
 
-[^2]: Az 1. § (1) bekezdés b) pontja a 108/2021. (III. 5.) Korm. rendelet 1. §-ával megállapított, a 222/2021. (V. 3.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 108/2021. (III. 5.) Korm. rendelet 1. §-ával megállapított, a 222/2021. (V. 3.) Korm. rendelet 7. § a) pontja, a 247/2021. (V. 14.) Korm. rendelet 6. §-a szerint módosított szöveg.
