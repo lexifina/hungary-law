@@ -1,6 +1,6 @@
 ## 1. Nemzeti Kiberbiztonsági Koordinációs Tanács
 
-1. § (1)[^1] A Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 21. § (1) bekezdése szerinti elnökét (a továbbiakban: a Tanács elnöke) akadályoztatása esetén az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter által delegált kiberkoordinátor (a továbbiakban: kiberkoordinátor) helyettesíti.
+1. §[^1] (1) A Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) elnöke (a továbbiakban: a Tanács elnöke) a Nemzetbiztonsági Szakszolgálat vezetője. A Tanács elnökét – akadályoztatása esetén – az e-közigazgatásért felelős miniszter által politikai főtanácsadónak kinevezett kiberkoordinátor (a továbbiakban: kiberkoordinátor) helyettesíti.
 
 (2) A Tanács tagjai:
 
@@ -10,19 +10,23 @@ b) az emberi erőforrások minisztere,
 
 c) a honvédelmi miniszter,
 
-d)[^2] az igazságügyi miniszter,
+d) az igazságügyi miniszter,
 
-e)[^3] a külgazdasági és külügyminiszter,
+e) a külgazdasági és külügyminiszter,
 
-f) a nemzeti fejlesztési miniszter,
+f) az innovációs és technológiai miniszter,
 
-g) a nemzetgazdasági miniszter,
+g) a pénzügyminiszter,
 
-h)[^4] a földművelésügyi miniszter
+h) az agrárminiszter,
 
-## által delegált 1 fő állami vezető.
+i) a miniszterelnök kabinetfőnöke,
 
-(3) A Tanács tagja továbbá a kiberkoordinátor.
+j) a Miniszterelnökséget vezető miniszter
+
+## által delegált 1 fő.
+
+(3) A Tanács tagja – a (2) bekezdésben meghatározottakon túl – a Katonai Nemzetbiztonsági Szolgálat főigazgatója és a kiberkoordinátor.
 
 (4) A Tanács munkáját a Tanács elnökének felkérésére
 
@@ -38,13 +42,10 @@ e) a Nemzeti Média- és Hírközlési Hatóság elnöke,
 
 f) a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
 
-## segítheti.
+## vagy az általa delegált segítheti.
 
-(5) A Tanács (2) bekezdésben meghatározott tagjainak megbízatása az állami vezetői megbízatás időtartamára szól. A tagok visszahívásáról a Tanács elnökének javaslatára a tagot delegáló miniszter dönt.
+(5) A Tanács (2) bekezdésben meghatározott tagjainak visszahívásáról a Tanács elnökének javaslatára a tagot delegáló miniszter dönt.
 
-(6) A Tanács elnöke a Tanács munkájáról legalább félévente beszámol a miniszterelnöknek.
+(6) A Tanács elnöke a Tanács munkájáról legalább félévente beszámol az e-közigazgatásért felelős miniszternek.
 
-[^1]: Az 1. § (1) bekezdés a 101/2018. (VI. 11.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 787. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 787. § c) pontjával megállapított szöveg.
-[^4]: Az 1. § (2) bekezdés h) pontja a 221/2014. (IX. 4.) Korm. rendelet 787. § d) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 259/2021. (V. 20.) Korm. rendelet 26. §-ával megállapított szöveg.
