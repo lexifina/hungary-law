@@ -41,3 +41,7 @@
 18. Nemzeti Akkreditáló Hatóságról és az akkreditálási eljárásról szóló 424/2015. (XII. 23.) Korm. rendelet szerinti hatósági eljárások
 
 19. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény hatálya alá tartozó, kérelemre indult hatósági ügyek
+
+20.[^1] A biztonsági okmányok védelmével összefüggő hatósági tevékenység keretében végzett engedélyezési tevékenység
+
+[^1]: Az 1. melléklet 20. pontját a 259/2021. (V. 20.) Korm. rendelet 49. § (1) bekezdése iktatta be.
