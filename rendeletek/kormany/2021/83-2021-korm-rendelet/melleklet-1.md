@@ -1,4 +1,4 @@
-## 17. §[^19] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 230/2021. (V. 5.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 3. § (2)–(3) bekezdését, 7/F. §-át és 2. mellékletében foglalt táblázat 14. sorát a Módr9. hatálybalépésekor[^20] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 18. §[^25] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 261/2021. (V. 20.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított 1. § (3) bekezdését, 3. § (1) és (4) bekezdését, 7/A. és 7/B. §-át és 2. mellékletében foglalt táblázat 7. sorát a Módr10. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -50,5 +50,4 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^19]: A 17. §-t a 230/2021. (V. 5.) Korm. rendelet 1. §-a iktatta be.
-[^20]: A hatálybalépés időpontja 2021. május 6.
+[^25]: A 18. §-t a 261/2021. (V. 20.) Korm. rendelet 3. §-a iktatta be.
