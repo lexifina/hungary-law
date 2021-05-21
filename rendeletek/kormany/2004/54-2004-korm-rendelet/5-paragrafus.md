@@ -14,8 +14,9 @@
 
 (8) Az Stv. 68/A. § (3) bekezdése alapján a fokozott biztonsági kockázatú sportrendezvények biztosításában való rendőrségi közreműködés ellenértéke a rendőrség igazolt önköltségi kiadása.
 
-(9) A sportrendezvény rendőrségi közreműködéssel történő biztosítása esetén az általános, illetve speciális képzettséggel rendelkező egyes rendőrök által teljesített feladatok, valamint a szolgálati állatok igénybevételének 1 óra időtartamra vonatkozó önköltségi díját és a gépjárművek kiállásának költségeit az ORFK évente január 15-ig meghatározza, amelyről tájékoztatja az (1) bekezdésben meghatározott szervezeteket. A kiállás, az igénybevétel és a feladat-végrehajtás költségei együttesen képezik a szolgáltatás önköltségi díját.
+(9)[^8] A sportrendezvény rendőrségi közreműködéssel történő biztosítása esetén az általános, illetve speciális képzettséggel rendelkező egyes rendőrök által teljesített feladatok, valamint a szolgálati állatok igénybevételének 1 óra időtartamra vonatkozó önköltségi díját és a gépjárművek kiállásának költségeit az ORFK évente március 1-ig meghatározza, amelyről tájékoztatja az (1) bekezdésben meghatározott szervezeteket. A kiállás, az igénybevétel és a feladat-végrehajtás költségei együttesen képezik a szolgáltatás önköltségi díját.
 
 (10) A rendőrség a sportrendezvény megkezdése előtt jogosult a szerződéskötés időpontjában még nem ismert új körülményre tekintettel a szerződésben meghatározottnál nagyobb rendőri létszám készenlétének biztosítására, feltéve, hogy az a sportrendezvény biztonságos lebonyolítása érdekében szükséges és a szerződés módosítására nincs mód. Az így keletkezett igazolt többletköltségeket a szervező a rendőrség részére megtéríti.
 
 [^7]: Az 5. § a 162/2011. (VIII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^8]: Az 5. § (9) bekezdése a 259/2021. (V. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.

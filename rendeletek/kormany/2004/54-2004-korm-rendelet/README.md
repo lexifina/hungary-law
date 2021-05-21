@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-54-20-2
 | 2018-01-01 | 2004-54-20-22.13 | 137/2017. (VI. 9.) Korm. rendelet |
 | 2019-01-01 | 2004-54-20-22.14 | 279/2018. (XII. 21.) Korm. rendelet |
 | 2019-11-20 | 2004-54-20-22.15 | 267/2019. (XI. 19.) Korm. rendelet |
+| 2021-05-21 | 2004-54-20-22.16 | 259/2021. (V. 20.) Korm. rendelet |

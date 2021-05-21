@@ -1,4 +1,4 @@
-13/A. §[^37] (1) Négyéves biztonságtechnikai fejlesztési tervet és ahhoz kapcsolódó költségtervet (a továbbiakban: fejlesztési terv) kell készíteni azon sportlétesítmény tulajdonosának, amely a labdarúgás sportág legmagasabb bajnoki osztályában, a második legmagasabb bajnoki osztályában szervezett mérkőzések, a nemzetközi kupamérkőzések és a nemzeti válogatott mérkőzéseinek helyszínéül szolgál. Az üzemeltető a tulajdonossal kötött megállapodás alapján a fejlesztési tervet elkészítheti.
+13/A. §[^38] (1) Négyéves biztonságtechnikai fejlesztési tervet és ahhoz kapcsolódó költségtervet (a továbbiakban: fejlesztési terv) kell készíteni azon sportlétesítmény tulajdonosának, amely a labdarúgás sportág legmagasabb bajnoki osztályában, a második legmagasabb bajnoki osztályában szervezett mérkőzések, a nemzetközi kupamérkőzések és a nemzeti válogatott mérkőzéseinek helyszínéül szolgál. Az üzemeltető a tulajdonossal kötött megállapodás alapján a fejlesztési tervet elkészítheti.
 
 (2) Az Stv. 63. § (3a) bekezdésében meghatározott fejlesztési tervnek tartalmaznia kell:
 
@@ -16,4 +16,4 @@ d) a fejlesztések szükségességének, ütemezésének, megvalósíthatóság�
 
 (5) Ha fejlesztési tervben foglaltakkal az Stv. 63. § (3) bekezdésében meghatározott szerv nem ért egyet, úgy indokolt véleményének megküldésével felhívja a fejlesztési terv elkészítőjét annak módosítására.
 
-[^37]: A 13/A. §-t a 162/2011. (VIII. 18.) Korm. rendelet 9. §-a iktatta be.
+[^38]: A 13/A. §-t a 162/2011. (VIII. 18.) Korm. rendelet 9. §-a iktatta be.
