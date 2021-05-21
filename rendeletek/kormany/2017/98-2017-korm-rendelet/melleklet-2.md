@@ -56,7 +56,7 @@ A Beruházásokkal érintett ingatlanok
 
 | 26. | Heim Pál Országos Gyermekgyógyászati Intézet: a) új belgyógyászati C tömb létrehozása: a Madarász utcai telephelyről az aktív csecsemő- és belgyógyászati osztályok Üllői úti telephelyre történő koncentrálása, valamint a jelenlegi C és D épületből a gyermekneurológiai, gyermekortopédiai, gyermekszemészeti és gyermekpulmonológiai aktívfekvőbeteg-ellátás áthelyezése, b) a Delej utcai telephelyen pszichiátriai és addiktológiai centrum létrehozása: gyermekpszichiátriai osztály, serdülő- és ifjúsági pszichiátriai járó- és fekvőbetegosztály, adikktológiai osztály és szakambulanciák létrehozása. | Budapest belterület 38716 belterület 26085/213 belterület 33782 belterület 38703/8 belterület 38703/10 belterület 26085/158 |
 
-| 27. | Dél-budai Centrum: új komplex kórház építése. | Budapest belterület 952/3 belterület 952/4 belterület 952/12 belterület 952/13 belterület 952/14 belterület 952/16 belterület 952/17 belterület 966 |
+| 27. |  |  |
 
 | 28. | Országos Onkológiai Intézet: a) új épületben új onkodiagnosztikai központ létesítése, b) abban PET-MR, CT, daganat-pathológiai, daganat-cytológiai és onko-genomikai laboratóriumok és telemedicina-központ elhelyezése, c) régi épületek bontása illetve felújítása. | Budapest belterület 6998/13 belterület 6997 |
 
@@ -146,4 +146,4 @@ A Beruházásokkal érintett ingatlanok
 
 | 71. | Vecsési Egészségügyi Szolgálat: a) orvostechnológiai berendezések korszerűsítése, az ahhoz szükséges építési beruházás, b) informatikai rendszer modernizálása, az ahhoz szükséges építési beruházás. | Vecsés belterület 4918 belterület 1529 |
 
-[^12]: A 2. melléklet a 119/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított, a 143/2019. (VI. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^12]: A 2. melléklet a 119/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított, a 143/2019. (VI. 20.) Korm. rendelet 4. §-a, a 262/2021. (V. 20.) Korm. rendelet 12. §-a szerint módosított szöveg.
