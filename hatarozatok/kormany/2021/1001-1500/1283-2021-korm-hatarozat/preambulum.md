@@ -1,0 +1,1 @@
+A Kormány a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 21. § (2) bekezdés e) pontja alapján – figyelemmel a Magyar Honvédségnél rendszeresíthető beosztások számáról szóló 24/2019. (VII. 2.) OGY határozatra – a következő határozatot hozza:
