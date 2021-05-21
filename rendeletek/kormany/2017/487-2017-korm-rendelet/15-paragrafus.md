@@ -1,5 +1,7 @@
-## 14. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti, a rendészeti feladatokat ellátó személy szolgálati igazolványa és szolgálati jelvénye kiállításával, bevonásával és visszavonásával kapcsolatos eljárások során első fokon a megyei, fővárosi rendőr-főkapitányság jár el. Az elsőfokú döntéssel szembeni fellebbezést az Országos Rendőr-főkapitányság bírálja el. Felügyeleti szervként a fellebbezés elbírálására jogosult hatóság jár el.
+## 14/A. §[^2] A szolgálati igazolvány és a szolgálati jelvény kiadását kérelmező ügyfél cselekvőképességére vonatkozó adatot a szolgálati igazolvány és a szolgálati jelvény kiadására jogosult rendőr-főkapitányság ellenőrzi.
 
 ## III. Fejezet
 
 ## AZ EGYES RENDÉSZETI FELADATOKAT ELLÁTÓ SZEMÉLYEK INTÉZKEDÉSE ELLEN A RENDŐRSÉGHEZ BENYÚJTOTT PANASZ
+
+[^2]: A 14/A. §-t a 259/2021. (V. 20.) Korm. rendelet 45. §-a iktatta be.
