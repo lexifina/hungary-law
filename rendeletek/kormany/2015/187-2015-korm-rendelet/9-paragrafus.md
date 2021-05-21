@@ -6,4 +6,6 @@
 
 (4) Ha a hatóság az elektronikus információs rendszerre vonatkozó, bejelentett biztonsági osztályba sorolásnál alacsonyabb osztály alkalmazásának lehetőségét látja, arra az érintett szervezetnek javaslatot tesz.
 
-(5) Ha az érintett szervezet vezetője az elektronikus információs rendszerre vonatkozóan a biztonsági osztályba sorolás követelményeiről szóló jogszabályban meghatározott biztonsági osztály helyett alacsonyabb osztályt állapít meg, azt részletesen indokolnia kell.
+(5)[^24]
+
+[^24]: A 9. § (5) bekezdését a 259/2021. (V. 20.) Korm. rendelet 40. §-a hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## 25. §[^39]
-
 ## 10. Az információbiztonsági felügyelő
 
 26. § (1) Információbiztonsági felügyelőként (a továbbiakban: felügyelő) az rendelhető ki, aki a kirendelést vállalja és az Ibtv.-ben, valamint e rendeletben meghatározott feltételeknek megfelel. A felügyelőnek a vezetői gyakorlatára előírt időtartamába beszámítható a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 8. § (5) bekezdése szerinti munkavégzésre irányuló jogviszonyban szerzett, közigazgatáson kívüli vezetői gyakorlat is. A felügyelő felett a munkáltatói jogokat az e-közigazgatásért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
@@ -37,5 +35,3 @@ b) a (4) bekezdés szerinti, kizárásra okot adó körülmény merült fel, vag
 (7) A miniszter jogosult az (5) bekezdés b) pontja esetén új felügyelőt kirendelni.
 
 (8) A felügyelő kirendelésének megszűnéséről a miniszter írásban haladéktalanul tájékoztatja az érintett szervezet vezetőjét.
-
-[^39]: A 25. §-t a 375/2020. (VII. 30.) Korm. rendelet 73. § f) pontja hatályon kívül helyezte.

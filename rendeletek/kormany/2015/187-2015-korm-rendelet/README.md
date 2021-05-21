@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-187-20-
 | 2019-01-01 | 2015-187-20-22.11 | 323/2018. (XII. 28.) Korm. rendelet |
 | 2019-01-13 | 2015-187-20-22.12 | 323/2018. (XII. 28.) Korm. rendelet |
 | 2020-07-31 | 2015-187-20-22.13 | 375/2020. (VII. 30.) Korm. rendelet |
+| 2021-05-21 | 2015-187-20-22.14 | 259/2021. (V. 20.) Korm. rendelet |

@@ -1,4 +1,4 @@
-1. melléklet a 187/2015. (VII. 13.) Korm. rendelethez[^50]
+1. melléklet a 187/2015. (VII. 13.) Korm. rendelethez[^53]
 
 Az egyes jogszabálysértések esetében kiszabható bírság mértéke
 
@@ -20,4 +20,4 @@ Az egyes jogszabálysértések esetében kiszabható bírság mértéke
 
 | 8. | hatóság végleges, végrehajtandó határozatában foglalt kötelezésének nem teljesítése | 400 000 | 5 000 000 |
 
-[^50]: Az 1. mellékletet a 323/2018. (XII. 28.) Korm. rendelet 52. §-a iktatta be.
+[^53]: Az 1. mellékletet a 323/2018. (XII. 28.) Korm. rendelet 52. §-a iktatta be.
