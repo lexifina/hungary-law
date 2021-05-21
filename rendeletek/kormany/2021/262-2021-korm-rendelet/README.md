@@ -1,0 +1,9 @@
+# 262/2021. (V. 20.) Korm. rendelet
+
+a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-262-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-05-21 | 2021-262-20-22.1 | 262/2021. (V. 20.) Korm. rendelet |
