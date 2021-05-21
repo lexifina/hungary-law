@@ -6,6 +6,6 @@ a) a vizsgálati eredmények leírását és
 
 b) a rövid, közép- és hosszú távú intézkedésekre vonatkozó intézkedési javaslatokat.
 
-(3)[^25] A sérülékenységvizsgálatot végző szerv a 28. § (1) bekezdésében meghatározott bármely feltétel fennállása esetén az állásfoglalást 21 napon belül megküldi az érintett szervezet és a hatóság részére.
+(3)[^28] A sérülékenységvizsgálatot végző szerv a 28. § (1) bekezdésében meghatározott bármely feltétel fennállása esetén az állásfoglalást 21 napon belül megküldi az érintett szervezet és a hatóság részére.
 
-[^25]: A 29. § (3) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 112. §-a iktatta be.
+[^28]: A 29. § (3) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 112. §-a iktatta be.

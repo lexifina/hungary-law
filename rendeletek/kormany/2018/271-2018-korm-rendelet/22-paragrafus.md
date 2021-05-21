@@ -4,7 +4,7 @@
 
 22. § (1) A nemzetbiztonsági védelem alá eső állami és önkormányzati szervek elektronikus információs rendszerei, az Ibtv. 2. § (1) bekezdése szerinti állami és önkormányzati szervek európai létfontosságú rendszerelemmé vagy nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemeinek elektronikus információs rendszerei, valamint a zárt célú elektronikus információs rendszerek sérülékenységvizsgálatát – a (2) és (3) bekezdésben meghatározott kivétellel – a Központ végzi. A Központ jogosult továbbá az Ibtv. 18. § (3) bekezdése szerinti állami szervként a sérülékenységvizsgálat lefolytatására.
 
-(2)[^13]
+(2)[^16]
 
 (3) A honvédelmi célú elektronikus információs rendszerek sérülékenységvizsgálatát a 6. § (1) bekezdése szerinti eseménykezelő központ végzi.
 
@@ -38,4 +38,4 @@ c) a gazdálkodó szervezet által közölt adatok a valóságnak nem felelnek m
 
 (13) Ha a (11) bekezdésben meghatározott adatszolgáltatási kötelezettségének a gazdálkodó szervezet nem tesz eleget, akkor a gazdálkodó szervezetet az Alkotmányvédelmi Hivatal törli a nyilvántartásból.
 
-[^13]: A 22. § (2) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 114. § e) pontja hatályon kívül helyezte.
+[^16]: A 22. § (2) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 114. § e) pontja hatályon kívül helyezte.
