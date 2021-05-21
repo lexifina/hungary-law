@@ -26,9 +26,9 @@ b) a (9) bekezdés b) pontja szerint jár el.
 
 (7)[^61] Ha az ügyfél az eljárási törvény 44. § (6) bekezdése szerinti igazolási kötelezettsége alapján a földhasználata jogszerűségét igazoló, birtokában lévő valamennyi dokumentációt csatolja az egységes kérelméhez és az egységes kérelmén megtett nyilatkozatával tudomásul veszi, hogy a jogszerű földhasználat igazolásával kapcsolatosan részére a Kincstár nem küld további felszólítást, a Kincstár az erre vonatkozó, további felhívás megküldését mellőzi.
 
-(8)[^62] Ha a (4) bekezdés a) pontja szerinti felhívásban foglalt határidőt a kérelmet benyújtó ügyfél elmulasztotta, és a (7) bekezdés szerint lefolytatott, jogszerű földhasználatra vonatkozó vizsgálat eredménye alapján továbbra is fennáll a mérési tűréshatárral számolt referenciaterületet meghaladó túligénylés, akkor a túligényléssel érintett összes, jogszerű földhasználatra vonatkozó vizsgálattal korábban nem érintett ügyfél esetében a Kincstár adminisztratív, illetve – valamennyi, a túligényelt referenciaterületen igénylő ügyfél esetében – helyszíni ellenőrzést folytat le az érintett referenciaterület vonatkozásában.
+(8)[^62] Ha a (4) bekezdés a) pontja szerinti felhívásban foglalt határidőt a kérelmet benyújtó ügyfél elmulasztotta, és a jogszerű földhasználatra vonatkozó vizsgálat eredménye alapján továbbra is fennáll a mérési tűréshatárral számolt referenciaterületet meghaladó túligénylés, akkor a túligényléssel érintett összes, jogszerű földhasználatra vonatkozó vizsgálattal korábban nem érintett ügyfél esetében a Kincstár adminisztratív, illetve – valamennyi, a túligényelt referenciaterületen igénylő ügyfél esetében – helyszíni ellenőrzést folytat le az érintett referenciaterület vonatkozásában.
 
-(9)[^63] Ha a (7) bekezdés szerinti jogszerű földhasználatra vonatkozó vizsgálatot nem kell lefolytatni, és a (4) bekezdés a) pontja alapján megállapított túligénylés az ügyfelek által az adategyeztetés során tett nyilatkozatokat követően részben vagy egészben továbbra is fennáll, a Kincstár
+(9)[^63] Ha a jogszerű földhasználatra vonatkozó vizsgálatot nem kell lefolytatni, és a (4) bekezdés a) pontja alapján megállapított túligénylés az ügyfelek által az adategyeztetés során tett nyilatkozatokat követően részben vagy egészben továbbra is fennáll, a Kincstár
 
 a) a mérési tűréshatárral számolt referenciaterületet meg nem haladó túligénylés esetén a túligénylés arányában a referenciaterület méretéig arányosan csökkenti a referenciaterületen belüli támogatási igénylésekben megjelölt területeket, vagy
 
@@ -55,8 +55,8 @@ b) a mérési tűréshatárral számolt referenciaterületet meghaladó túligé
 [^59]: A 23. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja szerint módosított szöveg.
 [^60]: A 23. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 109. § c) pontja szerint módosított szöveg.
 [^61]: A 23. § (7) bekezdése a 12/2021. (III. 23.) AM rendelet 17. §-ával megállapított szöveg.
-[^62]: A 23. § (8) bekezdése a 13/2017. (III. 17.) FM rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^63]: A 23. § (9) bekezdése a 13/2017. (III. 17.) FM rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^62]: A 23. § (8) bekezdése a 13/2017. (III. 17.) FM rendelet 52. § (1) bekezdésével megállapított, a 21/2021. (V. 20.) AM rendelet 7. § a) pontja szerint módosított szöveg.
+[^63]: A 23. § (9) bekezdése a 13/2017. (III. 17.) FM rendelet 52. § (1) bekezdésével megállapított, nyitó szövegrésze a 21/2021. (V. 20.) AM rendelet 7. § b) pontja szerint módosított szöveg.
 [^64]: A 23. § (10) bekezdése a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja szerint módosított szöveg.
 [^65]: A 23. § (11) bekezdése a 13/2017. (III. 17.) FM rendelet 52. § (2) bekezdésével megállapított, a 8/2018. (III. 29.) FM rendelet 49. § c) pontja, a 10/2020. (IV. 3.) AM rendelet 25. § b) pontja szerint módosított szöveg.
 [^66]: A 23. § (12) bekezdése a 10/2020. (IV. 3.) AM rendelet 23. § (1) bekezdésével megállapított szöveg.

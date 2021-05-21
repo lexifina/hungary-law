@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-22-20-1
 | 2019-09-22 | 2016-22-20-11.9 | 9/2018. (VII. 2.) AM rendelet |
 | 2020-04-06 | 2016-22-20-11.10 | 10/2020. (IV. 3.) AM rendelet |
 | 2021-03-26 | 2016-22-20-11.11 | 12/2021. (III. 23.) AM rendelet |
+| 2021-05-21 | 2016-22-20-11.12 | 13/2017. (III. 17.) FM rendelet |
