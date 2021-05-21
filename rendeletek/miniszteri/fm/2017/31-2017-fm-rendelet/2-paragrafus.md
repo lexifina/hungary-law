@@ -2,4 +2,6 @@
 
 2. § (1) A pályázónak a programot végrehajtó szervezet kiválasztása céljából lefolytatott versenyeztetési eljárás keretében – ha az nem tartozik a közbeszerzésekről szóló 2015. évi CXLIII. törvény hatálya alá – legalább három ajánlatot kell bekérnie.
 
-(2) A pályázónak a végrehajtó szervezetre és annak kiválasztására vonatkozó dokumentumokat legkésőbb az 1144/2014/EU európai parlamenti és tanácsi rendelet 11. cikkének (2) bekezdése szerinti, az Európai Bizottság (a továbbiakban: Bizottság) végrehajtási jogi aktusáról való értesítés napjától számított negyvenöt naptári napon belül kell benyújtania a Magyar Államkincstár (a továbbiakban: Kincstár) részére.
+(2)[^1] A pályázónak a végrehajtó szervezetre és annak kiválasztására vonatkozó dokumentumokat legkésőbb az 1144/2014/EU európai parlamenti és tanácsi rendelet 11. cikk (2) bekezdése szerinti, az Európai Bizottság (a továbbiakban: Bizottság) végrehajtási jogi aktusáról való értesítés napjától számított negyvenöt naptári napon belül kell benyújtania a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület), ügyfélkapus azonosítást követően.
+
+[^1]: A 2. § (2) bekezdése a 21/2021. (V. 20.) AM rendelet 8. §-ával megállapított szöveg.
