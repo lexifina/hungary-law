@@ -84,6 +84,8 @@ e) a hatósági eljárás során lefoglalt, a közbiztonságra különösen vesz
 
 (6)[^28] A TEK az Rtv. szerinti rendőrségi feladatok ellátása során közreműködhet a harmadik országbeli állampolgárok hatósági kísérettel történő kiutasításának végrehajtásában.
 
+(7)[^29] A TEK szervezi és végrehajtja a jogszabályban meghatározott feladatai ellátásával kapcsolatos légiközlekedési tevékenységet, ennek keretében végzi az ehhez szükséges szakszemélyzet képzését, az általa létesített repülőterek üzemben tartását, illetve a TEK üzemben tartásában lévő légijárművek üzemeltetését és karbantartását.
+
 [^4]: A 3. § (1) bekezdés nyitó szövegrésze a 77/2018. (IV. 20.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés b) pontja a 256/2015. (IX. 10.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
@@ -109,3 +111,4 @@ e) a hatósági eljárás során lefoglalt, a közbiztonságra különösen vesz
 [^26]: A 3. § (4) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^27]: A 3. § (5) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^28]: A 3. § (6) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^29]: A 3. § (7) bekezdését a 259/2021. (V. 20.) Korm. rendelet 22. §-a iktatta be.
