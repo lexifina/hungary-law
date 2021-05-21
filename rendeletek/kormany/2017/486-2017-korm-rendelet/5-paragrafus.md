@@ -6,4 +6,6 @@ a) a közlekedési igazgatási hatóságnál a megkülönböztető vagy figyelme
 
 b) hogy a hatósági engedélyhez kötött felszereléshez szükséges engedéllyel rendelkezik, továbbá
 
-c) a megkülönböztető jelzésre vonatkozóan – a meghosszabbítás kivételével – azt, hogy a jármű megkülönböztető jelzéssel felszerelten történő műszaki megvizsgálására sor került.
+c)[^2] a megkülönböztető jelzésre vonatkozóan, hogy a jármű műszaki megvizsgálására megkülönböztető jelzéssel felszerelten került sor.
+
+[^2]: A 5. § c) pontja a 259/2021. (V. 20.) Korm. rendelet 44. §-ával megállapított szöveg.
