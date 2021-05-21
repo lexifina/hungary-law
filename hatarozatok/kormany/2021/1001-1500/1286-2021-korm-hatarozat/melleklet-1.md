@@ -14,6 +14,8 @@
 
 ## Határidő: azonnal
 
-## 2. A Haladás Sportkomplexum Fejlesztő Nonprofit Korlátolt Felelősségű Társaság önkormányzati tulajdonú társasági részesedésének állam javára történő megszerzéséről szóló 1012/2021. (I. 22.) Korm. határozat 3. pontjában a „2021. február 28.” szövegrész helyébe az „azonnal” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1286/2021. (V. 20.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
