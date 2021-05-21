@@ -1,0 +1,3 @@
+## 42. § A nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló 418/2016. (XII. 14.) Korm. rendelet 1. melléklete a 3. melléklet szerint módosul.
+
+## 15. A megkülönböztető és figyelmeztető jelzés felszerelésével, engedélyezésével, használatával és visszavonásával kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokról szóló 486/2017. (XII. 29.) Korm. rendelet módosítása
