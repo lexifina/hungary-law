@@ -1,3 +1,0 @@
-10. § (1) Az ajánlatkérőnek lehetőség szerint legalább három gazdasági szereplőt kell ajánlattételre felhívnia. Az ajánlatkérő egy ajánlatot is bekérhet, ha a beszerzés tárgya a beszerzés tárgyának műszaki-technikai sajátosságai, a nemzetbiztonsági érdek fokozott védelme vagy kizárólagos jogok védelme miatt csak egy meghatározott gazdasági szereplőtől szerezhető be.
-
-(2) A beszerzési eljárás során az ajánlattevőkkel más ajánlattevőre, illetve annak ajánlatára vonatkozó információ nem közölhető. Ha a beszerzési eljárásban az ajánlatkérő tárgyalást tart, a tárgyalások során – az ajánlattevő megnevezése nélkül – az ajánlati árakról az ajánlattevőknek felvilágosítás adható.
