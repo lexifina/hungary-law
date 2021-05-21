@@ -10,4 +10,4 @@
 
 3. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^6]
 
-[^6]: A 3. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^6]: A 3. mellékletet a 259/2021. (V. 20.) Korm. rendelet 25. §-a hatályon kívül helyezte.

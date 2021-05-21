@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-63-20-2
 | 2015-10-16 | 2012-63-20-22.4 | 293/2015. (X. 8.) Korm. rendelet |
 | 2016-12-17 | 2012-63-20-22.5 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2019-01-01 | 2012-63-20-22.6 | 323/2018. (XII. 28.) Korm. rendelet |
+| 2021-05-21 | 2012-63-20-22.7 | 259/2021. (V. 20.) Korm. rendelet |
