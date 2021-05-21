@@ -22,6 +22,8 @@
 
 9. A kötelezett hat hónapot meghaladó külföldön tartózkodása (IV/4.)
 
+9a.[^8] A nemzetbiztonsági ellenőrzés alá eső munkakör megváltozására irányuló szándék esetén az új, nemzetbiztonsági ellenőrzés alá eső munkakörbe jelölés ténye és – szükség esetén – az új foglalkoztató szerv megnevezése (VI/1.)
+
 10. A kötelezett főfoglalkozáson kívüli jövedelmében, naptári évi bruttó 1 millió forintot meghaladó mértékű változás, annak forrása (VIII/2.)
 
 11. A kötelezett pénzintézetekkel szemben fennálló tartozásaiban, pénzügyi kötelezettségeiben naptári évi 1 millió forintot meghaladó mértékű változás (VIII/3., IX/18.)
@@ -58,3 +60,4 @@
 
 [^6]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: Az 1. melléklet a 375/2020. (VII. 30.) Korm. rendelet 91. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet 9a. pontját a 259/2021. (V. 20.) Korm. rendelet 42. §-a iktatta be.
