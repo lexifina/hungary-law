@@ -14,11 +14,11 @@ ca) nem áll felszámolási, végelszámolási, kényszertörlési eljárás vag
 
 cb) megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában foglalt követelményeknek, és
 
-cc) vállalja, hogy a támogatott tevékenységét legalább 2020. december 31-éig folytatja; valamint
+cc)[^9] vállalja, hogy a támogatott tevékenységét legalább tárgyév december 31-éig folytatja; valamint
 
 d) a támogatási kérelem benyújtásával egyidejűleg nyilatkozik
 
-da)[^9] arról, hogy közép-, illetve nagyvállalkozóként 2019. december 31-én nem minősült nehéz helyzetben lévő vállalkozásnak, vagy arról, hogy mikro- és kisvállalkozásként nem részesült az „Iránymutatás a nehéz helyzetben lévő, nem pénzügyi vállalkozásoknak nyújtott megmentési és szerkezetátalakítási állami támogatásról” című, 2014. július 31-i 2014/C 246/01 számú bizottsági közlemény szerinti megmentési támogatásban vagy szerkezetátalakítási támogatásban,
+da)[^10] arról, hogy közép-, illetve nagyvállalkozóként 2019. december 31-én nem minősült nehéz helyzetben lévő vállalkozásnak, vagy arról, hogy mikro- és kisvállalkozásként nem részesült az „Iránymutatás a nehéz helyzetben lévő, nem pénzügyi vállalkozásoknak nyújtott megmentési és szerkezetátalakítási állami támogatásról” című, 2014. július 31-i 2014/C 246/01 számú bizottsági közlemény szerinti megmentési támogatásban vagy szerkezetátalakítási támogatásban,
 
 db) a 20/2020. (VI. 19.) AM rendelet hatálya alá nem tartozó támogatási program vagy egyedi támogatás alapján általa és a vele kapcsolt vállalkozásnak minősülő vállalkozások által korábban már igénybe vett egyéb átmeneti támogatás összegéről euróban kifejezve,
 
@@ -29,4 +29,5 @@ dd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító 
 de) a c) pontban foglaltakról.
 
 [^8]: A 4. § b) pontja a 9/2021. (III. 12.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^9]: A 4. § d) pont da) alpontja a 9/2021. (III. 12.) AM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § c) pont cc) alpontja a 21/2021. (V. 20.) AM rendelet 11. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § d) pont da) alpontja a 9/2021. (III. 12.) AM rendelet 7. § (2) bekezdésével megállapított szöveg.

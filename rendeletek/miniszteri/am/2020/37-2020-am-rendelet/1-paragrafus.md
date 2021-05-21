@@ -4,7 +4,7 @@
 
 1. átmeneti támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősülő és az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i 2020/C 91 I/01. számú európai bizottsági közlemény 3.1. pontja szerinti támogatás;
 
-2.[^1] fenyőnövény: erdészeti szaporítóanyagnak vagy dísznövénynek nem minősülő, tőtől elválasztott módon, kereskedelmi forgalomba hozatal céljából termesztett, életképes közönséges lucfenyő (Picea abies), szerb luc (Picea omorika), jegenyefenyő (Abies alba mil), ezüstfenyő (Picea pungens glauca), fekete fenyő (Pinus nigra) vagy duglászfenyő (Pseudotsuga menziesii);
+2.[^1] fenyőnövény: erdészeti szaporítóanyagnak vagy dísznövénynek nem minősülő, tőtől elválasztott módon, kereskedelmi forgalomba hozatal céljából termesztett, életképes közönséges lucfenyő (Picea abies), szerb luc (Picea omorika), az Abies nemzetség fajai, ezüstfenyő (Picea pungens glauca), fekete fenyő (Pinus nigra) vagy duglászfenyő (Pseudotsuga menziesii);
 
 3.[^2]
 
@@ -18,7 +18,7 @@
 
 8.[^5] tárgyév: a támogatási kérelem benyújtásának naptári éve.
 
-[^1]: Az 1. § 2. pontja a 9/2021. (III. 12.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § 2. pontja a 9/2021. (III. 12.) AM rendelet 5. § (1) bekezdésével megállapított, a 21/2021. (V. 20.) AM rendelet 11. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § 3. pontját a 9/2021. (III. 12.) AM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § 5. pontja a 9/2021. (III. 12.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 6. pontját a 9/2021. (III. 12.) AM rendelet 11. § a) pontja hatályon kívül helyezte.
