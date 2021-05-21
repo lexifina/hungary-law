@@ -1,5 +1,5 @@
 ## 21. § Ez a rendelet 2020. szeptember 1-jén lép hatályba.
 
-22. §[^33]
+22. §[^34]
 
-[^33]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
