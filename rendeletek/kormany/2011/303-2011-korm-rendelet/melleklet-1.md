@@ -14,35 +14,35 @@
 
 | 4. | Budapest V. kerület, Batthyány-örökmécses | Budapest, Báthory u. és Hold u. kereszteződése |
 
-| 5. | Budapest V. kerület, Magyar Tudományos Akadémia | Budapest, Széchenyi István tér 9. |
+| 5. | Budapest V. kerület, Insula Lutherana – Evangélikus templom, gimnázium és múzeum | Budapest, Deák Ferenc tér 4. |
 
-| 6. | Budapest VI. kerület, Andrássy út 60. | Budapest, Andrássy út 60. |
+| 6. | Budapest V. kerület, Magyar Tudományos Akadémia | Budapest, Széchenyi István tér 9. |
 
-| 7. | Budapest VII. kerület, Wesselényi utcai Hősök temploma és Hősök sírkertje | Budapest, Dohány u. 2–4. |
+| 7. | Budapest VI. kerület, Andrássy út 60. | Budapest, Andrássy út 60. |
 
-| 8. | Budapest VIII. kerület, Corvin köz | Budapest, Corvin köz 1. – Corvin mozi épülete és a Corvin köz (az épületek által közrefogott terület) |
+| 8. | Budapest VII. kerület, Wesselényi utcai Hősök temploma és Hősök sírkertje | Budapest, Dohány u. 2–4. |
 
-| 9. | Budapest VIII. kerület, Ludovika Akadémia | Budapest, Ludovika tér 2. |
+| 9. | Budapest VIII. kerület, Corvin köz | Budapest, Corvin köz 1. – Corvin mozi épülete és a Corvin köz (az épületek által közrefogott terület) |
 
-| 10. | Budapest VIII. kerület, Trefort-kert | Budapest, Múzeum krt. 4. |
+| 10. | Budapest VIII. kerület, Ludovika Akadémia | Budapest, Ludovika tér 2. |
 
-| 11. | Budapest IX. kerület, Kálvin téri református templom, kripta és a Ráday Gyűjtemény | Budapest, Kálvin tér 7. és Ráday u. 28. |
+| 11. | Budapest VIII. kerület, Trefort-kert | Budapest, Múzeum krt. 4. |
 
-| 12. | Budapest XI. kerület, Budapesti Műszaki és Gazdaságtudományi Egyetem | Budapest, Műegyetem rakpart 3. |
+| 12. | Budapest IX. kerület, Kálvin téri református templom, kripta és a Ráday Gyűjtemény | Budapest, Kálvin tér 7. és Ráday u. 28. |
 
-| 13. | Budapest XI. kerület, Eötvös József Collegium | Budapest, Ménesi út 11–13. |
+| 13. | Budapest XI. kerület, Budapesti Műszaki és Gazdaságtudományi Egyetem | Budapest, Műegyetem rakpart 3. |
 
-| 14. | Cegléd, huszár- és páncélos laktanya | Cegléd, Szolnoki út 69. |
+| 14. | Budapest XI. kerület, Eötvös József Collegium | Budapest, Ménesi út 11–13. |
 
-| 15. | Csurgó, református kollégium és nagykönyvtár | Csurgó, Csokonai u. 24. és Széchenyi tér 9. |
+| 15. | Cegléd, huszár- és páncélos laktanya | Cegléd, Szolnoki út 69. |
 
-| 16. | Drégelypalánk, vár | Drégelypalánk |
+| 16. | Csurgó, református kollégium és nagykönyvtár | Csurgó, Csokonai u. 24. és Széchenyi tér 9. |
 
-| 17. | Fertőd, Esterházy-kastély | Fertőd, Joseph Haydn u. 2. |
+| 17. | Drégelypalánk, vár | Drégelypalánk |
 
-| 18. | Gödöllő, Grassalkovich-kastély | Gödöllő, Grassalkovich-kastély |
+| 18. | Fertőd, Esterházy-kastély | Fertőd, Joseph Haydn u. 2. |
 
-| 19. | Győr, a vár megmaradt részei | Győr, a történelmi belváros |
+| 19. | Gödöllő, Grassalkovich-kastély | Gödöllő, Grassalkovich-kastély |
 
 | 20. | Gyula, vár és honvédtiszti emlékhely | Gyula, Várkert 1. és Várkert |
 
@@ -54,60 +54,66 @@
 
 | 24. | Keszthely, Festetics-kastély és Georgikon | Keszthely, Kastély u. 1. és Bercsényi u. 65–67. |
 
-| 25. | Komárom, erődrendszer | Komárom, Duna-part 1. és Térffy Gyula u., valamint Sport u. |
+| 25. | Kiskőrös, Petőfi Emlékmúzeum és Szülőház | Kiskőrös, Petőfi Sándor tér 5. |
 
-| 26. | Kőszeg, vár | Kőszeg, Rajnis József u. 9. |
+| 26. | Komárom, erődrendszer | Komárom, Duna-part 1. és Térffy Gyula u., valamint Sport u. |
 
-| 27. | Máriapócs, kegytemplom és bazilita monostor | Máriapócs, Kossuth tér 25. |
+| 27. | Kőszeg, vár | Kőszeg, Rajnis József u. 9. |
 
 | 28. | Mezőtúr, református kollégium és könyvtár | Mezőtúr, Kossuth Lajos út 2. |
 
 | 29. | Miskolc, diósgyőri vár | Miskolc, Vár u. 24. |
 
-| 30. | Mosonmagyaróvár, a határőrlaktanya előtti tér | Mosonmagyaróvár, Határőr u. 10. előtti tér |
+| 30. | Monok, Kossuth Emlékmúzeum | Monok, Kossuth Lajos utca 18. |
 
-| 31. | Muhi, Muhi Csata Emlékmű | Muhi, a település határában, a 35-ös főút mellett |
+| 31. | Mosonmagyaróvár, a határőrlaktanya előtti tér | Mosonmagyaróvár, Határőr u. 10. előtti tér |
 
-| 32. | Nyírbátor, a Báthori-várkastély fogadópalotája és a református templom | Nyírbátor, Vár u. 1. és Báthori István u. 22. |
+| 32. | Muhi, Muhi Csata Emlékmű | Muhi, a település határában, a 35-ös főút mellett |
 
-| 33. | Pápa, református kollégium és ótemplom | Pápa, Petőfi Sándor u. 13. és Fő u. 6. |
+| 33. | Nyírbátor, a Báthori-várkastély fogadópalotája és a református templom | Nyírbátor, Vár u. 1. és Báthori István u. 22. |
 
-| 34. | Pécs, székesegyház, püspöki palota és a középkori egyetem | Pécs, Szent István tér 23. és a székesegyház, valamint az Aradi vértanúk útja közötti terület |
+| 34. | Őrtilos, Zrínyi-Újvár romjai, egykori területe | Őrtilos, a 0427/1 helyrajzi számú ingatlan |
 
-| 35. | Pócspetri, Polgármesteri Hivatal épülete | Pócspetri, Iskola u. 13. |
+| 35. | Pápa, református kollégium és ótemplom | Pápa, Petőfi Sándor u. 13. és Fő u. 6. |
 
-| 36. | Recsk, egykori munkatábor | Recsk, Kőbányai út |
+| 36. | Pécs, székesegyház, püspöki palota és a középkori egyetem | Pécs, Szent István tér 23. és a székesegyház, valamint az Aradi vértanúk útja közötti terület |
 
-| 37. | Salgótarján, December 8. tér | Salgótarján, December 8. tér |
+| 37. | Pócspetri, Polgármesteri Hivatal épülete | Pócspetri, Iskola u. 13. |
 
-| 38. | Sárospatak, vár, református kollégium és nagykönyvtár | Sárospatak, Szent Erzsébet út 19. és Rákóczi u. 1. |
+| 38. | Recsk, egykori munkatábor | Recsk, Kőbányai út |
 
-| 39. | Sárvár, vár | Sárvár, Várkerület u. 1. |
+| 39. | Romhányi csatamező | Romhány, Kossuth Lajos út 1107 helyrajzi számú ingatlan |
 
-| 40. | Sopron, Tűztorony | Sopron, Fő tér |
+| 40. | Salgótarján, December 8. tér | Salgótarján, December 8. tér |
 
-| 41. | Sóly, református templom | Sóly, Árpád köz 1. |
+| 41. | Sárospatak, vár, református kollégium és nagykönyvtár | Sárospatak, Szent Erzsébet út 19. és Rákóczi u. 1. |
 
-| 42. | Szarvas, a történelmi Magyarország földrajzi középpontja és Trianon-emlékhely | Szarvas, Malom u. |
+| 42. | Sárvár, vár | Sárvár, Várkerület u. 1. |
 
-| 43. | Szatmárcseke, Kölcsey-kúria helye | Szatmárcseke, Kölcsey-kúria helye |
+| 43. | Sopron, Tűztorony | Sopron, Fő tér |
 
-| 44. | Sátoraljaújhely-Széphalom, Kazinczy Emlékcsarnok | Sátoraljaújhely-Széphalom, Kazinczy u. 275. |
+| 44. | Sóly, református templom | Sóly, Árpád köz 1. |
 
-| 45. | Szeged, Dóm tér és a Szegedi Tudományegyetem Auditórium Maximum épülete | Szeged, Dóm tér és Egyetem u. 2. |
+| 45. | Szarvas, a történelmi Magyarország földrajzi középpontja és Trianon-emlékhely | Szarvas, Malom u. |
 
-| 46. | Szécsény, Forgách-kastély és a ferences kolostor | Szécsény, Ady Endre út 7. és Haynald u. 9. |
+| 46. | Szatmárcseke, Kölcsey-kúria helye | Szatmárcseke, Kölcsey-kúria helye |
 
-| 47. | Tatabánya, Turul emlékmű | Tatabánya, Kő-hegy |
+| 47. | Sátoraljaújhely-Széphalom, Kazinczy Emlékcsarnok | Sátoraljaújhely-Széphalom, Kazinczy u. 275. |
 
-| 48. | Tihany, bencés apátság | Tihany, I. András tér 1. |
+| 48. | Szeged, Dóm tér és a Szegedi Tudományegyetem Auditórium Maximum épülete | Szeged, Dóm tér és Egyetem u. 2. |
 
-| 49. | Vác, Hétkápolna és honvédemlékmű | Vác, Derecske dűlő 2. és a Szent László út – Gödöllői út kereszteződése |
+| 49. | Szécsény, Forgách-kastély és a ferences kolostor | Szécsény, Ady Endre út 7. és Haynald u. 9. |
 
-| 50. | Veszprém, Vár utca | Veszprém, Vár u. |
+| 50. | Tatabánya, Turul emlékmű | Tatabánya, Kő-hegy |
 
-| 51. | Visegrád, vár | Visegrád, Várhegy és Fő u. 23–43. |
+| 51. | Tihany, bencés apátság | Tihany, I. András tér 1. |
 
-| 52. | Vizsoly, református templom | Vizsoly, Szent János u. 80. |
+| 52. | Vác, Hétkápolna, honvédemlékmű és a rabtemető | Vác, Derecske dűlő 2., a Szent László út – Gödöllői út kereszteződése, valamint az 1769 helyrajzi számú ingatlan |
 
-[^1]: Az 1. melléklet a 167/2018. (IX. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+| 53. | Veszprém, Vár utca | Veszprém, Vár u. |
+
+| 54. | Visegrád, vár | Visegrád, Várhegy és Fő u. 23–43. |
+
+| 55. | Vizsoly, református templom | Vizsoly, Szent János u. 80. |
+
+[^1]: Az 1. melléklet a 263/2021. (V. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
