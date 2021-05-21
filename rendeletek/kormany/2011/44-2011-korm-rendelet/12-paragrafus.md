@@ -6,10 +6,10 @@
 
 (3) Az ellenőrzés kiterjed a 13. § (1) bekezdésben foglaltak vizsgálatára is.
 
-(4)[^33] A Magyar Honvédség, az autonóm államigazgatási szervek, valamint a Kttv. 2. §-ában meghatározott szervek kivételével a Kedvezményezett a BM rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekre és szolgáltatásokra vonatkozóan köteles a tárgyévet követő év június 30-áig az irányító miniszternek, a Kormány irányítása alá tartozó Kedvezményezett a Kormányzati Ellenőrzési Hivatalnak megküldeni az 1. mellékletben meghatározott adatokat.
+(4)[^33] A Magyar Honvédség, valamint az 1. § (1a) bekezdésében foglalt szervezetek kivételével a Kedvezményezett a BM rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekre és szolgáltatásokra vonatkozóan köteles a tárgyévet követő év június 30-áig az irányító miniszternek, a Kormány irányítása alá tartozó Kedvezményezett a Kormányzati Ellenőrzési Hivatalnak megküldeni az 1. mellékletben meghatározott adatokat.
 
 (5)[^34] A Központi Ellátó Szerv jogosult a kedvezőbb ár benyújtására és a teljesítési határidők el nem fogadására tekintettel engedélyezett saját hatáskörben történő beszerzések megvalósulásának jogszerűsége ellenőrzése céljából a Kedvezményezettet adatszolgáltatás-kéréssel megkeresni. A Kedvezményezett az adatszolgáltatás-kérésnek a megkeresés kézhez vételétől számított 5 napon belül köteles eleget tenni.
 
 [^32]: A 12. § (2) bekezdése a 76/2020. (III. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^33]: A 12. § (4) bekezdését a 17/2013. (I. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 76/2020. (III. 31.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^33]: A 12. § (4) bekezdését a 17/2013. (I. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 76/2020. (III. 31.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 259/2021. (V. 20.) Korm. rendelet 24. §-a szerint módosított szöveg.
 [^34]: A 12. § (5) bekezdését a 76/2020. (III. 31.) Korm. rendelet 12. § (3) bekezdése iktatta be.

@@ -14,7 +14,15 @@ e) a Magyar Honvédség
 
 [a továbbiakban az a)–e) pontban meghatározottak együtt: Kedvezményezett] részére a büntetés-végrehajtásért felelős miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek irányában fennálló ellátási kötelezettségről, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekről és szolgáltatásokról, azok átadás-átvételéről és az ellentételezés rendjéről szóló BM rendeletben (a továbbiakban: BM rendelet) meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körében, a megkötött ellátási megállapodás vagy szerződés alapján, az e célra rendelkezésre bocsátott források erejéig ellátási kötelezettség terheli.
 
-(1a)[^2] E rendelet hatálya az autonóm államigazgatási szervekre, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 2. §-ában meghatározott szervekre abban az esetben terjed ki, ha a Központi Ellátó Szerv felé igénybejelentéssel élnek. Az autonóm államigazgatási szervekre, valamint a Kttv. 2. §-ában meghatározott szervekre e rendeletnek a Kedvezményezettekre vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy nem áll fenn kötelezettségük a Központi Ellátó Szerv megkeresésére.
+(1a)[^2] E rendelet hatálya
+
+a) az autonóm államigazgatási szervekre,
+
+b) a (3) bekezdésben foglalt kivétellel azon állami tulajdonú gazdasági társaságokra, amelyben az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti többségi befolyást gyakorol, valamint
+
+c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-ában meghatározott szervekre
+
+## abban az esetben terjed ki, ha a Központi Ellátó Szerv felé igénybejelentéssel élnek. Ezen szervezetekre e rendeletnek a Kedvezményezettekre vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy nem áll fenn kötelezettségük a Központi Ellátó Szerv megkeresésére.
 
 (1b)[^3] E rendeletet nem kell alkalmazni a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 1. § (6) bekezdés f) pontja szerinti beszerzési tárgy vagy a VBÜ rendelet 1. § (8) bekezdése szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog tekintetében, feltéve, hogy a VBÜ rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv a VBÜ rendelet szerinti eljárási cselekményei megtétele, illetve döntések meghozatala előtt a VBÜ rendelet 1. § (12) bekezdése szerinti előzetes egyeztetések eredményeképpen erről szóló döntést hozott. Az ilyen beszerzést az érintett szervezet a VBÜ rendelet szerinti Portálon kezdeményezi.
 
@@ -41,7 +49,7 @@ e) a Magyar Honvédség
 (8)[^11] A Kedvezményezett – az eseti igénybejelentések kivételével – köteles minden negyedév utolsó hónapjának 20. napjáig a következő negyedév ellátási igényeit megküldeni.
 
 [^1]: Az 1. § (1) bekezdése a 76/2020. (III. 31.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1a) bekezdését a 76/2020. (III. 31.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (1a) bekezdését a 76/2020. (III. 31.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 259/2021. (V. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^3]: Az 1. § (1b) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1. § (2) bekezdése a 286/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (2a) bekezdését a 286/2011. (XII. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be.
