@@ -1,3 +1,5 @@
+## 94/D. §[^555]
+
 95. § (1)[^556] Az ebben a fejezetben meghatározott kötelezettségeket a támogatást igénylő, illetve a kedvezményezett teljesíti, és azok teljesítését biztosítja akkor is, ha a Kbt. 29. §-a alapján nem ő minősül ajánlatkérőnek.
 
 (2)[^557] Az ebben a fejezetben meghatározott kötelezettségeket a támogatást igénylő, illetve a kedvezményezett akkor is teljesíti, ha a támogatásból megvalósuló közbeszerzést olyan szervezet folytatja le, amellyel a támogatást igénylő, illetve a kedvezményezett a Kbt. 9. § (1) bekezdés h)–i) pontja és (2) bekezdése alapján kötött szerződést.
@@ -8,6 +10,7 @@
 
 (5)[^560] Ha a kedvezményezett az e fejezetben foglalt kötelezettségeit nem, vagy nem megfelelően teljesíti, és a felelőssége szabálytalansági eljárás keretében megállapításra kerül, a támogatási szerződés szerinti támogatás egy része vagy egésze visszavonható. Ha a támogatási döntés előtt kerül megállapításra, hogy a támogatást igénylő a kötelezettségeit nem vagy nem megfelelően teljesíti, akkor az igényelthez képest csökkentett támogatás ítélhető meg részére.
 
+[^555]: A 94/D. §-t a 142/2021. (III. 24.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2021. (V. 18.) Korm. rendelet 532. § (1) bekezdés b) pontja.
 [^556]: A 95. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 13. § (4) bekezdésével megállapított, a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 7. pontja szerint módosított szöveg.
 [^557]: A 95. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 13. § (4) bekezdésével megállapított, a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 8. pontja szerint módosított szöveg.
 [^558]: A 95. § (3) bekezdése a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 9. pontja szerint módosított szöveg.
