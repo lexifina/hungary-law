@@ -8,6 +8,6 @@ b) a Hszt. 74. §-a szerinti esetben a miniszter által vezetett minisztériumna
 
 c) a Hszt. 75. §-a szerinti esetben a kifogástalan életvitel ellenőrzésének befejező napját követő tizenöt napon belül, ha az életvitel kifogásolható, akkor a felmentéssel egyidejűleg.
 
-(3)[^36] A Hszt. 73. § (3) bekezdése szerinti esetben a hivatásos állomány tagja részére a Hszt. szerinti illetményt és a Hszt. 76/A. §-ában meghatározott juttatást és költségtérítést a szünetelés befejező napjától számítva kell folyósítani.
+(3)[^46] A Hszt. 73. § (3) bekezdése szerinti esetben a hivatásos állomány tagja részére a Hszt. szerinti illetményt és a Hszt. 76/A. §-ában meghatározott juttatást és költségtérítést a szünetelés befejező napjától számítva kell folyósítani.
 
-[^36]: A 65. § (3) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^46]: A 65. § (3) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
