@@ -14,7 +14,7 @@ ba) ha a bíróság székhelye Budapesten van, az örökhagyó utolsó lakóhely
 
 bb) a ba) alpontba nem tartozó esetben a bíróság székhelye szerinti megyei igazgatóság;
 
-c)[^67] az a) és b) pontba nem tartozó esetben az örökhagyó utolsó belföldi lakóhelye, székhelye szerinti megyei igazgatóság, ennek hiányában az első helyen megjelölt vagyonszerző lakóhelye, székhelye szerint illetékes, a Magyar Állam öröklése esetén az állami adó- és vámhatóság vezetője által kijelölt megyei igazgatóság
+c)[^68] az a) és b) pontba nem tartozó esetben az örökhagyó utolsó belföldi lakóhelye, székhelye szerinti megyei igazgatóság, ennek hiányában az első helyen megjelölt vagyonszerző lakóhelye, székhelye szerint illetékes, a Magyar Állam öröklése esetén az állami adó- és vámhatóság vezetője által kijelölt megyei igazgatóság
 
 ## szabja ki.
 
@@ -28,7 +28,7 @@ b) amelynek illetékességi területén a szerződésben első helyen megjelölt
 
 (3) Ingó vagy ingatlanhoz nem kapcsolódó vagyoni értékű jog ajándékozása vagy visszterhes vagyonátruházási illeték alá eső megszerzése esetén az a megyei igazgatóság jár el, amelynek illetékességi területén a szerződésben első helyen feltüntetett szerző fél lakóhelye, ennek hiányában tartózkodási helye, illetve székhelye, ennek hiányában telephelye, illetve a tevékenység gyakorlásának helye [a továbbiakban együtt: lakóhely (székhely)] található. Ha az adózó belföldön nem letelepedett, akkor az illetéket az Észak-budapesti Adó- és Vámigazgatóság szabja ki.
 
-(4)[^68]
+(4)[^69]
 
 (5) Az érdekelt fél indokolt kérelmére az e rendeletben megállapított illetékességtől eltérően az állami adó- és vámhatóság vezetője az illeték kiszabására más megyei igazgatóságot is kijelölhet.
 
@@ -36,5 +36,5 @@ b) amelynek illetékességi területén a szerződésben első helyen megjelölt
 
 (7) Jogszabályi rendelkezés szerint kiállított bírósági értesítés alapján az eljárási illeték megfizetésére az a megyei igazgatóság hívja fel az adóst, amelynek illetékességi területén az adós lakóhelye (székhelye) van. Ha a bírósági értesítés alapján az illeték megfizetésére több adós egyetemlegesen kötelezett, akkor az illeték megfizetésére az a megyei igazgatóság hívja fel az egyetemlegesen kötelezett adóstársakat, amelynek illetékességi területén annak az adósnak a lakóhelye (székhelye) van, akinek a nevére kiállított bírósági értesítést az adóhatóság elsőként nyilvántartásba vette. Ha minden fizetésre kötelezettnek az ország területén kívül van a lakóhelye (székhelye), az illetéket az a megyei igazgatóság szabja ki, amelynek illetékességi területén az értesítést készítő szerv székhelye van.
 
-[^67]: A 29. § (1) bekezdés c) pontja a 670/2020. (XII. 28.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
-[^68]: A 29. § (4) bekezdését a 475/2017. (XII. 28.) Korm. rendelet 80. § 4. pontja hatályon kívül helyezte.
+[^68]: A 29. § (1) bekezdés c) pontja a 670/2020. (XII. 28.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
+[^69]: A 29. § (4) bekezdését a 475/2017. (XII. 28.) Korm. rendelet 80. § 4. pontja hatályon kívül helyezte.

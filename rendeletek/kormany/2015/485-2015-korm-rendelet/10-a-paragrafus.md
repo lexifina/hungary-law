@@ -1,5 +1,5 @@
 ## 10. §
 
-## 7/A. [^29] Szokásos piaci ár megállapítása
+## 7/A. [^30] Szokásos piaci ár megállapítása
 
-[^29]: A 7/A. alcímet (10/A. §) a 481/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^30]: A 7/A. alcímet (10/A. §) a 481/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.

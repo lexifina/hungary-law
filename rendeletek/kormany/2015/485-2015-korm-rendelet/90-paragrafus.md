@@ -1,4 +1,4 @@
-## 89. §[^180] Az előkészítő eljárást vagy a nyomozást folytató bűnügyi igazgatóság az illetékességi területén kívül eljárási cselekményt a Bűnügyi Főigazgatóság és az illetékes bűnügyi igazgatóság egyidejűleg történő, előzetes értesítése mellett végezhet. Halasztást nem tűrő esetben végzett eljárási cselekményről, illetve ha a tájékoztatás megtétele a szükséges eljárási cselekmény eredményességét, időszerűségét veszélyezteti, az értesítést utólag haladéktalanul meg kell tenni.
+## 89. §[^181] Az előkészítő eljárást vagy a nyomozást folytató bűnügyi igazgatóság az illetékességi területén kívül eljárási cselekményt a Bűnügyi Főigazgatóság és az illetékes bűnügyi igazgatóság egyidejűleg történő, előzetes értesítése mellett végezhet. Halasztást nem tűrő esetben végzett eljárási cselekményről, illetve ha a tájékoztatás megtétele a szükséges eljárási cselekmény eredményességét, időszerűségét veszélyezteti, az értesítést utólag haladéktalanul meg kell tenni.
 
 ## VII. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## 29. A Bevetési Igazgatóság hatásköre
 
-90. § (1)[^181] A Bevetési Igazgatóság
+90. § (1)[^182] A Bevetési Igazgatóság
 
 a) – az adóellenőrzés és a Vtv. szerinti áruk ellenőrzése kivételével – ellátja a NAV hatáskörébe tartozó jogszabálysértések megelőzése és felderítése érdekében az állami adó- és vámhatóság feladatát meghatározó jogszabályokban előírt helyszíni ellenőrzéseket és egyéb helyszíni eljárási cselekményeket, így különösen az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 82. §-a szerinti ellenőrzéseket, valamint a jogkövetési vizsgálatokat, továbbá ellenőrzi a pénztárgépek üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek teljesítését;
 
@@ -18,7 +18,7 @@ d) ellátja az eljárása során észlelt bűncselekmény gyanúja esetén a hel
 
 e) az állami adó- és vámhatóság vezetőjének bűnügyi, vámszakmai és rendészeti feladatai ellátásért felelős szakmai helyettesének egyedi engedélyével közreműködik a megyei adó- és vámigazgatóságokon, azok határátkelőhelyein, valamint a Repülőtéri Igazgatóságnál felmerülő egyes feladatok ellátásában.
 
-(2)[^182] Kizárólag a Bevetési Igazgatóság végzi
+(2)[^183] Kizárólag a Bevetési Igazgatóság végzi
 
 a) a fémkereskedőnek nem minősülő személy helyszíni eljárást igénylő fémkereskedelmi hatósági ellenőrzését;
 
@@ -40,11 +40,11 @@ i) a NAV tv. 36/E. § (3) bekezdése alapján meghatározott feladatokat;
 
 j) a NAV tulajdonát képező fegyverzeti és rendészettechnikai eszközök kezelését a NAV Országos Fegyverzeti Raktárban.
 
-(3)[^183]
+(3)[^184]
 
-(4)[^184] A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
+(4)[^185] A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
 
-(5)[^185] A Bevetési Igazgatóság folytatja le
+(5)[^186] A Bevetési Igazgatóság folytatja le
 
 a) a Jöt. szerinti gyorsított eljárást az általa felderített jogsértések esetén;
 
@@ -54,15 +54,15 @@ c) a közúti közlekedésről szóló 1988. évi I. törvény alapján végzett
 
 d) az általa felderített, a NAV hatáskörébe tartozó szabálysértések tekintetében a szabálysértési eljárást, ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja.
 
-(6)[^186]
+(6)[^187]
 
-(7)[^187]
+(7)[^188]
 
-[^180]: A 89. § a 311/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^181]: A 90. § (1) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^182]: A 90. § (2) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^183]: A 90. § (3) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
-[^184]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^185]: A 90. § (5) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^186]: A 90. § (6) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
-[^187]: A 90. § (7) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
+[^181]: A 89. § a 311/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^182]: A 90. § (1) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^183]: A 90. § (2) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^184]: A 90. § (3) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
+[^185]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^186]: A 90. § (5) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^187]: A 90. § (6) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
+[^188]: A 90. § (7) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.

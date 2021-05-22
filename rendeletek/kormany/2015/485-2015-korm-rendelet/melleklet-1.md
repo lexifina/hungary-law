@@ -1,4 +1,4 @@
-## 99. §[^205]
+## 99. §[^206]
 
 1. melléklet a 485/2015. (XII. 29.) Korm. rendelethez
 
@@ -18,7 +18,7 @@ B) A Nemzeti Adó- és Vámhivatal területi szervei
 
 3. A Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága, székhelye Budapest.
 
-4.[^206] A Nemzeti Adó- és Vámhivatal Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12; továbbá nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légi közlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
+4.[^207] A Nemzeti Adó- és Vámhivatal Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12; továbbá nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légi közlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
 
 5. A Nemzeti Adó- és Vámhivatal Bevetési Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
@@ -36,15 +36,15 @@ d) a Nemzeti Adó- és Vámhivatal Pest Megyei Adó- és Vámigazgatósága, sz�
 
 e) a Nemzeti Adó- és Vámhivatal Bács-Kiskun Megyei Adó- és Vámigazgatósága, székhelye Kecskemét, illetékességi területe Bács-Kiskun megye közigazgatási területe;
 
-f)[^207] a Nemzeti Adó- és Vámhivatal Baranya Megyei Adó- és Vámigazgatósága, székhelye Pécs, illetékességi területe – e rendeletben meghatározott eltérésekkel – Baranya megye közigazgatási területe;
+f)[^208] a Nemzeti Adó- és Vámhivatal Baranya Megyei Adó- és Vámigazgatósága, székhelye Pécs, illetékességi területe – e rendeletben meghatározott eltérésekkel – Baranya megye közigazgatási területe;
 
 g) a Nemzeti Adó- és Vámhivatal Békés Megyei Adó- és Vámigazgatósága, székhelye Békéscsaba, illetékességi területe Békés megye közigazgatási területe;
 
 h) a Nemzeti Adó- és Vámhivatal Borsod-Abaúj-Zemplén Megyei Adó- és Vámigazgatósága, székhelye Miskolc, illetékességi területe Borsod-Abaúj-Zemplén megye közigazgatási területe;
 
-i)[^208] a Nemzeti Adó- és Vámhivatal Csongrád-Csanád Megyei Adó- és Vámigazgatósága, székhelye Szeged, illetékességi területe – e rendeletben meghatározott eltérésekkel – Csongrád-Csanád megye közigazgatási területe;
+i)[^209] a Nemzeti Adó- és Vámhivatal Csongrád-Csanád Megyei Adó- és Vámigazgatósága, székhelye Szeged, illetékességi területe – e rendeletben meghatározott eltérésekkel – Csongrád-Csanád megye közigazgatási területe;
 
-j)[^209] a Nemzeti Adó- és Vámhivatal Fejér Megyei Adó- és Vámigazgatósága, székhelye Székesfehérvár, illetékességi területe – e rendeletben meghatározott eltérésekkel – Fejér megye közigazgatási területe;
+j)[^210] a Nemzeti Adó- és Vámhivatal Fejér Megyei Adó- és Vámigazgatósága, székhelye Székesfehérvár, illetékességi területe – e rendeletben meghatározott eltérésekkel – Fejér megye közigazgatási területe;
 
 k) a Nemzeti Adó- és Vámhivatal Győr-Moson-Sopron Megyei Adó- és Vámigazgatósága székhelye Győr, illetékességi területe Győr-Moson-Sopron megye közigazgatási területe;
 
@@ -72,7 +72,7 @@ v) a Nemzeti Adó- és Vámhivatal Zala Megyei Adó- és Vámigazgatósága szé
 
 8. A Nemzeti Adó- és Vámhivatal bűnügyi igazgatóságai:
 
-a)[^210] a Nemzeti Adó- és Vámhivatal Dél-alföldi Bűnügyi Igazgatósága, székhelye Kecskemét, illetékességi területe Bács-Kiskun megye, Békés megye és Csongrád-Csanád megye közigazgatási területe;
+a)[^211] a Nemzeti Adó- és Vámhivatal Dél-alföldi Bűnügyi Igazgatósága, székhelye Kecskemét, illetékességi területe Bács-Kiskun megye, Békés megye és Csongrád-Csanád megye közigazgatási területe;
 
 b) a Nemzeti Adó- és Vámhivatal Dél-dunántúli Bűnügyi Igazgatósága, székhelye Pécs, illetékességi területe Baranya megye, Somogy megye és Tolna megye közigazgatási területe;
 
@@ -90,9 +90,9 @@ g) a Nemzeti Adó- és Vámhivatal Nyugat-dunántúli Bűnügyi Igazgatósága, 
 
 10. A Nemzeti Adó- és Vámhivatal Gazdasági Ellátó Igazgatósága, székhelye Budapest.
 
-[^205]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^206]: Az 1. melléklet B) rész 4. pontja a 475/2017. (XII. 28.) Korm. rendelet 80. § 7. pontja szerint módosított szöveg.
-[^207]: Az 1. melléklet B) cím 7. pont f) alpontja a 670/2020. (XII. 28.) Korm. rendelet 17. § q) pontja szerint módosított szöveg.
-[^208]: Az 1. melléklet B) cím 7. pont i) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § c) pont ca) és cb) alpontja, a 670/2020. (XII. 28.) Korm. rendelet 17. § r) pontja szerint módosított szöveg.
-[^209]: Az 1. melléklet B) cím 7. pont j) alpontja a 670/2020. (XII. 28.) Korm. rendelet 17. § s) pontja szerint módosított szöveg.
-[^210]: Az 1. melléklet B) rész 8. pont a) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § d) pontja szerint módosított szöveg.
+[^206]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^207]: Az 1. melléklet B) rész 4. pontja a 475/2017. (XII. 28.) Korm. rendelet 80. § 7. pontja szerint módosított szöveg.
+[^208]: Az 1. melléklet B) cím 7. pont f) alpontja a 670/2020. (XII. 28.) Korm. rendelet 17. § q) pontja szerint módosított szöveg.
+[^209]: Az 1. melléklet B) cím 7. pont i) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § c) pont ca) és cb) alpontja, a 670/2020. (XII. 28.) Korm. rendelet 17. § r) pontja szerint módosított szöveg.
+[^210]: Az 1. melléklet B) cím 7. pont j) alpontja a 670/2020. (XII. 28.) Korm. rendelet 17. § s) pontja szerint módosított szöveg.
+[^211]: Az 1. melléklet B) rész 8. pont a) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § d) pontja szerint módosított szöveg.

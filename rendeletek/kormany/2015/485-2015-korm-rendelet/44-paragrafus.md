@@ -1,6 +1,6 @@
-## 43. §[^96]
+## 43. §[^97]
 
-44. § (1)[^97] Jövedéki ügyben az eljárást
+44. § (1)[^98] Jövedéki ügyben az eljárást
 
 a) az engedélyes, – az e) pontban foglalt kivétellel – a nyilvántartásba vett személy és a hivatalos zár felhasználó telephelye,
 
@@ -14,7 +14,7 @@ e) a regisztrált szárított, illetve fermentált dohányt termelő, előállí
 
 szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi.
 
-(2)[^98] Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
+(2)[^99] Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
 
 a) az adóztatási,
 
@@ -30,9 +30,9 @@ e) a Jöt. 44. § (1) bekezdése, 47. §-a, 62. §-a és 69. §-a szerinti tevé
 
 (3) A dohánytermék-kiskereskedelmi piac felügyelete körében végzett ellenőrzést a dohánybolt vagy elkülönített hely fekvése, illetve a jogosulatlan tevékenység végzésének helye szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
 
-(4)[^99] A dohánytermékek nyomonkövethetőségéről és biztonsági eleméről szóló 72/2018. (IV. 16.) Korm. rendelet szerinti kötelezettségek ellenőrzését az ellenőrzött telephelye, üzlete szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
+(4)[^100] A dohánytermékek nyomonkövethetőségéről és biztonsági eleméről szóló 72/2018. (IV. 16.) Korm. rendelet szerinti kötelezettségek ellenőrzését az ellenőrzött telephelye, üzlete szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
 
-[^96]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
-[^97]: A 44. § (1) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^98]: A 44. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^99]: A 44. § (4) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^97]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
+[^98]: A 44. § (1) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^99]: A 44. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^100]: A 44. § (4) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
