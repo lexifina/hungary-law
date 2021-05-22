@@ -1,0 +1,1 @@
+## 10. § Az egyes állatok szaporításának, a szaporítóanyag felhasználásának, valamint behozatalának és kivitelének állategészségügyi feltételeiről szóló 61/2002. (VIII. 1.) FVM rendelet 1. számú melléklet 6. pontjában a „minden termelési szériájának” szövegrész helyébe az „első termelési szériájának” szöveg lép.
