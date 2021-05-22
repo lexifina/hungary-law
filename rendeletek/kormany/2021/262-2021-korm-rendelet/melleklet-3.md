@@ -34,8 +34,6 @@
 
 | 16. | 234860.37 | 646928.75 |
 
-3. melléklet a 262/2021. (V. 20.) Korm. rendelethez
+3. melléklet a 262/2021. (V. 20.) Korm. rendelethez[^2]
 
-A Kr. 3. melléklete a következő 43. ponttal egészül ki:
-
-„43. a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet szerinti beruházás.”
+[^2]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

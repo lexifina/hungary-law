@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet 2. mellékletében foglalt táblázat 27. sora.
+## 11–12. §[^1]
 
 1. melléklet a 262/2021. (V. 20.) Korm. rendelethez
 
@@ -51,3 +51,5 @@
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
