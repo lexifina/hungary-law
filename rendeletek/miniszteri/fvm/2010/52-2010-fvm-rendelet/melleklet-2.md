@@ -74,6 +74,6 @@
 
 | 6. | olajos magvak (olajütés) és gyümölcsök, zöldségek préselése, pasztörizálása | a szolgáltatást igénybe vevő kistermelő gazdaságának helye |
 
-2. melléklet az 52/2010. (IV. 30.) FVM rendelethez[^34]
+2. melléklet az 52/2010. (IV. 30.) FVM rendelethez[^37]
 
-[^34]: A 2. melléklet a 4/2010. (VII. 5.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. melléklet a 4/2010. (VII. 5.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

@@ -30,8 +30,11 @@
 
 15.[^9] Biztonságos hőkezelés: az a hőkezelési eljárás (sütés, főzés), amely legalább 2 percen át tartó 72 °C-os maghőmérsékletet, vagy az étel minden pontján legalább 75 °C-t biztosít.
 
+16.[^10] Engedélyezett ideiglenes árusító hely: olyan időszakos árusító hely, amelynek működését a terület használatára jogosult engedélyezte.
+
 [^5]: A 2. § 11. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § 12. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § 13. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § 14. pontja a 42/2017. (VIII. 17.) FM rendelet 156. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § 15. pontját a 4/2010. (VII. 5.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 2. § 16. pontját a 20/2021. (V. 17.) AM rendelet 15. § (1) bekezdése iktatta be.
