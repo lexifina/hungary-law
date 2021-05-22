@@ -54,7 +54,7 @@ A Campylobacter fetus ssp. venerealis és Trichomonas foetus vonatkozásában a 
 
 5. Ha az előírt vizsgálatok során az állat pozitívnak bizonyul, azt el kell különíteni, és az utolsó negatív eredmény időpontjától termelt spermáját tilos felhasználni. A mesterséges termékenyítő állomáson tartott, negatív vizsgálati eredményt adó bikáktól vett spermát a pozitív eredményt adó vizsgálat időpontjától elkülönítve kell tárolni, és tilos használni, amíg a mesterséges termékenyítő állomás állategészségügyi státuszát helyre nem állítják.
 
-6. BVD/MD vonatkozásában szerológiailag pozitív állatoktól származó sperma szállításának megkezdése előtt minden állat minden termelési szériájának egy spermamintáját a BVD/MD szempontjából vírusizolációs vagy a vírusantigén kimutatását célzó ELISA-tesztnek kell alávetni. Pozitív eredmény esetén a bikát el kell távolítani a mesterséges termékenyítő állomásról és minden spermáját meg kell semmisíteni.
+6.[^68] BVD/MD vonatkozásában szerológiailag pozitív állatoktól származó sperma szállításának megkezdése előtt minden állat első termelési szériájának egy spermamintáját a BVD/MD szempontjából vírusizolációs vagy a vírusantigén kimutatását célzó ELISA-tesztnek kell alávetni. Pozitív eredmény esetén a bikát el kell távolítani a mesterséges termékenyítő állomásról és minden spermáját meg kell semmisíteni.
 
 7. A szaporítóanyag-termelésből és a köztenyésztésben való fedeztetésből ki kell zárni azt a hímivarú egyedet, amelyiknél az előírt vizsgálatok közül valamelyik pozitív eredményt adott.
 
@@ -68,7 +68,7 @@ c) az embrió előállításához felhasznált sperma megfelel az állattenyész
 
 9. Az állatokat csak a mesterséges termékenyítő állomás állategészségügyi szakmai felügyeletét ellátó állatorvos kifejezett hozzájárulásával lehet bebocsátani a mesterséges termékenyítő állomásra, ahol valamennyi be- és kifelé irányuló állatmozgást nyilván kell tartani.
 
-10.[^68] Amennyiben a bika megfelel az 1–4. pontokban leírt feltételeknek, közvetlen szállítás esetén, a fogadás helye szerint illetékes járási hivatal engedélyével elkülönítés vagy vizsgálatok végzése nélkül lehet átszállítani valamely engedélyezett mesterséges termékenyítő állomásról egy másik, ugyanolyan egészségügyi minősítésű állomásra. Az érintett állat nem kerülhet sem közvetlen, sem közvetett érintkezésbe más, kedvezőtlenebb egészségügyi minősítésű hasított körmű állattal, az igénybe vett szállítási eszközt pedig használat előtt fertőtleníteni kell. Ha az állatokat az egyik mesterséges termékenyítő állomásról egy másik ugyanilyen funkciót ellátó létesítménybe különböző tagállamok között szállítják, annak a szarvasmarhafélék és a sertések Közösségen belüli kereskedelmét érintő állat-egészségügyi problémákról szóló 1964. június 26-i 64/432/EGK tanácsi irányelvvel összhangban kell történnie.
+10.[^69] Amennyiben a bika megfelel az 1–4. pontokban leírt feltételeknek, közvetlen szállítás esetén, a fogadás helye szerint illetékes járási hivatal engedélyével elkülönítés vagy vizsgálatok végzése nélkül lehet átszállítani valamely engedélyezett mesterséges termékenyítő állomásról egy másik, ugyanolyan egészségügyi minősítésű állomásra. Az érintett állat nem kerülhet sem közvetlen, sem közvetett érintkezésbe más, kedvezőtlenebb egészségügyi minősítésű hasított körmű állattal, az igénybe vett szállítási eszközt pedig használat előtt fertőtleníteni kell. Ha az állatokat az egyik mesterséges termékenyítő állomásról egy másik ugyanilyen funkciót ellátó létesítménybe különböző tagállamok között szállítják, annak a szarvasmarhafélék és a sertések Közösségen belüli kereskedelmét érintő állat-egészségügyi problémákról szóló 1964. június 26-i 64/432/EGK tanácsi irányelvvel összhangban kell történnie.
 
 11. Az előírt állategészségügyi vizsgálatokat a NÉBIH központi állategészségügyi diagnosztikai laboratóriumában kell elvégezni az állat tulajdonosának költségére.
 
@@ -92,4 +92,5 @@ Közvetlenül az antibiotikum hígított spermához adását követően a sperm�
 [^65]: Az 1. számú melléklet 1. pontja a 42/2017. (VIII. 17.) FM rendelet 37. § b) pontja szerint módosított szöveg.
 [^66]: Az 1. számú melléklet 1. pont a) alpontja a 42/2017. (VIII. 17.) FM rendelet 37. § l) pontja szerint módosított szöveg.
 [^67]: Az 1. számú melléklet 1. pont b) alpontja a 151/2012. (XII. 29.) VM rendelet 11. § d) pontja szerint módosított szöveg.
-[^68]: Az 1. számú melléklet 10. pontja a 42/2017. (VIII. 17.) FM rendelet 37. § g) pontja szerint módosított szöveg.
+[^68]: Az 1. számú melléklet 6. pontja a 20/2021. (V. 17.) AM rendelet 10. §-a szerint módosított szöveg.
+[^69]: Az 1. számú melléklet 10. pontja a 42/2017. (VIII. 17.) FM rendelet 37. § g) pontja szerint módosított szöveg.

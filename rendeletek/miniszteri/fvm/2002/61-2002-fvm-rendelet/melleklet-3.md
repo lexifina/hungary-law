@@ -128,7 +128,7 @@
 
 ## 20. Embrióátültetésre csak a 2. és 10. pontban leírt állategészségügyi követelményeknek megfelelő donor és recipiens egyede használható.”
 
-3. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^70]
+3. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^71]
 
 ## A lófélék szaporításának részletes állat-egészségügyi feltételei
 
@@ -150,7 +150,7 @@ II. A ménekre vonatkozó feltételek
 
 1.4. az első spermavételt megelőző 30 napban és a spermagyűjtési időszakban nem használható természetes fedeztetésre;
 
-1.5.[^71] a felsorolt vizsgálatok tekintetében akkreditált és a hatóság által engedélyezett laboratóriumban az 1.6. alpontban meghatározott program szerint végrehajtott és tanúsított alábbi vizsgálatoknak kell alávetni:
+1.5.[^72] a felsorolt vizsgálatok tekintetében akkreditált és a hatóság által engedélyezett laboratóriumban az 1.6. alpontban meghatározott program szerint végrehajtott és tanúsított alábbi vizsgálatoknak kell alávetni:
 
 1.5.1. a ló fertőző kevésvérűségének kimutatására irányuló agargél- immundiffúziós próba (Coggins-próba) vagy ELISA-próba, negatív eredménnyel;
 
@@ -162,7 +162,7 @@ II. A ménekre vonatkozó feltételek
 
 1.5.3.2. a donor állattól történő mintavételt követő 48 órán belül elvégzett, a Taylorella equigenitalis vírusgenom kimutatására irányuló PCR vagy real-time PCR vizsgálat;
 
-1.6.[^72] el kell rajta végezni a következő vizsgálatok egyikét:
+1.6.[^73] el kell rajta végezni a következő vizsgálatok egyikét:
 
 1.6.1. ha a donor mén az első spermavétel időpontját megelőző legalább 30 napos időszakban és a gyűjtési időszakban folyamatosan a mesterséges termékenyítő állomáson tartózkodik, és az állomáson tartott lófélék nem kerülnek közvetlen érintkezésbe a donor mén egészségi állapotánál rosszabb egészségi állapotú lófélékkel, akkor a donor ménen az 1.5. alpontban előírt vizsgálatokat el kell végezni legalább évente egyszer a tenyészidőszak kezdetén vagy a friss, hűtött vagy fagyasztott állapotban kereskedelmi forgalomra szánt sperma első gyűjtése előtt a legalább 30 napos tartózkodási időszakban, a megérkezést követő 14 nap után vett mintán;
 
@@ -196,13 +196,13 @@ A spermagyűjtő állomáson egy, az 1.5. pontban előírt, negatív eredményt 
 
 III. A kancákra vonatkozó feltételek
 
-1.[^73] Az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló jogszabályban megállapított követelményeken kívül a donor kancák(on):
+1.[^74] Az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló jogszabályban megállapított követelményeken kívül a donor kancák(on):
 
 1.1. nem használhatók természetes fedeztetésre az embriók vagy petesejtek gyűjtésének időpontja előtti legalább 30 napos időszakban, valamint a 1.2. és 1.3. pontban említett első mintavétel időpontja és az embriók és petesejtek gyűjtésének időpontja között;
 
-1.2.[^74] a ló fertőző kevésvérűségének kimutatására irányuló agargél-immundiffúziós próbát (Coggins-próba) vagy ELISA-próbát kell végezni az 1.1. alpontban említett, legalább 30 napos időszak kezdeti időpontját követően legalább 14 nappal és a kereskedelmi forgalomra szánt petesejtek vagy embriók gyűjtésének időpontja előtt legfeljebb 90 nappal vett vérmintán, és a próba eredményének negatívnak kell lennie;
+1.2.[^75] a ló fertőző kevésvérűségének kimutatására irányuló agargél-immundiffúziós próbát (Coggins-próba) vagy ELISA-próbát kell végezni az 1.1. alpontban említett, legalább 30 napos időszak kezdeti időpontját követően legalább 14 nappal és a kereskedelmi forgalomra szánt petesejtek vagy embriók gyűjtésének időpontja előtt legfeljebb 90 nappal vett vérmintán, és a próba eredményének negatívnak kell lennie;
 
-1.3.[^75] minden esetben a vizsgálatra akkreditált és hatóság által engedélyezett laboratóriumban a lovak ragályos méhgyulladása kórokozójának kimutatására irányuló, negatív eredménnyel záruló vizsgálatot kell végezni a donor kancák esetleges antimikrobiális kezelése után legalább 7 nappal (szisztémás kezelés esetén) vagy legalább 21 nappal (helyi kezelés esetén), a donor kancáktól legalább a clitoris árkának és szinuszainak nyálkahártyás felületeiről tamponnal vett két mintán; a mintákat az 1.1. alpontban említett legalább 30 napos időszakban kell levenni az 1.3.1.1. alpontban említett vizsgálat esetében két alkalommal, legalább 7 nap eltéréssel, az 1.3.1.2. alpontban említett vizsgálat esetében pedig egy alkalommal; a mintákat a laboratóriumba való szállítás előtt aktív szenes szállítóközegbe, például Amies táptalajra kell helyezni;
+1.3.[^76] minden esetben a vizsgálatra akkreditált és hatóság által engedélyezett laboratóriumban a lovak ragályos méhgyulladása kórokozójának kimutatására irányuló, negatív eredménnyel záruló vizsgálatot kell végezni a donor kancák esetleges antimikrobiális kezelése után legalább 7 nappal (szisztémás kezelés esetén) vagy legalább 21 nappal (helyi kezelés esetén), a donor kancáktól legalább a clitoris árkának és szinuszainak nyálkahártyás felületeiről tamponnal vett két mintán; a mintákat az 1.1. alpontban említett legalább 30 napos időszakban kell levenni az 1.3.1.1. alpontban említett vizsgálat esetében két alkalommal, legalább 7 nap eltéréssel, az 1.3.1.2. alpontban említett vizsgálat esetében pedig egy alkalommal; a mintákat a laboratóriumba való szállítás előtt aktív szenes szállítóközegbe, például Amies táptalajra kell helyezni;
 
 1.3.1. a mintákon a következő vizsgálatok legalább egyikét el kell végezni:
 
@@ -210,9 +210,9 @@ III. A kancákra vonatkozó feltételek
 
 1.3.1.2. a donor állattól történő mintavételt követő 48 órán belül elvégzett, a Taylorella equigenitalis vírusgenom polimeráz láncreakcióval (PCR) vagy valós idejű polimeráz láncreakcióval (real-time PCR) való kimutatására irányuló vizsgálat.
 
-[^70]: A 3. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
-[^71]: A 3. számú melléklet II. fejezet 1. pont 1.5. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^72]: A 3. számú melléklet II. fejezet 1. pont 1.6. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^73]: A 3. számú melléklet III. fejezet 1. pontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdése szerint módosított szöveg.
-[^74]: A 3. számú melléklet III. fejezet 1. pont 1.2. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^75]: A 3. számú melléklet III. fejezet 1. pont 1.3. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^71]: A 3. számú melléklet a 114/2012. (XI. 13.) VM rendelet 13. §-ával megállapított szöveg.
+[^72]: A 3. számú melléklet II. fejezet 1. pont 1.5. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^73]: A 3. számú melléklet II. fejezet 1. pont 1.6. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^74]: A 3. számú melléklet III. fejezet 1. pontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^75]: A 3. számú melléklet III. fejezet 1. pont 1.2. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^76]: A 3. számú melléklet III. fejezet 1. pont 1.3. alpontja a 32/2014. (XII. 9.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
