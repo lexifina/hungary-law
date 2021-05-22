@@ -1,0 +1,9 @@
+# 17/2021. (V. 22.) KKM rendelet
+
+a védettségi igazolások egyoldalú elismeréséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-17-20-6Q
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-05-22 | 2021-17-20-6Q.1 | 17/2021. (V. 22.) KKM rendelet |
