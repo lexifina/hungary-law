@@ -8,12 +8,16 @@
 
 (4) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 64. § (2) bekezdése szerinti igazgatási jellegű szolgáltatásért (a továbbiakban: konzultáció) díjat kell fizetni. A fizetendő díj mértékét és számítási módját az 5. melléklet határozza meg.
 
-(5) A jogorvoslati eljárás díja – az (6) és (7) bekezdésben foglalt esetek kivételével – a (3) bekezdésben és az 1–4. mellékletben meghatározott díjtétel 50%-a.
+(5)[^2]
 
-(6) Az egységes környezethasználati engedélyezés hatálya alá tartozó tevékenységeknél, a környezeti hatásvizsgálat köteles tevékenységeknél és az előzetes vizsgálat esetén a természetes személyek által a jogorvoslati eljárásért fizetendő díj a (3) bekezdésben és az 1–4. mellékletben meghatározott díjtétel 1%-a.
+(6)[^3]
 
-(7) Civil szervezetek esetében, ha az engedélyezési eljárás nem a civil szervezet kérelmére indul, a jogorvoslati eljárás díja a (3) bekezdésben és az 1–4. mellékletben meghatározott díjtétel 1%-a.
+(7)[^4]
 
 (8) A kármentesítés műszaki beavatkozási terv esetében az igazgatási szolgáltatási díjfizetés alapja a kötelezett által a beruházásnak a beavatkozási tervben bemutatott költsége.
 
 (9) A kármentesítési eljárás több szakaszára egyidejűleg hozott döntés esetén az eljárási díjak összeadódnak.
+
+[^2]: A 2. § (5) bekezdését a 20/2021. (V. 17.) AM rendelet 19. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (6) bekezdését a 20/2021. (V. 17.) AM rendelet 19. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (7) bekezdését a 20/2021. (V. 17.) AM rendelet 19. § (3) bekezdés a) pontja hatályon kívül helyezte.

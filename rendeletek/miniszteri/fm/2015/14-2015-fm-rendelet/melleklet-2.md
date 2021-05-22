@@ -62,13 +62,13 @@
 
 | 16. |  | Határérték megállapítása önálló eljárásban a levegő védelméről szóló jogszabály szerinti eljárásban, a 14. és 15. pont kivételével | 72 000 |
 
-| 17. |  | Zajkibocsátási határérték megállapítása [a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 10. § (1) bekezdés és 11. § (1) bekezdés], ha első fokon a járási hivatal jár el [284/2007. (X. 29.) Korm. rendelet 4. § (3)–(4) bekezdés] – a zajforrás üzemeltetője alapján: |  |
+| 17. |  | Zajkibocsátási határérték megállapítása [a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 10. § (1) bekezdés és 11. § (1) bekezdés], ha a területi környezetvédelmi hatóság jár el [284/2007. (X. 29.) Korm. rendelet 4. § (3)–(4) bekezdés] – a zajforrás üzemeltetője alapján: |  |
 
 |  | 1. | Egyéni vállalkozó, jogi személyiséggel nem rendelkező szervezet, költségvetési szerv | 112 500 |
 
 |  | 2. | Minden egyéb esetben | 150 000 |
 
-| 18. |  | A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 13. § (1) bekezdése alapján az építőipari kivitelezési tevékenységtől származó zaj határérték túllépés határozott időtartamra történő engedélyezése, ha első fokon a járási hivatal jár el | 210 000 |
+| 18. |  | A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 13. § (1) bekezdése alapján az építőipari kivitelezési tevékenységtől származó zaj határérték túllépés határozott időtartamra történő engedélyezése, ha a területi környezetvédelmi hatóság jár el | 210 000 |
 
 | 19. |  | A mosó- és tisztítószerekről szóló 648/2004/EK rendelet 4. cikk (2) bekezdése alapján a gyártói eltérés kérelmezése [mosó- és tisztítószerek forgalomba hozatalának feltételeiről és az ellenőrzés rendjéről szóló 329/2012. (XI. 16.) Korm. rendelet 3. §] | 600 000 |
 

@@ -56,7 +56,7 @@
 
 | 11. | Az országos vízügyi hatóságnak a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 51. § (2) bekezdése szerinti eljárásában a gördülő fejlesztési terv 2015. évben és minden további alkalommal történő benyújtása esetén | 36 600 |
 
-7. melléklet a 14/2015. (III. 31.) FM rendelethez[^8]
+7. melléklet a 14/2015. (III. 31.) FM rendelethez[^16]
 
 A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
 
@@ -64,7 +64,7 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 
 | Sorszám | A számla felett rendelkezésre jogosult közigazgatási szerv | Előirányzat-felhasználási számlák |
 
-| 1. | Földművelésügyi Minisztérium | 10032000-01494549-00000000 |
+| 1. | Agrárminisztérium | 10032000-01494549-00000000 |
 
 | 2. | Baranya Megyei Kormányhivatal | 10024003-00335649-00000000 |
 
@@ -104,4 +104,4 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 
 | 20. | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^8]: A 7. melléklet a 89/2016. (XII. 29.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^16]: A 7. melléklet a 89/2016. (XII. 29.) FM rendelet 23. § (1) bekezdésével megállapított, a 20/2021. (V. 17.) AM rendelet 19. § (2) bekezdés d) pontja szerint módosított szöveg.

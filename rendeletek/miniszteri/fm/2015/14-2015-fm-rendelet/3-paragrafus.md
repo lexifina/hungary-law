@@ -4,11 +4,11 @@
 
 a) 22. pontja,
 
-b)[^2] 23. pont 1–7. alpontja,
+b)[^5] 23. pont 1–7. alpontja,
 
 c) 25–33. pontja,
 
-d)[^3] 34. pont 1. és 3. alpontja és
+d)[^6] 34. pont 1. és 3. alpontja és
 
 e) az a)–d) pontokhoz kapcsolódóan 37. és 38. pontja
 
@@ -22,5 +22,5 @@ b) az a) ponthoz kapcsolódóan 37. és 38. pontja
 
 alá tartozó tevékenységekre terjed ki.
 
-[^2]: A 3. § (1) bekezdés b) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés d) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés b) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés d) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
