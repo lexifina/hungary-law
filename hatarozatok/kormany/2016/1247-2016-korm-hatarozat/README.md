@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1247-30
 | 2020-12-23 | 2016-1247-30-22.38 | 1373/2020. (VII. 9.) Korm. határozat |
 | 2020-12-25 | 2016-1247-30-22.39 | 1422/2016. (VII. 29.) Korm. határozat |
 | 2021-03-24 | 2016-1247-30-22.40 | 1422/2016. (VII. 29.) Korm. határozat |
+| 2021-05-22 | 2016-1247-30-22.41 | 1373/2020. (VII. 9.) Korm. határozat |
