@@ -1,9 +1,5 @@
-## „(4) Az eljárás során minden dokumentumot, így különösen a program bejelentőket, a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumot is (a továbbiakban együtt: beadvány) az elektronikus űrlapkitöltő felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
-
-## (5) Az eljárás során kötelező az elektronikus kapcsolattartás. A kötelező elektronikus kapcsolattartásra tekintettel a Kincstár az értesítéseket, dokumentumokat, valamint a döntéseit elektronikus úton közli a kérelmezővel vagy meghatalmazottjával.
-
-## (6) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, akkor a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra – kivéve kamarai meghatalmazásra – vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
-
-## (7) A kifizetési kérelem a benyújtását követő naptól számított öt napon belül, az elektronikus űrlapkitöltő felületen keresztül módosítható legkésőbb a benyújtási határidő utolsó napjáig. Módosítás esetén a legkésőbbi dátummal benyújtott kérelmet kell elbírálni. A kifizetési kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.”
+## 8–9. §[^6]
 
 ## 6. A karácsonyfa-ültetvények után igénybe vehető támogatásról szóló 37/2020. (VII. 10.) AM rendelet módosítása
+
+[^6]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
