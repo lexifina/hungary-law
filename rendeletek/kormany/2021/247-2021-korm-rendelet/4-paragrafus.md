@@ -1,1 +1,3 @@
-## „(8) Az érintett (címzett) kérése alapján személyes átadással kézbesítendő – hivatalos iratként feladott – védettségi igazolványokat tartalmazó könyvelt küldeményeken – a küldemény esetleges visszakézbesítése során – mellőzhető a postai szolgáltató által figyelembe veendő feladói adatok feltüntetése, ha azokat a feladást igazoló elektronikus okirat tartalmazza.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

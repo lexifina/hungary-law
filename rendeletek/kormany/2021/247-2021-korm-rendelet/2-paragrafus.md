@@ -1,3 +1,3 @@
-## 1. § A járványügyi készültségi időszak utazási korlátozásairól szóló 408/2020. (VIII. 30.) Korm. rendelet (a továbbiakban: R1.) 5/A. alcím címe helyébe a következő alcím cím lép:
+## 1. §[^2]
 
-## „5/A. A gazdasági, illetve üzleti célú, valamint a külföldön felvett koronavírus elleni oltás elismertetése céljából történő utazásra vonatkozó rendelkezések”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

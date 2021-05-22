@@ -1,3 +1,3 @@
-## 5. § Az R2. a következő 11. §-sal egészül ki:
+## 5. §[^6]
 
-## „11. § Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a közbiztonságért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat – a 3. § (2a) bekezdésében fel nem sorolt – országokat, amely országokban beoltott magyar állampolgárok vonatkozásában alkalmazni kell a 3. § (2a)–(2g) bekezdését.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
