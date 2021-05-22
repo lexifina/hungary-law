@@ -4,7 +4,7 @@
 
 1. állat: az alábbi fajok valamelyikéhez tartozó egyed:
 
-a) szarvasmarhafélék: szarvasmarha, bivaly, bölény (a továbbiakban együtt: szarvasmarha),
+a)[^1] szarvasmarhafélék: szarvasmarha, zebu, jak, bivaly, bölény (a továbbiakban együtt: szarvasmarha),
 
 b) lófélék: vágásra szánt ló, szamár, öszvér,
 
@@ -36,6 +36,11 @@ e) a Baromfi Információs Rendszer létrehozásáról és működtetésének re
 
 4. állattartó: az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 18. § (2) bekezdésében meghatározott személyek;
 
+4a.[^2] járványügyi egység: azon állatok csoportja, amelyek esetében az adott kórokozónak való kitettség valószínűsége megegyezik; egy járványügyi egységet több tartási helyen tartott állatok is képezhetnek;
+
 5. szállítmány: egy önálló szállítójárműre felrakott, egy helyre, azonos célból szállítandó állatok;
 
 6. tartási hely: bármely olyan, egy járványügyi egységet képező létesítmény, építmény vagy fedetlen gazdaság esetén bármely olyan hely, ahol az 1. pont szerinti állatokat állandó vagy időszakos jelleggel tartanak, vagy ahol ilyen állatok tartózkodnak, beleértve a vágóhidakat, a keltető üzemeket és az állati hulla megsemmisítőket; több létesítmény, építmény egy tartási helynek tekintendő, ha az állatok egymással közvetlenül érintkezhetnek, függetlenül az ott tartott állatok fajától, hasznosításuk módjától.
+
+[^1]: A 2. § 1. pont a) alpontja a 20/2021. (V. 17.) AM rendelet 18. § (5) bekezdése szerint módosított szöveg.
+[^2]: A 2. § 4a. pontját a 20/2021. (V. 17.) AM rendelet 18. § (1) bekezdése iktatta be.

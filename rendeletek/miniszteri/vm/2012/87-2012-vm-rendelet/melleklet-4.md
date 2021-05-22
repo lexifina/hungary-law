@@ -14,21 +14,7 @@
 
 ## 4. szarvasmarhák fertőző rhinotracheitise (IBR/IPV)
 
-## 1. gümőkór: A gümőkór elleni védekezésről szóló 65/2002. (VIII. 9.) FVM rendelet a 15. § (4) bekezdése szerint
-
-## – az állat gümőkórtól hatóságilag mentes szarvasmarhaállományból származik,
-
-## – a tenyésztésre, illetve továbbtartásra szánt hathetes kornál idősebb állatok az állományból történő elszállítást megelőző 30 napon belül – a jogszabályban foglaltaknak megfelelően – elvégzett intradermális tuberkulinpróba során negatív eredményt adtak. A szállítást megelőző 42 napon belül végzett kötelező állomány vizsgálat esetében az igazolás újabb vizsgálat nélkül kiadható.
-
-## Igazolandó:
-
-## – 6 hetesnél idősebb szarvasmarha:
-
-## = hatósági állománymentesség
-
-## = 30 napon belüli tuberkulinvizsgálattal igazolt negativitás
-
-## – 6 hetesnél fiatalabb szarvasmarha: hatósági állománymentesség
+## 1. gümőkór: A szarvasmarha gümőkór elleni védekezésről szóló 56/2019. (XII. 12.) AM rendelet 14. § (2) bekezdése szerint az állat gümőkórtól hatóságilag mentes szarvasmarha-állományból származik.
 
 ## 2. brucellózis: Az egyes Brucella fajok elleni védekezés szabályairól szóló 12/2008. (II. 14.) FVM rendelet alapján:
 
@@ -340,6 +326,6 @@
 
 ## = Myxomatosis
 
-4. melléklet a 87/2012. (VIII. 27.) VM rendelethez[^15]
+4. melléklet a 87/2012. (VIII. 27.) VM rendelethez[^20]
 
-[^15]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
