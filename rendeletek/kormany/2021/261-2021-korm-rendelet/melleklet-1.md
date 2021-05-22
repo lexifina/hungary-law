@@ -1,11 +1,5 @@
 ## 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 261/2021. (V. 20.) Korm. rendelethez
+1. melléklet a 261/2021. (V. 20.) Korm. rendelethez[^3]
 
-Az R. 2. mellékletében foglalt táblázat a következő 7. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott) |
-
-| 7. | Bolgár Oktatási és Kulturális Központ megépítése | Budapest belterület 38287/5 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
