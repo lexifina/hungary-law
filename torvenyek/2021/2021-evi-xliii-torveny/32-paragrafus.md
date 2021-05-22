@@ -1,5 +1,3 @@
-## „(6) Az ügyfél kockázati szintjének megállapítása érdekében a szolgáltató figyelembe veszi az Afad-törvény 14. § (1) bekezdése alapján az ügyfélről közzétett adatokat és azok minősítését.”
-
 32. § (1) A Pmt. 15. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a)–(1c) bekezdéssel egészül ki:
 
 ## „(1) A szolgáltató a 65. §-ban meghatározott saját kockázatértékelésén alapuló, belső szabályzatban rögzített alacsony kockázatú esetekben az alábbi ügyfél-átvilágítási intézkedéseket köteles elvégezni:
