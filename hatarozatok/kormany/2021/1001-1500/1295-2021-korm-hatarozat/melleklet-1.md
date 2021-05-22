@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:436 mezőjében a „0,41” szövegrész helyébe a „0,54” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1295/2021. (V. 20.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15- 2016-00060 | Magyartarka szarvasmarhával történő természetvédelmi célú területkezelés infrastrukturális feltételeinek kialakítása | Őrségi Nemzeti Park Igazgatóság | 407 982 000 | 131 404 902 | 539 386 902 | A projekt közvetett célja az érintett Natura 2000 terület természetvédelmi helyzetének javítása, közvetlen célja pedig az elcserjésedett, elgyomosodott gyepterületeket legeltető állattartás segítségével helyreállítani, a területek természetvédelmi célú fenntartásának feltételeit megteremteni. A projekt hozzájárul a jobb védettségi állapot érdekében támogatott élőhelyek területe növekedéséhez 992,961 hektárral. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
