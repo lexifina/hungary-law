@@ -1,3 +1,5 @@
+## 7. §
+
 ## 5. A várakozási díj megfizetésének a veszélyhelyzet során alkalmazandó eltérő szabályai
 
 ## 8. § A koronavírus világjárvány terjedésének csökkentése érdekében

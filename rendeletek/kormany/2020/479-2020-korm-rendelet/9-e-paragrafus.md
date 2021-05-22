@@ -1,4 +1,4 @@
-## 6/E. [^17] Az önkéntes koronavírus elleni védőoltásra történő regisztrációval összefüggő rendelkezések
+## 6/E. [^18] Az önkéntes koronavírus elleni védőoltásra történő regisztrációval összefüggő rendelkezések
 
 9/E. § (1) A SARS-CoV-2 vírus elleni védőoltásra történő regisztráció során a Társadalombiztosítási Azonosító Jellel nem rendelkező magyar állampolgár az alábbi – valamennyi rendelkezésére álló – adatot köteles megadni:
 
@@ -34,4 +34,4 @@ g) lakcím vagy értesítési cím (a védettségi igazolvány kézbesítési c�
 
 h) elektronikus elérhetőség (e-mail és telefonszám).
 
-[^17]: A 6/E. alcímet (9/E. §) a 221/2021. (V. 3.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 6/E. alcímet (9/E. §) a 221/2021. (V. 3.) Korm. rendelet 2. §-a iktatta be.
