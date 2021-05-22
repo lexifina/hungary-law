@@ -1,3 +1,3 @@
-3. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztéséig meghosszabbítja.
+3. §[^2]
 
-(2) Ez a rendelet 2021. május 23-án hatályát veszti.
+[^2]: A 3. § a 271/2021. (V. 21.) Korm. rendelet 6. § 2. pontja alapján hatályát vesztette.
