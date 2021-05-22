@@ -106,6 +106,6 @@
 
 |  |  | -tól | -ig |
 
-8. melléklet a 27/2011. (IV. 12.) VM rendelethez[^52]
+8. melléklet a 27/2011. (IV. 12.) VM rendelethez[^53]
 
-[^52]: A 8. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (3) bekezdése iktatta be.
+[^53]: A 8. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (3) bekezdése iktatta be.

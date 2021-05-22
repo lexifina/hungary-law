@@ -1,6 +1,6 @@
 ## 15. § A szőlőbor-pincekönyv Szállítási okmányok nyilvántartó részébe a borászati üzem által a borszőlő, szőlőmust, szőlőbor és a borászati melléktermék szállításához átvett szállítási okmányok sorszámtartományát hetente, legkésőbb az átvételt követő hét első munkanapján be kell vezetni.
 
-16. §[^24] (1) A 7. § (4) bekezdés szerinti esetben a szőlőbor-pincekönyvnek csak a Termék-előállítás, valamint a Kiegészítő és adalékanyagok nyilvántartó lapjait kell események sorrendjében vezetni.
+16. §[^25] (1) A 7. § (4) bekezdés szerinti esetben a szőlőbor-pincekönyvnek csak a Termék-előállítás, valamint a Kiegészítő és adalékanyagok nyilvántartó lapjait kell események sorrendjében vezetni.
 
 (2) A pezsgő, minőségi pezsgő, minőségi illatos pezsgő előállítása esetén a szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapon nyilván kell tartani:
 
@@ -22,7 +22,7 @@ a) bármely, a mezőgazdasági piacok közös szervezésének létrehozásáról
 
 b) a hozzáadott termék mennyiségét.
 
-(4)[^25] Pezsgő, minőségi pezsgő, minőségi illatos pezsgő és habzóbor előállításakor
+(4)[^26] Pezsgő, minőségi pezsgő, minőségi illatos pezsgő és habzóbor előállításakor
 
 a) a palackozott és nem palackozott pezsgő esetén az elszámolási időszak nyitókészlete és az elszámolási időszakban bevételezett mennyiség együttes összegének elszámolási időszakonként legfeljebb 1,0%-a;
 
@@ -36,5 +36,5 @@ e) a palackos erjesztésű pezsgő esetén az erjesztő palack ürítése során
 
 számolható el veszteségként.
 
-[^24]: A 16. § a 21. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
-[^25]: A 16. § (4) bekezdését a 35/2017. (VII. 6.) FM rendelet 7. §-a iktatta be, szövege a 65/2019. (XII. 20.) AM rendelet 2. §-ával megállapított szöveg.
+[^25]: A 16. § a 21. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
+[^26]: A 16. § (4) bekezdését a 35/2017. (VII. 6.) FM rendelet 7. §-a iktatta be, szövege a 65/2019. (XII. 20.) AM rendelet 2. §-ával megállapított szöveg.

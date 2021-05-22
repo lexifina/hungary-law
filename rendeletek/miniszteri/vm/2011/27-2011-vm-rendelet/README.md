@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-27-20-2
 | 2017-08-18 | 2011-27-20-2Y.7 | 14/2013. (III. 7.) VM rendelet |
 | 2017-10-01 | 2011-27-20-2Y.8 | 49/2017. (IX. 29.) FM rendelet |
 | 2020-01-04 | 2011-27-20-2Y.9 | 65/2019. (XII. 20.) AM rendelet |
+| 2021-05-22 | 2011-27-20-2Y.10 | 14/2013. (III. 7.) VM rendelet |

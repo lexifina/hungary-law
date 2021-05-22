@@ -56,6 +56,6 @@
 
 |  |  | -tól | -ig |
 
-3. melléklet a 27/2011. (IV. 12.) VM rendelethez[^50]
+3. melléklet a 27/2011. (IV. 12.) VM rendelethez[^51]
 
-[^50]: A 3. melléklet a 49/2017. (IX. 29.) FM rendelet 16. § g) pontja szerint módosított szöveg.
+[^51]: A 3. melléklet a 49/2017. (IX. 29.) FM rendelet 16. § g) pontja szerint módosított szöveg.

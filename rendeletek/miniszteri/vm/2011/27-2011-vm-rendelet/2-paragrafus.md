@@ -1,6 +1,6 @@
-## 2. [^4] Szállítási okmányok
+## 2. [^5] Szállítási okmányok
 
-2. § (1)[^5] Belföldi szállítás esetén
+2. § (1)[^6] Belföldi szállítás esetén
 
 a) az egyszerűsítettadóraktár-engedélyes által kitárolt vagy szállított borászati terméket – borecet kivételével –, szőlőtörkölyt, borseprőt borkísérő okmánnyal,
 
@@ -28,10 +28,10 @@ f) a hivatalos szervnek vagy laboratóriumnak küldött minták szállításakor
 
 g) ha a természetes személy egyszerűsítettadóraktár-engedélyes az adómentes szőlőborát szállítja, és annak mennyisége szállítójárművenként nem haladja meg a 30 litert.
 
-(4)[^6] A szőlőmust, valamint a szabad forgalomba bocsátott szőlőbor szállítása esetében az értékesítésről kiállított számla borkísérő okmánynak minősül, amennyiben az 1. mellékletben meghatározottak szerint az eladóra és vevőre vonatkozó adatokat, a kiadás helyét, a rendeltetés helyét, a szállítmányozó nevét – ha az eltér a vevőre és az eladóra vonatkozó adatoktól –, a forgalombahozatali engedély szerinti termékmegnevezést, a termék űrtartalmát, darabszámát tartalmazza. A kisüzemi bortermelő esetén az 1. melléklet szerinti eladóra, illetve vevőre vonatkozó adatok közül az engedélyszámhoz a kisüzemi bortermelő borászati üzemengedélyének számát kell feltüntetni.
+(4)[^7] A szőlőmust, valamint a szabad forgalomba bocsátott szőlőbor szállítása esetében az értékesítésről kiállított számla borkísérő okmánynak minősül, amennyiben az 1. mellékletben meghatározottak szerint az eladóra és vevőre vonatkozó adatokat, a kiadás helyét, a rendeltetés helyét, a szállítmányozó nevét – ha az eltér a vevőre és az eladóra vonatkozó adatoktól –, a forgalombahozatali engedély szerinti termékmegnevezést, a termék űrtartalmát, darabszámát tartalmazza. A kisüzemi bortermelő esetén az 1. melléklet szerinti eladóra, illetve vevőre vonatkozó adatok közül az engedélyszámhoz a kisüzemi bortermelő borászati üzemengedélyének számát kell feltüntetni.
 
 (5) Az egységes vámáru-nyilatkozatot borkísérő okmánynak kell tekinteni az Európai Unió külső határán működő vámhatóságtól a vámkezelést végző belterületi vámhatóságig, vagy az Európai Unió külső határán működő vámhatóságtól az adóraktárig történő szállítás esetén.
 
-[^4]: A 2. alcím címe a 14/2013. (III. 7.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdése a 14/2013. (III. 7.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § (4) bekezdése a 35/2017. (VII. 6.) FM rendelet 4. §-ával megállapított szöveg.
+[^5]: A 2. alcím címe a 14/2013. (III. 7.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdése a 14/2013. (III. 7.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (4) bekezdése a 35/2017. (VII. 6.) FM rendelet 4. §-ával megállapított szöveg.
