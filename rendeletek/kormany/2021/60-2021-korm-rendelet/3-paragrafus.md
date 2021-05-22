@@ -70,11 +70,13 @@ b) a személyiadat- és lakcímnyilvántartást vezető szervtől az érintett n
 
 ## automatikus információátadással – szükség esetén az összerendelési nyilvántartáshoz kapcsolódó szolgáltatás útján – átveszi.
 
-(4)[^31] A hatóság
+(4)[^31] A hatóság,
 
-a) a veszélyhelyzet idején az okmányokra, továbbá az ügyintézésre vonatkozó egyes szabályok megállapításáról szóló 500/2020. (XI. 13.) Korm. rendelet szerint érvényes útlevelek okmányazonosítóját az útiokmány-nyilvántartásból is átveheti,
+a) ha a jogosult természetes személy rendelkezik érvényes útlevéllel, a jogosult természetes személy természetes személyazonosító adatait, személyi azonosítóját, nemét, állampolgárságát, az útlevél típusát, fajtáját és okmányazonosítóját, valamint az érvényességére vonatkozó adatokat az útiokmány-nyilvántartásból is átveheti,
 
-b) a hivatalos útlevél érvényességi adatát és okmányazonosítóját az útiokmány-nyilvántartásból veszi át.
+b) ha a jogosult természetes személy érvényes hivatalos útlevéllel rendelkezik, a jogosult természetes személy természetes személyazonosító adatait, személyi azonosítóját, nemét, állampolgárságát, az útlevél típusát, fajtáját és okmányazonosítóját, valamint az érvényességére vonatkozó adatokat az útiokmány-nyilvántartásból veszi át,
+
+c) a védettségi igazolvány kiállítása céljából a személyiadat- és lakcímnyilvántartást kezelő szervtől a fertőzésből felgyógyult jogosult természetes személy természetes személyazonosító adatait, nemét, állampolgárságát, személyi azonosítóját, lakcímét, a személyiadat- és lakcímnyilvántartásból kikerülésének oka és időpontja adatait, továbbá az állandó személyazonosító igazolványának a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: 1992. évi LXVI. törvény) 11. § (1) bekezdés n) pontja, valamint az 1992. évi LXVI. törvény 29. § (2) bekezdése szerinti adatait igényelheti.
 
 (5) A hatóság a (2) és (3) bekezdés szerinti adatokat – a TAJ szám kivételével – a védettségi igazolvány megszemélyesítése és az érintett részére történő továbbítása érdekében az állandó személyazonosító igazolvány megszemélyesítésért felelős szervezetnek továbbítja.
 
@@ -95,5 +97,5 @@ b) a hivatalos útlevél érvényességi adatát és okmányazonosítóját az �
 [^28]: A 3. § (2e) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^29]: A 3. § (2f) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^30]: A 3. § (2g) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^31]: A 3. § (4) bekezdése a 222/2021. (V. 3.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^31]: A 3. § (4) bekezdése a 267/2021. (V. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^32]: A 3. § (8) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
