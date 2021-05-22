@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-235-00-00
 | 2020-01-17 | 2019. évi LXVII. törvény | 2013-235-00-00.22 |
 | 2020-01-18 | 2019. évi CXVIII. törvény | 2013-235-00-00.23 |
 | 2020-12-26 | 2020. évi CX. törvény | 2013-235-00-00.24 |
+| 2021-05-22 | 2021. évi XLIII. törvény | 2013-235-00-00.25 |
