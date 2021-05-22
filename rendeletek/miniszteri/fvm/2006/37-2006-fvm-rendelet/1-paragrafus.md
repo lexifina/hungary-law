@@ -1,10 +1,10 @@
-1. §[^1] (1)[^2] A Magyarországon forgalomba hozni kívánt EK-műtrágyákat a szükséges megfelelőség-ellenőrzések elvégzése érdekében minden évben az első forgalomba hozatal megkezdése előtt 30 nappal
+1. §[^1] (1)[^2] A Magyarországon forgalomba hozni kívánt EK-műtrágyákat a szükséges megfelelőség-ellenőrzések elvégzése érdekében az első forgalomba hozatal megkezdése előtt 30 nappal, azt követően 5 évente
 
 a) a gyártó,
 
 b) nem Magyarországon történő előállítás esetén az első magyarországi forgalomba hozó
 
-## a kereskedelmi név, a pontos összetétel, az EK-műtrágya típusa és a gyártó feltüntetésével köteles bejelenteni a Nemzeti Élelmiszerlánc-biztonsági Hivatalnál (a továbbiakban: NÉBIH).
+## a kereskedelmi név, a pontos összetétel, a foszfor vegyület, az EK-műtrágya típusa és a gyártó feltüntetésével köteles bejelenteni a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH).
 
 (2)[^3] A bejelentés mellékleteként be kell nyújtani a 2003/2003/EK európai parlamenti és tanácsi rendelet 27. cikke szerinti magas nitrogéntartalmú ammónium-nitrát műtrágyákra vonatkozó, 6 hónapnál nem régebbi vizsgálati eredményt (a továbbiakban: vizsgálati eredmény). A vizsgálati eredmény másolatát minden további műtrágyaszállítmányhoz biztosítani kell, valamint a szabad forgalomba bocsátás vámeljárás kezdeményezése esetén a Nemzeti Adó- és Vámhivatal részére is be kell mutatni.
 
@@ -17,7 +17,7 @@ b) nem Magyarországon történő előállítás esetén az első magyarországi
 (6)[^7] Az EK-műtrágya kereskedelmi neve nem lehet megtévesztő, és egyértelműen megkülönböztethetőnek kell lennie más engedélyezett engedélyköteles termék és forgalomba hozott EK-műtrágya nevétől.
 
 [^1]: Az 1. § a 74/2009. (VI. 25.) FVM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 18/2017. (IV. 11.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 20/2021. (V. 17.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdése a 18/2017. (IV. 11.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (3) bekezdése a 18/2017. (IV. 11.) FM rendelet 11. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (4) bekezdése a 18/2017. (IV. 11.) FM rendelet 11. § b) pontja szerint módosított szöveg.

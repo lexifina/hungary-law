@@ -1,4 +1,6 @@
-6. §[^26] Ez a rendelet a műtrágyákról szóló, 2003. október 13-i 2003/2003/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 5/A. §[^27] E rendeletnek az élelmiszerek és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak előállításáról és forgalomba hozataláról szóló 20/2021. (V. 17.) AM rendelettel [a továbbiakban: 20/2021. (V. 17.) AM rendelet] megállapított 1. § (1) bekezdése szerinti, 5 évente esedékes, EK-műtrágya megfelelőség-ellenőrzési bejelentési kötelezettséget a 2017. január 1-jétől a 20/2021. (V. 17.) AM rendelet hatálybalépéséig[^28] megfelelőség-ellenőrzés elvégzése érdekében bejelentett EK-műtrágyákra is alkalmazni kell.
+
+6. §[^29] Ez a rendelet a műtrágyákról szóló, 2003. október 13-i 2003/2003/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 Melléklet a 37/2006. (V. 18.) FVM rendelethez
 
@@ -12,4 +14,6 @@ A tápelemek feltüntetésére vonatkozó előírások
 
 | Mikro- elemek | Bór Kobalt Réz Vas Mangán Molibdén Cink | B Co Cu Fe Mn Mo Zn |  |
 
-[^26]: A 6. §-t a 18/2017. (IV. 11.) FM rendelet 10. §-a iktatta be.
+[^27]: Az 5/A. §-t a 20/2021. (V. 17.) AM rendelet 13. § (2) bekezdése iktatta be.
+[^28]: A hatálybalépés időpontja 2021. május 22.
+[^29]: A 6. §-t a 18/2017. (IV. 11.) FM rendelet 10. §-a iktatta be.
