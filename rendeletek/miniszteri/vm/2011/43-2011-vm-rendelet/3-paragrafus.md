@@ -1,9 +1,12 @@
 ## 2. Az elejtett vad forgalomba hozatala
 
-3. § (1) Azok a vadászatra jogosultak, amelyek esetében az egy vadászati évben hasznosításra tervezett nagyvad darabszáma nem haladja meg a 100 darab nagyvadat, az 1. § (1) bekezdés a) pontja szerint forgalomba hozhatják az egy vadászati évben, a vadászatra jogosult vadászterületén elejtett nagyvad darabszám száz százalékának megfelelő, de maximum 100 darab nagyvadat. Azok a vadászatra jogosultak, amelyek esetében az egy vadászati évben hasznosításra tervezett nagyvad darabszáma meghaladja a 100 darab nagyvadat, az 1. § (1) bekezdés a) pontja szerint forgalomba hozhatnak 100 darab a vadászati év során, a vadászatra jogosult vadászterületén elejtett nagyvadat, valamint az ezen felül elejtett nagyvad darabszám negyven százalékának megfelelő darab nagyvadat.
+3. § (1)[^9]
 
-(2) Azok a vadászatra jogosultak, amelyek esetében az egy vadászati évben hasznosításra tervezett apróvad darabszáma nem haladja meg az 5000 darab apróvadat, az 1. § (1) bekezdés a) pontja szerint forgalomba hozhatják az egy vadászati évben, a vadászatra jogosult vadászterületén elejtett apróvad darabszám száz százalékának megfelelő, de maximum 5000 darab apróvadat. Azok a vadászatra jogosultak, amelyek esetében az egy vadászati évben hasznosításra tervezett apróvad darabszáma meghaladja az 5000 darab apróvadat, az 1. § (1) bekezdés a) pontja szerint forgalomba hozhatnak 5000 darab a vadászati év során, a vadászatra jogosult vadászterületén elejtett apróvadat, valamint az ezen felül elejtett apróvad darabszám maximum negyven százalékának megfelelő apróvadat.
+(2)[^10]
 
 (3) Az 1. § (1) bekezdés a) pontja szerinti forgalomba hozatal során az élelmiszer birtokosa, az elejtett vad húsát hűtött rakterű szállító járművel bármely Magyarország területén működő helyi kiskereskedelmi és vendéglátó egységbe akkor szállíthatja, ha a szállító jármű rakterének hűtési rendszere aktív hűtési rendszer, amely biztosítja, hogy a szállított elejtett nagyvad hőmérséklete teljes tömegében 0–7 °C, az elejtett apróvad hőmérséklete teljes tömegében 0–4 °C legyen a szállítás teljes időtartama alatt.
 
 (4) Az 1. § (1) bekezdés b) pontjában meghatározott forgalomba hozatal mennyiségi korlátozás nélkül végezhető.
+
+[^9]: A 3. § (1) bekezdését a 20/2021. (V. 17.) AM rendelet 17. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 3. § (2) bekezdését a 20/2021. (V. 17.) AM rendelet 17. § (3) bekezdése hatályon kívül helyezte.

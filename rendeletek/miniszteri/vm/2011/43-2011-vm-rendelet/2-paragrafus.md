@@ -2,9 +2,9 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1. apróvad: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásainak szabályairól szóló 79/2004. (V. 4.) FVM rendelet [a továbbiakban: 79/2004. (V. 4.) FVM rendelet] 1. § (1) bekezdés b) pont ba) alpontja szerinti állatfajok,
+1.[^4] apróvad: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásainak szabályairól szóló 79/2004. (V. 4.) FVM rendelet [a továbbiakban: 79/2004. (V. 4.) FVM rendelet] 1. § (1) bekezdés b) pont ba) alpontja szerinti állatfajok, a 79/2004. (V. 4.) FVM rendelet 45. § (2) bekezdésében felsorolt fajok kivételével,
 
-2.[^3] apróvad gyűjtőigazolás: az elejtett apróvad, képesített vadhúsvizsgáló, vagy hatósági állatorvos vagy szolgáltató állatorvos által elvégzett részleges húsvizsgálatát igazoló, a fogyaszthatósági döntéshez részadatokat biztosító 2. melléklet szerinti kísérőirat,
+2.[^5] apróvad gyűjtőigazolás: az elejtett apróvad, képesített vadhúsvizsgáló, vagy hatósági állatorvos vagy szolgáltató állatorvos által elvégzett részleges húsvizsgálatát igazoló, a fogyaszthatósági döntéshez részadatokat biztosító 2. melléklet szerinti kísérőirat,
 
 3. azonosító jel: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (továbbiakban: Vadászati törvény) 57. §-a szerinti azonosító jel,
 
@@ -12,7 +12,7 @@
 
 5. helyi kiskereskedelmi vagy vendéglátó egység: a húsvizsgálat helyétől közúton legfeljebb 60 km távolságon belül és legfeljebb 1 óra alatt elérhető, valamint hűtött rakterű szállító járművel való szállítás esetén bármely Magyarország területén működő, vadhús-forgalmazási engedéllyel rendelkező, a végső fogyasztót közvetlenül ellátó kiskereskedelmi vagy vendéglátó egység,
 
-6.[^4] képesített vadhúsvizsgáló: a 853/2004/EK európai parlamenti és tanácsi rendelet III. melléklet IV. szakasz I. fejezet 2. pontja szerinti képzett személynek minősülő személy, aki az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) engedélyével rendelkezik,
+6.[^6] képesített vadhúsvizsgáló: a 853/2004/EK európai parlamenti és tanácsi rendelet III. melléklet IV. szakasz I. fejezet 2. pontja szerinti képzett személynek minősülő személy, aki az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) engedélyével rendelkezik,
 
 7. nagyvad: a 79/2004. (V. 4.) FVM rendelet 1. § (1) bekezdés a) pontja szerinti állatfajok,
 
@@ -24,11 +24,12 @@
 
 11. vadászterület: a Vadászati törvény 8. §-a szerinti vadászterület,
 
-12.[^5] vadbegyűjtő hely: a megyei kormányhivatal által nyilvántartásba vett, a 12. és 13. §-ban foglaltaknak megfelelő létesítmény,
+12.[^7] vadbegyűjtő hely: a megyei kormányhivatal által nyilvántartásba vett, a 12. és 13. §-ban foglaltaknak megfelelő létesítmény,
 
-13.[^6] vadkísérő jegy: az elejtett nagyvadnak az elejtő és a képesített vadhúsvizsgáló vagy a hatósági állatorvos vagy szolgáltató állatorvos által elvégzett részleges húsvizsgálatát igazoló, a fogyaszthatósági döntéshez részadatokat biztosító, az elejtett nagyvad jelölését kiegészítő, 1. melléklet szerinti adattartalommal bíró kísérő irat.
+13.[^8] vadkísérő jegy: az elejtett nagyvadnak az elejtő és a képesített vadhúsvizsgáló vagy a hatósági állatorvos vagy szolgáltató állatorvos által elvégzett részleges húsvizsgálatát igazoló, a fogyaszthatósági döntéshez részadatokat biztosító, az elejtett nagyvad jelölését kiegészítő, 1. melléklet szerinti adattartalommal bíró kísérő irat.
 
-[^3]: A 2. § 2. pontja a 42/2017. (VIII. 17.) FM rendelet 165. § c) pontja szerint módosított szöveg.
-[^4]: A 2. § 6. pontja a 42/2017. (VIII. 17.) FM rendelet 164. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § 12. pontja a 42/2017. (VIII. 17.) FM rendelet 165. § d) pontja szerint módosított szöveg.
-[^6]: A 2. § 13. pontja a 42/2017. (VIII. 17.) FM rendelet 165. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § 1. pontja a 20/2021. (V. 17.) AM rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 2. § 2. pontja a 42/2017. (VIII. 17.) FM rendelet 165. § c) pontja szerint módosított szöveg.
+[^6]: A 2. § 6. pontja a 42/2017. (VIII. 17.) FM rendelet 164. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § 12. pontja a 42/2017. (VIII. 17.) FM rendelet 165. § d) pontja szerint módosított szöveg.
+[^8]: A 2. § 13. pontja a 42/2017. (VIII. 17.) FM rendelet 165. § c) pontja szerint módosított szöveg.
