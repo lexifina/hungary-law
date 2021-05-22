@@ -1,3 +1,5 @@
-## 24. § A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet 12. § (4) bekezdésében az „az autonóm államigazgatási szervek, valamint a Kttv. 2. §-ában meghatározott szervek” szövegrész helyébe a „valamint az 1. § (1a) bekezdésében foglalt szervezetek” szöveg lép.
+## 24. §[^14]
 
 ## 9. Az egyes közlekedési szabálysértések miatt alkalmazandó szabálysértési pénzbírság, illetve helyszíni bírság kötelező mértékéről, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvénnyel összefüggő egyes kormányrendeletek módosításáról szóló 63/2012. (IV. 2.) Korm. rendelet módosítása
+
+[^14]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

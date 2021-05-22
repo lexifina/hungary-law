@@ -1,3 +1,5 @@
-## 5. § A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló 236/2000. (XII. 23.) Korm. rendelet 1. számú melléklete a 2. melléklet szerint módosul.
+## 5. §[^3]
 
 ## 3. A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet módosítása
+
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
