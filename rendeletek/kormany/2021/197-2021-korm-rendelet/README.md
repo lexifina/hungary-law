@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-197-20-
 | --- | --- | --- |
 | 2021-04-29 | 2021-197-20-22.1 | 197/2021. (IV. 28.) Korm. rendelet |
 | 2021-05-13 | 2021-197-20-22.2 | 271/2021. (V. 21.) Korm. rendelet |
+| 2021-05-22 | 2021-197-20-22.3 | 271/2021. (V. 21.) Korm. rendelet |
