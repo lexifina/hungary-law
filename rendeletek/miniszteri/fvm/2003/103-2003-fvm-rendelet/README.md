@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-103-20-
 | 2014-03-15 | 2003-103-20-82.5 | 115/2011. (XII. 9.) VM rendelet |
 | 2015-04-01 | 2003-103-20-82.6 | 15/2015. (III. 31.) FM rendelet |
 | 2017-08-18 | 2003-103-20-82.7 | 115/2011. (XII. 9.) VM rendelet |
+| 2021-05-22 | 2003-103-20-82.8 | 115/2011. (XII. 9.) VM rendelet |
