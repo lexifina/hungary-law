@@ -12,7 +12,7 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5. Hatályát veszti a Magyar Honvédség feltölthető beosztásainak számáról szóló 1671/2019. (XII. 4.) Korm. határozat.
+## 5.[^1]
 
 1. melléklet az 1283/2021. (V. 20.) Korm. határozathoz
 
@@ -31,3 +31,5 @@
 | 6 | Honvéd altiszt-jelölt állomány | 1% |
 
 | 7 | Honvédelmi alkalmazott és munkavállaló állomány | 18% |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
