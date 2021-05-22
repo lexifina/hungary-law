@@ -1,0 +1,1 @@
+## 5. § Az R2. 1/A. § (4) bekezdésében az „az adatokat semmilyen” szövegrész helyébe az „az adatokat – ha törvény vagy a veszélyhelyzetben az Alaptörvény 53. cikk (2) bekezdése alapján alkotott kormányrendelet eltérően nem rendelkezik – semmilyen” szöveg lép.
