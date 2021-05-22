@@ -1,0 +1,1 @@
+44. § Hatályát veszti az adózás rendjéről szóló 2017. évi CL. törvény 84. § (1) bekezdésének az „a székhely szerint illetékes gazdasági kamarával, valamint a székhely szerint illetékes önkormányzati jegyzővel” szövegrésze.

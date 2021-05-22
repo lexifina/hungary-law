@@ -1,0 +1,1 @@
+6. § Az adatszolgáltató gondoskodik arról, hogy tényleges tulajdonosa a 4. § (1) bekezdés g) pontja szerinti adatok változása esetén tizenöt napon belül tájékoztassa az adatszolgáltatót a megváltozott adatokról.
