@@ -1,12 +1,12 @@
-## 25. §[^126] Az egészségügyi szolgáltató a fertőző betegeket és a fertőző betegségre gyanús személyeket az 1. számú melléklet és az 1/A. számú melléklet szerint megadott esetdefinícióknak megfelelően, továbbá a fertőző betegségek jelentésének rendjéről és az egészségügyi ellátással összefüggő fertőzések megelőzéséről szóló jogszabályban, valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló jogszabályban foglaltak szerint köteles bejelenteni és nyilvántartani.
+## 25. §[^127] Az egészségügyi szolgáltató a fertőző betegeket és a fertőző betegségre gyanús személyeket az 1. számú melléklet és az 1/A. számú melléklet szerint megadott esetdefinícióknak megfelelően, továbbá a fertőző betegségek jelentésének rendjéről és az egészségügyi ellátással összefüggő fertőzések megelőzéséről szóló jogszabályban, valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló jogszabályban foglaltak szerint köteles bejelenteni és nyilvántartani.
 
 ## Járványügyi vizsgálat
 
-26. § (1)[^127] A járási hivatal a fertőző beteg bejelentése alapján vagy más módon tudomására jutott minden esetben köteles járványügyi vizsgálatot végezni, ha
+26. § (1)[^128] A járási hivatal a fertőző beteg bejelentése alapján vagy más módon tudomására jutott minden esetben köteles járványügyi vizsgálatot végezni, ha
 
 a) sürgősséggel jelentendő betegségről vagy annak gyanújáról,
 
-b)[^128] Magyarországon, illetve az Európai Unió területén felügyelet alá vont, kiemelt járványügyi jelentőségű fertőzésről, fertőző betegségről vagy annak gyanújáról,
+b)[^129] Magyarországon, illetve az Európai Unió területén felügyelet alá vont, kiemelt járványügyi jelentőségű fertőzésről, fertőző betegségről vagy annak gyanújáról,
 
 c) hatósági intézkedést igénylő fertőző betegségről,
 
@@ -16,27 +16,27 @@ e) ismeretlen kórokú, de feltehetően fertőző jellegű megbetegedésekről
 
 ## szerez tudomást.
 
-(2)[^129] Az (1) bekezdésben foglalt feladatokat a kormányhivatal magához vonhatja.
+(2)[^130] Az (1) bekezdésben foglalt feladatokat a kormányhivatal magához vonhatja.
 
-(3)[^130] A megbetegedések halmozódása alapján felismert és bejelentett vagy felderített járvány esetén meg kell kísérelni a járvány kórokozójának, fertőző forrásának és a terjesztő tényezőjének a meghatározását és bizonyítását laboratóriumi és epidemiológiai-statisztikai módszerrel.
+(3)[^131] A megbetegedések halmozódása alapján felismert és bejelentett vagy felderített járvány esetén meg kell kísérelni a járvány kórokozójának, fertőző forrásának és a terjesztő tényezőjének a meghatározását és bizonyítását laboratóriumi és epidemiológiai-statisztikai módszerrel.
 
-(4)[^131] Ha bármely laboratóriumban a 6. számú mellékletben felsorolt kórokozót azonosítanak vagy a laboratóriumba a megnevezett vizsgálatra klinikai minta érkezik, akkor a vizsgálati anyagot, illetve az izolált törzseket a 6. számú melléklet szerint kell továbbítani haladéktalanul a járványügyi feladat ellátására kijelölt mikrobiológiai laboratóriumba, vagy 72 órán belül a mikrobiológiai referencia laboratóriumba. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 1. számú mellékletében meghatározott, felügyelet alá vont fertőző betegségekkel kapcsolatos mikrobiológiai vizsgálatokat végző laboratóriumoknak évente részt kell venniük az illetékes referencia-laboratórium által szervezett körvizsgálatban.
+(4)[^132] Ha bármely laboratóriumban a 6. számú mellékletben felsorolt kórokozót azonosítanak vagy a laboratóriumba a megnevezett vizsgálatra klinikai minta érkezik, akkor a vizsgálati anyagot, illetve az izolált törzseket a 6. számú melléklet szerint kell továbbítani haladéktalanul a járványügyi feladat ellátására kijelölt mikrobiológiai laboratóriumba, vagy 72 órán belül a mikrobiológiai referencia laboratóriumba. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 1. számú mellékletében meghatározott, felügyelet alá vont fertőző betegségekkel kapcsolatos mikrobiológiai vizsgálatokat végző laboratóriumoknak évente részt kell venniük az illetékes referencia-laboratórium által szervezett körvizsgálatban.
 
-(5)[^132] Egészségügyi ellátással összefüggő fertőzések halmozódása – különösen multirezisztens kórokozók – esetében a diagnosztikai mikrobiológiai vizsgálatot végző laboratóriumban izolált törzseket vagy a vizsgálati anyagot 72 órán belül el kell küldeni további vizsgálatokra a mikrobiológiai referencia laboratóriumba az esetleges járványügyi kapcsolatok felderítése céljából.
+(5)[^133] Egészségügyi ellátással összefüggő fertőzések halmozódása – különösen multirezisztens kórokozók – esetében a diagnosztikai mikrobiológiai vizsgálatot végző laboratóriumban izolált törzseket vagy a vizsgálati anyagot 72 órán belül el kell küldeni további vizsgálatokra a mikrobiológiai referencia laboratóriumba az esetleges járványügyi kapcsolatok felderítése céljából.
 
-(6)[^133]
+(6)[^134]
 
-(7)[^134] Klinikai mikrobiológiai laboratóriumban a halmozottan izolált törzseket – amennyiben azok nem kerültek beküldésre a mikrobiológiai referencia laboratóriumba – három hónapig meg kell őrizni esetlegesen szükségessé váló tipizáló vizsgálatok elvégzése és epidemiológiai kapcsolat megállapítása céljából.
+(7)[^135] Klinikai mikrobiológiai laboratóriumban a halmozottan izolált törzseket – amennyiben azok nem kerültek beküldésre a mikrobiológiai referencia laboratóriumba – három hónapig meg kell őrizni esetlegesen szükségessé váló tipizáló vizsgálatok elvégzése és epidemiológiai kapcsolat megállapítása céljából.
 
-(8)[^135] A járványügyi vizsgálat során tudomására jutott információk alapján a járási hivatal vagy a kormányhivatal az adott fertőző betegségre vonatkozó epidemiológiai adatokat tartalmazó, erre a célra összeállított adatgyűjtő lapot kitölti és elektronikusan megküldi az országos tisztifőorvos részére.
+(8)[^136] A járványügyi vizsgálat során tudomására jutott információk alapján a járási hivatal vagy a kormányhivatal az adott fertőző betegségre vonatkozó epidemiológiai adatokat tartalmazó, erre a célra összeállított adatgyűjtő lapot kitölti és elektronikusan megküldi az országos tisztifőorvos részére.
 
-[^126]: A 25. § az 54/2015. (XI. 24.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^127]: A 26. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 7. §-ával megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
-[^128]: A 26. § (1) bekezdés b) pontja a 21/2012. (IV. 4.) NEFMI rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^129]: A 26. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja szerint módosított szöveg.
-[^130]: A 26. § (3) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be.
-[^131]: A 26. § (4) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be, szövege az 54/2015. (XI. 24.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^132]: A 26. § (5) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be.
-[^133]: A 26. § (6) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte az 54/2015. (XI. 24.) EMMI rendelet 11. § a) pontja.
-[^134]: A 26. § (7) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be.
-[^135]: A 26. § (8) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 8. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^127]: A 25. § az 54/2015. (XI. 24.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^128]: A 26. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 7. §-ával megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
+[^129]: A 26. § (1) bekezdés b) pontja a 21/2012. (IV. 4.) NEFMI rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^130]: A 26. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja szerint módosított szöveg.
+[^131]: A 26. § (3) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be.
+[^132]: A 26. § (4) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be, szövege az 54/2015. (XI. 24.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^133]: A 26. § (5) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be.
+[^134]: A 26. § (6) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte az 54/2015. (XI. 24.) EMMI rendelet 11. § a) pontja.
+[^135]: A 26. § (7) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 16. § (2) bekezdése iktatta be.
+[^136]: A 26. § (8) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 8. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 15. pontja szerint módosított szöveg.

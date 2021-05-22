@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-3
 | 2020-03-15 | 1998-18-20-3D.41 | 10/2020. (III. 14.) EMMI rendelet |
 | 2020-06-01 | 1998-18-20-3D.42 | 10/2020. (III. 14.) EMMI rendelet |
 | 2021-05-04 | 1998-18-20-3D.43 | 16/2021. (V. 3.) EMMI rendelet |
+| 2021-05-22 | 1998-18-20-3D.44 | 18/2021. (V. 21.) EMMI rendelet |

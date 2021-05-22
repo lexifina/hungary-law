@@ -6,4 +6,7 @@ b) tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
 
 c) a Magyarország területén lévő diplomáciai és konzuli képviselet, továbbá a nemzetközi szervezet állandó képviseletének tagja.
 
+d)[^44] az a) pont alá nem tartozó magyar állampolgár.
+
 [^43]: A 7/A. §-t a 16/2021. (V. 3.) EMMI rendelet 1. §-a iktatta be.
+[^44]: A 7/A. § d) pontját a 18/2021. (V. 21.) EMMI rendelet 1. §-a iktatta be.

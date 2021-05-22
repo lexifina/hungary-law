@@ -4,12 +4,12 @@
 
 (2) Az (1) bekezdésben foglaltakat a járványügyi megfigyelés, illetőleg járványügyi ellenőrzés alá helyezett személyek tekintetében is alkalmazni kell.
 
-(3)[^151] Egészségügyi ellátással összefüggő fertőzések halmozott előfordulása esetén a kolonizált egészségügyi dolgozó a közvetlen betegellátásban (vizsgálat, ápolás, gyógykezelés) nem vehet részt.
+(3)[^152] Egészségügyi ellátással összefüggő fertőzések halmozott előfordulása esetén a kolonizált egészségügyi dolgozó a közvetlen betegellátásban (vizsgálat, ápolás, gyógykezelés) nem vehet részt.
 
-(4)[^152] A HIV-pozitív, valamint a fertőzőképes krónikus hepatitis B és hepatitis C vírushordozó egészségügyi dolgozó nem tölthet be olyan munkakört, melyben expozícióra hajlamosító invazív beavatkozásokat végeznek. A fokozott expozíciós kockázattal járó beavatkozásokat és a korlátozás megszüntetésének feltételeit a 2. számú melléklet tartalmazza.
+(4)[^153] A HIV-pozitív, valamint a fertőzőképes krónikus hepatitis B és hepatitis C vírushordozó egészségügyi dolgozó nem tölthet be olyan munkakört, melyben expozícióra hajlamosító invazív beavatkozásokat végeznek. A fokozott expozíciós kockázattal járó beavatkozásokat és a korlátozás megszüntetésének feltételeit a 2. számú melléklet tartalmazza.
 
-(5)[^153] Az az egészségügyi dolgozó, aki akut felső légúti, illetve enterális fertőzés tüneteit mutatja, a közvetlen betegellátásban (vizsgálat, ápolás, gyógykezelés) nem vehet részt.
+(5)[^154] Az az egészségügyi dolgozó, aki akut felső légúti, illetve enterális fertőzés tüneteit mutatja, a közvetlen betegellátásban (vizsgálat, ápolás, gyógykezelés) nem vehet részt.
 
-[^151]: A 31. § (3) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^152]: A 31. § (4) bekezdésének utolsó mondata a 9/2002. (III. 12.) EüM rendelet 3. §-ával megállapított szöveg.
-[^153]: A 31. § (5) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 21. § (2) bekezdése iktatta be.
+[^152]: A 31. § (3) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^153]: A 31. § (4) bekezdésének utolsó mondata a 9/2002. (III. 12.) EüM rendelet 3. §-ával megállapított szöveg.
+[^154]: A 31. § (5) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 21. § (2) bekezdése iktatta be.

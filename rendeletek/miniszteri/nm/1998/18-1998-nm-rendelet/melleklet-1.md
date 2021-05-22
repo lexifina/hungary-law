@@ -1,6 +1,6 @@
-## 44. §[^205]
+## 44. §[^206]
 
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^206]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^207]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -6780,7 +6780,5 @@ Szigorított folyamatos és szigorított zárófertőtlenítést szükséges vé
 
 3. Teendők a beteg környezetében
 
-3.1. A beteggel kontaktusba kerültek felkutatása:
-
-[^205]: A 44. §-t a 10/2020. (III. 14.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 17/2020. (IV. 30.) EMMI rendelet 2. § a) pontja.
-[^206]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^206]: A 44. §-t a 10/2020. (III. 14.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 17/2020. (IV. 30.) EMMI rendelet 2. § a) pontja.
+[^207]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
