@@ -1,4 +1,4 @@
-43. §[^5] (1) A szigorított védekezés megszűnését követően a közigazgatási ügyben eljáró bíróság előtt az 1952-es Pp. és a Polgári perrendtartásról szóló 1952. évi III. törvény módosításáról és az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló 2005. évi XVII. törvény, valamint a Kp., a közigazgatási bírósági eljárásra vonatkozó jogszabályok, valamint a Kivezető tv. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+43. §[^6] (1) A szigorított védekezés megszűnését követően a közigazgatási ügyben eljáró bíróság előtt az 1952-es Pp. és a Polgári perrendtartásról szóló 1952. évi III. törvény módosításáról és az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló 2005. évi XVII. törvény, valamint a Kp., a közigazgatási bírósági eljárásra vonatkozó jogszabályok, valamint a Kivezető tv. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) Ha a szigorított védekezés ideje alatt hatályos rendelkezések előírásai szerint az eljárásban hirdetményi kézbesítésnek lett volna helye, és ezért a bíróság az eljárás félbeszakadását állapította meg – és a hirdetményi kézbesítés oka korábban nem szűnt meg – a szigorított védekezés megszűnésekor a félbeszakadás megszűnik, a bíróság az eljárást hivatalból folytatja.
 
@@ -14,4 +14,4 @@
 
 (8) Ha a szigorított védekezés ideje alatt hatályos rendelkezések szerint a bíróság a feleket már nyilatkozattételre felhívta az egyezség kérdésében, a perbeli egyezséget végzésével tárgyaláson kívül is jóváhagyhatja. Az egyezséget jóváhagyó végzést a felekkel kézbesítés útján kell közölni. Az ilyen módon meghozott jóváhagyó végzés elleni fellebbezésnek az egyezség végrehajtására halasztó hatálya van.
 
-[^5]: A 43. §-t a 182/2021. (IV. 16.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 43. §-t a 182/2021. (IV. 16.) Korm. rendelet 2. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 41. § E rendeletet a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
-42. §[^4] (1) A szigorított védekezés megszűnését követően az 1952-es Pp., valamint a Pp., továbbá a Kivezető tv. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+42. §[^5] (1) A szigorított védekezés megszűnését követően az 1952-es Pp., valamint a Pp., továbbá a Kivezető tv. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) Ha a bíróság a szigorított védekezés ideje alatt beszerezte a tárgyalás mellőzésével lefolytatott perfelvétel lezárásához szükséges – a jogvita kereteit meghatározó – nyilatkozatokat, a perfelvételt perfelvételi tárgyalás mellőzésével zárja le. A bíróság a perfelvétel lezárása előtt a feleket erre írásban figyelmezteti, és lehetőséget biztosít további nyilatkozatok írásban történő megtételére. A bíróság a perfelvétel lezárását írásban közli a felekkel.
 
@@ -22,4 +22,4 @@
 
 (11) E §-nak az 1952-es Pp., a Pp. és a Kivezető tv. tekintetében megállapított eltérő rendelkezéseit alkalmazni kell a bírósági hatáskörbe tartozó polgári nemperes eljárásokban is az eljárás nemperes jellegéből adódó eltérésekkel.
 
-[^4]: A 42. §-t a 160/2021. (IV. 1.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2021. (IV. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 42. §-t a 160/2021. (IV. 1.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2021. (IV. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
