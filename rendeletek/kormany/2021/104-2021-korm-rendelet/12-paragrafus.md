@@ -1,5 +1,5 @@
 ## 11. §
 
-## 8.[^21]
+## 8.[^25]
 
-[^21]: A 8. alcímet (12. §) a 233/2021. (V. 6.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^25]: A 8. alcímet (12. §) a 233/2021. (V. 6.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
