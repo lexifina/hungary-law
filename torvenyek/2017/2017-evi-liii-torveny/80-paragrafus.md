@@ -6,8 +6,8 @@
 
 (4) A Hivatal a bizalmi vagyonkezelőkre vonatkozóan a Módtv. hatálybalépésétől számított hatvan napon belül köteles átdolgozni az e törvény szerinti egységes szabályzatot.
 
-(5) A Módtv. hatálybalépésekor működő szolgáltató a Pmt. 25. § (1) bekezdése szerinti adatszolgáltatást legkésőbb 2021. március 1-ig köteles teljesíteni.
+(5)
 
-(6) A Módtv. hatálybalépésekor működő fizetési számlák, illetve hatályban levő széfszolgáltatási szerződések esetében a Pmt. 25/A. és 25/B. §-a szerinti adatszolgáltatást legkésőbb 2021. március 21-ig kell teljesíteni.
+(6)
 
 (7) A Módtv. hatálybalépését megelőző napig hatályban volt 12. § (5) bekezdése alapján foganatosított korlátozó intézkedést a szolgáltató megszünteti, ha az ügyfél eleget tesz az azonosító adatok közlésére vonatkozó kötelezettségének.

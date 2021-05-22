@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-53-00-00
 | 2020-10-01 | 2019. évi CXIX. törvény | 2017-53-00-00.15 |
 | 2020-11-30 | 2020. évi CX. törvény | 2017-53-00-00.16 |
 | 2021-01-01 | 2020. évi CLXV. törvény | 2017-53-00-00.17 |
+| 2021-05-22 | 2021. évi XLIII. törvény | 2017-53-00-00.18 |

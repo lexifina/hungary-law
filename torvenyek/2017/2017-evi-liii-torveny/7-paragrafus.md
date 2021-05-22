@@ -64,9 +64,13 @@ c) bírósági vagy hatósági nyilvántartásba vétel iránti kérelem bírós
 
 (6) A személyazonosság igazoló ellenőrzése során a szolgáltató köteles ellenőrizni a meghatalmazott esetében a meghatalmazás érvényességét, a rendelkezésre jogosult rendelkezési jogosultságát, továbbá a képviselő képviseleti jogosultságát.
 
-(7) Ha az ügyfél és az üzleti kapcsolat azonosításához kockázatérzékenységi megközelítés alapján ez indokolt, a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (2)–(6) bekezdésben meghatározott intézkedések helyett vagy ezeken túlmenően a személyazonosságra vonatkozó adat olyan közhiteles nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
+(7) Ha az ügyfél és az üzleti kapcsolat azonosításához kockázatérzékenységi megközelítés alapján ez indokolt, a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (3)–(6) bekezdésben meghatározott intézkedéseken túlmenően a személyazonosságra vonatkozó adat felügyeletet ellátó szerv által meghatározott nyilvánosan hozzáférhető nyilvántartás vagy olyan nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
-(8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít.
+(8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében
+
+a) a b) pontban meghatározott eset kivételével, a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít, vagy
+
+b) a (2) bekezdésben meghatározott adatok vonatkozásában a (3) bekezdés alapján elvégzett közhiteles nyilvántartásból történő adatlekérdezés eredményét rögzíti és nyilvántartja.
 
 (8a) A szolgáltató a (8) bekezdésben meghatározott kötelezettség teljesítése során birtokába jutott, a (3) bekezdésben meghatározott okiratban feltüntetett valamennyi személyes adatot – a lakcímet igazoló hatósági igazolvány hátoldalán szereplő személyi azonosító kivételével – kezeli.
 

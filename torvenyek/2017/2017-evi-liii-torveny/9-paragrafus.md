@@ -20,9 +20,11 @@ f) a tulajdonosi érdekeltség jellegét és mértékét.
 
 (4) A szolgáltató köteles a tényleges tulajdonos személyazonosságára vonatkozó adat ellenőrzésére a részére bemutatott okirat, nyilvánosan hozzáférhető nyilvántartás vagy más olyan nyilvántartás alapján, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
-(5) Az ügyfél (1) bekezdésben meghatározott nyilatkoztatása kockázatérzékenységi megközelítés alapján mellőzhető, ha a szolgáltató az (1) és (2) bekezdésben meghatározott adatokat a részére bemutatott okiratok, valamint a nyilvánosan hozzáférhető nyilvántartások vagy olyan nyilvántartások alapján rögzíti, amelyeknek kezelőjétől törvény alapján adatigénylésre jogosult.
+(5) Az ügyfél (1) bekezdésben meghatározott nyilatkoztatása kockázatérzékenységi megközelítés alapján mellőzhető, ha a szolgáltató az (1) és (2) bekezdésben meghatározott adatokat a részére bemutatott okiratok, valamint a tényleges tulajdonosi nyilvántartás és más olyan nyilvántartás alapján rögzíti, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
 (6) Az (5) bekezdésben meghatározott esetben a szolgáltató köteles az arra vonatkozó információt is rögzíteni, hogy az (1) és (2) bekezdésben meghatározott adatok rögzítésére az ügyfél (1) bekezdésben meghatározott nyilatkoztatása mellőzésével került sor.
+
+(6a) A szolgáltató a (3)–(6) bekezdésben meghatározott eljárások elvégzését követően az (1) bekezdésben meghatározott adatok rögzítésének dátumát nyilvántartásában rögzíti.
 
 (7) A szolgáltató köteles nyilvántartást vezetni a tényleges tulajdonos azonosítása és személyazonosságának igazoló ellenőrzése érdekében az (1)–(6) bekezdés alapján megtett intézkedésekről.
 

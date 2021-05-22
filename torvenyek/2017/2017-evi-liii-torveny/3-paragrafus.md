@@ -166,6 +166,10 @@ ee) adott esetben a vagyonkezelést ellenőrző személy(ek); nem természetes s
 
 f) az a) és b) pontban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
 
+38a. tényleges tulajdonosi nyilvántartás: a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 14. pontjában meghatározott tényleges tulajdonosi nyilvántartás;
+
+38b. többségi állami tulajdonú vállalat: teljes mértékben állami vagy helyi önkormányzati tulajdonban álló vállalat, többségi állami tulajdonban álló vállalat, valamint a helyi önkormányzat többségi tulajdonában álló vállalat;
+
 39. utalványkibocsátó: forgatható utalvány kibocsátására irányuló tevékenységre engedéllyel rendelkező szolgáltató;
 
 40. útmutató: az 5. §-ban meghatározott felügyeletet ellátó szerv által az e törvény szerinti felügyeleti tevékenysége keretében a szolgáltatók számára kiadott, iránymutatást tartalmazó alábbi dokumentumok:

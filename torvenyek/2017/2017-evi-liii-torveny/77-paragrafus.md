@@ -20,6 +20,8 @@ g) a képzési programra,
 
 h) az ügylet felfüggesztésére
 
+i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+
 vonatkozó részletszabályokat.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés a)–e) és m) pontjában meghatározott szolgáltatók tekintetében
@@ -40,10 +42,8 @@ g) a képzési programra,
 
 h) az ügylet felfüggesztésére
 
+i) i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+
 vonatkozó részletszabályokat.
 
-(4) Felhatalmazást kap a Kormány, hogy rendeletben
-
-a) állapítsa meg a tényleges tulajdonosok adatainak tárolása céljából létrehozott központi adatbázis, valamint a központi bankszámla- és széfnyilvántartás működésére vonatkozó részletes szabályokat,
-
-b) jelölje ki az a) pont szerinti adatbázis és nyilvántartás működtetéséért felelős szerveket.
+(4)

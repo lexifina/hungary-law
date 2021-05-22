@@ -8,17 +8,19 @@ b) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső s
 
 c) a 17. §-ban meghatározott távoli azonosítás esetén,
 
-d) az ügyfél vagy tényleges tulajdonosa kiemelt közszereplő vagy a kiemelt közszereplő közeli hozzátartozója vagy a kiemelt közszereplővel közeli kapcsolatban álló személy, valamint
+d) az ügyfél vagy tényleges tulajdonosa – a többségi tulajdonú állami vállalat 3. § 38. pont f) pont alapján megállapított tényleges tulajdonosa kivételével – kiemelt közszereplő vagy a kiemelt közszereplő közeli hozzátartozója vagy a kiemelt közszereplővel közeli kapcsolatban álló személy,
 
-e) az 5. §-ban meghatározott felügyeletet ellátó szerv által kiadott útmutatóban meghatározott egyéb esetekben.
+e) az ügyfél az Afad-törvény alapján „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltatónak minősül, valamint
 
-(2) A szolgáltató az (1) bekezdés b)–e) pontjában meghatározott esetekben a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően az alábbi ügyfél-átvilágítási intézkedéseket is köteles elvégezni:
+f) az 5. §-ban meghatározott felügyeletet ellátó szerv által kiadott útmutatóban meghatározott egyéb esetekben.
+
+(2) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően az alábbi ügyfél-átvilágítási intézkedéseket is köteles elvégezni:
 
 a) az üzleti kapcsolat létesítésére kizárólag a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően kerül sor,
 
 b) az üzleti kapcsolat 11. § (1) bekezdésében meghatározott folyamatos figyelemmel kísérését a 65. § szerinti belső szabályzatban meghatározott megerősített eljárásban hajtja végre.
 
-(3) A szolgáltató az (1) bekezdés b)–e) pontjában meghatározott esetekben a (2) bekezdésben meghatározott ügyfél-átvilágítási intézkedések mellett a következő ügyfél-átvilágítási intézkedéseket alkalmazhatja:
+(3) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a (2) bekezdésben meghatározott ügyfél-átvilágítási intézkedések mellett a következő ügyfél-átvilágítási intézkedéseket alkalmazhatja:
 
 a) beszerzi az ügyfél vagyonának forrására vonatkozó információkat,
 
