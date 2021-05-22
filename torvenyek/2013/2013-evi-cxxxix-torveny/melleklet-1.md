@@ -27,11 +27,3 @@
 ## ad) a befektetési alappal kapcsolatos megszűnési eljárás esetén az értékesítésre megállapított határidő meghosszabbításának engedélyezésére,
 
 ## ae) az ÁÉKBV-kel kapcsolatban
-
-## 1. a gyűjtő-ÁÉKBV-nek a cél-ÁÉKBV-be történő befektetésének engedélyezésére,
-
-## 2. a cél-ÁÉKBV megszűnése esetén annak engedélyezése, hogy a gyűjtő-ÁÉKBV egy másik cél-ÁÉKBV-be fektesse eszközeinek legalább 85 százalékát,
-
-## 3. a cél-ÁÉKBV megszűnése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV módosítsa a kezelési szabályzatát olyan módon, hogy nem gyűjtő ÁÉKBV-ként működik tovább,
-
-## 4. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV továbbra is a cél-ÁÉKBV gyűjtő-ÁÉKBV-je maradjon,
