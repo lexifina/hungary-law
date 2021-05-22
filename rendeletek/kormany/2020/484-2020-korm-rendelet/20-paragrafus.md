@@ -26,6 +26,6 @@ d) a Kormány katasztrófák elleni védekezésért felelős tagjának felkéré
 
 ## alapján, az a) vagy b) pont szerinti döntésben, valamint a c) vagy d) pont szerinti felkérésben megjelölt létesítmény vonatkozásában – a kapacitásai és az egyéb, a veszélyhelyzetben ellátandó feladatai teljesíthetősége figyelembevétele mellett – látja el.
 
-(5)[^102] A Magyar Honvédség a veszélyhelyzet ideje alatt a (2) bekezdésben meghatározott feladatokon túl az Operatív Törzs felkérése alapján közreműködik a SARS-CoV-2 koronavírus elleni tömeges oltási feladatok biztosításában a kapacitásai, valamint az egyéb, a veszélyhelyzet és a járványügyi készültség ideje alatt ellátandó feladatai teljesíthetősége figyelembevétele mellett.
+(5)[^115] A Magyar Honvédség a veszélyhelyzet ideje alatt a (2) bekezdésben meghatározott feladatokon túl az Operatív Törzs felkérése alapján közreműködik a SARS-CoV-2 koronavírus elleni tömeges oltási feladatok biztosításában a kapacitásai, valamint az egyéb, a veszélyhelyzet és a járványügyi készültség ideje alatt ellátandó feladatai teljesíthetősége figyelembevétele mellett.
 
-[^102]: A 20. § (5) bekezdését a 109/2021. (III. 5.) Korm. rendelet 1. §-a iktatta be.
+[^115]: A 20. § (5) bekezdését a 109/2021. (III. 5.) Korm. rendelet 1. §-a iktatta be.
