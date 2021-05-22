@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-167-20-
 | 2021-04-19 | 2021-167-20-22.2 | 177/2021. (IV. 15.) Korm. rendelet |
 | 2021-04-24 | 2021-167-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-05-18 | 2021-167-20-22.4 | 251/2021. (V. 17.) Korm. rendelet |
+| 2021-05-22 | 2021-167-20-22.5 | 271/2021. (V. 21.) Korm. rendelet |
