@@ -1,1 +1,3 @@
-## 11. § A növényvédő szerrel szennyezett csomagolóeszköz hulladékok kezeléséről szóló 103/2003. (IX. 11.) FVM rendelet 10. §-ában a „járási hivatal” szövegrész helyébe a „megyei kormányhivatal” szöveg lép.
+## 11. §[^10]
+
+[^10]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
