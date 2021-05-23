@@ -1,3 +1,3 @@
-10. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^460]
+10. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^461]
 
-[^460]: A 10. mellékletet az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^461]: A 10. mellékletet az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés g) pontja hatályon kívül helyezte.

@@ -20,7 +20,13 @@ A nemzeti kategóriára érvényesített vezetői engedély csak belföldön tö
 
 (3a)[^44] A 2. mellékletben a „B” kategória meghatározásától eltérően, belföldön a 3500 kg-ot meghaladó, de 4250 kg-ot meg nem haladó megengedett legnagyobb össztömegű, pótkocsi nélküli olyan jármű is vezethető, amely az Országos Mentőszolgálat sürgősségi betegellátást végző mentőjárműve.
 
-(4)[^45] A vezetői engedély a személyazonosság igazolására a vezetői engedély érvényességi időpontjáig, a 65. életévüket betöltöttek esetében a vezetői engedély érvényességi idejének lejártát követően is alkalmas.
+(3b)[^45] Legalább két éve érvényes „B” kategóriájú vezetői engedéllyel – amely nem kezdő vezetői engedély – a 2. mellékletben a „B” kategória meghatározásától eltérően, belföldön a 3500 kg-ot meghaladó, de 4250 kg-ot meg nem haladó megengedett legnagyobb össztömegű, pótkocsi nélküli, alternatív üzemanyaggal működő jármű is vezethető, feltéve, hogy
+
+a) a 3500 kg feletti tömeg a meghajtó rendszernek az ugyanolyan méretű, külső gyújtású vagy kompressziós gyújtású hagyományos belső égésű motorral ellátott jármű meghajtórendszeréhez viszonyított többlettömegének eredménye, valamint
+
+b) a teherbíró kapacitás ugyanezen nem alternatív üzemanyagú járműhöz viszonyítva nem nagyobb.
+
+(4)[^46] A vezetői engedély a személyazonosság igazolására a vezetői engedély érvényességi időpontjáig, a 65. életévüket betöltöttek esetében a vezetői engedély érvényességi idejének lejártát követően is alkalmas.
 
 (5) A vezetői engedély vezetési jogosultság igazolására a következő határidőig alkalmas:
 
@@ -37,4 +43,5 @@ b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével 
 [^42]: Az 5. § (3) bekezdés b) pont bb) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^43]: Az 5. § (3) bekezdés b) pont bc) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^44]: Az 5. § (3a) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^45]: Az 5. § (4) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^45]: Az 5. § (3b) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^46]: Az 5. § (4) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.

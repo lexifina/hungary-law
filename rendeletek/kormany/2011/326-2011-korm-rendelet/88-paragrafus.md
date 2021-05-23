@@ -6,6 +6,6 @@
 
 (3) A forgalmi engedély (17. melléklet) érvényesség idejétől függően állandó vagy ideiglenes.
 
-(4)[^319] Az állandó forgalmi engedély határozatlan ideig, az ideiglenes forgalmi engedély a H adatmezőjében feltüntetett időpontig érvényes.
+(4)[^320] Az állandó forgalmi engedély határozatlan ideig, az ideiglenes forgalmi engedély a H adatmezőjében feltüntetett időpontig érvényes.
 
-[^319]: A 88. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 37. §-a iktatta be.
+[^320]: A 88. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 37. §-a iktatta be.

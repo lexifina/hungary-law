@@ -1,14 +1,14 @@
-16. § (1)[^68] Járművezetésre jogosító okmányt a nem kaphat az a személy, aki járművezetésre közlekedésbiztonsági szempontból alkalmatlan. E rendelet alkalmazásában közlekedésbiztonsági szempontból járművezetésre alkalmatlannak kell tekinteni azt a személyt,
+16. § (1)[^69] Járművezetésre jogosító okmányt a nem kaphat az a személy, aki járművezetésre közlekedésbiztonsági szempontból alkalmatlan. E rendelet alkalmazásában közlekedésbiztonsági szempontból járművezetésre alkalmatlannak kell tekinteni azt a személyt,
 
-a)[^69] akit a bíróság vagy a szabálysértési hatóság a járművezetéstől jogerősen eltiltott, a határozatban meghatározott ideig, kivéve a 37. §-ban szabályozott eseteket,
+a)[^70] akit a bíróság vagy a szabálysértési hatóság a járművezetéstől jogerősen eltiltott, a határozatban meghatározott ideig, kivéve a 37. §-ban szabályozott eseteket,
 
-b)[^70] akinek kényszergyógykezelését a bíróság elrendelte, annak időtartamára,
+b)[^71] akinek kényszergyógykezelését a bíróság elrendelte, annak időtartamára,
 
-c)[^71] akinek a vezetési jogosultsága szünetelését a hatóság végleges határozatával elrendelte, annak időtartama alatt,
+c)[^72] akinek a vezetési jogosultsága szünetelését a hatóság végleges határozatával elrendelte, annak időtartama alatt,
 
-d)[^72] akit a bíróság cselekvőképességet teljesen korlátozó gondnokság alá helyezett,
+d)[^73] akit a bíróság cselekvőképességet teljesen korlátozó gondnokság alá helyezett,
 
-e)[^73] akinek a vezetői engedélyét a közúti közlekedési előéleti pontrendszerről szóló törvény alapján a közlekedési igazgatási hatóság ideiglenesen visszavonta, a határozat véglegessé válásától kezdődően a visszavonást követően elkezdett utánképzés elvégzését tanúsító igazolásnak az engedély-nyilvántartásba elektronikus úton történő beérkezéséig, de legalább a vezetői engedély leadása napjától számított hat hónapig,
+e)[^74] akinek a vezetői engedélyét a közúti közlekedési előéleti pontrendszerről szóló törvény alapján a közlekedési igazgatási hatóság ideiglenesen visszavonta, a határozat véglegessé válásától kezdődően a visszavonást követően elkezdett utánképzés elvégzését tanúsító igazolásnak az engedély-nyilvántartásba elektronikus úton történő beérkezéséig, de legalább a vezetői engedély leadása napjától számított hat hónapig,
 
 f) akinek az egészségi alkalmatlanságát a közúti járművezetők egészségi alkalmasságának megállapításáról szóló miniszteri rendelet alapján megállapították, az egészségi alkalmasság igazolásáig.
 
@@ -24,9 +24,9 @@ c) egészségi alkalmasság vagy
 
 d) a pályaalkalmasság igazolásához
 
-[^68]: A 16. § (1) bekezdés nyitó szövegrésze az 572/2020. (XII. 9.) Korm. rendelet 45. § 6. pontja szerint módosított szöveg.
-[^69]: A 16. § (1) bekezdés a) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
-[^70]: A 16. § (1) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
-[^71]: A 16. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 368. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^72]: A 16. § (1) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § c) pontja, a 60/2017. (III. 20.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
-[^73]: A 16. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^69]: A 16. § (1) bekezdés nyitó szövegrésze az 572/2020. (XII. 9.) Korm. rendelet 45. § 6. pontja szerint módosított szöveg.
+[^70]: A 16. § (1) bekezdés a) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
+[^71]: A 16. § (1) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^72]: A 16. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 368. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^73]: A 16. § (1) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § c) pontja, a 60/2017. (III. 20.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^74]: A 16. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
