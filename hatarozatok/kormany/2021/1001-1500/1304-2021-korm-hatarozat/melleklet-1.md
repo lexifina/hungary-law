@@ -24,17 +24,11 @@
 
 ## Határidő: azonnal
 
-## 3. A Kormány visszavonja a KEHOP-1.3.0-15-2015-00007 azonosító számú („Balaton levezető rendszerének korszerűsítése” című) projekt támogatásának növeléséről, valamint a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat módosításáról szóló 1509/2019. (VIII. 23.) Korm. határozatot.
+## 3.[^1]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:39 mezőjében a „14,51” szövegrész helyébe a „15,53” szöveg,
-
-## b) E:39 mezőjében a „4,43” szövegrész helyébe a „3,42” szöveg
-
-## lép.
+## 5.[^2]
 
 1. melléklet az 1304/2021. (V. 21.) Korm. határozathoz
 
@@ -45,3 +39,6 @@
 | 2. | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó, forint) | Magyarország központi költségvetése keretében finanszírozott támogatás (bruttó, forint) | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó, forint) | Magyarország központi költségvetése keretében finanszírozott támogatás (bruttó, forint) | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó, forint) | Magyarország központi költségvetése keretében finanszírozott támogatás (bruttó, forint) |
 
 | 3. | KEHOP-1.3.0- 15-2015-00007 | Balaton levezető rendszerének korszerűsítése | Országos Vízügyi Főigazgatóság (konzorciumvezető) Közép-dunántúli Vízügyi Igazgatóság | 14 509 950 692 | 4 429 141 304 | 1 018 047 017 | – 1 018 047 017 | 15 527 997 709 | 3 411 094 287 | 18 939 091 996 | A projekt célja az éghajlatváltozás felszíni és felszín alatti vizekre gyakorolt káros hatásainak mérséklése érdekében a vízgazdálkodás helyzetének javítása, a vízhiányos időszakokban jelentkező vízigények kielégítésének elősegítése, valamint a természetes vízkészletek hasznosíthatóságának növelése. A projektben 80 000 hektár területet érint vízgazdálkodási fejlesztés. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
