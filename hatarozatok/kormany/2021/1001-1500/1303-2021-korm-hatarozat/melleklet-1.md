@@ -18,22 +18,12 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete az 1. melléklet szerint módosul.
+## 3.[^1]
 
-## 4. Az 1247/2016. (V. 18.) Korm. határozat
+## 4.[^2]
 
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „124,00%-áig” szövegrész helyébe a „124,39%-áig” szöveg,
+1. melléklet az 1303/2021. (V. 21.) Korm. határozathoz[^3]
 
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében a „620,839” szövegrész helyébe a „622,789” szöveg
-
-## lép.
-
-1. melléklet az 1303/2021. (V. 21.) Korm. határozathoz
-
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 65.o sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 65.o | IKOP-2.1.0-15 | Kulcsmenedzsment és Monitoring rendszer | MÁV Zrt. | 1,95 (támogatási intenzitás: 100%) | A GSM-R/ETCS rendszerek közötti együttműködést és a szolgáltatások minőségét biztosító monitoring rendszer, valamint a rádiós irányítóközpont és a közlekedő járművek közötti kommunikáció biztonságos lebonyolításához szükséges kulcsmenedzsment-rendszer megvalósítása. |
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
