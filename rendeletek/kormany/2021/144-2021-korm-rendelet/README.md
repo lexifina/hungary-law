@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-144-20-
 | 2021-05-01 | 2021-144-20-22.6 | 194/2021. (IV. 26.) Korm. rendelet |
 | 2021-05-10 | 2021-144-20-22.7 | 194/2021. (IV. 26.) Korm. rendelet |
 | 2021-05-22 | 2021-144-20-22.8 | 271/2021. (V. 21.) Korm. rendelet |
+| 2021-05-23 | 2021-144-20-22.9 | 264/2021. (V. 21.) Korm. rendelet |

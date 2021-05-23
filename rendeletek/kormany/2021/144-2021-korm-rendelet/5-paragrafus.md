@@ -1,4 +1,6 @@
-5. § (1)[^6] Reggel 5 óra és este 11 óra között az üzlet az e rendeletben meghatározott ideiglenes védelmi intézkedések végrehajtása és betartása esetén tarthat nyitva.
+## 4. §[^4]
+
+5. § (1)[^5] Az üzlet az e rendeletben meghatározott ideiglenes védelmi intézkedések végrehajtása és betartása esetén tarthat nyitva.
 
 (2) Az e rendeletben meghatározott ideiglenes védelmi intézkedések végrehajtását és betartását nem vállaló
 
@@ -6,7 +8,7 @@ a) üzletben az ott foglalkoztatottak kivételével tilos tartózkodni,
 
 b) üzlet köteles zárva tartani.
 
-(3)[^7] A vendéglátó üzlet e rendelet alkalmazásában nem minősül üzletnek.
+(3)[^6] A vendéglátó üzlet e rendelet alkalmazásában nem minősül üzletnek.
 
 (4) A tíz négyzetméteres vagy ennél kisebb vásárlótérrel rendelkező üzlet vásárlóterében az ott foglalkoztatottakon kívül egy időben egy vásárló tartózkodhat.
 
@@ -46,5 +48,6 @@ c) a fogyatékossággal élő személy segítőjét
 
 (11) Az olyan üzlet, amely nem rendelkezik vásárlótérrel, abban az esetben tarthat nyitva, ha az üzlet üzemeltetője, illetve vezetője gondoskodik arról, hogy a sorban álló várakozók – a közös háztartásban élők kivételével – egymástól 1,5 méteres távolságot folyamatosan tartsanak.
 
-[^6]: Az 5. § (1) bekezdése a 194/2021. (IV. 26.) Korm. rendelet 16. § b) pontja, a 233/2021. (V. 6.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^7]: Az 5. § (3) bekezdése a 233/2021. (V. 6.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^4]: A 4. §-t a 264/2021. (V. 21.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^5]: Az 5. § (1) bekezdése a 264/2021. (V. 21.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^6]: Az 5. § (3) bekezdése a 233/2021. (V. 6.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
