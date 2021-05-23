@@ -8,4 +8,6 @@
 
 (4) Az (1) bekezdés szerinti helyszíneken a versenyző, valamint az őt felkészítő sportszakember nem köteles maszkot viselni.
 
-(5) Az (1) bekezdés szerinti helyszíneken este 11 óra és reggel 5 óra között a versenyző és az őt felkészítő sportszakember is tartózkodhat.
+(5)[^2]
+
+[^2]: Az 1. § (5) bekezdését a 26462021. (V. 21.) Korm. rendelet 13. §-a hatályon kívül helyezte.
