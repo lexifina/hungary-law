@@ -1,1 +1,3 @@
-## „g) arra a tizennyolcadik életévét be nem töltött személyre, aki a d)–f) pont szerinti személy felügyelete alatt áll, és vele együtt lépi át Magyarország határát.”
+2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
