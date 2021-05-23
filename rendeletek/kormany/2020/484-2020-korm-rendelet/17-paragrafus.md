@@ -1,10 +1,10 @@
 ## foglalt előírásokat nem kell alkalmazni.
 
-## 10. [^105] A nevelési, oktatási intézményekre vonatkozó védelmi intézkedések
+## 10. [^114] A nevelési, oktatási intézményekre vonatkozó védelmi intézkedések
 
-17. §[^106] (1)[^107] A bölcsődék nyitva tartanak.
+17. §[^115] (1)[^116] A bölcsődék nyitva tartanak.
 
-(2)[^108]
+(2)[^117]
 
 (3) A nevelési, oktatási intézménybe
 
@@ -20,7 +20,7 @@ b) történő belépés során azt a gyermeket, illetve kiskorú tanulót, akine
 
 (7) A nevelési, oktatási intézménybe történő érkezéskor mindenki köteles magát a testhőmérséklet ellenőrzésnek alávetni.
 
-[^105]: A 10. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
-[^106]: A 17. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^107]: A 17. § (1) bekezdése a 104/2021. (III. 5.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
-[^108]: A 17. § (2) bekezdését a 104/2021. (III. 5.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^114]: A 10. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
+[^115]: A 17. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^116]: A 17. § (1) bekezdése a 104/2021. (III. 5.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^117]: A 17. § (2) bekezdését a 104/2021. (III. 5.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.

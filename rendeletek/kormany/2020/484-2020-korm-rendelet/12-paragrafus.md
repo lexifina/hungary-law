@@ -1,8 +1,8 @@
-## üzemeltetője, illetve vezetője köteles gondoskodni.
+## 11. §[^88]
 
-## 7. [^81] A szabadidős létesítményekre vonatkozó védelmi intézkedések
+## 7. [^89] A szabadidős létesítményekre vonatkozó védelmi intézkedések
 
-12. §[^82] (1) Az e rendeletben meghatározott kivétellel tilos
+12. §[^90] (1) Az e rendeletben meghatározott kivétellel tilos
 
 a) az előadó-művészet valamennyi ágának fellépése céljából megtartott eseménynek, függetlenül annak nyilvánosságától (így különösen színház, tánc-, zeneművészet, cirkusz),
 
@@ -38,7 +38,15 @@ jf) integrált kulturális intézménynek
 
 ## a látogatása és e helyszíneken – az ott foglalkoztatottak kivételével – a tartózkodás.
 
-(2)[^83] A szálláshelyen
+(1a)[^91] E rendelet alkalmazásában nem minősül zenés-táncos rendezvénynek a kulturális esemény, ha az (1) bekezdés a) pontja szerinti, az előadó-művészet valamennyi ágának fellépése céljából megtartott esemény
+
+a) az e művészet céljára rendelt helyszínen kerül megtartásra,
+
+b) előre megváltott ülőhelyre szóló jegy ellenében látogatható, és
+
+c) a néző az előadás időtartama alatt az előre megváltott ülőhelyén köteles tartózkodni.
+
+(2)[^92] A szálláshelyen
 
 a) a 10. § (3) és (4) bekezdése szerint jogszerűen tartózkodó vendég, ha koronavírus ellen védett személy, valamint
 
@@ -46,25 +54,25 @@ b) a 10. § (5) bekezdése szerint jogszerűen tartózkodó vendég
 
 ## a szálláshelyen található, (1) bekezdés szerinti helyszíneket látogathatja.
 
-(3)[^84]
+(3)[^93]
 
-(3a)[^85] Az (1) bekezdés szerinti helyszíneket – az edző- és fitneszterem, az uszoda és a jégpálya kivételével – a koronavírus ellen védett személy, valamint a felügyelete alatt lévő tizennyolcadik életévét be nem töltött személy látogathatja.
+(3a)[^94] Az (1) bekezdés szerinti helyszíneket – az edző- és fitneszterem, az uszoda és a jégpálya kivételével – a koronavírus ellen védett személy, valamint a felügyelete alatt lévő tizennyolcadik életévét be nem töltött személy látogathatja.
 
-(4)[^86] A jégpályák, az uszodák, az edző- és fitnesztermek és a sportlétesítmények
+(4)[^95] A jégpályák, az uszodák, az edző- és fitnesztermek és a sportlétesítmények
 
-a)[^87] a sportról szóló törvény szerint versenyszerűen sportoló tizennyolcadik életévét be nem töltött személy és az őt felkészítő sportszakember számára edzésen vagy sportrendezvényen való részvétel céljából,
+a)[^96] a sportról szóló törvény szerint versenyszerűen sportoló tizennyolcadik életévét be nem töltött személy és az őt felkészítő sportszakember számára edzésen vagy sportrendezvényen való részvétel céljából,
 
-b)[^88] a koronavírus ellen védett személy számára, valamint
+b)[^97] a koronavírus ellen védett személy számára, valamint
 
-c)[^89] testnevelés óra, sportszakkör (ideértve az iskolai sportkör) vagy sportoktatás keretében a gyermekek, illetve a tanulók számára a testnevelés óra, sportszakkör (ideértve az iskolai sportkör) vagy sportoktatás vezetője kíséretében
+c)[^98] testnevelés óra, sportszakkör (ideértve az iskolai sportkör) vagy sportoktatás keretében a gyermekek, illetve a tanulók számára a testnevelés óra, sportszakkör (ideértve az iskolai sportkör) vagy sportoktatás vezetője kíséretében
 
 ## látogathatóak.
 
-(4a)[^90] A (4) bekezdés szerinti helyszínre történő beléptetést megelőzően a sportról szóló törvény szerint versenyszerűen sportoló tizennyolcadik életévét be nem töltött személy életkorát és versenyszerű sportoló minőségét, valamint az őt felkészítő sportszakember e minőségét igazolja.
+(4a)[^99] A (4) bekezdés szerinti helyszínre történő beléptetést megelőzően a sportról szóló törvény szerint versenyszerűen sportoló tizennyolcadik életévét be nem töltött személy életkorát és versenyszerű sportoló minőségét, valamint az őt felkészítő sportszakember e minőségét igazolja.
 
-(4b)[^91] A (4) bekezdés szerinti helyszín üzemeltetője vagy vezetője, illetve az üzemeltető vagy a vezető alkalmazottja annak, a sportról szóló törvény szerint tizennyolcadik életévét be nem töltött versenyszerűen sportolónak, valamint őt felkészítő sportszakembernek a beléptetését megtagadja, valamint a látogatás megkezdését megakadályozza, aki a (4a) bekezdésben foglaltakat nem igazolja.
+(4b)[^100] A (4) bekezdés szerinti helyszín üzemeltetője vagy vezetője, illetve az üzemeltető vagy a vezető alkalmazottja annak, a sportról szóló törvény szerint tizennyolcadik életévét be nem töltött versenyszerűen sportolónak, valamint őt felkészítő sportszakembernek a beléptetését megtagadja, valamint a látogatás megkezdését megakadályozza, aki a (4a) bekezdésben foglaltakat nem igazolja.
 
-(4c)[^92] A (3a) és a (4) bekezdés szerinti helyszín üzemeltetője vagy vezetője, illetve az üzemeltető vagy a vezető alkalmazottja – a (4a) bekezdés szerinti kivétellel – annak a beléptetését megtagadja, valamint a látogatás megkezdését megakadályozza, aki
+(4c)[^101] A (3a) és a (4) bekezdés szerinti helyszín üzemeltetője vagy vezetője, illetve az üzemeltető vagy a vezető alkalmazottja – a (4a) bekezdés szerinti kivétellel – annak a beléptetését megtagadja, valamint a látogatás megkezdését megakadályozza, aki
 
 a) a koronavírus elleni védettségét az e rendeletben meghatározott módon,
 
@@ -74,44 +82,40 @@ c) a (4) bekezdés c) pontja esetében a testnevelés óra, sportszakkör (ideé
 
 ## nem igazolja.
 
-(4d)[^93] A (3a) és a (4) bekezdés szerinti helyszínen foglalkoztatott személy számára a maszkhasználat szabályait a (3a) és a (4) bekezdés szerinti helyszín vezetője határozza meg, azzal, hogy
+(4d)[^102] A (3a) és a (4) bekezdés szerinti helyszínen foglalkoztatott személy számára a maszkhasználat szabályait a (3a) és a (4) bekezdés szerinti helyszín vezetője határozza meg, azzal, hogy
 
 a) a (3a) és a (4) bekezdés szerinti helyszínen foglalkoztatott személy, ha a koronavírus elleni védettséget e rendeletben meghatározott módon a (3a) és a (4) bekezdés szerinti helyszín vezetője felé nem igazolja, köteles a (3a) és a (4) bekezdés szerinti helyszín látogatók által látogatható területein és helyszínein az 1. § (1) bekezdésében meghatározott módon maszkot viselni,
 
 b) a maszkhasználatot nem tilthatja meg.
 
-(4e)[^94] Az (1) bekezdés szerinti helyszíneken – az edző- és fitneszterem, az uszoda és a jégpálya kivételével – a koronavírus ellen védett személy, valamint a felügyelete alatt lévő tizennyolcadik életévét be nem töltött személy nem köteles maszkot viselni. Az edző- és fitneszteremben, az uszodában, a jégpályán, valamint a sportlétesítményben a koronavírus ellen védett személy, valamint a sportról szóló törvény szerint tizennyolcadik életévét be nem töltött versenyszerűen sportoló, valamint őt felkészítő sportszakember nem köteles maszkot viselni.
+(4e)[^103] Az (1) bekezdés szerinti helyszíneken – az edző- és fitneszterem, az uszoda és a jégpálya kivételével – a koronavírus ellen védett személy, valamint a felügyelete alatt lévő tizennyolcadik életévét be nem töltött személy nem köteles maszkot viselni. Az edző- és fitneszteremben, az uszodában, a jégpályán, valamint a sportlétesítményben a koronavírus ellen védett személy, valamint a sportról szóló törvény szerint tizennyolcadik életévét be nem töltött versenyszerűen sportoló, valamint őt felkészítő sportszakember nem köteles maszkot viselni.
 
-(4f)[^95] A (3a) bekezdés szerinti helyszínen este 11 óra és reggel 5 óra között – az ott foglalkoztatottak kivételével – tilos tartózkodni.
+(4f)[^104]
 
-(4g)[^96] A (4) bekezdés szerinti helyszínen este 11 óra és reggel 5 óra között kizárólag az ott foglalkoztatott, továbbá – edzésen vagy sportrendezvényen való részvétel céljából – a sportról szóló törvény szerint versenyszerűen sportoló
+(4g)[^105]
 
-a) tizennyolcadik életévét be nem töltött személy, és az őt felkészítő sportszakember, valamint
-
-b) koronavírus ellen védett személy és az őt felkészítő sportszakember
-
-## tartózkodhat.
-
-(5)[^97] Az (1) bekezdés j) pontja szerinti intézmény
+(5)[^106] Az (1) bekezdés j) pontja szerinti intézmény
 
 a) a felnőttképzésről szóló törvény vagy
 
 b) a szakképzésről szóló törvény
 
-[^81]: A 7. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
-[^82]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^83]: A 12. § (2) bekezdése a 194/2021. (IV. 26.) Korm. rendelet 5. § (1) bekezdésével megállaíptott szöveg. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^84]: A 12. § (3) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^85]: A 12. § (3a) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (2) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^86]: A 12. § (4) bekezdése a 194/2021. (IV. 26.) Korm. rendelet 5. § (3) bekezdésével megállaíptott szöveg. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^87]: A 12. § (4) bekezdés a) pontja a 233/2021. (V. 6.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^88]: A 12. § (4) bekezdés b) pontja a 233/2021. (V. 6.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^89]: A 12. § (4) bekezdés c) pontját a 233/2021. (V. 6.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^90]: A 12. § (4a) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^91]: A 12. § (4b) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^92]: A 12. § (4c) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be, szövege a 233/2021. (V. 6.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^93]: A 12. § (4d) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^94]: A 12. § (4e) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^95]: A 12. § (4f) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^96]: A 12. § (4g) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^97]: A 12. § (5) bekezdését a 28/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
+[^88]: A 11. §–t a 264/2021. (V. 21.) Korm. rendelet 6. § m) pontja hatályon kívül helyezte.
+[^89]: A 7. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
+[^90]: A 12. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^91]: A 12. § (1a) bekezdését a 264/2021. (V. 21.) Korm. rendelet 3. §-a iktatta be.
+[^92]: A 12. § (2) bekezdése a 194/2021. (IV. 26.) Korm. rendelet 5. § (1) bekezdésével megállaíptott szöveg. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^93]: A 12. § (3) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^94]: A 12. § (3a) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (2) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^95]: A 12. § (4) bekezdése a 194/2021. (IV. 26.) Korm. rendelet 5. § (3) bekezdésével megállaíptott szöveg. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^96]: A 12. § (4) bekezdés a) pontja a 233/2021. (V. 6.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^97]: A 12. § (4) bekezdés b) pontja a 233/2021. (V. 6.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^98]: A 12. § (4) bekezdés c) pontját a 233/2021. (V. 6.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^99]: A 12. § (4a) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^100]: A 12. § (4b) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^101]: A 12. § (4c) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be, szövege a 233/2021. (V. 6.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^102]: A 12. § (4d) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^103]: A 12. § (4e) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^104]: A 12. § (4f) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be, hatályon kívül helyeztea 264/2021. (V. 21.) Korm. rendelet 6. § n) pontja hatályon kívül helyezte.
+[^105]: A 12. § (4g) bekezdését a 194/2021. (IV. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be, hatályon kívül helyezte a 264/2021. (V. 21.) Korm. rendelet 6. § n) pontja.
+[^106]: A 12. § (5) bekezdését a 28/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.

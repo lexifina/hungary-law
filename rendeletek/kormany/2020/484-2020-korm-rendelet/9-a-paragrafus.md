@@ -1,16 +1,6 @@
-## 5/A. [^66] Időskorú honfitársainkra vonatkozó védelmi intézkedések
+## 9. §[^75]
 
-9/A. §[^67] (1) Saját és családja érdekében a 65. életévét betöltött személy
+## 5/A.[^76]
 
-a) a napi fogyasztási cikket értékesítő élelmiszerüzletet (a továbbiakban: élelmiszerüzlet),
-
-b) a napi fogyasztási cikket értékesítő egyéb (illatszert, drogériai terméket, háztartási tisztítószert, vegyi árut és higiéniai papírterméket árusító) üzletet (a továbbiakban együtt: drogéria) és
-
-c) a gyógyszert, a gyógyászati segédeszközt forgalmazó üzletet (a továbbiakban együtt: gyógyszertár)
-
-## hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és vasárnap 8.00 óra és 10.00 óra közötti időben látogathatja.
-
-(2) Az élelmiszerüzletben, a drogériában és a gyógyszertárban hétfőtől péntekig 9.00 óra és 11.00 óra közötti időben, szombaton és vasárnap 8.00 óra és 10.00 óra közötti időben (a továbbiakban: védett vásárlási idősáv) az ott foglalkoztatottak kivételével kizárólag az (1) bekezdés szerinti személy tartózkodhat.
-
-[^66]: Az 5/A. alcím címet az 513/2020. (XI. 23.) Korm. rendelet 1. §-a iktatta be. Az 5/A. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
-[^67]: A 9/A. §-t az 513/2020. (XI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^75]: A 9. §-t a 264/2021. (V. 21.) Korm. rendelet 6. § j) pontja hatályon kívül helyezte.
+[^76]: Az 5/A. alcím címet az 513/2020. (XI. 23.) Korm. rendelet 1. §-a iktatta be, az 5/A. alcímet (9/A–9/C. §) a 264/2021. (V. 21.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
