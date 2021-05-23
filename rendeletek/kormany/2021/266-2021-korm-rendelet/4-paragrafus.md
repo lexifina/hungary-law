@@ -1,1 +1,3 @@
-## 3. § Az R1. 2/A. § (7) bekezdésében az „az adatokat semmilyen” szövegrész helyébe az „az adatokat – ha törvény vagy a veszélyhelyzetben az Alaptörvény 53. cikk (2) bekezdése alapján alkotott kormányrendelet eltérően nem rendelkezik – semmilyen” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
