@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 1. pontjában foglalt táblázat C:2 mezőjében a „13,97” szövegrész helyébe a „16,97” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:2 mezőjében a „13,97” szövegrész helyébe a „16,97” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1302/2021. (V. 21.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-1.1.1-15- 2015-00001 | Megváltozott munkaképességű emberek támogatása | Nemzeti Szociálpolitikai Intézet (konzorciumvezető) Magyar Államkincstár | 13 965 294 850 | 3 000 000 000 | 16 965 294 850 | A projekt célja a megváltozott munkaképességű személyek nyílt munkaerőpiaci integrációjának elősegítése foglalkozási rehabilitációs szolgáltatások nyújtásával, foglalkoztatásuk ösztönzése, képzettségi szintjük növelése, valamint a megváltozott munkaképességű személyeket foglalkoztatni képes munkaadók szemléletének formálása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
