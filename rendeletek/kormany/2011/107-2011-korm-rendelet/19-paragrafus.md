@@ -1,3 +1,3 @@
-## 18. §[^236]
+## 18. §[^239]
 
-[^236]: A 18. §-t a 318/2018. (XII. 27.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^239]: A 18. §-t a 318/2018. (XII. 27.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
