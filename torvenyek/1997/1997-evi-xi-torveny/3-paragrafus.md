@@ -22,11 +22,11 @@ c) valamely vallási vagy egyéb meggyőződést erőteljesen kifejező jelképe
 
 (4) A megjelölés nem részesülhet védjegyoltalomban, ha
 
-a) e törvény Hetedik Része alapján oltalomban részesülő földrajzi árujelző bejelentési napjánál később tett védjegybejelentésben igényelnek rá – a földrajzi árujelző által jelölt termékkel azonos típusba tartozó árukra vonatkozóan – oltalmat és használata a 109. § (2) bekezdésébe ütközne,
+a) e törvény Hetedik vagy Nyolcadik Része alapján oltalomban részesülő földrajzi árujelző bejelentési napjánál később tett védjegybejelentésben igényelnek rá – a földrajzi árujelző által jelölt termékkel azonos típusba tartozó árukra vonatkozóan – oltalmat és használata a 109. § (2) bekezdésébe ütközne,
 
 b) az eredetmegjelölések és földrajzi jelzések oltalmát biztosító európai uniós jogszabály alapján ki van zárva az oltalomból, vagy
 
-c) az eredetmegjelölések és földrajzi jelzések oltalmát biztosító olyan nemzetközi megállapodás alapján, amelyben az Európai Unió vagy Magyarország részes fél, ki van zárva az oltalomból.
+c) az eredetmegjelölések és földrajzi jelzések oltalmát biztosító olyan nemzetközi megállapodások alapján, amelyekben az Európai Unió vagy Magyarország részes fél, ki van zárva az oltalomból.
 
 (5) A megjelölés nem részesülhet védjegyoltalomban, ha a borral kapcsolatos hagyományos kifejezések oltalmát európai uniós jogszabály rendelkezései alapján vagy ennek megfeleltethető oltalmat biztosító olyan nemzetközi megállapodás alapján, amelyben az Európai Unió részes fél, ki van zárva az oltalomból.
 

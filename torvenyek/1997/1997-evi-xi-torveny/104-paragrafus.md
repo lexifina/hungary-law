@@ -1,1 +1,1 @@
-104. § A szeszes italok földrajzi árujelzői akkor részesülhetnek oltalomban, ha azok a termékek, amelyeken a földrajzi árujelzőt használják, megfelelnek a külön jogszabály által meghatározott termékleírásban foglalt feltételeknek is.
+104. §

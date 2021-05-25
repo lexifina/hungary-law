@@ -2,7 +2,7 @@
 
 107. § (1) A földrajzi árujelzőt oltalomban kell részesíteni, ha
 
-a) kielégíti a 103., illetve 104. §-okban meghatározott követelményeket, és a 105. és 106. §-ok alapján nincs kizárva az oltalomból; valamint
+a) kielégíti a 103. §-ban meghatározott követelményeket, és a 105. és 106. §-ok alapján nincs kizárva az oltalomból; valamint
 
 b) bejelentése megfelel az e törvényben megszabott feltételeknek.
 

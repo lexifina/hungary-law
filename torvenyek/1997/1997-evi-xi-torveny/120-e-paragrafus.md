@@ -1,0 +1,3 @@
+120/E. § (1) A Nemzetközi Iroda által a Lisszaboni Megállapodás alapján 2020. február 26. napjáig lajstromozott valamennyi eredetmegjelölés e törvény értelmében továbbra is oltalomban részesül az (EU) 2019/1753 rendelet 12. cikk (2) bekezdés a) vagy b) pontjában meghatározott időpontig.
+
+(2) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdés szerinti időponttól kezdődően a Lisszaboni Megállapodás 5. cikk (3) bekezdése alapján nem biztosítja az eredetmegjelölés oltalmát és az erről szóló, indokolással ellátott nyilatkozatát megküldi a Nemzetközi Irodának az (EU) 2019/1753 rendelet 12. cikk (6) bekezdésében foglaltaknak megfelelően.

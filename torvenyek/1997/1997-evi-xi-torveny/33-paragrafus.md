@@ -6,7 +6,7 @@ a) a védjegyoltalom tárgya nem felelt meg a 8. § a) pontjában meghatározott
 
 b) a védjegyoltalom tárgyát képező megjelölés különbözik attól vagy az árujegyzék bővebb annál, mint amit az elismert bejelentési napon benyújtott, illetve – megosztás esetén – a megosztott bejelentés tartalmazott;
 
-c) a nemzetközi védjegybejelentést a Madridi Megállapodás, illetve a Megállapodáshoz kapcsolódó Jegyzőkönyv [76/I. § (1) bek. a) pont] alapján arra nem jogosult személy nyújtotta be.
+c) a nemzetközi védjegybejelentést a Madridi Megállapodás, illetve a Madridi Megállapodáshoz kapcsolódó Jegyzőkönyv [76/I. § (1) bek. a) pont] alapján arra nem jogosult személy nyújtotta be.
 
 (2) A védjegy nem törölhető, ha
 
