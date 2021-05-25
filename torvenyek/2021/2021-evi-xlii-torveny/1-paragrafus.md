@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény 2020. február 6-án elfogadott módosítása (a továbbiakban: Egyezmény-módosítás) kötelező hatályának elismerésére.
