@@ -1,4 +1,4 @@
-## 6/F. [^19] Az Operatív Törzs közvetlen elektronikus hozzáférése egyes egészségügyi, egészségbiztosítási nyilvántartásokhoz
+## 6/F. [^20] Az Operatív Törzs közvetlen elektronikus hozzáférése egyes egészségügyi, egészségbiztosítási nyilvántartásokhoz
 
 9/F. § (1) A járványügyi készültség során működő Operatív Törzs feladatairól szóló 286/2020. (VI. 17.) Korm. rendelet 1. §-a szerinti Operatív Törzs által az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 232/B. § (3) bekezdése alapján létrehozott és általa kinevezett tagokból álló akciócsoport az Eütv. 232/B. § (4) bekezdésében meghatározott adatszolgáltatás teljesítését a Nemzeti Népegészségügyi Központ Járványügyi szakrendszerében, a NEAK Finanszírozási rendszerében, valamint az EESZT-ben (a továbbiakban együtt: adatbázis) kezelt adatok vonatkozásában akként is igényelheti, hogy az adatbázis adatkezelője az akciócsoport arra jogosult tagja részére az adatok átvételét lehetővé tevő, közvetlen elektronikus hozzáférést (a továbbiakban: közvetlen hozzáférés) biztosítson.
 
@@ -22,4 +22,4 @@ e) az egyéb, az adatkezelési művelettel összefüggő leíró és technikai a
 
 (5) A naplóban rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel, valamint az e tevékenységet folytató adatkezelő részére továbbíthatóak.
 
-[^19]: A 6/F. alcímet (9/F. §) a 249/2021. (V. 14.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 6/F. alcímet (9/F. §) a 249/2021. (V. 14.) Korm. rendelet 1. §-a iktatta be.

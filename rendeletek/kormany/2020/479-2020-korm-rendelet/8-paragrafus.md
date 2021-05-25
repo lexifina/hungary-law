@@ -1,9 +1,5 @@
 ## 7. §
 
-## 5. A várakozási díj megfizetésének a veszélyhelyzet során alkalmazandó eltérő szabályai
+## 5.[^6]
 
-## 8. § A koronavírus világjárvány terjedésének csökkentése érdekében
-
-a) a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek, valamint
-
-b) az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek
+[^6]: Az 5. alcímet (8. §) a 271/2021. (V. 21.) Korm. rendelet 7. § (2) bekezdés a) pontja hatályon kívül helyezte.
