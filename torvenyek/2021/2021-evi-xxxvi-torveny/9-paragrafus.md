@@ -5,11 +5,3 @@ a) a szeszes italok meghatározásáról, leírásáról, megjelenítéséről, 
 b) az Uniónak a Lisszaboni Megállapodás eredetmegjelölésekről és földrajzi jelzésekről szóló genfi szövegéhez történő csatlakozását követő fellépéséről szóló, 2019. október 23-i (EU) 2019/1753 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
