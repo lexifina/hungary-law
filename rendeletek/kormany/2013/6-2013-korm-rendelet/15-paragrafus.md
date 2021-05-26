@@ -1,4 +1,4 @@
-## 14. §[^34]
+## 14. §[^41]
 
 ## 13. Az Európai Unió jogának való megfelelés
 
@@ -14,7 +14,7 @@ c) az építési termékek fogalmazására vonatkozó harmonizált feltételek m
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^35] Ez a rendelet
+(3)[^42] Ez a rendelet
 
 1. a gépekről és a 95/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -38,8 +38,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ## való megfelelést szolgálja.
 
-(4)[^36] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
+(4)[^43] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
 
-[^34]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
-[^36]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^41]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^43]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.

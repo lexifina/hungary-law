@@ -1,4 +1,4 @@
-## 4/E. [^17] A nem automatikus működésű mérlegekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/E. [^24] A nem automatikus működésű mérlegekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/H. § (1) Ha a piacfelügyeleti hatóság feltételezése alapján a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet (a továbbiakban: R4.) hatálya alá tartozó, nem automatikus működésű mérleg kockázatot jelent a közérdek védelmére, akkor elvégzi az érintett nem automatikus működésű mérlegnek az R4.-ben meghatározott követelményekre vonatkozó értékelését.
 
@@ -30,4 +30,4 @@ b) a megfelelőség vélelmezését megalapozó harmonizált szabványok vagy no
 
 (10) Ha a nemzeti intézkedés az Európai Bizottság döntése alapján indokolt, akkor a piacfelügyeleti hatóság meghozza a szükséges intézkedéseket, hogy a nem megfelelő nem automatikus működésű mérleget kivonja piacáról, és erről tájékoztatja az Európai Bizottságot.
 
-[^17]: A 4/E. alcímet (6/H–6/I. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^24]: A 4/E. alcímet (6/H–6/I. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
