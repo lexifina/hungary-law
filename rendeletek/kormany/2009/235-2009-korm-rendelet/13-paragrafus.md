@@ -1,6 +1,6 @@
 ## A kutatás felfüggesztése, megszüntetése
 
-13. §[^22] (1) Ha a kutatás ellenőrzése során az engedélyező olyan körülményről szerez tudomást, amely alapján megállapítja, hogy
+13. §[^24] (1) Ha a kutatás ellenőrzése során az engedélyező olyan körülményről szerez tudomást, amely alapján megállapítja, hogy
 
 a) a kutatás engedélyezésének feltételei már nem állnak fenn,
 
@@ -16,4 +16,4 @@ a kutatás folytatását határozatával feltételhez kötheti, és a feltétel 
 
 (4) Ha a kérelmező a felfüggesztésről szóló határozatban foglaltaknak eleget tesz, az engedélyező dönt a kutatás felfüggesztésének megszüntetéséről. A felfüggesztés megszüntetéséről szóló döntés meghozatalához az engedélyező beszerzi az illetékes etikai bizottság szakhatósági állásfoglalását, illetve a 6. § szerinti regionális etikai bizottság szakértői véleményét.
 
-[^22]: A 13. § a 192/2015. (VII. 21.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^24]: A 13. § a 192/2015. (VII. 21.) Korm. rendelet 44. §-ával megállapított szöveg.

@@ -1,18 +1,30 @@
+## 31. §[^87] E cím tekintetében az MDR 2. cikke szerinti fogalommeghatározásokat kell alkalmazni.
+
 ## A klinikai vizsgálat engedélyezése
 
-32. § (1)[^88] A vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi, és nyilvántartásba veszi.
+32. §[^88] (1) A vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi és veszi nyilvántartásba.
 
-(2)[^89] Az OGYÉI megvizsgálja, hogy a klinikai vizsgálatra szánt eszköz szerves részét képezi-e olyan anyag, amely önmagában használva – a Gytv. értelmében – gyógyszernek tekinthető, és alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre.
+(2) Az orvostechnikai eszközzel végzett vizsgálat engedélyezése iránti kérelem benyújtására és elbírálására az MDR előírásai alkalmazandók. A kérelmet az MDR 70. cikkében előírtak szerint az engedélyező részére elektronikus úton is be kell nyújtani, a kérelemhez mellékelni kell az ETT-TUKEB-nek az MDR 62. cikk (4) bekezdés b) pontja szerinti szakvéleményét. A kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.
 
-(3) Az engedélyező a kérelmet és a benyújtott hiánytalan dokumentációt formai vizsgálatnak veti alá és a következő szempontok alapján értékeli:
+(3) A klinikai vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában a megbízó és a klinikai vizsgálatot végző egészségügyi szolgáltató a kártérítés és sérelemdíj fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződést köt, melyet az engedélyezési eljárás során az engedélyezőnek bemutat.
 
-a) a klinikai vizsgálatra szánt eszköz orvostechnikai eszköz-e,
+(4) Az ETT-TUKEB (2) bekezdés szerinti szakvéleménye – az MDR vonatkozó rendelkezéseinek figyelembevételével – az alábbi szakkérdésekre terjed ki:
 
-b) a klinikai vizsgálatra szánt eszköz és a hozzá tartozó dokumentáció – a teljesítőképesség és a várható mellékhatások kivételével – megfelel-e a külön jogszabály szerinti alapvető követelményeknek,
+a) a klinikai vizsgálat és a vizsgálati terv tudományosan megalapozott, indokolt-e,
 
-c) a kérelmező által meghatározott teljesítőképesség igazolása és a várható mellékhatások felmérése a vizsgálati terv szerinti eljárás alkalmazásával a tudomány jelenlegi eredményeinek megfelelően, objektíven és reprodukálható módon történik-e,
+b) a tervezett vizsgálat érdemi, szakmai tudományos kérdésfelvetéseket tartalmaz-e, és módszerei alkalmasak-e ezek megválaszolására,
 
-d) a kérelmező minden tőle elvárhatót megtett-e a váratlan események és balesetek elkerülésére.
+c) a tájékoztatáson alapuló beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az MDR 63. cikk XV. mellékletében meghatározott követelményeknek,
 
-[^88]: A 32. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^89]: A 32. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 268. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+d) a beleegyező nyilatkozat adására nem képes személyek bevonásával végzett kutatás indokolt-e, és feltételei fennállnak-e,
+
+e) a vizsgálók szakmai alkalmassága és az egyéb személyi feltételek megfelelőek-e,
+
+f) a vizsgáló részére készített, az MDR XV. melléklete szerinti ismertető szakmai-tudományos tartalma megfelelő-e,
+
+g) a vizsgáló és a vizsgálati alanyok közötti esetleges függőség megfelel-e a vizsgálat szakmai-etikai követelményeinek, valamint
+
+h) a vizsgálati alanyok személyes adatai kezelésének módja, az azok megismerésére jogosultak köre megfelel-e a vizsgálat szakmai-etikai követelményeinek.
+
+[^87]: A 31. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^88]: A 32. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

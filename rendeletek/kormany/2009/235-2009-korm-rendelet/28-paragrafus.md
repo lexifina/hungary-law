@@ -1,4 +1,4 @@
-## 27/A. §[^80] Ha a klinikai vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kérelmezni. A módosított írásos tájékoztatónak megfelelően a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a klinikai vizsgálat folytatásához.
+## 27/A. §[^83] Ha a klinikai vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kérelmezni. A módosított írásos tájékoztatónak megfelelően a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a klinikai vizsgálat folytatásához.
 
 ## A vizsgálat ellenőrzése
 
@@ -20,4 +20,4 @@ d) a klinikai vizsgálatnak az engedélyben és a vizsgálati tervben előírtak
 
 (5) Amennyiben az ellenőrzés során észlelt hiányosságok csekély súlyúak, a vizsgálati alanyok biztonságát nem veszélyeztetik, az engedélyező felhívja az érintetteket a hiányosságok megszüntetésére, valamint javaslatot tesz arra, hogy a hiányosság milyen módon küszöbölhető ki, és erről értesíti a megbízót és a vizsgálatvezetőt.
 
-[^80]: A 27/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (12) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^83]: A 27/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (12) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
