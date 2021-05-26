@@ -1,6 +1,6 @@
 2. melléklet a 180/2010. (V. 13.) Korm. rendelethez
 
-## Az egészségügyi szakmai kollégium, illetve annak tagozata értékelési kérdőívének adattartalma[^37]
+## Az egészségügyi szakmai kollégium, illetve annak tagozata értékelési kérdőívének adattartalma[^38]
 
 1. A technológia értékelése
 
@@ -26,4 +26,4 @@
 
 2.4. szükséges új protokollok megnevezése
 
-[^37]: A 2. melléklet címe a 254/2013. (VII. 5.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
+[^38]: A 2. melléklet címe a 254/2013. (VII. 5.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.

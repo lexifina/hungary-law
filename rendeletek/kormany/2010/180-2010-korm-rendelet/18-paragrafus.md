@@ -1,3 +1,3 @@
-## 17. §[^35]
+## 17. §[^36]
 
-[^35]: A 17. §-t a 18. § (1) bekezdése hatályon kívül helyezte.
+[^36]: A 17. §-t a 18. § (1) bekezdése hatályon kívül helyezte.

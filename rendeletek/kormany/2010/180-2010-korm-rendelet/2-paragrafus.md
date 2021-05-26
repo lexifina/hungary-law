@@ -16,7 +16,7 @@
 
 8. kritikai értékelés: az előzetes befogadás iránti kérelemhez benyújtott egészségügyi technológiaértékelési leírás tartalmi ellenőrzése, értékelése;
 
-9. orvostechnikai eszköz: az orvostechnikai eszközökről szóló miniszteri rendelet szerinti orvostechnikai eszköz;
+9.[^1] orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott eszköz;
 
 10. új eszköz: gyógyító-megelőző eljárások során használt, a betegségek diagnosztikájában és terápiájában közvetlenül alkalmazott orvostechnikai eszköz,
 
@@ -26,7 +26,7 @@ b) amellyel egyenértékű eszköz sem részesült a kérelem benyújtását meg
 
 11. új indikáció: olyan betegségcsoport, amire technológia korábbi alkalmazási területe nem terjed ki;
 
-12.[^1] új orvosi eljárás: orvosi közreműködéssel vagy közvetlen orvosi irányítással végzett – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben, az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabályokban, az Egészségbiztosítási Alapból a 959A-L, valamint 9511-9515 homogén betegségcsoportok szerint finanszírozott daganatellenes terápiákról szóló miniszteri rendeleti szabályokban, a fogászati ellátás tevékenységi kódlistájának alkalmazásáról szóló miniszteri rendeleti szabályokban, továbbá a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeleti szabályokban nem szereplő – egészségügyi tevékenység, amelyet diagnosztikus, terápiás, megelőző, rehabilitációs céllal végeznek új módszertan vagy technológia alkalmazásával, és amely
+12.[^2] új orvosi eljárás: orvosi közreműködéssel vagy közvetlen orvosi irányítással végzett – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben, az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabályokban, az Egészségbiztosítási Alapból a 959A-L, valamint 9511-9515 homogén betegségcsoportok szerint finanszírozott daganatellenes terápiákról szóló miniszteri rendeleti szabályokban, a fogászati ellátás tevékenységi kódlistájának alkalmazásáról szóló miniszteri rendeleti szabályokban, továbbá a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeleti szabályokban nem szereplő – egészségügyi tevékenység, amelyet diagnosztikus, terápiás, megelőző, rehabilitációs céllal végeznek új módszertan vagy technológia alkalmazásával, és amely
 
 a) a már korábban is alkalmazott, azonos ellátási célú orvosi eljárásokhoz képest
 
@@ -36,4 +36,5 @@ ab) megelőzés, terápia, rehabilitáció esetén az alkalmazásával a beteg e
 
 b) az egészségi állapot korábban nem vizsgált jellemzőjének meghatározására vagy az egészségi állapot, betegség korábban nem kezelt elváltozásának megszüntetésére, javítására, romlásának megakadályozására irányul.
 
-[^1]: A 2. § 12. pontja a 254/2013. (VII. 5.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^1]: A 2. § 9. pontja a 164/2020. (IV. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^2]: A 2. § 12. pontja a 254/2013. (VII. 5.) Korm. rendelet 39. §-ával megállapított szöveg.
