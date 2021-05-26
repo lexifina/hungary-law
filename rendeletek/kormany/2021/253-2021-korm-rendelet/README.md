@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-253-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-05-25 | 2021-253-20-22.1 | 253/2021. (V. 17.) Korm. rendelet |
+| 2021-05-26 | 2021-253-20-22.2 | 2010: CXXX. törvény |
