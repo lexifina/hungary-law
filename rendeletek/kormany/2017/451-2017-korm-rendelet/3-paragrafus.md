@@ -60,9 +60,9 @@ i) a Gyftv. 32. § (2) bekezdés a) pont aa) és ab) alpontja, b) pont ba) és b
 
 j) a kérelmezett eszköz használatban levő – az EüMr. 1. és 4. számú melléklete esetében az R. 1. melléklet A. rész II. fejezet 13.3. pontja, az EüMr. 2. számú melléklete esetében az IVD-rendelet 1. számú melléklet B. rész 13.4. pontja szerinti – címkéje másolatát, kivéve a Gyftv. 32. § (2) bekezdés b) pont bb), be) és bg) alpontjában foglalt bejelentéseket, illetve b) pont bc) alpontja szerinti kérelmet;
 
-k) az eszköz CE jelölésének használatára való jogosultság alátámasztására a regisztrációról szóló igazolást magyar nyelven, az EüMr. 2. számú melléklete esetében az IVD-rendeletben előírt EK tanúsítványt;
+k)[^2] az eszköz gyártói megfelelőségi nyilatkozatát vagy ha azzal rendelkeznie kell, annak megfelelőségi tanúsítványát, az EüMr. 2. számú melléklete esetében az IVD-rendeletben előírt EK tanúsítványt;
 
-l) az EüMr. 1., az EüMr. 2. és az EüMr. 4. számú melléklete esetében magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az OGYÉI-nél történt regisztrációról szóló igazolást, míg az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a székhely szerinti országban történt regisztrációról szóló igazolást, ha az az R. vagy az IVD-rendelet szerint kötelező;
+l)[^3] az EüMr. 1., az EüMr. 2. és az EüMr. 4. számú melléklete esetében magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az OGYÉI-nél történt regisztrációról szóló igazolást, míg az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást, ha az az MDR., az orvostechnikai eszközökről szóló miniszteri rendelet vagy az IVD-rendelet szerint kötelező;
 
 m) az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 11.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 10.1. pontja szerinti szakorvosi véleményt; és ha rendelkezésre áll, az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 10.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 9.1. pontja szerinti tanulmányt;
 
@@ -99,3 +99,6 @@ bb) ha a kérelmező a NEAK szállítójegyzékében nem szerepel, a cégjegyzé
 (13) A Gyftv. 32. § (2) bekezdés b) pont bd) alpontja alapján akkor nyújtható be kérelem, ha a módosítás az ár változatlansága mellett egy eszköz azonosítási adataiban bekövetkezett változás, vagy az EüMr. 19. számú mellékletében felsorolt funkcionális csoportokba sorolt eszközök esetében azonos gyártó korábbi termékének hasonló jellemzőkkel rendelkező, funkcionálisan egyenértékű új termékkel történő felváltása, továbbá a kollekció bővítése miatt szükséges.
 
 (14) Kérelemre indult eljárásban nem fogadható be olyan gyógyászati segédeszköz, amely nem felel meg az adott gyógyászati segédeszközre vonatkozó követelményjegyzékben foglaltaknak.
+
+[^2]: A 3. § (5) bekezdés k) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^3]: A 3. § (5) bekezdés l) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
