@@ -16,7 +16,9 @@ dc) a forgalmazó nevét, székhelyét, akitől az implantátumot az egészség�
 
 e) a beültetést végző orvos nevét, pecsétszámát,
 
-f) a beültetést végző egészségügyi szolgáltató nevét, működési engedélye számát.
+f) a beültetést végző egészségügyi szolgáltató nevét, működési engedélye számát,
+
+g) az eszköz UDI azonosítóját.
 
 (2) Az (1) bekezdés szerinti nyilvántartást az egészségügyi szolgáltató az egészségbiztosítási szerv által működtetett informatikai felület alkalmazásával vezeti. A nyilvántartásba az (1) bekezdés szerinti adatokat legkésőbb a beavatkozással érintett személy egészségügyi szolgáltatótól történő elbocsátását követő 8 napon belül vagy az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben foglalt finanszírozási jelentéstétel napján kell felvinni.
 
