@@ -2,7 +2,7 @@
 
 2. §[^3] (1) E rendelet alkalmazásában:
 
-1. aktív beültethető orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 4. § (1) bekezdés 5. pontja szerinti elektromos vagy elektronikus berendezés;
+1.[^4] az 1. melléklet 1. pontjában meghatározott elektromos-, elektronikusberendezés-kategóriákba sorolt elektromos, elektronikus berendezésre,
 
 2. elektromos, elektronikus berendezés: legfeljebb 1000 V váltakozó feszültségű, valamint legfeljebb 1500 V egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses mezőtől vagy elektromos áramtól függ, ideértve az elektromágneses mező vagy elektromos áram előállítását, mérését, átvitelét biztosító eszközöket is;
 
@@ -14,7 +14,7 @@
 
 6. finanszírozási megállapodás: valamilyen elektromos, elektronikus berendezéssel kapcsolatos hitel-, bérleti, haszonbérleti vagy részletfizetési szerződés vagy megállapodás, függetlenül attól, hogy a szerződés vagy megállapodás, illetve bármely kiegészítő szerződés vagy megállapodás rendelkezik-e az elektromos, elektronikus berendezés tulajdonjogának átruházásáról vagy annak lehetőségéről;
 
-7.[^4] forgalmazó: az a természetes személy vagy a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 14. pontjában meghatározott forgalmazó, aki, illetve amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
+7.[^5] forgalmazó: az a természetes személy vagy a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 14. pontjában meghatározott forgalmazó, aki, illetve amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
 
 8. forgalomba hozatal: valamely elektromos, elektronikus berendezés piaci hozzáférhetőségének első alkalommal történő üzletszerű biztosítása Magyarország területén;
 
@@ -50,7 +50,7 @@ c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel hel
 
 16. nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép, amelynek működtetése folyamatos vagy részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között;
 
-17. orvostechnikai eszköz: az egészségügyről szóló 1997. évi CLIV. törvény 3. § h) pontja szerinti eszköz vagy tartozék, amely elektromos vagy elektronikus berendezésnek minősül;
+17.[^6] orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan eszköz vagy annak az MDR 2. cikk 2. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus berendezésnek minősül;
 
 18. piaci hozzáférhetőség biztosítása: Magyarország piacán egy termék gazdasági tevékenység keretében történő rendelkezésre bocsátása forgalmazás, fogyasztás vagy használat céljára, függetlenül attól, hogy az fizetés ellenében vagy ingyenesen történik;
 
@@ -61,4 +61,6 @@ c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel hel
 (2) E rendeletben az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben, és az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott fogalmak is alkalmazandóak.
 
 [^3]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 7. pontja az 525/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés a) pontja az 525/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés 7. pontja az 525/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés 17. pontja a 164/2020. (IV. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
