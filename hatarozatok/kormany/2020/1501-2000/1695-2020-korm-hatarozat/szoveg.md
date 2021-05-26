@@ -44,6 +44,8 @@ f) Gárdony belterület 5418 helyrajzi számú
 
 ingatlanok (a továbbiakban együtt: Ingatlanok) ingyenesen a Szeretetszolgálat tulajdonába kerüljenek a Szeretetszolgálat által átvállalt közfeladatok, az egészségügy területén nyújtott egészségfejlesztési, egészségvédelmi szolgáltatások, a köznevelés és a szakképzés területén végzett oktatás, a sport- és ifjúsági tevékenység területén az egészséges életmód és szabadidősport gyakorlása feltételeinek megteremtése, valamint a gyermek- és ifjúsági sporttal kapcsolatos tevékenységek ellátása érdekében;
 
+4a.[^1] egyetért azzal, hogy a Szeretetszolgálat által átvállalt közfeladatok ellátása a 4. pont a)–f) alpontjában felsorolt, a természetben egységet képező ingatlanok összességén valósuljon meg;
+
 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a 4. pont a), d), e) és f) alpontjában meghatározott ingatlanok tekintetében az emberi erőforrások minisztere bevonásával – az MNV Zrt. útján tegye meg a szükséges intézkedéseket annak érdekében, hogy az Ingatlanok tekintetében a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés (a továbbiakban: Szerződés) megkötésre kerüljön a Szeretetszolgálattal;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
@@ -69,6 +71,8 @@ f) az Ingatlanokat az Nvtv. 13. § (4) bekezdés a) pontja szerint a Szeretetszo
 g) ha a Szeretetszolgálat az f) alpontban foglalt kötelezettségeinek részben vagy egészben nem tesz eleget, az MNV Zrt. az Nvtv. 13. § (7) és (8) bekezdésének megfelelően jár el, azzal, hogy a Szeretetszolgálat a nemteljesítési kötbért köteles a felszólítás kézhezvételétől számított 60 napon belül az MNV Zrt.-nek megfizetni,
 
 h) a Szeretetszolgálat kötelezettségvállalását arra, hogy a 4. pont a), d), e) és f) alpontjában meghatározott ingatlanokon a továbbiakban is biztosítja a Társaság által biztosított sporttevékenység folytatásának feltételeit, különös tekintettel a 4. pont e) alpontja szerinti ingatlanon működő Velencei-tavi Vízi Sportiskola tevékenységéhez szükséges feltételek biztosítására;
+
+i)[^2] a Szeretetszolgálat által átvállalt közfeladatok ellátásának a 4. pont a)–f) alpontjában felsorolt, a természetben egységet képező ingatlanok összességén kell megvalósulnia;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -117,3 +121,6 @@ Határidő: a 12. pontban meghatározott forrás rendelkezésre állását köve
 Felelős: a miniszterelnök általános helyettese
 
 Határidő: az előkészítési tevékenység lezárását követő 60 napon belül
+
+[^1]: A 4a. pontot az 1308/2021. (V. 26.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 6. pont i) alpontját az 1308/2021. (V. 26.) Korm. határozat 2. pontja iktatta be.
