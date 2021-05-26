@@ -4,9 +4,9 @@
 
 a) 1–7. termékcsoport esetében a fogyasztóvédelmi hatóság,
 
-b)[^8] 8. termékcsoport esetében az Országos Kórházi Főigazgatóság,
+b)[^10] 8. termékcsoport esetében az Országos Kórházi Főigazgatóság,
 
-c)[^9] 9–10. termékcsoport esetében a piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala
+c)[^11] 9–10. termékcsoport esetében a piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala
 
 (az a)–c) pont szerinti hatóságok a továbbiakban együtt: piacfelügyeleti hatóság) ellenőrzi.
 
@@ -14,5 +14,5 @@ c)[^9] 9–10. termékcsoport esetében a piacfelügyeleti feladatkörében elj�
 
 (3) A piacfelügyeleti hatóság a termékek piacfelügyeletéről szóló törvény szerinti ellenőrzést folytat le, és az abban meghatározott jogkövetkezményeket alkalmazza.
 
-[^8]: A 14. § (1) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 74. §-ával megállapított, a 70/2021. (II. 19.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^9]: A 14. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
+[^10]: A 14. § (1) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 74. §-ával megállapított, a 70/2021. (II. 19.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^11]: A 14. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
