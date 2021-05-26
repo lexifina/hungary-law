@@ -1,5 +1,3 @@
-## 19. §
+## „24. orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan orvostechnikai eszköz, amely elektromos vagy elektronikus berendezés is egyben;”
 
-## 6.[^6]
-
-[^6]: A 6. alcím (20–22. §) a 32. § (2) bekezdése alapján 2021. május 26-án lép hatályba.
+## 6. A piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet módosítása

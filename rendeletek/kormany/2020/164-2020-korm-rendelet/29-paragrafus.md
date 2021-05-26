@@ -1,6 +1,5 @@
-## 28. §[^13]
+## 28. §[^5]
 
-## 9.[^14]
+## 9. A gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának, valamint a támogatás megváltoztatásának szabályairól szóló 451/2017. (XII. 27.) Korm. rendelet módosítása
 
-[^13]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 9. alcím (29–30. §) a 32. § (2) bekezdése alapján 2021. május 26-án lép hatályba.
+[^5]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
