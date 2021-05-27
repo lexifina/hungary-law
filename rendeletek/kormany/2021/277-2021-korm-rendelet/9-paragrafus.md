@@ -1,0 +1,1 @@
+## „(4a) A (4) bekezdés szerinti gyakorlati időből a bértámogatás mértékének meghatározása során kizárólag az orvos által az orvosi végzettség megszerzését követően teljesített, és igazolásokkal alátámasztott gyakorlati idő vehető figyelembe.”
