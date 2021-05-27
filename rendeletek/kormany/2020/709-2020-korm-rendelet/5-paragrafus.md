@@ -6,11 +6,11 @@
 
 (3) A (2) bekezdés szerinti felhatalmazás összeghatár meghatározásával is megadható, ebben az esetben a kötelezettségvállalás végleges – a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésnek megfelelő – összegéről a kötelezettségvállalással érintett költségvetési fejezetet irányító szerv vezetője az államháztartásért felelős minisztert írásban tájékoztatja.
 
-(3a)[^4] A Kormány által adott felhatalmazás kiterjedhet a Beruházási Alappal érintett beruházásokhoz közvetlenül szükséges ingatlanszerzésre is.
+(3a)[^4] A Kormány által adott felhatalmazás kiterjedhet a Beruházási Alappal érintett beruházások előkészítésére, továbbá az e beruházásokhoz közvetlenül szükséges ingatlanszerzésre is. Ebben az esetben a (2) és (3) bekezdésben foglaltakat a beruházások előkészítésére, valamint az ingatlanszerzésre irányuló szerződésre kell alkalmazni.
 
-(4)[^5] Az (1)–(3) bekezdés szerinti beruházások és beruházási támogatások, e beruházások előkészítésének, továbbá a (3a) bekezdés szerinti ingatlanszerzés teljes vagy részbeni fedezetének biztosítása érdekében a Beruházási Alap terhére az államháztartásért felelős miniszter a Kormány irányítása alá tartozó bármely fejezet kiadási előirányzata javára előirányzat-átcsoportosítást hajthat végre az előkészítéshez szükséges kötelezettségvállalás, a beruházás vagy támogatás, továbbá az ingatlanszerzés érdekében vállalt pénzügyi kötelezettség teljesítése érdekében.
+(4)[^5] A beruházások és beruházási támogatások, továbbá az ingatlanszerzés teljes vagy részbeni fedezetének biztosítása érdekében a Beruházási Alap terhére az államháztartásért felelős miniszter a Kormány irányítása alá tartozó bármely fejezet kiadási előirányzata javára előirányzat-átcsoportosítást hajthat végre a (3a) bekezdésen kívüli előkészítéshez szükséges kötelezettségvállalás, a beruházás vagy támogatás, továbbá az ingatlanszerzés érdekében vállalt pénzügyi kötelezettség teljesítése érdekében.
 
-(4a)[^6] Az (1) bekezdésben meghatározott felhatalmazás alapján történt kötelezettségvállalás pénzügyi ellenjegyzése során az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 53/A. § (2) bekezdését kell alkalmazni.
+(4a)[^6] Az (1) bekezdésben meghatározott felhatalmazás alapján történt kötelezettségvállalás pénzügyi ellenjegyzése során a pénzügyi ellenjegyzőnek kizárólag arról kell meggyőződnie, hogy a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat.
 
 (5) A Beruházási Alap központi kezelésű előirányzat tekintetében az irányító szerv, a fejezetet irányító szerv, valamint annak vezetője a központi költségvetés XLVII. fejezeténél a Pénzügyminisztérium és a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdése szerinti tagja.
 
@@ -19,7 +19,7 @@
 (6) A Beruházási Alap központi kezelésű kiadási előirányzata az Áht. 28. §-a szerinti rendelet kiadása nélkül is felhasználható.
 
 [^3]: Az 5. § (1) bekezdése a 161/2021. (IV. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 5. § (3a) bekezdését a 161/2021. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^5]: Az 5. § (4) bekezdése a 161/2021. (IV. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (4a) bekezdését a 161/2021. (IV. 2.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^4]: Az 5. § (3a) bekezdését a 161/2021. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 275/2021. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 5. § (4) bekezdése a 275/2021. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 5. § (4a) bekezdését a 161/2021. (IV. 2.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 275/2021. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: Az 5. § (5a) bekezdését a 161/2021. (IV. 2.) Korm. rendelet 4. § (5) bekezdése iktatta be.
