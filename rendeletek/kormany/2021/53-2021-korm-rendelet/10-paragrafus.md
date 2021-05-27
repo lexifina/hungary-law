@@ -1,3 +1,3 @@
-## 9. §[^4]
+## 9. §[^22]
 
-[^4]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
