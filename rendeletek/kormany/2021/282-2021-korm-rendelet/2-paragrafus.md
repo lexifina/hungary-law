@@ -1,0 +1,3 @@
+## 1. § Az újfehértói sportcentrum beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 32/2016. (II. 25) Korm. rendelet (a továbbiakban: R.) a következő 11. §-sal egészül ki:
+
+## „11. § E rendeletnek az újfehértói sportcentrum beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 32/2016. (II. 25.) Korm. rendelet módosításáról szóló 282/2021. (V. 26.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. §-át a Módr2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
