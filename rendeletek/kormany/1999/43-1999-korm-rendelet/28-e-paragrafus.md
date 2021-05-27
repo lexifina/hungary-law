@@ -1,11 +1,12 @@
-## 28/D. §[^303] Az újszülöttek objektív hallásszűrését követő ellátások végzésére a Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központban (2917), a Debreceni Egyetem Klinikai Központban (2894), a Heim Pál Országos Gyermekgyógyászati Intézetben (2877), Pécsi Tudományegyetemen (2912), valamint a Semmelweis Egyetemen (2915) működő verifikációs központok 20 millió forint/év fix összegű finanszírozásban részesülnek, amelyet a finanszírozó minden év januárjában utalványoz.
-
-28/E. §[^304] (1)[^305] A Büntetés-végrehajtás Országos Parancsnoksága a fogvatartottak egészségügyi ellátására évi 1 567,6 millió forint összegben részesül, melyet a finanszírozó havi egyenlő fix összegben utalványoz. Az ellátás fedezetéül az 5. számú melléklet Összevont szakellátás „Fogvatartottak egészségügyi ellátása” előirányzat szolgál.
+28/E. §[^318] (1)[^319] A Büntetés-végrehajtás Országos Parancsnoksága a fogvatartottak egészségügyi ellátására évi 1 567,6 millió forint összegben részesül, melyet a finanszírozó havi egyenlő fix összegben utalványoz. Az ellátás fedezetéül az 5. számú melléklet Összevont szakellátás „Fogvatartottak egészségügyi ellátása” előirányzat szolgál.
 
 (2) A fogvatartottak egészségügyi ellátását nyújtó büntetés-végrehajtási szervek a fogvatartottak egészségügyi ellátásáról az e rendeletben foglaltaknak megfelelően 2021. február 1. napjától kötelesek jelentést küldeni. A finanszírozó a jelentést feldolgozza. A finanszírozás az (1) bekezdés szerinti módon történik.
 
-(3) A Gróf Tiszta István Kórház a fogvatartottak berettyóújfalui ellátására havonta 30 millió forint fix összegű finanszírozásban részesül, amelyet a finanszírozó havonta utalványoz. A finanszírozó az egészségügyi szolgáltató teljesítményjelentése alapján negyedévente kimutatást készít a fogvatartottak ellátásának finanszírozásáról, és szükség esetén kezdeményezi a fix díj vagy a finanszírozási technika módosítását. Az ellátás fedezetéül az 5. számú melléklet Összevont szakellátás „Fogvatatottak egészségügyi ellátása előirányzat” szolgál.
+(3)[^320] A Gróf Tisza István Kórház a fogvatartottak berettyóújfalui ellátására havonta 30 millió forint fix összegű finanszírozásban részesül, amelyet a finanszírozó havonta utalványoz. A finanszírozó az egészségügyi szolgáltató teljesítményjelentése alapján negyedévente kimutatást készít a fogvatartottak ellátásának finanszírozásáról, és szükség esetén kezdeményezi a fix díj vagy a finanszírozási technika módosítását. Az ellátás fedezetéül az 5. számú melléklet Összevont szakellátás „fogvatartottak egészségügyi ellátása előirányzat” szolgál.
 
-[^303]: A 28/D. §-t a 287/2018. (XII. 21.) Korm. rendelet 14. §-a iktatta be.
-[^304]: A 28/E. §-t az 557/2020. (XII. 4.) Korm. rendelet 2. §-a iktatta be.
-[^305]: A 28/E. § (1) bekezdése a 660/2020. (XII. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
+(4)[^321] A Büntetés-végrehajtás Országos Parancsnoksága a fogvatartottak egészségügyi ellátását a 14. számú melléklet szerinti Kórházi (osztályos) ápolási esetről szóló adatlapon az „F1” térítési kategóriában jelenti a finanszírozó számára. A Gróf Tisza István Kórház a fogvatartottak egészségügyi ellátását a 6/A. számú melléklet szerinti Ambuláns adatlapon és a 14. számú melléklet szerinti Kórházi (osztályos) ápolási esetről szóló adatlapon az „F1” és „F6” térítési kategóriákban jelenti a finanszírozó számára. Ezen térítési kategóriákat csak e két intézmény jelentheti.
+
+[^318]: A 28/E. §-t az 557/2020. (XII. 4.) Korm. rendelet 2. §-a iktatta be.
+[^319]: A 28/E. § (1) bekezdése a 660/2020. (XII. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^320]: A 28/E. § (3) bekezdése a 277/2021. (V. 26.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^321]: A 28/E. § (4) bekezdését a 277/2021. V. 26.) Korm. rendelet 11. §-a iktatta be.

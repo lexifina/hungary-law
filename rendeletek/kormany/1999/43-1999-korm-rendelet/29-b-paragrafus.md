@@ -1,3 +1,3 @@
-29/B. §[^317]
+29/B. §[^333]
 
-[^317]: A 29/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § d) pontja újból hatályon kívül helyezte.
+[^333]: A 29/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § d) pontja újból hatályon kívül helyezte.

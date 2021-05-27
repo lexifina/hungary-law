@@ -32,6 +32,18 @@
 
 (12)[^35] Élődonoros szervátültetés esetén, amennyiben a recipiens magyar biztosítási jogviszonnyal rendelkezik és az átültetésre kerülő szerv külföldi donorból származik, a külföldi donor magyarországi ellátását a donor adatlapjának és a betegdokumentáció másolati példányának a megküldésével egyidejűleg az egészségügyi szolgáltató „K” térítési kategóriában jelenti a finanszírozó részére. Az ellátást a finanszírozó minden esetben ellenőrzi.
 
+(13)[^36] A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 46. § (2) bekezdése szerinti személyek által igénybe vett ellátásoknak a miniszteri rendeletben meghatározott összeg feletti finanszírozási díját (a továbbiakban: ellátási díj különbözete) a finanszírozó a szolgáltató részére utalványozza.
+
+(14)[^37] A (13) bekezdés szerinti személyek által igénybe vett ellátások elszámolása az R.-ben meghatározott díjtételek alapján, a mindenkori alapdíjon történik.
+
+(15)[^38] Az ellátási díj különbözetének finanszírozási igényét az egészségügyi szolgáltatónak külön jeleznie nem kell, az ellátásra vonatkozó teljesítményjelentési szabályokra az e rendeletben foglaltak irányadóak.
+
+(16)[^39] Az ellátási díj különbözete csak olyan finanszírozási eset térítéséül utalványozható, amelynek részbeni térítésére az ellátott személy is kötelezhető, és ha az ellátásra az Eütv. 3. § i) pontja miatt került sor. Az ellátási díj különbözetének megállapítására a jelen rendeletben foglalt szabályok irányadóak.
+
+(17)[^40] A finanszírozó az ellátási díj különbözetet intézményenként utalványozza az ellátott által térítendő legfeljebb a külön jogszabályban meghatározott összeggel csökkentett mértékben.
+
+(18)[^41] Az ellátott által megfizetendő térítési díjra vonatkozóan „S” térítési kategóriában az ellátás nem jelenthető finanszírozásra.
+
 [^21]: A 3. § a 364/2014. (XII. 30.) Korm. rendelet 23. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
 [^22]: A 4. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^23]: A 4. § (4) bekezdését a 21/2000. (III. 3.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, szövege a 29/2001. (III. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
@@ -47,3 +59,9 @@
 [^33]: A 4. § (10) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 2. §-ával megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
 [^34]: A 4. § (11) bekezdését az 58/2009. (III. 18.) Korm. rendelet 2. §-a iktatta be.
 [^35]: A 4. § (12) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 20. §-a iktatta be.
+[^36]: A 4. § (13) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^37]: A 4. § (14) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^38]: A 4. § (15) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^39]: A 4. § (16) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^40]: A 4. § (17) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^41]: A 4. § (18) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.

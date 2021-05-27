@@ -1,16 +1,16 @@
-18/A. §[^164] (1)[^165] Az önálló orvosi tevékenységről szóló 2000. évi II. törvény végrehajtásáról szóló kormányrendelet szerinti tartósan betöltetlen háziorvosi és fogorvosi körzeteket betöltő orvosok letelepedésének támogatására a NEAK az OKFŐ szakmai javaslata alapján pályázatot ír ki.
+18/A. §[^177] (1)[^178] Az önálló orvosi tevékenységről szóló 2000. évi II. törvény végrehajtásáról szóló kormányrendelet szerinti tartósan betöltetlen háziorvosi és fogorvosi körzeteket betöltő orvosok letelepedésének támogatására a NEAK az OKFŐ szakmai javaslata alapján pályázatot ír ki.
 
-(2)[^166] A háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatására a NEAK az OKFŐ szakmai javaslata alapján pályázatot ír ki.
+(2)[^179] A háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatására a NEAK az OKFŐ szakmai javaslata alapján pályázatot ír ki.
 
-(3)[^167] Az (1) és a (2) bekezdés szerinti pályázati kiírást a NEAK a honlapján közzéteszi. A pályázati kiírás tartalmazza a kérelem benyújtásának határidejét, az elbírálás szempontjait, a pályázható összeg mértékét és az elbírálás határidejét.
+(3)[^180] Az (1) és a (2) bekezdés szerinti pályázati kiírást a NEAK a honlapján közzéteszi. A pályázati kiírás tartalmazza a kérelem benyújtásának határidejét, az elbírálás szempontjait, a pályázható összeg mértékét és az elbírálás határidejét.
 
-(4)[^168] Az (1) és a (2) bekezdés szerinti támogatásról a NEAK és az OKFŐ együttesen dönt.
+(4)[^181] Az (1) és a (2) bekezdés szerinti támogatásról a NEAK és az OKFŐ együttesen dönt.
 
-(5)[^169] Az (1) és a (2) bekezdés szerinti támogatás fedezetére az 5. számú melléklet szerinti Célelőirányzatok jogcímen belül a Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása előirányzat szolgál.
+(5)[^182] Az (1) és a (2) bekezdés szerinti támogatás fedezetére az 5. számú melléklet szerinti Célelőirányzatok jogcímen belül a Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása előirányzat szolgál.
 
-[^164]: A 18/A. §-t a 40/2014. (II. 24.) Korm. rendelet 5. §-a iktatta be.
-[^165]: A 18/A. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 7. § c) pontja, az 516/2020. (XI. 25.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^166]: A 18/A. § (2) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 19. §-ával megállapított szöveg, az 516/2020. (XI. 25.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^167]: A 18/A. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^168]: A 18/A. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 7. § c) pontja, az 516/2020. (XI. 25.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^169]: A 18/A. § (5) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § f) pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^177]: A 18/A. §-t a 40/2014. (II. 24.) Korm. rendelet 5. §-a iktatta be.
+[^178]: A 18/A. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 7. § c) pontja, az 516/2020. (XI. 25.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^179]: A 18/A. § (2) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 19. §-ával megállapított szöveg, az 516/2020. (XI. 25.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^180]: A 18/A. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^181]: A 18/A. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 7. § c) pontja, az 516/2020. (XI. 25.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^182]: A 18/A. § (5) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § f) pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
