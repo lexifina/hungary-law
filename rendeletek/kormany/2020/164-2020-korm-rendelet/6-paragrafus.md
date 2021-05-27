@@ -1,1 +1,3 @@
-## „(1b) Az (1) bekezdés d) pontja szerinti bejelentést az MDR XV. Melléklet II. Fejezetében meghatározott adattartalommal, a vizsgálat bejelentéséhez képest eszközölt változások megjelölésével kell megtenni, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését. A bejelentéshez csatolni kell az ETT-TUKEB szakmai-etikai szakkérdésekben kiadott, az MDR 62. cikk (4) bekezdés b) pontja szerinti szakvéleményét is.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
