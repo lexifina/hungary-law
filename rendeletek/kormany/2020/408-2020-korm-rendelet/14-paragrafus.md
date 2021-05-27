@@ -1,4 +1,4 @@
-## 13. §[^29] A Kormány kiemelt sportrendezvények és kulturális rendezvények esetében követendő járványügyi előírások vonatkozásában külön kormányrendeletet dolgozhat ki.
+## 13. §[^30] A Kormány kiemelt sportrendezvények és kulturális rendezvények esetében követendő járványügyi előírások vonatkozásában külön kormányrendeletet dolgozhat ki.
 
 ## 8. A Magyarországon átutazó személyekre vonatkozó szabályok
 
@@ -18,4 +18,4 @@ c) célországba történő beutazása és ennek érdekében a tervezett utazás
 
 (5) Az országos rendőrfőkapitány meghatározza és a rendőrség hivatalos honlapján közzéteszi az átutazó forgalom be- és kilépésére szolgáló közúti határátkelőhelyeket, az átmenő forgalom útvonalát, a pihenőhelyeket és a Magyarország elhagyására rendelkezésre álló időkeretet.
 
-[^29]: A 13. § a 422/2020. (IX. 4.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^30]: A 13. § a 422/2020. (IX. 4.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
