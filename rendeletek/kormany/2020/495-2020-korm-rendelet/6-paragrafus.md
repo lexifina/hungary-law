@@ -26,6 +26,8 @@
 
 (13)[^24] A Mód. rendelet 3. hatálybalépése[^25] napján folyamatban levő Koncessziós eljárásban az e rendelet alapján a Nemzeti Koncessziós Irodához benyújtott beadványokat a Mód. rendelet 3. hatálybalépésekor a Magyar Állam törvényes képviseletében beálló általános jogutódlásra tekintettel nem kell ismételten benyújtani.
 
+(14)[^26] E rendeletnek az egyes koncessziós tárgyú Korm. rendeletek módosításáról szóló 279/2021. (V. 26.) Korm. rendelettel (a továbbiakban: Mód. rendelet 4.) megállapított 1. melléklet 4. és 5. pontját a Mód. rendelet 4. hatálybalépésekor[^27] már előkészítés alatt álló vagy egyébként folyamatban lévő koncessziós pályázati kiírások (koncessziós beszerzési eljárások) tekintetében is alkalmazni kell.
+
 [^5]: A 6. § (3) bekezdését az 594/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^6]: A hatálybalépés időpontja 2020. december 18.
 [^7]: A 6. § (4) bekezdését az 594/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
@@ -47,3 +49,5 @@
 [^23]: A hatálybalépés időpontja 2021. február 24.
 [^24]: A 6. § (13) bekezdését a 83/2021. (II. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
 [^25]: A hatálybalépés időpontja 2021. február 24.
+[^26]: A 6. § (14) bekezdését a 279/2021. (V. 26.) Korm. rendelet 6. §-a iktatta be.
+[^27]: A hatálybalépés időpontja 2021. május 27.
