@@ -1,3 +1,3 @@
-## 3. §[^1]
+## 3. §[^2]
 
-[^1]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 230. §-a hatályon kívül helyezte.
+[^2]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 230. §-a hatályon kívül helyezte.
