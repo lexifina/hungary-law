@@ -1,6 +1,6 @@
 ## 54. Átmeneti rendelkezések
 
-96. § (1) A nem köznevelési intézményben a gyermek nevelése-gondozása céljából létesített pedagógus-munkakör esetén az ágazati törvény rendelkezései szerint lehet az e törvény szerinti juttatásokat, kedvezményeket alkalmazni. Az egészségügyi intézmény, gyermekgyógyüdülő, büntetés-végrehajtási intézet, javítóintézet szakmailag önálló nevelési-oktatási intézményegység létesítésével vagy a nevelési-oktatási intézménnyel létesített megállapodás alapján részt vehet a nevelés-oktatás feladataiban. A nevelő-oktató munka a körülményekhez igazodó egyéni fejlesztési és pedagógiai program, valamint egyedi munkarend szerint folyik , a tanév rendjére vonatkozó előírásokat nem kell figyelembe venni.
+96. § (1) A nem köznevelési intézményben a gyermek nevelése-gondozása céljából létesített pedagógus-munkakör esetén az ágazati törvény rendelkezései szerint lehet az e törvény szerinti juttatásokat, kedvezményeket alkalmazni. Az egészségügyi intézmény, gyermekgyógyüdülő, büntetés-végrehajtási intézet, javítóintézet többcélú intézményként szakmailag önálló nevelési-oktatási intézményegység keretében vagy a nevelési-oktatási intézménnyel létesített megállapodás alapján részt vehet a nevelés-oktatás feladataiban. A nevelő-oktató munka a körülményekhez igazodó egyéni fejlesztési és pedagógiai program, valamint egyedi munkarend szerint folyik , a tanév rendjére vonatkozó előírásokat nem kell figyelembe venni.
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
@@ -8,7 +8,7 @@
 
 (3a) Az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények – a központi költségvetésről szóló törvényben biztosított – fenntartói támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható és az ellenőrzés a fenntartó kérelmére nem indítható meg.
 
-(3b) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos elsőfokú határozat ellen fellebbezésnek van helye.
+(3b) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos elsőfokú határozat, valamint a fizetési kötelezettségre részletfizetést engedélyező végzés ellen fellebbezésnek van helye.
 
 (3c) Amennyiben a kincstár megállapítja, hogy az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények a központi költségvetésről szóló törvényben biztosított támogatását a fenntartó jogosulatlanul veszi igénybe, a figyelmeztetést tartalmazó döntésében határidő tűzésével felhívhatja a fenntartót a jogellenes állapot megszüntetésére.
 
@@ -34,4 +34,4 @@ b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos
 
 alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de legkésőbb 2015. szeptember 1-ig az egyéb pszichés fejlődési zavart (súlyos tanulási, figyelem- vagy magatartásszabályozási zavart) is érteni kell.
 
-(10)
+(10) A szakképzésről szóló 2011. évi CLXXXVII. törvény szerint indított kifutó képzések, valamint az Szkt. szerint indított szakiskolai és szakgimnáziumi képzések esetében a szakmai vizsgát, képesítő vizsgát 2025. december 31-éig az addig vizsgáztatást végző képzőintézményben is meg lehet szervezni azzal, hogy a vizsgaközpont alatt a képzőintézményt kell érteni.

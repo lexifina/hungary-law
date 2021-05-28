@@ -14,7 +14,7 @@ c) a szabadságra vonatkozó rendelkezések alkalmazásában fizetési fokozat a
 
 (3) E törvény biztosítja a pedagógus-munkakörben foglalkoztatottak számára a pályán való előmenetel lehetőségét.
 
-(4) A pedagógus-munkakörben foglalkoztatott az általa megszerzett legmagasabb, a munkakör ellátásához e törvényben előírt iskolai végzettség, valamint állam által elismert szakképesítés, szakképzettség, továbbá a nevelő, oktató munkája ellátásához közvetlenül kapcsolódó, azt közvetlenül segítő doktori cím, tudományos fokozat, valamint akadémiai tagság, szakmai gyakorlat, publikációs tevékenység, minősítő vizsga és a minősítési eljárás keretében elnyert minősítés alapján
+(4) A pedagógus-munkakörben foglalkoztatott az általa megszerzett legmagasabb, a munkakör ellátásához jogszabályban előírt iskolai végzettség, valamint állam által elismert szakképesítés, szakképzettség, továbbá a nevelő, oktató munkája ellátásához közvetlenül kapcsolódó, azt közvetlenül segítő doktori cím, tudományos fokozat, valamint akadémiai tagság, szakmai gyakorlat, publikációs tevékenység, minősítő vizsga és a minősítési eljárás keretében elnyert minősítés alapján
 
 a) Gyakornok,
 

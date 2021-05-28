@@ -1,10 +1,4 @@
-93/C. § (1) A tankönyvjegyzéket a hivatal vezeti. A hivatal
-
-a) a 93/B. § (3) bekezdésben meghatározottak kérelme, vagy
-
-b)
-
-alapján veszi fel a tankönyvet a tankönyvjegyzékre. Ha az eljárásban szakértői vélemény beszerzése szükséges, akkor az a Kormány rendeletében kijelölt testülettől kérhető.
+93/C. § (1) A tankönyvjegyzéket a hivatal vezeti. A hivatal a 93/B. § (3) bekezdésben meghatározottak kérelme alapján veszi fel a tankönyvet a tankönyvjegyzékre.
 
 (2) A digitális tananyag a tankönyvjegyzékre tartós tankönyvként nem vehető fel.
 

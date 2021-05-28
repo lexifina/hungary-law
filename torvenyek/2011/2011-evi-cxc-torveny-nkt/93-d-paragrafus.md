@@ -10,4 +10,4 @@ a) az oktatásért felelős miniszter a Kormány által rendeletben kijelölt te
 
 b)
 
-(3) Az oktatásért felelős miniszter által közzétett nyilvános felhívás eredményeképpen elkészített, és a Kormány által kijelölt testület véleményének kikérését követően kiválasztott könyvekre vonatkozóan – kérelemre, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott, a tankönyvvé nyilvánítási eljárásra vonatkozó tartalmi és formai követelmények teljesülése esetén – a hivatal lefolytatja a tankönyvvé nyilvánítási eljárást.
+(3) Az oktatásért felelős miniszter által közzétett nyilvános felhívás eredményeképpen elkészített, és kiválasztott könyvekre vonatkozóan – kérelemre, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott, a tankönyvvé nyilvánítási eljárásra vonatkozó tartalmi és formai követelmények teljesülése esetén – a hivatal lefolytatja a tankönyvvé nyilvánítási eljárást.

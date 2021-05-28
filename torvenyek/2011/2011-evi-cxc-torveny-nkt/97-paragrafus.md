@@ -80,7 +80,7 @@ b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányza
 
 (25)
 
-(26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
+(26)
 
 (27)
 

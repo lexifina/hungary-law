@@ -10,7 +10,7 @@
 
 (2c) A (2a) bekezdés szerint indult perben egyesbíró jár el első fokon. Ha az ügy különös bonyolultsága indokolja, az egyesbíró a perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(2d) A bíróság a keresetlevelet, a keresetlevél bírósághoz történő érkezésétől számított negyvenöt napon belül bírálja el, a határozatát ugyanezen határidőn belül írásba foglalja és a felek részére kézbesíti.
+(2d) A bíróság a keresetlevelet, a keresetlevél bírósághoz történő érkezésétől számított harminc napon belül bírálja el, a határozatát ugyanezen határidőn belül írásba foglalja és a felek részére kézbesíti.
 
 (2e) A perben nem lehet alkalmazni a polgári perrendtartásról szóló 2016. évi CXXX. törvény 148. §-a szerinti ítélkezési szünetre vonatkozó rendelkezéseket.
 

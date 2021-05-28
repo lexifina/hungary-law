@@ -20,7 +20,7 @@ g) tanulótájékoztató, -tanácsadó szolgálat,
 
 h) a lemorzsolódással veszélyeztetett tanulók támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer működtetése.
 
-(3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett az állami köznevelési közfeladat-ellátás keretében, a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon nyújtható. Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: hivatal) biztosítja.
+(3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett az állami köznevelési közfeladat-ellátás keretében, a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon nyújtható. Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a hivatal biztosítja.
 
 (4)
 

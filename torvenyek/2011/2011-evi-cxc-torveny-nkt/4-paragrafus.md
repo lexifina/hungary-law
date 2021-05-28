@@ -42,6 +42,8 @@ ac) kiemelten tehetséges gyermek, tanuló,
 
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint hátrányos és halmozottan hátrányos helyzetű gyermek, tanuló,
 
+c) tartós gyógykezelés alatt álló gyermek, tanuló,
+
 14. kiemelten tehetséges gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki átlag feletti általános vagy speciális képességek birtokában magas fokú kreativitással rendelkezik, és felkelthető benne a feladat iránti erős motiváció, elkötelezettség,
 
 14a. köznevelési alapfeladat: a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában meghatározott olyan köznevelési feladat, amely
@@ -104,7 +106,7 @@ lehet,
 
 17. minősítési eljárás: a pedagógus teljesítményét értékelő eljárás, amely a magasabb fokozatba lépéséhez szükséges,
 
-18.
+18. tartós gyógykezelés alatt álló gyermek, tanuló: az a gyermek, tanuló, akinek egészségügyi ellátása az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 89. §-a szerinti általános járóbeteg-szakellátásban vagy az Eütv. 91. §-a szerinti általános fekvőbeteg-szakellátásban részt vevő szakorvos véleménye alapján az adott nevelési évben, tanévben a harminchat nevelési napot, tanítási napot várhatóan meghaladja, és emiatt az óvodai nevelésben a 8. § (2) bekezdése szerinti formában nem tud részt venni, illetve tankötelezettségét iskolába járással nem tudja teljesíteni,
 
 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 

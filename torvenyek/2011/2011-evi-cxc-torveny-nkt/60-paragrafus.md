@@ -34,6 +34,6 @@ b) ha a tanítást nem a nappali oktatás munkarendje szerint szervezik, a tané
 
 c) a nem kötelező tanórai foglalkozásra, az osztálybontásra és egyéni foglalkozásra, az egyéb foglalkozásra, a mindennapos testnevelésre vonatkozó rendelkezések alkalmazása nem kötelező,
 
-d)
+d) két idegen nyelv oktatása nem kötelező.
 
 (10) Szakgimnáziumban a szakmai képzés a különböző munkarendben tanulók részére közösen is megszervezhető.

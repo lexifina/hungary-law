@@ -30,23 +30,23 @@ k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési
 
 (4) Az oktatásért felelős miniszter kezdeményezi a köznevelési feladatokat ellátó hatóságnál, hogy határidő kitűzésével hívja fel az érintett települési önkormányzatot a köznevelési feladatainak ellátásával összefüggő törvénysértés megszüntetésére. Az oktatásért felelős miniszter, ha az az egyházi köznevelési intézmény vagy a magán köznevelési intézmény működésével, működtetésével összefüggésben jogsértés megalapozott gyanúja merül fel, tájékoztatja a köznevelési feladatokat ellátó hatóságot.
 
-(5) A szakgimnáziumban oktatható pedagógia, közművelődés és művészet tanulmányi területhez sorolt képzések és a szakiskolában oktatható képzések irányítását az oktatásért felelős miniszter látja el, amelynek keretében
+(5) A szakgimnáziumban oktatható pedagógia, közművelődés és művészet tanulmányi területhez sorolt képzések, a szakiskolában oktatható képzések, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések irányítását az oktatásért felelős miniszter látja el, amelynek keretében
 
 a) meghatározza
 
-aa) a szakgimnáziumban és a szakiskolában megszerezhető szakképesítéseket, szakmákat, részszakmákat,
+aa) a szakgimnáziumban, a szakiskolában, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzésben megszerezhető szakképesítéseket, szakmákat, részszakmákat,
 
 ab) a szakgimnáziumi szakképesítések programkövetelményeit és kerettanterveit, valamint a szakiskolai szakképesítések kerettanterveit,
 
-ac) a szakgimnáziumi képesítővizsgák lebonyolítására jogosult vizsgaközpontokat,
+ac) a szakgimnáziumi képesítővizsgák, a szakiskolai szakmai vizsgák és képesítő vizsgák, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsgáinak lebonyolítására jogosult, az Szkt. szerint akkreditált vizsgaközpontokat,
 
 ad) a tanulókat megillető juttatások mértékét,
 
-ae) a szakgimnáziumi képesítő vizsgatevékenység feladatait,
+ae) a szakgimnáziumi képesítő vizsgatevékenység, a szakiskolai szakmaivizsga-tevékenység és képesítővizsga-tevékenység, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsga-tevékenységének feladatait,
 
-b) gondoskodik az a) pont aa)–ac) alpontjában foglaltak közzétételéről.
+b) gondoskodik az a) pont aa)–ae) alpontjában foglaltak közzétételéről.
 
-(5a) Az oktatásért felelős miniszter jelöli ki a szakgimnáziumi képesítő vizsgákra a mérést, értékelést végző szakértőket.
+(5a) Az oktatásért felelős miniszter jelöli ki a szakgimnáziumi képesítő vizsgákra, a szakiskolai szakmai vizsgákra és képesítő vizsgákra, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítő vizsgákra a mérést, értékelést végző szakértőket és a vizsgafelügyelő elnököket.
 
 (6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.
 

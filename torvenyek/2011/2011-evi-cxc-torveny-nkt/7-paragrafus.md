@@ -28,7 +28,7 @@ l) a pedagógiai-szakmai szolgáltatást nyújtó intézmény, és
 
 m) a kiegészítő nemzetiségi óvoda.
 
-(1a) Nevelési-oktatási intézmény az (1) bekezdés a)–j) pontja szerinti köznevelési intézmény.
+(1a) Nevelési-oktatási intézmény az (1) bekezdés a)–j), valamint m) pontja szerinti köznevelési intézmény.
 
 (1b) Középiskola az (1) bekezdés c) és d) pontja szerinti köznevelési intézmény.
 
@@ -42,6 +42,6 @@ m) a kiegészítő nemzetiségi óvoda.
 
 (4) Az oktatásért felelős miniszter az (1)–(3) bekezdésben meghatározottakon kívül más köznevelési intézményt is alapíthat, alapítását engedélyezheti, ha az megfelel e törvény, valamint a szakképzésről szóló törvény előírásainak. Engedélyezheti sajátos pedagógiai program alapján nevelő és oktató általános iskola, középfokú iskola továbbá olyan középiskola alapítását, amelynek nem célja, hogy a tanulót felkészítse az érettségi vizsgára. A kérelemhez mellékelni kell a köznevelési intézmény alapításához jogszabályban meghatározott dokumentumokat, tevékenységével, óvoda és iskola esetén az átadni kívánt ismeretekkel kapcsolatos programot. Az engedéllyel kapcsolatos többletköltségeket a fenntartónak kell viselnie.
 
-(5) Köznevelési alapfeladatot – a 19. § (3) bekezdés a) és c) pontjában és a szakképzésről szóló törvényben (a továbbiakban: Szkt.) meghatározott kivétellel – köznevelési intézmény láthat el. Ha törvény eltérően nem rendelkezik, jogi személyiséggel rendelkező köznevelési intézmény – a köznevelési intézményre meghatározott szakmai szabályok szerint – az Szkt. szerinti szakképzési centrum részeként is működhet, amely önálló költségvetéssel nem rendelkezik és kizárólag a Kormány rendeletében meghatározott jogok és kötelezettségek alanya lehet. Az ilyen köznevelési intézmény nyilvántartásba vételére, nyilvántartásba vett adatainak módosítására és nyilvántartásból való törlésére a szakképző intézményre vonatkozó szabályokat kell alkalmazni.
+(5) Köznevelési alapfeladatot – a hivatal által nyújtott pedagógiai-szakmai szolgáltatás kivételével és a szakképzésről szóló törvényben (a továbbiakban: Szkt.) meghatározott kivétellel – köznevelési intézmény láthat el. Ha törvény eltérően nem rendelkezik, jogi személyiséggel rendelkező köznevelési intézmény – a köznevelési intézményre meghatározott szakmai szabályok szerint – az Szkt. szerinti szakképzési centrum részeként is működhet, amely önálló költségvetéssel nem rendelkezik és kizárólag a Kormány rendeletében meghatározott jogok és kötelezettségek alanya lehet. Az ilyen köznevelési intézmény nyilvántartásba vételére, nyilvántartásba vett adatainak módosítására és nyilvántartásból való törlésére a szakképző intézményre vonatkozó szabályokat kell alkalmazni.
 
 (6) Az (1) bekezdés b)–e) és g) pontjában felsorolt iskola – külön jogszabályban meghatározottak szerint – elláthatja a sportiskola feladatait is.

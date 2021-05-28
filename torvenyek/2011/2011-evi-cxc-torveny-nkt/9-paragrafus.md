@@ -10,7 +10,7 @@
 
 (5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít.
 
-(6) A középiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít.
+(6) A középiskola, a szakiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít.
 
 (7) A gimnáziumban az ötödik, hetedik és kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium a külön jogszabályokban meghatározott feltételeknek megfelel.
 

@@ -24,7 +24,7 @@ tartja nyilván.
 
 a) a gyermek, tanuló neve, születési helye és ideje, neme, állampolgársága, lakóhelyének, tartózkodási helyének címe, társadalombiztosítási azonosító jele, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, száma,
 
-b) szülője, törvényes képviselője neve, lakóhelye, tartózkodási helye, telefonszáma,
+b) szülője, törvényes képviselője, a családi pótlékra jogosult neve, lakóhelye, tartózkodási helye, telefonszáma,
 
 c) a gyermek óvodai fejlődésével kapcsolatos adatok,
 
@@ -70,6 +70,8 @@ g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. �
 
 h) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt külföldi tanulmányúton.
 
+i) a gyermek, tanuló után családi pótlékra jogosult személy nevét, lakóhelyét, tartózkodási helyét, telefonszámát, ha ez a személy nem a gyermek, tanuló szülője, törvényes képviselője.
+
 (4a) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (4) bekezdésben meghatározott adatokon kívül
 
 a) a szülő, a törvényes képviselő önkéntes adatszolgáltatása alapján a gyermek, a tanuló nemzetiségi hovatartozására vonatkozó adatot,
@@ -78,9 +80,11 @@ b) annak a nevelési-oktatási intézménynek a nevét, címét, OM azonosítój
 
 is nyilvántartja.
 
+(4b) Ha a szülő, törvényes képviselő a (4) bekezdés i) pontjában meghatározott családi pótlékra jogosult nevét, lakóhelyét, tartózkodási helyét, telefonszámát nem adja meg az óvodának, iskolának, akkor az óvoda, iskola ezeket az adatokat a családtámogatási ügyben eljáró hatóságtól szerzi be.
+
 (5) A (2)–(3) bekezdésben foglalt adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, rendőrségnek, ügyészségnek, a közneveléssel összefüggő igazgatási tevékenységet végző közigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak, a nemzetbiztonsági szolgálatnak.
 
-(6) A köznevelési intézmények az alkalmazottak személyes adatait csak a foglalkoztatással, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével, az állampolgári jogok és kötelezettségek teljesítésével kapcsolatosan, nemzetbiztonsági okokból, az e törvényben meghatározott nyilvántartások kezelése céljából, a célnak megfelelő mértékben, célhoz kötötten kezelhetik. A 63. § (3) bekezdésében meghatározott pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a KIR adatkezelője, a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
+(6) A köznevelési intézmények az alkalmazottak személyes adatait csak a foglalkoztatással, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével, az állampolgári jogok és kötelezettségek teljesítésével kapcsolatosan, nemzetbiztonsági okokból, az e törvényben meghatározott nyilvántartások kezelése céljából, a célnak megfelelő mértékben, célhoz kötötten kezelhetik. A 63. § (3) bekezdésében meghatározott pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a hivatal, a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
 
 (7) A gyermek, tanuló adatai közül
 
@@ -106,13 +110,13 @@ továbbítható.
 
 (8) A gyermek, a tanuló
 
-a) sajátos nevelési igényére, beilleszkedési zavarára, tanulási nehézségére, magatartási rendellenességére vonatkozó adatai a pedagógiai szakszolgálat intézményei és a nevelési-oktatási intézmények egymás között, továbbá gyermekpszichiátriai diagnózisának adatai a pedagógiai szakszolgálat és az egészségügyi szakellátó között,
+a) sajátos nevelési igényére, beilleszkedési, tanulási, magatartási nehézségére, tartós gyógykezelésére vonatkozó adatai, továbbá a gyermek, tanuló speciális köznevelési ellátásához elengedhetetlenül szükséges szakorvosi, iskolaorvosi diagnózisának adatai a pedagógiai szakszolgálat, a nevelési-oktatási intézmények és az egészségügyi szakellátó között,
 
 b) óvodai fejlődésével, valamint az iskolába lépéshez szükséges fejlettségével kapcsolatos adatai a szülőnek, a pedagógiai szakszolgálat intézményeinek, az iskolának,
 
 c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, iskolaváltás esetén az új iskolának, a szakmai ellenőrzés végzőjének,
 
-d) diákigazolványa kiállításához szükséges valamennyi adata a KIR adatkezelője, a diákigazolvány elkészítésében közreműködők részére
+d) diákigazolványa kiállításához szükséges valamennyi adata a hivatal, a diákigazolvány elkészítésében közreműködők részére
 
 továbbítható.
 

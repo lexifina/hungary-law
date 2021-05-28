@@ -38,6 +38,6 @@ b) minden olyan gyermekvédelmi, gyermekjóléti, szociális és egészségügyi
 
 (10)
 
-(11) A közös igazgatású köznevelési intézmény és az általános művelődési központ vezetését, az intézményegységek munkájának összehangolását – az egyes intézményegységek azonos számú képviselőiből álló – igazgatótanács segíti, amely – jogszabályban meghatározottak szerint – részt vesz a munkáltatói jogkör gyakorlásában.
+(11) A közös igazgatású köznevelési intézmény és az általános művelődési központ vezetését, az intézményegységek munkájának összehangolását – az egyes intézményegységek azonos számú képviselőiből álló – igazgatótanács segítheti, amely – jogszabályban meghatározottak szerint – részt vehet a munkáltatói jogkör gyakorlásában.
 
 (12) Óvoda-bölcsőde szervezeti és szakmai tekintetben önálló intézményegységek keretében óvoda és bölcsőde feladatait láthatja el.

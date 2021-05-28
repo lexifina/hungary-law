@@ -6,7 +6,7 @@ a) a köznevelési intézmények alapításának és működésének szabályait
 
 b) az ágazati minőségpolitikai feladatok ellátásának, az országos mérési feladatok szervezésének, a tanulók fizikai állapotának és edzettségének mérésével kapcsolatos feladatokat, a teljesítmény értékelésének rendjét és elveit,
 
-c) a szakgimnáziumban oktatható szakképesítéseket,
+c) a szakgimnáziumban oktatható szakképesítéseket, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzéseket,
 
 d) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő, illetve a tartós gyógykezelés alatt álló gyermekek, tanulók nevelésével és oktatásával kapcsolatos részletes szabályokat, továbbá a szakértői vélemény elkészítésével összefüggő eljárást, a szakértői bizottság működését, az országos és más szakértői tevékenységet, az utazó gyógypedagógusi, utazó konduktori hálózat megszervezésének és működtetésének, az együttnevelést segítő pedagógusok tevékenységének részletes szabályait, valamint azokat a feltételeket, amikor az utazó gyógypedagógusi, utazó konduktori hálózat igénybevételéért ellenszolgáltatás kérhető,
 
@@ -14,7 +14,7 @@ e) az óvodai felvétel eljárási rendjét, az óvodai nevelésben való kötel
 
 f) a tantermen kívüli, digitális munkarend megszervezésére, az annak keretében folyó nevelésre-oktatásra, a tanulási folyamat ellenőrzésére és támogatására vonatkozó részletes szabályokat,
 
-g)
+g) a szakgimnáziumok és szakiskolák tekintetében a szakképzési megállapodás részletes szabályait, valamint az egyes szakképesítések tekintetében megszerzett jogosultságok megfeleltetését,
 
 h) az iskolai felvételi eljárás rendjét, az iskolai vizsgáztatás rendjét, a pedagógiai szakszolgálat megszervezését, a pedagógiai szakszolgálat igénybevételének rendjét, a pedagógiai szakszolgálatot ellátó intézmény működését; a nevelési-oktatási intézmények részvételét és feladatait a pedagógiai szakszolgálatok ellátásában, az érintett gyermekek, tanulók nevelésében és oktatásában, az ellenőrzés rendjét, a pedagógiai szakszolgálattal kapcsolatos köznevelési feladatokat ellátó hatósági eljárás indításával összefüggő kérdéseket, az eljárás indítására jogosultak körét, azokat a feltételeket, amikor a pedagógiai szakszolgálat igénybevételéért ellenszolgáltatás kérhető, a pedagógiai szakszolgálatot ellátó intézmények és a pedagógiai-szakmai szolgáltatásokat ellátó intézményekben történő foglalkoztatáshoz és a vezetői megbízáshoz szükséges képesítési követelményeket, a pedagógiai szakszolgálati feladatellátás nélküli munkanapok igénybe vételének részletes szabályait, a pedagógiai szakszolgálati nyomtatványok elektronikus úton történő előállításának és tárolásának rendjét, az egyes szolgáltatásokkal összefüggő, valamint a felnőttoktatásban az iskola két vagy több évfolyamára megállapított tanulmányi követelményeket egy tanévben vagy az előírtnál rövidebb idő alatti teljesítésére megszervezett osztályozó vizsgára vizsgabiztos kirendeléséért fizetendő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, továbbá a vizsgáztatással, a szakértői és más szolgáltató tevékenységgel kapcsolatos díjazás megállapításának kérdéseit,
 
@@ -24,7 +24,7 @@ j)
 
 k) az oktatási jogok biztosának feladatait, eljárását, továbbá az általa vezetett hivatal szervezetének és működésének szabályait,
 
-l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az országos köznevelési szakértői névjegyzékbe, az országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és érettségi vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az országos köznevelési szakértői és az országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
+l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az országos köznevelési szakértői névjegyzékbe, az országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és érettségi vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az országos köznevelési szakértői és az országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat a szakgimnáziumi, szakiskolai képzések tekintetében, az országos szakértői, az országos vizsgáztatási, az országos szakmai szakértői és az országos szakmai vizsgafelügyelő elnöki névjegyzék, valamint a szakértői tevékenység szabályait,, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, a vizsgaközpontok ellenőrzésének szabályait,
 
 m) a közneveléssel összefüggő feladatok ellátását szolgáló képzéseket,
 
@@ -94,7 +94,7 @@ g) az intézményvezetői megbízás iskolai végzettséggel, szakképzettségge
 
 h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 
-i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának és kezelésének szabályait,
+i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának, kezelésének, érvényesítésének szabályait,
 
 j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
 
@@ -152,7 +152,7 @@ d) a tankönyvvé nyilvánítási eljárással összefüggésben a felügyeleti 
 
 rendeletben határozza meg.
 
-(4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt rendeletben jelölje ki.
+(4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt, illetve a könyvtárellátó tankönyv-előállítási feladataiban közreműködő, a 93/A. § (3) bekezdés c) pontjában foglaltaknak megfelelő gazdasági társaságot rendeletben jelölje ki.
 
 (4g) Felhatalmazást kap a Kormány, hogy
 
