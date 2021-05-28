@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Románia Kormánya között a Mátészalka – Csenger (H) és Oar (Óvári) – Satu Mare (Szatmárnémeti) (RO) közötti gyorsforgalmi úti kapcsolat létesítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
