@@ -6,7 +6,7 @@ a) a foglalkoztató által megállapított és folyósított társadalombiztosí
 
 b) a jövedelmet pótló kártérítés, keresetpótló járadék, ide nem értve a munkavégzés ellenértékeként (különösen elmaradt munkabér, végkielégítés címén) kapott, juttatott járulékalapot képező jövedelmet,
 
-c) a szerzői jogi védelem, találmányi szabadalmi oltalom, védjegyoltalom, földrajzi árujelzők oltalma, mintaoltalom alatt álló mű, alkotás, valamint az újítás hasznosítására irányuló felhasználási, hasznosítási, használati szerződés alapján a vagyoni jog (védelem alatt álló jog, oltalmi jog) felhasználásának ellenértékeként kifizetett díj,
+c) a szerzői jogi védelem alatt álló mű felhasználására, a szabadalom és kiegészítő oltalmi tanúsítvány tárgyát képező találmány, a növényfajta-oltalom alatt álló növényfajta, a használati- és formatervezési mintaoltalom alatt álló minta, valamint az azonosításra alkalmas módon rögzített vagyoni értéket képviselő műszaki vagy szervezési ismeret, tapasztalat mint védett ismeret hasznosítására irányuló felhasználási vagy hasznosítási szerződés (licenciaszerződés) alapján a felhasználás vagy hasznosítás jogának ellenértékeként kifizetett díj, valamint a találmányi díj, az alkalmazotti találmány hasznosítására való jog ellenében járó díj, a szolgálati és alkalmazotti növényfajta, a szolgálati és alkalmazotti használati- és formatervezési minta tekintetében a nemesítőt, a feltalálót és a szerzőt megillető díj,
 
 d) a késedelmes teljesítéshez kapcsolódó kamat,
 
