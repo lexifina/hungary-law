@@ -42,6 +42,8 @@ d) a közigazgatási hatósági eljárás ügyszáma.
 
 3.1. a pedagógiai szakszolgálatnak a gyermeket, tanulót közvetlenül ellátó munkatársa,
 
-3.2. a gyermeket, tanulót közvetlenül ellátó pedagógiai szakszolgálati intézmény vezetője
+3.2. a gyermeket, tanulót közvetlenül ellátó pedagógiai szakszolgálati intézmény vezetője,
+
+3.3. kizárólag a szakértői bizottság szakértői véleménye, a logopédiai vélemény és a gyógytestnevelésre való jogosultság tekintetében a gyermek nevelését, a tanuló nevelését-oktatását ellátó pedagógus
 
 ismerheti meg.

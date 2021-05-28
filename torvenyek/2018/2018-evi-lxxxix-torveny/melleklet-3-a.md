@@ -30,7 +30,7 @@
 
 ## 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
-## 3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács esetében
+## 3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács, az Országos Tudományos Diákköri Tanács esetében
 
 ## 3.1. a szervezet neve, székhelye,
 
@@ -40,9 +40,15 @@
 
 ## 4.1. fenntartójának neve, székhelyének címe,
 
-## 4.2. vezetőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
+## 4.2. vezetőjének és a szakkollégium képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
 
 ## 5. a közösségi felsőoktatási képzési központ képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail).
+
+## 6. Az Nftv. 54. §-ában meghatározott szervezet által létesített szakkollégium esetében
+
+## 6.1. a szakkollégium képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail)
+
+## 6.2. a szakkollégiumot létesítő szervezet neve, székhelye.
 
 ## II. Felsőoktatási alkalmazotti személyi törzs
 

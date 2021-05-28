@@ -36,7 +36,7 @@ továbbítható.
 
 (13) Az Országos pedagógiai-szakmai ellenőrzési nyilvántartásból személyes adat – az érintetten kívül – az országos pedagógiai-szakmai ellenőrzések lefolytatása céljából, az alkalmazott intézményvezetőjének, munkáltatójának, az érintettet foglalkoztató köznevelési intézmény fenntartójának, valamint az ellenőrzést végző szakértők számára továbbítható.
 
-(14) A Pedagógusminősítési nyilvántartásból személyes adat – a minősítő vizsgán, a minősítési eljárásban érintett pedagóguson kívül – a minősítő vizsga, minősítési eljárás lefolytatása céljából, az alkalmazott intézményvezetőjének, munkáltatójának, az érintettet foglalkoztató köznevelési intézmény fenntartójának, valamint az ellenőrzést végző szakértők számára továbbítható.
+(14) Az oktatási nyilvántartás működéséért felelős szerv a pedagógusminősítési nyilvántartásból személyes adatot szolgáltat – a minősítővizsgán, a minősítési eljárásban érintett pedagóguson kívül – a minősítővizsga, minősítési eljárás lefolytatása, a minősítővizsgán, minősítési eljáráson elért eredményről való tájékoztatás céljából, az alkalmazott intézményvezetőjének, munkáltatójának, az érintettet foglalkoztató köznevelési intézmény fenntartójának, a köznevelési intézmény finanszírozását ellenőrző szervnek, valamint a minősítővizsgán, minősítési eljárásban érintett szakértőknek.
 
 (15) A személyes adatokat A pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő rendszerből (a továbbiakban: INYR) az adatkezelő a pedagógiai szakszolgálati intézmény ellátásának utolsó igénybevételétől számított húsz év elteltével törli a nyilvántartásból.
 
@@ -155,3 +155,9 @@ c) a honosítási határozat kiállításának napja és
 d) a honosítási határozat sorszáma.
 
 (35) A (30)–(34) bekezdés szerinti adatok átadásának rendjét az oktatási nyilvántartás működéséért felelős szerv és a nyugdíjbiztosítási igazgatási szerv együttműködési megállapodásban határozza meg.
+
+(36) Az oktatási nyilvántartás működéséért felelős szerv az alkalmazotti nyilvántartásból személyes adatot szolgáltat a Nemzeti Pedagógus Karban folytatott választás érvényességének biztosítása céljából a szavazás időpontjában fennálló pedagógus-jogviszony tényéről a Nemzeti Pedagógus Kar számára.
+
+(37) A Kormány vagy az egyes miniszterek által megkötött megállapodások keretében elérhető kedvezmény igénybevételére történő jogosultság érvényességének megerősítése céljából az oktatási nyilvántartás működéséért felelős szerv a 2. § e) pontja szerinti, a születési időre vonatkozó, valamint az 2. § l) pontja szerinti, oktatási azonosító számára vonatkozó megerősítő adatokat továbbítja jogosultság ellenőrzését végző program és az igénylőfelület működtetését végző szervnek.
+
+(38) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartás 3/C. §, 4. § (2) bekezdés a–b) pontja, 4. § (3) bekezdés b) és d) pontja szerinti szakrendszerből személyes adatot továbbít a Nemzeti Köznevelési Portál és a Tankönyvkatalógus működtetéséért felelős szerv részére a tanulók, hallgatók, pedagógusok és oktatók köznevelési és felsőoktatási intézménnyel fennálló aktív jogviszonyának tényére vonatkozóan az ezen portálok szerzői jog által védett tartalmainak jogszerű igénybevétele céljából.

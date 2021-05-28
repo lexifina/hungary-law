@@ -10,7 +10,7 @@ I. Tanulói nyilvántartás
 
 A tanulói nyilvántartás a gyermek, tanuló alábbi személyes adatait tartalmazza:
 
-a) oktatási azonosító számát, adóazonosító jelét, társadalombiztosítási azonosító jelét,
+a) oktatási azonosító számát, társadalombiztosítási azonosító jelét,
 
 b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
 
@@ -44,7 +44,7 @@ a) oktatási azonosító számát,
 
 b) végzettségére és szakképzettségére vonatkozó adatokat: felsőoktatási intézmény nevét, az oklevél számát, a végzettséget, szakképzettséget, a végzettség, szakképzettség, a pedagógus-szakvizsga, tudományos fokozat megszerzésének idejét,
 
-c) munkaköre megnevezését,
+c) munkaköre megnevezését és időtartamát,
 
 d) munkáltatója nevét, címét, valamint OM azonosítóját,
 
@@ -266,7 +266,7 @@ e) előző tanévi matematika osztályzat;
 
 f) évfolyam, osztály;
 
-g) egyéni munkarend szerinti nevelés-oktatásban való részvétel,
+g)
 
 h) jogviszonnyal kapcsolatos adatok;
 
@@ -364,7 +364,7 @@ XI. Országos pedagógiai-szakmai ellenőrzési nyilvántartás
 
 2.2. a II. részben meghatározott adatok;
 
-2.3. az ellenőrzésének időpontja, értékelése, adatai;
+2.3. az ellenőrzésének időpontja, értékelése, adatai, a pedagógusi, vezetői és intézményi területek fejlesztésére vonatkozó javaslatok, javasolt fejlesztési módok;
 
 2.4. az ellenőrzés keretében lefolytatott látogatás jegyzőkönyve adatai;
 
@@ -474,11 +474,13 @@ dd) minősítő vizsga, minősítési eljárás látogatásának helye, időpont
 
 de) minősítési bizottság tagjainak neve, elérhetősége,
 
-e) a minősítő vizsga, minősítési eljárás eredményének adatai, pedagóguskompetenciák alapján történő értékelése;
+e) a minősítő vizsga, minősítési eljárás eredményének adatai, pedagóguskompetenciák alapján történő értékelése, a pedagóguskompetenciák fejlesztésére vonatkozó javaslatok, javasolt fejlesztési módok;
 
 f) a kiállított tanúsítvány adatai;
 
-g) minősítésével kapcsolatban beadott kérelmek adatai.
+g) minősítésével kapcsolatban beadott kérelmek, valamint panaszkezelés adatai.
+
+h) az Oktatási Hivatal által szervezett, pedagógusminősítés és országos pedagógiai-szakmai ellenőrzés szakértői feladatainak ellátására felkészítő képzés adatai.
 
 3. A pedagógusminősítési nyilvántartás a minősítő vizsga, minősítési eljárásban közreműködő köznevelési szakértő alábbi személyes adatait tartalmazza:
 
@@ -511,6 +513,8 @@ g) minősítésével kapcsolatban beadott kérelmek adatai.
 3.14. Mesterpedagógus, Kutatótanár minősítésekben szakértői tevékenység folytatására való jogosultság ténye,
 
 3.15. pedagógusminősítési továbbképzésen képzőként való alkalmazhatósága.
+
+3.16. munkáltatója neve, címe, valamint OM azonosítója.
 
 XIII. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása
 
@@ -554,6 +558,8 @@ c) a gyermek óvodás korúvá válásának időpontját,
 
 d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát.
 
+e) ha a gyermek az óvodáztatási kötelezettségét külföldön teljesíti, a külföldi tartózkodás kezdő és várható befejező időpontját, valamint azt az országot, ahol a gyermek az óvodáztatási kötelezettségét teljesíti.
+
 XV. Tanköteles gyermekek nyilvántartása
 
 A tanköteles gyermekek nyilvántartása a gyermek alábbi személyes adatait tartalmazza:
@@ -573,3 +579,5 @@ bd) fenntartóját,
 c) a tankötelessé válásának időpontját,
 
 d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát.
+
+e) ha a gyermek, tanuló tankötelezettségét külföldön teljesíti, a tanulmányok külföldön történő folytatásának kezdő és várható befejező időpontját. valamint azt az országot, ahol a tanuló a tankötelezettségét teljesíti.
