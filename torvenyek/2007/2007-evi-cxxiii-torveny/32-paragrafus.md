@@ -14,7 +14,9 @@ ea) a jogalap tekintetében igazságügyi szakértő kirendelése szükséges, �
 
 eb) a per ezen határidőn belül befejezhető;
 
-f) a bíróság a közigazgatási határozatot nem változtathatja meg, ha a kisajátítási hatóság a kisajátítást kérő kérelmét arra hivatkozva utasította el, hogy nincs helye kisajátításnak, és a közigazgatási határozat ezen rendelkezése jogszabálysértő.
+f) a bíróság – a g) pontban foglalt kivétellel – a közigazgatási határozatot megváltoztathatja;
+
+g) a bíróság a közigazgatási határozatot nem változtathatja meg, ha a kisajátítási hatóság a kisajátítást kérő kérelmét arra hivatkozva utasította el, hogy nincs helye kisajátításnak, és a közigazgatási határozat ezen rendelkezése jogszabálysértő.
 
 (1a) Ha a keresetlevelet benyújtó félnek az általa megjelölt címre küldött iratot azért nem lehet kézbesíteni, mert a címzett a bejelentett címen ismeretlen vagy onnan ismeretlen helyre költözött, a bíróság hivatalból hirdetményi kézbesítést rendel el. Az érintett fél részére nem kell ügygondnokot rendelni.
 
