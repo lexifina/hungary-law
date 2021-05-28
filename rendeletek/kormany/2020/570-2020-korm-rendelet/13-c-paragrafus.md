@@ -1,4 +1,4 @@
-## 9/C. [^5] A rendőrség utánpótlását biztosító eltérő szabályokról
+## 9/C. [^7] A rendőrség utánpótlását biztosító eltérő szabályokról
 
 13/C. § (1) A Közbiztonsági rendőrjárőr szakképesítésre, valamint a Határrendész és útlevélkezelő rendőrjárőr szakképesítésre felkészítő szakmai képzés programkövetelményében a képesítővizsgára bocsátás feltételeként előírt „B” kategóriás gépjárművezetői engedély bemutatása a 2021. szeptember 30-ig lebonyolításra kerülő képesítővizsgán nem kötelező.
 
@@ -10,4 +10,4 @@ b) a képesítőbizonyítványt a „B” kategóriás gépjárművezetői enged
 
 (3) A (2) bekezdés b) pontja szerinti határidő elmulasztása esetén a képesítővizsgát ismételten le kell tenni.
 
-[^5]: A 9/C. alcímet (13/C. §) a 274/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 9/C. alcímet (13/C. §) a 274/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
