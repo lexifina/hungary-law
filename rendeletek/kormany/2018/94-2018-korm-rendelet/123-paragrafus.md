@@ -1,3 +1,3 @@
-123. §[^90]
+123. §[^91]
 
-[^90]: A 123. §-t az 536/2020. (XII. 1.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^91]: A 123. §-t az 536/2020. (XII. 1.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

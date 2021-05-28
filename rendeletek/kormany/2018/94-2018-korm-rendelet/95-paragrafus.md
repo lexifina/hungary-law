@@ -30,6 +30,6 @@ d) ellátja az orvos- és egészségtudományi képzéssel kapcsolatos állami f
 
 e) a szakképzés általános keretei között szervezi az egészségügyi szakképzési feladatok végrehajtását.
 
-f)[^70] az ágazati szintű döntések meghozatalának előkészítése, támogatása érdekében egészségügyi ágazati adatelemző központot működtet.
+f)[^71] az ágazati szintű döntések meghozatalának előkészítése, támogatása érdekében egészségügyi ágazati adatelemző központot működtet.
 
-[^70]: A 95. § (2) bekezdés f) pontját az 588/2020. (XII. 17.) Korm. rendelet 8. §-a iktatta be.
+[^71]: A 95. § (2) bekezdés f) pontját az 588/2020. (XII. 17.) Korm. rendelet 8. §-a iktatta be.

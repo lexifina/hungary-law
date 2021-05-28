@@ -34,6 +34,7 @@
 
 17. az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény szerinti központi szervként.
 
-(2) A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió rendszereivel való információcserét lebonyolító nemzeti kapcsolattartó pont (EUCARIS, RESPER), illetve központi hatóság (ECRIS) hatáskörébe utalt, a publikus kulcsú információs rendszer (PKI) koordinátor, az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszer, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
+(2)[^46] A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító nemzeti kapcsolattartó pont (EUCARIS, RESPER), illetve központi hatóság (ECRIS) hatáskörébe utalt, a publikus kulcsú információs rendszer (PKI) koordinátor, az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszer, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
 
 [^45]: A 41. § (1) bekezdés 4. pontját a 254/2018. (XII. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^46]: A 41. § (2) bekezdése a 287/2021. (V. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.

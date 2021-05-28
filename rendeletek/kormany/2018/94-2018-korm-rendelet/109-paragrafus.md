@@ -12,8 +12,8 @@
 
 4. kárpótlásért,
 
-5.[^80] európai uniós ügyek koordinációjáért
+5.[^81] európai uniós ügyek koordinációjáért
 
 felelős tagja.
 
-[^80]: A 109. § (1) bekezdés 5. pontját a 157/2019. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^81]: A 109. § (1) bekezdés 5. pontját a 157/2019. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
