@@ -23,3 +23,7 @@ e) a képviselő-testület feladatkörébe tartozó közszolgáltatás ellátás
 (3) Nem kell alkalmazni az (1) bekezdésben foglaltakat abban az esetben, ha a felek az e rendelet hatálybalépése előtt – legalább kétéves időtartamra vagy határozatlan időre – megkötött szerződésükben számszerűsíthető módon meghatározták a díjemelés mértékét az (1) bekezdés szerinti időszak vonatkozásában.
 
 (4) Nem kell alkalmazni az (1) bekezdésben foglaltakat abban az esetben, ha a díjemelés mértékét a díjfizetési kötelezettséget előíró jogszabály 2020. október 31. napjáig számszerűsíthető módon meghatározta.
+
+(5)[^2] A (2) bekezdést a helyi önkormányzati tulajdonban, illetve vagyonkezelésben álló, 2020. november 4. napján vagy ezt követően létesített parkolókra vonatkozó parkolási díj tekintetében nem kell alkalmazni.
+
+[^2]: Az 1. § (5) bekezdését a 284/2021. (V. 27.) Korm. rendelet 1. §-a iktatta be.
