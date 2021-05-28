@@ -1,6 +1,6 @@
 ## 3. Az Egyetem részére történő vagyonjuttatás
 
-4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
+4. § (1) Az Nvtv. 13. § (3) bekezdésében valamint a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
 
 (2) Az e törvény szerinti vagyonjuttatás során az 1. mellékletben szereplő védett ingatlanok esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
 
