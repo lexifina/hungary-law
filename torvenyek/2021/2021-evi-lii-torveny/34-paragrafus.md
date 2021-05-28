@@ -7,11 +7,3 @@
 (3) A 10. §, a 12. §, a 22. § és az 1. melléklet 2021. szeptember 1-jén lép hatályba.
 
 (4) A 28. § 2022. július 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
