@@ -1,3 +1,5 @@
-## 2. § Az R. 1. § (1) bekezdésében a „4772/2 és 3220” szövegrész helyébe a „belterület 4772/2, 4771/2 és 3220” szöveg lép.
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
