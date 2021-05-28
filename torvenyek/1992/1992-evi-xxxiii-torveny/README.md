@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2020-04-11 | 2020. évi XIX. törvény | 1992-33-00-00.120 |
 | 2020-11-01 | 2020. évi XXXII. törvény | 1992-33-00-00.121 |
 | 2021-01-01 | 2020. évi CXLVIII. törvény | 1992-33-00-00.122 |
+| 2021-05-28 | 2021. évi LIII. törvény | 1992-33-00-00.123 |

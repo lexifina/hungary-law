@@ -3,3 +3,5 @@
 (2) Az (1) bekezdés alkalmazásában üzleti titok a munkáltató gazdasági (kutatási) tevékenységéhez kapcsolódó minden olyan téma, információ, megoldás, eljárási módszer, adat, amely a munkáltató számára vagyoni értéket képvisel.
 
 (3) Az (1) bekezdésben megjelölt munkáltatónál foglalkoztatott magasabb vezető, vezető beosztású, illetve témacsoport-vezető közalkalmazott nem lehet tagja, illetve vezető tisztségviselője olyan gazdasági társaságnak, amelynek az őt foglalkoztató munkáltató az alapítója, tagja vagy a munkáltatóval – ide nem értve a közműszolgáltató tevékenységet ellátó gazdasági társaságokat – gazdasági kapcsolatban áll.
+
+(4) Az (1)–(3) bekezdést a KFItv. szerinti hasznosító vállalkozással, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társasággal létesített jogviszonyokra nem kell alkalmazni. Ezen jogviszonyok keretében a közalkalmazott jogosult az (1) bekezdésben megjelölt munkáltatója (2) bekezdés szerinti üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására.
