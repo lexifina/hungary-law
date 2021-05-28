@@ -14,6 +14,8 @@ d) a felsőfokú tanulmányok megkezdése előtt legfeljebb két féléven keres
 
 e) az államközi megállapodás alapján, a miniszter által működtetett ösztöndíjprogram keretében ösztöndíjjal támogatott hallgató az ösztöndíjjal támogatott időszakra vonatkozóan nem köteles a magyar állami (rész)ösztöndíjhoz kapcsolódó, e törvényben meghatározott sajátos feltételek teljesítésére.
 
+(2a) Ha a nem magyar állampolgár magyarországi tanulmányait távolléti oktatás keretében kezdi meg vagy tanulmányait távolléti oktatás keretében folytatja, hallgatói jogviszonyt létesíthet a (2) bekezdés a) pontja szerinti engedély nélkül is. A hallgatónak a távolléti oktatás keretében megkezdett képzésének nem távolléti oktatás keretében történő folytatását megelőzően be kell szereznie a (2) bekezdés a) pontja szerinti engedélyt és a felsőoktatási intézmény részére be kell mutatnia a felvételi eljárás és a beiratkozás során elektronikusan bemutatott iratai közül azokat, amelyeket a felsőoktatási intézmény előír.
+
 (3) A 39. § (1) bekezdés f) pontja szerinti – a miniszter által kiírt pályázatot elnyert – személyek a miniszter által meghatározott létszámban jogosultak magyar állami (rész)ösztöndíjjal támogatott képzésben részt venni.
 
 (4) A kedvezménytörvény hatálya alatt álló – külföldi felsőoktatási intézménnyel hallgatói jogviszonyban álló – személy magyar felsőoktatási intézményben magyar állami (rész)ösztöndíjjal támogatott képzés keretében alkalmanként legfeljebb fél évig tartó részképzésben vehet részt.

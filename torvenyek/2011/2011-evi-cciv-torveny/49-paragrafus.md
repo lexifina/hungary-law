@@ -22,7 +22,9 @@ vehessen fel.
 
 (5) Egy adott ismeretanyag elsajátításáért egy alkalommal adható kredit. A kreditelismerés – tantárgy (modul) előírt kimeneti követelményei alapján – kizárólag a kredit megállapításának alapjául szolgáló tudás összevetésével történik. El kell ismerni a kreditet, ha szabadon választható tárgyra vonatkozik vagy az összevetett tudás legalább hetvenöt százalékban megegyezik. A tudás összevetését a felsőoktatási intézmény e célra létrehozott bizottsága (a továbbiakban: kreditátviteli bizottság) végzi.
 
-(6) A kreditátviteli bizottság az előzetesen nem formális, informális tanulás során megszerzett tudást, munkatapasztalatot – az e törvényben, valamint kormányrendeletben meghatározottak szerint – tanulmányi követelmény teljesítéseként elismerheti. A kreditátviteli bizottság eseti döntését kell alkalmazni öt évig az azonos kreditelismerésre vonatkozó kérelemnél.
+(6) A kreditátviteli bizottság az előzetesen nem formális, informális tanulás során megszerzett tudást, munkatapasztalatot, továbbá a szakképesítést és szakképzettséget eredményező tanulás során szerzett ismereteket – az e törvényben, valamint kormányrendeletben meghatározottak szerint – tanulmányi követelmény teljesítéseként elismerheti. A kreditátviteli bizottság eseti döntését kell alkalmazni öt évig az azonos kreditelismerésre vonatkozó kérelemnél.
+
+(6a) A kreditátviteli bizottság döntéseit és azok érvényességi idejét, továbbá a felsőoktatási intézmény összes kurzusának, moduljának tárgyleírását a tanulmányi rendszeren keresztül minden hallgató és oktató számára hozzáférhetővé kell tenni.
 
 (7) A (3)–(6) bekezdésben meghatározottak végrehajtásával kapcsolatos kérdéseket a tanulmányi és vizsgaszabályzatban kell szabályozni, azzal a megkötéssel, hogy a hallgató a végbizonyítvány (abszolutórium) megszerzéséhez – a felsőoktatási intézményben folytatott, illetve más korábbi tanulmányok, továbbá az előzetesen megszerzett tudás kreditértékként való elismerése esetén is – a tanulmányi és vizsgaszabályzat szerinti kreditet, de legalább a képzés kreditértékének harmadát az adott intézmény adott képzésén köteles teljesíteni.
 

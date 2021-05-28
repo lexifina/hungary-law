@@ -48,4 +48,4 @@ f) a felsőoktatás és a gazdaság kapcsolatának legalább háromévenkénti �
 
 (6)
 
-(7) Ha a főiskolai, vagy egyetemi tanár kinevezésére vonatkozó javaslatra a Magyar Tudományos Akadémia – művészeti területen a Magyar Művészeti Akadémia, sporttudományi területen a Magyar Olimpiai Bizottság – kezdeményezésére kerül sor, a miniszter a (2) bekezdés c) pontja szerinti intézkedését a 28. § (3)–(5) bekezdésében meghatározott személyi feltételek teljesítését követően hozza meg.
+(7) Ha a főiskolai vagy egyetemi tanár kinevezésére vonatkozó javaslatra a Magyar Tudományos Akadémia – művészeti területen a Magyar Művészeti Akadémia, sporttudományi területen a Magyar Olimpiai Bizottság – kezdeményezésére kerül sor, a miniszter a (2) bekezdés c) pontja szerinti intézkedését a 28. § (3)–(5) bekezdésében meghatározott személyi feltételek teljesítését követően hozza meg.

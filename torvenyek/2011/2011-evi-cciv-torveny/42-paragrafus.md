@@ -10,10 +10,12 @@ b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugya
 
 (3) Az (1)–(2) bekezdésekben meghatározott kérelmek teljesítésének feltételeit a fogadó felsőoktatási intézmény határozza meg.
 
-(4) Aki a felsőoktatási intézménybe felvételt vagy átvételt nyert, a felvételről, átvételről szóló döntés véglegessé válását követően jogosult beiratkozással hallgatói jogviszonyt létesíteni, továbbá köteles a 43. § (2) bekezdésében meghatározott kötelezettségek teljesítésére.
+(4) Aki a felsőoktatási intézménybe felvételt vagy átvételt nyert, a felvételről, átvételről szóló döntés véglegessé válását követően jogosult beiratkozással hallgatói jogviszonyt létesíteni, valamint köteles a 43. § (2) bekezdésében meghatározott kötelezettségek teljesítésére.
 
 (5) A hallgatói jogviszony fennállása alatt újabb beiratkozásra nincs szükség. A hallgatónak az intézményi szabályozásban meghatározottak szerint – a képzési időszak megkezdése előtt – be kell jelentkeznie az adott képzési időszakra. Nem jelentkezhet be az a hallgató, aki a lejárt fizetési kötelezettségeinek nem tett eleget.
 
 (6) Az (1) bekezdés b) pontja szerinti átvételre – a Kormány rendeletében meghatározottak kivételével – csak azonos végzettségi szintet eredményező szakok között kerülhet sor, alapképzés és osztatlan mesterképzés esetében feltéve, hogy a hallgató legalább 30 kreditet ténylegesen megszerzett korábbi intézményében.
 
 (7) A (6) bekezdéstől eltérően az alapképzésben tanulmányokat folytató hallgató átvehető felsőoktatási szakképzésre.
+
+(8) A hallgató vagy a volt hallgató kérheti felvételét – a központi felsőoktatási felvételi eljárásban történő részvétel nélkül, önköltséges képzésre – azonos, illetve másik felsőoktatási intézmény informatika képzési területének olyan szakára, ahol az adott felsőoktatási intézmény kreditátviteli szabályai szerint legalább 30 beszámítható kreditponttal rendelkezik.

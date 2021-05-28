@@ -4,7 +4,7 @@
 
 47. § (1) Egy személy – felsőoktatási szakképzésben, alapképzésben és mesterképzésben összesen – tizenkét féléven át folytathat a felsőoktatásban tanulmányokat magyar állami (rész)ösztöndíjas képzésben (a továbbiakban: támogatási idő). A támogatási idő legfeljebb tizennégy félév, ha a hallgató osztatlan képzésben vesz részt és a képzési követelmények szerint a képzési idő meghaladja a tíz félévet.
 
-(1a) A nem tanári mesterképzési szakkal vagy osztatlan szakkal párhuzamos képzésben vagy a nem tanári osztatlan szakot követően felvett tanárszakon, szakmai tanárszakon, továbbá a Kormány rendeletében meghatározott azon tanárszakon folytatott tanulmányok esetén, amely csak a szakterülete szerinti nem tanári mesterképzési szakra épülően második, további mesterképzési szakon folyó tanári szakképzettség megszerzésére irányuló képzésben vehető fel, az (1) bekezdés szerinti támogatási idő további két félévvel lehet hosszabb.
+(1a) A nem tanári mesterképzési szakkal vagy osztatlan szakkal párhuzamos képzésben vagy a nem tanári osztatlan vagy mesterképzési szakot követően felvett tanárszakon, szakmai tanárszakon, továbbá a Kormány rendeletében meghatározott azon tanárszakon folytatott tanulmányok esetén, amely csak a szakterülete szerinti nem tanári mesterképzési szakra épülően második, további mesterképzési szakon folyó tanári szakképzettség megszerzésére irányuló képzésben vehető fel, az (1) bekezdés szerinti támogatási idő további két félévvel lehet hosszabb.
 
 (2) A doktori képzésben részt vevő hallgató támogatási ideje legfeljebb nyolc félév.
 
@@ -24,6 +24,6 @@ c) azt a félévet sem, amelyet tanulmányai folytatásánál a felsőoktatási 
 
 d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: a Nemzeti Közszolgálati Egyetemről szóló törvény) 21/A. § (1) bekezdés a), b) és d) pontjában meghatározott jogviszonyban álló hallgató a Nemzeti Közszolgálati Egyetem képzésén vett igénybe.
 
-(7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
+(7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén – a 39. § (4a) bekezdése szerint felvett tanárszak kivételével – a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 
 (8) Ha a hallgató kimerítette az e §-ban meghatározottak szerint rendelkezésére álló támogatási időt, csak önköltséges képzési formában folytathat tanulmányokat a felsőoktatásban.

@@ -10,7 +10,7 @@
 
 (3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsga teljesítésével jön létre.
 
-(4) A doktorandusznak a komplex vizsgát követő három éven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő esetekben legfeljebb egy évvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév lehet.
+(4) A doktorandusznak a komplex vizsgát követő három tanéven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő esetekben legfeljebb egy tanévvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév lehet.
 
 (4a) A felsőoktatási intézmény annak a doktorandusznak, aki a doktori képzésben az előírt krediteket megszerezte, végbizonyítványt (abszolutórium) állít ki.
 

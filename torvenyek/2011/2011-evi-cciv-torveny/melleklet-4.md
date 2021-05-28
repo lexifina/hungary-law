@@ -42,6 +42,8 @@
 
 ## f) az adatokat igazoló okiratok azonosítására szolgáló adatok.
 
+## g) a személyiadat- és lakcímnyilvántartásból kikerülés időpontja és oka.
+
 ## 2. Az adatkezelés célja: az 18. § (1) bekezdés szerint. A felsőoktatási intézmény a személyes és különleges adatokat csak a foglalkoztatással, juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével kapcsolatosan, nemzetbiztonsági okból, az e törvényben meghatározott nyilvántartások kezelése céljából, célnak megfelelő mértékben, célhoz kötötten kezelheti.
 
 ## 3. Az adatkezelés időtartama: a foglalkoztatás megszűnésétől számított öt év
@@ -74,7 +76,7 @@
 
 ## ba) a hallgató neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
-## bb) a hallgatói (vendéghallgatói) jogviszony típusa, keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, a képzés befejezésének várható időpontja, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelésének ideje,
+## bb) a hallgatói (vendéghallgatói) jogviszony típusa, keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, a képzés befejezésének várható időpontja, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelése,
 
 ## bc) a külföldi felsőoktatási résztanulmányok helye, ideje,
 
@@ -94,7 +96,7 @@
 
 ## bk) a hallgató oktatási azonosító száma, személyazonosító okmány száma, fényképe, társadalombiztosítási azonosító jele,
 
-## bl) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, valamint az oklevélre, oklevélmellékletre vonatkozó adatok,
+## bl) szakdolgozat (diplomamunka) és az oklevélmelléklet elektronikus példánya, a gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, valamint az oklevélre, oklevélmellékletre vonatkozó adatok,
 
 ## bm) a hallgatói jogviszonyból adódó jogok és kötelezettségek teljesítéséhez szükséges adatok;
 
@@ -112,7 +114,9 @@
 
 ## i) a hallgatói kompetenciamérésre, annak eredményére vonatkozó adatok;
 
-## j) a Diákhitel Központ által megítélt hitel fennálltára, típusára vonatkozó adat.
+## j) a Diákhitel Központ által megítélt hitel fennállására, típusára, valamint kötött felhasználású hitel esetén a hallgató által igényelt diákhitel összegére, a hitelszerződés számára, a felsőoktatási intézmény részére átutalt összegre és az átutalás dátumára vonatkozó adat.
+
+## k) a személyiadat- és lakcímnyilvántartásból kikerülés időpontja és oka.
 
 ## 2. Az adatkezelés célja: az 18. § (1) bekezdés szerint. A felsőoktatási intézmény a személyes és különleges adatokat csak a jogviszonnyal, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével kapcsolatosan, nemzetbiztonsági okból, az e törvényben meghatározott nyilvántartások kezelése céljából, célnak megfelelő mértékben, célhoz kötötten kezelheti.
 

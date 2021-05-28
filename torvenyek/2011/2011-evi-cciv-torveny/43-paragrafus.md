@@ -1,4 +1,4 @@
-43. § (1) A hallgató joga, hogy a jogszabályokban és az intézményi szabályozásban meghatározottak szerint teljes körű, pontos és hozzáférhető formában információt kapjon a tanulmányai megkezdéséhez és folytatásához, kialakítsa tanulmányi rendjét, igénybe vegye a felsőoktatási intézményben elérhető képzési lehetőségeket, kapacitásokat; állapotának, személyes adottságainak, fogyatékosságának megfelelő ellátásban részesüljön.
+43. § (1) A hallgató joga, hogy a jogszabályokban és az intézményi szabályozásban meghatározottak szerint teljes körű, pontos és elsősorban a tanulmányi rendszeren keresztül hozzáférhető formában – lehetőség szerint személyre szabott – információt kapjon a tanulmányai megkezdéséhez és folytatásához, kialakítsa tanulmányi rendjét, igénybe vegye a felsőoktatási intézményben elérhető képzési lehetőségeket, kapacitásokat; állapotának, személyes adottságainak, fogyatékosságának megfelelő ellátásban részesüljön.
 
 (2) A hallgató kötelessége, hogy
 
