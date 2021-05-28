@@ -554,13 +554,15 @@ Foglalkoztatási támogatásban részesülő fogyatékos nappali intézményben 
 
 |
 
-Demens személyek nappali intézményi ellátása – önálló feladatellátás
+Demens személyek nappali intézményi ellátása
+
+– önálló feladatellátás
 
 |
 
 |
 
-755 880 forint/fő
+746 546 forint/fő
 
 |
 
@@ -572,13 +574,15 @@ Demens személyek nappali intézményi ellátása – önálló feladatellátás
 
 |
 
-Demens személyek nappali intézményi ellátása – társulás által történő feladatellátás
+Demens személyek nappali intézményi ellátása
+
+– társulás által történő feladatellátás
 
 |
 
 |
 
-831 468 forint/fő
+821 200 forint/fő
 
 |
 
@@ -596,7 +600,7 @@ Foglalkoztatási támogatásban részesülő demens nappali intézményben ellá
 
 |
 
-453 528 forint/fő
+447 928 forint/fő
 
 |
 
@@ -614,7 +618,7 @@ Foglalkoztatási támogatásban részesülő demens nappali intézményben ellá
 
 |
 
-498 880 forint/fő
+492 720 forint/fő
 
 ”
 
@@ -1294,25 +1298,7 @@ c) 10 001 fő lakosságszám alatti település esetében: 235 000 forint/km.”
 
 „b) a nemzetiségi óvodai nevelést a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendeletben leírtakra figyelemmel szervezi meg.”
 
-34. A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 2. melléklete a következő 19a. ponttal egészül ki:
-
-„19a. 1.2.7. Diabétesz ellátási pótlék jogcím
-
-19a.1. A központi költségvetés támogatást biztosít az önkormányzatok által fenntartott óvodában az Nkt. 62. § (1b) bekezdése szerinti feladatot ellátó foglalkoztatottak 2021. szeptember – 2021. november hónapokra fizetendő diabétesz ellátási pótlékához és az ehhez kapcsolódó szociális hozzájárulási adóhoz.
-
-19a.2. A támogatás igénylése szempontjából a támogatással érintett foglalkoztatottak száma óvodai feladatellátási helyenként az ellátott 1-es típusú diabétesszel élő gyermekek számától függő számított foglalkoztatotti létszám, de legfeljebb a 2021. évben a feladatot ellátó ténylegesen foglalkoztatottak teljes munkaidőre átszámított átlagos száma, egy tizedesre kerekítve.
-
-19a.3. A számított foglalkoztatotti létszám meghatározása
-
-Fl = D/5
-
-ahol:
-
-Fl = adott évre számított, támogatással érintett foglalkoztatottak száma egész számra felfelé kerekítve,
-
-D = feladatellátási helyenként az ellátott 1-es típusú diabétesszel élő gyermekek létszáma.
-
-19a.4. Az év végi elszámolás a havonta a 19a.3. pont alapján számított létszám és a feladatot ellátó ténylegesen foglalkoztatottak – teljes munkaidőre átszámított – egy tizedesre kerekített átlagos száma alapján történik.”
+34.
 
 35. A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 2. melléklet 20.1.7. pontja helyébe a következő pont lép:
 
