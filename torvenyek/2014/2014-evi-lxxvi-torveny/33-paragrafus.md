@@ -1,4 +1,4 @@
-33. § (1) A költségvetési kutatóhelynek és közalapítványnak, valamint az állami és önkormányzati tulajdonban álló, kutatóhelynek minősülő közhasznú jogállású nonprofit gazdasági társaságnak szellemitulajdon-kezelési szabályzattal kell rendelkeznie.
+33. § (1) A költségvetési kutatóhelynek és közalapítványnak, a felsőoktatási intézménynek, valamint az állami és önkormányzati tulajdonban álló, kutatóhelynek minősülő közhasznú jogállású nonprofit gazdasági társaságnak szellemitulajdon-kezelési szabályzattal kell rendelkeznie.
 
 (2) A szellemitulajdon-kezelési szabályzatnak ki kell terjednie különösen
 
@@ -16,6 +16,6 @@ f) az a)–e) ponttal kapcsolatos felelősség és hatáskör telepítésére.
 
 (3) Az (1) bekezdés szerinti szervezet, ha több, a kutatás-fejlesztési alap-, illetve főtevékenységét megvalósító vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet is végző szervezeti egységet foglal magában, egyetlen szabályzatot készít, amelynek lehetnek az egyes szervezeti egységek sajátos feltételeinek megfelelő kiegészítései.
 
-(4) A szellemitulajdon-kezelési szabályzatot a költségvetési kutatóhely vezetője, közalapítvány esetében az irányító szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
+(4) A szellemitulajdon-kezelési szabályzatot a költségvetési kutatóhely vezetője, a felsőoktatási intézmény vezető testülete, közalapítvány esetében az irányító szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
 
-(5) A hasznosító vállalkozásban történő részesedésszerzést, a részesedés megszüntetését vagy mértéke csökkentését – az (1) bekezdés szerinti szabályzattal összhangban – a költségvetési kutatóhely vezetője, közalapítvány esetében a kezelő szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
+(5) A hasznosító vállalkozásban történő részesedésszerzést, a részesedés megszüntetését vagy mértéke csökkentését – az (1) bekezdés szerinti szabályzattal összhangban – a költségvetési kutatóhely vezetője, a felsőoktatási intézmény vezető testülete, közalapítvány esetében a kezelő szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.

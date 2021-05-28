@@ -10,7 +10,7 @@
 
 3. fizetett kutatás-fejlesztés: az egyik fél által végzett és egy finanszírozó fél által finanszírozott kutatás-fejlesztés, ahol a finanszírozó fél maga nem végez kutatás-fejlesztési tevékenységet,
 
-4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás hasznosítása céljából alapított gazdasági társaság, amely nem pénzbeli hozzájárulásként rendelkezésre bocsátás, átruházás vagy hasznosítási szerződés alapján vált a költségvetési kutatóhelyen létrehozott szellemi alkotáshoz fűződő jogok jogosultjává vagy hasznosítójává.
+4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás hasznosítása céljából alapított gazdasági társaság, amely nem pénzbeli hozzájárulásként rendelkezésre bocsátás, átruházás vagy hasznosítási szerződés alapján vált a költségvetési kutatóhelyen, valamint a felsőoktatási intézményben létrejött szellemi alkotáshoz fűződő jogok jogosultjává vagy hasznosítójává.
 
 5. hazai közfinanszírozású támogatás: a közfinanszírozású támogatások összessége az európai uniós források kivételével,
 
