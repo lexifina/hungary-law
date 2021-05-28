@@ -1,0 +1,1 @@
+100/B. § E törvénynek az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel megállapított rendelkezéseit a 2020. december 31-ét követően indult eljárásokban is alkalmazni kell.

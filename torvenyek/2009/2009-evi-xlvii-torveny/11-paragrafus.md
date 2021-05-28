@@ -32,7 +32,7 @@ i) a büntetés végrehajthatóságának elévülés okából történt megszűn
 
 j) a törvényi mentesítés várható időpontját;
 
-k) a külföldi ítélet elismerése, illetve – feltéve, hogy a bíróság a megfeleltetés során megállapította a bűncselekmény megnevezését és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését – az Európai Unió más tagállamában magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítélet (a továbbiakban: tagállami ítélet) megfeleltetése esetén
+k) a külföldi ítélet elismerése, illetve – feltéve, hogy a bíróság a megfeleltetés során megállapította a bűncselekmény megnevezését és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését – az Európai Unió más tagállamában vagy a Nagy-Britannia és Észak-Írország Egyesült Királyságában (a továbbiakban: Egyesült Királyság) magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítélet (a továbbiakban együtt: tagállami ítélet) megfeleltetése esetén
 
 ka) ennek tényét,
 

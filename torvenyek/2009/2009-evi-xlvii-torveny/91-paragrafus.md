@@ -10,4 +10,4 @@ d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, feld
 
 e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
-(2) Az Európai Unió más tagállama számára a tagállami ítéletek nyilvántartásából történő adattovábbításról az (1) bekezdés a)–c) pontja szerinti szervek igényelhetnek adatot.
+(2) Az Európai Unió más tagállama vagy az Egyesült Királyság számára a tagállami ítéletek nyilvántartásából történő adattovábbításról az (1) bekezdés a)–c) pontja szerinti szervek igényelhetnek adatot.
