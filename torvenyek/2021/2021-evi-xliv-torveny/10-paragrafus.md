@@ -1,0 +1,5 @@
+10. § A Kvtv. 41. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az Országgyűlés a köznevelési és szakképzési feladat ellátására)
+
+„a) átlagbéralapú támogatást állapít meg a nevelési-oktatási, szakképző, valamint pedagógiai szakszolgálati intézményt fenntartó nemzetiségi önkormányzat, az egyházi és magán köznevelési és szakképző intézmény fenntartója részére az általuk fenntartott nevelési-oktatási és szakképző intézményben, továbbá pedagógiai szakszolgálati intézményben pedagógus, oktató és – a (3) bekezdés kivételével – a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után a 8. melléklet 1.1. Átlagbéralapú támogatás jogcímen, az 1.2. Kiegészítő támogatás a pedagógusok minősítéséből adódó többletkiadásaihoz jogcímen, az 1.3. Kiegészítő támogatás a differenciált nemzetiségi pótlékhoz jogcímen, az 1.4. Pedagógus szakképzettséggel vagy szakképesítéssel nem rendelkező nevelő és oktató munkát közvetlenül segítők átlagbérének támogatása jogcímen, az 1.4.3. Diabétesz ellátási pótlék jogcímen meghatározott jogosultak után, az őket ott megillető mértékek szerint,”

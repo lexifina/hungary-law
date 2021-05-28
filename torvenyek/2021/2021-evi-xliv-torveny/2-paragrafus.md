@@ -1,0 +1,3 @@
+2. § A Kvtv. a következő 1/A. §-sal egészül ki:
+
+„1/A. § Az Országgyűlés megállapítja, hogy az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-ei 479/2009/EK tanácsi rendelet szerint benyújtott jelentésben (a továbbiakban: EDP jelentés) szereplő hiány (a továbbiakban: ESA-hiány) 2021. évre várható értéke GDP 7,5%-a.”
