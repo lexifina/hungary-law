@@ -38,20 +38,6 @@ való megfelelést szolgálja.
 
 (2) E törvény a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és a tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
 
-(2) A Ptk. 8:6. § (1) bekezdés o) pontja helyébe a következő rendelkezés lép és a bekezdés a következő p) ponttal egészül ki:
+(2)
 
-(E törvény:)
-
-„o) az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelvnek;
-
-p) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-(3) A Ptk. 8:6. § (1) bekezdése a következő q) ponttal egészül ki:
-
-(E törvény:)
-
-„q) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
+(3)

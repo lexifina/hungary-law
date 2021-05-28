@@ -1,5 +1,1 @@
-33. § A Kvtv. a 41. §-t követően a következő alcímmel egészül ki:
-
-„Európai uniós követelményekre utaló rendelkezések
-
-41/A. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+33. §
