@@ -1,0 +1,5 @@
+## 16. Záró rendelkezések
+
+60. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2–4. alcím és a 6–7. alcím 2021. július 1-jén lép hatályba.
