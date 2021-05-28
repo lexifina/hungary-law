@@ -2,7 +2,7 @@
 
 a) a táborozó
 
-aa) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét, személyi azonosítóját,
+aa) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét, valamint társadalombiztosítási azonosító jele vagy természetes személyazonosító adatai alapján álnevesítéssel kialakított belső azonosítóját,
 
 ab) a táborozási szolgáltatás általa történő igénybevételét befolyásolni tudó egészségi állapotára – így különösen betegségére, fogyatékosságára, tünetére, panaszára, allergiájára, érzékenységére, sajátos nevelési igényére – vonatkozó adatokat,
 
