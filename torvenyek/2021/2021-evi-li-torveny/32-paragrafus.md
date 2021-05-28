@@ -1,0 +1,3 @@
+32. § A Kvtv. 11. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A miniszter a névjegyzékből törölt személynek a törlés időpontjában – jogszabály alapján – nyilvántartott adatait a névjegyzékbe történő ismételt felvétel e törvény szerinti feltételeinek ellenőrzése, hatósági feladatainak ellátása, valamint a hatóságok igazságszolgáltatási feladatainak adatszolgáltatás nyújtásával történő elősegítése céljából kezelheti és azokat kizárólag az adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja. A névjegyzékből törölt személy tekintetében kezelt adatok törlése iránt a miniszter a névjegyzékből történő törlés időpontjától számított tíz év elteltével gondoskodik.”

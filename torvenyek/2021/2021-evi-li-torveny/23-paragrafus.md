@@ -1,0 +1,3 @@
+23. § Az Nbjt. a következő 86. §-sal egészül ki:
+
+„86. § Ez a törvény az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.”

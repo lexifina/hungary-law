@@ -1,0 +1,7 @@
+# 2021. évi LI. törvény egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-51-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2021-05-28 | 2021. évi LI. törvény | 2021-51-00-00.0 (közlönyállapot) |
