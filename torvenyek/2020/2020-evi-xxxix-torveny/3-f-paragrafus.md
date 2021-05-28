@@ -1,0 +1,1 @@
+3/F. § A 3/E. § (1) bekezdésében meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. augusztus 1. napjától a társasági részesedés felett a tulajdonosi jogokat gyakorolja.

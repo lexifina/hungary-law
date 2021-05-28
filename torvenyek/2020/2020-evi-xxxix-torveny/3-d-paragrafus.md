@@ -1,0 +1,1 @@
+3/D. § A 3/C. § (1) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló szervezet készíti elő és köti meg az Alapítvánnyal.
